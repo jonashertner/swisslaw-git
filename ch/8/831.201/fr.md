@@ -4,11 +4,11 @@ title: "Règlement du 17 janvier 1961 sur l'assurance-invalidité (RAI)"
 short: RAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20210101/fr"
 
 (RAI)**[^t-1]**
 
-du 17 janvier 1961 (Etat le 1<sup>er</sup> janvier 2021)
+du 17 janvier 1961 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. II 1 de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Selon cette disp., les tit. marginaux ont été remplacés par des tit. médians.
 
@@ -85,14 +85,11 @@ Les dispositions du chap. I et des art. 34 à 43 du règlement du 31 octobre 194
 
 **Communication**
 
-<sup>1</sup>
-
-Le cas d’un assuré peut être communiqué à l’office AI compétent en vertu de l’art. 40 en vue d’une détection précoce si l’assuré:
-
-- a. a présenté une incapacité de travail ininterrompue de 30 jours au moins, ou
-- b. s’est, pour des raisons de santé, absenté de manière répétée pour des périodes de courte durée pendant une année.
+<sup>1</sup> Le cas d’un assuré visé à l’art. 3*a*<sup>bis</sup>, al. 2, LAI peut être communiqué à l’office AI compétent en vertu de l’art. 40 en vue d’une détection précoce.[^1ter-1]
 
 <sup>2</sup> La personne ou l’institution habilitée selon l’art. 3*b*, al. 2, LAI à communiquer le cas d’un assuré en vue d’une détection précoce remplit le formulaire de communication.
+
+[^1ter-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 1<sup>quater</sup>
 
@@ -104,19 +101,9 @@ Le cas d’un assuré peut être communiqué à l’office AI compétent en vert
 
 #### Art. 1<sup>quinquies</sup>
 
-**Entretien de détection précoce**
+[^1quinquies-1]
 
-<sup>1</sup> L’office AI peut convoquer l’assuré à un entretien de détection précoce dont le but est d’évaluer si le dépôt d’une demande de prestations AI est indiqué.
-
-<sup>2</sup>
-
-L’entretien de détection précoce vise notamment à:
-
-- a. analyser la situation médicale, professionnelle et sociale de l’assuré;
-- b. informer l’assuré du but et de l’ampleur de l’enquête effectuée dans le cadre de la détection précoce;
-- c. déterminer les acteurs susceptibles de favoriser le maintien de la capacité de gain de l’assuré.
-
-<sup>3</sup> Le résultat de l’entretien de détection précoce est consigné par écrit.
+[^1quinquies-1]: Abrogé par le ch. I de l’O du 3 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 ## Chapitre I*b***** Mesures d’intervention précoce
 
@@ -128,7 +115,11 @@ L’entretien de détection précoce vise notamment à:
 
 **Principe**
 
-Les mesures d’intervention précoce prévues à l’art. 7*d*, al. 2, LAI peuvent être octroyées à l’assuré qui s’est annoncé à l’assurance-invalidité.
+<sup>1</sup> Les mesures d’intervention précoce prévues à l’art. 7*d*, al. 2, LAI peuvent être octroyées à l’assuré qui s’est annoncé à l’assurance-invalidité.
+
+<sup>2</sup> Pendant la scolarité obligatoire, les mesures prévues à l’art. 7*d*, al. 2, let. c et d, LAI peuvent être octroyées aux assurés si elles leur facilitent l’accès à une formation professionnelle initiale ou l’entrée sur le marché du travail.[^1sexies-1]
+
+[^1sexies-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 1<sup>septies</sup>
 
@@ -170,54 +161,193 @@ Il y a menace d’invalidité lorsqu’il est établi au degré de vraisemblance
 
 #### Art. 2
 
-**Genre des mesures**[^2-1]
+**Mesures médicales de réadaptation**[^2-1]
 
-<sup>1</sup> Sont considérés comme mesures médicales au sens de l’art. 12 LAI notamment les actes chirurgicaux, physiothérapeutiques et psychothérapeutiques qui visent à supprimer ou à atténuer les séquelles d’une infirmité congénitale, d’une maladie ou d’un accident – caractérisées par une diminution de la mobilité du corps, des facultés sensorielles ou des possibilités de contact – pour améliorer de façon durable et importante la capacité de gain ou la capacité d’accomplir des travaux habituels ou préserver cette capacité d’une diminution notable.[^2-2] Les mesures doivent être considérées comme indiquées dans l’état actuel des connaissances médicales et permettre de réadapter l’assuré d’une manière simple et adéquate.
+<sup>1</sup> Sont considérées comme mesures médicales au sens de l’art. 12 LAI notamment les traitements chirurgicaux, physiothérapeutiques et psychothérapeutiques. Elles visent directement la réadaptation au sens de l’art. 12, al. 3, LAI une fois l’affection en tant que telle traitée et l’état de santé stabilisé.
 
-<sup>2</sup> En cas de paralysie et d’autres troubles fonctionnels de la motricité, les mesures médicales prévues à l’al. 1 sont prises en charge à partir du moment où, dans l’état actuel des connaissances médicales, le traitement de l’affection causale est généralement considéré comme achevé ou n’a plus qu’une importance secondaire. En cas de paralysie transverse de la moelle épinière et de poliomyélite, ce moment est réputé survenu, en règle générale, quatre semaines après le début de la paralysie.[^2-3]
+<sup>2</sup>
 
-<sup>3</sup> En cas de paralysie et d’autres troubles fonctionnels de la motricité, le droit à la physiothérapie, appliquée dans le cadre des mesures médicales décrites à l’al. 1, dure aussi longtemps que, grâce à elle, la fonction motrice dont dépend la capacité de gain ou la capacité d’accomplir des travaux habituels peut être améliorée.[^2-4]
+Les mesures médicales de réadaptation qui ne répondent pas aux principes de l’art. 14, al. 2, LAI peuvent aussi être prises en charge par l’assurance-invalidité:
 
-<sup>4</sup> Ne sont pas considérés comme mesures médicales au sens de l’art. 12 LAI, notamment, les traitements de blessures, d’infections et de maladies internes ou parasitaires.[^2-5]
+- a. s’il s’agit d’un cas présentant un potentiel de réadaptation particulièrement élevé, et
+- b. si les mesures de réadaptation permettent de réaliser des économies supérieures aux coûts des mesures médicales de réadaptation.
 
-<sup>5</sup> Si les soins sont donnés dans un établissement, l’assurance prend également en charge les actes ressortissant au traitement de l’affection comme telle, aussi longtemps que le séjour dans cet établissement sert principalement à l’exécution de mesures de réadaptation.[^2-6]
+<sup>3</sup> Une mesure médicale de réadaptation doit être demandée auprès de l’office AI compétent avant le début du traitement au sens de l’art. 12 LAI. L’art. 48 LAI demeure réservé. Un pronostic favorable concernant la réadaptation, établi avant le début du traitement par le médecin traitant spécialisé, doit être joint à la demande.
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’ACF du 15 janv. 1968, en vigueur depuis le 1<sup>er</sup> janv. 1968 ([RO 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)).
-[^2-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^2-3]: Nouvelle teneur de la 2<sup>e</sup> phrase selon le ch. I de l’O du 29 nov. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)).
-[^2-4]: Introduit par le ch. II 1 de l’O du 11 oct. 1972 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^2-5]: Anciennement al. 3.
-[^2-6]: Anciennement al. 4.
+<sup>4</sup> La nature, la durée et l’étendue d’une mesure médicale de réadaptation sont fixées dans la décision d’octroi, de même que le fournisseur de prestations. La durée ne peut pas dépasser deux ans. La mesure médicale de réadaptation peut être prolongée.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 2<sup>bis</sup>
+
+**Poursuite de mesures médicales de réadaptation après l’âge de 20 ans**[^2bis-1]
+
+<sup>1</sup>
+
+Les mesures d’ordre professionnel visées aux art. 15 à 18*c* LAI sont considérées comme pas encore terminées au sens de l’art. 12, al. 2, LAI:
+
+- a. lorsqu’une nouvelle mesure d’ordre professionnel au sens des art. 15 à 18*c* LAI a été octroyée avant la fin de la précédente, ou
+- b. lorsqu’une autre mesure d’ordre professionnel au sens des art. 15 à 18*c* LAI est prévisible et que le potentiel de réadaptation de l’assuré n’est pas encore épuisé.
+
+<sup>2</sup> Si aucune mesure d’ordre professionnel au sens de l’al. 1, let. b, n’est octroyée dans les six mois suivant l’achèvement ou l’interruption de la dernière mesure d’ordre professionnel, les coûts des mesures médicales de réadaptation peuvent être pris en charge pendant six mois au plus après l’achèvement ou l’interruption de la dernière mesure d’ordre professionnel.
+
+[^2bis-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 2<sup>ter</sup>
+
+**Précision de notions au sens de l’art. 12 LAI**[^2ter-1]
+
+Les notions suivantes au sens de l’art. 12 LAI sont précisées comme suit:
+
+- a. *formation professionnelle initiale:* toute formation professionnelle initiale, qu’elle soit ou non financée par l’assurance-invalidité;
+- b. *capacité à fréquenter l’école:* capacité à fréquenter une école ordinaire, une école spéciale ou une école privée;
+- c. *capacité à exercer une activité lucrative:* capacité à exercer un emploi sur les marchés primaire ou secondaire du travail.
+
+[^2ter-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 3
 
-**Infirmités congénitales**
+**Infirmités congénitales**[^3-1]
 
-La liste des infirmités congénitales prévue à l’art. 13 LAI fait l’objet d’une ordonnance spéciale.
+<sup>1</sup>
+
+Les notions suivantes au sens de l’art. 13, al. 2, LAI sont précisées comme suit:
+
+- a. *malformation congénitale:* malformation d’organes ou de membres présente à la naissance;
+- b. *maladie génétique:* affection due à une modification du patrimoine génétique, soit une mutation ou une anomalie génétique;
+- c. *affection prénatale et périnatale:* affection qui existait déjà au moment de la naissance ou qui est apparue au plus tard sept jours après;
+- d. *affection qui engendre une atteinte à la santé:* affection entraînant des limitations ou des troubles fonctionnels physiques ou mentaux;
+- e. *affection qui présente un certain degré de gravité:* affection qui, sans traitement, entraîne des limitations fonctionnelles durables ne pouvant plus être complètement corrigées;
+- f. *traitement de longue durée:* traitement durant plus d’une année;
+- g. *traitement complexe:* traitement nécessitant l’intervention commune d’au moins deux disciplines médicales;
+- h. *affection qui peuvent être traitées:* affection dont l’évolution peut être influencée favorablement par les mesures médicales visées à l’art. 14 LAI pour le traitement de l’infirmité congénitale.
+
+<sup>2</sup> La simple prédisposition à une maladie n’est pas réputée infirmité congénitale.
+
+<sup>3</sup> Le moment où une infirmité congénitale est reconnue comme telle n’est pas déterminant.
+
+<sup>4</sup> La nature, la durée et l’étendue d’une mesure médicale au sens de l’art. 13 LAI sont fixées dans la décision d’octroi, de même que le fournisseur de prestations.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 3<sup>bis</sup>
 
-**Séjour en établissement hospitalier ou de cure dans des cas spéciaux**[^3bis-1]
+**Liste des infirmités congénitales**[^3bis-1]
 
-Si le séjour en établissement hospitalier ou de cure sert à l’exécution simultanée de mesures médicales et d’autres mesures et que l’assurance les prenne à sa charge, elle assume les frais de nourriture et de logement, à condition toutefois que les mesures médicales soient exécutées dans un tel établissement.
+<sup>1</sup> En vertu de l’art. 14<sup>ter</sup>, al. 1, let. b, LAI, le Département fédéral de l’intérieur (DFI) dresse la liste des infirmités congénitales donnant droit à des mesures médicales en vertu de l’art. 13 LAI.
 
-[^3bis-1]: Introduit par le ch. I de l’O du 29 nov. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)).
+<sup>2</sup> Il peut édicter des prescriptions détaillées concernant la liste.
+
+[^3bis-1]: Introduit par le ch. I de l’O du 29 nov. 1976 ([RO 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)). Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 3<sup>ter</sup>
 
-**Nourriture et logement ailleurs qu’en établissement hospitalier ou de cure**[^3ter-1]
+**Début et durée des mesures médicales pour le traitement des infirmités congénitales**[^3ter-1]
 
-Si les mesures médicales entraînent des frais de nourriture et de logement ailleurs qu’en établissement hospitalier ou de cure, l’assurance octroie les prestations selon l’art. 90, al. 3 et 4. Les conventions tarifaires sont réservées (art. 24, al. 2).
+<sup>1</sup> Le droit au traitement d’une infirmité congénitale s’ouvre avec la mise en œuvre de mesures médicales, mais au plus tôt après la naissance accomplie de l’enfant.
 
-[^3ter-1]: Introduit par le ch. I de l’O du 29 nov. 1976 ([RO 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)). Nouvelle teneur selon le ch. I de l’O du 27 sept. 1993, en vigueur depuis le 1<sup>er</sup> janv. 1994 ([RO 1993 2925](https://fedlex.data.admin.ch/eli/oc/1993/2925_2925_2925)).
+<sup>2</sup> Il s’éteint à la fin du mois au cours duquel l’assuré atteint l’âge de 20 ans.
+
+[^3ter-1]: Introduit par le ch. I de l’O du 29 nov. 1976 ([RO 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)). Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 3<sup>quater</sup>
 
-**Prise en charge des traitements stationnaires hospitaliers**[^3quater-1]
+[^3quater-1]
 
-Les frais des traitements visés à l’art. 14<sup>bis</sup> LAI sont pris en charge conformément au tarif applicable à l’hôpital dans lequel le traitement est entrepris.
+[^3quater-1]: Introduit par le ch. I de l’O du 10 oct. 2012 ([RO 2012 5561](https://fedlex.data.admin.ch/eli/oc/2012/645)). Abrogé par le ch. I de l’O du 3 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
-[^3quater-1]: Introduit par le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5561](https://fedlex.data.admin.ch/eli/oc/2012/645)).
+#### Art. 3<sup>quinquies</sup>
+
+**Prestations de soins fournies sous forme ambulatoire**[^3quinquies-1]
+
+<sup>1</sup> Sont considérées comme prestations de soins fournies sous forme ambulatoire au sens de l’art. 14, al. 1, let. b, LAI les mesures prises par du personnel soignant à des fins d’évaluation, de conseil et de coordination ainsi que d’examen et de traitement de l’assuré.
+
+<sup>2</sup> Les traitements effectués dans un hôpital ou un établissement médico-social (EMS) ne sont pas considérés comme des prestations de soins fournies sous forme ambulatoire au sens de l’art. 14, al. 1, let. b, LAI.
+
+<sup>3</sup> Si l’état de santé de l’assuré nécessite une surveillance de longue durée dans le cadre de la mise en œuvre d’une mesure d’examen et de traitement, l’assurance-invalidité rembourse les prestations fournies par du personnel soignant jusqu’à 16 heures par jour. L’Office fédéral des assurances sociales (OFAS) règle les cas dans lesquels un remboursement supplémentaire est indiqué.
+
+<sup>4</sup> Le DFI édicte des dispositions d’exécution réglant le contenu et l’étendue des prestations de soins fournies sous forme ambulatoire.
+
+[^3quinquies-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 3<sup>sexies</sup>
+
+**Liste des spécialités en matière d’infirmités congénitales**[^3sexies-1]
+
+<sup>1</sup> En vertu de l’art. 14<sup>ter</sup>, al. 5, LAI, l’Office fédéral de la santé publique (OFSP) établit, après consultation de la Commission fédérale des médicaments au sens de l’art. 37*e* de l’ordonnance du 27 juin 1995 sur l’assurance-maladie (OAMal)[^3sexies-2], la liste des médicaments destinés au traitement des infirmités congénitales (liste des spécialités en matière d’infirmités congénitales).
+
+<sup>2</sup>
+
+Un médicament est ajouté à la liste des spécialités en matière d’infirmités congénitales:
+
+- a. lorsqu’il est exclusivement indiqué pour le traitement des infirmités congénitales visées à l’art. 3<sup>bis</sup>, al. 1, et
+- b. lorsqu’il commence à être utilisé avant l’âge de 20 ans dans la plupart des cas.
+
+<sup>3</sup> Les dispositions d’exécution de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^3sexies-3] concernant la liste des spécialités sont applicables par analogie, à moins que le présent règlement n’en dispose autrement.
+
+<sup>4</sup> Si les conditions de l’entrée en matière sur une demande au sens de l’art. 69, al. 4, OAMal sont remplies avant que l’Institut suisse des produits thérapeutiques ne délivre l’autorisation définitive, l’OFSP rend sa décision concernant la demande dans un délai raisonnable une fois l’autorisation en question délivrée.
+
+[^3sexies-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^3sexies-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^3sexies-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+
+#### Art. 3<sup>septies</sup>
+
+**Remboursement des recettes supplémentaires**[^3septies-1]
+
+<sup>1</sup> Si le prix de fabrique d’un médicament, sur la base duquel le prix maximum est fixé au moment de son ajout dans la liste des spécialités en matière d’infirmités congénitales, dépasse de plus de 3 % le prix de fabrique calculé lors de l’examen du caractère économique, et si les recettes supplémentaires ainsi réalisées s’élèvent à 20 000 francs au moins, le titulaire de l’autorisation est tenu de reverser ses recettes supplémentaires au Fonds de compensation de l’AI visé à l’art. 79 LAI.
+
+<sup>2</sup>
+
+Le titulaire de l’autorisation est en outre tenu de rembourser au Fonds de compensation de l’AI les recettes supplémentaires qu’il a obtenues:
+
+- a. pendant la durée d’une procédure de recours, pour autant qu’il y ait une différence entre le prix applicable durant la procédure en question et le nouveau prix entré en force au terme de celle-ci, et que le titulaire de l’autorisation ait dégagé des recettes supplémentaires grâce à cette différence de prix;
+- b. pendant les deux années suivant la baisse du prix de fabrique due à l’extension des indications ou à la modification de la limitation au sens de l’art. 65*f*, al. 2, 1<sup>re</sup> phrase, OAMal[^3septies-2], pour autant que le chiffre d’affaires supplémentaire effectivement réalisé ait été supérieur au chiffre d’affaires supplémentaire estimé lors de la baisse du prix.
+
+[^3septies-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^3septies-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+
+#### Art. 3<sup>octies</sup>
+
+**Remboursement des coûts liés à la liste des spécialités en matière d’infirmités congénitales**[^3octies-1]
+
+L’OFSP peut facturer annuellement au Fonds de compensation de l’AI les coûts liés à la liste des spécialités en matière d’infirmités congénitales qui ne sont pas couverts par des honoraires.
+
+[^3octies-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 3<sup>novies</sup>
+
+**Analyses, médicaments, et moyens et appareils diagnostiques ou thérapeutiques**[^3novies-1]
+
+<sup>1</sup>
+
+Pour autant qu’ils figurent sur les listes visées à l’art. 52, al. 1, LAMal[^3novies-2], l’assurance-invalidité rembourse:
+
+- a. les spécialités pharmaceutiques et les médicaments confectionnés;
+- b. les produits et les substances actives et auxiliaires employés pour la prescription magistrale;
+- c. les analyses de laboratoire, et
+- d. les moyens et appareils diagnostiques ou thérapeutiques.
+
+<sup>2</sup>
+
+Elle rembourse aussi:
+
+- a. les médicaments destinés au traitement des infirmités congénitales au sens de l’art. 3<sup>sexies</sup>;
+- b. les mesures diagnostiques servant au diagnostic ou au traitement d’une infirmité congénitale et de ses séquelles.
+
+[^3novies-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^3novies-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+
+#### Art. 3<sup>decies</sup>
+
+**Remboursement de médicaments dans des cas particuliers**[^3decies-1]
+
+<sup>1</sup> Pour le remboursement des médicaments au sens de l’art. 14<sup>ter</sup>, al. 3, LAI, les dispositions d’exécution de la LAMal[^3decies-2] relatives au remboursement de médicaments dans des cas particuliers s’appliquent par analogie, à moins que le présent règlement n’en dispose autrement.
+
+<sup>2</sup> L’office AI rend dans un délai raisonnable une décision concernant les demandes de remboursement des médicaments dans des cas particuliers. L’OFAS définit dans des directives les cas où il doit être préalablement consulté.
+
+[^3decies-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^3decies-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 4
 
@@ -227,11 +357,9 @@ Les frais des traitements visés à l’art. 14<sup>bis</sup> LAI sont pris en c
 
 #### Art. 4<sup>bis</sup>
 
-**Analyses et médicaments**[^4bis-1]
+[^4bis-1]
 
-L’assurance prend à sa charge les analyses, les médicaments et les spécialités pharmaceutiques qui sont indiqués dans l’état actuel des connaissances médicales et permettent de réadapter l’assuré d’une manière simple et adéquate.
-
-[^4bis-1]: Introduit par le ch. I de l’O du 7 juil. 1982 ([RO 1982 1284](https://fedlex.data.admin.ch/eli/oc/1982/1284_1284_1284)). Nouvelle teneur selon le ch. I de l’O du 21 janv. 1987, en vigueur depuis le 1<sup>er</sup> juil. 1987 ([RO 1987 456](https://fedlex.data.admin.ch/eli/oc/1987/456_456_456)).
+[^4bis-1]: Introduit par le ch. I de l’O du 7 juil. 1982 ([RO 1982 1284](https://fedlex.data.admin.ch/eli/oc/1982/1284_1284_1284)). Abrogé par le ch. I de l’O du 3 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 4<sup>ter</sup>
 
@@ -251,27 +379,33 @@ Lorsqu’un enfant au sens de l’art. 9, al. 3, let. b, LAI, est né invalide �
 
 **Droit**
 
-<sup>1</sup> Ont droit aux mesures de réinsertion préparant à la réadaptation professionnelle les assurés qui sont capables de participer à ces mesures au moins deux heures par jour pendant au moins quatre jours par semaine.[^4quater-1]
+<sup>1</sup> Ont droit aux mesures de réinsertion préparant à la réadaptation professionnelle les assurés capables d’y participer au moins huit heures par semaine.[^4quater-1]
 
 <sup>2</sup> Ont droit aux mesures socioprofessionnelles les assurés qui ne sont pas encore aptes pour bénéficier de mesures d’ordre professionnel.
 
 <sup>3</sup> Ont droit aux mesures d’occupation les assurés qui risquent de perdre leur aptitude à la réadaptation en rapport avec les mesures d’ordre professionnel.
 
-[^4quater-1]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
+[^4quater-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 4<sup>quinquies</sup>
 
-**Genre des mesures**
+**Genre des mesures**[^4quinquies-1]
 
-<sup>1</sup> Sont considérées comme mesures socioprofessionnelles les mesures d’accoutumance au processus de travail, de stimulation de la motivation au travail, de stabilisation de la personnalité et de socialisation de base.
+<sup>1</sup> Sont considérées comme mesures socioprofessionnelles les mesures d’accoutumance au processus de travail, de stimulation de la motivation au travail, de stabilisation de la personnalité, de socialisation de base et de développement de la capacité de travail.
 
-<sup>2</sup> Sont considérées comme mesures d’occupation les mesures destinées à maintenir une structuration de la journée jusqu’à la mise en œuvre de mesures d’ordre professionnel ou jusqu’au début de rapports de travail sur le marché libre du travail.
+<sup>2</sup> Sont considérées comme mesures d’occupation les mesures destinées à maintenir une structure régulière de la journée et la capacité de travail jusqu’à la mise en œuvre de mesures d’ordre professionnel ou jusqu’au début de rapports de travail sur le marché primaire du travail.
+
+<sup>3</sup> Pour les assurés visés à l’art. 14*a*, al. 1, let. b, LAI, les mesures au sens des al. 1 et 2 doivent viser spécifiquement la réadaptation professionnelle après la scolarité obligatoire.
+
+<sup>4</sup> Les buts et la durée de toutes les mesures de réinsertion sont fixés en fonction des aptitudes de l’assuré. Les mesures sont si possible effectuées en totalité ou en partie sur le marché primaire du travail.
+
+[^4quinquies-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 4<sup>sexies</sup>
 
 **Durée des mesures**
 
-<sup>1</sup> Une année de mesures de réinsertion correspond à 230 jours de mesures. Les jours de mesures sont des jours ouvrables.
+<sup>1</sup> La durée des mesures de réinsertion d’un an au sens de l’art. 14*a*, al. 3, LAI correspond à 230 jours de travail durant lesquels l’assuré participe à une mesure.[^4sexies-1]
 
 <sup>2</sup> Si, pour des raisons de santé, l’assuré ne peut suivre les mesures pendant plus de 30 jours civils consécutifs, les jours de mesures concernés ne sont pas déduits.
 
@@ -279,25 +413,37 @@ Lorsqu’un enfant au sens de l’art. 9, al. 3, let. b, LAI, est né invalide �
 
 Les mesures de réinsertion s’achèvent en particulier lorsque:
 
-- a. le but fixé est atteint;
+- a.[^4sexies-2] le but fixé est atteint ou ne peut pas être atteint;
 - b. des mesures de réadaptation plus appropriées s’imposent, ou que
 - c. la poursuite des mesures de réinsertion ne peut, pour des raisons d’ordre médical, être raisonnablement exigée.
 
-<sup>4</sup> Les mesures socioprofessionnelles sont interrompues si l’assuré ne parvient plus à accroître son temps de présence ou ses performances.
+<sup>4</sup> ...[^4sexies-3]
 
-<sup>5</sup> Les mesures de réinsertion peuvent être prolongées à titre exceptionnel si elles sont nécessaires pour atteindre l’aptitude à la réadaptation en rapport avec les mesures d’ordre professionnel.[^4sexies-1]
+<sup>5</sup>
 
-<sup>6</sup> L’assurée qui a suivi des mesures de réinsertion pendant une durée de deux ans au total n’a plus droit à de telles mesures.
+Après une année, une mesure de réinsertion peut être prolongée d’une année supplémentaire au maximum:
 
-[^4sexies-1]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
+- a. si la prolongation est nécessaire pour atteindre l’aptitude à la réadaptation en rapport avec les mesures d’ordre professionnel, et
+- b. si une partie au moins de la mesure prolongée est effectuée sur le marché primaire du travail.[^4sexies-4]
+
+<sup>6</sup>
+
+L’assuré qui a suivi une mesure de réinsertion pendant deux ans au total a droit à nouveau à une telle mesure uniquement:
+
+- a. s’il a entrepris, entre la dernière mesure de réinsertion dont il a bénéficié et la nouvelle mesure demandée, tout ce qui peut raisonnablement être exigé de lui en vue de sa réinsertion professionnelle;
+- b. si son état de santé s’est amélioré ou détérioré.[^4sexies-5]
+
+[^4sexies-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^4sexies-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^4sexies-3]: Abrogé par le ch. I de l’O du 3 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^4sexies-4]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^4sexies-5]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 4<sup>septies</sup>
 
-**Suivi des mesures**
+[^4septies-1]
 
-<sup>1</sup> L’office AI assure le suivi de l’assuré et vérifie, sur la base du plan de réadaptation (art. 70, al. 2), s’il a atteint les objectifs intermédiaires.
-
-<sup>2</sup> Si des mesures de réinsertion sont mises en œuvre au poste occupé jusque-là par l’assuré, l’office AI soutient et accompagne l’employeur en se fondant sur le plan de réadaptation.
+[^4septies-1]: Abrogé par le ch. I de l’O du 3 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 4<sup>octies</sup>
 
@@ -307,7 +453,7 @@ Les mesures de réinsertion s’achèvent en particulier lorsque:
 
 <sup>2</sup> La Centrale de compensation verse la contribution directement à l’employeur lorsque les mesures de réinsertion sont achevées. À la demande de celui-ci, la contribution peut également être versée périodiquement.
 
-[^4octies-1]: Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^4octies-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 4<sup>novies</sup>
 
@@ -315,55 +461,120 @@ Les mesures de réinsertion s’achèvent en particulier lorsque:
 
 Les art. 4<sup>quater</sup> et 4<sup>sexies</sup>, al. 1, 2, 5 et 6, ne s’appliquent pas à la nouvelle réadaptation des bénéficiaires de rente visée à l’art. 8*a* LAI.
 
-[^4novies-1]: Introduit par le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^4novies-1]: Introduit par le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 ### B. Les mesures d’ordre professionnel
+
+#### Art. 4a
+
+**Orientation professionnelle**[^4a-1]
+
+<sup>1</sup>
+
+Une orientation professionnelle au sens de l’art. 15 LAI peut se composer des éléments suivants:
+
+- a. des entretiens de conseil, des analyses et des tests diagnostiques réalisés par des professionnels;
+- b. des mesures préparatoires à l’entrée en formation au sens de l’art. 15, al. 1, LAI;
+- c. des mesures d’examen approfondi de professions possibles au sens de l’art. 15, al. 2, LAI.
+
+<sup>2</sup> Sont considérées comme mesures au sens de l’al. 1, let. b, les mesures proches du marché du travail se déroulant après l’école obligatoire, dans des entreprises du marché primaire du travail ou en institution et visant à déterminer les aptitudes et les envies de l’assuré en matière de formations et à initier celui-ci aux exigences du marché primaire du travail. Ces mesures sont limitées à douze mois.
+
+<sup>3</sup> Sont considérées comme mesures au sens de l’al. 1, let. c, les mesures se déroulant dans des entreprises du marché primaire du travail ou en institution et visant à déterminer les aptitudes et les envies de l’assuré concernant les professions et activités possibles. Ces mesures sont limitées à trois mois au total. En l’absence des connaissances nécessaires au choix de la profession ou de l’activité, les mesures peuvent être prolongées de trois mois au plus.
+
+<sup>4</sup>
+
+Les objectifs et la durée des mesures visées aux al. 2 et 3 sont fixées individuellement en fonction des aptitudes de l’assuré. La mesure est interrompue en particulier:
+
+- a. lorsque le but est atteint ou ne peut pas être atteint;
+- b. lorsqu’une mesure de réadaptation plus appropriée s’impose;
+- c. lorsque la poursuite de la mesure ne peut, pour des raisons d’ordre médical, être raisonnablement exigée.
+
+[^4a-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 5
 
 **Formation professionnelle initiale**[^5-1]
 
-<sup>1</sup> Sont réputées formation professionnelle initiale toute formation professionnelle initiale au sens de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^5-2], ainsi que la fréquentation d’écoles supérieures, professionnelles ou universitaires faisant suite aux classes de l’école publique ou spéciale fréquentées par l’assuré, de même que la préparation professionnelle à un travail auxiliaire ou à une activité en atelier protégé.[^5-3]
+<sup>1</sup>
 
-<sup>2</sup> Les frais de formation professionnelle initiale ou de perfectionnement sont réputés beaucoup plus élevés lorsqu’à cause de l’invalidité, la différence entre ces frais et ceux qu’aurait l’assuré pour sa formation s’il n’était pas invalide dépasse un montant annuel de 400 francs.[^5-4]
+Est réputée formation professionnelle initiale après l’achèvement de la scolarité obligatoire:
 
-<sup>3</sup> Le montant des frais de formation supplémentaires se calcule en comparant les frais supportés par la personne invalide avec ceux qu’une personne non atteinte dans sa santé devrait probablement assumer pour atteindre le même objectif professionnel. Lorsque l'assuré a reçu un début de formation professionnelle avant d'être invalide, les frais de cette formation seront pris comme terme de comparaison; on procédera de même lorsque, non invalide, l'assuré aurait reçu manifestement une formation moins coûteuse que celle qu'on se propose de lui donner.[^5-5]
+- a. toute formation professionnelle initiale au sens de la loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFPr)[^5-2];
+- b. la fréquentation d’une école supérieure, professionnelle ou universitaire;
+- c. la préparation professionnelle à un travail auxiliaire ou à une activité en atelier protégé.
 
-<sup>4</sup> Font partie des frais reconnus par l’assurance, dans les limites de l’al. 3, les dépenses faites pour acquérir les connaissances et l’habileté nécessaires, les frais d’acquisition d’outils personnels et de vêtements professionnels ainsi que les frais de transport.[^5-6]
+<sup>2</sup>
 
-<sup>5</sup> Si l’assuré est placé, en raison de son invalidité, dans un centre de formation, l’assurance prend en charge les frais de nourriture et de logement.[^5-7]
+La préparation ciblée à la formation professionnelle initiale est considérée comme faisant partie de cette formation si:
 
-<sup>6</sup>
+- a. le contrat d’apprentissage a été signé;
+- b. la demande d’inscription dans une école supérieure a été déposée;
+- c. le début de la préparation spécifique à la profession qui est nécessaire à la formation professionnelle initiale a été fixé.
 
-Si l’assuré a des frais supplémentaires du fait qu’il doit loger et prendre ses repas hors de chez lui et ailleurs que dans un centre de formation, l’assurance prend en charge, sous réserve des conventions conclues (art. 24, al. 2):[^5-8]
+<sup>3</sup>
 
-- a. pour la nourriture, les prestations visées à l’art. 90, al. 4, let. a et b;
-- b. pour le logement, les frais nécessaires et attestés jusqu’à concurrence de la prestation visée à l’art. 90, al. 4, let. c.[^5-9]
+Dans des cas particuliers, la formation professionnelle initiale peut être considérée comme non achevée:
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’ACF du 15 janv. 1968, en vigueur depuis le 1<sup>er</sup> janv. 1968 ([RO 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)).
+- a. lorsqu’une formation professionnelle initiale au sens de la LFPr est achevée sur le marché secondaire du travail, si les aptitudes de l’assuré lui permettent de suivre une formation professionnelle initiale au sens de la LFPr à un niveau de formation plus élevé sur le marché primaire du travail.
+- b. lorsqu’une mesure au sens de l’art. 16, al. 3, let. c, LAI est achevée, si les aptitudes de l’assuré lui permettent de suivre une formation au sens de la LFPr sur le marché primaire du travail.
+
+<sup>4</sup> La préparation à un travail auxiliaire ou à une activité en atelier protégé doit autant que possible s’inspirer de la LFPr. Elle doit, si possible, se dérouler sur le marché primaire du travail.
+
+<sup>5</sup> L’octroi d’une mesure de formation pratique au sens de l’art. 16, al. 3, let. c, LAI vaut pour la durée de la formation en question.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^5-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^5-3]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
-[^5-4]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 1980, en vigueur depuis le 1<sup>er</sup> janv. 1981 ([RO 1980 1972](https://fedlex.data.admin.ch/eli/oc/1980/1972_1972_1972)).
-[^5-5]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
-[^5-6]: Introduit par le ch. I de l’O du 29 nov. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)).
-[^5-7]: Introduit par le ch. I de l’O du 29 nov. 1976 ([RO 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)). Nouvelle teneur selon le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 3038](https://fedlex.data.admin.ch/eli/oc/1997/3038_3038_3038)).
-[^5-8]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
-[^5-9]: Introduit par le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 3038](https://fedlex.data.admin.ch/eli/oc/1997/3038_3038_3038)).
 
 #### Art. 5<sup>bis</sup>
 
-**Perfectionnement professionnel**[^5bis-1]
+**Frais supplémentaires dus à l’invalidité**[^5bis-1]
 
-<sup>1</sup> Lors d’un perfectionnement professionnel, les frais supplémentaires supportés par l’assuré en raison de son invalidité sont pris en charge par l’assurance s’ils atteignent au moins de 400 francs par année.
+<sup>1</sup>
+
+L’assuré qui n’a pas encore achevé sa formation professionnelle a droit au remboursement des frais de formation supplémentaires dus à l’invalidité:
+
+- a. lorsqu’il n’a pas encore tiré un revenu déterminant d’une activité lucrative équivalent à au moins trois quarts de la rente minimale visée à l’art. 34, al. 5, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^5bis-2], ou
+- b. lorsqu’il a exercé un travail auxiliaire sans formation pendant moins de six mois.
+
+<sup>2</sup> Lorsque l’assuré a débuté une formation avant d’être invalide ou si, sans invalidité, il aurait manifestement pu achever une formation moins coûteuse, les frais de cette formation servent de base de comparaison pour le calcul des frais supplémentaires dus à l’invalidité.
+
+<sup>3</sup> Sont considérés comme des frais supplémentaires dus à l’invalidité les frais qu’une personne invalide, comparés à ceux d’une personne non invalide, doit assumer dans le cadre d’une formation professionnelle initiale ou d’une formation continue en raison de son invalidité.
+
+<sup>4</sup> Les frais supplémentaires sont considérés comme importants s’ils s’élèvent au moins à 400 francs par an.
+
+<sup>5</sup>
+
+Font partie des frais supplémentaires dus à l’invalidité:
+
+- a. les dépenses faites pour acquérir les connaissances et l’habileté nécessaires;
+- b. les frais d’acquisition d’outils personnels et de vêtements professionnels;
+- c. les frais de transport.
+
+<sup>6</sup> Si l’assuré est placé, en raison de son invalidité, dans un centre de formation, l’assurance-invalidité prend en charge les frais de nourriture et de logement.
+
+<sup>7</sup>
+
+Si l’assuré a des frais supplémentaires du fait qu’il doit loger et prendre ses repas hors de chez lui et ailleurs que dans un centre de formation, l’assurance-invalidité prend en charge, sous réserve des conventions conclues (art. 24, al. 2):
+
+- a. pour la nourriture, les montants visés à l’art. 90, al. 4, let. a et b;
+- b. pour le logement, les frais nécessaires et attestés jusqu’à concurrence du montant visé à l’art. 90, al. 4, let. c.
+
+[^5bis-1]: Introduit par le ch. I de l’O du 21 mai 2003 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)). Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^5bis-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 5<sup>ter</sup>
+
+**Perfectionnement professionnel**[^5ter-1]
+
+<sup>1</sup> Lors d’un perfectionnement professionnel, les frais supplémentaires supportés par l’assuré en raison de son invalidité sont pris en charge par l’assurance-invalidité s’ils atteignent au moins 400 francs par année.
 
 <sup>2</sup> Le montant des frais supplémentaires se calcule en comparant les frais supportés par la personne invalide avec ceux qu’une personne non atteinte dans sa santé devrait probablement assumer pour la même formation.
 
 <sup>3</sup> Font partie des frais reconnus par l’assurance, dans les limites de l’al. 2, les dépenses faites pour acquérir les connaissances et l’habileté nécessaires, les frais d’acquisition d’outils personnels et de vêtements professionnels, les frais de transport ainsi que les frais de logement et de nourriture hors domicile découlant de l’invalidité.
 
-<sup>4</sup> Le remboursement des frais de logement et de nourriture hors domicile se détermine, sous réserve des conventions conclues, d’après l’art. 5, al. 6, let. a et b.[^5bis-2]
+<sup>4</sup> Le remboursement des frais de logement et de nourriture hors domicile se détermine, sous réserve des conventions conclues, d’après l’art. 5<sup>bis</sup>, al. 7.
 
-[^5bis-1]: Introduit par le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^5bis-2]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
+[^5ter-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 6
 
@@ -373,7 +584,7 @@ Si l’assuré a des frais supplémentaires du fait qu’il doit loger et prendr
 
 <sup>1bis</sup> Sont également considérées comme un reclassement les mesures de formation aboutissant à une formation plus qualifiante que celle dont dispose l’assuré, à condition qu’elles soient nécessaires pour maintenir ou améliorer sa capacité de gain.[^6-3]
 
-<sup>2</sup> Lorsqu’une formation initiale a dû être interrompue en raison de l’invalidité de l’assuré, une nouvelle formation professionnelle est assimilée à un reclassement, si le revenu acquis en dernier lieu par l’assuré durant la formation interrompue était supérieur à l’indemnité journalière prévue par l’art. 23, al. 2, LAI.[^6-4]
+<sup>2</sup> Lorsqu’une formation professionnelle initiale a dû être interrompue en raison de l’invalidité de l’assuré, une nouvelle formation professionnelle est assimilée à un reclassement si le revenu acquis en dernier lieu par l’assuré durant la formation interrompue s’élevait à au moins 30 % du montant maximal visé à l’art. 24, al. 1, LAI.[^6-4]
 
 <sup>3</sup> L’assuré qui a droit au reclassement est défrayé par l’assurance de ses frais de formation ainsi que des frais de nourriture et de logement dans l’établissement de formation professionnelle.
 
@@ -386,8 +597,8 @@ Si l’assuré a des frais supplémentaires du fait qu’il doit loger et prendr
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 21 janv. 1987, en vigueur depuis le 1<sup>er</sup> juil. 1987 ([RO 1987 456](https://fedlex.data.admin.ch/eli/oc/1987/456_456_456)).
 [^6-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^6-3]: Introduit par le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^6-4]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
+[^6-3]: Introduit par le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^6-4]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^6-5]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
 [^6-6]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 3038](https://fedlex.data.admin.ch/eli/oc/1997/3038_3038_3038)).
 
@@ -402,7 +613,7 @@ Le placement à l’essai est interrompu avant terme:
 - c. si la poursuite du placement à l’essai ne peut, pour des raisons d’ordre médical, être raisonnablement exigée, ou
 - d. si la poursuite du placement à l’essai ne paraît pas indiquée pour d’autres raisons méritant d’être prises en considération.
 
-[^6bis-1]: Introduit par le ch. I de l’ACF du 15 janv. 1968 ([RO 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)). Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^6bis-1]: Introduit par le ch. I de l’ACF du 15 janv. 1968 ([RO 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)). Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 6<sup>ter</sup>
 
@@ -423,14 +634,14 @@ L’allocation d’initiation au travail n’est pas allouée à l’assuré qui
 
 <sup>5</sup> L’allocation d’initiation au travail est versée par la Centrale de compensation.
 
-[^6ter-1]: Introduit par le ch. I de l’O du 28 sept. 2007 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^6ter-1]: Introduit par le ch. I de l’O du 28 sept. 2007 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 [^6ter-2]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 
 #### Art. 6<sup>quater</sup>
 
 **Indemnité en cas d’augmentation des cotisations**[^6quater-1]
 
-<sup>1</sup> L’employeur perçoit l’indemnité prévue à l’art. 18*c* LAI si l’assuré est absent pour cause de maladie pendant plus de quinze jours ouvrables en l’espace d’une année. L’indemnité est versée à partir du 16<sup>e</sup> jour d’absence, pour autant que l’employeur continue de verser un salaire à l’assuré ou qu’une assurance pour perte de gain accorde des prestations à ce dernier.
+<sup>1</sup> L’employeur perçoit l’indemnité prévue à l’art. 18*c* LAI si l’assuré est absent pour cause de maladie pendant plus de 15 jours de travail en l’espace d’une année. L’indemnité est versée à partir du 16<sup>e</sup> jour d’absence, pour autant que l’employeur continue de verser un salaire à l’assuré ou qu’une assurance pour perte de gain accorde des prestations à ce dernier.[^6quater-2]
 
 <sup>2</sup>
 
@@ -443,7 +654,31 @@ L’indemnité s’élève à:
 
 <sup>4</sup> L’indemnité est versée directement à l’employeur par la Centrale de compensation.
 
-[^6quater-1]: Introduit par le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^6quater-1]: Introduit par le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^6quater-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 6<sup>quinquies</sup>
+
+**Location de services**[^6quinquies-1]
+
+<sup>1</sup> Le montant de l’indemnité visée à l’art. 18*a*<sup>bis</sup>, al. 3, let. a, LAI est fixé dans la convention de prestations. Celle-ci peut prévoir une indemnisation particulière du bailleur de services en cas de placement réussi après la location de services. Le montant maximal de l’indemnité totale est de 12 500 francs par assuré.
+
+<sup>2</sup> Une indemnité au sens de l’art. 18*a*<sup>bis</sup>, al. 3, let. b, LAI est en outre versée au bailleur de services si, durant l’exécution de la mesure, l’assuré est absent pour cause de maladie pendant plus de deux jours de travail consécutifs. L’indemnité est versée à partir du troisième jour d’absence, pour autant que le bailleur de services continue de verser un salaire à l’assuré ou qu’une assurance pour perte de gain accorde des prestations à ce dernier.
+
+<sup>3</sup>
+
+L’indemnité visée à l’art. 18*a*<sup>bis</sup>, al. 3, let. b, LAI s’élève à:
+
+- a. 48 francs par jour d’absence dans les entreprises employant jusqu’à 50 collaborateurs;
+- b. 34 francs par jour d’absence dans les entreprises employant plus de 50 collaborateurs.
+
+<sup>4</sup> Le droit à une indemnité en vertu de l’art. 18*a*<sup>bis</sup>, al. 3, let. b, LAI s’éteint au plus tard à la fin des rapports de travail. Le décompte de cette indemnité est établi au plus tôt après cette date.
+
+<sup>5</sup> L’office AI décide de la durée nécessaire de la mesure. Celle-ci ne peut toutefois dépasser un an.
+
+<sup>6</sup> Les indemnités visées aux al. 1 et 2 sont versées directement au bailleur de services par la Centrale de compensation.
+
+[^6quinquies-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 7
 
@@ -477,46 +712,48 @@ L’indemnité s’élève à:
 
 <sup>1</sup>
 
-La liste des moyens auxiliaires visée par l’art. 21 LAI fait l’objet d’une ordonnance du Département fédéral de l’intérieur (département), qui édicte également des dispositions complémentaires concernant:[^14-2]
+La liste des moyens auxiliaires visée par l’art. 21 LAI fait l’objet d’une ordonnance du DFI[^14-2], qui édicte également des dispositions complémentaires concernant:[^14-3]
 
-- a.[^14-3] la remise ou le remboursement des moyens auxiliaires;
+- a.[^14-4] la remise ou le remboursement des moyens auxiliaires;
 - b. les contributions au coût des adaptations d’appareils et d’immeubles commandées par l’invalidité;
 - c. les contributions aux frais causés par les services spéciaux de tiers dont l’assuré a besoin en lieu et place d’un moyen auxiliaire;
-- d.[^14-4] les indemnités d’amortissement en faveur des assurés qui ont acquis à leurs frais un moyen auxiliaire auquel ils ont droit;
-- e.[^14-5] la somme prêtée en cas de prêt auto-amortissable octroyé aux assurés qui ont droit à un moyen auxiliaire coûteux pour exercer leur activité lucrative dans une entreprise agricole ou dans une autre entreprise, lorsque ce moyen auxiliaire ne peut être repris par l’assurance ou ne peut que difficilement être réutilisé.
+- d.[^14-5] les indemnités d’amortissement en faveur des assurés qui ont acquis à leurs frais un moyen auxiliaire auquel ils ont droit;
+- e.[^14-6] la somme prêtée en cas de prêt auto-amortissable octroyé aux assurés qui ont droit à un moyen auxiliaire coûteux pour exercer leur activité lucrative dans une entreprise agricole ou dans une autre entreprise, lorsque ce moyen auxiliaire ne peut être repris par l’assurance ou ne peut que difficilement être réutilisé.
 
 <sup>2</sup>
 
-Le département peut déléguer à l’office fédéral les compétences suivantes:
+Le DFI peut déléguer à l’OFAS[^14-7] les compétences suivantes:
 
 - a. déterminer les cas de rigueur dans lesquels les montants fixés en application de l’al. 1, let. a, peuvent être dépassés;
 - b. fixer les limites du remboursement de l’assurance pour des moyens auxiliaires spécifiques;
-- c. établir une liste des modèles de moyens auxiliaires satisfaisant aux exigences de l’assurance.[^14-6]
+- c. établir une liste des modèles de moyens auxiliaires satisfaisant aux exigences de l’assurance.[^14-8]
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)).
-[^14-2]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^14-2]: Nouvelle expression selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)). Il a été tenu compte de cette mod. dans tout le texte.
 [^14-3]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^14-4]: Introduite par le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
+[^14-4]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^14-5]: Introduite par le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^14-6]: Introduit par le ch. I de l’O du 25 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2659](https://fedlex.data.admin.ch/eli/oc/2011/367)).
+[^14-6]: Introduite par le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
+[^14-7]: Nouvelle expression selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)). Il a été tenu compte de cette mod. dans tout le texte.
+[^14-8]: Introduit par le ch. I de l’O du 25 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2659](https://fedlex.data.admin.ch/eli/oc/2011/367)).
 
 #### Art. 14<sup>bis</sup>
 
 **Acquisition et remboursement des moyens auxiliaires**[^14bis-1]
 
-<sup>1</sup> Le département détermine par voie d’ordonnance les moyens auxiliaires pour lesquels les instruments prévus à l’art. 21<sup>quater</sup>, al. 1, let. a à c, LAI sont utilisés.
+<sup>1</sup> Le DFI détermine par voie d’ordonnance les moyens auxiliaires pour lesquels les instruments prévus à l’art. 21<sup>quater</sup>, al. 1, let. a à c, LAI sont utilisés.
 
 <sup>2</sup> Il règle les modalités de remise et de prise en charge des moyens auxiliaires et des prestations de service y relatives lorsque la présente ordonnance en prévoit l’acquisition par voie d’adjudication.
 
-[^14bis-1]: Introduit par le ch. I de l’O du 5 déc. 2008 ([RO 2008 6491](https://fedlex.data.admin.ch/eli/oc/2008/884)). Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^14bis-1]: Introduit par le ch. I de l’O du 5 déc. 2008 ([RO 2008 6491](https://fedlex.data.admin.ch/eli/oc/2008/884)). Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 14<sup>ter</sup>
 
 **Restriction du droit à la substitution**[^14ter-1]
 
-Lorsqu’un moyen auxiliaire ou la prestation de service y relative sont acquis par le biais d’une procédure d’adjudication, le département limite le droit à leur substitution.
+Lorsqu’un moyen auxiliaire ou la prestation de service y relative sont acquis par le biais d’une procédure d’adjudication, le DFI limite le droit à leur substitution.
 
-[^14ter-1]: Introduit par le ch. I de l’O du 5 déc. 2008 ([RO 2008 6491](https://fedlex.data.admin.ch/eli/oc/2008/884)). Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^14ter-1]: Introduit par le ch. I de l’O du 5 déc. 2008 ([RO 2008 6491](https://fedlex.data.admin.ch/eli/oc/2008/884)). Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 14<sup>quater</sup>
 
@@ -524,7 +761,7 @@ Lorsqu’un moyen auxiliaire ou la prestation de service y relative sont acquis 
 
 Le forfait visé à l’art. 21<sup>quater</sup>, al. 1, let. a, LAI est versé directement à l’assuré sans égard aux coûts effectivement subis.
 
-[^14quater-1]: Introduit par le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^14quater-1]: Introduit par le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 15 et 16
 
@@ -538,9 +775,11 @@ Le forfait visé à l’art. 21<sup>quater</sup>, al. 1, let. a, LAI est versé 
 
 **Durée de l’instruction**[^17-1]
 
-L’assuré qui se soumet pendant deux jours consécutifs au moins à un examen ordonné par l’office AI pour juger du bien-fondé de sa demande a droit à une indemnité journalière pour chaque jour d’examen.
+<sup>1</sup> L’assuré qui se soumet pendant deux jours consécutifs au moins à un examen ordonné par l’office AI pour juger du bien-fondé de sa demande a droit à une indemnité journalière pour chaque jour d’instruction.
 
-[^17-1]: Nouvelle teneur selon le ch. I de l’O du 15 juin 1992, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)).
+<sup>2</sup> La durée de l’instruction qui précède l’octroi de prestations au sens de l’art. 16 LAI ne donne pas droit à des indemnités journalières.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 17<sup>bis</sup>
 
@@ -557,28 +796,27 @@ L’assuré qui se soumet à une mesure de réadaptation durant trois jours isol
 
 **Délai d’attente, en général**
 
-<sup>1</sup> L’assuré qui présente une incapacité de travail de 50 % au moins et qui doit attendre le début d’une formation professionnelle initiale ou d’un reclassement professionnel a droit, durant le délai d’attente, à une indemnité journalière.[^18-1]
+<sup>1</sup> L’assuré qui présente une incapacité de travail de 50 % au moins et qui doit attendre le début d’un reclassement professionnel a droit, durant le délai d’attente, à une indemnité journalière.[^18-1]
 
-<sup>2</sup> Le droit à l’indemnité naît au moment où l’office AI constate qu’une formation professionnelle initiale ou un reclassement professionnel est indiqué.[^18-2]
+<sup>2</sup> Le droit à l’indemnité naît au moment où l’office AI constate qu’un reclassement professionnel est indiqué.[^18-2]
 
 <sup>3</sup> Les bénéficiaires de rentes qui se soumettent à des mesures de réadaptation n’ont pas droit aux indemnités journalières pendant le délai d’attente.
 
 <sup>4</sup> Tant que l’assuré a droit à une indemnité journalière de l’assurance-chômage, il ne peut faire valoir aucun droit à une indemnité journalière de l’assurance-invalidité.[^18-3]
 
-[^18-1]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^18-2]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^18-3]: Introduit par le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 
 #### Art. 19
 
-**Délai d’attente pendant la recherche d’un emploi**
+**Délai d’attente pendant la recherche d’un emploi**[^19-1]
 
-<sup>1</sup> L’assuré n’a pas droit à l’indemnité journalière pour le temps pendant lequel il attend qu’un emploi convenable lui soit trouvé. Si toutefois la recherche d’un emploi est précédée d’une formation professionnelle initiale ou d’un reclassement professionnel, l’assuré conserve le bénéfice de l’indemnité journalière pendant soixante jours au plus.[^19-1]
+<sup>1</sup> L’assuré n’a pas droit à une indemnité journalière pendant la période durant laquelle il recherche un emploi convenable. Si toutefois la recherche d’un emploi est précédée d’une formation professionnelle initiale, d’un reclassement ou d’un placement à l’essai, l’assuré conserve le bénéfice de l’indemnité journalière pendant soixante jours au plus.
 
-<sup>2</sup> …[^19-2]
+<sup>2</sup> Tant que l’assuré a droit à une indemnité journalière de l’assurance-chômage, il ne peut faire valoir aucun droit à une indemnité journalière de l’assurance-invalidité.
 
-[^19-1]: Nouvelle teneur selon le ch. I de l’O du 29 juin 1988, en vigueur depuis le 1<sup>er</sup> janv. 1989 ([RO 1988 1484](https://fedlex.data.admin.ch/eli/oc/1988/1484_1484_1484)).
-[^19-2]: Introduit par le ch. I de l’O du 29 juin 1983 ([RO 1983 912](https://fedlex.data.admin.ch/eli/oc/1983/912_912_912)). Abrogé par le ch. I de l’O du 21 mai 2003, avec effet le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 20
 
@@ -594,20 +832,19 @@ L’assuré qui se soumet à une mesure de réadaptation durant trois jours isol
 
 #### Art. 20<sup>ter</sup>
 
-**Indemnité journalière et rente d’invalidité**[^20ter-1]
+**Indemnités journalières et rente d’invalidité**[^20ter-1]
 
-<sup>1</sup> Lorsque l’assuré a droit à une indemnité journalière, la prestation pour enfant y compris, au sens des art. 23 et 23<sup>bis</sup> LAI, inférieure à la rente versée jusqu’ici, la rente continue d’être allouée au lieu de l’indemnité journalière.
+<sup>1</sup> Lorsque l’assuré a droit à une indemnité journalière, prestation pour enfant comprise, au sens des art. 23, al. 1, et 23<sup>bis</sup> LAI dont le montant est inférieur à la rente versée jusqu’ici, la rente continue d’être allouée au lieu de l’indemnité journalière.
 
-<sup>2</sup> Lorsque l’assuré a droit à une indemnité journalière au sens de l’art. 23, al. 2<sup>bis</sup>, LAI, inférieure à la rente versée jusqu’ici, la rente est remplacée à l’expiration du délai mentionné à l’art. 47, al. 1, LAI par une indemnité journalière correspondant à un trentième du montant de la rente.[^20ter-2]
+<sup>2</sup> Lorsque, pendant la formation professionnelle initiale, l’assuré a droit à une indemnité journalière inférieure à la rente versée jusqu’ici, la rente est remplacée à l’expiration du délai mentionné à l’art. 47, al. 1<sup>bis</sup>, LAI par une indemnité journalière correspondant à un trentième du montant de la rente.
 
-[^20ter-1]: Introduit par le ch. II 1 de l’O du 5 avr. 1978 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^20ter-2]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^20ter-1]: Introduit par le ch. II 1 de l’O du 5 avr. 1978 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 20<sup>quater</sup>
 
 **Interruptions des mesures de réadaptation**[^20quater-1]
 
-<sup>1</sup> L’indemnité journalière continue d’être versée aux assurés qui doivent interrompre une mesure de réadaptation pour cause de maladie, d’accident ou de maternité s’ils n’ont pas droit à une indemnité journalière d’une autre assurance sociale obligatoire ou à une indemnité d’une assurance pour perte de gain facultative dont le montant équivaut au moins à celui de l’indemnité journalière de l’assurance-invalidité.
+<sup>1</sup> L’indemnité journalière continue d’être versée aux assurés qui doivent interrompre une mesure de réadaptation pour cause de maladie ou de maternité s’ils n’ont pas droit à une indemnité journalière d’une autre assurance sociale obligatoire ou à une indemnité d’une assurance pour perte de gain facultative dont le montant équivaut au moins à celui de l’indemnité journalière de l’assurance-invalidité.[^20quater-2]
 
 <sup>2</sup>
 
@@ -615,18 +852,28 @@ L’indemnité journalière visée à l’al. 1 continue d’être versée:
 
 - a. pendant 30 jours au maximum durant la première année des mesures de réadaptation;
 - b. pendant 60 jours au maximum durant la deuxième année des mesures de réadaptation;
-- c. pendant 90 jours au maximum à partir de la troisième année des mesures de réadaptation.[^20quater-2]
+- c. pendant 90 jours au maximum à partir de la troisième année des mesures de réadaptation.[^20quater-3]
 
-<sup>3</sup> …[^20quater-3]
+<sup>3</sup> …[^20quater-4]
 
 <sup>4</sup> Le droit à l’indemnité journalière devient caduc lorsqu’il est constaté que la mesure de réadaptation n’est plus poursuivie.
 
-<sup>5</sup> …[^20quater-4]
+<sup>5</sup> …[^20quater-5]
+
+<sup>6</sup>
+
+Les assurés contraints d’interrompre une mesure de réadaptation pour cause d’accident continuent de percevoir l’indemnité journalière de la manière suivante:
+
+- a. pendant deux jours au plus après l’accident, s’ils sont assurés obligatoirement en vertu de la loi fédérale du 20 mars 1981 sur l’assurance-accidents (LAA)[^20quater-6];
+- b. selon les mêmes règles qu’en cas de maladie en vertu des al. 1, 2 et 4, s’ils ne sont pas assurés obligatoirement en vertu de la LAA.[^20quater-7]
 
 [^20quater-1]: Introduit par le ch. II 1 de l’O du 5 avr. 1978 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^20quater-2]: Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^20quater-3]: Abrogé par le ch. I du R du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^20quater-4]: Abrogé par le ch. I du R du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^20quater-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^20quater-3]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^20quater-4]: Abrogé par le ch. I de l’O du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^20quater-5]: Abrogé par le ch. I de l’O du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^20quater-6]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^20quater-7]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 20<sup>quinquies</sup>
 
@@ -641,12 +888,7 @@ Les assurés qui sont au bénéfice d’une allocation en vertu de la LAPG[^20qu
 
 **Assurés exerçant une activité lucrative**[^20sexies-1]
 
-<sup>1</sup>
-
-Sont considérés comme exerçant une activité lucrative les assurés qui:
-
-- a. exerçaient une activité lucrative immédiatement avant la survenance de l’incapacité de travail (art. 6 LPGA), ou qui
-- b. peuvent rendre vraisemblable que, après la survenance de l’incapacité de travail, ils auraient entamé une activité lucrative d’une assez longue durée.
+<sup>1</sup> Sont considérés comme exerçant une activité lucrative les assurés qui exerçaient une activité lucrative immédiatement avant la survenance de l’incapacité de travail (art. 6 LPGA).[^20sexies-2]
 
 <sup>2</sup>
 
@@ -656,6 +898,7 @@ Sont assimilés aux assurés exerçant une activité lucrative:
 - b. les assurés qui, après avoir cessé leur activité lucrative suite à une maladie ou à un accident, sont au bénéfice d’un revenu de substitution sous forme d’indemnités journalières.
 
 [^20sexies-1]: Introduit par le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^20sexies-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 21
 
@@ -670,7 +913,7 @@ Lors de l’établissement du revenu déterminant au sens de l’art. 23, al. 3,
 - a. d’une maladie;
 - b. d’un accident;
 - c. d’une période de chômage;
-- d. d’une période de service au sens de l’art. 1 LAPG[^21-3];
+- d. d’une période de service au sens de l’art. 1*a* LAPG[^21-3];
 - e. de maternité, ou
 - f. d’autres motifs n’impliquant pas une faute de sa part.
 
@@ -679,7 +922,7 @@ Lors de l’établissement du revenu déterminant au sens de l’art. 23, al. 3,
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^21-2]: Abrogé par le ch. I de l’O du 28 sept. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^21-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^21-4]: Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^21-4]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 21<sup>bis</sup>
 
@@ -702,7 +945,7 @@ Le revenu déterminant est converti en revenu journalier. Il est calculé de la 
 <sup>5</sup> Si un assuré peut démontrer que, sans la survenance de l’invalidité, il aurait entrepris durant la période de réadaptation une autre activité lucrative que celle exercée en dernier lieu sans restriction due à des raisons de santé, l’indemnité journalière est calculée d’après le revenu qu’il aurait pu obtenir avec cette nouvelle activité.[^21bis-2]
 
 [^21bis-1]: Introduit par le ch. I de l’O du 21 janv. 1987 ([RO 1987 456](https://fedlex.data.admin.ch/eli/oc/1987/456_456_456)). Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^21bis-2]: Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^21bis-2]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 21<sup>ter</sup>
 
@@ -718,12 +961,13 @@ Le revenu déterminant est converti en revenu journalier. Il est calculé de la 
 
 **Personnes de condition indépendante**[^21quater-1]
 
-<sup>1</sup> L’indemnité journalière pour les personnes de condition indépendante est calculée d’après le dernier revenu obtenu sans diminution due à la maladie, ramené au gain journalier, soumis au prélèvement des cotisations conformément à la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^21quater-2].
+<sup>1</sup> L’indemnité journalière pour les personnes de condition indépendante est calculée d’après le dernier revenu obtenu sans atteinte à la santé, ramené au gain journalier, soumis au prélèvement des cotisations conformément à la LAVS[^21quater-2].[^21quater-3]
 
 <sup>2</sup> L’indemnité journalière pour les assurés qui rendent vraisemblable que, durant la période de réadaptation, ils auraient entrepris une activité lucrative indépendante d’une assez longue durée est calculée d’après le revenu qu’ils auraient pu en obtenir.
 
 [^21quater-1]: Introduit par le ch. I de l’O du 31 mai 1999 ([RO 1999 1851](https://fedlex.data.admin.ch/eli/oc/1999/304)). Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^21quater-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^21quater-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 21<sup>quinquies</sup>
 
@@ -745,19 +989,24 @@ Durant la réadaptation, un examen a lieu d’office tous les deux ans pour éta
 
 **Réduction de l’indemnité journalière**[^21septies-1]
 
-<sup>1</sup> Si l’assuré exerce une activité lucrative pendant sa réadaptation, l’indemnité journalière est réduite dans la mesure où, ajoutée au revenu de cette activité, elle dépasse le gain déterminant selon les art.21 à 21<sup>quinquies</sup>. L’art. 22, al. 5, est réservé.
+<sup>1</sup> Si l’assuré exerce une activité lucrative pendant sa réadaptation, l’indemnité journalière au sens de l’art. 22, al. 1, LAI est réduite dans la mesure où le montant cumulé de l’indemnité journalière et du revenu de cette activité excède le revenu déterminant au sens des art. 21 à 21<sup>quinquies</sup>.[^21septies-2]
 
-<sup>2</sup> Pour la réduction de l’indemnité journalière, c’est le revenu obtenu par l’assuré pour l’activité déployée durant la réadaptation qui doit être pris en compte. Pour les salariés, ce revenu est le salaire déterminant au sens de l’art. 5 LAVS[^21septies-2] et pour les indépendants, le revenu sur lequel des cotisations sont prélevées en vertu de la LAVS.[^21septies-3]
+<sup>2</sup> Pour la réduction de l’indemnité journalière, c’est le revenu obtenu par l’assuré pour l’activité déployée durant la réadaptation qui doit être pris en compte. Pour les salariés, ce revenu est le salaire déterminant au sens de l’art. 5 LAVS[^21septies-3] et pour les indépendants, le revenu sur lequel des cotisations sont prélevées en vertu de la LAVS.[^21septies-4]
 
 <sup>3</sup> Des prestations financières accordées par l’employeur durant la réadaptation sans activité correspondante particulière de l’assuré n’interviennent pas dans le calcul de la réduction (salaire social).
 
-<sup>4</sup> Si l’assuré a droit à une prestation pour enfant au sens de l’art. 22, al. 3, LAI, le revenu déterminant est majoré des montants minimaux, convertis en montants journaliers, de l’allocation pour enfant ou de l’allocation de formation professionnelle prévues à l’art. 5 de la loi du 24 mars 2006 sur les allocations familiales[^21septies-4].[^21septies-5]
+<sup>4</sup> Si l’assuré a droit à une prestation pour enfant au sens de l’art. 22<sup>bis</sup>, al. 2, LAI, le revenu déterminant est majoré des montants minimaux, convertis en montants journaliers, de l’allocation pour enfant ou de l’allocation de formation professionnelle prévues à l’art. 5 de la loi fédérale du 24 mars 2006 sur les allocations familiales[^21septies-5].[^21septies-6]
+
+<sup>5</sup> Si l’assuré, pendant la réadaptation, perçoit une rente d’invalidité au sens de la LAA[^21septies-7], l’indemnité journalière visée à l’art. 22, al. 1, LAI est réduite dans la mesure où le montant cumulé de l’indemnité journalière et de la rente excède le revenu déterminant au sens des art. 21 à 21<sup>quinquies</sup>.[^21septies-8]
 
 [^21septies-1]: Introduit par le ch. I de l’O du 31 mai 1999 ([RO 1999 1851](https://fedlex.data.admin.ch/eli/oc/1999/304)). Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^21septies-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^21septies-3]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^21septies-4]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
-[^21septies-5]: Introduit par le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Voir aussi les disp. trans. mod. 6 oct. 2006 à la fin du texte.
+[^21septies-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^21septies-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^21septies-4]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^21septies-5]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^21septies-6]: Introduit par le ch. I de l’O du 28 sept. 2007 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^21septies-7]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^21septies-8]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 21<sup>octies</sup>
 
@@ -767,42 +1016,43 @@ Durant la réadaptation, un examen a lieu d’office tous les deux ans pour éta
 
 <sup>2</sup> Si l’indemnité journalière est en outre réduite selon l’art. 21<sup>septies</sup>, la déduction selon l’al. 1 intervient après cette réduction.
 
+<sup>3</sup> L’indemnité journalière n’est pas réduite durant la formation professionnelle initiale.[^21octies-3]
+
 [^21octies-1]: Introduit par le ch. I de l’O du 31 mai 1999 ([RO 1999 1851](https://fedlex.data.admin.ch/eli/oc/1999/304)). Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^21octies-2]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Voir aussi les disp. trans. mod. 6 oct. 2006 à la fin du texte.
+[^21octies-3]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 21<sup>novies</sup>
 
 **Garantie de maintien des droits acquis**[^21novies-1]
 
-L’indemnité journalière que l’assurance verse à l’assuré en plus de la rente en vertu de l’art. 22, al. 5<sup>ter</sup>, LAI est au moins égale au montant de l’indemnité journalière que l’assuré perd en raison de la mise en œuvre d’une mesure si cette dernière indemnité était calculée sur la base du revenu de l’activité lucrative précédente.
+L’indemnité journalière que l’assurance-invalidité verse à l’assuré en plus de la rente en vertu de l’art. 22<sup>bis</sup>, al. 6, LAI est au moins égale au montant de l’indemnité journalière que l’assuré perd en raison de la mise en œuvre d’une mesure si cette dernière indemnité était calculée sur la base du revenu de l’activité lucrative précédente.
 
-[^21novies-1]: Introduit par le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^21novies-1]: Introduit par le ch. I de l’O du 16 nov. 2011 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)). Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 22
 
-**Calcul de l’indemnité journalière dans la formation professionnelle initiale et dans les cas qui lui sont assimilés**[^22-1]
+**Calcul de l’indemnité journalière pendant la formation professionnelle initiale**[^22-1]
 
-<sup>1</sup> L’indemnité journalière allouée aux personnes assurées pendant leur formation professionnelle initiale ainsi qu’aux assurés âgés de moins de 20 ans qui n’ont pas encore exercé une activité lucrative et qui se soumettent à des mesures de réadaptation d’ordre médical correspond à 10 % du montant maximum de l’indemnité journalière défini à l’art. 24, al. 1, LAI.[^22-2]
+<sup>1</sup>
 
-<sup>2</sup> Pour les assurés qui ont dû, en raison de leur invalidité, interrompre leur formation professionnelle initiale et en commencer une nouvelle, l’indemnité journalière, est, le cas échéant, portée à un trentième du salaire mensuel gagné en dernier lieu pendant la formation professionnelle interrompue. L’art. 6, al. 2, est réservé.
+En l’absence de contrat d’apprentissage au sens de la LFPr[^22-2], le montant mensuel de l’indemnité journalière correspond au montant arrondi vers le haut:
 
-<sup>3</sup> …[^22-3]
+- a. en première année, d’un quart de la rente de vieillesse minimale visée à l’art. 34, al. 5, LAVS[^22-3];
+- b. dès la deuxième année, d’un tiers de la rente de vieillesse minimale visée à l’art. 34, al. 5, LAVS.
 
-<sup>4</sup> Si l’assuré a droit à une prestation pour enfant au sens de l’art. 22, al. 3, LAI, le montant de l’indemnité journalière selon les al. 1 et 2 est majoré du montant de la prestation pour enfant selon l’art. 23<sup>bis</sup> LAI.[^22-4]
+<sup>2</sup> Si l’assuré a droit à une indemnité journalière au sens de l’art. 22, al. 3, LAI, celle-ci correspond au revenu mensuel médian lié à l’exercice d’une activité professionnelle des étudiants des Hautes écoles figurant dans l’Enquête sur la situation sociale et économique des étudiants de l’Office fédéral de la statistique.
 
-<sup>5</sup>
+<sup>3</sup> Dans le cas où l’assuré aurait droit à des indemnités journalières pendant sa formation professionnelle initiale, il y a également droit durant la préparation à cette formation, pour autant que les conditions énoncées à l’art. 5, al. 2, soient remplies. Le montant des indemnités est calculé conformément à l’al. 1. L’art. 22, al. 4, LAI demeure réservé.
 
-De l’indemnité journalière calculée conformément aux al. 1, 2 et 4 ou selon l’art. 20<sup>ter</sup>, al. 2, sont déduits:[^22-5]
+<sup>4</sup> Pour les assurés qui doivent, en raison de leur invalidité, interrompre leur formation professionnelle initiale et en commencer une nouvelle, l’indemnité journalière est calculée sur la base de l’art. 24<sup>ter</sup> LAI. L’art. 6, al. 2, demeure réservé.
 
-- a. un trentième du gain mensuel de l’activité lucrative obtenu par l’assuré pendant sa formation professionnelle;
-- b.[^22-6] 20 % de l’indemnité, mais au maximum 20 francs, en cas de prise en charge des frais de nourriture et de logement par l’assurance-invalidité; la réduction est de 10 %, mais au maximum de 10 francs, si l’assuré a une obligation d’entretien à l’égard d’enfants qui, en cas de décès de l’assuré, auraient droit à la rente d’orphelin de l’assurance-vieillesse et survivants; les art. 21<sup>septies</sup> et 21<sup>octies</sup>, al. 2, sont applicables par analogie.
+<sup>5</sup> Si l’assuré a droit à une prestation pour enfant au sens de l’art. 22<sup>bis</sup>, al. 2, LAI, le montant de l’indemnité journalière est majoré du montant de la prestation pour enfant selon l’art. 23<sup>bis</sup> LAI, à la condition que le revenu soit inférieur à celui fixé aux art. 13, al. 3, et 19, al. 1<sup>bis</sup>, de la loi fédérale du 24 mars 2006 sur les allocations familiales[^22-4].
 
-[^22-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^22-2]: Nouvelle teneur selon le ch. I 17 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^22-3]: Abrogé par le ch. I de l’O du 28 sept. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^22-4]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^22-5]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^22-6]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Voir aussi les disp. trans. mod. 6 oct. 2006 à la fin du texte.
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^22-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^22-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^22-4]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
 
 #### Art. 22<sup>bis</sup>
 
@@ -846,19 +1096,20 @@ Sont notamment remboursés les frais de garde ou d’assistance suivants:
 
 **Prestation pour enfant**[^22quinquies-1]
 
-<sup>1</sup> Les allocations pour enfant et les allocations de formation professionnelle prévues par le droit fédéral, le droit cantonal et le droit étranger sont considérées comme des allocations prévues par la loi au sens de l’art. 22, al. 3, LAI.
+<sup>1</sup> Les allocations pour enfant et les allocations de formation professionnelle prévues par le droit fédéral, le droit cantonal et le droit étranger sont considérées comme des allocations prévues par la loi au sens de l’art. 22<sup>bis</sup>, al. 2, LAI.[^22quinquies-2]
 
 <sup>2</sup> La caisse de compensation peut demander à l’assuré de lui fournir la preuve qu’il n’a pas droit à une allocation pour enfant ou à une allocation de formation professionnelle.
 
 <sup>3</sup> Si l’assuré a droit à une allocation pour enfant ou à une allocation de formation professionnelle et que le montant de la prestation pour enfant serait supérieur à cette allocation, l’assuré n’a pas droit au versement de la différence.
 
 [^22quinquies-1]: Introduit par le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^22quinquies-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 23
 
 [^23-1]
 
-[^23-1]: Abrogé par le ch. I du R du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^23-1]: Abrogé par le ch. I de l’O du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 23<sup>bis</sup>
 
@@ -883,113 +1134,213 @@ Sont notamment remboursés les frais de garde ou d’assistance suivants:
 [^23ter-1]: Introduit par le ch. I de l’O du 4 déc. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2001 89](https://fedlex.data.admin.ch/eli/oc/2001/16)).
 [^23ter-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 
+### G. Libre choix, collaboration et tarifs****
+
+[^chap2-lvlG-1]
+
+[^chap2-lvlG-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
 #### Art. 24
 
 **Libre choix et conventions**[^24-1]
 
-<sup>1</sup> Le département peut établir des prescriptions sur l’autorisation d’exercer une activité à charge de l’assurance, conformément à l’art. 26<sup>bis</sup>, al. 2, LAI. L’office fédéral peut établir une liste des personnes et des institutions satisfaisant aux exigences de l’assurance.
+<sup>1</sup> Le DFI peut établir des prescriptions sur l’autorisation d’exercer une activité à charge de l’assurance, conformément à l’art. 26<sup>bis</sup>, al. 2, LAI. L’OFAS peut établir une liste des personnes et des institutions satisfaisant aux exigences de l’assurance.
 
-<sup>2</sup> Les conventions prévues aux art. 21<sup>quater</sup>, al. 1, let. b, et 27 LAI sont conclues par l’office fédéral, sous réserve de l’art. 41, al. 1, let. l.
+<sup>2</sup> Les conventions prévues aux art. 21<sup>quater</sup>, al. 1, let. b, LAI sont conclues par l’OFAS.[^24-2]
 
-<sup>3</sup> Pour les personnes et institutions qui appliquent des mesures de réadaptation sans avoir adhéré à une convention, les qualifications professionnelles fixées contractuellement valent comme exigences minimales de l’assurance au sens de l’art. 26<sup>bis</sup>, al. 1, LAI, et les tarifs établis par convention comme montants maximaux au sens des art. 21<sup>quater</sup>, al. 1, let. c, et 27, al. 3, LAI.
+<sup>3</sup> Pour les personnes et institutions qui appliquent des mesures de réadaptation sans avoir adhéré à une convention avec l’OFAS existante à l’échelle de la Suisse, les conditions fixées dans cette convention valent comme exigences minimales de l’assurance-invalidité au sens de l’art. 26<sup>bis</sup>, al. 1, LAI, et les tarifs fixés comme montants maximaux au sens des art. 21<sup>quater</sup>, al. 1, let. c, et 27, al. 3, LAI.[^24-3]
 
 [^24-1]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
+[^24-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^24-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 24<sup>bis</sup>
+
+**Tarification des mesures médicales**[^24bis-1]
+
+<sup>1</sup> Les art. 43, al. 2 et 3, et 49, al. 1 et 3 à 6, LAMal[^24bis-2] sont applicables par analogie pour la fixation des tarifs des mesures médicales.
+
+<sup>2</sup> Les tarifs sont calculés en fonction de critères d’économie d’entreprise, tout en veillant à une structure adéquate des tarifs. Le tarif couvre au plus les coûts de la prestation qui sont justifiés de manière transparente et les coûts nécessaires à la fourniture efficiente des prestations.
+
+<sup>3</sup> Un changement de modèle tarifaire ne doit pas entraîner de coûts supplémentaires.
+
+<sup>4</sup> Les parties à une convention doivent régulièrement vérifier les tarifs et les adapter si le respect des principes énoncés à l’al. 2 n’est plus garanti.
+
+<sup>5</sup> L’autorité compétente applique par analogie les al. 1 à 3 lors de la fixation des tarifs prévus aux art. 27, al. 3 à 6 et 7, 2<sup>e</sup> phrase, LAI.
+
+[^24bis-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^24bis-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+
+#### Art. 24<sup>ter</sup>
+
+**Calcul des coûts des mesures médicales**[^24ter-1]
+
+<sup>1</sup> Les conventions tarifaires qui prévoient une structure tarifaire uniforme au sens de l’art. 27, al. 4, LAI doivent contenir les modalités d’application du tarif.
+
+<sup>2</sup> Le Surveillant des prix au sens de la loi fédérale du 20 décembre 1985 concernant la surveillance des prix[^24ter-2] est consulté avant la conclusion de conventions tarifaires nationales et dans le cadre de la fixation de tarifs par l’autorité compétente.
+
+<sup>3</sup> Les fournisseurs de prestations mettent à la disposition des services spécialisés compétents de la Confédération, de l’association Commission des tarifs médicaux LAA ainsi que des partenaires tarifaires les documents nécessaires à la fixation du tarif.
+
+[^24ter-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^24ter-2]: [RS 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
+
+#### Art. 24<sup>quater</sup>
+
+**Rémunération du traitement en milieu hospitalier**[^24quater-1]
+
+<sup>1</sup> Pour la rémunération du traitement dans la division commune d’un hôpital, l’OFAS conclut des conventions sur la collaboration et les tarifs et convient de forfaits avec les hôpitaux. Les forfaits sont liés aux prestations et doivent être basés sur les structures uniformes pour l’ensemble de la Suisse. Les tarifs hospitaliers s’alignent sur l’indemnisation des hôpitaux qui fournissent les prestations de manière efficiente et dans la qualité requise à un prix avantageux.
+
+<sup>2</sup> Les partenaires contractuels peuvent convenir que certaines prestations diagnostiques ou thérapeutiques spéciales ne sont pas comprises dans le forfait mais facturées séparément.
+
+<sup>3</sup> Si un modèle de rémunération lié aux prestations pour les traitements en milieu hospitaliers au sens de l’art. 14, al. 1, LAI est basé sur un système de classification des patients de type DRG (*Diagnosis Related Groups*), la convention tarifaire comprend en outre le manuel de codage, ainsi qu’un concept pour la révision du codage.
+
+<sup>4</sup> Lorsque l’assuré entre dans un hôpital n’ayant pas conclu de convention tarifaire avec l’OFAS, l’assurance-invalidité prend à sa charge les frais qui auraient dû être remboursés à l’assuré conformément à l’al. 1 pour le traitement dans la division commune de l’hôpital conventionné conformément à l’al. 1 le plus proche. L’hôpital ne peut prétendre qu’au remboursement de ces frais.
+
+[^24quater-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 24<sup>quinquies</sup>
+
+**Rémunération du traitement ambulatoire**[^24quinquies-1]
+
+Pour la rémunération du traitement ambulatoire, l’OFAS conclut avec les fournisseurs de prestations visés à l’art. 14, al. 1, LAI des conventions de portée nationale qui règlent la collaboration et les tarifs. Les tarifs à la prestation sont basés sur des structures uniformes pour l’ensemble de la Suisse.
+
+[^24quinquies-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 24<sup>sexies</sup>
+
+**Collaboration et tarifs des mesures de réinsertion préparant à la réadaptation professionnelle et des mesures d’ordre professionnel**[^24sexies-1]
+
+<sup>1</sup> Les offices AI sont autorisés à conclure des conventions au sens de l’art. 27, al. 1, LAI pour les mesures visées aux art. 14*a* à 18 LAI au lieu où le fournisseur de prestations est installé à titre permanent ou exerce son activité professionnelle. Le tarif est convenu en fonction de critères liés à l’usage local et aux conditions usuelles du marché ainsi qu’à l’économie d’entreprise.
+
+<sup>2</sup> Les offices AI contrôlent régulièrement la qualité, l’efficacité et le caractère économique de la fourniture des prestations ainsi que les tarifs, remboursement des coûts compris.
+
+[^24sexies-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 ## Chapitre III Les rentes, l’allocation pour impotent et la contribution d’assistance****
 
 [^chap3-1]
 
-[^chap3-1]: Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^chap3-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 ### A. Le droit à la rente
 
-### I. Évaluation de l’invalidité
+### I. Évaluation du taux d’invalidité****
 
-#### Art. 25
+[^chap3-lvlA-lvlI-1]
 
-**Principes[^25-1]**
+[^chap3-lvlA-lvlI-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
-<sup>1</sup>
+#### Art. 24<sup>septies</sup>
 
-Est réputé revenu au sens de l’art. 16 LPGA le revenu annuel présumable sur lequel les cotisations seraient perçues en vertu de la LAVS[^25-2], à l’exclusion toutefois:[^25-3]
+**Détermination du statut**[^24septies-1]
 
-- a. des prestations accordées par l’employeur pour compenser des pertes de salaire par suite d’accident ou de maladie entraînant une incapacité de travail dûment prouvée;
-- b. des éléments de salaire dont il est prouvé que l’assuré ne peut fournir la contrepartie, parce que sa capacité de travail limitée ne le lui permet pas;
-- c.[^25-4] des indemnités de chômage, des allocations pour perte de gain au sens de la LAPG[^25-5] et des indemnités journalières de l’assurance-invalidité.[^25-6]
-
-<sup>2</sup> Les revenus déterminants pour l’évaluation de l’invalidité d’un indépendant qui exploite une entreprise en commun avec des membres de sa famille seront fixés d’après l’importance de sa collaboration.[^25-7]
-
-[^25-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)).
-[^25-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^25-3]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
-[^25-4]: Introduite par le ch. I de l’O du 1er juil. 1987, en vigueur depuis le 1<sup>er</sup> janv. 1988 ([RO 1987 1088](https://fedlex.data.admin.ch/eli/oc/1987/1088_1088_1088)).
-[^25-5]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^25-6]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)).
-[^25-7]: Nouvelle teneur selon le ch. I de l’ACF du 15 janv. 1968, en vigueur depuis le 1<sup>er</sup> janv. 1968 ([RO 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)).
-
-#### Art. 26
-
-**Absence de formation professionnelle**
-
-<sup>1</sup> Lorsque la personne assurée n’a pu acquérir de connaissance professionnelles suffisantes à cause de son invalidité, le revenu qu’elle pourrait obtenir si elle n’était pas invalide correspond en pour-cent, selon son âge, aux fractions suivantes de la médiane, actualisée chaque année, telle qu’elle ressort de l’enquête de l’Office fédéral de la statistique sur la structure des salaires:[^26-1]
-
-<table>
-<tr><th>Après … ans révolus</th><th>Avant … ans révolus</th><th>Taux en %</th></tr>
-<tr><td></td><td>21</td><td>70</td></tr>
-<tr><td>21</td><td>25</td><td>80</td></tr>
-<tr><td>25</td><td>30</td><td>90</td></tr>
-<tr><td>30</td><td></td><td>100[^26-2]</td></tr>
-</table>
-
-<sup>2</sup> Lorsque l’assuré a été empêché par son invalidité d’achever sa formation professionnelle, le revenu qu’il pourrait obtenir s’il n’était pas invalide est le revenu moyen d’un travailleur de la profession à laquelle il se préparait.
-
-[^26-1]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1999 60](https://fedlex.data.admin.ch/eli/oc/1999/12)).
-[^26-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)).
-
-#### Art. 26<sup>bis</sup>
-
-**Assurés ayant commencé leur formation professionnelle**[^26bis-1]
-
-L’invalidité des assurés qui ont commencé leur formation professionnelle est évaluée selon l’art. 28*a*, al. 2, LAI, si l’on ne peut raisonnablement exiger d’eux qu’ils entreprennent une activité lucrative.
-
-[^26bis-1]: Introduit par le ch. I de l’ACF du 15 janv. 1968 ([RO 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)). Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-
-#### Art. 27
-
-**Travaux habituels des assurés travaillant dans le ménage et des religieux ou religieuses**[^27-1]
-
-<sup>1</sup> Par travaux habituels, visés à l’art. 7, al. 2, de la loi, des assurés travaillant dans le ménage, il faut entendre l’activité usuelle dans le ménage, ainsi que les soins et l’assistance apportés aux proches.
-
-<sup>2</sup> Par travaux habituels, visés à l’art. 7, al. 2, de la loi, des religieux ou religieuses, il faut entendre l’ensemble de l’activité à laquelle se consacre la communauté.
-
-[^27-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7581](https://fedlex.data.admin.ch/eli/oc/2017/822)).
-
-#### Art. 27<sup>bis</sup>
-
-**Assurés exerçant une activité lucrative à temps partiel ou travaillant dans l’entreprise de leur conjoint sans être rémunérés**[^27bis-1]
-
-<sup>1</sup> Lorsqu’il y a lieu d’admettre pour les assurés qui exercent une activité lucrative à temps partiel ou qui travaillent dans l’entreprise de leur conjoint sans être rémunérés,que s’ils ne souffraient d’aucune atteinte à la santé, ils exerceraient, au moment de l’examen de leur droit à la rente, une activité lucrative à temps complet, l’invalidité est évaluée exclusivement selon les principes applicables aux personnes exerçant une activité lucrative.
+<sup>1</sup> Le statut d’un assuré est déterminé en fonction de la situation professionnelle dans laquelle il se trouverait s’il n’était pas atteint dans sa santé.
 
 <sup>2</sup>
 
-Pour les personnes qui exercent une activité lucrative à temps partiel et accomplissent par ailleurs des travaux habituels visés à l’art. 7, al. 2, de la loi, le taux d’invalidité est déterminé par l’addition des taux suivants:
+L’assuré est réputé:
 
-- a. le taux d’invalidité en lien avec l’activité lucrative;
-- b. le taux d’invalidité en lien avec les travaux habituels.[^27bis-2]
+- a. exercer une activité lucrative au sens de l’art. 28*a*, al. 1, LAI dès lors qu’en bonne santé, il exercerait une activité lucrative à un taux d’occupation de 100 % ou plus;
+- b. ne pas exercer d’activité lucrative au sens de l’art. 28*a*, al. 2, LAI dès lors qu’en bonne santé, il n’exercerait pas d’activité lucrative;
+- c. exercer une activité lucrative à temps partiel au sens de l’art. 28*a*, al. 3, LAI dès lors qu’en bonne santé, il exercerait une activité lucrative à un taux d’occupation de moins de 100 %.
+
+[^24septies-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 25
+
+**Principes de la comparaison des revenus**[^25-1]
+
+<sup>1</sup>
+
+Est réputé revenu au sens de l’art. 16 LPGA le revenu annuel présumable sur lequel les cotisations seraient perçues en vertu de la LAVS[^25-2], à l’exclusion toutefois:
+
+- a. des prestations accordées par l’employeur pour compenser des pertes de salaire par suite d’accident ou de maladie entraînant une incapacité de travail dûment prouvée;
+- b. des indemnités de chômage, des allocations pour perte de gain au sens de la LAPG[^25-3] et des indemnités journalières de l’assurance-invalidité.
+
+<sup>2</sup> Les revenus déterminants au sens de l’art. 16 LPGA sont établis sur la base de la même période et au regard du marché du travail suisse.
+
+<sup>3</sup> Si les revenus déterminants sont fixés sur la base de valeurs statistiques, les valeurs médianes de l’enquête suisse sur la structure des salaires (ESS) de l’Office fédéral de la statistique font foi. D’autres valeurs statistiques peuvent être utilisées, pour autant que le revenu en question ne soit pas représenté dans l’ESS. Les valeurs utilisées sont indépendantes de l’âge et tiennent compte du sexe.
+
+<sup>4</sup> Les valeurs statistiques visées à l’al. 3 sont adaptées au temps de travail usuel au sein de l’entreprise selon la division économique ainsi qu’à l’évolution des salaires nominaux.
+
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^25-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^25-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+
+#### Art. 26
+
+**Détermination du revenu sans invalidité**[^26-1]
+
+<sup>1</sup> Le revenu sans invalidité (art. 16 LPGA) est déterminé en fonction du dernier revenu de l’activité lucrative effectivement réalisé avant la survenance de l’invalidité. Si le revenu réalisé au cours des dernières années précédant la survenance de l’invalidité a subi de fortes variations, il convient de se baser sur un revenu moyen équitable.
+
+<sup>2</sup> Si le revenu effectivement réalisé est inférieur d’au moins 5 % aux valeurs médianes usuelles dans la branche selon l’ESS au sens de l’art. 25, al. 3, le revenu sans invalidité correspond à 95 % de ces valeurs médianes.
 
 <sup>3</sup>
 
-Le calcul du taux d’invalidité en lien avec l’activité lucrative est régi par l’art. 16 LPGA, étant entendu que:
+L’al. 2 n’est pas applicable lorsque:
 
-- a. le revenu que l’assuré aurait pu obtenir de l’activité lucrative exercée à temps partiel, s’il n’était pas invalide, est extrapolé pour la même activité lucrative exercée à plein temps;
-- b. la perte de gain exprimée en pourcentage est pondérée au moyen du taux d’occupation qu’aurait l’assuré s’il n’était pas invalide.[^27bis-3]
+- a. le revenu avec invalidité visé à l’art. 26<sup>bis</sup>, al. 1, est également inférieur d’au moins 5 % aux valeurs médianes usuelles dans la branche selon l’ESS au sens de l’art. 25, al. 3, ou
+- b. l’assuré exerçait une activité lucrative indépendante.
 
-<sup>4</sup> Pour le calcul du taux d’invalidité en lien avec les travaux habituels, on établit le pourcentage que représentent les limitations dans les travaux habituels par rapport à la situation si l’assuré n’était pas invalide. Ce pourcentage est pondéré au moyen de la différence entre le taux d’occupation visé à l’al. 3, let. b, et une activité lucrative exercée à plein temps.[^27bis-4]
+<sup>4</sup> Si le revenu effectivement réalisé ne peut pas être déterminé ou ne peut pas l’être avec suffisamment de précision, le revenu sans invalidité est déterminé sur la base des valeurs statistiques visées à l’art. 25, al. 3, pour une personne ayant la même formation et une situation professionnelle correspondante.
 
-[^27bis-1]: Introduit par le ch. I de l’O du 29 nov. 1976 ([RO 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)). Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^27bis-2]: Introduit par le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7581](https://fedlex.data.admin.ch/eli/oc/2017/822)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
-[^27bis-3]: Introduit par le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7581](https://fedlex.data.admin.ch/eli/oc/2017/822)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
-[^27bis-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7581](https://fedlex.data.admin.ch/eli/oc/2017/822)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+<sup>5</sup> Si l’invalidité survient après que l’assuré avait prévu ou commencé une formation professionnelle, le revenu sans invalidité est déterminé sur la base des valeurs statistiques visées à l’art. 25, al. 3, que l’assuré aurait atteint une fois sa formation achevée.
+
+<sup>6</sup> Si l’assuré ne peut commencer ou achever une formation professionnelle en raison de son invalidité, le revenu sans invalidité est déterminé sur la base des valeurs statistiques définies à l’art. 25, al. 3. En dérogation à l’art. 25, al. 3, seules des valeurs indépendantes du sexe seront utilisées.
+
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 26<sup>bis</sup>
+
+**Détermination du revenu avec invalidité**[^26bis-1]
+
+<sup>1</sup> Si l’assuré réalise un revenu après la survenance de l’invalidité, le revenu avec invalidité (art. 16 LPGA) correspond à ce revenu, à condition que l’assuré exploite autant que possible sa capacité fonctionnelle résiduelle en exerçant une activité qui peut raisonnablement être exigée de lui.
+
+<sup>2</sup> Si l’assuré ne réalise pas de revenu déterminant, le revenu avec invalidité est déterminé en fonction des valeurs statistiques visées à l’art. 25, al. 3. Pour les assurés visés à l’art. 26, al. 6, des valeurs indépendantes du sexe sont utilisées, en dérogation à l’art. 25, al. 3.
+
+<sup>3</sup> Si, du fait de l’invalidité, les capacités fonctionnelles de l’assuré au sens de l’art. 49, al. 1<sup>bis</sup>, ne lui permettent de travailler qu’à un taux d’occupation de 50 % ou moins, une déduction de 10 % pour le travail à temps partiel est opérée sur la valeur statistique.
+
+[^26bis-1]: Introduit par le ch. I de l’ACF du 15 janv. 1968 ([RO 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)). Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 27
+
+**Travaux habituels des assurés travaillant dans le ménage[^27-2]**[^27-1]
+
+<sup>1</sup> Par travaux habituels, visés à l’art. 7, al. 2, de la loi, des assurés travaillant dans le ménage, il faut entendre l’activité usuelle dans le ménage, ainsi que les soins et l’assistance apportés aux proches.
+
+<sup>2</sup> ...[^27-3]
+
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7581](https://fedlex.data.admin.ch/eli/oc/2017/822)).
+[^27-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^27-3]: Abrogé par le ch. I de l’O du 3 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 27<sup>bis</sup>
+
+**Calcul du taux d’invalidité des assurés exerçant une activité lucrative à temps partiel**[^27bis-1]
+
+<sup>1</sup>
+
+Le taux d’invalidité des personnes qui exercent une activité lucrative à temps partiel est déterminé par l’addition des taux suivants:
+
+- a. le taux d’invalidité en lien avec l’activité lucrative;
+- b. le taux d’invalidité en lien avec les travaux habituels.
+
+<sup>2</sup>
+
+Le taux d’invalidité en lien avec l’activité lucrative est déterminé:
+
+- a. en extrapolant le revenu sans invalidité pour une activité lucrative correspondant à un taux d’occupation de 100 %;
+- b. en calculant le revenu avec invalidité sur la base d’une activité lucrative correspondant à un taux d’occupation de 100 % et en l’adaptant selon la capacité fonctionnelle déterminante;
+- c. en pondérant la perte de gain exprimée en pourcentage en fonction du taux d’occupation qu’aurait l’assuré s’il n’était pas invalide.
+
+<sup>3</sup>
+
+Le taux d’invalidité en lien avec les travaux habituels est calculé:
+
+- a. en déterminant le pourcentage que représentent les limitations dans les travaux habituels par rapport à la situation dans laquelle l’assuré serait sans invalidité;
+- b. en pondérant le pourcentage déterminé à la let. a en fonction de la différence entre le taux d’occupation visé à l’al. 2, let. c, et une activité lucrative exercée à plein temps.
+
+[^27bis-1]: Introduit par le ch. I de l’O du 29 nov. 1976 ([RO 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)). Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 ### II. Dispositions diverses
 
@@ -1039,13 +1390,13 @@ Il y a interruption notable de l’incapacité de travail au sens de l’art. 28
 
 [^29quater-1]
 
-[^29quater-1]: Introduit par le ch. I de l’O du 28 sept. 2007 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Abrogé par le ch. I du R du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^29quater-1]: Introduit par le ch. I de l’O du 28 sept. 2007 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Abrogé par le ch. I de l’O du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 ### III. Prestation transitoire****
 
 [^chap3-lvlA-lvlIII-1]
 
-[^chap3-lvlA-lvlIII-1]: Introduit par le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^chap3-lvlA-lvlIII-1]: Introduit par le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 30
 
@@ -1065,7 +1416,7 @@ Une prestation transitoire est versée aux conditions suivantes:
 
 <sup>2</sup> Lorsque les conditions de l’art. 32 LAI ne sont plus remplies, le droit à une prestation transitoire s’éteint à la fin du mois au cours duquel l’office AI a rendu sa décision de suppression de la prestation transitoire.
 
-[^30-1]: Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 30<sup>bis</sup>
 
@@ -1081,7 +1432,7 @@ Une prestation transitoire est versée aux conditions suivantes:
 
 <sup>2</sup> Si l’assuré a droit à la fois à une rente de l’assurance-invalidité et à une prestation transitoire, la rente et la prestation transitoire lui sont versées sous la forme d’une prestation unique.
 
-[^31-1]: Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^31-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 ### B. Les rentes ordinaires
 
@@ -1089,12 +1440,13 @@ Une prestation transitoire est versée aux conditions suivantes:
 
 **Mode de calcul**[^32-1]
 
-<sup>1</sup> Les art. 50 à 53<sup>bis</sup> RAVS[^32-2] sont applicables par analogie aux rentes ordinaires de l’assurance-invalidité.
+<sup>1</sup> Les art. 50 à 53<sup>bis</sup> RAVS[^32-2] sont applicables par analogie aux rentes ordinaires de l’assurance-invalidité. Au lieu d’établir des tables de rentes, l’OFAS peut édicter des prescriptions relatives au calcul du montant de la rente.[^32-3]
 
 <sup>2</sup> La réduction des deux rentes d’un couple en vertu de l’art. 37, al. 1<sup>bis</sup>, LAI, s’effectue en fonction de la rente du conjoint qui présente le degré d’invalidité le plus élevé.
 
 [^32-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 691](https://fedlex.data.admin.ch/eli/oc/1996/691_691_691)).
 [^32-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^32-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 32<sup>bis</sup>
 
@@ -1117,10 +1469,11 @@ Lorsqu’un assuré dont la rente a été supprimée pour cause d’abaissement 
 
 <sup>1</sup> La réduction des rentes pour enfants, conformément à l’art. 38<sup>bis</sup> LAI, s’effectue selon les règles prévues à l’art. 54<sup>bis</sup> RAVS[^33bis-2].
 
-<sup>2</sup> Les trois-quarts de rentes, les demi-rentes et les quarts de rentes se calculent en fonction de la réduction de la rente entière.
+<sup>2</sup> La réduction des rentes pour enfant correspondant à des rentes AI dont le pourcentage est inférieur aux 100 % d’une rente entière se calcule en fonction de la proportion à une rente entière.[^33bis-3]
 
 [^33bis-1]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4151](https://fedlex.data.admin.ch/eli/oc/2006/613)).
 [^33bis-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^33bis-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 33<sup>ter</sup>
 
@@ -1226,9 +1579,9 @@ Un logement collectif n’est pas assimilé à un home:
 <sup>3</sup> …[^36-4]
 
 [^36-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^36-2]: Abrogé par le ch. I du R du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^36-2]: Abrogé par le ch. I de l’O du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 [^36-3]: Phrase introduite par le ch. I 1 de l’O du 7 oct. 2020 sur l'amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
-[^36-4]: Abrogé par le ch. I du R du 18 avr. 2012, avec effet au 1<sup>er</sup> juin 2012 ([RO 2012 2403](https://fedlex.data.admin.ch/eli/oc/2012/292)).
+[^36-4]: Abrogé par le ch. I de l’O du 18 avr. 2012, avec effet au 1<sup>er</sup> juin 2012 ([RO 2012 2403](https://fedlex.data.admin.ch/eli/oc/2012/292)).
 
 #### Art. 37
 
@@ -1270,13 +1623,14 @@ Le besoin d’un accompagnement pour faire face aux nécessités de la vie au se
 - b. faire face aux nécessités de la vie et établir des contacts sociaux sans l’accompagnement d’une tierce personne, ou
 - c. éviter un risque important de s’isoler durablement du monde extérieur.
 
-<sup>2</sup> Si une personne souffre uniquement d’une atteinte à la santé psychique, elle doit pour être considérée comme impotente, avoir droit au moins à un quart de rente.
+<sup>2</sup> ...[^38-2]
 
-<sup>3</sup> N’est pris en considération que l’accompagnement qui est régulièrement nécessaire et lié aux situations mentionnées à l’al. 1. En particulier, les activités de représentation et d’administration dans le cadre des mesures de protection de l’adulte au sens des art. 390 à 398 du code civil[^38-2] ne sont pas prises en compte.[^38-3]
+<sup>3</sup> N’est pris en considération que l’accompagnement qui est régulièrement nécessaire et lié aux situations mentionnées à l’al. 1. En particulier, les activités de représentation et d’administration dans le cadre des mesures de protection de l’adulte au sens des art. 390 à 398 du code civil[^38-3] ne sont pas prises en compte.[^38-4]
 
 [^38-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^38-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^38-3]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
+[^38-2]: Abrogé par le ch. I de l’O du 3 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^38-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^38-4]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
 
 #### Art. 39
 
@@ -1294,7 +1648,7 @@ Le besoin d’un accompagnement pour faire face aux nécessités de la vie au se
 
 [^chap3-lvlE-1]
 
-[^chap3-lvlE-1]: Introduit par le ch. I de l’ACF du 15 janv. 1968 ([RO 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)). Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)). Voir aussi les dips. trans. de cette mod. à la fin du texte.
+[^chap3-lvlE-1]: Introduit par le ch. I de l’ACF du 15 janv. 1968 ([RO 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)). Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)). Voir aussi les dips. trans. de cette mod. à la fin du texte.
 
 #### Art. 39a
 
@@ -1302,9 +1656,11 @@ Le besoin d’un accompagnement pour faire face aux nécessités de la vie au se
 
 L’assuré mineur a droit à une contribution d’assistance s’il remplit les conditions prévues à l’art. 42<sup>quater</sup>, al. 1, let. a et b, LAI, et:
 
-- a. s’il suit de façon régulière l’enseignement scolaire obligatoire dans une classe ordinaire, une formation professionnelle sur le marché ordinaire de l’emploi ou une autre formation du degré secondaire II;
-- b. s’il exerce une activité professionnelle sur le marché ordinaire de l’emploi à raison d’au moins dix heures par semaine, ou
+- a. s’il suit de façon régulière l’enseignement scolaire obligatoire dans une classe ordinaire, une formation professionnelle sur le marché primaire du travail[^39a-1] ou une autre formation du degré secondaire II;
+- b. s’il exerce une activité professionnelle sur le marché primaire du travail à raison d’au moins dix heures par semaine, ou
 - c. s’il perçoit un supplément pour soins intenses à raison d’au moins six heures par jour pour la couverture de ses besoins en soins et en surveillance en vertu de l’art. 42<sup>ter</sup>, al. 3, LAI.
+
+[^39a-1]: Nouvelle expression selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 39b
 
@@ -1313,8 +1669,8 @@ L’assuré mineur a droit à une contribution d’assistance s’il remplit les
 Pour avoir droit à une contribution d’assistance, l’assuré majeur dont la capacité d’exercice des droits civils est restreinte doit remplir les conditions prévues à l’art. 42<sup>quater</sup>, al. 1, let. a et b, LAI, ainsi que l’une des conditions suivantes:
 
 - a. tenir son propre ménage;
-- b. suivre de façon régulière une formation professionnelle sur le marché ordinaire de l’emploi ou une autre formation du degré secondaire II ou du degré tertiaire;
-- c. exercer une activité lucrative sur le marché ordinaire de l’emploi à raison d’au moins dix heures par semaine, ou
+- b. suivre de façon régulière une formation professionnelle sur le marché primaire du travail ou une autre formation du degré secondaire II ou du degré tertiaire;
+- c. exercer une activité lucrative sur le marché primaire du travail à raison d’au moins dix heures par semaine, ou
 - d. avoir bénéficié, au moment de devenir majeur, d’une contribution d’assistance en vertu de l’art. 39*a*, let. c.
 
 #### Art. 39c
@@ -1329,7 +1685,7 @@ Le besoin d’aide peut être reconnu dans les domaines suivants:
 - d. éducation et garde des enfants;
 - e. exercice d’une activité d’intérêt public ou d’une activité bénévole;
 - f. formation professionnelle initiale ou continue;
-- g. exercice d’une activité professionnelle sur le marché ordinaire de l’emploi;
+- g. exercice d’une activité professionnelle sur le marché primaire du travail;
 - h. surveillance pendant la journée;
 - i. prestations de nuit.
 
@@ -1370,20 +1726,27 @@ Pour les groupes de personnes mentionnés ci-dessous, le nombre d’actes ordina
 
 <sup>4</sup> Les nombres d’heures maximaux sont réduits de 10 % par journée ou par nuitée passée chaque semaine en institution.
 
+<sup>5</sup> Les montants alloués par l’assurance-invalidité pour la surveillance de longue durée au sens de l’art. 3<sup>quinquies</sup>, al. 3, sont déduits proportionnellement du besoin d’aide visé à l’art. 39*c*, let. h.[^39e-1]
+
+[^39e-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
 #### Art. 39f
 
 **Montant de la contribution d’assistance**[^39f-1]
 
-<sup>1</sup> La contribution d’assistance se monte à 33 fr. 50 par heure.
+<sup>1</sup> La contribution d’assistance s’élève à 33 fr. 50 par heure.[^39f-2]
 
-<sup>2</sup> Si l’assistant doit disposer de qualifications particulières pour fournir les prestations requises dans les domaines prévus à l’art. 39*c*, let. e à g, le montant de la contribution d’assistance s’élève à 50 fr. 20 par heure.
+<sup>2</sup> Si l’assistant doit disposer de qualifications particulières pour fournir les prestations requises dans les domaines prévus à l’art. 39*c*, let. e à g, le montant de la contribution d’assistance s’élève à 50 fr. 20 par heure.[^39f-3]
 
-<sup>3</sup> L’office AI détermine le montant de la contribution d’assistance allouée pour les prestations de nuit en fonction de l’intensité de l’aide à apporter à l’assuré. Le montant de la contribution s’élève à 89 fr. 30 par nuit au maximum.
+<sup>3</sup> L’office AI détermine le montant forfaitaire de la contribution d’assistance allouée pour les prestations de nuit en fonction de l’intensité de l’aide à apporter à l’assuré. Le montant de la contribution s’élève à 160 fr. 50 par nuit au maximum.[^39f-4]
 
-<sup>4</sup> L’art. 33<sup>ter</sup> LAVS[^39f-2] s’applique par analogie à l’adaptation des montants fixés aux al. 1 à 3 en fonction de l’évolution des salaires et des prix.
+<sup>4</sup> L’art. 33<sup>ter</sup> LAVS[^39f-5] s’applique par analogie à l’adaptation des montants fixés aux al. 1 à 3 en fonction de l’évolution des salaires et des prix.
 
 [^39f-1]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4615](https://fedlex.data.admin.ch/eli/oc/2020/821)).
-[^39f-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^39f-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^39f-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^39f-4]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^39f-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 39g
 
@@ -1419,11 +1782,19 @@ Le montant annuel de la contribution d’assistance équivaut:
 
 <sup>1</sup> L’assuré transmet tous les mois une facture à l’office AI.
 
-<sup>2</sup> La facture indique les heures de travail effectivement fournies par l’assistant et celles prises en compte en application de l’art. 39*h*.
+<sup>2</sup> Peuvent être facturées les heures de travail effectivement fournies par l’assistant pendant la journée et celles prises en compte en application de l’art. 39*h*.[^39i-1]
+
+<sup>2bis</sup> Le montant facturé par nuit doit correspondre strictement au forfait de nuit. Il peut être facturé si un assistant se tient à disposition en cas de besoin.[^39i-2]
+
+<sup>2ter</sup> Les forfaits de nuit non facturés peuvent aussi être utilisés et facturés pendant la journée. Pour la facturation pendant la journée, le forfait de nuit est converti en heures en le divisant par le montant horaire fixé à l’art. 39*f*, al. 1.[^39i-3]
 
 <sup>3</sup> Le montant facturé peut dépasser le montant mensuel de la contribution d’assistance de 50 % au plus pour autant que le montant annuel de la contribution d’assistance au sens de l’art. 39*g*, al. 2, ne soit pas dépassé.
 
 <sup>4</sup> Pour les assurés dont l’impotence est faible, le montant mensuel de la contribution d’assistance peut être dépassé de plus de 50 % pendant trois mois consécutifs au maximum, en cas de phase aiguë attestée médicalement. Les nombres maximaux d’heures mensuelles définis à l’art. 39*e*, al. 2, ne peuvent pas être dépassés.
+
+[^39i-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^39i-2]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^39i-3]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 39j
 
@@ -1431,22 +1802,19 @@ Le montant annuel de la contribution d’assistance équivaut:
 
 <sup>1</sup> L’office AI fournit à l’assuré des prestations de conseil au sujet de la contribution d’assistance au sens des art. 42<sup>quater</sup> à 42<sup>octies</sup> LAI. Il peut mandater, pour les fournir, un tiers de son choix ou proposé par l’assuré.
 
-<sup>2</sup>
+<sup>2</sup> Lorsque les prestations de conseil sont fournies par un tiers, l’office AI peut les accorder jusqu’à un montant de 1500 francs maximum tous les trois ans. Entre le dépôt de la demande de contribution d’assistance et son octroi, les prestations ne doivent pas dépasser 700 francs.[^39j-2]
 
-Lorsque les prestations de conseil sont fournies par un tiers, l’office AI peut les accorder:
-
-- a. pendant une période de 6 mois à compter du dépôt de la demande de contribution d’assistance, et
-- b. pendant une période de 18 mois à compter de l’octroi de la contribution d’assistance.
-
-<sup>3</sup> Le montant maximum alloué pour les prestations de conseil effectuées par un tiers est de 75 francs par heure. Le montant total versé est de 1500 francs au maximum.
+<sup>3</sup> Le montant maximum alloué pour les prestations de conseil effectuées par un tiers est de 75 francs par heure.[^39j-3]
 
 [^39j-1]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
+[^39j-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^39j-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 ### F.**** Le rapport avec l’assurance-accidents et l’assurance militaire****
 
 [^chap3-lvlF-1][^chap3-lvlF-2]
 
-[^chap3-lvlF-1]: Aciennement let. E. Introduit par le ch. I de l’ACF du 15 janv. 1968en vigueur depuis le 1<sup>er</sup> janv. 1968 ([RO 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)).
+[^chap3-lvlF-1]: Aciennement let. e. Introduit par le ch. I de l’ACF du 15 janv. 1968en vigueur depuis le 1<sup>er</sup> janv. 1968 ([RO 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)).
 [^chap3-lvlF-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
 
 #### Art. 39k
@@ -1498,13 +1866,13 @@ Est compétent pour enregistrer et examiner les demandes:
 
 <sup>3</sup> L’office AI compétent lors de l’enregistrement de la demande le demeure durant toute la procédure, sous réserve des al. 2<sup>bis</sup> à 2<sup>quater</sup>.[^40-5]
 
-<sup>4</sup> En cas de conflit de compétence, l’office fédéral désigne l’office AI compétent.
+<sup>4</sup> En cas de conflit de compétence, l’OFAS désigne l’office AI compétent.
 
-[^40-1]: Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^40-2]: Introduit par le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^40-3]: Introduit par le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^40-4]: Introduit par le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^40-5]: Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^40-2]: Introduit par le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^40-3]: Introduit par le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^40-4]: Introduit par le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^40-5]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 ### II. Attributions
 
@@ -1518,36 +1886,80 @@ L’office AI exécute, outre les tâches explicitement mentionnées dans la loi
 - b.[^41-2] recevoir les communications visées à l’art. 77 relatives au droit aux prestations;
 - c.[^41-3] transmettre immédiatement les communications concernant le droit aux indemnités journalières, aux rentes et aux allocations pour impotent pour les assurés majeurs en cours à la caisse de compensation compétente;
 - d.[^41-4] notifier les communications, les préavis et les décisions, ainsi que la correspondance y relative;
-- e.[^41-5] établir le plan de réadaptation prévu à l’art. 70, al. 2, et surveiller l’exécution des mesures de réadaptation ordonnées;
-- f.[^41-6] donner aux employeurs et aux médecins traitants les conseils et informations relatifs à la réadaptation des assurés intéressés et aux questions de droit des assurances sociales qui y sont liées;
-- f<sup>bis</sup>.[^41-7] fournir aux employeurs des conseils, un accompagnement et une formation qui ne s’appuient pas sur des cas particuliers;
-- f<sup>ter</sup>.[^41-8] fournir des conseils et des informations aux spécialistes concernés issus des domaines de l’école ou de la formation;
-- g.[^41-9] donner des renseignements conformément à l’art. 27 LPGA;
+- [tab] e. et f.[^41-5]...
+- f<sup>bis</sup>. et f<sup>ter</sup>.[^41-6] ...
+- g.[^41-7] donner des renseignements conformément à l’art. 27 LPGA;
 - h. conserver les dossiers AI;
-- i.[^41-10] rédiger les avis en cas de recours et interjeter recours devant le tribunal fédéral;
-- k.[^41-11] évaluer l’invalidité des personnes qui sollicitent l’octroi d’une prestation complémentaire au sens de l’art. 2*c*, let. b[^41-12], de la loi fédérale du 19 mars 1965 sur les prestations complémentaires à l’assurance-vieillesse, survivants et invalidité[^41-13];
-- l.[^41-14] conclure des conventions relevant de l’art. 27 LAI pour les mesures visées aux art. 14*a*, 15, 16, 17 et 18 LAI, au lieu où le fournisseur de prestations est installé à titre permanent ou exerce son activité professionnelle.
+- i.[^41-8] rédiger les avis en cas de recours et interjeter recours devant le tribunal fédéral;
+- k.[^41-9] évaluer le taux d’invalidité des personnes qui sollicitent l’octroi d’une prestation complémentaire au sens de l’art. 4, al. 1, let. d, de la loi fédérale du 6 octobre 2006 sur les prestations complémentaires[^41-10];
+- l.[^41-11] ...
 
-<sup>2</sup> …[^41-15]
+<sup>2</sup> …[^41-12]
 
-<sup>3</sup> …[^41-16]
+<sup>3</sup> …[^41-13]
 
 [^41-1]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^41-2]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^41-3]: Nouvelle teneur selon le ch. I de l’O du 28 janv. 2004, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 743](https://fedlex.data.admin.ch/eli/oc/2004/74)).
 [^41-4]: Nouvelle teneur selon le ch. I de l’O du 26 avr. 2006, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2007](https://fedlex.data.admin.ch/eli/oc/2006/311)).
-[^41-5]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^41-6]: Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^41-7]: Introduite par le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
-[^41-8]: Introduite par le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
-[^41-9]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^41-10]: Nouvelle teneur selon le ch. II 92 de l’O du 8 nov. 2006 (Révision totale de la procédure fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
-[^41-11]: Introduite par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 691](https://fedlex.data.admin.ch/eli/oc/1996/691_691_691)).
-[^41-12]: Actuellement «au sens de l’art. 4 al. 1 let. d de la LF du 6 oct. 2006 sur les prestations complémentaires à l’AVS et à l’AI» ([RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)).
-[^41-13]: [[RO 1965 541](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535), [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32), [1972 2537](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)ch. III, [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589), [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)ch. II 2, [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017), [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699), [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)annexe ch. 4, [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952), [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441), [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 6 [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)annexe ch. 9 [3453](https://fedlex.data.admin.ch/eli/oc/2002/511), [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)annexe ch. 4, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 8, [2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747)ch. IV. [RO 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35].
-[^41-14]: Introduit par le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^41-15]: Abrogé par le ch. I de l’O du 19 sept. 2014, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
-[^41-16]: Abrogé par le ch. I de l’O du 28 sept. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^41-5]: Abrogées par le ch. I de l’O du 3 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^41-6]: Introduites par le ch. I de l’O du 19 sept. 2014 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)). Abrogées par le ch. I de l’O du 3 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^41-7]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^41-8]: Nouvelle teneur selon le ch. II 92 de l’O du 8 nov. 2006 (Révision totale de la procédure fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^41-9]: Introduite par le ch. I de l’O du 29 nov. 1995 ([RO 1996 691](https://fedlex.data.admin.ch/eli/oc/1996/691_691_691)). Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^41-10]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^41-11]: Introduite par le ch. I de l’O du 16 nov. 2011 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)). Abrogée par le ch. I de l’O du 3 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^41-12]: Abrogé par le ch. I de l’O du 19 sept. 2014, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
+[^41-13]: Abrogé par le ch. I de l’O du 28 sept. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+
+#### Art. 41a
+
+**Gestion des cas**[^41a-1]
+
+<sup>1</sup> Dans le cadre de l’exécution des tâches qui leur sont conférées par la loi et le présent règlement, les offices AI veillent à ce que la procédure de gestion des cas soit continue et uniforme.
+
+<sup>2</sup>
+
+La gestion des cas comprend:
+
+- a. l’état des lieux;
+- b. la planification des étapes suivantes;
+- c. le suivi et la surveillance des prestations allouées par l’assurance-invalidité, et
+- d. la coordination, à l’interne et à l’externe, avec les services et personnes concernées.
+
+<sup>3</sup> L’office AI décide du type, de la durée et de l’étendue de la gestion de chaque cas.
+
+<sup>4</sup> En cas de mesures médicales visées aux art. 12 et 13 LAI, l’office AI ne peut procéder à un suivi individuel et actif dans le cadre de la gestion des cas qu’avec l’accord de l’assuré ou de son représentant légal.
+
+<sup>5</sup> Dans certains cas, les offices AI peuvent faire appel à des tiers compétents pour la gestion des cas concernant les mesures médicales.
+
+[^41a-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 41b
+
+**Liste publique des experts mandatés**[^41b-1]
+
+<sup>1</sup>
+
+La liste visée à l’art. 57, al. 1, let. n, LAI contient les indications suivantes:
+
+- a. dans le cas des expertises monodisciplinaires, pour chaque expert mandaté: nom, prénom, discipline médicale, adresse;
+- b. dans le cas des expertises bidisciplinaires, pour chaque membre du binôme d’experts mandaté pour des expertises bidisciplinaires (binôme d’experts): nom, prénom, discipline médicale, adresse;
+- c. dans le cas des expertises bi- et pluridisciplinaires, pour chaque centre d’expertises: nom, forme juridique, adresse;
+- d.
+
+  pour chaque expert, binôme d’experts et centre d’expertises:
+
+  - 1\. nombre d’expertises mandatées, classées par expertises mono-, bi- et pluridisciplinaires,
+  - 2\. incapacités de travail attestées par les expertises remises, dans l’activité habituelle et dans une activité adaptée ainsi que dans les travaux habituels en pourcentage d’un poste à plein temps; pour les expertises bi- et pluridisciplinaires, les évaluations font l’objet d’un consensus entre tous les experts impliqués,
+  - 3\. nombre d’expertises ayant fait l’objet d’une décision d’un tribunal cantonal des assurances, du Tribunal administratif fédéral ou du Tribunal fédéral, classées selon que le tribunal a accordé une force probante pleine, partielle ou nulle à l’expertise, et
+  - 4\. rémunération globale en francs.
+
+<sup>2</sup> La liste répertorie les données en fonction de l’année civile et est publiée le 1<sup>er</sup> mars de l’année suivante.
+
+<sup>3</sup> L’OFAS établit une synthèse globale pour toute la Suisse sur la base des listes établies par les offices AI. Cette synthèse est publiée le 1<sup>er</sup> juillet.
+
+[^41b-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 ### III. Questions financières
 
@@ -1561,7 +1973,7 @@ La trésorerie des offices AI cantonaux et communs est tenue par la caisse de co
 
 <sup>1</sup> Sous la dénomination «Office AI pour les assurés résidant à l’étranger» est constitué un office AI particulier auprès de la Centrale de compensation.
 
-<sup>2</sup> Le Département fédéral des finances, en accord avec le département et le Département fédéral des affaires étrangères, édicte les prescriptions nécessaires en matière d’organisation.
+<sup>2</sup> Le Département fédéral des finances, en accord avec le DFI et le Département fédéral des affaires étrangères, édicte les prescriptions nécessaires en matière d’organisation.
 
 ### B.**** Les caisses de compensation
 
@@ -1593,7 +2005,7 @@ Les art. 122 à 125<sup>bis</sup> RAVS[^44-2] sont applicables par analogie lors
 
 **Conflit de compétence**
 
-En cas de conflit de compétence, l’office fédéral désigne la caisse de compensation compétente.
+En cas de conflit de compétence, l’OFAS désigne la caisse de compensation compétente.
 
 ### C. Services médicaux régionaux****
 
@@ -1605,14 +2017,14 @@ En cas de conflit de compétence, l’office fédéral désigne la caisse de com
 
 **Régions**[^47-1]
 
-<sup>1</sup> Huit à douze services médicaux régionaux sont formés, desquels chacun couvre un territoire comptant un nombre comparable d’habitants. L’office fédéral peut autoriser des exceptions dans des cas fondés.
+<sup>1</sup> Huit à douze services médicaux régionaux sont formés, desquels chacun couvre un territoire comptant un nombre comparable d’habitants. L’OFAS peut autoriser des exceptions dans des cas fondés.
 
-<sup>2</sup> Les cantons soumettent à l’office fédéral leurs propositions pour la formation des régions, qui sont définies par l’office fédéral.
+<sup>2</sup> Les cantons soumettent à l’OFAS leurs propositions pour la formation des régions, qui sont définies par l’OFAS.
 
 <sup>3</sup> Les offices AI de chaque région mettent en place et exploitent conjointement les services médicaux régionaux. …[^47-2]
 
 [^47-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^47-2]: Phrase abrogée par le ch. I du R du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^47-2]: Phrase abrogée par le ch. I de l’O du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 48
 
@@ -1626,13 +2038,16 @@ Dans les services médicaux régionaux, les disciplines suivantes sont notamment
 
 **Tâches**[^49-1]
 
-<sup>1</sup> Les services médicaux régionaux évaluent les conditions médicales du droit aux prestations. Ils sont libres dans le choix de la méthode d’examen appropriée, dans le cadre de leurs compétences médicales et des directives spécialisées de portée générale de l’office fédéral.
+<sup>1</sup> Les services médicaux régionaux évaluent les conditions médicales du droit aux prestations. Ils sont libres dans le choix de la méthode d’examen appropriée, dans le cadre de leurs compétences médicales et des directives spécialisées de portée générale de l’OFAS.
+
+<sup>1bis</sup> Lors de la détermination des capacités fonctionnelles (art. 54*a*, al. 3, LAI), la capacité de travail attestée médicalement pour l’activité exercée jusque-là et pour les activités adaptées est évaluée et justifiée en tenant compte, qualitativement et quantitativement, de toutes les ressources et limitations physiques, mentales ou psychiques.[^49-2]
 
 <sup>2</sup> Les services médicaux régionaux peuvent au besoin procéder eux-mêmes à des examens médicaux sur la personne des assurés. Ils consignent les résultats de ces examens par écrit.
 
 <sup>3</sup> Les services médicaux régionaux se tiennent à la disposition des offices AI de leur région pour les conseiller.
 
 [^49-1]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^49-2]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 ### D. Surveillance****
 
@@ -1644,11 +2059,11 @@ Dans les services médicaux régionaux, les disciplines suivantes sont notamment
 
 **Surveillance matérielle**[^50-1]
 
-<sup>1</sup> L’office fédéral peut, dans le cadre des contrôles qu’il effectue en vertu de l’art. 64*a*, al. 1, let. a, LAI, demander aux offices AI et aux services médicaux régionaux de prendre des mesures ou leur en ordonner pour procéder à l’optimisation nécessaire.
+<sup>1</sup> L’OFAS peut, dans le cadre des contrôles qu’il effectue en vertu de l’art. 64*a*, al. 1, let. a, LAI, demander aux offices AI et aux services médicaux régionaux de prendre des mesures ou leur en ordonner pour procéder à l’optimisation nécessaire.
 
-<sup>2</sup> Les offices AI et les services médicaux régionaux établissent périodiquement à l’intention de l’office fédéral, selon ses instructions, un rapport concernant l’exécution des tâches qui leur sont attribuées.
+<sup>2</sup> Les offices AI et les services médicaux régionaux établissent périodiquement à l’intention de l’OFAS, selon ses instructions, un rapport concernant l’exécution des tâches qui leur sont attribuées.
 
-<sup>3</sup> L’office fédéral peut, après consultation des offices AI, édicter des prescriptions relatives à la formation et au perfectionnement du personnel spécialisé des offices AI et des services médicaux régionaux. Il prend les mesures nécessaires pour garantir cette formation et ce perfectionnement.
+<sup>3</sup> L’OFAS peut, après consultation des offices AI, édicter des prescriptions relatives à la formation et au perfectionnement du personnel spécialisé des offices AI et des services médicaux régionaux. Il prend les mesures nécessaires pour garantir cette formation et ce perfectionnement.
 
 [^50-1]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
@@ -1656,7 +2071,7 @@ Dans les services médicaux régionaux, les disciplines suivantes sont notamment
 
 **Surveillance administrative**[^51-1]
 
-L’office fédéral peut, dans le cadre de ses contrôles relatifs au respect des critères prescrits visant à garantir l’efficacité, la qualité et l’uniformité de l’exécution des tâches prévus à l’art. 64*a*, al. 2, LAI, demander aux offices AI cantonaux et aux services médicaux régionaux de prendre des mesures ou leur en ordonner pour procéder à l’optimisation nécessaire.
+L’OFAS peut, dans le cadre de ses contrôles relatifs au respect des critères prescrits visant à garantir l’efficacité, la qualité et l’uniformité de l’exécution des tâches prévus à l’art. 64*a*, al. 2, LAI, demander aux offices AI cantonaux et aux services médicaux régionaux de prendre des mesures ou leur en ordonner pour procéder à l’optimisation nécessaire.
 
 [^51-1]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
@@ -1664,25 +2079,28 @@ L’office fédéral peut, dans le cadre de ses contrôles relatifs au respect d
 
 **Conventions d’objectifs**[^52-1]
 
-<sup>1</sup> Afin de garantir l’efficacité, la qualité et l’uniformité de l’exécution des tâches visées aux art. 57 et 59, al. 2, LAI, l’office fédéral conclut une convention d’objectifs avec chaque office AI cantonal. La convention précise notamment les objectifs à atteindre en termes d’efficacité et de qualité, ainsi que les modalités du reporting.
+<sup>1</sup> Afin de garantir l’efficacité, la qualité et l’uniformité de l’exécution des tâches visées aux art. 54*a*, al. 1, et 57 LAI, l’OFAS conclut une convention d’objectifs avec chaque office AI cantonal. La convention précise notamment les objectifs à atteindre en termes d’efficacité et de qualité, ainsi que les modalités du reporting.[^52-2]
 
-<sup>2</sup> Si un office AI cantonal refuse de signer la convention d’objectifs, l’office fédéral édicte des directives afin de garantir l’efficacité, la qualité et l’uniformité de l’exécution des tâches.
+<sup>2</sup> Si un office AI cantonal refuse de signer la convention d’objectifs, l’OFAS édicte des directives afin de garantir l’efficacité, la qualité et l’uniformité de l’exécution des tâches.
 
-<sup>3</sup> L’office fédéral met à la disposition des offices AI cantonaux les indicateurs nécessaires à l’atteinte des objectifs.
+<sup>3</sup> L’OFAS met à la disposition des offices AI cantonaux les indicateurs nécessaires à l’atteinte des objectifs.
 
 [^52-1]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^52-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 53
 
 **Surveillance financière**[^53-1]
 
-<sup>1</sup> L’office fédéral exerce la surveillance financière des offices AI cantonaux par l’approbation des tableaux des postes de travail, du budget et des comptes annuels des offices.
+<sup>1</sup> L’OFAS exerce la surveillance financière des offices AI cantonaux.[^53-2]
 
-<sup>2</sup> La caisse de compensation met à la disposition de l’office fédéral tous les documents nécessaires à l’approbation du budget et des comptes annuels de l’office AI cantonal.
+<sup>2</sup> Les offices AI soumettent pour approbation à l’OFAS les frais d’exploitation et les investissements établis selon ses directives sous la forme d’un budget, des plans financiers des trois années suivantes et du compte annuel. L’OFAS peut demander des documents supplémentaires aux offices AI et aux caisses de compensation si ceux-ci sont nécessaires pour lui permettre d’exercer sa surveillance.[^53-3]
 
 <sup>3</sup> En ce qui concerne la surveillance financière de l’office AI pour les assurés résidant à l’étranger, l’art. 43, al. 2, est applicable.
 
 [^53-1]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^53-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^53-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 54
 
@@ -1690,9 +2108,9 @@ L’office fédéral peut, dans le cadre de ses contrôles relatifs au respect d
 
 <sup>1</sup> Les comptes de l’office AI sont tenus par la caisse de compensation du canton où il a son siège et par la Caisse suisse de compensation pour l’office AI pour les assurés résidant à l’étranger.
 
-<sup>2</sup> La caisse de compensation tient des comptes séparés pour l’office AI. Sont également comptabilisés séparément les cotisations et les prestations de l’assurance d’une part et les frais de gestion de l’office AI au sens de l’art. 67, al. 1, let. a, LAI, d’autre part. L’office fédéral édicte des directives à ce sujet.
+<sup>2</sup> La caisse de compensation tient des comptes séparés pour l’office AI. Sont également comptabilisés séparément les cotisations et les prestations de l’assurance d’une part et les frais de gestion de l’office AI au sens de l’art. 67, al. 1, let. a, LAI, d’autre part. L’OFAS édicte des directives à ce sujet.
 
-<sup>3</sup> Les art. 159, 160 et 164 à 170 RAVS[^54-2] s’appliquent par analogie à la révision de la tenue des comptes de l’office AI. En dérogation à l’art. 160, al. 2, RAVS, la révision de l’application quant au fond des dispositions légales est effectuée par l’office fédéral, dans le cadre de l’art. 64*a*, al. 1, let. a, LAI.
+<sup>3</sup> Les art. 159, 160 et 164 à 170 RAVS[^54-2] s’appliquent par analogie à la révision de la tenue des comptes de l’office AI. En dérogation à l’art. 160, al. 2, RAVS, la révision de l’application quant au fond des dispositions légales est effectuée par l’OFAS, dans le cadre de l’art. 64*a*, al. 1, let. a, LAI.
 
 [^54-1]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^54-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
@@ -1701,19 +2119,22 @@ L’office fédéral peut, dans le cadre de ses contrôles relatifs au respect d
 
 **Remboursement des frais**[^55-1]
 
-<sup>1</sup> L’office fédéral décide des frais à rembourser en vertu de l’art. 67, al. 1, let. a, LAI.
+<sup>1</sup> L’OFAS décide des frais à rembourser en vertu de l’art. 67, al. 1, let. a, LAI et édicte les directives nécessaires à cet effet.[^55-2]
 
 <sup>2</sup> Les caisses de compensation sont indemnisées pour les tâches réalisées au profit de l’assurance-invalidité.
 
 [^55-1]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^55-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 56
 
 **Locaux pour les organes d’exécution**[^56-1]
 
-L’office fédéral charge compenswiss (Fonds de compensation AVS/AI/APG) d’acquérir ou de construire, à charge des comptes ordinaires de l’AI, les locaux nécessaires aux organes d’exécution de l’assurance-invalidité, lorsqu’il en résulte à long terme des économies pour les comptes d’exploitation. Ces locaux constituent des actifs d’exploitation de l’assurance-invalidité.
+<sup>1</sup> L’OFAS charge le Fonds de compensation AVS/AI/APG (Compenswiss) d’acquérir, de construire ou de vendre, à charge des comptes ordinaires de l’AI, les locaux nécessaires aux organes d’exécution de l’assurance-invalidité. Ces locaux constituent des actifs d’exploitation de l’assurance-invalidité.
 
-[^56-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5083](https://fedlex.data.admin.ch/eli/oc/2018/792)).
+<sup>2</sup> L’usufruit est réglé dans un contrat de droit public entre l’office AI et Compenswiss. Ce contrat contient au moins les détails concernant l’utilisation des locaux et l’indemnisation. L’OFAS règle les détails de l’usufruit et approuve les contrats.
+
+[^56-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 57
 
@@ -1721,7 +2142,7 @@ L’office fédéral charge compenswiss (Fonds de compensation AVS/AI/APG) d’a
 
 <sup>1</sup> Les caisses de compensation perçoivent des contributions aux frais d’administration auprès des employeurs, des personnes de condition indépendante et des personnes sans activité lucrative; le taux de ces contributions est le même que dans l’assurance-vieillesse et survivants.
 
-<sup>2</sup> Le département fixe, le cas échéant, les subsides que le fonds de compensation doit verser pour couvrir les frais d’administration des caisses de compensation.
+<sup>2</sup> Le DFI fixe, le cas échéant, les subsides que le fonds de compensation doit verser pour couvrir les frais d’administration des caisses de compensation.
 
 [^57-1]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
@@ -1741,7 +2162,7 @@ L’office fédéral charge compenswiss (Fonds de compensation AVS/AI/APG) d’a
 
 <sup>1</sup> Celui qui veut exercer son droit aux prestations de l’assurance doit présenter sa demande sur formule officielle.[^65-1]
 
-<sup>2</sup> La formule de demande peut être retirée gratuitement auprès des organismes désignés par l’office fédéral.
+<sup>2</sup> La formule de demande peut être retirée gratuitement auprès des organismes désignés par l’OFAS.
 
 <sup>3</sup> Le requérant, ou celui qui agit en son nom, joindra à sa demande son certificat d’assurance et, le cas échéant, celui de son conjoint, les carnets de timbres-cotisations, s’il y en a, et une pièce d’identité.[^65-2]
 
@@ -1754,13 +2175,13 @@ L’office fédéral charge compenswiss (Fonds de compensation AVS/AI/APG) d’a
 
 <sup>1</sup> L’exercice du droit aux prestations appartient à l’assuré ou à son représentant légal, ainsi qu’aux autorités ou tiers qui l’assistent régulièrement ou prennent soin de lui de manière permanente.
 
-<sup>1bis</sup> Si l’assuré n’exerce pas lui-même le droit aux prestations, il doit autoriser les personnes et les instances mentionnées dans la demande à fournir aux organes de l’assurance-invalidité tous les renseignements et les documents nécessaires pour établir ce droit et le bien-fondé de prétentions récursoires (art. 6*a*, al. 1, LAI).[^66-2]
+<sup>1bis</sup> Si l’assuré n’exerce pas lui-même le droit aux prestations, il doit autoriser les personnes et les instances mentionnées à l’art. 6*a* LAI à fournir aux organes de l’assurance-invalidité tous les renseignements et les documents nécessaires pour établir ce droit et le bien-fondé de prétentions récursoires.[^66-2]
 
-<sup>2</sup> Si l’assuré est incapable de discernement, son représentant légal accorde l’autorisation visée à l’art. 6*a*, al. 1, LAI en signant la demande.[^66-3]
+<sup>2</sup> Si l’assuré est incapable de discernement, son représentant légal accorde l’autorisation visée à l’art. 6*a* LAI en signant la demande.[^66-3]
 
 [^66-1]: Nouvelle teneur selon le ch. I de l’O du 29 juin 1983, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1983 912](https://fedlex.data.admin.ch/eli/oc/1983/912_912_912)). Cette mod. remplace celle de l’art. 144 de l’O du 20 déc. 1982 sur l’assurance-accidents ([RS 832.202](https://fedlex.data.admin.ch/eli/cc/1983/38_38_38)).
-[^66-2]: Introduit par le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^66-3]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^66-2]: Introduit par le ch. I de l’O du 28 sept. 2007 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^66-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 67
 
@@ -1790,26 +2211,22 @@ Les offices AI cantonaux et communs feront, en collaboration avec les caisses de
 
 <sup>1</sup> L’office AI examine, au besoin en liaison avec la caisse de compensation compétente en vertu de l’art. 44, si l’assuré remplit les conditions.
 
-<sup>2</sup> Si ces conditions sont remplies, l’office AI réunit les pièces nécessaires, en particulier sur l’état de santé du requérant, son activité, sa capacité de travail et son aptitude à être réadapté, ainsi que sur l’indication de mesures déterminées de réadaptation. Des rapports ou des renseignements, des expertises ou une enquête sur place peuvent être exigés ou effectués; il peut être fait appel aux spécialistes de l’aide publique ou privée aux invalides. …[^69-2]
+<sup>2</sup> Si ces conditions sont remplies, l’office AI réunit les pièces nécessaires, en particulier sur l’état de santé du requérant, son activité, sa capacité de travail et son aptitude à être réadapté, ainsi que sur l’indication de mesures déterminées de réadaptation. Des rapports ou des renseignements, des expertises ou une instruction sur place peuvent être exigés ou effectués; il peut être fait appel aux spécialistes de l’aide publique ou privée aux invalides.[^69-2]
 
 <sup>3</sup> Les offices AI peuvent convoquer les assurés à un entretien. La date de l’entretien doit leur être communiquée dans un délai approprié.[^69-3]
 
 <sup>4</sup> …[^69-4]
 
 [^69-1]: Nouvelle teneur selon le ch. I de l’O du 15 juin 1992, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)).
-[^69-2]: Phrase abrogée par le ch. I de l’O du 11 sept. 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
+[^69-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^69-3]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^69-4]: Abrogé par le ch. I du R du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^69-4]: Abrogé par le ch. I de l’O du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 70
 
-**Évaluation**[^70-1]
+[^70-1]
 
-<sup>1</sup> L’office AI organise en principe une séance d’évaluation dans le but de déterminer si l’assuré est susceptible d’être réadapté.
-
-<sup>2</sup> Sur la base du résultat de la séance d’évaluation, l’office AI établit un plan de réadaptation.
-
-[^70-1]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^70-1]: Abrogé par le ch. I de l’O du 3 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 71
 
@@ -1825,15 +2242,26 @@ Les offices AI cantonaux et communs feront, en collaboration avec les caisses de
 
 #### Art. 72<sup>bis</sup>
 
-**Expertises médicales pluridisciplinaires[^72bis-2]**[^72bis-1]
+**Expertises médicales bi- et pluridisciplinaires [^72bis-2]**[^72bis-1]
 
-<sup>1</sup> Les expertises comprenant trois ou plus de trois disciplines médicales doivent se dérouler auprès d’un centre d’expertises médicales lié à l’office fédéral par une convention.
+<sup>1</sup> Les expertises comprenant trois ou plus de trois disciplines médicales doivent se dérouler auprès d’un centre d’expertises médicales lié à l’OFAS par une convention.
 
-<sup>2</sup> L’attribution du mandat d’expertise doit se faire de manière aléatoire[^72bis-3].
+<sup>1bis</sup> Les expertises impliquant deux disciplines médicales doivent être réalisées par un centre d’expertises médicales ou un binôme d’experts, liés dans les deux cas à l’OFAS par une convention.[^72bis-3]
 
-[^72bis-1]: Introduit par le ch. II 1 de l’O du 5 avr. 1978 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^72bis-2]: Ce terme a été adapté en application de l’art. 12 al. 1 LPubl ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^72bis-3]: Ce terme a été adapté en application de l’art. 12 al. 1 LPubl ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+<sup>2</sup> L’attribution du mandat d’expertise doit se faire de manière aléatoire[^72bis-4].
+
+[^72bis-1]: Introduit par le ch. II 1 de l’O du 5 avr. 1978 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^72bis-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^72bis-3]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^72bis-4]: Ce terme a été adapté en application de l’art. 12 al. 1 LPubl ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+
+#### Art. 72<sup>ter</sup>
+
+**Tarification**[^72ter-1]
+
+Les offices AI peuvent conclure avec les fournisseurs de prestations des conventions sur le remboursement des coûts des mesures d’instruction visées à l’art. 43 LPGA, pour autant qu’aucune autre convention tarifaire supérieure ne s’applique. L’art. 24<sup>sexies</sup> est applicable.
+
+[^72ter-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 73
 
@@ -1851,7 +2279,7 @@ Les offices AI cantonaux et communs feront, en collaboration avec les caisses de
 
 **Objet et notification du préavis**[^73bis-1]
 
-<sup>1</sup> Le préavis visé à l’art. 57*a* LAI ne porte que sur les questions qui relèvent des attributions des offices AI en vertu de l’art. 57, al. 1, let. c à f, LAI.[^73bis-2]
+<sup>1</sup> Le préavis visé à l’art. 57*a* LAI ne porte que sur les questions qui relèvent des attributions des offices AI en vertu de l’art. 57, al. 1, let. d et f à i, LAI.[^73bis-2]
 
 <sup>2</sup>
 
@@ -1861,17 +2289,19 @@ Le préavis sera notifié en particulier:
 - b. à la personne ou à l’autorité qui a exercé le droit aux prestations ou à laquelle une prestation en espèces est versée;
 - c. à la caisse de compensation compétente, lorsqu’il s’agit d’une décision portant sur une rente, une indemnité journalière ou une allocation pour impotent pour les assurés majeurs;
 - d. à l’assureur-accidents concerné ou à l’assurance militaire, si leur obligation d’allouer des prestations est touchée;
-- e. à l’assureur-maladie concerné, si son obligation d’allouer des prestations est touchée;
+- e.[^73bis-3] à l’assureur-maladie compétent au sens des art. 2 et 3 de la loi fédérale du 26 septembre 2014 sur la surveillance de l’assurance-maladie[^73bis-4] (assureur-maladie selon la LSAMal), si son obligation d’allouer des prestations est touchée;
 - f. à l’institution de prévoyance professionnelle compétente si la décision concerne son obligation d’allouer des prestations conformément aux art. 66, al. 2, et 70 LPGA. Si la compétence de l’institution n’est pas établie, le préavis de décision est notifié à la dernière institution à laquelle la personne assurée était affiliée ou à l’institution à laquelle un droit à des prestations avait été annoncé.
 
 [^73bis-1]: Introduit par le ch. I de l’O du 21 janv. 1987 ([RO 1987 456](https://fedlex.data.admin.ch/eli/oc/1987/456_456_456)). Nouvelle teneur selon le ch. I de l’O du 26 avr. 2006, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2007](https://fedlex.data.admin.ch/eli/oc/2006/311)).
-[^73bis-2]: Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^73bis-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^73bis-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^73bis-4]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
 
 #### Art. 73<sup>ter</sup>
 
 **Procédure de préavis**[^73ter-1]
 
-<sup>1</sup> Les parties peuvent faire part à l’office AI de leurs observations sur le préavis dans un délai de 30 jours.
+<sup>1</sup> ...[^73ter-2]
 
 <sup>2</sup> L’assuré peut communiquer ses observations à l’office AI par écrit ou oralement, lors d’un entretien personnel. Si l’audition a lieu oralement, l’office AI établit un procès-verbal sommaire qui est signé par l’assuré.
 
@@ -1880,6 +2310,7 @@ Le préavis sera notifié en particulier:
 <sup>4</sup> L’audition de l’assuré ne donne droit ni à une indemnité journalière ni au remboursement des frais de voyage.
 
 [^73ter-1]: Introduit par le ch. I de l’O du 26 avr. 2006, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2007](https://fedlex.data.admin.ch/eli/oc/2006/311)).
+[^73ter-2]: Abrogé par le ch. I de l’O du 3 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 74
 
@@ -1917,7 +2348,7 @@ Si les conditions permettant l’octroi d’une prestation sont manifestement re
 [^74ter-2]: Nouvelle teneur selon le ch. I de l’O du 26 avr. 2006, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2007](https://fedlex.data.admin.ch/eli/oc/2006/311)).
 [^74ter-3]: Introduite par le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^74ter-4]: Abrogée par le ch. I 17 de l’O du 7 nov. 2007 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^74ter-5]: Introduite par le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^74ter-5]: Introduite par le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 74<sup>quater</sup>
 
@@ -1928,7 +2359,7 @@ Si les conditions permettant l’octroi d’une prestation sont manifestement re
 <sup>2</sup> Il communique en outre à l’institution de prévoyance tenue de fournir des prestations et à l’organe d’exécution compétent de l’assurance-chômage le prononcé relatif à la prestation transitoire rendu selon l’art. 74<sup>ter</sup>, let. g. L’institution de prévoyance tenue de fournir des prestations a le droit d’exiger la notification d’une décision.[^74quater-2]
 
 [^74quater-1]: Introduit par le ch. I de l’O du 21 janv. 1987 ([RO 1987 456](https://fedlex.data.admin.ch/eli/oc/1987/456_456_456)). Nouvelle teneur selon le ch. I de l’O du 15 juin 1992, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)).
-[^74quater-2]: Introduit par le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^74quater-2]: Introduit par le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 75
 
@@ -1961,7 +2392,7 @@ La décision sera notifiée en particulier:[^76-2]
 [^76-4]: Abrogées par le ch. I de l’O du 26 avr. 2006, avec effet au 1<sup>er</sup> juil. 2006 ([RO 2006 2007](https://fedlex.data.admin.ch/eli/oc/2006/311)).
 [^76-5]: Nouvelle teneur selon le ch. I de l’O du 28 janv. 2004, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 743](https://fedlex.data.admin.ch/eli/oc/2004/74)).
 [^76-6]: Abrogée par le ch. I de l’O du 26 avr. 2006, avec effet au 1<sup>er</sup> juil. 2006 ([RO 2006 2007](https://fedlex.data.admin.ch/eli/oc/2006/311)).
-[^76-7]: Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^76-7]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 [^76-8]: Abrogée par le ch. I de l’O du 26 avr. 2006, avec effet au 1<sup>er</sup> juil. 2006 ([RO 2006 2007](https://fedlex.data.admin.ch/eli/oc/2006/311)).
 [^76-9]: Introduite par le ch. I de l’O du 11 sept. 2002 ([RO 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)). Abrogée par le ch. I de l’O du 26 avr. 2006, avec effet au 1<sup>er</sup> juil. 2006 ([RO 2006 2007](https://fedlex.data.admin.ch/eli/oc/2006/311)).
 [^76-10]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
@@ -1973,7 +2404,7 @@ La décision sera notifiée en particulier:[^76-2]
 
 L’ayant droit ou son représentant légal, ainsi que toute personne ou autorité à qui la prestation est payée, doit communiquer immédiatement à l’office AI tout changement important qui peut avoir des répercussions sur le droit aux prestations, en particulier les changements qui concernent l’état de santé, la capacité de gain ou de travail, l’impotence, ou encore le besoin de soins ou le besoin d’aide découlant de l’invalidité, le lieu de séjour déterminant pour fixer le montant de l’allocation pour impotent et de la contribution d’assistance, ainsi que la situation personnelle et éventuellement économique de l’assuré.
 
-[^77-1]: Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^77-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 ### D. Le versement des prestations****
 
@@ -1989,25 +2420,24 @@ L’ayant droit ou son représentant légal, ainsi que toute personne ou autorit
 
 <sup>1</sup> L’assurance paie, dans les limites de la prise en charge par l’office AI, les mesures de réadaptation préalablement déterminées par cet office. Elle prend en outre à sa charge, aux conditions fixées à l’art. 10, al. 2, LAI, les mesures de réadaptation déjà exécutées.[^78-2]
 
-<sup>2</sup> …[^78-3]
+<sup>2</sup> ...[^78-3]
 
-<sup>3</sup> Les mesures d’instruction sont prises en charge par l’assurance quand elles ont été ordonnées par l’office AI ou, à défaut, en tant qu’elles étaient indispensables à l’octroi de prestations ou faisaient partie intégrante de mesures de réadaptation octroyées après coup. …[^78-4].[^78-5]
+<sup>3</sup> ...[^78-4]
 
-<sup>4</sup> Les mesures de réadaptation sont payées par la Centrale de compensation, de même que les mesures d’instruction et les frais de voyage. L’art. 79<sup>bis</sup> est réservé.[^78-6]
+<sup>4</sup> Les mesures de réadaptation sont payées par la Centrale de compensation, de même que les mesures d’instruction et les frais de voyage. L’art. 79<sup>bis</sup> est réservé.[^78-5]
 
 <sup>5</sup> En règle générale, le paiement est fait à la personne ou à l’institution qui a exécuté la mesure de réadaptation ou d’instruction.
 
 <sup>6</sup> Lorsque le paiement est fait à l’assuré ou à son représentant légal et qu’il y a lieu d’admettre que la somme payée ne sera pas utilisée aux fins auxquelles elle est destinée, l’assurance prendra les mesures propres à en garantir l’emploi conforme.
 
-<sup>7</sup> Les factures des agents d’exécution et des personnes en contact permanent avec l’assurance sont payées par virement sur compte postal ou bancaire.[^78-7]
+<sup>7</sup> Les factures des agents d’exécution et des personnes en contact permanent avec l’assurance sont payées par virement sur compte postal ou bancaire.[^78-6]
 
 [^78-1]: Nouvelle teneur selon le ch. I de l’ACF du 15 janv. 1968, en vigueur depuis le 1<sup>er</sup> janv. 1968 ([RO 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)).
 [^78-2]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^78-3]: Abrogé par le ch. I de l’O du 15 juin 1992, avec effet au 1<sup>er</sup> juil. 1992 ([RO 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)).
-[^78-4]: Phrase abrogée par le ch. I de l’O du 11 sept. 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
-[^78-5]: Nouvelle teneur selon le ch. I de l’O du 15 juin 1992, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)).
-[^78-6]: Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^78-7]: Introduit par le ch. I de l’O du 29 juin 1983, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1983 912](https://fedlex.data.admin.ch/eli/oc/1983/912_912_912)).
+[^78-4]: Abrogé par le ch. I de l’O du 3 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^78-5]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^78-6]: Introduit par le ch. I de l’O du 29 juin 1983, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1983 912](https://fedlex.data.admin.ch/eli/oc/1983/912_912_912)).
 
 #### Art. 79
 
@@ -2026,18 +2456,78 @@ Les fournisseurs de prestations peuvent adresser leurs factures établies confor
 
 <sup>4</sup> Si une facture est contestée ou si une créance en restitution doit être exigée, l’office AI compétent rend les décisions nécessaires.
 
-<sup>5</sup> L’office fédéral publie des directives concernant l’établissement, la transmission, la vérification et le paiement des factures.
+<sup>5</sup> L’OFAS publie des directives concernant l’établissement, la transmission, la vérification et le paiement des factures visées à l’art. 27<sup>ter</sup> LAI.[^79-3]
 
 [^79-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 1998, en vigueur depuis le 15 août 1998 ([RO 1998 1839](https://fedlex.data.admin.ch/eli/oc/1998/1839_1839_1839)).
 [^79-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
+[^79-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 79<sup>bis</sup>
 
 **Règles de compétences particulières**[^79bis-1]
 
-L’office fédéral peut charger les offices AI de vérifier si le montant des factures est conforme aux conventions qui pourraient avoir été conclues et les charger de payer certaines prestations.
+L’OFAS peut charger les offices AI de vérifier si le montant des factures est conforme aux conventions qui pourraient avoir été conclues et les charger de payer certaines prestations.
 
 [^79bis-1]: Introduit par le ch. 2 de l’O du 18 oct. 1974 ([RO 1974 1594](https://fedlex.data.admin.ch/eli/oc/1974/1594_1594_1594)). Nouvelle teneur selon le ch. I de l’O du 15 juin 1992, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)).
+
+#### Art. 79<sup>ter</sup>
+
+**Facturation des mesures médicales en général**[^79ter-1]
+
+<sup>1</sup>
+
+Les fournisseurs de prestations doivent faire figurer sur leurs factures toutes les indications administratives et médicales nécessaires à la vérification du calcul de la rémunération et du caractère économique des prestations conformément à l’art. 27<sup>ter</sup>, al. 1, LAI. Ils doivent fournir en particulier les indications suivantes:
+
+- a. les dates des traitements ou des prestations fournies;
+- b. les prestations fournies, détaillées comme le prévoit le tarif applicable, et les positions tarifaires correspondantes;
+- c. les diagnostics et les procédures nécessaires au calcul du tarif applicable;
+- d. le numéro et la date de la décision ou de la communication;
+- e. le numéro d’assuré selon la LAVS[^79ter-2];
+- f. pour les traitements stationnaires, la part des frais à charge du canton et de l’assurance-invalidité.
+
+<sup>2</sup> Le fournisseur de prestations doit établir deux factures séparées, l’une pour les prestations prises en charge par l’assurance-invalidité et l’autre pour les autres prestations.
+
+<sup>3</sup> Pour les analyses, la facture est établie exclusivement par le laboratoire qui a effectué les analyses. Les tarifs forfaitaires sont réservés.
+
+<sup>4</sup> Le fournisseur de prestations envoie à l’assuré une copie de la facture. Celle-ci peut être envoyée sous forme électronique ou sur papier.
+
+[^79ter-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^79ter-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 79<sup>quater</sup>
+
+**Facturation dans le cas d’un modèle de rémunération de type DRG**[^79quater-1]
+
+<sup>1</sup> Dans le cas d’un modèle de rémunération de type DRG (*Diagnosis Related Groups*), le fournisseur de prestations doit munir d’un numéro d’identification unique les fichiers de données avec les indications administratives et médicales visées à l’art. 79<sup>ter</sup>. Les fichiers de données doivent respecter la structure harmonisée au niveau suisse telle que fixée par le DFI en vertu de l’art. 59*a*, al. 1, OAMal[^79quater-2].
+
+<sup>2</sup> Les diagnostics et procédures visés à l’art. 79<sup>ter</sup>, al. 1, doivent être codés conformément aux classifications mentionnées pour la statistique médicale des hôpitaux au ch. 62 de l’annexe à l’ordonnance du 30 juin 1993 sur les relevés statistiques[^79quater-3].
+
+<sup>3</sup> Le fournisseur de prestations transmet simultanément avec la facture les fichiers de données avec les indications administratives et médicales visées à l’art. 79<sup>ter</sup>, al. 1, à l’assurance-invalidité.
+
+<sup>4</sup> L’office AI détermine pour quelles factures un examen supplémentaire est nécessaire.
+
+[^79quater-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^79quater-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^79quater-3]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+
+#### Art. 79<sup>quinquies</sup>
+
+**Facturation dans le domaine ambulatoire et dans le domaine de la réadaptation médicale**[^79quinquies-1]
+
+L’art. 59*a*<sup>bis</sup> OAMal[^79quinquies-2] s’applique au domaine ambulatoire et au domaine de la réadaptation médicale.
+
+[^79quinquies-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^79quinquies-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+
+#### Art. 79<sup>sexies</sup>
+
+**Facturation des mesures de réinsertion préparant à la réadaptation professionnelle, des mesures d’ordre professionnel et des mesures d’instruction**[^79sexies-1]
+
+<sup>1</sup> Les fournisseurs de mesures au sens des art. 14*a* à 18 LAI et 43 LPGA doivent faire figurer sur leurs factures toutes les indications administratives nécessaires à la vérification du calcul de la rémunération et du caractère économique des prestations conformément à l’art. 27<sup>ter</sup>, al. 1, LAI.
+
+<sup>2</sup> Le fournisseur de prestations envoie à l’assuré une copie de la facture. Celle-ci peut être envoyée sous forme électronique ou sur papier.
+
+[^79sexies-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 ### II. Indemnités journalières
 
@@ -2045,17 +2535,25 @@ L’office fédéral peut charger les offices AI de vérifier si le montant des 
 
 **Paiement**
 
-<sup>1</sup> Les caisses de compensation ou les employeurs paient les indemnités journalières chaque mois à terme échu ou les compensent avec des créances conformément à l’art. 19, al. 2, LPGA ou à l’art 20, al. 2, LAVS[^80-1].[^80-2] L’office fédéral peut, dans certains cas, confier le paiement des indemnités journalières aux centres de réadaptation.[^80-3]
+<sup>1</sup> Les caisses de compensation ou les employeurs paient les indemnités journalières chaque mois à terme échu ou les compensent avec des créances conformément à l’art. 19, al. 2, LPGA ou à l’art 20, al. 2, LAVS[^80-1].[^80-2] L’OFAS peut, dans certains cas, confier le paiement des indemnités journalières aux centres de réadaptation.[^80-3]
 
-<sup>2</sup> Si l’assuré ou ses proches ont besoin des indemnités journalières à des intervalles plus rapprochés, des acomptes sont versés sur demande.[^80-4]
+<sup>1bis</sup>
 
-<sup>3</sup> …[^80-5]
+Lors d’une formation professionnelle initiale, les indemnités journalières sont versées, sous réserve de l’art. 24<sup>quater</sup> LAI:
+
+- a. au centre de formation ou à l’institution formatrice, qui les rétrocède à l’assuré;
+- b. à l’assuré directement, lorsqu’il suit une formation professionnelle supérieure ou fréquente une haute école.[^80-4]
+
+<sup>2</sup> Si l’assuré ou ses proches ont besoin des indemnités journalières à des intervalles plus rapprochés, des acomptes sont versés sur demande.[^80-5]
+
+<sup>3</sup> …[^80-6]
 
 [^80-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^80-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
 [^80-3]: Nouvelle teneur selon le ch. I de l’O du 21 janv. 1987, en vigueur depuis le 1<sup>er</sup> juil. 1987 ([RO 1987 456](https://fedlex.data.admin.ch/eli/oc/1987/456_456_456)).
-[^80-4]: Nouvelle teneur selon le ch. I de l’O du 21 janv. 1987, en vigueur depuis le 1<sup>er</sup> juil. 1987 ([RO 1987 456](https://fedlex.data.admin.ch/eli/oc/1987/456_456_456)).
-[^80-5]: Abrogé par le ch. I de l’O du 29 nov. 1995, avec effet au 1<sup>er</sup> janv. 1997 ([RO 1996 691](https://fedlex.data.admin.ch/eli/oc/1996/691_691_691)).
+[^80-4]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^80-5]: Nouvelle teneur selon le ch. I de l’O du 21 janv. 1987, en vigueur depuis le 1<sup>er</sup> juil. 1987 ([RO 1987 456](https://fedlex.data.admin.ch/eli/oc/1987/456_456_456)).
+[^80-6]: Abrogé par le ch. I de l’O du 29 nov. 1995, avec effet au 1<sup>er</sup> janv. 1997 ([RO 1996 691](https://fedlex.data.admin.ch/eli/oc/1996/691_691_691)).
 
 #### Art. 81
 
@@ -2084,7 +2582,7 @@ L’office fédéral peut charger les offices AI de vérifier si le montant des 
 
 [^chap5-lvlD-lvlIII-1]
 
-[^chap5-lvlD-lvlIII-1]: Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^chap5-lvlD-lvlIII-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 82
 
@@ -2098,7 +2596,7 @@ L’office fédéral peut charger les offices AI de vérifier si le montant des 
 
 [^82-1]: Nouvelle teneur selon le ch. I de l’O du 28 janv. 2004, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 743](https://fedlex.data.admin.ch/eli/oc/2004/74)).
 [^82-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^82-3]: Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^82-3]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 83
 
@@ -2131,7 +2629,7 @@ L’office fédéral peut charger les offices AI de vérifier si le montant des 
 <sup>3</sup> Pour les créances en restitution non remises et irrécouvrables, l’art. 79<sup>bis</sup> RAVS s’applique par analogie.[^85-3]
 
 [^85-1]: Abrogé par le ch. I de l’O du 28 sept. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^85-2]: Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^85-2]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 [^85-3]: Introduit par le ch. I de l’O du 29 nov. 1976 ([RO 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)). Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
 
 #### Art. 85<sup>bis</sup>
@@ -2154,25 +2652,25 @@ L’office fédéral peut charger les offices AI de vérifier si le montant des 
 
 [^chap5-lvlDbis-1]
 
-[^chap5-lvlDbis-1]: Introduit par le ch. I de l’O du 28 sept. 2007 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Abrogé par le ch. I du R du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^chap5-lvlDbis-1]: Introduit par le ch. I de l’O du 28 sept. 2007 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Abrogé par le ch. I de l’O du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 86
 
 [^86-1]
 
-[^86-1]: Abrogé par le ch. I du R du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^86-1]: Abrogé par le ch. I de l’O du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 86<sup>bis</sup>
 
 [^86bis-1]
 
-[^86bis-1]: Introduit par le ch. I de l’O du 28 sept. 2007 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Abrogé par le ch. I du R du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^86bis-1]: Introduit par le ch. I de l’O du 28 sept. 2007 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Abrogé par le ch. I de l’O du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 ### E. Révision de la rente, de l’allocation pour impotent et de la contribution d’assistance****
 
 [^chap5-lvlE-1]
 
-[^chap5-lvlE-1]: Anciennement avant art. 86. Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^chap5-lvlE-1]: Anciennement avant art. 86. Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 86<sup>ter</sup>
 
@@ -2197,7 +2695,7 @@ La révision a lieu d’office:
 
 <sup>3</sup> Lorsque la rente, l’allocation pour impotent ou la contribution d’assistance a été refusée parce que le degré d’invalidité était insuffisant, parce qu’il n’y avait pas d’impotence ou parce que le besoin d’aide ne donnait pas droit à une contribution d’assistance, la nouvelle demande ne peut être examinée que si les conditions prévues à l’al. 2 sont remplies.
 
-[^87-1]: Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^87-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 88
 
@@ -2213,7 +2711,7 @@ La révision a lieu d’office:
 
 [^88-1]: Nouvelle teneur selon le ch. I de l’O du 15 juin 1992, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)).
 [^88-2]: Abrogé par le ch. I de l’O du 15 juin 1992, avec effet au 1<sup>er</sup> juil. 1992 ([RO 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)).
-[^88-3]: Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^88-3]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 88a
 
@@ -2223,7 +2721,7 @@ La révision a lieu d’office:
 
 <sup>2</sup> Si la capacité de gain de l’assuré ou sa capacité d’accomplir les travaux habituels se dégrade, ou si son impotence ou encore le besoin de soins ou le besoin d’aide découlant de son invalidité s’aggrave, ce changement est déterminant pour l’accroissement du droit aux prestations dès qu’il a duré trois mois sans interruption notable. L’art. 29<sup>bis</sup> est toutefois applicable par analogie.
 
-[^88a-1]: Introduit par le ch. I de l’O du 29 nov. 1976 ([RO 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)). Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^88a-1]: Introduit par le ch. I de l’O du 29 nov. 1976 ([RO 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)). Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 88<sup>bis</sup>
 
@@ -2245,9 +2743,9 @@ La diminution ou la suppression de la rente, de l’allocation pour impotent ou 
 - b.[^88bis-6] rétroactivement à la date où elle a cessé de correspondre aux droits de l’assuré, s’il se l’est fait attribuer irrégulièrement ou s’il a manqué, à un moment donné, à l’obligation de renseigner qui lui incombe raisonnablement en vertu de l’art. 77, que la poursuite du versement de la prestation ait eu lieu ou non en raison de l’obtention irrégulière ou de la violation de l’obligation de renseigner.
 
 [^88bis-1]: Introduit par le ch. I de l’ACF du 15 janv. 1968 ([RO 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)). Nouvelle teneur selon le ch. I de l’O du 29 nov. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)).
-[^88bis-2]: Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^88bis-2]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 [^88bis-3]: Nouvelle teneur selon le ch. I de l’O du 15 juin 1992, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)).
-[^88bis-4]: Nouvelle teneur selon le ch. I du R du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^88bis-4]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 [^88bis-5]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 1982, en vigueur depuis le 1<sup>er</sup> janv. 1983 ([RO 1982 1284](https://fedlex.data.admin.ch/eli/oc/1982/1284_1284_1284)).
 [^88bis-6]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
 
@@ -2259,29 +2757,59 @@ La diminution ou la suppression de la rente, de l’allocation pour impotent ou 
 
 #### Art. 88<sup>ter</sup>
 
-**Avis aux assureurs-maladie selon l’art. 11 LAMal**[^88ter-1]
+**Avis aux assureurs-maladie au sens de la LSAMal**[^88ter-1]
 
-Si l’assuré d’un assureur-maladie visé à l’art. 11 de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^88ter-2] (assureur-maladie) requiert de l’assurance des mesures médicales, l’office AI compétent en avisera l’assureur-maladie intéressé ou un bureau de liaison.
+Si une personne est assurée auprès d’un assureur-maladie au sens de la LSAMal et requiert des mesures médicales de l’assurance-invalidité, l’office AI compétent en avisera l’assureur-maladie au sens de la LSAMal concerné.
 
-[^88ter-1]: Nouvelle teneur selon le ch. 2 de l’annexe à l’O du 27 juin 1995 sur l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
-[^88ter-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^88ter-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 88<sup>quater</sup>
 
-**Notification des décisions des offices AI et droit de recours des assureurs-maladie**[^88quater-1]
+**Notification des décisions des offices AI et droit de recours des assureurs-maladie au sens de la LSAMal**[^88quater-1]
 
-<sup>1</sup> Si un assureur-maladie a avisé l’office AI ou la caisse de compensation compétents qu’il a fourni une garantie de paiement ou effectué un paiement pour un assuré qui lui avait été annoncé, la décision allouant ou refusant les prestations doit lui être notifiée.
+Si un assureur-maladie au sens de la LSAMal a avisé l’office AI ou la caisse de compensation compétents qu’il a fourni une garantie de paiement ou effectué un paiement pour un assuré qui lui avait été annoncé, la décision allouant ou refusant les prestations doit lui être notifiée.
 
-<sup>2</sup> et <sup>3</sup> …[^88quater-2]
-
-[^88quater-1]: Nouvelle teneur selon le ch. 2 de l’annexe à l’O du 27 juin 1995 sur l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
-[^88quater-2]: Abrogés par le ch. I de l’O du 11 sept. 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
+[^88quater-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 88<sup>quinquies</sup>
 
 [^88quinquies-1]
 
 [^88quinquies-1]: Abrogé par le ch. I de l’O du 11 sept. 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
+
+## Chapitre VI*a*.**** Les rapports avec l’assurance-accidents dans le cas des personnes visées à l’art. 1*a*, al. 1, let. c, LAA
+
+[^chap6a-1]
+
+[^chap6a-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 88<sup>sexies</sup>
+
+**Principe de l’assurance-accidents de personnes au sens de l’art. 1a, al. 1, let. c, LAA**
+
+Les modalités et la procédure de l’assurance-accidents des personnes visées à l’art. 1*a*, al. 1, let. c, LAA[^88sexies-1] sont régies par la législation sur l’assurance-accidents.
+
+[^88sexies-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+
+#### Art. 88<sup>septies</sup>
+
+**Masse salariale**
+
+<sup>1</sup> La Centrale de compensation communique la masse salariale provisoire et définitive servant de base au calcul des primes de l’assurance-accidents des personnes visées à l’art. 1*a*, al. 1, let. c, LAA[^88septies-1] à la Caisse nationale suisse d’assurance en cas d’accidents (CNA).
+
+<sup>2</sup> La Centrale de compensation indique la masse salariale individuellement pour chaque office AI.
+
+[^88septies-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+
+#### Art. 88<sup>octies</sup>
+
+**Remboursement des primes**
+
+<sup>1</sup> La CNA soumet sa facture visée à l’art. 132*c* de l’ordonnance du 20 décembre 1982 sur l’assurance-accidents[^88octies-1] à l’OFAS pour approbation.
+
+<sup>2</sup> Une fois la facture approuvée, la Centrale de compensation rembourse les primes à la CNA.
+
+[^88octies-1]: [RS 832.202](https://fedlex.data.admin.ch/eli/cc/1983/38_38_38)
 
 ## Chapitre VII**** Dispositions diverses
 
@@ -2306,15 +2834,16 @@ Sauf dispositions contraires de la LAI ou du présent règlement, les dispositio
 
 #### Art. 89<sup>ter</sup>
 
-**Qualité pour recourir de l’office fédéral contre les décisions des tribunaux arbitraux cantonaux[^89ter-2]**[^89ter-1]
+**Qualité pour recourir de l’OFAS contre les décisions des tribunaux arbitraux cantonaux[^89ter-2]**[^89ter-1]
 
-<sup>1</sup> Les décisions des tribunaux arbitraux cantonaux (art. 27<sup>bis</sup> LAI) doivent être notifiées à l’office fédéral.
+<sup>1</sup> Les décisions des tribunaux arbitraux cantonaux (art. 27<sup>quinquies</sup> LAI) doivent être notifiées à l’OFAS.[^89ter-3]
 
-<sup>2</sup> L’office fédéral a qualité pour recourir devant le Tribunal fédéral contre ces décisions.[^89ter-3]
+<sup>2</sup> L’OFAS a qualité pour recourir devant le Tribunal fédéral contre ces décisions.[^89ter-4]
 
 [^89ter-1]: Anciennement art. 89<sup>bis</sup>. Introduit par le ch. I de l’O du 21 janv. 1987 ([RO 1987 456](https://fedlex.data.admin.ch/eli/oc/1987/456_456_456)). Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^89ter-2]: Nouvelle teneur selon le ch. II 92 de l’O du 8 nov. 2006 (Révision totale de la procédure fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
-[^89ter-3]: Nouvelle teneur selon le ch. II 92 de l’O du 8 nov. 2006 (Révision totale de la procédure fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^89ter-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^89ter-4]: Nouvelle teneur selon le ch. II 92 de l’O du 8 nov. 2006 (Révision totale de la procédure fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 #### Art. 90
 
@@ -2322,9 +2851,17 @@ Sauf dispositions contraires de la LAI ou du présent règlement, les dispositio
 
 <sup>1</sup> Sont considérés comme frais de voyage nécessaires en Suisse, aux termes de l’art. 51 LAI, les frais des trajets parcourus pour se rendre chez l’agent d’exécution compétent le plus proche. Si l’assuré choisit un agent plus éloigné, il doit supporter les frais supplémentaires qui en résultent.
 
-<sup>2</sup> Sont remboursés les frais correspondant au coût des parcours effectués au moyen des transports en commun par l’itinéraire le plus direct. Si l’assuré doit toutefois, par suite de son invalidité, utiliser un autre moyen de transport, on lui remboursera les frais ainsi encourus. Les dépenses minimes pour un déplacement dans le rayon local ne sont pas remboursées.[^90-2]
+<sup>2</sup> Sont remboursés les frais correspondant au coût des parcours effectués au moyen des transports en commun par l’itinéraire le plus direct. Si l’assuré doit toutefois, par suite de son invalidité, utiliser un autre moyen de transport, on lui remboursera les frais ainsi encourus.[^90-2]
 
-<sup>3</sup> L’assurance rembourse, outre les frais de transport, le viatique et les frais accessoires indispensables, notamment les frais de transport et le viatique pour la personne qui doit nécessairement accompagner l’invalide. En cas de voyages de congé ou de visite, aucun viatique n’est accordé.[^90-3]
+<sup>2bis</sup>
+
+Les frais de voyage ne sont pas remboursés si l’assuré bénéficie de l’une des mesures de réadaptation suivantes:
+
+- a. location de services (art. 18*a*<sup>bis</sup> LAI);
+- b. allocation d’initiation au travail (art. 18*b* LAI);
+- c. aide en capital (art. 18*d* LAI).[^90-3]
+
+<sup>3</sup> L’assurance rembourse, outre les frais de transport, le viatique et les frais accessoires indispensables, notamment les frais de transport et le viatique pour la personne qui doit nécessairement accompagner l’invalide. En cas de voyages de congé ou de visite, aucun viatique n’est accordé.[^90-4]
 
 <sup>4</sup> Le montant du viatique est fixé comme il suit:
 
@@ -2332,21 +2869,22 @@ Sauf dispositions contraires de la LAI ou du présent règlement, les dispositio
 <tr><td></td><td>Fr.</td></tr>
 <tr><td>a. lorsque l’absence du domicile dure de cinq à huit heures</td><td>11.50 par jour</td></tr>
 <tr><td>b. lorsque l’absence du domicile dure plus de huit heures</td><td>19.— par jour</td></tr>
-<tr><td>c. pour le gîte à l’extérieur</td><td>37.50 par nuit .[^90-4]</td></tr>
+<tr><td>c. pour le gîte à l’extérieur</td><td>37.50 par nuit .[^90-5]</td></tr>
 </table>
 
-<sup>5</sup> Des bons sont remis aux assurés qui utilisent les moyens de transport des entreprises publiques. L’office fédéral désigne les services habilités à délivrer les bons. Au surplus, les art. 78 et 79 sont applicables.
+<sup>5</sup> Des bons sont remis aux assurés qui utilisent les moyens de transport des entreprises publiques. L’OFAS désigne les services habilités à délivrer les bons. Au surplus, les art. 78 et 79 sont applicables.
 
 [^90-1]: Nouvelle teneur selon le ch. I de l’ACF du 15 janv. 1968, en vigueur depuis le 1<sup>er</sup> janv. 1968 ([RO 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)).
-[^90-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)).
-[^90-3]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)).
-[^90-4]: Nouvelle teneur selon le ch. I de l’O du 21 août 1991, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2116](https://fedlex.data.admin.ch/eli/oc/1991/2116_2116_2116)).
+[^90-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^90-3]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^90-4]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)).
+[^90-5]: Nouvelle teneur selon le ch. I de l’O du 21 août 1991, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2116](https://fedlex.data.admin.ch/eli/oc/1991/2116_2116_2116)).
 
 #### Art. 90<sup>bis</sup>
 
 **Frais de voyage à l’étranger**[^90bis-1]
 
-Les contributions aux frais de voyage de Suisse à l’étranger, de l’étranger en Suisse et à l’étranger sont fixées dans chaque cas par l’office fédéral.
+Les contributions aux frais de voyage de Suisse à l’étranger, de l’étranger en Suisse et à l’étranger sont fixées dans chaque cas par l’OFAS.
 
 [^90bis-1]: Introduit par le ch. I de l’ACF du 15 janv. 1968, en vigueur depuis le 1<sup>er</sup> janv. 1968 ([RO 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)).
 
@@ -2354,9 +2892,9 @@ Les contributions aux frais de voyage de Suisse à l’étranger, de l’étrang
 
 **Perte de gain consécutive à des mesures d’instruction**[^91-1]
 
-<sup>1</sup> Si, durant les jours pour lesquels il n’a pas droit à une indemnité journalière de l’assurance, l’assuré subit une perte de gain en raison de l’instruction de la demande de prestation, l’assurance lui verse, en cas de perte de gain démontrée, une indemnité journalière d’un montant de 30 % du montant maximal du gain journalier assuré selon la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^91-2].
+<sup>1</sup> Si, durant les jours pour lesquels il n’a pas droit à une indemnité journalière de l’assurance-invalidité, l’assuré subit une perte de gain en raison de l’instruction de la demande de prestation, l’assurance-invalidité lui verse, en cas de perte de gain démontrée, une indemnité journalière correspondant à 30 % du montant maximal du gain journalier assuré selon la LAA[^91-2].[^91-3]
 
-<sup>2</sup> Si des personnes auxquelles il est demandé des renseignements subissent une perte de gain en raison de l’instruction de la demande de prestations, l’assurance les indemnise, si leur perte de gain est démontrée, de la manière qui est prévue à l’al. 1. Les frais de voyage en Suisse sont indemnisés conformément aux taux indiqués à l’art. 90. Les contributions aux frais de voyage à l’étranger sont fixées dans chaque cas par l’office fédéral.
+<sup>2</sup> Si des personnes auxquelles il est demandé des renseignements subissent une perte de gain en raison de l’instruction de la demande de prestations, l’assurance les indemnise, si leur perte de gain est démontrée, de la manière qui est prévue à l’al. 1. Les frais de voyage en Suisse sont indemnisés conformément aux taux indiqués à l’art. 90. Les contributions aux frais de voyage à l’étranger sont fixées dans chaque cas par l’OFAS.
 
 <sup>3</sup>
 
@@ -2369,6 +2907,7 @@ Sur les contributions versées selon les al. 1 et 2, il n’est pas perçu de co
 
 [^91-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
 [^91-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^91-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 92
 
@@ -2404,17 +2943,63 @@ Sur les contributions versées selon les al. 1 et 2, il n’est pas perçu de co
 
 **Études scientifiques**[^96-1]
 
-<sup>1</sup> Après consultation de la Commission fédérale AVS/AI, le département établit un programme pluriannuel concernant des études scientifiques relatives à l’application de la loi. Il adapte en permanence le programme dont il établit le budget.
+<sup>1</sup> Après consultation de la Commission fédérale AVS/AI, le DFI établit un programme pluriannuel concernant des études scientifiques relatives à l’application de la loi. Il adapte en permanence le programme dont il établit le budget.
 
-<sup>2</sup> L’office fédéral est chargé de l’exécution du programme. Il peut confier sa réalisation en totalité ou en partie à des tiers.
+<sup>2</sup> L’OFAS est chargé de l’exécution du programme. Il peut confier sa réalisation en totalité ou en partie à des tiers.
 
 [^96-1]: Anciennement sous Chap. VIII. Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
+
+#### Art. 96<sup>bis</sup>
+
+**Exigences minimales applicables aux conventions passées avec les instances cantonales**[^96bis-1]
+
+<sup>1</sup> Dans les conventions visées à l’art. 68<sup>bis</sup>, al. 1<sup>bis</sup> et 1<sup>ter</sup>, LAI, les offices AI et les organes d’exécution cantonaux au sens de l’art. 68<sup>bis</sup>, al. 1, let. d, LAI règlent au moins les prestations, les groupes cibles, les compétences et la vérification du contenu de la convention. Ils contrôlent le respect de la convention.
+
+<sup>2</sup> L’OFAS précise les exigences minimales et évalue la mise en œuvre de l’art. 68<sup>bis</sup>, al. 1<sup>bis</sup> et 1<sup>ter</sup>, LAI. Les offices AI sont tenus d’informer en tout temps l’OFAS et les organes de révision de l’utilisation des contributions et de lui garantir l’accès aux documents déterminants.
+
+[^96bis-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 96<sup>ter</sup>
+
+**Contribution au service cantonal de coordination**[^96ter-1]
+
+<sup>1</sup>
+
+Le service cantonal de coordination obtient des contributions notamment pour:
+
+- a. la collaboration avec l’office AI;
+- b. la détection précoce et le suivi des jeunes atteints dans leur santé.
+
+<sup>2</sup> L’OFAS fixe le montant des contributions de chaque office AI en fonction de la part des 13 à 25 ans dans la population résidente cantonale et met à jour la clé de répartition tous les quatre ans.
+
+<sup>3</sup>
+
+Les offices AI peuvent demander à l’OFAS des contributions allant de 50 000 à 400 000 francs pour le cofinancement au sens de l’art. 68<sup>bis</sup>, al. 1<sup>bis</sup>, LAI s’ils remplissent les conditions suivantes:
+
+- a. le canton concerné compte un nombre suffisant de personnes âgées de 13 à 25 ans dans sa population résidente pour la contribution choisie, et
+- b. la contribution financière de l’AI n’excède pas un tiers des dépenses en personnel des instances cantonales.
+
+[^96ter-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 96<sup>quater</sup>
+
+**Offres transitoires cantonales**[^96quater-1]
+
+<sup>1</sup> Sont considérées comme des mesures préparant à une formation professionnelle initiale au sens de l’art. 68<sup>bis</sup>, al. 1<sup>ter</sup>, LAI les offres transitoires cantonales mises en œuvre dans le cadre de l’art. 12 de la LFPr[^96quater-2] et proposant une prestation supplémentaire aux personnes atteintes dans leur santé ayant déposé une demande de prestations auprès de l’AI et âgées de moins de 25 ans.
+
+<sup>2</sup> Si une convention au sens de l’art. 96<sup>bis</sup> a été conclue, l’office AI peut participer à hauteur d’un tiers au plus des coûts des mesures préparatoires cantonales visées à l’al. 1.
+
+<sup>3</sup> Les mesures préparant à une formation professionnelle initiale au sens de l’art. 68<sup>bis</sup>, al. 1<sup>ter</sup>, LAI se déroulent après la scolarité obligatoire et en premier lieu dans des structures ordinaires de la formation professionnelle. Par analogie avec l’art. 7, al. 2, de l’ordonnance du 19 novembre 2003 sur la formation professionnelle[^96quater-3], elles durent un an au maximum.
+
+[^96quater-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^96quater-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^96quater-3]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
 
 #### Art. 97
 
 **Information concernant les prestations et la procédure**[^97-1]
 
-<sup>1</sup> Après consultation de la Commission fédérale AVS/AI, le département établit un programme pluriannuel pour une information générale, à l’échelle nationale, sur les prestations de l’assurance. Il adapte en permanence le programme dont il établit le budget.
+<sup>1</sup> Après consultation de la Commission fédérale AVS/AI, le DFI établit un programme pluriannuel pour une information générale, à l’échelle nationale, sur les prestations de l’assurance. Il adapte en permanence le programme dont il établit le budget.
 
 <sup>2</sup>
 
@@ -2423,7 +3008,7 @@ Les informations visent notamment à:
 - a. présenter de façon compréhensible aux assurés et aux services de consultation pour les assurés le système des prestations de l’assurance dans son ensemble ainsi que la procédure pour apprécier et faire valoir ses droits aux prestations;
 - b. fournir des renseignements destinés à des groupes de risques et à des groupes cibles de l’assurance quant aux prestations de l’assurance et à la procédure pour apprécier et faire valoir leurs droits.
 
-<sup>3</sup> L’office fédéral est chargé de l’exécution du programme et veille à la coordination des tâches d’information du public dévolues aux offices AI. La réalisation du programme d’information peut être en totalité ou en partie confiée à des tiers.
+<sup>3</sup> L’OFAS est chargé de l’exécution du programme et veille à la coordination des tâches d’information du public dévolues aux offices AI. La réalisation du programme d’information peut être en totalité ou en partie confiée à des tiers.
 
 [^97-1]: Anciennement sous Chap. VIII. Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 
@@ -2433,7 +3018,7 @@ Les informations visent notamment à:
 
 <sup>1</sup>
 
-Dans le cadre de l’exécution de projets pilotes en vertu de l’art. 68<sup>quater</sup> LAI, l’office fédéral a les tâches suivantes:
+Dans le cadre de l’exécution de projets pilotes en vertu de l’art. 68<sup>quater</sup> LAI, l’OFAS a les tâches suivantes:
 
 - a. il règle par voie d’ordonnance les critères auxquels doivent satisfaire les demandes ainsi que la mise en œuvre des projets pilotes;
 - b. il statue sur l’exécution de projets pilotes;
@@ -2445,6 +3030,48 @@ Dans le cadre de l’exécution de projets pilotes en vertu de l’art. 68<sup>q
 [^98-1]: Anciennement sous Chap. VIII. Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^98-2]: [RS 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
 [^98-3]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+
+#### Art. 98<sup>bis</sup>
+
+**Entreprises au sens de l’art. 68<sup>quinquies</sup> LAI**[^98bis-1]
+
+Seules les entreprises du marché primaire du travail sont considérées comme des entreprises au sens de l’art. 68<sup>quinquies</sup> LAI. Les établissements et les ateliers au sens de l’art. 27 LAI sont exclues.
+
+[^98bis-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 98<sup>ter</sup>
+
+**Convention de collaboration: compétence et procédure**[^98ter-1]
+
+<sup>1</sup> Le DFI est compétent pour conclure des conventions de collaboration avec les organisations faîtières du monde du travail au sens de l’art. 68<sup>sexies</sup> LAI.
+
+<sup>2</sup> Seules les organisations faîtières actives à l’échelle nationale ou dans une région linguistique sont considérées comme des organisations faîtières du monde du travail.
+
+<sup>3</sup> Les organisations faîtières du monde du travail adressent leur demande de conclusion d’une convention de collaboration à l’OFAS. Ce dernier met un formulaire à disposition pour cela.
+
+<sup>4</sup> Avant de conclure une convention de collaboration, le DFI consulte la Commission fédérale de l’AVS/AI.
+
+[^98ter-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 98<sup>quater</sup>
+
+**Convention de collaboration: contenu**[^98quater-1]
+
+<sup>1</sup>
+
+Les conventions de collaboration contiennent au minimum des dispositions sur:
+
+- a. le but;
+- b. les mesures et leur financement;
+- c. les modalités de mise en œuvre, de suivi et d’analyse des effets des mesures;
+- d. la durée, le renouvellement et la résiliation de la convention.
+
+<sup>2</sup> Les mesures prévues par les conventions de collaboration ne peuvent pas déroger aux dispositions de la LAI et doivent être mises en œuvre à l’échelle nationale ou dans une région linguistique.
+
+<sup>3</sup> Lorsqu’une convention de collaboration prévoit que l’assurance-invalidité participe au financement des mesures, les conditions de la loi fédérale du 5 octobre 1990 sur les subventions[^98quater-2] doivent être respectées.
+
+[^98quater-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^98quater-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 ## Chapitre VIII Les subventions pour l’encouragement de l’aide aux invalides****
 
@@ -2508,7 +3135,7 @@ Une organisation se consacre dans une large mesure à l’aide aux invalides au 
 - b. lorsque au moins 1000 personnes invalides et leurs proches bénéficient de ses prestations, ou
 - c. lorsque les coûts complets imputables aux prestations au sens de l’art. 74 LAI s’élèvent à 1 million de francs par an au moins.
 
-<sup>2</sup> Pour l’octroi d’aides financières, l’office fédéral conclut, en vertu de la loi du 5 octobre 1990 sur les subventions[^108-2], des contrats de prestations avec les organisations au sens de l’al. 1; ces contrats portent sur les prestations considérées et ont une durée maximale de quatre ans. S’il s’avère impossible de conclure un contrat, l’office fédéral rend une décision susceptible de recours sur le droit aux subventions.
+<sup>2</sup> Pour l’octroi d’aides financières, l’OFAS conclut, en vertu de la loi du 5 octobre 1990 sur les subventions[^108-2], des contrats de prestations avec les organisations au sens de l’al. 1; ces contrats portent sur les prestations considérées et ont une durée maximale de quatre ans. S’il s’avère impossible de conclure un contrat, l’OFAS rend une décision susceptible de recours sur le droit aux subventions.
 
 [^108-1]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
 [^108-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
@@ -2527,7 +3154,7 @@ Des subventions sont accordées pour financer les prestations suivantes, à cond
 - d. prestations visant à soutenir et encourager l’intégration des invalides;
 - e.[^108bis-3] accompagnement à domicile pour les invalides.
 
-<sup>2</sup> L’office fédéral définit les prestations dans le détail. Ni l’activité des comités, ni celle des assemblées générales ou des délégués, ni les dépenses occasionnées par des collectes ne donnent droit à des subventions.
+<sup>2</sup> L’OFAS définit les prestations dans le détail. Ni l’activité des comités, ni celle des assemblées générales ou des délégués, ni les dépenses occasionnées par des collectes ne donnent droit à des subventions.
 
 <sup>3</sup> Dans le cadre de l’accompagnement à domicile, le maximum pris en considération est de quatre heures d’aide par personne handicapée et par semaine.[^108bis-4]
 
@@ -2540,9 +3167,9 @@ Des subventions sont accordées pour financer les prestations suivantes, à cond
 
 **Conditions**[^108ter-1]
 
-<sup>1</sup> Des subventions ne sont accordées que si le besoin en prestations au sens de l’art. 108<sup>bis</sup> est prouvé. L’office fédéral édicte des directives à cet effet.
+<sup>1</sup> Des subventions ne sont accordées que si le besoin en prestations au sens de l’art. 108<sup>bis</sup> est prouvé. L’OFAS édicte des directives à cet effet.
 
-<sup>2</sup> Les organisations effectuent le relevé statistique des prestations et de leurs bénéficiaires, remplissent les conditions relatives à la comptabilité et assurent la qualité des prestations fournies. L’office fédéral édicte des directives à cet effet.
+<sup>2</sup> Les organisations effectuent le relevé statistique des prestations et de leurs bénéficiaires, remplissent les conditions relatives à la comptabilité et assurent la qualité des prestations fournies. L’OFAS édicte des directives à cet effet.
 
 [^108ter-1]: Introduit par le ch. I de l’O du 2 fév. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 1199](https://fedlex.data.admin.ch/eli/oc/2000/193)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
 
@@ -2550,9 +3177,9 @@ Des subventions sont accordées pour financer les prestations suivantes, à cond
 
 **Calcul et montant des subventions**[^108quater-1]
 
-<sup>1</sup> La subvention versée au partenaire contractuel pour une période contractuelle déterminée correspond au maximum à la subvention accordée pour la période contractuelle précédente, que l’office fédéral peut adapter au renchérissement selon l’indice suisse des prix à la consommation. Est réservé le versement de subventions pour des prestations nouvelles ou élargies dont le besoin est prouvé conformément à l’art. 108<sup>ter</sup>.[^108quater-2]
+<sup>1</sup> La subvention versée au partenaire contractuel pour une période contractuelle déterminée correspond au maximum à la subvention accordée pour la période contractuelle précédente, que l’OFAS peut adapter au renchérissement selon l’indice suisse des prix à la consommation. Est réservé le versement de subventions pour des prestations nouvelles ou élargies dont le besoin est prouvé conformément à l’art. 108<sup>ter</sup>.[^108quater-2]
 
-<sup>2</sup> L’office fédéral peut octroyer pour chaque nouvelle période contractuelle un supplément pour des prestations nouvelles ou élargies au sens de l’art. 108<sup>bis</sup>. Ce supplément est calculé de la manière suivante: le total des subventions accordées pour la dernière année de la période contractuelle précédente est multiplié par un taux de majoration. Ce taux correspond au taux d’augmentation moyenne du nombre de bénéficiaires de prestations individuelles de l’assurance-invalidité durant les trois années précédant l’année de négociation. L’année de négociation est celle qui précède une période contractuelle.
+<sup>2</sup> L’OFAS peut octroyer pour chaque nouvelle période contractuelle un supplément pour des prestations nouvelles ou élargies au sens de l’art. 108<sup>bis</sup>. Ce supplément est calculé de la manière suivante: le total des subventions accordées pour la dernière année de la période contractuelle précédente est multiplié par un taux de majoration. Ce taux correspond au taux d’augmentation moyenne du nombre de bénéficiaires de prestations individuelles de l’assurance-invalidité durant les trois années précédant l’année de négociation. L’année de négociation est celle qui précède une période contractuelle.
 
 <sup>3</sup> Le taux de majoration s’applique à chacune des années de la période contractuelle et ne doit pas dépasser la croissance potentielle du produit intérieur brut réel.
 
@@ -2578,15 +3205,15 @@ Des subventions sont accordées pour financer les prestations suivantes, à cond
 
 **Procédure**[^110-1]
 
-<sup>1</sup> Les organisations au sens de l’art. 108, al. 1, qui demandent des subventions doivent soumettre à l’office fédéral une requête. L’office fédéral détermine, en relation avec la conclusion d’un contrat de prestations, quels sont les documents à remettre.
+<sup>1</sup> Les organisations au sens de l’art. 108, al. 1, qui demandent des subventions doivent soumettre à l’OFAS une requête. L’OFAS détermine, en relation avec la conclusion d’un contrat de prestations, quels sont les documents à remettre.
 
-<sup>2</sup> L’office fédéral détermine les documents qui doivent lui être remis pendant la durée du contrat de prestations au plus tard dans les six mois à compter de la fin de l’exercice annuel. Ce délai peut être prolongé sur demande écrite avant son échéance, pour des raisons suffisantes. L’inobservation sans raison plausible du délai ordinaire ou du délai prolongé entraîne une réduction de la subvention d’un cinquième en cas de retard allant jusqu’à un mois, et d’un autre cinquième pour chaque mois de retard supplémentaire.[^110-2]
+<sup>2</sup> L’OFAS détermine les documents qui doivent lui être remis pendant la durée du contrat de prestations au plus tard dans les six mois à compter de la fin de l’exercice annuel. Ce délai peut être prolongé sur demande écrite avant son échéance, pour des raisons suffisantes. L’inobservation sans raison plausible du délai ordinaire ou du délai prolongé entraîne une réduction de la subvention d’un cinquième en cas de retard allant jusqu’à un mois, et d’un autre cinquième pour chaque mois de retard supplémentaire.[^110-2]
 
 <sup>3</sup> Le versement de subventions se fait en deux acomptes par an. Le solde est versé au terme de la période contractuelle.[^110-3]
 
 <sup>4</sup> Le versement d’une subvention plus élevée, en échange de prestations élargies excédant celles prévues dans le contrat, ne peut intervenir qu’exceptionnellement durant la durée du contrat de prestations et moyennant une modification du contrat.
 
-<sup>5</sup> L’organisation est tenue en tout temps de renseigner l’office fédéral et les organes de révision sur l’emploi des subventions, de les autoriser à prendre connaissance des documents déterminants et de leur donner accès aux lieux d’exploitation. L’office fédéral et les organes de contrôle peuvent procéder à des contrôles inopinés.[^110-4]
+<sup>5</sup> L’organisation est tenue en tout temps de renseigner l’OFAS et les organes de révision sur l’emploi des subventions, de les autoriser à prendre connaissance des documents déterminants et de leur donner accès aux lieux d’exploitation. L’OFAS et les organes de contrôle peuvent procéder à des contrôles inopinés.[^110-4]
 
 [^110-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 1199](https://fedlex.data.admin.ch/eli/oc/2000/193)).
 [^110-2]: Nouvelle teneur selon le ch. I de l’O du 24 avr. 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1374](https://fedlex.data.admin.ch/eli/oc/2002/210)).
@@ -2625,9 +3252,9 @@ Des subventions sont accordées pour financer les prestations suivantes, à cond
 
 <sup>2</sup> …[^117-1]
 
-<sup>3</sup> Le département est chargé de l’exécution.
+<sup>3</sup> Le DFI est chargé de l’exécution.
 
-<sup>4</sup> L’office fédéral édicte les dispositions d’exécution relatives aux art. 108 à 110.[^117-2]
+<sup>4</sup> L’OFAS édicte les dispositions d’exécution relatives aux art. 108 à 110.[^117-2]
 
 [^117-1]: Abrogé par le ch. I de l’ACF du 15 janv. 1968, avec effet au 1<sup>er</sup> janv. 1968 ([RO 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)).
 [^117-2]: Introduit par le ch. I de l’O du 28 janv. 2004 ([RO 2004 743](https://fedlex.data.admin.ch/eli/oc/2004/74)). Nouvelle teneur selon le ch. I 17 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
@@ -2697,7 +3324,7 @@ Les nouvelle dispositions de l’art. 21<sup>bis</sup>, al. 1[^u4-2] et 4, let. 
 
 [^u9-1]
 
-[^u9-1]: [RO 2000 1199](https://fedlex.data.admin.ch/eli/oc/2000/193). Abrogées par le ch. II du R du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^u9-1]: [RO 2000 1199](https://fedlex.data.admin.ch/eli/oc/2000/193). Abrogées par le ch. II de l’O du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 ## Dispositions finales de la modification du 4 décembre 2000****
 
@@ -2717,7 +3344,7 @@ Les nouvelle dispositions de l’art. 21<sup>bis</sup>, al. 1[^u4-2] et 4, let. 
 
 [^u11-1]
 
-[^u11-1]: [RO 2003 383](https://fedlex.data.admin.ch/eli/oc/2003/87). Abrogées par le ch. II du R du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^u11-1]: [RO 2003 383](https://fedlex.data.admin.ch/eli/oc/2003/87). Abrogées par le ch. II de l’O du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 ## Dispositions finales de la modification du 2 juillet 2003****
 
@@ -2739,7 +3366,7 @@ Les nouvelle dispositions de l’art. 21<sup>bis</sup>, al. 1[^u4-2] et 4, let. 
 
 <sup>4</sup> Les services médicaux régionaux (art. 47 ss) débutent leurs activités au plus tard une année après l’entrée en vigueur de la présente modification.
 
-<sup>5</sup> Les cantons soumettent en temps utile, mais au plus tard dans les trois mois qui suivent l’entrée en vigueur du règlement, à l’office fédéral leurs propositions en vue de la création des régions, conformément à l’art. 47, al. 2, du règlement.
+<sup>5</sup> Les cantons soumettent en temps utile, mais au plus tard dans les trois mois qui suivent l’entrée en vigueur du règlement, à l’OFAS leurs propositions en vue de la création des régions, conformément à l’art. 47, al. 2, du règlement.
 
 <sup>6</sup> Le passage d’un contrôle périodique à un contrôle annuel a lieu a plus tard deux ans après l’entrée en vigueur de la présente modification.
 
@@ -2749,7 +3376,7 @@ Les nouvelle dispositions de l’art. 21<sup>bis</sup>, al. 1[^u4-2] et 4, let. 
 
 [^u14-1]
 
-[^u14-1]: [RO 2004 743](https://fedlex.data.admin.ch/eli/oc/2004/74). Abrogées par le ch. II du R du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^u14-1]: [RO 2004 743](https://fedlex.data.admin.ch/eli/oc/2004/74). Abrogées par le ch. II de l’O du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 ## Dispositions transitoires de la modification du 6 octobre 2006 (5<sup>e</sup> révision de l’AI)****
 
@@ -2797,3 +3424,31 @@ Jusqu’à l’entrée en vigueur de la loi du 24 mars 2006 sur les allocations 
 <sup>1</sup> Pour les trois-quarts de rentes, demi-rentes et quarts de rentes en cours octroyés en application de la méthode mixte avant l’entrée en vigueur de la modification du 1<sup>er</sup> décembre 2017, une révision doit être initiée dans le délai d’un an après l’entrée en vigueur de la présente modification. Une éventuelle augmentation de la rente prend effet au moment de l’entrée en vigueur de la présente modification.
 
 <sup>2</sup> Lorsque l’octroi d’une rente a été refusé avant l’entrée en vigueur de la modification du 1<sup>er</sup> décembre 2017 parce que le taux d’invalidité était insuffisant, à un assuré qui exerce une activité lucrative à temps partiel et accomplit par ailleurs des travaux habituels visés à l’art. 7, al. 2, LAI, une nouvelle demande est examinée s’il paraît vraisemblable que le calcul du taux d’invalidité conformément à l’art. 27<sup>bis</sup>, al. 2 à 4, aboutira à la reconnaissance d’un droit à la rente.
+
+## Dispositions transitoires de la modification du 3 novembre 2021****
+
+[^u18-1]
+
+[^u18-1]: [RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)
+
+a. Indemnités journalières
+
+Le début effectif de la mesure est déterminant pour la détermination du droit aux indemnités journalières.
+
+b. Évaluation du taux d’invalidité
+
+Si une rente AI a été octroyée avant l’entrée en vigueur de la modification du 3 novembre 2021 à un assuré qui, en raison de son invalidité, n’a pas pu acquérir de connaissances professionnelles suffisantes et si cet assuré n’avait pas encore 30 ans au moment de l’entrée en vigueur de la modification, le droit à la rente AI doit être révisé selon les nouvelles dispositions dans l’année qui suit. En sont exclus les assurés qui perçoivent déjà une rente entière. Une éventuelle augmentation de la rente a lieu au moment de l’entrée en vigueur de la modification du 3 novembre 2021.
+
+c. Système de rentes
+
+Si les let. b et c des dispositions transitoires de la modification du 19 juin 2020 de la LAI[^u18-2] sont applicables à un conjoint, la réduction des deux rentes AI du couple en vertu de l’art. 37, al. 1<sup>bis</sup>, LAI s’effectue, en dérogation à l’art. 32, al. 2, en fonction du droit du conjoint dont la rente AI équivaut au pourcentage le plus élevé d’une rente entière.
+
+d. Révision du montant de la contribution d’assistance pour les prestations de nuit
+
+Le montant des contributions d’assistance allouées pour les prestations de nuit auxquelles les assurés avaient droit au moment de l’entrée en vigueur de la modification du 3 novembre 2021 est adapté conformément à la modification. L’adaptation du montant déploie ses effets au moment de l’entrée en vigueur de la modification en question.
+
+e. Conventions existantes concernant le remboursement de médicaments par l’assurance-invalidité
+
+Les conventions existantes entre l’OFAS et les titulaires d’autorisation qui ont été conclues avant l’entrée en vigueur de la modification du 3 novembre 2021 restent applicables jusqu’à l’inscription du médicament sur la liste des spécialités ou sur la liste des spécialités en matière d’infirmités congénitales.
+
+[^u18-2]: [RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338)

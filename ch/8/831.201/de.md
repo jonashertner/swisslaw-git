@@ -4,11 +4,11 @@ title: Verordnung vom 17. Januar 1961 über die Invalidenversicherung (IVV)
 short: IVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20210101/de"
 
 (IVV)**[^t-1]**
 
-vom 17. Januar 1961 (Stand am 1. Januar 2021)
+vom 17. Januar 1961 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. II 1 der V vom 11. Okt. 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Gemäss derselben Bestimmung wurden die Randtit. in Sachüberschriften umgewandelt.
 
@@ -86,14 +86,11 @@ Die Bestimmungen des ersten Abschnittes sowie die Artikel 34–43 der Verordnung
 
 **Meldung**
 
-<sup>1</sup>
-
-Eine versicherte Person kann sich bei der zuständigen IV-Stelle im Sinne von Artikel 40 zur Früherfassung melden oder gemeldet werden, wenn sie:
-
-- a. während mindestens 30 Tagen ununterbrochen arbeitsunfähig war; oder
-- b. innerhalb eines Jahres wiederholt während kürzerer Zeit aus gesundheitlichen Gründen der Arbeit fernbleiben musste.
+<sup>1</sup> Eine versicherte Person nach Artikel 3*a*<sup>bis</sup> Absatz 2 IVG kann sich bei der zuständigen IV-Stelle im Sinne von Artikel 40 zur Früherfassung melden oder gemeldet werden.[^1ter-1]
 
 <sup>2</sup> Die Person oder Stelle, die im Sinne von Artikel 3*b* Absatz 2 IVG berechtigt ist, eine versicherte Person zur Früherfassung zu melden, füllt das Meldeformular aus.
+
+[^1ter-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 1<sup>quater</sup>
 
@@ -105,19 +102,9 @@ Eine versicherte Person kann sich bei der zuständigen IV-Stelle im Sinne von Ar
 
 #### Art. 1<sup>quinquies</sup>
 
-**Früherfassungsgespräch**
+[^1quinquies-1]
 
-<sup>1</sup> Die IV-Stelle kann die versicherte Person zu einem Früherfassungsgespräch aufbieten, um zu beurteilen, ob eine Anmeldung bei der IV angezeigt ist.
-
-<sup>2</sup>
-
-Das Früherfassungsgespräch dient insbesondere folgenden Zielen:
-
-- a. Beurteilung der medizinischen, beruflichen und sozialen Situation der versicherten Person;
-- b. Information der versicherten Person über Zweck und Umfang der Abklärungen im Zusammenhang mit der Früherfassung;
-- c. Bestimmung der Akteure, die zur Erhaltung der Erwerbsfähigkeit der versicherten Person beitragen können.
-
-<sup>3</sup> Das Ergebnis des Früherfassungsgesprächs wird schriftlich festgehalten.
+[^1quinquies-1]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 ## Erster Abschnitt *b*:**** Massnahmen der Frühintervention
 
@@ -129,7 +116,11 @@ Das Früherfassungsgespräch dient insbesondere folgenden Zielen:
 
 **Grundsatz**
 
-Die Massnahmen der Frühintervention nach Artikel 7*d* Absatz 2 IVG können Versicherten gewährt werden, die bei der IV angemeldet sind.
+<sup>1</sup> Die Massnahmen der Frühintervention nach Artikel 7*d* Absatz 2 IVG können Versicherten gewährt werden, die bei der IV angemeldet sind.
+
+<sup>2</sup> Während der obligatorischen Schulzeit können Versicherten Massnahmen nach Artikel 7*d* Absatz 2 Buchstaben c und d IVG gewährt werden, wenn sie ihnen den Zugang zu einer erstmaligen beruflichen Ausbildung oder den Eintritt in den Arbeitsmarkt erleichtern.[^1sexies-1]
+
+[^1sexies-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 1<sup>septies</sup>
 
@@ -171,54 +162,193 @@ Drohende Invalidität liegt vor, wenn der Eintritt einer Erwerbsunfähigkeit üb
 
 #### Art. 2
 
-**Art der Massnahmen**[^2-1]
+**Medizinische Eingliederungsmassnahmen**[^2-1]
 
-<sup>1</sup> Als medizinische Massnahmen im Sinne von Artikel 12 IVG gelten namentlich chirurgische, physiotherapeutische und psychotherapeutische Vorkehren, die eine als Folgezustand eines Geburtsgebrechens, einer Krankheit oder eines Unfalls eingetretene Beeinträchtigung der Körperbewegung, der Sinneswahrnehmung oder der Kontaktfähigkeit zu beheben oder zu mildern trachten, um die Erwerbsfähigkeit oder die Fähigkeit, sich im Aufgabenbereich zu betätigen, dauernd und wesentlich zu verbessern oder vor wesentlicher Beeinträchtigung zu bewahren.[^2-2] Die Massnahmen müssen nach bewährter Erkenntnis der medizinischen Wissenschaft angezeigt sein und den Eingliederungserfolg in einfacher und zweckmässiger Weise anstreben.
+<sup>1</sup> Als medizinische Eingliederungsmassnahmen im Sinne von Artikel 12 IVG gelten namentlich chirurgische, physiotherapeutische und psychotherapeutische Behandlungen. Sie haben, nach der Behandlung des Leidens an sich und nach Erreichen eines stabilisierten Gesundheitszustands, unmittelbar die Eingliederung nach Artikel 12 Absatz 3 IVG zum Ziel.
 
-<sup>2</sup> Bei Lähmungen und andern motorischen Funktionsausfällen sind medizinische Massnahmen gemäss Absatz 1 von dem Zeitpunkt an zu gewähren, in dem nach bewährter Erkenntnis der medizinischen Wissenschaft im Allgemeinen die Behandlung des ursächlichen Gesundheitsschadens als abgeschlossen gilt oder untergeordnete Bedeutung erlangt hat. Bei Querschnittslähmung des Rückenmarks und Poliomyelitis gilt dieser Zeitpunkt in der Regel nach Ablauf von vier Wochen seit Beginn der Lähmung als eingetreten.[^2-3]
+<sup>2</sup>
 
-<sup>3</sup> Wird bei Lähmungen und anderen Ausfällen von motorischen Funktionen im Rahmen von medizinischen Massnahmen gemäss Absatz 1 Physiotherapie durchgeführt, so besteht der Anspruch auf diese Massnahme so lange weiter, als damit die Funktionstüchtigkeit, von der die Erwerbsfähigkeit oder die Fähigkeit, sich im Aufgabenbereich zu betätigen, abhängt, verbessert werden kann.[^2-4]
+Medizinische Eingliederungsmassnahmen, die den Grundsätzen nach Artikel 14 Absatz 2 IVG nicht entsprechen, können von der Invalidenversicherung übernommen werden, wenn:
 
-<sup>4</sup> Nicht als medizinische Massnahme im Sinne von Artikel 12 IVG gilt insbesondere die Behandlung von Verletzungen, Infektionen sowie inneren und parasitären Krankheiten.[^2-5]
+- a. es sich um einen Fall mit hohem Eingliederungspotenzial handelt; und
+- b. die möglichen Einsparungen durch eine Eingliederung höher sind als die Kosten der medizinischen Eingliederungsmassnahmen.
 
-<sup>5</sup> Bei Anstaltspflege übernimmt die Versicherung für die Zeit, während welcher der Aufenthalt vorwiegend der Durchführung von Eingliederungsmassnahmen dient, auch Vorkehren, die zur Behandlung des Leidens an sich gehören.[^2-6]
+<sup>3</sup> Eine medizinische Eingliederungsmassnahme muss vor Beginn der Behandlung nach Artikel 12 IVG bei der zuständigen IV-Stelle beantragt werden. Artikel 48 IVG bleibt vorbehalten. Dem Antrag muss eine vor Beginn der Behandlung erstellte positive Eingliederungsprognose der behandelnden Fachärztin oder des behandelnden Facharztes beiliegen.
 
-[^2-1]: Fassung gemäss Ziff. I des BRB vom 15. Jan. 1968, in Kraft seit 1. Jan. 1968 ([AS 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)).
-[^2-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^2-3]: Fassung von Satz 2 gemäss Ziff. I der V vom 29. Nov. 1976, in Kraft seit 1. Jan. 1977 ([AS 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)).
-[^2-4]: Eingefügt durch Ziff. II 1 der V vom 11. Okt. 1972 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^2-5]: Ursprünglich Abs. 3.
-[^2-6]: Ursprünglich Abs. 4.
+<sup>4</sup> Art, Dauer und Umfang einer medizinischen Eingliederungsmassnahme und der Leistungserbringer werden in der Leistungszusprache festgehalten. Die Dauer darf zwei Jahre nicht übersteigen. Die medizinische Eingliederungsmassnahme kann verlängert werden.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 2<sup>bis</sup>
+
+**Fortsetzung medizinischer Eingliederungsmassnahmen über das vollendete 20. Altersjahr hinaus**[^2bis-1]
+
+<sup>1</sup>
+
+Massnahmen beruflicher Art nach den Artikeln 15–18*c* IVG gelten als noch nicht beendet nach Artikel 12 Absatz 2 IVG, wenn:
+
+- a. vor Abschluss der Massnahme bereits eine weitere Massnahme beruflicher Art nach den Artikeln 15–18*c* IVG zugesprochen worden ist; oder
+- b. eine weitere Massnahme beruflicher Art nach den Artikeln 15–18*c* IVG absehbar ist und das Eingliederungspotenzial der versicherten Person nicht ausgeschöpft ist.
+
+<sup>2</sup> Wird keine Massnahme beruflicher Art nach Absatz 1 Buchstabe b innerhalb von sechs Monaten nach Abschluss oder Abbruch der letzten Massnahme beruflicher Art zugesprochen, werden die Kosten für medizinische Eingliederungsmassnahmen während längstens sechs Monaten nach Abschluss oder Abbruch der letzten Massnahme beruflicher Art übernommen.
+
+[^2bis-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 2<sup>ter</sup>
+
+**Präzisierung von Begriffen nach Artikel 12 IVG**[^2ter-1]
+
+Nachstehende Begriffe nach Artikel 12 IVG werden wie folgt präzisiert:
+
+- a. *berufliche Erstausbildung*: erstmalige berufliche Ausbildung, unabhängig davon, ob sie von der Invalidenversicherung finanziert wird oder nicht;
+- b. *Schulfähigkeit*: Fähigkeit, eine Regel-, Sonder- oder Privatschule zu besuchen;
+- c. *Erwerbsfähigkeit*: Fähigkeit, im ersten oder im zweiten Arbeitsmarkt einer Beschäftigung nachzugehen.
+
+[^2ter-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 3
 
-**Geburtsgebrechen**
+**Geburtsgebrechen**[^3-1]
 
-Die Liste der Geburtsgebrechen im Sinne von Artikel 13 IVG bildet Gegenstand einer besonderen Verordnung.
+<sup>1</sup>
+
+Nachstehende Begriffe nach Artikel 13 Absatz 2 IVG werden wie folgt präzisiert:
+
+- a. *angeborene Missbildung*: bei Geburt bestehende Fehlbildung von Organen oder Körperteilen;
+- b. *genetische Krankheit*: Leiden, das auf eine Veränderung des Erbgutes im Sinne einer Genmutation oder eines Gendefektes zurückzuführen ist;
+- c. *prä- und perinatal aufgetretenes Leiden:* Leiden, das bereits zum Zeitpunkt der Geburt bestanden hat oder spätestens sieben Tage nach der Geburt entstanden ist;
+- d. *die Gesundheit beeinträchtigendes Leiden:* Leiden, das körperliche oder geistige Beeinträchtigungen oder Funktionsstörungen zur Folge hat;
+- e. *Leiden mit einem bestimmten Schweregrad**:* Leiden, das ohne Behandlung eine anhaltende und nicht mehr vollständig korrigierbare funktionelle Einschränkung zur Folge hat;
+- f. *langdauernde Behandlung:* Behandlung, die länger als ein Jahr dauert;
+- g. *komplexe Behandlung:* eine Behandlung, die das Zusammenspiel von mindestens zwei Fachgebieten erfordert;
+- h. *behandelbares Leiden:* Leiden, dessen Verlauf mit den medizinischen Massnahmen nach Artikel 14 IVG zur Behandlung der Geburtsgebrechen günstig beeinflusst werden kann.
+
+<sup>2</sup> Die blosse Veranlagung zu einem Leiden gilt nicht als Geburtsgebrechen.
+
+<sup>3</sup> Der Zeitpunkt, in dem ein Geburtsgebrechen als solches erkannt wird, ist unerheblich.
+
+<sup>4</sup> Art, Dauer und Umfang einer medizinischen Massnahme nach Artikel 13 IVG und der Leistungserbringer werden in der Leistungszusprache festgehalten.
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 3<sup>bis</sup>
 
-**Aufenthalt in einer Kranken- oder Kuranstalt in Sonderfällen**[^3bis-1]
+**Liste der Geburtsgebrechen**[^3bis-1]
 
-Dient der Aufenthalt in einer Kranken- oder Kuranstalt gleichzeitig der Durchführung medizinischer und anderer Massnahmen der Versicherung, so übernimmt diese die Kosten für Unterkunft und Verpflegung, wenn die medizinische Massnahme in einer Heilanstalt durchgeführt werden muss.
+<sup>1</sup> Das Eidgenössische Departement des Innern (EDI) erstellt die Liste nach Artikel 14<sup>ter</sup> Absatz 1 Buchstabe b IVG mit den Geburtsgebrechen, für die medizinischen Massnahmen nach Artikel 13 IVG gewährt werden.
 
-[^3bis-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 1976, in Kraft seit 1. Jan. 1977 ([AS 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)).
+<sup>2</sup> Es kann nähere Vorschriften über die Liste erlassen.
+
+[^3bis-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 1976 ([AS 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)). Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 3<sup>ter</sup>
 
-**Unterbringung ausserhalb einer Kranken- oder Kuranstalt**[^3ter-1]
+**Beginn und Dauer der medizinischen Massnahme zur Behandlung von Geburtsgebrechen**[^3ter-1]
 
-Erfordert die Durchführung medizinischer Massnahmen auswärtige Unterkunft und Verpflegung ausserhalb einer Kranken- oder Kuranstalt, so gewährt die Versicherung Leistungen nach Artikel 90 Absätze 3 und 4. Vorbehalten bleiben tarifliche Vereinbarungen (Art. 24 Abs. 2).
+<sup>1</sup> Der Anspruch auf Behandlung eines Geburtsgebrechens beginnt mit der Einleitung von medizinischen Massnahmen, frühestens jedoch nach vollendeter Geburt.
 
-[^3ter-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 1976 ([AS 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)). Fassung gemäss Ziff. I der V vom 27. Sept. 1993, in Kraft seit 1. Jan. 1994 ([AS 1993 2925](https://fedlex.data.admin.ch/eli/oc/1993/2925_2925_2925)).
+<sup>2</sup> Er erlischt am Ende des Monats, in dem die versicherte Person das 20. Altersjahr vollendet hat.
+
+[^3ter-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 1976 ([AS 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)). Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 3<sup>quater</sup>
 
-**Kostenvergütung für stationäre Behandlungen**[^3quater-1]
+[^3quater-1]
 
-Die Behandlungskosten nach Artikel 14<sup>bis</sup> IVG werden nach dem Tarif vergütet, der für das Spital gilt, in dem die Behandlung durchgeführt wird.
+[^3quater-1]: Eingefügt durch Ziff. I der V vom 10. Okt. 2012 ([AS 2012 5561](https://fedlex.data.admin.ch/eli/oc/2012/645)). Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
-[^3quater-1]: Eingefügt durch Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5561](https://fedlex.data.admin.ch/eli/oc/2012/645)).
+#### Art. 3<sup>quinquies</sup>
+
+**Ambulant erbrachte medizinische Pflegeleistungen**[^3quinquies-1]
+
+<sup>1</sup> Als ambulant erbrachte medizinische Pflegeleistungen nach Artikel 14 Absatz 1 Buchstabe b IVG gelten Massnahmen, die von Pflegefachpersonen erbracht werden und die der Abklärung, Beratung und Koordination sowie der Untersuchung und Behandlung der versicherten Person dienen.
+
+<sup>2</sup> Nicht als ambulant erbrachte medizinische Pflegeleistungen nach Artikel 14 Absatz 1 Buchstabe b IVG gilt die Behandlung in einem Spital oder Pflegeheim.
+
+<sup>3</sup> Erfordert der Gesundheitszustand der versicherten Person eine Langzeitüberwachung im Rahmen der Durchführung einer Massnahme zur Untersuchung und Behandlung, so vergütet die Invalidenversicherung die von Pflegefachpersonen erbrachten Leistungen für bis zu 16 Stunden pro Tag. Das Bundesamt für Sozialversicherungen (BSV) regelt diejenigen Fälle, in denen eine weitergehende Vergütung angezeigt ist.
+
+<sup>4</sup> Das EDI erlässt Ausführungsbestimmungen über Inhalt und Umfang der ambulant erbrachten medizinischen Pflegeleistungen.
+
+[^3quinquies-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 3<sup>sexies</sup>
+
+**Geburtsgebrechen-Spezialitätenliste**[^3sexies-1]
+
+<sup>1</sup> Das Bundesamt für Gesundheit (BAG) erstellt nach Anhören der Eidgenössischen Arzneimittelkommission nach Artikel 37*e* der Verordnung vom 27. Juni 1995[^3sexies-2] über die Krankenversicherung (KVV) die Liste der Arzneimittel zur Behandlung von Geburtsgebrechen nach Artikel 14<sup>ter</sup> Absatz 5 IVG (Geburtsgebrechen-Spezialitätenliste).
+
+<sup>2</sup>
+
+Ein Arzneimittel wird in die Geburtsgebrechen-Spezialitätenliste aufgenommen, wenn:
+
+- a. es ausschliesslich zur Behandlung von Geburtsgebrechen nach Artikel 3<sup>bis</sup> Absatz 1 indiziert ist; und
+- b. seine Anwendung in den überwiegenden Fällen vor Vollendung des 20. Altersjahres beginnt.
+
+<sup>3</sup> Die Ausführungsbestimmungen zum Bundesgesetz vom 18. März 1994[^3sexies-3] über die Krankenversicherung (KVG) betreffend die Spezialitätenliste finden sinngemäss Anwendung, soweit diese Verordnung nichts Abweichendes bestimmt.
+
+<sup>4</sup> Sind die Voraussetzungen für das Eintreten auf das Gesuch nach Artikel 69 Absatz 4 KVV vor der definitiven Zulassung durch das Schweizerische Heilmittelinstitut erfüllt, so entscheidet das BAG über das Gesuch innert zweckmässiger Frist ab der definitiven Zulassung.
+
+[^3sexies-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^3sexies-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^3sexies-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+
+#### Art. 3<sup>septies</sup>
+
+**Rückerstattung von Mehreinnahmen**[^3septies-1]
+
+<sup>1</sup> Übersteigt der bei der Aufnahme eines Arzneimittels in die Geburtsgebrechen-Spezialitätenliste dem verfügten Höchstpreis zugrunde gelegte Fabrikabgabepreis den bei der Überprüfung der Wirtschaftlichkeit ermittelten Fabrikabgabepreis um mehr als 3 Prozent und betragen die dadurch erzielten Mehreinnahmen mindestens 20 000 Franken, so ist die Zulassungsinhaberin verpflichtet, die seit der Aufnahme erzielten Mehreinnahmen dem IV-Ausgleichsfonds nach Artikel 79 IVG zurückzuerstatten.
+
+<sup>2</sup>
+
+Die Zulassungsinhaberin ist zudem verpflichtet, dem IV-Ausgleichsfonds die Mehreinnahmen zurückzuerstatten, die sie erzielt hat:
+
+- a. während der Dauer eines Beschwerdeverfahrens, sofern zwischen dem während des Beschwerdeverfahrens geltenden Preis und dem nach Abschluss des Beschwerdeverfahrens rechtskräftigen neuen Preis eine Differenz besteht und die Zulassungsinhaberin durch diese Preisdifferenz Mehreinnahmen erzielt hat;
+- b. während zwei Jahren nach der Senkung des Fabrikabgabepreises bei Indikationserweiterung oder Limitierungsänderung nach Artikel 65*f* Absatz 2 erster Satz KVV[^3septies-2], sofern der effektive Mehrumsatz höher war als der bei der Senkung angegebene voraussichtliche Mehrumsatz.
+
+[^3septies-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^3septies-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+
+#### Art. 3<sup>octies</sup>
+
+**Vergütung für die Erstellung der Geburtsgebrechen-Spezialitätenliste**[^3octies-1]
+
+Das BAG kann die Kosten im Zusammenhang mit der Erstellung der Geburtsgebrechen-Spezialitätenliste, die nicht durch Gebühren gedeckt werden, dem IV-Ausgleichsfonds jährlich in Rechnung stellen.
+
+[^3octies-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 3<sup>novies</sup>
+
+**Analysen, Arzneimittel sowie Mittel und Gegenstände, die der Untersuchung oder Behandlung dienen**[^3novies-1]
+
+<sup>1</sup>
+
+Sofern sie in den Listen nach Artikel 52 Absatz 1 KVG[^3novies-2] aufgenommen sind, vergütet die Invalidenversicherung:
+
+- a. pharmazeutische Spezialitäten und konfektionierte Arzneimittel;
+- b. die in der Rezeptur verwendeten Präparate, Wirk- und Hilfsstoffe;
+- c. Laboranalysen; und
+- d. der Untersuchung oder Behandlung dienende Mittel und Gegenstände.
+
+<sup>2</sup>
+
+Sie vergütet auch:
+
+- a. Arzneimittel zur Behandlung von Geburtsgebrechen nach Artikel 3<sup>sexies</sup>;
+- b. diagnostische Massnahmen, die der Diagnose oder Behandlung eines Geburtsgebrechens und seiner Folgen dienen.
+
+[^3novies-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^3novies-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+
+#### Art. 3<sup>decies</sup>
+
+**Vergütung von Arzneimitteln im Einzelfall**[^3decies-1]
+
+<sup>1</sup> Für die Vergütung von Arzneimitteln nach Artikel 14<sup>ter</sup> Absatz 3 IVG finden die Ausführungsbestimmungen zum KVG[^3decies-2] betreffend die Vergütung von Arzneimitteln im Einzelfall sinngemäss Anwendung, soweit diese Verordnung nichts Abweichendes bestimmt.
+
+<sup>2</sup> Die IV-Stelle entscheidet innert zweckmässiger Frist über das Gesuch um Vergütung eines Arzneimittels im Einzelfall. Das BSV legt in Weisungen fest, in welchen Fällen es vorgängig konsultiert werden muss.
+
+[^3decies-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^3decies-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 4
 
@@ -228,11 +358,9 @@ Die Behandlungskosten nach Artikel 14<sup>bis</sup> IVG werden nach dem Tarif ve
 
 #### Art. 4<sup>bis</sup>
 
-**Analysen und Arzneimittel**[^4bis-1]
+[^4bis-1]
 
-Die Versicherung übernimmt die Analysen, Arzneimittel und pharmazeutischen Spezialitäten, die nach bewährter Erkenntnis der medizinischen Wissenschaft angezeigt sind und den Eingliederungserfolg in einfacher und zweckmässiger Weise anstreben.
-
-[^4bis-1]: Eingefügt durch Ziff. I der V vom 7. Juli 1982 ([AS 1982 1284](https://fedlex.data.admin.ch/eli/oc/1982/1284_1284_1284)). Fassung gemäss Ziff. I der V vom 21. Jan. 1987, in Kraft seit 1. Juli 1987 ([AS 1987 456](https://fedlex.data.admin.ch/eli/oc/1987/456_456_456)).
+[^4bis-1]: Eingefügt durch Ziff. I der V vom 7. Juli 1982 ([AS 1982 1284](https://fedlex.data.admin.ch/eli/oc/1982/1284_1284_1284)). Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 4<sup>ter</sup>
 
@@ -252,27 +380,33 @@ Für Kinder im Sinne von Artikel 9 Absatz 3 Buchstabe b IVG, die im Ausland inva
 
 **Anspruch**
 
-<sup>1</sup> Anspruch auf Integrationsmassnahmen zur Vorbereitung auf die berufliche Eingliederung haben Versicherte, die fähig sind, mindestens zwei Stunden täglich während mindestens vier Tagen pro Woche an Integrationsmassnahmen teilzunehmen.[^4quater-1]
+<sup>1</sup> Anspruch auf Integrationsmassnahmen zur Vorbereitung auf die berufliche Eingliederung haben Versicherte, die fähig sind, mindestens acht Stunden pro Woche an Integrationsmassnahmen teilzunehmen.[^4quater-1]
 
 <sup>2</sup> Anspruch auf Massnahmen zur sozialberuflichen Rehabilitation haben Versicherte, die in Bezug auf Massnahmen beruflicher Art noch nicht eingliederungsfähig sind.
 
 <sup>3</sup> Anspruch auf Beschäftigungsmassnahmen haben Versicherte, deren Eingliederungsfähigkeit in Bezug auf Massnahmen beruflicher Art verloren zu gehen droht.
 
-[^4quater-1]: Fassung gemäss Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
+[^4quater-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 4<sup>quinquies</sup>
 
-**Art der Massnahmen**
+**Art der Massnahmen**[^4quinquies-1]
 
-<sup>1</sup> Als Massnahmen zur sozialberuflichen Rehabilitation gelten Massnahmen zur Gewöhnung an den Arbeitsprozess, zur Förderung der Arbeitsmotivation, zur Stabilisierung der Persönlichkeit und zum Einüben sozialer Grundfähigkeiten.
+<sup>1</sup> Als Massnahmen zur sozialberuflichen Rehabilitation gelten Massnahmen zur Gewöhnung an den Arbeitsprozess, zur Förderung der Arbeitsmotivation, zur Stabilisierung der Persönlichkeit, zum Einüben sozialer Grundfähigkeiten und zum Aufbau der Arbeitsfähigkeit.
 
-<sup>2</sup> Als Beschäftigungsmassnahmen gelten Massnahmen zur Aufrechterhaltung einer Tagesstruktur für die Zeit bis zum Beginn von Massnahmen beruflicher Art oder bis zu einem Stellenantritt auf dem freien Arbeitsmarkt.
+<sup>2</sup> Als Beschäftigungsmassnahmen gelten Massnahmen zur Aufrechterhaltung einer Tagesstruktur und der Arbeitsfähigkeit für die Zeit bis zum Beginn von Massnahmen beruflicher Art oder bis zu einem Stellenantritt im ersten Arbeitsmarkt.
+
+<sup>3</sup> Die Massnahmen nach den Absätzen 1 und 2 sind für Versicherte nach Artikel 14*a* Absatz 1 Buchstabe b IVG spezifisch auf die berufliche Eingliederung nach Abschluss der obligatorischen Schulzeit auszurichten.
+
+<sup>4</sup> Ziele und Dauer aller Integrationsmassnahmen werden nach den Fähigkeiten der versicherten Person festgelegt. Die Massnahmen erfolgen nach Möglichkeit ganz oder teilweise im ersten Arbeitsmarkt.
+
+[^4quinquies-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 4<sup>sexies</sup>
 
 **Dauer der Massnahmen**
 
-<sup>1</sup> Ein Jahr Integrationsmassnahmen entspricht 230 Massnahmentagen. Massnahmentage sind Arbeitstage.
+<sup>1</sup> Ein Jahr Integrationsmassnahme nach Artikel 14*a* Absatz 3 IVG entspricht 230 Arbeitstagen, an denen die versicherte Person an einer Massnahme teilnimmt.[^4sexies-1]
 
 <sup>2</sup> Kann die versicherte Person aus gesundheitlichen Gründen während mehr als 30 aufeinanderfolgenden Kalendertagen nicht an den Massnahmen teilnehmen, so werden die Massnahmentage nicht angerechnet.
 
@@ -280,25 +414,37 @@ Für Kinder im Sinne von Artikel 9 Absatz 3 Buchstabe b IVG, die im Ausland inva
 
 Die Integrationsmassnahmen werden insbesondere dann beendet, wenn:
 
-- a. das vereinbarte Ziel erreicht wurde;
+- a.[^4sexies-2] das vereinbarte Ziel erreicht wurde oder nicht erreicht werden kann;
 - b. sich eine geeignetere Eingliederungsmassnahme aufdrängt; oder
 - c. die Weiterführung aus medizinischen Gründen nicht zumutbar wäre.
 
-<sup>4</sup> Massnahmen zur sozialberuflichen Rehabilitation werden unterbrochen, wenn die versicherte Person ihre Präsenz oder Arbeitsleistung nicht mehr steigern kann.
+<sup>4</sup> …[^4sexies-3]
 
-<sup>5</sup> Die Integrationsmassnahmen können in Ausnahmefällen verlängert werden, sofern sie notwendig sind, um die Eingliederungsfähigkeit in Bezug auf Massnahmen beruflicher Art zu erreichen.[^4sexies-1]
+<sup>5</sup>
 
-<sup>6</sup> Hat eine versicherte Person während insgesamt zwei Jahren an Integrationsmassnahmen teilgenommen, so hat sie keinen Anspruch mehr auf solche Massnahmen.
+Eine Massnahme kann nach einem Jahr um höchstens ein Jahr verlängert werden, sofern:
 
-[^4sexies-1]: Fassung gemäss Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
+- a. die Verlängerung notwendig ist, um die Eingliederungsfähigkeit in Bezug auf Massnahmen beruflicher Art zu erreichen; und
+- b. mindestens ein Teil der verlängerten Massnahme im ersten Arbeitsmarkt stattfindet.[^4sexies-4]
+
+<sup>6</sup>
+
+Hat eine versicherte Person während insgesamt zwei Jahren an einer Integrationsmassnahme teilgenommen, so hat sie erst wieder Anspruch auf eine solche Massnahme, wenn:
+
+- a. sie zwischen der letzten und der erneut beantragten Integrationsmassnahme alles Zumutbare für ihre berufliche Integration unternommen hat;
+- b. sich ihr gesundheitlicher Zustand verbessert oder verschlechtert hat.[^4sexies-5]
+
+[^4sexies-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^4sexies-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^4sexies-3]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^4sexies-4]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^4sexies-5]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 4<sup>septies</sup>
 
-**Begleitung der Massnahmen**
+[^4septies-1]
 
-<sup>1</sup> Die IV-Stelle begleitet die versicherte Person und überprüft anhand des Eingliederungsplans (Art. 70 Abs. 2), ob diese die Zwischenziele erreicht hat.
-
-<sup>2</sup> Werden die Integrationsmassnahmen an der bisherigen Arbeitsstelle durchgeführt, so unterstützt die IV-Stelle den Arbeitgeber; sie stützt sich dabei auf den Eingliederungsplan.
+[^4septies-1]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 4<sup>octies</sup>
 
@@ -320,51 +466,116 @@ Für die Wiedereingliederung von Rentenbezügerinnen und Rentenbezügern nach Ar
 
 ### B. Die Massnahmen beruflicher Art
 
+#### Art. 4a
+
+**Berufsberatung**[^4a-1]
+
+<sup>1</sup>
+
+Eine Berufsberatung nach Artikel 15 IVG kann sich aus den folgenden Bestandteilen zusammensetzen:
+
+- a. von Fachpersonen durchgeführte Beratungsgespräche, Analysen und diagnostische Tests;
+- b. vorbereitende Massnahmen zum Eintritt in die Ausbildung nach Artikel 15 Absatz 1 IVG;
+- c. Massnahmen zur vertieften Abklärung möglicher Berufsrichtungen nach Artikel 15 Absatz 2 IVG.
+
+<sup>2</sup> Als Massnahmen nach Absatz 1 Buchstabe b gelten arbeitsmarktnahe Massnahmen, die nach Abschluss der obligatorischen Schulzeit in Betrieben des ersten Arbeitsmarkts oder in Institutionen durchgeführt werden, um Eignung und Neigung der versicherten Person für mögliche Ausbildungen zu überprüfen und die versicherte Person an die Anforderungen des ersten Arbeitsmarkts heranzuführen. Diese Massnahmen sind auf längstens zwölf Monate befristet.
+
+<sup>3</sup> Als Massnahmen nach Absatz 1 Buchstabe c gelten Massnahmen, die in Betrieben des ersten Arbeitsmarkts oder in Institutionen durchgeführt werden, um Eignung und Neigung der versicherten Person für mögliche Berufsrichtungen und Tätigkeiten zu überprüfen. Diese Massnahmen sind insgesamt auf drei Monate befristet. Sofern die benötigten Erkenntnisse für den Entscheid für eine Berufsrichtung oder Tätigkeit noch nicht vorliegen, können die Massnahmen um längstens drei Monate verlängert werden.
+
+<sup>4</sup>
+
+Bei den Massnahmen nach den Absätzen 2 und 3 werden je nach Fähigkeiten der versicherten Person individuelle Vorgaben zu Zielen und Dauer festgehalten. Die Massnahme ist insbesondere dann zu beenden, wenn:
+
+- a. das Ziel erreicht wurde oder nicht erreicht werden kann;
+- b. sich eine geeignetere Eingliederungsmassnahme aufdrängt;
+- c. die Weiterführung aus medizinischen Gründen nicht zumutbar ist.
+
+[^4a-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
 #### Art. 5
 
 **Erstmalige berufliche Ausbildung**[^5-1]
 
-<sup>1</sup> Als erstmalige berufliche Ausbildung gilt die berufliche Grundbildung nach dem Berufsbildungsgesetz vom 13. Dezember 2002[^5-2] sowie, nach Abschluss der Volks- oder Sonderschule, der Besuch einer Mittel-, Fach- oder Hochschule und die berufliche Vorbereitung auf eine Hilfsarbeit oder auf die Tätigkeit in einer geschützten Werkstätte.[^5-3]
+<sup>1</sup>
 
-<sup>2</sup> Einem Versicherten entstehen aus der erstmaligen beruflichen Ausbildung oder Weiterbildung in wesentlichem Umfange zusätzliche Kosten, wenn seine Aufwendungen für die Ausbildung wegen der Invalidität jährlich um 400 Franken höher sind, als sie ohne Invalidität gewesen wären.[^5-4]
+Als erstmalige berufliche Ausbildung gilt nach Abschluss der obligatorischen Schulzeit:
 
-<sup>3</sup> Die zusätzlichen Kosten werden ermittelt, indem die Kosten der Ausbildung der invaliden Person den mutmasslichen Aufwendungen gegenübergestellt werden, die bei der Ausbildung einer nicht invaliden Person zur Erreichung des gleichen beruflichen Zieles notwendig wären. Hatte der Versicherte vor Eintritt der Invalidität schon eine Ausbildung begonnen oder hätte er ohne Invalidität offensichtlich eine weniger kostspielige Ausbildung erhalten, so bilden die Kosten dieser Ausbildung die Vergleichsgrundlage für die Berechnung der invaliditätsbedingten zusätzlichen Aufwendungen.[^5-5]
+- a. die berufliche Grundbildung nach dem Berufsbildungsgesetz vom 13. Dezember 2002[^5-2] (BBG);
+- b. der Besuch einer Mittel-, Fach- oder Hochschule;
+- c. die berufliche Vorbereitung auf eine Hilfsarbeit oder auf eine Tätigkeit in einer geschützten Werkstätte.
 
-<sup>4</sup> Anrechenbar im Rahmen von Absatz 3 sind die Aufwendungen für die Vermittlung der erforderlichen Kenntnisse und Fertigkeiten, die Kosten für persönliche Werkzeuge und Berufskleider sowie die Transportkosten.[^5-6]
+<sup>2</sup>
 
-<sup>5</sup> Wird die versicherte Person infolge ihrer Invalidität in einer Ausbildungsstätte untergebracht, so übernimmt die Versicherung die Kosten von Verpflegung und Unterkunft.[^5-7]
+Die gezielte Vorbereitung auf die erstmalige berufliche Ausbildung ist Teil der erstmaligen beruflichen Ausbildung, sofern:
 
-<sup>6</sup>
+- a. der Lehrvertrag unterzeichnet ist;
+- b. die Anmeldung an eine weiterführende Schule erfolgt ist;
+- c. der Beginn einer berufsspezifischen Vorbereitung, die für die erstmalige berufliche Ausbildung notwendig ist, festgelegt ist.
 
-Bei auswärtiger Verpflegung und Unterkunft ausserhalb einer Ausbildungsstätte vergütet die Versicherung vorbehältlich vertraglicher Vereinbarungen (Art. 24 Abs. 2):[^5-8]
+<sup>3</sup>
 
-- a. für die Verpflegung die Beträge nach Artikel 90 Absatz 4 Buchstaben a und b;
-- b. für die Unterkunft die ausgewiesenen notwendigen Kosten, höchstens aber den Betrag nach Artikel 90 Absatz 4 Buchstabe c.[^5-9]
+Die erstmalige berufliche Ausbildung kann im Einzelfall als nicht abgeschlossen gelten:
 
-[^5-1]: Fassung gemäss Ziff. I des BRB vom 15. Jan. 1968, in Kraft seit 1. Jan. 1968 ([AS 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)).
+- a. nach Abschluss einer beruflichen Grundbildung nach dem BBG im zweiten Arbeitsmarkt, sofern die Fähigkeiten der versicherten Person eine berufliche Grundbildung nach dem BBG auf einem höheren Ausbildungsniveau im ersten Arbeitsmarkt zulassen;
+- b. nach Abschluss einer Massnahme nach Artikel 16 Absatz 3 Buchstabe c IVG, sofern die Fähigkeiten der versicherten Person eine Ausbildung nach dem BBG im ersten Arbeitsmarkt zulassen.
+
+<sup>4</sup> Die Vorbereitung auf eine Hilfsarbeit oder auf eine Tätigkeit in einer geschützten Werkstätte hat sich nach Möglichkeit am BBG zu orientieren. Sie hat wenn möglich im ersten Arbeitsmarkt zu erfolgen.
+
+<sup>5</sup> Die Zusprache einer praktischen Ausbildung nach Artikel 16 Absatz 3 Buchstabe c IVG erfolgt für die Dauer der Ausbildung.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^5-2]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^5-3]: Fassung gemäss Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
-[^5-4]: Fassung gemäss Ziff. I der V vom 8. Dez. 1980, in Kraft seit 1. Jan. 1981 ([AS 1980 1972](https://fedlex.data.admin.ch/eli/oc/1980/1972_1972_1972)).
-[^5-5]: Fassung gemäss Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
-[^5-6]: Eingefügt durch Ziff. I der V vom 29. Nov. 1976, in Kraft seit 1. Jan. 1977 ([AS 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)).
-[^5-7]: Eingefügt durch Ziff. I der V vom 29. Nov. 1976 ([AS 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)). Fassung gemäss Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 3038](https://fedlex.data.admin.ch/eli/oc/1997/3038_3038_3038)).
-[^5-8]: Fassung gemäss Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
-[^5-9]: Eingefügt durch Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 3038](https://fedlex.data.admin.ch/eli/oc/1997/3038_3038_3038)).
 
 #### Art. 5<sup>bis</sup>
 
-**Berufliche Weiterausbildung**[^5bis-1]
+**Invaliditätsbedingte Mehrkosten**[^5bis-1]
 
-<sup>1</sup> Die Versicherung übernimmt bei einer beruflichen Weiterausbildung die Kosten, die zusätzlich entstehen, wenn die Aufwendungen der versicherten Person wegen der Invalidität um jährlich 400 Franken höher sind, als sie ohne Invalidität gewesen wären.
+<sup>1</sup>
+
+Anspruch auf Vergütung der invaliditätsbedingten Mehrkosten der Ausbildung hat eine versicherte Person, die ihre Berufsbildung noch nicht abgeschlossen hat, sofern:
+
+- a. sie zuletzt noch kein massgebendes Erwerbseinkommen in der Höhe von mindestens drei Vierteln der Mindestrente nach Artikel 34 Absatz 5 des Bundesgesetzes vom 20. Dezember 1946[^5bis-2] über die Alters- und Hinterlassenenversicherung (AHVG) erzielt hat; oder
+- b. sie ohne Ausbildung eine Hilfstätigkeit von weniger als sechs Monaten ausgeübt hat.
+
+<sup>2</sup> Hat die versicherte Person vor Eintritt der Invalidität schon eine Ausbildung begonnen oder hätte sie ohne Invalidität offensichtlich eine weniger kostspielige Ausbildung absolvieren können, so bilden die Kosten dieser Ausbildung die Vergleichsgrundlage für die Berechnung der invaliditätsbedingten Mehrkosten.
+
+<sup>3</sup> Als invaliditätsbedingte Mehrkosten gelten die Kosten, die einer invaliden Person im Vergleich mit einer nicht invaliden Person aus der erstmaligen beruflichen Ausbildung oder Weiterbildung wegen der Invalidität zusätzlich entstehen.
+
+<sup>4</sup> Die Mehrkosten haben einen wesentlichen Umfang, wenn sie jährlich mindestens 400 Franken betragen.
+
+<sup>5</sup>
+
+An die invaliditätsbedingten Mehrkosten anrechenbar sind:
+
+- a. die Aufwendungen für die Vermittlung der erforderlichen Kenntnisse und Fertigkeiten;
+- b. die Kosten für persönliche Werkzeuge und Berufskleider;
+- c. die Transportkosten.
+
+<sup>6</sup> Wird die versicherte Person infolge ihrer Invalidität in einer Ausbildungsstätte untergebracht, so übernimmt die Invalidenversicherung die Kosten von Verpflegung und Unterkunft.
+
+<sup>7</sup>
+
+Bei auswärtiger Verpflegung und Unterkunft ausserhalb einer Ausbildungsstätte vergütet die Invalidenversicherung vorbehältlich vertraglicher Vereinbarungen (Art. 24 Abs. 2):
+
+- a. für die Verpflegung: die Beträge nach Artikel 90 Absatz 4 Buchstaben a und b;
+- b. für die Unterkunft: die ausgewiesenen notwendigen Kosten, höchstens aber den Betrag nach Artikel 90 Absatz 4 Buchstabe c.
+
+[^5bis-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2003 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)). Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^5bis-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 5<sup>ter</sup>
+
+**Berufliche Weiterausbildung**[^5ter-1]
+
+<sup>1</sup> Die Invalidenversicherung übernimmt bei einer beruflichen Weiterausbildung die Kosten, die zusätzlich entstehen, wenn die Aufwendungen der versicherten Person wegen der Invalidität um jährlich 400 Franken höher sind, als sie ohne Invalidität gewesen wären.
 
 <sup>2</sup> Die zusätzlichen Kosten werden ermittelt, indem die Kosten der invaliden Person den mutmasslichen Aufwendungen gegenübergestellt werden, die bei der gleichen Ausbildung einer nicht invaliden Person notwendig wären.
 
 <sup>3</sup> Anrechenbar im Rahmen von Absatz 2 sind die Aufwendungen für die Vermittlung der erforderlichen Kenntnisse und Fertigkeiten, die Kosten für persönliche Werkzeuge und Berufskleider, die Transportkosten sowie die Kosten bei invaliditätsbedingter auswärtiger Verpflegung und Unterkunft.
 
-<sup>4</sup> Die Vergütung der Kosten für auswärtige Verpflegung und Unterkunft richtet sich vorbehältlich vertraglicher Vereinbarungen nach Artikel 5 Absatz 6 Buchstaben a und b.[^5bis-2]
+<sup>4</sup> Die Vergütung der Kosten für auswärtige Verpflegung und Unterkunft richtet sich vorbehältlich vertraglicher Vereinbarungen nach Artikel 5<sup>bis</sup> Absatz 7.
 
-[^5bis-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^5bis-2]: Fassung gemäss Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
+[^5ter-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 6
 
@@ -374,7 +585,7 @@ Bei auswärtiger Verpflegung und Unterkunft ausserhalb einer Ausbildungsstätte 
 
 <sup>1bis</sup> Als Umschulungsmassnahmen gelten auch Ausbildungsmassnahmen, die zu einer höherwertigen als die vorhandene Ausbildung führen, sofern sie zur Erhaltung oder Verbesserung der Erwerbsfähigkeit notwendig sind.[^6-3]
 
-<sup>2</sup> Musste eine erstmalige berufliche Ausbildung wegen Invalidität abgebrochen werden, so ist eine neue berufliche Ausbildung der Umschulung gleichgestellt, wenn das während der abgebrochenen Ausbildung zuletzt erzielte Erwerbseinkommen höher war als das Taggeld nach Artikel 23 Absatz 2 IVG.[^6-4]
+<sup>2</sup> Musste eine erstmalige berufliche Ausbildung wegen Invalidität abgebrochen werden, so ist eine neue berufliche Ausbildung der Umschulung gleichgestellt, wenn das während der abgebrochenen Ausbildung zuletzt erzielte Erwerbseinkommen mindestens 30 Prozent des Höchstbetrags nach Artikel 24 Absatz 1 IVG beträgt.[^6-4]
 
 <sup>3</sup> Hat ein Versicherter Anspruch auf Umschulung, so übernimmt die Versicherung die Kosten für die Ausbildung sowie für die Unterkunft und die Verpflegung in der Ausbildungsstätte.
 
@@ -388,7 +599,7 @@ Bei auswärtiger Verpflegung und Unterkunft ausserhalb einer Ausbildungsstätte 
 [^6-1]: Fassung gemäss Ziff. I der V vom 21. Jan. 1987, in Kraft seit 1. Juli 1987 ([AS 1987 456](https://fedlex.data.admin.ch/eli/oc/1987/456_456_456)).
 [^6-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^6-3]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^6-4]: Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
+[^6-4]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^6-5]: Fassung gemäss Ziff. I der V vom 12. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3133](https://fedlex.data.admin.ch/eli/oc/2014/528)).
 [^6-6]: Fassung gemäss Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 3038](https://fedlex.data.admin.ch/eli/oc/1997/3038_3038_3038)).
 
@@ -446,6 +657,29 @@ Die Höhe der Entschädigung beträgt pro Absenztag:
 
 [^6quater-1]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
+#### Art. 6<sup>quinquies</sup>
+
+**Personalverleih**[^6quinquies-1]
+
+<sup>1</sup> Die Leistungsvereinbarung legt die Höhe der Entschädigung nach Artikel 18*a*<sup>bis</sup> Absatz 3 Buchstabe a IVG fest. Sie kann eine besondere Entschädigung des Personalverleihers für die Vermittlung einer Anstellung im Anschluss an den Personalverleih vorsehen. Der Höchstbetrag für die gesamte Entschädigung beträgt 12 500 Franken pro versicherte Person.
+
+<sup>2</sup> Dem Personalverleiher wird überdies eine Entschädigung nach Artikel 18*a*<sup>bis</sup> Absatz 3 Buchstabe b IVG ausgerichtet, sofern die versicherte Person innerhalb der Massnahme während mehr als zwei aufeinanderfolgenden Arbeitstagen krankheitsbedingt nicht arbeitet. Die Entschädigung wird ab dem dritten Tag ausgerichtet, sofern der Personalverleiher weiterhin Lohn zahlt oder eine Taggeldversicherung Leistungen erbringt.
+
+<sup>3</sup>
+
+Die Höhe der Entschädigung nach Artikel 18*a*<sup>bis</sup> Absatz 3 Buchstabe b IVG beträgt pro Absenztag:
+
+- a. für Betriebe mit bis zu 50 Mitarbeitern: 48 Franken;
+- b. für Betriebe mit mehr als 50 Mitarbeitern: 34 Franken.
+
+<sup>4</sup> Der Anspruch auf eine Entschädigung nach Artikel 18*a*<sup>bis</sup> Absatz 3 Buchstabe b IVG besteht längstens bis zum Ende des Arbeitsverhältnisses. Die Höhe dieser Entschädigung wird frühestens nach diesem Zeitpunkt abgerechnet.
+
+<sup>5</sup> Die IV-Stelle entscheidet über die erforderliche Dauer der Massnahme. Diese dauert jedoch längstens ein Jahr.
+
+<sup>6</sup> Die Zentrale Ausgleichsstelle zahlt die Entschädigungen nach den Absätzen 1 und 2 direkt an den Personalverleiher.
+
+[^6quinquies-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
 #### Art. 7
 
 **Kapitalhilfe**
@@ -456,7 +690,7 @@ Die Höhe der Entschädigung beträgt pro Absenztag:
 
 [^7-1]: Fassung gemäss Ziff. I des BRB vom 15. Jan. 1968, in Kraft seit 1. Jan. 1968 ([AS 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)).
 
-### C. ...
+### C. …
 
 #### Art. 8–12
 
@@ -478,36 +712,38 @@ Die Höhe der Entschädigung beträgt pro Absenztag:
 
 <sup>1</sup>
 
-Die Liste der im Rahmen von Artikel 21 IVG abzugebenden Hilfsmittel bildet Gegenstand einer Verordnung des Eidgenössischen Departements des Innern (Departement), welches auch nähere Bestimmungen erlässt über:[^14-2]
+Die Liste der im Rahmen von Artikel 21 IVG abzugebenden Hilfsmittel bildet Gegenstand einer Verordnung des EDI[^14-2], welches auch nähere Bestimmungen erlässt über:[^14-3]
 
-- a.[^14-3] die Abgabe oder Vergütung der Hilfsmittel;
+- a.[^14-4] die Abgabe oder Vergütung der Hilfsmittel;
 - b. Beiträge an die Kosten von invaliditätsbedingten Anpassungen von Geräten und Immobilien;
 - c. Beiträge an die Kosten für Dienstleistungen Dritter, welche anstelle eines Hilfsmittels benötigt werden;
-- d.[^14-4] Amortisationsbeiträge an Versicherte, die ein Hilfsmittel, auf das sie Anspruch besitzen, auf eigene Kosten angeschafft haben;
-- e.[^14-5] die Darlehenssumme bei selbstamortisierenden Darlehen an Versicherte, die für die Erwerbstätigkeit in einem Landwirtschafts- oder Gewerbebetrieb Anspruch auf ein kostspieliges Hilfsmittel haben, das von der Versicherung nicht zurückgenommen oder nur schwer wieder abgegeben werden kann.
+- d.[^14-5] Amortisationsbeiträge an Versicherte, die ein Hilfsmittel, auf das sie Anspruch besitzen, auf eigene Kosten angeschafft haben;
+- e.[^14-6] die Darlehenssumme bei selbstamortisierenden Darlehen an Versicherte, die für die Erwerbstätigkeit in einem Landwirtschafts- oder Gewerbebetrieb Anspruch auf ein kostspieliges Hilfsmittel haben, das von der Versicherung nicht zurückgenommen oder nur schwer wieder abgegeben werden kann.
 
 <sup>2</sup>
 
-Das Departement kann das Bundesamt ermächtigen:
+Das EDI kann das BSV[^14-7] ermächtigen:
 
 - a. die Härtefälle zu bestimmen, in denen die in Anwendung von Absatz 1 Buchstabe a festgesetzten Beträge überschritten werden können;
 - b. Vergütungslimiten der Versicherung für spezifische Hilfsmittel festzulegen;
-- c. eine Liste der Hilfsmittel-Modelle zu erstellen, die den Anforderungen der Versicherung entsprechen.[^14-6]
+- c. eine Liste der Hilfsmittel-Modelle zu erstellen, die den Anforderungen der Versicherung entsprechen.[^14-8]
 
 [^14-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 1976, in Kraft seit 1. Jan. 1977 ([AS 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)).
-[^14-2]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^14-2]: Ausdruck gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^14-3]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^14-4]: Eingefügt durch Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
+[^14-4]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^14-5]: Eingefügt durch Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^14-6]: Eingefügt durch Ziff. I der V vom 25. Mai 2011, in Kraft seit 1. Juli 2011 ([AS 2011 2659](https://fedlex.data.admin.ch/eli/oc/2011/367)).
+[^14-6]: Eingefügt durch Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
+[^14-7]: Ausdruck gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^14-8]: Eingefügt durch Ziff. I der V vom 25. Mai 2011, in Kraft seit 1. Juli 2011 ([AS 2011 2659](https://fedlex.data.admin.ch/eli/oc/2011/367)).
 
 #### Art. 14<sup>bis</sup>
 
 **Beschaffung und Vergütung von Hilfsmitteln**[^14bis-1]
 
-<sup>1</sup> Das Departement legt in einer Verordnung die Hilfsmittel fest, für die die Instrumente nach Artikel 21<sup>quater</sup> Absatz 1 Buchstaben a–c IVG angewendet werden.
+<sup>1</sup> Das EDI legt in einer Verordnung die Hilfsmittel fest, für die die Instrumente nach Artikel 21<sup>quater</sup> Absatz 1 Buchstaben a–c IVG angewendet werden.
 
-<sup>2</sup> Sieht die vorliegende Verordnung für die Beschaffung von Hilfsmitteln und damit zusammenhängende Dienstleistungen ein Vergabeverfahren vor, so regelt das Departement die Modalitäten der Abgabe und der Vergütung.
+<sup>2</sup> Sieht die vorliegende Verordnung für die Beschaffung von Hilfsmitteln und damit zusammenhängende Dienstleistungen ein Vergabeverfahren vor, so regelt das EDI die Modalitäten der Abgabe und der Vergütung.
 
 [^14bis-1]: Eingefügt durch Ziff. I der V vom 5. Dez. 2008 ([AS 2008 6491](https://fedlex.data.admin.ch/eli/oc/2008/884)). Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
@@ -515,7 +751,7 @@ Das Departement kann das Bundesamt ermächtigen:
 
 **Einschränkung der Austauschbefugnis**[^14ter-1]
 
-Wird ein Hilfsmittel oder eine damit zusammenhängende Dienstleistung über ein Vergabeverfahren beschafft, so schränkt das Departement die Austauschbefugnis ein.
+Wird ein Hilfsmittel oder eine damit zusammenhängende Dienstleistung über ein Vergabeverfahren beschafft, so schränkt das EDI die Austauschbefugnis ein.
 
 [^14ter-1]: Eingefügt durch Ziff. I der V vom 5. Dez. 2008 ([AS 2008 6491](https://fedlex.data.admin.ch/eli/oc/2008/884)). Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
@@ -539,9 +775,11 @@ Der Pauschalbetrag nach Artikel 21<sup>quater</sup> Absatz 1 Buchstabe a IVG wir
 
 **Abklärungszeiten**[^17-1]
 
-Die versicherte Person, die sich zur Abklärung ihres Leistungsanspruches an mindestens zwei aufeinanderfolgenden Tagen einer von der IV-Stelle angeordneten Untersuchung unterzieht, hat für jeden Abklärungstag Anspruch auf ein Taggeld.
+<sup>1</sup> Die versicherte Person, die sich zur Abklärung ihres Leistungsanspruchs an mindestens zwei aufeinanderfolgenden Tagen einer von der IV-Stelle angeordneten Untersuchung unterzieht, hat für jeden Abklärungstag Anspruch auf ein Taggeld.
 
-[^17-1]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+<sup>2</sup> Während der Abklärungszeiten vor der Gewährung von Leistungen im Sinne von Artikel 16 IVG besteht kein Anspruch auf ein Taggeld.
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 17<sup>bis</sup>
 
@@ -558,28 +796,27 @@ Der Versicherte, der innerhalb eines Monats an mindestens drei nicht zusammenhä
 
 **Wartezeiten im Allgemeinen**
 
-<sup>1</sup> Die versicherte Person, die zu mindestens 50 Prozent arbeitsunfähig ist und auf den Beginn einer erstmaligen beruflichen Ausbildung oder einer Umschulung warten muss, hat während der Wartezeit Anspruch auf ein Taggeld.[^18-1]
+<sup>1</sup> Die versicherte Person, die zu mindestens 50 Prozent arbeitsunfähig ist und auf den Beginn einer Umschulung warten muss, hat während der Wartezeit Anspruch auf ein Taggeld.[^18-1]
 
-<sup>2</sup> Der Anspruch entsteht im Zeitpunkt, in welchem die IV-Stelle feststellt, dass eine erstmalige berufliche Ausbildung oder eine Umschulung angezeigt ist.[^18-2]
+<sup>2</sup> Der Anspruch entsteht im Zeitpunkt, in dem die IV-Stelle feststellt, dass eine Umschulung angezeigt ist.[^18-2]
 
 <sup>3</sup> Rentenbezüger, die sich einer Eingliederungsmassnahme unterziehen, haben keinen Anspruch auf ein Taggeld für die Wartezeit.
 
 <sup>4</sup> Soweit Versicherte einen Anspruch auf ein Taggeld der Arbeitslosenversicherung haben, besteht kein Anspruch auf das Taggeld der Invalidenversicherung.[^18-3]
 
-[^18-1]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^18-2]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^18-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^18-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^18-3]: Eingefügt durch Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 
 #### Art. 19
 
-**Wartezeiten während der Arbeitsvermittlung**
+**Wartezeiten während der Stellensuche**[^19-1]
 
-<sup>1</sup> Der Versicherte hat für die Zeit, während der er auf die Vermittlung geeigneter Arbeit wartet, keinen Anspruch auf Taggeld. Ging jedoch der Arbeitsvermittlung eine erstmalige berufliche Ausbildung oder eine Umschulung voraus, so wird das bisherige Taggeld während längstens 60 Tagen weitergewährt.[^19-1]
+<sup>1</sup> Die versicherte Person hat keinen Anspruch auf ein Taggeld für den Zeitraum, während dem sie eine geeignete Stelle sucht. Ging jedoch der Stellensuche eine erstmalige berufliche Ausbildung, eine Umschulung oder ein Arbeitsversuch voraus, so wird das bisherige Taggeld während längstens 60 Tagen weitergewährt.
 
-<sup>2</sup> ...[^19-2]
+<sup>2</sup> Sofern Versicherte Anspruch auf ein Taggeld der Arbeitslosenversicherung haben, besteht kein Anspruch auf das Taggeld der Invalidenversicherung.
 
-[^19-1]: Fassung gemäss Ziff. I der V vom 29. Juni 1988, in Kraft seit 1. Jan. 1989 ([AS 1988 1484](https://fedlex.data.admin.ch/eli/oc/1988/1484_1484_1484)).
-[^19-2]: Eingefügt durch Ziff. I der V vom 29. Juni 1983 ([AS 1983 912](https://fedlex.data.admin.ch/eli/oc/1983/912_912_912)). Aufgehoben durch Ziff. I der V vom 21. Mai 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
+[^19-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 20
 
@@ -597,18 +834,17 @@ Der Versicherte, der innerhalb eines Monats an mindestens drei nicht zusammenhä
 
 **Taggeld und Invalidenrente**[^20ter-1]
 
-<sup>1</sup> Hat die versicherte Person Anspruch auf ein Taggeld einschliesslich Kindergeld nach den Artikeln 23 und 23<sup>bis</sup> IVG, das niedriger wäre als die bisher bezogene Rente, so wird anstelle des Taggeldes die Rente weitergewährt.
+<sup>1</sup> Hat die versicherte Person Anspruch auf ein Taggeld einschliesslich Kindergeld nach den Artikeln 23 Absatz 1 und 23<sup>bis</sup> IVG, das niedriger wäre als die bisher bezogene Rente, so wird anstelle des Taggeldes die Rente weitergewährt.
 
-<sup>2</sup> Hat die versicherte Person Anspruch auf ein Taggeld nach Artikel 23 Absatz 2<sup>bis</sup> IVG, das niedriger wäre als die bisher bezogene Rente, so wird die Rente nach Ablauf der Frist nach Artikel 47 Absatz 1 IVG durch ein Taggeld ersetzt, das einem Dreissigstel des Rentenbetrages entspricht.[^20ter-2]
+<sup>2</sup> Hat die versicherte Person während der erstmaligen beruflichen Ausbildung Anspruch auf ein Taggeld, das niedriger wäre als die bisher bezogene Rente, so wird die Rente nach Ablauf der Frist nach Artikel 47 Absatz 1<sup>bis</sup> IVG durch ein Taggeld ersetzt, das einem Dreissigstel des Rentenbetrags entspricht.
 
-[^20ter-1]: Eingefügt durch Ziff. II 1 der V vom 5. April 1978 ([AS 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^20ter-2]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^20ter-1]: Eingefügt durch Ziff. II 1 der V vom 5. April 1978 ([AS 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 20<sup>quater</sup>
 
 **Unterbrüche von Eingliederungsmassnahmen**[^20quater-1]
 
-<sup>1</sup> Müssen Versicherte eine Eingliederungsmassnahme wegen Krankheit, Unfall oder Mutterschaft unterbrechen, wird ihnen das Taggeld weitergewährt, wenn sie keinen Anspruch auf ein Taggeld einer anderen obligatorischen Sozialversicherung oder auf ein Taggeld einer freiwilligen Taggeldversicherung in mindestens der gleichen Höhe wie das Taggeld der Invalidenversicherung haben.
+<sup>1</sup> Müssen Versicherte eine Eingliederungsmassnahme wegen Krankheit oder Mutterschaft unterbrechen, so wird ihnen das Taggeld weitergewährt, wenn sie keinen Anspruch auf ein Taggeld einer anderen obligatorischen Sozialversicherung oder auf ein Taggeld einer freiwilligen Taggeldversicherung in mindestens der gleichen Höhe wie das Taggeld der Invalidenversicherung haben.[^20quater-2]
 
 <sup>2</sup>
 
@@ -616,18 +852,28 @@ Ein Taggeld nach Absatz 1 wird weiter ausgerichtet:
 
 - a. im ersten Jahr der Eingliederungsmassnahmen: während längstens 30 Tagen;
 - b. im zweiten Jahr der Eingliederungsmassnahmen: während längstens 60 Tagen;
-- c. ab dem dritten Jahr der Eingliederungsmassnahmen: während längstens 90 Tagen.[^20quater-2]
+- c. ab dem dritten Jahr der Eingliederungsmassnahmen: während längstens 90 Tagen.[^20quater-3]
 
-<sup>3</sup> ...[^20quater-3]
+<sup>3</sup> …[^20quater-4]
 
 <sup>4</sup> Der Anspruch auf das Taggeld entfällt, wenn feststeht, dass die Eingliederungsmassnahme nicht mehr weitergeführt wird.
 
-<sup>5</sup> ...[^20quater-4]
+<sup>5</sup> …[^20quater-5]
+
+<sup>6</sup>
+
+Müssen Versicherte eine Eingliederungsmassnahme wegen eines Unfalls unterbrechen, so wird ihnen das Taggeld wie folgt weitergewährt:
+
+- a. längstens während der auf den Unfall folgenden zwei Tage, wenn sie nach dem Bundesgesetz vom 20. März 1981[^20quater-6] über die Unfallversicherung (UVG) obligatorisch versichert sind;
+- b. nach den gleichen Regeln wie bei Krankheit nach den Absätzen 1, 2 und 4, wenn sie nicht nach dem UVG obligatorisch versichert sind.[^20quater-7]
 
 [^20quater-1]: Eingefügt durch Ziff. II 1 der V vom 5. April 1978 ([AS 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Aufgehoben durch Ziff. I der V vom 12. Sept. 1984 ([AS 1984 1186](https://fedlex.data.admin.ch/eli/oc/1984/1186_1186_1186)). Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^20quater-2]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^20quater-3]: Aufgehoben durch Ziff. I der V vom 16. Nov. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^20quater-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^20quater-3]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 [^20quater-4]: Aufgehoben durch Ziff. I der V vom 16. Nov. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^20quater-5]: Aufgehoben durch Ziff. I der V vom 16. Nov. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^20quater-6]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^20quater-7]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 20<sup>quinquies</sup>
 
@@ -642,12 +888,7 @@ Versicherte, denen eine Entschädigung nach dem EOG[^20quinquies-2] zusteht, hab
 
 **Erwerbstätige Versicherte**[^20sexies-1]
 
-<sup>1</sup>
-
-Als erwerbstätig gelten Versicherte, die:
-
-- a. unmittelbar vor Beginn ihrer Arbeitsunfähigkeit (Art. 6 ATSG) eine Erwerbstätigkeit ausgeübt haben; oder
-- b. glaubhaft machen, dass sie nach Eintritt der Arbeitsunfähigkeit eine Erwerbstätigkeit von längerer Dauer aufgenommen hätten.
+<sup>1</sup> Als erwerbstätig gelten Versicherte, die unmittelbar vor Beginn ihrer Arbeitsunfähigkeit (Art. 6 ATSG) eine Erwerbstätigkeit ausgeübt haben.[^20sexies-2]
 
 <sup>2</sup>
 
@@ -657,12 +898,13 @@ Den erwerbstätigen Versicherten gleichgestellt sind:
 - b. Versicherte, die nach krankheits- oder unfallbedingter Aufgabe der Erwerbstätigkeit Taggelder als Ersatzeinkommen beziehen.
 
 [^20sexies-1]: Eingefügt durch Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^20sexies-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 21
 
 **Bemessungsgrundlagen**[^21-1]
 
-<sup>1</sup> ...[^21-2]
+<sup>1</sup> …[^21-2]
 
 <sup>2</sup>
 
@@ -671,7 +913,7 @@ Bei der Ermittlung des massgebenden Einkommens im Sinne von Artikel 23 Absatz 3 
 - a. Krankheit;
 - b. Unfall;
 - c. Arbeitslosigkeit;
-- d. Dienst im Sinne von Artikel 1 EOG[^21-3];
+- d. Dienst im Sinne von Artikel 1*a* EOG[^21-3];
 - e. Mutterschaft; oder
 - f. anderen Gründen, die nicht auf ihr Verschulden zurückzuführen sind.
 
@@ -719,12 +961,13 @@ Das massgebende Einkommen wird auf den Tag ausgerechnet. Es wird wie folgt ermit
 
 **Selbständigerwerbende**[^21quater-1]
 
-<sup>1</sup> Grundlage für die Bemessung des Taggeldes für Selbständigerwerbende bildet das auf den Tag umgerechnete, zuletzt ohne gesundheitliche Beeinträchtigung erzielte Erwerbseinkommen, von dem Beiträge nach dem Bundesgesetz vom 20. Dezember 1946[^21quater-2] über die Alters- und Hinterlassenenversicherung (AHVG) erhoben werden.
+<sup>1</sup> Grundlage für die Bemessung des Taggeldes für Selbstständigerwerbende bildet das auf den Tag umgerechnete, zuletzt ohne gesundheitliche Beeinträchtigung erzielte Erwerbseinkommen, von dem Beiträge nach dem AHVG[^21quater-2] erhoben werden.[^21quater-3]
 
 <sup>2</sup> Das Taggeld für Versicherte, die glaubhaft machen, dass sie während der Eingliederung eine selbständige Erwerbstätigkeit von längerer Dauer aufgenommen hätten, bemisst sich nach dem Erwerbseinkommen, das sie dabei verdient hätten.
 
 [^21quater-1]: Eingefügt durch Ziff. I der V vom 31. Mai 1999 ([AS 1999 1851](https://fedlex.data.admin.ch/eli/oc/1999/304)). Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^21quater-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^21quater-3]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 21<sup>quinquies</sup>
 
@@ -736,7 +979,7 @@ Das massgebende Einkommen von Versicherten, die gleichzeitig Arbeitnehmende und 
 
 #### Art. 21<sup>sexies</sup>
 
-**Änderung des massgebenden Einkommen**[^21sexies-1]
+**Änderung des massgebenden Einkommens**[^21sexies-1]
 
 Während der Eingliederung ist alle zwei Jahre von Amtes wegen zu prüfen, ob sich das für die Taggeldbemessung massgebende Einkommen geändert hat.
 
@@ -746,19 +989,24 @@ Während der Eingliederung ist alle zwei Jahre von Amtes wegen zu prüfen, ob si
 
 **Kürzung des Taggeldes**[^21septies-1]
 
-<sup>1</sup> Übt eine versicherte Person während der Eingliederung eine Erwerbstätigkeit aus, so wird das Taggeld soweit gekürzt, als es zusammen mit dem aus dieser Tätigkeit erzielten Einkommen das gemäss den Artikeln 21–21<sup>quinquies</sup> massgebende Erwerbseinkommen übersteigt. Artikel 22 Absatz 5 bleibt vorbehalten.
+<sup>1</sup> Übt eine versicherte Person während der Eingliederung eine Erwerbstätigkeit aus, so wird das Taggeld nach Artikel 22 Absatz 1 IVG soweit gekürzt, als es zusammen mit dem aus dieser Tätigkeit erzielten Einkommen das nach den Artikeln 21–21<sup>quinquies</sup> massgebende Erwerbseinkommen übersteigt.[^21septies-2]
 
-<sup>2</sup> Für die Kürzung des Taggeldes ist das Erwerbseinkommen zu berücksichtigen, das die versicherte Person mit der während der Eingliederung ausgeübten Tätigkeit erzielt hat. Für Arbeitnehmer entspricht dieses Erwerbseinkommen dem massgebenden Lohn im Sinne von Artikel 5 AHVG[^21septies-2], für Selbstständigerwerbende dem Einkommen, von dem Beiträge nach dem AHVG erhoben werden.[^21septies-3]
+<sup>2</sup> Für die Kürzung des Taggeldes ist das Erwerbseinkommen zu berücksichtigen, das die versicherte Person mit der während der Eingliederung ausgeübten Tätigkeit erzielt hat. Für Arbeitnehmer entspricht dieses Erwerbseinkommen dem massgebenden Lohn im Sinne von Artikel 5 AHVG[^21septies-3], für Selbstständigerwerbende dem Einkommen, von dem Beiträge nach dem AHVG erhoben werden.[^21septies-4]
 
 <sup>3</sup> Finanzielle Leistungen des Arbeitgebers während der Eingliederung, für die die versicherte Person keine spezielle Arbeitsleistung erbringt, werden für die Kürzung nicht berücksichtigt (Soziallohn).
 
-<sup>4</sup> Für Versicherte, die Anspruch auf ein Kindergeld nach Artikel 22 Absatz 3 IVG haben, erhöht sich das massgebende Einkommen um die auf den Tag umgerechneten Mindestansätze der Kinder- oder Ausbildungszulagen nach Artikel 5 des Familienzulagengesetzes vom 24. März 2006[^21septies-4].[^21septies-5]
+<sup>4</sup> Für Versicherte, die Anspruch auf ein Kindergeld nach Artikel 22<sup>bis</sup> Absatz 2 IVG haben, erhöht sich das massgebende Einkommen um die auf den Tag umgerechneten Mindestansätze der Kinder- oder Ausbildungszulagen nach Artikel 5 des Familienzulagengesetzes vom 24. März 2006[^21septies-5].[^21septies-6]
+
+<sup>5</sup> Bezieht eine versicherte Person während der Eingliederung eine Invalidenrente nach dem UVG[^21septies-7], so wird das Taggeld nach Artikel 22 Absatz 1 IVG so weit gekürzt, als es zusammen mit dieser Rente das massgebende Erwerbseinkommen nach den Artikeln 21–21<sup>quinquies</sup> übersteigt.[^21septies-8]
 
 [^21septies-1]: Eingefügt durch Ziff. I der V vom 31. Mai 1999 ([AS 1999 1851](https://fedlex.data.admin.ch/eli/oc/1999/304)). Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^21septies-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^21septies-3]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^21septies-4]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
-[^21septies-5]: Eingefügt durch Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Siehe auch die UeB dieser Änd. am Ende dieses Textes.
+[^21septies-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^21septies-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^21septies-4]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^21septies-5]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^21septies-6]: Eingefügt durch Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^21septies-7]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^21septies-8]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 21<sup>octies</sup>
 
@@ -768,42 +1016,43 @@ Während der Eingliederung ist alle zwei Jahre von Amtes wegen zu prüfen, ob si
 
 <sup>2</sup> Wird das Taggeld zudem nach Artikel 21<sup>septies</sup> gekürzt, so erfolgt der Abzug gemäss Absatz 1 nach dieser Kürzung.
 
+<sup>3</sup> Das Taggeld wird während der erstmaligen beruflichen Ausbildung nicht gekürzt.[^21octies-3]
+
 [^21octies-1]: Eingefügt durch Ziff. I der V vom 31. Mai 1999 ([AS 1999 1851](https://fedlex.data.admin.ch/eli/oc/1999/304)). Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^21octies-2]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Siehe auch die UeB dieser Änd. am Ende dieses Textes.
+[^21octies-3]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 21<sup>novies</sup>
 
 **Besitzstandgarantie**[^21novies-1]
 
-Verliert eine versicherte Person infolge der Durchführung einer Massnahme das Taggeld eines anderen Versicherers, das auf einem vorangegangenen Erwerbseinkommen basiert, so entspricht das Taggeld, das die Versicherung nach Artikel 22 Absatz 5<sup>ter</sup> IVG zusätzlich zur Rente auszahlt, mindestens dem bisher bezogenen Taggeld.
+Verliert eine versicherte Person infolge der Durchführung einer Massnahme das Taggeld eines anderen Versicherers, das auf einem vorangegangenen Erwerbseinkommen basiert, so entspricht das Taggeld, das die Invalidenversicherung nach Artikel 22<sup>bis</sup> Absatz 6 IVG zusätzlich zur Rente auszahlt, mindestens dem bisher bezogenen Taggeld.
 
-[^21novies-1]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^21novies-1]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)). Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 22
 
-**Bemessung in der erstmaligen beruflichen Ausbildung und in gleichgestellten Fällen**[^22-1]
+**Bemessung in der erstmaligen beruflichen Ausbildung**[^22-1]
 
-<sup>1</sup> Das Taggeld von Versicherten in der erstmaligen beruflichen Ausbildung sowie von Versicherten vor dem vollendeten 20. Altersjahr, die noch nicht erwerbstätig gewesen sind und sich medizinischen Eingliederungsmassnahmen unterziehen, entspricht 10 Prozent des Höchstbetrages des Taggeldes nach Artikel 24 Absatz 1 IVG.[^22-2]
+<sup>1</sup>
 
-<sup>2</sup> Bei Versicherten, die wegen ihrer Invalidität eine erstmalige berufliche Ausbildung abbrechen und eine neue beginnen mussten, erhöht sich das Taggeld gegebenenfalls auf einen Dreissigstel des während der abgebrochenen Ausbildung zuletzt erzielten Monatseinkommens. Artikel 6 Absatz 2 bleibt vorbehalten.
+Liegt kein Lehrvertrag nach dem BBG[^22-2] vor, so entspricht die Höhe des Taggeldes monatlich aufgerundet:
 
-<sup>3</sup> ...[^22-3]
+- a. im ersten Jahr einem Viertel der minimalen Altersrente nach Artikel 34 Absatz 5 AHVG[^22-3];
+- b. ab dem zweiten Jahr einem Drittel der minimalen Altersrente nach Artikel 34 Absatz 5 AHVG.
 
-<sup>4</sup> Hat die versicherte Person einen Anspruch auf ein Kindergeld nach Artikel 22 Absatz 3 IVG, so erhöht sich das Taggeld nach den Absätzen 1 und 2 um das Kindergeld nach Artikel 23<sup>bis</sup> IVG.[^22-4]
+<sup>2</sup> Bei Versicherten, die Anspruch auf ein Taggeld nach Artikel 22 Absatz 3 IVG haben, bemisst sich das Taggeld nach dem mittleren monatlichen Erwerbseinkommen von Studierenden an Hochschulen gemäss der Erhebung zur sozialen und wirtschaftlichen Lage der Studierenden des Bundesamtes für Statistik.
 
-<sup>5</sup>
+<sup>3</sup> Hätte die versicherte Person während einer erstmaligen beruflichen Ausbildung Anspruch auf ein Taggeld, so hat sie ebenfalls Anspruch auf ein Taggeld während der Vorbereitung auf diese erstmalige berufliche Ausbildung, sofern die Voraussetzungen nach Artikel 5 Absatz 2 erfüllt sind. Dieses Taggeld bemisst sich nach Absatz 1. Artikel 22 Absatz 4 IVG bleibt vorbehalten.
 
-Von dem nach den Absätzen 1, 2 und 4 oder nach Artikel 20<sup>ter</sup> Absatz 2 ermittelten Taggeld werden abgezogen:[^22-5]
+<sup>4</sup> Bei Versicherten, die wegen ihrer Invalidität eine erstmalige berufliche Ausbildung abbrechen und eine neue beginnen müssen, bemisst sich das Taggeld nach Artikel 24<sup>ter</sup> IVG. Artikel 6 Absatz 2 bleibt vorbehalten.
 
-- a. ein Dreissigstel des monatlichen Erwerbseinkommens, das die versicherte Person während der Ausbildung erzielt;
-- b.[^22-6] 20 Prozent des Taggeldes, höchstens aber 20 Franken, wenn die Verpflegung von der IV übernommen wird. Bei Versicherten mit Unterhaltspflichten gegenüber Kindern, die im Falle des Todes der versicherten Person eine Waisenrente der Alters- und Hinterlassenenversicherung beanspruchen könnten, beträgt der Abzug 10 Prozent, höchstens aber 10 Franken. Die Artikel 21<sup>septies</sup> und 21<sup>octies</sup> Absatz 2 sind sinngemäss anwendbar.
+<sup>5</sup> Für Versicherte, die Anspruch auf ein Kindergeld nach Artikel 22<sup>bis</sup> Absatz 2 IVG haben, erhöht sich das Taggeld um die Höhe des Kindergeldes nach Artikel 23<sup>bis</sup> IVG, sofern das Einkommen niedriger ist als dasjenige nach den Artikeln 13 Absatz 3 und 19 Absatz 1<sup>bis</sup> des Familienzulagengesetzes vom 24. März 2006[^22-4].
 
-[^22-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^22-2]: Fassung gemäss Ziff. I 17 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^22-3]: Aufgehoben durch Ziff. I der V vom 28. Sept. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^22-4]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^22-5]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^22-6]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Siehe auch die UeB dieser Änd. am Ende dieses Textes.
+[^22-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^22-2]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^22-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^22-4]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
 
 #### Art. 22<sup>bis</sup>
 
@@ -847,13 +1096,14 @@ Als Betreuungskosten werden insbesondere vergütet:
 
 **Kindergeld**[^22quinquies-1]
 
-<sup>1</sup> Als gesetzliche Zulagen im Sinne von Artikel 22 Absatz 3 IVG gelten Kinder- und Ausbildungszulagen gemäss der Bundesgesetzgebung, des kantonalen Rechts sowie der ausländischen Gesetzgebung.
+<sup>1</sup> Als gesetzliche Zulagen im Sinne von Artikel 22<sup>bis</sup> Absatz 2 IVG gelten Kinder- und Ausbildungszulagen nach der Bundesgesetzgebung, des kantonalen Rechts sowie der ausländischen Gesetzgebung.[^22quinquies-2]
 
 <sup>2</sup> Die Ausgleichskasse kann von der versicherten Person den Nachweis verlangen, dass kein Anspruch auf eine gesetzliche Kinder- oder Ausbildungszulage besteht.
 
 <sup>3</sup> Besteht ein Anspruch auf eine gesetzliche Kinder- oder Ausbildungszulage und wäre das Kindergeld höher als diese, so hat die versicherte Person keinen Anspruch auf eine Differenzzahlung.
 
 [^22quinquies-1]: Eingefügt durch Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^22quinquies-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 23
 
@@ -884,17 +1134,87 @@ Als Betreuungskosten werden insbesondere vergütet:
 [^23ter-1]: Eingefügt durch Ziff. I der V vom 4. Dez. 2000 , in Kraft seit 1. Jan. 2001 ([AS 2001 89](https://fedlex.data.admin.ch/eli/oc/2001/16)).
 [^23ter-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 
+### G. Wahlrecht, Zusammenarbeit und Tarife****
+
+[^chap2-lvlG-1]
+
+[^chap2-lvlG-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
 #### Art. 24
 
 **Wahlrecht und Verträge**[^24-1]
 
-<sup>1</sup> Das Departement kann Zulassungsvorschriften nach Artikel 26<sup>bis</sup> Absatz 2 IVG erlassen. Das Bundesamt kann eine Liste der zugelassenen Personen und Stellen führen.
+<sup>1</sup> Das EDI kann Zulassungsvorschriften nach Artikel 26<sup>bis</sup> Absatz 2 IVG erlassen. Das BSV kann eine Liste der zugelassenen Personen und Stellen führen.
 
-<sup>2</sup> Die Verträge nach den Artikeln 21<sup>quater</sup> Absatz 1 Buchstabe b und 27 IVG werden vom Bundesamt abgeschlossen; Artikel 41 Absatz 1 Buchstabe l bleibt vorbehalten.
+<sup>2</sup> Die Verträge nach Artikel 21<sup>quater</sup> Absatz 1 Buchstabe b IVG werden vom BSV abgeschlossen.[^24-2]
 
-<sup>3</sup> Für Personen und Stellen, die Eingliederungsmassnahmen durchführen, ohne einem bestehenden Vertrag beizutreten, gelten die vertraglich festgelegten beruflichen Bedingungen als Mindestanforderungen der Versicherung im Sinne von Artikel 26<sup>bis</sup> Absatz 1 IVG und die festgesetzten Tarife als Höchstansätze im Sinne der Artikel 21<sup>quater</sup> Absatz 1 Buchstabe c und 27 Absatz 3 IVG.
+<sup>3</sup> Für Personen und Stellen, die Eingliederungsmassnahmen durchführen, ohne einem bestehenden gesamtschweizerischen, durch das BSV abgeschlossenen Vertrag beizutreten, gelten die in diesem Vertrag festgelegten Bedingungen als Mindestanforderungen der Invalidenversicherung im Sinne von Artikel 26<sup>bis</sup> Absatz 1 IVG und die festgesetzten Tarife als Höchstansätze im Sinne der Artikel 21<sup>quater</sup> Absatz 1 Buchstabe c und 27 Absatz 3 IVG.[^24-3]
 
 [^24-1]: Fassung gemäss Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
+[^24-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^24-3]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 24<sup>bis</sup>
+
+**Tarifierung der medizinischen Massnahmen**[^24bis-1]
+
+<sup>1</sup> Für die Ausgestaltung der Tarife für die medizinischen Massnahmen sind die Artikel 43 Absätze 2 und 3 und 49 Absätze 1 und 3–6 KVG[^24bis-2] sinngemäss anwendbar.
+
+<sup>2</sup> Die Tarife sind nach betriebswirtschaftlichen Kriterien zu bemessen, und es ist eine sachgerechte Struktur der Tarife zu beachten. Der Tarif darf höchstens die transparent ausgewiesenen Kosten der Leistung und die für eine effiziente Leistungserbringung erforderlichen Kosten decken.
+
+<sup>3</sup> Ein Wechsel des Tarifmodells darf keine Mehrkosten verursachen.
+
+<sup>4</sup> Die Vertragsparteien müssen die Tarife regelmässig überprüfen und anpassen, wenn die Einhaltung der Grundsätze nach Absatz 2 nicht mehr gewährleistet ist.
+
+<sup>5</sup> Bei der Festsetzung der Tarife nach Artikel 27 Absätze 3–6 und 7 zweiter Satz IVG wendet die zuständige Behörde die Absätze 1–3 sinngemäss an.
+
+[^24bis-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^24bis-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+
+#### Art. 24<sup>ter</sup>
+
+**Ermittlung der Kosten für medizinische Massnahmen**[^24ter-1]
+
+<sup>1</sup> Tarifverträge, die eine einheitliche Tarifstruktur nach Artikel 27 Absatz 4 IVG vorsehen, müssen die Anwendungsmodalitäten des Tarifs enthalten.
+
+<sup>2</sup> Vor dem Abschluss gesamtschweizerischer Tarifverträge und im Rahmen der Tariffestsetzung durch die zuständige Behörde ist der Preisüberwacher im Sinne des Preisüberwachungsgesetzes vom 20. Dezember 1985[^24ter-2] anzuhören.
+
+<sup>3</sup> Die Leistungserbringer stellen den fachlich zuständigen Stellen des Bundes, dem Verein Medizinaltarif-Kommission UVG und den Tarifpartnern die für die Festlegung des Tarifs notwendigen Unterlagen zur Verfügung.
+
+[^24ter-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^24ter-2]: [SR 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
+
+#### Art. 24<sup>quater</sup>
+
+**Kostenvergütung für stationäre Spitalbehandlungen**[^24quater-1]
+
+<sup>1</sup> Für die Vergütung der stationären Behandlung in der allgemeinen Abteilung eines Spitals schliesst das BSV mit den Spitälern Zusammenarbeits- und Tarifverträge ab und vereinbart Pauschalen. Die Pauschalen sind leistungsbezogen und beruhen auf gesamtschweizerisch einheitlichen Strukturen. Die Spitaltarife orientieren sich an der Entschädigung derjenigen Spitäler, die die Leistungen in der notwendigen Qualität effizient und günstig erbringen.
+
+<sup>2</sup> Die Vertragsparteien können vereinbaren, dass besondere diagnostische oder therapeutische Leistungen nicht in der Pauschale enthalten sind, sondern getrennt in Rechnung gestellt werden.
+
+<sup>3</sup> Basiert ein leistungsbezogenes Vergütungsmodell für stationäre Spitalbehandlungen nach Artikel 14 Absatz 1 IVG auf einem Patientenklassifikationssystem vom Typus DRG (*Diagnosis Related Groups*), so muss der Tarifvertrag zusätzlich das Kodierungshandbuch sowie ein Konzept zur Kodierrevision enthalten.
+
+<sup>4</sup> Begibt sich die versicherte Person in ein Spital, das mit dem BSV keine Tarifvereinbarung abgeschlossen hat, so vergütet die Invalidenversicherung die Kosten, die der versicherten Person bei der Behandlung in der allgemeinen Abteilung des nächstgelegenen Vertragsspitals nach Absatz 1, erwachsen wären. Das Spital hat nur Anspruch auf die Erstattung dieser Kosten.
+
+[^24quater-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 24<sup>quinquies</sup>
+
+**Vergütung der ambulanten Behandlung**[^24quinquies-1]
+
+Für die Vergütung der ambulanten Behandlung schliesst das BSV mit den Leistungserbringern nach Artikel 14 Absatz 1 IVG Zusammenarbeits- und Tarifverträge auf gesamtschweizerischer Ebene ab. Die Einzelleistungstarife beruhen auf gesamtschweizerisch einheitlichen Strukturen.
+
+[^24quinquies-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 24<sup>sexies</sup>
+
+**Zusammenarbeit und Tarife für Integrationsmassnahmen zur Vorbereitung auf die berufliche Eingliederung und für Massnahmen beruflicher Art**[^24sexies-1]
+
+<sup>1</sup> Die IV-Stellen sind befugt, Verträge nach Artikel 27 Absatz 1 IVG für Massnahmen nach den Artikeln 14*a–*18 IVG am Ort der ständigen Einrichtung oder der Berufsausübung des Leistungserbringers abzuschliessen. Der Tarif wird nach orts- und marktüblichen sowie betriebswirtschaftlichen Kriterien vereinbart.
+
+<sup>2</sup> Die IV-Stelle überprüft regelmässig die Qualität, die Wirksamkeit und die Wirtschaftlichkeit der Leistungserbringung sowie die Tarife einschliesslich die Kostenvergütung.
+
+[^24sexies-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 ## Dritter Abschnitt: Die Renten, die Hilflosenentschädigung und der Assistenzbeitrag****
 
@@ -904,91 +1224,123 @@ Als Betreuungskosten werden insbesondere vergütet:
 
 ### A. Der Rentenanspruch
 
-### I. Bemessung der Invalidität
+### I. Bemessung des Invaliditätsgrades****
 
-#### Art. 25
+[^chap3-lvlA-lvlI-1]
 
-**Grundlagen[^25-1]**
+[^chap3-lvlA-lvlI-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
-<sup>1</sup>
+#### Art. 24<sup>septies</sup>
 
-Als Erwerbseinkommen im Sinne von Artikel 16 ATSG gelten mutmassliche jährliche Erwerbseinkommen, von denen Beiträge gemäss AHVG[^25-2] erhoben würden. Nicht dazu gehören indessen:[^25-3]
+**Statusbestimmung**[^24septies-1]
 
-- a. Leistungen des Arbeitgebers für den Lohnausfall infolge Unfall oder Krankheit bei ausgewiesener Arbeitsunfähigkeit;
-- b. Lohnbestandteile, für die der Arbeitnehmer nachgewiesenermassen wegen beschränkter Arbeitsfähigkeit keine Gegenleistung erbringen kann.
-- c.[^25-4] Arbeitslosenentschädigungen, Erwerbsausfallentschädigungen gemäss EOG[^25-5] und Taggelder der Invalidenversicherung.
-
-<sup>2</sup> Die beiden massgebenden Erwerbseinkommen eines invaliden Selbständigerwerbenden, der zusammen mit Familiengliedern einen Betrieb bewirtschaftet, sind auf Grund seiner Mitarbeit im Betrieb zu bestimmen.
-
-[^25-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 1976, in Kraft seit 1. Jan. 1977 ([AS 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)).
-[^25-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^25-3]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
-[^25-4]: Eingefügt durch Ziff. I der V vom 1. Juli 1987, in Kraft seit 1. Jan. 1988 ([AS 1987 1088](https://fedlex.data.admin.ch/eli/oc/1987/1088_1088_1088)).
-[^25-5]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-
-#### Art. 26
-
-**Versicherte ohne Ausbildung**
-
-<sup>1</sup> Konnte die versicherte Person wegen der Invalidität keine zureichenden beruflichen Kenntnisse erwerben, so entspricht das Erwerbseinkommen, das sie als Nichtinvalide erzielen könnte, den folgenden nach Alter abgestuften Prozentsätzen des jährlich aktualisierten Medianwertes gemäss der Lohnstrukturerhebung des Bundesamtes für Statistik:[^26-1]
-
-<table>
-<tr><th>Nach Vollendung von ... Altersjahren</th><th>Vor Vollendung von ... Altersjahren</th><th>Prozentsatz</th></tr>
-<tr><td></td><td>21</td><td>70</td></tr>
-<tr><td>21</td><td>25</td><td>80</td></tr>
-<tr><td>25</td><td>30</td><td>90</td></tr>
-<tr><td>30</td><td></td><td>100.[^26-2]</td></tr>
-</table>
-
-<sup>2</sup> Konnte der Versicherte wegen der Invalidität eine begonnene berufliche Ausbildung nicht abschliessen, so entspricht das Erwerbseinkommen, das er als Nichtinvalider erzielen könnte, dem durchschnittlichen Einkommen eines Erwerbstätigen im Beruf, für den die Ausbildung begonnen wurde.
-
-[^26-1]: Fassung gemäss Ziff. I der V vom 7. Dez. 1998, in Kraft seit 1. Jan. 1999 ([AS 1999 60](https://fedlex.data.admin.ch/eli/oc/1999/12)).
-[^26-2]: Fassung gemäss Ziff. I der V vom 29. Nov. 1976, in Kraft seit 1. Jan. 1977 ([AS 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)).
-
-#### Art. 26<sup>bis</sup>
-
-**In Ausbildung begriffene Versicherte**[^26bis-1]
-
-Die Bemessung der Invalidität von Versicherten, die in Ausbildung begriffen sind, und denen die Aufnahme einer Erwerbstätigkeit nicht zugemutet werden kann, erfolgt nach Artikel 28*a* Absatz 2 IVG.
-
-[^26bis-1]: Eingefügt durch Ziff. I des BRB vom 15. Jan. 1968 ([AS 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)). Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-
-#### Art. 27
-
-**Aufgabenbereich von im Haushalt tätigen Versicherten und von Angehörigen einer klösterlichen Gemeinschaft**[^27-1]
-
-<sup>1</sup> Als Aufgabenbereich nach Artikel 7 Absatz 2 IVG der im Haushalt tätigen Versicherten gilt die übliche Tätigkeit im Haushalt sowie die Pflege und Betreuung von Angehörigen.
-
-<sup>2</sup> Als Aufgabenbereich nach Artikel 7 Absatz 2 IVG der Angehörigen einer klösterlichen Gemeinschaft gilt die gesamte Tätigkeit in der Gemeinschaft.
-
-[^27-1]: Fassung gemäss Ziff. I der V vom 1. Dez. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7581](https://fedlex.data.admin.ch/eli/oc/2017/822)).
-
-#### Art. 27<sup>bis</sup>
-
-**Teilerwerbstätige und Versicherte, die unentgeltlich im Betrieb des Ehegatten oder der Ehegattin mitarbeiten**[^27bis-1]
-
-<sup>1</sup> Ist bei Versicherten, die nur zum Teil erwerbstätig sind oder die unentgeltlich im Betrieb des Ehegatten oder der Ehegattin mitarbeiten, anzunehmen, dass sie im Zeitpunkt der Prüfung des Rentenanspruchs ohne Gesundheitsschaden ganztägig erwerbstätig wären, so ist die Invaliditätsbemessung ausschliesslich nach den Grundsätzen für Erwerbstätige zu bemessen.
+<sup>1</sup> Der Status einer versicherten Person bestimmt sich nach den erwerblichen Verhältnissen, in denen sich die versicherte Person befinden würde, wenn sie nicht gesundheitlich beeinträchtigt wäre.
 
 <sup>2</sup>
 
-Bei Teilerwerbstätigen, die sich zusätzlich im Aufgabenbereich nach Artikel 7 Absatz 2 IVG betätigen, werden für die Bestimmung des Invaliditätsgrads folgende Invaliditätsgrade summiert:
+Die versicherte Person gilt als:
 
-- a. der Invaliditätsgrad in Bezug auf die Erwerbstätigkeit;
-- b. der Invaliditätsgrad in Bezug auf die Betätigung im Aufgabenbereich.[^27bis-2]
+- a. erwerbstätig nach Artikel 28*a* Absatz 1 IVG, wenn sie im Gesundheitsfall eine Erwerbstätigkeit ausüben würde, die einem Beschäftigungsgrad von hundert Prozent oder mehr entspricht;
+- b. nicht erwerbstätig nach Artikel 28*a* Absatz 2 IVG, wenn sie im Gesundheitsfall keine Erwerbstätigkeit ausüben würde;
+- c. teilerwerbstätig nach Artikel 28*a* Absatz 3 IVG, wenn sie im Gesundheitsfall eine Erwerbstätigkeit ausüben würde, die einem Beschäftigungsgrad von weniger als hundert Prozent entspricht.
+
+[^24septies-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 25
+
+**Grundsätze des Einkommensvergleichs**[^25-1]
+
+<sup>1</sup>
+
+Als Erwerbseinkommen im Sinne von Artikel 16 ATSG gelten mutmassliche jährliche Erwerbseinkommen, von denen Beiträge nach AHVG[^25-2] erhoben würden. Nicht dazu gehören indessen:
+
+- a. Leistungen des Arbeitgebers für den Lohnausfall infolge Unfall oder Krankheit bei ausgewiesener Arbeitsunfähigkeit;
+- b. Arbeitslosenentschädigungen, Erwerbsausfallentschädigungen nach EOG[^25-3] und Taggelder der Invalidenversicherung.
+
+<sup>2</sup> Die massgebenden Erwerbseinkommen nach Artikel 16 ATSG sind in Bezug auf den gleichen Zeitraum festzusetzen und richten sich nach dem Arbeitsmarkt in der Schweiz.
+
+<sup>3</sup> Soweit für die Bestimmung der massgebenden Erwerbseinkommen statistische Werte herangezogen werden, sind die Zentralwerte der Lohnstrukturerhebung (LSE) des Bundesamtes für Statistik massgebend. Andere statistische Werte können beigezogen werden, sofern das Einkommen im Einzelfall nicht in der LSE abgebildet ist. Es sind altersunabhängige und geschlechtsspezifische Werte zu verwenden.
+
+<sup>4</sup> Die statistischen Werte nach Absatz 3 sind an die betriebsübliche Arbeitszeit nach Wirtschaftsabteilungen und an die Nominallohnentwicklung anzupassen.
+
+[^25-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^25-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^25-3]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+
+#### Art. 26
+
+**Bestimmung des Einkommens ohne Invalidität**[^26-1]
+
+<sup>1</sup> Das Einkommen ohne Invalidität (Art. 16 ATSG) bestimmt sich anhand des zuletzt vor Eintritt der Invalidität tatsächlich erzielten Erwerbseinkommens. Unterlag das in den letzten Jahren vor Eintritt der Invalidität erzielte Erwerbseinkommen starken Schwankungen, so wird auf ein angemessenes Durchschnittseinkommen abgestellt.
+
+<sup>2</sup> Liegt das tatsächlich erzielte Erwerbseinkommen fünf Prozent oder mehr unterhalb des branchenüblichen Zentralwertes der LSE nach Artikel 25 Absatz 3, so entspricht das Einkommen ohne Invalidität 95 Prozent dieses Zentralwertes.
 
 <sup>3</sup>
 
-Die Berechnung des Invaliditätsgrads in Bezug auf die Erwerbstätigkeit richtet sich nach Artikel 16 ATSG, wobei:
+Absatz 2 findet keine Anwendung, wenn:
 
-- a. das Erwerbseinkommen, das die versicherte Person durch die Teilerwerbstätigkeit erzielen könnte, wenn sie nicht invalid geworden wäre, auf eine Voll-erwerbstätigkeit hochgerechnet wird;
-- b. die prozentuale Erwerbseinbusse anhand des Beschäftigungsgrads, den die Person hätte, wenn sie nicht invalid geworden wäre, gewichtet wird.[^27bis-3]
+- a. das Einkommen mit Invalidität nach Artikel 26<sup>bis</sup> Absatz 1 ebenfalls fünf Prozent oder mehr unterhalb des branchenüblichen Zentralwertes der LSE nach Artikel 25 Absatz 3 liegt; oder
+- b. das Einkommen aus selbstständiger Tätigkeit erzielt wurde.
 
-<sup>4</sup> Für die Berechnung des Invaliditätsgrads in Bezug auf die Betätigung im Aufgabenbereich wird der prozentuale Anteil der Einschränkungen bei der Betätigung im Aufgabenbereich im Vergleich zur Situation, wenn die versicherte Person nicht invalid geworden wäre, ermittelt. Der Anteil wird anhand der Differenz zwischen dem Beschäftigungsgrad nach Absatz 3 Buchstabe b und einer Vollerwerbstätigkeit gewichtet.[^27bis-4]
+<sup>4</sup> Kann das tatsächlich erzielte Erwerbseinkommen nicht oder nicht hinreichend genau bestimmt werden, so wird das Einkommen ohne Invalidität nach statistischen Werten nach Artikel 25 Absatz 3 für eine Person bei gleicher Ausbildung und entsprechenden beruflichen Verhältnissen festgelegt.
 
-[^27bis-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 1976 ([AS 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)). Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^27bis-2]: Eingefügt durch Ziff. I der V vom 1. Dez. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7581](https://fedlex.data.admin.ch/eli/oc/2017/822)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^27bis-3]: Eingefügt durch Ziff. I der V vom 1. Dez. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7581](https://fedlex.data.admin.ch/eli/oc/2017/822)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^27bis-4]: Eingefügt durch Ziff. I der V vom 1. Dez. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7581](https://fedlex.data.admin.ch/eli/oc/2017/822)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+<sup>5</sup> Tritt die Invalidität ein, nachdem die versicherte Person eine berufliche Ausbildung geplant oder begonnen hat, so wird das Einkommen ohne Invalidität nach dem statistischen Wert nach Artikel 25 Absatz 3 bestimmt, den die versicherte Person nach Beendigung der Ausbildung erreicht hätte.
+
+<sup>6</sup> Kann die versicherte Person aufgrund ihrer Invalidität keine berufliche Ausbildung beginnen oder abschliessen, so wird das Einkommen ohne Invalidität nach statistischen Werten nach Artikel 25 Absatz 3 bestimmt. In Abweichung von Artikel 25 Absatz 3 sind geschlechtsunabhängige Werte zu verwenden.
+
+[^26-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 26<sup>bis</sup>
+
+**Bestimmung des Einkommens mit Invalidität**[^26bis-1]
+
+<sup>1</sup> Erzielt die versicherte Person nach Eintritt der Invalidität ein Erwerbseinkommen, so wird ihr dieses als Einkommen mit Invalidität (Art. 16 ATSG) angerechnet, sofern sie damit ihre verbliebene funktionelle Leistungsfähigkeit in Bezug auf eine ihr zumutbare Erwerbstätigkeit bestmöglich verwertet.
+
+<sup>2</sup> Liegt kein anrechenbares Erwerbseinkommen vor, so wird das Einkommen mit Invalidität nach statistischen Werten nach Artikel 25 Absatz 3 bestimmt. Bei versicherten Personen nach Artikel 26 Absatz 6 sind in Abweichung von Artikel 25 Absatz 3 geschlechtsunabhängige Werte zu verwenden.
+
+<sup>3</sup> Kann die versicherte Person aufgrund ihrer Invalidität nur noch mit einer funktionellen Leistungsfähigkeit nach Artikel 49 Absatz 1<sup>bis</sup> von 50 Prozent oder weniger tätig sein, so werden vom statistisch bestimmten Wert zehn Prozent für Teilzeitarbeit abgezogen.
+
+[^26bis-1]: Eingefügt durch Ziff. I des BRB vom 15. Jan. 1968 ([AS 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)). Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 27
+
+**Aufgabenbereich von im Haushalt tätigen Versicherten[^27-2]**[^27-1]
+
+<sup>1</sup> Als Aufgabenbereich nach Artikel 7 Absatz 2 IVG der im Haushalt tätigen Versicherten gilt die übliche Tätigkeit im Haushalt sowie die Pflege und Betreuung von Angehörigen.
+
+<sup>2</sup> …[^27-3]
+
+[^27-1]: Fassung gemäss Ziff. I der V vom 1. Dez. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7581](https://fedlex.data.admin.ch/eli/oc/2017/822)).
+[^27-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^27-3]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 27<sup>bis</sup>
+
+**Bemessung des Invaliditätsgrades von Teilerwerbstätigen**[^27bis-1]
+
+<sup>1</sup>
+
+Für die Bestimmung des Invaliditätsgrades von Teilerwerbstätigen werden folgende Invaliditätsgrade zusammengezählt:
+
+- a. der Invaliditätsgrad in Bezug auf die Erwerbstätigkeit;
+- b. der Invaliditätsgrad in Bezug auf die Betätigung im Aufgabenbereich.
+
+<sup>2</sup>
+
+Für die Berechnung des Invaliditätsgrades in Bezug auf die Erwerbstätigkeit wird:
+
+- a. das Einkommen ohne Invalidität auf eine Erwerbstätigkeit, die einem Beschäftigungsgrad von 100 Prozent entspricht, hochgerechnet;
+- b. das Einkommen mit Invalidität auf der Basis einer Erwerbstätigkeit, die einem Beschäftigungsgrad von 100 Prozent entspricht, berechnet und entsprechend an die massgebliche funktionelle Leistungsfähigkeit angepasst;
+- c. die prozentuale Erwerbseinbusse anhand des Beschäftigungsgrades, den die Person hätte, wenn sie nicht invalid geworden wäre, gewichtet.
+
+<sup>3</sup>
+
+Für die Berechnung des Invaliditätsgrades in Bezug auf die Betätigung im Aufgabenbereich wird:
+
+- a. der prozentuale Anteil der Einschränkungen bei der Betätigung im Aufgabenbereich im Vergleich zur Situation, wenn die versicherte Person nicht invalid geworden wäre, ermittelt;
+- b. der Anteil nach Buchstabe a anhand der Differenz zwischen dem Beschäftigungsgrad nach Absatz 2 Buchstabe c und einer Vollerwerbstätigkeit gewichtet.
+
+[^27bis-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 1976 ([AS 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)). Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 ### II. Verschiedene Bestimmungen
 
@@ -996,9 +1348,9 @@ Die Berechnung des Invaliditätsgrads in Bezug auf die Erwerbstätigkeit richtet
 
 **Rente und Eingliederung**
 
-<sup>1</sup> ...[^28-1]
+<sup>1</sup> …[^28-1]
 
-<sup>2</sup> ...[^28-2]
+<sup>2</sup> …[^28-2]
 
 <sup>3</sup> Die Übernahme der Kosten für Unterkunft und Verpflegung gilt beim Wegfall der Invalidenrente als überwiegend im Sinne von Artikel 43 Absatz 2 IVG, wenn die Versicherung während mindestens fünf Tagen in der Woche für Unterkunft und Verpflegung vollständig aufkommt.[^28-3]
 
@@ -1088,12 +1440,13 @@ Eine Übergangsleistung wird ausgerichtet, wenn:
 
 **Ermittlung**[^32-1]
 
-<sup>1</sup> Die Artikel 50–53<sup>bis</sup> AHVV[^32-2] gelten sinngemäss für die ordentlichen Renten der Invalidenversicherung.
+<sup>1</sup> Die Artikel 50–53<sup>bis</sup> AHVV[^32-2] gelten sinngemäss für die ordentlichen Renten der Invalidenversicherung. Das BSV kann anstelle von Rententabellen Vorschriften zur Ermittlung der Rentenhöhe erlassen.[^32-3]
 
 <sup>2</sup> Die Kürzung der beiden Renten eines Ehepaares nach Artikel 37 Absatz 1<sup>bis</sup> IVG richtet sich nach dem Anspruch des Ehegatten, welcher den höheren Invaliditätsgrad aufweist.
 
 [^32-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 691](https://fedlex.data.admin.ch/eli/oc/1996/691_691_691)).
 [^32-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^32-3]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 32<sup>bis</sup>
 
@@ -1116,10 +1469,11 @@ Wird ein Versicherter, dessen Rente wegen verminderter Invalidität aufgehoben w
 
 <sup>1</sup> Die Kürzung der Kinderrenten nach Artikel 38<sup>bis</sup> IVG richtet sich nach Artikel 54<sup>bis</sup> AHVV[^33bis-2].
 
-<sup>2</sup> Die Dreiviertelsrenten, halben Renten und Viertelsrenten bemessen sich nach dem Verhältnis zur ganzen Rente.
+<sup>2</sup> Die Kürzung der Kinderrenten bei IV-Renten mit einem prozentualen Anteil von weniger als 100 Prozent einer ganzen IV-Rente bemisst sich nach dem Verhältnis zur ganzen IV-Rente.[^33bis-3]
 
 [^33bis-1]: Eingefügt durch Ziff. II 1 der V vom 11. Okt. 1972 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Fassung gemäss Ziff. I der V vom 22. Sept. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 4151](https://fedlex.data.admin.ch/eli/oc/2006/613)).
 [^33bis-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^33bis-3]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 33<sup>ter</sup>
 
@@ -1153,7 +1507,7 @@ Für die Kürzung der ausserordentlichen Kinderrenten nach Artikel 40 Absatz 2 I
 
 <sup>2</sup> Ändert sich in der Folge der Grad der Hilflosigkeit in erheblicher Weise, so finden die Artikel 87–88<sup>bis</sup> Anwendung. Fällt eine der übrigen Anspruchsvoraussetzungen dahin oder stirbt die anspruchsberechtigte Person, so erlischt der Anspruch am Ende des betreffenden Monats.[^35-3]
 
-<sup>3</sup> ...[^35-4]
+<sup>3</sup> …[^35-4]
 
 [^35-1]: Aufgehoben durch Ziff. I des BRB vom 15. Jan. 1968 ([AS 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)). Fassung gemäss Ziff. I der V vom 29. Nov. 1976, in Kraft seit 1. Jan. 1977 ([AS 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)).
 [^35-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
@@ -1176,7 +1530,7 @@ Für die Kürzung der ausserordentlichen Kinderrenten nach Artikel 40 Absatz 2 I
 
 <sup>4</sup> Von den Einschränkungen nach den Absätzen 1 und 2 nicht betroffen sind Entschädigungen, die für eine Hilflosigkeit nach Artikel 37 Absatz 3 Buchstabe d ausgerichtet werden.
 
-<sup>5</sup> ...[^35bis-6]
+<sup>5</sup> …[^35bis-6]
 
 [^35bis-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^35bis-2]: Fassung des zweiten Satzes gemäss Ziff. I 1 der V vom 7. Okt. 2020 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
@@ -1218,11 +1572,11 @@ Nicht als Heim gelten insbesondere kollektive Wohnformen, in denen die versicher
 
 **Besondere Leistungen für Minderjährige**[^36-1]
 
-<sup>1</sup> ...[^36-2]
+<sup>1</sup> …[^36-2]
 
 <sup>2</sup> Minderjährige mit einem Anspruch auf eine Hilflosenentschädigung, die eine intensive Betreuung brauchen und sich nicht in einem Heim aufhalten, haben zusätzlich zur Hilflosenentschädigung Anspruch auf einen Intensivpflegezuschlag nach Artikel 39. Tragen sie die Kosten für den Heimaufenthalt selber, so bleibt der Anspruch auf Intensivpflegezuschlag bestehen.[^36-3]
 
-<sup>3</sup> ...[^36-4]
+<sup>3</sup> …[^36-4]
 
 [^36-1]: Aufgehoben durch Ziff. I des BRB vom 15. Jan. 1968 ([AS 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)). Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^36-2]: Aufgehoben durch Ziff. I der V vom 16. Nov. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
@@ -1269,13 +1623,14 @@ Ein Bedarf an lebenspraktischer Begleitung im Sinne von Artikel 42 Absatz 3 IVG 
 - b. für Verrichtungen und Kontakte ausserhalb der Wohnung auf Begleitung einer Drittperson angewiesen ist; oder
 - c. ernsthaft gefährdet ist, sich dauernd von der Aussenwelt zu isolieren.
 
-<sup>2</sup> Ist lediglich die psychische Gesundheit beeinträchtigt, so muss für die Annahme einer Hilflosigkeit gleichzeitig ein Anspruch auf mindestens eine Viertelsrente bestehen.
+<sup>2</sup> …[^38-2]
 
-<sup>3</sup> Zu berücksichtigen ist nur die lebenspraktische Begleitung, die regelmässig und im Zusammenhang mit einer der Situationen nach Absatz 1 erforderlich ist. Nicht darunter fallen insbesondere Vertretungs- und Verwaltungstätigkeiten im Rahmen von Massnahmen des Erwachsenenschutzes nach den Artikeln 390–398 des Zivilgesetzbuches[^38-2].[^38-3]
+<sup>3</sup> Zu berücksichtigen ist nur die lebenspraktische Begleitung, die regelmässig und im Zusammenhang mit einer der Situationen nach Absatz 1 erforderlich ist. Nicht darunter fallen insbesondere Vertretungs- und Verwaltungstätigkeiten im Rahmen von Massnahmen des Erwachsenenschutzes nach den Artikeln 390–398 des Zivilgesetzbuches[^38-3].[^38-4]
 
 [^38-1]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2002 ([AS 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)). Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^38-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^38-3]: Fassung gemäss Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
+[^38-2]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^38-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^38-4]: Fassung gemäss Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
 
 #### Art. 39
 
@@ -1301,9 +1656,11 @@ Ein Bedarf an lebenspraktischer Begleitung im Sinne von Artikel 42 Absatz 3 IVG 
 
 Minderjährige Versicherte haben Anspruch auf einen Assistenzbeitrag, wenn sie die Voraussetzungen nach Artikel 42<sup>quater</sup> Absatz 1 Buchstaben a und b IVG erfüllen und:
 
-- a. regelmässig die obligatorische Schule in einer Regelklasse besuchen, eine Berufsausbildung auf dem regulären Arbeitsmarkt oder eine andere Ausbildung auf Sekundarstufe II absolvieren;
-- b. während mindestens 10 Stunden pro Woche eine Erwerbstätigkeit auf dem regulären Arbeitsmarkt ausüben; oder
+- a. regelmässig die obligatorische Schule in einer Regelklasse besuchen, eine Berufsausbildung im ersten Arbeitsmarkt[^39a-1] oder eine andere Ausbildung auf Sekundarstufe II absolvieren;
+- b. während mindestens 10 Stunden pro Woche eine Erwerbstätigkeit im ersten Arbeitsmarkt ausüben; oder
 - c. denen ein Intensivpflegezuschlag für einen Pflege- und Überwachungsbedarf nach Artikel 42<sup>ter</sup> Absatz 3 IVG von mindestens 6 Stunden pro Tag ausgerichtet wird.
+
+[^39a-1]: Ausdruck gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 39b
 
@@ -1312,8 +1669,8 @@ Minderjährige Versicherte haben Anspruch auf einen Assistenzbeitrag, wenn sie d
 Volljährige Versicherte mit eingeschränkter Handlungsfähigkeit haben Anspruch auf den Assistenzbeitrag, wenn sie die Voraussetzungen von Artikel 42<sup>quater</sup> Absatz 1 Buchstaben a und b IVG erfüllen und:
 
 - a. einen eigenen Haushalt führen;
-- b. regelmässig eine Berufsausbildung auf dem regulären Arbeitsmarkt oder eine Ausbildung auf der Sekundarstufe II oder der Tertiärstufe absolvieren;
-- c. während mindestens 10 Stunden pro Woche eine Erwerbstätigkeit auf dem regulären Arbeitsmarkt ausüben; oder
+- b. regelmässig eine Berufsausbildung im ersten Arbeitsmarkt oder eine Ausbildung auf der Sekundarstufe II oder der Tertiärstufe absolvieren;
+- c. während mindestens 10 Stunden pro Woche eine Erwerbstätigkeit im ersten Arbeitsmarkt ausüben; oder
 - d. bei Eintritt der Volljährigkeit einen Assistenzbeitrag nach Artikel 39*a* Buchstabe c bezogen haben.
 
 #### Art. 39c
@@ -1328,7 +1685,7 @@ In den folgenden Bereichen kann Hilfebedarf anerkannt werden:
 - d. Erziehung und Kinderbetreuung;
 - e. Ausübung einer gemeinnützigen oder ehrenamtlichen Tätigkeit;
 - f. berufliche Aus- und Weiterbildung;
-- g. Ausübung einer Erwerbstätigkeit auf dem regulären Arbeitsmarkt;
+- g. Ausübung einer Erwerbstätigkeit im ersten Arbeitsmarkt;
 - h. Überwachung während des Tages;
 - i. Nachtdienst.
 
@@ -1369,20 +1726,27 @@ Für folgende Personengruppen wird die nach Absatz 2 Buchstabe a zu berücksicht
 
 <sup>4</sup> Die Höchstansätze werden für jeden Tag und jede Nacht, die die versicherte Person pro Woche in einer Institution verbringt, um 10 Prozent gekürzt.
 
+<sup>5</sup> Die von der Invalidenversicherung gewährten Beiträge an die Langzeitüberwachung nach Artikel 3<sup>quinquies</sup> Absatz 3 werden vom Hilfebedarf nach Artikel 39*c* Buchstabe h anteilsmässig abgezogen.[^39e-1]
+
+[^39e-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
 #### Art. 39f
 
 **Höhe des Assistenzbeitrages**[^39f-1]
 
-<sup>1</sup> Der Assistenzbeitrag beträgt Fr. 33.50 pro Stunde.
+<sup>1</sup> Der Assistenzbeitrag beträgt 33.50 Franken pro Stunde.[^39f-2]
 
-<sup>2</sup> Muss die Assistenzperson für die benötigten Hilfeleistungen in den Bereichen nach Artikel 39*c* Buchstaben e–g über besondere Qualifikationen verfügen, so beträgt der Assistenzbeitrag Fr. 50.20 pro Stunde.
+<sup>2</sup> Muss die Assistenzperson für die benötigten Hilfeleistungen in den Bereichen nach Artikel 39*c* Buchstaben e–g über besondere Qualifikationen verfügen, so beträgt der Assistenzbeitrag 50.20 Franken pro Stunde.[^39f-3]
 
-<sup>3</sup> Die IV-Stelle legt den Assistenzbeitrag für den Nachtdienst nach Intensität der zu erbringenden Hilfeleistung fest. Er beträgt höchstens Fr. 89.30 pro Nacht.
+<sup>3</sup> Die IV-Stelle legt den Assistenzbeitrag für den Nachtdienst nach Intensität der zu erbringenden Hilfeleistung pauschal fest. Er beträgt höchstens 160.50 Franken pro Nacht.[^39f-4]
 
-<sup>4</sup> Für die Anpassung der Beträge nach den Absätzen 1–3 an die Lohn- und Preisentwicklung ist Artikel 33<sup>ter</sup> AHVG[^39f-2] sinngemäss anwendbar.
+<sup>4</sup> Für die Anpassung der Beträge nach den Absätzen 1–3 an die Lohn- und Preisentwicklung ist Artikel 33<sup>ter</sup> AHVG[^39f-5] sinngemäss anwendbar.
 
 [^39f-1]: Fassung gemäss Ziff. I der V vom 14. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4615](https://fedlex.data.admin.ch/eli/oc/2020/821)).
-[^39f-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^39f-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^39f-3]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^39f-4]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^39f-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 39g
 
@@ -1418,28 +1782,33 @@ Der Assistenzbeitrag pro Jahr beträgt:
 
 <sup>1</sup> Die versicherte Person hat der IV-Stelle monatlich eine Rechnung einzureichen.
 
-<sup>2</sup> Gegenstand der Rechnung sind die von der Assistenzperson tatsächlich geleisteten sowie die in Anwendung von Artikel 39*h* verrechneten Arbeitsstunden.
+<sup>2</sup> In Rechnung gestellt werden dürfen die von der Assistenzperson am Tag tatsächlich geleisteten sowie die in Anwendung von Artikel 39*h* verrechneten Arbeitsstunden.[^39i-1]
+
+<sup>2bis</sup> Pro Nacht darf ausschliesslich die Pauschale für den Nachtdienst in Rechnung gestellt werden. Sie kann in Rechnung gestellt werden, sofern sich eine Assistenzperson für einen Einsatz zur Verfügung hält.[^39i-2]
+
+<sup>2ter</sup> Nicht in Rechnung gestellte Pauschalen für den Nachtdienst können auch während des Tages eingesetzt und angerechnet werden. Für die Anrechnung am Tag wird die Pauschale für den Nachtdienst in Stunden umgerechnet, indem sie durch den Stundenansatz nach Artikel 39*f* Absatz 1 geteilt wird.[^39i-3]
 
 <sup>3</sup> Der monatlich in Rechnung gestellte Betrag darf den Assistenzbeitrag pro Monat um höchstens 50 Prozent überschreiten, solange der Assistenzbeitrag pro Jahr nach Artikel 39*g* Absatz 2 nicht überschritten wird.
 
 <sup>4</sup> Bei Versicherten mit leichter Hilflosigkeit darf der Assistenzbeitrag pro Monat bei einer ärztlich attestierten Akutphase während höchstens drei aufeinander folgenden Monaten um mehr als 50 Prozent überschritten werden. Die monatlichen Höchstansätze nach Artikel 39*e* Absatz 2 dürfen nicht überschritten werden.
 
+[^39i-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^39i-2]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^39i-3]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
 #### Art. 39j
 
 **Beratung**[^39j-1]
 
-<sup>1</sup> Die IV-Stelle berät die versicherte Personen zu Fragen des Assistenzbeitrages nach den Artikeln 42<sup>quater</sup> bis 42<sup>octies</sup> IVG. Sie kann für die Beratung Drittpersonen beauftragen, die sie selbst oder auf Empfehlung der versicherten Person auswählt.
+<sup>1</sup> Die IV-Stelle berät die versicherte Person zu Fragen des Assistenzbeitrages nach den Artikeln 42<sup>quater</sup> bis 42<sup>octies</sup> IVG. Sie kann für die Beratung Drittpersonen beauftragen, die sie selbst oder auf Empfehlung der versicherten Person auswählt.
 
-<sup>2</sup>
+<sup>2</sup> Erbringen Drittpersonen die Beratungsleistung, so kann die IV-Stelle alle drei Jahre Leistungen bis höchstens 1500 Franken gewähren. Nach der Anmeldung für den Assistenzbeitrag und vor der Zusprache des Assistenzbeitrags dürfen die Leistungen 700 Franken nicht übersteigen.[^39j-2]
 
-Erbringen Drittpersonen die Beratungsleistung, so kann die IV-Stelle die Leistungen wie folgt gewähren:
-
-- a. nach der Anmeldung für den Assistenzbeitrag: während 6 Monaten; und
-- b. ab der Zusprache des Assistenzbeitrages: während 18 Monaten.
-
-<sup>3</sup> Der Beitrag für Beratung durch Drittpersonen beträgt höchstens 75 Franken pro Stunde. Insgesamt bezahlt die Versicherung höchstens 1500 Franken.
+<sup>3</sup> Die Beratung durch Drittpersonen wird mit höchstens 75 Franken pro Stunde vergütet.[^39j-3]
 
 [^39j-1]: Fassung gemäss Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
+[^39j-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^39j-3]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 ### F.**** Das Verhältnis zur Unfallversicherung und zur Militärversicherung****
 
@@ -1498,7 +1867,7 @@ Zuständig zur Entgegennahme und Prüfung der Anmeldungen ist:
 
 <sup>3</sup> Die einmal begründete Zuständigkeit der IV-Stelle bleibt unter Vorbehalt der Absätze 2<sup>bis</sup>–2<sup>quater</sup> im Verlaufe des Verfahrens erhalten.[^40-5]
 
-<sup>4</sup> Ist die Zuständigkeit streitig, so bestimmt das Bundesamt die zuständige IV-Stelle.
+<sup>4</sup> Ist die Zuständigkeit streitig, so bestimmt das BSV die zuständige IV-Stelle.
 
 [^40-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 [^40-2]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
@@ -1518,37 +1887,81 @@ Die IV-Stelle hat über die im Gesetz und in dieser Verordnung genannten Aufgabe
 - b.[^41-3] die Entgegennahme der mit dem Leistungsanspruch in Zusammenhang stehenden Meldungen nach Artikel 77;
 - c.[^41-4] die unverzügliche Weiterleitung von Meldungen über Ansprüche auf laufende Taggelder, Renten und Hilflosenentschädigungen für Volljährige an die zuständige Ausgleichskasse;
 - d.[^41-5] den Erlass der Mitteilungen, Vorbescheide und Verfügungen sowie die damit zusammenhängende Korrespondenz;
-- e.[^41-6] die Erstellung des Eingliederungsplans nach Artikel 70 Absatz 2 sowie die Überwachung der Durchführung angeordneter Eingliederungsmassnahmen;
-- f.[^41-7] die Beratung und die Information der Arbeitgeber und der behandelnden Ärzte bezüglich der Eingliederung betroffener Versicherter und damit verbundener sozialversicherungsrechtlicher Fragen;
-- f<sup>bis</sup>.[^41-8] die fallunabhängige Beratung, Begleitung und Schulung von Arbeitgebern;
-- f<sup>ter</sup>.[^41-9] die Beratung und die Information von involvierten Fachpersonen aus Schule und Ausbildung;
-- g.[^41-10] die Auskunftserteilung nach Artikel 27 ATSG;
+- [tab] e. und f.[^41-6]…
+- f<sup>bis</sup> und f<sup>ter</sup>.[^41-7] …
+- g.[^41-8] die Auskunftserteilung nach Artikel 27 ATSG;
 - h. die Aufbewahrung der IV-Akten;
-- i.[^41-11] die Stellungnahme in Beschwerdefällen und die Erhebung von Beschwerden beim Bundesgericht;
-- k.[^41-12] die Bemessung der Invalidität von Personen, die eine Ergänzungsleistung nach Artikel 2*c* Buchstabe b[^41-13] des BG vom 19. März 1965[^41-14] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung beanspruchen;
-- l.[^41-15] den Abschluss von Verträgen nach Artikel 27 IVG für Massnahmen nach den Artikeln 14*a*, 15, 16, 17 und 18 IVG am Ort der ständigen Einrichtung oder der Berufsausübung des Leistungserbringers.
+- i.[^41-9] die Stellungnahme in Beschwerdefällen und die Erhebung von Beschwerden beim Bundesgericht;
+- k.[^41-10] die Bemessung des Invaliditätsgrades von Personen, die eine Ergänzungsleistung nach Artikel 4 Absatz 1 Buchstabe d des Bundesgesetzes vom 6. Oktober 2006[^41-11] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung beanspruchen;
+- l.[^41-12] …
 
-<sup>2</sup> ...[^41-16]
+<sup>2</sup> …[^41-13]
 
-<sup>3</sup> ...[^41-17]
+<sup>3</sup> …[^41-14]
 
 [^41-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 691](https://fedlex.data.admin.ch/eli/oc/1996/691_691_691)).
 [^41-2]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^41-3]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^41-4]: Fassung gemäss Ziff. I der V vom 28. Jan. 2004, in Kraft seit 1. März 2004 ([AS 2004 743](https://fedlex.data.admin.ch/eli/oc/2004/74)).
 [^41-5]: Fassung gemäss Ziff. I der V vom 26. April 2006, in Kraft seit 1. Juli 2006 ([AS 2006 2007](https://fedlex.data.admin.ch/eli/oc/2006/311)).
-[^41-6]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^41-7]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^41-8]: Eingefügt durch Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
-[^41-9]: Eingefügt durch Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
-[^41-10]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^41-11]: Fassung gemäss Ziff. II 92 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, in Kraft seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
-[^41-12]: Eingefügt durch Ziff. I der V vom 29. Nov. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 691](https://fedlex.data.admin.ch/eli/oc/1996/691_691_691)).
-[^41-13]: Heute: nach Art. 4 Abs. 1 Bst. d des BG vom 6. Okt. 2006 ([SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)).
-[^41-14]: [[AS 1965 537](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535), [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32), [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)Ziff. III, [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)Ziff. II, [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)Ziff. II 2, [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017), [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699), [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)Anhang Ziff. 4, [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952), [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441), [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 6 [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)Anhang Ziff. 9 [3453](https://fedlex.data.admin.ch/eli/oc/2002/511), [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)Anhang Ziff. 4, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 8. [AS 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)Art. 35].
-[^41-15]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^41-16]: Aufgehoben durch Ziff. I der V vom 19. Sept. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
-[^41-17]: Aufgehoben durch Ziff. I der V vom 28. Sept. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^41-6]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^41-7]: Eingefügt durch Ziff. I der V vom 19. Sept. 2014 ([AS 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)). Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^41-8]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^41-9]: Fassung gemäss Ziff. II 92 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, in Kraft seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^41-10]: Eingefügt durch Ziff. I der V vom 29. Nov. 1995 ([AS 1996 691](https://fedlex.data.admin.ch/eli/oc/1996/691_691_691)). Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^41-11]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^41-12]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)). Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^41-13]: Aufgehoben durch Ziff. I der V vom 19. Sept. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
+[^41-14]: Aufgehoben durch Ziff. I der V vom 28. Sept. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+
+#### Art. 41a
+
+**Fallführung**[^41a-1]
+
+<sup>1</sup> Bei der Erfüllung der ihnen durch das Gesetz und diese Verordnung übertragenen Aufgaben achten die IV-Stellen auf eine durchgehende und einheitliche Fallführung.
+
+<sup>2</sup>
+
+Die Fallführung umfasst:
+
+- a. die Bestandsaufnahme;
+- b. die Planung des weiteren Vorgehens;
+- c. die Begleitung und Überwachung der zugesprochenen Leistungen der Invalidenversicherung; und
+- d. die interne und externe Koordination mit den betroffenen Stellen und Personen.
+
+<sup>3</sup> Die IV-Stellen entscheiden über Art, Dauer und Umfang der Fallführung im Einzelfall.
+
+<sup>4</sup> Eine persönliche und aktive Begleitung der IV-Stelle im Rahmen der Fallführung wird bei den medizinischen Massnahmen nach den Artikeln 12 und 13 IVG nur mit dem Einverständnis der versicherten Person oder von deren gesetzlichen Vertretung durchgeführt.
+
+<sup>5</sup> Die IV-Stellen können für die Durchführung der Fallführung bei medizinischen Massnahmen im Einzelfall geeignete Dritte beiziehen.
+
+[^41a-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 41b
+
+**Öffentliche Liste über beauftragte Sachverständige**[^41b-1]
+
+<sup>1</sup>
+
+Die Liste nach Artikel 57 Absatz 1 Buchstabe n IVG enthält folgende Angaben:
+
+- a. bei monodisziplinären Gutachten für jede beauftragte Sachverständige und jeden beauftragten Sachverständigen: Name, Vorname, Fachdisziplin, Adresse;
+- b. bei bidisziplinären Gutachten für jedes der beiden Mitglieder des beauftragten Sachverständigen-Zweierteams für bidisziplinäre Gutachten (Sachverständigen-Zweierteam): Name, Vorname, Fachdisziplin, Adresse;
+- c. bei bi- und polydisziplinären Gutachten für jede beauftragte Gutachterstelle: Name, Rechtsform, Adresse;
+- d.
+
+  bezogen auf die einzelnen Sachverständigen, die Sachverständigen-Zweierteams und die Gutachterstellen:
+
+  - 1\. Anzahl in Auftrag gegebener Gutachten, unterteilt nach mono-, bi- und polydisziplinären Gutachten,
+  - 2\. die in den eingegangenen Gutachten attestierten Arbeitsunfähigkeiten in der bisherigen und in einer angepassten Tätigkeit sowie im Aufgabenbereich, in Prozent einer Vollzeitstelle, wobei bei bi- und polydisziplinären Gutachten die Angaben nach der Konsensbeurteilung aller beteiligten Sachverständigen erfolgen,
+  - 3\. Anzahl Gutachten, die Gegenstand eines Entscheids eines kantonalen Versicherungsgerichts, des Bundesverwaltungsgerichts oder des Bundesgerichts waren, unterteilt danach, ob das betreffende Gericht dem Gutachten vollumfängliche, teilweise oder keine Beweiskraft zugesprochen hat, und
+  - 4\. Gesamtvergütung in Franken.
+
+<sup>2</sup> Die Liste erfasst die Daten nach Kalenderjahr und wird auf den 1. März des Folgejahres veröffentlicht.
+
+<sup>3</sup> Das BSV erstellt eine gesamtschweizerische Übersicht gestützt auf die Listen der IV-Stellen. Die Übersicht wird auf den 1. Juli veröffentlicht.
+
+[^41b-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 ### III. Finanzielles
 
@@ -1562,7 +1975,7 @@ Der Geldverkehr der kantonalen und der gemeinsamen IV-Stellen geht über die Aus
 
 <sup>1</sup> Unter der Bezeichnung «IV-Stelle für Versicherte im Ausland» wird bei der Zentralen Ausgleichsstelle eine besondere IV-Stelle errichtet.
 
-<sup>2</sup> Das Eidgenössische Finanzdepartement erlässt im Einvernehmen mit dem Eidgenössischen Departement des Innern und dem Eidgenössischen Departement für auswärtige Angelegenheiten die erforderlichen organisatorischen Vorschriften.
+<sup>2</sup> Das Eidgenössische Finanzdepartement erlässt im Einvernehmen mit dem EDI und dem Eidgenössischen Departement für auswärtige Angelegenheiten die erforderlichen organisatorischen Vorschriften.
 
 ### B.**** Die Ausgleichskassen
 
@@ -1594,7 +2007,7 @@ Für die Zuständigkeit der Ausgleichskassen für die Berechnung und Auszahlung 
 
 **Streitigkeiten über die Zuständigkeit**
 
-Ist die Zuständigkeit streitig, so bestimmt das Bundesamt die zuständige Ausgleichskasse.
+Ist die Zuständigkeit streitig, so bestimmt das BSV die zuständige Ausgleichskasse.
 
 ### C. Regionale ärztliche Dienste****
 
@@ -1606,11 +2019,11 @@ Ist die Zuständigkeit streitig, so bestimmt das Bundesamt die zuständige Ausgl
 
 **Regionen**[^47-1]
 
-<sup>1</sup> Es werden acht bis zwölf regionale ärztliche Dienste eingerichtet, von denen jeder ein bezüglich Einwohnerzahl vergleichbares Einzugsgebiet abdeckt. Das Bundesamt kann in begründeten Fällen Ausnahmen bewilligen.
+<sup>1</sup> Es werden acht bis zwölf regionale ärztliche Dienste eingerichtet, von denen jeder ein bezüglich Einwohnerzahl vergleichbares Einzugsgebiet abdeckt. Das BSV kann in begründeten Fällen Ausnahmen bewilligen.
 
-<sup>2</sup> Die Kantone unterbreiten dem Bundesamt ihre Vorschläge zur Bildung der Regionen. Dieses legt die Regionen fest.
+<sup>2</sup> Die Kantone unterbreiten dem BSV ihre Vorschläge zur Bildung der Regionen. Dieses legt die Regionen fest.
 
-<sup>3</sup> Die IV-Stellen der Regionen errichten und betreiben die regionalen ärztlichen Dienste gemeinsam. ...[^47-2]
+<sup>3</sup> Die IV-Stellen der Regionen errichten und betreiben die regionalen ärztlichen Dienste gemeinsam. …[^47-2]
 
 [^47-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^47-2]: Zweiter Satz aufgehoben durch Ziff. I der V vom 16. Nov. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
@@ -1627,13 +2040,16 @@ In den regionalen ärztlichen Diensten sind insbesondere die Fachdisziplinen Inn
 
 **Aufgaben**[^49-1]
 
-<sup>1</sup> Die regionalen ärztlichen Dienste beurteilen die medizinischen Voraussetzungen des Leistungsanspruchs. Die geeigneten Prüfmethoden können sie im Rahmen ihrer medizinischen Fachkompetenz und der allgemeinen fachlichen Weisungen des Bundesamtes frei wählen.
+<sup>1</sup> Die regionalen ärztlichen Dienste beurteilen die medizinischen Voraussetzungen des Leistungsanspruchs. Die geeigneten Prüfmethoden können sie im Rahmen ihrer medizinischen Fachkompetenz und der allgemeinen fachlichen Weisungen des BSV frei wählen.
+
+<sup>1bis</sup> Bei der Festsetzung der funktionellen Leistungsfähigkeit (Art. 54*a* Abs. 3 IVG) ist die medizinisch attestierte Arbeitsfähigkeit in der bisherigen Tätigkeit und für angepasste Tätigkeiten unter Berücksichtigung sämtlicher physischen, psychischen und geistigen Ressourcen und Einschränkungen in qualitativer und quantitativer Hinsicht zu beurteilen und zu begründen.[^49-2]
 
 <sup>2</sup> Die regionalen ärztlichen Dienste können bei Bedarf selber ärztliche Untersuchungen von Versicherten durchführen. Sie halten die Untersuchungsergebnisse schriftlich fest.
 
 <sup>3</sup> Sie stehen den IV-Stellen der Region beratend zur Verfügung.
 
 [^49-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^49-2]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 ### D. Aufsicht****
 
@@ -1645,11 +2061,11 @@ In den regionalen ärztlichen Diensten sind insbesondere die Fachdisziplinen Inn
 
 **Fachliche Aufsicht**[^50-1]
 
-<sup>1</sup> Das Bundesamt kann im Rahmen der Überprüfungen nach Artikel 64*a* Absatz 1 Buchstabe a IVG Massnahmen für die IV-Stellen und die regionalen ärztlichen Dienste verlangen oder anordnen, um die notwendigen Optimierungen vorzunehmen.
+<sup>1</sup> Das BSV kann im Rahmen der Überprüfungen nach Artikel 64*a* Absatz 1 Buchstabe a IVG Massnahmen für die IV-Stellen und die regionalen ärztlichen Dienste verlangen oder anordnen, um die notwendigen Optimierungen vorzunehmen.
 
-<sup>2</sup> Die IV-Stellen und die regionalen ärztlichen Dienste haben dem Bundesamt nach dessen Weisungen über die Erfüllung ihrer Aufgaben periodisch Bericht zu erstatten.
+<sup>2</sup> Die IV-Stellen und die regionalen ärztlichen Dienste haben dem BSV nach dessen Weisungen über die Erfüllung ihrer Aufgaben periodisch Bericht zu erstatten.
 
-<sup>3</sup> Das Bundesamt kann, nach Anhörung der IV-Stellen, Vorgaben für die Aus- und Weiterbildung des Fachpersonals der IV-Stellen und der regionalen ärztlichen Dienste machen. Es stellt die entsprechende Aus- und Weiterbildung sicher.
+<sup>3</sup> Das BSV kann, nach Anhörung der IV-Stellen, Vorgaben für die Aus- und Weiterbildung des Fachpersonals der IV-Stellen und der regionalen ärztlichen Dienste machen. Es stellt die entsprechende Aus- und Weiterbildung sicher.
 
 [^50-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
@@ -1657,7 +2073,7 @@ In den regionalen ärztlichen Diensten sind insbesondere die Fachdisziplinen Inn
 
 **Administrative Aufsicht**[^51-1]
 
-Das Bundesamt kann im Rahmen der Überprüfungen der Einhaltung der vorgegebenen Kriterien bezüglich Wirksamkeit, Qualität und Einheitlichkeit nach Artikel 64*a* Absatz 2 IVG Massnahmen für die kantonalen IV-Stellen und die regionalen ärztlichen Dienste verlangen oder anordnen, um die notwendigen Optimierungen vorzunehmen.
+Das BSV kann im Rahmen der Überprüfungen der Einhaltung der vorgegebenen Kriterien bezüglich Wirksamkeit, Qualität und Einheitlichkeit nach Artikel 64*a* Absatz 2 IVG Massnahmen für die kantonalen IV-Stellen und die regionalen ärztlichen Dienste verlangen oder anordnen, um die notwendigen Optimierungen vorzunehmen.
 
 [^51-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
@@ -1665,25 +2081,28 @@ Das Bundesamt kann im Rahmen der Überprüfungen der Einhaltung der vorgegebenen
 
 **Zielvereinbarungen**[^52-1]
 
-<sup>1</sup> Um die Wirksamkeit, Qualität und Einheitlichkeit der Erfüllung der Aufgaben nach den Artikeln 57 und 59 Absatz 2 IVG sicherzustellen, schliesst das Bundesamt mit jeder kantonalen IV-Stelle eine Zielvereinbarung ab. In der Vereinbarung wird insbesondere die zu erreichende Wirkung und Qualität festgelegt und die Berichterstattung geregelt.
+<sup>1</sup> Um die Wirksamkeit, Qualität und Einheitlichkeit der Erfüllung der Aufgaben nach den Artikeln 54*a* Absatz 1 und 57 IVG sicherzustellen, schliesst das BSV mit jeder kantonalen IV-Stelle eine Zielvereinbarung ab. In der Vereinbarung wird insbesondere die zu erreichende Wirkung und Qualität festgelegt und die Berichterstattung geregelt.[^52-2]
 
-<sup>2</sup> Unterzeichnet eine kantonale IV-Stelle die vorgeschlagene Vereinbarung nicht, so erlässt das Bundesamt Weisungen, um die Wirksamkeit, Qualität und Einheitlichkeit der Erfüllung der Aufgaben sicherzustellen.
+<sup>2</sup> Unterzeichnet eine kantonale IV-Stelle die vorgeschlagene Vereinbarung nicht, so erlässt das BSV Weisungen, um die Wirksamkeit, Qualität und Einheitlichkeit der Erfüllung der Aufgaben sicherzustellen.
 
-<sup>3</sup> Das Bundesamt stellt den kantonalen IV-Stellen die zur Zielerreichung notwendigen Kennzahlen zur Verfügung.
+<sup>3</sup> Das BSV stellt den kantonalen IV-Stellen die zur Zielerreichung notwendigen Kennzahlen zur Verfügung.
 
 [^52-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^52-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 53
 
 **Finanzielle Aufsicht**[^53-1]
 
-<sup>1</sup> Das Bundesamt übt die finanzielle Aufsicht über die kantonalen IV-Stellen durch die Genehmigung der Stellenpläne, des Voranschlages und der Jahresrechnung aus.
+<sup>1</sup> Das BSV übt die finanzielle Aufsicht über die kantonalen IV-Stellen aus.[^53-2]
 
-<sup>2</sup> Die Ausgleichskasse stellt dem Bundesamt die für die Genehmigung des Voranschlages und der Jahresrechnung der kantonalen IV-Stelle erforderlichen Unterlagen zur Verfügung.
+<sup>2</sup> Die IV-Stellen haben dem BSV nach dessen Weisungen die Betriebskosten und die Investitionen in Form des Voranschlags, der drei darauffolgenden Finanzplanjahre und der Jahresrechnung zur Genehmigung vorzulegen. Das BSV kann bei den IV-Stellen und bei den Ausgleichskassen weitere Unterlagen anfordern, soweit sie zur Ausübung der Aufsicht erforderlich sind.[^53-3]
 
 <sup>3</sup> Für die finanzielle Aufsicht über die IV-Stelle für Versicherte im Ausland gilt Artikel 43 Absatz 2.
 
 [^53-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^53-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^53-3]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 54
 
@@ -1691,9 +2110,9 @@ Das Bundesamt kann im Rahmen der Überprüfungen der Einhaltung der vorgegebenen
 
 <sup>1</sup> Die Rechnung wird durch die Ausgleichskasse des Kantons geführt, in dem die IV-Stelle ihren Sitz hat. Die Rechnung der IV-Stelle für Versicherte im Ausland wird durch die Schweizerische Ausgleichskasse geführt.
 
-<sup>2</sup> Die Ausgleichskasse führt für die IV-Stelle eine eigene Rechnung. Darin sind die Beiträge und Leistungen der Versicherung einerseits und die administrativen Durchführungskosten der IV-Stelle nach Artikel 67 Absatz 1 Buchstabe a IVG andererseits getrennt zu verbuchen. Das Bundesamt erlässt dazu Weisungen.
+<sup>2</sup> Die Ausgleichskasse führt für die IV-Stelle eine eigene Rechnung. Darin sind die Beiträge und Leistungen der Versicherung einerseits und die administrativen Durchführungskosten der IV-Stelle nach Artikel 67 Absatz 1 Buchstabe a IVG andererseits getrennt zu verbuchen. Das BSV erlässt dazu Weisungen.
 
-<sup>3</sup> Für die Revision der Rechnungsführung der IV-Stellen sind die Artikel 159, 160 und 164–170 AHVV[^54-2] sinngemäss anwendbar. In Abweichung von Artikel 160 Absatz 2 AHVV erfolgt die Überprüfung der materiellen Rechtsanwendung im Rahmen von Artikel 64*a* Absatz 1 Buchstabe a IVG durch das Bundesamt.
+<sup>3</sup> Für die Revision der Rechnungsführung der IV-Stellen sind die Artikel 159, 160 und 164–170 AHVV[^54-2] sinngemäss anwendbar. In Abweichung von Artikel 160 Absatz 2 AHVV erfolgt die Überprüfung der materiellen Rechtsanwendung im Rahmen von Artikel 64*a* Absatz 1 Buchstabe a IVG durch das BSV.
 
 [^54-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^54-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
@@ -1702,19 +2121,22 @@ Das Bundesamt kann im Rahmen der Überprüfungen der Einhaltung der vorgegebenen
 
 **Kostenvergütung**[^55-1]
 
-<sup>1</sup> Das Bundesamt entscheidet über die zu vergütenden Kosten nach Artikel 67 Absatz 1 Buchstabe a IVG.
+<sup>1</sup> Das BSV entscheidet über die zu vergütenden Kosten nach Artikel 67 Absatz 1 Buchstabe a IVG und erlässt die dafür notwendigen Weisungen.[^55-2]
 
 <sup>2</sup> Die Ausgleichskasse wird für Aufgaben, die sie für die IV wahrnimmt, entschädigt.
 
 [^55-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^55-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 56
 
-**Betriebsräume für die Durchführungsorgane**[^56-1]
+**Betriebsräume für die Durchführungsstellen**[^56-1]
 
-Das Bundesamt beauftragt die Compenswiss (Ausgleichsfonds AHV/IV/EO), Betriebsräume für die Durchführungsorgane der Invalidenversicherung zulasten der laufenden IV-Rechnung zu erwerben oder zu erstellen, sofern sich damit längerfristig Einsparungen bei den Betriebskosten ergeben. Diese Betriebsräume stellen Betriebsvermögen der Invalidenversicherung dar.
+<sup>1</sup> Das BSV beauftragt den Ausgleichsfonds AHV/IV/EO (Compenswiss), Betriebsräume für die Durchführungsstellen der Invalidenversicherung zulasten der laufenden IV-Rechnung zu erwerben, zu erstellen oder zu veräussern. Diese Betriebsräume stellen Betriebsvermögen der Invalidenversicherung dar.
 
-[^56-1]: Fassung gemäss Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5083](https://fedlex.data.admin.ch/eli/oc/2018/792)).
+<sup>2</sup> Die Nutzniessung wird in einem öffentlich-rechtlichen Vertrag zwischen der IV-Stelle und der Compenswiss festgehalten. Der Vertrag enthält mindestens die Einzelheiten zur Liegenschaftsnutzung sowie die Entschädigung. Das BSV regelt die notwendigen Einzelheiten der Nutzniessung und genehmigt die Verträge.
+
+[^56-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 57
 
@@ -1722,7 +2144,7 @@ Das Bundesamt beauftragt die Compenswiss (Ausgleichsfonds AHV/IV/EO), Betriebsr�
 
 <sup>1</sup> Die Ausgleichskassen erheben von den Arbeitgebern, selbständigerwerbenden und nichterwerbstätigen Versicherten Verwaltungskostenbeiträge; es gelten die gleichen Ansätze wie in der Alters- und Hinterlassenenversicherung.
 
-<sup>2</sup> Allfällige Zuschüsse an die Verwaltungskosten der Ausgleichskassen aus dem Ausgleichsfonds werden durch das Departement festgesetzt.
+<sup>2</sup> Allfällige Zuschüsse an die Verwaltungskosten der Ausgleichskassen aus dem Ausgleichsfonds werden durch das EDI festgesetzt.
 
 [^57-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
@@ -1742,7 +2164,7 @@ Das Bundesamt beauftragt die Compenswiss (Ausgleichsfonds AHV/IV/EO), Betriebsr�
 
 <sup>1</sup> Wer auf Leistungen der Versicherung Anspruch erhebt, hat sich mit einem amtlichen Formular anzumelden.[^65-1]
 
-<sup>2</sup> Das Anmeldeformular kann bei den vom Bundesamt bezeichneten Stellen unentgeltlich bezogen werden.
+<sup>2</sup> Das Anmeldeformular kann bei den vom BSV bezeichneten Stellen unentgeltlich bezogen werden.
 
 <sup>3</sup> Der Anmeldung sind der Versicherungsausweis des Versicherten und gegebenenfalls seiner Ehefrau, allfällige Markenbücher und ein Personalausweis beizulegen.[^65-2]
 
@@ -1755,13 +2177,13 @@ Das Bundesamt beauftragt die Compenswiss (Ausgleichsfonds AHV/IV/EO), Betriebsr�
 
 <sup>1</sup> Befugt zur Geltendmachung des Anspruchs sind der Versicherte, sein gesetzlicher Vertreter sowie Behörden oder Dritte, die den Versicherten regelmässig unterstützen oder dauernd betreuen.
 
-<sup>1bis</sup> Wird der Anspruch nicht durch die versicherte Person geltend gemacht, so hat diese die in der Anmeldung erwähnten Personen und Stellen zu ermächtigen, den Organen der IV alle Auskünfte zu erteilen und alle Unterlagen zur Verfügung zu stellen, die für die Abklärung von Leistungs- und Regressansprüchen erforderlich sind (Art. 6*a* Abs. 1 IVG).[^66-2]
+<sup>1bis</sup> Wird der Anspruch nicht durch die versicherte Person geltend gemacht, so hat sie die in Artikel 6*a* IVG erwähnten Personen und Stellen zu ermächtigen, den Organen der Invalidenversicherung alle Auskünfte zu erteilen und alle Unterlagen zur Verfügung zu stellen, die für die Abklärung von Leistungs- und Regressansprüchen erforderlich sind.[^66-2]
 
-<sup>2</sup> Ist die versicherte Person urteilsunfähig, so erteilt ihre gesetzliche Vertretung mit der Unterzeichnung der Anmeldung die Ermächtigung nach Artikel 6*a* Absatz 1 IVG.[^66-3]
+<sup>2</sup> Ist die versicherte Person urteilsunfähig, so erteilt ihre gesetzliche Vertretung die in Artikel 6*a* IVG erwähnte Ermächtigung durch Unterzeichnung der Anmeldung.[^66-3]
 
 [^66-1]: Fassung gemäss Ziff. I der V vom 29. Juni 1983, in Kraft seit 1. Jan. 1984 ([AS 1983 912](https://fedlex.data.admin.ch/eli/oc/1983/912_912_912)). Diese Änderung ersetzt jene gemäss Art. 144 der V vom 20. Dez. 1982 über die Unfallversicherung ([SR 832.202](https://fedlex.data.admin.ch/eli/cc/1983/38_38_38)).
-[^66-2]: Eingefügt durch Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^66-3]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^66-2]: Eingefügt durch Ziff. I der V vom 28. Sept. 2007 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^66-3]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 67
 
@@ -1791,11 +2213,11 @@ Die kantonalen und die gemeinsamen IV-Stellen haben in Zusammenarbeit mit den ka
 
 <sup>1</sup> Die IV-Stelle prüft, nötigenfalls unter Mitwirkung der gemäss Artikel 44 zuständigen Ausgleichskasse, die versicherungsmässigen Voraussetzungen.
 
-<sup>2</sup> Sind diese Voraussetzungen erfüllt, so beschafft die IV-Stelle die erforderlichen Unterlagen, insbesondere über den Gesundheitszustand, die Tätigkeit, die Arbeits- und Eingliederungsfähigkeit des Versicherten sowie die Zweckmässigkeit bestimmter Eingliederungsmassnahmen. Zu diesem Zwecke können Berichte und Auskünfte verlangt, Gutachten eingeholt, Abklärungen an Ort und Stelle vorgenommen sowie Spezialisten der öffentlichen oder privaten Invalidenhilfe beigezogen werden. ...[^69-2]
+<sup>2</sup> Sind diese Voraussetzungen erfüllt, so beschafft die IV-Stelle die erforderlichen Unterlagen, insbesondere über den Gesundheitszustand, die Tätigkeit, die Arbeits- und Eingliederungsfähigkeit des Versicherten sowie die Zweckmässigkeit bestimmter Eingliederungsmassnahmen. Zu diesem Zwecke können Berichte und Auskünfte verlangt, Gutachten eingeholt, Abklärungen an Ort und Stelle vorgenommen sowie Spezialisten der öffentlichen oder privaten Invalidenhilfe beigezogen werden. …[^69-2]
 
 <sup>3</sup> Die IV-Stellen können die Versicherten zu einer Besprechung aufbieten. Der Besprechungstermin ist innert angemessener Frist mitzuteilen.[^69-3]
 
-<sup>4</sup> ...[^69-4]
+<sup>4</sup> …[^69-4]
 
 [^69-1]: Fassung gemäss Ziff. I der V vom 15. Juni 1992, in Kraft seit 1. Juli 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)).
 [^69-2]: Dritter Satz aufgehoben durch Ziff. I der V vom 11. Sept. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
@@ -1804,13 +2226,9 @@ Die kantonalen und die gemeinsamen IV-Stellen haben in Zusammenarbeit mit den ka
 
 #### Art. 70
 
-**Assessment**[^70-1]
+[^70-1]
 
-<sup>1</sup> Die IV-Stelle führt mit der versicherten Person in der Regel ein Assessment durch, um deren allfällige Eingliederungsfähigkeit festlegen zu können.
-
-<sup>2</sup> Sie erstellt anhand der Ergebnisse des Assessments einen Eingliederungsplan.
-
-[^70-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^70-1]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 71
 
@@ -1826,13 +2244,25 @@ Die kantonalen und die gemeinsamen IV-Stellen haben in Zusammenarbeit mit den ka
 
 #### Art. 72<sup>bis</sup>
 
-**Polydisziplinäre medizinische Gutachten**[^72bis-1]
+**Bi- und polydisziplinäre medizinische Gutachten[^72bis-2]**[^72bis-1]
 
-<sup>1</sup> Medizinische Gutachten, an denen drei und mehr Fachdisziplinen beteiligt sind, haben bei einer Gutachterstelle zu erfolgen, mit welcher das Bundesamt eine Vereinbarung getroffen hat.
+<sup>1</sup> Medizinische Gutachten, an denen drei und mehr Fachdisziplinen beteiligt sind, haben bei einer Gutachterstelle zu erfolgen, mit welcher das BSV eine Vereinbarung getroffen hat.
+
+<sup>1bis</sup> Medizinische Gutachten, an denen zwei Fachdisziplinen beteiligt sind, haben bei einer Gutachterstelle oder einem Sachverständigen-Zweierteam zu erfolgen, mit der oder dem das BSV eine Vereinbarung getroffen hat.[^72bis-3]
 
 <sup>2</sup> Die Vergabe der Aufträge erfolgt nach dem Zufallsprinzip.
 
 [^72bis-1]: Eingefügt durch Ziff. II 1 der V vom 5. April 1978 ([AS 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. März 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^72bis-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^72bis-3]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 72<sup>ter</sup>
+
+**Tarifierung**[^72ter-1]
+
+Die IV-Stellen können mit Leistungserbringern Vereinbarungen zur Kostenvergütung für Abklärungsmassnahmen nach Artikel 43 ATSG abschliessen, sofern kein anderer übergeordneter Tarifvertrag besteht. Artikel 24<sup>sexies</sup> ist anwendbar.
+
+[^72ter-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 73
 
@@ -1850,7 +2280,7 @@ Die kantonalen und die gemeinsamen IV-Stellen haben in Zusammenarbeit mit den ka
 
 **Gegenstand und Zustellung des Vorbescheids**[^73bis-1]
 
-<sup>1</sup> Gegenstand des Vorbescheids nach Artikel 57*a* IVG sind Fragen, die in den Aufgabenbereich der IV-Stellen nach Artikel 57 Absatz 1 Buchstaben c–f IVG fallen.[^73bis-2]
+<sup>1</sup> Gegenstand des Vorbescheids nach Artikel 57*a* IVG sind Fragen, die in den Aufgabenbereich der IV-Stellen nach Artikel 57 Absatz 1 Buchstaben d und f–i IVG fallen.[^73bis-2]
 
 <sup>2</sup>
 
@@ -1860,17 +2290,19 @@ Der Vorbescheid ist insbesondere zuzustellen:
 - b. der Person oder der Behörde, die den Anspruch geltend gemacht hat oder der eine Geldleistung ausgezahlt wird;
 - c. der zuständigen Ausgleichskasse, sofern es sich um einen Entscheid betreffend eine Rente, ein Taggeld oder eine Hilflosenentschädigung für Volljährige handelt;
 - d. dem zuständigen Unfallversicherer oder der Militärversicherung, sofern deren Leistungspflichten berührt werden;
-- e. dem zuständigen Krankenversicherer, sofern dessen Leistungspflicht berührt wird;
+- e.[^73bis-3] dem zuständigen Krankenversicherer nach den Artikeln 2 und 3 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014[^73bis-4] (Krankenversicherer nach dem KVAG), sofern dessen Leistungspflicht berührt wird;
 - f. der zuständigen Einrichtung der beruflichen Vorsorge, sofern die Verfügung deren Leistungspflicht nach den Artikeln 66 Absatz 2 und 70 ATSG berührt. Steht die Zuständigkeit nicht fest, so erfolgt die Zustellung an die Einrichtung, bei welcher die versicherte Person zuletzt versichert war oder bei welcher Leistungsansprüche angemeldet wurden.
 
 [^73bis-1]: Eingefügt durch Ziff. I der V vom 21. Jan. 1987 ([AS 1987 456](https://fedlex.data.admin.ch/eli/oc/1987/456_456_456)). Fassung gemäss Ziff. I der V vom 26. April 2006, in Kraft seit 1. Juli 2006 ([AS 2006 2007](https://fedlex.data.admin.ch/eli/oc/2006/311)).
-[^73bis-2]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^73bis-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^73bis-3]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^73bis-4]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
 
 #### Art. 73<sup>ter</sup>
 
 **Vorbescheidverfahren**[^73ter-1]
 
-<sup>1</sup> Die Parteien können innerhalb einer Frist von 30 Tagen Einwände zum Vorbescheid vorbringen.
+<sup>1</sup> …[^73ter-2]
 
 <sup>2</sup> Die versicherte Person kann ihre Einwände schriftlich oder mündlich bei der IV‑Stelle vorbringen. Bei mündlich vorgetragenen Einwänden, erstellt die IV-Stelle ein summarisches von der versicherten Person zu unterzeichnendes Protokoll.
 
@@ -1879,6 +2311,7 @@ Der Vorbescheid ist insbesondere zuzustellen:
 <sup>4</sup> Für die Anhörung werden weder ein Taggeld ausgerichtet noch Reisekosten vergütet.
 
 [^73ter-1]: Eingefügt durch Ziff. I der V vom 26. April 2006, in Kraft seit 1. Juli 2006 ([AS 2006 2007](https://fedlex.data.admin.ch/eli/oc/2006/311)).
+[^73ter-2]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 74
 
@@ -1906,7 +2339,7 @@ Sind die Anspruchsvoraussetzungen offensichtlich erfüllt und wird den Begehren 
 - a. medizinische Massnahmen;
 - a<sup>bis</sup>.[^74ter-3] Integrationsmassnahmen zur Vorbereitung auf die berufliche Eingliederung;
 - b. Massnahmen beruflicher Art;
-- c.[^74ter-4] ...
+- c.[^74ter-4] …
 - d. Hilfsmittel;
 - e. Vergütung von Reisekosten;
 - f. Renten und Hilflosenentschädigungen nach einer von Amtes wegen durchgeführten Revision, sofern dabei keine leistungsbeeinflussende Änderung der Verhältnisse festgestellt wurde;
@@ -1944,13 +2377,13 @@ Sind die Anspruchsvoraussetzungen offensichtlich erfüllt und wird den Begehren 
 Die Verfügung ist insbesondere zuzustellen:[^76-2]
 
 - [tab] a.[^76-3] den Personen, den Einrichtungen und den Versicherern, denen ein Vorbescheid zugestellt wurde;
-- [tab] b.−c.[^76-4] ...
+- [tab] b.−c.[^76-4] …
 - [tab] d.[^76-5] der Zentralen Ausgleichsstelle, soweit es sich nicht um Verfügungen über Renten oder Hilflosenentschädigungen für Volljährige handelt;
-- e.[^76-6] ...
+- e.[^76-6] …
 - f. den Durchführungsstellen;
 - g.[^76-7] dem Arzt oder der medizinischen Abklärungsstelle, die, ohne Durchführungsstelle zu sein, im Auftrag der Versicherung ein Gutachten erstellt haben;
-- h.[^76-8] ...
-- i.[^76-9] ....
+- h.[^76-8] …
+- i.[^76-9] ….
 
 <sup>2</sup> Für Verfügungen, mit denen eine Rente oder Hilflosenentschädigung für Volljährige zugesprochen wird, gilt Artikel 70 AHVV[^76-10] sinngemäss.[^76-11]
 
@@ -1988,25 +2421,24 @@ Der Berechtigte oder sein gesetzlicher Vertreter sowie Behörden oder Dritte, de
 
 <sup>1</sup> Die Versicherung trägt entsprechend der Kostengutsprache der IV-Stelle die Kosten für Eingliederungsmassnahmen, die vor der Durchführung von der IV-Stelle festgelegt worden sind. Sie übernimmt ferner die Kosten für bereits durchgeführte Eingliederungsmassnahmen im Rahmen von Artikel 10 Absatz 2 IVG.[^78-2]
 
-<sup>2</sup> ...[^78-3]
+<sup>2</sup> …[^78-3]
 
-<sup>3</sup> Die Kosten von Abklärungsmassnahmen werden von der Versicherung getragen, wenn die Massnahmen durch die IV-Stelle angeordnet wurden oder, falls es an einer solchen Anordnung fehlt, soweit sie für die Zusprechung von Leistungen unerlässlich waren oder Bestandteil nachträglich zugesprochener Eingliederungsmassnahmen bilden. ...[^78-4].[^78-5]
+<sup>3</sup> …[^78-4]
 
-<sup>4</sup> Die Kosten für die Eingliederungsmassnahmen sowie die Abklärungs- und Reisekosten werden durch die Zentrale Ausgleichsstelle vergütet. Vorbehalten bleibt Artikel 79<sup>bis</sup>.[^78-6]
+<sup>4</sup> Die Kosten für die Eingliederungsmassnahmen sowie die Abklärungs- und Reisekosten werden durch die Zentrale Ausgleichsstelle vergütet. Vorbehalten bleibt Artikel 79<sup>bis</sup>.[^78-5]
 
 <sup>5</sup> Die Zahlung geht in der Regel an die Person oder Stelle, welche die Eingliederungs- oder Abklärungsmassnahmen erbracht hat.
 
 <sup>6</sup> Geht die Leistung an den Versicherten oder seinen gesetzlichen Vertreter und besteht Grund zur Annahme, dass sie nicht für den vorgesehenen Zweck verwendet würde, so sind geeignete Massnahmen zur Sicherung der zweckgemässen Verwendung der Leistung zu treffen.
 
-<sup>7</sup> Die Rechnungen von Durchführungsstellen und von Personen, die in ständigem Kontakt mit der Versicherung stehen, werden durch Überweisung auf ein Post- oder Bankkonto beglichen.[^78-7]
+<sup>7</sup> Die Rechnungen von Durchführungsstellen und von Personen, die in ständigem Kontakt mit der Versicherung stehen, werden durch Überweisung auf ein Post- oder Bankkonto beglichen.[^78-6]
 
 [^78-1]: Fassung gemäss Ziff. I des BRB vom 15. Jan. 1968, in Kraft seit 1. Jan. 1968 ([AS 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)).
 [^78-2]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^78-3]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992, mit Wirkung seit 1. Juli 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)).
-[^78-4]: Zweiter Satz aufgehoben durch Ziff. I der V vom 11. Sept. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
-[^78-5]: Fassung gemäss Ziff. I der V vom 15. Juni 1992, in Kraft seit 1. Juli 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)).
-[^78-6]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^78-7]: Eingefügt durch Ziff. I der V vom 29. Juni 1983 ([AS 1983 912](https://fedlex.data.admin.ch/eli/oc/1983/912_912_912)). Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
+[^78-4]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^78-5]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^78-6]: Eingefügt durch Ziff. I der V vom 29. Juni 1983 ([AS 1983 912](https://fedlex.data.admin.ch/eli/oc/1983/912_912_912)). Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
 
 #### Art. 79
 
@@ -2025,18 +2457,78 @@ Die Leistungserbringerinnen und Leistungserbringer können die Rechnungen für K
 
 <sup>4</sup> Ist eine Rechnung streitig oder muss eine Rückerstattungsforderung geltend gemacht werden, erlässt die IV-Stelle die erforderlichen Verfügungen.
 
-<sup>5</sup> Das Bundesamt erlässt Richtlinien über die Rechnungsstellung, die Übermittlung, die Prüfung und die Bezahlung der Rechnungen.
+<sup>5</sup> Das BSV erlässt Richtlinien über die Rechnungsstellung nach Artikel 27<sup>ter</sup> IVG sowie die Übermittlung, die Prüfung und die Bezahlung der Rechnungen.[^79-3]
 
 [^79-1]: Fassung gemäss Ziff. I der V vom 1. Juli 1998, in Kraft seit 15. Aug. 1998 ([AS 1998 1839](https://fedlex.data.admin.ch/eli/oc/1998/1839_1839_1839)).
 [^79-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
+[^79-3]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 79<sup>bis</sup>
 
 **Besondere Zuständigkeitsregelung**[^79bis-1]
 
-Das Bundesamt kann die Kontrolle der Übereinstimmung mit allfälligen Verträgen und die Kostenvergütung für bestimmte Leistungen den IV-Stellen übertragen.
+Das BSV kann die Kontrolle der Übereinstimmung mit allfälligen Verträgen und die Kostenvergütung für bestimmte Leistungen den IV-Stellen übertragen.
 
 [^79bis-1]: Eingefügt durch Ziff. 2 der V vom 18. Okt. 1974 ([AS 1974 1594](https://fedlex.data.admin.ch/eli/oc/1974/1594_1594_1594)). Fassung gemäss Ziff. I der V vom 15. Juni 1992, in Kraft seit 1. Juli 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)).
+
+#### Art. 79<sup>ter</sup>
+
+**Allgemeine Rechnungsstellung bei medizinischen Massnahmen**[^79ter-1]
+
+<sup>1</sup>
+
+Die Leistungserbringer haben in ihren Rechnungen alle administrativen und medizinischen Angaben zu machen, die für die Überprüfung der Berechnung der Vergütung sowie der Wirtschaftlichkeit der Leistungen nach Artikel 27<sup>ter</sup> Absatz 1 IVG notwendig sind. Insbesondere sind folgende Angaben zu machen:
+
+- a. Kalendarium der Behandlungen beziehungsweise der erbrachten Leistungen;
+- b. erbrachte Leistungen im Detaillierungsgrad, den der massgebliche Tarif vorsieht, und die zugehörigen Tarifziffern;
+- c. Diagnosen und Prozeduren, die zur Berechnung des anwendbaren Tarifs notwendig sind;
+- d. Nummer und Datum der Verfügung oder Mitteilung;
+- e. Versichertennummer nach dem AHVG[^79ter-2];
+- f. bei stationärer Behandlung: die auf den Kanton und die Invalidenversicherung entfallenden Anteile.
+
+<sup>2</sup> Der Leistungserbringer muss für die von der Invalidenversicherung übernommenen Leistungen und die anderen Leistungen zwei getrennte Rechnungen erstellen.
+
+<sup>3</sup> Bei Analysen erfolgt die Rechnungsstellung ausschliesslich durch das Laboratorium, das die Analyse durchgeführt hat. Pauschaltarife bleiben vorbehalten.
+
+<sup>4</sup> Der Leistungserbringer stellt der versicherten Person eine Kopie der Rechnung zu. Diese kann in Papierform oder elektronisch versandt werden.
+
+[^79ter-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^79ter-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 79<sup>quater</sup>
+
+**Rechnungsstellung bei einem Vergütungsmodell vom Typus DRG**[^79quater-1]
+
+<sup>1</sup> Im Falle eines Vergütungsmodells vom Typus DRG *(Diagnosis Related Groups)* muss der Leistungserbringer die Datensätze mit den administrativen und medizinischen Angaben nach Artikel 79<sup>ter</sup> mit einer einmaligen Identifikationsnummer versehen. Die Datensätze müssen der gesamtschweizerisch einheitlichen Struktur entsprechen, wie sie das EDI nach Artikel 59*a* Absatz 1 KVV[^79quater-2] festlegt.
+
+<sup>2</sup> Diagnosen und Prozeduren nach Artikel 79<sup>ter</sup> Absatz 1 sind entsprechend den Klassifikationen für die medizinische Statistik der Krankenhäuser nach Ziffer 62 des Anhangs der Statistikerhebungsverordnung vom 30. Juni 1993[^79quater-3] zu codieren.
+
+<sup>3</sup> Der Leistungserbringer leitet die Datensätze mit den administrativen und den medizinischen Angaben nach Artikel 79<sup>ter</sup> Absatz 1 gleichzeitig mit der Rechnung an die Invalidenversicherung weiter.
+
+<sup>4</sup> Die IV-Stelle bestimmt, für welche Rechnungen eine weitere Prüfung benötigt wird.
+
+[^79quater-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^79quater-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^79quater-3]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+
+#### Art. 79<sup>quinquies</sup>
+
+**Rechnungsstellung im ambulanten Bereich und im Bereich medizinische Rehabilitation**[^79quinquies-1]
+
+Für den ambulanten Bereich und den Bereich medizinische Rehabilitation ist Artikel 59*a*<sup>bis</sup> KVV[^79quinquies-2] anwendbar.
+
+[^79quinquies-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^79quinquies-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+
+#### Art. 79<sup>sexies</sup>
+
+**Rechnungsstellung bei Integrationsmassnahmen zur Vorbereitung auf die berufliche Eingliederung, bei Massnahmen beruflicher Art und bei Abklärungen**[^79sexies-1]
+
+<sup>1</sup> Die Leistungserbringer von Massnahmen nach den Artikeln 14*a–*18 IVG und nach Artikel 43 ATSG haben in ihren Rechnungen alle administrativen Angaben zu machen, die für die Überprüfung der Berechnung der Vergütung sowie der Wirtschaftlichkeit der Leistungen nach Artikel 27<sup>ter</sup> Absatz 1 IVG notwendig sind.
+
+<sup>2</sup> Die Leistungserbringer stellen der versicherten Person die Kopie der Rechnung zu. Diese kann in Papierform oder elektronisch versandt werden.
+
+[^79sexies-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 ### II. Taggelder
 
@@ -2044,17 +2536,25 @@ Das Bundesamt kann die Kontrolle der Übereinstimmung mit allfälligen Verträge
 
 **Auszahlung**
 
-<sup>1</sup> Die Ausgleichskassen oder die Arbeitgeber zahlen die Taggelder monatlich nachschüssig aus oder verrechnen diese im Sinne von Artikel 19 Absatz 2 ATSG oder Artikel 20 Absatz 2 AHVG[^80-1].[^80-2] In bestimmten Fällen kann das Bundesamt die Eingliederungsstätte mit der Auszahlung des Taggeldes betrauen.[^80-3]
+<sup>1</sup> Die Ausgleichskassen oder die Arbeitgeber zahlen die Taggelder monatlich nachschüssig aus oder verrechnen diese im Sinne von Artikel 19 Absatz 2 ATSG oder Artikel 20 Absatz 2 AHVG[^80-1].[^80-2] In bestimmten Fällen kann das BSV die Eingliederungsstätte mit der Auszahlung des Taggeldes betrauen.[^80-3]
 
-<sup>2</sup> Bedürfen der Versicherte oder seine Angehörigen des Taggeldes in kürzeren Zeitabständen, so sind auf Gesuch hin Teilzahlungen auszurichten.[^80-4]
+<sup>1bis</sup>
 
-<sup>3</sup> ...[^80-5]
+Während der erstmaligen beruflichen Ausbildung werden die Taggelder, vorbehaltlich Artikel 24<sup>quater</sup> IVG, ausbezahlt an:
+
+- a. das Ausbildungszentrum oder die Ausbildungseinrichtung, das beziehungsweise die die Taggelder an die versicherte Person weiterleitet;
+- b. direkt an die versicherte Person, wenn diese eine höhere Berufsausbildung oder eine Hochschule besucht.[^80-4]
+
+<sup>2</sup> Bedürfen der Versicherte oder seine Angehörigen des Taggeldes in kürzeren Zeitabständen, so sind auf Gesuch hin Teilzahlungen auszurichten.[^80-5]
+
+<sup>3</sup> …[^80-6]
 
 [^80-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^80-2]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
 [^80-3]: Fassung gemäss Ziff. I der V vom 21. Jan. 1987, in Kraft seit 1. Juli 1987 ([AS 1987 456](https://fedlex.data.admin.ch/eli/oc/1987/456_456_456)).
-[^80-4]: Fassung gemäss Ziff. I der V vom 21. Jan. 1987, in Kraft seit 1. Juli 1987 ([AS 1987 456](https://fedlex.data.admin.ch/eli/oc/1987/456_456_456)).
-[^80-5]: Aufgehoben durch Ziff. I der V vom 29. Nov. 1995, mitWirkung seit 1. Jan. 1997 ([AS 1996 691](https://fedlex.data.admin.ch/eli/oc/1996/691_691_691)).
+[^80-4]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^80-5]: Fassung gemäss Ziff. I der V vom 21. Jan. 1987, in Kraft seit 1. Juli 1987 ([AS 1987 456](https://fedlex.data.admin.ch/eli/oc/1987/456_456_456)).
+[^80-6]: Aufgehoben durch Ziff. I der V vom 29. Nov. 1995, mitWirkung seit 1. Jan. 1997 ([AS 1996 691](https://fedlex.data.admin.ch/eli/oc/1996/691_691_691)).
 
 #### Art. 81
 
@@ -2105,7 +2605,7 @@ Das Bundesamt kann die Kontrolle der Übereinstimmung mit allfälligen Verträge
 
 <sup>1</sup> Artikel 74 AHVV[^83-1] ist für Renten und Hilflosenentschädigungen für Volljährige sinngemäss anwendbar.[^83-2]
 
-<sup>2</sup> ...[^83-3]
+<sup>2</sup> …[^83-3]
 
 [^83-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 [^83-2]: Fassung gemäss Ziff. I der V vom 28. Jan. 2004, in Kraft seit 1. März 2004 ([AS 2004 743](https://fedlex.data.admin.ch/eli/oc/2004/74)).
@@ -2123,7 +2623,7 @@ Das Bundesamt kann die Kontrolle der Übereinstimmung mit allfälligen Verträge
 
 **Nachzahlung und Rückerstattung**
 
-<sup>1</sup> ...[^85-1]
+<sup>1</sup> …[^85-1]
 
 <sup>2</sup> Ergibt eine Überprüfung der invaliditätsmässigen Anspruchsvoraussetzungen, dass eine Leistung herabgesetzt oder aufgehoben werden muss, so ist die Änderung auf den der neuen Verfügung folgenden Monat hin vorzunehmen. Für Renten, Hilflosenentschädigung und Assistenzbeitrag gilt Artikel 88<sup>bis</sup> Absatz 2.[^85-2]
 
@@ -2152,7 +2652,7 @@ Als Vorschussleistungen gelten:
 [^85bis-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^85bis-3]: Fassung gemäss Ziff. I der V vom 16. Sept. 1998, in Kraft seit 1. Jan. 1999 ([AS 1998 2581](https://fedlex.data.admin.ch/eli/oc/1998/2581_2581_2581)).
 
-### D<sup>bis</sup>. ...****
+### D<sup>bis</sup>. …****
 
 [^chap5-lvlDbis-1]
 
@@ -2207,7 +2707,7 @@ Eine Revision wird von Amtes wegen durchgeführt, wenn:
 
 <sup>1</sup> Die Revisionsverfahren werden von jener IV-Stelle durchgeführt, die bei Eingang des Revisionsgesuches oder bei der Wiederaufnahme des Verfahrens von Amtes wegen nach Artikel 40 für den Fall zuständig ist.[^88-1]
 
-<sup>2</sup> ...[^88-2]
+<sup>2</sup> …[^88-2]
 
 <sup>3</sup> Die IV-Stelle gibt das Ergebnis der Überprüfung von Renten oder Hilflosenentschädigungen für Volljährige der zuständigen Ausgleichskasse bekannt. Bei Hilflosenentschädigungen für Minderjährige und bei Assistenzbeiträgen gibt sie das Ergebnis der Zentralen Ausgleichsstelle bekannt. Sie erlässt eine entsprechende Verfügung, wenn die Versicherungsleistung eine Änderung erfährt oder wenn vom Versicherten eine Änderung beantragt wurde.[^88-3]
 
@@ -2261,29 +2761,59 @@ Die Herabsetzung oder Aufhebung der Renten, der Hilflosenentschädigungen und de
 
 #### Art. 88<sup>ter</sup>
 
-**Meldungen an die Krankenversicherer nach Art. 11 KVG**[^88ter-1]
+**Meldungen an die Krankenversicherer nach dem KVAG**[^88ter-1]
 
-Die zuständigen IV-Stellen haben die Versicherten der Krankenversicherer nach Artikel 11 des Bundesgesetzes vom 18. März 1994[^88ter-2] über die Krankenversicherung (KVG) – (im folgenden Krankenversicherer genannt), die Anspruch auf medizinische Massnahmen der Versicherung erheben, den betreffenden Krankenversicherern oder einer Verbindungsstelle zu melden.
+Die zuständigen IV-Stellen haben Personen, die bei einem Krankenversicherer nach dem KVAG versichert sind und Anspruch auf medizinische Massnahmen der Invalidenversicherung erheben, den betreffenden Krankenversicherern nach dem KVAG zu melden.
 
-[^88ter-1]: Fassung gemäss Anhang Ziff. 2 der V vom 27. Juni 1995 über die Krankenversicherung, in Kraft seit 1. Jan. 1996 ([AS 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
-[^88ter-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^88ter-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 88<sup>quater</sup>
 
-**Zustellung von Verfügungen der IV-Stellen und Beschwerderecht der Krankenversicherer**[^88quater-1]
+**Zustellung von Verfügungen der IV-Stellen und Beschwerderecht der Krankenversicherer nach dem KVAG**[^88quater-1]
 
-<sup>1</sup> Hat ein Krankenversicherer der zuständigen IV-Stelle oder Ausgleichskasse mitgeteilt, dass er für einen ihr gemeldeten Versicherten Kostengutsprache oder Zahlung geleistet habe, so ist dem Krankenversicherer die Verfügung über die Zusprechung oder Ablehnung der Leistungen zuzustellen.
+Hat ein Krankenversicherer nach dem KVAG der zuständigen IV-Stelle oder Ausgleichskasse mitgeteilt, dass er für eine ihr gemeldete versicherte Person Kostengutsprache oder Zahlung geleistet hat, so ist dem Krankenversicherer nach dem KVAG die Verfügung über die Zusprechung oder Ablehnung der Leistungen zuzustellen.
 
-<sup>2</sup> und <sup>3</sup> ...[^88quater-2]
-
-[^88quater-1]: Fassung gemäss Anhang Ziff. 2 der V vom 27. Juni 1995 über die Krankenversicherung, in Kraft seit 1. Jan. 1996 ([AS 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
-[^88quater-2]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
+[^88quater-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 88<sup>quinquies</sup>
 
 [^88quinquies-1]
 
 [^88quinquies-1]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
+
+## Sechster Abschnitt *a*:**** Das Verhältnis zur Unfallversicherung in Bezug auf Personen nach Artikel 1*a* Absatz 1 Buchstabe c UVG
+
+[^chap6a-1]
+
+[^chap6a-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 88<sup>sexies</sup>
+
+**Grundsatz der Unfallversicherung von Personen nach Artikel 1*a* Absatz 1 Buchstabe c UVG**
+
+Für die Einzelheiten und das Verfahren der Unfallversicherung von Personen nach Artikel 1*a* Absatz 1 Buchstabe c UVG[^88sexies-1] gilt die Gesetzgebung über die Unfallversicherung.
+
+[^88sexies-1]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+
+#### Art. 88<sup>septies</sup>
+
+**Lohnsumme**
+
+<sup>1</sup> Die Zentrale Ausgleichsstelle meldet der Schweizerischen Unfallversicherungsanstalt (Suva) die provisorische und die definitive Lohnsumme als Grundlage, auf der die Prämienberechnung der Unfallversicherung von Personen nach Artikel 1*a* Absatz 1 Buchstabe c UVG[^88septies-1] beruht.
+
+<sup>2</sup> Die Zentrale Ausgleichsstelle weist die Lohnsumme pro IV-Stelle einzeln aus.
+
+[^88septies-1]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+
+#### Art. 88<sup>octies</sup>
+
+**Vergütung der Prämie**
+
+<sup>1</sup> Die Suva unterbreitet ihre Rechnung nach Artikel 132*c* der Verordnung vom 20. Dezember 1982[^88octies-1] über die Unfallversicherung dem BSV zur Genehmigung.
+
+<sup>2</sup> Nach deren Genehmigung vergütet die Zentrale Ausgleichsstelle die Prämie der Suva.
+
+[^88octies-1]: [SR 832.202](https://fedlex.data.admin.ch/eli/cc/1983/38_38_38)
 
 ## Siebenter Abschnitt:**** Verschiedene Bestimmungen
 
@@ -2308,15 +2838,16 @@ Soweit im IVG und in dieser Verordnung nichts Abweichendes bestimmt wird, sind d
 
 #### Art. 89<sup>ter</sup>
 
-**Legitimation des Bundesamtes zur Beschwerde gegen Entscheide der kantonalen Schiedsgerichte[^89ter-2]**[^89ter-1]
+**Legitimation des BSV zur Beschwerde gegen Entscheide der kantonalen Schiedsgerichte[^89ter-2]**[^89ter-1]
 
-<sup>1</sup> Die Entscheide der kantonalen Schiedsgerichte (Art. 27<sup>bis</sup> IVG) sind dem Bundesamt zu eröffnen.
+<sup>1</sup> Die Entscheide der kantonalen Schiedsgerichte (Art. 27<sup>quinquies</sup> IVG) sind dem BSV zu eröffnen.[^89ter-3]
 
-<sup>2</sup> Das Bundesamt ist berechtigt, gegen diese Entscheide beim Bundesgericht Beschwerde zu erheben.[^89ter-3]
+<sup>2</sup> Das BSV ist berechtigt, gegen diese Entscheide beim Bundesgericht Beschwerde zu erheben.[^89ter-4]
 
 [^89ter-1]: Ursprünglich Art. 89<sup>bis</sup>. Eingefügt durch Ziff. I der V vom 21. Jan. 1987 ([AS 1987 456](https://fedlex.data.admin.ch/eli/oc/1987/456_456_456)). Aufgehoben durch Ziff. I der V vom 22. Nov. 2000 ([AS 2000 2907](https://fedlex.data.admin.ch/eli/oc/2000/507)). Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^89ter-2]: Fassung gemäss Ziff. II 92 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, in Kraft seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
-[^89ter-3]: Fassung gemäss Ziff. II 92 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, in Kraft seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^89ter-3]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^89ter-4]: Fassung gemäss Ziff. II 92 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, in Kraft seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 #### Art. 90
 
@@ -2324,29 +2855,39 @@ Soweit im IVG und in dieser Verordnung nichts Abweichendes bestimmt wird, sind d
 
 <sup>1</sup> Als notwendige Reisekosten im Inland gelten im Rahmen von Artikel 51 IVG die Kosten von Fahrten zur nächstgelegenen geeigneten Durchführungsstelle. Wählt der Versicherte eine entferntere Durchführungsstelle, so hat er die dadurch entstehenden Mehrkosten selbst zu tragen.
 
-<sup>2</sup> Vergütet werden die Kosten, die den Preisen der öffentlichen Transportmittel für Fahrten auf dem direkten Weg entsprechen. Ist der Versicherte wegen Invalidität auf die Benützung eines andern Transportmittels angewiesen, so werden ihm die daraus entstehenden Kosten ersetzt. Nicht vergütet werden geringfügige Auslagen für Fahrten im Ortskreis.
+<sup>2</sup> Vergütet werden die Kosten, die den Preisen der öffentlichen Transportmittel für Fahrten auf dem direkten Weg entsprechen. Ist die versicherte Person wegen Invalidität auf die Benützung eines anderen Transportmittels angewiesen, so werden ihr die daraus entstehenden Kosten ersetzt.[^90-2]
 
-<sup>3</sup> Ausser den Fahrauslagen werden ein Zehrgeld und die notwendigen Nebenkosten, insbesondere die Fahrauslagen und das Zehrgeld für eine unerlässliche Begleitperson, vergütet. Bei Urlaubs- oder Besuchsfahrten wird kein Zehrgeld ausgerichtet.[^90-2]
+<sup>2bis</sup>
+
+Die Reisekosten werden nicht vergütet, wenn die versicherte Person mit einer der folgenden Eingliederungsmassnahmen unterstützt wird:
+
+- a. Personalverleih (Art. 18*a*<sup>bis</sup> IVG);
+- b. Einarbeitungszuschuss (Art. 18*b* IVG);
+- c. Kapitalhilfe (Art. 18*d* IVG).[^90-3]
+
+<sup>3</sup> Ausser den Fahrauslagen werden ein Zehrgeld und die notwendigen Nebenkosten, insbesondere die Fahrauslagen und das Zehrgeld für eine unerlässliche Begleitperson, vergütet. Bei Urlaubs- oder Besuchsfahrten wird kein Zehrgeld ausgerichtet.[^90-4]
 
 <sup>4</sup> Das Zehrgeld beträgt:
 
 <table>
 <tr><td>a. bei einer Abwesenheit vom Wohnort von fünf bis acht Stunden</td><td>11.50 je Tag;</td></tr>
 <tr><td>b. bei einer Abwesenheit vom Wohnort von mehr als acht Stunden</td><td>19.— je Tag;</td></tr>
-<tr><td>c. für auswärtiges Übernachten</td><td>37.50 je Nacht.[^90-3]</td></tr>
+<tr><td>c. für auswärtiges Übernachten</td><td>37.50 je Nacht.[^90-5]</td></tr>
 </table>
 
-<sup>5</sup> Für Reisen mit öffentlichen Transportmitteln werden Gutscheine abgegeben. Das Bundesamt bezeichnet die zur Abgabe der Gutscheine berechtigten Stellen. Im übrigen sind die Artikel 78 und 79 anwendbar.
+<sup>5</sup> Für Reisen mit öffentlichen Transportmitteln werden Gutscheine abgegeben. Das BSV bezeichnet die zur Abgabe der Gutscheine berechtigten Stellen. Im übrigen sind die Artikel 78 und 79 anwendbar.
 
 [^90-1]: Fassung gemäss Ziff. I des BRB vom 15. Jan. 1968, in Kraft seit 1. Jan. 1968 ([AS 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)).
-[^90-2]: Fassung gemäss Ziff. I der V vom 29. Nov. 1976, in Kraft seit 1. Jan. 1977 ([AS 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)).
-[^90-3]: Fassung gemäss Ziff. I der V vom 21. Aug. 1991, in Kraft seit 1. Jan. 1992 ([AS 1991 2116](https://fedlex.data.admin.ch/eli/oc/1991/2116_2116_2116)).
+[^90-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^90-3]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^90-4]: Fassung gemäss Ziff. I der V vom 29. Nov. 1976, in Kraft seit 1. Jan. 1977 ([AS 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)).
+[^90-5]: Fassung gemäss Ziff. I der V vom 21. Aug. 1991, in Kraft seit 1. Jan. 1992 ([AS 1991 2116](https://fedlex.data.admin.ch/eli/oc/1991/2116_2116_2116)).
 
 #### Art. 90<sup>bis</sup>
 
 **Reisekosten im Ausland**[^90bis-1]
 
-Die Beiträge an die Aufwendungen für Fahrten vom Inland nach dem Ausland, vom Ausland nach dem Inland und im Ausland setzt das Bundesamt im Einzelfall fest.
+Die Beiträge an die Aufwendungen für Fahrten vom Inland nach dem Ausland, vom Ausland nach dem Inland und im Ausland setzt das BSV im Einzelfall fest.
 
 [^90bis-1]: Eingefügt durch Ziff. I des BRB vom 15. Jan. 1968, in Kraft seit 1. Jan. 1968 ([AS 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)).
 
@@ -2354,9 +2895,9 @@ Die Beiträge an die Aufwendungen für Fahrten vom Inland nach dem Ausland, vom 
 
 **Erwerbsausfall infolge einer Abklärung**[^91-1]
 
-<sup>1</sup> Erleidet ein Versicherter infolge einer Abklärung der Leistungspflicht einen Erwerbsausfall an Tagen, an welchen er keinen Anspruch auf Taggelder der Versicherung hat, so richtet die Versicherung bei nachgewiesenem Erwerbsausfall ein Taggeld in der Höhe von 30 Prozent des Höchstbetrages des versicherten Tagesverdienstes nach dem Bundesgesetz vom 20. März 1981[^91-2] über die Unfallversicherung aus.
+<sup>1</sup> Erleidet eine versicherte Person infolge einer Abklärung der Leistungspflicht einen Erwerbsausfall an Tagen, an welchen sie keinen Anspruch auf Taggelder der Invalidenversicherung hat, so richtet die Invalidenversicherung bei nachgewiesenem Erwerbsausfall ein Taggeld in der Höhe von 30 Prozent des Höchstbetrags des versicherten Tagesverdienstes nach dem UVG[^91-2] aus.[^91-3]
 
-<sup>2</sup> Erleiden Auskunftspersonen infolge einer Abklärung der Leistungspflicht einen Erwerbsausfall, so entschädigt die Versicherung den nachgewiesenen Erwerbsausfall in gleicher Weise wie nach Absatz 1. Für die Entschädigung von Reisekosten im Inland gelten die Ansätze von Artikel 90. Die Beiträge an Reisekosten im Ausland setzt das Bundesamt im Einzelfall fest.
+<sup>2</sup> Erleiden Auskunftspersonen infolge einer Abklärung der Leistungspflicht einen Erwerbsausfall, so entschädigt die Versicherung den nachgewiesenen Erwerbsausfall in gleicher Weise wie nach Absatz 1. Für die Entschädigung von Reisekosten im Inland gelten die Ansätze von Artikel 90. Die Beiträge an Reisekosten im Ausland setzt das BSV im Einzelfall fest.
 
 <sup>3</sup>
 
@@ -2369,6 +2910,7 @@ Auf den Entschädigungen nach den Absätzen 1 und 2 müssen keine Beiträge beza
 
 [^91-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
 [^91-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^91-3]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 92
 
@@ -2404,17 +2946,63 @@ Auf den Entschädigungen nach den Absätzen 1 und 2 müssen keine Beiträge beza
 
 **Wissenschaftliche Auswertungen**[^96-1]
 
-<sup>1</sup> Das Departement erstellt nach Anhörung der Eidgenössischen Kommission für die Alters-, Hinterlassenen- und Invalidenversicherung ein mehrjähriges Programm für wissenschaftliche Auswertungen betreffend die Umsetzung des Gesetzes. Es überprüft das Programm laufend und legt dessen Budget fest.
+<sup>1</sup> Das EDI erstellt nach Anhörung der Eidgenössischen Kommission für die Alters-, Hinterlassenen- und Invalidenversicherung ein mehrjähriges Programm für wissenschaftliche Auswertungen betreffend die Umsetzung des Gesetzes. Es überprüft das Programm laufend und legt dessen Budget fest.
 
-<sup>2</sup> Das Bundesamt ist mit dem Vollzug des Programms beauftragt. Es kann dessen Umsetzung ganz oder teilweise Dritten übertragen.
+<sup>2</sup> Das BSV ist mit dem Vollzug des Programms beauftragt. Es kann dessen Umsetzung ganz oder teilweise Dritten übertragen.
 
 [^96-1]: Ursprünglich unter dem 8. Abschn. Aufgehoben durch Ziff. I der V vom 1. Juli 1987 ([AS 1987 1088](https://fedlex.data.admin.ch/eli/oc/1987/1088_1088_1088)). Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
+
+#### Art. 96<sup>bis</sup>
+
+**Mindestanforderungen an Vereinbarungen mit den kantonalen Instanzen**[^96bis-1]
+
+<sup>1</sup> Die IV-Stellen und die kantonalen Durchführungsstellen nach Artikel 68<sup>bis</sup> Absatz 1 Buchstabe d IVG legen in den Vereinbarungen nach Artikel 68<sup>bis</sup> Absätze 1<sup>bis</sup> und 1<sup>ter</sup> IVG mindestens die Leistungen, die Zielgruppe, die Zuständigkeiten und die Überprüfung der Vereinbarungsinhalte fest. Sie überprüfen die Einhaltung der Vereinbarung.
+
+<sup>2</sup> Das BSV präzisiert die Mindestanforderungen und evaluiert die Umsetzung von Artikel 68<sup>bis</sup> Absätze 1<sup>bis</sup> und 1<sup>ter</sup> IVG. Die IV-Stellen sind verpflichtet, dem BSV und den Revisionsstellen jederzeit über die Verwendung der Beiträge Auskunft zu erteilen und Einsicht in die massgebenden Geschäftsunterlagen zu gewähren.
+
+[^96bis-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 96<sup>ter</sup>
+
+**Beitrag an die kantonale Koordinationsstelle**[^96ter-1]
+
+<sup>1</sup>
+
+Die kantonale Koordinationsstelle erhält Beiträge insbesondere für:
+
+- a. die Zusammenarbeit mit der IV-Stelle;
+- b. die Früherfassung und die Begleitung von jungen Menschen mit gesundheitlichen Beeinträchtigungen.
+
+<sup>2</sup> Das BSV legt die Beiträge pro IV-Stelle in Abhängigkeit des Anteils der 13–25-Jährigen an der ständigen kantonalen Wohnbevölkerung fest und aktualisiert den Verteilschlüssel im Abstand von vier Jahren.
+
+<sup>3</sup>
+
+Die IV-Stellen können für die Mitfinanzierung nach Artikel 68<sup>bis</sup> Absatz 1<sup>bis</sup> IVG beim BSV Beiträge zwischen 50 000 und 400 000 Franken beantragen, wenn die folgenden Bedingungen erfüllt sind:
+
+- a. der betroffene Kanton weist den Anteil 13–25-Jähriger an der ständigen Wohnbevölkerung auf, der für den gewählten Beitrag erforderlich ist; und
+- b. der finanzielle Beitrag der IV beträgt nicht mehr als ein Drittel der Personalausgaben der kantonalen Instanz.
+
+[^96ter-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 96<sup>quater</sup>
+
+**Kantonale Brückenangebote**[^96quater-1]
+
+<sup>1</sup> Als Massnahmen zur Vorbereitung auf eine erstmalige berufliche Ausbildung nach Artikel 68<sup>bis</sup> Absatz 1<sup>ter</sup> IVG gelten kantonale Brückenangebote, die im Rahmen von Artikel 12 BBG[^96quater-2] durchgeführt werden und eine zusätzliche Leistung für eine bei der IV angemeldete, gesundheitlich beeinträchtigte Person vor vollendetem 25. Altersjahr anbieten.
+
+<sup>2</sup> Sofern eine Vereinbarung nach Artikel 96<sup>bis</sup> vorliegt, kann sich die IV-Stelle zu höchstens einem Drittel an den Kosten der kantonalen Vorbereitungsmassnahme nach Absatz 1 beteiligen.
+
+<sup>3</sup> Die Massnahmen zur Vorbereitung auf eine erstmalige berufliche Ausbildung nach Artikel 68<sup>bis</sup> Absatz 1<sup>ter</sup> IVG finden nach der obligatorischen Schulzeit und primär in den Regelstrukturen der Berufsbildung statt. Sie dauern in Anlehnung an Artikel 7 Absatz 2 der Verordnung vom 19. November 2003[^96quater-3] über die Berufsbildung maximal ein Jahr.
+
+[^96quater-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^96quater-2]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^96quater-3]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
 
 #### Art. 97
 
 **Information über die Leistungen und das Verfahren**[^97-1]
 
-<sup>1</sup> Das Departement erstellt nach Anhörung der Eidgenössischen Kommission für die Alters-, Hinterlassenen- und Invalidenversicherung ein mehrjähriges Programm für eine allgemeine, gesamtschweizerische Information über die Leistungen der Versicherung. Es überprüft das Programm laufend und legt dessen Budget fest.
+<sup>1</sup> Das EDI erstellt nach Anhörung der Eidgenössischen Kommission für die Alters-, Hinterlassenen- und Invalidenversicherung ein mehrjähriges Programm für eine allgemeine, gesamtschweizerische Information über die Leistungen der Versicherung. Es überprüft das Programm laufend und legt dessen Budget fest.
 
 <sup>2</sup>
 
@@ -2423,7 +3011,7 @@ Die Informationen sollen insbesondere:
 - a. das Leistungssystem der Versicherung als Ganzes sowie das Verfahren zur Geltendmachung und Beurteilung von Ansprüchen auf Leistungen für die Versicherten und für Beratungsdienste der Versicherten verständlich darstellen;
 - b. auf bestimmte Risiko- und Zielgruppen der Versicherung ausgerichtet sein und Angaben über die Leistungen sowie das Verfahren zur Geltendmachung von Ansprüchen und deren Beurteilung liefern.
 
-<sup>3</sup> Das Bundesamt ist mit dem Vollzug des Programms beauftragt und sorgt dabei für die Koordination mit der Öffentlichkeitsarbeit der IV-Stellen. Es kann die Umsetzung des Programms ganz oder teilweise Dritten übertragen.
+<sup>3</sup> Das BSV ist mit dem Vollzug des Programms beauftragt und sorgt dabei für die Koordination mit der Öffentlichkeitsarbeit der IV-Stellen. Es kann die Umsetzung des Programms ganz oder teilweise Dritten übertragen.
 
 [^97-1]: Ursprünglich unter dem 8. Abschn. Aufgehoben durch Ziff. I der V vom 1. Juli 1987 ([AS 1987 1088](https://fedlex.data.admin.ch/eli/oc/1987/1088_1088_1088)). Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 
@@ -2433,7 +3021,7 @@ Die Informationen sollen insbesondere:
 
 <sup>1</sup>
 
-Das Bundesamt hat im Rahmen der Durchführung von Pilotversuchen nach Artikel 68<sup>quater</sup> IVG folgende Aufgaben:
+Das BSV hat im Rahmen der Durchführung von Pilotversuchen nach Artikel 68<sup>quater</sup> IVG folgende Aufgaben:
 
 - a. Es regelt auf dem Verordnungsweg die Kriterien für die Eingaben sowie für die Umsetzung der Pilotversuche.
 - b. Es entscheidet über die Durchführung von Pilotversuchen.
@@ -2445,6 +3033,48 @@ Das Bundesamt hat im Rahmen der Durchführung von Pilotversuchen nach Artikel 68
 [^98-1]: Ursprünglich unter dem 8. Abschn. Aufgehoben durch Ziff. I der V vom 1. Juli 1987 ([AS 1987 1088](https://fedlex.data.admin.ch/eli/oc/1987/1088_1088_1088)). Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^98-2]: [SR 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
 [^98-3]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+
+#### Art. 98<sup>bis</sup>
+
+**Einsatzbetriebe nach Artikel 68<sup>quinquies</sup> IVG**[^98bis-1]
+
+Als Einsatzbetriebe nach Artikel 68<sup>quinquies</sup> IVG gelten einzig Betriebe des ersten Arbeitsmarktes. Anstalten oder Werkstätten nach Artikel 27 IVG sind ausgeschlossen.
+
+[^98bis-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 98<sup>ter</sup>
+
+**Zusammenarbeitsvereinbarung: Zuständigkeit und Verfahren**[^98ter-1]
+
+<sup>1</sup> Das EDI ist zuständig für den Abschluss von Zusammenarbeitsvereinbarungen mit den Dachverbänden der Arbeitswelt im Sinne von Artikel 68<sup>sexies</sup> IVG.
+
+<sup>2</sup> Als Dachverbände der Arbeitswelt gelten nur Dachverbände, die gesamtschweizerisch oder sprachregional tätig sind.
+
+<sup>3</sup> Die Dachverbände der Arbeitswelt stellen dem BSV Antrag auf eine Zusammenarbeitsvereinbarung. Das BSV stellt dafür ein Formular zur Verfügung.
+
+<sup>4</sup> Bevor das EDI eine Zusammenarbeitsvereinbarung abschliesst, hört es die Eidgenössische Kommission für die Alters-, Hinterlassenen- und Invalidenversicherung an.
+
+[^98ter-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 98<sup>quater</sup>
+
+**Zusammenarbeitsvereinbarung: Inhalt**[^98quater-1]
+
+<sup>1</sup>
+
+Die Zusammenarbeitsvereinbarungen enthalten mindestens Bestimmungen über:
+
+- a. den Zweck;
+- b. die Massnahmen und deren Finanzierung;
+- c. die Modalitäten für die Durchführung und die Überprüfung der Massnahmen sowie die Analyse ihrer Wirkungen;
+- d. die Dauer, die Erneuerung und die Auflösung der Zusammenarbeitsvereinbarung.
+
+<sup>2</sup> Die in den Zusammenarbeitsvereinbarungen vorgesehenen Massnahmen dürfen nicht von den Bestimmungen des IVG abweichen und müssen auf gesamtschweizerischer oder sprachregionaler Ebene umgesetzt werden.
+
+<sup>3</sup> Sieht eine Zusammenarbeitsvereinbarung eine Beteiligung der Invalidenversicherung an der Finanzierung der Massnahmen vor, so müssen die Voraussetzungen des Subventionsgesetzes vom 5. Oktober 1990[^98quater-2] erfüllt sein.
+
+[^98quater-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^98quater-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 ## Achter Abschnitt: Die Beiträge zur Förderung der Invalidenhilfe****
 
@@ -2508,7 +3138,7 @@ Eine Organisation widmet sich in einem wesentlichen Umfang der Invalidenhilfe, w
 - b. mindestens 1000 invalide Personen und deren Angehörige ihre Leistungen nutzen; oder
 - c. ihre Vollkosten für die Leistungen nach Artikel 74 IVG mindestens eine Million Franken im Jahr betragen.
 
-<sup>2</sup> Für die Ausrichtung von Finanzhilfen schliesst das Bundesamt in Anwendung des Subventionsgesetzes vom 5. Oktober 1990[^108-2] mit den Organisationen nach Absatz 1 Verträge über die anrechenbaren Leistungen ab; die Verträge gelten höchstens 4 Jahre. Kommt keine vertragliche Einigung zustande, so erlässt das Bundesamt eine beschwerdefähige Verfügung über die Beitragsberechtigung.
+<sup>2</sup> Für die Ausrichtung von Finanzhilfen schliesst das BSV in Anwendung des Subventionsgesetzes vom 5. Oktober 1990[^108-2] mit den Organisationen nach Absatz 1 Verträge über die anrechenbaren Leistungen ab; die Verträge gelten höchstens 4 Jahre. Kommt keine vertragliche Einigung zustande, so erlässt das BSV eine beschwerdefähige Verfügung über die Beitragsberechtigung.
 
 [^108-1]: Fassung gemäss Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
 [^108-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
@@ -2523,11 +3153,11 @@ Beiträge werden an folgende in der Schweiz zweckmässig und wirtschaftlich erbr
 
 - a. Beratung und Betreuung von Invaliden oder deren Angehörigen;
 - b. Kurse für Invalide oder deren Angehörige;
-- c.[^108bis-2] ...
+- c.[^108bis-2] …
 - d. Leistungen zur Unterstützung und Förderung der Eingliederung Invalider;
 - [tab] e.[^108bis-3] begleitetes Wohnen für Invalide.
 
-<sup>2</sup> Das Bundesamt umschreibt die Leistungen im Einzelnen. Die Tätigkeit des Vorstandes und von Vereins- und Delegiertenversammlungen sowie Sammelaktionen für die Beschaffung finanzieller Mittel gelten nicht als anrechenbare Leistungen.
+<sup>2</sup> Das BSV umschreibt die Leistungen im Einzelnen. Die Tätigkeit des Vorstandes und von Vereins- und Delegiertenversammlungen sowie Sammelaktionen für die Beschaffung finanzieller Mittel gelten nicht als anrechenbare Leistungen.
 
 <sup>3</sup> Im Rahmen des begleiteten Wohnens sind höchstens vier Betreuungsstunden pro behinderte Person und Woche anrechenbar.[^108bis-4]
 
@@ -2540,9 +3170,9 @@ Beiträge werden an folgende in der Schweiz zweckmässig und wirtschaftlich erbr
 
 **Voraussetzungen**[^108ter-1]
 
-<sup>1</sup> Beiträge werden nur ausgerichtet, sofern der Bedarf für die Leistungen nach Artikel 108<sup>bis</sup> nachgewiesen ist. Das Bundesamt erlässt hiezu Richtlinien.
+<sup>1</sup> Beiträge werden nur ausgerichtet, sofern der Bedarf für die Leistungen nach Artikel 108<sup>bis</sup> nachgewiesen ist. Das BSV erlässt hiezu Richtlinien.
 
-<sup>2</sup> Die Organisationen sorgen für die statistische Erfassung der Leistungen und deren Empfängerinnen und Empfänger. Sie erfüllen die Anforderungen des Rechnungswesens und stellen die Qualität der Leistungserbringung sicher. Das Bundesamt erlässt hiezu Richtlinien.
+<sup>2</sup> Die Organisationen sorgen für die statistische Erfassung der Leistungen und deren Empfängerinnen und Empfänger. Sie erfüllen die Anforderungen des Rechnungswesens und stellen die Qualität der Leistungserbringung sicher. Das BSV erlässt hiezu Richtlinien.
 
 [^108ter-1]: Eingefügt durch Ziff. I der V vom 2. Febr. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 1199](https://fedlex.data.admin.ch/eli/oc/2000/193)). Siehe auch die SchlB dieser Änd. am Ende dieses Textes.
 
@@ -2550,13 +3180,13 @@ Beiträge werden an folgende in der Schweiz zweckmässig und wirtschaftlich erbr
 
 **Berechnung und Höhe der Beiträge**[^108quater-1]
 
-<sup>1</sup> Der Beitrag an eine Vertragspartei für eine Vertragsperiode entspricht höchstens dem für die vorangehende Vertragsperiode ausgerichteten Beitrag; das Bundesamt kann den Beitrag an die Teuerung gemäss dem Landesindex der Konsumentenpreise anpassen. Vorbehalten bleibt die Ausrichtung von Beiträgen für neue oder erweiterte Leistungen, für die nach Artikel 108<sup>ter</sup> ein Bedarf nachgewiesen ist.[^108quater-2]
+<sup>1</sup> Der Beitrag an eine Vertragspartei für eine Vertragsperiode entspricht höchstens dem für die vorangehende Vertragsperiode ausgerichteten Beitrag; das BSV kann den Beitrag an die Teuerung gemäss dem Landesindex der Konsumentenpreise anpassen. Vorbehalten bleibt die Ausrichtung von Beiträgen für neue oder erweiterte Leistungen, für die nach Artikel 108<sup>ter</sup> ein Bedarf nachgewiesen ist.[^108quater-2]
 
-<sup>2</sup> Das Bundesamt kann für jede neue Vertragsperiode für neue oder erweiterte Leistungen, die nach Artikel 108<sup>bis</sup> anrechenbar sind, einen Zuschlag gewähren. Hierzu werden die für das letzte Jahr der vorangehenden Vertragsperiode gesamthaft ausgerichteten Beiträge mit einer Zuschlagsrate multipliziert. Die Zuschlagsrate entspricht der durchschnittlichen Wachstumsrate der Bezügerinnen und Bezüger individueller Leistungen der Invalidenversicherung in den drei dem Verhandlungsjahr vorausgehenden Jahren. Das Verhandlungsjahr ist das Jahr vor Beginn einer Vertragsperiode.
+<sup>2</sup> Das BSV kann für jede neue Vertragsperiode für neue oder erweiterte Leistungen, die nach Artikel 108<sup>bis</sup> anrechenbar sind, einen Zuschlag gewähren. Hierzu werden die für das letzte Jahr der vorangehenden Vertragsperiode gesamthaft ausgerichteten Beiträge mit einer Zuschlagsrate multipliziert. Die Zuschlagsrate entspricht der durchschnittlichen Wachstumsrate der Bezügerinnen und Bezüger individueller Leistungen der Invalidenversicherung in den drei dem Verhandlungsjahr vorausgehenden Jahren. Das Verhandlungsjahr ist das Jahr vor Beginn einer Vertragsperiode.
 
 <sup>3</sup> Die Zuschlagsrate gilt für jedes Jahr der Vertragsperiode und darf das Potentialwachstum des realen Bruttoinlandproduktes nicht übersteigen.
 
-<sup>4</sup> ...[^108quater-3]
+<sup>4</sup> …[^108quater-3]
 
 [^108quater-1]: Eingefügt durch Ziff. I der V vom 2. Febr. 2000 ([AS 2000 1199](https://fedlex.data.admin.ch/eli/oc/2000/193)). Fassung gemäss Ziff. I der V vom 12. Febr. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 383](https://fedlex.data.admin.ch/eli/oc/2003/87)). Siehe auch die SchlB dieser Änd. am Ende dieses Textes.
 [^108quater-2]: Fassung gemäss Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
@@ -2578,15 +3208,15 @@ Beiträge werden an folgende in der Schweiz zweckmässig und wirtschaftlich erbr
 
 **Verfahren**[^110-1]
 
-<sup>1</sup> Organisationen nach Artikel 108 Absatz 1, welche Beiträge erhalten wollen, haben dem Bundesamt ein Gesuch einzureichen. Das Bundesamt bestimmt, welche Unterlagen im Hinblick auf den Abschluss eines Leistungsvertrages einzureichen sind.
+<sup>1</sup> Organisationen nach Artikel 108 Absatz 1, welche Beiträge erhalten wollen, haben dem BSV ein Gesuch einzureichen. Das BSV bestimmt, welche Unterlagen im Hinblick auf den Abschluss eines Leistungsvertrages einzureichen sind.
 
-<sup>2</sup> Das Bundesamt bestimmt, welche Unterlagen während der Vertragsdauer bis spätestens sechs Monate nach Ablauf des Rechnungsjahres einzureichen sind. Bei Vorliegen zureichender Gründe kann die Frist vor ihrem Ablauf auf schriftliches Gesuch hin erstreckt werden. Wird die ordentliche oder die erstreckte Frist ohne triftigen Grund nicht eingehalten, so wird der auszurichtende Beitrag bei einer Verspätung bis zu einem Monat um einen Fünftel und für jeden weiteren Monat um einen weiteren Fünftel gekürzt.[^110-2]
+<sup>2</sup> Das BSV bestimmt, welche Unterlagen während der Vertragsdauer bis spätestens sechs Monate nach Ablauf des Rechnungsjahres einzureichen sind. Bei Vorliegen zureichender Gründe kann die Frist vor ihrem Ablauf auf schriftliches Gesuch hin erstreckt werden. Wird die ordentliche oder die erstreckte Frist ohne triftigen Grund nicht eingehalten, so wird der auszurichtende Beitrag bei einer Verspätung bis zu einem Monat um einen Fünftel und für jeden weiteren Monat um einen weiteren Fünftel gekürzt.[^110-2]
 
 <sup>3</sup> Die Beitragszahlungen erfolgen jährlich durch zwei Akontozahlungen. Nach Abschluss der Vertragsperiode erfolgt ein Saldoausgleich.[^110-3]
 
 <sup>4</sup> Ein höherer Beitrag infolge über den Vertrag hinausgehender, erweiterter Leistungen ist während der Vertragsdauer nur in Ausnahmefällen möglich und setzt eine entsprechende Änderung des Leistungsvertrages voraus.
 
-<sup>5</sup> Die Organisation ist verpflichtet, dem Bundesamt und den Revisionsstellen jederzeit über die Verwendung der Beiträge Auskunft zu erteilen sowie Einsicht in die massgebenden Geschäftsunterlagen und Zutritt zu den Betriebsstätten zu gewähren. Das Bundesamt und die Kontrollorgane können unangekündigte Kontrollen durchführen.[^110-4]
+<sup>5</sup> Die Organisation ist verpflichtet, dem BSV und den Revisionsstellen jederzeit über die Verwendung der Beiträge Auskunft zu erteilen sowie Einsicht in die massgebenden Geschäftsunterlagen und Zutritt zu den Betriebsstätten zu gewähren. Das BSV und die Kontrollorgane können unangekündigte Kontrollen durchführen.[^110-4]
 
 [^110-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 1199](https://fedlex.data.admin.ch/eli/oc/2000/193)).
 [^110-2]: Fassung gemäss Ziff. I der V vom 24. April 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1374](https://fedlex.data.admin.ch/eli/oc/2002/210)).
@@ -2623,11 +3253,11 @@ Beiträge werden an folgende in der Schweiz zweckmässig und wirtschaftlich erbr
 
 <sup>1</sup> Diese Verordnung tritt rückwirkend auf den 1. Januar 1961 in Kraft. Sie findet auch auf die bei ihrem Inkrafttreten nicht erledigten Leistungsbegehren für das Jahr 1960 Anwendung.
 
-<sup>2</sup> ...[^117-1]
+<sup>2</sup> …[^117-1]
 
-<sup>3</sup> Das Eidgenössische Departement des Innern ist mit dem Vollzug beauftragt.
+<sup>3</sup> Das EDI ist mit dem Vollzug beauftragt.
 
-<sup>4</sup> Das Bundesamt erlässt die nötigen Vollzugsbestimmungen zu den Artikeln 108–110.[^117-2]
+<sup>4</sup> Das BSV erlässt die nötigen Vollzugsbestimmungen zu den Artikeln 108–110.[^117-2]
 
 [^117-1]: Aufgehoben durch Ziff. I des BRB vom 15. Jan. 1968, mit Wirkung seit 1. Jan. 1968 ([AS 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)).
 [^117-2]: Eingefügt durch Ziff. I der V vom 28. Jan. 2004 ([AS 2004 743](https://fedlex.data.admin.ch/eli/oc/2004/74)). Fassung gemäss Ziff. I 17 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
@@ -2739,9 +3369,9 @@ Die neuen Bestimmungen von Artikel 21<sup>bis</sup> Absätze 1[^u4-2] und 4 Buch
 
 <sup>4</sup> Die regionalen ärztlichen Dienste (Art. 47 ff.) übernehmen ihre Aufgaben spätestens ein Jahr nach Inkrafttreten der vorliegenden Änderung.
 
-<sup>5</sup> Die Kantone unterbreiten dem Bundesamt ihre Vorschläge zur Bildung der Regionen gemäss Artikel 47 Absatz 2 frühzeitig, spätestens aber innerhalb von drei Monaten nach Inkrafttreten der Verordnung.
+<sup>5</sup> Die Kantone unterbreiten dem BSV ihre Vorschläge zur Bildung der Regionen gemäss Artikel 47 Absatz 2 frühzeitig, spätestens aber innerhalb von drei Monaten nach Inkrafttreten der Verordnung.
 
-<sup>6</sup> Der Übergang von der periodischen zur jährlichen Überprüfung der IV-Stellen durch das Bundesamt nach Artikel 92 Absatz 3 erfolgt spätestens zwei Jahre nach Inkrafttreten dieser Änderung.
+<sup>6</sup> Der Übergang von der periodischen zur jährlichen Überprüfung der IV-Stellen durch das BSV nach Artikel 92 Absatz 3 erfolgt spätestens zwei Jahre nach Inkrafttreten dieser Änderung.
 
 [^u13-2]: [AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)
 
@@ -2797,3 +3427,31 @@ Bis zum Inkrafttreten des Bundesgesetzes vom 24. März 2006[^u15-2] über die Fa
 <sup>1</sup> Für zum Zeitpunkt des Inkrafttretens der Änderung vom 1. Dezember 2017 laufende Dreiviertelsrenten, halbe Renten und Viertelsrenten, die in Anwendung der gemischten Methode zugesprochen wurden, ist innerhalb eines Jahres nach Inkrafttreten dieser Änderung eine Revision einzuleiten. Eine allfällige Erhöhung der Rente erfolgt auf den Zeitpunkt des Inkrafttretens dieser Änderung.
 
 <sup>2</sup> Wurde eine Rente vor dem Inkrafttreten der Änderung vom 1. Dezember 2017 wegen eines zu geringen Invaliditätsgrads einer teilerwerbstätigen versicherten Person, die sich zusätzlich im Aufgabenbereich nach Artikel 7 Absatz 2 IVG betätigte, verweigert, so wird eine neue Anmeldung geprüft, wenn die Berechnung des Invaliditätsgrads nach Artikel 27<sup>bis</sup> Absätze 2–4 voraussichtlich zu einem Rentenanspruch führt.
+
+## Übergangsbestimmungen zur Änderung vom 3. November 2021****
+
+[^u18-1]
+
+[^u18-1]: [AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)
+
+a. Taggelder
+
+Der tatsächliche Beginn der Massnahme ist für die Bestimmung des Tagesgeldanspruchs massgebend.
+
+b. Bemessung Invaliditätsgrad
+
+Wurde einer versicherten Person, die wegen der Invalidität keine zureichenden beruflichen Kenntnisse erwerben konnte, eine IV-Rente vor dem Inkrafttreten der Änderung vom 3. November 2021 zugesprochen und hat sie im Zeitpunkt des Inkrafttretens der Änderung vom 3. November 2021 das 30. Altersjahr noch nicht vollendet, so ist der IV-Rentenanspruch innerhalb eines Jahres nach den neuen Bestimmungen zu revidieren. Davon ausgenommen sind Versicherte, die bereits eine ganze Rente erhalten. Eine allfällige Erhöhung der Rente erfolgt auf den Zeitpunkt des Inkrafttretens der Änderung vom 3. November 2021.
+
+c. Rentensystem
+
+Sind für einen Ehegatten die Buchstaben b und c der Übergangsbestimmungen zur Änderung vom 19. Juni 2020[^u18-2] des IVG anwendbar, so richtet sich die Kürzung der beiden IV-Renten des Ehepaars nach Artikel 37 Absatz 1<sup>bis</sup> IVG in Abweichung von Artikel 32 Absatz 2 nach dem Anspruch des Ehegatten, der die IV-Rente mit dem höheren prozentualen Anteil einer ganzen IV-Rente aufweist.
+
+d. Revision der Höhe des Assistenzbeitrags für den Nachtdienst
+
+Die Höhe der zum Zeitpunkt des Inkrafttretens der Änderung vom 3. November 2021 bestehenden Ansprüche auf einen Assistenzbeitrag für den Nachtdienst wird an die Änderung angepasst. Die Anpassung der Höhe des Assistenzbeitrags für den Nachtdienst entfaltet ihre Wirkung auf den Zeitpunkt des Inkrafttretens der Änderung vom 3. November 2021
+
+e. Bestehende Vereinbarungen zur Vergütung von Arzneimitteln durch die Invalidenversicherung
+
+Bestehende Vereinbarungen zwischen dem BSV und der Zulassungsinhaberin, die vor dem Inkrafttreten der Änderung vom 3. November 2021 abgeschlossen wurden, bleiben bis zur Aufnahme des Arzneimittels in die Geburtsgebrechen-Spezialitätenliste oder in die Spezialitätenliste anwendbar.
+
+[^u18-2]: [AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338)
