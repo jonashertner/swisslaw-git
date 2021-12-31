@@ -3,13 +3,12 @@ canton: TG
 number: "187.221"
 title: Anstellungsrichtlinien der Evangelischen Synode des Kantons Thurgau für katechetisch und sozial-diakonisch Tätige der Kirchgemeinden
 language: de
-version: 2021-06-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-01
+version: 2022-01-01
+version_adopted: 2021-12-06
 adopted: 2003-11-24
 in_force: 2004-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.221"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1900/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/3039/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1900/pdf_file"
 
 Anstellungsrichtlinien der Evangelischen Synode
 
-vom 24.11.2003 (Stand 01.06.2021)
+vom 24.11.2003 (Stand 01.01.2022)
 
 ## 1. Allgemeines
 
@@ -28,7 +27,7 @@ vom 24.11.2003 (Stand 01.06.2021)
 
 <sup>1</sup> Diese Richtlinien gelten für Personen, die in einer Kirchgemeinde der Evangelischen Landeskirche des Kantons Thurgau einen teilzeitlichen Auftrag für den kirchlichen Religionsunterricht in der Volksschule übernehmen.
 
-<sup>2</sup> Sie gelten ebenso für nichtordinierte Personen, die einen sozialdiakonischen Auftrag erfüllen.
+<sup>2</sup> Sie gelten ebenso für nichtordinierte und ordinierte Personen, die einen sozialdiakonischen Auftrag erfüllen, sofern letztere nicht auf einer als solche deklarierten Diakonatsstelle tätig sind.
 
 <sup>3</sup> Der Auftrag kann auch weitere Tätigkeiten im Bereich Kirche, Kind und Jugend umfassen.
 
@@ -36,7 +35,7 @@ vom 24.11.2003 (Stand 01.06.2021)
 
 **Anstellung, Aufsicht**
 
-<sup>1</sup> Katecheten, Katechetinnen und nicht-ordinierte sozial-diakonisch Mitarbeitende werden von der Kirchenvorsteherschaft angestellt.
+<sup>1</sup> Katecheten, Katechetinnen und nicht-ordinierte und ordnierte sozial-diakonisch Mitarbeitende werden von der Kirchenvorsteherschaft angestellt, sofern letztere nicht auf einer als solche deklarierten Diakonatsstelle tätig sind.
 
 <sup>2</sup> Die Kirchenvorsteherschaft führt die Aufsicht und ist für die fachliche Begleitung besorgt.
 
@@ -204,7 +203,9 @@ vom 24.11.2003 (Stand 01.06.2021)
 
 **Besoldung**
 
-<sup>1</sup> Von der Kirchenvorsteherschaft angestellte Diakone oder Diakoninnen sowie nicht ordinierte sozial-diakonisch Mitarbeitende werden nach ihrer Ausbildung und den Anforderungen der Stelle im Rahmen der Besoldungsklassen 4 bis 6 der Verordnung der Evangelischen Synode des Kantons Thurgau über die Besoldung der ordinierten Amtsträger und Amtsträgerinnen in den Kirchgemeinden und des Personals der Evangelischen Landeskirche eingereiht (Lohntabelle und Einreihungsplan gemäss Anhänge 1 und 2).
+<sup>1</sup> Von der Kirchenvorsteherschaft gemäss § 1 Abs. 2 angestellte nicht-ordinierte oder ordinierte Personen im sozial-diakonischen Dienst, der einen spezifischen Berufsabschluss auf Ebene Höhere Fachschule voraussetzt und/oder mit Personalführungsaufgaben verbunden ist, werden im Rahmen der Besoldungsklassen 5 bis 8 eingereiht. Die Ordination ist im Blick auf die zugewiesenen Aufgaben angemessen zu berücksichtigen.
+
+<sup>2</sup> Weitere Mitarbeitende im sozialdiakonischen Dienst werden in den Besoldungsklassen 4 bis 6 eingereiht.
 
 #### § 18
 
@@ -212,12 +213,10 @@ vom 24.11.2003 (Stand 01.06.2021)
 
 <sup>1</sup> Die Ferienregelung entspricht jener für das Staatspersonal.
 
-## 4. Schlussbestimmungen
+## 4.
 
 #### § 19
 
-**Anwendbarkeit**
-
-<sup>1</sup> Diese Richtlinien sind ab 1. August 2004 gültig.
+**…**
 
 keine Angabe
