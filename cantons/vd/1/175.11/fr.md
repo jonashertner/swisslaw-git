@@ -4,7 +4,7 @@ number: "175.11"
 title: LOI du 28.02.1956 sur les communes (LC)
 short: LC
 language: fr
-version: 2018-09-01
+version: 2022-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/175.11?id=3f4231f9-d36c-4911-9d48-e38c0f18ad3c"
 ---
 
@@ -34,13 +34,14 @@ décrète
 - b. la municipalité ;
 - c. le syndic.
 
-<sup>2</sup> La loi sur l'exercice des droits politiques (LEDP) règle les élections communales et la repourvue des sièges en cours de législature.
+<sup>2</sup> La loi sur l'exercice des droits politiques (LEDP) [^1-1] règle les élections communales et la repourvue des sièges en cours de législature.
 
 [^chapterChapitreI-1]: Modif. 21 du 03.05.2005: Introduction Al. 2; entrée en vigueur au 01.07.2005
+[^1-1]: Loi du 05.10.2021 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=a55eea67-87d6-4dd7-8ebe-54cc175d7b3b))
 
 #### Art. 1a
 
-**Conditions pour se doter d'un conseil communal ou général [^1-1]**
+**Conditions pour se doter d'un conseil communal ou général [^1-2]**
 
 <sup>1</sup> Il y a dans chaque commune dont la population ne dépasse pas 1'000 habitants un conseil général et dans chaque commune dont la population dépasse 1'000 habitants un conseil communal.
 
@@ -48,7 +49,9 @@ décrète
 
 <sup>3</sup> Le dernier recensement annuel cantonal publié sert de référence.
 
-[^1-1]: Modif. 21 du 03.05.2005: Introduction Art. 1a; entrée en vigueur au 01.07.2005 · Modif. 36 du 28.09.2021: Introduction Al. 4; entrée en vigueur au 01.01.2022; Introduction Art. 6, Al. 2; entrée en vigueur au 01.01.2022
+<sup>4</sup> Une commune issue d'une fusion de communes dont la population dépasse 1000 habitants peut conserver un conseil général jusqu'à la fin de la législature qui suit la fusion si la convention de fusion le prévoit.
+
+[^1-2]: Modif. 21 du 03.05.2005: Introduction Art. 1a; entrée en vigueur au 01.07.2005 · Modif. 36 du 28.09.2021: Introduction Al. 4; entrée en vigueur au 01.01.2022
 
 #### Art. 2
 
@@ -174,7 +177,9 @@ décrète
 
 <sup>1</sup> Les communes ayant un conseil général dressent et tiennent à jour le tableau des membres de ce conseil.
 
-[^5-1]: Modif. 17 du 03.07.2001: Modification Art. 6; entrée en vigueur au 02.04.2002 · Modif. 36 du 28.09.2021: Introduction Art. 1a, Al. 4; entrée en vigueur au 01.01.2022; Introduction Al. 2; entrée en vigueur au 01.01.2022
+<sup>2</sup> Un membre du conseil général qui manque deux séances du conseil général consécutives sans juste motif est réputé démissionnaire.
+
+[^5-1]: Modif. 17 du 03.07.2001: Modification Art. 6; entrée en vigueur au 02.04.2002 · Modif. 36 du 28.09.2021: Introduction Al. 2; entrée en vigueur au 01.01.2022
 
 #### Art. 7
 
@@ -188,9 +193,10 @@ décrète
 
 **[^7-1]**
 
-<sup>1</sup> Les réclamations relatives à la perte ou à l'acquisition de la qualité de membre du conseil général sont portées devant la municipalité, avec recours au Conseil d'Etat. Les dispositions de la LEDP sont applicables par analogie.
+<sup>1</sup> Les réclamations relatives à la perte ou à l'acquisition de la qualité de membre du conseil général sont portées devant la municipalité, avec recours au Conseil d'Etat. Les dispositions de la LEDP [^8-1] sont applicables par analogie.
 
 [^7-1]: Modif. 10 du 07.03.1989: Modification Art. 8; entrée en vigueur au 01.01.1990
+[^8-1]: Loi du 05.10.2021 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=a55eea67-87d6-4dd7-8ebe-54cc175d7b3b))
 
 #### Art. 9
 
@@ -1417,10 +1423,9 @@ Population Minimum Maximum Jusqu'à 1'000 habitants 25 45 1'001 à 5'000 35 70 5
 
 <sup>1</sup> Les communes sont tenues d'avoir un règlement de police et les règlements imposés par la législation cantonale. Elles peuvent avoir d'autres règlements, notamment sur le fonctionnement des autorités et de l'administration communale.
 
-<sup>2</sup> Les règlements imposés par la législation cantonale de même que les règlements ou dispositions de règlements qui confèrent des droits ou obligations aux autorités ou aux particuliers les uns à l'égard des autres n'ont force de loi qu'après avoir été approuvés par le chef de département concerné. L'article 109 de la loi du 16 mai 1989 sur l'exercice des droits politiques[^94-1] est applicable pour le surplus.
+<sup>2</sup> Les règlements imposés par la législation cantonale de même que les règlements ou dispositions de règlements qui confèrent des droits ou des obligations aux autorités ou aux particuliers les uns à l'égard des autres n'ont force de loi qu'après avoir été approuvés par le chef de département concerné. L'article 162 de la loi sur l'exercice des droits politiques est applicable pour le surplus.
 
-[^sectionSectionII-3]: Modif. 21 du 03.05.2005: Modification Al. 2; entrée en vigueur au 01.07.2005 · Modif. 33 du 20.11.2012: Modification Al. 2; entrée en vigueur au 01.07.2013 · Modif. 36 du 28.09.2021: Introduction Art. 1a, Al. 4; entrée en vigueur au 01.01.2022; Introduction Art. 6, Al. 2; entrée en vigueur au 01.01.2022; Modification Al. 2; entrée en vigueur au 01.01.2022
-[^94-1]: Loi du 16.05.1989 sur l'exercice des droits politiques ( [LOI du 05.10.2021 sur l'exercice des droits politiques (LEDP; BLV 160.01)](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=a55eea67-87d6-4dd7-8ebe-54cc175d7b3b))
+[^sectionSectionII-3]: Modif. 21 du 03.05.2005: Modification Al. 2; entrée en vigueur au 01.07.2005 · Modif. 33 du 20.11.2012: Modification Al. 2; entrée en vigueur au 01.07.2013 · Modif. 36 du 28.09.2021: Modification Al. 2; entrée en vigueur au 01.01.2022
 
 #### Art. 95
 
@@ -1428,7 +1433,7 @@ Population Minimum Maximum Jusqu'à 1'000 habitants 25 45 1'001 à 5'000 35 70 5
 
 <sup>1</sup> Lorsqu'au cours d'une même élection, le choix des électeurs s'est porté sur deux citoyens se trouvant dans un cas d'incompatibilité, celui qui a obtenu le plus de suffrages est seul élu. En cas d'égalité, le sort décide. La procédure de tirage au sort est réglée par la LEDP [^95-1] .
 
-[^95-1]: Art. 43 loi du 16.05.1989 sur l’exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=44f134d8-94c3-4ae6-8902-ad85c6ff0f81))
+[^95-1]: Art. 43 loi du 05.10.2021 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=a55eea67-87d6-4dd7-8ebe-54cc175d7b3b))
 
 #### Art. 96
 
@@ -1450,7 +1455,7 @@ Population Minimum Maximum Jusqu'à 1'000 habitants 25 45 1'001 à 5'000 35 70 5
 
 [^96-1]: Modif. 21 du 03.05.2005: Modification Al. 2; entrée en vigueur au 01.07.2005; Abrogation Al. 3; entrée en vigueur au 01.07.2005 · Modif. 33 du 20.11.2012: Modification Al. t,1,2; entrée en vigueur au 01.07.2013
 [^97-1]: [Code civil suisse du 10 décembre 1907, RS 210](https://www.admin.ch/opc/fr/classified-compilation/19070042/index.html)
-[^97-2]: Loi du 16.05.1989 sur l'exercice des droits politiques ( [LOI du 05.10.2021 sur l'exercice des droits politiques (LEDP; BLV 160.01)](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=a55eea67-87d6-4dd7-8ebe-54cc175d7b3b))
+[^97-2]: Loi du 05.10.2021 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=a55eea67-87d6-4dd7-8ebe-54cc175d7b3b))
 
 #### Art. 98
 
@@ -2323,7 +2328,7 @@ Population Minimum Maximum Jusqu'à 1'000 habitants 25 45 1'001 à 5'000 35 70 5
 <sup>5</sup> Si plusieurs membres de la municipalité ou du conseil communal sont suspendus, les articles 139 et 139a de la présente loi et 82, 86 à 87 de la loi du 16 mai 1989 sur l'exercice des droits politiques s'appliquent.
 
 [^139a-1]: Modif. 21 du 03.05.2005: Introduction Art. 139b; entrée en vigueur au 01.07.2005 · Modif. 33 du 20.11.2012: Modification Al. t,1; entrée en vigueur au 01.07.2013; Introduction Al. 2-5; entrée en vigueur au 01.07.2013
-[^139b-1]: Loi du 16.05.1989 sur l'exercice des droits politiques ( [LOI du 05.10.2021 sur l'exercice des droits politiques (LEDP; BLV 160.01)](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=a55eea67-87d6-4dd7-8ebe-54cc175d7b3b))
+[^139b-1]: Loi du 05.10.2021 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=a55eea67-87d6-4dd7-8ebe-54cc175d7b3b))
 
 #### Art. 140
 
