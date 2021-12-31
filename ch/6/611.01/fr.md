@@ -4,11 +4,11 @@ title: Ordonnance du 5 avril 2006 sur les finances de la Confédération (OFC)
 short: OFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/228"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2006-04-05
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-228-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-228-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20210101/fr"
 
 (OFC)
 
-du 5 avril 2006 (Etat le 1<sup>er</sup> janvier 2021)
+du 5 avril 2006 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -180,24 +180,17 @@ Dans le plan intégré des tâches et des finances (PITF) annuel, sont applicabl
 
 #### Art. 10
 
-**Définitions**
+**Définitions**[^10-1]
 
 ### (art. 21 ss et 63, al. 2, let. d, LFC)
 
-<sup>1</sup> Le *crédit* *d’engagement* autorise à engager, pour un projet unique ou un groupe de projets similaires, des dépenses jusqu’à concurrence du plafond autorisé.
+<sup>1</sup> Le *crédit d’engagement* autorise à engager, pour un projet unique ou un groupe de projets similaires, des dépenses jusqu’à concurrence du plafond autorisé.
 
 <sup>2</sup> Le *crédit additionnel* complète un crédit d’engagement jugé insuffisant.
 
-<sup>3</sup> Le *crédit d’ensemble* regroupe plusieurs crédits d’engagement spécifiés par l’Assemblée fédérale.
+<sup>3</sup> Le *transfert de crédit* est le pouvoir conféré expressément au Conseil fédéral, par voie d’arrêté fédéral simple, de modifier la répartition des crédits d’engagement.
 
-<sup>4</sup> Le *transfert de crédit* est le pouvoir conféré expressément au Conseil fédéral, par voie d’arrêté fédéral simple, de modifier la répartition des crédits d’engagement à l’intérieur d’un crédit d’ensemble.[^10-1]
-
-<sup>5</sup> Le *crédit-cadre* est un crédit d’engagement assorti d’un pouvoir de délégation; le Conseil fédéral ou l’unité administrative peut, dans les limites de l’objectif défini par l’Assemblée fédérale, libérer des crédits d’engagement jusqu’à concurrence du crédit-cadre voté.
-
-<sup>6</sup> ...[^10-2]
-
-[^10-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
-[^10-2]: Abrogé par le ch. I de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 11
 
@@ -213,11 +206,15 @@ Il n’est pas requis de crédit d’engagement:
 
   lorsque dans le cas d’espèce les coûts totaux sont inférieurs à dix millions de francs:
 
-  - 1\. pour la location d’immeubles de longue durée,
+  - 1\.[^11-1] pour la conclusion de contrats de location d’immeubles de longue durée,
+  - 1<sup>bis</sup>.[^11-2] pour la conclusion de contrats de droit de superficie,
   - 2\. pour l’acquisition de biens d’équipement excepté dans la branche de la construction et de l’immobilier,
   - 3\. pour l’acquisition de prestations de service;
 
 - b. pour l’engagement d’employés.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^11-2]: Introduit par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 12
 
@@ -247,13 +244,13 @@ Les demandes de crédit des unités administratives doivent satisfaire aux exige
 
 #### Art. 14
 
-**Liste des projets, ouverture de crédits**
+**Ouverture de crédits**[^14-1]
 
 ### (art. 24 LFC)
 
-<sup>1</sup> Les demandes de crédits d’ensemble sont accompagnées d’une liste détaillée des projets établie selon un schéma déterminé. L’Administration des finances détermine le schéma.
+À moins que l’acte portant ouverture du crédit ne déclare expressément le Conseil fédéral compétent, les départements décident des montants à débloquer sur les crédits d’engagement selon l’art. 24 LFC. Les départements peuvent déléguer cette compétence aux services qui leur sont subordonnés.
 
-<sup>2</sup> À moins que l’acte portant ouverture du crédit ne déclare expressément le Conseil fédéral compétent, les départements décident des montants à débloquer sur les crédits-cadres. Les départements peuvent déléguer cette compétence aux services qui leur sont subordonnés.
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 15
 
@@ -413,9 +410,9 @@ Les demandes des unités administratives doivent satisfaire aux exigences suivan
 
 <sup>1</sup> Le Conseil fédéral soumet les demandes de crédits supplémentaires à l’Assemblée fédérale lors de la session d’été (premier supplément) ou de la session d’hiver (second supplément).
 
-<sup>2</sup> Avec l’assentiment préalable de la Délégation des finances, le Conseil fédéral autorise les charges et les dépenses d’investissement urgentes sous la forme de crédits provisoires, sous réserve de l’art. 34, al. 3, LFC.[^24-1]
+<sup>2</sup> Avec l’assentiment préalable de la Délégation des finances, le Conseil fédéral autorise les charges et les dépenses d’investissement urgentes sous la forme de crédits provisoires, sous réserve de l’art. 36, al. 1, LFC.[^24-1]
 
-[^24-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 25
 
@@ -431,25 +428,32 @@ Un crédit provisoire n’est ouvert que si la décision concernant des charges 
 
 **Report de crédits**
 
-### (art. 36 LFC)
+### (art. 37 LFC)
+
+[^26-1]
 
 <sup>1</sup> Les reports de crédits sont en règle générale décidés par le Conseil fédéral lors de l’adoption des messages sur les deux suppléments budgétaires.
 
-<sup>2</sup> Le Conseil fédéral reprend telles quelles les demandes de l’Assemblée fédérale, des tribunaux fédéraux, du Contrôle des finances, du Ministère public de la Confédération et de l’Autorité de surveillance du Ministère public de la Confédération portant sur le report de crédits approuvés avec leurs budgets.[^26-1]
+<sup>2</sup> Le Conseil fédéral reprend telles quelles les demandes de l’Assemblée fédérale, des tribunaux fédéraux, du Contrôle des finances, du Ministère public de la Confédération et de l’Autorité de surveillance du Ministère public de la Confédération portant sur le report de crédits approuvés avec leurs budgets.[^26-2]
 
 <sup>3</sup> Si la rallonge nécessaire est supérieure à l’éventuel solde non utilisé de l’exercice précédent, il y a lieu de solliciter un crédit supplémentaire pour la totalité du montant.
 
 <sup>4</sup> Le solde non utilisé reporté peut être affecté l’année suivante uniquement au projet auquel il était destiné.
 
-[^26-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^26-2]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
 
 #### Art. 27
 
 **Procédure applicable aux crédits supplémentaires, aux reports de crédits et aux dépassements de crédits**
 
-### (art. 33 à 36 LFC)
+### (art. 33 à 37 LFC)
+
+[^27-1]
 
 <sup>1</sup> Lorsqu’un crédit budgétaire ne suffit pas à financer une charge ou une dépense d’investissement inéluctable, l’unité administrative sollicite sans tarder un crédit supplémentaire, un report de crédit ou un dépassement de crédit.
+
+<sup>1bis</sup> Si la rallonge nécessaire est supérieure au dépassement de crédit autorisé selon l’art. 36, al. 2, LFC, il y a lieu de solliciter un crédit supplémentaire pour la totalité du montant.[^27-2]
 
 <sup>2</sup>
 
@@ -459,19 +463,16 @@ Le crédit est dûment justifié dans la demande, laquelle expose en outre les p
 - b. tout retard entraînerait de graves inconvénients;
 - c. le paiement ne saurait être ajourné jusqu’au prochain budget.
 
-<sup>3</sup> En cas de demande de crédit provisoire, l’urgence doit être dûment attestée.[^27-1]
+<sup>3</sup> En cas de demande de crédit provisoire, l’urgence doit être dûment attestée.[^27-3]
 
-<sup>4</sup>
-
-Lors de la clôture des comptes, les unités administratives doivent justifier:
-
-- a. les dépassements des enveloppes budgétaires au sens de l’art. 35, let. a, LFC;
-- b. les dépassements de crédits pour des charges non budgétisées au sens de l’art. 35, let. b, LFC.[^27-2]
+<sup>4</sup> Lors de la clôture des comptes, les unités administratives doivent justifier les dépassements de crédits fondés sur l’art. 36 LFC.[^27-4]
 
 <sup>5</sup> Les demandes sont adressées à l’Administration des finances.
 
-[^27-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
-[^27-2]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^27-2]: Introduit par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^27-3]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
+[^27-4]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 ### Section 4**** Charges et investissements de l’administration
 
@@ -633,9 +634,12 @@ Les principes suivants régissent la tenue des comptes:
 La comptabilisation doit avoir lieu:
 
 - a. pour les livraisons de marchandises et les prestations de service: pendant la période comptable où la marchandise est livrée ou la prestation fournie;
-- b. pour l’impôt fédéral direct: pendant la période comptable où les cantons versent les recettes fiscales à la Confédération;
-- c. pour les autres impôts: pendant la période comptable où naît l’obligation;
+- b.[^29-1] …
+- c.[^29-2] pour les impôts: pendant la période comptable où naît l’obligation;
 - d. pour les subventions: pendant la période comptable où naît l’obligation de verser la subvention.
+
+[^29-1]: Abrogée par le ch. I de l’O du 10 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^29-2]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 30
 
@@ -647,11 +651,15 @@ Le remboursement de charges ou de dépenses d’investissement remontant aux exe
 
 #### Art. 31
 
-**Conservation des pièces justificatives**
+**Conservation des livres et des pièces comptables**[^31-1]
 
 ### (art. 38 LFC)
 
-Les unités administratives conservent les pièces justificatives avec la comptabilité pendant dix ans. Les unités administratives dont les prestations sont assujetties à la taxe sur la valeur ajoutée conservent tous les documents relatifs aux objets immobiliers pendant vingt ans.
+<sup>1</sup> Les unités administratives conservent les livres et les pièces comptables pendant dix ans. Ce délai court à compter de la fin de l’exercice. Les obligations de conservation prévues dans des lois spéciales sont réservées.
+
+<sup>2</sup> Les livres et les pièces comptables sont conservés sur support électronique. Le lien avec les transactions et les autres faits sur lesquels ils portent doit être garanti, et leur lecture doit rester possible en toutes circonstances.
+
+[^31-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 32
 
@@ -711,91 +719,45 @@ L’inventaire matériel et l’inventaire comptable des biens immobiliers indiq
 
 <sup>2</sup> L’Administration des finances édicte les directives nécessaires en accord avec le Contrôle des finances et après consultation des départements.
 
-<sup>3</sup> Les directeurs des unités administratives sont responsables de l’introduction, de l’utilisation et de la supervision du système de contrôle dans leur domaine de compétence.
+<sup>3</sup> Les directeurs des unités administratives sont responsables de l’introduction, de l’utilisation et du pilotage d’un système de contrôle interne approprié dans leur domaine de compétence.[^36-1]
+
+[^36-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 37
 
-**Signature des pièces justificatives**[^37-1]
+**Signature**[^37-1]
 
 ### (art. 39 LFC)
 
-<sup>1</sup> Les pièces justificatives émanant de tiers ou d’autres unités administratives sont visées par deux personnes; l’Administration des finances peut autoriser les représentations étrangères à munir leurs pièces justificatives d’une seule signature.
+<sup>1</sup> L’approbation de pièces comptables et l’autorisation de paiements requièrent deux signatures. L’Administration fédérale des finances (AFF) peut, en accord avec le Contrôle des finances, autoriser des dérogations.
 
-<sup>2</sup>
+<sup>2</sup> La personne qui approuve des pièces comptables et autorise des paiements atteste ce faisant leur exactitude.
 
-Une signature suffit:
-
-- a.
-
-  lorsque la commande et la facturation sont gérées par un système électronique, pour autant:
-
-  - 1\. que la commande soit visée par deux personnes,
-  - 2\. que le système procède à l’ajustement entre la commande et la facture, et
-  - 3\. que les écarts de quantités et de prix ne dépassent pas les marges de tolérance;
-
-- b. lorsque l’acquisition d’une prestation fait l’objet d’une convention avec une autre unité administrative;
-- c. lorsque le montant total de la facture ne dépasse pas 500 francs;
-- d.[^37-2] pour l’approbation d’un décompte de frais.
-
-<sup>2bis</sup> Les unités administratives vérifient mensuellement à l’aide d’un extrait du journal la plausibilité du montant total des décomptes de frais autorisés pour chaque collaborateur.[^37-3]
-
-<sup>3</sup> L’Administration des finances édicte, en accord avec le Contrôle des finances, des directives sur les marges de tolérance au sens de l’al. 2, let. a, ch. 3.
+<sup>3</sup> La compétence d’autoriser des paiements peut être déléguée à un centre de services de l’administration fédérale.
 
 <sup>4</sup>
 
-Aucune signature n’est exigée lorsque les conditions énumérées à l’al. 2, let. a, sont remplies et que de surcroît la livraison:
+L’approbation et l’autorisation données par voie électronique sont assimilées à la signature manuscrite si les conditions suivantes sont réunies:
 
-- a. est vérifiée par le système qui en saisit la valeur et le volume, et
-- b. fait partie intégrante de l’ajustement électronique entre la commande et la facture.
+- a. l’identification, l’authentification et l’autorisation des personnes qui délivrent les approbations ou les autorisations sont garanties;
+- b. la traçabilité de l’approbation ou de l’autorisation est assurée;
+- c. l’intégrité des données relatives aux pièces comptables et des processus d’approbation et d’autorisation documentés est assurée.
 
-<sup>5</sup> La personne qui signe les pièces justificatives atteste ce faisant leur régularité et leur exactitude.
+<sup>5</sup> Les directeurs des unités administratives sont responsables de l’application des règles prévues dans le présent article et dans les directives de AFF. Cette application doit correspondre à l’attribution des tâches et des compétences de l’unité administrative.
 
-[^37-1]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
-[^37-2]: Introduite par le ch. I de l’O du 13 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5013](https://fedlex.data.admin.ch/eli/oc/2010/710)).
-[^37-3]: Introduit par le ch. I de l’O du 13 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5013](https://fedlex.data.admin.ch/eli/oc/2010/710)).
+[^37-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
-#### Art. 37a
+#### Art. 37a et 37b
 
-**Signature en cas d’autorisation d’exécuter des ordres de paiement et de bonification entre unités administratives**[^37a-1]
+[^37a37b-1]
 
-### (art. 39 LFC)
-
-<sup>1</sup> L’autorisation donnée à la comptabilité centrale d’exécuter des mandats de paiement en faveur de tiers ou des ordres de bonification en faveur d’autres unités administratives requiert la double signature.
-
-<sup>2</sup> Lorsque les bonifications entre unités administratives sont gérées par un système électronique, une approbation des justificatifs par le bénéficiaire de la prestation suffit.
-
-<sup>3</sup> La personne qui signe les mandats de paiement atteste ce faisant leur régularité.
-
-<sup>4</sup> La compétence d’autoriser l’exécution de mandats de paiement peut être déléguée à un centre de services de l’administration fédérale.
-
-[^37a-1]: Introduit par le ch. I de l’O du 5 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
-
-#### Art. 37b
-
-**Approbation et autorisation par voie électronique pour les opérations de paiement entre unités administratives**[^37b-1]
-
-L’approbation et l’autorisation d’exécuter données par voie électronique pour les justificatifs, les mandats de paiement et les ordres de bonification entre unités administratives sont assimilées à la signature manuscrite:
-
-- a. si l’identification, l’authentification et l’autorisation des personnes qui délivrent les approbations ou les autorisations sont garanties;
-- b. si la traçabilité de l’approbation est assurée, et
-- c. si l’intégrité des données relatives aux pièces justificatives et des processus d’approbation documentés est assurée.
-
-[^37b-1]: Introduit par le ch. I de l’O du 5 déc. 2008 ([RO 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Nouvelle teneur selon le ch. I de l’O du 21 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1599](https://fedlex.data.admin.ch/eli/oc/2012/230)).
+[^37a37b-1]: Introduits par le ch. I de l’O du 5 déc. 2008 ([RO 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Abrogés par le ch. I de l’O du 10 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 38
 
-**Compétences concernant les pièces justificatives et les mandats de paiement**
+[^38-1]
 
-### (art. 39 LFC)
-
-<sup>1</sup>
-
-Les directeurs des unités administratives désignent les personnes compétentes pour:
-
-- a. enregistrer et viser les pièces justificatives;
-- b. valider et signer les mandats de paiement.
-
-<sup>2</sup> Le nom, la signature et l’identification électronique des personnes autorisées à signer les mandats de paiement doivent être communiqués à l’Administration des finances.
+[^38-1]: Abrogé par le ch. I de l’O du 10 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 39
 
@@ -840,7 +802,12 @@ L’Administration des finances peut autoriser une imputation des prestations av
 - c. ont un caractère commercial.
 - [tab] <sup>2</sup> Elle fixe dans un catalogue les prestations pouvant être imputées.
 
-<sup>3</sup> La prestation est calculée au coût complet. Pour les coûts de logement, est facturé en règle générale un loyer correspondant aux conditions du marché.
+<sup>3</sup> La prestation est calculée selon la méthode des coûts complets. Si elle est fournie à des tiers contre rémunération, le même prix s’applique lors de l’imputation interne des prestations. Les coûts liés à l’utilisation des bâtiments sont calculés en règle générale aux conditions du marché.[^41-1]
+
+<sup>4</sup> L’AFF peut accorder des dérogations au calcul fondé sur les coûts complets durant le lancement de la prestation, si l’unité administrative fournissant la prestation démontre que celle-ci permettra de réaliser des économies de gamme ou d’échelle. L’AFF règle les détails dans des directives.[^41-2]
+
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^41-2]: Introduit par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 ### Section 5**** Traitement des données personnelles
 
@@ -1005,15 +972,9 @@ L’Administration des finances édicte des directives sur:
 
 #### Art. 52a
 
-**Collaboration avec des partenaires privés («Public Private Partnership»)**[^52a-1]
+[^52a-1]
 
-### (art. 39 et 57 LFC)
-
-<sup>1</sup> Dans l’accomplissement des tâches, les unités administratives examinent, s’il y a lieu, la possibilité de collaborer à plus long terme, sur des bases contractuelles, avec des partenaires privés.
-
-<sup>2</sup> L’Administration des finances règle les détails dans des directives.
-
-[^52a-1]: Introduit par le ch. I de l’O du 5 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
+[^52a-1]: Introduit par le ch. I de l’O du 5 déc. 2008 ([RO 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Abrogé par le ch. I de l’O du 10 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 ## Chapitre 4 Établissement des comptes
 
@@ -1025,139 +986,26 @@ L’Administration des finances édicte des directives sur:
 
 ### (art. 10 et 48 LFC)
 
-<sup>1</sup> L’établissement des comptes est régi par les normes comptables internationales pour le secteur public (*International Public Sector Accounting Standards*, IPSAS).
+<sup>1</sup> L’établissement des comptes est régi par les normes comptables internationales pour le secteur public (*International Public Sector Accounting Standards*, IPSAS)[^53-2].
 
-<sup>2</sup> Les différences par rapport aux normes IPSAS sont réglées dans l’annexe 2 et justifiées dans l’annexe aux comptes annuels.
+<sup>2</sup> Les principales dérogations aux IPSAS sont réglées dans l’annexe 2 et motivées dans l’annexe des comptes annuels.
 
-[^53-1]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^53-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^53-2]: www.ifac.org/public-sector
 
 #### Art. 54
 
-**Principes**
+[^54-1]
 
-### (art. 47 LFC)
+[^54-1]: Abrogé par le ch. I de l’O du 10 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
-Les comptes sont établis selon les principes suivants:
+### Section 2 …
 
-- a. l’*importance:* il convient de présenter toutes les informations nécessaires pour permettre une appréciation rapide et complète de l’état de la fortune, des finances et des revenus;
-- b. la *clarté:* les informations doivent être claires et compréhensibles;
-- c. la *permanence des méthodes comptables:* les principes régissant l’établissement du budget ainsi que la tenue et l’établissement des comptes doivent dans toute la mesure du possible rester inchangés sur une longue période;
-- d. le *produit brut:* l’art. 19, al. 1, let. a, est applicable par analogie.
+#### Art. 55 à 60
 
-### Section 2 Bilan et évaluation
+[^5560-1]
 
-#### Art. 55
-
-**Principes régissant l’établissement du bilan**
-
-### (art. 49 LFC)
-
-<sup>1</sup> Les éléments de fortune et les engagements sont inscrits au bilan de la période comptable conformément aux conditions requises à l’art. 49 LFC pour l’inscription à l’actif ou au passif.
-
-<sup>2</sup> Une inscription au bilan n’est pas nécessaire tant qu’une certaine limite déterminante pour l’inscription à l’actif ou au passif n’est pas atteinte. Dans la mesure où de telles limites ne ressortent pas de la loi ou de l’ordonnance, elles sont fixées par l’Administration des finances.
-
-<sup>3</sup> L’Administration des finances édicte dans des directives les conditions auxquelles une inscription au passif peut, à titre exceptionnel, être effectuée de façon groupée.[^55-1]
-
-<sup>4</sup>
-
-Des inscriptions à l’actif peuvent être effectuées de façon groupée pour:
-
-- a. les routes nationales;
-- b. le matériel d’armement;
-- c. le mobilier standard;
-- d. le matériel informatique.[^55-2]
-
-<sup>5</sup> L’Administration des finances publie des directives relatives aux inscriptions à l’actif effectuées de façon groupée.[^55-3]
-
-[^55-1]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^55-2]: Introduit par le ch. I de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^55-3]: Introduit par le ch. I de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-
-#### Art. 56
-
-**Seuils déterminants pour l’inscription à l’actif ou au passif**
-
-### (art. 49 LFC)
-
-<sup>1</sup>
-
-Les dépenses d’investissement sont inscrites à l’actif par objet à partir des montants suivants:[^56-1]
-
-- a. pour les immeubles: à partir de 100 000 francs;
-- b. pour les biens meubles: à partir de 5000 francs;
-- c. pour les immobilisations incorporelles: à partir de 100 000 francs.
-
-<sup>2</sup> Des provisions doivent être constituées à partir d’un montant de 500 000 francs.
-
-<sup>3</sup>
-
-Des régularisations dans le temps sont opérées:[^56-2]
-
-- a. dans le domaine propre de l’administration: à partir d’un montant de 100 000 francs;
-- b.[^56-3] dans le domaine des subventions: à partir d’un montant d’un million de francs, en accord avec l’Administration des finances;
-- c.[^56-4] dans le domaine des recettes fiscales: à partir d’un montant d’un million de francs.
-
-[^56-1]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^56-2]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
-[^56-3]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
-[^56-4]: Introduite par le ch. I de l’O du 5 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
-
-#### Art. 57
-
-**Principes d’évaluation**
-
-### (art. 50 LFC)
-
-<sup>1</sup> Les éléments de fortune et engagements de même nature sont regroupés en classes. Les mêmes principes d’évaluation sont applicables à l’intérieur d’une même classe.
-
-<sup>2</sup>
-
-Pour autant que la loi ou l’ordonnance ne comportent aucune réglementation, l’Administration des finances établit:
-
-- a. les principes d’évaluation applicables à chaque classe;
-- b. les paramètres applicables à l’évaluation, en particulier la durée d’utilisation.
-
-#### Art. 58
-
-**Participations importantes**[^58-1]
-
-### (art. 50, al. 2, let. b, LFC)
-
-Les participations sont considérées comme importantes:
-
-- a. si elles représentent au moins 20 %, ou
-- b. si elles permettent d’exercer une influence déterminante.
-
-[^58-1]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-
-#### Art. 59
-
-**Amortissements et réévaluations**
-
-### (art. 51 LFC)
-
-<sup>1</sup> L’amortissement des immobilisations corporelles selon la planification s’effectue de manière linéaire et par classe.
-
-<sup>2</sup> La réévaluation de créances supérieures à 100 000 francs s’effectue de façon séparée pour chaque créance. Les autres créances sont réévaluées de manière forfaitaire, en fonction de leur âge et sur la base de valeurs empiriques.
-
-<sup>3</sup> Les contributions à des investissements sont réévaluées intégralement au cours de l’exercice où elles ont été versées. Elles ne figurent pas au bilan.
-
-<sup>4</sup>
-
-Les stocks sont amortis totalement ou en partie:
-
-- a. s’ils ne sont plus utilisés;
-- b. s’ils ont perdu la totalité ou une partie de leur valeur économique.
-
-<sup>5</sup> Des amortissements et des réévaluations sans planification ne sont effectués que si le montant correspondant peut être déterminé de manière fiable et compréhensible.
-
-#### Art. 60
-
-**Présentation**
-
-### (art. 10 LFC)
-
-L’Administration des finances fixe la manière dont les informations qui doivent être présentées dans l’annexe des comptes annuels sont collectées et élaborées.
+[^5560-1]: Abrogés par le ch. I de l’O du 10 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 ### Section 3 Modes de financement spéciaux
 
@@ -1207,66 +1055,25 @@ S’agissant des libéralités qui ne ressortissent pas au Département des fina
 
 <sup>3</sup> Lorsqu’il s’agit d’une libéralité pure et simple ou que l’affectation prévue ne peut plus être réalisée, l’organe compétent statue sur l’utilisation des fonds.
 
-### Section 4**** Compte consolidé
-
-[^chap4-sec4-1]
-
-[^chap4-sec4-1]: Introduite par le ch. I de l’O du 5 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
+### Section 4 …
 
 #### Art. 64a
 
-**Exclusion de la consolidation**[^64a-1]
+[^64a-1]
 
-### (art. 55, al. 2, let. a, LFC)
-
-La caisse de pensions de la Confédération PUBLICA et la corporation Suisse Tourisme sont exclues de la présentation consolidée des comptes.
-
-[^64a-1]: Nouvelle teneur selon l’annexe 3 ch. 7 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^64a-1]: Introduit par le ch. I de l’O du 5 déc. 2008 ([RO 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Abrogé par le ch. I de l’O du 10 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 64a<sup>bis</sup>
 
-**Intégration dans la consolidation**[^64abis-1]
+[^64abis-1]
 
-### (art. 55, al. 2, let. b, LFC)
+[^64abis-1]: Introduit par le ch. I de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale) ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)). Abrogé par le ch. I de l’O du 10 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
-Sont inclus dans la consolidation globale:
+#### Art. 64b à 64d
 
-- a. les entreprises dans lesquelles la Confédération détient une participation de plus de 50 %;
-- b. les fonds de compensation de l’AVS, de l’AI, des APG et de l’AC.
+[^64b64d-1]
 
-[^64abis-1]: Introduit par le ch. I de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-
-#### Art. 64b
-
-**Principes régissant l’établissement du compte**
-
-### (art. 55, al. 3, LFC)
-
-Les principes fixés à l’art. 54 et les dispositions régissant l’établissement du bilan et l’évaluation (art. 55 à 60) s’appliquent par analogie au compte consolidé.
-
-#### Art. 64c
-
-**Normes d’établissement du compte**[^64c-1]
-
-### (art. 55, al. 3, LFC)
-
-<sup>1</sup> L’établissement du compte consolidé est régi par les normes IPSAS.
-
-<sup>2</sup> Les différences par rapport aux normes IPSAS sont réglées dans l’annexe 3 et justifiées dans l’annexe du compte consolidé.
-
-[^64c-1]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-
-#### Art. 64d
-
-**Rapport**[^64d-1]
-
-### (art. 55 LFC)
-
-<sup>1</sup> L’Administration des finances prépare, à l’intention du Conseil fédéral, le rapport sur le compte consolidé et édicte des directives à ce sujet.
-
-<sup>2</sup> Elle soumet à l’approbation du Conseil fédéral le compte consolidé en même temps que le compte d’État.
-
-[^64d-1]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^64b64d-1]: Introduits par le ch. I de l’O du 5 déc. 2008 ([RO 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Abrogés par le ch. I de l’O du 10 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 ## Chapitre 5 Tâches et compétences de l’administration fédérale
 
@@ -1280,21 +1087,17 @@ Les principes fixés à l’art. 54 et les dispositions régissant l’établiss
 
 <sup>1</sup> L’Administration des finances assure la totalité des opérations de paiement de la Confédération. Elle peut accorder des dérogations.
 
-<sup>2</sup> Les ordres de paiement, signés par l’Administration des finances, doivent être munis d’une double signature. Ceux qui proviennent des offices au bénéfice d’une dérogation de l’Administration des finances sont également munis de deux signatures; l’Administration des finances peut autoriser à titre exceptionnel les représentations étrangères à munir leurs ordres de paiement d’une seule signature.
+<sup>2</sup> …[^65-1]
 
 <sup>3</sup> Les unités administratives sont tenues de s’acquitter dans les délais de leurs obligations de paiement.
 
+[^65-1]: Abrogé par le ch. I de l’O du 10 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+
 #### Art. 65a
 
-**Approbation et autorisation par voie électronique de paiements à des bénéficiaires externes à l’administration**[^65a-1]
+[^65a-1]
 
-L’approbation et l’autorisation par voie électronique de paiements à des bénéficiaires externes à l’administration sont assimilées à la signature manuscrite:
-
-- a. si l’identification, l’authentification et l’autorisation des personnes qui délivrent les approbations ou les autorisations sont garanties;
-- b. si la traçabilité de l’approbation est assurée, et
-- c. si l’intégrité des données relatives aux pièces justificatives et des processus d’approbation documentés est assurée.
-
-[^65a-1]: Introduit par le ch. I de l’O du 21 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1599](https://fedlex.data.admin.ch/eli/oc/2012/230)).
+[^65a-1]: Introduit par le ch. I de l’O du 21 mars 2012 ([RO 2012 1599](https://fedlex.data.admin.ch/eli/oc/2012/230)). Abrogé par le ch. I de l’O du 10 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 66
 
@@ -1531,30 +1334,32 @@ Elle édicte des directives, notamment:
 
 - a. sur la procédure applicable aux demandes budgétaires (art. 18, al. 3);
 - a<sup>bis</sup>.[^75-1] sur le pilotage et les rapports des domaines propres des unités administratives (art. 27*i*);
+- a<sup>ter</sup>.[^75-2] sur la conservation des livres et des pièces comptables (art. 31);
 - b. sur l’aménagement de la gestion financière et de la comptabilité des unités administratives (art. 32, al. 2);
 - c. sur le plan comptable (art. 33);
 - d. sur la tenue des inventaires et les exceptions à l’obligation de tenir un inventaire (art. 34);
 - e. sur le système de contrôle interne (art. 36, al. 2);
-- f.[^75-2] sur les marges de tolérance et les exigences techniques relatives à l’approbation et à l’autorisation par voie électronique d’exécuter des opérations de paiement (art. 37, al. 3, 37*b* et 65*a*);
+- f.[^75-3] sur la signature (art. 37);
 - g. sur les paiements entre les unités administratives (art. 41);
-- h.[^75-3] ...
+- h.[^75-4] ...
 - i. sur les exigences formelles en matière de fourniture et d’administration des sûretés (art. 49);
 - j. sur la prise en charge des risques et le règlement des sinistres (art. 50, al. 3);
-- k.[^75-4] sur la conclusion de contrats de leasing (art. 52, al. 2) et sur la collaboration avec des partenaires privés (art. 52*a*, al. 2);
-- l. sur la possibilité d’effectuer l’inscription à l’actif et au passif de façon groupée (art. 55, al. 3);
-- m. sur les principes et paramètres applicables à l’évaluation (art. 57, al. 2);
-- n. sur les amortissements et les réévaluations (art. 59);
-- o. sur la présentation des informations dans l’annexe des comptes annuels (art. 60);
-- [tab] o<sup>bis</sup>.[^75-5]sur les rapports relatifs au compte consolidé (art. 64*d*);
+- k.[^75-5] sur la conclusion de contrats de *leasing* (art. 52, al. 2);
+- l.[^75-6] sur l’établissement du bilan et l’évaluation, la présentation et le compte consolidé (art. 53);
+- m. à o.[^75-7] …
+- [tab] o<sup>bis</sup>.[^75-8]…
 - p. sur l’encaissement et l’exécution forcée (art. 67 à 69);
-- q.[^75-6] sur l’assurance contre les risques de change (art. 70*a*).
+- q.[^75-9] sur l’assurance contre les risques de change (art. 70*a*).
 
 [^75-1]: Introduite par le ch. I de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^75-2]: Nouvelle teneur selon le ch. I de l’O du 21 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1599](https://fedlex.data.admin.ch/eli/oc/2012/230)).
-[^75-3]: Abrogée par le ch. I de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^75-4]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
-[^75-5]: Introduite par le ch. I de l’O du 5 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
-[^75-6]: Introduite par le ch. I de l’O du 5 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
+[^75-2]: Introduite par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^75-3]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^75-4]: Abrogée par le ch. I de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^75-5]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^75-6]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^75-7]: Abrogées par le ch. I de l’O du 10 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^75-8]: Introduite par le ch. I de l’O du 5 déc. 2008 ([RO 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Abrogée par le ch. I de l’O du 10 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^75-9]: Introduite par le ch. I de l’O du 5 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
 
 #### Art. 76
 
@@ -1611,31 +1416,18 @@ Annexe 2*[^t-2]*
 
 (art. 53, al. 2)
 
-## Compte de la Confédération: différences par rapport aux normes IPSAS
+## Compte de la Confédération: dérogations aux IPSAS
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 <table>
-<tr><th>N°</th><th>IPSAS</th><th>N°</th><th>Différence</th></tr>
-<tr><td>1</td><td>Principe du *fait générateur* (comptabilité basée sur l’exercice; *accrual accounting*)</td><td>1</td><td>La rémunération au titre de la retenue d’impôt UE est comptabilisée au moment où elle est versée à la Confédération (principe de la comptabilité de caisse, *cash* *accounting*).</td></tr>
+<tr><td>N<sup>o</sup></td><td>IPSAS</td><td>N<sup>o</sup></td><td>Dérogation</td></tr>
 <tr><td>17</td><td>*Critères requis pour figurer à l’actif:* avantages économiques ou utilité économique potentielle pour l’accomplissement des tâches publiques (potentiel de service)</td><td>17</td><td>Matériel d’armement: seuls les systèmes principaux issus des programmes d’armement figurent à l’actif. Les autres biens d’armement pouvant être portés à l’actif ne sont pas inscrits au bilan.</td></tr>
-<tr><td>18</td><td>*Information sectorielle*</td><td>18</td><td>Aucune information sectorielle n’est établie. Les dépenses sont présentées par groupe de tâches dans le Commentaire sur le compte d’État. Elles sont toutefois exposées dans l’optique du financement, et non pas dans celle du compte de résultat, et sans indication des valeurs inscrites au bilan.</td></tr>
-<tr><td>23</td><td>Revenus de transactions sans contre-prestation imputable</td><td>23.1</td><td>Les revenus de l’impôt fédéral direct sont comptabilisés au moment où ils sont versés à la Confédération par les cantons (principe de la comptabilité de caisse, *cash accounting*).</td></tr>
-<tr><td></td><td></td><td>23.2</td><td>Les revenus de la taxe sur la valeur ajoutée et de la redevance sur le trafic des poids lourds liée aux prestations (RPLP) sont comptabilisés avec un décalage d’un trimestre.</td></tr>
+<tr><td>18</td><td>*Information sectorielle*</td><td>18</td><td>Aucune information sectorielle n’est établie. Les dépenses sont présentées par groupe de tâches dans le commentaire sur le compte d’État. Elles sont toutefois exposées dans l’optique du financement, et non pas dans celle du compte de résultats, et sans indication des valeurs inscrites au bilan.</td></tr>
+<tr><td>23</td><td>Revenus de transactions sans contre-prestation imputable</td><td>23.1</td><td>Les revenus de l’impôt fédéral direct sont comptabilisés selon le principe des créances acquises, et non pas selon celui de la comptabilité d’exercice. Pour des raisons administratives, les revenus sont enregistrés un mois après que les cantons ont facturé l’impôt aux contribuables.</td></tr>
+<tr><td></td><td></td><td>23.2</td><td>Les revenus de la taxe sur la valeur ajoutée et de la redevance sur le trafic des poids lourds liée aux prestations sont comptabilisés avec un décalage d’un trimestre.</td></tr>
 </table>
 
 Annexe 3*[^t-3]*
 
-(art. 64*c*, al. 2)
-
-## Compte consolidé de la Confédération: différences par rapport aux normes IPSAS
-
-[^t-3]: Introduite par le ch. II al. 2 de l’O du 5 déc. 2008 ([RO 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Nouvelle teneur selon le ch. II de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
-
-<table>
-<tr><th>N°</th><th>IPSAS</th><th>N°</th><th>Différence</th></tr>
-<tr><td>1</td><td>Principe du *fait générateur* (comptabilité basée sur l’exercice; *accrual accounting*)</td><td>1</td><td>La rémunération au titre de la retenue d’impôt UE est comptabilisée au moment où elle est versée à la Confédération (principe de la comptabilité de caisse, *cash* *accounting*).</td></tr>
-<tr><td>17</td><td>*Critères requis pour figurer à l’actif:* avantages économiques ou utilité économique potentielle pour l’accomplissement des tâches publiques (potentiel de service)</td><td>17</td><td>Matériel d’armement: seuls les systèmes principaux issus des programmes d’armement figurent à l’actif. Les autres biens d’armement pouvant être portés à l’actif ne sont pas inscrits au bilan.</td></tr>
-<tr><td>23</td><td>Revenus de transactions sans contre-prestation imputable</td><td>23.1</td><td>Les revenus de l’impôt fédéral direct sont comptabilisés au moment où ils sont versés à la Confédération par les cantons (principe de la comptabilité de caisse, *cash accounting*).</td></tr>
-<tr><td></td><td></td><td>23.2</td><td>Les revenus de la taxe sur la valeur ajoutée et de la redevance sur le trafic des poids lourds liée aux prestations (RPLP) sont comptabilisés avec un décalage d’un trimestre.</td></tr>
-</table>
+[^t-3]: Introduite par le ch. II al. 2 de l’O du 5 déc. 2008 ([RO 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Abrogée par le ch. II al. 2 de l’O du 10 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).

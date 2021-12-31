@@ -4,11 +4,11 @@ title: Finanzhaushaltverordnung vom 5. April 2006 (FHV)
 short: FHV
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/228"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2006-04-05
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2006-228-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2006-228-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20210101/de"
 
 (FHV)
 
-vom 5. April 2006 (Stand am 1. Januar 2021)
+vom 5. April 2006 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -61,8 +61,8 @@ Soweit Gesetz und Verordnung nichts anderes bestimmen, sind die Bestimmungen die
 
 Sonderrechnungen werden geführt durch:
 
-- a.[^2-1] ...
-- b.[^2-2] ...
+- a.[^2-1] …
+- b.[^2-2] …
 - c.[^2-3] den Bahninfrastrukturfonds;
 - d.[^2-4] den Fonds für die Nationalstrassen und den Agglomerationsverkehr.
 
@@ -180,7 +180,7 @@ Für den jährlichen integrierten Aufgaben- und Finanzplan (IAFP) gelten sinngem
 
 #### Art. 10
 
-**Begriffe**
+**Begriffe**[^10-1]
 
 ### (Art. 21 ff. und 63 Abs. 2 Bst. d FHG)
 
@@ -188,15 +188,9 @@ Für den jährlichen integrierten Aufgaben- und Finanzplan (IAFP) gelten sinngem
 
 <sup>2</sup> Der *Zusatzkredit* ist die Ergänzung eines nicht ausreichenden Verpflichtungskredites.
 
-<sup>3</sup> Der *Gesamtkredit* fasst mehrere, von der Bundesversammlung einzeln spezifizierte Verpflichtungskredite zusammen.
+<sup>3</sup> Die *Kreditverschiebung* ist die dem Bundesrat mit einfachem Bundesbeschluss ausdrücklich erteilte Befugnis, einen Verpflichtungskredit zulasten eines anderen zu erhöhen.
 
-<sup>4</sup> Die *Kreditverschiebung* ist die dem Bundesrat mit einfachem Bundesbeschluss ausdrücklich erteilte Befugnis, innerhalb eines Gesamtkredites einen Verpflichtungskredit zulasten eines anderen zu erhöhen.
-
-<sup>5</sup> Der *Rahmenkredit* ist ein Verpflichtungskredit mit delegierter Spezifikationsbefugnis, bei dem der Bundesrat oder die Verwaltungseinheit im Rahmen des von der Bundesversammlung allgemein umschriebenen Zwecks bis zum bewilligten Kreditbetrag einzelne Verpflichtungskredite ausscheiden kann.
-
-<sup>6</sup> ...[^10-1]
-
-[^10-1]: Aufgehoben durch Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), mit Wirkung seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^10-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 11
 
@@ -210,11 +204,15 @@ Keine Verpflichtungskredite werden eingeholt:
 
   wenn die Gesamtkosten im Einzelfall weniger als 10 Millionen Franken betragen:
 
-  - 1\. für die längerfristige Miete von Liegenschaften,
+  - 1\.[^11-1] für den Abschluss von längerfristigen Mietverträgen von Liegenschaften,
+  - 1<sup>bis</sup>.[^11-2] für den Abschluss von Baurechtsverträgen,
   - 2\. für die Beschaffung von Sachgütern ausserhalb des Bau- und Liegenschaftsbereichs,
   - 3\. für die Beschaffung von Dienstleistungen;
 
 - b. für die Anstellung von Bundespersonal.
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^11-2]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 12
 
@@ -244,13 +242,13 @@ Die Kreditbegehren der Verwaltungseinheiten müssen folgenden Anforderungen gen�
 
 #### Art. 14
 
-**Verzeichnis der Vorhaben, Kreditfreigaben**
+**Kreditfreigaben**[^14-1]
 
 ### (Art. 24 FHG)
 
-<sup>1</sup> Zusammen mit dem Begehren um einen Gesamtkredit muss ein detailliertes Verzeichnis der Vorhaben nach einem bestimmten Schema eingereicht werden. Die Finanzverwaltung legt dieses Schema fest.
+Über Kreditfreigaben aus Verpflichtungskrediten nach Artikel 24 FHG entscheiden die Departemente, sofern in der Kreditbewilligung nicht ausdrücklich der Bundesrat für zuständig erklärt wurde. Die Departemente können die Zuständigkeit nachgeordneten Stellen übertragen.
 
-<sup>2</sup> Über Kreditfreigaben aus Rahmenkrediten entscheiden die Departemente, sofern in der Kreditbewilligung nicht ausdrücklich der Bundesrat für zuständig erklärt wurde. Die Departemente können die Zuständigkeit nachgeordneten Stellen übertragen.
+[^14-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 15
 
@@ -409,9 +407,9 @@ Die Eingaben der Verwaltungseinheiten müssen folgenden Anforderungen genügen:
 
 <sup>1</sup> Der Bundesrat unterbreitet der Bundesversammlung die Nachtragskreditbegehren in der Sommersession (Nachtrag I) oder in der Wintersession (Nachtrag II).
 
-<sup>2</sup> Dringliche Aufwände und dringliche Investitionsausgaben werden vom Bundesrat unter Vorbehalt von Artikel 34 Absatz 3 FHG mit vorgängiger Zustimmung der Finanzdelegation als Vorschuss bewilligt.[^24-1]
+<sup>2</sup> Dringliche Aufwände und dringliche Investitionsausgaben werden vom Bundesrat unter Vorbehalt von Artikel 36 Absatz 1 FHG mit vorgängiger Zustimmung der Finanzdelegation als Vorschuss bewilligt.[^24-1]
 
-[^24-1]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. Mai 2011 ([AS 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
+[^24-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 25
 
@@ -427,25 +425,32 @@ Vorschüsse werden nur bewilligt, wenn mit dem Aufwand oder mit der Investitions
 
 **Kreditübertragungen**
 
-### (Art 36 FHG)
+### (Art. 37 FHG)
+
+[^26-1]
 
 <sup>1</sup> Kreditübertragungen werden vom Bundesrat in der Regel zusammen mit den Botschaften zu den Nachträgen I und II beschlossen.
 
-<sup>2</sup> Der Bundesrat übernimmt Anträge der Bundesversammlung, der eidgenössischen Gerichte, der Finanzkontrolle, der Bundesanwaltschaft und der Aufsichtsbehörde über die Bundesanwaltschaft auf Übertragung der mit ihren Voranschlägen bewilligen Kredite unverändert.[^26-1]
+<sup>2</sup> Der Bundesrat übernimmt Anträge der Bundesversammlung, der eidgenössischen Gerichte, der Finanzkontrolle, der Bundesanwaltschaft und der Aufsichtsbehörde über die Bundesanwaltschaft auf Übertragung der mit ihren Voranschlägen bewilligen Kredite unverändert.[^26-2]
 
 <sup>3</sup> Übersteigt ein allfälliger Mehrbedarf den im Vorjahr nicht beanspruchten Kreditrest, so ist ein Nachtragskredit für den ganzen Betrag zu beantragen.
 
 <sup>4</sup> Ein übertragener Kreditrest darf auch im Folgejahr nur für das betreffende Vorhaben verwendet werden.
 
-[^26-1]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. Mai 2011 ([AS 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
+[^26-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^26-2]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. Mai 2011 ([AS 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
 
 #### Art. 27
 
 **Verfahren für Nachtragskredite, Kreditübertragungen und Kreditüberschreitungen**
 
-### (Art. 33–36 FHG)
+### (Art. 33–37 FHG)
+
+[^27-1]
 
 <sup>1</sup> Ist ein Aufwand oder eine Investitionsausgabe unvermeidlich und steht kein ausreichender Voranschlagskredit zur Verfügung, so beantragt die Verwaltungseinheit unverzüglich einen Nachtragskredit, eine Kreditübertragung oder eine Kreditüberschreitung.
+
+<sup>1bis</sup> Übersteigt ein Mehrbedarf die zulässige Kreditüberschreitung nach Artikel 36 Absatz 2 FHG, so ist ein Nachtragskredit für den ganzen Betrag zu beantragen.[^27-2]
 
 <sup>2</sup>
 
@@ -455,19 +460,16 @@ Im Begehren sind der Kreditbedarf eingehend zu begründen und die wichtigsten Be
 - b. deren Verzögerung zu erheblichen Nachteilen führen würde;
 - c. nicht bis zum nächsten Voranschlag gewartet werden kann.
 
-<sup>3</sup> Wird im Begehren ein Vorschuss beansprucht, so ist die Dringlichkeit eingehend nachzuweisen.[^27-1]
+<sup>3</sup> Wird im Begehren ein Vorschuss beansprucht, so ist die Dringlichkeit eingehend nachzuweisen.[^27-3]
 
-<sup>4</sup>
-
-Im Rahmen des Rechnungsabschlusses haben die Verwaltungseinheiten zu begründen:
-
-- a. Überschreitungen von Globalbudgets nach Artikel 35 Buchstabe a FHG;
-- b. Kreditüberschreitungen für nicht budgetierte Aufwände nach Artikel 35 Buchstabe b FHG.[^27-2]
+<sup>4</sup> Im Rahmen des Rechnungsabschlusses haben die Verwaltungseinheiten die Kreditüberschreitungen nach Artikel 36 FHG zu begründen.[^27-4]
 
 <sup>5</sup> Die Begehren sind bei der Finanzverwaltung einzureichen.
 
-[^27-1]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. Mai 2011 ([AS 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
-[^27-2]: Fassung gemäss Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^27-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^27-2]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^27-3]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. Mai 2011 ([AS 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
+[^27-4]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 ### 4. Abschnitt:**** Aufwände und Investitionen der Verwaltung
 
@@ -629,9 +631,12 @@ Für die Buchführung gelten die folgenden Grundsätze:
 Die Verbuchung ist vorzunehmen:
 
 - a. bei Warenlieferungen und Dienstleistungen: in der Rechnungsperiode, in der die Ware geliefert oder die Dienstleistung erbracht wird;
-- b. bei der direkten Bundessteuer: in der Rechnungsperiode, in der die Kantone dem Bund die Steuereinnahmen überweisen;
-- c. bei den übrigen Steuern: in der Rechnungsperiode, in der die Forderung entsteht;
+- b.[^29-1] …
+- c.[^29-2] bei Steuern: in der Rechnungsperiode, in der die Forderung entsteht;
 - d. bei Subventionen: in der Rechnungsperiode, in der die Verpflichtung zur Leistung der Subvention entsteht.
+
+[^29-1]: Aufgehoben durch Ziff. I der V vom 10. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^29-2]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 30
 
@@ -643,11 +648,15 @@ Rückvergütungen für Aufwand oder Investitionsausgaben früherer Jahre werden 
 
 #### Art. 31
 
-**Aufbewahrung der Belege**
+**Aufbewahrung der Geschäftsbücher und Buchungsbelege**[^31-1]
 
 ### (Art. 38 FHG)
 
-Die Verwaltungseinheiten bewahren die Belege zusammen mit der Buchhaltung während 10 Jahren auf. Verwaltungseinheiten, deren Leistungen der Mehrwertsteuer unterliegen, bewahren Geschäftsunterlagen im Zusammenhang mit unbeweglichen Gegenständen während 20 Jahren auf.
+<sup>1</sup> Die Verwaltungseinheiten bewahren die Geschäftsbücher und die Buchungsbelege während zehn Jahren auf. Die Aufbewahrungsfrist beginnt mit dem Ablauf des Geschäftsjahres. Vorbehalten bleiben spezialrechtliche Aufbewahrungspflichten.
+
+<sup>2</sup> Die Geschäftsbücher und die Buchungsbelege werden elektronisch aufbewahrt. Die Übereinstimmung mit den zugrunde liegenden Geschäftsvorfällen und Sachverhalten muss gewährleistet sein und die Geschäftsbücher und die Buchungsbelege müssen jederzeit lesbar gemacht werden können.
+
+[^31-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 32
 
@@ -705,91 +714,45 @@ Im Sach- und Wertinventar der Immobilien werden alle Grundstücke, Bauten und An
 
 <sup>2</sup> Die Finanzverwaltung erlässt im Einvernehmen mit der Finanzkontrolle und nach Rücksprache mit den Departementen die erforderlichen Weisungen.
 
-<sup>3</sup> Die Direktoren und Direktorinnen der Verwaltungseinheiten sind verantwortlich für die Einführung, den Einsatz und die Überwachung des Kontrollsystems in ihrem Zuständigkeitsbereich.
+<sup>3</sup> Die Direktorinnen und Direktoren der Verwaltungseinheiten sind verantwortlich für die Einführung, den Einsatz und die Steuerung eines angemessenen internen Kontrollsystems in ihrem Zuständigkeitsbereich.[^36-1]
+
+[^36-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 37
 
-**Unterschriftenregelung bei Rechnungsbelegen**[^37-1]
+**Unterschriftenregelung**[^37-1]
 
 ### (Art. 39 FHG)
 
-<sup>1</sup> Rechnungsbelege Dritter oder anderer Verwaltungseinheiten werden mit Doppelunterschrift genehmigt; die Finanzverwaltung kann Auslandvertretungen die Bewilligung zur Einzelunterschrift erteilen.
+<sup>1</sup> Die Genehmigung von Buchungsbelegen und die Freigabe von Zahlungen erfordern eine Doppelunterschrift. Die Eidgenössische Finanzverwaltung (EFV) kann in Absprache mit der Eidgenössischen Finanzkontrolle Ausnahmen zulassen.
 
-<sup>2</sup>
+<sup>2</sup> Wer Buchungsbelege genehmigt und Zahlungen freigibt, bestätigt damit deren Richtigkeit.
 
-Eine Einzelunterschrift genügt:
-
-- a.
-
-  bei einer systemgestützten Abwicklung von Bestellung und Rechnung, wenn:
-
-  - 1\. die Bestellung mit Doppelunterschrift erfolgt,
-  - 2\. der Abgleich zwischen Bestellung und Rechnung im System durchgeführt wird, und
-  - 3\. die mengen- und betragsmässige Abweichung zwischen Bestellung und Rechnung innerhalb der Toleranzgrenzen liegt;
-
-- b. bei einem Leistungsbezug, der mit einer anderen Verwaltungseinheit vereinbart wurde;
-- c. bei einer Rechnung mit einem Gesamtbetrag unter 500 Franken;
-- d.[^37-2] für die Genehmigung einer Spesenabrechnung.
-
-<sup>2bis</sup> Die Verwaltungseinheiten prüfen monatlich anhand eines Journalauszugs den Gesamtbetrag der für jede Mitarbeiterin und jeden Mitarbeiter genehmigten Spesenabrechnungen auf seine Plausibilität.[^37-3]
-
-<sup>3</sup> Die Finanzverwaltung erlässt im Einvernehmen mit der Finanzkontrolle Weisungen zu den Toleranzgrenzen nach Absatz 2 Buchstabe a Ziffer 3.
+<sup>3</sup> Die Kompetenz zur Freigabe von Zahlungen kann an ein Dienstleistungszentrum der Bundesverwaltung delegiert werden.
 
 <sup>4</sup>
 
-Keine Unterschrift ist erforderlich, wenn die Voraussetzungen gemäss Absatz 2 Buchstabe a erfüllt sind und zusätzlich der Wareneingang:
+Die elektronische Genehmigung und Freigabe ist der eigenhändigen Unterschrift gleichgestellt, wenn:
 
-- a. geprüft sowie wert- und mengenmässig im System erfasst ist; und
-- b. in den systemgestützten Abgleich zwischen Bestellung und Rechnung einbezogen wird.
+- a. die Identifizierung, Authentisierung und Autorisierung der Personen, die Genehmigungen erteilen oder Freigaben bewilligen, gewährleistet sind;
+- b. die Genehmigung oder die Freigabe nachvollziehbar ist; und
+- c. die Integrität der Daten über erfasste Belege und der dokumentierten Genehmigungs- und Freigabevorgänge sichergestellt ist.
 
-<sup>5</sup> Wer die Rechnungsbelege unterzeichnet, bestätigt damit deren formelle und materielle Richtigkeit.
+<sup>5</sup> Die Direktorinnen und Direktoren der Verwaltungseinheiten sind für die Umsetzung der Unterschriftenregelung gemäss diesem Artikel und gemäss den Weisungen der EFV verantwortlich. Die Umsetzung muss der Aufgaben- und Kompetenzordnung der Verwaltungseinheit entsprechen.
 
-[^37-1]: Fassung gemäss Ziff. I der V vom 5. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
-[^37-2]: Eingefügt durch Ziff. I der V vom 13. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5013](https://fedlex.data.admin.ch/eli/oc/2010/710)).
-[^37-3]: Eingefügt durch Ziff. I der V vom 13. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5013](https://fedlex.data.admin.ch/eli/oc/2010/710)).
+[^37-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
-#### Art. 37a
+#### Art. 37a und 37b
 
-**Unterschriftenregelung bei der Freigabe von Zahlungsanweisungen und bei Vergütungen im verwaltungsinternen Verkehr**[^37a-1]
+[^37a37b-1]
 
-### (Art. 39 FHG)
-
-<sup>1</sup> Die Freigabe von Zahlungsanweisungen an das zentrale Rechnungswesen zugunsten Dritter oder von Vergütungen zugunsten anderer Verwaltungseinheiten erfordert eine Doppelunterschrift.
-
-<sup>2</sup> Für systemgestützte Vergütungen zwischen Verwaltungseinheiten genügt die Genehmigung der Rechnungsbelege durch den Leistungsbezüger.
-
-<sup>3</sup> Wer Zahlungsanweisungen unterzeichnet, bestätigt damit deren formelle Richtigkeit.
-
-<sup>4</sup> Die Kompetenz zur Freigabe von Zahlungsanweisungen kann an ein Dienstleistungszentrum der Bundesverwaltung delegiert werden.
-
-[^37a-1]: Eingefügt durch Ziff. I der V vom 5. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
-
-#### Art. 37b
-
-**Elektronische Genehmigung und Freigabe im verwaltungsinternen Verkehr**[^37b-1]
-
-Die elektronische Genehmigung und Freigabe von Rechnungsbelegen, Zahlungsanweisungen und Vergütungen im verwaltungsinternen Verkehr ist der eigenhändigen Unterschrift gleichgestellt, wenn:
-
-- a. die Identifizierung, Authentisierung und Autorisierung der Personen, die Genehmigungen erteilen beziehungsweise Freigaben bewilligen, gewährleistet sind;
-- b. die Genehmigung nachvollziehbar ist; und
-- c. die Integrität der Daten über erfasste Belege und der dokumentierten Genehmigungsvorgänge sichergestellt ist.
-
-[^37b-1]: Eingefügt durch Ziff. I der V vom 5. Dez. 2008 ([AS 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Fassung gemäss Ziff. I der V vom 21. März 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1599](https://fedlex.data.admin.ch/eli/oc/2012/230)).
+[^37a37b-1]: Eingefügt durch Ziff. I der V vom 5. Dez. 2008 ([AS 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Aufgehoben durch Ziff. I der V vom 10. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 38
 
-**Zuständigkeiten bei Belegen und Zahlungsanweisungen**
+[^38-1]
 
-### (Art. 39 FHG)
-
-<sup>1</sup>
-
-Die Direktoren und Direktorinnen der Verwaltungseinheiten bestimmen, wer zuständig ist:
-
-- a. zur Erfassung und zur Unterzeichnung von Belegen;
-- b. zur Freigabe und zur Unterzeichnung von Zahlungsanweisungen.
-
-<sup>2</sup> Die Namen, Unterschriften und elektronischen Identifikationen der Zeichnungsberechtigten für Zahlungsanweisungen sind der Finanzverwaltung zuzustellen.
+[^38-1]: Aufgehoben durch Ziff. I der V vom 10. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 39
 
@@ -835,7 +798,12 @@ Die Finanzverwaltung kann eine zwischen Verwaltungseinheiten vereinbarte kreditw
 
 <sup>2</sup> Sie nimmt die verrechenbaren Leistungen in einen zentralen Leistungskatalog auf.
 
-<sup>3</sup> Die Leistungen werden zu Vollkosten verrechnet. Für Unterbringungskosten wird in der Regel eine marktorientierte Miete verrechnet.
+<sup>3</sup> Die Leistungen werden zu Vollkosten verrechnet. Wird eine Leistung gegenüber Dritten gegen Entgelt erbracht, gilt dieser Preis auch für die verwaltungsinterne Leistungsverrechnung. Für Unterbringungskosten wird in der Regel eine marktorientierte Miete verrechnet.[^41-1]
+
+<sup>4</sup> Die EFV kann für die Aufbauphase der Leistungserbringung befristete Abweichungen von der Verrechnung zu Vollkosten bewilligen, wenn von der leistungserbringenden Verwaltungseinheit dargelegt wird, dass zukünftig Verbund- oder Grössenvorteile genutzt werden können. Die EFV regelt die Einzelheiten in Weisungen.[^41-2]
+
+[^41-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^41-2]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 ### 5. Abschnitt:**** Bearbeitung von Personendaten
 
@@ -998,15 +966,9 @@ Die Finanzverwaltung erlässt Weisungen über:
 
 #### Art. 52a
 
-**Zusammenarbeit mit Privaten («Public Private Partnership»)**[^52a-1]
+[^52a-1]
 
-### (Art. 39 und 57 FHG)
-
-<sup>1</sup> Die Verwaltungseinheiten prüfen bei der Aufgabenerfüllung in geeigneten Fällen die Möglichkeit einer vertraglich geregelten längerfristigen Zusammenarbeit mit privaten Partnern.
-
-<sup>2</sup> Die Eidgenössische Finanzverwaltung (EFV) regelt die Einzelheiten in Weisungen.
-
-[^52a-1]: Eingefügt durch Ziff. I der V vom 5. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
+[^52a-1]: Eingefügt durch Ziff. I der V vom 5. Dez. 2008 ([AS 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Aufgehoben durch Ziff. I der V vom 10. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 ## 4. Kapitel: Rechnungslegung
 
@@ -1018,138 +980,26 @@ Die Finanzverwaltung erlässt Weisungen über:
 
 ### (Art. 10 und 48 FHG)
 
-<sup>1</sup> Die Rechnungslegung richtet sich nach den International Public Sector Accounting Standards (IPSAS).
+<sup>1</sup> Die Rechnungslegung richtet sich nach den International Public Sector Accounting Standards[^53-2] (IPSAS).
 
-<sup>2</sup> Abweichungen von den IPSAS werden im Anhang 2 geregelt und im Anhang zur Jahresrechnung begründet.
+<sup>2</sup> Wesentliche Abweichungen von den IPSAS werden in Anhang 2 geregelt und im Anhang zur Jahresrechnung begründet.
 
-[^53-1]: Fassung gemäss Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^53-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^53-2]: www.ifac.org/public-sector
 
 #### Art. 54
 
-**Grundsätze**
+[^54-1]
 
-### (Art. 47 FHG)
+[^54-1]: Aufgehoben durch Ziff. I der V vom 10. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
-Für die Rechnungslegung gelten die folgenden Grundsätze:
+### 2. Abschnitt: …
 
-- a. *Wesentlichkeit:* Es sind sämtliche Informationen offenzulegen, die für eine rasche und umfassende Beurteilung der Vermögens-, Finanz- und Ertragslage notwendig sind.
-- b. *Verständlichkeit:* Die Informationen müssen klar und nachvollziehbar sein.
-- c. *Stetigkeit:* Die Grundsätze der Budgetierung, Buchführung und Rechnungslegung sollen soweit als möglich über einen längeren Zeitraum unverändert bleiben.
-- d. *Bruttodarstellung:* Artikel 19 Absatz 1 Buchstabe a ist sinngemäss anwendbar.
+#### Art. 55–60
 
-### 2. Abschnitt: Bilanzierung und Bewertung
+[^5560-1]
 
-#### Art. 55
-
-**Bilanzierungsgrundsätze**
-
-### (Art. 49 FHG)
-
-<sup>1</sup> Vermögensteile und Verpflichtungen werden in der Rechnungsperiode bilanziert, in der sie die Voraussetzungen nach Artikel 49 FHG für eine Aktivierung oder Passivierung erfüllen.
-
-<sup>2</sup> Auf eine Bilanzierung kann verzichtet werden, wenn eine bestimmte Aktivierungs- oder Passivierungsgrenze nicht erreicht wird. Soweit sich die Grenzbeträge nicht aus Gesetz oder Verordnung ergeben, werden sie von der Finanzverwaltung festgelegt.
-
-<sup>3</sup> Die Finanzverwaltung erlässt Weisungen zu den Voraussetzungen, unter denen ausnahmsweise eine Sammelpassivierung zulässig ist.[^55-1]
-
-<sup>4</sup>
-
-Sammelaktivierungen sind zulässig:
-
-- a. für Nationalstrassen;
-- b. für Rüstungsmaterial;
-- c. für Standardmobiliar;
-- d. für Informatikhardware.[^55-2]
-
-<sup>5</sup> Die Finanzverwaltung erlässt Weisungen zu den Sammelaktivierungen.[^55-3]
-
-[^55-1]: Fassung gemäss Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^55-2]: Eingefügt durch Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^55-3]: Eingefügt durch Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-
-#### Art. 56
-
-**Aktivierungs- und Passivierungsgrenzen**
-
-### (Art. 49 FHG)
-
-<sup>1</sup>
-
-Investitionsausgaben sind ab folgenden Werten je Objekt zu aktivieren:[^56-1]
-
-- a. für Immobilien: ab 100 000 Franken;
-- b. für Mobilien: ab 5000 Franken;
-- c. für immaterielle Anlagen: ab 100 000 Franken.
-
-<sup>2</sup> Rückstellungen sind ab einem Betrag von 500 000 Franken zu bilden.
-
-<sup>3</sup>
-
-Zeitliche Abgrenzungen sind vorzunehmen:
-
-- a. im verwaltungseigenen Bereich: ab einem Betrag von 100 000 Franken;
-- b.[^56-2] im Subventionsbereich: ab einem Betrag von 1 Million Franken im Einvernehmen mit der Finanzverwaltung;
-- c.[^56-3] im Bereich der Fiskaleinnahmen: ab einem Betrag von 1 Million Franken.
-
-[^56-1]: Fassung gemäss Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^56-2]: Fassung gemäss Ziff. I der V vom 5. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
-[^56-3]: Eingefügt durch Ziff. I der V vom 5. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
-
-#### Art. 57
-
-**Bewertungsgrundsätze**
-
-### (Art. 50 FHG)
-
-<sup>1</sup> Gleichartige Vermögensteile und Verpflichtungen werden zu Klassen zusammengefasst. Innerhalb einer Klasse gelten die gleichen Bewertungsgrundsätze.
-
-<sup>2</sup>
-
-Soweit Gesetz oder Verordnung keine Regelung enthalten, legt die Finanzverwaltung fest:
-
-- a. die für die einzelnen Klassen anzuwendenden Bewertungsgrundsätze;
-- b. die massgebenden Bewertungsgrössen, insbesondere die betriebliche Nutzungsdauer.
-
-#### Art. 58
-
-**Namhafte Beteiligungen**[^58-1]
-
-### (Art. 50 Abs. 2 Bst. b FHG)
-
-Als namhaft gelten Beteiligungen, die:
-
-- a. mindestens 20 Prozent erreichen; oder
-- b. mit massgebendem Einfluss verbunden sind.
-
-[^58-1]: Fassung gemäss Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-
-#### Art. 59
-
-**Abschreibungen und Wertberichtigungen**
-
-### (Art. 51 FHG)
-
-<sup>1</sup> Planmässige Abschreibungen auf Sachanlagen werden linear nach Klassen vorgenommen.
-
-<sup>2</sup> Wertberichtigungen auf Forderungen über 100 000 Franken erfolgen auf der einzelnen Forderung. Die übrigen Forderungen werden nach ihrem Alter pauschal gestützt auf Erfahrungswerte wertberichtigt.
-
-<sup>3</sup> Die Investitionsbeiträge werden im gleichen Rechnungsjahr, in dem sie ausbezahlt worden sind, vollständig wertberichtigt. Sie erscheinen nicht in der Bilanz.
-
-<sup>4</sup>
-
-Vorräte werden ganz oder teilweise abgeschrieben, wenn sie:
-
-- a. nicht mehr gebraucht werden;
-- b. ihren wirtschaftlichen Wert ganz oder teilweise eingebüsst haben.
-
-<sup>5</sup> Ausserplanmässige Abschreibungen und Wertberichtigungen sind nur vorzunehmen, wenn der entsprechende Betrag zuverlässig und nachvollziehbar ermittelt werden kann.
-
-#### Art. 60
-
-**Offenlegung**
-
-### (Art. 10 FHG)
-
-Die Finanzverwaltung legt fest, wie die Informationen, die im Anhang der Jahresrechnung offenzulegen sind, erhoben und aufbereitet werden.
+[^5560-1]: Aufgehoben durch Ziff. I der V vom 10. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 ### 3. Abschnitt: Besondere Finanzierungsarten
 
@@ -1199,66 +1049,23 @@ Die Finanzverwaltung legt fest, wie die Informationen, die im Anhang der Jahresr
 
 <sup>3</sup> Fehlt eine Zweckbestimmung oder lässt sich diese nicht mehr verwirklichen, so entscheidet die zur Annahme zuständige Stelle über die Verwendung der Mittel.
 
-### 4. Abschnitt:**** Konsolidierte Rechnung
-
-[^chap4-sec4-1]
-
-[^chap4-sec4-1]: Eingefügt durch Ziff. I der V vom 5. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
+### 4. Abschnitt: …
 
 #### Art. 64a
 
-**Ausnahmen von der Konsolidierung**[^64a-1]
+[^64a-1]
 
-### (Art. 55 Abs. 2 Bst. a FHG)
-
-Die Pensionskasse des Bundes PUBLICA und die Gesellschaft Schweiz Tourismus werden von der konsolidierten Rechnungsdarstellung ausgenommen.
-
-[^64a-1]: Fassung gemäss Anhang 3 Ziff. 7 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^64a-1]: Eingefügt durch Ziff. I der V vom 5. Dez. 2008 ([AS 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Aufgehoben durch Ziff. I der V vom 10. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 64a<sup>bis</sup>
 
-**Einbezug in die Konsolidierung**[^64abis-1]
+[^64abis-1]
 
-### (Art. 55 Abs. 2 Bst. b FHG)
+[^64abis-1]: Eingefügt durch Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung) ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)). Aufgehoben durch Ziff. I der V vom 10. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
-In die Vollkonsolidierung einbezogen werden:
+#### Art. 64b–64
 
-- a. die Unternehmen, an denen der Bund mit mehr als 50 Prozent beteiligt ist;
-- b. die Ausgleichsfonds der AHV, der IV, der EO und der ALV.
-
-[^64abis-1]: Eingefügt durch Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-
-#### Art. 64b
-
-**Rechnungslegungsgrundsätze**
-
-### (Art. 55 Abs. 3 FHG)
-
-Die Grundsätze nach Artikel 54 sowie die Bestimmungen über die Bilanzierung und Bewertung (Art. 55–60) gelten für die konsolidierte Rechnung sinngemäss.
-
-#### Art. 64c
-
-**Rechnungslegungsstandards**[^64c-1]
-
-### (Art. 55 Abs. 3 FHG)
-
-<sup>1</sup> Die Rechnungslegung der konsolidierten Rechnung richtet sich nach den IPSAS.
-
-<sup>2</sup> Abweichungen von den IPSAS werden im Anhang 3 geregelt und im Anhang der konsolidierten Rechnung begründet.
-
-[^64c-1]: Fassung gemäss Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-
-#### Art. 64d
-
-**Berichterstattung**[^64d-1]
-
-### (Art. 55 FHG)
-
-<sup>1</sup> Die Finanzverwaltung entwirft zuhanden des Bundesrates den Bericht zur konsolidierten Rechnung und erlässt dazu Weisungen.
-
-<sup>2</sup> Sie unterbreitet dem Bundesrat die konsolidierte Rechnung gleichzeitig mit der Staatsrechnung.
-
-[^64d-1]: Fassung gemäss Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+***d*–**
 
 ## 5. Kapitel: Aufgaben und Zuständigkeiten der Bundesverwaltung
 
@@ -1272,21 +1079,17 @@ Die Grundsätze nach Artikel 54 sowie die Bestimmungen über die Bilanzierung un
 
 <sup>1</sup> Der gesamte Zahlungsverkehr des Bundes wird über die Finanzverwaltung abgewickelt. Diese kann Ausnahmen bewilligen.
 
-<sup>2</sup> Alle Zahlungsaufträge müssen von der Finanzverwaltung mit Doppelunterschrift unterzeichnet werden. Verwaltungseinheiten mit einer Ausnahmebewilligung der Finanzverwaltung unterzeichnen ihre Zahlungsaufträge mit Doppelunterschrift; bei den Auslandvertretungen kann die Finanzverwaltung ausnahmsweise die Bewilligung zur Einzelunterschrift erteilen.
+<sup>2</sup> …[^65-1]
 
 <sup>3</sup> Die Verwaltungseinheiten sind gehalten, ihren Zahlungsverpflichtungen fristgerecht nachzukommen.
 
+[^65-1]: Aufgehoben durch Ziff. I der V vom 10. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+
 #### Art. 65a
 
-**Elektronische Genehmigung und Freigabe von Zahlungen an verwaltungsexterne Empfänger**[^65a-1]
+[^65a-1]
 
-Die elektronische Genehmigung und Freigabe ist bei Zahlungen an verwaltungsexterne Empfänger der eigenhändigen Unterschrift gleichgestellt, wenn:
-
-- a. die Identifizierung, Authentisierung und Autorisierung der Personen, die Genehmigungen erteilen beziehungsweise Freigaben bewilligen, gewährleistet sind;
-- b. die Genehmigung nachvollziehbar ist; und
-- c. die Integrität der Daten über erfasste Belege und der dokumentierten Genehmigungsvorgänge sichergestellt ist.
-
-[^65a-1]: Eingefügt durch Ziff. I der V vom 21. März 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1599](https://fedlex.data.admin.ch/eli/oc/2012/230)).
+[^65a-1]: Eingefügt durch Ziff. I der V vom 21. März 2012 ([AS 2012 1599](https://fedlex.data.admin.ch/eli/oc/2012/230)). Aufgehoben durch Ziff. I der V vom 10. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 66
 
@@ -1523,30 +1326,32 @@ Sie erlässt Weisungen namentlich:
 
 - a. zum Eingabeverfahren für den Voranschlag (Art. 18 Abs. 3);
 - a<sup>bis</sup>.[^75-1] zur Steuerung und Berichterstattung im verwaltungseigenen Bereich (Art. 27*i*);
+- a<sup>ter</sup>.[^75-2] zur Aufbewahrung der Geschäftsbücher und Buchungsbelege (Art. 31);
 - b. zur Ausgestaltung des Finanz- und Rechnungswesens der Verwaltungseinheiten (Art. 32 Abs. 2);
 - c. zur Kontierung (Art. 33);
 - d. für die Führung der Inventare und zu den Ausnahmen von der Inventarisierungspflicht (Art. 34);
 - e. zum internen Kontrollsystem (Art. 36 Abs. 2);
-- f.[^75-2] zu den Toleranzgrenzen und zu den technischen Anforderungen für die elektronische Genehmigung und Freigabe (Art. 37 Abs. 3, 37*b* und 65*a*);
+- f.[^75-3] zur Unterschriftenregelung (Art. 37);
 - g. zu den Vergütungen zwischen Verwaltungseinheiten (Art. 41);
-- h.[^75-3] ...
+- h.[^75-4] …
 - i. über die formellen Anforderungen an die Bestellung und Verwaltung der Sicherstellungen (Art. 49);
 - j. zur Risikotragung und Schadenerledigung (Art. 50 Abs. 3);
-- k.[^75-4] zum Abschluss von Leasingverträgen (Art. 52 Abs. 2) und zur Zusammenarbeit mit Privaten (Art. 52*a* Abs. 2);
-- l. zur Zulässigkeit von Sammelaktivierungen und -passivierungen (Art. 55 Abs. 3);
-- m. zu den Bewertungsgrundsätzen und -grössen (Art. 57 Abs. 2);
-- n. zu den Abschreibungen und Wertberichtigungen (Art. 59);
-- o. zur Offenlegung im Anhang der Jahresrechnung (Art. 60);
-- o<sup>bis</sup>.[^75-5] zur Berichterstattung über die konsolidierte Rechnung (Art. 64d);
+- k.[^75-5] zum Abschluss von Leasingverträgen (Art. 52 Abs. 2);
+- l.[^75-6] zu den Bilanzierungs- und Bewertungsgrundsätzen und Offenlegungsvorschriften sowie zur konsolidierten Rechnung (Art. 53);
+- m.–o.[^75-7] …
+- o<sup>bis</sup>.[^75-8] …
 - p. zum Inkasso und zur Zwangsvollstreckung (Art. 67–69);
-- q.[^75-6] zur Absicherung von Fremdwährungsrisiken (Art. 70*a*).
+- q.[^75-9] zur Absicherung von Fremdwährungsrisiken (Art. 70*a*).
 
 [^75-1]: Eingefügt durch Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^75-2]: Fassung gemäss Ziff. I der V vom 21. März 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1599](https://fedlex.data.admin.ch/eli/oc/2012/230)).
-[^75-3]: Aufgehoben durch Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), mit Wirkung seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^75-4]: Fassung gemäss Ziff. I der V vom 5. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
-[^75-5]: Eingefügt durch Ziff. I der V vom 5. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
-[^75-6]: Eingefügt durch Ziff. I der V vom 5. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
+[^75-2]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^75-3]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^75-4]: Aufgehoben durch Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), mit Wirkung seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^75-5]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^75-6]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^75-7]: Aufgehoben durch Ziff. I der V vom 10. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^75-8]: Eingefügt durch Ziff. I der V vom 5. Dez. 2008 ([AS 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Aufgehoben durch Ziff. I der V vom 10. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^75-9]: Eingefügt durch Ziff. I der V vom 5. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
 
 #### Art. 76
 
@@ -1560,7 +1365,7 @@ Die Finanzhaushaltverordnung vom 11. Juni 1990[^76-1] wird aufgehoben.
 
 **Änderung bisherigen Rechts**
 
-...[^77-1]
+…[^77-1]
 
 [^77-1]: Die Änderung kann unter [AS 2006 1295](https://fedlex.data.admin.ch/eli/oc/2006/228)konsultiert werden.
 
@@ -1605,29 +1410,16 @@ Anhang 2*[^t-2]*
 
 ## Abweichungen der Bundesrechnung von den IPSAS
 
-[^t-2]: Fassung gemäss Ziff. II der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 <table>
-<tr><th>Nr.</th><th>IPSAS</th><th>Nr.</th><th>Abweichung</th></tr>
-<tr><td>1</td><td>Grundsatz der *Periodengerechtig**keit (Accrual Accounting)*.</td><td>1</td><td>Das Entgelt des Bundes für die Erhebung des EU-Steuerrückbehalts wird nach dem Cash-Prinzip verbucht.</td></tr>
-<tr><td>17</td><td>*Aktivierungsvoraussetzung:* Wirtschaftlicher Nutzen bzw. wirtschaftliches Nutzenpotenzial für die öffentliche Aufgabenerbringung (*Service Potential*).</td><td>17</td><td>Rüstungsmaterial: Es werden nur Hauptsysteme aus den Rüstungsprogrammen aktiviert. Übriges aktivierungsfähiges Rüstungsmaterial wird nicht bilanziert.</td></tr>
+<tr><td>Nr.</td><td>IPSAS</td><td>Nr.</td><td>Abweichung</td></tr>
+<tr><td>17</td><td>*Aktivierungsvoraussetzung:* Wirtschaftlicher Nutzen bzw. wirtschaftliches Nutzenpotenzial für die öffentliche Aufgabenerbringung *(Service Potential)*</td><td>17</td><td>Rüstungsmaterial: Es werden nur Hauptsysteme aus den Rüstungsprogrammen aktiviert. Übriges aktivierungsfähiges Rüstungsmaterial wird nicht bilanziert.</td></tr>
 <tr><td>18</td><td>*Segmentberichterstattung*</td><td>18</td><td>Auf die Erstellung einer Segmentberichterstattung wird verzichtet. Im Kommentar zur Jahresrechnung werden die Ausgaben nach Aufgabengebieten offengelegt. Die Offenlegung erfolgt allerdings nach der Finanzierungs- und nicht nach der Erfolgssicht und ohne Angaben von Bilanzwerten.</td></tr>
-<tr><td>23</td><td>Erträge aus Transaktionen ohne zurechenbare Gegenleistung.</td><td>23.1</td><td>Die Erträge aus der direkten Bundessteuer werden zum Zeitpunkt der Ablieferung der Bundesanteile durch die Kantone verbucht (*Cash Accounting*).</td></tr>
+<tr><td>23</td><td>Erträge aus Transaktionen ohne zurechenbare Gegenleistung</td><td>23.1</td><td>Die Erträge aus der direkten Bundessteuer werden nach dem Forderungsprinzip und nicht nach dem Periodenabgrenzungsprinzip verbucht. Die Ertragserfassung erfolgt aus administrativen Gründen einen Monat nach erfolgter Rechnungsstellung durch die Kantone gegenüber der oder dem Steuerpflichtigen.</td></tr>
 <tr><td></td><td></td><td>23.2</td><td>Die Erträge aus der Mehrwertsteuer und der Schwerverkehrsabgabe (LSVA) werden mit einer Verzögerung von einem Quartal verbucht.</td></tr>
 </table>
 
 Anhang 3*[^t-3]*
 
-(Art. 64*c* Abs. 2)
-
-## Abweichungen der Konsolidierten Rechnung Bund von den IPSAS
-
-[^t-3]: Eingefügt durch Ziff. II Abs. 2 der V vom 5. Dez. 2008 ([AS 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Fassung gemäss Ziff. II der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
-
-<table>
-<tr><th>Nr.</th><th>IPSAS</th><th>Nr.</th><th>Abweichung</th></tr>
-<tr><td>1</td><td>Grundsatz der *Periodengerechtig**keit (Accrual Accounting)*.</td><td>1</td><td>Das Entgelt des Bundes für die Erhebung des EU-Steuerrückbehalts wird nach dem Cash-Prinzip verbucht.</td></tr>
-<tr><td>17</td><td>*Aktivierungsvoraussetzung:* Wirtschaftlicher Nutzen bzw. wirtschaftliches Nutzenpotenzial für die öffentliche Aufgabenerbringung (*Service Potential*).</td><td>17</td><td>Rüstungsmaterial: Es werden nur Hauptsysteme aus den Rüstungsprogrammen aktiviert. Übriges aktivierungsfähiges Rüstungsmaterial wird nicht bilanziert.</td></tr>
-<tr><td>23</td><td>Erträge aus Transaktionen ohne zurechenbare Gegenleistung.</td><td>23.1</td><td>Die Erträge aus der direkten Bundessteuer werden zum Zeitpunkt der Ablieferung der Bundesanteile durch die Kantone verbucht (*Cash Accounting*).</td></tr>
-<tr><td></td><td></td><td>23.2</td><td>Die Erträge aus der Mehrwertsteuer und der Schwerverkehrsabgabe (LSVA) werden mit einer Verzögerung von einem Quartal verbucht.</td></tr>
-</table>
+[^t-3]: Eingefügt durch Ziff. II Abs. 2 der V vom 5. Dez. 2008 ([AS 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Aufgehoben durch Ziff. II Abs. 2 der V vom 10. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
