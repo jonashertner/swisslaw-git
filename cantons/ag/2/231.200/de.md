@@ -4,13 +4,13 @@ number: "231.200"
 title: Einführungsgesetz zum Bundesgesetz über Schuldbetreibung und Konkurs
 short: EG SchKG
 language: de
-version: 2020-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-09-17
+version: 2022-01-01
+valid_until: 2024-06-30
+version_adopted: 2021-03-23
 adopted: 2005-02-22
 in_force: 2006-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/231.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2815/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3051/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2815/pdf_file"
 
 (EG SchKG)
 
-Vom 22.02.2005 (Stand 01.04.2020)
+Vom 22.02.2005 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -222,7 +222,11 @@ beschliesst:
 
 <sup>1</sup> Beschwerden und Gesuche sind schriftlich einzureichen.
 
-<sup>2</sup> Das Verfahren richtet sich nach den einschlägigen Vorschriften des Bundesrechts über das Schuldbetreibungs- und Konkurswesen sowie über die Bundesrechtspflege. Die Aufsichtsbehörde holt die Vernehmlassung der Amtsstelle, gegen die sich die Eingabe wendet, und nötigenfalls Berichte der Gegenpartei oder Drittbeteiligter ein. Sie nimmt die ihr zur Abklärung des Sachverhalts angezeigt erscheinenden Erhebungen vor.
+<sup>2</sup> Soweit das SchKG keine abweichenden Bestimmungen enthält, sind für das Verfahren vor der unteren kantonalen Aufsichtsbehörde über die Betreibungsämter gemäss § 14 und vor der Aufsichtsbehörde über das Konkursamt gemäss § 17a die Bestimmungen des summarischen Verfahrens gemäss Art. 248 ff. der Schweizerischen Zivilprozessordnung (Zivilprozessordnung, ZPO) vom 19. Dezember 2008[^22-1] und für das Verfahren vor der oberen kantonalen Aufsichtsbehörde über die Betreibungsämter gemäss § 16 die Bestimmungen des Beschwerdeverfahrens gemäss Art. 319 ff. ZPO sinngemäss anwendbar.
+
+<sup>3</sup> Die Aufsichtsbehörde holt die Vernehmlassung der Amtsstelle, gegen die sich die Eingabe wendet, und nötigenfalls Berichte der Gegenpartei oder Drittbeteiligter ein. Sie nimmt die ihr zur Abklärung des Sachverhalts angezeigt erscheinenden Erhebungen vor.
+
+[^22-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
 
 #### § 23
 
@@ -250,7 +254,7 @@ beschliesst:
 
 **1. Feiertage**
 
-<sup>1</sup> Als staatlich anerkannter Feiertag im Sinne des Art. 31 Abs. 3 SchKG gilt:
+<sup>1</sup> Als staatlich anerkannte Feiertage gelten:
 
 - a) Neujahr
 - b) Berchtoldstag
