@@ -4,22 +4,22 @@ number: "187.13"
 title: Verordnung der Evangelischen Synode des Kantons Thurgau über die Rechtspflege der Thurgauischen Landeskirche
 short: Rechtspflegeverordnung
 language: de
-version: 2017-10-01
-valid_until: 2021-12-31
-version_adopted: 2017-06-26
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-07-05
 adopted: 2003-06-23
 in_force: 2004-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.13"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1443/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2420/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung der Evangelischen Synode des Kantons Thurgau über die Rechtspflege der Thurgauischen Landeskirche
 
-Rechtspflege Landeskirche - V der Evangelischen Synode
+Rechtspflegeverordnung
 
-vom 23.06.2003 (Stand 01.10.2017)
+vom 23.06.2003 (Stand 01.01.2022)
 
 ## 1. Geltungsbereich und Begriffe
 
@@ -31,17 +31,17 @@ vom 23.06.2003 (Stand 01.10.2017)
 
 <sup>1</sup> Diese Verordnung regelt:
 
-- 1\. das Verfahren vor dem Kirchenrat;
-- 2\. das Verfahren vor der Rekurs- und Beschwerdekommission;
-- 3\. das Aufsichtsbeschwerdeverfahren vor der Kirchenvorsteherschaft oder der Aufsichtskommission der Kirchgemeinden.
+- 1\. das Verfahren vor dem Kirchenrat
+- 2\. das Verfahren vor der Rekurs- und Beschwerdekommission
+- 3\. das Aufsichtsbeschwerdeverfahren vor der Kirchenvorsteherschaft oder der Aufsichtskommission der Kirchgemeinden
 
 #### § 2
 
 **Verwaltungsrechtspflegegesetz**
 
-<sup>1</sup> Für das Verfahren vor kirchlichen Behörden gilt das Gesetz über die Verwaltungsrechtspflege des Kantons Thurgau vom 23. Februar 1981 (Verwaltungsrechtspflegegesetz)[^2-1], soweit diese Verordnung nichts anderes regelt.
+<sup>1</sup> Für das Verfahren vor kirchlichen Behörden gilt das Gesetz über die Verwaltungsrechtspflege des Kantons Thurgau (VRG)[^2-1], soweit diese Verordnung nichts anderes regelt.
 
-[^2-1]: [170.1](https://www.rechtsbuch.tg.ch/data/170.1/de)
+[^2-1]: RB [170.1](https://www.rechtsbuch.tg.ch/data/170.1/de)
 
 ### 1.2. Begriffe
 
@@ -57,9 +57,9 @@ vom 23.06.2003 (Stand 01.10.2017)
 
 <sup>1</sup> Entscheide sind Anordnungen von Behörden im Einzelfall, die sich auf das Recht der evangelischen Landeskirche des Kantons Thurgau oder das öffentliche Recht stützen und zum Gegenstand haben:
 
-- 1\. die Begründung, Änderung oder Aufhebung von Rechten oder Pflichten;
-- 2\. die Feststellung des Bestehens, Nichtbestehens oder des Umfanges von Rechten oder Pflichten;
-- 3\. die Abweisung von Begehren auf Begründung, Änderung, Aufhebung oder Feststellung von Rechten oder Pflichten sowie das Nichteintreten auf solche Begehren.
+- 1\. die Begründung, Änderung oder Aufhebung von Rechten oder Pflichten
+- 2\. die Feststellung des Bestehens, Nichtbestehens oder des Umfanges von Rechten oder Pflichten
+- 3\. die Abweisung von Begehren auf Begründung, Änderung, Aufhebung oder Feststellung von Rechten oder Pflichten sowie das Nichteintreten auf solche Begehren
 
 <sup>2</sup> Als Entscheide gelten auch Vollstreckungs- und Zwischenverfügungen.
 
@@ -69,9 +69,7 @@ vom 23.06.2003 (Stand 01.10.2017)
 
 **Ausstand**
 
-<sup>1</sup> Es gilt die Ausstandsregel gemäss Verwaltungsrechtspflegegesetz[^5-1]. Ein Mitglied der Rekurs- und Beschwerdekommission hat überdies in Angelegenheiten der eigenen Kirchgemeinde den Ausstand zu wahren.
-
-[^5-1]: [170.1](https://www.rechtsbuch.tg.ch/data/170.1/de)
+<sup>1</sup> Es gilt die Ausstandsregel gemäss VRG. Ein Mitglied der Rekurs- und Beschwerdekommission hat überdies in Angelegenheiten der eigenen Kirchgemeinde den Ausstand zu wahren.
 
 #### § 6
 
@@ -109,14 +107,14 @@ vom 23.06.2003 (Stand 01.10.2017)
 
 <sup>1</sup> Ein Entscheid muss enthalten:
 
-- 1\. die Tatsachen, Rechtssätze und Gründe, auf die er sich stützt,
-- 2\. die Bezeichnung der entscheidenden Behörde und bei Organen der Verwaltungsrechtspflege deren Zusammensetzung,
-- 3\. das Erkenntnis,
-- 4\. die Kostenregelung,
-- 5\. den Hinweis auf das zulässige ordentliche Rechtsmittel mit Angabe von Frist und Instanz,
-- 6\. die Adressaten,
-- 7\. die Daten des Entscheides und des Versandes,
-- 8\. die erforderlichen Unterschriften.
+- 1\. die Tatsachen, Rechtssätze und Gründe, auf die er sich stützt
+- 2\. die Bezeichnung der entscheidenden Behörde und bei Organen der Verwaltungsrechtspflege deren Zusammensetzung
+- 3\. das Erkenntnis
+- 4\. die Kostenregelung
+- 5\. den Hinweis auf das zulässige ordentliche Rechtsmittel mit Angabe von Frist und Instanz
+- 6\. die Adressaten
+- 7\. die Daten des Entscheides und des Versandes
+- 8\. die erforderlichen Unterschriften
 
 #### § 11
 
@@ -136,13 +134,11 @@ vom 23.06.2003 (Stand 01.10.2017)
 
 **Fristen**
 
-<sup>1</sup> Die Bestimmungen des Verwaltungsrechtspflegegesetzes[^13-1] über die Wahrung der Fristen, die Fristerstreckung, sowie die Wiederherstellung der Fristen gelten auch für das Rekurs- und Beschwerdeverfahren vor dem Kirchenrat und der Rekurs- und Beschwerdekommission.
+<sup>1</sup> Die Bestimmungen des VRG über die Wahrung der Fristen, die Fristerstreckung, sowie die Wiederherstellung der Fristen gelten auch für das Rekurs- und Beschwerdeverfahren vor dem Kirchenrat und der Rekurs- und Beschwerdekommission.
 
 <sup>2</sup> Fällt der Ablauf der Frist zur Einreichung eines Rekurses oder einer Beschwerde in die Gerichtsferien, gilt sie bis zum siebenten Tag nach deren Ende als verlängert.
 
 <sup>3</sup> Die Gerichtsferien gemäss dem Verwaltungsrechtspflegegesetz gelten für das Rekurs- und Beschwerdeverfahren.
-
-[^13-1]: [170.1](https://www.rechtsbuch.tg.ch/data/170.1/de)
 
 ## 3. Organisation der Rekurs- und Beschwerdeinstanzen
 
@@ -180,7 +176,7 @@ vom 23.06.2003 (Stand 01.10.2017)
 
 <sup>3</sup> Mitglieder einer Aufsichtskommission sind nicht in die Rekurs- und Beschwerdekommission wählbar.
 
-[^16-1]: [187.11](https://www.rechtsbuch.tg.ch/data/187.11/de)
+[^16-1]: RB [187.11](https://www.rechtsbuch.tg.ch/data/187.11/de)
 
 #### § 17
 
@@ -232,7 +228,7 @@ vom 23.06.2003 (Stand 01.10.2017)
 
 <sup>2</sup> …
 
-[^22-1]: [187.131](https://www.rechtsbuch.tg.ch/data/187.131/de)
+[^22-1]: RB [187.131](https://www.rechtsbuch.tg.ch/data/187.131/de)
 
 #### § 23
 
@@ -262,14 +258,14 @@ vom 23.06.2003 (Stand 01.10.2017)
 
 <sup>1</sup> Rekursinstanzen sind:
 
-- 1\. Der Kirchenrat für Entscheide der Kirchenvorsteherschaften und für Beschlüsse der Kirchgemeinden;
-- 2\. die Rekurs- und Beschwerdekommission für erstinstanzliche Entscheide des Kirchenrates und Entscheide der Aufsichtskommissionen.
+- 1\. der Kirchenrat für Entscheide der Kirchenvorsteherschaften und für Beschlüsse der Kirchgemeinden
+- 2\. die Rekurs- und Beschwerdekommission für erstinstanzliche Entscheide des Kirchenrates und Entscheide der Aufsichtskommissionen
 
 #### § 27
 
 **Frist und Form**
 
-<sup>1</sup> Die Rekursschrift ist innert 20 Tagen seit der Eröffnung des angefochtenen Entscheides unter Beilage oder genauer Bezeichnung desselben bei der Rekursinstanz unterzeichnet und im Doppel schriftlich einzureichen. Der Rekurs muss einen Antrag und eine Begründung enthalten sowie die Beweismittel aufführen.
+<sup>1</sup> Die Rekursschrift ist innert 30 Tagen seit der Eröffnung des angefochtenen Entscheides unter Beilage oder genauer Bezeichnung desselben bei der Rekursinstanz unterzeichnet und im Doppel schriftlich einzureichen. Der Rekurs muss einen Antrag und eine Begründung enthalten sowie die Beweismittel aufführen.
 
 <sup>2</sup> Bei mangelhaften Rekurseingaben setzt das Präsidium der rekursführenden Person eine Frist zur Ergänzung und teilt ihr gleichzeitig mit, dass nach Ablauf der unbenützten Frist aufgrund der Akten entschieden oder, wenn Antrag, Begründung oder Unterschrift fehlt, auf den Rekurs nicht eingetreten werde.
 
@@ -317,8 +313,8 @@ vom 23.06.2003 (Stand 01.10.2017)
 
 <sup>1</sup> Beschwerdeinstanzen sind:
 
-- 1\. Die Rekurs- und Beschwerdekommission der Landeskirche bei Beschwerden gegen Rekursentscheide des Kirchenrates,
-- 2\. das Verwaltungsgericht bei Beschwerden gegen Rekursentscheide der Rekurs- und Beschwerdekommission der Landeskirche.
+- 1\. Die Rekurs- und Beschwerdekommission der Landeskirche bei Beschwerden gegen Rekursentscheide des Kirchenrates
+- 2\. das Verwaltungsgericht bei Beschwerden gegen Rekursentscheide der Rekurs- und Beschwerdekommission der Landeskirche
 
 #### § 33
 
@@ -328,16 +324,16 @@ vom 23.06.2003 (Stand 01.10.2017)
 
 <sup>2</sup> Als Rechtsverletzungen gelten insbesondere:
 
-- 1\. die unrichtige Anwendung oder die Nichtanwendung eines Rechtssatzes oder eines allgemeinen anerkannten Rechtsgrundsatzes,
-- 2\. die unrichtige rechtliche Beurteilung einer Tatsache,
-- 3\. die Ermessensüberschreitung und der Ermessensmissbrauch,
-- 4\. die Missachtung wesentlicher Verfahrensvorschriften.
+- 1\. die unrichtige Anwendung oder die Nichtanwendung eines Rechtssatzes oder eines allgemeinen anerkannten Rechtsgrundsatzes
+- 2\. die unrichtige rechtliche Beurteilung einer Tatsache
+- 3\. die Ermessensüberschreitung und der Ermessensmissbrauch
+- 4\. die Missachtung wesentlicher Verfahrensvorschriften
 
 #### § 34
 
 **Frist und Form**
 
-<sup>1</sup> Die Beschwerdeschrift ist innert 20 Tagen seit der Eröffnung des angefochtenen Entscheides unter Beilage oder genauer Bezeichnung desselben bei der Beschwerdeinstanz unterzeichnet und im Doppel einzureichen. Die Beschwerde muss einen Antrag und eine Begründung enthalten sowie die Beweismittel aufführen.
+<sup>1</sup> Die Beschwerdeschrift ist innert 30 Tagen seit der Eröffnung des angefochtenen Entscheides unter Beilage oder genauer Bezeichnung desselben bei der Beschwerdeinstanz unterzeichnet und im Doppel einzureichen. Die Beschwerde muss einen Antrag und eine Begründung enthalten sowie die Beweismittel aufführen.
 
 #### § 35
 
@@ -447,9 +443,9 @@ vom 23.06.2003 (Stand 01.10.2017)
 
 **Gebührenhöhe**
 
-<sup>1</sup> Für das Rekursverfahren erhebt der Kirchenrat eine Verfahrensgebühr von Fr. 100.– bis 500.–.
+<sup>1</sup> Für das Rekursverfahren erhebt der Kirchenrat eine Verfahrensgebühr von Fr. 100 bis Fr. 500.
 
-<sup>2</sup> Die Rekurs- und Beschwerdekommission erhebt für das Rekurs- und Beschwerdeverfahren eine Verfahrensgebühr von Fr. 100.– bis Fr. 5 000.–.
+<sup>2</sup> Die Rekurs- und Beschwerdekommission erhebt für das Rekurs- und Beschwerdeverfahren eine Verfahrensgebühr von Fr. 100 bis Fr. 5'000.
 
 #### § 47
 
@@ -467,12 +463,10 @@ vom 23.06.2003 (Stand 01.10.2017)
 
 **Hängige Verfahren**
 
-<sup>1</sup> Verfahren welche vor der Inkraftsetzung dieser Verordnung anhängig gemacht worden sind, werden nach bisherigem Recht zu Ende geführt.
+<sup>1</sup> Die neuen Rechtsmittelfristen gemäss § 27 und § 34 sind ab Publikation im Amtsblatt für alle Verfahren gültig.
 
 #### § 49
 
-**Inkraftsetzung**
-
-<sup>1</sup> Diese Verordnung tritt auf den 1. Juni 2004 in Kraft.
+**…**
 
 keine Angabe
