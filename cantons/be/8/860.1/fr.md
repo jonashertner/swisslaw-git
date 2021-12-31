@@ -4,13 +4,13 @@ number: "860.1"
 title: "Loi sur l'aide sociale"
 short: LASoc
 language: fr
-version: 2021-03-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-16
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-03-09
 adopted: 2001-06-11
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2128/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2481/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2128/pdf_file"
 
 (LASoc)
 
-du 11.06.2001 (état au 01.03.2021)
+du 11.06.2001 (état au 01.01.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -53,7 +53,7 @@ arrête:
 <sup>1</sup> L'action entreprise par l'aide sociale dans les différents domaines d'activité vise à
 
 - a encourager la prévention;
-- b promouvoir l'aide à la prise en charge personnelle;
+- b aider les bénéficiaires à se prendre en charge;
 - c compenser les préjudices;
 - d remédier aux situations d'urgence;
 - e éviter la marginalisation;
@@ -65,7 +65,7 @@ arrête:
 
 <sup>1</sup> La réalisation du but et des objectifs de l'aide sociale requiert de prendre les mesures prévues par la présente loi.
 
-<sup>2</sup> Ces mesures consistent en particulier à mettre sur pied des prestations d'aide sociale individuelle et d'aide sociale institutionnelle et à en assurer l'octroi.
+<sup>2</sup> Ces mesures consistent en particulier à mettre en place des prestations d’aide sociale individuelle et de soutien aux adultes en situation de handicap et à en assurer l’octroi.
 
 #### Art. 5
 
@@ -89,114 +89,9 @@ arrête:
 
 <sup>1</sup> L'aide sociale respecte le principe de l'égalité entre la femme et l'homme.
 
-#### Art. 8
+#### Art. 8–8c
 
-**Secret en matière d’aide sociale, obligations et droits de dénoncer**
-
-<sup>1</sup> Les personnes chargées de l’exécution de la présente loi sont tenues de taire les faits dont elles prennent connaissance dans le cadre de leur activité.
-
-<sup>2</sup> L’obligation de garder le secret en matière d’aide sociale disparaît si
-
-- a la personne concernée a donné son autorisation pour la transmission de renseignements;
-- b le service auquel sont subordonnées les personnes chargées de l’exécution de la présente loi leur a donné son autorisation pour la transmission de renseignements;
-- c un acte punissable est dénoncé ou
-- d une disposition légale prévoit une obligation ou un droit de renseigner.
-
-<sup>3</sup> Les personnes chargées de l’exécution de la présente loi sont tenues de dénoncer au Ministère public les faits qu’elles apprennent dans l’exercice de leur activité et qui les conduisent à soupçonner
-
-- a qu’un crime poursuivi d’office a été commis;
-- b qu’un délit poursuivi d’office a été commis en relation avec la perception de prestations d’aide sociale ou
-- c qu’une infraction au sens de l’article 85 a été commise, sauf si elle était manifestement involontaire.
-
-<sup>4</sup> Les obligations de dénoncer au Ministère public figurant à l’article 48, alinéa 1 de la loi du 11 juin 2009 portant introduction du code de procédure civile, du code de procédure pénale et de la loi sur la procédure pénale applicable aux mineurs (LiCPM)[^8-1] et à l’alinéa 3 disparaissent, si
-
-- a les informations proviennent de la victime;
-- b les informations proviennent de l’époux ou de l’épouse, du partenaire enregistré ou de la partenaire enregistrée, du concubin ou de la concubine, du père ou de la mère, d’un frère ou d’une soeur ou de l’enfant de la victime ou que
-- c la victime soit l’époux ou l’épouse, le partenaire enregistré ou la partenaire enregistrée, le concubin ou la concubine, le père ou la mère, le frère ou la soeur ou l’enfant de l’auteur présumé ou de l’auteure présumée de l’infraction.
-
-[^8-1]: RSB 271.1
-
-#### Art. 8a
-
-**Transmission d’informations à des autorités et à des particuliers**
-
-<sup>1</sup> Les personnes chargées de l’exécution de la présente loi sont autorisées à transmettre des informations sur des faits dont elles prennent connaissance au sens de l’article 8, alinéa 1 si
-
-- a les données fournies ne font pas référence à des personnes;
-- b les personnes concernées donnent leur consentement exprès;
-- c l’exécution des tâches relevant de l’aide sociale le requiert impérativement ou
-- d une base légale expresse l’exige ou l’autorise.
-
-<sup>2</sup> Les informations peuvent en particulier être transmises en vertu de l’alinéa 1, lettre d
-
-- a aux autorités compétentes en matière d’étrangers, sur demande conformément à l’article 97, alinéa 2 de la loi fédérale du 16 décembre 2005 sur les étrangers (LEtr)[^8a-1], et spontanément conformément à l’article 97, alinéa 3, lettre d LEtr en vertu des dispositions d’exécution du Conseil fédéral;
-- b aux autorités fiscales du canton et des communes conformément à l’article 155 de la loi du 21 mai 2000 sur les impôts (LI)[^8a-2];
-- c aux autorités compétentes en matière de poursuite et de faillite conformément à l’article 91, alinéa 5 et à l’article 222, alinéa 5 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite (LP)[^8a-3];
-- d aux autorités de protection de l’enfant et de l’adulte conformément à l’article 364 du Code pénal suisse du 21 décembre 1937 (CPS)[^8a-4], à l’article 443 du Code civil suisse (CCS)[^8a-5] et à l’article 25, alinéa 2 de la loi du 1<sup>er</sup> février 2012 sur la protection de l’enfant et de l’adulte (LPEA)[^8a-6];
-- e …
-- f aux organes de police du canton et des communes conformément à l’article 50, alinéa 4 de la loi du 8 juin 1997 sur la police (LPol)[^8a-7] nonobstant l’obligation particulière de garder le secret;
-- g aux institutions et aux organes des assurances sociales, pour autant que le droit fédéral le prévoie;
-- h aux autres autorités du canton et des communes chargées de l’aide sociale individuelle au sens de la présente loi conformément à l’article 2 de la loi du 16 mars 1998 sur les communes (LCo)[^8a-8];
-- i aux autorités de la Confédération et d’autres cantons chargées de l’exécution de l’aide sociale, pour autant que les informations soient indispensables à l’exécution de tâches relevant de l’aide sociale et que l’autorité qui en fait la demande soit habilitée à les traiter sur la base de dispositions légales particulières.
-
-<sup>3</sup> Les informations peuvent être transmises uniquement si les autorités et les particuliers qui les ont demandées décrivent précisément l’objet de leur souhait ou de leur exigence et prouvent leur légitimité à les obtenir.
-
-<sup>4</sup> Pour autant que les conditions citées à l’alinéa 1 soient remplies, les personnes chargées de l’exécution de la présente loi sont également autorisées à transmettre des informations à des autorités et à des particuliers qui ne sont soumis à aucune obligation particulière de garder le secret.
-
-<sup>5</sup> La mise en place d’une procédure d’appel électronique ou automatisée requiert une base expresse dans une loi.
-
-[^8a-1]: RS 142.20
-[^8a-2]: RSB 661.11
-[^8a-3]: RS 281.1
-[^8a-4]: RS 311.0
-[^8a-5]: RS 210
-[^8a-6]: RSB 213.316
-[^8a-7]: RSB 551.1
-[^8a-8]: RSB 170.11
-
-#### Art. 8b
-
-**Acquisition d’informations**
-
-<sup>1</sup> Les informations sont en principe recueillies auprès de la personne concernée dans le cadre de l’obligation de collaborer au sens de l’article 28.
-
-<sup>2</sup> Si cela s’avère impossible ou inapproprié, elles peuvent être obtenues directement auprès de tiers, conformément aux dispositions de la présente loi.
-
-<sup>3</sup> Pour les informations ne pouvant être obtenues selon ces dispositions, les personnes chargées de l'exécution de la présente loi demandent une procuration à la personne concernée lorsqu'elle dépose sa demande d’aide sociale.
-
-#### Art. 8c
-
-**Obligations de renseigner et droit d’informer**
-
-<sup>1</sup> Sont tenus de fournir aux services chargés de l’exécution de la présente loi les renseignements écrits ou oraux requis à cette fin:
-
-- a les autorités du canton et des communes conformément à l’article 2 de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^8c-1];
-- b les personnes et les organisations de droit public ou de droit privé, dans la mesure où elles sont chargées d’accomplir des tâches publiques;
-- c les personnes vivant en communauté domestique avec une personne qui perçoit ou sollicite des prestations d’aide sociale ou ayant à son égard une obligation d’entretien ou d’assistance;
-- d les employeurs de personnes percevant ou sollicitant des prestations d’aide sociale;
-- e les bailleurs louant des logements à des personnes percevant ou sollicitant des prestations d’aide sociale.
-
-<sup>2</sup> Sauf dispositions contraires du droit fédéral et dans la mesure où les informations sont nécessaires pour examiner de manière complète le droit à des prestations au sens de la présente loi, sont en particulier tenues de fournir des renseignements:
-
-- a les autorités du contrôle des habitants;
-- b les autorités compétentes en matière d’étrangers pour ce qui concerne le statut des personnes relevant du droit des étrangers qui perçoivent des prestations d’aide sociale;
-- c les autorités compétentes en matière de circulation routière conformément à l’article 104, alinéa 5 de la loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)[^8c-2];
-- d les organes de police du canton et des communes;
-- e les autorités fiscales pour les données fiscales des personnes percevant, sollicitant ou ayant perçu des prestations de l’aide sociale individuelle ou institutionnelle;
-- f les institutions et les organes des assurances sociales.
-
-<sup>3</sup> Les personnes et les autorités citées aux alinéas 1 et 2 sont notamment tenues de fournir les renseignements permettant d’examiner
-
-- a les conditions personnelles et économiques des personnes percevant des prestations d’aide sociale;
-- b les droits de ces personnes à l’égard de tiers;
-- c l’intégration du ou de la bénéficiaire de prestations;
-- d l’existence d’une obligation de rembourser au sens de la présente loi ou
-- e la situation financière des personnes qui perçoivent des prestations de l’aide sociale institutionnelle ainsi que celle de leurs parents ou de leur représentation légale si cela s’avère nécessaire pour fixer la participation aux coûts des bénéficiaires de ces prestations.
-
-<sup>4</sup> Les personnes et les autorités citées aux alinéas 1 et 2 peuvent de leur propre chef fournir des informations aux autorités compétentes pour l’exécution de la présente loi si elles savent de source sûre que les personnes visées perçoivent l’aide sociale et si les informations sont indispensables pour examiner le droit à des prestations au sens de la présente loi.
-
-[^8c-1]: RSB 155.21
-[^8c-2]: RS 741.01
+**…**
 
 #### Art. 9
 
@@ -204,9 +99,9 @@ arrête:
 
 <sup>1</sup> L'aide sociale respecte le principe de subsidiarité.
 
-<sup>2</sup> Pour l'aide sociale individuelle, la subsidiarité signifie que l'aide est accordée uniquement lorsque la personne dans le besoin ne peut pas s'en sortir seule, qu'elle ne reçoit pas d'aide de tiers ou que cette aide viendrait trop tard.
+<sup>2</sup> Dans l'aide sociale individuelle, la subsidiarité signifie que l'aide est accordée uniquement lorsque la personne dans le besoin ne peut pas s'en sortir seule, qu'elle ne reçoit pas d'aide de tiers ou que cette aide viendrait trop tard.
 
-<sup>3</sup> Pour l'aide sociale institutionnelle, la subsidiarité signifie que les communes et le canton mettent sur pied et financent des prestations pour compléter l'offre privée uniquement dans la mesure où elles sont nécessaires pour assurer la couverture des besoins.
+<sup>3</sup> …
 
 #### Art. 10
 
@@ -251,9 +146,9 @@ arrête:
 <sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration
 
 - a concrétise les objectifs de l'aide sociale et veille à leur mise en œuvre;
-- b procède régulièrement à l'inventaire et à l'analyse des besoins en prestations;
+- b inventorie et analyse régulièrement les besoins en prestations;
 - c planifie et coordonne les prestations en fonction des besoins;
-- d assure les prestations de l'aide sociale institutionnelle;
+- d met en place les prestations de soutien aux adultes en situation de handicap;
 - e contrôle régulièrement l'efficacité et la qualité des prestations offertes;
 - f …
 - g conseille les communes dans leurs tâches d'exécution;
@@ -267,9 +162,9 @@ arrête:
 
 <sup>1</sup> Les communes assurent et exécutent les prestations de l'aide sociale individuelle conformément aux objectifs cantonaux et en contrôlent régulièrement l'efficacité.
 
-<sup>2</sup> Elles aident la Direction de la santé, des affaires sociales et de l’intégration à mettre sur pied des prestations d'aide sociale institutionnelle et les proposent avec l'autorisation de cette dernière.
+<sup>2</sup> Elles aident la Direction de la santé, des affaires sociales et de l’intégration à mettre en place des prestations de soutien aux adultes en situation de handicap.
 
-<sup>3</sup> Elles peuvent financer elles-mêmes des prestations de l’aide sociale institutionnelle non admises à la compensation des charges par la Direction de la santé, des affaires sociales et de l’intégration.
+<sup>3</sup> Elles peuvent mettre en place à leurs frais des prestations dépassant le cadre des prescriptions cantonales.
 
 #### Art. 16
 
@@ -303,9 +198,17 @@ arrête:
 
 <sup>4</sup> Elle assume des tâches de controlling et de planification en inventoriant les besoins en prestations dans la commune et en rendant compte à la Direction de la santé, des affaires sociales et de l’intégration de ses activités et du travail du service social.
 
-<sup>5</sup> Les communes peuvent déléguer à l’autorité sociale des tâches relevant de l’aide sociale institutionnelle.
+<sup>5</sup> Les communes peuvent déléguer à l’autorité sociale des tâches relevant des programmes d’action sociale.
 
 <sup>6</sup> Elles sont régulièrement informées par leur autorité sociale compétente de tous les événements importants touchant le domaine dont elle assume la responsabilité.
+
+#### Art. 17a
+
+**Organismes responsables des services sociaux**
+
+<sup>1</sup> L’organisme responsable d’un service social est la commune.
+
+<sup>2</sup> Les communes qui administrent un service social conjoint désignent un organisme responsable.
 
 #### Art. 18
 
@@ -318,7 +221,7 @@ arrête:
 <sup>3</sup> Le Conseil-exécutif édicte des prescriptions sur
 
 - a la taille minimale des services sociaux,
-- b l’effectif en personnel des services sociaux,
+- b …
 - c les tâches incombant au personnel spécialisé et
 - d les exigences auxquelles doit satisfaire le personnel spécialisé.
 
@@ -328,7 +231,7 @@ arrête:
 
 <sup>1</sup> Les services sociaux exécutent l'aide sociale individuelle et en particulier, à ce titre,
 
-- a proposent des consultations d'ordre préventif;
+- a proposent des consultations d’ordre préventif dans ce domaine et dans celui de la protection de l’enfant;
 - b examinent les conditions personnelles et économiques des bénéficiaires;
 - c conviennent des objectifs visés avec ces derniers;
 - d les conseillent et les encadrent;
@@ -359,7 +262,7 @@ arrête:
 
 <sup>2</sup> Dans la mesure du possible, les institutions participantes coordonnent leurs offres de mesures d’insertion.
 
-<sup>3</sup> Le traitement et la communication de données dans le cadre de la collaboration interinstitutionnelle (CII) sont régis par la législation cantonale sur le marché du travail.
+<sup>3</sup> Le traitement et la communication de données dans le cadre de la collaboration interinstitutionnelle sont régis par la législation cantonale sur le marché du travail, nonobstant le secret en matière d’aide sociale.
 
 #### Art. 20
 
@@ -375,9 +278,7 @@ arrête:
 
 #### Art. 21
 
-**Organes de médiation**
-
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration peut encourager la mise sur pied d'organes de médiation dans le domaine de l'aide sociale institutionnelle et les soutenir.
+**…**
 
 ## 3 Aide sociale individuelle
 
@@ -474,6 +375,14 @@ arrête:
 - c création de systèmes favorisant l'autonomie et l'insertion des bénéficiaires, en particulier en les incitant à prendre un emploi,
 - d choix de la variante la moins coûteuse à long terme pour le canton et les communes.
 
+#### Art. 31a
+
+**Plafond pour les frais de logement**
+
+<sup>1</sup> L’autorité sociale fixe un plafond pour les frais de logement en tenant compte du marché régional actuel et le réexamine périodiquement.
+
+<sup>2</sup> Elle annonce le plafond fixé au service compétent de la Direction de la santé, des affaires sociales et de l’intégration au début de chaque année.
+
 #### Art. 32
 
 **Versement**
@@ -483,7 +392,7 @@ arrête:
 - a d'un versement en espèces,
 - b d'un virement sur un compte bancaire ou postal,
 - c du règlement de factures courantes,
-- d du paiement de prestations de l'aide sociale institutionnelle,
+- d du paiement de prestations de soutien aux adultes en situation de handicap ou de prestations mises en place en vertu de la législation sur les programmes d’action sociale,
 - e d'une avance sur des prestations de tiers en suspens.
 
 <sup>2</sup> A titre exceptionnel, l'aide peut être allouée sous forme de prestations en nature, de garantie de participation aux frais ou de remise de bons.
@@ -498,17 +407,27 @@ arrête:
 
 #### Art. 34
 
-**Aide en cas de fortune ou de prestations de tiers en suspens**
+**Aide matérielle en cas de fortune**
 
-<sup>1</sup> A titre exceptionnel, l’aide matérielle peut également être versée lorsqu’une personne dispose de valeurs dont la réalisation n’est pas possible ou ne peut pas être exigée au moment de la demande ou lorsqu’elle est en attente de prestations de tiers auxquelles elle a droit.
+<sup>1</sup> A titre exceptionnel, une aide matérielle peut être accordée lorsqu’une personne dispose de valeurs patrimoniales dont la réalisation n’est pas possible ou ne peut pas être exigée au moment de la demande.
 
-<sup>2</sup> L'octroi de l'aide peut être subordonné à la cession de créances à la commune.
+<sup>1a</sup> Si la personne dans le besoin possède un bien immobilier, il convient en principe de conclure avec elle un contrat prévoyant la constitution d’un gage immobilier.
 
-<sup>3</sup> Si le service social a fourni des avances de prestations d’assurances sociales, il peut exiger de l’assureur qu’il lui verse directement le montant dû.
+<sup>1b</sup> Le gage immobilier sert de garantie à l’obligation de remboursement selon l’article 40, alinéa 2.
 
-<sup>4</sup> Les organismes responsables des services sociaux sont tenus de faire inscrire au registre foncier les hypothèques légales au sens de l’article 109b, lettre b LiCCS.
+<sup>1c</sup> Les frais d’authentification et les émoluments du registre foncier sont à la charge de la personne dans le besoin.
 
-<sup>5</sup> Le Conseil-exécutif règle les exceptions à l’obligation d’inscription selon l’alinéa 4 par voie d’ordonnance.
+<sup>2–5</sup> …
+
+#### Art. 34a
+
+**Aide matérielle en cas de prestations de tiers**
+
+<sup>1</sup> A titre exceptionnel, une aide matérielle peut être accordée lorsqu’une personne est en attente de prestations de tiers auxquelles elle a droit.
+
+<sup>2</sup> L’aide est en principe conditionnée à la cession des créances à la commune.
+
+<sup>3</sup> S’il fournit des avances de prestations d’assurances sociales, le service social exige de l’assureur qu’il lui verse directement le montant dû.
 
 #### Art. 35
 
@@ -571,6 +490,15 @@ arrête:
 
 <sup>5</sup> Les personnes ayant indûment bénéficié de l'aide matérielle sont tenues de la rembourser avec intérêts.
 
+#### Art. 40a
+
+**Exemptions de l’obligation de rembourser**
+
+<sup>1</sup> Le droit au remboursement au sens de l’article 40, alinéa 1 ne peut pas prendre naissance lorsque l’aide matérielle, exception faite des avances de prestations d’assurances sociales, des bourses, des allocations familiales et autres prestations de même nature destinées à l’entretien,
+
+- a a été perçue licitement pendant que la personne était mineure ou n’avait pas encore terminé sa formation initiale;
+- b a été perçue sous forme de supplément d’intégration ou de franchise sur le revenu.
+
 #### Art. 41
 
 **Mariage et partenariat enregistré**
@@ -588,7 +516,7 @@ arrête:
 <sup>1</sup> L’aide matérielle dont a bénéficié une personne avant son décès doit être remboursée
 
 - a par les héritiers et héritières ou les légataires si la succession n’est pas surendettée et dès lors qu’ils en tirent profit;
-- b par les bénéficiaires d’une prestation d’assurance-vie versée suite au décès de la personne.
+- b par les bénéficiaires d’une prestation d’assurance-vie ou d’assurance sociale versée suite au décès de la personne.
 
 <sup>2</sup> Il convient de tenir compte de la situation personnelle de celui ou celle qui a tiré profit de la succession et de ses relations avec la personne défunte.
 
@@ -596,12 +524,7 @@ arrête:
 
 **Libération de l'obligation de rembourser**
 
-<sup>1</sup> La part de l’aide matérielle allouée pour couvrir les coûts inhérents à des prestations de l’aide sociale institutionnelle ne doit pas être remboursée dans la mesure où elle dépasse le montant octroyé pour couvrir les besoins de première nécessité.
-
-<sup>2</sup> Le droit au remboursement au sens de l’article 40, alinéa 1 ne peut pas prendre naissance lorsque l’aide matérielle
-
-- a a été perçue licitement pendant que la personne était mineure ou n’avait pas encore terminé sa formation initiale, à l’exception des avances de prestations d’assurances sociales, des bourses, des allocations familiales et autres prestations de même nature destinées à l’entretien d’un enfant;
-- b a été perçue pendant que la personne participait à une mesure d’insertion au sens de l’article 72, à l’exception des avances de prestations d’assurances sociales, des bourses, des allocations familiales et autres prestations de même nature destinées à l’entretien.
+<sup>1–2</sup> …
 
 <sup>3</sup> Sur demande, il est possible de renoncer totalement ou partiellement au remboursement dans les cas de rigueur.
 
@@ -657,11 +580,15 @@ arrête:
 
 #### Art. 46
 
-**Commune de domicile et commune de séjour 1. Généralités**
+**Personnes séjournant dans le canton de Berne**
 
-<sup>1</sup> L'octroi de l'aide sociale aux personnes séjournant dans le canton de Berne incombe à la commune dans laquelle la personne a son domicile civil.
+<sup>1</sup> L'octroi de l'aide sociale aux personnes séjournant dans le canton de Berne incombe à la commune dans laquelle la personne dans le besoin a son domicile d’assistance. Le domicile d’assistance est défini selon les dispositions de la LAS.
 
-<sup>2</sup> L'octroi de l'aide sociale incombe à la commune de séjour lorsque la personne n'est pas domiciliée dans le canton de Berne ou qu'elle a besoin d'une aide immédiate en dehors de sa commune de domicile.
+<sup>2</sup> L’octroi de l’aide sociale incombe à la commune de séjour lorsque la personne dans le besoin n’a pas de domicile d’assistance au sens de l’alinéa 1 ou qu’elle a besoin d’une aide immédiate en dehors de son domicile d’assistance. Est considéré comme séjour la présence effective dans une commune.
+
+<sup>2a</sup> Lorsqu’une personne qui se trouve manifestement dans le besoin, en particulier par suite de maladie ou d’accident, est transférée dans une autre commune sur ordre du médecin ou de l’autorité, la commune d’où le transport a été ordonné est considérée comme commune de séjour.
+
+<sup>2b</sup> En cas de litige concernant la compétence à raison du lieu, la première commune auprès de laquelle la personne dans le besoin a déposé une demande de soutien octroie l’aide matérielle à titre provisoire jusqu’à la clarification de la compétence.
 
 <sup>3</sup> Les conflits de compétence entre communes sont tranchés en procédure d'action par le préfet ou la préfète de l’arrondissement administratif de la commune défenderesse.
 
@@ -669,13 +596,13 @@ arrête:
 
 #### Art. 46a
 
-**2. Personnes relevant du droit d’asile et apatrides**
+**Personnes relevant du droit d’asile et apatrides**
 
-<sup>1</sup> Les compétences définies à l’article 46, alinéas 1 et 2 s’appliquent également aux
+<sup>1</sup> Les compétences définies à l’article 46, alinéas 1 et 2 s’appliquent également aux personnes suivantes relevant du domaine de l’asile pour lesquelles la Confédération ne verse pas de subvention à l'aide sociale:
 
-- a réfugiés et apatrides reconnus pour lesquels la Confédération ne verse plus de subvention à l’aide sociale;
-- b personnes à protéger au bénéfice d’une autorisation de séjour pour lesquelles la Confédération ne verse plus de subvention à l’aide sociale;
-- c personnes admises provisoirement séjournant en Suisse de manière conforme au droit depuis plus de sept ans.
+- a réfugiés et apatrides reconnus,
+- b personnes à protéger au bénéfice d’une autorisation de séjour,
+- c personnes admises à titre provisoire.
 
 <sup>2</sup> L’article 2 de la loi du 3 décembre 2019 sur l’aide sociale dans le domaine de l’asile et des réfugiés (LAAR)[^46a-1] est réservé.
 
@@ -685,6 +612,17 @@ arrête:
 
 [^46a-1]: RSB [861.1](https://www.belex.sites.be.ch/data/861.1/fr)
 
+#### Art. 46a1
+
+**Victimes ou témoins de la traite d’êtres humains**
+
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration est compétente pour les victimes ou les témoins de la traite d’êtres humains
+
+- a auxquels un délai de rétablissement et de réflexion a été accordé selon l’article 35 de l’ordonnance fédérale du 24 octobre 2007 relative à l’admission, au séjour et à l’exercice d’une activité lucrative (OASA)[^46a1-1] ou
+- b qui disposent d’une autorisation de séjour de courte durée selon l’article 36 OASA.
+
+[^46a1-1]: RS [142.201](https://db.clex.ch/link/Bund/142.201/fr)
+
 #### Art. 46b
 
 **…**
@@ -693,9 +631,11 @@ arrête:
 
 **Délégation à des tiers**
 
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration et les communes peuvent déléguer l’octroi de l’aide sociale au sens de l'article 46a relevant de leur compétence à des organismes responsables publics ou privés par le biais de contrats de prestations. Ces organismes peuvent rendre des décisions dans les limites des compétences qui leur sont déléguées.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration et les communes peuvent déléguer l’octroi de l’aide sociale au sens des articles 46a et 46a1 relevant de leur compétence à des organismes responsables publics ou privés par le biais de contrats de prestations. Ces organismes peuvent rendre des décisions dans les limites des compétences qui leur sont déléguées.
 
-<sup>2</sup> Les articles 62 à 64 sont applicables par analogie.
+<sup>2</sup> La loi du 9 mars 2021 sur les programmes d’action sociale (LPASoc)[^46c-1] est applicable par analogie.
+
+[^46c-1]: RSB [860.2](https://www.belex.sites.be.ch/data/860.2/fr)
 
 #### Art. 47
 
@@ -819,7 +759,7 @@ arrête:
 
 <sup>3</sup> Au terme de l’inspection sociale, le service social informe la personne concernée de l’administration des preuves.
 
-<sup>4</sup> Les services sociaux rendent compte chaque année à la Direction de la santé, des affaires sociales et de l’intégration des inspections effectuées ainsi que des résultats obtenus.
+<sup>4</sup> Les organismes responsables des services sociaux rendent compte chaque année à la Direction de la santé, des affaires sociales et de l’intégration des inspections effectuées ainsi que des résultats obtenus.
 
 #### Art. 51
 
@@ -851,9 +791,25 @@ arrête:
 
 #### Art. 54
 
+**Financement des prestations d’aide sociale individuelle**
+
 <sup>1</sup> Les dépenses des communes municipales et des communes mixtes pour l'aide sociale individuelle sont admises à la compensation des charges conformément aux dispositions des articles 78 ss.
 
 <sup>2</sup> Les dépenses des communes bourgeoises ne sont pas admises à la compensation des charges.
+
+#### Art. 54a
+
+**Obligation de rembourser les frais entre cantons**
+
+<sup>1</sup> Les frais que le canton de Berne est tenu de rembourser en qualité de canton de domicile au sens de l’article 14 LAS sont crédités au canton de séjour par la commune de domicile selon l’article 46, alinéa 1.
+
+#### Art. 54b
+
+**Coûts des mesures ordonnées par une commune bourgeoise**
+
+<sup>1</sup> Les coûts des mesures ordonnées et préfinancées par une commune bourgeoise compétente en vertu de la présente loi envers un fournisseur de prestations selon la LPASoc sont pris en charge à parts égales par la commune bourgeoise et le canton.
+
+<sup>2</sup> Les participations aux frais ou les prestations de tiers sont déduites avant le partage des coûts.
 
 ### 3.8
 
@@ -861,7 +817,183 @@ arrête:
 
 **…**
 
-## 4 Aide sociale institutionnelle
+### 3.9 Protection des données
+
+#### Art. 57a
+
+**Secret en matière d’aide sociale**
+
+<sup>1</sup> Les personnes chargées d’exécuter la présente loi sont tenues de garder secrètes les informations sur des personnes physiques dont elles prennent connaissance dans le cadre de leur activité.
+
+<sup>2</sup> L’obligation de garder le secret en matière d’aide sociale disparaît si
+
+- a la transmission des informations est exigée ou expressément autorisée par une base légale;
+- b elle est expressément consentie par la personne concernée;
+- c elle est impérativement requise par l’exécution des tâches relevant de l’aide sociale;
+- d un acte punissable est dénoncé ou
+- e le service auquel sont subordonnées les personnes chargées d’exécuter la présente loi leur a donné son autorisation pour la transmission de renseignements.
+
+#### Art. 57b
+
+**Obligations d’annoncer**
+
+<sup>1</sup> Les personnes chargées d’exécuter la présente loi sont tenues d’annoncer au Ministère public les faits qu’elles apprennent dans l’exercice de cette activité et qui les conduisent à soupçonner
+
+- a qu’un crime poursuivi d’office a été commis;
+- b qu’un délit poursuivi d’office a été commis en relation avec la perception de prestations d’aide sociale ou
+- c qu’une infraction au sens de l’article 148a du Code pénal suisse du 21 décembre 1937 (CP)[^57b-1] a été commise, sauf si elle était manifestement involontaire.
+
+<sup>2</sup> Les obligations de dénoncer au Ministère public figurant à l’article 48, alinéa 1 de la loi du 11 juin 2009 portant introduction du code de procédure civile, du code de procédure pénale et de la loi sur la procédure pénale applicable aux mineurs (LiCPM)[^57b-2] et à l’alinéa 1, lettre a disparaissent pour les personnes chargées d’exécuter la présente loi si
+
+- a les informations proviennent de la victime;
+- b les informations proviennent de l’époux ou de l’épouse, du partenaire enregistré ou de la partenaire enregistrée, du concubin ou de la concubine, du père ou de la mère, d’un frère ou d’une sœur ou de l’enfant de la victime ou que
+- c la victime est l’époux ou l’épouse, le partenaire enregistré ou la partenaire enregistrée, le concubin ou la concubine, le père ou la mère, le frère ou la sœur ou l’enfant de l’auteur présumé ou de l’auteure présumée de l’infraction.
+
+[^57b-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
+[^57b-2]: RSB [271.1](https://www.belex.sites.be.ch/data/271.1/fr)
+
+#### Art. 57c
+
+**Transmission admissible d’informations**
+
+<sup>1</sup> Les informations visées à l’article 57a, alinéa 1 peuvent être transmises en vertu de l’article 57a, alinéa 2, lettre a, en particulier,
+
+- a aux autres autorités chargées d’exécuter l’aide sociale individuelle;
+- b aux autorités d’autres cantons chargées d’exécuter l’aide sociale individuelle;
+- c aux services chargés d’exécuter les tâches relevant de l’aide au recouvrement et des avances de contributions d’entretien, pour l’accomplissement de ces tâches;
+- d aux autorités et aux fournisseurs de prestations chargés d’exécuter la LPASoc;
+- e aux autorités de protection de l’enfant et de l’adulte conformément à l’article 443 du Code civil suisse du 10 décembre 1907 (CC)[^57c-1];
+- f aux organes de police du canton et des communes conformément à l’article 146, alinéa 1 de la loi du 10 février 2019 sur la police (LPol)[^57c-2];
+- g aux autorités de poursuite pénale dans une procédure pénale contre une personne chargée d’exécuter la présente loi qui témoigne pour sa propre défense;
+- h aux autorités chargées des questions relatives aux étrangers, sur demande conformément à l’article 97, alinéa 2 de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI)[^57c-3], et spontanément conformément à l’article 97, alinéa 3, lettre d LEI en vertu des dispositions d’exécution du Conseil fédéral;
+- i aux institutions et aux organes des assurances sociales, pour autant que le droit fédéral prévoie un tel traitement des données;
+- k aux autorités fiscales du canton et des communes conformément à l’article 155 de la loi du 21 mai 2000 sur les impôts (LI)[^57c-4];
+- l aux autorités compétentes en matière de poursuite et de faillite conformément à l’article 91, alinéa 5 et à l’article 222, alinéa 5 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite (LP)[^57c-5];
+- m au service compétent de la Direction de l’intérieur et de la justice dans le cadre de l’article 22, alinéa 1 de la loi du 6 juin 2000 portant introduction des lois fédérales sur l’assurance-maladie, sur l’assurance-accidents et sur l’assurance militaire (LiLAMAM)[^57c-6].
+
+<sup>2</sup> Les informations peuvent être transmises uniquement si les autorités et les particuliers qui les ont demandées décrivent précisément l’objet de leur requête ainsi que le but et la nécessité du traitement des données.
+
+<sup>3</sup> Pour autant que les conditions citées à l’article 57a, alinéa 2 soient remplies, les personnes chargées d’exécuter la présente loi sont également autorisées à transmettre des informations à des autorités et à des particuliers qui ne sont soumis à aucune obligation particulière de garder le secret.
+
+[^57c-1]: RS [210](https://db.clex.ch/link/Bund/210/fr)
+[^57c-2]: RSB [551.1](https://www.belex.sites.be.ch/data/551.1/fr)
+[^57c-3]: RS [142.20](https://db.clex.ch/link/Bund/142.20/fr)
+[^57c-4]: RSB [661.11](https://www.belex.sites.be.ch/data/661.11/fr)
+[^57c-5]: RS [281.1](https://db.clex.ch/link/Bund/281.1/fr)
+[^57c-6]: RSB [842.11](https://www.belex.sites.be.ch/data/842.11/fr)
+
+#### Art. 57d
+
+**Acquisition d’informations**
+
+<sup>1</sup> Les informations sont en principe recueillies auprès de la personne concernée dans le cadre de l’obligation de collaborer prescrite à l’article 28.
+
+<sup>2</sup> Si cela s’avère impossible ou non judicieux, elles peuvent être obtenues directement auprès de tiers en vertu de l’article 57e, alinéa 1.
+
+<sup>3</sup> Pour les informations ne pouvant pas être obtenues selon l’article 57e, alinéa 1, les personnes chargées d’exécuter la présente loi demandent une procuration à la personne concernée lorsque celle-ci dépose sa demande d’aide sociale.
+
+<sup>4</sup> Si l’accomplissement de leurs tâches l’exige impérativement, les autorités et les fournisseurs de prestations chargés d’exécuter la présente loi peuvent consulter dans les fichiers centralisés de données personnelles du canton les données personnelles anciennes et actuelles suivantes:
+
+- a données relatives à des mesures de protection de l’enfant et de l’adulte ou à des mesures d’aide sociale,
+- b données relatives au ménage.
+
+#### Art. 57e
+
+**Obligations de renseigner et droit d’informer des tiers**
+
+<sup>1</sup> Les autorités et personnes ci-après sont tenues de fournir aux personnes chargées d’exécuter la présente loi des renseignements écrits ou oraux, y compris concernant des données personnelles particulièrement dignes de protection, le secret professionnel selon l’article 321 CP étant réservé:
+
+- a les autorités du canton et des communes conformément à l’article 2 LPJA, notamment les autorités du contrôle des habitants, les autorités chargées des questions relatives aux étrangers, les autorités fiscales et les organes de police;
+- b les personnes et les organisations de droit public ou de droit privé, dans la mesure où elles sont chargées d’accomplir des tâches publiques cantonales ou communales;
+- c les personnes vivant en communauté domestique avec une personne qui perçoit ou sollicite des prestations en vertu de la présente loi ou ayant à son égard une obligation d’entretien ou d’assistance;
+- d les employeurs de personnes percevant ou sollicitant des prestations en vertu de la présente loi;
+- e les bailleurs louant des logements à des personnes percevant ou sollicitant des prestations en vertu de la présente loi;
+- f les institutions et les organes des assurances sociales qui exécutent des tâches déléguées par le canton.
+
+<sup>2</sup> Les personnes et les autorités énoncées à l’alinéa 1 sont notamment tenues de fournir les renseignements permettant d’examiner
+
+- a la situation financière et personnelle des bénéficiaires de prestations en vertu de la présente loi,
+- b les droits de ces personnes à l’égard de tiers,
+- c l’intégration de ces personnes,
+- d l’existence d’une obligation de rembourser au sens de la présente loi.
+
+<sup>3</sup> Les personnes et les autorités énoncées à l’alinéa 1 peuvent de leur propre chef fournir des informations aux autorités chargées d’exécuter la présente loi si elles savent de source sûre que les personnes visées perçoivent l’aide sociale et si les informations sont impérativement nécessaires pour examiner le droit à des prestations au sens de la présente loi.
+
+### 3.10 Mesures particulières
+
+#### Art. 57f
+
+<sup>1</sup> Pour atteindre le but et les objectifs d’effet de l’aide sociale individuelle, la Direction de la santé, des affaires sociales et de l’intégration peut prendre des mesures particulières ainsi que réaliser ou encourager des essais pilotes.
+
+<sup>2</sup> Les dispositions de la LPASoc s’appliquent par analogie.
+
+### 3.11 Remise et publication des données
+
+#### Art. 57g
+
+**Obligation et étendue de la remise des données**
+
+<sup>1</sup> Les organismes responsables des services sociaux et les fournisseurs de prestations remettent, dans le délai imparti, au service compétent de la Direction de la santé, des affaires sociales et de l’intégration toutes les données essentielles requises pour
+
+- a le relevé et l’analyse des prestations fournies,
+- b le relevé et l’analyse des besoins en prestations,
+- c la planification et la coordination des prestations en fonction des besoins,
+- d le contrôle de l’efficacité et de la qualité des prestations,
+- e le contrôle du respect des obligations légales.
+
+<sup>2</sup> Les données sont rendues anonymes afin d’exclure tout recoupement autre qu’avec les communes et les fournisseurs de prestations.
+
+<sup>3</sup> La responsabilité de la protection des données au sens de l’article 8, alinéa 2 de la loi du 19 février 1986 sur la protection des données (LCPD)[^57g-1] incombe au service compétent de la Direction de la santé, des affaires sociales et de l’intégration.
+
+<sup>4</sup> Le Conseil-exécutif règle les détails par voie d’ordonnance. Il peut en particulier préciser la nature et le volume des données ainsi que la date de remise.
+
+[^57g-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
+
+#### Art. 57h
+
+**Sanction**
+
+<sup>1</sup> Si l’organisme responsable d’un service social ou un fournisseur de prestations ne communique pas les données requises ou ne respecte pas les consignes en la matière, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration perçoit de sa part un montant de 20'000 francs au plus après un avertissement resté sans effet.
+
+#### Art. 57i
+
+**Publication des données**
+
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration est habilitée à traiter les données relevées auprès des organismes responsables des services sociaux et des fournisseurs de prestations et à les publier sous une forme permettant d’identifier communes et fournisseurs de prestations.
+
+<sup>2</sup> Elle peut publier, en particulier sur internet, le résultat du contrôle comparatif
+
+- a des prestations des communes et des fournisseurs, de leur efficacité et de leur qualité,
+- b des coûts.
+
+<sup>3</sup> Avant la publication, les communes se voient octroyer la possibilité de se prononcer sur le résultat du contrôle comparatif.
+
+#### Art. 57k
+
+**Système de gestion des cas**
+
+<sup>1</sup> Le Conseil-exécutif peut imposer par voie d’ordonnance aux organismes responsables des services sociaux l’utilisation d’un système de gestion des cas approuvé par le service compétent de la Direction de la santé, des affaires sociales et de l’intégration.
+
+<sup>2</sup> L’évaluation et l’introduction d’un système uniforme de gestion des cas se font en concertation avec les communes. La Direction de la santé, des affaires sociales et de l’intégration associe activement des représentants et des représentantes des communes dans l’élaboration du système de gestion des cas.
+
+<sup>3</sup> Le système de gestion des cas doit en particulier permettre d’appliquer le modèle de données et de pilotage défini par le service compétent de la Direction de la santé, des affaires sociales et de l’intégration.
+
+## 3a Soins médicaux d’urgence
+
+#### Art. 57l
+
+<sup>1</sup> Sur demande d’un fournisseur de prestations, la commune compétente peut octroyer une garantie de participation aux frais si les conditions suivantes sont réunies:
+
+- a le fournisseur de prestations est une maison de naissance répertoriée ou un hôpital répertorié situés dans le canton;
+- b la demande concerne des frais irrécouvrables pour des soins médicaux d’urgence et le rapatriement subséquent;
+- c la personne traitée n’est pas domiciliée en Suisse et le canton de Berne est compétent selon la LAS et
+- d il s’agit d’un cas extraordinaire.
+
+<sup>2</sup> Le Conseil-exécutif règle les détails par voie d’ordonnance.
+
+<sup>3</sup> Il définit en particulier les éléments constitutifs d’un cas extraordinaire et peut limiter le nombre de fournisseurs de prestations qui peuvent solliciter une garantie de participation au sens de l’alinéa 1.
+
+## 4 Soutien aux adultes en situation de handicap
 
 ### 4.1 Dispositions générales
 
@@ -869,181 +1001,35 @@ arrête:
 
 **Prestations**
 
-<sup>1</sup> L’aide sociale institutionnelle désigne les prestations fournies en mode ambulatoire, semi-résidentiel et résidentiel dans les domaines d’activité énumérés à l’article 2.
+<sup>1</sup> Le soutien aux adultes en situation de handicap est régi par la LPASoc.
 
-<sup>2</sup> Les prestations sont fournies par le canton, les communes, des organismes responsables privés ou des particuliers (fournisseurs de prestations).
+<sup>2</sup> Les prestations sont mises en place et financées en vertu de la présente loi.
 
 <sup>3</sup> …
 
-#### Art. 59
+#### Art. 59–64
 
-**Inventaire des besoins et planification**
+**…**
 
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration inventorie et analyse régulièrement les besoins en prestations.
+### 4.2
 
-<sup>2</sup> Se fondant sur l'analyse des besoins, elle planifie les prestations et élabore des modèles.
+#### Art. 65–66g
 
-<sup>3</sup> Ce faisant, elle tient compte des bases de planification, des rapports et des données remis par les communes et les fournisseurs de prestations.
-
-#### Art. 60
-
-**Mise sur pied**
-
-<sup>1</sup> Dans les limites des ressources disponibles et des directives stratégiques du Conseil-exécutif, la Direction de la santé, des affaires sociales et de l’intégration met sur pied les prestations nécessaires.
-
-<sup>2</sup> A cette fin,
-
-- a le service compétent de la Direction de la santé, des affaires sociales et de l’intégration conclut des contrats de prestations avec les fournisseurs de prestations;
-- b le service compétent de la Direction de la santé, des affaires sociales et de l’intégration autorise les communes à mettre sur pied des prestations au sens de l’article 71a;
-- c le canton, à titre exceptionnel, fournit lui-même des prestations.
-
-#### Art. 60a
-
-**Accessibilité des prestations**
-
-<sup>1</sup> Sous réserve de la preuve du besoin, les prestations mises sur pied par le canton sont accessibles à toutes les personnes domiciliées sur son territoire.
-
-<sup>2</sup> Sous réserve de la preuve du besoin, les prestations mises sur pied par une commune sont accessibles à toutes les personnes domiciliées sur son territoire.
-
-<sup>3</sup> Elles sont également accessibles aux personnes domiciliées dans une autre commune si celle-ci a conclu avec la commune qui les a mises sur pied un contrat stipulant que ses habitants peuvent en bénéficier.
-
-#### Art. 61
-
-**Collaboration intercantonale**
-
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration et les communes peuvent faire appel à des fournisseurs de prestations extracantonaux pour assurer les prestations requises si la couverture des besoins l'exige.
-
-<sup>2</sup> En cas de nécessité, le Conseil-exécutif peut conclure avec d'autres cantons des contrats réglant la collaboration, les conditions d'admission dans les institutions concernées et la prise en charge des coûts.
-
-#### Art. 62
-
-**Contrats de prestations 1. Conclusion**
-
-<sup>1</sup> Les contrats de prestations sont conclus pour une durée déterminée avec des fournisseurs de prestations individuels ou avec des groupes ou associations de fournisseurs.
-
-<sup>2</sup> Les contrats de prestations sont conclus de manière à garantir l'égalité de traitement entre les fournisseurs de prestations ainsi que le respect des conventions collectives ou des conditions de travail usuelles du lieu et de la branche.
-
-<sup>3</sup> Lorsque plusieurs fournisseurs sont à même de fournir la prestation requise et qu'ils sont susceptibles d'entrer en concurrence, il est possible de procéder à une mise au concours avant de conclure le contrat.
-
-#### Art. 63
-
-**2. Contenu**
-
-<sup>1</sup> Les contrats de prestations garantissent, en plus des consignes fixées dans la législation sur les subventions cantonales, que les fournisseurs de prestations proposent les places de formation et de stage nécessaires.
-
-<sup>2</sup> Ils règlent en outre les conditions auxquelles les prestations sont payantes ou gratuites pour les bénéficiaires.
-
-<sup>3–4</sup> …
-
-#### Art. 64
-
-**Contrôles de résultats**
-
-<sup>1</sup> L'efficacité des prestations et des prestations fournies fait l'objet de contrôles réguliers.
-
-<sup>2</sup> Si les objectifs fixés ne sont pas atteints, le contrat de prestations doit être adapté ou résilié en fonction des besoins à couvrir.
-
-### 4.2 Surveillance et autorisation
-
-#### Art. 65
-
-**Surveillance**
-
-<sup>1</sup> Quiconque propose des prestations mises sur pied par le canton ou doit requérir une autorisation cantonale pour les fournir est soumis à la surveillance du canton.
-
-<sup>2</sup> Les communes surveillent les fournisseurs des prestations qu’elles mettent sur pied et peuvent porter à la compensation des charges moyennant approbation de la Direction de la santé, des affaires sociales et de l’intégration ou qui requièrent une autorisation communale.
-
-<sup>3</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration contrôle périodiquement si les fournisseurs de prestations remplissent les exigences légales requises pour l’exercice de leur activité et si leurs prestations sont de bonne qualité.
-
-#### Art. 66
-
-**Autorisation obligatoire**
-
-<sup>1</sup> Les fournisseurs de prestations qui exploitent une institution résidentielle offrant aux pensionnaires logement, nourriture, prise en charge et soins doivent disposer d’une autorisation d’exploiter du service compétent de la Direction de la santé, des affaires sociales et de l’intégration.
-
-<sup>2</sup> Les écoles spécialisées doivent disposer d’une autorisation d’exploiter du service compétent de la Direction de la santé, des affaires sociales et de l’intégration.
-
-<sup>3</sup> Le Conseil-exécutif peut déléguer aux communes la compétence de délivrer les autorisations aux ménages privés prenant en charge des personnes tributaires de soins.
-
-#### Art. 66a
-
-**Conditions d’octroi**
-
-<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration délivre l’autorisation lorsque le fournisseur de prestations
-
-- a décrit son offre dans un programme d’exploitation;
-- b dispose des locaux et des équipements nécessaires à l’exploitation;
-- c garantit que les pensionnaires bénéficient d’une prise en charge et de soins professionnels;
-- d dispose d’une direction qualifiée et de personnel spécialisé et auxiliaire en suffisance;
-- e a adapté l’organisation, le programme et la méthode d’enseignement ainsi que l’organisation des loisirs de l’école spécialisée aux handicaps et aux besoins thérapeutiques des enfants et des adolescents.
-
-<sup>2</sup> Le Conseil-exécutif règle les modalités de détail concernant les conditions et la procédure d’octroi de l’autorisation par voie d’ordonnance.
-
-#### Art. 66b
-
-**Restrictions à l’autorisation**
-
-<sup>1</sup> L’autorisation peut être assortie de conditions ou de charges ou délivrée pour une durée limitée.
-
-#### Art. 66c
-
-**Retrait et extinction de l’autorisation**
-
-<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration retire l’autorisation d’exploiter lorsque les conditions d’octroi ne sont plus remplies ou s’il constate, ultérieurement, que celle-ci n’aurait pas dû être délivrée.
-
-<sup>2</sup> L’autorisation s’éteint avec la cessation des activités de prise en charge, de soins ou de formation du fournisseur de prestations.
-
-#### Art. 66d
-
-**Mesures à l’encontre du ou de la titulaire d’une autorisation**
-
-<sup>1</sup> En cas de violation du devoir de diligence lié à l’entreprise, de non-respect des charges ou des conditions dont est assortie l’autorisation ou d’infraction à la présente loi ou à ses dispositions d’exécution, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut prononcer à l’encontre du ou de la titulaire de l’autorisation d’exploiter les mesures suivantes:
-
-- a un avertissement,
-- b une amende de 50'000 francs au plus,
-- c le retrait de l’autorisation.
-
-<sup>2</sup> L’autorisation peut être entièrement ou partiellement retirée pour une période déterminée ou indéterminée ou convertie en une autorisation limitée dans le temps.
-
-#### Art. 66e
-
-**Obligation de collaborer**
-
-<sup>1</sup> Les fournisseurs de prestations remettent les renseignements nécessaires au service compétent de la Direction de la santé, des affaires sociales et de l’intégration ou de la commune, lui donnent accès aux dossiers ainsi qu’aux locaux et aux équipements et la soutiennent dans tous les domaines dans la mesure nécessaire pour qu’il puisse assumer son mandat de surveillance.
-
-<sup>2</sup> Leurs organes et leurs auxiliaires ne peuvent pas invoquer d’obligations légales de garder le secret vis-à-vis du service compétent de la Direction de la santé, des affaires sociales et de l’intégration ou de la commune.
-
-<sup>3</sup> Les fournisseurs de prestations sont tenus de remettre à la Direction de la santé, des affaires sociales et de l’intégration les données relatives à l’exploitation, aux prestations et à la qualité nécessaires pour la surveillance et le pilotage.
-
-#### Art. 66f
-
-**Assistance administrative**
-
-<sup>1</sup> Les autorités judiciaires et administratives annoncent sans retard au service compétent de la Direction de la santé, des affaires sociales et de l’intégration les faits susceptibles de constituer une violation du devoir de diligence lié à l’entreprise.
-
-#### Art. 66g
-
-**Prescription**
-
-<sup>1</sup> La poursuite administrative se prescrit par deux ans à compter de la date à laquelle le service compétent de la Direction de la santé, des affaires sociales et de l’intégration a eu connaissance des faits incriminés.
-
-<sup>2</sup> Le délai de prescription est interrompu par tout acte d’instruction ou de procédure que le service compétent de la Direction de la santé, des affaires sociales et de l’intégration, une autorité de poursuite pénale ou un tribunal opère en rapport avec les faits incriminés.
-
-<sup>3</sup> La poursuite administrative se prescrit en tout cas par dix ans à compter du jour où les faits incriminés se sont produits.
+**…**
 
 ### 4.3 Détail des prestations
 
 #### Art. 67
 
-**Besoin de soins et d’encadrement des adultes dû à un handicap ou à l’âge**
+**Besoin de soins et de prise en charge des adultes en situation de handicap**
 
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration assure les prestations requises en faveur des adultes nécessitant des soins et un encadrement en raison d’un handicap ou de l’âge.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration met en place les prestations requises par les adultes ayant besoin de soins et d’une prise en charge en raison d’un handicap.
 
 <sup>2</sup> Il s’agit notamment des prestations fournies par
 
 - a les centres de consultation et d’information,
-- b les foyers d’hébergement et les foyers médicalisés,
-- c les organisations d’aide et de soins à domicile,
+- b les institutions médico-sociales,
+- c …
 - d les ateliers protégés,
 - e les ateliers d’occupation et les établissements d’occupation à la journée,
 - f les services d’assistance,
@@ -1051,99 +1037,9 @@ arrête:
 
 <sup>3</sup> …
 
-#### Art. 68
+#### Art. 68–73
 
-**Besoin de soins, d’encadrement ou de formation particulière des enfants et adolescents dû à un handicap**
-
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration assure les prestations requises en faveur des enfants et des adolescents nécessitant des soins, un encadrement ou une formation particulière en raison d’un handicap ou d’un autre trouble.
-
-<sup>2</sup> Il s’agit notamment des prestations fournies par
-
-- a les centres de consultation et d’information,
-- b les foyers pour enfants et adolescents,
-- c les organisations d’aide et de soins à domicile,
-- d les écoles spécialisées,
-- e les services d’assistance,
-- f les services de transport.
-
-<sup>3</sup> Les prestations sont mises sur pied en tenant compte de l’offre proposée dans le cadre de l’école obligatoire.
-
-#### Art. 69
-
-**Promotion de la santé et aide aux toxicomanes 1. Prestations**
-
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration assure les prestations requises pour la promotion de la santé, la prévention de la toxicomanie et l'aide aux toxicomanes.
-
-<sup>2</sup> Il s'agit notamment des prestations fournies par les institutions de prévention, de consultation et d'information, de diagnostic précoce, de prise en charge et de traitement.
-
-#### Art. 70
-
-**2. Fonds de lutte contre la toxicomanie**
-
-<sup>1</sup> Le «Fonds de lutte contre la toxicomanie» constitue un financement spécial au sens de l'article 10 de la loi du 10 novembre 1987 sur les finances (LF)[^70-1].
-
-<sup>2</sup> Le Fonds est alimenté par la part allouée au canton de Berne sur le produit net de la Régie fédérale des alcools, par la redevance d'alcool conformément à l'article 41, alinéa 1 de la loi du 11 novembre 1993 sur l'hôtellerie et la restauration (LHR)[^70-2] et par la part de l'impôt fédéral sur les maisons de jeu conformément à l'article 22, alinéa 1 de la loi cantonale du 10 juin 2020 sur les jeux d'argent (LCJAr)[^70-3]. D'autres ressources peuvent être versées au Fonds par des tiers.
-
-<sup>3</sup> Les ressources du Fonds sont utilisées pour financer des mesures et des institutions relevant de la promotion de la santé en général, de la prévention de la toxicomanie et de l'aide aux toxicomanes.
-
-[^70-1]: Abrogée par L du 26. 3. 2002 sur le pilotage des finances et des prestations (LFP); RSB 620.0
-[^70-2]: RSB [935.11](https://www.belex.sites.be.ch/data/935.11/fr)
-[^70-3]: RSB [935.52](https://www.belex.sites.be.ch/data/935.52/fr)
-
-#### Art. 71
-
-**Insertion sociale 1. Prestations assurées par le canton**
-
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration assure les prestations requises pour l’insertion sociale, en particulier dans les domaines suivants:
-
-- a centres de puériculture,
-- b centres de consultation conjugale, partenariale et familiale,
-- c centres de désendettement,
-- d foyers d’accueil pour femmes,
-- e les services de conseil et d’assistance pour les personnes exerçant la prostitution.
-
-#### Art. 71a
-
-**2. Prestations assurées par les communes**
-
-<sup>1</sup> Les communes assurent les prestations requises pour l'insertion sociale, en particulier dans les domaines suivants:
-
-- a structures d’accueil extrafamilial, dans la mesure où elles ne sont pas régies par la législation sur l’école obligatoire;
-- b animation de jeunesse;
-- c centres communautaires;
-- d hébergement des sans-abri.
-
-<sup>2</sup> Le Conseil-exécutif peut fixer le montant global maximum des coûts admis à la compensation des charges et édicter des prescriptions sur
-
-- a l’admission des prestations à la compensation des charges,
-- b la garantie d’une répartition équitable des prestations à l’échelle régionale et
-- c les exigences minimales auxquelles doivent satisfaire les prestations.
-
-#### Art. 72
-
-**Insertion professionnelle et programmes d’occupation**
-
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration assure les prestations requises en vue de l’occupation, du placement et de la réinsertion professionnelle des chômeurs et chômeuses qui n’ont pas droit à des indemnités de l’assurance-chômage.
-
-<sup>2</sup> Elle veille à répartir équitablement les prestations à l’échelle régionale lors de la conclusion des contrats de prestations.
-
-<sup>3</sup> Elle fixe chaque année le montant global maximum des coûts pouvant être portés à la compensation des charges pour les programmes d’occupation.
-
-<sup>4</sup> Elle peut octroyer des contributions aux communes mettant sur pied des prestations additionnelles à leurs frais.
-
-<sup>5</sup> Elle veille à la coordination avec les prestations proposées par les autorités du marché du travail.
-
-#### Art. 73
-
-**Mesures particulières**
-
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration peut prendre des mesures particulières pour atteindre le but et les objectifs de l'aide sociale.
-
-<sup>2</sup> Elle peut notamment mettre sur pied des prestations répondant à des besoins spécifiques et octroyer des contributions à des organisations sociales.
-
-<sup>3</sup> Elle peut promouvoir et soutenir le travail bénévole.
-
-<sup>4</sup> Elle peut promouvoir et soutenir les projets de recherche et les projets pilotes, en particulier ceux axés sur le développement et la mise en œuvre de nouveaux modèles de prévention et d'insertion, systèmes d'incitation et modes de rétribution.
+**…**
 
 ### 4.4 Financement
 
@@ -1151,9 +1047,9 @@ arrête:
 
 **Rétribution des prestations**
 
-<sup>1</sup> Les prestations sont rétribuées par le canton ou les communes sous forme de contributions allouées à leurs fournisseurs ou à leurs bénéficiaires.
+<sup>1</sup> Les prestations sont rétribuées par le canton sous forme de contributions allouées à leurs fournisseurs ou à leurs bénéficiaires.
 
-<sup>2</sup> Les contributions sont octroyées par contrat ou par décision. Elles sont admises à la compensation des charges conformément aux dispositions des articles 78 ss.
+<sup>2</sup> Les contributions sont octroyées par contrat ou par décision.
 
 <sup>3–4</sup> …
 
@@ -1163,13 +1059,13 @@ arrête:
 
 <sup>1</sup> Les contributions peuvent être allouées aux fournisseurs de prestations sous forme de subventions d’exploitation ou d’investissement. Le Conseil-exécutif peut édicter des prescriptions concernant les coûts pris en compte pour l’octroi des contributions.
 
-<sup>2</sup> La Direction de la santé, des affaires sociales et de l’intégration ou, moyennant son autorisation, les communes peuvent verser aux fournisseurs de prestations des contributions aux coûts de liquidation d’institutions sociales ou d‘un plan social en cas de suppression de postes.
+<sup>2</sup> La Direction de la santé, des affaires sociales et de l’intégration peut verser aux fournisseurs de prestations des contributions aux coûts de liquidation d’offres de prestations ou d’un plan social en cas de suppression de postes.
 
 #### Art. 74b
 
-**Contributions aux bénéficiaires de prestations 1. Conditions d’octroi**
+**Contributions aux bénéficiaires de prestations**
 
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration alloue des contributions aux personnes devant recourir à des prestations de l’aide sociale institutionnelle, pour autant qu’elles ne puissent pas être financées par des subventions d’exploitation de la Direction de la santé, des affaires sociales et de l’intégration, des prestations de tiers ou des prestations personnelles des bénéficiaires.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration peut octroyer des contributions à des particuliers pour leur permettre de recourir aux prestations, pour autant que celles-ci ne puissent pas être financées par des contributions personnelles des bénéficiaires, des contributions de tiers ou des subventions d’exploitation de la Direction de la santé, des affaires sociales et de l’intégration.
 
 <sup>2</sup> Elle octroie les contributions par voie de décision après évaluation des besoins des personnes concernées.
 
@@ -1178,35 +1074,9 @@ arrête:
 - a la procédure d’évaluation des besoins et
 - b les coûts pris en compte pour l’octroi des contributions.
 
-#### Art. 74c
+#### Art. 74c–75a
 
-**2. Usage réservé et remboursement**
-
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration s’assure que les bénéficiaires des contributions en font l’usage prévu et peut, à cette fin, les verser à des tiers.
-
-<sup>2</sup> Les personnes ayant perçu des contributions de manière illicite ou n’en ayant pas fait l’usage prévu sont tenues de les rembourser avec intérêts.
-
-<sup>3</sup> L’article 39, alinéa 2 et l’article 45 sont applicables par analogie.
-
-#### Art. 75
-
-**Montant des contributions**
-
-<sup>1</sup> Les contributions versées aux fournisseurs et aux bénéficiaires de prestations sont axées sur les prestations et, si possible, fixées de manière prospective sur la base de coûts normatifs.
-
-<sup>2</sup> Le calcul de la contribution tient compte des recettes tarifaires et des contributions des assurances sociales dans leur intégralité, et des fonds propres dans une mesure équitable.
-
-<sup>3</sup> Le Conseil-exécutif peut édicter des prescriptions réglant plus précisément la fixation du montant de la contribution, la tarification des prestations et la prise en compte des fonds propres des fournisseurs de prestations.
-
-#### Art. 75a
-
-**Financement des soins**
-
-<sup>1</sup> Conformément à l’article 25a de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^75a-1], la Direction de la santé, des affaires sociales et de l’intégration rémunère les fournisseurs de prestations pour les coûts des soins qui ne sont pas pris en charge par les assurances sociales et les bénéficiaires de prestations.
-
-<sup>2</sup> Le Conseil-exécutif peut fixer des forfaits et règle par voie d’ordonnance la participation aux coûts des bénéficiaires de prestations.
-
-[^75a-1]: RS [832.10](https://db.clex.ch/link/Bund/832.10/fr)
+**…**
 
 #### Art. 76
 
@@ -1220,128 +1090,33 @@ arrête:
 
 #### Art. 77
 
-**Contributions communales**
+**…**
 
-<sup>1</sup> Les communes versent des contributions aux fournisseurs qu'elles ont mandatés pour fournir des prestations.
-
-### 4.4a Rapport juridique
+### 4.4a
 
 #### Art. 77a
 
-<sup>1</sup> Le rapport juridique entre les fournisseurs et les bénéficiaires de prestations se fonde sur un contrat de droit public.
+**…**
 
-## 4a Formation et perfectionnement
+## 4a
 
-### 4a.1 Généralités
+### 4a.1
 
 #### Art. 77b
 
-<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut prendre des mesures touchant la formation et le perfectionnement dans les professions de la santé non universitaires, quand la relève est menacée dans les entreprises des fournisseurs de prestations visés à l’alinéa 2.
+**…**
 
-<sup>2</sup> Les dispositions sur la formation et le perfectionnement s’appliquent aux fournisseurs de prestations suivants:
+### 4a.2
 
-- a les établissements de long séjour accueillant des personnes nécessitant des soins ou un encadrement;
-- b les services d’aide et de soins à domicile.
+#### Art. 77c–77k
 
-<sup>3</sup> Le Conseil-exécutif désigne par voie d’ordonnance les professions de la santé non universitaires concernées.
+**…**
 
-### 4a.2 Formation et perfectionnement pratiques
+### 4a.3
 
-#### Art. 77c
+#### Art. 77l–77n
 
-**Obligation**
-
-<sup>1</sup> Les fournisseurs de prestations du secteur hospitalier et du secteur du sauvetage participent à la formation et au perfectionnement pratiques dans les professions de la santé non universitaires désignées par le Conseil-exécutif.
-
-#### Art. 77d
-
-**Stratégie de formation**
-
-<sup>1</sup> Chaque fournisseur de prestations établit une stratégie de formation.
-
-<sup>2</sup> La stratégie de formation décrit les conditions requises en exploitation et les objectifs ainsi que les thèmes de la formation et du perfectionnement pratiques dans les professions de la santé non universitaires désignées par le Conseil-exécutif.
-
-#### Art. 77e
-
-**Prestation de formation et de perfectionnement**
-
-<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration fixe la prestation de formation et de perfectionnement à réaliser par chaque fournisseur durant l’exercice annuel. Pour ce faire, il se fonde sur la planification cantonale des soins et sur les consignes cantonales relatives au calcul du potentiel de formation.
-
-<sup>2</sup> Les consignes cantonales relatives au calcul du potentiel de formation prennent en particulier en compte
-
-- a l’effectif du fournisseur de prestations exerçant une profession de la santé non universitaire;
-- b la structure de l’entreprise du fournisseur de prestations;
-- c les prestations diagnostiques, thérapeutiques et infirmières du fournisseur de prestations dans les secteurs hospitalier et ambulatoire.
-
-<sup>3</sup> Le fournisseur de prestations peut organiser la formation et le perfectionnement lui-même ou en charger un autre fournisseur de prestations situé dans le canton de Berne.
-
-<sup>4</sup> Le Conseil-exécutif fixe la pondération applicable à chaque place de formation et de perfectionnement par voie d’ordonnance et édicte les consignes relatives au calcul du potentiel de formation des fournisseurs de prestations.
-
-#### Art. 77f
-
-**Indemnisation**
-
-<sup>1</sup> A la fin de l’exercice annuel, le fournisseur de prestations communique au service compétent de la Direction de la santé, des affaires sociales et de l’intégration, pour chaque profession de la santé non universitaire, le nombre de semaines de formation et de perfectionnement qui ont eu lieu pendant ledit exercice.
-
-<sup>2</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration indemnise le fournisseur pour la prestation de formation et de perfectionnement réalisée pendant l’exercice annuel. Il déduit du montant versé les sommes que le fournisseur de prestations touche en vertu de la LAMal.
-
-<sup>3</sup> ll peut verser des avances périodiques au fournisseur de prestations durant l’exercice pour la formation et le perfectionnement convenus.
-
-<sup>4</sup> Le Conseil-exécutif définit les détails du versement de l’indemnité par voie d’ordonnance.
-
-#### Art. 77g
-
-**Versement compensatoire**
-
-<sup>1</sup> Si la prestation de formation et de perfectionnement est inférieure au volume convenu, le fournisseur de prestations s’acquitte d’un versement compensatoire.
-
-<sup>2</sup> Le montant du versement compensatoire correspond à trois fois la différence entre l’indemnité prévue pour la formation et le perfectionnement et celle due pour la prestation effectivement fournie durant l’exercice annuel.
-
-<sup>3</sup> L’obligation du versement compensatoire naît par le dépassement d’une marge de tolérance. Le Conseil-exécutif règle les détails relatifs au versement compensatoire et en particulier le montant de la marge de tolérance.
-
-<sup>4</sup> Si le fournisseur de prestations peut prouver qu’il n’est pas responsable du dépassement de la marge de tolérance, il est renoncé au versement compensatoire.
-
-#### Art. 77h
-
-**Remise des données 1. Obligation**
-
-<sup>1</sup> Les fournisseurs de prestations remettent dans le délai imparti au service compétent de la Direction de la santé, des affaires sociales et de l’intégration toutes les données requises pour les vérifications découlant des articles 77e à 77g.
-
-<sup>2</sup> Le Conseil-exécutif règle les modalités de détail par voie d’ordonnance. Il peut en particulier préciser la nature et le volume des données ainsi que la date de remise.
-
-#### Art. 77i
-
-**2. Sanction**
-
-<sup>1</sup> Si un fournisseur de prestations ne communique pas les données requises ou ne respecte pas les directives du Conseil-exécutif en la matière, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration perçoit de sa part un montant pouvant atteindre 20'000 francs.
-
-#### Art. 77k
-
-**Délégation de compétences**
-
-<sup>1</sup> Le Conseil-exécutif peut déléguer à la Direction de la santé, des affaires sociales et de l’intégration ses compétences concernant la réglementation de la formation et du perfectionnement dans les professions de la santé non universitaires par voie d’ordonnance.
-
-### 4a.3 Formation et perfectionnement théoriques du personnel des fournisseurs de prestations
-
-#### Art. 77l
-
-**But**
-
-<sup>1</sup> Afin de garantir la relève dans les professions de la santé non universitaires, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut octroyer aux fournisseurs de prestations établis dans le canton de Berne des subventions à la formation et au perfectionnement théoriques de leur personnel.
-
-<sup>2</sup> La Direction de la santé, des affaires sociales et de l’intégration soumet un rapport annuel au Conseil-exécutif. Ce rapport porte en particulier sur le montant des subventions.
-
-#### Art. 77m
-
-**Conditions**
-
-<sup>1</sup> Des subventions peuvent être octroyées pour la formation et le perfectionnement du personnel du fournisseur de prestations quand il s’agit d’une profession de la santé non universitaire reconnue par le Conseil-exécutif, dont le besoin est attesté dans la planification cantonale des soins.
-
-#### Art. 77n
-
-**Montant des subventions**
-
-<sup>1</sup> Les subventions couvrent les dépenses de formation et de perfectionnement des institutions, facturées aux fournisseurs de prestations ou aux personnes engagées par ceux-ci.
+**…**
 
 ## 5 Compensation des charges
 
@@ -1357,12 +1132,15 @@ arrête:
 
 **Charges du canton**
 
-<sup>1</sup> Les charges suivantes du canton sont admises à la compensation des charges:
+<sup>1</sup> Les dépenses suivantes du canton sont admises à la compensation des charges:
 
-- a les dépenses occasionnées par le financement de prestations de l’aide sociale institutionnelle, à l’exception des prestations de soins et d’encadrement au sens de l’article 67;
-- b les dépenses pour d'autres mesures;
+- a …
+- b les dépenses pour des mesures particulières,
 - c les dépenses découlant de la législation spéciale;
 - d les dépenses imputables engagées pour les inspections sociales.
+- e les dépenses occasionnées par le soutien aux victimes et aux témoins de la traite d’êtres humains, incluant aide matérielle, conseil, encadrement et frais de traitement,
+- f les dépenses imputables engagées pour le système de gestion des cas défini par la Direction de la santé, des affaires sociales et de l’intégration.
+- g les dépenses selon l’article 54b.
 
 <sup>2</sup> Le Conseil-exécutif règle les modalités de détail concernant les dépenses admissibles.
 
@@ -1370,26 +1148,26 @@ arrête:
 
 **Charges des communes 1. Principe**
 
-<sup>1</sup> Les charges suivantes des communes sont admises à la compensation des charges:
+<sup>1</sup> Les dépenses suivantes des communes sont admises à la compensation des charges:
 
 - a l’aide matérielle accordée aux personnes dans le besoin;
-- b les frais imputables de traitement et de perfectionnement du personnel spécialisé et du personnel administratif employés par les services sociaux dans le domaine de l’aide sociale individuelle et des tâches attribuées par la législation spéciale;
+- b les dépenses imputables de traitement et de perfectionnement du personnel employé par la commune dans le domaine de l’aide sociale individuelle et pour l’accomplissement des tâches attribuées par la législation spéciale;
 - c les traitements des stagiaires employés par les services sociaux;
-- d 80 pour cent des contributions imputables versées aux fournisseurs de prestations dans le domaine de l’aide sociale institutionnelle, à condition qu’elles aient été accordées conformément aux dispositions légales et avec l’autorisation du service compétent de la Direction de la santé, des affaires sociales et de l’intégration;
-- d1 au moins 80 pour cent des dépenses imputables engagées pour les prestations visées à l’article 71a, alinéa 1, lettre a;
-- e les dépenses imputables engagées pour les prestations fournies conformément à l’article 71a, alinéa 1, lettre d;
+- d–e …
 - f les dépenses découlant de la législation spéciale;
 - g les dépenses imputables engagées pour les inspections sociales et d’autres mesures de recherche de preuves;
-- h les frais engagés pour garantir les prétentions en remboursement.
+- h les dépenses engagées pour garantir les prétentions en remboursement;
+- i les dépenses encourues pour des soins médicaux d’urgence;
+- k les dépenses imputables engagées pour le système de gestion des cas défini par la Direction de la santé, des affaires sociales et de l’intégration.
 
 #### Art. 80a
 
 **2. Prescriptions de détail**
 
-<sup>1</sup> Le Conseil-exécutif édicte des prescriptions de détail réglant les dépenses des communes qui sont admises à la compensation des charges. Il détermine en particulier
+<sup>1</sup> Le Conseil-exécutif règle par voie d’ordonnance les détails concernant les dépenses des communes admises à la compensation des charges. Il détermine en particulier
 
 - a la part des recettes à déduire,
-- b les frais de traitement et de perfectionnement imputables du personnel spécialisé et du personnel administratif,
+- b les dépenses imputables de traitement et de perfectionnement du personnel employé par la commune dans le domaine de l’aide sociale individuelle,
 - c les coûts imputables des services d’inspection sociale et des inspections sociales ainsi que d’autres mesures de recherche de preuves.
 
 <sup>2</sup> Il peut fixer des forfaits ou prévoir des formes de rétribution axée sur les prestations pour l'admission des frais de traitement et de perfectionnement à la compensation des charges.
@@ -1415,39 +1193,9 @@ arrête:
 
 <sup>3</sup> La préfecture prend les mesures de surveillance requises.
 
-#### Art. 80d
+#### Art. 80d–80f
 
-**Charges imputables des communes 1. Bonus et malus**
-
-<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration évalue chaque année l’efficacité et les prestations des services sociaux.
-
-<sup>2</sup> L’évaluation porte en particulier sur le rapport coûts–efficacité du versement de l’aide matérielle.
-
-<sup>3</sup> Le canton octroie un bonus aux communes dont les services sociaux affichent pendant trois ans des dépenses d’aide sociale par habitant inférieures de plus de 30 pour cent à la moyenne cantonale (valeur de comparaison).
-
-<sup>4</sup> Il inflige un malus aux communes dont les services sociaux affichent pendant trois ans des dépenses d’aide sociale par habitant supérieures de plus de 30 pour cent à la moyenne cantonale (valeur de comparaison).
-
-#### Art. 80e
-
-**2. Evaluation de l’efficience**
-
-<sup>1</sup> Le rapport coûts–efficacité de l’aide matérielle est déterminé en comparant les dépenses effectives par habitant avec les dépenses corrigées des facteurs structurels (valeur de comparaison).
-
-<sup>2</sup> Le Conseil-exécutif détermine par voie d’ordonnance quels facteurs structurels sont inclus dans le calcul et comment les résultats sont établis.
-
-<sup>3</sup> Les services sociaux et les communes peuvent faire appel aux conseils de la Direction de la santé, des affaires sociales et de l’intégration pour améliorer leur situation.
-
-#### Art. 80f
-
-**3. Calcul et notification**
-
-<sup>1</sup> Le bonus est égal à dix pour cent de la différence positive entre la valeur de comparaison extrapolée au nombre total d’habitants et les dépenses effectives, mais ne dépasse pas 20 francs par habitant.
-
-<sup>2</sup> Le malus est égal à dix pour cent du montant de la différence négative entre la valeur de comparaison extrapolée au nombre total d’habitants et les dépenses effectives, mais ne dépasse pas 20 francs par habitant.
-
-<sup>3</sup> Le bonus ou le malus est respectivement crédité ou débité à toutes les communes affiliées au service social concerné.
-
-<sup>4</sup> La Direction de la santé, des affaires sociales et de l’intégration notifie sa décision de verser un bonus ou d’infliger un malus aux organismes responsables des services sociaux avec le décompte de compensation des charges.
+**…**
 
 #### Art. 80g
 
@@ -1459,20 +1207,23 @@ arrête:
 
 <sup>3</sup> Les données fournies doivent permettre de procéder à des évaluations sur les dépenses et les revenus générés par la mise à disposition des prestations ainsi que sur l’ampleur de ces dernières.
 
-<sup>4</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration veille à ce que les données transmises par voie électronique soient pseudonymisées. L’attribution des pseudonymes est du ressort exclusif de la commune et ceux-ci peuvent être utilisés uniquement avec le logiciel géré par la Direction de la santé, des affaires sociales et de l’intégration au sens de l’alinéa 5.
+<sup>4</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration veille à ce que les données transmises par voie électronique soient pseudonymisées. L’attribution des pseudonymes est du ressort exclusif de la commune.
 
-<sup>5</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration traite les données avec un logiciel exploité par cette dernière, qui permet
+<sup>4a</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration est habilité à utiliser systématiquement le numéro d’assuré AVS selon la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^80g-1].
+
+<sup>5</sup> Il traite les données avec un logiciel qu’il exploite lui-même et qui permet
 
 - a une révision des dossiers axée sur les risques,
 - b une évaluation en série des données saisies,
-- c l’établissement d’un benchmarking,
-- d le calcul des bonus et des malus des services sociaux.
+- c l’établissement d’une analyse comparative,
+- d …
+- e le calcul des frais de traitement.
 
-<sup>6</sup> La responsabilité de la protection des données au sens de l’article 8, alinéa 2 de la loi du 19 février 1986 sur la protection des données (LCPD)[^80g-1] incombe au service compétent de la Direction de la santé, des affaires sociales et de l’intégration.
+<sup>6</sup> La responsabilité de la protection des données au sens de l’article 8, alinéa 2 LCPD incombe au service compétent de la Direction de la santé, des affaires sociales et de l’intégration.
 
 <sup>7</sup> …
 
-[^80g-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
+[^80g-1]: RS [831.10](https://db.clex.ch/link/Bund/831.10/fr)
 
 #### Art. 81
 
@@ -1486,11 +1237,7 @@ arrête:
 
 **Parts des communes**
 
-<sup>1</sup> Le service compétent de la Direction des finances calcule la part de chaque commune selon les dispositions de la LPFC.
-
-<sup>2</sup> La Direction de la santé, des affaires sociales et de l’intégration détermine les communes recevant un bonus et celles frappées d’un malus selon les articles 80d à 80f et détermine le solde positif ou négatif devant être imputé à la compensation des charges conformément à l’article 3.
-
-<sup>3</sup> Le solde résultant du paiement d’un bonus ou d’un malus est porté au décompte de compensation des charges de l’exercice suivant.
+<sup>1–3</sup> …
 
 <sup>4</sup> Lorsque la part d'une commune est plus faible que le montant de ses dépenses admissibles à la compensation des charges, la Direction de la santé, des affaires sociales et de l’intégration rembourse la différence. Lorsque la part d'une commune est plus élevée que le montant de ses dépenses admissibles à la compensation des charges, la commune rembourse la différence à la Direction de la santé, des affaires sociales et de l’intégration.[^82-1]
 
@@ -1517,9 +1264,7 @@ arrête:
 
 #### Art. 85
 
-**Disposition pénale**
-
-<sup>1</sup> La personne qui a bénéficié de prestations ou de contributions du canton ou des communes en fournissant des données erronées ou incomplètes ou en dissimulant des faits est punie de l'amende. Les fautes commises par négligence ne sont pas punissables.
+**…**
 
 #### Art. 86
 
