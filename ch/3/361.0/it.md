@@ -3,11 +3,11 @@ sr: "361.0"
 title: Ordinanza del 26 ottobre 2016 sul sistema di ricerca informatizzato di polizia (Ordinanza RIPOL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/665"
 language: it
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2016-10-26
 in_force: 2016-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2016-665-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-665-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20210401/it"
 
 (Ordinanza RIPOL)
 
-del 26 ottobre 2016 (Stato 1° aprile 2021)
+del 26 ottobre 2016 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -91,16 +91,16 @@ Le autorità seguenti possono notificare a fedpol le segnalazioni in vista del l
 - a. il Ministero pubblico della Confederazione per gli scopi di cui all’articolo 15 capoverso 1 lettera a LSIP;
 - b. l’ambito direzionale Assistenza giudiziaria internazionale dell’Ufficio federale di giustizia per gli scopi di cui all’articolo 15 capoverso 1 lettere a e g LSIP;
 - c. la Segreteria di Stato della migrazione per gli scopi di cui all’articolo 15 capoverso 1 lettere a, d<sup>bis</sup> e g LSIP;
-- d. la Direzione generale delle dogane per gli scopi di cui all’articolo 15 capoverso 1 lettere a e g LSIP;
+- d. l’Ufficio federale della dogana e della sicurezza dei confini[^4-1] per gli scopi di cui all’articolo 15 capoverso 1 lettere a e g LSIP;
 - e. le autorità della giustizia militare per gli scopi di cui all’articolo 15 capoverso 1 lettera a LSIP;
 - f. le autorità di polizia dei Cantoni per gli scopi di cui all’articolo 15 capoverso 1 LSIP;
 - g. la Commissione federale delle case da gioco per gli scopi di cui all’articolo 15 capoverso 1 lettere a e g LSIP;
-- h. l’Autorità centrale in materia di rapimento internazionale di minori secondo la Convenzione del 25 ottobre 1980[^4-1] sugli aspetti civili del rapimento internazionale di minori presso l’Ufficio federale di giustizia, in adempimento dei compiti di cui all’articolo 15 capoverso 1 lettere a, c ed i LSIP;
+- h. l’Autorità centrale in materia di rapimento internazionale di minori secondo la Convenzione del 25 ottobre 1980[^4-2] sugli aspetti civili del rapimento internazionale di minori presso l’Ufficio federale di giustizia, in adempimento dei compiti di cui all’articolo 15 capoverso 1 lettere a, c ed i LSIP;
 - i. gli uffici della circolazione stradale per gli scopi di cui all’articolo 15 capoverso 1 lettere e ed f LSIP;
 - j. le autorità preposte all’esecuzione delle pene e delle misure per gli scopi di cui all’articolo 15 capoverso 1 lettere b, c e k LSIP;
 - k. il Servizio delle attività informative della Confederazione (SIC) per gli scopi di cui all’articolo 15 capoverso 1 lettera j LSIP;
-- l. l’organo federale incaricato dell’esecuzione del servizio civile[^4-2] per gli scopi di cui all’articolo 15 capoverso 1 lettera a LSIP;
-- m.[^4-3] le autorità competenti per l’esecuzione dell’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> del Codice penale o dell’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare (espulsione giudiziaria) per gli scopi di cui all’articolo 15 capoverso 1 lettera d LSIP.
+- l. l’organo federale incaricato dell’esecuzione del servizio civile[^4-3] per gli scopi di cui all’articolo 15 capoverso 1 lettera a LSIP;
+- m.[^4-4] le autorità competenti per l’esecuzione dell’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> del Codice penale o dell’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare (espulsione giudiziaria) per gli scopi di cui all’articolo 15 capoverso 1 lettera d LSIP.
 
 <sup>2</sup>
 
@@ -109,12 +109,13 @@ Nell’ambito dei loro compiti legali, anche le seguenti autorità partecipanti 
 - a. fedpol per la lotta contro la criminalità organizzata, per le misure di allontanamento nei confronti degli stranieri che mettono in pericolo la sicurezza interna o esterna della Svizzera nonché su richiesta di un’autorità estera o di un’autorità federale o cantonale per gli scopi di cui all’articolo 15 capoverso 1 LSIP;
 - b. le autorità di polizia dei Cantoni in virtù dell’articolo 15 capoverso 1 LSIP;
 - c. gli uffici della circolazione stradale per le targhe di controllo;
-- d.[^4-4] le autorità competenti per l’esecuzione dell’espulsione giudiziaria per gli scopi di cui all’articolo 15 capoverso 1 lettera d LSIP.
+- d.[^4-5] le autorità competenti per l’esecuzione dell’espulsione giudiziaria per gli scopi di cui all’articolo 15 capoverso 1 lettera d LSIP.
 
-[^4-1]: [RS 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
-[^4-2]: Dal 1° gen. 2019: Ufficio federale del servizio civile.
-[^4-3]: Introdotta dal n. I 11 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^4-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^4-2]: [RS 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
+[^4-3]: Dal 1° gen. 2019: Ufficio federale del servizio civile.
 [^4-4]: Introdotta dal n. I 11 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^4-5]: Introdotta dal n. I 11 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 5
 
@@ -132,7 +133,7 @@ Gli uffici dello stato civile sono tenuti a fornire a fedpol e alle autorità pr
 
 Per svolgere i loro compiti legali, le autorità seguenti possono consultare direttamente i dati mediante procedura di richiamo:
 
-- a. fedpol, il Ministero pubblico della Confederazione, l’Amministrazione federale delle dogane nonché le autorità di polizia dei Cantoni: in relazione a segnalazioni di persone e di reati non chiariti;
+- a. fedpol, il Ministero pubblico della Confederazione, l’Ufficio federale della dogana e della sicurezza dei confini nonché le autorità di polizia dei Cantoni: in relazione a segnalazioni di persone e di reati non chiariti;
 - b. le rappresentanze svizzere all’estero che adempiono compiti consolari: in relazione a segnalazioni di persone e di documenti d’identità;
 - c. l’Ufficio federale di giustizia, il Servizio dei ricorsi del Dipartimento federale di giustizia e polizia (DFGP) e le autorità della giustizia militare: in relazione a segnalazioni di persone e di documenti d’identità;
 - d. la Segreteria di Stato della migrazione: in relazione a segnalazioni di persone e di documenti d’identità;
@@ -227,7 +228,7 @@ Tali dati possono essere comunicati alle autorità seguenti per l’adempimento 
 - d. le autorità che adempiono compiti in materia di diritto degli stranieri;
 - e. i servizi esteri Interpol.
 
-<sup>3</sup> Fedpol, la Direzione generale delle dogane e le autorità di polizia dei Cantoni possono, in singoli casi, comunicare per iscritto o verbalmente dati del RIPOL alle autorità di cui all’articolo 6, nella misura in cui tali dati servano all’adempimento dei loro compiti legali.
+<sup>3</sup> Fedpol, l’Ufficio federale della dogana e della sicurezza dei confini e le autorità di polizia dei Cantoni possono, in singoli casi, comunicare per iscritto o verbalmente dati del RIPOL alle autorità di cui all’articolo 6, nella misura in cui tali dati servano all’adempimento dei loro compiti legali.
 
 <sup>4</sup> Su richiesta, fedpol può comunicare per iscritto o verbalmente dati del RIPOL all’Ufficio europeo di polizia (Europol) nell’ambito della cooperazione per la lotta contro la criminalità internazionale nei settori della criminalità di cui all’articolo 3 dell’accordo del 24 settembre 2004[^9-1] tra la Confederazione svizzera e l’Ufficio europeo di polizia.
 
@@ -427,8 +428,8 @@ Abbreviazioni:
 <tr><td>UFG Ufficio federale di giustizia</td><td>MIGRA Autorità cantonali, regionali e comunali in materia di stranieri, autorità in materia di stranieri del Principato del Liechtenstein</td></tr>
 <tr><td>SEM Segreteria di Stato della migrazione</td><td>UCS Uffici della circolazione stradale</td></tr>
 <tr><td>SR Servizio dei ricorsi del DFGP</td><td>SECO/UCL Segreteria di Stato dell’economia, uffici cantonali e comunali del lavoro</td></tr>
-<tr><td>AFD Cgcf Amministrazione federale delle dogane: Antifrode doganale e Cgcf</td><td>PMCR Polizia municipale, comunale e regionale</td></tr>
-<tr><td>AFD Civi Amministrazione federale delle dogane senza Antifrode doganale e Cgcf</td><td>AEEG Autorità incaricate dell’esecuzione delle espulsioni giudiziarie</td></tr>
+<tr><td>UDSC Cgcf Ufficio federale della dogana e della sicurezza dei confini: Antifrode doganale e Cgcf</td><td>PMCR Polizia municipale, comunale e regionale</td></tr>
+<tr><td>UDSC Civi Ufficio federale della dogana e della sicurezza dei confini senza Antifrode doganale e Cgcf</td><td>AEEG Autorità incaricate dell’esecuzione delle espulsioni giudiziarie</td></tr>
 <tr><td>SIF Servizio centrale d’incasso dell’Amministrazione delle finanze</td><td>EPM Autorità di esecuzione delle pene e delle misure</td></tr>
 <tr><td>CFCG Commissione federale delle case da gioco</td><td>DFAE Dipartimento federale degli affari esteri</td></tr>
 <tr><td>GM Autorità della giustizia militare</td><td>IP Servizi Interpol e Segretariato generale</td></tr>
@@ -438,7 +439,7 @@ Abbreviazioni:
 </table>
 
 <table>
-<tr><th></th><th>UFP</th><th>MPC</th><th>UFG</th><th>SEM</th><th>SR</th><th>AFD Cgcf</th><th>AFD Civ</th><th>SIF</th><th>CFCG</th><th>GM</th><th>SIC</th><th>ACSP</th><th>OESC</th><th>SM</th><th>POLCA</th><th>MIGRA</th><th>UCS</th><th>SECO/UCL</th><th>PMCR</th><th>AEEG</th><th>EPM</th><th>DFAE</th><th>IP</th><th>Sic mil</th><th>ARDI</th></tr>
+<tr><th></th><th>UFP</th><th>MPC</th><th>UFG</th><th>SEM</th><th>SR</th><th>UDSC Cgcf</th><th>UDSC Civ</th><th>SIF</th><th>CFCG</th><th>GM</th><th>SIC</th><th>ACSP</th><th>OESC</th><th>SM</th><th>POLCA</th><th>MIGRA</th><th>UCS</th><th>SECO/UCL</th><th>PMCR</th><th>AEEG</th><th>EPM</th><th>DFAE</th><th>IP</th><th>Sic mil</th><th>ARDI</th></tr>
 <tr><td>1. Banca dei dati personali</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>a. Schema dei dati personali:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Provenienza dei dati, dati di:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td>A</td><td>M</td><td>M</td><td>A</td><td>A</td><td></td><td></td><td>A</td></tr>

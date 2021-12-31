@@ -3,11 +3,11 @@ sr: "361.0"
 title: Ordonnance du 26 octobre 2016 sur le système de recherches informatisées de police (Ordonnance RIPOL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/665"
 language: fr
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2016-10-26
 in_force: 2016-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2016-665-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-665-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20210401/fr"
 
 (Ordonnance RIPOL)
 
-du 26 octobre 2016 (Etat le 1<sup>er</sup> avril 2021)
+du 26 octobre 2016 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -91,16 +91,16 @@ Les autorités suivantes peuvent annoncer à fedpol des signalements en vue de l
 - a. le Ministère public de la Confédération, aux fins énoncées à l’art. 15, al. 1, let. a, LSIP;
 - b. le Domaine de direction Entraide judiciaire internationale de l’Office fédéral de la justice, aux fins énoncées à l’art. 15, al. 1, let. a et g, LSIP;
 - c. le Secrétariat d’État aux migrations, aux fins énoncées à l’art. 15, al. 1, let. a, d<sup>bis</sup> et g, LSIP;
-- d. la Direction générale des douanes, aux fins énoncées à l’art. 15, al. 1, let. a et g, LSIP;
+- d. l’Office fédéral de la douane et de la sécurité des frontières[^4-1], aux fins énoncées à l’art. 15, al. 1, let. a et g, LSIP;
 - e. les autorités de la justice militaire, aux fins énoncées à l’art. 15, al. 1, let. a, LSIP;
 - f. les autorités cantonales de police, aux fins énoncées à l’art. 15, al. 1, LSIP;
 - g. la Commission fédérale des maisons de jeu, aux fins énoncées à l’art. 15, al. 1, let. a et g, LSIP;
-- h. l’autorité centrale chargée de la lutte contre les enlèvements internationaux d’enfants selon la Convention du 25 octobre 1980 sur les aspects civils de l’enlèvement international d’enfants[^4-1] de l’Office fédéral de la justice, pour accomplir les tâches prévues à l’art. 15, al. 1, let. a, c et i, LSIP;
+- h. l’autorité centrale chargée de la lutte contre les enlèvements internationaux d’enfants selon la Convention du 25 octobre 1980 sur les aspects civils de l’enlèvement international d’enfants[^4-2] de l’Office fédéral de la justice, pour accomplir les tâches prévues à l’art. 15, al. 1, let. a, c et i, LSIP;
 - i les offices de la circulation routière, aux fins énoncées à l’art. 15, al. 1, let. e et f, LSIP;
 - j. les autorités chargées de l’exécution des peines et mesures, aux fins énoncées à l’art. 15, al. 1, let. b, c et k, LSIP;
 - k. le Service de renseignement de la Confédération (SRC), aux fins énoncées à l’art. 15, al. 1, let. j, LSIP;
-- l. l’organe fédéral chargé de l’exécution du service civil[^4-2], en ce qui concerne les signalements de personnes, aux fins énoncées à l’art. 15, al. 1, let. a, LSIP;
-- m.[^4-3] les autorités chargées de l’exécution des expulsions pénales aux fins énoncées à l’art. 15, al. 1, let. d, LSIP.
+- l. l’organe fédéral chargé de l’exécution du service civil[^4-3], en ce qui concerne les signalements de personnes, aux fins énoncées à l’art. 15, al. 1, let. a, LSIP;
+- m.[^4-4] les autorités chargées de l’exécution des expulsions pénales aux fins énoncées à l’art. 15, al. 1, let. d, LSIP.
 
 <sup>2</sup>
 
@@ -109,12 +109,13 @@ Dans le cadre de leurs tâches légales, les autorités suivantes qui participen
 - a. fedpol, à des fins de lutte contre le crime organisé, dans le cadre des mesures d’éloignement concernant les étrangers qui menacent la sécurité intérieure ou extérieure de la Suisse et, sur demande d’une autorité étrangère, fédérale ou cantonale, aux fins énoncées à l’art. 15, al. 1, LSIP;
 - b. les autorités cantonales de police conformément à l’art. 15, al. 1, LSIP;
 - c. les offices de la circulation routière pour les plaques d’immatriculation;
-- d.[^4-4] les autorités chargées de l’exécution des expulsions pénales, aux fins énoncées à l’art. 15, al. 1, let. d, LSIP.
+- d.[^4-5] les autorités chargées de l’exécution des expulsions pénales, aux fins énoncées à l’art. 15, al. 1, let. d, LSIP.
 
-[^4-1]: [RS 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
-[^4-2]: Depuis le 1<sup>er</sup> janv. 2019 : Office fédéral du service civil.
-[^4-3]: Introduite par le ch. I 11 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^4-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^4-2]: [RS 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
+[^4-3]: Depuis le 1<sup>er</sup> janv. 2019 : Office fédéral du service civil.
 [^4-4]: Introduite par le ch. I 11 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^4-5]: Introduite par le ch. I 11 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 5
 
@@ -132,7 +133,7 @@ Les offices de l’état civil sont tenus de fournir à fedpol et aux autorités
 
 Dans l’accomplissement de leurs tâches légales, les autorités suivantes peuvent consulter des données directement en ligne:[^6-1]
 
-- a. fedpol, le Ministère public de la Confédération, l’Administration fédérale des douanes, de même que les autorités cantonales de police, en ce qui concerne les signalements de personnes et d’infractions non élucidées;
+- a. fedpol, le Ministère public de la Confédération, l’Office fédéral de la douane et de la sécurité des frontières, de même que les autorités cantonales de police, en ce qui concerne les signalements de personnes et d’infractions non élucidées;
 - b. les représentations suisses à l’étranger assumant des tâches consulaires, en ce qui concerne les signalements de personnes et de documents d’identité;
 - c. l’Office fédéral de la justice, le Service des recours du Département fédéral de justice et police (DFJP) et les autorités de la justice militaire, en ce qui concerne les signalements de personnes et de documents d’identité;
 - d. le Secrétariat d’État aux migrations, en ce qui concerne les signalements de personnes et de documents d’identité;
@@ -229,7 +230,7 @@ Ces données peuvent être remises aux autorités suivantes en vue de l’accomp
 - d. les autorités assumant des tâches relevant du droit des étrangers;
 - e. les bureaux nationaux d’Interpol.
 
-<sup>3</sup> Fedpol, la Direction générale des douanes et les autorités cantonales de police peuvent, dans les cas d’espèce, communiquer par écrit ou oralement des données figurant dans le RIPOL aux autorités mentionnées à l’art. 6, dans la mesure où celles-ci en ont besoin pour accomplir leurs tâches légales.
+<sup>3</sup> Fedpol, l’Office fédéral de la douane et de la sécurité des frontières et les autorités cantonales de police peuvent, dans les cas d’espèce, communiquer par écrit ou oralement des données figurant dans le RIPOL aux autorités mentionnées à l’art. 6, dans la mesure où celles-ci en ont besoin pour accomplir leurs tâches légales.
 
 <sup>4</sup> Fedpol peut, sur demande, communiquer par écrit ou oralement des données figurant dans le RIPOL à l’Office européen de police (Europol) dans le cadre de la coopération en matière de lutte contre la criminalité internationale dans les domaines de la criminalité visés à l’art. 3 de l’Accord du 24 septembre 2004 entre la Confédération suisse et l’Office européen de police[^9-1].
 
@@ -409,7 +410,7 @@ L’abrogation et la modification d’autres actes sont réglées à l’annexe 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> décembre 2016.
 
-Annexe 1[^t-1]
+Annexe 1*[^t-1]*
 
 (art. 7)
 
@@ -429,8 +430,8 @@ Abréviations:
 <tr><td>OFJ Office fédéral de la justice</td><td>MIGRA autorités cantonales, régionales et communales compétentes en matière d’étrangers et Autorités liechtensteinoises compétentes en matière d’étrangers</td></tr>
 <tr><td>SEM Secrétariat d’État aux migrations</td><td>OCR offices de la circulation routière</td></tr>
 <tr><td>SR Service des recours du DFJP</td><td>SECO/OCT Secrétariat d’État aux migrations, offices cantonaux et communaux du travail</td></tr>
-<tr><td>AFD Cgfr Administration fédérale des douanes: Office central antifraude douanière et Cgfr</td><td>PMCR polices communales, municipales et régionales</td></tr>
-<tr><td>AFD civ Administration fédérale des douanes à l’exception de l’Office central antifraude douanière et Cgfr</td><td>AEE Autorités chargées de l’exécution des expulsions pénales</td></tr>
+<tr><td>OFDF Cgfr Office fédéral de la douane et de la sécurité des frontières: Office central antifraude douanière et Cgfr</td><td>PMCR polices communales, municipales et régionales</td></tr>
+<tr><td>OFDF civ Office fédéral de la douane et de la sécurité des frontières à l’exception de l’Office central antifraude douanière et Cgfr</td><td>AEE Autorités chargées de l’exécution des expulsions pénales</td></tr>
 <tr><td>OCE Office central d’encaissement de l’Administration des finances</td><td>EPM autorités chargées de l’exécution des peines et mesures</td></tr>
 <tr><td>CFMJ Commission fédérale des maisons de jeu</td><td>DFAE Département fédéral des affaires étrangères</td></tr>
 <tr><td>JM Autorités de la justice militaire</td><td>IP Service d’Interpol et Secrétariat général</td></tr>
@@ -440,7 +441,7 @@ Abréviations:
 </table>
 
 <table>
-<tr><th></th><th>OFP</th><th>MPC</th><th>OFJ</th><th>SEM</th><th>SR</th><th>AFD Cgfr</th><th>AFD civ</th><th>OCE</th><th>CFMJ</th><th>JM</th><th>SRC</th><th>SCSP</th><th>OESC</th><th>SM</th><th>POCA</th><th>MIGRA</th><th>OCR</th><th>SECO/OCT</th><th>PMCR</th><th>AEE</th><th>EPM</th><th>DFAE</th><th>IP</th><th>SéMi</th><th>AEDI</th></tr>
+<tr><th></th><th>OFP</th><th>MPC</th><th>OFJ</th><th>SEM</th><th>SR</th><th>OFDF Cgfr</th><th>OFDF civ</th><th>OCE</th><th>CFMJ</th><th>JM</th><th>SRC</th><th>SCSP</th><th>OESC</th><th>SM</th><th>POCA</th><th>MIGRA</th><th>OCR</th><th>SECO/OCT</th><th>PMCR</th><th>AEE</th><th>EPM</th><th>DFAE</th><th>IP</th><th>SéMi</th><th>AEDI</th></tr>
 <tr><td>1. Banque de données concernant des personnes</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>a. Schéma de données de personnes:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Provenance des données, données de:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td>A</td><td>M</td><td>M</td><td>A</td><td>A</td><td></td><td></td><td>A</td></tr>

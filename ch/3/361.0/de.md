@@ -3,11 +3,11 @@ sr: "361.0"
 title: Verordnung vom 26. Oktober 2016 über das automatisierte Polizeifahndungssystem (RIPOL-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/665"
 language: de
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2016-10-26
 in_force: 2016-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2016-665-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-665-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20210401/de"
 
 (RIPOL-Verordnung)
 
-vom 26. Oktober 2016 (Stand am 1. April 2021)
+vom 26. Oktober 2016 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -91,16 +91,16 @@ Folgende Behörden können fedpol Ausschreibungen für die Eingabe in das RIPOL 
 - a. die Bundesanwaltschaft für Zwecke nach Artikel 15 Absatz 1 Buchstabe a BPI;
 - b. der Direktionsbereich Internationale Rechtshilfe im Bundesamt für Justiz für Zwecke nach Artikel 15 Absatz 1 Buchstaben a und g BPI;
 - c. das Staatssekretariat für Migration für Zwecke nach Artikel 15 Absatz 1 Buchstaben a, d<sup>bis</sup> und g BPI;
-- d. die Oberzolldirektion für Zwecke nach Artikel 15 Absatz 1 Buchstaben a und g BPI;
+- d. das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^4-1] für Zwecke nach Artikel 15 Absatz 1 Buchstaben a und g BPI;
 - e. die Militärjustizbehörden für Zwecke nach Artikel 15 Absatz 1 Buchstabe a BPI;
 - f. die Polizeibehörden der Kantone für Zwecke nach Artikel 15 Absatz 1 BPI;
 - g. die Eidgenössische Spielbankenkommission für Zwecke nach Artikel 15 Absatz 1 Buchstaben a und g BPI;
-- h. die Zentralbehörde zur Behandlung internationaler Kindesentführungen nach dem Übereinkommen vom 25. Oktober 1980[^4-1] über die zivilrechtlichen Aspekte internationaler Kindesentführung im Bundesamt für Justiz, zur Erfüllung der Aufgaben nach Artikel 15 Absatz 1 Buchstaben a, c und i BPI;
+- h. die Zentralbehörde zur Behandlung internationaler Kindesentführungen nach dem Übereinkommen vom 25. Oktober 1980[^4-2] über die zivilrechtlichen Aspekte internationaler Kindesentführung im Bundesamt für Justiz, zur Erfüllung der Aufgaben nach Artikel 15 Absatz 1 Buchstaben a, c und i BPI;
 - i. die Strassenverkehrsämter für Zwecke nach Artikel 15 Absatz 1 Buchstaben e und f BPI;
 - j. die Straf- und Massnahmenvollzugsbehörden für Zwecke nach Artikel 15 Absatz 1 Buchstaben b, c und k BPI;
 - k. der Nachrichtendienst des Bundes (NDB) für Zwecke nach Artikel 15 Absatz 1 Buchstabe j BPI;
-- l. die Vollzugsstelle des Bundes für den Zivildienst[^4-2] für Zwecke nach Artikel 15 Absatz 1 Buchstabe a BPI;
-- m.[^4-3] die für den Vollzug von Landesverweisungen zuständigen Behörden für Zwecke nach Artikel 15 Absatz 1 Buchstabe d BPI.
+- l. die Vollzugsstelle des Bundes für den Zivildienst[^4-3] für Zwecke nach Artikel 15 Absatz 1 Buchstabe a BPI;
+- m.[^4-4] die für den Vollzug von Landesverweisungen zuständigen Behörden für Zwecke nach Artikel 15 Absatz 1 Buchstabe d BPI.
 
 <sup>2</sup>
 
@@ -109,12 +109,13 @@ Folgende am RIPOL beteiligte Behörden können Ausschreibungen im Rahmen der ges
 - a. fedpol zur Bekämpfung des organisierten Verbrechens, für Fernhaltemassnahmen gegenüber Ausländern, welche die innere oder äussere Sicherheit gefährden, sowie auf Ersuchen einer Behörde des Auslandes, des Bundes oder der Kantone für Zwecke nach Artikel 15 Absatz 1 BPI;
 - b. die Polizeibehörden der Kantone nach Artikel 15 Absatz 1 BPI;
 - c. die Strassenverkehrsämter für Kennzeichen;
-- d.[^4-4] die für den Vollzug von Landesverweisungen zuständigen Behörden für Zwecke nach Artikel 15 Absatz 1 Buchstabe d BPI.
+- d.[^4-5] die für den Vollzug von Landesverweisungen zuständigen Behörden für Zwecke nach Artikel 15 Absatz 1 Buchstabe d BPI.
 
-[^4-1]: [SR 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
-[^4-2]: Seit 1.1.2019: Bundesamt für Zivildienst.
-[^4-3]: Eingefügt durch Ziff. I 11 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^4-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^4-2]: [SR 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
+[^4-3]: Seit 1.1.2019: Bundesamt für Zivildienst.
 [^4-4]: Eingefügt durch Ziff. I 11 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^4-5]: Eingefügt durch Ziff. I 11 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 5
 
@@ -132,7 +133,7 @@ Die Zivilstandsämter sind verpflichtet, fedpol und den ausschreibenden Behörde
 
 Folgende Behörden können zur Erfüllung ihrer gesetzlichen Aufgaben Daten mittels Abrufverfahren direkt abfragen:
 
-- a. fedpol, die Bundesanwaltschaft, die Eidgenössische Zollverwaltung sowie die Polizeibehörden der Kantone: nach Ausschreibungen von Personen und ungeklärten Straftaten;
+- a. fedpol, die Bundesanwaltschaft, das BAZG sowie die Polizeibehörden der Kantone: nach Ausschreibungen von Personen und ungeklärten Straftaten;
 - b. die Schweizerischen Vertretungen im Ausland mit konsularischen Aufgaben: nach Ausschreibungen von Personen und Ausweisen;
 - c. das Bundesamt für Justiz, der Beschwerdedienst des Eidgenössischen Justiz- und Polizeidepartements (EJPD) und die Militärjustizbehörden: nach Ausschreibungen von Personen und Ausweisen;
 - d. das Staatssekretariat für Migration: nach Ausschreibungen von Personen und Ausweisen;
@@ -227,7 +228,7 @@ Diese Daten können zwecks Erfüllung ihrer gesetzlichen Aufgaben nach Artikel 1
 - d. Behörden, die ausländerrechtliche Aufgaben wahrnehmen;
 - e. ausländischen Interpol-Stellen.
 
-<sup>3</sup> Fedpol, die Oberzolldirektion und die Polizeibehörden der Kantone können im Einzelfall Daten aus dem RIPOL schriftlich oder mündlich den Behörden nach Artikel 6 bekanntgeben, soweit diese sie zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.
+<sup>3</sup> Fedpol, das BAZG und die Polizeibehörden der Kantone können im Einzelfall Daten aus dem RIPOL schriftlich oder mündlich den Behörden nach Artikel 6 bekanntgeben, soweit diese sie zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.
 
 <sup>4</sup> Fedpol kann auf Anfrage Daten aus dem RIPOL schriftlich oder mündlich dem Europäischen Polizeiamt (Europol) im Rahmen der Zusammenarbeit bei der Bekämpfung der internationalen Kriminalität in den Kriminalitätsbereichen nach Artikel 3 des Abkommens vom 24. September 2004[^9-1] zwischen der Schweizerischen Eidgenossenschaft und dem Europäischen Polizeiamt bekanntgeben.
 
@@ -407,7 +408,7 @@ Die Aufhebung und die Änderung anderer Erlasse werden in Anhang 2 geregelt.
 
 Diese Verordnung tritt am 1. Dezember 2016 in Kraft.
 
-Anhang 1[^t-1]
+Anhang 1*[^t-1]*
 
 (Art. 7)
 
@@ -427,8 +428,8 @@ Abkürzungen:
 <tr><td>BJ Bundesamt für Justiz</td><td>MIGRA Kantonale, regionale und kommunale Ausländerbehörden, Ausländerbehörden des Fürstentums Liechtenstein</td></tr>
 <tr><td>SEM Staatssekretariat für Migration</td><td>SVA Strassenverkehrsämter</td></tr>
 <tr><td>BD Beschwerdedienst des EJPD</td><td>SECO/KAA Staatssekretariat für Wirtschaft, Kantonale und kommunale Arbeitsämter</td></tr>
-<tr><td>EZV GWK Eidgenössische Zollverwaltung; Zollfahndung und GWK</td><td>GSR Gemeinde-, Stadt- und Regionalpolizei</td></tr>
-<tr><td>EZV ZIV Eidgenössische Zollverwaltung ausser Zollfahndung und GWK</td><td>LV Vollzugbehörden von Landesverweisungen</td></tr>
+<tr><td>BAZG GWK Bundesamt für Zoll und Grenzsicherheit; Zollfahndung und GWK</td><td>GSR Gemeinde-, Stadt- und Regionalpolizei</td></tr>
+<tr><td>BAZG ZIV Bundesamt für Zoll und Grenzsicherheit ausser Zollfahndung und GWK</td><td>LV Vollzugbehörden von Landesverweisungen</td></tr>
 <tr><td>ZISt Zentrale Inkassostelle der Finanzverwaltung</td><td>StraMa Straf- und Massnahmenvollzugsbehörden</td></tr>
 <tr><td>ESBK Eidgenössische Spielbankenkommission</td><td>EDA Eidgenössisches Departement für auswärtige Angelegenheiten</td></tr>
 <tr><td>MJ Militärjustizbehörden</td><td>IP Interpolstellen und Generalsekretariat</td></tr>
@@ -438,7 +439,7 @@ Abkürzungen:
 </table>
 
 <table>
-<tr><th></th><th>BAP</th><th>BA</th><th>BJ</th><th>SEM</th><th>BD</th><th>EZV GWK</th><th>EZV ZIV</th><th>ZISt</th><th>ESBK</th><th>MJ</th><th>NDB</th><th>PPSP</th><th>VBZ</th><th>SM</th><th>KAPO</th><th>MIGRA</th><th>SVA</th><th>SECO/KAA</th><th>GSR</th><th>LV</th><th>StraMa</th><th>EDA</th><th>IP</th><th>Mil Sich</th><th>AwGB</th></tr>
+<tr><th></th><th>BAP</th><th>BA</th><th>BJ</th><th>SEM</th><th>BD</th><th>BAZG GWK</th><th>BAZG ZIV</th><th>ZISt</th><th>ESBK</th><th>MJ</th><th>NDB</th><th>PPSP</th><th>VBZ</th><th>SM</th><th>KAPO</th><th>MIGRA</th><th>SVA</th><th>SECO/KAA</th><th>GSR</th><th>LV</th><th>StraMa</th><th>EDA</th><th>IP</th><th>Mil Sich</th><th>AwGB</th></tr>
 <tr><td>1. Personen-Datenbank</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>a. Personendatensatz:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Datenherkunft, Daten von:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td>A</td><td>M</td><td>M</td><td>A</td><td>A</td><td></td><td></td><td>A</td></tr>
@@ -640,5 +641,5 @@ II
 
 ...[^annex2-lvlu1-2]
 
-[^annex2-lvlu1-1]: [[AS 2008 5013](https://fedlex.data.admin.ch/eli/oc/2008/699), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 15, [2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)Anhang 3 Ziff. 4, [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)Ziff. I 4]
+[^annex2-lvlu1-1]: [[AS 2008 5013](https://fedlex.data.admin.ch/eli/oc/2008/699); [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 15; [2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)Anhang 3 Ziff. 4; [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)Ziff. I 4]
 [^annex2-lvlu1-2]: Die Änderung kann unter [AS 2016 3931](https://fedlex.data.admin.ch/eli/oc/2016/665)konsultiert werden.
