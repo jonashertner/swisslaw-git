@@ -4,11 +4,11 @@ number: "831.3"
 title: Zusatzleistungsgesetz (ZLG)
 short: ZLG
 language: de
-version: "2021-01-01"
-nachtrag: "111"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
+valid_until: 2022-05-25
 adopted: 1971-02-07
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-831_3-1971_02_07-1971_01_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-831_3-1971_02_07-1971_01_01-115.html"
 text: pdf
 ---
 
@@ -16,19 +16,22 @@ text: pdf
 
 # Zusatzleistungsgesetz (ZLG)<sup>32</sup>
 
-(vom 7. Februar 1971)<sup>1</sup>
+(vom 7. Februar 1971)[^t-1]
 
 Der Kantonsrat,
 
-gestützt auf Art. 2 Abs. 2, Art. 10 Abs. 2, Art. 11 Abs. 2, Art. 14 Abs. 2 und 3 sowie Art. 21 Abs. 2 des Bundesgesetzes über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung vom 6. Oktober 2006 (ELG)<sup>8</sup>,<sup>24</sup>
+gestützt auf Art. 2 Abs. 2, Art. 10 Abs. 2, Art. 11 Abs. 2, Art. 14 Abs. 2 und 3 sowie Art. 21 Abs. 2 des Bundesgesetzes über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung vom 6. Oktober 2006 (ELG)[^t-2],<sup>24</sup>
 
 beschliesst:
+
+[^t-1]: OS 44, 5 und GS VI, 330.
+[^t-2]: SR 831.30.
 
 ### Erster Abschnitt: Allgemeines
 
 **Leistungsarten**
 
-§ 1.<sup>25</sup> <sup>1</sup> Nach Massgabe der Vorschriften des Bundes über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung<sup>7</sup> und aufgrund dieses Gesetzes werden Zusatzleistungen ausgerichtet. Diese bestehen aus:
+§ 1.<sup>25</sup> <sup>1</sup> Nach Massgabe der Vorschriften des Bundes über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung[^hErsterAbschnittAl-1] und aufgrund dieses Gesetzes werden Zusatzleistungen ausgerichtet. Diese bestehen aus:
 
 - a. Ergänzungsleistungen gemäss ELG, bestehend aus jährlicher Ergänzungsleistung sowie Vergütung von Krankheits- und Behinderungskosten,
 
@@ -40,19 +43,23 @@ beschliesst:
 
 **Verhältnis zum europäischen Recht**
 
-§ 1 a.<sup>14</sup> Für die in Art. 2 der Verordnung (EWG) Nr. 1408/71 bezeichneten Personen und in Bezug auf die in Art. 4 dieser Verordnung vorgesehenen Leistungen, soweit sie im Anwendungsbereich dieses Gesetzes liegen, gelten auch a. das Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft sowie ihren Mitgliedstaaten anderseits über die Freizügigkeit<sup>9</sup>, sein Anhang II und die Verordnung (EWG) Nr. 1408/71 und Nr. 574/72 in ihrer angepassten Fassung;
+§ 1 a.<sup>14</sup> Für die in Art. 2 der Verordnung (EWG) Nr. 1408/71 bezeichneten Personen und in Bezug auf die in Art. 4 dieser Verordnung vorgesehenen Leistungen, soweit sie im Anwendungsbereich dieses Gesetzes liegen, gelten auch a. das Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft sowie ihren Mitgliedstaaten anderseits über die Freizügigkeit[^hErsterAbschnittAl-2], sein Anhang II und die Verordnung (EWG) Nr. 1408/71 und Nr. 574/72 in ihrer angepassten Fassung;
 
-- b. das Abkommen vom 21. Juni 2001 zur Änderung des Übereinkommens zur Errichtung der Europäischen Freihandelsassoziation<sup>10</sup>, sein Anhang O und Anlage 2 zu Anhang O sowie die Verordnungen Nr. 1408/71 und Nr. 574/72 in ihrer angepassten Fassung.
+- b. das Abkommen vom 21. Juni 2001 zur Änderung des Übereinkommens zur Errichtung der Europäischen Freihandelsassoziation[^hErsterAbschnittAl-3], sein Anhang O und Anlage 2 zu Anhang O sowie die Verordnungen Nr. 1408/71 und Nr. 574/72 in ihrer angepassten Fassung.
 
 **1**
 
-- 1\. 1. 21 - 111 § 2.<sup>15</sup> Die Durchführung obliegt den politischen Gemeinden und erfolgt unabhängig von der Sozialhilfe.
+- 1\. 1. 22 - 115 § 2.<sup>15</sup> Die Durchführung obliegt den politischen Gemeinden und erfolgt unabhängig von der Sozialhilfe.
 
 **Durchführung**
 
 **Information**
 
 § 2 a.<sup>32</sup> Die Gemeinden, die Sozialversicherungsanstalt (SVA) und die Fachorgane orientieren über die Voraussetzungen für den Bezug von Zusatzleistungen.
+
+[^hErsterAbschnittAl-1]: SR 831.3.
+[^hErsterAbschnittAl-2]: SR 0.142.112.681.
+[^hErsterAbschnittAl-3]: SR 0.632.31.
 
 ### Zweiter Abschnitt: Organisation
 
@@ -68,7 +75,7 @@ beschliesst:
 
 § 4.<sup>22</sup>
 
-§ 5.<sup>13</sup>
+§ 5.[^3-1]
 
 § 6.<sup>19</sup>
 
@@ -77,6 +84,8 @@ beschliesst:
 § 7. <sup>1</sup> Die Gemeinden haben dem Regierungsrat jährlich über die Durchführung Bericht zu erstatten und Rechnung abzulegen.
 
 <sup>2</sup> Die zuständige Direktion des Regierungsrates kann zusätzlich besondere statistische und rechnungsmässige Angaben verlangen. Sie ist überdies befugt, die für die Zusammenarbeit mit dem zentralen Rentenregister des Bundes nötigen Angaben über die Bezüger einzufordern.
+
+[^3-1]: Aufgehoben durch G über das Sozialversicherungsgericht vom 7. März 1993 (OS 52, 420). In Kraft seit 1. Januar 1995 (OS 53, 34).
 
 ### B. Aufgabenübertragung an die Sozialversicherungsanstalt<sup>17</sup>
 
@@ -134,7 +143,7 @@ beschliesst:
 
 **3**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Die Ansätze nach Art. 14 Abs. 3–5 ELG gelten als Höchstbeträge.
 
@@ -208,7 +217,7 @@ beschliesst:
 
 **5**
 
-- 1\. 1. 21 - 111 § 18.<sup>32</sup> Die Beihilfe kann gekürzt oder verweigert werden, soweit sie für den Unterhalt nicht benötigt wird.
+- 1\. 1. 22 - 115 § 18.<sup>32</sup> Die Beihilfe kann gekürzt oder verweigert werden, soweit sie für den Unterhalt nicht benötigt wird.
 
 **Fehlender Bedarf**
 
@@ -226,7 +235,10 @@ beschliesst:
 
 <sup>4</sup> Rückerstattungsansprüche verjähren nach Ablauf von fünf Jahren, seitdem das mit der Durchführung betraute Organ von ihrem Entstehen Kenntnis erhalten hat, in jedem Fall aber nach Ablauf von zehn Jahren seit der letzten Beihilfezahlung.
 
-<sup>5</sup> Unrechtmässig bezogene Beihilfen sind zurückzuerstatten. Art. 25 Abs. 1 und 2 des Bundesgesetzes vom 6. Oktober 2000 über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG)<sup>5</sup> sowie Art. 2–5 der Verordnung vom 11. September 2002 über den Allgemeinen Teil des Sozialversicherungsrechts<sup>6</sup> finden sinngemäss Anwendung.<sup>35</sup>
+<sup>5</sup> Unrechtmässig bezogene Beihilfen sind zurückzuerstatten. Art. 25 Abs. 1 und 2 des Bundesgesetzes vom 6. Oktober 2000 über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG)[^16-1] sowie Art. 2–5 der Verordnung vom 11. September 2002 über den Allgemeinen Teil des Sozialversicherungsrechts[^16-2] finden sinngemäss Anwendung.<sup>35</sup>
+
+[^16-1]: SR 830.1.
+[^16-2]: SR 830.11.
 
 ### C. Zuschüsse<sup>24</sup>
 
@@ -278,7 +290,7 @@ der Gemeinden<sup>25</sup>
 
 **7**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 <sup>3</sup> Die Durchführungsstellen a. geben der SVA die Angaben bekannt, die für die Auszahlung gemäss Art. 21 a ELG erforderlich sind,
 
@@ -332,7 +344,7 @@ der Gemeinden<sup>25</sup>
 
 **Vollstreckbarkeit von Rückerstattungsverfügungen**
 
-§ 28.<sup>21</sup> Verfügungen und Einspracheentscheide über Rückerstattungen, die gemäss Art. 54 ATSG<sup>5</sup> vollstreckbar sind, sind vollstreckbaren Gerichtsurteilen im Sinne von Art. 80 Abs. 2 Ziff. 3 SchKG<sup>3</sup> gleichgestellt.
+§ 28.<sup>21</sup> Verfügungen und Einspracheentscheide über Rückerstattungen, die gemäss Art. 54 ATSG[^hFünfterAbschnittV-1] vollstreckbar sind, sind vollstreckbaren Gerichtsurteilen im Sinne von Art. 80 Abs. 2 Ziff. 3 SchKG[^hFünfterAbschnittV-2] gleichgestellt.
 
 **Ergänzende Vorschriften**
 
@@ -344,13 +356,18 @@ der Gemeinden<sup>25</sup>
 
 <sup>2</sup> Sie hört dabei vorgängig die Gemeinden und den Fachverband für Zusatzleistungen an.
 
+[^hFünfterAbschnittV-1]: SR 830.1.
+[^hFünfterAbschnittV-2]: SR 281.1.
+
 ### Sechster Abschnitt: Rechtsmittel
 
 § 30.<sup>22</sup>
 
-§ 31.<sup>13</sup>
+§ 31.[^hSechsterAbschnitt-1]
 
 § 32.<sup>22</sup>
+
+[^hSechsterAbschnitt-1]: Aufgehoben durch G über das Sozialversicherungsgericht vom 7. März 1993 (OS 52, 420). In Kraft seit 1. Januar 1995 (OS 53, 34).
 
 ### Siebenter Abschnitt: Finanzierung
 
@@ -366,31 +383,33 @@ der Gemeinden<sup>25</sup>
 
 **9**
 
-- 1\. 1. 21 - 111 § 34.<sup>36</sup> <sup>1</sup> Der Kanton leistet den Gemeinden einen Kostenanteil von 50% an die von ihnen ausbezahlten Zusatzleistungen.
+- 1\. 1. 22 - 115 § 34.<sup>37</sup> Der Kanton leistet den Gemeinden einen Kostenanteil von 70% an den anrechenbaren Teil der von ihnen ausbezahlten Zusatzleistungen. Anrechenbar sind höchstens 125% der durchschnittlichen Bruttokosten pro Kopf der Gesamtbevölkerung.
 
 **Beiträge des Kantons**
 
-<sup>2</sup> Der Kanton kürzt oder verweigert den Kostenanteil für Zusatzleistungen, die vorschriftswidrig ausbezahlt oder gegenüber dem Kanton nicht richtig abgerechnet wurden.
-
-<sup>3</sup> Erfolgt der Vollzug oder die Abrechnung gegenüber dem Kanton nicht fristgerecht, kann der Kanton den Kostenanteil bis zur Behebung der Mängel zurückbehalten und nach erfolgloser Mahnung verweigern.
-
 § 35.<sup>27</sup>
 
-§ 36.<sup>12</sup>
+§ 36.[^33-1]
+
+[^33-1]: Aufgehoben durch Staatsbeitragsgesetz vom 1. April 1990 (OS 51, 77). In Kraft seit 1. Januar 1991 (OS 51, 350).
 
 ### Achter Abschnitt: Strafbestimmungen
+
+[^hAchterAbschnittSt-1]: SR 831.30.
 
 #### § 37
 
 **Tatbestände und Strafen a. Ergänzungsleistungen**
 
-Die Bestrafung von Widerhandlungen gegen die Vorschriften über die Ergänzungsleistungen richtet sich nach dem Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung vom 19. März 1965<sup>8</sup>.
+Die Bestrafung von Widerhandlungen gegen die Vorschriften über die Ergänzungsleistungen richtet sich nach dem Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung vom 19. März 1965[^hAchterAbschnittSt-1].
+
+[^37-1]: SR 311.0.
 
 #### § 38
 
 **b. Beihilfen**
 
-<sup>1</sup> Wer vorsätzlich durch unwahre oder unvollständige Angaben oder in anderer Weise unrechtmässig für sich oder einen andern eine Beihilfe erwirkt oder zu erwirken versucht, wer vorsätzlich durch Unterlassung einer Änderungsmeldung unrechtmässig eine Beihilfe weiter bezieht, wird, sofern nicht ein mit höherer Strafe bedrohtes Verbrechen oder Vergehen gemäss Schweizerischem Strafgesetzbuch<sup>4</sup> vorliegt, mit Busse bis zu 500 Franken bestraft.
+<sup>1</sup> Wer vorsätzlich durch unwahre oder unvollständige Angaben oder in anderer Weise unrechtmässig für sich oder einen andern eine Beihilfe erwirkt oder zu erwirken versucht, wer vorsätzlich durch Unterlassung einer Änderungsmeldung unrechtmässig eine Beihilfe weiter bezieht, wird, sofern nicht ein mit höherer Strafe bedrohtes Verbrechen oder Vergehen gemäss Schweizerischem Strafgesetzbuch[^37-1] vorliegt, mit Busse bis zu 500 Franken bestraft.
 
 <sup>2</sup> Wer auskunftspflichtig ist und vorsätzlich einem Durchführungsorgan die Erteilung einer Auskunft verweigert, wird mit Busse bis zu 200 Franken bestraft.
 
@@ -454,7 +473,7 @@ Dieses Gesetz tritt, sofern die Stimmberechtigten es annehmen, nach dem Kantonsr
 
 **11**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 ### Übergangsbestimmungen zur Änderung vom 8. Januar 2007
 
@@ -510,22 +529,16 @@ Für Bezügerinnen und Bezüger von Zusatzleistungen, für die während der drei
 
 **13**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
+
+<sup>34</sup> Eingefügt durch G vom 3. April 2017 (OS 72, 433; ABl 2016-07-08). In Kraft seit 1. Januar 2018.
+
+<sup>35</sup> Eingefügt durch G vom 14. September 2020 (OS 75, 536; ABl 2020-04-09). In Kraft seit 1. Januar 2021.
+
+<sup>36</sup> Fassung gemäss G vom 14. September 2020 (OS 75, 536; ABl 2020-04-09). In Kraft seit 1. Januar 2021.
+
+<sup>37</sup> Fassung gemäss G vom 28. Oktober 2019 (OS 76, 226; ABl 2019-05-03). In Kraft seit 1. Januar 2022.
 
 ## Weitere Fussnoten
 
-- [1] OS 44, 5 und GS VI, 330.
 - [2] LS 832.01.
-- [3] SR 281.1.
-- [4] SR 311.0.
-- [5] SR 830.1.
-- [6] SR 830.11.
-- [7] SR 831.3.
-- [8] SR 831.30.
-- [9] SR 0.142.112.681.
-- [10] SR 0.632.31.
-- [12] Aufgehoben durch Staatsbeitragsgesetz vom 1. April 1990 (OS 51, 77). In Kraft seit 1. Januar 1991 (OS 51, 350).
-- [13] Aufgehoben durch G über das Sozialversicherungsgericht vom 7. März 1993 (OS 52, 420). In Kraft seit 1. Januar 1995 (OS 53, 34).
-- [34] Eingefügt durch G vom 3. April 2017 (OS 72, 433; ABl 2016-07-08). In Kraft seit 1. Januar 2018.
-- [35] Eingefügt durch G vom 14. September 2020 (OS 75, 536; ABl 2020-04-09). In Kraft seit 1. Januar 2021.
-- [36] Fassung gemäss G vom 14. September 2020 (OS 75, 536; ABl 2020-04-09). In Kraft seit 1. Januar 2021.
