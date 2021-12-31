@@ -4,13 +4,13 @@ number: "17.1"
 title: Loi sur la protection des données
 short: LPrD
 language: fr
-version: 2021-03-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-18
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-10-07
 adopted: 2023-10-12
 in_force: 2024-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/17.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6852/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7468/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Protection des données – L
 
 (LPrD)
 
-du 25.11.1994 (version entrée en vigueur le 01.03.2021)
+du 25.11.1994 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -326,7 +326,7 @@ Décrète:
 - d) les fichiers de fournisseurs et de clients;
 - e) les fichiers qui sont exclusivement des instruments de travail personnels.
 
-<sup>2</sup> En outre, le Conseil d'Etat peut, après avoir pris l'avis de la Commission cantonale de la transparence et de la protection des données, prévoir des exceptions à l'obligation de déclarer pour d'autres catégories de fichiers qui ne présentent manifestement pas de risques pour les droits des personnes concernées.
+<sup>2</sup> En outre, le Conseil d'Etat peut, après avoir pris l'avis de la Commission cantonale de la transparence, de la protection des données et de la médiation, prévoir des exceptions à l'obligation de déclarer pour d'autres catégories de fichiers qui ne présentent manifestement pas de risques pour les droits des personnes concernées.
 
 #### Art. 21
 
@@ -344,7 +344,7 @@ Décrète:
 
 <sup>1</sup> L'organe public qui traite des données personnelles doit prendre les mesures d'organisation et les mesures techniques appropriées contre tout traitement non autorisé des données.
 
-<sup>2</sup> Le Conseil d'Etat détermine, après avoir pris l'avis de la Commission cantonale de la transparence et de la protection des données, les exigences minimales en la matière.
+<sup>2</sup> Le Conseil d'Etat détermine, après avoir pris l'avis de la Commission cantonale de la transparence, de la protection des données et de la médiation, les exigences minimales en la matière.
 
 #### Art. 22a
 
@@ -440,7 +440,7 @@ Décrète:
 
 **En général**
 
-<sup>1</sup> La surveillance de la protection des données est assurée par l'Autorité cantonale de la transparence et de la protection des données.
+<sup>1</sup> La surveillance de la protection des données est assurée par l'Autorité cantonale de la transparence, de la protection des données et de la médiation.
 
 <sup>2</sup> Les communes peuvent instituer leur propre autorité de surveillance qui assume, sur le plan communal, les mêmes tâches que l'autorité cantonale.
 
@@ -450,17 +450,17 @@ Décrète:
 
 **Autorité cantonale**
 
-<sup>1</sup> L'Autorité cantonale de la transparence et de la protection des données comprend une commission, un ou une préposé-e à la transparence et un ou une préposé-e à la protection des données.
+<sup>1</sup> L'Autorité cantonale de la transparence, de la protection des données et de la médiation comprend une commission, un ou une préposé‑e à la transparence, un ou une préposé‑e à la protection des données et un médiateur ou une médiatrice cantonal‑e.
 
 <sup>2</sup> Elle exerce les tâches qui lui incombent en vertu de la présente loi par l'intermédiaire de la Commission cantonale et du ou de la préposé-e à la protection des données.
 
-<sup>3</sup> Les tâches qu'elle exerce dans le domaine du droit d'accès aux documents sont régies par la législation y relative.
+<sup>3</sup> Les tâches qu'elle exerce dans les domaines du droit d'accès aux documents et de la médiation administrative sont régies par les législations y relatives.
 
 #### Art. 30
 
 **Commission cantonale – Composition, organisation et fonctionnement**
 
-<sup>1</sup> La Commission cantonale de la transparence et de la protection des données est formée d'un président ou d'une présidente et de six membres, élus par le Grand Conseil à la suite d'une proposition du Conseil d'Etat. Son secrétariat est assuré conjointement par le ou la préposé-e à la protection des données et le ou la préposé-e à la transparence.
+<sup>1</sup> La Commission cantonale de la transparence, de la protection des données et de la médiation est formée d'un président ou d'une présidente et de six membres, élus par le Grand Conseil à la suite d'une proposition du Conseil d'Etat. Son secrétariat est assuré conjointement par le ou la préposé‑e à la protection des données et le ou la préposé‑e à la transparence; pour les dossiers en lien avec les activités de médiation, le secrétariat peut être assuré par le médiateur ou la médiatrice cantonal‑e.
 
 <sup>2</sup> Le président ou la présidente et les membres doivent posséder, dans leur ensemble, les connaissances nécessaires à l'accomplissement des tâches de la Commission; celle-ci comprend en particulier un ou une professionnel-le de la santé, un ou une spécialiste en informatique et au moins un ou une professionnel-le des médias.
 
@@ -476,12 +476,13 @@ Décrète:
 
 - a) d'assurer la coordination entre les exigences de la protection des données et l'exercice du droit d'accès aux documents officiels;
 - a<sup>bis</sup>) de diriger l'activité du ou de la préposé-e à la protection des données;
+- a<sup>ter</sup>) de mener la procédure de nomination du ou de la préposé‑e à la protection des données pour le Conseil d'Etat et de préaviser à son intention la ou les candidatures qu'elle privilégie;
 - b) de donner son avis sur les projets d'actes législatifs touchant à la protection des données ainsi que dans les cas prévus par la loi;
 - c) de mettre en œuvre la procédure prévue à l'article 22a en cas de violation ou de risque de violation des prescriptions sur la protection des données;
 - d) d'interjeter les recours prévus à l'article 27 al. 2;
 - e) d'exercer la haute surveillance sur les autorités communales de surveillance, dont elle reçoit le rapport d'activité.
 
-<sup>2</sup> La Commission adresse chaque année au Grand Conseil, par l'intermédiaire du Conseil d'Etat, un rapport sur son activité et celle des deux préposé-e-s . Elle peut, dans la mesure où l'intérêt général le justifie, informer le public de ses constatations.
+<sup>2</sup> La Commission adresse chaque année au Grand Conseil, par l'intermédiaire du Conseil d'Etat, un rapport sur son activité ainsi que sur celle des deux préposé‑e‑s et du médiateur ou de la médiatrice cantonal‑e. Elle peut, dans la mesure où l'intérêt général le justifie, informer le public de ses constatations.
 
 #### Art. 31
 
@@ -505,7 +506,7 @@ Décrète:
 
 **Dispositions communes**
 
-<sup>1</sup> L'Autorité cantonale de la transparence et de la protection des données est indépendante dans l'exercice de ses attributions.
+<sup>1</sup> L'Autorité cantonale de la transparence, de la protection des données et de la médiation est indépendante dans l'exercice de ses attributions.
 
 <sup>2</sup> Elle est rattachée administrativement à la Direction dont elle relève[^32-1].
 

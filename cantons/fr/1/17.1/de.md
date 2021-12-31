@@ -4,13 +4,13 @@ number: "17.1"
 title: Gesetz über den Datenschutz
 short: DSchG
 language: de
-version: 2021-03-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-18
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-10-07
 adopted: 2023-10-12
 in_force: 2024-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/17.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6852/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7468/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Datenschutz – G
 
 (DSchG)
 
-vom 25.11.1994 (Fassung in Kraft getreten am 01.03.2021)
+vom 25.11.1994 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -326,7 +326,7 @@ beschliesst:
 - d) Lieferanten- und Kundendateien;
 - e) Datensammlungen, die ausschliesslich persönliche Arbeitsmittel sind.
 
-<sup>2</sup> Ausserdem kann der Staatsrat für weitere Arten von Datensammlungen, die die Rechte der betroffenen Personen offensichtlich nicht gefährden, Ausnahmen von der Anmeldepflicht vorsehen. Er holt vorgängig die Stellungnahme der kantonalen Öffentlichkeits-und Datenschutzkommission ein.
+<sup>2</sup> Ausserdem kann der Staatsrat für weitere Arten von Datensammlungen, welche die Rechte der betroffenen Personen offensichtlich nicht gefährden, Ausnahmen von der Anmeldepflicht vorsehen. Er holt vorgängig die Stellungnahme der kantonalen Öffentlichkeits-, Datenschutz- und Mediationskommission ein.
 
 #### Art. 21
 
@@ -344,7 +344,7 @@ beschliesst:
 
 <sup>1</sup> Das öffentliche Organ, das Personendaten bearbeitet, muss die geeigneten organisatorischen und technischen Massnahmen treffen, um die Daten gegen jedes unerlaubte Bearbeiten zu schützen.
 
-<sup>2</sup> Der Staatsrat bestimmt die Mindestanforderungen in diesem Bereich. Er holt vorgängig die Stellungnahme der kantonalen Öffentlichkeits- und Datenschutzkommission ein.
+<sup>2</sup> Der Staatsrat bestimmt die Mindestanforderungen in diesem Bereich. Er holt vorgängig die Stellungnahme der kantonalen Öffentlichkeits-, Datenschutz- und Mediationskommission ein.
 
 #### Art. 22a
 
@@ -440,7 +440,7 @@ beschliesst:
 
 **Im Allgemeinen**
 
-<sup>1</sup> Die Aufsicht über den Datenschutz wird von der Kantonalen Behörde für Öffentlichkeit und Datenschutz ausgeübt.
+<sup>1</sup> Die Aufsicht über den Datenschutz wird von der Kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation ausgeübt.
 
 <sup>2</sup> Die Gemeinden können eine eigene Aufsichtsbehörde bestellen, die auf Gemeindeebene dieselben Aufgaben hat wie die kantonale Behörde.
 
@@ -450,17 +450,17 @@ beschliesst:
 
 **Kantonale Behörde**
 
-<sup>1</sup> Die Kantonale Behörde für Öffentlichkeit und Datenschutz setzt sich aus einer Kommission, einer oder einem Beauftragten für Öffentlichkeit und Transparenz und einer oder einem Datenschutzbeauftragten zusammen.
+<sup>1</sup> Die Kantonale Behörde für Öffentlichkeit, Datenschutz und Mediation setzt sich aus einer Kommission, einer oder einem Beauftragten für Öffentlichkeit und Transparenz, einer oder einem Datenschutzbeauftragten und einer kantonalen Mediatorin oder einem kantonalen Mediator zusammen.
 
 <sup>2</sup> Sie erfüllt die Aufgaben, die ihr aufgrund dieses Gesetzes übertragen sind, durch die kantonale Kommission und die Datenschutzbeauftragte oder den Datenschutzbeauftragten.
 
-<sup>3</sup> Die Aufgaben, die sie im Bereich des Rechts auf Zugang zu amtlichen Dokumenten wahrnimmt, werden in der einschlägigen Gesetzgebung geregelt.
+<sup>3</sup> Die Aufgaben, die sie in den Bereichen des Rechts auf Zugang zu amtlichen Dokumenten und der Mediation für Verwaltungsangelegenheiten wahrnimmt, werden in den einschlägigen Gesetzgebungen geregelt.
 
 #### Art. 30
 
 **Kantonale Kommission – Zusammensetzung, Organisation und Arbeitsweise**
 
-<sup>1</sup> Die kantonale Öffentlichkeits- und Datenschutzkommission setzt sich aus der Präsidentin oder dem Präsidenten und sechs Mitgliedern zusammen, die vom Grossen Rat auf Vorschlag des Staatsrats gewählt werden. Ihr Sekretariat wird von der oder dem Datenschutzbeauftragten und der oder dem Beauftragten für Öffentlichkeit und Transparenz gemeinsam geführt.
+<sup>1</sup> Die kantonale Öffentlichkeits-, Datenschutz- und Mediationskommission setzt sich aus der Präsidentin oder dem Präsidenten und sechs Mitgliedern zusammen, die vom Grossen Rat auf Vorschlag des Staatsrats gewählt werden. Ihr Sekretariat wird von der oder dem Datenschutzbeauftragten und der oder dem Beauftragten für Öffentlichkeit und Transparenz gemeinsam geführt. Für die Dossiers in Zusammenhang mit den Mediationstätigkeiten kann das Sekretariat von der kantonalen Mediatorin oder dem kantonalen Mediator geführt werden.
 
 <sup>2</sup> Die Präsidentin oder der Präsident und die Mitglieder müssen in ihrer Gesamtheit über die Kenntnisse verfügen, die zur Erfüllung der Aufgaben der Kommission erforderlich sind; diese umfasst insbesondere eine Fachperson aus dem Gesundheitswesen, eine Informatikspezialistin oder einen Informatikspezialisten und mindestens eine Fachperson aus dem Medienbereich.
 
@@ -476,12 +476,13 @@ beschliesst:
 
 - a) Sie stellt die Koordination zwischen den Erfordernissen des Datenschutzes und der Ausübung des Rechts auf Zugang zu amtlichen Dokumenten sicher.
 - a<sup>bis</sup>) Sie leitet die Tätigkeit der oder des Datenschutzbeauftragten.
+- a<sup>ter</sup>) Sie führt das Verfahren zur Ernennung der oder des kantonalen Datenschutzbeauftragten für den Staatsrat durch und nimmt zuhanden des Staatsrats Stellung zu den von ihr bevorzugten Kandidatinnen und Kandidaten.
 - b) Sie nimmt Stellung zu Entwürfen von Erlassen, die den Datenschutz berühren, sowie in den vom Gesetz vorgesehenen Fällen.
 - c) Bei einer Verletzung oder einer möglichen Verletzung von Datenschutzvorschriften führt sie das Verfahren nach Artikel 22a durch.
 - d) Sie legt Beschwerde nach Artikel 27 Abs. 2 ein.
 - e) Sie übt die Oberaufsicht über die kommunalen Aufsichtsbehörden aus und erhält deren Tätigkeitsbericht.
 
-<sup>2</sup> Die Kommission erstattet dem Staatsrat zuhanden des Grossen Rates alljährlich einen Bericht über ihre Tätigkeit sowie über die Tätigkeit der beiden Beauftragten. Sie kann, sofern dies durch das öffentliche Interesse gerechtfertigt ist, die Öffentlichkeit über ihre Feststellungen informieren.
+<sup>2</sup> Die Kommission erstattet dem Staatsrat zuhanden des Grossen Rates alljährlich einen Bericht über ihre Tätigkeit sowie über die Tätigkeit der beiden Beauftragten und der kantonalen Mediatorin oder des kantonalen Mediators. Sie kann, sofern dies durch das öffentliche Interesse gerechtfertigt ist, die Öffentlichkeit über ihre Feststellungen informieren.
 
 #### Art. 31
 
@@ -505,7 +506,7 @@ beschliesst:
 
 **Gemeinsame Bestimmungen**
 
-<sup>1</sup> Die Kantonale Behörde für Öffentlichkeit und Datenschutz erfüllt ihre Aufgaben unabhängig.
+<sup>1</sup> Die Kantonale Behörde für Öffentlichkeit, Datenschutz und Mediation erfüllt ihre Aufgaben unabhängig.
 
 <sup>2</sup> Sie ist der Direktion, der sie angehört[^32-1], administrativ zugewiesen.
 
