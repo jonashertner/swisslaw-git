@@ -4,20 +4,20 @@ number: "210.1"
 title: Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches
 short: EG ZGB
 language: de
-version: 2017-06-01
-valid_until: 2021-12-31
-version_adopted: 2016-12-01
+version: 2022-01-01
+valid_until: 2022-03-31
+version_adopted: 2021-10-28
 adopted: 1911-04-30
 in_force: 1912-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/210.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1216/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1554/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches
 
-vom 30.04.1911 (Stand 01.06.2017)
+vom 30.04.1911 (Stand 01.01.2022)
 
 Die Landsgemeinde des Kantons Unterwalden ob dem Wald,
 
@@ -896,7 +896,7 @@ erlässt folgendes Gesetz:
 
 **Regierungsrat**
 
-<sup>1</sup> Der Regierungsrat ist die Aufsichtsbehörde.
+<sup>1</sup> Der Regierungsrat ist die Aufsichtsbehörde (949d Abs. 2, 953 Abs. 1 und 956 Abs. 1).
 
 <sup>2</sup> Er veranlasst regelmässige Inspektionen, wobei er die unmittelbare Aufsicht über die Führung des Grundbuches einem Grundbuchinspektor übertragen kann.
 
@@ -1106,6 +1106,8 @@ geändert durch:
 
 \- das Gesetz über das Konsolidierungs- und Aufgabenüberprüfungspaket vom 19. Mai 2016 (OGS 2016, 35), Botschaft und Vorlage des Regierungsrats vom 15. Dezember 2015, Kantonsratssitzungen vom 14. April und 19. Mai 2016 (22.15.07), in Kraft seit 1. Januar 2017 (OGS 2016, 35 und 44),
 
-\- Nachtrag vom 1. Dezember 2016 (OGS 2016, 79), Botschaft und Vorlage des Regierungsrats vom 16. August 2016 (22.16.02), Kantonsratssitzung vom 26. Oktober und 1. Dezember 2016, vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 16. Februar 2016, in Kraft seit 1. Juni 2017 (OGS 2017, 26)
+\- Nachtrag vom 1. Dezember 2016 (OGS 2016, 79), Botschaft und Vorlage des Regierungsrats vom 16. August 2016 (22.16.02), Kantonsratssitzung vom 26. Oktober und 1. Dezember 2016, vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 16. Februar 2016, in Kraft seit 1. Juni 2017 (OGS 2017, 26),
+
+\- Nachtrag vom 28. Oktober 2021 (OGS 2021, 37), Botschaft und Vorlage des Regierungsrats vom 1. Juli 2021, Kantonsratssitzungen vom 9. September und 28. Oktober 2021 (22.21.03), in Kraft seit 1. Januar 2022 (OGS 2021, 42)
 
 OGS 1922, 6
