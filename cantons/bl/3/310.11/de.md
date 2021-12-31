@@ -4,13 +4,13 @@ number: "310.11"
 title: Finanzhaushaltsverordnung
 short: Vo FHG
 language: de
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2021-06-22
+version: 2022-01-01
+valid_until: 2022-06-30
+version_adopted: 2021-11-23
 adopted: 2017-11-14
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/310.11"
-pdf: "https://bl.clex.ch/api/de/versions/3202/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3203/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3202/pdf_file"
 
 (Vo FHG)
 
-Vom 14.11.2017 (Stand 01.08.2021)
+Vom 14.11.2017 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -407,6 +407,14 @@ beschliesst:
 **Ausgaben für Leasing und vergleichbare Finanzierungsarten ([§ 35](https://bl.clex.ch/data/310/de/art35) FHG)**
 
 <sup>1</sup> Ausgaben für Leasing mit Kaufabsicht (Finanzierungsleasing) sowie für vergleichbare Finanzierungsarten gelten als einmalige Ausgaben, jene für Leasing ohne Kaufabsicht (operatives Leasing) als wiederkehrende.
+
+#### § 32a
+
+**Massgeblicher Ausgabenbetrag ([§ 36 Abs. 3](https://bl.clex.ch/data/310/de/art36) FHG)**
+
+<sup>1</sup> Werden nach der Bewilligung einer Ausgabe Beiträge Dritter rechtskräftig, so dürfen diese nicht von der ursprünglich bewilligten Ausgabe abgezogen und für den Ausgleich allfälliger Mehrausgaben verwendet werden.
+
+<sup>2</sup> Von Abs. 1 ausgenommen sind Mehrausgaben, welche in direktem Zusammenhang zu den zusätzlich rechtskräftig gewordenen Beiträgen Dritter stehen.
 
 #### § 33
 
