@@ -3,11 +3,10 @@ canton: ZH
 number: "412.138.1"
 title: Reglement über den Abschluss Sekundarstufe I für Erwachsene
 language: de
-version: "2011-11-01"
-nachtrag: "75"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
 adopted: 2003-10-20
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_138_1-2003_10_20-2004_01_01-075.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_138_1-2003_10_20-2004_01_01-115.html"
 text: pdf
 ---
 
@@ -39,41 +38,25 @@ Der Bildungsrat beschliesst:
 
 **Prüfungsfächer Leistungsstufe A**
 
-§ 4.[^1-1] Die Prüfungen der Leistungsstufe A für den Abschluss Sekundarstufe I für Erwachsene umfassen die Fächer – Arithmetik/Algebra, schriftlich,
+§ 4.[^1-2] Die Prüfungen der Leistungsstufe A für den Sekundarschulabschluss I für Erwachsene umfassen die Fachbereiche Mathematik schriftlich in den Kompetenzbereichen – Zahl und Variable; Grösse, Funktion, Daten und Zufall (Arithmetik und Algebra) – Form und Raum (Geometrie) Sprachen schriftlich und mündlich in – Deutsch – Englisch – Französisch Räume, Zeiten und Gesellschaften, mündlich:
 
-- Geometrie, schriftlich,
+- Kompetenzbereiche Geografie oder Geschichte Natur und Technik, mündlich:
 
-- Deutsch, schriftlich und mündlich,
-
-- Geografie, mündlich,
-
-- Geschichte, mündlich,
-
-- Naturkunde, mündlich (zwei der drei Fächer Biologie, Physik, Chemie),
-
-- Französisch, schriftlich und mündlich,
-
-- Englisch, schriftlich und mündlich.
+- zwei der drei Kompetenzbereiche Biologie, Physik, Chemie Medien und Informatik, mündlich § 5.[^1-2] Die Prüfungen der Leistungsstufe B für den Abschluss Sekundarstufe I für Erwachsene umfassen die Fachbereiche Mathematik schriftlich in den Kompetenzbereichen
 
 **Prüfungsfächer Leistungsstufe B**
 
-§ 5.[^1-1] Die Prüfungen der Leistungsstufe B für den Abschluss Sekundarstufe I für Erwachsene umfassen die Fächer – Arithmetik/Algebra, schriftlich,
-
-- Geometrie, schriftlich,
-
-- Deutsch, schriftlich und mündlich,
-
-- Geografie, mündlich,
-
-- Geschichte, mündlich,
-
-- Naturkunde, mündlich (zwei der drei Fächer Biologie, Physik, Chemie),
+- Zahl und Variable; Grösse, Funktion, Daten und Zufall (Arithmetik und Algebra)
 
 **1**
 
-- 1\. 1. 12 - 75
+- 1\. 1. 22 - 115
 
-- Französisch und Englisch: Wahlpflicht einer der vier nachfolgenden Varianten
+- Form und Raum (Geometrie) Sprachen in
+
+- Deutsch, schriftlich und mündlich
+
+- Französisch und Englisch als Wahlpflicht auf der Grundlage der folgenden Varianten:
 
 - Variante 1: Französisch schriftlich, Englisch schriftlich
 
@@ -81,22 +64,19 @@ Der Bildungsrat beschliesst:
 
 - Variante 3: Französisch schriftlich, Englisch mündlich
 
-- Variante 4: Französisch mündlich, Englisch schriftlich Jede Variante kann freiwillig mit zusätzlichen Prüfungen in Französisch und Englisch (mündlich oder schriftlich) ergänzt werden.
+- Variante 4: Französisch mündlich, Englisch schriftlich Jede Variante kann freiwillig mit zusätzlichen Prüfungen in Französisch und Englisch (mündlich oder schriftlich) ergänzt werden. Räume, Zeiten und Gesellschaften, mündlich:
 
-[^1-1]: Fassung gemäss B vom 12. Februar 2007 (OS 62, 69). In Kraft seit 1. August 2007.
-[^1-2]: Fassung gemäss B vom 26. September 2011 (OS 66, 863; ABl 2011, 2955). In Kraft seit 1. November 2011.
+- Kompetenzbereiche Geografie oder Geschichte Natur und Technik, mündlich:
 
-#### § 6
+- zwei der drei Kompetenzbereiche Biologie, Physik und Chemie Medien und Informatik, mündlich § 6. <sup>1</sup> Die schriftliche Prüfung in Arithmetik/Algebra dauert 90 Minuten, in Geometrie 60 Minuten, in Deutsch 120 Minuten, in Französisch und Englisch je 90 Minuten.[^1-3]
 
 **Dauer der Prüfungen**
-
-<sup>1</sup> Die schriftliche Prüfung in Arithmetik/Algebra dauert 90 Minuten, in Geometrie 60 Minuten, in Deutsch 120 Minuten, in Französisch und Englisch je 90 Minuten.[^1-2]
 
 <sup>2</sup> Die mündlichen Prüfungen dauern je 20 Minuten.
 
 **Ermittlung der Noten**
 
-§ 7.[^6-1] <sup>1</sup> Die Leistungen in den Prüfungen werden mit ganzen und halben Noten bewertet.
+§ 7.[^1-1] <sup>1</sup> Die Leistungen in den Prüfungen werden mit ganzen und halben Noten bewertet.
 
 <sup>2</sup> Das Gesamtergebnis ist das ungerundete Mittel aus den nachfolgend aufgezählten neun Fachnoten: Arithmetik/Algebra, Geometrie, Deutsch, Französisch, Englisch, Geografie, Geschichte, Naturkunde (zwei Noten).
 
@@ -106,7 +86,9 @@ Der Bildungsrat beschliesst:
 
 <sup>5</sup> Werden auf der Leistungsstufe B gemäss § 3 Abs. 2 Prüfungen aus der Leistungsstufe A abgelegt, werden diese Noten für die zu einem späteren Zeitpunkt in der Leistungsstufe A abgelegten Prüfungen angerechnet.
 
-[^6-1]: Fassung gemäss B vom 12. Februar 2007 (OS 62, 69). In Kraft seit 1. August 2007.
+[^1-1]: Fassung gemäss B vom 12. Februar 2007 (OS 62, 69). In Kraft seit 1. August 2007.
+[^1-2]: Fassung gemäss B vom 17. Mai 2021 (OS 76, 273; ABl 2021-06-11). In Kraft seit 1. Januar 2022. 1. 1. 22 - 115 5
+[^1-3]: Fassung gemäss B vom 26. September 2011 (OS 66, 863; ABl 2011, 2955). In Kraft seit 1. November 2011.
 
 #### § 8
 
@@ -152,6 +134,10 @@ Der Nachweis über den Abschluss Sekundarstufe I für Erwachsene gilt als erbrac
 
 § 14.[^9-1] <sup>1</sup> Die erfolgreichen Absolventinnen und Absolventen erhalten von der Bildungsdirektion den Ausweis über den Abschluss auf der Sekundarstufe I.
 
+**3**
+
+- 1\. 1. 22 - 115
+
 <sup>2</sup> Der Ausweis enthält die einzelnen Prüfungsnoten nach Leistungsstufen aufgeteilt.
 
 <sup>3</sup> Die Absolventinnen und Absolventen von Teilprüfungen erhalten eine Bestätigung über die erzielten Noten mit Angabe der Leistungsstufe.
@@ -169,19 +155,17 @@ Der Nachweis über den Abschluss Sekundarstufe I für Erwachsene gilt als erbrac
 
 <sup>3</sup> Die mit der Durchführung beauftragte Stelle ist verantwortlich für das Erstellen des Organisationsplans sowie der Prüfungsaufgaben.
 
-**3**
-
-- 1\. 1. 12 - 75
-
 <sup>4</sup> Die Prüfungen werden von Examinatorinnen und Examinatoren unter Beizug von Expertinnen und Experten abgenommen.
 
 <sup>5</sup> Die Prüfungsnote wird gemeinsam festgesetzt.
 
 **Aufsichtskommission**
 
-§ 16.[^15-1] Die Bildungsdirektion bestellt eine Aufsichtskommission. Die Aufsichtskommission umfasst 7 Mitglieder. Sie besteht aus mindestens je einer Vertretung – des Mittelschul- und Berufsbildungsamtes,
+§ 16.[^15-1] <sup>1</sup> Die Bildungsdirektion bestellt eine Aufsichtskommission. Diese legt die Prüfungsanforderungen auf der Grundlage des geltenden Lehrplans der Volksschule fest.
 
-- des Volksschulamtes,
+<sup>2</sup> Sie umfasst sieben Mitglieder und besteht aus je einer Vertretung – des Volksschulamtes,
+
+- des Mittelschul- und Berufsbildungsamtes,
 
 - der Schulsynode (je eine Lehrperson der Abteilungen A und B),
 
@@ -189,15 +173,16 @@ Der Nachweis über den Abschluss Sekundarstufe I für Erwachsene gilt als erbrac
 
 - einer vorbereitenden Schule,
 
-- einer kantonalen oder kantonal anerkannten Berufsfachschule/ Abnehmerschule.
+- einer kantonalen oder kantonal anerkannten Berufsfachschule/Abnehmerschule.
 
 **Präsidium und Geschäftsordnung**
 
-§ 17.[^15-1] <sup>1</sup> Das dem für die Durchführung der Prüfungen verantwortliche Amt angehörende Mitglied übernimmt das Präsidium.
+§ 17.[^15-2] <sup>1</sup> Das dem für die Durchführung der Prüfungen verantwortliche Amt angehörende Mitglied übernimmt das Präsidium.
 
 <sup>2</sup> Im Übrigen konstituiert sich die Aufsichtskommission selbst und erlässt eine Geschäftsordnung zur Regelung ihrer Tätigkeit.
 
-[^15-1]: Fassung gemäss B vom 12. Februar 2007 (OS 62, 69). In Kraft seit 1. August 2007.
+[^15-1]: Fassung gemäss B vom 17. Mai 2021 (OS 76, 273; ABl 2021-06-11). In Kraft seit 1. Januar 2022. 1. 1. 22 - 115 5
+[^15-2]: Fassung gemäss B vom 12. Februar 2007 (OS 62, 69). In Kraft seit 1. August 2007.
 
 #### § 18
 
@@ -234,4 +219,4 @@ Entscheide der Aufsichtskommission unterliegen nach Massgabe des Verwaltungsrech
 
 § 21.[^20-1] § 22. Das Reglement tritt auf den 1. Januar 2004 in Kraft und ersetzt das Reglement vom 6. September 1988.
 
-[^20-1]: Aufgehoben durch B vom 26. September 2011 (OS 66, 863; ABl 2011, 2955). In Kraft seit 1. November 2011. 1. 1. 12 - 75 5
+[^20-1]: Aufgehoben durch B vom 26. September 2011 (OS 66, 863; ABl 2011, 2955). In Kraft seit 1. November 2011.
