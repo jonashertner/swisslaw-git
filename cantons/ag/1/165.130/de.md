@@ -4,13 +4,13 @@ number: "165.130"
 title: Dekret über die Löhne des kantonalen Personals
 short: Lohndekret
 language: de
-version: 2017-07-01
-valid_until: 2021-12-31
-version_adopted: 2016-12-06
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-06-15
 adopted: 1999-11-30
 in_force: 2000-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/165.130"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2411/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3103/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2411/pdf_file"
 
 (Lohndekret)
 
-Vom 30.11.1999 (Stand 01.07.2017)
+Vom 30.11.1999 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -350,9 +350,9 @@ beschliesst:
 
 <sup>2</sup> Der Kanton versichert die Mitarbeiterinnen und Mitarbeiter gegen die Unfallfolgen.
 
-<sup>3</sup> Die Prämien für die Nichtbetriebsunfallversicherung werden von den Mitarbeiterinnen und Mitarbeitern getragen. Soweit die Versicherungsprämien die Prämienansätze bei der Aargauischen Gebäudeversicherung (AGV) übersteigen, trägt der Kanton die Differenz.
+<sup>3</sup> Die Prämien für die Nichtbetriebsunfallversicherung werden von den Mitarbeitenden getragen. Soweit die Versicherungsprämien von Mitarbeitenden, die anderweitig versichert sind, die Prämiensätze des UVG-Versicherers des Kantons übersteigen, trägt der Kanton die Differenz.
 
-<sup>4</sup> Er versichert Pensionierte auf eigenen Antrag gegen Unfallfolgen, sofern sie die ganze Prämie bezahlen.
+<sup>4</sup> …
 
 ## 9.
 
