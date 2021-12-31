@@ -4,11 +4,11 @@ title: Verordnung des BAKOM vom 26. Mai 2016 über Fernmeldeanlagen (VFAV)
 short: VFAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/307"
 language: de
-version: 2021-09-01
+version: 2022-01-01
 adopted: 2016-05-26
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/de/xml/fedlex-data-admin-ch-eli-cc-2016-307-20210901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-307-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210901/de"
 
 (VFAV)
 
-vom 26. Mai 2016 (Stand am 1. September 2021)
+vom 26. Mai 2016 (Stand am 1. Januar 2022)
 
 Das Bundesamt für Kommunikation (BAKOM),
 
@@ -189,7 +189,7 @@ Anhang 2*[^t-2]*
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. II der V des BAKOM vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Bereinigt gemäss Ziff. I der V des BAKOM vom 23. März 2021 ([AS 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)) und Ziff. II der V des BAKOM vom 5. Juli 2021, in Kraft seit 1. Sept. 2021 ([AS 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)).
+[^t-2]: Fassung gemäss Ziff. II der V des BAKOM vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Bereinigt gemäss Ziff. I der V des BAKOM vom 23. März 2021 ([AS 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)), Ziff. II der V des BAKOM vom 5. Juli 2021 ([AS 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)) und Ziff. I der V des BAKOM vom 11. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)).
 [^annex2-lvlu1-1]: Die anwendbaren Vorschriften für Schnittstellen können beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel, bezogen werden und sind im Internet unter folgender Adresse abrufbar: www.bakom.ch &gt; Das BAKOM &gt; Rechtliche Grundlagen &gt; Vollzugspraxis &gt; Geräte und Anlagen &gt; Technische Schnittstellenanforderungen (RIR).
 
 <table>
@@ -204,20 +204,20 @@ Anhang 2*[^t-2]*
 <tr><td>RIR0203</td><td>Funkanwendungen für Programmerstellung und bei Veranstaltungen (PMSE)</td><td>21</td></tr>
 <tr><td>RIR0301</td><td>Punkt-zu-Multipunkt-Richtfunkanlagen</td><td>11</td></tr>
 <tr><td>RIR0302</td><td>Punkt-zu-Punkt-Richtfunkanlagen</td><td>27</td></tr>
-<tr><td>RIR0501</td><td>Digitale zellulare Telefonie</td><td>17</td></tr>
+<tr><td>RIR0501</td><td>Digitale zellulare Telefonie</td><td>18</td></tr>
 <tr><td>RIR0503</td><td>Drahtlose Telefone</td><td>9</td></tr>
 <tr><td>RIR0504</td><td>Funkanlagen für Notfalldienste</td><td>11</td></tr>
 <tr><td>RIR0506</td><td>Personensuchanlagen (Pager)</td><td>9</td></tr>
 <tr><td>RIR0507</td><td>Betriebsfunkanlagen PMR/PAMR</td><td>18</td></tr>
 <tr><td>RIR0510</td><td>Intelligente Transportsysteme (ITS)</td><td>7</td></tr>
-<tr><td>RIR0601</td><td>Endgeräte für das weltweite Seenot- und Sicherheitsfunksystem</td><td>9</td></tr>
+<tr><td>RIR0601</td><td>Endgeräte für das weltweite Seenot- und Sicherheitsfunksystem</td><td>10</td></tr>
 <tr><td>RIR0603</td><td>Maritime Kommunikation</td><td>9</td></tr>
 <tr><td>RIR0604</td><td>Maritime Radionavigation</td><td>11</td></tr>
 <tr><td>RIR0702</td><td>Wettersonden</td><td>7</td></tr>
 <tr><td>RIR0703</td><td>Wetterradar</td><td>8</td></tr>
 <tr><td>RIR0705</td><td>Wind-Profiler</td><td>6</td></tr>
-<tr><td>RIR0806</td><td>Terrestrische stationäre Satellitenfunkanlagen (FSS)</td><td>15</td></tr>
-<tr><td>RIR0808</td><td>Terrestrische bewegliche Satellitenfunkanlagen (MSS)</td><td>16</td></tr>
+<tr><td>RIR0806</td><td>Terrestrische stationäre Satellitenfunkanlagen (FSS)</td><td>16</td></tr>
+<tr><td>RIR0808</td><td>Terrestrische bewegliche Satellitenfunkanlagen (MSS)</td><td>17</td></tr>
 <tr><td>RIR0809</td><td>Satellitennavigationssysteme (RNSS)</td><td>4</td></tr>
 <tr><td>RIR1001</td><td>Alarmanlagen</td><td>12</td></tr>
 <tr><td>RIR1002</td><td>Eisenbahnanwendungen</td><td>11</td></tr>
@@ -252,16 +252,18 @@ Anhang 3
 
 [^annex3-lvlu1-1]: Siehe Anhang 2.
 
-Anhang 4
+Anhang 4*[^t-3]*
 
 (Art. 4 Abs. 1)
 
 ## Zulassungsverfahren für Funkanlagen, die dazu bestimmt sind, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden
 
+[^t-3]: Bereinigt gemäss Ziff. I der V des BAKOM vom 11. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)).
+
 ### 1 Zulassungsgesuch
 
-- 1\.1 Wer eine Zulassung für eine Funkanlage erhalten will, die dazu bestimmt ist, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden, muss diese auf dem entsprechenden Formular[^annex4-lvlu1-lvl1-1] unter Beilage aller notwendigen Dokumente nach Artikel 14 FAV beim BAKOM beantragen.
-- 1\.2 Die Prüfberichte (Art. 14 Abs. 4 Bst. h FAV) müssen von einer anerkannten Prüfstelle nach Artikel 17 FAV ausgestellt werden.
+- 1\.1 Wer eine Zulassung für eine Funkanlage erhalten will, die dazu bestimmt ist, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden, muss dem BAKOM ein Gesuch mit dem entsprechenden Formular[^annex4-lvlu1-lvl1-1] und den erforderlichen Unterlagen und Informationen einreichen.
+- 1\.2 Die Prüfberichte (Art. 14 Abs. 4 Bst. h FAV) betreffend die Anforderungen an die elektromagnetische Verträglichkeit und die Nutzung des Frequenzspektrums (Art. 26 Abs. 3 FAV) müssen von einer anerkannten Prüfstelle nach Artikel 17 FAV ausgestellt werden.
 - 1\.3 Gesuchstellerinnen und Gesuchsteller, die sich auf den Prüfbericht oder die Zulassung von Dritten stützen, müssen nachweisen, dass die Funkanlage mit der ursprünglich geprüften oder zugelassenen Funkanlage in allen Punkten übereinstimmt.
 
 [^annex4-lvlu1-lvl1-1]: Das Formular kann beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel bezogen werden.
@@ -299,7 +301,7 @@ Anhang 4
   - a. yy: die beiden letzten Ziffern des Ausstellungsjahrs der Zulassung;
   - b. iiii: individuelle vierstellige Zahl.
 
-Anhang 5*[^t-3]*
+Anhang 5*[^t-4]*
 
 (Art. 4 Abs. 2 und Art. 6)
 
@@ -307,30 +309,30 @@ Anhang 5*[^t-3]*
 
 [^annex5-lvlu1-1]
 
-[^t-3]: Fassung gemäss Ziff. II der V des BAKOM vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)).
+[^t-4]: Fassung gemäss Ziff. II der V des BAKOM vom 18. Nov. 2020 ([AS 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Bereinigt gemäss Ziff. I der V des BAKOM vom 11. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)).
 [^annex5-lvlu1-1]: Die technischen und administrativen Vorschriften können kostenlos bezogen werden beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel, und sind im Internet unter folgender Adresse abrufbar: www.bakom.ch &gt; Das BAKOM &gt; Rechtliche Grundlagen &gt; Vollzugspraxis &gt; Geräte und Anlagen &gt; Andere Anforderungen.
 
 <table>
 <tr><th>Nr.</th><th>Titel der technischen Anforderung</th><th>Ausgabe</th></tr>
 <tr><td>TAV 5.1 (Art. 6)</td><td>Technische und administrative Vorschriften betreffend die leitungsgebundenen Fernmeldeanlagen mit Powerline-Communication-Technologie (PLC)</td><td>5</td></tr>
-<tr><td>TAV 5.2 (Art. 4 Abs. 2)</td><td>Technische und administrative Vorschriften betreffend die Funkanlagen, die dazu bestimmt sind, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden: Fest installierte störende Anlagen</td><td>3</td></tr>
-<tr><td>TAV 5.3 (Art. 4 Abs. 2)</td><td>Technische und administrative Vorschriften betreffend die Funkanlagen, die dazu bestimmt sind, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden: Mobile störende Anlagen</td><td>3</td></tr>
-<tr><td>TAV 5.4 (Art. 4 Abs. 2)</td><td>Technische und administrative Vorschriften betreffend die Funkanlagen, die dazu bestimmt sind, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden: Ortungs- und Überwachungssysteme sowie Daten- und Sprechfunkanlagen</td><td>2</td></tr>
+<tr><td>TAV 5.2 (Art. 4 Abs. 2)</td><td>Technische und administrative Vorschriften betreffend die Funkanlagen, die dazu bestimmt sind, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden: Fest installierte störende Anlagen</td><td>4</td></tr>
+<tr><td>TAV 5.3 (Art. 4 Abs. 2)</td><td>Technische und administrative Vorschriften betreffend die Funkanlagen, die dazu bestimmt sind, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden: Mobile störende Anlagen</td><td>4</td></tr>
+<tr><td>TAV 5.4 (Art. 4 Abs. 2)</td><td>Technische und administrative Vorschriften betreffend die Funkanlagen, die dazu bestimmt sind, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden: Ortungs- und Überwachungssysteme sowie Daten- und Sprechfunkanlagen</td><td>3</td></tr>
 </table>
 
-Anhang 6*[^t-4]*
+Anhang 6*[^t-5]*
 
 (Art. 2*a*)
 
 ## Piktogramm
 
-[^t-4]: Eingefügt durch Ziff. II Abs. 3 der V des BAKOM vom 21. Nov. 2017, in Kraft seit 9. Aug. 2018 ([AS 2017 7137](https://fedlex.data.admin.ch/eli/oc/2017/771)[7787](https://fedlex.data.admin.ch/eli/oc/2017/890)).
+[^t-5]: Eingefügt durch Ziff. II Abs. 3 der V des BAKOM vom 21. Nov. 2017, in Kraft seit 9. Aug. 2018 ([AS 2017 7137](https://fedlex.data.admin.ch/eli/oc/2017/771)[7787](https://fedlex.data.admin.ch/eli/oc/2017/890)).
 
 <sup>1</sup> Das Piktogramm hat die Form einer Tabelle.
 
 <sup>2</sup> Es enthält das folgende Symbol:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220101/de/xml/image/image1.png)
 
 <sup>3</sup> Für eine Funkanlage, die das schweizerische Konformitätskennzeichen gemäss Anhang 1 Ziffer 1 FAV trägt, enthält es neben oder unter dem Symbol gemäss Absatz 2 die Abkürzung der Schweiz (CH).
 
@@ -348,13 +350,13 @@ Anhang 6*[^t-4]*
 <sup>7</sup> Beispiel mit informativem Charakter:
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/de/xml/image/image1.png)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220101/de/xml/image/image1.png)</td></tr>
 <tr><td>CH</td><td>FR</td><td>ES</td></tr>
 <tr><td>IT</td><td>DK</td><td>DE</td></tr>
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/de/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220101/de/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Durchführungsverordnung (EU) 2017/1354 der Kommission vom 20. Juli 2017 zur Festlegung der Aufmachung von Informationen gemäss Artikel 10 Absatz 10 der Richtlinie 2014/53/EU des Europäischen Parlaments und des Rates, Fassung gemäss ABl. L 190 vom 21.7.2017, S. 7.

@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFCOM du 26 mai 2016 sur les installations de télécomm
 short: OOIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/307"
 language: fr
-version: 2021-09-01
+version: 2022-01-01
 adopted: 2016-05-26
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/fr/xml/fedlex-data-admin-ch-eli-cc-2016-307-20210901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-307-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210901/fr"
 
 (OOIT)
 
-du 26 mai 2016 (Etat le 1<sup>er</sup> septembre 2021)
+du 26 mai 2016 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Office fédéral de la communication (OFCOM),
 
@@ -189,7 +189,7 @@ Annexe 2*[^t-2]*
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OFCOM du 18 nov. 2020 ([RO 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Mise à jour selon le ch. I de l’O de l’OFCOM du 23 mars 2021 ([RO 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)) et le ch. II de l’O de l’OFCOM du 5 juil. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2021 ([RO 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OFCOM du 18 nov. 2020 ([RO 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Mise à jour selon le ch. I de l’O de l’OFCOM du 23 mars 2021 ([RO 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)), le ch. II de l’O de l’OFCOM du 5 juil. 2021 ([RO 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)) et le ch. I de l’O de l’OFCOM du 11 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)).
 [^annex2-lvlu1-1]: Les prescriptions applicables aux interfaces peuvent être obtenues gratuitement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou consultées gratuitement sur son site à l’adresse suivante: www.ofcom.ch &gt; L’OFCOM &gt; Bases légales &gt; Pratique en matière d’exécution &gt; Appareils et installations &gt; Prescriptions techniques d’interface (RIR).
 
 <table>
@@ -204,20 +204,20 @@ Annexe 2*[^t-2]*
 <tr><td>RIR0203</td><td>Services pour réalisation de programmes et d’événements spéciaux (PMSE)</td><td>21</td></tr>
 <tr><td>RIR0301</td><td>Faisceaux hertziens point à multipoint</td><td>11</td></tr>
 <tr><td>RIR0302</td><td>Faisceaux hertziens point à point</td><td>27</td></tr>
-<tr><td>RIR0501</td><td>Téléphonie digitale cellulaire</td><td>17</td></tr>
+<tr><td>RIR0501</td><td>Téléphonie digitale cellulaire</td><td>18</td></tr>
 <tr><td>RIR0503</td><td>Téléphones sans fil</td><td>9</td></tr>
 <tr><td>RIR0504</td><td>Équipements radio pour services d’urgence</td><td>11</td></tr>
 <tr><td>RIR0506</td><td>Installations de recherche de personnes (pager)</td><td>9</td></tr>
 <tr><td>RIR0507</td><td>Installations de radiocommunication PMR/PAMR</td><td>18</td></tr>
 <tr><td>RIR0510</td><td>Systèmes intelligents de transport (ITS)</td><td>7</td></tr>
-<tr><td>RIR0601</td><td>Terminaux pour le système global de détresse et de sûreté maritime</td><td>9</td></tr>
+<tr><td>RIR0601</td><td>Terminaux pour le système global de détresse et de sûreté maritime</td><td>10</td></tr>
 <tr><td>RIR0603</td><td>Communication maritime</td><td>9</td></tr>
 <tr><td>RIR0604</td><td>Radionavigation maritime</td><td>11</td></tr>
 <tr><td>RIR0702</td><td>Sondes météorologiques</td><td>7</td></tr>
 <tr><td>RIR0703</td><td>Radars météorologiques</td><td>8</td></tr>
 <tr><td>RIR0705</td><td>Wind-Profiler</td><td>6</td></tr>
-<tr><td>RIR0806</td><td>Stations terriennes fixes de communication par satellite (FSS)</td><td>15</td></tr>
-<tr><td>RIR0808</td><td>Stations terriennes mobiles de communication par satellite (MSS)</td><td>16</td></tr>
+<tr><td>RIR0806</td><td>Stations terriennes fixes de communication par satellite (FSS)</td><td>16</td></tr>
+<tr><td>RIR0808</td><td>Stations terriennes mobiles de communication par satellite (MSS)</td><td>17</td></tr>
 <tr><td>RIR0809</td><td>Systèmes de radionavigation par satellite (RNSS)</td><td>4</td></tr>
 <tr><td>RIR1001</td><td>Systèmes d’alarme</td><td>12</td></tr>
 <tr><td>RIR1002</td><td>Applications ferroviaires</td><td>11</td></tr>
@@ -252,16 +252,18 @@ Annexe 3
 
 [^annex3-lvlu1-1]: Voir annexe 2.
 
-Annexe 4
+Annexe 4*[^t-3]*
 
 (art. 4, al. 1)
 
 ## Procédure d’homologation d’installations de radiocommunication destinées à être exploitées pour assurer la sécurité publique par des autorités
 
+[^t-3]: Mise à jour par le ch. I de l’O de l’OFCOM du 11 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)).
+
 ### 1 Demande d’homologation
 
-- 1\.1 Toute personne qui veut obtenir l’homologation d’une installation de radiocommunication destinée à être exploitée pour assurer la sécurité publique par des autorités doit en faire la demande à l’OFCOM au moyen de la formule ad hoc[^annex4-lvlu1-lvl1-1], accompagnée de la documentation technique prévue à l’art. 14 OIT.
-- 1\.2 Les rapports d’essais (art. 14, al. 4, let. h, OIT) doivent être établis par un laboratoire d’essai reconnu conformément à l’art. 17 OIT.
+- 1\.1 Toute personne qui veut obtenir l’homologation d’une installation de radiocommunication destinée à être exploitée pour assurer la sécurité publique par des autorités doit en faire la demande à l’OFCOM au moyen de la formule ad hoc[^annex4-lvlu1-lvl1-1], accompagnée des documents et informations nécessaires à l’homologation.
+- 1\.2 Les rapports d’essais (art. 14, al. 4, let. h, OIT) concernant les exigences en matière de compatibilité électromagnétique et d’utilisation du spectre des fréquences (art. 26, al. 3, OIT) doivent être établis par un laboratoire d’essai reconnu conformément à l’art. 17 OIT.
 - 1\.3 Si le requérant se fonde sur un rapport d’essai ou un certificat d’homologation établi pour un tiers, il doit fournir la preuve que son installation de radiocommunication est en tous points identique à celle qui a été essayée ou homologuée initialement.
 
 [^annex4-lvlu1-lvl1-1]: Cette formule peut être obtenue à l’Office fédéral de la communication, 44, rue de l’Avenir, case postale, 2501 Bienne.
@@ -299,7 +301,7 @@ Annexe 4
   - a) yy: les deux derniers chiffres de l’année où le certificat d’homologation a été délivré;
   - b) iiii: numéro individuel à quatre chiffres.
 
-Annexe 5*[^t-3]*
+Annexe 5*[^t-4]*
 
 (art. 4, al. 2, et 6)
 
@@ -307,30 +309,30 @@ Annexe 5*[^t-3]*
 
 [^annex5-lvlu1-1]
 
-[^t-3]: Nouvelle teneur selon le ch. II de l’O de l’OFCOM du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)).
+[^t-4]: Nouvelle teneur selon le ch. II de l’O de l’OFCOM du 18 nov. 2020 ([RO 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Mise à jour par le ch. I de l’O de l’OFCOM du 11 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)).
 [^annex5-lvlu1-1]: Ces prescriptions techniques et administratives peuvent être obtenues gratuitement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou consultées gratuitement sur son site à l’adresse suivante: www.ofcom.ch &gt; L’OFCOM &gt; Bases légales &gt; Pratique en matière d’exécution &gt; Appareils et installations &gt; Autres prescriptions.
 
 <table>
 <tr><th>N<sup>o</sup></th><th>Titre du document</th><th>Édition</th></tr>
 <tr><td>PTA 5.1 (art. 6)</td><td>Prescriptions techniques et administratives concernant les installations de télécommunication filaires utilisant la technologie des courants porteurs en ligne (CPL)</td><td>5</td></tr>
-<tr><td>PTA 5.2 (art. 4, al. 2)</td><td>Prescriptions techniques et administratives applicables aux installations de radiocommunication destinées à être exploitées pour assurer la sécurité publique par des autorités: installations perturbatrices fixes</td><td>3</td></tr>
-<tr><td>PTA 5.3 (art. 4, al. 2)</td><td>Prescriptions techniques et administratives applicables aux installations de radiocommunication destinées à être exploitées pour assurer la sécurité publique par des autorités: installations perturbatrices mobiles</td><td>3</td></tr>
-<tr><td>PTA 5.4 (art. 4, al. 2)</td><td>Prescriptions techniques et administratives applicables aux installations de radiocommunication destinées à être exploitées pour assurer la sécurité publique par des autorités: installations de localisation, de surveillance et de communication</td><td>2</td></tr>
+<tr><td>PTA 5.2 (art. 4, al. 2)</td><td>Prescriptions techniques et administratives applicables aux installations de radiocommunication destinées à être exploitées pour assurer la sécurité publique par des autorités: installations perturbatrices fixes</td><td>4</td></tr>
+<tr><td>PTA 5.3 (art. 4, al. 2)</td><td>Prescriptions techniques et administratives applicables aux installations de radiocommunication destinées à être exploitées pour assurer la sécurité publique par des autorités: installations perturbatrices mobiles</td><td>4</td></tr>
+<tr><td>PTA 5.4 (art. 4, al. 2)</td><td>Prescriptions techniques et administratives applicables aux installations de radiocommunication destinées à être exploitées pour assurer la sécurité publique par des autorités: installations de localisation, de surveillance et de communication</td><td>3</td></tr>
 </table>
 
-Annexe 6*[^t-4]*
+Annexe 6*[^t-5]*
 
 (art. 2*a*)
 
 ## Pictogramme
 
-[^t-4]: Introduite par le ch. II al. 3 de l’O de l’OFCOM du 21 nov. 2017, en vigueur depuis le 9 août 2018 ([RO 2017 7137](https://fedlex.data.admin.ch/eli/oc/2017/771)[7787](https://fedlex.data.admin.ch/eli/oc/2017/890)).
+[^t-5]: Introduite par le ch. II al. 3 de l’O de l’OFCOM du 21 nov. 2017, en vigueur depuis le 9 août 2018 ([RO 2017 7137](https://fedlex.data.admin.ch/eli/oc/2017/771), [7787](https://fedlex.data.admin.ch/eli/oc/2017/890)).
 
 <sup>1</sup> Le pictogramme se présente sous la forme d’un tableau.
 
 <sup>2</sup> Il contient le symbole suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220101/fr/xml/image/image1.png)
 
 <sup>3</sup> Pour une installation de radiocommunication portant la marque suisse de con-formité selon l’annexe 1, ch. 1, OIT, il mentionne, en dessous ou à côté du symbole figurant à l’al. 2, l’abréviation de la Suisse (CH).
 
@@ -348,13 +350,13 @@ Annexe 6*[^t-4]*
 <sup>7</sup> Exemple, à caractère informatif:
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/fr/xml/image/image1.png)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220101/fr/xml/image/image1.png)</td></tr>
 <tr><td>CH</td><td>FR</td><td>ES</td></tr>
 <tr><td>IT</td><td>DK</td><td>DE</td></tr>
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/fr/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220101/fr/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Règlement d’exécution (UE) 2017/1354 de la Commission du 20 juillet 2017 précisant comment présenter les informations prévues à l’art. 10, par. 10, de la directive 2014/53/UE du Parlement européen et du Conseil, version du JO L 190 du 21.7.2017, p. 7.

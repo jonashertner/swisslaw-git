@@ -4,11 +4,11 @@ title: "Ordinanza dell'UFCOM sugli impianti di telecomunicazione (OOIT)"
 short: OOIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/307"
 language: it
-version: 2021-09-01
+version: 2022-01-01
 adopted: 2016-05-26
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/it/xml/fedlex-data-admin-ch-eli-cc-2016-307-20210901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-307-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210901/it"
 
 (OOIT)
 
-del 26 maggio 2016 (Stato 1° settembre 2021)
+del 26 maggio 2016 (Stato 1° gennaio 2022)
 
 L’Ufficio federale delle comunicazioni (UFCOM),
 
@@ -188,7 +188,7 @@ Allegato 2*[^t-2]*
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta il n. II dell’O dell’UFCOM del 18 nov. 2020 ([RU 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Aggiornato dal n. I dell’O dell’UFCOM del 23 mar. 2021 ([RU 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)) e dal n. II dell’O dell’UFCOM del 5 lug. 2021, in vigore dal 1° set. 2021 ([RU 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)).
+[^t-2]: Nuovo testo giusta il n. II dell’O dell’UFCOM del 18 nov. 2020 ([RU 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Aggiornato dal n. I dell’O dell’UFCOM del 23 mar. 2021 ([RU 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)), dal n. II dell’O dell’UFCOM del 5 lug. 2021, in vigore dal 1° set. 2021 ([RU 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)) e dal n. I dell’O dell’UFCOM dell’11 nov. 2022, in vigore dal 1° gen. 2022 ([RU 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)).
 [^annex2-lvlu1-1]: Le prescrizioni applicabili alle interfacce sono ottenibili gratuitamente presso l’Ufficio federale delle comunicazioni, rue de l’Avenir 44, casella postale, 2501 Bienne oppure consultabili in rete al seguente indirizzo: www.ufcom.ch &gt; L’UFCOM &gt; Basi legali &gt; Prassi d’esecuzione &gt; Apparecchi e impianti &gt; Prescrizioni tecniche delle interfacce (RIR).
 
 <table>
@@ -203,20 +203,20 @@ Allegato 2*[^t-2]*
 <tr><td>RIR0203</td><td>Servizi per realizzazione di programmi e di eventi speciali (PMSE)</td><td>21</td></tr>
 <tr><td>RIR0301</td><td>Ponti radio punto a multipunto</td><td>11</td></tr>
 <tr><td>RIR0302</td><td>Ponti radio punto a punto</td><td>27</td></tr>
-<tr><td>RIR0501</td><td>Telefonia digitale cellulare</td><td>17</td></tr>
+<tr><td>RIR0501</td><td>Telefonia digitale cellulare</td><td>18</td></tr>
 <tr><td>RIR0503</td><td>Telefoni senza filo</td><td>9</td></tr>
 <tr><td>RIR0504</td><td>Impianti di radiocomunicazione del servizio di emergenza</td><td>11</td></tr>
 <tr><td>RIR0506</td><td>Impianti di ricerca di persona (pager)</td><td>9</td></tr>
 <tr><td>RIR0507</td><td>Impianti di radiocomunicazione PMR/PAMR</td><td>18</td></tr>
 <tr><td>RIR0510</td><td>Sistemi intelligenti di trasporto (ITS)</td><td>7</td></tr>
-<tr><td>RIR0601</td><td>Stazioni terminali per il sistema mondiale di soccorso e sicurezza in mare</td><td>9</td></tr>
+<tr><td>RIR0601</td><td>Stazioni terminali per il sistema mondiale di soccorso e sicurezza in mare</td><td>10</td></tr>
 <tr><td>RIR0603</td><td>Comunicazione marittima</td><td>9</td></tr>
 <tr><td>RIR0604</td><td>Radionavigazione marittima</td><td>11</td></tr>
 <tr><td>RIR0702</td><td>Sonde meteorologiche</td><td>7</td></tr>
 <tr><td>RIR0703</td><td>Radar meteorologici</td><td>8</td></tr>
 <tr><td>RIR0705</td><td>Wind-Profiler</td><td>6</td></tr>
-<tr><td>RIR0806</td><td>Stazioni terrestri fisse di comunicazioni via satellite (FSS)</td><td>15</td></tr>
-<tr><td>RIR0808</td><td>Stazioni terrestri mobili di comunicazioni via satellite (MSS)</td><td>16</td></tr>
+<tr><td>RIR0806</td><td>Stazioni terrestri fisse di comunicazioni via satellite (FSS)</td><td>16</td></tr>
+<tr><td>RIR0808</td><td>Stazioni terrestri mobili di comunicazioni via satellite (MSS)</td><td>17</td></tr>
 <tr><td>RIR0809</td><td>Sistemi di navigazione satellitare (RNSS)</td><td>4</td></tr>
 <tr><td>RIR1001</td><td>Sistemi d’allarme</td><td>12</td></tr>
 <tr><td>RIR1002</td><td>Applicazioni ferroviarie</td><td>11</td></tr>
@@ -251,16 +251,18 @@ Allegato 3
 
 [^annex3-lvlu1-1]: Cfr. all. 2.
 
-Allegato 4
+Allegato 4*[^t-3]*
 
 (art. 4 cpv. 1)
 
 ## Procedura di omologazione degli impianti di radiocomunicazione destinati ad essere impiegati dalle autorità per garantire la sicurezza pubblica
 
+[^t-3]: Aggiornato dal n. I dell’O dell’UFCOM dell’11 nov. 2022, in vigore dal 1° gen. 2022 ([RU 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)).
+
 ### 1 Domanda di omologazione
 
-- 1\.1 Chi vuole ottenere l’omologazione di un impianto di radiocomunicazione destinato ad essere impiegato dalle autorità per garantire la sicurezza pubblica deve farne domanda all’UFCOM mediante l’apposito modulo[^annex4-lvlu1-lvl1-1], corredato della documentazione tecnica di cui all’articolo 14 OIT.
-- 1\.2 Le relazioni sulle prove effettuate (art. 14 cpv. 4 lett. h OIT) vanno allestite da un laboratorio di prova riconosciuto conformemente all’articolo 17 OIT.
+- 1\.1 Chi vuole ottenere l’omologazione di un impianto di radiocomunicazione destinato ad essere impiegato dalle autorità per garantire la sicurezza pubblica deve farne domanda all’UFCOM mediante l’apposito modulo[^annex4-lvlu1-lvl1-1], corredato dei documenti e informazioni necessari all’omologazione.
+- 1\.2 Le relazioni sulle prove effettuate (art. 14 cpv. 4 lett. h OIT) circa i requisiti in materia di compatibilità elettromagnetica e di utilizzazione dello spettro delle frequenze (art. 26 cpv. 3 OIT) devono essere allestite da un laboratorio di prova riconosciuto conformemente all’articolo 17 OIT.
 - 1\.3 Se il richiedente vuole basarsi su una relazione sulle prove effettuate o un certificato d’omologazione allestiti da terzi, deve provare che il suo impianto di telecomunicazione corrisponde in tutti i punti all’impianto originariamente sottoposto a prova o omologato.
 
 [^annex4-lvlu1-lvl1-1]: Questo formulario è ottenibile presso l’Ufficio federale delle comunicazioni, rue de l’Avenir 44, casella postale, 2500 Bienne.
@@ -298,7 +300,7 @@ Allegato 4
   - a) yy: le due ultime cifre dell’anno in cui è stato rilasciato il certificato d’omologazione;
   - b) iiii: numero individuale a quattro cifre.
 
-Allegato 5*[^t-3]*
+Allegato 5*[^t-4]*
 
 (art. 4 cpv. 2 e art. 6)
 
@@ -306,30 +308,30 @@ Allegato 5*[^t-3]*
 
 [^annex5-lvlu1-1]
 
-[^t-3]: Nuovo testo giusta il n. II dell’O dell’UFCOM del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)).
+[^t-4]: Nuovo testo giusta il n. II dell’O dell’UFCOM del 18 nov. 2020 ([RU 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Aggiornato dal n. I dell’O dell’UFCOM dell’11 nov. 2022, in vigore dal 1° gen. 2022 ([RU 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)).
 [^annex5-lvlu1-1]: Queste prescrizioni tecniche e amministrative sono ottenibili gratuitamente presso l’UFCOM, rue de l’Avenir 44, casella postale, 2501 Bienne, oppure consultabili in rete all’indirizzo: www.ufcom.ch &gt; L’UFCOM &gt; Basi legali &gt; Prassi d’esecuzione &gt; Apparecchi e impianti &gt; Altre prescrizioni.
 
 <table>
 <tr><th>N.</th><th>Titolo del documento</th><th>Edizione</th></tr>
 <tr><td>PTA 5.1 (art. 6)</td><td>Prescrizioni tecniche e amministrative concernenti gli impianti terminali di telecomunicazione collegati per filo basati sulla tecnologia delle correnti portanti in linea (CPL)</td><td>5</td></tr>
-<tr><td>PTA 5.2 (art. 4 cpv. 2)</td><td>Prescrizioni tecniche e amministrative applicabili agli impianti di radiocomunicazione previsti per garantire la sicurezza pubblica da parte delle autorità: impianti fissi che provocano interferenze</td><td>3</td></tr>
-<tr><td>PTA 5.3 (art. 4 cpv. 2)</td><td>Prescrizioni tecniche e amministrative applicabili agli impianti di radiocomunicazione previsti per garantire la sicurezza pubblica da parte delle autorità: impianti mobili che provocano interferenze</td><td>3</td></tr>
-<tr><td>PTA 5.4 (art. 4 cpv. 2)</td><td>Prescrizioni tecniche e amministrative applicabili agli impianti di radiocomunicazione previsti per garantire la sicurezza pubblica da parte delle autorità: impianti di localizzazione, di sorveglianza e di comunicazione</td><td>2</td></tr>
+<tr><td>PTA 5.2 (art. 4 cpv. 2)</td><td>Prescrizioni tecniche e amministrative applicabili agli impianti di radiocomunicazione previsti per garantire la sicurezza pubblica da parte delle autorità: impianti fissi che provocano interferenze</td><td>4</td></tr>
+<tr><td>PTA 5.3 (art. 4 cpv. 2)</td><td>Prescrizioni tecniche e amministrative applicabili agli impianti di radiocomunicazione previsti per garantire la sicurezza pubblica da parte delle autorità: impianti mobili che provocano interferenze</td><td>4</td></tr>
+<tr><td>PTA 5.4 (art. 4 cpv. 2)</td><td>Prescrizioni tecniche e amministrative applicabili agli impianti di radiocomunicazione previsti per garantire la sicurezza pubblica da parte delle autorità: impianti di localizzazione, di sorveglianza e di comunicazione</td><td>3</td></tr>
 </table>
 
-Allegato 6*[^t-4]*
+Allegato 6*[^t-5]*
 
 (art. 2*a*)
 
 ## Pittogramma
 
-[^t-4]: Introdotto dal n. II cpv. 3 dell’O dell’UFCOM del 21 nov. 2017, in vigore dal 9 ago. 2018 ([RU 2017 7137](https://fedlex.data.admin.ch/eli/oc/2017/771)[7787](https://fedlex.data.admin.ch/eli/oc/2017/890)).
+[^t-5]: Introdotto dal n. II cpv. 3 dell’O dell’UFCOM del 21 nov. 2017, in vigore dal 9 ago. 2018 ([RU 2017 7137](https://fedlex.data.admin.ch/eli/oc/2017/771)[7787](https://fedlex.data.admin.ch/eli/oc/2017/890)).
 
 <sup>1</sup> Il pittogramma si presenta sotto forma di tabella.
 
 <sup>2</sup> Include il seguente simbolo:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220101/it/xml/image/image1.png)
 
 <sup>3</sup> Per un impianto di radiocomunicazione recante il marchio di conformità svizzero secondo l’allegato 1 numero 1 OIT riporta, sotto o accanto al simbolo di cui al capoverso 2, l’abbreviazione della Svizzera (CH).
 
@@ -347,13 +349,13 @@ Allegato 6*[^t-4]*
 <sup>7</sup> Esempio a carattere informativo:
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/it/xml/image/image1.png)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220101/it/xml/image/image1.png)</td></tr>
 <tr><td>CH</td><td>FR</td><td>ES</td></tr>
 <tr><td>IT</td><td>DK</td><td>DE</td></tr>
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/it/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220101/it/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Regolamento di esecuzione (UE) 2017/1354 della Commissione, del 20 luglio 2017, che specifica le modalità di presentazione delle informazioni di cui all’articolo 10, paragrafo 10, della direttiva 2014/53/UE del Parlamento europeo e del Consiglio, versione GU L 190 del 21.7.2017, pag. 7.
