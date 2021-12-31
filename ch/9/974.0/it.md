@@ -3,18 +3,18 @@ sr: "974.0"
 title: "Legge federale del 19 marzo 1976 su la cooperazione allo sviluppo e l'aiuto umanitario internazionali"
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352"
 language: it
-version: 2021-12-01
+version: 2022-01-01
 adopted: 1976-03-19
 in_force: 1977-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352/20211201/it/xml/fedlex-data-admin-ch-eli-cc-1977-1352_1352_1352-20211201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/1352_1352_1352/20211201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1977-1352_1352_1352-20220101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/1352_1352_1352/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale su la cooperazione allo sviluppo e l’aiuto umanitario internazionali
 
-del 19 marzo 1976 (Stato 1° dicembre 2021) (Stato 1° dicembre 2021)
+del 19 marzo 1976 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -124,11 +124,13 @@ L’aiuto umanitario può assumere le forme seguenti:
 
 #### Art. 9
 
-<sup>1</sup> I fondi per la cooperazione allo sviluppo e l’auto umanitario internazionali sono stanziati in forma di crediti quadro pluriennali.
+<sup>1</sup> I fondi per la cooperazione allo sviluppo e l’auto umanitario internazionali sono stanziati in forma di crediti d’impegno[^9-1] pluriennali.
 
-<sup>2</sup> Nelle domande di crediti quadro è tenuto conto della situazione dell’economia svizzera e delle finanze federali, nonché delle esigenze delle regioni svizzere sfavorite.
+<sup>2</sup> Nelle domande di crediti d’impegno è tenuto conto della situazione dell’economia svizzera e delle finanze federali, nonché delle esigenze delle regioni svizzere sfavorite.
 
-<sup>3</sup> Il Consiglio federale vigila sull’impiego efficace dei fondi stanziati in virtù della presente legge. Esso ne rende conto all’Assemblea federale quando propone nuovi crediti quadro.
+<sup>3</sup> Il Consiglio federale vigila sull’impiego efficace dei fondi stanziati in virtù della presente legge. Esso ne rende conto all’Assemblea federale quando propone nuovi crediti d’impegno.
+
+[^9-1]: Nuova espr. giusta l’all. n. 12 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 ## Capitolo 5. Attuazione
 
@@ -136,7 +138,7 @@ L’aiuto umanitario può assumere le forme seguenti:
 
 **Accordi internazionali**
 
-Per l’impiego dei fondi a carico dei crediti quadro, il Consiglio federale può concludere accordi internazionali circa i provvedimenti previsti nella presente legge riservato l’articolo 89 capoverso 4 della Costituzione federale[^10-1].
+Per l’impiego dei fondi a carico dei crediti d’impegno, il Consiglio federale può concludere accordi internazionali circa i provvedimenti previsti nella presente legge riservato l’articolo 89 capoverso 4 della Costituzione federale[^10-1].
 
 [^10-1]: Trattasi del cpv. 4 nel testo del 22 gen. 1939 [CS **1** 3]. Ora: cpv. 3. Alla disposizione citata corrisponde ora l’art. 141, cpv. 1 lett. d della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 

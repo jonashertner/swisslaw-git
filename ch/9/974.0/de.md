@@ -3,18 +3,18 @@ sr: "974.0"
 title: Bundesgesetz vom 19. März 1976 über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352"
 language: de
-version: 2021-12-01
+version: 2022-01-01
 adopted: 1976-03-19
 in_force: 1977-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352/20211201/de/xml/fedlex-data-admin-ch-eli-cc-1977-1352_1352_1352-20211201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/1352_1352_1352/20211201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1977-1352_1352_1352-20220101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/1352_1352_1352/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe
 
-vom 19. März 1976 (Stand am 1. Dezember 2021)
+vom 19. März 1976 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -71,7 +71,9 @@ Der Bund koordiniert seine Massnahmen mit den Anstrengungen der Partner und nach
 
 <sup>1</sup> Die Entwicklungszusammenarbeit unterstützt die Entwicklungsländer im Bestreben, die Lebensbedingungen ihrer Bevölkerung zu verbessern. Sie soll dazu beitragen, dass diese Länder ihre Entwicklung aus eigener Kraft vorantreiben. Langfristig erstrebt sie besser ausgewogene Verhältnisse in der Völkergemeinschaft.
 
-<sup>2</sup> Sie unterstützt in erster Linie die ärmeren Entwicklungsländer, Regionen und Bevölkerungsgruppen. Sie fördert namentlich
+<sup>2</sup>
+
+Sie unterstützt in erster Linie die ärmeren Entwicklungsländer, Regionen und Bevölkerungsgruppen. Sie fördert namentlich:
 
 - a. die Entwicklung ländlicher Gebiete;
 - b. die Verbesserung der Ernährungslage, insbesondere durch die landwirtschaftliche Produktion zur Selbstversorgung;
@@ -83,7 +85,9 @@ Der Bund koordiniert seine Massnahmen mit den Anstrengungen der Partner und nach
 
 **Formen**
 
-<sup>1</sup> Die Entwicklungszusammenarbeit kann folgende Formen annehmen
+<sup>1</sup>
+
+Die Entwicklungszusammenarbeit kann folgende Formen annehmen:
 
 - a. technische Zusammenarbeit, die im besonderen bezweckt, durch Vermittlung von Wissen und Erfahrung die Entfaltung der Menschen zu fördern und sie zu befähigen, ihre wirtschaftliche, soziale und kulturelle Entwicklung, innerhalb ihrer eigenen Gesellschaft, mitzugestalten;
 - b. Finanzhilfe, die im Besonderen zum Ausbau der wirtschaftlichen und sozialen Infrastruktur der Bestimmungsländer beiträgt;
@@ -120,11 +124,13 @@ Die humanitäre Hilfe kann folgende Formen annehmen:
 
 #### Art. 9
 
-<sup>1</sup> Die Mittel für die internationale Entwicklungszusammenarbeit und humanitäre Hilfe werden als Rahmenkredite für jeweils mehrere Jahre bewilligt.
+<sup>1</sup> Die Mittel für die internationale Entwicklungszusammenarbeit und humanitäre Hilfe werden als Verpflichtungskredite[^9-1] für jeweils mehrere Jahre bewilligt.
 
-<sup>2</sup> Bei den Rahmenkreditvorlagen sind die Lage der schweizerischen Wirtschaft und der Bundesfinanzen sowie die Erfordernisse der benachteiligten Gebiete im Inland zu beachten.
+<sup>2</sup> Bei den Verpflichtungskreditvorlagen sind die Lage der schweizerischen Wirtschaft und der Bundesfinanzen sowie die Erfordernisse der benachteiligten Gebiete im Inland zu beachten.
 
-<sup>3</sup> Der Bundesrat wacht über die wirksame Verwendung der nach diesem Gesetz bewilligten Mittel. Er erstattet darüber der Bundesversammlung Bericht, wenn er einen neuen Rahmenkredit beantragt.
+<sup>3</sup> Der Bundesrat wacht über die wirksame Verwendung der nach diesem Gesetz bewilligten Mittel. Er erstattet darüber der Bundesversammlung Bericht, wenn er einen neuen Verpflichtungskredit beantragt.
+
+[^9-1]: Ausdruck gemäss Anhang Ziff. 12 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 ## 5. Kapitel: Vollzug
 
@@ -132,7 +138,7 @@ Die humanitäre Hilfe kann folgende Formen annehmen:
 
 **Internationale Vereinbarungen**
 
-Für die Verwendung der Gelder aus den Rahmenkrediten kann der Bundesrat internationale Vereinbarungen über Massnahmen nach diesem Gesetz abschliessen, unter Vorbehalt von Artikel 89 Absatz 4 der Bundesverfassung[^10-1].
+Für die Verwendung der Gelder aus den Verpflichtungskrediten kann der Bundesrat internationale Vereinbarungen über Massnahmen nach diesem Gesetz abschliessen, unter Vorbehalt von Artikel 89 Absatz 4 der Bundesverfassung[^10-1].
 
 [^10-1]: [BS **1** 3; [AS 1977 807](https://fedlex.data.admin.ch/eli/oc/1977/807_807_807)[2228](https://fedlex.data.admin.ch/eli/oc/1977/2228_2228_2228)]. Es handelt sich um Abs. 4 in der Fassung vom 22. Jan. 1939. Heute Abs. 3. Der genannten Bestimmung entspricht heute Art. 141 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 

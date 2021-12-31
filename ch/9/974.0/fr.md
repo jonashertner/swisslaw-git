@@ -3,18 +3,18 @@ sr: "974.0"
 title: "Loi fédérale du 19 mars 1976 sur la coopération au développement et l'aide humanitaire internationales"
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352"
 language: fr
-version: 2021-12-01
+version: 2022-01-01
 adopted: 1976-03-19
 in_force: 1977-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-1977-1352_1352_1352-20211201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/1352_1352_1352/20211201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1977-1352_1352_1352-20220101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/1352_1352_1352/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur la coopération au développement et l’aide humanitaire internationales
 
-du 19 mars 1976 (Etat le 1<sup>er</sup> décembre 2021)
+du 19 mars 1976 (État le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -124,11 +124,13 @@ L’aide humanitaire peut revêtir les formes suivantes:
 
 #### Art. 9
 
-<sup>1</sup> Les moyens nécessaires au financement de la coopération au développement et de l’aide humanitaire internationales sont alloués sous forme de crédits de programme ouverts pour plusieurs années.
+<sup>1</sup> Les moyens nécessaires au financement de la coopération au développement et de l’aide humanitaire internationales sont alloués sous forme de crédits d’engagement[^9-1] ouverts pour plusieurs années.
 
 <sup>2</sup> Dans les demandes de crédits, on tiendra compte de la situation économique de la Suisse, de l’état des finances fédérales et des besoins des régions suisses désavantagées.
 
-<sup>3</sup> Le Conseil fédéral veille à l’affectation efficace des moyens alloués. Il en rend compte aux Chambres fédérales lorsqu’il propose l’ouverture d’un nouveau crédit de programme.
+<sup>3</sup> Le Conseil fédéral veille à l’affectation efficace des moyens alloués. Il en rend compte aux Chambres fédérales lorsqu’il propose l’ouverture d’un nouveau crédit d’engagement.
+
+[^9-1]: Nouvelle teneur selon l’annexe ch. 12 al. 1 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)). Il a en été tenu compte dans tout le texte.
 
 ## Chapitre 5 Mise en œuvre
 
@@ -136,7 +138,7 @@ L’aide humanitaire peut revêtir les formes suivantes:
 
 **Accords internationaux**
 
-Pour l’utilisation des crédits de programme, le Conseil fédéral peut conclure des accords internationaux portant sur les mesures prévues par la présente loi, à l’exception des accords définis à l’art. 89, al. 4, de la constitution[^10-1].
+Pour l’utilisation des crédits d’engagement, le Conseil fédéral peut conclure des accords internationaux portant sur les mesures prévues par la présente loi, à l’exception des accords définis à l’art. 89, al. 4, de la constitution[^10-1].
 
 [^10-1]: [RS **1** 3]. A la disp. mentionnée (l’al. 4 de la version primaire était déjà devenu l’al. 3) correspond actuellement l’art. 141 al. 1 let. d de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 
