@@ -4,13 +4,13 @@ number: "914.10.11"
 title: Ordonnance sur les épizooties
 short: OEpiz
 language: fr
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2022-11-30
+version_adopted: 2022-03-08
 adopted: 2014-04-08
 in_force: 2014-05-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/914.10.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5990/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7831/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Epizooties – O
 
 (OEpiz)
 
-du 08.04.2014 (version entrée en vigueur le 01.04.2019)
+du 08.04.2014 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -174,6 +174,27 @@ Arrête:
 - b) il planifie, en collaboration avec le Service, les mesures à mettre en œuvre en temps de crise;
 - c) il ordonne les mesures nécessaires en temps de crise, par le biais de l'Organe cantonal de conduite (OCC).
 
+## 2a Fonds des épizooties
+
+#### Art. 12a
+
+**But**
+
+<sup>1</sup> Le fonds des épizooties a pour but de soutenir financièrement le Service représenté par le ou la vétérinaire cantonal-e lorsqu'il s'agit de prendre des mesures de lutte contre les épizooties.
+
+<sup>2</sup> Conformément à la législation fédérale sur les épizooties, on entend par mesures de lutte contre les épizooties, toutes les mesures qui sont prises pour empêcher l'apparition et la propagation d'une épizootie.
+
+#### Art. 12b
+
+**Modalités d'utilisation du fonds**
+
+<sup>1</sup> La part du capital du fonds est exclusivement réservée au financement des mesures de lutte contre les épizooties et par conséquent des moyens logistiques, analytiques et en personnel qui doivent être engagés. Les montants nécessaires à cet effet y sont prélevés.
+
+<sup>2</sup> Les compétences financières pour prélever les montants nécessaires sont réglées ainsi:
+
+- a) par validation de la Direction pour un montant jusqu'à 50'000 francs;
+- b) par validation du Conseil d'Etat pour un montant supérieur à 50'000 francs.
+
 ## 3 Collaboration et coordination
 
 #### Art. 13
@@ -252,7 +273,7 @@ Arrête:
 
 **Enregistrement**
 
-<sup>1</sup> Le Service de l'agriculture est responsable de l'enregistrement et de la mise à jour de toutes les unités de détention d'animaux à onglons, d'équidés, de volailles, d'abeilles et des piscicultures du canton ainsi que de la transmission des données à l'Office fédéral de l'agriculture, conformément à l'article 7 OFE.
+<sup>1</sup> Grangeneuve est responsable de l'enregistrement et de la mise à jour de toutes les unités de détention d'animaux à onglons, d'équidés, de volailles, d'abeilles et des piscicultures du canton ainsi que de la transmission des données à l'Office fédéral de l'agriculture, conformément à l'article 7 OFE.
 
 <sup>2</sup> Le Service participe à l'exécution de cette tâche, principalement en contrôlant la bonne tenue des registres, des documents d'accompagnement ainsi que de l'identification des animaux.
 

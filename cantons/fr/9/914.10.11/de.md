@@ -4,13 +4,13 @@ number: "914.10.11"
 title: Tierseuchenverordnung
 short: TiersV
 language: de
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2022-11-30
+version_adopted: 2022-03-08
 adopted: 2014-04-08
 in_force: 2014-05-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/914.10.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5990/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7831/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Tierseuchen – V
 
 (TiersV)
 
-vom 08.04.2014 (Fassung in Kraft getreten am 01.04.2019)
+vom 08.04.2014 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -174,6 +174,27 @@ beschliesst:
 - b) Es plant die Massnahmen für Notlagen in Zusammenarbeit mit dem Amt.
 - c) Es ordnet die in Notlagen erforderlichen Massnahmen über das kantonale Führungsorgan (KFO) an.
 
+## 2a Tierseuchenfonds
+
+#### Art. 12a
+
+**Zweck**
+
+<sup>1</sup> Der Tierseuchenfonds hat den Zweck, das von der Kantonstierärztin oder vom Kantonstierarzt vertretene Amt finanziell zu unterstützen, wenn Massnahmen zur Bekämpfung von Tierseuchen ergriffen werden müssen.
+
+<sup>2</sup> Gemäss der eidgenössischen Tierseuchengesetzgebung versteht man unter Massnahmen zur Bekämpfung von Tierseuchen sämtliche Massnahmen, die getroffen werden, um das Auftreten und die Ausbreitung einer Tierseuche zu verhindern.
+
+#### Art. 12b
+
+**Modalitäten für die Verwendung des Fonds**
+
+<sup>1</sup> Der Anteil am Fondsvermögen wird ausschliesslich für die Finanzierung von Massnahmen zur Tierseuchenbekämpfung und somit für die logistischen, analytischen und personellen Mittel verwendet, die dafür eingesetzt werden müssen. Die dafür erforderlichen Beträge werden dem Fonds entnommen.
+
+<sup>2</sup> Die Finanzkompetenzen für die Entnahme der erforderlichen Beträge werden wie folgt geregelt:
+
+- a) Beträge bis 50'000 Franken müssen von der Direktion validiert werden;
+- b) Beträge von über 50'000 Franken müssen vom Staatsrat validiert werden.
+
 ## 3 Zusammenarbeit und Koordination
 
 #### Art. 13
@@ -252,7 +273,7 @@ beschliesst:
 
 **Registrierung**
 
-<sup>1</sup> Das Amt für Landwirtschaft ist verantwortlich für die Registrierung und Aktualisierung aller Tierhaltungseinheiten, in denen Klauentiere, Pferde, Geflügel und Bienen gehalten werden, und der Fischzuchtanlagen des Kantons sowie für die Übermittlung der Daten an das Bundesamt für Landwirtschaft gemäss Artikel 7 TSV.
+<sup>1</sup> Grangeneuve ist verantwortlich für die Registrierung und Aktualisierung aller Tierhaltungseinheiten, in denen Klauentiere, Pferde, Geflügel und Bienen gehalten werden, und der Fischzuchtanlagen des Kantons sowie für die Übermittlung der Daten an das Bundesamt für Landwirtschaft gemäss Artikel 7 TSV.
 
 <sup>2</sup> Das Amt beteiligt sich an der Ausführung dieser Aufgabe, hauptsächlich indem es die korrekte Führung der Register, der Begleitdokumente sowie der Kennzeichnung der Tiere kontrolliert.
 
