@@ -3,29 +3,30 @@ canton: LU
 number: "521"
 title: "Studienordnung für die Ausbildung an der Hochschule Luzern, FH Zentralschweiz"
 language: de
-version: 2021-03-01
-valid_until: 2021-12-31
-version_adopted: 2021-03-29
+version: 2022-01-01
+valid_until: 2023-02-28
+version_adopted: 2021-11-25
 adopted: 2014-06-13
 in_force: 2014-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/521"
-pdf: "https://srl.lu.ch/api/de/versions/3739/pdf_file"
-text: pdf
+pdf: "https://srl.lu.ch/api/de/versions/4033/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Studienordnung für die Ausbildung an der Hochschule Luzern, FH Zentralschweiz
 
-## vom 13. Juni 2014\* (Stand 1. März 2021)
+vom 13.06.2014 (Stand 01.01.2022)
 
-Der Fachhochschulrat der Hochschule Luzern, gestützt auf die Artikel 14 Absatz 1 und 22 Unterabsatz k der Zentralschweizer Fachhochschul-Vereinbarung (FHZ-Vereinbarung) vom 15. September 2011[^hvom13Juni2014-1],
+Der Fachhochschulrat der Hochschule Luzern,
+
+gestützt auf die Artikel 14 Absatz 1 und 22 Unterabsatz k der Zentralschweizer Fachhochschul-Vereinbarung (FHZ-Vereinbarung) vom 15. September 2011[^ingress-1],
 
 beschliesst:
 
-[^hvom13Juni2014-1]: SRL Nr. 520
+[^ingress-1]: SRL Nr. [520](https://srl.lu.ch/data/520/de)
 
-## I. Allgemeines
+## 1 Allgemeines
 
 #### Art. 1
 
@@ -37,7 +38,7 @@ beschliesst:
 
 <sup>3</sup> Regelungen der Departemente gemäss Absatz 2 sind vom Fachhochschulrat zu genehmigen.
 
-## II. Zulassung zum Studium
+## 2 Zulassung zum Studium
 
 #### Art. 2
 
@@ -49,7 +50,7 @@ beschliesst:
 
 <sup>3</sup> Der Nachteilsausgleich für Studienbewerberinnen und -bewerber, die wegen einer Behinderung oder einer chronischen Krankheit bei der Zulassung zum Studium benachteiligt sind, richtet sich nach dem Behindertengleichstellungsgesetz vom 13. Dezember 2002[^2-1]. Die Leitung Bachelor- oder Master-Ausbildung entscheidet auf Antrag über Massnahmen für die diskriminierungsfreie Zulassung zum Studium. Anträge auf Nachteilsausgleich sind mit den erforderlichen Nachweisen zu belegen.
 
-[^2-1]: SR 151.3. Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
+[^2-1]: SR [151.3](https://db.clex.ch/link/Bund/151.3/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
 
 #### Art. 3
 
@@ -57,13 +58,14 @@ beschliesst:
 
 <sup>1</sup> Die Departemente der Hochschule Luzern fördern die Mobilität der Studierenden durch den Abschluss von Vereinbarungen mit Hochschulen, Forschungseinrichtungen und studienverwandten betrieblichen Einrichtungen des In- und Auslandes.
 
-<sup>2</sup> Sie regeln in den Studienreglementen die Anrechnung von a. bereits erbrachten Studienleistungen an in- und ausländischen Hochschulen, aus altrechtlichen Diplomstudiengängen sowie anderweitig erbrachten theoretischen oder praktischen Leistungen, namentlich an Forschungseinrichtungen und studienverwandten betrieblichen Einrichtungen,
+<sup>2</sup> Sie regeln in den Studienreglementen die Anrechnung von
 
-- b. Modulen, die in anderen Studiengängen, -richtungen oder -vertiefungen des gleichen Departementes oder an anderen Departementen der Hochschule Luzern besucht wurden, unter Berücksichtigung der interdisziplinären Studienangebote der Hochschule Luzern.
+- a. bereits erbrachten Studienleistungen an in- und ausländischen Hochschulen, aus altrechtlichen Diplomstudiengängen sowie anderweitig erbrachten theoretischen oder praktischen Leistungen, namentlich an Forschungseinrichtungen und studienverwandten betrieblichen Einrichtungen,
+- b. Modulen, die in anderen Studiengängen, ‑richtungen oder ‑vertiefungen des gleichen Departementes oder an anderen Departementen der Hochschule Luzern besucht wurden, unter Berücksichtigung der interdisziplinären Studienangebote der Hochschule Luzern.
 
 <sup>3</sup> Studien- und Prüfungsleistungen, die an Hochschulen einer Vertragspartei der Lissabon-Konvention vom 11. April 1997[^3-1] erbracht wurden, werden auf Antrag hin angerechnet, sofern keine wesentlichen Unterschiede insbesondere hinsichtlich des Inhalts oder Umfangs vorliegen.
 
-[^3-1]: SR 0.414.8. Auf diesen Erlass wird im Folgenden nicht mehr hingewiesen.
+[^3-1]: SR [0.414.8](https://db.clex.ch/link/Bund/0.414.8/de). Auf diesen Erlass wird im Folgenden nicht mehr hingewiesen.
 
 #### Art. 4
 
@@ -73,35 +75,33 @@ beschliesst:
 
 <sup>2</sup> Die von der zuständigen Behörde einer Vertragspartei der Lissabon-Konvention ausgestellten Diplome und Zeugnisse werden auf Antrag hin anerkannt, wenn keine wesentlichen Unterschiede insbesondere hinsichtlich des Inhalts oder Umfangs vorliegen.
 
-## III. Zuständigkeiten
+## 3 Zuständigkeiten
 
 #### Art. 5
 
 **Fachhochschulrat**
 
-Der Fachhochschulrat genehmigt a. die Ausbildungskonzepte neuer Studiengänge sowie b. die Studienreglemente und Kooperationsvereinbarungen der Departemente gemäss Artikel 1 Absatz 2 und stellt den Antrag zur Genehmigung der Studienpläne für die Erlangung von Lehrdiplomen an Maturitätsschulen an den Konkordatsrat.
+<sup>1</sup> Der Fachhochschulrat genehmigt
+
+- a. die Ausbildungskonzepte neuer Studiengänge sowie
+- b. die Studienreglemente und Kooperationsvereinbarungen der Departemente gemäss Artikel 1 Absatz 2
 
 #### Art. 6
 
 **Direktorin oder Direktor**
 
-<sup>1</sup> Die Direktorin oder der Direktor eines Departementes der Hochschule Luzern trägt unter Vorbehalt anderer im übergeordneten Recht geregelter Zuständigkeiten die abschliessende Verantwortung für die Ausbildung.
-
-Insbesondere hat sie oder er folgende Aufgaben:
+<sup>1</sup> Die Direktorin oder der Direktor eines Departementes der Hochschule Luzern trägt unter Vorbehalt anderer im übergeordneten Recht geregelter Zuständigkeiten die abschliessende Verantwortung für die Ausbildung. Insbesondere hat sie oder er folgende Aufgaben:
 
 - a. Verabschiedung der Studienreglemente für die Bachelor- und Master-Studiengänge,
-
 - b. Abschluss von Kooperationsvereinbarungen für die Bachelor- und Master-Studiengänge,
-
 - c. Entscheid über die Erteilung der Bachelor- und Master-Diplome,
-
 - d. Sicherstellung einer hochstehenden Qualität der Ausbildung.
 
 <sup>2</sup> Die Direktorin oder der Direktor legt im Studienreglement die operativen Zuständigkeiten innerhalb des Departementes entsprechend der jeweiligen Organisationsstruktur fest.
 
-## IV. Ausbildung
+## 4 Ausbildung
 
-- 1\. Struktur der Ausbildung
+### 4.1 Struktur der Ausbildung
 
 #### Art. 7
 
@@ -111,15 +111,13 @@ Insbesondere hat sie oder er folgende Aufgaben:
 
 <sup>2</sup> Für das Bestehen eines Moduls muss mindestens ein Leistungsnachweis im Sinn von Artikel 12 erbracht werden.
 
-<sup>3</sup> Module können zu Modulgruppen zusammengefasst werden.[^7-1]
-
-[^7-1]: Eingefügt durch Änderung vom 30. August 2018, in Kraft seit dem 1. September 2018 (G 2018-049).
+<sup>3</sup> Module können zu Modulgruppen zusammengefasst werden.
 
 #### Art. 8
 
 **Ausgestaltung der Module**
 
-<sup>1</sup> Module sind als Pflicht-, Wahlpflicht- oder Wahlmodule auszugestalten. Die Departemente können die Module in Kurse unterteilen sowie nach Typus (C-, R- oder M-Modul) und Niveau gliedern.
+<sup>1</sup> Module sind als Pflicht-, Wahlpflicht- oder Wahlmodule auszugestalten. Die Departemente können die Module in Kurse unterteilen sowie nach Typus (C-, R- oder M Modul) und Niveau gliedern.
 
 <sup>2</sup> Die Departemente verfassen für jedes Modul eine Beschreibung, die mindestens Auskunft über die Art des Moduls, die Eingangsvoraussetzungen, die Ausgangskompetenzen, den fachlichen Inhalt, die Lehr- und Lernmethoden, die Modalitäten der Leistungsnachweise (Inhalt, Form und Anspruchsniveau) sowie die zugeordneten Credits gibt.
 
@@ -135,12 +133,10 @@ Insbesondere hat sie oder er folgende Aufgaben:
 
 **Studienaufwand**
 
-Der Studienaufwand gemäss dem ECTS wird wie folgt ausgewiesen:
+<sup>1</sup> Der Studienaufwand gemäss dem ECTS wird wie folgt ausgewiesen:
 
 - a. jedem Modul wird eine Anzahl Credits zugeordnet,
-
 - b. ein Credit entspricht einem Studienaufwand von rund 30 Stunden, ein Vollzeit-Studienjahr entspricht einem Pensum von 1800 Stunden beziehungsweise 60 Credits bestehend aus Kontakt- und/oder begleitetem oder nicht begleitetem Selbststudium,
-
 - c. Studierende erhalten pro bestandenes Modul die im Voraus festgelegte Anzahl Credits gemäss den Modulbeschreibungen der Departemente, wobei entweder alle festgelegten Credits oder gar keine vergeben werden.
 
 #### Art. 11
@@ -159,17 +155,12 @@ Der Studienaufwand gemäss dem ECTS wird wie folgt ausgewiesen:
 
 <sup>2</sup> Die Departemente können insbesondere folgende Leistungsnachweise verlangen:
 
-- a. schriftliche, mündliche oder elektronisch unterstützte Prüfungen,[^12-1]
-
+- a. schriftliche, mündliche oder elektronisch unterstützte Prüfungen,
 - b. schriftliche (wissenschaftliche) Arbeiten, Projektarbeiten, Übungen und Berichte,
-
 - c. Vorträge, Präsentationen, künstlerische Performances, Konzerte, gestalterisch-künstlerische Arbeiten und Ausstellungen,
-
 - d. Praktikumsberichte.
 
 <sup>3</sup> Der Nachteilsausgleich bei Studierenden, die wegen einer Behinderung oder einer chronischen Krankheit bei der Erbringung von Studienleistungen oder Leistungsnachweisen nachweislich benachteiligt sind, richtet sich nach dem Behindertengleichstellungsgesetz. Anträge auf Nachteilsausgleich sind mit den erforderlichen Nachweisen zu belegen und möglichst vor Studienbeginn, spätestens jedoch vor Antritt zum betreffenden Leistungsnachweis beziehungsweise unmittelbar nach Bekanntwerden des Nachteils zu stellen. Zuständig für Massnahmen zum Nachteilsausgleich ist die Leitung Bachelor- beziehungsweise Master-Ausbildung.
-
-[^12-1]: Fassung gemäss Änderung vom 14. Juni 2018, in Kraft seit dem 1. August 2018 (G 2018-042).
 
 #### Art. 13
 
@@ -185,17 +176,22 @@ Der Studienaufwand gemäss dem ECTS wird wie folgt ausgewiesen:
 
 **Bewertung von Leistungsnachweisen**
 
-<sup>1</sup> Die Bewertung der Leistungsnachweise erfolgt a. mit den Bewertungen «A» (hervorragend), «B» (sehr gut), «C» (gut), «D» (befriedigend), «E» (ausreichend), «FX» (nicht bestanden, Verbesserung erforderlich) und «F» (nicht bestanden) oder b. mit numerischen Noten von 6 bis 1, wobei «6» die beste und «1» die schlechteste Benotung darstellt und ein zu benotender Leistungsnachweis als bestanden gilt, wenn die Note «4» erreicht wird oder c. mit alphabetischen Bewertungen und numerischen Noten gemäss Buchstabe a und b oder d. mit der Qualifikation «bestanden» oder «nicht bestanden».
+<sup>1</sup> Die Bewertung der Leistungsnachweise erfolgt
+
+- a. mit den Bewertungen «A» (hervorragend), «B» (sehr gut), «C» (gut), «D» (befriedigend), «E» (ausreichend), «FX» (nicht bestanden, Verbesserung erforderlich) und «F» (nicht bestanden) oder
+- b. mit numerischen Noten von 6 bis 1, wobei «6» die beste und «1» die schlechteste Benotung darstellt und ein zu benotender Leistungsnachweis als bestanden gilt, wenn die Note «4» erreicht wird oder
+- c. mit alphabetischen Bewertungen und numerischen Noten gemäss Buchstabe a und b oder
+- d. mit der Qualifikation «bestanden» oder «nicht bestanden».
 
 <sup>2</sup> Die Departemente können die statistische Verteilung der vergebenen Bewertungen in Form eines «Grading Tables» pro Bewertungssystem vornehmen. Grundlage für die Berechnung der Verteilung bilden alle Bewertungen, die im betreffenden Studiengang während mindestens der letzten drei Jahre vergeben wurden. «Grading Tables» sind ein notwendiger und integraler Bestandteil der Datenabschrift.
 
 <sup>3</sup> Bei Kooperations-Master-Studiengängen kann in begründeten Fällen von den Bewertungen gemäss den Absätzen 1 und 2 abgewichen werden.
 
-### Art. 14<sup>bis</sup> Modulgruppen
+#### Art. 14bis
 
-Sind mehrere Module zu einer Modulgruppe zusammengefasst, werden aus den nach Credits gewichteten Bewertungen der Leistungsnachweise aller Module der Modulgruppe sogenannte Kreditnotenpunkte errechnet. Die Departemente regeln die Einzelheiten in ihren Studienreglementen und legen die Kriterien für das Bestehen einer Modulgruppe als Ganzes fest.[^hArt14supbissup-1]
+**Modulgruppen**
 
-[^hArt14supbissup-1]: Eingefügt durch Änderung vom 30. August 2018, in Kraft seit dem 1. September 2018 (G 2018-049).
+<sup>1</sup> Sind mehrere Module zu einer Modulgruppe zusammengefasst, werden aus den nach Credits gewichteten Bewertungen der Leistungsnachweise aller Module der Modulgruppe sogenannte Kreditnotenpunkte errechnet. Die Departemente regeln die Einzelheiten in ihren Studienreglementen und legen die Kriterien für das Bestehen einer Modulgruppe als Ganzes fest.
 
 #### Art. 15
 
@@ -203,38 +199,29 @@ Sind mehrere Module zu einer Modulgruppe zusammengefasst, werden aus den nach Cr
 
 <sup>1</sup> Bei vollständigem und genügendem Erbringen der vorgesehenen Studienleistungen werden die entsprechenden Credits pro Modul vergeben.
 
-<sup>1bis</sup> Sind Module zu Modulgruppen zusammengefasst und ist eine Modulgruppe als Ganzes bestanden, gelten alle zur Modulgruppe gehörenden Module als bestanden und die entsprechenden Credits werden vergeben.[^15-1]
+<sup>1<sup>bis</sup></sup> Sind Module zu Modulgruppen zusammengefasst und ist eine Modulgruppe als Ganzes bestanden, gelten alle zur Modulgruppe gehörenden Module als bestanden und die entsprechenden Credits werden vergeben.
 
 <sup>2</sup> Die Departemente legen in den Modulbeschreibungen die Kriterien fest, nach welchen die Modulbeurteilung, insbesondere die Gesamtbewertung und die Vergabe von Credits, erfolgt.
 
 <sup>3</sup> Bei ungenügenden Studienleistungen (Bewertung «FX» oder äquivalente numerische Bewertung) werden Kompensationen oder Nachbesserungen verlangt. Wenn die Studienleistungen auch unter Berücksichtigung der Kompensationen oder Nachbesserungen nicht genügend sind, wird das Modul mit der Note «F» (nicht bestanden) oder äquivalent bewertet.
 
-[^15-1]: Eingefügt durch Änderung vom 30. August 2018, in Kraft seit dem 1. September 2018 (G 2018-049).
-
 #### Art. 16
 
 **Wiederholung von Modulen**
 
-<sup>1</sup> Nicht bestandene Module können einmal wiederholt werden, sofern sie weiterhin im Lernangebot sind; vorbehalten bleibt Absatz 1<sup>bis</sup>. Es besteht kein Anrecht auf die unmittelbare Wiederholung des Moduls.[^16-1]
+<sup>1</sup> Nicht bestandene Module können einmal wiederholt werden, sofern sie weiterhin im Lernangebot sind; vorbehalten bleibt Absatz 1<sup>bis</sup>. Es besteht kein Anrecht auf die unmittelbare Wiederholung des Moduls.
 
-<sup>1bis</sup> Ausnahmsweise kann ein nicht bestandenes Modul ein zweites Mal wiederholt werden, sofern die Departemente in den Studienreglementen ausdrücklich eine zweite Wiederholungsmöglichkeit vorsehen.[^16-2]
+<sup>1<sup>bis</sup></sup> Ausnahmsweise kann ein nicht bestandenes Modul ein zweites Mal wiederholt werden, sofern die Departemente in den Studienreglementen ausdrücklich eine zweite Wiederholungsmöglichkeit vorsehen.
 
-<sup>1ter</sup> Sind Module zu Modulgruppen zusammengefasst und sind die Kriterien zum Bestehen einer Modulgruppe nicht erfüllt, müssen die fehlenden Leistungen innerhalb eines Jahres durch Wiederholung von Leistungsnachweisen erbracht werden. Absatz 1 bleibt anwendbar.[^16-3]
+<sup>1<sup>ter</sup></sup> Sind Module zu Modulgruppen zusammengefasst und sind die Kriterien zum Bestehen einer Modulgruppe nicht erfüllt, müssen die fehlenden Leistungen innerhalb eines Jahres durch Wiederholung von Leistungsnachweisen erbracht werden. Absatz 1 bleibt anwendbar.
 
-<sup>1quater</sup> Die Departemente können in ihren Studienreglementen bei einem Wahlpflichtmodul anstelle einer Wiederholung das Absolvieren eines anderen Wahlpflichtmoduls ermöglichen. Das Absolvieren des neuen Wahlpflichtmoduls gilt diesfalls als zweiter Versuch im ersetzten Wahlpflichtmodul.[^16-4]
+<sup>1<sup>quater</sup></sup> Die Departemente können in ihren Studienreglementen bei einem Wahlpflichtmodul anstelle einer Wiederholung das Absolvieren eines anderen Wahlpflichtmoduls ermöglichen. Das Absolvieren des neuen Wahlpflichtmoduls gilt diesfalls als zweiter Versuch im ersetzten Wahlpflichtmodul.
 
 <sup>2</sup> Konsekutivmodule können erst besucht werden, wenn das jeweils vorherige Modul bestanden wird.
 
-<sup>3</sup> Studierende, die auch im Rahmen der Wiederholung ein Pflicht- oder Wahlpflichtmodul nicht bestehen beziehungsweise eines oder mehrere Kriterien zum Bestehen einer Modulgruppe nicht erfüllen, können das Studium nicht weiterführen und sind vom Besuch aller weiteren Module per sofort ausgeschlossen. Für den Ausschluss aus dem Studium aufgrund wiederholt ungenügender Leistung ist die Leitung Bachelor- beziehungsweise Master-Ausbildung zuständig.[^16-5]
+<sup>3</sup> Studierende, die auch im Rahmen der Wiederholung ein Pflicht oder Wahlpflichtmodul nicht bestehen beziehungsweise eines oder mehrere Kriterien zum Bestehen einer Modulgruppe nicht erfüllen, können das Studium nicht weiterführen und sind vom Besuch aller weiteren Module per sofort ausgeschlossen. Für den Ausschluss aus dem Studium aufgrund wiederholt ungenügender Leistung ist die Leitung Bachelor beziehungsweise Master-Ausbildung zuständig.
 
-<sup>4</sup> Ist ein Modul bestanden, können für das gleiche oder ein inhaltlich ähnliches Modul keine weiteren Credits erworben werden. Ferner ist es nicht möglich, durch erneutes Absolvieren eines bestandenen Moduls oder einer bestandenen Modulgruppe eine bessere Bewertung zu erreichen. Ausnahmsweise können die Departemente in den Studienreglementen ausdrücklich eine abweichende Regelung vorsehen.[^16-6]
-
-[^16-1]: Fassung gemäss Änderung vom 1. September 2016, in Kraft seit dem 1. September 2016 (G 2016 239).
-[^16-2]: Eingefügt durch Änderung vom 1. September 2016, in Kraft seit dem 1. September 2016 (G 2016 239).
-[^16-3]: Eingefügt durch Änderung vom 30. August 2018, in Kraft seit dem 1. September 2018 (G 2018-049).
-[^16-4]: Eingefügt durch Änderung vom 30. August 2018, in Kraft seit dem 1. September 2018 (G 2018-049).
-[^16-5]: Fassung gemäss Änderung vom 30. August 2018, in Kraft seit dem 1. September 2018 (G 2018-049).
-[^16-6]: Fassung gemäss Änderung vom 30. August 2018, in Kraft seit dem 1. September 2018 (G 2018-049).
+<sup>4</sup> Ist ein Modul bestanden, können für das gleiche oder ein inhaltlich ähnliches Modul keine weiteren Credits erworben werden. Ferner ist es nicht möglich, durch erneutes Absolvieren eines bestandenen Moduls oder einer bestandenen Modulgruppe eine bessere Bewertung zu erreichen. Ausnahmsweise können die Departemente in den Studienreglementen ausdrücklich eine abweichende Regelung vorsehen.
 
 #### Art. 17
 
@@ -243,9 +230,7 @@ Sind mehrere Module zu einer Modulgruppe zusammengefasst, werden aus den nach Cr
 <sup>1</sup> Erfolgreiche Absolventinnen und Absolventen der Bachelor- oder der Master-Ausbildung erhalten folgende Dokumente:
 
 - a. Diplomurkunde,
-
 - b. Diplomzeugnis,
-
 - c. Diplomzusatz.
 
 <sup>2</sup> Die Diplomurkunde gilt als Ausweis über das bestandene Bachelor- oder Master-Studium und wird vom Fachhochschulrat ausgestellt sowie von der Direktorin oder dem Direktor des zuständigen Departementes der Hochschule Luzern mitunterzeichnet. Der mit der Diplomurkunde verliehene Titel richtet sich nach den Vorschriften des Bundes. Vorbehalten bleibt Artikel 29.
@@ -256,7 +241,7 @@ Sind mehrere Module zu einer Modulgruppe zusammengefasst, werden aus den nach Cr
 
 <sup>5</sup> Der Diplomzusatz gibt in standardisierter Form Auskunft über Studieninhalte und über akademische und berufliche Qualifikationen.
 
-- 2\. Bachelor-Ausbildung
+### 4.2 Bachelor-Ausbildung
 
 #### Art. 18
 
@@ -272,21 +257,21 @@ Sind mehrere Module zu einer Modulgruppe zusammengefasst, werden aus den nach Cr
 
 **Studienabschluss**
 
-Die Bachelor-Ausbildung ist abgeschlossen, wenn a. alle gemäss Studienplan definierten Module beziehungsweise Modulgruppen bestanden und die erforderlichen 180 Credits erworben sind und[^19-1] b. die Bachelor-Arbeit mindestens mit dem Grade «E» oder äquivalent bewertet wurde.
+<sup>1</sup> Die Bachelor-Ausbildung ist abgeschlossen, wenn
 
-[^19-1]: Fassung gemäss Änderung vom 30. August 2018, in Kraft seit dem 1. September 2018 (G 2018-049).
+- a. alle gemäss Studienplan definierten Module beziehungsweise Modulgruppen bestanden und die erforderlichen 180 Credits erworben sind und
+- b. die Bachelor-Arbeit mindestens mit dem Grade «E» oder äquivalent bewertet wurde.
 
 #### Art. 20
 
 **Titel**
 
-Die verliehenen Titel lauten:
+<sup>1</sup> Die verliehenen Titel lauten:
 
 - a. «Bachelor of Science Hochschule Luzern/FHZ in [Bezeichnung der Richtung]» (Abkürzung: BSc Hochschule Luzern/FHZ) oder
-
 - b. «Bachelor of Arts Hochschule Luzern/FHZ in [Bezeichnung der Richtung]» (Abkürzung: BA Hochschule Luzern/FHZ).
 
-- 3\. Master-Ausbildung
+### 4.3 Master-Ausbildung
 
 #### Art. 21
 
@@ -302,21 +287,27 @@ Die verliehenen Titel lauten:
 
 **Zulassung**
 
-Voraussetzung für die Zulassung zur Master-Ausbildung an der Hochschule Luzern sind ein Bachelor-Diplom oder ein gleichwertiger Hochschulabschluss. Die Departemente regeln das Nähere.
+<sup>1</sup> Voraussetzung für die Zulassung zur Master-Ausbildung an der Hochschule Luzern sind ein Bachelor-Diplom oder ein gleichwertiger Hochschulabschluss. Die Departemente regeln das Nähere.
 
 #### Art. 23
 
 **Studienabschluss**
 
-Die Master-Ausbildung ist abgeschlossen, wenn a. alle gemäss Studienplan definierten Module bestanden und die erforderlichen 90 beziehungsweise 120 Credits erworben wurden und b. die Master-Thesis mindestens mit dem Grade «E» oder äquivalent bewertet wurde.
+<sup>1</sup> Die Master-Ausbildung ist abgeschlossen, wenn
+
+- a. alle gemäss Studienplan definierten Module bestanden und die erforderlichen 90 beziehungsweise 120 Credits erworben wurden und
+- b. die Master-Thesis mindestens mit dem Grade «E» oder äquivalent bewertet wurde.
 
 #### Art. 24
 
 **Titel**
 
-Die verliehenen Titel lauten a. «Master of Science Hochschule Luzern/FHZ in [Bezeichnung der Richtung]» (Abkürzung: MSc Hochschule Luzern/FHZ) oder b. «Master of Arts Hochschule Luzern/FHZ in [Bezeichnung der Richtung]» (Abkürzung: MA Hochschule Luzern/FHZ).
+<sup>1</sup> Die verliehenen Titel lauten
 
-- 4\. Lehrdiplom für Maturitätsschulen
+- a. «Master of Science Hochschule Luzern/FHZ in [Bezeichnung der Richtung]» (Abkürzung: MSc Hochschule Luzern/FHZ) oder
+- b. «Master of Arts Hochschule Luzern/FHZ in [Bezeichnung der Richtung]» (Abkürzung: MA Hochschule Luzern/FHZ).
+
+### 4.4 Lehrdiplom für Maturitätsschulen
 
 #### Art. 25
 
@@ -328,13 +319,7 @@ Die verliehenen Titel lauten a. «Master of Science Hochschule Luzern/FHZ in [Be
 
 #### Art. 26
 
-**Zulassung**
-
-Voraussetzungen für die Zulassung zur Ausbildung zum Lehrdiplom für Maturitätsschulen an der Hochschule Luzern sind a. eine anerkannte gymnasiale Maturität oder ein Primarlehrdiplom,
-
-- b. ein Bachelor-Diplom oder ein gleichwertiger Hochschulabschluss sowie
-
-- c. das Bestehen einer Eignungsprüfung.
+**…**
 
 #### Art. 27
 
@@ -348,30 +333,30 @@ Voraussetzungen für die Zulassung zur Ausbildung zum Lehrdiplom für Maturität
 
 **Studienabschluss**
 
-Die Ausbildung zum Lehrdiplom für Maturitätsschulen ist abgeschlossen, wenn a. alle gemäss Studienplan definierten Module bestanden und die erforderlichen 60 Credits in der fachdidaktischen, erziehungswissenschaftlichen und berufspraktischen Ausbildung erworben wurden und b. die fachwissenschaftliche Master-Ausbildung erfolgreich abgeschlossen wurde.
+<sup>1</sup> Die Ausbildung zum Lehrdiplom für Maturitätsschulen ist abgeschlossen, wenn
+
+- a. alle gemäss Studienplan definierten Module bestanden und die erforderlichen 60 Credits in der fachdidaktischen, erziehungswissenschaftlichen und berufspraktischen Ausbildung erworben wurden und
+- b. die fachwissenschaftliche Master-Ausbildung erfolgreich abgeschlossen wurde.
 
 #### Art. 29
 
 **Titel und Lehrdiplom**
 
-<sup>1</sup> Die Diplomurkunde sowie der mit dem Lehrdiplom verliehene Titel richten sich nach dem Reglement über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen vom 28. März 2019 der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren.[^29-1]
+<sup>1</sup> Die Diplomurkunde sowie der mit dem Lehrdiplom verliehene Titel richten sich nach dem Reglement über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen vom 28. März 2019 der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren.
 
 <sup>2</sup> Die Modalitäten für die Erteilung des Lehrdiploms werden in den Studienreglementen geregelt.
 
-[^29-1]: Fassung gemäss Änderung vom 18. Juni 2020, in Kraft seit dem 1. September 2020 (G 2020-048).
-
-## V. Rechte und Pflichten der Studierenden
+## 5 Rechte und Pflichten der Studierenden
 
 #### Art. 30
 
 **Rechte**
 
-<sup>1</sup> Die Studierenden haben das Recht, während der Dauer ihrer Immatrikulation an der Hochschule Luzern zu studieren und insbesondere a. Module zu besuchen sowie Leistungsnachweise zu erbringen,
+<sup>1</sup> Die Studierenden haben das Recht, während der Dauer ihrer Immatrikulation an der Hochschule Luzern zu studieren und insbesondere
 
+- a. Module zu besuchen sowie Leistungsnachweise zu erbringen,
 - b. den Nachweis über ihre erworbenen Credits als Datenabschrift zu erhalten,
-
 - c. die Bibliotheken, die Computeranlagen und die übrigen Einrichtungen sowie die IT-Infrastruktur zu Zwecken des Studiums zu benutzen,
-
 - d. die speziellen Einrichtungen für die Hochschulangehörigen (z.B. Hochschulsport), die Beratungsmöglichkeiten und die Vergünstigungen der Hochschule Luzern in Anspruch zu nehmen.
 
 <sup>2</sup> Der Beginn und das Ende des Unterrichtsbetriebs werden von den Departementen festgelegt und kommuniziert.
@@ -380,9 +365,9 @@ Die Ausbildung zum Lehrdiplom für Maturitätsschulen ist abgeschlossen, wenn a.
 
 **Informationen im Zusammenhang mit dem Studium**
 
-Die Studierenden haben das Recht auf Mitwirkung gemäss Statut der Fachhochschule Zentralschweiz - Hochschule Luzern (FHZ-Statut) vom 7. Juni 2013[^31-1]. Sie haben insbesondere das Recht, sich in persönlichen wie studentischen Angelegenheiten im Zusammenhang mit dem Studium an die Organe und die Dozierenden der Hochschule Luzern zu wenden. Studienrelevante Informationen wie Studienreglemente, Modulbeschriebe, Richtlinien und Weisungen werden den Studierenden in geeigneter Form mitgeteilt.
+<sup>1</sup> Die Studierenden haben das Recht auf Mitwirkung gemäss Statut der Fachhochschule Zentralschweiz - Hochschule Luzern (FHZ-Statut) vom 7. Juni 2013[^31-1]. Sie haben insbesondere das Recht, sich in persönlichen wie studentischen Angelegenheiten im Zusammenhang mit dem Studium an die Organe und die Dozierenden der Hochschule Luzern zu wenden. Studienrelevante Informationen wie Studienreglemente, Modulbeschriebe, Richtlinien und Weisungen werden den Studierenden in geeigneter Form mitgeteilt.
 
-[^31-1]: SRL Nr. 520b
+[^31-1]: SRL Nr. [520b](https://srl.lu.ch/data/520b/de)
 
 #### Art. 32
 
@@ -398,25 +383,18 @@ Die Studierenden haben das Recht auf Mitwirkung gemäss Statut der Fachhochschul
 
 **Pflichten**
 
-Die Studierenden sind insbesondere verpflichtet,
+<sup>1</sup> Die Studierenden sind insbesondere verpflichtet,
 
 - a. die Studienordnung, die Studienreglemente, Modulbeschriebe, Richtlinien und Weisungen einzuhalten und sich regelmässig über Änderungen zu informieren,
-
-- b. sich regelmässig über den Studienbetrieb zu informieren, ihre Erreichbarkeit sicherzustellen sowie Informationen auf ihrem HSLU-E-Mail-Konto und auf dem Webportal «MyCampus» regelmässig abzurufen,[^33-1]
-
-- c. die Gebühren gemäss der Gebührenverordnung HSLU vom 14. Dezember 2012[^33-2] sowie den Gebührenweisungen der Hochschule Luzern zu entrichten,
-
+- b. sich regelmässig über den Studienbetrieb zu informieren, ihre Erreichbarkeit sicherzustellen sowie Informationen auf ihrem HSLU-E-Mail-Konto und auf dem Webportal «MyCampus» regelmässig abzurufen,
+- c. die Gebühren gemäss der Gebührenverordnung HSLU vom 14. Dezember 2012[^33-1] sowie den Gebührenweisungen der Hochschule Luzern zu entrichten,
 - d. die vorgeschriebenen Module zu belegen, um die entsprechenden Credits zu erwerben,
+- e. die ihnen zur Verfügung gestellte Infrastruktur (z.B. Software, Werkstätten) aus-schliesslich zu Studienzwecken und mit der gebotenen Sorgfalt zu nutzen,
+- f. sich einverstanden zu erklären, dass ihnen Entscheide auf elektronischem Weg zugestellt werden dürfen.
 
-- e. die ihnen zur Verfügung gestellte Infrastruktur (z.B. Software, Werkstätten) ausschliesslich zu Studienzwecken und mit der gebotenen Sorgfalt zu nutzen,
+[^33-1]: SRL Nr. [520e](https://srl.lu.ch/data/520e/de)
 
-- f. sich einverstanden zu erklären, dass ihnen Entscheide auf elektronischem Weg zugestellt werden dürfen[^33-3].
-
-[^33-1]: Fassung gemäss Änderung vom 14. Juni 2018, in Kraft seit dem 1. August 2018 (G 2018-042).
-[^33-2]: SRL Nr. 520e
-[^33-3]: Fassung gemäss Änderung vom 14. Juni 2018, in Kraft seit dem 1. August 2018 (G 2018-042).
-
-## VI. Geistiges Eigentum
+## 6 Geistiges Eigentum
 
 #### Art. 34
 
@@ -430,7 +408,7 @@ Die Studierenden sind insbesondere verpflichtet,
 
 **Audiovisuelle Werke**
 
-Bei audiovisuellen Werken treten Studierende der Hochschule Luzern als Produzentin sämtliche Verwendungs- und Verwertungsrechte zum ausschliesslichen Gebrauch ab, verbunden mit dem Recht, diese unentgeltlich sowie zeitlich und örtlich unbeschränkt verwenden und verwerten zu dürfen. Die Hochschule Luzern kann diese Rechte Dritten übertragen oder an die Studierenden rückübertragen.
+<sup>1</sup> Bei audiovisuellen Werken treten Studierende der Hochschule Luzern als Produzentin sämtliche Verwendungs- und Verwertungsrechte zum ausschliesslichen Gebrauch ab, verbunden mit dem Recht, diese unentgeltlich sowie zeitlich und örtlich unbeschränkt verwenden und verwerten zu dürfen. Die Hochschule Luzern kann diese Rechte Dritten übertragen oder an die Studierenden rückübertragen.
 
 #### Art. 36
 
@@ -448,9 +426,9 @@ Bei audiovisuellen Werken treten Studierende der Hochschule Luzern als Produzent
 
 <sup>2</sup> Ein wirtschaftlicher Gewinn wird namentlich dann erzielt, wenn die Nettoeinnahmen insgesamt die durch die Hochschule Luzern getragene, ungedeckt gebliebene Finanzierung (z.B. Produktionskosten) übersteigen.
 
-## VII. Disziplinarordnung
+## 7 Disziplinarordnung
 
-### 1. Disziplinartatbestände
+### 7.1 Disziplinartatbestände
 
 #### Art. 38
 
@@ -468,13 +446,11 @@ Bei audiovisuellen Werken treten Studierende der Hochschule Luzern als Produzent
 
 <sup>1</sup> Die für das Erbringen der Studienleistungen und der Leistungsnachweise vorgesehenen Hilfsmittel werden im Voraus bekannt gegeben.
 
-<sup>2</sup> Werden im Rahmen des Zulassungsverfahrens oder anlässlich der Erbringung eines Leistungsnachweises unerlaubte Hilfsmittel mitgenommen oder verwendet oder werden sonstige Unredlichkeiten begangen, wie namentlich unerlaubte Kommunikation mit Dritten während eines Leistungsnachweises, nicht selbständige Erarbeitung des Portfolios, der Bachelor- oder der Master-Thesis, Plagiarismus oder Erschleichung der Zulassung gestützt auf unrichtige oder unvollständige Angaben, wird die Zulassung zum Studium verwehrt beziehungsweise der betroffene Leistungsnachweis als «nicht bestanden» erklärt.[^39-1]
+<sup>2</sup> Werden im Rahmen des Zulassungsverfahrens oder anlässlich der Erbringung eines Leistungsnachweises unerlaubte Hilfsmittel mitgenommen oder verwendet oder werden sonstige Unredlichkeiten begangen, wie namentlich unerlaubte Kommunikation mit Dritten während eines Leistungsnachweises, nicht selbständige Erarbeitung des Portfolios, der Bachelor- oder der Master-Thesis, Plagiarismus oder Erschleichung der Zulassung gestützt auf unrichtige oder unvollständige Angaben, wird die Zulassung zum Studium verwehrt beziehungsweise der betroffene Leistungsnachweis als «nicht bestanden» erklärt.
 
 <sup>3</sup> Wird ein derartiges unlauteres Verhalten nachträglich aufgedeckt, können Departemente einen bereits verliehenen Titel entziehen oder die Zulassung rückwirkend widerrufen.
 
 <sup>4</sup> Die Verfügung weiterer Disziplinarmassnahmen bleibt vorbehalten.
-
-[^39-1]: Fassung gemäss Änderung vom 18. Juni 2020, in Kraft seit dem 1. September 2020 (G 2020-048).
 
 #### Art. 40
 
@@ -488,16 +464,16 @@ Bei audiovisuellen Werken treten Studierende der Hochschule Luzern als Produzent
 
 <sup>4</sup> Die Departemente regeln das Nähere.
 
-- 2\. Disziplinarmassnahmen und Zuständigkeiten
+### 7.2 Disziplinarmassnahmen und Zuständigkeiten
 
 #### Art. 41
 
 **Disziplinarmassnahmen**
 
-<sup>1</sup> Die Disziplinarmassnahmen der Hochschule Luzern sind a. schriftlicher Verweis,
+<sup>1</sup> Die Disziplinarmassnahmen der Hochschule Luzern sind
 
+- a. schriftlicher Verweis,
 - b. Ausschluss vom Leistungsnachweis oder Modul,
-
 - c. Ausschluss vom Studium.
 
 <sup>2</sup> Der oder dem betroffenen Studierenden ist vor Anordnung einer Disziplinarmassnahme gemäss Absatz 1c rechtliches Gehör zu gewähren.
@@ -508,15 +484,14 @@ Bei audiovisuellen Werken treten Studierende der Hochschule Luzern als Produzent
 
 <sup>1</sup> Für die Anordnung von Disziplinarmassnahmen ist die Leitung Bachelor- oder die Leitung Master-Ausbildung zuständig.
 
-<sup>2</sup> Die Direktorin oder der Direktor eines Departementes kann Studierende aus dem Bachelor- oder dem Master-Studium ausschliessen, bei denen sich im Rahmen des Studiums oder in der Praxisausbildung herausstellt, dass sie a. für das Studium oder für die Berufsausübung offensichtlich nicht geeignet sind,
+<sup>2</sup> Die Direktorin oder der Direktor eines Departementes kann Studierende aus dem Bachelor- oder dem Master-Studium ausschliessen, bei denen sich im Rahmen des Studiums oder in der Praxisausbildung herausstellt, dass sie
 
+- a. für das Studium oder für die Berufsausübung offensichtlich nicht geeignet sind,
 - b. sich wissenschaftlich unkorrekt gemäss Artikel 39 verhalten haben,
-
 - c. ihren Zahlungspflichten trotz Mahnung nicht nachgekommen sind,
-
 - d. in schwerwiegender Weise gegen die Rechtsordnung oder das Ansehen der Hochschule Luzern verstossen haben.
 
-## VIII. Einspracheverfahren
+## 8 Einspracheverfahren
 
 #### Art. 43
 
@@ -526,11 +501,9 @@ Bei audiovisuellen Werken treten Studierende der Hochschule Luzern als Produzent
 
 <sup>2</sup> Die Einsprache im Sinn dieser Studienordnung verpflichtet die zuständige Instanz, den angefochtenen Entscheid zu überprüfen und nochmals über die Sache zu entscheiden.
 
-[^43-1]: Fassung gemäss Änderung vom 14. Juni 2018, in Kraft seit dem 1. August 2018 (G 2018-042).
+#### Art. 43a
 
-### Art. 43aZustellung Notenentscheid
-
-[^43-1]
+**Zustellung Notenentscheid**
 
 <sup>1</sup> Notenentscheide werden in elektronischer Form auf dem Webportal «MyCampus» im persönlichen elektronischen Studierendendossier zugestellt. Die Studierenden werden zudem per E-Mail auf die Bekanntgabe der Notenentscheide im persönlichen elektronischen Studierendendossier hingewiesen.
 
@@ -556,7 +529,7 @@ Bei audiovisuellen Werken treten Studierende der Hochschule Luzern als Produzent
 
 **Einsicht**
 
-Die zur Einsprache berechtigten Studierenden können Einsicht in die Bewertungsunterlagen nehmen.
+<sup>1</sup> Die zur Einsprache berechtigten Studierenden können Einsicht in die Bewertungsunterlagen nehmen.
 
 #### Art. 47
 
@@ -570,13 +543,13 @@ Die zur Einsprache berechtigten Studierenden können Einsicht in die Bewertungsu
 
 **Vernehmlassungen**
 
-Wenn sich die Einsprache nicht sofort als unzulässig oder unbegründet erweist, gibt die Einspracheinstanz involvierten Personen Gelegenheit zur Stellungnahme.
+<sup>1</sup> Wenn sich die Einsprache nicht sofort als unzulässig oder unbegründet erweist, gibt die Einspracheinstanz involvierten Personen Gelegenheit zur Stellungnahme.
 
 #### Art. 49
 
 **Instruktion**
 
-Die Einspracheinstanz kann den Rechtsdienst der Hochschule Luzern oder andere juristisch befähigte Personen mit der Instruktion beauftragen.
+<sup>1</sup> Die Einspracheinstanz kann den Rechtsdienst der Hochschule Luzern oder andere juristisch befähigte Personen mit der Instruktion beauftragen.
 
 #### Art. 50
 
@@ -592,7 +565,7 @@ Die Einspracheinstanz kann den Rechtsdienst der Hochschule Luzern oder andere ju
 
 **Rückzug der Einsprache und Wiedererwägung**
 
-Bis zum Einspracheentscheid kann die Einsprache zurückgezogen oder der angefochtene Entscheid in Wiedererwägung gezogen werden. In diesen Fällen wird das Einspracheverfahren gegenstandslos oder infolge Rückzugs abgeschrieben.
+<sup>1</sup> Bis zum Einspracheentscheid kann die Einsprache zurückgezogen oder der angefochtene Entscheid in Wiedererwägung gezogen werden. In diesen Fällen wird das Einspracheverfahren gegenstandslos oder infolge Rückzugs abgeschrieben.
 
 #### Art. 52
 
@@ -606,152 +579,87 @@ Bis zum Einspracheentscheid kann die Einsprache zurückgezogen oder der angefoch
 
 <sup>4</sup> Die Kostenansätze richten sich nach § 2 Gebührentarif und Kostenverordnung für die Staatsverwaltung vom 28. Mai 1982[^52-2]. Die Höhe der Amtskosten bemisst sich nach dem Zeit- und Arbeitsaufwand. Die Einspracheinstanz kann im Härtefall die Amtskosten ganz oder teilweise erlassen.
 
-[^52-1]: SRL Nr. 40
-[^52-2]: SRL Nr. 681
+[^52-1]: SRL Nr. [40](https://srl.lu.ch/data/40/de)
+[^52-2]: SRL Nr. [681](https://srl.lu.ch/data/681/de)
 
-## IX. Schlussbestimmungen
+## A1 Anhang 1: Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Technik und Architektur
 
-#### Art. 53
+#### Art. A1-1
 
-**Aufhebung bisherigen Rechts**
-
-Die Studienordnung für die Ausbildung an der Hochschule Luzern, FH-Zentralschweiz vom 4. September 2013[^53-1] wird aufgehoben.
-
-[^53-1]: G 2013 395 (SRL Nr. 521)
-
-#### Art. 54
-
-**Inkrafttreten**
-
-Die Studienordnung für die Ausbildung an der Hochschule Luzern, FH-Zentralschweiz tritt am 1. September 2014 in Kraft. Sie ist zu veröffentlichen.
-
-Luzern, 13. Juni 2014
-
-Im Namen des Fachhochschulrates Der Präsident: Anton Lauber Die Leiterin Rechtsdienst: Marija Bucher-Djordjevic
-
-### Anhang 1
-
-## Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Technik und Architektur
-
-Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung gelten:
+<sup>1</sup> Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung gelten:
 
 - a. eine abgeschlossene einschlägige Berufslehre mit anerkannter Berufsmaturität,
-
 - b. eine abgeschlossene nicht einschlägige Berufslehre mit anerkannter Berufsmaturität und mindestens ein Jahr Berufspraxis in einem einschlägigen Beruf,
-
 - c. eine anerkannte gymnasiale Maturität und mindestens ein Jahr Berufspraxis in einem einschlägigen Beruf,
-
 - d. der Abschluss einer Technikerschule im entsprechenden Fachgebiet oder
-
 - e. eine andere gleichwertige, das heisst mindestens dreijährige Ausbildung auf Sekundarstufe II, mehrjährige Berufspraxis auf dem Gebiet der gewählten Studienrichtung und ein erfolgreiches Absolvieren des Zulassungsstudiums der Hochschule Luzern – Technik und Architektur.
 
-Dem Zulassungsstudium ist eine bestandene Aufnahmeprüfung für eine andere Schweizer Fachhochschule technischer Ausrichtung gleichgestellt, sofern diese das Niveau einer Berufsmaturitätsprüfung erreicht.
+<sup>2</sup> Dem Zulassungsstudium ist eine bestandene Aufnahmeprüfung für eine andere Schweizer Fachhochschule technischer Ausrichtung gleichgestellt, sofern diese das Niveau einer Berufsmaturitätsprüfung erreicht.
 
-[^hVoraussetzungenfür-1]: Fassung gemäss Änderung vom 29. März 2020, rückwirkend in Kraft seit dem 1. März 2021 (G 2021-020).
+## A2 Anhang 2: Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Wirtschaft
 
-### Anhang 2
+#### Art. A2-1
 
-[^hVoraussetzungenfür-1]
+<sup>1</sup> Als Zulassungsvoraussetzungen zu den Bachelor-Studiengängen gelten:
 
-## Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Wirtschaft
-
-Als Zulassungsvoraussetzungen zu den Bachelor-Studiengängen gelten:
-
-- a. aa. für den Bachelor of Science in Business Administration:
-
-eine eidgenössisch anerkannte Berufsmaturität mit Ausrichtung Wirtschaft und Dienstleistungen in Verbindung mit einer kaufmännischen Grundbildung,
-
-- bb. für den Bachelor of Science in Business Psychology:
-
-eine eidgenössisch anerkannte Berufsmaturität in Verbindung mit einer beruflichen Grundbildung,
-
-- cc. für den Bachelor of Science in Mobility, Data Science and Economics: eine eidgenössisch anerkannte Berufsmaturität mit Ausrichtung Technik, Architektur und Life Sciences oder Wirtschaft und Dienstleistungen in Verbin-
-
-dung mit einer technischen oder kaufmännischen Grundbildung,
-
+- a.
+  - 1\. für den Bachelor of Science in Business Administration: eine eidgenössisch anerkannte Berufsmaturität mit Ausrichtung Wirtschaft und Dienstleistungen in Verbindung mit einer kaufmännischen Grundbildung,
+  - 2\. für den Bachelor of Science in Business Psychology: eine eidgenössisch anerkannte Berufsmaturität in Verbindung mit einer beruflichen Grundbildung,
+  - 3\. für den Bachelor of Science in Mobility, Data Science and Economics: eine eidgenössisch anerkannte Berufsmaturität mit Ausrichtung Technik, Architektur und Life Sciences oder Wirtschaft und Dienstleistungen in Verbindung mit einer technischen oder kaufmännischen Grundbildung,
 - b. eine eidgenössisch anerkannte Berufsmaturität ohne Grundbildung im jeweiligen Fachbereich und mindestens ein Jahr Arbeitserfahrung in einem der Studienrichtung verwandten Beruf,
-
 - c. eine anerkannte gymnasiale Maturität und mindestens ein Jahr Arbeitserfahrung in einem der Studienrichtung verwandten Beruf,
-
 - d. eine eidgenössisch anerkannte Fachmaturität und mindestens ein Jahr Arbeitserfahrung in einem der Studienrichtung verwandten Beruf,
-
 - e. ein bereichsspezifisches Diplom einer anerkannten höheren Fachschule und mindestens ein Jahr Arbeitserfahrung in einem der Studienrichtung verwandten Beruf,
-
 - f. eine andere gleichwertige Ausbildung auf Sekundarstufe II und mindestens ein Jahr Arbeitserfahrung in einem der Studienrichtung verwandten Beruf,
-
 - g. ein ausländisches Reifezeugnis, dessen Gleichwertigkeit mit einem der unter a–e erwähnten Abschlüsse gegeben ist, und mindestens ein Jahr Arbeitserfahrung in einem der Studienrichtung verwandten Beruf,
-
 - h. ein eidgenössisches Diplom oder ein eidgenössischer Fachausweis und mindestens ein Jahr Arbeitserfahrung in einem der Studienrichtung verwandten Beruf sowie eine bestandene Aufnahmeprüfung der Hochschule Luzern – Wirtschaft oder
+- i. ein ausländisches Reifezeugnis, dessen Gleichwertigkeit mit einem der unter a–e erwähnten Abschlüsse nicht zweifelsfrei feststeht, und mindestens ein Jahr Arbeitserfahrung in einem der Studienrichtung verwandten Beruf sowie eine bestandene Aufnahmeprüfung der Hochschule Luzern – Wirtschaft,
+- j. sowie in jedem Fall dem Ausbildungsniveau entsprechende Kenntnisse der Unterrichtssprache.
 
-- i. ein ausländisches Reifezeugnis, dessen Gleichwertigkeit mit einem der unter a–e erwähnten Abschlüsse nicht zweifelsfrei feststeht, und mindestens ein Jahr Arbeitserfahrung in einem der Studienrichtung verwandten Beruf sowie eine bestandene Aufnahmeprüfung der Hochschule Luzern – Wirtschaft sowie in jedem Fall
+<sup>2</sup> Ergänzend wird für die Zulassung zur Bachelor-Ausbildung in Business Psychology das Bestehen einer psychologischen Eignungsabklärung an der Hochschule Luzern – Wirtschaft vorausgesetzt.
 
-- j. dem Ausbildungsniveau entsprechende Kenntnisse der Unterrichtssprache.
+<sup>3</sup> Das Departement regelt das Nähere zu den Aufnahmeprüfungen und zur Eignungsabklärung.
 
-Ergänzend wird für die Zulassung zur Bachelor-Ausbildung in Business Psychology das Bestehen einer psychologischen Eignungsabklärung an der Hochschule Luzern – Wirtschaft vorausgesetzt.
+## A2a Anhang 2a: Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Informatik
 
-Das Departement regelt das Nähere zu den Aufnahmeprüfungen und zur Eignungsabklärung.
+#### Art. A2a-1
 
-[^hVoraussetzungenfür_2-1]: Eingefügt durch Änderung vom 1. September 2016, in Kraft seit dem 1. September 2016 (G 2016 239).
+**Bachelor Artificial Learning, Bachelor Informatik**
 
-### Anhang 2a
-
-[^hVoraussetzungenfür_2-1]
-
-## Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Informatik
-
-[^hVoraussetzungenfür_3-1]: Fassung gemäss Änderung vom 18. Juni 2020, in Kraft seit dem 1. September 2020 (G 2020-048).
-
-### I. Bachelor Artificial Learning, Bachelor Informatik
-
-[^hVoraussetzungenfür_3-1]
-
-Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung gelten:
+<sup>1</sup> Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung gelten:
 
 - a. eine abgeschlossene einschlägige Berufsausbildung (EFZ) mit anerkannter Berufsmaturität,
-
 - b. eine abgeschlossene Berufsausbildung (EFZ) mit anerkannter Berufsmaturität und bei nichteinschlägiger Berufslehre eine mindestens einjährige Arbeitswelterfahrung im Informatikbereich,
-
 - c. eine gymnasiale Matura und ein einjähriges einschlägiges Praktikum,
-
 - d. eine abgeschlossene Berufsausbildung (EFZ) und ein einschlägiger HF-Diplomabschluss,
+- e. eine abgeschlossene Berufsausbildung (EFZ), mehrjährige einschlägige Berufspraxis und erfolgreicher Abschluss des Zulassungsstudiums an der Hochschule Luzern – Technik und Architektur,
+- f. sowie dem Ausbildungsniveau entsprechende Kenntnisse der Unterrichtssprache.
 
-- e. eine abgeschlossene Berufsausbildung (EFZ), mehrjährige einschlägige Berufspraxis und erfolgreicher Abschluss des Zulassungsstudiums an der Hochschule Luzern
+<sup>2</sup> Dem Zulassungsstudium gemäss Unterabsatz e ist eine bestandene Aufnahmeprüfung für eine andere Schweizer Fachhochschule technischer Ausrichtung gleichgestellt, sofern diese das Niveau einer Berufsmaturitätsprüfung erreicht.
 
-- Technik und Architektur sowie
+<sup>3</sup> In begründeten Ausnahmefällen kann von der Erfüllung einer Zulassungsvoraussetzung gemäss den Unterabsätzen a–e abgesehen und eine Zulassung «sur dossier» erteilt werden.
 
-- f. dem Ausbildungsniveau entsprechende Kenntnisse der Unterrichtssprache.
+#### Art. A2a-2
 
-Dem Zulassungsstudium gemäss Unterabsatz e ist eine bestandene Aufnahmeprüfung für eine andere Schweizer Fachhochschule technischer Ausrichtung gleichgestellt, sofern diese das Niveau einer Berufsmaturitätsprüfung erreicht.
+**Bachelor Wirtschaftsinformatik**
 
-In begründeten Ausnahmefällen kann von der Erfüllung einer Zulassungsvoraussetzung gemäss den Unterabsätzen a−e abgesehen und eine Zulassung «sur dossier» erteilt werden.
-
-[^hIBachelorArtifici-1]: Fassung gemäss Änderung vom 30. August 2019, in Kraft seit dem 1. September 2019 (G 2019-037).
-
-### II. Bachelor Wirtschaftsinformatik
-
-[^hIBachelorArtifici-1]
-
-Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung gelten:
+<sup>1</sup> Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung gelten:
 
 - a. eine abgeschlossene einschlägige Berufsausbildung (EFZ) mit anerkannter Berufsmaturität,
-
 - b. eine abgeschlossene Berufsausbildung (EFZ) mit anerkannter Berufsmaturität und mindestens ein Jahr Arbeitserfahrung in einem dem Studiengang verwandten Beruf,
-
 - c. eine gymnasiale Matura und ein einjähriges einschlägiges Praktikum,
-
 - d. eine eidgenössisch anerkannte Fachmaturität und mindestens ein Jahr Arbeitserfahrung in einem dem Studiengang verwandten Beruf,
-
 - e. ein bereichsspezifisches Diplom einer anerkannten höheren Fachschule oder einer anerkannten höheren Fachprüfung; die Hochschule Luzern – Informatik klärt im Einzelfall ab, ob zusätzliche Kompetenzen vorgängig noch erworben werden müssen; bei nicht einschlägiger Berufslehre eine mindestens einjährige Arbeitswelterfahrung in einem dem Studiengang verwandten Beruf,
+- f. eine andere gleichwertige Ausbildung auf Sekundarstufe II und mindestens ein Jahr Arbeitserfahrung in einem dem Studiengang verwandten Beruf,
+- g. sowie dem Ausbildungsniveau entsprechende Kenntnisse der Unterrichtssprache.
 
-- f. eine andere gleichwertige Ausbildung auf Sekundarstufe II und mindestens ein Jahr Arbeitserfahrung in einem dem Studiengang verwandten Beruf sowie
+<sup>2</sup> In begründeten Ausnahmefällen kann von der Erfüllung einer Zulassungsvoraussetzung gemäss den Unterabsätzen a–f abgesehen und eine Zulassung «sur dossier» erteilt werden.
 
-- g. dem Ausbildungsniveau entsprechende Kenntnisse der Unterrichtssprache.
+#### Art. A2a-3
 
-In begründeten Ausnahmefällen kann von der Erfüllung einer Zulassungsvoraussetzung gemäss den Unterabsätzen a–f abgesehen und eine Zulassung «sur dossier» erteilt werden.
+**Bachelor Digital Ideation**
 
-### III. Bachelor Digital Ideation
-
-<sup>1</sup> Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung Digital Ideation, Schwerpunkt Design, gelten die Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern − Design und Kunst, Abschnitt II. Bachelor Design.
+<sup>1</sup> Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung Digital Ideation, Schwerpunkt Design, gelten die Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern − Design und Kunst, Art. A4-2, Bachelor Design.
 
 <sup>2</sup> Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung Digital Ideation, Schwerpunkt Informatik, gelten die Voraussetzungen für die Zulassung zur Bachelor-Ausbildung Informatik.
 
@@ -759,146 +667,118 @@ In begründeten Ausnahmefällen kann von der Erfüllung einer Zulassungsvorausse
 
 <sup>4</sup> Die Aufnahme in die Bachelor-Ausbildung Digital Ideation wird bei Erfüllung der formalen Voraussetzungen insbesondere durch die Anzahl der zur Verfügung stehenden Studienplätze beschränkt.
 
-[^hIIIBachelorDigita-1]: Eingefügt durch Änderung vom 30. August 2019, in Kraft seit dem 1. September 2019 (G 2019-037).
+#### Art. A2a-4
 
-### IV. Bachelor Information and Cyber Security
+**Bachelor Information and Cyber Security**
 
-[^hIIIBachelorDigita-1]
-
-Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung gelten:
+<sup>1</sup> Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung gelten:
 
 - a. eine abgeschlossene einschlägige Berufsausbildung (EFZ) mit anerkannter Berufsmaturität,
-
 - b. eine abgeschlossene Berufsausbildung (EFZ) mit anerkannter Berufsmaturität und bei nichteinschlägiger Berufslehre eine mindestens einjährige Arbeitswelterfahrung in einem dem Studiengang verwandten Beruf,
-
 - c. eine gymnasiale Matura und ein einjähriges einschlägiges Praktikum,
-
 - d. eine abgeschlossene Berufsausbildung (EFZ) und ein einschlägiger HF-Diplomabschluss,
-
 - e. eine abgeschlossene Berufsausbildung (EFZ), mehrjährige einschlägige Berufspraxis und ein erfolgreicher Abschluss des Zulassungsstudiums an der Hochschule Luzern – Technik und Architektur,
+- f. eine gymnasiale Matura oder eine nicht einschlägige Berufsmaturität und die Cyber Ausbildung der Schweizer Armee,
+- g. sowie dem Ausbildungsniveau entsprechende Kenntnisse der Unterrichtssprache.
 
-- f. eine gymnasiale Matura oder eine nicht einschlägige Berufsmaturität und die Cyber Ausbildung der Schweizer Armee sowie
+<sup>2</sup> Dem Zulassungsstudium gemäss Unterabsatz e ist eine bestandene Aufnahmeprüfung für eine andere Schweizer Fachhochschule technischer Ausrichtung gleichgestellt, sofern diese das Niveau einer Berufsmaturitätsprüfung erreicht.
 
-- g. dem Ausbildungsniveau entsprechende Kenntnisse der Unterrichtssprache.
+<sup>3</sup> In begründeten Ausnahmefällen kann von der Erfüllung einer Zulassungsvoraussetzung gemäss den Unterabsätzen a–f abgesehen und eine Zulassung «sur dossier» erteilt werden.
 
-Dem Zulassungsstudium gemäss Unterabsatz e ist eine bestandene Aufnahmeprüfung für eine andere Schweizer Fachhochschule technischer Ausrichtung gleichgestellt, sofern diese das Niveau einer Berufsmaturitätsprüfung erreicht.
+#### Art. A2a-5
 
-In begründeten Ausnahmefällen kann von der Erfüllung einer Zulassungsvoraussetzung gemäss den Unterabsätzen a–f abgesehen und eine Zulassung «sur dossier» erteilt werden.
+**Bachelor International IT Management**
 
-[^hIVBachelorInforma-1]: Eingefügt durch Änderung vom 30. August 2019, in Kraft seit dem 1. September 2019 (G 2019-037).
-
-### V. Bachelor International IT Management
-
-[^hIVBachelorInforma-1]
-
-Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung gelten:
+<sup>1</sup> Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung gelten:
 
 - a. eine abgeschlossene einschlägige Berufsausbildung (EFZ) mit anerkannter Berufsmaturität,
-
 - b. eine abgeschlossene Berufsausbildung (EFZ) mit anerkannter Berufsmaturität und mindestens ein Jahr Arbeitserfahrung in einem dem Studiengang verwandten Beruf,
-
 - c. eine gymnasiale Matura und ein einjähriges einschlägiges Praktikum,
-
 - d. eine eidgenössisch anerkannte Fachmaturität und mindestens ein Jahr Arbeitserfahrung in einem dem Studiengang verwandten Beruf,
-
 - e. ein bereichsspezifisches Diplom einer anerkannten höheren Fachschule,
-
 - f. eine andere gleichwertige Ausbildung auf Sekundarstufe II und mindestens ein Jahr Arbeitserfahrung in einem dem Studiengang verwandten Beruf,
+- g. ein anerkannter, den Unterabsätzen a–f entsprechender ausländischer Studienberechtigungsausweis und mindestens ein Jahr Arbeitserfahrung in einem dem Studiengang verwandten Beruf,
+- h. sowie ein international anerkanntes Sprachdiplom in englischer Sprache auf mindestens Niveau B2 gemäss dem «Common European Framework of Reference for Languages» (CEFR).
 
-- g. ein anerkannter, den Unterabsätzen a–f entsprechender ausländischer Studienberechtigungsausweis und mindestens ein Jahr Arbeitserfahrung in einem dem Studiengang verwandten Beruf sowie
+<sup>2</sup> Bei ausländischen Studierenden kann zusätzlich ein persönliches Interview zur Eignungsabklärung durchgeführt werden.
 
-- h. ein international anerkanntes Sprachdiplom in englischer Sprache auf mindestens Niveau B2 gemäss dem «Common European Framework of Reference for Languages» (CEFR).
+<sup>3</sup> In begründeten Ausnahmefällen kann von der Erfüllung einer Zulassungsvoraussetzung gemäss den Unterabsätzen a–g abgesehen und eine Zulassung «sur dossier» erteilt werden.
 
-Bei ausländischen Studierenden kann zusätzlich ein persönliches Interview zur Eignungsabklärung durchgeführt werden.
+## A3 Anhang 3: Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Soziale Arbeit
 
-In begründeten Ausnahmefällen kann von der Erfüllung einer Zulassungsvoraussetzung gemäss den Unterabsätzen a–g abgesehen und eine Zulassung «sur dossier» erteilt werden.
+#### Art. A3-1
 
-### Anhang 3
+**Zulassungsvoraussetzungen**
 
-## Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Soziale Arbeit
-
-[^hVoraussetzungenfür_4-1]: Fassung gemäss Änderung vom 18. Juni 2020, in Kraft seit dem 1. September 2020 (G 2020-048).
-
-### I. Zulassungsvoraussetzungen
-
-[^hVoraussetzungenfür_4-1]
-
-Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung gelten:
+<sup>1</sup> Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung gelten:
 
 - a. eine anerkannte Berufsmaturität,
-
 - b. eine anerkannte gymnasiale Maturität,
-
 - c. ein anerkannter Fachmaturitätsabschluss für das Berufsfeld Soziale Arbeit,
-
 - d. ein Ausbildungsabschluss, der mit der Berufsmaturität oder mit der gymnasialen Maturität vergleichbar ist, oder
+- e. das Bestehen eines Äquivalenzverfahrens, wodurch die Bewerberinnen und Bewerber nachweisen, dass sie fehlende formale Aufnahmequalifikationen durch materielle Leistungen kompensieren,
+- f. und in jedem Fall das Bestehen einer schulinternen Eignungsabklärung.
 
-- e. das Bestehen eines Äquivalenzverfahrens, wodurch die Bewerberinnen und Bewerber nachweisen, dass sie fehlende formale Aufnahmequalifikationen durch materielle Leistungen kompensieren, und in jedem Fall
+<sup>2</sup> In Ergänzung zu den Voraussetzungen gemäss a bis e wird von Bewerberinnen und Bewerbern nicht deutscher Muttersprache, welche die Grundausbildung ausserhalb des deutschsprachigen Raums abgeschlossen haben, ein anerkanntes Sprachdiplom in Deutsch auf Niveau C1 (Goethe-Zertifikat) vorausgesetzt.
 
-- f. das Bestehen einer schulinternen Eignungsabklärung.
+#### Art. A3-2
 
-In Ergänzung zu den Voraussetzungen gemäss a bis e wird von Bewerberinnen und Bewerbern nicht deutscher Muttersprache, welche die Grundausbildung ausserhalb des deutschsprachigen Raums abgeschlossen haben, ein anerkanntes Sprachdiplom in Deutsch auf Niveau C1 (Goethe-Zertifikat) vorausgesetzt.
+**Arbeitspraxis**
 
-### II. Arbeitspraxis
+<sup>1</sup> Mit Ausnahme der bereichsspezifischen Vorbildungen (Berufsmaturität Gesundheit/Soziales, anerkannte Fachmaturität für das Berufsfeld soziale Arbeit oder Diplom einer höheren Fachschule im Bereich soziale Arbeit) muss in jedem Fall der Nachweis einer mindestens einjährigen qualifizierten Arbeitspraxis erbracht werden.
 
-Mit Ausnahme der bereichsspezifischen Vorbildungen (Berufsmaturität Gesundheit/Soziales, anerkannte Fachmaturität für das Berufsfeld soziale Arbeit oder Diplom einer höheren Fachschule im Bereich soziale Arbeit) muss in jedem Fall der Nachweis einer mindestens einjährigen qualifizierten Arbeitspraxis erbracht werden.
+#### Art. A3-3
 
-### III. Eignungsprüfung
+**Eignungsprüfung**
 
-Die zu bestehende Eignungsabklärung besteht aus einem Einzelgespräch, einem Gruppenelement und einer schriftlichen Einzelarbeit.
+<sup>1</sup> Die zu bestehende Eignungsabklärung besteht aus einem Einzelgespräch, einem Gruppenelement und einer schriftlichen Einzelarbeit.
 
-### Anhang 4
+## A4 Anhang 4: Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Design und Kunst
 
-## Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Design und Kunst
+#### Art. A4-1
 
-### I. Bachelor Bildende Kunst, Bachelor Vermittlung von Kunst und De-
+**Bachelor Bildende Kunst, Bachelor Vermittlung von Kunst und Design, Bachelor Film**
 
-sign, Bachelor Film[^hIBachelorBildende-1]
-
-Als Zulassungsvoraussetzungen zur Bachelor-Ausbildung für die Studiengänge Bildende Kunst, Vermittlung von Kunst und Design sowie Film gelten:
+<sup>1</sup> Als Zulassungsvoraussetzungen zur Bachelor-Ausbildung für die Studiengänge Bildende Kunst, Vermittlung von Kunst und Design sowie Film gelten:
 
 - a. eine eidgenössisch anerkannte oder gleichwertige gymnasiale Maturität,
-
 - b. eine eidgenössisch anerkannte oder gleichwertige berufliche Grundausbildung mit Berufsmaturität,
-
 - c. ein Abschluss einer Fachmittelschule mit Fachmaturität für das Berufsfeld Gestaltung und Kunst oder
+- d. der Nachweis einer anderen anerkannten gleichwertigen allgemeinbildenden Ausbildung auf Sekundarstufe II,
+- e. sowie in jedem Fall dem Ausbildungsniveau entsprechende Kenntnisse der Unterrichtssprache.
 
-- d. der Nachweis einer anderen anerkannten gleichwertigen allgemeinbildenden Ausbildung auf Sekundarstufe II sowie in jedem Fall
+#### Art. A4-1a
 
-- e. dem Ausbildungsniveau entsprechende Kenntnisse der Unterrichtssprache.
+**…**
 
-Für die Lehrdiplom-Ausbildung für Bildnerisches Gestalten an Maturitätsschulen im Rahmen des Master-Studiengangs Fine Arts, Vertiefungsrichtung Art Teaching, ist als Zulassungsvoraussetzung zusätzlich zur abgeschlossenen Bachelor-Ausbildung eine eidgenössisch anerkannte oder gleichwertige gymnasiale Maturität, ein Primarlehrerdiplom oder ein gleichwertiger Abschluss (Berufsmaturität und bestandene Passerelle) erforderlich.
+#### Art. A4-2
 
-Ia. ...[^hIBachelorBildende-2]
+**Bachelor Design**
 
-[^hIBachelorBildende-1]: Fassung gemäss Änderung vom 18. Juni 2020, in Kraft seit dem 1. September 2020 (G 2020-048).
-[^hIBachelorBildende-2]: Aufgehoben durch Änderung vom 18. Juni 2020, in Kraft seit dem 1. September 2020 (G 2020-048).
+<sup>1</sup> Als Zulassungsvoraussetzungen zur Bachelor-Ausbildung für die Studiengänge im Bereich Design, das heisst Visuelle Kommunikation oder Produkt- und Industriedesign, gelten
 
-### II. Bachelor Design
-
-<sup>1</sup> Als Zulassungsvoraussetzungen zur Bachelor-Ausbildung für die Studiengänge im Bereich Design, das heisst Visuelle Kommunikation oder Produkt- und Industriedesign, gelten a. eine eidgenössisch anerkannte oder gleichwertige gymnasiale Maturität,
-
+- a. eine eidgenössisch anerkannte oder gleichwertige gymnasiale Maturität,
 - b. eine eidgenössisch anerkannte oder gleichwertige berufliche Grundausbildung mit Berufsmaturität,
-
 - c. eine eidgenössisch anerkannte oder gleichwertige, der Studienrichtung verwandte berufliche Grundausbildung mit Berufsmaturität oder
+- d. der Abschluss einer Fachmittelschule mit Fachmaturität,
+- e. sowie in Ergänzung zu a, b und d der Nachweis einer mindestens einjährigen der Studienrichtung verwandten Arbeitspraxis oder der Besuch des einjährigen gestalterischen Vorkurses an der Hochschule Luzern – Design und Kunst oder einer gleichwertigen Vorbildung.
 
-- d. der Abschluss einer Fachmittelschule mit Fachmaturität sowie
+<sup>2</sup> In Ergänzung zu den Voraussetzungen gemäss a–d werden zudem dem Ausbildungsniveau entsprechende Kenntnisse der Unterrichtssprache vorausgesetzt.
 
-- e. in Ergänzung zu a, b und d der Nachweis einer mindestens einjährigen der Studienrichtung verwandten Arbeitspraxis oder der Besuch des einjährigen gestalterischen Vorkurses an der Hochschule Luzern – Design und Kunst oder einer gleichwertigen Vorbildung.
+#### Art. A4-3
 
-<sup>2</sup> In Ergänzung zu den Voraussetzungen gemäss a bis d werden zudem dem Ausbildungsniveau entsprechende Kenntnisse der Unterrichtssprache vorausgesetzt.
+**Bachelor-Studienrichtung Design Management International**
 
-### III. Bachelor-Studienrichtung Design Management International
-
-<sup>1</sup> Ergänzend zu den Voraussetzungen gemäss Abschnitt II gelten für die Zulassung zur Bachelor-Studienrichtung Design Management International folgende Voraussetzungen:
+<sup>1</sup> Ergänzend zu den Voraussetzungen gemäss A4-2 gelten für die Zulassung zur Bachelor-Studienrichtung Design Management International folgende Voraussetzungen:
 
 - a. ein einjähriges, der Studienrichtung verwandtes Praxisjahr sowie
-
 - b. dem Ausbildungsniveau entsprechende Englischkenntnisse.
 
 <sup>2</sup> Das vorgängige Absolvieren eines gestalterischen Vorkurses wird nicht vorausgesetzt.
 
-### IV. Eignungsabklärung Bachelor
+#### Art. A4-4
+
+**Eignungsabklärung Bachelor**
 
 <sup>1</sup> Die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Design und Kunst setzt für alle Studienangebote mit Ausnahme der Studienrichtung Design Management International zusätzlich das erfolgreiche Bestehen einer künstlerisch-gestalterischen Eignungsabklärung an der Hochschule Luzern – Design und Kunst voraus.
 
@@ -906,38 +786,32 @@ Ia. ...[^hIBachelorBildende-2]
 
 <sup>3</sup> Die Aufnahme in das Studium an der Hochschule Luzern – Design und Kunst wird bei Erfüllung der formalen Voraussetzungen insbesondere durch die Anzahl der zur Verfügung stehenden Studienplätze beschränkt.
 
-### V. Bachelor «sur dossier»
+#### Art. A4-5
 
-Insbesondere in den Studiengängen Bildende Kunst sowie Film kann in Ausnahmefällen von der Erfüllung einer Zulassungsvoraussetzung abgesehen werden, wenn eine ausserordentliche künstlerische Begabung nachgewiesen werden kann, der Bewerber oder die Bewerberin über ein geeignetes Bildungsniveau verfügt und das 18. Lebensjahr erreicht hat.[^hVBachelorsurdos-1]
+**Bachelor «sur dossier»**
 
-[^hVBachelorsurdos-1]: Fassung gemäss Änderung vom 1. September 2016, in Kraft seit dem 1. September 2016 (G 2016 239).
+<sup>1</sup> Insbesondere in den Studiengängen Bildende Kunst sowie Film kann in Ausnahmefällen von der Erfüllung einer Zulassungsvoraussetzung abgesehen werden, wenn eine ausserordentliche künstlerische Begabung nachgewiesen werden kann, der Bewerber oder die Bewerberin über ein geeignetes Bildungsniveau verfügt und das 18. Lebensjahr erreicht hat.
 
-### Anhang 5
+## A5 Anhang 5: Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Musik
 
-## Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Musik
+#### Art. A5-1
 
-### I. Zulassungsvoraussetzungen zur Bachelor-Ausbildung
+**Zulassungsvoraussetzungen zur Bachelor-Ausbildung**
 
-Als Zulassungsvoraussetzungen zur Bachelor-Ausbildung gelten:
+<sup>1</sup> Als Zulassungsvoraussetzungen zur Bachelor-Ausbildung gelten:
 
 - a. eine anerkannte Berufsmaturität,
-
 - b. eine anerkannte gymnasiale Maturität,
-
 - c. ein anerkannter Fachmaturitätsabschluss für das Berufsfeld Musik und Theater,
-
-- d. der Abschluss einer anerkannten dreijährigen Handelsmittelschule oder einer anerkannten dreijährigen Diplommittelschule,
-
+- d. der Abschluss einer anerkannten dreijährigen Handelsmittelschule oder einer anerkannten dreijährigen Fachmittelschule,
 - e. der Abschluss einer anderen anerkannten gleichwertigen allgemeinbildenden Ausbildung auf Sekundarstufe II, oder
+- f. der Nachweis einer anderweitig erworbenen gleichwertigen allgemeinbildenden Ausbildung
+- g. sowie in jedem Fall das Bestehen des Zulassungsverfahrens.
 
-- f. der Nachweis einer anderweitig erworbenen gleichwertigen allgemeinbildenden Ausbildung sowie in jedem Fall
+#### Art. A5-2
 
-- g. das Bestehen des Zulassungsverfahrens.
+**Ausnahmen**
 
-### II. Ausnahmen
+<sup>1</sup> In Ausnahmefällen kann von einer abgeschlossenen Ausbildung auf der Sekundarstufe II abgesehen werden, wenn eine ausserordentliche künstlerische Begabung nachgewiesen werden kann.
 
-In Ausnahmefällen kann von einer abgeschlossenen Ausbildung auf der Sekundarstufe II abgesehen werden, wenn eine ausserordentliche künstlerische Begabung nachgewiesen werden kann.
-
-## Weitere Fussnoten
-
-- [*] G 2014 299
+G 2014 299
