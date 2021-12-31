@@ -3,20 +3,20 @@ canton: GR
 number: "720.000"
 title: Steuergesetz für den Kanton Graubünden
 language: de
-version: 2021-01-01
-corrected: 2021-02-10
+version: 2022-01-01
+valid_until: 2024-12-31
 version_adopted: 2020-10-20
 adopted: 1986-06-08
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3143/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3225/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuergesetz für den Kanton Graubünden
 
-Vom 08.06.1986 (Stand 01.01.2021)
+Vom 08.06.1986 (Stand 01.01.2022)
 
 Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
@@ -169,9 +169,19 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 [^8a-1]: Bundesgesetz über die von der Schweiz als Gaststaat gewährten Vorrechte, Immunitäten und Erleichterungen sowie finanziellen Beiträge vom 22. Juni 2007 (Gaststaatgesetz, GSG; SR [192.12](https://db.clex.ch/link/Bund/192.12/de))
 
+#### Art. 8b
+
+**IV. Umfang der Steuerpflicht und Steuerausscheidung**
+
+<sup>1</sup> Bei persönlicher Zugehörigkeit ist die Steuerpflicht unbeschränkt; sie erstreckt sich aber nicht auf Geschäftsbetriebe, Betriebsstätten und Grundstücke ausserhalb des Kantons.
+
+<sup>2</sup> Bei wirtschaftlicher Zugehörigkeit beschränkt sich die Steuerpflicht auf die Teile des Einkommens und des Vermögens, für die nach Artikel 7 und Artikel 8 eine Steuerpflicht im Kanton besteht. Steuerpflichtige mit Wohnsitz im Ausland haben mindestens das im Kanton erzielte Einkommen und das im Kanton gelegene Vermögen zu versteuern.
+
+<sup>3</sup> Ein schweizerisches Unternehmen kann Verluste aus einer ausländischen Betriebsstätte mit inländischen Gewinnen verrechnen, soweit diese Verluste im Betriebsstättenstaat nicht bereits berücksichtigt wurden. Verzeichnet diese Betriebsstätte innert der folgenden sieben Geschäftsjahre Gewinne, so ist im Ausmass der im Betriebsstättenstaat verrechenbaren Gewinne eine Revision der ursprünglichen Veranlagung vorzunehmen; die Verluste aus dieser Betriebsstätte werden in diesem Fall in der Schweiz nachträglich nur satzbestimmend berücksichtigt. In allen übrigen Fällen sind Auslandsverluste ausschliesslich satzbestimmend zu berücksichtigen.
+
 #### Art. 9
 
-**IV. Steuerberechnung**
+**V. Steuerberechnung**
 
 <sup>1</sup> Steuerpflichtige, die im Kanton nur für einen Teil ihres Einkommens und Vermögens steuerpflichtig sind, entrichten die Steuern für die im Kanton steuerbaren Werte nach dem Steuersatz, der ihrem gesamten Einkommen und Vermögen entspricht; steuerfreie Beträge werden ihnen anteilsmässig gewährt.
 
@@ -179,7 +189,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 #### Art. 10
 
-**V. Besondere Verhältnisse 1. Ehegatten und Kinder**
+**VI. Besondere Verhältnisse 1. Ehegatten und Kinder**
 
 <sup>1</sup> Einkommen und Vermögen der Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, werden ohne Rücksicht auf den Güterstand zusammengerechnet.
 
@@ -277,7 +287,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 - e) der Ruhegehälter, Renten und Pensionen, die aus schweizerischen Quellen fliessen;
 - f) der Einkünfte, für welche die steuerpflichtige Person aufgrund eines von der Schweiz abgeschlossenen Abkommens zur Vermeidung der Doppelbesteuerung gänzliche oder teilweise Entlastung von ausländischen Steuern beansprucht.
 
-<sup>4</sup> Werden Einkünfte aus einem Staat nur dann von dessen Steuern entlastet, wenn die Schweiz diese Einkünfte allein oder mit anderen Einkünften zum Satz des Gesamteinkommens besteuert, so wird die Steuer nicht nur nach den in Absatz 3 bezeichneten Einkünften, sondern auch nach allen aufgrund des betreffenden Doppelbesteuerungsabkommens der Schweiz zugewiesenen Einkommens- und Vermögensbestandteile aus dem Quellenstaat bemessen.
+<sup>4</sup> Werden Einkünfte aus einem Staat nur dann von dessen Steuern entlastet, wenn die Schweiz diese Einkünfte allein oder mit anderen Einkünften zum Satz des Gesamteinkommens besteuert, so wird die Steuer nicht nur nach den in Absatz 3 bezeichneten Einkünften, sondern auch nach allen aufgrund des betreffenden Doppelbesteuerungsabkommens der Schweiz zugewiesenen Einkommensbestandteile aus dem Quellenstaat bemessen.
 
 ### 1.2. Einkommenssteuer
 
@@ -744,7 +754,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 **b) Aus Vorsorge**
 
-<sup>1</sup> Kapitalleistungen nach Artikel 29 Absatz 1 Litera d sowie Zahlungen bei Tod und für bleibende körperliche oder gesundheitliche Nachteile werden gesondert zu dem Satz besteuert, der sich ergäbe, wenn anstelle der Kapitalleistung eine jährliche Leistung von einem Fünfzehntel der Kapitalleistung ausgerichtet würde. Die Kapitalleistungen unterliegen stets einer vollen Jahressteuer. Die Jahressteuer wird mindestens zum Satz von 1.5 Prozent für Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, und zum Satz von 2 Prozent für die übrigen Steuerpflichtigen erhoben. Die Maximalbelastung beträgt für Ehegatten 2,6 Prozent und für die übrigen Steuerpflichtigen 4 Prozent.
+<sup>1</sup> Kapitalleistungen nach Artikel 29 Absatz 1 Litera d sowie Zahlungen bei Tod und für bleibende körperliche oder gesundheitliche Nachteile werden gesondert zu dem Satz besteuert, der sich ergäbe, wenn anstelle der Kapitalleistung eine jährliche Leistung von einem Fünfzehntel der Kapitalleistung ausgerichtet würde. Die Kapitalleistungen unterliegen stets einer vollen Jahressteuer. Die Jahressteuer wird mindestens zum Satz von 1,5 Prozent erhoben. Die Maximalbelastung beträgt 2 Prozent.
 
 <sup>2</sup> Die Sozialabzüge und die allgemeinen Abzüge werden nicht gewährt.
 
@@ -770,7 +780,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 - a) Gewinne aus der Veräusserung von Grundstücken des Privatvermögens;
 - b) Gewinne des Landwirtes aus der Veräusserung land- und forstwirtschaftlicher Grundstücke;
-- c) Gewinne aus der Veräusserung von Grundstücken durch juristische Personen im Sinne von Artikel 78 Litera e-h; die Bestimmungen von Artikel 81 Litera e und Artikel 84 finden analoge Anwendung.
+- c) Gewinne aus der Veräusserung von Grundstücken durch juristische Personen im Sinne von Artikel 78 Absatz 1 Litera e bis Litera h und Litera j; die Bestimmungen von Artikel 81 Litera e und Artikel 84 finden analoge Anwendung.
 
 <sup>2</sup> Die nicht in das Grundbuch aufgenommenen selbständigen und dauernden Rechte werden den Grundstücken gleichgestellt.
 
@@ -784,7 +794,8 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 - a) Rechtsgeschäfte, die hinsichtlich der Verfügungsgewalt über Grundstücke wirtschaftlich wie eine Veräusserung wirken;
 - b) die Überführung von Grundstücken in das Geschäftsvermögen;
-- c) die Belastung eines Grundstückes mit privatrechtlichen Dienstbarkeiten oder öffentlich-rechtlichen Eigentumsbeschränkungen, wenn diese die unbeschränkte Bewirtschaftung oder den Veräusserungswert des Grundstückes dauernd und wesentlich beeinträchtigen und dafür ein Entgelt entrichtet wird.
+- c) die Belastung eines Grundstückes mit privatrechtlichen Dienstbarkeiten oder öffentlich-rechtlichen Eigentumsbeschränkungen, wenn diese die unbeschränkte Bewirtschaftung oder den Veräusserungswert des Grundstückes dauernd und wesentlich beeinträchtigen und dafür ein Entgelt entrichtet wird;
+- d) das Ende der Steuerbefreiung juristischer Personen gemäss Artikel 78 Absatz 1 Litera e bis Litera h und Litera j.
 
 #### Art. 43
 
@@ -794,8 +805,9 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 - a) Eigentumswechsel durch Erbgang (Erbfolge, Erbteilung, Vermächtnis), Erbvorbezug oder Schenkung[^43-1];
 - b) Eigentumswechsel unter Ehegatten im Zusammenhang mit dem Güterrecht sowie zur Abgeltung ausserordentlicher Beiträge eines Ehegatten an den Unterhalt der Familie (Art. 165 ZGB) und scheidungsrechtlicher Ansprüche, sofern beide Ehegatten einverstanden sind;
-- c) Landumlegung zwecks Güterzusammenlegung, Abrundung landwirtschaftlicher Heimwesen, Quartierplanung, Grenzbereinigung oder bei Landumlegungen im Enteignungsverfahren bzw. bei drohender Enteignung.
+- c) Landumlegung zwecks Güterzusammenlegung, Abrundung landwirtschaftlicher Heimwesen, Quartierplanung, Grenzbereinigung oder bei Landumlegungen im Enteignungsverfahren beziehungsweise bei drohender Enteignung;
 - d) …
+- e) Umstrukturierungen gemäss Artikel 20 Absatz 1 und Artikel 83 Absatz 1 und Absatz 3. Der Steueraufschub steht unter dem Vorbehalt der Einhaltung der Sperrfristen gemäss Artikel 20 Absatz 2 und Artikel 83 Absatz 2 und Absatz 4.
 
 [^43-1]: Art. 21 ABzStG; BR [720.015](https://www.gr-lex.gr.ch/data/720.015/de)
 
@@ -810,7 +822,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>2</sup> Die zweijährige Frist kann auf begründetes Gesuch hin angemessen erstreckt werden.
 
-<sup>3</sup> Wird nach einem Steueraufschub das in einem anderen Kanton beschaffte Ersatzobjekt innert fünf Jahren veräussert, ohne dass eine weitere Ersatzbeschaffung getätigt würde, wird der aufgeschobene Gewinn besteuert, soweit er noch realisiert werden konnte.
+<sup>3</sup> …
 
 #### Art. 45
 
@@ -860,11 +872,14 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 - a) Kosten für Erschliessungen, Bauten, Umbauten und andere dauernde Verbesserungen, die eine Werterhöhung des Grundstückes bewirkt haben;
 - b) Grundeigentümerbeiträge, wie Perimeterbeiträge für Bau und Korrektion von Strassen, für Bodenverbesserungen, für Wasser- und Lawinenverbauungen;
-- c) Kosten, die mit dem Erwerb und der Veräusserung des Grundstückes verbunden sind, mit Einschluss der üblichen Provisionen und Vermittlungsgebühren.
+- c) Kosten, die mit dem Erwerb und der Veräusserung des Grundstückes verbunden sind, mit Einschluss der üblichen Provisionen und Vermittlungsgebühren;
+- d) Mehrwertabgaben gemäss Raumplanungsgesetz für den Kanton Graubünden (KRG)[^49-1].
 
 <sup>2</sup> Aufwendungen, die bei der Einkommenssteuer als Abzüge berücksichtigt worden sind, und der Wert eigener Arbeit, der nicht als Einkommen versteuert worden ist, können nicht geltend gemacht werden.
 
 <sup>3</sup> Versicherungsleistungen, Beiträge von Bund, Kanton oder Gemeinde sowie Leistungen Dritter, für die der Veräusserer keinen Ersatz oder keine Rückerstattung leistet, werden von den Anlagekosten abgerechnet.
+
+[^49-1]: BR [801.100](https://www.gr-lex.gr.ch/data/801.100/de)
 
 #### Art. 50
 
@@ -1119,7 +1134,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 **V. Wechsel der Steuerpflicht**
 
-<sup>1</sup> Bei Wechsel des steuerrechtlichen Wohnsitzes innerhalb der Schweiz besteht die Steuerpflicht auf Grund persönlicher Zugehörigkeit für die laufende Steuerperiode im Kanton, in welchem der Steuerpflichtige am Ende dieser Periode seinen Wohnsitz hat. Kapitalleistungen gemäss Artikel 40a sind jedoch in dem Kanton steuerbar, in dem der Steuerpflichtige im Zeitpunkt der Fälligkeit seinen Wohnsitz hat. Artikel 105b Absatz 2 bleibt im Übrigen vorbehalten.
+<sup>1</sup> Bei Wechsel des steuerrechtlichen Wohnsitzes innerhalb der Schweiz besteht die Steuerpflicht auf Grund persönlicher Zugehörigkeit für die laufende Steuerperiode im Kanton, in welchem der Steuerpflichtige am Ende dieser Periode seinen Wohnsitz hat. Kapitalleistungen gemäss Artikel 40a sind jedoch in dem Kanton steuerbar, in dem der Steuerpflichtige im Zeitpunkt der Fälligkeit seinen Wohnsitz hat.
 
 <sup>2</sup> Eine Steuerpflicht auf Grund wirtschaftlicher Zugehörigkeit in einem andern Kanton als demjenigen des steuerrechtlichen Wohnsitzes besteht für die gesamte Steuerperiode, auch wenn sie im Laufe des Jahres begründet, verändert oder aufgehoben wird. In diesem Falle wird der Wert der Vermögensobjekte im Verhältnis zur Dauer dieser Zugehörigkeit vermindert. Im Übrigen werden das Einkommen und das Vermögen zwischen den beteiligten Kantonen in sinngemässer Anwendung der Grundsätze des Bundesrechts über das Verbot der interkantonalen Doppelbesteuerung ausgeschieden.
 
@@ -1187,9 +1202,13 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 #### Art. 75a
 
-**III. Steuerausscheidung**
+**III. Umfang der Steuerpflicht und Steuerausscheidung**
 
-<sup>1</sup> Ein schweizerisches Unternehmen kann Verluste aus einer ausländischen Betriebsstätte mit inländischen Gewinnen verrechnen, soweit diese Verluste im Betriebsstättenstaat nicht bereits berücksichtigt wurden. Verzeichnet diese Betriebsstätte innert der folgenden sieben Geschäftsjahre Gewinne, so erfolgt in diesen Geschäftsjahren im Ausmass der im Betriebsstättenstaat verrechneten Verlustvorträge eine Besteuerung. Verluste aus ausländischen Liegenschaften können nur dann berücksichtigt werden, wenn im betreffenden Land auch eine Betriebsstätte unterhalten wird. In allen übrigen Fällen sind Auslandsverluste ausschliesslich satzbestimmend zu berücksichtigen.
+<sup>1</sup> Bei persönlicher Zugehörigkeit ist die Steuerpflicht unbeschränkt; sie erstreckt sich aber nicht auf Geschäftsbetriebe, Betriebsstätten und Grundstücke ausserhalb des Kantons.
+
+<sup>2</sup> Bei wirtschaftlicher Zugehörigkeit beschränkt sich die Steuerpflicht auf die Teile des Gewinns und des Kapitals, für die gemäss Artikel 75 eine Steuerpflicht im Kanton besteht. Juristische Personen mit Sitz oder tatsächlicher Verwaltung im Ausland haben mindestens den im Kanton erzielten Gewinn und das im Kanton gelegene Kapital zu versteuern.
+
+<sup>3</sup> Ein schweizerisches Unternehmen kann Verluste aus einer ausländischen Betriebsstätte mit inländischen Gewinnen verrechnen, soweit diese Verluste im Betriebsstättenstaat nicht bereits berücksichtigt wurden. Verzeichnet diese Betriebsstätte innert der folgenden sieben Geschäftsjahre Gewinne, so erfolgt in diesen Geschäftsjahren im Ausmass der im Betriebsstättenstaat verrechneten Verlustvorträge eine Besteuerung. Verluste aus ausländischen Liegenschaften können nur dann berücksichtigt werden, wenn im betreffenden Land auch eine Betriebsstätte unterhalten wird. In allen übrigen Fällen sind Auslandsverluste ausschliesslich satzbestimmend zu berücksichtigen.
 
 #### Art. 76
 
@@ -1491,6 +1510,13 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>4</sup> Der Ertrag aus einer Beteiligung wird bei der Berechnung der Ermässigung insoweit nicht berücksichtigt, als auf der gleichen Beteiligung zu Lasten des steuerbaren Reingewinnes eine Abschreibung vorgenommen wird, die mit der Gewinnausschüttung im Zusammenhang steht.
 
+<sup>5</sup> Bei Konzernobergesellschaften von systemrelevanten Banken nach Artikel 7 Absatz 1 des Bundesgesetzes vom 8. November 1934 über die Banken und Sparkassen (Bankengesetz, BankG)[^88-1] werden für die Berechnung des Nettoertrags nach Absatz 2 der Finanzierungsaufwand und die Forderung in der Bilanz aus konzernintern weitergegebenen Mitteln folgender Anleihen nicht berücksichtigt:
+
+- a) Pflichtwandelanleihen und Anleihen mit Forderungsverzicht nach Artikel 11 Absatz 4 BankG; und
+- b) Schuldinstrumente zur Verlusttragung bei Insolvenzmassnahmen im Sinne der Artikel 28 bis 32 BankG.
+
+[^88-1]: SR [952.0](https://db.clex.ch/link/Bund/952.0/de)
+
 #### Art. 88a
 
 **b) Kapitalgewinne auf Beteiligungen**
@@ -1687,8 +1713,8 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 <sup>1</sup> Der Besteuerung an der Quelle unterliegen:
 
 - a) ausländische Arbeitnehmer ohne fremdenpolizeiliche Niederlassungsbewilligung, die im Kanton steuerrechtlichen Wohnsitz oder Aufenthalt haben, für ihre Einkünfte aus unselbständiger Erwerbstätigkeit sowie für jedes Ersatzeinkommen. Vorbehalten bleiben die Einkünfte, die der Besteuerung nach Artikel 99a unterliegen;
-- b) im Ausland wohnhafte Arbeitnehmer, die im Kanton für kurze Dauer oder als Grenzgänger oder Wochenaufenthalter in unselbständiger Stellung erwerbstätig sind, für ihre Erwerbseinkünfte und für jedes Ersatzeinkommen;
-- c) im Ausland wohnhafte Arbeitnehmer, die von einem Arbeitgeber mit Sitz oder Betriebsstätte im Kanton für Arbeit im internationalen Verkehr auf dem Wasser, in der Luft oder auf der Strasse Lohn oder andere Vergütungen beziehen.
+- b) im Ausland wohnhafte Arbeitnehmer, die im Kanton für kurze Dauer oder als Grenzgänger oder Wochenaufenthalter in unselbständiger Stellung erwerbstätig sind, für ihre Erwerbseinkünfte und für jedes Ersatzeinkommen. Vorbehalten bleiben die Einkünfte, die der Besteuerung nach Artikel 99a unterliegen;
+- c) im Ausland wohnhafte Arbeitnehmer, die von einem Arbeitgeber mit Sitz oder Betriebsstätte im Kanton für Arbeit im internationalen Verkehr auf dem Wasser, in der Luft oder auf der Strasse Lohn oder andere Vergütungen beziehen; davon ausgenommen bleibt die Besteuerung der Seeleute für Arbeit an Bord eines Hochseeschiffes.
 
 <sup>2</sup> Ehegatten, die in rechtlich oder tatsächlich ungetrennter Ehe leben, werden im ordentlichen Verfahren veranlagt, wenn einer der Ehegatten das Schweizer Bürgerrecht oder die Niederlassungsbewilligung besitzt.
 
@@ -1696,15 +1722,24 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 **b) Steuerberechnung**
 
-<sup>1</sup> Die Steuer wird von den Bruttoeinkünften nach Massgabe der für die Einkommenssteuer natürlicher Personen geltenden Steuersätze berechnet und erstreckt sich auf alle Einkünfte aus unselbstständiger Erwerbstätigkeit, einschliesslich Nebeneinkünfte, geldwerte Vorteile aus Mitarbeiterbeteiligungen und Naturalleistungen, sowie auf die Ersatzeinkünfte.
+<sup>1</sup> Der Quellensteuerabzug wird von den Bruttoeinkünften nach Massgabe der für die Einkommenssteuer natürlicher Personen geltenden Steuersätze berechnet; er umfasst die eidgenössischen, kantonalen und kommunalen Steuern sowie die Steuern der Landeskirchen und der Kirchgemeinden.
+
+<sup>1<sup>bis</sup></sup> Steuerbar sind:
+
+- a) die Einkommen aus unselbständiger Erwerbstätigkeit nach Artikel 98 Absatz 1, die Nebeneinkünfte wie geldwerte Vorteile aus Mitarbeiterbeteiligungen sowie Naturalleistungen, nicht jedoch die vom Arbeitgeber getragenen Kosten der berufsorientierten Aus- und Weiterbildung nach Artikel 17 Absatz 2; und
+- b) Ersatzeinkünfte.
 
 <sup>2</sup> Naturalleistungen und Trinkgelder werden nach den für die eidgenössische Alters- und Hinterlassenenversicherung geltenden Ansätzen bewertet.
 
-<sup>3</sup> Bei der Festsetzung der Steuertarife werden Familienverhältnisse (Art. 39), Pauschalen für Berufsunkosten (Art. 31), Versicherungsprämien (Art. 36 lit. d, e und h) sowie Abzüge für Familienlasten (Art. 38 Abs. 1 lit. d) berücksichtigt.
+<sup>3</sup> Bei der Festsetzung der Steuertarife werden Familienverhältnisse (Art. 39), Pauschalen für Berufsunkosten (Art. 31), Versicherungsprämien (Art. 36 lit. d, lit. e und lit. h) sowie Abzüge für Familienlasten (Art. 38 Abs. 1 lit. d) berücksichtigt. Die Steuerverwaltung publiziert die einzelnen Pauschalen.
 
 <sup>4</sup> Die Steuer für in ungetrennter Ehe lebende Ehegatten, die beide erwerbstätig sind, berechnet sich nach einem Doppelverdienertarif, welcher das progressionserhöhende Zweiteinkommen, die Pauschalen und Abzüge gemäss Absatz 3 sowie den Zweiverdienerabzug (Art. 38 lit. b) berücksichtigt.
 
 <sup>5</sup> …
+
+<sup>5<sup>bis</sup></sup> Die von der Eidgenössischen Steuerverwaltung gestützt auf Artikel 33 Absatz 4 des Bundesgesetzes über die Harmonisierung der direkten Steuern der Kantone und Gemeinden[^99-1] erlassenen Festlegungen zur Berücksichtigung von 13. Monatslöhnen, Gratifikationen, unregelmässigen Beschäftigungen, Stundenlöhnen, Teilzeit- oder Nebenerwerb und satzbestimmenden Elementen sowie die Regeln zu Tarifwechseln, rückwirkenden Gehaltsanpassungen und -korrekturen und zu Leistungen vor Beginn und nach Beendigung der Anstellung sind anwendbar.
+
+[^99-1]: SR [642.14](https://db.clex.ch/link/Bund/642.14/de)
 
 #### Art. 99a
 
@@ -1724,7 +1759,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 #### Art. 100
 
-**2. Künstler und Sportler**
+**2. Künstler, Sportler und Referenten**
 
 <sup>1</sup> Im Ausland wohnhafte berufsmässige Künstler, wie Musiker, Schauspieler und Artisten, sowie Sportler und Referenten werden für ihre Einkünfte aus der im Kanton ausgeübten persönlichen Tätigkeit und für weitere damit verbundene Entschädigungen an der Quelle besteuert.
 
@@ -1734,13 +1769,20 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>4</sup> Die Steuern für Kanton und Gemeinde betragen je sechs Prozent der steuerbaren Einkünfte.
 
-<sup>5</sup> Als steuerbare Einkünfte gelten die Bruttoeinkünfte, einschliesslich aller Zulagen und Nebenbezüge, nach Abzug der Gewinnungskosten.
+<sup>5</sup> Als steuerbare Einkünfte gelten die Bruttoeinkünfte, einschliesslich aller Zulagen und Nebenbezüge, nach Abzug der Gewinnungskosten. Diese betragen:
+
+- a) 50 Prozent der Bruttoeinkünfte bei Künstlern;
+- b) 20 Prozent der Bruttoeinkünfte bei Sportlern sowie Referenten.
+
+<sup>6</sup> Die Quellensteuer wird nicht erhoben, wenn die Bruttoeinkünfte den vom Eidgenössischen Finanzdepartement gestützt auf Artikel 92 Absatz 5 des Bundesgesetzes über die direkte Bundessteuer[^100-1] festgelegten Betrag nicht erreichen.
+
+[^100-1]: SR [642.11](https://db.clex.ch/link/Bund/642.11/de)
 
 #### Art. 101
 
 **3. Verwaltungsräte**
 
-<sup>1</sup> Im Ausland wohnhafte Mitglieder der Verwaltung oder Geschäftsführung juristischer Personen mit Sitz oder tatsächlicher Verwaltung im Kanton werden für die ihnen ausgerichteten Tantiemen, Sitzungsgelder, festen Entschädigungen, geldwerten Vorteile aus Mitarbeiterbeteiligungen und ähnlichen Vergütungen an der Quelle besteuert.
+<sup>1</sup> Im Ausland wohnhafte Mitglieder der Verwaltung oder Geschäftsführung juristischer Personen mit Sitz oder tatsächlicher Verwaltung im Kanton werden für die ihnen ausgerichteten Tantiemen, Sitzungsgelder, festen Entschädigungen, geldwerten Vorteile aus Mitarbeiterbeteiligungen und ähnlichen Vergütungen an der Quelle besteuert. Dies gilt auch, wenn diese Vergütungen einem Dritten zufliessen.
 
 <sup>2</sup> Im Ausland wohnhafte Mitglieder der Verwaltung oder Geschäftsführung ausländischer Unternehmungen, die im Kanton Betriebsstätten oder geschäftliche Betriebe unterhalten, werden für die ihnen zu deren Lasten ausgerichteten Tantiemen, Sitzungsgelder, festen Entschädigungen, geldwerten Vorteile aus Mitarbeiterbeteiligungen und ähnlichen Vergütungen an der Quelle besteuert.
 
@@ -1776,7 +1818,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 **II. Mitwirkung des Schuldners der steuerbaren Leistung**
 
-<sup>1</sup> Der Schuldner der steuerbaren Leistung erhält eine Bezugsprovision von drei Prozent der abgerechneten Steuern bei elektronischer bzw. von zwei Prozent bei schriftlicher Abrechnung und ist dafür verpflichtet:
+<sup>1</sup> Der Schuldner der steuerbaren Leistung ist verpflichtet:
 
 - a) bei Fälligkeit von Barleistungen die geschuldete Steuer zurückzubehalten und bei anderen Leistungen (insbesondere bei Naturalleistungen und Trinkgeldern) die geschuldete Steuer vom Gläubiger einzufordern;
 - b) dem Steuerpflichtigen eine Aufstellung oder Bestätigung über den Steuerabzug auszustellen;
@@ -1784,59 +1826,116 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 - d) die quellensteuerpflichtigen Personen innert acht Tagen seit Aufnahme der steuerbegründenden Tätigkeit bei der zuständigen Steuerbehörde anzumelden;
 - e) die anteilsmässigen Steuern auf im Ausland ausgeübten Mitarbeiteroptionen zu entrichten; die Arbeitgeberin schuldet die anteilsmässige Steuer auch dann, wenn der geldwerte Vorteil von einer ausländischen Konzerngesellschaft ausgerichtet wird.
 
-<sup>2</sup> Der Steuerabzug ist auch dann vorzunehmen, wenn der Steuerpflichtige in einem anderen Kanton steuerpflichtig ist.
+<sup>2</sup> Der Quellensteuerabzug ist auch dann vorzunehmen, wenn der Steuerpflichtige in einem anderen Kanton steuerpflichtig ist.
 
 <sup>3</sup> Der Schuldner der steuerbaren Leistung haftet für die Entrichtung der Quellensteuer.
+
+<sup>3<sup>bis</sup></sup> Der Schuldner der steuerbaren Leistung erhält eine Bezugsprovision von zwei Prozent des gesamten Quellensteuerbetrags bei elektronischer beziehungsweise von einem Prozent bei schriftlicher Abrechnung. Für Kapitalleistungen beträgt die Bezugsprovision ein Prozent des gesamten Quellensteuerbetrags, jedoch höchstens 50 Franken pro Kapitalleistung für die Quellensteuer von Bund, Kanton, Gemeinde und Kirchen.
 
 <sup>4</sup> Die Kantonale Steuerverwaltung kann die vom Schuldner der steuerbaren Leistung zurückbehaltenen Bezugsprovisionen teilweise oder vollumfänglich einfordern, wenn dieser seinen Mitwirkungspflichten gemäss Absatz 1 nicht oder ungenügend nachkommt.
 
 #### Art. 105
 
-**III. Vorbehalt der ordentlichen Veranlagung 1. Ergänzende ordentliche Veranlagung**
-
-<sup>1</sup> Die der Quellensteuer gemäss Artikel 98 Absatz 1 Litera a oder Artikel 99a unterliegenden Personen werden für ihr Einkommen, das dem Steuerabzug an der Quelle nicht unterworfen ist, sowie für ihr Vermögen im ordentlichen Verfahren eingeschätzt. Für Steuerpflichtige nach Art. 98 Absatz 1 Litera a gilt Artikel 9 sinngemäss.
-
-<sup>2</sup> …
-
-<sup>3</sup> …
+**…**
 
 #### Art. 105a
 
-**2. Nachträgliche ordentliche Veranlagung**
+**III. Vorbehalt der ordentlichen Veranlagung 1. Ansässigkeit in der Schweiz a) Obligatorische nachträgliche ordentliche Veranlagung**
 
-<sup>1</sup> Übersteigen die dem Steuerabzug an der Quelle unterliegenden Bruttoeinkünfte einer nach Artikel 98 Absatz 1 Litera a besteuerten Person in einem Kalenderjahr den von der Regierung festgelegten Betrag, wird eine nachträgliche Veranlagung für das gesamte Einkommen und Vermögen durchgeführt. Die an der Quelle abgezogene Steuer wird zinslos angerechnet; zuviel bezogene Steuern werden zinslos zurückbezahlt.
+<sup>1</sup> Personen, die nach Artikel 98 Absatz 1 Litera a der Quellensteuer unterliegen, werden nachträglich im ordentlichen Verfahren veranlagt, wenn:
+
+- a) ihr Bruttoeinkommen in einem Steuerjahr den vom Eidgenössischen Finanzdepartement gestützt auf Artikel 33a Absatz 2 des Bundesgesetzes über die Harmonisierung der direkten Steuern der Kantone und Gemeinden[^105a-1] festgelegten Betrag erreicht oder übersteigt; oder
+- b) sie über Vermögen und Einkünfte, die nicht der Quellensteuer unterliegen, verfügen.
 
 <sup>2</sup> Hat die Steuerpflicht im Kanton nicht während eines vollen Kalenderjahres bestanden, sind die an der Quelle besteuerten, auf zwölf Monate umgerechneten Bruttoeinkünfte massgebend.
 
-<sup>3</sup> In den nachfolgenden Jahren wird bis zum Ende der Quellensteuerpflicht eine nachträgliche Veranlagung für das gesamte Einkommen und Vermögen auch dann durchgeführt, wenn der durch die Regierung festgelegte Betrag unterschritten wird.
+<sup>3</sup> Der nachträglichen ordentlichen Veranlagung unterliegt auch, wer mit einer Person nach Absatz 1 in rechtlich und tatsächlich ungetrennter Ehe lebt.
 
-<sup>4</sup> Nach Artikel 98 Absatz 1 Litera a besteuerte Personen sowie unter Artikel 98 Absatz 1 Litera b fallende Quasi-Ansässige können die Gewährung von Abzügen verlangen, die nicht in den Tarifen berücksichtigt sind. Die Regierung legt die Abzüge fest, für welche eine Tarifkorrektur möglich ist.
+<sup>4</sup> Personen mit Vermögen und Einkünften nach Absatz 1 Litera b müssen die Steuererklärung bis am 31. März des auf das Steuerjahr folgenden Jahres bei der kantonalen Steuerverwaltung verlangen.
 
-<sup>5</sup> Tarifkorrektur und nachträgliche ordentliche Veranlagung können längstens bis Ende März des dem Steuerjahr folgenden Jahres beantragt werden.
+<sup>5</sup> Die nachträgliche ordentliche Veranlagung gilt bis zum Ende der Quellensteuerpflicht.
 
-<sup>6</sup> Die Regierung kann die nachträgliche ordentliche Veranlagung und die Tarifkorrektur auf andere Quellenbesteuerte ausdehnen, wenn die Rechtsprechung oder internationale Vereinbarungen dies erforderlich machen.
+<sup>6</sup> Die an der Quelle abgezogene Steuer wird zinslos angerechnet.
+
+[^105a-1]: SR [642.14](https://db.clex.ch/link/Bund/642.14/de)
+
+#### Art. 105abis
+
+**b) Nachträgliche ordentliche Veranlagung auf Antrag**
+
+<sup>1</sup> Personen, die nach Artikel 98 Absatz 1 Litera a der Quellensteuer unterliegen und keine der Voraussetzungen nach Artikel 105a Absatz 1 erfüllen, werden auf Antrag hin nachträglich im ordentlichen Verfahren veranlagt.
+
+<sup>2</sup> Der Antrag erstreckt sich auch auf den Ehegatten, der mit dem Antragsteller in rechtlich und tatsächlich ungetrennter Ehe lebt.
+
+<sup>3</sup> Der Antrag muss bis am 31. März des auf das Steuerjahr folgenden Jahres bei der kantonalen Steuerverwaltung eingereicht werden. Für Personen, die die Schweiz verlassen, endet die Frist für die Einreichung des Antrags im Zeitpunkt der Abmeldung.
+
+<sup>4</sup> Erfolgt keine nachträgliche ordentliche Veranlagung auf Antrag, tritt die Quellensteuer an die Stelle der im ordentlichen Verfahren zu veranlagenden Bundes-, Kantons-, Gemeinde- und Kirchensteuern auf dem Erwerbseinkommen. Nachträglich werden keine zusätzlichen Abzüge gewährt.
+
+<sup>5</sup> Artikel 105a Absatz 5 und Absatz 6 ist anwendbar.
+
+#### Art. 105ater
+
+**2. Ansässigkeit im Ausland a) Nachträgliche ordentliche Veranlagung auf Antrag**
+
+<sup>1</sup> Personen, die nach Artikel 98 Absatz 1 Litera b oder Litera c der Quellensteuer unterliegen, können für jede Steuerperiode bis am 31. März des auf das Steuerjahr folgenden Jahres eine nachträgliche ordentliche Veranlagung beantragen, wenn:
+
+- a) der überwiegende Teil ihrer weltweiten Einkünfte, einschliesslich der Einkünfte des Ehegatten, in der Schweiz steuerbar ist;
+- b) ihre Situation mit derjenigen einer in der Schweiz wohnhaften steuerpflichtigen Person vergleichbar ist; oder
+- c) eine solche Veranlagung erforderlich ist, um Abzüge geltend zu machen, die in einem Doppelbesteuerungsabkommen vorgesehen sind.
+
+<sup>2</sup> Die an der Quelle abgezogene Steuer wird zinslos angerechnet.
+
+<sup>3</sup> Das Eidgenössische Finanzdepartement präzisiert in Zusammenarbeit mit den Kantonen die Voraussetzungen nach Absatz 1 und regelt das Verfahren.
+
+#### Art. 105aquater
+
+**b) Nachträgliche ordentliche Veranlagung von Amtes wegen**
+
+<sup>1</sup> Bei stossenden Verhältnissen, insbesondere betreffend die im Quellensteuersatz einberechneten Pauschalabzüge, kann die kantonale Steuerverwaltung von Amtes wegen eine nachträgliche ordentliche Veranlagung zugunsten oder zuungunsten der steuerpflichtigen Person vornehmen.
+
+<sup>2</sup> Die an der Quelle abgezogene Steuer wird zinslos angerechnet.
+
+<sup>3</sup> Das Eidgenössische Finanzdepartement legt in Zusammenarbeit mit den Kantonen die Voraussetzungen nach Absatz 1 fest.
+
+#### Art. 105aquinquies
+
+**c) Abgegoltene Steuer**
+
+<sup>1</sup> Erfolgt keine nachträgliche ordentliche Veranlagung nach Artikel 105a<sup>ter</sup> oder Artikel 105a<sup>quater</sup>, tritt die Quellensteuer an die Stelle der im ordentlichen Verfahren zu veranlagenden Steuern des Bundes, des Kantons, der Gemeinde, der Landeskirchen und der Kirchgemeinde auf dem Erwerbseinkommen. Nachträglich werden keine zusätzlichen Abzüge gewährt.
 
 #### Art. 105b
 
-**IV. Interkantonale Verhältnisse 1. Ausserkantonale Steuerpflichtige**
+**IV. Örtliche Zuständigkeit**
 
-<sup>1</sup> Ist der Steuerpflichtige, für den der Schuldner der steuerbaren Leistung mit Wohnsitz, Sitz oder Betriebsstätte im Kanton den Steuerabzug vorgenommen hat, nicht im Kanton steuerpflichtig, überweist die kantonale Steuerbehörde die abgelieferten Steuern der zuständigen Steuerbehörde des zur Besteuerung befugten Kantons.
+<sup>1</sup> Der Schuldner der steuerbaren Leistung berechnet und erhebt die Quellensteuer wie folgt:
 
-<sup>2</sup> Verlegt eine nach Artikel 98 Absatz 1 Litera a und Absatz 2 sowie Artikel 99 und 105a steuerpflichtige natürliche Person innerhalb der Schweiz ihren Wohnsitz oder Aufenthalt, steht dem jeweiligen Wohnsitz- oder Aufenthaltskanton das Besteuerungsrecht im Verhältnis zur Dauer der Steuerpflicht zu.
+- a) für Arbeitnehmer nach Artikel 98 Absatz 1 Litera a: nach dem Recht jenes Kantons, in dem der Arbeitnehmer bei Fälligkeit der steuerbaren Leistung seinen steuerrechtlichen Wohnsitz oder Aufenthalt hat;
+- b) für Personen nach Artikel 98 Absatz 1 Litera b und Litera c sowie Artikel 101 bis Artikel 103a: nach dem Recht jenes Kantons, in dem der Schuldner der steuerbaren Leistung bei Fälligkeit der steuerbaren Leistung seinen steuerrechtlichen Wohnsitz oder Aufenthalt oder seinen Sitz oder die Verwaltung hat; wird die steuerbare Leistung von einer Betriebsstätte in einem anderen Kanton oder von der Betriebsstätte eines Unternehmens ohne Sitz oder tatsächliche Verwaltung in der Schweiz ausgerichtet, so richten sich die Berechnung und die Erhebung der Quellensteuer nach dem Recht des Kantons, in dem die Betriebsstätte liegt;
+- c) für Personen nach Artikel 100: nach dem Recht jenes Kantons, in dem der Künstler, Sportler oder Referent seine Tätigkeit ausübt.
+
+<sup>2</sup> Ist der Arbeitnehmer nach Artikel 98 Absatz 1 Litera b Wochenaufenthalter, so gilt Absatz 1 Litera a sinngemäss.
+
+<sup>3</sup> Der Schuldner der steuerbaren Leistung überweist die Quellensteuer an den nach Absatz 1 zuständigen Kanton.
+
+<sup>4</sup> Für die nachträgliche ordentliche Veranlagung ist zuständig:
+
+- a) für Arbeitnehmer nach Absatz 1 Litera a: der Kanton, in dem die steuerpflichtige Person am Ende der Steuerperiode oder der Steuerpflicht ihren steuerrechtlichen Wohnsitz oder Aufenthalt hatte;
+- b) für Personen nach Absatz 1 Litera b: der Kanton, in dem die steuerpflichtige Person am Ende der Steuerperiode oder der Steuerpflicht erwerbstätig war;
+- c) für Arbeitnehmer nach Absatz 2: der Kanton, in dem die steuerpflichtige Person am Ende der Steuerperiode oder der Steuerpflicht Wochenaufenthalt hatte.
 
 #### Art. 105c
 
-**2. Ausserkantonale Schuldner**
+**V. Interkantonales Verhältnis**
 
-<sup>1</sup> Im Kanton unbeschränkt oder beschränkt Steuerpflichtige, für die ein ausserkantonaler Schuldner der steuerbaren Leistung den Steuerabzug vorgenommen hat, unterliegen der Quellensteuerpflicht nach diesem Gesetz.
+<sup>1</sup> Der nach Artikel 105b Absatz 4 zuständige Kanton hat Anspruch auf allfällige im Kalenderjahr an andere Kantone überwiesene Quellensteuerbeträge. Zu viel bezogene Steuern werden dem Arbeitnehmer zinslos zurückerstattet, zu wenig bezogene Steuern zinslos nachgefordert.
 
-<sup>2</sup> Die vom ausserkantonalen Schuldner abgezogene und überwiesene Steuer wird an die nach diesem Gesetz geschuldete Steuer zinslos angerechnet.
+<sup>2</sup> Die Kantone leisten einander bei der Erhebung der Quellensteuer unentgeltliche Amts- und Rechtshilfe.
 
-<sup>3</sup> Zuviel bezogene Steuern werden dem Steuerpflichtigen zinslos zurückbezahlt; zuwenig bezogene Steuern werden von ihm zinslos nachgefordert.
+<sup>3</sup> …
 
 #### Art. 105d
 
-**V. Anteile der Gemeinden und Kirchgemeinden**
+**VI. Anteile der Gemeinden und Kirchgemeinden**
 
 <sup>1</sup> Die im Steuerabzug enthaltenen Anteile der Gemeinden kommen der Gemeinde zu, in der bei Fälligkeit:
 
@@ -1845,6 +1944,8 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 - c) der im Ausland wohnhafte Künstler, Sportler oder Referent seine Tätigkeit ausübt;
 - d) die juristische Person oder die ausländische Unternehmung, in deren Verwaltung oder Geschäftsführung ein im Ausland wohnhafter Steuerpflichtiger tätig ist, Sitz oder Betriebsstätte hat;
 - e) das Grundstück liegt, auf dem eine Forderung eines im Ausland wohnhaften Gläubigers oder Nutzniessers durch Grund- oder Faustpfand gesichert ist.
+
+<sup>1<sup>bis</sup></sup> Ist der Arbeitnehmer nach Artikel 98 Absatz 1 Litera b Wochenaufenthalter, so gilt Absatz 1 Litera a sinngemäss.
 
 <sup>2</sup> Die Gemeindeanteile an den Steuern auf Vorsorgeleistungen werden auf die politischen Gemeinden nach Massgabe der Einwohnerzahlen am Ende des Vorjahres nach der eidgenössischen Statistik des jährlichen Bevölkerungsstandes verteilt.
 
@@ -1856,7 +1957,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 #### Art. 105e
 
-**VI. Gemeinden, Landeskirchen, Kirchgemeinden**
+**VII. Gemeinden, Landeskirchen, Kirchgemeinden**
 
 <sup>1</sup> Die für die Gemeinden beziehungsweise die Landeskirchen und deren Kirchgemeinden erhobenen Quellensteuern abzüglich die Nettoentschädigung nach Artikel 165a und Artikel 171 Absatz 2 Litera b werden nach Zahlungseingang an die berechtigten Gemeinwesen weitergeleitet.
 
@@ -2158,29 +2259,41 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 #### Art. 123a
 
-**II. Stellung der Ehegatten bei Einkommens- und Vermögenssteuern**
+**II. Elektronische Übermittlung ohne Unterschrift**
+
+<sup>1</sup> Ist die Unterzeichnung von Eingaben der steuerpflichtigen Person gesetzlich vorgeschrieben, so kann bei der elektronischen Übermittlung der Eingaben auf die Unterzeichnung verzichtet werden. In diesem Fall hat die steuerpflichtige Person ihre Angaben elektronisch zu bestätigen.
+
+<sup>2</sup> Die Regierung erlässt die erforderlichen Ausführungsbestimmungen.
+
+<sup>3</sup> …
+
+<sup>4</sup> …
+
+#### Art. 123b
+
+**III. Stellung der Ehegatten bei Einkommens- und Vermögenssteuern**
 
 <sup>1</sup> Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, üben die nach diesem Gesetz dem Steuerpflichtigen zukommenden Verfahrensrechte und Verfahrenspflichten gemeinsam aus.
 
-<sup>2</sup> Sie unterschreiben die Steuererklärung gemeinsam. Ist die Steuererklärung nur von einem der beiden Ehegatten unterzeichnet, wird dem anderen Ehegatten eine Frist eingeräumt[^123a-1]. Nach deren unbenutztem Ablauf wird die vertragliche Vertretung unter Ehegatten angenommen.
+<sup>2</sup> Sie unterschreiben die Steuererklärung gemeinsam. Ist die Steuererklärung nur von einem der beiden Ehegatten unterzeichnet, wird dem anderen Ehegatten eine Frist eingeräumt[^123b-1]. Nach deren unbenutztem Ablauf wird die vertragliche Vertretung unter Ehegatten angenommen.
 
 <sup>3</sup> Rechtsmittel und andere Eingaben gelten als rechtzeitig eingereicht, wenn ein Ehegatte innert Frist handelt.
 
 <sup>4</sup> Sämtliche Mitteilungen der Steuerbehörden an verheiratete Steuerpflichtige, die in rechtlich und tatsächlich ungetrennter Ehe leben, werden an die Ehegatten gemeinsam gerichtet. Zustellungen an Ehegatten, die in gerichtlich oder tatsächlich getrennter Ehe leben, erfolgen an jeden Ehegatten gesondert, sofern die Trennung den Steuerbehörden mitgeteilt wurde.
 
-[^123a-1]: Art. 47 ABzStG; BR [720.015](https://www.gr-lex.gr.ch/data/720.015/de)
+[^123b-1]: Art. 47 ABzStG; BR [720.015](https://www.gr-lex.gr.ch/data/720.015/de)
 
-#### Art. 123b
+#### Art. 123c
 
-**III. Vertragliche Vertretung**
+**IV. Vertragliche Vertretung**
 
 <sup>1</sup> Der Steuerpflichtige kann sich vor den mit dem Vollzug dieses Gesetzes betrauten Behörden vertraglich vertreten lassen, soweit seine persönliche Mitwirkung nicht notwendig ist.
 
 <sup>2</sup> Als Vertreter wird zugelassen, wer handlungsfähig ist. Die Behörde kann den Vertreter auffordern, sich durch schriftliche Vollmacht auszuweisen.
 
-#### Art. 123c
+#### Art. 123d
 
-**IV. Notwendige Vertretung**
+**V. Notwendige Vertretung**
 
 <sup>1</sup> Steuerpflichtige ohne Zustelladresse in der Schweiz haben auf Verlangen der Veranlagungsbehörde einen Bevollmächtigten im Inland zu bezeichnen.
 
@@ -2188,7 +2301,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 #### Art. 124
 
-**V. Fristen**
+**VI. Fristen**
 
 <sup>1</sup> Die vom Gesetz bestimmten Fristen können nicht erstreckt werden.
 
@@ -2200,7 +2313,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 #### Art. 125
 
-**VI. Verjährung 1. Veranlagungsverjährung**
+**VII. Verjährung 1. Veranlagungsverjährung**
 
 <sup>1</sup> Das Recht, eine Steuer zu veranlagen, verjährt für periodische Steuern fünf Jahre nach Ablauf der Steuerperiode, für nicht periodische Steuern fünf Jahre nach Ablauf des Jahres, in dem der steuerbegründende Tatbestand eingetreten ist.
 
@@ -2254,7 +2367,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>1</sup> Die Steuerpflichtigen werden durch öffentliche Bekanntgabe oder Zustellung des Formulars zur Abgabe der Steuererklärung aufgefordert[^127-1]. Steuerpflichtige, die kein Formular erhalten, haben bei der Gemeindesteuerbehörde ein solches zu verlangen. Eine Steuererklärung ist auch bei Beendigung der Steuerpflicht einzureichen.
 
-<sup>2</sup> Die Steuererklärung ist vom Steuerpflichtigen wahrheitsgemäss und vollständig auszufüllen, rechtsgültig zu unterzeichnen und mit den verlangten Unterlagen fristgerecht einzureichen. Die digitale Signatur ist der eigenhändigen Unterschrift gleichgestellt. Die Regierung kann die elektronische Einreichung der Steuererklärung zulassen.
+<sup>2</sup> Die Steuererklärung ist vom Steuerpflichtigen wahrheitsgemäss und vollständig auszufüllen, rechtsgültig zu unterzeichnen und mit den verlangten Unterlagen fristgerecht einzureichen. Die Regierung kann die elektronische Einreichung der Steuererklärung zulassen.
 
 <sup>3</sup> Natürliche Personen mit Einkommen aus selbständiger Erwerbstätigkeit und juristische Personen müssen der Steuererklärung die unterzeichneten Jahresrechnungen (Bilanz, Erfolgsrechnung und Anhang) der Bemessungsperiode oder, bei vereinfachter Buchführung nach Artikel 957 Absatz 2 OR, Aufstellungen über Einnahmen und Ausgaben, die Vermögenslage sowie Privatentnahmen und -einlagen beilegen.
 
@@ -2380,7 +2493,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 **I. Einsprache 1. Voraussetzungen**
 
-<sup>1</sup> Gegen definitive Veranlagungsverfügungen kann der Steuerpflichtige innert 30 Tagen seit Zustellung der Veranlagungsverfügung bei der Veranlagungsbehörde schriftlich Einsprache erheben.
+<sup>1</sup> Gegen definitive Veranlagungsverfügungen kann der Steuerpflichtige innert 30 Tagen seit Zustellung der Veranlagungsverfügung bei der Veranlagungsbehörde schriftlich Einsprache erheben. Die Regierung kann die elektronische Einreichung der Einsprache zulassen.
 
 <sup>2</sup> …
 
@@ -2470,7 +2583,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>1</sup> Ergibt sich auf Grund von Tatsachen oder Beweismitteln, welche der Veranlagungsbehörde nicht bekannt waren, dass eine Veranlagung zu Unrecht unterblieben oder eine rechtskräftige Veranlagung unvollständig ist, oder ist eine unterbliebene oder unvollständige Veranlagung auf ein Verbrechen oder Vergehen gegen die Veranlagungsbehörde zurückzuführen, wird die nicht erhobene Steuer nebst Zins als Nachsteuer erhoben.
 
-<sup>2</sup> Als neue Tatsache gelten auch die Nichteinhaltung der Sperrfrist gemäss Artikel 20 und Artikel 83 sowie die Veräusserung eines Grundstücks nach einer interkantonalen Ersatzbeschaffung gemäss Artikel 44. Im Falle der Ersatzbeschaffung wird kein Verzugszins erhoben.
+<sup>2</sup> Als neue Tatsache gilt auch die Nichteinhaltung der Sperrfrist gemäss Artikel 20 und Artikel 83.
 
 <sup>3</sup> Hat der Steuerpflichtige Einkommen, Vermögen, Reingewinn oder Eigenkapital in seiner Steuererklärung vollständig und genau angegeben und haben die Veranlagungsbehörden die Bewertung anerkannt, kann keine Nachsteuer erhoben werden, selbst wenn die Bewertung ungenügend war.
 
@@ -2645,7 +2758,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>1</sup> Steuern, Kosten oder Bussen können ganz oder teilweise erlassen werden, wenn der Steuerpflichtige in Not geraten ist oder wenn aus anderen Gründen die Bezahlung des geschuldeten Betrages für ihn eine grosse Härte bedeuten würde.
 
-<sup>2</sup> Das Erlassgesuch ist mit schriftlicher Begründung und unter Beilage der nötigen Beweismittel der kantonalen Steuerverwaltung einzureichen. Auf ein Erlassgesuch, das erst nach Einleitung der Betreibung eingereicht wurde, kann nicht eingetreten werden.
+<sup>2</sup> Das Erlassgesuch ist mit schriftlicher Begründung und unter Beilage der nötigen Beweismittel der kantonalen Steuerverwaltung einzureichen. Auf ein Erlassgesuch, das erst nach Einleitung der Betreibung eingereicht wurde, kann nicht eingetreten werden. Die Regierung kann die elektronische Einreichung des Erlassgesuches zulassen.
 
 <sup>3</sup> Über Erlassgesuche betreffend die Kantonssteuer entscheiden:
 
@@ -3328,9 +3441,15 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>4</sup> Die Entschädigungsregelung folgt der Zuständigkeitsregelung.
 
+#### Art. 191a
+
+**8. Tarifkorrektur**
+
+<sup>1</sup> Die Tarifkorrektur ist noch für das Steuerjahr 2020 zulässig. Sie kann längstens bis am 31. März 2021 beantragt werden.
+
 #### Art. 192
 
-**8. Ergänzende Bestimmungen**
+**9. Ergänzende Bestimmungen**
 
 <sup>1</sup> Die Regierung kann durch Verordnung weitere Übergangsbestimmungen erlassen, wenn sie aus rechtlichen oder administrativen Gründen zwingend geboten sind oder wenn die sofortige uneingeschränkte Anwendung des neuen Rechts zu übermässigen Härten führen würde.
 

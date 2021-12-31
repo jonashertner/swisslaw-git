@@ -3,20 +3,20 @@ canton: GR
 number: "720.000"
 title: Legge sulle imposte per il Cantone dei Grigioni
 language: it
-version: 2021-01-01
-corrected: 2021-02-10
+version: 2022-01-01
+valid_until: 2024-12-31
 version_adopted: 2020-10-20
 adopted: 1986-06-08
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/720.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3143/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3225/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Legge sulle imposte per il Cantone dei Grigioni
 
-del 08.06.1986 (stato 01.01.2021)
+del 08.06.1986 (stato 01.01.2022)
 
 accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
@@ -169,9 +169,19 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 [^8a-1]: Legge federale del 22 giugno 2007 sui privilegi, le immunità e le facilitazioni, nonché sugli aiuti finanziari accordati dalla Svizzera quale Stato ospite (Legge sullo Stato ospite, LSO; RS [192.12](https://db.clex.ch/link/Bund/192.12/it))
 
+#### Art. 8b
+
+**IV. Estensione dell'assoggettamento e ripartizione fiscale**
+
+<sup>1</sup> L'assoggettamento in virtù dell'appartenenza personale è illimitato; esso non si estende tuttavia alle imprese, agli stabilimenti d'impresa e ai fondi siti fuori Cantone.
+
+<sup>2</sup> L'assoggettamento in virtù dell'appartenenza economica è limitato alla parte del reddito e della sostanza per cui sussiste un assoggettamento nel Cantone secondo l'articolo 7 e l'articolo 8. I contribuenti domiciliati all'estero devono assoggettare a imposizione almeno il reddito conseguito nel Cantone e la sostanza situata nel Cantone.
+
+<sup>3</sup> Un'impresa svizzera può compensare le perdite subite da uno stabilimento d'impresa situato all'estero con utili realizzati in Svizzera se lo Stato dello stabilimento d'impresa non ne ha già tenuto conto. Se questo stabilimento d'impresa registra degli utili nel corso dei sette esercizi seguenti, si deve procedere a una revisione della tassazione iniziale, fino a concorrenza dell'ammontare degli utili compensati nello Stato dello stabilimento d'impresa; in questo caso, le perdite subite da questo stabilimento d'impresa sono prese in considerazione a posteriori in Svizzera solo per determinare l'aliquota d'imposta. In tutti gli altri casi, le perdite subite all'estero sono prese in considerazione esclusivamente per determinare l'aliquota d'imposta.
+
 #### Art. 9
 
-**IV. Calcolo d'imposta**
+**V. Calcolo d'imposta**
 
 <sup>1</sup> I contribuenti parzialmente assoggettati all'imposta sul reddito e sulla sostanza nel Cantone devono l'imposta sugli elementi imponibili nel Cantone al tasso corrispondente alla totalità dei loro redditi e delle loro sostanze; importi esenti dall'imposta sono loro accordati in misura proporzionale.
 
@@ -179,7 +189,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 #### Art. 10
 
-**V. Condizioni speciali 1. Coniugi e figli**
+**VI. Condizioni speciali 1. Coniugi e figli**
 
 <sup>1</sup> Il reddito e la sostanza dei coniugi viventi di fatto e di diritto in costanza di matrimonio vengono addizionati senza tener conto del regime dei beni.
 
@@ -277,7 +287,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 - e) assegni di quiescenza, rendite e pensioni di fonte svizzera;
 - f) proventi per i quali il contribuente pretende uno sgravio totale o parziale da imposte estere in virtù di una convenzione conclusa dalla Svizzera per evitare la doppia imposizione.
 
-<sup>4</sup> In caso di proventi sgravati dalle imposte nello Stato dal quale essi provengono e imponibili in Svizzera, singolarmente o congiuntamente ad altri proventi, all'aliquota applicabile al reddito complessivo, l'imposta non colpisce soltanto i proventi di cui al capoverso 3, ma anche tutti gli elementi del reddito e della sostanza provenienti dall'altro Stato, attribuiti alla Svizzera conformemente alla corrispondente convenzione in materia di doppia imposizione.
+<sup>4</sup> In caso di proventi sgravati dalle imposte nello Stato dal quale essi provengono e imponibili in Svizzera, singolarmente o congiuntamente ad altri proventi, all'aliquota applicabile al reddito complessivo, l'imposta non colpisce soltanto i proventi di cui al capoverso 3, ma anche tutti gli elementi del reddito provenienti dall'altro Stato, attribuiti alla Svizzera conformemente alla corrispondente convenzione in materia di doppia imposizione.
 
 ### 1.2. Imposta sul reddito
 
@@ -741,7 +751,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 **b) Prestazioni da previdenza**
 
-<sup>1</sup> Le prestazioni in capitale giusta l'articolo 29 capoverso 1 lettera d) nonché le somme versate in seguito a decesso, lesione corporale permanente o pregiudizio durevole della salute sono imposte separatamente all'aliquota che risulterebbe, se al posto della prestazione in capitale venisse corrisposta una prestazione annuale pari a un quindicesimo della prestazione in capitale. Le prestazioni in capitale sono sempre soggette a un'imposta annuale intera. L'imposta annua viene riscossa almeno all'aliquota dell'1,5 per cento per coniugi, che vivono de iure et de facto in costanza di matrimonio, e all'aliquota del 2 per cento per gli altri contribuenti. L'onere massimo comporta il 2,6 per cento per i coniugi e il 4 per cento per gli altri contribuenti.
+<sup>1</sup> Le prestazioni in capitale giusta l'articolo 29 capoverso 1 lettera d nonché le somme versate in seguito a decesso, lesione corporale permanente o pregiudizio durevole della salute sono imposte separatamente all'aliquota che risulterebbe, se al posto della prestazione in capitale venisse corrisposta una prestazione annuale pari a un quindicesimo della prestazione in capitale. Le prestazioni in capitale sono sempre soggette a un'imposta annuale intera. L'imposta annua viene riscossa almeno all'aliquota dell'1,5 per cento. L'onere massimo comporta il 2 per cento.
 
 <sup>2</sup> Le deduzioni sociali e le deduzioni generali non vengono concesse.
 
@@ -767,7 +777,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 - a) gli utili realizzati con l'alienazione di fondi della sostanza privata,
 - b) gli utili realizzati dall'agricoltore con l'alienazione di fondi agricoli e forestali,
-- c) gli utili realizzati con l'alienazione di fondi da parte di persone giuridiche ai sensi dell'articolo 78 lettere e)-h); le disposizioni dell'articolo 81 lettera e) come pure dell'articolo 84 vengono applicate per analogia.
+- c) gli utili realizzati con l'alienazione di fondi da parte di persone giuridiche ai sensi dell'articolo 78 capoverso 1 lettera e-lettera h nonché lettera j; le disposizioni dell'articolo 81 lettera e come pure dell'articolo 84 vengono applicate per analogia.
 
 <sup>2</sup> I diritti a sé stanti e permanenti non intavolati nel registro fondiario vengono parificati ai fondi.
 
@@ -781,7 +791,8 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 - a) i negozi giuridici che dal profilo economico hanno il medesimo effetto di un'alienazione per quanto attiene al potere di disporre di fondi,
 - b) il trasferimento di fondi nella sostanza commerciale,
-- c) l'aggravio di un fondo con servitù di diritto privato o restrizioni di diritto pubblico alla proprietà fondiaria, se pregiudicano lo sfruttamento incondizionato o il valore di alienazione del fondo in modo duraturo e importante e per questo viene corrisposto un indennizzo.
+- c) l'aggravio di un fondo con servitù di diritto privato o restrizioni di diritto pubblico alla proprietà fondiaria, se pregiudicano lo sfruttamento incondizionato o il valore di alienazione del fondo in modo duraturo e importante e per questo viene corrisposto un indennizzo;
+- d) la fine dell'esenzione dall'assoggettamento di persone giuridiche conformemente all'articolo 78 capoverso 1 lettera e-lettera h nonché lettera j.
 
 #### Art. 43
 
@@ -791,8 +802,9 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 - a) trapasso di proprietà tramite successione (devoluzione dell'eredità, divisione, legato), anticipo sull'eredità o donazione;[^43-1]
 - b) trapasso di proprietà tra coniugi nel contesto del regime dei beni nonché per indennizzo di contributi straordinari di un coniuge al mantenimento della famiglia (art. 165 CC) e di diritti relativi alla legislazione sul divorzio, per quanto entrambi i coniugi siano d'accordo;
-- c) ricomposizione particellare allo scopo di raggruppare terreni, arrotondare poderi agricoli, pianificare quartieri, rettificare confini o ricomporre particelle nella procedura d'espropriazione rispettivamente in caso di minaccia d'espropriazione,
+- c) ricomposizione particellare allo scopo di raggruppare terreni, arrotondare poderi agricoli, pianificare quartieri, rettificare confini o ricomporre particelle nella procedura d'espropriazione rispettivamente in caso di minaccia d'espropriazione;
 - d) …
+- e) ristrutturazioni conformemente all'articolo 20 capoverso 1 e all'articolo 83 capoverso 1 e capoverso 3. La dilazione fiscale viene concessa a condizione che vengano rispettati i termini di divieto di cui all'articolo 20 capoverso 2 e all'articolo 83 capoverso 2 e capoverso 4.
 
 [^43-1]: Art. 21 DELIG; CSC [720.015](https://www.gr-lex.gr.ch/data/720.015/it)
 
@@ -807,7 +819,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>2</sup> Su domanda motivata il termine di due anni può essere adeguatamente esteso.
 
-<sup>3</sup> Se dopo una dilazione fiscale il bene sostituito acquistato in un altro Cantone viene alienato entro cinque anni senza che avvenga un'altra sostituzione di beni, l'utile differito viene tassato a condizione che sia stato possibile realizzarlo.
+<sup>3</sup> …
 
 #### Art. 45
 
@@ -857,11 +869,14 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 - a) i costi di urbanizzazione, costruzione, modifiche edilizie e altri miglioramenti permanenti che hanno causato un aumento del valore del fondo,
 - b) i contributi dei proprietari fondiari, quali i contributi di comprensorio per la costruzione e la correzione di strade, migliorie fondiarie, arginature di fiumi e torrenti nonché ripari antivalangari,
-- c) i costi connessi con l'acquisto e l'alienazione del fondo comprese le usuali provvigioni e tasse di mediazione.
+- c) i costi connessi con l'acquisto e l'alienazione del fondo comprese le usuali provvigioni e tasse di mediazione,
+- d) le tasse sul plusvalore conformemente alla legge sulla pianificazione territoriale del Cantone dei Grigioni (LPTC)[^49-1].
 
 <sup>2</sup> Non si possono far valere le spese che hanno potuto essere dedotte dall'imposta sul reddito né il valore del proprio lavoro che non è stato imposto quale reddito.
 
 <sup>3</sup> Vengono dedotti dalle spese d'investimento le prestazioni di assicurazioni, i sussidi federali, cantonali o comunali nonché le prestazioni di terzi per cui l'alienante non fornisce alcun risarcimento o rimborso.
+
+[^49-1]: CSC [801.100](https://www.gr-lex.gr.ch/data/801.100/it)
 
 #### Art. 50
 
@@ -1116,7 +1131,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 **V. Modifica dell'assoggettamento**
 
-<sup>1</sup> In caso di cambiamento del domicilio fiscale all'interno della Svizzera, l'assoggettamento in virtù dell'appartenenza personale si realizza per l'intero periodo fiscale e nel cantone di domicilio del contribuente alla fine di tale periodo. Le prestazioni in capitale conformemente all'articolo 40a della legge sono tuttavia imponibili nel cantone di domicilio del contribuente al momento della loro scadenza. Per il rimanente è fatto salvo l'articolo 105b capoverso 2 della legge.
+<sup>1</sup> In caso di cambiamento del domicilio fiscale all'interno della Svizzera, l'assoggettamento in virtù dell'appartenenza personale si realizza per l'intero periodo fiscale in corso nel Cantone di domicilio del contribuente alla fine di tale periodo. Le prestazioni in capitale conformemente all'articolo 40a della legge sono tuttavia imponibili nel Cantone di domicilio del contribuente al momento della loro scadenza.
 
 <sup>2</sup> L'assoggettamento in un cantone diverso da quello del domicilio fiscale in virtù dell'appartenenza economica vale per l'intero periodo fiscale anche se è cominciato, è stato modificato o è stato soppresso nel corso dell'anno. In tal caso, il valore degli elementi della sostanza è ridotto proporzionalmente alla durata dell'appartenenza. Per il rimanente, il reddito e la sostanza sono ripartiti fra i cantoni interessati sulla base delle regole del diritto federale concernenti il divieto di doppia imposizione intercantonale, applicabili per analogia.
 
@@ -1184,9 +1199,13 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 #### Art. 75a
 
-**III. Ripartizione fiscale**
+**III. Estensione dell'assoggettamento e ripartizione fiscale**
 
-<sup>1</sup> Un'impresa svizzera può compensare le perdite subite da uno stabilimento d'impresa situato all'estero con utili realizzati in Svizzera se lo Stato dello stabilimento d'impresa non ne ha già tenuto conto. Se detto stabilimento d'impresa realizza utili nel corso dei sette anni successivi, un'ulteriore imposizione verrà effettuata in questi esercizi nella misura in cui i riporti di perdite sono compensati nello Stato dello stabilimento d'impresa. Le perdite su immobili all'estero sono prese in considerazione soltanto se nello Stato interessato è tenuto uno stabilimento d'impresa. In tutti gli altri casi, le perdite subite all'estero sono prese in considerazione esclusivamente per determinare l'aliquota d'imposta.
+<sup>1</sup> L'assoggettamento in virtù dell'appartenenza personale è illimitato; esso non si estende tuttavia alle imprese, agli stabilimenti d'impresa e ai fondi siti fuori Cantone.
+
+<sup>2</sup> L'assoggettamento in virtù dell'appartenenza economica è limitato alla parte dell'utile e del capitale per cui sussiste un assoggettamento nel Cantone conformemente all'articolo 75. Persone giuridiche aventi sede o amministrazione effettiva all'estero devono assoggettare a imposizione almeno l'utile conseguito nel Cantone e il capitale situato nel Cantone.
+
+<sup>3</sup> Un'impresa svizzera può compensare le perdite subite da uno stabilimento d'impresa situato all'estero con utili realizzati in Svizzera se lo Stato dello stabilimento d'impresa non ne ha già tenuto conto. Se detto stabilimento d'impresa realizza utili nel corso dei sette anni successivi, un'ulteriore imposizione verrà effettuata in questi esercizi nella misura in cui i riporti di perdite sono compensati nello Stato dello stabilimento d'impresa. Le perdite su immobili all'estero sono prese in considerazione soltanto se nello Stato interessato è tenuto uno stabilimento d'impresa. In tutti gli altri casi, le perdite subite all'estero sono prese in considerazione esclusivamente per determinare l'aliquota d'imposta.
 
 #### Art. 76
 
@@ -1488,6 +1507,13 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>4</sup> Il provento da una partecipazione non viene considerato nel calcolo della riduzione, quando un ammortamento legato alla distribuzione degli utili è effettuato su questa partecipazione a carico dell'utile netto imponibile.
 
+<sup>5</sup> Riguardo alle società madri delle banche di rilevanza sistemica secondo l'articolo 7 capoverso 1 della legge federale dell'8 novembre 1934 sulle banche e le casse di risparmio (legge sulle banche, LBCR)[^88-1] per il calcolo del ricavato netto secondo il capoverso 2 non sono considerati né i costi di finanziamento né i crediti iscritti a bilancio derivanti dal trasferimento interno al gruppo di risorse, relativi ai prestiti seguenti:
+
+- a) prestiti obbligatoriamente convertibili e prestiti con rinuncia al credito di cui all'articolo 11 capoverso 4 LBCR; e
+- b) strumenti di debito a copertura delle perdite in caso di misure per insolvenza ai sensi degli articoli 28-32 LBCR.
+
+[^88-1]: RS [952.0](https://db.clex.ch/link/Bund/952.0/it)
+
 #### Art. 88a
 
 **b) Utili in capitale su partecipazioni**
@@ -1684,8 +1710,8 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 <sup>1</sup> Sono soggetti all'imposizione alla fonte:
 
 - a) i lavoratori stranieri senza un permesso di residenza della polizia degli stranieri, che hanno domicilio o dimora fiscale nel Cantone, per le loro entrate derivanti da attività lucrativa dipendente nonché per ogni reddito sostitutivo. Sono fatte salve le entrate tassate secondo l'articolo 99a;
-- b) i lavoratori domiciliati all'estero, che nel Cantone svolgono attività lucrativa dipendente per breve tempo oppure quali frontalieri o pendolari settimanali, per le entrate dalla loro attività e per ogni reddito sostitutivo;
-- c) i lavoratori domiciliati all'estero che percepiscono un salario o altre indennità per lavoro nei trasporti internazionali per acqua, aria o terra da datori di lavoro con sede o stabilimento d'impresa nel Cantone.
+- b) i lavoratori domiciliati all'estero che nel Cantone svolgono un'attività lucrativa dipendente per breve tempo oppure quali frontalieri o pendolari settimanali, per le entrate dalla loro attività e per ogni reddito sostitutivo. Sono fatti salvi i proventi tassati secondo l'articolo 99a;
+- c) i lavoratori domiciliati all'estero che percepiscono un salario o altre indennità per lavoro nei trasporti internazionali per acqua, aria o terra da datori di lavoro con sede o stabilimento d'impresa nel Cantone; fa eccezione l'imposizione dei marittimi per il lavoro a bordo di una nave d'alto mare.
 
 <sup>2</sup> I coniugi che vivono in costanza di matrimonio di diritto o di fatto sono tassati nella procedura ordinaria, se uno di essi possiede la cittadinanza svizzera o il permesso di residenza.
 
@@ -1693,15 +1719,24 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 **b) Calcolo dell'imposta**
 
-<sup>1</sup> L'imposta è calcolata sulle entrate lorde in ragione dei tassi fiscali validi per il calcolo dell'imposta sul reddito delle persone fisiche e si estende a tutti i proventi da attività lucrativa dipendente, compresi i redditi accessori, i vantaggi valutabili in denaro risultanti da partecipazioni di collaboratore e le prestazioni in natura, come pure ai proventi compensativi.
+<sup>1</sup> La ritenuta alla fonte è calcolata sui proventi lordi in ragione dei tassi fiscali validi per il calcolo dell'imposta sul reddito delle persone fisiche; essa comprende le imposte federali, cantonali e comunali nonché le imposte delle Chiese riconosciute dallo Stato e dei comuni parrocchiali.
+
+<sup>1<sup>bis</sup></sup> Sono imponibili:
+
+- a) le entrate derivanti da attività lucrativa dipendente secondo l'articolo 98 capoverso 1, i redditi accessori come vantaggi valutabili in denaro risultanti da partecipazioni di collaboratore e le prestazioni in natura, tuttavia non le spese di formazione e perfezionamento professionali sostenute dal datore di lavoro di cui all'articolo 17 capoverso 2; e
+- b) proventi compensativi.
 
 <sup>2</sup> Le prestazioni in natura e le mance vengono valutate in base alle aliquote valide per l'assicurazione federale vecchiaia e superstiti.
 
-<sup>3</sup> Nel determinare le tariffe fiscali si tiene conto della situazione familiare (art. 39), degli importi globali per le spese professionali (art. 31), dei premi d'assicurazione (art. 36 lett. d, e ed h), nonché delle deduzioni per gli oneri familiari (art. 38 cpv. 1 lett. d).
+<sup>3</sup> Nel determinare le tariffe fiscali si tiene conto della situazione familiare (art. 39), degli importi globali per le spese professionali (art. 31), dei premi d'assicurazione (art. 36 lett. d, lett. e e lett. h), nonché delle deduzioni per gli oneri familiari (art. 38 cpv. 1 lett. d). L'Amministrazione delle imposte pubblica i singoli importi globali.
 
 <sup>4</sup> L'imposta per coniugi viventi in costanza di matrimonio ed esercitanti entrambi attività lucrativa viene calcolata in base a una tariffa dei doppi redditi coniugali che tiene conto del secondo reddito, il quale aumenta la progressione, degli importi globali e delle deduzioni ai sensi del capoverso 3, nonché della detrazione per doppio reddito coniugale (articolo 38 lettera b).
 
 <sup>5</sup> …
+
+<sup>5<sup>bis</sup></sup> Sono applicabili i criteri definiti dall'Amministrazione federale delle contribuzioni in virtù dell'articolo 33 capoverso 4 della legge federale sull'armonizzazione delle imposte dirette dei Cantoni e dei Comuni[^99-1] riguardo alla considerazione delle tredicesime mensilità, delle gratifiche, dell'occupazione irregolare, del lavoro rimunerato su base oraria, del reddito derivante da un'attività lucrativa a tempo parziale o accessoria e degli elementi determinanti l'aliquota nonché regole inerenti il cambiamento di tariffa, l'adeguamento o la correzione retroattivi dei salari e prestazioni fornite prima dell'inizio o dopo il termine dell'impiego.
+
+[^99-1]: RS [642.14](https://db.clex.ch/link/Bund/642.14/it)
 
 #### Art. 99a
 
@@ -1721,7 +1756,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 #### Art. 100
 
-**2. Artisti e sportivi**
+**2. Artisti, sportivi e conferenzieri**
 
 <sup>1</sup> I professionisti dello spettacolo residenti all'estero quali i musicisti, gli attori nonché gli sportivi e i conferenzieri vengono imposti alla fonte per le entrate dalla loro attività personale nel Cantone e per altre indennità ad essa congiunte.
 
@@ -1731,13 +1766,20 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>4</sup> Le imposte per il Cantone e i comuni ammontano per ognuno al 6 per cento dei proventi imponibili.
 
-<sup>5</sup> Sono considerati proventi imponibili le entrate lorde, comprensive di redditi accessori e indennità, fatta deduzione dei costi di conseguimento.
+<sup>5</sup> Sono considerati proventi imponibili i proventi lordi, comprensivi di redditi accessori e indennità, fatta deduzione dei costi di conseguimento. Questi ultimi ammontano:
+
+- a) al 50 per cento dei proventi lordi per gli artisti;
+- b) al 20 per cento dei proventi lordi per gli sportivi e i conferenzieri.
+
+<sup>6</sup> L'imposta alla fonte non viene riscossa se i proventi lordi non raggiungono l'ammontare stabilito dal Dipartimento federale delle finanze in virtù dell'articolo 92 capoverso 5 della legge federale sull'imposta federale diretta[^100-1].
+
+[^100-1]: RS [642.11](https://db.clex.ch/link/Bund/642.11/it)
 
 #### Art. 101
 
 **3. Consiglieri d'amministrazione**
 
-<sup>1</sup> I membri residenti all'estero dell'amministrazione o della direzione di persone giuridiche con sede o amministrazione effettiva nel Cantone vengono imposti alla fonte per i tantième, i gettoni di presenza, le indennità fisse, i vantaggi valutabili in denaro risultanti da partecipazioni di collaboratore e simili rimunerazioni percepite.
+<sup>1</sup> I membri residenti all'estero dell'amministrazione o della direzione di persone giuridiche con sede o amministrazione effettiva nel Cantone vengono imposti alla fonte per i tantième, i gettoni di presenza, le indennità fisse, i vantaggi valutabili in denaro risultanti da partecipazioni di collaboratore e simili rimunerazioni percepite. Lo stesso vale se tali rimunerazioni sono versate a un terzo.
 
 <sup>2</sup> I membri residenti all'estero dell'amministrazione o della direzione di imprese estere, che conducono nel Cantone stabilimenti d'impresa o aziende commerciali, vengono imposti alla fonte per i tantième, i gettoni di presenza, le indennità fisse, i vantaggi valutabili in denaro risultanti da partecipazioni di collaboratore e simili rimunerazioni versate a carico degli stabilimenti d'impresa o delle aziende.
 
@@ -1773,7 +1815,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 **II. Collaborazione del debitore della prestazione imponibile**
 
-<sup>1</sup> Il debitore della prestazione imponibile riceve una provvigione di riscossione del tre per cento delle imposte conteggiate in caso di conteggio elettronico e del due per cento in caso di conteggio cartaceo e in cambio è tenuto a:
+<sup>1</sup> Il debitore della prestazione imponibile è tenuto a:
 
 - a) ritenere sui versamenti in contanti l'importo fiscale dovuto e in caso di altre prestazioni (in particolare prestazioni in natura e mance) riscuotere l'imposta dovuta dal creditore della prestazione,
 - b) compilare per il contribuente una distinta o una ricevuta della deduzione fiscale effettuata,
@@ -1781,59 +1823,116 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 - d) notificare all'autorità fiscale competente le persone soggette all'imposta alla fonte, entro 8 giorni dall'avvio dell'attività determinante l'imposta,
 - e) versare la quota proporzionale dell'imposta sulle opzioni di collaboratore esercitate all'estero; il datore di lavoro deve la quota proporzionale dell'imposta anche se il vantaggio valutabile in denaro è versato da una società estera del gruppo.
 
-<sup>2</sup> La deduzione fiscale va fatta anche se il contribuente è assoggettato all'imposta in un altro cantone.
+<sup>2</sup> La ritenuta alla fonte va fatta anche se il contribuente è assoggettato all'imposta in un altro Cantone.
 
 <sup>3</sup> Il debitore della prestazione imponibile risponde del pagamento dell'imposta alla fonte.
+
+<sup>3<sup>bis</sup></sup> Il debitore della prestazione imponibile riceve una provvigione di riscossione del due per cento dell'importo complessivo dell'imposta alla fonte in caso di conteggio elettronico e dell'uno per cento in caso di conteggio cartaceo. Per le prestazioni in capitale la provvigione di riscossione è pari all'uno per cento dell'ammontare complessivo dell'imposta alla fonte, ma al massimo a 50 franchi per ogni prestazione in capitale per quanto concerne l'imposta alla fonte di Confederazione, Cantone, Comune e di culto.
 
 <sup>4</sup> L'Amministrazione cantonale delle imposte può esigere del tutto o in parte le provvigioni di riscossione trattenute dal debitore della prestazione imponibile, se egli non adempie o non adempie in modo sufficiente i suoi obblighi di partecipazione conformemente al capoverso 1.
 
 #### Art. 105
 
-**III. Riserva della tassazione ordinaria 1. Tassazione ordinaria complementare**
-
-<sup>1</sup> Le persone soggette all'imposta alla fonte giusta l'articolo 98 capoverso 1 lettera a) o l'articolo 99a vengono tassate per il reddito non soggetto a deduzione fiscale alla fonte nonché per la loro sostanza nella procedura ordinaria. Per contribuenti di cui all'articolo 98 capoverso 1 lettera a fa stato per analogia l'articolo 9.
-
-<sup>2</sup> …
-
-<sup>3</sup> …
+**…**
 
 #### Art. 105a
 
-**2. Tassazione ordinaria successiva**
+**III. Riserva della tassazione ordinaria 1. Domicilio in Svizzera a) Tassazione ordinaria ulteriore obbligatoria**
 
-<sup>1</sup> Se le entrate lorde soggette a deduzione fiscale alla fonte di una persona tassata secondo l'articolo 98 capoverso 1 lettera a) superano in un anno civile l'importo fissato dal Governo, viene effettuata una tassazione successiva per il reddito e la sostanza complessivi. L'imposta dedotta alla fonte viene computata senza l'aggiunta degli interessi; le imposte riscosse in eccedenza vengono rimborsate senza interessi.
+<sup>1</sup> Le persone assoggettate all'imposta alla fonte conformemente all'articolo 98 capoverso 1 lettera a sono tassate secondo la procedura ordinaria ulteriore se:
+
+- a) il loro reddito lordo nel corso di un anno fiscale raggiunge o supera l'importo stabilito dal Dipartimento federale delle finanze in virtù dell'articolo 33a capoverso 2 della legge federale sull'armonizzazione delle imposte dirette dei Cantoni e dei Comuni[^105a-1]; o
+- b) dispongono di sostanza e di proventi non imponibili alla fonte.
 
 <sup>2</sup> Se l'assoggettamento nel Cantone non è durato un anno civile intero, fanno stato le entrate lorde tassate alla fonte e convertite su dodici mesi.
 
-<sup>3</sup> Negli anni seguenti fino al termine dell'assoggettamento all'imposta alla fonte viene eseguita una tassazione posticipata per il reddito e la sostanza complessivi anche nel caso in cui l'importo stabilito dal Governo sia inferiore.
+<sup>3</sup> È tassato secondo la procedura ordinaria ulteriore anche il coniuge che vive in comunione domestica con una persona di cui al capoverso 1.
 
-<sup>4</sup> Le persone tassate secondo l'articolo 98 capoverso 1 lettera a, nonché i quasi residenti secondo l'articolo 98 capoverso 1 lettera b possono richiedere la concessione di deduzioni non considerate nelle tariffe. Il Governo fissa le deduzioni per le quali è possibile una correzione della tariffa.
+<sup>4</sup> Le persone che dispongono di sostanza e di proventi secondo il capoverso 1 lettera b devono chiedere la dichiarazione d'imposta all'Amministrazione cantonale delle imposte entro il 31 marzo dell'anno successivo al corrispondente anno fiscale.
 
-<sup>5</sup> La correzione della tariffa e la tassazione ordinaria successiva possono essere chieste al massimo fino alla fine di marzo dell'anno successivo all'anno fiscale.
+<sup>5</sup> La tassazione ordinaria ulteriore si applica fino al termine dell'assoggettamento all'imposta alla fonte.
 
-<sup>6</sup> Se richiesto dalla giurisprudenza o da accordi internazionali il Governo può estendere la tassazione ordinaria successiva e la correzione della tariffa ad altre persone soggette all'imposta alla fonte.
+<sup>6</sup> L'imposta trattenuta alla fonte è computata senza interessi.
+
+[^105a-1]: RS [642.14](https://db.clex.ch/link/Bund/642.14/it)
+
+#### Art. 105abis
+
+**b) Tassazione ordinaria ulteriore su richiesta**
+
+<sup>1</sup> Le persone assoggettate all'imposta alla fonte conformemente all'articolo 98 capoverso 1 lettera a e che non soddisfano nessuna delle condizioni di cui all'articolo 105a capoverso 1 sono tassate secondo la procedura ordinaria ulteriore su richiesta.
+
+<sup>2</sup> La richiesta concerne anche il coniuge non separato legalmente o di fatto del richiedente.
+
+<sup>3</sup> La richiesta deve essere presentata all'Amministrazione cantonale delle imposte entro il 31 marzo dell'anno successivo al corrispondente anno fiscale. Per le persone che lasciano la Svizzera il termine per la presentazione della richiesta scade al momento della notificazione della loro partenza.
+
+<sup>4</sup> Se la tassazione ordinaria ulteriore non è richiesta, l'imposta alla fonte sostituisce le imposte federali, cantonali, comunali e di culto sul reddito da attività lucrativa calcolate secondo la procedura ordinaria. Successivamente non sono concesse altre deduzioni supplementari.
+
+<sup>5</sup> È applicabile l'articolo 105a capoverso 5 e capoverso 6.
+
+#### Art. 105ater
+
+**2. Domicilio all'estero a) Tassazione ordinaria ulteriore su richiesta**
+
+<sup>1</sup> Le persone assoggettate all'imposta alla fonte secondo l'articolo 98 capoverso 1 lettera b o lettera c possono, entro il 31 marzo dell'anno successivo al corrispondente anno fiscale, richiedere una tassazione ordinaria ulteriore per ogni periodo fiscale se:
+
+- a) la parte preponderante dei loro proventi mondiali, compresi i proventi del coniuge, è imponibile in Svizzera;
+- b) la loro situazione è paragonabile a quella di un contribuente domiciliato in Svizzera; o
+- c) siffatta tassazione è necessaria per far valere deduzioni previste in convenzioni intese ad evitare la doppia imposizione.
+
+<sup>2</sup> L'imposta trattenuta alla fonte è computata senza interessi.
+
+<sup>3</sup> Il Dipartimento federale delle finanze precisa, in collaborazione con i Cantoni, le condizioni menzionate nel capoverso 1 e disciplina la procedura.
+
+#### Art. 105aquater
+
+**b) Tassazione ordinaria ulteriore d'ufficio**
+
+<sup>1</sup> In situazioni estreme, in particolare per quanto concerne le deduzioni forfettarie computate nell'aliquota dell'imposta alla fonte, l'Amministrazione cantonale delle imposte può procedere a una tassazione ordinaria ulteriore d'ufficio a favore o a sfavore del contribuente.
+
+<sup>2</sup> L'imposta trattenuta alla fonte è computata senza interessi.
+
+<sup>3</sup> Il Dipartimento federale delle finanze disciplina le condizioni di cui al capoverso 1 in collaborazione con i Cantoni.
+
+#### Art. 105aquinquies
+
+**c) Imposta considerata**
+
+<sup>1</sup> Se non avviene nessuna tassazione ordinaria ulteriore secondo l'articolo 105a<sup>ter</sup> o l'articolo105a<sup>quater</sup>, l'imposta alla fonte sostituisce le imposte federali, cantonali, comunali, delle Chiese riconosciute dallo Stato e dei comuni parrocchiali riscosse sul reddito da attività lucrativa secondo la procedura ordinaria. Successivamente non sono concesse altre deduzioni supplementari.
 
 #### Art. 105b
 
-**IV. Rapporti intercantonali 1. Contribuenti extracantonali**
+**IV. Competenza territoriale**
 
-<sup>1</sup> Se il contribuente, per il quale il debitore della prestazione imponibile con domicilio, sede o stabilimento d'impresa nel Cantone ha effettuato la deduzione fiscale, non è soggetto all'obbligo fiscale nel Cantone, l'autorità fiscale cantonale bonifica le imposte pagate alla competente autorità fiscale del cantone autorizzato all'imposizione.
+<sup>1</sup> Il debitore della prestazione imponibile calcola e riscuote l'imposta alla fonte come segue:
 
-<sup>2</sup> Se una persona fisica assoggettata all'imposta secondo l'articolo 98 capoverso 1 lettera a) e capoverso 2, nonché gli articoli 99 e 105a della legge trasferisce il proprio domicilio o la propria dimora all'interno della Svizzera, il cantone di domicilio o di dimora interessato ha diritto di tassarla proporzionalmente alla durata dell'assoggettamento.
+- a) per i lavoratori di cui all'articolo 98 capoverso 1 lettera a: secondo il diritto del Cantone in cui il lavoratore ha il domicilio o la dimora fiscale alla scadenza della prestazione imponibile;
+- b) per le persone di cui all'articolo 98 capoverso 1 lettera b e lettera c nonché all'articolo 101 - articolo 103a: secondo il diritto del Cantone in cui il debitore della prestazione imponibile ha il domicilio o la dimora fiscale oppure la sede o l'amministrazione alla scadenza della prestazione imponibile; se la prestazione imponibile è versata da uno stabilimento d'impresa situato in un altro Cantone o dallo stabilimento di un'impresa senza sede o amministrazione effettiva in Svizzera, il calcolo e la riscossione dell'imposta alla fonte si fondano sul diritto del Cantone in cui è situato lo stabilimento d'impresa;
+- c) per le persone di cui all'articolo 100: secondo il diritto del Cantone in cui gli artisti, gli sportivi o i conferenzieri esercitano la loro attività.
+
+<sup>2</sup> Se il lavoratore di cui all'articolo 98 capoverso 1 lettera b è un dimorante settimanale, si applica per analogia il capoverso 1 lettera a.
+
+<sup>3</sup> Il debitore della prestazione imponibile versa l'imposta alla fonte al Cantone competente secondo il capoverso 1.
+
+<sup>4</sup> Per la tassazione ordinaria ulteriore è competente:
+
+- a) per i lavoratori di cui al capoverso 1 lettera a: il Cantone in cui il contribuente aveva il domicilio o la dimora fiscale alla fine del periodo fiscale o dell'assoggettamento;
+- b) per le persone di cui al capoverso 1 lettera b: il Cantone in cui il contribuente esercitava l'attività lucrativa alla fine del periodo fiscale o dell'assoggettamento;
+- c) per i lavoratori di cui al capoverso 2: il Cantone in cui il contribuente era dimorante settimanale alla fine del periodo fiscale o dell'assoggettamento.
 
 #### Art. 105c
 
-**2. Debitori extracantonali**
+**V. Relazioni intercantonali**
 
-<sup>1</sup> I contribuenti imponibili in misura illimitata o limitata nel Cantone, per i quali un debitore extracantonale della prestazione imponibile ha effettuato la deduzione fiscale, sono soggetti all'obbligo dell'imposta alla fonte secondo la presente legge.
+<sup>1</sup> Il Cantone competente secondo l'articolo 105b capoverso 4 ha diritto a eventuali importi di imposta alla fonte versati ad altri Cantoni durante l'anno civile. Le imposte riscosse in eccesso sono restituite al lavoratore senza interessi; è invece chiesto il pagamento senza interessi di quelle non ancora versate.
 
-<sup>2</sup> L'imposta dedotta e versata dal debitore extracantonale viene computata senza interessi a quella dovuta secondo la presente legge.
+<sup>2</sup> I Cantoni si prestano gratuitamente assistenza amministrativa e giudiziaria per la riscossione dell'imposta alla fonte.
 
-<sup>3</sup> Le imposte riscosse in eccedenza vengono restituite senza interessi al contribuente; le imposte riscosse in misura insufficiente vengono incassate presso quest'ultimo senza interessi.
+<sup>3</sup> …
 
 #### Art. 105d
 
-**V. Quote dei comuni e dei comuni parrocchiali**
+**VI. Quote dei comuni e dei comuni parrocchiali**
 
 <sup>1</sup> Le quote dei comuni contenute nella deduzione fiscale vengono assegnate al comune in cui all'atto della scadenza della prestazione imponibile:
 
@@ -1842,6 +1941,8 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 - c) l'artista, lo sportivo o il conferenziere domiciliato all'estero esercita la sua attività;
 - d) la persona giuridica o l'impresa estera, nella cui amministrazione o direzione è attivo un contribuente domiciliato all'estero, ha sede o stabilimento d'impresa;
 - e) è situato il fondo su cui è garantito da pegno immobiliare o manuale un credito di un creditore o usufruttuario domiciliato all'estero.
+
+<sup>1<sup>bis</sup></sup> Se il lavoratore di cui all'articolo 98 capoverso 1 lettera b è un dimorante settimanale, si applica per analogia il capoverso 1 lettera a.
 
 <sup>2</sup> Le quote comunali delle imposte sulle prestazioni di previdenza vengono ripartite fra i comuni politici secondo il numero degli abitanti alla fine dell'anno precedente in base alla statistica federale annuale della popolazione.
 
@@ -1853,7 +1954,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 #### Art. 105e
 
-**VI. Comuni, Chiese riconosciute dallo Stato, comuni parrocchiali**
+**VII. Comuni, Chiese riconosciute dallo Stato, comuni parrocchiali**
 
 <sup>1</sup> Le imposte alla fonte riscosse per i comuni, rispettivamente per le Chiese riconosciute dallo Stato e i loro comuni parrocchiali, dedotto l'indennizzo netto secondo l'articolo 165a e l'articolo 171 capoverso 2 lettera b, vengono trasmesse agli enti pubblici aventi diritto una volta pervenuto il pagamento.
 
@@ -2155,37 +2256,49 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 #### Art. 123a
 
-**II. Posizione dei coniugi nei confronti dell'imposta sul reddito e sulla sostanza**
+**II. Trasmissione elettronica senza firma**
 
-<sup>1</sup> Coniugi che vivono in costanza di matrimonio di diritto e di fatto esercitano assieme i diritti e i doveri procedurali che giusta la presente legge spettano al contribuente.
+<sup>1</sup> Se la firma degli atti scritti del contribuente è prescritta per legge, in caso di trasmissione degli atti per via elettronica è possibile rinunciare alla firma. In questo caso il contribuente è tenuto a confermare i suoi dati per via elettronica.
 
-<sup>2</sup> Essi sottoscrivono assieme la dichiarazione fiscale. Qualora la dichiarazione fiscale sia firmata da uno solo dei due coniugi, viene accordato all'altro coniuge un periodo di tempo[^123a-1]. Una volta decorso inutilizzato il termine si presume la delega contrattuale tra coniugi.
+<sup>2</sup> Il Governo emana le necessarie disposizioni esecutive.
 
-<sup>3</sup> I rimedi legali e altre istanze sono considerati inoltrati tempestivamente se un coniuge agisce entro il termine.
+<sup>3</sup> …
 
-<sup>4</sup> Tutte le comunicazioni delle autorità fiscali a contribuenti coniugati che vivono in costanza di matrimonio di fatto e di diritto vengono indirizzate ad entrambi i coniugi. Consegne a coniugi separati di fatto o di diritto avvengono singolarmente per ogni coniuge, nella misura in cui la separazione sia stata comunicata alle autorità fiscali.
-
-[^123a-1]: Art. 47 DELIG; CSC [720.015](https://www.gr-lex.gr.ch/data/720.015/it)
+<sup>4</sup> …
 
 #### Art. 123b
 
-**III. Delega contrattuale**
+**III. Posizione dei coniugi nei confronti dell'imposta sul reddito e sulla sostanza**
 
-<sup>1</sup> Il contribuente può farsi rappresentare in via contrattuale dinanzi alle autorità incaricate dell'esecuzione della presente legge, per quanto la sua personale collaborazione non sia necessaria.
+<sup>1</sup> Coniugi non separati legalmente o di fatto esercitano insieme i diritti e i doveri procedurali che in conformità alla presente legge spettano al contribuente.
 
-<sup>2</sup> Quale rappresentante è ammesso chiunque possieda l'esercizio dei diritti civili. L'autorità può invitare il rappresentante a comprovare in forma scritta la sua procura.
+<sup>2</sup> Essi firmano insieme la dichiarazione fiscale. Qualora la dichiarazione fiscale sia firmata da uno solo dei due coniugi, all'altro coniuge viene accordato un termine per farlo[^123b-1]. Una volta decorso inutilizzato il termine si presume la delega contrattuale tra coniugi.
+
+<sup>3</sup> I rimedi legali e altre istanze sono considerati inoltrati tempestivamente se un coniuge agisce entro il termine.
+
+<sup>4</sup> Tutte le comunicazioni delle autorità fiscali a contribuenti coniugati non separati legalmente o di fatto vengono indirizzate a entrambi i coniugi. Consegne a coniugi separati di fatto o di diritto avvengono singolarmente per ogni coniuge, nella misura in cui la separazione sia stata comunicata alle autorità fiscali.
+
+[^123b-1]: art. 47 DELIG; CSC [720.015](https://www.gr-lex.gr.ch/data/720.015/it)
 
 #### Art. 123c
 
-**IV. Delega necessaria**
+**IV. Delega contrattuale**
 
-<sup>1</sup> I contribuenti senza un indirizzo di recapito in Svizzera devono indicare, su richiesta dell'autorità di tassazione, una persona delegata residente in Svizzera.
+<sup>1</sup> Il contribuente può farsi rappresentare in via contrattuale dinanzi alle autorità incaricate dell'esecuzione della presente legge, se la sua personale collaborazione non è necessaria.
+
+<sup>2</sup> Quale rappresentante è ammesso chiunque possieda l'esercizio dei diritti civili. L'autorità può invitare il rappresentante a comprovare in forma scritta la sua procura.
+
+#### Art. 123d
+
+**V. Rappresentanza obbligatoria**
+
+<sup>1</sup> I contribuenti senza un recapito in Svizzera devono indicare, su richiesta dell'autorità di tassazione, una persona delegata residente in Svizzera.
 
 <sup>2</sup> Più eredi devono designare un rappresentante entro un termine la cui determinazione spetta all'Amministrazione cantonale delle imposte.
 
 #### Art. 124
 
-**V. Termini**
+**VI. Termini**
 
 <sup>1</sup> I termini stabiliti dalla legge non possono essere prorogati.
 
@@ -2197,7 +2310,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 #### Art. 125
 
-**VI. Prescrizione 1. Prescrizione della tassazione**
+**VII. Prescrizione 1. Prescrizione della tassazione**
 
 <sup>1</sup> Il diritto di tassare cade in prescrizione, per imposte periodiche dopo cinque anni dalla fine del periodo fiscale, per imposte non periodiche dopo cinque anni dalla fine dell'anno in cui si è verificata la fattispecie causante l'imposizione.
 
@@ -2251,7 +2364,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>1</sup> I contribuenti sono invitati a presentare una dichiarazione d'imposta con un avviso pubblico o con l'invio del relativo modulo[^127-1]. Coloro che non ricevono il modulo devono chiederlo all'autorità fiscale comunale. Deve essere inoltrata una dichiarazione d'imposta anche al termine dell'assoggettamento.
 
-<sup>2</sup> Il contribuente deve compilare la sua dichiarazione d'imposta in modo veritiero e completo, firmarla validamente e inviarla con i documenti richiesti entro il termine stabilito. La firma digitale è equiparata alla firma autografa. Il Governo può ammettere l'inoltro della dichiarazione d'imposta per via elettronica.
+<sup>2</sup> Il contribuente deve compilare la sua dichiarazione d'imposta in modo veritiero e completo, firmarla validamente e inviarla con i documenti richiesti entro il termine stabilito. Il Governo può ammettere l'inoltro della dichiarazione d'imposta per via elettronica.
 
 <sup>3</sup> Le persone fisiche con reddito da attività lucrativa indipendente e le persone giuridiche devono allegare alla dichiarazione d'imposta i conti annuali sottoscritti (bilanci, conto profitti e perdite e allegato) del periodo di computo oppure, in caso di contabilità semplificata secondo l'articolo 957 capoverso 2 CO, una distinta delle entrate e delle uscite, della situazione patrimoniale nonché dei prelievi e apporti privati.
 
@@ -2377,7 +2490,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 **I. Reclamo 1. Presupposti**
 
-<sup>1</sup> Contro le decisioni definitive di tassazione il contribuente può presentare reclamo scritto all'autorità di tassazione entro 30 giorni dalla notifica della decisione di tassazione.
+<sup>1</sup> Contro le decisioni definitive di tassazione il contribuente può presentare reclamo scritto all'autorità di tassazione entro 30 giorni dalla notifica della decisione di tassazione. Il Governo può ammettere l'inoltro del reclamo per via elettronica.
 
 <sup>2</sup> …
 
@@ -2467,7 +2580,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>1</sup> Se da fatti o da prove ignoti all'autorità di tassazione risulta che una tassazione è stata omessa ingiustamente o che una tassazione passata in giudicato è incompleta o che una tassazione omessa o incompleta è dovuta a un crimine o a un delitto contro l'autorità di tassazione, l'imposta non incassata verrà riscossa insieme con l'interesse a titolo di ricupero d'imposta.
 
-<sup>2</sup> Quale nuovo dato di fatto vale anche l'inosservanza del termine di divieto ai sensi degli articoli 20 e 83 nonché l'alienazione di un fondo dopo una sostituzione di beni intercantonale conformemente all'articolo 44. In caso di sostituzione di beni non viene riscosso un interesse di mora.
+<sup>2</sup> Quale nuovo dato di fatto vale anche l'inosservanza del termine di blocco ai sensi dell'articolo 20 e dell'articolo 83.
 
 <sup>3</sup> Il ricupero d'imposta non può essere operato, nemmeno nel caso di valutazione insufficiente, se il contribuente ha presentato una dichiarazione completa e precisa del reddito, della sostanza, dell'utile netto o del capitale proprio e se l'autorità di tassazione ha accettato la valutazione.
 
@@ -2642,7 +2755,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>1</sup> Le imposte, le spese o le multe possono venir condonate del tutto o in parte a contribuenti venuti a trovarsi nel disagio o ai quali il pagamento riuscirebbe oltremodo gravoso per altre ragioni.
 
-<sup>2</sup> La domanda di condono, motivata e corredata dei mezzi di prova necessari, va presentata per iscritto all'Amministrazione cantonale delle imposte. Non si può entrare nel merito di una domanda di condono che è stata presentata soltanto dopo l'avvio dell'esecuzione.
+<sup>2</sup> La domanda di condono, motivata e corredata dei mezzi di prova necessari, va presentata per iscritto all'Amministrazione cantonale delle imposte. Non si può entrare nel merito di una domanda di condono presentata soltanto dopo l'avvio dell'esecuzione. Il Governo può ammettere l'inoltro della domanda di condono per via elettronica.
 
 <sup>3</sup> Decidono la domanda di condono relativa all'imposta cantonale
 
@@ -3327,9 +3440,15 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>4</sup> La regolamentazione dell'indennità si basa sulla regolamentazione delle competenze.
 
+#### Art. 191a
+
+**8. Correzione della tariffa**
+
+<sup>1</sup> La correzione della tariffa è ammessa ancora per l'anno fiscale 2020. Essa può essere richiesta al più tardi entro il 31 marzo 2021.
+
 #### Art. 192
 
-**8. Disposizioni complementari**
+**9. Disposizioni complementari**
 
 <sup>1</sup> Il Governo mediante ordinanza può emanare altre disposizioni transitorie, se esse si impongono cogentemente per motivi giuridici o amministrativi o se l'applicazione immediata e illimitata del nuovo diritto provocherebbe situazioni eccessivamente gravose.
 
