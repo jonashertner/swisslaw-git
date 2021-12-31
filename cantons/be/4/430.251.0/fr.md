@@ -4,13 +4,13 @@ number: "430.251.0"
 title: Ordonnance sur le statut du corps enseignant
 short: OSE
 language: fr
-version: 2021-11-01
-valid_until: 2021-12-31
-version_adopted: 2021-09-01
+version: 2022-01-01
+valid_until: 2022-04-30
+version_adopted: 2021-11-10
 adopted: 2007-03-28
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/430.251.0"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2364/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2476/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2364/pdf_file"
 
 (OSE)
 
-du 28.03.2007 (état au 01.11.2021)
+du 28.03.2007 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -548,13 +548,13 @@ arrête:
 
 **Indemnisation du corps enseignant**
 
-<sup>1</sup> Tout membre du corps enseignant de l’école obligatoire qui, en raison de mesures pédagogiques particulières selon l’ordonnance du 19 septembre 2007 régissant les mesures pédagogiques particulières à l’école enfantine et à l’école obligatoire (OMPP)[^45a-1], voit sa charge de travail augmenter considérablement parce qu’il doit s’entretenir avec des spécialistes ou se déplacer d’un lieu de travail à un autre, est indemnisé à raison de deux leçons par semaine au maximum.
+<sup>1</sup> Tout membre du corps enseignant de l’école obligatoire qui, en raison de mesures pédagogiques particulières selon l’ordonnance du 19 septembre 2007 régissant les mesures de pédagogie spécialisée ordinaires et les mesures de soutien relevant de l'offre ordinaire de l'école obligatoire (OMO)[^45a-1], voit sa charge de travail augmenter considérablement parce qu’il doit s’entretenir avec des spécialistes ou se déplacer d’un lieu de travail à un autre, est indemnisé à raison de deux leçons par semaine au maximum.
 
 <sup>2</sup> Les inspecteurs et inspectrices scolaires décident de la charge de travail exceptionnelle et du montant de l’indemnisation.
 
 <sup>3</sup> La Direction de l’instruction publique et de la culture règle les détails par voie d’ordonnance.
 
-[^45a-1]: RSB 432.271.1
+[^45a-1]: RSB [432.271.1](https://www.belex.sites.be.ch/data/432.271.1/fr)
 
 #### Art. 46
 
@@ -1056,7 +1056,7 @@ arrête:
 
 <sup>2</sup> Les prescriptions de calcul ainsi que les principes applicables à l’utilisation et à la répartition des ressources attribuées aux pools sont fixés à l’annexe 4.
 
-<sup>3</sup> Le service désigné de la Direction de l’instruction et de la culture publique fixe le pool de direction ainsi que le pool destiné à la direction de l’enseignement spécialisé.
+<sup>3</sup> Le service désigné de la Direction de l’instruction publique et de la culture fixe le pool de direction ainsi que le pool destiné à la direction de l’enseignement spécialisé.
 
 #### Art. 92
 

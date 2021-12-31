@@ -4,13 +4,13 @@ number: "430.251.0"
 title: Verordnung über die Anstellung der Lehrkräfte
 short: LAV
 language: de
-version: 2021-11-01
-valid_until: 2021-12-31
-version_adopted: 2021-09-01
+version: 2022-01-01
+valid_until: 2022-04-30
+version_adopted: 2021-11-10
 adopted: 2007-03-28
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/430.251.0"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2364/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2476/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2364/pdf_file"
 
 (LAV)
 
-vom 28.03.2007 (Stand 01.11.2021)
+vom 28.03.2007 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -549,13 +549,13 @@ geführt werden,
 
 **Abgeltung für Lehrkräfte**
 
-<sup>1</sup> Den Lehrkräften der Volksschule, die wegen besonderer Massnahmen nach der Verordnung vom 19. September 2007 über die besonderen Massnahmen in der Volksschule (BMV)[^45a-1] durch Gespräche mit Fachpersonen oder durch Anfahrtszeiten wegen der verschiedenen Einsatzorte ausserordentlich belastet sind, wird dieser Aufwand mit je höchstens zwei Lektionen pro Woche abgegolten.
+<sup>1</sup> Den Lehrkräften der Volksschule, die wegen besonderer Massnahmen nach der Verordnung vom 19. September 2007 über die einfachen sonderpädagogischen und unterstützenden Massnahmen im Regelschulangebot (VMR)[^45a-1] durch Gespräche mit Fachpersonen oder durch Anfahrtszeiten wegen der verschiedenen Einsatzorte ausserordentlich belastet sind, wird dieser Aufwand mit je höchstens zwei Lektionen pro Woche abgegolten.
 
 <sup>2</sup> Die Schulinspektorinnen und Schulinspektoren entscheiden über die ausserordentliche Belastung und die Höhe der Abgeltung.
 
 <sup>3</sup> Die Bildungs- und Kulturdirektion regelt das Nähere durch Verordnung.
 
-[^45a-1]: BSG 432.271.1
+[^45a-1]: BSG [432.271.1](https://www.belex.sites.be.ch/data/432.271.1/de)
 
 #### Art. 46
 
