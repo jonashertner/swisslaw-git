@@ -4,11 +4,11 @@ title: "Ordinanza del 31 agosto 1983 sull'assicurazione obbligatoria contro la d
 short: OADI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: it
-version: 2021-10-01
+version: 2022-01-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20211001/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20211001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20211001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20211001/it"
 
 (Ordinanza sull’assicurazione contro la disoccupazione, OADI**[^t-1]**)
 
-del 31 agosto 1983 (Stato 1° ottobre 2021)
+del 31 agosto 1983 (Stato 1° gennaio 2022)
 
 [^t-1]: Nuova abbreviazione giusta il n. I dell’O del 28 ago. 1991 in vigore dal 1° gen. 1992 ([RU 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Di detta mod. è tenuto conto in tutto il presente testo.
 
@@ -553,11 +553,12 @@ Vi è situazione eccezionale ai sensi dell’articolo 16 capoverso 2 lettera i L
 
 <sup>1</sup> L’assicurato deve annunciarsi personalmente per il collocamento. L’annuncio può essere effettuato tramite la piattaforma di accesso ai servizi online (art. 83 cpv. 1<sup>bis</sup> lett. d LADI) o presentandosi presso il servizio competente (art. 18).
 
-<sup>2</sup> Al momento dell’annuncio, l’assicurato deve fornire il suo numero d’assicurato dell’AVS.
+<sup>2</sup> Al momento dell’annuncio, l’assicurato deve fornire il suo numero AVS[^19-2].
 
 <sup>3</sup> La data dell’annuncio è confermata all’assicurato per scritto.
 
 [^19-1]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^19-2]: Nuova espr. giusta l’all. n. II 41 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 19a
 
@@ -571,7 +572,7 @@ Vi è situazione eccezionale ai sensi dell’articolo 16 capoverso 2 lettera i L
 
 ### (art. 17 cpv. 2<sup>bis</sup> LADI)
 
-<sup>1</sup> Il servizio competente verifica la validità del numero d’assicurato dell’AVS.
+<sup>1</sup> Il servizio competente verifica la validità del numero AVS.
 
 <sup>2</sup> Il servizio competente verifica i dati dell’annuncio e li registra nel sistema d’informazione per il collocamento pubblico (art. 83 cpv. 1<sup>bis</sup> lett. b LADI).
 
@@ -1189,7 +1190,7 @@ Vi è colpa grave se l’assicurato, senza valido motivo:
 <sup>4</sup> e <sup>5</sup> ...[^46-2]
 
 [^46-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^46-2]: Abrogati dal n. I dell’O del 26 ago. 2020, con effetto dal 1° set. 2020 al 31 dic. 2021 ([RU 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651)[6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169), [382](https://fedlex.data.admin.ch/eli/oc/2021/382), [593](https://fedlex.data.admin.ch/eli/oc/2021/593)).
+[^46-2]: Abrogati dal n. II dell’O del 26 gen. 2022 (Proroga della procedura di conteggio sommaria e reintroduzione di altre misure), con effetto dal 1° gen. 2022 al 31 mar. 2022 ([RU 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
 
 #### Art. 46a
 
@@ -1278,12 +1279,12 @@ Il servizio cantonale può dare il suo consenso soltanto se il perfezionamento p
 
 <sup>1</sup> Per determinare il periodo di attesa si sommano i periodi di conteggio per cui sono state percepite indennità per lavoro ridotto ai periodi di conteggio per cui sono state percepite indennità per intemperie.
 
-<sup>2</sup> Per ogni periodo di conteggio, dalla perdita di lavoro computabile è dedotto un periodo d’attesa di un giorno.[^50-2]
+<sup>2</sup> ...[^50-2]
 
 <sup>3</sup> ...[^50-3]
 
 [^50-1]: Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^50-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 2020, in vigore dal 1° set. 2020 ([RU 2020 2875](https://fedlex.data.admin.ch/eli/oc/2020/524)).
+[^50-2]: Abrogato dal n. II dell’O del 26 gen. 2022 (Proroga della procedura di conteggio sommaria e reintroduzione di altre misure), con effetto dal 1° gen. 2022 al 31 mar. 2022 ([RU 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
 [^50-3]: Introdotto dal n. I dell’O del 19 set. 2003 ([RU 2003 3491](https://fedlex.data.admin.ch/eli/oc/2003/494)). Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 1° feb. 2016 al 31 lug. 2017 ([RU 2016 351](https://fedlex.data.admin.ch/eli/oc/2016/47)).
 
 #### Art. 51
@@ -1414,11 +1415,12 @@ Se il salario dell’ultimo mese di contribuzione si scosta di almeno il 10 per 
 
 ### (art. 35 cpv. 1<sup><sup>bis</sup></sup> LADI)
 
-<sup>1</sup> Se, durante il termine quadro, la perdita di lavoro supera l’85 per cento dell’orario normale di lavoro dell’azienda per più di quattro periodi di conteggio consecutivi o singoli, il diritto all’indennità per lavoro ridotto è dato soltanto per i primi quattro periodi di conteggio.
+<sup>1</sup> ...[^57a-2]
 
 <sup>2</sup> L’orario normale di lavoro dell’azienda è definito nell’articolo 46.
 
 [^57a-1]: Introdotto dal n. I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^57a-2]: Abrogato dal n. II dell’O del 26 gen. 2022 (Proroga della procedura di conteggio sommaria e reintroduzione di altre misure), con effetto dal 1° gen. 2022 al 31 mar. 2022 ([RU 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
 
 #### Art. 57b
 
@@ -1520,9 +1522,9 @@ I contributi padronali all’AVS/AI/IPG/AD per i periodi di perdita di lavoro so
 
 ### (art. 41 cpv. 4 LADI)
 
-Il reddito conseguito con un’occupazione provvisoria non è computato nel calcolo della perdita di guadagno
+Il reddito conseguito con un’occupazione provvisoria non è computato nel calcolo della perdita di guadagno.
 
-[^63-1]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° set. 2020 al 31 dic. 2021 ([RU 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651)[6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169), [382](https://fedlex.data.admin.ch/eli/oc/2021/382), [593](https://fedlex.data.admin.ch/eli/oc/2021/593)).
+[^63-1]: Nuovo testo giusta il n. II dell’O del 26 gen. 2022 (Proroga della procedura di conteggio sommaria e reintroduzione di altre misure), in vigore dal 1° gen. 2022 al 31 mar. 2022 ([RU 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
 
 #### Art. 64
 
@@ -1751,7 +1753,7 @@ La cassa preleva dall’indennità per insolvenza i contributi (quota del lavora
 L’assicurato che fa valere il diritto all’indennità per insolvenza deve presentare alla cassa di disoccupazione competente:
 
 - a. la domanda d’indennità per insolvenza;
-- b. il numero d’assicurato dell’AVS;
+- b. il numero AVS;
 - c. se è di cittadinanza straniera, il permesso per stranieri;
 - d. tutte le altre informazioni chieste dalla cassa di disoccupazione per valutare il diritto all’indennità.[^77-1]
 
@@ -2780,7 +2782,7 @@ Il servizio cantonale competente disciplina la collaborazione tra gli uffici di 
 - a. a informare l’URC sugli sforzi intrapresi in vista del collocamento e a notificargli i casi di comportamenti errati degli assicurati;
 - b.[^119cbis-2] a fornire all’URC le informazioni necessarie a quest’ultimo per svolgere il suo compito di osservazione del mercato di lavoro mediante il sistema d’informazione per il collocamento pubblico (art. 83 cpv. 1<sup>bis</sup> lett. b LADI).
 
-<sup>3</sup> Gli uffici di collocamento privati possono essere indennizzati mediante il fondo di compensazione per le prestazioni fornite. L’ufficio di compensazione determina le prestazioni che danno diritto a un’indennità e l’importo della stessa.
+<sup>2</sup> Gli uffici di collocamento privati possono essere indennizzati mediante il fondo di compensazione per le prestazioni fornite. L’ufficio di compensazione determina le prestazioni che danno diritto a un’indennità e l’importo della stessa.
 
 <sup>4</sup> I dati concernenti gli assicurati o gli impieghi liberi possono essere trasmessi agli uffici di collocamento privati o a terzi soltanto previo consenso degli assicurati e dei datori di lavoro interessati.
 
@@ -2817,6 +2819,30 @@ L’ufficio di compensazione approva le domande di partecipazione temporanea all
 <sup>1</sup> L’ufficio centrale di compensazione dell’AVS versa ogni mese i contributi disponibili all’ufficio di compensazione dell’assicurazione-disoccupazione.
 
 <sup>2</sup> Trasmette all’ufficio di compensazione dell’assicurazione-disoccupazione, entro il 30 aprile dell’anno seguente, un conteggio da cui risultino gli introiti in contributi dell’esercizio annuo, articolati secondo le singole casse di compensazione AVS.
+
+#### Art. 120a
+
+**Procedura per il conteggio con l’assicurazione invalidità**[^120a-1]
+
+### (art. 94a LADI, art. 68septies LAI)
+
+<sup>1</sup> L’ufficio di compensazione dell’assicurazione contro la disoccupazione presenta all’Ufficio centrale di compensazione dell’AVS, entro la fine di gennaio dell’anno successivo, un conteggio annuale a carico del Fondo di compensazione dell’assicurazione invalidità
+
+<sup>2</sup>
+
+Questo conteggio deve contenere almeno i dati seguenti:
+
+- [tab] a. indicazioni circa l’importo in franchi da rimborsare;
+- [tab] b. numeri d’assicurato AVS degli assicurati;
+- [tab] c. numero delle indennità giornaliere pagate;
+- [tab] d. contributi alle assicurazioni sociali; e
+- [tab] e. spese per i provvedimenti svolti inerenti al mercato del lavoro.
+
+<sup>2</sup> L’ufficio di compensazione dell’assicurazione contro la disoccupazione trasmette una copia del conteggio all’Ufficio federale delle assicurazioni sociali.
+
+<sup>4</sup> L’Ufficio centrale di compensazione dell’AVS verifica il conteggio e rimborsa le prestazioni di cui all’articolo 94a LADI.
+
+[^120a-1]: Introdotto dall’all. n. 6 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 ### Sezione 5: Commissione di sorveglianza
 

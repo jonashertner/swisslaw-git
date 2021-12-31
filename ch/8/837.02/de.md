@@ -4,11 +4,11 @@ title: "Verordnung vom 31. August 1983 über die obligatorische Arbeitslosenvers
 short: AVIV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: de
-version: 2021-10-01
+version: 2022-01-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20211001/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20211001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20211001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20211001/de"
 
 (Arbeitslosenversicherungsverordnung, AVIV)
 
-vom 31. August 1983 (Stand am 1. Oktober 2021)
+vom 31. August 1983 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -30,7 +30,7 @@ verordnet:
 [^ingress-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. April 2012 ([AS 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
 
-## Erster Titel:**** Anwendbarkeit des ATSG****
+## Erster Titel: Anwendbarkeit des ATSG
 
 [^tit1-1][^tit1-2]
 
@@ -67,7 +67,7 @@ Als kollektive arbeitsmarktliche Massnahmen im Sinne von Artikel 1 Absatz 3 AVIG
 [^1a-1]: Ursprünglich: Art. 1.
 [^1a-2]: Eingefügt durch Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
-## Titel 1*a*:**** Beiträge
+## Titel 1*a*: Beiträge
 
 [^tit1a-1]
 
@@ -182,7 +182,7 @@ Der Arbeitsausfall von teilweise Arbeitslosen (Art. 10 Abs. 2 Bst. b AVIG) ist a
 
 <sup>2</sup> Die übrigen Versicherten, die von der Erfüllung der Beitragszeit befreit sind, müssen eine Wartezeit von fünf Tagen bestehen.
 
-<sup>3</sup> ...[^6-6]
+<sup>3</sup> …[^6-6]
 
 <sup>4</sup> Die Wartezeit nach einer Saisontätigkeit (Art. 7) oder nach einer Tätigkeit in einem Beruf, in dem häufig wechselnde oder befristete Anstellungen üblich sind (Art. 8), beträgt einen Tag. Sie ist innerhalb einer Kontrollperiode nur einmal zu bestehen.
 
@@ -252,7 +252,7 @@ Als Berufe, in denen häufig wechselnde oder befristete Anstellungen üblich sin
 - e. Filmtechniker;
 - f. Journalist.
 
-<sup>2</sup> ...[^8-2]
+<sup>2</sup> …[^8-2]
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^8-2]: Aufgehoben durch Ziff. I der V vom 6. Nov. 1996, mit Wirkung seit 1. Jan. 1997 ([AS 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
@@ -385,7 +385,7 @@ Die berücksichtigten freiwilligen Leistungen werden in die Berechnung des versi
 
 <sup>4</sup> Die Beitragszeit von Teilzeitbeschäftigten wird nach den gleichen Regeln ermittelt wie bei Arbeitnehmern mit Vollzeitbeschäftigung. Übt der Versicherte gleichzeitig mehrere Teilzeitbeschäftigungen aus, so wird die Beitragszeit nur einmal gezählt.
 
-<sup>5</sup> ...[^11-1]
+<sup>5</sup> …[^11-1]
 
 [^11-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2000 ([AS 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)). Aufgehoben durch Ziff. I der V vom 2. März 2012, mit Wirkung seit 1. April 2012 ([AS 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
 
@@ -460,7 +460,7 @@ Ein ähnlicher Grund im Sinne von Artikel 14 Absatz 2 liegt insbesondere vor, we
 
 ### (Art. 15 Abs. 1 AVIG)
 
-<sup>1</sup> ...[^14-2]
+<sup>1</sup> …[^14-2]
 
 <sup>2</sup> Versicherte, die vor ihrer Arbeitslosigkeit als Heimarbeitnehmer beschäftigt waren, gelten nur dann als vermittlungsfähig, wenn sie bereit sind, auch ausserhäusliche Arbeit anzunehmen, es sei denn, sie weisen nach, dass sie dazu aufgrund ihrer persönlichen Verhältnisse nicht in der Lage sind.
 
@@ -508,7 +508,7 @@ Ausnahmefälle nach Artikel 16 Absatz 2 Buchstabe i AVIG liegen insbesondere vor
 
 [^17-1]: Fassung gemäss Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 
-### 2. Abschnitt: Anmeldung, Beratung und Kontrolle****
+### 2. Abschnitt: Anmeldung, Beratung und Kontrolle
 
 [^tit2-chap1-sec2-1]
 
@@ -549,11 +549,12 @@ Ausnahmefälle nach Artikel 16 Absatz 2 Buchstabe i AVIG liegen insbesondere vor
 
 <sup>1</sup> Die versicherte Person muss sich persönlich zur Arbeitsvermittlung anmelden. Die Anmeldung kann über die Zugangsplattform für elektronische Dienstleistungen (Art. 83 Abs. 1<sup>bis</sup> Bst. d AVIG) oder durch persönliches Erscheinen bei der zuständigen Amtsstelle (Art. 18) erfolgen.
 
-<sup>2</sup> Die versicherte Person muss bei der Anmeldung die Versichertennummer der AHV bekannt geben.
+<sup>2</sup> Die versicherte Person muss bei der Anmeldung die AHV-Nummer[^19-2] bekannt geben.
 
 <sup>3</sup> Der versicherten Person wird das Datum der Anmeldung schriftlich bestätigt.
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^19-2]: Ausdruck gemäss Anhang Ziff. II 41 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 19a
 
@@ -567,7 +568,7 @@ Ausnahmefälle nach Artikel 16 Absatz 2 Buchstabe i AVIG liegen insbesondere vor
 
 ### (Art. 17 Abs. 2<sup>bis</sup> AVIG)
 
-<sup>1</sup> Die zuständige Amtsstelle überprüft die Gültigkeit der Versichertennummer der AHV.
+<sup>1</sup> Die zuständige Amtsstelle überprüft die Gültigkeit der AHV-Nummer.
 
 <sup>2</sup> Sie überprüft die Anmeldedaten und speichert sie im Informationssystem für die öffentliche Arbeitsvermittlung (Art. 83 Abs. 1<sup>bis</sup> Bst. b AVIG).
 
@@ -630,11 +631,11 @@ Diese Daten geben Auskunft über:
 - a. die Werktage, für die die versicherte Person glaubhaft macht, dass sie arbeitslos und vermittlungsfähig war;
 - b. alle Tatsachen, die für die Beurteilung der Anspruchsberechtigung erheblich sind, wie Krankheit, Militärdienst, Ferienabwesenheit, Teilnahme an einer arbeitsmarktlichen Massnahme, Zwischenverdienst, Umfang des anrechenbaren Arbeitsausfalls.[^23-3]
 
-<sup>3</sup> ...[^23-4]
+<sup>3</sup> …[^23-4]
 
 <sup>4</sup> Die zuständige Amtsstelle stellt sicher, dass die versicherte Person am Monatsende über das Formular «Angaben der versicherten Person» verfügt.[^23-5]
 
-<sup>5</sup> ...[^23-6]
+<sup>5</sup> …[^23-6]
 
 [^23-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 1999, in Kraft seit 1. Jan. 2000 ([AS 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
 [^23-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
@@ -916,7 +917,7 @@ Im Sinne von Artikel 22 Absatz 2 Buchstabe c AVIG berücksichtigt werden Invalid
 
 <sup>3bis</sup> Bei Lohnschwankungen, die auf einen branchenüblichen Arbeitszeitkalender zurückzuführen sind, bemisst sich der versicherte Verdienst nach den Absätzen 1–3, jedoch höchstens aufgrund der vertraglich vereinbarten jahresdurchschnittlichen Arbeitszeit.[^37-5]
 
-<sup>3ter</sup> ...[^37-6]
+<sup>3ter</sup> …[^37-6]
 
 <sup>4</sup>
 
@@ -925,7 +926,7 @@ Der versicherte Verdienst wird neu festgesetzt, wenn innerhalb der Rahmenfrist f
 - a. die versicherte Person während mindestens sechs Monaten ununterbrochen eine beitragspflichtige Beschäftigung zu einem Lohn ausgeübt hat, der über dem versicherten Verdienst liegt, und sie erneut arbeitslos wird;
 - b. der Umfang des anrechenbaren Arbeitsausfalls der versicherten Person sich ändert.[^37-7]
 
-<sup>5</sup> ...[^37-8]
+<sup>5</sup> …[^37-8]
 
 [^37-1]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 [^37-2]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
@@ -1121,7 +1122,7 @@ Die Arbeitslosigkeit gilt insbesondere dann als selbstverschuldet, wenn der Vers
 - c. ein Arbeitsverhältnis von voraussichtlich längerer Dauer von sich aus aufgelöst hat und ein anderes eingegangen ist, von dem er wusste oder hätte wissen müssen, dass es nur kurzfristig sein wird, es sei denn, dass ihm das Verbleiben an der vorherigen Arbeitsstelle nicht zugemutet werden konnte;
 - d. eine unbefristete zumutbare Stelle nicht angenommen hat und stattdessen ein Arbeitsverhältnis eingegangen ist, von dem er wusste oder hätte wissen müssen, dass es nur kurzfristig sein wird.
 
-<sup>2</sup> ...[^44-4]
+<sup>2</sup> …[^44-4]
 
 [^44-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
 [^44-2]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
@@ -1176,10 +1177,10 @@ Ein schweres Verschulden liegt vor, wenn die versicherte Person ohne entschuldba
 
 <sup>3</sup> Mit dem ersten Tag der ersten Abrechnungsperiode, für die Kurzarbeits- oder Schlechtwetterentschädigung ausgerichtet wird, beginnt eine zweijährige Rahmenfrist für den Leistungsbezug.
 
-<sup>4</sup> und <sup>5</sup> ...[^46-2]
+<sup>4</sup> und <sup>5</sup> …[^46-2]
 
 [^46-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 1999, in Kraft seit 1. Jan. 2000 ([AS 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^46-2]: Aufgehoben durch Ziff. I der V vom 26. Aug. 2020, mit Wirkung vom 1. Sept. 2020 bis zum 31. Dez. 2021 ([AS 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169), [382](https://fedlex.data.admin.ch/eli/oc/2021/382), [593](https://fedlex.data.admin.ch/eli/oc/2021/593)).
+[^46-2]: Aufgehoben durch Ziff. II der V vom 26. Jan. 2022 (Verlängerung des summarischen Abrechnungsverfahrens und Wiedereinführung weiterer Massnahmen), mit Wirkung vom 1. Jan. 2022 bis zum 31. März 2022 ([AS 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
 
 #### Art. 46a
 
@@ -1268,12 +1269,12 @@ Als voller Arbeitstag gilt der fünfte Teil der normalen wöchentlichen Arbeitsz
 
 <sup>1</sup> Die Karenzzeit wird bestimmt, indem die Abrechnungsperioden zusammengezählt werden, für die eine Kurzarbeits- oder Schlechtwetterentschädigung bezogen wurde.
 
-<sup>2</sup> Vom anrechenbaren Arbeitsausfall wird für jede Abrechnungsperiode eine Karenzzeit von einem Tag abgezogen.[^50-2]
+<sup>2</sup> …[^50-2]
 
-<sup>3</sup> ...[^50-3]
+<sup>3</sup> …[^50-3]
 
 [^50-1]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^50-2]: Fassung gemäss Ziff. I der V vom 1. Juli 2020, in Kraft seit 1. Sept. 2020 ([AS 2020 2875](https://fedlex.data.admin.ch/eli/oc/2020/524)).
+[^50-2]: Aufgehoben durch Ziff. II der V vom 26. Jan. 2022 (Verlängerung des summarischen Abrechnungsverfahrens und Wiedereinführung weiterer Massnahmen), mit Wirkung vom 1. Jan. 2022 bis zum 31. März 2022 ([AS 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
 [^50-3]: Eingefügt durch Ziff. I der V vom 19. Sept. 2003 ([AS 2003 3491](https://fedlex.data.admin.ch/eli/oc/2003/494)). Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft vom 1. Febr. 2016 bis zum 31. Juli 2017 ([AS 2016 351](https://fedlex.data.admin.ch/eli/oc/2016/47)).
 
 #### Art. 51
@@ -1354,7 +1355,7 @@ Eine Betriebsabteilung ist einem Betrieb gleichgestellt, wenn sie eine mit eigen
 - a. an den zwei Arbeitstagen unmittelbar vor und nach Feiertagen, die nicht auf einen Samstag oder Sonntag fallen;
 - b. an den fünf Arbeitstagen unmittelbar vor und nach Betriebsferien.
 
-<sup>2</sup> Die Ausgleichsstelle der Arbeitslosenversicherung kann in Fällen nach Absatz 1 Buchstabe b auf Gesuch des Arbeitgebers Ausnahmen gewähren, wenn nach den besonderen Umständen ein Missbrauch ausgeschlossen werden kann. Der Arbeitgeber muss das Gesuch an die kantonale Amtsstelle richten; diese leitet es zusammen mit ihrer Stellungnahme an die der Ausgleichsstelle der Arbeitslosenversicherung weiter.[^54-1]
+<sup>2</sup> Die Ausgleichsstelle der Arbeitslosenversicherung kann in Fällen nach Absatz 1 Buchstabe b auf Gesuch des Arbeitgebers Ausnahmen gewähren, wenn nach den besonderen Umständen ein Missbrauch ausgeschlossen werden kann. Der Arbeitgeber muss das Gesuch an die kantonale Amtsstelle richten; diese leitet es zusammen mit ihrer Stellungnahme an die Ausgleichsstelle der Arbeitslosenversicherung weiter.[^54-1]
 
 [^54-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
 
@@ -1402,17 +1403,18 @@ Weicht der Lohn im letzten Beitragsmonat um mindestens 10 Prozent vom Durchschni
 
 ### (Art. 35 Abs. 1<sup>bis</sup> AVIG)
 
-<sup>1</sup> Überschreitet der Arbeitsausfall innerhalb der Rahmenfrist während mehr als vier zusammenhängenden oder einzelnen Abrechnungsperioden 85 Prozent der normalen betrieblichen Arbeitszeit, besteht nur für die vier ersten Abrechnungsperioden ein Anspruch auf Kurzarbeitsentschädigung.
+<sup>1</sup> …[^57a-2]
 
 <sup>2</sup> Die normale betriebliche Arbeitszeit bestimmt sich nach Artikel 46.
 
 [^57a-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^57a-2]: Aufgehoben durch Ziff. II der V vom 26. Jan. 2022 (Verlängerung des summarischen Abrechnungsverfahrens und Wiedereinführung weiterer Massnahmen), mit Wirkung vom 1. Jan. 2022 bis zum 31. März 2022 ([AS 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
 
 #### Art. 57b
 
 [^57b-1]
 
-[^57b-1]: Eingefügt durch Ziff. I der V vom 11. Febr. 2009 ([AS 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Fassung gemäss Ziff. I der V vom 1. Juli 2020, in Kraft vom 1. Sept. 2020 bis zum 30. Juni 2021 ([AS 2020 2875](https://fedlex.data.admin.ch/eli/oc/2020/524); [2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+[^57b-1]: Eingefügt durch Ziff. I der V vom 11. Febr. 2009 ([AS 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Fassung gemäss Ziff. I der V vom 1. Juli 2020, in Kraft vom 1. Sept. 2020 bis zum 30. Juni 2021 ([AS 2020 2875](https://fedlex.data.admin.ch/eli/oc/2020/524), [2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
 
 #### Art. 58
 
@@ -1506,11 +1508,9 @@ Die auf die Ausfallzeiten entfallenden Arbeitgeberbeiträge an die AHV/IV/ EO/ A
 
 **Anrechnung von Einkommen aus Zwischenbeschäftigung**[^63-1]
 
-### (Art. 41 Abs. 4 AVIG)
-
 Das Einkommen aus Zwischenbeschäftigung wird bei der Berechnung des Verdienstausfalls nicht angerechnet.
 
-[^63-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft vom 1. Sept. 2020 bis zum 31. Dez. 2021 ([AS 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169), [382](https://fedlex.data.admin.ch/eli/oc/2021/382), [593](https://fedlex.data.admin.ch/eli/oc/2021/593)).
+[^63-1]: Fassung gemäss Ziff. II der V vom 26. Jan. 2022 (Verlängerung des summarischen Abrechnungsverfahrens und Wiedereinführung weiterer Massnahmen), in Kraft vom 1. Jan. 2022 bis zum 31. März 2022 ([AS 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
 
 #### Art. 64
 
@@ -1540,7 +1540,7 @@ Schlechtwetterentschädigung kann in den folgenden Erwerbszweigen ausgerichtet w
 - [tab] h.[^65-2] Transportgewerbe, soweit Fahrzeuge ausschliesslich für den Transport von Aushub oder Baumaterial von und zu Baustellen oder für den Abtransport von Sand oder Kies von der Abbaustelle verwendet werden;
 - i.[^65-3] Sägerei.
 
-<sup>2</sup> ...[^65-4]
+<sup>2</sup> …[^65-4]
 
 <sup>3</sup> Ausserdem können die Arbeitnehmer reiner Reb-, Pflanzen-, Obst- und Gemüsebaubetriebe entschädigt werden, wenn die normalerweise anfallenden Arbeiten wegen aussergewöhnlicher Trockenheit oder Nässe nicht verrichtet werden können.[^65-5]
 
@@ -1558,7 +1558,7 @@ Schlechtwetterentschädigung kann in den folgenden Erwerbszweigen ausgerichtet w
 
 <sup>1</sup> Der Arbeitsausfall zählt als halber Tag, wenn er einen Vor- oder Nachmittag oder mindestens 50 Prozent, aber weniger als 100 Prozent eines vollen Arbeitstages ausmacht.[^66-1]
 
-<sup>2</sup> ...[^66-2]
+<sup>2</sup> …[^66-2]
 
 [^66-1]: Fassung gemäss Ziff. I der V vom 25. April 1985, in Kraft seit 1. Juli 1985 ([AS 1985 648](https://fedlex.data.admin.ch/eli/oc/1985/648_648_648)).
 [^66-2]: Aufgehoben durch Ziff. I der V vom 24. Nov. 1999, mit Wirkung seit 1. Jan. 2000 ([AS 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
@@ -1735,7 +1735,7 @@ Die Kasse entrichtet auf der Insolvenzentschädigung die Beiträge (Arbeitnehmer
 Die versicherte Person, die Insolvenzentschädigung beansprucht, muss der zuständigen Arbeitslosenkasse einreichen:
 
 - a. den Antrag auf Insolvenzentschädigung;
-- b. die Versichertennummer der AHV;
+- b. die AHV-Nummer;
 - c. bei ausländischer Staatsbürgerschaft den Ausländerausweis;
 - d. die weiteren Informationen, welche die Arbeitslosenkasse zur Beurteilung des Anspruchs verlangt.[^77-1]
 
@@ -2049,7 +2049,7 @@ Die Vermittlung einer versicherten Person gilt als erschwert, wenn sie bei der h
 
 <sup>5</sup> Für die versicherte Person gilt die Rahmenfrist für den Leistungsbezug nach Artikel 9 Absätze 1 und 2 AVIG. Mit Beginn der Ausbildung wird diese Rahmenfrist bis zum Abschluss der Ausbildung verlängert, für die der Zuschuss gewährt wurde. Am Tag des Abbruchs oder der Beendigung der Ausbildung wird die verlängerte Rahmenfrist aufgehoben. Sind die Voraussetzungen nach Artikel 8 AVIG erfüllt, so kann am Folgetag eine neue Rahmenfrist für den Leistungsbezug eröffnet werden.[^90a-6]
 
-<sup>6</sup> ...[^90a-7]
+<sup>6</sup> …[^90a-7]
 
 <sup>7</sup> Gesuche um Ausbildungszuschüsse müssen acht Wochen vor Beginn der Massnahme bei der kantonalen Amtsstelle eingereicht werden.
 
@@ -2217,7 +2217,7 @@ Das Gesuch muss mindestens enthalten:
 
 <sup>1</sup> Die Realisierung beziehungsweise Nichtrealisierung des Projekts ist der kantonalen Amtsstelle schriftlich mitzuteilen.
 
-<sup>2</sup> ...[^95e-2]
+<sup>2</sup> …[^95e-2]
 
 <sup>3</sup> Die verlängerte Rahmenfrist nach Artikel 71*d* Absatz 2 AVIG wird durch eine neue Rahmenfrist ersetzt, wenn nach Ausschöpfung des Taggeldhöchstanspruchs die Voraussetzungen für die Eröffnung einer neuen Rahmenfrist für den Leistungsbezug erfüllt sind.[^95e-3]
 
@@ -2262,7 +2262,7 @@ Als anrechenbare Kosten der Durchführung einer Beschäftigungsmassnahme gelten:
 
 <sup>3</sup> Der Veranstalter legt die Abrechnungen der Ausgleichsstelle vor. Diese kann eine periodische Abrechnung verlangen.
 
-<sup>4</sup> Der Träger führt ein Inventar über die mit Beiträgen der Arbeitslosenversicherung angeschafften Ausrüstungen und Materialien. Diese dürfen nur mit Zustimmung der Augleichsstelle veräussert werden. Der dem geleisteten Beitrag entsprechende Anteil am Erlös wird dem Ausgleichsfonds zurückerstattet.
+<sup>4</sup> Der Träger führt ein Inventar über die mit Beiträgen der Arbeitslosenversicherung angeschafften Ausrüstungen und Materialien. Diese dürfen nur mit Zustimmung der Ausgleichsstelle veräussert werden. Der dem geleisteten Beitrag entsprechende Anteil am Erlös wird dem Ausgleichsfonds zurückerstattet.
 
 <sup>5</sup> Die Zusprechung von Beiträgen an Beschäftigungsmassnahmen kann mit Auflagen verbunden werden.
 
@@ -2401,7 +2401,7 @@ Die Kassen zahlen die Leistungen der Arbeitslosenversicherung soweit möglich ba
 
 <sup>1</sup> Die Kassen verwenden das Betriebskapital für die laufenden Auszahlungen. Sie sorgen für ausreichende Liquidität und für die sichere Aufbewahrung der Vermögenswerte.
 
-<sup>2</sup> ...[^105-1]
+<sup>2</sup> …[^105-1]
 
 [^105-1]: Aufgehoben durch Ziff. I der V vom 11. März 2011, mit Wirkung seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 
@@ -2455,7 +2455,7 @@ Die Prüfungen der Geschäftsführung bei den ALV-Durchführungsstellen umfassen
 
 <sup>2</sup> Die Ausgleichsstelle kann eine Treuhandstelle mit der Prüfung beauftragen.
 
-<sup>3</sup> ...[^109-3]
+<sup>3</sup> …[^109-3]
 
 [^109-1]: Fassung gemäss Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^109-2]: Eingefügt durch Ziff. I der V vom 15. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)).
@@ -2710,7 +2710,7 @@ Mehrere Kantone können durch Vereinbarung gemeinsam RAV und LAM-Stellen erricht
 - c. die rechtliche Stellung der Leitung und der Mitarbeitenden;
 - d. die Vertretung gegenüber der Ausgleichsstelle.[^119a-4]
 
-<sup>4</sup> ...[^119a-5]
+<sup>4</sup> …[^119a-5]
 
 [^119a-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^119a-2]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
@@ -2741,7 +2741,7 @@ Mehrere Kantone können durch Vereinbarung gemeinsam RAV und LAM-Stellen erricht
 
 <sup>1</sup> Der Kanton erstellt für seine tripartiten Kommissionen ein Geschäftsreglement mit deren Aufgaben, Kompetenzen und Organisation. Das Reglement wird der Ausgleichsstelle zur Kenntnisnahme zugestellt.
 
-<sup>2</sup> ...[^119c-2]
+<sup>2</sup> …[^119c-2]
 
 <sup>3</sup> Die Arbeitgeber- und Arbeitnehmervertreter erhalten Sitzungsgelder und Reiseentschädigungen. Die Ausgleichsstelle legt die Ansätze fest. Die Entschädigungen werden den Kantonen im Rahmen der Finanzierung der RAV vergütet.
 
@@ -2800,6 +2800,30 @@ Die Ausgleichsstelle kann Gesuche um vorübergehende Kostenbeteiligung an der Op
 <sup>1</sup> Die Zentrale Ausgleichsstelle der AHV überweist der Ausgleichsstelle der Arbeitslosenversicherung jeden Monat die verfügbaren Beiträge.
 
 <sup>2</sup> Sie stellt der Ausgleichsstelle der Arbeitslosenversicherung jeweils bis am 30. April des folgenden Jahres eine Abrechnung zu, in der die Beitragseinnahmen des Rechnungsjahres nach den einzelnen AHV-Ausgleichskassen aufgegliedert sind.
+
+#### Art. 120a
+
+**Verfahren für die Abrechnung mit der Invalidenversicherung**[^120a-1]
+
+### (Art. 94*a* AVIG, Art. 68<sup>septies</sup> IVG)
+
+<sup>1</sup> Die Ausgleichsstelle der Arbeitslosenversicherung stellt der Zentralen Aus-gleichstelle der AHV zulasten des Ausgleichsfonds der Invalidenversicherung jeweils bis Ende Januar des Folgejahres eine jährliche Abrechnung zu.
+
+<sup>2</sup>
+
+Die Abrechnung muss mindestens enthalten:
+
+- a. Angaben über den zu vergütenden Frankenbetrag;
+- b. Versichertennummer der AHV der versicherten Personen;
+- c. Anzahl ausbezahlter Taggelder;
+- d. Sozialversicherungsbeiträge; und
+- e. die Kosten für die besuchten arbeitsmarktlichen Massnahmen.
+
+<sup>3</sup> Die Ausgleichsstelle der Arbeitslosenversicherung übermittelt dem Bundesamt für Sozialversicherungen eine Kopie der Abrechnung.
+
+<sup>4</sup> Die Zentrale Ausgleichsstelle der AHV prüft die Abrechnung und vergütet die Leistungen nach Artikel 94*a* AVIG.
+
+[^120a-1]: Eingefügt durch Anhang Ziff. 6 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 ### 5. Abschnitt: Aufsichtskommission
 
@@ -3000,7 +3024,7 @@ Die betroffene Person kann von den Stellen, welche die Daten bearbeiten, verlang
 
 <sup>3</sup> Die betroffene Person kann zudem verlangen, dass eine Berichtigung, Ergänzung oder Vernichtung von Daten auch denjenigen Stellen mitgeteilt wird, an welche die Daten weitergegeben wurden.
 
-<sup>4</sup> ...[^126-3]
+<sup>4</sup> …[^126-3]
 
 <sup>5</sup> Beteiligen sich mehrere Durchführungsstellen an einem gemeinsamen Informationssystem, so ist eine zu bezeichnen, die insgesamt die Verantwortung trägt.[^126-4]
 
@@ -3061,7 +3085,7 @@ Der Ausgleichsstelle der Arbeitslosenversicherung sind überdies zu eröffnen:
 - a. Einstellungsverfügungen nach Artikel 30 Absatz 1 Buchstaben c und d AVIG, sofern diese nicht durch die RAV erlassen werden (Art. 85*b* Abs. 1 AVIG);
 - b. Einstellungsverfügungen nach Artikel 30 Absatz 1 Buchstabe e AVIG, sofern die Auskunftspflicht gegenüber der kantonalen Amtsstelle oder dem Arbeitsamt verletzt wurde und die Verfügungen nicht durch die RAV erlassen werden (Art. 85*b* Abs. 1 AVIG);
 - c. Einstellungsverfügungen nach Artikel 30 Absatz 4 AVIG;
-- d.[^128a-3] ...
+- d.[^128a-3] …
 - e. Verfügungen nach Artikel 36 Absatz 4 und Artikel 45 Absatz 4 AVIG;
 - f. Verfügungen über Fälle, die gestützt auf Artikel 81 Absatz 2 AVIG der kantonalen Amtsstelle oder einer von dieser bezeichneten Stelle zum Entscheid unterbreitet worden sind;
 - g. Verfügungen nach Artikel 85 Absatz 1 Buchstabe d AVIG, sofern diese nicht durch die RAV erlassen werden (Art. 85*b* Abs. 1 AVIG);
@@ -3101,7 +3125,7 @@ Die Verordnung vom 25. Februar 1986[^130-2] über die Verwaltungskostenbeschwerd
 
 **Änderung bisherigen Rechts**[^131-1]
 
-...[^131-2]
+…[^131-2]
 
 [^131-1]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 [^131-2]: Die Änderung kann unter [AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)konsultiert werden.
@@ -3145,7 +3169,7 @@ In Bezug auf Island, Liechtenstein, und Norwegen gilt bis zum Inkrafttreten der 
 [^u3-2]: [AS 2015 5877](https://fedlex.data.admin.ch/eli/oc/2015/901)
 [^u3-3]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 41*c* Abs. 9)
 

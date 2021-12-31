@@ -4,11 +4,11 @@ title: "Ordonnance du 31 août 1983 sur l'assurance-chômage obligatoire et l'in
 short: OACI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: fr
-version: 2021-10-01
+version: 2022-01-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20211001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20211001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20211001/fr"
 
 (Ordonnance sur l’assurance-chômage, OACI)
 
-du 31 août 1983 (Etat le 1<sup>er</sup> octobre 2021)
+du 31 août 1983 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -549,11 +549,12 @@ Il y a exception au sens de l’art. 16, al. 2, let. i, LACI en particulier lors
 
 <sup>1</sup> L’assuré doit s’inscrire personnellement en vue du placement. L’inscription peut être effectuée via la plateforme d’accès aux services en ligne (art. 83, al. 1<sup>bis</sup>, let. d, LACI) ou en se présentant auprès de l’office compétent (art. 18).
 
-<sup>2</sup> Lors de son inscription, l’assuré doit fournir son numéro d’assuré AVS.
+<sup>2</sup> Lors de son inscription, l’assuré doit fournir son numéro AVS[^19-2].
 
 <sup>3</sup> Il reçoit une confirmation écrite de la date à laquelle il s’est inscrit.
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^19-2]: Nouvelle expression selon l’annexe ch. II 41 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 19a
 
@@ -567,7 +568,7 @@ Il y a exception au sens de l’art. 16, al. 2, let. i, LACI en particulier lors
 
 ### (art. 17, al. 2<sup>bis</sup>, LACI)
 
-<sup>1</sup> L’office compétent vérifie la validité du numéro d’assuré AVS.
+<sup>1</sup> L’office compétent vérifie la validité du numéro AVS.
 
 <sup>2</sup> Il vérifie les données d’inscription et les enregistre dans le système d’information servant au placement public (art. 83, al. 1<sup>bis</sup>, let. b, LACI).
 
@@ -1188,7 +1189,7 @@ Il y a faute grave lorsque, sans motif valable, l’assuré:
 <sup>4</sup> et <sup>5</sup> ...[^46-2]
 
 [^46-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^46-2]: Abrogés par le ch. I de l’O du 26 août 2020, avec effet du 1<sup>er</sup> sept. 2020 au 31 déc. 2021 ([RO 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169), [382](https://fedlex.data.admin.ch/eli/oc/2021/382), [593](https://fedlex.data.admin.ch/eli/oc/2021/593)).
+[^46-2]: Abrogés par le ch. II de l’O du 26 janv. 2022 (Prolongation de la procédure de décompte sommaire et reconduction d’autres mesures), avec effet du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
 
 #### Art. 46a
 
@@ -1277,12 +1278,12 @@ Est réputé jour entier de travail le cinquième de la durée normale du travai
 
 <sup>1</sup> Pour déterminer le délai d’attente, il faut ajouter les périodes de décompte ayant donné lieu à une indemnisation pour cause de réduction de l’horaire de travail à celles ayant donné lieu à une indemnisation pour cause d’intempéries.
 
-<sup>2</sup> Pour chaque période de décompte, un délai d’attente d’un jour est déduit de la perte de travail à prendre en considération.[^50-2]
+<sup>2</sup> ...[^50-2]
 
 <sup>3</sup> ...[^50-3]
 
 [^50-1]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^50-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 2875](https://fedlex.data.admin.ch/eli/oc/2020/524)).
+[^50-2]: Abrogé par le ch. II de l’O du 26 janv. 2022 (Prolongation de la procédure de décompte sommaire et reconduction d’autres mesures), avec effet du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
 [^50-3]: Introduit par le ch. I de l’O du 19 sept. 2003 ([RO 2003 3491](https://fedlex.data.admin.ch/eli/oc/2003/494)). Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur du 1<sup>er</sup> fév. 2016 au 31 juil. 2017 ([RO 2016 351](https://fedlex.data.admin.ch/eli/oc/2016/47)).
 
 #### Art. 51
@@ -1414,11 +1415,12 @@ Lorsque le salaire du dernier mois de cotisation s’écarte d’au moins 10 % d
 
 ### (art. 35, al. 1<sup>bis</sup>, LACI)
 
-<sup>1</sup> Lorsque, pendant le délai-cadre, la perte de travail excède 85 pour cent de l’horaire normal de travail durant plus de quatre périodes de décompte consécutives ou isolées, seules les quatre premières périodes de décompte donnent droit à l’indemnité.
+<sup>1</sup> ...[^57a-2]
 
 <sup>2</sup> L’horaire normal de travail de l’entreprise est déterminé conformément à l’art. 46.
 
 [^57a-1]: Introduit par le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^57a-2]: Abrogé par le ch. II de l’O du 26 janv. 2022 (Prolongation de la procédure de décompte sommaire et reconduction d’autres mesures), avec effet du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
 
 #### Art. 57b
 
@@ -1520,9 +1522,9 @@ Le montant des cotisations patronales AVS/AI/APG/AC versées pour les heures per
 
 ### (art. 41, al. 4, LACI)
 
-Le revenu tiré d’une occupation provisoire n’est pas pris en compte pour le calcul de la perte de gain.
+Le revenu tiré d’une occupation provisoire n’est pas pris en compte dans le calcul de la perte de gain.
 
-[^63-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur du 1<sup>er</sup> sept. 2020 au 31 déc. 2021 ([RO 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169), [382](https://fedlex.data.admin.ch/eli/oc/2021/382), [593](https://fedlex.data.admin.ch/eli/oc/2021/593)).
+[^63-1]: Nouvelle teneur selon le ch. II de l’O du 26 janv. 2022 (Prolongation de la procédure de décompte sommaire et reconduction d’autres mesures), en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
 
 #### Art. 64
 
@@ -1749,7 +1751,7 @@ La caisse prélève sur l’indemnité en cas d’insolvabilité les cotisations
 L’assuré qui prétend à une indemnité pour insolvabilité doit fournir à la caisse de chômage compétente:
 
 - a. la demande d’indemnité en cas d’insolvabilité;
-- b. le numéro d’assuré AVS;
+- b. le numéro AVS;
 - c. le titre de séjour, s’il est de nationalité étrangère;
 - d. les autres informations que la caisse de chômage exige pour l’examen du droit à l’indemnité.[^77-1]
 
@@ -2595,7 +2597,7 @@ Si l’employeur perçoit abusivement l’indemnité allouée en cas de réducti
 
 <sup>3</sup> L’organe de compensation annule la décision lorsque, sur recours du bénéficiaire de prestations, il a été décidé définitivement que le versement était légal ou n’était pas indubitablement erroné.
 
-[^114-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011, à l’exception de l’al. 2 qui entre en vigueur le 1<sup>er</sup> avr. 2011 ([RO 2010 5529](https://fedlex.data.admin.ch/eli/oc/2010/791)).
+[^114-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011, à l'exception de l'al. 2 qui entre en vigueur le 1<sup>er</sup> avr. 2011 ([RO 2010 5529](https://fedlex.data.admin.ch/eli/oc/2010/791)).
 
 #### Art. 114a
 
@@ -2817,6 +2819,28 @@ L’organe de compensation peut approuver les demandes de prise en charge tempor
 
 <sup>2</sup> Elle remet à l’organe de compensation de l’assurance-chômage, jusqu’au 30 avril de l’année suivante, un décompte où apparaissent les recettes provenant des cotisations de l’exercice annuel, ventilées par caisse de compensation AVS.
 
+#### Art. 120a
+
+**Procédure de décompte avec l’assurance-invalidité (art. 94*a* LACI, art. 68<sup>septies</sup> LAI)**[^120a-1]
+
+<sup>1</sup> L’organe de compensation de l’assurance-chômage remet à la Centrale de compensation de l’AVS un décompte annuel des coûts à la charge du Fonds de compensation de l’assurance-invalidité au plus tard à la fin du mois de janvier de l’année suivante.
+
+<sup>2</sup>
+
+Le décompte contient au moins:
+
+- a. des indications sur le montant à rembourser en francs;
+- b. le numéro AVS de l’assuré;
+- c. le nombre d’indemnités journalières versées;
+- d. les cotisations aux assurances sociales, et
+- e. les coûts des mesures relatives au marché du travail.
+
+<sup>3</sup> L’organe de compensation de l’assurance-chômage transmet une copie du décompte à l’Office fédéral des assurances sociales.
+
+<sup>4</sup> La Centrale de compensation de l’AVS contrôle le décompte et rembourse les prestations conformément à l’art. 94*a* LACI.
+
+[^120a-1]: Introduit par l’annexe ch. 6 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
 ### Section 5 Commission de surveillance
 
 #### Art. 121
@@ -3010,7 +3034,9 @@ Au moment où les personnes concernées s’annoncent ou font valoir leurs droit
 - b. les données traitées et leurs destinataires réguliers;
 - c. leurs droits.
 
-<sup>2</sup> La personne concernée peut exiger des services qui traitent les données qu’ils
+<sup>2</sup>
+
+La personne concernée peut exiger des services qui traitent les données qu’ils:
 
 - a. la renseignent gratuitement, par écrit et sous une forme généralement compréhensible, sur les données qui la concernent;
 - b. rectifient ou complètent les données inexactes ou incomplètes;
