@@ -2,15 +2,15 @@
 canton: FR
 number: "821.0.11"
 title: Reglement über Gesundheitsförderung und Prävention
-short: GPR
+short: GPV
 language: de
-version: 2019-07-01
-valid_until: 2021-12-31
-version_adopted: 2018-04-17
+version: 2022-01-01
+valid_until: 2026-01-31
+version_adopted: 2022-05-03
 adopted: 2004-06-14
 in_force: 2004-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.0.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5938/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7476/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,9 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5938/pdf_file"
 
 Gesundheitsförderung und Prävention – R
 
-vom 14.06.2004 (Fassung in Kraft getreten am 01.07.2019)
+(GPV)
+
+vom 14.06.2004 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -54,8 +56,8 @@ beschliesst:
 
 <sup>2</sup> Sie hat namentlich die folgenden Befugnisse:
 
-- a) Sie erarbeitet den kantonalen Plan für Gesundheitsförderung und Prävention (der Gesundheitsförderungsplan).
-- b) Sie bestimmt die Bedürfnisse auf dem Gebiet der Gesundheitsförderung und Prävention, wobei sie die Beurteilung der Gesundheit der Bevölkerung berücksichtigt.
+- a) Sie nimmt Stellung zum den kantonalen Plan für Gesundheitsförderung und Prävention (der Gesundheitsförderungsplan), der auf der Basis der Evaluation der Gesundheit der Bevölkerung erarbeitet wird.
+- b) …
 - c) Bei Bedarf schlägt sie der Direktion vor, Berichte im Zusammenhang mit den kantonalen Prioritäten der Gesundheitsförderung und Prävention zu verfassen, wobei sie deren Rahmen und Ziele festlegt.
 - d) Sie sorgt für die Verbreitung des Gesundheitsförderungsplans, so dass Projekte angeregt und Institutionen und Gesundheitsfachleute ermutigt werden, ihren Beitrag zu leisten.
 - e) Auf Verlangen der betroffenen Direktionen nimmt sie Stellung zu den Projekten für Gesundheitsförderung und Prävention sowie zu den Leistungsaufträgen, die den Institutionen für Gesundheitsförderung und Prävention erteilt werden.
@@ -68,30 +70,18 @@ beschliesst:
 
 **Zusammensetzung**
 
-<sup>1</sup> Die Kommission besteht aus zwölf Mitgliedern, darunter:
+<sup>1</sup> Die Kommission besteht aus:
 
-- a) fünf Personen, die aufgrund ihrer wissenschaftlichen Kompetenz oder ihrer Erfahrung auf den Gebieten Gesundheitsförderung und Prävention, namentlich der Suchtbekämpfung (mit oder ohne Substanzen), anerkannt sind;
-- b) sieben Personen, die die Direktionen des Staatsrats vertreten; diese Personen stellen den Informationsaustausch zwischen ihrer Direktion und der Kommission sicher.
+- a) fünf bis sieben Personen, die aufgrund ihrer wissenschaftlichen Kompetenz oder ihrer Erfahrung auf den Gebieten Gesundheitsförderung und Prävention, namentlich der Suchtbekämpfung (mit oder ohne Substanzen), anerkannt sind;
+- b) sieben Personen, welche die Direktionen des Staatsrats vertreten; diese Personen stellen den Informationsaustausch zwischen ihrer Direktion und der Kommission sicher;
+- c) der Kantonsärztin oder dem Kantonsarzt;
+- d) der Vorsteherin oder dem Vorsteher des Amts für Gesundheit, die oder der den Vorsitz innehat.
 
-<sup>1<sup>bis</sup></sup> Die folgenden eingeladenen Mitglieder können von Fall zu Fall und punktuell mit beratender Stimme an den Sitzungen der Kommission teilnehmen:
-
-- a) die Kantonsärztin oder der Kantonsarzt;
-- b) die Vorsteherin oder der Vorsteher des Amts für Gesundheit;
-- c) die oder der Verantwortliche des Fonds für die Bekämpfung der Drogenabhängigkeit;
-- d) die Koordinatorin oder der Koordinator der Familienpolitik;
-- e) …
-- f) die oder der Jugendbeauftragte;
-- g) die oder der Delegierte für die Integration der Migrantinnen und Migranten;
-- h) eine Person als Vertretung des kantonalen Arbeitsinspektorats oder der ständigen Kommission für Sicherheit und Gesundheitsschutz am Arbeitsplatz in der Kantonsverwaltung;
-- i) eine Person als Vertretung der schulärztlichen Dienste;
-- j) eine Person als Vertretung des freiburger spitals;
-- k) eine Person als Vertretung der Krankenversicherer;
-- l) die oder der Beauftragte für Suchtfragen;
-- m) die oder der Beauftragte für Altersfragen.
+<sup>1<sup>bis</sup></sup> …
 
 <sup>2</sup> Wenn nötig kann die Kommission externe Sachverständige und Vertreterinnen und Vertreter der betroffenen Kreise zuziehen.
 
-<sup>3</sup> Die Präsidentin oder der Präsident wird vom Staatsrat unter den Kommissionsmitgliedern bezeichnet.
+<sup>3</sup> …
 
 <sup>4</sup> Das Sekretariat der Kommission wird vom Amt für Gesundheit geführt.
 

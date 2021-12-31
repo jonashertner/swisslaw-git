@@ -4,13 +4,13 @@ number: "821.0.11"
 title: Règlement concernant la promotion de la santé et la prévention
 short: RPSP
 language: fr
-version: 2019-07-01
-valid_until: 2021-12-31
-version_adopted: 2018-04-17
+version: 2022-01-01
+valid_until: 2026-01-31
+version_adopted: 2022-05-03
 adopted: 2004-06-14
 in_force: 2004-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.0.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5938/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7476/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,9 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5938/pdf_file"
 
 Santé, promotion et prévention – R
 
-du 14.06.2004 (version entrée en vigueur le 01.07.2019)
+(RPSP)
+
+du 14.06.2004 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -54,8 +56,8 @@ Arrête:
 
 <sup>2</sup> Ses attributions sont notamment les suivantes:
 
-- a) elle prépare le plan cantonal de promotion de la santé et de prévention (ci-après: le plan de promotion de la santé);
-- b) elle détermine les besoins en matière de promotion de la santé et de prévention compte tenu de l'évaluation de la santé de la population;
+- a) elle préavise le plan cantonal de promotion de la santé et de prévention (ci-après: le plan de promotion de la santé) établi sur la base de l'évaluation de la santé de la population;
+- b) …
 - c) au besoin, elle propose à la Direction la réalisation de rapports en lien avec les priorités cantonales de promotion de la santé et de prévention, en précisant le cadre et les objectifs;
 - d) elle veille à la diffusion du plan de promotion de la santé de manière à susciter des projets et à encourager les institutions et les professionnels de la santé à y contribuer;
 - e) à la demande des Directions concernées, elle émet des préavis sur les projets de promotion de la santé et de prévention ainsi que sur les mandats de prestations qui sont confiés aux institutions de promotion de la santé et de prévention;
@@ -68,30 +70,18 @@ Arrête:
 
 **Composition**
 
-<sup>1</sup> La Commission est composée de douze membres, dont:
+<sup>1</sup> La Commission est composée de:
 
-- a) cinq personnes reconnues pour leurs compétences scientifiques ou leur expérience dans les domaines de la promotion de la santé et de la prévention, notamment de la lutte contre les addictions (avec ou sans substances);
-- b) sept personnes représentant les Directions du Conseil d'Etat; ces personnes assurent la transmission des informations entre leur Direction et la Commission.
+- a) cinq à sept personnes reconnues pour leurs compétences scientifiques ou leur expérience dans les domaines de la promotion de la santé et de la prévention, notamment de la lutte contre les addictions (avec ou sans substances);
+- b) sept personnes représentant les Directions du Conseil d'Etat; ces personnes assurent la transmission des informations entre leur Direction et la Commission;
+- c) du ou de la médecin cantonal-e;
+- d) du ou de la chef-fe du service de la santé publique qui la préside.
 
-<sup>1<sup>bis</sup></sup> Peuvent participer aux séances de la Commission de cas en cas et ponctuellement, avec voix consultative, des membres invités, soit:
-
-- a) le ou la médecin cantonal-e;
-- b) le ou la chef-fe du Service de la santé publique;
-- c) la personne responsable du Fonds pour la lutte contre les toxicomanies;
-- d) le coordinateur ou la coordinatrice de la politique familiale;
-- e) …
-- f) la personne déléguée à l'enfance et à la jeunesse;
-- g) la personne déléguée à l'intégration des migrants;
-- h) une personne représentant l'Inspection cantonale du travail ou la Commission permanente pour la sécurité et la protection de la santé au travail dans l'administration cantonale;
-- i) une personne représentant la médecine scolaire;
-- j) une personne représentant l'hôpital fribourgeois;
-- k) une personne représentant les assureurs-maladie;
-- l) la personne déléguée aux questions liées aux addictions;
-- m) la personne déléguée aux questions relatives à la personne âgée.
+<sup>1<sup>bis</sup></sup> …
 
 <sup>2</sup> Au besoin, la Commission peut faire appel à des experts ou expertes externes et à des personnes représentant les milieux concernés.
 
-<sup>3</sup> Le président ou la présidente est désigné-e par le Conseil d'Etat parmi les membres de la Commission.
+<sup>3</sup> …
 
 <sup>4</sup> Le secrétariat de la Commission est assuré par le Service de la santé publique.
 
