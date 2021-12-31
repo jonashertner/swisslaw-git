@@ -4,22 +4,23 @@ number: "176.1"
 title: Anwaltsgesetz
 short: AnwG
 language: de
-version: 2013-01-01
-valid_until: 2021-12-31
-version_adopted: 2001-12-19
+version: 2022-01-01
+version_adopted: 2021-03-24
 adopted: 2001-12-19
 in_force: 2002-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/176.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/857/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2415/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Anwaltsgesetz
 
-Anwaltsgesetz (AnwG)
+AnwG
 
-vom 19.12.2001 (Stand 01.01.2013)
+(AnwG)
+
+vom 19.12.2001 (Stand 01.01.2022)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -55,9 +56,9 @@ vom 19.12.2001 (Stand 01.01.2013)
 
 **Öffentliche Beurkundung**
 
-<sup>1</sup> Bei öffentlichen Beurkundungen und Beglaubigungen im Sinne von § 8a des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch (EG ZGB)[^4a-1] haben die Anwältinnen und Anwälte die §§ 24 bis 34 EG ZGB sowie die zugehörigen Ausführungsbestimmungen zu beachten.
+<sup>1</sup> Bei öffentlichen Beurkundungen und Beglaubigungen im Sinne von § 8a des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch (EG ZGB)[^4a-1] haben die Anwältinnen und Anwälte § 24 bis § 34 EG ZGB sowie die zugehörigen Ausführungsbestimmungen zu beachten.
 
-[^4a-1]: [210.1](https://www.rechtsbuch.tg.ch/data/210.1/de)
+[^4a-1]: RB [210.1](https://www.rechtsbuch.tg.ch/data/210.1/de)
 
 #### § 4b
 
@@ -75,13 +76,13 @@ vom 19.12.2001 (Stand 01.01.2013)
 
 <sup>3</sup> Über Ausstandsbegehren entscheidet die Anwaltskommission.
 
-[^4c-1]: [170.1](https://www.rechtsbuch.tg.ch/data/170.1/de)
+[^4c-1]: RB [170.1](https://www.rechtsbuch.tg.ch/data/170.1/de)
 
 #### § 4d
 
 **Beurkundungsregister, Aktenaufbewahrung und -übergabe**
 
-<sup>1</sup> Die Anwältinnen und Anwälte haben über ihre Beurkundungs- und Beglaubigungstätigkeit ein Register zu führen und die Beurkundungsakten separat und geordnet aufzubewahren. Eine Originalurkunde der Verfügung von Todes wegen ist der amtlichen Depotstelle gemäss Artikel 504 und 505 des Schweizerischen Zivilgesetzbuches (ZGB)[^4d-1] am Wohnsitz der verfügenden Person zur Aufbewahrung zu übergeben.
+<sup>1</sup> Die Anwältinnen und Anwälte haben über ihre Beurkundungs- und Beglaubigungstätigkeit ein Register zu führen und die Beurkundungsakten separat und geordnet aufzubewahren. Eine Originalurkunde der Verfügung von Todes wegen ist der amtlichen Depotstelle gemäss Art. 504 und Art. 505 des Schweizerischen Zivilgesetzbuches (ZGB)[^4d-1] am Wohnsitz der verfügenden Person zur Aufbewahrung zu übergeben.
 
 <sup>2</sup> Bei Aufgabe der anwaltlichen Tätigkeit sind das Register und die Beurkundungsakten der Nachfolgerin oder dem Nachfolger zu übergeben.
 
@@ -95,7 +96,7 @@ vom 19.12.2001 (Stand 01.01.2013)
 
 **Zusammensetzung, Wahl**
 
-<sup>1</sup> Die Anwaltskommission besteht aus einer Präsidentin oder einem Präsidenten, vier Mitgliedern und drei Ersatzmitgliedern.
+<sup>1</sup> Die Anwaltskommission besteht aus einer Präsidentin oder einem Präsidenten, vier Mitgliedern und drei bis sechs Ersatzmitgliedern.
 
 <sup>2</sup> Diese werden durch den Regierungsrat aus Vorschlägen des Obergerichts, des Verwaltungsgerichts und des Thurgauischen Anwaltsverbandes für eine Amtsdauer von vier Jahren gewählt. Auf ausgewogene Anteile von Gerichtsmitgliedern sowie Anwältinnen oder Anwälten ist zu achten.
 
@@ -127,11 +128,9 @@ vom 19.12.2001 (Stand 01.01.2013)
 - 5a. den Entscheid über ein Ausstandsbegehren;
 - 6\. die Führung des kantonalen Anwaltsregisters;
 - 7\. die Führung der Liste der Staatsangehörigen von Mitgliedstaaten der EU, die in der Schweiz unter ihrer ursprünglichen Berufsbezeichnung ständig Parteien vor Gerichtsbehörden vertreten dürfen;
-- 8\. die Durchführung der Eignungsprüfung und des Gesprächs zur Prüfung der beruflichen Fähigkeiten gemäss Artikel 31 und Artikel 32 BGFA[^7-1].
+- 8\. die Durchführung der Eignungsprüfung und des Gesprächs zur Prüfung der beruflichen Fähigkeiten gemäss Art. 31 und Art. 32 BGFA.
 
-<sup>2</sup> Über die Aufnahme in das Anwaltsregister und die Liste gemäss Ziffer 7 entscheidet das Präsidium.
-
-[^7-1]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de)
+<sup>2</sup> Über die Aufnahme in das Anwaltsregister und die Liste gemäss Ziff. 7 entscheidet das Präsidium.
 
 ## 3. Rekurskommission in Anwaltssachen
 
@@ -167,27 +166,25 @@ vom 19.12.2001 (Stand 01.01.2013)
 
 **Thurgauisches Anwaltspatent**
 
-<sup>1</sup> Das thurgauische Anwaltspatent erhält, wer die persönlichen Voraussetzungen gemäss Artikel 8 Absatz 1 BGFA erfüllt und die Anwaltsprüfung bestanden hat.
+<sup>1</sup> Das thurgauische Anwaltspatent erhält, wer die persönlichen Voraussetzungen gemäss Art. 8 Abs. 1 BGFA erfüllt und die Anwaltsprüfung bestanden hat.
 
 #### § 12
 
 **Anwaltsprüfung**
 
-<sup>1</sup> Zur Anwaltsprüfung wird zugelassen, wer über ein abgeschlossenes Hochschulstudium im Sinne von Artikel 7 Absatz 1 Buchstabe a BGFA[^12-1] verfügt und sich über eine ausreichende praktische Tätigkeit von mindestens 18 Monaten Dauer ausweist.
+<sup>1</sup> Zur Anwaltsprüfung wird zugelassen, wer über ein abgeschlossenes Hochschulstudium im Sinne von Art. 7 Abs. 1 lit. a BGFA verfügt und sich über eine ausreichende praktische Tätigkeit von mindestens 18 Monaten Dauer ausweist.
 
 <sup>2</sup> Die Anwaltsprüfung besteht aus einem schriftlichen und einem mündlichen Teil. Sie ist praxisbezogen zu gestalten; Privatrecht und öffentliches Recht sind gebührend zu berücksichtigen.
 
 <sup>3</sup> Wer dreimal wegen mangelnder Kenntnisse zurückgewiesen worden ist, wird zu keiner weiteren Prüfung zugelassen.
 
-<sup>4</sup> Entscheide betreffend die Bewertung der Prüfungsergebnisse sind endgültig.
-
-[^12-1]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de)
+<sup>4</sup> …
 
 #### § 13
 
 **Praktikum**
 
-<sup>1</sup> Das Präsidium der Anwaltskommission erteilt Personen mit abgeschlossenem rechtswissenschaftlichem Hochschulstudium, welche das für die Zulassung zur Anwaltsprüfung erforderliche Praktikum absolvieren, die Bewilligung, unter Verantwortung einer im Kanton Thurgau oder in einem Kanton, mit dem eine Gegenrechtsvereinbarung besteht, im Anwaltsregister eingetragenen Anwältin oder einem Anwalt vor den thurgauischen Gerichten aufzutreten. Die Bewilligung ist in der Regel auf drei Jahre befristet.
+<sup>1</sup> Das Präsidium der Anwaltskommission erteilt Personen mit abgeschlossenem Hochschulstudium im Sinne von Art. 7 Abs. 1 lit. a BGFA, die das für die Zulassung zur Anwaltsprüfung erforderliche Praktikum absolvieren, die Bewilligung, unter Verantwortung einer im Kanton Thurgau oder in einem Kanton, mit dem eine Gegenrechtsvereinbarung besteht, im Anwaltsregister eingetragenen Anwältin oder eines Anwaltes vor den thurgauischen Gerichten aufzutreten. Die Bewilligung ist in der Regel auf drei Jahre befristet.
 
 <sup>2</sup> Praxisgemeinschaften haben für jedes Mandat das verantwortliche Kanzleimitglied zu bezeichnen.
 
@@ -205,17 +202,15 @@ vom 19.12.2001 (Stand 01.01.2013)
 
 **Eignungsprüfung**
 
-<sup>1</sup> Für die Eignungsprüfung und das Gespräch zur Prüfung der beruflichen Fähigkeiten gelten Artikel 31 und Artikel 32 BGFA[^15-1].
+<sup>1</sup> Für die Eignungsprüfung und das Gespräch zur Prüfung der beruflichen Fähigkeiten gelten Art. 31 und Art. 32 BGFA.
 
 <sup>2</sup> Diese Eignungsprüfungen und diese Gespräche zur Prüfung der beruflichen Fähigkeiten sind nicht anfechtbar.
-
-[^15-1]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de)
 
 #### § 16
 
 **Öffentlichkeit**
 
-<sup>1</sup> Die mündlichen Anwaltsprüfungen und Eignungsprüfungen nach Artikel 31 BGFA sowie die Gespräche zur Prüfung der beruflichen Fähigkeiten nach Artikel 32 BGFA sind öffentlich.
+<sup>1</sup> Die mündlichen Anwaltsprüfungen und Eignungsprüfungen nach Art. 31 BGFA sowie die Gespräche zur Prüfung der beruflichen Fähigkeiten nach Art. 32 BGFA sind öffentlich.
 
 ## 5. Berufsregeln und Disziplinaraufsicht
 
@@ -223,13 +218,13 @@ vom 19.12.2001 (Stand 01.01.2013)
 
 **Berufsregeln**
 
-<sup>1</sup> Für Anwältinnen und Anwälte gelten die Bestimmungen der Artikel 12 und 13 BGFA über die Berufsregeln.
+<sup>1</sup> Für Anwältinnen und Anwälte gelten die Bestimmungen der Art. 12 und Art. 13 BGFA über die Berufsregeln.
 
 #### § 18
 
 **Disziplinaraufsicht**
 
-<sup>1</sup> Anwältinnen und Anwälte unterstehen der Disziplinaraufsicht gemäss den Artikeln 14 bis 20 BGFA.
+<sup>1</sup> Anwältinnen und Anwälte unterstehen der Disziplinaraufsicht gemäss Art. 14 bis Art. 20 BGFA.
 
 #### § 18a
 
@@ -261,9 +256,9 @@ vom 19.12.2001 (Stand 01.01.2013)
 
 <sup>4</sup> In Disziplinarverfahren tritt das instruierende Mitglied der Anwaltskommission bei der Beratung und beim Entscheid in den Ausstand.
 
-<sup>5</sup> Im übrigen gelten die Bestimmungen des Gesetzes über die Verwaltungsrechtspflege[^20-1] sinngemäss.
+<sup>5</sup> Im übrigen gelten die Bestimmungen des Gesetzes über die Verwaltungsrechtspflege (VRG)[^20-1] sinngemäss.
 
-[^20-1]: [170.1](https://www.rechtsbuch.tg.ch/data/170.1/de)
+[^20-1]: RB [170.1](https://www.rechtsbuch.tg.ch/data/170.1/de)
 
 ## 7. Gebühren, Tarife und Honorare
 
@@ -271,9 +266,9 @@ vom 19.12.2001 (Stand 01.01.2013)
 
 **Gebühren**
 
-<sup>1</sup> Die Anwaltskommission und die Rekurskommission in Anwaltssachen erheben für ihre Entscheide Gebühren nach Massgabe der Verordnung des Grossen Rates über die Gebühren der Strafuntersuchungs- und Gerichtsbehörden[^21-1].
+<sup>1</sup> Die Anwaltskommission und die Rekurskommission in Anwaltssachen erheben für ihre Entscheide Gebühren nach Massgabe der Verordnung des Grossen Rates über die Gebühren der Strafuntersuchungs- und Gerichtsbehörden (VGG)[^21-1].
 
-[^21-1]: [638.1](https://www.rechtsbuch.tg.ch/data/638.1/de)
+[^21-1]: RB [638.1](https://www.rechtsbuch.tg.ch/data/638.1/de)
 
 #### § 22
 
@@ -281,16 +276,14 @@ vom 19.12.2001 (Stand 01.01.2013)
 
 <sup>1</sup> Das Obergericht erlässt den Anwaltstarif für Zivil- und Strafverfahren[^22-1], das Verwaltungsgericht jenen für das Verwaltungsgerichtsverfahren[^22-2]. Das Obergericht legt ausserdem den Tarif für öffentliche Beurkundungen und Beglaubigungen fest. Das Departement und der Anwaltsverband sind vorgängig anzuhören.
 
-[^22-1]: [176.31](https://www.rechtsbuch.tg.ch/data/176.31/de)
-[^22-2]: [176.61](https://www.rechtsbuch.tg.ch/data/176.61/de)
+[^22-1]: RB [176.31](https://www.rechtsbuch.tg.ch/data/176.31/de)
+[^22-2]: RB [176.61](https://www.rechtsbuch.tg.ch/data/176.61/de)
 
 #### § 23
 
 **Honorarvereinbarungen**
 
-<sup>1</sup> Honorarvereinbarungen zwischen Anwältinnen oder Anwälten und ihrer Klientschaft sind unter Vorbehalt von Artikel 12 Buchstabe e BGFA[^23-1] zulässig.
-
-[^23-1]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de)
+<sup>1</sup> Honorarvereinbarungen zwischen Anwältinnen oder Anwälten und ihrer Klientschaft sind unter Vorbehalt von Art. 12 lit. e BGFA zulässig.
 
 ## 8. Strafbestimmungen
 
@@ -298,7 +291,7 @@ vom 19.12.2001 (Stand 01.01.2013)
 
 **Unerlaubte Titelverwendung**
 
-<sup>1</sup> Wer ohne Anwaltspatent in irgendeiner Weise den Titel einer Rechtsanwältin oder eines Rechtsanwaltes oder eine entsprechende Berufsbezeichnung verwendet, die bestimmt oder geeignet ist, einen täuschenden Eindruck zu erwecken, wird mit Busse bis 20 000 Franken bestraft.
+<sup>1</sup> Wer ohne Anwaltspatent in irgendeiner Weise den Titel einer Rechtsanwältin oder eines Rechtsanwaltes oder eine entsprechende Berufsbezeichnung verwendet, die bestimmt oder geeignet ist, einen täuschenden Eindruck zu erwecken, wird mit Busse bis Fr. 20'000 bestraft.
 
 <sup>2</sup> Vorbehalten ist die Bezeichnung als Patentanwältin oder Patentanwalt.
 
@@ -306,7 +299,7 @@ vom 19.12.2001 (Stand 01.01.2013)
 
 **Unerlaubte Berufsausübung**
 
-<sup>1</sup> Wer ohne die gesetzlichen Voraussetzungen zu erfüllen im Kanton eine einer Anwältin oder einem Anwalt vorbehaltene Tätigkeit ausübt, wird mit Busse bis 20 000 Franken bestraft.
+<sup>1</sup> Wer ohne die gesetzlichen Voraussetzungen zu erfüllen im Kanton eine einer Anwältin oder einem Anwalt vorbehaltene Tätigkeit ausübt, wird mit Busse bis Fr. 20'000 bestraft.
 
 ## 9. Rechtsmittel
 
@@ -320,9 +313,7 @@ vom 19.12.2001 (Stand 01.01.2013)
 
 **Mitteilung von Entscheiden**
 
-<sup>1</sup> Die Anwaltskommission eröffnet dem Anwaltsverband Entscheide, gegen welche er gemäss Artikel 6 Absatz 4 BGFA[^27-1] ein Beschwerderecht hat.
-
-[^27-1]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de)
+<sup>1</sup> Die Anwaltskommission eröffnet dem Anwaltsverband Entscheide, gegen welche er gemäss Art. 6 Abs. 4 BGFA ein Beschwerderecht hat.
 
 ## 10. Schlussbestimmungen
 
@@ -332,17 +323,9 @@ vom 19.12.2001 (Stand 01.01.2013)
 
 <sup>1</sup> Anwältinnen und Anwälte, die beim Inkrafttreten dieses Gesetzes über die kantonale Berufsausübungsbewilligung verfügen und im Kanton eine Kanzlei führen oder bei einer solchen angestellt sind, werden von Amtes wegen und ohne Erhebung von Gebühren im kantonalen Anwaltsregister eingetragen.
 
-#### § 29
+#### § 29–30
 
-**...[^29-1]**
-
-[^29-1]: Aufhebung und Änderung bisherigen Rechtes, ABl. 2002, Seite 12 f.
-
-#### § 30
-
-**...[^30-1]**
-
-[^30-1]: Aufhebung und Änderung bisherigen Rechtes, ABl. 2002, Seite 12 f.
+**…**
 
 #### § 31
 
