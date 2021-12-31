@@ -4,11 +4,11 @@ title: Verordnung vom 21. November 2012 über das Eidgenössische Institut für 
 short: EIMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/832"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2012-11-21
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/832/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2012-832-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/832/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/832/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2012-832-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/832/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/832/20210101/de"
 
 (EIMV)
 
-vom 21. November 2012 (Stand am 1. Januar 2021)
+vom 21. November 2012 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -62,20 +62,21 @@ Das Eidgenössische Institut für Metrologie (METAS) wird im Handelsregister unt
 Das METAS erfüllt folgende gegen Abgeltung übertragenen Aufgaben:
 
 - a. Es unterhält für das Bundesamt für Umwelt das hydrologische Messnetz der Schweiz.
-- b. Es erbringt wissenschaftlich-technische Dienstleistungen für die Eidgenössische Zollverwaltung; insbesondere führt es chemische Analysen durch.
-- c.[^3-2] Es erbringt wissenschaftlich-technische Dienstleistungen für das Bundesamt für Lebensmittelsicherheit und Veterinärwesen; insbesondere ist es unter Vorbehalt von Artikel 60 der Verordnung vom 27. Mai 2020[^3-3] über den Vollzug der Lebensmittelgesetzgebung als nationales Referenzlaboratorium nach Artikel 43 des Lebensmittelgesetzes vom 20. Juni 2014[^3-4] tätig.
+- b. Es erbringt wissenschaftlich-technische Dienstleistungen für das Bundesamt für Zoll und Grenzsicherheit[^3-2]; insbesondere führt es chemische Analysen durch.
+- c.[^3-3] Es erbringt wissenschaftlich-technische Dienstleistungen für das Bundesamt für Lebensmittelsicherheit und Veterinärwesen; insbesondere ist es unter Vorbehalt von Artikel 60 der Verordnung vom 27. Mai 2020[^3-4] über den Vollzug der Lebensmittelgesetzgebung als nationales Referenzlaboratorium nach Artikel 43 des Lebensmittelgesetzes vom 20. Juni 2014[^3-5] tätig.
 - d. Es erbringt wissenschaftlich-technische Dienstleistungen für das Bundesamt für Gesundheit; insbesondere führt es chemische Analysen durch.
-- e.[^3-5] Es stellt für die Schweizerische Akkreditierungsstelle des Staatssekretariats für Wirtschaft Fachexpertinnen und Fachexperten.
-- f.[^3-6] Es erbringt wissenschaftlich-technische Dienstleistungen für das Bundesamt für Strassen; insbesondere führt es Untersuchungen und Entwicklungsarbeiten für praktisch anwendbare Messmethoden im Strassenverkehr durch.
+- e.[^3-6] Es stellt für die Schweizerische Akkreditierungsstelle des Staatssekretariats für Wirtschaft Fachexpertinnen und Fachexperten.
+- f.[^3-7] Es erbringt wissenschaftlich-technische Dienstleistungen für das Bundesamt für Strassen; insbesondere führt es Untersuchungen und Entwicklungsarbeiten für praktisch anwendbare Messmethoden im Strassenverkehr durch.
 
 <sup>2</sup> Die Zusammenarbeit wird in öffentlich-rechtlichen Verträgen geregelt.
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 11. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5877](https://fedlex.data.admin.ch/eli/oc/2017/638)).
-[^3-2]: Fassung gemäss Art. 117 Ziff. 1 der V vom 27. Mai 2020 über den Vollzug der Lebensmittelgesetzgebung, in Kraft seit 1. Juli 2020 ([AS 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)).
-[^3-3]: [SR 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
-[^3-4]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^3-5]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6347](https://fedlex.data.admin.ch/eli/oc/2020/1037)).
+[^3-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^3-3]: Fassung gemäss Art. 117 Ziff. 1 der V vom 27. Mai 2020 über den Vollzug der Lebensmittelgesetzgebung, in Kraft seit 1. Juli 2020 ([AS 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)).
+[^3-4]: [SR 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
+[^3-5]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^3-6]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6347](https://fedlex.data.admin.ch/eli/oc/2020/1037)).
+[^3-7]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6347](https://fedlex.data.admin.ch/eli/oc/2020/1037)).
 
 #### Art. 4
 
@@ -172,6 +173,6 @@ Anhang
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2012 6887](https://fedlex.data.admin.ch/eli/oc/2012/832)konsultiert werden.
