@@ -3,20 +3,20 @@ canton: SG
 number: "331.21"
 title: Verordnung über die Pflegefinanzierung
 language: de
-version: 2021-10-01
-valid_until: 2021-12-31
+version: 2022-01-01
+valid_until: 2022-12-31
 version_adopted: 2021-09-28
 adopted: 2010-12-14
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.21"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3268/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3271/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Pflegefinanzierung
 
-vom 14.12.2010 (Stand 01.10.2021)
+vom 14.12.2010 (Stand 01.01.2022)
 
 Die Regierung des Kantons St.Gallen
 
@@ -75,18 +75,11 @@ als Verordnung:[^ingress-2]
 
 **b) Bedarfsermittlungssysteme**
 
-<sup>1</sup> Die zugelassenen Leistungserbringer wenden zur Erfassung des Pflegebedarfs die Bedarfsermittlungssysteme BESA oder RAI/RUG an.
+<sup>1</sup> Die zugelassenen Leistungserbringer wenden zur Erfassung des Pflegebedarfs die Bedarfsermittlungssysteme BESA LK 2020 oder RAI/RUG (CH-Index 2016 und Index 2016 LTCF) an.
 
 #### Art. 4
 
-**c) Harmonisierungstabelle**
-
-<sup>1</sup> Leistungserbringer und Krankenversicherer vereinbaren die für die Anwendung der Bedarfsermittlungssysteme zu verwendende Harmonisierungstabelle.
-
-<sup>2</sup> Die Regierung:
-
-- a) genehmigt die vereinbarte Harmonisierungstabelle;
-- b) legt die Harmonisierungstabelle fest, wenn keine Vereinbarung zustande kommt.
+**…**
 
 #### Art. 4a
 
@@ -262,6 +255,12 @@ als Verordnung:[^ingress-2]
 **[^15-1]**
 
 [^15-1]: Änderungen bisherigen Rechts werden nicht aufgeführt.
+
+#### Art. 15a
+
+**Übergangsbestimmung des VI. Nachtrags vom 28. September 2021**
+
+<sup>1</sup> Die Bedarfsermittlung in Pflegeheimen kann bis zum 31. Dezember 2023 nach bisherigem Recht durchgeführt werden.
 
 #### Art. 16
 
