@@ -4,13 +4,13 @@ number: 775a
 title: Verordnung über den öffentlichen Verkehr
 short: öVV
 language: de
-version: 2021-12-01
-valid_until: 2021-12-31
-version_adopted: 2021-10-19
+version: 2022-01-01
+valid_until: 2025-05-31
+version_adopted: 2021-08-23
 adopted: 2009-10-20
 in_force: 2010-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/775a"
-pdf: "https://srl.lu.ch/api/de/versions/3855/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3856/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,18 +19,13 @@ pdf: "https://srl.lu.ch/api/de/versions/3855/pdf_file"
 
 (öVV)
 
-vom 20.10.2009 (Stand 01.12.2021)
+vom 20.10.2009 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Luzern,
-
-gestützt auf Artikel 36 der Verordnung über die Personenbeförderungskonzession vom 25. November 1998[^ingress-1] sowie die §§ 9 Absatz 3, 10 Absatz 3, 14, 16 Absatz, 18 Absatz 2 und 27 Absatz 3 des Gesetzes über den öffentlichen Verkehr vom 22. Juni 2009[^ingress-2],
 
 auf Antrag des Bau-, Umwelt- und Wirtschaftsdepartementes,
 
 beschliesst:
-
-[^ingress-1]: SR [744.11](https://db.clex.ch/link/Bund/744.11/de)
-[^ingress-2]: SRL Nr. [775](https://srl.lu.ch/data/775/de)
 
 ## 1 Verkehrsverbund Luzern
 
@@ -47,17 +42,22 @@ beschliesst:
 
 **Verbundrat**
 
-<sup>1</sup> Der Verbundrat besteht aus sieben Mitgliedern, wovon drei Mitglieder den Kanton und vier Mitglieder die Gemeinden vertreten.
+<sup>1</sup> Der Verbundrat besteht aus sieben Mitgliedern, wovon drei Mitglieder den Kanton und vier Mitglieder die Gemeinden vertreten. Das Präsidium übt ein den Kanton vertretendes Mitglied aus.
 
-<sup>2</sup> Das Präsidium übt ein den Kanton vertretendes Mitglied aus.
+<sup>2</sup> Für die Zusammensetzung des Verbundrates gilt zur Sicherstellung des erforderlichen Fachwissens das im Anhang 1 dieser Verordnung festgelegte Anforderungsprofil. Zudem berücksichtigt der Regierungsrat bei der Wahl der vier die Gemeinden vertretenden Mitglieder des Verbundrates die Vorschläge des Verbandes Luzerner Gemeinden und der regionalen Entwicklungsträger.
 
-<sup>3</sup> Die Mitglieder des Verbundrates dürfen nicht dem Verwaltungsrat eines Transportunternehmens im Sinn von § 3 Unterabsatz d des Gesetzes über den öffentlichen Verkehr vom 22. Juni 2009[^2-1] (öVG) angehören oder in einem solchen Unternehmen in leitender Stellung tätig sein.
+<sup>3</sup> Die Mitglieder des Verbundrates dürfen nicht
 
-<sup>4</sup> Die Amtsdauer beträgt vier Jahre. Wiederwahl ist möglich.
+- a. an einem Transportunternehmen im Sinn von § 3 Unterabsatz d des Gesetzes über den öffentlichen Verkehr vom 22. Juni 2009 (öVG) beteiligt sein, mit welchem der Verkehrsverbund eine Angebotsvereinbarung abschliesst,
+- b. dem Verwaltungsrat eines solchen Transportunternehmens angehören,
+- c. in einem solchen Transportunternehmen tätig sein oder
+- d. in einer juristischen Person des privaten oder des öffentlichen Rechts, die ihrerseits an solchen Transportunternehmen massgeblich beteiligt ist, dem Verwaltungsrat beziehungsweise dem Stadt- oder Gemeinderat angehören.
 
-<sup>5</sup> Der Verbundrat erstattet dem Regierungsrat im Rahmen des Beteiligungscontrollings regelmässig sowie auf Verlangen Bericht.
+<sup>4</sup> Die Amtsdauer beträgt zwei Jahre. Eine Wiederwahl ist möglich. Für jede Amtsdauer werden Mandatsverträge abgeschlossen, in denen die mit der Ausübung des Mandats verbundenen Aufgaben, Rechte und Pflichten insbesondere betreffend die Interessenwahrung geregelt sind.
 
-[^2-1]: SRL Nr. [775](https://srl.lu.ch/data/775/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
+<sup>5</sup> Der Verbundrat erstattet dem Regierungsrat im Rahmen des Beteiligungscontrollings und mit dem Geschäftsbericht regelmässig sowie zusätzlich auf Verlangen Bericht.
+
+<sup>6</sup> Er tauscht sich regelmässig mit dem Verband Luzerner Gemeinden, mit der Stadt Luzern und mit den regionalen Entwicklungsträgern aus.
 
 #### § 3
 
