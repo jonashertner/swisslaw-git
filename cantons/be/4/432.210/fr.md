@@ -4,13 +4,13 @@ number: "432.210"
 title: "Loi sur l'école obligatoire"
 short: LEO
 language: fr
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2021-03-07
+version: 2022-01-01
+valid_until: 2026-08-31
+version_adopted: 2021-06-10
 adopted: 1992-03-19
 in_force: 1993-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.210"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2289/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3350/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2289/pdf_file"
 
 (LEO)
 
-du 19.03.1992 (état au 01.07.2021)
+du 19.03.1992 (état au 01.01.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -31,15 +31,71 @@ arrête:
 
 [^ingress-1]: Abrogée par la Constitution du canton de Berne du 6.6.1993; RSB 101.1
 
-## 1 Champ d'application
+## 1 Champ d'application et objet
 
 #### Art. 1
+
+**Champ d'application**
 
 <sup>1</sup> La présente loi réglemente la scolarité obligatoire, qui comprend l’école enfantine, le degré primaire et le degré secondaire I.
 
 <sup>2</sup> La présente loi ne s’applique à la première année de la formation gymnasiale dispensée dans les gymnases cantonaux que si elle-même et ses dispositions d’exécution ou la législation sur les écoles moyennes le prévoient expressément.
 
-## 2 Ecole obligatoire
+#### Art. 1a
+
+**Objet**
+
+<sup>1</sup> La présente loi règle
+
+- a l’offre de l’école obligatoire,
+- b l’enseignement privé,
+- c d’autres domaines ayant trait à l’école obligatoire.
+
+## 2 Offre de l'école obligatoire
+
+#### Art. 1b
+
+**Offre de l'école obligatoire**
+
+<sup>1</sup> L’offre de l’école obligatoire se compose
+
+- a de l’offre générale de l’école obligatoire,
+- b de l’offre complémentaire de l’école obligatoire.
+
+#### Art. 1c
+
+**Offre générale de l’école obligatoire**
+
+<sup>1</sup> L’offre générale de l’école obligatoire se compose
+
+- a de l’offre ordinaire de l’école obligatoire,
+- b de l’offre spécialisée de l’école obligatoire.
+
+<sup>2</sup> L’offre ordinaire de l’école obligatoire comprend en particulier
+
+- a l’enseignement ordinaire,
+- b les mesures de pédagogie spécialisée ordinaires,
+- c les mesures de soutien,
+- d le transport d’élèves,
+- e le service médical scolaire et le service dentaire scolaire.
+
+<sup>3</sup> L’offre spécialisée de l’école obligatoire comprend en particulier
+
+- a l’enseignement spécialisé,
+- b les mesures de pédagogie spécialisée renforcées,
+- c l’enseignement avec prise en charge renforcée,
+- d le transport d'élèves,
+- e le service médical scolaire et le service dentaire scolaire.
+
+#### Art. 1d
+
+**Offre complémentaire de l’école obligatoire**
+
+<sup>1</sup> L’offre complémentaire de l’école obligatoire comprend en particulier
+
+- a les écoles à journée continue,
+- b le travail social en milieu scolaire,
+- c la prise en charge durant les vacances scolaires.
 
 #### Art. 2
 
@@ -116,15 +172,30 @@ arrête:
 
 #### Art. 7a
 
-**Formations spécifiques destinées aux élèves surdoués**
+**Encouragement des talents**
 
-<sup>1</sup> Ne sont admis aux formations spécifiques destinées aux élèves surdoués selon les dispositions de l’accord intercantonal du 20 février 2003 sur les écoles offrant des formations spécifiques aux élèves surdoués[^7a-1] que les élèves qui disposent d’une garantie de prise en charge des frais délivrée par la commune bernoise où se trouve leur domicile civil.
+<sup>1</sup> Les élèves possédant des talents particuliers qui disposent d’une garantie de prise en charge des frais émise par le service compétent de la Direction de l’instruction publique et de la culture sont admis aux formations extracantonales ou privées spécifiques visées par les dispositions de l’accord intercantonal du 20 février 2003 sur les écoles offrant des formations spécifiques aux élèves surdoués[^7a-1]. La prise en charge des frais se fonde sur l’article 24e de la loi du 27 novembre 2000 sur la péréquation financière et la compensation des charges (LPFC)[^7a-2].
 
-<sup>2</sup> La commune de domicile de l’élève délivre une garantie de prise en charge des frais si la formation spécifique permet de concilier plus favorablement la formation scolaire et l’encouragement de l’élève surdoué que la formation publique ordinaire proposée sur le lieu de résidence et si l’élève présente une attestation de sa surdouance délivrée par un organe qualifié.
+<sup>2</sup> Les élèves possédant des talents particuliers qui disposent d’une autorisation émise par le service compétent de la Direction de l’instruction publique et de la culture sont admis aux programmes d’encouragement intracantonaux particuliers ou aux formations intracantonales spécifiques qui leur sont destinés. La prise en charge des frais se fonde sur l’article 24g LPFC[^7a-3].
+
+<sup>2a</sup> Une autorisation est délivrée
+
+- a si le programme d’encouragement particulier ou la formation spécifique permet de concilier plus favorablement la formation scolaire et l’encouragement de l’élève que la formation proposée à l’école publique ordinaire et
+- b si l’élève présente une attestation de son talent particulier délivrée par un organe qualifié.
+
+<sup>2b</sup> Les éventuels frais liés au transport d'élèves pour la fréquentation d’un programme d’encouragement particulier ou d’une formation spécifique au sens des alinéas 1 et 2 sont pris en charge par les parents.
+
+<sup>2c</sup> La Direction de l’instruction publique et de la culture institue une commission dans le domaine de l’encouragement intracantonal des talents.
+
+<sup>2d</sup> Le Conseil-exécutif règle par voie d’ordonnance le détail des conditions d’admission aux programmes d’encouragement intracantonaux particuliers et aux formations spécifiques intracantonales destinés aux élèves possédant des talents particuliers. Il porte une attention particulière à la proximité entre la formation scolaire et l’encouragement du talent.
+
+<sup>2e</sup> Le Conseil-exécutif règle la procédure par voie d’ordonnance. S’il semble que l’autorisation visée à l’alinéa 2 ne pourra pas être délivrée, le partenaire chargé de l’encouragement du talent est impliqué de manière appropriée dans la procédure.
 
 <sup>3</sup> …
 
-[^7a-1]: RSB 439.38
+[^7a-1]: RSB [439.38-1](https://www.belex.sites.be.ch/data/439.38-1/fr)
+[^7a-2]: RSB [631.1](https://www.belex.sites.be.ch/data/631.1/fr)
+[^7a-3]: RSB [631.1](https://www.belex.sites.be.ch/data/631.1/fr)
 
 #### Art. 8
 
@@ -233,6 +304,8 @@ arrête:
 
 <sup>3</sup> …
 
+<sup>4</sup> Il rend les décisions visées aux alinéas 1 et 2 dans les limites des dépenses arrêtées par l’organe compétent ainsi que du budget et du plan intégré mission-financement.
+
 #### Art. 12a
 
 **Plan d’études pour la partie francophone du canton**
@@ -245,6 +318,8 @@ arrête:
 - b l’organisation des cours,
 - c l’enseignement et l’apprentissage,
 - d le temps consacré à l’enseignement des domaines.
+
+<sup>3</sup> Il rend les décisions visées à l’alinéa 2 dans les limites des dépenses arrêtées par l’organe compétent ainsi que du budget et du plan intégré mission-financement.
 
 #### Art. 13
 
@@ -260,7 +335,7 @@ arrête:
 
 <sup>1</sup> Le canton veille à ce que les écoles publiques du canton de Berne disposent d'un éventail suffisant et adéquat de moyens d'enseignement.
 
-<sup>2</sup> Pour cela, il peut notamment prendre des participations dans des maisons d'édition, conclure des contrats avec des tiers ou évaluer et primer des moyens d'enseignement.
+<sup>2</sup> Pour cela, il peut conclure des contrats avec des tiers ou évaluer et primer des moyens d'enseignement.
 
 <sup>3</sup> La Direction de l'instruction publique et de la culture arrête les mesures nécessaires. Les compétences ordinaires en matière d'autorisations de dépense sont réservées.
 
@@ -268,9 +343,9 @@ arrête:
 
 **2 Utilisation**
 
-<sup>1</sup> La Direction de l'instruction publique et de la culture peut imposer l'usage de certains moyens d'enseignement lorsque les idées et les objectifs du plan d'études ou la coordination l'exigent.
+<sup>1</sup> Si les idées et les objectifs du plan d’études ou la coordination l’exigent, la Direction de l’instruction publique et de la culture peut imposer l’usage de certains moyens d’enseignement, tout en laissant une liberté de choix aussi grande que possible aux écoles. Les motifs justifiant l’exclusion d’un moyen d’enseignement de la liste des moyens d’enseignement admis sont fixés de manière exhaustive à l’alinéa 2. Les dispositions intercantonales s’appliquent à la partie francophone du canton.
 
-<sup>2</sup> Elle peut exclure l'usage de certains moyens d'enseignement lorsque ceux-ci
+<sup>2</sup> La Direction de l'instruction publique et de la culture peut exclure l'usage de certains moyens d'enseignement lorsque ceux-ci
 
 - a dérogent aux principes didactiques ou pédagogiques établis;
 - b contredisent les idées et les objectifs du plan d'études ou
@@ -307,7 +382,15 @@ arrête:
 
 <sup>4</sup> Elles peuvent déléguer en partie ou en totalité la gestion des modules d’école à journée continue à des organismes privés, à condition toutefois que la surveillance soit assurée par la commission scolaire et que la collaboration avec la direction d’école soit garantie.
 
-<sup>5</sup> Le Conseil-exécutif règle par voie d’ordonnance le seuil à partir duquel la demande est suffisante au sens de l’alinéa 3. Il édicte en outre des prescriptions minimales régissant les normes de qualité relatives notamment à la formation du personnel et aux locaux ainsi que des prescriptions régissant la gestion de la qualité.
+<sup>5</sup> Le Conseil-exécutif
+
+- a règle par voie d’ordonnance le seuil à partir duquel la demande est suffisante au sens de l’alinéa 3;
+- b édicte des prescriptions minimales régissant les normes de qualité relatives notamment à la formation du personnel et aux locaux ainsi que des prescriptions minimales régissant la gestion de la qualité;
+- c peut prescrire par voie d’ordonnance l’utilisation d’une application en ligne pour l’administration.
+
+<sup>6</sup> Les articles 56, 57 et 112 de la loi du 9 mars 2021 sur les programmes d’action sociale (LPASoc)[^14d-1] s’appliquent par analogie pour l'utilisation de l'application en ligne.
+
+[^14d-1]: RSB [860.2](https://www.belex.sites.be.ch/data/860.2/fr)
 
 #### Art. 14e
 
@@ -379,17 +462,19 @@ arrête:
 
 #### Art. 17
 
-**Intégration et mesures particulières**
+**Intégration et mesures de pédagogie spécialisée ordinaires**
 
-<sup>1</sup> En règle générale, il convient d'offrir aux élèves qui présentent des troubles ou des handicaps de nature à perturber leur formation scolaire, aux élèves qui sont aux prises avec des difficultés d'intégration linguistique et culturelle ainsi qu'aux élèves qui ont des dons extraordinaires la possibilité de suivre l'enseignement dans des classes régulières.
+<sup>1</sup> En règle générale, il convient d'offrir aux élèves qui présentent des troubles ou des handicaps de nature à perturber leur formation scolaire, aux élèves qui sont aux prises avec des difficultés d'intégration linguistique et culturelle ainsi qu'aux élèves qui ont des dons extraordinaires la possibilité de suivre l'enseignement dans des classes ordinaires.
 
-<sup>2</sup> Au besoin, des mesures particulières comme l'enseignement spécialisé, l'appui pédagogique ou la scolarisation de l'élève dans une classe spéciale généralement intégrée à une école régulière seront adoptées si les objectifs de formation ne peuvent être atteints d'une autre manière.
+<sup>1a</sup> Si des élèves qui présentent des troubles ou des handicaps de nature à perturber leur formation scolaire ou des élèves qui sont aux prises avec des difficultés d’intégration linguistique et culturelle suivent l’enseignement dans des classes ordinaires, il convient de garantir que les élèves performants soient aussi pris en charge de manière appropriée.
+
+<sup>2</sup> Au besoin, des mesures de pédagogie spécialisée ordinaires comme les mesures de soutien spécialisé, l'appui pédagogique ou la scolarisation de l'élève dans une classe spéciale généralement intégrée à une école comportant des classes ordinaires seront adoptées si les objectifs de formation ne peuvent être atteints d'une autre manière.
 
 <sup>3</sup> Le Conseil-exécutif fixe les modalités de détail par voie d'ordonnance, en particulier
 
-- a l'organisation de l'enseignement spécialisé et des classes spéciales,
+- a l'organisation des mesures de soutien spécialisé et des classes spéciales,
 - b les mesures compensatoires et les mesures destinées à favoriser le développement d'aptitudes,
-- c les procédures concernant la scolarisation dans une classe spéciale.
+- c les procédures d'admission.
 
 #### Art. 17a
 
@@ -407,51 +492,231 @@ arrête:
 
 [^17a-1]: RS [142.31](https://db.clex.ch/link/Bund/142.31/fr)
 
-#### Art. 18
+#### Art. 18–20a
 
-**Autres formes de scolarisation**
-
-<sup>1</sup> L'enfant qui ne peut être scolarisé ni dans une classe régulière ni dans une classe spéciale doit soit être envoyé dans un foyer ou une école spécialisée, soit recevoir sous une autre forme les soins, l'éducation et l'assistance nécessaires ainsi qu'une formation appropriée.
-
-<sup>2</sup> L'inspection scolaire régionale autorise une autre forme de scolarisation ou d'appui après avoir consulté les parents, l'enseignant ou l'enseignante et la direction d'école et en se fondant sur le préavis, motivé, du service psychologique pour enfants et, le cas échéant, du service de pédopsychiatrie ou du service médical scolaire.
-
-<sup>3</sup> La commission scolaire veille à ce que les parents de l'enfant prennent en temps utile les mesures nécessaires. S'ils n'y pourvoient pas, elle avise l'autorité de protection de l’enfant et de l’adulte.
-
-#### Art. 19
-
-**Dispositions particulières, législation sur les œuvres sociales**
-
-<sup>1</sup> L'enseignement délivré dans les écoles spécialisées et dans les foyers, la nomination des enseignants et enseignantes qui l'assurent et la surveillance desdits foyers et écoles sont régis par des ordonnances édictées par le Conseil-exécutif. Au surplus, les foyers et les écoles spécialisées sont soumis à la législation sur les œuvres sociales.
-
-#### Art. 20
-
-**Enseignement dispensé aux enfants hospitalisés**
-
-<sup>1</sup> Les maisons de repos, les sanatoriums et les hôpitaux qui accueillent des enfants pour une période relativement longue doivent leur offrir un enseignement adapté à leur état.
-
-<sup>2</sup> Le canton prend les frais de cet enseignement à sa charge dans les limites du budget de la Direction dont dépend l'institution considérée.
-
-<sup>3</sup> Le canton peut gérer une école pour enfants hospitalisés à l’Hôpital de l’Ile.
-
-#### Art. 20a
-
-**Travail social en milieu scolaire**
-
-<sup>1</sup> Le canton de Berne verse aux communes des subventions aux frais du travail social en milieu scolaire.
-
-<sup>2</sup> Les subventions s’élèvent au maximum à 30 pour cent des coûts de traitements. Elles peuvent être versées de manière forfaitaire.
-
-<sup>3</sup> Il n’est pas versé de subventions pour de faibles montants.
-
-<sup>4</sup> Le Conseil-exécutif est seul compétent pour statuer sur les moyens mis à disposition pour les subventions aux frais du travail social en milieu scolaire des communes. Le service compétent de la Direction de l’instruction publique et de la culture statue sur le versement de chaque subvention dans la limite des moyens accordés.
-
-<sup>5</sup> Le Conseil-exécutif règle les modalités de détail par voie d’ordonnance.
+**…**
 
 ## 4
 
 #### Art. 21
 
 **…**
+
+## 4a Offre spécialisée de l’école obligatoire
+
+### 4a.1 Principes
+
+#### Art. 21a
+
+<sup>1</sup> Les enfants qui ne peuvent pas recevoir un enseignement suffisant dans le cadre de l’offre ordinaire de l’école obligatoire fréquentent l’offre spécialisée de l’école obligatoire.
+
+<sup>2</sup> Leur admission à l’offre spécialisée de l’école obligatoire s’effectue au cas par cas.
+
+<sup>3</sup> L’offre spécialisée de l’école obligatoire est suivie de manière intégrée dans une école comportant des classes ordinaires ou de manière séparée dans un établissement particulier de la scolarité obligatoire.
+
+### 4a.2 Pilotage
+
+#### Art. 21b
+
+<sup>1</sup> Le canton fixe les contenus, les objectifs et les conditions générales de l’offre spécialisée de l’école obligatoire.
+
+<sup>2</sup> Il veille à la fourniture, à la coordination et à l’évaluation des prestations.
+
+<sup>3</sup> Il favorise le transfert de savoir-faire et l’échange d’expériences entre les écoles proposant une démarche intégrative et les écoles proposant une démarche séparative. Il veille à assurer le bon fonctionnement des écoles en mettant à leur disposition des prestations de conseil et d’accompagnement ou toute autre mesure de soutien.
+
+### 4a.3 Procédure d'admission
+
+#### Art. 21c
+
+**Evaluation des besoins**
+
+<sup>1</sup> Les besoins d’un enfant en matière d'offre spécialisée de l’école obligatoire, en particulier de mesures de pédagogie spécialisée renforcées, sont en règle générale évalués selon une procédure standardisée.
+
+<sup>2</sup> Ils sont réévalués si les circonstances évoluent.
+
+<sup>3</sup> Le Conseil-exécutif règle par voie d'ordonnance la procédure d’évaluation standardisée (PES), en particulier les compétences et l’accès à cette procédure.
+
+#### Art. 21d
+
+**Collaboration**
+
+<sup>1</sup> Le service compétent de la Direction de l’instruction publique et de la culture collabore avec les personnes actives dans les domaines scolaire, thérapeutique, médical et social, les établissements publics et privés, les autorités administratives ainsi qu’avec toutes les autorités judiciaires pénales et civiles pour évaluer les besoins de l’enfant en matière d’offre spécialisée de l’école obligatoire, pour autant que ceux-ci et celles-ci soient en contact avec l’enfant concerné.
+
+<sup>2</sup> Ces autorités, établissements et personnes sont tenus de fournir les informations demandées. Le secret professionnel est réservé.
+
+<sup>3</sup> La communication de données est régie par la législation sur la protection des données. De plus, les autorités, établissements et personnes visés à l’alinéa 1 ainsi que le service compétent de la Direction de l’instruction publique et de la culture peuvent échanger au cas par cas des données personnelles, y compris des données particulièrement dignes de protection pouvant en particulier porter sur la santé ainsi que sur l'environnement familial, social et scolaire, si celles-ci sont impérativement nécessaires à l'accomplissement de la tâche légale concernée. Les obligations particulières de garder le secret sont réservées.
+
+#### Art. 21e
+
+**Admission, 1. Principe**
+
+<sup>1</sup> Après consultation des parents, le service compétent de la Direction de l’instruction publique et de la culture statue au cas par cas sur l’admission des enfants à l’offre spécialisée de l’école obligatoire sur la base des conclusions de la PES.
+
+#### Art. 21f
+
+**2. Cas particuliers**
+
+<sup>1</sup> Si les besoins d’un enfant en matière d’offre spécialisée de l’école obligatoire et de placement dans un établissement particulier de la scolarité obligatoire avec hébergement sont établis et que les parents sont d’accord avec le placement, le service compétent de la Direction de l’instruction publique et de la culture statue sur l’offre spécialisée de l’école obligatoire et pourvoit au placement de l'enfant dans un établissement particulier de la scolarité obligatoire avec hébergement conformément à la loi du 3 décembre 2020 sur les prestations particulières d'encouragement et de protection destinées aux enfants (LPEP)[^21f-1].
+
+<sup>2</sup> Au surplus, l’admission de l’enfant à l’offre spécialisée de l’école obligatoire ainsi que son placement sont ordonnés
+
+- a par l’autorité de protection de l’enfant et de l’adulte ou par un tribunal si le placement ne peut pas se faire d'un commun accord;
+- b par l'autorité pénale des mineurs si des mesures relevant du droit pénal des mineurs ont été prononcées.
+
+<sup>3</sup> Si un enfant nécessite des soins hospitaliers de longue durée, il est admis d’office à l’offre spécialisée de l’école obligatoire.
+
+<sup>4</sup> Le Conseil-exécutif fixe les modalités de détail par voie d'ordonnance.
+
+[^21f-1]: RSB [213.319](https://www.belex.sites.be.ch/data/213.319/fr)
+
+### 4a.4 Parcours scolaire
+
+#### Art. 21g
+
+<sup>1</sup> Le temps nécessaire aux élèves ayant besoin de mesures de pédagogie spécialisée renforcées pour parcourir la scolarité obligatoire dépend de leur développement personnel et de la formation postobligatoire qu’ils suivront. La scolarité obligatoire prend fin au plus tard lorsque l’élève atteint l’âge de vingt ans.
+
+<sup>2</sup> Des rapports d’évaluation sont délivrés régulièrement aux élèves. Ils servent de base de décision pour la suite de la scolarité.
+
+<sup>3</sup> Le Conseil-exécutif fixe les modalités de détail par voie d'ordonnance.
+
+### 4a.5 Enseignement dispensé dans les hôpitaux
+
+#### Art. 21h
+
+<sup>1</sup> Les hôpitaux accueillant des enfants pour des séjours de longue durée proposent un enseignement adapté aux circonstances particulières.
+
+### 4a.6 Délégation des tâches
+
+#### Art. 21i
+
+**Organisme responsable**
+
+<sup>1</sup> Le canton peut charger des organismes publics ou privés de fournir l’offre spécialisée de l’école obligatoire.
+
+<sup>2</sup> Ce faisant, il tient compte des prestations offertes dans la région ainsi que de la qualité et du prix des offres proposées.
+
+<sup>3</sup> Les prescriptions relatives aux marchés publics ne sont pas applicables.
+
+<sup>4</sup> Le service compétent de la Direction de l’instruction publique et de la culture fait preuve de transparence, d’objectivité et d’impartialité lors de la délégation des tâches. Il évite les conflits d’intérêts, traite les prestataires sur un pied d'égalité et respecte le principe d'économicité propre au droit sur les marchés publics.
+
+<sup>5</sup> Le canton ou l’organisme responsable assume les tâches attribuées aux communes par la loi, hormis le contrôle du respect de l'obligation scolaire.
+
+#### Art. 21k
+
+**Effets et modalités de la délégation**
+
+<sup>1</sup> Par la délégation des tâches, l’école gérée par l’organisme public ou privé devient un établissement particulier de la scolarité obligatoire.
+
+<sup>2</sup> L'établissement particulier de la scolarité obligatoire est tenu d’accueillir les enfants qui lui sont affectés.
+
+<sup>3</sup> La délégation des tâches se fonde sur une convention de prestations conclue entre le canton et l’organisme mandaté.
+
+<sup>4</sup> Elle s’accompagne d’une délégation des pouvoirs relevant de la puissance publique à l’égard des enfants affectés.
+
+#### Art. 21l
+
+**Conditions présidant à la conclusion de conventions de prestations**
+
+<sup>1</sup> Le service compétent de la Direction de l’instruction publique et de la culture peut conclure une convention de prestations avec un organisme responsable pour autant que celui-ci
+
+- a remplisse les conditions d’octroi d’une autorisation de gérer une école privée définies à l’article 66;
+- b offre aux enseignants et aux enseignantes des conditions d’engagement qui correspondent à celles prévues par la législation sur le statut du corps enseignant concernant le mandat professionnel, le salaire et la progression salariale, le temps de travail, les délais et termes de résiliation des rapports de travail et la formation continue;
+- c soit affilié à la Caisse de pension bernoise (CPB) ou à la Caisse d’assurance du corps enseignant bernois (CACEB) ou, en cas de changement de caisse, s’affilie à l’une d’entre elles;
+- d possède un organe stratégique et un organe opérationnel indépendants l'un de l'autre quant à leur composition;
+- e dispose d’un règlement approuvé par la Direction de l’instruction publique et de la culture qui régisse en particulier les horaires blocs, les mesures disciplinaires et les restrictions applicables à l’école à journée continue.
+
+<sup>2</sup> Pour de justes motifs, une convention de prestations peut exceptionnellement être conclue même si les conditions ne sont pas toutes remplies.
+
+#### Art. 21m
+
+**Contenu de la convention de prestations**
+
+<sup>1</sup> La convention de prestations régit en particulier
+
+- a la nature, le volume et la rétribution des prestations;
+- b les exigences en termes de qualité;
+- c les objectifs d’effet et de prestations;
+- d les modalités de présentation de rapports;
+- e la langue d’enseignement;
+- f les moyens d’enseignement et supports pédagogiques employés;
+- g les coûts de l’école à journée continue;
+- h les mesures d’aide sociale;
+- i la préparation au choix professionnel;
+- k l’enseignement religieux;
+- l le travail social en milieu scolaire;
+- m l’organisation des classes;
+- n les instruments mis en place pour simplifier ou uniformiser l’exécution des tâches déléguées;
+- o le transport d’élèves;
+- p le service médical scolaire et le service dentaire scolaire.
+
+<sup>2</sup> Le Conseil-exécutif règle les exigences en matière de qualité par voie d’ordonnance.
+
+### 4a.7 Surveillance et voies de droit
+
+#### Art. 21n
+
+<sup>1</sup> Les inspections scolaires régionales assurent la surveillance des établissements particuliers de la scolarité obligatoire.
+
+<sup>2</sup> Elles statuent sur les recours formés contre les décisions rendues par les établissements particuliers de la scolarité obligatoire en vertu de la présente loi.
+
+### 4a.8 Financement
+
+#### Art. 21o
+
+**Prise en charge des coûts**
+
+<sup>1</sup> Les coûts suivants sont portés à la compensation des charges du secteur social:
+
+- a les coûts liés à l’offre spécialisée de l’école obligatoire et
+- b les coûts imputables aux écoles à journée continue de l’offre spécialisée de l’école obligatoire.
+
+<sup>2</sup> En cas de placement ordonné par l’autorité de protection de l’enfant et de l’adulte, l’autorité pénale des mineurs ou un tribunal, le canton assume les coûts liés à l’offre spécialisée de l’école obligatoire.
+
+<sup>3</sup> Si un enfant nécessitant des mesures de pédagogie spécialisée renforcées est scolarisé dans le cadre de l'offre ordinaire de l'école obligatoire, les traitements du corps enseignant correspondants sont supportés conformément à l'article 24, alinéa 1 LPFC[^21o-1].
+
+<sup>4</sup> Le Conseil-exécutif édicte par voie d'ordonnance des dispositions détaillées sur les coûts imputables.
+
+[^21o-1]: RSB [631.1](https://www.belex.sites.be.ch/data/631.1/fr)
+
+#### Art. 21p
+
+**Autorisation de dépenses**
+
+<sup>1</sup> Le Conseil-exécutif est seul compétent pour autoriser les dépenses visées à l’article 21o, alinéa 1, sous réserve des compétences de la Direction de l’instruction publique et de la culture en la matière.
+
+#### Art. 21q
+
+**Subventions cantonales**
+
+<sup>1</sup> Le montant des subventions cantonales est déterminé en fonction des coûts qui résultent de l’accomplissement correct, efficient et efficace des prestations.
+
+<sup>2</sup> Ces subventions peuvent être versées sous forme de forfaits ou de montants différenciés, fondés en particulier sur des coûts normatifs.
+
+<sup>3</sup> Le Conseil-exécutif règle les principes du calcul par voie d’ordonnance.
+
+### 4a.9 Fréquentation scolaire intercantonale
+
+#### Art. 21r
+
+<sup>1</sup> La fréquentation scolaire intercantonale est régie par les conventions intercantonales.
+
+<sup>2</sup> Le Conseil-exécutif règle par voie d’ordonnance les modalités de la fréquentation intercantonale de l’offre spécialisée de l’école obligatoire.
+
+### 4a.10 Champ d'application et applicabilité
+
+#### Art. 21s
+
+**Champ d’application de la présente section**
+
+<sup>1</sup> Les dispositions de la présente loi s’appliquent à l’offre spécialisée de l’école obligatoire à moins que les dispositions contenues dans la présente section, dans les conventions de prestations ou dans les règlements d’école des établissements particuliers de la scolarité obligatoire en matière d'horaires blocs, de mesures disciplinaires et de restrictions applicables à l'école à journée continue n'y dérogent.
+
+#### Art. 21t
+
+**Dispositions non applicables**
+
+<sup>1</sup> Les articles 7 et 24 ne s’appliquent pas à l’offre spécialisée de l’école obligatoire.
+
+<sup>2</sup> Les articles 34 à 47 et les articles 48a à 49a2 ne s'appliquent pas aux établissements particuliers de la scolarité obligatoire.
 
 ## 5 Elèves
 
@@ -501,7 +766,10 @@ arrête:
 
 <sup>2</sup> Les classes secondaires accueillent des élèves présumés satisfaire, justification à l'appui, aux exigences élevées de l'enseignement qui y est dispensé.
 
-<sup>3</sup> La procédure d'admission appliquée dans le canton est uniforme. Le Conseil-exécutif arrête les dispositions de détail, notamment celles qui régissent la collaboration des parents, la participation des enseignants et enseignantes de l'école ou de la classe dont vient l'élève et de celle qui l'accueille à l'évaluation de ses aptitudes, et la procédure qui préside à la décision d'admission.
+<sup>3</sup> La procédure d'admission appliquée dans le canton est uniforme. Le Conseil-exécutif
+
+- a fixe les dispositions de détail par voie d'ordonnance, notamment celles qui régissent la collaboration des parents, la participation des enseignants et des enseignantes de l'école ou de la classe dont provient l'élève et de celle qui l'accueille à l'évaluation des aptitudes, et la procédure qui préside à la décision d'admission;
+- b est seul compétent pour autoriser les dépenses.
 
 <sup>4</sup> Le Conseil-exécutif règlemente le changement de type d’école et l’admission aux cours préparant au degré secondaire II. La législation sur les écoles moyennes est réservée.
 
@@ -884,7 +1152,12 @@ arrête:
 
 <sup>1</sup> Le canton fixe les contenus, les objectifs et les conditions générales de l’école obligatoire et veille à ce que l’offre de scolarité obligatoire soit équivalente dans toutes les communes.
 
-<sup>2</sup> Il peut mettre à la disposition des communes des instruments pour simplifier ou uniformiser l’application de la présente loi.
+<sup>2</sup> Afin de simplifier ou d’uniformiser l’application de la présente loi, il peut
+
+- a mettre des instruments à la disposition des communes;
+- b fournir des prestations informatiques à concurrence de leur prix de revient ou confier à des tiers le mandat de fournir ce type de prestations.
+
+<sup>3</sup> Le Conseil-exécutif est seul compétent pour autoriser les dépenses résultant de l'alinéa 2, sous réserve des compétences de la Direction de l’instruction publique et de la culture en la matière.
 
 #### Art. 51
 
@@ -1029,7 +1302,7 @@ arrête:
 
 - a d'assurer la prévention nécessaire
   - 1\. en organisant un contrôle dentaire annuel;
-  - 2\. en prenant régulièrement des mesures préventives à l'école avec l'assistance d'un personnel compétent;
+  - 2\. en prenant régulièrement des mesures préventives dans les écoles publiques avec l'assistance d'un personnel compétent;
 - b de garantir le traitement à des coûts avantageux en cas de déficience ou d'anomalie de la dentition
   - 1\. en désignant des dentistes scolaires;
   - 2\. en appliquant le tarif des soins dentaires scolaires.
@@ -1038,25 +1311,39 @@ arrête:
 
 <sup>5</sup> La Direction de l'instruction publique et de la culture édicte des recommandations.
 
+#### Art. 60a
+
+**Travail social en milieu scolaire**
+
+<sup>1</sup> Le canton de Berne verse aux communes des subventions aux frais du travail social en milieu scolaire.
+
+<sup>2</sup> Les subventions s’élèvent au maximum à 30 pour cent des coûts de traitements. Elles peuvent être fixées de manière forfaitaire.
+
+<sup>3</sup> Il n’est pas versé de subventions pour de faibles montants.
+
+<sup>4</sup> Le Conseil-exécutif est seul compétent pour statuer sur les moyens attribués pour les subventions aux frais du travail social en milieu scolaire supportés par les communes. Le service compétent de la Direction de l’instruction publique et de la culture statue sur le versement de chaque subvention dans la limite des moyens accordés.
+
+<sup>5</sup> Le Conseil-exécutif règle les modalités de détail par voie d’ordonnance.
+
 #### Art. 61
 
-**Services psychologiques pour enfants et service de pédopsychiatrie**
+**Services psychologiques pour enfants et adolescents**
 
-<sup>1</sup> La création et la gestion des services psychologiques régionaux pour enfants et du service de pédopsychiatrie incombent au canton.
+<sup>1</sup> La création et la gestion des services psychologiques régionaux pour enfants et adolescents incombent au canton.
 
-<sup>2</sup> Les services psychologiques pour enfants pourvoient aux besoins qui relèvent des domaines de la psychologie de l’enfant et de l’adolescent et de la psychologie scolaire à l’école obligatoire, dans les écoles professionnelles et dans les écoles moyennes. Ils encouragent toutes les mesures visant à améliorer les conditions d’éducation, de scolarisation et de développement de l’enfant.
+<sup>2</sup> Les services psychologiques pour enfants et adolescents pourvoient aux besoins qui relèvent des domaines de la psychologie de l’enfant et de l’adolescent et de la psychologie scolaire à l’école obligatoire, dans les écoles professionnelles et dans les écoles moyennes. Ils encouragent toutes les mesures visant à améliorer les conditions d’éducation, de scolarisation et de développement de l’enfant ou de l’adolescent.
 
-<sup>3</sup> Le service de pédopsychiatrie fournit ses prestations en complément à celles des services de pédopsychiatrie privés.
+<sup>3</sup> …
 
-<sup>4</sup> Les services psychologiques pour enfants et le service de pédopsychiatrie épaulent, par des conseils et des instructions, les parents, les familles, le corps enseignant, d'autres personnes assumant des tâches éducatives, les autorités et les institutions.
+<sup>4</sup> Les services psychologiques pour enfants et adolescents épaulent, par des conseils et des instructions, les parents, les familles, le corps enseignant, d'autres personnes assumant des tâches éducatives, les autorités et les institutions.
 
-<sup>5</sup> Les consultations, les examens et les traitements des services psychologiques pour enfants et du service de pédopsychiatrie sont gratuits pour les parents. Les franchises usuelles ou celles éventuellement convenues entre les parents et les caisses maladie sont exceptées.
+<sup>5</sup> Les consultations, les évaluations et les traitements réalisés par les services psychologiques pour enfants et adolescents sont gratuits pour les parents.
 
 <sup>6</sup> …
 
 <sup>7</sup> Le Conseil-exécutif fixe les modalités de détail par voie d'ordonnance, en particulier
 
-- a les tâches, l'organisation et la collaboration entre les services psychologiques pour enfants et le service de pédopsychiatrie,
+- a les tâches et l'organisation des services psychologiques pour enfants et adolescents,
 - b la formation et la remise des diplômes des conseillers et des conseillères d'éducation,
 - c les conditions d'engagement des conseillers et des conseillères d'éducation.
 - d …
@@ -1078,6 +1365,8 @@ arrête:
 <sup>2</sup> Il peut prendre à sa charge tout ou partie des droits d'auteur dus par les écoles régies par la présente loi.
 
 <sup>3</sup> Il favorise en particulier la fréquentation d'écoles francophones par des élèves germanophones et vice-versa.
+
+<sup>4</sup> Dans le domaine de l’encouragement des élèves possédant des talents particuliers dans une discipline sportive ou artistique, il assure ou finance la coordination et finance le soutien scolaire.
 
 ### 11.5 Ecoles suisses à l'étranger
 
@@ -1101,6 +1390,8 @@ arrête:
 
 <sup>1</sup> Les écoles privées dans lesquelles les élèves accomplissent leur scolarité obligatoire doivent être autorisées par la Direction de l’instruction publique et de la culture.
 
+<sup>2</sup> Le Conseil-exécutif fixe par voie d'ordonnance le nombre minimal d’élèves que doit compter une école privée ainsi que la procédure de demande.
+
 #### Art. 66
 
 **Conditions requises pour l’octroi d’une autorisation**
@@ -1110,8 +1401,10 @@ arrête:
 - a qu’elle accomplit la mission définie à l’article 2 ou à l’article 2a;
 - b que les personnes qui dispensent l’enseignement sont guidées dans leur travail et contrôlées par des personnes dotées des qualifications pédagogiques requises;
 - c qu’elle dispose d’équipements suffisants;
-- d qu’elle transmet les contenus et atteint les objectifs d’enseignement assignés aux classes d’école enfantine, aux classes primaires ou aux classes générales publiques dans les niveaux d’enseignement correspondants et
-- e que la langue d’enseignement est déterminée, sous réserve de l’alinéa 2, en fonction de la langue officielle de la région concernée.
+- d qu’elle transmet les contenus d'enseignement et atteint les objectifs d’enseignement assignés aux classes d’école enfantine, aux classes primaires ou aux classes générales publiques dans les niveaux d’enseignement correspondants;
+- e que la langue d’enseignement est déterminée, sous réserve de l’alinéa 2, en fonction de la langue officielle de la région concernée;
+- f que les relations qu’elle entretient avec des associations à but idéel sont rendues publiques;
+- g que les élèves nécessitant des mesures de pédagogie spécialisée renforcées reçoivent une formation adaptée et que l'école a pour objectif de leur permettre de prendre part à la vie sociale de manière autodéterminée et indépendante.
 
 <sup>2</sup> L’école privée peut être autorisée à dispenser dans certaines disciplines l’enseignement dans une autre langue si elle garantit que les personnes qui enseignent ont les qualifications requises.
 
@@ -1123,8 +1416,10 @@ arrête:
 
 - a qu’elle accomplit la mission définie à l’article 2 ou à l’article 2a;
 - b que la responsabilité de l’enseignement est assumée par des personnes dotées des qualifications pédagogiques requises;
-- c qu’elle dispose d’équipements suffisants et
-- d que les contenus et les objectifs d’enseignement permettent aux élèves d’accéder aux filières de formation publiques d’Etats tiers.
+- c qu’elle dispose d’équipements suffisants;
+- d que les contenus et les objectifs d’enseignement permettent aux élèves d’accéder aux filières de formation publiques d’Etats tiers;
+- e que les relations que l'école entretient avec des associations à but idéel sont rendues publiques;
+- f que les élèves nécessitant des mesures de pédagogie spécialisée renforcées reçoivent une formation adaptée et que l'école a pour objectif de leur permettre de prendre part à la vie sociale de manière autodéterminée et indépendante.
 
 #### Art. 66b
 
@@ -1167,6 +1462,17 @@ arrête:
 <sup>1</sup> Le service compétent de la Direction de l’instruction publique et de la culture conclut des contrats de prestations avec les écoles privées ayant droit à des subventions.
 
 <sup>2</sup> Les contrats de prestations règlent les prestations à fournir, les prescriptions à respecter en termes de qualité, ainsi que les rapports à établir et le controlling.
+
+#### Art. 67b
+
+**Subventions pour des interventions de psychomotricité, de logopédie et de soutien pédagogique spécialisé**
+
+<sup>1</sup> Le canton peut, pour des élèves qui accomplissent leur scolarité obligatoire dans une école privée et dont les besoins en mesures de pédagogie spécialisée renforcées sont attestés, participer aux coûts générés en particulier par les interventions de psychomotricité et de logopédie hautement spécialisées et par les interventions de soutien pédagogique spécialisé.
+
+<sup>2</sup> Le Conseil-exécutif
+
+- a est seul compétent pour autoriser l’octroi des subventions, sous réserve des compétences de la Direction de l’instruction publique et de la culture en matière d’autorisation de dépenses;
+- b règle les modalités de détail par voie d’ordonnance, en particulier les conditions à remplir pour bénéficier des subventions et leur montant.
 
 #### Art. 68
 
@@ -1260,7 +1566,7 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif arrête les dispositions d'exécution nécessaires.
 
-<sup>2</sup> Il peut déléguer à la Direction de l’instruction publique et de la culture tout ou partie des compétences qui lui sont attribuées par l’article 12, alinéas 1 et 2, l’article 12a, alinéa 2, l’article 17, alinéa 3, l’article 17a, alinéa 4, l’article 25, alinéa 3, l’article 26, alinéas 3 et 4, l’article 27, alinéa 6, l’article 46, alinéa 4, l’article 46a, alinéa 3, l’article 47, alinéas 3 et 4, l’article 49a, alinéa 6, l’article 49a1, alinéa 4, l’article 49a2, alinéa 2, l’article 49f, alinéa 1, l’article 54, alinéa 2 ainsi que l’article 61, alinéa 7.
+<sup>2</sup> Il peut déléguer à la Direction de l’instruction publique et de la culture tout ou partie des compétences qui lui sont attribuées par l’article 12, alinéas 1 et 2, l’article 12a, alinéa 2, l’article 17, alinéa 3, l’article 21p, l’article 25, alinéa 3, l’article 26, alinéas 3 et 4, l’article 27, alinéa 6, l’article 46, alinéa 4, l’article 46a, alinéa 3, l’article 47, alinéas 3 et 4, l’article 49a, alinéas 5 et 6, l’article 49a1, alinéa 4, l’article 49a2, alinéa 2, l’article 49f, alinéa 1, l’article 54, alinéa 2, l'article 60a, alinéa 4, l’article 61, alinéa 7, l’article 65, alinéa 2, l’article 67, alinéa 5 ainsi que l’article 67b, alinéa 2.
 
 #### Art. 75
 
@@ -1342,6 +1648,62 @@ arrête:
 <sup>2</sup> Les 1<sup>er</sup> août 2013 et 2014, les enfants ayant atteint l'âge de quatre ans révolus avant le 1<sup>er</sup> mai de l'année considérée entrent à l'école enfantine. Les enfants ayant atteint l'âge de quatre ans révolus avant le 31 juillet peuvent entrer à l'école enfantine si la commune prévoit cette possibilité.
 
 <sup>3</sup> Les écoles privées doivent obtenir d'ici au 31 juillet 2014 l'autorisation de gérer une école enfantine au sens de la présente modification.
+
+## T4 Dispositions transitoires de la modification du 10.06.2021
+
+#### Art. T4-1
+
+**Admission**
+
+<sup>1</sup> Les enfants qui, selon l’ancien droit, sont scolarisés dans une école comprenant des classes ordinaires ou dans une école spécialisée ou un foyer financés par le canton sont considérés, à l’entrée en vigueur de la présente modification, comme ayant été admis à l’offre spécialisée de l’école obligatoire.
+
+#### Art. T4-2
+
+**Procédures pendantes**
+
+<sup>1</sup> Les procédures administratives concernant une procédure d’admission, le versement d’une subvention d’investissement ou l’examen de faits pertinents en droit de la surveillance qui sont pendantes à la date d’entrée en vigueur de la présente modification sont menées et liquidées selon le nouveau droit par l’autorité compétente selon ce droit.
+
+<sup>2</sup> Les procédures de recours pendantes à la date d’entrée en vigueur de la présente modification sont menées et liquidées selon l’ancien droit par l’autorité compétente selon ce droit.
+
+#### Art. T4-3
+
+**Conventions de prestations en vigueur**
+
+<sup>1</sup> Les conventions de prestations conclues selon l’ancien droit ainsi que les tarifs applicables selon l’ancien droit conservent leur validité à l’entrée en vigueur de la présente modification et jusqu’à la conclusion d’une convention de prestations selon les modalités fixées aux articles 21k à 21m, au plus toutefois jusqu’à la date d’expiration prévue initialement.
+
+<sup>2</sup> Les établissements particuliers de la scolarité obligatoire sont investis de la puissance publique à l’égard des enfants qui leur sont affectés à compter de la date indiquée dans la convention de prestations.
+
+#### Art. T4-4
+
+**Remboursement de subventions d’investissement accordées selon l’ancien droit**
+
+<sup>1</sup> Une durée d’amortissement de 25 ans à compter de la date d’octroi du crédit par l’autorité alors compétente s’applique aux subventions d’investissement octroyées aux prestataires avant l’entrée en vigueur de la présente modification.
+
+<sup>2</sup> Les subventions d’investissement selon l’alinéa 1 doivent être remboursées au prorata de la durée d’amortissement non encore écoulée à la date d’entrée en vigueur de la présente modification.
+
+<sup>3</sup> Les prestataires peuvent choisir de rembourser les sommes visées à l’alinéa 2 à l’entrée en vigueur de la présente modification ou d’habiliter le service compétent de la Direction de l’instruction publique et de la culture à réduire la rétribution prévue dans la convention de prestations au maximum du montant de la part prévue pour l’infrastructure jusqu’à ce que le montant à restituer selon l’alinéa 2 ait été entièrement remboursé.
+
+<sup>4</sup> Dans les cas de rigueur, le Conseil-exécutif peut libérer partiellement les prestataires de l'obligation de rembourser.
+
+#### Art. T4-5
+
+**Mise en conformité des écoles privées avec les conditions d’octroi d’une autorisation de gérer une école privée**
+
+<sup>1</sup> Les écoles privées qui ne concluent pas de convention de prestations avec le canton ont deux ans à compter de l'entrée en vigueur de la présente modification pour satisfaire aux conditions d'octroi d'une autorisation de gérer une école privée et pour en fournir la preuve.
+
+#### Art. T4-6
+
+**Exécution**
+
+<sup>1</sup> Le Conseil-exécutif édicte les dispositions d'exécution nécessaires pour garantir la transition.
+
+<sup>2</sup> Il fixe la date du passage au mode de financement prévu par la présente modification.
+
+#### Art. T4-7
+
+**Compensation des transferts de charges**
+
+<sup>1</sup> Les transferts de charge entre le canton et les communes résultant de la présente modification sont imputés à la compensation des charges conformément à l’article 29b LPFC à partir du moment où ils interviennent.
 
 Berne, le 10 juin 2014
 

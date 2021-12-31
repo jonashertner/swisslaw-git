@@ -4,13 +4,13 @@ number: "432.210"
 title: Volksschulgesetz
 short: VSG
 language: de
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2021-03-07
+version: 2022-01-01
+valid_until: 2026-08-31
+version_adopted: 2021-06-10
 adopted: 1992-03-19
 in_force: 1993-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.210"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2289/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3350/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2289/pdf_file"
 
 (VSG)
 
-vom 19.03.1992 (Stand 01.07.2021)
+vom 19.03.1992 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -31,15 +31,71 @@ beschliesst:
 
 [^ingress-1]: Aufgehoben durch Verfassung des Kantons Bern vom 6.6.1993; BSG 101.1
 
-## 1 Geltungsbereich
+## 1 Geltungsbereich und Gegenstand
 
 #### Art. 1
+
+**Geltungsbereich**
 
 <sup>1</sup> Dieses Gesetz gilt für die Volksschule, umfassend den Kindergarten, die Primarstufe und die Sekundarstufe I.
 
 <sup>2</sup> Für das erste Jahr des gymnasialen Bildungsgangs, das an kantonalen Gymnasien angeboten wird, gilt dieses Gesetz nur, sofern es selber und seine Ausführungserlasse oder die Mittelschulgesetzgebung dies ausdrücklich vorsehen.
 
-## 2 Die Volksschule
+#### Art. 1a
+
+**Gegenstand**
+
+<sup>1</sup> Dieses Gesetz regelt
+
+- a das Volksschulangebot,
+- b die private Schulung,
+- c weitere Bereiche, welche die Volksschule betreffen.
+
+## 2 Volksschulangebot
+
+#### Art. 1b
+
+**Volksschulangebot**
+
+<sup>1</sup> Das Volksschulangebot umfasst
+
+- a das allgemeine Volksschulangebot,
+- b das ergänzende Volksschulangebot.
+
+#### Art. 1c
+
+**Allgemeines Volksschulangebot**
+
+<sup>1</sup> Das allgemeine Volksschulangebot umfasst
+
+- a das Regelschulangebot,
+- b das besondere Volksschulangebot.
+
+<sup>2</sup> Das Regelschulangebot umfasst insbesondere
+
+- a den Regelschulunterricht,
+- b die einfachen sonderpädagogischen Massnahmen,
+- c die unterstützenden Massnahmen,
+- d die Schülertransporte,
+- e den schulärztlichen und den schulzahnärztlichen Dienst.
+
+<sup>3</sup> Das besondere Volksschulangebot umfasst insbesondere
+
+- a den Sonderschulunterricht,
+- b die verstärkten sonderpädagogischen Massnahmen,
+- c den Unterricht mit besonderer Betreuung,
+- d die Schülertransporte,
+- e den schulärztlichen und den schulzahnärztlichen Dienst.
+
+#### Art. 1d
+
+**Ergänzendes Volksschulangebot**
+
+<sup>1</sup> Das ergänzende Volksschulangebot umfasst insbesondere
+
+- a die Tagesschule,
+- b die Schulsozialarbeit,
+- c die Betreuung während der Ferienzeit.
 
 #### Art. 2
 
@@ -116,15 +172,30 @@ beschliesst:
 
 #### Art. 7a
 
-**Spezifischstrukturierte Ausbildungsgänge für Hochbegabte**
+**Talentförderung**
 
-<sup>1</sup> In einen spezifischstrukturierten Ausbildungsgang für Hochbegabte nach den Bestimmungen der Interkantonalen Vereinbarung vom 20. Februar 2003 für Schulen mit spezifischstrukturierten Angeboten für Hochbegabte[^7a-1] kann nur aufgenommen werden, wer über eine Kostengutsprache derjenigen bernischen Gemeinde verfügt, in der sie oder er den zivilrechtlichen Wohnsitz hat.
+<sup>1</sup> In einen ausserkantonalen oder privaten spezifisch-strukturierten Ausbildungsgang für Hochbegabte nach den Bestimmungen der Interkantonalen Vereinbarung vom 20. Februar 2003 für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte[^7a-1] wird aufgenommen, wer über eine Kostengutsprache der zuständigen Stelle der Bildungs- und Kulturdirektion verfügt. Die Kostentragung richtet sich nach Artikel 24e des Gesetzes vom 27. November 2000 über den Finanz- und Lastenausgleich (FILAG)[^7a-2].
 
-<sup>2</sup> Die Wohnsitzgemeinde leistet eine Kostengutsprache, wenn der spezifischstrukturierte Ausbildungsgang die Vereinbarkeit von schulischer Ausbildung und Hochbegabungsförderung besser erlaubt als die ordentliche öffentliche Schule am Aufenthaltsort und wenn die Schülerin oder der Schüler eine qualifizierte Bestätigung ihrer oder seiner Hochbegabung vorweist.
+<sup>2</sup> In ein innerkantonales spezifisch-strukturiertes Förderprogramm oder in einen innerkantonalen spezifisch-strukturierten Ausbildungsgang für Hochbegabte wird aufgenommen, wer über eine Bewilligung der zuständigen Stelle der Bildungs- und Kulturdirektion verfügt. Die Kostentragung richtet sich nach Artikel 24g FILAG[^7a-3].
+
+<sup>2a</sup> Die Bewilligung wird erteilt, wenn
+
+- a durch den Besuch des spezifisch-strukturierten Förderprogramms oder des spezifisch-strukturierten Ausbildungsgangs die schulische Ausbildung und die Talentförderung besser vereinbar sind als durch den Besuch der ordentlichen öffentlichen Schule und
+- b die Schülerin oder der Schüler eine qualifizierte Bestätigung ihres oder seines Talents vorweist.
+
+<sup>2b</sup> Die allfälligen Schülertransportkosten für den Besuch eines spezifisch-strukturierten Förderprogramms oder eines spezifisch-strukturierten Ausbildungsgangs gemäss Absatz 1 und 2 werden von den Eltern getragen.
+
+<sup>2c</sup> Die Bildungs- und Kulturdirektion setzt für den innerkantonalen Bereich der Talentförderung eine Kommission ein.
+
+<sup>2d</sup> Der Regierungsrat regelt die Einzelheiten der Voraussetzungen für die Zulassung zu einem innerkantonalen spezifisch-strukturierten Förderprogramm und zu einem innerkantonalen spezifisch-strukturierten Ausbildungsgang durch Verordnung. Er achtet insbesondere auf die Nähe von schulischer Ausbildung und Talentförderung.
+
+<sup>2e</sup> Der Regierungsrat regelt das Verfahren durch Verordnung. Kann die Bewilligung gemäss Absatz 2 voraussichtlich nicht erteilt werden, wird der Förderpartner angemessen in das Verfahren miteinbezogen.
 
 <sup>3</sup> …
 
-[^7a-1]: BSG 439.38
+[^7a-1]: BSG [439.38-1](https://www.belex.sites.be.ch/data/439.38-1/de)
+[^7a-2]: BSG [631.1](https://www.belex.sites.be.ch/data/631.1/de)
+[^7a-3]: BSG [631.1](https://www.belex.sites.be.ch/data/631.1/de)
 
 #### Art. 8
 
@@ -231,6 +302,8 @@ beschliesst:
 
 <sup>3</sup> …
 
+<sup>4</sup> Er fasst die Beschlüsse gemäss den Absätzen 1 und 2 im Rahmen der von den zuständigen Organen beschlossenen Ausgaben sowie des Voranschlags und des Aufgaben- und Finanzplans.
+
 #### Art. 12a
 
 **Lehrplan für die französischsprachigen Volksschulen**
@@ -243,6 +316,8 @@ beschliesst:
 - b zur Unterrichtsorganisation,
 - c zum Lehren und Lernen,
 - d zur Unterrichtszeit für die Fachbereiche.
+
+<sup>3</sup> Er fasst die Beschlüsse gemäss Absatz 2 im Rahmen der von den zuständigen Organen beschlossenen Ausgaben sowie des Voranschlags und des Aufgaben- und Finanzplans.
 
 #### Art. 13
 
@@ -258,7 +333,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton sichert ein ausreichendes Angebot an geeigneten Lehrmitteln für die öffentlichen Volksschulen des Kantons Bern.
 
-<sup>2</sup> Dazu kann er sich insbesondere an Verlagsunternehmen beteiligen, Verträge mit Dritten abschliessen oder Lehrmittel bewerten und auszeichnen.
+<sup>2</sup> Dazu kann er Verträge mit Dritten abschliessen oder Lehrmittel bewerten und auszeichnen.
 
 <sup>3</sup> Die Bildungs- und Kulturdirektion beschliesst die erforderlichen Massnahmen. Vorbehalten bleiben die ordentlichen Ausgabenbefugnisse.
 
@@ -266,9 +341,9 @@ beschliesst:
 
 **2 Verwendung**
 
-<sup>1</sup> Die Bildungs- und Kulturdirektion kann Lehrmittel zur Verwendung obligatorisch erklären, wenn die Ideen und Ziele des Lehrplans oder die Koordination es erfordern.
+<sup>1</sup> Wenn die Ideen und Ziele des Lehrplans oder die Koordination es erfordern, kann die Bildungs- und Kulturdirektion vorgeben, welche Lehrmittel verwendet werden müssen, wobei weitmöglichst Wahlobligatorien zu schaffen sind. Die Gründe für den Ausschluss eines Lehrmittels sind in Absatz 2 abschliessend geregelt. Für den französischsprachigen Kantonsteil gelten die interkantonalen Bestimmungen.
 
-<sup>2</sup> Sie kann Lehrmittel von der Verwendung ausschliessen, wenn diese
+<sup>2</sup> Die Bildungs- und Kulturdirektion kann Lehrmittel von der Verwendung ausschliessen, wenn diese
 
 - a allgemein anerkannte didaktische oder pädagogische Prinzipien nicht beachten,
 - b nicht mit den Ideen und Zielen des Lehrplans übereinstimmen oder
@@ -305,7 +380,15 @@ beschliesst:
 
 <sup>4</sup> Sie können die Führung der Tagesschulangebote ganz oder teilweise an Private übertragen, sofern die Aufsicht durch die Schulkommission und die Zusammenarbeit mit der Schulleitung gewährleistet sind.
 
-<sup>5</sup> Der Regierungsrat regelt durch Verordnung, ab wann die Nachfrage im Sinne von Absatz 3 genügend ist. Er erlässt zudem Minimalvorschriften über die Qualitätsstandards, insbesondere über die Ausbildung des Personals und die Räume, sowie das Qualitätsmanagement.
+<sup>5</sup> Der Regierungsrat
+
+- a regelt durch Verordnung, ab wann die Nachfrage im Sinne von Absatz 3 genügend ist,
+- b erlässt Minimalvorschriften über die Qualitätsstandards, insbesondere über die Ausbildung des Personals und die Räume, sowie das Qualitätsmanagement,
+- c kann die Verwendung einer Webapplikation für die Administration durch Verordnung vorschreiben.
+
+<sup>6</sup> Bei der Verwendung der Webapplikation gelten die Artikel 56, 57 und 112 des Gesetzes vom 9. März 2021 über die sozialen Leistungsangebote (SLG)[^14d-1] sinngemäss.
+
+[^14d-1]: BSG [860.2](https://www.belex.sites.be.ch/data/860.2/de)
 
 #### Art. 14e
 
@@ -377,11 +460,13 @@ beschliesst:
 
 #### Art. 17
 
-**Integration und besondere Massnahmen**
+**Integration und einfache sonderpädagogische Massnahmen**
 
 <sup>1</sup> Schülerinnen und Schülern, deren schulische Ausbildung durch Störungen und Behinderungen oder durch Probleme bei der sprachlichen und kulturellen Integration erschwert wird, sowie Schülerinnen und Schülern mit ausserordentlichen Begabungen soll in der Regel der Besuch der ordentlichen Bildungsgänge ermöglicht werden.
 
-<sup>2</sup> Die Bildungsziele werden soweit nötig durch besondere Massnahmen wie Spezialunterricht, besondere Förderung oder Schulung in besonderen Klassen, die grundsätzlich in Schulen mit Regelklassen zu integrieren sind, angestrebt.
+<sup>1a</sup> Findet der Besuch von Schülerinnen und Schülern, deren schulische Ausbildung durch Störungen und Behinderungen oder durch Probleme bei der sprachlichen und kulturellen Integration erschwert wird, in ordentlichen Bildungsgängen statt, ist zu gewährleisten, dass die leistungsstarken Mitschülerinnen und Mitschüler bedarfsgerecht gefördert werden.
+
+<sup>2</sup> Die Bildungsziele werden soweit nötig durch einfache sonderpädagogische Massnahmen wie Spezialunterricht, besondere Förderung oder Schulung in besonderen Klassen, die grundsätzlich in Schulen mit Regelklassen zu integrieren sind, angestrebt.
 
 <sup>3</sup> Der Regierungsrat regelt das Nähere durch Verordnung, insbesondere
 
@@ -405,51 +490,231 @@ beschliesst:
 
 [^17a-1]: SR 142.31
 
-#### Art. 18
+#### Art. 18–20a
 
-**Andere Schulung**
-
-<sup>1</sup> Kinder, die nicht in Regelklassen oder besonderen Klassen geschult werden können, müssen in Sonderschulen oder Heimen geschult werden oder erhalten auf andere Weise Pflege, Erziehung, Förderung und angemessene Ausbildung.
-
-<sup>2</sup> Das regionale Schulinspektorat bewilligt eine anderweitige Schulung oder Förderung nach Anhören der Eltern, der Lehrerschaft und der Schulleitung sowie auf Grund eines begründeten Antrages einer kantonalen Erziehungsberatungsstelle, gegebenenfalls des Kinder- und Jugendpsychiatrischen Dienstes oder des schulärztlichen Dienstes.
-
-<sup>3</sup> Die Schulkommission wacht darüber, dass die Eltern des Kindes innert nützlicher Frist das Nötige anordnen. Sind diese säumig, benachrichtigt sie die Kindes- und Erwachsenenschutzbehörde.
-
-#### Art. 19
-
-**Besondere Vorschriften, Fürsorgegesetzgebung**
-
-<sup>1</sup> Über den Unterricht an Sonderschulen und in Heimen, die Wählbarkeit der Lehrkräfte und die Aufsicht über die Sonderschulen und Heime erlässt der Regierungsrat die nötigen Verordnungen. Im übrigen unterstehen die Sonderschulen und Heime der Gesetzgebung über das Fürsorgewesen.
-
-#### Art. 20
-
-**Unterricht für hospitalisierte Kinder**
-
-<sup>1</sup> Erholungsheime, Heilstätten und Spitäler, die Kinder für längere Zeit aufnehmen, haben für einen den besonderen Verhältnissen angepassten Unterricht zu sorgen.
-
-<sup>2</sup> Der Kanton trägt im Rahmen des Voranschlages der für die Institution jeweils zuständigen Direktion die Kosten dieses Unterrichtes.
-
-<sup>3</sup> Der Kanton kann im Inselspital eine Patientenschule führen.
-
-#### Art. 20a
-
-**Schulsozialarbeit**
-
-<sup>1</sup> Der Kanton leistet Beiträge an die Kosten der Gemeinden für die Schulsozialarbeit.
-
-<sup>2</sup> Der Beitrag beträgt höchstens 30 Prozent der Lohnkosten. Er kann pauschaliert werden.
-
-<sup>3</sup> Beiträge von geringer Höhe werden nicht gewährt.
-
-<sup>4</sup> Der Regierungsrat beschliesst abschliessend über die zur Verfügung stehenden Mittel für Beiträge an die Schulsozialarbeitskosten der Gemeinden. Die zuständige Stelle der Bildungs- und Kulturdirektion verfügt den einzelnen Beitrag im Rahmen der bewilligten Mittel.
-
-<sup>5</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
+**…**
 
 ## 4
 
 #### Art. 21
 
 **…**
+
+## 4a Besonderes Volksschulangebot
+
+### 4a.1 Grundsätze
+
+#### Art. 21a
+
+<sup>1</sup> Kinder, die mit dem Regelschulangebot nicht ausreichend geschult werden können, besuchen ein besonderes Volksschulangebot.
+
+<sup>2</sup> Sie werden dem besonderen Volksschulangebot individuell zugewiesen.
+
+<sup>3</sup> Das besondere Volksschulangebot wird integrativ in einer Schule mit Regelklassen oder separativ in einer besonderen Volksschule besucht.
+
+### 4a.2 Steuerung
+
+#### Art. 21b
+
+<sup>1</sup> Der Kanton legt die Inhalte, die Ziele und die Rahmenbedingungen des besonderen Volksschulangebots fest.
+
+<sup>2</sup> Er sorgt für die Bereitstellung, die Koordination und die Überprüfung des Angebots.
+
+<sup>3</sup> Er fördert den Wissens- und Erfahrungsaustausch zwischen den Schulen mit integrativen bzw. separativen Angeboten. Er sorgt durch beratende, begleitende und anderweitige Unterstützung für die erforderliche Tragfähigkeit der Schulen.
+
+### 4a.3 Zuweisungsverfahren
+
+#### Art. 21c
+
+**Bedarfsermittlung**
+
+<sup>1</sup> Der Bedarf des Kindes an einem besonderen Volksschulangebot, insbesondere an verstärkten sonderpädagogischen Massnahmen, wird in der Regel standardisiert ermittelt.
+
+<sup>2</sup> Er wird bei veränderten Umständen überprüft.
+
+<sup>3</sup> Der Regierungsrat regelt das Standardisierte Abklärungsverfahren (SAV), insbesondere die Zuständigkeit und den Zugang, durch Verordnung.
+
+#### Art. 21d
+
+**Zusammenarbeit**
+
+<sup>1</sup> Bei der Ermittlung des Bedarfs des Kindes an einem besonderen Volksschulangebot arbeitet die zuständige Stelle der Bildungs- und Kulturdirektion mit Personen aus dem schulischen, therapeutischen, medizinischen und sozialen Bereich, mit öffentlichen und privaten Einrichtungen, mit den Verwaltungsbehörden sowie mit allen Instanzen der Zivil- und Strafrechtspflege zusammen, soweit diese mit dem betreffenden Kind befasst sind.
+
+<sup>2</sup> Diese Instanzen, Behörden, Einrichtungen und Personen sind verpflichtet, die verlangten Informationen zu erteilen. Das Berufsgeheimnis bleibt vorbehalten.
+
+<sup>3</sup> Die Datenbekanntgabe richtet sich nach der Datenschutzgesetzgebung. Zusätzlich können die Instanzen, Behörden, Einrichtungen und Personen gemäss Absatz 1 und die zuständige Stelle der Bildungs- und Kulturdirektion einander im Einzelfall Personendaten, einschliesslich besonders schützenswerter Daten, insbesondere über die Gesundheit sowie das familiäre, soziale und schulische Umfeld, bekannt geben, wenn die Daten zur Erfüllung der jeweiligen gesetzlichen Aufgabe zwingend erforderlich sind. Besondere Geheimhaltungspflichten bleiben vorbehalten.
+
+#### Art. 21e
+
+**Zuweisung, 1. Grundsatz**
+
+<sup>1</sup> Die zuständige Stelle der Bildungs- und Kulturdirektion verfügt nach Anhörung der Eltern das besondere Volksschulangebot im Einzelfall auf der Grundlage der Ergebnisse des SAV.
+
+#### Art. 21f
+
+**2. Im Speziellen**
+
+<sup>1</sup> Besteht ein Bedarf des Kindes an einem besonderen Volksschulangebot und an einer Unterbringung in einer besonderen Volksschule und sind die Eltern mit der Unterbringung einverstanden, verfügt die zuständige Stelle der Bildungs- und Kulturdirektion das besondere Volksschulangebot und vermittelt die Unterbringung gemäss dem Gesetz vom 3. Dezember 2020 über die Leistungen für Kinder mit besonderem Förder- und Schutzbedarf (KFSG)[^21f-1].
+
+<sup>2</sup> Im Übrigen werden das besondere Volksschulangebot und die Unterbringung angeordnet durch
+
+- a die Kindes- und Erwachsenenschutzbehörde oder ein Gericht, wenn die Unterbringung nicht einvernehmlich vermittelt werden kann,
+- b die Jugendstrafbehörde bei jugendstrafrechtlichen Massnahmen.
+
+<sup>3</sup> Braucht ein Kind für längere Zeit Spitalpflege, gilt es als dem besonderen Volksschulangebot zugewiesen.
+
+<sup>4</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
+
+[^21f-1]: BSG [213.319](https://www.belex.sites.be.ch/data/213.319/de)
+
+### 4a.4 Schullaufbahn
+
+#### Art. 21g
+
+<sup>1</sup> Die Zeit für das Durchlaufen der Volksschule für Kinder mit Bedarf an verstärkten sonderpädagogischen Massnahmen ist im Einzelfall vom Entwicklungsstand der Schülerin oder des Schülers und der anschliessenden Ausbildung abhängig. Sie dauert längstens bis zum vollendeten 20. Lebensjahr.
+
+<sup>2</sup> Den Schülerinnen und Schülern werden periodisch Beurteilungsberichte ausgestellt. Diese sind Entscheidungsgrundlage für die weitere Schulung.
+
+<sup>3</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
+
+### 4a.5 Unterricht in Spitälern
+
+#### Art. 21h
+
+<sup>1</sup> In Spitälern, die Kinder für längere Zeit aufnehmen, ist ein den besonderen Verhältnissen angepasster Unterricht anzubieten.
+
+### 4a.6 Übertragung der Aufgaben
+
+#### Art. 21i
+
+**Trägerschaft**
+
+<sup>1</sup> Der Kanton kann öffentlichen oder privaten Trägerschaften die Aufgabe übertragen, das besondere Volksschulangebot bereitzustellen.
+
+<sup>2</sup> Er berücksichtigt dabei die regionale Versorgung sowie die Qualität und die Kosten des Angebots.
+
+<sup>3</sup> Die Bestimmungen des öffentlichen Beschaffungswesens finden keine Anwendung.
+
+<sup>4</sup> Die zuständige Stelle der Bildungs- und Kulturdirektion verhält sich bei der Übertragung der Aufgabe transparent, objektiv und unparteiisch. Sie vermeidet Interessenkonflikte, behandelt die Leistungserbringer rechtsgleich und beachtet das beschaffungsrechtliche Prinzip der Wirtschaftlichkeit.
+
+<sup>5</sup> Der Kanton oder die Trägerschaft übernimmt die Aufgaben, die das Gesetz den Gemeinden zuweist. Vorbehalten bleibt die Kontrolle des Schulbesuchs.
+
+#### Art. 21k
+
+**Wirkungen und Art der Übertragung**
+
+<sup>1</sup> Mit der Übertragung der Aufgaben wird die Schule der öffentlichen oder privaten Trägerschaft zu einer besonderen Volksschule.
+
+<sup>2</sup> Die besondere Volksschule verpflichtet sich, die ihr zugewiesenen Kinder aufzunehmen.
+
+<sup>3</sup> Die Übertragung der Aufgaben erfolgt durch eine Leistungsvereinbarung zwischen dem Kanton und der Trägerschaft.
+
+<sup>4</sup> Mit den Aufgaben wird die Befugnis übertragen, gegenüber den zugewiesenen Kindern hoheitlich zu handeln.
+
+#### Art. 21l
+
+**Voraussetzungen zum Abschluss der Leistungsvereinbarung**
+
+<sup>1</sup> Die zuständige Stelle der Bildungs- und Kulturdirektion kann mit der Trägerschaft eine Leistungsvereinbarung abschliessen, wenn diese
+
+- a die Voraussetzungen zum Erteilen einer Bewilligung gemäss Artikel 66 erfüllt,
+- b den Lehrkräften Anstellungsbedingungen anbietet, die denjenigen der Lehreranstellungsgesetzgebung in Bezug auf Berufsauftrag, Gehalt und Gehaltsentwicklung, Arbeitszeit, Kündigungsfristen und -termine sowie Weiterbildung entsprechen,
+- c bei der Bernischen Pensionskasse (BPK) oder der Bernischen Lehrerversicherungskasse (BLVK) angeschlossen ist oder sich bei einem allfälligen Pensionskassenwechsel der BPK oder der BLVK anschliesst,
+- d über ein strategisches und ein operatives Organ verfügt, die in der personellen Zusammensetzung voneinander unabhängig sind,
+- e ein von der Bildungs- und Kulturdirektion genehmigtes Reglement aufweist, das insbesondere die Blockzeiten, die Disziplinarmassnahmen und die Beschränkung des Tagesschulangebots regelt.
+
+<sup>2</sup> Aus wichtigen Gründen kann ausnahmsweise eine Leistungsvereinbarung abgeschlossen werden, wenn nicht sämtliche Voraussetzungen erfüllt sind.
+
+#### Art. 21m
+
+**Inhalt der Leistungsvereinbarung**
+
+<sup>1</sup> Die Leistungsvereinbarung regelt insbesondere
+
+- a die Art, den Umfang und die Abgeltung der Leistung,
+- b die Qualitätsanforderungen,
+- c die Wirkungs- und Leistungsziele,
+- d die Berichterstattung,
+- e die Unterrichtssprache,
+- f das Angebot an Lehrmitteln und Medien,
+- g die Kosten für das Tagesschulangebot,
+- h die Fürsorgemassnahmen,
+- i die Berufswahlvorbereitung,
+- k den kirchlichen Unterricht,
+- l die Schulsozialarbeit,
+- m die Klassenorganisation,
+- n die anzuwendenden Hilfsmittel zur Vereinfachung oder Vereinheitlichung des Vollzugs der übertragenen Aufgabe,
+- o die Schülertransporte,
+- p den schulärztlichen und den schulzahnärztlichen Dienst.
+
+<sup>2</sup> Der Regierungsrat regelt die Qualitätsanforderungen durch Verordnung.
+
+### 4a.7 Aufsicht und Rechtspflege
+
+#### Art. 21n
+
+<sup>1</sup> Die regionalen Schulinspektorate beaufsichtigen die besonderen Volksschulen.
+
+<sup>2</sup> Sie beurteilen Beschwerden gegen Verfügungen, welche die besonderen Volksschulen aufgrund dieses Gesetzes erlassen.
+
+### 4a.8 Finanzierung
+
+#### Art. 21o
+
+**Kostentragung**
+
+<sup>1</sup> Folgende Kosten werden dem Lastenausgleich Soziales zugeführt:
+
+- a die Kosten des besonderen Volksschulangebots und
+- b die anrechenbaren Kosten für die Tagesschulen des besonderen Volksschulangebots.
+
+<sup>2</sup> Bei einer Zuweisung durch die Kindes- und Erwachsenenschutzbehörde, die Jugendstrafbehörde oder ein Gericht trägt der Kanton die Kosten des besonderen Volksschulangebots.
+
+<sup>3</sup> Wird ein Kind mit Bedarf an verstärkten sonderpädagogischen Massnahmen im Rahmen des Regelschulangebots unterrichtet, werden die Lehrergehälter gemäss Artikel 24 FILAG[^21o-1] getragen.
+
+<sup>4</sup> Der Regierungsrat erlässt nähere Vorschriften über die anrechenbaren Kosten durch Verordnung.
+
+[^21o-1]: BSG [631.1](https://www.belex.sites.be.ch/data/631.1/de)
+
+#### Art. 21p
+
+**Ausgabenbewilligung**
+
+<sup>1</sup> Der Regierungsrat bewilligt die Ausgaben gemäss Artikel 21o Absatz 1 unter Vorbehalt der Ausgabenbefugnisse der Bildungs- und Kulturdirektion abschliessend.
+
+#### Art. 21q
+
+**Kantonsbeiträge**
+
+<sup>1</sup> Die Höhe der einzelnen Kantonsbeiträge richtet sich nach den Kosten, die sich bei einer ordnungsgemässen, effizienten und wirkungsvollen Leistungserbringung ergeben.
+
+<sup>2</sup> Es können Pauschalen oder Beiträge, insbesondere aufgrund von Normkosten, ausgerichtet werden.
+
+<sup>3</sup> Der Regierungsrat regelt die Grundsätze der Berechnung durch Verordnung.
+
+### 4a.9 Interkantonaler Schulbesuch
+
+#### Art. 21r
+
+<sup>1</sup> Der interkantonale Schulbesuch richtet sich nach den interkantonalen Vereinbarungen.
+
+<sup>2</sup> Der Regierungsrat regelt den interkantonalen Besuch des besonderen Volksschulangebots durch Verordnung.
+
+### 4a.10 Geltungsbereich und Anwendbarkeit
+
+#### Art. 21s
+
+**Geltungsbereich dieses Abschnitts**
+
+<sup>1</sup> Für das besondere Volksschulangebot gelten die Bestimmungen dieses Gesetzes, soweit weder in diesem Abschnitt, noch in der Leistungsvereinbarung, noch im Schulreglement der besonderen Volksschule bezüglich Blockzeiten, Disziplinarmassnahmen und Beschränkung des Tagesschulangebots davon abgewichen wird.
+
+#### Art. 21t
+
+**Nicht anwendbare Bestimmungen**
+
+<sup>1</sup> Für das besondere Volksschulangebot sind die Artikel 7 und 24 nicht anwendbar.
+
+<sup>2</sup> Für die besonderen Volksschulen sind die Artikel 34 bis 47 sowie 48a bis 49a2 nicht anwendbar.
 
 ## 5 Die Schülerinnen und Schüler
 
@@ -497,7 +762,10 @@ beschliesst:
 
 <sup>2</sup> In eine Sekundarklasse werden Schülerinnen und Schüler aufgenommen, bei denen sich begründet annehmen lässt, dass sie den erhöhten Anforderungen des Unterrichts genügen werden.
 
-<sup>3</sup> Für den ganzen Kanton gilt ein einheitlich gestaltetes Übertrittsverfahren. Das Nähere, insbesondere den Beizug der Eltern, die Mitwirkung der Lehrerschaft der vorbereitenden und der weiterführenden Klassen oder Schulen bei den Eignungsabklärungen sowie das Vorgehen beim Übertrittsentscheid, regelt der Regierungsrat .
+<sup>3</sup> Für den ganzen Kanton gilt ein einheitlich gestaltetes Übertrittsverfahren. Der Regierungsrat
+
+- a regelt das Nähere durch Verordnung, insbesondere den Beizug der Eltern, die Mitwirkung der Lehrerschaft der vorbereitenden und der weiterführenden Klassen oder Schulen bei den Eignungsabklärungen sowie das Vorgehen beim Übertrittsentscheid,
+- b bewilligt die Ausgaben abschliessend.
 
 <sup>4</sup> Der Regierungsrat regelt den Schultypenwechsel und die Zulassung zum Vorbereitungsunterricht für den Übertritt in die Sekundarstufe II. Die Mittelschulgesetzgebung bleibt vorbehalten.
 
@@ -587,7 +855,7 @@ beschliesst:
 
 <sup>3</sup> Stellt das Gericht fest, dass eine Schülerin oder ein Schüler gefährdet oder verwahrlost ist, benachrichtigt es die zuständige Kindes- und Erwachsenenschutzbehörde; hievon gibt es der zuständigen Schulkommission und der Schulleitung Kenntnis.
 
-## 7 Organisation und Führung der Volkschulen
+## 7 Organisation und Führung der Volksschulen
 
 #### Art. 34
 
@@ -880,7 +1148,12 @@ beschliesst:
 
 <sup>1</sup> Der Kanton legt die Inhalte, die Ziele und die Rahmenbedingungen der Volksschule fest und sorgt für ein in allen Gemeinden vergleichbares Volksschulangebot.
 
-<sup>2</sup> Er kann den Gemeinden Hilfsmittel zur Vereinfachung oder Vereinheitlichung des Vollzugs dieses Gesetzes zur Verfügung stellen.
+<sup>2</sup> Er kann zur Vereinfachung oder Vereinheitlichung des Vollzugs dieses Gesetzes
+
+- a den Gemeinden Hilfsmittel zur Verfügung stellen,
+- b Informatikdienstleistungen zu kostendeckenden Preisen erbringen oder Dritte damit beauftragen.
+
+<sup>3</sup> Der Regierungsrat bewilligt die Ausgaben gemäss Absatz 2 unter Vorbehalt der Ausgabenbefugnisse der Bildungs- und Kulturdirektion abschliessend.
 
 #### Art. 51
 
@@ -1025,7 +1298,7 @@ beschliesst:
 
 - a die erforderliche Prophylaxe:
   - 1\. jährliche Kontrolluntersuchung,
-  - 2\. regelmässige vorbeugende Massnahmen in der Volksschule unter Beizug von Fachpersonal,
+  - 2\. regelmässige vorbeugende Massnahmen in der öffentlichen Volksschule unter Beizug von Fachpersonal,
 - b das kostengünstige Angebot für die Behandlung kranker Kauorgane und anomaler Gebisse durch
   - 1\. Ernennen von Schulzahnärztinnen und Schulzahnärzten,
   - 2\. Anwenden des Schulzahnpflegetarifs.
@@ -1034,25 +1307,39 @@ beschliesst:
 
 <sup>5</sup> Die Bildungs- und Kulturdirektion erlässt Empfehlungen.
 
+#### Art. 60a
+
+**Schulsozialarbeit**
+
+<sup>1</sup> Der Kanton leistet Beiträge an die Kosten der Gemeinden für die Schulsozialarbeit.
+
+<sup>2</sup> Der Beitrag beträgt höchstens 30 Prozent der Lohnkosten. Er kann pauschaliert werden.
+
+<sup>3</sup> Beiträge von geringer Höhe werden nicht gewährt.
+
+<sup>4</sup> Der Regierungsrat beschliesst abschliessend über die zur Verfügung stehenden Mittel für Beiträge an die Kosten der Gemeinden für die Schulsozialarbeit. Die zuständige Stelle der Bildungs- und Kulturdirektion verfügt den einzelnen Beitrag im Rahmen der bewilligten Mittel.
+
+<sup>5</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
+
 #### Art. 61
 
-**Erziehungsberatung, Kinder- und jugendpsychiatrischer Dienst**
+**Erziehungsberatung**
 
-<sup>1</sup> Das Errichten und Führen von regionalen Erziehungsberatungsstellen sowie des Kinder- und Jugendpsychiatrischen Dienstes ist Aufgabe des Kantons.
+<sup>1</sup> Das Errichten und Führen von regionalen Erziehungsberatungsstellen ist Aufgabe des Kantons.
 
 <sup>2</sup> Die Erziehungsberatung stellt die kinder- und jugendpsychologische sowie die schulpsychologische Versorgung in den Volksschulen, in den Berufsfachschulen und den Mittelschulen sicher. Sie fördert alle Massnahmen zur Verbesserung der Erziehungs-, Schulungs- und Entwicklungsverhältnisse.
 
-<sup>3</sup> Der Kinder- und Jugendpsychiatrische Dienst ergänzt die private kinder- und jugendpsychiatrische Versorgung.
+<sup>3</sup> …
 
-<sup>4</sup> Beide Dienste unterstützen Eltern, Familien, Lehrkräfte, andere Erziehende, Behörden und Institutionen mit Rat und Anleitung.
+<sup>4</sup> Die Erziehungsberatung unterstützt Eltern, Familien, Lehrkräfte, andere Erzieherinnen und Erzieher, Behörden und Institutionen mit Rat und Anleitung.
 
-<sup>5</sup> Abklärungen, Beratungen und Behandlungen durch die Erziehungsberatungsstellen sowie Abklärungen beim Kinder- und Jugendpsychiatrischen Dienst sind für die Eltern unentgeltlich. Ausgenommen sind die ordentlichen und die allfälligen zwischen Eltern und Krankenkassen vereinbarten Franchisen.
+<sup>5</sup> Abklärungen, Beratungen und Behandlungen durch die Erziehungsberatungsstellen sind für die Eltern unentgeltlich.
 
 <sup>6</sup> …
 
 <sup>7</sup> Der Regierungsrat regelt das Nähere durch Verordnung, insbesondere
 
-- a die Aufgaben, die Organisation und die Zusammenarbeit der Erziehungsberatung und des Kinder- und Jugendpsychiatrischen Dienstes,
+- a die Aufgaben und die Organisation der Erziehungsberatung,
 - b die Ausbildung und Diplomierung der Erziehungsberaterinnen und Erziehungsberater,
 - c die Voraussetzungen der Anstellung als Erziehungsberaterin oder Erziehungsberater.
 - d …
@@ -1074,6 +1361,8 @@ beschliesst:
 <sup>2</sup> Er kann Urheberrechtsabgaben für die diesem Gesetz unterstehenden Volksschulen ganz oder teilweise übernehmen.
 
 <sup>3</sup> Er fördert insbesondere den Unterrichtsbesuch von Schülerinnen und Schülern des deutschsprachigen Sprachgebiets im französischsprachigen und umgekehrt.
+
+<sup>4</sup> Im Bereich der sportlichen und musischen Talentförderung übernimmt oder finanziert der Kanton die Koordination und finanziert die schulische Unterstützung.
 
 ### 11.5 Schweizerschulen im Ausland
 
@@ -1097,6 +1386,8 @@ beschliesst:
 
 <sup>1</sup> Privatschulen, in denen Kinder ihre Volksschulpflicht erfüllen, bedürfen einer Bewilligung der Bildungs- und Kulturdirektion.
 
+<sup>2</sup> Der Regierungsrat regelt die Mindestanzahl Schülerinnen und Schüler einer Privatschule sowie das Gesuchsverfahren durch Verordnung.
+
 #### Art. 66
 
 **Bewilligungsvoraussetzungen**
@@ -1106,8 +1397,10 @@ beschliesst:
 - a die Aufgaben gemäss Artikel 2 oder Artikel 2a erfüllt werden,
 - b pädagogisch ausgebildete Personen diejenigen Personen anleiten und überwachen, die den Unterricht erteilen,
 - c genügende Schuleinrichtungen vorhanden sind,
-- d die für die öffentlichen Kindergarten-, Primar- und Realklassen geltenden Unterrichtsinhalte und -ziele im Rahmen der Schulstufen erreicht werden und
-- e die Unterrichtssprache sich unter Vorbehalt von Absatz 2 nach der Amtssprache der Region richtet.
+- d die für die öffentlichen Kindergarten-, Primar- und Realklassen geltenden Unterrichtsinhalte und -ziele im Rahmen der Schulstufen erreicht werden,
+- e die Unterrichtssprache sich unter Vorbehalt von Absatz 2 nach der Amtssprache der Region richtet,
+- f ihre Verbindungen zu ideellen Vereinigungen veröffentlicht sind,
+- g Kinder mit Bedarf an verstärkten sonderpädagogischen Massnahmen eine angemessene Ausbildung erhalten und die Privatschule anstrebt, dass diese selbstbestimmt und selbstständig am gesellschaftlichen Leben teilhaben können.
 
 <sup>2</sup> Eine andere Unterrichtssprache in einzelnen Fächern kann bewilligt werden, wenn die Privatschule gewährleistet, dass die unterrichtenden Personen über die notwendigen Qualifikationen verfügen.
 
@@ -1119,8 +1412,10 @@ beschliesst:
 
 - a die Aufgaben gemäss Artikel 2 oder Artikel 2a erfüllt werden,
 - b pädagogisch ausgebildetes Personal den Unterricht verantwortet,
-- c genügende Schuleinrichtungen vorhanden sind und
-- d die Unterrichtsinhalte und -ziele den Übertritt in die öffentlichen Ausbildungsgänge anderer Staaten ermöglichen.
+- c genügende Schuleinrichtungen vorhanden sind,
+- d die Unterrichtsinhalte und -ziele den Übertritt in die öffentlichen Ausbildungsgänge anderer Staaten ermöglichen,
+- e ihre Verbindungen zu ideellen Vereinigungen veröffentlicht sind,
+- f Kinder mit Bedarf an verstärkten sonderpädagogischen Massnahmen eine angemessene Ausbildung erhalten und die Privatschule anstrebt, dass diese selbstbestimmt und selbstständig am gesellschaftlichen Leben teilhaben können.
 
 #### Art. 66b
 
@@ -1163,6 +1458,17 @@ beschliesst:
 <sup>1</sup> Die zuständige Stelle der Bildungs- und Kulturdirektion schliesst mit den beitragsberechtigten Privatschulen Leistungsverträge ab.
 
 <sup>2</sup> Die Leistungsverträge regeln die zu erbringenden Leistungen, die damit verbundenen Qualitätsvorgaben sowie die Berichterstattung und das Controlling.
+
+#### Art. 67b
+
+**Beiträge für Psychomotorik, Logopädie und heilpädagogische Unterstützung**
+
+<sup>1</sup> Der Kanton kann für Kinder, die ihre Volksschulpflicht in einer Privatschule erfüllen und einen ausgewiesenen Bedarf an verstärkten sonderpädagogischen Massnahmen aufweisen, insbesondere Beiträge an die Kosten der hochspezialisierten Psychomotorik und hochspezialisierten Logopädie sowie der heilpädagogischen Unterstützung leisten.
+
+<sup>2</sup> Der Regierungsrat
+
+- a bewilligt die Beiträge unter Vorbehalt der Ausgabenbefugnisse der Bildungs- und Kulturdirektion abschliessend,
+- b regelt das Nähere, insbesondere die Voraussetzungen für einen Beitrag und dessen Umfang, durch Verordnung.
 
 #### Art. 68
 
@@ -1256,7 +1562,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat erlässt die notwendigen Vollzugsbestimmungen.
 
-<sup>2</sup> Er kann seine Befugnisse gemäss Artikel 12 Absätze 1 und 2, Artikel 12a Absatz 2, Artikel 17 Absatz 3, Artikel 17a Absatz 4, Artikel 25 Absatz 3, Artikel 26 Absätze 3 und 4, Artikel 27 Absatz 6, Artikel 46 Absatz 4, Artikel 46a Absatz 3, Artikel 47 Absätze 3 und 4, Artikel 49a Absatz 6, Artikel 49a1 Absatz 4, Artikel 49a2 Absatz 2, Artikel 49f Absatz 1, Artikel 54 Absatz 2 sowie Artikel 61 Absatz 7 ganz oder teilweise der Bildungs- und Kulturdirektion übertragen.
+<sup>2</sup> Er kann seine Befugnisse gemäss Artikel 12 Absätze 1 und 2, Artikel 12a Absatz 2, Artikel 17 Absatz 3, Artikel 21p, Artikel 25 Absatz 3, Artikel 26 Absätze 3 und 4, Artikel 27 Absatz 6, Artikel 46 Absatz 4, Artikel 46a Absatz 3, Artikel 47 Absätze 3 und 4, Artikel 49a Absätze 5 und 6, Artikel 49a1 Absatz 4, Artikel 49a2 Absatz 2, Artikel 49f Absatz 1, Artikel 54 Absatz 2, Artikel 60a Absatz 4, Artikel 61 Absatz 7, Artikel 65 Absatz 2, Artikel 67 Absatz 5 sowie Artikel 67b Absatz 2 ganz oder teilweise der Bildungs- und Kulturdirektion übertragen.
 
 #### Art. 75
 
@@ -1338,6 +1644,62 @@ beschliesst:
 <sup>2</sup> Am 1. August 2013 bzw. am 1. August 2014 treten diejenigen Kinder in den Kindergarten ein, welche das vierte Altersjahr vor dem 1. Mai des betreffenden Jahres vollendet haben. Kinder, welche das vierte Altersjahr vor dem 31. Juli vollendet haben, können in den Kindergarten eintreten, wenn die Gemeinde diese Möglichkeit vorsieht.
 
 <sup>3</sup> Privatschulen haben für den Kindergarten bis am 31. Juli 2014 eine Bewilligung gemäss diesem Gesetz einzuholen.
+
+## T4 Übergangsbestimmungen der Änderung vom 10.06.2021
+
+#### Art. T4-1
+
+**Zuweisung**
+
+<sup>1</sup> Kinder, die nach altem Recht in einer Schule mit Regelklassen oder in kantonal finanzierten Sonderschulen oder Heimen geschult werden, gelten mit Inkrafttreten dieser Änderung als diesem besonderen Volksschulangebot zugewiesen.
+
+#### Art. T4-2
+
+**Hängige Verfahren**
+
+<sup>1</sup> Zum Zeitpunkt des Inkrafttretens dieser Änderung hängige Verwaltungsverfahren betreffend die Zuweisung, die Ausrichtung eines Investitionsbeitrags oder die Untersuchung eines aufsichtsrechtlich relevanten Sachverhalts werden von der nach neuem Recht zuständigen Stelle nach neuem Recht geführt und abgeschlossen.
+
+<sup>2</sup> Zum Zeitpunkt des Inkrafttretens dieser Änderung hängige Beschwerdeverfahren werden von der bisher zuständigen Behörde nach bisherigem Recht geführt und abgeschlossen.
+
+#### Art. T4-3
+
+**Bestehende Leistungsvereinbarungen**
+
+<sup>1</sup> Nach bisherigem Recht geschlossene Leistungsvereinbarungen oder geltende Tarife behalten ihre Gültigkeit nach Inkrafttreten dieser Änderung bis zum Abschluss einer Leistungsvereinbarung gemäss Artikel 21k bis 21m, längstens jedoch bis zum Ablauf der vorgesehenen Geltungsdauer.
+
+<sup>2</sup> Die Befugnis, gegenüber den zugewiesenen Kindern hoheitlich zu handeln, gilt ab dem in der Leistungsvereinbarung festgelegten Zeitpunkt.
+
+#### Art. T4-4
+
+**Rückerstattung altrechtlich gewährter Investitionsbeiträge**
+
+<sup>1</sup> Für vor dem Inkrafttreten dieser Änderung an die Leistungserbringer ausgerichtete Investitionsbeiträge gilt eine Amortisationsdauer von 25 Jahren ab dem Zeitpunkt des Kreditbeschlusses der bisher zuständigen Behörde.
+
+<sup>2</sup> Investitionsbeiträge gemäss Absatz 1 sind im Verhältnis der bei Inkrafttreten dieser Änderung noch nicht verstrichenen Amortisationsdauer zurückzuerstatten.
+
+<sup>3</sup> Die Leistungserbringer können wählen, ob sie den gemäss Absatz 2 rückerstattungspflichtigen Betrag auf den Zeitpunkt des Inkrafttretens dieser Änderung zurückbezahlen wollen, oder ob die zuständige Stelle der Bildungs- und Kulturdirektion die in der Leistungsvereinbarung vorgesehene Abgeltung höchstens im Umfang des für die Infrastruktur vorgesehenen Anteils kürzen soll, bis der nach Massgabe von Absatz 2 rückerstattungspflichtige Betrag vollständig getilgt ist.
+
+<sup>4</sup> In Härtefällen kann der Regierungsrat Leistungserbringer teilweise von der Rückerstattungspflicht befreien.
+
+#### Art. T4-5
+
+**Anpassung an die neuen Bewilligungsvoraussetzungen für Privatschulen**
+
+<sup>1</sup> Privatschulen, die keine Leistungsvereinbarung mit dem Kanton abschliessen, haben innert zwei Jahren nach dem Inkrafttreten dieser Änderung die Voraussetzungen für die Erteilung einer Privatschulbewilligung zu erfüllen und den entsprechenden Nachweis zu erbringen.
+
+#### Art. T4-6
+
+**Vollzug**
+
+<sup>1</sup> Der Regierungsrat erlässt die notwendigen Vollzugsbestimmungen zum Übergang.
+
+<sup>2</sup> Er legt den jeweiligen Zeitpunkt des Übergangs zur Finanzierung gemäss dieser Änderung fest.
+
+#### Art. T4-7
+
+**Ausgleich der Lastenverschiebung**
+
+<sup>1</sup> Lastenverschiebungen zwischen Kanton und Gemeinden aufgrund dieser Änderung werden ab dem Zeitpunkt ihres Eintretens dem Lastenausgleich nach Artikel 29b FILAG angerechnet.
 
 Bern, 10. Juni 2014
 
