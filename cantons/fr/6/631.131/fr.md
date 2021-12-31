@@ -3,13 +3,13 @@ canton: FR
 number: "631.131"
 title: Ordonnance DFIN relative à la perception des créances fiscales
 language: fr
-version: 2019-01-01
-valid_until: 2021-12-31
-version_adopted: 2018-12-12
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-10-20
 adopted: 2014-11-07
 in_force: 2015-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/631.131"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5853/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6935/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5853/pdf_file"
 
 Perception des créances fiscales – O
 
-du 07.11.2014 (version entrée en vigueur le 01.01.2019)
+du 07.11.2014 (version entrée en vigueur le 01.01.2022)
 
 La Direction des finances
 
@@ -64,7 +64,7 @@ Ordonne:
 
 **Intérêt compensatoire**
 
-<sup>1</sup> Le taux de l'intérêt compensatoire est fixé à 1,5 %.
+<sup>1</sup> Le taux de l'intérêt compensatoire est fixé à 0 %.
 
 #### Art. 5
 

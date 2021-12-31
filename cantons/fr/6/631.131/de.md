@@ -3,13 +3,13 @@ canton: FR
 number: "631.131"
 title: Verordnung FIND über den Bezug der Steuerforderungen
 language: de
-version: 2019-01-01
-valid_until: 2021-12-31
-version_adopted: 2018-12-12
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-10-20
 adopted: 2014-11-07
 in_force: 2015-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/631.131"
-pdf: "https://bdlf.fr.ch/api/de/versions/5853/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6935/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5853/pdf_file"
 
 Bezug der Steuerforderungen – V
 
-vom 07.11.2014 (Fassung in Kraft getreten am 01.01.2019)
+vom 07.11.2014 (Fassung in Kraft getreten am 01.01.2022)
 
 Die Finanzdirektion
 
@@ -64,7 +64,7 @@ verordnet:
 
 **Ausgleichszins**
 
-<sup>1</sup> Der Zinssatz des Ausgleichszinses beträgt 1,5 %.
+<sup>1</sup> Der Zinssatz des Ausgleichszinses beträgt 0 %.
 
 #### Art. 5
 
