@@ -4,13 +4,12 @@ number: "432.12.1"
 title: Loi sur la Haute Ecole spécialisée de Suisse occidentale//Fribourg
 short: LHES-SO//FR
 language: fr
-version: 2015-01-01
-valid_until: 2021-12-31
-version_adopted: 2014-05-15
+version: 2022-01-01
+version_adopted: 2022-12-13
 adopted: 2014-05-15
 in_force: 2015-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/432.12.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7192/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8562/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Haute Ecole spécialisée de Suisse occidentale//Fribourg – L
 
 (LHES-SO//FR)
 
-du 15.05.2014 (version entrée en vigueur le 01.01.2015)
+du 15.05.2014 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg[^ingress-1]
 
@@ -66,13 +65,16 @@ Décrète:
 - c) la Haute Ecole de santé de Fribourg (HEdS-FR);
 - d) la Haute Ecole de travail social de Fribourg (HETS-FR).
 
-<sup>4</sup> Elle est autonome dans les limites de la loi et de la Convention intercantonale sur la Haute Ecole spécialisée de Suisse occidentale (ci-après: Convention HES-SO).
+<sup>4</sup> Elle est autonome dans les limites de la loi et de la Convention intercantonale sur la Haute Ecole spécialisée de Suisse occidentale[^2-1] (ci-après: Convention HES-SO).
 
-<sup>5</sup> En se fondant sur la convention d'objectifs quadriennale passée entre le comité gouvernemental et la HES-SO, elle réalise les missions HES qui lui sont attribuées, aux termes de la Convention HES-SO, via le mandat de prestations.
+<sup>5</sup> En se fondant sur la convention d'objectifs quadriennale passée entre le comité gouvernemental et la HES-SO, elle réalise les missions HES qui lui sont attribuées, aux termes de la Convention HES-SO[^2-2] , via le mandat de prestations.
 
 <sup>6</sup> Le Conseil d'Etat peut lui attribuer des tâches supplémentaires. Celles-ci font l'objet d'un contrat et d'un financement additionnel.
 
 <sup>7</sup> Elle est au bénéfice d'une enveloppe budgétaire globale selon l'article 62.
+
+[^2-1]: RSF [432.11.1](https://bdlf.fr.ch/data/432.11.1/fr)
+[^2-2]: RSF [432.11.1](https://bdlf.fr.ch/data/432.11.1/fr)
 
 #### Art. 3
 
@@ -138,7 +140,9 @@ Décrète:
 
 **Principes liés aux missions – En général**
 
-<sup>1</sup> Dans l'accomplissement de leurs missions, les écoles de la HES-SO//FR reconnaissent et appliquent les principes de fonctionnement ancrés dans la Convention intercantonale sur la HES-SO (liberté académique, équité, égalité, participation) ainsi que les principes généraux décrits aux articles suivants.
+<sup>1</sup> Dans l'accomplissement de leurs missions, les écoles de la HES-SO//FR reconnaissent et appliquent les principes de fonctionnement ancrés dans la Convention intercantonale sur la HES-SO[^9-1] (liberté académique, équité, égalité, participation) ainsi que les principes généraux décrits aux articles suivants.
+
+[^9-1]: RSF [432.11.1](https://bdlf.fr.ch/data/432.11.1/fr)
 
 #### Art. 10
 
@@ -172,9 +176,11 @@ Décrète:
 
 **Principes liés aux missions – Gestion par la qualité**
 
-<sup>1</sup> Dans le cadre des mesures en matière d'assurance qualité prévues aux termes de la Convention HES-SO, la HES-SO//FR applique un système de gestion par la qualité, mis en œuvre dans chaque école, sous la responsabilité du directeur ou de la directrice.
+<sup>1</sup> Dans le cadre des mesures en matière d'assurance qualité prévues aux termes de la Convention HES-SO[^13-1], la HES-SO//FR applique un système de gestion par la qualité, mis en œuvre dans chaque école, sous la responsabilité du directeur ou de la directrice.
 
 <sup>2</sup> La direction générale de la HES-SO//FR, en accord avec le comité de direction, assure le développement de ce système et veille à son adéquation par rapport à l'évolution de ses tâches et de son environnement.
+
+[^13-1]: RSF [432.11.1](https://bdlf.fr.ch/data/432.11.1/fr)
 
 ## 2 Organisation
 
@@ -310,9 +316,11 @@ Décrète:
 
 **Direction générale – Principes**
 
-<sup>1</sup> Au sens de la Convention HES-SO, le directeur général ou la directrice générale est le garant ou la garante de la réalisation du mandat de prestations envers le Rectorat de la HES-SO.
+<sup>1</sup> Au sens de la Convention HES-SO[^23-1], le directeur général ou la directrice générale est le garant ou la garante de la réalisation du mandat de prestations envers le Rectorat de la HES-SO.
 
 <sup>2</sup> Les responsables des services techniques centraux et le ou la responsable qualité de la HES-SO//FR lui sont directement subordonnés.
+
+[^23-1]: RSF [432.11.1](https://bdlf.fr.ch/data/432.11.1/fr)
 
 #### Art. 24
 
@@ -326,7 +334,7 @@ Décrète:
 <sup>2</sup> Il ou elle exerce en outre les compétences suivantes:
 
 - a) il ou elle engage les directeurs ou directrices des écoles, sur la proposition d'une commission de nomination ad hoc présidée par le directeur général ou la directrice générale et composée en particulier de personnes représentant le conseil de la HES-SO//FR et le conseil spécialisé de l'école concernée; des personnes représentant la Direction ou d'autres organes de la HES-SO//FR peuvent y être associées;
-- b) il ou elle engage le personnel mentionné à l'article 34 en y associant la HES-SO conformément aux dispositions de la Convention HES-SO;
+- b) il ou elle engage le personnel mentionné à l'article 34 en y associant la HES-SO conformément aux dispositions de la Convention HES-SO[^24-1];
 - c) il ou elle dirige les services techniques centraux;
 - d) il ou elle contrôle le bon fonctionnement du système de gestion par la qualité;
 - e) il ou elle veille à la mise en œuvre des décisions du comité de direction;
@@ -338,6 +346,8 @@ Décrète:
 - k) il ou elle désigne le ou la responsable qualité, le répondant ou la répondante égalité et les responsables des services techniques centraux en accord avec le comité de direction;
 - l) en accord avec la ou les directions des écoles concernées, il ou elle peut désigner des collaborateurs ou collaboratrices des écoles de la HES-SO//FR en tant que responsables de missions particulières portant sur l'ensemble de la HES-SO//FR;
 - m) il ou elle est le garant ou la garante du fonctionnement et de la cohérence de la communication interne et externe de la HES-SO//FR.
+
+[^24-1]: RSF [432.11.1](https://bdlf.fr.ch/data/432.11.1/fr)
 
 #### Art. 25
 
@@ -411,7 +421,9 @@ Décrète:
 
 <sup>4</sup> Chaque école se dote d'un comité de direction dont l'organisation est de son ressort. L'organisation proposée par l'école est approuvée par la direction générale.
 
-<sup>5</sup> Au sens de la Convention HES-SO, chaque école se dote d'un ou plusieurs organes visant à assurer la participation des étudiants et étudiantes et des personnels au sein des écoles de la HES-SO//FR. Ces organes s'organisent eux-mêmes par un règlement interne approuvé par la direction de l'école.
+<sup>5</sup> Au sens de la Convention HES-SO[^31-1], chaque école se dote d'un ou plusieurs organes visant à assurer la participation des étudiants et étudiantes et des personnels au sein des écoles de la HES-SO//FR. Ces organes s'organisent eux-mêmes par un règlement interne approuvé par la direction de l'école.
+
+[^31-1]: RSF [432.11.1](https://bdlf.fr.ch/data/432.11.1/fr)
 
 #### Art. 32
 
@@ -465,7 +477,7 @@ Décrète:
 
 <sup>3</sup> Les catégories des corps professoral et intermédiaire sont définies par la HES-SO, sur la base de la Convention HES-SO.
 
-<sup>4</sup> Le personnel de la HES-SO//FR est régi par la législation sur le personnel de l'Etat, sous réserve de dispositions particulières de la présente loi et de l'article 48 de la Convention HES-SO.
+<sup>4</sup> Le personnel de la HES-SO//FR est régi par la législation sur le personnel de l'Etat, sous réserve de dispositions particulières de la présente loi et de l'article 48 de la Convention HES-SO[^34-1].
 
 <sup>5</sup> La HES-SO//FR se dote d'un règlement sur son personnel, approuvé par le Conseil d'Etat.
 
@@ -475,17 +487,21 @@ Décrète:
 
 <sup>8</sup> En sus de leur personnel, la HES-SO//FR et ses écoles peuvent faire appel à des intervenants ou intervenantes externes.
 
+[^34-1]: RSF [432.11.1](https://bdlf.fr.ch/data/432.11.1/fr)
+
 #### Art. 35
 
 **Mission et conditions de travail**
 
 <sup>1</sup> Le personnel d'enseignement et de recherche accomplit les missions définies dans les articles 4 à 6. Il peut être amené à effectuer d'autres tâches, en lien avec les missions HES ou avec le fonctionnement des écoles.
 
-<sup>2</sup> Les qualifications à l'engagement, les fonctions et les missions du corps professoral et du corps intermédiaire sont définies par la HES-SO sur la base de la Convention HES-SO.
+<sup>2</sup> Les qualifications à l'engagement, les fonctions et les missions du corps professoral et du corps intermédiaire sont définies par la HES-SO sur la base de la Convention HES-SO[^35-1].
 
 <sup>3</sup> La nature des tâches de certaines catégories de personnel peut entraîner un engagement par contrat de durée déterminée.
 
 <sup>4</sup> Le personnel de la HES-SO//FR peut être tenu d'exercer une partie de son activité sur d'autres sites de la HES-SO. Le cas échéant, la HES-SO//FR reste en principe l'employeuse unique.
+
+[^35-1]: RSF [432.11.1](https://bdlf.fr.ch/data/432.11.1/fr)
 
 #### Art. 36
 
@@ -517,9 +533,11 @@ Décrète:
 
 **Propriété intellectuelle et droit d'usage**
 
-<sup>1</sup> La question de la propriété intellectuelle et du droit d'usage est traitée conformément à l'article 15 de la Convention HES-SO.
+<sup>1</sup> La question de la propriété intellectuelle et du droit d'usage est traitée conformément à l'article 15 de la Convention HES-SO[^39-1].
 
 <sup>2</sup> Les recettes perçues en relation avec les inventions ou innovations entrent dans les ressources de la HES-SO//FR. Elles sont en principe attribuées à l'école concernée.
+
+[^39-1]: RSF [432.11.1](https://bdlf.fr.ch/data/432.11.1/fr)
 
 ## 5 Etudiants et étudiantes et autres personnes en formation
 
@@ -588,11 +606,13 @@ Décrète:
 
 **Taxes et contributions particulières**
 
-<sup>1</sup> Le montant de la taxe d'études est arrêté par le comité gouvernemental de la HES-SO, conformément à l'article 19 let. l de la Convention HES-SO.
+<sup>1</sup> Le montant de la taxe d'études est arrêté par le comité gouvernemental de la HES-SO, conformément à l'article 19 let. l de la Convention HES-SO[^47-1].
 
 <sup>2</sup> Les taxes des offres de formations postgrades et de perfectionnement professionnel sont fixées par les écoles.
 
 <sup>3</sup> La HES-SO//FR et ses écoles peuvent prélever des contributions aux frais d'études pour certaines prestations particulières et en respectant la réglementation respective au niveau de la HES-SO.
+
+[^47-1]: RSF [432.11.1](https://bdlf.fr.ch/data/432.11.1/fr)
 
 #### Art. 48
 
@@ -602,7 +622,9 @@ Décrète:
 
 <sup>2</sup> Les titres mentionnés à l'alinéa 1 sont protégés.
 
-<sup>3</sup> Quiconque enfreint cette disposition est puni d'une amende, en vertu de la législation spéciale. Les dispositions du code pénal suisse sont réservées.
+<sup>3</sup> Quiconque enfreint cette disposition est puni d'une amende, en vertu de la législation spéciale. Les dispositions du code pénal suisse[^48-1] sont réservées.
+
+[^48-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
 
 #### Art. 49
 
@@ -683,20 +705,27 @@ Décrète:
 
 **Fonds de recherche et de développement – Principes**
 
-<sup>1</sup> Les écoles de la HES-SO//FR peuvent chacune disposer d'un fonds de recherche et de développement (ci-après: le fonds), dont le capital et les revenus sont affectés au financement des activités de Ra&D.
+<sup>1</sup> Les écoles et la direction générale de la HES-SO//FR peuvent chacune disposer d'un fonds de recherche et de développement (ci-après: le(s) fonds), dont le capital et les revenus sont affectés au financement des activités de Ra&D.
 
 <sup>2</sup> Le cas échéant, les fonds sont alimentés par:
 
-- a) une partie des excédents de recettes éventuelles découlant de l'activité des écoles menée dans les domaines de Ra&D et des prestations à des tiers;
-- b) d'autres contributions, au sens de l'article 53 al. 1 let. c et d de la Convention HES-SO.
+- a) les montants inscrits au budget des écoles ou de la direction générale en charge de la gestion des fonds et par une partie des excédents de recettes éventuelles découlant de l'activité des écoles menée sur l'ensemble de leurs missions;
+- b) d'autres contributions, au sens de l'article 53 al. 1 let. c et d de la Convention HES-SO[^56-1].
 
-<sup>3</sup> Les fonds servent à couvrir notamment une partie des frais de lancement des projets de Ra&D.
+<sup>2a</sup> Le Conseil d'Etat peut également affecter une partie de l'excédent de financement constaté dans les comptes de l'Etat aux fonds des écoles et/ou de la direction générale.
+
+<sup>3</sup> Les fonds servent à couvrir des frais liés aux activités au sens de l'alinéa 1 du présent article pour autant qu'elles s'inscrivent dans la stratégie cantonale au sens de l'article 53 al. 3 let. b de la Convention HES-SO[^56-2].
+
+[^56-1]: RSF [432.11.1](https://bdlf.fr.ch/data/432.11.1/fr)
+[^56-2]: RSF [432.11.1](https://bdlf.fr.ch/data/432.11.1/fr)
 
 #### Art. 57
 
 **Fonds de recherche et de développement – Gestion et contrôle**
 
 <sup>1</sup> Chacun des fonds créés est géré par un comité de gestion formé du directeur ou de la directrice de l'école qui le préside, du responsable financier ou de la responsable financière de la HES-SO//FR, de trois représentants ou représentantes désignés par le comité de direction de l'école et d'une personne représentant le conseil spécialisé de l'école.
+
+<sup>1a</sup> Le comité de gestion du fonds de la direction générale est composé du directeur ou de la directrice générale, des directeurs et/ou directrices des quatre écoles et du responsable financier ou de la responsable financière de la HES-SO//FR.
 
 <sup>2</sup> La gestion des fonds fait l'objet d'un contrôle de l'Inspection des finances.
 
@@ -716,13 +745,15 @@ Décrète:
 
 **Principes**
 
-<sup>1</sup> Le financement de la HES-SO//FR s'inscrit dans le modèle financier défini dans le cadre de la Convention HES-SO.
+<sup>1</sup> Le financement de la HES-SO//FR s'inscrit dans le modèle financier défini dans le cadre de la Convention HES-SO[^59-1].
 
 <sup>2</sup> L'Etat assure le financement de la HES-SO//FR par la contribution du canton au système financier de la HES-SO et par l'attribution à la HES-SO//FR d'une enveloppe budgétaire globale.
 
 <sup>3</sup> La HES-SO//FR gère de manière efficace et efficiente l'enveloppe budgétaire qui lui est attribuée.
 
 <sup>4</sup> Un règlement approuvé par le Conseil d'Etat détermine les relations entre la HES-SO//FR et l'Etat en matière de gestion financière.
+
+[^59-1]: RSF [432.11.1](https://bdlf.fr.ch/data/432.11.1/fr)
 
 #### Art. 60
 
@@ -767,15 +798,18 @@ Décrète:
 
 **Comptabilité**
 
-<sup>1</sup> Le système comptable de la HES-SO//FR est indépendant de la comptabilité cantonale, conformément à l'article 51 al. 3 de la Convention HES-SO.
+<sup>1</sup> Le système comptable de la HES-SO//FR est indépendant de la comptabilité cantonale, conformément à l'article 51 al. 3 de la Convention HES-SO[^63-1].
 
 <sup>2</sup> La comptabilité analytique est établie conformément aux directives de la HES-SO et de la Confédération.
 
-<sup>3</sup> La comptabilité financière doit répondre aux exigences des dispositions financières de l'article 51 de la Convention HES-SO, notamment se conformer à:
+<sup>3</sup> La comptabilité financière doit répondre aux exigences des dispositions financières de l'article 51 de la Convention HES-SO[^63-2], notamment se conformer à:
 
 - a) son système financier et comptable unifié;
 - b) ses procédures communes;
 - c) la norme comptable uniforme, reconnue par les cantons.
+
+[^63-1]: RSF [432.11.1](https://bdlf.fr.ch/data/432.11.1/fr)
+[^63-2]: RSF [432.11.1](https://bdlf.fr.ch/data/432.11.1/fr)
 
 #### Art. 64
 
@@ -817,13 +851,17 @@ Décrète:
 
 <sup>2</sup> L'autorité de recours examine avec retenue les décisions relatives à l'évaluation du travail, des aptitudes et du comportement d'une personne.
 
-<sup>3</sup> La décision de l'autorité de recours peut, dans les trente jours, faire l'objet d'un recours à la Commission de recours de la HES-SO, conformément à l'article 35 de la Convention HES-SO.
+<sup>3</sup> La décision de l'autorité de recours peut, dans les trente jours, faire l'objet d'un recours à la Commission de recours de la HES-SO, conformément à l'article 35 de la Convention HES-SO[^68-1].
+
+[^68-1]: RSF [432.11.1](https://bdlf.fr.ch/data/432.11.1/fr)
 
 #### Art. 69
 
 **Autres décisions**
 
-<sup>1</sup> Les autres décisions prises en application de la présente loi, à l'exception de celle qui est mentionnée à l'article 71, sont sujettes à recours conformément au code de procédure et de juridiction administrative.
+<sup>1</sup> Les autres décisions prises en application de la présente loi, à l'exception de celle qui est mentionnée à l'article 71, sont sujettes à recours conformément au code de procédure et de juridiction administrative[^69-1].
+
+[^69-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 #### Art. 70
 
@@ -835,7 +873,9 @@ Décrète:
 
 <sup>3</sup> Les frais de procédure peuvent être mis à la charge de l'auteur-e d'une plainte téméraire ou abusive.
 
-<sup>4</sup> La décision rendue sur plainte est réputée celle de la HES-SO//FR; elle est sujette à recours conformément au code de procédure et de juridiction administrative.
+<sup>4</sup> La décision rendue sur plainte est réputée celle de la HES-SO//FR; elle est sujette à recours conformément au code de procédure et de juridiction administrative[^70-1].
+
+[^70-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 #### Art. 71
 

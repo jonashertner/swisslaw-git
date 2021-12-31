@@ -4,13 +4,12 @@ number: "432.12.1"
 title: Gesetz über die Fachhochschule Westschweiz//Freiburg
 short: HES-SO//FRG
 language: de
-version: 2015-01-01
-valid_until: 2021-12-31
-version_adopted: 2014-05-15
+version: 2022-01-01
+version_adopted: 2022-12-13
 adopted: 2014-05-15
 in_force: 2015-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/432.12.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7192/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8562/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Fachhochschule Westschweiz//Freiburg – G
 
 (HES-SO//FRG)
 
-vom 15.05.2014 (Fassung in Kraft getreten am 01.01.2015)
+vom 15.05.2014 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg[^ingress-1]
 
@@ -66,13 +65,16 @@ beschliesst:
 - c) der Hochschule für Gesundheit Freiburg (HfG-FR);
 - d) der Hochschule für Soziale Arbeit Freiburg (HSA-FR).
 
-<sup>4</sup> Sie ist im Rahmen des Gesetzes und der interkantonalen Vereinbarung der Fachhochschule Westschweiz (HES-SO-Vereinbarung) autonom.
+<sup>4</sup> Sie ist im Rahmen des Gesetzes und der interkantonalen Vereinbarung der Fachhochschule Westschweiz[^2-1] (HES-SO-Vereinbarung) autonom.
 
-<sup>5</sup> Gestützt auf die vierjährige Zielvereinbarung zwischen dem Regierungsausschuss und der HES-SO übt sie die Fachhochschul-Aufgaben aus, die ihr gemäss der HES-SO-Vereinbarung in Form eines Leistungsauftrags übertragen werden.
+<sup>5</sup> Gestützt auf die vierjährige Zielvereinbarung zwischen dem Regierungsausschuss und der HES-SO übt sie die Fachhochschul-Aufgaben aus, die ihr gemäss der HES-SO-Vereinbarung[^2-2] in Form eines Leistungsauftrags übertragen werden.
 
 <sup>6</sup> Der Staatsrat kann ihr weitere Aufgaben übertragen. Diese sind Gegenstand eines Vertrags und werden zusätzlich finanziert.
 
 <sup>7</sup> Sie erhält ein Globalbudget gemäss Artikel 62.
+
+[^2-1]: SGF [432.11.1](https://bdlf.fr.ch/data/432.11.1/de)
+[^2-2]: SGF [432.11.1](https://bdlf.fr.ch/data/432.11.1/de)
 
 #### Art. 3
 
@@ -138,7 +140,9 @@ beschliesst:
 
 **Grundsätze im Zusammenhang mit den Aufgaben – Im Allgemeinen**
 
-<sup>1</sup> Bei der Erfüllung ihrer Aufgaben anerkennen die Schulen der HES-SO//FR die allgemeinen Grundsätze des Betriebs, die in der Interkantonalen Vereinbarung über die HES-SO verankert sind (akademische Freiheit, Ausgewogenheit, Gleichbehandlung, Mitwirkung), und die Grundsätze gemäss den folgenden Artikeln und wenden sie an.
+<sup>1</sup> Bei der Erfüllung ihrer Aufgaben anerkennen die Schulen der HES-SO//FR die allgemeinen Grundsätze des Betriebs, die in der Interkantonalen Vereinbarung über die HES-SO[^9-1] verankert sind (akademische Freiheit, Ausgewogenheit, Gleichbehandlung, Mitwirkung), und die Grundsätze gemäss den folgenden Artikeln und wenden sie an.
+
+[^9-1]: SGF [432.11.1](https://bdlf.fr.ch/data/432.11.1/de)
 
 #### Art. 10
 
@@ -172,9 +176,11 @@ beschliesst:
 
 **Grundsätze im Zusammenhang mit den Aufgaben – Qualitätsmanagement**
 
-<sup>1</sup> Im Rahmen der nach HES-SO-Vereinbarung vorgesehenen Qualitätssicherungsmassnahmen wendet die HES-SO//FR ein Qualitätsmanagementsystem (QMS) an, das in allen ihren Schulen unter der Verantwortung der Schuldirektion umgesetzt wird.
+<sup>1</sup> Im Rahmen der nach HES-SO-Vereinbarung[^13-1] vorgesehenen Qualitätssicherungsmassnahmen wendet die HES-SO//FR ein Qualitätsmanagementsystem (QMS) an, das in allen ihren Schulen unter der Verantwortung der Schuldirektion umgesetzt wird.
 
 <sup>2</sup> Die Generaldirektion der HES-SO//FR ist im Einvernehmen mit dem Direktionsausschuss für die Weiterentwicklung des QMS verantwortlich und sorgt dafür, dass es dem sich ständig verändernden Aufgabenbereich und Umfeld angepasst wird.
+
+[^13-1]: SGF [432.11.1](https://bdlf.fr.ch/data/432.11.1/de)
 
 ## 2 Organisation
 
@@ -310,9 +316,11 @@ beschliesst:
 
 **Generaldirektion – Grundsätze**
 
-<sup>1</sup> Gestützt auf die HES-SO-Vereinbarung ist die Generaldirektorin oder der Generaldirektor gegenüber dem Rektorat der HES-SO für die Erfüllung des Leistungsauftrags verantwortlich.
+<sup>1</sup> Gestützt auf die HES-SO-Vereinbarung[^23-1] ist die Generaldirektorin oder der Generaldirektor gegenüber dem Rektorat der HES-SO für die Erfüllung des Leistungsauftrags verantwortlich.
 
 <sup>2</sup> Die Verantwortlichen der zentralen technischen Dienste und die für die Qualitätssicherung verantwortliche Person der HES-SO//FR sind der Generaldirektion direkt unterstellt.
+
+[^23-1]: SGF [432.11.1](https://bdlf.fr.ch/data/432.11.1/de)
 
 #### Art. 24
 
@@ -326,7 +334,7 @@ beschliesst:
 <sup>2</sup> Sie oder er hat ferner folgende Befugnisse: Sie oder er
 
 - a) stellt die Schuldirektorinnen und Schuldirektoren auf Antrag einer Ad-hoc-Nominierungskommission an, die von der Generaldirektorin oder vom Generaldirektor präsidiert wird und sich namentlich aus Vertretenden des Schulrats der HES-SO//FR und des Fachrats der betreffenden Schulen zusammensetzt. Vertretende der Direktion oder anderer Organe der HES-SO//FR können ebenfalls beigezogen werden;
-- b) stellt das Personal nach Artikel 34 an und zieht dazu die HES-SO gemäss der HES-SO-Vereinbarung bei;
+- b) stellt das Personal nach Artikel 34 an und zieht dazu die HES-SO gemäss der HES-SO-Vereinbarung[^24-1] bei;
 - c) leitet die zentralen technischen Dienste;
 - d) überwacht das QMS;
 - e) sorgt für die Umsetzung der Entscheidungen des Direktionsausschusses;
@@ -338,6 +346,8 @@ beschliesst:
 - k) bezeichnet im Einvernehmen mit dem Direktionsausschuss die für die Qualitätssicherung und die für die Chancengleichheit verantwortlichen Personen sowie die Verantwortlichen der zentralen technischen Dienste;
 - l) kann im Einvernehmen mit den betroffenen Schuldirektionen die Mitarbeitenden der Schulen der HES-SO//FR bezeichnen, die für die besonderen Aufgaben der HES-SO//FR verantwortlich sind;
 - m) stellt eine kohärente interne und externe Kommunikation der HES-SO//FR sicher.
+
+[^24-1]: SGF [432.11.1](https://bdlf.fr.ch/data/432.11.1/de)
 
 #### Art. 25
 
@@ -411,7 +421,9 @@ beschliesst:
 
 <sup>4</sup> Jede Schule setzt einen Leitungsausschuss ein, für dessen Organisation sie selber zuständig ist. Die Organisation, welche die Schule beantragt, wird von der Generaldirektion genehmigt.
 
-<sup>5</sup> Jede Schule verfügt über ein oder mehrere Organe, mit denen im Sinne der HES-SO-Vereinbarung die Mitwirkung der Studierenden und des Personals der Schulen der HES-SO//FR sichergestellt wird. Diese Organe arbeiten ihr eigenes internes Reglement aus, das von der Schuldirektion genehmigt wird.
+<sup>5</sup> Jede Schule verfügt über ein oder mehrere Organe, mit denen im Sinne der HES-SO-Vereinbarung[^31-1] die Mitwirkung der Studierenden und des Personals der Schulen der HES-SO//FR sichergestellt wird. Diese Organe arbeiten ihr eigenes internes Reglement aus, das von der Schuldirektion genehmigt wird.
+
+[^31-1]: SGF [432.11.1](https://bdlf.fr.ch/data/432.11.1/de)
 
 #### Art. 32
 
@@ -465,7 +477,7 @@ beschliesst:
 
 <sup>3</sup> Die Kategorien des Lehrkörpers und des Mittelbaus werden von der HES-SO gestützt auf die HES-SO-Vereinbarung festgelegt.
 
-<sup>4</sup> Das Personal der HES-SO//FR untersteht der Gesetzgebung über das Staatspersonal unter Vorbehalt besonderer Vorschriften dieses Gesetzes und von Artikel 48 der HES-SO-Vereinbarung.
+<sup>4</sup> Das Personal der HES-SO//FR untersteht der Gesetzgebung über das Staatspersonal unter Vorbehalt besonderer Vorschriften dieses Gesetzes und von Artikel 48 der HES-SO-Vereinbarung[^34-1].
 
 <sup>5</sup> Die HES-SO//FR stellt ein vom Staatsrat genehmigtes Personalreglement auf.
 
@@ -475,17 +487,21 @@ beschliesst:
 
 <sup>8</sup> Die HES-SO//FR und ihre Schulen können zur Verstärkung ihres Personals externe Referierende einsetzen.
 
+[^34-1]: SGF [432.11.1](https://bdlf.fr.ch/data/432.11.1/de)
+
 #### Art. 35
 
 **Auftrag und Arbeitsbedingungen**
 
 <sup>1</sup> Das Personal in Lehre und Forschung erfüllt die Aufgaben nach den Artikeln 4–6. Es kann mit weiteren Aufgaben im Zusammenhang mit den FH-Aufgaben oder dem Betrieb der Schulen betraut werden.
 
-<sup>2</sup> Die bei der Anstellung verlangten Qualifikationen, die Funktionen und die Aufgaben des Lehrkörpers und des Mittelbaus werden von der HES-SO gestützt auf die HES-SO-Vereinbarung festgelegt.
+<sup>2</sup> Die bei der Anstellung verlangten Qualifikationen, die Funktionen und die Aufgaben des Lehrkörpers und des Mittelbaus werden von der HES-SO gestützt auf die HES-SO-Vereinbarung[^35-1] festgelegt.
 
 <sup>3</sup> Wenn es die Art ihrer Aufgaben erfordert, werden bestimmte Personalkategorien befristet angestellt.
 
 <sup>4</sup> Das Personal der HES-SO//FR kann dazu verpflichtet werden, einen Teil seiner Tätigkeit an anderen Standorten der HES-SO auszuüben. In diesem Fall bleibt die HES-SO//FR in der Regel die einzige Arbeitgeberin.
+
+[^35-1]: SGF [432.11.1](https://bdlf.fr.ch/data/432.11.1/de)
 
 #### Art. 36
 
@@ -517,9 +533,11 @@ beschliesst:
 
 **Geistiges Eigentum und Nutzungsrecht**
 
-<sup>1</sup> Die Frage des geistigen Eigentums und des Nutzungsrechts wird gemäss Artikel 15 der HES-SO-Vereinbarung geregelt.
+<sup>1</sup> Die Frage des geistigen Eigentums und des Nutzungsrechts wird gemäss Artikel 15 der HES-SO-Vereinbarung[^39-1] geregelt.
 
 <sup>2</sup> Einnahmen aus Erfindungen und Innovationen gehen an die HES-SO//FR. Sie werden grundsätzlich der betreffenden Schule übertragen.
+
+[^39-1]: SGF [432.11.1](https://bdlf.fr.ch/data/432.11.1/de)
 
 ## 5 Studierende und andere Personen in Ausbildung
 
@@ -588,11 +606,13 @@ beschliesst:
 
 **Gebühren und besondere Beiträge**
 
-<sup>1</sup> Der Regierungsausschuss der HES-SO setzt die Höhe der Studiengebühr gestützt auf Artikel 19 Bst. l der HES-SO-Vereinbarung fest.
+<sup>1</sup> Der Regierungsausschuss der HES-SO setzt die Höhe der Studiengebühr gestützt auf Artikel 19 Bst. l der HES-SO-Vereinbarung[^47-1] fest.
 
 <sup>2</sup> Die Gebühren für Nachdiplomausbildungen und berufliche Weiterbildungskurse werden von den Schulen festgelegt.
 
 <sup>3</sup> Die HES-SO//FR und ihre Schulen können für besondere Leistungen und unter Beachtung der entsprechenden Regelung auf Stufe HES-SO Beiträge an die Studienkosten verlangen.
+
+[^47-1]: SGF [432.11.1](https://bdlf.fr.ch/data/432.11.1/de)
 
 #### Art. 48
 
@@ -602,7 +622,9 @@ beschliesst:
 
 <sup>2</sup> Die Diplome nach Absatz 1 sind geschützt.
 
-<sup>3</sup> Wer gegen diese Bestimmung verstösst, wird gemäss der Spezialgesetzgebung mit Busse bestraft. Vorbehalten bleiben die Bestimmungen des schweizerischen Strafgesetzbuchs.
+<sup>3</sup> Wer gegen diese Bestimmung verstösst, wird gemäss der Spezialgesetzgebung mit Busse bestraft. Vorbehalten bleiben die Bestimmungen des schweizerischen Strafgesetzbuchs[^48-1].
+
+[^48-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 #### Art. 49
 
@@ -683,20 +705,27 @@ beschliesst:
 
 **Fonds für Forschung und Entwicklung – Grundsätze**
 
-<sup>1</sup> Die Schulen der HES-SO//FR können je über einen Fonds für Forschung und Entwicklung (der Fonds) verfügen, dessen Kapital und Erträge für die Finanzierung der aF&E bestimmt sind.
+<sup>1</sup> Die Schulen und die Generaldirektion der HES-SO//FR können je über einen Fonds für Forschung und Entwicklung (der Fonds) verfügen, dessen Kapital und Erträge für die Finanzierung der aF&E bestimmt sind.
 
 <sup>2</sup> Diese Fonds werden gespeist durch:
 
-- a) einen Teil der allfälligen Ertragsüberschüsse aus den Aktivitäten der Schulen in den Bereichen aF&E sowie Dienstleistungen für Dritte;
-- b) andere Beiträge im Sinne von Artikel 53 Abs. 1 Bst. c und d der HES-SO-Vereinbarung.
+- a) die im Haushalt der Schulen oder der für die Verwaltung der Mittel zuständigen Generaldirektion ausgewiesenen Beträge und durch einen Teil der allfälligen Ertragsüberschüsse, die aus allen Aktivitäten der Schulen in Ausführung ihrer Aufträge resultieren;
+- b) andere Beiträge im Sinne von Artikel 53 Abs. 1 Bst. c und d der HES-SO-Vereinbarung[^56-1].
 
-<sup>3</sup> Die Fonds dienen insbesondere zur Deckung eines Teils der Kosten für die Lancierung von aF&E- Projekten.
+<sup>2a</sup> Der Staatsrat kann ebenfalls einen Teil des Finanzierungsüberschusses, der bei Abschluss der Staatsrechnung resultiert, den Fonds der Hochschulen und/oder der Generaldirektion zuweisen.
+
+<sup>3</sup> Die Fonds dienen zur Deckung der Kosten für Aktivitäten gemäss Absatz 1, sofern diese der kantonalen Strategie im Sinne von Artikel 53 Abs. 3 Bst. b der HES-SO-Vereinbarung[^56-2] entsprechen.
+
+[^56-1]: SGF [432.11.1](https://bdlf.fr.ch/data/432.11.1/de)
+[^56-2]: SGF [432.11.1](https://bdlf.fr.ch/data/432.11.1/de)
 
 #### Art. 57
 
 **Fonds für Forschung und Entwicklung – Verwaltung und Kontrolle**
 
 <sup>1</sup> Jeder Fonds wird von einem Verwaltungsausschuss verwaltet. Diesem gehören die Schuldirektorin oder der Schuldirektor, die oder der den Fonds präsidiert, die Person, die für die Finanzen der HES-SO//FR verantwortlich ist, drei Vertretende, die vom Leitungsausschuss der Schule bezeichnet werden, sowie eine vertretende Person des Fachrats der Schule an.
+
+<sup>1a</sup> Dem Verwaltungsausschuss des Fonds der Generaldirektion gehören die Generaldirektorin oder der Generaldirektor, die Direktorinnen und Direktoren der vier Hochschulen und die Person, die für die Finanzen der HES-SO//FR verantwortlich ist, an.
 
 <sup>2</sup> Die Verwaltung der Fonds wird vom Finanzinspektorat kontrolliert.
 
@@ -716,13 +745,15 @@ beschliesst:
 
 **Grundsätze**
 
-<sup>1</sup> Die Finanzierung der HES-SO//FR richtet sich nach dem Finanzmodell, das in der HES-SO-Vereinbarung festgelegt ist.
+<sup>1</sup> Die Finanzierung der HES-SO//FR richtet sich nach dem Finanzmodell, das in der HES-SO-Vereinbarung[^59-1] festgelegt ist.
 
 <sup>2</sup> Der Kanton stellt die Finanzierung der HES-SO//FR sicher, indem er einen Beitrag an das Finanzsystem der HES-SO und einen Beitrag in Form eines Globalbudgets an die HES-SO//FR leistet.
 
 <sup>3</sup> Die HES-SO//FR verwaltet das ihr zugeteilte Globalbudget wirtschaftlich und effizient.
 
 <sup>4</sup> Ein vom Staatsrat genehmigtes Reglement legt die Beziehungen der HES-SO//FR mit dem Staat bezüglich des Finanzhaushalts fest.
+
+[^59-1]: SGF [432.11.1](https://bdlf.fr.ch/data/432.11.1/de)
 
 #### Art. 60
 
@@ -767,15 +798,18 @@ beschliesst:
 
 **Buchhaltung**
 
-<sup>1</sup> Das Buchhaltungssystem der HES-SO//FR ist gestützt auf Artikel 51 Abs. 3 der HES-SO-Vereinbarung von der kantonalen Buchhaltung unabhängig.
+<sup>1</sup> Das Buchhaltungssystem der HES-SO//FR ist gestützt auf Artikel 51 Abs. 3 der HES-SO-Vereinbarung[^63-1] von der kantonalen Buchhaltung unabhängig.
 
 <sup>2</sup> Die analytische Buchhaltung richtet sich nach den Weisungen der HES-SO und des Bundes.
 
-<sup>3</sup> Die Finanzbuchhaltung richtet sich nach den Anforderungen von Artikel 51 der HES-SO-Vereinbarung und insbesondere nach:
+<sup>3</sup> Die Finanzbuchhaltung richtet sich nach den Anforderungen von Artikel 51 der HES-SO-Vereinbarung[^63-2] und insbesondere nach:
 
 - a) dem einheitlichen Finanz- und Buchhaltungssystem;
 - b) den gemeinsamen Verfahren;
 - c) dem einheitlichen Rechnungslegungsstandard, der von den Kantonen anerkannt ist.
+
+[^63-1]: SGF [432.11.1](https://bdlf.fr.ch/data/432.11.1/de)
+[^63-2]: SGF [432.11.1](https://bdlf.fr.ch/data/432.11.1/de)
 
 #### Art. 64
 
@@ -817,13 +851,17 @@ beschliesst:
 
 <sup>2</sup> Verfügungen im Zusammenhang mit der Beurteilung der Arbeitsleistung, der Fähigkeiten und des Verhaltens einer Person werden von der Beschwerdebehörde zurückhaltend geprüft.
 
-<sup>3</sup> Die Verfügungen der Beschwerdebehörde sind gestützt auf Artikel 35 der HES-SO-Vereinbarung innerhalb von dreissig Tagen mit Beschwerde bei der Beschwerdekommission der HES-SO anfechtbar.
+<sup>3</sup> Die Verfügungen der Beschwerdebehörde sind gestützt auf Artikel 35 der HES-SO-Vereinbarung[^68-1] innerhalb von dreissig Tagen mit Beschwerde bei der Beschwerdekommission der HES-SO anfechtbar.
+
+[^68-1]: SGF [432.11.1](https://bdlf.fr.ch/data/432.11.1/de)
 
 #### Art. 69
 
 **Andere Verfügungen**
 
-<sup>1</sup> Andere Verfügungen, die in Anwendung dieses Gesetzes erlassen werden, unterstehen dem Beschwerdeverfahren nach dem Gesetz über die Verwaltungsrechtspflege. Davon ausgenommen sind die in Artikel 71 erwähnten Verfügungen.
+<sup>1</sup> Andere Verfügungen, die in Anwendung dieses Gesetzes erlassen werden, unterstehen dem Beschwerdeverfahren nach dem Gesetz über die Verwaltungsrechtspflege[^69-1]. Davon ausgenommen sind die in Artikel 71 erwähnten Verfügungen.
+
+[^69-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 #### Art. 70
 
@@ -835,7 +873,9 @@ beschliesst:
 
 <sup>3</sup> Wird eine Aufsichtsbeschwerde leichtfertig oder missbräuchlich erhoben, so können die Verfahrenskosten der beschwerdeführenden Person auferlegt werden.
 
-<sup>4</sup> Der Entscheid über eine Aufsichtsbeschwerde gilt als ein Entscheid der HES-SO//FR; er kann gestützt auf das Gesetz über die Verwaltungsrechtspflege angefochten werden.
+<sup>4</sup> Der Entscheid über eine Aufsichtsbeschwerde gilt als ein Entscheid der HES-SO//FR; er kann gestützt auf das Gesetz über die Verwaltungsrechtspflege[^70-1] angefochten werden.
+
+[^70-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 #### Art. 71
 
