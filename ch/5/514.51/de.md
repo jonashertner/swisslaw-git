@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 1996 über das Kriegsmaterial (Kriegsmater
 short: KMG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/794_794_794"
 language: de
-version: 2013-02-01
+version: 2022-01-01
 adopted: 1996-12-13
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20130201/de/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20130201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20130201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20130201/de"
 
 (Kriegsmaterialgesetz, KMG)
 
-vom 13. Dezember 1996 (Stand am 1. Februar 2013)
+vom 13. Dezember 1996 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -254,7 +254,7 @@ Die Grundbewilligung wird natürlichen oder juristischen Personen erteilt, wenn:
 
 Für Tätigkeiten, die nach diesem Gesetz einer Bewilligung bedürfen, werden folgende Einzelbewilligungen unterschieden:
 
-- a. …[^12-1]
+- a. ...[^12-1]
 - b. Vermittlungsbewilligung;
 - c. Einfuhrbewilligung;
 - d. Ausfuhrbewilligung;
@@ -265,7 +265,7 @@ Für Tätigkeiten, die nach diesem Gesetz einer Bewilligung bedürfen, werden fo
 [^12-1]: Aufgehoben durch Ziff. I 2 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, mit Wirkung seit 1. März 2002 ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 [^12-2]: Eingefügt durch Ziff. I 2 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, in Kraft seit 1. März 2002 ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 
-### 2. Abschnitt: …
+### 2. Abschnitt: ...
 
 #### Art. 13 und 14
 
@@ -443,13 +443,13 @@ Die Inhaber einer Bewilligung nach diesem Gesetz beziehungsweise die Inhaber und
 
 <sup>1</sup> Die Kontrollorgane sind befugt, die Geschäftsräume der auskunftspflichtigen Personen während der üblichen Arbeitszeit ohne Voranmeldung zu betreten und zu besichtigen sowie in die einschlägigen Unterlagen Einsicht zu nehmen. Sie beschlagnahmen belastendes Material. Bei Verdacht auf strafbare Handlungen bleiben weitergehende Bestimmungen des Verfahrens- und Prozessrechts vorbehalten.
 
-<sup>2</sup> Soweit notwendig können sie bei ihren Kontrollen die Polizeiorgane der Kantone und der Gemeinden, die Untersuchungsorgane der Eidgenössischen Zollverwaltung sowie den Nachrichtendienst des Bundes beiziehen.[^28-1]
+<sup>2</sup> Soweit notwendig können sie bei ihren Kontrollen die Polizeiorgane der Kantone und der Gemeinden, die Untersuchungsorgane des Bundesamtes für Zoll und Grenzsicherheit sowie den Nachrichtendienst des Bundes beiziehen.[^28-1]
 
 <sup>3</sup> Sie können im Rahmen der Zweckbestimmung dieses Gesetzes Personendaten bearbeiten. Von den besonders schützenswerten Personendaten dürfen nur solche über administrative oder strafrechtliche Verfolgungen und Sanktionen bearbeitet werden. Weitere besonders schützenswerte Personendaten dürfen bearbeitet werden, wenn dies zur Behandlung des Einzelfalles unentbehrlich ist.
 
 <sup>4</sup> Sie sind zur Wahrung des Amtsgeheimnisses verpflichtet und treffen in ihrem Bereich alle zur Verhinderung von Wirtschaftsspionage nötigen Vorsichtsmassnahmen.
 
-[^28-1]: Fassung gemäss Ziff. I 7 der V vom 4. Dez. 2009 über die Anpassung gesetzlicher Bestimmungen infolge infolge der Schaffung des Nachrichtendienstes des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)).
+[^28-1]: Fassung gemäss Ziff. I 15 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 29
 
@@ -694,7 +694,7 @@ Hält der ausländische Staat Gegenrecht, so können die Behörden des Bundes na
 
 <sup>1</sup> Der Bundesrat erlässt die Ausführungsvorschriften.
 
-<sup>2</sup> …[^43-1]
+<sup>2</sup> ...[^43-1]
 
 [^43-1]: Aufgehoben durch Ziff. I 2 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 
@@ -710,7 +710,7 @@ Das Bundesgesetz vom 30. Juni 1972[^44-1] über das Kriegsmaterial wird aufgehob
 
 **Änderung bisherigen Rechts**
 
-…[^45-1]
+...[^45-1]
 
 [^45-1]: Die Änderungen können konsultiert werden unter [AS 1998 794](https://fedlex.data.admin.ch/eli/oc/1998/794_794_794).
 
@@ -718,7 +718,7 @@ Das Bundesgesetz vom 30. Juni 1972[^44-1] über das Kriegsmaterial wird aufgehob
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> …[^46-1]
+<sup>1</sup> ...[^46-1]
 
 <sup>2</sup> Verträge über die Übertragung von Immaterialgütern, einschliesslich Know-how, oder der Einräumung von Rechten daran, die vor dem Inkrafttreten dieses Gesetzes abgeschlossen wurden, benötigen keine Bewilligung nach diesem Gesetz.
 

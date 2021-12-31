@@ -4,11 +4,11 @@ title: Loi fédérale du 13 décembre 1996 sur le matériel de guerre (LFMG)
 short: LFMG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/794_794_794"
 language: fr
-version: 2013-02-01
+version: 2022-01-01
 adopted: 1996-12-13
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20130201/fr/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20130201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20130201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20130201/fr"
 
 (LFMG)
 
-du 13 décembre 1996 (Etat le 1<sup>er</sup> février 2013)
+du 13 décembre 1996 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -142,9 +142,7 @@ Il est interdit:
 
 <sup>2</sup> Dans le but de mettre au point des techniques de détection, d’enlèvement et de destruction des mines antipersonnel et dans le but de former du personnel à ces techniques, la conservation ou le transfert d’un certain nombre de ces mines sont autorisés. Ce nombre ne doit pas dépasser le nombre de mines absolument nécessaire aux fins mentionnées.[^8-2]
 
-<sup>3</sup> Par mines antipersonnel, on entend les engins explosifs placés sous ou sur le sol ou une autre surface, ou à proximité, conçus ou modifiés pour exploser du fait de la présence, de la proximité ou au contact d’une personne, et destinés à mettre hors de
-
-combat, blesser ou tuer une ou plusieurs personnes. Les mines conçues pour exploser du fait de la présence, de la proximité ou du contact d’un véhicule et non d’une personne, qui sont équipées de dispositifs antimanipulation, ne sont pas considérées comme des mines antipersonnel du fait de la présence de ce dispositif.[^8-3]
+<sup>3</sup> Par mines antipersonnel, on entend les engins explosifs placés sous ou sur le sol ou une autre surface, ou à proximité, conçus ou modifiés pour exploser du fait de la présence, de la proximité ou au contact d’une personne, et destinés à mettre hors de combat, blesser ou tuer une ou plusieurs personnes. Les mines conçues pour exploser du fait de la présence, de la proximité ou du contact d’un véhicule et non d’une personne, qui sont équipées de dispositifs antimanipulation, ne sont pas considérées comme des mines antipersonnel du fait de la présence de ce dispositif.[^8-3]
 
 <sup>4</sup> Par dispositif antimanipulation, on entend un dispositif destiné à protéger une mine et qui fait partie de celle-ci, est relié à celle-ci, attaché à celle-ci ou placé sous celle-ci, et qui se déclenche en cas de tentative de manipulation ou d’autre dérangement intentionnel de la mine.[^8-4]
 
@@ -252,7 +250,7 @@ L’autorisation initiale est accordée aux personnes physiques ou morales:
 
 Pour les activités soumises au régime de l’autorisation selon la présente loi, on distingue les autorisations spécifiques suivantes:
 
-- a.[^12-1] …
+- a.[^12-1] ...
 - b. l’autorisation de courtage;
 - c. l’autorisation d’importation;
 - d. l’autorisation d’exportation;
@@ -263,7 +261,7 @@ Pour les activités soumises au régime de l’autorisation selon la présente l
 [^12-1]: Abrogée par le ch. I 2 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens, avec effet au 1<sup>er</sup> mars 2002 ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 [^12-2]: Introduite par le ch. I 2 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 
-### Section 2 …
+### Section 2 ...
 
 #### Art. 13 et 14
 
@@ -380,7 +378,7 @@ Ne sont pas soumis à autorisation les biens immatériels, y compris le know-how
 
 - a. nécessités par les travaux d’installation, d’entretien, de contrôle et de réparation de matériel de guerre, lorsqu’il s’agit de travaux de routine et que l’exportation de ce matériel avait été autorisée;
 - b. tombés dans le domaine public;
-- c. qui doivent être divulgués en vue du dépôt d’une demande de brevet dans un Etat tiers; ou
+- c. qui doivent être divulgués en vue du dépôt d’une demande de brevet dans un État tiers; ou
 - d. qui servent la recherche scientifique fondamentale.
 
 <sup>3</sup> Le Conseil fédéral peut prévoir des exceptions pour certains pays.
@@ -442,13 +440,13 @@ Le titulaire d’une autorisation au sens de la présente loi ainsi que les dét
 
 <sup>1</sup> Les organes de contrôle ont le droit de pénétrer dans les locaux commerciaux des personnes soumises à l’obligation de renseigner ainsi que de les visiter pendant les heures de travail usuelles et sans avis préalable; ils ont aussi le droit de prendre connaissance des documents utiles. Ils séquestrent les pièces à conviction. En cas de soupçons d’actes illicites, les dispositions plus rigoureuses du droit de procédure sont réservées.
 
-<sup>2</sup> Pour leurs contrôles, ils peuvent faire appel en cas de besoin aux organes de police des cantons et des communes, aux organes d’enquête de l’Administration fédérale des douanes ainsi qu’au Service de renseignement de la Confédération.[^28-1]
+<sup>2</sup> Pour leurs contrôles, ils peuvent faire appel en cas de besoin aux organes de police des cantons et des communes, aux organes d’enquête de l’Office fédéral de la douane et de la sécurité des frontières ainsi qu’au Service de renseignement de la Confédération.[^28-1]
 
 <sup>3</sup> Ils sont habilités, dans les limites des objectifs de la présente loi, à traiter des données personnelles. En ce qui concerne les données sensibles, seules peuvent être traitées les données sur des poursuites ou des sanctions pénales ou administratives. Le traitement d’autres données sensibles est autorisé lorsqu’il est indispensable au règlement d’un cas.
 
 <sup>4</sup> Ils sont tenus au secret de fonction et doivent, dans leur domaine, prendre toutes les précautions propres à éviter l’espionnage économique.
 
-[^28-1]: Nouvelle teneur selon le ch. I 7 de l’O du 4 déc. 2009 concernant l’adaptation de dispositions légales à la suite de la création du Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)).
+[^28-1]: Nouvelle teneur selon le ch. I 15 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 29
 
@@ -476,7 +474,7 @@ Le titulaire d’une autorisation au sens de la présente loi ainsi que les dét
 
 #### Art. 31
 
-**Emoluments**
+**Émoluments**
 
 Les autorisations prévues par la présente loi sont sujettes à émoluments. Le Conseil fédéral en fixe les montants.
 
@@ -679,7 +677,7 @@ Elles peuvent notamment requérir des autorités étrangères ainsi que des orga
 
 <sup>3</sup>
 
-Si l’Etat étranger accorde la réciprocité, elles peuvent communiquer les données mentionnées à l’al. 2, d’office ou sur demande, dans la mesure où l’autorité étrangère donne l’assurance que ces données:
+Si l’État étranger accorde la réciprocité, elles peuvent communiquer les données mentionnées à l’al. 2, d’office ou sur demande, dans la mesure où l’autorité étrangère donne l’assurance que ces données:
 
 - a. ne seront traitées qu’à des fins conformes à la présente loi, et
 - b. ne seront utilisées dans une procédure pénale qu’à la condition d’être ultérieurement obtenues conformément aux dispositions relatives à l’entraide judiciaire internationale.
@@ -696,7 +694,7 @@ Si l’Etat étranger accorde la réciprocité, elles peuvent communiquer les do
 
 <sup>1</sup> Le Conseil fédéral arrête les dispositions d’exécution.
 
-<sup>2</sup> …[^43-1]
+<sup>2</sup> ...[^43-1]
 
 [^43-1]: Abrogé par le ch. I 2 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens, avec effet au 1<sup>er</sup> mars 2002 ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 
@@ -712,7 +710,7 @@ La loi fédérale du 30 juin 1972[^44-1] sur le matériel de guerre est abrogée
 
 **Modification du droit en vigueur**
 
-…[^45-1]
+...[^45-1]
 
 [^45-1]: La mod. peut être consultée au [RO 1998 794](https://fedlex.data.admin.ch/eli/oc/1998/794_794_794).
 
@@ -720,7 +718,7 @@ La loi fédérale du 30 juin 1972[^44-1] sur le matériel de guerre est abrogée
 
 **Dispositions transitoires**
 
-<sup>1</sup> …[^46-1]
+<sup>1</sup> ...[^46-1]
 
 <sup>2</sup> Les contrats relatifs au transfert de biens immatériels, y compris le know-how, ou à la concession de droits y afférents, qui ont été conclus avant l’entrée en vigueur de la présente loi, ne requièrent pas d’autorisation prévue par cette dernière.
 

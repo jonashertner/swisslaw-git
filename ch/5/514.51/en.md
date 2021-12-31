@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 1996 on War Material (War Material Act, WMA)"
 short: WMA
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/794_794_794"
 language: en
-version: 2013-02-01
+version: 2022-01-01
 adopted: 1996-12-13
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20130201/en/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20130201-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20130201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20220101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (War Materiel Act, WMA)
 
-of 13 December 1996 (Status as on 1 February 2013)
+of 13 December 1996 (Status as on 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -445,13 +445,13 @@ The holder of a licence under this Act or the proprietor and the staff of the co
 
 <sup>1</sup> The control authorities have the right to enter and inspect the business premises of persons obliged to provide information during normal working hours without prior notice and to examine the relevant documents. They shall confiscate incriminating materiel. In the event of suspicion of an offence, more rigorous provisions of procedural law are reserved.
 
-<sup>2</sup> If necessary, they may in the course of their controls call in cantonal and communal police officers, the investigating authorities of the Customs Administration, and the Federal Intelligence Service.[^28-1]
+<sup>2</sup> If necessary, they may in the course of their controls call in cantonal and communal police officers, the investigating authorities of the Federal Office for Customs and Border Security, and the Federal Intelligence Service.[^28-1]
 
 <sup>3</sup> They may process personal data in accordance with the objectives of this Act. Particularly sensitive personal data may be processed only where it relates to administrative or criminal proceedings and sanctions. Additional particularly sensitive personal data may be processed only if this is indispensable for handling the individual case.
 
 <sup>4</sup> They are obliged to preserve professional secrecy and to take all the precautionary measures required in their field to prevent industrial espionage.
 
-[^28-1]: Amended by No I 7 of the Ordinance of 4 Dec. 2009 on the Amendment of Legislation due to the establishment of the Federal Intelligence Service, in force since 1 Jan. 2010 ([AS 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)).
+[^28-1]: Amended by No I 15 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change in the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 29
 

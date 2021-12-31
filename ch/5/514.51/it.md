@@ -4,11 +4,11 @@ title: Legge federale del 13 dicembre 1996 sul materiale bellico (LMB)
 short: LMB
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/794_794_794"
 language: it
-version: 2013-02-01
+version: 2022-01-01
 adopted: 1996-12-13
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20130201/it/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20130201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20130201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20130201/it"
 
 (LMB)
 
-del 13 dicembre 1996 (Stato 1° febbraio 2013)
+del 13 dicembre 1996 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -253,7 +253,7 @@ L’autorizzazione di principio è rilasciata a persone fisiche o giuridiche:
 
 Per le attività sottoposte ad autorizzazione conformemente alla presente legge si distingue tra le seguenti autorizzazioni specifiche:
 
-- a.[^12-1] …
+- a.[^12-1] ...
 - b. autorizzazione di mediazione;
 - c. autorizzazione d’importazione;
 - d. autorizzazione d’esportazione;
@@ -264,7 +264,7 @@ Per le attività sottoposte ad autorizzazione conformemente alla presente legge 
 [^12-1]: Abrogata dal n. I 2 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari, con effetto dal 1° mar. 2002 ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 [^12-2]: Introdotta dal n. I 2 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari, in vigore dal 1° mar. 2002 ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53), [2004 2611](https://fedlex.data.admin.ch/eli/oc/2004/317); [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 
-### Sezione 2: …
+### Sezione 2: ...
 
 #### Art. 13 e 14
 
@@ -443,13 +443,13 @@ I titolari di un’autorizzazione giusta la presente legge e i titolari e il per
 
 <sup>1</sup> Gli organi di controllo sono autorizzati ad accedere, durante le ore normali di lavoro e senza preavviso, nei locali commerciali delle persone tenute a fornire informazioni, a ispezionarli e a prendere atto dei documenti utili. Sequestrano il materiale a carico. Sono fatte salve le prescrizioni più severe che si applicano se vi è sospetto di infrazioni.
 
-<sup>2</sup> Se necessario, per i controlli possono farsi assistere dalle polizie cantonali e comunali, dagli organi inquirenti dell’Amministrazione delle dogane, come pure dal Servizio delle attività informative della Confederazione.[^28-1]
+<sup>2</sup> Se necessario, per i controlli possono farsi assistere dalle polizie cantonali e comunali, dagli organi inquirenti dell’Ufficio federale della dogana e della sicurezza dei confini, come pure dal Servizio delle attività informative della Confederazione.[^28-1]
 
 <sup>3</sup> Gli organi di controllo possono, nel quadro degli obiettivi della presente legge, trattare dati personali. Tra i dati personali degni di particolare protezione, possono essere trattati soltanto quelli concernenti procedimenti e sanzioni amministrativi o penali. Possono essere trattati ulteriori dati personali degni di particolare protezione, se indispensabili per la trattazione del singolo caso.
 
 <sup>4</sup> Essi sono tenuti al segreto d’ufficio e adottano nel loro ambito tutte le precauzioni necessarie per evitare lo spionaggio economico.
 
-[^28-1]: Nuovo testo giusta il n. I 7 dell’O del 4 dic. 2009 sull’adeguamento di disposizioni legali in seguito all’istituzione del Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)).
+[^28-1]: Nuovo testo giusta il n. I 15 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 29
 
@@ -700,7 +700,7 @@ Se lo Stato estero accorda la reciprocità, le autorità federali di cui al capo
 
 <sup>1</sup> Il Consiglio federale emana le disposizioni d’esecuzione.
 
-<sup>2</sup> …[^43-1]
+<sup>2</sup> ...[^43-1]
 
 [^43-1]: Abrogato dal n. I 2 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari, con effetto dal 1° mar. 2002 ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 
@@ -716,7 +716,7 @@ La legge federale del 30 giugno 1972[^44-1] sul materiale bellico è abrogata.
 
 **Modifica di altri atti legislativi**
 
-…[^45-1]
+...[^45-1]
 
 [^45-1]: Le mod. possono essere consultate alla [RU 1998 794](https://fedlex.data.admin.ch/eli/oc/1998/794_794_794).
 
@@ -724,11 +724,11 @@ La legge federale del 30 giugno 1972[^44-1] sul materiale bellico è abrogata.
 
 **Disposizioni transitorie**
 
-<sup>1</sup> …[^46-1]
+<sup>1</sup> ...[^46-1]
 
 <sup>2</sup> I contratti relativi al trasferimento di beni immateriali, «know how» compreso, o al conferimento di diritti sugli stessi beni conclusi prima dell’entrata in vigore della presente legge non sono sottoposti ad autorizzazione secondo la presente legge.
 
-[^46-1]: Abgrogato dal n. II 23 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 (RU **2008** 3437 ; FF **2007** 5575).
+[^46-1]: Abgrogato dal n. II 23 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 47
 
@@ -742,4 +742,4 @@ La legge federale del 30 giugno 1972[^44-1] sul materiale bellico è abrogata.
 
 Data dell’entrata in vigore: 1° aprile 1998[^47-1]
 
-[^47-1]: DCF del 25 feb. 1998
+[^47-1]: DCF del 25 feb. 1998.
