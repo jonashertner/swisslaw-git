@@ -4,11 +4,11 @@ title: "Ordonnance du 31 octobre 2012 sur l'élevage (OE)"
 short: OE
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/763"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2012-10-31
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/763/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-763-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/763/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-763-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20200101/fr"
 
 (OE)
 
-du 31 octobre 2012 (Etat le 1<sup>er</sup> janvier 2020)
+du 31 octobre 2012 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -40,8 +40,11 @@ La présente ordonnance régit:
 - b. l’octroi de contributions à l’élevage;
 - c. l’octroi de contributions pour la préservation des races suisses;
 - d. l’octroi de contributions pour des projets de recherche;
+- d<sup>bis</sup>.[^1-1] les tâches du Haras national suisse;
 - e. la mise sur le marché d’animaux reproducteurs, de leur semence, d’ovules non fécondés et d’embryons;
 - f. l’importation d’animaux reproducteurs et d’animaux de rente, ainsi que de semence de taureaux dans le cadre des contingents tarifaires.
+
+[^1-1]: Introduite par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 #### Art. 2
 
@@ -72,11 +75,15 @@ Au sens de la présente ordonnance, on entend par:
 
 #### Art. 4
 
-**Délais, jours de référence et périodes de référence**
+**Octroi de contributions**[^4-1]
 
-<sup>1</sup> Les délais relatifs à la soumission des demandes de contributions, les jours de référence et les périodes de référence sont fixés dans l’annexe 1.
+<sup>1</sup> Les contributions visées par la présente ordonnance sont octroyées sur demande.
 
-<sup>2</sup> L’Office fédéral de l’agriculture (OFAG) peut modifier l’annexe 1.
+<sup>2</sup> Les délais relatifs à la soumission des demandes, les jours de référence et les périodes de référence figurent dans l’annexe 1.
+
+<sup>3</sup> L’Office fédéral de l’agriculture (OFAG) peut modifier l’annexe 1.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 ## Section 2 Reconnaissance d’organisations et d’entreprises d’élevage****
 
@@ -90,7 +97,7 @@ Au sens de la présente ordonnance, on entend par:
 
 <sup>1</sup>
 
-Une organisation est reconnue comme organisation d’élevage pour chaque race ou population de bovins, de porcins, d’ovins, de chèvres, d’équidés, de buffles d’Asie, de lapins, de volaille, de camélidés du Nouveau-monde ou d’abeilles mellifères lorsqu’elle:
+Une organisation est reconnue sur demande comme organisation d’élevage pour chaque race ou population de bovins, de porcins, d’ovins, de chèvres, d’équidés, de buffles d’Asie, de lapins, de volaille, de camélidés du Nouveau-monde ou d’abeilles mellifères lorsqu’elle:[^5-1]
 
 - a. est conçue comme une organisation d’entraide et se compose d’éleveurs actifs;
 - b. est dotée d’une personnalité juridique et a son siège en Suisse;
@@ -118,9 +125,10 @@ Une organisation est reconnue comme organisation d’élevage pour chaque race o
 Une organisation pour la réalisation de projets de préservation de races suisses est reconnue lorsqu’elle:
 
 - a. remplit les conditions fixées à l’al. 1, let. b, c et j, ou
-- b. remplit les conditions fixées à l’al. 1, let. b et j, et mentionne dans ses statuts ou son acte de fondation la préservation des races suisses menacées.[^5-1]
+- b. remplit les conditions fixées à l’al. 1, let. b et j, et mentionne dans ses statuts ou son acte de fondation la préservation des races suisses menacées.[^5-2]
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
 
 #### Art. 6
 
@@ -128,7 +136,7 @@ Une organisation pour la réalisation de projets de préservation de races suiss
 
 <sup>1</sup>
 
-Une organisation d’élevage ou une entreprise privée d’élevage tenant des registres pour des reproducteurs porcins hybrides est reconnue lorsqu’elle:
+Une organisation d’élevage ou une entreprise privée d’élevage tenant des registres pour des reproducteurs porcins hybrides est reconnue sur demande lorsqu’elle:[^6-1]
 
 - a. est dotée d’une personnalité juridique propre et a son siège en Suisse;
 - b. dispose de statuts juridiquement valables;
@@ -149,17 +157,21 @@ Les statuts d’une organisation d’élevage doivent permettre, pour autant que
 
 <sup>3</sup> Aux organisations d’élevage qui tiennent un *herd-book* pour les reproducteurs porcins hybrides en plus des reproducteurs porcins de race pure s’applique l’art. 5.
 
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+
 #### Art. 7
 
 **Gestion du *herd-book***
 
 <sup>1</sup> Le *herd-book* recueille les données relatives à l’ascendance, à l’identification, aux performances quantitatives et qualitatives et à la morphologie des animaux reproducteurs.
 
+<sup>1bis</sup> Le numéro d’identification est le numéro de marque auriculaire pour les animaux à onglons et l’Universal Equine Life Number (UELN) pour les équidés.[^7-1]
+
 <sup>2</sup> Outre les sujets de race pure, le *herd-book* peut admettre, dans des sections ou chapitres distincts, les animaux hybrides ou d’ascendance inconnue qui possèdent des signes distinctifs de la race concernée.
 
 <sup>3</sup> À l’intérieur d’une section ou d’un chapitre, les animaux peuvent être inscrits séparément selon des classes de qualité, compte tenu de leur ascendance, de leur identification et de leurs performances.
 
-<sup>4</sup> Les porteurs reconnus de tares héréditaires doivent être désignés comme tels.
+<sup>4</sup> Les porteurs reconnus de tares héréditaires doivent être désignés comme tels dans le *herd-book* et être signalés aux éleveurs.[^7-2]
 
 <sup>5</sup>
 
@@ -167,11 +179,17 @@ Les organisations d’élevage doivent fixer dans un règlement comment le *herd
 
 - a. définition des caractéristiques des races;
 - b. définition des buts de l’élevage;
-- c. identification par un marquage uniforme des animaux;
-- d. enregistrement des données sur l’ascendance;
+- c.[^7-3] marquage uniforme des animaux, pour autant que celui-ci ne soit pas déjà prescrit en vertu des art. 10 ou 15*a* de l’ordonnance du 27 juin 1995 sur les épizooties[^7-4];
+- d.[^7-5] enregistrement des données sur l’ascendance des animaux;
 - e. évaluation des données du *herd-book*, de l’appréciation des animaux, des résultats des épreuves de performance et de l’estimation de la valeur d’élevage ou de l’appréciation génétique;
 - f. exigences minimales pour l’inscription des animaux dans une section ou un chapitre défini du *herd-book*;
 - g. exigences relatives à l’admission au *herd-book* ainsi qu’au droit à la reproduction.
+
+[^7-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^7-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^7-4]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^7-5]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 #### Art. 8
 
@@ -233,19 +251,26 @@ Les organisations d’élevage, les organisations d’élevage de reproducteurs 
 
 #### Art. 11
 
-**Procédure**
+**Procédure**[^11-1]
 
-<sup>1</sup> Les demandes de reconnaissance, accompagnées des documents nécessaires, doivent être adressées à l’OFAG.
+<sup>1</sup> La demande de reconnaissance en tant qu’organisation d’élevage, accompagnée des documents nécessaires, doit être adressée à l’OFAG à l’aide du formulaire prévu à cet effet.
 
-<sup>2</sup> La reconnaissance est limitée à dix ans au maximum.
+<sup>2</sup> La reconnaissance est limitée à dix ans au maximum. Si une nouvelle demande est déposée au plus tard six mois avant l’expiration de la reconnaissance, l’OFAG rend une décision avant l’expiration de la reconnaissance.
 
-<sup>3</sup> Tout changement relatif aux conditions ayant justifié la reconnaissance doit être communiqué à l’OFAG dans un délai de trois mois.
+<sup>3</sup> Les organisations d’élevage d’équidés qui établissent des passeports équins doivent, en même temps que la nouvelle demande visée à l’al. 2, adresser une nouvelle demande de reconnaissance en tant que service d’établissement de passeports au sens de l’art. 15*d*<sup>bis</sup>, al. 4, de l’ordonnance du 27 juin 1995 sur les épizooties[^11-2].
+
+<sup>4</sup> Tout changement relatif aux conditions ayant justifié la reconnaissance doit être communiqué à l’OFAG dans un délai de trois mois.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^11-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 
 #### Art. 12
 
-**Extension de l’activité d’une organisation d’élevage reconnue**
+**Extension de l’activité d’une organisation d’élevage reconnue**[^12-1]
 
-Une organisation d’élevage suisse qui souhaite étendre son activité à un État membre de l’Union européenne (UE), doit déposer une demande dans ce sens auprès de l’OFAG. Celui-ci invite l’autorité étrangère compétente à prendre position dans un délai de deux mois.
+Une organisation d’élevage suisse reconnue qui souhaite étendre son activité à un État membre de l’Union européenne (UE) doit déposer une demande dans ce sens auprès de l’OFAG. Celui-ci invite l’autorité étrangère compétente à prendre position dans un délai de trois mois.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 #### Art. 13
 
@@ -264,30 +289,48 @@ La demande est rejetée si:
 
 <sup>4</sup> L’OFAG publie la liste des organisations d’élevage étrangères qui sont actives en Suisse.
 
-## Section 3 Encouragement de l’élevage
+## Section 3 …
 
 #### Art. 14
 
+[^14-1]
+
+[^14-1]: Abrogé par le ch. I de l’O du 3 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+
+## Section 4 Contributions pour les mesures zootechniques****
+
+[^sec4-1]
+
+[^sec4-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+
+#### Art. 14a
+
+**Principe**[^14a-1]
+
 <sup>1</sup>
 
-Dans le cadre des moyens disponibles, les organisations d’élevage reconnues sont soutenues au moyen des contributions suivantes, en faveur des éleveurs, pour les mesures zootechniques concernant les bovins, les porcins, les ovins et les chèvres, ainsi que les équidés, les buffles d’Asie, les lapins, la volaille, les camélidés du Nouveau-monde et les abeilles mellifères:
+Dans le cadre des moyens disponibles pour la présente section, les organisations d’élevage reconnues sont soutenues par des contributions pour les mesures zootechniques concernant les animaux suivants:
 
-- a.
+- a. bovins, y compris les buffles d’Asie;
+- b. équidés;
+- c. porcins;
+- d. ovins;
+- e. chèvres;
+- f. camélidés du Nouveau-monde;
+- g. abeilles mellifères.
 
-  contributions pour l’élevage (section 4) pour:
+<sup>2</sup>
 
-  - 1\. la gestion du *herd-book*,
-  - 2\. les épreuves de performance;
+Le soutien est assuré par:
 
-- b. contributions pour la préservation des races suisses et contributions aux projets de recherche (sections 5 et 6).[^14-1]
+- a. des contributions pour la tenue du *herd-book*;
+- b. des contributions pour les épreuves de performance.
 
-<sup>2</sup> Aucune contribution n’est versée ni aux entreprises privées d’élevage qui gèrent ou établissent un registre pour des reproducteurs porcins hybrides ni aux organisations d’élevage étrangères.
+<sup>3</sup> Aucune contribution n’est versée aux entreprises privées d’élevage qui tiennent ou établissent un registre pour des reproducteurs porcins hybrides ni aux organisations d’élevage étrangères.
 
-<sup>3</sup> L’OFAG publie les contributions versées par organisation d’élevage ainsi que par mesure.
+<sup>4</sup> L’OFAG publie les contributions versées par organisation d’élevage ainsi que par mesure.
 
-[^14-1]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
-
-## Section 4 Contributions pour l’élevage
+[^14a-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 #### Art. 15
 
@@ -558,11 +601,20 @@ Les moyens disponibles pour la présente section sont répartis comme suit:
 
 #### Art. 23
 
-**Contributions pour la préservation des races suisses**
+**Contributions pour la préservation des races suisses**[^23-1]
 
-<sup>1</sup> Le montant maximum alloué pour la préservation des races suisses s’élève à 900 000 francs par an. En complément, les moyens visés à l’art. 25 qui n’ont pas été épuisés peuvent être affectés à cette fin.
+<sup>1</sup>
 
-<sup>1bis</sup> Le montant maximum alloué à des organisations reconnues selon l’art. 5, al. 3, let. b, s’élève à 150 000 francs par année.[^23-1]
+Des contributions sont versées pour:
+
+- a.
+
+  des projets limités dans le temps visant la préservation:
+
+  - 1\. de races suisses,
+  - 2\. de races, éteintes en Suisse, qui ont été réintroduites, pour autant que leur origine suisse puisse être prouvée;
+
+- b. le stockage à long terme d’échantillons congelés d’origine animale (matériel cryogéné).
 
 <sup>2</sup>
 
@@ -573,41 +625,73 @@ Par race suisse, on entend une race:
 
 <sup>3</sup>
 
-Les organisations d’élevage reconnues et les organisations reconnues peuvent recevoir sur demande des contributions pour des projets limités dans le temps visant à la préservation de:
+Les contributions sont versées:
 
-- a. races suisses;
-- b. races, éteintes en Suisse, qui ont été réintroduites, pour autant que leur origine suisse puisse être prouvée.
+- a. pour les projets visés à l’al. 1, let. a: aux organisations d’élevage reconnues et aux organisations reconnues;
+- b. pour les mesures visées à l’al. 1, let. b: aux organisations d’élevage reconnues, aux organisations reconnues et aux entreprises privées dans le domaine de l’élevage.
 
-<sup>4</sup> Les organisations d’élevage reconnues et les organisations reconnues peuvent recevoir des contributions pour le stockage à long terme d’échantillons congelés d’origine animale (matériel cryogéné). L’OFAG conclut des conventions avec les organisations concernées.
+<sup>4</sup> Au total, le montant maximum versé s’élève à 900 000 francs par an. En complément, les moyens visés à l’art. 25 qui n’ont pas été épuisés peuvent être utilisés. Le montant maximum versé aux organisations reconnues visées à l’art. 5, al. 3, let. b, s’élève à 150 000 francs par année pour les projets visés à l’al. 1, let. a.
 
-[^23-1]: Introduit par le ch. I de l’O du 21 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
+<sup>5</sup> L’OFAG publie les contributions versées par organisation et par entreprise ainsi que par mesure.
+
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 #### Art. 24
 
-**Contributions pour la préservation de la race des Franches-Montagnes**
+**Contributions supplémentaires pour la préservation de la race des Franches-Montagnes[^24-1]**
 
 <sup>1</sup> Le montant maximum alloué, en complément à l’art. 23, pour la préservation de la race des Franches-Montagnes s’élève à 1 160 000 francs par an.
 
-<sup>2</sup> La contribution s’élève à 500 francs par jument suitée. Si le montant maximum de 1 160 000 francs par an ne suffit pas, la Fédération suisse du franches-montagnes[^24-1] réduit proportionnellement la contribution par jument suitée.
+<sup>2</sup> La contribution s’élève à 500 francs par jument suitée. Si le montant maximum de 1 160 000 francs par an ne suffit pas, la Fédération suisse du franches-montagnes[^24-2] réduit proportionnellement la contribution par jument suitée.
 
-<sup>3</sup> Toute jument inscrite au herd-book et gardée de manière conforme à la protection des animaux ayant un poulain qui est identifié et inscrit au *herd-book* durant l’année de contribution et qui est enregistré dans la banque de données sur le trafic des animaux donne droit à la contribution si le poulain descend d’un étalon inscrit au *herd-book* de la race des Franches-Montagnes.[^24-2]
+<sup>3</sup> Toute jument inscrite au herd-book et gardée de manière conforme à la protection des animaux ayant un poulain qui est identifié et inscrit au *herd-book* durant l’année de contribution et qui est enregistré dans la banque de données sur le trafic des animaux donne droit à la contribution si le poulain descend d’un étalon inscrit au *herd-book* de la race des Franches-Montagnes.[^24-3]
 
 <sup>4</sup> Les éleveurs doivent adresser leur demande à la Fédération suisse du franches-montagnes.
 
-<sup>5</sup> La Fédération suisse du franches-montagnes décide du droit aux contributions et verse celles-ci directement à l’éleveur ou au syndicat d’élevage chevalin auquel celui-ci est affilié. Le syndicat d’élevage chevalin doit transférer les contributions aux éleveurs dans un délai de 30 jours ouvrables. À l’aide d’une liste des juments suitées donnant droit aux contributions, la fédération facture les montants à l’OFAG. La fédération d’élevage associe les cantons ou les organisations désignées par les cantons au contrôle de la conformité des conditions de garde à la protection des animaux; le contrôle est effectué conformément à l’ordonnance du 31 octobre 2018 sur la coordination des contrôles dans les exploitations agricoles[^24-3].[^24-4]
+<sup>5</sup> La Fédération suisse du franches-montagnes décide du droit aux contributions et verse celles-ci directement à l’éleveur ou au syndicat d’élevage chevalin auquel celui-ci est affilié. Le syndicat d’élevage chevalin doit transférer les contributions aux éleveurs dans un délai de 30 jours ouvrables. À l’aide d’une liste des juments suitées donnant droit aux contributions, la fédération facture les montants à l’OFAG. La fédération d’élevage associe les cantons ou les organisations désignées par les cantons au contrôle de la conformité des conditions de garde à la protection des animaux; le contrôle est effectué conformément à l’ordonnance du 31 octobre 2018 sur la coordination des contrôles dans les exploitations agricoles[^24-4].[^24-5]
 
 <sup>6</sup> La Fédération suisse du franches-montagnes communique à l’OFAG, au plus tard le 31 octobre précédant l’année de contribution, le nombre estimé de juments donnant droit à des contributions.
 
-[^24-1]: Nouvelle expression selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3975](https://fedlex.data.admin.ch/eli/oc/2013/725)). Il a été tenu compte de cette mod. dans tout le texte.
-[^24-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3975](https://fedlex.data.admin.ch/eli/oc/2013/725)).
-[^24-3]: [RS 910.15](https://fedlex.data.admin.ch/eli/cc/2018/673)
-[^24-4]: Nouvelle teneur selon l’annexe 2 ch. 5 de l’O du 31 oct. 2018 sur la coordination des contrôles dans les exploitations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673)).
+<sup>7</sup> L’OFAG publie les contributions versées à la Fédération suisse du Franches-montagnes.[^24-6]
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^24-2]: Nouvelle expression selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3975](https://fedlex.data.admin.ch/eli/oc/2013/725)). Il a été tenu compte de cette mod. dans tout le texte.
+[^24-3]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3975](https://fedlex.data.admin.ch/eli/oc/2013/725)).
+[^24-4]: [RS 910.15](https://fedlex.data.admin.ch/eli/cc/2018/673)
+[^24-5]: Nouvelle teneur selon l’annexe 2 ch. 5 de l’O du 31 oct. 2018 sur la coordination des contrôles dans les exploitations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673)).
+[^24-6]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 ## Section 6 Contributions aux projets de recherche
 
 #### Art. 25
 
-Le montant maximum alloué pour les projets de recherche sur les ressources zoogénétiques est de 100 000 francs par an.
+[^25-1]
+
+<sup>1</sup> Des contributions sont versées aux organisations d’élevage reconnues et aux instituts des hautes écoles fédérales et cantonales pour les projets de recherche sur les ressources zoogénétiques. Au total, le montant maximum versé est de 100 000 francs par an.
+
+<sup>2</sup> L’OFAG publie les contributions versées par organisation et par institut ainsi que par mesure.
+
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+
+## Section 6*a***** Tâches du Haras national suisse
+
+[^sec6a-1]
+
+[^sec6a-1]: Introduite par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+
+**Art. 25**a
+
+<sup>1</sup> Le Haras national suisse visé à l’art. 147 de la loi du 29 avril 1998 sur l’agriculture a les tâches suivantes:
+
+- a. il encourage la diversité génétique de la race des Franches-Montagnes, la met à la disposition des éleveurs in vivo et in vitro et soutient sur le plan technique les autres mesures de préservation de la Fédération suisse du franches-montagnes;
+- b. il mène des recherches appliquées dans les domaines de l’élevage, de la détention et de l’utilisation d’équidés, principalement en collaboration avec les hautes écoles;
+- c. il soutient les éleveurs d’équidés dans leur travail de sélection;
+- d. il encourage l’échange de connaissances dans le domaine de la détention et de l’utilisation des équidés et fournit des conseils;
+- e. il détient des équidés et fournit des infrastructures et des installations permettant d’accomplir les tâches définies aux let. a à d.
+
+<sup>2</sup> Pour ses services et ses débours, le haras prélève des émoluments; ceux-ci sont régis par l’ordonnance du 16 juin 2006 relative aux émoluments perçus par l’Office fédéral de l’agriculture[^sec6a-2].
+
+[^sec6a-2]: [RS 910.11](https://fedlex.data.admin.ch/eli/cc/2006/415)
 
 ## Section 7 Certificat d’ascendance pour la mise sur le marché d’animaux reproducteurs, de semence, d’ovules non fécondés et d’embryons
 
@@ -618,6 +702,10 @@ Le montant maximum alloué pour les projets de recherche sur les ressources zoog
 <sup>1</sup> Les reproducteurs bovins, porcins, ovins et caprins ainsi que les équidés reproducteurs, de même que la semence, les ovules non fécondés et les embryons, doivent être accompagnés d’un certificat d’ascendance lorsqu’ils sont mis sur le marché.
 
 <sup>2</sup> Lors d’un changement de propriétaire dans le pays, les animaux reproducteurs femelles, ainsi que les ovules non fécondés et les embryons, ne doivent être accompagnés d’un certificat d’ascendance que sur demande de l’acquéreur.
+
+<sup>3</sup> Les certificats d’ascendance doivent être délivrés par une organisation d’élevage reconnue.[^26-1]
+
+[^26-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 #### Art. 27
 
@@ -798,7 +886,7 @@ Annexe 1*[^t-1]*
 
 ## Délais pour le dépôt des demandes d’octroi des contributions ainsi que jours de référence et périodes de référence
 
-[^t-1]: Mise à jour selon le ch. II des O du 21 mai 2014 ([RO 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)) et du 20 mai 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
+[^t-1]: Mise à jour par le ch. II des O du 21 mai 2014 ([RO 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)) et du 20 mai 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
 
 ### 1. Élevage bovin
 

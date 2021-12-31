@@ -4,11 +4,11 @@ title: "Verordnung vom 31. Oktober 2012 über die Tierzucht (Tierzuchtverordnung
 short: TZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/763"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2012-10-31
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/763/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2012-763-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/763/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2012-763-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20200101/de"
 
 (Tierzuchtverordnung, TZV)
 
-vom 31. Oktober 2012 (Stand am 1. Januar 2020)
+vom 31. Oktober 2012 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -40,8 +40,11 @@ Diese Verordnung regelt:
 - b. die Beitragsgewährung an die Tierzucht;
 - c. die Beitragsgewährung zur Erhaltung der Schweizer Rassen;
 - d. die Beitragsgewährung an Forschungsprojekte;
+- d<sup>bis</sup>.[^1-1] die Aufgaben des Schweizer Nationalgestüts;
 - e. das Inverkehrbringen von Zuchttieren sowie von deren Samen, unbefruchteten Eizellen und Embryonen;
 - f. die Einfuhr von Zucht- und Nutztieren sowie von Samen von Stieren im Rahmen der Zollkontingente.
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 #### Art. 2
 
@@ -72,11 +75,15 @@ In dieser Verordnung bedeuten:
 
 #### Art. 4
 
-**Fristen, Stichtage und Referenzperioden**
+**Ausrichtung von Beiträgen**[^4-1]
 
-<sup>1</sup> Die Fristen zur Einreichung der Gesuche um Ausrichtung der Beiträge sowie die Stichtage und Referenzperioden sind in Anhang 1 festgelegt.
+<sup>1</sup> Die Beiträge nach dieser Verordnung werden auf Gesuch hin ausgerichtet.
 
-<sup>2</sup> Das Bundesamt für Landwirtschaft (BLW) kann Anhang 1 ändern.
+<sup>2</sup> Die Fristen zur Einreichung der Gesuche sowie die Stichtage und Referenzperioden sind in Anhang 1 aufgeführt.
+
+<sup>3</sup> Das Bundesamt für Landwirtschaft (BLW) kann Anhang 1 ändern.
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 ## 2. Abschnitt: Anerkennung von Organisationen und Zuchtunternehmen
 
@@ -90,7 +97,7 @@ In dieser Verordnung bedeuten:
 
 <sup>1</sup>
 
-Als Zuchtorganisation für jede einzelne betreute Rasse oder Zuchtpopulation der Rindvieh-, Schweine-, Schaf- und Ziegengattung sowie für Equiden, Wasserbüffel, Kaninchen, Geflügel, Neuweltkameliden und Honigbienen wird eine Organisation anerkannt, die:
+Als Zuchtorganisation für jede einzelne betreute Rasse oder Zuchtpopulation der Rindvieh-, Schweine-, Schaf- und Ziegengattung sowie für Equiden, Wasserbüffel, Kaninchen, Geflügel, Neuweltkameliden und Honigbienen wird eine Organisation auf Gesuch hin anerkannt, wenn sie:[^5-1]
 
 - a. eine Selbsthilfeorganisation ist und sich aus aktiven Züchterinnen und Züchtern zusammensetzt;
 - b. eine eigene Rechtspersönlichkeit besitzt und ihren Sitz in der Schweiz hat;
@@ -118,9 +125,10 @@ Als Zuchtorganisation für jede einzelne betreute Rasse oder Zuchtpopulation der
 Als Organisation zur Durchführung von Projekten zur Erhaltung von Schweizer Rassen wird eine Organisation anerkannt, die:
 
 - a. die Voraussetzungen nach Absatz 1 Buchstaben b, c und j erfüllt; oder
-- b. die Voraussetzungen nach Absatz 1 Buchstaben b und j erfüllt und in deren Statuten oder Stiftungsurkunde die Erhaltung gefährdeter Schweizer Rassen festgehalten ist.[^5-1]
+- b. die Voraussetzungen nach Absatz 1 Buchstaben b und j erfüllt und in deren Statuten oder Stiftungsurkunde die Erhaltung gefährdeter Schweizer Rassen festgehalten ist.[^5-2]
 
-[^5-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
+[^5-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^5-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
 
 #### Art. 6
 
@@ -128,7 +136,7 @@ Als Organisation zur Durchführung von Projekten zur Erhaltung von Schweizer Ras
 
 <sup>1</sup>
 
-Als Zuchtorganisation oder privates Zuchtunternehmen für hybride Zuchtschweine wird eine Organisation anerkannt, die:
+Als Zuchtorganisation oder privates Zuchtunternehmen für hybride Zuchtschweine wird eine Organisation auf Gesuch hin anerkannt, wenn sie:[^6-1]
 
 - a. eine eigene Rechtspersönlichkeit besitzt und ihren Sitz in der Schweiz hat;
 - b. über rechtsgültige Statuten verfügt;
@@ -149,17 +157,21 @@ Die Statuten einer Zuchtorganisation müssen, sofern die statutarischen Bedingun
 
 <sup>3</sup> Für eine Zuchtorganisation, die in einem Herdebuch neben reinrassigen auch hybride Zuchtschweine führt, gilt Artikel 5.
 
+[^6-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+
 #### Art. 7
 
 **Herdebuchführung**
 
 <sup>1</sup> Im Herdebuch sind Erhebungen und Aufzeichnungen über Abstammung, Identifikation, Leistungs- und Qualitätsmerkmale sowie Exterieur der Zuchttiere einzutragen.
 
+<sup>1bis</sup> Als Identifikationsnummer ist bei Klauentieren die Ohrmarkennummer und bei Equiden die Universal Equine Life Number (UELN) zu verwenden.[^7-1]
+
 <sup>2</sup> In das Herdebuch können neben reinrassigen Tieren in getrennten Abteilungen oder Sektionen auch Kreuzungen sowie Tiere unbekannter Abstammung, die aber typische Rassenmerkmale aufweisen, eingetragen werden.
 
 <sup>3</sup> Innerhalb einer Abteilung oder Sektion des Herdebuches können die Tiere nach Qualitätsstufen entsprechend ihrer Abstammung, Identifikation und Leistung getrennt eingetragen werden.
 
-<sup>4</sup> Erkannte Erbfehlerträger sind als solche zu bezeichnen.
+<sup>4</sup> Erkannte Erbfehlerträger sind im Herdebuch als solche zu bezeichnen und den Züchterinnen und Züchtern offenzulegen.[^7-2]
 
 <sup>5</sup>
 
@@ -167,11 +179,17 @@ Die Zuchtorganisationen haben in einem Reglement festzulegen, wie das Herdebuch 
 
 - a. Definition der Rassenmerkmale;
 - b. Festlegung der Zuchtziele;
-- c. Identifikation durch einheitliche Kennzeichnung der Tiere;
-- d. Registrierung der Abstammungsdaten;
+- c.[^7-3] einheitliche Kennzeichnung der Tiere, soweit diese nicht bereits nach Artikel 10 oder 15*a* der Tierseuchenverordnung vom 27. Juni 1995[^7-4] vorgeschrieben ist;
+- d.[^7-5] Registrierung der Abstammungsdaten der Tiere;
 - e. Auswertung der Herdebuchaufzeichnungen, der Beurteilungen, der Ergebnisse von Leistungsprüfungen sowie der Zuchtwertschätzungen oder der genetischen Bewertungen;
 - f. Mindestanforderungen für die Eintragung der Tiere in eine bestimmte Abteilung oder Sektion des Herdebuches;
 - g. Anforderungen für die Eintragung ins Herdebuch und für die Zuchtberechtigung.
+
+[^7-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^7-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^7-3]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^7-4]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^7-5]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 #### Art. 8
 
@@ -233,19 +251,26 @@ Zuchtorganisationen, Zuchtorganisationen für hybride Zuchtschweine und private 
 
 #### Art. 11
 
-**Verfahren**
+**Verfahren**[^11-1]
 
-<sup>1</sup> Gesuche um Anerkennung sind mit allen notwendigen Unterlagen dem BLW einzureichen.
+<sup>1</sup> Das Gesuch um Anerkennung als Zuchtorganisation ist auf dem dafür vorgesehenen Formular mit allen notwendigen Unterlagen beim BLW einzureichen.
 
-<sup>2</sup> Die Anerkennung wird für höchstens zehn Jahre erteilt.
+<sup>2</sup> Die Anerkennung wird für höchstens zehn Jahre erteilt. Wird spätestens sechs Monate vor Ablauf der Anerkennung ein neues Gesuch eingereicht, so entscheidet das BLW vor Ablauf der Anerkennung.
 
-<sup>3</sup> Änderungen in Bezug auf die Anerkennungsvoraussetzungen müssen dem BLW innerhalb von drei Monaten gemeldet werden.
+<sup>3</sup> Zuchtorganisationen von Equiden, die Equidenpässe ausstellen, müssen gleichzeitig mit dem neuen Gesuch nach Absatz 2 ein neues Gesuch um Anerkennung als Stelle für die Passausstellung nach Artikel 15*d*<sup>bis</sup> Absatz 4 der Tierseuchenverordnung vom 27. Juni 1995[^11-2] einreichen.
+
+<sup>4</sup> Änderungen in Bezug auf die Anerkennungsvoraussetzungen müssen dem BLW innerhalb von drei Monaten gemeldet werden.
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^11-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 
 #### Art. 12
 
-**Ausdehnung des Tätigkeitsgebiets einer anerkannten Zuchtorganisation**
+**Ausdehnung des Tätigkeitsgebiets einer anerkannten Zuchtorganisation**[^12-1]
 
-Eine schweizerische Zuchtorganisation, die ihr Tätigkeitsgebiet auf einen Mitgliedstaat der Europäischen Union (EU) ausdehnen will, muss dem BLW ein entsprechendes Gesuch stellen. Das BLW lädt die zuständige Behörde des Mitgliedstaates zur Stellungnahme ein und gibt ihr eine Frist von zwei Monaten.
+Eine anerkannte schweizerische Zuchtorganisation, die ihr Tätigkeitsgebiet auf einen Mitgliedstaat der Europäischen Union (EU) ausdehnen will, muss dem BLW ein entsprechendes Gesuch stellen. Das BLW lädt die zuständige Behörde des Mitgliedstaates zur Stellungnahme ein und gibt ihr eine Frist von drei Monaten.
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 #### Art. 13
 
@@ -264,28 +289,48 @@ Der Antrag wird abgelehnt, wenn:
 
 <sup>4</sup> Das BLW veröffentlicht die Liste der ausländischen Zuchtorganisationen, die in der Schweiz tätig sind.
 
-## 3. Abschnitt: Förderung der Tierzucht
+## 3. Abschnitt: …
 
 #### Art. 14
 
+[^14-1]
+
+[^14-1]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+
+## 4. Abschnitt: Beiträge für züchterische Massnahmen****
+
+[^sec4-1]
+
+[^sec4-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+
+#### Art. 14a
+
+**Grundsatz**[^14a-1]
+
 <sup>1</sup>
 
-Im Rahmen der zur Verfügung stehenden Mittel werden die anerkannten Zuchtorganisationen für züchterische Massnahmen bei Tieren der Rindvieh-, Schweine-, Schaf- und Ziegengattung sowie bei Equiden, Wasserbüffeln, Kaninchen, Geflügel, Neuweltkameliden und Honigbienen mit folgenden Beiträgen zugunsten der Züchterinnen und Züchter unterstützt:
+Anerkannte Zuchtorganisationen werden im Rahmen der für diesen Abschnitt zur Verfügung stehenden Mittel für züchterische Massnahmen bei folgenden Tieren mit Beiträgen unterstützt:
 
-- a.
+- a. Tieren der Rindviehgattung, inklusive Wasserbüffel;
+- b. Equiden;
+- c. Tieren der Schweinegattung;
+- d. Tieren der Schafgattung;
+- e. Tieren der Ziegengattung;
+- f. Neuweltkameliden;
+- g. Honigbienen.
 
-  Beiträge für die Tierzucht (4. Abschnitt) für:
+<sup>2</sup>
 
-  - 1\. Herdebuchführung,
-  - 2\. Leistungsprüfungen;
+Die Unterstützung erfolgt durch:
 
-- b. Beiträge zur Erhaltung der Schweizer Rassen und für Forschungsprojekte (5. und 6. Abschnitt).[^14-1]
+- a. Beiträge für die Herdebuchführung;
+- b. Beiträge für Leistungsprüfungen.
 
-<sup>2</sup> Keine Beiträge erhalten private Zuchtunternehmen, die Register für hybride Zuchtschweine führen oder einrichten, sowie ausländische Zuchtorganisationen.
+<sup>3</sup> Keine Beiträge erhalten private Zuchtunternehmen, die Register für hybride Zuchtschweine führen oder einrichten, sowie ausländische Zuchtorganisationen.
 
-<sup>3</sup> Das BLW veröffentlicht die ausgerichteten Beiträge je Zuchtorganisation und je Massnahme.
+<sup>4</sup> Das BLW veröffentlicht die ausgerichteten Beiträge je Zuchtorganisation und je Massnahme.
 
-[^14-1]: Fassung gemäss Ziff. I der V vom 20. Mai 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
+[^14a-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 ## 4. Abschnitt: Beiträge für die Tierzucht
 
@@ -558,11 +603,20 @@ Herdebuchtiere, welche die Anforderungen nach den Absätzen 6 und 7 nicht erfül
 
 #### Art. 23
 
-**Beiträge zur Erhaltung von Schweizer Rassen**
+**Beiträge zur Erhaltung von Schweizer Rassen**[^23-1]
 
-<sup>1</sup> Für die Erhaltung der Schweizer Rassen werden höchstens 900 000 Franken pro Jahr ausgerichtet. Zusätzlich können nicht ausgeschöpfte Mittel nach Artikel 25 verwendet werden.
+<sup>1</sup>
 
-<sup>1bis</sup> An anerkannte Organisationen nach Artikel 5 Absatz 3 Buchstabe b werden pro Jahr höchstens 150 000 Franken ausgerichtet.[^23-1]
+Es werden Beiträge ausgerichtet für:
+
+- a.
+
+  zeitlich befristete Projekte zur Erhaltung von:
+
+  - 1\. Schweizer Rassen,
+  - 2\. Rassen, die in der Schweiz ausgestorben waren und wieder eingeführt wurden, sofern ihr Ursprung in der Schweiz nachgewiesen wird;
+
+- b. die Langzeitlagerung von tiefgefrorenem Probematerial tierischen Ursprungs (Kryomaterial).
 
 <sup>2</sup>
 
@@ -573,41 +627,73 @@ Als Schweizer Rasse gilt eine Rasse:
 
 <sup>3</sup>
 
-Beiträge an anerkannte Zuchtorganisationen und anerkannte Organisationen können auf Gesuch hin für zeitlich befristete Projekte zur Erhaltung ausgerichtet werden:
+Die Beiträge werden ausgerichtet:
 
-- a. für Schweizer Rassen;
-- b. für Rassen, die in der Schweiz ausgestorben waren und wieder eingeführt wurden, sofern ihr Ursprung in der Schweiz nachgewiesen wird.
+- a. für Projekte nach Absatz 1 Buchstabe a: an anerkannte Zuchtorganisationen und anerkannte Organisationen;
+- b. für Massnahmen nach Absatz 1 Buchstabe b: an anerkannte Zuchtorganisationen, anerkannte Organisationen und private Unternehmen aus dem Tierzuchtbereich.
 
-<sup>4</sup> Für die Langzeitlagerung von tiefgefrorenem Probematerial tierischen Ursprungs (Kryomaterial) können Beiträge an anerkannte Zuchtorganisationen und anerkannte Organisationen ausgerichtet werden. Das BLW schliesst mit den Organisationen Vereinbarungen ab.
+<sup>4</sup> Insgesamt werden höchstens 900 000 Franken pro Jahr ausgerichtet. Zusätzlich können nicht ausgeschöpfte Mittel nach Artikel 25 verwendet werden. An anerkannte Organisationen nach Artikel 5 Absatz 3 Buchstabe b werden für Projekte nach Absatz 1 Buchstabe a pro Jahr höchstens 150 000 Franken ausgerichtet.
 
-[^23-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
+<sup>5</sup> Das BLW veröffentlicht die ausgerichteten Beiträge je Organisation beziehungsweise je Unternehmen sowie je Massnahme.
+
+[^23-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 #### Art. 24
 
-**Beiträge zur Erhaltung der Freibergerrasse**
+**Zusätzliche Beiträge zur Erhaltung der Freibergerrasse[^24-1]**
 
 <sup>1</sup> Für die Erhaltung der Freibergerrasse werden zusätzlich zu Artikel 23 höchstens 1 160 000 Franken pro Jahr ausgerichtet.
 
-<sup>2</sup> Der Beitrag beträgt 500 Franken je Stute mit Fohlen bei Fuss. Genügt der Höchstbeitrag von 1 160 000 Franken pro Jahr nicht, so wird der Beitrag je Stute mit Fohlen bei Fuss vom Schweizerischen Freibergerverband[^24-1] entsprechend gekürzt.
+<sup>2</sup> Der Beitrag beträgt 500 Franken je Stute mit Fohlen bei Fuss. Genügt der Höchstbeitrag von 1 160 000 Franken pro Jahr nicht, so wird der Beitrag je Stute mit Fohlen bei Fuss vom Schweizerischen Freibergerverband[^24-2] entsprechend gekürzt.
 
-<sup>3</sup> Zu Beiträgen berechtigen im Herdebuch eingetragene, tierschutzkonform gehaltene Stuten mit einem im Beitragsjahr identifizierten und im Herdebuch eingetragenen sowie in der Tierverkehrsdatenbank registrierten Fohlen, das von einem im Herdebuch der Freibergerrasse eingetragenen Hengst abstammt.[^24-2]
+<sup>3</sup> Zu Beiträgen berechtigen im Herdebuch eingetragene, tierschutzkonform gehaltene Stuten mit einem im Beitragsjahr identifizierten und im Herdebuch eingetragenen sowie in der Tierverkehrsdatenbank registrierten Fohlen, das von einem im Herdebuch der Freibergerrasse eingetragenen Hengst abstammt.[^24-3]
 
 <sup>4</sup> Züchterinnen und Züchter müssen die Gesuche beim Schweizerischen Freibergerverband einreichen.
 
-<sup>5</sup> Der Schweizerische Freibergerverband entscheidet über die Beitragsberechtigung und richtet die Beiträge direkt oder über die jeweilige Pferdezuchtgenossenschaft an die Züchterin oder den Züchter aus. Die Pferdezuchtgenossenschaft muss die Beiträge innerhalb von 30 Arbeitstagen weiterleiten. Anhand einer Liste der beitragsberechtigten Stuten mit Fohlen bei Fuss stellt der Verband dem BLW die Beiträge in Rechnung. Der Verband zieht für die Kontrolle der tierschutzkonformen Haltung die Kantone oder die von diesen beigezogenen Organisationen bei; die Kontrolle richtet sich nach der Verordnung vom 31. Oktober 2018[^24-3] über die Koordination der Kontrollen auf Landwirtschaftsbetrieben.[^24-4]
+<sup>5</sup> Der Schweizerische Freibergerverband entscheidet über die Beitragsberechtigung und richtet die Beiträge direkt oder über die jeweilige Pferdezuchtgenossenschaft an die Züchterin oder den Züchter aus. Die Pferdezuchtgenossenschaft muss die Beiträge innerhalb von 30 Arbeitstagen weiterleiten. Anhand einer Liste der beitragsberechtigten Stuten mit Fohlen bei Fuss stellt der Verband dem BLW die Beiträge in Rechnung. Der Verband zieht für die Kontrolle der tierschutzkonformen Haltung die Kantone oder die von diesen beigezogenen Organisationen bei; die Kontrolle richtet sich nach der Verordnung vom 31. Oktober 2018[^24-4] über die Koordination der Kontrollen auf Landwirtschaftsbetrieben.[^24-5]
 
 <sup>6</sup> Der Schweizerische Freibergerverband meldet dem BLW bis zum 31. Oktober des dem Beitragsjahr vorangehenden Jahres die geschätzte Anzahl Stuten, für die Beiträge ausgerichtet werden sollen.
 
-[^24-1]: Ausdruck gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3975](https://fedlex.data.admin.ch/eli/oc/2013/725)). Die Anpassung wurde im ganzen Text vorgenommen.
-[^24-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3975](https://fedlex.data.admin.ch/eli/oc/2013/725)).
-[^24-3]: [SR 910.15](https://fedlex.data.admin.ch/eli/cc/2018/673)
-[^24-4]: Fassung gemäss Anhang 2 Ziff. 5 der V vom 31. Okt. 2018 über die Koordination der Kontrollen auf Landwirtschaftsbetrieben, in Kraft seit 1. Jan. 2020 ([AS 2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673)).
+<sup>7</sup> Das BLW veröffentlicht die an den Schweizerischen Freibergerverband ausgerichteten Beiträge.[^24-6]
+
+[^24-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^24-2]: Ausdruck gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3975](https://fedlex.data.admin.ch/eli/oc/2013/725)). Die Anpassung wurde im ganzen Text vorgenommen.
+[^24-3]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3975](https://fedlex.data.admin.ch/eli/oc/2013/725)).
+[^24-4]: [SR 910.15](https://fedlex.data.admin.ch/eli/cc/2018/673)
+[^24-5]: Fassung gemäss Anhang 2 Ziff. 5 der V vom 31. Okt. 2018 über die Koordination der Kontrollen auf Landwirtschaftsbetrieben, in Kraft seit 1. Jan. 2020 ([AS 2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673)).
+[^24-6]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 ## 6. Abschnitt: Beiträge für Forschungsprojekte
 
 #### Art. 25
 
-Für Forschungsprojekte über tiergenetische Ressourcen werden insgesamt höchstens 100 000 Franken pro Jahr ausgerichtet.
+[^25-1]
+
+<sup>1</sup> Für Forschungsprojekte über tiergenetische Ressourcen werden anerkannte Zuchtorganisationen und Institute von eidgenössischen und kantonalen Hochschulen mit Beiträgen unterstützt. Die Beiträge betragen insgesamt höchstens 100 000 Franken pro Jahr.
+
+<sup>2</sup> Das BLW veröffentlicht die ausgerichteten Beiträge je Organisation beziehungsweise je Institut sowie je Massnahme.
+
+[^25-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+
+## 6*a*. Abschnitt:**** Aufgaben des Schweizer Nationalgestüts
+
+[^sec7-1]
+
+[^sec7-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+
+**Art. 25**a
+
+<sup>1</sup> Das Schweizer Nationalgestüt nach Artikel 147 des Landwirtschaftsgesetzes vom 29. April 1998 hat die folgenden Aufgaben:
+
+- a. Es fördert die genetische Vielfalt der Freibergerrasse, stellt diese den Züchterinnen und Züchtern in vivo und in vitro zur Verfügung und unterstützt weitere Erhaltungsmassnahmen des Schweizerischen Freibergerverbands in fachlicher Hinsicht.
+- b. Es betreibt angewandte Forschung in den Bereichen Zucht, Haltung und Nutzung von Equiden und arbeitet dabei hauptsächlich mit den Hochschulen zusammen.
+- c. Es unterstützt die Züchterinnen und Züchter von Equiden bei der Zuchtarbeit.
+- d. Es fördert im Bereich der Haltung und Nutzung von Equiden den Wissensaustausch und bietet Beratung an.
+- e. Es hält Equiden und stellt Infrastrukturen sowie Anlagen bereit, um die Aufgaben nach den Buchstaben a–d erfüllen zu können.
+
+<sup>2</sup> Für seine Dienstleistungen und Auslagen erhebt das Gestüt Gebühren; diese richten sich nach der Verordnung vom 16. Juni 2006[^sec7-2] über Gebühren des Bundesamtes für Landwirtschaft.
+
+[^sec7-2]: [SR 910.11](https://fedlex.data.admin.ch/eli/cc/2006/415)
 
 ## 7. Abschnitt: Abstammungsausweis für das Inverkehrbringen von Zuchttieren sowie von deren Samen, unbefruchteten Eizellen und Embryonen
 
@@ -618,6 +704,10 @@ Für Forschungsprojekte über tiergenetische Ressourcen werden insgesamt höchst
 <sup>1</sup> Zuchttiere der Rindvieh-, Schweine-, Schaf- und Ziegengattung und von Equiden sowie deren Samen, unbefruchtete Eizellen und Embryonen müssen beim Inverkehrbringen von einem Abstammungsausweis begleitet sein.
 
 <sup>2</sup> Weibliche Zuchttiere sowie unbefruchtete Eizellen und Embryonen müssen beim Wechsel der Besitzerin oder des Besitzers im Inland nur auf Verlangen der Abnehmerin oder des Abnehmers von einem Abstammungsausweis begleitet sein.
+
+<sup>3</sup> Die Abstammungsausweise müssen von einer anerkannten Zuchtorganisation ausgestellt werden.[^26-1]
+
+[^26-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 #### Art. 27
 
@@ -778,7 +868,7 @@ Das BLW vollzieht diese Verordnung, soweit damit nicht andere Behörden betraut 
 
 <sup>2</sup> Die Änderung bisherigen Rechts wird in Anhang 2 geregelt.
 
-[^38-1]: [[AS 2007 6411](https://fedlex.data.admin.ch/eli/oc/2007/837), [2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)Ziff. II 1 [5871](https://fedlex.data.admin.ch/eli/oc/2008/810), [2009 6365](https://fedlex.data.admin.ch/eli/oc/2009/777), [2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)Ziff. II, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Anhang 2 Ziff. 7]
+[^38-1]: [[AS 2007 6411](https://fedlex.data.admin.ch/eli/oc/2007/837); [2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)Ziff. II 1, [5871](https://fedlex.data.admin.ch/eli/oc/2008/810); [2009 6365](https://fedlex.data.admin.ch/eli/oc/2009/777); [2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)Ziff. II; [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Anhang 2 Ziff. 7]
 
 #### Art. 39
 

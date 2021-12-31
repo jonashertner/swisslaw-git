@@ -4,11 +4,11 @@ title: "Ordinanza del 31 ottobre 2012 sull'allevamento di animali (OAlle)"
 short: OAlle
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/763"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2012-10-31
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/763/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2012-763-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/763/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2012-763-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20200101/it"
 
 (OAlle)
 
-del 31 ottobre 2012 (Stato 1° gennaio 2020)
+del 31 ottobre 2012 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -40,8 +40,11 @@ La presente ordinanza disciplina:
 - b. l’assegnazione di contributi per l’allevamento;
 - c. l’assegnazione di contributi per la conservazione delle razze svizzere;
 - d. l’assegnazione di contributi per progetti di ricerca;
+- d.<sup>bis</sup> [^1-1] i compiti dell’Istituto nazionale svizzero di allevamento equino;
 - e. l’immissione in commercio di animali da allevamento, del loro sperma e dei loro ovuli non fecondati ed embrioni;
 - f. l’importazione di animali da allevamento e da reddito e di sperma di toro nell’ambito dei contingenti doganali.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 #### Art. 2
 
@@ -72,11 +75,15 @@ Ai sensi della presente ordinanza si intende per:
 
 #### Art. 4
 
-**Termini, giorni di riferimento e periodi di riferimento**
+**Versamento di contributi**[^4-1]
 
-<sup>1</sup> I termini per la presentazione delle richieste per i contributi, i giorni di riferimento, e i periodi di riferimento sono stabiliti nell’allegato 1.
+<sup>1</sup> I contributi ai sensi della presente ordinanza sono assegnati su richiesta.
 
-<sup>2</sup> L’Ufficio federale dell’agricoltura (UFAG) può modificare l’allegato 1.
+<sup>2</sup> I termini per la presentazione delle richieste per i contributi, i giorni di riferimento, e i periodi di riferimento sono stabiliti nell’allegato 1.
+
+<sup>3</sup> L’Ufficio federale dell’agricoltura (UFAG) può modificare l’allegato 1.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 ## Sezione 2: Riconoscimento di organizzazioni e imprese di allevamento****
 
@@ -90,7 +97,7 @@ Ai sensi della presente ordinanza si intende per:
 
 <sup>1</sup>
 
-Un’organizzazione di allevamento per ogni razza o popolazione di animali delle specie bovina, suina, ovina, caprina ed equina, nonché di conigli, volatili, api mellifere e camelidi del Nuovo Mondo è riconosciuta se:
+Un’organizzazione di allevamento per ogni razza o popolazione di animali delle specie bovina, suina, ovina e caprina, nonché di equidi, bufali, conigli, volatili, camelidi del Nuovo Mondo e api mellifere è riconosciuta, su richiesta, se:[^5-1]
 
 - a. è concepita quale organizzazione di mutua assistenza e si compone di allevatori attivi;
 - b. ha personalità giuridica propria e sede in Svizzera;
@@ -118,9 +125,10 @@ Un’organizzazione di allevamento per ogni razza o popolazione di animali delle
 Un’organizzazione per la realizzazione di progetti per la conservazione delle razze svizzere è riconosciuta se:
 
 - a. soddisfa i requisiti di cui al capoverso 1 lettere b, c e j; o
-- b. soddisfa i requisiti di cui al capoverso 1 lettere b e j e nei suoi statuti o nell’atto costitutivo è esplicitamente sancita la conservazione delle razze svizzere minacciate.[^5-1]
+- b. soddisfa i requisiti di cui al capoverso 1 lettere b e j e nei suoi statuti o nell’atto costitutivo è esplicitamente sancita la conservazione delle razze svizzere minacciate.[^5-2]
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
+[^5-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^5-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
 
 #### Art. 6
 
@@ -128,7 +136,7 @@ Un’organizzazione per la realizzazione di progetti per la conservazione delle 
 
 <sup>1</sup>
 
-Un’organizzazione di allevamento o un’impresa di allevamento privata con registri per suini da allevamento ibridi è riconosciuta se:
+Un’organizzazione di allevamento o un’impresa di allevamento privata con registri per suini da allevamento ibridi è riconosciuta, su richiesta, se:[^6-1]
 
 - a. ha personalità giuridica propria e sede in Svizzera;
 - b. dispone di statuti giuridicamente validi;
@@ -149,17 +157,21 @@ Gli statuti di un’organizzazione di allevamento devono consentire, se le condi
 
 <sup>3</sup> Alle organizzazioni di allevamento che tengono un libro genealogico per suini da allevamento ibridi e per suini di razza pura si applica l’articolo 5.
 
+[^6-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+
 #### Art. 7
 
 **Tenuta del libro genealogico**
 
 <sup>1</sup> Nel libro genealogico sono registrate rilevazioni e annotazioni sull’ascendenza, sull’identificazione, sulle prestazioni, sulla qualità e sulla morfologia degli animali da allevamento.
 
+<sup>1bis</sup> Come numero d’identificazione va utilizzato il numero di marca auricolare per gli animali a unghia fessa e l’Universal Equine Life Number (UELN) per gli equidi.[^7-1]
+
 <sup>2</sup> Oltre agli animali di razza pura, in rubriche o sezioni separate del libro genealogico possono essere iscritti anche incroci e animali di ascendenza sconosciuta, purché presentino le caratteristiche tipiche della razza.
 
 <sup>3</sup> All’interno di una rubrica o di una sezione del libro genealogico gli animali possono essere iscritti separatamente in base a classi qualitative, determinate dalla loro ascendenza, dall’identificazione e dalle prestazioni.
 
-<sup>4</sup> Gli animali riconosciuti come portatori di tare ereditarie devono essere designati in quanto tali.
+<sup>4</sup> Gli animali riconosciuti come portatori di tare ereditarie devono essere designati in quanto tali nel libro genealogico e occorre darne comunicazione agli allevatori.[^7-2]
 
 <sup>5</sup>
 
@@ -167,11 +179,17 @@ Le organizzazioni di allevamento devono stabilire in un regolamento in quale mod
 
 - a. la definizione delle caratteristiche tipiche della razza;
 - b. la definizione degli obiettivi zootecnici;
-- c. l’identificazione per mezzo della marchiatura uniforme degli animali;
-- d. la registrazione dei dati relativi all’ascendenza;
+- c.[^7-3] l’identificazione uniforme degli animali se non già prescritta dall’articolo 10 o 15*a* dell’ordinanza del 27 giugno 1995[^7-4] sulle epizoozie;
+- d.[^7-5] la registrazione dei dati relativi all’ascendenza degli animali;
 - e. l’analisi delle annotazioni nel libro genealogico, degli apprezzamenti, dei risultati degli esami funzionali, nonché la stima dei valori genetici o le valutazioni genetiche;
 - f. la determinazione delle esigenze minime per l’iscrizione degli animali in una determinata rubrica o sezione del libro genealogico;
 - g. le esigenze relative all’iscrizione nel libro genealogico e per il diritto di riproduzione.
+
+[^7-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^7-2]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^7-3]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^7-4]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^7-5]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 #### Art. 8
 
@@ -233,19 +251,26 @@ Le organizzazioni di allevamento, le organizzazioni di allevamento per suini da 
 
 #### Art. 11
 
-**Procedura**
+**Procedura**[^11-1]
 
-<sup>1</sup> Le domande di riconoscimento vanno presentate all’UFAG con la documentazione necessaria.
+<sup>1</sup> La domanda di riconoscimento come organizzazione di allevamento, corredata di tutta la documentazione necessaria, va presentata all’UFAG utilizzando l’apposito modulo.
 
-<sup>2</sup> Il riconoscimento ha una durata massima di dieci anni.
+<sup>2</sup> Il riconoscimento ha una durata massima di dieci anni. Se al più tardi sei mesi prima della scadenza del riconoscimento viene presentata una nuova domanda, l’UFAG decide prima della scadenza del riconoscimento.
 
-<sup>3</sup> Qualsiasi cambiamento che abbia un’incidenza sull’adempimento dei requisiti per il riconoscimento va notificato all’UFAG nell’arco di tre mesi.
+<sup>3</sup> Le organizzazioni di allevamento di equidi che rilasciano passaporti per equidi devono presentare contemporaneamente alla nuova domanda conformemente al capoverso 2 una nuova domanda di riconoscimento come servizio preposto al rilascio del passaporto in virtù dell’articolo 15*d*<sup>bis</sup> capoverso 4 dell’ordinanza del 27 giugno 1995[^11-2] sulle epizoozie.
+
+<sup>4</sup> Qualsiasi cambiamento che abbia un’incidenza sull’adempimento dei requisiti per il riconoscimento va notificato all’UFAG nell’arco di tre mesi.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^11-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 
 #### Art. 12
 
-**Estensione del raggio d’attività territoriale di un’organizzazione di allevamento riconosciuta**
+**Estensione del raggio d’attività territoriale di un’organizzazione di allevamento riconosciuta**[^12-1]
 
-Un’organizzazione di allevamento svizzera che intende estendere il suo raggio d’attività territoriale a uno Stato membro dell’Unione europea (UE) deve presentare all’UFAG una relativa domanda. L’UFAG invita l’autorità competente dello Stato membro a esprimersi entro due mesi.
+Un’organizzazione di allevamento svizzera riconosciuta che intende estendere il suo raggio d’attività territoriale a uno Stato membro dell’Unione europea (UE) deve presentare all’UFAG una domanda in tal senso. L’UFAG invita l’autorità competente dello Stato membro a esprimersi entro tre mesi.
+
+[^12-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 #### Art. 13
 
@@ -264,30 +289,48 @@ La domanda è respinta se:
 
 <sup>4</sup> L’UFAG pubblica l’elenco delle organizzazioni di allevamento estere che operano in Svizzera.
 
-## Sezione 3: Promozione dell’allevamento di animali
+## Sezione 3: ...
 
 #### Art. 14
 
+[^14-1]
+
+[^14-1]: Abrogato dal n. I dell’O del 3 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+
+## Sezione 4: Contributi per misure zootecniche****
+
+[^sec4-1]
+
+[^sec4-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+
+#### Art. 14a
+
+[^14a-1]
+
 <sup>1</sup>
 
-Nel quadro dei fondi disponibili, le organizzazioni di allevamento riconosciute vengono sostenute per le misure zootecniche concernenti gli animali delle specie bovina, suina, ovina, caprina ed equina, nonché i conigli, i volatili, i camelidi del Nuovo Mondo e le api mellifere, mediante i seguenti contributi a favore degli allevatori:
+Nel quadro dei fondi disponibili per la presente sezione, le organizzazioni di allevamento riconosciute vengono sostenute mediante contributi per misure zootecniche concernenti gli animali seguenti:
 
-- a.
+- a. animali della specie bovina, inclusi bufali;
+- b. equidi;
+- c. animali della specie suina;
+- d. animali della specie ovina;
+- e. animali della specie caprina;
+- f. camelidi del Nuovo Mondo;
+- g. api mellifere.
 
-  contributi per l’allevamento (sezione 4) per:
+<sup>2</sup>
 
-  - 1\. tenuta del libro genealogico,
-  - 2\. esami funzionali;
+Il sostegno avviene mediante:
 
-- b. contributi per la conservazione delle razze svizzere e per progetti di ricerca (sezioni 5 e 6).[^14-1]
+- a. contributi per la tenuta del libro genealogico;
+- b. contributi per gli esami funzionali.
 
-<sup>2</sup> Non sono assegnati contributi alle imprese di allevamento private che tengono o istituiscono registri per suini da allevamento ibridi e alle organizzazioni di allevamento estere.
+<sup>3</sup> Non sono assegnati contributi alle imprese di allevamento private che tengono o istituiscono registri per suini da allevamento ibridi e alle organizzazioni di allevamento estere.
 
-<sup>3</sup> L’UFAG pubblica i contributi assegnati a ciascuna organizzazione di allevamento e per ciascuna misura.
+<sup>4</sup> L’UFAG pubblica i contributi versati a ciascuna organizzazione di allevamento e per ciascuna misura.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 20 mag. 2015, in vigore dal 1° gen. 2016 ([RU 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
-
-## Sezione 4: Contributi per l’allevamento
+[^14a-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 #### Art. 15
 
@@ -556,58 +599,90 @@ I fondi disponibili per la presente sezione sono ripartiti come segue:
 
 ## Sezione 5: Contribuiti per la conservazione delle razze svizzere
 
-#### Art. 23
+**Art. 23***[^sec5-1]* Contributi per la conservazione di razze svizzere
 
-**Contributi per la conservazione di razze svizzere**
+<sup>1</sup> Sono versati contributi per:
 
-<sup>1</sup> L’importo annuo massimo destinato alla conservazione delle razze svizzere ammonta a 900 000 franchi. A tale importo possono aggiungersi i fondi non utilizzati di cui all’articolo 25.
+- a.
 
-<sup>1bis</sup> Alle organizzazioni riconosciute ai sensi dell’articolo 5 capoverso 3 lettera b sono assegnati al massimo 150 000 franchi l’anno.[^23-1]
+  progetti limitati nel tempo volti alla conservazione di:
 
-<sup>2</sup>
+  - 1\. razze svizzere,
+  - 2\. razze che si erano estinte in Svizzera e che sono state nuovamente introdotte, sempre che la loro origine svizzera sia dimostrata;
 
-Per razza svizzera si intende una razza:
+- b. il deposito a lungo termine di campioni congelati di origine animale (materiale criogenico).
+
+<sup>2</sup> Per razza svizzera si intende una razza:
 
 - a. che ha la sua origine in Svizzera prima del 1949; o
 - b. per la quale è tenuto un libro genealogico in Svizzera almeno dal 1949.
 
-<sup>3</sup>
+<sup>3</sup> I contributi vengono versati:
 
-Su domanda, le organizzazioni di allevamento riconosciute e le organizzazioni riconosciute possono ricevere contributi limitati nel tempo per realizzare progetti volti alla conservazione di:
+- a. per progetti di cui al capoverso 1 lettera a: a organizzazioni di allevamento riconosciute e a organizzazioni riconosciute;
+- b. per misure di cui al capoverso 1 lettera b: a organizzazioni di allevamento riconosciute, a organizzazioni riconosciute e a imprese private nel settore dell’allevamento.
 
-- a. razze svizzere;
-- b. razze che si erano estinte in Svizzera e che vi sono state di nuovo importate, sempre che la loro origine svizzera sia dimostrata.
+<sup>4</sup> Vengono versati complessivamente al massimo 900 000 franchi all’anno. In via suppletiva possono essere impiegati i fondi non utilizzati di cui all’articolo 25. Alle organizzazioni riconosciute ai sensi dell’articolo 5 capoverso 3 lettera b sono versati al massimo 150 000 franchi all’anno per progetti di cui al capoverso 1 lettera a.
 
-<sup>4</sup> Per il deposito a lungo termine di campioni congelati di origine animale (materiale criogenico) possono essere assegnati contributi alle organizzazioni di allevamento riconosciute e alle organizzazioni riconosciute. L’UFAG conclude con le organizzazioni i pertinenti accordi.
-
-[^23-1]: Introdotto dal n. I dell’O del 21 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
+<sup>5</sup> L’UFAG pubblica i contributi versati a ciascuna organizzazione o a ciascuna impresa nonché per ciascuna misura.
 
 #### Art. 24
 
-**Contributi per la conservazione della razza delle Franches Montagnes**
+**Contributi supplementari per la conservazione della razza delle Franches Montagnes[^24-1]**
 
 <sup>1</sup> L’importo annuo massimo destinato alla conservazione della razza delle Franches Montagnes, a complemento dell’articolo 23, ammonta a 1 160 000 franchi.
 
-<sup>2</sup> Il contributo ammonta a 500 franchi per giumenta accompagnata dal puledro. Se l’importo annuo massimo di 1 160 000 franchi non è sufficiente, la Federazione svizzera della razza delle Franches Montagnes[^24-1] riduce proporzionalmente il contributo per ogni giumenta accompagnata dal puledro.
+<sup>2</sup> Il contributo ammonta a 500 franchi per giumenta accompagnata dal puledro. Se l’importo annuo massimo di 1 160 000 franchi non è sufficiente, la Federazione svizzera della razza delle Franches Montagnes[^24-2] riduce proporzionalmente il contributo per ogni giumenta accompagnata dal puledro.
 
-<sup>3</sup> Danno diritto ai contributi le giumente iscritte nel libro genealogico, detenute conformemente alla protezione degli animali, accompagnate da un puledro identificato e iscritto nel libro genealogico, nonché registrato nella banca dati sul traffico di animali nell’anno di contribuzione che discende da uno stallone iscritto nel libro genealogico della razza delle Franches Montagnes.[^24-2]
+<sup>3</sup> Danno diritto ai contributi le giumente iscritte nel libro genealogico, detenute conformemente alla protezione degli animali, accompagnate da un puledro identificato e iscritto nel libro genealogico, nonché registrato nella banca dati sul traffico di animali nell’anno di contribuzione che discende da uno stallone iscritto nel libro genealogico della razza delle Franches Montagnes.[^24-3]
 
 <sup>4</sup> Gli allevatori devono depositare le loro domande presso la Federazione svizzera della razza delle Franches Montagnes.
 
-<sup>5</sup> <sup>5</sup> La Federazione svizzera della razza delle Franches Montagnes decide in merito al diritto ai contributi e versa il relativo importo all’allevatore, direttamente o per il tramite della rispettiva cooperativa di allevamento equino. La cooperativa di allevamento equino trasmette i contributi entro 30 giorni lavorativi. In base a un elenco delle giumente accompagnate dal puledro che danno diritto a contributi, la Federazione fattura i contributi all’UFAG. Per i controlli concernenti la detenzione conforme alla protezione degli animali, la Federazione fa capo ai Cantoni o alle organizzazioni cui ricorrono i Cantoni; il controllo è retto dall’ordinanza del 31 ottobre 2018[^24-3] sul coordinamento dei controlli.[^24-4]
+<sup>5</sup> La Federazione svizzera della razza delle Franches Montagnes decide in merito al diritto ai contributi e versa il relativo importo all’allevatore, direttamente o per il tramite della rispettiva cooperativa di allevamento equino. La cooperativa di allevamento equino trasmette i contributi entro 30 giorni lavorativi. In base a un elenco delle giumente accompagnate dal puledro che danno diritto a contributi, la Federazione fattura i contributi all’UFAG. Per i controlli concernenti la detenzione conforme alla protezione degli animali, la Federazione fa capo ai Cantoni o alle organizzazioni cui ricorrono i Cantoni; il controllo è retto dall’ordinanza del 31 ottobre 2018[^24-4] sul coordinamento dei controlli.[^24-5]
 
 <sup>6</sup> La Federazione svizzera della razza delle Franches Montagnes comunica all’UFAG, entro il 31 ottobre dell’anno che precede quello di contribuzione, il numero stimato di giumente che danno diritto ai contributi.
 
-[^24-1]: Nuova espr. giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3975](https://fedlex.data.admin.ch/eli/oc/2013/725)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^24-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3975](https://fedlex.data.admin.ch/eli/oc/2013/725)).
-[^24-3]: [RS 910.15](https://fedlex.data.admin.ch/eli/cc/2018/673)
-[^24-4]: Nuovo testo giusta il n. 5 dell’all. 2 all’O del 31 ott. 2018 sul coordinamento dei controlli delle aziende agricole, in vigore dal 1° gen. 2020 ([RU 2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673)).
+<sup>7</sup> L’UFAG pubblica i contributi versati alla Federazione svizzera della razza delle Franches Montagnes.[^24-6]
+
+[^sec5-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^24-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^24-2]: Nuova espr. giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3975](https://fedlex.data.admin.ch/eli/oc/2013/725)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^24-3]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3975](https://fedlex.data.admin.ch/eli/oc/2013/725)).
+[^24-4]: [RS 910.15](https://fedlex.data.admin.ch/eli/cc/2018/673)
+[^24-5]: Nuovo testo giusta il n. 5 dell’all. 2 all’O del 31 ott. 2018 sul coordinamento dei controlli delle aziende agricole, in vigore dal 1° gen. 2020 ([RU 2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673)).
+[^24-6]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 ## Sezione 6: Contribuiti per progetti di ricerca
 
 #### Art. 25
 
-L’importo annuo massimo destinato ai progetti riguardanti risorse zoogenetiche ammonta a 100 000 franchi.
+[^25-1]
+
+<sup>1</sup> Per progetti di ricerca sulle risorse zoogenetiche le organizzazioni di allevamento riconosciute e gli istituti di scuole universitarie federali e cantonali sono sostenuti mediante contributi. I contributi ammontano complessivamente al massimo a 100 000 franchi all’anno.
+
+<sup>2</sup> L’UFAG pubblica i contributi versati a ciascuna organizzazione o a ciascun istituto nonché per ciascuna misura.
+
+[^25-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+
+## Sezione 6*a*:**** Compiti dell’Istituto nazionale svizzero di allevamento equino
+
+[^sec6a-1]
+
+[^sec6a-1]: Introdotta dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+
+**Art. 25**a
+
+<sup>1</sup> L’Istituto nazionale svizzero di allevamento equino in virtù dell’articolo 147 della legge del 29 aprile 1998 sull’agricoltura ha i seguenti compiti:
+
+- a. promuove la varietà genetica della razza delle Franches Montagnes, la mette a disposizione degli allevatori in vivo e in vitro nonché sostiene dal profilo tecnico altre misure di conservazione della Federazione svizzera della razza delle Franches Montagnes;
+- b. svolge ricerca applicata nei settori dell’allevamento, della detenzione e dell’uso di equidi collaborando principalmente con le scuole universitarie;
+- c. supporta gli allevatori di equidi nella loro attività zootecnica;
+- d. promuove, nel settore della detenzione e dell’uso di equidi, lo scambio di conoscenze e offre consulenza;
+- e. detiene equidi e mette a disposizione infrastrutture e impianti per poter adempiere i compiti di cui alle lettere a–d.
+
+<sup>2</sup> Per le sue prestazioni e spese l’Istituto nazionale svizzero di allevamento equino riscuote delle tasse; queste si basano sull’ordinanza del 16 giugno 2006[^sec6a-2] concernente le tasse dell’Ufficio federale dell’agricoltura.
+
+[^sec6a-2]: [RS 910.11](https://fedlex.data.admin.ch/eli/cc/2006/415)
 
 ## Sezione 7: Certificato di ascendenza per l’immissione in commercio di animali da allevamento, sperma, ovuli non fecondati ed embrioni
 
@@ -618,6 +693,10 @@ L’importo annuo massimo destinato ai progetti riguardanti risorse zoogenetiche
 <sup>1</sup> Gli animali da allevamento delle specie bovina, suina, ovina, caprina ed equina, come anche il loro sperma, gli ovuli non fecondati e gli embrioni, devono essere accompagnati al momento dell’immissione in commercio da un certificato di ascendenza.
 
 <sup>2</sup> In caso di cambiamento di proprietario in Svizzera gli animali d’allevamento femmine, nonché gli ovuli non fecondati e gli embrioni, devono essere accompagnati da un certificato di ascendenza soltanto su richiesta dell’acquirente.
+
+<sup>3</sup> I certificati di ascendenza devono essere rilasciati da un’organizzazione di allevamento riconosciuta.[^26-1]
+
+[^26-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
 #### Art. 27
 
