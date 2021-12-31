@@ -3,20 +3,19 @@ canton: FR
 number: "122.90.12"
 title: Verordnung über die Verwaltungseinheiten mit leistungsorientierter Führung
 language: de
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+version_adopted: 2021-12-14
 adopted: 2010-06-29
 in_force: 2010-06-29
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.90.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/5957/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8387/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Verwaltungseinheiten mit leistungsorientierter Führung
 
-vom 29.06.2010 (Fassung in Kraft getreten am 01.04.2019)
+vom 29.06.2010 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -32,15 +31,18 @@ beschliesst:
 
 #### Art. 1
 
-<sup>1</sup> Die folgenden Verwaltungseinheiten haben bereits eine Bewilligung für die leistungsorientierte Führung im Sinne von Artikel 59 SVOG und Abschnitt 5a des Gesetzes vom 25. November 1994 über den Finanzhaushalt des Staates (FHG):
+<sup>1</sup> Die folgenden Verwaltungseinheiten haben bereits eine Bewilligung für die leistungsorientierte Führung im Sinne von Artikel 59 SVOG[^1-1] und Abschnitt 5a des Gesetzes vom 25. November 1994 über den Finanzhaushalt des Staates (FHG)[^1-2]:
 
 - a) das Amt für Kulturgüter (KGA);
 - b) das Amt für Wald und Natur (WNA);
-- c) das Landwirtschaftliche Institut des Kantons Freiburg (LIG);
+- c) Grangeneuve;
 - d) das Tiefbauamt (TBA);
 - e) das Amt für Archäologie (AAFR);
 - f) die Finanzverwaltung (FinV);
 - g) das Amt für Informatik und Telekommunikation (ITA).
+
+[^1-1]: RSF [122.0.1](https://bdlf.fr.ch/data/122.0.1/de)
+[^1-2]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
 
 #### Art. 2
 
