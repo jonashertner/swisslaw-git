@@ -4,11 +4,11 @@ title: "Ordinance of 4 December 2015 on the Avoidance and the Disposal of Waste 
 short: ADWO
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2015-891-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2015-891-20220101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Waste Ordinance, ADWO)
 
-of 4 December 2015 (Status as of 1 January 2021)
+of 4 December 2015 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
@@ -739,7 +739,7 @@ The FOEN shall issue an implementation guide on the application of this Ordinanc
 
 The Technical Ordinance on Waste of 10 December 1990[^47-1] is repealed.
 
-[^47-1]: [[AS 1991 169](https://fedlex.data.admin.ch/eli/oc/1991/169_169_169)[628](https://fedlex.data.admin.ch/eli/oc/1991/628_628_628), [1993 3022](https://fedlex.data.admin.ch/eli/oc/1993/3022_3022_3022)No IV 4, [1996 905](https://fedlex.data.admin.ch/eli/oc/1996/905_905_905), [1998 2261](https://fedlex.data.admin.ch/eli/oc/1998/2261_2261_2261)Art. 26, [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)No II 15, [2004 3079](https://fedlex.data.admin.ch/eli/oc/2004/399)Art. 43 para. 2 No 2, [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 11 [4199](https://fedlex.data.admin.ch/eli/oc/2005/551)Annex 3 No II 6, [2007 2929](https://fedlex.data.admin.ch/eli/oc/2007/389)[4477](https://fedlex.data.admin.ch/eli/oc/2007/633)No IV 32, [2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)Annex 2 No 10 [4771](https://fedlex.data.admin.ch/eli/oc/2008/670)Annex No II 1, [2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)No II III, [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Annex 8 No II 1]
+[^47-1]: [[AS 1991 169](https://fedlex.data.admin.ch/eli/oc/1991/169_169_169), [628](https://fedlex.data.admin.ch/eli/oc/1991/628_628_628); [1993 3022](https://fedlex.data.admin.ch/eli/oc/1993/3022_3022_3022)No IV 4; [1996 905](https://fedlex.data.admin.ch/eli/oc/1996/905_905_905); [1998 2261](https://fedlex.data.admin.ch/eli/oc/1998/2261_2261_2261)Art. 26; [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)No II 15; [2004 3079](https://fedlex.data.admin.ch/eli/oc/2004/399)Art. 43 para. 2 No 2; [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 11, [4199](https://fedlex.data.admin.ch/eli/oc/2005/551)Annex 3 No II 6; [2007 2929](https://fedlex.data.admin.ch/eli/oc/2007/389), [4477](https://fedlex.data.admin.ch/eli/oc/2007/633)No IV 32; [2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)Annex 2 No 10, [4771](https://fedlex.data.admin.ch/eli/oc/2008/670)Annex No II 1; [2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)No II III; [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Annex 8 No II 1]
 
 #### Art. 48
 
@@ -1138,11 +1138,11 @@ Annex 4*[^t-2]*
 
 ## Requirements applicable to waste from the production of cement and concrete
 
-[^t-2]: Revised by No II of the O of 12 Feb. 2020, in force since 1 April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^t-2]: Revised by No II of the O of 12 Feb. 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)) and No III of the O of 20 Oct. 2021, in force since 1 Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### 1 Using waste as a raw material and as a corrective substance to raw meal
 
-- 1\.1 Waste may be used as a raw material in the production of cement clinker if the following limit values (total content) are not exceeded and the cement clinker produced satisfies the requirements of number 1.4:
+- 1\.1 Waste may be used as a raw material in the production of cement clinker if the following limit values (total content) are not exceeded and the cement clinker produced satisfies the requirements of number 1.6:
 
 <table>
 <tr><td>Substance</td><td>limit in mg/kg of dry matter</td></tr>
@@ -1165,7 +1165,7 @@ Annex 4*[^t-2]*
 <tr><td>Monocyclic aromatic hydrocarbons (BTEX)\*\*\*\*</td><td>10</td></tr>
 <tr><td>Benzene</td><td>1</td></tr>
 <tr><td>Polycyclic aromatic hydrocarbons (PAH)\*\*\*\*\*</td><td>250</td></tr>
-<tr><td>Benzo[*a*]pyrene</td><td>3</td></tr>
+<tr><td>Benzo[*a*]pyrene</td><td>10</td></tr>
 <tr><td>Total organic carbon (TOC)</td><td>50 000</td></tr>
 <tr><td colspan="2">\* ∑7 CHCs: dichlormethane, trichlormethane, tetrachlormethane, *cis*-1,2-dichlorethylene, 1,1,1-trichlorethane, trichlorethylene (Tri), perchlorethylene (Per)</td></tr>
 <tr><td colspan="2">\*\* ∑6 congeners × 4.3 (IUPAC No): 28, 52, 101, 138, 153, 180</td></tr>

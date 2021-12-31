@@ -4,11 +4,11 @@ title: "Ordonnance du 4 décembre 2015 sur la limitation et l'élimination des d
 short: OLED
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-891-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-891-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20210101/fr"
 
 (Ordonnance sur les déchets, OLED)
 
-du 4 décembre 2015 (Etat le 1<sup>er</sup> janvier 2021)
+du 4 décembre 2015 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -1133,11 +1133,11 @@ Annexe 4*[^t-2]*
 
 ## Exigences relatives aux déchets utilisés pour la fabrication de ciment et de béton
 
-[^t-2]: Mise à jour par l’erratum du 3 oct. 2017 ([RO 2017 5137](https://fedlex.data.admin.ch/eli/oc/2017/561)) et le ch. II de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^t-2]: Mise à jour par l’erratum du 3 oct. 2017 ([RO 2017 5137](https://fedlex.data.admin.ch/eli/oc/2017/561)), le ch. II de l’O du 12 fév. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)) et le ch. III de l’O du 20 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### 1 Utilisation de déchets comme matières premières ou agents de correction du cru
 
-- 1\.1 Il est permis d’utiliser des déchets comme matières premières pour la fabrication de clinker de ciment si les valeurs limites suivantes (teneurs totales) ne sont pas dépassées et que le clinker obtenu satisfait aux exigences du ch. 1.4:
+- 1\.1 Il est permis d’utiliser des déchets comme matières premières pour la fabrication de clinker de ciment si les valeurs limites suivantes (teneurs totales) ne sont pas dépassées et que le clinker obtenu satisfait aux exigences du ch. 1.6:
 
 <table>
 <tr><th>Substance</th><th>Valeur limite en mg/kg de matière sèche</th></tr>
@@ -1160,7 +1160,7 @@ Annexe 4*[^t-2]*
 <tr><td>Hydrocarbures aromatiques monocycliques (BTEX)\*\*\*\*</td><td>10</td></tr>
 <tr><td>Benzène</td><td>1</td></tr>
 <tr><td>Hydrocarbures aromatiques polycycliques (HAP)\*\*\*\*\*</td><td>250</td></tr>
-<tr><td>Benzo[a]pyrène</td><td>3</td></tr>
+<tr><td>Benzo[a]pyrène</td><td>10</td></tr>
 <tr><td>Carbone organique total (COT)</td><td>50 000</td></tr>
 <tr><td colspan="2">\* ∑7 hydrocarbures chlorés volatils: dichlorométhane, trichlorométhane, tétrachlorométhane, cis-1,2-dichloréthylène, 1,1,1-trichloréthane, trichloréthylène (Tri), perchloréthylène (Per)</td></tr>
 <tr><td colspan="2">\*\* ∑6 congénères × 4,3 (UICPA n<sup>o</sup>): 28, 52, 101, 138, 153, 180</td></tr>

@@ -4,11 +4,11 @@ title: "Verordnung vom 4. Dezember 2015 über die Vermeidung und die Entsorgung 
 short: VVEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2015-891-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2015-891-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20210101/de"
 
 (Abfallverordnung, VVEA)
 
-vom 4. Dezember 2015 (Stand am 1. Januar 2021)
+vom 4. Dezember 2015 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -834,7 +834,7 @@ Anhang 1*[^t-1]*
 
 <table>
 <tr><th>Code</th><th>Abfallbeschreibung</th></tr>
-<tr><td></td><td>Klasse 1: Chemische Abfälle</td></tr>
+<tr><td></td><td>**Klasse 1: Chemische Abfälle**</td></tr>
 <tr><td>1101</td><td>Nicht halogenierte Lösungsmittel</td></tr>
 <tr><td>1102</td><td>Halogenierte Lösungsmittel</td></tr>
 <tr><td>1103</td><td>Chemische Reaktionsrückstände</td></tr>
@@ -857,20 +857,20 @@ Anhang 1*[^t-1]*
 <tr><td>1120</td><td>Biozide, Holzschutzmittel und ähnliche Chemikalien</td></tr>
 <tr><td>1121</td><td>Andere chemische Sonderabfälle</td></tr>
 <tr><td>1301</td><td>Nach VeVA nicht kontrollpflichtige chemische Abfälle</td></tr>
-<tr><td></td><td>Klasse 2: Medizinische Abfälle</td></tr>
+<tr><td></td><td>**Klasse 2: Medizinische Abfälle**</td></tr>
 <tr><td>2101</td><td>Kontaminationsgefährliche und infektiöse Abfälle</td></tr>
 <tr><td>2102</td><td>Altmedikamente und feste pharmazeutische Abfälle</td></tr>
 <tr><td>2103</td><td>Medizinische Abfälle mit Verletzungsgefahr</td></tr>
 <tr><td>2104</td><td>Nicht infektiöse Abfälle aus der Medizin</td></tr>
 <tr><td>2301</td><td>Nach VeVA nicht kontrollpflichtige medizinische Abfälle</td></tr>
-<tr><td></td><td>Klasse 3: Metallische Abfälle</td></tr>
+<tr><td></td><td>**Klasse 3: Metallische Abfälle**</td></tr>
 <tr><td>3101</td><td>Altkabel, die gefährliche Stoffe enthalten</td></tr>
 <tr><td>3102</td><td>Andere metallische Sonderabfälle</td></tr>
 <tr><td>3201</td><td>Altkabel</td></tr>
 <tr><td>3202</td><td>Schrottschutt und Wagenwischgut</td></tr>
 <tr><td>3301</td><td>Metalle aus kommunalen und übrigen Sammlungen</td></tr>
 <tr><td>3302</td><td>Nach VeVA nicht kontrollpflichtige metallische Abfälle</td></tr>
-<tr><td></td><td>Klasse 4: Mineralische Abfälle</td></tr>
+<tr><td></td><td>**Klasse 4: Mineralische Abfälle**</td></tr>
 <tr><td>4101</td><td>Durch gefährliche Stoffe verschmutztes Aushubmaterial</td></tr>
 <tr><td>4102</td><td>Ausbauasphalt mit einem Gehalt von mehr als 1000 mg PAK pro kg</td></tr>
 <tr><td>4103</td><td>Gemischte Bauabfälle, die gefährliche Stoffe enthalten</td></tr>
@@ -892,7 +892,7 @@ Anhang 1*[^t-1]*
 <tr><td>4309</td><td>Glasabfälle aus kommunalen und übrigen Sammlungen</td></tr>
 <tr><td>4310</td><td>Andere nach VeVA nicht kontrollpflichtige Glasabfälle</td></tr>
 <tr><td>4311</td><td>Andere nach VeVA nicht kontrollpflichtige mineralische Abfälle</td></tr>
-<tr><td></td><td>Klasse 5: Anlagen, Maschinen, Fahrzeuge und Zubehör sowie Elektro- und Elektronikgeräte</td></tr>
+<tr><td></td><td>**Klasse 5: Anlagen, Maschinen, Fahrzeuge und Zubehör sowie Elektro- und Elektronikgeräte**</td></tr>
 <tr><td>5101</td><td>Bleibatterien und Bleiakkumulatoren</td></tr>
 <tr><td>5102</td><td>Andere Batterien und Akkumulatoren</td></tr>
 <tr><td>5103</td><td>PCB-haltige Bestandteile aus Elektro-/Elektronikgeräten</td></tr>
@@ -903,7 +903,7 @@ Anhang 1*[^t-1]*
 <tr><td>5203</td><td>Elektro-/Elektronikgeräte, die teil- oder vollhalogenierte Fluorchlorkohlenwasserstoffe (FCKW) enthalten</td></tr>
 <tr><td>5204</td><td>Andere Elektro-/Elektronikgeräte und Bestandteile</td></tr>
 <tr><td>5301</td><td>Nach VeVA nicht kontrollpflichtige Bestandteile aus gebrauchten Elektro-/ Elektronikgeräten</td></tr>
-<tr><td></td><td>Klasse 6: Biogene Abfälle</td></tr>
+<tr><td></td><td>**Klasse 6: Biogene Abfälle**</td></tr>
 <tr><td>6101</td><td>problematische Holzabfälle</td></tr>
 <tr><td>6201</td><td>Speiseöle und –fette ohne diejenigen, die aus kommunalen Sammlungen stammen</td></tr>
 <tr><td>6202</td><td>Altholz</td></tr>
@@ -911,7 +911,7 @@ Anhang 1*[^t-1]*
 <tr><td>6302</td><td>Restholz</td></tr>
 <tr><td>6303</td><td>Biogene Abfälle aus kommunalen und übrigen Sammlungen</td></tr>
 <tr><td>6304</td><td>Biogene Abfälle aus Landwirtschaft, Industrie und Gewerbe</td></tr>
-<tr><td></td><td>Klasse 7: Schlämme und Behandlungsrückstände</td></tr>
+<tr><td></td><td>**Klasse 7: Schlämme und Behandlungsrückstände**</td></tr>
 <tr><td>7101</td><td>Schlacken und Aschen</td></tr>
 <tr><td>7102</td><td>Rauchgasreinigungs-Rückstände</td></tr>
 <tr><td>7103</td><td>Brennbare Leichtfraktion aus der Zerkleinerung metallhaltiger Abfälle</td></tr>
@@ -925,7 +925,7 @@ Anhang 1*[^t-1]*
 <tr><td>7302</td><td>Nach VeVA nicht kontrollpflichtige Schlämme und Behandlungsrückstände</td></tr>
 <tr><td>7303</td><td>Brennbare Schlämme und Behandlungsrückstände</td></tr>
 <tr><td>7304</td><td>Feinmaterial aus der Bauschuttaufbereitung</td></tr>
-<tr><td></td><td>Klasse 8: Weitere Abfallarten</td></tr>
+<tr><td></td><td>**Klasse 8: Weitere Abfallarten**</td></tr>
 <tr><td>8101</td><td>Sonderabfälle aus der kommunalen Sammlung</td></tr>
 <tr><td>8301</td><td>Strassenwischgut</td></tr>
 <tr><td>8302</td><td>Brandschutt</td></tr>
@@ -1135,11 +1135,11 @@ Anhang 4*[^t-2]*
 
 ## Anforderungen an Abfälle für die Herstellung von Zement und Beton
 
-[^t-2]: Bereinigt gemäss Ziff. II der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^t-2]: Bereinigt gemäss Ziff. II der V vom 12. Febr. 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)) und Ziff. III der V vom 20. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### 1 Verwendung von Abfällen als Rohmaterial und Rohmehlkorrekturstoffe
 
-- 1\.1 Abfälle dürfen als Rohmaterial bei der Herstellung von Zementklinker verwendet werden, wenn sie die nachfolgenden Grenzwerte (Gesamtgehalte) nicht überschreiten und der hergestellte Zementklinker die Anforderungen nach Ziffer 1.4 einhält:
+- 1\.1 Abfälle dürfen als Rohmaterial bei der Herstellung von Zementklinker verwendet werden, wenn sie die nachfolgenden Grenzwerte (Gesamtgehalte) nicht überschreiten und der hergestellte Zementklinker die Anforderungen nach Ziffer 1.6 einhält:
 
 <table>
 <tr><th>Stoff</th><th>Grenzwert in mg/kg Trockensubstanz</th></tr>
@@ -1162,7 +1162,7 @@ Anhang 4*[^t-2]*
 <tr><td>Monocyclische aromatische Kohlenwasserstoffe (BTEX)\*\*\*\*</td><td>10</td></tr>
 <tr><td>Benzol</td><td>1</td></tr>
 <tr><td>Polycyclische aromatische Kohlenwasserstoffe (PAK)\*\*\*\*\*</td><td>250</td></tr>
-<tr><td>Benzo[*a*]pyren</td><td>3</td></tr>
+<tr><td>Benzo[*a*]pyren</td><td>10</td></tr>
 <tr><td>Gesamter organischer Kohlenstoff (TOC)</td><td>50 000</td></tr>
 <tr><td colspan="2">\* ∑7 LCKW: Dichlormethan, Trichlormethan, Tetrachlormethan, *cis*-1,2-Dichlorethylen, 1,1,1-Trichlorethan, Trichlorethylen (Tri), Perchlorethylen (Per)</td></tr>
 <tr><td colspan="2">\*\* ∑6 Kongenere × 4.3 (IUPAC\_Nr.): 28, 52, 101, 138, 153, 180</td></tr>

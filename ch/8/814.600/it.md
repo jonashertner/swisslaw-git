@@ -4,11 +4,11 @@ title: "Ordinanza del 4 dicembre 2015 sulla prevenzione e lo smaltimento dei rif
 short: OPSR
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2015-891-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2015-891-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20210101/it"
 
 (Ordinanza sui rifiuti, OPSR)
 
-del 4 dicembre 2015 (Stato 1° gennaio 2021)
+del 4 dicembre 2015 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -736,7 +736,7 @@ L’UFAM elabora un aiuto all’esecuzione ai fini dell’attuazione della prese
 
 L’ordinanza tecnica del 10 dicembre 1990[^47-1] sui rifiuti è abrogata.
 
-[^47-1]: [[RU 1991 169](https://fedlex.data.admin.ch/eli/oc/1991/169_169_169)[628](https://fedlex.data.admin.ch/eli/oc/1991/628_628_628)[1370](https://fedlex.data.admin.ch/eli/oc/1991/1370_1370_1370), [1993 3022](https://fedlex.data.admin.ch/eli/oc/1993/3022_3022_3022)n. IV 4, [1996 905](https://fedlex.data.admin.ch/eli/oc/1996/905_905_905), [1998 2261](https://fedlex.data.admin.ch/eli/oc/1998/2261_2261_2261)art. 26, [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)n. II 15, [2004 3079](https://fedlex.data.admin.ch/eli/oc/2004/399)art. 43 cpv. 2 n. 2, [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)n. II 11 [4199](https://fedlex.data.admin.ch/eli/oc/2005/551)all. 3 n. II 6, [2007 2929](https://fedlex.data.admin.ch/eli/oc/2007/389)[4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 32, [2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)all. 2 n. 10 [4771](https://fedlex.data.admin.ch/eli/oc/2008/670)all. n. II 1, [2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)II III, [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 1]
+[^47-1]: [[RU 1991 169](https://fedlex.data.admin.ch/eli/oc/1991/169_169_169), [628](https://fedlex.data.admin.ch/eli/oc/1991/628_628_628), [1370](https://fedlex.data.admin.ch/eli/oc/1991/1370_1370_1370); [1993 3022](https://fedlex.data.admin.ch/eli/oc/1993/3022_3022_3022)n. IV 4; [1996 905](https://fedlex.data.admin.ch/eli/oc/1996/905_905_905); [1998 2261](https://fedlex.data.admin.ch/eli/oc/1998/2261_2261_2261)art. 26; [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)n. II 15; [2004 3079](https://fedlex.data.admin.ch/eli/oc/2004/399)art. 43 cpv. 2 n. 2; [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)n. II 11, [4199](https://fedlex.data.admin.ch/eli/oc/2005/551)all. 3 n. II 6; [2007 2929](https://fedlex.data.admin.ch/eli/oc/2007/389), [4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 32; [2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)all. 2 n. 10, [4771](https://fedlex.data.admin.ch/eli/oc/2008/670)all. n. II 1; [2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)II III; [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 1]
 
 #### Art. 48
 
@@ -832,7 +832,7 @@ Allegato 1*[^t-1]*
 
 <table>
 <tr><th>Codice</th><th>Descrizione del rifiuto</th></tr>
-<tr><td></td><td>Classe 1: rifiuti chimici</td></tr>
+<tr><td></td><td>**Classe 1: rifiuti chimici**</td></tr>
 <tr><td>1101</td><td>Solventi non alogenati</td></tr>
 <tr><td>1102</td><td>Solventi alogenati</td></tr>
 <tr><td>1103</td><td>Residui di reazione chimici</td></tr>
@@ -855,20 +855,20 @@ Allegato 1*[^t-1]*
 <tr><td>1120</td><td>Biocidi, prodotti per la protezione del legno e prodotti chimici analoghi</td></tr>
 <tr><td>1121</td><td>Altri rifiuti chimici speciali</td></tr>
 <tr><td>1301</td><td>Altri prodotti chimici non soggetti all’obbligo di controllo secondo l’OTRif</td></tr>
-<tr><td></td><td>Classe 2: rifiuti sanitari</td></tr>
+<tr><td></td><td>**Classe 2: rifiuti sanitari**</td></tr>
 <tr><td>2101</td><td>Rifiuti infettivi e a rischio di contaminazione</td></tr>
 <tr><td>2102</td><td>Medicamenti scaduti e rifiuti farmaceutici solidi</td></tr>
 <tr><td>2103</td><td>Rifiuti sanitari con pericolo di lesione</td></tr>
 <tr><td>2104</td><td>Rifiuti non infettivi provenienti dal settore sanitario</td></tr>
 <tr><td>2301</td><td>Rifiuti sanitari non soggetti all’obbligo di controllo secondo l’OTRif</td></tr>
-<tr><td></td><td>Classe 3: rifiuti metallici</td></tr>
+<tr><td></td><td>**Classe 3: rifiuti metallici**</td></tr>
 <tr><td>3101</td><td>Cavi usati contenenti sostanze pericolose</td></tr>
 <tr><td>3102</td><td>Altri rifiuti metallici speciali</td></tr>
 <tr><td>3201</td><td>Cavi usati</td></tr>
 <tr><td>3202</td><td>Residui di rottame metallico e materiale raccolto sui veicoli di trasporto</td></tr>
 <tr><td>3301</td><td>Metalli provenienti dalla raccolta comunale e da altre raccolte</td></tr>
 <tr><td>3302</td><td>Rifiuti metallici non soggetti all’obbligo di controllo secondo l’OTRif</td></tr>
-<tr><td></td><td>Classe 4: rifiuti minerali</td></tr>
+<tr><td></td><td>**Classe 4: rifiuti minerali**</td></tr>
 <tr><td>4101</td><td>Materiale di scavo inquinato da sostanze pericolose</td></tr>
 <tr><td>4102</td><td>Asfalto di demolizione con un tenore di oltre 1000 mg PAH al kg</td></tr>
 <tr><td>4103</td><td>Rifiuti edili misti contenenti sostanze pericolose</td></tr>
@@ -890,7 +890,7 @@ Allegato 1*[^t-1]*
 <tr><td>4309</td><td>Rifiuti di vetro provenienti dalla raccolta comunale e da altre raccolte</td></tr>
 <tr><td>4310</td><td>Altri rifiuti di vetro non soggetti all’obbligo di controllo secondo l’OTRif</td></tr>
 <tr><td>4311</td><td>Altri rifiuti minerali non soggetti all’obbligo di controllo secondo l’OTRif</td></tr>
-<tr><td></td><td>Classe 5: impianti, macchine, veicoli e accessori nonché apparecchiature elettriche ed elettroniche</td></tr>
+<tr><td></td><td>**Classe 5: impianti, macchine, veicoli e accessori nonché apparecchiature elettriche ed elettroniche**</td></tr>
 <tr><td>5101</td><td>Batterie al piombo e accumulatori al piombo</td></tr>
 <tr><td>5102</td><td>Altre batterie e accumulatori</td></tr>
 <tr><td>5103</td><td>Altre componenti di apparecchiature elettriche ed elettroniche contenenti PCB</td></tr>
@@ -901,7 +901,7 @@ Allegato 1*[^t-1]*
 <tr><td>5203</td><td>Apparecchiature elettriche ed elettroniche contenenti clorofluorocarburi (CFC) parzialmente o completamente alogenati</td></tr>
 <tr><td>5204</td><td>Altre apparecchiature elettriche ed elettroniche e componenti</td></tr>
 <tr><td>5301</td><td>Componenti di apparecchiature elettriche ed elettroniche non soggette all’obbligo di controllo secondo l’OTRif</td></tr>
-<tr><td></td><td>Classe 6: rifiuti biogeni</td></tr>
+<tr><td></td><td>**Classe 6: rifiuti biogeni**</td></tr>
 <tr><td>6101</td><td>Rifiuti di legno problematici</td></tr>
 <tr><td>6201</td><td>Oli e grassi commestibili, esclusi quelli provenienti dalle raccolte comunali</td></tr>
 <tr><td>6202</td><td>Legno usato</td></tr>
@@ -909,7 +909,7 @@ Allegato 1*[^t-1]*
 <tr><td>6302</td><td>Scarti di legno</td></tr>
 <tr><td>6303</td><td>Rifiuti biogeni provenienti dalla raccolta comunale e da altre raccolte</td></tr>
 <tr><td>6304</td><td>Rifiuti biogeni provenienti dall’agricoltura, dall’industria e dall’artigianato</td></tr>
-<tr><td></td><td>Classe 7: fanghi e residui di trattamento</td></tr>
+<tr><td></td><td>**Classe 7: fanghi e residui di trattamento**</td></tr>
 <tr><td>7101</td><td>Scorie e ceneri</td></tr>
 <tr><td>7102</td><td>Residui prodotti dalla depurazione dei fumi</td></tr>
 <tr><td>7103</td><td>Frazione leggera combustibile proveniente dalla frantumazione di rifiuti metallici</td></tr>
@@ -923,7 +923,7 @@ Allegato 1*[^t-1]*
 <tr><td>7302</td><td>Fanghi e residui di trattamento non soggetti all’obbligo di controllo secondo l’OTRif</td></tr>
 <tr><td>7303</td><td>Fanghi combustibili e altri residui di trattamento</td></tr>
 <tr><td>7304</td><td>Materiale fine proveniente dal trattamento di rifiuti edili</td></tr>
-<tr><td></td><td>Classe 8: altri tipi di rifiuti</td></tr>
+<tr><td></td><td>**Classe 8: altri tipi di rifiuti**</td></tr>
 <tr><td>8101</td><td>Rifiuti speciali provenienti dalla raccolta comunale e da altre raccolte</td></tr>
 <tr><td>8301</td><td>Residui della pulizia stradale</td></tr>
 <tr><td>8302</td><td>Residui di incendi</td></tr>
@@ -1133,17 +1133,18 @@ Allegato 4*[^t-2]*
 
 ## Requisiti applicabili ai rifiuti impiegati per la fabbricazione di cemento e calcestruzzo
 
-[^t-2]: Aggiornato dal n. II dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^t-2]: Aggiornato dal n. II dell’O del 12 feb. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)) e dal n. III dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### 1 Utilizzo dei rifiuti come materia prima e come sostanza di correzione della farina cruda
 
-- 1\.1 I rifiuti possono essere utilizzati come materia prima per la fabbricazione di clinker di cemento se non superano i valori limite seguenti (tenori totali) e il clinker di cemento fabbricato soddisfa i requisiti di cui al numero 1.4:
+- 1\.1 I rifiuti possono essere utilizzati come materia prima per la fabbricazione di clinker di cemento se non superano i valori limite seguenti (tenori totali) e il clinker di cemento fabbricato soddisfa i requisiti di cui al numero 1.6:
 
 <table>
 <tr><th>Sostanza</th><th>Valore limite in mg/kg di sostanza secca</th></tr>
 <tr><td>Antimonio</td><td>30</td></tr>
 <tr><td>Arsenico</td><td>30</td></tr>
 <tr><td>Piombo</td><td>500</td></tr>
+<tr><td>Benzo[*a*]pirene</td><td>10</td></tr>
 <tr><td>Cadmio</td><td>5</td></tr>
 <tr><td>Cromo totale</td><td>500</td></tr>
 <tr><td>Cobalto</td><td>250</td></tr>
@@ -1160,7 +1161,7 @@ Allegato 4*[^t-2]*
 <tr><td>Idrocarburi aromatici monociclici (BTEX)\*\*\*\*</td><td>10</td></tr>
 <tr><td>Benzene</td><td>1</td></tr>
 <tr><td>Idrocarburi aromatici policiclici (PAH)\*\*\*\*\*</td><td>250</td></tr>
-<tr><td>Benzo(a)pirene</td><td>3</td></tr>
+<tr><td>Benzo[*a*]pirene</td><td>10</td></tr>
 <tr><td>Carbonio organico totale (COT)</td><td>50 000</td></tr>
 <tr><td colspan="2">\* ∑7 HCFC: diclorometano, triclorometano, tetraclorometano, *cis*-1,2-dicloretilene, 1,1,1-tricloroetano, tricloroetilene (Tri), percloroetilene (Per)</td></tr>
 <tr><td colspan="2">\*\* ∑6 congeneri × 4,3 (n. IUPAC): 28, 52, 101, 138, 153, 180</td></tr>
