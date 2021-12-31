@@ -3,20 +3,20 @@ canton: BL
 number: "643.11"
 title: Verordnung über das Gymnasium (Maturitätsschule und Fachmittelschule)
 language: de
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2021-06-29
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-12-14
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/643.11"
-pdf: "https://bl.clex.ch/api/de/versions/3054/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3746/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Gymnasium (Maturitätsschule und Fachmittelschule)
 
-Vom 13.05.2003 (Stand 01.08.2021)
+Vom 13.05.2003 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -155,9 +155,9 @@ beschliesst:
 
 **Klassenbildung**
 
-<sup>1</sup> Die Dienststelle Gymnasien koordiniert die Klassenbildung der Gymnasien und genehmigt deren Klassenbildungspläne.
+<sup>1</sup> Die Hauptabteilung Mittelschulen der Dienststelle Berufsbildung, Mittelschulen und Hochschulen (Dienststelle BMH) koordiniert die Klassenbildung der Gymnasien und genehmigt deren Klassenbildungspläne.
 
-<sup>2</sup> Sie berücksichtigt dabei die verfügbaren Kapazitäten, die kantonalen Klassenbildungsnormen sowie die Bestimmungen des Regionalen Schulabkommens vom 19. August 2008[^9-1], des Vertrags vom 27. November 2001[^9-2] über das Regionale Gymnasium Laufental-Thierstein und des Vertrags vom 2. Juni 1998[^9-3] über die Aufnahme von Schülerinnen und Schülern des Kantons Aargau an basellandschaftlichen Gymnasien.
+<sup>2</sup> Sie berücksichtigt dabei die verfügbaren Kapazitäten, die kantonalen Klassenbildungsnormen sowie die Bestimmungen des Regionalen Schulabkommens vom 19. August 2008[^9-1], des Vertrags über das Regionale Gymnasium Laufental-Thierstein vom 27. November 2001[^9-2] und des Vertrags über die Aufnahme von Schülerinnen und Schülern des Kantons Aargau an basellandschaftlichen Gymnasien vom 2. Juni 1998[^9-3].
 
 - a. …
 - b. …
@@ -180,7 +180,7 @@ beschliesst:
 
 <sup>3</sup> Den Wünschen der Schülerinnen und Schüler in Bezug auf den Schulort wird nach Möglichkeit im Rahmen der Klassenbildung gemäss § 9 entsprochen.
 
-<sup>4</sup> Die Dienststelle Gymnasien teilt den Erziehungsberechtigten bzw. den volljährigen Schülerinnen und Schülern die Zuteilung schriftlich mit.
+<sup>4</sup> Die Hauptabteilung Mittelschulen der Dienststelle BMH teilt den Erziehungsberechtigten bzw. den volljährigen Schülerinnen und Schülern die Zuteilung schriftlich mit.
 
 #### § 11
 
@@ -418,7 +418,7 @@ beschliesst:
 <sup>1</sup> Die Erziehungsberechtigten tragen mit ihren Beiträgen die Kosten für Unterrichtsmittel und Schulveranstaltungen. Dazu zählen insbesondere:
 
 - a. die Lehr- und Lernmittel in analoger und digitaler Form, Unterrichtshilfen und Schulmaterialien, inklusive elektronische Geräte wie Laptops oder Mobile Devices;
-- b. die Schulveranstaltungen in- und ausserhalb des Unterrichts.
+- b. die Schulveranstaltungen inner- und ausserhalb des Unterrichts.
 
 <sup>2</sup> Die Schulleitungskonferenz Gymnasien legt ein Kostendach für diese Beiträge sowie die Mindestanforderungen an die elektronischen Geräte fest.
 
@@ -581,7 +581,7 @@ beschliesst:
 
 <sup>1</sup> Der Schulrat hat insbesondere folgende Aufgaben:
 
-- a. Er nimmt die Jahresrechnung der Schule zur Kenntnis und verabschiedet die Budgetanträge zuhanden der Dienststelle Gymnasien.
+- a. Er nimmt die Jahresrechnung der Schule zur Kenntnis und verabschiedet die Budgetanträge zuhanden der Hauptabteilung Mittelschulen der Dienststelle BMH.
 - b. Er legt auf Antrag der Schulleitung deren Organisation fest.
 - c. Er unterstützt die Lehrkräfte in ihrem Auftrag.
 
@@ -676,9 +676,9 @@ beschliesst:
 
 <sup>1</sup> Mit dieser Verordnung werden aufgehoben:
 
-- a. Schulordnung vom 19. März 1985[^44-1] für die Gymnasien;
-- b. Reglement vom 20. August 2002[^44-2] über die Bildung von Klassen und Kursen an den Gymnasien (Klassenbildungsreglement Gymnasien);
-- c. Verordnung vom 5. Januar 1988[^44-3] über die Typenverteilung an den Gymnasien.
+- a. Schulordnung für die Gymnasien vom 19. März 1985[^44-1];
+- b. Reglement über die Bildung von Klassen und Kursen an den Gymnasien (Klassenbildungsreglement Gymnasien) vom 20. August 2002[^44-2];
+- c. Verordnung über die Typenverteilung an den Gymnasien vom 5. Januar 1988[^44-3].
 
 [^44-1]: GS 29.29
 [^44-2]: GS 34.617
