@@ -2,28 +2,28 @@
 canton: AG
 number: "428.513"
 title: Verordnung über die Schulung von Kindern und Jugendlichen mit Behinderungen sowie die besonderen Förder- und Stützmassnahmen
-short: V Schulung und Förderung bei Behinderungen
+short: VSBF
 language: de
-version: 2020-08-01
-valid_until: 2021-12-31
-version_adopted: 2020-04-29
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-04-07
 adopted: 2006-11-08
 in_force: 2007-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/428.513"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2861/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3071/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Schulung von Kindern und Jugendlichen mit Behinderungen sowie die besonderen Förder- und Stützmassnahmen
 
-(V Schulung und Förderung bei Behinderungen)
+(VSBF)
 
-Vom 08.11.2006 (Stand 01.08.2020)
+Vom 08.11.2006 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 15 Abs. 6, 28 Abs. 5, 29 Abs. 4, 29a Abs. 1, 58 Abs. 3 sowie 91 Abs. 1 des Schulgesetzes vom 17. März 1981[^ingress-1] und § 3 Abs. 3 des Gesetzes über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen (Betreuungsgesetz) vom 2. Mai 2006[^ingress-2],
+gestützt auf die §§ 15 Abs. 6, 28 Abs. 5, 29 Abs. 4, 29a Abs. 1, 58 Abs. 3 sowie 91 Abs. 1 des Schulgesetzes vom 17. März 1981[^ingress-1] und § 3 Abs. 3 des Gesetzes über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen (Betreuungsgesetz, BeG) vom 2. Mai 2006[^ingress-2],
 
 beschliesst:
 
@@ -44,10 +44,14 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Die Bestimmungen zur Sonderschulung sowie zu den besonderen Förder- und Stützmassnahmen gelten
+<sup>1</sup> Die Bestimmungen zur Sonderschulung sowie zu den besonderen Förder- und Stützmassnahmen gelten für
 
-- a) für Sonderschulen, Ambulatorien und Durchführungsstellen von besonderen Förder- und Stützmassnahmen mit öffentlicher Trägerschaft sowie
-- b) für die vom Kanton anerkannten Sonderschulen, Ambulatorien und Durchführungsstellen mit privater Trägerschaft.
+- a) Sonderschulen mit öffentlich-rechtlicher Trägerschaft gemäss § 2 der Verordnung über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen (Betreuungsverordnung, BeV) vom 8. November 2006[^2-1],
+- a<sup>bis</sup>) Einrichtungen für besondere Förder- und Stützmassnahmen mit öffentlich-rechtlicher Trägerschaft gemäss § 1 BeV,
+- b) vom Kanton anerkannte Sonderschulen mit privatrechtlicher Trägerschaft gemäss § 2 BeV,
+- c) vom Kanton anerkannte Einrichtungen für besondere Förder- und Stützmassnahmen mit privatrechtlicher Trägerschaft gemäss § 1 BeV.
+
+[^2-1]: SAR [428.511](https://gesetzessammlungen.ag.ch/data/428.511/de)
 
 #### § 2a
 
@@ -110,7 +114,7 @@ beschliesst:
 
 #### § 6a
 
-**Planung und Durchführung**
+**Förder- und Sprachheilunterricht**
 
 <sup>1</sup> Die Schulleitung plant den Förder- und den Sprachheilunterricht in Zusammenarbeit mit den beteiligten Lehrpersonen.
 
@@ -184,15 +188,15 @@ beschliesst:
 
 <sup>2</sup> Die Sonderkindergärten und Sonderschulen übernehmen die notwendigen Transportkosten.
 
-<sup>3</sup> Notwendige Transportkosten meint die kostengünstigste Variante für Fahrten der Schülerinnen und Schüler mit öffentlichen Verkehrsmitteln vom Wohnort zur Schule und umgekehrt an Schultagen beziehungsweise am Anfang und am Ende der Schulwoche bei stationärer Sonderschulung. Ist der Transport mit öffentlichen Verkehrsmitteln oder mit dem Sammeltransport der Schule im Einzelfall nicht zumutbar, werden für die Verwendung eines privaten Transportmittels pro Kilometer 70 Rappen (Personenwagen) oder die Auslagen für Taxifahrten vergütet.
+<sup>3</sup> Notwendige Transportkosten meint die kostengünstigste Variante für Fahrten der Schülerinnen und Schüler mit öffentlichen Verkehrsmitteln vom Wohnort zur Schule und umgekehrt an Schultagen beziehungsweise am Anfang und am Ende der Schulwoche bei stationärer Sonderschulung. Ist der Transport mit öffentlichen Verkehrsmitteln oder mit dem Sammeltransport der Schule im Einzelfall nicht zumutbar, werden für die Verwendung eines privaten Transportmittels pro Kilometer 70 Rappen (Personenwagen) oder die Auslagen einer kostengünstigen Variante für Taxifahrten vergütet.
 
-<sup>4</sup> Können sich die Schule und die gesetzliche Vertretung der Schülerin oder des Schülers über die Modalitäten des Transports und den Kostenersatz nicht einigen, entscheidet darüber das Departement Bildung, Kultur und Sport.
+<sup>4</sup> Können sich die Schule und die gesetzliche Vertretung der Schülerin oder des Schülers über die Modalitäten des Transports und den Kostenersatz nicht einigen, entscheidet das Departement Bildung, Kultur und Sport (BKS).
 
 #### § 14
 
-**Verpflegung und Betreuung über Mittag**
+**Verpflegung und Betreuung**
 
-<sup>1</sup> Die Tagessonderkindergärten und Tagessonderschulen organisieren für ihre Schülerinnen und Schüler Verpflegung und Betreuung über Mittag.
+<sup>1</sup> Die Tagessonderkindergärten und Tagessonderschulen organisieren für ihre Schülerinnen und Schüler Verpflegung und Betreuung über Mittag. Sie können eine Betreuung an schulfreien Nachmittagen anbieten.
 
 ### 3.2. Zuweisung
 
@@ -206,7 +210,7 @@ beschliesst:
 - b) beim Kind oder Jugendlichen ein Bedarf nach Sonderschulung ausgewiesen ist,
 - c) …
 - d) es sich beim vorgesehenen Sonderkindergarten beziehungsweise der vorgesehenen Sonderschule um eine kantonale oder eine vom Kanton anerkannte Einrichtung handelt,
-- e) im Falle einer ausserkantonalen Platzierung die Bewilligung des Departements Bildung, Kultur und Sport gemäss Betreuungsgesetzgebung vorliegt.
+- e) im Falle einer ausserkantonalen Platzierung die Bewilligung des BKS gemäss Betreuungsgesetzgebung vorliegt.
 
 <sup>2</sup> …
 
@@ -214,13 +218,13 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Schulpflege am Aufenthaltsort des Kinds oder Jugendlichen entscheidet über die Zuweisung in einen Tagessonderkindergarten oder in eine Tagessonderschule.
+<sup>1</sup> Der Gemeinderat am Aufenthaltsort des Kinds oder Jugendlichen entscheidet über die Zuweisung in einen Tagessonderkindergarten oder in eine Tagessonderschule.
 
-<sup>2</sup> Die Schulpflege am zivilrechtlichen Wohnsitz des Kinds oder Jugendlichen entscheidet mit dem Einverständnis der Inhaber der elterlichen Sorge über die Zuweisung in einen stationären Sonderkindergarten oder in eine stationäre Sonderschule. Unterbringungen gegen den Willen der Inhaber der elterlichen Sorge erfolgen nach den Bestimmungen des Kindsschutzrechts durch die Kindes- und Erwachsenenschutzbehörde.
+<sup>2</sup> Der Gemeinderat am zivilrechtlichen Wohnsitz des Kinds oder Jugendlichen entscheidet mit dem Einverständnis der Inhaber der elterlichen Sorge über die Zuweisung in einen stationären Sonderkindergarten oder in eine stationäre Sonderschule. Unterbringungen gegen den Willen der Inhaber der elterlichen Sorge erfolgen nach den Bestimmungen des Kindsschutzrechts durch die Kindes- und Erwachsenenschutzbehörde.
 
-<sup>3</sup> Bei ausserkantonalen Platzierungen ist die zuweisende Behörde zuständig für das rechtzeitige Einholen der erforderlichen Bewilligung des Departements Bildung, Kultur und Sport.
+<sup>3</sup> Bei ausserkantonalen Platzierungen ist die zuweisende Behörde zuständig für das rechtzeitige Einholen der erforderlichen Bewilligung des BKS.
 
-<sup>4</sup> Bei Platzierungen in Sonderkindergärten und Sonderschulen, die ohne Zustimmung der zuständigen Schulpflege erfolgen, entfällt jede Leistungspflicht von Kanton und Gemeinden.
+<sup>4</sup> Bei Platzierungen in Sonderkindergärten und Sonderschulen, die ohne Zustimmung des zuständigen Gemeinderats erfolgen, entfällt jede Leistungspflicht von Kanton und Gemeinden.
 
 #### § 17
 
@@ -264,7 +268,7 @@ beschliesst:
 
 <sup>1</sup> Aus gesundheitlichen Gründen kann das Unterrichtspensum einer Schülerin oder eines Schülers auf Gesuch der Inhaber der elterlichen Sorge hin reduziert werden. Dem Gesuch muss ein Arztzeugnis beiliegen.
 
-<sup>2</sup> Zuständig für den Entscheid ist die Schulpflege am Aufenthaltsort des Kinds oder Jugendlichen beziehungsweise am zivilrechtlichen Wohnsitz bei stationärer Sonderschulung.
+<sup>2</sup> Zuständig für den Entscheid ist der Gemeinderat am Aufenthaltsort des Kinds oder Jugendlichen beziehungsweise am zivilrechtlichen Wohnsitz bei stationärer Sonderschulung.
 
 ## 4. Besondere Förder- und Stützmassnahmen
 
@@ -290,7 +294,8 @@ beschliesst:
 
 - a) Erfassung und Abklärung der Behinderungen, Beeinträchtigungen und Entwicklungsmöglichkeiten,
 - b) heilpädagogische Förderung,
-- c) fachliche Beratung und Anleitung der Eltern.
+- c) fachliche Beratung und Anleitung der Eltern,
+- d) fachliche Beratung und Anleitung von Fachpersonen in Kindertagesstätten oder Spielgruppen sowie von Tagesfamilien.
 
 <sup>2</sup> Die heilpädagogische Früherziehung endet spätestens zwei Jahre nach der Einschulung.
 
@@ -334,7 +339,7 @@ beschliesst:
 
 **Behinderungsspezifische Beratung und Begleitung**
 
-<sup>1</sup> Behinderungsspezifische Beratung und Begleitung für Kinder und Jugendliche mit einer gesundheitlichen oder körperlichen Beeinträchtigung, einer sensorischen Beeinträchtigung oder einer tiefgreifenden Entwicklungsstörung umfasst
+<sup>1</sup> Behinderungsspezifische Beratung und Begleitung für Kinder und Jugendliche mit einer gesundheitlichen oder körperlichen Beeinträchtigung, einer sensorischen Beeinträchtigung, einer tiefgreifenden Entwicklungsstörung oder einer erheblichen kognitiven Beeinträchtigung umfasst
 
 - a) Abklärungen und Kontrollen,
 - b) fachliche Beratung und Begleitung der Kinder und Jugendlichen,
@@ -347,31 +352,31 @@ beschliesst:
 
 **Logopädie für Säuglinge und Kleinkinder, heilpädagogische Früherziehung**
 
-<sup>1</sup> Die Leitung der Durchführungsstelle von Logopädie für Säuglinge und Kleinkinder beziehungsweise die Leitung des heilpädagogischen Früherziehungsdiensts entscheidet mit dem Einverständnis der Inhaber der elterlichen Sorge über die Aufnahme der Säuglinge und Kleinkinder zur Erfassung, Abklärung, Förderung und Therapie.
+<sup>1</sup> Die Leitungen der Fachstellen für Logopädie bei Säuglingen und Kleinkindern beziehungsweise die Leitungen der Fachstellen für heilpädagogische Früherziehung entscheiden mit dem Einverständnis der Inhaber der elterlichen Sorge über die Aufnahme der Säuglinge und Kleinkinder zur Erfassung, Abklärung, Förderung und Therapie.
 
 <sup>2</sup> Logopädische Therapie bei schweren Ess- und Trinkstörungen und heilpädagogische Förderung setzen eine fachärztliche Untersuchung voraus.
 
-<sup>3</sup> Die Leitung entscheidet nach fachlichen Kriterien über den wirkungsvollsten Einsatz der vorhandenen Ressourcen.
+<sup>3</sup> Die Leitungen der Fachstellen entscheiden nach fachlichen Kriterien über den wirkungsvollsten Einsatz der vorhandenen Ressourcen.
 
-<sup>4</sup> Für Massnahmen eines vom Kanton nicht anerkannten Früherziehungsdiensts oder einer vom Kanton nicht anerkannten Durchführungsstelle entfällt jede Leistungspflicht von Kanton und Gemeinden.
+<sup>4</sup> Für Massnahmen einer vom Kanton nicht anerkannten Fachstelle entfällt jede Leistungspflicht von Kanton und Gemeinden.
 
 #### § 29
 
 **Psychomotorik-Therapie**
 
-<sup>1</sup> Die Leitung des Ambulatoriums für Psychomotorik-Therapie entscheidet mit dem Einverständnis der Inhaber der elterlichen Sorge über die Aufnahme der Kinder und Jugendlichen zur Abklärung und Therapie sowie über weitere Massnahmen.
+<sup>1</sup> Die Leitungen der Fachstellen für Psychomotorik-Therapie entscheiden mit dem Einverständnis der Inhaber der elterlichen Sorge über die Aufnahme der Kinder und Jugendlichen zur Abklärung und Therapie sowie über weitere Massnahmen.
 
 <sup>2</sup> Die Therapie setzt eine fachärztliche Untersuchung voraus.
 
-<sup>3</sup> Die Leitung entscheidet nach fachlichen Kriterien über den wirkungsvollsten Einsatz der vorhandenen Ressourcen.
+<sup>3</sup> Die Leitungen der Fachstellen entscheiden nach fachlichen Kriterien über den wirkungsvollsten Einsatz der vorhandenen Ressourcen.
 
-<sup>4</sup> Für Massnahmen eines vom Kanton nicht anerkannten Ambulatoriums entfällt jede Leistungspflicht von Kanton und Gemeinden.
+<sup>4</sup> Für Massnahmen einer vom Kanton nicht anerkannten Fachstelle entfällt jede Leistungspflicht von Kanton und Gemeinden.
 
 #### § 30
 
 **Sprachheilunterricht, Zuweisung und Abklärung**
 
-<sup>1</sup> Die Zuweisung zum Sprachheilunterricht erfolgt durch die Schulpflege am Schulort.
+<sup>1</sup> Die Zuweisung zum Sprachheilunterricht erfolgt durch den Gemeinderat am Schulort.
 
 <sup>2</sup> Die Zuweisung zur logopädischen Therapie setzt eine Abklärung durch eine Logopädin oder einen Logopäden voraus.
 
@@ -379,7 +384,7 @@ beschliesst:
 
 <sup>4</sup> Bei allgemeinen Lernstörungen und bei schwerer Störung des Sprechens und der Sprache erfolgt eine zusätzliche Beurteilung durch den Schulpsychologischen Dienst.
 
-<sup>5</sup> Für Abklärungen, die nicht von einer zuständigen Sprachheilfachperson der Gemeinde beziehungsweise vom Schulpsychologischen Dienst durchgeführt wurden, entfällt jede Leistungspflicht von Kanton und Gemeinden. Das Gleiche gilt für Sprachtherapien, die nicht von der zuständigen Schulpflege angeordnet wurden.
+<sup>5</sup> Für Abklärungen, die nicht von einer zuständigen Sprachheilfachperson der Gemeinde beziehungsweise vom Schulpsychologischen Dienst durchgeführt wurden, entfällt jede Leistungspflicht von Kanton und Gemeinden. Das Gleiche gilt für Sprachtherapien, die nicht vom zuständigen Gemeinderat angeordnet wurden.
 
 #### § 31
 
@@ -421,13 +426,15 @@ beschliesst:
 
 #### § 36
 
+**…**
+
+#### § 36a
+
 **Transportkosten**
 
-<sup>1</sup> Beim Sprachheilunterricht werden die notwendigen Transportkosten im Sinne von § 53 Abs. 4 lit. c des Schulgesetzes von den Gemeinden ab dem Kindergarten übernommen.
+<sup>1</sup> Die notwendigen Transportkosten für den Sprachheilunterricht ab dem Kindergarten gemäss den §§ 30–33 werden von den Gemeinden übernommen.
 
-<sup>1<sup>bis</sup></sup> Bei heilpädagogischer Früherziehung sowie bei Logopädie für Säuglinge und Kleinkinder, die in den Räumlichkeiten des Früherziehungsdiensts beziehungsweise der Durchführungsstelle von Logopädie für Säuglinge und Kleinkinder stattfinden, werden den Eltern die notwendigen Transportkosten vom Departement Bildung, Kultur und Sport vergütet. Die Modalitäten des Transports und der Kostenersatz werden vom Früherziehungsdienst beziehungsweise von der Durchführungsstelle festgelegt. Kommt keine Einigung zustande, erlässt das Departement eine Verfügung.
-
-<sup>2</sup> Bei den übrigen besonderen Förder- und Stützmassnahmen tragen die Eltern allfällige Transportkosten.
+<sup>2</sup> Die notwendigen Transportkosten für Fahrten zu Räumlichkeiten der vom Kanton anerkannten Fachstellen gemäss den §§ 22–25 und 27 werden den Eltern vom BKS vergütet. § 13 Abs. 3 und 4 gelten sinngemäss.
 
 ## 5. Private Schulung
 
@@ -435,7 +442,7 @@ beschliesst:
 
 **Nachweis des genügenden Unterrichts**
 
-<sup>1</sup> Bei privater Schulung schulpflichtiger Kinder und Jugendlicher mit Behinderungen im Sinne von § 2a wird der Nachweis des genügenden Unterrichts gemäss § 58 Abs. 3 des Schulgesetzes von den Eltern gegenüber der zuständigen Schulpflege erbracht, wenn
+<sup>1</sup> Bei privater Schulung schulpflichtiger Kinder und Jugendlicher mit Behinderungen im Sinne von § 2a wird der Nachweis des genügenden Unterrichts gemäss § 58 Abs. 3 des Schulgesetzes von den Eltern gegenüber dem zuständigen Gemeinderat erbracht, wenn
 
 - a) die Bildungsziele behinderungsspezifisch jenen der Sonderschulen entsprechen,
 - b) die unterrichtende Person im selben Semester nicht mehr als drei Kinder unterrichtet, ausser diese stammen aus derselben Familie,
@@ -443,9 +450,9 @@ beschliesst:
 - d) auf der Oberstufe ein Kind oder eine Gruppe von zwei Kindern mindestens drei Stunden und eine Gruppe von drei Kindern mindestens vier Stunden täglich fünf Mal pro Woche strukturierten Unterricht erhalten,
 - e) die unterrichtende Person sich über ausreichende heilpädagogische oder sozialpädagogische Fähigkeiten entsprechend der Art der Behinderung der von ihr unterrichteten Kinder ausweisen kann.
 
-<sup>2</sup> Planung, Umsetzung und Zielerreichung des Unterrichts werden von einer durch das Departement Bildung, Kultur und Sport beauftragten Person regelmässig überprüft. Erweist sich der Unterricht als ungenügend, beantragt es der Schulpflege die Zuweisung des Kinds oder Jugendlichen in die öffentliche Schule.
+<sup>2</sup> Planung, Umsetzung und Zielerreichung des Unterrichts werden von einer durch das BKS beauftragten Person regelmässig überprüft. Erweist sich der Unterricht als ungenügend, beantragt es dem Gemeinderat die Zuweisung des Kinds oder Jugendlichen in die öffentliche Schule.
 
-<sup>3</sup> Das Departement Bildung, Kultur und Sport und die Schulpflege können von den Eltern die Unterzeichnung einer schriftlichen Vereinbarung verlangen, worin die einzelnen Modalitäten der privaten Schulung festgelegt sind.
+<sup>3</sup> Das BKS und der Gemeinderat können von den Eltern die Unterzeichnung einer schriftlichen Vereinbarung verlangen, worin die einzelnen Modalitäten der privaten Schulung festgelegt sind.
 
 ## 6.
 
