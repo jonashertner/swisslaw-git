@@ -5,12 +5,12 @@ title: Legge sul rapporto di lavoro dei collaboratori del Cantone dei Grigioni
 short: "Legge sul personale, LCPers"
 language: it
 version: 2022-01-01
-valid_until: 2022-12-31
+corrected: 2022-01-01
 version_adopted: 2021-08-26
 adopted: 2006-06-14
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.400"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3228/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3209/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -690,7 +690,7 @@ decide:
 
 <sup>1</sup> Fatte salve altre disposizioni sono competenti per le assunzioni e le disdette:
 
-- a) il Governo per i capi servizio, i loro supplenti e i segretari generali;
+- a) il Governo per i capi servizio, i loro supplenti e i segretari di concetto;
 - b) i Dipartimenti e la Cancelleria dello Stato per gli altri collaboratori a partire dalla classe di stipendio 16;
 - c) i servizi per i loro collaboratori nelle classi di stipendio da 1 a 15;
 - d) il presidente della direzione scolastica per gli insegnanti delle scuole cantonali.

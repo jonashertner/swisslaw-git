@@ -5,12 +5,12 @@ title: Lescha davart la relaziun da lavur da las collavuraturas e dals collavura
 short: "lescha dal persunal, LP"
 language: rm
 version: 2022-01-01
-valid_until: 2022-12-31
+corrected: 2022-01-01
 version_adopted: 2021-08-26
 adopted: 2006-06-14
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.400"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3228/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3209/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -696,7 +696,7 @@ concluda:
 
 <sup>1</sup> Cun resalva d'autras disposiziuns èn cumpetents per ils engaschaments e per las desditgas:
 
-- a) la regenza per las manadras e per ils manaders dals posts da servetsch, per lur substitutas e per lur substituts sco er per las secretarias generalas e per ils secretaris generals;
+- a) la regenza per las manadras e per ils manaders dals posts da servetsch, per lur substitutas e per lur substituts sco er per las secretarias e per ils secretaris dals departaments;
 - b) ils departaments e la chanzlia chantunala per las ulteriuras collavuraturas e per ils ulteriurs collavuraturs a partir da la classa da salari 16;
 - c) ils posts da servetsch per lur collavuraturas e per lur collavuraturs en las classas da salari 1 fin 15;
 - d) la parsura u il parsura da la direcziun da la scola per las persunas d'instrucziun da las scolas chantunalas.

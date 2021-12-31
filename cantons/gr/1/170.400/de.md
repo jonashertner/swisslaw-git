@@ -5,12 +5,12 @@ title: Gesetz über das Arbeitsverhältnis der Mitarbeitenden des Kantons Graub�
 short: "Personalgesetz, PG"
 language: de
 version: 2022-01-01
-valid_until: 2022-12-31
+corrected: 2022-01-01
 version_adopted: 2021-08-26
 adopted: 2006-06-14
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.400"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3228/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3209/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -690,7 +690,7 @@ beschliesst:
 
 <sup>1</sup> Unter Vorbehalt anderer Bestimmungen sind für die Anstellungen und die Kündigungen zuständig
 
-- a) die Regierung für die Dienststellenleitenden, deren Stellvertretende und die Generalsekretärinnen und -sekretäre;
+- a) die Regierung für die Dienststellenleitenden, deren Stellvertretende und die Departementssekretärinnen und -sekretäre;
 - b) die Departemente und die Standeskanzlei für die übrigen Mitarbeitenden ab der Gehaltsklasse 16;
 - c) die Dienststellen für ihre Mitarbeitenden in den Gehaltsklassen 1 bis 15;
 - d) die oder der Vorsitzende der Schulleitung für die Lehrpersonen der kantonalen Schulen.
