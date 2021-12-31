@@ -4,13 +4,13 @@ number: "131.1"
 title: Gemeindegesetz
 short: GG
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-27
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2020-07-01
 adopted: 1992-02-16
 in_force: 1992-07-01
 url: "https://bgs.so.ch/app/de/texts_of_law/131.1"
-pdf: "https://bgs.so.ch/api/de/versions/4976/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5168/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4976/pdf_file"
 
 (GG)
 
-Vom 16.02.1992 (Stand 01.01.2021)
+Vom 16.02.1992 (Stand 01.01.2022)
 
 Der Kantonsrat von Solothurn
 
@@ -1490,6 +1490,8 @@ beschliesst:
 
 <sup>2</sup> Für selbständige Gemeindeunternehmen sind eigene Jahresrechnungen zu führen.
 
+<sup>3</sup> Das Departement kann im Rahmen des Rechnungslegungsmodells die Bürgergemeinden und die Kirchgemeinden von der Führung der Geldflussrechnung sowie einzelner Elemente des Anhanges in der Jahresrechnung entbinden.
+
 #### § 149
 
 **2. Bilanz, Erfolgs-, Investitions- und Geldflussrechnung**
@@ -2298,7 +2300,9 @@ beschliesst:
 
 <sup>1</sup> Für die Bürger- und Kirchgemeinden gelten die bisherigen Bestimmungen (Stand 1. Januar 2010) des sechsten Titels dieses Gesetzes weiterhin.
 
-<sup>2</sup> Der Regierungsrat bestimmt den Zeitpunkt, ab welchem die neuen Bestimmungen des sechsten Titels dieses Gesetzes auch für die Bürger- und Kirchgemeinden gelten.
+<sup>2</sup> Der Regierungsrat bestimmt den Zeitpunkt, ab welchem die neuen Bestimmungen des sechsten Titels dieses Gesetzes auch für die Bürger- und Kirchgemeinden gelten.[^217septies-1]
+
+[^217septies-1]: Gemäss RRB Nr. 2021/679 vom 18. Mai 2021, Ziffer 2.1 gelten die neuen Bestimmungen des sechsten Titels des Gemeindegesetzes (KRB Nr. RG 084/2024 vom 5. November 2014) ab 1. Januar 2022 auch für die Bürger- und Kirchgemeinden.
 
 ### 12.4. Vollzug
 
