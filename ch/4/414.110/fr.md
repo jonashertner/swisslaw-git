@@ -3,11 +3,11 @@ sr: "414.110"
 title: Loi fédérale du 4 octobre 1991 sur les écoles polytechniques fédérales (Loi sur les EPF)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/210_210_210"
 language: fr
-version: 2021-11-01
+version: 2022-01-01
 adopted: 1991-10-04
 in_force: 1993-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20211101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20211101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20211101/fr"
 
 (Loi sur les EPF)
 
-du 4 octobre 1991 (Etat le 1<sup>er</sup> novembre 2021)
+du 4 octobre 1991 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -82,8 +82,8 @@ Les EPF et les établissements de recherche ont pour mission:
 
 <sup>4</sup> Les EPF rendent compte de leurs coûts moyens d’enseignement par étudiant à la Conférence suisse des hautes écoles.[^3-2]
 
-[^3-1]: Nouvelle teneur selon le ch. II 3 de l’annexe à la L du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^3-2]: Introduit par le ch. II 3 de l’annexe à la L du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^3-1]: Nouvelle teneur selon l’annexe ch. II 3 de la L du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^3-2]: Introduit par l’annexe ch. II 3 de la L du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 
 #### Art. 3a
 
@@ -108,12 +108,9 @@ Les EPF et les établissements de recherche peuvent créer des sociétés, parti
 
 #### Art. 4a
 
-**Numéro d’assuré AVS**[^4a-1]
+[^4a-1]
 
-Les établissements au sens de l’art. 1, al. 1, sont habilités à utiliser systématiquement le numéro d’assuré AVS pour l’accomplissement de leurs tâches légales, conformément à la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^4a-2].
-
-[^4a-1]: Introduit par le ch. 3 de l’annexe à la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^4a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^4a-1]: Introduit par l’annexe ch. 3 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS) ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)). Abrogé par l’annexe ch. 9 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 ## Chapitre 2 Écoles polytechniques fédérales
 
@@ -210,7 +207,7 @@ Les EPF accomplissent leurs tâches de recherche:
 
 <sup>3</sup> Elles demandent leur accréditation d’institution.
 
-[^10b-1]: Anciennement art. 10*a*. Introduit par le ch. I de la LF du 21 mars 2003 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)). Nouvelle teneur selon le ch. II 3 de l’annexe à la L du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^10b-1]: Anciennement art. 10*a*. Introduit par le ch. I de la LF du 21 mars 2003 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)). Nouvelle teneur selon l’annexe ch. II 3 de la L du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 [^10b-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 
 #### Art. 11
@@ -402,7 +399,7 @@ Un contrat de travail de durée déterminée peut être renouvelé plusieurs foi
 
 <sup>3</sup> Les délais visés à l’al. 2, let. a et b, peuvent être prolongés sur demande dans le cas d’une longue absence pour cause de maladie, d’accident, de maternité ou d’adoption ou pour tout autre motif important.[^17b-2]
 
-[^17b-1]: Introduit par le ch. 2 de l’annexe à la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^17b-1]: Introduit par l’annexe ch. 2 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^17b-2]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 18
@@ -599,9 +596,9 @@ Le Conseil des EPF:
 <sup>4</sup> Il exerce la surveillance sur le domaine des EPF. Il peut notamment émettre des recommandations à l’intention des EPF et des établissements de recherche après les avoir entendus et, dans des cas dûment motivés leur confier des mandats. Il peut, après avoir entendu l’institution concernée, prendre les mesures qui s’imposent s’il constate une violation du droit.[^25-7]
 
 [^25-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^25-2]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^25-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^25-3]: Abrogée par le ch. I de la LF du 19 mars 2021, avec effet au 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
-[^25-4]: Nouvelle teneur selon le ch. II 3 de l’annexe à la L du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^25-4]: Nouvelle teneur selon l’annexe ch. II 3 de la L du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 [^25-5]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 [^25-6]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^25-7]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
@@ -666,7 +663,7 @@ Le Conseil des EPF dispose d’un état-major.
 <sup>3</sup> …[^27-2]
 
 [^27-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^27-2]: Abrogé par le ch. 2 de l’annexe à la LF du 14 déc. 2012, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^27-2]: Abrogé par l’annexe ch. 2 de la LF du 14 déc. 2012, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
 #### Art. 28
 
@@ -686,7 +683,7 @@ Le Conseil des EPF dispose d’un état-major.
 
 <sup>7</sup> Les al. 1 à 6 s’appliquent par analogie aux membres de la direction des établissements de recherche.
 
-[^28-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^28-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^28-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
 #### Art. 29
@@ -969,7 +966,7 @@ Le Conseil des EPF, les EPF et les établissements de recherche mettent chacun e
 
 [^chap6a-1]
 
-[^chap6a-1]: Introduit par le ch. 2 de l’annexe à la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^chap6a-1]: Introduit par l’annexe ch. 2 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
 ### Section 1 Systèmes d’information concernant le personnel et systèmes de gestion des études****
 
@@ -1145,7 +1142,7 @@ Les EPF édictent des dispositions d’exécution concernant les éléments suiv
 
 <sup>4</sup> Le grief de l’inopportunité ne peut être invoqué en cas de recours contre des décisions portant sur les résultats d’examens et de promotions.
 
-[^37-1]: Nouvelle teneur selon le ch. 36 de l’annexe à la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^37-1]: Nouvelle teneur selon l’annexe ch. 36 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^37-2]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 [^37-3]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
 [^37-4]: Nouvelle teneur selon le ch. II al. 2 de la LF du 25 sept. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [FF 2009 419](https://fedlex.data.admin.ch/eli/fga/2009/60)).
@@ -1246,25 +1243,22 @@ Est puni de l’amende quiconque:
 
 Sont abrogés:
 
-- 1\. la loi fédérale du 7 février 1854 sur la création d’une école polytechnique suisse[^40-subdivu1-1];
-- 2\. la loi fédérale du 11 décembre 1964 concernant la compétence de fixer les prestations de la Confédération aux anciens professeurs de l’École polytechnique fédérale et à leurs survivants[^40-subdivu1-2];
-- 3\. les arrêtés fédéraux des 24 juin 1970[^40-subdivu1-3], 20 juin 1975[^40-subdivu1-4], 21 mars 1980[^40-subdivu1-5] et 26 juin 1985[^40-subdivu1-6] sur les Écoles polytechniques fédérales (Réglementation transitoire).
+- 1\. la loi fédérale du 7 février 1854 sur la création d’une école polytechnique suisse[^40-2];
+- 2\. la loi fédérale du 11 décembre 1964 concernant la compétence de fixer les prestations de la Confédération aux anciens professeurs de l’École polytechnique fédérale et à leurs survivants[^40-3];
+- 3\. les arrêtés fédéraux des 24 juin 1970[^40-4], 20 juin 1975[^40-5], 21 mars 1980[^40-6] et 26 juin 1985[^40-7] sur les Écoles polytechniques fédérales (Réglementation transitoire).
 
 <sup>2</sup> Les lois mentionnées ci-après sont modifiées comme suit:
 
+…[^40-8]
+
 [^40-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^40-subdivu1-1]: [RS **4** 109; [RO 1959 557](https://fedlex.data.admin.ch/eli/oc/1959/535_557_533), [1970 1085](https://fedlex.data.admin.ch/eli/oc/1970/1089_1085_1085)art. 17 al. 1 et 3, **1979** 114 art. 70]
-[^40-subdivu1-2]: [[RO 1965 421](https://fedlex.data.admin.ch/eli/oc/1965/417_421_415)]
-[^40-subdivu1-3]: [[RO 1970 1085](https://fedlex.data.admin.ch/eli/oc/1970/1089_1085_1085), [1975 1759](https://fedlex.data.admin.ch/eli/oc/1975/1759_1759_1759), [1980 886](https://fedlex.data.admin.ch/eli/oc/1980/886_886_886)]
-[^40-subdivu1-4]: [[RO 1975 1759](https://fedlex.data.admin.ch/eli/oc/1975/1759_1759_1759)]
-[^40-subdivu1-5]: [[RO 1980 886](https://fedlex.data.admin.ch/eli/oc/1980/886_886_886)]
-[^40-subdivu1-6]: [[RO 1985 1452](https://fedlex.data.admin.ch/eli/oc/1985/1452_1452_1452)]
-
-### …**
-
-[^40-subdivu2-1]
-
-[^40-subdivu2-1]: Les mod. peuvent être consultées au [RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634).
+[^40-2]: [RS **4** 109; [RO 1959 557](https://fedlex.data.admin.ch/eli/oc/1959/535_557_533), [1970 1085](https://fedlex.data.admin.ch/eli/oc/1970/1089_1085_1085)art. 17 al. 1 et 3, **1979** 114 art. 70]
+[^40-3]: [[RO 1965 421](https://fedlex.data.admin.ch/eli/oc/1965/417_421_415)]
+[^40-4]: [[RO 1970 1085](https://fedlex.data.admin.ch/eli/oc/1970/1089_1085_1085), [1975 1759](https://fedlex.data.admin.ch/eli/oc/1975/1759_1759_1759), [1980 886](https://fedlex.data.admin.ch/eli/oc/1980/886_886_886)]
+[^40-5]: [[RO 1975 1759](https://fedlex.data.admin.ch/eli/oc/1975/1759_1759_1759)]
+[^40-6]: [[RO 1980 886](https://fedlex.data.admin.ch/eli/oc/1980/886_886_886)]
+[^40-7]: [[RO 1985 1452](https://fedlex.data.admin.ch/eli/oc/1985/1452_1452_1452)]
+[^40-8]: Les mod. peuvent être consultées au [RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634).
 
 ### Section 3**** Dispositions transitoires de la modification du 21 mars 2003
 
@@ -1352,7 +1346,7 @@ En dérogation à l’art. 24, al. 1, le Conseil fédéral nomme les membres du 
 
 [^chap8-sec3c-1]
 
-[^chap8-sec3c-1]: Introduite par le ch. 2 de l’annexe à la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^chap8-sec3c-1]: Introduite par l’annexe ch. 2 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
 #### Art. 40i
 

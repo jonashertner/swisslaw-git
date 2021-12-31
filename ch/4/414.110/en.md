@@ -3,11 +3,11 @@ sr: "414.110"
 title: Federal Act of 4 October 1991 on the Federal Institutes of Technology (ETH Act)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/210_210_210"
 language: en
-version: 2021-11-01
+version: 2022-01-01
 adopted: 1991-10-04
 in_force: 1993-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20211101/en/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20211101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20211101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (ETH Act)
 
-of 4 October 1991 (Status as of 1 November 2021)
+of 4 October 1991 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -110,12 +110,9 @@ The two federal institutes of technology and the four research institutes within
 
 #### Art. 4a
 
-**Insurance number for old-age and survivors’ insurance**[^4a-1]
+[^4a-1]
 
-For the purposes of discharging their statutory responsibilities, the institutions specified in Article 1.1 may systematically use individual insurance numbers of the old-age and survivors’ insurance scheme in accordance with the provisions of the Federal Act of 20 December 1946[^4a-2] on the Old-Age and Survivors’ Insurance.
-
-[^4a-1]: Inserted by Annex No 3 of FA of 23 June 2006 (New insurance number for old-age and survivors’ insurance), in force since 1 Dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^4a-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^4a-1]: Inserted by Annex No 3 of FA of 23 June 2006 (New Insurance Number for Old-age and Survivors’ Insurance) ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)). Repealed by Annex No 9 of the FA of 18 Dec. 2020 (Systematic Use of the OASI Number by Authorities), with effect from 1 Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 ## Chapter 2 Federal Institutes of Technology
 
@@ -717,7 +714,7 @@ The ETH Board shall have its own administrative staff.
 
 The ETHZ Assembly and the EPFL Assembly are each entitled to present motions on:
 
-- a, legislative instruments issued by the ETH Board or its subordinate bodies regarding the federal institute of technology concerned;
+- a. legislative instruments issued by the ETH Board or its subordinate bodies regarding the federal institute of technology concerned;
 - b. budgeting and planning and the creation/abolition of teaching and research units within the federal institute of technology concerned;
 - c. structural and participation issues.
 
@@ -1181,12 +1178,12 @@ The ETHZ and EPFL shall issue implementing provisions on:
 Provision may be made for the following disciplinary measures for serious or repeated disciplinary offences:
 
 - a. temporary exclusion from specific courses, examinations or premises;
-- b non-admission to a study level;
+- b. non-admission to a study level;
 - c. temporary exclusion from the federal institute of technology or the research institute;
 - d. permanent exclusion from the federal institute of technology or the research institute;
-- e. the withdrawal of an academic title if this has been acquired unlawfully by means of a disciplinary offence;
+- e. the withdrawal of an academic title if this has been acquired unlawfully by means of a disciplinary offence.
 
-<sup>4</sup> The two federal institutes of technology and the research institutes may notify each other about serious disciplinary offences.in individual cases in response to a written request
+<sup>4</sup> In individual cases in response to a written request the two federal institutes of technology and the research institutes may notify each other about serious disciplinary offences.
 
 [^37b-1]: Inserted by No I of the FA of 19 March 2021, in force since 1 Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
@@ -1200,7 +1197,7 @@ Any person who:
 
 - a. claims to be a lecturer at a federal institute of technology without being appointed as such;
 - b. uses the title of a qualification of a federal institute of technology that has not been conferred on him or her;
-- c. uses the title of a qualification that gives the impression that it was conferred on him or her by a federal institute of technology.
+- c. uses the title of a qualification that gives the impression that it was conferred on him or her by a federal institute of technology;
 
 <sup>2</sup> The prosecuting authority is the canton.
 

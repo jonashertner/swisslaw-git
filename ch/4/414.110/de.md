@@ -3,11 +3,11 @@ sr: "414.110"
 title: Bundesgesetz vom 4. Oktober 1991 über die Eidgenössischen Technischen Hochschulen (ETH-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/210_210_210"
 language: de
-version: 2021-11-01
+version: 2022-01-01
 adopted: 1991-10-04
 in_force: 1993-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20211101/de/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20211101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20211101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20211101/de"
 
 (ETH-Gesetz)
 
-vom 4. Oktober 1991 (Stand am 1. November 2021)
+vom 4. Oktober 1991 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -108,12 +108,9 @@ Die ETH und die Forschungsanstalten können im Rahmen der strategischen Ziele de
 
 #### Art. 4a
 
-**Versichertennummer der Alters- und Hinterlassenenversicherung**[^4a-1]
+[^4a-1]
 
-Die Anstalten nach Artikel 1 Absatz 1 sind berechtigt, die Versichertennummer der Alters- und Hinterlassenenversicherung nach den Bestimmungen des Bundesgesetzes vom 20. Dezember 1946[^4a-2] über die Alters- und Hinterlassenenversicherung für die Erfüllung ihrer gesetzlichen Aufgaben systematisch zu verwenden.
-
-[^4a-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 23. Juni 2006 (Neue AHV-Versicherten-nummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^4a-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^4a-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 23. Juni 2006 (Neue AHV-Versicherten-nummer) ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)). Aufgehoben durch Anhang Ziff. 9 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), mit Wirkung seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 ## 2. Kapitel: Eidgenössische Technische Hochschulen
 
@@ -129,7 +126,7 @@ Die Anstalten nach Artikel 1 Absatz 1 sind berechtigt, die Versichertennummer de
 
 <sup>3</sup> An den ETH besteht Lehr-, Lern- und Forschungsfreiheit.
 
-<sup>4</sup> …[^5-1]
+<sup>4</sup> ...[^5-1]
 
 [^5-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
@@ -278,7 +275,7 @@ Angehörige der Hochschulen sind:
 
 <sup>1</sup> Die Schulleitung stellt Assistenten für eine zeitlich begrenzte Tätigkeit in Lehre und Forschung an. Die Assistenten haben Gelegenheit, sich durch Forschung oder den Besuch von Lehrveranstaltungen weiterzubilden.
 
-<sup>2</sup> und <sup>3</sup> …[^15-2]
+<sup>2</sup> und <sup>3</sup> ...[^15-2]
 
 [^15-1]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^15-2]: Aufgehoben durch Ziff. I des BG vom 21. März 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
@@ -663,7 +660,7 @@ Der ETH-Rat verfügt über einen Stab.
 
 <sup>2</sup> Der ETH-Rat legt die Organisation der ETH in ihren Grundzügen fest.[^27-1]
 
-<sup>3</sup> …[^27-2]
+<sup>3</sup> ...[^27-2]
 
 [^27-1]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^27-2]: Aufgehoben durch Anhang Ziff. 2 des BG vom 14. Dez. 2012, mit Wirkung seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
@@ -1220,7 +1217,7 @@ Mit Busse wird bestraft, wer:[^38-1]
 
 #### Art. 39
 
-**…[^39-1]**
+**...[^39-1]**
 
 <sup>1</sup> Der Bundesrat übt die Oberaufsicht über die ETH und die Forschungsanstalten aus.
 
@@ -1252,12 +1249,12 @@ Es werden aufgehoben:
 
 <sup>2</sup> Die nachstehenden Erlasse werden wie folgt geändert:
 
-…[^40-8]
+...[^40-8]
 
 [^40-1]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^40-2]: [BS **4** 103; [AS 1959 535](https://fedlex.data.admin.ch/eli/oc/1959/535_557_533), [1970 1089](https://fedlex.data.admin.ch/eli/oc/1970/1089_1085_1085)Art. 17, [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)Art. 70]
+[^40-2]: [BS **4** 103; [AS 1959 535](https://fedlex.data.admin.ch/eli/oc/1959/535_557_533); [1970 1089](https://fedlex.data.admin.ch/eli/oc/1970/1089_1085_1085)Art. 17; [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)Art. 70]
 [^40-3]: [[AS 1965 417](https://fedlex.data.admin.ch/eli/oc/1965/417_421_415)]
-[^40-4]: [[AS 1970 1089](https://fedlex.data.admin.ch/eli/oc/1970/1089_1085_1085), [1975 1759](https://fedlex.data.admin.ch/eli/oc/1975/1759_1759_1759), [1980 886](https://fedlex.data.admin.ch/eli/oc/1980/886_886_886), [1991 2276](https://fedlex.data.admin.ch/eli/oc/1991/2276_2276_2276)]
+[^40-4]: [[AS 1970 1089](https://fedlex.data.admin.ch/eli/oc/1970/1089_1085_1085); [1975 1759](https://fedlex.data.admin.ch/eli/oc/1975/1759_1759_1759); [1980 886](https://fedlex.data.admin.ch/eli/oc/1980/886_886_886); [1991 2276](https://fedlex.data.admin.ch/eli/oc/1991/2276_2276_2276)]
 [^40-5]: [[AS 1975 1759](https://fedlex.data.admin.ch/eli/oc/1975/1759_1759_1759)]
 [^40-6]: [[AS 1980 886](https://fedlex.data.admin.ch/eli/oc/1980/886_886_886)]
 [^40-7]: [[AS 1985 1452](https://fedlex.data.admin.ch/eli/oc/1985/1452_1452_1452)]
@@ -1363,7 +1360,7 @@ Laufende Amtsperioden der übrigen Mitglieder der Schulleitungen (Art. 28 Abs. 4
 
 #### Art. 41
 
-**…[^41-1]**
+**...[^41-1]**
 
 <sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
 

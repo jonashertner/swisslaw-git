@@ -3,11 +3,11 @@ sr: "414.110"
 title: Legge federale del 4 ottobre 1991 sui politecnici federali (Legge sui PF)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/210_210_210"
 language: it
-version: 2021-11-01
+version: 2022-01-01
 adopted: 1991-10-04
 in_force: 1993-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20211101/it/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20211101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20211101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20211101/it"
 
 (Legge sui PF)
 
-del 4 ottobre 1991 (Stato 1° novembre 2021)
+del 4 ottobre 199 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -108,12 +108,9 @@ Nell’ambito degli obiettivi strategici definiti dal Consiglio federale per il 
 
 #### Art. 4a
 
-**Numero d’assicurato dell’assicurazione vecchiaia e superstiti**[^4a-1]
+[^4a-1]
 
-Per adempiere i loro compiti legali, gli istituti di cui all’articolo 1 capoverso 1 sono autorizzati a utilizzare sistematicamente il numero d’assicurato dell’assicurazione vecchiaia e superstiti conformemente alle disposizioni della legge federale del 20 dicembre 1946[^4a-2] sull’assicurazione per la vecchiaia e per i superstiti.
-
-[^4a-1]: Introdotto dall’all. n. 3 della del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^4a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^4a-1]: Introdotto dall’all. n. 3 della del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS) ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)). Abrogato dal’all. n. 9 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 ## Capitolo 2: Politecnici federali
 
