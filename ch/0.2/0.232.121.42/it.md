@@ -3,11 +3,11 @@ sr: "0.232.121.42"
 title: "Regolamento d'esecuzione del 30 settembre 2003 relativo all’Accordo dell’Aja concernente la registrazione internazionale dei disegni e modelli industriali (con tariffe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/236"
 language: it
-version: 2021-02-01
+version: 2022-01-01
 adopted: 2003-09-30
 in_force: 2004-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2006-236-20210201-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20210201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2006-236-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Adottato dall’Assemblea dell’Unione dell’Aja il 30 settembre 2003 Entrato in vigore il 1° aprile 2004
 
-(Stato 1° febbraio 2021)
+(Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 30 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2014 547](https://fedlex.data.admin.ch/eli/oc/2014/110)).
 
@@ -122,26 +122,21 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 
 [^chap1-lvlu5-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja dell’11 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
 
-\1) [*Comunicazioni inviate mediante un servizio postale*] L’inosservanza, ad opera di una parte interessata, del termine per una comunicazione indirizzata all’Ufficio internazionale e spedita mediante un servizio postale è scusata, se la parte interessata fornisce la prova, in modo soddisfacente per l’Ufficio internazionale, che
+\1) [*Giustificazione dei ritardi nell’osservanza dei termini dovuti a motivi di forza maggiore*] L’inosservanza, ad opera di una parte interessata, di un termine previsto dal presente regolamento d’esecuzione per il compimento di un atto dinanzi all’Ufficio internazionale è giustificata se la parte interessata fornisce la prova, in modo soddisfacente per l’Ufficio internazionale, che tale termine non è stato osservato a causa di guerra, di rivoluzione, di disordini civili, di sciopero, di catastrofe naturale, di epidemia o di perturbazioni nel servizio postale, nella spedizione della corrispondenza o nella comunicazione elettronica dovute a circostanze indipendenti dalla sua volontà o ad altri motivi di forza maggiore.[^chap1-lvlu5-2]
 
-- i) la comunicazione è stata spedita almeno cinque giorni prima della scadenza del termine o, se il servizio postale è stato interrotto a causa di guerra, di rivoluzione, di disordini civili, di sciopero, di catastrofe naturale o di altri motivi analoghi in uno qualsiasi dei dieci giorni precedenti la data di scadenza del termine, che la comunicazione è stata spedita al più tardi cinque giorni dopo la ripresa del servizio postale;
-- ii) la spedizione della comunicazione è stata effettuata dal servizio postale con invio raccomandato o che i dati relativi alla spedizione sono stati registrati dal servizio postale al momento della spedizione; e
-- iii) se in certe categorie il corriere non arriva di regola all’Ufficio internazionale entro due giorni dalla spedizione, la comunicazione è stata spedita in una categoria che di regola arriva all’Ufficio internazionale entro due giorni dalla spedizione o è stata spedita per posta aerea.
+\2) [Esenzione *dalla prova; Dichiarazione sostitutiva della prova*] L’Ufficio internazionale può rinunciare a esigere che sia fornita una prova secondo il capoverso 1). In questo caso la parte interessata deve presentare una dichiarazione secondo la quale l’inosservanza del termine è riconducibile al motivo per cui l’Ufficio internazionale ha rinunciato a esigere una prova.[^chap1-lvlu5-3]
 
-\2) [*Comunicazioni inviate mediante una ditta di spedizione della corrispondenza*] L’inosservanza, ad opera di una parte interessata, del termine per una comunicazione indirizzata all’Ufficio internazionale e spedita mediante una ditta di spedizione è scusata, se la parte interessata fornisce la prova, in modo soddisfacente per l’Ufficio internazionale, che
+\3) [*Limiti alla giustificazione*] L’inosservanza di un termine è scusata in virtù della presente regola unicamente se la prova di cui al capoverso 1), o la dichiarazione di cui al capoverso 2), è ricevuta dall’Ufficio internazionale e l’atto corrispondente è compiuto dinanzi ad esso, non appena ciò sia ragionevolmente possibile e al più tardi sei mesi dopo la scadenza del termine.[^chap1-lvlu5-4]
 
-- i) la comunicazione è stata spedita almeno cinque giorni prima della scadenza del termine o, se il funzionamento della ditta di spedizione è stato interrotto a causa di guerra, di rivoluzione, di disordini civili, di catastrofe naturale o di altri motivi analoghi in uno qualsiasi dei dieci giorni precedenti la data di scadenza del termine, che la comunicazione è stata spedita al più tardi cinque giorni dopo la ripresa del funzionamento della ditta di spedizione; e
-- ii) i dati relativi alla spedizione sono stati registrati dalla ditta di spedizione del corriere al momento della spedizione dell’invio.
+\4) [*Limiti alla giustificazione*] L’inosservanza di un termine è scusata in virtù della presente regola unicamente se la prova di cui ai capoversi 1), 2) o 3) e la comunicazione o, se del caso, una copia di essa pervengono all’Ufficio internazionale al più tardi sei mesi dopo la scadenza del termine.[^chap1-lvlu5-5]
 
-\3) [*Comunicazioni inviate per via elettronica*] L’inosservanza, ad opera di una parte interessata, del termine per una comunicazione indirizzata all’Ufficio internazionale e inviata per via elettronica è scusata se la parte interessata fornisce la prova, in modo soddisfacente per l’Ufficio internazionale, che il termine non è stato osservato a causa di problemi, dovuti a circostanze straordinarie indipendenti dalla sua volontà, che hanno interessato la località nella quale essa è stabilita o le comunicazioni elettroniche con l’Ufficio internazionale e che la comunicazione è stata inviata al più tardi cinque giorni dopo la ripresa del servizio di comunicazione elettronica.[^chap1-lvlu5-2]
+\5) [*Eccezione*] La presente regola non si applica al pagamento della seconda rata dell’emolumento di designazione individuale per il tramite dell’Ufficio internazionale di cui alla regola 12.3)c).[^chap1-lvlu5-6]
 
-\4) [*Limiti alla giustificazione*] L’inosservanza di un termine è scusata in virtù della presente regola unicamente se la prova di cui ai capoversi 1), 2) o 3) e la comunicazione o, se del caso, una copia di essa pervengono all’Ufficio internazionale al più tardi sei mesi dopo la scadenza del termine.[^chap1-lvlu5-3]
-
-\5) [*Eccezione*] La presente regola non si applica al pagamento della seconda rata dell’emolumento di designazione individuale per il tramite dell’Ufficio internazionale di cui alla regola 12.3)c).[^chap1-lvlu5-4]
-
-[^chap1-lvlu5-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja dell’11 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
-[^chap1-lvlu5-3]: Introdotto dalla Dec. dell’Assemblea dell’Unione dell’Aja dell’11 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
-[^chap1-lvlu5-4]: Introdotto dalla Dec. dell’Assemblea dell’Unione dell’Aja dell’11 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
+[^chap1-lvlu5-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^chap1-lvlu5-3]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^chap1-lvlu5-4]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^chap1-lvlu5-5]: Introdotto dalla Dec. dell’Assemblea dell’Unione dell’Aja dell’11 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
+[^chap1-lvlu5-6]: Introdotto dalla Dec. dell’Assemblea dell’Unione dell’Aja dell’11 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
 
 ### **Regola 6**Lingue
 
@@ -283,7 +278,7 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
   - iii) per le parti contraenti il cui Ufficio procede a un esame materiale, ivi incluso un esame d’ufficio della novità o un esame della novità in caso di opposizione da parte di terzi: livello tre.
 
 - c) i) Ogni parte contraente abilitata dalla propria legislazione ad applicare i livelli due o tre di cui alla lettera b) può notificare il fatto al Direttore generale mediante una dichiarazione. Nella dichiarazione, una parte contraente può altresì precisare che opta per l’applicazione del livello due, anche se la propria legislazione la abilita ad applicare il livello tre.
-  - ii) Ogni dichiarazione di cui al punto i) ha effetto dopo tre mesi dalla data in cui è pervenuta al Direttore generale o a partire da qualsiasi data posteriore indicatavi. Può altresì essere ritirata in qualsiasi momento mediante una notifica indirizzata al Direttore generale; in tal caso, il ritiro ha effetto dopo un mese dalla data in cui la notifica perviene al Direttore generale o a qualsiasi data posteriore indicata nella notifica. In assenza di una tale dichiarazione oppure se la dichiarazione è stata ritirata, il livello uno è considerato applicabile all’emolumento di designazione standard per la parte contraente in questione.[^chap2-lvlu6-1]
+- ii) Ogni dichiarazione di cui al punto i) ha effetto dopo tre mesi dalla data in cui è pervenuta al Direttore generale o a partire da qualsiasi data posteriore indicatavi. Può altresì essere ritirata in qualsiasi momento mediante una notifica indirizzata al Direttore generale; in tal caso, il ritiro ha effetto dopo un mese dalla data in cui la notifica perviene al Direttore generale o a qualsiasi data posteriore indicata nella notifica. In assenza di una tale dichiarazione oppure se la dichiarazione è stata ritirata, il livello uno è considerato applicabile all’emolumento di designazione standard per la parte contraente in questione.[^chap2-lvlu6-1]
 
 \2) [*Momento del pagamento degli emolumenti*] Fatto salvo il capoverso 3), gli emolumenti di cui al capoverso 1) vanno pagati al momento del deposito della domanda internazionale, tranne l’emolumento di pubblicazione che può essere pagato successivamente conformemente alla regola 16.3) a), nel caso in cui la domanda internazionale contiene una richiesta di differimento della pubblicazione.
 
@@ -294,7 +289,7 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 - c) La seconda rata dell’emolumento di designazione individuale può essere pagata, a scelta del titolare, sia direttamente all’Ufficio interessato, sia per il tramite dell’Ufficio internazionale. Nel primo caso, l’Ufficio interessato notifica il fatto all’Ufficio internazionale, e l’Ufficio internazionale iscrive la notifica nel registro internazionale. Nel secondo caso, l’Ufficio internazionale iscrive la notifica nel registro internazionale e notifica il fatto all’Ufficio interessato.
 - d) Se la seconda rata dell’emolumento di designazione individuale non è pagata entro il termine applicabile, l’Ufficio interessato notifica il fatto all’Ufficio internazionale e chiede all’Ufficio internazionale di cancellare, nel registro internazionale, l’iscrizione della registrazione internazionale nei confronti della parte contraente interessata. L’Ufficio internazionale dà seguito alla richiesta e notifica il fatto al titolare.
 
-[^chap2-lvlu6-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 3 ott. 2007, in vigore dal 1° gen. 2008 ([RO 2025 422](https://fedlex.data.admin.ch/eli/oc/2025/422)).
+[^chap2-lvlu6-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 3 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2025 422](https://fedlex.data.admin.ch/eli/oc/2025/422)).
 
 ### **Regola 13**Domanda internazionale depositata per il tramite di un Ufficio
 
@@ -372,14 +367,17 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 \1) [*Data della pubblicazione*] La registrazione internazionale è pubblicata:
 
 - i) se il depositario lo chiede, subito dopo la registrazione;
-- ii) se è stato chiesto il differimento della pubblicazione e la richiesta è stata accettata, subito dopo la data in cui è scaduto il periodo di differimento o in cui tale periodo è considerato scaduto;
-- iii) in tutti gli altri casi, sei mesi dopo la data della registrazione internazionale o appena possibile dopo tale data.
+- ii) fatto salvo il punto ii<sup>bis</sup>, se è stato chiesto il differimento della pubblicazione e la richiesta è stata accettata, subito dopo la data in cui è scaduto il periodo di differimento;
+- ii<sup>bis</sup>) se il depositario lo chiede, subito dopo la ricezione da parte dell’Ufficio internazionale di una tale richiesta;
+- iii) in tutti gli altri casi, 12 mesi dopo la data della registrazione internazionale o appena possibile dopo tale data.[^chap2-lvlu11-1]
 
 \2) [*Contenuto della pubblicazione*] La pubblicazione della registrazione internazionale nel bollettino deve contenere:
 
 - i) i dati iscritti nel registro internazionale;
 - ii) la o le raffigurazioni del disegno o modello industriale;
 - iii) se la pubblicazione è stata differita, l’indicazione della data in cui scade il periodo di differimento o in cui tale periodo è considerato scaduto.
+
+[^chap2-lvlu11-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
 
 ## Capitolo 3: Rifiuto e invalidazione
 
@@ -526,18 +524,18 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
   - iii) una rinuncia alla registrazione internazionale nei confronti di una, di più o della totalità delle parti contraenti designate;
   - iv) una limitazione, nei confronti di una, di più o della totalità delle parti contraenti designate, riguardante tutti o una parte dei disegni o modelli industriali oggetto della registrazione internazionale.
 
-- b)
+- b)[^chap4-lvlu1-1]
 
   La domanda deve essere presentata e firmata dal titolare; una domanda d’iscrizione del cambiamento del titolare può tuttavia essere presentata dal nuovo proprietario, a condizione che sia:
 
   - i) firmata dal titolare; o
-  - ii) firmata dal nuovo proprietario e accompagnata da un’attestazione dell’autorità competente della parte contraente del titolare in base alla quale il nuovo proprietario risulta essere l’avente causa del titolare.
+  - ii) firmata dal nuovo proprietario e accompagnata da un documento che dimostri che il nuovo proprietario risulta essere l’avente causa del titolare.
 
 \2) [*Contenuto della domanda*] La domanda d’iscrizione di una modifica deve contenere o indicare, oltre alla modifica richiesta:
 
-- i)[^chap4-lvlu1-1] il numero della registrazione internazionale in questione;
-- ii)[^chap4-lvlu1-2] il nome del titolare, tranne se la modifica riguarda il nome e l’indirizzo del rappresentante;
-- iii)[^chap4-lvlu1-3] in caso di cambiamento del titolare della registrazione internazionale, il nome e l’indirizzo, indicati conformemente alle istruzioni amministrative, nonché l’indirizzo di posta elettronica del nuovo proprietario della registrazione internazionale;
+- i)[^chap4-lvlu1-2] il numero della registrazione internazionale in questione;
+- ii)[^chap4-lvlu1-3] il nome del titolare, tranne se la modifica riguarda il nome e l’indirizzo del rappresentante;
+- iii)[^chap4-lvlu1-4] in caso di cambiamento del titolare della registrazione internazionale, il nome e l’indirizzo, indicati conformemente alle istruzioni amministrative, nonché l’indirizzo di posta elettronica del nuovo proprietario della registrazione internazionale;
 - iv) in caso di cambiamento del titolare della registrazione internazionale, la o le parti contraenti nei confronti delle quali il nuovo proprietario adempie le condizioni per essere il titolare di una registrazione internazionale;
 - v) in caso di cambiamento del titolare della registrazione internazionale che non concerne tutti i disegni o modelli industriali e tutte le parti contraenti, i numeri dei disegni o modelli industriali e le parti contraenti designate interessate dal cambiamento del titolare; e
 - vi) l’importo degli emolumenti pagati e il modo di pagamento oppure le istruzioni atte a permettere il prelievo di tale importo dal conto aperto presso l’Ufficio internazionale, nonché l’identità dell’autore del pagamento o delle istruzioni.
@@ -552,14 +550,17 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 
 - a) Se la domanda è regolare, l’Ufficio internazionale iscrive senza tardare la modifica nel registro internazionale e ne informa il titolare. Trattandosi dell’iscrizione di un cambiamento del titolare, l’Ufficio internazionale informa sia il nuovo titolare che il titolare precedente.
 - b) La modifica va iscritta alla data in cui la domanda che adempie le condizioni richieste perviene all’Ufficio internazionale. Tuttavia, se la domanda indica che la modifica deve essere iscritta dopo un’altra modifica o dopo il rinnovo della registrazione internazionale, l’Ufficio internazionale acconsente a tale richiesta.
+- c)[^chap4-lvlu1-5] Se un cambiamento di titolare è iscritto a seguito di una domanda presentata dal nuovo proprietario in virtù del capoverso 1) b) ii) e se il precedente titolare si oppone a tale cambiamento rivolgendosi per scritto all’Ufficio internazionale, il cambiamento è considerato non iscritto. L’Ufficio internazionale lo notifica alle due parti.
 
 \7) [*Iscrizione di un cambiamento parziale del titolare*] La cessione o qualsiasi altra trasmissione della registrazione internazionale per una parte soltanto dei disegni o modelli industriali o soltanto per alcune parti contraenti designate è iscritta nel registro internazionale sotto il numero della registrazione internazionale da cui la parte è stata ceduta o trasmessa; la parte ceduta o trasmessa è cancellata sotto il numero di detta registrazione internazionale ed è oggetto di una registrazione internazionale separata. Tale registrazione internazionale separata porta il numero della registrazione internazionale da cui la parte è stata ceduta o trasmessa, accompagnato da una lettera maiuscola.
 
 \8) [*Iscrizione della fusione di registrazioni internazionali*] Se, in seguito a un cambiamento parziale del titolare, la medesima persona diventa titolare di più registrazioni internazionali, su domanda di tale persona tali registrazioni sono fuse e i capoversi 1)–6) sono applicabili *mutatis mutandi*s. La registrazione internazionale risultante dalla fusione porta il numero della registrazione internazionale da cui la parte è stata ceduta o trasmessa, accompagnato, all’occorrenza, da una lettera maiuscola.
 
-[^chap4-lvlu1-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
+[^chap4-lvlu1-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
 [^chap4-lvlu1-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
 [^chap4-lvlu1-3]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
+[^chap4-lvlu1-4]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
+[^chap4-lvlu1-5]: Introdotta dalla Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
 
 ### **Regola 21**<sup>bis</sup> Dichiarazione secondo cui un cambiamento di titolare è senza effetti
 
@@ -812,7 +813,10 @@ Ogni emolumento di designazione standard o di designazione individuale pagato al
 
 \2) [*Disposizione transitoria relativa alle lingue*] La regola 6 come era applicabile prima del 1° aprile 2010 rimane applicabile nei confronti di una domanda internazionale depositata prima di tale data e della registrazione internazionale che ne risulta.
 
+\3) [*Disposizione transitoria relativa alla data di pubblicazione*] La regola 17 1) iii) in vigore prima del 1° gennaio 2022 resta applicabile a tutte le registrazioni internazionali risultanti da una domanda internazionale depositata prima di questa data.[^chap9-lvlu6-3]
+
 [^chap9-lvlu6-2]: [CS **11** 1005; RU **1975** 1599. [RU 2010 403](https://fedlex.data.admin.ch/eli/oc/2010/47)]
+[^chap9-lvlu6-3]: Introdotto dalla Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
 
 Tariffe[^t-2]
 
@@ -827,12 +831,11 @@ Tariffe[^t-2]
 <tr><td>1. Tassa di base[^annexu1-lvlI-1]\*</td><td></td></tr>
 <tr><td>1.1 Per un disegno o modello</td><td>397.–</td></tr>
 <tr><td>1.2 Per ogni disegno o modello supplementare compreso nella stessa domanda internazionale</td><td>19.–</td></tr>
-<tr><td>2. Tassa di pubblicazione<sup>\*</sup></td><td></td></tr>
+<tr><td>2. Tassa di pubblicazione[^annexu1-lvlI-2]\*</td><td></td></tr>
 <tr><td>2.1 Per ogni raffigurazione da pubblicare</td><td>17.–</td></tr>
-<tr><td>2.2 Per ogni raffigurazione da pubblicare a colori</td><td>75.–</td></tr>
-<tr><td>2.3 Per ogni pagina supplementare sulla quale sono presentateuna o più raffigurazioni (quando le raffigurazioni sono presentate su carta)</td><td>150.–</td></tr>
+<tr><td>2.2 Per ogni pagina supplementare sulla quale sono presentate una o più raffigurazioni (quando le raffigurazioni sono presentate su carta)</td><td>150.–</td></tr>
 <tr><td>3. Tassa supplementare se la descrizione supera le 100 parole (per parola)<sup>\*</sup></td><td>2.–</td></tr>
-<tr><td>4. Tassa di designazione standard[^annexu1-lvlI-2]\*\*</td><td></td></tr>
+<tr><td>4. Tassa di designazione standard[^annexu1-lvlI-3]\*\*</td><td></td></tr>
 <tr><td>4.1 Quando si applica il livello uno:</td><td></td></tr>
 <tr><td>4.1.1 Per un disegno o modello</td><td>42.–</td></tr>
 <tr><td>4.1.2 Per ogni disegno o modello supplementare compreso nella stessa domanda internazionale</td><td>2.–</td></tr>
@@ -846,12 +849,13 @@ Tariffe[^t-2]
 
 <table>
 <tr><th></th><th>Franchi svizzeri</th></tr>
-<tr><td>5. Tassa di designazione individuale (l’importo della tassa di designazione individuale è fissato da ogni parte contraente interessata)[^annexu1-lvlI-3]\*\*\*</td><td></td></tr>
+<tr><td>5. Tassa di designazione individuale (l’importo della tassa di designazione individuale è fissato da ogni parte contraente interessata)[^annexu1-lvlI-4]\*\*\*</td><td></td></tr>
 </table>
 
-[^annexu1-lvlI-1]: <sup>\*</sup> Per le domande internazionali depositate da depositanti il cui diritto a tale riguardo deriva esclusivamente da un legame con un paese della categoria di paesi meno avanzati (PMA), conformemente alla lista allestita dall’Organizzazione delle Nazioni Unite, o a un’organizzazione intergovernativa la cui maggioranza di Stati membri sono PMA, le tasse dovute all’Ufficio internazionale sono ridotte al 10 % dell’importo prescritto (arrotondato al numero intero più vicino). Tale riduzione si applica altresì nei confronti di una domanda internazionale depositata da un depositante il cui diritto a tale riguardo non deriva esclusivamente da un legame con un’organizzazione intergovernativa di questo genere, purché qualsiasi altro diritto del depositante a tale riguardo derivi da un legame con una parte contraente che appartiene alla categoria dei PMA o, se ciò non è il caso, che è uno Stato membro di tale organizzazione intergovernativa, e purché, in tal caso, la domanda internazionale sia retta esclusivamente dall’Atto del 1999. In caso di pluralità di depositanti ognuno di essi deve soddisfare questi criteri. – Qualora sia applicata questa riduzione di tassa, la tassa di base ammonta a 40 franchi svizzeri (per un disegno o modello) ed a 2 franchi svizzeri (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale), la tassa di pubblicazione ammonta a 2 franchi svizzeri per ogni raffigurazione ed a 15 franchi svizzeri per ogni pagina in più della prima in cui sono presentate una o più raffigurazioni, e la tassa supplementare quando la descrizione supera le 100 parole ammonta a 1 franco svizzero per ogni gruppo di cinque parole in più della centesima parola.
-[^annexu1-lvlI-2]: <sup>\*\*</sup> Per le domande internazionali depositate da depositanti il cui diritto a tale riguardo deriva esclusivamente da un legame con un paese della categoria di paesi meno avanzati (PMA), conformemente alla lista allestita dall’Organizzazione delle Nazioni Unite, o a un’organizzazione intergovernativa la cui maggioranza di Stati membri sono PMA, le tasse dovute all’Ufficio internazionale sono ridotte al 10 % del’importo prescritto (arrotondato al numero intero più vicino). Tale riduzione si applica altresì nei confronti di una domanda internazionale depositata da un depositante il cui diritto a tale riguardo non deriva esclusivamente da un legame con un’organizzazione intergovernativa di questo genere, purché qualsiasi altro diritto del depositante a tale riguardo derivi da un legame con una parte contraente che appartiene alla categoria dei PMA o, se ciò non è il caso, che è uno Stato membro di tale organizzazione intergovernativa, e purché, in tal caso, la domanda internazionale sia retta esclusivamente dall’Atto del 1999. In caso di pluralità di depositanti ognuno di essi deve soddisfare questi criteri. – Qualora sia applicata questa riduzione di tassa, la tassa di designazione standard ammonta a 4 franchi svizzeri (per un disegno o modello) ed a 1 franco svizzero (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale) per il livello uno, a 6 franchi svizzeri (per un disegno o modello) ed a 2 franchi svizzeri (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale) per il livello due ed a 9 franchi svizzeri (per un disegno o modello) ed a 5 franchi svizzeri (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale per il livello tre.
-[^annexu1-lvlI-3]: <sup>\*\*\*</sup> [Nota dell’OMPI]: Raccomandazione adottata dall’Assemblea dell’Unione dell’Aja: – «Le parti contraenti che effettuano, o hanno effettuato, la dichiarazione prevista all’articolo 7.2) dell’Atto del 1999 o alla regola 36.1) del regolamento d’esecuzione comune sono invitate a indicare, in tale dichiarazione o in una nuova dichiarazione, che, per le domande internazionali depositate da depositanti il cui diritto a tale riguardo deriva esclusivamente da un legame con un paese della categoria dei paesi meno avanzati, conformemente alla lista allestita dall’Organizzazione delle Nazioni Unite, o a un’organizzazione intergovernativa la cui maggioranza di Stati membri sono paesi della categoria dei paesi meno avanzati, la tassa individuale da pagare per la loro designazione è ridotta al 10% dell’importo e normalmente riscosso (arrotondato, all’occorrenza, al numero intero più vicino). Tali parti contraenti sono inoltre invitate a indicare che la riduzione si applica altresì nei confronti di una domanda internazionale depositata da un depositante il cui diritto a tale riguardo non deriva esclusivamente da un legame con un’organizzazione intergovernativa di questo genere, purché qualsiasi altro diritto del depositante a tale riguardo derivi da un legame con una parte contraente che appartiene alla categoria dei paesi meno avanzati o, se ciò non è il caso, che è uno Stato membro di tale organizzazione intergovernativa e purché, in tal caso, la domanda internazionale sia retta esclusivamente dall’Atto del 1999».
+[^annexu1-lvlI-1]: Per le domande internazionali depositate da depositanti il cui diritto a tale riguardo deriva esclusivamente da un legame con un paese della categoria di paesi meno avanzati (PMA), conformemente alla lista allestita dall’Organizzazione delle Nazioni Unite, o a un’organizzazione intergovernativa la cui maggioranza di Stati membri sono PMA, le tasse dovute all’Ufficio internazionale sono ridotte al 10 % dell’importo prescritto (arrotondato al numero intero più vicino). Tale riduzione si applica altresì nei confronti di una domanda internazionale depositata da un depositante il cui diritto a tale riguardo non deriva esclusivamente da un legame con un’organizzazione intergovernativa di questo genere, purché qualsiasi altro diritto del depositante a tale riguardo derivi da un legame con una parte contraente che appartiene alla categoria dei PMA o, se ciò non è il caso, che è uno Stato membro di tale organizzazione intergovernativa, e purché, in tal caso, la domanda internazionale sia retta esclusivamente dall’Atto del 1999. In caso di pluralità di depositanti ognuno di essi deve soddisfare questi criteri. – Qualora sia applicata questa riduzione di tassa, la tassa di base ammonta a 40 franchi svizzeri (per un disegno o modello) ed a 2 franchi svizzeri (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale), la tassa di pubblicazione ammonta a 2 franchi svizzeri per ogni raffigurazione ed a 15 franchi svizzeri per ogni pagina in più della prima in cui sono presentate una o più raffigurazioni, e la tassa supplementare quando la descrizione supera le 100 parole ammonta a 1 franco svizzero per ogni gruppo di cinque parole in più della centesima parola.
+[^annexu1-lvlI-2]: 
+[^annexu1-lvlI-3]: <sup>\*\*</sup> Per le domande internazionali depositate da depositanti il cui diritto a tale riguardo deriva esclusivamente da un legame con un paese della categoria di paesi meno avanzati (PMA), conformemente alla lista allestita dall’Organizzazione delle Nazioni Unite, o a un’organizzazione intergovernativa la cui maggioranza di Stati membri sono PMA, le tasse dovute all’Ufficio internazionale sono ridotte al 10 % del’importo prescritto (arrotondato al numero intero più vicino). Tale riduzione si applica altresì nei confronti di una domanda internazionale depositata da un depositante il cui diritto a tale riguardo non deriva esclusivamente da un legame con un’organizzazione intergovernativa di questo genere, purché qualsiasi altro diritto del depositante a tale riguardo derivi da un legame con una parte contraente che appartiene alla categoria dei PMA o, se ciò non è il caso, che è uno Stato membro di tale organizzazione intergovernativa, e purché, in tal caso, la domanda internazionale sia retta esclusivamente dall’Atto del 1999. In caso di pluralità di depositanti ognuno di essi deve soddisfare questi criteri. – Qualora sia applicata questa riduzione di tassa, la tassa di designazione standard ammonta a 4 franchi svizzeri (per un disegno o modello) ed a 1 franco svizzero (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale) per il livello uno, a 6 franchi svizzeri (per un disegno o modello) ed a 2 franchi svizzeri (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale) per il livello due ed a 9 franchi svizzeri (per un disegno o modello) ed a 5 franchi svizzeri (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale per il livello tre.
+[^annexu1-lvlI-4]: <sup>\*\*\*</sup> [Nota dell’OMPI]: Raccomandazione adottata dall’Assemblea dell’Unione dell’Aja: «Le parti contraenti che effettuano, o hanno effettuato, la dichiarazione prevista all’articolo 7.2) dell’Atto del 1999 o dalla regola 36.1) del regolamento d’esecuzione comune sono invitate a indicare, in tale dichiarazione o in una nuova dichiarazione, che, per le domande internazionali depositate da depositanti il cui diritto a tale riguardo deriva esclusivamente da un legame con un paese della categoria dei paesi meno avanzati, conformemente alla lista allestita dall’Organizzazione delle Nazioni Unite, la tassa individuale da pagare per la loro designazione è ridotta al 10 % dell’importo normalmente riscosso (arrotondato, all’occorrenza, al numero intero più vicino)».
 
 ## II …
 

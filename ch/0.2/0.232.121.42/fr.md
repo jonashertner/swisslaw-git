@@ -3,11 +3,11 @@ sr: "0.232.121.42"
 title: "Règlement d'exécution du 30 septembre 2003 de l’Acte de Genève (1999) de l’Arrangement de La Haye concernant l’enregistrement international des dessins et modèles industriels (avec barème)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/236"
 language: fr
-version: 2021-02-01
+version: 2022-01-01
 adopted: 2003-09-30
 in_force: 2004-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2006-236-20210201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-236-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Adopté par l’Assemblée de l’Union de La Haye le 30 septembre 2003
 
 Entré en vigueur le 1<sup>er</sup> avril 2004
 
-(État le 1<sup>er</sup> février 2021)
+(État le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 30 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2014 547](https://fedlex.data.admin.ch/eli/oc/2014/110)).
 
@@ -126,27 +126,22 @@ Les communications adressées au Bureau international doivent être effectuées 
 
 **Excuse de retard dans l’observation de délais[^5-1]**
 
-\1) [*Communications envoyées par l’intermédiaire d’un service postal*] L’inobservation, par une partie intéressée, d’un délai pour une communication adressée au Bureau international et expédiée par l’intermédiaire d’un service postal est excusée si la partie intéressée apporte la preuve, d’une façon satisfaisante pour le Bureau international, que
+\1) [*Excuse de retard dans l’observation de délais dû à des causes de force majeure*] L’inobservation, par une partie intéressée, d’un délai prévu dans le règlement d’exécution pour l’accomplissement d’un acte devant le Bureau international est excusée si la partie intéressée apporte la preuve, d’une façon satisfaisante pour le Bureau international, que ce délai n’a pas été respecté pour raison de guerre, de révolution, de désordre civil, de grève, de calamité naturelle, d’épidémie, de perturbations dans les services postaux, d’acheminement du courrier ou de communication électronique dues à des circonstances indépendantes de la volonté de la partie intéressée ou à une autre cause de force majeure.[^5-2]
 
-\2) [*Communications envoyées par l’intermédiaire d’une entreprise d’acheminement du courrier*] L’inobservation, par une partie intéressée, d’un délai pour une communication adressée au Bureau international et envoyée par l’intermédiaire d’une entreprise d’acheminement du courrier est excusée si la partie intéressée apporte la preuve, d’une façon satisfaisante pour le Bureau international, que
+\2) [*Dispense de preuve; Déclaration en lieu et place de la preuve*] Le Bureau international peut renoncer à l’exigence énoncée à l’alinéa 1) concernant la présentation d’une preuve. Dans ce cas, la partie intéressée doit soumettre une déclaration selon laquelle l’inobservation du délai était due à la raison pour laquelle le Bureau international a renoncé à l’exigence concernant la présentation de la preuve.[^5-3]
 
-\3) [*Communication envoyée par voie électronique*] L’inobservation, par une partie intéressée, d’un délai pour une communication adressée au Bureau international et envoyée par voie électronique est excusée si la partie intéressée apporte la preuve, d’une façon satisfaisante pour le Bureau international, que le délai n’a pas été respecté en raison de défaillances dans la communication électronique avec le Bureau international, ou concernant la localité de la partie intéressée en raison de circonstances extraordinaires indépendantes de la volonté de la partie intéressée, et que la communication a été effectuée au plus tard cinq jours après la reprise du service de communication électronique.[^5-2]
+\3) [*Limites à l’excuse*] L’inobservation d’un délai n’est excusée en vertu de la présente règle que si la preuve visée à l’alinéa 1), ou la déclaration visée à l’alinéa 2), est reçue par le Bureau international et l’acte correspondant est accompli devant celui-ci dès qu’il est raisonnablement possible de le faire et au plus tard six mois après l’expiration du délai applicable.[^5-4]
 
-\4) [*Limites à l’excuse*] L’inobservation d’un délai n’est excusée en vertu de la présente règle que si la preuve visée à l’al. 1), 2) ou 3) et la communication ou, le cas échéant, un double de celle ci, sont reçus par le Bureau international au plus tard six mois après l’expiration du délai.[^5-3]
+\4) [*Limites à l’excuse*] L’inobservation d’un délai n’est excusée en vertu de la présente règle que si la preuve visée à l’al. 1), 2) ou 3) et la communication ou, le cas échéant, un double de celle ci, sont reçus par le Bureau international au plus tard six mois après l’expiration du délai.[^5-5]
 
-\5) [*Exception*] La présente règle ne s’applique pas au paiement de la deuxième partie de la taxe de désignation individuelle par l’intermédiaire du Bureau international ainsi que le prévoit la règle 12.3)c).[^5-4]
-
-- i) la communication a été expédiée au moins cinq jours avant l’expiration du délai ou, lorsque le service postal a été interrompu lors de l’un quelconque des dix jours qui ont précédé la date d’expiration du délai pour raison de guerre, de révolution, de désordre civil, de grève, de calamité naturelle ou d’autres raisons semblables, la communication a été expédiée au plus tard cinq jours après la reprise du service postal; que
-- ii) l’expédition de la communication a été effectuée par le service postal sous pli recommandé ou que les données relatives à l’expédition ont été enregistrées par le service postal au moment de l’expédition, et que
-- iii) lorsque le courrier, dans certaines catégories, n’arrive normalement pas au Bureau international dans les deux jours suivant son expédition, la communication a été expédiée dans une catégorie de courrier qui parvient normalement au Bureau international dans les deux jours suivant l’expédition, ou l’a été par avion.
-
-- i) la communication a été envoyée au moins cinq jours avant l’expiration du délai ou, lorsque le fonctionnement de l’entreprise d’acheminement du courrier a été interrompu lors de l’un quelconque des dix jours qui ont précédé la date d’expiration du délai pour raison de guerre, de révolution, de désordre civil, de calamité naturelle ou d’autres raisons semblables, la communication a été envoyée au plus tard cinq jours après la reprise du fonctionnement de l’entreprise d’acheminement du courrier, et que
-- ii) les données relatives à l’envoi de la communication ont été enregistrées par l’entreprise d’acheminement du courrier au moment de l’envoi.
+\5) [*Exception*] La présente règle ne s’applique pas au paiement de la deuxième partie de la taxe de désignation individuelle par l’intermédiaire du Bureau international ainsi que le prévoit la règle 12.3)c).[^5-6]
 
 [^5-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 11 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
-[^5-2]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 11 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
-[^5-3]: Introduit par la D de l’Ass. de l’Union de la Haye du 11 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
-[^5-4]: Introduit par la D de l’Ass. de l’Union de la Haye du 11 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
+[^5-2]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^5-3]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^5-4]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^5-5]: Introduit par la D de l’Ass. de l’Union de la Haye du 11 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
+[^5-6]: Introduit par la D de l’Ass. de l’Union de la Haye du 11 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
 
 #### Règle 6
 
@@ -397,14 +392,17 @@ Les communications adressées au Bureau international doivent être effectuées 
 \1) [*Date de la publication*] L’enregistrement international est publié:
 
 - i) lorsque le déposant le demande, immédiatement après l’enregistrement;
-- ii) lorsque l’ajournement de la publication a été demandé et que cette demande a été prise en compte, immédiatement après la date à laquelle la période d’ajournement a expiré ou est considérée comme ayant expiré;
-- iii) dans tous les autres cas, six mois après la date de l’enregistrement international ou dès que possible après cette date.
+- ii) sous réserve du sous-alinéa ii<sup>bis</sup>), lorsque l’ajournement de la publication a été demandé et que cette demande a été prise en compte, immédiatement après la date à laquelle la période d’ajournement a expiré;
+- ii<sup>bis</sup>) lorsque le déposant le demande, immédiatement après la réception d’une telle demande par le Bureau international;
+- iii) dans tous les autres cas, 12 mois après la date de l’enregistrement international ou dès que possible après cette date.[^17-1]
 
 \2) [*Contenu de la publication*] La publication de l’enregistrement international dans le bulletin doit contenir:
 
 - i) les données inscrites au registre international;
 - ii) la ou les reproductions du dessin ou modèle industriel;
 - iii) lorsque la publication a été ajournée, l’indication de la date à laquelle la période d’ajournement a expiré ou est considérée comme ayant expiré.
+
+[^17-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
 
 ## Chapitre 3 Refus et invalidations
 
@@ -568,28 +566,31 @@ le Bureau international inscrit toutefois le refus au registre international et 
   - iii) une renonciation à l’enregistrement international à l’égard d’une, de plusieurs ou de la totalité des Parties contractantes désignées;
   - iv) une limitation, à l’égard d’une, de plusieurs ou de la totalité des Parties contractantes désignées, portant sur une partie des dessins ou modèles industriels qui font l’objet de l’enregistrement international.
 
-- b)
+- b)[^21-1]
 
-  La demande doit être présentée par le titulaire et signée par celui‑ci; toutefois, une demande d’inscription de changement de titulaire peut être présentée par le nouveau propriétaire, à condition qu’elle soit:
+  La demande doit être présentée par le titulaire et signée par celui-ci; toutefois, une demande d’inscription de changement de titulaire peut être présentée par le nouveau propriétaire, à condition qu’elle soit:
 
   - i) signée par le titulaire, ou
-  - ii) signée par le nouveau propriétaire et accompagnée d’une attestation établie par l’autorité compétente de la Partie contractante du titulaire selon laquelle le nouveau propriétaire semble être l’ayant cause du titulaire.
+  - ii) signée par le nouveau propriétaire et accompagnée d’un document apportant la preuve que le nouveau propriétaire semble être l’ayant cause du titulaire.
 
 \2) [*Contenu de la demande*] La demande d’inscription d’une modification doit contenir ou indiquer, en sus de la modification demandée:
 
-- i)[^21-1] le numéro de l’enregistrement international concerné;
-- ii)[^21-2] le nom du titulaire, sauf lorsque la modification porte sur le nom ou l’adresse du mandataire;
-- iii)[^21-3] en cas de changement de titulaire de l’enregistrement international, le nom et l’adresse, indiqués conformément aux instructions administratives, ainsi que l’adresse électronique, du nouveau propriétaire de l’enregistrement international;
+- i)[^21-2] le numéro de l’enregistrement international concerné;
+- ii)[^21-3] le nom du titulaire, sauf lorsque la modification porte sur le nom ou l’adresse du mandataire;
+- iii)[^21-4] en cas de changement de titulaire de l’enregistrement international, le nom et l’adresse, indiqués conformément aux instructions administratives, ainsi que l’adresse électronique, du nouveau propriétaire de l’enregistrement international;
 - iv) en cas de changement de titulaire de l’enregistrement international, la ou les Parties contractantes à l’égard desquelles le nouveau propriétaire remplit les conditions pour être le titulaire d’un enregistrement international;
 - v) en cas de changement de titulaire de l’enregistrement international qui ne concerne pas tous les dessins ou modèles industriels et toutes les Parties contractantes, les numéros des dessins ou modèles industriels et les Parties contractantes désignées concernés par le changement de titulaire, et
 - vi) le montant des taxes payées et le mode de paiement, ou l’instruction de prélever le montant requis des taxes sur un compte ouvert auprès du Bureau international, ainsi que l’identité de l’auteur du paiement ou des instructions.
 
 - a) Pour autant que la demande soit régulière, le Bureau international inscrit à bref délai la modification au registre international et en informe le titulaire. S’agissant de l’inscription d’un changement de titulaire, le Bureau international informe à la fois le nouveau titulaire et le titulaire antérieur.
 - b) La modification doit être inscrite à la date de la réception par le Bureau international de la demande remplissant les conditions requises. Toutefois, lorsque la demande indique que la modification doit être inscrite après une autre modification, ou après le renouvellement de l’enregistrement international, le Bureau international donne suite à cette demande.
+- c)[^21-5] Lorsqu’un changement de titulaire est inscrit à la suite d’une requête présentée par le nouveau propriétaire conformément à l’alinéa 1)b)ii) et que le précédent titulaire s’oppose à ce changement par écrit en s’adressant au Bureau international, le changement est considéré comme n’ayant pas été inscrit. Le Bureau international en avise les deux parties en conséquence.
 
-[^21-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
+[^21-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
 [^21-2]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
 [^21-3]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
+[^21-4]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
+[^21-5]: Introduite par la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
 
 #### Règle 21<sup>bis</sup>
 
@@ -832,7 +833,7 @@ Toute taxe de désignation standard ou toute taxe de désignation individuelle p
 
 **Déclarations faites par les Parties contractantes à l’Acte de 1960**
 
-\1) [*Taxe de désignation individuelle*] Aux fins de l’art. 15.1) 2°b) de l’Acte de 1960, toute Partie contractante à l’Acte de 1960 dont l’Office est un Office procédant à un examen peut, dans une déclaration, notifier au Directeur général que, pour toute demande internationale dans laquelle elle est désignée en vertu de l’Acte de 1960, la taxe de désignation prescrite visée à la règle 12.1) a) ii) est remplacée par une taxe de désignation individuelle dont le montant est indiqué dans la déclaration et peut être modifié dans des déclarations ultérieures. Ce montant ne peut pas dépasser le montant équivalant à celui que l’Office de ladite Partie contractante aurait le droit de recevoir du déposant pour une protection accordée, pour une durée équivalente, au même nombre de dessins et modèles industriels, le montant en question étant diminué du montant des économies résultant de la procédure internationale.
+\1) [*Taxe de désignation individuelle*] Aux fins de l’art. 15.1) 2 b) de l’Acte de 1960, toute Partie contractante à l’Acte de 1960 dont l’Office est un Office procédant à un examen peut, dans une déclaration, notifier au Directeur général que, pour toute demande internationale dans laquelle elle est désignée en vertu de l’Acte de 1960, la taxe de désignation prescrite visée à la règle 12.1) a) ii) est remplacée par une taxe de désignation individuelle dont le montant est indiqué dans la déclaration et peut être modifié dans des déclarations ultérieures. Ce montant ne peut pas dépasser le montant équivalant à celui que l’Office de ladite Partie contractante aurait le droit de recevoir du déposant pour une protection accordée, pour une durée équivalente, au même nombre de dessins et modèles industriels, le montant en question étant diminué du montant des économies résultant de la procédure internationale.
 
 \2) [*Durée maximum de protection*] Chaque Partie contractante à l’Acte de 1960 notifie au Directeur général, dans une déclaration, la durée maximale de protection prévue dans sa législation.
 
@@ -849,18 +850,21 @@ Toute taxe de désignation standard ou toute taxe de désignation individuelle p
 
 \2) [*Disposition transitoire relative aux langues*] La règle 6 telle qu’elle était applicable avant le 1<sup>er</sup> avril 2010 reste applicable à l’égard d’une demande internationale déposée avant cette date et de l’enregistrement international qui en est issu.
 
+\3) [*Disposition transitoire concernant la date de la publication*] La règle 17.1)iii) en vigueur avant le 1<sup>er</sup> janvier 2022 demeure applicable à tout enregistrement international résultant d’une demande internationale déposée avant cette date.[^37-2]
+
 - a)
 
   Aux fins de la présente disposition:
 
-  - i) «Acte de 1934» s’entend de l’acte signé à Londres le 2 juin 1934 de l’Arrangement de La Haye[^37-2];
+  - i) «Acte de 1934» s’entend de l’acte signé à Londres le 2 juin 1934 de l’Arrangement de La Haye[^37-3];
   - ii) «Partie contractante désignée en vertu de l’Acte de 1934» s’entend d’une Partie contractante inscrite en tant que telle au registre international;
   - iii) une référence aux expressions «demande internationale» ou «enregistrement international» est réputée inclure, le cas échéant, une référence à l’expression «dépôt international» visée à l’Acte de 1934.
 
 - b) Le Règlement d’exécution commun à l’Acte de 1999, l’Acte de 1960 et l’Acte de 1934 de l’Arrangement de La Haye tel qu’il était applicable avant le 1<sup>er</sup> janvier 2010 reste applicable à l’égard d’une demande internationale déposée avant cette date et encore en instance à cette date, et à l’égard de toute Partie contractante désignée en vertu de l’Acte de 1934 dans un enregistrement international issu d’une demande internationale déposée avant cette date.
 
 [^37-1]: Introduite par la D de l’Ass. de l’Union de la Haye du 1<sup>er</sup> oct. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
-[^37-2]: [RS **11** 988; RO **1975** 1599. [RO 2010 403](https://fedlex.data.admin.ch/eli/oc/2010/47)]
+[^37-2]: Introduit par la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^37-3]: [RS **11** 988; RO **1975** 1599. [RO 2010 403](https://fedlex.data.admin.ch/eli/oc/2010/47)]
 
 Barème des taxes[^t-2]
 
