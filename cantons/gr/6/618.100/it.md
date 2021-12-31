@@ -4,51 +4,48 @@ number: "618.100"
 title: "Legge d'applicazione della legislazione federale sugli stranieri e sull'asilo"
 short: LAdLSA
 language: it
-version: 2011-01-01
-corrected: 2014-10-26
-version_adopted: 2010-06-16
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-08-27
 adopted: 2008-12-10
 in_force: 2009-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/618.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1215/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3224/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Legge d'applicazione della legislazione federale sugli stranieri e sull'asilo (LAdLSA)
+# Legge d'applicazione della legislazione federale sugli stranieri e sull'asilo
 
-del 10 dicembre 2008[^t-1]
+(LAdLSA)
+
+del 10.12.2008 (stato 01.01.2022)
 
 Il Gran Consiglio del Cantone dei Grigioni,
 
-visto l'art. 31 della Costituzione cantonale[^t-2] e l'art. 124 cpv. 2 della legge federale sugli stranieri[^t-3], visto il messaggio del Governo del 26 agosto 2008[^t-4],
+visto l'art. 31 della Costituzione cantonale[^ingress-1] e l'art. 124 cpv. 2 della legge federale sugli stranieri[^ingress-2], visto il messaggio del Governo del 26 agosto 2008[^ingress-3],
 
 decide:
 
-[^t-1]: PGC 2008/2009, 432
-[^t-2]: CSC 110.100
-[^t-3]: RS 142.20
-[^t-4]: pagina 593
+[^ingress-1]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+[^ingress-2]: RS [142.20](https://db.clex.ch/link/Bund/142.20/it)
+[^ingress-3]: pagina 593
 
-### I. Competenze e organizzazione
+## 1. Competenze e organizzazione
 
 #### Art. 1
 
 **Delega di compiti**
 
-Se sono soddisfatte le condizioni necessarie, il Governo può affidare ad autorità comunali o federali, nonché a terzi, compiti esecutivi della legislazione sugli stranieri e sull'asilo.
+<sup>1</sup> Se sono soddisfatte le condizioni necessarie, il Governo può affidare ad autorità comunali o federali, nonché a terzi, compiti esecutivi della legislazione sugli stranieri e sull'asilo.
 
 #### Art. 2
 
 **Autorità giudiziaria**
 
-<sup>1</sup>[^2-1] Il giudice unico che funge da giudice cantonale dei provvedimenti coercitivi è l'autorità giudiziaria per le misure coercitive della legislazione sugli stranieri e sull'asilo.
+<sup>1</sup> Il giudice unico che funge da giudice cantonale dei provvedimenti coercitivi è l'autorità giudiziaria per le misure coercitive della legislazione sugli stranieri e sull'asilo.
 
-<sup>2</sup> ...[^2-2]
-
-[^2-1]: Testo giusta DGC del 16 giugno 2010, M del 23 marzo 2010, 795; PGC 2009/2010, 853; posto in vigore il 1° gennaio 2011 con DG del 21 dicembre 2010
-[^2-2]: Abrogazione giusta DGC del 16 giugno 2010, M del 23 marzo 2010, 795; PGC 2009/2010, 853; posta in vigore il 1° gennaio 2011 con DG del 21 dicembre 1.1.2011 1
+<sup>2</sup> …
 
 #### Art. 3
 
@@ -72,9 +69,22 @@ Se sono soddisfatte le condizioni necessarie, il Governo può affidare ad autori
 
 **2. Controllo degli stranieri**
 
-I comuni esercitano un controllo sugli stranieri. Essi designano l'autorità competente. Se ciò non avviene, è competente la sovrastanza comunale.
+<sup>1</sup> I comuni esercitano un controllo sugli stranieri. Essi designano l'autorità competente. Se ciò non avviene, è competente la sovrastanza comunale.
 
-### II. Obblighi e procedure
+#### Art. 5a
+
+**Procedura di multa disciplinare secondo il diritto federale**
+
+<sup>1</sup> I comuni riscuotono multe disciplinari in caso di violazione dell'obbligo di notificare l'arrivo o la partenza (art. 120 cpv. 1 lett. a LStr[^5a-1]).
+
+<sup>2</sup> La Polizia cantonale riscuote multe disciplinari in caso di infrazioni all'articolo 120 capoverso 1 lettere a-e LStr.
+
+<sup>3</sup> La procedura si conforma alla legge federale sulle multe disciplinari[^5a-2].
+
+[^5a-1]: RS [142.20](https://db.clex.ch/link/Bund/142.20/it)
+[^5a-2]: RS [741.03](https://db.clex.ch/link/Bund/741.03/it)
+
+## 2. Obblighi e procedure
 
 #### Art. 6
 
@@ -82,15 +92,13 @@ I comuni esercitano un controllo sugli stranieri. Essi designano l'autorità com
 
 <sup>1</sup> Gli stranieri devono notificare l'arrivo e la partenza presso l'autorità competente del loro luogo di residenza.
 
-<sup>2</sup>[^6-1]Un cambiamento di indirizzo all'interno del luogo di residenza deve essere notificato all'autorità competente entro 14 giorni.
-
-[^6-1]: Testo giusta art. 40 n. 2 LI alle LAVS/LAI, CSC 544.000; entrata in vigore il 1° dicembre 2010 2 1.1.2011
+<sup>2</sup> Un cambiamento di indirizzo all'interno del luogo di residenza deve essere notificato all'autorità competente entro 14 giorni.
 
 #### Art. 7
 
 **Rimborso**
 
-Il servizio competente decide il rimborso delle spese risultate all'ente pubblico nel caso di persone che hanno rilasciato una dichiarazione di garanzia nell'ambito di una procedura d'entrata di una terza persona.
+<sup>1</sup> Il servizio competente decide il rimborso delle spese risultate all'ente pubblico nel caso di persone che hanno rilasciato una dichiarazione di garanzia nell'ambito di una procedura d'entrata di una terza persona.
 
 #### Art. 8
 
@@ -108,7 +116,7 @@ Il servizio competente decide il rimborso delle spese risultate all'ente pubblic
 
 <sup>2</sup> Il Governo stabilisce quali informazioni e atti di autorità comunali e cantonali devono venire comunicate rispettivamente trasmessi spontaneamente ai servizi competenti.
 
-### III. Integrazione
+## 3. Integrazione
 
 #### Art. 10
 
@@ -144,10 +152,6 @@ Il servizio competente decide il rimborso delle spese risultate all'ente pubblic
 
 <sup>1</sup> Il Cantone e i comuni versano contributi finanziari orientati al bisogno per progetti e misure d'integrazione sostenibile di stranieri che risiedono legalmente e a lungo termine in Svizzera.
 
-**3**
-
-1.1.2011
-
 <sup>2</sup> La partecipazione ai costi da parte del comune ammonta al 50 percento del contributo cantonale e si conforma al numero di abitanti della popolazione residente permanente.
 
 <sup>3</sup> Contributi finanziari a progetti e misure d'integrazione vengono concessi di regola soltanto in presenza di un'adeguata partecipazione finanziaria di terzi.
@@ -160,7 +164,7 @@ Il servizio competente decide il rimborso delle spese risultate all'ente pubblic
 
 **Somma forfetaria a favore dell'integrazione**
 
-L'ufficio cantonale di riferimento per le questioni di integrazione, è competente, con il coinvolgimento delle autorità cantonali e comunali interessate, per l'utilizzo della somma forfetaria a favore dell'integrazione della Confederazione per prime misure, per la promozione dell'acquisizione di una lingua cantonale, nonché per l'integrazione professionale dei rifugiati riconosciuti e di stranieri ammessi provvisoriamente.
+<sup>1</sup> L'ufficio cantonale di riferimento per le questioni di integrazione, è competente, con il coinvolgimento delle autorità cantonali e comunali interessate, per l'utilizzo della somma forfetaria a favore dell'integrazione della Confederazione per prime misure, per la promozione dell'acquisizione di una lingua cantonale, nonché per l'integrazione professionale dei rifugiati riconosciuti e di stranieri ammessi provvisoriamente.
 
 #### Art. 15
 
@@ -180,23 +184,19 @@ L'ufficio cantonale di riferimento per le questioni di integrazione, è competen
 
 <sup>2</sup> Esso è responsabile per lo scambio di informazioni e di esperienze con le autorità cantonali interessate da questioni d'integrazione, nonché con i comuni.
 
-### IV. Misure coercitive nel diritto sugli stranieri
+## 4. Misure coercitive nel diritto sugli stranieri
 
 #### Art. 17
 
 **Condizioni mutate**
 
-Il servizio competente annulla, d'ufficio o su richiesta dello straniero, le misure coercitive oppure le adegua alle mutate condizioni se i presupposti
-
-**4**
-
-1.1.2011 per disporre una misura privativa o limitativa della libertà mutano o vengono meno.
+<sup>1</sup> Il servizio competente annulla, d'ufficio o su richiesta dello straniero, le misure coercitive oppure le adegua alle mutate condizioni se i presupposti per disporre una misura privativa o limitativa della libertà mutano o vengono meno.
 
 #### Art. 18
 
 **Udienza per l'esame della carcerazione 1. Traduzione**
 
-Se necessario, l'autorità giudiziaria convoca un interprete affinché l'udienza possa essere tradotta in una lingua nota allo straniero incarcerato.
+<sup>1</sup> Se necessario, l'autorità giudiziaria convoca un interprete affinché l'udienza possa essere tradotta in una lingua nota allo straniero incarcerato.
 
 #### Art. 19
 
@@ -226,11 +226,9 @@ Se necessario, l'autorità giudiziaria convoca un interprete affinché l'udienza
 
 <sup>3</sup> Nella decisione si deve richiamare l'attenzione sul diritto e sulle condizioni per presentare una domanda di scarcerazione.
 
-[^21-1]: Introduzione giusta DGC del 16 giugno 2010, M del 23 marzo 2010, 795; PGC 2009/2010, 853; posta in vigore il 1° gennaio 2011 con DG del 21 dicembre 1.1.2011 5
-
 #### Art. 21a
 
-**Impugnazione**[^21-1]
+**Impugnazione**
 
 <sup>1</sup> Decisioni dell'autorità giudiziaria possono essere impugnate con ricorso al Tribunale cantonale.
 
@@ -240,13 +238,13 @@ Se necessario, l'autorità giudiziaria convoca un interprete affinché l'udienza
 
 **Proroga della carcerazione in vista di rinvio coatto**
 
-Se non è possibile procedere al rinvio coatto entro la durata di carcerazione autorizzata, il servizio competente presenta all'autorità giudiziaria, cinque giorni lavorativi prima della scadenza della carcerazione, una domanda di proroga della carcerazione.
+<sup>1</sup> Se non è possibile procedere al rinvio coatto entro la durata di carcerazione autorizzata, il servizio competente presenta all'autorità giudiziaria, cinque giorni lavorativi prima della scadenza della carcerazione, una domanda di proroga della carcerazione.
 
 #### Art. 23
 
 **Proroga della carcerazione cautelativa**
 
-Se lo straniero incarcerato non è disposto a dare seguito al suo obbligo di collaborare e a lasciare la Svizzera, il servizio competente presenta all'autorità giudiziaria, cinque giorni lavorativi prima della scadenza della carcerazione, una domanda di proroga della carcerazione.
+<sup>1</sup> Se lo straniero incarcerato non è disposto a dare seguito al suo obbligo di collaborare e a lasciare la Svizzera, il servizio competente presenta all'autorità giudiziaria, cinque giorni lavorativi prima della scadenza della carcerazione, una domanda di proroga della carcerazione.
 
 #### Art. 24
 
@@ -254,9 +252,7 @@ Se lo straniero incarcerato non è disposto a dare seguito al suo obbligo di col
 
 <sup>1</sup> Le domande di scarcerazione devono essere presentate al servizio competente. Quest'ultimo trasmette la domanda e la propria presa di posizione all'autorità giudiziaria entro tre giorni lavorativi.
 
-<sup>2</sup>[^24-1]Per la procedura si applicano per analogia gli articoli da 18 a 21a della presente legge.
-
-[^24-1]: Testo giusta DGC del 16 giugno 2010, M del 23 marzo 2010, 795; PGC 2009/2010, 853; posto in vigore il 1° gennaio 2011 con DG del 21 dicembre 6 1.1.2011
+<sup>2</sup> Per la procedura si applicano per analogia gli articoli da 18 a 21a della presente legge.
 
 #### Art. 25
 
@@ -267,18 +263,12 @@ Se lo straniero incarcerato non è disposto a dare seguito al suo obbligo di col
 <sup>2</sup> Il servizio competente per l'esecuzione della carcerazione può decidere le seguenti misure disciplinari:
 
 - 1\. ammonimento scritto od orale;
-
 - 2\. limitazione o revoca del diritto di disporre di mezzi finanziari;
-
 - 3\. trasferimento in un'altra cella o sezione;
-
 - 4\. limitazione o revoca della possibilità di ricevere libri o giornali, nonché del consumo di radio e TV;
-
 - 5\. limitazione o revoca del diritto di visita e delle telefonate;
-
 - 6\. isolamento in cella fino a un massimo di dieci giorni;
-
-- 7\. arresto fino a 20 giorni.
+- 7\. arresto fino a 14 giorni.
 
 <sup>3</sup> È lecito disporre contemporaneamente diverse misure disciplinari. Isolamento in cella e arresto non possono essere ordinati contemporaneamente.
 
@@ -288,23 +278,23 @@ Se lo straniero incarcerato non è disposto a dare seguito al suo obbligo di col
 
 <sup>1</sup> Di norma lo straniero deve assumersi tutte le spese della partenza e dell'esecuzione.
 
-<sup>2</sup> Per incentivare il ritorno di uno straniero tenuto a lasciare la Svizzera, il servizio competente può versare un aiuto al ritorno una tantum dell'ammontare di al massimo 3 000 franchi. Sono escluse dalla concessione di questo aiuto al ritorno le persone che ricevono prestazioni di aiuto al ritorno conformemente alla legge sull'asilo[^26-1].
+<sup>2</sup> Per incentivare il ritorno di uno straniero tenuto a lasciare la Svizzera, il servizio competente può versare un aiuto al ritorno una tantum dell'ammontare di al massimo 3000 franchi. Sono escluse dalla concessione di questo aiuto al ritorno le persone che ricevono prestazioni di aiuto al ritorno conformemente alla legge sull'asilo[^26-1].
 
 <sup>3</sup> Non vi è un diritto alla concessione dell'aiuto cantonale al ritorno. Nel processo decisionale, allo straniero non spetta qualità di parte.
 
-[^26-1]: RS 142.31
+[^26-1]: RS [142.31](https://db.clex.ch/link/Bund/142.31/it)
 
-### V. Rimedi legali
+## 5. Rimedi legali
 
-- 1\. GIUSTIZIA AMMINISTRATIVA
+### 5.1. Giustizia amministrativa
 
 #### Art. 27
 
 **Procedura**
 
-Per quanto la presente legge non preveda prescrizioni particolari, si applicano per analogia le disposizioni della legge sulla giustizia amministrativa[^27-1].
+<sup>1</sup> Per quanto la presente legge non preveda prescrizioni particolari, si applicano per analogia le disposizioni della legge sulla giustizia amministrativa[^27-1].
 
-[^27-1]: CSC 370.100
+[^27-1]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
 
 #### Art. 28
 
@@ -314,51 +304,29 @@ Per quanto la presente legge non preveda prescrizioni particolari, si applicano 
 
 <sup>2</sup> L'autorità giudiziaria non è vincolata alla richiesta formulata nel ricorso.
 
-- 2\. Giustizia penale
+### 5.2. Giustizia penale
 
 #### Art. 29
 
 **Obbligo di denuncia**
 
-I collaboratori delle autorità comunali e cantonali sono tenuti a presentare denuncia penale, se nell'esecuzione della legislazione sugli stranieri e sull'asilo vengono a conoscenza di infrazioni contro prescrizioni della legislazione sugli stranieri e sull'asilo.
+<sup>1</sup> I collaboratori delle autorità comunali e cantonali sono tenuti a presentare denuncia penale, se nell'esecuzione della legislazione sugli stranieri e sull'asilo vengono a conoscenza di infrazioni contro prescrizioni della legislazione sugli stranieri e sull'asilo.
 
 #### Art. 30
 
 **Disposizioni penali**
 
-Infrazioni contro la presente legge e le relative disposizioni esecutive[^30-1] vengono punite con la multa fino a 2 000 franchi.
+<sup>1</sup> Infrazioni contro la presente legge e le relative disposizioni esecutive[^30-1] vengono punite con la multa fino a 2000 franchi.
 
-[^30-1]: CSC 618.120 1.1.2011 7
+[^30-1]: CSC [618.120](https://www.gr-lex.gr.ch/data/618.120/it)
 
-### VI. Disposizioni finali
+## 6. Disposizioni finali
 
 #### Art. 31
 
-**Modifica di atti normativi**
+**Modifica di atti normativi[^31-1]**
 
-Al momento dell'entrata in vigore della presente legge, i seguenti atti normativi sono modificati come segue:
-
-### 1. Legge sull'assistenza alle persone nel bisogno (Legge
-
-cantonale sull'assistenza; CSC 546.250)
-
-#### Art. 2
-
-**cpv. da 5 a 7**
-
-<sup>5</sup> Nel caso di stranieri ammessi provvisoriamente che vengono sostenuti finanziariamente secondo la presente legge, per la determinazione delle prestazioni assistenziali vengono applicati gli stessi principi applicati per il sostegno a richiedenti l'asilo.
-
-<sup>6</sup> Nel caso di stranieri che senza un valido motivo non adempiono ai loro obblighi d'integrazione economica, sociale e culturale, le prestazioni assistenziali devono venire ridotte. In casi gravi queste possono venire limitate all'aiuto d'urgenza.
-
-<sup>7</sup> Agli stranieri privi di diritto di soggiorno o che si trovano in Svizzera per un soggiorno che non richiede un permesso va garantito unicamente l'aiuto d'urgenza.
-
-- 2\. Legge sugli assegni maternità (CSC 548.200)
-
-#### Art. 1
-
-**cpv. 2**
-
-<sup>2</sup> Sono esclusi dalla presente legge i rifugiati riconosciuti per i quali la competenza in materia di assistenza spetta alla Confederazione, gli stranieri ammessi provvisoriamente, nonché i richiedenti l'asilo.
+[^31-1]: Le modifiche del diritto previgente non vengono indicate.
 
 #### Art. 32
 
@@ -377,4 +345,6 @@ cantonale sull'assistenza; CSC 546.250)
 <sup>2</sup> Il Governo stabilisce la data dell'entrata in vigore[^33-2] della presente legge.
 
 [^33-1]: Il termine di referendum è scaduto inutilizzato il 18 marzo 2009
-[^33-2]: Posta in vigore il 1° agosto 2009 con DG del 30 giugno 2009 8 1.1.2011
+[^33-2]: Posta in vigore il 1° agosto 2009 con DG del 30 giugno 2009
+
+-

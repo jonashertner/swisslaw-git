@@ -4,51 +4,51 @@ number: "618.100"
 title: Einführungsgesetz zur Ausländer- und Asylgesetzgebung des Bundes
 short: EGzAAG
 language: de
-version: 2011-01-01
-corrected: 2014-10-26
-version_adopted: 2010-06-16
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-08-27
 adopted: 2008-12-10
 in_force: 2009-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/618.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1215/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3224/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Einführungsgesetz zur Ausländer- und Asylgesetzgebung des Bundes (EGzAAG)
+# Einführungsgesetz zur Ausländer- und Asylgesetzgebung des Bundes
 
-vom 10. Dezember 2008[^t-1]
+(EGzAAG)
 
-Der Grosse Rat des Kantons Graubünden,
+Vom 10.12.2008 (Stand 01.01.2022)
 
-gestützt auf Artikel 31 der Kantonsverfassung[^t-2] und Artikel 124 Abs. 2 des Bundesgesetzes über die Ausländerinnen und Ausländer[^t-3], nach Einsicht in die Botschaft der Regierung vom 26. August 2008[^t-4],
+Der Grosse Rat des Kantons Graubünden[^ingress-1],
+
+gestützt auf Art. 31 der Kantonsverfassung[^ingress-2] und Art. 124 Abs. 2 des Bundesgesetzes über die Ausländerinnen und Ausländer[^ingress-3],
+
+nach Einsicht in die Botschaft der Regierung vom 26. August 2008[^ingress-4],
 
 beschliesst:
 
-[^t-1]: GRP 2008/2009, 432
-[^t-2]: BR 110.100
-[^t-3]: SR 142.20
-[^t-4]: Seite 593
+[^ingress-1]: GRP 2008/2009, 432
+[^ingress-2]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+[^ingress-3]: SR [142.20](https://db.clex.ch/link/Bund/142.20/de)
+[^ingress-4]: Seite 593
 
-### I. Zuständigkeiten und Organisation
+## 1. Zuständigkeiten und Organisation
 
 #### Art. 1
 
 **Aufgabendelegation**
 
-Die Regierung kann Aufgaben des Vollzuges der Ausländer- und Asylgesetzgebung kommunalen oder eidgenössischen Behörden sowie weiteren Dritten übertragen, sofern die notwendigen Voraussetzungen erfüllt sind.
+<sup>1</sup> Die Regierung kann Aufgaben des Vollzuges der Ausländer- und Asylgesetzgebung kommunalen oder eidgenössischen Behörden sowie weiteren Dritten übertragen, sofern die notwendigen Voraussetzungen erfüllt sind.
 
 #### Art. 2
 
 **Richterliche Behörde**
 
-<sup>1</sup>[^2-1] Richterliche Behörde für die Zwangsmassnahmen der Ausländer- und Asylgesetzgebung ist die Einzelrichterin oder der Einzelrichter des kantonalen Zwangsmassnahmengerichts.
+<sup>1</sup> Richterliche Behörde für die Zwangsmassnahmen der Ausländer- und Asylgesetzgebung ist die Einzelrichterin oder der Einzelrichter des kantonalen Zwangsmassnahmengerichts.
 
-<sup>2</sup> ...[^2-2]
-
-[^2-1]: Fassung gemäss GRB vom 16. Juni 2010, B vom 23. März 2010, 795; GRP 2009/2010, 853; mit RB vom 21. Dezember 2010 auf den 1. Januar 2011 in Kraft gesetzt
-[^2-2]: Aufgehoben gemäss GRB vom 16. Juni 2010, B vom 23. März 2010, 795; GRP 2009/2010, 853; mit RB vom 21. Dezember 2010 auf den 1. Januar 2011 in Kraft gesetzt 1.01.2011 1
+<sup>2</sup> …
 
 #### Art. 3
 
@@ -72,9 +72,22 @@ Die Regierung kann Aufgaben des Vollzuges der Ausländer- und Asylgesetzgebung k
 
 **2. Fremdenkontrolle**
 
-Die Gemeinden führen eine Kontrolle über die Ausländerinnen und Ausländer. Sie bezeichnen die dafür zuständige Behörde. Unterbleibt dies, ist der Gemeindevorstand zuständig.
+<sup>1</sup> Die Gemeinden führen eine Kontrolle über die Ausländerinnen und Ausländer. Sie bezeichnen die dafür zuständige Behörde. Unterbleibt dies, ist der Gemeindevorstand zuständig.
 
-### II. Pflichten und Verfahren
+#### Art. 5a
+
+**Ordnungsbussenverfahren nach Bundesrecht**
+
+<sup>1</sup> Die Gemeinden erheben Ordnungsbussen bei Verletzung der An- und Abmeldepflichten (Art. 120 Abs. 1 lit. a AuG[^5a-1]).
+
+<sup>2</sup> Die Kantonspolizei erhebt Ordnungsbussen bei Verstössen gegen Artikel 120 Absatz 1 Literae a bis e AuG.
+
+<sup>3</sup> Das Verfahren richtet sich nach dem Ordnungsbussengesetz des Bundes[^5a-2].
+
+[^5a-1]: SR [142.20](https://db.clex.ch/link/Bund/142.20/de)
+[^5a-2]: SR [741.03](https://db.clex.ch/link/Bund/741.03/de)
+
+## 2. Pflichten und Verfahren
 
 #### Art. 6
 
@@ -82,15 +95,13 @@ Die Gemeinden führen eine Kontrolle über die Ausländerinnen und Ausländer. S
 
 <sup>1</sup> Ausländerinnen und Ausländer haben die An- und Abmeldung bei der zuständigen Behörde ihres Wohnortes vorzunehmen.
 
-<sup>2</sup>[^6-1]Ein Adresswechsel innerhalb des Wohnortes ist der zuständigen Behörde innert 14 Tagen zu melden.
-
-[^6-1]: Fassung gemäss Artikel 40 Ziffer 2 EGzAHVG/IVG, BR 544.000; am 1. Dezember 2010 in Kraft getreten 2 1.01.2011
+<sup>2</sup> Ein Adresswechsel innerhalb des Wohnortes ist der zuständigen Behörde innert 14 Tagen zu melden.
 
 #### Art. 7
 
 **Rückforderung**
 
-Die zuständige Dienststelle verfügt die Rückforderung der entstandenen Kosten der öffentlichen Hand bei Personen, die eine Verpflichtungserklärung im Rahmen des Einreiseverfahrens einer Drittperson abgegeben haben.
+<sup>1</sup> Die zuständige Dienststelle verfügt die Rückforderung der entstandenen Kosten der öffentlichen Hand bei Personen, die eine Verpflichtungserklärung im Rahmen des Einreiseverfahrens einer Drittperson abgegeben haben.
 
 #### Art. 8
 
@@ -108,7 +119,7 @@ Die zuständige Dienststelle verfügt die Rückforderung der entstandenen Kosten
 
 <sup>2</sup> Die Regierung bestimmt, welche Informationen und Akten von kommunalen und kantonalen Behörden unaufgefordert den zuständigen Dienststellen mitgeteilt und zugestellt werden müssen.
 
-### III. Integration
+## 3. Integration
 
 #### Art. 10
 
@@ -132,13 +143,7 @@ Die zuständige Dienststelle verfügt die Rückforderung der entstandenen Kosten
 
 **Integrationsvereinbarungen**
 
-<sup>1</sup> Die zuständige Dienststelle kann bei der Erteilung oder Verlängerung von Aufenthalts- oder Kurzaufenthaltsbewilligungen Integrationsverein-
-
-**3**
-
-**4**
-
-1.01.2011 barungen gemäss dem Bundesgesetz über Ausländerinnen und Ausländer abschliessen.
+<sup>1</sup> Die zuständige Dienststelle kann bei der Erteilung oder Verlängerung von Aufenthalts- oder Kurzaufenthaltsbewilligungen Integrationsvereinbarungen gemäss dem Bundesgesetz über Ausländerinnen und Ausländer abschliessen.
 
 <sup>2</sup> Kantonale und kommunale Behörden können in ihrem Zuständigkeitsbereich über gesetzliche Verpflichtungen mit den Ausländerinnen und Ausländern weiterführende Vereinbarungen zur Integration abschliessen.
 
@@ -162,7 +167,7 @@ Die zuständige Dienststelle verfügt die Rückforderung der entstandenen Kosten
 
 **Integrationspauschale**
 
-Die kantonale Ansprechstelle für Integrationsfragen ist unter Einbezug der betroffenen kantonalen und kommunalen Behörden zuständig zur Verwendung der Integrationspauschale des Bundes für Erstmassnahmen, zur Förderung des Erwerbs einer Kantonssprache sowie der beruflichen Integration von anerkannten Flüchtlingen und vorläufig aufgenommenen Personen.
+<sup>1</sup> Die kantonale Ansprechstelle für Integrationsfragen ist unter Einbezug der betroffenen kantonalen und kommunalen Behörden zuständig zur Verwendung der Integrationspauschale des Bundes für Erstmassnahmen, zur Förderung des Erwerbs einer Kantonssprache sowie der beruflichen Integration von anerkannten Flüchtlingen und vorläufig aufgenommenen Personen.
 
 #### Art. 15
 
@@ -170,11 +175,9 @@ Die kantonale Ansprechstelle für Integrationsfragen ist unter Einbezug der betr
 
 <sup>1</sup> Die Regierung bestimmt die Förderungsbereiche und die strategische Ausrichtung der kantonalen Integrationsförderung.
 
-<sup>2</sup> Die zuständige Dienststelle koordiniert die Integrationsprojekte und - massnahmen. Sie ist von den kantonalen Behörden und Gemeinden bei der Planung von integrationsrelevanten Massnahmen beizuziehen.
+<sup>2</sup> Die zuständige Dienststelle koordiniert die Integrationsprojekte und -massnahmen. Sie ist von den kantonalen Behörden und Gemeinden bei der Planung von integrationsrelevanten Massnahmen beizuziehen.
 
 <sup>3</sup> Die Gemeinden bezeichnen für die zuständige kantonale Dienststelle eine Ansprechstelle für Integrationsfragen.
-
-1.01.2011
 
 #### Art. 16
 
@@ -184,17 +187,19 @@ Die kantonale Ansprechstelle für Integrationsfragen ist unter Einbezug der betr
 
 <sup>2</sup> Sie ist verantwortlich für den Informations- und Erfahrungsaustausch mit den von Migrationsfragen betroffenen kantonalen Behörden sowie mit den Gemeinden.
 
-### IV. Zwangsmassnahmen im Ausländerrecht
+## 4. Zwangsmassnahmen im Ausländerrecht
 
 #### Art. 17
 
 **Veränderte Verhältnisse**
 
-Die zuständige Dienststelle hebt die Zwangsmassnahmen von Amtes wegen oder auf Antrag der Ausländerin oder des Ausländers auf oder passt sie den veränderten Verhältnissen an, wenn die Voraussetzungen zur Anordnung einer freiheitsentziehenden oder freiheitsbeschränkenden Massnahme ändern oder entfallen.
+<sup>1</sup> Die zuständige Dienststelle hebt die Zwangsmassnahmen von Amtes wegen oder auf Antrag der Ausländerin oder des Ausländers auf oder passt sie den veränderten Verhältnissen an, wenn die Voraussetzungen zur Anordnung einer freiheitsentziehenden oder freiheitsbeschränkenden Massnahme ändern oder entfallen.
 
 #### Art. 18
 
-Die richterliche Behörde bietet, soweit erforderlich, eine Dolmetscherin oder einen Dolmetscher auf, damit die Verhandlung in eine der inhaftierten Person verständliche Sprache übersetzt werden kann.
+**Haftüberprüfungsverhandlung 1. Übersetzung**
+
+<sup>1</sup> Die richterliche Behörde bietet, soweit erforderlich, eine Dolmetscherin oder einen Dolmetscher auf, damit die Verhandlung in eine der inhaftierten Person verständliche Sprache übersetzt werden kann.
 
 #### Art. 19
 
@@ -220,19 +225,13 @@ Die richterliche Behörde bietet, soweit erforderlich, eine Dolmetscherin oder e
 
 <sup>1</sup> Die richterliche Behörde entscheidet in der Regel unmittelbar nach der mündlichen Verhandlung.
 
-**5**
-
-1.01.2011
-
 <sup>2</sup> Der Entscheid wird nach Möglichkeit sofort mündlich eröffnet und nachträglich in einer Amtssprache schriftlich und begründet zugestellt.
 
 <sup>3</sup> Im Entscheid ist auf das Recht und die Voraussetzungen, ein Haftentlassungsgesuch zu stellen, aufmerksam zu machen.
 
-[^21-1]: Einfügung gemäss GRB vom 16. Juni 2010, B vom 23. März 2010, 795; GRP 2009/2010, 853; mit RB vom 21. Dezember 2010 auf den 1. Januar 2011 in Kraft gesetzt
-
 #### Art. 21a
 
-**5. Weiterzug**[^21-1]
+**5. Weiterzug**
 
 <sup>1</sup> Entscheide der richterlichen Behörde können mit Beschwerde beim Kantonsgericht angefochten werden.
 
@@ -242,13 +241,13 @@ Die richterliche Behörde bietet, soweit erforderlich, eine Dolmetscherin oder e
 
 **Verlängerung der Ausschaffungshaft**
 
-Kann die Ausschaffung nicht innerhalb der bewilligten Haftdauer vorgenommen werden, reicht die zuständige Dienststelle der richterlichen Behörde fünf Arbeitstage vor Ablauf der Haft ein Gesuch um Verlängerung der Haft ein.
+<sup>1</sup> Kann die Ausschaffung nicht innerhalb der bewilligten Haftdauer vorgenommen werden, reicht die zuständige Dienststelle der richterlichen Behörde fünf Arbeitstage vor Ablauf der Haft ein Gesuch um Verlängerung der Haft ein.
 
 #### Art. 23
 
 **Verlängerung der Durchsetzungshaft**
 
-Ist die inhaftierte Person weiterhin nicht bereit, ihrer Mitwirkungspflicht nachzukommen und auszureisen, reicht die zuständige Dienststelle der richterlichen Behörde fünf Arbeitstage vor Ablauf der Haft ein Gesuch um Verlängerung der Haft ein.
+<sup>1</sup> Ist die inhaftierte Person weiterhin nicht bereit, ihrer Mitwirkungspflicht nachzukommen und auszureisen, reicht die zuständige Dienststelle der richterlichen Behörde fünf Arbeitstage vor Ablauf der Haft ein Gesuch um Verlängerung der Haft ein.
 
 #### Art. 24
 
@@ -256,9 +255,7 @@ Ist die inhaftierte Person weiterhin nicht bereit, ihrer Mitwirkungspflicht nach
 
 <sup>1</sup> Haftentlassungsgesuche sind bei der zuständigen Dienststelle einzureichen. Diese überweist das Gesuch mit ihrer Stellungnahme innert drei Arbeitstagen der richterlichen Behörde zum Entscheid.
 
-<sup>2</sup>[^24-1]Für das Verfahren finden die Artikel 18 bis 21a dieses Gesetzes sinngemäss Anwendung.
-
-[^24-1]: Fassung gemäss GRB vom 16. Juni 2010, B vom 23. März 2010, 795; GRP 2009/2010, 853; mit RB vom 21. Dezember 2010 auf den 1. Januar 2011 in Kraft gesetzt 6 1.01.2011
+<sup>2</sup> Für das Verfahren finden die Artikel 18 bis 21a dieses Gesetzes sinngemäss Anwendung.
 
 #### Art. 25
 
@@ -269,18 +266,12 @@ Ist die inhaftierte Person weiterhin nicht bereit, ihrer Mitwirkungspflicht nach
 <sup>2</sup> Die für den Haftvollzug zuständige Dienststelle kann folgende Disziplinarmassnahmen verfügen:
 
 - 1\. Schriftlicher oder mündlicher Verweis;
-
 - 2\. Einschränkung oder Entzug der Verfügung über Geldmittel;
-
 - 3\. Versetzung in eine andere Zelle oder Abteilung;
-
 - 4\. Beschränkung oder Entzug des Bücher- oder Zeitungsbezugs sowie des Radio- und TV-Konsums;
-
 - 5\. Beschränkung oder Entzug des Besuchsrechts und des Telefonverkehrs;
-
 - 6\. Zelleneinschluss bis zu maximal zehn Tagen;
-
-- 7\. Arrest bis zu 20 Tagen.
+- 7\. Arrest bis zu 14 Tagen.
 
 <sup>3</sup> Die gleichzeitige Anordnung mehrerer Disziplinarmassnahmen ist zulässig. Zelleneinschluss und Arrest dürfen nicht gleichzeitig angeordnet werden.
 
@@ -290,23 +281,23 @@ Ist die inhaftierte Person weiterhin nicht bereit, ihrer Mitwirkungspflicht nach
 
 <sup>1</sup> Die Ausländerin oder der Ausländer hat in der Regel sämtliche Ausreise- und Vollzugskosten selbst zu tragen.
 
-<sup>2</sup> Die zuständige Dienststelle kann zur Förderung der Rückkehr einem ausreisepflichtigen Ausländer oder einer ausreisepflichtigen Ausländerin eine einmalige Rückkehrhilfe in der Höhe von höchstens 3 000 Franken ausrichten. Ausgeschlossen von der Gewährung dieser Rückkehrhilfe sind Personen, welche Rückkehrhilfeleistungen gemäss Asylgesetz[^26-1] erhalten.
+<sup>2</sup> Die zuständige Dienststelle kann zur Förderung der Rückkehr einem ausreisepflichtigen Ausländer oder einer ausreisepflichtigen Ausländerin eine einmalige Rückkehrhilfe in der Höhe von höchstens 3000 Franken ausrichten. Ausgeschlossen von der Gewährung dieser Rückkehrhilfe sind Personen, welche Rückkehrhilfeleistungen gemäss Asylgesetz[^26-1] erhalten.
 
 <sup>3</sup> Ein Anspruch auf die Ausrichtung der kantonalen Rückkehrhilfe besteht nicht. Im Entscheidungsprozess kommt der Ausländerin oder dem Ausländer keine Parteistellung zu.
 
-[^26-1]: SR 142.31
+[^26-1]: SR [142.31](https://db.clex.ch/link/Bund/142.31/de)
 
-### V. Rechtspflege
+## 5. Rechtspflege
 
-- 1\. VERWALTUNGSRECHTSPFLEGE
+### 5.1. Verwaltungsrechtspflege
 
 #### Art. 27
 
 **Verfahrensvorschriften**
 
-Soweit das vorliegende Gesetz keine besonderen Vorschriften enthält, finden die Bestimmungen des Gesetzes über die Verwaltungsrechtspflege[^27-1] sinngemäss Anwendung.
+<sup>1</sup> Soweit das vorliegende Gesetz keine besonderen Vorschriften enthält, finden die Bestimmungen des Gesetzes über die Verwaltungsrechtspflege[^27-1] sinngemäss Anwendung.
 
-[^27-1]: BR 370.100 1.01.2011 7
+[^27-1]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
 
 #### Art. 28
 
@@ -316,75 +307,47 @@ Soweit das vorliegende Gesetz keine besonderen Vorschriften enthält, finden die
 
 <sup>2</sup> Die richterliche Behörde ist nicht an die Beschwerdebegehren gebunden.
 
-- 2\. STRAFRECHTSPFLEGE
+### 5.2. Strafrechtspflege
 
 #### Art. 29
 
 **Verzeigungspflicht**
 
-Die Mitarbeiterinnen und Mitarbeiter der kommunalen und kantonalen Behörden sind zur Strafanzeige verpflichtet, wenn sie beim Vollzug der Ausländer- und Asylgesetzgebung von Widerhandlungen gegen Vorschriften der Ausländer- und Asylgesetzgebung Kenntnis erhalten.
+<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter der kommunalen und kantonalen Behörden sind zur Strafanzeige verpflichtet, wenn sie beim Vollzug der Ausländer- und Asylgesetzgebung von Widerhandlungen gegen Vorschriften der Ausländer- und Asylgesetzgebung Kenntnis erhalten.
 
 #### Art. 30
 
 **Strafbestimmungen**
 
-Widerhandlungen gegen dieses Gesetz und dessen Ausführungsbestimmungen[^30-1] werden mit Busse bis zu 2 000 Franken bestraft.
+<sup>1</sup> Widerhandlungen gegen dieses Gesetz und dessen Ausführungsbestimmungen[^30-1] werden mit Busse bis zu 2000 Franken bestraft.
 
-[^30-1]: BR 618.120 8 1.01.2011
+[^30-1]: BR [618.120](https://www.gr-lex.gr.ch/data/618.120/de)
 
-### VI. Schlussbestimmungen
+## 6. Schlussbestimmungen
 
 #### Art. 31
 
-**Änderung von Erlassen**
+**Änderung von Erlassen[^31-1]**
 
-Auf den Zeitpunkt des Inkrafttretens dieses Gesetzes werden die nachfolgenden Erlasse wie folgt geändert:
-
-### 1. Gesetz über die Unterstützung Bedürftiger (Kantonales Unterstützungsgesetz; BR 546.250)
-
-#### Art. 2
-
-**Abs. 5 bis 7**
-
-<sup>5</sup> Bei vorläufig aufgenommenen Ausländerinnen und Ausländern, die nach diesem Gesetz finanziell unterstützt werden, gelangen für die Festlegung der Unterstützungsleistungen die gleichen Grundsätze zur Anwendung wie bei der Unterstützung von Asylsuchenden.
-
-<sup>6</sup> Bei Ausländerinnen und Ausländern, die ihren wirtschaftlichen, sozialen und kulturellen Integrationspflichten ohne entschuldbaren Grund nicht nachkommen, sind die Unterstützungsleistungen zu kürzen. In schweren Fällen können diese auf die Nothilfe reduziert werden.
-
-<sup>7</sup> Ausländerinnen und Ausländer, die über kein Aufenthaltsrecht verfügen oder sich aufgrund eines bewilligungsfreien Aufenthaltes in der Schweiz befinden, ist ausschliesslich Nothilfe zu gewähren.
-
-- 2\. Gesetz über Mutterschaftsbeiträge (BR 548.200)
-
-#### Art. 1
-
-**Abs. 2**
-
-<sup>2</sup> Anerkannte Flüchtlinge, die in die Unterstützungszuständigkeit des Bundes fallen, vorläufig aufgenommene Personen sowie Asylsuchende sind von diesem Gesetz ausgenommen.
+[^31-1]: Änderungen bisherigen Rechts werden nicht aufgeführt.
 
 #### Art. 32
 
-**1**
-
 **Übergangsrecht**
 
-Hängige Verfahren werden auch nach Inkrafttreten dieses Gesetzes nach bisherigem Recht weitergeführt.
+<sup>1</sup> Hängige Verfahren werden auch nach Inkrafttreten dieses Gesetzes nach bisherigem Recht weitergeführt.
 
-**2**
-
-Das Rechtsmittelverfahren richtet sich nach neuem Recht, wenn bei dessen Inkrafttreten die Rechtsmittelfrist noch nicht abgelaufen ist.
+<sup>2</sup> Das Rechtsmittelverfahren richtet sich nach neuem Recht, wenn bei dessen Inkrafttreten die Rechtsmittelfrist noch nicht abgelaufen ist.
 
 #### Art. 33
 
-**1**
+**Referendum, Inkrafttreten**
 
-**Referendum,**
+<sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum[^33-1].
 
-Dieses Gesetz untersteht dem fakultativen Referendum[^33-1].
+<sup>2</sup> Die Regierung bestimmt den Zeitpunkt des Inkrafttretens[^33-2] dieses Gesetzes.
 
-**2**
+[^33-1]: Die Referendumsfrist ist am 18. März 2009 unbenutzt abgelaufen.
+[^33-2]: Mit RB vom 30. Juni 2009 auf den 1. August 2009 in Kraft gesetzt.
 
-**Inkrafttreten**
-
-Die Regierung bestimmt den Zeitpunkt des Inkrafttretens[^33-2] dieses Gesetzes.
-
-[^33-1]: Die Referendumsfrist ist am 18. März 2009 unbenutzt abgelaufen
-[^33-2]: Mit RB vom 30. Juni 2009 auf den 1. August 2009 in Kraft gesetzt 1.01.2011 9
+-
