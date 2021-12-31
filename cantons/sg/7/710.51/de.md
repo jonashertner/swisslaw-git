@@ -4,13 +4,13 @@ number: "710.51"
 title: Verordnung über den öffentlichen Verkehr
 short: VöV
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-10-20
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-16
 adopted: 2015-12-08
 in_force: 2016-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/710.51"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3048/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3300/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3048/pdf_file"
 
 (VöV)
 
-vom 08.12.2015 (Stand 01.01.2021)
+vom 08.12.2015 (Stand 01.01.2022)
 
 Die Regierung des Kantons St.Gallen
 
