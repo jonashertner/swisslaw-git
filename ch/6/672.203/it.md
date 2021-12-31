@@ -3,26 +3,27 @@ sr: "672.203"
 title: Ordinanza del 22 dicembre 2004 concernente lo sgravio fiscale dei dividendi svizzeri da partecipazioni determinanti di società straniere
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/6"
 language: it
-version: 2007-01-01
+version: 2022-01-01
 adopted: 2004-12-22
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/6/20070101/it/xml/fedlex-data-admin-ch-eli-cc-2005-6-20070101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/6/20070101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/6/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2005-6-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/6/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente lo sgravio fiscale dei dividendi svizzeri da partecipazioni determinanti di società straniere
 
-del 22 dicembre 2004 (Stato 1° gennaio 2007)
+del 22 dicembre 2004 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 1 e 2 capoverso 1 lettera a del decreto federale del 22 giugno 1951[^ingress-1] concernente l’esecuzione delle convenzioni internazionali conchiuse dalla Confederazione per evitare i casi di doppia imposizione; in esecuzione delle convenzioni concluse dalla Svizzera per evitare la doppia imposizione (convenzioni di doppia imposizione) e di altri trattati internazionali aventi parimenti per oggetto l’imposizione dei dividendi (altri trattati internazionali),
+visto l’articolo 35 capoverso 1 della legge federale del 18 giugno 2021[^ingress-1] concernente l’esecuzione delle convenzioni internazionali in ambito fiscale; in esecuzione delle convenzioni concluse dalla Confederazione per evitare la doppia imposizione (convenzioni per evitare la doppia imposizione) e di altri trattati internazionali aventi parimenti per oggetto l’imposizione dei dividendi (altri trattati internazionali),[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
+[^ingress-2]: Nuovo testo giusta il n. II 2 dell’O del 10 nov. 2021 concernente l’adeguamento del diritto federale nell’ambito dell’esecuzione delle convenzioni internazionali in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 #### Art. 1
 

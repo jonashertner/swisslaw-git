@@ -3,26 +3,27 @@ sr: "672.203"
 title: Verordnung vom 22. Dezember 2004 über die Steuerentlastung schweizerischer Dividenden aus wesentlichen Beteiligungen ausländischer Gesellschaften
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/6"
 language: de
-version: 2007-01-01
+version: 2022-01-01
 adopted: 2004-12-22
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/6/20070101/de/xml/fedlex-data-admin-ch-eli-cc-2005-6-20070101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/6/20070101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/6/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2005-6-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/6/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Steuerentlastung schweizerischer Dividenden aus wesentlichen Beteiligungen ausländischer Gesellschaften
 
-vom 22. Dezember 2004 (Stand am 1. Januar 2007)
+vom 22. Dezember 2004 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 1 und 2 Absatz 1 Buchstabe a des Bundesbeschlusses vom 22. Juni 1951[^ingress-1] über die Durchführung von zwischenstaatlichen Abkommen des Bundes zur Vermeidung der Doppelbesteuerung, in Ausführung der vom Bund abgeschlossenen Abkommen zur Vermeidung der Doppelbesteuerung (Doppelbesteuerungsabkommen) und anderer Staatsverträge, die ebenfalls die Besteuerung von Dividenden zum Gegenstand haben (anderer Staatsvertrag),
+gestützt auf Artikel 35 Absatz 1 des Bundesgesetzes vom 18. Juni 2021[^ingress-1] über die Durchführung von internationalen Abkommen im Steuerbereich, in Ausführung der vom Bund abgeschlossenen Abkommen zur Vermeidung der Doppelbesteuerung (Doppelbesteuerungsabkommen) und anderer Staatsverträge, die ebenfalls die Besteuerung von Dividenden zum Gegenstand haben (anderer Staatsvertrag),[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
+[^ingress-2]: Fassung gemäss Ziff. II 2 der V vom 10. Nov. 2021 über Anpassungen des Bundesrechts im Bereich der Durchführung von internationalen Abkommen im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 #### Art. 1
 

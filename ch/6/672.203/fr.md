@@ -3,26 +3,27 @@ sr: "672.203"
 title: Ordonnance du 22 décembre 2004 sur le dégrèvement des dividendes suisses payés dans les cas de participations importantes détenues par des sociétés étrangères
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/6"
 language: fr
-version: 2007-01-01
+version: 2022-01-01
 adopted: 2004-12-22
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/6/20070101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-6-20070101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/6/20070101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/6/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-6-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/6/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le dégrèvement des dividendes suisses payés dans les cas de participations importantes détenues par des sociétés étrangères
 
-du 22 décembre 2004 (Etat le 1<sup>er</sup> janvier 2007)
+du 22 décembre 2004 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
-vu les art. 1 et 2, al. 1, let. a, de l’arrêté fédéral du 22 juin 1951 concernant l’exécution des conventions internationales conclues par la Confédération en vue d’éviter les doubles impositions (conventions de double imposition)[^ingress-1], en exécution de ces conventions de double imposition et d’autres traités internationaux qui portent également sur l’imposition des dividendes (autres traités internationaux),
+vu l’art. 35, al. 1, de la loi fédérale du 18 juin 2021 relative à l’exécution des conventions internationales dans le domaine fiscal[^ingress-1], en exécution des conventions conclues par la Confédération en vue d’éviter les doubles impositions (conventions contre les doubles impositions) et d’autres traités internationaux qui portent également sur l’imposition des dividendes (autres traités internationaux),[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
+[^ingress-2]: Nouvelle teneur selon le ch. II 2 de l’O du 10 nov. 2021 modifiant le droit fédéral dans le domaine de l’exécution des conventions internationales dans le domaine fiscal, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 #### Art. 1
 
