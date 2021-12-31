@@ -3,18 +3,18 @@ sr: "747.224.131"
 title: Verordnung des UVEK vom 16. August 2019 über die Inkraftsetzung der Rheinschiffsuntersuchungsordnung
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/505"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2019-08-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/505/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2019-505-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/505/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/505/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2019-505-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/505/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des UVEK über die Inkraftsetzung der Rheinschiffsuntersuchungsordnung
 
-vom 16. August 2019 (Stand am 1. Januar 2020)
+vom 16. August 2019 (Stand am 1. Januar 2022)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
@@ -26,24 +26,21 @@ verordnet:
 
 #### Art. 1
 
-Die Rheinschiffsuntersuchungsordnung[^1-1] wird in der von der Zentralkommission für die Rheinschifffahrt am 29. Mai 2019 beschlossenen Fassung[^1-2] auf der Rheinstrecke von der schweizerischen Landesgrenze bis zur Mittleren Rheinbrücke in Basel auf den 1. Januar 2020 in Kraft gesetzt.
+Die Rheinschiffsuntersuchungsordnung wird in der von der Zentralkommission für die Rheinschifffahrt am 29. Mai 2019 beschlossenen Fassung[^1-1] auf der Rheinstrecke von der schweizerischen Landesgrenze bis zur Mittleren Rheinbrücke in Basel auf den 1. Januar 2020 in Kraft gesetzt.
 
-[^1-1]: Der Text dieser Ordnung wird nicht in der AS veröffentlicht. Er kann beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen gratis eingesehen oder im Internet unter www.bav.admin.ch &gt; Rechtliches &gt; Weitere Rechtsgrundlagen und Vorschriften &gt; Internationale Vereinbarungen &gt; Rheinschiffsuntersuchungsordnung oder www.ccr-zkr.org &gt; Dokumente &gt; ZKR Verordnungen &gt; Rheinschiffsuntersuchungsordnung (in deutscher und französischer Sprache) abgerufen werden. Separatdrucke sind beim BBL, Verkauf Bundespublikationen, 3003 Bern erhältlich.
-[^1-2]: Der Text dieser Fassung wird nicht in der AS veröffentlicht. Er kann beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen gratis eingesehen oder im Internet unter www.bav.admin.ch &gt; Rechtliches &gt; Weitere Rechtsgrundlagen und Vorschriften &gt; Internationale Vereinbarungen &gt; Rheinschiffsuntersuchungsordnung oder www.ccr-zkr.org &gt; Dokumente &gt; ZKR Verordnungen &gt; Rheinschiffsuntersuchungsordnung (in deutscher und französischer Sprache) abgerufen werden. Separatdrucke sind beim BBL, Verkauf Bundespublikationen, 3003 Bern erhältlich.
+[^1-1]: Der Text dieser Ordnung wird nicht in der AS veröffentlicht ([AS 2021 851](https://fedlex.data.admin.ch/eli/oc/2021/851)). Er kann beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen gratis eingesehen oder im Internet unter www.bav.admin.ch &gt; Rechtliches &gt; Weitere Rechtsgrundlagen und Vorschriften &gt; Internationale Vereinbarungen &gt; Rheinschiffsuntersuchungsordnung oder www.ccr-zkr.org &gt; Dokumente &gt; ZKR Verordnungen &gt; Rheinschiffsuntersuchungsordnung (in deutscher und französischer Sprache) abgerufen werden. Separatdrucke sind beim BBL, Verkauf Bundespublikationen, 3003 Bern erhältlich.
 
 #### Art. 2
 
 Die Rheinschiffsuntersuchungsordnung vom 18. Mai 1994[^2-1] wird aufgehoben, ebenfalls alle sie ergänzenden Anordnungen vorübergehender Art.
 
-[^2-1]: [[AS 1994 1778](https://fedlex.data.admin.ch/eli/oc/1994/1778_1778_1778), [1995 3938](https://fedlex.data.admin.ch/eli/oc/1995/3938_3938_3938), [1996 3435](https://fedlex.data.admin.ch/eli/oc/1996/3435_3435_3435), [1997 676](https://fedlex.data.admin.ch/eli/oc/1997/676_676_676), [1998 1475](https://fedlex.data.admin.ch/eli/oc/1998/1475_1475_1475), [2000 2211](https://fedlex.data.admin.ch/eli/oc/2000/343)[2213](https://fedlex.data.admin.ch/eli/oc/2000/344), [2001 2449](https://fedlex.data.admin.ch/eli/oc/2001/358)[2481](https://fedlex.data.admin.ch/eli/oc/2001/364), [2002 3074](https://fedlex.data.admin.ch/eli/oc/2002/448)[3075](https://fedlex.data.admin.ch/eli/oc/2002/449)[3077](https://fedlex.data.admin.ch/eli/oc/2002/450), [2003 381](https://fedlex.data.admin.ch/eli/oc/2003/85), [2004 1365](https://fedlex.data.admin.ch/eli/oc/2004/163)[2969](https://fedlex.data.admin.ch/eli/oc/2004/368), [2005 4689](https://fedlex.data.admin.ch/eli/oc/2005/616), [2007 287](https://fedlex.data.admin.ch/eli/oc/2007/60), [2008 707](https://fedlex.data.admin.ch/eli/oc/2008/177)[1633](https://fedlex.data.admin.ch/eli/oc/2008/234)[4087](https://fedlex.data.admin.ch/eli/oc/2008/572)[6003](https://fedlex.data.admin.ch/eli/oc/2008/830), [2009 1273](https://fedlex.data.admin.ch/eli/oc/2009/202), [2010 1605](https://fedlex.data.admin.ch/eli/oc/2010/230)[3407](https://fedlex.data.admin.ch/eli/oc/2010/469), [2011 1257](https://fedlex.data.admin.ch/eli/oc/2011/190)[1261](https://fedlex.data.admin.ch/eli/oc/2011/192), [2014 699](https://fedlex.data.admin.ch/eli/oc/2014/147)[727](https://fedlex.data.admin.ch/eli/oc/2014/157), [2015 369](https://fedlex.data.admin.ch/eli/oc/2015/51), [2016 527](https://fedlex.data.admin.ch/eli/oc/2016/97), [2017 671](https://fedlex.data.admin.ch/eli/oc/2017/120), [2018 2683](https://fedlex.data.admin.ch/eli/oc/2018/392)und [2019 1131](https://fedlex.data.admin.ch/eli/oc/2019/213)]
+[^2-1]: [[AS 1994 1778](https://fedlex.data.admin.ch/eli/oc/1994/1778_1778_1778), [1995 3938](https://fedlex.data.admin.ch/eli/oc/1995/3938_3938_3938), [1996 3435](https://fedlex.data.admin.ch/eli/oc/1996/3435_3435_3435), [1997 676](https://fedlex.data.admin.ch/eli/oc/1997/676_676_676), [1998 1475](https://fedlex.data.admin.ch/eli/oc/1998/1475_1475_1475), [2000 2211](https://fedlex.data.admin.ch/eli/oc/2000/343)[2213](https://fedlex.data.admin.ch/eli/oc/2000/344), [2001 2449](https://fedlex.data.admin.ch/eli/oc/2001/358)[2481](https://fedlex.data.admin.ch/eli/oc/2001/364), [2002 3074](https://fedlex.data.admin.ch/eli/oc/2002/448)[3075](https://fedlex.data.admin.ch/eli/oc/2002/449)[3077](https://fedlex.data.admin.ch/eli/oc/2002/450), [2003 381](https://fedlex.data.admin.ch/eli/oc/2003/85), [2004 1365](https://fedlex.data.admin.ch/eli/oc/2004/163)[2969](https://fedlex.data.admin.ch/eli/oc/2004/368), [2005 4689](https://fedlex.data.admin.ch/eli/oc/2005/616), [2007 287](https://fedlex.data.admin.ch/eli/oc/2007/60), [2008 707](https://fedlex.data.admin.ch/eli/oc/2008/177)[1633](https://fedlex.data.admin.ch/eli/oc/2008/234)[4087](https://fedlex.data.admin.ch/eli/oc/2008/572)[6003](https://fedlex.data.admin.ch/eli/oc/2008/830), [2009 1273](https://fedlex.data.admin.ch/eli/oc/2009/202), [2010 1605](https://fedlex.data.admin.ch/eli/oc/2010/230)[3407](https://fedlex.data.admin.ch/eli/oc/2010/469), [2011 1257](https://fedlex.data.admin.ch/eli/oc/2011/190)[1261](https://fedlex.data.admin.ch/eli/oc/2011/192), [2014 699](https://fedlex.data.admin.ch/eli/oc/2014/147)[727](https://fedlex.data.admin.ch/eli/oc/2014/157), [2015 369](https://fedlex.data.admin.ch/eli/oc/2015/51), [2016 527](https://fedlex.data.admin.ch/eli/oc/2016/97), [2017 671](https://fedlex.data.admin.ch/eli/oc/2017/120), [2018 2683](https://fedlex.data.admin.ch/eli/oc/2018/392), [2019 1131](https://fedlex.data.admin.ch/eli/oc/2019/213)]
 
 #### Art. 3
 
-<sup>1</sup> Die Schweizerischen Rheinhäfen sind mit dem Vollzug der Rheinschiffsuntersuchungsordnung vom 29. Mai 2019[^3-1] beauftragt.
+<sup>1</sup> Die Schweizerischen Rheinhäfen sind mit dem Vollzug der Rheinschiffsuntersuchungsordnung vom 29. Mai 2019 beauftragt.
 
 <sup>2</sup> Zuständige Behörde im Sinne von § 1.06 ist das Bundesamt für Verkehr.
-
-[^3-1]: Der Text dieser Ordnung wird nicht in der AS veröffentlicht. Er kann beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen gratis eingesehen oder im Internet unter www.bav.admin.ch &gt; Rechtliches &gt; Weitere Rechtsgrundlagen und Vorschriften &gt; Internationale Vereinbarungen &gt; Rheinschiffsuntersuchungsordnung oder www.ccr-zkr.org &gt; Dokumente &gt; ZKR Verordnungen &gt; Rheinschiffsuntersuchungsordnung (in deutscher und französischer Sprache) abgerufen werden. Separatdrucke sind beim BBL, Verkauf Bundespublikationen, 3003 Bern erhältlich.
 
 #### Art. 4
 
