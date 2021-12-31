@@ -3,18 +3,18 @@ sr: "946.231.18"
 title: "Ordonnance du 25 mai 2005 instituant des mesures à l'encontre du Soudan"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/371"
 language: fr
-version: 2020-08-25
+version: 2022-01-01
 adopted: 2005-05-25
 in_force: 2005-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20200825/fr/xml/fedlex-data-admin-ch-eli-cc-2005-371-20200825-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20200825/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-371-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Soudan
 
-du 25 mai 2005 (Etat le 25 août 2020)
+du 25 mai 2005 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -93,9 +93,11 @@ Au sens de la présente ordonnance, on entend par:
 
 <sup>2</sup> Le Secrétariat d’État aux migrations surveille l’exécution de l’interdiction d’entrée et de transit selon l’art. 4.
 
-<sup>3</sup> Le contrôle à la frontière incombe à l’Administration fédérale des douanes.
+<sup>3</sup> Le contrôle à la frontière incombe à l’Office fédéral de la douane et de la sécurité des frontières[^5-1].
 
 <sup>4</sup> Sur instructions du SECO, les autorités compétentes prennent les mesures nécessaires pour le gel des ressources économiques, p.ex. la mention d’un blocage du registre foncier ou la saisie ou la mise sous scellé des biens de luxe.
+
+[^5-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -115,7 +117,7 @@ Au sens de la présente ordonnance, on entend par:
 
 <sup>3</sup> Le SECO poursuit et juge les infractions au sens des art. 9 et 10 LEmb; il peut ordonner des saisies ou des confiscations.
 
-## Section 3 Reprise automatique de listes et entrée en vigueur****
+## Section 3 Reprise automatique de listes et entrée en vigueur
 
 [^sec3-1]
 
@@ -137,7 +139,7 @@ La présente ordonnance entre en vigueur le 26 mai 2005.
 
 [^8-1]: Introduit par le le ch. I 9 de l’O du 19 déc. 2012 modifiant la publication des annexes aux O relatives aux embargos, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)).
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 2, al. 1, 4, al. 1, et 7*a*)
 
@@ -147,9 +149,9 @@ Annexe*[^t-1]*
 
 **Remarque**
 
-\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent*[^annexu1-lvlu1-1]*.
+\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent[^annexu1-lvlu1-1].
 
-\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies*[^annexu1-lvlu1-2]*.
+\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annexu1-lvlu1-2].
 
 [^annexu1-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: www.un.org/fr/sc/ &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions concernant le Soudan &gt; Matériaux relatifs à la liste de sanctions.
 [^annexu1-lvlu1-2]: La banque de données SESAM est librement accessible Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
