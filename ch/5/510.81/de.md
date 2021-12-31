@@ -3,18 +3,18 @@ sr: "510.81"
 title: Verordnung vom 26. März 2003 über die Zoll- und Steuerbefreiung der Truppen im Rahmen des PfP-Truppenstatuts
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/192"
 language: de
-version: 2007-05-01
+version: 2022-01-01
 adopted: 2003-03-26
 in_force: 2003-05-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/192/20070501/de/xml/fedlex-data-admin-ch-eli-cc-2003-192-20070501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/192/20070501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/192/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2003-192-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/192/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Zoll- und Steuerbefreiung der Truppen im Rahmen des PfP-Truppenstatuts
 
-vom 26. März 2003 (Stand am 1. Mai 2007)
+vom 26. März 2003 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -64,7 +64,9 @@ Diese Verordnung regelt die Befreiung von Zöllen und bestimmten Steuern für Tr
 
 <sup>2</sup> Die Zollbefreiung schliesst die Befreiung von der Mehrwertsteuer und der Mineralölsteuer ein.
 
-<sup>3</sup> Die Eidgenössische Zollverwaltung regelt das Verfahren.
+<sup>3</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^4-1] regelt das Verfahren.
+
+[^4-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 
@@ -76,7 +78,7 @@ Anspruch auf von der Mineralölsteuer befreiten Treibstoff für Land-, Luft- und
 
 **Verfahren und Voraussetzungen**
 
-<sup>1</sup> Die zuständige Stelle des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport übermittelt der Eidgenössischen Zollverwaltung zum Zweck der Steuerbefreiung nach Artikel 5 eine Liste der für die dienstlichen Fahrzeuge der PfP-Truppen und des zivilen Gefolges verantwortlichen Personen mit Angabe der einzelnen Fahrzeuge sowie ihrer Immatrikulation.
+<sup>1</sup> Die zuständige Stelle des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport übermittelt dem BAZG zum Zweck der Steuerbefreiung nach Artikel 5 eine Liste der für die dienstlichen Fahrzeuge der PfP-Truppen und des zivilen Gefolges verantwortlichen Personen mit Angabe der einzelnen Fahrzeuge sowie ihrer Immatrikulation.
 
 <sup>2</sup>
 
@@ -85,11 +87,11 @@ Steuerfreier Treibstoff kann verwendet werden, sofern:
 - a. die begünstigte Person einen Treibstoffbezugsausweis besitzt;
 - b. ein in der Liste gemäss Absatz 1 aufgeführtes Fahrzeug mit dem Treibstoff betankt wird;
 - c. das Fahrzeug von den PfP-Truppen oder vom zivilen Gefolge für den dienstlichen Gebrauch verwendet wird;
-- d. der Treibstoff bei Lagern oder Tankstellen bezogen wird, die von der Eidgenössischen Zollverwaltung bezeichnet worden sind.
+- d. der Treibstoff bei Lagern oder Tankstellen bezogen wird, die vom BAZG bezeichnet worden sind.
 
 <sup>3</sup> Das Bundesamt für Betriebe des Heeres erteilt befristete Treibstoffbezugsausweise.
 
-<sup>4</sup> Die Eidgenössische Zollverwaltung regelt im Einvernehmen mit dem Bundesamt für Betriebe des Heeres das Verfahren, insbesondere bei besonderen Land- sowie bei Luft- und Wasserfahrzeugen.
+<sup>4</sup> Das BAZG regelt im Einvernehmen mit dem Bundesamt für Betriebe des Heeres das Verfahren, insbesondere bei besonderen Land- sowie bei Luft- und Wasserfahrzeugen.
 
 #### Art. 7
 

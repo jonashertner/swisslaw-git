@@ -3,18 +3,18 @@ sr: "510.81"
 title: "Ordinanza del 26 marzo 2003 concernente l'esenzione delle truppe dai dazi e dalle imposte nell'ambito dello Statuto delle truppe del PPP"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/192"
 language: it
-version: 2007-05-01
+version: 2022-01-01
 adopted: 2003-03-26
 in_force: 2003-05-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/192/20070501/it/xml/fedlex-data-admin-ch-eli-cc-2003-192-20070501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/192/20070501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/192/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2003-192-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/192/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente l’esenzione delle truppe dai dazi e dalle imposte nell’ambito dello Statuto delle truppe del PPP
 
-del 26 marzo 2003 (Stato 1° maggio 2007)
+del 26 marzo 2003 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -28,7 +28,7 @@ ordina:
 [^ingress-4]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
 [^ingress-5]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
 [^ingress-6]: [RS 0.510.1](https://fedlex.data.admin.ch/eli/cc/2003/428)
-[^ingress-7]: Nuovo testo giusta il n. 9 dell’all. 9 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^ingress-7]: Nuovo testo giusta l’all. 9 n. 9 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
 
 #### Art. 1
 
@@ -64,7 +64,9 @@ La presente ordinanza disciplina l’esenzione dai dazi e da determinate imposte
 
 <sup>2</sup> L’esenzione dai dazi comprende l’esenzione dall’imposta sul valore aggiunto e dall’imposta sugli oli minerali.
 
-<sup>3</sup> La Direzione generale delle dogane disciplina la procedura.
+<sup>3</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^4-1] disciplina la procedura.
+
+[^4-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il testo.
 
 #### Art. 5
 
@@ -76,7 +78,7 @@ Per i loro veicoli di servizio, le truppe del PPP che si trovano in Svizzera e i
 
 **Procedura e condizioni**
 
-<sup>1</sup> L’organo competente del Dipartimento federale della difesa, della protezione della popolazione e dello sport trasmette alla Direzione generale delle dogane, ai fini dell’esenzione dalle imposte ai sensi dell’articolo 5, un elenco delle persone responsabili per i veicoli di servizio delle truppe del PPP e dei civili che le accompagnano, indicando i singoli veicoli e la loro immatricolazione.
+<sup>1</sup> L’organo competente del Dipartimento federale della difesa, della protezione della popolazione e dello sport trasmette all’UDSC, ai fini dell’esenzione dalle imposte ai sensi dell’articolo 5, un elenco delle persone responsabili per i veicoli di servizio delle truppe del PPP e dei civili che le accompagnano, indicando i singoli veicoli e la loro immatricolazione.
 
 <sup>2</sup>
 
@@ -85,11 +87,11 @@ Per i loro veicoli di servizio, le truppe del PPP che si trovano in Svizzera e i
 - a. la persona beneficiaria è in possesso di una tessera per il carburante;
 - b. il carburante serve a rifornire un veicolo che figura sull’elenco di cui al capoverso 1;
 - c. il veicolo è utilizzato per scopi di servizio dalle truppe del PPP oppure dai civili che le accompagnano;
-- d. il carburante è ottenuto presso depositi o stazioni di rifornimento designati dalla Direzione generale delle dogane.
+- d. il carburante è ottenuto presso depositi o stazioni di rifornimento designati dall’UDSC.
 
 <sup>3</sup> L’Ufficio federale delle intendenze delle Forze terrestri rilascia tessere per il carburante limitate nel tempo.
 
-<sup>4</sup> La Direzione generale delle dogane, d’intesa con l’Ufficio federale delle intendenze delle Forze terrestri, disciplina la procedura, segnatamente nel caso di veicoli terrestri, aeromobili e imbarcazioni speciali.
+<sup>4</sup> L’UDSC, d’intesa con l’Ufficio federale delle intendenze delle Forze terrestri, disciplina la procedura, segnatamente nel caso di veicoli terrestri, aeromobili e imbarcazioni speciali.
 
 #### Art. 7
 
