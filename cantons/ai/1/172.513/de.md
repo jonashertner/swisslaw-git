@@ -4,13 +4,13 @@ number: "172.513"
 title: Gebührentarif
 short: GebT
 language: de
-version: 2020-07-01
-valid_until: 2021-12-31
-version_adopted: 2020-06-23
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-21
 adopted: 2019-09-17
 in_force: 2020-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/172.513"
-pdf: "https://ai.clex.ch/api/de/versions/1832/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/1983/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1832/pdf_file"
 
 (GebT)
 
-vom 17.09.2019 (Stand 01.07.2020)
+vom 17.09.2019 (Stand 01.01.2022)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -530,6 +530,11 @@ beschliesst:
 - 4\. Bewilligung zur Lagerung von Blut oder Blutprodukten — 200.-- bis 1'000.--
 - 5\. Bewilligung zum Inverkehrbringen von durch den Bundesrat als bewilligungspflichtig erklärten Medizinprodukten — 200.-- bis 2'000.--
 - 6\. Bewilligung gestützt auf das Betäubungsmittelgesetz — 150.-- bis 1'000.--
+
+<sup>5</sup> Die Gebühren für den Vollzug der Krankenversicherungsgesetzgebung betragen:
+
+- 1\. Entscheid über Zulassung von Leistungserbringenden zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung — 200.-- bis 2'000.--
+- 2\. Inspektionen — 200.-- bis 3'000.--
 
 #### Art. 28
 
