@@ -4,11 +4,11 @@ title: "Ordinanza del 27 maggio 2020 sul piano di controllo nazionale pluriennal
 short: OPCNP
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/459"
 language: it
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2020-459-20200701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-459-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20200701/it"
 
 (OPCNP)
 
-del 27 maggio 2020 (Stato 1° luglio 2020)
+del 27 maggio 2020 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 32 capoverso 2<sup>bis</sup> della legge federale del 16 dicembre 2005[^ingress-1] sulla protezione degli animali (LPAn); visto l’articolo 82 della legge del 15 dicembre 2000[^ingress-2] sugli agenti terapeutici (LATer); visti gli articoli 30 capoverso 5 lettera a e 42 capoverso 2 della legge del 20 giugno 2014[^ingress-3] sulle derrate alimentari (LDAl); visto l’articolo 181 capoverso 1<sup>bis</sup> della legge del 29 aprile 1998[^ingress-4] sull’agricoltura (LAgr); visto l’articolo 53 capoverso 3 della legge del 1° luglio 1966[^ingress-5] sulle epizoozie (LFE),
+visto l’articolo 32 capoverso 2<sup>bis</sup> della legge federale del 16 dicembre 2005[^ingress-1] sulla protezione degvli animali (LPAn); visto l’articolo 82 della legge del 15 dicembre 2000[^ingress-2] sugli agenti terapeutici (LATer); visti gli articoli 30 capoverso 5 lettera a e 42 capoverso 2 della legge del 20 giugno 2014[^ingress-3] sulle derrate alimentari (LDAl); visto l’articolo 181 capoverso 1<sup>bis</sup> della legge del 29 aprile 1998[^ingress-4] sull’agricoltura (LAgr); visto l’articolo 53 capoverso 3 della legge del 1° luglio 1966[^ingress-5] sulle epizoozie (LFE),
 
 ordina:
 
@@ -142,7 +142,7 @@ Il PCNP contiene informazioni generali in merito alla struttura e all’organizz
 
 **Elaborazione, approvazione e modifica del piano di controllo nazionale pluriennale**
 
-<sup>1</sup> L’Ufficio federale dell’agricoltura (UFAG) e l’Ufficio federale della sicurezza alimentare e di veterinaria (USAV) elaborano il PCNP in collaborazione con le competenti autorità cantonali d’esecuzione, l’Amministrazione federale delle dogane (AFD) e, se necessario, altri uffici federali.
+<sup>1</sup> L’Ufficio federale dell’agricoltura (UFAG) e l’Ufficio federale della sicurezza alimentare e di veterinaria (USAV) elaborano il PCNP in collaborazione con le competenti autorità cantonali d’esecuzione, l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^6-1] e, se necessario, altri uffici federali.
 
 <sup>2</sup> L’UFAG e l’USAV tengono conto, a tal fine, delle norme e raccomandazioni internazionali e dei rapporti compilati ai sensi degli articoli 19 e 20.
 
@@ -161,9 +161,11 @@ Il PCNP è adattato regolarmente agli ambiti di cui all’articolo 2 e riveduto 
 - e. eventuali risultati dei controlli svolti da autorità estere; e
 - f. le scoperte scientifiche.
 
-<sup>6</sup> L’UFAG e l’USAV consultano le autorità cantonali competenti e l’AFD prima di revisionare il PCNP, se le modifiche incidono in maniera significativa sulle loro risorse.
+<sup>6</sup> L’UFAG e l’USAV consultano le autorità cantonali competenti e l’UDSC prima di revisionare il PCNP, se le modifiche incidono in maniera significativa sulle loro risorse.
 
 <sup>7</sup> Le modifiche vengono proposte per approvazione al DEFR e al DFI.
+
+[^6-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta modifica è tenuto conto in tutto il presente testo.
 
 ## Sezione 3: Controllo dei processi
 
@@ -233,7 +235,7 @@ Le disposizioni delle sezioni 3 e 4 si applicano ai controlli nella produzione p
 - c. ordinanza del 23 novembre 2005[^10-3] concernente la produzione primaria;
 - d. ordinanza del 20 ottobre 2010[^10-4] sul controllo del latte;
 - e. ordinanza del 27 giugno 1995[^10-5] sulle epizoozie;
-- f. ordinanza BDTA del 26 ottobre 2011[^10-6].
+- f.[^10-6] ordinanza del 3 novembre 2021[^10-7] concernente Identitas AG e la banca dati sul traffico di animali.
 
 <sup>2</sup> Gli ambiti di controllo per la produzione primaria sono elencati nell’allegato 2.
 
@@ -242,7 +244,8 @@ Le disposizioni delle sezioni 3 e 4 si applicano ai controlli nella produzione p
 [^10-3]: [RS 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
 [^10-4]: [RS 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
 [^10-5]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^10-6]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^10-6]: Nuovo testo giusta l’all. 3 n. II 5 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^10-7]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
 
 #### Art. 11
 
@@ -431,7 +434,7 @@ Allegato 1
 [^annex1-lvlu1-lvlu2-1]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
 [^annex1-lvlu1-lvlu2-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
-### Elenco 3 Aziende soggette all’obbligo di notifica di cui agli articoli 20 e 62 dell’ordinanza del 16 dicembre 2016 sulle derrate alimentari e gli oggetti d’uso
+### Elenco 3 Aziende soggette all’obbligo di notifica di cui agli articoli 20 e 62 dell’ordinanza del 16 dicembre 2016**** sulle derrate alimentari e gli oggetti d’uso
 
 [^annex1-lvlu1-lvlu3-1]
 

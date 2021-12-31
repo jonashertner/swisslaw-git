@@ -4,11 +4,11 @@ title: Ordonnance du 27 mai 2020 sur le plan de contrôle national pluriannuel d
 short: OPCNP
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/459"
 language: fr
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2020-459-20200701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-459-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20200701/fr"
 
 (OPCNP)
 
-du 27 mai 2020 (État le 1<sup>er</sup> juillet 2020)
+du 27 mai 2020 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -142,7 +142,7 @@ Le PCNP contient des informations générales sur la structure et l’organisati
 
 **Élaboration, approbation et révision du plan de contrôle national pluriannuel**
 
-<sup>1</sup> L’Office fédéral de l’agriculture (OFAG) et l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) élaborent le PCNP en collaboration avec les autorités d’exécution cantonales compétentes et l’Administration fédérale des douanes (AFD) et, au besoin, d’autres offices fédéraux.
+<sup>1</sup> L’Office fédéral de l’agriculture (OFAG) et l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) élaborent le PCNP en collaboration avec les autorités d’exécution cantonales compétentes et l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^6-1] et, au besoin, d’autres offices fédéraux.
 
 <sup>2</sup> L’OFAG et l’OSAV tiennent compte pour ce faire des normes et recommandations internationales et des rapports établis selon les art. 19 et 20.
 
@@ -161,9 +161,11 @@ Il est adapté régulièrement aux domaines visés à l’art. 2 et révisé not
 - e. les cas échéant, les résultats des contrôles effectués par des autorités étrangères, et
 - f. les découvertes scientifiques.
 
-<sup>6</sup> L’OFAG et l’OSAV consultent les autorités cantonales compétentes et l’AFD avant de réviser le PCNP, si les modifications touchent leurs ressources de manière significative.
+<sup>6</sup> L’OFAG et l’OSAV consultent les autorités cantonales compétentes et l’OFDF avant de réviser le PCNP, si les modifications touchent leurs ressources de manière significative.
 
 <sup>7</sup> Les modifications sont soumises au DEFR et au DFI pour approbation.
+
+[^6-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ## Section 3 Contrôle des processus
 
@@ -233,7 +235,7 @@ Les dispositions des sections 3 et 4 s’appliquent aux contrôles dans la produ
 - c. ordonnance du 23 novembre 2005 sur la production primaire[^10-3];
 - d. ordonnance du 20 octobre 2010 sur le contrôle du lait[^10-4];
 - e. ordonnance du 27 juin 1995 sur les épizooties[^10-5];
-- f. ordonnance du 26 octobre 2011 sur la BDTA[^10-6].
+- f.[^10-6] ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux[^10-7].
 
 <sup>2</sup> Les domaines de contrôle concernés sont énumérés à l’annexe 2.
 
@@ -242,7 +244,8 @@ Les dispositions des sections 3 et 4 s’appliquent aux contrôles dans la produ
 [^10-3]: [RS 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
 [^10-4]: [RS 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
 [^10-5]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^10-6]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^10-6]: Nouvelle teneur selon l’annexe 3 ch. II 5 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^10-7]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
 
 #### Art. 11
 
@@ -431,7 +434,7 @@ Annexe 1
 [^annex1-lvlu1-lvlu2-1]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
 [^annex1-lvlu1-lvlu2-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
-### Liste 3 Entreprises soumises au devoir d’annonce selon les art. 20 et 62 de l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels
+### Liste 3 Entreprises soumises au devoir d’annonce selon les art. 20 et 62 de l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels****
 
 [^annex1-lvlu1-lvlu3-1]
 

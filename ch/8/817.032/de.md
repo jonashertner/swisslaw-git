@@ -4,11 +4,11 @@ title: Verordnung vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollpl
 short: MNKPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/459"
 language: de
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2020-459-20200701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-459-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20200701/de"
 
 (MNKPV)
 
-vom 27. Mai 2020 (Stand am 1. Juli 2020)
+vom 27. Mai 2020 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -142,7 +142,7 @@ Der MNKP enthält allgemeine Angaben zur Struktur und zur Organisation des Kontr
 
 **Erarbeitung, Genehmigung und Änderung des mehrjährigen nationalen Kontrollplans**
 
-<sup>1</sup> Das Bundesamt für Landwirtschaft (BLW) und das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) erarbeiten den MNKP gemeinsam mit den zuständigen kantonalen Vollzugsbehörden und mit der Eidgenössischen Zollverwaltung (EZV) und bei Bedarf mit anderen Bundesämtern.
+<sup>1</sup> Das Bundesamt für Landwirtschaft (BLW) und das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) erarbeiten den MNKP gemeinsam mit den zuständigen kantonalen Vollzugsbehörden und mit dem Bundesamt für Zoll und Grenzsicherheit (BAZG)[^6-1] und bei Bedarf mit anderen Bundesämtern.
 
 <sup>2</sup> Das BLW und das BLV berücksichtigen dabei die internationalen Normen und Empfehlungen sowie die Berichte nach den Artikeln 19 und 20.
 
@@ -161,9 +161,11 @@ Der MNKP wird regelmässig an die in Artikel 2 genannten Bereiche angepasst und 
 - e. allfällige Ergebnisse der von ausländischen Behörden durchgeführten Kontrollen; und
 - f. wissenschaftliche Erkenntnisse.
 
-<sup>6</sup> Das BLW und das BLV konsultieren die zuständigen kantonalen Behörden und die EZV vor einer Revision des MNKP, falls die Anpassungen einen erheblichen Einfluss auf deren Ressourcen haben.
+<sup>6</sup> Das BLW und das BLV konsultieren die zuständigen kantonalen Behörden und das BAZG vor einer Revision des MNKP, falls die Anpassungen einen erheblichen Einfluss auf deren Ressourcen haben.
 
 <sup>7</sup> Die Änderungen werden dem WBF und dem EDI zur Genehmigung vorgelegt.
+
+[^6-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 ## 3. Abschnitt: Prozesskontrolle
 
@@ -233,7 +235,7 @@ Die Bestimmungen des 3. und 4. Abschnitts gelten für die Kontrollen in der Prim
 - c. Verordnung vom 23. November 2005[^10-3] über die Primärproduktion;
 - d. Milchprüfungsverordnung vom 20. Oktober 2010[^10-4]
 - e. Tierseuchenverordnung vom 27. Juni 1995[^10-5];
-- f. TVD-Verordnung vom 26. Oktober 2011[^10-6].
+- f.[^10-6] Verordnung vom 3. November 2021[^10-7] über die Identitas AG und die Tierverkehrsdatenbank.
 
 <sup>2</sup> Die Kontrollbereiche für die Primärproduktion sind im Anhang 2 aufgeführt.
 
@@ -242,7 +244,8 @@ Die Bestimmungen des 3. und 4. Abschnitts gelten für die Kontrollen in der Prim
 [^10-3]: [SR 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
 [^10-4]: [SR 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
 [^10-5]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^10-6]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^10-6]: Fassung gemäss Anhang 3 Ziff. II 5 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^10-7]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
 
 #### Art. 11
 
@@ -372,7 +375,7 @@ Das BLW und das BLV legen in ihren jeweiligen Kompetenzbereichen auf der Grundla
 
 Die Verordnung vom 16. Dezember 2016[^22-1] über den nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände wird aufgehoben.
 
-[^22-1]: [[AS 2017 339](https://fedlex.data.admin.ch/eli/oc/2017/64), [2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673)Anhang 2 Ziff. 2 [4209](https://fedlex.data.admin.ch/eli/oc/2018/682)Anhang 8 Ziff. 5]
+[^22-1]: [[AS 2017 339](https://fedlex.data.admin.ch/eli/oc/2017/64); [2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673)Anhang 2 Ziff. 2, [4209](https://fedlex.data.admin.ch/eli/oc/2018/682)Anhang 8 Ziff. 5]
 
 #### Art. 23
 
@@ -431,7 +434,7 @@ Anhang 1
 [^annex1-lvlu1-lvlu2-1]: [SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
 [^annex1-lvlu1-lvlu2-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
-### Liste 3: Betriebe, die der Meldepflicht nach den Artikeln 20 und 62 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016 unterstehen
+### Liste 3: Betriebe, die der Meldepflicht nach den Artikeln 20 und 62 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016**** unterstehen
 
 [^annex1-lvlu1-lvlu3-1]
 
@@ -595,6 +598,6 @@ Anhang 4
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annex4-lvlu1-1]
+…[^annex4-lvlu1-1]
 
 [^annex4-lvlu1-1]: Die Änderungen können unter [AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)konsultiert werden.
