@@ -4,11 +4,11 @@ title: "Legge federale del 19 giugno 1992 sull'assicurazione militare (LAM)"
 short: LAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1992-06-19
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20210101/it"
 
 (LAM)
 
-del 19 giugno 1992 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 19 giugno 1992 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1141,12 +1141,11 @@ Le rendite per coniugi e per orfani in caso di prestazioni previdenziali insuffi
 
 <sup>2</sup> Il Consiglio federale può trasferire la gestione dell’assicurazione militare all’Istituto nazionale svizzero di assicurazione contro gli infortuni (INSAI).[^81-2]
 
-<sup>3</sup> Per adempiere i loro compiti legali, i partecipanti all’esercizio dell’assicurazione militare sono autorizzati a utilizzare sistematicamente il numero d’assicurato dell’AVS conformemente alle disposizioni della legge federale del 20 dicembre 1946[^81-3] sull’assicurazione per la vecchiaia e per i superstiti.[^81-4]
+<sup>3</sup> ...[^81-3]
 
 [^81-1]: A seguito dell’avvenuto trasferimento all’INSAI dell’assicurazione militare, questo ufficio é stato soppresso.
 [^81-2]: Nuovo testo giusta in n. I 1 della LF del 18 mar. 2005 sul trasferimento della gestione dell’assicurazione militare all’INSAI, in vigore dal 1° lug. 2005 ([RU 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [FF 2004 2493](https://fedlex.data.admin.ch/eli/fga/2004/552)).
-[^81-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^81-4]: Introdotto dall’all. n. 13 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^81-3]: Introdotto dall’all. n. 13 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS) ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)). Abrogato dall’all. n. 33 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 82
 
@@ -1235,12 +1234,9 @@ L’assicurazione militare può ordinare a terzi soggetti all’obbligo di notif
 
 #### Art. 93
 
-**Perizia (art. 44 LPGA[^93-2])**[^93-1]
+[^93-1]
 
-Se l’assicurazione militare e il richiedente o i suoi congiunti non possono accordarsi sulla scelta del perito, l’assicurazione militare emana una decisione incidentale impugnabile.
-
-[^93-1]: Nuovo testo giusta l’all. n. 13 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^93-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^93-1]: Abrogato dall’all. n. 6 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), con effetto dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 94
 
@@ -1258,11 +1254,12 @@ Gli organi incaricati di applicare la presente legge o di controllarne o sorvegl
 - b. calcolare e riscuotere i contributi assicurativi;
 - c. far valere una pretesa di regresso nei confronti di terzi responsabili;
 - d. allestire statistiche;
-- e.[^94a-3] assegnare o verificare il numero d’assicurato dell’AVS.
+- e.[^94a-3] assegnare o verificare il numero AVS[^94a-4].
 
 [^94a-1]: Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2765](https://fedlex.data.admin.ch/eli/oc/2000/465); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 [^94a-2]: Nuovo testo giusta l’all. n. 13 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^94a-3]: Introdotta dell’all. n. 13 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^94a-4]: Nuova espr. giusta l’all. n. 33 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 94b
 
@@ -1285,7 +1282,7 @@ Gli organi incaricati di applicare la presente legge o di controllarne o sorvegl
 Purché nessun interesse privato preponderante vi si opponga, gli organi incaricati di applicare la presente legge o di controllarne o sorvegliarne l’esecuzione possono comunicare i dati, in deroga all’articolo 33 LPGA[^95a-2]:[^95a-3]
 
 - a. agli organi di altre assicurazioni sociali, qualora, in deroga all’articolo 32 capoverso 2 LPGA, l’obbligo di comunicazione sia sancito da una legge federale;
-- [tab] a<sup>bis</sup>.[^95a-4] agli organi di un’altra assicurazione sociale per assegnare o verificare il numero d’assicurato dell’AVS;
+- [tab] a<sup>bis</sup>.[^95a-4] agli organi di un’altra assicurazione sociale per assegnare o verificare il numero AVS;
 - b. alle autorità incaricate dell’esecuzione della legge federale del 12 giugno 1959[^95a-5] sulla tassa d’esenzione dall’obbligo militare, conformemente all’articolo 24 di tale legge;
 - c. agli organi della statistica federale, conformemente alla legge federale del 9 ottobre 1992[^95a-6] sulla statistica federale;
 - d. al Gruppo della sanità, qualora ne necessiti per adempiere i compiti della commissione per la visita sanitaria;
@@ -1486,7 +1483,7 @@ La Confederazione, i Cantoni e i Comuni non possono gravare di un’imposta dire
 
 Data dell’entrata in vigore: 1° gennaio 1994[^119-1]
 
-[^119-1]: DCF dell’11 nov. 1993
+[^119-1]: DCF dell’11 nov. 1993.
 
 ## Disposizioni finali relative alla modifica del 17 giugno 2005****
 
@@ -1512,8 +1509,6 @@ Abrogata
 
 ### 2. a 8.
 
-### ...****
+...[^annexu1-lvlu1-lvl2-1]
 
-[^annexu1-lvlu1-lvlu3-1]
-
-[^annexu1-lvlu1-lvlu3-1]: Le mod. possono essere consultate alla [RU 1993 3043](https://fedlex.data.admin.ch/eli/oc/1993/3043_3043_3043).
+[^annexu1-lvlu1-lvl2-1]: Le mod. possono essere consultate alla [RU 1993 3043](https://fedlex.data.admin.ch/eli/oc/1993/3043_3043_3043).

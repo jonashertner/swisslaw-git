@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. Juni 1992 über die Militärversicherung (MVG)
 short: MVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1992-06-19
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20210101/de"
 
 (MVG)
 
-vom 19. Juni 1992 (Stand am 1. Januar 2021)
+vom 19. Juni 1992 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1133,12 +1133,11 @@ Ehegatten- und Waisenrenten bei ungenügenden Vorsorgeleistungen nach Artikel 54
 
 <sup>2</sup> Der Bundesrat kann die Führung der Militärversicherung der Schweizerischen Unfallversicherungsanstalt (SUVA) übertragen.[^81-2]
 
-<sup>3</sup> Die an der Durchführung der Militärversicherung Beteiligten sind berechtigt, die Versichertennummer der AHV nach den Bestimmungen des Bundesgesetzes vom 20. Dezember 1946[^81-3] über die Alters- und Hinterlassenenversicherung für die Erfüllung ihrer gesetzlichen Aufgaben systematisch zu verwenden.[^81-4]
+<sup>3</sup> ...[^81-3]
 
 [^81-1]: Amt aufgrund des Transfers der Militärversicherung an die SUVA heute aufgelöst.
 [^81-2]: Fassung gemäss Ziff. I 1 des BG vom 18. März 2005 über die Übertragung der Führung der Militärversicherung an die SUVA, in Kraft seit 1. Juli 2005 ([AS 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [BBl 2004 2851](https://fedlex.data.admin.ch/eli/fga/2004/552)).
-[^81-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^81-4]: Eingefügt durch Anhang Ziff. 13 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^81-3]: Eingefügt durch Anhang Ziff. 13 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer) ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)). Aufgehoben durch Anhang Ziff. 33 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), mit Wirkung seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 82
 
@@ -1227,12 +1226,9 @@ Auskunftspflichtige Dritte können von der Militärversicherung zur Ablegung ein
 
 #### Art. 93
 
-**Gutachten (Art. 44 ATSG[^93-2])**[^93-1]
+[^93-1]
 
-Können sich die Militärversicherung und der Gesuchsteller oder seine Angehörigen über den Gutachter nicht einigen, so erlässt die Militärversicherung eine selbstständig anfechtbare Zwischenverfügung.
-
-[^93-1]: Fassung gemäss Anhang Ziff. 13 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^93-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^93-1]: Aufgehoben durch Anhang Ziff. 6 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), mit Wirkung seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 94
 
@@ -1250,11 +1246,12 @@ Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführ
 - b. Versicherungsbeiträge zu berechnen und zu erheben;
 - c. ein Rückgriffsrecht gegenüber einem haftpflichtigen Dritten geltend zu machen;
 - d. Statistiken zu führen;
-- e.[^94a-3] die Versichertennummer der AHV zuzuweisen oder zu verifizieren.
+- e.[^94a-3] die AHV-Nummer[^94a-4] zuzuweisen oder zu verifizieren.
 
 [^94a-1]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2765](https://fedlex.data.admin.ch/eli/oc/2000/465); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 [^94a-2]: Fassung gemäss Anhang Ziff. 13 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^94a-3]: Eingefügt durch Anhang Ziff. 13 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^94a-4]: Ausdruck gemäss Anhang Ziff. 33 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 94b
 
@@ -1277,7 +1274,7 @@ Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführ
 Sofern kein überwiegendes Privatinteresse entgegensteht, dürfen Organe, die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführung dieses Gesetzes betraut sind, Daten in Abweichung von Artikel 33 ATSG[^95a-2] bekannt geben:[^95a-3]
 
 - a. Organen einer anderen Sozialversicherung, wenn sich in Abweichung von Artikel 32 Absatz 2 ATSG eine Pflicht zur Bekanntgabe aus einem Bundesgesetz ergibt;
-- a<sup>bis</sup>.[^95a-4] Organen einer anderen Sozialversicherung für die Zuweisung oder Verifizierung der Versichertennummer der AHV;
+- a<sup>bis</sup>.[^95a-4] Organen einer anderen Sozialversicherung für die Zuweisung oder Verifizierung der AHV-Nummer;
 - b. den mit der Durchführung des Bundesgesetzes vom 12. Juni 1959[^95a-5] über den Wehrpflichtersatz betrauten Behörden, nach Artikel 24 des genannten Gesetzes;
 - c. den Organen der Bundesstatistik, nach dem Bundesstatistikgesetz vom 9. Oktober 1992[^95a-6];
 - d. der Untergruppe Sanität, wenn die Daten für die Erfüllung der Aufgaben der sanitärischen Untersuchungskommission erforderlich sind;
@@ -1498,7 +1495,7 @@ Anhang
 
 [^annexu1-lvlu1-lvl1-1]
 
-[^annexu1-lvlu1-lvl1-1]: [[AS 1949 1671](https://fedlex.data.admin.ch/eli/oc/1949/1671_1775_1705), [1956 759](https://fedlex.data.admin.ch/eli/oc/1956/759_815_825), [1959 303](https://fedlex.data.admin.ch/eli/oc/1959/303_316_293), [1964 253](https://fedlex.data.admin.ch/eli/oc/1964/253_245_245), [1968 563](https://fedlex.data.admin.ch/eli/oc/1968/563_588_580), [1972 897](https://fedlex.data.admin.ch/eli/oc/1972/897_909_1069)Art. 15 Ziff. I, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 5 [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)Art. 116, [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)Anhang Ziff. 9, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 414]
+[^annexu1-lvlu1-lvl1-1]: [[AS 1949 1671](https://fedlex.data.admin.ch/eli/oc/1949/1671_1775_1705); [1956 759](https://fedlex.data.admin.ch/eli/oc/1956/759_815_825); [1959 303](https://fedlex.data.admin.ch/eli/oc/1959/303_316_293); [1964 253](https://fedlex.data.admin.ch/eli/oc/1964/253_245_245); [1968 563](https://fedlex.data.admin.ch/eli/oc/1968/563_588_580); [1972 897](https://fedlex.data.admin.ch/eli/oc/1972/897_909_1069)Art. 15 Ziff. I; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 5, [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)Art. 116; [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)Anhang Ziff. 9; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II, 414]
 
 Aufgehoben
 

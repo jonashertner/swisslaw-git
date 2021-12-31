@@ -4,11 +4,11 @@ title: "Loi fédérale du 19 juin 1992 sur l'assurance militaire (LAM)"
 short: LAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1992-06-19
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20210101/fr"
 
 (LAM)
 
-du 19 juin 1992 (Etat le 1<sup>er</sup> janvier 2021)
+du 19 juin 1992 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1138,12 +1138,11 @@ Les rentes du conjoint et des orphelins en cas de prestations de prévoyance ins
 
 <sup>2</sup> Le Conseil fédéral peut transférer la gestion de l’assurance militaire à la Caisse nationale suisse d’assurance en cas d’accidents (CNA).[^81-2]
 
-<sup>3</sup> Les organes chargés d’appliquer l’assurance militaire sont habilités à utiliser systématiquement le numéro d’assuré AVS pour l’accomplissement de leurs tâches légales, conformément à la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^81-3].[^81-4]
+<sup>3</sup> ...[^81-3]
 
 [^81-1]: Suite au transfert à la CNA de l’assurance militaire, cet office a été supprimé.
 [^81-2]: Nouvelle teneur selon le ch. I 1 de la LF du 18 mars 2005 sur le transfert à la CNA de la gestion de l’assurance militaire, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [FF 2004 2659](https://fedlex.data.admin.ch/eli/fga/2004/552)).
-[^81-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^81-4]: Introduit par l’annexe ch. 13 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^81-3]: Introduit par l’annexe ch. 13 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS) ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)). Abrogé par l’annexe ch. 33 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 82
 
@@ -1232,12 +1231,9 @@ L’assurance militaire peut obliger les tiers tenus de fournir des renseignemen
 
 #### Art. 93
 
-**Expertise (art. 44 LPGA[^93-2])**[^93-1]
+[^93-1]
 
-Si l’assurance militaire et le requérant ou ses proches ne peuvent s’accorder sur le choix de l’expert, l’assurance militaire rend une décision incidente, sujette à recours.
-
-[^93-1]: Nouvelle teneur selon l’annexe ch. 13 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^93-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^93-1]: Abrogé par l’annexe ch. 6 de la LF du 19 juin 2020 (Développement continu de l’AI), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 94
 
@@ -1255,11 +1251,12 @@ Les organes chargés d’appliquer la présente loi, d’en contrôler ou survei
 - b. calculer et percevoir les cotisations;
 - c. faire valoir une prétention récursoire contre le tiers responsable;
 - d. établir des statistiques;
-- e.[^94a-3] attribuer ou vérifier le numéro d’assuré AVS.
+- e.[^94a-3] attribuer ou vérifier le numéro AVS[^94a-4].
 
 [^94a-1]: Introduit par le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2765](https://fedlex.data.admin.ch/eli/oc/2000/465); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 [^94a-2]: Nouvelle teneur selon l’annexe ch. 13 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^94a-3]: Introduite par l’annexe ch. 13 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^94a-4]: Nouvelle expression selon l’annexe ch. 33 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 94b
 
@@ -1282,7 +1279,7 @@ Les organes chargés d’appliquer la présente loi, d’en contrôler ou survei
 Dans la mesure où aucun intérêt privé prépondérant ne s’y oppose, les organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller l’application peuvent communiquer des données, en dérogation à l’art. 33 LPGA[^95a-2]:
 
 - a. aux organes d’une autre assurance sociale, lorsque, en dérogation à l’art. 32, al. 2, LPGA, l’obligation de les communiquer résulte d’une loi fédérale;
-- [tab] a<sup>bis</sup>.[^95a-3]aux organes d’une autre assurance sociale, en vue d’attribuer ou de vérifier le numéro d’assuré AVS;
+- [tab] a<sup>bis</sup>.[^95a-3]aux organes d’une autre assurance sociale, en vue d’attribuer ou de vérifier le numéro AVS;
 - b. aux autorités chargées d’appliquer la loi fédérale du 12 juin 1959 sur la taxe d’exemption de l’obligation de servir[^95a-4], conformément à l’art. 24 de ladite loi;
 - c. aux organes de la statistique fédérale, conformément à la loi du 9 octobre 1992 sur la statistique fédérale[^95a-5];
 - d. au Groupe des affaires sanitaires de l’armée, lorsqu’elles sont nécessaires à l’accomplissement de ses tâches pour le compte de la commission de visite sanitaire;
@@ -1503,7 +1500,7 @@ Annexe
 
 [^annexu1-lvlu1-lvl1-1]
 
-[^annexu1-lvlu1-lvl1-1]: [[RO 1949 1775](https://fedlex.data.admin.ch/eli/oc/1949/1671_1775_1705), [1956 815](https://fedlex.data.admin.ch/eli/oc/1956/759_815_825), [1959 316](https://fedlex.data.admin.ch/eli/oc/1959/303_316_293), [1964 245](https://fedlex.data.admin.ch/eli/oc/1964/253_245_245)ch. I, II, [1968 588](https://fedlex.data.admin.ch/eli/oc/1968/563_588_580), **1979** 909 art. 15 ch. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 5 [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 116, [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)appendice ch. 9, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 414]
+[^annexu1-lvlu1-lvl1-1]: [[RO 1949 1775](https://fedlex.data.admin.ch/eli/oc/1949/1671_1775_1705); [1956 815](https://fedlex.data.admin.ch/eli/oc/1956/759_815_825); [1959 316](https://fedlex.data.admin.ch/eli/oc/1959/303_316_293); [1964 245](https://fedlex.data.admin.ch/eli/oc/1964/253_245_245)ch. I, II; [1968 588](https://fedlex.data.admin.ch/eli/oc/1968/563_588_580); **1979** 909 art. 15 ch. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 5, [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 116; [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)appendice ch. 9; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 414]
 
 Abrogée
 
