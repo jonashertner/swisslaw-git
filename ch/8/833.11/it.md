@@ -4,11 +4,11 @@ title: "Ordinanza del 10 novembre 1993 sull'assicurazione militare (OAM)"
 short: OAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1993-11-10
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20210101/it"
 
 (OAM)
 
-del 10 novembre 1993 (Stato 1° gennaio 2021)
+del 10 novembre 1993 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -513,7 +513,7 @@ Il valore attuale della rendita viene calcolato fondandosi sull’importo annuo 
 
 **Premio per prestazioni in caso di malattia**
 
-<sup>1</sup> Il premio mensile per le prestazioni in caso di malattia ammonta a 355 franchi.[^28a-1]
+<sup>1</sup> Il premio mensile per le prestazioni in caso di malattia ammonta a 365 franchi.[^28a-1]
 
 <sup>2</sup>
 
@@ -527,16 +527,16 @@ Per gli assicurati a titolo professionale, il cui stipendio rientra in una delle
 
 <sup>4</sup> La parte dei premi relativa al rischio di malattia degli assicurati a titolo professionale impiegati a tempo parziale è uguale a quella dovuta con un impiego a tempo pieno.
 
-[^28a-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5303](https://fedlex.data.admin.ch/eli/oc/2020/918)).
+[^28a-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 655](https://fedlex.data.admin.ch/eli/oc/2021/655)).
 [^28a-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 #### Art. 28b
 
 **Premio per prestazioni in caso di infortunio per gli assicurati dell’assicurazione di base facoltativa**[^28b-1]
 
-Per gli assicurati dell’assicurazione di base facoltativa (assicurati a titolo facoltativo), il supplemento al premio per le prestazioni in caso di malattia previsto per le prestazioni in caso di infortunio ammonta a 40 franchi al mese.
+Per gli assicurati dell’assicurazione di base facoltativa (assicurati a titolo facoltativo), il supplemento al premio per le prestazioni in caso di malattia previsto per le prestazioni in caso di infortunio ammonta a 46 franchi al mese.
 
-[^28b-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5303](https://fedlex.data.admin.ch/eli/oc/2020/918)).
+[^28b-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 655](https://fedlex.data.admin.ch/eli/oc/2021/655)).
 
 #### Art. 28c
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 10 novembre 1993 sur l'assurance militaire (OAM)"
 short: OAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1993-11-10
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20210101/fr"
 
 (OAM)
 
-du 10 novembre 1993 (Etat le 1<sup>er</sup> janvier 2021)
+du 10 novembre 1993 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -513,7 +513,7 @@ La valeur capitalisée de la rente est calculée à partir de la date de la déc
 
 **Primes pour les prestations en cas de maladie**
 
-<sup>1</sup> La prime mensuelle pour les prestations en cas de maladie est de 355 francs.[^28a-1]
+<sup>1</sup> La prime mensuelle pour les prestations en cas de maladie est de 365 francs.[^28a-1]
 
 <sup>2</sup>
 
@@ -527,16 +527,16 @@ La prime est réduite comme suit pour les assurés à titre professionnel dont l
 
 <sup>4</sup> La partie des primes afférente au risque de maladie des assurés à titre professionnel engagés à temps partiel est égale à celle qu’ils devraient verser s’ils avaient été engagés à plein temps.
 
-[^28a-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5303](https://fedlex.data.admin.ch/eli/oc/2020/918)).
+[^28a-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 655](https://fedlex.data.admin.ch/eli/oc/2021/655)).
 [^28a-2]: RS **172.220****.****111.3**
 
 #### Art. 28b
 
 **Prime pour les prestations en cas d’accident des assurés auprès de l’assurance de base facultative**[^28b-1]
 
-Pour les assurés auprès de l’assurance de base facultative (assurés à titre facultatif), le supplément prévu pour les prestations en cas d’accident, qui s’ajoute à la prime pour les prestations en cas de maladie, s’élève à 40 francs par mois.
+Pour les assurés auprès de l’assurance de base facultative (assurés à titre facultatif), le supplément prévu pour les prestations en cas d’accident, qui s’ajoute à la prime pour les prestations en cas de maladie, s’élève à 46 francs par mois.
 
-[^28b-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5303](https://fedlex.data.admin.ch/eli/oc/2020/918)).
+[^28b-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 655](https://fedlex.data.admin.ch/eli/oc/2021/655)).
 
 #### Art. 28c
 

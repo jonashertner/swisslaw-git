@@ -4,11 +4,11 @@ title: Verordnung vom 10. November 1993 über die Militärversicherung (MVV)
 short: MVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1993-11-10
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20210101/de"
 
 (MVV)
 
-vom 10. November 1993 (Stand am 1. Januar 2021)
+vom 10. November 1993 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -512,7 +512,7 @@ Der Barwert der Rente wird auf der Basis des Jahresrentenansatzes berechnet, der
 
 **Prämie für Leistungen bei Krankheit**
 
-<sup>1</sup> Die monatliche Prämie für Leistungen bei Krankheit beträgt 355 Franken.[^28a-1]
+<sup>1</sup> Die monatliche Prämie für Leistungen bei Krankheit beträgt 365 Franken.[^28a-1]
 
 <sup>2</sup>
 
@@ -526,16 +526,16 @@ Bei beruflich Versicherten, deren Lohn in einer der folgenden Bandbreiten liegt,
 
 <sup>4</sup> Derjenige Teil der Prämie von teilzeitlich angestellten beruflich Versicherten, der das Risiko für Krankheit betrifft, ist gleich hoch wie für vollzeitlich angestellte.
 
-[^28a-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5303](https://fedlex.data.admin.ch/eli/oc/2020/918)).
+[^28a-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 655](https://fedlex.data.admin.ch/eli/oc/2021/655)).
 [^28a-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 #### Art. 28b
 
 **Prämie für Leistungen bei Unfall der bei der freiwilligen Grundversicherung Versicherten**[^28b-1]
 
-Der Zuschlag zur Prämie für Leistungen bei Krankheit, der als Prämie für Leistungen bei Unfall der bei der freiwilligen Grundversicherung Versicherten (freiwillig Versicherte) vorgesehen ist, beträgt 40 Franken pro Monat.
+Der Zuschlag zur Prämie für Leistungen bei Krankheit, der als Prämie für Leistungen bei Unfall der bei der freiwilligen Grundversicherung Versicherten (freiwillig Versicherte) vorgesehen ist, beträgt 46 Franken pro Monat.
 
-[^28b-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5303](https://fedlex.data.admin.ch/eli/oc/2020/918)).
+[^28b-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 655](https://fedlex.data.admin.ch/eli/oc/2021/655)).
 
 #### Art. 28c
 
@@ -752,8 +752,8 @@ Der Anspruch auf unentgeltlichen Rechtsbeistand besteht, wenn folgende Vorausset
 
 Die Verordnung vom 20. März 1964[^36-1] über die Militärversicherung und der Bundesratsbeschluss vom 8. Mai 1968[^36-2] betreffend die Unterstellung von Zivilpersonen unter die Militärversicherung werden aufgehoben.
 
-[^36-1]: [[AS 1964 265](https://fedlex.data.admin.ch/eli/oc/1964/265_258_257), [1971 994](https://fedlex.data.admin.ch/eli/oc/1971/994_996_994), [1983 1826](https://fedlex.data.admin.ch/eli/oc/1983/1826_1826_1826), [1992 2100](https://fedlex.data.admin.ch/eli/oc/1992/2100_2100_2100)]
-[^36-2]: [[AS 1968 606](https://fedlex.data.admin.ch/eli/oc/1968/606_630_622), [1979 14](https://fedlex.data.admin.ch/eli/oc/1979/14_14_14)]
+[^36-1]: [[AS 1964 265](https://fedlex.data.admin.ch/eli/oc/1964/265_258_257); [1971 994](https://fedlex.data.admin.ch/eli/oc/1971/994_996_994); [1983 1826](https://fedlex.data.admin.ch/eli/oc/1983/1826_1826_1826); [1992 2100](https://fedlex.data.admin.ch/eli/oc/1992/2100_2100_2100)]
+[^36-2]: [[AS 1968 606](https://fedlex.data.admin.ch/eli/oc/1968/606_630_622); [1979 14](https://fedlex.data.admin.ch/eli/oc/1979/14_14_14)]
 
 #### Art. 37
 
