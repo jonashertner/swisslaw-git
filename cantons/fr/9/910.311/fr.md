@@ -3,13 +3,12 @@ canton: FR
 number: "910.311"
 title: "Ordonnance DIAF sur les préposés locaux à l'agriculture"
 language: fr
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2021-10-25
+version: 2022-01-01
+version_adopted: 2021-11-26
 adopted: 2010-09-23
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/910.311"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6937/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7444/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,13 +17,13 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6937/pdf_file"
 
 Préposés locaux à l'agriculture – O
 
-du 23.09.2010 (version entrée en vigueur le 01.01.2021)
+du 23.09.2010 (version entrée en vigueur le 01.01.2022)
 
 La Direction des institutions, de l'agriculture et des forêts
 
 Vu l'article 9 de la loi du 3 octobre 2006 sur l'agriculture (LAgri);
 
-Vu l'article 2 let. c de l'arrêté du 9 février 1971 d'application de la législation fédérale sur les épizooties (AAE);
+Vu l'article 14 de l'ordonnance du 8 avril 2014 sur les épizooties (OEpiz);
 
 Adopte ce qui suit:
 
@@ -81,7 +80,7 @@ Adopte ce qui suit:
 
 **Gestion des questions de personnel**
 
-<sup>1</sup> Le Secrétariat général de la Direction (ci-après: le Secrétariat général) gère toutes les questions de personnel relatives aux préposé-e-s.
+<sup>1</sup> Grangeneuve gère toutes les questions de personnel relatives aux préposé‑e‑s.
 
 <sup>2</sup> Les préposé-e-s sont placés sous sa surveillance.
 
@@ -97,11 +96,11 @@ Adopte ce qui suit:
 
 **Procédure d'engagement – Mise au concours**
 
-<sup>1</sup> A la demande du Secrétariat général, les postes vacants de préposé-e-s et de suppléants ou suppléantes sont mis au concours par la ou les communes formant le cercle d'activité concerné; le Secrétariat général arrête les modalités de la mise au concours.
+<sup>1</sup> A la demande de Grangeneuve, les postes vacants de préposé-e-s et de suppléants ou suppléantes sont mis au concours par la ou les communes formant le cercle d'activité concerné. Grangeneuve arrête les modalités de la mise au concours.
 
-<sup>2</sup> Après consultation des milieux locaux intéressés, les communes adressent au Secrétariat général l'ensemble des candidatures reçues ainsi que leur préavis.
+<sup>2</sup> Après consultation des milieux locaux intéressés, les communes adressent à Grangeneuve l'ensemble des candidatures reçues ainsi que leur préavis.
 
-<sup>3</sup> A défaut de candidatures, les communes procèdent par appel. Si l'appel ne permet pas de trouver des personnes candidates, les communes en informent le Secrétariat général, qui peut en particulier modifier le découpage des cercles.
+<sup>3</sup> A défaut de candidatures, les communes procèdent par appel. Si l'appel ne permet pas de trouver des personnes candidates, les communes en informent Grangeneuve, qui peut en particulier modifier le découpage des cercles.
 
 #### Art. 10
 
@@ -137,20 +136,20 @@ Adopte ce qui suit:
 
 **Rémunération et indemnité – Tâches générales**
 
-<sup>1</sup> La rémunération allouée pour l'exécution des tâches générales est versée par le Service de l'agriculture.
+<sup>1</sup> La rémunération allouée pour l'exécution des tâches générales est versée par Grangeneuve.
 
 <sup>2</sup> Cette rémunération, calculée de manière globale et forfaitaire, est la suivante:
 
-- a) par exploitation agricole demandant les paiements directs: Fr. 75
-- b) par exploitation agricole sans paiements directs: Fr. 30
-- c) par détenteur ou détentrice d'animaux sans exploitation agricole: Fr. 30
-- d) par exploitation d'estivage demandant les contributions d'estivage: Fr. 40
+- a) par exploitation agricole demandant les paiements directs: — Fr. 75
+- b) par exploitation agricole sans paiements directs: — Fr. 30
+- c) par détenteur ou détentrice d'animaux sans exploitation agricole: — Fr. 30
+- d) par exploitation d'estivage demandant les contributions d'estivage: — Fr. 40
 
 <sup>3</sup> Toute demande de renseignements ou de contrôles en relation avec les relevés agricoles est comprise dans cette rémunération.
 
 <sup>4</sup> …
 
-<sup>5</sup> Si les travaux ne sont pas exécutés correctement, le Service de l'agriculture peut réduire la rémunération.
+<sup>5</sup> Si les travaux ne sont pas exécutés correctement, le Grangeneuve peut réduire la rémunération.
 
 #### Art. 15
 
@@ -158,7 +157,7 @@ Adopte ce qui suit:
 
 <sup>1</sup> La rémunération allouée pour l'exécution des tâches particulières prescrites par les unités administratives de l'Etat est de 40 francs l'heure. Une indemnité de déplacement conforme au règlement du personnel de l'Etat est versée en sus.
 
-<sup>2</sup> Ces rémunération et indemnité sont versées par le Service de l'agriculture. Elles sont imputées sur le budget de l'unité administrative qui requiert la mission.
+<sup>2</sup> Ces rémunération et indemnité sont versées par Grangeneuve. Elles sont imputées sur le budget de l'unité administrative qui requiert la mission.
 
 <sup>3</sup> Les communes rémunèrent et indemnisent elles-mêmes, selon leurs propres tarifs, les préposé-e-s et leurs suppléants ou suppléantes pour les tâches particulières qu'elles leur confient.
 

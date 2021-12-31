@@ -3,13 +3,12 @@ canton: FR
 number: "910.311"
 title: Verordnung ILFD über die örtlichen Landwirtschaftsverantwortlichen
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2021-10-25
+version: 2022-01-01
+version_adopted: 2021-11-26
 adopted: 2010-09-23
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/910.311"
-pdf: "https://bdlf.fr.ch/api/de/versions/6937/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7444/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,13 +17,13 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6937/pdf_file"
 
 Örtliche Landwirtschaftsverantwortlichen – V
 
-vom 23.09.2010 (Fassung in Kraft getreten am 01.01.2021)
+vom 23.09.2010 (Fassung in Kraft getreten am 01.01.2022)
 
 Die Direktion der Institutionen und der Land- und Forstwirtschaft
 
 gestützt auf Artikel 9 des Landwirtschaftsgesetzes vom 3. Oktober 2006 (LandwG);
 
-gestützt auf Artikel 2 Bst. c des Ausführungsbeschlusses vom 9. Februar 1971 zur Bundesgesetzgebung über die Tierseuchen (ABTSG);
+gestützt auf Artikel 14 die Tierseuchenverordnung vom 08. April 2014 (TiersV);
 
 beschliesst:
 
@@ -81,7 +80,7 @@ beschliesst:
 
 **Behandlung von Personalfragen**
 
-<sup>1</sup> Das Generalsekretariat der Direktion (das Generalsekretariat) ist für sämtliche Personalfragen im Zusammenhang mit den Verantwortlichen zuständig.
+<sup>1</sup> Grangeneuve ist für sämtliche Personalfragen im Zusammenhang mit den Verantwortlichen zuständig.
 
 <sup>2</sup> Die Verantwortlichen unterstehen seiner Aufsicht.
 
@@ -97,11 +96,11 @@ beschliesst:
 
 **Anstellungsverfahren – Ausschreibung**
 
-<sup>1</sup> Freie Stellen von Verantwortlichen und von Stellvertreterinnen oder Stellvertretern werden auf Ersuchen des Generalsekretariats von der oder den Gemeinden des betreffenden Tätigkeitsgebietes ausgeschrieben; das Generalsekretariat entscheidet über die Einzelheiten der Ausschreibung.
+<sup>1</sup> Freie Stellen von Verantwortlichen und von Stellvertreterinnen oder Stellvertretern werden auf Ersuchen von Grangeneuve von der oder den Gemeinden des betreffenden Tätigkeitsgebietes ausgeschrieben; Grangeneuve entscheidet über die Einzelheiten der Ausschreibung.
 
-<sup>2</sup> Nachdem sie die interessierten lokalen Kreise konsultiert haben, übermitteln die Gemeinden alle eingegangenen Bewerbungen mit ihrer Stellungnahme an das Generalsekretariat.
+<sup>2</sup> Nachdem sie die interessierten lokalen Kreise konsultiert haben, übermitteln die Gemeinden alle eingegangenen Bewerbungen mit ihrer Stellungnahme Grangeneuve.
 
-<sup>3</sup> Werden keine Bewerbungen eingereicht, so fragen die Gemeinden geeignete Personen an. Gelingt es ihnen auch auf diesem Weg nicht, Kandidatinnen oder Kandidaten zu finden, so informieren sie das Generalsekretariat, das insbesondere die Einteilung der Gebiete ändern kann.
+<sup>3</sup> Werden keine Bewerbungen eingereicht, so fragen die Gemeinden geeignete Personen an. Gelingt es ihnen auch auf diesem Weg nicht, Kandidatinnen oder Kandidaten zu finden, so informieren sie Grangeneuve, das insbesondere die Einteilung der Gebiete ändern kann.
 
 #### Art. 10
 
@@ -137,20 +136,20 @@ beschliesst:
 
 **Entlöhnung und Entschädigung – Allgemeine Aufgaben**
 
-<sup>1</sup> Für die allgemeinen Aufgaben werden die Verantwortlichen vom Amt für Landwirtschaft entlöhnt.
+<sup>1</sup> Für die allgemeinen Aufgaben werden die Verantwortlichen von Grangeneuve entlöhnt.
 
 <sup>2</sup> Die global und pauschal berechnete Entlöhnung beträgt:
 
-- a) je landwirtschaftlichen Betrieb, der Direktzahlungen beantragt: Fr. 75
-- b) je landwirtschaftlichen Betrieb ohne Direktzahlungen: Fr. 30
-- c) je Tierhalterin oder Tierhalter ohne landwirtschaftlichen Betrieb: Fr. 30
-- d) je Sömmerungsbetrieb, der Sömmerungsbeiträge beantragt: Fr. 40
+- a) je landwirtschaftlichen Betrieb, der Direktzahlungen beantragt: — Fr. 75
+- b) je landwirtschaftlichen Betrieb ohne Direktzahlungen: — Fr. 30
+- c) je Tierhalterin oder Tierhalter ohne landwirtschaftlichen Betrieb: — Fr. 30
+- d) je Sömmerungsbetrieb, der Sömmerungsbeiträge beantragt: — Fr. 40
 
 <sup>3</sup> Alle Auskünfte und Kontrollen im Zusammenhang mit den landwirtschaftlichen Erhebungen sind in dieser Entlöhnung inbegriffen.
 
 <sup>4</sup> …
 
-<sup>5</sup> Werden die Arbeiten nicht korrekt ausgeführt, so kann das Amt für Landwirtschaft die Entlöhnung kürzen.
+<sup>5</sup> Werden die Arbeiten nicht korrekt ausgeführt, so kann Grangeneuve die Entlöhnung kürzen.
 
 #### Art. 15
 
@@ -158,7 +157,7 @@ beschliesst:
 
 <sup>1</sup> Die von den Verwaltungseinheiten des Staates angeordneten besonderen Aufgaben werden mit 40 Franken je Stunde entlöhnt. Zudem wird eine Reiseentschädigung gemäss dem Reglement über das Staatspersonal ausbezahlt.
 
-<sup>2</sup> Diese Entlöhnungen und Entschädigungen werden vom Amt für Landwirtschaft ausbezahlt. Sie gehen zulasten des Budgets der Verwaltungseinheit, die den Auftrag erteilt hat.
+<sup>2</sup> Diese Entlöhnungen und Entschädigungen werden von Grangeneuve ausbezahlt. Sie gehen zulasten des Budgets der Verwaltungseinheit, die den Auftrag erteilt hat.
 
 <sup>3</sup> Für die besonderen Aufgaben, die ihnen die Gemeinden übertragen haben, werden die Verantwortlichen und ihre Stellvertreterinnen und Stellvertreter von den Gemeinden nach deren eigenen Tarifen entlöhnt und entschädigt.
 
