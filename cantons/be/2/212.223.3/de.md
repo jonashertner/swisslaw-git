@@ -4,13 +4,13 @@ number: "212.223.3"
 title: Gebührenreglement der Bernischen BVG- und Stiftungsaufsicht
 short: GebR BBSA
 language: de
-version: 2018-01-01
-valid_until: 2021-12-31
-version_adopted: 2016-08-23
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-08-26
 adopted: 2014-08-20
 in_force: 2015-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/212.223.3"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1349/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2425/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1349/pdf_file"
 
 (GebR BBSA)
 
-vom 20.08.2014 (Stand 01.01.2018)
+vom 20.08.2014 (Stand 01.01.2022)
 
 Der Aufsichtsrat der Bernischen BVG- und Stiftungsaufsicht,
 
@@ -60,19 +60,19 @@ beschliesst:
 
 **Gebührenhöhe**
 
-<sup>1</sup> Die Gebührenhöhe richtet sich nach den Tarifen im Anhang.
+<sup>1</sup> Die Gebührenhöhe richtet sich nach den Tarifen in Anhang 1.
 
-<sup>2</sup> Ist im Anhang ein Rahmentarif festgelegt, so setzt die BBSA die Gebühren innerhalb des Rahmens anhand des Zeitaufwands fest.
+<sup>2</sup> Ist in Anhang 1 ein Rahmentarif festgelegt, so setzt die BBSA die Gebühren innerhalb des Rahmens anhand des Zeitaufwands fest.
 
-<sup>3</sup> Für Dienstleistungen und spezielle Tätigkeiten, für die im Anhang kein Tarif oder kein Tarifrahmen festgelegt ist, bemisst sich die Gebühr nach dem Zeitaufwand.
+<sup>3</sup> Für Dienstleistungen und spezielle Tätigkeiten, für die in Anhang 1 kein Tarif oder kein Tarifrahmen festgelegt ist, bemisst sich die Gebühr nach dem Zeitaufwand.
 
-<sup>4</sup> Der Stundenansatz für die Gebühren beträgt je nach Funktionsstufe der ausführenden Person zwischen 100 und 200 Franken.
+<sup>4</sup> Der Stundenansatz für die Gebühren beträgt je nach Funktionsstufe der ausführenden Person zwischen 100 und 280 Franken.
 
 #### Art. 5
 
 **Gebührenzuschlag**
 
-<sup>1</sup> Gibt eine beaufsichtigte Institution Anlass zu einer ausserordentlichen Kontrolle oder zu aufwändigen Abklärungen, die mit den Gebühren gemäss Anhang nicht gedeckt werden, erhebt die BBSA einen Gebührenzuschlag von 2'000 bis 100'000 Franken.
+<sup>1</sup> Gibt eine beaufsichtigte Institution Anlass zu einer ausserordentlichen Kontrolle oder zu aufwändigen Abklärungen, die mit den Gebühren gemäss Anhang 1 nicht gedeckt werden, erhebt die BBSA einen Gebührenzuschlag von 2000 bis 100'000 Franken.
 
 <sup>2</sup> Der Zuschlag wird nach Zeitaufwand festgesetzt. Der Stundenansatz richtet sich nach Artikel 4 Absatz 4.
 
@@ -86,12 +86,16 @@ beschliesst:
 
 <sup>2</sup> Die jährliche Grundgebühr dient
 
-- a der Deckung der Kosten für die Prüfung der Jahresberichterstattung der beaufsichtigten Institutionen,
+- a der Deckung der Kosten für die ordentliche Prüfung der Jahresberichterstattung der beaufsichtigten Institutionen,
 - b der Äufnung des Reservefonds,
 - c der Rückerstattung des Dotationskapitals und
 - d der Deckung der übrigen Kosten wie Infrastruktur- und Organisationskosten, die nicht durch die Einnahme von Gebühren für Dienstleistungen und spezielle Tätigkeiten gedeckt sind.
 
 <sup>3</sup> Die jährliche Grundgebühr wird nach Eingang der Jahresberichterstattung in Rechnung gestellt. Sie wird bei Rechnungsstellung fällig und ist innert 30 Tagen zu bezahlen.
+
+<sup>4</sup> Gibt die Jahresberichterstattung einer beaufsichtigten Institution Anlass zu aufwändigen Abklärungen, erhebt die BBSA zusätzlich zur jährlichen Grundgebühr einen Gebührenzuschlag von 2000 bis 100'000 Franken.
+
+<sup>5</sup> Der Zuschlag wird nach Zeitaufwand festgesetzt. Der Stundenansatz richtet sich nach Artikel 4 Absatz 4.
 
 ### 3.2 Vorsorgeeinrichtungen und Einrichtungen, die nach ihrem Zweck der beruflichen Vorsorge dienen
 
@@ -99,7 +103,7 @@ beschliesst:
 
 **Zusammensetzung**
 
-<sup>1</sup> Die jährliche Grundgebühr setzt sich aus einem fixen Grundansatz von 300 Franken und einem variablen Ansatz zusammen.
+<sup>1</sup> Die jährliche Grundgebühr setzt sich aus einem fixen Grundansatz von 500 Franken und einem variablen Ansatz zusammen.
 
 #### Art. 8
 
@@ -109,24 +113,24 @@ beschliesst:
 
 <table>
 <tr><th>Bilanzsumme in CHF</th><th>CHF</th></tr>
-<tr><td>bis 100'000</td><td>20</td></tr>
-<tr><td>100'001 bis 500'000</td><td>200</td></tr>
-<tr><td>500'001 bis 1'000'000</td><td>800</td></tr>
-<tr><td>1'000'001 bis 5'000'000</td><td>1450</td></tr>
-<tr><td>5'000'001 bis 10'000'000</td><td>1950</td></tr>
-<tr><td>10'000'001 bis 20'000'000</td><td>3000</td></tr>
-<tr><td>20'000'001 bis 50'000'000</td><td>3750</td></tr>
-<tr><td>50'000'001 bis 100'000'000</td><td>4400</td></tr>
-<tr><td>100'000'001 bis 250'000'000</td><td>5500</td></tr>
-<tr><td>250'000'001 bis 500'000'000</td><td>6750</td></tr>
-<tr><td>500'000'001 bis 1'000'000'000</td><td>8500</td></tr>
-<tr><td>1'000'000'001 bis 5'000'000'000</td><td>11'300</td></tr>
-<tr><td>5'000'000'001 bis 10'000'000'000</td><td>14'000</td></tr>
-<tr><td>10'000'000'001 bis 15'000'000'000</td><td>18'500</td></tr>
-<tr><td>15'000'000'001 bis 20'000'000'000</td><td>23'100</td></tr>
-<tr><td>20'000'000'001 bis 25'000'000'000</td><td>27'750</td></tr>
-<tr><td>25'000'000'001 bis 30'000'000'000</td><td>32'400</td></tr>
-<tr><td>ab 30'000'000'001</td><td>37'000</td></tr>
+<tr><td>bis 100'000</td><td>25</td></tr>
+<tr><td>100'001 bis 500'000</td><td>260</td></tr>
+<tr><td>500'001 bis 1'000'000</td><td>1040</td></tr>
+<tr><td>1'000'001 bis 5'000'000</td><td>1885</td></tr>
+<tr><td>5'000'001 bis 10'000'000</td><td>2535</td></tr>
+<tr><td>10'000'001 bis 20'000'000</td><td>3900</td></tr>
+<tr><td>20'000'001 bis 50'000'000</td><td>4875</td></tr>
+<tr><td>50'000'001 bis 100'000'000</td><td>5720</td></tr>
+<tr><td>100'000'001 bis 250'000'000</td><td>7150</td></tr>
+<tr><td>250'000'001 bis 500'000'000</td><td>8775</td></tr>
+<tr><td>500'000'001 bis 1'000'000'000</td><td>11'050</td></tr>
+<tr><td>1'000'000'001 bis 5'000'000'000</td><td>14'690</td></tr>
+<tr><td>5'000'000'001 bis 10'000'000'000</td><td>18'200</td></tr>
+<tr><td>10'000'000'001 bis 15'000'000'000</td><td>24'050</td></tr>
+<tr><td>15'000'000'001 bis 20'000'000'000</td><td>30'030</td></tr>
+<tr><td>20'000'000'001 bis 25'000'000'000</td><td>36'075</td></tr>
+<tr><td>25'000'000'001 bis 30'000'000'000</td><td>42'120</td></tr>
+<tr><td>ab 30'000'000'001</td><td>48'100</td></tr>
 </table>
 
 ### 3.3 Klassische Stiftungen
@@ -135,7 +139,7 @@ beschliesst:
 
 **Zusammensetzung**
 
-<sup>1</sup> Die jährliche Grundgebühr setzt sich aus einem fixen Grundansatz von 180 Franken und einem variablen Ansatz zusammen.
+<sup>1</sup> Die jährliche Grundgebühr setzt sich aus einem fixen Grundansatz von 280 Franken und einem variablen Ansatz zusammen.
 
 #### Art. 10
 
@@ -145,22 +149,22 @@ beschliesst:
 
 <table>
 <tr><th>Bilanzsumme in CHF</th><th>CHF</th></tr>
-<tr><td>bis 100'000</td><td>20</td></tr>
-<tr><td>100'001 bis 500'000</td><td>170</td></tr>
-<tr><td>500'001 bis 1'000'000</td><td>390</td></tr>
-<tr><td>1'000'001 bis 5'000'000</td><td>770</td></tr>
-<tr><td>5'000'001 bis 10'000'000</td><td>1260</td></tr>
-<tr><td>10'000'001 bis 20'000'000</td><td>1770</td></tr>
-<tr><td>20'000'001 bis 100'000'000</td><td>2220</td></tr>
-<tr><td>100'000'001 bis 500'000'000</td><td>2770</td></tr>
-<tr><td>ab 500'000'001</td><td>3220</td></tr>
+<tr><td>bis 100'000</td><td>25</td></tr>
+<tr><td>100'001 bis 500'000</td><td>215</td></tr>
+<tr><td>500'001 bis 1'000'000</td><td>490</td></tr>
+<tr><td>1'000'001 bis 5'000'000</td><td>965</td></tr>
+<tr><td>5'000'001 bis 10'000'000</td><td>1575</td></tr>
+<tr><td>10'000'001 bis 20'000'000</td><td>2215</td></tr>
+<tr><td>20'000'001 bis 100'000'000</td><td>2775</td></tr>
+<tr><td>100'000'001 bis 500'000'000</td><td>3465</td></tr>
+<tr><td>ab 500'000'001</td><td>4025</td></tr>
 </table>
 
 ### 3.4 Familienausgleichskassen
 
 #### Art. 11
 
-<sup>1</sup> Die jährliche Grundgebühr beträgt für jede Familienausgleichskasse 1050 Franken.
+<sup>1</sup> Die jährliche Grundgebühr beträgt für jede Familienausgleichskasse 1315 Franken.
 
 ### 3.5 Vergütung eines Gebührenüberschusses
 
@@ -206,7 +210,7 @@ beschliesst:
 
 <sup>2</sup> Es wird in die Bernische Amtliche Sammlung aufgenommen.
 
-## A1 Anhang 1: zu Artikel 4
+## A1 Anhang 1 zu Artikel 4
 
 #### Art. A1-1
 
@@ -216,26 +220,31 @@ beschliesst:
   - 1\.1 1. Mahnung für Einreichung von Unterlagen (insbesondere Jahresberichterstattung oder Teilen davon oder andere Dokumente): CHF 100
   - 1\.2 2. Mahnung für Einreichung von Unterlagen (insbesondere Jahresberichterstattung oder Teilen davon oder andere Dokumente) mit Androhung von aufsichtsrechtlichen Massnahmen: CHF 150
 - 2\. Rahmentarife für Vorsorgeeinrichtungen und Einrichtungen, die nach ihrem Zweck der beruflichen Vorsorge dienen
-  - 2\.1 Aufsichtsunterstellung (inkl. Prüfung der Urkunde) oder Aufsichtsabgabe: CHF 900–5000
-  - 2\.2 Eintrag ins Register der beruflichen Vorsorge oder Löschung des Registereintrags (inkl. Genehmigung Schlussbericht): CHF 300–5000
-  - 2\.3 Vorprüfung von Urkunden oder deren Änderungen oder Genehmigung von Änderungen der Urkunde: CHF 450–5000
-  - 2\.4 Vorprüfung, Prüfung oder Genehmigung von Reglementen oder deren Änderungen: CHF 300–10000
-  - 2\.5 Fusion, Aufhebung oder Gesamtliquidation: CHF 900–30000
-  - 2\.6 Teilliquidation: CHF 900–20000
-  - 2\.7 Androhung oder Verhängung von aufsichtsrechtlichen Massnahmen: CHF 450–30000
+  - 2\.1 Aufsichtsunterstellung (inkl. Prüfung der Urkunde und deren Genehmigung) oder Aufsichtsabgabe: CHF 1000–5000
+  - 2\.2 Eintrag ins Register der beruflichen Vorsorge oder Löschung des Registereintrags (inkl. Genehmigung Schlussbericht): CHF 500–5000
+  - 2\.3 Vorprüfung von Urkunden oder deren Änderungen oder Genehmigung von Änderungen der Urkunde: CHF 1000–5000
+  - 2\.4 Vorprüfung, Prüfung oder Genehmigung von Reglementen oder deren Änderungen: CHF 500–10'000
+  - 2\.5 Fusion, Aufhebung oder Gesamtliquidation: CHF 1000–30'000
+  - 2\.6 Teilliquidation: CHF 1000–20'000
+  - 2\.7 Androhung oder Verhängung von aufsichtsrechtlichen Massnahmen: CHF 500–30'000
+  - 2\.8 Behandlung von Überprüfungsanträgen nach Artikel 53d Absatz 6 des Bundesgesetzes vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^A11-1] und Aufsichtsbeschwerden: CHF 1000–10'000
 - 3\. Rahmentarife für klassische Stiftungen
-  - 3\.1 Aufsichtsunterstellung (inkl. Prüfung der Urkunde) oder Aufsichtsabgabe: CHF 900–3000
-  - 3\.2 Vorprüfung von Urkunden oder deren Änderungen oder Genehmigung von Änderungen der Urkunde: CHF 600–3000
-  - 3\.3 Vorprüfung oder Prüfung von Reglementen oder deren Änderungen: CHF 200–3000
-  - 3\.4 Fusion, Aufhebung oder Gesamtliquidation: CHF 900–5000
-  - 3\.5 Androhung oder Verhängung von aufsichtsrechtlichen Massnahmen: CHF 450–3000
-  - 3\.6 Befreiung von der Pflicht zur Bezeichnung einer Revisionsstelle: CHF 200–1000
+  - 3\.1 Aufsichtsunterstellung (inkl. Prüfung der Urkunde und deren Genehmigung) oder Aufsichtsabgabe: CHF 1000–3000
+  - 3\.2 Vorprüfung von Urkunden oder deren Änderungen oder Genehmigung von Änderungen der Urkunde: CHF 1000–3000
+  - 3\.3 Vorprüfung oder Prüfung von Reglementen oder deren Änderungen: CHF 500–3000
+  - 3\.4 Fusion, Aufhebung oder Gesamtliquidation: CHF 1000–5000
+  - 3\.5 Androhung oder Verhängung von aufsichtsrechtlichen Massnahmen: CHF 500–3000
+  - 3\.6 Befreiung von der Pflicht zur Bezeichnung einer Revisionsstelle: CHF 300–1000
+  - 3\.7 Behandlung von Aufsichtsbeschwerden: CHF 1000–10'000
 - 4\. Rahmentarife für Familienausgleichskassen
-  - 4\.1 Anerkennung als Familienausgleichskasse (inkl. Statuten-/Reglementsprüfung): CHF 720–3000
-  - 4\.2 Zulassung als Familienausgleichskasse (inkl. Statuten-/Reglementsprüfung): CHF 540–3000
-  - 4\.3 Vorprüfung oder Prüfung von Statuten/Reglementen oder deren Änderungen: CHF 360–3000
-  - 4\.4 Fusion oder Auflösung: CHF 540–3000
-  - 4\.5 Androhung oder Verhängung von aufsichtsrechtlichen Massnahmen: CHF 450–3000
+  - 4\.1 Anerkennung als Familienausgleichskasse (inkl. Statuten-/Reglementsprüfung): CHF 800–3000
+  - 4\.2 Zulassung als Familienausgleichskasse (inkl. Statuten-/Reglementsprüfung): CHF 600–3000
+  - 4\.3 Vorprüfung oder Prüfung von Statuten/Reglementen oder deren Änderungen: CHF 500–3000
+  - 4\.4 Fusion oder Auflösung: CHF 600–3000
+  - 4\.5 Androhung oder Verhängung von aufsichtsrechtlichen Massnahmen: CHF 500–3000
+  - 4\.6 Behandlung von Aufsichtsbeschwerden: CHF 1000–10'000
+
+[^A11-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
 
 ## T1 Übergangsbestimmungen der Änderung vom 15.11.2016
 
@@ -244,6 +253,12 @@ beschliesst:
 <sup>1</sup> Für die Grundgebühr des Jahres 2017 ist der im Jahr 2017 geltende Gebührentarif anwendbar.
 
 <sup>2</sup> Für die Grundgebühr der Jahre 2014 bis und mit 2016 ist der in diesen Jahren geltende Gebührentarif anwendbar.
+
+## T2 Übergangsbestimmung der Änderung vom 26.08.2021
+
+#### Art. T2-1
+
+<sup>1</sup> Für die Grundgebühr des Jahres 2020 ist der im Jahr 2020 geltende Gebührentarif anwendbar.
 
 Bern, 20. August 2014
 
