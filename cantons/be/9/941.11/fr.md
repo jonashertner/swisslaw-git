@@ -4,13 +4,13 @@ number: "941.11"
 title: Ordonnance sur les poids et mesures
 short: OPM
 language: fr
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-17
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-10-20
 adopted: 2000-08-16
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/941.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2213/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2419/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2213/pdf_file"
 
 (OPM)
 
-du 16.08.2000 (état au 01.04.2021)
+du 16.08.2000 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -132,7 +132,7 @@ arrête:
 
 **Office de vérification BE+3**
 
-<sup>1</sup> Affoltern i. E., Bern, Bolligen, Bremgarten b. Bern, Clavaleyres, Dürrenroth, Ferenbalm, Frauenkappelen, Gurbrü, Hasle b. Burgdorf, Ittigen, Kirchlindach, Köniz, Krauchthal, Kriechenwil, Laupen, Lützelflüh, Meikirch, Mühleberg, Münchenwiler, Muri b. Bern, Neuenegg, Oberbalm, Oberburg, Ostermundigen, Rüegsau, Stettlen, Sumiswald, Trachselwald, Vechigen, Wileroltigen, Wohlen b. Bern, Zollikofen.
+<sup>1</sup> Affoltern i. E., Bern, Bolligen, Bremgarten b. Bern, Dürrenroth, Ferenbalm, Frauenkappelen, Gurbrü, Hasle b. Burgdorf, Ittigen, Kirchlindach, Köniz, Krauchthal, Kriechenwil, Laupen, Lützelflüh, Meikirch, Mühleberg, Münchenwiler, Muri b. Bern, Neuenegg, Oberbalm, Oberburg, Ostermundigen, Rüegsau, Stettlen, Sumiswald, Trachselwald, Vechigen, Wileroltigen, Wohlen b. Bern, Zollikofen.
 
 ## A3 Annexe 3: Office de vérification BE+4 (à l'art. 3, lit. d)
 
