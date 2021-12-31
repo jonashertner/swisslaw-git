@@ -4,13 +4,13 @@ number: "435.111.1"
 title: "Ordonnance de Direction sur la formation professionnelle, la formation continue et l'orientation professionnelle"
 short: ODFOP
 language: fr
-version: 2021-05-01
-valid_until: 2021-12-31
-version_adopted: 2021-03-30
+version: 2022-01-01
+valid_until: 2022-03-31
+version_adopted: 2021-11-30
 adopted: 2006-04-06
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/435.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2262/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2578/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2262/pdf_file"
 
 (ODFOP)
 
-du 06.04.2006 (état au 01.05.2021)
+du 06.04.2006 (état au 01.01.2022)
 
 La Direction de l’instruction publique du canton de Berne,
 
@@ -182,67 +182,35 @@ arrête:
 
 <sup>1</sup> Les préapprentissages préparent les jeunes sans place d'apprentissage et les adultes sans diplôme du secondaire II à la formation professionnelle initiale. Ils se composent d'une partie d'enseignement, plus petite, et d'une partie pratique, plus grande, suivie dans une entreprise de préapprentissage.
 
-<sup>2</sup> Est admis à un préapprentissage quiconque
+<sup>2</sup> Les personnes souhaitant effectuer un préapprentissage doivent posséder un contrat de préapprentissage approuvé.
 
-- a a, en règle générale, achevé la scolarité obligatoire et est âgé de 25 ans au plus;
-- b a fréquenté une autre formation transitoire pendant deux ans au maximum;
-- c a le niveau linguistique A2 à l'oral et à l'écrit selon le CECR et
-- d a conclu un contrat de préapprentissage.
-
-<sup>3</sup> La direction d'école statue par voie de décision sur l'admission.
-
-<sup>4</sup> Si les candidats et les candidates remplissant les conditions d'admission sont plus nombreux que les places disponibles, l'admission s'effectue en fonction de la date à laquelle le contrat de préapprentissage est parvenu à l'Office des écoles moyennes et de la formation professionnelle.
+<sup>3–4</sup> …
 
 #### Art. 4e
 
 **Evaluation finale**
 
-<sup>1</sup> L'évaluation finale du préapprentissage porte sur les compétences des élèves dans les domaines de formation générale et sur leurs compétences transversales.
+<sup>1</sup> L'évaluation finale du préapprentissage porte sur les compétences des élèves dans les domaines de la culture générale et de l’enseignement professionnel ainsi que sur ​les compétences transversales des élèves.
 
-<sup>2</sup> Si moins de 75 pour cent des cours de préapprentissage ont été suivis, seule la fréquentation est attestée.
+<sup>2</sup> …
 
 #### Art. 4f
 
-**Répétition**
+**…**
 
-<sup>1</sup> Un préapprentissage ne peut pas être répété.
-
-<sup>2</sup> La direction d'école octroie des dérogations sur accord du Case management Formation professionnelle de l'Orientation professionnelle et personnelle.
-
-### 2.1.3 Préapprentissage 25 plus
+### 2.1.3
 
 #### Art. 5
 
-**Admission**
-
-<sup>1</sup> Est admis à un préapprentissage 25 plus quiconque
-
-- a est, en règle générale, âgé de 25 ans au moins;
-- b a le niveau linguistique A2 à l’oral et à l’écrit selon le CECR;
-- c a conclu un contrat de préapprentissage ou un contrat de travail et
-- d ne possède pas de diplôme du degré secondaire II.
-
-<sup>2</sup> La direction d'école statue par voie de décision sur l'admission.
-
-<sup>3</sup> Si les candidats et les candidates remplissant les conditions d'admission sont plus nombreux que les places disponibles, l'admission s'effectue en fonction de la date à laquelle le contrat de préapprentissage est parvenu à l'Office des écoles moyennes et de la formation professionnelle.
+**…**
 
 #### Art. 5a
 
 **...**
 
-#### Art. 6
+#### Art. 6–6a
 
-**Evaluation finale**
-
-<sup>1</sup> L'évaluation finale du préapprentissage 25 plus porte sur les compétences des élèves dans la première langue nationale et en mathématiques ainsi que sur leurs compétences transversales.
-
-#### Art. 6a
-
-**Répétition**
-
-<sup>1</sup> Un préapprentissage 25 plus ne peut pas être répété.
-
-<sup>2</sup> La direction d'école octroie des dérogations sur accord du Case management Formation professionnelle de l'Orientation professionnelle et personnelle.
+**…**
 
 ### 2.2 Formation à la pratique professionnelle
 
@@ -336,7 +304,7 @@ arrête:
 
 <sup>1</sup> Le nombre de personnes en formation par classe dans les années scolaires de préparation professionnelle est réglé dans le plan d’études correspondant.
 
-<sup>2</sup> Dans les autres formations transitoires ainsi que dans la formation professionnelle initiale, les classes comprennent en règle générale au plus 24 personnes en formation. La Section des écoles professionnelles de l’Office des écoles moyennes et de la formation professionnelle statue sur les exceptions.
+<sup>2</sup> Dans le préapprentissage ainsi que dans la formation professionnelle initiale, les classes comprennent en règle générale au plus 24 personnes en formation. La Section des écoles professionnelles de l’Office des écoles moyennes et de la formation professionnelle statue sur les exceptions.
 
 <sup>3</sup> Si une classe compte moins de dix personnes en formation, l’école doit disposer d’une autorisation dérogatoire délivrée par la Section des écoles professionnelles de l’Office des écoles moyennes et de la formation professionnelle. Celle-ci vérifie si des solutions intercantonales peuvent être trouvées ou si des classes par domaine professionnel ou comprenant plusieurs volées peuvent être organisées.
 
@@ -1674,6 +1642,14 @@ arrête:
 <sup>2</sup> Les subventions définitives qui sont attribuées aux formations continues proposées durant l’année de cours 2021 conformément à l’article 77 et qui sont supérieures à 20'000 francs sont calculées sur la base du pourcentage des frais en vigueur. Les subventions forfaitaires par heure de cours ne s’appliquent pas.
 
 <sup>3</sup> Le plafond promis pour une subvention attribuée au moment de l’entrée en vigueur de la présente modification est maintenu.
+
+## T6a Dispositions transitoires de la modification du 30.11.2021
+
+#### Art. T6a-1
+
+<sup>1</sup> La modification de l’article 4e s’applique à partir de l’année scolaire 2022-2023.
+
+<sup>2</sup> Le titre de la sous-section 2.1.3 ainsi que les articles 6 et 6a s’appliquent jusqu’au 31 juillet 2022.
 
 Berne, le 20 octobre 2016
 

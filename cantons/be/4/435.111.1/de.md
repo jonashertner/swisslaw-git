@@ -4,13 +4,13 @@ number: "435.111.1"
 title: "Direktionsverordnung über die Berufsbildung, die Weiterbildung und die Berufsberatung"
 short: BerDV
 language: de
-version: 2021-05-01
-valid_until: 2021-12-31
-version_adopted: 2021-03-30
+version: 2022-01-01
+valid_until: 2022-03-31
+version_adopted: 2021-11-30
 adopted: 2006-04-06
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/435.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2262/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2578/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2262/pdf_file"
 
 (BerDV)
 
-vom 06.04.2006 (Stand 01.05.2021)
+vom 06.04.2006 (Stand 01.01.2022)
 
 Die Erziehungsdirektion des Kantons Bern,
 
@@ -184,67 +184,35 @@ beschliesst:
 
 <sup>1</sup> Vorlehren bereiten Jugendliche ohne Lehrstelle und Erwachsene ohne Abschluss auf der Sekundarstufe II auf die berufliche Grundbildung vor. Sie bestehen aus einem kleineren Anteil Unterricht und einem grösseren Anteil Praxis in einem Vorlehrbetrieb.
 
-<sup>2</sup> In eine Vorlehre wird aufgenommen, wer
+<sup>2</sup> Um eine Vorlehre zu absolvieren, muss ein Vorlehrvertrag abgeschlossen und genehmigt worden sein.
 
-- a in der Regel die obligatorische Schulzeit abgeschlossen hat und höchstens 25 Jahre alt ist,
-- b während höchstens zwei Jahren ein anderes Brückenangebot besucht hat,
-- c über einen Sprachstand A2 gemäss GER mündlich und schriftlich verfügt und
-- d einen Vorlehrvertrag abgeschlossen hat.
-
-<sup>3</sup> Die Schulleitung entscheidet mit Verfügung über die Aufnahme.
-
-<sup>4</sup> Erfüllen mehr Kandidatinnen und Kandidaten die Aufnahmebedingungen als Ausbildungsplätze zur Verfügung stehen, erfolgt die Aufnahme nach dem zeitlichen Eingang des Lehrvertrags beim Mittelschul- und Berufsbildungsamt.
+<sup>3–4</sup> …
 
 #### Art. 4e
 
 **Abschlussbeurteilung**
 
-<sup>1</sup> In der Abschlussbeurteilung der Vorlehre werden die Kompetenzen in den allgemeinbildenden Bereichen und die überfachlichen Kompetenzen beurteilt.
+<sup>1</sup> In der Abschlussbeurteilung der Vorlehre werden die Kompetenzen in den allgemeinbildenden und berufsfeldspezifischen Bereichen sowie die überfachlichen Kompetenzen beurteilt.
 
-<sup>2</sup> Wurde der Unterricht in der Vorlehre zu weniger als 75 Prozent besucht, wird nur der Schulbesuch bestätigt.
+<sup>2</sup> …
 
 #### Art. 4f
 
-**Wiederholung**
+**…**
 
-<sup>1</sup> Eine Vorlehre kann nicht wiederholt werden.
-
-<sup>2</sup> Die Schulleitung bewilligt Ausnahmen aufgrund der Zustimmung des Geschäftsbereichs Case Management Berufsbildung der Berufs-, Studien- und Laufbahnberatung.
-
-### 2.1.3 Vorlehre 25 Plus
+### 2.1.3
 
 #### Art. 5
 
-**Aufnahme**
-
-<sup>1</sup> In eine Vorlehre 25 Plus kann aufgenommen werden, wer
-
-- a in der Regel mindestens 25 Jahre alt ist,
-- b über einen Sprachstand A2 gemäss GER mündlich und schriftlich verfügt,
-- c einen Vorlehr- oder einen Arbeitsvertrag abgeschlossen hat und
-- d über keinen Abschluss der Sekundarstufe II verfügt.
-
-<sup>2</sup> Die Schulleitung entscheidet mit Verfügung über die Aufnahme.
-
-<sup>3</sup> Erfüllen mehr Kandidatinnen und Kandidaten die Aufnahmebedingungen als Ausbildungsplätze zur Verfügung stehen, erfolgt die Aufnahme nach dem zeitlichen Eingang des Lehrvertrags beim Mittelschul- und Berufsbildungsamt.
+**…**
 
 #### Art. 5a
 
 **...**
 
-#### Art. 6
+#### Art. 6–6a
 
-**Abschlussbeurteilung**
-
-<sup>1</sup> In der Abschlussbeurteilung der Vorlehre 25 Plus werden die Kompetenzen in den Fächern erste Landessprache und Mathematik sowie die überfachlichen Kompetenzen beurteilt.
-
-#### Art. 6a
-
-**Wiederholung**
-
-<sup>1</sup> Eine Vorlehre 25 Plus kann nicht wiederholt werden.
-
-<sup>2</sup> Die Schulleitung bewilligt Ausnahmen aufgrund der Zustimmung des Geschäftsbereichs Case Management Berufsbildung der Berufs-, Studien-, und Laufbahnberatung.
+**…**
 
 ### 2.2 Bildung in beruflicher Praxis
 
@@ -338,7 +306,7 @@ beschliesst:
 
 <sup>1</sup> Die Anzahl Lernender pro Klasse in berufsvorbereitenden Schuljahren ist im entsprechenden Lehrplan geregelt.
 
-<sup>2</sup> In den übrigen Brückenangeboten und in der beruflichen Grundbildung werden in der Regel Klassen mit höchstens 24 Lernenden gebildet. Die Abteilung Berufsfachschulen des Mittelschul- und Berufsbildungsamts entscheidet über Ausnahmen.
+<sup>2</sup> In der Vorlehre und in der beruflichen Grundbildung werden in der Regel Klassen mit höchstens 24 Lernenden gebildet. Die Abteilung Berufsfachschulen des Mittelschul- und Berufsbildungsamts entscheidet über Ausnahmen.
 
 <sup>3</sup> Sind weniger als 10 Lernende in einer Klasse, so bedarf die Schule einer Ausnahmebewilligung der Abteilung Berufsfachschulen des Mittelschul- und Berufsbildungsamts. Diese prüft, ob interkantonale Lösungen gefunden oder ob Klassen pro Berufsfeld oder mit mehreren Jahrgängen geführt werden können.
 
@@ -1676,6 +1644,14 @@ beschliesst:
 <sup>2</sup> Die definitiven Beiträge an die Weiterbildungsangebote des Kursjahres 2021 gemäss Artikel 77, die 20'000 Franken übersteigen, berechnen sich aufgrund des geltenden Prozentsatzes an die Kosten. Die Pauschalbeiträge je Kursstunde finden keine Anwendung.
 
 <sup>3</sup> Das zugesicherte Kostendach für einen im Zeitpunkt der Inkraftsetzung dieser Änderung gewährten Beitrag bleibt unverändert bestehen.
+
+## T6a Übergangsbestimmungen der Änderung vom 30.11.2021
+
+#### Art. T6a-1
+
+<sup>1</sup> Die Änderung von Artikel 4e ist ab dem Schuljahr 2022/2023 anwendbar.
+
+<sup>2</sup> Der Titel des Unterabschnitts 2.1.3 sowie die Artikel 6 und 6a sind bis am 31. Juli 2022 anwendbar.
 
 Bern, 6. April 2006
 
