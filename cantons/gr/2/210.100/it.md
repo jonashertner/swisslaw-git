@@ -5,12 +5,12 @@ title: "Legge d'introduzione al Codice civile svizzero *"
 short: LICC
 language: it
 version: 2022-01-01
-corrected: 2021-12-16
+corrected: 2021-12-23
 version_adopted: 2021-08-27
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3173/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3202/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -1758,11 +1758,11 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 #### Art. 146c
 
-**4. Pubblicazione dei dati in internet**
+**4. Accesso pubblico per via elettronica**
 
-<sup>1</sup> Il Cantone pubblica in internet i dati del libro mastro ottenibili senza far valere un interesse.
+<sup>1</sup> Il Cantone rende pubblicamente accessibili per via elettronica i dati del libro mastro ottenibili senza far valere un interesse.
 
-<sup>2</sup> Sono ammesse soltanto richieste riferite a fondi, fino a un massimo di cinque richieste al giorno. Gli accessi vengono protocollati automaticamente e i protocolli vengono conservati per un anno.
+<sup>2</sup> Sono ammesse soltanto richieste riferite a fondi. Il sistema d'informazione deve essere protetto da interrogazioni in serie. Gli accessi vengono protocollati automaticamente e i protocolli vengono conservati per un anno.
 
 <sup>3</sup> Con domanda scritta al servizio specializzato, i proprietari fondiari possono richiedere di prendere visione dei protocolli concernenti i loro fondi.
 

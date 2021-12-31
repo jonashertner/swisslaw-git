@@ -5,12 +5,12 @@ title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: EGzZGB
 language: de
 version: 2022-01-01
-corrected: 2021-12-16
+corrected: 2021-12-23
 version_adopted: 2021-08-27
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3173/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3202/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -1776,11 +1776,11 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 #### Art. 146c
 
-**4. Veröffentlichung der Daten im Internet**
+**4. Elektronischer öffentlicher Zugang**
 
-<sup>1</sup> Der Kanton publiziert die ohne Interessennachweis einsehbaren Daten des Hauptbuchs im Internet.
+<sup>1</sup> Der Kanton macht die ohne Interessennachweis einsehbaren Daten des Hauptbuchs elektronisch öffentlich zugänglich.
 
-<sup>2</sup> Es dürfen nur grundstücksbezogene und bis maximal fünf Abfragen pro Tag erfolgen. Die Zugriffe werden automatisch protokolliert und die Protokolle während eines Jahres aufbewahrt.
+<sup>2</sup> Es dürfen nur grundstücksbezogene Abfragen erfolgen. Das Auskunftssystem ist vor Serienabfragen zu schützen. Die Zugriffe werden automatisch protokolliert und die Protokolle während eines Jahres aufbewahrt.
 
 <sup>3</sup> Grundeigentümer können bei der Fachstelle auf schriftliches Gesuch hin Einsicht in die Protokolle betreffend ihre Grundstücke verlangen.
 

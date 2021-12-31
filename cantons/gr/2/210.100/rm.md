@@ -5,12 +5,12 @@ title: "Lescha introductiva tar il cudesch civil svizzer *"
 short: LItCCS
 language: rm
 version: 2022-01-01
-corrected: 2021-12-16
+corrected: 2021-12-23
 version_adopted: 2021-08-27
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3173/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3202/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -1791,11 +1791,11 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 #### Art. 146c
 
-**4. publicaziun da las datas en l'internet**
+**4. access public electronic**
 
-<sup>1</sup> Il chantun publitgescha en l'internet las datas dal register principal che pon vegnir consultadas senza stuair cumprovar in interess.
+<sup>1</sup> Las datas dal register principal che pon vegnir consultadas senza stuair cumprovar in interess vegnan rendidas accessiblas dal chantun a la publicitad sin via electronica.
 
-<sup>2</sup> Las consultaziuns ston sa referir a bains immobigliars, e per di dastgan vegnir fatgas maximalmain tschintg consultaziuns. Ils access vegnan protocollads automaticamain, ed ils protocols vegnan conservads durant 1 onn.
+<sup>2</sup> Permessas èn mo consultaziuns che sa refereschan a bains immobigliars. Il sistem d'infurmaziun sto vegnir protegì cunter consultaziuns da seria. Ils access vegnan protocollads automaticamain, ed ils protocols vegnan conservads durant 1 onn.
 
 <sup>3</sup> Tras ina dumonda en scrit pon ils proprietaris da bains immobigliars pretender dal post spezialisà ch'el laschia prender invista dals protocols concernent lur bains immobigliars.
 
