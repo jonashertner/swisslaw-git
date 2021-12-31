@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordinance of 30 November 2012 for the Reduction of CO<sub>2</sub> Emissions (CO<sub>2</sub> Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: en
-version: 2021-02-10
+version: 2022-01-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20210210/en/xml/fedlex-data-admin-ch-eli-cc-2012-856-20210210-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20210210/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2012-856-20220101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (CO<sub>2</sub> Ordinance)
 
-of 30 November 2012 (Status as of 10 February 2021)
+of 30 November 2012 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
@@ -61,12 +61,18 @@ In this Ordinance:
   - 1\. passenger cars in accordance with Article 11 paragraph 2 letter a of the Ordinance of 19 June 1995[^2-2] on Technical Requirements for Road Vehicles (RVTRO),
   - 2\. special-purpose vehicles in accordance with Annex II Part A point 5 of Directive 2007/46/EC[^2-3] or Annex I part A number 5 of Regulation (EU) 2018/858[^2-4] are deemed not to be passenger cars in terms of this Ordinance;
 
-- [tab] a<sup>bis</sup>.[^2-5] *vans* means
+- [tab]
+
+  a<sup>bis</sup>.[^2-5] *vans* means:
+
   - 1\. vans in accordance with Article 11 paragraph 2 letter e RVTRO with a maximum permissible weight not exceeding 3.50 t,
   - 2\. vehicles with an emission-free drive system and a maximum permissible weight between 3.50 t and 4.25 t, which apart from their weight correspond to the definition of a van and whose weight in excess of 3.50 t is caused solely by the additional weight of the emission-free drive system,
   - 3\. vans with an unladen weight of over 2585 kg measured using the measurement procedure for heavy-duty vehicles in accordance with Regulation (EC) No 595/2009[^2-6] and for which no emission values in accordance with Regulation (EC) No 715/2007[^2-7] are available and which do not have an emission-free drive system, and special-purpose vehicles in accordance with Annex 2 Part A point 5 of Directive 2007/46/EC or Annex I Part A number 5 of Regulation (EU) 2018/858 are deemed not to be vans;
 
-- [tab] a<sup>ter</sup>.[^2-8] *light articulated vehicles* means
+- [tab]
+
+  a<sup>ter</sup>.[^2-8] *light articulated vehicles* means:
+
   - 1\. articulated vehicles in accordance with Article 11 paragraph 2 letter i RVTRO with a maximum permissible weight not exceeding 3.50 t,
   - 2\. in terms of this Ordinance, articulated vehicles with a unladen weight of over 2585 kg, measured using the measurement procedure for heavy-duty vehicles in accordance with Regulation (EC) No 595/2009 and for which no emission values in accordance with Regulation (EC) No 715/2007 are available, and special-purpose vehicles in accordance with Annex 2 Part A point 5 of Directive 2007/46/EC or in accordance with Annex 1 Part A number 5 the Regulation (EU) 2018/858 are deemed not to be light articulated vehicles;
 
@@ -78,7 +84,7 @@ In this Ordinance:
 
 [^2-1]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^2-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^2-3]: Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (Text with EEA relevance), OJ L 263 of 9.10.2007, p. 1; last amended by Regulation (EU) No 1347/2017, OJ L 192 of 24.7.2017, p. 1.
+[^2-3]: Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive), OJ L 263 of 9.10.2007, p. 1; last amended by Regulation (EU) No 2019/543, OJ L 95 of 4.4.2019, p. 1
 [^2-4]: Regulation (EU) 2018/858 of the European Parliament and of the Council of 30. Mai 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC, OJ L 151 of 14.6.2018, p. 1; last amended by Regulation (EU) 2019/2144, OJ L 325 of 16.12.2019, p. 1.
 [^2-5]: Inserted by No I of the O of 1 Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^2-6]: Regulation (EC) No 595/2009 of the European Parliament and of the Council of 18 June 2009 on type-approval of motor vehicles and engines with respect to emissions from heavy duty vehicles (Euro VI) and on access to vehicle repair and maintenance information and amending Regulation (EC) No 715/2007 and Directive 2007/46/EC and repealing Directives 80/1269/EEC, 2005/55/EC and 2005/78/EC, OJ L 188/1 of 18.7.2009, p. 1; last amended by Ordinance (EU) No 133/2014, OJ L 47 of 18.2.2014, p. 1.
@@ -330,7 +336,7 @@ After revalidation, from the time the substantial modification is made the credi
 
 [^chap1-sec5a-1]
 
-[^chap1-sec5a-1]: Inserted by No I of the O of 8 Oct. 2014, in force since 1 Dec. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Amended by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^chap1-sec5a-1]: Inserted by No I of the O of 8 Oct. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Amended by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 
 #### Art. 12
 
@@ -484,39 +490,55 @@ The report must contain information regarding:
 
 #### Art. 17
 
-**Scope of application[^17-1]**
+**Scope of application**[^17-1]
 
-<sup>1</sup> The provisions of this Chapter apply to any person who imports into Switzerland or manufactures in Switzerland a passenger car, van or light articulated vehicle which is then placed on the market for the first time.[^17-2]
+<sup>1</sup>
 
-<sup>2</sup> Vehicles that are placed on the market for the first time are those that are registered for use in Switzerland for the first time and whose use specified in their initial registration corresponds to their actual use by the end user.[^17-3]
+The provisions of this Chapter apply to any person who imports into Switzerland or manufactures in Switzerland any of the following vehicles which is then placed on the market for the first time:
 
-<sup>2bis</sup> Imported vehicles that have been registered for use abroad more than six months before the customs declaration are not regarded as registered for the first time.[^17-4]
+- a. passenger cars;
+- b. vans;
+- c. light articulated vehicles.
 
-<sup>3</sup> Placing on the market in a customs enclave in accordance with Article 3 paragraph 3 of the Customs Act of 18 March 2005[^17-5] (CustA) and in Liechtenstein is deemed registration in Switzerland. Registration in a customs enclave in accordance with Article 3 paragraph 2 CustA, with the exception of Liechtenstein, is deemed placing on the market abroad.
+<sup>2</sup>
 
-<sup>4</sup>
+The importer of a vehicle is the person who:
 
-If the deadline specified in paragraph 1 leads to the significant unequal treatment of importers of vehicles that have already been registered abroad before a customs declaration in Switzerland and importers of vehicles that have not been registered abroad before a customs declaration in Switzerland, or should misuses occur, then DETEC may:
+- a. is the holder of the type-approval or the data sheet referred to in Articles 3 and 3*a* of the Ordinance of 19 June 1995[^17-2] on the Type Approval of Road Vehicles (RVTAO): if its type approval or the corresponding data sheet is used for the registration of the vehicle for use;
+- b. is the importer of the vehicle according to the customs declaration: if the electronic Certificate of Conformity (COC) under Article 37 of Regulation (EU) 2018/858[^17-3] is used for the registration of the vehicle; or
+- c. is certified by the Federal Roads Office (FEDRO) as the importer: if none of the documents referred to in letters a and b is used for the registration.
 
-- a. shorten or extend the deadline by no more than one year;
-- b. define a required minimum number of kilometres covered.
-
-<sup>5</sup> ... [^17-6]
-
-[^17-1]: Inserted by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^17-2]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^17-3]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^17-4]: Inserted by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^17-5]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^17-6]: Repealed by No I of the O of 25 Nov. 2020, with effect from 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^17-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^17-2]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^17-3]: See footnote to Art. 2 let. a No 2.
 
 #### Art. 17a
 
-**Reference year**[^17a-1]
+**Placing vehicles on the market for the first time**[^17a-1]
+
+<sup>1</sup> Vehicles that are placed on the market in Switzerland for the first time are those that are registered for use in Switzerland for the first time and whose use specified in their initial registration corresponds to their actual use by the end user.
+
+<sup>2</sup> Placing on the market in a customs enclave in accordance with Article 3 paragraph 3 of the Customs Act of 18 March 2005[^17a-2] (CustA) and in Liechtenstein is deemed registration in Switzerland. Registration in a customs enclave in accordance with Article 3 paragraph 2 CustA, with the exception of Liechtenstein, is deemed placing on the market abroad.
+
+<sup>3</sup> Imported vehicles that have been registered for use abroad more than six months before the customs declaration are not regarded as placed on the market for the first time.
+
+<sup>4</sup>
+
+If the deadline specified in paragraph 3 leads to the significant unequal treatment of importers of vehicles that have already been registered abroad before a customs declaration and importers of vehicles that have not been registered abroad before a customs declaration, or should misuses occur, then DETEC may:
+
+- a. shorten or extend the deadline by no more than one year; or
+- b. define a required minimum number of kilometres covered.
+
+[^17a-1]: Inserted by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^17a-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+
+#### Art. 17a<sup>bis</sup>
+
+**Reference year**[^17abis-1]
 
 - [tab] The reference year is deemed to be the calendar year in which achievement of the individual target is verified.
 
-[^17a-1]: Inserted by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^17abis-1]: Originally: Art. 17*a*. Inserted by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 #### Art. 17b
 
@@ -582,113 +604,48 @@ Depending on the number of a manufacturer’s vehicles that are registered for t
 
 <sup>2</sup> An emission pool must appoint a representative.
 
+#### Art. 22a
+
+**Agreement to take over vehicles**[^22a-1]
+
+<sup>1</sup> An importer may agree with a large-scale importer that the latter will take over vehicles from the importer and thereby enter into all the obligations under this Chapter in respect of these vehicles.
+
+<sup>2</sup> The importer must notify FEDRO of this before the vehicles concerned are placed on the market for the first time. The notification must include a declaration of consent from the large-scale importer taking over the vehicles.
+
+[^22a-1]: Inserted by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+
 ### Section 3 Bases for Assessments
 
 #### Art. 23
 
-**Documentation to be submitted**
+**Obligations of importers**[^23-1]
 
-<sup>1</sup> A vehicle imported by a large-scale importer may not be registered until the Federal Roads Office (FEDRO) has, by submission of a type approval, been notified of the data required for calculating any sanction and for the allocation of the vehicle to a fleet of new vehicles.
+<sup>1</sup> Before placing a vehicle on the market for the first time, importers must provide FEDRO with the data required for its allocation to the importer and for the calculation of any penalty.
 
-<sup>2</sup>
+<sup>2</sup> A small importer must also pay FEDRO the penalty under Article 13 of the CO<sub>2</sub> Act before placing a vehicle on the market for the first time, if such a penalty is due.
 
-In the case of vehicles without type approval, the large-scale importer must submit the following documentation to FEDRO before the vehicle is registered for the first time:
-
-- a. the completed inspection report in accordance with Article 6 paragraph 3 of the Ordinance of 19 June 1995[^23-1] on the Type Approval of Road Vehicles (RVTAO);
-- b. the application for attestation; and
-- c. any evidence required in accordance with Article 25 paragraph 1 or 2.
-
-<sup>3</sup>
-
-A vehicle imported by a small-scale importer may be registered for the first time if the small-scale importer has paid FEDRO the sanction in accordance with Article 13 of the CO<sub>2</sub> Act where a sanction is due, and has submitted the following documentation:
-
-- a. the completed inspection report in accordance with Article 6 paragraph 3 RVTAO;
-- b. the application for attestation;
-- c. any evidence required in accordance with Article 24 paragraph 1 or 3 or Article 25 paragraph 1 or 2.
-
-<sup>4</sup> If an importer wishes to have a vehicle that it has imported accounted for in the fleet of new vehicles of a large-scale importer, it must notify FEDRO of this before the vehicle is registered for the first time by applying for attestation. The application must include the signature of the large-scale importers assuming responsibility.
-
-[^23-1]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^23-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 #### Art. 24
 
-**CO<sub>2</sub> emissions and unladen weight of vehicles with type approval**
+**Sources of data used for the calculation of the target and the average CO<sub>2</sub> emissions of the new car fleet**[^24-1]
 
-<sup>1</sup>
+The data used for the calculation of the individual target and for the calculation of the average CO<sub>2</sub> emissions of the new car fleet shall originate from a document issued by the vehicle manufacturer, by a governmental authority or by a RVTAO[^24-2] inspection centre or a foreign inspection centre listed in Annex 2, which is equivalent to the COC.
 
-When determining CO<sub>2</sub> emissions, the following data are decisive:
-
-- a. subject to paragraph 1<sup>ter</sup>, the data in the type approval in accordance with the RVTAO[^24-1]: provided the values are determined in accordance with the Regulation (EU) 2017/1151[^24-2] (WLTP values);
-- b. the CO<sub>2</sub> emissions determined in accordance with Article 25: if no WLTP values are available.[^24-3]
-
-<sup>1bis</sup> To determine the unladen weight, the data in the type approval in accordance with the RVTAO are decisive, subject to paragraph 1<sup>ter</sup>.[^24-4]
-
-<sup>1ter</sup> The data in the type approval are not decisive if the importer submits the data under paragraph 3 or 4 to FEDRO within the relevant deadline.[^24-5]
-
-<sup>2</sup> If details of the unladen weight are not included in the type approval of vans and light articulated vehicles, the unladen weight recorded at the vehicle inspection in the inspection report in accordance with Article 6 paragraph 3 RVTAO is decisive.
-
-<sup>3</sup>
-
-The importer may submit the following data to FEDRO within the deadline in paragraph 5:
-
-- a.
-
-  for passenger cars, vans and light articulated vehicles, the following data based on the certificate of conformity (COC) in accordance with Article 18 of Directive 2007/46/EC[^24-6] or Article 36 of Regulation (EU) 2018/858[^24-7]:
-
-  - 1\. the vehicle identification number,
-  - 2\. the CO<sub>2</sub> emissions (combined) in accordance with Position 49.4,
-  - 3\. any innovative technologies (eco-innovations) recognised under Article 11 of Regulation (EU) 2019/631[^24-8], and
-  - 4\. the unladen weight if available in accordance with Position 13.2, otherwise in accordance with Position 13;
-
-- b.
-
-  for vans and light articulated vehicles with multi-stage type approval in accordance with Article 3 point 7 of Directive 2007/46/EC or Article 3 number 8 of Regulation (EU) 2018/858:
-
-  - 1\. the data in accordance with letter a points 1 and 3, and
-  - 2\. the CO<sub>2</sub> emissions and the unladen weight determined in accordance with Annex III Part A number 1.2.2 of Regulation (EU) 2019/631.[^24-9]
-
-<sup>4</sup> For vehicles with type approval that are converted to use a different fuel before the vehicle is registered for the first time, the evidence in accordance with Article 25 paragraph 1 letters b–d must be submitted to FEDRO within the deadline in accordance with paragraph 5.
-
-<sup>5</sup> The data and evidence in accordance with paragraphs 3 and 4 must be submitted by the 31 January following the reference year or, in the case of a small-scale importers, before the vehicle is registered for the first time.
-
-<sup>6</sup> In order to verify the data in accordance with paragraphs 3 and 4, FEDRO and the SFOE may require the importer to submit the COC in original form.
-
-[^24-1]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
-[^24-2]: See footnote to Art. 17*b* para. 1 let. a.
-[^24-3]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^24-4]: Inserted by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^24-5]: Inserted by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^24-6]: See footnote to Art. 2 let. a.
-[^24-7]: See footnote to Art. 2 let. a.
-[^24-8]: Regulation (EU) 2019/631 of the European Parliament and of the Council of 17 April 2019 setting CO2 emission performance standards for new passenger cars and for new light commercial vehicles, and repealing Regulations (EC) No 443/2009 and (EU) No 510/2011, OJ L 111 of 25.4.2019, p. 13; last amended by Delegated Regulation (EU) 2020/22, OJ L 8 of 14.1.2020, p. 2.
-[^24-9]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^24-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^24-2]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
 
 #### Art. 25
 
-**CO<sub>2</sub> emissions and unladen weight of vehicles without type approval**
+**Determining the CO<sub>2</sub> emissions of a vehicle**[^25-1]
 
-<sup>1</sup>
+<sup>1</sup> For the determination of the CO<sub>2</sub> emissions of a vehicle, the combined emissions according to the WLTP are used.
 
-In determining the CO<sub>2</sub> emissions and unladen weights of vehicles that are exempt from type approval (Art. 4 RVTAO[^25-1]), the following evidence is decisive insofar as the CO<sub>2</sub> emissions are WLTP values:[^25-2]
+<sup>2</sup> For vehicles for which no values determined in accordance with the WLTP are available, the CO<sub>2</sub> emissions are calculated in accordance with Annex 4.
 
-- a. the data based on the COC in accordance with Article 24 paragraph 3 letter a;
-- b. written evidence contained in an inspection report from an inspection centre listed in Annex 2 RVTAO (conformity assessment) or a foreign inspection centre (conformity certificate) that the vehicle complies with the Swiss regulations;
-- c. the approval of a foreign state in accordance with national or international law that is listed in Annex 2 RVTRO[^25-3] or which is at least equivalent to the Swiss regulations; or
-- d. the inspection report from an inspection centre that is competent in accordance with Annex 2 RVTAO or which has been provisionally licensed by FEDRO in accordance with Article 17 paragraph 2 RVTAO.
+<sup>4</sup> If the CO<sub>2</sub> emissions cannot be calculated in accordance with Annex 4, passenger cars shall be assumed to produce emissions of 300 g CO<sub>2</sub>/km and vans and light articulated vehicles 400 g CO<sub>2</sub>/km.
 
-<sup>2</sup> If the vehicle is a van or a light articulated vehicle with a multi-stage type approval in accordance with Article 3 point 7 of Directive 2007/46/EC[^25-4] or under Article 3 number 8 of Regulation (EU) 2018/858[^25-5], in determining the CO<sub>2</sub> emissions and the weights of the completed vehicle the evidence in accordance with paragraph 1 letters b–d and in accordance with Article 24 paragraph 3 letter b is decisive.[^25-6]
-
-<sup>3</sup> In the case of vehicles for which no WLTP values are available based on the evidence under paragraphs 1 or 2, the CO<sub>2</sub> emissions are calculated in accordance with Annex 4. The unladen weight in kg in accordance with Article 7 RVTRO is decisive. The importer must provide proof of this unladen weight value in the form of a certificate of weight unless it can be ascertained from the documents specified in paragraphs 1 and 2 or the COC.[^25-7]
-
-<sup>4</sup> If the CO<sub>2</sub> emissions of a vehicle cannot be calculated in accordance with paragraph 3, passenger cars shall be assumed to produce emissions of 300 g CO<sub>2</sub>/km and vans and light articulated vehicles 400 g CO<sub>2</sub>/km.
-
-[^25-1]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
-[^25-2]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^25-3]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^25-4]: See footnote to Art. 2 let. a.
-[^25-5]: See footnote to Art. 2 let. a.
-[^25-6]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^25-7]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^25-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 #### Art. 26
 
@@ -715,48 +672,30 @@ The CO<sub>2</sub> reductions achieved as a result of eco-innovations that are i
 
 <sup>1</sup> The average CO<sub>2</sub> emissions of a fleet of new vehicles of a large-scale importer is calculated based on the arithmetical mean of the CO<sub>2</sub> emissions of the passenger cars or, where applicable, vans and light articulated vehicles of the large-scale importer registered for the first time in the reference year, rounded to three decimal places.
 
-<sup>2</sup>
-
-In order to calculate the average CO<sub>2</sub> emissions of a fleet of new vehicles in accordance with paragraph 1, the following percentage of vehicles from the fleet of new vehicles with the lowest CO<sub>2</sub> emissions in the reference years 2020–2022 shall be taken into account:
-
-- a. in the reference year 2020: 85 per cent;
-- b. in the reference year 2021: 90 per cent;
-- c. in the reference year 2022: 95 per cent.
+<sup>2</sup> In order to calculate the average CO<sub>2</sub> emissions of a fleet of new vans and light articulated vehicles, only those 95 per cent of the vehicles with the lowest CO<sub>2</sub> emissions from the new vehicle fleet in the reference year 2022 shall be taken into account.[^27-1]
 
 <sup>3</sup>
 
-In order to calculate the average CO<sub>2</sub> emissions of a fleet of new vehicles in accordance with paragraph 1, vehicles with CO<sub>2</sub> emissions of less than 50 g CO<sub>2</sub>/km shall be taken into account for the reference years 2020–2022 as follows:
+In order to calculate the average CO<sub>2</sub> emissions of a fleet of new passenger cars and a fleet of new vans and light articulated vehicles, vehicles with CO<sub>2</sub> emissions of less than 50 g CO<sub>2</sub>/km shall be taken into account for the reference years 2020–2022 as follows:[^27-2]
 
 - a. in the reference year 2020: double;
 - b. in the reference year 2021: 1.67 times;
-- c. in the reference year 2022: 1.33 times.[^27-1]
+- c. in the reference year 2022: 1.33 times.[^27-3]
 
-<sup>4</sup> The multiple accounting for vehicles under paragraph 3 applies only up to a reduction in the average CO<sub>2</sub> emissions of the fleet of new vehicles of a maximum total of 9.3 g CO<sub>2</sub>/km in accordance with the WLTP. Reductions achieved in 2020, the extent of which have been determined using measurement methods applied the until the end of 2020, shall be multiplied by a factor of 1.24.[^27-2]
+<sup>4</sup> The multiple accounting for vehicles under paragraph 3 applies only up to a reduction in the average CO<sub>2</sub> emissions of the fleet of new vehicles of a maximum total of 9.3 g CO<sub>2</sub>/km in accordance with the WLTP. Reductions achieved in 2020, the extent of which have been determined using measurement methods applied the until the end of 2020, shall be multiplied by a factor of 1.24.[^27-4]
 
-[^27-1]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^27-2]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^27-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^27-2]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^27-3]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^27-4]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 #### Art. 28
 
-**Individual target**
+**Individual target**[^28-1]
 
-<sup>1</sup> The individual target for CO<sub>2</sub> emissions of the fleet of new vehicles of a large-scale importer or of the individual vehicle of a small-scale importer is calculated in accordance with Annex 4*a*.
+The individual target for CO<sub>2</sub> emissions of the fleet of new vehicles of a large-scale importer or of the individual vehicle of a small-scale importer is calculated in accordance with Annex 4*a*.
 
-<sup>2</sup> If a manufacturer has been granted a derogation from the target in accordance with Article 10 of Ordinance (EC) No 510/2011[^28-1], the individual target shall be modified for the makes of vehicle concerned; in doing so Regulation (EC) No 510/2011 shall be taken into account.[^28-2]
-
-<sup>2bis</sup>
-
-If no WLTP-based target has been published for a vehicle under paragraph 2 by the start of a reference year, for this vehicle in this reference year the target based on the measurement method applied until the end of 2020 shall be multiplied by the following factors:
-
-- a. 1.24 for cars for which a derogation under Article 10 paragraph 4 of Regulation (EU) 2019/631 has been granted;
-- b. 1.09 for cars for which a derogation under Article 10 paragraph 1 of Regulation (EU) 2019/631 has been granted;
-- c. 1.27 for vans and light articulated vehicles.[^28-3]
-
-<sup>3</sup> If a large-scale importer wishes to have vehicles with a modified individual target accounted for, it must notify the SFOE of this before any vehicle is registered for the first time in the reference year. These vehicles, irrespective of their number, each be accounted for as a separate fleet of new vehicles.
-
-[^28-1]: See footnote to Art. 26.
-[^28-2]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^28-3]: Inserted by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^28-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 #### Art. 29
 
@@ -775,19 +714,23 @@ If no WLTP-based target has been published for a vehicle under paragraph 2 by th
 
 **Sanction for exceeding individual targets**
 
-<sup>1</sup> At the end of the reference year, the SFOE shall check for each large-scale importer whether the average CO<sub>2</sub> emissions of the fleet of new vehicles exceed the individual target.
+<sup>1</sup> If the average CO<sub>2</sub> emissions of the fleet of new vehicles of a large-scale importer exceed the individual target, then the SFOE shall impose a penalty.[^30-1]
 
 <sup>2</sup> Emissions exceeding the individual target are rounded down to the nearest tenth of a gram of CO<sub>2</sub>/km to calculate the penalty.
 
-<sup>3</sup> If the individual target is exceeded, the SFOE determines the sanction in accordance with Article 13 paragraph 1 of the CO<sub>2</sub> Act and Annex 5 and draws up the final invoice, taking into account any advance payments in accordance with Article 31 paragraph 2.
+<sup>3</sup> If a large-scale importer fails to pay the penalty on time, he or she shall owe default interest. The Federal Department of Finance fixes the interest rate.[^30-2]
 
-<sup>4</sup> If the final invoice results in a surplus in favour of the large-scale importer, the SFOE refunds the surplus.
+<sup>4</sup> …[^30-3]
+
+[^30-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^30-2]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^30-3]: Repealed by No I of the O of 24 Nov. 2021, with effect from 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 #### Art. 31
 
 **Quarterly advance payments**
 
-<sup>1</sup> The SFOE shall send each large-scale importer a quarterly list of vehicles first placed on the market in the current reference year, and cof the average CO<sub>2</sub> emissions and the individual target for its fleets of new vehicles.
+<sup>1</sup> The SFOE shall send each large-scale importer a quarterly list of vehicles first placed on the market in the current reference year, and of the average CO<sub>2</sub> emissions and the individual target for its fleets of new vehicles.
 
 <sup>2</sup>
 
@@ -800,25 +743,15 @@ It may invoice large-scale importers for quarterly advance payments for any sanc
 
 <sup>3</sup> The SFOE shall calculate the amount of the advance payments on the basis of the data in paragraph 1. Advance payments already made are taken into account in preparing the invoice.
 
-#### Art. 32
+<sup>4</sup> If the payments made exceed the penalty owed for the entire year for the fleet of new vehicles, the SFOE shall refund the difference together with the reimbursement interest thereon.[^31-1]
 
-**Payment deadline and interest**
+[^31-1]: Inserted by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
-<sup>1</sup> The large-scale importer shall pay the invoices and the final invoice within 30 days of receipt.
+#### Art. 32 and 33
 
-<sup>2</sup> Refunds in accordance with Article 30 paragraph 4, plus interest on refunds, shall be made within the same period.
+[^3233-1]
 
-<sup>3</sup> If a large-scale importer does not pay an invoice or the final invoice on time, it shall owe interest on arrears.
-
-<sup>4</sup> The rates of interest on arrears and reimbursement interest are specified in the Annex to the FDF Ordinance of 10 December 1992[^32-1] on the Due Date for and Interest on Direct Federal Taxes.
-
-[^32-1]: [SR 642.124](https://fedlex.data.admin.ch/eli/cc/1993/717_717_717)
-
-#### Art. 33
-
-**Sanction order**
-
-If a large-scale importer does not pay an invoice or a final invoice despite a reminder, the SFOE shall order the sanction.
+[^3233-1]: Repealed by No I of the O of 24 Nov. 2021, with effect from 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 #### Art. 34
 
@@ -832,13 +765,13 @@ If a large-scale importer does not pay an invoice or a final invoice despite a r
 
 #### Art. 35
 
-<sup>1</sup> For each vehicle of a small-scale importer, FEDRO shall check whether the CO<sub>2</sub> emissions of the vehicle exceed the individual target.
+[^35-1]
 
-<sup>2</sup> If the individual target is exceeded, FEDRO shall determine the sanction in accordance with Article 13 paragraph 1 of the CO<sub>2</sub> Act and Annex 5 and invoice it. In the reference years 2020–2022, the penalty for each vehicle shall be multiplied by the percentages in accordance with Article 27 paragraph 2.
+<sup>1</sup> If the CO<sub>2</sub> emissions of a small-scale importer's vehicle exceed the individual target, then FEDRO shall impose a penalty.
 
-<sup>3</sup> Articles 30 paragraph 2, 32 and 33 also apply.
+<sup>2</sup> Article 30 paras 2 and 3 apply mutatis mutandis.
 
-<sup>4</sup> FEDRO is responsible for imposing the sanction in accordance with Article 33.
+[^35-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### Section 6 Reporting and Informing the Public
 
@@ -1004,15 +937,14 @@ The portion under paragraph 2 is the sum of:
   - 2\. adjustments under Article 46*b*,
   - 3\. an incorrect or incomplete monitoring report (Art. 52 para. 8).
 
-<sup>4</sup> If the portion under paragraph 2 is insufficient to meet claims in full, the emission allowances shall be allocated in the following order:
+<sup>4</sup>
 
-operators under Article 46*a* that have been participating in the ETS for at least one full calendar year;
+If the portion under paragraph 2 is insufficient to meet claims in full, the emission allowances shall be allocated in the following order:
 
-operators under Article 46*a*, that began participating in the ETS in the previous year;
-
-installation operators under paragraph 2 letter b number 2;
-
-installation operators under Article 46*a* that are participating in the ETS for the first time in the year concerned.
+- a. operators under Article 46*a* that have been participating in the ETS for at least one full calendar year;
+- b. operators under Article 46*a*, that began participating in the ETS in the previous year;
+- c. installation operators under paragraph 2 letter b number 2;
+- d. installation operators under Article 46*a* that are participating in the ETS for the first time in the year concerned.
 
 <sup>5</sup> If the claims cannot be met in full within a group under paragraph 4 letter a, b or d, the time the installations came into operation determines how the emission allowances are allocated to the individual operators. If the claims cannot be met in full within the group under paragraph 4 letter c, the FOEN shall reduce the quantity of emission allowances allocated to the individual operators free of charge on a pro rata basis.
 
@@ -1132,10 +1064,12 @@ Installation and aircraft operators participating in the Swiss and the EU emissi
 
 <sup>1</sup>
 
-The FOEN regularly auctions:
+The FOEN shall regularly auction:
 
-- a.[^48-1] no more than 10 per cent of the maximum quantity of emission allowances available for installations in the previous year in accordance with Article 45 paragraph 1;
-- a. 15 per cent of the maximum quantity of emission allowances for aircraft available annually in accordance with Annex 15 number 2.
+- a.[^48-1] the emission allowances for installations of the corresponding year that are not allocated free of charge;
+- b. 15 per cent of the maximum quantity of emission allowances for aircraft available annually in accordance with Annex 15 number 2.
+
+<sup>1bis</sup> The quantity of emission allowances to be auctioned in accordance with paragraph 1 letter a shall be reduced by fifty per cent if the difference between the supply of emission allowances for installations and the demand for emission allowances for installations (quantity in circulation) is more than fifty percent of the maximum quantity of emission allowances for installations available in the previous year in accordance with Article 45 paragraph 1. The calculation of the quantity in circulation shall be carried out in accordance with the provisions of Annex 8 number 2.[^48-2]
 
 <sup>2</sup>
 
@@ -1153,7 +1087,8 @@ The FOEN may cancel the auction without accepting a bid if:
 
 <sup>6</sup> The FOEN may commission private organisations to conduct the auction.
 
-[^48-1]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^48-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^48-2]: Inserted by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 #### Art. 49
 
@@ -1388,7 +1323,7 @@ The application must include:
 - c. first names, surnames, postal and e-mail addresses and proof of identity of the applicant;
 - d. first names, surnames, postal address, personal e-mail address, mobile phone number, proof of identity and criminal record certificate of at least one and no more than four authorised representatives for the account;
 - e. first names, surnames, postal address, personal e-mail address, mobile phone number, proof of identity and criminal record certificate of at least one and no more than four transaction validators;
-- f. a declaration that the applicant accepts the General Terms and Conditions of the Emissions Trading Registry.
+- f. declaration that the applicant accepts the General Terms and Conditions of the Emissions Trading Registry.
 
 <sup>3</sup> The submission of a Swiss criminal record certificate is not required if evidence can be provided by means of notarial certificate that the persons concerned have not been convicted of the criminal offences set out in Article 59*a* paragraph 1 letter b.
 
@@ -1681,7 +1616,7 @@ The application must contain information about:
 
 The FOEN may request additional information if required for the determination of reduction obligations, particularly about:
 
-- a. [^69-3] the state of the art of the technology used in the installations;
+- a.[^69-3] the state of the art of the technology used in the installations;
 - b.[^69-4] already implemented greenhouse-gas-effective measures, their effect and financing;
 - c. the possible technical and economic greenhouse-gas-effective measures, with an evaluation of their effect and costs.
 
@@ -2017,7 +1952,7 @@ The levy shall be increased as follows:
   from 1 January 2018:
 
   - 1\. at 96 francs per tonne of CO<sub>2</sub> if the CO<sub>2</sub> emissions from thermal fuels in 2016 exceed 73 per cent of 1990 emissions,
-  - 2\. at 120 francs per tonne of CO<sub>2</sub> if the CO<sub>2</sub> emissions from thermal fuels in 2016 exceed 76 per cent of 1990 emissions.
+  - 2\. at 120 francs per tonne of CO<sub>2</sub> if the CO<sub>2</sub> emissions from thermal fuels in 2016 exceed 76 per cent of 1990 emissions;
 
 - d.[^94-1] from 1 January 2022: at 120 francs per tonne of CO<sub>2</sub> if the CO<sub>2</sub> emissions from thermal fuels in 2020 exceed 67 per cent of the 1990 emissions.
 
@@ -2098,19 +2033,16 @@ It is entitled to the refund of the remaining 40 per cent of the CO<sub>2</sub> 
 
 <sup>1</sup> On request, an operator of fossil-thermal power plants shall be refunded the difference between the CO<sub>2</sub> levy on thermal fuels paid and the minimum price in accordance with Article 17 of the CO<sub>2</sub> Act.
 
-<sup>2</sup> Fossil-thermal power plants are installations that produce either solely electricity or also heat simultaneously from fossil energy sources:
+<sup>2</sup>
 
-that are participating in the ETS for the first time after the amendment of 13 November 2019 comes into force;
+Fossil-thermal power plants are installations that produce either solely electricity or also heat simultaneously from fossil energy sources:
 
-that have a total output of at least one MW and an overall efficiency of less than 80 per cent;
-
-that sell electricity to third parties;
-
-that are operated at a location for at least two years or for more than 50 hours per year;
-
-that are not used exclusively for the research, development and testing of new products and processes; and
-
-that are not used primarily for the disposal of municipal or special waste in accordance with Article 3 letters a and c respectively ADWO.[^96b-2]
+- a. that are participating in the ETS for the first time after the amendment of 13 November 2019 comes into force;
+- b. that have a total output of at least one MW and an overall efficiency of less than 80 per cent;
+- c. that sell electricity to third parties;
+- d. that are operated at a location for at least two years or for more than 50 hours per year;
+- e. that are not used exclusively for the research, development and testing of new products and processes; and
+- f. that are not used primarily for the disposal of municipal or special waste in accordance with Article 3 letters a and c respectively ADWO[^96b-2].
 
 <sup>3</sup> In the evaluation of external costs in accordance with Article 17 of the CO<sub>2</sub> Act the FOEN takes into account the current state of scientific knowledge in particular.
 
@@ -2125,28 +2057,29 @@ that are not used primarily for the disposal of municipal or special waste in ac
 
 **Application for refund[^97-1]**
 
-<sup>1</sup> An application for refund must be submitted to the Swiss Federal Customs Administration (FCA) in the prescribed form.
+<sup>1</sup> An application for refund must be submitted to the Federal Office for Customs and Border Security (FOCBS)[^97-2] in the prescribed form.
 
 <sup>2</sup>
 
 It must include:
 
 - a. a complete compilation of the CO<sub>2</sub> levy paid;
-- b.[^97-2] ...
+- b.[^97-3] ...
 - c. the quantity and type of acquired thermal fuels;
 - d. the applicable rate of the CO<sub>2</sub> levy.
 
-<sup>3</sup> The FCA may demand further evidence if required for determining the refund. In particular, the invoices for the CO<sub>2</sub> levy paid must be produced if it so requests.[^97-3]
+<sup>3</sup> The FOCBS may demand further evidence if required for determining the refund. In particular, the invoices for the CO<sub>2</sub> levy paid must be produced if it so requests.[^97-4]
 
 [^97-1]: Amended by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^97-2]: Repealed by No I of the O of 25 Nov. 2020, with effect from 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^97-3]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^97-2]: The name of this administrative unit was changed on 1 Jan. 2022 pursuant to Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
+[^97-3]: Repealed by No I of the O of 25 Nov. 2020, with effect from 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^97-4]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 #### Art. 98
 
 **Periodicity of the refund[^98-1]**
 
-<sup>1</sup> An application for refund may cover a period of 1–12 months.
+<sup>1</sup> An application for refund shall cover a period of 12 months. It may cover a shorter period, provided that the amount requested is at least CHF 100,000.[^98-2]
 
 <sup>2</sup>
 
@@ -2158,6 +2091,7 @@ It must be submitted by 30 June for the CO<sub>2</sub> levy paid for:
 <sup>3</sup> A claim for refund is forfeited if the application is not submitted by the deadline.
 
 [^98-1]: Amended by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^98-2]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 #### Art. 98a
 
@@ -2199,9 +2133,9 @@ CHP plant operators that are neither participating in the ETS nor subject to a r
 
 <sup>2</sup> The FOEN shall specify the form of the application.
 
-<sup>3</sup> It shall check compliance with the requirements specified in paragraph 1 letters a–g and forward the application to the FCA for a decision.
+<sup>3</sup> It shall check compliance with the requirements specified in paragraph 1 letters a–g and forward the application to the FOCBS for a decision.
 
-<sup>3bis</sup> Invoices for the CO<sub>2</sub> levy paid must be produced if the FCA so requests.[^98b-7]
+<sup>3bis</sup> Invoices for the CO<sub>2</sub> levy paid must be produced if the FOCBS so requests.[^98b-7]
 
 <sup>4</sup> The monitoring report referred to in paragraph 1 letter d shall in particular contain information on the development of CO<sub>2</sub> emissions resulting from electricity production and a description of the measures and investments implemented. The FOEN specifies the form of the report.
 
@@ -2219,7 +2153,7 @@ CHP plant operators that are neither participating in the ETS nor subject to a r
 
 <sup>1</sup> Applications for a refund in accordance with Article 98*b* shall be submitted for a period of 12 months and apply to fuels consumed in the previous year or in the financial year that ended in the previous year.
 
-<sup>2</sup> The refund is made by the FCA and covers 100 per cent of the CO<sub>2</sub> levy on the fuels used to produce electricity.
+<sup>2</sup> The refund is made by the FOCBS and covers 100 per cent of the CO<sub>2</sub> levy on the fuels used to produce electricity.
 
 <sup>3</sup> The right to a refund is forfeited if the application is not submitted in due time.
 
@@ -2232,9 +2166,9 @@ CHP plant operators that are neither participating in the ETS nor subject to a r
 
 <sup>1</sup> Any person who has paid a levy on thermal fuels that were not used to produce energy and wants to apply for a refund must prove the quantity that was not used to produce energy. To this end, records (consumption control) must be maintained for the input, output and consumption of the thermal fuels as well as for warehouse stocks.
 
-<sup>1bis</sup> The FCA may the refund the levy for thermal fuels not used to produce energy based on the purchased quantity, provided the applicant’s operating conditions leave no doubt that the use was not related to energy production and the applicant provides the FCA with binding confirmation that the use of the thermal fuels was not related to energy production.[^99-1]
+<sup>1bis</sup> The FOCBS may the refund the levy for thermal fuels not used to produce energy based on the purchased quantity, provided the applicant’s operating conditions leave no doubt that the use was not related to energy production and the applicant provides the FOCBS with binding confirmation that the use of the thermal fuels was not related to energy production.[^99-1]
 
-<sup>2</sup> The refund application must be submitted to the FCA in the prescribed form.
+<sup>2</sup> The refund application must be submitted to the FOCBS in the prescribed form.
 
 <sup>3</sup>
 
@@ -2244,7 +2178,7 @@ It must contain information about:
 - b. the quantity and type of thermal fuels that were not used to produce energy;
 - c. the applicable rate of the CO<sub>2</sub> levy.
 
-<sup>4</sup> The FCA may request additional evidence if required for the refund. Invoices for the CO<sub>2</sub> levy paid must be produced if it so requests.[^99-2]
+<sup>4</sup> The FOCBS may request additional evidence if required for the refund. Invoices for the CO<sub>2</sub> levy paid must be produced if it so requests.[^99-2]
 
 [^99-1]: Inserted by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^99-2]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
@@ -2263,23 +2197,21 @@ It must contain information about:
 
 **Document retention**
 
-All documents relevant to the refund are to be retained for five years and submitted to the FCA if requested.
+All documents relevant to the refund are to be retained for five years and submitted to the FOCBS if requested.
 
 #### Art. 102
 
-**Minimum amount and refund fee**
+**Minimum refund amount**[^102-1]
 
-<sup>1</sup> Refund amounts of less than 100 francs per request will not be paid out.
+Refund amounts of less than 100 francs per request will not be paid out.
 
-<sup>2</sup> A fee of 5 per cent of the refund is charged per application, amounting to at least 50 but no more than 500 francs.[^102-1]
-
-[^102-1]: Amended by No I of the O of 21 Sept. 2018, in force since 1 Nov. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)).
+[^102-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 #### Art. 103
 
 **Deferral of the refund**
 
-If an installation operator or person referred to in Article 96 violates the obligation to cooperate under this Ordinance, then the FCA may, in agreement with the FOEN, defer refund of the CO<sub>2</sub> levy.
+If an installation operator or person referred to in Article 96 violates the obligation to cooperate under this Ordinance, then the FOCBS may, in agreement with the FOEN, defer refund of the CO<sub>2</sub> levy.
 
 ## Chapter 9 Use of the Revenues from the CO<sub>2</sub> Levy
 
@@ -2399,7 +2331,7 @@ Repealed
 
 <sup>1</sup> Applications for financial assistance must be submitted the SFOE.
 
-<sup>2</sup> They must meet the requirements of Annex 12 point 3.1 and include evidence that the applications for the authorisations and licences required for the project have been submitted in full to the competent authorities and that the financing of the project has been secured.
+<sup>2</sup> Applications for support for prospecting must meet the requirements of Annex 12 number 3.1, and applications for support for developing must meet the requirements of Annex 12 numbers 4.1 and 4.2. The applications must include evidence that the applications for the authorisations and licences required for the project have been submitted in full to the competent authorities and that the financing of the project has been secured.[^113-2]
 
 <sup>3</sup> The SFOE will consult a panel of up to six experts, independent of the project, to examine applications. In addition, the canton concerned may appoint a representative to the expert panel.
 
@@ -2408,6 +2340,7 @@ Repealed
 <sup>5</sup> If the conditions for granting financial assistance are met, the Confederation shall conclude an administrative contract with the applicant. In particular, it shall specify the conditions for reclaiming the financial assistance in accordance with Article 113*b*.
 
 [^113-1]: Amended by No I of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^113-2]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 #### Art. 113a
 
@@ -2680,7 +2613,7 @@ The FOEN informs the public particularly about:
 
 <sup>2</sup> The SFOE shall implement the provisions relating to the reduction of CO<sub>2</sub> emissions from passenger cars, vans and light articulated vehicles. It is supported by the FEDRO.[^130-2]
 
-<sup>3</sup> The FCA shall implement the provisions relating to the CO<sub>2</sub> levy.
+<sup>3</sup> The FOCBS shall implement the provisions relating to the CO<sub>2</sub> levy.
 
 <sup>4</sup> In consultation with the SFOE, the FOEN shall implement the provisions on attestations for domestic emission reductions and on the promotion of technologies for the reduction of greenhouse gas emissions.[^130-3]
 
@@ -2704,11 +2637,12 @@ The FOEN informs the public particularly about:
 
 <sup>1</sup> The FOEN maintains the greenhouse gas inventory.
 
-<sup>2</sup> Based on the greenhouse gas inventory, it calculates whether the reduction target under Article 3 of the CO<sub>2</sub> Act has been met. The emission allowances surrendered by installation operators participating in the ETS from the European Union are taken into account if:
+<sup>2</sup>
 
-the emissions of these installations as recorded in the Swiss ETS are higher than the total quantity of Swiss emission allowances for installations in the Swiss ETS; and
+Based on the greenhouse gas inventory, it calculates whether the reduction target under Article 3 of the CO<sub>2</sub> Act has been met. The emission allowances surrendered by installation operators participating in the ETS from the European Union are taken into account if:
 
-the total emissions of Switzerland exceed the reduction target under Article 3 paragraph 1 of the CO<sub>2</sub> Act.[^131-1]
+- a. the emissions of these installations as recorded in the Swiss ETS are higher than the total quantity of Swiss emission allowances for installations in the Swiss ETS; and
+- b. the total emissions of Switzerland exceed the reduction target under Article 3 paragraph 1 of the CO<sub>2</sub> Act.[^131-1]
 
 <sup>3</sup> These emission allowances are taken into account in the domestic target to the extent of the additional emissions caused in accordance with paragraph 2 after deducting the emission-reduction certificates surrendered. The FOEN discloses this in the reporting on target achievement.[^131-2]
 
@@ -2752,7 +2686,7 @@ The data collected for implementation of this Ordinance shall be made available 
 - a.[^134-1] FEDRO shall transmit to the SFOE the data required for implementation of Chapter 3 of this Ordinance (Art. 31);
 - b.[^134-2]
 
-  the FOEN transmits to the SFOE the data required for the assessment of:
+  the FOEN shall transmit to the SFOE the data required for the assessment of:
 
   - 1\. applications for the issuance of attestations (Art. 7, 12 and 12*a*),
   - 2\. applications for the determination of a reduction obligation, and
@@ -2760,22 +2694,22 @@ The data collected for implementation of this Ordinance shall be made available 
 
 - c.[^134-3]
 
-  the FCA transmits to the FOEN the data required for the assessment of:
+  the FOCBS shall transmit to the FOEN the data required for the assessment of:
 
   - 1\. the fulfilment of a compensation obligation for motor fuels,
   - 2\. monitoring reports (Art. 9, 52, 72 and 91), and
   - 3\. applications for the issuance of attestations (Art. 7, 12 and 12*a*);
 
-- d.[^134-4] the FOEN transmits to the FCA the data required for the refund of the CO<sub>2</sub> levy.
+- d.[^134-4] the FOEN shall transmit to the FOCBS the data required for the refund of the CO<sub>2</sub> levy;
 - e.[^134-5]
 
-  the FOCA transmits to the FOEN the data required for the assessment of:
+  the FOCA shall transmit to the FOEN the data required for the assessment of:
 
   - 1\. obligations to participate (Art. 46*d*),
   - 2\. monitoring plans (Art. 51), and
   - 3\. monitoring reports (Art. 52).
 
-<sup>2</sup> The FCA and the Swiss Organisation for Compulsory Stockpiling of Oil Products (Carbura) may exchange data in order to implement provisions relating to the compensation of CO<sub>2</sub> emissions from motor fuels.[^134-6]
+<sup>2</sup> The General Directorate of Customs and the Swiss Organisation for Compulsory Stockpiling of Oil Products (Carbura) may exchange data in order to implement provisions relating to the compensation of CO<sub>2</sub> emissions from motor fuels.[^134-6]
 
 <sup>3</sup> The FOEN shall pass on personal data that it no longer permanently requires to the Swiss Federal Archives for storage in accordance with the Archiving Act of 26 June 1998.[^134-7] Data deemed not worthy of archiving by the Swiss Federal Archives is destroyed.[^134-8]
 
@@ -2792,7 +2726,7 @@ The data collected for implementation of this Ordinance shall be made available 
 
 **Coordination with the European Union**[^134a-1]
 
-The FOEN shall support the European Commission in accordance with Article 11 of the ETS Agreement.[^134a-2] In particular it shall transmit to it the information required for this purpose.
+The FOEN shall support the European Commission in accordance with Article 11 of the ETS Agreement[^134a-2]. In particular it shall transmit to it the information required for this purpose.
 
 [^134a-1]: Inserted by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^134a-2]: [SR 0.814.011.268](https://fedlex.data.admin.ch/eli/cc/2018/124)
@@ -2809,21 +2743,24 @@ DETEC shall amend:
 - b<sup>ter</sup>.[^135-2] Annex 3*b*: in accordance with technical and economic development;
 - c.[^135-3] Annex 4*a* number 2: for determining each year the average unladen weight of passenger cars, vans and light articulated vehicles registered for the first time in the previous calendar year;
 - c<sup>bis</sup>.[^135-4] Annex 5: for determining each year the amounts in accordance with Article 13 paragraph 1 of the CO<sub>2</sub> Act;
-- c.<sup>ter</sup>[^135-5] Annex 6: if the installation categories change based on comparable international regulations;
+- c<sup>ter</sup>.[^135-5] Annex 6: if the installation categories change based on comparable international regulations;
 - d. Annex 7: if additional economic sectors are subject to similar framework conditions;
-- [tab] d<sup>bis</sup>.[^135-6] Annex 9 number 3: if Delegated Decision 2019/708/EU[^135-7] is amended;
+- [tab] d<sup>bis</sup>.[^135-6] Annex 9 numbers 1 and 4: if the Implementing Regulation (EU) 2021/447[^135-7] is amended or replaced;
+- d<sup>ter</sup>.[^135-8] Annex 9 number 3: if the Delegated Decision 2019/708/EU[^135-9] is amended or replaced;
 - e. Annex 11: corresponding to increases in the rate of the levy (Art. 94, para. 1);
-- f.[^135-8] Annex 14: if Ordinance (EC) No 748/2009[^135-9] changes.
+- f.[^135-10] Annex 14: if Ordinance (EC) No 748/2009[^135-11] changes.
 
 [^135-1]: Inserted by No I of the O of 21 Sept. 2018, in force since 1 Nov. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)).
 [^135-2]: Inserted by No I of the O of 21 Sept. 2018, in force since 1 Nov. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)).
 [^135-3]: Amended by No I of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 [^135-4]: Inserted by No I of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 [^135-5]: Inserted by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^135-6]: Inserted by No I of the O of 8. Oct. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Amended by No I of the O of 25 Nov. 2020, with effect from 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^135-7]: Commission Delegated Decision (EU) 2019/708 of 15 February 2019 supplementing Directive 2003/87/EC of the European Parliament and of the Council concerning the determination of sectors and subsectors deemed at risk of carbon leakage for the period 2021 to 2030, amended by OJ L 120 of 8.5.2019, p. 20.
-[^135-8]: Inserted by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^135-9]: Commission Ordinance (EC) No 748/2009 of 5 August 2009 on the list of aircraft operators which performed an aviation activity listed in Annex I to Directive 2003/87/EC on or after 1 January 2006 specifying the administering Member State for each aircraft operator, OJ L 219 of 22.8.2009, p. 1; last amended by Ordinance (EU) 2018/336, OJ L 70 of 13.3.2018, p. 1.
+[^135-6]: Inserted by No I of the O of 8. Oct. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Amended No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^135-7]: Commission Implementing Regulation (EU) 2021/447 of 12 March 2021 determining revised benchmark values for free allocation of emission allowances for the period from 2021 to 2025 pursuant to Article 10a(2) of directive 2003/87/EC of the European Parliament and of the Council, amended by OJ L 87 of 15.3.2021, p. 29.
+[^135-8]: Inserted by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^135-9]: Commission Delegated Decision (EU) 2019/708 of 15 February 2019 supplementing Directive 2003/87/EC of the European Parliament and of the Council concerning the determination of sectors and subsectors deemed at risk of carbon leakage for the period 2021 to 2030, amended by OJ L 120 of 8.5.2019, p. 20.
+[^135-10]: Inserted by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^135-11]: Commission Ordinance (EC) No 748/2009 of 5 August 2009 on the list of aircraft operators which performed an aviation activity listed in Annex I to Directive 2003/87/EC on or after 1 January 2006 specifying the administering Member State for each aircraft operator, OJ L 219 of 22.8.2009, p. 1; last amended by Ordinance (EU) 2018/336, OJ L 70 of 13.3.2018, p. 1.
 
 #### Art. 135a
 
@@ -2851,10 +2788,10 @@ The following ordinances are being repealed:
 - 5\. Ordinance of 16 December 2011[^136-5] on the Reduction of CO<sub>2</sub> Emissions from Passenger Cars.
 
 [^136-1]: [[AS 2005 3581](https://fedlex.data.admin.ch/eli/oc/2005/521), [2007 2915](https://fedlex.data.admin.ch/eli/oc/2007/387)Art. 33, [2012 1195](https://fedlex.data.admin.ch/eli/oc/2012/175)]
-[^136-2]: [[AS 2007 2915](https://fedlex.data.admin.ch/eli/oc/2007/387), [2009 5945](https://fedlex.data.admin.ch/eli/oc/2009/726), [2010 953](https://fedlex.data.admin.ch/eli/oc/2010/153)[2167](https://fedlex.data.admin.ch/eli/oc/2010/296), [2011 17](https://fedlex.data.admin.ch/eli/oc/2011/6)Art. 6 [1945](https://fedlex.data.admin.ch/eli/oc/2011/287)[3331](https://fedlex.data.admin.ch/eli/oc/2011/451)Annex 3 No 15, [2012 355](https://fedlex.data.admin.ch/eli/oc/2012/24)Art. 29]
+[^136-2]: [[AS 2007 2915](https://fedlex.data.admin.ch/eli/oc/2007/387); [2009 5945](https://fedlex.data.admin.ch/eli/oc/2009/726); [2010 953](https://fedlex.data.admin.ch/eli/oc/2010/153), [2167](https://fedlex.data.admin.ch/eli/oc/2010/296); [2011 17](https://fedlex.data.admin.ch/eli/oc/2011/6)Art. 6, [1945](https://fedlex.data.admin.ch/eli/oc/2011/287), [3331](https://fedlex.data.admin.ch/eli/oc/2011/451)Annex 3 No 15; [2012 355](https://fedlex.data.admin.ch/eli/oc/2012/24)Art. 29]
 [^136-3]: [[AS 2007 4531](https://fedlex.data.admin.ch/eli/oc/2007/638), [2011 6205](https://fedlex.data.admin.ch/eli/oc/2011/870)]
 [^136-4]: [[AS 2011 17](https://fedlex.data.admin.ch/eli/oc/2011/6)]
-[^136-5]: [[AS 2012 355](https://fedlex.data.admin.ch/eli/oc/2012/24)[1817](https://fedlex.data.admin.ch/eli/oc/2012/257)]
+[^136-5]: [[AS 2012 355](https://fedlex.data.admin.ch/eli/oc/2012/24), [1817](https://fedlex.data.admin.ch/eli/oc/2012/257)]
 
 #### Art. 137
 
@@ -2936,7 +2873,7 @@ To calculate decisive CO<sub>2</sub> emissions from large-scale importers, passe
 
 **Deadline for giving notice of a registered office or domicile for personal accounts**[^142a-1]
 
-<sup>1</sup> Holders of personal accounts with a registered office or domicile outside of Switzerland or the EEA must designate a registered office or domicile in Switzerland or in the EEA within 12 months of the amendment of 13 November 2019 coming into force. After this deadline has expired, the FOEN may close the accounts concerned in accordance with Article 64.
+Holders of personal accounts with a registered office or domicile outside of Switzerland or the EEA must designate a registered office or domicile in Switzerland or in the EEA within 12 months of the amendment of 13 November 2019 coming into force. After this deadline has expired, the FOEN may close the accounts concerned in accordance with Article 64.
 
 [^142a-1]: Inserted by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 
@@ -2966,7 +2903,7 @@ To calculate decisive CO<sub>2</sub> emissions from large-scale importers, passe
 
 <sup>1</sup>
 
-The FCA may on request provisionally refund the CO<sub>2</sub> levy if the installation operator:
+The FOCBS may on request provisionally refund the CO<sub>2</sub> levy if the installation operator:
 
 - a. was subject to a reduction obligation in the years 2008–2012; and
 - b. has reported to the FOEN its obligation to participate in the ETS from 2013, or submitted an application for determination of its reduction obligation or its participation in the ETS from 2013.
@@ -3067,7 +3004,7 @@ Installation operators with a reduction obligation may in derogation from Articl
 
 <sup>1</sup>
 
-The FCA may provisionally refund the CO2 levy to the following installation operators on application:
+The FOCBS may provisionally refund the CO2 levy to the following installation operators on application:
 
 - a. installation operators that have given notice of their obligation to participate in the ETS in accordance with Article 146*g* paragraph 1 or that have submitted an application to participate in the ETS in accordance with Article 146*g* paragraph 4;
 - b. installation operators with a reduction obligation that have submitted an application to extend their reduction obligation under Article 31 paragraph 1<sup>bis</sup> of the CO<sub>2</sub> Act.
@@ -3098,6 +3035,16 @@ The following operators must repay provisionally refunded amounts, including int
 <sup>1</sup> Installation operators that had no right to attestations under Article 12 in 2019 and the fell below the reduction course in 2020 by more than 30 per cent shall not receive any attestations under Article 12 for 2020. The foregoing does not apply to cases in which the operator proves that the failure to comply with the reduction course resulted from implementing measures to reduce greenhouse gas emissions.
 
 <sup>2</sup> The FOEN shall adjust the emissions target under Article 67 and the measures target under Article 68 for 2020 in the event of the operator falling below the reduction course only as a result of the procurement of heating or cooling from a third party or of the closure of an installation.
+
+### Section 2*d***** Transitional Provisions to the Amendment of 24 November 2021
+
+[^chap12-sec2d-1]
+
+[^chap12-sec2d-1]: Inserted by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+
+**Art. 146**k
+
+The FOEN may postpone the deadline under Article 55 paragraph 3 for the surrender of 2021 emission allowances to a date after 30 April 2022 if the calculation of the quantity of emission allowances to be allocated free of charge is delayed.
 
 ### Section 3 Commencement
 
@@ -3163,7 +3110,7 @@ Annex 2*[^t-1]*
 - b. certificates for emission reductions that were achieved from projects for biological CO<sub>2</sub> sequestration or geological CO<sub>2</sub> capture and CO<sub>2</sub> sequestration;
 - c. certificates for emission reductions that were achieved through the use of hydro power plants with installed production capacity of over 20 MW;
 - d. other certificates for emission reductions that were not achieved through the use of renewable energy, the end user’s improved energy efficiency, methane flaring and avoidance of methane emissions at landfills, municipal waste recycling or waste incineration plants, recycling of agricultural waste, waste water treatment or through composting;
-- e. already used emission reduction certificates.
+- e. already used emission reduction certificates;
 - f. certificates for emission reductions that were achieved from 1 January 2021.
 
 \2. In addition, emission reduction certificates are not taken into account if:
@@ -3205,7 +3152,7 @@ Annex 3a*[^t-3]*
 
 ## Requirements for the calculation of emission reductions and the monitoring concept for projects and programmes in connection with local heating networks
 
-[^t-3]: Inserted by No II para. 1 of the O of 21 Sept. 2018, in force since 1 Nov. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Revised by the correction of 19 Feb. 2019 ([AS 2019 683](https://fedlex.data.admin.ch/eli/oc/2019/118)), by No II para. 1 of the O of 13 Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)) and bny No II of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-3]: Inserted by No II para. 1 of the O of 21 Sept. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Revised by the correction of 19 Feb. 2019 ([AS 2019 683](https://fedlex.data.admin.ch/eli/oc/2019/118)), by No II para. 1 of the O of 13 Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)) and by No II of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 ### 1 Scope of application
 
@@ -3277,7 +3224,7 @@ in which:
 
 *RE**<sub>existing,y</sub>* *= ∑**<sub>k</sub>* *W**<sub>existing,k,y</sub>**\* EF**<sub>existing</sub>* *\* RF**<sub>y</sub>**\*1/(1-WVN))* (3)
 
-in which
+in which:
 
 - W<sub>existing,k,y</sub> are the expected heat supplies to existing consumers in year y [MWh]; this parameter is replaced in the monitoring by the value measured in accordance with number 4.2.
 - <sub>k</sub> are all existing heat consumers, with the exception of installation operators exempted from the CO<sub>2</sub> levy.
@@ -3299,7 +3246,7 @@ The annual project emissions for the project or the project emissions for each c
 
 *PE**<sub>y</sub>* *= EF2**<sub>heating oil</sub>* *\* M**<sub>heating oil,y</sub>* *+ EF2**<sub>gas</sub>* *\* M**<sub>Gas,y</sub>* *+ EF**<sub>el</sub>* *\* M**<sub>el,y</sub>* (4)
 
-in which
+in which:
 
 - PE<sub>y</sub> are the expected project emissions from the project or of the component of the programme in year y [tCO<sub>2</sub>eq]
 - M<sub>heating oil,y</sub> is the expected quantity of heating oil burned to operate the heating system in year y [l]; this parameter is replaced in the monitoring by the value measured in accordance with number 4.4.
@@ -3314,7 +3261,7 @@ The annual emission reductions for projects or components of programmes are calc
 
 - *ER**<sub>y</sub>* *= RE**<sub>y</sub>* *– PE**<sub>y</sub>* (5)
 
-in which
+in which:
 
 - ER<sub>y</sub> are the emission reductions in year y [tCO<sub>2</sub>eq].
 - RE<sub>y</sub> are the reference scenario emissions in year y [tCO<sub>2</sub>eq].
@@ -3346,7 +3293,7 @@ in which:
 - W<sub>company,new,m,y</sub> is the heat supply from the new local heating network to the company exempted from the CO<sub>2</sub> levy m in year y [MWh].
 - EF<sub>WV</sub> is the standard emission factor for the local heating network = 0.22 tCO<sub>2</sub>eq/MWh.
 
-*RE**<sub>company,existing,n,y</sub>* *= W**<sub>company,existing,n,y</sub>* *\* EF**<sub>existing</sub>* *\* RF**<sub>y</sub>**\*1/(1-WVN))*
+*RE**<sub>company,existing,n,y</sub>* *= W**<sub>company,existing,n,y</sub>* *\* EF**<sub>existing</sub>* *\* RF**<sub>y</sub>**\*1/(1-WVN)*
 
 in which:
 
@@ -3451,7 +3398,7 @@ In this Annex:
 
 For determining the value of the oxidation factor parameter (OX) required to calculate the emission reductions, the following decision tree must be used:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20210210/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220101/en/xml/image/image1.png)
 
 ### 3.3 Ex-ante calculation of emission reductions
 
@@ -3459,7 +3406,7 @@ The emission reductions can be calculated ex-ante based on measurement data from
 
 *ER**<sub>ex-ante,y,flare</sub>* *= (FE – OX) \* SE \* FOD**<sub>CH4,y</sub>* *\* GWP**<sub>eff,CH4</sub>* *– PE**<sub>y</sub>* (1)
 
-in which
+in which:
 
 - ER<sub>ex-ante,y,flare</sub> are the estimated emission reductions from lean gas treatment in year y (tCO<sub>2</sub>eq).
 - GWP<sub>eff,CH4</sub> is the effective greenhouse gas potential of methane (22.25 tCO<sub>2</sub>eq / t CH<sub>4</sub>).
@@ -3467,13 +3414,13 @@ in which
 - OX is the oxidation factor.
 - SE is the suction efficiency.
 - FOD<sub>CH4,y</sub> is the quantity of methane calculated using a “first order decay” formula that is produced by the landfill in year y (t CH<sub>4</sub>); see formula (2).
-- PE<sub>y</sub> are the project emissions in year y
+- PE<sub>y</sub> are the project emissions in year y.
 
 *FOD**<sub>CH4,y</sub>* *= (16/12) \* F \* DOC**<sub>f</sub>* *\* ∑**<sub>x</sub>* *∑**<sub>j</sub>* *A**<sub>j,x</sub>* *\* DOC**<sub>j</sub>* *\**
 
 *Exp(-k**<sub>j</sub>**(y-x)) \* (1 – Exp(-k**<sub>j</sub>**))* (2)
 
-in which
+in which:
 
 - y is the year for which the methane emissions are calculated.
 - x is the year in which the landfill was filled with a specific quantity of waste A<sub>j,x</sub> of category j, which falls between OY and y.
@@ -3492,7 +3439,7 @@ For new and existing degassing systems, the reduction in methane is calculated e
 
 *ER**<sub>ex-post,y,flare</sub>* *= (FE – OX) \* GWP**<sub>effCH4</sub>* *\* V**<sub>DG,y</sub>* *\* c**<sub>CH4</sub>* *\* D**<sub>CH4</sub>* *– PE**<sub>y</sub>* (3)
 
-in which
+in which:
 
 - ER<sub>ex-post,y,flare</sub> are the eligible emission reductions determined ex-post with the aid of the emissions measured during the lean gas treatment in year y (tCO<sub>2</sub>eq).
 - FE is the flare efficiency.
@@ -3509,7 +3456,7 @@ The project emissions from operating the lean gas treatment process are calculat
 
 *PE**<sub>y</sub>* *= EF**<sub>Gas</sub>* *\* M**<sub>Gas,y</sub>* (4)
 
-in which
+in which:
 
 - EF<sub>Gas</sub> is the emission factor for the gas used [tCO<sub>2</sub>eq/Nm<sup>3</sup>]; this parameter is replaced in the monitoring by the value measured in accordance with number 4.
 - M<sub>Gas,y</sub> is the expected quantity of gas burned in year y [Nm<sup>3</sup>]; this parameter is replaced in the monitoring by the value measured in accordance with number 4.
@@ -3529,9 +3476,9 @@ The flare efficiency (FE) value must be determined in the monitoring report as f
 
   the following procedure applies:
 
-  - 1\. a value of 90 % must be used as the standard value for the combustion efficiency of a closed flare.
-  - 2\. applicants may also use the manufacturer’s specifications, provided it can be shown that these have been complied with.
-  - 3\. applicants may make their own measurements.
+  - 1\. A value of 90 % must be used as the standard value for the combustion efficiency of a closed flare.
+  - 2\. Applicants may also use the manufacturer’s specifications, provided it can be shown that these have been complied with.
+  - 3\. Applicants may make their own measurements.
 
 - c. flare efficiency must be stated as a percentage (%);
 - d. its value must be determined each year.
@@ -3579,11 +3526,11 @@ When determining the quantity of gas (M<sub>gas,y</sub>), all the following requ
 
 Annex 4*[^t-5]*
 
-(Art. 24 para. 3<sup>bis</sup> Art. 25 para. 2)
+(Art. 25 para. 2)
 
-## Calculation of CO<sub>2</sub> emissions from vehicles lacking the information listed in Article 24 paragraph 3<sup>bis</sup> or 25 paragraph 1
+## Calculation of CO<sub>2</sub> emissions from vehicles lacking the information listed in Article 25 paragraph 2
 
-[^t-5]: Amended by No II para. 2 of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-5]: Amended by No II para. 2 of the O of 25 Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)). Revised in accordance with No II para. 1 of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Calculation of CO<sub>2</sub> emissions from cars
 
@@ -3667,7 +3614,7 @@ Annex 4a*[^t-6]*
 
 ## Calculation of the individual target
 
-[^t-6]: Inserted by No II para. 3 of the O of 1 Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Revised by No I of the DETEC Ordinance of 16 Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), of 18 Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)) and No II para. 1 of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-6]: Inserted by No II para. 3 of the O of 1 Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Revised by No I of the DETEC Ordinance of 16 Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), of 18 Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), No II para. 1 of the O of 25 Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) and of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Calculation of the individual target for small-scale importers and manufacturers
 
@@ -3697,7 +3644,8 @@ Annex 4a*[^t-6]*
   - b. 2016: 1563 kg;
   - c. 2017: 1588 kg;
   - d. 2018: 1601 kg;
-  - e. 2019: 1636 kg.
+  - e. 2019: 1636 kg;
+  - f. 2020: 1674 kg.
 
 ### 2.2 Vans and light articulated vehicles
 
@@ -3706,7 +3654,9 @@ Annex 4a*[^t-6]*
   The average unladen weight of vans and light articulated vehicles registered for the first time in the following years amounted to:
 
   - a. 2018: 2056 kg;
-  - b. 2019: 2067 kg.
+  - b. 2019: 2067 kg;
+  - c. 2020: 2089 kg.
+  - [tab]
 
 Annex 5*[^t-7]*
 
@@ -3714,7 +3664,7 @@ Annex 5*[^t-7]*
 
 ## Sanction amounts for exceeding individual targets (Art. 13 para. 1 of the CO<sub>2</sub> Act)
 
-[^t-7]: Amended by No I para. 2 of the DETEC Ordinance of 21 Sept. 2018 ([AS 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Revised by No I of the DETEC Ordinance of 16 Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)) and of 18 Sept. 2020, in force since 1 Nov. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)).
+[^t-7]: Amended by No I para. 2 of the DETEC Ordinance of 21 Sept. 2018 ([AS 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Revised by No I of the DETEC Ordinance of 16 Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), of 18 Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)) and No II para. 1 of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Sanction amounts for the reference year 2017
 
@@ -3723,16 +3673,16 @@ The sanction amounts to be paid if the individual target is exceeded for the ref
 - a. for the first gram of CO<sub>2</sub>/km (from 0.1 gram up to and including 1 gram) above the individual target: CHF 5.50;
 - b. for the second gram of CO<sub>2</sub>/km (from 1.1 gram up to and including 2 grams) above the individual target: CHF 16.50;
 - c. for the third gram of CO<sub>2</sub>/km (from 2.1 grams up to and including 3 grams) above the individual target: CHF 27.50;
-- d. for every additional gram of CO<sub>2</sub>/km (from 3.1 grams) above the individual target: CHF 103.50.
+- d. for every additional gram of CO<sub>2</sub>/km (from 3.1 grams) above the individual target: CHF 104.50.
 
-### 2 Sanction amounts for the reference year 2017
+### 2 Sanction amounts for the reference year 2018
 
 The sanction amounts to be paid if the individual target is exceeded for the reference year 2018:
 
 - a. for the first gram of CO<sub>2</sub>/km (from 0.1 gram up to and including 1 gram) above the individual target: CHF 5.50;
 - b. for the second gram of CO<sub>2</sub>/km (from 1.1 gram up to and including 2 grams) above the individual target: CHF 16.50;
 - c. for the third gram of CO<sub>2</sub>/km (from 2.1 grams up to and including 3 grams) above the individual target: CHF 27.50;
-- d. for every additional gram of CO<sub>2</sub>/km (from 3.1 grams) above the individual target: CHF 104.50.
+- d. for every additional gram of CO<sub>2</sub>/km (from 3.1 grams) above the individual target: CHF 103.50.
 
 ### 3 Sanction amounts for the reference years 2019 and subsequent
 
@@ -3740,7 +3690,9 @@ The sanction amounts to be paid if the individual target is exceeded amount for 
 
 - a. for the reference year 2019: CHF 111.00;
 - b. for the reference year 2020: CHF 109.00;
-- c. für for the reference year 2021: CHF 103.50.
+- c. for the reference year 2021: CHF 103.50;
+- d. for the reference year 2022: CHF 104.
+- [tab]
 
 Annex 6*[^t-8]*
 
@@ -3777,7 +3729,7 @@ An installation operator that engages in at least one of the following activitie
 - 23\. production of bulk organic chemicals by cracking, reforming, partial or full oxidation or by similar processes, with an production capacity of over 100 tonnes per day;
 - 24\. production of hydrogen (H<sub>2</sub>) and synthesis gas by reforming or partial oxidation with an production capacity of over 25 tonnes per day;
 - 25\. production of soda ash (Na<sub>2</sub>CO<sub>3</sub>) and sodium bicarbonate (NaHCO<sub>3</sub>);
-- 26\. production of niacin
+- 26\. production of niacin.
 
 [^annex6-lvlu1-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
 
@@ -3809,16 +3761,18 @@ Annex 7*[^t-9]*
 - 17\. manufacture of machines for activities described in numbers 1–16, of pumps, compressors, automobiles, other vehicles and motors;
 - 18\. operation of public baths, artificial ice-skating rinks, tourist hotels and steam-driven locomotives and ships;
 - 19\. warehousing operations in distribution centres;
-- 20\. production of fossil-fuel-generated heating or cooling energy, possibly coupled with the production of electricity that feeds into regional district heating or cooling networks or is delivered to installation operators that are engaged in the activities listed in numbers 1–19 and 21.
+- 20\. production of fossil-fuel-generated heating or cooling energy, possibly coupled with the production of electricity that feeds into regional district heating or cooling networks or is delivered to installation operators that are engaged in the activities listed in numbers 1–19 and 21;
 - 21\. cleaning of barrels, containers and other packaging that are used in connection with the activities listed in this Annex.
 
 Annex 8*[^t-10]*
 
-(Art. 45 para. 1)
+(Art. 45 para. 1 and 48 para. 1<sup>bis</sup>)
 
-## Calculation of the maximum available quantity of emission allowances for installation operators participating in the ETS
+## Calculation of the maximum available quantity of emission allowances for installation operators participating in the ETS and calculation of the quantity in circulation
 
-[^t-10]: Amended by No II para. 2 of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-10]: Amended by No II para. 2 of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+
+### 1 Maximum quantity of emission allowances available to installation operators participating in the ETS
 
 The maximum total quantity of emission allowances available each year to all Installation operators participating in the ETS as a whole is calculated as follows:
 
@@ -3828,13 +3782,26 @@ The maximum total quantity of emission allowances available each year to all Ins
 - ∑ ØFZ: Sum of the average emission allowances allocated annually in the 2008–12 period to installations that were already taken into account in the ETS in the 2008–12 period and have again been taken into account in the ETS starting in 2013
 - ∑ Øemissions: Sum of the average greenhouse gases emitted annually in the 2009–11 period by installations and the greenhouse gas emissions that have been newly taken into account in the ETS starting in 2013.
 
+### 2 Calculation of the quantity in circulation
+
+- 2\.1 The quantity in circulation under Article 48 paragraph 1<sup>bis</sup> is the quantity of emission allowances resulting from the supply of emission allowances for installations minus the demand for emission allowances for installations.
+- 2\.2
+
+  The supply of emission allowances for installations is the sum of the following emission allowances:
+
+  - a. 157,741 emission allowances that were not used in 2008-2012 and carried over to the 2013-2020 period for operators of installations pursuant to Article 138 paragraph 1 letter a;
+  - b. the emission allowances for installations that were allocated free of charge in the period from 2013 to the previous year;
+  - c. the emission allowances for installations that were auctioned in the period from 2013 to the previous year.
+
+- 2\.3 The demand for emission allowances for installations is the result of the following subtraction: the relevant greenhouse gas emissions of the installations in the period from 2013 to the previous year pursuant to Article 55 minus the emission-reduction certificates delivered to cover the greenhouse gas emissions for the years 2013–2020.
+
 Annex 9*[^t-11]*
 
 (Art. 46 para. 1, 46*a* para. 2 and 46*b* para. 1 and 3)
 
 ## Calculation of emission allowances to be allocated free of charge for installation operators in the ETS
 
-[^t-11]: Revised in accordance with No II of the O of 8 Oct 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), of 22 June 2016 ([AS 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)), by No II para. 1 of the O of 13 Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) and the correction of 10 Feb. 2021 ([AS 2021 80](https://fedlex.data.admin.ch/eli/oc/2021/80)).
+[^t-11]: Revised in accordance with No II of the O of 8 Oct 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), of 22 June 2016 ([AS 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)), No II para. 1 of the O of 13 Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), the correction of 10 Feb. 2021 ([AS 2021 80](https://fedlex.data.admin.ch/eli/oc/2021/80)) and No II para. 1 of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Benchmarks
 
@@ -3842,71 +3809,71 @@ Annex 9*[^t-11]*
 
 <table>
 <tr><th>Product</th><th>Product benchmark (number of emission allowances per tonne of manufactured products)</th></tr>
-<tr><td>Coke</td><td>0.286</td></tr>
-<tr><td>Iron ore sinter</td><td>0.171</td></tr>
-<tr><td>Hot metal</td><td>1,328</td></tr>
-<tr><td>Pre-bake anodes</td><td>0.324</td></tr>
-<tr><td>Aluminium</td><td>1,514</td></tr>
-<tr><td>Grey cement clinker</td><td>0.766</td></tr>
-<tr><td>White cement clinker</td><td>0.987</td></tr>
-<tr><td>Lime</td><td>0.954</td></tr>
-<tr><td>Dolomite lime</td><td>1,072</td></tr>
-<tr><td>Sintered dolomite</td><td>1,449</td></tr>
-<tr><td>Float glass</td><td>0.453</td></tr>
-<tr><td>Bottles and containers made of clear glass</td><td>0.382</td></tr>
-<tr><td>Bottles and containers made of coloured glass</td><td>0.306</td></tr>
-<tr><td>Products made of continuous glass fibre</td><td>0.406</td></tr>
-<tr><td>Facing bricks</td><td>0.139</td></tr>
-<tr><td>Paving bricks</td><td>0.192</td></tr>
-<tr><td>Roofing tiles</td><td>0.144</td></tr>
-<tr><td>Spray-dried powder</td><td>0.076</td></tr>
-<tr><td>Gypsum</td><td>0.048</td></tr>
-<tr><td>Dried secondary gypsum</td><td>0.017</td></tr>
-<tr><td>Short-fibre sulphate pulp</td><td>0.12</td></tr>
-<tr><td>Long-fibre sulphate pulp</td><td>0.06</td></tr>
-<tr><td>Sulphite pulp, thermo-mechanical and mechanical pulp</td><td>0.02</td></tr>
-<tr><td>Pulp made of recycled paper</td><td>0.039</td></tr>
-<tr><td>Newsprint paper</td><td>0.298</td></tr>
-<tr><td>Uncoated fine paper</td><td>0.318</td></tr>
-<tr><td>Coated fine paper</td><td>0.318</td></tr>
-<tr><td>Tissue paper</td><td>0.334</td></tr>
-<tr><td>Test liner and fluting</td><td>0.248</td></tr>
-<tr><td>Uncoated paperboard</td><td>0.237</td></tr>
-<tr><td>Coated paperboard</td><td>0.273</td></tr>
-<tr><td>Nitric acid</td><td>0.302</td></tr>
-<tr><td>Adipic acid</td><td>2,79</td></tr>
-<tr><td>Vinyl chloride monomer (VCM)</td><td>0.204</td></tr>
-<tr><td>Phenol/ acetone</td><td>0.266</td></tr>
-<tr><td>S-pvc</td><td>0.085</td></tr>
-<tr><td>E-pvc</td><td>0.238</td></tr>
-<tr><td>Soda ash</td><td>0.843</td></tr>
-<tr><td>Refinery products</td><td>0.0295</td></tr>
-<tr><td>Carbon steel obtained using the electric arc process</td><td>0.283</td></tr>
-<tr><td>High-alloy steel obtained using the electric arc process</td><td>0.352</td></tr>
-<tr><td>Cast iron</td><td>0.325</td></tr>
-<tr><td>Mineral wool</td><td>0.682</td></tr>
-<tr><td>Gypsum paperboard</td><td>0.131</td></tr>
-<tr><td>Industrial soot («Carbon Black»)</td><td>1,954</td></tr>
-<tr><td>Ammonia</td><td>1,619</td></tr>
-<tr><td>Steam cracking</td><td>0.702</td></tr>
-<tr><td>Aromatics</td><td>0.0295</td></tr>
-<tr><td>Styrene</td><td>0.527</td></tr>
-<tr><td>Hydrogen</td><td>8,85</td></tr>
-<tr><td>Synthetic gas</td><td>0.242</td></tr>
-<tr><td>Ethylene oxide and ethylene glycol</td><td>0.512</td></tr>
+<tr><td>Coke</td><td>0.217</td></tr>
+<tr><td>Iron ore sinter</td><td>0.157</td></tr>
+<tr><td>Molten pig iron</td><td>1.288</td></tr>
+<tr><td>Pre-bake anodes</td><td>0.312</td></tr>
+<tr><td>Aluminium</td><td>1.464</td></tr>
+<tr><td>Grey cement clinker</td><td>0.693</td></tr>
+<tr><td>White cement clinker</td><td>0.957</td></tr>
+<tr><td>Lime</td><td>0.725</td></tr>
+<tr><td>Dolomite lime</td><td>0.815</td></tr>
+<tr><td>Sintered dolomite</td><td>1.406</td></tr>
+<tr><td>Float glass</td><td>0.399</td></tr>
+<tr><td>Bottles and containers made of clear glass</td><td>0.290</td></tr>
+<tr><td>Bottles and containers made of coloured glass</td><td>0.237</td></tr>
+<tr><td>Products made of continuous glass fibre</td><td>0.309</td></tr>
+<tr><td>Facing bricks</td><td>0.106</td></tr>
+<tr><td>Paving bricks</td><td>0.146</td></tr>
+<tr><td>Roofing tiles</td><td>0.120</td></tr>
+<tr><td>Spray-dried powder</td><td>0.058</td></tr>
+<tr><td>Gypsum</td><td>0.047</td></tr>
+<tr><td>Dried secondary gypsum</td><td>0.013</td></tr>
+<tr><td>Short-fibre sulphate pulp</td><td>0.091</td></tr>
+<tr><td>Long-fibre sulphate pulp</td><td>0.046</td></tr>
+<tr><td>Sulphite pulp, thermo-mechanical and mechanical pulp</td><td>0.015</td></tr>
+<tr><td>Pulp made of recycled paper</td><td>0.030</td></tr>
+<tr><td>Newsprint paper</td><td>0.226</td></tr>
+<tr><td>Uncoated fine paper</td><td>0.242</td></tr>
+<tr><td>Coated fine paper</td><td>0.242</td></tr>
+<tr><td>Tissue paper</td><td>0.254</td></tr>
+<tr><td>Test liner and fluting</td><td>0.188</td></tr>
+<tr><td>Uncoated paperboard</td><td>0.180</td></tr>
+<tr><td>Coated paperboard</td><td>0.207</td></tr>
+<tr><td>Nitric acid</td><td>0.230</td></tr>
+<tr><td>Adipic acid</td><td>2.12</td></tr>
+<tr><td>Vinyl chloride monomer (VCM)</td><td>0.155</td></tr>
+<tr><td>Phenol/ acetone</td><td>0.230</td></tr>
+<tr><td>S-pvc</td><td>0.066</td></tr>
+<tr><td>E-pvc</td><td>0.181</td></tr>
+<tr><td>Soda ash</td><td>0.753</td></tr>
+<tr><td>Refinery products</td><td>0.0228</td></tr>
+<tr><td>Carbon steel obtained using the electric arc process</td><td>0.215</td></tr>
+<tr><td>High-alloy steel obtained using the electric arc process</td><td>0.268</td></tr>
+<tr><td>Cast iron</td><td>0.282</td></tr>
+<tr><td>Mineral wool</td><td>0.536</td></tr>
+<tr><td>Gypsum paperboard</td><td>0.110</td></tr>
+<tr><td>Industrial soot («Carbon Black»)</td><td>1.485</td></tr>
+<tr><td>Ammonia</td><td>1.570</td></tr>
+<tr><td>Steam cracking</td><td>0.681</td></tr>
+<tr><td>Aromatics</td><td>0.0228</td></tr>
+<tr><td>Styrene</td><td>0.401</td></tr>
+<tr><td>Hydrogen</td><td>6.84</td></tr>
+<tr><td>Synthetic gas</td><td>0.187</td></tr>
+<tr><td>Ethylene oxide and ethylene glycol</td><td>0.389</td></tr>
 </table>
 
 - 1\.2 If no product benchmark applies, then the quantity of emission allowances to be allocated free of charge annually is calculated based on the heat benchmark as follows:
-- 62.3 emission allowances per TJ of measurable heat, whereby only measurable heat produced or measurable heat imported from other installations whose operators are participating in the ETS is eligible for allocation, provided that this heat is not produced from electricity, and
+- 47.3 emission allowances per TJ of measurable heat, whereby only measurable heat produced or measurable heat imported from other installations whose operators are participating in the ETS is eligible for allocation, provided that this heat is not produced from electricity, and
   - a. is used within the system boundaries of the installation operator participating in the ETS for manufacturing products, for generating mechanical energy other than that used to generate electricity, for heating or for cooling, but not to generate electricity; or
   - b. is exported to third parties outside the ETS, with the exception of exports for generating electricity and transmitting imported heat.
 
 - 1\.3 If neither a product benchmark nor a heat benchmark applies, then the quantity of emission allowances to be allocated free of charge annually is calculated on the basis on the following thermal-fuel benchmark:
-- 56.1 emission allowances per TJ of energy input from thermal fuels.
+- 42.6 emission allowances per TJ of energy input from thermal fuels.
 - 1\.4 If none of the benchmarks described in numbers 1.1–1.3 is applicable, then the quantity of emission allowances to be allocated free of charge annually is calculated on the basis of 0.97 times process emissions.
 - 1\.5 For the use of gases that come from processes and contain a high proportion of partially oxidised carbon (residual gas), there is an additional free-of-charge allocation to compensate for higher CO<sub>2</sub> emissions and lower efficiency in the use of residual gases in comparison with natural gas. This allocation is only made if the residual gas is created outside of a sub-installation with product benchmark and is used within the installation in the ETS to generate measurable or non-measurable heat or for the production of electricity.
 - 1\.6 No emission allowances are allocated free of charge for heat resulting from the manufacture of nitric acid.
-- 1\.7 If heat used within a sub-installation with product benchmark is imported from third parties outside the ETS, if the heat originates from the manufacture of nitric acid or if it is generated from electricity, the quantity of emission allowances to be allocated free of charge that is calculated according to the product benchmark shall be reduced by this quantity of heat multiplied by the heat benchmark of 62.3 emission allowances per TJ.
+- 1\.7 If heat used within a sub-installation with product benchmark is imported from third parties outside the ETS, if the heat originates from the manufacture of nitric acid or if it is generated from electricity, the quantity of emission allowances to be allocated free of charge that is calculated according to the product benchmark shall be reduced by this quantity of heat multiplied by the heat benchmark of 47.3 emission allowances per TJ.
 
 ### 2 General calculation of the quantity of emission allowances to be allocated free of charge
 
@@ -3925,7 +3892,7 @@ Annex 9*[^t-11]*
 
 - 3\.1
 
-  For sectors and subsectors that are not listed in the Annex to Decision 2019/708/EU[^annex9-lvlu1-lvl4-1], the quantities calculated in accordance with numbers 2 and 4 are multiplied by the following adaptation factors:
+  For sectors and subsectors that are not listed in the Annex to Decision 2019/708/EU[^annex9-lvlu1-lvl3-1], the quantities calculated in accordance with numbers 2 and 4 are multiplied by the following adaptation factors:
 
   - 3\.1.1 for 2021: 0.3
   - 3\.1.2 for 2022: 0.3
@@ -3941,10 +3908,10 @@ Annex 9*[^t-11]*
 3.2 If an installation operator delivers heat to a third party, then the customer’s adaptation factor is decisive.
 
 - 3\.3 The adaptation factor for measurable heat amounts to 0.3 if it is distributed via a network and used for heating water, space heating or space cooling in buildings or at locations whose operator does not participate in the ETS,; the foregoing does not apply to measurable heat that is directly or indirectly used to manufacture products or generate electricity.
-- 3\.4 For the manufacture of niacin and installations whose main purpose is the disposal of special waste as defined in Article 3 letter c ADWO[^annex9-lvlu1-lvl4-2], the adaptation factor amounts to 1.
+- 3\.4 For the manufacture of niacin and installations whose main purpose is the disposal of special waste as defined in Article 3 letter c ADWO[^annex9-lvlu1-lvl3-2], the adaptation factor amounts to 1.
 
-[^annex9-lvlu1-lvl4-1]: Commission Delegated Decision (EU) 2019/708 of 15 February 2019 supplementing Directive 2003/87/EC of the European Parliament and of the Council concerning the determination of sectors and subsectors deemed at risk of carbon leakage for the period 2021 to 2030, Amended by OJ L 120 of 8.5.2019, p. 20.
-[^annex9-lvlu1-lvl4-2]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^annex9-lvlu1-lvl3-1]: Commission Delegated Decision (EU) 2019/708 of 15 February 2019 supplementing Directive 2003/87/EC of the European Parliament and of the Council concerning the determination of sectors and subsectors deemed at risk of carbon leakage for the period 2021 to 2030, Amended by OJ L 120 of 8.5.2019, p. 20.
+[^annex9-lvlu1-lvl3-2]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
 
 ### 4 Special adaptation factors for thermal fuels and electricity operated production processes
 
@@ -3952,7 +3919,7 @@ Annex 9*[^t-11]*
 - [tab] The quantity of emission allowances to be allocated free of charge annually is calculated in these cases as follows:
 - *Allocation**<sub>i</sub>* *= (E**<sub>direct</sub>* */ (E**<sub>direct</sub>* *+ E**<sub>indirect</sub>**)) \* BM \* AR \* AF**<sub>i</sub>* *\* SKF**<sub>i</sub>*
 - Allocation<sub>i</sub> Allocation in year i
-- E<sub>direct</sub> Direct emissions from within the corresponding sub-installation with product benchmark in the reference period in accordance with Number 2. Emissions from heat used within or outside the sub-installation that was obtained directly from other ETS operators are also taken into account, at 62.3 t CO<sub>2</sub> per TJ.
+- E<sub>direct</sub> Direct emissions from within the corresponding sub-installation with product benchmark in the reference period in accordance with Number 2. Emissions from heat used within or outside the sub-installation that was obtained directly from other ETS operators are also taken into account, at 47.3 t CO<sub>2</sub> per TJ.
 - E<sub>indirect</sub> Indirect emissions from the electricity used within the corresponding sub-installation with product benchmark in the reference period in number 2.
 - BM Benchmark
 - AR Activity rate (referring to the relevant benchmark)
@@ -4039,79 +4006,105 @@ Annex 11*[^t-13]*
 
 (Art. 94 para. 2)
 
-## Tariff of the CO<sub>2</sub> levy for thermal fuels: 94 francs per tonne of CO<sub>2</sub>
+## Amount of the CO<sub>2</sub> levy and levy rates
 
-[^t-13]: Amended by No II para. 2 of the O of 21 Sept. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Revised by No II para. 1 of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-13]: Amended by No II para. 2 of the O of 25 Nov. 2021 in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+
+### 1 Amount of the CO<sub>2</sub> levy
+
+The CO<sub>2</sub> levy amounts to CHF 120 per tonne of CO<sub>2</sub>
+
+### 2 Levy rates
+
+The following tax rates apply to the following fuels:
 
 <table>
-<tr><td>Customs tariff number[^annex11-lvlu1-1]</td><td>Description</td><td>Levy in CHF</td></tr>
+<tr><td>Customs tariff number[^annex11-lvlu1-lvl2-1]</td><td>Description</td><td>Levy in CHF</td></tr>
 <tr><td></td><td></td><td>per 1000 kg</td></tr>
 <tr><td>[tab] 2701.</td><td>Coal; briquettes, ovoids and similar solid fuels manufactured from coal:</td><td></td></tr>
 <tr><td></td><td>– black coal, whether pulverized or not, but not agglomerated:</td><td></td></tr>
-<tr><td>1100</td><td>– – anthracite</td><td>226.60</td></tr>
-<tr><td>1200</td><td>– – bituminous coal</td><td>226.60</td></tr>
-<tr><td>1900</td><td>– – other coal</td><td>226.60</td></tr>
-<tr><td>2000</td><td>– briquettes, ovoids and similar solid fuels manufactured from coal</td><td>226.60</td></tr>
+<tr><td>1100</td><td>– – anthracite</td><td>283.20</td></tr>
+<tr><td>1200</td><td>– – bituminous coal</td><td>283.20</td></tr>
+<tr><td>1900</td><td>– – other coal</td><td>283.20</td></tr>
+<tr><td>2000</td><td>– briquettes, ovoids and similar solid fuels manufactured from coal</td><td>283.20</td></tr>
 <tr><td>[tab] 2702.</td><td>Lignite, whether agglomerated or not, excluding jet:</td><td></td></tr>
-<tr><td>1000</td><td>– lignite, whether agglomerated or not, but not agglomerated</td><td>217.90</td></tr>
-<tr><td>2000</td><td>– agglomerated lignite</td><td>217.90</td></tr>
-<tr><td>2704. 0000</td><td>Coke and semi-coke of coal, of lignite or of peat, whether or not agglomerated; retort carbon</td><td>272.60</td></tr>
+<tr><td>1000</td><td>– lignite, whether agglomerated or not, but not agglomerated</td><td>272.40</td></tr>
+<tr><td>2000</td><td>– agglomerated lignite</td><td>272.40</td></tr>
+<tr><td>2704. 0000</td><td>Coke and semi-coke of coal, of lignite or of peat, whether or not agglomerated; retort carbon</td><td>340.80</td></tr>
 <tr><td></td><td></td><td>per 1000 l at 15°C</td></tr>
 <tr><td>[tab] 2710.</td><td>Petroleum oils or oils obtained from bituminous minerals, other than crude; preparations not elsewhere specified or included, containing by weight 70% or more of oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations; waste oils:</td><td></td></tr>
 <tr><td></td><td>[tab] – petroleum oils or oils obtained from bituminous minerals (other than crude) and preparations not elsewhere specified or included, containing by weight 70% or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, other than those containing biodiesel and other waste oils:</td><td></td></tr>
 <tr><td></td><td>– – light oils and preparations:</td><td></td></tr>
 <tr><td></td><td>– – – for use as fuel:</td><td></td></tr>
-<tr><td>1291</td><td>– – – – petroleum spirit and fractions thereof</td><td>222.70</td></tr>
-<tr><td>1292</td><td>– – – – white spirit</td><td>222.70</td></tr>
-<tr><td>1299</td><td>– – – – other</td><td>222.70</td></tr>
+<tr><td>1291</td><td>– – – – petroleum spirit and fractions thereof</td><td>278.40</td></tr>
+<tr><td>1292</td><td>– – – – white spirit</td><td>278.40</td></tr>
+</table>
+
+<table>
+<tr><th>Customs tariff number</th><th>Description</th><th>Levy in CHF</th></tr>
+<tr><td>1299</td><td>– – – – other</td><td>278.40</td></tr>
 <tr><td></td><td>– – other:</td><td></td></tr>
 <tr><td></td><td>– – – for use as fuel:</td><td></td></tr>
-<tr><td>1991</td><td>– – – – petroleum oil</td><td>241.00</td></tr>
+<tr><td>1991</td><td>– – – – petroleum oil</td><td>301.20</td></tr>
 <tr><td>1992</td><td>– – – – heating oils:</td><td></td></tr>
-<tr><td></td><td>– – – – – extra light</td><td>254.40</td></tr>
+<tr><td></td><td>– – – – – extra light</td><td>318.00</td></tr>
 <tr><td></td><td></td><td>per 1000 kg</td></tr>
-<tr><td></td><td>– – – – – medium, having a sulphur content</td><td>304.30</td></tr>
+<tr><td></td><td>– – – – – medium, having a sulphur content</td><td>380.40</td></tr>
 <tr><td>1999</td><td>– – – – other distillates and products:</td><td></td></tr>
-<tr><td>Customs tariff number</td><td>Description</td><td>Levy in CHF</td></tr>
 <tr><td></td><td></td><td>per 1000 l at 15°C</td></tr>
-<tr><td>1999</td><td>– – – – – gas oil</td><td>254.40</td></tr>
+<tr><td>1999</td><td>– – – – – gas oil</td><td>318.00</td></tr>
 <tr><td></td><td></td><td>per 1000 kg</td></tr>
-<tr><td></td><td>– – – – – other</td><td>304.30</td></tr>
+<tr><td></td><td>– – – – – other</td><td>380.40</td></tr>
 <tr><td></td><td></td><td>per 1000 l at 15°C</td></tr>
 <tr><td></td><td>[tab] – petroleum oils or oils obtained from bituminous minerals (other than crude) and preparations not elsewhere specified or included, containing by weight 70% or more of petroleum oils or of oils obtained from bituminous minerals, these oils the basic constituents of the preparations, containing biodiesel, other than waste oils:</td><td></td></tr>
-<tr><td>2090</td><td>– – for other uses (only fossil-fuel portion)</td><td>254.40</td></tr>
+<tr><td>2090</td><td>– – for other uses (only fossil-fuel portion)</td><td>318.00</td></tr>
 <tr><td>[tab] 2711.</td><td>Petroleum gases and other gaseous hydrocarbons:</td><td></td></tr>
 <tr><td></td><td>– liquefied:</td><td></td></tr>
 <tr><td></td><td>– – natural gas:</td><td></td></tr>
-<tr><td>1190</td><td>– – – other</td><td>115.20</td></tr>
+<tr><td>1190</td><td>– – – other</td><td>321.60</td></tr>
+<tr><td>[tab]</td><td></td><td>per 1000 l at 15°C</td></tr>
 <tr><td></td><td>– – propane:</td><td></td></tr>
-<tr><td>1290</td><td>– – – other</td><td>145.90</td></tr>
+<tr><td>1290</td><td>– – – other</td><td>182.40</td></tr>
 <tr><td></td><td>– – butane:</td><td></td></tr>
-<tr><td>1390</td><td>– – – other</td><td>169.00</td></tr>
+<tr><td>1390</td><td>– – – other</td><td>211.20</td></tr>
 <tr><td></td><td>– – ethylene, propylene, butylene and butadiene:</td><td></td></tr>
-<tr><td>1490</td><td>– – – other</td><td>187.20</td></tr>
+<tr><td>1490</td><td>– – – other</td><td>234.00</td></tr>
 <tr><td></td><td>– – other:</td><td></td></tr>
-<tr><td>1990</td><td>– – – other</td><td>187.20</td></tr>
+<tr><td>1990</td><td>– – – other</td><td>234.00</td></tr>
 <tr><td></td><td></td><td>per 1000 kg</td></tr>
 <tr><td></td><td>– in gaseous state:</td><td></td></tr>
 <tr><td></td><td>– – natural gas:</td><td></td></tr>
-<tr><td>2190</td><td>– – – other</td><td>255.40</td></tr>
+<tr><td>2190</td><td>– – – other</td><td>321.60</td></tr>
 <tr><td></td><td>– – other:</td><td></td></tr>
-<tr><td>2990</td><td>– – – other</td><td>268.80</td></tr>
+<tr><td>2990</td><td>– – – other</td><td>331.30</td></tr>
 <tr><td>[tab] 2713.</td><td>Petroleum coke, petroleum bitumen and other residues of petroleum oils or of oils obtained from bituminous minerals:</td><td></td></tr>
 <tr><td></td><td>– petroleum coke:</td><td></td></tr>
-<tr><td>1100</td><td>– – not calcined</td><td>279.40</td></tr>
-<tr><td>1200</td><td>– – calcined</td><td>279.40</td></tr>
+<tr><td>1100</td><td>– – not calcined</td><td>349.20</td></tr>
+<tr><td>1200</td><td>– – calcined</td><td>349.20</td></tr>
 <tr><td></td><td></td><td>per 1000 l at 15°C</td></tr>
 <tr><td>2905.</td><td>Acyclic alcohols and their halogen, sulfo-, nitro- or nitroso derivatives: – saturated monovalent alcohols: – – methanol (methyl alcohol):</td><td colspan="2"></td></tr>
-<tr><td>1190</td><td>– – – other (only fossil-fuel portion)</td><td colspan="2">104.60</td></tr>
-<tr><td>[tab]</td><td></td><td></td></tr>
+<tr><td>1190</td><td>– – – other (only fossil-fuel portion)</td><td colspan="2">130.75</td></tr>
 <tr><td>[tab] 3826.</td><td>Biodiesel and mixtures thereof, not containing or containing less than 70 % by weight of petroleum oils or oils obtained from bituminous minerals:</td><td></td></tr>
-<tr><td>0090</td><td>– other (only fossil-fuel portion)</td><td>254.40</td></tr>
-<tr><td>...</td><td>thermal fuels from other fossil-fuel source materials</td><td>222.70</td></tr>
+<tr><td>0090</td><td>– other (only fossil-fuel portion)</td><td>318.00</td></tr>
+<tr><td>...</td><td>thermal fuels from other fossil-fuel source materials</td><td>278.40</td></tr>
 </table>
 
-[^annex11-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Annex
+[^annex11-lvlu1-lvl2-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Annex
+
+### 3 Amount of the CO<sub>2</sub> levy and levy rates for fuels for certain stationary uses
+
+### 3.1 Amount of the CO<sub>2</sub> levy
+
+-
+
+  The CO<sub>2</sub> levy amounts to CHF 120 per tonne of CO<sub>2</sub> if the fuels are used:
+
+  - a. to power CHP plants, turbines or motors of stationary heat pumps for the generation of heat or alternating heat and cooling; or
+  - b. to generate electricity in thermal plants.
+
+### 3.2 Levy rates
+
+- The fuels used in accordance with number 3.1 are subject to the levy rates under number 2.
 
 Annex 12*[^t-14]*
 
@@ -4119,12 +4112,12 @@ Annex 12*[^t-14]*
 
 ## Direct use of geothermal energy for the provision of heat
 
-[^t-14]: Inserted by No II para. 3 of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^t-14]: Inserted by No II para. 3 of the O of 1 Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Revised in accordance with No II para. 3 of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Prospecting and development
 
-- 1\.1 Prospecting covers investigations which on the one hand serve to indirectly characterise the subsoil of a presumed geothermal reservoir and, on the other hand, determine the above-ground site and the underground landing point of an exploration well.
-- 1\.2 Development covers exploration by drilling and extracting hot water and the possibility of returning the extracted water (via a second drill hole) into the geothermal reservoir.
+- 1\.1 Prospecting covers investigations which on the one hand serve to characterise the subsoil of a presumed geothermal reservoir and, on the other hand, determine the above-ground site and the underground landing point of an exploration well.
+- 1\.2 Development covers exploration by drilling and extracting hot water and the possibility of returning the extracted water into the geothermal reservoir.
 
 ### 2 Eligible investment costs
 
@@ -4141,12 +4134,13 @@ Annex 12*[^t-14]*
   Eligible costs comprise only the investment costs for development that are actual costs and are directly necessary for the economic and appropriate implementation of the project and which cover:
 
   - a. the preparation, construction and dismantling of the drilling site;
-  - b. drilling, including pipework, cementation and completion for the planned exploration well, the well for returning extracted water and microseismic monitoring wells;
-  - c. well stimulation;
+  - b. drilling, including pipework, cementation and completion for all planned production, injection, and monitoring wells;
+  - c. borehole and reservoir stimulation;
   - d. borehole tests;
   - e. borehole measurements including instrumentation;
-  - f. analyses of substances found;
-  - g. geological monitoring, data analysis and interpretation.
+  - f. circulation tests;
+  - g. analyses of substances found;
+  - h. geological monitoring, data analysis and interpretation.
 
 - 2\.3 The costs incurred within the framework of official processes concerning prospecting and development shall not constitute eligible costs.
 
@@ -4199,7 +4193,7 @@ Annex 12*[^t-14]*
 
 - 3\.4 Project implementation and completion
 - 3\.4.1 The project engineer carries out the planned prospecting work.
-- 3\.4.2 The project supervisor oversees the project during prospecting work; he or she evaluates the results and reports regularly to the panel of experts.
+- 3\.4.2 The project supervisor oversees the project during prospecting work; he or she evaluates the results of the prospecting work. He or she may consult the panel of experts in order to fulfil his or her tasks. He or she reports regularly to the SFOE and the panel of experts.
 - 3\.4.3 If the milestones or deadlines under point 3.3 letter a are not met, the SFOE may terminate the contract immediately.
 - 3\.4.4 After completion of the work, the panel of experts shall evaluate the results of the prospecting work for the SFOE and assess them with regard to the expected increase in the probability of finding a suspected geothermal reservoir.
 
@@ -4257,7 +4251,7 @@ Annex 12*[^t-14]*
 
 - 4\.5 Project implementation and completion
 - 4\.5.1 The project engineer carries out the planned development work.
-- 4\.5.2 The project supervisor oversees the project during prospecting work; he or she evaluates the results, in particular with regard to the temperature and transport properties of the reservoir, and reports regularly to the panel of experts.
+- 4\.5.2 The project supervisor oversees the project during prospecting work and evaluates the results of the development work, in particular with regard to the temperature and transport properties of the reservoir. He or she may consult the panel of experts in order to fulfil his or her tasks. He or she reports regularly to the SFOE and the panel of experts.
 - 4\.5.3 If the milestones or deadlines under point 4.4 letter a are not met, the SFOE may terminate the contract immediately.
 - 4\.5.4 No later than six months after completion of the development work, the panel of experts shall evaluate the results of the development work.
 - 4\.5.5 The SFOE shall inform the project engineer of the results of the assessment, in particular those relating to the geothermal reservoir.
@@ -4279,41 +4273,44 @@ Annex 13*[^t-15]*
 
 [^t-15]: Inserted by No II para. 3 of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 
-Aircraft operators are obliged to participate in the ETS if they perform the following flights:
+- 1\.
 
-- a. domestic flights in Switzerland;
-- b. flights from Switzerland to member states of the EEA.
+  Aircraft operators are obliged to participate in the ETS if they perform the following flights:
 
-The following flights are exempted:
+  - a. domestic flights in Switzerland;
+  - b. flights from Switzerland to member states of the EEA.
 
-- a. flights performed exclusively for the transport on official mission of a reigning monarch and his/her immediate family, heads of state, heads of government and government ministers, where this is substantiated by an appropriate status indicator in the flight plan;
-- b. military, customs and police flights;
-- c. flights relating to search and rescue, fire-fighting flights, humanitarian flights and emergency medical service flights;
-- d. flights performed exclusively under visual flight rules as defined in Annex 2 of the Convention of 7 December 1944[^annex13-lvlu1-1] on International Civil Aviation;
-- e. flights terminating at the aerodrome from which the aircraft has taken off and during which no planned intermediate landing has been made;
-- f. training flights performed exclusively in order to acquire or maintain a licence, or a rating in the case of cockpit flight crew, where this is substantiated by an appropriate remark in the flight plan provided that the flights are not for the transport of passengers and/or cargo or for the positioning or ferrying of aircraft;
-- g. flights performed exclusively for the purpose of scientific research;
-- h. flights performed exclusively for the purpose of checking, testing or certifying aircraft or airborne or ground-based equipment;
-- i. flights performed by aircraft with a certified maximum take-off mass of less than 5,700 kilograms;
-- j. flights performed by commercial operators in each of three consecutive four-month periods if they perform fewer than 243 flights in accordance with number 1 or if their total annual emissions of CO<sub>2</sub> are below 10,000 tonnes;
-- k. flights performed by non-commercial operators if the total annual emissions of CO<sub>2</sub> from the flights performed by these operators in accordance with number 1 are below 1,000 tonnes;
-- l.
+- 2\.
 
-  flights from Switzerland to an aerodrome in the following territories:
+  The following flights are exempted:
 
-  - [tab] 1. Guadeloupe,
-  - [tab] 2. French Guiana,
-  - [tab] 3. Martinique,
-  - [tab] 4. Mayotte,
-  - [tab] 5. Réunion,
-  - [tab] 6. Saint Martin,
-  - [tab] 7. Azores,
-  - [tab] 8. Madeira,
-  - [tab] 9. Canary Islands.
+  - a. flights performed exclusively for the transport on official mission of a reigning monarch and his/her immediate family, heads of state, heads of government and government ministers, where this is substantiated by an appropriate status indicator in the flight plan;
+  - b. military, customs and police flights;
+  - c. flights relating to search and rescue, fire-fighting flights, humanitarian flights and emergency medical service flights;
+  - d. flights performed exclusively under visual flight rules as defined in Annex 2 of the Convention of 7 December 1944[^annex13-lvlu1-1] on International Civil Aviation;
+  - e. flights terminating at the aerodrome from which the aircraft has taken off and during which no planned intermediate landing has been made;
+  - f. training flights performed exclusively in order to acquire or maintain a licence, or a rating in the case of cockpit flight crew, where this is substantiated by an appropriate remark in the flight plan provided that the flights are not for the transport of passengers and/or cargo or for the positioning or ferrying of aircraft;
+  - g. flights performed exclusively for the purpose of scientific research;
+  - h. flights performed exclusively for the purpose of checking, testing or certifying aircraft or airborne or ground-based equipment;
+  - i. flights performed by aircraft with a certified maximum take-off mass of less than 5,700 kilograms;
+  - j. flights performed by commercial operators in each of three consecutive four-month periods if they perform fewer than 243 flights in accordance with number 1 or if their total annual emissions of CO<sub>2</sub> are below 10,000 tonnes;
+  - k. flights performed by non-commercial operators if the total annual emissions of CO<sub>2</sub> from the flights performed by these operators in accordance with number 1 are below 1,000 tonnes;
+  - l.
 
-The exemptions cited in number 2 letters j and k do not apply to aircraft operators subject to the European ETS.
+    flights from Switzerland to an aerodrome in the following territories:
 
-For the allocation of flights to the four-month periods cited in number 2 letter j, it is the local take-off time of each flight that is of relevance.
+    - 1\. Guadeloupe,
+    - 2\. French Guiana,
+    - 3\. Martinique,
+    - 4\. Mayotte,
+    - 5\. Réunion,
+    - 6\. Saint Martin,
+    - 7\. Azores,
+    - 8\. Madeira,
+    - 9\. Canary Islands.
+
+- 3\. The exemptions cited in number 2 letters j and k do not apply to aircraft operators subject to the European ETS.
+- 4\. For the allocation of flights to the four-month periods cited in number 2 letter j, it is the local take-off time of each flight that is of relevance.
 
 [^annex13-lvlu1-1]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
@@ -4331,7 +4328,7 @@ For installation operators participating in the ETS, the FOEN is the competent a
 
 ### 2 Aircraft operators
 
-2.1 For aircraft operators obliged to participate in the ETS, the state competent for their administration is determined in accordance with the Ordinance (EC) No 748/2009.[^annex14-lvlu1-lvl2-1]
+2.1 For aircraft operators obliged to participate in the ETS, the state competent for their administration is determined in accordance with the Ordinance (EC) No 748/2009[^annex14-lvlu1-lvl2-1].
 
 2.2 Decisive for the administration of aircraft operators is:
 
@@ -4351,11 +4348,9 @@ Annex 15*[^t-17]*
 
 [^t-17]: Inserted by No II para. 3 of the O of 13 Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Revised by No II para. 1 of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
-The quantity of emission allowances is based on the following benchmark:
-
-0.000642186914222035 emission allowances per tonne-kilometre
-
-The maximum quantity of emission allowances for aircraft available as a whole in 2020 is calculated as follows:
+- 1\. The quantity of emission allowances is based on the following benchmark:
+- 0.000642186914222035 emission allowances per tonne-kilometre
+- 2\. The maximum quantity of emission allowances for aircraft available as a whole in 2020 is calculated as follows:
 
 Cap<sub>2020</sub> = ∑tkm<sub>CH-ETS</sub> \* BM \* 100 / 82
 
@@ -4365,21 +4360,21 @@ Cap<sub>2020</sub> Emissions cap for 2020
 
 BM Benchmark
 
-The annually maximum available quantity of emission allowances for aircraft from 2021 shall be calculated as follows using the emissions cap for 2020 and the annual reduction factor of 2.2 per cent relative to 2020:
+- 3\. The annually maximum available quantity of emission allowances for aircraft from 2021 shall be calculated as follows using the emissions cap for 2020 and the annual reduction factor of 2.2 per cent relative to 2020:
 
 *Cap**<sub>202x</sub>* *= Cap**<sub>2020</sub>* *– x \* 0.022 \* Cap**<sub>2020</sub>*
 
 Cap<sub>202x</sub> emissions cap for 202x; where x = 1, 2, 3, etc.
 
-The annually maximum available quantity of emission allowances is used as follows:
+- 4\.
 
-82 per cent are available for allocation free of charge to aircraft operators;
+  The annually maximum available quantity of emission allowances is used as follows:
 
-15 per cent is withheld for the auction;
+  - a. 82 per cent are available for allocation free of charge to aircraft operators;
+  - b. 15 per cent is withheld for the auction;
+  - c. 3 per cent is withheld for new or fast-growing aircraft operators.
 
-3 per cent is withheld for new or fast-growing aircraft operators.
-
-\5. In 2020, the quantity of emission allowances that are withheld in accordance with Article 46e paragraph 3 letter c for 2020 shall be deleted.
+\5. In 2020, the quantity of emission allowances that are withheld in accordance with Article 46*e* paragraph 3 letter c for 2020 shall be deleted.
 
 \6. The quantity of emission allowances to be allocated free of charge to an aircraft operator for 2020 is calculated according to the following formula:
 
@@ -4417,12 +4412,16 @@ Annex 16*[^t-18]*
 ### 2 Monitoring plan for aircraft operators
 
 - 2\.1 The monitoring plan must guarantee that all flights for which CO<sub>2</sub> emission data have to be collected are included and that the CO<sub>2</sub> emissions for each flight are calculated accurately. The emissions are calculated in accordance with no. 3.
-- 2\.2 The monitoring plan must include the following information:
-- a. the details required to identify the aircraft operator;
-- b. the details required to identify the aircraft operated and fuel type assigned to each type of aircraft;
-- c. a description of the methodology for ensuring the complete acquisition of data for all aircraft for which data have to be recorded;
-- d. a description of the methodology for ensuring the complete recording of all flights for which data have to be recorded;
-- e. a description of the methodology for calculating the CO<sub>2</sub> emissions for each flight.
+- 2\.2
+
+  The monitoring plan must include the following information:
+
+  - a. the details required to identify the aircraft operator;
+  - b. the details required to identify the aircraft operated and fuel type assigned to each type of aircraft;
+  - c. a description of the methodology for ensuring the complete acquisition of data for all aircraft for which data have to be recorded;
+  - d. a description of the methodology for ensuring the complete recording of all flights for which data have to be recorded;
+  - e. a description of the methodology for calculating the CO<sub>2</sub> emissions for each flight.
+
 - 2\.3 In the case of aircraft operators that generate CO<sub>2</sub> emissions of more than 25,000 tonnes per year, the monitoring plan must also include the following information:
 - a. a procedure for recording the fuel consumption of each aircraft;
 - b. a methodology for eliminating data gaps.
@@ -4451,7 +4450,7 @@ Annex 17*[^t-19]*
 
 ### 1 Monitoring report for installation operators
 
-The monitoring report must contain:
+1.1 The monitoring report must contain:
 
 - a. information about the greenhouse gas emissions and energy consumption and their development;
 - b. information about the data required to assess an adjustment to the quantity of emission allowances to be allocated free of charge under Article 46*b*;
@@ -4511,10 +4510,10 @@ Annex 18*[^t-20]*
 
 The verification of monitoring reports shall be carried out as follows:
 
-- 3\.1 Analysis of all activities carried out by the aircraft operator (strategic analysis);
-- 3\.2 Performance of random checks in order to determine the reliability of the submitted data and other information (process analysis);
-- 3\.3 Analysis of error risk relating to the utilised data, and examination of the procedures for limiting error risk (risk analysis);
-- 3\.4 Preparation of a verification report in which it is stated whether the monitoring report meets the requirements of this Ordinance. The verification report shall list all relevant aspects of the activities carried out within the scope of the verification procedure.
+- 3\.1 analysis of all activities carried out by the aircraft operator (strategic analysis);
+- 3\.2 performance of random checks in order to determine the reliability of the submitted data and other information (process analysis);
+- 3\.3 analysis of error risk relating to the utilised data, and examination of the procedures for limiting error risk (risk analysis);
+- 3\.4 preparation of a verification report in which it is stated whether the monitoring report meets the requirements of this Ordinance. The verification report shall list all relevant aspects of the activities carried out within the scope of the verification procedure.
 
 ### 4 Requirements to be met by the verifier
 
