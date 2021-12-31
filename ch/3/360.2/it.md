@@ -3,11 +3,11 @@ sr: "360.2"
 title: Ordinanza del 15 ottobre 2008 sul sistema nazionale di indagine (Ordinanza SNI)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/697"
 language: it
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/697/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2008-697-20210401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/697/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-697-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20210401/it"
 
 (Ordinanza JANUS)
 
-del 15 ottobre 2008 (Stato 1° aprile 2021)
+del 15 ottobre 2008 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -960,7 +960,7 @@ Allegato 2[^t-2]
 <tr><td>Giudice istruttore + procuratore cantonali</td><td>P</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
 <tr><td>Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni SCPT (CSI-DFGP)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td><td>–</td></tr>
 <tr><td>Ufficio federale di giustizia UFG, Ambito direzionale Assistenza giudiziaria internazionale</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>–</td><td>–</td></tr>
-<tr><td colspan="13">**Amministrazione federale delle dogane**</td></tr>
+<tr><td colspan="13">**Ufficio federale della dogana e della sicurezza dei confini****[^annex2-lvl1-lvl11-1]**</td></tr>
 <tr><td>Ambito di comando Operazioni, Cdo CGCF</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
 <tr><td>Centrali d’intervento, cdi reg CGCF</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
 <tr><td>Pianificazione e impiego, cdi reg CGCF</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
@@ -1016,6 +1016,8 @@ Allegato 2[^t-2]
 </table>
 
 \* = soltanto i dati registrati dalla stessa unità organizzativa
+
+[^annex2-lvl1-lvl11-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)**)**, con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta modi. è tenuto conto in tutto il presente testo.
 
 ### 1.2 Sistema di trattamento dei dati relativi ai reati federali (art. 11 e 18 LSIP)
 
@@ -1129,7 +1131,7 @@ Allegato 2[^t-2]
 <tr><td>Giudice istruttore + procuratore cantonali</td><td>P</td><td colspan="2">–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
 <tr><td>Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni SCPT (CSI-DFGP)</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td><td>–</td></tr>
 <tr><td>Ufficio federale di giustizia UFG, Ambito direzionale Assistenza giudiziaria internazionale</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>–</td><td>–</td></tr>
-<tr><td colspan="14">**Amministrazione federale delle dogane**</td></tr>
+<tr><td colspan="14">**Ufficio federale della dogana e della sicurezza dei confini**</td></tr>
 <tr><td>Ambito di comando Operazioni, Cdo CGCF</td><td>P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
 <tr><td>Centrali d’intervento, cdi reg CGCF</td><td>P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
 <tr><td>Pianificazione e impiego, cdi reg CGCF</td><td>P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
@@ -1289,7 +1291,7 @@ Allegato 2[^t-2]
 <tr><td>Giudice istruttore + procuratore cantonali</td><td>P</td><td colspan="2">–</td><td colspan="2">G</td><td colspan="2">G</td><td>–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
 <tr><td>Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni SCPT (CSI-DFGP)</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>–</td></tr>
 <tr><td>Ufficio federale di giustizia UFG, Ambito direzionale Assistenza giudiziaria internazionale</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>–</td></tr>
-<tr><td colspan="12">**Amministrazione federale delle dogane**</td><td></td></tr>
+<tr><td colspan="12">**Ufficio federale della dogana e della sicurezza dei confini**</td><td></td></tr>
 <tr><td>Ambito di comando Operazioni, Cdo CGCF</td><td>P</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
 <tr><td>Centrali d’intervento, cdi reg CGCF</td><td>P</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
 <tr><td>Pianificazione e impiego, cdi reg CGCF</td><td>P</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
