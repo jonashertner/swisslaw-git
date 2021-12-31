@@ -4,11 +4,10 @@ number: "172.1"
 title: Gesetz über die Organisation des Regierungsrates und der kantonalen Verwaltung (OG RR)
 short: OG RR
 language: de
-version: "2018-01-01"
-nachtrag: "99"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
 adopted: 2005-06-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_1-2005_06_06-2007_09_01-099.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_1-2005_06_06-2007_09_01-115.html"
 text: pdf
 ---
 
@@ -68,7 +67,7 @@ beschliesst:
 
 **1**
 
-- 1\. 1. 18 - 99
+- 1\. 1. 22 - 115
 
 <sup>3</sup> Am Ende der Amtsdauer prüft der Regierungsrat, ob die Ziele erreicht werden konnten, und erstattet dem Kantonsrat Bericht.
 
@@ -121,7 +120,7 @@ Der Regierungsrat prüft seine finanzwirksamen Beschlüsse auf ihre Wirtschaftli
 - b. die Mitwirkung in interkantonalen Konferenzen oder Gremien, soweit diese einen Entscheid von besonderer Tragweite zu treffen haben.
 
 [^6-1]: Fassung gemäss G über den verstärkten Einbezug des Kantonsrates im Bereich der interkantonalen und internationalen Zusammenarbeit vom 10. September 2012 (OS 68, 103; ABl 2011, 1270). In Kraft seit 1. April 2013.
-[^6-2]: Eingefügt durch Gemeindegesetz vom 20. April 2015 (OS 72, 183; ABl 2013- 04-19). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 13
+[^6-2]: Eingefügt durch Gemeindegesetz vom 20. April 2015 (OS 72, 183; ABl 2013- 04-19). In Kraft seit 1. Januar 2018.
 [^6-3]: LS 131.1.
 [^6-4]: LS 171.1.
 [^6-5]: Eingefügt durch G über den verstärkten Einbezug des Kantonsrates im Bereich der interkantonalen und internationalen Zusammenarbeit vom 10. September 2012 (OS 68, 103; ABl 2011, 1270). In Kraft seit 1. April 2013.
@@ -176,7 +175,7 @@ Der Regierungsrat prüft seine finanzwirksamen Beschlüsse auf ihre Wirtschaftli
 
 **3**
 
-- 1\. 1. 18 - 99
+- 1\. 1. 22 - 115
 
 ### IV. Verfahren
 
@@ -286,7 +285,7 @@ Die Entschädigung der Mitglieder des Regierungsrates wird durch den Kantonsrat 
 
 **5**
 
-- 1\. 1. 18 - 99 § 22. <sup>1</sup> Die Präsidentin oder der Präsident leitet die Geschäfte des Regierungsrates.
+- 1\. 1. 22 - 115 § 22. <sup>1</sup> Die Präsidentin oder der Präsident leitet die Geschäfte des Regierungsrates.
 
 **Aufgaben**
 
@@ -390,7 +389,7 @@ Die Übertragung von Aufgaben des Regierungsrates auf Kommissionen mit Entscheid
 
 **7**
 
-- 1\. 1. 18 - 99 § 31. <sup>1</sup> Die Wahlen und Abstimmungen in den Ausschüssen und Kommissionen richten sich nach den entsprechenden Bestimmungen für die Gemeindebehörden.
+- 1\. 1. 22 - 115 § 31. <sup>1</sup> Die Wahlen und Abstimmungen in den Ausschüssen und Kommissionen richten sich nach den entsprechenden Bestimmungen für die Gemeindebehörden.
 
 **Wahlen und Abstimmungen**
 
@@ -504,7 +503,7 @@ Der Regierungsrat berichtet dem Kantonsrat jährlich über seine Geschäftsführ
 
 **9**
 
-- 1\. 1. 18 - 99 § 40. <sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher bestimmt den Aufbau der Verwaltungseinheiten und legt die Geschäftsabläufe fest. Vorbehalten bleiben besondere Bestimmungen für einzelne Verwaltungseinheiten und durch die Gesetzgebung besonders geregelte Zuständigkeiten.
+- 1\. 1. 22 - 115 § 40. <sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher bestimmt den Aufbau der Verwaltungseinheiten und legt die Geschäftsabläufe fest. Vorbehalten bleiben besondere Bestimmungen für einzelne Verwaltungseinheiten und durch die Gesetzgebung besonders geregelte Zuständigkeiten.
 
 **Organisation der Verwaltungseinheiten und Selbsteintritt a. im Allgemeinen16**
 
@@ -585,11 +584,11 @@ Die Direktionsvorsteherin oder der Direktionsvorsteher kann im eigenen Zuständi
 
 <sup>1</sup> Zur Registrierung, Verwaltung, Indexierung und Überwachung seines Geschäftsverkehrs und seiner Geschäfte sowie zu deren Kommunikation darf jedes Organ der kantonalen Verwaltung nach Massgabe der kantonalen Gesetzgebung ein Informations- und Dokumentationssystem führen.
 
-<sup>2</sup> Dieses System darf besonders schützenswerte Daten und Persönlichkeitsprofile enthalten, soweit sich diese aus dem Geschäftsverkehr oder aus der Art des Geschäftes ergeben. Das betreffende Organ der kantonalen Verwaltung darf Personendaten nur speichern, wenn sie dazu dienen,
-
 **11**
 
-- 1\. 1. 18 - 99
+- 1\. 1. 22 - 115
+
+<sup>2</sup> Dieses System darf besonders schützenswerte Daten und Persönlichkeitsprofile enthalten, soweit sich diese aus dem Geschäftsverkehr oder aus der Art des Geschäftes ergeben. Das betreffende Organ der kantonalen Verwaltung darf Personendaten nur speichern, wenn sie dazu dienen,
 
 - a. seine Geschäfte zu bearbeiten,
 
@@ -601,7 +600,32 @@ Die Direktionsvorsteherin oder der Direktionsvorsteher kann im eigenen Zuständi
 
 <sup>3</sup> Zu den Personendaten haben alle Stellen der kantonalen Verwaltung Zugang, soweit sie diese zur Erfüllung ihrer Aufgaben brauchen.
 
-### D. Bezirksverwaltung
+[^44-1]: Eingefügt durch G über die Administrativuntersuchung vom 22. Februar 2021 (OS 76, 447; ABl 2018-07-20). In Kraft seit 1. Januar 2022.
+
+### D. Administrativuntersuchung
+
+[^44-1]
+
+§ 44 a.[^hDAdministrativunte-1] <sup>1</sup> Die Direktionen und die Staatskanzlei können eine Administrativuntersuchung einleiten, wenn in ihrem Zuständigkeitsbereich a. erhebliche Mängel vorliegen oder schwerwiegende Pflichtverletzungen begangen wurden,
+
+- b. ein entsprechender Verdacht besteht.
+
+<sup>2</sup> Sie können die Einleitung der Administrativuntersuchung an eine unterstellte Verwaltungseinheit delegieren.
+
+<sup>3</sup> Wer eine Administrativuntersuchung führt, ist berechtigt,
+
+- a. die für die Sicherstellung des Untersuchungszwecks erforderlichen Daten, einschliesslich Personendaten und besonderer Personendaten, zu bearbeiten und
+
+- b. diese Daten an Behörden, die mit der Administrativuntersuchung zusammenhängende straf- und verwaltungsrechtliche Verfahren führen, weiterzuleiten.
+
+<sup>4</sup> Der Regierungsrat regelt die Einzelheiten in einer Verordnung.
+
+[^hDAdministrativunte-1]: Eingefügt durch G über die Administrativuntersuchung vom 22. Februar 2021 (OS 76, 447; ABl 2018-07-20). In Kraft seit 1. Januar 2022.
+[^hDAdministrativunte-2]: Fassung gemäss G über die Administrativuntersuchung vom 22. Februar 2021 (OS 76, 447; ABl 2018-07-20). In Kraft seit 1. Januar 2022.
+
+### E. Bezirksverwaltung
+
+[^hDAdministrativunte-2]
 
 #### § 45
 
@@ -609,7 +633,7 @@ Die Direktionsvorsteherin oder der Direktionsvorsteher kann im eigenen Zuständi
 
 <sup>2</sup> Die Vorschriften dieses Gesetzes gelten sinngemäss für die Bezirksverwaltung, sofern das Gesetz über die Bezirksverwaltung[^45-1] keine abweichenden Bestimmungen enthält.
 
-[^45-1]: LS 173.1. Heute: Bezirksverwaltungsgesetz (BezVG).
+[^45-1]: LS 173.1. Heute: Bezirksverwaltungsgesetz (BezVG). 1. 1. 22 - 115 13
 
 ### Dritter Teil: Übergangs- und Schlussbestimmungen
 
