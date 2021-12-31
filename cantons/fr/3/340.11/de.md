@@ -4,13 +4,13 @@ number: "340.11"
 title: Verordnung über den Straf- und Massnahmenvollzug
 short: SMVV
 language: de
-version: 2018-01-01
-valid_until: 2021-12-31
-version_adopted: 2017-12-05
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2020-08-25
 adopted: 2017-12-05
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/340.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5154/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6906/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Straf- und Massnahmenvollzug – V
 
 (SMVV)
 
-vom 05.12.2017 (Fassung in Kraft getreten am 01.01.2018)
+vom 05.12.2017 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -62,6 +62,7 @@ beschliesst:
 - m) Es stellt die Umsetzung der Bewährungshilfe und der Weisungen (Art. 93 f. des Schweizerischen Strafgesetzbuchs vom 21. Dezember 1937, StGB), die von den Behörden angeordnet wurden, sicher.
 - n) Es gewährt oder widerruft, fördert, organisiert und überwacht den Strafvollzug in Form von gemeinnütziger Arbeit, Halbgefangenschaft und elektronischer Überwachung.
 - o) Es entscheidet über Informationsgesuche eines Opfers, von Angehörigen eines Opfers und Drittpersonen mit einem schutzwürdigen Interesse gemäss Artikel 92a StGB.
+- p) Es vollzieht bei Gewalt, Drohungen und Nachstellungen die elektronische Überwachung gemäss Artikel 28c des Schweizerischen Zivilgesetzbuchs vom 10. Dezember 1907 (ZGB).
 
 ### 2.2 Amt für Bevölkerung und Migration
 

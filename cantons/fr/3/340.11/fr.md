@@ -4,13 +4,13 @@ number: "340.11"
 title: "Ordonnance relative à l'exécution des peines et des mesures"
 short: OEPM
 language: fr
-version: 2018-01-01
-valid_until: 2021-12-31
-version_adopted: 2017-12-05
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2020-08-25
 adopted: 2017-12-05
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/340.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5154/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6906/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Exécution des peines et des mesures – O
 
 (OEPM)
 
-du 05.12.2017 (version entrée en vigueur le 01.01.2018)
+du 05.12.2017 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -62,6 +62,7 @@ Arrête:
 - m) garantir l'application de l'assistance de probation et des règles de conduite (art. 93s. du code pénal suisse du 21 décembre 1937, CP) ordonnées par les autorités;
 - n) statuer sur l'octroi ou la révocation, promouvoir, organiser et superviser l'exécution des peines sous forme de travail d'intérêt général, de semi-détention et de surveillance électronique;
 - o) statuer sur les demandes d'information des victimes, des proches de la victime et des tiers ayant un intérêt digne de protection, selon l'article 92a CP.
+- p) exécuter la surveillance électronique ordonnée en vertu de l'article 28c du code civil suisse du 10 décembre 1907 (CC) dans le domaine de la violence, des menaces et du harcèlement.
 
 ### 2.2 Service de la population et des migrants
 
