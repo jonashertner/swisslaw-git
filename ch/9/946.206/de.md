@@ -3,18 +3,18 @@ sr: "946.206"
 title: Verordnung vom 7. August 1990 über Wirtschaftsmassnahmen gegenüber der Republik Irak
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/1316_1316_1316"
 language: de
-version: 2020-08-25
+version: 2022-01-01
 adopted: 1990-08-07
 in_force: 1990-08-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1316_1316_1316/20200825/de/xml/fedlex-data-admin-ch-eli-cc-1990-1316_1316_1316-20200825-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/1316_1316_1316/20200825/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1316_1316_1316/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1990-1316_1316_1316-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/1316_1316_1316/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über Wirtschaftsmassnahmen gegenüber der Republik Irak****
+# Verordnung über Wirtschaftsmassnahmen gegenüber der Republik Irak
 
-vom 7. August 1990 (Stand am 25. August 2020)[^t-1]
+vom 7. August 1990 (Stand am 1. Januar 2022)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 11. März 1991, in Kraft seit 12. März 1991 ([AS 1991 784](https://fedlex.data.admin.ch/eli/oc/1991/784_784_784)).
 
@@ -156,12 +156,13 @@ Nicht mit Arrest belegt oder gepfändet werden können:
 
 <sup>1</sup> Das SECO führt die Kontrollen durch.
 
-<sup>2</sup> Die Kontrolle an der Grenze obliegt der Eidgenössischen Zollverwaltung.
+<sup>2</sup> Die Kontrolle an der Grenze obliegt dem Bundesamt für Zoll und Grenzsicherheit[^4c-2].
 
-<sup>3</sup> Die Kontrolle der Massnahmen im Bereich der Kulturgüter obliegt dem Bundesamt für Kultur.[^4c-2]
+<sup>3</sup> Die Kontrolle der Massnahmen im Bereich der Kulturgüter obliegt dem Bundesamt für Kultur.[^4c-3]
 
 [^4c-1]: Eingefügt durch Ziff. I der V vom 30. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3959](https://fedlex.data.admin.ch/eli/oc/2002/628)).
-[^4c-2]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 25. Juni 2003 ([AS 2003 1887](https://fedlex.data.admin.ch/eli/oc/2003/283)).
+[^4c-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^4c-3]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 25. Juni 2003 ([AS 2003 1887](https://fedlex.data.admin.ch/eli/oc/2003/283)).
 
 #### Art. 5
 
@@ -201,7 +202,7 @@ Die Listen, die der Sicherheitsrat der Vereinten Nationen bzw. das zuständige K
 
 <sup>2</sup> Diese Verordnung tritt am 7. August 1990, 11.00 Uhr, in Kraft.
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 (Art. 2 Abs. 2 und Art. 5*a*)
 
@@ -211,9 +212,9 @@ Anhang*[^t-2]*
 
 **Anmerkung**
 
-\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bzw. der vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichneten natürlichen Personen, Unternehmen und Körperschaften.*[^annexu1-lvlu1-1]*
+\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bzw. der vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichneten natürlichen Personen, Unternehmen und Körperschaften.[^annexu1-lvlu1-1]
 
-\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.*[^annexu1-lvlu1-2]*
+\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; 1518 Sanctions Committee (Iraq) &gt; Sanctions List Materials.
 [^annexu1-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.

@@ -3,18 +3,18 @@ sr: "946.206"
 title: "Ordonnance du 7 août 1990 instituant des mesures économiques envers la République d'Irak"
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/1316_1316_1316"
 language: fr
-version: 2020-08-25
+version: 2022-01-01
 adopted: 1990-08-07
 in_force: 1990-08-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1316_1316_1316/20200825/fr/xml/fedlex-data-admin-ch-eli-cc-1990-1316_1316_1316-20200825-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/1316_1316_1316/20200825/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1316_1316_1316/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1990-1316_1316_1316-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/1316_1316_1316/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance instituant des mesures économiques envers la République d’Irak****
+# Ordonnance instituant des mesures économiques envers la République d’Irak
 
-du 7 août 1990 (Etat le 25 août 2020)[^t-1]
+du 7 août 1990 (État le 1<sup>er</sup> janvier 2022)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 1991, en vigueur depuis le 12 mars 1991 ([RO 1991 784](https://fedlex.data.admin.ch/eli/oc/1991/784_784_784)).
 
@@ -157,12 +157,13 @@ Ne peuvent faire l’objet d’un séquestre ou d’une saisie :
 
 <sup>1</sup> Le SECO procède aux contrôles.
 
-<sup>2</sup> Le contrôle à la frontière incombe à l’Administration fédérale des douanes.
+<sup>2</sup> Le contrôle à la frontière incombe à l’Office fédéral de la douane et de la sécurité des frontières[^4c-2].
 
-<sup>3</sup> Le contrôle des mesures en matière de biens culturels incombe à l’Office fédéral de la culture.[^4c-2]
+<sup>3</sup> Le contrôle des mesures en matière de biens culturels incombe à l’Office fédéral de la culture.[^4c-3]
 
 [^4c-1]: Introduit par le ch. I de l’O du 30 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3959](https://fedlex.data.admin.ch/eli/oc/2002/628)).
-[^4c-2]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 25 juin 2003 ([RO 2003 1887](https://fedlex.data.admin.ch/eli/oc/2003/283)).
+[^4c-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^4c-3]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 25 juin 2003 ([RO 2003 1887](https://fedlex.data.admin.ch/eli/oc/2003/283)).
 
 #### Art. 5
 
@@ -202,7 +203,7 @@ Les listes relatives à des personnes physiques, entreprises et corporations que
 
 <sup>2</sup> La présente ordonnance entre en vigueur le 7 août 1990, à 11 heures.
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 (art. 2, al. 2, et 5*a*)
 
@@ -212,9 +213,9 @@ Annexe*[^t-2]*
 
 **Remarque**
 
-\1. La présente annexe correspond aux listes des personnes physiques, entreprises et corporations désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent*[^annexu1-lvlu1-1]*.
+\1. La présente annexe correspond aux listes des personnes physiques, entreprises et corporations désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent[^annexu1-lvlu1-1].
 
-\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies*[^annexu1-lvlu1-2]*.
+\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annexu1-lvlu1-2].
 
 [^annexu1-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: www.un.org/fr/sc &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 1518 (Iraq) &gt; Matériaux relatifs à la liste de sanctions.
 [^annexu1-lvlu1-2]: La banque de données SESAM est librement accessible Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
