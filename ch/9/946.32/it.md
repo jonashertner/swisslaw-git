@@ -4,11 +4,11 @@ title: "Ordinanza del 23 maggio 2012 sul rilascio di prove dell'origine (ORPO)"
 short: OAPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/393"
 language: it
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2012-05-23
 in_force: 2012-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/393/20170101/it/xml/fedlex-data-admin-ch-eli-cc-2012-393-20170101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/393/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/393/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2012-393-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/393/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/393/20170101/it"
 
 (ORPO)
 
-del 23 maggio 2012 (Stato 1° gennaio 2017)
+del 23 maggio 2012 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -76,9 +76,9 @@ Ai sensi della presente ordinanza sono considerati prove dell’origine:
 - g.[^4-6] le dichiarazioni d’origine e le dichiarazioni d’origine sostitutive, allestite dall’esportatore registrato conformemente all’OROPS[^4-7].
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4955](https://fedlex.data.admin.ch/eli/oc/2016/799)).
-[^4-2]: Regole d’origine e norme di cooperazione amministrativa: non pubblicato nella RU; l’All. C può essere consultato sulle pagine Internet del segretariato dell’AELS (http://secretariat.efta.int) in francese e in inglese oppure su quelle dell’Amministrazione delle dogane (www.ezv.admin.ch &gt; Documentazione &gt; Prescrizioni &gt; D. 30).
+[^4-2]: Regole d’origine e norme di cooperazione amministrativa: non pubblicato nella RU; l’All. C può essere consultato sulle pagine Internet del segretariato dell’AELS (http://secretariat.efta.int) in francese e in inglese oppure su quelle dell’UDSC (www.udsc.admin.ch &gt; Documentazione &gt; Prescrizioni &gt; D. 30).
 [^4-3]: [RS 0.632.312.32](https://fedlex.data.admin.ch/eli/cc/2009/490)
-[^4-4]: Prot. B relativo alla definizione della nozione di *prodotti originari* e ai metodi di cooperazione amministrativa: non pubblicato nella RU; il Prot. può essere consultato sulle pagine Internet del segretariato dell’AELS (http://secretariat.efta.int) in francese e in inglese oppure su quelle dell’Amministrazione delle dogane (www.ezv.admin.ch &gt; Documentazione &gt; Prescrizioni &gt; D. 30).
+[^4-4]: Prot. B relativo alla definizione della nozione di *prodotti originari* e ai metodi di cooperazione amministrativa: non pubblicato nella RU; il Prot. può essere consultato sulle pagine Internet del segretariato dell’AELS (http://secretariat.efta.int) in francese e in inglese oppure su quelle dell’UDSC (www.udsc.admin.ch &gt; Documentazione &gt; Prescrizioni &gt; D. 30).
 [^4-5]: [RS 0.632.317.581](https://fedlex.data.admin.ch/eli/cc/2005/737)
 [^4-6]: Introdotta dal n. I dell’O del 23 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4955](https://fedlex.data.admin.ch/eli/oc/2016/799)).
 [^4-7]: [RS 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220)
@@ -96,10 +96,11 @@ Chiunque richiede, allestisce o commissiona una prova dell’origine deve:
 
 <sup>1bis</sup> I termini di conservazione valevoli per i giustificativi delle indicazioni relative alle prove dell’origine si applicano anche ai giustificativi delle indicazioni relative alle dichiarazioni dei fornitori di cui all’articolo 4 lettera f.[^5-2]
 
-<sup>2</sup> Chiunque richiede, allestisce o commissiona una prova dell’origine e successivamente constata che tale prova è stata rilasciata indebitamente, deve notificarlo all’Amministrazione federale delle dogane (AFD).
+<sup>2</sup> Chiunque richiede, allestisce o commissiona una prova dell’origine e successivamente constata che tale prova è stata rilasciata indebitamente, deve notificarlo all’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^5-3].
 
 [^5-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 713](https://fedlex.data.admin.ch/eli/oc/2014/151)).
 [^5-2]: Introdotto dal n. I dell’O del 7 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 713](https://fedlex.data.admin.ch/eli/oc/2014/151)).
+[^5-3]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ## Sezione 2: Procedura
 
@@ -117,7 +118,7 @@ Chiunque richiede, allestisce o commissiona una prova dell’origine deve:
 
 **Controllo a posteriori**
 
-<sup>1</sup> L’AFD tratta le domande delle autorità del Paese d’importazione relative al controllo a posteriori di prove dell’origine conformemente alle basi giuridiche di cui all’articolo 1.
+<sup>1</sup> L’UDSC tratta le domande delle autorità del Paese d’importazione relative al controllo a posteriori di prove dell’origine conformemente alle basi giuridiche di cui all’articolo 1.
 
 <sup>2</sup> Di propria iniziativa, può verificare la correttezza delle prove dell’origine.
 
@@ -125,7 +126,7 @@ Chiunque richiede, allestisce o commissiona una prova dell’origine deve:
 
 **Informazioni e sopralluogo**
 
-Se necessario per la verifica dell’origine, l’AFD può, nel caso di persone che richiedono, allestiscono o commissionano una prova dell’origine:
+Se necessario per la verifica dell’origine, l’UDSC può, nel caso di persone che richiedono, allestiscono o commissionano una prova dell’origine:
 
 - a. chiedere informazioni;
 - b. consultare libri contabili, documenti commerciali, documenti e documentazione concernenti i processi di fabbricazione; e
@@ -143,7 +144,7 @@ Se necessario per la verifica dell’origine, l’AFD può, nel caso di persone 
 
 #### Art. 10
 
-**Compiti dell’AFD**
+**Compiti dell’UDSC**
 
 <sup>1</sup> La Direzione generale delle dogane vigila sulle camere di commercio in relazione alle loro attività ai sensi della presente ordinanza.
 
@@ -151,13 +152,13 @@ Se necessario per la verifica dell’origine, l’AFD può, nel caso di persone 
 
 <sup>3</sup> La direzione di circondario sorveglia l’allestimento di prove dell’origine da parte dell’esportatore autorizzato.
 
-<sup>4</sup> L’AFD può sostenere l’esportatore nell’acquisire le conoscenze necessarie per gli esportatori autorizzati.
+<sup>4</sup> L’UDSC può sostenere l’esportatore nell’acquisire le conoscenze necessarie per gli esportatori autorizzati.
 
 #### Art. 11
 
 **Emolumenti**
 
-<sup>1</sup> Gli emolumenti dell’AFD si fondano sull’ordinanza del 4 aprile 2007[^11-1] sugli emolumenti dell’Amministrazione federale delle dogane.
+<sup>1</sup> Gli emolumenti dell’UDSC si fondano sull’ordinanza del 4 aprile 2007[^11-1] sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini.
 
 <sup>2</sup> Per le prestazioni fornite nel quadro dell’esecuzione della presente ordinanza, le camere di commercio riscuotono emolumenti conformemente all’ordinanza del 4 aprile 2007 sugli emolumenti dell’Amministrazione federale delle dogane. Gli emolumenti spettano alle camere di commercio.
 
@@ -169,7 +170,7 @@ Se necessario per la verifica dell’origine, l’AFD può, nel caso di persone 
 
 **Autorizzazione**
 
-Chi intende allestire prove dell’origine quale esportatore autorizzato necessita dell’autorizzazione dell’AFD.
+Chi intende allestire prove dell’origine quale esportatore autorizzato necessita dell’autorizzazione dell’UDSC.
 
 #### Art. 13
 
@@ -202,7 +203,7 @@ All’occorrenza può:
 Essa tiene conto, se del caso, del fatto che l’esportatore, nel corso degli ultimi tre anni prima dell’inoltro della domanda, abbia commesso:
 
 - a. un’infrazione alla presente ordinanza;
-- b. una grave infrazione o ripetute infrazioni al diritto federale, sempre che la relativa esecuzione competa all’AFD.
+- b. una grave infrazione o ripetute infrazioni al diritto federale, sempre che la relativa esecuzione competa all’UDSC.
 
 <sup>4</sup> Se l’esportatore adempie le condizioni di cui all’articolo 13, la direzione di circondario gli concede gratuitamente l’autorizzazione, per una durata indeterminata, ad allestire prove dell’origine quale esportatore autorizzato e gli assegna un numero d’autorizzazione.
 
@@ -241,22 +242,22 @@ L’esportatore autorizzato ha i seguenti obblighi:
 - b. provvede affinché le persone responsabili secondo l’articolo 13 lettera c dispongano delle necessarie conoscenze e si perfezionino periodicamente;
 - c.
 
-  collabora ai controlli dell’AFD, in particolare:
+  collabora ai controlli dell’UDSC, in particolare:
 
   - 1\. permette di prendere visione dei processi di fabbricazione,
   - 2\. espone le procedure,
   - 3\. mette a disposizione e fornisce documenti commerciali e documentazione,
   - 4\. dà informazioni,
-  - 5\. in caso di verifiche di ampia portata, mette a disposizione elettronicamente i dati necessari nella forma richiesta dall’AFD;
+  - 5\. in caso di verifiche di ampia portata, mette a disposizione elettronicamente i dati necessari nella forma richiesta dall’UDSC;
 
-- d. sostiene l’AFD nell’elaborazione di un’analisi dei rischi fornendo le necessarie indicazioni;
-- e. osserva le istruzioni impartite dall’AFD e prende i provvedimenti necessari;
+- d. sostiene l’UDSC nell’elaborazione di un’analisi dei rischi fornendo le necessarie indicazioni;
+- e. osserva le istruzioni impartite dall’UDSC e prende i provvedimenti necessari;
 - f.
 
   comunica senza indugio alla direzione di circondario:
 
   - 1\. modifiche delle condizioni di cui all’articolo 13,
-  - 2\. informazioni che potrebbero essere rilevanti per l’AFD ai fini dell’esecuzione della presente ordinanza.
+  - 2\. informazioni che potrebbero essere rilevanti per l’UDSC ai fini dell’esecuzione della presente ordinanza.
 
 #### Art. 18
 
@@ -268,13 +269,13 @@ La direzione di circondario revoca l’autorizzazione all’esportatore autorizz
 
 - a. non adempie più le condizioni di cui all’articolo 13;
 - b. viola un obbligo di cui all’articolo 17; o
-- c. non osserva le condizioni e gli oneri stabiliti dall’AFD.
+- c. non osserva le condizioni e gli oneri stabiliti dall’UDSC.
 
 <sup>2</sup> Prima della prevista revoca dell’autorizzazione, all’esportatore autorizzato può essere accordato un termine adeguato affinché possa prendere le necessarie misure per conformarsi nuovamente alle condizioni di cui all’articolo 13 nonché poter osservare obblighi, condizioni e oneri.
 
-<sup>3</sup> La direzione di circondario può revocare l’autorizzazione se l’esportatore autorizzato commette ripetutamente infrazioni al diritto federale, per quanto la relativa esecuzione competa all’AFD.
+<sup>3</sup> La direzione di circondario può revocare l’autorizzazione se l’esportatore autorizzato commette ripetutamente infrazioni al diritto federale, per quanto la relativa esecuzione competa all’UDSC.
 
-## Sezione 3*a*:**** Procedura per gli esportatori registrati
+## Sezione 3*a*: Procedura per gli esportatori registrati
 
 [^sec3a-1]
 
@@ -284,7 +285,7 @@ La direzione di circondario revoca l’autorizzazione all’esportatore autorizz
 
 **Obbligo di registrazione**
 
-Chi intende allestire dichiarazioni d’origine quale esportatore registrato deve registrarsi presso l’AFD.
+Chi intende allestire dichiarazioni d’origine quale esportatore registrato deve registrarsi presso l’UDSC.
 
 #### Art. 18b
 
@@ -334,15 +335,15 @@ L’esportatore registrato ha i seguenti obblighi:
 - a. comunica immediatamente alla direzione di circondario le modifiche concernenti l’adempimento delle condizioni di cui all’articolo 18*b*;
 - b.
 
-  collabora ai controlli dell’AFD, in particolare:
+  collabora ai controlli dell’UDSC, in particolare:
 
   - 1\. permette di prendere visione degli eventuali processi di fabbricazione,
   - 2\. espone le procedure,
   - 3\. mette a disposizione e fornisce documenti commerciali e documentazione,
   - 4\. dà informazioni,
-  - 5\. in caso di verifiche di ampia portata, mette a disposizione elettronicamente i dati necessari nella forma richiesta dall’AFD;
+  - 5\. in caso di verifiche di ampia portata, mette a disposizione elettronicamente i dati necessari nella forma richiesta dall’UDSC;
 
-- c. osserva le istruzioni impartite dall’AFD e prende i provvedimenti necessari.
+- c. osserva le istruzioni impartite dall’UDSC e prende i provvedimenti necessari.
 
 #### Art. 18f
 
@@ -363,13 +364,13 @@ L’esportatore registrato ha i seguenti obblighi:
 - a. in relazione al rilascio di un CCM EUR.1, un CCM EUR-MED o un certificato d’origine sostitutivo modulo A fornisce indicazioni inesatte, tace fatti rilevanti o presenta documenti inesatti per giustificare fatti rilevanti;
 - b. richiede, allestisce, commissiona o utilizza prove dell’origine inesatte;
 - c.[^19-1] non adempie l’obbligo di cui all’articolo 5 capoversi 1 lettera b e 1<sup>bis</sup>;
-- d. nega all’AFD i diritti di cui all’articolo 8;
+- d. nega all’UDSC i diritti di cui all’articolo 8;
 - e. intralcia, ostacola o impedisce l’esecuzione di un controllo o di un sopralluogo;
 - f. in qualità di organo, impiegato o incaricato di una camera di commercio, nella procedura di esame preliminare appone indebitamente un visto sul modulo di richiesta.
 
 <sup>2</sup> Se, nei casi previsti nel capoverso 1 lettera a, b o c, l’autore ha agito per negligenza, la pena è della multa sino a 20 000 franchi.
 
-<sup>3</sup> Le infrazioni sono perseguite e giudicate dall’AFD conformemente alla legge federale del 22 marzo 1974[^19-2] sul diritto penale amministrativo.
+<sup>3</sup> Le infrazioni sono perseguite e giudicate dall’UDSC conformemente alla legge federale del 22 marzo 1974[^19-2] sul diritto penale amministrativo.
 
 <sup>4</sup> La prescrizione del perseguimento è retta dall’articolo 11 capoverso 2 della legge federale del 22 marzo 1974 sul diritto penale amministrativo.
 
@@ -382,7 +383,7 @@ L’esportatore registrato ha i seguenti obblighi:
 
 **Esecuzione**
 
-L’AFD è incaricata dell’esecuzione.
+L’UDSC è incaricata dell’esecuzione.
 
 #### Art. 21
 
@@ -398,7 +399,7 @@ L’AFD è incaricata dell’esecuzione.
 
 **Disposizione transitoria**
 
-Le autorizzazioni dell’AFD ad approntare prove dell’origine nella procedura semplificata concesse prima dell’entrata in vigore della presente ordinanza rimangono valide e sono considerate autorizzazioni secondo l’articolo 12 della presente ordinanza. Se la direzione di circondario constata che l’esportatore autorizzato non adempie le condizioni di cui all’articolo 13, gli impartisce un termine adeguato per conformarsi.
+Le autorizzazioni dell’UDSC ad approntare prove dell’origine nella procedura semplificata concesse prima dell’entrata in vigore della presente ordinanza rimangono valide e sono considerate autorizzazioni secondo l’articolo 12 della presente ordinanza. Se la direzione di circondario constata che l’esportatore autorizzato non adempie le condizioni di cui all’articolo 13, gli impartisce un termine adeguato per conformarsi.
 
 #### Art. 23
 
@@ -414,6 +415,6 @@ Allegato
 
 Le ordinanze qui appresso sono modificate come segue:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393).

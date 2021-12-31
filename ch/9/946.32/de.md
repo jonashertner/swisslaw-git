@@ -4,11 +4,11 @@ title: Verordnung vom 23. Mai 2012 über das Ausstellen von Ursprungsnachweisen 
 short: VAU
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/393"
 language: de
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2012-05-23
 in_force: 2012-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/393/20170101/de/xml/fedlex-data-admin-ch-eli-cc-2012-393-20170101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/393/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/393/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2012-393-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/393/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/393/20170101/de"
 
 (VAU)
 
-vom 23. Mai 2012 (Stand am 1. Januar 2017)
+vom 23. Mai 2012 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -77,9 +77,9 @@ Ursprungsnachweise im Sinne dieser Verordnung sind:
 
 [^4-1]: Ausdruck gemäss Ziff. I der V vom 23. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4955](https://fedlex.data.admin.ch/eli/oc/2016/799)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^4-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4955](https://fedlex.data.admin.ch/eli/oc/2016/799)).
-[^4-3]: Ursprungsregeln und Zusammenarbeit der Verwaltungen: in der AS nicht veröffentlicht; Anhang C kann in französischer und englischer Sprache auf den Internetseiten des EFTA-Sekretariats (http://secretariat.efta.int) oder der Zollverwaltung (www.ezv.admin.ch &gt; Dokumentation &gt; Vorschriften &gt; D.30) abgerufen werden.
+[^4-3]: Ursprungsregeln und Zusammenarbeit der Verwaltungen: in der AS nicht veröffentlicht; Anhang C kann in französischer und englischer Sprache auf den Internetseiten des EFTA-Sekretariats (http://secretariat.efta.int) oder des BAZG (www.bazg.admin.ch &gt; Dokumentation &gt; Vorschriften &gt; D.30) abgerufen werden.
 [^4-4]: [SR 0.632.312.32](https://fedlex.data.admin.ch/eli/cc/2009/490)
-[^4-5]: Protokoll B über die Bestimmungen des Begriffs *Erzeugnisse mit Ursprung* oder *U**r**sprungserzeugnisse* und über Methoden der Zusammenarbeit der Verwaltungen: in der AS nicht veröffentlicht; das Prot. kann in französischer und englischer Sprache auf den Internetseiten des EFTA-Sekretariats (http://secretariat.efta.int) oder der Zollverwaltung (www.ezv.admin.ch &gt; Dokumentation &gt; Vorschriften &gt; D.30) abgerufen werden.
+[^4-5]: Protokoll B über die Bestimmungen des Begriffs *Erzeugnisse mit Ursprung* oder *Ursprungserzeugnisse* und über Methoden der Zusammenarbeit der Verwaltungen: in der AS nicht veröffentlicht; das Prot. kann in französischer und englischer Sprache auf den Internetseiten des EFTA-Sekretariats (http://secretariat.efta.int) oder des BAZG (www.bazg.admin.ch &gt; Dokumentation &gt; Vorschriften &gt; D.30) abgerufen werden.
 [^4-6]: [SR 0.632.317.581](https://fedlex.data.admin.ch/eli/cc/2005/737)
 [^4-7]: Eingefügt durch Ziff. I der V vom 23. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4955](https://fedlex.data.admin.ch/eli/oc/2016/799)).
 [^4-8]: [SR 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220)
@@ -95,12 +95,13 @@ Wer einen Ursprungsnachweis beantragt, ausfertigt oder den Auftrag dazu gibt, mu
 - a. über die notwendigen Angaben verfügen und deren Richtigkeit nachweisen können; und
 - b.[^5-1] Belege zu den Angaben auf Ursprungsnachweisen während dreier Jahre aufbewahren; vorbehalten bleiben längere Aufbewahrungsfristen nach den rechtlichen Grundlagen nach Artikel 1.
 
-<sup>2</sup> Wer einen Ursprungsnachweis beantragt, ausfertigt oder den Auftrag dazu gibt und nachträglich feststellt, dass der Ursprungsnachweis zu Unrecht ausgestellt worden ist, muss dies der Eidgenössischen Zollverwaltung (EZV) melden.
+<sup>2</sup> Wer einen Ursprungsnachweis beantragt, ausfertigt oder den Auftrag dazu gibt und nachträglich feststellt, dass der Ursprungsnachweis zu Unrecht ausgestellt worden ist, muss dies dem Bundesamt für Zoll und Grenzsicherheit (BAZG)[^5-2] melden.
 
-<sup>1bis</sup> Die Aufbewahrungsfristen für Belege zu den Angaben auf Ursprungsnachweisen gelten auch für Belege zu den Angaben auf Lieferantenerklärungen nach Artikel 4 Buchstabe f.[^5-2]
+<sup>1bis</sup> Die Aufbewahrungsfristen für Belege zu den Angaben auf Ursprungsnachweisen gelten auch für Belege zu den Angaben auf Lieferantenerklärungen nach Artikel 4 Buchstabe f.[^5-3]
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 7. März 2014, in Kraft seit 1. April 2014 ([AS 2014 713](https://fedlex.data.admin.ch/eli/oc/2014/151)).
-[^5-2]: Eingefügt durch Ziff. I der V vom 7. März 2014, in Kraft seit 1. April 2014 ([AS 2014 713](https://fedlex.data.admin.ch/eli/oc/2014/151)).
+[^5-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^5-3]: Eingefügt durch Ziff. I der V vom 7. März 2014, in Kraft seit 1. April 2014 ([AS 2014 713](https://fedlex.data.admin.ch/eli/oc/2014/151)).
 
 ## 2. Abschnitt: Verfahren
 
@@ -118,15 +119,15 @@ Wer einen Ursprungsnachweis beantragt, ausfertigt oder den Auftrag dazu gibt, mu
 
 **Nachprüfung**
 
-<sup>1</sup> Die EZV behandelt die Gesuche von Behörden des Einfuhrlandes um Nachprüfung von Ursprungsnachweisen nach Massgabe der rechtlichen Grundlagen nach Artikel 1.
+<sup>1</sup> Das BAZG behandelt die Gesuche von Behörden des Einfuhrlandes um Nachprüfung von Ursprungsnachweisen nach Massgabe der rechtlichen Grundlagen nach Artikel 1.
 
-<sup>2</sup> Sie kann von sich aus Ursprungsnachweise auf ihre Richtigkeit hin überprüfen.
+<sup>2</sup> Es kann von sich aus Ursprungsnachweise auf ihre Richtigkeit hin überprüfen.
 
 #### Art. 8
 
 **Auskünfte und Augenschein**
 
-Soweit es die Abklärung der Ursprungsverhältnisse erfordert, kann die EZV bei Personen, die einen Ursprungsnachweis beantragen, ausfertigen oder den Auftrag dazu geben:
+Soweit es die Abklärung der Ursprungsverhältnisse erfordert, kann das BAZG bei Personen, die einen Ursprungsnachweis beantragen, ausfertigen oder den Auftrag dazu geben:
 
 - a. Auskünfte einholen;
 - b. Einsicht in Bücher, Geschäftspapiere, Urkunden und Unterlagen zu Herstellungsvorgängen nehmen; und
@@ -144,7 +145,7 @@ Soweit es die Abklärung der Ursprungsverhältnisse erfordert, kann die EZV bei 
 
 #### Art. 10
 
-**Aufgaben der EZV**
+**Aufgaben des BAZG**
 
 <sup>1</sup> Die Oberzolldirektion beaufsichtigt die Handelskammern in Bezug auf deren Tätigkeit nach dieser Verordnung.
 
@@ -152,13 +153,13 @@ Soweit es die Abklärung der Ursprungsverhältnisse erfordert, kann die EZV bei 
 
 <sup>3</sup> Die Zollkreisdirektion überwacht das Ausfertigen von Ursprungsnachweisen durch den ermächtigten Ausführer.
 
-<sup>4</sup> Die EZV kann den Ausführer bei der Aneignung der für ermächtigte Ausführer notwendigen Kenntnisse unterstützen.
+<sup>4</sup> Das BAZG kann den Ausführer bei der Aneignung der für ermächtigte Ausführer notwendigen Kenntnisse unterstützen.
 
 #### Art. 11
 
 **Gebühren**
 
-<sup>1</sup> Die Gebühren der EZV richten sich nach der Verordnung vom 4. April 2007[^11-1] über die Gebühren der Zollverwaltung.
+<sup>1</sup> Die Gebühren des BAZG richten sich nach der Verordnung vom 4. April 2007[^11-1] über die Gebühren des Bundesamts für Zoll und Grenzsicherheit.
 
 <sup>2</sup> Die Handelskammern erheben für Leistungen im Rahmen des Vollzugs dieser Verordnung Gebühren nach der Verordnung vom 4. April 2007 über die Gebühren der Zollverwaltung. Die Gebühren fliessen den Handelskammern zu.
 
@@ -170,7 +171,7 @@ Soweit es die Abklärung der Ursprungsverhältnisse erfordert, kann die EZV bei 
 
 **Bewilligung**
 
-Wer Ursprungsnachweise als ermächtigter Ausführer ausfertigen möchte, braucht dazu die Bewilligung der EZV.
+Wer Ursprungsnachweise als ermächtigter Ausführer ausfertigen möchte, braucht dazu die Bewilligung des BAZG.
 
 #### Art. 13
 
@@ -203,7 +204,7 @@ Sie kann bei Bedarf:
 Sie berücksichtigt, ob der Ausführer innerhalb der letzten drei Jahre vor der Einreichung des Gesuchs:
 
 - a. eine Widerhandlung gegen diese Verordnung begangen hat;
-- b. eine schwere Widerhandlung oder wiederholt Widerhandlungen gegen Bundesrecht begangen hat, soweit dessen Vollzug der EZV obliegt.
+- b. eine schwere Widerhandlung oder wiederholt Widerhandlungen gegen Bundesrecht begangen hat, soweit dessen Vollzug dem BAZG obliegt.
 
 <sup>4</sup> Erfüllt der Ausführer die Voraussetzungen nach Artikel 13, so erteilt die Zollkreisdirektion ihm kostenlos die unbefristete Bewilligung, Ursprungsnachweise als ermächtigter Ausführer auszufertigen, und weist ihm eine Bewilligungsnummer zu.
 
@@ -218,7 +219,7 @@ Sie kann die Bewilligung:
 
 <sup>7</sup> Sie entscheidet spätestens 60 Tage nach Erhalt der vollständigen Unterlagen über die Bewilligung.[^14-1]
 
-[^14-1]: Fassung gemäss Ziff. I 8 der V vom 6. Juni 2014 über die Ordnungsfristen im Zuständigkeitsbereich der Eidgenössischen Zollverwaltung, in Kraft seit 1. Sept. 2014 ([AS 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+[^14-1]: Eingefügt durch Ziff. I 8 der V vom 6. Juni 2014 über die Ordnungsfristen im Zuständigkeitsbereich der Eidgenössischen Zollverwaltung, in Kraft seit 1. Sept. 2014 ([AS 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
 
 #### Art. 15
 
@@ -242,22 +243,22 @@ Der ermächtigte Ausführer hat folgende Pflichten:
 - b. Er sorgt dafür, dass die nach Artikel 13 Buchstabe c verantwortlichen Personen über die notwendigen Kenntnisse verfügen und sich regelmässig fachlich weiterbilden.
 - c.
 
-  Er wirkt bei Kontrollen der EZV mit, indem er insbesondere:
+  Er wirkt bei Kontrollen des BAZG mit, indem er insbesondere:
 
   - 1\. Einsicht in die Herstellungsvorgänge gewährt;
   - 2\. Abläufe offenlegt;
   - 3\. Geschäftsdokumente und Unterlagen bereitstellt und herausgibt;
   - 4\. Auskunft erteilt;
-  - 5\. bei umfangreichen Überprüfungen die benötigten Daten in der von der EZV verlangten Form elektronisch zur Verfügung stellt.
+  - 5\. bei umfangreichen Überprüfungen die benötigten Daten in der vom BAZG verlangten Form elektronisch zur Verfügung stellt.
 
-- d. Er unterstützt die EZV bei der Erstellung einer Risikoanalyse, indem er die notwendigen Angaben liefert.
-- e. Er befolgt die von der EZV erteilten Weisungen und trifft die erforderlichen Massnahmen.
+- d. Er unterstützt das BAZG bei der Erstellung einer Risikoanalyse, indem er die notwendigen Angaben liefert.
+- e. Er befolgt die vom BAZG erteilten Weisungen und trifft die erforderlichen Massnahmen.
 - f.
 
   Er teilt der Zollkreisdirektion unverzüglich mit:
 
   - 1\. Änderungen der Voraussetzungen nach Artikel 13;
-  - 2\. Angaben, die für die EZV für den Vollzug dieser Verordnung von Bedeutung sein könnten.
+  - 2\. Angaben, die für das BAZG für den Vollzug dieser Verordnung von Bedeutung sein könnten.
 
 #### Art. 18
 
@@ -269,13 +270,13 @@ Die Zollkreisdirektion entzieht dem ermächtigten Ausführer die Bewilligung, we
 
 - a. die Voraussetzungen nach Artikel 13 nicht mehr erfüllt;
 - b. gegen eine Pflicht nach Artikel 17 verstösst; oder
-- c. Bedingungen und Auflagen der EZV nicht einhält.
+- c. Bedingungen und Auflagen des BAZG nicht einhält.
 
 <sup>2</sup> Vor dem beabsichtigten Entzug der Bewilligung kann dem ermächtigten Ausführer eine angemessene Frist gewährt werden, damit er erforderliche Massnahmen treffen kann, um die Voraussetzungen nach Artikel 13 wieder zu erfüllen sowie die Pflichten, Bedingungen und Auflagen einhalten zu können.
 
-3 Die Zollkreisdirektion kann die Bewilligung entziehen, wenn der ermächtigte Ausführer wiederholt Widerhandlungen gegen Bundesrecht begeht, soweit dessen Vollzug der EZV obliegt.
+<sup>3</sup> Die Zollkreisdirektion kann die Bewilligung entziehen, wenn der ermächtigte Ausführer wiederholt Widerhandlungen gegen Bundesrecht begeht, soweit dessen Vollzug dem BAZG obliegt.
 
-## 3*a*. Abschnitt:**** Verfahren für registrierte Ausführer
+## 3*a*. Abschnitt: Verfahren für registrierte Ausführer
 
 [^sec3a-1]
 
@@ -285,7 +286,7 @@ Die Zollkreisdirektion entzieht dem ermächtigten Ausführer die Bewilligung, we
 
 **Registrierungspflicht**
 
-Wer Ursprungserklärungen als registrierter Ausführer ausfertigen möchte, muss sich dazu bei der EZV registrieren lassen.
+Wer Ursprungserklärungen als registrierter Ausführer ausfertigen möchte, muss sich dazu beim BAZG registrieren lassen.
 
 #### Art. 18b
 
@@ -335,15 +336,15 @@ Der registrierte Ausführer hat folgende Pflichten:
 - a. Er teilt der Zollkreisdirektion Änderungen, welche die Erfüllung der Voraussetzungen nach Artikel 18*b* betreffen, unverzüglich mit.
 - b.
 
-  Er wirkt bei Kontrollen der EZV mit, indem er insbesondere:
+  Er wirkt bei Kontrollen des BAZG mit, indem er insbesondere:
 
   - 1\. Einsicht in allfällige Herstellungsvorgänge gewährt;
   - 2\. Abläufe offenlegt;
   - 3\. Geschäftsdokumente und Unterlagen bereitstellt und herausgibt;
   - 4\. Auskunft erteilt;
-  - 5\. bei umfangreichen Überprüfungen die benötigten Daten in der von der EZV verlangten Form elektronisch zur Verfügung stellt.
+  - 5\. bei umfangreichen Überprüfungen die benötigten Daten in der vom BAZG verlangten Form elektronisch zur Verfügung stellt.
 
-- c. Er befolgt die von der EZV erteilten Weisungen und trifft die erforderlichen Massnahmen.
+- c. Er befolgt die vom BAZG erteilten Weisungen und trifft die erforderlichen Massnahmen.
 
 #### Art. 18f
 
@@ -364,13 +365,13 @@ Mit Busse bis zu 40 000 Franken wird bestraft, wer vorsätzlich:
 - a. im Zusammenhang mit dem Ausstellen einer WVB EUR.1, einer WVB EUR-MED oder eines Ersatzursprungszeugnisses Formular A unrichtige Angaben macht, erhebliche Tatsachen verschweigt oder unrichtige Belege über erhebliche Tatsachen vorlegt;
 - b. unrichtige Ursprungsnachweise beantragt, ausfertigt oder den Auftrag dazu gibt oder solche verwendet;
 - c.[^19-1] der Pflicht nach Artikel 5 Absätze 1 Buchstabe b und 1<sup>bis</sup> nicht nachkommt;
-- d. der EZV die Rechte nach Artikel 8 verweigert;
+- d. dem BAZG die Rechte nach Artikel 8 verweigert;
 - e. die Durchführung einer Kontrolle oder eines Augenscheins erschwert, behindert oder verunmöglicht;
 - f. als Organ, Angestellte oder Angestellter, Beauftragte oder Beauftragter einer Handelskammer im Vorprüfungsverfahren zu Unrecht ein Antragsformular visiert.
 
 <sup>2</sup> Handelt der Täter in den Fällen von Absatz 1 Buchstabe a, b oder c fahrlässig, so beträgt die Busse bis zu 20 000 Franken.
 
-<sup>3</sup> Widerhandlungen werden von der EZV nach dem Bundesgesetz vom 22. März 1974[^19-2] über das Verwaltungsstrafrecht verfolgt und beurteilt.
+<sup>3</sup> Widerhandlungen werden vom BAZG nach dem Bundesgesetz vom 22. März 1974[^19-2] über das Verwaltungsstrafrecht verfolgt und beurteilt.
 
 <sup>4</sup> Die Verfolgungsverjährung richtet sich nach Artikel 11 Absatz 2 des Bundesgesetzes vom 22. März 1974 über das Verwaltungsstrafrecht.
 
@@ -383,7 +384,7 @@ Mit Busse bis zu 40 000 Franken wird bestraft, wer vorsätzlich:
 
 **Vollzug**
 
-Die EZV ist mit dem Vollzug beauftragt.
+Das BAZG ist mit dem Vollzug beauftragt.
 
 #### Art. 21
 
@@ -393,13 +394,13 @@ Die EZV ist mit dem Vollzug beauftragt.
 
 <sup>2</sup> Die Änderung bisherigen Rechts wird im Anhang geregelt.
 
-[^21-1]: [[AS 1997 1382](https://fedlex.data.admin.ch/eli/oc/1997/1382_1382_1382), [2005 2289](https://fedlex.data.admin.ch/eli/oc/2005/386)Ziff. II, [2006 1079](https://fedlex.data.admin.ch/eli/oc/2006/191), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 21, [2008 1833](https://fedlex.data.admin.ch/eli/oc/2008/271)Anhang Ziff. 2]
+[^21-1]: [[AS 1997 1382](https://fedlex.data.admin.ch/eli/oc/1997/1382_1382_1382); [2005 2289](https://fedlex.data.admin.ch/eli/oc/2005/386)Ziff. II; [2006 1079](https://fedlex.data.admin.ch/eli/oc/2006/191); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 21; [2008 1833](https://fedlex.data.admin.ch/eli/oc/2008/271)Anhang Ziff. 2]
 
 #### Art. 22
 
 **Übergangsbestimmung**
 
-Bewilligungen der EZV zum Ausstellen von Ursprungsnachweisen im vereinfachten Verfahren, die vor dem Inkrafttreten dieser Verordnung erteilt wurden, behalten ihre Gültigkeit und gelten als Bewilligung nach Artikel 12 dieser Verordnung. Stellt die Zollkreisdirektion fest, dass der ermächtigte Ausführer die Voraussetzungen nach Artikel 13 nicht erfüllt, so setzt sie ihm eine angemessene Frist.
+Bewilligungen des BAZG zum Ausstellen von Ursprungsnachweisen im vereinfachten Verfahren, die vor dem Inkrafttreten dieser Verordnung erteilt wurden, behalten ihre Gültigkeit und gelten als Bewilligung nach Artikel 12 dieser Verordnung. Stellt die Zollkreisdirektion fest, dass der ermächtigte Ausführer die Voraussetzungen nach Artikel 13 nicht erfüllt, so setzt sie ihm eine angemessene Frist.
 
 #### Art. 23
 

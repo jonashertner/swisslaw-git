@@ -4,11 +4,11 @@ title: "Ordonnance du 23 mai 2012 sur la délivrance des preuves d'origine (ODPO
 short: ODPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/393"
 language: fr
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2012-05-23
 in_force: 2012-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/393/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-393-20170101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/393/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/393/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-393-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/393/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/393/20170101/fr"
 
 (ODPO)
 
-du 23 mai 2012 (Etat le 1<sup>er</sup> janvier 2017)
+du 23 mai 2012 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -35,7 +35,7 @@ arrête:
 
 Sur le territoire douanier, les preuves d’origine doivent être délivrées conformément aux dispositions:
 
-- a. des accords internationaux cités à l’annexe 1 de l’ordonnance du 18 juin 2008 sur le libre-échange 1[^1-1] et à l’annexe 1 de l’ordonnance du 27 juin 1995 sur le libre-échange 2[^1-2]; et
+- a. des accords internationaux cités à l’annexe 1 de l’ordonnance du 18 juin 2008 sur le libre-échange 1[^1-1] et à l’annexe 1 de l’ordonnance du 27 juin 1995 sur le libre-échange 2[^1-2], et
 - b. de l’ordonnance du 30 mars 2011 relative aux règles d’origine[^1-3].
 
 [^1-1]: [RS 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)
@@ -70,15 +70,15 @@ Sont réputés preuves d’origine au sens de la présente ordonnance:
 - a. les certificats de circulation des marchandises (CCM) EUR. 1 et EUR-MED qui sont demandés par l’exportateur ou son représentant et délivrés par le bureau de douane;
 - b. les certificats d’origine de remplacement (formule A) qui sont demandés par l’exportateur ou son représentant et délivrés par le bureau de douane;
 - c.[^4-1] les déclarations d’origine et déclarations d’origine EUR-MED qui, conformément aux bases juridiques visées à l’art. 1, let. a, sont établies par l’exportateur ou, pour autant que ces bases juridiques le prévoient, par un représentant de l’exportateur;
-- d. les déclarations au sens des art. 16, al. 3, et 21 de l’annexe C[^4-2] de l’accord de libre-échange du 26 janvier 2008 entre les Etats de l’AELE et le Canada[^4-3] qui sont établies par l’exportateur;
-- e. les déclarations du fournisseur au sens de l’art. 27*a* du protocole B[^4-4] de l’accord de libre-échange du 17 décembre 2004 entre les Etats de l’AELE et la République Tunisienne[^4-5] qui sont établies par l’exportateur;
+- d. les déclarations au sens des art. 16, al. 3, et 21 de l’annexe C[^4-2] de l’accord de libre-échange du 26 janvier 2008 entre les États de l’AELE et le Canada[^4-3] qui sont établies par l’exportateur;
+- e. les déclarations du fournisseur au sens de l’art. 27*a* du protocole B[^4-4] de l’accord de libre-échange du 17 décembre 2004 entre les États de l’AELE et la République Tunisienne[^4-5] qui sont établies par l’exportateur;
 - f. les déclarations concernant le caractère originaire des marchandises qui sont établies par des fournisseurs suisses à l’intention de leurs clients suisses (déclarations du fournisseur);
 - g.[^4-6] les déclarations d’origine et déclarations d’origine de remplacement qui sont établies par l’exportateur enregistré conformément à l’OROPD[^4-7].
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4955](https://fedlex.data.admin.ch/eli/oc/2016/799)).
-[^4-2]: «Règles d’origine et coopération administrative»: non publiée dans le RO; l’annexe peut être consultée en français et en anglais sur le site Internet du secrétariat de l’AELE http://secretariat.efta.int, ou sur le site Internet de l’administration des douanes www.ezv.admin.ch &gt; Documentation &gt; Prescriptions &gt; D. 30.
+[^4-2]: «Règles d’origine et coopération administrative»: non publiée dans le RO; l’annexe peut être consultée en français et en anglais sur le site Internet du secrétariat de l’AELE http://secretariat.efta.int, ou sur le site Internet de l’OFDF (www.ofdf.admin.ch &gt; Documentation &gt; Prescriptions &gt; D. 30).
 [^4-3]: [RS 0.632.312.32](https://fedlex.data.admin.ch/eli/cc/2009/490)
-[^4-4]: Prot. B relatif à la définition de la notion de *produits originaires* et aux méthodes de coopération administrative: non publié dans le RO; le Prot. peut être consulté en français et en anglais sur le site Internet du secrétariat de l’AELE http://secretariat.efta.int ou sur le site Internet de l’administration des douanes www.ezv.admin.ch &gt; Documentation &gt; Prescriptions &gt; D. 30.
+[^4-4]: Prot. B relatif à la définition de la notion de *produits originaires* et aux méthodes de coopération administrative: non publié dans le RO; le Prot. peut être consulté en français et en anglais sur le site Internet du secrétariat de l’AELE http://secretariat.efta.int ou sur le site Internet de l’OFDF (www.ofdf.admin.ch &gt; Documentation &gt; Prescriptions &gt; D. 30).
 [^4-5]: [RS 0.632.317.581](https://fedlex.data.admin.ch/eli/cc/2005/737)
 [^4-6]: Introduite par le ch. I de l’O du 23 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4955](https://fedlex.data.admin.ch/eli/oc/2016/799)).
 [^4-7]: [RS 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220)
@@ -96,10 +96,11 @@ Quiconque demande ou établit une preuve d’origine, ou charge un tiers de le f
 
 <sup>1bis</sup> Les durées de conservation valables pour les justificatifs relatifs aux indications figurant sur les preuves d’origine s’appliquent également aux justificatifs relatifs aux indications figurant sur les déclarations du fournisseur visées à l’art. 4, let. f.[^5-2]
 
-<sup>2</sup> Quiconque demande ou établit une preuve d’origine, ou charge un tiers de le faire, et constate a posteriori que la preuve d’origine a été délivrée à tort doit le signaler à l’Administration fédérale des douanes (AFD).
+<sup>2</sup> Quiconque demande ou établit une preuve d’origine, ou charge un tiers de le faire, et constate a posteriori que la preuve d’origine a été délivrée à tort doit le signaler à l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^5-3].
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2014, en vigueur depuis le 1<sup>er</sup> avr. 2014 ([RO 2014 713](https://fedlex.data.admin.ch/eli/oc/2014/151)).
 [^5-2]: Introduit par le ch. I de l’O du 7 mars 2014, en vigueur depuis le 1<sup>er</sup> avr. 2014 ([RO 2014 713](https://fedlex.data.admin.ch/eli/oc/2014/151)).
+[^5-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ## Section 2 Procédure
 
@@ -117,18 +118,18 @@ Quiconque demande ou établit une preuve d’origine, ou charge un tiers de le f
 
 **Contrôle subséquent**
 
-<sup>1</sup> L’AFD traite les demandes, adressées par les autorités du pays d’importation, de contrôle subséquent des preuves d’origine conformément aux bases juridiques visées à l’art. 1.
+<sup>1</sup> L’OFDF traite les demandes, adressées par les autorités du pays d’importation, de contrôle subséquent des preuves d’origine conformément aux bases juridiques visées à l’art. 1.
 
-<sup>2</sup> Elle peut procéder au contrôle de l’exactitude de preuves d’origine de sa propre initiative.
+<sup>2</sup> Il peut procéder au contrôle de l’exactitude de preuves d’origine de sa propre initiative.
 
 #### Art. 8
 
 **Renseignements et inspections**
 
-Dans la mesure où l’élucidation de l’origine le requiert, l’AFD est habilitée, auprès des personnes qui demandent ou établissent une preuve d’origine, ou chargent un tiers de le faire:
+Dans la mesure où l’élucidation de l’origine le requiert, l’OFDF est habilité, auprès des personnes qui demandent ou établissent une preuve d’origine, ou chargent un tiers de le faire:
 
 - a. à demander des renseignements;
-- b. à consulter les livres comptables, papiers d’affaires, pièces et documents relatifs aux processus de fabrication; et
+- b. à consulter les livres comptables, papiers d’affaires, pièces et documents relatifs aux processus de fabrication, et
 - c. à procéder en tout temps et sans préavis à des inspections.
 
 #### Art. 9
@@ -143,7 +144,7 @@ Dans la mesure où l’élucidation de l’origine le requiert, l’AFD est habi
 
 #### Art. 10
 
-**Tâches de l’AFD**
+**Tâches de l’OFDF**
 
 <sup>1</sup> La Direction générale des douanes surveille les activités que les chambres de commerce exercent en vertu de la présente ordonnance.
 
@@ -151,13 +152,13 @@ Dans la mesure où l’élucidation de l’origine le requiert, l’AFD est habi
 
 <sup>3</sup> La direction d’arrondissement des douanes surveille l’établissement de preuves d’origine par l’exportateur agréé.
 
-<sup>4</sup> L’AFD peut aider l’exportateur à acquérir les connaissances propres aux exportateurs agréés.
+<sup>4</sup> L’OFDF peut aider l’exportateur à acquérir les connaissances propres aux exportateurs agréés.
 
 #### Art. 11
 
-**Emoluments**
+**Émoluments**
 
-<sup>1</sup> Les émoluments perçus par l’AFD se fondent sur l’ordonnance du 4 avril 2007 sur les émoluments de l’Administration fédérale des douanes[^11-1].
+<sup>1</sup> Les émoluments perçus par l’OFDF se fondent sur l’ordonnance du 4 avril 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières[^11-1].
 
 <sup>2</sup> Les chambres de commerce perçoivent, pour les prestations fournies en exécution de la présente ordonnance, les émoluments prévus par l’ordonnance du 4 avril 2007 sur les émoluments de l’Administration fédérale des douanes. Ces émoluments reviennent aux chambres de commerce.
 
@@ -169,7 +170,7 @@ Dans la mesure où l’élucidation de l’origine le requiert, l’AFD est habi
 
 **Autorisation**
 
-Quiconque désire établir des preuves d’origine en qualité d’exportateur agréé a besoin à cet effet de l’autorisation de l’AFD.
+Quiconque désire établir des preuves d’origine en qualité d’exportateur agréé a besoin à cet effet de l’autorisation de l’OFDF.
 
 #### Art. 13
 
@@ -202,7 +203,7 @@ Elle peut en cas de besoin:
 Elle s’assure que l’exportateur n’a pas, au cours des trois années précédant la présentation de la demande:
 
 - a. commis une infraction à la présente ordonnance;
-- b. commis une infraction grave ou des infractions répétées au droit fédéral, dans la mesure où son exécution incombe à l’AFD.
+- b. commis une infraction grave ou des infractions répétées au droit fédéral, dans la mesure où son exécution incombe à l’OFDF.
 
 <sup>4</sup> Si l’exportateur remplit les conditions énoncées à l’art. 13, la direction d’arrondissement des douanes lui octroie gratuitement et pour une durée illimitée l’autorisation d’établir des preuves d’origine en qualité d’exportateur agréé et lui attribue un numéro d’autorisation.
 
@@ -241,22 +242,22 @@ L’exportateur agréé a les obligations suivantes:
 - b. il veille à ce que les personnes responsables visées à l’art. 13, let. c, disposent des connaissances nécessaires et se perfectionnent régulièrement sur le plan technique;
 - c.
 
-  il prête son concours lors des contrôles effectués par l’AFD, en particulier:
+  il prête son concours lors des contrôles effectués par l’OFDF, en particulier:
 
   - 1\. en autorisant le contrôle des processus de fabrication,
   - 2\. en exposant le déroulement des opérations,
   - 3\. en préparant et en produisant des papiers d’affaires et des documents,
   - 4\. en fournissant des renseignements,
-  - 5\. en mettant à disposition par voie électronique, en cas de contrôle de grande envergure, les données nécessaires sous la forme demandée par l’AFD;
+  - 5\. en mettant à disposition par voie électronique, en cas de contrôle de grande envergure, les données nécessaires sous la forme demandée par l’OFDF;
 
-- d. il soutient l’AFD dans l’établissement d’une analyse des risques en lui fournissant les indications nécessaires;
-- e. il suit les instructions données par l’AFD et prend les mesures nécessaires;
+- d. il soutient l’OFDF dans l’établissement d’une analyse des risques en lui fournissant les indications nécessaires;
+- e. il suit les instructions données par l’OFDF et prend les mesures nécessaires;
 - f.
 
   il communique immédiatement à la direction d’arrondissement des douanes:
 
   - 1\. toute modification des conditions énoncées à l’art. 13,
-  - 2\. les indications susceptibles de revêtir de l’importance aux yeux de l’AFD pour l’exécution de la présente ordonnance.
+  - 2\. les indications susceptibles de revêtir de l’importance aux yeux de l’OFDF pour l’exécution de la présente ordonnance.
 
 #### Art. 18
 
@@ -267,14 +268,14 @@ L’exportateur agréé a les obligations suivantes:
 La direction d’arrondissement des douanes retire l’autorisation à l’exportateur agréé lorsque celui-ci:
 
 - a. ne remplit plus les conditions énoncées à l’art. 13;
-- b. enfreint une obligation énoncée à l’art. 17; ou
-- c. n’observe pas les conditions et les charges fixées par l’AFD.
+- b. enfreint une obligation énoncée à l’art. 17, ou
+- c. n’observe pas les conditions et les charges fixées par l’OFDF.
 
-<sup>2</sup> Lorsqu’elle envisage de retirer l’autorisation à un exportateur agréé, l’AFD peut lui accorder un délai approprié afin qu’il puisse prendre les mesures nécessaires pour remplir de nouveau les conditions énoncées à l’art. 13 et pouvoir remplir ses obligations ainsi que les conditions et les charges fixées par l’AFD.
+<sup>2</sup> Lorsqu’elle envisage de retirer l’autorisation à un exportateur agréé, l’OFDF peut lui accorder un délai approprié afin qu’il puisse prendre les mesures nécessaires pour remplir de nouveau les conditions énoncées à l’art. 13 et pouvoir remplir ses obligations ainsi que les conditions et les charges fixées par l’OFDF.
 
-<sup>3</sup> La direction d’arrondissement des douanes peut retirer l’autorisation si l’exportateur agréé commet des infractions répétées au droit fédéral, dans la mesure où son exécution incombe à l’AFD.
+<sup>3</sup> La direction d’arrondissement des douanes peut retirer l’autorisation si l’exportateur agréé commet des infractions répétées au droit fédéral, dans la mesure où son exécution incombe à l’OFDF.
 
-## Section 3*a***** Procédure pour exportateurs enregistrés
+## Section 3*a* Procédure pour exportateurs enregistrés
 
 [^sec3a-1]
 
@@ -284,7 +285,7 @@ La direction d’arrondissement des douanes retire l’autorisation à l’expor
 
 **Obligation d’enregistrement**
 
-Quiconque souhaite établir des déclarations d’origine en tant qu’exportateur enregistré doit se faire enregistrer à cet effet auprès de l’AFD.
+Quiconque souhaite établir des déclarations d’origine en tant qu’exportateur enregistré doit se faire enregistrer à cet effet auprès de l’OFDF.
 
 #### Art. 18b
 
@@ -294,7 +295,7 @@ Pour obtenir l’enregistrement visé à l’art. 18*a*, l’exportateur doit re
 
 - a. être une personne morale ou physique dont le siège ou le domicile est en Suisse;
 - b. être en mesure de prouver que la marchandise exportée a le caractère de produit originaire;
-- c. accepter que ses données soient transmises aux Etats désignés à l’art. 1, al. 2, de l’OROPD[^18b-1].
+- c. accepter que ses données soient transmises aux États désignés à l’art. 1, al. 2, de l’OROPD[^18b-1].
 
 [^18b-1]: [RS 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220)
 
@@ -334,15 +335,15 @@ L’exportateur enregistré a les obligations suivantes:
 - a. il communique immédiatement à la direction d’arrondissement des douanes toute modification qui concerne les conditions énoncées à l’art. 18*b*;
 - b.
 
-  il prête son concours lors des contrôles effectués par l’AFD, en particulier:
+  il prête son concours lors des contrôles effectués par l’OFDF, en particulier:
 
   - 1\. en autorisant le contrôle des éventuels processus de fabrication,
   - 2\. en exposant le déroulement des opérations,
   - 3\. en préparant et en produisant des papiers d’affaires et des documents,
   - 4\. en fournissant des renseignements,
-  - 5\. en mettant à disposition par voie électronique, en cas de contrôle de grande envergure, les données nécessaires sous la forme demandée par l’AFD;
+  - 5\. en mettant à disposition par voie électronique, en cas de contrôle de grande envergure, les données nécessaires sous la forme demandée par l’OFDF;
 
-- c. il suit les instructions données par l’AFD et prend les mesures nécessaires.
+- c. il suit les instructions données par l’OFDF et prend les mesures nécessaires.
 
 #### Art. 18f
 
@@ -350,7 +351,7 @@ L’exportateur enregistré a les obligations suivantes:
 
 <sup>1</sup> La direction d’arrondissement des douanes retire l’enregistrement à l’exportateur enregistré lorsque celui-ci ne remplit plus les conditions énoncées à l’art. 18*b*.
 
-<sup>2</sup> Lorsqu’elle envisage de retirer l’enregistrement à un exportateur enregistré, l’AFD peut lui accorder un délai approprié afin qu’il puisse prendre les mesures nécessaires pour remplir de nouveau les conditions énoncées à l’art. 18*b*.
+<sup>2</sup> Lorsqu’elle envisage de retirer l’enregistrement à un exportateur enregistré, l’OFDF peut lui accorder un délai approprié afin qu’il puisse prendre les mesures nécessaires pour remplir de nouveau les conditions énoncées à l’art. 18*b*.
 
 ## **Section 4** **Infractions**
 
@@ -363,13 +364,13 @@ Est puni d’une amende de 40 000 francs au plus quiconque, intentionnellement:
 - a. donne des indications inexactes, passe sous silence des faits importants ou présente des pièces inexactes concernant des faits importants en relation avec la délivrance d’un CCM EUR. 1, d’un CCM EUR-MED ou d’un certificat d’origine de remplacement (formule A);
 - b. demande ou établit des preuves d’origine inexactes, charge un tiers de le faire ou en utilise;
 - c.[^19-1] ne se conforme pas à l’obligation énoncée à l’art. 5, al. 1, let. b, et 1<sup>bis</sup>;
-- d. refuse à l’AFD les droits énoncés à l’art. 8;
+- d. refuse à l’OFDF les droits énoncés à l’art. 8;
 - e. complique, entrave ou empêche l’exécution d’un contrôle ou d’une inspection;
 - f. en qualité d’organe, d’employé ou de mandataire d’une chambre de commerce, appose indûment un visa sur une formule de demande lors de l’examen préalable.
 
 <sup>2</sup> Si, dans les cas énoncés à l’al. 1, let. a, b ou c, l’auteur de l’infraction agit par négligence, l’amende se monte à 20 000 francs au plus.
 
-<sup>3</sup> Les infractions sont poursuivies et jugées par l’AFD conformément à la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^19-2].
+<sup>3</sup> Les infractions sont poursuivies et jugées par l’OFDF conformément à la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^19-2].
 
 <sup>4</sup> La prescription de la poursuite est régie par l’art. 11, al. 2, de la loi fédérale du 22 mars 1974 sur le droit pénal administratif.
 
@@ -382,7 +383,7 @@ Est puni d’une amende de 40 000 francs au plus quiconque, intentionnellement:
 
 **Exécution**
 
-L’AFD est chargée de l’exécution.
+L’OFDF est chargé de l’exécution.
 
 #### Art. 21
 
@@ -398,7 +399,7 @@ L’AFD est chargée de l’exécution.
 
 **Disposition transitoire**
 
-Les autorisations d’établissement de preuves d’origine en procédure simplifiée octroyées par l’AFD avant l’entrée en vigueur de la présente ordonnance restent valables et sont réputées autorisations au sens de l’art. 12 de la présente ordonnance. Si la direction d’arrondissement des douanes constate que l’exportateur agréé ne remplit pas les conditions énoncées à l’art. 13, elle lui impartit un délai approprié pour y remédier.
+Les autorisations d’établissement de preuves d’origine en procédure simplifiée octroyées par l’OFDF avant l’entrée en vigueur de la présente ordonnance restent valables et sont réputées autorisations au sens de l’art. 12 de la présente ordonnance. Si la direction d’arrondissement des douanes constate que l’exportateur agréé ne remplit pas les conditions énoncées à l’art. 13, elle lui impartit un délai approprié pour y remédier.
 
 #### Art. 23
 
