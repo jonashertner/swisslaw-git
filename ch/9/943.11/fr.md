@@ -3,20 +3,20 @@ sr: "943.11"
 title: Ordonnance du 4 septembre 2002 sur le commerce itinérant (OCi)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/509"
 language: fr
-version: 2021-05-11
+version: 2022-01-01
 adopted: 2002-09-04
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/509/20210511/fr/xml/fedlex-data-admin-ch-eli-cc-2002-509-20210511-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20210511/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/509/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-509-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le commerce itinérant
 
-(OCI)**[^t-1]**
+(OCI)[^t-1]
 
-du 4 septembre 2002 (Etat le 11 mai 2021)
+du 4 septembre 2002 (État le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
 
@@ -180,9 +180,9 @@ L’autorité cantonale retire l’autorisation au commerçant itinérant en exi
 
 #### Art. 12
 
-**[Obligations des commerçants itinérants](https://www.admin.ch/opc/fr/classified-compilation/20021886/index.html)**[^12-1]
+**Obligations des commerçants itinérants**[^12-1]
 
-<sup>1</sup> Les commerçants itinérants doivent porter la carte de légitimation sur eux durant l’exercice de leur activité. Sur demande, ils doivent la présenter à la clientèle et aux organes chargés du contrôle; ces obligations valent aussi lors des contrôles effectués par l’Administration fédérale des douanes en vertu de l’art. 100 de la loi du 18 mars 2005 sur les douanes[^12-2].[^12-3]
+<sup>1</sup> Les commerçants itinérants doivent porter la carte de légitimation sur eux durant l’exercice de leur activité. Sur demande, ils doivent la présenter à la clientèle et aux organes chargés du contrôle; ces obligations valent aussi lors des contrôles effectués par l’Office fédéral de la douane et de la sécurité des frontières[^12-2] en vertu de l’art. 100 de la loi du 18 mars 2005 sur les douanes[^12-3].[^12-4]
 
 <sup>2</sup> Dans le cadre de leurs activités commerciales, ils ne peuvent utiliser leur carte de légitimation que vis-à-vis des consommateurs.
 
@@ -191,8 +191,9 @@ L’autorité cantonale retire l’autorisation au commerçant itinérant en exi
 <sup>4</sup> Ils doivent annoncer immédiatement à l’autorité cantonale compétente les modifications essentielles intervenues dans les documents mentionnés à l’art. 4 de la loi.
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
-[^12-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^12-3]: Nouvelle teneur selon l’annexe 3 ch. 3 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^12-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^12-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^12-4]: Nouvelle teneur selon l’annexe 3 ch. 3 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 
 ## Section 3 Habilitation des entreprises et des associations économiques à remettre la carte de légitimation
 
@@ -523,7 +524,7 @@ Le règlement d’exécution du 5 juin 1931 de la loi fédérale du 4 octobre 19
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2003.
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 (art. 3)
 
@@ -563,7 +564,7 @@ Le commerce itinérant des marchandises suivantes est restreint ou interdit conf
 [^annex1-lvlu1-lvl2-7]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^annex1-lvlu1-lvl2-8]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
 (art. 21)
 
@@ -583,7 +584,7 @@ Annexe 2*[^t-3]*
 <tr><td>Autos-tamponneuses, train fantôme, carrousel pour enfants, piste de course, petit carrousel, toboggan, autres installations simples</td><td>4 ans</td></tr>
 </table>
 
-Annexe 3*[^t-4]*
+Annexe 3[^t-4]
 
 (art. 24, al. 2)
 

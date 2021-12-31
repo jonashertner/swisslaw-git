@@ -3,20 +3,20 @@ sr: "943.11"
 title: Verordnung vom 4. September 2002 über das Gewerbe der Reisenden (RGV)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/509"
 language: de
-version: 2021-05-11
+version: 2022-01-01
 adopted: 2002-09-04
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/509/20210511/de/xml/fedlex-data-admin-ch-eli-cc-2002-509-20210511-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20210511/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/509/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-509-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über das Gewerbe der Reisenden
 
-(RGV)**[^t-1]**
+(RGV)[^t-1]
 
-vom 4. September 2002 (Stand am 11. Mai 2021)
+vom 4. September 2002 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2017, in Kraft seit 1. Juli 2018 ([AS 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
 
@@ -182,7 +182,7 @@ Die kantonale Stelle entzieht der oder dem Reisenden die Bewilligung und fordert
 
 **Pflichten der Reisenden**[^12-1]
 
-<sup>1</sup> Die Reisenden müssen die auf ihren Namen ausgestellte Ausweiskarte während der Ausübung der Geschäftstätigkeit auf sich tragen. Auf Verlangen müssen sie sie der Kundschaft und den mit der Kontrolle beauftragten Organen vorweisen; dies gilt auch im Rahmen von Kontrollen durch die Eidgenössische Zollverwaltung gestützt auf Artikel 100 des Zollgesetzes vom 18. März 2005[^12-2].[^12-3]
+<sup>1</sup> Die Reisenden müssen die auf ihren Namen ausgestellte Ausweiskarte während der Ausübung der Geschäftstätigkeit auf sich tragen. Auf Verlangen müssen sie sie der Kundschaft und den mit der Kontrolle beauftragten Organen vorweisen; dies gilt auch im Rahmen von Kontrollen durch das Bundesamt für Zoll und Grenzsicherheit[^12-2] gestützt auf Artikel 100 des Zollgesetzes vom 18. März 2005[^12-3].[^12-4]
 
 <sup>2</sup> Sie dürfen die Ausweiskarte im Rahmen ihrer geschäftlichen Aktivitäten nur gegenüber Konsumentinnen und Konsumenten verwenden.
 
@@ -191,8 +191,9 @@ Die kantonale Stelle entzieht der oder dem Reisenden die Bewilligung und fordert
 <sup>4</sup> Sie müssen der zuständigen kantonalen Stelle wesentliche Änderungen in den Bewilligungsunterlagen nach Artikel 4 des Gesetzes sofort melden.
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2017, in Kraft seit 1. Juli 2018 ([AS 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
-[^12-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^12-3]: Fassung gemäss Anhang 3 Ziff. 3 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^12-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^12-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^12-4]: Fassung gemäss Anhang 3 Ziff. 3 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 
 ## 3. Abschnitt: Ermächtigung von Unternehmen und Branchenverbänden zur Abgabe von Ausweiskarten
 
@@ -523,7 +524,7 @@ Die Vollziehungsverordnung vom 5. Juni 1931[^32-1] zum Bundesgesetz über die Ha
 
 Diese Verordnung tritt am 1. Januar 2003 in Kraft.
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 (Art. 3)
 
@@ -549,7 +550,7 @@ Folgende Waren dürfen Reisende aufgrund sonstiger Bestimmungen des Bundesrechts
 - a. Edelmetallwaren, Mehrmetallwaren, Plaquéwaren und Ersatzwaren nach Artikel 23 des Edelmetallkontrollgesetzes vom 20. Juni 1933[^annex1-lvlu1-lvl2-1];
 - b. Lose nach den Artikeln 9 und 40 des Bundesgesetzes vom 8. Juni 1923[^annex1-lvlu1-lvl2-2] betreffend die Lotterien und gewerbsmässigen Wetten;
 - c. Sprengmittel und pyrotechnische Gegenstände nach Artikel 15 des Sprengstoffgesetzes vom 25. März 1977[^annex1-lvlu1-lvl2-3];
-- d. *...*
+- d. *…*
 - e. Arzneimittel der Abgabekategorien A, B, C und D nach Artikel 23 des Heilmittelgesetzes vom 15. Dezember 2000[^annex1-lvlu1-lvl2-4];
 - f. Konsumeier nach Artikel 5 der Eierverordnung vom 7. Dezember 1998[^annex1-lvlu1-lvl2-5], Fleisch und Konsumeier nach Artikel 2 der landwirtschaftlichen Deklarationsverordnung vom 3. November 1999[^annex1-lvlu1-lvl2-6] sowie allenfalls andere nach Artikel 18 des Landwirtschaftsgesetzes vom 29. April 1998[^annex1-lvlu1-lvl2-7] der Deklarationspflicht unterstellte landwirtschaftliche Erzeugnisse;
 - g. Tiere nach Artikel 21 des Tierseuchengesetzes vom 1. Juli 1966[^annex1-lvlu1-lvl2-8].
@@ -563,7 +564,7 @@ Folgende Waren dürfen Reisende aufgrund sonstiger Bestimmungen des Bundesrechts
 [^annex1-lvlu1-lvl2-7]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^annex1-lvlu1-lvl2-8]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 
-Anhang 2*[^t-3]*
+Anhang 2[^t-3]
 
 (Art. 21)
 
@@ -583,7 +584,7 @@ Anhang 2*[^t-3]*
 <tr><td>Auto-Scooter, Geisterbahnen, Kinder-Karusselle, Laufgeschäfte, Bodenkarusselle, Rutschbahnen, einfache Konstruktionen</td><td>4 Jahre</td></tr>
 </table>
 
-Anhang 3*[^t-4]*
+Anhang 3[^t-4]
 
 (Art. 24 Abs. 2)
 

@@ -3,20 +3,20 @@ sr: "943.11"
 title: Ordinanza del 4 settembre 2002 sul commercio ambulante (OCAmb)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/509"
 language: it
-version: 2021-05-11
+version: 2022-01-01
 adopted: 2002-09-04
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/509/20210511/it/xml/fedlex-data-admin-ch-eli-cc-2002-509-20210511-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20210511/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/509/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-509-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul commercio ambulante
 
-(OCAmb)**[^t-1]**
+(OCAmb)[^t-1]
 
-del 4 settembre 2002 (Stato 11 maggio 2021) (Stato 11 maggio 2021)
+del 4 settembre 2002 (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
 
@@ -184,7 +184,7 @@ L’autorità cantonale revoca l’autorizzazione al commerciante ambulante esig
 
 **Obblighi dei commercianti ambulanti**[^12-1]
 
-<sup>1</sup> Durante l’esercizio dell’attività il commerciante ambulante deve avere con sé la tessera di legittimazione rilasciata a suo nome. Su richiesta, deve presentarla alla clientela e agli organi preposti al controllo; ciò vale anche per i controlli effettuati dall’Amministrazione federale delle dogane in virtù dell’articolo 100 della legge del 18 marzo 2005[^12-2] sulle dogane.[^12-3]
+<sup>1</sup> Durante l’esercizio dell’attività il commerciante ambulante deve avere con sé la tessera di legittimazione rilasciata a suo nome. Su richiesta, deve presentarla alla clientela e agli organi preposti al controllo; ciò vale anche per i controlli effettuati dall’Ufficio federale della dogana e della sicurezza dei confini[^12-2] in virtù dell’articolo 100 della legge del 18 marzo 2005[^12-3] sulle dogane.[^12-4]
 
 <sup>2</sup> Nell’ambito delle sue attività commerciali il commerciante ambulante può utilizzare la tessera di legittimazione solo nei confronti dei consumatori.
 
@@ -193,8 +193,9 @@ L’autorità cantonale revoca l’autorizzazione al commerciante ambulante esig
 <sup>4</sup> Il commerciante ambulante deve comunicare immediatamente all’autorità cantonale competente i cambiamenti rilevanti subentrati nei documenti di cui all’articolo 4 della legge federale.
 
 [^12-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
-[^12-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^12-3]: Nuovo testo giusta l’all. 3 n. 3 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^12-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^12-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^12-4]: Nuovo testo giusta l’all. 3 n. 3 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 
 ## Sezione 3: Abilitazione al rilascio delle tessere di legittimazione da parte di imprese e associazioni di categoria
 
@@ -525,7 +526,7 @@ Il regolamento d’esecuzione del 5 giugno 1931[^32-1] della legge federale sui 
 
 La presente ordinanza entra in vigore il 1° gennaio 2003.
 
-Allegato 1*[^t-2]*
+Allegato 1[^t-2]
 
 (art. 3)
 
@@ -565,7 +566,7 @@ La vendita delle merci seguenti da parte di commercianti ambulanti è limitata o
 [^annex1-lvlu1-lvl2-7]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^annex1-lvlu1-lvl2-8]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 
-Allegato 2*[^t-3]*
+Allegato 2[^t-3]
 
 (art. 21)
 
@@ -585,7 +586,7 @@ Allegato 2*[^t-3]*
 <tr><td>Piste di scooter, gallerie degli spettri (treni fantasma), giostre per bambini, piste di corsa, piccole giostre, scivoli, impianti semplici.</td><td>4 anni</td></tr>
 </table>
 
-Allegato 3*[^t-4]*
+Allegato 3[^t-4]
 
 (art. 24 cpv. 2)
 
