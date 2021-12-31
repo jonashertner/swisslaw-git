@@ -4,11 +4,11 @@ title: "Ordinanza dell'UFAM concernente le misure fitosanitarie per le foreste (
 short: OMF-UFAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/825"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2017-11-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/825/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2017-825-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/825/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-825-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20210101/it"
 
 (OMF-UFAM)
 
-del 29 novembre 2017 (Stato 1° gennaio 2021)
+del 29 novembre 2017 (Stato 1° gennaio 2022)
 
 L’Ufficio federale dell’ambiente (UFAM),
 
@@ -53,20 +53,19 @@ Le merci per la cui importazione da Stati terzi si applicano condizioni riconosc
 
 #### Art. 3
 
-**Misure contro nuovi organismi nocivi**[^3-1]
+**Misure contro organismi da quarantena potenziali**[^3-1]
 
-Le misure volte a impedire l’introduzione e la diffusione di nuovi organismi nocivi che potrebbero rivelarsi particolarmente pericolosi e non figurano nell’allegato 1 OSalV-DEFR-DATEC[^3-2] sono indicate nell’allegato 3.
+Le misure volte a impedire l’introduzione e la diffusione di organismi da quarantena potenziali sono indicate nell’allegato 3.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O dell’UFAM del 17 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)).
-[^3-2]: RS **916****.****201**
+[^3-1]: Nuovo testo giusta il n. I dell’O dell’UFAM del 30 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
 
 #### Art. 4
 
 **Misure speciali in caso di rischio fitosanitario elevato**[^4-1]
 
-Le misure speciali adottate in caso di rischio fitosanitario elevato per impedire l’introduzione e la diffusione di determinati organismi nocivi di cui all’allegato 1 OSalV-DEFR-DATEC[^4-2] sono indicate nell’allegato 4.
+Le misure speciali adottate in caso di rischio fitosanitario elevato per impedire l’introduzione e la diffusione di determinati organismi da quarantena potenziali di cui all’allegato 1 OSalV-DEFR-DATEC[^4-2] sono indicate nell’allegato 4.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O dell’UFAM del 19 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)).
+[^4-1]: Nuovo testo giusta il n. I dell’O dell’UFAM del 30 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
 [^4-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
 
 #### Art. 5
@@ -147,44 +146,22 @@ Allegato 2*[^t-2]*
 
 ## Merci temporaneamente escluse dal divieto d’importazione, condizioni d’importazione e durata dell’esclusione dal divieto d’importazione
 
-[^t-2]: Aggiornato dal n. II cpv. 2 dell’O dell’UFAM del 19 nov. 2019 ([RU 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Aggiornato dal n. II cpv. 1 dell’O dell’UFAM del 17 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)).
+[^t-2]: Aggiornato dal n. II cpv. 2 dell’O dell’UFAM del 19 nov. 2019 ([RU 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)), dal n. II cpv. 1 dell’O dell’UFAM del 17 nov. 2020, in vigore dal1° gen. 2021 ([RU 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)) e dal n. II dell’O dell’UFAM del 30 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
 
-### 1 Vegetali di *Chamaecyparis* Spach, *Juniperus* L. e *Pinus* L., nanizzati naturalmente o artificialmente, originari della Repubblica di Corea
-
-### 1.1 Esclusione dal divieto d’importazione
-
-L’importazione di vegetali di *Chamaecyparis* Spach, *Juniperus* L. e *Pinus* L., a eccezione dei frutti e delle sementi originari della Repubblica di Corea, è temporaneamente esclusa dal divieto d’importazione, se sono soddisfatte le seguenti condizioni:
-
-- a. l’importatore dispone di uno spazio adeguato per la quarantena di cui al numero 10 dell’allegato della decisione 2002/499/CE[^annex2-lvlu1-lvl1-lvl11-1];
-- b. il fornitore figura nell’elenco, aggiornato annualmente dalla Repubblica di Corea, dei vivai riconosciuti per l’esportazione in Europa di cui al numero 3 dell’allegato della decisione 2002/499/CE;
-- c. i vegetali soddisfano, oltre ai requisiti di cui all’allegato 7 numero 30 OSalV-DEFR-DATEC[^annex2-lvlu1-lvl1-lvl11-2], i requisiti stabiliti nell’allegato della decisione 2002/499/CE.
-
-[^annex2-lvlu1-lvl1-lvl11-1]: Decisione 2002/499/CE della Commissione, del 26 giugno 2002, che autorizza deroghe a determinate disposizioni della direttiva 2000/29/CE del Consiglio riguardo ai vegetali di *Chamaecyparis* Spach, *Juniperus* L. e *Pinus* L., nanizzati naturalmente o artificialmente, originari della Repubblica di Corea, GU L 168 del 27.6.2010, pag. 53; modificata da ultimo dalla decisione 2010/646/UE, GU L 281 del 27.10.2010, pag. 98.
-[^annex2-lvlu1-lvl1-lvl11-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
-
-### 1.2 Notifica di una partita destinata all’importazione
-
-La data prevista d’arrivo di una partita destinata all’importazione contenente vegetali di cui al numero 1.1, la sua quantità e il luogo di sbarco della partita nell’UE devono essere comunicati al SFF almeno con una settimana di anticipo.
-
-### 1.3 Durata dell’esclusione dal divieto d’importazione
-
-L’esclusione dal divieto d’importazione si applica durante i periodi indicati all’articolo 4 della decisione 2002/499/CE.
-
-### 1.4 Disposizione speciale
-
-Laddove, conformemente alla decisione 2002/499/CE, la competenza spetta agli Stati membri, in Svizzera è competente il SFF.
+### 1 ...
 
 ### 2 Vegetali di *Chamaecyparis* Spach, *Juniperus* L. e *Pinus* L., nanizzati naturalmente o artificialmente, originari del Giappone
 
 ### 2.1 Esclusione temporanea dal divieto d’importazione
 
-L’importazione di vegetali di cui all’articolo 1 del regolamento (UE) 2020/1217[^annex2-lvlu1-lvl2-lvl21-1], originari del Giappone, è temporaneamente esclusa dal divieto d’importazione se sono soddisfatte le seguenti condizioni:
+L’importazione di vegetali di cui all’articolo 1 del regolamento di esecuzione (UE) 2020/1217[^annex2-lvlu1-lvl2-lvl21-1], originari del Giappone, è temporaneamente esclusa dal divieto d’importazione se sono soddisfatte le seguenti condizioni:
 
 - a. l’importatore dispone di uno spazio adeguato per la quarantena di cui al numero 10 dell’allegato del regolamento di esecuzione (UE) 2020/1217;
 - b. il fornitore figura nell’elenco, aggiornato annualmente dal Giappone, dei vivai autorizzati a esportare in Europa di cui al numero 3 dell’allegato del regolamento di esecuzione (UE) 2020/1217;
-- c. i vegetali soddisfano, oltre ai requisiti di cui all’allegato 7 numero 30 OSalV-DEFR-DATEC, i requisiti stabiliti nell’allegato del regolamento di esecuzione 2020/1217 (UE).
+- c. i vegetali soddisfano, oltre ai requisiti di cui all’allegato 7 numero 30 OSalV-DEFR-DATEC[^annex2-lvlu1-lvl2-lvl21-2], i requisiti stabiliti nell’allegato del regolamento di esecuzione 2020/1217 (UE).
 
-[^annex2-lvlu1-lvl2-lvl21-1]: Regolamento di esecuzione (UE) 2020/1217 della Commissione, del 25 agosto 2020, relativo a una deroga al regolamento di esecuzione (UE) 2019/2072 per quanto riguarda l’introduzione nell’Unione di piante nanizzate naturalmente o artificialmente, da impianto, di *Chamaecyparis* Spach, *Juniperus* L. e alcune specie di *Pinus* L., originarie del Giappone, e che abroga la decisione 2002/887/CE, versione secondo GU L 277 del 26.8.2020, pag. 6.
+[^annex2-lvlu1-lvl2-lvl21-1]: Regolamento di esecuzione (UE) 2020/1217 della Commissione, del 25 agosto 2020, relativo a una deroga al regolamento di esecuzione (UE) 2019/2072 per quanto riguarda l’introduzione nell’Unione di piante nanizzate naturalmente o artificialmente, da impianto, di *Chamaecyparis Spach*, *Juniperus L.* e alcune specie di *Pinus L*., originarie del Giappone, e che abroga la decisione 2002/887/CE, versione secondo GU L 277 del 26.8.2020, pag. 6.
+[^annex2-lvlu1-lvl2-lvl21-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
 
 ### 2.2 Notifica di una partita destinata all’importazione
 
@@ -204,7 +181,7 @@ Allegato 2a*[^t-3]*
 
 ## Merci per la cui importazione da Stati terzi si applicano condizioni specifiche riconosciute come equivalenti
 
-[^t-3]: Introdotto dal n. II cpv. 2 dell’O dell’UFAM del 17 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)).
+[^t-3]: Introdotto dal n. II cpv. 2 dell’O dell’UFAM del 17 nov. 2020 ([RU 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)). Aggiornato dal n. II dell’O dell’UFAM del 30 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
 
 ### 1 Legno di *Fraxinus* L. originario del Canada o ivi lavorato
 
@@ -212,7 +189,7 @@ Allegato 2a*[^t-3]*
 
 Per l’importazione di legno di frassino (*Fraxinus* L.) di cui all’allegato 7 numero 87 OSalV-DEFR-DATEC[^annex2a-lvlu1-lvl1-lvl11-1], originario del Canada o ivi lavorato, le seguenti condizioni sono riconosciute come equivalenti alle condizioni specifiche di cui all’allegato 7 numero 87 lettere a e b OSalV-DEFR-DATEC:
 
-- a. il legno è accompagnato da un certificato fitosanitario rilasciato in Canada attestante che esso risulta indenne da organismi nocivi da quarantena e da potenziali organismi nocivi da quarantena;
+- a. il legno è accompagnato da un certificato fitosanitario rilasciato in Canada attestante che esso risulta indenne da organismi da quarantena e da organismi da quarantena potenziali;
 - b.
 
   il certificato fitosanitario deve comprendere nella rubrica «Dichiarazione supplementare» le seguenti indicazioni:
@@ -236,7 +213,7 @@ Le condizioni di cui al numero 1.1 sono riconosciute come equivalenti durante il
 
 Per l’importazione di legno di frassino (*Fraxinus* L.) di cui all’allegato 7 numero 87 OSalV-DEFR-DATEC, originario degli Stati Uniti o ivi lavorato, le seguenti condizioni sono riconosciute come equivalenti alle condizioni specifiche di cui all’allegato 7 numero 87 lettere a e b OSalv-DEFR-DATEC:
 
-- a. il legno è accompagnato da un certificato fitosanitario emesso negli Stati Uniti attestante che esso risulta indenne da organismi nocivi da quarantena e da potenziali organismi nocivi da quarantena;
+- a. il legno è accompagnato da un certificato fitosanitario emesso negli Stati Uniti attestante che esso risulta indenne da organismi da quarantena e da organismi da quarantena potenziali;
 - b.
 
   il certificato fitosanitario deve comprendere nella rubrica «Dichiarazione supplementare» i seguenti elementi:
@@ -257,12 +234,9 @@ Allegato 3*[^t-4]*
 
 (art. 3)
 
-## Misure volte a impedire l’introduzione e la diffusione di nuovi organismi nocivi che potrebbero rivelarsi particolarmente pericolosi e non figurano nell’allegato 1 OSalV-DEFR-DATEC****
+## Misure volte a impedire l’introduzione e la diffusione di organismi da quarantena potenziali
 
-[^annex3-lvlu1-1]
-
-[^t-4]: Aggiornato dal n. II cpv. 2 dell’O dell’UFAM del 19 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)).
-[^annex3-lvlu1-1]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^t-4]: Aggiornato dai n. II cpv. 2 dell’O dell’UFAM del 19 nov. 2019 ([RU 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)) e II dell’O dell’UFAM del 30 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
 
 ### 1 *Phytophthora ramorum* Werres, De Cock & Man in ’t Veld sp. nov.
 
@@ -284,23 +258,23 @@ Allegato 4*[^t-5]*
 
 (art. 4)
 
-## Misure speciali adottate in caso di rischio fitosanitario elevato per impedire l’introduzione e la diffusione di organismi nocivi di cui all’allegato 1 OSalV-DEFR-DATEC
+## Misure speciali adottate in caso di rischio fitosanitario elevato per impedire l’introduzione e la diffusione di organismi da quarantena di cui all’allegato 1 OSalV-DEFR-DATEC
 
-[^t-5]: Nuovo testo giusta il n. II cpv. 1 dell’O dell’UFAM del 19 nov. 2019 ([RU 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Aggiornato dal n. II cpv. 1 dell’O dell’UFAM del 17 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)).
+[^t-5]: Nuovo testo giusta il n. II cpv. 1 dell’O dell’UFAM del 19 nov. 2019 ([RU 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Aggiornato dai n. II cpv. 1 dell’O dell’UFAM del 17 nov. 2020 ([RU 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)) e II dell’O dell’UFAM del 30 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
 
 ### 1 Merci con materiale da imballaggio in legno proveniente da Stati terzi
 
 ### 1.1 Misure volte a impedire l’introduzione e la diffusione
 
-Per prevenire l’introduzione e la diffusione di organismi nocivi di cui all’allegato 1 OSalV-DEFR-DATEC[^annex4-lvlu1-lvl1-lvl11-1], in caso di rischio fitosanitario elevato, all’importazione di merci con materiale da imballaggio in legno proveniente da Stati terzi si applicano gli articoli 1–5 della decisione di esecuzione (UE) 2018/1137[^annex4-lvlu1-lvl1-lvl11-2].
+Per prevenire l’introduzione e la diffusione di organismi da quarantena di cui all’allegato 1 OSalV-DEFR-DATEC[^annex4-lvlu1-lvl1-lvl11-1], in caso di rischio fitosanitario elevato, all’importazione di merci con materiale da imballaggio in legno proveniente da Stati terzi si applicano gli articoli 1–4 del regolamento di esecuzione (UE) 2021/127[^annex4-lvlu1-lvl1-lvl11-2].
 
 [^annex4-lvlu1-lvl1-lvl11-1]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
-[^annex4-lvlu1-lvl1-lvl11-2]: Decisione di esecuzione (UE) 2018/1137 della Commissione, del 10 agosto 2018, concernente la sorveglianza, i controlli fitosanitari e le misure da adottare in relazione al materiale da imballaggio in legno utilizzato per il trasporto di prodotti originari di alcuni Stati terzi, GU L 205 del 14.8.2018, pag. 54.
+[^annex4-lvlu1-lvl1-lvl11-2]: Regolamento di esecuzione (UE) 2021/127 della Commissione, del 3 febbraio 2021, che stabilisce le prescrizioni per l’introduzione nel territorio dell’Unione di materiale da imballaggio in legno per il trasporto di determinati prodotti originari di alcuni paesi terzi e per i controlli fitosanitari effettuati su tale materiale, e che abroga la decisione di esecuzione (UE) 2018/1137, versione secondo GU L 40 del 4.2.2021, pag. 3.
 
 ### 1.2 Disposizioni speciali
 
-- 1\.2.1 Laddove, conformemente alla decisione di esecuzione (UE) 2018/1137, si parla di materiale da imballaggio in legno originario della Cina, nella presente ordinanza s’intende materiale da imballaggio in legno proveniente da Stati terzi secondo l’articolo 2 lettera k OSalV.
-- 1\.2.2 Laddove, conformemente alla decisione di esecuzione (UE) 2018/1137, la competenza spetta agli Stati membri, in Svizzera è competente il Servizio fitosanitario federale (SFF).
+- 1\.2.1 Laddove, conformemente al regolamento di esecuzione (UE) 2021/127, si parla di materiale di imballaggio originario della Bielorussia, della Cina e dell’India, nella presente ordinanza s’intende materiale da imballaggio in legno proveniente da Stati terzi secondo l’articolo 2 lettera k OSalV.
+- 1\.2.2 Laddove, conformemente al regolamento di esecuzione (UE) 2021/127, la competenza spetta alle autorità competenti, in Svizzera è competente il Servizio fitosanitario federale (SFF).
 - 1\.2.3 Le merci di cui al numero 1.2.8 introdotte con materiale da imballaggio in legno devono essere notificate al SFF due giorni lavorativi prima dell’importazione. La vendita e la distribuzione di tali merci sono bloccate fintanto che il controllo del SFF non attesta che il materiale da imballaggio in legno è indenne e sono soddisfatti i requisiti dell’allegato 7 numeri 9–14 OSalV-DEFR-DATEC.
 - 1\.2.4 le unità d’imballaggio devono essere depositate temporaneamente con il sigillo originale.
 - 1\.2.5 Le merci con materiale da imballaggio in legno devono essere depositate temporaneamente in modo da consentire agli ispettori del SFF di accedere facilmente alle unità di imballaggio e al loro contenuto.
@@ -312,7 +286,7 @@ Per prevenire l’introduzione e la diffusione di organismi nocivi di cui all’
   - b. nei casi rimanenti: entro due giorni lavorativi dall’arrivo della merce nel luogo d’ispezione.
 
 - 1\.2.7 Se il controllo non ha dato luogo a contestazioni, il SFF conferma, per scritto, lo sblocco della vendita o della distribuzione del lotto.
-- 1\.2.8 Invece dell’allegato I della decisione di esecuzione (UE) 2018/1137, si applica la seguente tabella:
+- 1\.2.8 Invece dell’allegato I del regolamento di esecuzione (UE) 2021/127, si applica la seguente tabella:
 
 <table>
 <tr><th>Codice NC / voce di tariffa doganale</th><th>Descrizione</th></tr>
@@ -322,7 +296,7 @@ Per prevenire l’introduzione e la diffusione di organismi nocivi di cui all’
 <tr><td>2515</td><td>Marmi, travertini, calcare di Ecaussines e altre pietre calcaree da taglio o da costruzione, di una densità apparente pari o superiore a 2,5, e alabastro, anche sgrossati o semplicemente segati o altrimenti tagliati, in blocchi o in lastre di forma quadrata o rettangolare</td></tr>
 <tr><td>2516</td><td>Granito, porfido, basalto, arenaria e altre pietre da taglio o da costruzione, anche sgrossati o semplicemente segati o altrimenti tagliati, in blocchi o in lastre di forma quadrata o rettangolare</td></tr>
 <tr><td>2517</td><td>Sassi, ghiaia, pietre frantumate, dei tipi generalmente utilizzati per calcestruzzo o per massicciate stradali, ferroviarie o di altro tipo, ciottoli e selci, anche trattati termicamente; macadam di loppe, di scorie o di residui industriali simili, anche contenente materie comprese nella prima parte del testo di questa voce; tarmacadam; granuli, scaglie e polveri di pietre delle voci 2515 o 2516, anche trattati termicamente</td></tr>
-<tr><td>2518</td><td>Dolomite, anche sinterizzata o calcinata, compresa la dolomite sgrossata o semplicemente segata o altrimenti tagliata, in blocchi o in lastre di forma quadrata o rettangolare; pigiata di dolomite</td></tr>
+<tr><td>2518</td><td>Dolomite, anche sinterizzata o calcinata, compresa la dolomite sgrossata o semplicemente segata o altrimenti tagliata, in blocchi o in lastre di forma quadrata o rettangolare</td></tr>
 <tr><td>2521</td><td>Pietre calcaree da fonderia (castine); pietre da calce o da cemento</td></tr>
 <tr><td>2526</td><td>Steatite naturale, anche sgrossata o semplicemente segata o altrimenti tagliata, in blocchi o in lastre di forma quadrata o rettangolare; talco</td></tr>
 <tr><td></td><td>Legno, carbone di legno e prodotti in legno</td></tr>
@@ -330,12 +304,8 @@ Per prevenire l’introduzione e la diffusione di organismi nocivi di cui all’
 <tr><td>4415</td><td>Casse, cassette, gabbie, cilindri ed imballaggi simili, di legno; tamburi (rocchetti) per cavi, di legno; palette di carico, semplici, palette-casse ed altre piattaforme di carico, di legno; spalliere di palette di legno</td></tr>
 <tr><td>4418</td><td>Lavori di falegnameria e lavori di carpenteria per costruzioni, compresi i pannelli cellulari, i pannelli assemblati per pavimenti e le tavole di copertura, di legno</td></tr>
 <tr><td>4421</td><td>Altri lavori di legno</td></tr>
-<tr><td></td><td>Sughero e lavori di sughero</td></tr>
-<tr><td>4504</td><td>Sughero agglomerato (con o senza legante) e lavori di sughero agglomerato</td></tr>
 <tr><td></td><td>Carta e cartone; lavori di pasta di carta, di carta o di cartone</td></tr>
 <tr><td>4823</td><td>Altra carta, altro cartone, altra ovatta di cellulosa e altri strati di fibre di cellulosa, tagliati a misura; altri lavori di pasta di carta, di carta, di cartone, di ovatta di cellulosa o di strati di fibre di cellulosa</td></tr>
-<tr><td></td><td>Copricapi e parti di copricapi</td></tr>
-<tr><td>6501</td><td>Campane non formate, né cerchiate, dischi o piatti, manicotti o cilindri anche tagliati nel senso dell’altezza, di feltro, per cappelli</td></tr>
 <tr><td></td><td>Lavori di pietre, gesso, cemento, amianto, mica o materie simili</td></tr>
 <tr><td>6801</td><td>Blocchetti, bordi per marciapiedi, e lastre per pavimentazioni, di pietre naturali (diverse dall’ardesia)</td></tr>
 <tr><td>6802</td><td>Pietre da taglio o da costruzione (diverse dall’ardesia) lavorate e lavori di tali pietre, esclusi quelli della voce 6801; cubi, tessere e simili per mosaici, di pietre naturali (compresa l’ardesia), anche su supporto; granulati, scaglie e polveri di pietre naturali (compresa l’ardesia), colorati artificialmente</td></tr>
@@ -361,41 +331,21 @@ Per prevenire l’introduzione e la diffusione di organismi nocivi di cui all’
 <tr><td>7007</td><td>Vetro di sicurezza, costituito da vetri temperati o formati da fogli aderenti fra loro</td></tr>
 <tr><td>7008</td><td>Vetri isolanti a pareti multiple</td></tr>
 <tr><td>7009</td><td>Specchi di vetro, anche incorniciati, compresi gli specchi retrovisivi</td></tr>
-<tr><td></td><td>Perle naturali o da allevamento, pietre preziose, gioielli o simili, metalli preziosi, metalli preziosi placcati e prodotti derivati; gioielli fantasia; monete</td></tr>
-<tr><td>7108</td><td>Oro (compreso l’oro platinato), greggio o semilavorato, o in polvere</td></tr>
-<tr><td>7110</td><td>Platino, greggio o semilavorato, o in polvere</td></tr>
 <tr><td></td><td>Ferro e acciaio</td></tr>
 <tr><td>7210</td><td>Prodotti laminati piatti, di ferro o di acciai non legati, di larghezza di 600 mm o più, placcati o rivestiti</td></tr>
-<tr><td></td><td>Lavori di ghisa, ferro o acciaio</td></tr>
-<tr><td>7303</td><td>Tubi e profilati cavi, di ghisa</td></tr>
-<tr><td>7304</td><td>Tubi e profilati cavi, senza saldatura, di ferro o di acciaio</td></tr>
-<tr><td>7305</td><td>Altri tubi (p. es. saldati o ribaditi) di sezione circolare, di diametro esterno eccedente 406,4 mm, di ferro o di acciaio</td></tr>
-<tr><td>7306</td><td>Altri tubi e profilati cavi (p. es. saldati, ribaditi, aggraffati o a lembi semplicemente avvicinati), di ferro o di acciaio</td></tr>
-<tr><td>7307</td><td>Accessori per tubi (p. es. raccordi, gomiti, manicotti) di ghisa, ferro o acciaio</td></tr>
-<tr><td>7313</td><td>Rovi artificiali di ferro o di acciaio; cordoncini (torsades), anche spinati, di fili o di nastri di ferro o di acciaio, dei tipi utilizzati per recinti</td></tr>
-<tr><td>7317</td><td>Punte, chiodi, puntine da disegno, rampini, graffette ondulate o smussate e articoli simili, di ghisa, ferro o acciaio, anche con capocchia di altra materia, esclusi quelli con capocchia di rame</td></tr>
-<tr><td>7318</td><td>Viti, bulloni, dadi, tirafondi, ganci a vite, ribadini, copiglie, pernotti, chiavette, rondelle (comprese le rondelle destinate a funzionare da molla) e articoli simili, di ghisa, ferro o acciaio</td></tr>
 <tr><td></td><td>Rame e lavori di rame</td></tr>
 <tr><td>7411</td><td>Tubi di rame</td></tr>
 <tr><td>7412</td><td>Accessori per tubi (p. es. raccordi, gomiti, manicotti) di rame</td></tr>
 <tr><td>7415</td><td>Punte, chiodi, puntine, rampini e articoli simili, di rame o aventi il gambo di ferro o di acciaio e la capocchia di rame; viti, bulloni, dadi, ganci a vite, ribadini, copiglie, pernotti, chiavette, rondelle (comprese le rondelle destinate a funzionare da molla) e articoli simili, di rame</td></tr>
 <tr><td></td><td>Alluminio e lavori di alluminio</td></tr>
+<tr><td>7606</td><td>Lamiere e nastri di alluminio, di spessore superiore a 0,2 mm</td></tr>
 <tr><td>7608</td><td>Tubi di alluminio</td></tr>
 <tr><td>7609</td><td>Accessori per tubi (p. es. raccordi, gomiti, manicotti) di alluminio</td></tr>
-<tr><td></td><td>Altri metalli non preziosi; cermeti; lavori di questi materiali</td></tr>
-<tr><td>8101</td><td>Tungsteno (wolframio) e lavori di tungsteno, compresi i cascami e gli avanzi</td></tr>
-<tr><td>8102</td><td>Molibdeno e lavori di molibdeno, compresi i cascami e gli avanzi</td></tr>
-<tr><td></td><td>Attrezzi, utensili taglienti, posate in metalli non preziosi; parte di questi prodotti, in metalli non preziosi</td></tr>
-<tr><td>8205</td><td>Utensili e utensileria a mano (compresi i diamanti tagliavetro) non nominati né compresi altrove; lampade per saldare e simili; morse, sergenti e simili, diversi da quelli che costituiscono accessori o parti di macchine utensili o tagliatrici a idrogetto; incudini; fucine portatili; mole con sostegno, a mano o a pedale</td></tr>
 <tr><td></td><td>Reattori nucleari, caldaie, macchine, apparecchi e strumenti meccanici; parti di queste macchine o apparecchi</td></tr>
 <tr><td>8407</td><td>Motori a pistone alternativo o rotativo, con accensione a scintilla (motori a scoppio)</td></tr>
 <tr><td>8424</td><td>Apparecchi meccanici (anche a mano) per spruzzare, cospargere o polverizzare materie liquide o in polvere; estintori, anche carichi; pistole a spruzzo e apparecchi simili; macchine e apparecchi a getto di sabbia, a getto di vapore e simili apparecchi a getto</td></tr>
 <tr><td>8465</td><td>Macchine utensili (comprese le macchine per inchiodare, aggraffare, incollare o riunire in altro modo) per la lavorazione del legno, del sughero, dell’osso, della gomma indurita, delle materie plastiche dure o di materie dure simili</td></tr>
 <tr><td>8467</td><td>Utensili pneumatici, idraulici o a motore (elettrico o non elettrico) incorporato, per l’impiego a mano</td></tr>
-<tr><td></td><td>Macchine e apparecchi elettrici e altri apparecchi elettrotecnici come pure loro parti; registratori e riproduttori di suoni, videoregistratori e videoriproduttori come pure parti e accessori per questi apparecchi</td></tr>
-<tr><td>8544</td><td>Fili, cavi (compresi i cavi coassiali), e altri conduttori isolati per l’elettricità (anche laccati od ossidati anodicamente), muniti o meno di pezzi di congiunzione; cavi di fibre ottiche, costituiti di fibre rivestite individualmente anche dotati di conduttori elettrici o muniti di pezzi di congiunzione</td></tr>
-<tr><td></td><td>Automobili, trattori, motociclette, biciclette e altri veicoli agricoli; loro parti e accessori</td></tr>
-<tr><td>8708</td><td>Parti e accessori degli autoveicoli delle voci da 8701 a 8705</td></tr>
 </table>
 
 ### 2 *Anoplophora chinensis* (Forster)

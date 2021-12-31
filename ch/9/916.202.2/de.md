@@ -4,11 +4,11 @@ title: Verordnung des BAFU vom 29. November 2017 über phytosanitäre Massnahmen
 short: VpM-BAFU
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/825"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2017-11-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/825/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2017-825-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/825/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-825-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20210101/de"
 
 (VpM-BAFU)
 
-vom 29. November 2017 (Stand am 1. Januar 2021)
+vom 29. November 2017 (Stand am 1. Januar 2022)
 
 Das Bundesamt für Umwelt (BAFU),
 
@@ -53,20 +53,19 @@ Die Waren, für deren Einfuhr aus Drittländern Voraussetzungen gelten, die als 
 
 #### Art. 3
 
-**Massnahmen gegen neue Schadorganismen**[^3-1]
+**Massnahmen gegen potenzielle Quarantäneorganismen**[^3-1]
 
-Die Massnahmen gegen die Einschleppung und Ausbreitung von neuen, potenziell besonders gefährlichen Schadorganismen, die nicht in Anhang 1 PGesV-WBF-UVEK[^3-2] aufgeführt sind, sind in Anhang 3 aufgeführt.
+Die Massnahmen gegen die Einschleppung und Ausbreitung von potenziellen Quarantäneorganismen sind in Anhang 3 aufgeführt.
 
-[^3-1]: Fassung gemäss Ziff. I der V des BAFU vom 17. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)).
-[^3-2]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^3-1]: Fassung gemäss Ziff. I der V des BAFU vom 30. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
 
 #### Art. 4
 
 **Besondere Massnahmen bei erhöhtem phytosanitärem Risiko**[^4-1]
 
-Die besonderen Massnahmen, die bei erhöhtem phytosanitärem Risiko gegen die Einschleppung und Ausbreitung von bestimmten Schadorganismen nach Anhang 1 PGesV-WBF-UVEK[^4-2] ergriffen werden, sind in Anhang 4 aufgeführt.
+Die besonderen Massnahmen, die bei erhöhtem phytosanitärem Risiko gegen die Einschleppung und Ausbreitung von bestimmten Quarantäneorganismen nach Anhang 1 PGesV-WBF-UVEK[^4-2] ergriffen werden, sind in Anhang 4 aufgeführt.
 
-[^4-1]: Fassung gemäss Ziff. I der V des BAFU vom 19. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)).
+[^4-1]: Fassung gemäss Ziff. I der V des BAFU vom 30. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
 [^4-2]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
 
 #### Art. 5
@@ -148,32 +147,9 @@ Anhang 2*[^t-2]*
 
 ## Vorübergehend vom Einfuhrverbot ausgenommene Waren, Einfuhrbedingungen und Dauer der Aufhebung des Einfuhrverbots
 
-[^t-2]: Bereinigt gemäss Ziff. II Abs. 2 der V des BAFU vom 19. Nov. 2019 ([AS 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)) und Ziff. II Abs. 1 der V des BAFU vom 17. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)).
+[^t-2]: Bereinigt gemäss Ziff. II Abs. 2 der V des BAFU vom 19. Nov. 2019 ([AS 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)) und Ziff. II Abs. 1 der V des BAFU vom 17. Nov. 2020 ([AS 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)) und Ziff. II der V des BAFU vom 30. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
 
-### 1 Auf natürliche oder künstliche Weise kleinwüchsig gehaltene Pflanzen von *Chamaecyparis* Spach, *Juniperus* L. und *Pinus* L. mit Ursprung in der Republik Korea
-
-### 1.1 Vorübergehende Ausnahme vom Einfuhrverbot
-
-Die Einfuhr von Pflanzen von *Chamaecyparis* Spach, *Juniperus* L. und *Pinus* L., ausser Früchten und Samen, mit Ursprung in der Republik Korea, ist vorübergehend vom Einfuhrverbot ausgenommen, wenn die folgenden Voraussetzungen erfüllt sind:
-
-- a. Dem Importeur steht ein geeigneter Raum für die Quarantäne nach Ziffer 10 des Anhangs der Entscheidung 2002/499/EG[^annex2-lvlu1-lvl1-lvl11-1] zur Verfügung.
-- b. Der Lieferant ist auf dem von der Republik Korea jährlich aktualisierten Verzeichnis der für den Export nach Europa zugelassenen Baumschulen nach Ziffer 3 des Anhangs der Entscheidung 2002/499/EG aufgeführt.
-- c. Die Pflanzen erfüllen zusätzlich zu den Anforderungen nach Anhang 7 Ziffer 30 PGesV-WBF-UVEK[^annex2-lvlu1-lvl1-lvl11-2] die im Anhang der Entscheidung 2002/499/EG festgelegten Anforderungen.
-
-[^annex2-lvlu1-lvl1-lvl11-1]: Entscheidung der Kommission 2002/499/EG vom 26. Juni 2002 zur Genehmigung von Ausnahmen von bestimmten Vorschriften der Richtlinie 2000/29/EG des Rates für auf natürliche oder künstliche Weise kleinwüchsig gehaltene Pflanzen von *Chamaecyparis* Spach, *Juniperus* L. und *Pinus* L. mit Ursprung in der Republik Korea, ABl. L 168 vom 27.6.2010, S. 53; zuletzt geändert durch Beschluss 2010/646/EU, ABl. L 281 vom 27.10.2010, S. 98.
-[^annex2-lvlu1-lvl1-lvl11-2]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
-
-### 1.2 Anmeldung von Einfuhrsendungen
-
-Der voraussichtliche Zeitpunkt der Ankunft einer Einfuhrsendung mit Pflanzen nach Ziffer 1.1, deren Menge sowie der Ort der Ausschiffung der Sendung in der EU sind dem Eidgenössischen Pflanzenschutzdienst (EPSD) mindestens eine Woche im Voraus anzumelden.
-
-### 1.3 Dauer der Aufhebung des Einfuhrverbots
-
-Die Ausnahme vom Einfuhrverbot gilt während den in Artikel 4 der Entscheidung 2002/499/EG genannten Zeiträumen.
-
-### 1.4 Besondere Bestimmung
-
-Wo gemäss der Entscheidung 2002/499/EG die Zuständigkeit bei den Mitgliedstaaten liegt, ist in der Schweiz der EPSD zuständig.
+### 1 …
 
 ### 2 Auf natürliche oder künstliche Weise kleinwüchsig gehaltene Pflanzen von *Chamaecyparis* Spach, *Juniperus* L. und *Pinus* L. mit Ursprung in Japan
 
@@ -183,9 +159,10 @@ Die Einfuhr von Pflanzen nach Artikel 1 der Durchführungsverordnung (EU) 2020/1
 
 - a. Dem Importeur steht ein geeigneter Raum für die Quarantäne nach Ziffer 10 des Anhangs der Durchführungsverordnung (EU) 2020/1217 zur Verfügung.
 - b. Der Lieferant ist auf dem von Japan jährlich aktualisierten Verzeichnis der für den Export nach Europa zugelassenen Baumschulen nach Ziffer 3 des Anhangs der Durchführungsverordnung (EU) 2020/1217 aufgeführt.
-- c. Die Pflanzen erfüllen zusätzlich zu den Anforderungen nach Anhang 7 Ziffer 30 PGesV-WBF-UVEK die im Anhang der Durchführungsverordnung (EU) 2020/1217 festgelegten Anforderungen.
+- c. Die Pflanzen erfüllen zusätzlich zu den Anforderungen nach Anhang 7 Ziffer 30 PGesV-WBF-UVEK[^annex2-lvlu1-lvl2-lvl21-2] die im Anhang der Durchführungsverordnung (EU) 2020/1217 festgelegten Anforderungen.
 
 [^annex2-lvlu1-lvl2-lvl21-1]: Durführungsverordnung (EU) 2020/1217 der Kommission vom 25. August 2020 über eine Ausnahme von der Durchführungsverordnung (EU) 2019/2072 hinsichtlich der Einführung in die Union von auf natürliche oder künstliche Weise kleinwüchsig gehaltenen, zum Anpflanzen bestimmten Pflanzen von *Chamaecyparis* Spach, *Juniperus* L. und bestimmten Arten von *Pinus* L. mit Ursprung in Japan und zur Aufhebung der Entscheidung 2002/887/EG, Fassung gemäss ABl. L 277 vom 26.8.2020, S. 6.
+[^annex2-lvlu1-lvl2-lvl21-2]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
 
 ### 2.2 Anmeldung von Einfuhrsendungen
 
@@ -258,12 +235,9 @@ Anhang 3*[^t-4]*
 
 (Art. 3)
 
-## Massnahmen gegen die Einschleppung und Ausbreitung von neuen, potenziell besonders gefährlichen Schadorganismen, die nicht in Anhang 1 PGesV-WBF-UVEK**** aufgeführt sind
+## Massnahmen gegen die Einschleppung und Ausbreitung von potenziellen Quarantäneorganismen
 
-[^annex3-lvlu1-1]
-
-[^t-4]: Bereinigt gemäss Ziff. II Abs. 2 der V des BAFU vom 19. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)).
-[^annex3-lvlu1-1]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^t-4]: Bereinigt gemäss Ziff. II Abs. 2 der V des BAFU vom 19. Nov. 2019 ([AS 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)) und Ziff. II der V des BAFU vom 30. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
 
 ### 1 *Phytophthora ramorum* Werres, De Cock & Man in ’t Veld sp. nov.
 
@@ -279,7 +253,7 @@ Zum Schutz gegen die Einschleppung und Ausbreitung von *Phytophthora ramorum* We
 - 1\.2.2 Anstelle der Frist nach Artikel 6 Absatz 2 der Entscheidung 2002/757/EG gilt die vom Eidgenössischen Pflanzenschutzdienst (EPSD) festgelegte Frist. Dieser gibt die Frist den Kantonen in geeigneter Form bekannt.
 - 1\.2.3 Wo gemäss den Artikeln 5, 6 Absätze 2 und 3, 6*a* und 7 der Entscheidung 2002/757/EG die Zuständigkeit bei den Mitgliedstaaten liegt, ist in der Schweiz der EPSD zuständig.
 
-### 2 ...
+### 2 …
 
 Anhang 4*[^t-5]*
 
@@ -287,21 +261,21 @@ Anhang 4*[^t-5]*
 
 ## Besondere Massnahmen gegen die Einschleppung und Ausbreitung von Schadorganismen nach Anhang 1 PGesV‑WBF-UVEK bei erhöhtem phytosanitärem Risiko
 
-[^t-5]: Fassung gemäss Ziff. II Abs. 1 der V des BAFU vom 19. Nov. 2019 ([AS 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Bereinigt gemäss Ziff. II Abs. 1 der V des BAFU vom 17. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)).
+[^t-5]: Fassung gemäss Ziff. II Abs. 1 der V des BAFU vom 19. Nov. 2019 ([AS 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Bereinigt gemäss Ziff. II Abs. 1 der V des BAFU vom 17. Nov. 2020 ([AS 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)) und Ziff. II der V des BAFU vom 30. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
 
 ### 1 Waren mit Holzverpackungsmaterial aus Drittländern
 
 ### 1.1 Massnahmen gegen die Einschleppung und Ausbreitung
 
-Zum Schutz gegen die Einschleppung und Ausbreitung von Schadorganismen nach Anhang 1 PGesV-WBF-UVEK[^annex4-lvlu1-lvl1-lvl11-1] gelten für die Einfuhr von Waren mit Holzverpackungsmaterial aus Drittländern bei erhöhtem phytosanitärem Risiko die Artikel 1–5 des Durchführungsbeschlusses (EU) 2018/1137[^annex4-lvlu1-lvl1-lvl11-2].
+Zum Schutz gegen die Einschleppung und Ausbreitung von Quarantäneorganismen nach Anhang 1 PGesV-WBF-UVEK[^annex4-lvlu1-lvl1-lvl11-1] gelten für die Einfuhr von Waren mit Holzverpackungsmaterial aus Drittländern bei erhöhtem phytosanitärem Risiko die Artikel 1–4 der Durchführungsverordnung (EU) 2021/127[^annex4-lvlu1-lvl1-lvl11-2].
 
 [^annex4-lvlu1-lvl1-lvl11-1]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
-[^annex4-lvlu1-lvl1-lvl11-2]: Durchführungsbeschluss (EU) 2018/1137 der Kommission vom 10. August 2018 betreffend Überwachung, Pflanzengesundheitskontrollen und zu ergreifende Massnahmen bei Holzverpackungsmaterial für den Transport von Waren mit Ursprung in bestimmten Drittländern, ABl. L 205 vom 14.8.2018, S. 54.
+[^annex4-lvlu1-lvl1-lvl11-2]: Durchführungsverordnung (EU) 2021/127 der Kommission vom 3. Februar 2021 zur Festlegung der Anforderungen an das Einführen von Verpackungsmaterial aus Holz für die Beförderung bestimmter Waren mit Ursprung in bestimmten Drittländern in das Gebiet der Union und für Pflanzengesundheitskontrollen bei diesem Material sowie zur Aufhebung des Durchführungsbeschlusses (EU) 2018/1137, Fassung gemäss ABl. L 40 vom 4.2.2021, S. 3.
 
 ### 1.2 Besondere Bestimmungen
 
-- 1\.2.1 Wo gemäss dem Durchführungsbeschluss (EU) 2018/1137 von Holzverpackungsmaterial mit Ursprung in China die Rede ist, ist darunter in dieser Verordnung Holzverpackungsmaterial aus Drittländern gemäss Artikel 2 Buchstabe k PGesV zu verstehen.
-- 1\.2.2 Wo gemäss dem Durchführungsbeschluss (EU) 2018/1137 die Zuständigkeit bei den Mitgliedstaaten liegt, ist in der Schweiz der Eidgenössische Pflanzenschutzdienst (EPSD) zuständig.
+- 1\.2.1 Wo gemäss der Durchführungsverordnung (EU) 2021/127 von Holzverpackungsmaterial mit Ursprung in Belarus, China, und Indien die Rede ist, ist darunter in dieser Verordnung Holzverpackungsmaterial aus Drittländern gemäss Artikel 2 Buchstabe k PGesV zu verstehen.
+- 1\.2.2 Wo gemäss der Durchführungsverordnung (EU) 2021/127 die Zuständigkeit bei den zuständigen Behörden liegt, ist in der Schweiz der Eidgenössische Pflanzenschutzdienst (EPSD) zuständig.
 - 1\.2.3 Waren gemäss Ziffer 1.2.8, die mit Holzverpackungsmaterial eingeführt werden, müssen zwei Arbeitstage vor der Einfuhr dem EPSD angemeldet werden. Sie sind so lange für den Verkauf und die Verteilung gesperrt, bis die Kontrolle des EPSD ergeben hat, dass das Holzverpackungsmaterial befallsfrei ist und die Anforderungen nach Anhang 7 Ziffern 9–14 PGesV-WBF-UVEK erfüllt sind.
 - 1\.2.4 Verpackungseinheiten sind mit dem Originalsiegel versehen zwischenzulagern.
 - 1\.2.5 Die Waren mit Holzverpackungsmaterial sind so zwischenzulagern, dass die Kontrolleure des EPSD ungehinderten Zugang zur Verpackungseinheit und deren Inhalt haben.
@@ -313,7 +287,7 @@ Zum Schutz gegen die Einschleppung und Ausbreitung von Schadorganismen nach Anha
   - b. in den übrigen Fällen: innerhalb von zwei Arbeitstagen nach Eintreffen der Ware am Kontrollort.
 
 - 1\.2.7 Der EPSD gibt das Lieferungslos schriftlich für die Verteilung oder den Verkauf frei, wenn die Kontrolle keine Beanstandung ergeben hat.
-- 1\.2.8 Anstelle von Anhang I des Durchführungsbeschlusses (EU) 2018/1137 gilt die folgende Tabelle:
+- 1\.2.8 Anstelle des Anhangs der Durchführungsverordnung (EU) 2021/127 gilt die folgende Tabelle:
 
 <table>
 <tr><th>HS-Code/Zolltarifnummer</th><th>Warenbezeichnung</th></tr>
@@ -323,7 +297,7 @@ Zum Schutz gegen die Einschleppung und Ausbreitung von Schadorganismen nach Anha
 <tr><td>2515</td><td>Marmor, Travertin, Ecaussine und andere Werk- oder Hausteine aus Kalkstein mit einem augenscheinlichen Schüttgewicht von 2,5 oder mehr und Alabaster, auch grob behauen oder durch Sägen oder auf andere Weise lediglich zerteilt, in Blöcken oder in quadratischen oder rechteckigen Platten</td></tr>
 <tr><td>2516</td><td>Granit, Porphyr, Basalt, Sandstein und andere Werk- oder Hausteine, auch grob behauen oder durch Sägen oder auf andere Weise lediglich zerteilt, in Blöcken oder in quadratischen oder rechteckigen Platten</td></tr>
 <tr><td>2517</td><td>Steine, Kies, zerkleinerte Steine, der gewöhnlich zum Betonieren oder zur Beschotterung im Strassen- oder Bahnbau oder zu anderen Beschotterungen verwendeten Art, Kiesel und Feuerstein (Flint), auch wärmebehandelt; Makadam aus Schlacke oder ähnlichen Industrieabfällen, auch im ersten Teil dieser Nummer erfasste Stoffe enthaltend; Teermakadam; Körner, Splitt und Pulver von Steinen der Nrn. 2515 oder 2516, auch wärmebehandelt</td></tr>
-<tr><td>2518</td><td>Dolomit, auch gesintert oder gebrannt, einschliesslich Dolomit, grob behauen oder durch Sägen oder auf andere Weise lediglich zerteilt, in Blöcken oder in quadratischen oder rechteckigen Platten; Dolomitstampfmasse</td></tr>
+<tr><td>2518</td><td>Dolomit, auch gesintert oder gebrannt, einschliesslich Dolomit, grob behauen oder durch Sägen oder auf andere Weise lediglich zerteilt, in Blöcken oder in quadratischen oder rechteckigen Platten</td></tr>
 <tr><td>2521</td><td>Kalksteine, wie sie üblicherweise als Hochofenzuschläge oder zum Herstellen von Kalk oder Zement verwendet werden</td></tr>
 <tr><td>2526</td><td>Natürlicher Speckstein, auch grob behauen oder durch Sägen oder auf andere Weise lediglich zerteilt, in Blöcken oder in quadratischen oder rechteckigen Platten; Talk</td></tr>
 <tr><td></td><td>Holz, Holzkohle und Holzwaren</td></tr>
@@ -331,12 +305,8 @@ Zum Schutz gegen die Einschleppung und Ausbreitung von Schadorganismen nach Anha
 <tr><td>4415</td><td>Kisten, Kistchen, Verschläge, Trommeln und ähnliche Verpackungsmittel, aus Holz; Kabeltrommeln (Haspel) aus Holz; Paletten, Boxpaletten und andere Ladeplatten, aus Holz; Palettenrahmen aus Holz</td></tr>
 <tr><td>4418</td><td>Bauschreiner- und Zimmermannsarbeiten, einschliesslich Verbundplatten mit Hohlraum-Mittellage, zusammengesetzte Fussbodenplatten und Schindeln, aus Holz</td></tr>
 <tr><td>4421</td><td>Andere Waren aus Holz</td></tr>
-<tr><td></td><td>Kork und Korkwaren</td></tr>
-<tr><td>4504</td><td>Presskork (mit oder ohne Bindemittel hergestellt) und Waren aus Presskork</td></tr>
 <tr><td></td><td>Papiere und Pappen; Waren aus Papierhalbstoff, Papier oder Pappe</td></tr>
 <tr><td>4823</td><td>Andere Papiere, Pappen, Zellstoffwatte und Vliese aus Zellstofffasern, auf Format zugeschnitten; andere Waren aus Papierhalbstoff, Papier, Pappe, Zellstoffwatte oder Vliesen aus Zellstofffasern</td></tr>
-<tr><td></td><td>Kopfbedeckungen und Teile davon</td></tr>
-<tr><td>6501</td><td>Hutstumpen, weder geformt noch mit Randbearbeitung, Hutplatten, Manchons (Zylinder) auch aufgeschnitten, aus Filz, zum Herstellen von Hüten</td></tr>
 <tr><td></td><td>Waren aus Steinen, Gips, Zement, Asbest, Glimmer oder ähnlichen Stoffen</td></tr>
 <tr><td>6801</td><td>Pflastersteine, Bordsteine und Pflasterplatten, aus Naturstein (ausgenommen Schiefer)</td></tr>
 <tr><td>6802</td><td>Bearbeitete Werk- oder Hausteine (andere als Schiefer) und Waren daraus, ausgenommen solche der Nr. 6801; Würfel, Steinchen und ähnliche Waren für Mosaike, aus Naturstein (einschliesslich Schiefer), auch auf Unterlage; Körner, Splitter und Pulver von Naturstein (einschliesslich Schiefer), künstlich gefärbt</td></tr>
@@ -362,41 +332,21 @@ Zum Schutz gegen die Einschleppung und Ausbreitung von Schadorganismen nach Anha
 <tr><td>7007</td><td>Sicherheitsglas, aus gehärtetem Glas oder mehrschichtigem Glas (Verbundglas)</td></tr>
 <tr><td>7008</td><td>Isolierverglasungen, mehrschichtig</td></tr>
 <tr><td>7009</td><td>Spiegel aus Glas, auch gerahmt, einschliesslich Rückspiegel</td></tr>
-<tr><td></td><td>Echte Perlen oder Zuchtperlen, Edelsteine, Schmucksteine oder dergleichen, Edelmetalle, Edelmetallplattierungen und Waren daraus; Phantasieschmuck; Münzen</td></tr>
-<tr><td>7108</td><td>Gold (einschliesslich platiniertes Gold), in Rohform oder in Form von Halbzeug oder Pulver</td></tr>
-<tr><td>7110</td><td>Platin, in Rohform oder in Form von Halbzeug oder Pulver</td></tr>
 <tr><td></td><td>Eisen und Stahl</td></tr>
 <tr><td>7210</td><td>Flachgewalzte Erzeugnisse aus Eisen oder nicht legiertem Stahl, mit einer Breite von 600 mm oder mehr, plattiert oder überzogen</td></tr>
-<tr><td></td><td>Waren aus Gusseisen, Eisen oder Stahl</td></tr>
-<tr><td>7303</td><td>Rohre und Hohlprofile, aus Gusseisen</td></tr>
-<tr><td>7304</td><td>Rohre und Hohlprofile, nahtlos, aus Eisen oder Stahl</td></tr>
-<tr><td>7305</td><td>Andere Rohre (z.B. geschweisst oder genietet), mit kreisförmigem Querschnitt, mit einem äusseren Durchmesser von mehr als 406,4 mm, aus Eisen oder Stahl</td></tr>
-<tr><td>7306</td><td>Andere Rohre und Hohlprofile (z.B. geschweisst, genietet, gefalzt oder mit einfach aneinandergefügten Rändern), aus Eisen oder Stahl</td></tr>
-<tr><td>7307</td><td>Zubehör zu Rohren (z.B. Verbindungsstücke, Kniestücke, Muffen), aus Gusseisen, Eisen oder Stahl</td></tr>
-<tr><td>7313</td><td>Stacheldraht aus Eisen oder Stahl; verwundene Drähte oder Bänder, auch mit Stacheln, aus Eisen oder Stahl, der für Zäune oder Einfriedungen verwendeten Art</td></tr>
-<tr><td>7317</td><td>Stifte, Nägel, Reissnägel, zugespitzte Krampen, gewellte oder abgeschrägte Klammern und ähnliche Waren, aus Gusseisen, Eisen oder Stahl, auch mit Kopf aus anderen Stoffen, ausgenommen solche mit Kopf aus Kupfer</td></tr>
-<tr><td>7318</td><td>Schrauben, Bolzen, Muttern, Schwellenschrauben, Hakenschrauben, Nieten, Splinte, Keile, Unterlegscheiben (einschliesslich Federringscheiben) und ähnliche Waren, aus Gusseisen, Eisen oder Stahl</td></tr>
 <tr><td></td><td>Kupfer und Waren daraus</td></tr>
 <tr><td>7411</td><td>Rohre aus Kupfer</td></tr>
 <tr><td>7412</td><td>Zubehör zu Rohren (z.B. Verbindungsstücke, Kniestücke, Muffen), aus Kupfer</td></tr>
 <tr><td>7415</td><td>Stifte, Nägel, Reissnägel, zugespitzte Krampen und ähnliche Waren, aus Kupfer oder mit Schaft aus Eisen oder Stahl und Kopf aus Kupfer; Schrauben, Bolzen, Muttern, Hakenschrauben, Nieten, Splinte, Stifte, Keile, Unterlegscheiben (einschliesslich Federringscheiben) und ähnliche Waren, aus Kupfer</td></tr>
 <tr><td></td><td>Aluminium und Waren daraus</td></tr>
+<tr><td>7606</td><td>Bleche und Bänder, aus Aluminium, mit einer Dicke von mehr als 0,2 mm</td></tr>
 <tr><td>7608</td><td>Rohre aus Aluminium</td></tr>
 <tr><td>7609</td><td>Zubehör zu Rohren (z.B. Verbindungsstücke, Kniestücke, Muffen), aus Aluminium</td></tr>
-<tr><td></td><td>Andere unedle Metalle; Cermets; Waren aus diesen Stoffen</td></tr>
-<tr><td>8101</td><td>Wolfram und Waren daraus, einschliesslich Abfälle und Schrott</td></tr>
-<tr><td>8102</td><td>Molybdän und Waren daraus, einschliesslich Abfälle und Schrott</td></tr>
-<tr><td></td><td>Werkzeuge, Messerschmiedewaren, Essbestecke, aus unedlen Metallen; Teile von diesen Waren, aus unedlen Metallen</td></tr>
-<tr><td>8205</td><td>Handwerkzeuge (einschliesslich Glasschneidediamanten) anderweit weder genannt noch inbegriffen; Lötlampen und dergleichen; Schraubstöcke, Schraubzwingen und dergleichen, andere als solche, die Zubehör oder Teile von Werkzeugmaschinen oder Wasserstrahlschneidemaschinen darstellen; Ambosse; tragbare Feldschmieden; Schleifapparate für Hand- oder Fussbetrieb</td></tr>
 <tr><td></td><td>Kernreaktoren, Kessel, Maschinen, Apparate und mechanische Geräte; Teile dieser Maschinen oder Apparate</td></tr>
 <tr><td>8407</td><td>Hubkolben- oder Kreiskolbenmotoren mit Funkenzündung (Verbrennungsmotoren)</td></tr>
 <tr><td>8424</td><td>Mechanische Apparate (auch handbetrieben) zum Verteilen, Verspritzen oder Zerstäuben von Flüssigkeiten oder Pulver; Feuerlöscher, auch mit Füllung; Spritzpistolen und ähnliche Apparate; Sandstrahlmaschinen, Dampfstrahlapparate und dergleichen</td></tr>
 <tr><td>8465</td><td>Werkzeugmaschinen (einschliesslich Maschinen zum Nageln, Heften, Verleimen oder anderweitigem Zusammenfügen) zum Bearbeiten von Holz, Kork, Bein, Hartkautschuk, harten Kunststoffen oder ähnlichen harten Stoffen</td></tr>
 <tr><td>8467</td><td>Von Hand zu führende, pneumatisch, hydraulisch oder mit eingebautem Motor (elektrisch oder nichtelektrisch) betriebene Werkzeuge</td></tr>
-<tr><td></td><td>Elektrische Maschinen und Apparate und andere elektrotechnische Waren sowie Teile davon; Tonaufnahme- oder Tonwiedergabegeräte, Fernsehbild- und Fernsehtonaufzeichnungs- oder -wiedergabegeräte sowie Teile und Zubehör für diese Geräte</td></tr>
-<tr><td>8544</td><td>Isolierte (auch lackisolierte oder elektrolytisch oxidierte) Drähte, Kabel (einschliesslich Koaxialkabel) und andere isolierte Leiter für die Elektrotechnik, auch mit Anschlussstücken; Kabel aus optischen, einzeln umhüllten Fasern, auch elektrische Leiter enthaltend oder mit Anschlussstücken versehen:</td></tr>
-<tr><td></td><td>Automobile, Traktoren, Motorräder, Fahrräder und andere Landfahrzeuge; Teile und Zubehör dazu</td></tr>
-<tr><td>8708</td><td>Teile und Zubehör für Motorfahrzeuge der Nrn. 8701 bis 8705</td></tr>
 </table>
 
 ### 2 *Anoplophora chinensis* (Forster)

@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFEV sur les mesures phytosanitaires au profit de la for
 short: OMP-OFEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/825"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2017-11-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/825/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-825-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/825/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-825-20220101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20210101/fr"
 
 (OMP-OFEV)
 
-du 29 novembre 2017 (Etat le 1<sup>er</sup> janvier 2021)
+du 29 novembre 2017 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Office fédéral de l’environnement (OFEV),
 
@@ -53,20 +53,19 @@ Les marchandises dont l’importation en provenance de pays tiers est soumise à
 
 #### Art. 3
 
-**Mesures contre de nouveaux organismes nuisibles**[^3-1]
+**Mesures contre les organismes de quarantaine potentiels**[^3-1]
 
-Les mesures contre l’introduction et la propagation de nouveaux organismes nuisibles pouvant se révéler particulièrement dangereux qui ne figurent pas à l’annexe 1 OSaVé-DEFR-DETEC[^3-2] sont indiquées à l’annexe 3.
+Les mesures contre l’introduction et la propagation d’organismes de quarantaine potentiels sont indiquées à l’annexe 3.
 
-[^3-1]: Nouvelle teneur selon le ch. I de l’O de l’OFEV du 17 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)).
-[^3-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^3-1]: Nouvelle teneur selon le ch. I de l’O de l’OFEV du 30 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
 
 #### Art. 4
 
 **Mesures particulières en cas de risque phytosanitaire accru**[^4-1]
 
-Les mesures particulières qui doivent être prises en cas de risque phytosanitaire accru pour éviter l’introduction et la propagation de certains organismes nuisibles visés à l’annexe 1 OSaVé-DEFR-DETEC[^4-2] sont indiquées à l’annexe 4.
+Les mesures particulières qui doivent être prises en cas de risque phytosanitaire accru pour éviter l’introduction et la propagation d’organismes de quarantaine visés à l’annexe 1 OSaVé-DEFR-DETEC[^4-2] sont indiquées à l’annexe 4.
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O de l’OFEV du 19 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)).
+[^4-1]: Nouvelle teneur selon le ch. I de l’O de l’OFEV du 30 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
 [^4-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
 
 #### Art. 5
@@ -148,20 +147,9 @@ Annexe 2*[^t-2]*
 
 ## Marchandises faisant l’objet d’une dérogation temporaire à l’interdiction d’importation, conditions d’importation et durée de la levée de ladite interdiction
 
-[^t-2]: Mise à jour par le ch. II al. 2 de l’O de l’OFEV du 19 nov. 2019 ([RO 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)) et par le ch. II al. 1 de l’O de l’OFEV du 17 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)).
+[^t-2]: Mise à jour par le ch. II al. 2 de l’O de l’OFEV du 19 nov. 2019 ([RO 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)), le ch. II al. 1 de l’O de l’OFEV du 17 nov. 2020 ([RO 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)) et le ch. II de l’O de l’OFEV du 30 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
 
-### 1 Végétaux de *Chamaecyparis* Spach, *Juniperus* L. et *Pinus* L. originaires de la République de Corée et dont la croissance est inhibée naturellement ou artificiellement
-
-### 1.1 Levée temporaire de l’interdiction d’importation
-
-Les végétaux de *Chamaecyparis* Spach, *Juniperus* L. et *Pinus* L. originaires de la République de Corée, à l’exception des fruits et semences, font l’objet d’une dérogation temporaire à l’interdiction d’importation si les conditions suivantes sont remplies:
-
-- a. l’importateur dispose d’un local approprié pour la quarantaine à l’importation visée à l’annexe, ch. 10, de la décision 2002/499/CE[^annex2-lvlu1-lvl1-lvl11-1];
-- b. le fournisseur figure sur la liste des pépinières autorisées pour l’exportation vers l’Europe mise à jour annuellement par la République de Corée conformément à l’annexe, ch. 3, de la décision 2002/499/CE;
-- c. les végétaux répondent aux exigences fixées à l’annexe de la décision 2002/499/CE en plus de celles fixées à l’annexe 7, ch. 30, OSaVé-DEFR-DETEC[^annex2-lvlu1-lvl1-lvl11-2].
-
-[^annex2-lvlu1-lvl1-lvl11-1]: Décision 2002/499/CE de la Commission du 26 juin 2002 autorisant des dérogations à certaines dispositions de la directive 2000/29/CE du Conseil pour les végétaux de *Chamaecyparis* Spach, *Juniperus* L. et *Pinus* L. originaires de la République de Corée et dont la croissance est inhibée naturellement ou artificiellement, JO L 168 du 27.6.2010, p. 53; modifiée en dernier lieu par la décision 2010/646/UE,JO L 281 du 27.10.2010, p. 98.
-[^annex2-lvlu1-lvl1-lvl11-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+### 1 …
 
 ### 1.2 Annonce d’un envoi d’importation
 
@@ -177,15 +165,16 @@ Lorsque les États membressont compétentsen vertu de la décision 2002/499/CE, 
 
 ### 2. Végétaux de *Chamaecyparis* Spach, *Juniperus* L. et *Pinus* L. originaires du Japon et dont la croissance est inhibée naturellement ou artificiellement
 
-### 2.1 Levée temporaire de l’interdiction d’importation
+### 2.1 Dérogation temporaire à l’interdiction d’importation
 
 Les végétaux visés à l’art. 1 du règlement d’exécution (UE) 2020/1217[^annex2-lvlu1-lvl2-lvl21-1] originaires du Japon font l’objet d’une dérogation temporaire à l’interdiction d’importation si les conditions suivantes sont remplies:
 
 - a. l’importateur dispose d’un local approprié pour la quarantaine à l’importation visée à l’annexe, ch. 10, du règlement d’exécution (UE) 2020/1217;
 - b. le fournisseur figure sur la liste des pépinières autorisées pour l’exportation vers l’Europe mise à jour annuellement par le Japon conformément à l’annexe, ch. 3, du règlement d’exécution (UE) 2020/1217;
-- c. les végétaux répondent aux exigences fixées à l’annexe du règlement d’exécution (UE) 2020/1217 en plus de celles fixées à l’annexe 7, ch. 30, OSaVé-DEFR-DETEC.
+- c. les végétaux répondent aux exigences fixées à l’annexe du règlement d’exécution (UE) 2020/1217 en plus de celles fixées à l’annexe 7, ch. 30, OSaVé-DEFR-DETEC[^annex2-lvlu1-lvl2-lvl21-2].
 
 [^annex2-lvlu1-lvl2-lvl21-1]: Règlement d’exécution (UE) 2020/1217 de la Commission du 25 août 2020 relatif à une dérogation au règlement d’exécution (UE) 2019/2072 en ce qui concerne l’introduction dans l’Union de végétaux dont la croissance est inhibée naturellement ou artificiellement destinés à la plantation, de *Chamaecyparis* Spach, de *Juniperus* L. et de certaines espèces de *Pinus* L., originaires du Japon, et abrogeant la décision 2002/887/CE, version du JO L 277 du 26.8.2020, p. 6.
+[^annex2-lvlu1-lvl2-lvl21-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
 
 ### 2.2 Annonce d’un envoi d’importation
 
@@ -258,12 +247,9 @@ Annexe 3*[^t-4]*
 
 (art. 3)
 
-## Mesures contre l’introduction et la propagation de nouveaux organismes nuisibles pouvant s’avérer particulièrement dangereux qui ne figurent pas à l’annexe 1 OSaVé-DEFR-DETEC****
+## Mesures contre l’introduction et la propagation d’organismes de quarantaine potentiels
 
-[^annex3-lvlu1-1]
-
-[^t-4]: Mise à jour par le ch. II al. 2 de l’O de l’OFEV du 19 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)).
-[^annex3-lvlu1-1]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^t-4]: Mise à jour par le ch. II al. 2 de l’O de l’OFEV du 19 nov. 2019 ([RO 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)) et le ch. II de l’O de l’OFEV du 30 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
 
 ### 1 *Phytophthora ramorum* Werres, De Cock & Man in ’t Veld sp. nov.
 
@@ -289,21 +275,21 @@ Annexe 4*[^t-5]*
 
 ## Mesures particulières contre l’introduction et la propagation des organismes nuisibles visés à l’annexe 1 OSaVé-DEFR-DETEC en cas de risque phytosanitaire accru
 
-[^t-5]: Nouvelle teneur selon le ch. II al. 1 de l’O de l’OFEV du 19 nov. 2019 ([RO 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Mise à jour par le ch. II al. 1 de l’O de l’OFEV du 17 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)).
+[^t-5]: Nouvelle teneur selon le ch. II al. 1 de l’O de l’OFEV du 19 nov. 2019 ([RO 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Mise à jour par le ch. II al. 1 de l’O de l’OFEV du 17 nov. 2020 ([RO 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)) et le ch. II de l’O de l’OFEV du 30 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
 
 ### 1 Marchandises emballées dans du matériel en bois en provenance de pays tiers
 
 ### 1.1 Mesures contre l’introduction et la propagation
 
-Afin de prévenir l’introduction et la propagation des organismes nuisibles visés à l’annexe 1 OSaVé-DEFR-DETEC[^annex4-lvlu1-lvl1-lvl11-1], les art. 1 à 5 de la décision d’exécution (UE) 2018/1137[^annex4-lvlu1-lvl1-lvl11-2] s’appliquent en cas de risque phytosanitaire accru lors de l’importation de marchandises emballées dans du matériel en bois en provenance de pays tiers.
+Afin de prévenir l’introduction et la propagation d’organismes de quarantaine visés à l’annexe 1 OSaVé-DEFR-DETEC[^annex4-lvlu1-lvl1-lvl11-1], les art. 1 à 4 du règlement d’exécution (UE) 2021/127[^annex4-lvlu1-lvl1-lvl11-2] s’appliquent en cas de risque phytosanitaire accru lors de l’importation de marchandises emballées dans du matériel en bois en provenance de pays tiers.
 
 [^annex4-lvlu1-lvl1-lvl11-1]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
-[^annex4-lvlu1-lvl1-lvl11-2]: Décision d’exécution (UE) 2018/1137 de la Commission du 10 août 2018 relative à la surveillance, aux contrôles phytosanitaires et aux mesures à prendre en ce qui concerne le matériel d’emballage en bois utilisé pour le transport de marchandises en provenance de certains pays tiers, JO L 205 du 14.8.2018, p. 54.
+[^annex4-lvlu1-lvl1-lvl11-2]: Règlement d’exécution (UE) 2021/127 de la Commission du 3 février 2021 fixant les exigences relatives à l’introduction sur le territoire de l’Union de matériaux d’emballage en bois destinés au transport de certaines marchandises originaires de certains pays tiers et aux contrôles phytosanitaires sur ces matériaux, et abrogeant la décision d’exécution (UE) 2018/1137, version du JO L 40 du 4.2.2021, p. 3.
 
 ### 1.2 Dispositions particulières
 
-- 1\.2.1 Lorsqu’il est question, dans la décision d’exécution (UE) 2018/1137, de matériel d’emballage en bois en provenance de Chine, cette expression correspond, dans la présente ordonnance, à du matériel d’emballage en bois en provenance des pays tiers visés à l’art. 2, let. k, OSaVé.
-- 1\.2.2 Lorsque les états membres sont compétents en vertu de la décision d’exécution (UE) 2018/1137, c’est le Service phytosanitaire fédéral (SPF) qui exerce cette fonction en Suisse.
+- 1\.2.1 Lorsqu’il est question, dans le règlement d’exécution (UE) 2021/127, de matériel d’emballage en bois en provenance du Bélarus, de Chine et d’Inde, cette expression correspond, dans la présente ordonnance, à du matériel d’emballage en bois en provenance des pays tiers visés à l’art. 2, let. k, OSaVé.
+- 1\.2.2 Lorsque les autorités sont compétentes en vertu du règlement d’exécution (UE) 2021/127, c’est le Service phytosanitaire fédéral (SPF) qui exerce cette fonction en Suisse.
 - 1\.2.3 Les marchandises visées au ch. 1.2.8 et importées dans du matériel d’emballage en bois doivent être annoncées au SPF deux jours ouvrés avant leur importation. Leur vente et leur distribution sont bloquées jusqu’à ce que le contrôle par le SPF ait établi que le matériel d’emballage en bois n’est pas contaminé et qu’il répond aux exigences définies à l’annexe 7, ch. 9 à 14, OSaVé-DEFR-DETEC.
 - 1\.2.4 Les lots d’emballages doivent être entreposés avec leur scellé d’origine.
 - 1\.2.5 Les marchandises emballées dans du matériel en bois doivent être entreposées de manière à ce que les lots d’emballage et leur contenu soient accessibles sans obstacle aux contrôleurs du SPF.
@@ -315,7 +301,7 @@ Afin de prévenir l’introduction et la propagation des organismes nuisibles vi
   - b. dans les autres cas: dans un délai de deux jours ouvrés suivant l’arrivée des marchandises sur le lieu du contrôle.
 
 - 1\.2.7 Si le contrôle ne donne lieu à aucune réserve, le SPF autorise par écrit la distribution ou la vente du lot de livraison.
-- 1\.2.8 Le tableau suivant remplace l’annexe I de la décision d’exécution (UE) 2018/1137:
+- 1\.2.8 Le tableau suivant remplace l’annexe du règlement d’exécution (UE) 2021/127:
 
 <table>
 <tr><th>Code SH/numéro de tarif douanier</th><th>Désignation des marchandises</th></tr>
@@ -325,7 +311,7 @@ Afin de prévenir l’introduction et la propagation des organismes nuisibles vi
 <tr><td>2515</td><td>Marbres, travertins, écaussines et autres pierres calcaires de taille ou de construction d’une densité apparente égale ou supérieure à 2,5, et albâtre, même dégrossis ou simplement débités, par sciage ou autrement, en blocs ou en plaques de forme carrée ou rectangulaire</td></tr>
 <tr><td>2516</td><td>Granit, porphyre, basalte, grès et autres pierres de taille ou de construction, même dégrossis ou simplement débités, par sciage ou autrement, en blocs ou en plaques de forme carrée ou rectangulaire</td></tr>
 <tr><td>2517</td><td>Cailloux, graviers, pierres concassées, des types généralement utilisés pour le bétonnage ou pour l’empierrement des routes, des voies ferrées ou autres ballasts, galets et silex, même traités thermiquement; macadam de laitier, de scories ou de déchets industriels similaires, même comprenant des matières indiquées dans la première partie du libellé; tarmacadam; granulés, éclats et poudres de pierres des n<sup>os</sup> 2515 ou 2516, même traités thermiquement</td></tr>
-<tr><td>2518</td><td>Dolomie, même frittée ou calcinée, y compris la dolomie dégrossie ou simplement débitée, par sciage ou autrement, en blocs ou en plaques de forme carrée ou rectangulaire; pisé de dolomie</td></tr>
+<tr><td>2518</td><td>Dolomie, même frittée ou calcinée, y compris la dolomie dégrossie ou simplement débitée, par sciage ou autrement, en blocs ou en plaques de forme carrée ou rectangulaire</td></tr>
 <tr><td>2521</td><td>Castines; pierres à chaux ou à ciment</td></tr>
 <tr><td>2526</td><td>Stéatite naturelle, même dégrossie ou simplement débitée par sciage ou autrement, en blocs ou en plaques de forme carrée ou rectangulaire; talc</td></tr>
 <tr><td></td><td>Bois, charbon de bois et ouvrages en bois</td></tr>
@@ -333,12 +319,8 @@ Afin de prévenir l’introduction et la propagation des organismes nuisibles vi
 <tr><td>4415</td><td>Caisses, caissettes, cageots, cylindres et emballages similaires, en bois; tambours (tourets) pour câbles, en bois; palettes simples, palettes-caisses et autres plateaux de chargement, en bois; rehausses de palettes en bois</td></tr>
 <tr><td>4418</td><td>Ouvrages de menuiserie et pièces de charpente pour construction, y compris les panneaux cellulaires, les panneaux assemblés pour revêtement de sol et les bardeaux («shingles» et «shakes»), en bois</td></tr>
 <tr><td>4421</td><td>Autres ouvrages en bois</td></tr>
-<tr><td></td><td>Liège et ouvrages en liège</td></tr>
-<tr><td>4504</td><td>Liège aggloméré (avec ou sans liant) et ouvrages en liège aggloméré</td></tr>
 <tr><td></td><td>Papiers et cartons; ouvrages en pâte de cellulose, en papier ou en carton</td></tr>
 <tr><td>4823</td><td>Autres papiers, cartons, ouate de cellulose et nappes de fibres de cellulose découpés à format; autres ouvrages en pâte à papier, papier, carton, ouate de cellulose ou nappes de fibres de cellulose</td></tr>
-<tr><td></td><td>Coiffures et parties de coiffures</td></tr>
-<tr><td>6501</td><td>Cloches non dressées (mises en forme) ni tournurées (mises en tournure), plateaux (disques), manchons (cylindres) même fendus dans le sens de la hauteur, en feutre, pour chapeaux</td></tr>
 <tr><td></td><td>Ouvrages en pierres, plâtre, ciment, amiante, mica ou matières analogues</td></tr>
 <tr><td>6801</td><td>Pavés, bordures de trottoirs et dalles de pavage, en pierres naturelles (autres que l’ardoise)</td></tr>
 <tr><td>6802</td><td>Pierres de taille ou de construction (autres que l’ardoise) travaillées et ouvrages en ces pierres, à l’exclusion de ceux du n<sup>o</sup> 6801; cubes, dés et articles similaires pour mosaïques, en pierres naturelles (y compris l’ardoise), même sur support; granulés, éclats et poudres de pierres naturelles (y compris l’ardoise), colorés artificiellement</td></tr>
@@ -364,41 +346,21 @@ Afin de prévenir l’introduction et la propagation des organismes nuisibles vi
 <tr><td>7007</td><td>Verre de sécurité, consistant en verres trempés ou formés de feuilles contre-collées</td></tr>
 <tr><td>7008</td><td>Vitrages isolants à parois multiples</td></tr>
 <tr><td>7009</td><td>Miroirs en verre, même encadrés, y compris les miroirs rétroviseurs</td></tr>
-<tr><td></td><td>Perles fines ou de culture, pierres gemmes ou similaires, métaux précieux, plaqués ou doublés de métaux précieux et ouvrages en ces matières; bijouterie de fantaisie; monnaies</td></tr>
-<tr><td>7108</td><td>Or (y compris l’or platiné), sous formes brutes ou mi-ouvrées, ou en poudre</td></tr>
-<tr><td>7110</td><td>Platine, sous formes brutes ou mi-ouvrées, ou en poudre</td></tr>
 <tr><td></td><td>Fonte, fer et acier</td></tr>
 <tr><td>7210</td><td>Produits laminés plats, en fer ou en aciers non alliés, d’une largeur de 600 mm ou plus, plaqués ou revêtus</td></tr>
-<tr><td></td><td>Ouvrages en fonte, fer ou acier</td></tr>
-<tr><td>7303</td><td>Tubes, tuyaux et profilés creux, en fonte</td></tr>
-<tr><td>7304</td><td>Tubes, tuyaux et profilés creux, sans soudure, en fer ou en acier</td></tr>
-<tr><td>7305</td><td>Autres tubes et tuyaux (soudés ou rivés, par exemple), de section circulaire, d’un diamètre extérieur excédant 406,4 mm, en fer ou en acier</td></tr>
-<tr><td>7306</td><td>Autres tubes, tuyaux et profilés creux (soudés, rivés, agrafés ou à bords simplement rapprochés, par exemple), en fer ou en acier</td></tr>
-<tr><td>7307</td><td>Accessoires de tuyauterie (raccords, coudes, manchons, par exemple), en fonte, fer ou acier</td></tr>
-<tr><td>7313</td><td>Ronces artificielles en fer ou en acier; torsades, barbelées ou non, en fil ou en feuillard de fer ou d’acier, des types utilisés pour les clôtures</td></tr>
-<tr><td>7317</td><td>Pointes, clous, punaises, crampons appointés, agrafes ondulées ou biseautées et articles similaires, en fonte, fer ou acier, même avec tête en autre matière, à l’exclusion de ceux avec tête en cuivre</td></tr>
-<tr><td>7318</td><td>Vis, boulons, écrous, tire-fond, crochets à pas de vis, rivets, goupilles, chevilles, clavettes, rondelles (y compris les rondelles destinées à faire ressort) et articles similaires, en fonte, fer ou acier</td></tr>
 <tr><td></td><td>Cuivre et ouvrages en cuivre</td></tr>
 <tr><td>7411</td><td>Tubes et tuyaux en cuivre</td></tr>
 <tr><td>7412</td><td>Accessoires de tuyauterie (raccords, coudes, manchons, par exemple), en cuivre</td></tr>
 <tr><td>7415</td><td>Pointes, clous, punaises, crampons appointés et articles similaires, en cuivre ou avec tige en fer ou en acier et tête en cuivre; vis, boulons, écrous, crochets à pas de vis, rivets, goupilles, chevilles, clavettes, rondelles (y compris les rondelles destinées à faire ressort) et articles similaires, en cuivre</td></tr>
 <tr><td></td><td>Aluminium et ouvrages en aluminium</td></tr>
+<tr><td>7606</td><td>Tôles et bandes en aluminium, d’une épaisseur supérieure à 0,2 mm</td></tr>
 <tr><td>7608</td><td>Tubes et tuyaux en aluminium</td></tr>
 <tr><td>7609</td><td>Accessoires de tuyauterie (raccords, coudes, manchons, par exemple), en aluminium</td></tr>
-<tr><td></td><td>Autres métaux communs; cermets; ouvrages en ces matières</td></tr>
-<tr><td>8101</td><td>Tungstène (wolfram) et ouvrages en tungstène, y compris les déchets et débris</td></tr>
-<tr><td>8102</td><td>Molybdène et ouvrages en molybdène, y compris les déchets et débris</td></tr>
-<tr><td></td><td>Outils et outillage, articles de coutellerie et couverts de table, en métaux communs; parties de ces articles, en métaux communs</td></tr>
-<tr><td>8205</td><td>Outils et outillage à main (y compris les diamants de vitriers) non dénommés ni compris ailleurs; lampes à souder et similaires; étaux, serre-joints et similaires, autres que ceux constituant des accessoires ou des parties de machines-outils ou de machines à découper par jet d’eau; enclumes; forges portatives; meules avec bâtis, à main ou à pédale</td></tr>
 <tr><td></td><td>Réacteurs nucléaires, chaudières, machines, appareils et engins mécaniques; parties de ces machines ou appareils</td></tr>
 <tr><td>8407</td><td>Moteurs à piston alternatif ou rotatif, à allumage par étincelles (moteurs à explosion)</td></tr>
 <tr><td>8424</td><td>Appareils mécaniques (même à main) à projeter, disperser ou pulvériser des matières liquides ou en poudre; extincteurs, même chargés; pistolets aérographes et appareils similaires; machines et appareils à jet de sable, à jet de vapeur et appareils à jet similaires</td></tr>
 <tr><td>8465</td><td>Machines-outils (y compris les machines à clouer, agrafer, coller ou autrement assembler) pour le travail du bois, du liège, de l’os, du caoutchouc durci, des matières plastiques dures ou matières dures similaires</td></tr>
 <tr><td>8467</td><td>Outils pneumatiques, hydrauliques ou à moteur (électrique ou non électrique) incorporé, pour emploi à la main</td></tr>
-<tr><td></td><td>Machines, appareils et matériels électriques et leurs parties; appareils d’enregistrement ou de reproduction du son, appareils d’enregistrement ou de reproduction des images et du son en télévision, et parties et accessoires de ces appareils</td></tr>
-<tr><td>8544</td><td>Fils, câbles (y compris les câbles coaxiaux) et autres conducteurs isolés pour l’électricité (même laqués ou oxydés anodiquement), munis ou non de pièces de connexion; câbles de fibres optiques, constitués de fibres gainées individuellement, même comportant des conducteurs électriques ou munis de pièces de connexion</td></tr>
-<tr><td></td><td>Voitures automobiles, tracteurs, cycles et autres véhicules terrestres, leurs parties et accessoires</td></tr>
-<tr><td>8708</td><td>Parties et accessoires des véhicules automobiles des n<sup>os</sup> 8701 à 8705</td></tr>
 </table>
 
 ### 2 *Anoplophora chinensis* (Forster)
@@ -479,7 +441,7 @@ Afin de prévenir l’introduction et la propagation de *Bursaphelenchus xylophi
 
 Afin de prévenir l’introduction et la propagation de *Fusarium circinatum* Nirenberg & O’Donnell (anciennement *Gibberella circinata*), les art. 1 à 12 de la décision d’exécution (UE) 2019/2032[^annex4-lvlu1-lvl5-lvl51-1] s’appliquent en cas de risque phytosanitaire accru.
 
-[^annex4-lvlu1-lvl5-lvl51-1]: Décision d’exécution (UE) 2019/2032 de la Commission du 26 novembre 2019 établissant des mesures destinées à prévenir l’introduction et la propagation dans l’Union de *Fusarium* *circinatum* Nirenberg & O’Donnell (anciennement *Gibberella circinata*) et abrogeant la décision 2007/433/CE, version du JO L 313 du 4.12.2019, p. 94.
+[^annex4-lvlu1-lvl5-lvl51-1]: Décision d’exécution (UE) 2019/2032 de la Commission du 26 novembre 2019 établissant des mesures destinées à prévenir l’introduction et la propagation dans l’Union de *Fusarium circinatum* Nirenberg & O’Donnell (anciennement *Gibberella circinata*) et abrogeant la décision 2007/433/CE, version du JO L 313 du 4.12.2019, p. 94.
 
 ### 5.2 Dispositions particulières
 
