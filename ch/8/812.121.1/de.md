@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Mai 2011 über die Betäubungsmittelkontrolle (Betäu
 short: BetmKV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/362"
 language: de
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20130101/de/xml/fedlex-data-admin-ch-eli-cc-2011-362-20130101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-362-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20130101/de"
 
 (Betäubungsmittelkontrollverordnung, BetmKV)
 
-vom 25. Mai 2011 (Stand am 1. Januar 2013)
+vom 25. Mai 2011 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -479,7 +479,9 @@ Die einmalige Einfuhrbewilligung gilt längstens vier Monate, die generelle Einf
 
 **Ort der Ein-, Aus- und Durchfuhr**
 
-Kontrollierte Substanzen müssen über die von der Zollverwaltung bezeichneten Zollstellen ein-, aus- oder durchgeführt werden.
+Kontrollierte Substanzen müssen über die vom Bundesamt für Zoll und Grenzsicherheit (BAZG)[^37-1] bezeichneten Zollstellen ein-, aus- oder durchgeführt werden.
+
+[^37-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 38
 
@@ -921,7 +923,7 @@ Es veröffentlicht Listen folgender zum Umgang mit kontrollierten Substanzen Ber
 
 <sup>1</sup> Das Institut kann bei Verdacht auf Unregelmässigkeiten die zuständigen kantonalen Behörden beauftragen, besondere Kontrollen durchzuführen, oder anstelle der zuständigen kantonalen Behörden die Kontrolle der Bewilligungsinhaberin oder Bewilligungsinhaber selber vornehmen, wenn diese sie nicht wahrnehmen können.
 
-<sup>2</sup> Es kontrolliert in Zusammenarbeit mit der Zollverwaltung die Einhaltung der Bestimmungen über die Ein-, Aus- und Durchfuhr von kontrollierten Substanzen.
+<sup>2</sup> Es kontrolliert in Zusammenarbeit mit dem BAZG die Einhaltung der Bestimmungen über die Ein-, Aus- und Durchfuhr von kontrollierten Substanzen.
 
 <sup>3</sup> Zu Analysezwecken kann es unentgeltlich Muster von Substanzen entnehmen, die der Kontrolle unterliegen könnten. Es stellt der Eigentümerin oder dem Eigentümer eine Quittung aus.
 
@@ -973,7 +975,7 @@ Das Institut erstellt die jährlichen Schätzungen über den Bedarf an kontrolli
 
 <sup>1</sup> Das BAG vollzieht diese Verordnung in Bezug auf kontrollierte Substanzen des Verzeichnisses d, soweit diese nicht als Wirkstoff eines zugelassenen Arzneimittels dienen.
 
-<sup>2</sup> Es übernimmt gegenüber der Organisation der Vereinten Nationen auf dem Gebiet der Betäubungsmittelkontrolle die Funktion der Nationalen Cannabis-Agentur gemäss Artikel 28 des Einheits-Übereinkommens von 1961 über die Betäubungsmittel in der durch das Protokoll vom 25. März 1972[^72-1] geänderten Fassung.
+<sup>2</sup> Es übernimmt gegenüber der Organisation der Vereinten Nationen auf dem Gebiet der Betäubungsmittelkontrolle die Funktion der Nationalen Cannabis-Agentur gemäss Artikel 28 des Einheits-Übereinkommens vom 30. März 1961[^72-1] über die Betäubungsmittel in der durch das Protokoll vom 25. März 1972 geänderten Fassung.
 
 [^72-1]: [SR 0.812.121](https://fedlex.data.admin.ch/eli/cc/2005/48)
 
@@ -1035,7 +1037,7 @@ Das Institut betreibt ein internes Geschäfts- und Aufbewahrungssystem zur Erfas
 
 Es kann mit Zustimmung folgender Organe und Behörden Dokumente elektronisch bearbeiten, soweit Schutz und Sicherheit der Daten gewährleistet sind:
 
-- a. des Internationalen Betäubungsmittel-Kontrollorgans (INCB) nach Artikel 1 Absatz 1 Buchstabe a des Einheits-Übereinkommens von 1961 über die Betäubungsmittel in der durch das Protokoll vom 25. März 1972[^79-1];
+- a. des Internationalen Betäubungsmittel-Kontrollorgans (INCB) nach Artikel 1 Absatz 1 Buchstabe a des Einheits-Übereinkommens vom 30. März 1961[^79-1] über die Betäubungsmittel in der durch das Protokoll vom 25. März 1972 geänderten Fassung;
 - b. des Büros der Vereinten Nationen für Drogen- und Verbrechensbekämpfung (UNODC) nach Artikel 29 der Charta der Vereinten Nationen vom 10. September 2002[^79-2];
 - c. der zuständigen Behörden der betroffenen Länder;
 - d. der Oberzolldirektion.
@@ -1133,10 +1135,10 @@ Die folgenden Verordnungen werden aufgehoben:
 - 6\. der Bundesratsbeschluss vom 5. Juli 1963[^86-6] über Betäubungsmittel für das Schweizerische Rote Kreuz;
 - 7\. der Bundesratsbeschluss vom 30. Dezember 1953[^86-7] betreffend Betäubungsmittel für das Internationale Komitee vom Roten Kreuz.
 
-[^86-1]: [[AS 1996 1679](https://fedlex.data.admin.ch/eli/oc/1996/1679_1679_1679), [2001 3133](https://fedlex.data.admin.ch/eli/oc/2001/470), [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)Ziff. I 1, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 38, [2008 5577](https://fedlex.data.admin.ch/eli/oc/2008/772)[5583](https://fedlex.data.admin.ch/eli/oc/2008/773)]
-[^86-2]: [[AS 1997 273](https://fedlex.data.admin.ch/eli/oc/1997/273_273_273), [2001 3146](https://fedlex.data.admin.ch/eli/oc/2001/471), [2005 4961](https://fedlex.data.admin.ch/eli/oc/2005/678), [2010 4099](https://fedlex.data.admin.ch/eli/oc/2010/599)[5375](https://fedlex.data.admin.ch/eli/oc/2010/757)]
-[^86-3]: [[AS 1996 1705](https://fedlex.data.admin.ch/eli/oc/1996/1705_1705_1705), [2001 3152](https://fedlex.data.admin.ch/eli/oc/2001/473), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 39]
-[^86-4]: [[AS 1997 211](https://fedlex.data.admin.ch/eli/oc/1997/211_211_211), [2001 3159](https://fedlex.data.admin.ch/eli/oc/2001/474)[3160](https://fedlex.data.admin.ch/eli/oc/2001/475), [2005 4839](https://fedlex.data.admin.ch/eli/oc/2005/653), [2010 1293](https://fedlex.data.admin.ch/eli/oc/2010/186)]
+[^86-1]: [[AS 1996 1679](https://fedlex.data.admin.ch/eli/oc/1996/1679_1679_1679); [2001 3133](https://fedlex.data.admin.ch/eli/oc/2001/470); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)Ziff. I 1; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 38; [2008 5577](https://fedlex.data.admin.ch/eli/oc/2008/772),[5583](https://fedlex.data.admin.ch/eli/oc/2008/773)]
+[^86-2]: [[AS 1997 273](https://fedlex.data.admin.ch/eli/oc/1997/273_273_273); [2001 3146](https://fedlex.data.admin.ch/eli/oc/2001/471); [2005 4961](https://fedlex.data.admin.ch/eli/oc/2005/678); [2010 4099](https://fedlex.data.admin.ch/eli/oc/2010/599), [5375](https://fedlex.data.admin.ch/eli/oc/2010/757)]
+[^86-3]: [[AS 1996 1705](https://fedlex.data.admin.ch/eli/oc/1996/1705_1705_1705); [2001 3152](https://fedlex.data.admin.ch/eli/oc/2001/473); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 39]
+[^86-4]: [[AS 1997 211](https://fedlex.data.admin.ch/eli/oc/1997/211_211_211); [2001 3159](https://fedlex.data.admin.ch/eli/oc/2001/474), [3160](https://fedlex.data.admin.ch/eli/oc/2001/475); [2005 4839](https://fedlex.data.admin.ch/eli/oc/2005/653); [2010 1293](https://fedlex.data.admin.ch/eli/oc/2010/186)]
 [^86-5]: [BS **5** 320]
 [^86-6]: [[AS 1963 599](https://fedlex.data.admin.ch/eli/oc/1963/599_603_619)]
 [^86-7]: [[AS 1953 1309](https://fedlex.data.admin.ch/eli/oc/1953/1309_1338_1382)]
@@ -1193,8 +1195,8 @@ Anhang 2
 
 (Art. 42 Abs. 6)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20130101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220101/de/xml/image/image1.png)
 
 Rückseite der Bescheinigung
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20130101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220101/de/xml/image/image2.png)

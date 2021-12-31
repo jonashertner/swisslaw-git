@@ -4,11 +4,11 @@ title: Ordonnance du 25 mai 2011 sur le contrôle des stupéfiants (OCStup)
 short: OCStup
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/362"
 language: fr
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-362-20130101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20130101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-362-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20130101/fr"
 
 (OCStup)
 
-du 25 mai 2011 (Etat le 1<sup>er</sup> janvier 2013)
+du 25 mai 2011 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -65,7 +65,7 @@ Au sens de la présente ordonnance, on entend par:
 
 <sup>2</sup>
 
-A cet effet, il établit les tableaux suivants:
+À cet effet, il établit les tableaux suivants:
 
 - a. tableau a: substances soumises à contrôle soumises à toutes les mesures de contrôle;
 - b. tableau b: substances soumises à contrôle soustraites partiellement aux mesures de contrôle;
@@ -418,7 +418,7 @@ L’autorisation unique d’importation est valable quatre mois au plus, l’aut
 
 #### Art. 31
 
-**Etablissement des autorisations d’importation**
+**Établissement des autorisations d’importation**
 
 <sup>1</sup> L’institut délivre au requérant autant d’exemplaires de l’autorisation unique ou générale d’importation que nécessaire pour lui permettre d’attester son droit d’importation auprès du bureau de douane et de l’autorité compétente du pays d’exportation.
 
@@ -456,7 +456,7 @@ L’autorisation unique d’importation est valable quatre mois au plus, l’aut
 
 #### Art. 35
 
-**Etablissement de l’autorisation d’exportation**
+**Établissement de l’autorisation d’exportation**
 
 <sup>1</sup> L’institut délivre au requérant autant d’exemplaires de l’autorisation d’exportation que nécessaire pour lui permettre d’attester son droit d’exportation auprès du bureau de douane.
 
@@ -478,7 +478,9 @@ L’autorisation unique d’importation est valable quatre mois au plus, l’aut
 
 **Point de passage pour l’importation, l’exportation et le transit**
 
-L’importation, l’exportation et le transit de substances soumises à contrôle doivent être effectués par les bureaux de douane désignés par l’administration des douanes.
+L’importation, l’exportation et le transit de substances soumises à contrôle doivent être effectués par les bureaux de douane désignés par l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^37-1].
+
+[^37-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 38
 
@@ -506,7 +508,7 @@ L’importation, l’exportation et le transit de substances soumises à contrô
 
 <sup>1</sup> L’Office fédéral de la police établit une attestation d’utilisation conforme pour l’exportation ou l’importation de substances soumises à contrôle qui ont été saisies.
 
-<sup>2</sup> L’Office central de lutte contre le trafic illicite des stupéfiants est habilité, sur demande, à autoriser et à organiser la circulation d’échantillons saisis dans le cadre d’une enquête menée avec un pays étranger. A cet effet, il utilise le formulaire d’Interpol pour l’approbation d’un envoi international de drogues saisies. L’office central reçoit un accusé de réception du service de contrôle.
+<sup>2</sup> L’Office central de lutte contre le trafic illicite des stupéfiants est habilité, sur demande, à autoriser et à organiser la circulation d’échantillons saisis dans le cadre d’une enquête menée avec un pays étranger. À cet effet, il utilise le formulaire d’Interpol pour l’approbation d’un envoi international de drogues saisies. L’office central reçoit un accusé de réception du service de contrôle.
 
 <sup>3</sup> L’office central détermine les indications que doivent livrer les laboratoirescertifiés qui analysent des substances soumises à contrôle.
 
@@ -526,7 +528,7 @@ L’importation, l’exportation et le transit de substances soumises à contrô
 
 <sup>1</sup> Les voyageurs malades peuvent exporter de Suisse, sans autorisation d’exportation, la quantité de médicaments contenant des substances soumises à contrôle, hormis des substances du tableau d, nécessaire à leur traitement pour une durée maximale de 30 jours, si le pays de destination le permet.
 
-<sup>2</sup> Les voyageurs malades se rendant dans un Etat lié par un des accords d’association à Schengen ont le droit d’obtenir de leur médecin traitant un certificat attestant le traitement prescrit. Les accords d’association à Schengen sont énumérés à l’annexe 1.
+<sup>2</sup> Les voyageurs malades se rendant dans un État lié par un des accords d’association à Schengen ont le droit d’obtenir de leur médecin traitant un certificat attestant le traitement prescrit. Les accords d’association à Schengen sont énumérés à l’annexe 1.
 
 <sup>3</sup> Le certificat doit être authentifié par le pharmacien qui remet le médicament contenant des substances soumises à contrôle sur ordonnance médicale. Le pharmacien remet immédiatement une copie du certificat authentifié à l’autorité compétente du canton dans lequel le traitement médical a lieu.
 
@@ -920,7 +922,7 @@ Il publie des listes des acteurs suivants autorisés à utiliser des substances 
 
 <sup>1</sup> L’institut peut charger les autorités cantonales compétentes d’effectuer des contrôles particuliers s’il soupçonne des irrégularités ou contrôler le titulaire de l’autorisation en lieu et place des autorités cantonales si celles-ci ne sont pas en mesure d’effectuer les contrôles.
 
-<sup>2</sup> Il contrôle, en collaboration avec les autorités douanières, le respect des dispositions relatives à l’importation, à l’exportation et au transit de substances soumises à contrôle.
+<sup>2</sup> Il contrôle, en collaboration avec l’OFDF, le respect des dispositions relatives à l’importation, à l’exportation et au transit de substances soumises à contrôle.
 
 <sup>3</sup> Il peut prélever gratuitement pour analyse des échantillons de substances susceptibles d’être soumises à contrôle. Il délivre une quittance au propriétaire.
 
@@ -928,7 +930,7 @@ Il publie des listes des acteurs suivants autorisés à utiliser des substances 
 
 #### Art. 68
 
-**Evaluations**
+**Évaluations**
 
 L’institut établit les évaluations annuelles des besoins en substances soumises à contrôle que la Suisse est tenue de fournir en vertu des accords internationaux ratifiés par elle.
 
@@ -946,7 +948,7 @@ L’institut établit les évaluations annuelles des besoins en substances soumi
 
 #### Art. 70
 
-**Elimination de substances soumises à contrôle**
+**Élimination de substances soumises à contrôle**
 
 <sup>1</sup> Les cantons éliminent de façon appropriée les substances soumises à contrôle figurant dans les tableaux a, d et e qui sont altérées, périmées, inutilisées ou saisies.
 
@@ -972,7 +974,7 @@ L’institut établit les évaluations annuelles des besoins en substances soumi
 
 <sup>1</sup> L’OFSP exécute la présente ordonnance en ce qui concerne les substances soumises à contrôle figurant dans le tableau d, dans la mesure où celles-ci ne sont pas utilisées comme principes actifs dans un médicament autorisé.
 
-<sup>2</sup> Dans le domaine du contrôle des stupéfiants, il assume vis-à-vis de l’Organisation des Nations Unies la fonction d’agence nationale de contrôle du cannabis selon l’art. 28 de la Convention unique sur les stupéfiants de 1961 telle que modifiée par le Protocole du 25 mars 1972 portant amendement de la Convention unique sur les stupéfiants de 1961[^72-1].
+<sup>2</sup> Dans le domaine du contrôle des stupéfiants, il assume vis-à-vis de l’Organisation des Nations Unies la fonction d’agence nationale de contrôle du cannabis selon l’art. 28 de la Convention unique sur les stupéfiants du 30 mars 1961 telle que modifiée par le Protocole du 25 mars 1972 portant amendement de la Convention unique sur les stupéfiants de 1961[^72-1].
 
 [^72-1]: [RS 0.812.121](https://fedlex.data.admin.ch/eli/cc/2005/48)
 
@@ -1024,7 +1026,7 @@ L’institut exploite un système interne de conservation des dossiers dans lequ
 
 #### Art. 79
 
-**Echanges internationaux**
+**Échanges internationaux**
 
 <sup>1</sup> L’institut veille à ce que les notifications imposées par les accords internationaux parviennent aux organes compétents dans les délais prescrits.
 
@@ -1034,7 +1036,7 @@ L’institut exploite un système interne de conservation des dossiers dans lequ
 
 Il peut, avec l’accord des organes et autorités ci-dessous, traiter des documents par voie électronique, pour autant que la protection et la sécurité des données soient assurées, émanant:
 
-- a. de l’Organe international de contrôle des stupéfiants (OICS) selon l’art. 1, par. 1, let. a, de la Convention unique sur les stupéfiants de 1961 telle que modifiée par le Protocole du 25 mars 1972 portant amendement de la Convention unique sur les stupéfiants de 1961[^79-1];
+- a. de l’Organe international de contrôle des stupéfiants (OICS) selon l’art. 1, par. 1, let. a, de la Convention unique sur les stupéfiants du 30 mars 1961 telle que modifiée par le Protocole du 25 mars 1972 portant amendement de la Convention unique sur les stupéfiants de 1961[^79-1];
 - b. de l’Office des Nations Unies contre la drogue et le crime (UNODC) selon l’art. 29 de la Charte des Nations Unies[^79-2] du 10 septembre 2002;
 - c. des autorités compétentes des pays concernés;
 - d. de la Direction générale des douanes.
@@ -1042,7 +1044,7 @@ Il peut, avec l’accord des organes et autorités ci-dessous, traiter des docum
 [^79-1]: [RS 0.812.121](https://fedlex.data.admin.ch/eli/cc/2005/48)
 [^79-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
-### Section 5 Emoluments
+### Section 5 Émoluments
 
 #### Art. 80
 
@@ -1176,7 +1178,7 @@ Les accords d’association à Schengen comprennent les accords suivants:
 
 - a. Accord du 26 octobre 2004 entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen[^annex1-lvlu1-1];
 - b. Accord du 26 octobre 2004 sous forme d’échange de lettres entre le Conseil de l’Union européenne et la Confédération suisse concernant les Comités qui assistent la Commission européenne dans l’exercice de ses pouvoirs exécutifs[^annex1-lvlu1-2];
-- c. Accord du 17 décembre 2004 entre la Confédération suisse, la République d’Islande et le Royaume de Norvège sur la mise en œuvre, l’application et le développement de l’acquis de Schengen et sur les critères et les mécanismes permettant de déterminer l’Etat responsable de l’examen d’une demande d’asile introduite en Suisse, en Islande ou en Norvège[^annex1-lvlu1-3];
+- c. Accord du 17 décembre 2004 entre la Confédération suisse, la République d’Islande et le Royaume de Norvège sur la mise en œuvre, l’application et le développement de l’acquis de Schengen et sur les critères et les mécanismes permettant de déterminer l’État responsable de l’examen d’une demande d’asile introduite en Suisse, en Islande ou en Norvège[^annex1-lvlu1-3];
 - d. Accord du 28 avril 2005 entre la Confédération suisse et le Royaume du Danemark sur la mise en œuvre, l’application et le développement des parties de l’acquis de Schengen basées sur les dispositions du Titre IV du Traité instituant la Communauté européenne[^annex1-lvlu1-4];
 - e. Protocole du 28 février 2008 entre la Confédération suisse, l’Union européenne, la Communauté européenne et la Principauté de Liechtenstein sur l’adhésion de la Principauté de Liechtenstein à l’accord entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen[^annex1-lvlu1-5].
 
@@ -1190,8 +1192,8 @@ Annexe 2
 
 (art. 42, al. 6)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20130101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220101/fr/xml/image/image1.png)
 
 Verso du certificat
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20130101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220101/fr/xml/image/image2.png)

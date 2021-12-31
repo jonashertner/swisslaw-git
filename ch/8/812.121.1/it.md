@@ -4,11 +4,11 @@ title: Ordinanza del 25 maggio 2011 sul controllo degli stupefacenti (OCStup)
 short: OCStup
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/362"
 language: it
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2011-362-20130101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-362-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20130101/it"
 
 (OCStup)
 
-del 25 maggio 2011 (Stato 1° gennaio 2013)
+del 25 maggio 2011 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -479,7 +479,9 @@ L’autorizzazione d’importazione unica è valida al massimo quattro mesi, men
 
 **Luogo di passaggio per l’importazione, l’esportazione e il transito**
 
-L’importazione, l’esportazione e il transito di sostanze controllate devono essere effettuati per il tramite degli uffici doganali designati dall’Amministrazione delle dogane.
+L’importazione, l’esportazione e il transito di sostanze controllate devono essere effettuati per il tramite degli uffici doganali designati dall’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^37-1].
+
+[^37-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 38
 
@@ -921,7 +923,7 @@ Pubblica elenchi dei seguenti aventi diritto all’impiego di sostanze controlla
 
 <sup>1</sup> L’Istituto può incaricare le autorità cantonali competenti di eseguire speciali controlli in caso di sospetto di irregolarità oppure può controllare direttamente il titolare dell’autorizzazione al posto delle competenti autorità cantonali, se queste ultime non possono farlo.
 
-<sup>2</sup> Controlla, in collaborazione con l’Amministrazione delle dogane, il rispetto delle disposizioni sull’importazione, sull’esportazione e sul transito di sostanze controllate.
+<sup>2</sup> Controlla, in collaborazione con l’UDSC, il rispetto delle disposizioni sull’importazione, sull’esportazione e sul transito di sostanze controllate.
 
 <sup>3</sup> A scopi analitici può prelevare gratuitamente campioni di sostanze che potrebbero essere soggette al controllo. Rilascia una ricevuta al proprietario.
 
@@ -973,7 +975,7 @@ L’Istituto allestisce annualmente le valutazioni del fabbisogno di sostanze co
 
 <sup>1</sup> L’UFSP esegue la presente ordinanza per quanto riguarda le sostanze controllate dell’elenco d, purché esse non siano utilizzate come principi attivi in un medicamento omologato.
 
-<sup>2</sup> Nel settore del controllo degli stupefacenti, esso assume nei confronti dell’Organizzazione delle Nazioni Unite la funzione di agenzia nazionale di controllo della canapa conformemente all’articolo 28 della Convenzione unica sugli stupefacenti del 1961 nella versione modificata dal Protocollo di emendamenti del 25 marzo 1972[^72-1].
+<sup>2</sup> Nel settore del controllo degli stupefacenti, esso assume nei confronti dell’Organizzazione delle Nazioni Unite la funzione di agenzia nazionale di controllo della canapa conformemente all’articolo 28 della Convenzione unica sugli stupefacenti del 30 marzo 1961[^72-1] nella versione modificata dal Protocollo di emendamenti del 25 marzo 1972.
 
 [^72-1]: [RS 0.812.121](https://fedlex.data.admin.ch/eli/cc/2005/48)
 
@@ -1035,7 +1037,7 @@ L’Istituto dispone di un sistema interno di gestione degli affari e di conserv
 
 D’intesa con gli organi e le autorità seguenti, può trattare documenti elettronicamente per quanto la protezione e la sicurezza dei dati siano garantite:
 
-- a. il Comitato internazionale per il controllo dei narcotici (INCB) ai sensi dell’articolo 1 capoverso 1 lettera a della della Convenzione unica sugli stupefacenti del 1961 nella versione modificata dal Protocollo di emendamenti del 25 marzo 1972[^79-1];
+- a. il Comitato internazionale per il controllo dei narcotici (INCB) ai sensi dell’articolo 1 capoverso 1 lettera a della della Convenzione unica sugli stupefacenti del 30 marzo 1961[^79-1] nella versione modificata dal Protocollo di emendamenti del 25 marzo 1972;
 - b. l’Ufficio delle Nazioni Unite contro la droga e il crimine (UNODC) ai sensi dell’articolo 29 dello Statuto delle Nazioni Unite del 10 settembre 2002[^79-2];
 - c. le autorità competenti dei Paesi interessati;
 - d. la Direzione generale delle dogane.
@@ -1191,8 +1193,8 @@ Allegato 2
 
 (art. 42 cpv. 6)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20130101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220101/it/xml/image/image1.png)
 
 Verso dell’attestato
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20130101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220101/it/xml/image/image2.png)
