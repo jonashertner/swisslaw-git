@@ -3,7 +3,7 @@ canton: VD
 number: "900.05.151220.5"
 title: "DÉCRET du 15.12.2020 sur les mesures économiques destinées à lutter contre les effets du coronavirus (COVID-19) par un soutien aux entreprises, dans des cas de rigueur"
 language: fr
-version: 2020-12-15
+version: 2022-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05.151220.5?id=827b682f-fed5-4ed4-974c-83716be20e9c"
 ---
 
@@ -283,9 +283,9 @@ décrète
 
 **Durée de validité [^19-1]**
 
-<sup>1</sup> Le Département est chargé de l'exécution du présent décret qui entre en vigueur le 15 décembre 2020 et échoit le 31 décembre 2021, sous réserve des alinéas 2 et 3.
+<sup>1</sup> Le Département est chargé de l'exécution du présent décret qui entre en vigueur le 1er janvier 2022 et échoit le 31 décembre 2022, sous réserve des alinéas 2 et 3.
 
-<sup>2</sup> Les demandes d'aide pendantes au 31 décembre 2021 restent soumises aux dispositions du présent décret jusqu'à l'issue de la procédure.
+<sup>2</sup> Les demandes d'aide pendantes au 31 décembre 2022 restent soumises aux dispositions du présent décret jusqu'à l'issue de la procédure.
 
 <sup>3</sup> Les articles 17 et 18 restent applicables tant que le droit de l'Etat de réclamer le remboursement de l'aide, au sens de l'article 34 de la loi du 25 février 2005 sur les subventions[^20-1], respectivement de statuer sur la taxation de la période concernée par l'aide, ne sont pas prescrits.
 
