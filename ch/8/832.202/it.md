@@ -4,11 +4,11 @@ title: "Ordinanza del 20 dicembre 1982 sull'assicurazione contro gli infortuni (
 short: OAINF
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/38_38_38"
 language: it
-version: 2018-04-01
+version: 2022-01-01
 adopted: 1982-12-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20180401/it/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20180401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20180401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20180401/it"
 
 (OAINF)
 
-del 20 dicembre 1982 (Stato 1° aprile 2018)
+del 20 dicembre 1982 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -81,7 +81,7 @@ Non sono soggetti all’obbligo assicurativo:
 [^2-7]: Introdotta dal n. I dell’O del 15 dic. 1997 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Abrogata dal n. I dell’O del 9 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^2-8]: Introdotta dal n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^2-9]: Introdotta dal n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6227](https://fedlex.data.admin.ch/eli/oc/2012/731)).
-[^2-10]: Introdotto dal n. I dell’O del 15 dic. 1997 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Abrogato dal n. 3 dell’all. all’O del 6 set. 2006 contro il lavoro nero, con effetto dal 1° gen. 2008 ([RU 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
+[^2-10]: Introdotto dal n. I dell’O del 15 dic. 1997 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Abrogato dall’all. n. 3 dell’O del 6 set. 2006 contro il lavoro nero, con effetto dal 1° gen. 2008 ([RU 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 
 #### Art. 3
 
@@ -97,11 +97,11 @@ Non sono soggetti all’obbligo assicurativo:
 
 <sup>5</sup> Non sono assicurate le persone beneficiarie di privilegi, immunità e facilitazioni di cui all’articolo 2 capoverso 2 lettera a della legge del 22 giugno 2007[^3-4] sullo Stato ospite che sono impiegate da un’organizzazione intergovernativa, un’istituzione internazionale, un segretariato o altro organo istituito da un trattato internazionale, un tribunale internazionale, un tribunale arbitrale o un altro organismo internazionale ai sensi dell’articolo 2 capoverso 1 della legge del 22 giugno 2007 sullo Stato ospite. Sono assicurate le persone che sono impiegate da una di queste organizzazioni che non offre loro una protezione equivalente contro i postumi di infortuni e malattie professionali.[^3-5]
 
-[^3-1]: Nuovo testo giusta il n. 16 dell’all. dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
+[^3-1]: Nuovo testo giusta l’all. n. 16 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 [^3-2]: Nuova espr. giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^3-3]: Nuovo testo giusta il n. 16 dell’all. dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
+[^3-3]: Nuovo testo giusta l’all. n. 16 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 [^3-4]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^3-5]: Nuovo testo giusta il n. 16 dell’all. dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
+[^3-5]: Nuovo testo giusta l’all. n. 16 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
 #### Art. 4
 
@@ -241,11 +241,15 @@ Le sostanze nocive e le malattie provocate da determinati lavori ai sensi dell�
 
 <sup>1</sup> L’assicurato ha diritto al trattamento, al vitto e all’alloggio in sala comune di un ospedale (art. 68 cpv. 1) con cui è stata conclusa una convenzione di collaborazione e tariffale.
 
-<sup>2</sup> Se l’assicurato sceglie una sala che non sia quella comune o un altro ospedale, l’assicurazione assume le spese che avrebbe dovuto rimborsare conformemente al capoverso 1 per il trattamento in sala comune di quest’altro ospedale o di quello appropriato più vicino. L’ospedale ha diritto solamente al rimborso di queste spese.
+<sup>2</sup> Se l’assicurato sceglie una sala che non sia quella comune o, per motivi di ordine medico, un altro ospedale, l’assicurazione assume le spese che avrebbe dovuto rimborsare conformemente al capoverso 1 per il trattamento in sala comune di quest’altro ospedale o di quello appropriato più vicino. L’ospedale ha diritto solamente al rimborso di queste spese.[^15-2]
+
+<sup>2bis</sup> Sono considerati motivi di ordine medico secondo il capoverso 2 i casi d’urgenza e quelli in cui le prestazioni necessarie non sono dispensate in alcun ospedale convenzionato ai sensi del capoverso 1.[^15-3]
 
 <sup>3</sup> L’ospedale non può domandare nessun anticipo per il trattamento in sala comune.
 
 [^15-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)). Correzione del 24 gen. 2017 ([RU 2017 237](https://fedlex.data.admin.ch/eli/oc/2017/56)).
+[^15-2]: Nuovo testo giusta il n. III dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^15-3]: Introdotto dal n. III dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 16
 
@@ -327,7 +331,7 @@ Il Dipartimento federale dell’interno (DFI[^19-1]) redige l’elenco dei mezzi
 
 <sup>3</sup> L’indennità giornaliera è calcolata in base all’ultimo salario ricevuto dall’assicurato prima dell’infortunio, inclusi gli elementi del salario non ancora versati che gli sono dovuti.[^22-3]
 
-<sup>3bis</sup> Se fino all’insorgenza dell’infortunio la persona assicurata aveva diritto a un’indennità giornaliera secondo la legge lederale del 19 giugno 1959[^22-4] su l’assicurazione per l’invalidità, l’indennità giornaliera corrisponde almeno all’ammontare totale dell’indennità giornaliera versata fino allora dall’assicurazione per l’invalidità, ma al massimo all’80 per cento del guadagno assicurato conformemente al capoverso 1.[^22-5]
+<sup>3bis</sup> Se fino all’insorgenza dell’infortunio la persona assicurata aveva diritto a un’indennità giornaliera secondo la legge federale del 19 giugno 1959[^22-4] sull’assicurazione per l’invalidità, l’indennità giornaliera corrisponde almeno all’ammontare totale dell’indennità giornaliera versata fino ad allora dall’assicurazione per l’invalidità, ma al massimo all’80 per cento dell’importo massimo del guadagno assicurato conformemente al capoverso 1. Per l’ammontare dell’indennità giornaliera delle persone di cui all’articolo 1*a* capoverso 1 lettera c della legge è determinante l’articolo 132*a* capoverso 1.[^22-5]
 
 <sup>4</sup> Le rendite sono calcolate in base al salario pagato all’assicurato da uno o più datori di lavoro nel corso dell’anno precedente l’infortunio, inclusi gli elementi del salario non ancora versati che gli sono dovuti. Se il rapporto di lavoro non è durato un anno intero, il salario ottenuto durante questo periodo è convertito in pieno salario annuo. Nel caso di un’attività temporanea la conversione è limitata alla durata prevista a condizione che in base al modello attuale o previsto della biografia lavorativa non risulti una durata normale diversa dell’attività. La conversione è limitata al periodo di tempo ammesso dal diritto in materia di stranieri.[^22-6]
 
@@ -335,7 +339,7 @@ Il Dipartimento federale dell’interno (DFI[^19-1]) redige l’elenco dei mezzi
 [^22-2]: Abrogata dal n. I dell’O del 21 ott. 1987, con effetto dal 1° gen. 1988 ([RU 1987 1498](https://fedlex.data.admin.ch/eli/oc/1987/1498_1498_1498)).
 [^22-3]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^22-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^22-5]: Introdotto dal n. I dell’O del 15 dic. 1997 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Nuovo testo giusta il n. I dell’O del 21 mag. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3881](https://fedlex.data.admin.ch/eli/oc/2003/563)).
+[^22-5]: Introdotto dal n. I dell’O del 15 dic. 1997 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Nuovo testo giusta l’all. n. 5 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^22-6]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 23
@@ -362,7 +366,7 @@ Il Dipartimento federale dell’interno (DFI[^19-1]) redige l’elenco dei mezzi
 
 <sup>9</sup> Nella misura in cui le conseguenze di un evento assicurato provocano un ritardo di almeno sei mesi nella formazione professionale, per la durata del ritardo, ma al massimo per un anno, viene accordata un’indennità giornaliera parziale corrispondente alla differenza tra il salario percepito durante la formazione e il salario minimo di un lavoratore qualificato della corrispondente categoria professionale.[^23-7]
 
-[^23-1]: Nuovo testo giusta il n. 7 dell’appendice 3 all’O dell’11 set. 1996 sul servizio civile, in vigore dal 1° ott. 1996 ([RU 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)).
+[^23-1]: Nuovo testo giusta l’appendice 3 n. 7 dell’O dell’11 set. 1996 sul servizio civile, in vigore dal 1° ott. 1996 ([RU 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)).
 [^23-2]: Abrogato dall’art. 11 dell’O del 24 gen. 1996 sull’assicurazione contro gli infortuni dei disoccupati, con effetto dal 1° gen. 1996 ([RU 1996 698](https://fedlex.data.admin.ch/eli/oc/1996/698_698_698)).
 [^23-3]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^23-4]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
@@ -384,7 +388,7 @@ Il Dipartimento federale dell’interno (DFI[^19-1]) redige l’elenco dei mezzi
 
 <sup>5</sup> ...[^24-3]
 
-[^24-1]: Nuovo testo giusta il n. 7 dell’appendice 3 all’O dell’11 set. 1996 sul servizio civile, in vigore dal 1° ott. 1996 ([RU 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)).
+[^24-1]: Nuovo testo giusta l’appendice 3 n. 7 dell’O dell’11 set. 1996 sul servizio civile, in vigore dal 1° ott. 1996 ([RU 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)).
 [^24-2]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^24-3]: Abrogato dal n. I dell’O del 15 dic. 1997, con effetto dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
@@ -797,7 +801,7 @@ Le prestazioni in contanti sono ridotte di almeno la metà in caso d’infortuni
 
 <sup>1</sup>
 
-L’infortunato o i suoi congiunti devono notificare tempestivamente l’infortunio al datore di lavoro, al servizio competente dell’assicurazione contro gli infortuni o all’assicuratore, fornendo informazioni riguardanti:[^53-1]
+L’infortunato o i suoi congiunti devono notificare tempestivamente l’infortunio al datore di lavoro, al servizio competente dell’assicurazione contro la disoccupazione, all’ufficio AI o all’assicuratore, fornendo informazioni riguardanti:[^53-1]
 
 - a. l’ora, il luogo, le circostanze esatte e le conseguenze dell’infortunio;
 - b.[^53-2] il medico curante o l’ospedale;
@@ -807,21 +811,21 @@ L’infortunato o i suoi congiunti devono notificare tempestivamente l’infortu
 
 <sup>3</sup>
 
-Gli assicuratori mettono a disposizione gratuitamente i formulari per la notifica dell’infortunio o della malattia professionale. Questi formulari devono essere riempiti in modo completo e conforme alla verità dal datore di lavoro, dal servizio competente dell’assicurazione contro gli infortuni e dal medico curante e consegnati senza indugio all’assicuratore competente. Devono contenere in particolare le indicazioni necessarie a:[^53-3]
+Gli assicuratori mettono a disposizione gratuitamente i formulari per la notifica dell’infortunio o della malattia professionale. Questi formulari devono essere riempiti in modo completo e conforme alla verità dal datore di lavoro, dal servizio competente dell’assicurazione contro la disoccupazione, dall’ufficio AI o dal medico curante e consegnati senza indugio all’assicuratore competente. Devono contenere in particolare le indicazioni necessarie a:[^53-3]
 
 - a. chiarire le circostanze dell’infortunio o dell’insorgenza della malattia professionale;
 - b. procedere all’esame medico dei postumi dell’infortunio o della malattia professionale;
 - c. determinare le prestazioni;
 - d. valutare la sicurezza sul lavoro e compilare le statistiche.
 
-<sup>4</sup> Gli assicuratori possono emanare direttive sulla notifica degli infortuni o delle malattie professionali da parte di datori di lavoro, servizi competenti dell’assicurazione contro la disoccupazione, lavoratori e medici.[^53-4]
+<sup>4</sup> Gli assicuratori possono emanare direttive sulla notifica degli infortuni o delle malattie professionali da parte di datori di lavoro, servizi competenti dell’assicurazione contro la disoccupazione, uffici AI, lavoratori e medici.[^53-4]
 
 <sup>5</sup> La notifica dell’infortunio allʼINSAI non esime dall’obbligo di annunciare di cui all’articolo 42 capoverso 1 dell’ordinanza del 31 agosto 1983[^53-5] sullʼassicurazione contro la disoccupazione.[^53-6]
 
-[^53-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^53-1]: Nuovo testo giusta l’all. n. 5 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^53-2]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^53-3]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^53-4]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^53-3]: Nuovo testo giusta l’all. n. 5 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^53-4]: Nuovo testo giusta l’all. n. 5 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^53-5]: [RS 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
 [^53-6]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
@@ -846,11 +850,12 @@ L’assicuratore può domandare alle autorità competenti tutte le informazioni 
 
 #### Art. 56
 
-**Collaborazione del datore di lavoro o del servizio competente dell’assicurazione contro la disoccupazione**[^56-1]
+**Collaborazione del datore di lavoro, del servizio competente dell’assicurazione contro la disoccupazione o dell’organo esecutivo competente dell’assicurazione per l’invalidità**[^56-1]
 
-Il datore di lavoro o il servizio competente dell’assicurazione contro la disoccupazione deve dare all’assicuratore tutte le informazioni necessarie, tenere a disposizione i documenti atti a chiarire le circostanze dell’infortunio e permettere agli incaricati dell’assicuratore libero accesso all’azienda.
+Il datore di lavoro, il servizio competente dell’assicurazione contro la disoccupazione o l’organo esecutivo competente dell’assicurazione per l’invalidità secondo l’articolo 53 capoverso 1 LAI[^56-2] deve dare all’assicuratore tutte le informazioni necessarie, tenere a disposizione i documenti atti a chiarire le circostanze dell’infortunio e permettere agli incaricati dell’assicuratore di accedere liberamente all’azienda.
 
-[^56-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^56-1]: Nuovo testo giusta l’all. n. 5 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^56-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 #### Art. 57
 
@@ -981,7 +986,7 @@ L’avente diritto, se non ha ricevuto le dovute prestazioni o ne ha ricevuto so
 
 Gli articoli 44 e 46–54 dell’ordinanza del 27 giugno 1995[^69-2] sull’assicurazione malattie sono validi anche per l’abilitazione dei chiropratici, delle persone che dispensano cure previa prescrizione medica e delle organizzazioni che le occupano (personale paramedico) e dei laboratori, a praticare nell’ambito dell’assicurazione contro gli infortuni.[^69-3] Il DFI può designare altre persone che possono praticare per l’assicurazione contro gli infortuni nei limiti di un’autorizzazione cantonale.
 
-[^69-1]: Nuovo testo giusta il n. 4 dell’all. all’O del 27 giu. 1995 sull’assicurazione malattie, in vigore dal 1° gen. 1996 ([RU 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
+[^69-1]: Nuovo testo giusta l’all. n. 4 dell’O del 27 giu. 1995 sull’assicurazione malattie, in vigore dal 1° gen. 1996 ([RU 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
 [^69-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 [^69-3]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
@@ -1071,7 +1076,7 @@ L’ordinanza del 3 luglio 2002[^70a-2] sul calcolo dei costi e la registrazione
 
 [^71-1]: Abrogato dal n. I dell’O del 9 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^71-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^71-3]: Nuovo testo giusta il n. 4 dell’all. all’O del 27 giu. 1995 sull’assicurazione malattie, in vigore dal 1° gen. 1996 ([RU 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
+[^71-3]: Nuovo testo giusta l’all. n. 4 dell’O del 27 giu. 1995 sull’assicurazione malattie, in vigore dal 1° gen. 1996 ([RU 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
 
 ## Titolo quinto: Organizzazione
 
@@ -1081,13 +1086,14 @@ L’ordinanza del 3 luglio 2002[^70a-2] sul calcolo dei costi e la registrazione
 
 #### Art. 72
 
-**Obbligo degli assicuratori nonché dei datori di lavoro e dei servizi competenti dell’assicurazione contro la disoccupazione**[^72-1]
+**Obblighi degli assicuratori nonché dei datori di lavoro, dei servizi competenti dell’assicurazione contro gli infortuni e degli organi esecutivi competenti dell’assicurazione per l’invalidità**[^72-1]
 
-<sup>1</sup> Gli assicuratori provvedono a che i datori di lavoro e i servizi competenti dell’assicurazione contro la disoccupazione siano sufficientemente informati in merito all’applicazione dell’assicurazione contro gli infortuni.
+<sup>1</sup> Gli assicuratori provvedono a che i datori di lavoro, i servizi competenti dell’assicurazione contro la disoccupazione e gli organi esecutivi competenti dell’assicurazione per l’invalidità secondo l’articolo 53 capoverso 1 LAI[^72-2] siano sufficientemente informati in merito all’applicazione dell’assicurazione contro gli infortuni.
 
-<sup>2</sup> I datori di lavoro e i servizi competenti dellʼassicurazione contro la disoccupazione sono obbligati a trasmettere queste informazioni ai dipendenti. In particolare li informano della possibilità degli accordi di protrazione dell’assicurazione.
+<sup>2</sup> I datori di lavoro, i servizi competenti dell’assicurazione contro la disoccupazione e gli organi esecutivi competenti dell’assicurazione per l’invalidità secondo l’articolo 53 capoverso 1 LAI sono obbligati a trasmettere queste informazioni ai dipendenti o alle persone di cui all’articolo 1*a* capoverso 1 lettera c della legge e a informarli in particolare della possibilità degli accordi di protrazione dell’assicurazione.
 
-[^72-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^72-1]: Nuovo testo giusta l’all. n. 5 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^72-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 #### Art. 72a
 
@@ -1256,7 +1262,7 @@ Le aziende di lavoro temporaneo ai sensi dell’articolo 66 capoverso 1 lettera 
 
 Sono compresi nel campo d’applicazione dell’articolo 66 capoverso 1 lettera p della legge anche i membri del Consiglio federale, il cancelliere della Confederazione, i tribunali della Confederazione e gli istituti affiliati alla Cassa federale d’assicurazione.
 
-[^86-1]: Nuovo testo giusta il n. 3 dell’all. all’O del 29 nov. 2013 sull’organizzazione del Consiglio federale, in vigore dal 1° gen. 2014 ([RU 2013 4561](https://fedlex.data.admin.ch/eli/oc/2013/812)).
+[^86-1]: Nuovo testo giusta l’all. n. 3 dell’O del 29 nov. 2013 sull’organizzazione del Consiglio federale, in vigore dal 1° gen. 2014 ([RU 2013 4561](https://fedlex.data.admin.ch/eli/oc/2013/812)).
 
 #### Art. 87
 
@@ -1483,7 +1489,7 @@ Per quanto l’esiga l’applicazione dell’assicurazione contro gli infortuni,
 
 <sup>4</sup> I due uffici coordinano le attività di vigilanza.[^104-3]
 
-[^104-1]: Per. abrogato dal n. 4 dell’all. all’O del 27 giu. 1995 sull’assicurazione malattie, con effetto dal 1° ott. 1996 ([RU 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
+[^104-1]: Per. abrogato dall’all. n. 4 dell’O del 27 giu. 1995 sull’assicurazione malattie, con effetto dal 1° ott. 1996 ([RU 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
 [^104-2]: [[RU 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836), [1988 414](https://fedlex.data.admin.ch/eli/oc/1988/414_414_414), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 66733 disp. fin. art. 7 n. 3 2363 all. n. 2, **1993** 3204, **1995** 1328 all. n. 2 3517 I 12 5679, **2000** 2355 all. n. 28, **2003** 232, **2004** 1677 all. n. 4 2617 all. n. 12. [RU 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)all. n. I 3]. Vedi ora la L del 17 dic. 2004 ([RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)).
 [^104-3]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
@@ -1713,9 +1719,9 @@ I premi sono riscossi sul guadagno assicurato ai sensi dell’articolo 22 capove
 
 <sup>2</sup> Le casse cantonali di compensazione, d’intesa con i datori di lavoro loro affiliati e gli assicuratori, possono, contro equo indennizzo, riscuotere i premi unitamente ai contributi dell’AVS. Gli articoli 131 e 132 OAVS sono applicabili per le casse di compensazione professionali.[^118-4]
 
-[^118-1]: Nuovo testo giusta il n. 3 dell’all. all’O del 6 set. 2006 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
+[^118-1]: Nuovo testo giusta l’all. n. 3 dell’O del 6 set. 2006 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 [^118-2]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
-[^118-3]: Nuovo testo giusta il n. 3 dell’all. all’O del 6 set. 2006 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
+[^118-3]: Nuovo testo giusta l’all. n. 3 dell’O del 6 set. 2006 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 [^118-4]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 119
@@ -1891,17 +1897,77 @@ Una decisione va notificata per iscritto se concerne segnatamente:
 
 [^131-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
+## Titolo ottavo *a*: Assicurazione contro gli infortuni delle persone di cui all’articolo 1*a* capoverso 1 lettera c della legge****
+
+[^tit8a-1]
+
+[^tit8a-1]: Introdotto dall’all. n. 5 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
 #### Art. 132
 
-[^132-1]
+**Inizio e fine dell’assicurazione**[^132-1]
 
-[^132-1]: Abrogato dal n. I dell’O del 9 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+<sup>1</sup> Per le persone di cui all’articolo 1*a* capoverso 1 lettera c della legge l’assicurazione inizia il giorno in cui comincia il provvedimento, ma in ogni caso dal momento in cui la persona si avvia per recarsi al luogo in cui esso si svolge.
+
+<sup>2</sup> Termina allo scadere del 31° giorno susseguente a quello in cui il provvedimento è concluso.
+
+[^132-1]: Nuovo testo giusta l’all. n. 5 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 132a
+
+**Ammontare dell’indennità giornaliera**[^132a-1]
+
+<sup>1</sup> L’importo netto dell’indennità giornaliera di cui all’articolo 17 capoverso 4 della legge comprende l’indennità di base secondo l’articolo 23 o 24<sup>ter</sup> LAI[^132a-2], dedotti i contributi alle assicurazioni sociali secondo l’articolo 25 LAI.
+
+<sup>2</sup> In aggiunta alle indennità giornaliere delle persone di cui all’articolo 1*a* capoverso 1 lettera c della legge l’assicurazione contro gli infortuni versa la prestazione per i figli di cui all’articolo 23<sup>bis</sup> LAI.
+
+<sup>3</sup> Per le persone di cui all’articolo 1*a* capoverso 1 lettera c della legge che non hanno diritto né a un’indennità giornaliera dell’assicurazione per l’invalidità né a una rendita dell’assicurazione per l’invalidità, l’indennità giornaliera è calcolata in base al guadagno assicurato secondo l’articolo 23 capoverso 6.
+
+<sup>4</sup> Per le persone di cui all’articolo 1*a* capoverso 1 lettera c della legge l’assicurazione contro gli infortuni fornisce l’intera prestazione indipendentemente dal grado di incapacità lavorativa finché il provvedimento dell’assicurazione per l’invalidità riprende oppure potrebbe riprendere dal punto di vista medico. L’assicurazione contro gli infortuni stabilisce, d’intesa con l’organo esecutivo dell’assicurazione per l’invalidità, il momento in cui il provvedimento dell’assicurazione per l’invalidità potrebbe essere ripreso.
+
+[^132a-1]: Introdotto dall’all. n. 5 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^132a-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+
+#### Art. 132b
+
+**Calcolo delle rendite**[^132b-1]
+
+<sup>1</sup> Per le persone di cui all’articolo 1*a* capoverso 1 lettera c della legge che percepiscono un’indennità giornaliera dell’assicurazione per l’invalidità, si considera quale guadagno assicurato per il calcolo delle rendite il reddito lavorativo su cui l’ufficio AI si è fondato per calcolare l’indennità giornaliera.
+
+<sup>2</sup> Per le persone di cui all’articolo 1*a* capoverso 1 lettera c della legge che non hanno diritto né a un’indennità giornaliera dell’assicurazione per l’invalidità né a una rendita dell’assicurazione per l’invalidità, si considera quale guadagno assicurato per il calcolo delle rendite, dal compimento del 20° anno d’età, un guadagno annuo del 20 per cento almeno dell’importo massimo del guadagno annuo assicurato e, prima del compimento del 20 anno d’età, un guadagno annuo del 10 per cento almeno. Al compimento del 20° anno d’età il guadagno annuo viene aumentato al 20 per cento almeno dell’importo massimo del guadagno annuo assicurato.
+
+<sup>3</sup> Per le persone di cui all’articolo 1*a* capoverso 1 lettera c della legge che percepiscono una rendita dell’assicurazione per l’invalidità, il guadagno assicurato di cui al capoverso 2 è ridotto della percentuale del grado d’invalidità secondo l’articolo 28*a* LAI[^132b-2]. Se è stato conseguito un guadagno ai sensi dell’articolo 15 capoverso 2 della legge più elevato, questo guadagno assicurato è considerato quale base per il calcolo della rendita.
+
+[^132b-1]: Introdotto dall’all. n. 5 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^132b-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+
+#### Art. 132c
+
+**Premi**[^132c-1]
+
+<sup>1</sup>
+
+I premi sono fissati in per mille:
+
+- a. dell’importo netto dell’indennità giornaliera versato dall’assicurazione per l’invalidità secondo l’articolo 132*a* capoverso 1;
+- b. del guadagno assicurato secondo l’articolo 132*b* capoverso 2, per le persone di cui all’articolo 1*a* capoverso 1 lettera c della legge che non hanno diritto né a un’indennità giornaliera dell’assicurazione per l’invalidità né a una rendita dell’assicurazione per l’invalidità; e
+- c. del guadagno assicurato secondo l’articolo 132*b* capoverso 3, per le persone di cui all’articolo 1*a* capoverso 1 lettera c della legge che percepiscono una rendita dell’assicurazione per l’invalidità.
+
+<sup>2</sup> I premi dell’assicurazione obbligatoria contro gli infortuni non professionali sono a carico dell’assicurazione per l’invalidità.
+
+<sup>3</sup> In base all’esperienza acquisita in materia di rischi, l’INSAI può, di propria iniziativa o su richiesta dell’Ufficio federale delle assicurazioni sociali, modificare le aliquote dei premi con effetto dall’inizio di un mese civile.
+
+<sup>4</sup> Le modifiche delle aliquote dei premi devono essere comunicate mediante decisione all’Ufficio federale delle assicurazioni sociali al più tardi due mesi prima della loro applicazione.
+
+<sup>5</sup> L’INSAI allestisce una statistica dei rischi relativa agli infortuni delle persone di cui all’articolo 1*a* capoverso 1 lettera c della legge.
+
+[^132c-1]: Introdotto dall’all. n. 5 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 133
 
 [^133-1]
 
-[^133-1]: Abrogato dal n. 17 dell’all. n. 3 dell’O del 3 feb. 1993 concernente l’organizzazione e la procedura delle commissioni federali di ricorso e di arbitrato, con effetto dal 1° mar. 1993 ([RU 1993 879](https://fedlex.data.admin.ch/eli/oc/1993/879_879_879)).
+[^133-1]: Abrogato dell’all. 3 n. 17 dell’O del 3 feb. 1993 concernente l’organizzazione e la procedura delle commissioni federali di ricorso e di arbitrato, con effetto dal 1° mar. 1993 ([RU 1993 879](https://fedlex.data.admin.ch/eli/oc/1993/879_879_879)).
 
 ## Titolo nono: Assicurazione facoltativa
 
@@ -2028,7 +2094,7 @@ Sono abrogate:
 
 [^142-1]
 
-[^142-1]: Abrogato dal n. 4 dell’all. all’O del 27 giu. 1995 sull’assicurazione malattie, con effetto dal 1° ott. 1995 ([RU 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
+[^142-1]: Abrogato dall’all. n. 4 dell’O del 27 giu. 1995 sull’assicurazione malattie, con effetto dal 1° ott. 1995 ([RU 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
 
 #### Art. 143
 
@@ -2405,7 +2471,7 @@ Allegato 2*[^t-2]*
 
 L’indennità giornaliera è calcolata conformemente alla formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20180401/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/it/xml/image/image1.png)
 
 Esempi
 
@@ -2418,7 +2484,7 @@ Esempi
 <tr><td>[tab] Tredicesima mensilità</td><td>3 650.—</td></tr>
 <tr><td>[tab] Assegni familiari: 365.– × 12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Guadagno annuale</td><td>51 830.—</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20180401/it/xml/image/image2.png)</td><td>113.60</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/it/xml/image/image2.png)</td><td>113.60</td></tr>
 <tr><td>[tab] Numero di giorni: 13</td><td></td></tr>
 <tr><td>[tab] Totale: 13 × 113.60 = fr. 1 476.80 arrotondati a</td><td>1 477.—</td></tr>
 <tr><td>b) Salario orario</td><td></td></tr>
@@ -2430,7 +2496,7 @@ Esempi
 <tr><td>[tab] Tredicesima</td><td>3 557.30</td></tr>
 <tr><td>[tab] Assegni familiari: fr. 365.– ×12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Guadagno annuale</td><td>50 642.30</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20180401/it/xml/image/image3.png)</td><td>111.—</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/it/xml/image/image3.png)</td><td>111.—</td></tr>
 <tr><td>Numero di giorni: 22</td><td></td></tr>
 <tr><td>Totale: 22 × 111.– =</td><td>2 442.—</td></tr>
 </table>

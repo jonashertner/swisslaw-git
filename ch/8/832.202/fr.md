@@ -4,11 +4,11 @@ title: "Ordonnance du 20 décembre 1982 sur l'assurance-accidents (OLAA)"
 short: OLAA
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/38_38_38"
 language: fr
-version: 2018-04-01
+version: 2022-01-01
 adopted: 1982-12-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20180401/fr/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20180401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20180401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20180401/fr"
 
 (OLAA)
 
-du 20 décembre 1982 (Etat le 1<sup>er</sup> avril 2018)
+du 20 décembre 1982 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -95,12 +95,12 @@ Ne sont pas assurés à titre obligatoire:
 
 <sup>4</sup> Lorsqu’une personne citée à l’al. 3 exerce en Suisse une activité salariée en vue d’un gain personnel, elle est assurée conformément à la loi pour cette activité.
 
-<sup>5</sup> Les personnes bénéficiaires de privilèges, d’immunités et de facilités visées à l’art. 2, al. 2, let. a, de la loi du 22 juin 2007 sur l’Etat hôte[^3-3] qui sont employées par une organisation intergouvernementale, une institution internationale, un secrétariat ou autre organe créé par un traité international, un tribunal international, un tribunal arbitral ou un autre organisme international au sens de l’art. 2, al. 1, de la loi du 22 juin 2007 sur l’Etat hôte ne sont pas assurées. Sont assurées les personnes qui sont occupées par une telle organisation dans la mesure où celle-ci ne leur accorde pas une protection équivalente contre les suites d’accidents et de maladies professionnelles.[^3-4]
+<sup>5</sup> Les personnes bénéficiaires de privilèges, d’immunités et de facilités visées à l’art. 2, al. 2, let. a, de la loi du 22 juin 2007 sur l’État hôte[^3-3] qui sont employées par une organisation intergouvernementale, une institution internationale, un secrétariat ou autre organe créé par un traité international, un tribunal international, un tribunal arbitral ou un autre organisme international au sens de l’art. 2, al. 1, de la loi du 22 juin 2007 sur l’État hôte ne sont pas assurées. Sont assurées les personnes qui sont occupées par une telle organisation dans la mesure où celle-ci ne leur accorde pas une protection équivalente contre les suites d’accidents et de maladies professionnelles.[^3-4]
 
-[^3-1]: Nouvelle teneur selon le ch. 16 de l’annexe à l’O du 7 déc. 2007 sur l’Etat hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
-[^3-2]: Nouvelle teneur selon le ch. 16 de l’annexe à l’O du 7 déc. 2007 sur l’Etat hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
+[^3-1]: Nouvelle teneur selon le ch. 16 de l’annexe à l’O du 7 déc. 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
+[^3-2]: Nouvelle teneur selon le ch. 16 de l’annexe à l’O du 7 déc. 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 [^3-3]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^3-4]: Nouvelle teneur selon le ch. 16 de l’annexe à l’O du 7 déc. 2007 sur l’Etat hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
+[^3-4]: Nouvelle teneur selon le ch. 16 de l’annexe à l’O du 7 déc. 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
 #### Art. 4
 
@@ -235,11 +235,15 @@ Les substances nocives et les maladies dues à certains travaux au sens de l’a
 
 <sup>1</sup> L’assuré a droit au traitement, à la nourriture et au logement dans la division commune d’un hôpital (art. 68, al. 1) avec lequel une convention réglant la collaboration et les tarifs a été conclue.
 
-<sup>2</sup> Lorsque l’assuré entre dans une autre division que la division commune ou dans un autre hôpital, l’assureur prend à sa charge les frais qu’il aurait dû rembourser conformément à l’al. 1 pour le traitement dans la division commune ou dans l’hôpital le plus proche qui soit approprié. L’hôpital ne peut prétendre qu’au remboursement de ces frais.
+<sup>2</sup> Lorsque l’assuré entre dans une autre division que la division commune ou, pour des raisons médicales, dans un autre hôpital, l’assureur prend à sa charge les frais qu’il aurait dû rembourser conformément à l’al. 1 pour le traitement dans la division commune ou dans l’hôpital le plus proche qui soit approprié. L’hôpital ne peut prétendre qu’au remboursement de ces frais.[^15-2]
+
+<sup>2bis</sup> Sont reconnus raisons médicales au sens de l’al. 2 les cas d’urgence et les cas où la prestation requise n’est proposée dans aucun hôpital conventionné au sens de l’al. 1.[^15-3]
 
 <sup>3</sup> L’hôpital ne peut demander à l’assuré aucune avance pour le traitement en division commune.
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)). Erratum du 24 janv. 2017 (Ne concerne que le texte italien; ([RO 2017 237](https://fedlex.data.admin.ch/eli/oc/2017/56)).
+[^15-2]: Nouvelle teneur selon le ch. III de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^15-3]: Introduit par le ch. III de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 16
 
@@ -321,7 +325,7 @@ Est réputé gain assuré le salaire déterminant au sens de la législation sur
 
 <sup>3</sup> L’indemnité journalière est calculée sur la base du salaire que l’assuré a reçu en dernier lieu avant l’accident, y compris les éléments de salaire non encore perçus et auxquels il a droit.[^22-4]
 
-<sup>3bis</sup> Si un assuré avait droit avant l’accident à une indemnité journalière conformément à la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^22-5], l’indemnité journalière correspond au moins au montant total de celle allouée par l’AI, mais au plus à 80 % du montant maximum du gain assuré selon l’al. 1.[^22-6]
+<sup>3bis</sup> Si un assuré avait droit avant l’accident à une indemnité journalière conformément à la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^22-5], l’indemnité journalière correspond au moins au montant total de celle allouée par l’AI, mais au plus à 80 % du montant maximum du gain assuré selon l’al. 1. Le montant de l’indemnité journalière allouée aux personnes visées à l’art. 1*a*, al. 1, let. c, de la loi est fixé conformément à l’art. 132*a*, al. 1.[^22-6]
 
 <sup>4</sup> Les rentes sont calculées sur la base du salaire que l’assuré a reçu d’un ou de plusieurs employeurs durant l’année qui a précédé l’accident, y compris les éléments de salaire non encore perçus et auxquels il a droit. Si les rapports de travail ont duré moins d’une année, le salaire reçu au cours de cette période est converti en gain annuel. En cas d’activité prévue initialement pour une durée déterminée, la conversion se limite à la durée prévue, pour autant que le plan de carrière actuel ou prévu de l’assuré n’envisage pas pour la suite une autre durée normale de l’activité. La conversion est limitée à la durée autorisée selon le droit applicable aux étrangers.[^22-7]
 
@@ -330,7 +334,7 @@ Est réputé gain assuré le salaire déterminant au sens de la législation sur
 [^22-3]: Abrogée par le ch. I de l’O du 21 oct. 1987, avec effet au 1<sup>er</sup> janv. 1988 ([RO 1987 1498](https://fedlex.data.admin.ch/eli/oc/1987/1498_1498_1498)).
 [^22-4]: Nouvelle teneur selon le ch. I de l’O du 15 déc. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^22-5]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^22-6]: Introduit par le ch. I de l’O du 15 déc. 1997 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3881](https://fedlex.data.admin.ch/eli/oc/2003/563)).
+[^22-6]: Introduit par le ch. I de l’O du 15 déc. 1997 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Nouvelle teneur selon l’annexe ch. 5 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^22-7]: Nouvelle teneur selon le ch. I de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 23
@@ -425,7 +429,7 @@ L’indemnité journalière subit les déductions suivantes au titre de la parti
 
 #### Art. 28
 
-**Evaluation du degré de l’invalidité dans les cas spéciaux**
+**Évaluation du degré de l’invalidité dans les cas spéciaux**
 
 <sup>1</sup> Si une invalidité consécutive à un accident couvert par l’assurance a empêché l’assuré soit d’entreprendre une formation professionnelle dont il prouve qu’elle était envisagée et conforme à ses aptitudes, soit d’achever une formation en cours, le revenu déterminant pour l’évaluation de l’invalidité est celui que l’assuré aurait pu réaliser dans la profession considérée s’il n’était pas invalide.
 
@@ -607,16 +611,16 @@ Le droit à l’allocation pour impotent prend naissance le premier jour du mois
 
 L’impotence est moyenne si l’assuré, même avec des moyens auxiliaires, a besoin:
 
-- a. d’une aide régulière et importante d’autrui pour accomplir la plupart des actes ordinaires de la vie; ou
+- a. d’une aide régulière et importante d’autrui pour accomplir la plupart des actes ordinaires de la vie, ou
 - b. d’une aide régulière et importante d’autrui pour accomplir au moins deux actes ordinaires de la vie, et nécessite, en outre, une surveillance personnelle permanente.
 
 <sup>4</sup>
 
 L’impotence est de faible degré si l’assuré, même avec des moyens auxiliaires, a besoin:
 
-- a. de façon régulière et importante, de l’aide d’autrui pour accomplir au moins deux actes ordinaires de la vie; ou
-- b. d’une surveillance personnelle permanente; ou
-- c. de façon permanente, de soins particulièrement astreignants, nécessités par son infirmité; ou
+- a. de façon régulière et importante, de l’aide d’autrui pour accomplir au moins deux actes ordinaires de la vie, ou
+- b. d’une surveillance personnelle permanente, ou
+- c. de façon permanente, de soins particulièrement astreignants, nécessités par son infirmité, ou
 - d. lorsqu’en raison d’une grave atteinte des organes sensoriels ou d’une grave infirmité corporelle, il ne peut entretenir des contacts sociaux avec son entourage que grâce à d’importants services fournis de façon régulière par des tiers.
 
 <sup>5</sup> Si l’impotence n’est que partiellement imputable à un accident, l’assureur peut réclamer à l’AVS ou à l’AI le montant de l’allocation pour impotent que ces assurances auraient dû verser à l’assuré si celui-ci n’avait pas subi un accident.
@@ -787,7 +791,7 @@ Les prestations en espèces sont réduites au moins de moitié en cas d’accide
 
 <sup>1</sup>
 
-La victime de l’accident ou ses proches doivent annoncer immédiatement l’accident à l’employeur, au service compétent de l’assurance-chômage ou à l’assureur et donner tous renseignements concernant:[^53-1]
+La victime de l’accident ou ses proches doivent annoncer immédiatement l’accident à l’employeur, au service compétent de l’assurance-chômage, à l’office AI ou à l’assureur et donner tous renseignements concernant:[^53-1]
 
 - a. le moment, le lieu, les circonstances et les suites de l’accident;
 - b.[^53-2] le médecin traitant ou l’hôpital;
@@ -799,21 +803,21 @@ sauf dans les cas bénins, une fiche d’accident; l’assuré conserve celle-ci
 
 <sup>3</sup>
 
-Les assureurs remettent gratuitement des formules de déclaration d’accident ou de maladie professionnelle. L’employeur, le service compétent de l’assurance-chômage et le médecin traitant doivent remplir ces formules de façon complète et conforme à la vérité et les renvoyer sans retard à l’assureur compétent. Ces formules doivent notamment contenir les indications permettant de:[^53-3]
+Les assureurs mettent gratuitement à disposition des formulaires de déclaration d’accident ou de maladie professionnelle. L’employeur, le service compétent de l’assurance-chômage, l’office AI ou le médecin traitant doivent remplir honnêtement ces formulaires dans leur totalité et les renvoyer sans délai à l’assureur compétent. Ces formulaires doivent notamment contenir les indications permettant de:[^53-3]
 
 - a. déterminer les circonstances de l’accident ou de l’apparition de la maladie professionnelle;
 - b. procéder à l’examen médical des suites de l’accident ou de la maladie professionnelle;
 - c. fixer les prestations;
 - d. porter une appréciation sur la sécurité au travail et établir des statistiques.
 
-<sup>4</sup> Les assureurs peuvent édicter, à l’intention des employeurs, du service compétent de l’assurance-chômage, des travailleurs et des médecins, des directives sur l’établissement des déclarations d’accident ou de maladie professionnelle.[^53-4]
+<sup>4</sup> Les assureurs peuvent édicter, à l’intention des employeurs, du service compétent de l’assurance-chômage, de l’office AI, des travailleurs et des médecins, des directives sur l’établissement des déclarations d’accident ou de maladie professionnelle.[^53-4]
 
 <sup>5</sup> La déclaration d’accident auprès de la CNA ne dispense pas l’assuré de l’obligation d’annoncer l’incapacité de travail selon l’art. 42, al. 1, de l’ordonnance du 31 août 1983 sur l’assurance-chômage[^53-5].[^53-6]
 
-[^53-1]: Nouvelle teneur selon le ch. I de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^53-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^53-2]: Nouvelle teneur selon le ch. I de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^53-3]: Nouvelle teneur selon le ch. I de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^53-4]: Nouvelle teneur selon le ch. I de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^53-3]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^53-4]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^53-5]: [RS 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
 [^53-6]: Introduit par le ch. I de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
@@ -835,11 +839,12 @@ L’assureur peut exiger de l’autorité compétente qu’elle lui fournisse le
 
 #### Art. 56
 
-**Collaboration de l’employeur ou du service compétent de l’assurance-chômage**[^56-1]
+**Participation de l’employeur, du service compétent de l’assurance-chômage ou de l’organe d’exécution compétent de l’assurance-invalidité**[^56-1]
 
-L’employeur et le service compétent de l’assurance-chômage doivent fournir à l’assureur tous les renseignements nécessaires, tenir à sa disposition les pièces servant à établir les circonstances de l’accident et donner aux mandataires de l’assureur libre accès aux locaux de l’entreprise.
+L’employeur, le service compétent de l’assurance-chômage ou l’organe d’exécution compétent de l’assurance-invalidité au sens de l’art. 53, al. 1, LAI[^56-2] doivent fournir à l’assureur tous les renseignements nécessaires, tenir à sa disposition les pièces servant à établir les circonstances de l’accident et donner aux mandataires de l’assureur libre accès aux locaux de l’entreprise.
 
-[^56-1]: Nouvelle teneur selon le ch. I de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^56-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^56-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 #### Art. 57
 
@@ -1074,17 +1079,18 @@ L’ordonnance du 3 juillet 2002 sur le calcul des coûts et le classement des p
 
 #### Art. 72
 
-**Devoirs des assureurs, des employeurs et des services compétents de l’assurance-chômage**[^72-1]
+**Devoirs des assureurs, des employeurs, du service compétent de l’assurance-chômage et de l’organe d’exécution compétent de l’assurance-invalidité**[^72-1]
 
-<sup>1</sup> Les assureurs veillent à ce que les employeurs et les services compétents de l’assurance-chômage soient suffisamment informés de la pratique de l’assurance-accidents.
+<sup>1</sup> Les assureurs veillent à ce que les employeurs, les services compétents de l’assurance-chômage et les organes d’exécution compétents de l’assurance-invalidité au sens de l’art. 53, al. 1, LAI[^72-2] soient suffisamment informés de la pratique de l’assurance-accidents.
 
-<sup>2</sup> Les employeurs et les services compétents de l’assurance-chômage sont tenus de transmettre les informations à leur personnel, en particulier celle relative à la possibilité de conclure une assurance par convention.
+<sup>2</sup> Les employeurs, les services compétents de l’assurance-chômage et les organes d’exécution compétents de l’assurance-invalidité au sens de l’art. 53, al. 1, LAI sont tenus de transmettre les informations à leur personnel ou aux personnes visées à l’art. 1*a*, al. 1, let. c, de la loi, et en particulier la possibilité de conclure une assurance par convention.
 
-[^72-1]: Nouvelle teneur selon le ch. I de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^72-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^72-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 #### Art. 72a
 
-**Emoluments**[^72a-1]
+**Émoluments**[^72a-1]
 
 <sup>1</sup> Les renseignements que donnent les assureurs aux employeurs et aux assurés sont en principe gratuits.
 
@@ -1219,7 +1225,7 @@ Sont également réputées entreprises de surveillance des travaux au sens de l�
 
 #### Art. 84
 
-**Ecoles de métiers et ateliers protégés**
+**Écoles de métiers et ateliers protégés**
 
 Sont réputés écoles de métiers et ateliers protégées au sens de l’art. 66, al. 1, let. n, LAA:[^84-1]
 
@@ -1268,7 +1274,7 @@ Sont réputés travaux à son propre compte au sens de l’art. 66, al. 2, let. 
 
 **Enregistrement**
 
-<sup>1</sup> Les assureurs désignés à l’art. 68 de la loi ne peuvent participer à la gestion de l’assurance-accidents qu’à partir du début d’une année civile. A cette fin, ils doivent, jusqu’au 30 juin de l’année précédente, présenter une demande d’enregistrement à l’OFSP.
+<sup>1</sup> Les assureurs désignés à l’art. 68 de la loi ne peuvent participer à la gestion de l’assurance-accidents qu’à partir du début d’une année civile. À cette fin, ils doivent, jusqu’au 30 juin de l’année précédente, présenter une demande d’enregistrement à l’OFSP.
 
 <sup>2</sup>
 
@@ -1660,7 +1666,7 @@ Les primes sont perçues sur le gain assuré au sens de l’art. 22, al. 1 et 2.
 
 <sup>1</sup> La majoration pour paiement échelonné des primes s’élève à 1,250 % de la prime annuelle pour le paiement par semestre et à 1,875 % le paiement par trimestre. L’assureur peut appliquer une majoration minimale de 10 francs par tranche.[^117-1]
 
-<sup>2</sup> Le délai de paiement des primes est d’un mois à compter de l’échéance. A l’expiration de ce délai, l’assureur prélève un intérêt moratoire de 0,5 % par mois.[^117-2]
+<sup>2</sup> Le délai de paiement des primes est d’un mois à compter de l’échéance. À l’expiration de ce délai, l’assureur prélève un intérêt moratoire de 0,5 % par mois.[^117-2]
 
 <sup>3</sup> Les majorations et les intérêts moratoires ne doivent pas être imputés sur le salaire des travailleurs.
 
@@ -1872,11 +1878,71 @@ Un émolument est perçu dans les cas visés à l’art. 97, al. 6, de la loi, l
 
 [^131-1]: Nouvelle teneur selon le ch. I de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
+## Titre 8*a* Assurance-accidents des personnes visées à l’art. 1*a*, al. 1, let. c, de la loi****
+
+[^tit8a-1]
+
+[^tit8a-1]: Introduit par l’annexe ch. 5 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
 #### Art. 132
 
-[^132-1]
+**Début et fin de l’assurance**[^132-1]
 
-[^132-1]: Abrogé par le ch. I de l’O du 9 nov. 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+<sup>1</sup> Pour les personnes visées à l’art. 1*a*, al. 1, let. c, de la loi, l’assurance commence à courir le jour où débute la mesure, mais en tout cas au moment où la personne concernée se rend à l’endroit où la mesure a lieu.
+
+<sup>2</sup> Elle prend fin le 31<sup>e</sup> jour qui suit le jour où la mesure se termine.
+
+[^132-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 132a
+
+**Montant de l’indemnité journalière**[^132a-1]
+
+<sup>1</sup> Le montant net de l’indemnité journalière au sens de l’art. 17, al. 4, de la loi comprend l’indemnité de base au sens des art. 23 ou 24<sup>ter</sup> LAI[^132a-2], après déduction des cotisations aux assurances sociales visées à l’art. 25 LAI.
+
+<sup>2</sup> Outre les indemnités journalières des personnes visées à l’art. 1*a*, al. 1, let. c, de la loi, l’assurance-accidents verse la prestation pour enfant au sens de l’art. 23<sup>bis</sup> LAI.
+
+<sup>3</sup> Pour les personnes visées à l’art. 1*a*, al. 1, let. c, de la loi qui n’ont droit ni à une indemnité journalière de l’assurance-invalidité, ni à une rente de cette même assurance, l’indemnité journalière est calculée sur la base du gain assuré déterminé conformément à l’art. 23, al. 6.
+
+<sup>4</sup> Pour les personnes visées à l’art. 1*a*, al. 1, let. c, de la loi, l’assurance-accidents verse l’intégralité de la prestation, indépendamment du taux d’incapacité de travail, jusqu’à ce que la mesure de l’assurance-invalidité reprenne ou puisse reprendre du point de vue médical. L’assurance-accidents définit, d’entente avec l’organe d’exécution de l’assurance-invalidité, le moment où cette mesure pourrait reprendre.
+
+[^132a-1]: Introduit par l’annexe ch. 5 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^132a-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+
+#### Art. 132b
+
+**Calcul des rentes**[^132b-1]
+
+<sup>1</sup> Pour les personnes visées à l’art. 1*a*, al. 1, let. c, de la loi qui touchent une indemnité journalière de l’assurance-invalidité, le revenu issu d’une activité lucrative sur lequel l’office AI s’est fondé pour calculer le montant des indemnités journalières est considéré comme gain assuré et sert de base au calcul des rentes.
+
+<sup>2</sup> Pour les personnes visées à l’art. 1*a*, al. 1, let. c, de la loi qui n’ont droit ni à une indemnité journalière de l’assurance-invalidité, ni à une rente de cette même assurance, les rentes sont calculées, dès 20 ans révolus, sur la base d’un revenu annuel de 20 % au moins, et, avant 20 ans révolus, sur la base d’un revenu annuel de 10 % au moins du montant maximal du gain annuel assuré. À 20 ans, le revenu annuel est augmenté à 20 % au moins du montant maximal du gain annuel assuré.
+
+<sup>3</sup> Pour les personnes visées à l’art. 1*a*, al. 1, let. c, de la loi qui perçoivent une rente de l’assurance-invalidité, le gain assuré au sens de l’al. 2 est réduit proportionnellement à la part en pour cent du degré d’invalidité au sens de l’art. 28*a* LAI[^132b-2]. Si un revenu plus élevé a été réalisé au sens de l’art. 15, al. 2, de la loi, la rente est calculée sur la base de ce gain assuré.
+
+[^132b-1]: Introduit par l’annexe ch. 5 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^132b-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+
+#### Art. 132c
+
+**Primes**[^132c-1]
+
+<sup>1</sup>
+
+Les primes sont fixées en pour-mille:
+
+- a. du montant net de l’indemnité journalière visée à l’art. 132*a*, al. 1, allouée par l’assurance-invalidité;
+- b. du gain assuré visé à l’art. 132*b*, al. 2, pour les personnes visées à l’art. 1*a*, al. 1, let. c, de la loi qui n’ont droit ni à une indemnité journalière ni à une rente de l’assurance-invalidité, et
+- c. du gain assuré visé à l’art. 132*b*, al. 3, pour les personnes visées à l’art. 1*a*, al. 1, let. c, de la loi qui perçoivent une rente de l’assurance-invalidité.
+
+<sup>2</sup> Les primes de l’assurance obligatoire contre les accidents non professionnels sont à la charge de l’assurance-invalidité.
+
+<sup>3</sup> Sur la base de l’expérience acquise en matière de risques, la CNA peut, de sa propre initiative ou à la demande de l’Office fédéral des assurances sociales, modifier les taux de prime pour le début d’un mois civil.
+
+<sup>4</sup> Toute modification des taux de prime doit être communiquée à l’Office fédéral des assurances sociales, au moyen de la décision, au moins deux mois avant qu’elle ne déploie ses effets.
+
+<sup>5</sup> La CNA tient une statistique des risques pour les accidents des personnes visées à l’art. 1*a*, al. 1, let. c, de la loi.
+
+[^132c-1]: Introduit par l’annexe ch. 5 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 133
 
@@ -2096,7 +2162,7 @@ Annexe 1*[^t-1]*
 
 ## Maladies professionnelles
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 15 déc. 1997 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Mise à jour selon le ch. I de l’O du 21 fév. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2018 ([RO 2018 1025](https://fedlex.data.admin.ch/eli/oc/2018/157)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 15 déc. 1997 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Mise à jour par le ch. I de l’O du 21 fév. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2018 ([RO 2018 1025](https://fedlex.data.admin.ch/eli/oc/2018/157)).
 
 **Liste des substances nocives et des affections dues à certains travaux selon l****’****art. 14 de l****’****ordonnance**
 
@@ -2236,9 +2302,9 @@ Diazométhane
 
 Essence de térébenthine
 
-Etain, composés de l’
+Étain, composés de l’
 
-Ethylène-imine
+Éthylène-imine
 
 Fluor et ses composés
 
@@ -2377,7 +2443,7 @@ Zinc et ses composés
 <tr><td>b. Affections dues à certains travaux /autres affections:</td><td></td></tr>
 <tr><td>Pneumoconioses</td><td>travaux dans les poussières d’aluminium, de silicates, de graphite, de silice (quartz), de métaux durs</td></tr>
 <tr><td>Affections de l’appareil respiratoire</td><td>travaux dans les poussières de coton, de chanvre, de lin, de céréales et de leurs farines, d’enzymes, de moisissures et dans d’autres poussières organiques</td></tr>
-<tr><td>Epithéliomas de la peau et précancéroses</td><td>tous travaux avec des composés, produits et résidus de goudron, brai, bitume, huiles minérales, paraffine</td></tr>
+<tr><td>Épithéliomas de la peau et précancéroses</td><td>tous travaux avec des composés, produits et résidus de goudron, brai, bitume, huiles minérales, paraffine</td></tr>
 <tr><td>Maladies infectieuses</td><td>travaux dans des hôpitaux, des laboratoires, des instituts de recherches et établissements analogues</td></tr>
 <tr><td>Maladies causées par contact avec les plantes</td><td>travaux impliquant un contact avec des plantes et des parties de plantes</td></tr>
 <tr><td>Maladies causées par contact avec les animaux</td><td>garde et soin des animaux; activités exposant au risque de maladie par contact avec des animaux, des parties et des déchets d’animaux et des produits d’origine animale; chargement, déchargement ou transport de marchandises</td></tr>
@@ -2395,7 +2461,7 @@ Annexe 2*[^t-2]*
 
 L’indemnité journalière est calculée conformément à la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20180401/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/fr/xml/image/image1.png)
 
 Exemples
 
@@ -2408,7 +2474,7 @@ Exemples
 <tr><td>[tab] 13<sup>e</sup> salaire mensuel</td><td>3 650.—</td></tr>
 <tr><td>[tab] Allocations familiales: Fr. 365.– × 12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Gain annuel</td><td>51 830.—</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20180401/fr/xml/image/image2.png)</td><td>113.60</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/fr/xml/image/image2.png)</td><td>113.60</td></tr>
 <tr><td>[tab] Nombre de jours indemnisés: 13</td><td></td></tr>
 <tr><td>[tab] Total: 13 × 113.60 = Fr. 1476.80 arrondis à</td><td>1 477.—</td></tr>
 <tr><td>b. Salaire horaire</td><td></td></tr>
@@ -2420,7 +2486,7 @@ Exemples
 <tr><td>[tab] 13<sup>e</sup> salaire mensuel</td><td>3 557.30</td></tr>
 <tr><td>[tab] Allocations familiales Fr. 365.–×12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Gain annuel</td><td>50 642.30</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20180401/fr/xml/image/image3.png)</td><td>111.—</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/fr/xml/image/image3.png)</td><td>111.—</td></tr>
 <tr><td>[tab] Nombre de jours indemnisés: 22</td><td></td></tr>
 <tr><td>[tab] Total: 22 × 111.– =</td><td>2 442.—</td></tr>
 </table>
@@ -2429,9 +2495,9 @@ Annexe 3*[^t-3]*
 
 (art. 36, al. 2)
 
-## Evaluation des indemnités pour atteinte à l’intégrité
+## Évaluation des indemnités pour atteinte à l’intégrité
 
-[^t-3]: Nouvelle teneur selon le ch. II de l’O du 15 déc. 1997 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Mise à jour selon le ch. II de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3881](https://fedlex.data.admin.ch/eli/oc/2003/563)).
+[^t-3]: Nouvelle teneur selon le ch. II de l’O du 15 déc. 1997 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Mise à jour par le ch. II de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3881](https://fedlex.data.admin.ch/eli/oc/2003/563)).
 
 - 1\. Pour les atteintes à l’intégrité désignées ci-après, l’indemnité s’élève en règle générale au pourcentage indiqué du montant maximum du gain assuré.
 - Pour les atteintes à l’intégrité qui sont spéciales ou qui ne figurent pas dans la liste, on appliquera le barème par analogie en tenant compte de la gravité de l’atteinte. On procédera de même lorsque l’assuré présente simultanément plusieurs atteintes à l’intégrité physique**,** mentaleou psychique.
@@ -2457,5 +2523,5 @@ Barèmes des indemnités pour atteinte à l’intégrité
 <tr><td>Atteinte très grave et douloureuse au onctionnement de la colonne vertébrale</td><td>50</td><td>Paraplégie</td><td>90</td></tr>
 <tr><td>Tétraplégie</td><td>100</td><td>Atteinte très grave à la fonction pulmonaire</td><td>80</td></tr>
 <tr><td>Atteinte très grave à la fonction rénale</td><td>80</td><td>Atteinte à des fonctions psychiques partielles, comme la mémoire et la capacité de concentration</td><td>20</td></tr>
-<tr><td>Epilepsie post-traumatique avec crises ou sous médicamentation permanente sans crise</td><td>30</td><td>Très grave trouble organique de la parole, très grave syndrome moteur ou psycho-organique</td><td>80</td></tr>
+<tr><td>Épilepsie post-traumatique avec crises ou sous médicamentation permanente sans crise</td><td>30</td><td>Très grave trouble organique de la parole, très grave syndrome moteur ou psycho-organique</td><td>80</td></tr>
 </table>

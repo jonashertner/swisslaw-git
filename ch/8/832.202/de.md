@@ -4,11 +4,11 @@ title: Verordnung vom 20. Dezember 1982 über die Unfallversicherung (UVV)
 short: UVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/38_38_38"
 language: de
-version: 2018-04-01
+version: 2022-01-01
 adopted: 1982-12-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20180401/de/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20180401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20180401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20180401/de"
 
 (UVV)
 
-vom 20. Dezember 1982 (Stand am 1. April 2018)
+vom 20. Dezember 1982 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -27,7 +27,7 @@ verordnet:
 
 [^ingress-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^ingress-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^ingress-3]: [[AS 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836), [1988 414](https://fedlex.data.admin.ch/eli/oc/1988/414_414_414), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 66[733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733)SchlB Art. 7 Ziff. 3 2363 Anhang Ziff. 2, **1993** 3204, **1995** 1328 Anhang Ziff. 2 3517 Ziff. I 12 5679, **2000** 2355 Anhang Ziff. 28, **2003** 232, **2004** 1677 Anhang Ziff. 4 2617 Anhang Ziff. 12. [AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)Anhang Ziff. I 3]. Siehe heute das BG vom 17. Dez. 2004 ([SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)).
+[^ingress-3]: [[AS 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [1988 414](https://fedlex.data.admin.ch/eli/oc/1988/414_414_414); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 66,[733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733)SchlB Art. 7 Ziff. 3, 2363 Anhang Ziff. 2, **1993** 3204, **1995** 1328 Anhang Ziff. 2 3517 Ziff. I 12 5679, **2000** 2355 Anhang Ziff. 28; **2003** 232; **2004** 1677 Anhang Ziff. 4, 2617 Anhang Ziff. 12. [AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)Anhang Ziff. I 3]. Siehe heute das BG vom 17. Dez. 2004 ([SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)).
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 ## Erster Titel: Versicherte Personen
@@ -63,14 +63,14 @@ Als Arbeitnehmer nach Artikel 1*a* Absatz 1 des Gesetzes gilt, wer eine unselbst
 Nicht obligatorisch versichert sind:
 
 - a.[^2-1] mitarbeitende Familienglieder, die keinen Barlohn beziehen und keine Beiträge an die AHV entrichten oder die nach Artikel 1*a* Absatz 2 Buchstaben a und b des Bundesgesetzes vom 20. Juni 1952[^2-2] über die Familienzulagen in der Landwirtschaft den selbstständigen Landwirten gleichgestellt sind;
-- [tab] b.–d. ...[^2-3]
+- [tab] b.–d. …[^2-3]
 - e.[^2-4] Bundesbedienstete, die nach Artikel 1*a* Absatz 1 Buchstabe b des Bundesgesetzes vom 19. Juni 1992[^2-5] über die Militärversicherung (MVG) der Militärversicherung unterstellt sind;
 - f.[^2-6] Mitglieder von Verwaltungsräten, die nicht im Betrieb tätig sind, für diese Tätigkeit;
-- g.[^2-7] ...
+- g.[^2-7] …
 - h.[^2-8] Personen, die Tätigkeiten im öffentlichen Interesse ausüben, sofern kein Dienstvertrag vorliegt, wie insbesondere Mitglieder von Parlamenten, Behörden und Kommissionen, für diese Tätigkeit;
 - i.[^2-9] Angehörige der Milizfeuerwehren.
 
-<sup>2</sup> ...[^2-10]
+<sup>2</sup> …[^2-10]
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 [^2-2]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
@@ -230,11 +230,15 @@ Die schädigenden Stoffe und arbeitsbedingten Erkrankungen im Sinne von Artikel 
 
 <sup>1</sup> Der Versicherte hat Anspruch auf Behandlung, Verpflegung und Unterkunft in der allgemeinen Abteilung eines Spitals (Art. 68 Abs. 1), mit dem ein Zusammenarbeits- und Tarifvertrag abgeschlossen wurde.
 
-<sup>2</sup> Begibt sich der Versicherte in eine andere als die allgemeine Abteilung oder in ein anderes Spital, so übernimmt die Versicherung die Kosten, die ihr bei der Behandlung in der allgemeinen Abteilung dieses oder des nächstgelegenen entsprechenden Spitals nach Absatz 1 erwachsen wären. Das Spital hat nur Anspruch auf die Erstattung dieser Kosten.
+<sup>2</sup> Begibt sich der Versicherte in eine andere als die allgemeine Abteilung oder aus medizinischen Gründen in ein anderes Spital, so übernimmt die Versicherung die Kosten, die ihr bei der Behandlung in der allgemeinen Abteilung dieses oder des nächstgelegenen entsprechenden Spitals nach Absatz 1 erwachsen wären. Das Spital hat nur Anspruch auf die Erstattung dieser Kosten.[^15-2]
+
+<sup>2bis</sup> Medizinische Gründe nach Absatz 2 liegen bei einem Notfall vor oder wenn die erforderliche Leistung in keinem Vertragsspital nach Absatz 1 angeboten wird.[^15-3]
 
 <sup>3</sup> Für die Behandlung in der allgemeinen Abteilung darf das Spital vom Versicherten keinen Vorschuss verlangen.
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)). Die Berichtigung vom 24. Jan. 2017 betrifft nur den italienischen Text ([AS 2017 237](https://fedlex.data.admin.ch/eli/oc/2017/56)).
+[^15-2]: Fassung gemäss Ziff. III der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^15-3]: Eingefügt durch Ziff. III der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 16
 
@@ -312,19 +316,19 @@ Als versicherter Verdienst gilt der nach der Bundesgesetzgebung über die AHV ma
 - b. Familienzulagen, die als Kinder‑, Ausbildungs- oder Haushaltszulagen im orts- oder branchenüblichen Rahmen gewährt werden, gelten ebenfalls als versicherter Verdienst;
 - c. für mitarbeitende Familienglieder, Gesellschafter, Aktionäre und Genossenschafter wird mindestens der berufs- und ortsübliche Lohn berücksichtigt;
 - d. Entschädigungen bei Auflösung des Arbeitsverhältnisses, bei Betriebsschliessung, Betriebszusammenlegung oder bei ähnlichen Gelegenheiten werden nicht berücksichtigt.
-- e.[^22-2] ...
+- e.[^22-2] …
 
 <sup>3</sup> Als Grundlage für die Bemessung der Taggelder gilt der letzte vor dem Unfall bezogene Lohn, einschliesslich noch nicht ausbezahlter Lohnbestandteile, auf die ein Rechtsanspruch besteht.[^22-3]
 
-<sup>3bis</sup> Hatte eine versicherte Person bis zum Unfall Anspruch auf ein Taggeld nach dem Bundesgesetz vom 19. Juni 1959[^22-4] über die Invalidenversicherung (IVG), so entspricht das Taggeld mindestens dem bisher bezogenen Gesamtbetrag des Taggeldes der IV, höchstens aber 80 Prozent des Höchstbetrages des versicherten Verdienstes nach Absatz 1.[^22-5]
+<sup>3bis</sup> Hatte eine versicherte Person bis zum Unfall Anspruch auf ein Taggeld nach dem Bundesgesetz vom 19. Juni 1959[^22-4] über die Invalidenversicherung (IVG), so entspricht das Taggeld mindestens dem bisher bezogenen Gesamtbetrag des Taggeldes der IV, höchstens aber 80 Prozent des Höchstbetrages des versicherten Verdienstes nach Absatz 1. Für Personen nach Artikel 1*a* Absatz 1 Buchstabe c des Gesetzes richtet sich die Höhe der Taggelder nach Artikel 132*a* Absatz 1.[^22-5]
 
 <sup>4</sup> Als Grundlage für die Bemessung der Renten gilt der innerhalb eines Jahres vor dem Unfall bei einem oder mehreren Arbeitgebern bezogene Lohn, einschliesslich noch nicht ausbezahlter Lohnbestandteile, auf die ein Rechtsanspruch besteht. Dauerte das Arbeitsverhältnis nicht das ganze Jahr, so wird der in dieser Zeit bezogene Lohn auf ein volles Jahr umgerechnet. Bei einer zum Voraus befristeten Beschäftigung bleibt die Umrechnung auf die vorgesehene Dauer beschränkt, ausser wenn sich nach der bisherigen oder beabsichtigten Ausgestaltung der Erwerbsarbeitsbiografie eine andere Normaldauer der Beschäftigung ergibt. Die Umrechnung ist auf die ausländerrechtlich zulässige Zeitspanne beschränkt.[^22-6]
 
 [^22-1]: Fassung gemäss Ziff. I der V vom 12. Nov. 2014, in Kraft seit 1. Jan. 2016 ([AS 2014 4213](https://fedlex.data.admin.ch/eli/oc/2014/702)).
 [^22-2]: Aufgehoben durch Ziff. I der V vom 21. Okt. 1987, mit Wirkung seit 1. Jan. 1988 ([AS 1987 1498](https://fedlex.data.admin.ch/eli/oc/1987/1498_1498_1498)).
 [^22-3]: Fassung gemäss Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^22-4]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^22-5]: Eingefügt durch Ziff. I der V vom 15. Dez. 1997 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3881](https://fedlex.data.admin.ch/eli/oc/2003/563)).
+[^22-4]: SR **821.20**
+[^22-5]: Eingefügt durch Ziff. I der V vom 15. Dez. 1997 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Fassung gemäss Anhang Ziff. 5 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^22-6]: Fassung gemäss Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 23
@@ -333,7 +337,7 @@ Als versicherter Verdienst gilt der nach der Bundesgesetzgebung über die AHV ma
 
 <sup>1</sup> Bezieht der Versicherte wegen Militärdienst, Zivildienst, Zivilschutzdienst, Unfall, Krankheit, Mutterschaft oder Kurzarbeit keinen oder einen verminderten Lohn, so wird der Verdienst berücksichtigt, den er ohne Militärdienst, Zivildienst, Zivilschutzdienst, Unfall, Krankheit, Mutterschaft oder Kurzarbeit erzielt hätte.[^23-1]
 
-<sup>2</sup> ...[^23-2]
+<sup>2</sup> …[^23-2]
 
 <sup>3</sup> Übt der Versicherte keine regelmässige Erwerbstätigkeit aus oder unterliegt sein Lohn starken Schwankungen, so wird auf einen angemessenen Durchschnittslohn pro Tag abgestellt.
 
@@ -371,7 +375,7 @@ Als versicherter Verdienst gilt der nach der Bundesgesetzgebung über die AHV ma
 
 <sup>4</sup> Erleidet der Bezüger einer Invalidenrente einen weiteren versicherten Unfall, der zu einer höheren Invalidität führt, so ist für die neue Rente aus beiden Unfällen der Lohn massgebend, den der Versicherte im Jahre vor dem letzten Unfall bezogen hätte, wenn früher kein versicherter Unfall eingetreten wäre. Ist dieser Lohn kleiner als der vor dem ersten versicherten Unfall bezogene Lohn, so ist der höhere Lohn massgebend.[^24-2]
 
-<sup>5</sup> ...[^24-3]
+<sup>5</sup> …[^24-3]
 
 [^24-1]: Fassung gemäss Anhang 3 Ziff. 7 der Zivildienstverordnung vom 11. Sept. 1996, in Kraft seit 1. Okt. 1996 ([AS 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)).
 [^24-2]: Fassung gemäss Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
@@ -385,7 +389,7 @@ Als versicherter Verdienst gilt der nach der Bundesgesetzgebung über die AHV ma
 
 <sup>1</sup> Das Taggeld wird nach Anhang 2 berechnet und für alle Tage, einschliesslich der Sonn- und Feiertage, ausgerichtet.[^25-1]
 
-<sup>2</sup> ...[^25-2]
+<sup>2</sup> …[^25-2]
 
 <sup>3</sup> Die Unfallversicherung erbringt die ganze Leistung, wenn die Arbeitsunfähigkeit eines arbeitslosen Versicherten mehr als 50 Prozent beträgt, und die halbe Leistung, wenn die Arbeitsunfähigkeit mehr als 25, aber höchstens 50 Prozent beträgt. Bei einer Arbeitsunfähigkeit von 25 und weniger Prozent besteht kein Taggeldanspruch.[^25-3]
 
@@ -632,17 +636,13 @@ Die Verpflichtung zu Unterhaltsbeiträgen an den geschiedenen Ehegatten nach Art
 
 **Unterhaltsbeiträge nach ausländischem Recht**
 
-War der verstorbene Versicherte aufgrund ausländischen Rechts nur zur Leistung eines Unterhaltsbeitrages an ein aussereheliches Kind verpflichtet, so hat dieses Anspruch auf eine Waisenrente, sofern die Verpflichtung durch ein rechtskräftiges
-
-Gerichtsurteil ausgewiesen ist.
+War der verstorbene Versicherte aufgrund ausländischen Rechts nur zur Leistung eines Unterhaltsbeitrages an ein aussereheliches Kind verpflichtet, so hat dieses Anspruch auf eine Waisenrente, sofern die Verpflichtung durch ein rechtskräftiges Gerichtsurteil ausgewiesen ist.
 
 #### Art. 42
 
 **Vollwaisen**
 
-Sterben Vater und Mutter an den Folgen versicherter Unfälle, so wird die Vollwaisenrente aufgrund des versicherten Verdienstes des Vaters und jenes der Mutter
-
-berechnet, wobei die Summe der beiden Verdienste nur bis zum Höchstbetrag des versicherten Verdienstes berücksichtigt wird.
+Sterben Vater und Mutter an den Folgen versicherter Unfälle, so wird die Vollwaisenrente aufgrund des versicherten Verdienstes des Vaters und jenes der Mutter berechnet, wobei die Summe der beiden Verdienste nur bis zum Höchstbetrag des versicherten Verdienstes berücksichtigt wird.
 
 #### Art. 43
 
@@ -656,9 +656,7 @@ berechnet, wobei die Summe der beiden Verdienste nur bis zum Höchstbetrag des v
 
 <sup>4</sup> Wird infolge eines Unfalls eine Hinterlassenenrente der AHV, eine Rente der IV oder eine gleichartige Rente einer ausländischen Sozialversicherung erhöht oder wird eine Rente der IV oder eine gleichartige Rente einer ausländischen Sozialversicherung durch eine Hinterlassenenrente der AHV oder eine gleichartige Rente einer ausländischen Sozialversicherung abgelöst, so wird bei der Berechnung der Komplementärrente nur die Differenz zur früheren Rente berücksichtigt.[^43-4]
 
-<sup>5</sup> Hat der Versicherte vor seinem Tod neben der unselbständigen noch eine selbständige Erwerbstätigkeit ausgeübt, so wird für die Festsetzung der Grenze von 90 Prozent nach Artikel 20 Absatz 2 des Gesetzes neben dem versicherten Verdienst
-
-auch das Einkommen aus selbständiger Erwerbstätigkeit bis zum Höchstbetrag des versicherten Verdienstes berücksichtigt.
+<sup>5</sup> Hat der Versicherte vor seinem Tod neben der unselbständigen noch eine selbständige Erwerbstätigkeit ausgeübt, so wird für die Festsetzung der Grenze von 90 Prozent nach Artikel 20 Absatz 2 des Gesetzes neben dem versicherten Verdienst auch das Einkommen aus selbständiger Erwerbstätigkeit bis zum Höchstbetrag des versicherten Verdienstes berücksichtigt.
 
 <sup>6</sup> Die Artikel 31 Absätze 3 und 4 sowie 33 Absatz 2 sind anwendbar.
 
@@ -774,7 +772,7 @@ Die Geldleistungen werden mindestens um die Hälfte gekürzt für Nichtberufsunf
 
 <sup>1</sup>
 
-Der Verunfallte oder seine Angehörigen müssen dem Arbeitgeber beziehungsweise der zuständigen Stelle der Arbeitslosenversicherung oder dem Versicherer den Unfall unverzüglich melden und Auskunft geben über:[^53-1]
+Der Verunfallte oder seine Angehörigen müssen dem Arbeitgeber, der zuständigen Stelle der Arbeitslosenversicherung, der IV-Stelle oder dem Versicherer den Unfall unverzüglich melden und Auskunft geben über:[^53-1]
 
 - a. Zeit, Ort, Hergang und Folgen des Unfalles;
 - b.[^53-2] den behandelnden Arzt oder das Spital;
@@ -784,21 +782,21 @@ Der Verunfallte oder seine Angehörigen müssen dem Arbeitgeber beziehungsweise 
 
 <sup>3</sup>
 
-Für die Meldung von Unfällen und Berufskrankheiten stellen die Versicherer unentgeltlich Formulare zur Verfügung. Diese sind vom Arbeitgeber, von der zuständigen Stelle der Arbeitslosenversicherung beziehungsweise vom behandelnden Arzt vollständig und wahrheitsgetreu auszufüllen und unverzüglich dem zuständigen Versicherer zuzustellen. Die Formulare müssen insbesondere die Angaben enthalten, die erforderlich sind:[^53-3]
+Für die Meldung von Unfällen und Berufskrankheiten stellen die Versicherer unentgeltlich Formulare zur Verfügung. Diese sind vom Arbeitgeber, von der zuständigen Stelle der Arbeitslosenversicherung, von der IV-Stelle oder vom behandelnden Arzt vollständig und wahrheitsgetreu auszufüllen und unverzüglich dem zuständigen Versicherer zuzustellen. Die Formulare müssen insbesondere die Angaben enthalten, die erforderlich sind:[^53-3]
 
 - a. zur Abklärung des Unfallherganges oder der Entstehung einer Berufskrankheit;
 - b. für die medizinische Abklärung der Folgen eines Unfalles oder einer Berufskrankheit;
 - c. für die Festsetzung der Leistungen;
 - d. für die Beurteilung der Arbeitssicherheit und die Führung von Statistiken.
 
-<sup>4</sup> Die Versicherer können Richtlinien über die Meldung von Unfällen und Berufskrankheiten durch Arbeitgeber, die zuständigen Stellen der Arbeitslosenversicherung, Arbeitnehmer und Ärzte aufstellen.[^53-4]
+<sup>4</sup> Die Versicherer können Richtlinien über die Meldung von Unfällen und Berufskrankheiten durch Arbeitgeber, die zuständigen Stellen der Arbeitslosenversicherung, die IV-Stelle, Arbeitnehmer und Ärzte aufstellen.[^53-4]
 
 <sup>5</sup> Die Unfallmeldung an die Suva entbindet nicht von der Meldepflicht nach Artikel 42 Absatz 1 der Arbeitslosenversicherungsverordnung vom 31. August 1983[^53-5].[^53-6]
 
-[^53-1]: Fassung gemäss Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^53-1]: Fassung gemäss Anhang Ziff. 5 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^53-2]: Fassung gemäss Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^53-3]: Fassung gemäss Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^53-4]: Fassung gemäss Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^53-3]: Fassung gemäss Anhang Ziff. 5 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^53-4]: Fassung gemäss Anhang Ziff. 5 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^53-5]: [SR 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
 [^53-6]: Eingefügt durch Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
@@ -818,11 +816,12 @@ Der Versicherer kann bei der zuständigen Behörde die erforderlichen Auskünfte
 
 #### Art. 56
 
-**Mitwirkung des Arbeitgebers oder der zuständigen Stelle der Arbeitslosenversicherung**[^56-1]
+**Mitwirkung des Arbeitgebers, der zuständigen Stelle der Arbeitslosenversicherung oder der zuständigen Durchführungsstelle der Invalidenversicherung**[^56-1]
 
-Der Arbeitgeber oder die zuständige Stelle der Arbeitslosenversicherung muss dem Versicherer alle erforderlichen Auskünfte erteilen, die Unterlagen zur Verfügung halten, die für die Klärung des Unfallsachverhaltes benötigt werden, und den Beauftragten des Versicherers freien Zutritt zum Betrieb gewähren.
+Der Arbeitgeber, die zuständige Stelle der Arbeitslosenversicherung oder die zuständige Durchführungsstelle der Invalidenversicherung nach Artikel 53 Absatz 1 IVG[^56-2] muss dem Versicherer alle erforderlichen Auskünfte erteilen, die Unterlagen zur Verfügung halten, die für die Klärung des Unfallsachverhaltes benötigt werden, und den Beauftragten des Versicherers freien Zutritt zum Betrieb gewähren.
 
-[^56-1]: Fassung gemäss Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^56-1]: Fassung gemäss Anhang Ziff. 5 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^56-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 #### Art. 57
 
@@ -836,7 +835,7 @@ Der Arbeitgeber oder die zuständige Stelle der Arbeitslosenversicherung muss de
 
 <sup>1</sup> Der Versicherer vergütet dem Versicherten oder seinen Hinterlassenen die durch die angeordneten Abklärungen entstandenen notwendigen Reise‑, Unterkunfts- und Verpflegungskosten, Lohnausfälle im Rahmen des versicherten Verdienstes sowie Aufwendungen für Unterlagen, die auf Verlangen des Versicherers beschafft werden.
 
-<sup>2</sup> ...[^58-1]
+<sup>2</sup> …[^58-1]
 
 [^58-1]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
@@ -1033,7 +1032,7 @@ Die Verordnung vom 3. Juli 2002[^70a-2] über die Kostenermittlung und die Leist
 
 **Koordination der Tarife**
 
-<sup>1</sup> ...[^71-1]
+<sup>1</sup> …[^71-1]
 
 <sup>2</sup> Die Versicherer vergüten Arzneimittel, pharmazeutische Spezialitäten und Laboranalysen nach den Listen, die aufgrund von Artikel 52 Absatz 1 des Bundesgesetzes vom 18. März 1994[^71-2] über die Krankenversicherung (KVG) aufgestellt sind.[^71-3]
 
@@ -1051,13 +1050,14 @@ Die Verordnung vom 3. Juli 2002[^70a-2] über die Kostenermittlung und die Leist
 
 #### Art. 72
 
-**Pflichten der Versicherer sowie der Arbeitgeber und der zuständigen Stelle der Arbeitslosenversicherung**[^72-1]
+**Pflichten der Versicherer sowie der Arbeitgeber, der zuständigen Stelle der Arbeitslosenversicherung und der zuständigen Durchführungsstelle der Invalidenversicherung**[^72-1]
 
-<sup>1</sup> Die Versicherer sorgen dafür, dass die Arbeitgeber und die zuständigen Stellen der Arbeitslosenversicherung über die Durchführung der Unfallversicherung ausreichend informiert werden.
+<sup>1</sup> Die Versicherer sorgen dafür, dass die Arbeitgeber, die zuständigen Stellen der Arbeitslosenversicherung und zuständigen Durchführungsstellen der Invalidenversicherung nach Artikel 53 Absatz 1 IVG[^72-2] über die Durchführung der Unfallversicherung ausreichend informiert werden.
 
-<sup>2</sup> Die Arbeitgeber und die zuständigen Stellen der Arbeitslosenversicherung sind verpflichtet, die Informationen an die Arbeitnehmer weiterzugeben und insbesondere über die Möglichkeit der Abredeversicherung zu informieren.
+<sup>2</sup> Die Arbeitgeber, die zuständigen Stellen der Arbeitslosenversicherung und die Durchführungsstellen der Invalidenversicherung nach Artikel 53 Absatz 1 IVG sind verpflichtet, die Informationen an die Arbeitnehmer oder Personen nach Artikel 1*a* Absatz 1 Buchstabe c des Gesetzes weiterzugeben und insbesondere über die Möglichkeit der Abredeversicherung zu informieren.
 
-[^72-1]: Fassung gemäss Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^72-1]: Fassung gemäss Anhang Ziff. 5 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^72-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 #### Art. 72a
 
@@ -1437,7 +1437,7 @@ Die Versicherer müssen sich auf Anfrage gegenseitig über Unfälle, Berufskrank
 
 <sup>1</sup> Das BAG übt die Aufsicht über die einheitliche Anwendung des Gesetzes durch die Versicherer aus.
 
-<sup>2</sup> Das BAG übt überdies die Stiftungsaufsicht über die Ersatzkasse aus. ...[^104-1]
+<sup>2</sup> Das BAG übt überdies die Stiftungsaufsicht über die Ersatzkasse aus. …[^104-1]
 
 <sup>3</sup> Die Eidgenössische Finanzmarktaufsicht übt die Aufsicht über die Versicherungseinrichtungen, die dem Versicherungsaufsichtsgesetz vom 23. Juni 1978 unterstehen, nach Massgabe der Versicherungsaufsichtsgesetzgebung aus.
 
@@ -1767,7 +1767,7 @@ Eine schriftliche Verfügung ist insbesondere zu erlassen über:
 
 <sup>5</sup> Besteht ein Rentenanspruch sowohl gegen die Unfallversicherung wie auch gegen die Militärversicherung, so meldet der Unfallversicherer seine Rente oder Komplementärrente der Militärversicherung. Beide Versicherer berechnen ihre Rente nach den für sie geltenden gesetzlichen Bestimmungen.
 
-<sup>6</sup> ...[^126-3]
+<sup>6</sup> …[^126-3]
 
 [^126-1]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^126-2]: Fassung gemäss Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
@@ -1843,11 +1843,71 @@ Eine schriftliche Verfügung ist insbesondere zu erlassen über:
 
 [^131-1]: Fassung gemäss Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
+## Achter Titel *a*: Unfallversicherung von Personen nach Artikel 1*a* Absatz 1 Buchstabe c des Gesetzes****
+
+[^tit8a-1]
+
+[^tit8a-1]: Eingefügt durch Anhang Ziff. 5 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
 #### Art. 132
 
-[^132-1]
+**Beginn und Ende der Versicherung**[^132-1]
 
-[^132-1]: Aufgehoben durch Ziff. I der V vom 9. Nov. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+<sup>1</sup> Für Personen nach Artikel 1*a* Absatz 1 Buchstabe c des Gesetzes beginnt die Versicherung an dem Tag, an dem die Massnahme anfängt, in jedem Fall aber im Zeitpunkt, da die betreffende Person sich auf den Weg zur Massnahme begibt.
+
+<sup>2</sup> Sie endet mit dem 31. Tag nach dem Tag, an dem die Massnahme beendet wird.
+
+[^132-1]: Fassung gemäss Anhang Ziff. 5 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 132a
+
+**Höhe des Taggeldes**[^132a-1]
+
+<sup>1</sup> Der Nettobetrag des Taggeldes nach Artikel 17 Absatz 4 des Gesetzes umfasst die Grundentschädigung nach Artikel 23 oder 24<sup>ter</sup> IVG[^132a-2] abzüglich der Beiträge an die Sozialversicherungen nach Artikel 25 IVG.
+
+<sup>2</sup> Zu den Taggeldern der Personen nach Artikel 1*a* Absatz 1 Buchstabe c des Gesetzes richtet die Unfallversicherung das Kindergeld nach Artikel 23<sup>bis</sup> IVG aus.
+
+<sup>3</sup> Für Personen nach Artikel 1*a* Absatz 1 Buchstabe c des Gesetzes, die weder einen Anspruch auf ein Taggeld der Invalidenversicherung noch auf eine Rente der Invalidenversicherung haben, berechnet sich das Taggeld aufgrund des versicherten Verdienstes nach Artikel 23 Absatz 6.
+
+<sup>4</sup> Für Personen nach Artikel 1*a* Absatz 1 Buchstabe c des Gesetzes erbringt die Unfallversicherung die ganze Leistung unabhängig von der Höhe des Grades der Arbeitsunfähigkeit, bis die Massnahme der Invalidenversicherung wiederaufgenommen wird oder aus medizinischer Sicht wiederaufgenommen werden könnte. Die Unfallversicherung bestimmt in Rücksprache mit der Durchführungsstelle der Invalidenversicherung den Zeitpunkt, in dem die Massnahme der Invalidenversicherung wiederaufgenommen werden könnte.
+
+[^132a-1]: Eingefügt durch Anhang Ziff. 5 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^132a-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+
+#### Art. 132b
+
+**Bemessung der Renten**[^132b-1]
+
+<sup>1</sup> Für Personen nach Artikel 1*a* Absatz 1 Buchstabe c des Gesetzes, die ein Taggeld der Invalidenversicherung beziehen, gilt als versicherter Verdienst für die Bemessung der Renten das Erwerbseinkommen, das die IV-Stelle ihrer Taggeldberechnung zugrunde gelegt hat.
+
+<sup>2</sup> Für Personen nach Artikel 1*a* Absatz 1 Buchstabe c des Gesetzes, die weder einen Anspruch auf ein Taggeld der Invalidenversicherung noch auf eine Rente der Invalidenversicherung haben, gilt als versicherter Verdienst für die Bemessung der Renten ab vollendetem 20. Altersjahr ein Jahresverdienst von mindestens 20 Prozent, vor vollendetem 20. Altersjahr ein Jahresverdienst von mindestens 10 Prozent des Höchstbetrags des versicherten Jahresverdienstes. Bei Vollendung des 20. Altersjahres wird der Jahresverdienst auf mindestens 20 Prozent des Höchstbetrages des versicherten Jahresverdienstes erhöht.
+
+<sup>3</sup> <sup>3</sup> Für Personen nach Artikel 1*a* Absatz 1 Buchstabe c des Gesetzes, die eine Rente der Invalidenversicherung beziehen, reduziert sich der versicherte Verdienst nach Absatz 2 um den Prozentsatz des Invaliditätsgrads nach Artikel 28*a* IVG[^132b-2]. Wurde im Sinne von Artikel 15 Absatz 2 des Gesetzes ein höherer Verdienst erzielt, gilt dieser versicherte Verdienst als Grundlage für die Bemessung der Rente.
+
+[^132b-1]: Eingefügt durch Anhang Ziff. 5 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^132b-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+
+#### Art. 132c
+
+**Prämien**[^132c-1]
+
+<sup>1</sup>
+
+Die Prämien werden festgesetzt in Promillen:
+
+- a. des von der Invalidenversicherung ausgerichteten Nettobetrags des Taggelds nach Artikel 132*a* Absatz 1;
+- b. des versicherten Verdiensts nach Artikel 132*b* Absatz 2 für Personen nach Artikel 1*a* Absatz 1 Buchstabe c des Gesetzes, die weder einen Anspruch auf ein Taggeld der Invalidenversicherung noch auf eine Rente der Invalidenversicherung haben; und
+- c. des versicherten Verdiensts nach Artikel 132*b* Absatz 3 für Personen nach Artikel 1*a* Absatz 1 Buchstabe c des Gesetzes, die eine Rente der Invalidenversicherung beziehen.
+
+<sup>2</sup> Die Prämien für die obligatorische Versicherung der Nichtberufsunfälle gehen zulasten der Invalidenversicherung.
+
+<sup>3</sup> Die Suva kann aufgrund der Risikoerfahrung von sich aus oder auf Antrag des Bundesamts für Sozialversicherungen jeweils auf den Beginn eines Kalendermonats die Prämiensätze ändern.
+
+<sup>4</sup> Änderungen der Prämiensätze sind dem Bundesamt für Sozialversicherungen spätestens zwei Monate, bevor sie wirksam werden, mit Verfügung mitzuteilen.
+
+<sup>5</sup> Die Suva führt über die Unfälle der Personen nach Artikel 1*a* Absatz 1 Buchstabe c des Gesetzes eine Risikostatistik.
+
+[^132c-1]: Eingefügt durch Anhang Ziff. 5 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 133
 
@@ -1959,10 +2019,10 @@ Es werden aufgehoben:
 - d. die Verordnung vom 9. März 1954[^141-4] über die Versicherung der Betriebsunfälle und die Unfallverhütung in der Landwirtschaft;
 - e. die Verordnung vom 23. Dezember 1966[^141-5] über die Aufhebung von Beschränkungen der Vertragsfreiheit bei kantonalen obligatorischen Unfallversicherungen.
 
-[^141-1]: [BS **8** 352; [AS 1952 900](https://fedlex.data.admin.ch/eli/oc/1952/900_920_916)Art. 3, [1953 1314](https://fedlex.data.admin.ch/eli/oc/1953/1314_1343_1389), [1957 999](https://fedlex.data.admin.ch/eli/oc/1957/999_1013_1037), [1960 1660](https://fedlex.data.admin.ch/eli/oc/1960/1660_1720_1720)Art. 29 Abs. 1]
-[^141-2]: [BS **8** 367; [AS 1972 615](https://fedlex.data.admin.ch/eli/oc/1972/615_623_547)Art. 36 Abs. 2, [1974 273](https://fedlex.data.admin.ch/eli/oc/1974/273_273_273), [1975 1456](https://fedlex.data.admin.ch/eli/oc/1975/1456_1456_1456)]
+[^141-1]: [BS **8** 352; [AS 1952 900](https://fedlex.data.admin.ch/eli/oc/1952/900_920_916)Art. 3; [1953 1314](https://fedlex.data.admin.ch/eli/oc/1953/1314_1343_1389); [1957 999](https://fedlex.data.admin.ch/eli/oc/1957/999_1013_1037); [1960 1660](https://fedlex.data.admin.ch/eli/oc/1960/1660_1720_1720)Art. 29 Abs. 1]
+[^141-2]: [BS **8** 367; [AS 1972 615](https://fedlex.data.admin.ch/eli/oc/1972/615_623_547)Art. 36 Abs. 2; [1974 273](https://fedlex.data.admin.ch/eli/oc/1974/273_273_273); [1975 1456](https://fedlex.data.admin.ch/eli/oc/1975/1456_1456_1456)]
 [^141-3]: [[AS 1974 47](https://fedlex.data.admin.ch/eli/oc/1974/47_47_47)]
-[^141-4]: [[AS 1954 464](https://fedlex.data.admin.ch/eli/oc/1954/464_480_364), [1970 338](https://fedlex.data.admin.ch/eli/oc/1970/338_342_342)]
+[^141-4]: [[AS 1954 464](https://fedlex.data.admin.ch/eli/oc/1954/464_480_364); [1970 338](https://fedlex.data.admin.ch/eli/oc/1970/338_342_342)]
 [^141-5]: [[AS 1966 1682](https://fedlex.data.admin.ch/eli/oc/1966/1682_1742_1726)]
 
 ### 2. Kapitel: Änderung von Verordnungen
@@ -1977,7 +2037,7 @@ Es werden aufgehoben:
 
 **Verordnung über die Alters- und Hinterlassenenversicherung**
 
-...[^143-1]
+…[^143-1]
 
 [^143-1]: Die Änderung kann unter [AS 1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38)konsultiert werden.
 
@@ -1985,7 +2045,7 @@ Es werden aufgehoben:
 
 **Verordnung über die Invalidenversicherung**
 
-...[^144-1]
+…[^144-1]
 
 [^144-1]: Die Änderung kann unter [AS 1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38)konsultiert werden.
 
@@ -2121,7 +2181,7 @@ Anhang 2*[^t-2]*
 Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 
 <table>
-<tr><td></td><td></td><td></td><td colspan="3"></td><td colspan="15">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20180401/de/xml/image/image1.png)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="3"></td><td colspan="15">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/de/xml/image/image1.png)</td></tr>
 <tr><td colspan="10">Beispiele</td><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="5"></td></tr>
 <tr><td>a.</td><td colspan="11">Monatslohn</td><td colspan="3"></td><td colspan="4"></td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="11">Grundlohn pro Monat</td><td colspan="3">Fr.</td><td colspan="4">3650.—</td><td colspan="2"></td></tr>
@@ -2132,7 +2192,7 @@ Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 <tr><td></td><td colspan="11">Familienzulagen: Fr. 365.– × 12</td><td colspan="5"></td><td colspan="3">Fr.</td><td>4 380.—</td></tr>
 <tr><td></td><td colspan="11"></td><td colspan="5"></td><td colspan="3"></td><td>\_\_\_\_\_\_\_\_\_\_</td></tr>
 <tr><td></td><td colspan="11">Jahresverdienst</td><td colspan="5"></td><td colspan="3">Fr.</td><td>51 830.—</td></tr>
-<tr><td></td><td colspan="3">Taggeld:</td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20180401/de/xml/image/image2.png)</sub></td><td colspan="10">× 80 % =</td><td colspan="3">Fr.</td><td>113.60</td></tr>
+<tr><td></td><td colspan="3">Taggeld:</td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/de/xml/image/image2.png)</sub></td><td colspan="10">× 80 % =</td><td colspan="3">Fr.</td><td>113.60</td></tr>
 <tr><td></td><td colspan="16">Anzahl Tage: 13</td><td colspan="3"></td><td></td></tr>
 <tr><td></td><td colspan="16">Total: 13 × 113.60 = Fr. 1476.80 gerundet auf</td><td colspan="3">Fr.</td><td>1 477.—</td></tr>
 <tr><td>b.</td><td colspan="11">Stundenlohn</td><td colspan="3"></td><td colspan="4"></td><td colspan="2"></td></tr>
@@ -2145,7 +2205,7 @@ Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 <tr><td></td><td colspan="11">Familienzulagen: Fr. 365.– × 12</td><td colspan="5"></td><td colspan="3">Fr.</td><td>4 380.—</td></tr>
 <tr><td></td><td colspan="11"></td><td colspan="5"></td><td colspan="3"></td><td>\_\_\_\_\_\_\_\_\_\_</td></tr>
 <tr><td></td><td colspan="11">Jahresverdienst</td><td colspan="5"></td><td colspan="3">Fr.</td><td>50 642.30</td></tr>
-<tr><td></td><td colspan="3">Taggeld:</td><td colspan="4"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20180401/de/xml/image/image3.png)</sub></td><td colspan="9">× 80 % =</td><td colspan="3">Fr.</td><td>111.—</td></tr>
+<tr><td></td><td colspan="3">Taggeld:</td><td colspan="4"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/de/xml/image/image3.png)</sub></td><td colspan="9">× 80 % =</td><td colspan="3">Fr.</td><td>111.—</td></tr>
 <tr><td></td><td colspan="11">Anzahl Tage: 22</td><td colspan="5"></td><td colspan="3"></td><td></td></tr>
 <tr><td></td><td colspan="11">Total: 22 × 111.–</td><td colspan="5"></td><td colspan="3">Fr.</td><td>2 442.—</td></tr>
 </table>
