@@ -1,608 +1,740 @@
 ---
 canton: BL
 number: "520"
-title: Gesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel
-short: Jagdgesetz
+title: Gesetz über den Schutz der wildlebenden Säugetiere und Vögel sowie deren Lebensräume und die Jagd
+short: "Wildtier- und Jagdgesetz, WJG"
 language: de
-version: 2013-04-01
-valid_until: 2021-12-31
-version_adopted: 2012-04-19
+version: 2022-01-01
+version_adopted: 2020-11-05
 adopted: 2020-11-05
 in_force: 2022-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/520"
-pdf: "https://bl.clex.ch/api/de/versions/78/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3127/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel
+# Gesetz über den Schutz der wildlebenden Säugetiere und Vögel sowie deren Lebensräume und die Jagd
 
-(Jagdgesetz)
+(Wildtier- und Jagdgesetz, WJG)
 
-Vom 07.06.2007 (Stand 01.04.2013)
+Vom 05.11.2020 (Stand 01.01.2022)
 
-Der Landrat des Kantons Basel-Landschaft, gestützt auf §§ 63 und 126 der Verfassung vom 17. Mai 1984[^ingress-1] des Kantons Basel-Landschaft, beschliesst:[^ingress-2]
+Der Landrat des Kantons Basel-Landschaft,
 
-[^ingress-1]: GS 29.276, SGS 100
-[^ingress-2]: Vom Landrat mit Vierfünftelmehr beschlossen. Referendumsfrist unbenützt abgelaufen am 9. August 2007.
+gestützt auf § 63 und § 126 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und das Bundesgesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel vom 20. Juni 1986[^ingress-2],
+
+beschliesst:[^ingress-3]
+
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art63)
+[^ingress-2]: [SR 922.0](https://db.clex.ch/link/Bund/922.0/de)
+[^ingress-3]: Vom Landrat mit 4/5-Mehr beschlossen. Referendumsfrist unbenützt abgelaufen am 7. Januar 2021. Beschluss des Landrats gemäss § 63 GpR ([SGS 120](https://bl.clex.ch/data/120/de/art63)) mit Verfügung der Landeskanzlei vom 11. Januar 2021 (publiziert im [Amtsblatt Nr. 02 vom 14. Januar 2021](https://www.baselland.ch/themen/a/amtsblatt/politische-rechte/downloads-2021/polit2021-01-14.pdf/@@download/file/polit2021-01-14.pdf)) für rechtskräftig erklärt.
 
 ## 1 Allgemeine Bestimmungen
 
+### 1.1 Grundsätze
+
 #### § 1
 
-**Zweck und Ziele**
+**Zweck und Ziel**
 
-<sup>1</sup> Dieses Gesetz regelt den Vollzug der bundesrechtlichen Jagdgesetzgebung und ergänzt sie.
+<sup>1</sup> Dieses Gesetz bezweckt den dauerhaften Schutz und die Förderung der einheimischen wildlebenden Säugetiere und Vögel (Wildtiere) und deren Lebensräume sowie eine nachhaltige jagdliche Nutzung, die sich an wildbiologischen und -ökologischen Kriterien orientiert. Angestrebt wird der Erhalt der Wildtierbestände und Lebensräume sowie deren naturnahe Vernetzung und Strukturierung. Die Anliegen der Waldwirtschaft, der Landwirtschaft und des Naturschutzes sind dabei, auch unter klimabedingten Veränderungen, angemessen zu berücksichtigen.
 
-<sup>2</sup> Es will
+<sup>2</sup> Dieses Gesetz regelt den Vollzug der Bundesgesetzgebung über die Jagd und den Schutz wildlebender Säugetiere und Vögel und ergänzt sie.
 
-- a. die Artenvielfalt und die Lebensräume der einheimischen und der ziehenden wildlebenden Säugetiere und Vögel im Kanton erhalten;
-- b. bedrohte Arten schützen und fördern;
-- c. kommunale und kantonale Wildschutz- und Wildruhegebiete fördern;
-- d. den Wildschaden auf ein tragbares Mass begrenzen;
-- e. durch eine Jagdordnung und Abschussplanung den Anliegen der Wald- und Landwirtschaft sowie des Naturschutzes Rechnung tragen;
-- f. durch die Hege und die Jagd eine nachhaltige Nutzung des Wildes gewährleisten und naturnah strukturierte Bestände fördern;
-- g. eine waidgerechte Jagd und die Eigenverantwortung der Jagdberechtigten fördern;
-- h. die Wildtierbestände nach wildbiologischen Kriterien regulieren;
-- i. auf die Ausübung von Freizeitaktivitäten insoweit Einfluss nehmen, als die Bedürfnisse der Wildtiere berücksichtigt werden.
+### 1.2 Organisation
 
 #### § 2
 
-**Grundsätze**
+**Zuständige Direktion**
 
-<sup>1</sup> Das Jagdregal steht den Einwohnergemeinden (kurz: Gemeinde) zu.
-
-<sup>2</sup> Es gilt die Pachtjagd (Revierjagd).
-
-<sup>3</sup> Das Veterinär-, Jagd- und Fischereiwesen VJF (kurz: Fachstelle) nimmt sämtliche Aufgaben und Befugnisse der Jagdgesetzgebung wahr, soweit Gesetz und Verordnung keine abweichende Regelung vorsieht.
-
-## 2 Jagdreviere
+<sup>1</sup> Die Volkswirtschafts- und Gesundheitsdirektion ist die zuständige Direktion für den Vollzug der vom Bund an den Kanton übertragenen Aufgaben.
 
 #### § 3
 
-**Einteilung**
+**Fachstelle für Wildtiere, Jagd und Fischerei**
 
-<sup>1</sup> Das Gebiet einer Gemeinde bildet ein Jagdrevier.
+<sup>1</sup> Die Fachstelle nimmt sämtliche Aufgaben im Zusammenhang mit der Wildtier- und Jagdgesetzgebung wahr, soweit Gesetz und Verordnung keine abweichende Regelung vorsehen.
 
-<sup>2</sup> Die Gemeinden können unter Mitteilung an die zuständige Direktion (kurz: Direktion):
+<sup>2</sup> Sie setzt Massnahmen zur Förderung und zum Schutz der Wildtiere, zur Unterstützung der Jagd sowie zur Reduktion der Wildschäden um.
 
-- a. ihr Gebiet in mehrere Reviere aufteilen;
-- b. ihr Gebiet mit jenem benachbarter Gemeinden ganz oder teilweise zusammenlegen;
-- c. einzelne Gebietsteile zur Abrundung der Reviere mit solchen benachbarter Gemeinden austauschen.
+<sup>3</sup> Die Fachstelle ist insbesondere zuständig für:
 
-<sup>3</sup> Aufteilungen in Reviere unter 400 ha bedürfen einer kantonalen Bewilligung.
+- a. Planung, Umsetzung und Koordination des Wildtiermanagements;
+- b. die kantonale und konzeptionelle Jagdplanung;
+- c. den Umgang mit Tieren geschützter Arten;
+- d. Öffentlichkeitsarbeit.
+
+<sup>4</sup> Die Fachstelle kann bei Bedarf geeignete Personen zur Erfüllung ihrer Aufgaben beauftragen.
 
 #### § 4
 
-**Einschätzung**
+**Kommission für Wildtiere und Jagd**
 
-<sup>1</sup> Jedes Revier muss vor der Verpachtung eingeschätzt werden.
+<sup>1</sup> Der Regierungsrat wählt die Mitglieder der Kommission für Wildtiere und Jagd auf Amtsperiode und bestimmt deren Präsidentin oder Präsidenten.
 
-<sup>2</sup> Die Schätzungskosten werden vom Kanton getragen.
+<sup>2</sup> Die Kommission setzt sich zusammen aus Vertreterinnen und Vertretern der Einwohnergemeinden, der Jagd, der Fachstelle, der Landwirtschaft, des Naturschutzes, des Tierschutzes sowie der Waldwirtschaft.
 
-<sup>3</sup> Der Gemeinderat legt den Schätzungswert auf Antrag der Jagd- und Revierschätzungskommission fest. Der beantragte Schätzungswert kann bis zu 20% erhöht oder herabgesetzt werden.
+<sup>3</sup> Der Regierungsrat bestimmt unter Berücksichtigung einer angemessenen Vertretung der Jagd die Anzahl Vertreterinnen und Vertreter der einzelnen Anspruchsgruppen in der Kommission.
+
+<sup>4</sup> Die Kommission kann bei Bedarf weitere Vertreterinnen und Vertreter gemäss Abs. 2 oder anderer Anspruchsgruppen beiladen.
+
+<sup>5</sup> Die Kommission:
+
+- a. legt den Schätzwert der Reviere fest;
+- b. berät den Regierungsrat und die Fachstelle im Bereich Wildtiermanagement;
+- c. ist bei grundlegenden Entscheiden der Fachstelle und des Regierungsrats im Bereich Wildtiermanagement vorgängig anzuhören.
+
+## 2 Wildtiere
+
+### 2.1 Allgemeines
 
 #### § 5
 
-**Verpachtung**
+**Grundsätze zum Umgang mit Wildtieren**
 
-<sup>1</sup> Das Revier wird vom Gemeinderat zu dem von ihm festgelegten Schätzwert verpachtet.
+<sup>1</sup> Der Regierungsrat regelt, welche Wildtiere zusätzlich zu den bundesrechtlich geschützten Tieren im Kanton unter Schutz stehen.
 
-<sup>2</sup> Der Gemeinderat vergibt die Pacht entweder der bisherigen Jagdgesellschaft oder derjenigen mit der grössten Anzahl ortsansässiger Jägerinnen und Jäger. Ist dies nicht möglich, ist die Jagdgesellschaft mit der grössten Anzahl Schweizer Jägerinnen und Jäger mit Wohnsitz im Kanton zu bevorzugen.
+<sup>2</sup> Der Regierungsrat regelt, unter Einbezug der Anspruchsgruppen, den Umgang mit grossen Beutegreifern und dem Biber, insbesondere:
 
-<sup>3</sup> Bewerben sich mehrere ranggleiche Jagdgesellschaften, entscheidet der Gemeinderat nach den Kriterien der Kontinuität und Qualität.
+- a. Schutzmassnahmen;
+- b. Präventionsmassnahmen;
+- c. Regulierung;
+- d. Schadensverhütung;
+- e. Schadensvergütung.
 
-<sup>4</sup> Der Gemeinderat ist verpflichtet das Revier zu verpachten, wenn sich mindestens eine Jagdgesellschaft um die Pacht bewirbt.
+<sup>3</sup> Der Kanton kann Beiträge zum Schutz und zur Förderung der Wildtiere und ihrer Lebensräume ausrichten.
+
+<sup>4</sup> Die Fachstelle kann zur Verminderung grosser Wildtierbestände oder zur Erhaltung der Artenvielfalt die Schonzeiten verlängern oder mit Zustimmung des Bundes vorübergehend verkürzen.
+
+<sup>5</sup> Das Einfangen und Halten von Wildtieren ist bewilligungspflichtig. Das Einfangen darf nicht gewerbsmässig erfolgen. Für die Bewilligung kann eine Gebühr erhoben werden.
+
+### 2.2 Lebensräume
 
 #### § 6
 
-**Jagdgesellschaft**
+**Wildräume**
 
-<sup>1</sup> Reviere dürfen nur an Jagdgesellschaften verpachtet werden.
+<sup>1</sup> Ein überwiegend nach wildökologischen Kriterien geographisch abgegrenzter Raum wird als «Wildraum» bezeichnet.
 
-<sup>2</sup> Die Jagdgesellschaft muss sich aus Jagdberechtigten zusammensetzen, die sich in der Rechtsform eines Vereins zusammengeschlossen haben.
+<sup>2</sup> Wildräume dienen als Planungs- und Umsetzungsinstrument für das Wildtiermanagement.
 
-<sup>3</sup> Die Jagdgesellschaften stellen dem Gemeinderat und der Fachstelle eine Mitgliederliste zu und melden Mutationen laufend.
-
-<sup>4</sup> Unterpacht ist nicht gestattet.
+<sup>3</sup> Wildräume werden unter Einbezug der Anspruchsgruppen von der Fachstelle festgelegt.
 
 #### § 7
 
-**Mitglieder der Jagdgesellschaft**
+**Schutz- und Vernetzungsgebiete**
 
-<sup>1</sup> Für Reviere bis zu 600 ha muss die Jagdgesellschaft aus mindestens 3 und höchstens 6, für Reviere über 600 ha aus mindestens 6 und höchstens 10 Mitgliedern bestehen, wovon mindestens die Hälfte der Mitglieder Wohnsitz im Kanton haben muss.
+<sup>1</sup> Zum Schutz von Wildtieren sowie zur Schaffung, Erhaltung oder Vernetzung ihrer Lebensräume können folgende Gebiete ausgeschieden werden:
 
-<sup>2</sup> Eine jagdberechtigte Person darf nicht in mehr als zwei Jagdgesellschaften Mitglied sein. Der Regierungsrat kann aus wichtigen Gründen die Doppelmitgliedschaft teilweise oder ganz verbieten.
+- a. Wildschutzgebiete zum Schutz der Wildtiere vor Bejagung;
+- b. Wildruhegebiete zum Schutz der Wildtiere vor menschlicher Störung;
+- c. Wildtierkorridore zur Vernetzung von Lebensräumen.
 
-<sup>3</sup> Die Hälfte der Mindestmitgliederanzahl muss jünger als 70 Jahre sein.
+<sup>2</sup> Bei der Festlegung der Wildschutz- und Wildruhegebiete sind die betroffenen Anspruchsgruppen anzuhören.
 
-<sup>4</sup> Mitglieder, die das 70. Altersjahr überschritten haben, müssen an die Höchstmitgliederzahlen nicht angerechnet werden.
+<sup>3</sup> Die Gebiete gemäss Abs. 1 Bst. a und b sind besonders zu kennzeichnen.
+
+<sup>4</sup> In den Schutz- und Vernetzungsgebieten gelten besondere Schutzbestimmungen.
 
 #### § 8
 
-**Pachtdauer**
+**Wildschutzgebiete**
 
-<sup>1</sup> Die Pachtperiode dauert 8 Jagdjahre. Das Jagdjahr beginnt am 1. April. Die Verpachtung hat im Januar oder Februar zu erfolgen.
+<sup>1</sup> Als Wildschutzgebiete gelten Jagdbanngebiete, Schongebiete und Vogelreservate.
 
-<sup>2</sup> Die Pacht erlischt vorzeitig wenn der Jagdgesellschaft zur Last gelegt werden:
+<sup>2</sup> Der Regierungsrat kann kantonale Wildschutzgebiete ausscheiden.
 
-- a. grobe Verletzung der gesetzlichen Pflichten;
-- b. grobe Verletzung des Pachtvertrages;
-- c. mangelnde Gewährleistung eines fachgerechten Jagdbetriebes und der erforderlichen Hegemassnahmen.
+<sup>3</sup> Die Einwohnergemeinden können mit Zustimmung des Regierungsrats kommunale Wildschutzgebiete ausscheiden.
 
-<sup>3</sup> Ebenso erlischt die Pacht bei Unterschreitung der vorgeschriebenen Mindestmitgliederanzahl, wenn diese nicht innerhalb von 6 Monaten wieder erreicht wird.
+<sup>4</sup> In Wildschutzgebieten ist die Jagd grundsätzlich verboten.
 
-<sup>4</sup> Es steht dem Gemeinderat frei, das Revier für den Rest der Pachtperiode neu zu verpachten, wenn die Pacht vorzeitig erlischt.
-
-<sup>5</sup> Im letzten Jagdjahr der Pachtperiode kann der Gemeinderat bei Vorliegen des Erlöschungsgrundes nach Absatz 3 die Fortsetzung des Pachtverhältnisses bewilligen.
+<sup>5</sup> Der Regierungsrat regelt die Ausnahmen.
 
 #### § 9
 
-**Statistik**
+**Wildruhegebiete**
 
-<sup>1</sup> Die Jagdgesellschaft macht der Fachstelle die für die Jagdstatistik verlangten Angaben und gewährt Einsicht in die entsprechenden Unterlagen.
+<sup>1</sup> Bei der Gestaltung von Wildruhegebieten ist dem Ruhebedürfnis der Wildtiere Rechnung zu tragen.
+
+<sup>2</sup> In Wildruhegebieten dürfen Wildtiere nicht durch übermässige Aktivitäten gestört werden.
+
+<sup>3</sup> In Wildruhegebieten sind Hunde ganzjährig an der Leine zu führen.
+
+<sup>4</sup> Der Kanton scheidet die Wildruhegebiete unter Mitwirkung der Einwohnergemeinden sowie der betroffenen Anspruchsgruppen aus.
+
+<sup>5</sup> Bei der Ausscheidung von Wildruhegebieten werden Gebiete des Wildaustritts angemessen berücksichtigt.
 
 #### § 10
 
-**Jagd- und Revierschätzungskommission**
+**Wildtierkorridore**
 
-<sup>1</sup> Der Regierungsrat wählt die Jagd- und Revierschätzungskommission und bestimmt deren Präsidentin oder Präsidenten.
+<sup>1</sup> Die Wildtierkorridore sind in ihrer Funktion dauerhaft zu erhalten, um die natürlichen Wanderungen der Wildtiere und den genetischen Austausch zwischen den Populationen sicherzustellen.
 
-<sup>2</sup> Die Einwohnergemeinden und die interessierten Kreise müssen angemessen vertreten sein.
+<sup>2</sup> Der Kanton und die Gemeinden sorgen im Rahmen ihrer Zuständigkeit für die funktionale und im Rahmen der Nutzungsplanung für die räumliche Sicherung der Wildtierkorridore.
 
-<sup>3</sup> Die Kommission schätzt die Reviere ein und ist beratendes Organ, insbesondere bei Fragen des Artenschutzes und der Regulierung der Wildtierbestände.
+<sup>3</sup> Beeinträchtigen neue zulässige technische und bauliche Eingriffe die Funktionalität eines Wildtierkorridors, so haben die Verursacherin oder der Verursacher lokal mit geeigneten Massnahmen zur Sicherstellung der Funktionalität des Wildtierkorridors Ausgleich zu schaffen.
 
-## 3 Jagdberechtigung
+<sup>4</sup> Bei Vorhaben und Planungen von bewilligungspflichtigen technischen und baulichen Beeinträchtigungen in die Wildtierkorridore ist die Fachstelle bezüglich der Beurteilung der Auswirkungen vorgängig anzuhören.
+
+<sup>5</sup> Bewilligungsfreie technische und bauliche Beeinträchtigungen in die Wildtierkorridore sind mit der Fachstelle zu koordinieren.
+
+### 2.3 Schutz
 
 #### § 11
 
-**Ausüben der Jagd**
+**Fütterung von Wildtieren**
 
-<sup>1</sup> Die Jagd darf nur ausüben, wer im Besitz eines gültigen Jagdpasses ist.
+<sup>1</sup> Wildlebende Säugetiere und Vögel dürfen grundsätzlich nicht gefüttert werden.
+
+<sup>2</sup> Der Regierungsrat regelt die Ausnahmen.
 
 #### § 12
 
-**Voraussetzungen**
+**Schutz der Wildtiere**
 
-<sup>1</sup> Der Jagdpass wird Personen erteilt, die
+<sup>1</sup> Wildtiere dürfen nicht übermässig gestört werden.
 
-- a. handlungsfähig sind;
-- b. eine schweizerische Jagdprüfung bestanden haben oder deren ausländische Jagdprüfung anerkannt ist;
-- c. im Rahmen des Bundesrechts haftpflichtversichert sind;
-- d. keinen Ausschlussgrund erfüllen.
+<sup>2</sup> Während der Hauptbrut- und Setzzeit (1. April–31. Juli) sind alle Hunde im Wald und in Waldesnähe an der Leine zu führen.
 
-<sup>2</sup> Er wird verweigert, wenn die Person durch Gerichtsurteil oder administrative Massnahmen von der Jagd ausgeschlossen ist.
+<sup>3</sup> Hunde, die nicht unter Kontrolle gehalten werden können und die Wege verlassen, sind auch ausserhalb der Hauptbrut- und Setzzeit an der Leine zu führen.
+
+<sup>4</sup> Die Einwohnergemeinden kontrollieren die Einhaltung der Leinenpflicht.
+
+<sup>5</sup> Zäune sind wildtierfreundlich zu gestalten.
 
 #### § 13
-
-**Jagdprüfung**
-
-<sup>1</sup> Der Regierungsrat erlässt Bestimmungen über:
-
-- a. die Jagdprüfung;
-- b. die Anerkennung nicht schweizerischer Jagdprüfungen;
-- c. die Aufgaben der Prüfungskommission;
-- d. die Prüfungsgebühren (bis zu 500 Fr.).
-
-<sup>2</sup> Er ist ferner zuständig für:
-
-- a. den Abschluss von Gegenrechtsvereinbarungen über die Jagdprüfungen;
-- b. die Wahl der Mitglieder der Prüfungskommission.
-
-#### § 14
-
-**Ausschluss von der Jagdberechtigung**
-
-<sup>1</sup> Von der Jagdberechtigung im Kanton wird ausgeschlossen, wer bestraft worden ist wegen
-
-- a. vorsätzlichen Vergehen oder Übertretungen gemäss bundesrechtlichem Jagdgesetz;
-- b. wiederholten vorsätzlichen Widerhandlungen gegen das kantonale Jagdrecht;
-- c. Gewaltdelikten;
-- d. Delikten, die mit der Ausübung der Jagd unvereinbar sind.
-
-<sup>2</sup> Von der Jagdberechtigung im Kanton kann ausgeschlossen werden, wer bestraft worden ist wegen
-
-- a. fahrlässigen Vergehen oder Übertretungen gemäss bundesrechtlichem Jagdgesetz;
-- b. wiederholt fahrlässiger Widerhandlung gegen das kantonale Jagdrecht;
-- c. fahrlässigen Vergehen oder Übertretungen anderweitiger Delikte, die mit der Jagdausübung unvereinbar sind.
-
-<sup>3</sup> Ebenso kann von der Jagdberechtigung ausgeschlossen werden, wer aus gesundheitlichen oder anderen Gründen Dritte gefährdet oder die Jagd nicht ausüben könnte.
-
-<sup>4</sup> Die Fachstelle verfügt den Ausschluss von der Jagdberechtigung für die Dauer von ein bis zehn Jahren und entzieht den Jagdpass.
-
-<sup>5</sup> Der Ausschluss von der Jagdberechtigung begründet in keinem Fall eine Schadenersatzpflicht.
-
-#### § 15
-
-**Jagdpass**
-
-<sup>1</sup> Ausweis für die Jagdberechtigung im Kanton ist der persönliche Jagdpass.
-
-<sup>2</sup> Es werden folgende Jagdpässe ausgestellt:
-
-- a. der Jahresjagdpass berechtigt zur Jagdausübung im Revier der eigenen Jagdgesellschaft und zur Teilnahme an der Jagd als Gast in allen übrigen Revieren des Kantons;
-- b. der Jahresjagdpass oder der Tagesjagdpass für Gastjägerinnen bzw. Gastjäger berechtigt zur Teilnahme an der Jagd als Gast in allen Revieren des Kantons.
-
-<sup>3</sup> Der Jahresjagdpass für ausserkantonale Gastjägerinnen und Gastjäger wird nur ausgestellt, wenn der Herkunftskanton Gegenrecht hält.
-
-<sup>4</sup> Die Jagdberechtigten sind verpflichtet, den Jagdpass bei der Jagdausübung auf sich zu tragen und auf Verlangen der Jagdaufsicht und den Polizeiorganen vorzuweisen.
-
-<sup>5</sup> Der Regierungsrat kann die Anerkennung von ausserkantonalen Jagdpässen beschliessen.
-
-#### § 16
-
-**Gebühren**
-
-<sup>1</sup> Der Kanton stellt den Jagdpass gegen eine Gebühr von maximal 100 Fr. aus.
-
-<sup>2</sup> Zu den Jagdpassgebühren ist zusätzlich ein Beitrag von bis zu 500 Fr. an vom Kanton geleistete Vergütungen für entstandene Wildschäden und durch Dritte getroffene Wildschutzmassnahmen zu leisten.
-
-<sup>3</sup> Gastjägerinnen und Gastjäger sowie ausserkantonale Mitglieder einer Jagdgesellschaft haben zu diesem Beitrag einen Zuschlag von bis zu 500 Fr. zu entrichten.
-
-#### § 17
-
-**Gastjägerinnen und Gastjäger**
-
-<sup>1</sup> Die Jagdgesellschaften können Gastjägerinnen und Gastjäger zur Teilnahme an der Jagd einladen. Die Einladung hat unentgeltlich zu erfolgen.
-
-<sup>2</sup> Die Gastjägerin bzw. der Gastjäger hat die Jagd nach Anordnung und unter Aufsicht eines Mitgliedes der Jagdgesellschaft auszuüben.
-
-#### § 18
-
-**Begehungskarte**
-
-<sup>1</sup> Mit Einwilligung der Jagdgesellschaft darf ein Mitglied der Jagdgesellschaft einer Gastjägerin oder einem Gastjäger eine ganzjährige oder zeitweilige Begehungskarte für das Revier oder Teile davon ausstellen.
-
-<sup>2</sup> Die Begehungskarte muss die zur unbeaufsichtigten Bejagung freigegebene Wildart sowie die Bejagungsart enthalten.
-
-<sup>3</sup> Zur Regulierung übermässiger Wildbestände können die Jagdgesellschaften verpflichtet werden, örtlich und zeitlich beschränkte Begehungskarten auszustellen.
-
-#### § 19
-
-**Haftpflichtversicherung**
-
-<sup>1</sup> Der Kanton kann für die Jägerinnen und Jäger einen Kollektivhaftpflichtvertrag abschliessen. Der Beitritt ist fakultativ.
-
-## 4 Hege und Jagdausübung
-
-#### § 20
-
-**Hege**
-
-<sup>1</sup> Die Jagdgesellschaften, deren Mitglieder und die Jagdaufsicht sind zur Erhaltung eines angemessenen Wildbestandes zur Hege verpflichtet.
-
-<sup>2</sup> Bei der Hege ist auf die örtlichen Verhältnisse sowie auf die Anliegen der Wald- und Landwirtschaft und des Naturschutzes Rücksicht zu nehmen. Insbesondere darf der Wildbestand nicht zu übermässigen Schäden im Wald, in landwirtschaftlichen Kulturen, in Gewässern sowie in Naturschutzgebieten, Vogelreservaten und Jagdschutzgebieten führen.
-
-<sup>3</sup> Feste Einrichtungen der Hege sowie feste Reviereinrichtungen sind unter Vorbehalt einer allfälligen Bewilligungspflicht mit den Grundbesitzenden und dem örtlichen Forstdienst abzusprechen.
-
-<sup>4</sup> In nicht verpachteten Revieren ist die Gemeinde zur Verhinderung von übermässigen Wildschäden zur Hege verpflichtet.
-
-#### § 21
-
-**Waidgerechtigkeit**
-
-<sup>1</sup> Die Jagdberechtigten wenden alle Sorgfalt an, um dem Tier unnötig Angst, Leid, Schmerzen und Störungen zu ersparen und seine Würde zu bewahren.
-
-<sup>2</sup> Sie sind dafür besorgt, dass ihre Schiessfertigkeit den Anforderungen genügt.
-
-<sup>3</sup> Sie tragen insbesondere die Verantwortung für eine zeit- und fachgerechte Nachsuche.
-
-#### § 22
-
-**Jagdplanung**
-
-<sup>1</sup> Die Jagdplanung bezweckt, mit der Bejagung naturnah strukturierte Wildtierbestände sowie deren Verteilung und Nutzung zu fördern und untragbare Wildschäden zu vermeiden.
-
-<sup>2</sup> Die Fachstelle kann zur Verminderung grosser Bestände oder zur Erhaltung der Artenvielfalt die Schonzeiten verlängern oder mit Zustimmung des Bundes vorübergehend verkürzen.
-
-<sup>3</sup> Sie kann in einzelnen oder allen Jagdrevieren den vermehrten oder verminderten Abschuss jagdbarer Tiere anordnen, um die Wildschäden zu vermindern oder naturnah strukturierte Wildtierbestände zu fördern.
-
-<sup>4</sup> Die Jagdgesellschaft legt jährlich einen Abschussplan für ihr Revier fest. Er ist dem örtlichen Forstdienst zur Stellungnahme zu unterbreiten und von der Fachstelle zu genehmigen.
-
-<sup>5</sup> Die Fachstelle kann verlangen, dass der Abschussplan aufgrund von Bestandeserhebungen erstellt wird und erlegte Tiere ganz oder teilweise vorgelegt werden, damit eine artgemässe Verteilung der Alters- und Geschlechtsklassen und eine gute Kondition der jagdbaren Tiere erreicht wird.
-
-#### § 23
-
-**Jagdbetrieb**
-
-<sup>1</sup> Der Regierungsrat erlässt Bestimmungen über den Jagdbetrieb.
-
-<sup>2</sup> Er kann jagdliche Einrichtungen der Melde- oder Bewilligungspflicht unterstellen.
-
-#### § 24
-
-**Jagdaufsicht**
-
-<sup>1</sup> Die Direktion wählt auf je 400 ha Jagdfläche oder einen Bruchteil davon eine Jagdaufseherin bzw. einen Jagdaufseher. Die Jagdgesellschaft, oder in nicht verpachteten Gebieten der Gemeinderat, hat dabei Antragsrecht.
-
-<sup>2</sup> Die Jagdaufseherin bzw. der Jagdaufseher erhält einen kantonalen Jagdaufseherausweis.
-
-<sup>3</sup> Die Jagdaufsicht kann ausüben, wer
-
-- a. im Kanton jagdberechtigt ist;
-- b. das Jagdrevier innert nützlicher Frist erreichen kann;
-- c. seit mindestens drei Jahren jagdberechtigt ist;
-- d. dazu körperlich und geistig in der Lage ist;
-- e. die Ausbildung zur Ausübung der Jagdaufsicht absolviert hat.
-
-<sup>4</sup> In begründeten Fällen können auch Jagdberechtigte, die noch nicht über eine dreijährige jagdliche Erfahrung verfügen, als Jagdaufseherin oder Jagdaufseher gewählt werden.
-
-<sup>5</sup> In Revieren mit einer grossen nicht bejagbaren Fläche können zusätzliche Jagdaufseherinnen oder Jagdaufseher gewählt werden.
-
-<sup>6</sup> Die Jagdaufseherinnen oder Jagdaufseher im gleichen Revier vertreten sich gegenseitig. In Revieren unter 400 ha Jagdfläche entscheidet die Direktion, ob eine zusätzliche Jagdaufseherin oder ein zusätzlicher Jagdaufseher gewählt werden muss.
-
-#### § 25
-
-**Rechte und Pflichten der Jagdaufseherinnen und Jagdaufseher**
-
-<sup>1</sup> Die Jagdaufseherin oder. der Jagdaufseher hat dafür zu sorgen, dass im zuständigen Revier die Jagdvorschriften eingehalten werden.
-
-<sup>2</sup> Die Jagdaufseherin bzw. der Jagdaufseher kann für bestimmte Tätigkeiten Revierpächterinnen bzw. Revierpächter beiziehen.
-
-<sup>3</sup> Die Jagdaufseherin oder der Jagdaufseher kann mit entsprechendem Jagdpass die Jagd auch im eigenen Revier als Mitglied der Jagdgesellschaft oder als Gastjägerin bzw. Gastjäger ausüben.
-
-<sup>4</sup> Der Regierungsrat regelt Aufgaben, Weiterbildung und Befugnisse der Jagdaufsicht.
-
-#### § 26
-
-**Entschädigung der Jagdaufseherinnen und Jagdaufseher**
-
-<sup>1</sup> Den Jagdaufseherinnen und Jagdaufsehern wird der Jagdpass gebührenfrei ausgestellt. Ebenso haben sie, im von ihnen überwachten Revier, den Beitrag und den Zuschlag gemäss § 16 nicht zu entrichten.
-
-#### § 27
-
-**Aneignungsrecht**
-
-<sup>1</sup> Das im Revier erlegte oder tot gefundene Tier gehört unter dem Vorbehalt schriftlicher Vereinbarungen mit den Nachbarrevieren der Jagdgesellschaft.
-
-#### § 28
-
-**Jagd über die Reviergrenze**
-
-<sup>1</sup> Die Jagdgesellschaften vereinbaren schriftlich, wie bei hohem Schwarzwilddruck innerhalb von 100 m über die Reviergrenze hinaus, Schwarzwild bejagt werden kann und wem das Wild gehört.
-
-#### § 29
-
-**Jagdhundehaltung**
-
-<sup>1</sup> Jede Jagdgesellschaft muss einen zur Nachsuche geprüften Jagdhund zur Verfügung haben.
-
-<sup>2</sup> Der Regierungsrat erlässt Vorschriften über die zur Jagd zugelassenen Hunde.
-
-<sup>3</sup> Zugelassene Jagdhunde dürfen frei laufen gelassen werden
-
-- a. auf der lauten Jagd;
-- b. ausserhalb der Hauptbrut- und Setzzeit zum Apportieren und zur Ausübung der Baujagd;
-- c. zur Nachsuche, wenn nötig, jederzeit.
-
-## 5 Schutz des Wildes
-
-#### § 30
-
-**Geschützte Tiere**
-
-<sup>1</sup> Der Regierungsrat bestimmt die Tiere, die zusätzlich zu den bundesrechtlich geschützten Tieren im Kanton unter Schutz stehen.
-
-#### § 31
-
-**Kantonale und kommunale Jagdbanngebiete und Vogelreservate**
-
-<sup>1</sup> Der Regierungsrat kann zur Schaffung oder Erhaltung genügender Lebensräume für wildlebende Säugetiere und Vögel oder zum Schutz bedrohter Tierarten kantonale Jagdbanngebiete und Vogelreservate ausscheiden.
-
-<sup>2</sup> Zum selben Zweck können die Gemeinden mit Zustimmung des Regierungsrates kommunale Jagdbanngebiete und Vogelreservate ausscheiden.
-
-<sup>3</sup> In Jagdbanngebieten und Vogelreservaten ist die Jagd verboten.
-
-#### § 32
-
-**Wildruhegebiete**
-
-<sup>1</sup> Wildruhegebiete sind Gebiete, in denen das Wild nicht durch übermässige Aktivitäten gestört werden darf.
-
-<sup>1<sup>bis</sup></sup> In Wildruhegebieten sind Hunde an der Leine zu führen.
-
-<sup>2</sup> Der Regierungsrat bestimmt in den Wildruhegebieten
-
-- a. Art und Umfang der erlaubten Aktivitäten;
-- b. die Art der Jagd und das Führen der Jagdhunde;
-- c. die Art der Kennzeichnung.
-
-<sup>3</sup> Im Rahmen der Waldentwicklungsplanung werden in den Jagdrevieren Wildruhegebiete ausgeschieden. Dabei werden Zonen des Wildaustrittes angemessen berücksichtigt.
-
-#### § 33
-
-**Sonntags- und Nachtjagd**
-
-<sup>1</sup> An öffentlichen Ruhetagen sowie zur Nachtzeit, das heisst von Einbruch der Dunkelheit bis zum Tagesanbruch, ist das Jagen verboten. Der Regierungsrat regelt die Ausnahmen.
-
-#### § 34
-
-**Laute Jagd**
-
-<sup>1</sup> Bei der Festlegung der Tage, an denen die laute Jagd ausgeübt wird, berücksichtigen die Jagdgesellschaften die örtlichen Verhältnisse sowie den Wildbestand. Die Fachstelle kann die angemessene Anzahl Tage festlegen.
-
-#### § 35
-
-**Jagdmethoden und Hilfsmittel**
-
-<sup>1</sup> Der Regierungsrat kann bestimmte jagdliche Hilfsmittel verbieten. Er regelt die Ausnahmebewilligungen für die Verwendung verbotener Hilfsmittel.
-
-#### § 36
-
-**Einfangen und Haltung jagdbarer Tiere**
-
-<sup>1</sup> Das Einfangen und Halten jagdbarer Tiere ist bewilligungspflichtig. Das Einfangen darf nicht gewerbsmässig erfolgen.
-
-#### § 36a
-
-**Fütterung von Wildtieren**
-
-<sup>1</sup> Wildlebende Säugetiere und Vögel dürfen nicht gefüttert werden.
-
-<sup>2</sup> Davon ausgenommen sind:
-
-- a. das massvolle Füttern von Vögeln im Winter;
-- b. das massvolle Ausbringen von Lockfutter an Kirrungen und Luderplätzen.
-
-<sup>3</sup> Der Regierungsrat kann weitere Ausnahmen beschliessen.
-
-#### § 37
-
-**Schutz des Wildes vor Störung**
-
-<sup>1</sup> Veranstaltungen im Wald oder in Waldesnähe dürfen wildlebende Säugetiere und Vögel nicht über Gebühr stören.
-
-#### § 38
-
-**Schutz des Wildes vor Hunden und Hauskatzen**
-
-<sup>1</sup> Während der Hauptsetz- und Brutzeit (1. April bis 31. Juli) sind alle Hunde im Wald und an Waldsäumen an der Leine zu führen.
-
-<sup>2</sup> Der Gemeinderat kann in Absprache mit der Jagdgesellschaft, den Naturschutzkreisen und der zuständigen Fachstelle Gebiete bezeichnen, in denen während der Hauptsetz- und Brutzeit die Leinenpflicht nicht gilt.
-
-<sup>3</sup> Hunde, die nicht unter Kontrolle gehalten werden können und die Wege verlassen, sind generell an der Leine zu führen.
-
-<sup>4</sup> Im Wald wildernde bzw. streunende Hunde dürfen nach erfolgloser Mahnung oder wenn die Besitzverhältnisse nicht geklärt werden können durch die Jagdaufsicht abgeschossen werden. Der Regierungsrat erlässt ergänzende Bestimmungen.
-
-<sup>5</sup> Durch Hunde verursachte Schäden am Wildbestand hat die Halterin oder der Halter der Jagdgesellschaft zu vergüten.
-
-<sup>6</sup> Im Wald dürfen streunende, verwilderte Hauskatzen durch die Jagdaufsicht abgeschossen werden.
-
-<sup>7</sup> Die Gemeinden kontrollieren die Einhaltung der Leinenpflicht gemäss Absatz 1 und § 32 Absatz 1<sup>bis</sup>.
-
-#### § 39
 
 **Fallwild**
 
 <sup>1</sup> Der Kanton kann Massnahmen zur Verhinderung von Fallwild ergreifen.
 
-## 6 Wildschaden
+## 3 Jagd
+
+### 3.1 Allgemeines
+
+#### § 14
+
+**Grundsätze der Jagd**
+
+<sup>1</sup> Durch die Ausübung der Jagd ist die wildbiologisch orientierte, nachhaltige Nutzung des Wildbestands zu gewährleisten.
+
+<sup>2</sup> Durch die Ausübung der Jagd ist der Wildbestand so zu regulieren, dass die Erhaltung des Waldes, insbesondere seine natürliche Verjüngung mit standortgerechten Baumarten, ohne Schutzmassnahmen möglich ist.
+
+<sup>3</sup> Dort, wo die natürliche Verjüngung mit standortgerechten Baumarten trotz eines an den Lebensraum angepassten Wildbestands nicht möglich ist, einigen sich die zuständige Jagdgesellschaft, die Waldeigentümerinnen oder Waldeigentümer sowie bei Bedarf weitere Anspruchsgruppen auf geeignete Schutzmassnahmen.
+
+<sup>4</sup> Die Jagenden berücksichtigen bei der Organisation und Durchführung der Jagd die Wildräume sowie den gesetzlichen Tierschutz.
+
+<sup>5</sup> An öffentlichen Ruhetagen sowie zur Nachtzeit, d. h. von Einbruch der Dunkelheit bis zum Tagesanbruch, ist das Jagen verboten. Der Regierungsrat regelt die Ausnahmen.
+
+#### § 15
+
+**Waidgerechtigkeit**
+
+<sup>1</sup> Die Jagenden wenden alle Sorgfalt an, um dem Tier unnötige Störungen, Angst, Leid und Schmerzen zu ersparen und seine Würde zu bewahren.
+
+<sup>2</sup> Sie haben den jährlichen Treffsicherheitsnachweis nach geltendem Standard zu erbringen.
+
+<sup>3</sup> Sie tragen insbesondere die Verantwortung für eine zeit- und fachgerechte Nachsuche aller Wildtiere.
+
+#### § 16
+
+**Jagdregal**
+
+<sup>1</sup> Das Jagdregal steht der Einwohnergemeinde zu.
+
+<sup>2</sup> Es gilt die Revierjagd.
+
+#### § 17
+
+**Jagdplanung**
+
+<sup>1</sup> Die Jagdgesellschaft ist zuständig für die Jagdplanung im Revier.
+
+<sup>2</sup> Die Fachstelle kann für bestimmte Wildtierarten die Jagdplanung festlegen.
+
+<sup>3</sup> Die Fachstelle kann in einzelnen oder allen Jagdrevieren den vermehrten oder verminderten Abschuss jagdbarer Wildtiere sowie weitere Massnahmen anordnen, um Wildschäden zu vermindern und die Verteilung und Nutzung der naturnah strukturierten Wildtierbestände zu fördern.
+
+<sup>4</sup> Die Fachstelle kann verlangen, dass die Jagdplanung aufgrund von Bestandserhebungen erstellt wird, um eine artgemässe Verteilung der Alters- und Geschlechtsklassen zu erreichen. Sie kann verlangen, dass ihr erlegte Wildtiere vorgelegt werden.
+
+<sup>5</sup> Die Fachstelle kann Vereinbarungen über die Jagdplanung mit anderen Kantonen treffen.
+
+### 3.2 Jagdreviere
+
+#### § 18
+
+**Einteilung der Jagdreviere**
+
+<sup>1</sup> Das Gebiet einer Einwohnergemeinde bildet grundsätzlich ein Jagdrevier.
+
+<sup>2</sup> Die Einwohnergemeinden können unter Mitteilung an die zuständige Direktion:
+
+- a. ihr Gebiet in mehrere Reviere aufteilen;
+- b. ihr Gebiet mit jenem benachbarter Einwohnergemeinden ganz oder teilweise zusammenlegen;
+- c. einzelne Gebietsteile zur Abrundung der Reviere mit solchen benachbarter Einwohnergemeinden austauschen.
+
+<sup>3</sup> Aufteilungen in Reviere unter 400 ha bedürfen einer Bewilligung der zuständigen Direktion.
+
+#### § 19
+
+**Einschätzung der Jagdreviere**
+
+<sup>1</sup> Zur Festlegung des Pachtzinses wird jedes Revier vor der Verpachtung durch die Kommission für Wildtiere und Jagd eingeschätzt. Diese Einschätzung gilt jeweils für die gesamte Pachtperiode**.**
+
+<sup>2</sup> Der Kanton trägt die Kosten für die Einschätzung.
+
+### 3.3 Jagdpacht
+
+#### § 20
+
+**Verpachtung**
+
+<sup>1</sup> Die Verpachtung erfolgt durch die Einwohnergemeinde im Rahmen der Erteilung einer Jagdkonzession an eine Jagdgesellschaft.
+
+<sup>2</sup> Voraussetzung für den Abschluss des Pachtvertrags mit einer Jagdgesellschaft ist die Erfüllung insbesondere folgender Kriterien:
+
+- a. wildökologisch fachgerechter Jagdbetrieb;
+- b. fachgerechte Hege;
+- c. tierschutzgerechte Nachsuche;
+- d. Sicherstellung der Jagdaufsicht;
+- e. örtliche Nähe der jagdberechtigten Mitglieder der Jagdgesellschaft zum Jagdrevier;
+- f. Kooperationsbereitschaft.
+
+<sup>3</sup> Sofern die bisherige Jagdgesellschaft für die Einhaltung der in Abs. 2 aufgeführten Kriterien Gewähr geboten hat, berücksichtigt die Einwohnergemeinde bei der Pachtvergabe zur Erhaltung von Kontinuität auch das Kriterium der bewährten Zusammenarbeit.
+
+<sup>4</sup> Die Einwohnergemeinde ist bei nicht verpachteten Revieren zur Verhinderung von übermässigen Wildschäden, zur Hege, zur Sicherstellung des Jagdbetriebs und zum Unterhalt der jagdlichen Einrichtungen verpflichtet.
+
+<sup>5</sup> Die Einwohnergemeinden regeln das Verfahren.
+
+#### § 21
+
+**Pachtvertrag**
+
+<sup>1</sup> Die Vertragsdauer beträgt 8 Jagdjahre. Das Jagdjahr beginnt jeweils am 1. April. Der Abschluss des Pachtvertrags hat bis Mitte Januar zu erfolgen.
+
+<sup>2</sup> Die Jagdpacht endet mit Ablauf der Pachtdauer, mit Auflösung der Jagdgesellschaft oder mittels ausserordentlicher Kündigung.
+
+<sup>3</sup> Die Pacht kann gekündigt werden bei:
+
+- a. grober Verletzung der gesetzlichen Pflichten;
+- b. grober Verletzung des Pachtvertrags;
+- c. grober Verletzung der Vergabekriterien;
+- d. Unterschreitung der vorgeschriebenen Mindestmitgliederanzahl, wenn diese nicht innerhalb von 6 Monaten wieder erreicht wird.
+
+<sup>4</sup> Es steht der Einwohnergemeinde bei einer Kündigung frei, das Revier für den Rest der Pachtperiode neu zu verpachten.
+
+<sup>5</sup> Die Unterpacht ist nicht gestattet.
+
+<sup>6</sup> Die Fachstelle stellt einen Mustervertrag zur Verfügung.
+
+#### § 22
+
+**Pachtzins**
+
+<sup>1</sup> Die Jagdgesellschaft entrichtet der Einwohnergemeinde jährlich den Pachtzins.
+
+<sup>2</sup> Die Einwohnergemeinde kann auf die Erhebung des Pachtzinses ganz oder teilweise verzichten.
+
+<sup>3</sup> Die Einwohnergemeinde kann den Pachtzins bis maximal 20 % über dem Schätzwert festlegen.
+
+<sup>4</sup> Die Einwohnergemeinde entrichtet dem Kanton jährlich eine Entschädigung in Höhe von 50 % des Schätzwerts als Beitrag an die Aufwendungen des Kantons gemäss diesem Gesetz.
+
+### 3.4 Jagdberechtigung
+
+#### § 23
+
+**Ausübung der Jagd**
+
+<sup>1</sup> Die Jagd darf nur ausüben, wer im Besitz eines gültigen Jagdpasses ist.
+
+#### § 24
+
+**Jagdpass**
+
+<sup>1</sup> Ausweis für die Jagdberechtigung im Kanton ist der persönliche Jagdpass.
+
+<sup>2</sup> Der Jagdpass wird Personen erteilt:
+
+- a. die handlungsfähig sind;
+- b. die eine schweizerische Jagdprüfung bestanden haben oder deren ausländische Jagdprüfung anerkannt ist;
+- c. die den Treffsicherheitsnachweis erbracht haben;
+- d. die im Rahmen des Bundesrechts haftpflichtversichert sind;
+- e. bei denen kein Ausschlussgrund aufgrund einer Widerhandlung vorliegt, die mit der Jagdausübung unvereinbar ist.
+
+<sup>3</sup> Für Jägerinnen und Jäger in Ausbildung können spezielle Jagdpässe ausgestellt werden.
+
+<sup>4</sup> Der Regierungsrat kann die Anerkennung von ausserkantonalen Jagdpässen beschliessen.
+
+#### § 25
+
+**Jagdpassabgaben**
+
+<sup>1</sup> Der Kanton stellt den Jagdpass gegen eine Gebühr aus.
+
+<sup>2</sup> Zusätzlich zu den Jagdpassgebühren ist eine Abgabe an den Kanton zu leisten, insbesondere zur Vergütung entstandener Wildschäden sowie der durch Dritte getroffenen Wildschutzmassnahmen.
+
+<sup>3</sup> Ausserkantonale Jagende haben zu dieser Abgabe einen Zuschlag zu entrichten.
+
+<sup>4</sup> Der Regierungsrat legt eine angemessene Deckelung für die Höhe der Abgaben fest.
+
+#### § 26
+
+**Ausschluss von der Jagdberechtigung**
+
+<sup>1</sup> Jagende können von der Jagdberechtigung im Kanton ausgeschlossen werden:
+
+- a. bei Entzug der Jagdberechtigung gemäss Bundesrecht;
+- b. bei Widerhandlung gegen das Jagdrecht des Bundes;
+- c. bei Widerhandlung gegen das kantonale Jagdrecht;
+- d. bei einer Verurteilung zu einer Freiheitsstrafe wegen eines Verbrechens oder eines Vergehens;
+- e. wenn die Voraussetzungen zur Erteilung des Jagdpasses nicht mehr erfüllt sind;
+- f. bei Gefährdung Dritter.
+
+<sup>2</sup> Die Fachstelle verfügt den Ausschluss von der Jagdberechtigung für die Dauer von 1 bis 10 Jahren und entzieht den Jagdpass.
+
+<sup>3</sup> Betrifft der Ausschluss von der Jagdberechtigung ein Mitglied einer Jagdgesellschaft, so hat die Fachstelle dies der zuständigen Einwohnergemeinde und Jagdaufsicht zu melden.
+
+<sup>4</sup> Der Ausschluss von der Jagdberechtigung begründet in keinem Fall ein Recht auf Schadenersatz.
+
+#### § 27
+
+**Haftpflichtversicherung**
+
+<sup>1</sup> Der Kanton kann für die Jagenden einen Kollektivhaftpflichtvertrag abschliessen. Der Beitritt ist fakultativ.
+
+<sup>2</sup> Der Kanton übernimmt bei fehlendem Versicherungsschutz keine Haftung.
+
+### 3.5 Jagdprüfung
+
+#### § 28
+
+**Organisation der Jagdprüfung**
+
+<sup>1</sup> Der Regierungsrat erlässt Bestimmungen über:
+
+- a. die Jagdprüfung;
+- b. die Anerkennung nicht schweizerischer Jagdprüfungen;
+- c. die Prüfungsgebühren.
+
+<sup>2</sup> Er ist ferner zuständig für den Abschluss von ausserkantonalen Gegenrechtsvereinbarungen über die Jagdprüfung.
+
+#### § 29
+
+**Jagdprüfungskommission**
+
+<sup>1</sup> Der Regierungsrat wählt eine Jagdprüfungskommission mit mindestens 8 Mitgliedern auf Amtsperiode und bestimmt deren Präsidentin oder Präsidenten.
+
+<sup>2</sup> Die Jagdprüfungskommission nimmt die Jagdprüfungen ab.
+
+### 3.6 Jagdgesellschaft
+
+#### § 30
+
+**Organisation der Jagdgesellschaft**
+
+<sup>1</sup> Die Mitglieder der Jagdgesellschaft müssen sich in der Rechtsform eines Vereins nach schweizerischem Recht zusammengeschlossen haben.
+
+<sup>2</sup> Für Reviere bis zu 600 ha muss die Jagdgesellschaft aus mindestens 3, für Reviere über 600 ha aus mindestens 6 jagdberechtigten Mitgliedern bestehen.
+
+<sup>3</sup> Bei Revieren bis zu 600 ha müssen mindestens 2, bei Revieren ab 600 ha mindestens 3 der jagdberechtigten Mitglieder bei Pachtbeginn jünger als 70 Jahre sein.
+
+<sup>4</sup> Eine jagdberechtigte Person darf in maximal 2 Jagdgesellschaften Mitglied sein. Der Regierungsrat kann aus wichtigen Gründen die Doppelmitgliedschaft verbieten.
+
+#### § 31
+
+**Hege**
+
+<sup>1</sup> Die Jagdgesellschaften und die Jagdaufseherinnen und Jagdaufseher sind zur Erhaltung eines an den Lebensraum angepassten und naturnah strukturierten Wildtierbestands verpflichtet.
+
+<sup>2</sup> Bei der Hege ist auf die örtlichen Verhältnisse sowie auf die Anliegen der Wald- und Landwirtschaft und des Naturschutzes Rücksicht zu nehmen. Insbesondere darf der Wildtierbestand nicht zu übermässigen Schäden im Wald, in landwirtschaftlichen Kulturen, in Gewässern sowie in Naturschutzgebieten und im Siedlungsraum führen.
+
+<sup>3</sup> Feste Reviereinrichtungen sind unter Vorbehalt einer allfälligen Bewilligungspflicht mit den Grundbesitzenden und dem örtlichen Forstdienst abzusprechen.
+
+<sup>4</sup> In dringenden Fällen kann die Fachstelle das Anlegen temporärer Jagdeinrichtungen gegenüber den Grundbesitzenden anordnen.
+
+#### § 32
+
+**Zielvereinbarung**
+
+<sup>1</sup> Die Einwohnergemeinde führt jährlich ein Standortgespräch mit der Jagdgesellschaft unter Einbezug der Wald- und Landwirtschaft.
+
+<sup>2</sup> Im Rahmen des Standortgesprächs wird regelmässig auf Basis der Wildtierstatistik und weiterer Wirkungskontrollen eine Zielvereinbarung getroffen. Darin sind insbesondere festzuhalten:
+
+- a. die Abschussziele der jeweiligen Wildart;
+- b. die räumliche und zeitliche Jagdplanung;
+- c. die waldbaulichen und landwirtschaftlichen Schutzmassnahmen;
+- d. die jagdlichen Einrichtungen;
+- e. die Qualität der Wildtierlebensräume;
+- f. die Kontrolltermine.
+
+<sup>3</sup> Die Zielvereinbarung wird der Fachstelle von der Einwohnergemeinde zur Genehmigung zugestellt.
+
+<sup>4</sup> Die Jagdgesellschaft macht gegenüber der Fachstelle die für die Wildtierstatistik verlangten Angaben und gewährt bei Bedarf Einsicht in die entsprechenden Unterlagen.
+
+<sup>5</sup> Die Fachstelle stellt eine Mustervereinbarung zur Verfügung.
+
+#### § 33
+
+**Kooperation**
+
+<sup>1</sup> Die Zusammenarbeit zwischen angrenzenden Jagdgesellschaften ist schriftlich zu vereinbaren. Die Vereinbarung ist der Fachstelle zur Kenntnisnahme vorzulegen. Die Fachstelle informiert die zuständige Einwohnergemeinde über den Abschluss und den Inhalt der Kooperationsvereinbarung.
+
+<sup>2</sup> In der Vereinbarung sind insbesondere festzuhalten:
+
+- a. die Bejagung der Wildtierarten, deren Streifgebiet sich über die Reviergrenzen erstreckt;
+- b. die Aneignung von Wild;
+- c. die Nachsuche über die Reviergrenzen;
+- d. der Standort von festen Reviereinrichtungen, die sich näher als 100 m an der gemeinsamen Reviergrenze befinden.
+
+<sup>3</sup> Die Fachstelle stellt eine Mustervereinbarung zur Verfügung.
+
+#### § 34
+
+**Jagdhundehaltung**
+
+<sup>1</sup> Jede Jagdgesellschaft muss einen zur Nachsuche geprüften Jagdhund zur Verfügung haben.
+
+<sup>2</sup> Der Regierungsrat erlässt Vorschriften über die zur Jagd zugelassenen Hunde und deren Einsatz.
+
+<sup>3</sup> Zugelassene Jagdhunde dürfen frei laufen gelassen werden:
+
+- a. zur Nachsuche;
+- b. auf der lauten Jagd;
+- c. zur Ausübung der Baujagd, welche nur mit Bewilligung der Fachstelle erlaubt ist;
+- d. ausserhalb der Hauptbrut- und Setzzeit.
+
+#### § 35
+
+**Laute Jagd**
+
+<sup>1</sup> Bei der Festlegung der Tage, an denen die laute Jagd ausgeübt wird, berücksichtigen die Jagdgesellschaften die örtlichen Verhältnisse sowie den Wildtierbestand. Die Fachstelle kann die angemessene Anzahl Tage festlegen.
+
+<sup>2</sup> Die Jagdtage sind den betroffenen Gemeinden anzuzeigen, und die Hauptzugänge zu den Jagdgebieten sind an den Jagdtagen zu signalisieren.
+
+#### § 36
+
+**Aneignungsrecht**
+
+<sup>1</sup> Im Revier erlegte oder tot aufgefundene Tiere gehören, unter dem Vorbehalt schriftlicher Vereinbarungen mit den Nachbarrevieren, der Jagdgesellschaft.
+
+<sup>2</sup> Tot aufgefundene oder erlegte Tiere geschützter Arten gehören dem Kanton.
+
+#### § 37
+
+**Gastjägerinnen und Gastjäger**
+
+<sup>1</sup> Die Jagdgesellschaften können Gastjägerinnen und Gastjäger zur Teilnahme an der Jagd einladen. Die Einladung hat unentgeltlich zu erfolgen.
+
+<sup>2</sup> Die Gastjägerin oder der Gastjäger hat die Jagd nach Anordnung eines Mitglieds der Jagdgesellschaft auszuüben.
+
+#### § 38
+
+**Begehungskarten**
+
+<sup>1</sup> Mit Einwilligung der Jagdgesellschaft darf ein Mitglied der Jagdgesellschaft einer Gastjägerin oder einem Gastjäger eine ganzjährige oder zeitweilige Begehungskarte für das Revier oder Teile davon ausstellen.
+
+<sup>2</sup> Die Begehungskarte ermöglicht die unbeaufsichtigte Jagd im entsprechenden Revier. Die jagdbare Wildtierart sowie die Bejagungsart können eingeschränkt werden.
+
+<sup>3</sup> Zur Regulierung übermässiger Wildtierbestände sowie bei übermässigen Wildschäden kann die Fachstelle die Jagdgesellschaften verpflichten, örtlich und zeitlich beschränkte Begehungskarten auszustellen.
+
+<sup>4</sup> Die Fachstelle und die Einwohnergemeinde erhalten jeweils eine Kopie der Begehungskarte.
+
+#### § 39
+
+**Unterstützung**
+
+<sup>1</sup> Der Kanton kann die Jagdgesellschaften oder die Jägerinnen und Jäger für das Erlegen jagdbarer Tiere, die für den Wildtier- und Fischbestand sowie deren Lebensraum besonders schädlich sind, finanziell und personell unterstützen.
+
+<sup>2</sup> Der Kanton leistet an die Durchführung des Treffsicherheitsnachweises einen finanziellen Beitrag.
+
+### 3.7 Jagdaufsicht
 
 #### § 40
 
-**Beiträge an Massnahmen zur Wildschadenverhütung**
+**Ernennung**
 
-<sup>1</sup> Der Kanton, die Gemeinde, die Jagdgesellschaft und die Waldeigentümerin oder der Waldeigentümer tragen je einen Viertel der Kosten der angemessenen Massnahmen zur Wildschadenverhütung im Wald und in Aufforstungen.
+<sup>1</sup> Die zuständige Direktion wählt auf gemeinsamen Antrag von Einwohnergemeinde und Jagdgesellschaft auf je 400 ha Jagdfläche eines Reviers oder eines Bruchteils davon eine Jagdaufseherin oder einen Jagdaufseher für die Dauer der Pachtperiode. Bei Nichteinigung entscheidet die zuständige Direktion.
 
-<sup>2</sup> Der Kanton leistet Beiträge an angemessene Massnahmen zur Wildschadenverhütung in vom Regierungsrat bezeichneten landwirtschaftlichen Kulturen.
+<sup>2</sup> In nicht verpachteten Revieren steht das Antragsrecht ausschliesslich der Einwohnergemeinde zu.
 
-<sup>3</sup> Der Regierungsrat bestimmt die Beiträge und regelt das Verfahren.
+<sup>3</sup> Die Jagdaufsicht kann ausüben, wer:
+
+- a. im Kanton jagdberechtigt ist;
+- b. das Jagdrevier innert nützlicher Frist erreichen kann;
+- c. seit mindestens 3 Jahren jagdberechtigt ist;
+- d. dazu körperlich und geistig in der Lage ist;
+- e. die Ausbildung zur Ausübung der Jagdaufsicht absolviert hat.
+
+<sup>4</sup> In begründeten Fällen können auch Jagende, die noch nicht seit 3 Jahren jagdberechtigt sind, als Jagdaufseherin oder Jagdaufseher gewählt werden.
+
+<sup>5</sup> In Revieren mit einer grossen nicht bejagbaren Fläche können zusätzliche Jagdaufseherinnen oder Jagdaufseher gewählt werden.
+
+<sup>6</sup> In Revieren unter 400 ha Jagdfläche entscheidet die zuständige Direktion, ob eine zusätzliche Jagdaufseherin oder ein zusätzlicher Jagdaufseher gewählt werden muss.
 
 #### § 41
 
-**Selbsthilfemassnahmen**
+**Sicherstellung der Jagdaufsicht**
 
-<sup>1</sup> Der Regierungsrat bestimmt, unter welchen Voraussetzungen und gegen welche Tierarten Selbsthilfemassnahmen zulässig sind.
+<sup>1</sup> Die Jagdaufsicht ist durch die Jagdgesellschaft sicherzustellen. Die Jagdaufseherinnen oder Jagdaufseher können dazu revierübergreifend schriftliche Vertretungsvereinbarungen treffen, die der Fachstelle vorzulegen sind.
 
-<sup>2</sup> Er bezeichnet die Hilfsmittel, die angewendet werden dürfen.
+<sup>2</sup> Die Einwohnergemeinde hat die Jagdaufsicht in nicht verpachteten Revieren sicherzustellen.
 
-<sup>3</sup> Die Jagdaufseherin oder der Jagdaufseher kann zur beratenden Hilfeleistung aufgeboten werden.
+<sup>3</sup> Jagdaufseherinnen und Jagdaufseher, die ihren gesetzlichen Pflichten nachkommen und zum Nachteil der Jagdgesellschaften oder der Jagdberechtigten strafrechtliche Handlungen zur Anzeige bringen, dürfen von der Jagdgesellschaft nicht ausgeschlossen oder anderweitig benachteiligt werden.
 
 #### § 42
 
-**Prämien**
+**Rechte und Pflichten der Jagdaufsicht**
 
-<sup>1</sup> Der Kanton kann für das Erlegen jagdbarer Tiere, die der Land- und Forstwirtschaft, der Fischerei oder dem Wildbestand besonders schädlich sind, Prämien ausrichten.
+<sup>1</sup> Die Jagdaufsicht untersteht der Fachstelle.
+
+<sup>2</sup> Die Jagdaufsicht hat im Revier, für das sie zuständig ist, dafür zu sorgen, dass die gesetzlichen Bestimmungen eingehalten werden.
+
+<sup>3</sup> Die Jagdaufsicht ist zuständig für die Erfüllung der Aufgaben im Bereich Wildunfälle und den Umgang mit Wildtieren im und ausserhalb des Siedlungsraums soweit dies im Rahmen ihrer Verantwortung erfüllbar ist.
+
+<sup>4</sup> Die Jagdaufsicht kann für bestimmte Tätigkeiten Revierpächterinnen oder Revierpächter beiziehen.
+
+<sup>5</sup> Jagdaufseherinnen und Jagdaufseher verpflichten sich, regelmässig Kurse und Weiterbildungen zu absolvieren.
 
 #### § 43
 
-**Grundsätze der Vergütung von Wildschaden**
+**Entschädigung der Jagdaufsicht**
 
-<sup>1</sup> Der Kanton vergütet Schäden, den jagdbare Tiere an Wald, landwirtschaftlichen Kulturen und Nutztieren anrichten, zu 100%.
+<sup>1</sup> Den Jagdaufseherinnen und Jagdaufsehern wird der Jagdpass gebührenfrei ausgestellt. Ebenso haben sie im von ihnen überwachten Revier keine Jagdpassabgaben zu entrichten.
 
-<sup>2</sup> Der Kanton vergütet die durch Bundesrecht nicht gedeckten Wildschäden, wenn diese durch geschützte Tiere entstanden sind.
+<sup>2</sup> Bei Wildunfällen im Strassenverkehr beteiligt sich die Verursacherin oder der Verursacher am Aufwand, welcher der Jagdaufseherin oder dem Jagdaufseher für Nachsuche, Bergung und Entsorgung von Fallwild sowie für das Ausfüllen des Unfallprotokolls entsteht, mit einem Pauschalbetrag gemäss Verordnung.
 
-<sup>3</sup> Der Kanton kann in Härtefällen Vergütungen an übrige, durch jagdbare oder geschützte Tiere verursachte Schäden, ausrichten.
-
-<sup>4</sup> Die Vergütungspflicht entfällt,
-
-- a. wenn die Geschädigte oder der Geschädigte Anlagen, an die Beiträge entrichtet werden, nicht erstellt oder nicht unterhalten hat;
-- b. bei Schäden durch Tiere, gegen welche Selbsthilfemassnahmen zulässig sind;
-- c. bei Bagatellfällen;
-- d. wenn die Baumartenwahl nicht nach naturnahen Gesichtspunkten erfolgt.
-
-<sup>5</sup> Der Regierungsrat bestimmt, zu welchem Teil die Vergütung in landwirtschaftlichen Kulturen entfällt, wenn:
-
-- a. die zumutbaren Verhütungsmassnahmen nicht getroffen worden sind;
-- b. die Anlage nicht unterhalten worden ist.
+<sup>3</sup> Die Entschädigung steht der Jagdgesellschaft zu, deren Jagdaufseherin oder Jagdaufseher den Einsatz geleistet hat.
 
 #### § 44
 
-**Gemeindebeiträge für Wildschäden und für deren Verhütung**
+**Nichterfüllung der Jagdaufsicht**
 
-<sup>1</sup> 20% der Pachtzinserträge der Gemeinde fliessen für die Entschädigung der Jagdaufsicht, der Wildschäden und deren Verhütung an den Kanton.
+<sup>1</sup> Der Kanton kann bei Nichterfüllung der Aufgaben im Bereich Wildunfälle Ersatzvornahmen anordnen oder vollziehen.
+
+<sup>2</sup> Der Kanton kann für das wiederholte Erbringen der Ersatzvornahme bis zur gesamten Aufwandshöhe auf die zuständige Jagdgesellschaft, oder in nicht verpachteten Revieren, auf die zuständige Einwohnergemeinde Rückgriff nehmen.
+
+<sup>3</sup> Die Fachstelle, oder bei nicht verpachteten Revieren, die Einwohnergemeinde kann bei wiederholter Nichterfüllung die Abwahl der Jagdaufseherin oder des Jagdaufsehers bei der zuständigen Direktion beantragen.
+
+<sup>4</sup> Die Jagdgesellschaft kann bei wiederholter Nichterfüllung die Abwahl der Jagdaufseherin oder des Jagdaufsehers nur auf gemeinsamen Antrag mit der Einwohnergemeinde bei der zuständigen Direktion beantragen.
+
+## 4 Wildschäden
+
+### 4.1 Massnahmen
 
 #### § 45
 
-**Rückgriff**
+**Massnahmen zur Reduktion von Wildschäden**
 
-<sup>1</sup> Für Schäden, die durch Hirsche, Gämsen oder Rehe verursacht wurden, kann der Kanton im Einzelfall bis zur gesamten Schadenhöhe auf die Jagdgesellschaft Rückgriff nehmen, wenn diese ihre Abschussplanung nicht erfüllt hat.
-
-<sup>2</sup> Der Regierungsrat kann die Rückgriffsmöglichkeit auf weitere jagdbare Tiere ausdehnen, jedoch nicht auf Schwarzwild.
+<sup>1</sup> Die Fachstelle kann Massnahmen zur Reduktion von Wildschäden anordnen.
 
 #### § 46
 
-**Ermittlung der Entschädigung**
+**Beiträge an Massnahmen zur Wildschadenverhütung**
 
-<sup>1</sup> Wildschäden, für die eine Vergütung beansprucht wird, sind sofort nach Feststellung der Fachstelle zu melden. Gleichzeitig ist die zuständige Jagdgesellschaft zu informieren.
+<sup>1</sup> Der Kanton, die Einwohnergemeinde, die Jagdgesellschaft und die Waldeigentümerin oder der Waldeigentümer tragen je 1/4 der Kosten der angemessenen Massnahmen zur Wildschadenverhütung im Wald.
 
-<sup>2</sup> Der Schaden wird innert drei Arbeitstagen nach dem Tag der Anmeldung geschätzt. Maiskulturen können auch erst nach der Ernte geschätzt werden.
+<sup>2</sup> Der Kanton leistet Beiträge an angemessene Massnahmen zur Wildschadenverhütung in vom Regierungsrat bezeichneten landwirtschaftlichen Kulturen.
 
-<sup>3</sup> Gegen die Höhe der Schätzung kann innert zehn Tagen bei der vom Regierungsrat gewählten Rekurskommission Beschwerde erhoben werden.
-
-<sup>4</sup> Falls ein Rückgriff auf die Jagdgesellschaft möglich ist, muss ihr der Termin für die Teilnahme an der Schadenabschätzung mitgeteilt werden.
-
-## 7 Strafbestimmungen
+<sup>3</sup> Der Regierungsrat legt eine angemessene Deckelung für die Höhe der Beiträge fest und regelt die Art der Erbringung der Beiträge sowie das Verfahren.
 
 #### § 47
 
-**Fehlabschüsse**
+**Selbsthilfemassnahmen**
 
-<sup>1</sup> Fehlabschüsse sind der Fachstelle zu melden.
+<sup>1</sup> Der Regierungsrat regelt, unter welchen Voraussetzungen und gegen welche Tierarten Selbsthilfemassnahmen zulässig sind.
 
-<sup>2</sup> Diese erhebt eine Gebühr bis zur Höhe des Verwertungserlöses. In diesem Fall entfällt jede weitere Strafverfolgung. Der Regierungsrat regelt das Verfahren.
+<sup>2</sup> Er bezeichnet die Hilfsmittel, die angewendet werden dürfen.
 
-<sup>3</sup> Die Fachstelle kann Fehlabschüsse zur Anzeige bringen.
+<sup>3</sup> Die Jagdaufseherin oder der Jagdaufseher kann zur Beratung und Unterstützung beigezogen werden.
+
+### 4.2 Vergütung
 
 #### § 48
 
-**Widerhandlungen**
+**Grundsätze der Vergütung von Wildschäden**
 
-<sup>1</sup> Widerhandlungen gegen dieses Gesetz oder gegen die Ausführungsbestimmungen werden mit Busse bestraft.
+<sup>1</sup> Der Kanton vergütet Schäden, den jagdbare oder geschützte Tiere an Wald, landwirtschaftlichen Kulturen und Nutztieren anrichten, bis zu 100 %.
+
+<sup>2</sup> Die Vergütungspflicht entfällt, wenn:
+
+- a. die oder der Geschädigte Anlagen nicht wirksam erstellt oder nicht fachgerecht unterhalten hat;
+- b. die oder der Geschädigte die zumutbaren Massnahmen nicht ergriffen hat;
+- c. die oder der Geschädigte die Jagdausübung auf dem betroffenen Gebiet verhindert hat;
+- d. die Schäden von Tieren stammen, gegen die Selbsthilfemassnahmen zulässig sind;
+- e. sich die Schäden in Gebieten befinden, in denen die Jagd nicht ausgeübt werden darf oder nur unter unzumutbaren Umständen ausgeübt werden kann;
+- f. die Kulturen vor der Einschätzung geerntet oder der Wildschaden bereits vor der Einschätzung behoben wurde;
+- g. die geschädigten Kulturen nicht wieder instand gestellt und weiterbetrieben werden;
+- h. die Baumartenwahl nicht nach naturnahen Gesichtspunkten erfolgt oder forstliche Pflanzungen nicht angemessen geschützt wurden;
+- i. die Schäden Kulturen betreffen, die nicht oder nur teilweise geerntet oder eingebracht wurden;
+- j. für Felder und Wiesen eine Schadenvergütung geltend gemacht wird, die aber vor der Abschätzung innert der gesetzlichen Frist von 3 Arbeitstagen wiederhergerichtet oder geerntet wurden;
+- k. der Schaden anderweitig gedeckt wurde.
+
+<sup>3</sup> Für Schutzgebiete sind mit den Grundeigentümerinnen oder Grundeigentümern und den Bewirtschaftenden Vereinbarungen zur Schadensvergütung zu treffen.
 
 #### § 49
 
-**Mitteilungspflicht**
+**Ermittlung der Entschädigung**
 
-<sup>1</sup> Gerichtliche Entscheide, die Widerhandlungen gegen jagdrechtliche Vorschriften betreffen, sowie Einstellungsverfügungen sind der Fachstelle zu melden.
+<sup>1</sup> Wildschäden, für die eine Vergütung beansprucht wird, sind sofort nach Feststellung der Fachstelle zu melden. Gleichzeitig ist die verantwortliche Person der zuständigen Jagdgesellschaft zu informieren.
+
+<sup>2</sup> Die betroffene Jagdgesellschaft ist über den vereinbarten Abschätzungstermin unmittelbar zu informieren und kann bei der Abschätzung von Wildschäden vertreten sein.
+
+<sup>3</sup> Gegen die Schätzung des Wildschadens kann innert 10 Tagen nach Einschätzung durch die Wildschadenabschätzerinnen oder Wildschadenabschätzer bei der Rekurskommission für die Abschätzung von Wildschäden Beschwerde erhoben werden.
 
 #### § 50
 
-**Strafverfolgung**
+**Rekurskommission für die Abschätzung von Wildschäden**
 
-<sup>1</sup> Kompetenzen der gerichtlichen Polizei haben die Leiterin bzw. der Leiter der Fachstelle, jagdberechtigte Mitarbeitende der Fachstelle sowie die gewählten Jagdaufseherinnen und Jagdaufseher.
-
-<sup>2</sup> Sie sind verpflichtet, Widerhandlungen gegen das Jagdrecht nachzugehen, Verdächtige anzuhalten, allenfalls Einrichtungen und Fahrzeuge zu untersuchen und gegebenenfalls Strafanzeige einzureichen.
-
-## 8 Schlussbestimmungen
+<sup>1</sup> Der Regierungsrat wählt eine Rekurskommission mit mindestens 3 Mitgliedern auf Amtsperiode und bestimmt deren Präsidentin oder Präsidenten.
 
 #### § 51
 
-**Aufhebung bisherigen Rechts**
+**Rückgriff**
 
-<sup>1</sup> Das Gesetz vom 30. März 1992[^51-1] über die Jagd und den Schutz wildlebender Säugetiere und Vögel wird aufgehoben.
+<sup>1</sup> Für Schäden, die durch Hirsche, Gämsen oder Rehe verursacht wurden, kann der Kanton im Einzelfall bis zur gesamten Schadenhöhe auf die jeweiligen Jagdgesellschaften Rückgriff nehmen, wenn diese die Zielvereinbarungen oder Abschusspläne wiederholt nicht erfüllt haben.
 
-<sup>2</sup> Das Dekret vom 30. März 1992[^51-2] über die Jagd und den Schutz wildlebender Säugetiere und Vögel wird aufgehoben.
+<sup>2</sup> Ein Rückgriff ist nicht möglich, wenn dargelegt werden kann, dass zur Erfüllung der Zielvereinbarungen oder der Abschusspläne alle üblichen und zumutbaren Schritte unternommen wurden.
 
-[^51-1]: GS 31.193, SGS 520
-[^51-2]: GS 31.205, SGS 520.1
+<sup>3</sup> Der Regierungsrat kann die Rückgriffsmöglichkeit auf weitere jagdbare Wildtiere ausdehnen, jedoch nicht auf Schwarzwild.
+
+## 5 Strafbestimmungen
 
 #### § 52
 
-**Inkrafttreten**
+**Fehlabschüsse**
 
-<sup>1</sup> Der Regierungsrat beschliesst das Inkrafttreten dieses Gesetzes[^52-1].
+<sup>1</sup> Die Fachstelle erhebt für Fehlabschüsse eine Gebühr bis zur Höhe des Verwertungserlöses gemäss Verordnung.
 
-[^52-1]: Vom Regierungsrat am 30. Oktober 2007 auf den 1. Januar 2008 in Kraft gesetzt.
+<sup>2</sup> Die Fachstelle kann Fehlabschüsse zur Anzeige bringen.
 
-GS 36.0345
+<sup>3</sup> Der Abschuss von Tieren geschützter Arten gilt nicht als Fehlabschuss und muss zur Anzeige gebracht werden.
+
+#### § 53
+
+**Übertretungen**
+
+<sup>1</sup> Widerhandlungen gegen dieses Gesetz oder gegen die Ausführungsbestimmungen werden mit Busse bis zu CHF 20'000.– bestraft.
+
+#### § 54
+
+**Mitteilungspflicht**
+
+<sup>1</sup> Gerichtliche Entscheide sowie Einstellungsverfügungen, die Widerhandlungen gegen jagdrechtliche Vorschriften betreffen, sind der Fachstelle zu melden.
+
+#### § 55
+
+**Strafverfolgung**
+
+<sup>1</sup> Die Leiterin oder der Leiter der Fachstelle, jagdberechtigte Mitarbeitende der Fachstelle sowie die Jagdaufseherinnen und Jagdaufseher sind verpflichtet, Widerhandlungen gegen das Jagdrecht nachzugehen, Verdächtige anzuhalten, allenfalls Einrichtungen und Fahrzeuge zu untersuchen und gegebenenfalls Strafanzeige einzureichen.
+
+## 6 Schlussbestimmungen
+
+#### § 56
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Nach bisherigem Recht erteilte Jagdpässe und Begehungskarten behalten ihre Gültigkeit.
+
+<sup>2</sup> Nach bisherigem Recht abgeschlossene Pachtverträge behalten ihre Gültigkeit.
+
+GS 2021.097
