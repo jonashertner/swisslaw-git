@@ -4,11 +4,11 @@ title: Bundesgesetz vom 21. Juni 2019 über das öffentliche Beschaffungswesen (
 short: BöB
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/126"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2019-06-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-126-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-126-20220101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20210101/de"
 
 (BöB)
 
-vom 21. Juni 2019 (Stand am 1. Januar 2021)
+vom 21. Juni 2019 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -59,7 +59,7 @@ In diesem Gesetz bedeuten:
 - a. *Anbieterin:* natürliche oder juristische Person des privaten oder öffentlichen Rechts oder Gruppe solcher Personen, die Leistungen anbietet, sich um die Teilnahme an einer öffentlichen Ausschreibung, die Übertragung einer öffentlichen Aufgabe oder die Erteilung einer Konzession bewirbt;
 - b. *öffentliches Unternehmen:* Unternehmen, auf das staatliche Behörden aufgrund von Eigentum, finanzieller Beteiligung oder der für das Unternehmen einschlägigen Vorschriften unmittelbar oder mittelbar einen beherrschenden Einfluss ausüben können; ein beherrschender Einfluss wird vermutet, wenn das Unternehmen mehrheitlich durch den Staat oder durch andere öffentliche Unternehmen finanziert wird, wenn es hinsichtlich seiner Leitung der Aufsicht durch den Staat oder durch andere öffentliche Unternehmen unterliegt oder wenn dessen Verwaltungs-, Leitungs- oder Aufsichtsorgan mehrheitlich aus Mitgliedern besteht, die vom Staat oder von anderen öffentlichen Unternehmen ernannt worden sind;
 - c. *Staatsvertragsbereich:* Geltungsbereich der internationalen Verpflichtungen der Schweiz über das öffentliche Beschaffungswesen;
-- d. *Arbeitsbedingungen:* zwingende Vorschriften des Obligationenrechts[^3-1] über den Arbeitsvertrag, normative Bestimmungen der Gesamtarbeitsverträge und der Normalarbeitsverträge oder, wo diese fehlen, die orts- und branchenübichen Arbeitsbedingungen;
+- d. *Arbeitsbedingungen:* zwingende Vorschriften des Obligationenrechts[^3-1] über den Arbeitsvertrag, normative Bestimmungen der Gesamtarbeitsverträge und der Normalarbeitsverträge oder, wo diese fehlen, die orts- und branchenüblichen Arbeitsbedingungen;
 - e. *Arbeitsschutzbestimmungen:* Vorschriften des öffentlichen Arbeitsrechts, einschliesslich der Bestimmungen des Arbeitsgesetzes vom 13. März 1964[^3-2] und des zugehörigen Ausführungsrechts sowie der Bestimmungen zur Unfallverhütung.
 
 [^3-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -1238,19 +1238,20 @@ Als Dienstleistungen im Staatsvertragsbereich gelten die nachfolgend aufgeführt
 
 Übrige Dienstleistungen
 
-Anhang 4
+Anhang 4[^t-1]
 
 (Art. 8 Abs. 4, 16 und 20 Abs. 1)
 
-## Schwellenwerte****
+## Schwellenwerte
 
 [^annex4-lvlu1-1]
 
-[^annex4-lvlu1-1]: Die Schwellenwerte in Schweizerfranken gelten für die Jahre 2016 und 2017.
+[^t-1]: Bereinigt gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 899](https://fedlex.data.admin.ch/eli/oc/2021/899)).
+[^annex4-lvlu1-1]: Die Schwellenwerte in Schweizerfranken gelten für die Jahre 2022 und 2023.
 
 ### 1 Schwellenwerte für Beschaffungen im Staatsvertragsbereich
 
-### 1.1 Protokoll vom 30. März 2012 zur Änderung des Übereinkommens über das öffentliche Beschaffungswesen sowie Freihandelsabkommen.
+### 1.1 Protokoll vom 30. März 2012 zur Änderung des Übereinkommens über das öffentliche Beschaffungswesen sowie Freihandelsabkommen
 
 <table>
 <tr><td colspan="4">**Offenes oder selektives Verfahren**</td></tr>
@@ -1350,5 +1351,5 @@ Die nachstehenden Erlasse werden wie folgt geändert:
 
 …[^annex7-lvlu1-2]
 
-[^annex7-lvlu1-1]: [[AS 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 3, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 11, [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)Art. 25 Ziff. 1, [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)Anhang Ziff. 1 [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)Art. 26 Ziff. 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 2, [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140), [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)Anhang Ziff. II 1, [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)Art. 1]
+[^annex7-lvlu1-1]: [[AS 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)Art. 25 Ziff. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)Anhang Ziff. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)Art. 26 Ziff. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)Anhang Ziff. II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)Art. 1]
 [^annex7-lvlu1-2]: Die Änderungen können unter [AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)konsultiert werden.

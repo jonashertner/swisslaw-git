@@ -4,11 +4,11 @@ title: Loi fédérale du 21 juin 2019 sur les marchés publics (LMP)
 short: LMP
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/126"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2019-06-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-126-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-126-20220101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20210101/fr"
 
 (LMP)
 
-du 21 juin 2019 (Etat le 1<sup>er</sup> janvier 2021)
+du 21 juin 2019 (État le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -382,7 +382,8 @@ Pour chaque marché adjugé de gré à gré en vertu de l’al. 2 ou 3, l’adju
 - a. les noms de l’adjudicateur et du soumissionnaire retenu;
 - b. la nature et la valeur de la prestation achetée;
 - c. les circonstances et conditions justifiant le recours à la procédure de gré à gré.
-- [tab] <sup>5</sup> Il est interdit de définir un marché public de sorte que, d’entrée, un seul soumissionnaire entre en considération pour l’adjudication, en particulier en raison des particularités techniques ou artistiques du marché (al. 2, let. c) ou en cas de prestations destinées à remplacer, à compléter ou à accroître des prestations déjà fournies (al. 2, let. e).
+
+<sup>5</sup> Il est interdit de définir un marché public de sorte que, d’entrée, un seul soumissionnaire entre en considération pour l’adjudication, en particulier en raison des particularités techniques ou artistiques du marché (al. 2, let. c) ou en cas de prestations destinées à remplacer, à compléter ou à accroître des prestations déjà fournies (al. 2, let. e).
 
 #### Art. 22
 
@@ -1233,15 +1234,16 @@ Sont considérés comme des services soumis aux accords internationaux les servi
 
 Autres services
 
-Annexe 4
+Annexe 4[^t-1]
 
 (art. 8, al. 4, 16 et 20, al. 1)
 
-## Valeurs seuils****
+## Valeurs seuils
 
 [^annex4-lvlu1-1]
 
-[^annex4-lvlu1-1]: Les valeurs seuils en francs suisses sont valables pour les années 2016 et 2017.
+[^t-1]: Mise à jour par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 899](https://fedlex.data.admin.ch/eli/oc/2021/899)).
+[^annex4-lvlu1-1]: Les valeurs seuils en francs suisses sont valables pour les années 2022 et 2023.
 
 ### 1 Valeurs seuils applicables aux marchés soumis aux accords internationaux
 

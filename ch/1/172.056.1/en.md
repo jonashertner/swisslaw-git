@@ -4,11 +4,11 @@ title: Federal Act of 21 June 2019 on Public Procurement (PPA)
 short: PPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/126"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2019-06-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2020-126-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2020-126-20220101-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (PPA)
 
-of 21 June 2019 (Status as of 1 January 2021)
+of 21 June 2019 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -1234,13 +1234,13 @@ The services listed below are deemed to be services within the scope of internat
 <tr><td>25. Sewage and refuse disposal; sanitation and similar services</td><td>94</td></tr>
 </table>
 
-[^annex3-lvlu1-lvl1-1]: Except arbitration and conciliation services
+[^annex3-lvlu1-lvl1-1]: Except arbitration and conciliation services.
 
 ### 2 Services outside the scope of international treaties
 
 Other services
 
-Annex 4
+Annex 4*[^t-1]*
 
 (Art. 8 para. 4, 16 and 20 para. 1)
 
@@ -1248,7 +1248,8 @@ Annex 4
 
 [^annex4-lvlu1-1]
 
-[^annex4-lvlu1-1]: The threshold values in Swiss francs apply for the years 2016 and 2017.
+[^t-1]: Revised by No I of the O of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2021 899](https://fedlex.data.admin.ch/eli/oc/2021/899)).
+[^annex4-lvlu1-1]: The threshold values in Swiss francs apply for the years 2022 and 2023.
 
 ### 1 Thresholds for procurements within the scope of international treaties
 
@@ -1352,5 +1353,5 @@ The legislative instruments below are amended as follows:
 
 ...[^annex7-lvlu1-2]
 
-[^annex7-lvlu1-1]: [[AS 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 3, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 11, [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)Art. 25 No 1, [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)Annex No 1 [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)Art. 26 No 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 2, [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140), [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)Annex No II 1, [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)Art. 1]
+[^annex7-lvlu1-1]: [[AS 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)Art. 25 No 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)Annex No 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)Art. 26 No 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)Annex No II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)Art. 1]
 [^annex7-lvlu1-2]: The amendments may be consulted under [AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126).
