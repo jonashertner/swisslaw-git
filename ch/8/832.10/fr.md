@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: fr
-version: 2021-10-01
+version: 2022-01-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20211001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20211001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20211001/fr"
 
 (LAMal)
 
-du 18 mars 1994 (Etat le 1<sup>er</sup> octobre 2021)
+du 18 mars 1994 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -183,7 +183,7 @@ Les cantons informent sur l’obligation de s’assurer:
 
 <sup>1</sup> L’assuré peut, moyennant un préavis de trois mois, changer d’assureur pour la fin d’un semestre d’une année civile.
 
-<sup>2</sup> Lors de la communication de la nouvelle prime, il peut changer d’assureur pour la fin du mois qui précède le début de la validité de la nouvelle prime, moyennant un préavis d’un mois. L’assureur doit annoncer à chaque assuré les nouvelles primes approuvées par l’Office fédéral de la santé publique (office)[^7-1] au moins deux mois à l’avance et signaler à l’assuré qu’il a le droit de changer d’assureur.[^7-2]
+<sup>2</sup> Lors de la communication de la nouvelle prime, il peut changer d’assureur pour la fin du mois qui précède le début de la validité de la nouvelle prime, moyennant un préavis d’un mois. L’assureur doit annoncer à chaque assuré les nouvelles primes approuvées par l’Office fédéral de la santé publique (OFSP)[^7-1] au moins deux mois à l’avance et signaler à l’assuré qu’il a le droit de changer d’assureur.[^7-2]
 
 <sup>3</sup> Si l’assuré doit changer d’assureur parce qu’il change de résidence ou d’emploi, l’affiliation prend fin au moment du changement de résidence ou de la prise d’emploi auprès d’un nouvel employeur.
 
@@ -197,7 +197,7 @@ Les cantons informent sur l’obligation de s’assurer:
 
 <sup>8</sup> L’assureur ne peut pas résilier les assurances complémentaires au sens de l’art. 2, al. 2, LSAMal au seul motif que l’assuré change d’assureur pour l’assurance-maladie sociale.[^7-7]
 
-[^7-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^7-1]: Nouvelle expression selon le ch. I de la LF du 18 juin 2021 (Mesures visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 [^7-2]: Nouvelle teneur selon le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> oct. 2000 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
 [^7-3]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
 [^7-4]: Nouvelle teneur selon l’annexe ch. 2 de la L du 26 sept. 2014 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1725](https://fedlex.data.admin.ch/eli/fga/2012/352)).
@@ -316,51 +316,52 @@ Le Conseil fédéral règle:
 
 #### Art. 18
 
-<sup>1</sup> Les assureurs créent une institution commune sous la forme d’une fondation. L’acte de fondation et les règlements de l’institution sont soumis à l’approbation du département. Le Conseil fédéral crée l’institution commune si les assureurs ne l’ont pas fait. Il édicte les prescriptions nécessaires si les assureurs ne peuvent s’entendre sur la gestion de l’institution.
+<sup>1</sup> Les assureurs créent une institution commune sous la forme d’une fondation. L’acte de fondation et les règlements de l’institution sont soumis à l’approbation du Département fédéral de l’intérieur (DFI)[^18-1]. Le Conseil fédéral crée l’institution commune si les assureurs ne l’ont pas fait. Il édicte les prescriptions nécessaires si les assureurs ne peuvent s’entendre sur la gestion de l’institution.
 
-<sup>2</sup> L’institution commune prend en charge les coûts afférents aux prestations légales en lieu et place des assureurs insolvables conformément à l’art. 51 LSAMal[^18-1].[^18-2]
+<sup>2</sup> L’institution commune prend en charge les coûts afférents aux prestations légales en lieu et place des assureurs insolvables conformément à l’art. 51 LSAMal[^18-2].[^18-3]
 
-<sup>2bis</sup> L’institution commune statue sur les demandes de dérogation à l’obligation de s’assurer déposées par des rentiers et des membres de leur famille qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège.[^18-3]
+<sup>2bis</sup> L’institution commune statue sur les demandes de dérogation à l’obligation de s’assurer déposées par des rentiers et des membres de leur famille qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège.[^18-4]
 
-<sup>2ter</sup> Elle affilie d’office les rentiers ainsi que les membres de leur famille qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège et qui n’ont pas donné suite à l’obligation de s’assurer en temps utile.[^18-4]
+<sup>2ter</sup> Elle affilie d’office les rentiers ainsi que les membres de leur famille qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège et qui n’ont pas donné suite à l’obligation de s’assurer en temps utile.[^18-5]
 
-<sup>2quater</sup> Elle assiste les cantons dans l’exécution de la réduction des primes prévue à l’art. 65*a* en faveur des assurés qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège.[^18-5]
+<sup>2quater</sup> Elle assiste les cantons dans l’exécution de la réduction des primes prévue à l’art. 65*a* en faveur des assurés qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège.[^18-6]
 
-<sup>2quinquies</sup> Elle procède à la réduction des primes conformément à l’art. 66*a*.[^18-6]
+<sup>2quinquies</sup> Elle procède à la réduction des primes conformément à l’art. 66*a*.[^18-7]
 
-<sup>2sexies</sup> L’institution commune peut assumer, contre indemnisation, d’autres tâches d’exécution qui lui sont confiées par les cantons.[^18-7]
+<sup>2sexies</sup> L’institution commune peut assumer, contre indemnisation, d’autres tâches d’exécution qui lui sont confiées par les cantons.[^18-8]
 
-<sup>2septies</sup> Elle gère le fonds chargé du suivi des donneurs vivants conformément à l’art. 15*b* de la loi du 8 octobre 2004 sur la transplantation[^18-8].[^18-9]
+<sup>2septies</sup> Elle gère le fonds chargé du suivi des donneurs vivants conformément à l’art. 15*b* de la loi du 8 octobre 2004 sur la transplantation[^18-9].[^18-10]
 
 <sup>3</sup> Le Conseil fédéral peut confier à l’institution d’autres tâches, notamment afin de remplir des engagements internationaux.
 
 <sup>4</sup> Les assureurs peuvent convenir de lui confier certaines tâches d’intérêt commun, notamment dans les domaines administratif et technique.
 
-<sup>5</sup> Pour financer les tâches de l’institution visées aux al. 2 et 4, les assureurs doivent lui verser des contributions à la charge de l’assurance-maladie sociale. L’institution réclame ces contributions et perçoit un intérêt moratoire en cas de retard dans le paiement. Le montant des contributions et de l’intérêt moratoire est fixé par les règlements de l’institution.[^18-10]
+<sup>5</sup> Pour financer les tâches de l’institution visées aux al. 2 et 4, les assureurs doivent lui verser des contributions à la charge de l’assurance-maladie sociale. L’institution réclame ces contributions et perçoit un intérêt moratoire en cas de retard dans le paiement. Le montant des contributions et de l’intérêt moratoire est fixé par les règlements de l’institution.[^18-11]
 
-<sup>5bis</sup> La Confédération assume le financement des tâches visées aux al. 2<sup>bis</sup> à 2<sup>quinquies</sup>.[^18-11]
+<sup>5bis</sup> La Confédération assume le financement des tâches visées aux al. 2<sup>bis</sup> à 2<sup>quinquies</sup>.[^18-12]
 
 <sup>6</sup> Le Conseil fédéral règle le financement des tâches confiées à l’institution commune en application de l’al. 3.
 
-<sup>7</sup> L’institution commune tient des comptes distincts pour chacune de ses tâches. Elle bénéficie de l’exonération d’impôts en vertu de l’art. 80 LPGA[^18-12].[^18-13]
+<sup>7</sup> L’institution commune tient des comptes distincts pour chacune de ses tâches. Elle bénéficie de l’exonération d’impôts en vertu de l’art. 80 LPGA[^18-13].[^18-14]
 
-<sup>8</sup> L’art. 85<sup>bis</sup>, al. 2 et 3, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^18-14] s’applique par analogie aux recours formés devant le Tribunal administratif fédéral contre les décisions de l’institution commune fondées sur les al. 2<sup>bis</sup>, 2<sup>ter</sup> et 2<sup>quinquies</sup>.[^18-15]
+<sup>8</sup> L’art. 85<sup>bis</sup>, al. 2 et 3, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^18-15] s’applique par analogie aux recours formés devant le Tribunal administratif fédéral contre les décisions de l’institution commune fondées sur les al. 2<sup>bis</sup>, 2<sup>ter</sup> et 2<sup>quinquies</sup>.[^18-16]
 
-[^18-1]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^18-2]: Nouvelle teneur selon l’annexe ch. 2 de la L du 26 sept. 2014 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1725](https://fedlex.data.admin.ch/eli/fga/2012/352)).
-[^18-3]: Introduit par le ch. I de la LF du 6 oct. 2000 ([RO 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3751](https://fedlex.data.admin.ch/eli/fga/2000/875)). Nouvelle teneur selon le ch. I 8 de la LF du 14 déc. 2001 relative aux disp. concernant la libre circulation des personnes de l’Ac. amendant la Conv. instituant l’AELE, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4729](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+[^18-1]: Nouvelle expression selon le ch. I de la LF du 18 juin 2021 (Mesures visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^18-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^18-3]: Nouvelle teneur selon l’annexe ch. 2 de la L du 26 sept. 2014 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1725](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 [^18-4]: Introduit par le ch. I de la LF du 6 oct. 2000 ([RO 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3751](https://fedlex.data.admin.ch/eli/fga/2000/875)). Nouvelle teneur selon le ch. I 8 de la LF du 14 déc. 2001 relative aux disp. concernant la libre circulation des personnes de l’Ac. amendant la Conv. instituant l’AELE, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4729](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 [^18-5]: Introduit par le ch. I de la LF du 6 oct. 2000 ([RO 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3751](https://fedlex.data.admin.ch/eli/fga/2000/875)). Nouvelle teneur selon le ch. I 8 de la LF du 14 déc. 2001 relative aux disp. concernant la libre circulation des personnes de l’Ac. amendant la Conv. instituant l’AELE, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4729](https://fedlex.data.admin.ch/eli/fga/2001/845)).
-[^18-6]: Introduit par le ch. I de la LF du 6 oct. 2000, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3751](https://fedlex.data.admin.ch/eli/fga/2000/875)).
+[^18-6]: Introduit par le ch. I de la LF du 6 oct. 2000 ([RO 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3751](https://fedlex.data.admin.ch/eli/fga/2000/875)). Nouvelle teneur selon le ch. I 8 de la LF du 14 déc. 2001 relative aux disp. concernant la libre circulation des personnes de l’Ac. amendant la Conv. instituant l’AELE, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4729](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 [^18-7]: Introduit par le ch. I de la LF du 6 oct. 2000, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3751](https://fedlex.data.admin.ch/eli/fga/2000/875)).
-[^18-8]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
-[^18-9]: Introduit par le ch. II 1 de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^18-10]: Nouvelle teneur selon le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
-[^18-11]: Introduit par le ch. I de la LF du 6 oct. 2000, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3751](https://fedlex.data.admin.ch/eli/fga/2000/875)).
-[^18-12]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^18-13]: Nouvelle teneur de la phrase selon l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^18-14]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^18-15]: Introduit par l’annexe ch. 110 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^18-8]: Introduit par le ch. I de la LF du 6 oct. 2000, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3751](https://fedlex.data.admin.ch/eli/fga/2000/875)).
+[^18-9]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^18-10]: Introduit par le ch. II 1 de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^18-11]: Nouvelle teneur selon le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
+[^18-12]: Introduit par le ch. I de la LF du 6 oct. 2000, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3751](https://fedlex.data.admin.ch/eli/fga/2000/875)).
+[^18-13]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^18-14]: Nouvelle teneur de la phrase selon l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
+[^18-15]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^18-16]: Introduit par l’annexe ch. 110 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Section 3 Promotion de la santé
 
@@ -380,9 +381,9 @@ Le Conseil fédéral règle:
 
 <sup>1</sup> Une contribution annuelle pour la prévention générale des maladies est perçue de chaque assuré obligatoire au sens de la présente loi.
 
-<sup>2</sup> Le département fixe la contribution sur proposition de l’institution. Il rend compte aux commissions compétentes des Chambres fédérales de l’utilisation de ces moyens.[^20-1]
+<sup>2</sup> Le DFI fixe la contribution sur proposition de l’institution. Il rend compte aux commissions compétentes des Chambres fédérales de l’utilisation de ces moyens.[^20-1]
 
-<sup>3</sup> Il surveille l’activité de l’institution.[^20-2] Les budgets, les comptes et le rapport d’activité sont présentés pour approbation à l’office.
+<sup>3</sup> Il surveille l’activité de l’institution.[^20-2] Les budgets, les comptes et le rapport d’activité sont présentés pour approbation à l’OFSP.
 
 [^20-1]: Nouvelle teneur selon l’annexe ch. II 10 de la LF du 22 mars 2002 sur l’adaptation des disp. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
 [^20-2]: Nouvelle teneur selon l’annexe ch. II 10 de la LF du 22 mars 2002 sur l’adaptation des disp. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
@@ -587,7 +588,7 @@ L’assurance obligatoire des soins prend en charge les coûts des soins dentair
 
 <sup>4</sup> Il nomme des commissions qui le conseillent afin de désigner les prestations. Il veille à la coordination des travaux des commissions précitées.
 
-<sup>5</sup> Il peut déléguer au département ou à l’office les compétences énumérées aux al. 1 à 3.
+<sup>5</sup> Il peut déléguer au DFI ou à l’OFSP les compétences énumérées aux al. 1 à 3.
 
 #### Art. 34
 
@@ -613,13 +614,13 @@ Le Conseil fédéral peut prévoir la prise en charge par l’assurance obligato
 
 #### Art. 35
 
-**Principe**
+**Types de fournisseurs de prestations[^35-1]**
 
-<sup>1</sup> Sont admis à pratiquer à la charge de l’assurance obligatoire des soins les fournisseurs de prestations qui remplissent les conditions des art. 36 à 40.
+<sup>1</sup> …[^35-2]
 
 <sup>2</sup>
 
-Ces fournisseurs de prestations sont:
+Les fournisseurs de prestations sont:[^35-3]
 
 - a. les médecins;
 - b. les pharmaciens;
@@ -629,54 +630,75 @@ Ces fournisseurs de prestations sont:
 - f. les laboratoires;
 - g. les centres de remise de moyens et d’appareils diagnostiques ou thérapeutiques;
 - h. les hôpitaux;
-- i.[^35-1] les maisons de naissance;
+- i.[^35-4] les maisons de naissance;
 - k. les établissements médico-sociaux;
 - l. les établissements de cure balnéaire;
-- m.[^35-2] les entreprises de transport et de sauvetage;
-- n.[^35-3] les institutions de soins ambulatoires dispensés par des médecins.
+- m.[^35-5] les entreprises de transport et de sauvetage;
+- n.[^35-6] les institutions de soins ambulatoires dispensés par des médecins.
 
-[^35-1]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^35-2]: Introduite par le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
-[^35-3]: Introduite par le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
+[^35-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Admission des fournisseurs de prestations), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
+[^35-2]: Abrogé par le ch. I de la LF du 19 juin 2020 (Admission des fournisseurs de prestations), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
+[^35-3]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Admission des fournisseurs de prestations), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
+[^35-4]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^35-5]: Introduite par le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
+[^35-6]: Introduite par le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
 
 #### Art. 36
 
-**Médecins**[^36-1]
+**Médecins et autres fournisseurs de prestations: principe**[^36-1]
 
-<sup>1</sup> Sont admis les médecins titulaires du diplôme fédéral et d’une formation postgraduée reconnue par le Conseil fédéral.
+Les fournisseurs de prestations visés à l’art. 35, al. 2, let. a à g, m et n, ne peuvent pratiquer à la charge de l’assurance obligatoire des soins que s’ils sont admis par le canton sur le territoire duquel ils exercent leur activité.
 
-<sup>2</sup> Le Conseil fédéral règle l’admission des médecins titulaires d’un certificat scientifique équivalent.
-
-<sup>3</sup> Les dentistes sont assimilés aux médecins pour les prestations prévues à l’art. 31.
-
-[^36-1]: Voir aussi les disp. trans. de la mod. du 21 juin 2013 à la fin du texte.
+[^36-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Admission des fournisseurs de prestations), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 
 #### Art. 36a
 
-**Institutions de soins ambulatoires dispensés par des médecins**[^36a-1]
+**Médecins et autres fournisseurs de prestations: conditions**[^36a-1]
 
-Les institutions qui offrent des soins ambulatoires dispensés par des médecins sont admises, lorsque ces médecins remplissent les conditions fixées à l’art. 36.
+<sup>1</sup> Le Conseil fédéral règle les conditions d’admission des fournisseurs de prestations visés à l’art. 35, al. 2, let. a à g, m et n. Ces conditions doivent permettre de garantir que les prestations soient appropriées et leur qualité de haut niveau.
 
-[^36a-1]: Introduit par le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
+<sup>2</sup> Les conditions d’admission portent, selon le type de fournisseurs de prestations, sur la formation de base, sur la formation postgrade et sur les exigences nécessaires pour assurer la qualité des prestations.
+
+[^36a-1]: Introduit par le ch. I de la LF du 24 mars 2000 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727). Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Admission des fournisseurs de prestations), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
 
 #### Art. 37
 
-**Pharmaciens**
+**Médecins: conditions particulières**[^37-1]
 
-<sup>1</sup> Sont admis les pharmaciens titulaires du diplôme fédéral et d’une formation postgraduée reconnue par le Conseil fédéral.
+<sup>1</sup>
 
-<sup>2</sup> Le Conseil fédéral règle l’admission des pharmaciens titulaires d’un certificat scientifique équivalent.
+Les fournisseurs de prestations visés à l’art. 35, al. 2, let. a, doivent avoir travaillé pendant au moins trois ans dans un établissement suisse reconnu de formation postgrade, dans le domaine de spécialité faisant l’objet de la demande d’admission. Ils disposent des compétences linguistiques nécessaires dans la région dans laquelle ils exercent, compétences sanctionnées par un test de langue passé en Suisse. Ce test n’est pas nécessaire pour les médecins qui sont titulaires d’un des diplômes suivants:
 
-<sup>3</sup> Les cantons fixent les conditions auxquelles les médecins autorisés à tenir une pharmacie sont assimilés aux pharmaciens. Ils tiennent compte en particulier des possibilités d’accès des patients à une pharmacie.
+- a. maturité gymnasiale suisse dont l’une des disciplines fondamentales est la langue officielle de la région dans laquelle ils exercent;
+- b. diplôme fédéral de médecine obtenu dans la langue officielle de la région dans laquelle ils exercent;
+- c. diplôme étranger reconnu en vertu de l’art. 15 de la loi du 23 juin 2006 sur les professions médicales[^37-2] obtenu dans la langue officielle de la région dans laquelle ils exercent.
+
+<sup>2</sup> Les institutions visées à l’art. 35, al. 2, let. n, ne sont admises que si les médecins qui y pratiquent remplissent les conditions prévues à l’al. 1.
+
+<sup>3</sup> Les fournisseurs de prestations visés aux al. 1 et 2 doivent s’affilier à une communauté ou à une communauté de référence certifiée au sens de l’art. 11, let. a, de la loi fédérale du 19 juin 2015 sur le dossier électronique du patient[^37-3].
+
+[^37-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Admission des fournisseurs de prestations), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
+[^37-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^37-3]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
 
 #### Art. 38
 
-**Autres fournisseurs de prestations**[^38-1]
+**Médecins et autres fournisseurs de prestations: surveillance**[^38-1]
 
-Le Conseil fédéral règle l’admission des fournisseurs de prestations énumérés à l’art. 35, al. 2, let. c à g, i et m.[^38-2] Il consulte au préalable les cantons et les organisations intéressées.
+<sup>1</sup> Chaque canton désigne une autorité chargée de surveiller les fournisseurs de prestations visés à l’art. 35, al. 2, let. a à g, m et n.
 
-[^38-1]: Nouvelle teneur selon le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
-[^38-2]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+<sup>2</sup>
+
+L’autorité de surveillance prend les mesures nécessaires au respect des conditions visées aux art. 36*a* et 37. En cas de non-respect des conditions, elle peut prendre les mesures suivantes:
+
+- a. un avertissement;
+- b. une amende de 20 000 francs au plus;
+- c. le retrait de l’admission à pratiquer à la charge de l’assurance obligatoire des soins pour tout ou partie du champ d’activité pendant un an au plus (retrait temporaire);
+- d. le retrait définitif de l’admission à pratiquer à la charge de l’assurance obligatoire des soins pour tout ou partie du champ d’activité.
+
+<sup>3</sup> Les assureurs peuvent demander à l’autorité de surveillance le retrait de l’autorisation dans des cas dûment justifiés. L’autorité de surveillance prend les mesures nécessaires.
+
+[^38-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Admission des fournisseurs de prestations), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
 
 #### Art. 39
 
@@ -712,7 +734,7 @@ Les établissements et celles de leurs divisions qui servent au traitement hospi
 
 **Établissements de cure balnéaire**
 
-<sup>1</sup> Les établissements de cure balnéaire sont admis s’ils sont reconnus par le département.
+<sup>1</sup> Les établissements de cure balnéaire sont admis s’ils sont reconnus par le DFI.
 
 <sup>2</sup> Le Conseil fédéral fixe les conditions que ces établissements doivent remplir en ce qui concerne la direction médicale, la dotation en personnel soignant qualifié, les traitements et les sources thermales.
 
@@ -789,43 +811,46 @@ Sont réputés raisons médicales au sens des al. 2 et 3 le cas d’urgence et l
 
 <sup>2</sup> Assureurs et fournisseurs de prestations peuvent convenir que l’assureur est le débiteur de la rémunération (système du tiers payant). En cas de traitement hospitalier, l’assureur, en dérogation à l’al. 1, est le débiteur de sa part de rémunération.[^42-4]
 
-<sup>3</sup> Le fournisseur de prestations doit remettre au débiteur de la rémunération une facture détaillée et compréhensible. Il doit aussi lui transmettre toutes les indications nécessaires lui permettant de vérifier le calcul de la rémunération et le caractère économique de la prestation. Dans le système du tiers payant, l’assuré reçoit une copie de la facture qui a été adressée à l’assureur. En cas de traitement hospitalier, l’hôpital atteste la part du canton et celle de l’assureur de manière séparée. Le Conseil fédéral règle les détails.[^42-5]
+<sup>3</sup> Le fournisseur de prestations doit remettre au débiteur de la rémunération une facture détaillée et compréhensible. Il doit aussi lui transmettre toutes les indications nécessaires lui permettant de vérifier le calcul de la rémunération et le caractère économique de la prestation. Dans le système du tiers payant, le fournisseur de prestations est tenu de transmettre à l’assuré une copie de la facture qui est adressée à l’assureur sans que l’assuré n’ait à le demander. L’assureur et le fournisseur de prestations peuvent convenir que l’assureur fait parvenir la copie de la facture à l’assuré. La facture peut également être transmise à l’assuré par voie électronique.[^42-5] En cas de traitement hospitalier, l’hôpital atteste la part du canton et celle de l’assureur de manière séparée. Le Conseil fédéral règle les modalités.[^42-6] [^42-7]
 
-<sup>3bis</sup> Les fournisseurs de prestations doivent faire figurer dans la facture au sens de l’al. 3 les diagnostics et les procédures sous forme codée, conformément aux classifications contenues dans l’édition suisse correspondante publiée par le département compétent. Le Conseil fédéral édicte des dispositions détaillées sur la collecte, le traitement et la transmission des données, dans le respect du principe de la proportionnalité.[^42-6]
+<sup>3bis</sup> Les fournisseurs de prestations doivent faire figurer dans la facture au sens de l’al. 3 les diagnostics et les procédures sous forme codée, conformément aux classifications contenues dans l’édition suisse correspondante publiée par le département compétent. Le Conseil fédéral édicte des dispositions détaillées sur la collecte, le traitement et la transmission des données, dans le respect du principe de la proportionnalité.[^42-8]
 
-<sup>4</sup> L’assureur peut exiger des renseignements supplémentaires d’ordre médical.[^42-7]
+<sup>4</sup> L’assureur peut exiger des renseignements supplémentaires d’ordre médical.[^42-9]
 
 <sup>5</sup> Le fournisseur de prestations est fondé lorsque les circonstances l’exigent, ou astreint dans tous les cas, si l’assuré le demande, à ne fournir les indications d’ordre médical qu’au médecin-conseil de l’assureur, conformément à l’art. 57.
 
-<sup>6</sup> En dérogation à l’art. 29, al. 2, LPGA, aucune formule n’est nécessaire pour faire valoir le droit aux prestations.[^42-8]
+<sup>6</sup> En dérogation à l’art. 29, al. 2, LPGA, aucune formule n’est nécessaire pour faire valoir le droit aux prestations.[^42-10]
 
 [^42-1]: Introduit par le ch. I de la LF du 8 oct. 2004 (Stratégie globale, compensation des risques), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2005 1071](https://fedlex.data.admin.ch/eli/oc/2005/139); [FF 2004 4019](https://fedlex.data.admin.ch/eli/fga/2004/706)).
 [^42-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^42-3]: Phrase introduite par l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^42-4]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^42-5]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^42-6]: Introduit par le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [FF 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1215)[6801](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
-[^42-7]: Nouvelle teneur selon le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [FF 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1215)[6801](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
-[^42-8]: Introduit par l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
+[^42-5]: Nouvelle teneur de la 3<sup>ème</sup> à la 5<sup>ème</sup> phrases selon le ch. I de la LF du 18 juin 2021 (Mesures visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^42-6]: 6<sup>ème</sup> et 7<sup>ème</sup> phrases introduites par le ch. I de la LF du 18 juin 2021 (Mesures visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^42-7]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^42-8]: Introduit par le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [FF 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1215)[6801](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
+[^42-9]: Nouvelle teneur selon le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [FF 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1215)[6801](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
+[^42-10]: Introduit par l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
 #### Art. 42a
 
 **Carte d’assuré**[^42a-1]
 
-<sup>1</sup> Le Conseil fédéral peut décider qu’une carte d’assuré portant un numéro d’identification attribué par la Confédération soit remise à chaque assuré pour la durée de son assujettissement à l’assurance obligatoire des soins. La carte contient le nom de l’assuré et le numéro d’assuré de l’assurance-vieillesse et survivants (AVS).[^42a-2]
+<sup>1</sup> Le Conseil fédéral peut décider qu’une carte d’assuré portant un numéro d’identification attribué par la Confédération soit remise à chaque assuré pour la durée de son assujettissement à l’assurance obligatoire des soins. La carte contient le nom de l’assuré et le numéro AVS[^42a-2].[^42a-3]
 
 <sup>2</sup> Cette carte comporte une interface utilisateur; elle est utilisée pour la facturation des prestations selon la présente loi.
 
-<sup>2bis</sup> Cette carte peut être utilisée comme moyen d’identification au sens de l’art. 7, al. 2, de la loi fédérale du 19 juin 2015 sur le dossier électronique du patient[^42a-3].[^42a-4]
+<sup>2bis</sup> Cette carte peut être utilisée comme moyen d’identification au sens de l’art. 7, al. 2, de la loi fédérale du 19 juin 2015 sur le dossier électronique du patient[^42a-4].[^42a-5]
 
 <sup>3</sup> Le Conseil fédéral règle, après consultation des milieux intéressés, les modalités d’introduction de la carte par les assureurs, ainsi que les standards techniques qui doivent être appliqués.
 
 <sup>4</sup> Moyennant le consentement de l’assuré, la carte contient des données personnelles auxquelles peuvent avoir accès les personnes qui y sont autorisées. Le Conseil fédéral définit, après avoir consulté les milieux intéressés, l’étendue des données pouvant être enregistrées sur la carte. Il règle l’accès aux données et leur gestion.
 
 [^42a-1]: Introduit par le ch. I de la LF du 8 oct. 2004 (Stratégie globale, compensation des risques), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2005 1071](https://fedlex.data.admin.ch/eli/oc/2005/139); [FF 2004 4019](https://fedlex.data.admin.ch/eli/fga/2004/706)).
-[^42a-2]: Nouvelle teneur de la phrase selon l’annexe ch. 11 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007; [RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^42a-3]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
-[^42a-4]: Introduit par l’art. 25 de la LF du 19 juin 2015 sur le dossier électronique du patient, en vigueur depuis le 15 avr. 2017 ([RO 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); [FF 2013 4747](https://fedlex.data.admin.ch/eli/fga/2013/989)).
+[^42a-2]: Nouvelle expression selon l’annexe ch. 31 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^42a-3]: Nouvelle teneur de la phrase selon l’annexe ch. 11 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007; [RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^42a-4]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
+[^42a-5]: Introduit par l’art. 25 de la LF du 19 juin 2015 sur le dossier électronique du patient, en vigueur depuis le 15 avr. 2017 ([RO 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); [FF 2013 4747](https://fedlex.data.admin.ch/eli/fga/2013/989)).
 
 ### Section 4 Tarifs et prix
 
@@ -842,24 +867,25 @@ Le tarif est une base de calcul de la rémunération; il peut notamment:
 - a. se fonder sur le temps consacré à la prestation (tarif au temps consacré);
 - b. attribuer des points à chacune des prestations et fixer la valeur du point (tarif à la prestation);
 - c. prévoir un mode de rémunération forfaitaire (tarif forfaitaire);
-- d. soumettre, à titre exceptionnel, en vue de garantir leur qualité, la rémunération de certaines prestations à des conditions supérieures à celles prévues par les art. 36 à 40, notamment à celles qui prévoient que les fournisseurs disposent de l’infrastructure, de la formation de base, de la formation postgraduée ou de la formation continue nécessaires (exclusion tarifaire).
+- d. soumettre, à titre exceptionnel, en vue de garantir leur qualité, la rémunération de certaines prestations à des conditions supérieures à celles prévues par les art. 36 à 40, notamment à celles qui prévoient que les fournisseurs disposent de l’infrastructure, de la formation de base, de la formation postgrade[^43-1] ou de la formation continue nécessaires (exclusion tarifaire).
 
 <sup>3</sup> Le tarif forfaitaire peut se rapporter au traitement par patient (forfait par patient) ou aux soins par groupe d’assurés (forfait par groupe d’assurés). Les forfaits par groupe d’assurés peuvent être fixés, de manière prospective, sur la base des prestations fournies dans le passé et des besoins futurs (budget global prospectif).
 
 <sup>4</sup> Les tarifs et les prix sont fixés par convention entre les assureurs et les fournisseurs de prestations (convention tarifaire) ou, dans les cas prévus par la loi, par l’autorité compétente. Ceux-ci veillent à ce que les conventions tarifaires soient fixées d’après les règles applicables en économie d’entreprise et structurées de manière appropriée. Lorsqu’il s’agit de conventions conclues entre des fédérations, les organisations qui représentent les intérêts des assurés sur le plan cantonal ou fédéral sont entendues avant la conclusion.
 
-<sup>4bis</sup> Les tarifs et les prix sont déterminés en fonction de la rémunération des fournisseurs de prestations qui fournissent la prestation tarifée obligatoirement assurée, dans la qualité nécessaire, de manière efficiente et avantageuse.[^43-1]
+<sup>4bis</sup> Les tarifs et les prix sont déterminés en fonction de la rémunération des fournisseurs de prestations qui fournissent la prestation tarifée obligatoirement assurée, dans la qualité nécessaire, de manière efficiente et avantageuse.[^43-2]
 
 <sup>5</sup> Les tarifs à la prestation doivent se fonder sur une structure tarifaire uniforme, fixée par convention sur le plan suisse. Si les partenaires tarifaires ne peuvent s’entendre sur une structure tarifaire uniforme, le Conseil fédéral la fixe.
 
-<sup>5bis</sup> Le Conseil fédéral peut procéder à des adaptations de la structure tarifaire si celle-ci s’avère inappropriée et que les parties ne peuvent s’entendre sur une révision de la structure.[^43-2]
+<sup>5bis</sup> Le Conseil fédéral peut procéder à des adaptations de la structure tarifaire si celle-ci s’avère inappropriée et que les parties ne peuvent s’entendre sur une révision de la structure.[^43-3]
 
 <sup>6</sup> Les parties à la convention et les autorités compétentes veillent à ce que les soins soient appropriés et leur qualité de haut niveau, tout en étant le plus avantageux possible.
 
 <sup>7</sup> Le Conseil fédéral peut établir des principes visant à ce que les tarifs soient fixés d’après les règles d’une saine gestion économique et structurés de manière appropriée; il peut aussi établir des principes relatifs à leur adaptation. Il veille à la coordination de ces tarifs avec les régimes tarifaires des autres assurances sociales.
 
-[^43-1]: Introduit par le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
-[^43-2]: Introduit par le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [FF 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1215)[6801](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
+[^43-1]: Nouvelle expression selon le ch. I de la LF du 19 juin 2020 (Admission des fournisseurs de prestations), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
+[^43-2]: Introduit par le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+[^43-3]: Introduit par le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [FF 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1215)[6801](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
 
 #### Art. 44
 
@@ -911,6 +937,31 @@ Ne sont pas admises et donc nulles en particulier les mesures suivantes, qu’el
 <sup>3</sup> Lorsque les fournisseurs de prestations et les assureurs ne parviennent pas à s’entendre sur le renouvellement d’une convention tarifaire, le gouvernement cantonal peut la prolonger d’une année. Si aucune convention n’est conclue dans ce délai, il fixe le tarif après avoir consulté les intéressés.
 
 [^47-1]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+
+#### Art. 47a
+
+**Organisation chargée des structures tarifaires pour les traitements ambulatoires**[^47a-1]
+
+<sup>1</sup> Les fédérations des fournisseurs de prestations et celles des assureurs instituent une organisation chargée de l’élaboration, du développement, de l’adaptation et de la maintenance des structures tarifaires pour les traitements médicaux ambulatoires. Les fédérations impliquées y sont représentées paritairement.
+
+<sup>2</sup> Le Conseil fédéral peut étendre l’obligation d’instituer une organisation aux fédérations compétentes pour des structures tarifaires qui s’appliquent à d’autres traitements ambulatoires.
+
+<sup>3</sup> Si l’organisation fait défaut ou si elle ne satisfait pas aux exigences légales, il l’institue pour les fédérations des fournisseurs de prestations et celles des assureurs.
+
+<sup>4</sup> Si les fédérations de fournisseurs de prestations et celles des assureurs ne parviennent pas à s’entendre sur des principes concernant la forme, le fonctionnement et le financement de l’organisation, le Conseil fédéral fixe ces principes, après avoir consulté les organisations intéressées.
+
+<sup>5</sup> Les fournisseurs de prestations et les assureurs sont tenus de communiquer gratuitement à l’organisation les données nécessaires à l’élaboration, au développement, à l’adaptation et à la maintenance des structures tarifaires pour les traitements ambulatoires.
+
+<sup>6</sup>
+
+En cas de manquement à l’obligation de communiquer les données prévue à l’al. 5, le DFI, sur proposition de l’organisation, peut prononcer des sanctions à l’encontre des fournisseurs de prestations concernés. Les sanctions sont les suivantes:
+
+- a. l’avertissement;
+- b. une amende de 20 000 francs au plus.
+
+<sup>7</sup> Les structures tarifaires élaborées par l’organisation et leurs adaptations sont soumises par les partenaires tarifaires au Conseil fédéral pour approbation.
+
+[^47a-1]: Introduit par le ch. I de la LF du 18 juin 2021 (Mesures visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
 
 #### Art. 48
 
@@ -1017,23 +1068,24 @@ Après avoir consulté les commissions compétentes et conformément aux princip
 
 - a.
 
-  le département édicte:
+  le DFI édicte:
 
   - 1\. une liste des analyses avec tarif;
   - 2\. une liste avec tarif des produits et des substances actives et auxiliaires employés pour la prescription magistrale; le tarif comprend aussi les prestations du pharmacien;
   - 3\.[^52-1] des dispositions sur l’obligation de prise en charge et l’étendue de la rémunération des moyens et appareils diagnostiques ou thérapeutiques utilisés conformément aux art. 25, al. 2, let. b, et 25*a*, al. 1 et 2;
 
-- b. l’office établit une liste, avec prix, des préparations pharmaceutiques et des médicaments confectionnés (liste des spécialités). Celle-ci doit également comprendre les génériques meilleur marché qui sont interchangeables avec les préparations originales.
+- b. l’OFSP établit une liste, avec prix, des préparations pharmaceutiques et des médicaments confectionnés (liste des spécialités). Celle-ci doit également comprendre les génériques meilleur marché qui sont interchangeables avec les préparations originales.
 
-<sup>2</sup> En matière d’infirmités congénitales (art. 3, al. 2, LPGA[^52-2]), les mesures thérapeutiques du catalogue des prestations de l’assurance-invalidité sont reprises dans les dispositions et listes établies en vertu de l’al. 1.[^52-3]
+<sup>2</sup> Pour les infirmités congénitales (art. 3, al. 2, LPGA[^52-2]), les coûts des médicaments inclus dans le catalogue des prestations de l’assurance-invalidité en vertu de l’art. 14<sup>ter</sup>, al. 5, de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^52-3] sont également pris en charge aux prix maximaux fixés sur la base de cette disposition.[^52-4]
 
-<sup>3</sup> Les analyses, médicaments, moyens et appareils diagnostiques ou thérapeutiques peuvent être facturés au plus d’après les tarifs, prix et taux de rémunération au sens de l’al. 1. Le département désigne les analyses effectuées dans le laboratoire du cabinet médical pour lesquelles le tarif peut être fixé conformément aux art. 46 et 48.[^52-4] Il peut également désigner les moyens et appareils diagnostiques ou thérapeutiques visés à l’al. 1, let. a, ch. 3, pour lesquels un tarif peut être convenu conformément à l’art. 46.[^52-5]
+<sup>3</sup> Les analyses, médicaments, moyens et appareils diagnostiques ou thérapeutiques peuvent être facturés au plus d’après les tarifs, prix et taux de rémunération au sens de l’al. 1. Le DFI désigne les analyses effectuées dans le laboratoire du cabinet médical pour lesquelles le tarif peut être fixé conformément aux art. 46 et 48.[^52-5] Il peut également désigner les moyens et appareils diagnostiques ou thérapeutiques visés à l’al. 1, let. a, ch. 3, pour lesquels un tarif peut être convenu conformément à l’art. 46.[^52-6]
 
 [^52-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Voir aussi la disp. trans. de la mod. du 18 déc. 2020 à la fin du texte.
 [^52-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^52-3]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^52-4]: Nouvelle teneur de la phrase selon le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
-[^52-5]: Phrase introduite par le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
+[^52-3]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^52-4]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^52-5]: Nouvelle teneur de la phrase selon le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
+[^52-6]: Phrase introduite par le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
 
 #### Art. 52a
 
@@ -1047,11 +1099,11 @@ Le pharmacien peut remplacer des préparations originales de la liste des spéci
 
 **Recours au Tribunal administratif fédéral**[^53-1]
 
-<sup>1</sup> Les décisions des gouvernements cantonaux visées aux art. 39, 45, 46, al. 4, 47, 48, al. 1 à 3, 51, 54, 55 et 55a peuvent faire l’objet d’un recours au Tribunal administratif fédéral.
+<sup>1</sup> Les décisions des gouvernements cantonaux visées aux art. 39, 45, 46, al. 4, 47, 48, al. 1 à 3, 51, 54 et 55 peuvent faire l’objet d’un recours au Tribunal administratif fédéral.[^53-2]
 
 <sup>2</sup>
 
-La procédure de recours est régie par la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^53-2] et la loi fédérale du 20 décembre 1968 sur la procédure administrative (PA)[^53-3]. Les exceptions suivantes sont réservées:
+La procédure de recours est régie par la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^53-3] et la loi fédérale du 20 décembre 1968 sur la procédure administrative (PA)[^53-4]. Les exceptions suivantes sont réservées:
 
 - a. les preuves et faits nouveaux ne peuvent être présentés que s’ils résultent de l’acte attaqué; toute conclusion nouvelle est irrecevable;
 - b. les art. 22*a* et 53 PA ne sont pas applicables;
@@ -1060,8 +1112,9 @@ La procédure de recours est régie par la loi du 17 juin 2005 sur le Tribunal a
 - e. le grief de l’inopportunité ne peut être invoqué comme motif de recours contre les décisions au sens de l’art. 39.
 
 [^53-1]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^53-2]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^53-3]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^53-2]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Admission des fournisseurs de prestations), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
+[^53-3]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^53-4]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 ### Section 5 Mesures extraordinaires de maîtrise des coûts
 
@@ -1084,7 +1137,7 @@ La procédure de recours est régie par la loi du 17 juin 2005 sur le Tribunal a
 Ces autorités sont:
 
 - a. le Conseil fédéral s’agissant de conventions tarifaires approuvées par lui en vertu de l’art. 46, al. 4;
-- b. le département s’agissant de tarifs ou de prix d’après l’art. 52, al. 1, let. a, ch. 1 et 2, ainsi que let. b;
+- b. le DFI s’agissant de tarifs ou de prix d’après l’art. 52, al. 1, let. a, ch. 1 et 2, ainsi que let. b;
 - c. le gouvernement cantonal s’agissant de conventions tarifaires approuvées par lui en vertu de l’art. 46, al. 4.
 
 #### Art. 55a
@@ -1157,7 +1210,7 @@ Le fournisseur de prestations doit répercuter sur le débiteur de la rémunéra
 
 **Médecins-conseils**
 
-<sup>1</sup> Après avoir consulté les sociétés médicales cantonales, les assureurs ou leurs fédérations désignent des médecins-conseils. Ceux-ci doivent satisfaire aux conditions d’admission prévues à l’art. 36 et avoir pratiqué dans un cabinet médical ou exercé une fonction dirigeante dans un hôpital pendant cinq ans au moins.
+<sup>1</sup> Après avoir consulté les sociétés médicales cantonales, les assureurs ou leurs fédérations désignent des médecins-conseils. Ceux-ci doivent satisfaire aux conditions d’admission prévues aux art. 36*a* et 37, al. 1, et avoir pratiqué dans un cabinet médical ou exercé une fonction dirigeante dans un hôpital pendant cinq ans au moins.[^57-1]
 
 <sup>2</sup> Les médecins-conseils appelés à exercer dans toute la Suisse doivent être désignés avec l’accord de la société médicale du canton dans lequel l’assureur a son siège principal ou dans lequel la fédération d’assureurs a son siège.
 
@@ -1167,15 +1220,16 @@ Le fournisseur de prestations doit répercuter sur le débiteur de la rémunéra
 
 <sup>5</sup> Le médecin-conseil évalue les cas en toute indépendance. Ni l’assureur ni le fournisseur de prestations ni leurs fédérations ne peuvent lui donner de directives.
 
-<sup>6</sup> Les fournisseurs de prestations doivent donner aux médecins-conseils les indications dont ils ont besoin pour remplir leurs tâches selon l’al. 4. S’il n’est pas possible d’obtenir ces informations par un autre moyen, le médecin-conseil peut examiner lui-même l’assuré; il doit en informer préalablement le médecin traitant et lui communiquer le résultat de l’examen. Si les circonstances le justifient, l’assuré peut toutefois exiger que l’examen soit effectué par un médecin autre que le médecin-conseil. Lorsque l’assuré et l’assureur ne peuvent s’entendre, le tribunal arbitral au sens de l’art. 89 tranche, en dérogation à l’art. 58, al. 1, LPGA[^57-1].[^57-2]
+<sup>6</sup> Les fournisseurs de prestations doivent donner aux médecins-conseils les indications dont ils ont besoin pour remplir leurs tâches selon l’al. 4. S’il n’est pas possible d’obtenir ces informations par un autre moyen, le médecin-conseil peut examiner lui-même l’assuré; il doit en informer préalablement le médecin traitant et lui communiquer le résultat de l’examen. Si les circonstances le justifient, l’assuré peut toutefois exiger que l’examen soit effectué par un médecin autre que le médecin-conseil. Lorsque l’assuré et l’assureur ne peuvent s’entendre, le tribunal arbitral au sens de l’art. 89 tranche, en dérogation à l’art. 58, al. 1, LPGA[^57-2].[^57-3]
 
-<sup>7</sup> Les médecins-conseils ne transmettent aux organes compétents des assureurs que les indications dont ceux-ci ont besoin pour décider de la prise en charge d’une prestation, pour fixer la rémunération, pour calculer la compensation des risques ou pour motiver une décision. Ce faisant, ils respectent les droits de la personnalité des assurés.[^57-3]
+<sup>7</sup> Les médecins-conseils ne transmettent aux organes compétents des assureurs que les indications dont ceux-ci ont besoin pour décider de la prise en charge d’une prestation, pour fixer la rémunération, pour calculer la compensation des risques ou pour motiver une décision. Ce faisant, ils respectent les droits de la personnalité des assurés.[^57-4]
 
 <sup>8</sup> Les associations faîtières suisses de médecins et d’assureurs règlent la transmission des indications au sens de l’al. 7, la formation continue et le statut des médecins-conseils. Si elles ne peuvent s’entendre, le Conseil fédéral édicte les dispositions nécessaires.
 
-[^57-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^57-2]: Nouvelle teneur de la phrase selon l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^57-3]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Compensation des risques), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^57-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 19 juin 2020 (Admission des fournisseurs de prestations), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
+[^57-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^57-3]: Nouvelle teneur de la phrase selon l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
+[^57-4]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Compensation des risques), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 
 #### Art. 58
 
@@ -1329,38 +1383,43 @@ Le Conseil fédéral définit des mesures de développement de la qualité, ains
 
 #### Art. 59
 
-**Manquements aux exigences relatives au caractère économique et au développement de la qualité des prestations[^59-2]**[^59-1]
+**Manquements aux exigences relatives au caractère économique, au développement de la qualité des prestations et à la facturation[^59-2]**[^59-1]
 
 <sup>1</sup>
 
-Les fournisseurs de prestations qui ne respectent pas les exigences relatives au caractère économique et à la garantie de la qualité des prestations qui sont prévues dans la loi (art. 56, 58*a* et 58*h*) ou dans une convention font l’objet de sanctions. Celles-ci comprennent, en plus des sanctions prévues par les conventions de qualité:[^59-3]
+Les fournisseurs de prestations qui ne respectent pas les exigences relatives au caractère économique et à la garantie de la qualité des prestations qui sont prévues dans la loi (art. 56, 58*a* et 58*h*) ou dans une convention ou qui ne respectent pas les dispositions relatives à la facturation (art. 42) font l’objet de sanctions. Celles-ci comprennent, en plus des sanctions prévues par les conventions de qualité:[^59-3]
 
 - a. l’avertissement;
 - b. la restitution de tout ou partie des honoraires touchés pour des prestations fournies de manière inappropriée;
-- c. l’amende;
+- c.[^59-4] une amende de 20 000 francs au plus;
 - d. en cas de récidive, l’exclusion temporaire ou définitive de toute activité à la charge de l’assurance obligatoire des soins.
 
 <sup>2</sup> Le Tribunal arbitral au sens de l’art. 89 prononce la sanction appropriée sur proposition d’un assureur ou d’une fédération d’assureurs.
 
 <sup>3</sup>
 
-Constituent notamment des manquements aux exigences légales ou conventionnelles visées à l’al. 1:[^59-4]
+Constituent notamment des manquements aux exigences légales ou conventionnelles visées à l’al. 1:[^59-5]
 
 - a. le non-respect du caractère économique des prestations au sens de l’art. 56, al. 1;
 - b. l’inexécution ou la mauvaise exécution du devoir d’information au sens de l’art. 57, al. 6;
-- c.[^59-5] le non-respect des mesures prévues aux art. 58*a* et 58*h*;
+- c.[^59-6] le non-respect des mesures prévues aux art. 58*a* et 58*h*;
 - d. le non-respect de la protection tarifaire visée à l’art. 44;
 - e. la non-répercussion d’avantages au sens de l’art. 56, al. 3;
-- f. la manipulation frauduleuse de décomptes ou la production d’attestations contraires à la vérité.
+- f. la manipulation frauduleuse de décomptes ou la production d’attestations contraires à la vérité;
+- g.[^59-7] l’absence de transmission d’une copie de la facture à l’assuré dans le système du tiers payant comme le prévoit l’art. 42;
+- h.[^59-8] le fait d’établir de façon répétée des factures incomplètes ou incorrectes.
 
-<sup>4</sup> Les ressources financières provenant des amendes et des sanctions sont utilisées par le Conseil fédéral pour financer des mesures destinées à garantir la qualité au sens de la présente loi.[^59-6]
+<sup>4</sup> Les ressources financières provenant des amendes et des sanctions prononcées par un tribunal arbitral cantonal en cas de non-respect des mesures relatives à la qualité prévues aux art. 58*a* et 58*h* sont utilisées par le Conseil fédéral pour financer des mesures destinées à garantir la qualité au sens de la présente loi.[^59-9]
 
 [^59-1]: Nouvelle teneur selon le ch. I de la LF du 8 oct. 2004 (Stratégie globale, compensation des risques), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2005 1071](https://fedlex.data.admin.ch/eli/oc/2005/139); [FF 2004 4019](https://fedlex.data.admin.ch/eli/fga/2004/706)).
-[^59-2]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
-[^59-3]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
-[^59-4]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+[^59-2]: Nouvelle teneur selon le ch. I de la LF du 18 juin 2021 (Mesures visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^59-3]: Nouvelle teneur selon le ch. I de la LF du 18 juin 2021 (Mesures visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^59-4]: Nouvelle teneur selon le ch. I de la LF du 18 juin 2021 (Mesures visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^59-5]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
-[^59-6]: Introduit par le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+[^59-6]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+[^59-7]: Introduite par le ch. I de la LF du 18 juin 2021 (Mesures visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^59-8]: Introduite par le ch. I de la LF du 18 juin 2021 (Mesures visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^59-9]: Introduit par le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité) ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)). Nouvelle teneur selon le ch. I de la LF du 18 juin 2021 (Mesures visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 
 #### Art. 59a
 
@@ -1379,7 +1438,7 @@ Les fournisseurs de prestations doivent communiquer aux autorités fédérales c
 
 <sup>2</sup> Les personnes physiques et morales interrogées sont soumises à l’obligation de renseigner. Les données doivent être fournies gratuitement.
 
-<sup>3</sup> Les données sont collectées par l’Office fédéral de la statistique. Celui-ci met à la disposition de l’Office fédéral de la santé publique, du Surveillant des prix, de l’Office fédéral de la justice, des cantons, des assureurs et des organes figurant à l’art. 84*a* les données par fournisseur de prestations énumérées à l’al. 1 aux fins de l’application de la présente loi. Ces données sont publiées.
+<sup>3</sup> Les données sont collectées par l’Office fédéral de la statistique. Celui-ci met à la disposition de l’OFSP, du Surveillant des prix, de l’Office fédéral de la justice, des cantons, des assureurs et des organes figurant à l’art. 84*a* les données par fournisseur de prestations énumérées à l’al. 1 aux fins de l’application de la présente loi. Ces données sont publiées.
 
 <sup>4</sup> Le Conseil fédéral édicte des dispositions détaillées sur la collecte, le traitement, la transmission et la publication des données, dans le respect du principe de la proportionnalité.
 
@@ -1405,7 +1464,7 @@ Les fournisseurs de prestations doivent communiquer aux autorités fédérales c
 
 <sup>2</sup> L’assureur échelonne les montants des primes selon les différences des coûts cantonaux. Des exceptions sont possibles pour les effectifs très peu importants. Le lieu de résidence de l’assuré est déterminant.[^61-1]
 
-<sup>2bis</sup> L’assureur peut échelonner les primes selon les régions. Le département délimite uniformément les régions ainsi que les différences maximales admissibles de primes fondées sur les différences de coûts entre les régions.[^61-2]
+<sup>2bis</sup> L’assureur peut échelonner les primes selon les régions. Le DFI délimite uniformément les régions ainsi que les différences maximales admissibles de primes fondées sur les différences de coûts entre les régions.[^61-2]
 
 <sup>3</sup> Pour les enfants et les jeunes adultes, l’assureur fixe une prime plus basse que celle des autres assurés; la prime des enfants doit être inférieure à celle des jeunes adultes.[^61-3]
 
@@ -1568,7 +1627,7 @@ L’assureur ne peut prélever aucune participation aux coûts des prestations s
 
 **Réduction des primes par les cantons en faveur des assurés qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège**[^65a-1]
 
-Les cantons accordent une réduction des primes aux assurés de condition économique modeste désignées ci-après qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège, soit:
+Les cantons accordent une réduction des primes aux assurés de condition économique modeste désignés ci-après qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège, soit:
 
 - a. aux frontaliers ainsi qu’aux membres de leur famille;
 - b. aux membres de la famille des personnes titulaires d’une autorisation d’établissement, d’une autorisation de séjour ou d’une autorisation de séjour de courte durée en Suisse;
@@ -1827,15 +1886,15 @@ En dérogation à l’art. 33 LPGA[^82-2], les assureurs fournissent gratuitemen
 
 **Vérification de la répercussion des avantages**[^82a-1]
 
-L’office vérifie si les fournisseurs de prestations répercutent les avantages sur le débiteur de la rémunération et sur les assureurs, conformément à l’art. 56, al. 3, let. b, ou s’ils les utilisent pour améliorer la qualité du traitement, compte tenu de l’art. 56, al. 3bis. Il est autorisé à collecter toutes les données nécessaires à cette vérification auprès des assureurs et des prestataires ainsi que de leurs fournis-seurs et à décider la répercussion des avantages.
+L’OFSP vérifie si les fournisseurs de prestations répercutent les avantages sur le débiteur de la rémunération et sur les assureurs, conformément à l’art. 56, al. 3, let. b, ou s’ils les utilisent pour améliorer la qualité du traitement, compte tenu de l’art. 56, al. 3bis. Il est autorisé à collecter toutes les données nécessaires à cette vérification auprès des assureurs et des prestataires ainsi que de leurs fournis-seurs et à décider la répercussion des avantages.
 
 [^82a-1]: Introduit par l’annexe ch. 4 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 83
 
-**Numéro d’assuré AVS**[^83-1]
+**Numéro AVS**[^83-1]
 
-Les organes chargés d’appliquer la présente loi, d’en contrôler ou surveiller l’exécution sont habilités à utiliser systématiquement le numéro d’assuré AVS pour l’accomplissement de leurs tâches légales, conformément à la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^83-2].
+Les organes chargés d’appliquer la présente loi, d’en contrôler ou surveiller l’exécution sont habilités à utiliser systématiquement le numéro AVS pour l’accomplissement de leurs tâches légales, conformément à la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^83-2].
 
 [^83-1]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^83-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
@@ -1853,7 +1912,7 @@ Les organes chargés d’appliquer la présente loi ou la LSAMal[^84-2], d’en 
 - e. faire valoir une prétention récursoire contre le tiers responsable;
 - f. surveiller l’exécution de la présente loi;
 - g. établir des statistiques;
-- [tab] h.[^84-5] attribuer ou vérifier le numéro d’assuré AVS;
+- [tab] h.[^84-5] attribuer ou vérifier le numéro AVS;
 - i.[^84-6] calculer la compensation des risques.
 
 [^84-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2755](https://fedlex.data.admin.ch/eli/oc/2000/463); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
@@ -1873,7 +1932,7 @@ Dans la mesure où aucun intérêt privé prépondérant ne s’y oppose, les or
 
 - a.[^84a-5] à d’autres organes chargés d’appliquer la présente loi ou la LSAMal ou d’en contrôler ou surveiller l’exécution, lorsque ces données sont nécessaires à l’accomplissement des tâches que la présente loi ou la LSAMal leur assignent;
 - b. aux organes d’une autre assurance sociale, lorsque, en dérogation à l’art. 32, al. 2, LPGA, l’obligation de les communiquer résulte d’une loi fédérale;
-- [tab] b<sup>bis</sup>.[^84a-6] aux organes d’une autre assurance sociale, en vue d’attribuer ou de vérifier le numéro d’assuré AVS;
+- [tab] b<sup>bis</sup>.[^84a-6] aux organes d’une autre assurance sociale, en vue d’attribuer ou de vérifier le numéro AVS;
 - c. aux autorités compétentes en matière d’impôt à la source, conformément aux art. 88 et 100 de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^84a-7] et aux dispositions cantonales correspondantes;
 - d. aux organes de la statistique fédérale, conformément à la loi du 9 octobre 1992 sur la statistique fédérale[^84a-8];
 - e. aux organismes chargés d’établir des statistiques servant à l’exécution de la présente loi, lorsque les données sont nécessaires à l’accomplissement de cette tâche et que l’anonymat des assurés est garanti;
@@ -2028,7 +2087,7 @@ Est puni d’une peine pécuniaire de 180 jours-amende au plus, à moins qu’il
 - c.[^92-3] ...
 - d.[^92-4] ne répercute pas les avantages au sens de l’art. 56, al. 3.
 
-<sup>2</sup> En dérogation à l’art. 79, al. 2, LPGA[^92-5], l’office poursuit et juge les infractions à l’art. 56, al. 3, let. b en relation avec l’art. 92, al. 1, let. d.[^92-6]
+<sup>2</sup> En dérogation à l’art. 79, al. 2, LPGA[^92-5], l’OFSP poursuit et juge les infractions à l’art. 56, al. 3, let. b en relation avec l’art. 92, al. 1, let. d.[^92-6]
 
 [^92-1]: Nouvelle teneur selon l’art. 333 du code pénal, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
 [^92-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
@@ -2127,7 +2186,7 @@ Le Conseil fédéral est chargé de l’exécution de la présente loi. Il édic
 
 **Poursuite de la pratique de l’assurance par les caisses-maladie reconnues**
 
-<sup>1</sup> Les caisses-maladie reconnues selon la loi fédérale du 13 juin 1911[^98-1] et qui veulent continuer de pratiquer l’assurance-maladie conformément à la présente loi doivent le communiquer à l’office au plus tard six mois avant l’entrée en vigueur de la loi. Elles doivent simultanément lui soumettre les tarifs des primes de l’assurance obligatoire des soins et de l’assurance facultative d’indemnités journalières pour approbation, conformément aux art. 61, al. 4, et 76, al. 4,[^98-2] de la loi.
+<sup>1</sup> Les caisses-maladie reconnues selon la loi fédérale du 13 juin 1911[^98-1] et qui veulent continuer de pratiquer l’assurance-maladie conformément à la présente loi doivent le communiquer à l’OFSP au plus tard six mois avant l’entrée en vigueur de la loi. Elles doivent simultanément lui soumettre les tarifs des primes de l’assurance obligatoire des soins et de l’assurance facultative d’indemnités journalières pour approbation, conformément aux art. 61, al. 4, et 76, al. 4,[^98-2] de la loi.
 
 <sup>2</sup> Les caisses dont le domaine d’activité se limitait d’après l’ancien droit à une entreprise ou à une association professionnelle peuvent continuer de pratiquer l’assurance d’indemnités journalières dans le cadre restreint précité. Elles doivent l’indiquer dans leur communication au sens de l’al. 1.
 
@@ -2140,9 +2199,9 @@ Le Conseil fédéral est chargé de l’exécution de la présente loi. Il édic
 
 **Renonciation à la pratique de l’assurance-maladie sociale**
 
-<sup>1</sup> Les caisses-maladie qui renoncent à pratiquer l’assurance-maladie conformément à la présente loi cessent d’être reconnues dès son entrée en vigueur. Elles doivent en informer par écrit leurs membres et l’office au plus tard six mois avant l’entrée en vigueur de la présente loi.
+<sup>1</sup> Les caisses-maladie qui renoncent à pratiquer l’assurance-maladie conformément à la présente loi cessent d’être reconnues dès son entrée en vigueur. Elles doivent en informer par écrit leurs membres et l’OFSP au plus tard six mois avant l’entrée en vigueur de la présente loi.
 
-<sup>2</sup> Lesdites caisses doivent se dissoudre si elles n’ont pas obtenu, lors de l’entrée en vigueur de la présente loi, l’agrément de pratiquer des assurances au sens de la LSA[^99-1]. La pratique de l’assurance d’indemnités journalières limitée à une entreprise ou à une association professionnelle est réservée. Après avoir consulté la FINMA, l’office décide de la part de la fortune de ces caisses à utiliser conformément à l’al. 3.[^99-2]
+<sup>2</sup> Lesdites caisses doivent se dissoudre si elles n’ont pas obtenu, lors de l’entrée en vigueur de la présente loi, l’agrément de pratiquer des assurances au sens de la LSA[^99-1]. La pratique de l’assurance d’indemnités journalières limitée à une entreprise ou à une association professionnelle est réservée. Après avoir consulté la FINMA, l’OFSP décide de la part de la fortune de ces caisses à utiliser conformément à l’al. 3.[^99-2]
 
 <sup>3</sup> Si la fortune d’une caisse dissoute n’est pas transférée, lors d’une fusion, à un autre assureur au sens de l’art. 11, un excédent de fortune éventuel constaté dans les caisses organisées selon le droit privé revient au fonds couvrant les cas d’insolvabilité de l’institution commune (art. 18).
 
@@ -2219,7 +2278,7 @@ Le Conseil fédéral est chargé de l’exécution de la présente loi. Il édic
 
 <sup>2</sup> Les autorités administratives des cantons, des communes et, à titre exceptionnel, de la Confédération fournissent gratuitement, sur demande écrite, aux organes compétents de l’assurance-maladie sociale les données dont ils ont besoin pour déterminer la catégorie à laquelle appartiennent les assurés énumérés à l’al. 1.
 
-<sup>3</sup> Pour accomplir les tâches qui lui incombent en vertu de la présente loi, l’office peut requérir des assureurs des données relatives au cercle des assurés énumérés à l’al. 1.
+<sup>3</sup> Pour accomplir les tâches qui lui incombent en vertu de la présente loi, l’OFSP peut requérir des assureurs des données relatives au cercle des assurés énumérés à l’al. 1.
 
 [^105a-1]: Introduit par le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4823](https://fedlex.data.admin.ch/eli/oc/2006/743); [FF 2002 6359](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
@@ -2388,19 +2447,31 @@ Les cantons mettent en œuvre le système de réduction des primes pour les enfa
 
 Les fédérations des fournisseurs de prestations et des assureurs soumettent pour approbation au Conseil fédéral les conventions de qualité, pour la première fois, un an après l’entrée en vigueur de la modification du 21 juin 2019.
 
-Dispositions transitoires relatives à la modification du 19 juin 2020**[^t-1]**
+## Dispositions transitoires relatives à la modification du 19 juin 2020****
+
+[^u17-1]
+
+[^u17-1]: [RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205).
 
 <sup>1</sup> Les réglementations cantonales en matière de limitation des admissions à pratiquer à la charge de l’assurance obligatoire des soins doivent être adaptées dans un délai de deux ans à compter de l’entrée en vigueur de la modification du 19 juin 2020. L’ancien droit régissant la limitation de l’admission à pratiquer à la charge de l’assurance obligatoire des soins reste applicable jusqu’à l’adaptation des réglementations cantonales concernées, mais pendant deux ans au plus.
 
-<sup>2...</sup>[^t-2]
+<sup>2</sup> Les fournisseurs de prestations visés à l’art. 35, al. 2, let. a à g, m et n, qui étaient admis à pratiquer à la charge de l’assurance obligatoire des soins en vertu de l’ancien droit sont réputés admis au sens de l’art. 36 du nouveau droit par le canton sur le territoire duquel ils pratiquaient à l’entrée en vigueur dudit article.
 
-Disposition transitoire de la modification du 18 décembre 2020 (Rémunération du matériel de soins)**[^t-3]**
+## Disposition transitoire de la modification du 18 décembre 2020 (Rémunération du matériel de soins)****
+
+[^u18-1]
+
+[^u18-1]: [RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)
 
 Pendant une année après l’entrée en vigueur de la modification du 18 décembre 2020, la rémunération des moyens et appareils diagnostiques ou thérapeutiques qui sont utilisés conformément à l’art. 25*a*, al. 1 et 2, et pour lesquels le département n’a pas encore édicté, conformément à l’art. 52, al. 1, let. a, ch. 3, des dispositions sur l’obligation de prise en charge et l’étendue de la rémunération reste régie par l’ancien droit.
 
-[^t-1]: [RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205).
-[^t-2]: Entre en vigueur le 1<sup>er</sup> janvier 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
-[^t-3]: [RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)
+## Disposition transitoire relative à la modification du 18 juin 2021****
+
+[^u19-1]
+
+[^u19-1]: [RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)
+
+L’organisation visée à l’art. 47*a* doit être instituée dans les deux ans qui suivent l’entrée en vigueur de la modification du 18 juin 2021.
 
 Annexe
 
