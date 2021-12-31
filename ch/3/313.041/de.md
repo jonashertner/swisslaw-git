@@ -4,20 +4,22 @@ title: Verordnung vom 20. September 2013 über das Informationssystem für Straf
 short: IStrV-BAZG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/639"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2013-09-20
 in_force: 2013-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/639/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2013-639-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/639/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/639/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2013-639-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/639/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über das Informationssystem für Strafsachen der Eidgenössischen Zollverwaltung
+# Verordnung über das Informationssystem für Strafsachen des Bundesamts für Zoll und Grenzsicherheit
 
-(IStrV-EZV)
+(IStrV-BAZG)**[^t-1]**
 
-vom 20. September 2013 (Stand am 1. Januar 2021)
+vom 20. September 2013 (Stand am 1. Januar 2022)
+
+[^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 Der Schweizerische Bundesrat,
 
@@ -35,7 +37,7 @@ verordnet:
 
 **Gegenstand**
 
-Diese Verordnung regelt für das Informationssystem für Strafsachen der Eidgenössischen Zollverwaltung (Informationssystem):
+Diese Verordnung regelt das Informationssystem für Strafsachen des Bundesamts für Zoll und Grenzsicherheit (Informationssystem):
 
 - a. die verantwortliche Behörde und die Organisation;
 - b. den Zweck und den Inhalt;
@@ -47,15 +49,15 @@ Diese Verordnung regelt für das Informationssystem für Strafsachen der Eidgen�
 
 **Verantwortliche Behörde**
 
-<sup>1</sup> Die Eidgenössische Zollverwaltung (EZV) trägt die Verantwortung für das Informationssystem.
+<sup>1</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG) trägt die Verantwortung für das Informationssystem.
 
-<sup>2</sup> Für die technische Umsetzung und den Betrieb ist im Auftrag der EZV das Bundesamt für Informatik und Telekommunikation (BIT) verantwortlich.
+<sup>2</sup> Für die technische Umsetzung und den Betrieb ist im Auftrag des BAZG das Bundesamt für Informatik und Telekommunikation (BIT) verantwortlich.
 
 #### Art. 3
 
 **Bearbeitungsreglement**
 
-Die EZV erstellt ein Bearbeitungsreglement nach Artikel 21 der Verordnung vom 14. Juni 1993[^3-1] zum Bundesgesetz über den Datenschutz (VDSG).
+Das BAZG erstellt ein Bearbeitungsreglement nach Artikel 21 der Verordnung vom 14. Juni 1993[^3-1] zum Bundesgesetz über den Datenschutz (VDSG).
 
 [^3-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
@@ -65,7 +67,7 @@ Die EZV erstellt ein Bearbeitungsreglement nach Artikel 21 der Verordnung vom 14
 
 **Zweck des Informationssystems**
 
-Mit dem Informationssystem sollen die folgenden Aufgaben im Zuständigkeitsbereich der EZV unterstützt werden:
+Mit dem Informationssystem sollen die folgenden Aufgaben im Zuständigkeitsbereich des BAZG unterstützt werden:
 
 - a. die Feststellung und Verfolgung von Straftaten;
 - b. die Gewährung von nationaler und internationaler Rechts- und Amtshilfe;
@@ -101,9 +103,9 @@ Das Informationssystem enthält Angaben über:
 
 <sup>1</sup> Die im Informationssystem gespeicherten Daten dürfen nur im Rahmen des Zwecks (Art. 4) abgefragt und bearbeitet werden.
 
-<sup>2</sup> Das Informationssystem wird ausschliesslich durch die EZV benutzt. Die Polizeiverbindungsleute des Bundesamtes für Polizei (fedpol) haben, wenn sie im Ausland Aufgaben von Verbindungsleuten der EZV wahrnehmen, Zugriff auf das Informationssystem und dürfen die entsprechenden Daten bearbeiten, soweit dies für die Erfüllung der Aufgaben nach Artikel 4 Buchstaben a und b erforderlich ist.[^6-1]
+<sup>2</sup> Das Informationssystem wird ausschliesslich durch das BAZG benutzt. Die Polizeiverbindungsleute des Bundesamtes für Polizei (fedpol) haben, wenn sie im Ausland Aufgaben von Verbindungsleuten des BAZG wahrnehmen, Zugriff auf das Informationssystem und dürfen die entsprechenden Daten bearbeiten, soweit dies für die Erfüllung der Aufgaben nach Artikel 4 Buchstaben a und b erforderlich ist.[^6-1]
 
-<sup>3</sup> Eine Vernetzung mit Informationssystemen ausserhalb der EZV ist nicht zulässig.
+<sup>3</sup> Eine Vernetzung mit Informationssystemen ausserhalb des BAZG ist nicht zulässig.
 
 [^6-1]: Fassung gemäss Ziff. I 1 der V vom 23. Nov. 2016 über die gegenseitige Wahrnehmung von Aufgaben durch Polizeiverbindungsleute und Verbindungsleute der Eidgenössischen Zollverwaltung, in Kraft seit 1. Jan. 2017 ([AS 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
 
@@ -113,11 +115,11 @@ Das Informationssystem enthält Angaben über:
 
 <sup>1</sup> Daten aus dem Informationssystem dürfen in ein externes Analysesystem übergeführt und dort zur Durchführung eines Analyseauftrags bearbeitet werden. Ein solcher Auftrag darf nur von dafür eigens ermächtigten Spezialistinnen und Spezialisten der Hauptabteilung Zollfahndung, des Kommandos Grenzwachtkorps oder der Sektion Risikoanalyse ausgeführt werden.[^7-1]
 
-<sup>2</sup> Für Datenüberführungen, die über den blossen Zweck der Visualisierung hinausgehen, ist die Zustimmung der Datenschutzberaterin oder des Datenschutzberaters der EZV einzuholen.
+<sup>2</sup> Für Datenüberführungen, die über den blossen Zweck der Visualisierung hinausgehen, ist die Zustimmung der Datenschutzberaterin oder des Datenschutzberaters des BAZG einzuholen.
 
 <sup>3</sup> Die in ein externes Analysesystem übergeführten Daten sind nach Massgabe von Artikel 16 und 17 aufzubewahren und zu vernichten.
 
-<sup>4</sup> Die EZV regelt die Einzelheiten im Bearbeitungsreglement.
+<sup>4</sup> Das BAZG regelt die Einzelheiten im Bearbeitungsreglement.
 
 [^7-1]: Fassung gemäss Anhang Ziff. 1 der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4671](https://fedlex.data.admin.ch/eli/oc/2018/735)).
 
@@ -125,9 +127,9 @@ Das Informationssystem enthält Angaben über:
 
 **Datenaustausch mit anderen Informationssystemen**
 
-Der automatisierte Austausch von Daten mit den Informationssystemen Finanzen und Rechnungswesen nach Anhang A 2 der Datenbearbeitungsverordnung für die EZV vom 4. April 2007[^8-1] ist zulässig.
+Der automatisierte Austausch von Daten mit den Informationssystemen Finanzen und Rechnungswesen nach Anhang A 2 der Datenbearbeitungsverordnung für die Eidgenössische Zollverwaltung vom 4. April 2007[^8-1] ist zulässig.
 
-[^8-1]: [[AS 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258), [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)Ziff. III 2, [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)Art. 10 [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)Art. 44 Ziff. 1 [6233](https://fedlex.data.admin.ch/eli/oc/2009/762)Ziff. III, [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)Anhang Ziff. 3, [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)Anhang Ziff. II 2 [3835](https://fedlex.data.admin.ch/eli/oc/2013/703), [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)Anhang Ziff. 1, [2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)Anhang Ziff. 2 [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)Ziff. I 4. [AS 2017 4891](https://fedlex.data.admin.ch/eli/oc/2017/535)Art. 15]. Siehe heute: die V vom 23. Aug. 2017 ([SR 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)).
+[^8-1]: [[AS 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258); [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)Ziff. III 2; [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)Art. 10, [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)Art. 44 Ziff. 1, [6233](https://fedlex.data.admin.ch/eli/oc/2009/762)Ziff. III; [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)Anhang Ziff. 3; [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)Anhang Ziff. II 2, [3835](https://fedlex.data.admin.ch/eli/oc/2013/703); [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)Anhang Ziff. 1; [2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)Anhang Ziff. 2, [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)Ziff. I 4. [AS 2017 4891](https://fedlex.data.admin.ch/eli/oc/2017/535)Art. 15]. Siehe heute: die Datenverarbeitungsverordnung BAZG vom 23. Aug. 2017 ([SR 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)).
 
 #### Art. 9
 
@@ -143,9 +145,9 @@ Aus den Daten des Informationssystems dürfen Statistiken erstellt werden, namen
 
 <sup>1</sup> Die Zollstellen (zivile Zollstellen, Dienststellen des Grenzwachtkorps) dürfen die Daten eines Dossiers, welches sie selber eröffnet haben, bearbeiten, solange sie dafür zuständig sind.
 
-<sup>2</sup> Ist die Zuständigkeit zur Bearbeitung des Dossiers auf eine übergeordnete Stelle übergegangen, dürfen sie zur Feststellung und Verfolgung von Straftaten im Zuständigkeitsbereich der EZV (Art. 4 Bst. a) die Daten nach Artikel 5 Buchstaben a, b, d–f, j und m anhand der Personalien (Name, Name und Vorname, Name und Geburtsdatum, oder Name und Vorname und Geburtsdatum), anhand des Kontrollschilds oder anhand der Dossiernummer abfragen.
+<sup>2</sup> Ist die Zuständigkeit zur Bearbeitung des Dossiers auf eine übergeordnete Stelle übergegangen, dürfen sie zur Feststellung und Verfolgung von Straftaten im Zuständigkeitsbereich des BAZG (Art. 4 Bst. a) die Daten nach Artikel 5 Buchstaben a, b, d–f, j und m anhand der Personalien (Name, Name und Vorname, Name und Geburtsdatum, oder Name und Vorname und Geburtsdatum), anhand des Kontrollschilds oder anhand der Dossiernummer abfragen.
 
-<sup>3</sup> In Dossiers, die sie nicht selber eröffnet haben, dürfen die Zollstellen zur Feststellung und Verfolgung von Straftaten im Zuständigkeitsbereich der EZV (Art. 4 Bst. a) die Daten nach Artikel 5 Buchstaben a, b, d–f und m anhand der Personalien (Name, Name und Vorname, Name und Geburtsdatum, oder Name und Vorname und Geburtsdatum) oder anhand des Kontrollschilds abfragen.
+<sup>3</sup> In Dossiers, die sie nicht selber eröffnet haben, dürfen die Zollstellen zur Feststellung und Verfolgung von Straftaten im Zuständigkeitsbereich des BAZG (Art. 4 Bst. a) die Daten nach Artikel 5 Buchstaben a, b, d–f und m anhand der Personalien (Name, Name und Vorname, Name und Geburtsdatum, oder Name und Vorname und Geburtsdatum) oder anhand des Kontrollschilds abfragen.
 
 <sup>4</sup>
 
@@ -167,7 +169,7 @@ Die Hauptabteilung Zollfahndung darf alle Daten abfragen und bearbeiten.
 
 **Unterstützungs-, Kontroll- und Wartungsdienste**
 
-<sup>1</sup> Die EZV bestimmt einen Unterstützungs- und Kontrolldienst für das Informationssystem.
+<sup>1</sup> Das BAZG bestimmt einen Unterstützungs- und Kontrolldienst für das Informationssystem.
 
 <sup>2</sup> Der Unterstützungs- und Kontrolldienst und die verwaltungsinternen Dienste oder Personen, denen die Überprüfung der Einhaltung der Datenschutzvorschriften obliegt, dürfen alle Daten im Informationssystem bearbeiten, soweit dies zur Erfüllung ihrer Unterstützungs- oder Kontrollaufgaben erforderlich ist.
 
@@ -180,11 +182,11 @@ Die mit Wartungsaufgaben betrauten Personen des BIT dürfen Daten im Information
 
 #### Art. 13
 
-**Übrige Dienste der EZV**
+**Übrige Dienste des BAZG**
 
-<sup>1</sup> Die übrigen Dienste der EZV dürfen die Daten nach Artikel 5 Buchstaben a, b, d–g und m anhand der Personalien (Name, Name und Vorname, Name und Geburtsdatum, oder Name und Vorname und Geburtsdatum) oder anhand des Kontrollschilds abfragen, soweit dies zur Erfüllung ihrer Aufgaben im Rahmen von Artikel 4 Buchstaben a und b erforderlich ist.
+<sup>1</sup> Die übrigen Dienste des BAZG dürfen die Daten nach Artikel 5 Buchstaben a, b, d–g und m anhand der Personalien (Name, Name und Vorname, Name und Geburtsdatum, oder Name und Vorname und Geburtsdatum) oder anhand des Kontrollschilds abfragen, soweit dies zur Erfüllung ihrer Aufgaben im Rahmen von Artikel 4 Buchstaben a und b erforderlich ist.
 
-<sup>2</sup> Absatz 1 gilt auch für die Polizeiverbindungsleute von fedpol, wenn sie im Ausland Aufgaben von Verbindungsleuten der EZV wahrnehmen.[^13-1]
+<sup>2</sup> Absatz 1 gilt auch für die Polizeiverbindungsleute von fedpol, wenn sie im Ausland Aufgaben von Verbindungsleuten des BAZG wahrnehmen.[^13-1]
 
 [^13-1]: Eingefügt durch Ziff. I 1 der V vom 23. Nov. 2016 über die gegenseitige Wahrnehmung von Aufgaben durch Polizeiverbindungsleute und Verbindungsleute der Eidgenössischen Zollverwaltung, in Kraft seit 1. Jan. 2017 ([AS 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
 
@@ -227,7 +229,7 @@ Die Daten werden für die folgenden Dauern aufbewahrt:
 
 <sup>2</sup> Falls beim Abschluss des Strafverfahrens die geschuldeten Abgaben noch nicht vollständig entrichtet sind, beginnen die in Absatz 1 genannten Fristen erst nach Abschluss des Nachforderungsverfahrens.
 
-<sup>3</sup> Aus besonderen Gründen, insbesondere bei Wiederholungsgefahr, kann die Aufbewahrungsfrist durch die Abteilung Strafsachen der EZV um die jeweils gleiche Dauer verlängert werden.
+<sup>3</sup> Aus besonderen Gründen, insbesondere bei Wiederholungsgefahr, kann die Aufbewahrungsfrist durch die Abteilung Strafsachen des BAZG um die jeweils gleiche Dauer verlängert werden.
 
 #### Art. 17
 
@@ -267,13 +269,13 @@ Die Daten werden für die folgenden Dauern aufbewahrt:
 
 Die Verordnung vom 6. März 2000[^19-1] über das Informationssystem der Eidgenössischen Zollverwaltung für Strafsachen wird aufgehoben.
 
-[^19-1]: [[AS 2000 1127](https://fedlex.data.admin.ch/eli/oc/2000/181), [2004 4559](https://fedlex.data.admin.ch/eli/oc/2004/694), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 5]
+[^19-1]: [[AS 2000 1127](https://fedlex.data.admin.ch/eli/oc/2000/181); [2004 4559](https://fedlex.data.admin.ch/eli/oc/2004/694); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 5]
 
 #### Art. 20
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Bereits bestehende Datensammlungen, die der Verfolgung und Beurteilung von Straffällen durch die EZV gedient haben, werden in das neue Informationssystem der EZV übergeführt.
+<sup>1</sup> Bereits bestehende Datensammlungen, die der Verfolgung und Beurteilung von Straffällen durch das BAZG gedient haben, werden in das neue Informationssystem des BAZG übergeführt.
 
 <sup>2</sup> Zum Zweck der Datensicherung dürfen bestehende Datensammlungen fünf Jahre nach der Überführung aufbewahrt werden. Danach sind die Daten zu vernichten.
 

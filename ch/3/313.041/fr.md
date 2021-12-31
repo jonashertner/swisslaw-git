@@ -4,20 +4,22 @@ title: Ordonnance du 20 septembre 2013 relative au système d’information en m
 short: OSIP-OFDF
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/639"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2013-09-20
 in_force: 2013-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/639/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-639-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/639/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/639/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-639-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/639/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance relative au système d’information en matière pénale de l’Administration fédérale des douanes
+# Ordonnance relative au système d’information en matière pénale de l’Office fédéral de la douane et de la sécurité des frontières
 
-(OSIP-AFD)
+(OSIP-OFDF)**[^t-1]**
 
-du 20 septembre 2013 (Etat le 1<sup>er</sup> janvier 2021)
+du 20 septembre 2013 (Etat le 1<sup>er</sup> janvier 2022)
+
+[^t-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 Le Conseil fédéral suisse,
 
@@ -35,7 +37,7 @@ arrête:
 
 **Objet**
 
-La présente ordonnance régit pour le système d’information en matière pénale de l’Administration fédérale des douanes (système d’information):
+La présente ordonnance régit pour le système d’information en matière pénale de l’Office fédéral de la douane et de la sécurité des frontières (système d’information):
 
 - a. l’autorité responsable et l’organisation;
 - b. le but et le contenu;
@@ -47,15 +49,15 @@ La présente ordonnance régit pour le système d’information en matière pén
 
 **Autorité responsable**
 
-<sup>1</sup> L’Administration fédérale des douanes (AFD) est responsable du système d’information.
+<sup>1</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF) est responsable du système d’information.
 
-<sup>2</sup> Sur mandat de l’AFD, l’Office fédéral de l’informatique et des télécommunications (OFIT) est responsable de la mise en œuvre technique et de l’exploitation.
+<sup>2</sup> Sur mandat de l’OFDF, l’Office fédéral de l’informatique et des télécommunications (OFIT) est responsable de la mise en œuvre technique et de l’exploitation.
 
 #### Art. 3
 
 **Règlement de traitement**
 
-L’AFD établit un règlement de traitement au sens de l’art. 21 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^3-1].
+L’OFDF établit un règlement de traitement au sens de l’art. 21 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^3-1].
 
 [^3-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
@@ -65,7 +67,7 @@ L’AFD établit un règlement de traitement au sens de l’art. 21 de l’ordon
 
 **But du système d’information**
 
-Le système d’information doit faciliter l’exécution des tâches suivantes relevant de la compétence de l’AFD:
+Le système d’information doit faciliter l’exécution des tâches suivantes relevant de la compétence de l’OFDF:
 
 - a. la constatation et la poursuite d’infractions;
 - b. l’octroi de l’entraide judiciaire et de l’assistance administrative nationales et internationales;
@@ -101,9 +103,9 @@ Le système d’information contient des données concernant:
 
 <sup>1</sup> Les données enregistrées dans le système d’information ne peuvent être consultées et traitées que dans le cadre défini (art. 4).
 
-<sup>2</sup> Le système d’information est utilisé exclusivement par l’AFD. Les agents de liaison de l’Office fédéral de la police (fedpol) ont accès au système d’information lorsqu’ils accomplissent à l’étranger des tâches relevant de la compétence des agents de liaison de l’AFD et peuvent traiter les données s’y trouvant, pour autant que cela soit nécessaire à l’exécution des tâches visées à l’art. 4, let. a et b.[^6-1]
+<sup>2</sup> Le système d’information est utilisé exclusivement par l’OFDF. Les agents de liaison de l’Office fédéral de la police (fedpol) ont accès au système d’information lorsqu’ils accomplissent à l’étranger des tâches relevant de la compétence des agents de liaison de l’OFDF et peuvent traiter les données s’y trouvant, pour autant que cela soit nécessaire à l’exécution des tâches visées à l’art. 4, let. a et b.[^6-1]
 
-<sup>3</sup> Aucune mise en réseau avec des systèmes d’information en dehors de l’AFD n’est admise.
+<sup>3</sup> Aucune mise en réseau avec des systèmes d’information en dehors de l’OFDF n’est admise.
 
 [^6-1]: Nouvelle teneur selon le ch. I 1 de l’O du 23 nov. 2016 concernant l’exécution mutuelle de tâches par des agents de liaison de fedpol d’une part, par des agents de liaison de l’AFD d’autre part, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
 
@@ -113,11 +115,11 @@ Le système d’information contient des données concernant:
 
 <sup>1</sup> Les données du système d’information peuvent, à des fins d’analyse, être transférées et traitées dans un système externe. Un tel mandat ne peut être exécuté que par des spécialistes dûment autorisés de la division principale Antifraude douanière, du commandement du Corps des gardes-frontière ou de la section Analyse des risques.[^7-1]
 
-<sup>2</sup> Les transferts de données qui dépassent la simple visualisation nécessitent l’accord du conseiller à la protection des données de l’AFD.
+<sup>2</sup> Les transferts de données qui dépassent la simple visualisation nécessitent l’accord du conseiller à la protection des données de l’OFDF.
 
 <sup>3</sup> Les données transférées dans un système externe doivent être conservées et supprimées conformément aux art. 16 et 17.
 
-<sup>4</sup> L’AFD règle les détails dans le règlement de traitement.
+<sup>4</sup> L’OFDF règle les détails dans le règlement de traitement.
 
 [^7-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4671](https://fedlex.data.admin.ch/eli/oc/2018/735)).
 
@@ -127,7 +129,7 @@ Le système d’information contient des données concernant:
 
 L’échange automatisé de données avec les systèmes d’information Finances et comptabilité visés à l’annexe A 2 de l’ordonnance du 4 avril 2007 sur le traitement des données personnelles dans l’Administration fédérale des douanes[^8-1] est admis.
 
-[^8-1]: [[RO 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258), [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)ch. III 2, [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)art. 10 [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 44 ch. 1 [6233](https://fedlex.data.admin.ch/eli/oc/2009/762)ch. III, [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)annexe ch. 3, [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)annexe ch. II 2 [3835](https://fedlex.data.admin.ch/eli/oc/2013/703), [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)annexe ch. 1, [2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)annexe ch. 2 [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)ch. I 4. [RO 2017 4891](https://fedlex.data.admin.ch/eli/oc/2017/535)art. 15]. Voir actuellement l’O du 23 août 2017 ([RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)).
+[^8-1]: [[RO 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258), [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)ch. III 2, [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)art. 10 [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 44 ch. 1 [6233](https://fedlex.data.admin.ch/eli/oc/2009/762)ch. III, [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)annexe ch. 3, [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)annexe ch. II 2 [3835](https://fedlex.data.admin.ch/eli/oc/2013/703), [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)annexe ch. 1, [2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)annexe ch. 2 [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)ch. I 4. [RO 2017 4891](https://fedlex.data.admin.ch/eli/oc/2017/535)art. 15]. Voir actuellement l’O du 23 août 2017 sur le traitement des données dans l’OFDF ([RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)).
 
 #### Art. 9
 
@@ -143,9 +145,9 @@ Les données du système d’information peuvent être utilisées pour établir 
 
 <sup>1</sup> Les bureaux de douane (bureaux de douane civils, offices de service du Corps des gardes-frontière) peuvent traiter les données d’un dossier qu’ils ont ouvert eux-mêmes aussi longtemps qu’ils sont compétents pour ce faire.
 
-<sup>2</sup> Si la compétence de traiter le dossier est transmise à un office supérieur, les bureaux de douane peuvent, pour constater et poursuivre des infractions relevant de la compétence de l’AFD (art. 4, let. a), consulter les données visées à l’art. 5, let. a, b, d à f, j et m, sur la base de l’identité (nom, assorti ou non du prénom ou de la date de naissance), de la plaque de contrôle ou du numéro de dossier.
+<sup>2</sup> Si la compétence de traiter le dossier est transmise à un office supérieur, les bureaux de douane peuvent, pour constater et poursuivre des infractions relevant de la compétence de l’OFDF (art. 4, let. a), consulter les données visées à l’art. 5, let. a, b, d à f, j et m, sur la base de l’identité (nom, assorti ou non du prénom ou de la date de naissance), de la plaque de contrôle ou du numéro de dossier.
 
-<sup>3</sup> Dans les dossiers qu’ils n’ont pas ouverts eux-mêmes, les bureaux de douane peuvent, pour constater et poursuivre des infractions relevant de la compétence de l’AFD (art. 4, let. a), consulter les données visées à l’art. 5, let. a, b, d à f et m, sur la base de l’identité (nom, assorti ou non du prénom ou de la date de naissance) ou de la plaque de contrôle.
+<sup>3</sup> Dans les dossiers qu’ils n’ont pas ouverts eux-mêmes, les bureaux de douane peuvent, pour constater et poursuivre des infractions relevant de la compétence de l’OFDF (art. 4, let. a), consulter les données visées à l’art. 5, let. a, b, d à f et m, sur la base de l’identité (nom, assorti ou non du prénom ou de la date de naissance) ou de la plaque de contrôle.
 
 <sup>4</sup>
 
@@ -157,7 +159,7 @@ Les bureaux de douane peuvent au plus consulter les données:
 
 #### Art. 11
 
-**Sections antifraude douanière et division Affaires pénales de la DGD**[^11-1]
+**Sections antifraude douanière et division Affaires pénales de l’OFDF**[^11-1]
 
 La division principale Antifraude douanière peut consulter et traiter toutes les données.
 
@@ -167,7 +169,7 @@ La division principale Antifraude douanière peut consulter et traiter toutes le
 
 **Service d’assistance, de contrôle et de maintenance**
 
-<sup>1</sup> L’AFD met en place un service d’assistance et de contrôle pour le système d’information.
+<sup>1</sup> L’OFDF met en place un service d’assistance et de contrôle pour le système d’information.
 
 <sup>2</sup> Le service d’assistance et de contrôle ainsi que les services administratifs ou les personnes auxquels incombe la vérification du respect des prescriptions en matière de protection des données peuvent traiter toutes les données dans le système d’information, pour autant que cela soit nécessaire à leurs tâches d’assistance et de contrôle.
 
@@ -180,11 +182,11 @@ Les collaborateurs de l’OFIT chargés des travaux de maintenance peuvent trait
 
 #### Art. 13
 
-**Autres services de l’AFD**
+**Autres services de l’OFDF**
 
-<sup>1</sup> Les autres services de l’AFD peuvent, sur la base de l’identité (nom, assorti ou non du prénom ou de la date de naissance) ou de la plaque de contrôle, consulter les données visées à l’art. 5, let. a, b, d à g et m, pour autant que cela soit nécessaire à l’exécution de leurs tâches dans le cadre défini à l’art. 4, let. a et b.
+<sup>1</sup> Les autres services de l’OFDF peuvent, sur la base de l’identité (nom, assorti ou non du prénom ou de la date de naissance) ou de la plaque de contrôle, consulter les données visées à l’art. 5, let. a, b, d à g et m, pour autant que cela soit nécessaire à l’exécution de leurs tâches dans le cadre défini à l’art. 4, let. a et b.
 
-<sup>2</sup> L’al. 1 s’applique également aux agents de liaison de fedpol lorsqu’ils accomplissent à l’étranger des tâches relevant de la compétence des agents de liaison de l’AFD.[^13-1]
+<sup>2</sup> L’al. 1 s’applique également aux agents de liaison de fedpol lorsqu’ils accomplissent à l’étranger des tâches relevant de la compétence des agents de liaison de l’OFDF.[^13-1]
 
 [^13-1]: Introduit par le ch. I 1 de l’O du 23 nov. 2016 concernant l’exécution mutuelle de tâches par des agents de liaison de fedpol d’une part, par des agents de liaison de l’AFD d’autre part, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
 
@@ -227,7 +229,7 @@ Les données peuvent être conservées:
 
 <sup>2</sup> Lorsque les redevances dues n’ont pas encore été intégralement acquittées au moment de la clôture de la procédure pénale, les délais prévus à l’al. 1 ne commencent à courir qu’après la clôture de la procédure de perception subséquente.
 
-<sup>3</sup> Lorsque des raisons particulières le commandent, notamment en cas de risque de récidive, le délai de conservation peut être doublé par la division Affaires pénales de la DGD.
+<sup>3</sup> Lorsque des raisons particulières le commandent, notamment en cas de risque de récidive, le délai de conservation peut être doublé par la division Affaires pénales de l’OFDF.
 
 #### Art. 17
 
@@ -273,7 +275,7 @@ L’ordonnance du 6 mars 2000 relative au système d’information de l’Admini
 
 **Dispositions transitoires**
 
-<sup>1</sup> Les collections de données existantes ayant servi à la poursuite et au jugement d’infractions par l’AFD sont transférées dans le nouveau système d’information de l’AFD.
+<sup>1</sup> Les collections de données existantes ayant servi à la poursuite et au jugement d’infractions par l’OFDF sont transférées dans le nouveau système d’information de l’OFDF.
 
 <sup>2</sup> Pour assurer la sécurité des données, les collections de données existantes peuvent être conservées durant cinq ans à compter du transfert. Les données doivent ensuite être détruites.
 

@@ -4,20 +4,22 @@ title: Ordinanza del 20 settembre 2013 sul sistema d’informazione in materia p
 short: OSIP-UDSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/639"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2013-09-20
 in_force: 2013-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/639/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2013-639-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/639/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/639/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2013-639-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/639/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza sul sistema d’informazione in materia penale dell’Amministrazione federale delle dogane
+# Ordinanza sul sistema d’informazione in materia penale dell’Ufficio federale della dogana e della sicurezza dei confini
 
-(OSIP-AFD)
+(OSIP-UDSC)**[^t-1]**
 
-del 20 settembre 2013 (Stato 1° gennaio 2021)
+del 20 settembre 2013 (Stato 1° gennaio 2022)
+
+[^t-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 Il Consiglio federale svizzero,
 
@@ -35,7 +37,7 @@ ordina:
 
 **Oggetto**
 
-La presente ordinanza disciplina per il sistema d’informazione in materia penale dell’Amministrazione federale delle dogane (sistema d’informazione):
+La presente ordinanza disciplina per il sistema d’informazione in materia penale dell’Ufficio federale della dogana e della sicurezza dei confini (sistema d’infor-mazione):
 
 - a. l’autorità responsabile e l’organizzazione;
 - b. lo scopo e il contenuto;
@@ -47,15 +49,15 @@ La presente ordinanza disciplina per il sistema d’informazione in materia pena
 
 **Autorità responsabile**
 
-<sup>1</sup> L’Amministrazione federale delle dogane (AFD) è responsabile del sistema d’informazione.
+<sup>1</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC) è responsabile del sistema d’informazione.
 
-<sup>2</sup> Su mandato dell’AFD, l’Ufficio federale dell’informatica e della telecomunicazione (UFIT) è responsabile dell’attuazione tecnica e dell’esercizio.
+<sup>2</sup> Su mandato dell’UDSC, l’Ufficio federale dell’informatica e della telecomunicazione (UFIT) è responsabile dell’attuazione tecnica e dell’esercizio.
 
 #### Art. 3
 
 **Regolamento per il trattamento**
 
-L’AFD emana un regolamento per il trattamento ai sensi dell’articolo 21 dell’ordinanza del 14 giugno 1993[^3-1] relativa alla legge federale sulla protezione dei dati.
+L’UDSC emana un regolamento per il trattamento ai sensi dell’articolo 21 dell’ordinanza del 14 giugno 1993[^3-1] relativa alla legge federale sulla protezione dei dati.
 
 [^3-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
@@ -65,7 +67,7 @@ L’AFD emana un regolamento per il trattamento ai sensi dell’articolo 21 dell
 
 **Scopo del sistema d’informazione**
 
-Il sistema d’informazione fornisce un sostegno per i seguenti compiti nell’ambito di competenza dell’AFD:
+Il sistema d’informazione fornisce un sostegno per i seguenti compiti nell’ambito di competenza dell’UDSC:
 
 - a. accertamento e perseguimento di reati;
 - b. concessione dell’assistenza giudiziaria e amministrativa nazionale e internazionale;
@@ -101,9 +103,9 @@ Il sistema d’informazione contiene indicazioni su:
 
 <sup>1</sup> I dati memorizzati nel sistema d’informazione possono essere consultati e trattati solo nell’ambito dello scopo (art. 4).
 
-<sup>2</sup> Il sistema d’informazione è utilizzato esclusivamente dall’AFD. Gli agenti di collegamento dell’Ufficio federale di polizia (fedpol) hanno accesso al sistema d’informazione quando adempiono all’estero compiti degli agenti di collegamento dell’AFD e possono trattare i pertinenti dati, se necessario per l’adempimento dei compiti di cui all’articolo 4 lettere a e b.[^6-1]
+<sup>2</sup> Il sistema d’informazione è utilizzato esclusivamente dall’UDSC. Gli agenti di collegamento dell’Ufficio federale di polizia (fedpol) hanno accesso al sistema d’informazione quando adempiono all’estero compiti degli agenti di collegamento dell’UDSC e possono trattare i pertinenti dati, se necessario per l’adempimento dei compiti di cui all’articolo 4 lettere a e b.[^6-1]
 
-<sup>3</sup> Un collegamento con sistemi d’informazione al di fuori dell’AFD non è ammesso.
+<sup>3</sup> Un collegamento con sistemi d’informazione al di fuori dell’UDSC non è ammesso.
 
 [^6-1]: Nuovo testo giusta il n. I 1 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’AFD, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
 
@@ -113,11 +115,11 @@ Il sistema d’informazione contiene indicazioni su:
 
 <sup>1</sup> I dati del sistema d’informazione possono essere trasferiti e trattati in un sistema di analisi esterno per eseguire un mandato di analisi. Un simile mandato può essere svolto soltanto da specialisti appositamente autorizzati della divisione principale Antifrode doganale, del Comando del Corpo delle guardie di confine o della sezione Analisi dei rischi.[^7-1]
 
-<sup>2</sup> I trasferimenti di dati che vanno oltre il semplice obiettivo della visualizzazione richiedono il consenso del consulente per la protezione dei dati dell’AFD.
+<sup>2</sup> I trasferimenti di dati che vanno oltre il semplice obiettivo della visualizzazione richiedono il consenso del consulente per la protezione dei dati dell’UDSC.
 
 <sup>3</sup> I dati trasferiti in un sistema di analisi esterno devono essere conservati e distrutti conformemente agli articoli 16 e 17.
 
-<sup>4</sup> L’AFD disciplina i dettagli nel regolamento sul trattamento dei dati.
+<sup>4</sup> L’UDSC disciplina i dettagli nel regolamento sul trattamento dei dati.
 
 [^7-1]: Nuovo testo giusta l’all. n. 1 dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4671](https://fedlex.data.admin.ch/eli/oc/2018/735)).
 
@@ -127,7 +129,7 @@ Il sistema d’informazione contiene indicazioni su:
 
 Lo scambio automatico di dati con i sistemi d’informazione Finanze e contabilità di cui all’allegato A 2 dell’ordinanza del 4 aprile 2007[^8-1] sul trattamento dei dati nell’AFD è ammesso.
 
-[^8-1]: [[RU 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258), [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)n. III 2, [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)art. 10 [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 44 n. 1 [6233](https://fedlex.data.admin.ch/eli/oc/2009/762)III, [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)all. n. 3, [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)all. n. II 2 [3835](https://fedlex.data.admin.ch/eli/oc/2013/703), [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)all. n. 1,[2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)all. n. 2 [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)n. I 4. [2017 4891](https://fedlex.data.admin.ch/eli/oc/2017/535)art. 15]. Vedi ora l’O del 23 ago. 2017 ([RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)).
+[^8-1]: [[RU 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258), [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)n. III 2, [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)art. 10 [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 44 n. 1 [6233](https://fedlex.data.admin.ch/eli/oc/2009/762)III, [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)all. n. 3, [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)all. n. II 2 [3835](https://fedlex.data.admin.ch/eli/oc/2013/703), [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)all. n. 1,[2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)all. n. 2 [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)n. I 4. [2017 4891](https://fedlex.data.admin.ch/eli/oc/2017/535)art. 15]. Vedi ora l’O del 23 ago. 2017 sul trattamento dei dati nell’UDSC ([RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)).
 
 #### Art. 9
 
@@ -143,9 +145,9 @@ Con i dati del sistema d’informazione è possibile allestire una statistica, s
 
 <sup>1</sup> Gli uffici doganali (uffici doganali del servizio civile, uffici di servizio del Corpo delle guardie di confine) possono trattare i dati di un incarto che hanno aperto essi stessi, finché ne sono competenti.
 
-<sup>2</sup> Se la competenza per il trattamento dell’incarto è passata a un’istanza superiore, gli uffici doganali, ai fini dell’accertamento e del perseguimento di reati nell’ambito di competenza dell’AFD (art. 4 lett. a), possono consultare i dati di cui all’articolo 5 lettere a, b, d–f, j e m sulla base dei dati personali (cognome, cognome e nome, cognome e data di nascita o cognome e nome e data di nascita), della targa di controllo o del numero d’incarto.
+<sup>2</sup> Se la competenza per il trattamento dell’incarto è passata a un’istanza superiore, gli uffici doganali, ai fini dell’accertamento e del perseguimento di reati nell’ambito di competenza dell’UDSC (art. 4 lett. a), possono consultare i dati di cui all’articolo 5 lettere a, b, d–f, j e m sulla base dei dati personali (cognome, cognome e nome, cognome e data di nascita o cognome e nome e data di nascita), della targa di controllo o del numero d’incarto.
 
-<sup>3</sup> Negli incarti che non hanno aperto essi stessi, gli uffici doganali, ai fini dell’accertamento e del perseguimento di reati nell’ambito di competenza dell’AFD (art. 4 lett. a), possono consultare i dati di cui all’articolo 5 lettere a, b, d–f e m sulla base dei dati personali (cognome, cognome e nome, cognome e data di nascita o cognome e nome e data di nascita) o della targa di controllo.
+<sup>3</sup> Negli incarti che non hanno aperto essi stessi, gli uffici doganali, ai fini dell’accertamento e del perseguimento di reati nell’ambito di competenza dell’UDSC (art. 4 lett. a), possono consultare i dati di cui all’articolo 5 lettere a, b, d–f e m sulla base dei dati personali (cognome, cognome e nome, cognome e data di nascita o cognome e nome e data di nascita) o della targa di controllo.
 
 <sup>4</sup>
 
@@ -167,7 +169,7 @@ La divisione principale Antifrode doganale può consultare e trattare tutti i da
 
 **Servizi di supporto, controllo e manutenzione**
 
-<sup>1</sup> L’AFD stabilisce un servizio di supporto e controllo per il sistema d’informazione.
+<sup>1</sup> L’UDSC stabilisce un servizio di supporto e controllo per il sistema d’informazione.
 
 <sup>2</sup> Il servizio di supporto e controllo nonché i servizi o le persone interni all’Amministrazione incaricati di verificare l’osservanza delle disposizioni sulla protezione dei dati possono trattare tutti i dati nel sistema d’informazione, se necessario per l’adempimento dei loro compiti di supporto o controllo.
 
@@ -180,11 +182,11 @@ Le persone dell’UFIT incaricate dei lavori di manutenzione possono trattare i 
 
 #### Art. 13
 
-**Altri servizi dell’AFD**
+**Altri servizi dell’UDSC**
 
-<sup>1</sup> Gli altri servizi dell’AFD possono consultare i dati di cui all’articolo 5 lettere a, b, d–g e m sulla base dei dati personali (cognome, cognome e nome, cognome e data di nascita o cognome e nome e data di nascita) o della targa di controllo, se necessario per l’adempimento dei loro compiti nel quadro dell’articolo 4 lettere a e b.
+<sup>1</sup> Gli altri servizi dell’UDSC possono consultare i dati di cui all’articolo 5 lettere a, b, d–g e m sulla base dei dati personali (cognome, cognome e nome, cognome e data di nascita o cognome e nome e data di nascita) o della targa di controllo, se necessario per l’adempimento dei loro compiti nel quadro dell’articolo 4 lettere a e b.
 
-<sup>2</sup> Il capoverso 1 si applica anche agli agenti di collegamento di fedpol quando adempiono all’estero compiti degli agenti di collegamento dell’AFD.[^13-1]
+<sup>2</sup> Il capoverso 1 si applica anche agli agenti di collegamento di fedpol quando adempiono all’estero compiti degli agenti di collegamento dell’UDSC.[^13-1]
 
 [^13-1]: Introdotto dal n. I 1 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’AFD, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
 
@@ -227,7 +229,7 @@ I dati sono conservati:
 
 <sup>2</sup> Se alla conclusione del procedimento penale i tributi dovuti non sono ancora stati versati interamente, i termini di cui al capoverso 1 iniziano a decorrere solo quando la procedura di riscossione posticipata è conclusa.
 
-<sup>3</sup> Per motivi particolari, segnatamente in caso di pericolo di recidiva, la divisione Cause penali della Direzione generale delle dogane può prorogare il termine di conservazione per un periodo analogo.
+<sup>3</sup> Per motivi particolari, segnatamente in caso di pericolo di recidiva, la divisione Cause penali dell’UDSC può prorogare il termine di conservazione per un periodo analogo.
 
 #### Art. 17
 
@@ -273,7 +275,7 @@ L’ordinanza del 6 marzo 2000[^19-1] sul sistema informatico dell’Amministraz
 
 **Disposizioni transitorie**
 
-<sup>1</sup> Le raccolte di dati già esistenti, che sono servite all’AFD per perseguire e giudicare casi penali, vengono trasferite nel nuovo sistema d’informazione dell’AFD.
+<sup>1</sup> Le raccolte di dati già esistenti, che sono servite all’UDSC per perseguire e giudicare casi penali, vengono trasferite nel nuovo sistema d’informazione dell’UDSC.
 
 <sup>2</sup> Ai fini della sicurezza dei dati, le raccolte di dati esistenti possono essere conservate per cinque anni dal trasferimento. In seguito i dati devono essere distrutti.
 
