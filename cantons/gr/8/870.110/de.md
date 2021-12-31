@@ -4,59 +4,62 @@ number: "870.110"
 title: Verordnung zum Einführungsgesetz zum Bundesgesetz über den Strassenverkehr
 short: RVzEGzSVG
 language: de
-version: 2015-01-01
-corrected: 2014-10-26
-version_adopted: 2012-06-26
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-21
 adopted: 2008-12-08
 in_force: 2009-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/870.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1998/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3212/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung zum Einführungsgesetz zum Bundesgesetz über den Strassenverkehr (RVzEGzSVG)
+# Verordnung zum Einführungsgesetz zum Bundesgesetz über den Strassenverkehr
 
-Gestützt auf Artikel 45 Absatz 1 der Kantonsverfassung[^t-1]
+(RVzEGzSVG)
+
+Vom 08.12.2008 (Stand 01.01.2022)
+
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
 von der Regierung erlassen am 8. Dezember 2008
 
-I. Zuständigkeiten
+[^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
 
-[^t-1]: BR 110.100
+## 1. Zuständigkeiten
 
 #### Art. 1
 
 **Regierung**
 
-Die Regierung legt für die Kantonsstrassen die verkehrs- und bautechnisch verantwortbaren Höchstgrenzen hinsichtlich Masse und Gewichte der Motorfahrzeuge fest. Sie bestimmt die Fahrzeugarten, die auf gewissen Strassenstrecken nicht oder nur zeitweise verkehren dürfen.
+<sup>1</sup> Die Regierung legt für die Kantonsstrassen die verkehrs- und bautechnisch verantwortbaren Höchstgrenzen hinsichtlich Masse und Gewichte der Motorfahrzeuge fest. Sie bestimmt die Fahrzeugarten, die auf gewissen Strassenstrecken nicht oder nur zeitweise verkehren dürfen.
+
+<sup>2</sup> Im Zusammenhang mit kantonalen Projekten, die sie selbst genehmigt, insbesondere bei kantonalen Lärmsanierungsprojekten, ordnet sie auf allen Strassen des Kantonsgebiets Geschwindigkeitsbeschränkungen gemäss Artikel 32 Strassenverkehrsgesetz[^1-1] an.
+
+[^1-1]: SR [741.01](https://db.clex.ch/link/Bund/741.01/de)
 
 #### Art. 2
 
 **Departement**
 
-Das Departement für Justiz, Sicherheit und Gesundheit ist zuständige Behörde für die a) Bewilligung von allen motorsportlichen Veranstaltungen und von radsportlichen Veranstaltungen überregionaler Bedeutung im Sinne von Artikel 52 Strassenverkehrsgesetz[^2-1];
+<sup>1</sup> Das Departement für Justiz, Sicherheit und Gesundheit ist zuständige Behörde für die:
 
-- b) Anordnung von sämtlichen Geschwindigkeitsbeschränkungen gemäss Artikel 32 Strassenverkehrsgesetz auf allen Strassen des Kantonsgebietes.
+- a) Bewilligung von allen motorsportlichen Veranstaltungen und von radsportlichen Veranstaltungen überregionaler Bedeutung im Sinne von Artikel 52 Strassenverkehrsgesetz[^2-1].
+- b) …
 
-[^2-1]: SR 741.01 01.01.2015 1
+[^2-1]: SR [741.01](https://db.clex.ch/link/Bund/741.01/de)
 
 #### Art. 3
 
 **Strassenverkehrsamt**
 
-Das Strassenverkehrsamt:
+<sup>1</sup> Das Strassenverkehrsamt:
 
 - a) vollzieht, soweit nicht ausdrücklich anders geregelt, was gemäss Bundesgesetzgebung in die Zuständigkeit des Kantons oder einer Behörde fällt;
-
 - b) sorgt für die Veranlagung und das Inkasso der Verkehrssteuern und der Schwerverkehrsabgabe;
-
 - c) bewilligt Ausnahmefahrzeuge und Ausnahmetransporte sowie Ausnahmefahrten auf Strassenzügen mit signalisierten Gewichtsbeschränkungen;
-
-- d) ...[^3-1]
-
-[^3-1]: Aufgehoben gemäss Anhang Ziffer 11 RVzEGzStPO, KA 2010, S. 4817; am 1. Januar 2011 in Kraft getreten
+- d) …
 
 #### Art. 4
 
@@ -65,25 +68,21 @@ Das Strassenverkehrsamt:
 <sup>1</sup> Die Kantonspolizei ist kantonale Behörde für die:
 
 - a) Regelung des Verkehrs im Sinne von Artikel 6 Absatz 1 EGzSVG[^4-1] sowie Signalisation der Kantonsstrassen im Sinne von Artikel 7 Absatz 3 EGzSVG, soweit nicht eine andere Behörde zuständig ist;
-
 - b) Zustimmung zu weiteren Signalen und Markierungen im Sinne von Artikel 7 Absatz 1 EGzSVG;
-
 - c) Genehmigung von Signalen und Markierungen an kommunalen Strassen im Sinne von Artikel 7 Absatz 2 EGzSVG;
-
-- d) Bewilligung von Werkverkehrsdiensten und privaten Diensten im Sinne von Artikel 9 EGzSVG.
+- d) Bewilligung von Werkverkehrsdiensten und privaten Diensten im Sinne von Artikel 9 EGzSVG;
+- e) Anordnung von sämtlichen Geschwindigkeitsbeschränkungen gemäss Artikel 32 Strassenverkehrsgesetz[^4-2] auf allen Strassen des Kantonsgebiets, welche nicht in die Zuständigkeit der Regierung fallen.
 
 <sup>2</sup> Sie ist im Weiteren zuständig für die:
 
 - a) Bewilligung von radsportlichen Veranstaltungen regionaler Bedeutung;
-
-- b) Aufsicht über die Strassensignalisation im Sinne von Artikel 105 der Signalisationsverordnung[^4-2] sowie der Markierungen;
-
+- b) Aufsicht über die Strassensignalisation im Sinne von Artikel 105 der Signalisationsverordnung[^4-3] sowie der Markierungen;
 - c) Anordnung von besonderen Markierungen mit Vorschriftscharakter, namentlich Sicherheitslinien, Fussgängerstreifen, Parkfelder, Barrieren und Abschrankungen auf allen Inner- und Ausserortsstrecken im Sinne von Artikel 101 Absatz 2 SSV;
-
 - d) Zustimmung zu Lichtsignalanlagen inner- oder ausserorts.
 
-[^4-1]: BR 870.100
-[^4-2]: SR 741.21 2 01.01.2015
+[^4-1]: BR [870.100](https://www.gr-lex.gr.ch/data/870.100/de)
+[^4-2]: SR [741.01](https://db.clex.ch/link/Bund/741.01/de)
+[^4-3]: SR [741.21](https://db.clex.ch/link/Bund/741.21/de)
 
 #### Art. 5
 
@@ -92,11 +91,8 @@ Das Strassenverkehrsamt:
 <sup>1</sup> Die Kantonspolizei erteilt, soweit nicht ausdrücklich anders geregelt, die nach Bundes- und kantonalem Recht vorgesehenen Ausnahmebewilligungen. Sie ist insbesondere zuständig für Ausnahmen:
 
 - a) vom Sonntag- und Nachtfahrverbot;
-
 - b) von der Höchstbreite auf bestimmten Strassenabschnitten und vom Anhängerverbot;
-
 - c) von der Höchstbreite für Gesellschaftswagen im Linienverkehr;
-
 - d) für das Befahren gesperrter Strecken mit gefährlichen Gütern.
 
 #### Art. 6
@@ -107,30 +103,30 @@ Das Strassenverkehrsamt:
 
 <sup>2</sup> Das Strassenverkehrsamt gibt die Arbeitsbücher und die weiteren Formulare ab und stellt der Kantonspolizei die notwendigen Daten zur Verfügung.
 
-[^6-1]: SR 822.221
-[^6-2]: SR 822.222
+[^6-1]: SR [822.221](https://db.clex.ch/link/Bund/822.221/de)
+[^6-2]: SR [822.222](https://db.clex.ch/link/Bund/822.222/de)
 
 #### Art. 7
 
 **4. Beförderung gefährlicher Güter auf der Strasse**
 
-Die Kantonspolizei vollzieht die Verordnung über die Beförderung gefährlicher Güter auf der Strasse (SDR)[^7-1].
+<sup>1</sup> Die Kantonspolizei vollzieht die Verordnung über die Beförderung gefährlicher Güter auf der Strasse (SDR)[^7-1].
 
-[^7-1]: SR 741.621 01.01.2015 3
+[^7-1]: SR [741.621](https://db.clex.ch/link/Bund/741.621/de)
 
 #### Art. 8
 
 **5. Massnahmen**
 
-Die Kantonspolizei und die dazu ermächtigten Polizeiorgane sind zuständig für die sofortige Abnahme der Fahrzeug- und Führerausweise im Sinne der Bundesgesetzgebung.
+<sup>1</sup> Die Kantonspolizei und die dazu ermächtigten Polizeiorgane sind zuständig für die sofortige Abnahme der Fahrzeug- und Führerausweise im Sinne der Bundesgesetzgebung.
 
 #### Art. 9
 
 **Departement für Finanzen und Gemeinden**
 
-Das Departement für Finanzen und Gemeinden schliesst eine Kollektivhaftpflichtversicherung für die mit Tagesausweisen versehenen Fahrzeuge sowie für Fahrräder und Motorfahrräder ab.
+<sup>1</sup> Das Departement für Finanzen und Gemeinden schliesst eine Kollektivhaftpflichtversicherung für die mit Tagesausweisen versehenen Fahrzeuge sowie für Fahrräder und Motorfahrräder ab.
 
-### II. Dienstliche Fahrten
+## 2. Dienstliche Fahrten
 
 #### Art. 10
 
@@ -140,7 +136,7 @@ Das Departement für Finanzen und Gemeinden schliesst eine Kollektivhaftpflichtv
 
 <sup>2</sup> Das Gleiche gilt für Motorfahrzeuge jeglicher Art, welche im Rahmen einer Ereignisbewältigung vom Kanton oder den Gemeinden zur Hilfeleistung eingesetzt werden.
 
-### III. Verkehrssteuern
+## 3. Verkehrssteuern
 
 #### Art. 11
 
@@ -178,13 +174,11 @@ Das Departement für Finanzen und Gemeinden schliesst eine Kollektivhaftpflichtv
 
 **Rückvergütung**
 
-<sup>1</sup>[^14-1]Wird ein Fahrzeug während des Kalenderjahres durch Abgabe der Kontrollschilder oder bei Wechselschildimmatrikulationen durch Annullierung des Fahrzeugausweises ausser Verkehr gesetzt, so werden bereits bezahlte Verkehrssteuern nach Verrechnung mit offenen Positionen und Abzug allfälliger Mandatsspesen erstattet.
+<sup>1</sup> Wird ein Fahrzeug während des Kalenderjahres durch Abgabe der Kontrollschilder oder bei Wechselschildimmatrikulationen durch Annullierung des Fahrzeugausweises ausser Verkehr gesetzt, so werden bereits bezahlte Verkehrssteuern nach Verrechnung mit offenen Positionen und Abzug allfälliger Mandatsspesen erstattet.
 
 <sup>2</sup> Der Rückerstattungsanspruch berechnet sich in sinngemässer Anwendung von Artikel 13 Absatz 3 ab dem der Hinterlegung der Kontrollschilder oder der Annullierung des Fahrzeugausweises folgenden Tag.
 
 <sup>3</sup> Werden die Kontrollschilder durch Postzustellung hinterlegt, ist der Poststempel massgebend. Ist dieser unleserlich, gilt der der Empfangnahme durch das Strassenverkehrsamt vorangehende Tag.
-
-[^14-1]: Fassung gemäss RB vom 9. September 2014; am 1. Januar 2015 in Kraft getreten 4 01.01.2015
 
 #### Art. 15
 
@@ -192,10 +186,8 @@ Das Departement für Finanzen und Gemeinden schliesst eine Kollektivhaftpflichtv
 
 <sup>1</sup> Die Verkehrssteuer wird ermässigt:
 
-- a)[^15-1]um 60 Prozent für leichte Motorfahrzeuge mit einem maximalen CO2-Ausstoss von 120 g/km;
-
-- b)[^15-2]um 80 Prozent für leichte Motorfahrzeuge mit einem maximalen CO2-Ausstoss von 105 g/km;
-
+- a) um 60 Prozent für leichte Motorfahrzeuge mit einem maximalen CO2-Ausstoss von 105 g/km (nach NEFZ[^15-1]) beziehungsweise 125 g/km (nach WLTP[^15-2]);
+- b) um 80 Prozent für leichte Motorfahrzeuge mit einem maximalen CO2-Ausstoss von 90 g/km (nach NEFZ) beziehungsweise 110 g/km (nach WLTP);
 - c) um 80 Prozent für schwere Motorfahrzeuge der jeweils strengsten auf dem Schweizer Markt erhältlichen EURO-Klasse.
 
 <sup>2</sup> Leichte Motorfahrzeuge gemäss Absatz 1 mit Dieselmotoren dürfen überdies einen Feinstaubausstoss von 0.01 g/km nicht überschreiten.
@@ -206,8 +198,8 @@ Das Departement für Finanzen und Gemeinden schliesst eine Kollektivhaftpflichtv
 
 <sup>5</sup> Der Anspruch auf Verkehrssteuerermässigung beginnt und endet sinngemäss nach den Regeln von Artikel 13.
 
-[^15-1]: Fassung gemäss RB vom 9. September 2014; am 1. Januar 2015 in Kraft getreten
-[^15-2]: Fassung gemäss RB vom 9. September 2014; am 1. Januar 2015 in Kraft getreten
+[^15-1]: Neuer Europäischer Fahrzyklus
+[^15-2]: Worldwide harmonized Light vehicles Test Procedure
 
 #### Art. 16
 
@@ -216,22 +208,19 @@ Das Departement für Finanzen und Gemeinden schliesst eine Kollektivhaftpflichtv
 <sup>1</sup> Das Strassenverkehrsamt kann auf Gesuch hin die Verkehrssteuer ermässigen:
 
 - a) um 50 Prozent für private Kranken- und Leichenwagen, die nur zu diesem Zweck verwendet werden können;
-
-- b)[^16-1]um 50 Prozent für Fahrzeuge, die gemäss Fahrzeugausweis im öffentlichen Linienverkehr eingesetzt werden.
+- b) um 50 Prozent für Fahrzeuge, die gemäss Fahrzeugausweis im öffentlichen Linienverkehr eingesetzt werden.
 
 <sup>2</sup> Erlass und Ermässigung gelten ab Gesuchseingang. Bereits bezahlte Verkehrssteuern werden nur für das laufende Jahr und in sinngemässer Anwendung von Artikel 13 Absatz 3 erstattet.
 
-[^16-1]: Fassung gemäss RB vom 9. September 2014; am 1. Oktober 2014 in Kraft getreten 01.01.2015 5
-
-### IV. Kontrollschilder für Motorfahrzeuge und Anhänger
+## 4. Kontrollschilder für Motorfahrzeuge und Anhänger
 
 #### Art. 17
 
 **Kontrollschilderübertragung**
 
-Kontrollschilder sind auf Dritte übertragbar.
+<sup>1</sup> Kontrollschilder sind auf Dritte übertragbar.
 
-### V. Fahrräder und Motorfahrräder
+## 5. Fahrräder und Motorfahrräder
 
 #### Art. 18
 
@@ -243,7 +232,7 @@ Kontrollschilder sind auf Dritte übertragbar.
 
 <sup>3</sup> Die Gemeinden haben über die eingezogenen Gebühren und Prämien jeweils bis 15. November abzurechnen. Sie führen über die abgegebenen Kontrollschilder und Mutationen Verzeichnisse und halten diese dem Strassenverkehrsamt zur Verfügung.
 
-### VI. Verfahrens- und Organisationsbestimmungen
+## 6. Verfahrens- und Organisationsbestimmungen
 
 #### Art. 19
 
@@ -253,18 +242,16 @@ Kontrollschilder sind auf Dritte übertragbar.
 
 <sup>2</sup> Sie melden diese unter Vorbehalt der Sonderbestimmungen in Artikel 19 EGzSVG[^19-1] der Staatsanwaltschaft.
 
-<sup>3</sup>[^19-2]Anzeigen wegen Übertretungen der örtlichen Verkehrsregelung sind der Gemeinde einzureichen, soweit diese gemäss kantonaler Einführungsgesetzgebung zur Schweizerischen Strafprozessordnung[^19-3] für die Verfolgung und Beurteilung zuständig ist.
+<sup>3</sup> Anzeigen wegen Übertretungen der örtlichen Verkehrsregelung sind der Gemeinde einzureichen, soweit diese gemäss kantonaler Einführungsgesetzgebung zur Schweizerischen Strafprozessordnung[^19-2] für die Verfolgung und Beurteilung zuständig ist.
 
-[^19-1]: BR 870.100
-[^19-2]: Fassung gemäss Anhang Ziffer 11 RVzEGzStPO, KA 2010, S. 4817; am 1. Januar 2011 in Kraft getreten
-[^19-3]: BR 350.100
-[^19-4]: Fassung gemäss Anhang Ziffer 11 RVzEGzStPO, KA 2010, S. 4817; am 1. Januar 2011 in Kraft getreten 6 01.01.2015
+[^19-1]: BR [870.100](https://www.gr-lex.gr.ch/data/870.100/de)
+[^19-2]: BR [350.100](https://www.gr-lex.gr.ch/data/350.100/de)
 
 #### Art. 20
 
-**Ordnungsbussenverfahren**[^19-4]
+**Ordnungsbussenverfahren nach Bundesrecht**
 
-<sup>1</sup> Ordnungsbussen dürfen von der ermächtigten Gemeinden nur erhoben werden, wenn der Sachverhalt rechtlich und sachlich klar ist und die fehlbare Person mit der direkten Erhebung der Busse einverstanden ist.
+<sup>1</sup> …
 
 <sup>2</sup> Die Kantonspolizei gibt den ermächtigten Gemeinden für die Erhebung von Bussen auf der Stelle Quittungen für Ordnungsbussen und Bedenkfristformulare gemäss den bundesrechtlichen Vorgaben ab.
 
@@ -272,12 +259,14 @@ Kontrollschilder sind auf Dritte übertragbar.
 
 <sup>4</sup> Sind die Voraussetzungen für eine Ordnungsbusse nicht erfüllt, hat die Gemeinde die Widerhandlung der Staatsanwaltschaft über die Kantonspolizei anzuzeigen. Die Erhebung von Sicherheitsleistungen richtet sich nach dem Bundesrecht.
 
-### VII. Schlussbestimmungen
+## 7. Schlussbestimmungen
 
 #### Art. 21
 
 **Inkraftsetzung**
 
-Diese Verordnung tritt auf den 1. Januar 2009 in Kraft. Sie ersetzt die regierungsrätliche Vollziehungsverordnung vom 24. Oktober 1977[^21-1].
+<sup>1</sup> Diese Verordnung tritt auf den 1. Januar 2009 in Kraft. Sie ersetzt die regierungsrätliche Vollziehungsverordnung vom 24. Oktober 1977[^21-1].
 
-[^21-1]: AGS 1977, 209 und Änderungen gemäss Register Amtliche Gesetzessammlung 01.01.2015 7
+[^21-1]: AGS 1977, 209 und Änderungen gemäss Register Amtliche Gesetzessammlung
+
+-
