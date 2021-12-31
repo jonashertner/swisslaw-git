@@ -4,11 +4,11 @@ title: "Ordinanza del 18 dicembre 2013 sul sistema centrale d'informazione visti
 short: OVIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: it
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2014-2-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2014-2-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20210401/it"
 
 (Ordinanza VIS, OVIS)
 
-del 18 dicembre 2013 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
+del 18 dicembre 2013 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -187,13 +187,13 @@ Le autorità seguenti possono accedere in rete ai dati del sistema ORBIS per svo
 - b. i posti di confine delle polizie cantonali e il Corpo delle guardie di confine: per effettuare i controlli d’identità ed emanare visti eccezionali;
 - c. le rappresentanze svizzere all’estero e la Missione svizzera presso l’ONU a Ginevra: per l’esame delle domande di visto;
 - d. il Segretariato di Stato, la Direzione politica e la Direzione consolare del Dipartimento federale degli affari esteri (DFAE): per l’esame delle richieste di visto e dei ricorsi nella sfera di competenze del DFAE;
-- e. l’Ufficio centrale di compensazione: per l’esame delle domande di prestazioni e per l’assegnazione e la verifica del numero d’assicurato AVS;
+- e. l’Ufficio centrale di compensazione: per l’esame delle domande di prestazioni e per l’assegnazione e la verifica del numero AVS[^10-1];
 - f.
 
   presso l’Ufficio federale di polizia (fedpol):
 
   - 1\. il Servizio giuridico: per adottare eventuali misure di respingimento per la salvaguardia della sicurezza interna ed esterna della Svizzera conformemente agli articoli 67 capoverso 4 e 68 capoverso 3 LStrI,
-  - 2\. i servizi incaricati della gestione del sistema di ricerca informatizzato di polizia (RIPOL): per l’identificazione delle persone nell’ambito del controllo delle segnalazioni RIPOL ai sensi dell’ordinanza RIPOL del 15 ottobre 2008[^10-1],
+  - 2\. i servizi incaricati della gestione del sistema di ricerca informatizzato di polizia (RIPOL): per l’identificazione delle persone nell’ambito del controllo delle segnalazioni RIPOL ai sensi dell’ordinanza RIPOL del 15 ottobre 2008[^10-2],
   - 3\. i servizi competenti in materia di corrispondenza internazionale e la Centrale operativa: per l’identificazione delle persone in relazione con i compiti nel settore dello scambio intercantonale e internazionale delle informazioni di polizia e per l’esame delle misure di respingimento destinate a salvaguardare la sicurezza interna ed esterna della Svizzera,
   - 4\.
 
@@ -204,18 +204,18 @@ Le autorità seguenti possono accedere in rete ai dati del sistema ORBIS per svo
 
   - 5\. il servizio competente in materia di documenti d’identità e di ricerche di persone scomparse: per le ricerche concernenti la dimora di queste persone,
   - 6\. il servizio incaricato della gestione del sistema automatizzato d’identificazione delle impronte digitali (AFIS): per l’identificazione di persone ai sensi dell’articolo 102 capoverso 1 LStrI,
-  - 7\. il servizio competente presso l’Ufficio di comunicazione in materia di riciclaggio di denaro: per l’identificazione delle persone e l’accertamento del loro statuto di dimora effettuati nell’ambito dei suoi compiti legali nella lotta contro il riciclaggio di denaro e i reati anteriori, la criminalità organizzata e il finanziamento del terrorismo di cui all’articolo 23 della legge del 10 ottobre 1997[^10-2] sul riciclaggio di denaro;
+  - 7\. il servizio competente presso l’Ufficio di comunicazione in materia di riciclaggio di denaro: per l’identificazione delle persone e l’accertamento del loro statuto di dimora effettuati nell’ambito dei suoi compiti legali nella lotta contro il riciclaggio di denaro e i reati anteriori, la criminalità organizzata e il finanziamento del terrorismo di cui all’articolo 23 della legge del 10 ottobre 1997[^10-3] sul riciclaggio di denaro;
 
-- g.[^10-3] le autorità migratorie cantonali e comunali e le autorità cantonali e comunali di polizia: per l’adempimento dei loro compiti in materia di stranieri;
+- g.[^10-4] le autorità migratorie cantonali e comunali e le autorità cantonali e comunali di polizia: per l’adempimento dei loro compiti in materia di stranieri;
 - h. gli uffici di stato civile e le loro autorità di vigilanza nonché l’Ufficio federale dello stato civile: per l’esame della regolarità del soggiorno in Svizzera dei fidanzati che non sono ancora cittadini svizzeri e per la comunicazione all’autorità competente dell’identità dei fidanzati che non hanno fornito prova del loro soggiorno regolare;
 - i.
 
   presso l’Ufficio federale di giustizia (UFG):
 
-  - 1\. l’Ambito direzionale Assistenza giudiziaria internazionale: in relazione con procedure di assistenza giudiziaria internazionale ai sensi della legge federale del 20 marzo 1981[^10-4] sull’assistenza in materia penale,
-  - 2\. l’Ambito direzionale Diritto privato: in relazione con la procedura retta dalla legge federale del 21 dicembre 2007[^10-5] sul rapimento internazionale dei minori e sulle Convenzioni dell’Aia sulla protezione dei minori e degli adulti;
+  - 1\. l’Ambito direzionale Assistenza giudiziaria internazionale: in relazione con procedure di assistenza giudiziaria internazionale ai sensi della legge federale del 20 marzo 1981[^10-5] sull’assistenza in materia penale,
+  - 2\. l’Ambito direzionale Diritto privato: in relazione con la procedura retta dalla legge federale del 21 dicembre 2007[^10-6] sul rapimento internazionale dei minori e sulle Convenzioni dell’Aia sulla protezione dei minori e degli adulti;
 
-- j. il Servizio delle attività informative della Confederazione: per l’esame delle misure di respingimento per la salvaguardia della sicurezza interna ed esterna della Svizzera conformemente alla legge federale del 21 marzo 1997[^10-6] sulle misure per la salvaguardia della sicurezza interna;
+- j. il Servizio delle attività informative della Confederazione: per l’esame delle misure di respingimento per la salvaguardia della sicurezza interna ed esterna della Svizzera conformemente alla legge federale del 21 marzo 1997[^10-7] sulle misure per la salvaguardia della sicurezza interna;
 - k. il Tribunale amministrativo federale: per l’istruzione dei ricorsi conformemente alla LStrI;
 - l.
 
@@ -224,25 +224,27 @@ Le autorità seguenti possono accedere in rete ai dati del sistema ORBIS per svo
   - 1\. nell’ambito della riscossione dell’imposta sul valore aggiunto sulle prestazioni che i contribuenti effettuano a titolo oneroso sul territorio svizzero (imposta sulle prestazioni eseguite sul territorio svizzero) e sull’acquisto di prestazioni di imprese con sede all’estero da parte di beneficiari che si trovano sul territorio svizzero (imposta sull’acquisto) e nell’ambito dell’applicazione dell’imposta preventiva,
   - 2\. nell’ambito dell’esecuzione di procedimenti penali e di procedimenti di assistenza amministrativa e giudiziaria;
 
-- m.[^10-7]
+- m.[^10-8]
 
-  l’Amministrazione federale delle dogane:
+  l’Ufficio federale della dogana e della sicurezza dei confini[^10-9]:
 
   - 1\. per l’adempimento dei suoi compiti nell’ambito della riscossione dell’imposta sul valore aggiunto sull’importazione di beni (imposta sull’importazione),
   - 2\. per l’identificazione delle persone nell’ambito dell’antifrode doganale;
 
-- n.[^10-8] ...
+- n.[^10-10] ...
 
 <sup>2</sup> I diritti di accesso sono disciplinati nell’allegato 2.
 
-[^10-1]: [[RU 2008 5013](https://fedlex.data.admin.ch/eli/oc/2008/699), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 15, [2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)all. 3 n. 4, [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)n. I 4. [RU 2016 3931](https://fedlex.data.admin.ch/eli/oc/2016/665)all. 2 n. I] . Vedi ora l’O del del 26 ott. 2016 ([RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)).
-[^10-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^10-3]: Nuovo testo giusta il n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
-[^10-4]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^10-5]: [RS 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
-[^10-6]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^10-7]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
-[^10-8]: Abrogato dal n. I dell’O del 21 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-1]: Nuova espr. giusta l’all. n. II 2 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^10-2]: [[RU 2008 5013](https://fedlex.data.admin.ch/eli/oc/2008/699), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 15, [2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)all. 3 n. 4, [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)n. I 4. [RU 2016 3931](https://fedlex.data.admin.ch/eli/oc/2016/665)all. 2 n. I] . Vedi ora l’O del del 26 ott. 2016 ([RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)).
+[^10-3]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^10-4]: Nuovo testo giusta il n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^10-5]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^10-6]: [RS 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
+[^10-7]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^10-8]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-9]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^10-10]: Abrogato dal n. I dell’O del 21 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
 
 ## Capitolo 3: Sistema centrale d’informazione visti
 
@@ -698,7 +700,7 @@ I consulenti per la protezione dei dati degli uffici coinvolti, ciascuno nel pro
 
 L’ordinanza VIS del 6 luglio 2011[^38-1] è abrogata.
 
-[^38-1]: [[RU 2011 3861](https://fedlex.data.admin.ch/eli/oc/2011/549)[4379](https://fedlex.data.admin.ch/eli/oc/2011/600)[4451](https://fedlex.data.admin.ch/eli/oc/2011/610)]
+[^38-1]: [[RU 2011 3861](https://fedlex.data.admin.ch/eli/oc/2011/549), [4379](https://fedlex.data.admin.ch/eli/oc/2011/600), [4451](https://fedlex.data.admin.ch/eli/oc/2011/610)]
 
 #### Art. 39
 
@@ -748,7 +750,7 @@ Gli accordi di associazione alla normativa di Dublino comprendono:
 [^annex1-lvl2-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
 [^annex1-lvl2-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
 
-Allegato 2[^t-1]
+Allegato 2*[^t-1]*
 
 (art. 5 cpv. 1, 6 cpv. 1 e 10 cpv. 2)
 
@@ -767,7 +769,6 @@ Livelli d’accesso:
 Unità organizzative:
 
 - AFC Amministrazione federale delle contribuzioni
-- AFD Amministrazione federale delle dogane, compreso l’Ambito direzionale Perseguimento penale
 - CC Centrale di compensazione
 - CP Autorità cantonali e comunali di polizia operanti sul territorio svizzero nell’ambito degli incarichi inerenti al diritto in materia di stranieri
 - DFAE Dipartimento federale degli affari esteri (Segreteria di Stato generale, Direzione consolare e Direzione politica)
@@ -783,12 +784,13 @@ Unità organizzative:
 - SC Uffici dello stato civile e loro autorità di sorveglianza, nonché l’Ufficio federale di stato civile
 - SIC Servizio delle attività informative della Confederazione
 - TAF Tribunale amministrativo federale: quarta, quinta e sesta corte
+- UDSC Ufficio federale della dogana e della sicurezza dei confini, compreso l’Ambito direzionale Perseguimento penale
 - UFG Ufficio federale di giustizia: Ambito direzionale assistenza giudiziaria internazionale, Ambito direzionale Diritto privato
 
 ORBIS
 
 <table>
-<tr><th>Campi di dati</th><th>SEM I</th><th>SEM II</th><th>MIGRA</th><th>OCF</th><th>CP</th><th>SC</th><th>Fedpol</th><th>SIC</th><th>TAF</th><th>RSE CT</th><th>RSE CL</th><th>DFAE</th><th>CC</th><th>UFG</th><th>AFC</th><th>AFD</th></tr>
+<tr><th>Campi di dati</th><th>SEM I</th><th>SEM II</th><th>MIGRA</th><th>OCF</th><th>CP</th><th>SC</th><th>Fedpol</th><th>SIC</th><th>TAF</th><th>RSE CT</th><th>RSE CL</th><th>DFAE</th><th>CC</th><th>UFG</th><th>AFC</th><th>UDSC</th></tr>
 <tr><td colspan="17">I. Dati relativi al deposito della domanda</td></tr>
 <tr><td>Numero della domanda</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Stato della procedura: domanda depositata</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
@@ -822,7 +824,7 @@ ORBIS
 <tr><td>Luogo e data della decisione</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Su mandato di rappresentanza di un altro Stato Schengen (sì/no)</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Nome e indirizzo dell’autorità</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Territorio in cui il titolare è autorizzato a viaggiare conformemente al codice dei visti UE[^annex2-lvlu1-lvlu1-lvlu1-1]</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Territorio in cui il titolare è autorizzato a viaggiare conformemente al codice dei visti UE[^annex2-lvlu1-lvlu1-2]</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Numero d’entrate autorizzate durante il periodo di validità</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Durata di validità del visto: date di inizio e di scadenza</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Categoria di visto</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
@@ -872,13 +874,13 @@ ORBIS
 <tr><td>Durata del soggiorno autorizzato dal visto (&gt; 90 giorni)</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Comunicazione dei visti rilasciati</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Fascicolo VIS Mail (avvisi)</td><td>B</td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Allegati concernenti il richiedente il visto[^annex2-lvlu1-lvlu1-lvlu1-2]</td><td>B</td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Allegati concernenti il richiedente il visto[^annex2-lvlu1-lvlu1-3]</td><td>B</td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Emolumenti e spese</td><td>B</td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 [^annex2-lvlu1-lvlu1-1]: Cfr. nota a piè di pagina relativa all’art. 2 lett. a.
-[^annex2-lvlu1-lvlu1-lvlu1-1]: Cfr. nota a piè di pagina relativa all’art. 6 cpv. 1
-[^annex2-lvlu1-lvlu1-lvlu1-2]: Allegati in formato pdf (documenti del richiedente il visto, note) che dopo la scansione di tutti i documenti saranno sostituiti da un fascicolo elettronico.
+[^annex2-lvlu1-lvlu1-2]: Cfr. nota a piè di pagina relativa all’art. 6 cpv. 1
+[^annex2-lvlu1-lvlu1-3]: Allegati in formato pdf (documenti del richiedente il visto, note) che dopo la scansione di tutti i documenti saranno sostituiti da un fascicolo elettronico.
 
 Allegato 3[^t-2]
 

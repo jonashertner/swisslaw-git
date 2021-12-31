@@ -4,11 +4,11 @@ title: "Ordinance of 18 December 2013 on the Central Visa Information System and
 short: VISO
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: en
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20210401/en/xml/fedlex-data-admin-ch-eli-cc-2014-2-20210401-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20210401/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2014-2-20220101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Visa Information System Ordinance, VISO)
 
-of 18 December 2013 (Status as of 1 April 2021)
+of 18 December 2013 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
@@ -189,13 +189,13 @@ The following authorities have online access to the ORBIS data in order to fulfi
 - b. the border posts of the cantonal police authorities and the Border Guard: to carry out checks on persons and to grant exceptional visas;
 - c. the Swiss representations abroad and the Swiss Mission to the UN in Geneva: to verify visa applications;
 - d. the State Secretariat, the Directorate of Political Affairs and the Consular Directorate of the Federal Department of Foreign Affairs (FDFA): to verify visa applications and appeals that fall within the jurisdiction of the FDFA;
-- e. the Central Compensation Office: to assess applications for benefits and to allocate and check OASI numbers;
+- e. the Central Compensation Office: to assess applications for benefits and to allocate and check OASI numbers[^10-1];
 - f.
 
   at the Federal Office of Police (fedpol):
 
   - 1\. the Legal Services Section: to issue rulings on measures banning entry to safeguard Switzerland's internal and external security in accordance with Articles 67 paragraph 4 and 68 paragraph 3 FNIA,
-  - 2\. the authorities responsible for the computerised police search system (RIPOL): for identification of persons in connection with the supervision of the recording of RIPOL data under the RIPOL Ordinance of 15 October 2008[^10-1],
+  - 2\. the authorities responsible for the computerised police search system (RIPOL): for identification of persons in connection with the supervision of the recording of RIPOL data under the RIPOL Ordinance of 15 October 2008[^10-2],
   - 3\. the authorities responsible for international correspondence, and the operations centre: in order to identify persons in connection with the exchange of police intelligence at inter-cantonal and international levels and to verify measures banning entry to safeguard Switzerland's internal and external security,
   - 4\.
 
@@ -206,18 +206,18 @@ The following authorities have online access to the ORBIS data in order to fulfi
 
   - 5\. the service for identity documents and tracing missing persons: to trace the whereabouts of such persons,
   - 6\. the authority responsible for operating the automated fingerprint identification system (AFIS): in order to identify persons under Article 102 paragraph 1 FNIA,
-  - 7\. the responsible service at the Money Laundering Reporting Office: in order to identify persons and to determine their residency status in connection with the statutory duties of the Reporting Office to combat money laundering and its predicate offences, organised crime and the financing of terrorism under Article 23 of the Anti-Money Laundering Act of 10 October 1997[^10-2];
+  - 7\. the responsible service at the Money Laundering Reporting Office: in order to identify persons and to determine their residency status in connection with the statutory duties of the Reporting Office to combat money laundering and its predicate offences, organised crime and the financing of terrorism under Article 23 of the Anti-Money Laundering Act of 10 October 1997[^10-3];
 
-- g.[^10-3] the cantonal and communal migration authorities and the cantonal and communal police authorities: to fulfil their duties in the field of immigration;
+- g.[^10-4] the cantonal and communal migration authorities and the cantonal and communal police authorities: to fulfil their duties in the field of immigration;
 - h. the civil register offices and their supervisory authorities, and the Federal Civil Status Office: to verify the legality of the residence in Switzerland of persons engaged to be married who are not Swiss citizens and to notify the responsible authority of the identity of persons engaged to be married who are unable to prove the legality of their residence;
 - i.
 
   at the Federal Office of Justice:
 
-  - 1\. the International Mutual Assistance Unit: to fulfil its duties in connection with international mutual assistance proceedings under the Mutual Assistance Act of 20 March 1981[^10-4],
-  - 2\. the Private Law Unit: to fulfil its duties in connection with proceedings under the Federal Act of 21 December 2007[^10-5] on International Child Abduction and the Hague Conventions on the Protection of Children and Adults;
+  - 1\. the International Mutual Assistance Unit: to fulfil its duties in connection with international mutual assistance proceedings under the Mutual Assistance Act of 20 March 1981[^10-5],
+  - 2\. the Private Law Unit: to fulfil its duties in connection with proceedings under the Federal Act of 21 December 2007[^10-6] on International Child Abduction and the Hague Conventions on the Protection of Children and Adults;
 
-- j. the Federal Intelligence Service: to verify measures banning entry to safeguard Switzerland's internal and external security under the Federal Act of 21 March 1997[^10-6] on Measures to Safeguard Internal Security;
+- j. the Federal Intelligence Service: to verify measures banning entry to safeguard Switzerland's internal and external security under the Federal Act of 21 March 1997[^10-7] on Measures to Safeguard Internal Security;
 - k. the Federal Administrative Court: for the preparatory briefing procedure for appeals under the FNIA;
 - l.
 
@@ -226,25 +226,27 @@ The following authorities have online access to the ORBIS data in order to fulfi
   - 1\. the levying of Value Added Tax on goods and services supplied for consideration by taxable persons on Swiss territory (domestic tax) and on the acquisition by recipients on Swiss territory of supplies from businesses domiciled abroad (acquisition tax) and the levying of withholding tax,
   - 2\. the conduct of criminal proceedings and administrative or mutual legal assistance proceedings;
 
-- m.[^10-7]
+- m.[^10-8]
 
-  the Federal Customs Administration:
+  the Federal Office for Customs and Border Security[^10-9]:
 
   - 1\. to fulfil their tasks in levying Value Added Tax on the import of goods (import tax),
   - 2\. in order to identify persons in connection with customs investigations;
 
-- n.[^10-8] ...
+- n.[^10-10] ...
 
 <sup>2</sup> The access rights are regulated in Annex 2.
 
-[^10-1]: [[AS 2008 5013](https://fedlex.data.admin.ch/eli/oc/2008/699), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Annex 4 No II 15, [2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)Annex 3 No 4, [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)No I 4. [AS 2016 3931](https://fedlex.data.admin.ch/eli/oc/2016/665)Annex 2 No I]. See now the RIPOL O of 26 Oct. 2016 ([SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)).
-[^10-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^10-3]: Amended by No I of the O of 19 Feb. 2020, in force since 1 April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
-[^10-4]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^10-5]: [SR 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
-[^10-6]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^10-7]: Amended by No I of the O of 21 Nov. 2018, in force since 1 Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
-[^10-8]: Repealed by No I of the O of 21 Nov. 2018, with effect from 1 Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-1]: Term in accordance with Annex No II 2 of the O of 17 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^10-2]: [[AS 2008 5013](https://fedlex.data.admin.ch/eli/oc/2008/699), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Annex 4 No II 15, [2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)Annex 3 No 4, [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)No I 4. [AS 2016 3931](https://fedlex.data.admin.ch/eli/oc/2016/665)Annex 2 No I]. See now the RIPOL O of 26 Oct. 2016 ([SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)).
+[^10-3]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^10-4]: Amended by No I of the O of 19 Feb. 2020, in force since 1 April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^10-5]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^10-6]: [SR 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
+[^10-7]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^10-8]: Amended by No I of the O of 21 Nov. 2018, in force since 1 Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-9]: The name of this administrative unit was changed on 1 Jan. 2022 pursuant to Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
+[^10-10]: Repealed by No I of the O of 21 Nov. 2018, with effect from 1 Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
 
 ## Chapter 3 Central Visa Information System
 
@@ -701,7 +703,7 @@ The data protection advisers to the federal offices involved shall in their part
 
 The Visa Information System Ordinance of 6 July 2011[^38-1] is repealed.
 
-[^38-1]: [[AS 2011 3861](https://fedlex.data.admin.ch/eli/oc/2011/549)[4379](https://fedlex.data.admin.ch/eli/oc/2011/600)[4451](https://fedlex.data.admin.ch/eli/oc/2011/610)]
+[^38-1]: [[AS 2011 3861](https://fedlex.data.admin.ch/eli/oc/2011/549), [4379](https://fedlex.data.admin.ch/eli/oc/2011/600), [4451](https://fedlex.data.admin.ch/eli/oc/2011/610)]
 
 #### Art. 39
 
@@ -776,7 +778,7 @@ Organisational units
 - FAC: Federal Administrative Court: third, fourth and fifth divisions
 - FDFA: Federal Department of Foreign Affairs: State Secretariat, Consular Directorate and Directorate of Political Affairs
 - FTA: Federal Tax Administration
-- FCA: Federal Customs Administration, including the Prosecution Directorate
+- FOCBS: Federal Office for Customs and Border Security, including the Prosecution Directorate
 - Fedpol: Federal Office of Police: Legal Services Section, Federal Criminal Police (FCP), Interpol National Central Bureau, operations centre, Identity Documents and Central Offices Division, Biometric Identification Division, MROS Section, Search and Supervision Division
 - MIGRA: Cantonal, regional and communal migration authorities
 - BORPO: Federal and cantonal bodies that carry out checks and issue visas on the Schengen external border and on Swiss sovereign territory
@@ -791,7 +793,7 @@ Organisational units
 - CCO: Central Compensation Office
 
 <table>
-<tr><th>Type of data field</th><th>SEM I</th><th>SEM II</th><th>MIGRA</th><th colspan="4">BORPO</th><th colspan="5">CAPO</th><th colspan="5">CRO</th><th colspan="7">Fedpol</th><th colspan="7">NDB</th><th colspan="10">FAC</th><th colspan="6">RA Per St</th><th>RA Loc St</th><th>FDFA</th><th>CCO</th><th>FOJ</th><th>FTA</th><th>FCA</th></tr>
+<tr><th>Type of data field</th><th>SEM I</th><th>SEM II</th><th>MIGRA</th><th colspan="4">BORPO</th><th colspan="5">CAPO</th><th colspan="5">CRO</th><th colspan="7">Fedpol</th><th colspan="7">NDB</th><th colspan="10">FAC</th><th colspan="6">RA Per St</th><th>RA Loc St</th><th>FDFA</th><th>CCO</th><th>FOJ</th><th>FTA</th><th>FOCBS</th></tr>
 <tr><td>I. Data relating to the application</td><td></td><td></td><td></td><td colspan="4"></td><td colspan="5"></td><td colspan="5"></td><td colspan="7"></td><td colspan="7"></td><td colspan="10"></td><td colspan="6"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Application number</td><td>A</td><td>A</td><td>A</td><td colspan="4">A</td><td colspan="5">A</td><td colspan="5">A</td><td colspan="7">A</td><td colspan="7">A</td><td colspan="10">A</td><td colspan="6">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Status information: Application submitted</td><td>B</td><td>A</td><td>B</td><td colspan="4">B</td><td colspan="5">A</td><td colspan="5">A</td><td colspan="7">A</td><td colspan="7">A</td><td colspan="10">A</td><td colspan="6">B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>

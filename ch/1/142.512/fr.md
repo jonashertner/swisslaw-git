@@ -4,11 +4,11 @@ title: "Ordonnance du 18 décembre 2013 sur le système central d'information su
 short: OVIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: fr
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2014-2-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-2-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20210401/fr"
 
 (Ordonnance VIS, OVIS)
 
-du 18 décembre 2013 (Etat le 1<sup>er</sup> avril 2021)
+du 18 décembre 2013 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -185,13 +185,13 @@ Afin d’accomplir les tâches qui leurs sont assignées, les services suivants 
 - b. les postes frontière des polices cantonales et le Corps des gardes-frontière: pour l’exécution des contrôles d’identité et l’établissement de visas exceptionnels;
 - c. les représentations suisses à l’étranger et la Mission suisse auprès de l’ONU à Genève: pour l’examen des demandes de visa;
 - d. le Secrétariat d’État, la Direction politique et la Direction consulaire du Département fédéral des affaires étrangères (DFAE): pour l’examen des demandes de visa et des recours relevant de la compétence du DFAE;
-- e. la Centrale de compensation: pour l’examen des demandes de prestations et pour l’attribution et la vérification des numéros d’assuré AVS;
+- e. la Centrale de compensation: pour l’examen des demandes de prestations et pour l’attribution et la vérification des numéros AVS[^10-1];
 - f.
 
   auprès de l’Office fédéral de la police (fedpol):
 
   - 1\. le Service juridique: pour l’adoption de mesures d’éloignement destinées à sauvegarder la sûreté intérieure et extérieure de la Suisse conformément aux art. 67, al. 4, et 68, al. 3, LEI,
-  - 2\. les services chargés de la gestion du RIPOL: pour l’identification des personnes dans le cadre du contrôle de la saisie des données RIPOL visées dans l’ordonnance RIPOL du 15 octobre 2008[^10-1],
+  - 2\. les services chargés de la gestion du RIPOL: pour l’identification des personnes dans le cadre du contrôle de la saisie des données RIPOL visées dans l’ordonnance RIPOL du 15 octobre 2008[^10-2],
   - 3\. les services chargés de la correspondance internationale et la Centrale d’engagement: pour l’identification de personnes dans le domaine de l’échange d’informations policières aux niveaux intercantonal et international, et pour l’examen des mesures d’éloignement destinées à sauvegarder la sûreté intérieure et extérieure de la Suisse,
   - 4\.
 
@@ -202,18 +202,18 @@ Afin d’accomplir les tâches qui leurs sont assignées, les services suivants 
 
   - 5\. le service compétent en matière de documents d’identité et de recherches de personnes disparues: pour les recherches concernant la résidence de ces personnes,
   - 6\. le service chargé de la gestion du système d’identification automatique par empreintes digitales (AFIS): pour l’identification de personnes visée à l’art. 102, al. 1, LEI,
-  - 7\. le service en charge du Bureau de communication en matière de blanchiment d’argent: en vue de l’identification de personnes et de leur statut légal en relation avec ses obligations légales de lutte contre le blanchiment d’argent et ses infractions préalables, la criminalité organisée et le financement du terrorisme selon l’art. 23 de la loi du 10 octobre 1997 sur le blanchiment d’argent[^10-2];
+  - 7\. le service en charge du Bureau de communication en matière de blanchiment d’argent: en vue de l’identification de personnes et de leur statut légal en relation avec ses obligations légales de lutte contre le blanchiment d’argent et ses infractions préalables, la criminalité organisée et le financement du terrorisme selon l’art. 23 de la loi du 10 octobre 1997 sur le blanchiment d’argent[^10-3];
 
-- g.[^10-3] les autorités cantonales et communales chargées des questions relatives aux étrangers et les autorités cantonales et communales de police: pour l’accomplissement des tâches qui leur sont assignées dans le domaine des étrangers;
+- g.[^10-4] les autorités cantonales et communales chargées des questions relatives aux étrangers et les autorités cantonales et communales de police: pour l’accomplissement des tâches qui leur sont assignées dans le domaine des étrangers;
 - h. les offices de l’état civil et leurs autorités de surveillance, ainsi que l’Office fédéral de l’état civil: pour la vérification de la légalité du séjour en Suisse des fiancés qui ne sont pas citoyens suisses et pour la communication à l’autorité compétente de l’identité des fiancés qui n’ont pas établi la légalité de leur séjour;
 - i.
 
   les services suivants de l’Office fédéral de la justice (OFJ):
 
-  - 1\. le domaine de direction Entraide judiciaire internationale: en relation avec la procédure d’entraide judiciaire internationale visée par la loi du 20 mars 1981 sur l’entraide pénale internationale[^10-4],
-  - 2\. le domaine de direction Droit privé: en relation avec la procédure régie par la loi fédérale du 21 décembre 2007 sur l’enlèvement international d’enfants et les Conventions de La Haye sur la protection des enfants et des adultes[^10-5];
+  - 1\. le domaine de direction Entraide judiciaire internationale: en relation avec la procédure d’entraide judiciaire internationale visée par la loi du 20 mars 1981 sur l’entraide pénale internationale[^10-5],
+  - 2\. le domaine de direction Droit privé: en relation avec la procédure régie par la loi fédérale du 21 décembre 2007 sur l’enlèvement international d’enfants et les Conventions de La Haye sur la protection des enfants et des adultes[^10-6];
 
-- j. le Service de renseignement de la Confédération: pour l’examen de mesures d’éloignement destinées à sauvegarder la sûreté intérieure et extérieure de la Suisse conformément à la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^10-6];
+- j. le Service de renseignement de la Confédération: pour l’examen de mesures d’éloignement destinées à sauvegarder la sûreté intérieure et extérieure de la Suisse conformément à la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^10-7];
 - k. le Tribunal administratif fédéral: pour l’instruction des recours conformément à la LEI;
 - l.
 
@@ -222,25 +222,27 @@ Afin d’accomplir les tâches qui leurs sont assignées, les services suivants 
   - 1\. au prélèvement de la taxe sur la valeur ajoutée portant sur les prestations que les assujettis fournissent à titre onéreux sur le territoire suisse (impôt grevant les opérations réalisées sur le territoire suisse) et sur l’acquisition, par un destinataire se trouvant sur le territoire suisse, de prestations fournies par une entreprise ayant son siège à l’étranger (impôt sur les acquisitions), ainsi qu’à l’application de l’impôt anticipé,
   - 2\. à l’exécution de procédures pénales et de procédures d’assistance administrative ou d’entraide judiciaire;
 
-- m.[^10-7]
+- m.[^10-8]
 
-  l’Administration fédérale des douanes:
+  l’Office fédéral de la douane et de la sécurité des frontières[^10-9]:
 
   - 1\. pour l’accomplissement des tâches liées au prélèvement de la taxe sur la valeur ajoutée portant sur l’importation de biens (impôt sur les importations),
   - 2\. pour l’identification des personnes dans le cadre de l’exécution des tâches de la division principale Antifraude douanière;
 
-- n.[^10-8] ...
+- n.[^10-10] ...
 
 <sup>2</sup> Les droits d’accès sont réglés à l’annexe 2.
 
-[^10-1]: [[RO 2008 5013](https://fedlex.data.admin.ch/eli/oc/2008/699), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 15, [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)ch. I 4. [RO 2016 3931](https://fedlex.data.admin.ch/eli/oc/2016/665)annexe 2 ch. I]. Voir actuellement l’O du 26 oct. 2016 ([RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)).
-[^10-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^10-3]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
-[^10-4]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^10-5]: [RS 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
-[^10-6]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^10-7]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
-[^10-8]: Abrogée par le ch. I de l’O du 21 nov. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-1]: Nouvelle expression selon l’annexe ch. II 2 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^10-2]: [[RO 2008 5013](https://fedlex.data.admin.ch/eli/oc/2008/699), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 15, [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)ch. I 4. [RO 2016 3931](https://fedlex.data.admin.ch/eli/oc/2016/665)annexe 2 ch. I]. Voir actuellement l’O du 26 oct. 2016 ([RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)).
+[^10-3]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^10-4]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^10-5]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^10-6]: [RS 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
+[^10-7]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^10-8]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-9]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^10-10]: Abrogée par le ch. I de l’O du 21 nov. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
 
 ## Chapitre 3 Système central d’information sur les visas
 
@@ -697,7 +699,7 @@ Les conseillers à la protection des données des offices concernés veillent, d
 
 L’ordonnance VIS du 6 juillet 2011[^38-1] est abrogée.
 
-[^38-1]: [[RO 2011 3861](https://fedlex.data.admin.ch/eli/oc/2011/549)[4379](https://fedlex.data.admin.ch/eli/oc/2011/600)[4451](https://fedlex.data.admin.ch/eli/oc/2011/610)]
+[^38-1]: [[RO 2011 3861](https://fedlex.data.admin.ch/eli/oc/2011/549), [4379](https://fedlex.data.admin.ch/eli/oc/2011/600), [4451](https://fedlex.data.admin.ch/eli/oc/2011/610)]
 
 #### Art. 39
 
@@ -747,7 +749,7 @@ Les accords d’association à Dublin comprennent les accords suivants:
 [^annex1-lvl2-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
 [^annex1-lvl2-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
 
-Annexe 2[^t-1]
+Annexe 2*[^t-1]*
 
 (art. 5, al. 1, 6, al. 1, et 10, al. 2)
 
@@ -766,7 +768,6 @@ Niveaux d’accès:
 Unités organisationnelles:
 
 - AFC Administration fédérale des contributions
-- AFD Administration fédérale des douanes, y compris le Domaine de direction Poursuite pénales
 - CdC Centrale de compensation
 - CP Autorités cantonales et communales de police opérant sur le territoire suisse dans le cadre des tâches du droit des étrangers
 - DFAE Département fédéral des affaires étrangères (Secrétariat d’État, Direction consulaire et Direction politique)
@@ -774,6 +775,7 @@ Unités organisationnelles:
 - Fedpol Office fédéral de la police, Service juridique, Police judiciaire fédérale (PJF), Bureau central national INTERPOL, Centrale d’engagement, Division Documents d’identité et services centraux, Division Identification biométrique, Section MROS, Division Recherches et surveillance
 - MIGRA Autorités cantonales, régionales et communales chargées des questions relatives aux étrangers
 - OCF Organes fédéraux et cantonaux procédant à des contrôles à la frontière extérieure Schengen et sur le territoire suisse, émetteurs de visas
+- OFDF Office fédéral de la douane et de la sécurité des frontières, y compris le Domaine de direction Poursuite pénales
 - OFJ Office fédéral de la justice, Division de l’entraide judiciaire internationale, Domaine de direction Droit privé
 - RSE Représentations suisses à l’étranger et Mission suisse auprès de l’ONU à Genève
 - – CT Collaborateur transférable ou collaborateur responsable avec compétence de décision sur les demandes de visas
@@ -790,7 +792,7 @@ TAF Tribunal administratif fédéral: quatrième, cinquième et sixième cours
 ### ORBIS
 
 <table>
-<tr><th>Dénomination des champs de données</th><th>SEM I</th><th>SEM II</th><th>MIGRA</th><th>OCF</th><th>CP</th><th>EC</th><th>Fedpol</th><th>SRC</th><th>TAF</th><th>RSE CT</th><th>RSE CL</th><th>DFAE</th><th>CdC</th><th>OFJ</th><th>AFC</th><th>AFD</th></tr>
+<tr><th>Dénomination des champs de données</th><th>SEM I</th><th>SEM II</th><th>MIGRA</th><th>OCF</th><th>CP</th><th>EC</th><th>Fedpol</th><th>SRC</th><th>TAF</th><th>RSE CT</th><th>RSE CL</th><th>DFAE</th><th>CdC</th><th>OFJ</th><th>AFC</th><th>OFDF</th></tr>
 <tr><td colspan="17">I. Données du dépôt de la demande</td></tr>
 <tr><td>Numéro de la demande</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>État de la procédure: demande déposée</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
@@ -881,7 +883,7 @@ TAF Tribunal administratif fédéral: quatrième, cinquième et sixième cours
 [^annex2-lvlu1-lvlu2-1]: Cf. note de bas de page relative à l’art. 6, al. 1.
 [^annex2-lvlu1-lvlu2-2]: Ces annexes sont sous forme pdf (documents du demandeur de visa, notices) et seront remplacées ultérieurement, quand tous les documents seront scannés, par un e-dossier.
 
-Annexe 3[^t-2]
+Annexe 3*[^t-2]*
 
 (art. 11, al. 3, et 35, al. 4)
 
