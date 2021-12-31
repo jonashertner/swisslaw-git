@@ -3,11 +3,10 @@ canton: ZH
 number: "551.103"
 title: Verordnung über das Polizei-Informationssystem POLIS (POLIS-Verordnung)
 language: de
-version: "2014-06-01"
-nachtrag: "85"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
 adopted: 2005-07-13
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-551_103-2005_07_13-2006_01_01-085.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-551_103-2005_07_13-2006_01_01-115.html"
 text: pdf
 ---
 
@@ -45,15 +44,13 @@ Betreiber von POLIS sind die Kantonspolizei und die Stadtpolizeien Zürich und W
 
 #### § 3
 
-**Weitere beteiligte Polizeien**
+**Weitere beteiligte Polizeien und Forensisches Institut Zürich**
 
 <sup>1</sup> Gesuche weiterer kommunaler Polizeien um Zugriff auf POLIS gemäss § 54 Abs. 4 PolG sind bei der Kantonspolizei einzureichen.[^2-1]
 
-<sup>2</sup> Für den Umgang mit den in POLIS gespeicherten Daten unterstehen die weiteren kommunalen Polizeien den gleichen Vorschriften wie die Betreiber.
+<sup>2</sup> Für den Umgang mit den in POLIS gespeicherten Daten unterstehen die weiteren kommunalen Polizeien und das Forensische Institut Zürich den gleichen Vorschriften wie die Betreiber.[^3-1] § 4.[^3-2] POLIS dient folgenden Zwecken:[^3-3] a. Erfüllung der Aufgaben als Strafverfolgungsbehörde gemäss StPO[^3-4],
 
 **Zweck von POLIS**
-
-§ 4.[^3-1] POLIS dient folgenden Zwecken:[^3-2] a. Erfüllung der Aufgaben als Strafverfolgungsbehörde gemäss StPO[^3-3],
 
 - b. Erstellen von Berichten und Lagebeurteilungen,
 
@@ -75,7 +72,7 @@ Betreiber von POLIS sind die Kantonspolizei und die Stadtpolizeien Zürich und W
 
 **1**
 
-- 1\. 7. 14 - 85
+- 1\. 1. 22 - 115
 
 - k. Sicherstellung der Verfügbarkeit von Daten, die für Polizeiermittlungen, insbesondere zur Aufklärung von Straftatbeständen benötigt werden,
 
@@ -85,7 +82,7 @@ Betreiber von POLIS sind die Kantonspolizei und die Stadtpolizeien Zürich und W
 
 **Bestandteile von POLIS**
 
-§ 5.[^3-1] POLIS besteht aus:
+§ 5.[^3-2] POLIS besteht aus:
 
 - a. dem Journal,
 
@@ -105,9 +102,10 @@ Betreiber von POLIS sind die Kantonspolizei und die Stadtpolizeien Zürich und W
 
 - i. der Asservaten-Datenbank.
 
-[^3-1]: Fassung gemäss RRB vom 12. Februar 2014 (OS 69, 203; ABl 2014-02-21). In Kraft seit 1. Juni 2014.
-[^3-2]: Fassung gemäss RRB vom 21. November 2012 (OS 68, 63; ABl 2012-11-30). In Kraft seit 1. März 2013.
-[^3-3]: SR 312.0.
+[^3-1]: Fassung gemäss RRB vom 7. Juli 2021 (OS 76, 394; ABl 2021-07-16). In Kraft seit 1. Januar 2022.
+[^3-2]: Fassung gemäss RRB vom 12. Februar 2014 (OS 69, 203; ABl 2014-02-21). In Kraft seit 1. Juni 2014.
+[^3-3]: Fassung gemäss RRB vom 21. November 2012 (OS 68, 63; ABl 2012-11-30). In Kraft seit 1. März 2013.
+[^3-4]: SR 312.0.
 
 ### II. Inhalt einzelner Bestandteile von POLIS
 
@@ -207,7 +205,7 @@ Der Datensatz über das Geschäft (Falldatensatz) kann folgende Daten enthalten:
 
 **3**
 
-- 1\. 7. 14 - 85 § 7 a.[^7-3] Die themenspezifischen Datenbanken können Journal-, Personen- und Geschäftsdaten gemäss §§ 6 und 7 enthalten.
+- 1\. 1. 22 - 115 § 7 a.[^7-3] Die themenspezifischen Datenbanken können Journal-, Personen- und Geschäftsdaten gemäss §§ 6 und 7 enthalten.
 
 **Inhalt der themenspezifischen Datenbanken**
 
@@ -237,7 +235,7 @@ Der Datensatz über das Geschäft (Falldatensatz) kann folgende Daten enthalten:
 
 [^7-1]: Fassung gemäss RRB vom 7. November 2012 (OS 67, 610; ABl 2012-11-16). In Kraft seit 1. Januar 2013.
 [^7-2]: Fassung gemäss RRB vom 12. Februar 2014 (OS 69, 203; ABl 2014-02-21). In Kraft seit 1. Juni 2014.
-[^7-3]: Eingefügt durch RRB vom 12. Februar 2014 (OS 69, 203; ABl 2014-02-21). In Kraft seit 1. Juni 2014.
+[^7-3]: Eingefügt durch RRB vom 12. Februar 2014 (OS 69, 203; ABl 2014-02-21). In Kraft seit 1. Juni 2014. 1. 1. 22 - 115 9
 
 #### § 8
 
@@ -315,7 +313,7 @@ Für Rapporte werden Bausteine mit Datenfeldern zur Verfügung gestellt. Mit den
 
 **5**
 
-- 1\. 7. 14 - 85
+- 1\. 1. 22 - 115
 
 <sup>4</sup> Gesuche werden von derjenigen Polizei bearbeitet, die für die entsprechenden Daten verantwortlich ist. Entspricht die Polizei dem Gesuch nicht, erlässt sie einen begründeten Entscheid.
 
@@ -360,17 +358,15 @@ Für Rapporte werden Bausteine mit Datenfeldern zur Verfügung gestellt. Mit den
 
 ### V. Schutz und Sicherheit der Daten
 
-[^hVSchutzundSicher-1]: Fassung gemäss RRB vom 12. Februar 2014 (OS 69, 203; ABl 2014-02-21). In Kraft seit 1. Juni 2014.
-
-#### § 14
-
 **Verantwortung und Aufsicht**
 
-<sup>1</sup> Für die Datenhaltung und -pflege ist die Polizei verantwortlich, welche die Daten zur Erfüllung ihrer Aufgaben bearbeitet oder bearbeiten lässt.[^hVSchutzundSicher-1]
+§ 14.[^hVSchutzundSicher-1] <sup>1</sup> Für die Datenhaltung und -pflege ist die Behörde verantwortlich, welche die Daten zur Erfüllung ihrer Aufgaben bearbeitet oder bearbeiten lässt.
 
-<sup>2</sup> Die an POLIS beteiligten Polizeien bestimmen je eine Datenverantwortliche oder einen Datenverantwortlichen. Diese koordinieren die Tätigkeiten unter der Hauptverantwortung der oder des Datenverantwortlichen der Kantonspolizei. Die Datenverantwortlichen überwachen die Einhaltung dieser Verordnung und der gestützt darauf erlassenen Weisungen.
+<sup>2</sup> Die an POLIS beteiligten Polizeien und das Forensische Institut Zürich bestimmen je eine Datenverantwortliche oder einen Datenverantwortlichen. Diese koordinieren die Tätigkeiten unter der Hauptverantwortung der oder des Datenverantwortlichen der Kantonspolizei. Die Datenverantwortlichen überwachen die Einhaltung dieser Verordnung und der gestützt darauf erlassenen Weisungen.
 
 <sup>3</sup> Die Aufsicht über POLIS obliegt den für die beteiligten Polizeien zuständigen Datenschutzbeauftragten.
+
+[^hVSchutzundSicher-1]: Fassung gemäss RRB vom 7. Juli 2021 (OS 76, 394; ABl 2021-07-16). In Kraft seit 1. Januar 2022.
 
 #### § 15
 
@@ -408,7 +404,7 @@ Für Rapporte werden Bausteine mit Datenfeldern zur Verfügung gestellt. Mit den
 
 **7**
 
-- 1\. 7. 14 - 85 § 18. <sup>1</sup> Dokumente und Verknüpfungen mit Personendaten werden mit den Geschäftsdaten gelöscht.
+- 1\. 1. 22 - 115 § 18. <sup>1</sup> Dokumente und Verknüpfungen mit Personendaten werden mit den Geschäftsdaten gelöscht.
 
 **Aufbewahrungsdauer**
 
@@ -456,7 +452,7 @@ Die Aufbewahrungsdauer von vor Inkrafttreten dieser Verordnung in POLIS erfasste
 
 Diese Verordnung tritt zusammen mit dem Polizeiorganisationsgesetz[^20-1] in Kraft[^20-2].
 
-[^21-1]: Aufgehoben durch RRB vom 12. Februar 2014 (OS 69, 203; ABl 2014-02-21). In Kraft seit 1. Juni 2014. 1. 7. 14 - 85 9
+[^21-1]: Aufgehoben durch RRB vom 12. Februar 2014 (OS 69, 203; ABl 2014-02-21). In Kraft seit 1. Juni 2014.
 
 ### Anhang
 
