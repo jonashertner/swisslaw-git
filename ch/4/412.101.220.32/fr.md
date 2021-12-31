@@ -3,18 +3,18 @@ sr: "412.101.220.32"
 title: Ordonnance du SEFRI du 9 octobre 2006 sur la formation professionnelle initiale de cuisinière en diététique/cuisinier en diététique avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/807"
 language: fr
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2006-10-09
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/807/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-807-20130101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/807/20130101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/807/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-807-20220101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/807/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du SEFRI**** sur la formation professionnelle initiale de cuisinière en diététique/cuisinier en diététique avec certificat fédéral de capacité (CFC)**\***
+# Ordonnance du SEFRI sur la formation professionnelle initiale de cuisinière en diététique/cuisinier en diététique avec certificat fédéral de capacité (CFC)\*
 
-du 9 octobre 2006 (Etat le 1<sup>er</sup> janvier 2013)[^t-1][^t-2]
+du 9 octobre 2006 (État le 1<sup>er</sup> janvier 2022)[^t-1][^t-2]
 
 [^t-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^t-2]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
@@ -349,3 +349,13 @@ Sont abrogés:
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2007.
 
 <sup>2</sup> Les dispositions relatives à la procédure de qualification, au certificat et au titre (art. 15 à 20) entrent en vigueur le 1<sup>er</sup> janvier 2008.
+
+## Dispositions transitoires relatives à l’abrogation du 15 juin 2021
+
+[^u1-1]
+
+[^u1-1]: [RO 2021 362](https://fedlex.data.admin.ch/eli/oc/2021/362).
+
+<sup>1</sup> Les personnes qui ont commencé leur formation de cuisinière en diététique / cuisinier en diététique avant le 1<sup>er</sup> janvier 2022 l’achèvent selon l’ancien droit, mais au plus tard le 31 décembre 2024.
+
+<sup>2</sup> La procédure de qualification peut être répétée selon l’ancien droit au plus tard jusqu’au 31 décembre 2024.

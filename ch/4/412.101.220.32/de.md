@@ -3,20 +3,20 @@ sr: "412.101.220.32"
 title: Verordnung des SBFI vom 9. Oktober 2006 über die berufliche Grundbildung Diätköchin/Diätkoch mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/807"
 language: de
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2006-10-09
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/807/20130101/de/xml/fedlex-data-admin-ch-eli-cc-2006-807-20130101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/807/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/807/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2006-807-20220101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/807/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung des SBFI**** über die berufliche Grundbildung Diätköchin/Diätkoch mit eidgenössischem Fähigkeitszeugnis (EFZ)
+# Verordnung des SBFI über die berufliche Grundbildung Diätköchin/Diätkoch mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 9. Oktober 2006 (Stand am 1. Januar 2013)[^t-1]
+vom 9. Oktober 2006 (Stand am 1. Januar 2022)[^t-1]
 
-[^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2013 angepasst.
+[^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst.
 
 <table>
 <tr><td>79004</td><td>Diätköchin EFZ/Diätkoch EFZ</td></tr>
@@ -178,11 +178,12 @@ Die fachlichen Mindestanforderungen an eine Berufsbildnerin oder einen Berufsbil
 
 **Höchstzahl der Lernenden**
 
-<sup>1</sup> b. zwei entsprechend qualifizierte Berufsbildnerinnen oder entsprechend qualifizierte Berufsbildner zu je mindestens 60 Prozent beschäftigt werden.
+<sup>1</sup>
 
 In einem Betrieb darf eine lernende Person ausgebildet werden, wenn:
 
 - a. eine entsprechend qualifizierte Berufsbildnerin oder ein entsprechend qualifizierter Berufsbildner zu 100 Prozent beschäftigt wird; oder
+- b. zwei entsprechend qualifizierte Berufsbildnerinnen oder entsprechend qualifizierte Berufsbildner zu je mindestens 60 Prozent beschäftigt werden.
 
 <sup>2</sup> Mit jeder zusätzlichen Beschäftigung einer Fachkraft zu 100 Prozent oder von 2 Fachkräften zu je mindestens 60 Prozent darf eine weitere lernende Person im Betrieb ausgebildet werden.
 
@@ -324,8 +325,6 @@ Die Kommission hat folgende Aufgaben:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup>
-
 Es werden aufgehoben:
 
 - a. das Reglement vom 5. Dezember 1986[^22-1] über die Ausbildung und die Lehrabschlussprüfung der Diätköchinnen und Diätköche;
@@ -349,3 +348,13 @@ Es werden aufgehoben:
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 2007 in Kraft.
 
 <sup>2</sup> Die Bestimmungen über Qualifikationsverfahren, Ausweise und Titel (Art. 15–20) treten am 1. Januar 2008 in Kraft.
+
+## Übergangsbestimmungen zur Aufhebung vom 15. Juni 2021
+
+[^u1-1]
+
+[^u1-1]: [AS 2021 362](https://fedlex.data.admin.ch/eli/oc/2021/362)
+
+<sup>1</sup> Lernende, die ihre Bildung als Diätköchin/Diätkoch vor dem 1. Januar 2022 begonnen haben, schliessen sie nach bisherigem Recht ab, längstens jedoch bis zum 31. Dezember 2024.
+
+<sup>2</sup> Das Qualifikationsverfahren kann längstens bis zum 31. Dezember 2024 nach bisherigem Recht wiederholt werden.

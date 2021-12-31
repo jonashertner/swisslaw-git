@@ -3,20 +3,20 @@ sr: "412.101.220.32"
 title: Ordinanza della SEFRI del 9 ottobre 2006 sulla formazione professionale di base Cuoca in dietetica/Cuoco in dietetica con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/807"
 language: it
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2006-10-09
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/807/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2006-807-20130101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/807/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/807/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2006-807-20220101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/807/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza della SEFRI**** sulla formazione professionale di base Cuoca in dietetica/Cuoco in dietetica con attestato federale di capacità (AFC)
+# Ordinanza della SEFRI sulla formazione professionale di base Cuoca in dietetica / Cuoco in dietetica con attestato federale di capacità (AFC)
 
-del 9 ottobre 2006 (Stato 1° gennaio 2013)[^t-1]
+del 9 ottobre 2006 (Stato 1° gennaio 2022)[^t-1]
 
-[^t-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2013.
+[^t-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
 
 <table>
 <tr><td>79004</td><td>Cuoca in dietetica AFC/Cuoco in dietetica AFC</td></tr>
@@ -325,8 +325,6 @@ La Commissione ha i seguenti compiti:
 
 **Abrogazione del diritto previgente**
 
-<sup>1</sup>
-
 Sono abrogati:
 
 - a. il regolamento del 5 dicembre 1986[^22-1] concernente il tirocinio e l’esame finale di tirocinio per cuochi dietisti;
@@ -350,3 +348,13 @@ Sono abrogati:
 <sup>1</sup> La presente ordinanza entra in vigore il 1° gennaio 2007.
 
 <sup>2</sup> Le disposizioni concernenti la procedura di qualificazione, le attestazioni e il titolo (articoli da 15 a 20) entrano in vigore il 1° gennaio 2008.
+
+## Disposizioni transitorie dell’abrogazione del 15 giugno 2021
+
+[^u1-1]
+
+[^u1-1]: [RU 2021 362](https://fedlex.data.admin.ch/eli/oc/2021/362)
+
+<sup>1</sup> Le persone che hanno iniziato la formazione di cuoco dietista prima del 1° gennaio 2022 la portano a termine in base al diritto anteriore, al massimo però entro il 31 dicembre 2024.
+
+<sup>2</sup> La procedura di qualificazione può essere ripetuta per l’ultima volta entro il 31 dicembre 2024 in base al diritto anteriore.
