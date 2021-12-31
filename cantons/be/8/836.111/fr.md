@@ -4,13 +4,13 @@ number: "836.111"
 title: Ordonnance sur le marché du travail
 short: OMT
 language: fr
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-17
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-11-17
 adopted: 2003-10-29
 in_force: 2004-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/836.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2180/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2433/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2180/pdf_file"
 
 (OMT)
 
-du 29.10.2003 (état au 01.04.2021)
+du 29.10.2003 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -205,6 +205,35 @@ arrête:
 <sup>1</sup> Le service sollicité pour gérer un cas recueille une déclaration de consentement pour le traitement et la communication des données auprès de la personne soumise à examen.
 
 <sup>2</sup> Les institutions visées à l'article 14 LMT ne transmettent que les données personnelles nécessaires pour l'examen au service sollicité pour gérer le cas.
+
+### 2.1b Service public de l'emploi
+
+#### Art. 17e
+
+**Enregistrement des entretiens avec la clientèle**
+
+<sup>1</sup> A des fins d'assurance-qualité et de formation de ses collaborateurs et collaboratrices, l'OAC peut procéder à des enregistrements vidéo et audio des entretiens menés avec la clientèle.
+
+<sup>2</sup> L'enregistrement d'un entretien n'est autorisé qu'avec le consentement exprès de toutes les personnes qui y participent.
+
+#### Art. 17f
+
+**Consentement**
+
+<sup>1</sup> L'OAC recueille le consentement écrit de toutes les personnes participantes avant d'enregistrer l'entretien.
+
+<sup>2</sup> Avant tout enregistrement d'un entretien, les clients et les clientes concernés sont informés qu'ils sont libres de donner ou refuser leur consentement et qu'ils peuvent le révoquer à tout moment.
+
+<sup>3</sup> Les personnes participantes n'encourent aucun préjudice si elles ne consentent pas à l'enregistrement ou qu'elles révoquent leur consentement.
+
+#### Art. 17g
+
+**Suppression des enregistrements**
+
+<sup>1</sup> Les enregistrements doivent être supprimés
+
+- a dans un délai de six mois à compter de leur réalisation,
+- b immédiatement, dès que les personnes y ayant participé révoquent leur consentement.
 
 ### 2.2 Placement privé et location de services
 

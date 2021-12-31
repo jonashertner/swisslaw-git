@@ -4,13 +4,13 @@ number: "836.111"
 title: Arbeitsmarktverordnung
 short: AMV
 language: de
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-17
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-11-17
 adopted: 2003-10-29
 in_force: 2004-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/836.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2180/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2433/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2180/pdf_file"
 
 (AMV)
 
-vom 29.10.2003 (Stand 01.04.2021)
+vom 29.10.2003 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -205,6 +205,35 @@ beschliesst:
 <sup>1</sup> Die fallführende Stelle holt für die Datenbearbeitung und Datenbekanntgabe eine Einwilligungserklärung bei der zu beurteilenden Person ein.
 
 <sup>2</sup> Die Institutionen gemäss Artikel 14 AMG übermitteln der fallführenden Stelle nur die Personendaten, die zur Beurteilung notwendig sind.
+
+### 2.1b Öffentliche Arbeitsvermittlung
+
+#### Art. 17e
+
+**Aufzeichnung von Kundengesprächen**
+
+<sup>1</sup> Das AVA kann zur Qualitätssicherung und zur Weiterbildung von Mitarbeiterinnen und Mitarbeitern Video- und Audioaufzeichnungen von Gesprächen mit Kundinnen und Kunden erstellen.
+
+<sup>2</sup> Die Aufzeichnung der Gespräche ist nur mit ausdrücklicher Einwilligung aller Beteiligten erlaubt.
+
+#### Art. 17f
+
+**Einwilligung**
+
+<sup>1</sup> Das AVA holt vor der Aufzeichnung der Gespräche die schriftliche Einwilligung aller beteiligten Personen ein.
+
+<sup>2</sup> Vor jedem aufzuzeichnenden Gespräch sind die betroffenen Kundinnen und Kunden darauf hinzuweisen, dass die Einwilligung freiwillig ist und jederzeit ohne Begründung widerrufen werden kann.
+
+<sup>3</sup> Den beteiligten Personen darf kein Nachteil erwachsen, wenn sie nicht einwilligen oder die Einwilligung widerrufen.
+
+#### Art. 17g
+
+**Vernichtung der Aufzeichnungen**
+
+<sup>1</sup> Die Aufzeichnungen sind
+
+- a innerhalb von sechs Monaten seit der Aufzeichnung zu vernichten,
+- b umgehend zu vernichten, sobald die Beteiligten ihre Einwilligung widerrufen.
 
 ### 2.2 Private Arbeitsvermittlung und Personalverleih
 
