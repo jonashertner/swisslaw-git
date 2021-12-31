@@ -4,20 +4,20 @@ title: "Loi fédérale du 25 juin 1954 sur les brevets d'invention (Loi sur les 
 short: LBI
 eli: "https://fedlex.data.admin.ch/eli/cc/1955/871_893_899"
 language: fr
-version: 2019-04-01
+version: 2022-01-01
 adopted: 1954-06-25
 in_force: 1956-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20190401/fr/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20190401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20190401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20220101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur les brevets d’invention
 
-(Loi sur les brevets, LBI)**[^t-1]**
+(Loi sur les brevets, LBI)[^t-1]
 
-du 25 juin 1954 (Etat le 1<sup>er</sup> avril 2019)
+du 25 juin 1954 (État le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
@@ -50,7 +50,7 @@ arrête:
 
 <sup>2</sup> Ce qui découle d’une manière évidente de l’état de la technique (art. 7, al. 2) ne constitue pas une invention brevetable.[^1-1]
 
-<sup>3</sup> Les brevets sont délivrés sans garantie de l’Etat.[^1-2]
+<sup>3</sup> Les brevets sont délivrés sans garantie de l’État.[^1-2]
 
 [^1-1]: Nouvelle teneur selon l’art. 2 de l’AF du 16 déc. 2005 relatif à l’approbation de l’Acte portant révision de la conv. sur le brevet européen et à la mod. de la L sur les brevets, en vigueur depuis le 13 déc. 2007 ([RO 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3569](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 [^1-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
@@ -152,7 +152,7 @@ Au cours de la procédure devant l’Institut fédéral de la propriété intell
 
 ### E. Nouveauté de l’invention
 
-### I. Etat de la technique
+### I. État de la technique
 
 #### Art. 7
 
@@ -294,7 +294,7 @@ Les effets du brevet ne s’étendent pas:
 <sup>2</sup> Les accords qui limitent ou annulent les exceptions visées à l’al. 1 sont nuls.
 
 [^9-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^9-2]: Introduite par le ch. 2 de l’annexe à la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^9-2]: Introduite par l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^9-3]: Introduite par l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ### II. En particulier
@@ -311,7 +311,7 @@ Les effets du brevet ne s’étendent pas:
 
 <sup>4</sup> Lorsqu’une marchandise brevetée est mise en circulation hors de l’Espace économique européen par le titulaire du brevet ou avec son accord et que par rapport aux caractéristiques fonctionnelles de cette marchandise la protection découlant du brevet revêt une importance moindre, la marchandise peut être importée à titre professionnel. La protection découlant du brevet est supposée d’importance moindre si le titulaire du brevet ne rend pas vraisemblable le contraire.
 
-<sup>5</sup> Nonobstant les al. 1 à 4, une marchandise brevetée ne peut être mise en circulation en Suisse qu’avec l’accord du titulaire du brevet lorsque, en Suisse ou dans le pays de mise en circulation, le prix de cette marchandise est imposé par l’Etat.
+<sup>5</sup> Nonobstant les al. 1 à 4, une marchandise brevetée ne peut être mise en circulation en Suisse qu’avec l’accord du titulaire du brevet lorsque, en Suisse ou dans le pays de mise en circulation, le prix de cette marchandise est imposé par l’État.
 
 [^9a-1]: Introduit par le ch. I de la LF du 22 juin 2007 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)). Nouvelle teneur selon le ch. I de la LF du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> juil. 2009 ([RO 2009 2615](https://fedlex.data.admin.ch/eli/oc/2009/349); [FF 2008 257](https://fedlex.data.admin.ch/eli/fga/2008/109)).
 
@@ -351,7 +351,7 @@ Les effets du brevet ne s’étendent pas:
 
 <sup>1</sup>
 
-Quiconque participe à une procédure administrative prévue dans la présente loi sans avoir de domicile ou de siège en Suisse doit élire un domicile de notification en Suisse, à moins que le droit international ou l’autorité étrangère compétente n’autorise la notification directe dans l’Etat considéré.[^13-2] Le domicile de notification n’est pas nécessaire pour: [^13-3]
+Quiconque participe à une procédure administrative prévue dans la présente loi sans avoir de domicile ou de siège en Suisse doit élire un domicile de notification en Suisse, à moins que le droit international ou l’autorité étrangère compétente n’autorise la notification directe dans l’État considéré.[^13-2] Le domicile de notification n’est pas nécessaire pour:[^13-3]
 
 - a. la présentation d’une demande de brevet dans le but de faire reconnaître une date de dépôt;
 - b. le paiement de taxes, le dépôt de traductions, la présentation et le traitement de requêtes après la délivrance du brevet et de requêtes ne donnant pas lieu à des notifications.[^13-4]
@@ -686,7 +686,7 @@ Le brevet est réputé n’avoir jamais produit d’effets dans la mesure où le
 
 [^35a-1]: Introduit par l’art. 2 ch. 2 de l’AF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> sept. 2008 ([RO 2008 3897](https://fedlex.data.admin.ch/eli/oc/2008/526); [FF 2004 3929](https://fedlex.data.admin.ch/eli/fga/2004/683)).
 
-### II. Etendue et indemnisation
+### II. Étendue et indemnisation
 
 #### Art. 35b
 
@@ -840,7 +840,7 @@ Dans le cas d’une invention portant sur un produit ou un procédé de diagnost
 
 [^40e-1]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-### Chapitre 6 Taxes****
+### Chapitre 6 Taxes
 
 [^tit1-chap6-1]
 
@@ -866,7 +866,7 @@ L’obtention et le maintien en vigueur d’un brevet, ainsi que le traitement d
 
 [^4546-1]: Abrogés par le ch. I de la LF du 17 déc. 1976, avec effet au 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Chapitre 7 Poursuite de la procédure et réintégration en l’état antérieur****
+### Chapitre 7 Poursuite de la procédure et réintégration en l’état antérieur
 
 [^tit1-chap7-1]
 
@@ -945,7 +945,7 @@ Le brevet ne peut pas être opposé à celui qui, durant les périodes indiquée
 [^48-1]: Référence abrogée par l’annexe ch. 4 de la LF du 24 mars 1995 sur le statut et les tâches de l’Institut fédéral de la Propriété intellectuelle, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 951](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 [^48-2]: Nouvelle teneur selon le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
-### Chapitre 8**** Représentation et surveillance
+### Chapitre 8 Représentation et surveillance
 
 [^tit1-chap8-1]
 
@@ -1075,9 +1075,9 @@ La demande de brevet doit contenir des indications concernant la source:
 
 Chaque revendication indépendante ne pourra définir qu’une seule invention, savoir:
 
-- a. un procédé; ou
-- b. un produit, un moyen pour la mise en œuvre d’un procédé ou un dispositif; ou
-- c. l’application d’un procédé; ou
+- a. un procédé, ou
+- b. un produit, un moyen pour la mise en œuvre d’un procédé ou un dispositif, ou
+- c. l’application d’un procédé, ou
 - d. l’utilisation d’un produit.
 
 <sup>2</sup> Un brevet peut contenir plusieurs revendications indépendantes lorsqu’elles définissent une pluralité d’inventions liées entre elles de telle sorte qu’elles ne forment qu’un seul concept inventif général.
@@ -1149,7 +1149,7 @@ Est réputé date de dépôt le jour où le dernier des éléments suivants est 
 Une demande de brevet issue de la scission d’une demande antérieure portera la même date de dépôt que cette dernière:
 
 - a. si, lors de son dépôt, elle a été désignée expressément comme demande scindée;
-- b. si, au moment du dépôt de la demande scindée, la demande antérieure était encore pendante; et
+- b. si, au moment du dépôt de la demande scindée, la demande antérieure était encore pendante, et
 - c. dans la mesure où son objet ne va pas au delà du contenu de la demande antérieure dans sa version initiale.
 
 <sup>2</sup> …[^57-2]
@@ -1268,7 +1268,7 @@ L’IPI rejette la demande si:
 
 [^59d-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogé par le ch. I de la LF du 22 juin 2007, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-### Chapitre 3 Registre des brevets; publications faites par l’IPI; communication électronique avec les autorités****
+### Chapitre 3 Registre des brevets; publications faites par l’IPI; communication électronique avec les autorités
 
 [^tit2-chap3-1]
 
@@ -1660,19 +1660,20 @@ Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal adminis
 [^86-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^86-2]: Abrogé par l’annexe ch. 11 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
 
-### Chapitre 4**** Intervention de l’Administration des douanes
+### Chapitre 4 Intervention de l’Office fédéral de la douane et de la sécurité des frontières
 
-[^tit3-chap4-1]
+[^tit3-chap4-1][^tit3-chap4-2]
 
 [^tit3-chap4-1]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^tit3-chap4-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ### A. Dénonciation de marchandises suspectes
 
 #### Art. 86a
 
-<sup>1</sup> L’Administration des douanes est habilitée à informer le titulaire du brevet lorsqu’il y a lieu de soupçonner que l’introduction dans le territoire douanier suisse de marchandises portant atteinte à un brevet valable en Suisse ou leur sortie sont imminentes.[^86a-1]
+<sup>1</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF) est habilité à informer le titulaire du brevet lorsqu’il y a lieu de soupçonner que l’introduction dans le territoire douanier suisse de marchandises portant atteinte à un brevet valable en Suisse ou leur sortie sont imminentes.[^86a-1]
 
-<sup>2</sup> Dans ce cas, l’Administration des douanes est habilitée à retenir les marchandises pendant trois jours ouvrables afin de permettre au titulaire de déposer une demande au sens de l’art. 86*b,* al. 1.
+<sup>2</sup> Dans ce cas, l’OFDF est habilité à retenir les marchandises pendant trois jours ouvrables afin de permettre au titulaire de déposer une demande au sens de l’art. 86*b,* al. 1.
 
 [^86a-1]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
@@ -1680,11 +1681,11 @@ Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal adminis
 
 #### Art. 86b
 
-<sup>1</sup> Si le titulaire du brevet ou le preneur de licence qui a qualité pour agir ont des indices concrets permettant de soupçonner que l’introduction dans le territoire douanier suisse de marchandises portant atteinte à un brevet valable en Suisse ou leur sortie sont imminentes, ils peuvent demander par écrit à l’Administration des douanes de refuser la mainlevée de ces marchandises.[^86b-1]
+<sup>1</sup> Si le titulaire du brevet ou le preneur de licence qui a qualité pour agir ont des indices concrets permettant de soupçonner que l’introduction dans le territoire douanier suisse de marchandises portant atteinte à un brevet valable en Suisse ou leur sortie sont imminentes, ils peuvent demander par écrit à l’OFDF de refuser la mainlevée de ces marchandises.[^86b-1]
 
-<sup>2</sup> Le requérant fournit à l’Administration des douanes toutes les indications dont il dispose et dont celle-ci a besoin pour statuer sur la demande; il lui remet notamment une description précise des marchandises.
+<sup>2</sup> Le requérant fournit à l’OFDF toutes les indications dont il dispose et dont celui-ci a besoin pour statuer sur la demande; il lui remet notamment une description précise des marchandises.
 
-<sup>3</sup> L’Administration des douanes statue définitivement sur la demande. Elle peut percevoir un émolument pour couvrir les frais administratifs.
+<sup>3</sup> L’OFDF statue définitivement sur la demande. Il peut percevoir un émolument pour couvrir les frais administratifs.
 
 [^86b-1]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
@@ -1692,19 +1693,19 @@ Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal adminis
 
 #### Art. 86c
 
-<sup>1</sup> Si, à la suite d’une demande au sens de l’art. 86*b*, al. 1, l’Adminis-tration des douanes a des raisons fondées de soupçonner l’introduction dans le territoire suisse de marchandises portant atteinte à un brevet valable en Suisse ou leur sortie, elle en informe le requérant, d’une part, et le déclarant, le possesseur ou le propriétaire des marchandises, d’autre part.[^86c-1]
+<sup>1</sup> Si, à la suite d’une demande au sens de l’art. 86*b*, al. 1, l’OFDF a des raisons fondées de soupçonner l’introduction dans le territoire suisse de marchandises portant atteinte à un brevet valable en Suisse ou leur sortie, il en informe le requérant, d’une part, et le déclarant, le possesseur ou le propriétaire des marchandises, d’autre part.[^86c-1]
 
-<sup>2</sup> Afin de permettre au requérant d’obtenir des mesures provisionnelles, elle retient les marchandises durant dix jours ouvrables au plus à compter du moment de l’information au sens de l’al. 1.
+<sup>2</sup> Afin de permettre au requérant d’obtenir des mesures provisionnelles, il retient les marchandises durant dix jours ouvrables au plus à compter du moment de l’information au sens de l’al. 1.
 
-<sup>3</sup> Si les circonstances le justifient, elle peut retenir les marchandises pendant une durée supplémentaire de dix jours ouvrables au plus.
+<sup>3</sup> Si les circonstances le justifient, il peut retenir les marchandises pendant une durée supplémentaire de dix jours ouvrables au plus.
 
 [^86c-1]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
-### D. Echantillons
+### D. Échantillons
 
 #### Art. 86d
 
-<sup>1</sup> Sur demande, l’Administration des douanes est habilitée, pendant la durée de la rétention des marchandises, à remettre ou à envoyer au requérant des échantillons à des fins d’examen ou à le laisser examiner sur place les marchandises retenues.
+<sup>1</sup> Sur demande, l’OFDF est habilité, pendant la durée de la rétention des marchandises, à remettre ou à envoyer au requérant des échantillons à des fins d’examen ou à le laisser examiner sur place les marchandises retenues.
 
 <sup>2</sup> Le requérant supporte les frais liés au prélèvement et à l’envoi des échantillons.
 
@@ -1714,11 +1715,11 @@ Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal adminis
 
 #### Art. 86e
 
-<sup>1</sup> En même temps que la communication visée à l’art. 86*c*, al. 1, l’Administration des douanes informe le déclarant, le possesseur ou le propriétaire des marchandises de la possibilité, prévue à l’art. 86*d*, al. 1, de remettre des échantillons au requérant ou de le laisser examiner sur place les marchandises retenues.
+<sup>1</sup> En même temps que la communication visée à l’art. 86*c*, al. 1, l’OFDF informe le déclarant, le possesseur ou le propriétaire des marchandises de la possibilité, prévue à l’art. 86*d*, al. 1, de remettre des échantillons au requérant ou de le laisser examiner sur place les marchandises retenues.
 
 <sup>2</sup> Le déclarant, le possesseur ou le propriétaire des marchandises peut demander d’assister à l’examen afin de protéger ses secrets de fabrication ou d’affaires.
 
-<sup>3</sup> Sur demande motivée du déclarant, du possesseur ou du propriétaire des marchandises, l’Administration des douanes peut refuser la remise d’échantillons.
+<sup>3</sup> Sur demande motivée du déclarant, du possesseur ou du propriétaire des marchandises, l’OFDF peut refuser la remise d’échantillons.
 
 ### F. Demande de destruction des marchandises
 
@@ -1726,9 +1727,9 @@ Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal adminis
 
 #### Art. 86f
 
-<sup>1</sup> Lorsqu’il dépose une demande au sens de l’art. 86*b*, al. 1, le requérant peut demander par écrit à l’Administration des douanes la destruction des marchandises.
+<sup>1</sup> Lorsqu’il dépose une demande au sens de l’art. 86*b*, al. 1, le requérant peut demander par écrit à l’OFDF la destruction des marchandises.
 
-<sup>2</sup> Lorsqu’une demande de destruction est déposée, l’Administration des douanes en informe le déclarant, le possesseur ou le propriétaire des marchandises dans le cadre de l’information visée à l’art. 86*c*, al. 1.
+<sup>2</sup> Lorsqu’une demande de destruction est déposée, l’OFDF en informe le déclarant, le possesseur ou le propriétaire des marchandises dans le cadre de l’information visée à l’art. 86*c*, al. 1.
 
 <sup>3</sup> La demande de destruction ne donne pas lieu à une prolongation des délais prévus à l’art. 86*c*, al. 2 et 3, pour l’obtention de mesures provisionnelles.
 
@@ -1744,7 +1745,7 @@ Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal adminis
 
 #### Art. 86h
 
-Avant la destruction des marchandises, l’Administration des douanes prélève des échantillons et les conserve en tant que moyens de preuve en vue d’une éventuelle action en dommages-intérêts.
+Avant la destruction des marchandises, l’OFDF prélève des échantillons et les conserve en tant que moyens de preuve en vue d’une éventuelle action en dommages-intérêts.
 
 ### IV. Dommages-intérêts
 
@@ -1766,7 +1767,7 @@ Avant la destruction des marchandises, l’Administration des douanes prélève 
 
 #### Art. 86k
 
-<sup>1</sup> Si la rétention des marchandises risque d’occasionner un dommage, l’Administration des douanes peut la subordonner à la condition que le requérant lui fournisse une déclaration de responsabilité. Si les circonstances le justifient, elle peut, en lieu et place, exiger du requérant qu’il fournisse des sûretés adéquates.
+<sup>1</sup> Si la rétention des marchandises risque d’occasionner un dommage, l’OFDF peut la subordonner à la condition que le requérant lui fournisse une déclaration de responsabilité. Si les circonstances le justifient, il peut, en lieu et place, exiger du requérant qu’il fournisse des sûretés adéquates.
 
 <sup>2</sup> Le requérant est tenu de réparer le dommage causé par la rétention des marchandises et par le prélèvement d’échantillons si des mesures provisionnelles n’ont pas été ordonnées ou si elles se sont révélées infondées.
 
@@ -1820,13 +1821,13 @@ Avant la destruction des marchandises, l’Administration des douanes prélève 
 
 [^107108-1]: Abrogés par le ch. I de la LF du 17 déc. 1976, avec effet au 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-## Titre cinquième Demandes de brevet européen et brevets européens****
+## Titre cinquième Demandes de brevet européen et brevets européens
 
 [^tit5-1]
 
 [^tit5-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Chapitre 1 Droit applicable****
+### Chapitre 1 Droit applicable
 
 [^tit5-chap1-1]
 
@@ -1847,7 +1848,7 @@ Avant la destruction des marchandises, l’Administration des douanes prélève 
 [^109-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^109-2]: [RS 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)
 
-### Chapitre 2 Effets de la demande de brevet européen et du brevet européen, modifications quant à l’existence du brevet européen****
+### Chapitre 2 Effets de la demande de brevet européen et du brevet européen, modifications quant à l’existence du brevet européen
 
 [^tit5-chap2-1]
 
@@ -1897,7 +1898,7 @@ Toute modification quant à l’existence du brevet européen résultant d’une
 
 [^112116-1]: Abrogés par l’art. 2 de l’AF du 16 déc. 2005 relatif à l’approbation de l’ac. sur l’application de l’art. 65 de la conv. sur le brevet européen et à la modification de la L sur les brevets, avec effet au 1<sup>er</sup> mai 2008 ([RO 2008 1739](https://fedlex.data.admin.ch/eli/oc/2008/251); [FF 2005 3569](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 
-### Chapitre 3 Administration du brevet européen****
+### Chapitre 3 Administration du brevet européen
 
 [^tit5-chap3-1]
 
@@ -1927,15 +1928,15 @@ L’IPI publie les inscriptions portées au registre suisse des brevets europée
 
 [^119-1]
 
-[^119-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogé par le ch. 4 de l’annexe à la LF du 24 mars 1995 sur le statut et les tâches de l’Institut fédéral de la Propriété intellectuelle, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 951](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
+[^119-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogé par l’annexe ch. 4 de la LF du 24 mars 1995 sur le statut et les tâches de l’Institut fédéral de la Propriété intellectuelle, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 951](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 
 #### Art. 120
 
 [^120-1]
 
-[^120-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogé par le ch. 3 de l’annexe à la LF du 20 mars 2009 sur les conseils en brevets, avec effet au 1<sup>er</sup> juil. 2011 ([RO 2011 2259](https://fedlex.data.admin.ch/eli/oc/2011/312); [FF 2008 327](https://fedlex.data.admin.ch/eli/fga/2008/143)).
+[^120-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogé par l’annexe ch. 3 de la LF du 20 mars 2009 sur les conseils en brevets, avec effet au 1<sup>er</sup> juil. 2011 ([RO 2011 2259](https://fedlex.data.admin.ch/eli/oc/2011/312); [FF 2008 327](https://fedlex.data.admin.ch/eli/fga/2008/143)).
 
-### Chapitre 4 Transformation de la demande de brevet européen****
+### Chapitre 4 Transformation de la demande de brevet européen
 
 [^tit5-chap4-1]
 
@@ -1998,7 +1999,7 @@ Si la langue dans laquelle le texte initial de la demande de brevet européen es
 
 [^124-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Chapitre 5 Dispositions concernant la protection de droit civil et de droit pénal****
+### Chapitre 5 Dispositions concernant la protection de droit civil et de droit pénal
 
 [^tit5-chap5-1]
 
@@ -2016,7 +2017,7 @@ Si la langue dans laquelle le texte initial de la demande de brevet européen es
 
 Dans la mesure où, pour la même invention, un brevet suisse et un brevet européen ayant effet en Suisse ont été délivrés au même inventeur ou à son ayant cause avec la même date de dépôt ou de priorité, le brevet suisse ne porte plus effet dès la date à laquelle:
 
-- a. le délai pour former opposition au brevet européen est échu; ou
+- a. le délai pour former opposition au brevet européen est échu, ou
 - b. la procédure d’opposition a définitivement abouti au maintien en vigueur du brevet européen.
 
 <sup>2</sup> L’art. 27 est applicable par analogie.
@@ -2075,7 +2076,7 @@ Le juge peut suspendre la procédure portant sur un brevet européen et notammen
 
 [^129-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Chapitre 6 Commissions rogatoires émanant de l’Office européen des brevets****
+### Chapitre 6 Commissions rogatoires émanant de l’Office européen des brevets
 
 [^tit5-chap6-1]
 
@@ -2091,13 +2092,13 @@ L’IPI reçoit les commissions rogatoires émanant de l’Office européen des 
 
 [^130-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-## Titre sixième Demandes internationales de brevet****
+## Titre sixième Demandes internationales de brevet
 
 [^tit6-1]
 
 [^tit6-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Chapitre 1 Droit applicable****
+### Chapitre 1 Droit applicable
 
 [^tit6-chap1-1]
 
@@ -2119,7 +2120,7 @@ L’IPI reçoit les commissions rogatoires émanant de l’Office européen des 
 [^131-2]: [RS 0.232.141.1](https://fedlex.data.admin.ch/eli/cc/1978/900_900_900)
 [^131-3]: Nouvelle teneur selon le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
-### Chapitre 2 Demandes déposées en Suisse****
+### Chapitre 2 Demandes déposées en Suisse
 
 [^tit6-chap2-1]
 
@@ -2149,7 +2150,7 @@ L’IPI agit en tant qu’office récepteur au sens de l’art. 2 du traité de 
 
 [^133-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Chapitre 3 Demandes désignant la Suisse; office élu****
+### Chapitre 3 Demandes désignant la Suisse; office élu
 
 [^tit6-chap3-1]
 
@@ -2232,14 +2233,14 @@ Le requérant doit, à l’intention de l’IPI, dans un délai de 30 mois à co
 
 [^140-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-## Titre septième**** Certificats complémentaires de protection****
+## Titre septième Certificats complémentaires de protection
 
 [^tit7-1][^tit7-2]
 
 [^tit7-1]: Introduit par le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879): [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 [^tit7-2]: Nouvelle teneur selon le ch. I de la LF du 9 oct. 1998, en vigueur depuis le 1<sup>er</sup> mai 1999 ([RO 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1346).
 
-### Chapitre 1 Certificats complémentaires de protection pour les médicaments****
+### Chapitre 1 Certificats complémentaires de protection pour les médicaments
 
 [^tit7-chap1-1]
 
@@ -2400,7 +2401,7 @@ Le certificat est nul si:
 
 Les dispositions des titres premier, deuxième, troisième et cinquième de la présente loi s’appliquent par analogie, dans la mesure où les dispositions relatives aux certificats ne prévoient rien.
 
-### Chapitre 2**** Prolongation de la durée des certificats complémentaires de protection pour les médicaments
+### Chapitre 2 Prolongation de la durée des certificats complémentaires de protection pour les médicaments
 
 [^tit7-chap2-1]
 
@@ -2457,7 +2458,7 @@ La prolongation de la durée de la protection du certificat donne lieu au paieme
 
 <sup>2</sup> Il tient compte de la réglementation dans l’UE.
 
-### Chapitre 2*a***** Certificats complémentaires de protection pédiatriques pour les médicaments
+### Chapitre 2*a* Certificats complémentaires de protection pédiatriques pour les médicaments
 
 [^tit7-chap2a-1]
 
@@ -2529,7 +2530,7 @@ Le certificat pédiatrique est nul:
 
 Les art. 140*a*, al. 1<sup>bis</sup> et 2, 140*d*, 140*g*, 140*i*, 140*l*, al. 1, et 140*m* s’appliquent par analogie.
 
-### Chapitre 3**** Certificats complémentaires de protection pour les produits phytosanitaires
+### Chapitre 3 Certificats complémentaires de protection pour les produits phytosanitaires
 
 [^tit7-chap3-1]
 
@@ -2548,7 +2549,7 @@ Sont considérés comme des principes actifs les substances ou micro-organismes,
 - a. contre les organismes nuisibles;
 - b. sur les végétaux, parties de végétaux ou produits végétaux.
 
-## Titre final: Dispositions finales et transitoires****
+## Titre final: Dispositions finales et transitoires
 
 [^u1-1]
 

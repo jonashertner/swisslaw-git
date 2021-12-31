@@ -4,11 +4,11 @@ title: "Federal Act of 25 June 1954 on Patents for Inventions (Patents Act, PatA
 short: PatA
 eli: "https://fedlex.data.admin.ch/eli/cc/1955/871_893_899"
 language: en
-version: 2019-04-01
+version: 2022-01-01
 adopted: 1954-06-25
 in_force: 1956-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20190401/en/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20190401-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20190401/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20190401/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-(Patents Act, PatA)**[^t-1]**
+(Patents Act, PatA)[^t-1]
 
-of 25 June 1954 (Status as of 1 April 2019)
+of 25 June 1954 (Status as of 1 January 2022)
 
 [^t-1]: Amended by No I of the FA of 3 Feb. 1995, in force since 1 Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
@@ -842,7 +842,7 @@ For inventions concerning a diagnostic product or procedure for humans, a non-ex
 
 [^40e-1]: Inserted by No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-### Section 6 Fees****
+### Section 6 Fees
 
 [^tit1-chap6-1]
 
@@ -868,7 +868,7 @@ The obtainment and maintenance of a patent and the processing of special request
 
 [^4546-1]: Repealed by No I of the FA of 17 Dec. 1976, with effect from 1 Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Section 7 Further Processing and Re-Establishment of Rights****
+### Section 7 Further Processing and Re-Establishment of Rights
 
 [^tit1-chap7-1]
 
@@ -947,7 +947,7 @@ The patent may not be invoked against any person who, during the following perio
 [^48-1]: Reference deleted by Annex No 4 of the FA of 24 March 1995 on the Statute and Tasks of the Swiss Federal Institute of Intellectual Property, with effect from 1 Jan. 1996 ([AS 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [BBl 1994 III 964](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 [^48-2]: Amended by No I of the FA of 3 Feb. 1995, in force since 1 Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
-### Section 8**** Representation and Supervision
+### Section 8 Representation and Supervision
 
 [^tit1-chap8-1]
 
@@ -992,6 +992,7 @@ The patent application must contain:
 - a. a request for the grant of a patent;
 - [tab] b.[^49-1]a description of the invention and, where a claim is made for a sequence derived from a sequence or partial sequence of a gene, a specific description of the function it performs;
 - c. one or more patent claims;
+
 - d. the drawings to which the description or claims of the patent refer;
 - e. an abstract.[^49-2]
 
@@ -1274,7 +1275,7 @@ The Institute shall reject the patent application if:
 
 [^59d-1]: Inserted by No I of the FA of 17 Dec. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Repealed by No I of the FA of 22 June 2007, with effect from 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-### Section 3 Patent Register; Publications by the IPI; Electronic Administrative Communication****
+### Section 3 Patent Register; Publications by the IPI; Electronic Administrative Communication
 
 [^tit2-chap3-1]
 
@@ -1662,19 +1663,20 @@ In the case of infringements within businesses committed by subordinates, agents
 [^86-1]: Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^86-2]: Repealed by Annex No 11 of the Civil Jurisdiction Act of 24 March 2000, with effect from 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
 
-### Section 4**** Assistance Provided by the Customs Administration
+### Section 4 Assistance Provided by the Federal Office for Customs and Border Security
 
-[^tit3-chap4-1]
+[^tit3-chap4-1][^tit3-chap4-2]
 
 [^tit3-chap4-1]: Inserted by No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^tit3-chap4-2]: The name of the administrative unit was modified on 1 Jan. 2022 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
 
 ### A. Notification of suspicious goods
 
 #### Art. 86a
 
-<sup>1</sup> The Customs Administration is authorised to notify the proprietor of a patent that is valid in Switzerland if there is any suspicion that goods that infringe that patent may imminently be brought into or taken out of Swiss customs territory.[^86a-1]
+<sup>1</sup> The Federal Office for Customs and Border Security is authorised to notify the proprietor of a patent that is valid in Switzerland if there is any suspicion that goods that infringe that patent may imminently be brought into or taken out of Swiss customs territory.[^86a-1]
 
-<sup>2</sup> In such cases, the Customs Administration is authorised to withhold the goods for three working days in order that the person entitled may file an application in accordance with Article 86*b* paragraph 1.
+<sup>2</sup> In such cases, the Federal Office for Customs and Border Security is authorised to withhold the goods for three working days in order that the person entitled may file an application in accordance with Article 86*b* paragraph 1.
 
 [^86a-1]: Amended by Annex No 6 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
@@ -1682,11 +1684,11 @@ In the case of infringements within businesses committed by subordinates, agents
 
 #### Art. 86b
 
-<sup>1</sup> If the proprietor or a licensee of a patent that is valid in Switzerland entitled to institute proceedings has clear indications that goods which infringe that patent may imminently be brought into or taken out of Swiss customs territory, he may request the Customs Administration in writing to refuse the release of the goods.[^86b-1]
+<sup>1</sup> If the proprietor or a licensee of a patent that is valid in Switzerland entitled to institute proceedings has clear indications that goods which infringe that patent may imminently be brought into or taken out of Swiss customs territory, he may request the Federal Office for Customs and Border Security in writing to refuse the release of the goods.[^86b-1]
 
-<sup>2</sup> The applicant must provide all the information available to him that is necessary for the Customs Administration’s decision; this includes a precise description of the goods.
+<sup>2</sup> The applicant must provide all the information available to him that is necessary for the Federal Office for Customs and Border Security’s decision; this includes a precise description of the goods.
 
-<sup>3</sup> The Customs Administration shall make the final decision on the application. It may charge a fee to cover the administrative costs.
+<sup>3</sup> The Federal Office for Customs and Border Security shall make the final decision on the application. It may charge a fee to cover the administrative costs.
 
 [^86b-1]: Amended by Annex No 6 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
@@ -1694,7 +1696,7 @@ In the case of infringements within businesses committed by subordinates, agents
 
 #### Art. 86c
 
-<sup>1</sup> If the Customs Administration, as a result of an application under Article 86*b* paragraph 1, has grounds to suspect that certain goods intended to be brought into or taken out of Swiss customs territory infringe a patent valid in Switzerland, then it shall notify the applicant and the declarant, holder or owner of the goods accordingly.[^86c-1]
+<sup>1</sup> If the Federal Office for Customs and Border Security, as a result of an application under Article 86*b* paragraph 1, has grounds to suspect that certain goods intended to be brought into or taken out of Swiss customs territory infringe a patent valid in Switzerland, then it shall notify the applicant and the declarant, holder or owner of the goods accordingly.[^86c-1]
 
 <sup>2</sup> It shall withhold the goods for a maximum of ten working days from the time of notification pursuant to paragraph 1, so that the applicant may obtain preliminary measures.
 
@@ -1706,7 +1708,7 @@ In the case of infringements within businesses committed by subordinates, agents
 
 #### Art. 86d
 
-<sup>1</sup> While the goods are being withheld, the Customs Administration is authorised to hand over or deliver to the applicant, on request, samples for examination or to permit the applicant to inspect the goods being withheld.
+<sup>1</sup> While the goods are being withheld, the Federal Office for Customs and Border Security is authorised to hand over or deliver to the applicant, on request, samples for examination or to permit the applicant to inspect the goods being withheld.
 
 <sup>2</sup> The samples are collected and delivered at the expense of the applicant.
 
@@ -1716,11 +1718,11 @@ In the case of infringements within businesses committed by subordinates, agents
 
 #### Art. 86e
 
-<sup>1</sup> At the same time as notification is made in accordance with Article 86*c* paragraph 1, the Customs Administration shall inform the declarant, holder or owner of the goods of the possible handover of samples or the opportunity to inspect them in accordance with Article 86*d* paragraph 1.
+<sup>1</sup> At the same time as notification is made in accordance with Article 86*c* paragraph 1, the Federal Office for Customs and Border Security shall inform the declarant, holder or owner of the goods of the possible handover of samples or the opportunity to inspect them in accordance with Article 86*d* paragraph 1.
 
 <sup>2</sup> The declarant, holder or owner may request to be present at the inspection in order to safeguard his manufacturing or trade secrets.
 
-<sup>3</sup> The Customs Administration may refuse to hand over samples on a reasoned request from the declarant, holder or owner.
+<sup>3</sup> The Federal Office for Customs and Border Security may refuse to hand over samples on a reasoned request from the declarant, holder or owner.
 
 ### F. Application for destruction of the goods
 
@@ -1728,9 +1730,9 @@ In the case of infringements within businesses committed by subordinates, agents
 
 #### Art. 86f
 
-<sup>1</sup> When making an application under Article 86*b* paragraph 1, the applicant may submit a written request to the Customs Administration to destroy the goods.
+<sup>1</sup> When making an application under Article 86*b* paragraph 1, the applicant may submit a written request to the Federal Office for Customs and Border Security to destroy the goods.
 
-<sup>2</sup> If an application for destruction is made, the Customs Administration shall notify the declarant, holder or owner of the goods accordingly as part of the notification made under Article 86*c* paragraph 1.
+<sup>2</sup> If an application for destruction is made, the Federal Office for Customs and Border Security shall notify the declarant, holder or owner of the goods accordingly as part of the notification made under Article 86*c* paragraph 1.
 
 <sup>3</sup> The application for destruction does not result in the time limits for obtaining preliminary measures under Article 86*c* paragraphs 2 and 3 being extended.
 
@@ -1746,7 +1748,7 @@ In the case of infringements within businesses committed by subordinates, agents
 
 #### Art. 86h
 
-Before the destruction of the goods, the Customs Administration shall remove samples and hold them in safekeeping as evidence in any actions for damages.
+Before the destruction of the goods, the Federal Office for Customs and Border Security shall remove samples and hold them in safekeeping as evidence in any actions for damages.
 
 ### IV. Damages
 
@@ -1768,7 +1770,7 @@ Before the destruction of the goods, the Customs Administration shall remove sam
 
 #### Art. 86k
 
-<sup>1</sup> If it is anticipated that withholding the goods may lead to a loss being incurred, the Customs Administration may make the withholding of the goods dependent on the applicant providing them with an accountability statement. As an alternative to this statement and where justified by the circumstances, the Customs Administration may request the applicant to provide appropriate security.
+<sup>1</sup> If it is anticipated that withholding the goods may lead to a loss being incurred, the Federal Office for Customs and Border Security may make the withholding of the goods dependent on the applicant providing them with an accountability statement. As an alternative to this statement and where justified by the circumstances, the Federal Office for Customs and Border Security may request the applicant to provide appropriate security.
 
 <sup>2</sup> The applicant shall be liable for any losses incurred from withholding the goods and from collecting the samples if preliminary measures are not ordered or prove to be unjustified.
 
@@ -1822,13 +1824,13 @@ Before the destruction of the goods, the Customs Administration shall remove sam
 
 [^107108-1]: Repealed by No I of the FA of 17 Dec. 1976, with effect from 1 Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-## Fifth Title European Patent Applications and European Patents****
+## Fifth Title European Patent Applications and European Patents
 
 [^tit5-1]
 
 [^tit5-1]: Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Section 1 Applicable Law****
+### Section 1 Applicable Law
 
 [^tit5-chap1-1]
 
@@ -1849,7 +1851,7 @@ Before the destruction of the goods, the Customs Administration shall remove sam
 [^109-1]: Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^109-2]: [[AS 1977 1711](https://fedlex.data.admin.ch/eli/oc/1977/1711_1711_1711), [1979 621](https://fedlex.data.admin.ch/eli/oc/1979/621_621_621)Art. 1, [1995 4187](https://fedlex.data.admin.ch/eli/oc/1995/4187_4187_4187), [1996 793](https://fedlex.data.admin.ch/eli/oc/1996/793_793_793), [1997 1647](https://fedlex.data.admin.ch/eli/oc/1997/1647_1647_1647)Art. 1, [2007 3673](https://fedlex.data.admin.ch/eli/oc/2007/460)Art. 1 3674 Art. 1]. See now: The European Patent Convention, revised in Munich on 29 November 2000 ([SR 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)).
 
-### Section 2 Effects of the European Patent Application and the European Patent and Modifications concerning the Validity of the European Patent****
+### Section 2 Effects of the European Patent Application and the European Patent and Modifications concerning the Validity of the European Patent
 
 [^tit5-chap2-1]
 
@@ -1899,7 +1901,7 @@ A modification concerning the validity of a European patent due to a final decis
 
 [^112116-1]: Repealed by Art. 2 of the FD of 16 Dec. 2005 on the Approval of the Agreement on the Application of Article 65 of the European Patent Convention and on the Amendment of the Patents Act, with effect from 1 May 2008 ([AS 2008 1739](https://fedlex.data.admin.ch/eli/oc/2008/251); [BBl 2005 3773](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 
-### Section 3 Administration of the European Patent****
+### Section 3 Administration of the European Patent
 
 [^tit5-chap3-1]
 
@@ -1937,7 +1939,7 @@ The Institute shall publish registrations made in the Swiss Register of European
 
 [^120-1]: Inserted by No I of the FA of 17 Dec. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Repealed by Annex No 3 of the Patent Attorney Act of 20 March 2009, with effect from 1 July 2011 ([AS 2011 2259](https://fedlex.data.admin.ch/eli/oc/2011/312); [BBl 2008 407](https://fedlex.data.admin.ch/eli/fga/2008/143)).
 
-### Section 4 Conversion of the European Patent Application****
+### Section 4 Conversion of the European Patent Application
 
 [^tit5-chap4-1]
 
@@ -2000,7 +2002,7 @@ Where the language in which the original text of the European patent application
 
 [^124-1]: Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Section 5 Provisions for Protection under Civil and Criminal Law****
+### Section 5 Provisions for Protection under Civil and Criminal Law
 
 [^tit5-chap5-1]
 
@@ -2077,7 +2079,7 @@ The court may suspend proceedings, and in particular defer judgment where:
 
 [^129-1]: Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Section 6 Requests for Legal Cooperation by the European Patent Office****
+### Section 6 Requests for Legal Cooperation by the European Patent Office
 
 [^tit5-chap6-1]
 
@@ -2093,13 +2095,13 @@ The Swiss Federal Institute of Intellectual Property shall receive requests for 
 
 [^130-1]: Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-## Sixth Title International Patent Applications****
+## Sixth Title International Patent Applications
 
 [^tit6-1]
 
 [^tit6-1]: Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Section 1 Applicable Law****
+### Section 1 Applicable Law
 
 [^tit6-chap1-1]
 
@@ -2121,7 +2123,7 @@ The Swiss Federal Institute of Intellectual Property shall receive requests for 
 [^131-2]: [SR 0.232.141.1](https://fedlex.data.admin.ch/eli/cc/1978/900_900_900)
 [^131-3]: Amended by No I of the FA of 3 Feb. 1995, in force since 1 Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
-### Section 2 Applications filed in Switzerland****
+### Section 2 Applications filed in Switzerland
 
 [^tit6-chap2-1]
 
@@ -2151,7 +2153,7 @@ The Institute acts as Receiving Office under Article 2 of the Patent Cooperation
 
 [^133-1]: Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Section 3 Applications designating Switzerland; Elected Office****
+### Section 3 Applications designating Switzerland; Elected Office
 
 [^tit6-chap3-1]
 
@@ -2234,14 +2236,14 @@ Within 30 months of the filing or priority date, the applicant must:
 
 [^140-1]: Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-## Seventh Title**** Supplementary Protection Certificates****
+## Seventh Title Supplementary Protection Certificates
 
 [^tit7-1][^tit7-2]
 
 [^tit7-1]: Inserted by No 1 of the FA of 3 Feb. 1995, in force since 1 Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 [^tit7-2]: Amended by No I of the FA of 9 Oct. 1998, in force since 1 May 1999 ([AS 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); BBl **1998** 1633).
 
-### Section 1 Supplementary Protection Certificates for Medicinal Products****
+### Section 1 Supplementary Protection Certificates for Medicinal Products
 
 [^tit7-chap1-1]
 
@@ -2403,7 +2405,7 @@ The certificate is null and void where:
 
 Insofar as the provisions concerning the certificate do not contain any regulations, the provisions of the first, second, third and fifth Titles of this Act apply by analogy.
 
-### Section 2**** Extension of the Term of Supplementary Protection Certificates for Medicinal Products
+### Section 2 Extension of the Term of Supplementary Protection Certificates for Medicinal Products
 
 [^tit7-chap2-1]
 
@@ -2460,7 +2462,7 @@ A fee shall be paid to extend a certificate’s term of protection.
 
 <sup>2</sup> It shall take into account European Union regulations.
 
-### Section 2*a***** Paediatric Supplementary Protection Certificates for Medicinal Products
+### Section 2*a* Paediatric Supplementary Protection Certificates for Medicinal Products
 
 [^tit7-chap2a-1]
 
@@ -2476,10 +2478,8 @@ Upon application the IPI shall issue a paediatric supplementary protection certi
 
 - a. contains confirmation that the information on the medicinal product reflects the results of all studies performed in accordance with the paediatric test concept (Art. 11 para. 2 let. a no 6 TPA) considered in the authorisation process; and
 - b. was applied for no later than six months after the application for initial authorisation in the European Economic Area of a medicinal product containing the product in which the corresponding medicinal product information reflects the results of all studies performed in accordance with the paediatric test concept considered for the authorisation.
-
-<sup>2</sup> A paediatric certificate shall only be issued if no supplementary protection certificate in accordance with Article 140*a* exists.
-
-<sup>3</sup> Article 140*b* paragraph 1 applies mutatis mutandis.
+- [tab] <sup>2</sup> A paediatric certificate shall only be issued if no supplementary protection certificate in accordance with Article 140*a* exists.
+- [tab] <sup>3</sup> Article 140*b* paragraph 1 applies mutatis mutandis.
 
 <sup>4</sup> The term of protection of a paediatric certificate may not be extended.
 
@@ -2532,7 +2532,7 @@ The paediatric certificate is null and void when:
 
 Articles 140*a* paragraph 1<sup>bis</sup> and 2, 140*d*, 140*g*, 140*i*, 140*l* paragraph 1 and 140*m* apply mutatis mutandis.
 
-### Section 3**** Supplementary Protection Certificates for Plant Protection Products
+### Section 3 Supplementary Protection Certificates for Plant Protection Products
 
 [^tit7-chap3-1]
 
@@ -2551,7 +2551,7 @@ Ingredients are substances and microorganisms, including viruses, with a general
 - a. against harmful organisms;
 - b. on plants, parts of plants or plant products.
 
-## Final TitleFinal and Transitional Provisions****
+## Final TitleFinal and Transitional Provisions
 
 [^u1-1]
 
@@ -2672,15 +2672,13 @@ Patents that have not yet lapsed when the Amendment to this Act of 22 June 2007 
 
 [^u1-149-1]
 
-<sup>1</sup> For a period of five years after the entry into force of the amendment of 18 March 2016[^u1-149-2] to this Act the application for renewal of the term of protection of a certificate may be submitted no later than six months before its expiry.
+<sup>1</sup> For a period of five years after the amendment of 18 March 2016[^u1-149-2] to this Act comes into force, the application for renewal of the term of protection of a certificate may be submitted no later than six months before its expiry.
 
-<sup>2</sup> For a period of five years after the entry into force of this amendment the application for a paediatric certificate may be made at the latest six months before the end of the maximum term of the patent.
+<sup>2</sup> For a period of five years after this amendment comes into force, the application for a paediatric certificate may be made at the latest six months before the end of the maximum term of the patent.
 
-<sup>3</sup> If the authorisation (Art. 9 TPA[^u1-149-3]) of a medicinal product containing the product (Art. 140*n* para. 1 introductory sentence and 140*t* para. 1 introductory sentence) is applied for within six months of the entry into force of this amendment, then Articles 140*n* paragraph 1 letter b and 140*t* paragraph 1 letter b do not apply.
+<sup>3</sup> If the authorisation (Art. 9 TPA[^u1-149-3]) of a medicinal product containing the product (Art. 140*n* para. 1 introductory sentence and 140*t* para. 1 introductory sentence) is applied for within six months of this amendment coming into force, then Articles 140*n* paragraph 1 letter b and 140*t* paragraph 1 letter b do not apply.
 
-Commencement date: 1 January 1956[^u1-149-4]
-
-Art. 89 para. 2, 90 para. 2 and 3, 91 para. 2 and 3, 96 para. 1 and 3, 101 para. 1, 105 para. 3: 1 October 1959[^u1-149-5]
+Commencement date: 1 January 1956[^u1-149-4] Art. 89 para. 2, 90 para. 2 and 3, 91 para. 2 and 3, 96 para. 1 and 3, 101 para. 1, 105 para. 3: 1 October 1959[^u1-149-5]
 
 [^u1-149-1]: Inserted by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^u1-149-2]: [AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280)

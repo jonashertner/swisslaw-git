@@ -4,20 +4,20 @@ title: "Bundesgesetz vom 25. Juni 1954 über die Erfindungspatente (Patentgesetz
 short: PatG
 eli: "https://fedlex.data.admin.ch/eli/cc/1955/871_893_899"
 language: de
-version: 2019-04-01
+version: 2022-01-01
 adopted: 1954-06-25
 in_force: 1956-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20190401/de/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20190401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20190401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20220101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Erfindungspatente
 
-(Patentgesetz, PatG)**[^t-1]**
+(Patentgesetz, PatG)[^t-1]
 
-vom 25. Juni 1954 (Stand am 1. April 2019)
+vom 25. Juni 1954 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 3. Febr. 1995, in Kraft seit 1. Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
@@ -840,7 +840,7 @@ Für Erfindungen, die ein Erzeugnis oder ein Verfahren zur Diagnose beim Mensche
 
 [^40e-1]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-### 6. Abschnitt: Gebühren****
+### 6. Abschnitt: Gebühren
 
 [^tit1-chap6-1]
 
@@ -866,7 +866,7 @@ Das Erlangen und Aufrechterhalten eines Patents sowie das Behandeln von besonder
 
 [^4546-1]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 1976, mit Wirkung seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### 7. Abschnitt: Weiterbehandlung und Wiedereinsetzung in den früheren Stand****
+### 7. Abschnitt: Weiterbehandlung und Wiedereinsetzung in den früheren Stand
 
 [^tit1-chap7-1]
 
@@ -945,7 +945,7 @@ Das Patent kann demjenigen nicht entgegengehalten werden, der die Erfindung im I
 [^48-1]: Verweis gestrichen durch Anhang Ziff. 4 des BG vom 24. März 1995 über Statut und Aufgaben des Eidgenössischen Instituts für Geistiges Eigentum, mit Wirkung seit 1. Jan. 1996 ([AS 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [BBl 1994 III 964](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 [^48-2]: Fassung gemäss Ziff. I des BG vom 3. Febr. 1995, in Kraft seit 1. Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
-### 8. Abschnitt:**** Vertretung und Aufsicht
+### 8. Abschnitt: Vertretung und Aufsicht
 
 [^tit1-chap8-1]
 
@@ -1272,7 +1272,7 @@ Das IGE weist das Patentgesuch zurück, wenn:
 
 [^59d-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Aufgehoben durch Ziff. I des BG vom 22. Juni 2007, mit Wirkung seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-### 3. Abschnitt: Patentregister; Veröffentlichungen des IGE; elektronischer Behördenverkehr****
+### 3. Abschnitt: Patentregister; Veröffentlichungen des IGE; elektronischer Behördenverkehr
 
 [^tit2-chap3-1]
 
@@ -1660,19 +1660,20 @@ Bei Widerhandlungen in Geschäftsbetrieben durch Untergebene, Beauftragte oder V
 [^86-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^86-2]: Aufgehoben durch Anhang Ziff. 11 des Gerichtsstandsgesetzes vom 24. März 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
 
-### 4. Abschnitt:**** Hilfeleistung der Zollverwaltung
+### 4. Abschnitt: Hilfeleistung des Bundesamts für Zoll und Grenzsicherheit
 
-[^tit3-chap4-1]
+[^tit3-chap4-1][^tit3-chap4-2]
 
 [^tit3-chap4-1]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^tit3-chap4-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 ### A. Anzeige verdächtiger Waren
 
 #### Art. 86a
 
-<sup>1</sup> Die Zollverwaltung ist ermächtigt, den Patentinhaber zu benachrichtigen, wenn der Verdacht besteht, dass das Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet von Waren bevorsteht, die ein in der Schweiz gültiges Patent verletzen.[^86a-1]
+<sup>1</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG) ist ermächtigt, den Patentinhaber zu benachrichtigen, wenn der Verdacht besteht, dass das Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet von Waren bevorsteht, die ein in der Schweiz gültiges Patent verletzen.[^86a-1]
 
-<sup>2</sup> In diesem Fall ist die Zollverwaltung ermächtigt, die Waren während drei Werktagen zurückzubehalten, damit die antragsberechtigte Person einen Antrag nach Artikel 86*b* Absatz 1 stellen kann.
+<sup>2</sup> In diesem Fall ist das BAZG ermächtigt, die Waren während drei Werktagen zurückzubehalten, damit die antragsberechtigte Person einen Antrag nach Artikel 86*b* Absatz 1 stellen kann.
 
 [^86a-1]: Fassung gemäss Anhang Ziff. 6 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
@@ -1680,11 +1681,11 @@ Bei Widerhandlungen in Geschäftsbetrieben durch Untergebene, Beauftragte oder V
 
 #### Art. 86b
 
-<sup>1</sup> Hat der Patentinhaber oder der klageberechtigte Lizenznehmer konkrete Anhaltspunkte dafür, dass das Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet von Waren bevorsteht, die ein in der Schweiz gültiges Patent verletzen, so kann er bei der Zollverwaltung schriftlich beantragen, die Freigabe der Waren zu verweigern.[^86b-1]
+<sup>1</sup> Hat der Patentinhaber oder der klageberechtigte Lizenznehmer konkrete Anhaltspunkte dafür, dass das Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet von Waren bevorsteht, die ein in der Schweiz gültiges Patent verletzen, so kann er beim BAZG schriftlich beantragen, die Freigabe der Waren zu verweigern.[^86b-1]
 
-<sup>2</sup> Der Antragsteller muss alle ihm zur Verfügung stehenden Angaben machen, die für den Entscheid der Zollverwaltung erforderlich sind; dazu gehört eine genaue Beschreibung der Waren.
+<sup>2</sup> Der Antragsteller muss alle ihm zur Verfügung stehenden Angaben machen, die für den Entscheid des BAZG erforderlich sind; dazu gehört eine genaue Beschreibung der Waren.
 
-<sup>3</sup> Die Zollverwaltung entscheidet endgültig über den Antrag. Sie kann eine Gebühr zur Deckung der Verwaltungskosten erheben.
+<sup>3</sup> Das BAZG entscheidet endgültig über den Antrag. Es kann eine Gebühr zur Deckung der Verwaltungskosten erheben.
 
 [^86b-1]: Fassung gemäss Anhang Ziff. 6 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
@@ -1692,11 +1693,11 @@ Bei Widerhandlungen in Geschäftsbetrieben durch Untergebene, Beauftragte oder V
 
 #### Art. 86c
 
-<sup>1</sup> Hat die Zollverwaltung aufgrund eines Antrags nach Artikel 86*b* Absatz 1 den begründeten Verdacht, dass eine zum Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bestimmte Ware ein in der Schweiz gültiges Patent verletzt, so teilt sie dies einerseits dem Antragsteller und andererseits dem Anmelder, Besitzer oder Eigentümer der Ware mit.[^86c-1]
+<sup>1</sup> Hat das BAZG aufgrund eines Antrags nach Artikel 86*b* Absatz 1 den begründeten Verdacht, dass eine zum Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bestimmte Ware ein in der Schweiz gültiges Patent verletzt, so teilt es dies einerseits dem Antragsteller und andererseits dem Anmelder, Besitzer oder Eigentümer der Ware mit.[^86c-1]
 
-<sup>2</sup> Sie behält die Ware bis höchstens zehn Werktage vom Zeitpunkt der Mitteilung nach Absatz 1 an zurück, damit der Antragsteller vorsorgliche Massnahmen erwirken kann.
+<sup>2</sup> Es behält die Ware bis höchstens zehn Werktage vom Zeitpunkt der Mitteilung nach Absatz 1 an zurück, damit der Antragsteller vorsorgliche Massnahmen erwirken kann.
 
-<sup>3</sup> In begründeten Fällen kann sie die Ware während höchstens zehn weiteren Werktagen zurückbehalten.
+<sup>3</sup> In begründeten Fällen kann es die Ware während höchstens zehn weiteren Werktagen zurückbehalten.
 
 [^86c-1]: Fassung gemäss Anhang Ziff. 6 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
@@ -1704,7 +1705,7 @@ Bei Widerhandlungen in Geschäftsbetrieben durch Untergebene, Beauftragte oder V
 
 #### Art. 86d
 
-<sup>1</sup> Während des Zurückbehaltens der Ware ist die Zollverwaltung ermächtigt, dem Antragsteller auf Antrag Proben oder Muster zur Prüfung zu übergeben oder zuzusenden oder ihm die Besichtigung der zurückbehaltenen Ware zu gestatten.
+<sup>1</sup> Während des Zurückbehaltens der Ware ist das BAZG ermächtigt, dem Antragsteller auf Antrag Proben oder Muster zur Prüfung zu übergeben oder zuzusenden oder ihm die Besichtigung der zurückbehaltenen Ware zu gestatten.
 
 <sup>2</sup> Die Proben oder Muster werden auf Kosten des Antragstellers entnommen und versandt.
 
@@ -1714,11 +1715,11 @@ Bei Widerhandlungen in Geschäftsbetrieben durch Untergebene, Beauftragte oder V
 
 #### Art. 86e
 
-<sup>1</sup> Gleichzeitig mit der Benachrichtigung nach Artikel 86*c* Absatz 1 informiert die Zollverwaltung den Anmelder, Besitzer oder Eigentümer der Ware über die mögliche Übergabe von Proben oder Mustern beziehungsweise die Besichtigungsmöglichkeit nach Artikel 86*d* Absatz 1.
+<sup>1</sup> Gleichzeitig mit der Benachrichtigung nach Artikel 86*c* Absatz 1 informiert das BAZG den Anmelder, Besitzer oder Eigentümer der Ware über die mögliche Übergabe von Proben oder Mustern beziehungsweise die Besichtigungsmöglichkeit nach Artikel 86*d* Absatz 1.
 
 <sup>2</sup> Der Anmelder, Besitzer oder Eigentümer kann verlangen, zur Wahrung seiner Fabrikations- oder Geschäftsgeheimnisse bei der Besichtigung anwesend zu sein.
 
-<sup>3</sup> Die Zollverwaltung kann auf begründeten Antrag des Anmelders, Besitzers oder Eigentümers die Übergabe von Proben oder Mustern verweigern.
+<sup>3</sup> Das BAZG kann auf begründeten Antrag des Anmelders, Besitzers oder Eigentümers die Übergabe von Proben oder Mustern verweigern.
 
 ### F. Antrag auf Vernichtung der Ware
 
@@ -1726,9 +1727,9 @@ Bei Widerhandlungen in Geschäftsbetrieben durch Untergebene, Beauftragte oder V
 
 #### Art. 86f
 
-<sup>1</sup> Zusammen mit dem Antrag nach Artikel 86*b* Absatz 1 kann der Antragsteller bei der Zollverwaltung schriftlich beantragen, die Ware zu vernichten.
+<sup>1</sup> Zusammen mit dem Antrag nach Artikel 86*b* Absatz 1 kann der Antragsteller beim BAZG schriftlich beantragen, die Ware zu vernichten.
 
-<sup>2</sup> Wird ein Antrag auf Vernichtung gestellt, so teilt die Zollverwaltung dies dem Anmelder, Besitzer oder Eigentümer der Ware im Rahmen der Mitteilung nach Artikel 86*c* Absatz 1 mit.
+<sup>2</sup> Wird ein Antrag auf Vernichtung gestellt, so teilt das BAZG dies dem Anmelder, Besitzer oder Eigentümer der Ware im Rahmen der Mitteilung nach Artikel 86*c* Absatz 1 mit.
 
 <sup>3</sup> Der Antrag auf Vernichtung führt nicht dazu, dass die Fristen nach Artikel 86*c* Absätze 2 und 3 zur Erwirkung vorsorglicher Massnahmen verlängert werden.
 
@@ -1744,7 +1745,7 @@ Bei Widerhandlungen in Geschäftsbetrieben durch Untergebene, Beauftragte oder V
 
 #### Art. 86h
 
-Vor der Vernichtung der Ware entnimmt die Zollverwaltung Proben oder Muster und bewahrt sie als Beweismittel auf für allfällige Klagen auf Schadenersatz.
+Vor der Vernichtung der Ware entnimmt das BAZG Proben oder Muster und bewahrt sie als Beweismittel auf für allfällige Klagen auf Schadenersatz.
 
 ### IV. Schadenersatz
 
@@ -1766,7 +1767,7 @@ Vor der Vernichtung der Ware entnimmt die Zollverwaltung Proben oder Muster und 
 
 #### Art. 86k
 
-<sup>1</sup> Ist durch das Zurückbehalten der Ware ein Schaden zu befürchten, so kann die Zollverwaltung das Zurückbehalten davon abhängig machen, dass der Antragsteller ihr eine Haftungserklärung abgibt. An deren Stelle kann die Zollverwaltung vom Antragsteller in begründeten Fällen eine angemessene Sicherheitsleistung verlangen.
+<sup>1</sup> Ist durch das Zurückbehalten der Ware ein Schaden zu befürchten, so kann das BAZG das Zurückbehalten davon abhängig machen, dass der Antragsteller ihr eine Haftungserklärung abgibt. An deren Stelle kann das BAZG vom Antragsteller in begründeten Fällen eine angemessene Sicherheitsleistung verlangen.
 
 <sup>2</sup> Der Antragsteller muss den Schaden, der durch das Zurückbehalten der Ware und die Entnahme von Proben oder Mustern entstanden ist, ersetzen, wenn vorsorgliche Massnahmen nicht angeordnet werden oder sich als unbegründet erweisen.
 
@@ -1820,13 +1821,13 @@ Vor der Vernichtung der Ware entnimmt die Zollverwaltung Proben oder Muster und 
 
 [^107108-1]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 1976, mit Wirkung seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-## Fünfter Titel: Europäische Patentanmeldungen und europäische Patente****
+## Fünfter Titel: Europäische Patentanmeldungen und europäische Patente
 
 [^tit5-1]
 
 [^tit5-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### 1. Abschnitt: Anwendbares Recht****
+### 1. Abschnitt: Anwendbares Recht
 
 [^tit5-chap1-1]
 
@@ -1847,7 +1848,7 @@ Vor der Vernichtung der Ware entnimmt die Zollverwaltung Proben oder Muster und 
 [^109-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^109-2]: [[AS 1977 1711](https://fedlex.data.admin.ch/eli/oc/1977/1711_1711_1711), [1979 621](https://fedlex.data.admin.ch/eli/oc/1979/621_621_621)Art. 1, [1995 4187](https://fedlex.data.admin.ch/eli/oc/1995/4187_4187_4187), [1996 793](https://fedlex.data.admin.ch/eli/oc/1996/793_793_793), [1997 1647](https://fedlex.data.admin.ch/eli/oc/1997/1647_1647_1647)Art. 1, [2007 3673](https://fedlex.data.admin.ch/eli/oc/2007/460)Art. 1 3674 Art. 1]. Siehe heute: das Europäische Patentübereinkommen, revidiert in München am 29. November 2000 ([SR 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)).
 
-### 2. Abschnitt: Wirkungen der europäischen Patentanmeldung und des europäischen Patents und Änderungen im Bestand des europäischen Patents****
+### 2. Abschnitt: Wirkungen der europäischen Patentanmeldung und des europäischen Patents und Änderungen im Bestand des europäischen Patents
 
 [^tit5-chap2-1]
 
@@ -1897,7 +1898,7 @@ Eine Änderung im Bestand des europäischen Patents durch einen rechtskräftigen
 
 [^112116-1]: Aufgehoben durch Art. 2 des BB vom 16. Dez. 2005 über die Genehmigung des Übereinkommens über die Anwendung des Artikels 65 des Europäischen Patentübereinkommens und über die Änderung des Patentgesetzes, mit Wirkung seit 1. Mai 2008 ([AS 2008 1739](https://fedlex.data.admin.ch/eli/oc/2008/251); [BBl 2005 3773](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 
-### 3. Abschnitt: Verwaltung des europäischen Patentes****
+### 3. Abschnitt: Verwaltung des europäischen Patentes
 
 [^tit5-chap3-1]
 
@@ -1935,7 +1936,7 @@ Die Eintragungen im schweizerischen Register für europäische Patente werden vo
 
 [^120-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Aufgehoben durch Anhang Ziff. 3 des Patentanwaltsgesetzes vom 20. März 2009, mit Wirkung seit 1. Juli 2011 ([AS 2011 2259](https://fedlex.data.admin.ch/eli/oc/2011/312); [BBl 2008 407](https://fedlex.data.admin.ch/eli/fga/2008/143)).
 
-### 4. Abschnitt: Umwandlung der europäischen Patentanmeldung****
+### 4. Abschnitt: Umwandlung der europäischen Patentanmeldung
 
 [^tit5-chap4-1]
 
@@ -1998,7 +1999,7 @@ Ist die Sprache der ursprünglichen Fassung der europäischen Patentanmeldung ni
 
 [^124-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### 5. Abschnitt: Bestimmungen für den zivilrechtlichen und strafrechtlichen Schutz****
+### 5. Abschnitt: Bestimmungen für den zivilrechtlichen und strafrechtlichen Schutz
 
 [^tit5-chap5-1]
 
@@ -2075,7 +2076,7 @@ Der Richter kann das Verfahren, insbesondere das Urteil aussetzen, wenn:
 
 [^129-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### 6. Abschnitt: Rechtshilfegesuche des Europäischen Patentamtes****
+### 6. Abschnitt: Rechtshilfegesuche des Europäischen Patentamtes
 
 [^tit5-chap6-1]
 
@@ -2091,13 +2092,13 @@ Das IGE nimmt die Rechtshilfegesuche des Europäischen Patentamtes entgegen und 
 
 [^130-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-## Sechster Titel: Internationale Patentanmeldungen****
+## Sechster Titel: Internationale Patentanmeldungen
 
 [^tit6-1]
 
 [^tit6-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### 1. Abschnitt: Anwendbares Recht****
+### 1. Abschnitt: Anwendbares Recht
 
 [^tit6-chap1-1]
 
@@ -2119,7 +2120,7 @@ Das IGE nimmt die Rechtshilfegesuche des Europäischen Patentamtes entgegen und 
 [^131-2]: [SR 0.232.141.1](https://fedlex.data.admin.ch/eli/cc/1978/900_900_900)
 [^131-3]: Fassung gemäss Ziff. I des BG vom 3. Febr. 1995, in Kraft seit 1. Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
-### 2. Abschnitt: In der Schweiz eingereichte Anmeldungen****
+### 2. Abschnitt: In der Schweiz eingereichte Anmeldungen
 
 [^tit6-chap2-1]
 
@@ -2149,7 +2150,7 @@ Das IGE ist Anmeldeamt im Sinne des Artikels 2 des Zusammenarbeitsvertrages für
 
 [^133-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### 3. Abschnitt: Für die Schweiz bestimmte Anmeldungen; ausgewähltes Amt****
+### 3. Abschnitt: Für die Schweiz bestimmte Anmeldungen; ausgewähltes Amt
 
 [^tit6-chap3-1]
 
@@ -2232,14 +2233,14 @@ Der Anmelder hat dem IGE innerhalb von 30 Monaten nach dem Anmelde- oder dem Pri
 
 [^140-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-## Siebenter Titel:**** Ergänzende Schutzzertifikate****
+## Siebenter Titel: Ergänzende Schutzzertifikate
 
 [^tit7-1][^tit7-2]
 
 [^tit7-1]: Eingefügt durch Ziff. I des BG vom 3. Febr. 1995, in Kraft seit 1. Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 [^tit7-2]: Fassung gemäss Ziff. I des BG vom 9. Okt. 1998, in Kraft seit 1. Mai 1999 ([AS 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); BBl **1998** 1633).
 
-### 1. Abschnitt: Ergänzende Schutzzertifikate für Arzneimittel****
+### 1. Abschnitt: Ergänzende Schutzzertifikate für Arzneimittel
 
 [^tit7-chap1-1]
 
@@ -2401,7 +2402,7 @@ Das Zertifikat ist nichtig, wenn:
 
 Soweit die Bestimmungen über die Zertifikate keine Regelung enthalten, gelten die Bestimmungen des ersten, zweiten, dritten und fünften Titels dieses Gesetzes sinngemäss.
 
-### 2. Abschnitt:**** Verlängerung der Dauer der ergänzenden Schutzzertifikate für Arzneimittel
+### 2. Abschnitt: Verlängerung der Dauer der ergänzenden Schutzzertifikate für Arzneimittel
 
 [^tit7-chap2-1]
 
@@ -2458,7 +2459,7 @@ Für die Verlängerung der Schutzdauer eines Zertifikats ist eine Gebühr zu bez
 
 <sup>2</sup> Er berücksichtigt die Regelung in der Europäischen Union.
 
-### 2*a*. Abschnitt:**** Pädiatrische ergänzende Schutzzertifikate für Arzneimittel
+### 2*a*. Abschnitt: Pädiatrische ergänzende Schutzzertifikate für Arzneimittel
 
 [^tit7-chap2a-1]
 
@@ -2530,7 +2531,7 @@ Das pädiatrische Zertifikat ist nichtig, wenn:
 
 Die Artikel 140*a* Absatz 1<sup>bis</sup> und 2, 140*d*, 140*g*, 140*i*, 140*l* Absatz 1 und 140*m* gelten sinngemäss.
 
-### 3. Abschnitt:**** Ergänzende Schutzzertifikate für Pflanzenschutzmittel
+### 3. Abschnitt: Ergänzende Schutzzertifikate für Pflanzenschutzmittel
 
 [^tit7-chap3-1]
 
@@ -2549,7 +2550,7 @@ Wirkstoffe sind Stoffe und Mikroorganismen, einschliesslich Viren, mit allgemein
 - a. gegen Schadorganismen;
 - b. auf Pflanzen, Pflanzenteile oder Pflanzenerzeugnisse.
 
-## Schlusstitel: Schluss- und Übergangsbestimmungen****
+## Schlusstitel: Schluss- und Übergangsbestimmungen
 
 [^u1-1]
 
