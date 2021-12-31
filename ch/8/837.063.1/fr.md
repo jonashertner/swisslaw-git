@@ -4,18 +4,20 @@ title: "Ordonnance du 26 mai 2021 sur les systèmes d’information gérés par 
 short: OSI-AC
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/337"
 language: fr
-version: 2021-07-01
+version: 2022-01-01
 adopted: 2021-05-26
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/337/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2021-337-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/337/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-337-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance sur les systèmes d’information gérés par l’organe de compensation de l’assurance-chômage (Ordonnance sur les systèmes d’information AC, OSI-AC)
+# Ordonnance sur les systèmes d’information gérés par l’organe de compensation de l’assurance‑chômage
 
-du 26 mai 2021 (Etat le 1<sup>er</sup> juillet 2021)
+(Ordonnance sur les systèmes d’information AC, OSI-AC)
+
+du 26 mai 2021 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -39,7 +41,7 @@ La présente ordonnance règle l’exploitation et l’utilisation des systèmes
 
 **Responsabilité**
 
-<sup>1</sup> <sup>1</sup> L’organe de compensation de l’assurance-chômage gère l’organisation, le développement et l’exploitation des systèmes d’information mentionnés à l’art. 83, al. 1<sup>bis</sup>*,* LACI.
+<sup>1</sup> L’organe de compensation de l’assurance-chômage gère l’organisation, le développement et l’exploitation des systèmes d’information mentionnés à l’art. 83, al. 1<sup>bis</sup>, LACI.
 
 <sup>2</sup> Il veille au respect des prescriptions de la loi fédérale du 19 juin 1992 sur la protection des données[^2-1] et peut effectuer ou faire effectuer régulièrement des contrôles à cette fin.
 
@@ -97,7 +99,7 @@ Les systèmes d’information mentionnés aux sections 2 à 4 contiennent les do
 
 <sup>2</sup> Les données mentionnées à l’al. 1, let. c et d, peuvent être consultées à tout moment par le collaborateur qu’elles concernent.
 
-<sup>3</sup> Les supérieurs hiérarchiques des organes mentionnés à l’art. 96*c*, al. 1<sup>ter</sup>, LACI peuvent consulter les données de leurs collaborateurs mentionnées à l’al. 1, let. c et d, q qui sont nécessaires à l’accomplissement de leurs tâches.
+<sup>3</sup> Les supérieurs hiérarchiques des organes mentionnés à l’art. 96*c*, al. 1<sup>ter</sup>, LACI peuvent consulter les données de leurs collaborateurs mentionnées à l’al. 1, let. c et d, qui sont nécessaires à l’accomplissement de leurs tâches.
 
 #### Art. 7
 
@@ -259,7 +261,9 @@ La plateforme du service public de l’emploi au sens de l’art. 83, al. 1<sup>
 
 **Profil personnel**
 
-Toute personne enregistrée auprès des autorités du marché du travail décide si son profil personnel est accessible sur la plateforme et s’il l’est sous forme anonymisée ou non. Cette décision est enregistrée dans le système d’information servant au placement public (art. 83, al. 1<sup>bis</sup>, let. b, LACI).
+Toute personne enregistrée auprès des autorités du marché du travail décide si son profil personnel est accessible sur la plateforme et s’il l’est sous forme anonymisée
+
+ou non. Cette décision est enregistrée dans le système d’information servant au placement public (art. 83, al. 1<sup>bis</sup>, let. b, LACI).
 
 #### Art. 25
 
@@ -289,13 +293,15 @@ Sont abrogées:
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2021.
 
-Annexe 1
+Annexe 1[^t-1]
 
 (art. 9)
 
 ## Système d’information servant au paiement de prestations de l’assurance-chômage (art. 83, al. 1<sup>bis</sup>, let. a, LACI): données et droits d’accès
 
-## 1. Abréviations
+[^t-1]: Mise à jour par l’annexe ch. II 42 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+
+### 1. Abréviations
 
 <table>
 <tr><td>AI Assurance-invalidité</td></tr>
@@ -319,7 +325,7 @@ Annexe 1
 <tr><td>UPI Unique Person Identification</td></tr>
 </table>
 
-## 2. Description des rôles
+### 2. Description des rôles
 
 <table>
 <tr><td>2.1</td><td colspan="2">Caisses de chômage</td></tr>
@@ -336,7 +342,7 @@ Annexe 1
 <tr><td></td><td>Coll. FIN</td><td>Collaborateurs des finances</td></tr>
 </table>
 
-## 3. Données et droit d’accès
+### 3. Données et droit d’accès
 
 Légendes
 
@@ -347,48 +353,45 @@ Légendes
 </table>
 
 <table>
-<tr><th></th><th colspan="5">Caisses de chômage</th><th colspan="5">Organe de compensation AC</th></tr>
-<tr><th></th><th>Coll. IC</th><th>Coll. ICI</th><th>Coll. RI</th><th>Coll. INT</th><th>Coll. FIN</th><th>Coll. INT</th><th>Coll. FIN</th><th>Coll. REV</th><th>Coll. SJ</th><th>Coll. SUP</th></tr>
-<tr><td>**3.1** **Indemnité** **de** **chômage** **et dossiers internationaux**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>3.1.1 Données personnelles de l’assuré (numéro d’assuré AVS, numéro personnel AC, nom, prénom, sexe, date de naissance, langue, état civil, nationalité, statut de séjour, lieu d’origine, mandataire)</td><td>T</td><td>V</td><td>V</td><td>T</td><td>T</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.1.2 Coordonnées de l’assuré (rue, numéro, NPA, localité, numéros de téléphone, courriel)</td><td>T</td><td>V</td><td>V</td><td>T</td><td>T</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.1.3 Données relatives aux enfants de l’assuré (nombre d’enfants et numéro d’assuré AVS, nom, prénom, sexe, date de naissance des enfants)</td><td>T</td><td>V</td><td>V</td><td>T</td><td>T</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.1.4 Coordonnées de paiement/IBAN de l’assuré</td><td>T</td><td>V</td><td>V</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.1.5 Données relatives à l’activité et à la capacité de gain de l’assuré (taux d’occupation, capacité de travail, derniers rapports de travail [y compris résiliation des rapports de travail, prétentions de salaire ou autres prestations], autres revenus, participations, attestations d’activité, autres prétentions)</td><td>T</td><td>V</td><td>V</td><td>T</td><td>T</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.1.6 Données relatives aux prestations d’assurance, aux rentes ou aux indemnités journalières de l’assuré (AVS, AI, LPP, IJM, sécurité sociale étrangère)</td><td>T</td><td>V</td><td>V</td><td>T</td><td>T</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.1.7 Données de l’assuré relatives à la maladie, à l’accident, à la maternité, au service militaire, au service civil ou au service de protection civile, au séjour en établissement de détention ou en établissement d’éducation ou autre</td><td>T</td><td>V</td><td>V</td><td>T</td><td>T</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.1.8 Données de l’assuré relatives au droit de toucher des indemnités</td><td>T</td><td>V</td><td>V</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.1.9 Données de paiement, y compris en lien avec des demandes de restitution (dates de versements, rappels et poursuites, demandes de remise et remises)</td><td>T</td><td>V</td><td>V</td><td>–</td><td>T</td><td>-</td><td>T</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.1.10 Données de paiement (primes) aux assurances sociales</td><td>T</td><td>–</td><td>–</td><td>–</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.1.11 Données de l’assuré relatives à l’impôt à la source</td><td>T</td><td>V</td><td>V</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.1.12 Décisions à l’intention de l’assuré</td><td>T</td><td>V</td><td>V</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.1.13 Données de l’entreprise pour l’IC (n° REE, IDE, nom, forme juridique, adresse et données relatives à l’activité, aux rapports de travail, aux rapports de participation et aux droits de l’assuré)</td><td>T</td><td>V</td><td>V</td><td>T</td><td>T</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.1.14 Données de l’institution étrangère ou de l’organisme de liaison étranger</td><td>V</td><td>V</td><td>V</td><td>T</td><td>T</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.1.15 Décomptes de l’organisme de liaison étranger</td><td>V</td><td>–</td><td>–</td><td>–</td><td>T</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>[tab]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>**3.2** **Indemnité en cas d’insolvabilité**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>3.2.1 Données personnelles de l’assuré (cf. 3.1.1)</td><td>V</td><td>T</td><td>V</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.2.2 Coordonnées de l’assuré (cf. 3.1.2)</td><td>V</td><td>T</td><td>V</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.2.3 Coordonnées de paiement/IBAN de l’assuré</td><td>V</td><td>T</td><td>V</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.2.4 Données relatives à l’activité de l’assuré (durée des rapports de travail, dernier jour de travail, activité, taux d’occupation, créances de salaire et autres créances [y compris avances], droit aux vacances)</td><td>V</td><td>T</td><td>V</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.2.5 Données de l’assuré relatives à la maladie, à l’accident, à la maternité, au service militaire, civil ou de protection civile</td><td>V</td><td>T</td><td>V</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.2.6 Données de l’assuré relatives au droit de toucher des indemnités</td><td>V</td><td>T</td><td>V</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.2.7 Données de l’assuré relatives aux MMT</td><td>V</td><td>T</td><td>V</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.2.8 Données de paiement, y compris en lien avec des demandes de restitution (dates de versements, rappels et poursuites, demandes de remise et remises)</td><td>V</td><td>T</td><td>V</td><td>–</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.2.9 Données de paiement (primes) aux assurances sociales</td><td>T</td><td></td><td></td><td></td><td>T</td><td></td><td>T</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.2.10 Données de l’assuré relatives à l’impôt à la source</td><td>V</td><td>T</td><td>V</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.2.11 Décisions à l’intention de l’assuré</td><td>V</td><td>T</td><td>V</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.2.12 Données de l’entreprise pour l’ICI (n<sup>o</sup> REE, IDE, nom, forme juridique, adresse et données relatives à l’activité, aux rapports de travail et aux droits de l’assuré, données relatives au décompte en faveur des assurances sociales)</td><td>V</td><td>T</td><td>V</td><td></td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>[tab]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>**3.3** **Indemnité en cas de réduction de l’horaire** **de travail et en cas d’intempéries**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>3.3.1 Données de l’entreprise pour la RHT/INTEMP (n° REE, IDE, nom, forme juridique, adresse, interlocuteur; effectif, travailleurs concernés, durée de la réduction de l’horaire de travail, caisse de compensation, questionnaire [présentation de l’entreprise, situation des commandes et marche des affaires, justification de la réduction de l’horaire de travail et perspectives])</td><td>V</td><td>V</td><td>T</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.3.2 Données personnelles des travailleurs (numéro d’assuré AVS, numéro personnel AC, nom, prénom, sexe, date de naissance)</td><td>V</td><td>V</td><td>T</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.3.3 Données relatives au droit de toucher des indemnités, y compris les indemnités devant être restituées par l’entreprise</td><td>V</td><td>V</td><td>T</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.3.4 Données de paiement, y compris demandes de restitution, rappels et poursuites, demandes de remise et remises en faveur de l’entreprise</td><td>V</td><td>V</td><td>T</td><td>–</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>3.3.5 Décisions à l’intention de l’entreprise</td><td>V</td><td>V</td><td>T</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>[tab]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>**3.4** **Coûts de projet pour les mesures relatives** **aux MMT**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>3.4.1 Données de paiement</td><td>–</td><td>–</td><td>–</td><td>–</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><th></th><th colspan="5">Caisses de chômage</th><th></th><th></th><th></th><th></th><th colspan="5">Organe de compensation AC</th></tr>
+<tr><th></th><th>Coll. IC</th><th>Coll. ICI</th><th>Coll. RI</th><th>Coll. INT</th><th colspan="5">Coll. FIN</th><th>Coll. INT</th><th>Coll. FIN</th><th>Coll. REV</th><th>Coll. SJ</th><th>Coll. SUP</th></tr>
+<tr><td>**3.1** **Indemnité** **de** **chômage** **et dossiers internationaux**</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.1.1 Données personnelles de l’assuré (numéro AVS, numéro personnel AC, nom, prénom, sexe, date de naissance, langue, état civil, nationalité, statut de séjour, lieu d’origine, mandataire)</td><td>T</td><td>V</td><td>V</td><td>T</td><td colspan="5">T</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.1.2 Coordonnées de l’assuré (rue, numéro, NPA, localité, numéros de téléphone, courriel)</td><td>T</td><td>V</td><td>V</td><td>T</td><td colspan="5">T</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.1.3 Données relatives aux enfants de l’assuré (nombre d’enfants et numéro AVS, nom, prénom, sexe, date de naissance des enfants)</td><td>T</td><td>V</td><td>V</td><td>T</td><td colspan="5">T</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.1.4 Coordonnées de paiement/IBAN de l’assuré</td><td>T</td><td>V</td><td>V</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.1.5 Données relatives à l’activité et à la capacité de gain de l’assuré (taux d’occupation, capacité de travail, derniers rapports de travail [y compris résiliation des rapports de travail, prétentions de salaire ou autres prestations], autres revenus, participations, attestations d’activité, autres prétentions)</td><td>T</td><td>V</td><td>V</td><td>T</td><td colspan="5">T</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.1.6 Données relatives aux prestations d’assurance, aux rentes ou aux indemnités journalières de l’assuré (AVS, AI, LPP, IJM, sécurité sociale étrangère)</td><td>T</td><td>V</td><td>V</td><td>T</td><td colspan="5">T</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.1.7 Données de l’assuré relatives à la maladie, à l’accident, à la maternité, au service militaire, au service civil ou au service de protection civile, au séjour en établissement de détention ou en établissement d’éducation ou autre</td><td>T</td><td>V</td><td>V</td><td>T</td><td colspan="5">T</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.1.8 Données de l’assuré relatives au droit de toucher des indemnités</td><td>T</td><td>V</td><td>V</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.1.9 Données de paiement, y compris en lien avec des demandes de restitution (dates de versements, rappels et poursuites, demandes de remise et remises)</td><td>T</td><td>V</td><td>V</td><td>–</td><td colspan="5">T</td><td>-</td><td>T</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.1.10 Données de paiement (primes) aux assurances sociales</td><td>T</td><td>–</td><td>–</td><td>–</td><td colspan="5">T</td><td>–</td><td>T</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.1.11 Données de l’assuré relatives à l’impôt à la source</td><td>T</td><td>V</td><td>V</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.1.12 Décisions à l’intention de l’assuré</td><td>T</td><td>V</td><td>V</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.1.13 Données de l’entreprise pour l’IC (n° REE, IDE, nom, forme juridique, adresse et données relatives à l’activité, aux rapports de travail, aux rapports de participation et aux droits de l’assuré)</td><td>T</td><td>V</td><td>V</td><td>T</td><td colspan="5">T</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.1.14 Données de l’institution étrangère ou de l’organisme de liaison étranger</td><td>V</td><td>V</td><td>V</td><td>T</td><td colspan="5">T</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.1.15 Décomptes de l’organisme de liaison étranger</td><td>V</td><td>–</td><td>–</td><td>–</td><td colspan="5">T</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>**3.2** **Indemnité en cas d’insolvabilité**</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.1 Données personnelles de l’assuré (cf. 3.1.1)</td><td>V</td><td>T</td><td>V</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.2.2 Coordonnées de l’assuré (cf. 3.1.2)</td><td>V</td><td>T</td><td>V</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.2.3 Coordonnées de paiement/IBAN de l’assuré</td><td>V</td><td>T</td><td>V</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.2.4 Données relatives à l’activité de l’assuré (durée des rapports de travail, dernier jour de travail, activité, taux d’occupation, créances de salaire et autres créances [y compris avances], droit aux vacances)</td><td>V</td><td>T</td><td>V</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.2.5 Données de l’assuré relatives à la maladie, à l’accident, à la maternité, au service militaire, civil ou de protection civile</td><td>V</td><td>T</td><td>V</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.2.6 Données de l’assuré relatives au droit de toucher des indemnités</td><td>V</td><td>T</td><td>V</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.2.7 Données de l’assuré relatives aux MMT</td><td>V</td><td>T</td><td>V</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.2.8 Données de paiement, y compris en lien avec des demandes de restitution (dates de versements, rappels et poursuites, demandes de remise et remises)</td><td>V</td><td>T</td><td>V</td><td>–</td><td colspan="5">T</td><td>–</td><td>T</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.2.9 Données de paiement (primes) aux assurances sociales</td><td>T</td><td></td><td></td><td></td><td colspan="5">T</td><td></td><td>T</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.2.10 Données de l’assuré relatives à l’impôt à la source</td><td>V</td><td>T</td><td>V</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.2.11 Décisions à l’intention de l’assuré</td><td>V</td><td>T</td><td>V</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.2.12 Données de l’entreprise pour l’ICI (n<sup>o</sup> REE, IDE, nom, forme juridique, adresse et données relatives à l’activité, aux rapports de travail et aux droits de l’assuré, données relatives au décompte en faveur des assurances sociales)</td><td>V</td><td>T</td><td>V</td><td></td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>**3.3** **Indemnité en cas de réduction de l’horaire** **de travail** **et en cas d’intempéries**</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.3.1 Données de l’entreprise pour la RHT/INTEMP (n<sup>o</sup> REE, IDE, nom, forme juridique, adresse, interlocuteur; effectif, travailleurs concernés, durée de la réduction de l’horaire de travail, caisse de compensation, questionnaire [présentation de l’entreprise, situation des commandes et marche des affaires, justification de la réduction de l’horaire de travail et perspectives])</td><td>V</td><td>V</td><td>T</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.3.2 Données personnelles des travailleurs (numéro AVS, numéro personnel AC, nom, prénom, sexe, date de naissance)</td><td>V</td><td>V</td><td>T</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.3.3 Données relatives au droit de toucher des indemnités, y compris les indemnités devant être restituées par l’entreprise</td><td>V</td><td>V</td><td>T</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.3.4 Données de paiement, y compris demandes de restitution, rappels et poursuites, demandes de remise et remises en faveur de l’entreprise</td><td>V</td><td>V</td><td>T</td><td>–</td><td colspan="5">T</td><td>–</td><td>T</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>3.3.5 Décisions à l’intention de l’entreprise</td><td>V</td><td>V</td><td>T</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>**3.4** **Coûts de projet pour les mesures relatives aux MMT**</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.4.1 Données de paiement</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="5">T</td><td>–</td><td>T</td><td>T</td><td>T</td><td>T</td></tr>
 </table>
 
 Annexe 2
@@ -397,7 +400,7 @@ Annexe 2
 
 ## Système d’information servant au placement public (art. 83, al. 1<sup>bis</sup>, let. b, LACI): données et droits d’accès
 
-### 1 Abréviations
+## 1. Abréviations
 
 <table>
 <tr><td>AC Autorités chargées des contrôles relatifs à l’obligation d’annoncer les postes vacants</td></tr>
@@ -427,7 +430,7 @@ Légendes:
 </table>
 
 <table>
-<tr><th></th><th>ACt</th><th>AS dans le cadre de la CII</th><th>AI dans le cadre de IIZ</th><th>DC</th></tr>
+<tr><th></th><th>ACt</th><th>AS dans le cadre de la CII</th><th>AI dans le cadre de CII</th><th>DC</th></tr>
 <tr><td>Demandeurs d’emploi</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Nom, prénom, adresse, téléphone, télécopie, courriel, date de naissance, sexe, état civil, nationalité, n<sup>o</sup> AVS ou de sécurité sociale, numéro personnel, statut et autorisation de séjour</td><td>T</td><td>P</td><td>P</td><td>T</td></tr>
 <tr><td>Date et lieu d’inscription, arrêt d’assignation, statut professionnel et situation professionnelle, prestations perçues ou aide aux chômeurs cantonale, autorités et personnes compétentes</td><td>T</td><td>P</td><td>P</td><td>T</td></tr>
@@ -435,13 +438,13 @@ Légendes:
 <tr><td>Genre et volume de l’activité recherchée (disponibilité), mobilité, permis de conduire, dernier employeur et branche de l’entreprise</td><td>T</td><td>P</td><td>P</td><td>T</td></tr>
 <tr><td>Autorisation de transmettre les données</td><td>T</td><td>P</td><td>P</td><td>T</td></tr>
 <tr><td>Début, durée et montant du droit aux prestations d’assurance, délai-cadre, taux d’occupation, chômage de longue durée, CCh/office de paiement et interlocuteur, période de contrôle</td><td>P</td><td>–</td><td>–</td><td>P</td></tr>
-<tr><td>Date, heure et lieu des entretiens de conseil et de contrôle, procès-verbaux des entretiens</td><td>P</td><td></td><td>P</td><td>P</td></tr>
-<tr><td>Employabilité, qualifications nécessaires, données SI-PAC nécessaires pour la réinsertion, objectifs et actions de réinsertion,</td><td>P</td><td>P</td><td>P</td><td>P</td></tr>
+<tr><td>Date, heure et lieu des entretiens de conseil et de contrôle, procès‑verbaux des entretiens</td><td>P</td><td></td><td>P</td><td>P</td></tr>
+<tr><td>Employabilité, qualifications nécessaires, données SI-PAC nécessaires pour la réinsertion, objectifs et actions de réinsertion</td><td>P</td><td>P</td><td>P</td><td>P</td></tr>
 <tr><td>Conseil spécialisé assigné</td><td>P</td><td>P</td><td>P</td><td>P</td></tr>
 <tr><td>Assignations, interlocuteur, résultat des assignations</td><td>T</td><td>P</td><td>P</td><td>T</td></tr>
 <tr><td>Résultats des mises en relation</td><td>T</td><td>–</td><td>P</td><td>T</td></tr>
 <tr><td>Genre, durée et montant d’un gain intermédiaire; interlocuteur dans l’entreprise pendant le gain intermédiaire</td><td>P</td><td>P</td><td>P</td><td>P</td></tr>
-<tr><td>Genre, durée, lieu d’exécution et coûts d’une MMT (nom de la mesure, organisateur, début et fin, obligation de présence, responsable LMMT, groupes-cible, conditions préalables, lieu d’exécution, personne responsable), données du demandeur d’emploi nécessaires pour les MMT, données SI-PAC nécessaires pour les MMT</td><td>P</td><td>P</td><td>P</td><td>P</td></tr>
+<tr><td>Genre, durée, lieu d’exécution et coûts d’une MMT (nom de la mesure, organisateur, début et fin, obligation de présence, responsable LMMT, groupes-cible, conditions préalables, lieu d’exécution, personne responsable), données du demandeur d’emploi nécessaires pour les MMT, données SI‑PAC nécessaires pour les MMT</td><td>P</td><td>P</td><td>P</td><td>P</td></tr>
 <tr><td>Exportation de prestations</td><td>P</td><td>P</td><td>P</td><td>–</td></tr>
 <tr><td>Recherches de travail (période de contrôle, conseiller), libération de l’obligation de présenter les recherches d’emploi</td><td>P</td><td>P</td><td>P</td><td>–</td></tr>
 <tr><td>Indications concernant le motif, le début et la durée des sanctions, aptitude au placement</td><td>P</td><td>–</td><td>P</td><td>–</td></tr>
@@ -449,7 +452,7 @@ Légendes:
 </table>
 
 <table>
-<tr><th></th><th>ACt</th><th>AS dans le cadre de la CII</th><th>AI dans le cadre de IIZ</th><th>DC</th><th>AC</th></tr>
+<tr><th></th><th>ACt</th><th>AS dans le cadre de la CII</th><th>AI dans le cadre de CII</th><th>DC</th><th>AC</th></tr>
 <tr><td>Entreprises</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Nom, adresse, téléphone, télécopie, courriel, adresse Internet, branche, statut de la société, no de référence</td><td>T</td><td>P</td><td>T</td><td>T</td><td>T</td></tr>
 <tr><td>Données REE (numéro, adresse, téléphone, forme juridique, taille de l’entreprise, statut économique, langue de travail), données du registre du commerce</td><td>T</td><td>P</td><td>T</td><td>T</td><td>–</td></tr>
@@ -478,7 +481,7 @@ Annexe 3
 ### 2. Description des rôles
 
 <table>
-<tr><td>Rôles</td><td>Description</td></tr>
+<tr><th>Rôles</th><th>Description</th></tr>
 <tr><td>Anonyme</td><td>Utilisateurs sans compte d’accès pour la plateforme du service public de l’emploi</td></tr>
 <tr><td>DE</td><td>Demandeur d’emploi actif inscrit auprès de l’ORP ou personne assurée possédant un compte d’accès sur la plateforme du service public de l’emploi</td></tr>
 <tr><td>Employeur</td><td>Employeur possédant un compte d’accès pour la plateforme du service public de l’emploi</td></tr>
@@ -498,7 +501,7 @@ Légendes:
 </table>
 
 <table>
-<tr><th>[F020]Opérations</th><th colspan="7">Rôles</th></tr>
+<tr><th>Opérations</th><th colspan="7">Rôles</th></tr>
 <tr><th></th><th>Anonyme</th><th>DE</th><th>Employeur</th><th>APP</th><th>Admin système</th><th>SPE</th><th>Organisateur de MMT</th></tr>
 <tr><td>Rechercher des candidats</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Voir les données personnelles et de contact des candidats</td><td>–</td><td>–</td><td>–</td><td>X</td><td>X</td><td>–</td><td>–</td></tr>

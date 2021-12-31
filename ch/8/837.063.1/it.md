@@ -4,11 +4,11 @@ title: "Ordinanza del 26 maggio 2021 sui sistemi d’informazione gestiti dall�
 short: OSI-AC
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/337"
 language: it
-version: 2021-07-01
+version: 2022-01-01
 adopted: 2021-05-26
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/337/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2021-337-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/337/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-337-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20210701/it"
 
 (Ordinanza sui sistemi d’informazione AD, OSI-AD)
 
-del 26 maggio 2021 (Stato 1° luglio 2021)
+del 26 maggio 2021 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -289,53 +289,56 @@ Sono abrogate:
 
 **Entrata in vigore**
 
-La presente ordinanza entra in vigore il 1° luglio 2021
+La presente ordinanza entra in vigore il 1° luglio 2021.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 9)
 
 ## Sistema d’informazione per il pagamento delle prestazioni dell’assicurazione contro la disoccupazione (art. 83 cpv. 1<sup>bis</sup> lett. a LADI): dati e diritti di accesso
 
+[^t-1]: Aggornato dall’all. n. II 42 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+
 ### 1. Abbreviazioni
 
-- AVS Assicurazione per la vecchiaia e per i superstiti
-- AD Assicurazione contro la disoccupazione
-- AI Assicurazione per l’invalidità
-- CI Conto individuale
-- Coll. Collaboratore
-- EESSI Electronic Exchange of Social Security Information
-- IBAN International Bank Account Number
-- ID Indennità di disoccupazione
-- IDI Numero d’identificazione delle imprese
-- IGM Indennità giornaliera in caso di malattia
-- II Indennità per insolvenza
-- ILR Indennità per lavoro ridotto
-- IPI Indennità per intemperie
-- LPP (Legge federale sulla) previdenza professionale per la vecchiaia, i superstiti e l’invalidità
-- NPA Numero postale di avviamento
-- PML Provvedimenti inerenti al mercato del lavoro
-- RINA Reference Implementation for a National Application
-- RIS Registro delle imprese e degli stabilimenti
-- UPI Unique Person Identification
+<table>
+<tr><td>AD Assicurazione contro la disoccupazione</td></tr>
+<tr><td>AI Assicurazione per l’invalidità</td></tr>
+<tr><td>AVS Assicurazione per la vecchiaia e per i superstiti</td></tr>
+<tr><td>CI Conto individuale</td></tr>
+<tr><td>Coll. Collaboratore</td></tr>
+<tr><td>EESSI Electronic Exchange of Social Security Information</td></tr>
+<tr><td>IBAN International Bank Account Number</td></tr>
+<tr><td>ID Indennità di disoccupazione</td></tr>
+<tr><td>IDI Numero d’identificazione delle imprese</td></tr>
+<tr><td>IGM Indennità giornaliera in caso di malattia</td></tr>
+<tr><td>II Indennità per insolvenza</td></tr>
+<tr><td>ILR Indennità per lavoro ridotto</td></tr>
+<tr><td>IPI Indennità per intemperie</td></tr>
+<tr><td>LPP (Legge federale sulla) previdenza professionale per la vecchiaia, i superstiti e l’invalidità</td></tr>
+<tr><td>NPA Numero postale di avviamento</td></tr>
+<tr><td>PML Provvedimenti inerenti al mercato del lavoro</td></tr>
+<tr><td>RINA Reference Implementation for a National Application</td></tr>
+<tr><td>RIS Registro delle imprese e degli stabilimenti</td></tr>
+<tr><td>UPI Unique Person Identification</td></tr>
+</table>
 
 ### 2. Descrizione dei ruoli
 
-### 2.1 Casse di disoccupazione
-
-- Coll. ID Collaboratori incaricati del trattamento per il tipo di prestazione ID, incl. i responsabili di gruppo e i responsabili del controllo per l’ID nonché i collaboratori incaricati del trattamento per tutti i tipi di prestazioni
-- Coll. II Collaboratori incaricati del trattamento per il tipo di prestazione II, incl. i responsabili di gruppo e i responsabili del controllo per l’II nonché i collaboratori incaricati del trattamento per tutti i tipi di prestazioni
-- Coll. ILR/IPI Collaboratori incaricati del trattamento per il tipo di prestazione ILR/IPI, incl. i responsabili di gruppo e i responsabili del controllo per l’ILR e l’IPI nonché i collaboratori incaricati del trattamento per tutti i tipi di prestazioni
-- Coll. INT Collaboratori incaricati del trattamento dei dossier internazionali
-- Coll. FIN Collaboratori delle finanze
-
-### 2.2 Ufficio di compensazione AD
-
-- Coll. INT Collaboratori incaricati del trattamento dei dossier internazionali
-- Coll. REV Collaboratori incaricati della revisione per tutti i tipi di prestazioni, incl. i PML
-- Coll. SG Collaboratori del servizio giuridico per tutti i tipi di prestazioni, incl. i PML
-- Coll. SUP Collaboratori del supporto tecnico e per le applicazioni dell’ufficio di compensazione AD e partner esterni di tale ufficio
-- Coll. FIN Collaboratori delle finanze
+<table>
+<tr><td>2.1</td><td colspan="2">Casse di disoccupazione</td></tr>
+<tr><td></td><td>Coll. ID</td><td>Collaboratori incaricati del trattamento per il tipo di prestazione ID, incl. i responsabili di gruppo e i responsabili del controllo per l’ID nonché i collaboratori incaricati del trattamento per tutti i tipi di prestazioni</td></tr>
+<tr><td></td><td>Coll. II</td><td>Collaboratori incaricati del trattamento per il tipo di prestazione II, incl. i responsabili di gruppo e i responsabili del controllo per l’II nonché i collaboratori incaricati del trattamento per tutti i tipi di prestazioni</td></tr>
+<tr><td></td><td>Coll. ILR/IPI</td><td>Collaboratori incaricati del trattamento per il tipo di prestazione ILR/IPI, incl. i responsabili di gruppo e i responsabili del controllo per l’ILR e l’IPI nonché i collaboratori incaricati del trattamento per tutti i tipi di prestazioni</td></tr>
+<tr><td></td><td>Coll. INT</td><td>Collaboratori incaricati del trattamento dei dossier internazionali</td></tr>
+<tr><td></td><td>Coll. FIN</td><td>Collaboratori delle finanze</td></tr>
+<tr><td>2.2</td><td colspan="2">Ufficio di compensazione AD</td></tr>
+<tr><td></td><td>Coll. INT</td><td>Collaboratori incaricati del trattamento dei dossier internazionali</td></tr>
+<tr><td></td><td>Coll. REV</td><td>Collaboratori incaricati della revisione per tutti i tipi di prestazioni, incl. i PML</td></tr>
+<tr><td></td><td>Coll. SG</td><td>Collaboratori del servizio giuridico per tutti i tipi di prestazioni, incl. i PML</td></tr>
+<tr><td></td><td>Coll. SUP</td><td>Collaboratori del supporto tecnico e per le applicazioni dell’ufficio di compensazione AD e partner esterni di tale ufficio</td></tr>
+<tr><td></td><td>Coll. FIN</td><td>Collaboratori delle finanze</td></tr>
+</table>
 
 ### 3. Dati e diritti di accesso
 
@@ -350,10 +353,10 @@ Legenda:
 <table>
 <tr><th></th><th colspan="5">Casse di disoccupazione</th><th></th><th></th><th></th><th></th><th colspan="5">Ufficio di compensazione AD</th><th></th><th></th><th></th><th></th></tr>
 <tr><th></th><th>Coll. ID</th><th>Coll. II</th><th>Coll. ILR/IPI</th><th>Coll. INT</th><th colspan="5">Coll. FIN</th><th>Coll. INT</th><th>Coll. FIN</th><th>Coll. REV</th><th>Coll. SG</th><th colspan="5">Coll. SUP</th></tr>
-<tr><td>3.1 Indennità di disoccupazione e dossier internazionali</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td></td><td></td><td></td><td></td><td colspan="5"></td></tr>
-<tr><td>3.1.1 Dati personali dell’assicurato (n. di assicurato dell’AVS, numero personale AD, cognome, nome, sesso, data di nascita, lingua, stato civile, cittadinanza, statuto di soggiorno, luogo di attinenza, rappresentante)</td><td>T</td><td>C</td><td>C</td><td>T</td><td colspan="5">T</td><td>T</td><td>–</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
-<tr><td>3.1.2 Recapito dell’assicurato (via, n., NPA, luogo, numeri di telefono, e-mail)</td><td>T</td><td>C</td><td>C</td><td>T</td><td colspan="5">T</td><td>T</td><td>–</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
-<tr><td>3.1.3 Dati concernenti i figli dell’assicurato (numero di figli e numero di assicurato dell’AVS, cognome, nome, sesso, data di nascita dei figli)</td><td>T</td><td>C</td><td>C</td><td>T</td><td colspan="5">T</td><td>T</td><td>.</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
+<tr><td>**3.1** **Indennità di disoccupazione e dossier internazionali**</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td></td><td></td><td></td><td></td><td colspan="5"></td></tr>
+<tr><td>3.1.1 Dati personali dell’assicurato (numero AVS, numero personale AD, cognome, nome, sesso, data di nascita, lingua, stato civile, cittadinanza, statuto di soggiorno, luogo di attinenza, rappresentante)</td><td>T</td><td>C</td><td>C</td><td>T</td><td colspan="5">T</td><td>T</td><td>–</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
+<tr><td>3.1.2 Recapito dell’assicurato (via, n., NPA, luogo, numeri di telefono, e‑mail)</td><td>T</td><td>C</td><td>C</td><td>T</td><td colspan="5">T</td><td>T</td><td>–</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
+<tr><td>3.1.3 Dati concernenti i figli dell’assicurato (numero di figli e numero AVS, cognome, nome, sesso, data di nascita dei figli)</td><td>T</td><td>C</td><td>C</td><td>T</td><td colspan="5">T</td><td>T</td><td>.</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
 <tr><td>3.1.4 Coordinate di pagamento/IBAN dell’assicurato</td><td>T</td><td>C</td><td>C</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
 <tr><td>3.1.5 Dati concernenti l’attività e la capacità lucrativa dell’assicurato (tasso di occupazione, capacità lavorativa, ultimi rapporti di lavoro [incl. disdetta, pretese salariali e/o altre prestazioni], altri redditi, partecipazioni, attestati di attività, altre pretese)</td><td>T</td><td>C</td><td>C</td><td>T</td><td colspan="5">T</td><td>T</td><td>–</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
 <tr><td>3.1.6 Dati concernenti le prestazioni assicurative, le rendite e/o le indennità giornaliere dell’assicurato (AVS, AI, LPP, IGM, assicurazione sociale estera)</td><td>T</td><td>C</td><td>C</td><td>T</td><td colspan="5">T</td><td>T</td><td>–</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
@@ -366,7 +369,7 @@ Legenda:
 <tr><td>3.1.13 Dati dell’azienda per l’ID (n. RIS, IDI, cognome, forma giuridica, indirizzo e dati concernenti l’attività lucrativa, il rapporto di lavoro, i rapporti di partecipazione e i diritti dell’assicurato)</td><td>T</td><td>C</td><td>C</td><td>T</td><td colspan="5">T</td><td>T</td><td>–</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
 <tr><td>3.1.14 Dati dell’ente estero e/o dell’organo di collegamento estero</td><td>C</td><td>C</td><td>C</td><td>T</td><td colspan="5">T</td><td>T</td><td>–</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
 <tr><td>3.1.15 Conteggi dell’organo di collegamento estero</td><td>C</td><td>–</td><td>–</td><td>–</td><td colspan="5">T</td><td>T</td><td>–</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
-<tr><td>3.2 Indennità per insolvenza</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td></td><td></td><td></td><td></td><td colspan="5"></td></tr>
+<tr><td>**3.2** **Indennità per insolvenza**</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td></td><td></td><td></td><td></td><td colspan="5"></td></tr>
 <tr><td>3.2.1 Dati personali dell’assicurato (cfr. 3.1.1)</td><td>C</td><td>T</td><td>C</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
 <tr><td>3.2.2 Recapito dell’assicurato (cfr. 3.1.2)</td><td>C</td><td>T</td><td>C</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
 <tr><td>3.2.3 Coordinate di pagamento/IBAN dell’assicurato</td><td>C</td><td>T</td><td>C</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
@@ -379,13 +382,13 @@ Legenda:
 <tr><td>3.2.10 Dati concernenti l’imposta alla fonte dell’assicurato</td><td>C</td><td>T</td><td>C</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
 <tr><td>3.2.11 Decisioni per l’assicurato</td><td>C</td><td>T</td><td>C</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
 <tr><td>3.2.12 Dati dell’azienda per l’II (n. RIS, IDI, cognome, forma giuridica, indirizzo e dati concernenti l’attività lucrativa, il rapporto di lavoro e i diritti dell’assicurato, dati concernenti il conteggio destinato alle assicurazioni sociali)</td><td>C</td><td>T</td><td>C</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
-<tr><td>3.3 Indennità per lavoro ridotto e per intemperie</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td></td><td></td><td></td><td></td><td colspan="5"></td></tr>
+<tr><td>**3.3** **Indennità per lavoro ridotto e per intemperie**</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td></td><td></td><td></td><td></td><td colspan="5"></td></tr>
 <tr><td>3.3.1 Dati dell’azienda per l’ILR/IPI (n. RIS, IDI, cognome, forma giuridica, indirizzo, interlocutore; effettivo del personale, lavoratori interessati, durata del lavoro ridotto, cassa di compensazione, questionario [presentazione dell’azienda, ordinazioni e volume d’affari, motivi del lavoro ridotto e prospettive])</td><td>C</td><td>C</td><td>T</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
-<tr><td>3.3.2 Dati personali del dipendente (n. di assicurato dell’AVS, numero personale AD, cognome, nome, sesso, data di nascita)</td><td>C</td><td>C</td><td>T</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
+<tr><td>3.3.2 Dati personali del dipendente (numero AVS, numero personale AD, cognome, nome, sesso, data di nascita)</td><td>C</td><td>C</td><td>T</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
 <tr><td>3.3.3 Dati del diritto, incl. restituzioni di indennità da parte dell’azienda</td><td>C</td><td>C</td><td>T</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
 <tr><td>3.3.4 Dati di pagamento, incl. domande di restituzione, solleciti ed esecuzioni, domande di condono e condoni dell’azienda</td><td>C</td><td>C</td><td>T</td><td>–</td><td colspan="5">T</td><td>–</td><td>T</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
 <tr><td>3.3.5 Decisioni per l’azienda</td><td>C</td><td>C</td><td>T</td><td>–</td><td colspan="5">T</td><td>–</td><td>–</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
-<tr><td>3.4 Costi di progetto per PML</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td></td><td></td><td></td><td></td><td colspan="5"></td></tr>
+<tr><td>**3.4** **Costi di progetto per PML**</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td></td><td></td><td></td><td></td><td colspan="5"></td></tr>
 <tr><td>3.4.1 Dati di pagamento</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="5">T</td><td>–</td><td>T</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
 </table>
 
@@ -395,23 +398,25 @@ Allegato 2
 
 ## Sistema d’informazione per il collocamento pubblico (art. 83 cpv. 1<sup>bis</sup> lett. b LADI): dati e diritti d’accesso
 
-### 1. Abbreviazioni
+## 1. Abbreviazioni
 
-- AVS Assicurazione per la vecchiaia e per i superstiti
-- CAD Cassa di disoccupazione
-- PML Provvedimenti inerenti al mercato del lavoro
-- RIS Registro delle imprese e degli stabilimenti
-- CII Collaborazione interistituzionale
-- SI-PAD Sistema d’informazione per il pagamento delle prestazioni dell’assicurazione contro la disoccupazione
-- AI Assicurazione per l’invalidità
-- ILR Indennità per lavoro ridotto
-- SC Servizio cantonale
-- AC Autorità incaricate dai Cantoni di controllare l’adempimento dell’obbligo di annunciare i posti vacanti
-- DC Direzione consolare del Dipartimento federale degli affari esteri
-- Coll. Collaboratore
-- AS Assistenza sociale
-- RINA Reference Implementation for a National Application
-- IPI Indennità per intemperie
+<table>
+<tr><td>AC Autorità incaricate dai Cantoni di controllare l’adempimento dell’obbligo di annunciare i posti vacanti</td></tr>
+<tr><td>AI Assicurazione per l’invalidità</td></tr>
+<tr><td>AS Assistenza sociale</td></tr>
+<tr><td>AVS Assicurazione per la vecchiaia e per i superstiti</td></tr>
+<tr><td>CAD Cassa di disoccupazione</td></tr>
+<tr><td>CII Collaborazione interistituzionale</td></tr>
+<tr><td>Coll. Collaboratore</td></tr>
+<tr><td>DC Direzione consolare del Dipartimento federale degli affari esteri</td></tr>
+<tr><td>ILR Indennità per lavoro ridotto</td></tr>
+<tr><td>IPI Indennità per intemperie</td></tr>
+<tr><td>PML Provvedimenti inerenti al mercato del lavoro</td></tr>
+<tr><td>RINA Reference Implementation for a National Application</td></tr>
+<tr><td>RIS Registro delle imprese e degli stabilimenti</td></tr>
+<tr><td>SC Servizio cantonale</td></tr>
+<tr><td>SI-PAD Sistema d’informazione per il pagamento delle prestazioni dell’assicurazione contro la disoccupazione</td></tr>
+</table>
 
 ### 2. Dati e diritti di accesso
 
@@ -426,37 +431,37 @@ Legenda:
 <table>
 <tr><th></th><th>SC</th><th>AS nel quadro della CII</th><th>AI nel quadro della CII</th><th>DC</th></tr>
 <tr><td>Persone in cerca d’impiego</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Cognome, nome, indirizzo, numero di telefono, numero di fax, indirizzo e-mail, data di nascita, sesso, stato civile, cittadinanza, numero AVS/numero di assicurazione sociale, numero personale, statuto e permesso di soggiorno</td><td>T</td><td>C</td><td>C</td><td>T</td></tr>
+<tr><td>Cognome, nome, indirizzo, numero di telefono, numero di fax, indirizzo e‑mail, data di nascita, sesso, stato civile, cittadinanza, numero AVS/numero di assicurazione sociale, numero personale, statuto e permesso di soggiorno</td><td>T</td><td>C</td><td>C</td><td>T</td></tr>
 <tr><td>Data e luogo dell’annuncio, fine delle assegnazioni, status e situazione occupazionali, riscossione delle prestazioni/assistenza cantonale ai disoccupati, servizi e persone competenti</td><td>T</td><td>C</td><td>C</td><td>T</td></tr>
 <tr><td>Qualifiche professionali, capacità ed esperienze, curriculum vitae, conoscenze linguistiche</td><td>T</td><td>C</td><td>C</td><td>T</td></tr>
 <tr><td>Genere ed entità dell’attività desiderata (disponibilità), mobilità, licenza di condurre, regione di lavoro, ultimo datore di lavoro e settore economico</td><td>T</td><td>C</td><td>C</td><td>T</td></tr>
 <tr><td>Autorizzazione a trasmettere i dati</td><td>T</td><td>C</td><td>C</td><td>T</td></tr>
-<tr><td>Diritto alle prestazioni dell’assicurazione (inizio, durata e ammontare), termine quadro, tassi di occupazione, disoccupazione di lunga durata, CAD/Ufficio di pagamento e collaboratore responsabile, periodo di controllo</td><td>C</td><td>-</td><td>-</td><td>C</td></tr>
-<tr><td>Date dei colloqui di controllo e di consulenza (data, ora e luogo), verbali dei colloqui di consulenza</td><td>C</td><td>-</td><td>C</td><td>C</td></tr>
+<tr><td>Diritto alle prestazioni dell’assicurazione (inizio, durata e ammontare), termine quadro, tassi di occupazione, disoccupazione di lunga durata, CAD/Ufficio di pagamento e collaboratore responsabile, periodo di controllo</td><td>C</td><td>–</td><td>–</td><td>C</td></tr>
+<tr><td>Date dei colloqui di controllo e di consulenza (data, ora e luogo), verbali dei colloqui di consulenza</td><td>C</td><td>–</td><td>C</td><td>C</td></tr>
 <tr><td>Collocabilità, fabbisogno di qualificazione, dati SI-PAD necessari per il reinserimento, obiettivi di reinserimento, azioni di reinserimento</td><td>C</td><td>C</td><td>C</td><td>C</td></tr>
 <tr><td>Consulenze tecniche assegnate</td><td>C</td><td>C</td><td>C</td><td>C</td></tr>
 <tr><td>Assegnazioni a offerte d’impiego, persona di contatto, risultato dell’assegnazione</td><td>T</td><td>C</td><td>C</td><td>T</td></tr>
-<tr><td>Risultati del *matching*</td><td>T</td><td>-</td><td>C</td><td>T</td></tr>
-<tr><td>Genere, durata e ammontare di un guadagno intermedio, coordinate del datore di lavoro durante il guadagno intermedio</td><td>C</td><td>-</td><td>C</td><td>C</td></tr>
-<tr><td>Genere, durata, luogo di svolgimento e costi di un PML (denominazione del provvedimento, organizzatore, inizio e fine, obbligo di presenza, responsabile LPML, destinatari, presupposti minimi, luogo di svolgimento, persona responsabile), dati della persona in cerca d’impiego necessari per i PML, dati SI-PAD necessari per i PML),</td><td>C</td><td>C</td><td>C</td><td>C</td></tr>
-<tr><td>Esportazioni delle prestazioni</td><td>C</td><td>C</td><td>C</td><td>-</td></tr>
-<tr><td>Ricerche di lavoro (periodo di controllo, consulente), esenzione dall’obbligo di comprovare le ricerche di lavoro</td><td>C</td><td>C</td><td>C</td><td>-</td></tr>
-<tr><td>Motivo, inizio e durata delle sanzioni, idoneità al collocamento</td><td>C</td><td>-</td><td>C</td><td>-</td></tr>
+<tr><td>Risultati del *matching*</td><td>T</td><td>–</td><td>C</td><td>T</td></tr>
+<tr><td>Genere, durata e ammontare di un guadagno intermedio, coordinate del datore di lavoro durante il guadagno intermedio</td><td>C</td><td>–</td><td>C</td><td>C</td></tr>
+<tr><td>Genere, durata, luogo di svolgimento e costi di un PML (denominazione del provvedimento, organizzatore, inizio e fine, obbligo di presenza, responsabile LPML, destinatari, presupposti minimi, luogo di svolgimento, persona responsabile), dati della persona in cerca d’impiego necessari per i PML, dati SI‑PAD necessari per i PML),</td><td>C</td><td>C</td><td>C</td><td>C</td></tr>
+<tr><td>Esportazioni delle prestazioni</td><td>C</td><td>C</td><td>C</td><td>–</td></tr>
+<tr><td>Ricerche di lavoro (periodo di controllo, consulente), esenzione dall’obbligo di comprovare le ricerche di lavoro</td><td>C</td><td>C</td><td>C</td><td>–</td></tr>
+<tr><td>Motivo, inizio e durata delle sanzioni, idoneità al collocamento</td><td>C</td><td>–</td><td>C</td><td>–</td></tr>
 <tr><td>Data e motivo della disiscrizione, inizio del lavoro, nuovo datore di lavoro, nuovo Cantone di lavoro, settore e professione trovata</td><td>C</td><td>C</td><td>C</td><td>C</td></tr>
 </table>
 
 <table>
 <tr><th></th><th>SC</th><th>AS nel quadro della CII</th><th>AI nel quadro della CII</th><th>DC</th><th>AC</th></tr>
 <tr><td>Imprese</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Nome, indirizzo, numero di telefono, numero di fax, indirizzo e-mail, sito Internet, settore, stato dell’impresa, numero di rimando</td><td>T</td><td>C</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>Dati RIS (numero RIS, indirizzo, numero di telefono, forma giuridica, dimensione dell’impresa, situazione economica, lingua di lavoro), dati del registro di commercio</td><td>T</td><td>C</td><td>T</td><td>T</td><td>-</td></tr>
+<tr><td>Nome, indirizzo, numero di telefono, numero di fax, indirizzo e‑mail, sito Internet, settore, stato dell’impresa, numero di rimando</td><td>T</td><td>C</td><td>T</td><td>T</td><td>T</td></tr>
+<tr><td>Dati RIS (numero RIS, indirizzo, numero di telefono, forma giuridica, dimensione dell’impresa, situazione economica, lingua di lavoro), dati del registro di commercio</td><td>T</td><td>C</td><td>T</td><td>T</td><td>–</td></tr>
 <tr><td>Persone di contatto (funzione, posizione, lingua, indirizzo, numero di telefono, numero di fax, indirizzo e-mail)</td><td>T</td><td>C</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>Accordo di collaborazione, attività, raggiungibilità</td><td>T</td><td>C</td><td>T</td><td>T</td><td>-</td></tr>
+<tr><td>Accordo di collaborazione, attività, raggiungibilità</td><td>T</td><td>C</td><td>T</td><td>T</td><td>–</td></tr>
 <tr><td>Categorie professionali impiegate</td><td>T</td><td>C</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>Andamento degli affari (periodo, posti, posti occupati dall’URC, ILR, IPI, numero di persone in cerca d’impiego occupate, assegni)</td><td>T</td><td>C</td><td>T</td><td>T</td><td>-</td></tr>
+<tr><td>Andamento degli affari (periodo, posti, posti occupati dall’URC, ILR, IPI, numero di persone in cerca d’impiego occupate, assegni)</td><td>T</td><td>C</td><td>T</td><td>T</td><td>–</td></tr>
 <tr><td>Posti a concorso, assegnazioni, offerte d’impiego, ritiro delle offerte (motivo, data), descrizione dei posti, condizioni di lavoro (data di inizio, durata, tasso di occupazione, salario, luogo), attività, requisiti (qualifiche, esperienza, livello formativo, titolo di studio), conoscenze linguistiche richieste, persona di contatto, assegnazioni</td><td>T</td><td>C</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>Risultati del *matching*</td><td>T</td><td>-</td><td>T</td><td>T</td><td>-</td></tr>
-<tr><td>Diritto alle prestazioni dell’assicurazione (inizio, durata e ammontare), servizi e persone competenti, settore d’esercizio, numero di lavoratori interessati</td><td>T</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>Risultati del *matching*</td><td>T</td><td>–</td><td>T</td><td>T</td><td>–</td></tr>
+<tr><td>Diritto alle prestazioni dell’assicurazione (inizio, durata e ammontare), servizi e persone competenti, settore d’esercizio, numero di lavoratori interessati</td><td>T</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
 </table>
 
 Allegato 3
@@ -475,7 +480,7 @@ Allegato 3
 ### 2. Descrizione dei ruoli
 
 <table>
-<tr><td>Ruoli</td><td>Descrizione</td></tr>
+<tr><th>Ruoli</th><th>Descrizione</th></tr>
 <tr><td>Anonimo</td><td>Utente senza account di accesso alla piattaforma del servizio pubblico di collocamento</td></tr>
 <tr><td>PCI</td><td>Persona in cerca d’impiego attiva annunciata presso l’URC e/o assicurato con account di accesso alla piattaforma del servizio pubblico di collocamento</td></tr>
 <tr><td>Datore di lavoro</td><td>Datore di lavoro con account di accesso alla piattaforma del servizio pubblico di collocamento</td></tr>
@@ -497,21 +502,21 @@ Legenda:
 <table>
 <tr><th>Funzioni</th><th colspan="7">Ruoli</th></tr>
 <tr><th></th><th>Anonimo</th><th>PCI</th><th>Datore di lavoro</th><th>Collocatori privati</th><th>Admin sistema</th><th>SPC</th><th>Organizzatore PML</th></tr>
-<tr><td>Cercare candidati</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>Consultare i dati personali e di contatto dei candidati</td><td>–</td><td>–</td><td>–</td><td>x</td><td>x</td><td>–</td><td>–</td></tr>
-<tr><td>Contattare i candidati</td><td>–</td><td>–</td><td>x</td><td>x</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Annunciare un posto vacante</td><td>x</td><td>–</td><td>x</td><td>x</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Gestire i posti vacanti</td><td>–</td><td>–</td><td>x</td><td>x</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Cercare un posto vacante</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>Accedere ai servizi legati alla ricerca d’impiego</td><td>–</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>Accedere all’area con vantaggio informativo</td><td>–</td><td>x</td><td>–</td><td>–</td><td>x</td><td>x</td><td>–</td></tr>
-<tr><td>Registrare e trasmettere le prove delle ricerche personali di lavoro</td><td>–</td><td>x</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Presentare il dossier di candidatura</td><td>–</td><td>x</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Presentare le indicazioni della persona assicurata</td><td>–</td><td>x</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Presentare il preannuncio di lavoro ridotto</td><td>x</td><td>–</td><td>x</td><td>x</td><td>x</td><td>–</td><td>–</td></tr>
-<tr><td>Presentare la domanda e il conteggio di indennità per lavoro ridotto</td><td>–</td><td>–</td><td>x</td><td>x</td><td>x</td><td>–</td><td>–</td></tr>
-<tr><td>Annuncio per il collocamento</td><td>x</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Consultare i dati delle decisioni (incl. determinati dati delle persone in cerca d’impiego)</td><td>–</td><td>x</td><td>–</td><td>–</td><td>–</td><td>x</td><td>x</td></tr>
-<tr><td>Scaricare e caricare documenti relativi ai PML</td><td>–</td><td>x</td><td>–</td><td>–</td><td>–</td><td>x</td><td>x</td></tr>
-<tr><td>Amministrare il sistema</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>x</td><td>–</td></tr>
+<tr><td>Cercare candidati</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Consultare i dati personali e di contatto dei candidati</td><td>–</td><td>–</td><td>–</td><td>X</td><td>X</td><td>–</td><td>–</td></tr>
+<tr><td>Contattare i candidati</td><td>–</td><td>–</td><td>X</td><td>X</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Annunciare un posto vacante</td><td>X</td><td>–</td><td>X</td><td>X</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Gestire i posti vacanti</td><td>–</td><td>–</td><td>X</td><td>X</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Cercare un posto vacante</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Accedere ai servizi legati alla ricerca d’impiego</td><td>–</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Accedere all’area con vantaggio informativo</td><td>–</td><td>X</td><td>–</td><td>–</td><td>X</td><td>X</td><td>–</td></tr>
+<tr><td>Registrare e trasmettere le prove delle ricerche personali di lavoro</td><td>–</td><td>X</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Presentare il dossier di candidatura</td><td>–</td><td>X</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Presentare le indicazioni della persona assicurata</td><td>–</td><td>X</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Presentare il preannuncio di lavoro ridotto</td><td>X</td><td>–</td><td>X</td><td>X</td><td>X</td><td>–</td><td>–</td></tr>
+<tr><td>Presentare la domanda e il conteggio di indennità per lavoro ridotto</td><td>–</td><td>–</td><td>X</td><td>X</td><td>X</td><td>–</td><td>–</td></tr>
+<tr><td>Annuncio per il collocamento</td><td>X</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Consultare i dati delle decisioni (incl. determinati dati delle persone in cerca d’impiego)</td><td>–</td><td>X</td><td>–</td><td>–</td><td>–</td><td>X</td><td>X</td></tr>
+<tr><td>Scaricare e caricare documenti relativi ai PML</td><td>–</td><td>X</td><td>–</td><td>–</td><td>–</td><td>X</td><td>X</td></tr>
+<tr><td>Amministrare il sistema</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>X</td><td>–</td></tr>
 </table>
