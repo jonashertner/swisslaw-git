@@ -4,13 +4,13 @@ number: "210.311"
 title: Verordnung zum Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: V EG ZGB
 language: de
-version: 2018-01-01
-valid_until: 2021-12-31
-version_adopted: 2017-09-27
+version: 2022-01-01
+valid_until: 2022-06-30
+version_adopted: 2020-12-16
 adopted: 2017-09-27
 in_force: 2018-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/210.311"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2519/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3044/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2519/pdf_file"
 
 (V EG ZGB)
 
-Vom 27.09.2017 (Stand 01.01.2018)
+Vom 27.09.2017 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -41,6 +41,18 @@ beschliesst:
 <sup>1</sup> Das Departement Volkswirtschaft und Inneres (DVI) entscheidet über Namensänderungsgesuche.
 
 [^1-1]: SAR [210.300](https://gesetzessammlungen.ag.ch/data/210.300/de)
+
+#### § 1bis
+
+**Elektronische Überwachung (§ 4a EG ZGB)**
+
+<sup>1</sup> Der von der überwachten Person zu tragende pauschale Kostenanteil pro Vollzugstag beträgt Fr. 30.–.
+
+<sup>2</sup> Auf begründetes Gesuch hin kann der pauschale Kostenanteil bis auf die Hälfte reduziert werden.
+
+<sup>3</sup> Die überwachte Person trägt die für den Vollzug der elektronischen Überwachung zusätzlich anfallenden Kosten für den Festnetztelefonanschluss oder für den Mobilfunkempfang selber.
+
+<sup>4</sup> Das Amt für Justizvollzug stellt der überwachten Person Rechnung für den pauschalen Kostenanteil gemäss Absatz 1, sobald ihm der als vollstreckbar erklärte Anordnungsentscheid des zuständigen Gerichts zugekommen ist.
 
 #### § 2
 
@@ -333,9 +345,7 @@ beschliesst:
 
 #### § 36
 
-**Handelsregisteramt (§103 EG ZGB)**
-
-<sup>1</sup> Das DVI beaufsichtigt das Handelsregisteramt.
+**…**
 
 #### § 37
 
