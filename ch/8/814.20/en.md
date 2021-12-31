@@ -4,11 +4,11 @@ title: "Federal Act of 24 January 1991 on the Protection of Waters (Waters Prote
 short: WPA
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1991-01-24
 in_force: 1992-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20210101/en/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Waters Protection Act, WPA)
 
-of 24 January 1991 (Status as of 1 January 2021)
+of 24 January 1991 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -1080,15 +1080,16 @@ The Confederation may provide a risk guarantee in respect of promising new insta
 
 **Financing**[^65-1]
 
-<sup>1</sup> The Federal Assembly shall approve by a simple federal decree a temporary credit facility to ensure the payment of contributions.[^65-2]
+<sup>1</sup> The Federal Assembly shall approve by a simple federal decree a temporary guarantee credit[^65-2] to ensure the payment of contributions.[^65-3]
 
-<sup>2</sup> It shall approve by simple federal decree for successive four year periods the resources for the payment of compensatory payments that have been guaranteed in principle in application of Article 13 paragraph 6 of the Subsidies Act of 5 October 1990[^65-3].
+<sup>2</sup> It shall approve by simple federal decree for successive four year periods the resources for the payment of compensatory payments that have been guaranteed in principle in application of Article 13 paragraph 6 of the Subsidies Act of 5 October 1990[^65-4].
 
 <sup>3</sup> It shall approve by means of a multi-year guarantee credit the maximum amount for risk guarantee provided by the Confederation under Article 64*a*.
 
 [^65-1]: Amended by No I of the FA of 20 June 1997, in force since 1 Nov. 1997 ([AS 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [BBl 1996 IV 1217](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
-[^65-2]: Amended by No II 23 of the FA of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFEA), in force since 1 Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^65-3]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^65-2]: Term in accordance with Annex No 8 of the FA of 19 March 2021, in force since 1 Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^65-3]: Amended by No II 23 of the FA of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFEA), in force since 1 Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^65-4]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 #### Art. 66
 
@@ -1224,7 +1225,7 @@ Articles 6 and 7 of the Federal Act of 22 March 1974[^73-1] on Administrative Cr
 
 The Federal Act of 8 October 1971[^74-1] on the Protection of Waters against Pollution (the Waters Protection Act) is repealed.
 
-[^74-1]: [[AS 1972 950](https://fedlex.data.admin.ch/eli/oc/1972/950_958_1120), [1979 1573](https://fedlex.data.admin.ch/eli/oc/1979/1573_1573_1573)Art. 38, [1980 1796](https://fedlex.data.admin.ch/eli/oc/1980/1796_1796_1796), [1982 1961](https://fedlex.data.admin.ch/eli/oc/1982/1961_1961_1961), [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)Art. 66 No 3,[1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)No I 51, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No II 402 [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 19, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 32]
+[^74-1]: [[AS 1972 950](https://fedlex.data.admin.ch/eli/oc/1972/950_958_1120); [1979 1573](https://fedlex.data.admin.ch/eli/oc/1979/1573_1573_1573)Art. 38; [1980 1796](https://fedlex.data.admin.ch/eli/oc/1980/1796_1796_1796); [1982 1961](https://fedlex.data.admin.ch/eli/oc/1982/1961_1961_1961); [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)Art. 66 No 3;[1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)No I 51; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No II 402, [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 19; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 32]
 
 #### Art. 75
 

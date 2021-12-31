@@ -4,11 +4,11 @@ title: "Lescha federala dals 24 da schaner 1991 davart la protecziun da las auas
 short: LPAuas
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860"
 language: rm
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1991-01-24
 in_force: 1992-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20210101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20210101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20220101-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20220101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart la protecziun da las auas, LPAuas)
 
-dals 24 da schaner 1991 (versiun dal 1. da schaner 2021)
+dals 24 da schaner 1991 (versiun dal 1. da schaner 2022)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -155,7 +155,7 @@ Ils chantuns procuran per la construcziun da chanalisaziuns publicas e da stabil
 - a. da zonas da construcziun;
 - b. da gruppas d’edifizis existents ordaifer las zonas da construcziun, per las qualas las proceduras spezialas da l’allontanament da l’aua persa (art. 13) na porschan betg ina protecziun suffizienta da las auas u n’èn betg economicas.
 
-<sup>1bis</sup> Els procuran per in manaschi economic da quests stabiliments.[^10-1]
+<sup>1bis</sup> Els procuran per in manaschi economic da quests stabiliments[^10-1]
 
 <sup>2</sup> En territoris periferics u pauc populads è l’aua persa smerdada da tractar tras auters sistems che tras sereneras centralas, sche la protecziun da las auas sur e sut terra è garantida.
 
@@ -503,7 +503,7 @@ Sch’i vegn prelevà aua d’in lai u d’ina resursa d’aua sutterrana e sche
 
 [^tit2-chap3-1]
 
-[^tit2-chap3-1]: Versiun tenor la cifra I da la LF dals 11 da dec. 2009 (renatiralisaziun), en vigur dapi il 1. da schan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^tit2-chap3-1]: Oriundamain art. 37. Versiun tenor la cifra I da la LF dals 11 da dec. 2009 (renatiralisaziun), en vigur dapi il 1. da schan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
 
 #### Art. 36a
 
@@ -920,7 +920,7 @@ Ils chantuns procuran ch’ils custs per la construcziun, per la gestiun, per il
 
 [^tit3-chap4-1]
 
-[^tit3-chap4-1]: Oriundamain 3. chapitel.
+[^tit3-chap4-1]: Oriundamain 3. chapitel
 
 #### Art. 61
 
@@ -1080,15 +1080,16 @@ La Confederaziun po surpigliar ina garanzia cunter las ristgas tar stabiliments 
 
 **Finanziaziun**[^65-1]
 
-<sup>1</sup> L’Assamblea federala permetta cun in conclus federal simpel in credit general da durada limitada per la garanzia da contribuziuns.[^65-2]
+<sup>1</sup> L’Assamblea federala permetta cun in conclus federal simpel in credit d’impegn[^65-2] da durada limitada per la garanzia da contribuziuns.[^65-3]
 
-<sup>2</sup> Cun in conclus federal simpel permetta ella mintgamai per 4 onns ils meds finanzials per pajar las indemnisaziuns ch’èn vegnidas garantidas da princip applitgond l’artitgel 13 alinea 6 da la Lescha da subvenziuns dals 5 d’october 1990[^65-3].
+<sup>2</sup> Cun in conclus federal simpel permetta ella mintgamai per 4 onns ils meds finanzials per pajar las indemnisaziuns ch’èn vegnidas garantidas da princip applitgond l’artitgel 13 alinea 6 da la Lescha da subvenziuns dals 5 d’october 1990[^65-4].
 
 <sup>3</sup> Cun in credit d’impegn da plirs onns permetta ella l’import maximal fin al qual la Confederaziun dastga surpigliar garanzias cunter las ristgas tenor l’artitgel 64*a*.
 
 [^65-1]: Versiun tenor la cifra I da la LF dals 20 da zer. 1997, en vigur dapi il 1. da nov. 1997 ([AS 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [BBl 1996 IV 1217](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
-[^65-2]: Versiun tenor la cifra II 23 da la LF dals 6 d’oct. 2006 davart la refurma da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^65-3]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^65-2]: Expressiun tenor la cifra 8 da l’agiunta da la LF dals 19 da mars 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^65-3]: Versiun tenor la cifra II 23 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^65-4]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 #### Art. 66
 
@@ -1107,7 +1108,7 @@ La Confederaziun po surpigliar ina garanzia cunter las ristgas tar stabiliments 
 
 [^tit3-chap5-1]
 
-[^tit3-chap5-1]: Oriundamain 4. chapitel.
+[^tit3-chap5-1]: Oriundamain 4. chapitel
 
 #### Art. 67
 
@@ -1224,7 +1225,7 @@ Ils artitgels 6 e 7 da la Lescha federala dals 22 da mars 1974[^73-1] davart il 
 
 La Lescha federala dals 8 d’october 1971[^74-1] davart la protecziun da las auas cunter contaminaziun (Lescha federala davart la protecziun da las auas) vegn abolida.
 
-[^74-1]: [[AS 1972 950](https://fedlex.data.admin.ch/eli/oc/1972/950_958_1120), [1979 1573](https://fedlex.data.admin.ch/eli/oc/1979/1573_1573_1573)art. 38, [1980 1796](https://fedlex.data.admin.ch/eli/oc/1980/1796_1796_1796), [1982 1961](https://fedlex.data.admin.ch/eli/oc/1982/1961_1961_1961), [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)art. 66 cifra 3, [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I 51, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra II 402 [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)agiunta cifra 19, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)agiunta cifra 32]
+[^74-1]: [[AS 1972 950](https://fedlex.data.admin.ch/eli/oc/1972/950_958_1120); [1979 1573](https://fedlex.data.admin.ch/eli/oc/1979/1573_1573_1573)art. 38; [1980 1796](https://fedlex.data.admin.ch/eli/oc/1980/1796_1796_1796); [1982 1961](https://fedlex.data.admin.ch/eli/oc/1982/1961_1961_1961); [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)art. 66 cifra 3; [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I 51; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra II, 402, [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)agiunta cifra 19; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)agiunta cifra 32]
 
 #### Art. 75
 
@@ -1369,4 +1370,4 @@ Data da l’entrada en vigur: 1. da november 1992[^85-1]
 <sup>3</sup> Dumondas per indemnisaziuns tenor l’artitgel 61 alinea 2 da la Lescha davart la protecziun da las auas en la versiun dals 18 da mars 1994 ch’èn vegnidas inoltradas avant questa midada, vegnan giuditgadas tenor il dretg nov.
 
 [^u1-2]: [AS 1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)
-[^u1-3]: [AS 1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634).
+[^u1-3]: [AS 1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)..

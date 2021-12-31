@@ -4,11 +4,11 @@ title: Loi fédérale du 24 janvier 1991 sur la protection des eaux (LEaux)
 short: LEaux
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1991-01-24
 in_force: 1992-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20210101/fr"
 
 (LEaux)
 
-du 24 janvier 1991 (Etat le 1<sup>er</sup> janvier 2021)
+du 24 janvier 1991 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1087,15 +1087,16 @@ La Confédération peut accorder une garantie contre les risques relatifs aux in
 
 **Financement**[^65-1]
 
-<sup>1</sup> L’Assemblée fédérale vote, par voie d’arrêté fédéral simple, un crédit-cadre de durée limitée pour l’octroi des subventions.[^65-2]
+<sup>1</sup> L’Assemblée fédérale vote, par voie d’arrêté fédéral simple, un crédit d’engagement[^65-2] de durée limitée pour l’octroi des subventions.[^65-3]
 
-<sup>2</sup> Elle accorde par un arrêté fédéral simple, pour une durée de quatre ans, les crédits destinés au paiement des indemnités qui ont été octroyées à titre provisoire en application des dispositions de l’art. 13, al. 6, de la loi du 5 octobre 1990 sur les subventions[^65-3].
+<sup>2</sup> Elle accorde par un arrêté fédéral simple, pour une durée de quatre ans, les crédits destinés au paiement des indemnités qui ont été octroyées à titre provisoire en application des dispositions de l’art. 13, al. 6, de la loi du 5 octobre 1990 sur les subventions[^65-4].
 
 <sup>3</sup> Elle vote un crédit d’engagement pluriannuel jusqu’à concurrence duquel la Confédération peut accorder une garantie conformément à l’art. 64*a*.
 
 [^65-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 1997, en vigueur depuis le 1<sup>er</sup> nov. 1997 ([RO 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1213](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
-[^65-2]: Nouvelle teneur selon le ch. II 23 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^65-3]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^65-2]: Nouvelle expression selon l’annexe ch. 8 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^65-3]: Nouvelle teneur selon le ch. II 23 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^65-4]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 #### Art. 66
 

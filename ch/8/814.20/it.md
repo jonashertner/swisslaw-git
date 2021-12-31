@@ -4,11 +4,11 @@ title: Legge federale del 24 gennaio 1991 sulla protezione delle acque (LPAc)
 short: LPAc
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1991-01-24
 in_force: 1992-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20210101/it"
 
 (LPAc)
 
-del 24 gennaio 1991 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 24 gennaio 1991 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -124,7 +124,7 @@ In quanto lo esigano la difesa integrata o situazioni d’emergenza, il Consigli
 
 [^8-1]
 
-[^8-1]: Abrogato dal n. 2 dell’all. alla LF del 21 dic. 1995, con effetto dal 1° lug. 1997 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+[^8-1]: Abrogato dall’all. n. 2 della LF del 21 dic. 1995, con effetto dal 1° lug. 1997 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
 #### Art. 9
 
@@ -232,9 +232,9 @@ Il Consiglio federale può prevedere eccezioni alle esigenze relative alla super
 
 <sup>8</sup> Un’unità di bestiame grosso-letame corrisponde alla quantità media annua di colaticcio e di letame prodotta da una vacca di 600 chilogrammi.
 
-[^14-1]: Nuovo testo giusta il n. 6 dell’all. alla LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^14-1]: Nuovo testo giusta l’all. n. 6 della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^14-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^14-3]: Nuovo testo giusta il n. 6 dell’all. alla LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^14-3]: Nuovo testo giusta l’all. n. 6 della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 15
 
@@ -245,7 +245,7 @@ Il Consiglio federale può prevedere eccezioni alle esigenze relative alla super
 <sup>2</sup> L’autorità cantonale assicura il controllo periodico degli impianti.
 
 [^15-1]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4287](https://fedlex.data.admin.ch/eli/oc/2006/656); [FF 2005 835](https://fedlex.data.admin.ch/eli/fga/2005/114)).
-[^15-2]: Nuovo testo giusta il n. 6 dell’all. alla LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^15-2]: Nuovo testo giusta l’all. n. 6 della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 16
 
@@ -803,7 +803,7 @@ I Cantoni provvedono affinché sia assicurata una consulenza per l’esecuzione 
 
 <sup>3</sup> …[^52-1]
 
-[^52-1]: Abrogato dal l’art. 2 n. 2 del DF del 27 set. 2013 (Convenzione di Aarhus), con effetto dal 1° giu. 2014 ([RU 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [FF 2012 3841](https://fedlex.data.admin.ch/eli/fga/2012/596)).
+[^52-1]: Abrogato dall’art. 2 n. 2 del DF del 27 set. 2013 (Convenzione di Aarhus), con effetto dal 1° giu. 2014 ([RU 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [FF 2012 3841](https://fedlex.data.admin.ch/eli/fga/2012/596)).
 
 #### Art. 53
 
@@ -1009,7 +1009,7 @@ Entro i limiti dei crediti stanziati, la Confederazione assegna indennità per p
 
 <sup>4</sup> L’Ufficio federale dell’agricoltura accorda le indennità come contributi globali sulla base di accordi di programma conclusi con i Cantoni per ogni zona in cui sono necessari provvedimenti. Per valutare se i programmi previsti assicurano un’adeguata protezione delle acque, consulta l’Ufficio federale. I Cantoni attribuiscono le indennità ai singoli aventi diritto.[^62a-6]
 
-[^62a-1]: Introdotto dal n. 6 dell’all. alla LF del 29 apr. 1998 sull’agricoltura, in vigore dal 1° gen. 1999 ([RU 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033); [FF 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)).
+[^62a-1]: Introdotto dall’all. n. 6 della LF del 29 apr. 1998 sull’agricoltura, in vigore dal 1° gen. 1999 ([RU 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033); [FF 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)).
 [^62a-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^62a-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 [^62a-4]: Nuovo testo giusta il n. II 23 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
@@ -1069,7 +1069,7 @@ Entro i limiti dei crediti stanziati, essa può sostenere mediante indennità e 
 <sup>4</sup> Le prestazioni della Confederazione ammontano al massimo al 40 per cento dei costi.[^64-4]
 
 [^64-1]: Nuovo testo giusta il n. II 23 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^64-2]: Nuovo testo giusta il n. 32 dell’all. alla LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^64-2]: Nuovo testo giusta l’all. n. 32 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^64-3]: Nuovo testo giusta il n. II 23 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^64-4]: Nuovo testo giusta il n. I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
 
@@ -1085,15 +1085,16 @@ La Confederazione può assumere una garanzia contro i rischi per gli impianti, l
 
 **Finanziamento**[^65-1]
 
-<sup>1</sup> L’Assemblea federale stanzia mediante decreto federale semplice un credito quadro limitato nel tempo per l’assegnazione dei contributi.[^65-2]
+<sup>1</sup> L’Assemblea federale stanzia mediante decreto federale semplice un credito d’impegno[^65-2] limitato nel tempo per l’assegnazione dei contributi.[^65-3]
 
-<sup>2</sup> Essa stanzia di volta in volta per quattro anni, con decreto federale semplice, i mezzi destinati al pagamento delle indennità per le quali è stata assegnata una prestazione di massima in applicazione dell’articolo 13 capoverso 6 della legge del 5 ottobre 1990<sup>©RS\_616.1\_i®</sup>[^65-3] sui sussidi.
+<sup>2</sup> Essa stanzia di volta in volta per quattro anni, con decreto federale semplice, i mezzi destinati al pagamento delle indennità per le quali è stata assegnata una prestazione di massima in applicazione dell’articolo 13 capoverso 6 della legge del 5 ottobre 1990<sup>©RS\_616.1\_i®</sup>[^65-4] sui sussidi.
 
 <sup>3</sup> Essa stanzia un credito d’impegno pluriennale fino a concorrenza del quale la Confederazione può assumere garanzie contro i rischi giusta l’articolo 64*a.*
 
 [^65-1]: Nuovo testo giusta il n. I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
-[^65-2]: Nuovo testo giusta il n. II 23 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^65-3]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^65-2]: Nuova espr. giusta l’all. n. 8 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^65-3]: Nuovo testo giusta il n. II 23 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^65-4]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 #### Art. 66
 
@@ -1105,8 +1106,8 @@ La Confederazione può assumere una garanzia contro i rischi per gli impianti, l
 
 <sup>3</sup> Se il fatto da cui deriva il diritto alla restituzione commesso dal beneficiario costituisce un fatto punibile, tale diritto si prescrive al più presto alla scadenza del termine di prescrizione dell’azione penale. Se la prescrizione dell’azione penale si estingue a seguito di una sentenza penale di prima istanza, esso si prescrive al più presto in tre anni dalla comunicazione della sentenza.[^66-2]
 
-[^66-1]: Nuovo testo giusta il n. 18 dell’all. alla LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
-[^66-2]: Introdotto dal n. 18 dell’all. alla LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^66-1]: Nuovo testo giusta l’all. n. 18 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^66-2]: Introdotto dall’all. n. 18 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
 ### Capitolo 5:**** Procedura
 
@@ -1120,7 +1121,7 @@ La Confederazione può assumere una garanzia contro i rischi per gli impianti, l
 
 La procedura di ricorso è retta dalle disposizioni generali sull’amministrazione della giustizia federale.
 
-[^67-1]: Nuovo testo giusta il n. 92 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^67-1]: Nuovo testo giusta l’all. n. 92 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 67a
 
@@ -1131,7 +1132,7 @@ La procedura di ricorso è retta dalle disposizioni generali sull’amministrazi
 <sup>2</sup> …[^67a-2]
 
 [^67a-1]: Introdotto dal n. I 15 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^67a-2]: Abrogato dal n. 92 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^67a-2]: Abrogato dall’all. n. 92 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 68
 
@@ -1150,7 +1151,7 @@ La procedura di ricorso è retta dalle disposizioni generali sull’amministrazi
 [^68-1]: Nuovo testo giusta il n. I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
 [^68-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
 [^68-3]: Nuovo testo giusta l’all. n. 18 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^68-4]: Nuovo testo giusta il n. 6 dell’all. alla LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^68-4]: Nuovo testo giusta l’all. n. 6 della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 ## Titolo quarto: …
 
@@ -1158,7 +1159,7 @@ La procedura di ricorso è retta dalle disposizioni generali sull’amministrazi
 
 [^69-1]
 
-[^69-1]: Abrogato dal n. 2 dell’all. alla LF del 21 dic. 1995, con effetto dal 1° lug. 1997 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+[^69-1]: Abrogato dall’all. n. 2 della LF del 21 dic. 1995, con effetto dal 1° lug. 1997 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
 ## Titolo quinto: Disposizioni penali
 

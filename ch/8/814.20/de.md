@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 24. Januar 1991 über den Schutz der Gewässer (Gewäss
 short: GSchG
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1991-01-24
 in_force: 1992-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20210101/de"
 
 (Gewässerschutzgesetz, GSchG)
 
-vom 24. Januar 1991 (Stand am 1. Januar 2021)
+vom 24. Januar 1991 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1078,15 +1078,16 @@ Der Bund kann für Erfolg versprechende neuartige Anlagen und Einrichtungen eine
 
 **Finanzierung**[^65-1]
 
-<sup>1</sup> Die Bundesversammlung bewilligt mit einfachem Bundesbeschluss einen befristeten Rahmenkredit für die Zusicherung von Beiträgen.[^65-2]
+<sup>1</sup> Die Bundesversammlung bewilligt mit einfachem Bundesbeschluss einen befristeten Verpflichtungskredit[^65-2] für die Zusicherung von Beiträgen.[^65-3]
 
-<sup>2</sup> Sie bewilligt jeweils für vier Jahre mit einfachem Bundesbeschluss die Mittel für die Zahlung der Abgeltungen, die in Anwendung von Artikel 13 Absatz 6 des Subventionsgesetzes vom 5. Oktober 1990[^65-3] dem Grundsatz nach zugesichert worden sind.
+<sup>2</sup> Sie bewilligt jeweils für vier Jahre mit einfachem Bundesbeschluss die Mittel für die Zahlung der Abgeltungen, die in Anwendung von Artikel 13 Absatz 6 des Subventionsgesetzes vom 5. Oktober 1990[^65-4] dem Grundsatz nach zugesichert worden sind.
 
 <sup>3</sup> Sie bewilligt mit einem mehrjährigen Verpflichtungskredit den Höchstbetrag, bis zu dem der Bund Risikogarantien nach Artikel 64*a* übernehmen darf.
 
 [^65-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 1997, in Kraft seit 1. Nov. 1997 ([AS 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [BBl 1996 IV 1217](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
-[^65-2]: Fassung gemäss Ziff. II 23 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^65-3]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^65-2]: Ausdruck gemäss Anhang Ziff. 8 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^65-3]: Fassung gemäss Ziff. II 23 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^65-4]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 #### Art. 66
 
@@ -1222,7 +1223,7 @@ Die Artikel 6 und 7 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974[^73-1]
 
 Das Bundesgesetz vom 8. Oktober 1971[^74-1] über den Schutz der Gewässer gegen Verunreinigung (Gewässerschutzgesetz) wird aufgehoben.
 
-[^74-1]: [[AS 1972 950](https://fedlex.data.admin.ch/eli/oc/1972/950_958_1120), [1979 1573](https://fedlex.data.admin.ch/eli/oc/1979/1573_1573_1573)Art. 38, [1980 1796](https://fedlex.data.admin.ch/eli/oc/1980/1796_1796_1796), [1982 1961](https://fedlex.data.admin.ch/eli/oc/1982/1961_1961_1961), [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)Art. 66 Ziff. 3, [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 51, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 402 [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 19, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 32]
+[^74-1]: [[AS 1972 950](https://fedlex.data.admin.ch/eli/oc/1972/950_958_1120); [1979 1573](https://fedlex.data.admin.ch/eli/oc/1979/1573_1573_1573)Art. 38; [1980 1796](https://fedlex.data.admin.ch/eli/oc/1980/1796_1796_1796); [1982 1961](https://fedlex.data.admin.ch/eli/oc/1982/1961_1961_1961); [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)Art. 66 Ziff. 3; [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 51; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II, 402, [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 19; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 32]
 
 #### Art. 75
 
