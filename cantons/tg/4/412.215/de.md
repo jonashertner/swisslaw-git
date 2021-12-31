@@ -4,24 +4,24 @@ number: "412.215"
 title: Verordnung des Regierungsrates über die Berufsmaturität an den Berufsfachschulen
 short: BbM
 language: de
-version: 2015-08-01
-valid_until: 2021-12-31
-version_adopted: 2015-04-27
+version: 2022-01-01
+valid_until: 2023-01-31
+version_adopted: 2021-12-21
 adopted: 2015-04-27
 in_force: 2015-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/412.215"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1157/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2404/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung des Regierungsrates über die Berufsmaturität an den Berufsfachschulen
 
-RRV Berufsmaturität Berufsfachschulen (BbM)
+BbM
 
 (BbM)
 
-vom 27.04.2015 (Stand 01.08.2015)
+vom 27.04.2015 (Stand 01.01.2022)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -75,9 +75,9 @@ vom 27.04.2015 (Stand 01.08.2015)
 
 **Ergänzendes Recht**
 
-<sup>1</sup> Die §§ 1 bis 10, 16, 24 bis 31 und 37 der Verordnung des Regierungsrates über die berufliche Grundbildung (BbG)[^6-1] gelten sinngemäss.
+<sup>1</sup> § 1 bis § 10, § 16, § 24 bis § 31 und § 37 der Verordnung des Regierungsrates über die berufliche Grundbildung (BbG)[^6-1] gelten sinngemäss.
 
-[^6-1]: [412.212](https://www.rechtsbuch.tg.ch/data/412.212/de)
+[^6-1]: RB [412.212](https://www.rechtsbuch.tg.ch/data/412.212/de)
 
 ## 2. Aufnahme in den Berufsmaturitätsunterricht während der beruflichen Grundbildung (BM 1)
 
@@ -107,13 +107,13 @@ vom 27.04.2015 (Stand 01.08.2015)
 
 <sup>1</sup> Die Lehrpersonen der von der Kandidatin oder vom Kandidaten zuletzt besuchten Schule geben mit der Anmeldung eine der folgenden Empfehlungen ab:
 
-Empfehlung A: vorbehaltlos empfohlen;
+Empfehlung A: vorbehaltlos empfohlen
 
-Empfehlung B: empfohlen;
+Empfehlung B: empfohlen
 
-Empfehlung C: bedingt empfohlen;
+Empfehlung C: bedingt empfohlen
 
-Empfehlung D: nicht empfohlen.
+Empfehlung D: nicht empfohlen
 
 <sup>2</sup> Für Kandidatinnen und Kandidaten, welche die Prüfung während des ersten Lehrjahres absolvieren, wird eine Empfehlung der Berufsfachschullehrpersonen eingeholt.
 
@@ -123,9 +123,9 @@ Empfehlung D: nicht empfohlen.
 
 <sup>1</sup> Es werden folgende Fächer schriftlich geprüft:
 
-- 1\. Deutsch;
-- 2\. Französisch;
-- 3\. Mathematik.
+- 1\. Deutsch
+- 2\. Französisch
+- 3\. Mathematik
 
 <sup>2</sup> Die Aufnahmeprüfung wird in der Regel in der 3. Klasse der Sekundarstufe I oder während des ersten Lehrjahres abgelegt.
 
@@ -135,10 +135,10 @@ Empfehlung D: nicht empfohlen.
 
 **Bestehen der Prüfung**
 
-<sup>1</sup> Die Aufnahmeprüfung hat bestanden:
+<sup>1</sup> Die Aufnahmeprüfung hat bestanden,
 
-- 1\. wer einen Notendurchschnitt von 4.0 erreicht hat;
-- 2\. wer einen Notendurchschnitt von 3.7 erreicht hat und eine Empfehlung A besitzt;
+- 1\. wer einen Notendurchschnitt von 4.0 erreicht hat,
+- 2\. wer einen Notendurchschnitt von 3.7 erreicht hat und eine Empfehlung A besitzt,
 - 3\. wer einen Notendurchschnitt von 3.8 erreicht hat und eine Empfehlung B besitzt.
 
 <sup>2</sup> Die Empfehlungen sind nur wirksam, wenn es sich bei der abgebenden Schule um eine staatliche Schule der obligatorischen Schulzeit handelt und die Schülerin oder der Schüler in den Prüfungsfächern das Niveau E der Sekundarschule besucht. Das Departement kann Empfehlungen privater Schulen für wirksam erklären.
@@ -165,7 +165,7 @@ Empfehlung D: nicht empfohlen.
 
 **Aufnahmeverfahren**
 
-<sup>1</sup> Wer während der beruflichen Grundbildung eine Durchschnittsnote von 5.0 in den schulischen Fächern aufweist, den Berufsmaturitätsunterricht im gleichen Berufsfeld wie die berufliche Grundbildung besuchen will und die Empfehlung A oder B gemäss § 9 Absatz 1 aufweist, wird prüfungsfrei zur entsprechenden Ausrichtung BM 2 zugelassen.
+<sup>1</sup> Wer während der beruflichen Grundbildung eine Durchschnittsnote von 5.0 in den schulischen Fächern aufweist und den Berufsmaturitätsunterricht im gleichen Berufsfeld wie die berufliche Grundbildung besuchen will, wird prüfungsfrei zur entsprechenden Ausrichtung BM 2 zugelassen. Mit Abschluss Kaufmann / Kauffrau EFZ genügt ein Durchschnitt von 4.7 für die prüfungsfreie Aufnahme zur BM 2 Wirtschaft und Dienstleistungen, Typ Wirtschaft.
 
 <sup>2</sup> Alle übrigen Personen haben eine Aufnahmeprüfung der ausbildenden Schule zu bestehen, welche sich auf die Ausrichtung der Berufsmaturität bezieht. Genügende Vorleistungen können zur Dispensation von einzelnen Teilprüfungen führen. Die Schulen bieten Vorkurse und Beratung an.
 
@@ -229,14 +229,12 @@ Empfehlung D: nicht empfohlen.
 
 <sup>1</sup> Die Anfechtbarkeit von Entscheiden richtet sich nach § 44 des Gesetzes über die Berufsbildung und die Mittelschulen (Sekundarstufe II)[^22-1].
 
-[^22-1]: [413.11](https://www.rechtsbuch.tg.ch/data/413.11/de)
+[^22-1]: RB [413.11](https://www.rechtsbuch.tg.ch/data/413.11/de)
 
-## 5. Schlussbestimmung
+## 5.
 
 #### § 23
 
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt auf den 1. August 2015 in Kraft.
+**…**
 
 18/2015
