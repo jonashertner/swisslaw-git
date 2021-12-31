@@ -3,20 +3,20 @@ canton: AG
 number: "421.391"
 title: Verordnung über den Instrumentalunterricht
 language: de
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2020-03-04
+version: 2022-01-01
+valid_until: 2026-07-31
+version_adopted: 2021-04-07
 adopted: 2001-06-27
 in_force: 2001-10-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/421.391"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2972/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3070/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Instrumentalunterricht
 
-Vom 27.06.2001 (Stand 01.08.2021)
+Vom 27.06.2001 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -36,7 +36,12 @@ beschliesst:
 
 **Aufteilung der Lektionen**
 
-<sup>1</sup> Der Unterricht wird in Gruppen mit drei Schülerinnen oder Schülern mit einer Lektion pro Woche erteilt. Anstelle des Gruppenunterrichts können einzelne Schülerinnen und Schüler in einer Drittelslektion pro Woche unterrichtet werden.
+<sup>1</sup> Der Unterricht wird in Gruppen mit drei Schülerinnen oder Schülern mit einer Lektion pro Woche erteilt.
+
+<sup>1<sup>bis</sup></sup> Optional können
+
+- a) anstelle des Gruppenunterrichts einzelne Schülerinnen und Schüler in einer Drittelslektion pro Woche unterrichtet werden,
+- b) anstelle des wöchentlichen Unterrichts vierzehntäglich entsprechend längere Unterrichtseinheiten angeboten werden.
 
 <sup>2</sup> Sofern mindestens sechs Schülerinnen oder Schüler teilnehmen, kann überdies eine wöchentliche Zusammenspiellektion oder gemeinsame Lektion Gesang (Ensemble) erteilt werden. Bei mehr als 20 Schülerinnen beziehungsweise Schülern kann das Departement Bildung, Kultur und Sport eine weitere Zusammenspiellektion oder gemeinsame Lektion Gesang bewilligen.
 
@@ -48,7 +53,7 @@ beschliesst:
 
 <sup>2</sup> Sie können ein Instrument, für das ein Fachhochschulabschluss oder ein Diplom beim Schweizerischen Musikpädagogischen Verband (SMPV) erworben werden kann, oder Gesang wählen, soweit es die konkreten schulorganisatorischen Umstände ohne unverhältnismässigen Zusatzaufwand erlauben.
 
-<sup>3</sup> Die zuständige Schulpflege sorgt nach Möglichkeit für das entsprechende Angebot.
+<sup>3</sup> Der zuständige Gemeinderat sorgt nach Möglichkeit für das entsprechende Angebot.
 
 #### § 4
 
