@@ -4,13 +4,13 @@ number: "131.11"
 title: Geschäftsreglement des Kantonsrates
 short: GeschKR
 language: de
-version: 2020-06-01
-corrected: 2021-02-02
-version_adopted: 2020-05-20
+version: 2022-01-01
+valid_until: 2022-05-31
+version_adopted: 2021-12-01
 adopted: 1979-10-24
 in_force: 1980-05-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/131.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3107/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3302/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3107/pdf_file"
 
 (GeschKR)
 
-vom 24.10.1979 (Stand 01.06.2020)
+vom 24.10.1979 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -121,7 +121,8 @@ als Reglement:[^ingress-7]
 - d) legt das Reglement aus und überwacht dessen Anwendung;
 - e) unterbreitet dem Kantonsrat auf Mitte der vierjährigen Amtsdauer einen Bericht über die Tätigkeit des Parlamentes und schlägt gegebenenfalls Verbesserungen von Organisation und Verfahren vor;
 - f) bereitet Reglementsänderungen und Beschlüsse vor, welche die Geschäftsordnung des Kantonsrates betreffen;
-- g) bereitet den Abschnitt «Kantonsrat» des Budgets vor und überwacht diese Ausgaben;
+- g) erstellt die Abschnitte «Kantonsrat» und «Parlamentsdienste» des Budgets;
+- g<sup>bis</sup>) überwacht die Verwendung der Kredite, soweit es diese Aufgabe nicht der Leiterin oder dem Leiter der Parlamentsdienste überträgt;
 - h) vereinbart mit dem Staatssekretär die unterstützenden Leistungen der Staatskanzlei im Aufgabenbereich der Parlamentsdienste.
 
 <sup>2</sup> Entscheide des Präsidiums können an den Kantonsrat weitergezogen werden.
@@ -142,7 +143,7 @@ als Reglement:[^ingress-7]
 
 <sup>2</sup> Er vertritt den Kantonsrat nach aussen, wacht über dessen Rechte sowie über die Befolgung des Reglementes und sorgt für Ruhe und Ordnung im Sitzungssaal.
 
-<sup>3</sup> Er unterzeichnet zusammen mit dem Staatssekretär im Namen des Kantonsrates.
+<sup>3</sup> Er unterzeichnet zusammen mit der Leiterin oder dem Leiter der Parlamentsdienste im Namen des Kantonsrates.
 
 <sup>4</sup> Er kann anstelle des Präsidiums dringliche Ersatzwahlen in Kommissionen treffen.
 
@@ -611,11 +612,9 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> …
 
-<sup>2</sup> Der Staatssekretär nimmt an den Sitzungen des Kantonsrates teil, steht dem Präsidenten in der Amtsführung zur Seite und hat das Recht, sich in Angelegenheiten der Staatskanzlei an der Diskussion zu beteiligen.[^43-1]
+<sup>2</sup> Der Staatssekretär nimmt an den Sitzungen des Kantonsrates teil und hat das Recht, sich in Angelegenheiten der Staatskanzlei an der Diskussion zu beteiligen.
 
-<sup>3</sup> Er hat im Präsidium beratende Stimme.
-
-[^43-1]: Art. [8](https://www.gesetzessammlung.sg.ch/data/131.11/de/art8.) Abs. 3 dieses Erlasses.
+<sup>3</sup> Er hat im Präsidium beratende Stimme, soweit der Geschäftskreis der Staatskanzlei oder die Zusammenarbeit zwischen Regierung und Kantonsrat betroffen sind.
 
 #### Art. 44
 
@@ -631,13 +630,14 @@ als Reglement:[^ingress-7]
 
 **Leiterin oder Leiter der Parlamentsdienste**
 
-<sup>1</sup> Die Leiterin oder der Leiter der Parlamentsdienste führt unter Aufsicht des Präsidiums und nach dessen Weisungen die Parlamentsdienste. Sie oder er ist dem Präsidenten unterstellt.
+<sup>1</sup> Die Leiterin oder der Leiter der Parlamentsdienste führt unter Aufsicht des Präsidiums und nach dessen Weisungen die Parlamentsdienste. Sie oder er ist dem Präsidenten unterstellt und hat die Stellung einer Generalsekretärin oder eines Generalsekretärs.
 
 <sup>2</sup> Die Leiterin oder der Leiter der Parlamentsdienste:
 
-- a) steht dem Kantonsrat unmittelbar zur Verfügung;
-- b) ist für die Protokollführung im Kantonsrat verantwortlich;
-- c) führt Geschäfte und Protokoll des Präsidiums.
+- a) steht dem Kantonsrat und dem Präsidium unmittelbar zur Verfügung;
+- a<sup>bis</sup>) steht dem Präsidenten in der Amtsführung zur Seite;
+- b) sorgt für die Protokollführung im Kantonsrat und im Präsidium;
+- c) führt die Geschäfte des Präsidiums und nimmt an den Sitzungen mit beratender Stimme teil.
 
 <sup>3</sup> Das Präsidium regelt die Stellvertretung.
 
@@ -703,6 +703,12 @@ als Reglement:[^ingress-7]
 **Arbeitsräume**
 
 <sup>1</sup> Den Mitgliedern des Kantonsrates stehen für die parlamentarische Tätigkeit Arbeitsräume zur Verfügung.
+
+#### Art. 49bis
+
+**Zutritt**
+
+<sup>1</sup> Zur Wahrung der Sicherheit, zum Schutz der Gesundheit und zur Sicherstellung eines ungestörten Sitzungsbetriebs kann das Präsidium beschliessen, den Zutritt zu den Sitzungen des Kantonsrates und seiner Organe an Auflagen zu knüpfen.
 
 ## II. Verfahren der Kommissionen
 
