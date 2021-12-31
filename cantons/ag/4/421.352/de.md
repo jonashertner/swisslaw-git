@@ -4,13 +4,13 @@ number: "421.352"
 title: Verordnung über die Laufbahnentscheide an der Volksschule
 short: Promotionsverordnung
 language: de
-version: 2020-08-01
-valid_until: 2021-12-31
-version_adopted: 2019-05-01
+version: 2022-01-01
+valid_until: 2025-08-31
+version_adopted: 2021-04-07
 adopted: 2009-08-19
 in_force: 2010-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/421.352"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2850/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3718/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2850/pdf_file"
 
 (Promotionsverordnung)
 
-Vom 19.08.2009 (Stand 01.08.2020)
+Vom 19.08.2009 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -87,7 +87,7 @@ beschliesst:
 
 **Freiwillige Repetition und freiwilliger Übertritt**
 
-<sup>1</sup> Die freiwillige Repetition eines Kindergartenjahrs oder einer Klasse und der freiwillige Übertritt in einen Schultypus, der geringere Anforderungen an die Sachkompetenz der Schülerinnen und Schüler stellt, sind auf begründetes Gesuch hin mit Bewilligung der Schulpflege ausnahmsweise zulässig bei
+<sup>1</sup> Die freiwillige Repetition eines Kindergartenjahrs oder einer Klasse und der freiwillige Übertritt in einen Schultypus, der geringere Anforderungen an die Sachkompetenz der Schülerinnen und Schüler stellt, sind auf begründetes Gesuch hin mit Bewilligung des Gemeinderats ausnahmsweise zulässig bei
 
 - a) unregelmässigem Bildungsgang,
 - b) längerer Krankheit während der Beurteilungsperiode,
@@ -97,7 +97,7 @@ beschliesst:
 
 **Überspringen**
 
-<sup>1</sup> Die Schulpflege kann sehr leistungsfähigen Schülerinnen und Schülern auf Gesuch der Eltern das Überspringen eines Kindergartenjahrs oder einer Klasse gestatten.
+<sup>1</sup> Der Gemeinderat kann sehr leistungsfähigen Schülerinnen und Schülern auf Gesuch der Eltern das Überspringen eines Kindergartenjahrs oder einer Klasse gestatten.
 
 ## 2. Kindergarten und Zuweisung bei Eintritt während der obligatorischen Schuljahre
 
@@ -117,15 +117,15 @@ beschliesst:
 
 <sup>1</sup> Im Zeitraum Februar bis April findet ein Übertrittsgespräch zwischen der verantwortlichen Kindergartenlehrperson und den Eltern statt. Auf Wunsch der Eltern ist dabei auch das Kind anzuhören.
 
-<sup>2</sup> Kommt keine Einigung über den Übertritt zustande, entscheidet die Schulpflege.
+<sup>2</sup> Kommt keine Einigung über den Übertritt zustande, entscheidet der Gemeinderat.
 
 #### § 10
 
 **Zuweisung bei Eintritt während der obligatorischen Schuljahre**
 
-<sup>1</sup> Beim Eintritt während der obligatorischen Schuljahre in die aargauische Volksschule erfolgt die Zuweisung durch die Schulpflege der aufnehmenden Schule aufgrund einer Gesamtbeurteilung der bisherigen schulischen Laufbahn und eines Gesprächs mit der betroffenen Schülerin beziehungsweise dem betroffenen Schüler und den Eltern.
+<sup>1</sup> Beim Eintritt während der obligatorischen Schuljahre in die aargauische Volksschule erfolgt die Zuweisung durch den Gemeinderat der aufnehmenden Schule aufgrund einer Gesamtbeurteilung der bisherigen schulischen Laufbahn und eines Gesprächs mit der betroffenen Schülerin beziehungsweise dem betroffenen Schüler und den Eltern.
 
-<sup>2</sup> Die Schulpflege kann bei Bedarf Prüfungen anordnen.
+<sup>2</sup> Der Gemeinderat kann bei Bedarf Prüfungen anordnen.
 
 ## 3. Primarschule
 
@@ -195,7 +195,7 @@ beschliesst:
 
 <sup>1</sup> Spätestens im Zeitraum Februar bis April findet ein Übertrittsgespräch zwischen der abgebenden und verantwortlichen Lehrperson, den Eltern sowie der Schülerin beziehungsweise dem Schüler statt.
 
-<sup>2</sup> Kommt keine Einigung über die Zuweisung zustande, entscheidet die Schulpflege über den Übertritt.
+<sup>2</sup> Kommt keine Einigung über die Zuweisung zustande, entscheidet der Gemeinderat über den Übertritt.
 
 <sup>3</sup> …
 
@@ -222,7 +222,7 @@ beschliesst:
 - b) sich bezüglich Selbstständigkeit, Problemlösefähigkeit und Auffassungsgabe besonders auszeichnet,
 - c) eine günstige Entwicklungsprognose für den Verbleib in der Sekundarschule erhält.
 
-<sup>2</sup> Die Schullaufbahn wird in derjenigen Klasse fortgesetzt, die der absolvierten Klasse der Realschule entspricht. Die Schulpflege prüft den unmittelbaren Übertritt in die nächsthöhere Klasse und entscheidet darüber, wenn das Beurteilungsdossier eine ausserordentliche Leistungsentwicklung der Schülerin beziehungsweise des Schülers ausweist. Vorbehalten bleibt Absatz 3.
+<sup>2</sup> Die Schullaufbahn wird in derjenigen Klasse fortgesetzt, die der absolvierten Klasse der Realschule entspricht. Der Gemeinderat prüft den unmittelbaren Übertritt in die nächsthöhere Klasse und entscheidet darüber, wenn das Beurteilungsdossier eine ausserordentliche Leistungsentwicklung der Schülerin beziehungsweise des Schülers ausweist. Vorbehalten bleibt Absatz 3.
 
 <sup>3</sup> Bei einem Übertritt nach dem 1. Semester der 1. Klasse der Realschule wird die Schullaufbahn im 2. Semester der 1. Klasse der Sekundarschule fortgesetzt.
 
@@ -232,7 +232,7 @@ beschliesst:
 
 <sup>1</sup> Auf Gesuch der Eltern oder auf Vorschlag der abgebenden, verantwortlichen Lehrperson findet spätestens im Zeitraum Februar bis April ein Übertrittsgespräch zwischen dieser, den Eltern sowie der Schülerin beziehungsweise dem Schüler statt.
 
-<sup>2</sup> Kommt keine Einigung über die Zuweisung zustande, entscheidet die Schulpflege über den Übertritt.
+<sup>2</sup> Kommt keine Einigung über die Zuweisung zustande, entscheidet der Gemeinderat über den Übertritt.
 
 <sup>3</sup> …
 
@@ -263,7 +263,7 @@ beschliesst:
 - b) sich bezüglich Selbstständigkeit, Problemlösefähigkeit und Auffassungsgabe besonders auszeichnet,
 - c) eine günstige Entwicklungsprognose für den Verbleib in der Bezirksschule erhält.
 
-<sup>2</sup> Die Schullaufbahn wird in derjenigen Klasse fortgesetzt, die der absolvierten Klasse der Sekundarschule entspricht. Die Schulpflege prüft den unmittelbaren Übertritt in die nächsthöhere Klasse und entscheidet darüber, wenn das Beurteilungsdossier eine ausserordentliche Leistungsentwicklung der Schülerin beziehungsweise des Schülers ausweist. Vorbehalten bleibt Absatz 3.
+<sup>2</sup> Die Schullaufbahn wird in derjenigen Klasse fortgesetzt, die der absolvierten Klasse der Sekundarschule entspricht. Der Gemeinderat prüft den unmittelbaren Übertritt in die nächsthöhere Klasse und entscheidet darüber, wenn das Beurteilungsdossier eine ausserordentliche Leistungsentwicklung der Schülerin beziehungsweise des Schülers ausweist. Vorbehalten bleibt Absatz 3.
 
 <sup>3</sup> Bei einem Übertritt nach dem 1. Semester der 1. Klasse der Sekundarschule wird die Schullaufbahn im 2. Semester der 1. Klasse der Bezirksschule fortgesetzt.
 
@@ -273,7 +273,7 @@ beschliesst:
 
 <sup>1</sup> Auf Gesuch der Eltern oder auf Vorschlag der abgebenden, verantwortlichen Lehrperson findet spätestens im Zeitraum Februar bis April ein Übertrittsgespräch zwischen dieser, den Eltern sowie der Schülerin beziehungsweise dem Schüler statt.
 
-<sup>2</sup> Kommt keine Einigung über die Zuweisung zustande, entscheidet die Schulpflege über den Übertritt.
+<sup>2</sup> Kommt keine Einigung über die Zuweisung zustande, entscheidet der Gemeinderat über den Übertritt.
 
 <sup>3</sup> …
 
@@ -318,7 +318,7 @@ beschliesst:
 
 <sup>2</sup> Innerhalb der Kleinklasse gibt es weder eine Beförderung noch eine Rückversetzung.
 
-<sup>3</sup> Im Zeitraum Mitte März bis April überprüft die verantwortliche Kleinklassenlehrperson den Übertritt in eine entsprechende Regelklasse. Sie stellt Antrag an die Schulpflege, welche nach Anhörung der Eltern entscheidet.
+<sup>3</sup> Im Zeitraum Mitte März bis April überprüft die verantwortliche Kleinklassenlehrperson den Übertritt in eine entsprechende Regelklasse. Sie stellt Antrag an den Gemeinderat, welcher nach Anhörung der Eltern entscheidet.
 
 #### § 25
 
