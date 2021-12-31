@@ -1,22 +1,22 @@
 ---
 canton: SG
 number: "331.538.1"
-title: Regierungsbeschluss über die Prämienverbilligung 2021 für in der Schweiz obligatorisch versicherte Personen in einem EU-Mitgliedstaat
+title: Regierungsbeschluss über die Prämienverbilligung 2022 für in der Schweiz obligatorisch versicherte Personen in einem EU-Mitgliedstaat
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-08
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-07
 adopted: 2025-12-09
 in_force: 2026-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.538.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3056/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3308/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Regierungsbeschluss über die Prämienverbilligung 2021 für in der Schweiz obligatorisch versicherte Personen in einem EU-Mitgliedstaat
+# Regierungsbeschluss über die Prämienverbilligung 2022 für in der Schweiz obligatorisch versicherte Personen in einem EU-Mitgliedstaat
 
-vom 08.12.2020 (Stand 01.01.2021)
+vom 07.12.2021 (Stand 01.01.2022)
 
 Die Regierung des Kantons St.Gallen
 
@@ -27,7 +27,7 @@ in Ausführung von Art. 19 der Verordnung zum Einführungsgesetz zur Bundesgeset
 als Beschluss:[^ingress-2]
 
 [^ingress-1]: sGS [331.111](https://www.gesetzessammlung.sg.ch/data/331.111/de).
-[^ingress-2]: In Vollzug ab 1. Januar 2021.
+[^ingress-2]: In Vollzug ab 1. Januar 2022.
 
 ## I. Referenzprämien
 
@@ -50,17 +50,17 @@ als Beschluss:[^ingress-2]
 <sup>1</sup> Die regionalen Referenzprämien betragen:
 
 - a) für eine erwachsene Person ab dem 26. Altersjahr:
-  - 1\. Region 1: Fr. 4'989.00
-  - 2\. Region 2: Fr. 4'644.60
-  - 3\. Region 3: Fr. 4'426.80
+  - 1\. Region 1: Fr. 5'022.60
+  - 2\. Region 2: Fr. 4'643.40
+  - 3\. Region 3: Fr. 4'442.40
 - b) für eine erwachsene Person bis zum vollendeten 25. Altersjahr:
-  - 1\. Region 1: Fr. 3'646.80
-  - 2\. Region 2: Fr. 3'447.60
-  - 3\. Region 3: Fr. 3'292.80
+  - 1\. Region 1: Fr. 3'559.20
+  - 2\. Region 2: Fr. 3'334.80
+  - 3\. Region 3: Fr. 3'210.00
 - c) für ein Kind:
-  - 1\. Region 1: Fr. 1'158.00
-  - 2\. Region 2: Fr. 1'071.60
-  - 3\. Region 3: Fr. 1'029.60
+  - 1\. Region 1: Fr. 1'165.20
+  - 2\. Region 2: Fr. 1'069.20
+  - 3\. Region 3: Fr. 1'022.40
 
 ## II. Belastungsgrenzen
 
@@ -68,7 +68,7 @@ als Beschluss:[^ingress-2]
 
 **Massgebendes Einkommen**
 
-<sup>1</sup> Das massgebende Einkommen wird nach Art. 12 bis 14 der Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung vom 12. Dezember 1995[^4-1] bestimmt.
+<sup>1</sup> Das massgebende Einkommen wird nach [Art. 12](https://www.gesetzessammlung.sg.ch/data/331.111/de/art12) bis [14](https://www.gesetzessammlung.sg.ch/data/331.111/de/art14) der Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung vom 12. Dezember 1995[^4-1] bestimmt.
 
 [^4-1]: sGS [331.111](https://www.gesetzessammlung.sg.ch/data/331.111/de).
 
@@ -78,22 +78,16 @@ als Beschluss:[^ingress-2]
 
 <sup>1</sup> Die Belastungsgrenzen in Prozent betragen:
 
-- a) für erwerbstätige Personen:
-  - 1\. massgebendes Einkommen bis Fr. 7'500.–: 16,0 Prozent
-  - 2\. massgebendes Einkommen von Fr. 7'501.– bis Fr. 12'500.–: 18,0 Prozent
-  - 3\. massgebendes Einkommen ab Fr. 12'501.–: 19,0 Prozent
-- b) für erwerbstätige Personen und mitversicherte Ehepartnerinnen oder -partner:
-  - 1\. massgebendes Einkommen bis Fr. 10'000.–: 16,0 Prozent
-  - 2\. massgebendes Einkommen von Fr. 10'001.– bis Fr. 15'000.–: 18,0 Prozent
-  - 3\. massgebendes Einkommen ab Fr. 15'001.–: 19,0 Prozent
+- a) für erwerbstätige Personen mit einem massgebenden Einkommen bis Fr. 17'500.–: 14,0 Prozent. Die Belastungsgrenze erhöht sich für das gesamte massgebende Einkommen um je 0,0002 Prozentpunkte für jeden Franken, um den es Fr. 17'500.– übersteigt.
+- b) für erwerbstätige Personen und mitversicherte Ehepartnerinnen oder -partner mit einem massgebenden Einkommen bis Fr. 26'250.–: 14,0 Prozent. Die Belastungsgrenze erhöht sich für das gesamte massgebende Einkommen um je 0,0003 Prozentpunkte für jeden Franken, um den es Fr. 26'250.– übersteigt.
 - c) für erwerbstätige Personen und mitversicherte Kinder:
-  - 1\. massgebendes Einkommen bis Fr. 10'000.–: 16,0 Prozent
-  - 2\. massgebendes Einkommen von Fr. 10'001.– bis Fr. 15'000.–: 18,0 Prozent
-  - 3\. massgebendes Einkommen ab Fr. 15'001.–: 20,0 Prozent
+  - 1\. massgebendes Einkommen bis Fr. 30'000.–: 14,0 Prozent
+  - 2\. massgebendes Einkommen von Fr. 30'001.– bis Fr. 32'500.–: 16,0 Prozent
+  - 3\. massgebendes Einkommen ab Fr. 32'501.–: 18,0 Prozent
 - d) für erwerbstätige Personen und mitversicherte Ehepartnerinnen oder -partner sowie mitversicherte Kinder:
-  - 1\. massgebendes Einkommen bis Fr. 15'000.–: 16,0 Prozent
-  - 2\. massgebendes Einkommen von Fr. 15'001.– bis Fr. 20'000.–: 18,0 Prozent
-  - 3\. massgebendes Einkommen ab Fr. 20'001.–: 20,0 Prozent
+  - 1\. massgebendes Einkommen bis Fr. 40'000.–: 14,6 Prozent
+  - 2\. massgebendes Einkommen von Fr. 40'001.– bis Fr. 42'500.–: 16,6 Prozent
+  - 3\. massgebendes Einkommen ab Fr. 42'501.–: 18,6 Prozent
 
 ## III. Obergrenze des Einkommens
 
@@ -101,22 +95,22 @@ als Beschluss:[^ingress-2]
 
 **Betrag**
 
-<sup>1</sup> Die massgebende Obergrenze des Bruttoeinkommens zur Verbilligung der Referenzprämien nach Art. 65 Abs. 1<sup>bis</sup> des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^6-1] beträgt:
+<sup>1</sup> Die massgebende Obergrenze des Bruttoeinkommens zur Verbilligung der Referenzprämien nach [Art. 65](https://db.clex.ch/link/Bund/832.10/de) Abs. 1<sup>bis</sup> des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^6-1] beträgt:
 
-- a) für Alleinstehende ohne Kinder Fr. 52'100.–
-- b) für Alleinstehende mit einem Kind Fr. 81'700.–
-- c) für Alleinstehende mit zwei Kindern Fr. 81'700.–
-- d) für Alleinstehende mit drei Kindern Fr. 88'400.–
-- e) für Alleinstehende mit vier Kindern Fr. 95'100.–
-- f) für Alleinstehende mit fünf und mehr Kindern Fr. 101'700.–
-- g) für Verheiratete ohne Kinder Fr. 78'100.–
-- h) für Verheiratete mit einem Kind Fr. 107'800.–
-- i) für Verheiratete mit zwei Kindern Fr. 107'800.–
-- j) für Verheiratete mit drei Kindern Fr. 114'400.–
-- k) für Verheiratete mit vier Kindern Fr. 121'100.–
-- l) für Verheiratete mit fünf und mehr Kindern Fr. 127'800.–
+- a) für Alleinstehende ohne Kinder Fr. 52'200.–
+- b) für Alleinstehende mit einem Kind Fr. 82'000.–
+- c) für Alleinstehende mit zwei Kindern Fr. 82'000.–
+- d) für Alleinstehende mit drei Kindern Fr. 88'600.–
+- e) für Alleinstehende mit vier Kindern Fr. 95'300.–
+- f) für Alleinstehende mit fünf und mehr Kindern Fr. 102'000.–
+- g) für Verheiratete ohne Kinder Fr. 78'200.–
+- h) für Verheiratete mit einem Kind Fr. 108'000.–
+- i) für Verheiratete mit zwei Kindern Fr. 108'000.–
+- j) für Verheiratete mit drei Kindern Fr. 114'700.–
+- k) für Verheiratete mit vier Kindern Fr. 121'400.–
+- l) für Verheiratete mit fünf und mehr Kindern Fr. 128'000.–
 
-<sup>2</sup> Art. 12 Abs. 3 der Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung vom 12. Dezember 1995[^6-2] wird sachgemäss angewendet.
+<sup>2</sup> [Art. 12](https://www.gesetzessammlung.sg.ch/data/331.111/de/art12) Abs. 3 der Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung vom 12. Dezember 1995[^6-2] wird sachgemäss angewendet.
 
 [^6-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
 [^6-2]: sGS [331.111](https://www.gesetzessammlung.sg.ch/data/331.111/de).
@@ -127,9 +121,9 @@ als Beschluss:[^ingress-2]
 
 **Umrechnung in die Kaufkraft im Wohnsitzstaat**
 
-<sup>1</sup> Für die Umrechnung des für Prämienverbilligungen nach Art. 65 Abs. 1 und 1<sup>bis</sup> des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^7-1] anrechenbaren Einkommens in die Kaufkraft im Wohnsitzstaat der anspruchsberechtigten Person werden die Umrechnungsfaktoren nach Art. 1 der Verordnung des Eidgenössischen Departementes des Innern über die Preisniveauindizes und die Durchschnittsprämien 2021 für den Anspruch auf Prämienverbilligung in der Europäischen Union, in Island und in Norwegen[^7-2] angewendet.
+<sup>1</sup> Für die Umrechnung des für Prämienverbilligungen nach [Art. 65](https://db.clex.ch/link/Bund/832.10/de) Abs. 1 und 1<sup>bis</sup> des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^7-1] anrechenbaren Einkommens in die Kaufkraft im Wohnsitzstaat der anspruchsberechtigten Person werden die Umrechnungsfaktoren nach [Art. 1](https://db.clex.ch/link/Bund/832.112.51/de) der Verordnung des Eidgenössischen Departementes des Innern über die Preisniveauindizes und die Durchschnittsprämien 2022 für den Anspruch auf Prämienverbilligung in der Europäischen Union, in Island und in Norwegen[^7-2] angewendet.
 
 [^7-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
 [^7-2]: SR [832.112.51](https://db.clex.ch/link/Bund/832.112.51/de).
 
-nGS 2020-106
+nGS 2021-096
