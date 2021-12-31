@@ -4,13 +4,13 @@ number: "635.1.1"
 title: Gesetz über die Handänderungs- und Grundpfandrechtssteuern
 short: HGStG
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-10-16
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-11-05
 adopted: 1996-05-01
 in_force: 1997-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/635.1.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6667/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7275/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Handänderungs- und Grundpfandrechtssteuern – G
 
 (HGStG)
 
-vom 01.05.1996 (Fassung in Kraft getreten am 01.01.2021)
+vom 01.05.1996 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -135,12 +135,12 @@ beschliesst:
 - i) die Umwandlung von einer Form von gemeinschaftlichem Grundeigentum in eine andere, sofern die Personen und die Anteile nicht ändern;
 - j) die Umwandlung eines Nutzniessungsrechts in ein gleichwertiges Wohnrecht oder umgekehrt;
 - k) die rechtliche Übertragung von Grundstücken einer Immobiliengesellschaft, wenn und soweit eine weitere Steuererhebung für die natürlichen Personen, die direkt oder indirekt die Beteiligungsrechte innehaben, aufgrund einer bereits erfolgten Erhebung nach Artikel 4 Bst. e wirtschaftlich einer Doppelbesteuerung gleichkäme; ferner sind von der Steuerpflicht befreit die rechtlichen Übertragungen von Grundstücken von einer Immobiliengesellschaft an einen Inhaber von Beteiligungsrechten, dem die Eigenschaft einer natürlichen Person zukommt, im Verhältnis seiner Rechte und im Falle der vollständigen Auflösung der Gesellschaft;
-- l) Grundstücksübertragungen im Zusammenhang mit Bodenverbesserungen, die vom für die Bodenverbesserungen zuständigen Amt[^9-1] oder vom Amt für Wald und Natur visiert wurden, sowie Eigentumsübertragungen im Zusammenhang mit katastertechnisch bedingten Grenzbereinigungen von geringer Bedeutung;
+- l) Grundstücksübertragungen im Zusammenhang mit Bodenverbesserungen, die vom Amt, das nach der Gesetzgebung über die Bodenverbesserungen in diesem Bereich zuständig ist [^9-1], visiert wurden, sowie Eigentumsübertragungen im Zusammenhang mit katastertechnisch bedingten Grenzbereinigungen von geringer Bedeutung;
 - m) die in anderen gesetzlichen Bestimmungen ausdrücklich vorgesehenen Fälle.
 
 <sup>2</sup> Die Stellung der eingetragenen Partner entspricht derjenigen der Ehegatten.
 
-[^9-1]: Heute: Amt für Landwirtschaft.
+[^9-1]: Heute: Grangeneuve oder Amt für Wald und Natur.
 
 #### Art. 10
 
@@ -291,7 +291,7 @@ beschliesst:
 [^24-1]: Heute: Finanzdirektion.
 [^24-2]: Heute: kantonaler Finanzdienst.
 [^24-3]: Heute: Kantonale Steuerverwaltung.
-[^24-4]: Heute: Raumplanungs-, Umwelt- und Baudirektion.
+[^24-4]: Heute: Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt.
 
 #### Art. 25
 

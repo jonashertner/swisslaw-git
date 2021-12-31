@@ -4,13 +4,13 @@ number: "635.1.1"
 title: Loi sur les droits de mutation et les droits sur les gages immobiliers
 short: LDMG
 language: fr
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-10-16
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-11-05
 adopted: 1996-05-01
 in_force: 1997-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/635.1.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6667/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7275/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Droits de mutation et droits sur les gages immobiliers – L
 
 (LDMG)
 
-du 01.05.1996 (version entrée en vigueur le 01.01.2021)
+du 01.05.1996 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -135,12 +135,12 @@ Décrète:
 - i) la transformation d'une forme de propriété collective immobilière en une autre forme, sans que les personnes ni les parts changent;
 - j) la conversion d'un droit d'usufruit en un droit d'habitation équivalent ou inversement;
 - k) les transferts juridiques d'immeubles d'une société immobilière, si et dans la mesure où, pour les personnes physiques qui en détiennent directement ou indirectement les droits de participation, un nouveau prélèvement constituerait économiquement une double imposition en raison d'un prélèvement déjà opéré en application de l'article 4 let. e; sont par ailleurs exonérés les transferts juridiques d'immeubles d'une société immobilière à un détenteur de droits de participation revêtant la qualité de personne physique, en proportion de ses droits et en cas de liquidation totale de la société;
-- l) les transferts immobiliers déterminés par des opérations d'améliorations foncières et visés par le service en charge des améliorations foncières[^9-1] ou le Service des forêts et de la nature ainsi que les transferts de propriétés réalisés en vue d'une régularisation peu importante de limites dictées par des raisons cadastrales;
+- l) les transferts immobiliers déterminés par des opérations d'améliorations foncières et visés par le service, qui selon la législation sur les améliorations foncières, est compétent en la matière[^9-1] ainsi que les transferts de propriétés réalisés en vue d'une régularisation peu importante de limites dictées par des raisons cadastrales;
 - m) les cas expressément prévus par d'autres dispositions légales.
 
 <sup>2</sup> Les partenaires enregistrés ont le même statut que les époux.
 
-[^9-1]: Actuellement: Service de l'agriculture.
+[^9-1]: Actuellement: Grangeneuve ou Service des forêts et de la nature.
 
 #### Art. 10
 
@@ -291,7 +291,7 @@ Décrète:
 [^24-1]: Actuellement: Direction des finances.
 [^24-2]: Actuellement: Service financier cantonal.
 [^24-3]: Actuellement: Service cantonal des contributions.
-[^24-4]: Actuellement: Direction de l'aménagement, de l'environnement et des constructions.
+[^24-4]: Actuellement: Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement.
 
 #### Art. 25
 
