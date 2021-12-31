@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 21. April 2016 über die Förderung der internatio
 short: IPFiV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/292"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2016-04-21
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/292/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2016-292-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/292/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-292-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20210101/de"
 
 (IPFiV)
 
-vom 21. April 2016 (Stand am 1. Januar 2021)
+vom 21. April 2016 (Stand am 1. Januar 2022)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -586,29 +586,32 @@ Anrechenbar sind die voraussichtlichen Kosten der Projektentwicklung ab Gesuchse
 
 Für die Einzelprojektförderung im Rahmen der MEDIA-Ersatz-Massnahme «Entwicklung von audiovisuellen Werken mit europäischem Potenzial» gelten folgende Höchstbeiträge:
 
-- a. für Animationsfilme: 66 000 Franken;
-- b.[^34-2] für Dokumentarfilme: 28 000 Franken;
+- a. für Animationsfilme: 60 000 Franken;
+- b. für Dokumentarfilme: 33 000 Franken;
 - c.
 
   für Spielfilme:
 
   - 1\. bei Produktionsbudgets bis 1,65 Millionen Franken: 33 000 Franken,
-  - 2\. bei Produktionsbudgets über 1,65 Millionen Franken: 55 000 Franken.
+  - 2\. bei Produktionsbudgets über 1,65 Millionen Franken: 55 000 Franken;
+
+- d. für Serien: 60 000 Franken.[^34-2]
 
 [^34-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^34-2]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^34-2]: Fassung gemäss Ziff. I der V des EDI vom 18. Febr. 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 #### Art. 35
 
 **Auszahlungsmodalitäten**
 
-<sup>1</sup> Die erste Rate wird ausbezahlt, wenn die Durchführung gesichert und die Restfinanzierung nachgewiesen ist. Sie beträgt höchstens 60 Prozent.
+<sup>1</sup> Die erste Rate wird ausbezahlt, wenn die Durchführung gesichert ist und die Restfinanzierung nachgewiesen ist. Sie beträgt höchstens 70 Prozent.[^35-1]
 
 <sup>2</sup> Die zweite Rate wird ausbezahlt, nachdem die Projektabrechnung und ein kurzer Projektbericht über den Stand und das weitere Vorgehen vorgelegt wurden.
 
-<sup>3</sup> Wird die Projektabrechnung nicht innerhalb von 18 Monaten nach Auszahlung der ersten Rate vorgelegt, so ist unaufgefordert ein Zwischenbericht mit einer Zwischenabrechnung einzureichen. Eine Verlängerung um 6 Monate ist in begründeten Fällen möglich.[^35-1]
+<sup>3</sup> Wird die Projektabrechnung nicht innerhalb von 18 Monaten nach Auszahlung der ersten Rate vorgelegt, so ist unaufgefordert ein Zwischenbericht mit einer Zwischenabrechnung einzureichen. Eine Verlängerung um 6 Monate ist in begründeten Fällen möglich.[^35-2]
 
-[^35-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Juni 2018 ([AS 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)). Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^35-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Febr. 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^35-2]: Eingefügt durch Ziff. I der V des EDI vom 8. Juni 2018 ([AS 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)). Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 ### 3. Abschnitt: Entwicklung von audiovisuellen Werken mit europäischem Potenzial: Paketförderung
 
@@ -698,18 +701,20 @@ In Aussicht gestellte Finanzhilfen für das Paket oder für die darin enthaltene
 
 **Auszahlungsmodalitäten**
 
-<sup>1</sup> Die erste Rate wird ausbezahlt, wenn die Durchführung aller Projekte gesichert und deren Finanzierung nachgewiesen ist. Die erste Rate beträgt höchstens 60 Prozent.
+<sup>1</sup> Die erste Rate wird ausbezahlt, wenn die Durchführung aller Projekte gesichert ist und deren Restfinanzierung nachgewiesen ist. Sie beträgt höchstens 65 Prozent.[^43-1]
 
-<sup>2</sup> Eine zweite Rate von höchstens 30 Prozent kann frühestens nach 12 Monaten ausbezahlt werden, wenn aufgrund eines Zwischenberichts mit Zwischenabrechnung nachgewiesen ist, dass entsprechende Kosten unmittelbar bevorstehen.
+<sup>2</sup> Eine zweite Rate kann frühestens nach 12 Monaten ausbezahlt werden, wenn aufgrund eines Zwischenberichts mit Zwischenabrechnung nachgewiesen ist, dass entsprechende Kosten unmittelbar bevorstehen. Sie beträgt höchstens 25 Prozent.[^43-2]
 
-<sup>3</sup> Ist das Paket innerhalb von 30 Monaten nach Auszahlung der ersten Rate nicht abgerechnet, so ist unaufgefordert ein Zwischenbericht mit einer Zwischenabrechnung einzureichen. Eine Verlängerung um 6 Monate ist in begründeten Fällen möglich.[^43-1]
+<sup>3</sup> Ist das Paket innerhalb von 30 Monaten nach Auszahlung der ersten Rate nicht abgerechnet, so ist unaufgefordert ein Zwischenbericht mit einer Zwischenabrechnung einzureichen. Eine Verlängerung um 6 Monate ist in begründeten Fällen möglich.[^43-3]
 
 <sup>4</sup> Können nicht alle Projekte, wie im Auszahlungsgesuch angegeben, entwickelt werden, so ist das BAK unverzüglich zu informieren.
 
-<sup>5</sup> Die letzte Rate wird nach Vorliegen der Abrechnung über das Paket ausbezahlt. Die Abrechnung muss von einer nach dem Revisionsaufsichtsgesetz vom 16. Dezember 2005[^43-2] zugelassenen Person oder Treuhandfirma geprüft sein.
+<sup>5</sup> Die letzte Rate wird nach Vorliegen der Abrechnung über das Paket ausbezahlt. Die Abrechnung muss von einer nach dem Revisionsaufsichtsgesetz vom 16. Dezember 2005[^43-4] zugelassenen Person oder Treuhandfirma geprüft sein.
 
-[^43-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^43-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^43-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Febr. 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^43-2]: Fassung gemäss Ziff. I der V des EDI vom 18. Febr. 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^43-3]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^43-4]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 ### 4. Abschnitt: Finanzhilfen der selektiven Filmförderung für den Verleih von europäischen Filmen in der Schweiz
 
@@ -761,7 +766,7 @@ Keine Finanzhilfen werden gewährt für:
 - d. Live-Aufnahmen oder Aufzeichnungen von Aufführungen von Werken wie Opern und Konzerte;
 - e. Filme mit Auftrags- oder Werbecharakter, Filme mit vorwiegend didaktischer Zielsetzung und Filme, die die Menschenwürde verletzen, diskriminierend sind, Gewalt verherrlichen oder verharmlosen oder die pornografisch sind (Art. 16 FiG);
 - f.[^45-4] Filme, für die Gutschriften der erfolgsabhängigen Verleihförderung nach dieser Verordnung in die Promotionstätigkeit oder in den Ankauf von Kopien reinvestiert werden, es sei denn, es handelt sich um Reinvestitionen in Form von Minimumgarantien oder Koproduktionsbeiträgen;
-- g.[^45-5] ...
+- g.[^45-5] …
 - h.[^45-6] Filme, deren Verleih aus dem Filmförderungsfonds des Europarats «EURIMAGES»[^45-7] gefördert wurde, wenn der Finanzierungsanteil des Bundes zusammen mit dem Finanzierungsanteil aus dem Filmförderungsfond «EURIMAGES» 50 Prozent der Verleihkosten übersteigt;
 - i. Filme, deren Verleihförderung nach dieser Verordnung zweimal abgelehnt wurden.
 
@@ -900,9 +905,9 @@ Nicht zur erfolgsabhängigen Verleihförderung zugelassen sind:[^51-1]
 
 <table>
 <tr><td>Herkunftsland</td><td>Grundbetrag pro Eintritt (in Franken)</td><td>1–25 000 Eintritte (150 % des Grundbetrags, in Franken)</td><td>25 001–100 000 Eintritte (100 % des Grundbetrags, in Franken)</td><td>100 001–200 000 Eintritte (35 % des Grundbetrags, in Franken)</td></tr>
-<tr><td>Frankreich, Grossbritannien</td><td>0.40</td><td>0.60</td><td>0.40</td><td>0.14</td></tr>
-<tr><td>Deutschland, Italien, Spanien</td><td>0.55</td><td>0.82</td><td>0.55</td><td>0.20</td></tr>
-<tr><td>Andere MEDIA-Länder</td><td>0.80</td><td>1.20</td><td>0.80</td><td>0.28.[^52-1]</td></tr>
+<tr><td>Frankreich, Grossbritannien</td><td>0.50</td><td>0.75</td><td>0.50</td><td>0.17</td></tr>
+<tr><td>Deutschland, Italien, Spanien</td><td>0.65</td><td>0.98</td><td>0.65</td><td>0.22</td></tr>
+<tr><td>Andere MEDIA-Länder</td><td>0.90</td><td>1.35</td><td>0.90</td><td>0.31.[^52-1]</td></tr>
 </table>
 
 <sup>5</sup> Übersteigt der Gesamtbetrag aller Gutschriften eines Kalenderjahrs die zur Verfügung stehenden Mittel, so werden die Gutschriften proportional gekürzt.
@@ -911,7 +916,7 @@ Nicht zur erfolgsabhängigen Verleihförderung zugelassen sind:[^51-1]
 
 <sup>7</sup> Pro Verleihfirma und Jahr werden nicht mehr als 350 000 Franken gutgeschrieben.
 
-[^52-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Juni 2018, in Kraft seit 1. Juli 2018 ([AS 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
+[^52-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Febr. 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 #### Art. 53
 
@@ -1065,11 +1070,12 @@ Anrechenbar sind folgende Kosten:
 
 **Auszahlungsmodalitäten**[^62-1]
 
-<sup>1</sup> Die erste Rate wird ausbezahlt, wenn die Durchführung sichergestellt und die Restfinanzierung nachgewiesen ist. Sie beträgt höchstens 60 Prozent; bei Projekten, die sich über mehr als ein Jahr erstrecken, sind die 60 Prozent entsprechend dem Finanzierungsbedarf auf mehrere Raten aufzuteilen.
+<sup>1</sup> Die erste Rate wird ausbezahlt, wenn die Durchführung gesichert ist und die Restfinanzierung nachgewiesen ist. Sie beträgt höchstens 70 Prozent; bei Projekten, die sich über mehr als ein Jahr erstrecken, sind die 70 Prozent entsprechend dem Finanzierungsbedarf auf mehrere Raten aufzuteilen.[^62-2]
 
 <sup>2</sup> Die letzte Rate wird ausbezahlt, nachdem die Abrechnung und ein Abschlussbericht vorgelegt wurden.
 
 [^62-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^62-2]: Fassung gemäss Ziff. I der V des EDI vom 18. Febr. 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 ### 7. Abschnitt: Marktzugang europäischer Filmschaffender und ihrer Werke
 
@@ -1176,11 +1182,12 @@ Die Finanzhilfe darf höchstens 60 Prozent der anrechenbaren Kosten betragen.
 
 **Auszahlungsmodalitäten**[^69-1]
 
-<sup>1</sup> Die erste Rate wird ausbezahlt, wenn die Durchführung gesichert und die Restfinanzierung nachgewiesen ist. Sie beträgt höchstens 60 Prozent; bei Projekten, die sich über mehr als ein Jahr erstrecken, sind die 60 Prozent entsprechend dem Finanzierungsbedarf auf mehrere Raten aufzuteilen.
+<sup>1</sup> Die erste Rate wird ausbezahlt, wenn die Durchführung gesichert ist und die Restfinanzierung nachgewiesen ist. Sie beträgt höchstens 70 Prozent; bei Projekten, die sich über mehr als ein Jahr erstrecken, sind die 70 Prozent entsprechend dem Finanzierungsbedarf auf mehrere Raten aufzuteilen.[^69-2]
 
 <sup>2</sup> Die letzte Rate wird ausbezahlt, nachdem die Projektabrechnung und ein Abschlussbericht vorgelegt wurden.
 
 [^69-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^69-2]: Fassung gemäss Ziff. I der V des EDI vom 18. Febr. 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 ### 8. Abschnitt: Filmfestivals, die europäische Filme vorführen
 
@@ -1201,7 +1208,7 @@ Ein Gesuch um Finanzhilfen der Programmations- und Promotionsförderung kann ein
 
 Finanzhilfen können gewährt werden für Filmfestivals, deren Programmation folgende Anforderungen erfüllt:
 
-- a. Mindestens 70 Prozent der am Festival im Programmkatalog genannten Filme oder mindestens 100 Langfilme beziehungsweise mindestens 400 Kurzfilme stammen aus MEDIA-Ländern oder der Schweiz.
+- a.[^71-2] Mindestens 50 Prozent der im Programmkatalog genannten Filme oder mindestens 100 Langfilme beziehungsweise mindestens 400 Kurzfilme stammen aus MEDIA-Ländern oder der Schweiz;
 - b. Höchstens 50 Prozent der Filme nach Buchstabe a wurden überwiegend von einer Produktionsfirma aus der Schweiz hergestellt.
 - c. Die im Programmkatalog genannten Filme stammen aus mindestens 14 MEDIA-Ländern und der Schweiz.
 
@@ -1213,6 +1220,7 @@ Keine Finanzhilfen können gewährt werden für Festivals, die:
 - b. auf Werbefilme, Live-Aufnahmen, TV-Serien, Videoclips, Computerspiele, Amateurfilme, Handyfilme oder künstlerische Werke ohne narrativen Charakter ausgerichtet sind.
 
 [^71-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^71-2]: Fassung gemäss Ziff. I der V des EDI vom 18. Febr. 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 #### Art. 72
 
@@ -1313,9 +1321,11 @@ Nicht anrechenbar sind:
 
 **Auszahlungsmodalitäten**
 
-<sup>1</sup> Die erste Rate wird ausbezahlt, wenn die Durchführung sichergestellt und die Restfinanzierung nachgewiesen ist. Sie beträgt höchstens 60 Prozent.
+<sup>1</sup> Die erste Rate wird ausbezahlt, wenn die Durchführung gesichert ist und die Restfinanzierung nachgewiesen ist. Sie beträgt höchstens 70 Prozent.[^76-1]
 
 <sup>2</sup> Die zweite Rate wird ausbezahlt, nachdem die Abrechnung und ein Abschlussbericht vorgelegt wurden.
+
+[^76-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Febr. 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 ### 9. Abschnitt:**** Förderung der europäischen Zusammenarbeit in der Filmvermittlung
 
@@ -1420,9 +1430,11 @@ Anrechenbar sind folgende Kosten:
 
 **Auszahlungsmodalitäten**
 
-<sup>1</sup> Die erste Rate wird ausbezahlt, wenn die Durchführung sichergestellt ist, namentlich wenn eine allfällige Finanzierung durch das Filmförderungsprogramm MEDIA der Europäischen Union bestätigt und die Restfinanzierung nachgewiesen ist. Sie beträgt höchstens 60 Prozent; bei Projekten, die sich über mehr als zwei Jahre erstrecken, sind die 60 Prozent entsprechend dem Finanzierungsbedarf auf mehrere Raten aufzuteilen.
+<sup>1</sup> Die erste Rate wird ausbezahlt, wenn die Durchführung gesichert ist, namentlich wenn eine allfällige Finanzierung durch das Filmförderungsprogramm MEDIA der Europäischen Union bestätigt und die Restfinanzierung nachgewiesen sind. Sie beträgt höchstens 70 Prozent; bei Projekten, die sich über mehr als zwei Jahre erstrecken, sind die 70 Prozent entsprechend dem Finanzierungsbedarf auf mehrere Raten aufzuteilen.[^76g-1]
 
 <sup>2</sup> Die letzte Rate wird ausbezahlt, nachdem die Abrechnung und ein Abschlussbericht vorgelegt wurden.
+
+[^76g-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Febr. 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 ## 4. Kapitel: Schlussbestimmungen
 
@@ -1438,7 +1450,7 @@ Die Berechnung der Gutschriften der erfolgsabhängigen Verleihförderung (Art. 5
 
 **Übergangsbestimmung zur Änderung vom 18. November 2020 (Verleihförderungen im Zusammenhang mit Covid-19)**[^77a-1]
 
-<sup>1</sup> Wird ein Gesuch um selektive Filmförderung für den Verleih von europäischen Filmen nach den Artikeln 44–49 im Jahr 2021 eingereicht, so darf die Finanzhilfe nach Artikel 48 Absatz 1 höchstens 70 Prozent der anrechenbaren Kosten betragen.
+<sup>1</sup> Wird ein Gesuch um selektive Filmförderung für den Verleih von europäischen Filmen nach den Artikeln 44–49 im Jahr 2021 oder 2022 eingereicht, so darf die Finanzhilfe in Abweichung von Artikel 48 Absatz 1 höchstens 70 Prozent der anrechenbaren Kosten betragen.[^77a-2]
 
 <sup>2</sup> Die Berechnung der Gutschriften der erfolgsabhängigen Filmförderung für den Verleih von europäischen Filmen nach Artikel 52 für die Kalenderjahre 2020 und 2021 erfolgt anhand der tatsächlich erzielten Eintritte.
 
@@ -1446,9 +1458,19 @@ Die Berechnung der Gutschriften der erfolgsabhängigen Verleihförderung (Art. 5
 
 <sup>4</sup> Übersteigen die Gutschriften nach den Absätzen 2 und 3 die verfügbaren Mittel, so werden zuerst die Gutschriften nach Absatz 3 anteilsmässig gekürzt.
 
-<sup>5</sup> Auf die Reinvestition von Gutschriften nach den Artikeln 53–55 ist das im Zeitpunkt der Gesuchstellung geltende Recht anwendbar. Für Reinvestitionsgesuche, die im Jahr 2021 eingereicht werden, gilt ein Anteil von 70 Prozent an den anrechenbaren Kosten (Art. 54).
+<sup>5</sup> Auf die Reinvestition von Gutschriften nach den Artikeln 53–55 ist das im Zeitpunkt der Gesuchstellung geltende Recht anwendbar. Für Reinvestitionsgesuche, die im Jahr 2021 oder 2022 eingereicht werden, gilt in Abweichung von Artikel 54 ein Anteil von 70 Prozent an den anrechenbaren Kosten.[^77a-3]
 
 [^77a-1]: Eingefügt durch Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^77a-2]: Fassung gemäss Ziff. I der V des EDI vom 18. Febr. 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^77a-3]: Fassung gemäss Ziff. I der V des EDI vom 18. Febr. 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+
+#### Art. 77b
+
+**Übergangsbestimmungen zur Änderung vom 18. Februar 2022**[^77b-1]
+
+Die Berechnung der Gutschriften der erfolgsabhängigen Verleihförderung (Art. 52 Abs. 4) für das Kalenderjahr 2021 erfolgt nach den neuen Ansätzen.
+
+[^77b-1]: Eingefügt durch Ziff. I der V des EDI vom 18. Febr. 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 #### Art. 78
 
@@ -1456,7 +1478,7 @@ Die Berechnung der Gutschriften der erfolgsabhängigen Verleihförderung (Art. 5
 
 <sup>1</sup> Diese Verordnung tritt auf den 1. Juli 2016 in Kraft.
 
-<sup>2</sup> ...[^78-1]
+<sup>2</sup> …[^78-1]
 
 <sup>3</sup> Die Anhänge gelten bis zum 31. Dezember 2024.[^78-2]
 

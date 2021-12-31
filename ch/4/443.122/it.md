@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 21 aprile 2016 sulla promozione della presenza inte
 short: OPICin
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/292"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2016-04-21
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/292/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2016-292-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/292/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-292-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20210101/it"
 
 (OPICin)
 
-del 21 aprile 2016 (Stato 1° gennaio 2021)
+del 21 aprile 2016 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -582,29 +582,32 @@ Sono computabili le spese previste per lo sviluppo del progetto, dalla presentaz
 
 Alla promozione di progetti singoli nel quadro della misura compensativa MEDIA «Sviluppo di opere audiovisive con un potenziale europeo» si applicano i seguenti importi massimi:
 
-- a. per i film d’animazione: 66 000 franchi;
-- b.[^34-2] per i documentari: 28 000 franchi;
+- a. per i film d’animazione: 60 000 franchi;
+- b. per i documentari: 33 000 franchi;
 - c.
 
   per i film di fiction:
 
   - 1\. con un preventivo di produzione fino a 1,65 milioni di franchi: 33 000 franchi,
-  - 2\. con un preventivo di produzione superiore a 1,65 milioni di franchi: 55 000 franchi.
+  - 2\. con un preventivo di produzione superiore a 1,65 milioni di franchi: 55 000 franchi;
+
+- d. per le serie: 60 000 franchi.[^34-2]
 
 [^34-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^34-2]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^34-2]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 #### Art. 35
 
 **Modalità di versamento**
 
-<sup>1</sup> La prima rata è versata quando è garantita la realizzazione dell’opera ed è fornita la prova del finanziamento residuo. Essa ammonta al massimo al 60 per cento.
+<sup>1</sup> La prima rata è versata quando è garantita la realizzazione dell’opera ed è fornita la prova del finanziamento residuo. Essa ammonta al massimo al 70 per cento.[^35-1]
 
 <sup>2</sup> La seconda rata è versata dopo che sono stati presentati il conteggio e un breve rapporto sullo stato dei lavori del progetto e sul loro seguito.
 
-<sup>3</sup> Se il conteggio del progetto non è allestito entro 18 mesi dal versamento della prima rata, deve essere presentato spontaneamente un rapporto intermedio corredato di un conteggio intermedio. Una proroga di sei mesi è possibile in casi motivati.[^35-1]
+<sup>3</sup> Se il conteggio del progetto non è allestito entro 18 mesi dal versamento della prima rata, deve essere presentato spontaneamente un rapporto intermedio corredato di un conteggio intermedio. Una proroga di sei mesi è possibile in casi motivati.[^35-2]
 
-[^35-1]: Introdotto dal n. I dell’O del DFI dell’8 giu. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)). Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^35-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^35-2]: Introdotto dal n. I dell’O del DFI dell’8 giu. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)). Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 ### Sezione 3: Sviluppo di opere audiovisive con un potenziale europeo: promozione di pacchetti di progetti
 
@@ -694,18 +697,20 @@ Gli aiuti finanziari previsti per il pacchetto o i progetti che lo compongono no
 
 **Modalità di versamento**
 
-<sup>1</sup> La prima rata è versata quando è garantita la realizzazione di tutti i progetti ed è fornita la prova del finanziamento residuo. Essa ammonta al massimo al 60 per cento.
+<sup>1</sup> La prima rata è versata quando è garantita la realizzazione di tutti i progetti ed è fornita la prova del finanziamento residuo. Essa ammonta al massimo al 65 per cento.[^43-1]
 
-<sup>2</sup> Una seconda rata pari al massimo al 30 per cento del contributo può essere versata al più presto dopo 12 mesi se in base a un rapporto intermedio corredato di conteggio intermedio è dimostrata l’imminenza delle spese corrispondenti.
+<sup>2</sup> Una seconda rata può essere versata al più presto dopo 12 mesi se in base a un rapporto intermedio corredato di conteggio intermedio è dimostrata l’imminenza delle spese corrispondenti. Essa ammonta al massimo al 25 per cento.[^43-2]
 
-<sup>3</sup> Se per il pacchetto non è allestito il conteggio entro 30 mesi dal versamento della prima rata, deve essere presentato spontaneamente un rapporto intermedio corredato di conteggio intermedio. Una proroga di sei mesi è possibile in casi motivati.[^43-1]
+<sup>3</sup> Se per il pacchetto non è allestito il conteggio entro 30 mesi dal versamento della prima rata, deve essere presentato spontaneamente un rapporto intermedio corredato di conteggio intermedio. Una proroga di sei mesi è possibile in casi motivati.[^43-3]
 
 <sup>4</sup> Se non tutti i progetti del pacchetto possono essere sviluppati come indicato nella domanda di versamento, è necessario informarne senza indugio l’UFC.
 
-<sup>5</sup> L’ultima rata è versata una volta presentato il conteggio dell’intero pacchetto. Il conteggio deve essere esaminato da una persona o una società fiduciaria abilitata secondo la legge del 16 dicembre 2005[^43-2] sui revisori.
+<sup>5</sup> L’ultima rata è versata una volta presentato il conteggio dell’intero pacchetto. Il conteggio deve essere esaminato da una persona o una società fiduciaria abilitata secondo la legge del 16 dicembre 2005[^43-4] sui revisori.
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^43-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^43-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^43-2]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^43-3]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^43-4]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 ### Sezione 4: Aiuti finanziari della promozione cinematografica selettiva per la distribuzione in Svizzera di film europei
 
@@ -898,9 +903,9 @@ Non sono ammessi alla promozione della distribuzione legata al successo:[^51-1]
 
 <table>
 <tr><th>Paese di provenienza</th><th>Importo di base per entrata (in franchi)</th><th>1–25 000 entrate (150 % dell’importo di base, in franchi)</th><th>25 001–100 000 entrate (100 % dell’importo di base, in franchi)</th><th>100 001–200 000 entrate (35 % dell’importo di base, in franchi)</th></tr>
-<tr><td>Francia, Gran Bretagna</td><td>0,40</td><td>0,60</td><td>0,40</td><td>0,14</td></tr>
-<tr><td>Germania, Italia, Spagna</td><td>0,55</td><td>0,82</td><td>0,55</td><td>0,20</td></tr>
-<tr><td>Altri Paesi partecipanti a MEDIA</td><td>0,80</td><td>1,20</td><td>0,80</td><td>0,28. [^52-1]</td></tr>
+<tr><td>Francia, Gran Bretagna</td><td>0,50</td><td>0,75</td><td>0,50</td><td>0,17</td></tr>
+<tr><td>Germania, Italia, Spagna</td><td>0,65</td><td>0,98</td><td>0,65</td><td>0,22</td></tr>
+<tr><td>Altri Paesi partecipanti a MEDIA</td><td>0,90</td><td>1,35</td><td>0,90</td><td>0,31. [^52-1]</td></tr>
 </table>
 
 <sup>5</sup> Se l’importo complessivo di tutti gli accrediti di un anno civile eccede i mezzi a disposizione, gli accrediti sono ridotti proporzionalmente.
@@ -909,7 +914,7 @@ Non sono ammessi alla promozione della distribuzione legata al successo:[^51-1]
 
 <sup>7</sup> Per società di distribuzione e anno sono accreditati al massimo 350 000 franchi.
 
-[^52-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
+[^52-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 #### Art. 53
 
@@ -1063,11 +1068,12 @@ Sono computabili le spese seguenti:
 
 **Modalità di versamento**[^62-1]
 
-<sup>1</sup> La prima rata è versata quando è garantita l’esecuzione del progetto ed è fornita la prova del finanziamento residuo. Essa ammonta al massimo al 60 per cento; per i progetti che durano più di un anno, il 60 per cento deve essere ripartito in diverse rate in base alle necessità di finanziamento.
+<sup>1</sup> La prima rata è versata quando è garantita la realizzazione del progetto ed è fornita la prova del finanziamento residuo. Essa ammonta al massimo al 70 per cento; per i progetti che durano più di un anno, il 70 per cento deve essere ripartito in diverse rate in base alle necessità di finanziamento.[^62-2]
 
 <sup>2</sup> L’ultima rata è versata dopo che sono stati presentati il conteggio e il rapporto finale.
 
 [^62-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^62-2]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 ### Sezione 7: Accesso al mercato di cineasti europei e delle loro opere
 
@@ -1174,11 +1180,12 @@ L’aiuto finanziario non può superare il 60 per cento delle spese computabili.
 
 **Modalità di versamento**[^69-1]
 
-<sup>1</sup> La prima rata è versata quando è garantita l’esecuzione del progetto ed è fornita la prova del finanziamento residuo. Essa ammonta al massimo al 60 per cento; per i progetti che durano più di un anno, il 60 per cento deve essere ripartito in diverse rate in base alle necessità di finanziamento.
+<sup>1</sup> La prima rata è versata quando è garantita la realizzazione del progetto ed è fornita la prova del finanziamento residuo. Essa ammonta al massimo al 70 per cento; per i progetti che durano più di un anno, il 70 per cento deve essere ripartito in diverse rate in base alle necessità di finanziamento.[^69-2]
 
 <sup>2</sup> L’ultima rata è versata dopo che sono stati presentati il conteggio e un rapporto finale.
 
 [^69-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^69-2]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 ### Sezione 8: Festival cinematografici che presentano film europei
 
@@ -1199,7 +1206,7 @@ Può presentare una domanda di aiuto finanziario per il sostegno della programma
 
 Possono essere concessi aiuti finanziari per festival cinematografici la cui programmazione soddisfa i requisiti seguenti:
 
-- a. almeno il 70 per cento dei film menzionati nel catalogo del programma o almeno 100 lungometraggi o 400 cortometraggi provengono da Paesi partecipanti a MEDIA o dalla Svizzera;
+- a.[^71-2] almeno il 50 per cento dei film menzionati nel catalogo del programma o almeno 100 lungometraggi o 400 cortometraggi provengono da Paesi partecipanti a MEDIA o dalla Svizzera;
 - b. al massimo il 50 per cento dei film di cui alla lettera a è stato realizzato in misura preponderante da una società di produzione svizzera;
 - c. i film presentati al pubblico provengono da almeno 14 Paesi partecipanti a MEDIA e dalla Svizzera.
 
@@ -1211,6 +1218,7 @@ Non possono essere concessi aiuti finanziari per festival:
 - b. incentrati su film pubblicitari, riprese dal vivo, serie televisive, videoclip, videogiochi, film amatoriali, film realizzati con il cellulare o opere artistiche senza carattere narrativo.
 
 [^71-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^71-2]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 #### Art. 72
 
@@ -1311,9 +1319,11 @@ Non sono computabili:
 
 **Modalità di versamento**
 
-<sup>1</sup> La prima rata è versata quando è garantita la realizzazione del progetto ed è fornita la prova del finanziamento residuo. Essa ammonta al massimo al 60 per cento.
+<sup>1</sup> La prima rata è versata quando è garantita la realizzazione del progetto ed è fornita la prova del finanziamento residuo. Essa ammonta al massimo al 70 per cento.[^76-1]
 
 <sup>2</sup> La seconda rata è versata dopo che sono stati presentati il conteggio e il rapporto finale.
+
+[^76-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 ### Sezione 9:**** Promozione della collaborazione europea nell’ambito della mediazione cinematografica
 
@@ -1418,9 +1428,11 @@ Sono computabili le spese seguenti:
 
 **Modalità di versamento**
 
-<sup>1</sup> La prima rata è versata quando è garantita l’esecuzione del progetto, segnatamente quando è confermato un eventuale finanziamento da parte del programma di sostegno al cinema MEDIA dell’Unione europea ed è fornita la prova del finanziamento residuo. La prima rata ammonta al massimo al 60 per cento; per i progetti che durano più di due anni, il 60 per cento deve essere ripartito in diverse rate in base alle necessità di finanziamento.
+<sup>1</sup> La prima rata è versata quando è garantita la realizzazione del progetto, segnatamente quando è confermato un eventuale finanziamento da parte del programma di sostegno al cinema MEDIA dell’Unione europea ed è fornita la prova del finanziamento residuo. Essa ammonta al massimo al 70 per cento; per i progetti che durano più di due anni, il 70 per cento deve essere ripartito in diverse rate in base alle necessità di finanziamento.[^76g-1]
 
 <sup>2</sup> L’ultima rata è versata dopo che sono stati presentati il conteggio e il rapporto finale.
+
+[^76g-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 ## Capitolo 4: Disposizioni finali
 
@@ -1436,7 +1448,7 @@ Il calcolo degli accrediti della promozione della distribuzione legata al succes
 
 **Disposizioni transitorie della modifica del 18 novembre 2020 (Sostegno alla distribuzione in relazione alla COVID-19)**[^77a-1]
 
-<sup>1</sup> Se una domanda di promozione cinematografica selettiva per la distribuzione di film europei secondo gli articoli 44–49 è presentata nel 2021, l’aiuto finanziario può ammontare al massimo al 70 per cento delle spese computabili (art. 48 cpv. 1).
+<sup>1</sup> Se una domanda di promozione cinematografica selettiva per la distribuzione di film europei secondo gli articoli 44–49 è presentata nel 2021 o nel 2022, in deroga all’articolo 48 capoverso 1 l’aiuto finanziario può ammontare al massimo al 70 per cento delle spese computabili.[^77a-2]
 
 <sup>2</sup> Per gli anni civili 2020 e 2021 gli accrediti della promozione cinematografica legata al successo per la distribuzione di film europei sono calcolati sulla base delle entrate effettive registrate (art. 52).
 
@@ -1444,9 +1456,19 @@ Il calcolo degli accrediti della promozione della distribuzione legata al succes
 
 <sup>4</sup> Se gli accrediti di cui ai capoversi 2 e 3 eccedono i mezzi disponibili, sono ridotti proporzionalmente prima gli accrediti di cui al capoverso 3.
 
-5 Al reinvestimento degli accrediti secondo gli articoli 53–55 si applica il diritto vigente al momento della presentazione della domanda. Alle domande di reinvestimento presentate nel 2021 si applica una quota pari al 70 per cento delle spese computabili (art. 54).
+<sup>5</sup> Al reinvestimento degli accrediti secondo gli articoli 53–55 si applica il diritto vigente al momento della presentazione della domanda. Alle domande di reinvestimento presentate nel 2021 o nel 2022, in deroga all’articolo 54 si applica una quota pari al 70 per cento delle spese computabili.[^77a-3]
 
 [^77a-1]: Introdotto dal n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^77a-2]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^77a-3]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+
+#### Art. 77b
+
+**Disposizione transitoria della modifica del 18 febbraio 2022**[^77b-1]
+
+Il calcolo degli accrediti della promozione della distribuzione legata al successo (art. 52 cpv. 4) per l’anno civile 2021 avviene in base alle nuove aliquote.
+
+[^77b-1]: Introdotto dal n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 #### Art. 78
 

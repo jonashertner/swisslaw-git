@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 21 avril 2016 sur les mesures d'encouragement de la
 short: OPICin
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/292"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2016-04-21
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/292/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-292-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/292/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-292-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20210101/fr"
 
 (OPICin)
 
-du 21 avril 2016 (Etat le 1<sup>er</sup> janvier 2021)
+du 21 avril 2016 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -585,31 +585,34 @@ Sont imputables les coûts prévus du développement de projet générés à par
 
 <sup>2</sup>
 
-Pour l’encouragement de projets individuels dans le cadre de la mesure compensatoire MEDIA «Développement d’œuvres audiovisuelles avec un potentiel européen», les montants maxima sont les suivants:
+Pour l’encouragement de projets individuels dans le cadre de la mesure compensatoire MEDIA « Développement d’œuvres audiovisuelles avec un potentiel européen», les montants maxima sont les suivants:
 
-- a. pour les films d’animation: 66 000 francs;
-- b.[^34-2] pour les films documentaires: 28 000 francs;
+- a. pour les films d’animation: 60 000 francs;
+- b. pour les films documentaires: 33 000 francs;
 - c.
 
   pour les films de fiction:
 
   - 1\. avec un budget de production jusqu’à 1,65 million de francs: 33 000 francs,
-  - 2\. avec un budget de production de plus de 1,65 million de francs: 55 000 francs.
+  - 2\. avec un budget de production de plus de 1,65 million de francs: 55 000 francs,
+
+- d. pour les séries: 60 000 francs.[^34-2]
 
 [^34-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^34-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^34-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 #### Art. 35
 
 **Modalités de versement**
 
-<sup>1</sup> Le versement de la première tranche se fait lorsque la mise en œuvre est assurée et que la preuve du financement résiduel a été apportée. Elle se monte au maximum à 60 %.
+<sup>1</sup> Le versement de la première tranche se fait lorsque la mise en œuvre est assurée et que la preuve du financement résiduel a été apportée. Elle se monte au maximum à 70 %.[^35-1]
 
 <sup>2</sup> La deuxième tranche est versée après présentation du décompte de projet et d’un bref rapport sur l’état d’avancement et les étapes suivantes du projet.
 
-<sup>3</sup> Si le décompte de projet n’est pas présenté dans les 18 mois suivant le versement de la première tranche, un rapport et un décompte intermédiaires doivent être fournis spontanément. Une prolongation de 6 mois peut être accordée dans des cas motivés.[^35-1]
+<sup>3</sup> Si le décompte de projet n’est pas présenté dans les 18 mois suivant le versement de la première tranche, un rapport et un décompte intermédiaires doivent être fournis spontanément. Une prolongation de 6 mois peut être accordée dans des cas motivés.[^35-2]
 
-[^35-1]: Introduit par le ch. I de l’O du DFI du 8 juin 2018 ([RO 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)). Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^35-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^35-2]: Introduit par le ch. I de l’O du DFI du 8 juin 2018 ([RO 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)). Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 ### Section 3 Développement d’œuvres audiovisuelles ayant un potentiel européen: encouragement d’un ensemble de projets
 
@@ -699,18 +702,20 @@ Les aides financières annoncées pour un ensemble de projets ou des projets con
 
 **Modalités de versement**
 
-<sup>1</sup> Le versement de la première tranche se fait lorsque la mise en œuvre de tous les projets d’un ensemble est assurée et que la preuve de leur financement a été apportée. La première tranche se monte au maximum à 60 %.
+<sup>1</sup> Le versement de la première tranche se fait lorsque la mise en œuvre de tous les projets d’un ensemble est assurée et que la preuve de leur financement a été apportée. La première tranche se monte au maximum à 65 %.[^43-1]
 
-<sup>2</sup> La deuxième tranche se monte au maximum à 30 % de la contribution et peut être versée au plus tôt après 12 mois sur présentation d’un rapport intermédiaire et d’un décompte intermédiaire qui attestent que les coûts vont être engagés de façon imminente.
+<sup>2</sup> La deuxième tranche se monte au maximum à 25 % de la contribution et peut être versée au plus tôt après 12 mois sur présentation d’un rapport intermédiaire et d’un décompte intermédiaire qui attestent que les coûts vont être engagés de façon imminente.[^43-2]
 
-<sup>3</sup> Dans les cas où un décompte pour un ensemble de projets ne peut pas être fourni dans les 30 mois suivant le paiement de la première tranche, un rapport intermédiaire ainsi qu’un décompte intermédiaire doivent être fournis spontanément. Une prolongation de 6 mois peut être accordée dans des cas motivés.[^43-1]
+<sup>3</sup> Dans les cas où un décompte pour un ensemble de projets ne peut pas être fourni dans les 30 mois suivant le paiement de la première tranche, un rapport intermédiaire ainsi qu’un décompte intermédiaire doivent être fournis spontanément. Une prolongation de 6 mois peut être accordée dans des cas motivés.[^43-3]
 
 <sup>4</sup> L’OFC doit être immédiatement informé si un ou plusieurs projets d’un ensemble ne peuvent pas être développés comme indiqué dans la demande de paiement.
 
-<sup>5</sup> La dernière tranche est versée suite à la remise du décompte de l’ensemble de projets. Le décompte doit être vérifié par une personne ou une société fiduciaire agréée au sens de la loi du 16 décembre 2005 sur la surveillance de la révision[^43-2].
+<sup>5</sup> La dernière tranche est versée suite à la remise du décompte de l’ensemble de projets. Le décompte doit être vérifié par une personne ou une société fiduciaire agréée au sens de la loi du 16 décembre 2005 sur la surveillance de la révision[^43-4].
 
-[^43-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^43-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^43-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^43-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^43-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^43-4]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 ### Section 4 Aides financières de l’aide sélective pour la distribution en Suisse de films européens
 
@@ -900,10 +905,10 @@ Ne sont pas éligibles à l’aide à la distribution liée au succès:[^51-1]
 <sup>4</sup> Selon le pays d’origine du film, les montants suivants sont appliqués:
 
 <table>
-<tr><th>Pays d’origine</th><th>Montant de base par entrée (en francs)</th><th>1 à 25 000 entrées (150 % du montant de base, en francs)</th><th>25 001 à 100 000 entrées (100 % du montant de base, en francs)</th><th>100 001 à 200 000 entrées (35 % du montant de base, en francs)</th></tr>
-<tr><td>France, Grande Bretagne</td><td>0.40</td><td>0.60</td><td>0.40</td><td>0.14</td></tr>
-<tr><td>Allemagne, Italie, Espagne</td><td>0.55</td><td>0.82</td><td>0.55</td><td>0.20</td></tr>
-<tr><td>Autres pays participant à MEDIA</td><td>0.80</td><td>1.20</td><td>0.80</td><td>0.28.[^52-1]</td></tr>
+<tr><td>Pays d’origine</td><td>Montant de base par entrée (en francs)</td><td>1 à 25 000 entrées (150 % du montant de base, en francs)</td><td>25 001 à 100 000 entrées (100 % du montant de base, en francs)</td><td>100 001 à 200 000 entrées (35 % du montant de base, en francs)</td></tr>
+<tr><td>France, Grande‑Bretagne</td><td>0,50</td><td>0,75</td><td>0,50</td><td>0,17</td></tr>
+<tr><td>Allemagne, Italie, Espagne</td><td>0,65</td><td>0,98</td><td>0,65</td><td>0,22</td></tr>
+<tr><td>Autres pays participant à MEDIA</td><td>0,90</td><td>1,35</td><td>0,90</td><td>0,31.[^52-1]</td></tr>
 </table>
 
 <sup>5</sup> Si le montant total de toutes les bonifications pour l’année civile excède les moyens disponibles, les bonifications sont réduites proportionnellement.
@@ -912,7 +917,7 @@ Ne sont pas éligibles à l’aide à la distribution liée au succès:[^51-1]
 
 <sup>7</sup> La bonification par distributeur et par année ne peut dépasser 350 000 francs.
 
-[^52-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
+[^52-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 #### Art. 53
 
@@ -1066,11 +1071,12 @@ Sont imputables:
 
 **Modalités de versement**[^62-1]
 
-<sup>1</sup> Le versement de la première tranche se fait lorsque la mise en œuvre du projet est assurée et que la preuve du financement résiduel a été apportée. Elle se monte au maximum à 60 %; pour les projets qui s’étendent sur plus d’une année, ces 60 % sont répartis en plusieurs tranches conformément au besoin de financement.
+<sup>1</sup> Le versement de la première tranche se fait lorsque la mise en œuvre du projet est assurée et que la preuve du financement résiduel a été apportée. Elle se monte au maximum à 70 %; pour les projets qui s’étendent sur plus d’une année, ces 70 % sont répartis en plusieurs tranches conformément au besoin de financement.[^62-2]
 
 <sup>2</sup> La dernière tranche est versée après présentation du décompte et d’un rapport final.
 
 [^62-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^62-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 ### Section 7 Accès au marché des cinéastes européens et de leurs œuvres
 
@@ -1177,11 +1183,12 @@ L’aide financière ne peut excéder 60 % des coûts imputables.
 
 **Modalités de versement**[^69-1]
 
-<sup>1</sup> Le versement de la première tranche se fait lorsque la mise en œuvre est assurée et que la preuve du financement résiduel a été apportée. Elle se monte au maximum à 60 %; pour les projets qui s’étendent sur plus d’une année, ces 60 % sont répartis en plusieurs tranches conformément au besoin de financement.
+<sup>1</sup> Le versement de la première tranche se fait lorsque la mise en œuvre est assurée et que la preuve du financement résiduel a été apportée. Elle se monte au maximum à 70 %; pour les projets qui s’étendent sur plus d’une année, ces 70 % sont répartis en plusieurs tranches conformément au besoin de financement.[^69-2]
 
 <sup>2</sup> La dernière tranche est versée après présentation du décompte de projet et d’un rapport final.
 
 [^69-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^69-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 ### Section 8 Festivals de films présentant des films européens
 
@@ -1202,7 +1209,7 @@ Peut déposer une demande d’aide financière pour l’aide à la programmation
 
 Des aides financières peuvent être accordées pour des festivals de films dont la programmation répond aux exigences suivantes:
 
-- a. au moins 70 % des films figurant dans le catalogue du festival ou au moins 100 films de long métrage ou 400 films de court métrage proviennent de pays participant au programme MEDIA ou de Suisse;
+- a.[^71-2] au moins 50 % des films figurant dans le catalogue du festival ou au moins 100 films de long métrage ou 400 films de court métrage proviennent de pays participant au programme MEDIA ou de Suisse;
 - b. 50 % au maximum des films visés à la let. a ont été réalisés pour une part prépondérante par une entreprise de production suisse;
 - c. les films figurant dans le catalogue du festival proviennent d’au moins 14 pays participant au programme MEDIA et de Suisse.
 
@@ -1214,6 +1221,7 @@ Aucune aide financière n’est allouée aux festivals qui:
 - b. sont axés sur les films publicitaires, les enregistrements en direct, les séries TV, les clips vidéo, les jeux électroniques, les films d’amateurs, les films réalisés sur téléphone portable ou les œuvres artistiques sans trame narrative.
 
 [^71-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^71-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 #### Art. 72
 
@@ -1314,9 +1322,11 @@ Les coûts suivants ne sont pas imputables:
 
 **Modalités de versement**
 
-<sup>1</sup> Le versement de la première tranche se fait lorsque la mise en œuvre est assurée et que la preuve du financement résiduel a été apportée. Elle se monte au maximum à 60 %.
+<sup>1</sup> Le versement de la première tranche se fait lorsque la mise en œuvre est assurée et que la preuve du financement résiduel a été apportée. Elle se monte au maximum à 70 %.[^76-1]
 
 <sup>2</sup> La deuxième tranche est versée après présentation du décompte et d’un rapport final.
+
+[^76-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 ### Section 9**** Encouragement de la collaboration européenne en matière de médiation cinématographique
 
@@ -1421,9 +1431,11 @@ Sont imputables:
 
 **Modalités de versement**
 
-<sup>1</sup> Le versement de la première tranche se fait lorsque la mise en œuvre du projet est assurée, notamment lorsqu’un éventuel financement par le biais du programme MEDIA de l’Union européenne a été confirmé et que la preuve du financement résiduel a été apportée. Elle se monte au maximum à 60 %; pour les projets qui s’étendent sur plus de deux ans, ces 60 % sont répartis en plusieurs tranches conformément au besoin de financement.
+<sup>1</sup> Le versement de la première tranche se fait lorsque la mise en œuvre du projet est assurée, notamment lorsqu’un éventuel financement par le biais du programme MEDIA de l’Union européenne a été confirmé et que la preuve du financement résiduel a été apportée. Elle se monte au maximum à 70 %; pour les projets qui s’étendent sur plus de deux ans, ces 70 % sont répartis en plusieurs tranches conformément au besoin de financement.[^76g-1]
 
 <sup>2</sup> La dernière tranche est versée après présentation du décompte et d’un rapport final.
+
+[^76g-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 ## Chapitre 4 Dispositions finales
 
@@ -1439,7 +1451,7 @@ Le calcul des bonifications de l’aide à la distribution liée au succès (art
 
 **Dispositions transitoires relatives à la modification du 18 novembre 2020 (aides à la distribution en rapport avec le COVID-19)**[^77a-1]
 
-<sup>1</sup> Si une demande d’aide sélective à la distribution de films européens au sens des art. 44 à 49 est déposée en 2021, l’aide financière ne peut excéder 70 % des coûts imputables, conformément à l’art. 48, al. 1.
+<sup>1</sup> Si une demande d’aide sélective à la distribution de films européens au sens des art. 44 à 49 est déposée en 2021 ou 2022, l’aide financière ne peut excéder 70 % des coûts imputables, en dérogation à l’art. 48, al. 1.[^77a-2]
 
 <sup>2</sup> Le calcul des bonifications de l’aide liée au succès pour la distribution de films européens prévu à l’art. 52 se fait pour les années civiles 2020 et 2021 sur la base des entrées effectivement réalisées.
 
@@ -1447,9 +1459,19 @@ Le calcul des bonifications de l’aide à la distribution liée au succès (art
 
 <sup>4</sup> Si les bonifications visées aux al. 2 et 3 dépassent les montants disponibles, ce sont les bonifications visées à l’al. 3 qui seront proportionnellement réduites en premier.
 
-<sup>5</sup> Les réinvestissements des bonifications selon les art. 53 à 55 sont soumis au droit applicable au moment du dépôt de la demande. Pour les demandes de réinvestissements déposées en 2021, un taux de 70 % des coûts imputables s’applique (art. 54).
+<sup>5</sup> Les réinvestissements des bonifications selon les art. 53 à 55 sont soumis au droit applicable au moment du dépôt de la demande. Pour les demandes de réinvestissements déposées en 2021 ou 2022, un taux de 70 % des coûts imputables s’applique, en dérogation à l’art. 54.[^77a-3]
 
 [^77a-1]: Introduit par le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^77a-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^77a-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+
+#### Art. 77b
+
+**Dispositions transitoires de la modification du 18 février 2022**[^77b-1]
+
+La nouvelle base de calcul pour les bonifications de l’aide liée au succès pour la distribution (art. 52, al. 4) s’appliquent pour les entrées réalisées en 2021.
+
+[^77b-1]: Introduit par le ch. I de l’O du DFI du 18 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 #### Art. 78
 
