@@ -3,20 +3,19 @@ canton: AR
 number: "341.11"
 title: Verordnung über den Straf- und Massnahmenvollzug und die Bewährungshilfe
 language: de
-version: 2018-02-01
-valid_until: 2021-12-31
-version_adopted: 2018-01-23
+version: 2022-01-01
+version_adopted: 2021-06-01
 adopted: 2014-12-16
 in_force: 2015-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/341.11"
-pdf: "https://ar.clex.ch/api/de/versions/1217/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1380/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Straf- und Massnahmenvollzug und die Bewährungshilfe
 
-vom 16.12.2014 (Stand 01.02.2018)
+vom 16.12.2014 (Stand 01.01.2022)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -44,37 +43,28 @@ verordnet:
 
 #### Art. 3
 
-**Zuständigkeit a) Departement**
+**a) Zuständiges Departement**
 
-<sup>1</sup> Das zuständige Departement entscheidet über:
+<sup>1</sup> Das Departement Inneres und Sicherheit ist im Sinne von Art. 3 JVG für den Vollzug strafrechtlicher Sanktionen zuständig.
 
-- a) Gesuche um Verschiebung oder Unterbrechung des Vollzuges von freiheitsentziehenden Strafen und Massnahmen;
-- b) die bedingte Entlassung;
-- c) Vollzugsöffnungen betreffend gemeingefährliche Personen;
-- d) den Erlass oder Teilerlass von Vollzugskosten und Gebühren;
-- e) Rekurse gegen Verfügungen des Justizsekretariats.
+<sup>2</sup> Es führt zu diesem Zweck ein Amt für Justizvollzug.
+
+<sup>3</sup> Die Gerichtskasse ist dem Departement Finanzen unterstellt.
 
 #### Art. 4
 
-**b) Justizsekretariat**
+**b) Amt für Justizvollzug**
 
-<sup>1</sup> Soweit keine anderen Zuständigkeiten vorgesehen sind, ist das Justizsekretariat Vollzugsbehörde im Sinne des Gesetzes[^4-1]. Das Justizsekretariat ist zudem zuständige Behörde für die Bewährungshilfe[^4-2] sowie für den Vollzug von Tätigkeits-, Kontakt- und Rayonverboten[^4-3].
+<sup>1</sup> Das Amt für Justizvollzug nimmt unter Vorbehalt besonderer Zuständigkeiten alle Aufgaben wahr, die der Vollzugsbehörde im Sinne von Art. 439 der Strafprozessordnung[^4-1] obliegen.
 
-<sup>2</sup> Die Vollzugsbehörde ist zuständig für die Durchführung der im Kanton ausgefällten strafrechtlichen Sanktionen und für die Vollzugsplanung unter Einbezug der zuständigen Vollzugseinrichtung bzw. der Fachkommission.
+<sup>2</sup> Es ist zuständig für die im Kanton ausgefällten strafrechtlichen Sanktionen und für die Vollzugsplanung unter Einbezug der zuständigen Vollzugseinrichtung bzw. der Fachkommission.
 
-<sup>3</sup> Die Vollzugsbehörde entscheidet namentlich über:
+<sup>3</sup> Es ist zuständig für die Bewährungshilfe im Sinne von Art. 93 des Schweizerischen Strafgesetzbuches[^4-2].
 
-- a) den Vollzugszeitpunkt strafrechtlicher Sanktionen;
-- b) die Vollzugseinrichtung oder die Massnahmeinstitution;
-- c) Vollzugsöffnungen betreffend nicht gemeingefährliche Personen;
-- d) die Rahmenbedingungen zur Durchführung der gemeinnützigen Arbeit, der Halbgefangenschaft, des Arbeits- und Wohnexternats sowie der elektronischen Überwachung;
-- e) die Anordnung der Bewährungshilfe und die Erteilung von Weisungen während der Probezeit.
+<sup>4</sup> …
 
-<sup>4</sup> Die Vollzugsbehörde überwacht die ambulanten Massnahmen sowie die richterlichen Weisungen. Die Vollzugsbehörde kann die Überwachung der Weisungen an die mit der Bewährungshilfe betraute Stelle delegieren, wenn neben der Weisung auch eine Bewährungshilfe angeordnet worden ist.
-
-[^4-1]: Art. 439 der Strafprozessordnung (StPO; SR [312.0](https://db.clex.ch/link/Bund/312.0/de))
-[^4-2]: Art. 93 StGB (SR [311.0](https://db.clex.ch/link/Bund/311.0/de))
-[^4-3]: Art. 67 ff. StGB
+[^4-1]: StPO (SR [312.0](https://db.clex.ch/link/Bund/312.0/de))
+[^4-2]: StGB (SR [311.0](https://db.clex.ch/link/Bund/311.0/de))
 
 #### Art. 4a
 
@@ -90,7 +80,7 @@ verordnet:
 
 <sup>1</sup> Für den Vollzug von Strafen und Schutzmassnahmen gegenüber Jugendlichen ist die Jugendanwaltschaft zuständig[^5-1].
 
-<sup>2</sup> Im Auftrag der Jugendanwaltschaft vollzieht das Justizsekretariat persönliche Leistungen nach Art. 23 des Jugendstrafgesetzes[^5-2]. Die Jugendanwaltschaft kann dem Justizsekretariat zudem Freiheitsentzüge nach Art. 25 des Jugendstrafgesetzes[^5-3] an volljährig gewordenen Verurteilten zum Vollzug zuweisen.
+<sup>2</sup> Im Auftrag der Jugendanwaltschaft vollzieht das Amt für Justizvollzug persönliche Leistungen nach Art. 23 des Jugendstrafgesetzes[^5-2]. Die Jugendanwaltschaft kann dem Amt für Justizvollzug zudem Freiheitsentzüge nach Art. 25 des Jugendstrafgesetzes[^5-3] an volljährig gewordenen Verurteilten zum Vollzug zuweisen.
 
 <sup>3</sup> Kommt eine Kostenbeteiligung nach Art. 45 Abs. 5 und 6 der Jugendstrafprozessordnung[^5-4] in Betracht, klärt die Jugendanwaltschaft die finanziellen Verhältnisse der Unterhaltspflichtigen und der oder des Jugendlichen ab. Die Unterhaltspflichtigen und die oder der Jugendliche haben ihre finanziellen Verhältnisse offenzulegen.
 
@@ -125,7 +115,7 @@ verordnet:
 
 <sup>4</sup> Die Verfahrensleitung entscheidet über Gesuche um Entlassung sowie um Straf- oder Massnahmenunterbruch.
 
-<sup>5</sup> Über die bedingte Entlassung entscheidet das zuständige Departement nach Eintritt der Rechtskraft des Urteils.
+<sup>5</sup> Über die bedingte Entlassung entscheidet die Vollzugsbehörde nach Eintritt der Rechtskraft des Urteils.
 
 [^7-1]: StPO (SR [312.0](https://db.clex.ch/link/Bund/312.0/de))
 
