@@ -4,11 +4,11 @@ title: "Ordinanza del 19 ottobre 1977 relativa ai brevetti d'invenzione (Ordinan
 short: OBI
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027"
 language: it
-version: 2019-01-01
+version: 2022-01-01
 adopted: 1977-10-19
 in_force: 1978-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027/20190101/it/xml/fedlex-data-admin-ch-eli-cc-1977-2027_2027_2027-20190101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/2027_2027_2027/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1977-2027_2027_2027-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/2027_2027_2027/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1977/2027_2027_2027/20190101/it"
 
 (Ordinanza sui brevetti, OBI[^t-1])
 
-del 19 ottobre 1977 (Stato 1° gennaio 2019)
+del 19 ottobre 1977 (Stato 1° gennaio 2022)
 
 [^t-1]: Abbreviazione introdotta dal n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
 
@@ -45,12 +45,13 @@ ordina:
 
 <sup>1</sup> L’Istituto Federale della Proprietà Intellettuale (IPI) esegue i compiti amministrativi derivanti dalla LBI[^1-2].[^1-3]
 
-<sup>2</sup> L’esecuzione degli articoli 86*a*–86*k* LBI e degli articoli 112–112*f* della presente ordinanza spetta all’Amministrazione federale delle dogane.[^1-4]
+<sup>2</sup> L’esecuzione degli articoli 86*a*–86*k* LBI e degli articoli 112–112*f* della presente ordinanza spetta all’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^1-4].[^1-5]
 
 [^1-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
-[^1-2]: Nuova espressione giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)). Di detta. mod. è tenuto conto in tutto il testo.
+[^1-2]: Nuova espr. giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)). Di detta. mod. è tenuto conto in tutto il testo.
 [^1-3]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
-[^1-4]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^1-4]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il testo.
+[^1-5]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 2
 
@@ -754,7 +755,7 @@ Il documento di priorità comprende:
 
 Se dal documento di priorità risulta che il deposito sul quale si basa la priorità rivendicata costituisce solo parzialmente un primo deposito nel senso della Convenzione di Parigi del 20 marzo 1883[^41-1], per la protezione della proprietà industriale, l’IPI può esigere la consegna degli atti di depositi anteriori, necessari per chiarire i fatti.
 
-[^41-1]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027)**/.04**
+[^41-1]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027)**, [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029),** [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 42
 
@@ -926,7 +927,7 @@ Può essere designata quale perito ogni persona fisica:
 - a. riconosciuta tali dall’IPI;
 - b. scelta di comune accordo dal richiedente e da chi ha effettuato il deposito di materiale.
 
-[^45f-1]: Nuova espressione giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)). Di detta mod. é tenuto conto nelle disp. menzionate nella RU.
+[^45f-1]: Nuova espr. giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)). Di detta mod. é tenuto conto nelle disp. menzionate nella RU.
 
 #### Art. 45g
 
@@ -1107,7 +1108,7 @@ Oltre alle condizioni per l’attribuzione della data di deposito, l’IPI esami
 
 <sup>3</sup> In caso di inosservanza del termine per la presentazione dell’estratto, la domanda è considerata irricevibile.[^48c-1]
 
-<sup>4</sup> *…*[^48c-2]
+<sup>4</sup> …[^48c-2]
 
 [^48c-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 [^48c-2]: Abrogato dal n. I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
@@ -1139,7 +1140,7 @@ Se il depositante non ha menzionato un inventore, l’IPI invita il depositante 
 Durante l’esame degli atti tecnici l’IPI verifica se:[^50-1]
 
 - a. sono state presentate le traduzioni necessarie (art. 4);
-- b.[^50-2] ...
+- b.[^50-2] …
 - c.[^50-3] è stata rispettata la presentazione richiesta (art. 25 cpv. 1 e 3–11, e art. 28).
 
 <sup>2</sup> Se gli atti tecnici non rispettano le disposizioni, l’IPI invita il depositante a rimediare ai difetti rilevati entro il termine di cui al capoverso 3, nella misura in cui disponga delle informazioni necessarie per contattarlo.
@@ -2172,7 +2173,7 @@ Se il Paese beneficiario è membro dell’OMC, l’IPI comunica al Consiglio TRI
 
 <sup>3</sup> I tribunali comunicano all’IPI le informazioni necessarie affinché esso possa adempiere il suo obbligo d’informare e di notificare.
 
-## Titolo sesto: Intervento dell’Amministrazione delle dogane
+## Titolo sesto: Intervento dell’Ufficio federale della dogana e della sicurezza dei confini
 
 [^tit6-1]
 
@@ -2182,7 +2183,7 @@ Se il Paese beneficiario è membro dell’OMC, l’IPI comunica al Consiglio TRI
 
 **Campo d’applicazione**
 
-L’Amministrazione federale delle dogane è abilitata a intervenire in caso di introduzione sul territorio doganale o di asportazione da esso di merci che violano un brevetto valido in Svizzera.
+L’UDSC è abilitato a intervenire in caso di introduzione sul territorio doganale o di asportazione da esso di merci che violano un brevetto valido in Svizzera.
 
 #### Art. 112a
 
@@ -2212,7 +2213,7 @@ L’Amministrazione federale delle dogane è abilitata a intervenire in caso di 
 
 **Campioni**
 
-<sup>1</sup> Il richiedente può chiedere la consegna o l’invio di campioni a scopo di esame oppure può chiedere di ispezionare la merce ritenuta. Invece dei campioni l’Amministrazione delle dogane può trasmettere al depositante fotografie della merce ritenuta, se queste ne consentono l’esame.
+<sup>1</sup> Il richiedente può chiedere la consegna o l’invio di campioni a scopo di esame oppure può chiedere di ispezionare la merce ritenuta. Invece dei campioni l’UDSC può trasmettere al depositante fotografie della merce ritenuta, se queste ne consentono l’esame.
 
 <sup>2</sup> La richiesta può essere presentata insieme alla domanda d’intervento alla Direzione generale delle dogane o, durante la ritenzione della merce, direttamente all’ufficio doganale che trattiene la merce.
 
@@ -2220,9 +2221,9 @@ L’Amministrazione federale delle dogane è abilitata a intervenire in caso di 
 
 **Tutela dei segreti di fabbricazione e di affari**
 
-<sup>1</sup> L’Amministrazione delle dogane informa il depositante, il detentore o il proprietario della merce della possibilità di presentare una richiesta motivata per rifiutare il prelievo di campioni. Per l’inoltro della richiesta l’IPI stabilisce un termine adeguato.
+<sup>1</sup> L’UDSC informa il depositante, il detentore o il proprietario della merce della possibilità di presentare una richiesta motivata per rifiutare il prelievo di campioni. Per l’inoltro della richiesta l’IPI stabilisce un termine adeguato.
 
-<sup>2</sup> Qualora l’Amministrazione delle dogane consenta al richiedente di ispezionare la merce ritenuta, per stabilire il momento dell’esame tiene conto in maniera adeguata degli interessi del richiedente e del depositante, del detentore o del proprietario.[^112d-1]
+<sup>2</sup> Qualora l’UDSC consenta al richiedente di ispezionare la merce ritenuta, per stabilire il momento dell’esame tiene conto in maniera adeguata degli interessi del richiedente e del depositante, del detentore o del proprietario.[^112d-1]
 
 [^112d-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
@@ -2230,15 +2231,15 @@ L’Amministrazione federale delle dogane è abilitata a intervenire in caso di 
 
 **Conservazione dei mezzi di prova in caso di distruzione della merce**
 
-<sup>1</sup> L’Amministrazione delle dogane trattiene i campioni prelevati per un anno dalla notifica del depositante, del detentore o del proprietario in virtù dell’articolo 86*c* capoverso 1 LBI. Allo scadere di tale termine l’Amministrazione delle dogane invita il depositante, il detentore o il proprietario a prendere in custodia i campioni, oppure ad assumere i costi per la conservazione ulteriore. Qualora il depositante, il detentore o il proprietario non sia disposto a prendere in custodia i campioni oppure ad assumere i costi per la conservazione ulteriore, o se non si esprime entro 30 giorni, l’Amministrazione delle dogane distrugge i campioni.
+<sup>1</sup> L’UDSC trattiene i campioni prelevati per un anno dalla notifica del depositante, del detentore o del proprietario in virtù dell’articolo 86*c* capoverso 1 LBI. Allo scadere di tale termine l’UDSC invita il depositante, il detentore o il proprietario a prendere in custodia i campioni, oppure ad assumere i costi per la conservazione ulteriore. Qualora il depositante, il detentore o il proprietario non sia disposto a prendere in custodia i campioni oppure ad assumere i costi per la conservazione ulteriore, o se non si esprime entro 30 giorni, l’UDSC distrugge i campioni.
 
-<sup>2</sup> Invece di prelevare campioni l’Amministrazione delle dogane può fotografare la merce distrutta, sempre che in tal modo la conservazione dei mezzi di prova sia garantita.
+<sup>2</sup> Invece di prelevare campioni l’UDSC può fotografare la merce distrutta, sempre che in tal modo la conservazione dei mezzi di prova sia garantita.
 
 #### Art. 112f
 
 **Emolumenti**
 
-Gli emolumenti per l’intervento dell’Amministrazione delle dogane sono retti dall’ordinanza del 4 aprile 2007[^112f-1] sugli emolumenti dell’Amministrazione federale delle dogane.
+Gli emolumenti per l’intervento dell’UDSC sono retti dall’ordinanza del 4 aprile 2007[^112f-1] sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini.
 
 [^112f-1]: [RS 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
 
@@ -2366,7 +2367,7 @@ Per il brevetto europeo una tassa annuale deve essere pagata anticipatamente all
 
 [^121-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
 [^121-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
-[^121-3]: Nuovo testo del per. giusta il n. 2 dell’all. all’O dell’8 mar. 2002, in vigore dal 1° lug. 2002 ([RU 2002 1122](https://fedlex.data.admin.ch/eli/oc/2002/183)).
+[^121-3]: Nuovo testo del per. giusta l’all. n. 2 dell’O dell’8 mar. 2002, in vigore dal 1° lug. 2002 ([RU 2002 1122](https://fedlex.data.admin.ch/eli/oc/2002/183)).
 
 #### Art. 122
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 19. Oktober 1977 über die Erfindungspatente (Patentveror
 short: PatV
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027"
 language: de
-version: 2019-01-01
+version: 2022-01-01
 adopted: 1977-10-19
 in_force: 1978-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027/20190101/de/xml/fedlex-data-admin-ch-eli-cc-1977-2027_2027_2027-20190101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/2027_2027_2027/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1977-2027_2027_2027-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/2027_2027_2027/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1977/2027_2027_2027/20190101/de"
 
 (Patentverordnung, PatV[^t-1])
 
-vom 19. Oktober 1977 (Stand am 1. Januar 2019)
+vom 19. Oktober 1977 (Stand am 1. Januar 2022)
 
 [^t-1]: Abkürzung eingefügt durch Ziff. I der V vom 25. Okt. 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
 
@@ -45,12 +45,13 @@ verordnet:
 
 <sup>1</sup> Der Vollzug der Verwaltungsaufgaben, die sich aus dem PatG[^1-2] ergeben, ist Sache des Eidgenössischen Instituts für Geistiges Eigentum (IGE)[^1-3].
 
-<sup>2</sup> Der Vollzug der Artikel 86*a*–86*k* PatG und der Artikel 112–112*f* dieser Verordnung ist Sache der Eidgenössischen Zollverwaltung.[^1-4]
+<sup>2</sup> Der Vollzug der Artikel 86*a*–86*k* PatG und der Artikel 112–112*f* dieser Verordnung ist Sache des Bundesamts für Zoll und Grenzsicherheit (BAZG)[^1-4].[^1-5]
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 25. Okt. 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
 [^1-2]: Ausdruck gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^1-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
-[^1-4]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^1-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^1-5]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 2
 
@@ -85,7 +86,7 @@ Als Einreichungsdatum gilt bei Postsendungen der Zeitpunkt, in dem eine Sendung 
 
 <sup>4</sup> Werden andere Eingaben nicht in der Verfahrenssprache eingereicht, so kann die Übersetzung in diese Sprache verlangt werden.
 
-<sup>5</sup> Beweisurkunden, die nicht in einer Amtssprache abgefasst sind, brauchen nur berücksichtigt zu werden, wenn eine Übersetzung in einer Amtssprache vorliegt; vorbehalt en bleiben die Artikel 40 Absatz 2, 45 Absatz 3, 75 Absatz 4 und 127*p* Absatz 3.[^4-4]
+<sup>5</sup> Beweisurkunden, die nicht in einer Amtssprache abgefasst sind, brauchen nur berücksichtigt zu werden, wenn eine Übersetzung in einer Amtssprache vorliegt; vorbehalten bleiben die Artikel 40 Absatz 2, 45 Absatz 3, 75 Absatz 4 und 127*p* Absatz 3.[^4-4]
 
 <sup>6</sup> Ist die Übersetzung eines Dokuments einzureichen und bestehen Zweifel an ihrer Richtigkeit, so kann verlangt werden, dass die Richtigkeit innerhalb der dafür angesetzten Frist bescheinigt wird. Das IGE teilt die Gründe für seine Zweifel mit. Wird die Bescheinigung nicht eingereicht, so gilt das Dokument als nicht eingegangen.[^4-5]
 
@@ -745,7 +746,7 @@ Der Prioritätsbeleg besteht aus:
 
 Ergibt sich aus dem Prioritätsbeleg, dass die Anmeldung, deren Priorität beansprucht wird, nur teilweise eine Erstanmeldung im Sinne der Pariser Verbandsübereinkunft vom 20. März 1883[^41-1] zum Schutz des gewerblichen Eigentums ist, so kann das IGE verlangen, dass die zur Abklärung des Sachverhalts notwendigen Unterlagen vorangehender Anmeldungen eingereicht werden.
 
-[^41-1]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027)**/.04**
+[^41-1]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027)**/0.232.02/0.232.03/0.232.04**
 
 #### Art. 42
 
@@ -1121,7 +1122,7 @@ Hat der Anmelder keinen Erfinder genannt, so fordert das IGE den Anmelder auf, d
 Das IGE prüft bei den technischen Unterlagen, ob:
 
 - a. die erforderlichen Übersetzungen (Art. 4) eingereicht worden sind;
-- b.[^50-1] ...
+- b.[^50-1] …
 - c.[^50-2] die geforderte äussere Form (Art. 25 Abs. 1 und 3–11, Art. 28) eingehalten ist.
 
 <sup>2</sup> Entsprechen die technischen Unterlagen nicht den Vorschriften, so fordert das IGE den Anmelder auf, die festgestellten Mängel innerhalb der Frist nach Absatz 3 zu beheben, sofern Angaben vorhanden sind, die es erlauben, mit ihm in Kontakt zu treten.
@@ -2162,7 +2163,7 @@ Ist das begünstigte Land Mitglied der WTO, so teilt das IGE dem TRIPS-Rat die E
 
 <sup>3</sup> Die Gerichte stellen dem IGE die zur Erfüllung dieser Informations- und Notifikationspflicht notwendigen Angaben zu.
 
-## Sechster Titel: Hilfeleistung der Zollverwaltung
+## Sechster Titel: Hilfeleistung des Bundesamts für Zoll und Grenzsicherheit
 
 [^tit6-1]
 
@@ -2172,7 +2173,7 @@ Ist das begünstigte Land Mitglied der WTO, so teilt das IGE dem TRIPS-Rat die E
 
 **Bereich**
 
-Die Hilfeleistung der Eidgenössischen Zollverwaltung erstreckt sich auf das Verbringen von Waren, die ein in der Schweiz gültiges Patent verletzen, ins oder aus dem Zollgebiet.
+Die Hilfeleistung des BAZG erstreckt sich auf das Verbringen von Waren, die ein in der Schweiz gültiges Patent verletzen, ins oder aus dem Zollgebiet.
 
 #### Art. 112a
 
@@ -2200,31 +2201,31 @@ Die Hilfeleistung der Eidgenössischen Zollverwaltung erstreckt sich auf das Ver
 
 **Proben oder Muster**
 
-<sup>1</sup> Der Antragsteller kann die Übergabe oder Zusendung von Proben oder Mustern zur Prüfung oder die Besichtigung der Ware beantragen. Anstelle von Proben oder Mustern kann die Zollverwaltung dem Antragsteller auch Fotografien der zurückbehaltenen Ware übergeben, wenn diese eine Prüfung durch den Antragsteller ermöglichen.
+<sup>1</sup> Der Antragsteller kann die Übergabe oder Zusendung von Proben oder Mustern zur Prüfung oder die Besichtigung der Ware beantragen. Anstelle von Proben oder Mustern kann das BAZG dem Antragsteller auch Fotografien der zurückbehaltenen Ware übergeben, wenn diese eine Prüfung durch den Antragsteller ermöglichen.
 
-<sup>2</sup> Der Antrag kann zusammen mit dem Antrag auf Hilfeleistung bei der Oberzolldirektion oder während des Zurückbehaltens der Ware direkt bei der Zollstelle gestellt werden, welche die Ware zurückbehält.
+<sup>2</sup> Der Antrag kann zusammen mit dem Antrag auf Hilfeleistung bei der Oberzoll­direktion oder während des Zurückbehaltens der Ware direkt bei der Zollstelle gestellt werden, welche die Ware zurückbehält.
 
 #### Art. 112d
 
 **Wahrung von Fabrikations- und Geschäftsgeheimnissen**
 
-<sup>1</sup> Die Zollverwaltung weist den Anmelder, Besitzer oder Eigentümer der Ware auf die Möglichkeit hin, einen begründeten Antrag auf Verweigerung der Entnahme von Proben oder Mustern zu stellen. Sie setzt ihm für die Stellung des Antrags eine angemessene Frist.
+<sup>1</sup> Das BAZG weist den Anmelder, Besitzer oder Eigentümer der Ware auf die Möglichkeit hin, einen begründeten Antrag auf Verweigerung der Entnahme von Proben oder Mustern zu stellen. Es setzt ihm für die Stellung des Antrags eine angemessene Frist.
 
-<sup>2</sup> Gestattet die Zollverwaltung dem Antragsteller die Besichtigung der zurückbehaltenen Ware, so nimmt sie bei der Festlegung des Zeitpunkts auf die Interessen des Antragstellers und des Anmelders, Besitzers oder Eigentümers angemessen Rücksicht.
+<sup>2</sup> Gestattet das BAZG dem Antragsteller die Besichtigung der zurückbehaltenen Ware, so nimmt es bei der Festlegung des Zeitpunkts auf die Interessen des Antragstellers und des Anmelders, Besitzers oder Eigentümers angemessen Rücksicht.
 
 #### Art. 112e
 
 **Aufbewahrung von Beweismitteln bei Vernichtung der Ware**
 
-<sup>1</sup> Die Zollverwaltung bewahrt die entnommenen Proben oder Muster während eines Jahres ab der Benachrichtigung des Anmelders, Besitzers oder Eigentümers nach Artikel 86*c* Absatz 1 PatG auf. Nach Ablauf dieser Frist fordert sie den Anmelder, Besitzer oder Eigentümer auf, die Proben oder Muster in seinen Besitz zu nehmen oder die Kosten der weiteren Aufbewahrung zu tragen. Ist der Anmelder, Besitzer oder Eigentümer dazu nicht bereit oder lässt er sich innerhalb von 30 Tagen nicht vernehmen, so vernichtet die Zollverwaltung die Proben oder Muster.
+<sup>1</sup> Das BAZG bewahrt die entnommenen Proben oder Muster während eines Jahres ab der Benachrichtigung des Anmelders, Besitzers oder Eigentümers nach Artikel 86*c* Absatz 1 PatG auf. Nach Ablauf dieser Frist fordert es den Anmelder, Besitzer oder Eigentümer auf, die Proben oder Muster in seinen Besitz zu nehmen oder die Kosten der weiteren Aufbewahrung zu tragen. Ist der Anmelder, Besitzer oder Eigentümer dazu nicht bereit oder lässt er sich innerhalb von 30 Tagen nicht vernehmen, so vernichtet das BAZG die Proben oder Muster.
 
-<sup>2</sup> Die Zollverwaltung kann anstelle der Entnahme von Proben oder Mustern Fotografien der vernichteten Ware erstellen, soweit damit der Zweck der Sicherung von Beweismitteln gewährleistet ist.
+<sup>2</sup> Das BAZG kann anstelle der Entnahme von Proben oder Mustern Fotografien der vernichteten Ware erstellen, soweit damit der Zweck der Sicherung von Beweismitteln gewährleistet ist.
 
 #### Art. 112f
 
 **Gebühren**
 
-Die Gebühren für die Hilfeleistung der Zollverwaltung richten sich nach der Verordnung vom 4. April 2007[^112f-1] über die Gebühren der Zollverwaltung.
+Die Gebühren für die Hilfeleistung des BAZG richten sich nach der Verordnung vom 4. April 2007[^112f-1] über die Gebühren des Bundesamts für Zoll und Grenzsicherheit.
 
 [^112f-1]: [SR 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
 
@@ -2737,12 +2738,12 @@ Eingetragen werden die folgenden Angaben:
 - n. Änderungen des Wohnsitzes oder Sitzes des Zertifikatsinhabers;
 - o.[^127k-4] Änderungen betreffend die Person des Vertreters, einschliesslich seines Wohnsitzes oder Sitzes;
 - p.[^127k-5] das Datum des Gesuchs um Zulassung des Arzneimittels für die Schweiz mit dem Erzeugnis und dem zugehörigen pädiatrischen Prüfkonzept (Art 140*n* Abs. 1 Bst. a PatG);
-- q.[^127k-6] das Datum des allfälligen Gesuchs nach Artikel 140*n* Absatz 1 Buchstabe b PatG und die zuständige Behörde;[^127k-7]
-- r.[^127k-8] das Datum des Widerrufs.
+- q.[^127k-6] das Datum des allfälligen Gesuchs nach Artikel 140*n* Absatz 1 Buchstabe b PatG und die zuständige Behörde;
+- r.[^127k-7] das Datum des Widerrufs.
 
-<sup>3</sup> Das IGE kann weitere Angaben, die es als nützlich erachtet, eintragen oder vormerken.[^127k-9]
+<sup>3</sup> Das IGE kann weitere Angaben, die es als nützlich erachtet, eintragen oder vormerken.[^127k-8]
 
-<sup>4</sup> Eintragungen, welche die Einräumung von Rechten am Grundpatent betreffen, sowie Verfügungsbeschränkungen, die von Gerichten oder Zwangsvollstreckungsbehörden für das Grundpatent angeordnet werden, gelten vermutungsweise für das Zertifikat in gleichem Masse wie für das Grundpatent.[^127k-10]
+<sup>4</sup> Eintragungen, welche die Einräumung von Rechten am Grundpatent betreffen, sowie Verfügungsbeschränkungen, die von Gerichten oder Zwangsvollstreckungsbehörden für das Grundpatent angeordnet werden, gelten vermutungsweise für das Zertifikat in gleichem Masse wie für das Grundpatent.[^127k-9]
 
 [^127k-1]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 [^127k-2]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
@@ -2750,10 +2751,9 @@ Eingetragen werden die folgenden Angaben:
 [^127k-4]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 [^127k-5]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 [^127k-6]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^127k-7]: 
-[^127k-8]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127k-7]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127k-8]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 [^127k-9]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^127k-10]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 ### Siebentes Kapitel: Gebühren
 
@@ -3106,8 +3106,8 @@ Die Artikel 127*a* Absatz 2, 127*c* Absatz 1, 127*d* Absätze 1 und 3, 127*e*, 1
 
 DieVerordnung (1) vom 14. Dezember 1959[^128-1] und die Verordnung (2) vom 8. September 1959[^128-2] zum Bundesgesetz über die Erfindungspatente werden aufgehoben.
 
-[^128-1]: [[AS 1959 1979](https://fedlex.data.admin.ch/eli/oc/1959/1979_2041_2065)[2097](https://fedlex.data.admin.ch/eli/oc/1959/2097_2161_2190), [1972 2449](https://fedlex.data.admin.ch/eli/oc/1972/2449_2503_2279)]
-[^128-2]: [[AS 1959 728](https://fedlex.data.admin.ch/eli/oc/1959/728_758_739)[2097](https://fedlex.data.admin.ch/eli/oc/1959/2097_2161_2190), [1972 2452](https://fedlex.data.admin.ch/eli/oc/1972/2452_2505_2282)]
+[^128-1]: [[AS 1959 1979](https://fedlex.data.admin.ch/eli/oc/1959/1979_2041_2065), [2097](https://fedlex.data.admin.ch/eli/oc/1959/2097_2161_2190); [1972 2449](https://fedlex.data.admin.ch/eli/oc/1972/2449_2503_2279)]
+[^128-2]: [[AS 1959 728](https://fedlex.data.admin.ch/eli/oc/1959/728_758_739), [2097](https://fedlex.data.admin.ch/eli/oc/1959/2097_2161_2190); [1972 2452](https://fedlex.data.admin.ch/eli/oc/1972/2452_2505_2282)]
 
 ### Zweites Kapitel: Übergangsbestimmungen
 

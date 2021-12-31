@@ -4,11 +4,11 @@ title: "Ordonnance du 19 octobre 1977 relative aux brevets d'invention (Ordonnan
 short: OBI
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027"
 language: fr
-version: 2019-01-01
+version: 2022-01-01
 adopted: 1977-10-19
 in_force: 1978-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-1977-2027_2027_2027-20190101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/2027_2027_2027/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1977-2027_2027_2027-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/2027_2027_2027/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1977/2027_2027_2027/20190101/fr"
 
 (Ordonnance sur les brevets, OBI[^t-1])
 
-du 19 octobre 1977 (État le 1<sup>er</sup> janvier 2019)
+du 19 octobre 1977 (État le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Abréviation introduite par le ch. I de l’O du 25 oct. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
 
@@ -45,12 +45,13 @@ arrête:
 
 <sup>1</sup> L’Institut Fédéral de la Propriété Intellectuelle (IPI)[^1-2] exécute les tâches administratives découlant de la LBI[^1-3].
 
-<sup>2</sup> L’Administration fédérale des douanes est chargée de l’exécution des art. 86*a* à 86*k* de la LBI et des art. 112 à 112*f* de la présente ordonnance.[^1-4]
+<sup>2</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^1-4] est chargé de l’exécution des art. 86*a* à 86*k* de la LBI et des art. 112 à 112*f* de la présente ordonnance.[^1-5]
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
 [^1-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 16, al. 3, de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 [^1-3]: Nouvelle expression selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)). Il a été tenu compte de cette mod. dans tout le texte.
-[^1-4]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^1-4]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-5]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 2
 
@@ -268,7 +269,7 @@ Pour obtenir ou maintenir un brevet, les taxes suivantes doivent être payées:
 
 #### Art. 18
 
-**Annuités a. Echéance en général**[^18-1]
+**Annuités a. Échéance en général**[^18-1]
 
 <sup>1</sup> Pour toute demande de brevet et pour tout brevet, les annuités sont payables d’avance chaque année dès le début de la quatrième année qui suit le dépôt de la demande.[^18-2]
 
@@ -283,7 +284,7 @@ Pour obtenir ou maintenir un brevet, les taxes suivantes doivent être payées:
 
 #### Art. 18a
 
-**b. Echéance pour les demandes scindées et la constitution de nouveaux brevets**[^18a-1]
+**b. Échéance pour les demandes scindées et la constitution de nouveaux brevets**[^18a-1]
 
 <sup>1</sup> Pour une demande issue de la scission d’une demande de brevet antérieure, le montant et l’échéance des annuités sont établis d’après la date de dépôt visée à l’art. 57 de la LBI.
 
@@ -318,7 +319,7 @@ Pour obtenir ou maintenir un brevet, les taxes suivantes doivent être payées:
 
 **Rappel de paiement**[^18d-1]
 
-L’IPI attire l’attention du demandeur ou du titulaire du brevet sur l’échéance d’une annuité et lui indique le terme du délai de paiement ainsi que les conséquences de l’inobservation de ce délai. A la demande du demandeur ou du titulaire du brevet, il peut, en lieu et place, adresser des avis à tout tiers qui effectue régulièrement des paiements pour le compte du demandeur ou du titulaire du brevet. Aucun avis n’est expédié à l’étranger.
+L’IPI attire l’attention du demandeur ou du titulaire du brevet sur l’échéance d’une annuité et lui indique le terme du délai de paiement ainsi que les conséquences de l’inobservation de ce délai. À la demande du demandeur ou du titulaire du brevet, il peut, en lieu et place, adresser des avis à tout tiers qui effectue régulièrement des paiements pour le compte du demandeur ou du titulaire du brevet. Aucun avis n’est expédié à l’étranger.
 
 [^18d-1]: Introduit par le ch. I de l’O du 25 oct. 1995 ([RO 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)). Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
@@ -653,7 +654,7 @@ Les dix premières revendications formulées dans une demande de brevet sont exe
 
 **Rectification**
 
-<sup>1</sup> Le demandeur ou le titulaire du brevet peut demander la rectification de la mention de l’inventeur. A cette demande sera jointe la déclaration de consentement de la personne mentionnée à tort comme inventeur.[^37-1]
+<sup>1</sup> Le demandeur ou le titulaire du brevet peut demander la rectification de la mention de l’inventeur. À cette demande sera jointe la déclaration de consentement de la personne mentionnée à tort comme inventeur.[^37-1]
 
 <sup>2</sup> Si la personne mentionnée à tort comme inventeur figure déjà dans les publications de l’IPI ou est déjà inscrite au registre des brevets, la rectification est également inscrite au registre et publiée.[^37-2]
 
@@ -857,7 +858,7 @@ Par source au sens de l’al. 1 on entend notamment:
 Lorsqu’une invention porte sur de la matière biologique ou qu’elle comporte la fabrication ou l’utilisation de matière biologique non accessible au public et lorsqu’elle ne peut pas être décrite pour permettre à un homme du métier de l’exécuter, elle n’est réputée exposée conformément aux dispositions des art. 50 et 50*a* de la LBI que:
 
 - a. si un échantillon de la matière biologique a été déposé auprès d’une institution de dépôt reconnue à la date de dépôt ou, si une priorité est revendiquée, à la date de priorité;
-- b. si la description contient, à la date de dépôt, les informations dont dispose le demandeur sur les caractéristiques essentielles de la matière biologique; et
+- b. si la description contient, à la date de dépôt, les informations dont dispose le demandeur sur les caractéristiques essentielles de la matière biologique, et
 - c. si la demande de brevet comporte, à la date de dépôt, l’indication de l’institution de dépôt et le numéro de référence de la matière biologique déposée.
 
 #### Art. 45c
@@ -884,7 +885,7 @@ Lorsqu’une invention porte sur de la matière biologique ou qu’elle comporte
 
 **Mise à disposition de la matière biologique déposée**
 
-<sup>1</sup> A compter de la date de dépôt et pendant toute la durée de la conservation visée à l’art. 45*h*, le demandeur met, de manière inconditionnelle et irrévocable, la matière biologique déposée à la disposition de l’institution de dépôt à des fins de remise d’échantillons (art. 45*f*).
+<sup>1</sup> À compter de la date de dépôt et pendant toute la durée de la conservation visée à l’art. 45*h*, le demandeur met, de manière inconditionnelle et irrévocable, la matière biologique déposée à la disposition de l’institution de dépôt à des fins de remise d’échantillons (art. 45*f*).
 
 <sup>2</sup> Le demandeur s’engage à procéder à un nouveau dépôt ou à mandater un tiers à cet effet si cela s’avère nécessaire en vertu de l’art. 45*i*.
 
@@ -1026,7 +1027,7 @@ Le renvoi à une demande antérieure mentionnée à l’al. 1, let. c, doit:
 Le demandeur peut, en dérogation à l’al. 2, requérir que la date de dépôt attribuée à la demande de brevet soit la date visée à l’art. 46, al. 1:
 
 - a. si la partie manquante de la description ou les dessins manquants ont figuré en totalité dans la demande antérieure dont la priorité est revendiquée;
-- b. si les pièces déposées contiennent un renvoi à la demande antérieure; et
+- b. si les pièces déposées contiennent un renvoi à la demande antérieure, et
 - c. si le renvoi est rédigé dans une langue officielle ou en anglais et indique que le contenu de la demande antérieure fait partie intégrante de la demande.
 
 <sup>4</sup> Le demandeur doit présenter la requête visée à l’al. 3 dans le délai prévu à l’al. 1 et y préciser à quel endroit dans la demande antérieure se trouvent les parties manquantes de la description ou les dessins manquants. Il doit également produire, dans le délai prévu à l’al. 1, une copie de la demande antérieure et une traduction dans une langue officielle si elle n’est pas rédigée dans une langue officielle. Il n’est pas nécessaire de produire une copie de la demande antérieure et, le cas échéant, une traduction dans une langue officielle si l’IPI peut les consulter dans une base de données électronique qu’il accepte à cet effet ou si la demande antérieure a été déposée auprès de l’IPI dans une langue officielle.
@@ -1123,7 +1124,7 @@ Lorsque le demandeur n’a pas mentionné d’inventeur, l’IPI l’invite à p
 Dans l’examen des pièces techniques, l’IPI vérifie:[^50-1]
 
 - a. si les traductions nécessaires ont été produites (art. 4);
-- b. ...[^50-2]
+- b. …[^50-2]
 - c.[^50-3] si la présentation requise a été respectée (art. 25, al. 1 et 3 à 11, et art. 28).
 
 <sup>2</sup> Lorsque les pièces techniques ne satisfont pas aux prescriptions, l’IPI invite le demandeur à remédier aux défauts constatés dans le délai prévu à l’al. 3, à condition de disposer des informations pour le joindre.
@@ -1142,7 +1143,7 @@ Dans l’examen des pièces techniques, l’IPI vérifie:[^50-1]
 
 <sup>1</sup> Une fois la date de dépôt attribuée, les seules modifications pouvant encore être apportées aux pièces techniques jusqu’au début de l’examen quant au fond sont celles requises par l’IPI ou celles auxquelles le demandeur est autorisé en vertu de la présente ordonnance.
 
-<sup>2</sup> Le demandeur peut modifier une fois les revendications de sa propre initiative dans les seize mois à compter de la date de dépôt ou de priorité. A cet effet, il doit déposer, dans ledit délai, une version corrigée des revendications modifiées.
+<sup>2</sup> Le demandeur peut modifier une fois les revendications de sa propre initiative dans les seize mois à compter de la date de dépôt ou de priorité. À cet effet, il doit déposer, dans ledit délai, une version corrigée des revendications modifiées.
 
 <sup>3</sup> L’IPI renvoie au demandeur les modifications des pièces techniques présentées par dérogation aux al. 1 et 2.
 
@@ -1162,7 +1163,7 @@ Dans l’examen des pièces techniques, l’IPI vérifie:[^50-1]
 
 [^tit3-chap2-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
-### Section 1 A la requête du demandeur
+### Section 1 À la requête du demandeur
 
 #### Art. 53
 
@@ -1254,7 +1255,7 @@ Lorsqu’il estime qu’il n’est pas en mesure d’effectuer une recherche sig
 
 [^58-1]: Introduit par le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
-### Section 2 A la requête d’un tiers
+### Section 2 À la requête d’un tiers
 
 #### Art. 59
 
@@ -1392,7 +1393,7 @@ L’IPI ne publie pas le fascicule de la demande:[^60c-1]
 
 Tant que l’examen quant au fond n’est pas terminé, le demandeur peut requérir qu’il soit suspendu s’il établit:
 
-- a. qu’il a déposé pour la même invention, en plus de sa demande de brevet suisse, une demande de brevet européen désignant la Suisse; et
+- a. qu’il a déposé pour la même invention, en plus de sa demande de brevet suisse, une demande de brevet européen désignant la Suisse, et
 - b. que les demandes ont la même date de dépôt ou de priorité.
 
 <sup>2</sup>
@@ -1400,14 +1401,14 @@ Tant que l’examen quant au fond n’est pas terminé, le demandeur peut requé
 L’examen quant au fond est suspendu au plus tard jusqu’au moment où:
 
 - a. la demande de brevet européen est soit rejetée ou retirée définitivement, soit réputée retirée pour la Suisse;
-- b. le délai d’opposition contre le brevet européen a expiré sans avoir été utilisé; ou
+- b. le délai d’opposition contre le brevet européen a expiré sans avoir été utilisé, ou
 - c. une décision concernant l’opposition contre le brevet européen est devenue exécutoire.
 
 <sup>3</sup>
 
 Le demandeur peut requérir la suspension aussi longtemps que l’examen quant au fond n’est pas terminé s’il établit:
 
-- a. qu’il a présenté pour la même invention, en plus de la demande de brevet suisse, une demande internationale; et
+- a. qu’il a présenté pour la même invention, en plus de la demande de brevet suisse, une demande internationale, et
 - b. que les demandes ont la même date de dépôt ou de priorité.
 
 <sup>4</sup>
@@ -1416,7 +1417,7 @@ L’examen quant au fond est suspendu au plus tard jusqu’au moment où:
 
 - a. la demande internationale est retirée ou rejetée définitivement pour la Suisse;
 - b. le délai d’opposition contre le brevet issu de la demande internationale a expiré sans avoir été utilisé;
-- c. une décision concernant l’opposition contre le brevet issu de la demande internationale est devenue exécutoire; ou
+- c. une décision concernant l’opposition contre le brevet issu de la demande internationale est devenue exécutoire, ou
 - d. dans le cas d’une demande de brevet européen issue d’une demande internationale, le délai prévu à la règle 159 du règlement d’exécution du 7 décembre 2006 de la Convention sur le brevet européen[^62-2] a expiré.
 
 <sup>5</sup> Les requêtes visées aux al. 1 à 4 n’ont pas d’effet suspensif sur les délais déjà fixés.
@@ -1468,7 +1469,7 @@ L’examen quant au fond est suspendu au plus tard jusqu’au moment où:
 
 S’il ressort de l’examen quant au fond que l’objet de la demande de brevet modifiée a été étendu au-delà du contenu des pièces techniques déposées initialement (art. 46*d*), l’IPI impartit un délai au demandeur pour répondre. Ce dernier peut:
 
-- a. renoncer à la modification dans la mesure où l’exposé de l’invention n’est pas mis en cause; ou
+- a. renoncer à la modification dans la mesure où l’exposé de l’invention n’est pas mis en cause, ou
 - b. apporter la preuve que l’invention était déjà exposée dans les pièces techniques déposées initialement.
 
 <sup>6</sup> Si le demandeur ne renonce pas à la modification ou s’il ne parvient pas à infirmer les objections de l’IPI, celui-ci rejette la demande de brevet.
@@ -1619,7 +1620,7 @@ L’opposition doit être formée par écrit dans les neuf mois qui suivent la p
 
 <sup>2</sup> Le titulaire du brevet qui doit indiquer un domicile de notification en Suisse est tenu de communiquer celui-ci dans le délai imparti par l’IPI.[^77-3] S’il ne satisfait pas à cette obligation, il est exclu de la procédure.
 
-<sup>3</sup> *…*[^77-4]
+<sup>3</sup> …[^77-4]
 
 [^77-1]: Nouvelle teneur selon le ch. I de l’O du 11 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
 [^77-2]: Nouvelle teneur selon le ch. I de l’O du 11 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
@@ -1659,7 +1660,7 @@ Le brevet ne peut pas être modifié au point:
 
 #### Art. 82
 
-**Echange de mémoires**
+**Échange de mémoires**
 
 <sup>1</sup> L’IPI communique la réponse du titulaire du brevet et, le cas échéant, les modifications des pièces techniques à l’opposant. Lorsque plusieurs oppositions ont été formées, il porte aussi à sa connaissance les autres oppositions.
 
@@ -1681,7 +1682,7 @@ Le brevet ne peut pas être modifié au point:
 
 <sup>1</sup> L’IPI peut, sur requête motivée de l’une des parties ou d’office, inviter les parties à participer à une procédure orale s’il apparaît qu’elle est propre à élucider les faits.
 
-<sup>2</sup> La procédure n’est pas publique. A titre exceptionnel, l’IPI peut, sur requête motivée de l’une des parties ou d’office, prévoir une procédure publique si des intérêts publics majeurs le justifient. Un procès-verbal sommaire de la procédure est dressé.
+<sup>2</sup> La procédure n’est pas publique. À titre exceptionnel, l’IPI peut, sur requête motivée de l’une des parties ou d’office, prévoir une procédure publique si des intérêts publics majeurs le justifient. Un procès-verbal sommaire de la procédure est dressé.
 
 <sup>3</sup> Les délibérations se déroulent à huis clos.
 
@@ -2037,7 +2038,7 @@ Sur requête du demandeur ou du titulaire du brevet, l’IPI radie le droit en f
 
 **Rectifications**[^107a-1]
 
-<sup>1</sup> A la demande du titulaire du brevet, les inscriptions erronées sont rectifiées sans délai.
+<sup>1</sup> À la demande du titulaire du brevet, les inscriptions erronées sont rectifiées sans délai.
 
 <sup>2</sup> S’il commet une erreur par inadvertance, l’IPI rectifie l’inscription d’office.
 
@@ -2103,7 +2104,7 @@ Les espèces végétales auxquelles s’applique le privilège de l’agriculteu
 Lorsque le pays bénéficiaire est membre de l’Organisation mondiale du commerce (OMC), la partie demanderesse doit joindre à l’action en délivrance d’une licence obligatoire pour l’exportation de produits pharmaceutiques la notification au Conseil sur les aspects des droits de propriété intellectuelle qui touchent au commerce (Conseil des ADPIC) dans laquelle le pays bénéficiaire:
 
 - a. définit la quantité du produit pharmaceutique nécessaire pour couvrir ses besoins;
-- b. déclare n’avoir aucune capacité de fabrication ou avoir une capacité insuffisante, à moins qu’il ne s’agisse d’un des pays les moins avancés selon la liste de l’Organisation des Nations Unies (ONU); et
+- b. déclare n’avoir aucune capacité de fabrication ou avoir une capacité insuffisante, à moins qu’il ne s’agisse d’un des pays les moins avancés selon la liste de l’Organisation des Nations Unies (ONU), et
 - c. déclare avoir délivré une licence obligatoire pour l’importation du produit pharmaceutique visé, dans la mesure où ce dernier est breveté sur son territoire.
 
 <sup>2</sup> Si le pays bénéficiaire n’est pas membre de l’OMC, la partie demanderesse doit présenter une déclaration à l’IPI qui a valeur d’une notification au sens de l’al. 1.
@@ -2159,7 +2160,7 @@ Si le pays bénéficiaire est membre de l’OMC, l’IPI communique au Conseil d
 
 <sup>3</sup> Les tribunaux communiquent à l’IPI les renseignements nécessaires pour qu’il puisse s’acquitter de son obligation d’informer et de notifier.
 
-## Titre 6 Intervention de l’Administration des douanes
+## Titre 6 Intervention de l’Office fédéral de la douane et de la sécurité des frontières
 
 [^tit6-1]
 
@@ -2169,7 +2170,7 @@ Si le pays bénéficiaire est membre de l’OMC, l’IPI communique au Conseil d
 
 **Domaine d’application**
 
-L’Administration des douanes est habilitée à intervenir en cas d’introduction sur le territoire douanier et de sortie dudit territoire de marchandises portant atteinte à un brevet valable en Suisse.
+L’OFDF est habilité à intervenir en cas d’introduction sur le territoire douanier et de sortie dudit territoire de marchandises portant atteinte à un brevet valable en Suisse.
 
 #### Art. 112a
 
@@ -2195,9 +2196,9 @@ L’Administration des douanes est habilitée à intervenir en cas d’introduct
 
 #### Art. 112c
 
-**Echantillons**
+**Échantillons**
 
-<sup>1</sup> Le requérant peut présenter une demande pour solliciter la remise ou l’envoi d’échantillons à des fins d’examen ou l’inspection des marchandises retenues. Au lieu d’échantillons, l’Administration des douanes peut aussi lui remettre des photographies desdites marchandises si elles lui permettent d’effectuer cet examen.
+<sup>1</sup> Le requérant peut présenter une demande pour solliciter la remise ou l’envoi d’échantillons à des fins d’examen ou l’inspection des marchandises retenues. Au lieu d’échantillons, l’OFDF peut aussi lui remettre des photographies desdites marchandises si elles lui permettent d’effectuer cet examen.
 
 <sup>2</sup> Le requérant peut présenter cette demande à la Direction générale des douanes en même temps que la demande d’intervention ou, pendant la rétention des marchandises, directement au bureau de douane qui retient les marchandises.
 
@@ -2205,23 +2206,23 @@ L’Administration des douanes est habilitée à intervenir en cas d’introduct
 
 **Protection des secrets de fabrication et d’affaires**
 
-<sup>1</sup> L’Administration des douanes informe le déclarant, le possesseur ou le propriétaire des marchandises de la possibilité de refuser le prélèvement d’échantillons sur présentation d’une demande motivée. Elle lui impartit un délai raisonnable pour présenter cette demande.
+<sup>1</sup> L’OFDF informe le déclarant, le possesseur ou le propriétaire des marchandises de la possibilité de refuser le prélèvement d’échantillons sur présentation d’une demande motivée. Il lui impartit un délai raisonnable pour présenter cette demande.
 
-<sup>2</sup> Si l’Administration des douanes autorise le requérant à inspecter les marchandises retenues, elle tient compte, pour fixer le moment de l’inspection, de manière appropriée des intérêts du requérant, d’une part, et de ceux du déclarant, du possesseur ou du propriétaire, d’autre part.
+<sup>2</sup> Si l’OFDF autorise le requérant à inspecter les marchandises retenues, il tient compte, pour fixer le moment de l’inspection, de manière appropriée des intérêts du requérant, d’une part, et de ceux du déclarant, du possesseur ou du propriétaire, d’autre part.
 
 #### Art. 112e
 
 **Conservation des moyens de preuve en cas de destruction des marchandises**
 
-<sup>1</sup> L’Administration des douanes conserve les échantillons prélevés durant un an à compter de la communication adressée au déclarant, au possesseur ou au propriétaire conformément à l’art. 86*c*, al. 1, de la LBI. Après expiration de ce délai, elle invite le déclarant, le possesseur ou le propriétaire à reprendre possession des échantillons ou à supporter les frais pour la poursuite de leur conservation. Si le déclarant, le possesseur ou le propriétaire ne donne pas suite à cette invitation ou s’il ne fait pas connaître sa décision dans les 30 jours, l’Administration des douanes détruit les échantillons.
+<sup>1</sup> L’OFDF conserve les échantillons prélevés durant un an à compter de la communication adressée au déclarant, au possesseur ou au propriétaire conformément à l’art. 86*c*, al. 1, de la LBI. Après expiration de ce délai, il invite le déclarant, le possesseur ou le propriétaire à reprendre possession des échantillons ou à supporter les frais pour la poursuite de leur conservation. Si le déclarant, le possesseur ou le propriétaire ne donne pas suite à cette invitation ou s’il ne fait pas connaître sa décision dans les 30 jours, l’OFDF détruit les échantillons.
 
-<sup>2</sup> Au lieu de prélever des échantillons, l’Administration des douanes peut faire des photographies des marchandises détruites pour autant que cette mesure permette de garantir la conservation des moyens de preuve.
+<sup>2</sup> Au lieu de prélever des échantillons, l’OFDF peut faire des photographies des marchandises détruites pour autant que cette mesure permette de garantir la conservation des moyens de preuve.
 
 #### Art. 112f
 
-**Emoluments**
+**Émoluments**
 
-Les émoluments perçus pour l’intervention de l’Administration des douanes sont fixés dans l’ordonnance du 4 avril 2007 sur les émoluments de l’Administration fédérale des douanes[^112f-1].
+Les émoluments perçus pour l’intervention de l’OFDF sont fixés dans l’ordonnance du 4 avril 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières[^112f-1].
 
 [^112f-1]: [RS 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
 
@@ -2348,7 +2349,7 @@ Le brevet européen donne lieu chaque année au paiement par avance d’annuité
 <sup>2</sup> L’al. 1 s’applique par analogie à la taxe de recherche, dont le montant est fixé d’après l’accord conclu avec l’administration chargée de la recherche internationale, compétente pour la Suisse. L’IPI publie dans l’organe de publication le montant de la taxe de recherche fixé par l’autorité internationale.[^121-2]
 
 [^121-1]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1991 2565](https://fedlex.data.admin.ch/eli/oc/1991/2565_2565_2565)).
-[^121-2]: Nouvelle teneur de la phrase selon le ch. 2 de l’annexe à l’O du 8 mars 2002 sur les designs, en vigueur depuis le 1<sup>er</sup> juil. 2002 ([RO 2002 1122](https://fedlex.data.admin.ch/eli/oc/2002/183)).
+[^121-2]: Nouvelle teneur de la phrase selon l’annexe ch. 2 de l’O du 8 mars 2002 sur les designs, en vigueur depuis le 1<sup>er</sup> juil. 2002 ([RO 2002 1122](https://fedlex.data.admin.ch/eli/oc/2002/183)).
 
 #### Art. 122
 
@@ -2388,7 +2389,7 @@ Le brevet européen donne lieu chaque année au paiement par avance d’annuité
 
 Lorsque la demande internationale n’a pas été publiée dans une langue officielle suisse, le lésé peut se prévaloir uniquement du dommage qu’il a subi depuis le jour où le demandeur:
 
-- a. a remis au défendeur une traduction des revendications dans une langue officielle suisse; ou
+- a. a remis au défendeur une traduction des revendications dans une langue officielle suisse, ou
 - b. l’a rendu accessible au public par le biais de l’IPI.
 
 <sup>2</sup> Toute personne qui remet à l’IPI une traduction des revendications d’une demande internationale publiée doit indiquer le numéro de cette demande.
