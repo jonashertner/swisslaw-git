@@ -4,11 +4,11 @@ title: Ordonnance du 19 mai 2010 sur la sécurité des produits (OSPro)
 short: OSPro
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/348"
 language: fr
-version: 2018-04-21
+version: 2022-01-01
 adopted: 2010-05-19
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/348/20180421/fr/xml/fedlex-data-admin-ch-eli-cc-2010-348-20180421-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/348/20180421/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/348/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-348-20220101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/348/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/348/20180421/fr"
 
 (OSPro)
 
-du 19 mai 2010 (Etat le 21 avril 2018)
+du 19 mai 2010 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu l’art. 4, al. 1, les art. 7, 9 et 14, al. 1, de la loi du 12 juin 2009 sur 
 
 arrête:
 
-[^ingress-1]: <sup>RS</sup> <sup>**9**</sup>**30.11**
-[^ingress-2]: [<sup>RS</sup> <sup>946.51</sup>](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^ingress-2]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
 
 ## Section 1 Objet
 
@@ -62,7 +62,7 @@ Si un organe d’exécution est chargé de l’exécution d’un autre acte lég
 
 **Coordination de l’exécution**
 
-<sup>1</sup> Le Secrétariat d’Etat à l’économie (SECO) coordonne l’exécution de la LSPro en concertation avec les organes d’exécution. Il prend en compte pour cela les prescriptions nationales et les accords internationaux dans le domaine de la sécurité des produits et de la libre circulation des marchandises.
+<sup>1</sup> Le Secrétariat d’État à l’économie (SECO) coordonne l’exécution de la LSPro en concertation avec les organes d’exécution. Il prend en compte pour cela les prescriptions nationales et les accords internationaux dans le domaine de la sécurité des produits et de la libre circulation des marchandises.
 
 <sup>2</sup> Il peut prendre part à des systèmes d’information et d’exécution nationaux et internationaux. Il peut imposer aux organes d’exécution ainsi qu’ à d’autres autorités fédérales de collaborer.
 
@@ -98,7 +98,7 @@ Les prescriptions de cette section s’appliquent à tous les produits pour auta
 
 Les produits qui ne remplissent pas les conditions pour la mise sur le marché peuvent être exposés ou présentés:
 
-- a. si un panneau indique clairement que la preuve de leur conformité aux exigences légales n’a pas été apportée et que pour cette raison ils ne peuvent pas encore être mis sur le marché; et
+- a. si un panneau indique clairement que la preuve de leur conformité aux exigences légales n’a pas été apportée et que pour cette raison ils ne peuvent pas encore être mis sur le marché, et
 - b. si les mesures nécessaires sont prises pour garantir la sécurité et la santé des personnes.
 
 #### Art. 8
@@ -119,7 +119,7 @@ Les produits qui ne remplissent pas les conditions pour la mise sur le marché p
 
 La déclaration de conformité atteste:
 
-- a. qu’un produit remplit les exigences essentielles de sécurité et de santé; et
+- a. qu’un produit remplit les exigences essentielles de sécurité et de santé, et
 - b. que l’évaluation de la conformité a été effectuée correctement.
 
 <sup>2</sup> La déclaration de conformité est établie par le producteur ou son représentant établi en Suisse.
@@ -165,10 +165,10 @@ Les prescriptions de cette section s’appliquent:
 - g. aux autres produits, dans la mesure où ils n’entrent pas dans le champ d’application des prescriptions figurant aux let. a à f ou dans celui d’autres prescriptions fédérales.
 
 [^19-1]: [<sup>RS</sup> <sup>819.14</sup>](https://fedlex.data.admin.ch/eli/cc/2008/263)
-[^19-2]: **[**[RO 1999 1875](https://fedlex.data.admin.ch/eli/oc/1999/310), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 22 al. 1 ch. 6, [2005 4265](https://fedlex.data.admin.ch/eli/oc/2005/558), [2008 1785](https://fedlex.data.admin.ch/eli/oc/2008/263)annexe 2 ch. 2, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 7, [2011 1755](https://fedlex.data.admin.ch/eli/oc/2011/268)ch. III. [RO 2016 219](https://fedlex.data.admin.ch/eli/oc/2016/26)art. 9]. Voir actuellement l’O du 25 nov. 2015 ([RS 930.112](https://fedlex.data.admin.ch/eli/cc/2016/26)).
+[^19-2]: **[**[RO 1999 1875](https://fedlex.data.admin.ch/eli/oc/1999/310); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 22 al. 1 ch. 6; [2005 4265](https://fedlex.data.admin.ch/eli/oc/2005/558); [2008 1785](https://fedlex.data.admin.ch/eli/oc/2008/263)annexe 2 ch. 2; [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 7; [2011 1755](https://fedlex.data.admin.ch/eli/oc/2011/268)ch. III. [RO 2016 219](https://fedlex.data.admin.ch/eli/oc/2016/26)art. 9]. Voir actuellement l’O du 25 nov. 2015 ([RS 930.112](https://fedlex.data.admin.ch/eli/cc/2016/26)).
 [^19-3]: [RS 930.116](https://fedlex.data.admin.ch/eli/cc/2017/636).Le renvoi a été adapté au 21 avril 2018 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^19-4]: [[RO 2003 38](https://fedlex.data.admin.ch/eli/oc/2003/7), [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 5, [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)annexe 6 ch. 6. [RO 2016 233](https://fedlex.data.admin.ch/eli/oc/2016/28)art. 7 al. 1]. Voir actuellement l’O du 25 nov. 2016 ([RS 930.114](https://fedlex.data.admin.ch/eli/cc/2016/28)).
-[^19-5]: [[RO 2003 107](https://fedlex.data.admin.ch/eli/oc/2003/8), [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 6. [RO 2016 227](https://fedlex.data.admin.ch/eli/oc/2016/27)art. 7]. Voir actuellement l’O du 25 nov. 2015 sur les récipients à pression ([RS 930.113](https://fedlex.data.admin.ch/eli/cc/2016/27)).
+[^19-4]: [[RO 2003 38](https://fedlex.data.admin.ch/eli/oc/2003/7); [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 5; [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)annexe 6 ch. 6. [RO 2016 233](https://fedlex.data.admin.ch/eli/oc/2016/28)art. 7 al. 1]. Voir actuellement l’O du 25 nov. 2016 ([RS 930.114](https://fedlex.data.admin.ch/eli/cc/2016/28)).
+[^19-5]: [[RO 2003 107](https://fedlex.data.admin.ch/eli/oc/2003/8); [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 6. [RO 2016 227](https://fedlex.data.admin.ch/eli/oc/2016/27)art. 7]. Voir actuellement l’O du 25 nov. 2015 sur les récipients à pression ([RS 930.113](https://fedlex.data.admin.ch/eli/cc/2016/27)).
 [^19-6]: [RS 930.115](https://fedlex.data.admin.ch/eli/cc/2017/635). Le renvoi a été adapté au 21 avril 2018 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 #### Art. 20
@@ -197,9 +197,10 @@ Sont chargés de contrôler l’application des prescriptions sur la mise sur le
 
 <sup>3</sup> Le DEFR peut demander le concours d’autres autorités et organisations et conclure à cet effet des accords avec elles.
 
-<sup>4</sup> Les organes de contrôle peuvent demander à l’Administration fédérale des douanes de leur fournir, pendant un temps déterminé, des renseignements sur les importations de produits bien définis.
+<sup>4</sup> Les organes de contrôle peuvent demander à l’Office fédéral de la douane et de la sécurité des frontières[^21-2] de leur fournir, pendant un temps déterminé, des renseignements sur les importations de produits bien définis.
 
-[^21-1]: [<sup>RS</sup> <sup>822.11</sup>](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^21-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^21-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 22
 
@@ -234,14 +235,14 @@ Les organes de contrôle sont notamment habilités, dans le cadre du contrôle:
 
 Les organes de contrôle peuvent demander une vérification technique du produit s’ils doutent qu’un produit:
 
-- a. corresponde à la documentation remise; ou
+- a. corresponde à la documentation remise, ou
 - b. corresponde aux prescriptions en vigueur bien qu’une documentation correcte ait été remise.
 
 <sup>5</sup>
 
 Ils ordonnent les mesures nécessaires selon l’art. 10, al. 3 et 4, LSPro si:
 
-- a. le responsable de la mise sur le marché ne fournit pas ou pas de manière complète les documents demandés conformément à l’al. 3 dans le délai imparti par les organes de contrôle; ou que
+- a. le responsable de la mise sur le marché ne fournit pas ou pas de manière complète les documents demandés conformément à l’al. 3 dans le délai imparti par les organes de contrôle, ou que
 - b. le produit ne correspond pas aux prescriptions de la LSPro et de l’ordonnance qui lui est afférente.
 
 <sup>6</sup> Avant d’ordonner des mesures, ils donnent au responsable de la mise sur le marché l’occasion de donner son avis.
@@ -252,7 +253,7 @@ Ils ordonnent les mesures nécessaires selon l’art. 10, al. 3 et 4, LSPro si:
 
 La loi fédérale du 20 décembre 1968 sur la procédure administrative[^23-1] s’applique aussi aux organes de contrôle qui ne sont pas soumis au droit public.
 
-[^23-1]: [<sup>RS</sup> <sup>172.021</sup>](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^23-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 #### Art. 24
 
@@ -305,7 +306,7 @@ Les émoluments suivants sont calculés en fonction du temps consacré:
 
 <sup>3</sup> Un supplément allant jusqu’à 50 % de l’émolument ordinaire peut être perçu pour les contrôles urgents ou qui doivent être effectués en dehors des horaires de travail normaux.
 
-[^28-1]: [<sup>RS</sup> <sup>946.512</sup>](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^28-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 
 #### Art. 29
 
@@ -315,7 +316,7 @@ Les émoluments suivants sont calculés en fonction du temps consacré:
 
 <sup>2</sup> Les art. 2 et 6 à 14 de l’OGEmol s’appliquent par analogie aux contrôles et aux décisions des organes de contrôle en vertu de l’art. 20.
 
-[^29-1]: [<sup>RS</sup> <sup>172.041.1</sup>](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^29-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 ## Section 6 Dispositions finales
 
@@ -337,7 +338,7 @@ Les produits qui remplissent les exigences du droit en vigueur préalablement ma
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2010.
 
-Annexe 1 à 3*[^t-1]*
+Annexe 1 à 3[^t-1]
 
 [^t-1]: Abrogées par l’art. 7 de l’O du 25 oct. 2017 sur les appareils à gaz, avec effet au 21 avr. 2018 ([RO 2017 5865](https://fedlex.data.admin.ch/eli/oc/2017/636)).
 
@@ -359,9 +360,9 @@ II
 
 Les ordonnances suivantes sont modifiées comme suit:
 
-...[^annex4-lvlu1-4]
+…[^annex4-lvlu1-4]
 
-[^annex4-lvlu1-1]: [[RO 1995 2770](https://fedlex.data.admin.ch/eli/oc/1995/2770_2770_2770), [1996 1867](https://fedlex.data.admin.ch/eli/oc/1996/1867_1867_1867), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 ch. 8 et 22 al. 1 ch. 5, **2002** 853, **2008** 1785 annexe 2 ch. 1].
-[^annex4-lvlu1-2]: <sup>[</sup>[<sup>RO</sup> <sup>1995</sup> <sup>27</sup>83](https://fedlex.data.admin.ch/eli/oc/1995/2783_2783_2783), [2009 2571](https://fedlex.data.admin.ch/eli/oc/2009/336)].
-[^annex4-lvlu1-3]: [<sup>RO</sup> <sup>**2**</sup>**006** <sup>2</sup>681]
+[^annex4-lvlu1-1]: [[RO 1995 2770](https://fedlex.data.admin.ch/eli/oc/1995/2770_2770_2770); [1996 1867](https://fedlex.data.admin.ch/eli/oc/1996/1867_1867_1867); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 ch. 8 et 22 al. 1 ch. 5; **2002** 853; **2008** 1785 annexe 2 ch. 1].
+[^annex4-lvlu1-2]: [[RO 1995 2783](https://fedlex.data.admin.ch/eli/oc/1995/2783_2783_2783); [2009 2571](https://fedlex.data.admin.ch/eli/oc/2009/336)].
+[^annex4-lvlu1-3]: [[RO 2006 2681](https://fedlex.data.admin.ch/eli/oc/2006/411)]
 [^annex4-lvlu1-4]: Les mod. peuvent être consultées au [RO 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348).

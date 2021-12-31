@@ -4,11 +4,11 @@ title: Verordnung vom 19. Mai 2010 über die Produktesicherheit (PrSV)
 short: PrSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/348"
 language: de
-version: 2018-04-21
+version: 2022-01-01
 adopted: 2010-05-19
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/348/20180421/de/xml/fedlex-data-admin-ch-eli-cc-2010-348-20180421-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/348/20180421/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/348/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2010-348-20220101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/348/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/348/20180421/de"
 
 (PrSV)
 
-vom 19. Mai 2010 (Stand am 21. April 2018)
+vom 19. Mai 2010 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -165,10 +165,10 @@ Die Vorschriften dieses Abschnitts gelten für:
 - g. übrige Produkte, soweit diese nicht unter den Geltungsbereich der Vor-schriften nach den Buchstaben a–f oder anderer bundesrechtlicher Regelungen fallen.
 
 [^19-1]: [SR 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
-[^19-2]: [[AS 1999 1875](https://fedlex.data.admin.ch/eli/oc/1999/310), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 22 Abs. 1 Ziff. 6, [2005 4265](https://fedlex.data.admin.ch/eli/oc/2005/558), [2008 1785](https://fedlex.data.admin.ch/eli/oc/2008/263)Anhang 2 Ziff. 2, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 7, [2011 1755](https://fedlex.data.admin.ch/eli/oc/2011/268)Ziff. III. [AS 2016 219](https://fedlex.data.admin.ch/eli/oc/2016/26)Art. 9]. Siehe heute: die V vom 25. Nov. 2015 über die Sicherheit von Aufzügen ([SR 930.112](https://fedlex.data.admin.ch/eli/cc/2016/26)).
+[^19-2]: [[AS 1999 1875](https://fedlex.data.admin.ch/eli/oc/1999/310); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 22 Abs. 1 Ziff. 6; [2005 4265](https://fedlex.data.admin.ch/eli/oc/2005/558); [2008 1785](https://fedlex.data.admin.ch/eli/oc/2008/263)Anhang 2 Ziff. 2; [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 7; [2011 1755](https://fedlex.data.admin.ch/eli/oc/2011/268)Ziff. III. [AS 2016 219](https://fedlex.data.admin.ch/eli/oc/2016/26)Art. 9]. Siehe heute: die V vom 25. Nov. 2015 über die Sicherheit von Aufzügen ([SR 930.112](https://fedlex.data.admin.ch/eli/cc/2016/26)).
 [^19-3]: [SR 930.116](https://fedlex.data.admin.ch/eli/cc/2017/636).Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 21. April 2018 angepasst.
 [^19-4]: [[AS 2003 38](https://fedlex.data.admin.ch/eli/oc/2003/7), [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 5, [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Anhang 6 Ziff. 6. [AS 2016 233](https://fedlex.data.admin.ch/eli/oc/2016/28)Art. 7 Abs. 1]. Siehe heute: die Druckgeräteverordnung vom 25. Nov. 2015 ([SR 930.114](https://fedlex.data.admin.ch/eli/cc/2016/28)).
-[^19-5]: [[AS 2003 107](https://fedlex.data.admin.ch/eli/oc/2003/8), [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 6. [AS 2016 227](https://fedlex.data.admin.ch/eli/oc/2016/27)Art. 7]. Siehe heute: die Druckbehälterverordnung vom 25. Nov. 2015 ([SR 930.113](https://fedlex.data.admin.ch/eli/cc/2016/27)).
+[^19-5]: [[AS 2003 107](https://fedlex.data.admin.ch/eli/oc/2003/8); [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 6. [AS 2016 227](https://fedlex.data.admin.ch/eli/oc/2016/27)Art. 7]. Siehe heute: die Druckbehälterverordnung vom 25. Nov. 2015 ([SR 930.113](https://fedlex.data.admin.ch/eli/cc/2016/27)).
 [^19-6]: [SR 930.115](https://fedlex.data.admin.ch/eli/cc/2017/635). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 21. April 2018 angepasst.
 
 #### Art. 20
@@ -197,9 +197,10 @@ Die Kontrolle über die Einhaltung der Vorschriften über das Inverkehrbringen o
 
 <sup>3</sup> Das WBF kann andere Behörden und Organisationen zur Mitwirkung heranziehen und mit ihnen entsprechende Vereinbarungen abschliessen.
 
-<sup>4</sup> Die Kontrollorgane können von der Eidgenössischen Zollverwaltung für eine beschränkte Dauer Meldungen über die Einfuhr genau bezeichneter Produkte verlangen.
+<sup>4</sup> Die Kontrollorgane können vom Bundesamt für Zoll und Grenzsicherheit[^21-2] für eine beschränkte Dauer Meldungen über die Einfuhr genau bezeichneter Produkte verlangen.
 
 [^21-1]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^21-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 22
 
@@ -337,7 +338,7 @@ Produkte, welche die Anforderungen nach bisherigem Recht, jedoch nicht die Anfor
 
 Diese Verordnung tritt am 1. Juli 2010 in Kraft.
 
-Anhänge 1–3*[^t-1]*
+Anhänge 1–3[^t-1]
 
 [^t-1]: Aufgehoben durch Art. 7 der Gasgeräteverordnung 25. Okt. 2017, mit Wirkung seit 21. April 2018 ([AS 2017 5865](https://fedlex.data.admin.ch/eli/oc/2017/636)).
 
@@ -361,7 +362,7 @@ Die nachstehenden Verordnungen werden wie folgt geändert:
 
 …[^annex4-lvlu1-4]
 
-[^annex4-lvlu1-1]: [[AS 1995 2770](https://fedlex.data.admin.ch/eli/oc/1995/2770_2770_2770),[1996 1867](https://fedlex.data.admin.ch/eli/oc/1996/1867_1867_1867), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 Ziff. 8, 22 Abs. 1 Ziff. 5, [2002 853](https://fedlex.data.admin.ch/eli/oc/2002/150), [2008 1785](https://fedlex.data.admin.ch/eli/oc/2008/263)Anhang 2 Ziff. 1]
-[^annex4-lvlu1-2]: [[AS 1995 2783](https://fedlex.data.admin.ch/eli/oc/1995/2783_2783_2783), [2009 2571](https://fedlex.data.admin.ch/eli/oc/2009/336)]
+[^annex4-lvlu1-1]: [[AS 1995 2770](https://fedlex.data.admin.ch/eli/oc/1995/2770_2770_2770);[1996 1867](https://fedlex.data.admin.ch/eli/oc/1996/1867_1867_1867); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 Ziff. 8; 22 Abs. 1 Ziff. 5; [2002 853](https://fedlex.data.admin.ch/eli/oc/2002/150); [2008 1785](https://fedlex.data.admin.ch/eli/oc/2008/263)Anhang 2 Ziff. 1]
+[^annex4-lvlu1-2]: [[AS 1995 2783](https://fedlex.data.admin.ch/eli/oc/1995/2783_2783_2783); [2009 2571](https://fedlex.data.admin.ch/eli/oc/2009/336)]
 [^annex4-lvlu1-3]: [[AS 2006 2681](https://fedlex.data.admin.ch/eli/oc/2006/411)]
 [^annex4-lvlu1-4]: Die Änd. können unter [AS 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)konsultiert werden.

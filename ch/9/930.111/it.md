@@ -4,11 +4,11 @@ title: Ordinanza del 19 maggio 2010 sulla sicurezza dei prodotti (OSPro)
 short: OSPro
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/348"
 language: it
-version: 2018-04-21
+version: 2022-01-01
 adopted: 2010-05-19
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/348/20180421/it/xml/fedlex-data-admin-ch-eli-cc-2010-348-20180421-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/348/20180421/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/348/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2010-348-20220101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/348/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/348/20180421/it"
 
 (OSPro)
 
-del 19 maggio 2010 (Stato 21 aprile 2018)
+del 19 maggio 2010 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -36,7 +36,7 @@ La presente ordinanza fissa:
 
 - a. prescrizioni generali sull’esecuzione della LSPro;
 - b. prescrizioni sull’immissione in commercio, applicabili ai prodotti a titolo sussidiario per quanto non siano state stabilite prescrizioni specifiche secondo l’articolo 4 LSPro o secondo prescrizioni di legge analoghe sulla sicurezza dei prodotti;
-- c.[^1-1] ...
+- c.[^1-1] …
 - d.
 
   prescrizioni sulla sorveglianza del mercato dei seguenti prodotti:
@@ -140,7 +140,7 @@ La dichiarazione di conformità certifica che:
 
 Le lingue ufficiali svizzere ai sensi degli articoli 8–10 sono il tedesco, il francese e l’italiano.
 
-## Sezione 4: ...
+## Sezione 4: …
 
 #### Art. 12 a 18
 
@@ -167,9 +167,9 @@ Le prescrizioni della presente sezione ai applicano:
 [^19-1]: [RS 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
 [^19-2]: [[RU 1999 1875](https://fedlex.data.admin.ch/eli/oc/1999/310), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 22 cpv. 1 n. 6, [2005 4265](https://fedlex.data.admin.ch/eli/oc/2005/558), [2008 1785](https://fedlex.data.admin.ch/eli/oc/2008/263)all. 2 n. 2, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 n. II 7, [2011 1755](https://fedlex.data.admin.ch/eli/oc/2011/268)n. III. [RU 2016 219](https://fedlex.data.admin.ch/eli/oc/2016/26)art. 9]. Vedi ora l’O del 25 nov. 2015 ([RS 930.112](https://fedlex.data.admin.ch/eli/cc/2016/26)).
 [^19-3]: [RS 930.116](https://fedlex.data.admin.ch/eli/cc/2017/636).Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 21 apr. 2018.
-[^19-4]: [[RU 2003 38](https://fedlex.data.admin.ch/eli/oc/2003/7), [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 n. II 5, [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)all. 6 n. 6. [RU 2016 233](https://fedlex.data.admin.ch/eli/oc/2016/28)art. 7 cpv. 1]. Vedi ora l’O del 25 nov. 2016 ([RS 930.114](https://fedlex.data.admin.ch/eli/cc/2016/28)).
-[^19-5]: [[RU 2003 107](https://fedlex.data.admin.ch/eli/oc/2003/8), [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all n. II 6. [RU 2016 227](https://fedlex.data.admin.ch/eli/oc/2016/27)art. 7]. Vedi ora l’O sui recipienti a pressione del 25 nov. 2015 ([RS 930.113](https://fedlex.data.admin.ch/eli/cc/2016/27)).
-[^19-6]: [RS 930.115](https://fedlex.data.admin.ch/eli/cc/2017/635).Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 21 apr. 2018.
+[^19-4]: [[RU 2003 38](https://fedlex.data.admin.ch/eli/oc/2003/7); [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 n. II 5; [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)all. 6 n. 6. [RU 2016 233](https://fedlex.data.admin.ch/eli/oc/2016/28)art. 7 cpv. 1]. Vedi ora l’O del 25 nov. 2016 ([RS 930.114](https://fedlex.data.admin.ch/eli/cc/2016/28)).
+[^19-5]: [[RU 2003 107](https://fedlex.data.admin.ch/eli/oc/2003/8); [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all n. II 6. [RU 2016 227](https://fedlex.data.admin.ch/eli/oc/2016/27)art. 7]. Vedi ora l’O sui recipienti a pressione del 25 nov. 2015 ([RS 930.113](https://fedlex.data.admin.ch/eli/cc/2016/27)).
+[^19-6]: [RS 930.115](https://fedlex.data.admin.ch/eli/cc/2017/635). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 21 apr. 2018.
 
 #### Art. 20
 
@@ -197,9 +197,10 @@ Il controllo del rispetto delle prescrizioni sull’immissione in commercio spet
 
 <sup>3</sup> Il DEFR può chiedere la collaborazione di altre autorità e organizzazioni e concludere con essi accordi in tal senso.
 
-<sup>4</sup> Gli organi di controllo possono chiedere all’Amministrazione federale delle dogane, per un determinato periodo, informazioni sull’importazione di prodotti designati con precisione.
+<sup>4</sup> Gli organi di controllo possono chiedere all’Ufficio federale della dogana e della sicurezza dei confini[^21-2], per un determinato periodo, informazioni sull’importazione di prodotti designati con precisione.
 
 [^21-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^21-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 22
 
@@ -337,7 +338,7 @@ I prodotti che soddisfano i requisiti del diritto anteriore ma non quelli del nu
 
 La presente ordinanza entra in vigore il 1° luglio 2010.
 
-Allegati 1 a 3*[^t-1]*
+Allegati 1 a 3[^t-1]
 
 [^t-1]: Abrogati dall’art. 7 dell’O del 25 ott. 2017 sugli apparecchi a gas, con effetto dal 21 apr. 2018 ([RU 2017 5865](https://fedlex.data.admin.ch/eli/oc/2017/636)).
 
@@ -359,9 +360,9 @@ II
 
 Le ordinanze qui appresso sono modificate come segue:
 
-...[^annex4-lvlu1-4]
+…[^annex4-lvlu1-4]
 
-[^annex4-lvlu1-1]: [[RU 1995 2770](https://fedlex.data.admin.ch/eli/oc/1995/2770_2770_2770),[1996 1867](https://fedlex.data.admin.ch/eli/oc/1996/1867_1867_1867), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34), [2002 853](https://fedlex.data.admin.ch/eli/oc/2002/150), [2008 1785](https://fedlex.data.admin.ch/eli/oc/2008/263)all. 2 n. 1]
-[^annex4-lvlu1-2]: [[RU 1995 2783](https://fedlex.data.admin.ch/eli/oc/1995/2783_2783_2783), [2009 2571](https://fedlex.data.admin.ch/eli/oc/2009/336)]
+[^annex4-lvlu1-1]: [[RU 1995 2770](https://fedlex.data.admin.ch/eli/oc/1995/2770_2770_2770);[1996 1867](https://fedlex.data.admin.ch/eli/oc/1996/1867_1867_1867); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34); [2002 853](https://fedlex.data.admin.ch/eli/oc/2002/150); [2008 1785](https://fedlex.data.admin.ch/eli/oc/2008/263)all. 2 n. 1]
+[^annex4-lvlu1-2]: [[RU 1995 2783](https://fedlex.data.admin.ch/eli/oc/1995/2783_2783_2783); [2009 2571](https://fedlex.data.admin.ch/eli/oc/2009/336)]
 [^annex4-lvlu1-3]: [[RU 2006 2681](https://fedlex.data.admin.ch/eli/oc/2006/411)]
 [^annex4-lvlu1-4]: Le mod. possono essere consultate alla [RU 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348).
