@@ -4,13 +4,13 @@ number: III B/1/1
 title: Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches im Kanton Glarus
 short: Einführungsgesetz zum Zivilgesetzbuch; EG ZGB
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-05-05
+version: 2022-01-01
+valid_until: 2022-06-30
+version_adopted: 2022-01-26
 adopted: 1911-05-07
 in_force: 1912-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-B.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2184/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2270/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2184/pdf_file"
 
 (Einführungsgesetz zum Zivilgesetzbuch; EG ZGB)
 
-Vom 07.05.1911 (Stand 01.01.2020)
+Vom 07.05.1911 (Stand 01.01.2022)
 
 (Erlassen von der Landsgemeinde am 7. Mai 1911)
 
@@ -148,6 +148,14 @@ Vom 07.05.1911 (Stand 01.01.2020)
 <sup>5</sup> Die in den Absätzen 1 und 3 genannten Funktionen und Tätigkeiten können vom Landrat im Rahmen einer interkantonalen Vereinbarung auch einer Aufsichtsbehörde eines anderen Kantons oder einer gemeinsamen Einrichtung des öffentlichen Rechts übertragen werden.
 
 [^15c-1]: GS [III B/4/2/1](https://gesetze.gl.ch/data/III-B.4.2.1/de)
+
+#### Art. 15d
+
+<sup>1</sup> Der Regierungsrat regelt den Vollzug der gerichtlich angeordneten elektronischen Überwachung zum Schutz gewaltbetroffener Personen (Art. 28c Abs. 1 ZGB und Art. 343 Abs. 1<sup>bis</sup> ZPO) in einer Verordnung.
+
+<sup>2</sup> Das zuständige Departement kann die technische Umsetzung beziehungsweise den Vollzug der elektronischen Überwachung einer Stelle ausserhalb der Verwaltung übertragen.
+
+<sup>3</sup> Das Gericht, das die elektronische Überwachung anordnet, auferlegt die Kosten des Vollzugs der überwachten Person unter Berücksichtigung ihrer finanziellen Verhältnisse.
 
 #### Art. 16
 
