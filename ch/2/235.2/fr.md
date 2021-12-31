@@ -3,18 +3,18 @@ sr: "235.2"
 title: Loi fédérale du 18 décembre 2020 sur le traitement des données personnelles par le Département fédéral des affaires étrangères
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/650"
 language: fr
-version: 2021-12-01
+version: 2022-01-01
 adopted: 2020-12-18
 in_force: 2021-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/650/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2021-650-20211201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/650/20211201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/650/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-650-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/650/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur le traitement des données personnelles par le Département fédéral des affaires étrangères
 
-du 18 décembre 2020 (Etat le 1<sup>er</sup> décembre 2021)
+du 18 décembre 2020 (État le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -59,9 +59,10 @@ Le DFAE peut traiter les données sensibles suivantes dans le cadre de la protec
 - b. données sur des poursuites ou sanctions pénales et administratives;
 - c. données sur des mesures d’aide sociale.
 
-<sup>2</sup> Le numéro AVS au sens de l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^3-1] sert à l’échange électronique de données entre les registres officiels de personnes.
+<sup>2</sup> Le numéro AVS au sens de l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^3-1] sert à l’échange électronique de données entre les registres officiels de personnes.[^3-2]
 
 [^3-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-2]: La mod. entrée en vigueur le 1<sup>er</sup> janv. 2022 ne concerne que les textes allemand et italien ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 4
 
@@ -283,9 +284,10 @@ Le DFAE peut traiter les données sensibles suivantes:
 - a. données sur des poursuites ou sanctions pénales et administratives afin de contribuer au règlement des litiges dans lesquels les personnes bénéficiaires sont impliquées;
 - b. données sur des mesures d’aide sociale afin d’assurer l’application de la législation en matière d’assurances sociales ainsi que l’établissement et la gestion des cartes de légitimation.
 
-<sup>2</sup> Le numéro AVS au sens de l’art. 50*c* LAVS[^22-1] sert à l’échange électronique de données entre les registres officiels de personnes.
+<sup>2</sup> Le numéro AVS au sens de l’art. 50*c* LAVS[^22-1] sert à l’échange électronique de données entre les registres officiels de personnes.[^22-2]
 
 [^22-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^22-2]: La mod. entrée en vigueur le 1<sup>er</sup> janv. 2022 ne concerne que les textes allemand et italien ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 23
 

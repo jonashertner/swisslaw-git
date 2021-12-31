@@ -3,18 +3,18 @@ sr: "235.2"
 title: Legge federale del’18 dicembre 2020 sul trattamento dei dati personali da parte del Dipartimento federale degli affari esteri
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/650"
 language: it
-version: 2021-12-01
+version: 2022-01-01
 adopted: 2020-12-18
 in_force: 2021-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/650/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2021-650-20211201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/650/20211201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/650/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-650-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/650/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sul trattamento dei dati personali da parte del Dipartimento federale degli affari esteri
 
-del 18 dicembre 2020 (Stato 1° dicembre 2021)
+del 18 dicembre 2020 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -59,9 +59,10 @@ Il DFAE può trattare i seguenti dati degni di particolare protezione nell’amb
 - b. dati concernenti procedimenti o sanzioni amministrativi e penali;
 - c. dati concernenti misure di aiuto sociale.
 
-<sup>2</sup> Il numero d’assicurato di cui all’articolo 50*c* della legge federale del 20 dicembre 1946[^3-1] sull’assicurazione per la vecchiaia e per i superstiti (LAVS) serve allo scambio elettronico di dati tra i registri ufficiali di persone.
+<sup>2</sup> Il numero AVS di cui all’articolo 50*c* della legge federale del 20 dicembre 1946[^3-1] sull’assicurazione per la vecchiaia e per i superstiti (LAVS) serve allo scambio elettronico di dati tra i registri ufficiali di persone.[^3-2]
 
 [^3-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-2]: Nuovo testo giusta l’all. n. 6 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 4
 
@@ -124,7 +125,9 @@ Oltre ai dati concernenti gli impiegati della Confederazione di cui alla legge d
 
 <sup>1</sup> Il DFAE può trattare i dati concernenti la salute dei suoi impiegati in servizio all’estero o che si prevede di inviare in servizio all’estero e dei loro congiunti.
 
-<sup>2</sup> Se circostanze particolari del luogo d’impiego lo rendono indispensabile, il DFAE può, nel caso specifico, trattare anche dati degni di particolare protezione concernenti:
+<sup>2</sup>
+
+Se circostanze particolari del luogo d’impiego lo rendono indispensabile, il DFAE può, nel caso specifico, trattare anche dati degni di particolare protezione concernenti:
 
 - a. le opinioni e attività religiose;
 - b. la sfera intima.
@@ -281,9 +284,10 @@ Il DFAE può trattare i seguenti dati degni di particolare protezione:
 - a. dati concernenti procedimenti o sanzioni amministrativi e penali, per contribuire alla composizione delle controversie in cui sono coinvolte le persone beneficiarie;
 - b. dati concernenti misure di aiuto sociale, per garantire l’applicazione della legislazione in materia di assicurazioni sociali e il rilascio e la gestione delle carte di legittimazione.
 
-<sup>2</sup> Il numero d’assicurato di cui all’articolo 50*c* LAVS[^22-1] serve allo scambio elettronico di dati tra i registri ufficiali di persone.
+<sup>2</sup> Il numero AVS di cui all’articolo 50*c* LAVS[^22-1] serve allo scambio elettronico di dati tra i registri ufficiali di persone.[^22-2]
 
 [^22-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^22-2]: Nuovo testo giusta l’all. n. 6 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 23
 

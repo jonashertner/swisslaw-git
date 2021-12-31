@@ -3,18 +3,18 @@ sr: "235.2"
 title: Bundesgesetz vom 18. Dezember 2020 über die Bearbeitung von Personendaten durch das Eidgenössische Departement für auswärtige Angelegenheiten
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/650"
 language: de
-version: 2021-12-01
+version: 2022-01-01
 adopted: 2020-12-18
 in_force: 2021-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/650/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2021-650-20211201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/650/20211201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/650/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-650-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/650/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Bearbeitung von Personendaten durch das Eidgenössische Departement für auswärtige Angelegenheiten
 
-vom 18. Dezember 2020 (Stand am 1. Dezember 2021)
+vom 18. Dezember 2020 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -59,9 +59,10 @@ Das EDA kann im Rahmen des konsularischen Schutzes und weiterer konsularischer D
 - b. Daten über administrative oder strafrechtliche Verfolgungen und Sanktionen;
 - c. Daten über Massnahmen der sozialen Hilfe.
 
-<sup>2</sup> Für den elektronischen Datenaustausch zwischen amtlichen Personenregistern wird die Versichertennummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^3-1] über die Alters- und Hinterlassenenversicherung (AHVG) verwendet.
+<sup>2</sup> Für den elektronischen Datenaustausch zwischen amtlichen Personenregistern wird die AHV-Nummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^3-1] über die Alters- und Hinterlassenenversicherung (AHVG) verwendet.[^3-2]
 
 [^3-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-2]: Fassung gemäss Anhang Ziff. 6 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 4
 
@@ -283,9 +284,10 @@ Das EDA kann folgende besonders schützenswerte Daten bearbeiten:
 - a. Daten über administrative oder strafrechtliche Verfolgungen und Sanktionen, um zur Beilegung von Streitigkeiten beitragen zu können, an denen begünstigte Personen beteiligt sind;
 - b. Daten über Massnahmen der sozialen Hilfe zwecks Anwendung des Sozialversicherungsrechts und der Ausstellung sowie Verwaltung von Legitimationskarten.
 
-<sup>2</sup> Für den elektronischen Datenaustausch zwischen amtlichen Personenregistern wird die Versichertennummer nach Artikel 50*c* AHVG[^22-1] verwendet.
+<sup>2</sup> Für den elektronischen Datenaustausch zwischen amtlichen Personenregistern wird die AHV-Nummer nach Artikel 50*c* AHVG[^22-1] verwendet.[^22-2]
 
 [^22-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^22-2]: Fassung gemäss Anhang Ziff. 6 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 23
 
@@ -385,7 +387,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 2000 1915](https://fedlex.data.admin.ch/eli/oc/2000/294); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)Ziff. II Abs. 1 Bst. a;[2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619)Anhang Ziff. 3;[2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 16;[2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653)Anhang Ziff. III 2; [2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649)Ziff. II]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2021 650](https://fedlex.data.admin.ch/eli/oc/2021/650)konsultiert werden.
