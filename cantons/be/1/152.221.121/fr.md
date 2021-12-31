@@ -4,13 +4,13 @@ number: "152.221.121"
 title: "Ordonnance sur l’organisation et les tâches de la Direction de la santé, des affaires sociales et de l’intégration"
 short: "Ordonnance d’organisation DSSI, OO DSSI"
 language: fr
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2021-06-30
+version: 2022-01-01
+valid_until: 2022-04-30
+version_adopted: 2021-11-24
 adopted: 2021-06-30
 in_force: 2021-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.121"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2333/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2489/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2333/pdf_file"
 
 (Ordonnance d’organisation DSSI, OO DSSI)
 
-du 30.06.2021 (état au 01.08.2021)
+du 30.06.2021 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -87,7 +87,7 @@ arrête:
 - c Commission cantonale pour le service médical scolaire,
 - d Commission cantonale de promotion de la santé et de lutte contre les dépendances,
 - e Commission pour la politique sociale, la politique de couverture du minimum vital et la politique de la famille,
-- f Commission des soins hospitaliers,
+- f Commission de la santé,
 - g Commission cantonale pour l’intégration de la population étrangère,
 - h Comité consultatif sur les innovations médicales,
 - i Commission des soins psychiatriques,
@@ -228,7 +228,7 @@ arrête:
 - c des programmes d’action sociale, à l’exclusion des soins hospitaliers et ambulatoires,
 - d de l’aide sociale en matière d’asile,
 - e du handicap,
-- f des mesures de pédagogie spécialisée, à l’exclusion des mesures pédagogiques particulières à l’école obligatoire,
+- f des mesures pédago-thérapeutiques préscolaires et postscolaires,
 - g de l’aide en cas d’addiction.
 
 <sup>2</sup> Il a en particulier compétence, outre les responsabilités visées à l’article 11, pour

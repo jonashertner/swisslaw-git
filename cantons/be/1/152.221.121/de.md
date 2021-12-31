@@ -4,13 +4,13 @@ number: "152.221.121"
 title: "Verordnung über die Organisation und die Aufgaben der Gesundheits-, Sozial- und Integrationsdirektion"
 short: "Organisationsverordnung GSI, OrV GSI"
 language: de
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2021-06-30
+version: 2022-01-01
+valid_until: 2022-04-30
+version_adopted: 2021-11-24
 adopted: 2021-06-30
 in_force: 2021-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.121"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2333/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2489/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2333/pdf_file"
 
 (Organisationsverordnung GSI, OrV GSI)
 
-vom 30.06.2021 (Stand 01.08.2021)
+vom 30.06.2021 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -87,7 +87,7 @@ beschliesst:
 - c Kantonale Kommission für den schulärztlichen Dienst,
 - d Kantonale Kommission für Gesundheitsförderungs- und Suchtfragen,
 - e Kommission für Sozial-, Existenzsicherungs- und Familienpolitik,
-- f Spitalversorgungskommission,
+- f Gesundheitskommission,
 - g Kantonale Kommission für die Integration der ausländischen Bevölkerung,
 - h Beirat für medizinische Innovationen,
 - i Kommission Psychiatrie,
@@ -228,7 +228,7 @@ beschliesst:
 - c soziale Leistungsangebote, wobei die ambulante und die stationäre Pflegeversorgung ausgenommen sind,
 - d Asylsozialhilfe,
 - e Behinderung,
-- f sonderpädagogische Massnahmen, wobei die besonderen Massnahmen in der Volksschule ausgenommen sind,
+- f pädagogisch-therapeutische Massnahmen im Vor- und Nachschulbereich,
 - g Suchthilfe.
 
 <sup>2</sup> Es ist in seinem Bereich neben den in Artikel 11 aufgeführten Zuständigkeiten insbesondere zuständig für
