@@ -4,13 +4,13 @@ number: "413.141"
 title: Verordnung des Regierungsrates über die Rechtsstellung der Lehrpersonen an den Berufsfach- und Mittelschulen
 short: RSV BM
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-11-19
+version: 2022-01-01
+valid_until: 2023-07-31
+version_adopted: 2021-11-30
 adopted: 2004-03-02
 in_force: 2004-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/413.141"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1666/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2124/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ RSV BM
 
 (RSV BM)
 
-vom 02.03.2004 (Stand 01.01.2020)
+vom 02.03.2004 (Stand 01.01.2022)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -43,21 +43,21 @@ vom 02.03.2004 (Stand 01.01.2020)
 
 **Ergänzendes Recht**
 
-<sup>1</sup> Folgende Bestimmungen der Verordnung des Regierungsrates über die Rechtsstellung des Staatspersonals[^2-1] gelten sinngemäss als ergänzendes Recht:
+<sup>1</sup> Folgende Bestimmungen der Verordnung des Regierungsrates über die Rechtsstellung des Staatspersonals (RSV)[^2-1] gelten sinngemäss als ergänzendes Recht:
 
-- 1\. Abgangsentschädigung gemäss § 27;
-- 1a. Mehrfachanstellungen gemäss § 4a;
-- 1b. Sozialplan gemäss § 28;
-- 2\. Einvernehmliche Auflösung gemäss § 29;
-- 3\. Untertitel Schutz der Persönlichkeit gemäss den §§ 35, 36;
-- 4\. Untertitel Datenschutz gemäss den §§ 37, 38;
-- 5\. Untertitel Personalvorsorge gemäss den §§ 40, 41;
-- 6\. Treuepflicht gemäss § 61;
-- 7\. Freistellung, Internet und E-Mail am Arbeitsplatz gemäss den §§ 64, 64a;
-- 8\. Untertitel Nebenbeschäftigungen, öffentliche Ämter gemäss den §§ 74, 75;
-- 9\. Amtsgeheimnis § 76 Absätze 1 bis 4;
-- 10\. Verbot zur Annahme von Geschenken und anderen Vorteilen gemäss § 78;
-- 11\. Meldepflicht gemäss § 79.
+- 1\. Abgangsentschädigung gemäss § 27
+- 1a. Mehrfachanstellungen gemäss § 4a
+- 1b. Sozialplan gemäss § 28
+- 2\. Einvernehmliche Auflösung gemäss § 29
+- 3\. Untertitel Schutz der Persönlichkeit gemäss § 35, § 35a und § 36
+- 4\. Untertitel Datenschutz gemäss § 37 und § 38
+- 5\. Untertitel Personalvorsorge gemäss § 40 und § 41
+- 6\. Treuepflicht gemäss § 61
+- 7\. Freistellung, Internet und E-Mail am Arbeitsplatz gemäss § 64 und § 64a
+- 8\. Untertitel Nebenbeschäftigungen, öffentliche Ämter gemäss § 74 und § 75
+- 9\. Amtsgeheimnis § 76 Abs. 1 bis Abs. 4
+- 10\. Verbot zur Annahme von Geschenken und anderen Vorteilen gemäss § 78
+- 11\. Meldepflicht gemäss § 79
 
 <sup>2–3</sup> …
 
@@ -87,15 +87,15 @@ vom 02.03.2004 (Stand 01.01.2020)
 - 2\. ein anerkanntes Lehrdiplom für den Einsatz auf der entsprechenden Stufe;
 - 3\. einen Beschäftigungsgrad von in der Regel mindestens 50 %.
 
-<sup>2</sup> Das Amt entscheidet über die Anerkennung des Lehrdiploms sowie über Ausnahmen von Absatz 1.
+<sup>2</sup> Das Amt entscheidet über die Anerkennung des Lehrdiploms sowie über Ausnahmen von Abs. 1.
 
 #### § 5
 
-**Berufsschullehrbeauftragte**
+**Berufsfachschullehrbeauftragte**
 
 <sup>1</sup> Lehrpersonen mit wenig Unterrichtserfahrung oder ohne anerkanntes Lehrdiplom für den Einsatz auf der entsprechenden Stufe werden als Lehrbeauftragte 1 angestellt. Über Ausnahmen befindet das Amt im Einzelfall.
 
-<sup>2</sup> Lehrbeauftragte 2 verfügen über Unterrichtserfahrung sowie ein anerkanntes Lehrdiplom für den Einsatz auf der entsprechenden Stufe.
+<sup>2</sup> Lehrbeauftragte 2 verfügen über Unterrichtserfahrung sowie ein anerkanntes Lehrdiplom für den Einsatz auf der entsprechenden Stufe. Über Ausnahmen befindet das Amt im Einzelfall.
 
 #### § 6
 
@@ -143,7 +143,7 @@ vom 02.03.2004 (Stand 01.01.2020)
 
 <sup>1</sup> Das Arbeitsverhältnis ist öffentlichrechtlich.
 
-<sup>2</sup> Anstellung und Kündigung sowie weitere Anordnungen im Sinne von § 4 des Gesetzes über die Verwaltungsrechtspflege[^10-1] erfolgen in Form eines Entscheides.
+<sup>2</sup> Anstellung und Kündigung sowie weitere Anordnungen im Sinne von § 4 des Gesetzes über die Verwaltungsrechtspflege (VRG)[^10-1] erfolgen in Form eines Entscheides.
 
 <sup>3</sup> Mit Lehrpersonen der Weiterbildung, der höheren Berufsbildung oder mit Praxislehrpersonen können Verträge nach dem Obligationenrecht[^10-2] geschlossen werden.
 
@@ -212,15 +212,15 @@ vom 02.03.2004 (Stand 01.01.2020)
 
 <sup>1</sup> Das Arbeitsverhältnis endet:
 
-- 1\. mit Fristablauf bei einer befristeten Anstellung;
-- 2\. mit Ablauf der maximalen Lohnfortzahlung infolge von Unfall oder Krankheit im Sinne von § 20 der Verordnung des Grossen Rates über die Besoldung des Staatspersonals[^18-1] unter Beachtung der Wiederherstellung;
-- 3\. bei voraussichtlich andauernder voller oder teilweiser Arbeitsunfähigkeit aufgrund von Krankheit oder Unfall in der Regel auf Ende des Semesters, in welchem das 64. Altersjahr vollendet wurde, sofern während eines Jahres Leistungen zufolge Krankheit oder Unfall ausbezahlt wurden;
-- 4\. mit Ablauf des Semesters, während welchem das 65. Altersjahr vollendet wurde; es kann weitergeführt werden, wenn dies im Interesse der Schule liegt, wobei es zu befristen ist;
-- 5\. bei gegenseitiger Absprache mit dem vereinbarten Termin;
-- 6\. bei ordentlicher Kündigung mit dem Eintritt des gesetzlich vorgesehenen oder vereinbarten Termins;
-- 7\. bei fristloser Kündigung mit dem Empfang der Mitteilung;
-- 8\. bei Stellvertretungen mit der Rückkehr der vertretenen Lehrperson;
-- 9\. mit dem Tod der Lehrperson.
+- 1\. mit Fristablauf bei einer befristeten Anstellung
+- 2\. mit Ablauf der maximalen Lohnfortzahlung infolge Unfall oder Krankheit im Sinne von § 20 der Verordnung des Grossen Rates über die Besoldung des Staatspersonals (BesVO)[^18-1]
+- 3\. bei voraussichtlich andauernder voller oder teilweiser Arbeitsunfähigkeit aufgrund von Krankheit oder Unfall in der Regel auf Ende des Semesters, in welchem das 64. Altersjahr vollendet wurde, sofern während eines Jahres Leistungen zufolge Krankheit oder Unfall ausbezahlt wurden
+- 4\. mit Ablauf des Semesters, während welchem das 65. Altersjahr vollendet wurde; es kann weitergeführt werden, wenn dies im Interesse der Schule liegt, wobei es zu befristen ist
+- 5\. bei gegenseitiger Absprache mit dem vereinbarten Termin
+- 6\. bei ordentlicher Kündigung mit dem Eintritt des gesetzlich vorgesehenen oder vereinbarten Termins
+- 7\. bei fristloser Kündigung mit dem Empfang der Mitteilung
+- 8\. bei Stellvertretungen mit der Rückkehr der vertretenen Lehrperson
+- 9\. mit dem Tod der Lehrperson
 
 [^18-1]: RB [177.22](https://www.rechtsbuch.tg.ch/data/177.22/de)
 
@@ -270,10 +270,10 @@ vom 02.03.2004 (Stand 01.01.2020)
 
 <sup>2</sup> Die Kündigung durch den Arbeitgeber setzt einen sachlich zureichenden Grund voraus. Sachliche Gründe sind insbesondere:
 
-- 1\. Vorliegen betrieblicher oder wirtschaftlicher Gründe, die der Weiterführung des Arbeitsverhältnisses entgegenstehen;
-- 2\. Mängel in der Leistung oder im Verhalten;
-- 3\. Verletzung arbeitsrechtlicher Pflichten;
-- 4\. fehlende Eignung oder Wegfall beziehungsweise Nichterfüllen gesetzlicher oder vereinbarter Anstellungsvoraussetzungen.
+- 1\. Vorliegen betrieblicher oder wirtschaftlicher Gründe, die der Weiterführung des Arbeitsverhältnisses entgegenstehen
+- 2\. Mängel in der Leistung oder im Verhalten
+- 3\. Verletzung arbeitsrechtlicher Pflichten
+- 4\. fehlende Eignung oder Wegfall beziehungsweise Nichterfüllen gesetzlicher oder vereinbarter Anstellungsvoraussetzungen
 
 <sup>3</sup> Bevor eine Kündigung aufgrund von Mängeln in der Leistung oder im Verhalten ausgesprochen wird, ist, wenn nicht eine zwingende Kündigung wegen fortgesetzt ungenügender Qualifikation vorliegt, ein Gespräch zu führen und in der Regel eine Frist zur positiven Veränderung anzusetzen.
 
@@ -304,10 +304,11 @@ vom 02.03.2004 (Stand 01.01.2020)
 
 <sup>1</sup> Ausser bei einer fristlosen Kündigung können Lehrpersonen nicht gekündigt werden:
 
-- 1\. während schweizerischem obligatorischen Militär- oder Schutzdienst oder schweizerischem Zivildienst sowie bei einer Dauer der Dienstleistung von mehr als elf Kalendertagen während vier Wochen vorher oder nachher;
-- 2\. während einer ganzen oder teilweisen Verhinderung an der Arbeitsleistung durch Unfall oder Krankheit ohne eigenes, mindestens grobfahrlässiges Verschulden, und zwar während längstens zwei Jahren beziehungsweise bis der Lohnfortzahlungsanspruch bei Krankheit und Unfall erlischt;
-- 3\. während der Schwangerschaft und in den 16 Wochen nach der Niederkunft;
-- 4\. während der Teilnahme an einer von einer Bundes-, Kantons- oder Gemeindebehörde angeordneten Dienstleistung für eine Hilfsaktion.
+- 1\. während schweizerischem obligatorischen Militär- oder Schutzdienst oder schweizerischem Zivildienst sowie bei einer Dauer der Dienstleistung von mehr als elf Kalendertagen während vier Wochen vorher oder nachher
+- 2\. während einer ganzen oder teilweisen Verhinderung an der Arbeitsleistung durch Unfall oder Krankheit ohne eigenes, mindestens grobfahrlässiges Verschulden, und zwar während längstens zwei Jahren beziehungsweise bis der Lohnfortzahlungsanspruch bei Krankheit und Unfall erlischt
+- 3\. während der Schwangerschaft und in den 16 Wochen nach der Niederkunft
+- 4\. während der Teilnahme an einer von einer Bundes-, Kantons- oder Gemeindebehörde angeordneten Dienstleistung für eine Hilfsaktion
+- 5\. solange der Anspruch auf Betreuungsurlaub nach § 22b BesVO besteht, längstens aber während sechs Monaten ab dem Tag, an dem die Rahmenfrist gemäss Art. 16p Abs. 2 des Bundesgesetzes über den Erwerbsersatz (EOG)[^26-1] zu laufen beginnt
 
 <sup>2</sup> Die während einer Sperrfrist ausgesprochene Kündigung ist nichtig und entfaltet keine Rechtswirkung.
 
@@ -315,13 +316,15 @@ vom 02.03.2004 (Stand 01.01.2020)
 
 <sup>4</sup> Im Anschluss an eine Sperrfrist kann unter Berücksichtigung einer Frist von drei Monaten ohne Beachtung des Semesterendes gekündigt werden, wenn die Sperrfrist die rechtzeitige Kündigung auf ein Semesterende verhindert hat.
 
+[^26-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de)
+
 ## 4. Rechte der Lehrpersonen
 
 #### § 27
 
 **Urlaub**
 
-<sup>1</sup> Als Urlaub gilt jede aus anderen Gründen als Krankheit, Unfall, Schwangerschaft und Niederkunft oder obligatorischem Militär- oder Schutzdienst sowie schweizerischem Zivildienst bewilligte Abwesenheit.
+<sup>1</sup> Als Urlaub gilt jede aus anderen Gründen als Krankheit, Unfall, Schwangerschaft und Niederkunft, Vaterschaft oder obligatorischem Militär- oder Schutzdienst sowie schweizerischem Zivildienst bewilligte Abwesenheit. Abwesenheiten zur Betreuung eines gesundheitlich schwer beeinträchtigten minderjährigen Kindes im Sinne von § 22b BesVO gelten ebenfalls nicht als Urlaub.
 
 <sup>2</sup> Durch den Urlaub wird das Arbeitsverhältnis nicht unterbrochen.
 
@@ -363,15 +366,15 @@ vom 02.03.2004 (Stand 01.01.2020)
 
 <sup>1</sup> Das Departement kann einer Lehrperson auf Gesuch hin unter folgenden Voraussetzungen ein einmalig besoldetes Bildungssemester gewähren:
 
-- 1\. sie muss mindestens zehn Jahre mit einem durchschnittlichen Pensum von wenigstens 50 % als Hauptlehrperson an einer kantonalen Schule unterrichtet haben, davon die letzten fünf Jahre ohne Unterbruch und unmittelbar vor dem Bildungssemester; nach einer Tätigkeit in einer thurgauischen Schulleitung kann von den letzten beiden Voraussetzungen abgesehen werden;
-- 2\. sie muss den Nachweis erbringen, dass sie sich schon bisher ausreichend in der unterrichtsfreien Zeit fortgebildet hat;
-- 3\. sie muss sich schriftlich verpflichten, nach Abschluss des Bildungssemesters noch mindestens drei Schuljahre an einer kantonalen Schule zu unterrichten;
-- 4\. die Stellvertretung muss sichergestellt sein;
-- 5\. das Bildungssemester muss die Lehrperson in ihren beruflichen Fähigkeiten fördern.
+- 1\. sie muss mindestens zehn Jahre mit einem durchschnittlichen Pensum von wenigstens 50 % als Hauptlehrperson an einer kantonalen Schule unterrichtet haben, davon die letzten fünf Jahre ohne Unterbruch und unmittelbar vor dem Bildungssemester; nach einer Tätigkeit in einer thurgauischen Schulleitung kann von den letzten beiden Voraussetzungen abgesehen werden
+- 2\. sie muss den Nachweis erbringen, dass sie sich schon bisher ausreichend in der unterrichtsfreien Zeit fortgebildet hat
+- 3\. sie muss sich schriftlich verpflichten, nach Abschluss des Bildungssemesters noch mindestens drei Schuljahre an einer kantonalen Schule zu unterrichten
+- 4\. die Stellvertretung muss sichergestellt sein
+- 5\. das Bildungssemester muss die Lehrperson in ihren beruflichen Fähigkeiten fördern
 
 <sup>2</sup> Das Bildungssemester darf längstens ein Schulsemester dauern und ist in der Regel bis zum vollendeten 55. Altersjahr anzutreten. Er ist in der Regel zusammenhängend zu beziehen. In begründeten Fällen kann eine Aufteilung bewilligt werden.
 
-<sup>3</sup> § 46 Absätze 3 und 4 gelten sinngemäss.
+<sup>3</sup> § 46 Abs. 3 und Abs. 4 gelten sinngemäss.
 
 <sup>4</sup> Das Departement erlässt ergänzende Richtlinien zum Bildungssemester, namentlich über die Mindestanforderungen an das Bildungsprogramm, die Kostentragung unter den Schulen, die Pensengrenze und Besoldungsberechnung bei Teilübertritten an die Pädagogische Hochschule Thurgau und das Verfahren.
 
@@ -389,11 +392,11 @@ vom 02.03.2004 (Stand 01.01.2020)
 
 <sup>1</sup> Die Lehrperson verrichtet persönliche oder familiäre Angelegenheiten grundsätzlich ausserhalb der Unterrichtszeiten.
 
-<sup>2</sup> Muss Unterrichtszeit beansprucht werden, steht der Lehrperson unter Vorbehalt weiterreichender Urlaube in besonderen Fällen für die nachstehend aufgeführten Ereignisse bezahlter Urlaub in folgendem Umfang zu:
+<sup>2</sup> Muss Unterrichtszeit beansprucht werden, steht der Lehrperson für die nachstehend aufgeführten Ereignisse bezahlten Urlaub in folgendem Umfang zu:
 
 - 1\. Eigene Hochzeit — 2 Tage
 - 2\. Hochzeit eines eignen Kindes oder Stiefkindes — 1 Tag
-- 3\. Geburt eines eigenen Kindes — 5 Tage
+- 3\. …
 - 4\. Adoption eines Kindes — 2 Tage
 - 5\. Wohnungswechsel — 1 Tag
 - 6\. Orientierungstag über Militär-, Schutz- und Zivildienst — 1 Tag
@@ -412,9 +415,13 @@ vom 02.03.2004 (Stand 01.01.2020)
   - 8\.11. Grosseltern — 1 Tag
   - 8\.12. Begräbnis eines Arbeitskollegen oder einer Arbeitskollegin — ½ Tag
 
-<sup>3</sup> Unter gleicher Voraussetzung und nämlichem Vorbehalt besteht für die Organisation der Pflege eines Kindes oder Stiefkindes und die Pflege während der Organisationsphase pro Ereignis ein Anspruch auf bis zu zwei Tagen bezahlter Urlaub. Auf Verlangen ist ein ärztliches Zeugnis über die Pflegebedürftigkeit des Kindes vorzuweisen.
+<sup>3</sup> Für die Betreuung eines eigenen Kindes oder eines Stiefkindes mit gesundheitlicher Beeinträchtigung besteht pro Ereignis ein Anspruch auf bis zu drei Tage bezahlten Urlaub.
+
+<sup>3<sup>bis</sup></sup> Für die Betreuung eines weiteren Familienmitglieds oder der Lebenspartnerin oder des Lebenspartners mit gesundheitlicher Beeinträchtigung besteht ein Anspruch auf bis zu drei Tage bezahlter Urlaub pro Ereignis und höchstens zehn Tage pro Jahr.
 
 <sup>4</sup> Bei Vorliegen anderer Gründe, welche die Beanspruchung von Unterrichtszeit notwendig machen, können statt bezahltem Urlaub Lektionenverschiebungen oder unbezahlte Urlaube bewilligt werden.
+
+<sup>5</sup> Bei ausreichender Begründung kann bezahlter Urlaub über das in Abs. 2 vorgesehene Mass hinaus gewährt werden
 
 #### § 33a
 
@@ -430,6 +437,26 @@ vom 02.03.2004 (Stand 01.01.2020)
 
 [^33a-1]: RB [177.22](https://www.rechtsbuch.tg.ch/data/177.22/de)
 [^33a-2]: RB [177.223](https://www.rechtsbuch.tg.ch/data/177.223/de)
+
+#### § 33b
+
+**Vaterschaftsurlaub**
+
+<sup>1</sup> Der Vaterschaftsurlaub entspricht dem doppelten wöchentlichem Pensum des Lehrers zum Zeitpunkt der Geburt.
+
+<sup>2</sup> Der Vaterschaftsurlaub wird nach Rücksprache mit der Schulleitung bezogen.
+
+<sup>3</sup> Kann der Vaterschaftsurlaub infolge Krankheit oder Unfall nicht bezogen werden, besteht Anspruch auf Nachgewährung, sofern ein Arztzeugnis vorgelegt wird.
+
+<sup>4</sup> Der Vaterschaftsurlaub ist bis zum Austritt zu beziehen. Es erfolgt keine Verlängerung des Dienstverhältnisses um nicht bezogene Urlaubstage.
+
+#### § 33c
+
+**Betreuungsurlaub**
+
+<sup>1</sup> Wird der Betreuungsurlaub am Stück bezogen, führen Ausfälle zufolge Krankheit oder Unfall, Urlaube sowie Feier- und öffentliche Ruhetage nicht zu einer Unterbrechung des Betreuungsurlaubs und geben keinen Anspruch auf Abgeltung oder Nachgewährung.
+
+<sup>2</sup> Erfolgt der Bezug des Betreuungsurlaubs tageweise, besteht Anspruch auf Nachgewährung der Urlaubstage, welche aufgrund von Krankheit oder Unfall nicht angetreten werden konnten. Es ist ein Artzeugnis vorzulegen.
 
 #### § 34
 
@@ -513,7 +540,7 @@ vom 02.03.2004 (Stand 01.01.2020)
 
 **Besoldung von Stellvertretern und Stellvertreterinnen**
 
-<sup>1</sup> Stellvertreter und Stellvertreterinnen ohne anrechenbaren Abschluss werden im Berufsschulbereich wie Lehrbeauftragte 1 und im Mittelschulbereich als Studierende entschädigt, andere in der Regel wie Lehrbeauftragte.
+<sup>1</sup> Stellvertreter und Stellvertreterinnen ohne anrechenbaren Abschluss werden als Studierende entschädigt, andere in der Regel wie Lehrbeauftragte.
 
 <sup>2</sup> Ist die Anstellung für weniger als einen Monat eingegangen worden, erfolgt die Entschädigung unter Einbezug der Familienzulage pro gehaltene Lektion, ansonsten im Wochenlohn. Der Wochenlohn richtet sich nach dem Lektionenlohn.
 
@@ -551,7 +578,7 @@ vom 02.03.2004 (Stand 01.01.2020)
 
 <sup>1</sup> Die Lehrperson ist verpflichtet, nach Abschluss des Schuljahres, während welchem die Weiterbildung abgeschlossen wurde, für eine bestimmte Zeit im Schuldienst des Kantons zu verbleiben.
 
-<sup>2</sup> Die Pflichtzeit beträgt bei einer Kostenbeteiligung des Kantons von Fr. 5 000.– bis Fr. 15 000.– ein Schuljahr, von Fr. 15 001.– bis Fr. 30 000.– zwei Schuljahre und ab Fr. 30 001.– drei Schuljahre.
+<sup>2</sup> Die Pflichtzeit beträgt bei einer Kostenbeteiligung des Kantons von Fr. 5'000 bis Fr. 15'000 ein Schuljahr, von Fr. 15'001 bis Fr. 30'000 zwei Schuljahre und ab Fr. 30'001 drei Schuljahre.
 
 <sup>3</sup> Bei einer Änderung des Beschäftigungsgrades wird die Pflichtzeit bis auf maximal vier Schuljahre proportional verlängert, wobei der Schuldienst für angebrochene Semester vollständig zu leisten ist.
 
@@ -585,8 +612,8 @@ vom 02.03.2004 (Stand 01.01.2020)
 
 <sup>1</sup> Standortbestimmungen sind bei einer Änderung des Anstellungsstatus und bei unbefristet angestellten Lehrpersonen zusätzlich vorzunehmen, wenn
 
-- 1\. ein Lebensalter erreicht ist, das zwischen 35 und 40 liegt, spätestens aber 10 Jahre nach Änderung des Anstellungsstatus oder ohne solche spätestens nach 10 Anstellungsjahren;
-- 2\. ein Lebensalter erreicht ist, das zwischen 45 und 50 liegt, spätestens aber 20 Jahre nach Änderung des Anstellungsstatus oder ohne solche spätestens nach 20 Anstellungsjahren;
+- 1\. ein Lebensalter erreicht ist, das zwischen 35 und 40 liegt, spätestens aber 10 Jahre nach Änderung des Anstellungsstatus oder ohne solche spätestens nach 10 Anstellungsjahren.
+- 2\. ein Lebensalter erreicht ist, das zwischen 45 und 50 liegt, spätestens aber 20 Jahre nach Änderung des Anstellungsstatus oder ohne solche spätestens nach 20 Anstellungsjahren.
 - 3\. ein Lebensalter erreicht ist, das zwischen 55 und 60 liegt, spätestens aber 30 Jahre nach Änderung des Anstellungsstatus oder ohne solche spätestens nach 30 Anstellungsjahren.
 
 <sup>2</sup> Der Rektor, die Rektorin oder die betreffende Lehrperson sind berechtigt, zusätzliche Standortbestimmungen zu verlangen oder durchführen zu lassen.
@@ -601,12 +628,12 @@ vom 02.03.2004 (Stand 01.01.2020)
 
 <sup>2</sup> Die Standortbestimmung beinhaltet eine Beurteilung der Lehrpersonen aufgrund ihrer Pflichten.
 
-<sup>3</sup> Die Beurteilung beruht auf sämtlichen relevanten Quellen, namentlich auf
+<sup>3</sup> Die Beurteilung beruht auf sämtlichen relevanten Quellen, namentlich auf:
 
-- 1\. den Unterrichtsbeobachtungen des Rektors oder der Rektorin, weiteren Mitgliedern der Schulleitung und Mitgliedern der Berufsschulkommission oder anderen hierzu bestimmten Fachpersonen;
-- 2\. dem von der Lehrperson erstellten Dossier;
-- 3\. Beurteilungen durch Schüler und Schülerinnen;
-- 4\. den allgemeinen Feststellungen des Rektors oder der Rektorin, insbesondere solche über die Gesamttätigkeit oder das Umfeld.
+- 1\. den Unterrichtsbeobachtungen des Rektors oder der Rektorin, weiteren Mitgliedern der Schulleitung und Mitgliedern der Berufsschulkommission oder anderen hierzu bestimmten Fachpersonen
+- 2\. dem von der Lehrperson erstellten Dossier
+- 3\. Beurteilungen durch Schüler und Schülerinnen
+- 4\. den allgemeinen Feststellungen des Rektors oder der Rektorin, insbesondere solche über die Gesamttätigkeit oder das Umfeld
 
 #### § 51
 
@@ -614,8 +641,8 @@ vom 02.03.2004 (Stand 01.01.2020)
 
 <sup>1</sup> Es gibt die folgenden zwei Beurteilungsstufen:
 
-- 1\. Prädikat «gut»: Die wesentlichen Leistungs- und Verhaltensanforderungen wurden erfüllt;
-- 2\. Prädikat «ungenügend»: Wesentliche Leistungs- oder Verhaltensanforderungen wurden nicht oder ungenügend erfüllt.
+- 1\. Prädikat «gut»: Die wesentlichen Leistungs- und Verhaltensanforderungen wurden erfüllt
+- 2\. Prädikat «ungenügend»: Wesentliche Leistungs- oder Verhaltensanforderungen wurden nicht oder ungenügend erfüllt
 
 <sup>2</sup> Die Qualifikation ist im Personaldossier festzuhalten.
 
@@ -651,11 +678,11 @@ vom 02.03.2004 (Stand 01.01.2020)
 
 **Pflichtlektionenzahl Berufsfachschulen**
 
-<sup>1</sup> Das Pflichtpensum an Lektionen zu 45 Minuten beträgt
+<sup>1</sup> Das Pflichtpensum an Lektionen zu 45 Minuten beträgt:
 
-- 1\. 29 an Brückenangeboten;
-- 2\. 26 in der beruflichen Grundbildung und im niederschwelligen Ausbildungsangebot;
-- 3\. 23 an Berufsmaturitätsschulen und an der Höheren Fachschule Pflege.
+- 1\. 29 an Brückenangeboten
+- 2\. 26 in der beruflichen Grundbildung und im niederschwelligen Ausbildungsangebot
+- 3\. 23 an Berufsmaturitätsschulen und an der Höheren Fachschule Pflege
 
 <sup>2</sup> Das Pflichtpensum kann auf allen Stufen der Berufsbildung erteilt werden.
 
@@ -663,12 +690,12 @@ vom 02.03.2004 (Stand 01.01.2020)
 
 **Pflichtlektionenzahl Mittelschulen**
 
-<sup>1</sup> Das Pflichtpensum an Lektionen zu 45 Minuten beträgt
+<sup>1</sup> Das Pflichtpensum an Lektionen zu 45 Minuten beträgt:
 
-- 1\. 23 für Deutsch, Alte Sprachen, moderne Fremdsprachen, Mathematik, naturwissenschaftliche sowie geistes- und sozialwissenschaftliche Fächer, Religion, Lebenskunde, Informatik, Allgemeine Didaktik, Schwerpunkt- und Ergänzungsfächer ohne Anteil Instrumentalunterricht;
-- 2\. 26 für Sport, Bildnerisches Gestalten, Gestaltungslehre, Textiles und Nichttextiles Werken, Musik, Chor, Orchester, Rhythmik, Musik im Klassenunterricht, Bürokommunikation, Schreiben;
-- 3\. 28 für Instrumentalunterricht an der Pädagogischen Maturitätsschule;
-- 4\. 29 für Instrumentalunterricht an den übrigen Mittelschulen, für Hauswirtschaft und Bürotechnik.
+- 1\. 23 für Deutsch, Alte Sprachen, moderne Fremdsprachen, Mathematik, naturwissenschaftliche sowie geistes- und sozialwissenschaftliche Fächer, Religion, Lebenskunde, Informatik, Allgemeine Didaktik, Schwerpunkt- und Ergänzungsfächer ohne Anteil Instrumentalunterricht
+- 2\. 26 für Sport, Bildnerisches Gestalten, Gestaltungslehre, Textiles und Nichttextiles Werken, Musik, Chor, Orchester, Rhythmik, Musik im Klassenunterricht, Bürokommunikation, Schreiben
+- 3\. 28 für Instrumentalunterricht an der Pädagogischen Maturitätsschule
+- 4\. 29 für Instrumentalunterricht an den übrigen Mittelschulen, für Hauswirtschaft und Bürotechnik
 
 <sup>2</sup> …
 
@@ -720,8 +747,8 @@ vom 02.03.2004 (Stand 01.01.2020)
 
 <sup>5</sup> Bei Lehrpersonen mit Altersentlastung gilt:
 
-- 1\. Basis für die Berechnung von Plus- oder Minuslektionen bildet das Pensum unter Berücksichtigung der Altersentlastung;
-- 2\. während der Zeit der Altersentlastung angeordnete Mehrlektionen müssen kompensiert werden.
+- 1\. Basis für die Berechnung von Plus- oder Minuslektionen bildet das Pensum unter Berücksichtigung der Altersentlastung
+- 2\. während der Zeit der Altersentlastung angeordnete Mehrlektionen müssen kompensiert werden
 
 #### § 62
 
@@ -745,11 +772,11 @@ vom 02.03.2004 (Stand 01.01.2020)
 
 <sup>1</sup> Gebühren und Entschädigungen aus amtlicher Tätigkeit sowie Besoldungsbeiträge vom Bund oder von Dritten fallen grundsätzlich in die Staatskasse.
 
-<sup>2</sup> Für die Bewilligung einer Ausnahme von der Ablieferungspflicht ist bei einer Entschädigung bis Fr. 2 000.– pro Jahr der Departementschef oder die Departementschefin, bei einer höheren Entschädigung der Regierungsrat zuständig. Dabei sind kumulativ folgende Bedingungen zu erfüllen:
+<sup>2</sup> Für die Bewilligung einer Ausnahme von der Ablieferungspflicht ist bei einer Entschädigung bis Fr. 2'000 pro Jahr der Departementschef oder die Departementschefin, bei einer höheren Entschädigung der Regierungsrat zuständig. Dabei sind kumulativ folgende Bedingungen zu erfüllen:
 
-- 1\. überwiegendes Interesse des Kantons, dass die externe Tätigkeit oder das Mandat von einer bestimmten Lehrperson ausgeübt wird;
-- 2\. erhöhte zeitliche Beanspruchung der Lehrperson ausserhalb der Arbeitszeit;
-- 3\. wesentliche Mehrverantwortung der Lehrperson durch die externe Tätigkeit oder das externe Mandat.
+- 1\. überwiegendes Interesse des Kantons, dass die externe Tätigkeit oder das Mandat von einer bestimmten Lehrperson ausgeübt wird
+- 2\. erhöhte zeitliche Beanspruchung der Lehrperson ausserhalb der Arbeitszeit
+- 3\. wesentliche Mehrverantwortung der Lehrperson durch die externe Tätigkeit oder das externe Mandat
 
 #### § 64
 
@@ -781,19 +808,11 @@ vom 02.03.2004 (Stand 01.01.2020)
 
 <sup>1<sup>bis</sup></sup> Führt die Anwendung der Anhänge 1 und 2 dieser Verordnung zu einer tieferen Besoldung als im Vormonat, wird in diejenige Lohnposition des massgebenden Lohnbandes eingestuft, welche mindestens der bisherigen Besoldung entspricht. Der Stufenanstieg wird solange ausgesetzt, bis die ordentliche Anrechnung der Berufserfahrung erreicht ist. Liegt die bisherige Einstufung über dem Maximum des Lohnbandes, wird die bisherige Besoldung als eine separate, nicht veränderbare Lohnposition weitergeführt.
 
-<sup>2</sup> Die Besitzstandswahrung nach den Absätzen 1 und 1<sup>bis</sup> gilt nur bei gleicher Tätigkeit und ununterbrochener Anstellung im thurgauischen Schuldienst.
+<sup>2</sup> Die Besitzstandswahrung nach Abs. 1 und Abs. 1<sup>bis</sup> gilt nur bei gleicher Tätigkeit und ununterbrochener Anstellung im thurgauischen Schuldienst.
 
 [^66a-1]: RB [177.250](https://www.rechtsbuch.tg.ch/data/177.250/de)
 
-#### § 66b
-
-**Übergangsbestimmung Altersentlastung**
-
-<sup>1</sup> Lehrpersonen, welche im ersten Semester des Schuljahres 2018/19 das 58. Altersjahr vollenden, haben bis zum 31. Januar 2020 Anspruch auf Altersentlastung gemäss bisheriger Regelung.
-
-<sup>2</sup> Der Besitzstand gemäss Absatz 1 gilt nur bei unverändertem Beschäftigungsgrad und ununterbrochener Anstellung im Thurgauer Schuldienst.
-
-#### § 66–70
+#### § 66b–70
 
 **…**
 
