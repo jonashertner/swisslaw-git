@@ -4,13 +4,13 @@ number: "122.96.11"
 title: Verordnung über die Governance der Digitalisierung und der Informationssysteme des Staates
 short: GDISV
 language: de
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2021-06-28
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-12-14
 adopted: 2021-06-28
 in_force: 2021-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.96.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6884/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7031/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6884/pdf_file"
 
 Governance der Digitalisierung und der Informationssysteme des Staates – V
 
-vom 28.06.2021 (Fassung in Kraft getreten am 01.07.2021)
+vom 28.06.2021 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -467,7 +467,7 @@ beschliesst:
 
 <sup>1</sup> Der Zuständigkeitsbereich der IKU erstreckt sich auf:
 
-- a) die Schulen der Sekundarstufe 2, die Berufsfachschulen, das Interprofessionelle Weiterbildungszentrum, die Bildungszentren des Landwirtschaftlichen Instituts des Kantons Freiburg, die Pädagogische Hochschule, das Konservatorium sowie die sonstigen Schulen und Dienststellen, die im Unterrichtswesen vom ITA bereitgestellte Informatikmittel nutzen;
+- a) die Schulen der Sekundarstufe 2, die Berufsfachschulen, das Interprofessionelle Weiterbildungszentrum, die für die Ausbildung zuständige Sektion von Grangeneuve, die Pädagogische Hochschule, das Konservatorium sowie die sonstigen Schulen und Dienststellen, die im Unterrichtswesen vom ITA bereitgestellte Informatikmittel nutzen;
 - b) die Lehrpersonen, Schülerinnen und Schüler, Studierenden sowie auf die technischen und Verwaltungsangestellten, welche die Informationssysteme der Schulen aller Unterrichtsstufen nach Buchstabe a nutzen.
 
 <sup>2</sup> Die Bereiche in der Zuständigkeit der Gemeinden bleiben vorbehalten.

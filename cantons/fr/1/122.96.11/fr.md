@@ -4,13 +4,13 @@ number: "122.96.11"
 title: "Ordonnance sur la gouvernance de la digitalisation et des systèmes d'information de l'Etat"
 short: OGDSI
 language: fr
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2021-06-28
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-12-14
 adopted: 2021-06-28
 in_force: 2021-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.96.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6884/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7031/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6884/pdf_file"
 
 Gouvernance de la digitalisation et des systèmes d'information de l'Etat – O
 
-du 28.06.2021 (version entrée en vigueur le 01.07.2021)
+du 28.06.2021 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -467,7 +467,7 @@ Arrête:
 
 <sup>1</sup> Le domaine de compétence de la CIEns s'étend:
 
-- a) aux écoles secondaires du deuxième degré, aux écoles professionnelles, au Centre de perfectionnement interprofessionnel, aux centres de formation de l'Institut agricole de l'Etat de Fribourg, à la Haute Ecole pédagogique, au Conservatoire ainsi qu'aux autres écoles et services qui font usage des moyens informatiques mis à leur disposition par le SITel dans le domaine de l'enseignement;
+- a) aux écoles secondaires du deuxième degré, aux écoles professionnelles, au Centre de perfectionnement interprofessionnel, à la section en charge de la formation de Grangeneuve, à la Haute Ecole pédagogique, au Conservatoire ainsi qu'aux autres écoles et services qui font usage des moyens informatiques mis à leur disposition par le SITel dans le domaine de l'enseignement;
 - b) aux enseignants et enseignantes, élèves, étudiants et étudiantes ainsi qu'au personnel technique ou administratif faisant usage des systèmes d'information des écoles de tous les degrés d'enseignement mentionnés à la lettre a ci-dessus.
 
 <sup>2</sup> Les domaines qui relèvent de la compétence des communes sont réservés.
