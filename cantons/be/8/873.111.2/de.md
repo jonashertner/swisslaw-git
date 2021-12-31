@@ -3,20 +3,20 @@ canton: BE
 number: "873.111.2"
 title: Prämientarif der Gebäudeversicherung
 language: de
-version: 2015-04-01
-valid_until: 2021-12-31
-version_adopted: 2014-11-20
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-06-03
 adopted: 2014-11-20
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/873.111.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/721/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2646/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Prämientarif der Gebäudeversicherung
 
-vom 20.11.2014 (Stand 01.04.2015)
+vom 20.11.2014 (Stand 01.01.2022)
 
 Die Gebäudeversicherung des Kantons Bern (GVB),
 
@@ -56,7 +56,7 @@ beschliesst:
 
 <sup>1</sup> Die Grundprämien werden gemäss Anhang 1 erhoben.
 
-<sup>2</sup> Als massiv gelten Gebäude, deren Umfassungswände, Dachflächen, Tragkonstruktionen und Decken flächenmässig und als Ganzes zu mindestens 4/5 aus nicht brennbaren Baustoffen oder Bauelementen bestehen, die feuerhemmend (F 30) sind.
+<sup>2</sup> Als massiv gelten Gebäude, deren Umfassungswände, Dachflächen, Tragkonstruktionen und Decken flächenmässig und als Ganzes zu mindestens 4/5 aus nicht brennbaren Baustoffen oder Bauelementen bestehen, die feuerhemmend (REI 30) sind.
 
 <sup>3</sup> Alle nicht unter Absatz 2 vorstehend fallende Gebäude gelten als nicht massiv.
 

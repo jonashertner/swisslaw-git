@@ -3,20 +3,20 @@ canton: BE
 number: "873.111.2"
 title: "Tarif des primes de l'assurance immobilière"
 language: fr
-version: 2015-04-01
-valid_until: 2021-12-31
-version_adopted: 2014-11-20
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-06-03
 adopted: 2014-11-20
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/873.111.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/721/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2646/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Tarif des primes de l'assurance immobilière
 
-du 20.11.2014 (état au 01.04.2015)
+du 20.11.2014 (état au 01.01.2022)
 
 L’Assurance immobilière du canton de Berne (AIB),
 
