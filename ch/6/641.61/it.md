@@ -4,11 +4,11 @@ title: "Legge federale del 21 giugno 1996 sull'imposizione degli oli minerali (L
 short: LIOm
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371"
 language: it
-version: 2020-07-01
+version: 2022-01-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20200701/it/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20200701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20200701/it"
 
 (LIOm)
 
-del 21 giugno 1996 (Stato 1° luglio 2020)
+del 21 giugno 1996 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -61,13 +61,13 @@ Le merci qui appresso sono considerate carburanti a tenore della presente legge,
 - a. l’olio di petrolio, gli altri oli minerali, il gas di petrolio e i prodotti ottenuti dalla loro lavorazione secondo il capoverso 1;
 - b. gli idrocarburi aciclici e ciclici (voci di tariffa 2901 e 2902);
 - c. gli alcoli aciclici e i loro derivati alogenati, solfonati, nitrati o nitrosi (voce di tariffa 2905);
-- d. gli eteri, gli eteri-alcoli, gli eteri-fenoli, gli eteri-alcoli-fenoli, i perossidi di alcoli, i perossidi di eteri, i perossidi di chetoni (di costituzione chimica definita o no), e i loro derivati alogenati, solfonati, nitrati o nitrosi (voce di tariffa 2909);
+- d.[^2-3] gli eteri, gli eteri-alcoli, gli eteri-fenoli, gli eteri-alcoli-fenoli, i perossidi di alcoli, i perossidi di eteri, i perossidi di acetali e di emiacetali, i perossidi di chetoni (di costituzione chimica definita o no), e i loro derivati alogenati, solfonati, nitrati o nitrosi (voce di tariffa 2909);
 - e. i prodotti della voce di tariffa 3811, eccettuate le preparazioni antidetonanti e gli additivi per oli lubrificanti;
 - f. i prodotti della voce di tariffa 3814;
 - g. gli alchilbenzeni in miscele e gli alchilnaftaleni in miscele, diversi da quelli delle voci 2707 o 2902 (voce di tariffa 3817);
 - h. i prodotti della voce di tariffa 3824;
-- i.[^2-3] i biodiesel e le miscele della voce di tariffa 3826;
-- j.[^2-4] le altre merci che, miscelate o no, sono utilizzate o destinate a essere utilizzate come carburante.
+- i.[^2-4] i biodiesel e le miscele della voce di tariffa 3826;
+- j.[^2-5] le altre merci che, miscelate o no, sono utilizzate o destinate a essere utilizzate come carburante.
 
 <sup>3</sup>
 
@@ -76,13 +76,14 @@ Nel senso della presente legge si considera:
 - a. «imposta», l’imposta sugli oli minerali e il supplemento fiscale sugli oli minerali;
 - b. «importatore», chiunque trasporta una merce attraverso il confine, nonché la persona per conto della quale la merce viene importata;
 - c. «depositario autorizzato», chiunque è in possesso di un’autorizzazione dell’autorità fiscale che lo abilita a trasformare, estrarre, fabbricare o detenere, in un deposito autorizzato, merci non tassate;
-- d.[^2-5] «biocarburante», il carburante prodotto a partire da biomassa o da altri agenti energetici rinnovabili.
+- d.[^2-6] «biocarburante», il carburante prodotto a partire da biomassa o da altri agenti energetici rinnovabili.
 
 [^2-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)all.
 [^2-2]: Nuovo testo giusta l’all. n. 1 dell’O del 3 <sub>lug. 2020</sub> 01, in vigore dal 1° gen. 2001 ([RU 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)).
-[^2-3]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2012 ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
-[^2-4]: Introdotta dall’all. 3 n. 1 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2012 ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
-[^2-5]: Introdotta dal n. I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^2-3]: Nuovo testo giusta l’all. 3 n. 2 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+[^2-4]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2012 ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
+[^2-5]: Introdotta dall’all. 3 n. 1 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2012 ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
+[^2-6]: Introdotta dal n. I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 
 #### Art. 2a
 
@@ -129,9 +130,11 @@ Il credito fiscale sorge inoltre:
 
 **Autorità fiscale**
 
-<sup>1</sup> L’autorità fiscale è l’Amministrazione federale delle dogane. Essa esegue tutti i provvedimenti previsti dalla presente legge e impartisce tutte le istruzioni necessarie a tal riguardo la cui emanazione non è espressamente riservata a un’altra autorità.
+<sup>1</sup> L’autorità fiscale è l’Ufficio federale della dogana e della sicurezza dei confini (UDSC). Esso esegue tutti i provvedimenti previsti dalla presente legge e impartisce tutte le istruzioni necessarie a tal riguardo la cui emanazione non è espressamente riservata a un’altra autorità.[^5-1]
 
 <sup>2</sup> L’autorità fiscale conteggia le spese di riscossione sulle entrate dell’imposta sui carburanti.
+
+[^5-1]: Nuovo testo giusta il n. I 22 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 6
 
@@ -654,9 +657,10 @@ In caso di circostanze aggravanti, il massimo della multa comminata è aumentato
 
 <sup>3</sup> Se non può essere accertato esattamente, l’importo dell’imposta sottratto o compromesso è stimato dall’autorità fiscale.
 
-<sup>4</sup> Se un atto costituisce in pari tempo una messa in pericolo o sottrazione dell’imposta e un’infrazione ad altri disposti federali concernenti tributi, che l’Amministrazione federale delle dogane è tenuta a perseguire, si applica la pena corrispondente all’infrazione più grave; tale pena può essere adeguatamente aumentata.
+<sup>4</sup> Se un atto costituisce in pari tempo una messa in pericolo o sottrazione dell’imposta e un’infrazione ad altri disposti federali concernenti tributi, che l’UDSC è tenuto a perseguire, si applica la pena corrispondente all’infrazione più grave; tale pena può essere adeguatamente aumentata.[^38-2]
 
 [^38-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^38-2]: Nuovo testo giusta il n. I 22 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 39
 
@@ -684,9 +688,10 @@ Chiunque, intenzionalmente o per negligenza, disattende una prescrizione della p
 
 <sup>1</sup> Le infrazioni sono perseguite e giudicate conformemente alla legge federale del 22 marzo 1974[^42-1] sul diritto penale amministrativo.
 
-<sup>2</sup> L’autorità competente per perseguire e giudicare è l’Amministrazione federale delle dogane.
+<sup>2</sup> L’autorità competente per perseguire e giudicare è l’UDSC.[^42-2]
 
 [^42-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^42-2]: Nuovo testo giusta il n. I 22 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 43
 
@@ -750,7 +755,7 @@ Allegato 1*[^t-1]*
 
 ## Tariffa d’imposta sugli oli minerali
 
-[^t-1]: Aggiornato dall’all. n. 1 dell’O del 3 lug. 2020 01 ([RU 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)), dall’all. 4 n. I dell’O del 28 giu. 2006 ([RU 2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)), dall’all. 3 n. 1 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), dall’all. 3 n. 2 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) e dal n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2, in vigore dal 1° lug. 2020 19</sub> ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^t-1]: Aggiornato dall’all. n. 1 dell’O del 3 lug. 2020 01 ([RU 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)), dall’all. 4 n. I dell’O del 28 giu. 2006 ([RU 2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)), dall’all. 3 n. 1 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), dall’all. 3 n. 2 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dal n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub> ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)) e dall’all. 3 n. 2 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
 <tr><th>Voce di tariffa</th><th>Designazione della merce</th><th>Aliquota di dazio Fr.</th></tr>
@@ -911,7 +916,7 @@ Allegato 1*[^t-1]*
 <tr><td>2210</td><td>– – – destinati a essere utilizzati come carburante</td><td>439.80</td></tr>
 <tr><td></td><td>– – altri:</td><td></td></tr>
 <tr><td>2910</td><td>– – – destinati a essere utilizzati come carburante</td><td>439.80</td></tr>
-<tr><td>2909.</td><td>Eteri, eteri-alcoli, eteri-fenoli, eteri alcoli-fenoli, perossidi di alcoli, perossidi di eteri, perossidi di chetoni (di costituzione chimica definita o no), e loro derivati alogenati, solfonati, nitrati o nitrosi:</td><td></td></tr>
+<tr><td>2909.</td><td>Eteri, eteri-alcoli, eteri-fenoli, eteri alcoli-fenoli, perossidi di alcoli, perossidi di eteri, perossidi di acetali e di emiacetali, perossidi di chetoni (di costituzione chimica definita o no), e loro derivati alogenati, solfonati, nitrati o nitrosi:</td><td></td></tr>
 <tr><td></td><td>– eteri aciclici e loro derivati alogenati, solfonati, nitrati o nitrosi:</td><td></td></tr>
 <tr><td></td><td>– – altri:</td><td></td></tr>
 <tr><td>1910</td><td>– – – destinati a essere utilizzati come carburante</td><td>420.60</td></tr>
@@ -928,7 +933,7 @@ Allegato 1*[^t-1]*
 <tr><td>4910</td><td>– – – destinati a essere utilizzati come carburante</td><td>420.60</td></tr>
 <tr><td></td><td>– eteri-fenoli, eteri-alcoli-fenoli e loro derivati alogenati, solfonati, nitrati o nitrosi:</td><td></td></tr>
 <tr><td>5010</td><td>– – destinati a essere utilizzati come carburante</td><td>420.60</td></tr>
-<tr><td></td><td>– perossidi di alcoli, perossidi di eteri, perossidi di chetoni, e loro derivati alogenati, solfonati, nitrati o nitrosi:</td><td></td></tr>
+<tr><td></td><td>– perossidi di alcoli, perossidi di eteri, perossidi di acetali e di emiacetali, perossidi di chetoni, e loro derivati alogenati, solfonati, nitrati o nitrosi:</td><td></td></tr>
 <tr><td>6010</td><td>– – destinati a essere utilizzati come carburante</td><td>420.60</td></tr>
 <tr><td></td><td></td><td>per 1000 kg</td></tr>
 <tr><td>3403.</td><td>Preparazioni lubrificanti (compresi gli oli da taglio, le preparazione per eliminare il grippaggio dei dadi, le preparazioni antiruggine o anticorrosione e le preparazioni per la sformatura, a base di lubrificanti) e preparazioni dei tipi utilizzati per l’ensimaggio delle materie tessili, per oliare o ingrassare il cuoio, le pelli o altre materie, escluse quelle contenenti come costituenti di base 70 % o più, in peso, di oli di petrolio o di minerali bituminosi:</td><td></td></tr>

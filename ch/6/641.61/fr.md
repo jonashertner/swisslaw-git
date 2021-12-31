@@ -4,11 +4,11 @@ title: "Loi du 21 juin 1996 sur l'imposition des huiles minérales (Limpmin)"
 short: Limpmin
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371"
 language: fr
-version: 2020-07-01
+version: 2022-01-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20200701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20200701/fr"
 
 (Limpmin)
 
-du 21 juin 1996 (Etat le 1<sup>er</sup> juillet 2020)
+du 21 juin 1996 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -61,13 +61,13 @@ Par carburants, on entend, pour autant qu’elles soient utilisées comme carbur
 - a. l’huile de pétrole, les autres huiles minérales, le gaz de pétrole et les produits résultant de leur transformation, conformément à l’al. 1;
 - b. les hydrocarbures, acycliques et cycliques (numéros 2901 et 2902 du tarif des douanes);
 - c. les alcools acycliques et leurs dérivés halogénés, sulfonés, nitrés ou nitrosés (numéro 2905 du tarif des douanes);
-- d. les éthers, éthers-alcools, éthers-phénols, éthers-alcools-phénols, peroxydes d’alcool, peroxydes d’éthers, peroxydes de cétones (de constitution chimique définie ou non), et leurs dérivés halogénés, sulfonés, nitrés ou nitrosés (numéro 2909 du tarif des douanes);
+- d.[^2-3] les éthers, éthers-alcools, éthers-phénols, éthers-alcools-phénols, peroxydes d’alcool, peroxydes d’éthers, peroxydes d’acétals et d’hémi-acétals, peroxydes de cétones (de constitution chimique définie ou non), et leurs dérivés halogénés, sulfonés, nitrés ou nitrosés (numéro 2909 du tarif des douanes);
 - e. les produits du numéro 3811 du tarif des douanes, à l’exclusion des préparations antidétonantes et des additifs pour huiles lubrifiantes;
 - f. les produits du numéro 3814 du tarif des douanes;
 - g. les alkylbenzènes en mélanges et les alkylnaphtalènes en mélanges, autres que ceux des numéros 2707 ou 2902 du tarif des douanes (numéro 3817 du tarif des douanes);
 - h. les produits du numéro 3824 du tarif des douanes;
-- i.[^2-3] biodiesel et mélanges du numéro du tarif 3826;
-- j.[^2-4] les autres marchandises qui, mélangées ou non, servent ou sont destinées à servir de carburant.
+- i.[^2-4] biodiesel et mélanges du numéro du tarif 3826;
+- j.[^2-5] les autres marchandises qui, mélangées ou non, servent ou sont destinées à servir de carburant.
 
 <sup>3</sup>
 
@@ -76,13 +76,14 @@ On entend par:
 - a. impôt: l’impôt sur les huiles minérales et la surtaxe sur les huiles minérales;
 - b. importateur: toute personne qui transporte une marchandise à travers la frontière ainsi que toute personne pour le compte de laquelle la marchandise est importée;
 - c. entrepositaire agréé: tout détenteur d’une autorisation de l’autorité fiscale l’habilitant à transformer, à extraire, à produire ou à entreposer, en suspension d’impôt, dans un entrepôt agréé, des marchandises non imposées;
-- d.[^2-5] biocarburant: carburant produit à partir de biomasse ou d’autres agents énergétiques renouvelables.
+- d.[^2-6] biocarburant: carburant produit à partir de biomasse ou d’autres agents énergétiques renouvelables.
 
 [^2-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe
 [^2-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 3 juil. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)).
-[^2-3]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 22 juin 2011 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
-[^2-4]: Introduite par l’annexe 3 ch. 1 de l’O du 22 juin 2011 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
-[^2-5]: Introduite par le ch. I de la loi du 23 mars 2007 ([RO 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 4057](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nouvelle teneur selon le ch. I 1 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^2-3]: Nouvelle teneur selon l’annexe 3 ch. 2 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+[^2-4]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 22 juin 2011 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
+[^2-5]: Introduite par l’annexe 3 ch. 1 de l’O du 22 juin 2011 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
+[^2-6]: Introduite par le ch. I de la loi du 23 mars 2007 ([RO 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 4057](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nouvelle teneur selon le ch. I 1 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 
 #### Art. 2a
 
@@ -129,9 +130,11 @@ La créance fiscale naît en outre:
 
 **Autorité fiscale**
 
-<sup>1</sup> L’autorité fiscale est l’Administration fédérale des douanes. Elle exécute toutes les mesures prévues par la présente loi et édicte toutes les instructions requises à cet effet, à moins qu’une autre autorité n’en ait expressément la charge.
+<sup>1</sup> L’autorité fiscale est l’Office fédéral de la douane et de la sécurité des frontières (OFDF). Celui-ci exécute toutes les mesures prévues par la présente loi et édicte toutes les instructions requises à cet effet, à moins qu’une autre autorité n’en ait expressément la charge.[^5-1]
 
 <sup>2</sup> L’autorité fiscale impute les coûts de perception sur les recettes de l’impôt sur les carburants.
+
+[^5-1]: Nouvelle teneur selon le ch. I 22 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 6
 
@@ -656,9 +659,10 @@ En cas de circonstances aggravantes, le maximum de l’amende est augmenté de m
 
 <sup>3</sup> Si le montant de l’impôt soustrait ou mis en péril ne peut être déterminé exactement, il sera évalué par l’autorité fiscale.
 
-<sup>4</sup> Si l’acte punissable constitue à la fois une mise en péril ou une soustraction de l’impôt et une infraction à d’autres lois ou ordonnances fédérales relatives à des redevances que l’administration des douanes est chargée de poursuivre, la peine applicable sera celle de l’infraction la plus grave; cette peine pourra être augmentée de manière appropriée.
+<sup>4</sup> Si l’acte punissable constitue à la fois une mise en péril ou une soustraction de l’impôt et une infraction à d’autres lois ou ordonnances fédérales relatives à des redevances que l’OFDF est chargé de poursuivre, la peine applicable sera celle de l’infraction la plus grave; cette peine peut être augmentée de manière appropriée.[^38-2]
 
 [^38-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^38-2]: Nouvelle teneur selon le ch. I 22 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 39
 
@@ -686,9 +690,10 @@ Quiconque enfreint, intentionnellement ou par négligence grave, une disposition
 
 <sup>1</sup> Les infractions sont poursuivies et jugées conformément à la loi fédérale du 22 mars 1974 sur le droit pénal administratif.
 
-<sup>2</sup> L’autorité compétente pour poursuivre et juger est l’Administration fédérale des douanes.
+<sup>2</sup> L’autorité compétente pour poursuivre et juger est l’OFDF.[^42-2]
 
 [^42-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^42-2]: Nouvelle teneur selon le ch. I 22 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 43
 
@@ -752,7 +757,7 @@ Annexe 1*[^t-1]*
 
 ## Tarif de l’impôt sur les huiles minérales
 
-[^t-1]: Mise à jour selon l’annexe ch. 1 de l’O du 3 juil. 2001 ([RO 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)), l’annexe 4 ch. I de l’O du 28 juin 2006 ([RO 2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)), l’annexe 3 ch. 1 de l’O du 22 juin 2011 modifiant le tarif des douanes ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), l’annexe 3 ch. 2 de l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) et le ch. I 1 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur depuis le 1<sup>er</sup> juil. 2019 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^t-1]: Mise à jour selon l’annexe ch. 1 de l’O du 3 juil. 2001 ([RO 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)), l’annexe 4 ch. I de l’O du 28 juin 2006 ([RO 2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)), l’annexe 3 ch. 1 de l’O du 22 juin 2011 modifiant le tarif des douanes ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), l’annexe 3 ch. 2 de l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) et le ch. I 1 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub> ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)) et annexe 3 ch. 2 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
 <tr><th>N<sup>o</sup> de tarif</th><th>Désignation de la marchandise</th><th>Taux de l’impôt Fr.</th></tr>

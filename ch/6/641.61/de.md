@@ -4,11 +4,11 @@ title: Mineralölsteuergesetz vom 21. Juni 1996 (MinöStG)
 short: MinöStG
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371"
 language: de
-version: 2020-07-01
+version: 2022-01-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20200701/de/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20200701/de"
 
 (MinöStG)
 
-vom 21. Juni 1996 (Stand am 1. Juli 2020)
+vom 21. Juni 1996 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -61,13 +61,13 @@ Treibstoffe im Sinne dieses Gesetzes sind folgende Waren, soweit sie als Treibst
 - a. Erdöl, andere Mineralöle, Erdgas und bei ihrer Verarbeitung gewonnene Produkte nach Absatz 1;
 - b. Kohlenwasserstoffe, acyclische und cyclische (Zolltarifnummern 2901 und 2902);
 - c. acyclische Alkohole und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate (Zolltarifnummer 2905);
-- d. Ether, Etheralkohole, Etherphenole, Etherphenolalkohole, Alkoholperoxide, Etherperoxide, Ketonperoxide (auch chemisch nicht einheitliche) und ihre Halogen‑, Sulfo‑, Nitro- oder Nitrosoderivate (Zolltarifnummer 2909);
+- d.[^2-3] Ether, Etheralkohole, Etherphenole, Etherphenolalkohole, Alkoholperoxide, Etherperoxide, Acetalperoxide und Halbacetalperoxide, Ketonperoxide (auch chemisch nicht einheitliche) und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate (Zolltarifnummer 2909);
 - e. Erzeugnisse der Zolltarifnummer 3811, ausgenommen Antiklopfmittel und Additive für Schmieröle;
 - f. Erzeugnisse der Zolltarifnummer 3814;
 - g. Alkylbenzol-Gemische und Alkylnaphthalin-Gemische, ausgenommen solche der Zolltarifnummern 2707 oder 2902 (Zolltarifnummer 3817);
 - h. Erzeugnisse der Zolltarifnummer 3824;
-- i.[^2-3] Biodiesel und Mischungen der Zolltarifnummer 3826;
-- j.[^2-4] andere Waren, die unvermischt oder vermischt zu Treibstoffen bestimmt sind oder als Treibstoffe verwendet werden.
+- i.[^2-4] Biodiesel und Mischungen der Zolltarifnummer 3826;
+- j.[^2-5] andere Waren, die unvermischt oder vermischt zu Treibstoffen bestimmt sind oder als Treibstoffe verwendet werden.
 
 <sup>3</sup>
 
@@ -76,13 +76,14 @@ Im Sinne dieses Gesetzes gilt als:
 - a. «Steuer»: die Mineralölsteuer und der Mineralölsteuerzuschlag;
 - b. «Importeur»: die Person, die eine Ware über die Grenze bringt, sowie die Person, auf deren Rechnung die Ware eingeführt wird;
 - c. «zugelassener Lagerinhaber»: wer eine Bewilligung der Steuerbehörde besitzt, unversteuerte Waren in einem zugelassenen Lager zu bearbeiten, zu gewinnen, zu erzeugen oder zu lagern;
-- d.[^2-5] «biogener Treibstoff»: Treibstoff, der aus Biomasse oder anderen erneuerbaren Energieträgern hergestellt wird.
+- d.[^2-6] «biogener Treibstoff»: Treibstoff, der aus Biomasse oder anderen erneuerbaren Energieträgern hergestellt wird.
 
 [^2-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
 [^2-2]: Fassung gemäss Anhang Ziff. 1 der V vom 3. Juli 2001, in Kraft seit 1. Jan. 2002 ([AS 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)).
-[^2-3]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 22. Juni 2011 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2012 ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
-[^2-4]: Eingefügt durch Anhang 3 Ziff. 1 der V vom 22. Juni 2011 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2012 ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
-[^2-5]: Eingefügt durch Ziff. I des BG vom 23. März 2007 ([AS 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [BBl 2006 4259](https://fedlex.data.admin.ch/eli/fga/2006/527)). Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^2-3]: Fassung gemäss Anhang 3 Ziff. 2 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+[^2-4]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 22. Juni 2011 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2012 ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
+[^2-5]: Eingefügt durch Anhang 3 Ziff. 1 der V vom 22. Juni 2011 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2012 ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
+[^2-6]: Eingefügt durch Ziff. I des BG vom 23. März 2007 ([AS 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [BBl 2006 4259](https://fedlex.data.admin.ch/eli/fga/2006/527)). Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 
 #### Art. 2a
 
@@ -129,9 +130,11 @@ Ausserdem entsteht die Steuerforderung:
 
 **Steuerbehörde**
 
-<sup>1</sup> Steuerbehörde ist die Eidgenössische Zollverwaltung. Sie vollzieht alle Massnahmen, die dieses Gesetz vorsieht, und erlässt alle dafür erforderlichen Weisungen, deren Erlass nicht ausdrücklich einer anderen Behörde vorbehalten ist.
+<sup>1</sup> Steuerbehörde ist das Bundesamt für Zoll und Grenzsicherheit (BAZG). Es vollzieht alle Massnahmen, die dieses Gesetz vorsieht, und erlässt alle dafür erforderlichen Weisungen, deren Erlass nicht ausdrücklich einer anderen Behörde vorbehalten ist.[^5-1]
 
 <sup>2</sup> Auf den Einnahmen aus der Steuer auf Treibstoffen rechnet die Steuerbehörde die Erhebungskosten an.
+
+[^5-1]: Fassung gemäss Ziff. I 22 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 6
 
@@ -362,7 +365,7 @@ Der Bundesrat kann Treibstoffe ganz oder teilweise von der Steuer befreien, wenn
 - c. als Betriebsmittel im Fahrzeugtank oder in einem Reservekanister eingeführt werden;
 - d. in Pilot- und Demonstrationsanlagen aus erneuerbaren Rohstoffen gewonnen werden.
 
-<sup>3</sup> …[^17-5]
+<sup>3</sup> ...[^17-5]
 
 [^17-1]: Eingefügt durch Anhang Ziff. II 6 des Gaststaatgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [BBl 2006 8017](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 [^17-2]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
@@ -629,7 +632,7 @@ Gegen Verfügungen der Zollstellen kann Beschwerde erhoben werden:
 
 **Beschwerde gegen Sicherstellungsverfügungen**
 
-<sup>1</sup> …[^37-1]
+<sup>1</sup> ...[^37-1]
 
 <sup>2</sup> Beschwerden gegen Sicherstellungsverfügungen haben keine aufschiebende Wirkung.
 
@@ -656,9 +659,10 @@ Bei erschwerenden Umständen wird das Höchstmass der angedrohten Busse um die H
 
 <sup>3</sup> Kann der gefährdete oder hinterzogene Steuerbetrag nicht genau ermittelt werden, so wird er durch die Steuerbehörde geschätzt.
 
-<sup>4</sup> Erfüllt eine Handlung zugleich den Tatbestand einer Gefährdung oder Hinterziehung der Steuer und einer durch die Zollverwaltung zu verfolgenden Widerhandlung gegen andere Abgabenerlasse des Bundes, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.
+<sup>4</sup> Erfüllt eine Handlung zugleich den Tatbestand einer Gefährdung oder Hinterziehung der Steuer und einer durch das BAZG zu verfolgenden Widerhandlung gegen andere Abgabenerlasse des Bundes, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.[^38-2]
 
 [^38-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^38-2]: Fassung gemäss Ziff. I 22 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 39
 
@@ -686,9 +690,10 @@ Wer vorsätzlich oder grobfahrlässig einer Vorschrift dieses Gesetzes oder eine
 
 <sup>1</sup> Widerhandlungen werden nach dem Verwaltungsstrafrechtsgesetz vom 22. März 1974 verfolgt und beurteilt.
 
-<sup>2</sup> Verfolgende und urteilende Behörde ist die Eidgenössische Zollverwaltung.
+<sup>2</sup> Verfolgende und urteilende Behörde ist das BAZG.[^42-2]
 
 [^42-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^42-2]: Fassung gemäss Ziff. I 22 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 43
 
@@ -752,7 +757,7 @@ Anhang 1*[^t-1]*
 
 ## Mineralölsteuertarif
 
-[^t-1]: Bereinigt gemäss Anhang Ziff. 1 der V vom 3. Juli 2001 ([AS 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)), Anhang 4 Ziff. I der V vom 28. Juni 2006 ([AS 2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)), Anhang 3 Ziff. 1 der V vom 22. Juni 2011 über die Änderung des Zolltarifs ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), Anhang 3 Ziff. 2 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) und Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft seit 1. Juli 2019 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^t-1]: Bereinigt gemäss Anhang Ziff. 1 der V vom 3. Juli 2001 ([AS 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)), Anhang 4 Ziff. I der V vom 28. Juni 2006 ([AS 2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)), Anhang 3 Ziff. 1 der V vom 22. Juni 2011 über die Änderung des Zolltarifs ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), Anhang 3 Ziff. 2 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)) und Anhang 3 Ziff. 2 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
 <tr><td>Zolltarifnummer[^annex1-lvlu1-1]</td><td>Warenbezeichnung</td><td>Steuersatz Fr.</td></tr>
@@ -917,7 +922,7 @@ Anhang 1*[^t-1]*
 <tr><td colspan="2">2210</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
 <tr><td colspan="2"></td><td>[tab] – – andere:</td><td></td></tr>
 <tr><td colspan="2">2910</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
-<tr><td colspan="2">2909.</td><td>Ether, Etheralkohole, Etherphenole, Etherphenolalkohole, Alkoholperoxide, Etherperoxide, Ketonperoxide (auch chemisch nicht einheitlich) und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate:</td><td></td></tr>
+<tr><td colspan="2">2909.</td><td>Ether, Etheralkohole, Etherphenole, Etherphenolalkohole, Alkoholperoxide, Etherperoxide, Acetalperoxide und Halbacetalperoxide, Ketonperoxide (auch chemisch nicht einheitlich) und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate:</td><td></td></tr>
 <tr><td colspan="2"></td><td>– acyclische Ether und ihre Halogen‑, Sulfo‑, Nitro- oder Nitrosoderivate:</td><td></td></tr>
 <tr><td colspan="2"></td><td>[tab] – – andere:</td><td></td></tr>
 <tr><td colspan="2">1910</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
@@ -934,7 +939,7 @@ Anhang 1*[^t-1]*
 <tr><td colspan="2">4910</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
 <tr><td colspan="2"></td><td>– Etherphenole, Etherphenolalkohole und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate:</td><td></td></tr>
 <tr><td colspan="2">5010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
-<tr><td colspan="2"></td><td>– Alkoholperoxide, Etherperoxide, Ketonperoxide, und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate:</td><td></td></tr>
+<tr><td colspan="2"></td><td>– Alkoholperoxide, Etherperoxide, Acetalperoxide und Halbacetalperoxide, Ketonperoxide, und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate:</td><td></td></tr>
 <tr><td colspan="2">6010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
 <tr><td colspan="2"></td><td></td><td>je 1000 kg</td></tr>
 <tr><td colspan="2">3403.</td><td>Zubereitete Schmiermittel (einschliesslich Schneidöle, Zubereitungen zum Lösen von Schrauben, zubereitete Rostschutz- oder Korrosionsschutzmittel und Formentrennmittel, auf der Grundlage von Schmierstoffen) und Zubereitungen der als Schmälzmittel für Spinnstoffe, Mittel zum Ölen oder Fetten von Leder, Pelzen oder anderen Stoffen verwendeten Art, ausgenommen solche, die als wesentlichen Bestandteil 70 Gewichtsprozent oder mehr Erdöl oder Öl aus bituminösen Mineralien enthalten:</td><td></td></tr>
@@ -957,7 +962,7 @@ Anhang 1*[^t-1]*
 <tr><td colspan="2">3826.</td><td>Biodiesel und seine Mischungen, keine Erdöle oder Öle aus bituminösen Mineralien enthaltend oder mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von weniger als 70 %:</td><td></td></tr>
 <tr><td colspan="2">0010</td><td>– zur Verwendung als Treibstoff</td><td>458.70</td></tr>
 <tr><td colspan="2">0090</td><td>– zu anderen Zwecken (nur fossiler Anteil)</td><td>3.00</td></tr>
-<tr><td colspan="2">…</td><td>Treibstoffe aus anderen Ausgangsstoffen</td><td>420.60</td></tr>
+<tr><td colspan="2">...</td><td>Treibstoffe aus anderen Ausgangsstoffen</td><td>420.60</td></tr>
 </table>
 
 [^annex1-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
@@ -1011,6 +1016,6 @@ Anhang 2
 
 ## Änderung bisherigen Rechts
 
-…[^annex2-lvlu1-1]
+...[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Die Änderungen können unter [AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)konsultiert werden.
