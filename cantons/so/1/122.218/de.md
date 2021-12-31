@@ -3,20 +3,20 @@ canton: SO
 number: "122.218"
 title: Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen
 language: de
-version: 2021-11-01
-valid_until: 2021-12-31
-version_adopted: 2021-08-24
+version: 2022-01-01
+valid_until: 2023-07-31
+version_adopted: 2021-10-25
 adopted: 2004-05-25
 in_force: 2004-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/122.218"
-pdf: "https://bgs.so.ch/api/de/versions/5130/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5155/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen
 
-Vom 25.05.2004 (Stand 01.11.2021)
+Vom 25.05.2004 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -96,15 +96,20 @@ beschliesst:
 <sup>1</sup> Namens des Departementes werden unterzeichnet:
 
 - a) vom Chef oder von der Chefin des Gesundheitsamtes:
-  - 1\. Betriebs- und Berufsausübungsbewilligungen sowie Bewilligungen von Zweigpraxen;
+  - 1\. …
   - 1<sup>bis</sup>. Massnahmen im Zusammenhang mit Bewilligungsentzugs- und Disziplinarverfahren gemäss der Gesundheitsgesetzgebung;
-  - 2\. Verfügungen über die Zulassung bzw. Nicht-Zulassung von Leistungserbringern zur Tätigkeit zu Lasten der obligatorischen Krankenpflegeversicherung;
+  - 2\. Verfügungen über Zulassungsentzugs- und Disziplinarverfahren gemäss der Krankenversicherungsgesetzgebung;
   - 3\. …
   - 4\. die dem Departementssekretär oder der Departementssekretärin im Amtsbereich zugewiesenen Verrichtungen;
   - 5\. die den einzelnen Leitern oder Leiterinnen der Abteilungen des Amtes zugewiesenen Verrichtungen;
-  - 6\. Bewilligungen für Fumoirs.
-- b) vom Leiter oder von der Leiterin der Abteilung Pharmazeutischer Dienst:
-  - 1\. Verfügungen nach der Gesetzgebung über Heilmittel- und Betäubungsmittel.
+  - 6\. …
+- b) …
+- b<sup>bis</sup>) vom Leiter oder von der Leiterin der Abteilung Gesundheitsversorgung:
+  - 1\. Betriebs- und Berufsausübungsbewilligungen sowie Bewilligungen von Zweigpraxen;
+  - 2\. Verfügungen gemäss der Heilmittel- und Betäubungsmittelgesetzgebung;
+  - 3\. Verfügungen über die Zulassung bzw. Nichtzulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung;
+  - 4\. Verfügungen und Anordnungen im Bereich der ambulanten Pflege (Spitex), der Langzeitpflege (Alters- und Pflegeheime) sowie in den übrigen Belangen im Zusammenhang mit dem Alter;
+  - 5\. Verfügungen und Anordnungen im Zusammenhang mit Einzelfallanerkennungen für Solothurner und Solothurnerinnen mit ausserkantonalem Heimaufenthalt.
 - c) vom Leiter oder von der Leiterin der Abteilung Kantonsärztlicher Dienst:
   - 1\. Verfügungen im Bereich der Spitalaufenthalte nach der Gesetzgebung über die Krankenversicherung;
   - 1<sup>bis</sup>. Verfügungen betreffend den ärztlichen Nachweis für eine einwandfreie Berufsausübung von Gesundheitsfachpersonen mit vollendetem 75. Altersjahr;
@@ -116,74 +121,72 @@ beschliesst:
   - 6\. Bewilligungen zur Behandlung betäubungsmittelabhängiger Personen mit Betäubungsmitteln.
 - c<sup>bis</sup>) vom für das Bewilligungswesen zuständigen Sachbearbeiter oder von der für das Bewilligungswesen zuständigen Sachbearbeiterin:
   - 1\. Mitteilungen betreffend die Tätigkeitsaufnahme von 90-Tage-Dienstleistenden;
-  - 2\. Mitteilungen betreffend die Tätigkeitsaufnahme von auskunfts- und meldepflichtigen Personen;
-- d) vom Leiter oder von der Leiterin Rechtsdienst oder vom juristischen Sekretär oder von der juristischen Sekretärin:
+  - 2\. Mitteilungen betreffend die Tätigkeitsaufnahme von auskunfts- und meldepflichtigen Personen.
+- c<sup>ter</sup>) vom Leiter oder von der Leiterin der Abteilung Lebensmittelkontrolle:
+  - 1\. Bewilligungen für Fumoirs.
+- c<sup>quater</sup>) vom Leiter oder von der Leiterin der Abteilung Gesundheitsförderung und Prävention:
+  - 1\. Verfügungen und Anordnungen im Bereich der Gesundheitsförderung und Prävention, insbesondere Suchtprävention.
+- c<sup>quinquies</sup>) vom Leiter oder von der Leiterin der Abteilung Zentrale Dienste:
+  - 1\. Verfügungen und Anordnungen im Zusammenhang mit der Befreiung von der obligatorischen Krankenpflegeversicherung und der Verlustscheinübernahme;
+  - 2\. Verfügungen und Anordnungen betreffend die Finanzierung von ambulanten und stationären Leistungen;
+  - 3\. Verfügungen und Anordnungen im Zusammenhang mit der Tätigkeit als Clearingstelle der Pflegefinanzierung.
+- d) vom Leiter oder von der Leiterin Rechtsdienst oder von den durch ihn oder sie bezeichneten juristischen Mitarbeitenden:
   - 1\. Entbindungen von der ärztlichen Schweigepflicht;
+  - 1<sup>bis</sup>. Massnahmen im Zusammenhang mit Bewilligungsentzugs- und Disziplinarverfahren gemäss der Gesundheitsgesetzgebung;
+  - 1<sup>ter</sup>. Verfügungen über Zulassungsentzugs- und Disziplinarverfahren gemäss der Krankenversicherungsgesetzgebung;
+  - 1<sup>quater</sup>. Genehmigungsentscheide betreffend kommunale Reglemente in den Bereichen schulärztlicher Dienst und Schulzahnpflege;
+  - 1<sup>quinquies</sup>. Verfügungen und Anordnungen im Zusammenhang mit Aufsichtsbeschwerden im Bereich des Kindes- und Erwachsenenschutzes;
+  - 1<sup>sexies</sup>. Beschwerdeentscheide im Bereich des Notfalldienstes;
+  - 1<sup>septies</sup>. Beschwerdeentscheide in den Bereichen schulärztlicher Dienst und Schulzahnpflege;
+  - 1<sup>octies</sup>. Beschwerdeentscheide im Bereich der Ausbildungsverpflichtung in Spitälern, Heimen und bei der Spitex;
+  - 1<sup>novies</sup>. Beschwerdeentscheide im Bereich der Hundehaltung, für welche das Departement zuständig ist;
   - 2\. …
   - 3\. Beschwerdeentscheide nach der kantonalen Lebensmittelgesetzgebung;
   - 4\. Beschwerdeentscheide im Bereich der Sozialhilfe;
-  - 5\. Entscheide betreffend die Rückerstattung von unrechtmässig bezogenen Sozialhilfeleistungen.
-- d<sup>bis</sup>) vom Leiter oder von der Leiterin der Abteilung Lotterie- und Sportfonds:
+  - 5\. …
+  - 6\. Beschwerdeentscheide im Rahmen von § 6 Absatz 2 Buchstabe a des Justizvollzugsgesetzes[^4-2];
+  - 7\. Beschwerdeentscheide im Rahmen von § 50 Absatz 1 des Gesetzes über die Kantonspolizei[^4-3];
+  - 8\. Aufsichtsbeschwerdeentscheide, für welche das Departement zuständig ist;
+  - 9\. Bewilligungen zur Aussage vor Gericht.
+- d<sup>bis</sup>) vom Leiter oder von der Leiterin der Abteilung Swisslos-Fonds:
   - 1\. Verfügungen und Anordnungen nach den Reglementen des Schläflifonds, des Winkelriedfonds, des Max-Müller-Fonds und des Olga-Ziegler-Fonds.
-- d<sup>ter</sup>) vom Departementssekretär oder von der Departementssekretärin oder vom Leiter oder von der Leiterin Rechtsdienst
-  - 1\. …
-  - 1<sup>bis</sup>. Genehmigungsentscheide betreffend kommunale Reglemente in den Bereichen schulärztlicher Dienst und Schulzahnpflege;
-  - 2\. …
-  - 2<sup>bis</sup>. Massnahmen im Zusammenhang mit Bewilligungsentzugs- und Disziplinarverfahren gemäss der Gesundheitsgesetzgebung;
-  - 2<sup>ter</sup>. Beschwerdeentscheide im Bereich des Notfalldienstes;
-  - 2<sup>quater</sup>. Beschwerdeentscheide in den Bereichen schulärztlicher Dienst und Schulzahnpflege;
-  - 2<sup>quinquies</sup>. Beschwerdeentscheide im Bereich der Ausbildungsverpflichtung in Spitälern, Heimen und bei der Spitex;
-  - 2<sup>sexies</sup>. Beschwerdeentscheide im Bereich der Hundehaltung, für welche das Departement des Innern zuständig ist;
-  - 3\. Beschwerdeentscheide im Rahmen von § 6 Absatz 2 Buchstabe a des Justizvollzugsgesetzes[^4-2];
-  - 3<sup>bis</sup>. Beschwerdeentscheide im Rahmen von § 50 Absatz 1 des Gesetzes über die Kantonspolizei[^4-3];
-  - 4\. Bewilligungen zur Aussage vor Gericht; diese Verrichtungen können auch vom juristischen Sekretär oder der juristischen Sekretärin übernommen werden;
-  - 5\. Aufsichtsbeschwerdeentscheide.
+- d<sup>ter</sup>) …
 - e) …
-- f) vom Chef oder der Chefin des Amtes für soziale Sicherheit
+- f) vom Chef oder der Chefin des Amtes für Gesellschaft und Soziales
   - 1\. die dem Departementssekretär oder der Departementssekretärin im Amtsbereich zugewiesenen Verrichtungen;
   - 2\. der Abschluss von Leistungsvereinbarungen;
   - 3\. die den einzelnen Leitern oder Leiterinnen der Abteilungen des Amtes zugewiesenen Verrichtungen.
-- g) vom Leiter oder von der Leiterin der Abteilung Soziale Förderung und Generationen Verfügungen und Anordnungen nach der Gesetzgebung über
+- g) vom Leiter oder von der Leiterin der Abteilung Soziale Einrichtungen und Opferhilfe Verfügungen und Anordnungen nach der Gesetzgebung über
   - 1\. …
-  - 2\. die Familie;
+  - 2\. …
   - 3\. Kinderbetreuung;
   - 4\. die Pflegekinder;
   - 5\. die Adoption;
-  - 6\. den Kindes- und Erwachsenenschutz;
-  - 7\. die Jugendhilfe und -förderung;
-  - 8\. die Gleichstellung, soweit nicht an die Oberämter delegiert;
-  - 9\. das Alter;
-  - 10\. …
-  - 11\. …
-  - 12\. Opferhilfe;
-  - 13\. …
-- g<sup>bis</sup>) vom Leiter oder von der Leiterin der Abteilung Sozialintegration und Prävention Verfügungen und Anordnungen nach der Gesetzgebung über
-  - 1\. die Prävention (insbesondere Sucht und Gewalt);
-  - 2\. die Integration.
-- h) vom Leiter oder von der Leiterin der Abteilung Soziale Organisationen und Sozialversicherungen Verfügungen und Anordnungen nach der Gesetzgebung über
-  - 1\. Menschen mit Behinderungen;
-  - 2\. die interkantonale Vereinbarung über soziale Institutionen IVSE;
-  - 3\. die ambulante Pflege (Spitex);
-  - 4\. die Langzeitpflege (Alters- und Pflegeheime);
-  - 5\. …
   - 6\. …
   - 7\. …
   - 8\. …
   - 9\. …
+  - 9<sup>bis</sup>. Menschen mit Behinderungen;
+  - 9<sup>ter</sup>. die interkantonale Vereinbarung über soziale Institutionen IVSE;
+  - 9<sup>quater</sup>. die stationäre Kinder- und Jugendbetreuung;
   - 10\. …
   - 11\. …
-  - 12\. …
+  - 12\. Opferhilfe;
   - 13\. …
-  - 14\. stationäre Kinder- und Jugendbetreuung;
-  - 15\. Krankenversicherung;
-  - 16\. Einzelfallanerkennungen für Solothurner und Solothurnerinnen mit ausserkantonalem Heimaufenthalt;
-  - 17\. Clearingstelle der Pflegefinanzierung;
-  - 18\. Ergänzungsleistungen und Familienergänzungsleistungen.
-- i) vom Leiter oder von der Leiterin der Abteilung Sozialleistungen und Existenzsicherung Verfügungen und Anordnungen nach der Gesetzgebung über
+- g<sup>bis</sup>) vom Leiter oder von der Leiterin der Abteilung Gesellschaftsfragen Verfügungen und Anordnungen nach der Gesetzgebung über
+  - 1\. die Prävention, insbesondere Gewaltprävention;
+  - 2\. die Integration;
+  - 3\. die Familie;
+  - 4\. die Jugendhilfe und -förderung;
+  - 5\. die Gleichstellung, soweit nicht an die Oberämter delegiert.
+- h) …
+- i) vom Leiter oder von der Leiterin der Abteilung Soziale Leistungen Verfügungen und Anordnungen nach der Gesetzgebung über
   - 1\. …
   - 2\. …
   - 3\. die Sozialhilfe;
-  - 4\. Asyl und Flüchtlinge.
+  - 4\. Asyl und Flüchtlinge;
+  - 5\. die Familienergänzungsleistungen;
+  - 6\. den Kindes- und Erwachsenenschutz.
 - j) vom Vorsteher oder von der Vorsteherin des Oberamtes Verfügungen und Anordnungen nach der Gesetzgebung über
   - 1\. die Alimentenbevorschussung und das Alimenteninkasso;
   - 2\. Miete und Pacht;
@@ -223,7 +226,7 @@ beschliesst:
 <sup>2</sup> …
 
 [^4-1]: BGS [111.1](https://bgs.so.ch/data/111.1/de).
-[^4-2]: BGS [331.12](https://bgs.so.ch/data/331.12/de).
+[^4-2]: BGS [331.11](https://bgs.so.ch/data/331.11/de).
 [^4-3]: BGS [511.11](https://bgs.so.ch/data/511.11/de).
 [^4-4]: BGS [331.11](https://bgs.so.ch/data/331.11/de).
 
