@@ -4,13 +4,13 @@ number: "175"
 title: Verwaltungsverfahrensgesetz Basel-Landschaft
 short: VwVG BL
 language: de
-version: 2012-01-01
-valid_until: 2021-12-31
-version_adopted: 2011-09-22
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2020-09-10
 adopted: 1988-06-13
 in_force: 1989-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/175"
-pdf: "https://bl.clex.ch/api/de/versions/3066/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3900/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3066/pdf_file"
 
 (VwVG BL)
 
-Vom 13.06.1988 (Stand 01.01.2012)
+Vom 13.06.1988 (Stand 01.01.2022)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -101,6 +101,8 @@ beschliesst:[^ingress-2]
 <sup>4</sup> Gelangt eine Partei rechtzeitig an eine unzuständige Behörde, so gilt die Frist als gewahrt.
 
 <sup>5</sup> Ist eine Partei unverschuldet verhindert gewesen, fristgemäss zu handeln, kann sie innert 10 Tagen seit Wegfall des Hindernisses die Wiederherstellung der Frist verlangen.
+
+<sup>6</sup> Bei elektronischer Einreichung einer Eingabe sowie bei elektronischer Eröffnung einer Verfügung ist für die Wahrung einer Frist der Zeitpunkt massgebend, in dem die Online-Service-Plattform oder eine vom Kanton anerkannte Zustellplattform den Empfang bestätigt.
 
 [^5-1]: [SGS 170](https://bl.clex.ch/data/170/de)
 
@@ -215,7 +217,23 @@ zu schaffen oder zu erhalten.
 
 <sup>1</sup> Eingaben der Parteien mit rechtlichen Begehren sind schriftlich einzureichen und müssen ein klar umschriebenes Begehren, die Angabe der Tatsachen und Beweismittel, eine Begründung sowie die Unterschrift der Parteien oder ihres Vertreters enthalten.
 
+<sup>1<sup>bis</sup></sup> Solche Eingaben können elektronisch eingereicht werden, wenn die Behörde dies im betreffenden Verfahren anbietet.
+
 <sup>2</sup> Die Behörde weist unklare oder unvollständige Eingaben zur Verbesserung zurück. Sie setzt eine kurze Nachfrist und verbindet diese mit der Androhung, nach unbenütztem Fristablauf aufgrund der Akten zu entscheiden oder, falls Begehren, Begründung, Unterschrift oder Vollmacht fehlen, auf die Eingabe nicht einzutreten.
+
+#### § 15a
+
+**Modalitäten der elektronischen Eingabe**
+
+<sup>1</sup> Elektronische Eingaben im Sinn von § 15 Absatz 1<sup>bis</sup> können unter Verwendung einer elektronischen Signatur über eine vom Kanton anerkannte Zustellplattform eingereicht werden.
+
+<sup>2</sup> Die Behörde kann verlangen, dass die elektronisch eingereichte Eingabe samt zugehörigen Dokumenten vollumfänglich oder teilweise in Papierform nachgereicht wird.
+
+<sup>3</sup> Der Regierungsrat regelt die Anforderungen an die elektronische Eingabe, insbesondere:
+
+- a die elektronische Signatur;
+- b die zulässigen Dokumententypen und Kommunikationskanäle;
+- c die Voraussetzungen, unter denen die Behörde ausnahmsweise verlangen kann, dass eine elektronisch eingereichte Eingabe in Papierform nachzureichen ist.
 
 #### § 16
 
@@ -249,9 +267,13 @@ zu schaffen oder zu erhalten.
 
 <sup>1</sup> Verfügungen werden den Parteien bzw. deren Vertretungen und der Vorinstanz schriftlich eröffnet.
 
+<sup>1<sup>bis</sup></sup> Die Eröffnung von Verfügungen kann auf elektronischem Weg erfolgen, wenn die Partei damit einverstanden ist. Der Regierungsrat regelt die Anforderungen an die elektronische Eröffnung von Verfügungen.
+
 <sup>2</sup> Verfügungen werden durch Publikation im kantonalen Amtsblatt eröffnet, wenn eine Partei nicht erreichbar ist oder wenn es sich um eine Verfügung handelt, die sich an eine grosse Zahl von Parteien richtet.
 
 <sup>3</sup> Bei beschwerdeberechtigten Dritten, die der Behörde nicht bekannt sind, wird die Entdeckung des durch die Verfügung geregelten Sachverhalts der Eröffnung der Verfügung gleichgestellt.
+
+<sup>4</sup> Parteien mit Wohnsitz oder Sitz im Ausland haben auf Verlangen der Behörde ein Zustellungsdomizil oder eine Vertretung in der Schweiz zu bezeichnen. Kommt eine Partei der Aufforderung nicht nach, kann die Zustellung durch Publikation im kantonalen Amtsblatt ersetzt werden.
 
 ### 2.5 Kosten
 
