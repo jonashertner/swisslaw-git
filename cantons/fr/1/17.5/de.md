@@ -4,13 +4,13 @@ number: "17.5"
 title: Gesetz über die Information und den Zugang zu Dokumenten
 short: InfoG
 language: de
-version: 2017-01-01
-valid_until: 2021-12-31
-version_adopted: 2016-10-05
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-10-07
 adopted: 2009-09-09
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/17.5"
-pdf: "https://bdlf.fr.ch/api/de/versions/5830/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7470/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Information und Zugang zu Dokumenten – G
 
 (InfoG)
 
-vom 09.09.2009 (Fassung in Kraft getreten am 01.01.2017)
+vom 09.09.2009 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -435,7 +435,7 @@ beschliesst:
 
 **Entscheid der Kommission**
 
-<sup>1</sup> Die Empfehlung der oder des Beauftragten und der Entscheid des öffentlichen Organs werden durch einen Entscheid der kantonalen Öffentlichkeits- und Datenschutzkommission ersetzt, wenn das Zugangsgesuch an folgende Stellen gerichtet wurde:
+<sup>1</sup> Die Empfehlung der oder des Beauftragten und der Entscheid des öffentlichen Organs werden durch einen Entscheid der kantonalen Öffentlichkeits-, Datenschutz- und Mediationskommission ersetzt, wenn das Zugangsgesuch an folgende Stellen gerichtet wurde:
 
 - a) eine Person oder ein Organ nach Artikel 2 Abs. 1 Bst. c, sofern diese Person oder dieses Organ keine Entscheidungsbefugnis hat;
 - b) eine Privatperson nach Artikel 20 Abs. 1bis.
@@ -450,7 +450,7 @@ beschliesst:
 
 <sup>2</sup> Entscheide eines Organs, für die diese Bestimmungen kein Rechtsmittel vorsehen, insbesondere eines Organs des Grossen Rates oder der richterlichen Gewalt, sind unmittelbar beim Kantonsgericht anfechtbar.
 
-<sup>3</sup> Personen nach den Artikeln 2 Abs. 1 Bst. c und 20 Abs. 1bis sind zur Beschwerde gegen Entscheide, die gegen sie von der kantonalen Öffentlichkeits- und Datenschutzkommission getroffen wurden, berechtigt.
+<sup>3</sup> Personen und Organe nach den Artikeln 2 Abs. 1 Bst. c und 20 Abs. 1<sup>bis</sup> sind zur Beschwerde gegen Entscheide, die gegen sie von der kantonalen Öffentlichkeits-, Datenschutz- und Mediationskommission getroffen wurden, berechtigt.
 
 #### Art. 35
 
@@ -501,7 +501,7 @@ beschliesst:
 
 **Fachorgane – Im Allgemeinen**
 
-<sup>1</sup> Die übrigen Massnahmen zur Umsetzung des Rechts auf Zugang zu amtlichen Dokumenten werden von der Kantonalen Behörde für Öffentlichkeit und Datenschutz getroffen; diese übt ausserdem die Aufsicht über diese Umsetzung aus.
+<sup>1</sup> Die übrigen Massnahmen zur Umsetzung des Rechts auf Zugang zu amtlichen Dokumenten werden von der Kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation getroffen; diese übt ausserdem die Aufsicht über diese Umsetzung aus.
 
 <sup>2</sup> Die Kantonale Behörde übt die Aufgaben, die ihr aufgrund dieses Gesetzes übertragen sind, über die kantonale Kommission und die Beauftragte oder den Beauftragten für Öffentlichkeit und Transparenz aus; im Übrigen wird sie unter Vorbehalt der nachfolgenden Bestimmungen durch die Datenschutzgesetzgebung geregelt.
 
@@ -513,10 +513,11 @@ beschliesst:
 
 **Fachorgane – Kantonale Kommission**
 
-<sup>1</sup> Im Bereich des Rechts auf Zugang zu amtlichen Dokumenten hat die kantonale Öffentlichkeits- und Datenschutzkommission folgende Aufgaben:
+<sup>1</sup> Im Bereich des Rechts auf Zugang zu amtlichen Dokumenten hat die kantonale Öffentlichkeits-, Datenschutz- und Mediationskommission folgende Aufgaben:
 
 - a) Sie stellt die Koordination zwischen der Ausübung des Rechts auf Zugang zu amtlichen Dokumenten und den Erfordernissen des Datenschutzes sicher.
 - b) Sie leitet die Tätigkeit der oder des Beauftragten für Öffentlichkeit und Transparenz .
+- b<sup>bis</sup>) Sie führt das Verfahren zur Ernennung der oder des Beauftragten für Öffentlichkeit und Transparenz für den Staatsrat durch und nimmt zuhanden des Staatsrats Stellung zu den von ihr bevorzugten Kandidatinnen und Kandidaten.
 - c) Sie äussert sich zu Vorhaben, insbesondere Erlassentwürfen, die sich auf das Recht auf Zugang zu amtlichen Dokumenten auswirken.
 - c<sup>bis</sup>) Sie erlässt die Entscheide über das Zugangsrecht nach Artikel 33a.
 - d) Sie übt die Oberaufsicht über die Fachorgane der Gemeinden aus; diese Organe geben ihr einen Tätigkeitsbericht ab.

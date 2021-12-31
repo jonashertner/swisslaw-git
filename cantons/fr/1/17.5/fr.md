@@ -4,13 +4,13 @@ number: "17.5"
 title: "Loi sur l'information et l'accès aux documents"
 short: LInf
 language: fr
-version: 2017-01-01
-valid_until: 2021-12-31
-version_adopted: 2016-10-05
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-10-07
 adopted: 2009-09-09
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/17.5"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5830/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7470/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Information et accès aux documents – L
 
 (LInf)
 
-du 09.09.2009 (version entrée en vigueur le 01.01.2017)
+du 09.09.2009 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -435,7 +435,7 @@ Décrète:
 
 **Décision de la Commission**
 
-<sup>1</sup> La recommandation du ou de la préposé-e et la décision de l'organe public sont remplacées par une décision de la Commission cantonale de la transparence et de la protection des données dans les cas où la demande d'accès a été adressée à:
+<sup>1</sup> La recommandation du ou de la préposé‑e et la décision de l'organe public sont remplacées par une décision de la Commission cantonale de la transparence, de la protection des données et de la médiation dans les cas où la demande d'accès a été adressée à:
 
 - a) une personne ou un organe mentionné à l'article 2 al. 1 let. c, lorsque cette personne ou cet organe est dépourvu de compétences décisionnelles;
 - b) une personne privée visée par l'article 20 al. 1bis.
@@ -450,7 +450,7 @@ Décrète:
 
 <sup>2</sup> Lorsqu'elles émanent d'un organe pour lequel ces règles ne prévoient pas de voies de droit, notamment lorsqu'il s'agit d'un organe du Grand Conseil ou du Pouvoir judiciaire, ces décisions sont sujettes à recours directement auprès du Tribunal cantonal.
 
-<sup>3</sup> Les personnes et organes mentionnés aux articles 2 al. 1 let. c et 20 al. 1bis ont qualité pour recourir contre les décisions prises à leur égard par la Commission cantonale de la transparence et de la protection des données.
+<sup>3</sup> Les personnes et organes mentionnés aux articles 2 al. 1 let. c et 20 al. 1<sup>bis</sup> ont qualité pour recourir contre les décisions prises à leur égard par la Commission cantonale de la transparence, de la protection des données et de la médiation.
 
 #### Art. 35
 
@@ -501,7 +501,7 @@ Décrète:
 
 **Organes spécialisés – En général**
 
-<sup>1</sup> Les autres mesures de mise en œuvre du droit d'accès aux documents officiels ainsi que la surveillance de cette mise en œuvre sont assurées par l'Autorité cantonale de la transparence et de la protection des données.
+<sup>1</sup> Les autres mesures de mise en œuvre du droit d'accès aux documents officiels ainsi que la surveillance de cette mise en œuvre sont assurées par l'Autorité cantonale de la transparence, de la protection des données et de la médiation.
 
 <sup>2</sup> L'Autorité cantonale exerce les tâches qui lui incombent en vertu de la présente loi par l'intermédiaire de la Commission cantonale et du ou de la préposé-e à la transparence; pour le reste et sous réserve des dispositions qui suivent, elle est régie par la législation sur la protection des données.
 
@@ -513,10 +513,11 @@ Décrète:
 
 **Organes spécialisés – Commission cantonale**
 
-<sup>1</sup> Dans le domaine du droit d'accès aux documents officiels, la Commission cantonale de la transparence et de la protection des données a pour tâches:
+<sup>1</sup> Dans le domaine du droit d'accès aux documents officiels, la Commission cantonale de la transparence, de la protection des données et de la médiation a pour tâches:
 
 - a) d'assurer la coordination entre l'exercice du droit d'accès aux documents officiels et les exigences de la protection des données;
 - b) de diriger l'activité du ou de la préposé-e à la transparence;
+- b<sup>bis</sup>) de mener la procédure de nomination du ou de la préposé‑e à la transparence pour le Conseil d'Etat et de préaviser à son intention la ou les candidatures qu'elle privilégie;
 - c) de donner son avis sur les projets, notamment d'actes législatifs, qui ont un impact sur le droit d'accès aux documents officiels;
 - c<sup>bis</sup>) de rendre les décisions en matière de droit d'accès prévues à l'article 33a;
 - d) d'exercer la haute surveillance sur les organes spécialisés communaux, dont elle reçoit le rapport d'activité;
