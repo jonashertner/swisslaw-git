@@ -3,13 +3,13 @@ canton: AI
 number: "175.230"
 title: Grossratsbeschluss über Grenzbeschriebe der Schulgemeinden des Kantons Appenzell I. Rh.
 language: de
-version: 2018-03-26
-valid_until: 2021-12-31
-version_adopted: 2018-03-26
+version: 2022-01-01
+valid_until: 2022-04-30
+version_adopted: 2021-10-25
 adopted: 1921-11-29
 in_force: 1921-11-29
 url: "https://ai.clex.ch/app/de/texts_of_law/175.230"
-pdf: "https://ai.clex.ch/api/de/versions/1061/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/1995/pdf_file"
 text: pdf
 ---
 
@@ -17,21 +17,25 @@ text: pdf
 
 # Grossratsbeschluss über Grenzbeschriebe der Schulgemeinden des Kantons Appenzell I. Rh.
 
-## Grossratsbeschluss über Grenzbeschriebe der Schulgemeinden des Kantons Appenzell I. Rh.
+## Grossratsbeschluss über Grenzbeschriebe der Schulgemeinden des Kantons Appenzell I.Rh.
 
-vom 29. November 19211
+vom 29. November 1921[^hGrossratsbeschlussü-1] (Stand 1. Januar 2022)
 
-Der Grosse Rat des Kantons Appenzell I. Rh.
+Der Grosse Rat des Kantons Appenzell I. Rh.,
 
-gestützt auf Art. 27 Abs. 2 der Kantonsverfassung vom 24. Wintermonat 1872,2
+gestützt auf Art. 27 Abs. 2 der Kantonsverfassung vom 24. Wintermonat 1872,[^hGrossratsbeschlussü-2]
 
 beschliesst:
 
-### Abgrenzung der Schulkreise:
+[^hGrossratsbeschlussü-1]: Mit Revisionen vom 25. November 1940, 27. November 1951, 6. Oktober 1972, 18. November 2002, 23. Juni 2003, 19. Oktober 2009, 1. Dezember 2014, 26. März 2018 und 25. Oktober 2021.
+[^hGrossratsbeschlussü-2]: Ingress abgeändert durch Schulgesetz vom 29. April 1984. Ingress abgeändert durch GrRB vom 1. Dezember 2014.
+[^hGrossratsbeschlussü-3]: Abgeändert durch GrRB vom 18. November 2002 (Eingemeindung der Schulgemeinde Enggenhütten). Abgeändert durch GrRB vom 19. Oktober 2009 (Aufhebung der Schulgemeinde Kau; Inkrafttreten: 1. Januar 2010). Abgeändert durch GrRB vom 25. Oktober 2021 (Zusammenlegung Schulgemeinden Schlatt und Haslen; Inkrafttreten: 1. Januar 2022).
 
-### Schulgemeinde Appenzell3
+### Abgrenzung der Schulkreise: Schulgemeinde Appenzell
 
-Von der Liegenschaft steinernes Brüggli (Witwe Fässler-Manser) am Bleichewäldlibächlein verläuft die Schulgemeindegrenze von Appenzell gemeinsam mit derjenigen von Meistersrüte der Bezirksgrenze entlang aufwärts über die zu Appenzell gehörigen Liegenschaften Gaisböhlweidli, Guggerloch, Strahlhütten, Kostershütten, Hag, Braunloch, Flecken, Bleuer, an den Rötelbach, sodann gemeinsam mit der Schulkreisgrenze von Steinegg dem Rötelbach entlang bis zu dessen Einmündung in die Sitter, die Liegenschaft Unter-Im ganz zu Appenzell, Heebs Forrenwald zu Steinegg gehörig. Vom Einfluss des Rötelbaches in die Sitter bildet der Sitterlauf die Schulgemeindegrenze bis zur Einmündung des Weissbaches; sie folgt diesem letztern entlang aufwärts bis zum Punkt, an dem sich der Weissbach und die westliche Grenze des Kapuzinerwaldes treffen. Ab hier läuft sie entlang der Grenze des Kapuzinerwaldes bis zur östlichen Grenze der Weid Gigen und der Weid Vordere Wartegg, dann entlang der südlichen Grenze der Weid Blatten bis zum Grat auf Wasserschaffen, das heisst bis zur Eckmarke in der vorderen Wasserschaffen, wo die drei Bezirke Appenzell, Gonten und Schwende ihre Grenze gemeinsam haben, in dem Sinne, dass folgende Weiden und Alpen dem Schulkreise Appenzell zugeteilt werden:
+[^hGrossratsbeschlussü-3]
+
+Von der Liegenschaft steinernes Brüggli (Witwe Fässler-Manser) am Bleichewäldlibächlein verläuft die Schulgemeindegrenze von Appenzell gemeinsam mit derjenigen von Meistersrüte der Bezirksgrenze entlang aufwärts über die zu Appenzell gehörigen Liegenschaften Gaisböhlweidli, Guggerloch, Strahlhütten, Kostershütten, Hag, Braunloch, Flecken, Bleuer, an den Rötelbach, sodann gemeinsam mit der Schulkreisgrenze von Steinegg dem Rötelbach entlang bis zu dessen Einmündung in die Sitter, die Liegenschaft Unter-Im ganz zu Appenzell, Heebs Forrenwald zu Steinegg gehörig. Vom Einfluss des Rötelbaches in die Sitter bildet der Sitterlauf die Schulgemeindegrenze bis zur Einmündung des Weissbaches; sie folgt diesem letzten entlang aufwärts bis zum Punkt, an dem sich der Weissbach und die westliche Grenze des Kapuzinerwaldes treffen. Ab hier läuft sie entlang der Grenze des Kapuzinerwaldes bis zur östlichen Grenze der Weid Gigen und der Weid Vordere Wartegg, dann entlang der südlichen Grenze der Weid Blatten bis zum Grat auf Wasserschaffen, das heisst bis zur Eckmarke in der vorderen Wasserschaffen, wo die drei Bezirke Appenzell, Gonten und Schwende ihre Grenze gemeinsam haben, in dem Sinne, dass folgende Weiden und Alpen dem Schulkreise Appenzell zugeteilt werden:
 
 - 1\. Ahorn (Stark Franz Anton, Haggen),
 
@@ -73,9 +77,13 @@ Von der Liegenschaft steinernes Brüggli (Witwe Fässler-Manser) am Bleichewäld
 
 - 20\. Pfarrersnord.
 
-Von der besagten Eckmarke auf Wasserschaffen zieht sich die Schulgemeindegrenze von Appenzell in gerader Richtung den Hang hinunter bis zum Ursprung der Zöpfliquellen, diesem Wasserlauf entlang zum Kaubach, welcher abwärts bis zur Einmündung des Rotbächleins die Grenze bildet. Von hier weg verläuft die Schulkreisgrenze gemeinsam mit der Kirchgemeindegrenze gegen Gonten dem Rotbächlein entlang aufwärts bis zum Fussweg zwischen dem Schattenwald einerseits und der Liegenschaft Hundshenke andererseits, die Liegenschaften Rotbach, im Schlund, Halten oder Beslers, Beslersweid, Schatten, Hundshenke und Himmelberg zum Schulkreis Gonten, die Liegenschaften Kantenstell, Steinebrüggle, Geissfeld, Schaienhöhe und der Schattenwald zum Schulkreis Appenzell gehörig. Vom Grat auf der Liegenschaft Schatten folgt sie der Bezirksgrenze bis zur Liegenschaft Ebnet, letztere zu Gonten gehörig, geht dann ins Tobel hinunter und dem Bach entlang aufwärts bis zur westlichen Grenze des Bauamtswaldes, letzterer entlang aufwärts bis zum Grat und diesem wieder entlang bis zum Markstein Nr. 13 auf Steigershöhe. Von hier bis zur Einmündung des Buchbaches in die Sitter fällt die Schulgemeindegrenze mit der Kantonsgrenze zusammen, verläuft dann der Sitter entlang aufwärts bis zur Einmündung des Zungbaches. Von hier ab bildet der Zungbach die Grenze zwischen den Schulkreisen Schlatt und Appenzell bis zur Liegenschaft obere Schlepfen, woselbst die Grenze gemeinsam mit derjenigen von Meistersrüte gegen den Burgstock hin abzweigt, die Liegenschaft obere Schlepfen zu Appenzell, die Liegenschaft Schopf, Rhintlersweid, sowie die ganze Liegenschaft Burg samt Weid zu Meistersrüte gehörig. Vom Zungbach weg verläuft die Grenze über die zu Appenzell gehörigen Liegenschaften Hell, Kapf, Ebnet, Opersegg, Schötzlers, abs-Schötzlers, Köhlen, obere Lauften bis zur Liegenschaft steinernes Brüggli an der Gaiserstrasse, wo der Grenzbeschrieb begonnen wurde.
+Von der besagten Eckmarke auf Wasserschaffen zieht sich die Schulgemeindegrenze von Appenzell in gerader Richtung den Hang hinunter bis zum Ursprung der Zöpfliquellen, diesem Wasserlauf entlang zum Kaubach, welcher abwärts bis zur Einmündung des Rotbächleins die Grenze bildet. Von hier weg verläuft die Schulkreisgrenze gemeinsam mit der Kirchgemeindegrenze gegen Gonten dem Rotbächlein entlang aufwärts bis zum Fussweg zwischen dem Schattenwald einerseits und der Liegenschaft Hundshenke andererseits, die Liegenschaften Rotbach, im Schlund, Halten oder Beslers, Beslersweid, Schatten, Hundshenke und Himmelberg zum Schulkreis Gonten, die Liegenschaften Kantenstell, Steinebrüggle, Geissfeld, Schaienhöhe und der Schattenwald zum Schulkreis Appenzell gehörig. Vom Grat auf der Liegenschaft Schatten folgt sie der Bezirksgrenze bis zur Liegenschaft Ebnet, letztere zu Gonten gehörig, geht dann ins Tobel hinunter und dem Bach entlang aufwärts bis zur westlichen Grenze des Bauamtswaldes, letzterer entlang aufwärts bis zum Grat und diesem wieder entlang bis zum Markstein Nr. 13 auf Steigershöhe. Von hier bis zur Einmündung des Buchbaches in die Sitter fällt die Schulgemeindegrenze mit der Kantonsgrenze zusammen, verläuft dann der Sitter entlang aufwärts bis zur Einmündung des Zungbaches. Von hier ab bildet der Zungbach die Grenze zwischen den Schulkreisen Schlatt-Haslen und Appenzell bis zur Liegenschaft obere Schlepfen, woselbst die Grenze gemeinsam mit derjenigen von Meistersrüte gegen den Burgstock hin abzweigt, die Liegenschaft obere Schlepfen zu Appenzell, die Liegenschaft Schopf, Rhintlersweid, sowie die ganze Liegenschaft Burg samt Weid zu Meistersrüte gehörig. Vom Zungbach weg verläuft die Grenze über die zu Appenzell gehörigen Liegenschaften Hell, Kapf, Ebnet, Opersegg, Schötzlers, abs-Schötzlers, Köhlen, obere Lauften bis zur Liegenschaft steinernes Brüggli an der Gaiserstrasse, wo der Grenzbeschrieb begonnen wurde.
 
-### Schulgemeinde Meistersrüte1
+[^hAbgrenzungderSchul-1]: Abgeändert durch GrRB vom 27. November 1951 und 26. März 2018.
+
+### Schulgemeinde Meistersrüte
+
+[^hAbgrenzungderSchul-1]
 
 Beginnend beim Kantonsmarkstein Nr. 28 in Jäcklisweidle, folgt die Schulkreisgrenze von Meistersrüte der Kantonsgrenze bis Punkt 1095 auf dem Hohen Hirschberg bzw. bis zur Landmark Nr. 45. Von hier weg folgt die Grenzlinie des Schulkreises der Bezirksgrenze zwischen Appenzell und Rüte über den Hohen Hirschberg und über Hütten bis zum Ursprung des Guggerlochbächleins und diesem letzteren entlang bis zum steinernen Brüggle an der Gaiserstrasse. Hier verlässt die Schulgemeindegrenze die Bezirksgrenze und verläuft im weiteren über die zum Schulkreis Meistersrüte gehörigen Liegenschaften steinernes Brüggle, Signersböhl, Kosterskarlonis, Filder, Studen bis zur Liegenschaft Burg, letztere samt Weid ebenfalls ganz zu Meistersrüte gehörig. Von der Liegenschaft Burg geht die Grenze über die zu Meistersrüte gehörige Rhintlersweid und die zu Appenzell gehörige Liegenschaft Schlepfen an den Zungbach und verläuft von hier ab dem letzteren bzw. der Bezirksgrenze zwischen Schlatt-Haslen und Appenzell entlang bis zur Landmark Nr. 28 in Jäcklisweidle, von wo aus der Grenzbeschrieb begonnen wurde. Eine Ausnahme auf dieser Grenzlinie bildet einzig die Liegenschaft Schweizerhaus, welche, obschon im Bezirk Schlatt-Haslen gelegen, ganz zum Schulkreis Meistersrüte gehört.
 
@@ -95,15 +103,19 @@ Die Grenze des Schulkreises Eggerstanden zieht sich entsprechend der Kirchgemein
 
 Vom Studenhüsli an der Sitter zieht sich die Grenze dem Rötelbach entlang aufwärts bis zur Liegenschaft Rötelbach (Koller Alois), die Liegenschaften Bleuer und Unter-Im gesamthaft zu Appenzell, die Liegenschaften Blatten und beide Greben sowie Heebs Forrenwald ganz zu Steinegg gehörig. Von der Liegenschaft Rötelbach folgt die Schulkreisgrenze von Steinegg der Grenze zwischen den beiden Kirchgemeinden Eggerstanden und Appenzell bis zur Weid Heubühl, die Liegenschaft Hasengaden sowie die Weid Aebiskraut zu Eggerstanden, die Liegenschaft Grüt sowie das beim Aebiskraut gelegene Moos von Hauptmann Fässler zu Steinegg gehörig. Von der Weid Heubühl, letztere zu Eggerstanden gehörig, zieht sich die Schulkreisgrenze von Steinegg zwischen der zu Brülisau gehörigen Hemmerenweid und den zu Steinegg gehörigen Weiden Fähnernweidli und Mockeweid hinunter bis zur Liegenschaft Gehr, letztere ganz zu Brülisau gehörig, und bis an den Ibach, diesem entlang zwischen den zu Steinegg gehörigen Liegenschaften Schötzlers und Hanses oder oberer Alpstein einerseits und den zu Brülisau gehörigen Liegenschaften Goldeners und Halden anderseits hinunter an die Weissbadstrasse, die Wirtschaft zum «Alpstein» zum Schulkreis Schwende, die Liegenschaft unterer Alpstein zum Schulkreis Steinegg gehörig. Von der Weissbadstrasse zieht sich die Grenze zwischen der zu Steinegg gehörigen Liegenschaft Dörig, Schuhmacher, einerseits und der zu Schwende gehörigen Liegenschaft Jegerlis (Fuchs, Vater) anderseits an die Sitter und folgt der letzteren abwärts bis zum Studenhüsli bzw. bis zum Einfluss des Rötelbaches, von wo aus der Grenzbeschrieb begonnen wurde.
 
-### Schulgemeinde Haslen
+[^hSchulgemeindeSteine-1]: Abgeändert durch GrRB vom 25. Oktober 2021 (Zusammenlegung Schulgemeinden Schlatt und Haslen; Inkrafttreten: 1. Januar 2022).
 
-Vom Einfluss des Sägenstegbaches in die Sitter verläuft die Schulkreisgrenze von Haslen gemeinsam mit derjenigen von Schlatt dem Sägenstegbach entlang aufwärts bis zu der zum Schulkreis Haslen gehörigen Liegenschaft untere Halten. Von hier ab zieht sich die Grenze über die ebenfalls zu Haslen schulgenössigen Liegenschaften obere Halten, Urches, Bühl oder Boffes, Oberhof, Rüedishaus, Vorder- und Hinterberg, Berg, Hasenweid, obere Göbsi und die Liegenschaften Beslers und Krotenböhl bis an den Rotbach. Von hier weg bildet der Rotbach bzw. die Kantonsgrenze auch die Grenze des Schulkreises Haslen bis zu seinem Einfluss in die Sitter. Vom Zusammenfluss von Rotbach und Sitter aufwärts bildet die letztere die Schulkreisgrenze bis zum Einfluss des Sägenstegbaches, von wo aus der Grenzbeschrieb begonnen wurde.
+### Schulgemeinde Schlatt-Haslen
 
-### Schulgemeinde Schlatt
+[^hSchulgemeindeSteine-1]
 
-Vom Einfluss des Zungbaches in die Sitter bis zur Landmark Nr. 28 in Jäcklisweidle zieht sich die Grenze des Schulkreises Schlatt der Bezirksgrenze zwischen den Bezirken Schlatt-Haslen und Appenzell entlang, und zwar bis zur Liegenschaft Schlepfen gemeinsam mit der Grenze des Schulkreises Appenzell, von hier ab gemeinsam mit der Grenze des Schulkreises Meistersrüte. Ausgenommen ist einzig die Liegenschaft Schweizerhaus, welche, obschon im Bezirk Schlatt-Haslen gelegen, in den Schulkreis Meistersrüte schulgenössig und steuerpflichtig ist. Von der Landmark Nr. 28 in Jäcklisweidle bildet der Rotbach bzw. die Kantonsgrenze zugleich auch die Schulkreisgrenze von Schlatt bis zur Liegenschaft Brunnern, von wo aus die erstere die Kantonsgrenze verlässt und sich über die zum Schulkreis Schlatt gehörigen Liegenschaften Brunnern, Mehlersweid, Knopfweidle, obere Linde, Eugst, Korofel, Bildstock, Fändrich, ober und unter Buch, Schau, ober und unter Litlers an den Sägenstegbach zieht. Von hier ab bildet der Sägenstegbach die Schulkreisgrenze von Schlatt bis zu seinem Einfluss in die Sitter, welche wiederum die Grenze bildet bis zum Einfluss des Zungbaches, von wo aus der Grenzbeschrieb begonnen wurde.
+Von der Einmündung des Zungbachs in die Sitter verläuft die Grenze der Schulgemeinde Schlatt-Haslen bachaufwärts bis zum Quellgebiet des Zungbachs im Oberen Acker. Die nördlich daran angrenzende Liegenschschaft Schwizerhus, die im Bezirk Schlatt-Haslen liegt, gehört zur Schulgemeinde Meistersrüte. Vom Oberen Acker an ist die Grenze, wie schon entlang des Zungbachs, identisch mit der Bezirksgrenze zwischen den Bezirken Schlatt-Haslen und Appenzell. Sie trifft bei der Jäcklisweid auf die Kantonsgrenze zu Appenzell A.Rh. Von hier weg bildet die Kantonsgrenze bzw. der Rotbach bis zur Einmündung in die Sitter auch die Grenze der Schulgemeinde Schlatt-Haslen. Vom Zusammenfluss von Rotbach und Sitter verläuft die Grenze der Sitter entlang bachaufwärts bis zur Einmündung des Zungbachs und somit zurück zum Ausgangspunkt des Grenzbeschriebs.
 
-### Schulgemeinde Gonten1
+[^hSchulgemeindeSchlat-1]: Abgeändert durch GrRB vom 19. Oktober 2009 (Aufhebung der Schulgemeinde Kau; Inkrafttreten: 1. Januar 2010).
+
+### Schulgemeinde Gonten
+
+[^hSchulgemeindeSchlat-1]
 
 Die Grenze der Schulgemeinde Gonten zieht sich ab dem Einfluss des Rotbächleins in den Kaubach in diesem letzteren entlang aufwärts bis zum Ursprung der Zöpfliquellen und hernach in gerader Richtung weiter bis zur Eckmarke in der vorderen Wasserschaffen, wo die drei Bezirke Appenzell, Gonten und Schwende ihre Grenze gemeinsam haben.
 
@@ -111,17 +123,12 @@ Ab hier deckt sich die Schulkreisgrenze in westlicher Richtung mit der Grenze zw
 
 Vom Kantonsmarkstein Nr. 2 folgt die Schulkreisgrenze von Gonten der Kantonsgrenze zum Kantonsmarkstein Nr. 3 auf der Nusshalde und sodann weiter bis zur Steigershöhe, das heisst, die Schulgemeindegrenze von Gonten fällt hier durchwegs mit der Kantonsgrenze zusammen. Vom Kantonsmarkstein Nr. 13 auf Steigershöhe verläuft die Grenze wiederum entsprechend der Kirchgemeindegrenze dem Grat entlang abwärts bis zur westlichen Grenze des Bauamtswaldes, folgt sodann dieser letzteren ins Tobel hinunter, geht dem Bach entlang bis zur Liegenschaft Ebnet, letztere zu Gonten gehörig, sodann zu der ebenfalls zu Gonten gehörigen Liegenschaft Schatten, dem Schattenwald entlang und über die zu Gonten gehörigen Liegenschaften Himmelberg, Hundshenke, Schatten, Beslersweid, Halten, Schlund, Rotbach bis hinunter an den Kaubach bzw. bis zum Einfluss des Rotbächleins, von wo aus der Grenzbeschrieb begonnen wurde.
 
-### Schulgemeinde Oberegg1
+[^hSchulgemeindeGonten-1]: Abgeändert durch GrRB vom 23. Juni 2003 (rückwirkend auf den 1. Januar 2003 in Kraft getreten). Abgeändert durch GrRB vom 26. März 2018.
+
+### Schulgemeinde Oberegg
+
+[^hSchulgemeindeGonten-1]
 
 Das Gebiet der Schulgemeinde Oberegg ist identisch mit dem Gebiet des Bezirkes Oberegg.
 
 Der Bezirk Oberegg hat die Schulgemeinde Oberegg am 1. Januar 2018 aufgenommen.
-
-## Weitere Fussnoten
-
-- [1] Mit Revisionen vom 25. November 1940, 27. November 1951, 6. Oktober 1972, 18. November 2002, 23. Juni 2003, 19. Oktober 2009, 1. Dezember 2014 und 26. März 2018.
-- [2] Ingress abgeändert durch Schulgesetz vom 29. April 1984. Ingress abgeändert durch GrRB vom 1. Dezember 2014.
-- [3] Abgeändert durch GrRB vom 18. November 2002 (Eingemeindung der Schulgemeinde Enggenhütten). Abgeändert durch GrRB vom 19. Oktober 2009 (Aufhebung der Schulgemeinde Kau; Inkrafttreten: 1. Januar 2010).
-- [1] Abgeändert durch GrRB vom 27. November 1951 und 26. März 2018.
-- [1] Abgeändert durch GrRB vom 19. Oktober 2009 (Aufhebung der Schulgemeinde Kau; Inkrafttreten: 1. Januar 2010).
-- [1] Abgeändert durch GrRB vom 23. Juni 2003 (rückwirkend auf den 1. Januar 2003 in Kraft getreten). Abgeändert durch GrRB vom 26. März 2018.
