@@ -4,11 +4,11 @@ title: "Verordnung vom 23. Oktober 2013 über Einzelkulturbeiträge im Pflanzenb
 short: EKBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/873"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2013-873-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2013-873-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20200101/de"
 
 (Einzelkulturbeitragsverordnung, EKBV)[^t-1]
 
-vom 23. Oktober 2013 (Stand am 1. Januar 2020)
+vom 23. Oktober 2013 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
@@ -78,10 +78,8 @@ Der Einzelkulturbeitrag beträgt pro Hektare und Jahr für:
 <tr><td>c. Saatgut von Futtergräsern und Futterleguminosen</td><td>1000</td></tr>
 <tr><td>d. Soja</td><td>1000</td></tr>
 <tr><td>e. Ackerbohnen, Eiweisserbsen und Lupinen zu Futterzwecken sowie Mischungen nach Artikel 6*b* Absatz 2</td><td>1000</td></tr>
-<tr><td>f.[^2-1] Zuckerrüben zur Zuckerherstellung</td><td>2100</td></tr>
+<tr><td>f. Zuckerrüben zur Zuckerherstellung</td><td>1800</td></tr>
 </table>
-
-[^2-1]: Fassung gemäss Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 bis zum 31. Dez. 2021 ([AS 2018 4691](https://fedlex.data.admin.ch/eli/oc/2018/742)).
 
 #### Art. 3
 

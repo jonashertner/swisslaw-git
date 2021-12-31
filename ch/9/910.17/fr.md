@@ -4,11 +4,11 @@ title: "Ordonnance du 23 octobre 2013 sur les contributions à des cultures part
 short: OCCP
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/873"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-873-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-873-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20200101/fr"
 
 (Ordonnance sur les contributions à des cultures particulières, OCCP)**[^t-1]**
 
-du 23 octobre 2013. (Etat le 1<sup>er</sup> janvier 2020)
+du 23 octobre 2013 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
@@ -78,10 +78,8 @@ La contribution à des cultures particulières, par hectare et par an, s’élè
 <tr><td>c. pour les semences de graminées fourragères et de légumineuses fourragères:</td><td>1000</td></tr>
 <tr><td>d. pour le soja:</td><td>1000</td></tr>
 <tr><td>e. pour les féveroles, les pois protéagineux et les lupins destinés à l’affouragement et pour les mélanges visés à l’art. 6*b*, al. 2:</td><td>1000</td></tr>
-<tr><td>f.[^2-1] pour les betteraves sucrières destinées à la fabrication de sucre</td><td>2100</td></tr>
+<tr><td>f. pour les betteraves sucrières destinées à la fabrication de sucre:</td><td>1800</td></tr>
 </table>
-
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur du 1<sup>er</sup> janv. 2019 au 31 déc. 2021 ([RO 2018 4691](https://fedlex.data.admin.ch/eli/oc/2018/742)).
 
 #### Art. 3
 
@@ -200,7 +198,7 @@ La demande doit comprendre notamment les indications suivantes:
 - c. les mutations de surfaces et l’adresse des exploitations concernées avec indication du nom de l’ancien et du nouvel exploitant;
 - d. les paiements directs de l’Union européenne touchés l’année précédente pour les surfaces exploitées par tradition dans la zone limitrophe étrangère.
 
-<sup>4</sup> À la demande du canton, les exploitants d’entreprises agricoles ayant des surfaces exploitées par tradition dans la zone limitrophe étrangère doivent produire une attestation du service officiel étranger chargé du versement, sur laquelle figure le montant des paiements directs octroyés par l’UE.
+<sup>4</sup> A la demande du canton, les exploitants d’entreprises agricoles ayant des surfaces exploitées par tradition dans la zone limitrophe étrangère doivent produire une attestation du service officiel étranger chargé du versement, sur laquelle figure le montant des paiements directs octroyés par l’UE.
 
 <sup>5</sup> L’exploitant confirme, dans la demande et dans les formulaires de relevé, l’exactitude des données indiquées. La confirmation peut se faire par signature manuelle ou par signature électronique, selon les instructions du canton.
 

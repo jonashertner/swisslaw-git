@@ -4,11 +4,11 @@ title: "Ordinanza del 23 ottobre 2013 concernente i contributi per singole coltu
 short: OCSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/873"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2013-873-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2013-873-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20200101/it"
 
 (Ordinanza sui contributi per singole colture, OCSC)**[^t-1]**
 
-del 23 ottobre 2013 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+del 23 ottobre 2013 (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
@@ -78,10 +78,8 @@ Per ettaro e anno il contributo per singole colture ammonta a:
 <tr><td>c. sementi di graminacee da foraggio e leguminose da foraggio</td><td>1000</td></tr>
 <tr><td>d. soia</td><td>1000</td></tr>
 <tr><td>e. favette, piselli proteici e lupini a scopo foraggero, nonché miscele ai sensi dell’articolo 6*b* capoverso 2</td><td>1000</td></tr>
-<tr><td>f.[^2-1] barbabietole da zucchero per la produzione di zucchero</td><td>2100</td></tr>
+<tr><td>f. barbabietole da zucchero per la produzione di zucchero</td><td>1800</td></tr>
 </table>
-
-[^2-1]: Nuovo testo giusta il n. I dell’O del 30 nov. 2019, in vigore dal 1° gen. 2019 al 31 dic. 2021 ([RU 2018 4691](https://fedlex.data.admin.ch/eli/oc/2018/742)).
 
 #### Art. 3
 
