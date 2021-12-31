@@ -5,12 +5,12 @@ title: Ordinanza sul personale
 short: OCPers
 language: it
 version: 2022-01-01
-valid_until: 2022-12-31
+corrected: 2022-01-01
 version_adopted: 2021-10-26
 adopted: 2006-12-12
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.410"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3229/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3211/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -70,7 +70,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul p
 
 <sup>1</sup> Il periodo di prova dura di regola:
 
-- a) dodici mesi per i capi servizio, i loro supplenti e i segretari generali;
+- a) dodici mesi per i capi servizio, i loro supplenti e i segretari di concetto;
 - b) sei mesi per gli altri collaboratori a partire dalla classe di stipendio 16;
 - c) tre mesi per i collaboratori nelle classi di stipendio da 1 a 15.
 

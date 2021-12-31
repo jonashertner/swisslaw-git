@@ -5,12 +5,12 @@ title: Ordinaziun dal persunal
 short: OP
 language: rm
 version: 2022-01-01
-valid_until: 2022-12-31
+corrected: 2022-01-01
 version_adopted: 2021-10-26
 adopted: 2006-12-12
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.410"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3229/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3211/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -70,7 +70,7 @@ relaschada da la regenza ils 12 da december 2006
 
 <sup>1</sup> Il temp d'emprova importa per regla:
 
-- a) dudesch mais per las manadras e per ils manaders dals posts da servetsch, per lur substitutas e per lur substituts sco er per las secretarias generalas e per ils secretaris generals;
+- a) dudesch mais per las manadras e per ils manaders dals posts da servetsch, per lur substitutas e per lur substituts sco er per las secretarias e per ils secretaris dals departaments;
 - b) sis mais per las ulteriuras collavuraturas e per ils ulteriurs collavuraturs a partir da la classa da salari 16;
 - c) trais mais per las collavuraturas e per ils collavuraturs en las classas da salari 1 fin 15.
 

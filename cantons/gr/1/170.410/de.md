@@ -5,12 +5,12 @@ title: Personalverordnung
 short: PV
 language: de
 version: 2022-01-01
-valid_until: 2022-12-31
+corrected: 2022-01-01
 version_adopted: 2021-10-26
 adopted: 2006-12-12
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.410"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3229/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3211/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -70,7 +70,7 @@ von der Regierung erlassen am 12. Dezember 2006
 
 <sup>1</sup> Die Probezeit beträgt in der Regel:
 
-- a) für die Dienststellenleitenden, deren Stellvertretende und die Generalsekretärinnen und -sekretäre zwölf Monate;
+- a) für die Dienststellenleitenden, deren Stellvertretende und die Departementssekretärinnen und -sekretäre zwölf Monate;
 - b) für die übrigen Mitarbeitenden ab der Gehaltsklasse 16 sechs Monate;
 - c) für die Mitarbeitenden in den Gehaltsklassen 1 bis 15 drei Monate.
 
