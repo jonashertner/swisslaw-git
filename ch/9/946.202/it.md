@@ -4,11 +4,11 @@ title: "Legge federale del 13 dicembre 1996 sul controllo dei beni utilizzabili 
 short: LBDI
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1996-12-13
 in_force: 1997-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1997-1697_1697_1697-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1697_1697_1697/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1997-1697_1697_1697-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1697_1697_1697/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/1697_1697_1697/20210101/it"
 
 (Legge sul controllo dei beni a duplice impiego, LBDI)[^t-1]
 
-del 13 dicembre 1996 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 13 dicembre 1996 (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta l’art. 2 del DF del 26 set. 2016 che approva e traspone nel diritto svizzero l’Accordo di cooperazione tra la Svizzera e l’Unione europea e i suoi Stati membri sui programmi europei di navigazione satellitare, in vigore dal 1° lug. 2016 ([RU 2016 2191](https://fedlex.data.admin.ch/eli/oc/2016/351); [FF 2014 331](https://fedlex.data.admin.ch/eli/fga/2014/69)).
 
@@ -166,14 +166,13 @@ Il Consiglio federale può prevedere agevolazioni o eccezioni a misure di contro
 
 <sup>1</sup> Gli organi di controllo sono autorizzati ad accedere durante le ore normali di lavoro e senza preavviso, nei locali commerciali delle persone tenute a fornire informazioni, a ispezionarli e a prendere atto di tutti i fascicoli e documenti utili. Sequestrano il materiale a carico. Sono fatte salve le prescrizioni più severe che si applicano se vi è sospetto di reato.
 
-<sup>2</sup> Per i controlli, essi possono farsi assistere dalle polizie cantonali e comunali, nonché dagli organi d’inchiesta dell’Amministrazione delle dogane.[^10-1] Se vi sono indizi di infrazioni alla presente legge, possono fare intervenire il Servizio delle attività informative della Confederazione e gli organi di polizia federali competenti.[^10-2]
+<sup>2</sup> Per i controlli, essi possono farsi assistere dalle polizie cantonali e comunali, nonché dagli organi d’inchiesta dell’Ufficio federale della dogana e della sicurezza dei confini. Se vi sono indizi di infrazioni alla presente legge, possono fare intervenire il Servizio delle attività informative della Confederazione e gli organi di polizia federali competenti.[^10-1]
 
 <sup>3</sup> Gli organi di controllo possono, nel quadro degli obiettivi della presente legge, trattare dati personali. Tra i dati personali degni di particolare protezione, possono essere trattati soltanto quelli concernenti procedimenti e sanzioni amministrative o penali. Possono essere trattati ulteriori dati personali degni di particolare protezione, se indispensabili per la trattazione del singolo caso.
 
 <sup>4</sup> Essi sono tenuti al segreto d’ufficio e adottano nel loro ambito tutte le precauzioni necessarie per evitare lo spionaggio economico.
 
-[^10-1]: Nuovo testo giusta il n. I 8 dell’O del 12 dic. 2008 sull’adeguamento delle disposizioni legali in seguito al trasferimento delle unità di informazioni del Servizio di analisi e prevenzione nel DDPS, in vigore dal 1° gen. 2009 ([RU 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
-[^10-2]: Nuovo testo del per. giusta il n. I 9 dell’O del 4 dic. 2009 sull’adeguamento di disposizioni legali in seguito all’istituzione del Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)).
+[^10-1]: Nuovo testo giusta il n. I 38 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Sezione 4: Procedura e rapporti
 
@@ -222,7 +221,7 @@ Chiunque, intenzionalmente:
 
 <sup>3</sup> Se l’autore ha agito per negligenza, la pena è della detenzione fino a sei mesi o della multa fino a 100 000 franchi.
 
-[^14-1]: Nuovo testo giusta l’all. n. 21 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^14-1]: Nuovo testo giusta il n. 21 dell’all. alla L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 #### Art. 15
 
@@ -270,7 +269,7 @@ Se l’infrazione è commessa nell’ambito della conduzione aziendale, è appli
 
 Il giudice, indipendentemente dalla punibilità di una data persona, ordina la confisca del materiale in causa se e nella misura in cui non è data la garanzia di un ulteriore impiego conforme al diritto. Il materiale confiscato nonché l’eventuale ricavo della realizzazione sono devoluti alla Confederazione fatta salva l’applicazione della legge federale del 19 marzo 2004[^17-2] sulla ripartizione dei valori patrimoniali confiscati.
 
-[^17-1]: Nuovo testo giusta l’all. n. 6 della LF del 19 mar. 2004 sulla ripartizione dei valori patrimoniali confiscati, in vigore dal 1° ago. 2004 ([RU 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 389](https://fedlex.data.admin.ch/eli/fga/2002/69)).
+[^17-1]: Nuovo testo giusta il n. 6 dell’all. alla LF del 19 mar. 2004 sulla ripartizione dei valori patrimoniali confiscati, in vigore dal 1° ago. 2004 ([RU 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 389](https://fedlex.data.admin.ch/eli/fga/2002/69)).
 [^17-2]: [RS 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
 
 #### Art. 18

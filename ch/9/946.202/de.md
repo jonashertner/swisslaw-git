@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 1996 über die Kontrolle zivil und militä
 short: GKG
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1996-12-13
 in_force: 1997-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1997-1697_1697_1697-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1697_1697_1697/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1997-1697_1697_1697-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1697_1697_1697/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/1697_1697_1697/20210101/de"
 
 (Güterkontrollgesetz, GKG)[^t-1]
 
-vom 13. Dezember 1996 (Stand am 1. Januar 2021)
+vom 13. Dezember 1996 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Art. 2 des BB vom 26. Sept. 2014 über die Genehmigung und die Umsetzung des Kooperationsabkommens zwischen der Schweiz und der EU und ihren Mitgliedstaaten über die europäischen Satellitennavigationsprogramme, in Kraft seit 1. Juli 2016 ([AS 2016 2191](https://fedlex.data.admin.ch/eli/oc/2016/351); [BBl 2014 357](https://fedlex.data.admin.ch/eli/fga/2014/69)).
 
@@ -166,14 +166,13 @@ Der Bundesrat kann für einzelne Bestimmungsländer Erleichterungen oder Ausnahm
 
 <sup>1</sup> Die Kontrollorgane sind befugt, die Geschäftsräume der auskunftspflichtigen Personen während der üblichen Arbeitszeit ohne Voranmeldung zu betreten und zu besichtigen sowie die einschlägigen Unterlagen einzusehen. Sie beschlagnahmen belastendes Material. Bei Verdacht auf strafbare Handlungen bleiben weitergehende Bestimmungen des Verfahrens- und Prozessrechtes vorbehalten.
 
-<sup>2</sup> Die Kontrollorgane können die Polizei der Kantone und Gemeinden sowie die Untersuchungsorgane der Eidgenössischen Zollverwaltung beiziehen.[^10-1] Bestehen Hinweise auf Widerhandlungen gegen dieses Gesetz, so können sie den Nachrichtendienst des Bundes und die zuständigen Polizeiorgane des Bundes beiziehen.[^10-2]
+<sup>2</sup> Die Kontrollorgane können die Polizei der Kantone und Gemeinden sowie die Untersuchungsorgane des Bundesamtes für Zoll und Grenzsicherheit beiziehen. Bestehen Hinweise auf Widerhandlungen gegen dieses Gesetz, so können sie den Nachrichtendienst des Bundes und die zuständigen Polizeiorgane des Bundes beiziehen.[^10-1]
 
 <sup>3</sup> Die Kontrollorgane können im Rahmen der Zweckbestimmung dieses Gesetzes Personendaten bearbeiten. Von den besonders schützenswerten Personendaten dürfen nur solche über administrative oder strafrechtliche Verfolgungen und Sanktionen bearbeitet werden. Weitere besonders schützenswerte Personendaten dürfen bearbeitet werden, wenn dies zur Behandlung des Einzelfalles unentbehrlich ist.
 
 <sup>4</sup> Die Kontrollorgane sind zur Wahrung des Amtsgeheimnisses verpflichtet und treffen in ihrem Bereich alle zur Verhinderung von Wirtschaftsspionage nötigen Vorsichtsmassnahmen.
 
-[^10-1]: Fassung gemäss Ziff. I 8 der V vom 12. Dez. 2008 über die Anpassung gesetzlicher Bestimmungen infolge Überführung der nachrichtendienstlichen Teile des Dienstes für Analyse und Prävention zum VBS, in Kraft seit 1. Jan. 2009 ([AS 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
-[^10-2]: Fassung des zweiten Satzes gemäss Ziff. I 9 der V vom 4. Dez. 2009 über die Anpassung gesetzlicher Bestimmungen infolge der Schaffung des Nachrichtendienstes des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)).
+[^10-1]: Fassung gemäss Ziff. I 38 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## 4. Abschnitt: Verfahren und Berichterstattung
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 13 décembre 1996 sur le contrôle des biens utilisabl
 short: LCB
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1996-12-13
 in_force: 1997-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-1697_1697_1697-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1697_1697_1697/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-1697_1697_1697-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1697_1697_1697/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/1697_1697_1697/20210101/fr"
 
 (Loi sur le contrôle des biens, LCB)[^t-1]
 
-du 13 décembre 1996 (Etat le 1<sup>er</sup> janvier 2021)
+du 13 décembre 1996 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon l’art. 2 à l’AF du 26 sept. 2014 sur l’approbation et la mise en œuvre de l’Ac. de coopération entre la Suisse, d’une part, et l’UE et ses États membres, d’autre part, relatif aux programmes européens de navigation par satellite, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2191](https://fedlex.data.admin.ch/eli/oc/2016/351); [FF 2014 343](https://fedlex.data.admin.ch/eli/fga/2014/69)).
 
@@ -167,14 +167,13 @@ Le Conseil fédéral peut prévoir des allégements ou des exceptions aux mesure
 
 <sup>1</sup> Les organes de contrôle sont autorisés à pénétrer dans les locaux commerciaux des personnes tenues de fournir des renseignements et à les visiter, pendant les heures habituelles de travail et sans préavis; ils ont aussi le droit de prendre connaissance de tous les documents utiles. Ils séquestrent les pièces à conviction. Sont réservées des prescriptions plus rigoureuses du droit de procédure en cas de présomption d’actes punissables.
 
-<sup>2</sup> Ils peuvent faire appel aux organes de police des cantons et des communes ainsi qu’aux organes d’enquête de l’administration fédérale des douanes.[^10-1] En présence d’indices d’infraction à la présente loi, ils peuvent faire appel au Service de renseignement de la Confédération et aux organes de police compétents de cette dernière.[^10-2]
+<sup>2</sup> Ils peuvent faire appel aux organes de police des cantons et des communes ainsi qu’aux organes d’enquête de l’Office fédéral de la douane et de la sécurité des frontières. En présence d’indices d’infraction à la présente loi, ils peuvent faire appel au Service de renseignement de la Confédération et aux organes de police compétents de cette dernière.[^10-1]
 
 <sup>3</sup> Les organes de contrôle sont habilités, dans la limite des objectifs de la présente loi, à traiter des données personnelles. En ce qui concerne les données personnelles sensibles, seules peuvent être traitées les données sur des poursuites ou des sanctions pénales et administratives. Le traitement d’autres données personnelles sensibles est autorisé lorsqu’il est indispensable au règlement d’un cas.
 
 <sup>4</sup> Les organes de contrôle sont tenus au secret de fonction et doivent prendre, dans la limite de leurs compétences, toutes les précautions propres à éviter l’espionnage économique.
 
-[^10-1]: Nouvelle teneur selon le ch. I 8 de l’O du 12 déc. 2008 sur l’adaptation des disp. légales suite au transfert des unités de renseignements du Service d’analyse et de prévention au DDPS, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
-[^10-2]: Nouvelle teneur de la phrase selon le ch. I 9 de l’O du 4 déc. 2009 concernant l’adaptation de disp. légales à la suite de la création du Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)).
+[^10-1]: Nouvelle teneur selon le ch. I 38 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Section 4 Procédure et rapport
 

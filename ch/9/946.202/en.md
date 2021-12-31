@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 1996 on the Control of Dual-Use Goods, Specif
 short: GCA
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1996-12-13
 in_force: 1997-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697/20210101/en/xml/fedlex-data-admin-ch-eli-cc-1997-1697_1697_1697-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1697_1697_1697/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1997-1697_1697_1697-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1697_1697_1697/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Goods Control Act, GCA)
 
-of 13 December 1996 (Status as of 1 January 2021)
+of 13 December 1996 (Status as of 1 January 2022)
 
 [^t-1]: Amended by Art. 2 of the FD of 26 Sept. 2014 on the Adoption and Implementation of the Cooperation Agreement between Switzerland and the EU and its Member States on the European Satellite Navigation Programmes, in force since 1 July 2016 ([AS 2016 2191](https://fedlex.data.admin.ch/eli/oc/2016/351); [BBl 2014 357](https://fedlex.data.admin.ch/eli/fga/2014/69)).
 
@@ -170,14 +170,13 @@ The Federal Council may provide for a relaxation or an exemption from control me
 
 <sup>1</sup> The control authorities have the right to enter and inspect the business premises of persons required to provide information during normal working hours without prior notice as well as to inspect the relevant documents. They may confiscate incriminating material. If there is a suspicion that offences have been committed, further provisions of procedural law may apply.
 
-<sup>2</sup> The control authorities may request the assistance of the police of the cantons and communes as well as the investigative authorities of the Federal Customs Administration.[^10-1] If there is evidence of violations of this Act, the control authorities may request the assistance of the Federal Intelligence Service and the relevant federal police authorities.[^10-2]
+<sup>2</sup> The control authorities may request the assistance of the police of the cantons and communes as well as the investigative authorities of the Federal Office for Customs and Border Security. If there is evidence of violations of this Act, the control authorities may request the assistance of the Federal Intelligence Service and the relevant federal police authorities.[^10-1]
 
 <sup>3</sup> The control authorities may process personal data for the purposes of this Act. In the case of particularly sensitive data, only such data relating to administrative or criminal prosecutions or penalties may be processed. Other particularly sensitive personal data may be processed if this is essential in order to deal with the case in question.
 
 <sup>4</sup> The control authorities are obliged to preserve official secrecy and must take all the necessary precautions in their activities to prevent industrial espionage.
 
-[^10-1]: Amended by No I 8 of the Ordinance of 12 Dec. 2008 on the Amendment of Statutory Provisions following the Transferral of the Intelligence Service Sections of the Analysis and Prevention Service to the DDPS, in force since 1 Jan. 2009 ([AS 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
-[^10-2]: Second sentence amended in accordance with No I 9 of the Ordinance of 4 Dec. 2009 on the Amendment of Statutory Provisions following the Establishment of the Federal Intelligence Service, in force since 1 Jan. 2010 ([AS 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)).
+[^10-1]: Amended by No I 38 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Section 4 Procedures and Reporting
 
