@@ -4,13 +4,13 @@ number: "140"
 title: Gesetz über die Organisation des Regierungsrats und der Verwaltung des Kantons Basel-Landschaft
 short: "Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft, RVOG BL"
 language: de
-version: 2018-01-01
-valid_until: 2021-12-31
-version_adopted: 2017-09-28
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2020-09-10
 adopted: 2017-09-28
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/140"
-pdf: "https://bl.clex.ch/api/de/versions/3073/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3899/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3073/pdf_file"
 
 (Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft, RVOG BL)
 
-Vom 28.09.2017 (Stand 01.01.2018)
+Vom 28.09.2017 (Stand 01.01.2022)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -246,7 +246,7 @@ beschliesst:[^ingress-2]
 
 **Führung von Informations- und Dokumentationssystemen**
 
-<sup>1</sup> Zur Registrierung, Verwaltung, Indexierung und Überwachung ihres Geschäftsverkehrs und ihrer Geschäfte sowie zu deren Kommunikation darf jede Behörde der kantonalen Verwaltung nach Massgabe der kantonalen Gesetzgebung ein Informations- und Dokumentationssystem führen.
+<sup>1</sup> Zur Registrierung, Verwaltung, Indexierung und Überwachung ihres Geschäftsverkehrs und ihrer Geschäfte sowie zu deren Kommunikation führt jede Behörde der kantonalen Verwaltung nach Massgabe der kantonalen Gesetzgebung ein Informations- und Dokumentationssystem.
 
 <sup>2</sup> Dieses System darf besonders schützenswerte Daten und Persönlichkeitsprofile enthalten, soweit sich diese aus dem Geschäftsverkehr oder aus der Art des Geschäfts ergeben.
 
