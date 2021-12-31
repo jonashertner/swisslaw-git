@@ -3,18 +3,18 @@ sr: "631.051"
 title: Verordnung vom 18. Oktober 2006 über die Wohlfahrtskasse des Zollpersonals
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/256"
 language: de
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2006-10-18
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/256/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2007-256-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/256/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/256/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-256-20220101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/256/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Wohlfahrtskasse des Zollpersonals
 
-vom 18. Oktober 2006 (Stand am 1. Januar 2018)
+vom 18. Oktober 2006 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 93 Absatz 2 des Zollgesetzes vom 18. März 2005[^ingress-1
 
 verordnet:
 
-[^ingress-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^ingress-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -32,9 +32,10 @@ verordnet:
 
 <sup>1</sup> Die Wohlfahrtskasse des Zollpersonals (Wohlfahrtskasse) ist ein Spezialfonds des Bundes. Ihr Vermögen stellt zweckgebundenes Eigentum der Schweizerischen Eidgenossenschaft dar.
 
-<sup>2</sup> Zweck der Wohlfahrtskasse ist es, die soziale Lage des Personals der Eidgenössischen Zollverwaltung (EZV) und seiner Familien zu verbessern, insbesondere nicht grob verschuldete finanzielle Schwierigkeiten zu lindern.[^1-1]
+<sup>2</sup> Zweck der Wohlfahrtskasse ist es, die soziale Lage des Bundesamts für Zoll und Grenzsicherheit (BAZG)[^1-1] und seiner Familien zu verbessern, insbesondere nicht grob verschuldete finanzielle Schwierigkeiten zu lindern.[^1-2]
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 1. Dez. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+[^1-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^1-2]: Fassung gemäss Ziff. I der V vom 1. Dez. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
 
 #### Art. 2
 
@@ -63,7 +64,7 @@ Die Wohlfahrtskasse kann Ferienwohnungen zu günstigen Bedingungen zur Verfügun
 
 Leistungen der Wohlfahrtskasse können auf Gesuch hin erhalten:
 
-- a.[^4-1] Personen, die bei der EZV unbefristet und mit einem Beschäftigungsgrad von mindestens 50 Prozent angestellt sind;
+- a.[^4-1] Personen, die beim BAZG unbefristet und mit einem Beschäftigungsgrad von mindestens 50 Prozent angestellt sind;
 - b. ausnahmsweise auch Personen, die befristet oder mit einem Beschäftigungsgrad von weniger als 50 Prozent angestellt sind;
 - c. Pensionierte sowie Witwen, Witwer und Waisen, sofern die Verhältnisse es rechtfertigen.
 
@@ -85,7 +86,7 @@ Finanzielle Leistungen werden nur an Personen ausgerichtet, die:
 
 <sup>1</sup> Die Wohlfahrtskasse richtet ihre Leistungen nach sozialen Gesichtspunkten aus und achtet auf wirksamen und wirtschaftlichen Einsatz.
 
-<sup>2</sup> …[^5-1]
+<sup>2</sup> ...[^5-1]
 
 [^5-1]: Aufgehoben durch Ziff. I der V vom 1. Dez. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
 
@@ -168,7 +169,7 @@ Das Sekretariat führt die Geschäfte der Wohlfahrtskasse im Auftrag der Kommiss
 
 **Personal- und Verwaltungskosten**[^11-1]
 
-<sup>1</sup> Die EZV stellt für die Wahrnehmung der Aufgaben nach den Artikeln 2 und 13 das erforderliche Personal unentgeltlich zur Verfügung und trägt die damit verbundenen Verwaltungskosten.
+<sup>1</sup> Das BAZG stellt für die Wahrnehmung der Aufgaben nach den Artikeln 2 und 13 das erforderliche Personal unentgeltlich zur Verfügung und trägt die damit verbundenen Verwaltungskosten.
 
 <sup>2</sup> Sämtliche Kosten für die Wahrnehmung der Aufgaben nach Artikel 3 werden ausschliesslich mit den Einnahmen aus der Vermietung der Ferienwohnungen gedeckt.
 
@@ -184,14 +185,14 @@ Das Sekretariat führt die Geschäfte der Wohlfahrtskasse im Auftrag der Kommiss
 
 <sup>3</sup> Verkauft der Bund Häuser oder Wohnungen, die er der Wohlfahrtskasse vermietet hat, so schreibt er ihr einen angemessenen Teil der Kosten für Grossunterhalt und Ausbau gut, welche sie anstelle des Bundes aufgewendet hat.
 
-[^12-1]: [SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
-[^12-2]: [SR 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^12-1]: [SR 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)
+[^12-2]: [SR 611.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7752)
 
 #### Art. 13
 
 **Revisionsstelle**
 
-<sup>1</sup> Revisionsstelle ist die Sektion «Interne Revision» der EZV.[^13-1]
+<sup>1</sup> Revisionsstelle ist die Sektion «Interne Revision» des BAZG.[^13-1]
 
 <sup>2</sup>
 
@@ -199,8 +200,9 @@ Die Revisionsstelle:
 
 - a. prüft, ob Buchführung und Jahresrechnung den gesetzlichen Vorschriften, der Geschäftsordnung der Wohlfahrtskasse und den weiteren Ausführungsbestimmungen entsprechen;
 - b. kann Einsicht in alle erforderlichen Unterlagen nehmen und bei den Organen der Wohlfahrtskasse mündliche und schriftliche Auskünfte einholen;
-- c.[^13-2] erstattet der Kommission, der Oberzolldirektorin oder dem Oberzolldirektor und dem EFD über die Ergebnisse der Prüfung Bericht.
-- [tab] <sup>3</sup> Die Finanzaufsicht der Eidgenössischen Finanzkontrolle bleibt vorbehalten.
+- c.[^13-2] erstattet der Kommission, der Direktorin oder dem Direktor des BAZG und dem EFD über die Ergebnisse der Prüfung Bericht.
+
+<sup>3</sup> Die Finanzaufsicht der Eidgenössischen Finanzkontrolle bleibt vorbehalten.
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 1. Dez. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
 [^13-2]: Fassung gemäss Ziff. I der V vom 1. Dez. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).

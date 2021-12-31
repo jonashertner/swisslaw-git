@@ -3,18 +3,18 @@ sr: "631.051"
 title: Ordinanza del 18 ottobre 2006 sulla Cassa di previdenza del personale delle dogane
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/256"
 language: it
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2006-10-18
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/256/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2007-256-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/256/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/256/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-256-20220101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/256/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulla Cassa di previdenza del personale delle dogane
 
-del 18 ottobre 2006 (Stato 1° gennaio 2018)
+del 18 ottobre 2006 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -22,7 +22,7 @@ visto l’articolo 93 capoverso 2 della legge del 18 marzo 2005[^ingress-1] sull
 
 ordina:
 
-[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ## Sezione 1: Disposizioni generali
 
@@ -32,9 +32,10 @@ ordina:
 
 <sup>1</sup> La Cassa di previdenza del personale delle dogane (Cassa di previdenza) è un fondo speciale della Confederazione. Il suo patrimonio, a destinazione vincolata, è di proprietà della Confederazione Svizzera.
 
-<sup>2</sup> Lo scopo della Cassa di previdenza è di migliorare la situazione sociale degli impiegati dell’Amministrazione federale delle dogane (AFD) e delle loro famiglie, in particolare di alleviare le difficoltà finanziarie in cui sono incorsi senza grave colpa.[^1-1]
+<sup>2</sup> Lo scopo della Cassa di previdenza è di migliorare la situazione sociale degli impiegati dell’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^1-1] e delle loro famiglie, in particolare di alleviare le difficoltà finanziarie in cui sono incorsi senza grave colpa.[^1-2]
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 1° dic. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+[^1-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^1-2]: Nuovo testo giusta il n. I dell’O del 1° dic. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
 
 #### Art. 2
 
@@ -63,7 +64,7 @@ La Cassa di previdenza può mettere a disposizione abitazioni di vacanza a condi
 
 Su domanda, possono beneficiare di prestazioni della Cassa di previdenza:
 
-- a.[^4-1] le persone impiegate a tempo indeterminato presso l’AFD con un grado d’occupazione di almeno il 50 per cento;
+- a.[^4-1] le persone impiegate a tempo indeterminato presso l’UDSC con un grado d’occupazione di almeno il 50 per cento;
 - b. in via eccezionale anche le persone impiegate a tempo determinato o con un grado d’occupazione inferiore al 50 per cento;
 - c. i pensionati, le vedove, i vedovi e gli orfani, sempre che le circostanze lo giustifichino.
 
@@ -168,7 +169,7 @@ Il Segretariato gestisce gli affari della Cassa di previdenza su incarico della 
 
 **Spese amministrative e di personale**[^11-1]
 
-<sup>1</sup> L’AFD mette gratuitamente a disposizione il personale necessario per l’adempimento dei compiti cui agli articoli 2 e 13 e si assume le spese amministrative che ne derivano.
+<sup>1</sup> L’UDSC mette gratuitamente a disposizione il personale necessario per l’adempimento dei compiti cui agli articoli 2 e 13 e si assume le spese amministrative che ne derivano.
 
 <sup>2</sup> Tutte le spese per l’adempimento dei compiti di cui all’articolo 3 sono coperte esclusivamente con le entrate provenienti dalla locazione dalle abitazioni di vacanza.
 
@@ -184,14 +185,14 @@ Il Segretariato gestisce gli affari della Cassa di previdenza su incarico della 
 
 <sup>3</sup> Se vende immobili o abitazioni dati in locazione alla Cassa di previdenza, la Confederazione accredita a quest’ultima un’adeguata parte delle spese che questa ha assunto al posto della Confederazione per i grandi lavori di manutenzione e d’ampliamento.
 
-[^12-1]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
-[^12-2]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^12-1]: [RS 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)
+[^12-2]: [RS 611.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7752)
 
 #### Art. 13
 
 **Ufficio di revisione**
 
-<sup>1</sup> L’ufficio di revisione è la sezione «Revisione interna» dell’AFD.[^13-1]
+<sup>1</sup> L’ufficio di revisione è la sezione «Revisione interna» dell’UDSC.[^13-1]
 
 <sup>2</sup>
 
@@ -199,7 +200,7 @@ L’ufficio di revisione:
 
 - a. verifica se la contabilità e il conto annuale sono conformi alle prescrizioni legali, al regolamento della Cassa di previdenza e alle altre disposizioni d’esecuzione;
 - b. può consultare tutta la documentazione necessaria e richiedere informazioni verbali e scritte agli organi della Cassa di previdenza;
-- c.[^13-2] riferisce alla Commissione, al direttore generale delle dogane e al DFF in merito ai risultati della verifica.
+- c.[^13-2] riferisce alla Commissione, al direttore dell’UDSC e al DFF in merito ai risultati della verifica.
 
 <sup>3</sup> È fatta salva la vigilanza finanziaria da parte del Controllo federale delle finanze.
 

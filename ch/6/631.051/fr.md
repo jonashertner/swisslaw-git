@@ -3,18 +3,18 @@ sr: "631.051"
 title: Ordonnance du 18 octobre 2006 concernant la caisse de prévoyance du personnel des douanes
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/256"
 language: fr
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2006-10-18
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/256/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-256-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/256/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/256/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-256-20220101-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/256/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant la caisse de prévoyance du personnel des douanes
 
-du 18 octobre 2006 (Etat le 1<sup>er</sup> janvier 2018)
+du 18 octobre 2006 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu l’art. 93, al. 2, de la loi du 18 mars 2005 sur les douanes[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ## Section 1 Dispositions générales
 
@@ -32,9 +32,10 @@ arrête:
 
 <sup>1</sup> La Caisse de prévoyance du personnel des douanes (caisse de prévoyance) est un fonds spécial de la Confédération. Sa fortune, à affectation liée, est propriété de la Confédération suisse.
 
-<sup>2</sup> La caisse de prévoyance a pour but d’améliorer la situation sociale des membres de l’Administration fédérale des douanes (AFD) et de leurs familles, en particulier d’atténuer les difficultés financières survenues sans qu’il y ait eu faute grave de leur part.[^1-1]
+<sup>2</sup> La caisse de prévoyance a pour but d’améliorer la situation sociale des membres de l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^1-1] et de leurs familles, en particulier d’atténuer les difficultés financières survenues sans qu’il y ait eu faute grave de leur part.[^1-2]
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+[^1-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
 
 #### Art. 2
 
@@ -63,7 +64,7 @@ La caisse de prévoyance peut mettre à disposition des logements de vacances à
 
 Peuvent obtenir des prestations de la caisse de prévoyance, sur demande:
 
-- a.[^4-1] les personnes occupées pour une durée illimitée et au moins à 50 % à l’AFD;
+- a.[^4-1] les personnes occupées pour une durée illimitée et au moins à 50 % à l’OFDF;
 - b. exceptionnellement, également les personnes occupées pour une durée limitée ou à moins de 50 %;
 - c. si les circonstances le justifient, les retraités ainsi que les veuves, veufs et orphelins.
 
@@ -85,7 +86,7 @@ Des prestations financières ne sont accordées qu’aux personnes:
 
 <sup>1</sup> La caisse de prévoyance attribue ses prestations en fonction de critères sociaux et veille à une affectation efficace et économe.
 
-<sup>2</sup> …[^5-1]
+<sup>2</sup> ...[^5-1]
 
 [^5-1]: Abrogé par le ch. I de l’O du 1<sup>er</sup> déc. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
 
@@ -168,7 +169,7 @@ Le secrétariat gère les affaires de la caisse de prévoyance sur mandat de la 
 
 **Frais de personnel et frais administratifs**[^11-1]
 
-<sup>1</sup> L’AFD met gratuitement à disposition le personnel nécessaire pour remplir les tâches prévues aux art. 2 et 13 et assume les frais administratifs qui en découlent.
+<sup>1</sup> L’OFDF met gratuitement à disposition le personnel nécessaire pour remplir les tâches prévues aux art. 2 et 13 et assume les frais administratifs qui en découlent.
 
 <sup>2</sup> Tous les frais pour l’exécution des tâches prévues à l’art. 3 sont couverts exclusivement par les revenus provenant de la location des logements de vacances.
 
@@ -184,14 +185,14 @@ Le secrétariat gère les affaires de la caisse de prévoyance sur mandat de la 
 
 <sup>3</sup> Si la Confédération vend des maisons ou des appartements qu’elle a loués à la caisse de prévoyance, elle crédite cette dernière d’une part appropriée des coûts de gros entretien et de modernisation que la caisse de prévoyance a assumés en lieu et place de la Confédération.
 
-[^12-1]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
-[^12-2]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^12-1]: [RS 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)
+[^12-2]: [RS 611.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7752)
 
 #### Art. 13
 
 **Organe de révision**
 
-<sup>1</sup> La section «Audit interne» est l’organe de révision de l’AFD.[^13-1]
+<sup>1</sup> La section «Audit interne» est l’organe de révision de l’OFDF.[^13-1]
 
 <sup>2</sup>
 
@@ -199,8 +200,9 @@ L’organe de révision:
 
 - a. contrôle si la tenue des livres et le compte annuel sont conformes aux prescriptions légales, au règlement de la caisse de prévoyance et aux autres dispositions d’exécution;
 - b. peut consulter toutes les pièces nécessaires et requérir des organes de la caisse de prévoyance des renseignements verbaux ou écrits;
-- c.[^13-2] fait rapport à la commission, au directeur général des douanes et au DFF sur les résultats du contrôle.
-- [tab] <sup>3</sup> La surveillance financière du Contrôle fédéral des finances demeure réservée.
+- c.[^13-2] fait rapport à la commission, au directeur l’OFDF et au DFF sur les résultats du contrôle.
+
+<sup>3</sup> La surveillance financière du Contrôle fédéral des finances demeure réservée.
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
 [^13-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
@@ -234,7 +236,7 @@ L’ordonnance du 1<sup>er</sup> juillet 1992 concernant la caisse de prévoyanc
 
 **Disposition transitoire relative à la modification du 1<sup>er</sup> décembre 2017**[^15a-1]
 
-<sup>1</sup> Les membres de la commission qui ont été nommés ou désignés avant l’entrée en vigueur de la modification du 1<sup>er</sup> décembre 2017 restent en fonction jusqu’au terme de la période administrative.
+Les membres de la commission qui ont été nommés ou désignés avant l’entrée en vigueur de la modification du 1<sup>er</sup> décembre 2017 restent en fonction jusqu’au terme de la période administrative.
 
 [^15a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
 
