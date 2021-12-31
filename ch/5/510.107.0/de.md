@@ -4,20 +4,20 @@ title: Dienstreglement der Armee vom 22. Juni 1994 (DRA)
 short: DRA
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/170_170_170"
 language: de
-version: 2018-01-01
+version: 2022-01-01
 adopted: 1994-06-22
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/170_170_170/20180101/de/xml/fedlex-data-admin-ch-eli-cc-1995-170_170_170-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/170_170_170/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/170_170_170/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1995-170_170_170-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/170_170_170/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Dienstreglement der Armee
 
-(DRA)**[^t-1]**
+(DRA)[^t-1]
 
-vom 22. Juni 1994 (Stand am 1. Januar 2018)
+vom 22. Juni 1994 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
@@ -50,7 +50,7 @@ Das Dienstreglement:
 
 <sup>3</sup> Für das militärische Personal gilt das Dienstreglement während der Ausübung des Dienstes.[^chap1-lvl2-2] Ausserhalb dieser Zeit gilt es immer dann, wenn dienstliche Pflichten zu erfüllen sind oder wenn die Uniform getragen wird.
 
-<sup>4</sup> …[^chap1-lvl2-3]
+<sup>4</sup> ...[^chap1-lvl2-3]
 
 [^chap1-lvl2-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 [^chap1-lvl2-2]: Fassung gemäss Ziff. I der V vom 19. Dez. 2003, in Kraft seit 1. März 2004 ([AS 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
@@ -134,7 +134,7 @@ Nach Verfassung und Gesetz ist die Armee der zivilen Gewalt unterstellt. Ihre ob
 
 ### **8** Eid/Gelübde
 
-«Ich schwöre/Ich gelobe,
+«Ich schwöre/Ich gelobe:
 
 - – der Schweizerischen Eidgenossenschaft mit ganzer Kraft zu dienen;
 - – Recht und Freiheit des Schweizervolkes tapfer zu verteidigen;
@@ -454,7 +454,7 @@ Grosser Verband (Brigade, Kommando Militärpolizei, Heer, Luftwaffe, Territorial
 
 <sup>4</sup> Der Einheitskommandant sorgt für die Angehörigen seiner Einheit. Diese können sich auch ausser Dienst an ihren Kommandanten wenden.
 
-## 4. Kapitel: Militärische Ausbildung und Erziehung****
+## 4. Kapitel: Militärische Ausbildung und Erziehung
 
 [^chap4-1]
 
@@ -755,15 +755,16 @@ Das Abendverlesen beendet für Rekruten, Soldaten und Gefreite sowie für Oberge
 
 ### **56** Beratung und Betreuung
 
-<sup>1</sup> In persönlichen Fragen und Angelegenheiten können sich Angehörige der Armee direkt an ihre Kommandanten, an den Truppenarzt, an den Armeeseelsorger, an den Sozialdienst der Armee und an den Psychologisch-pädagogischen Dienst der Armee wenden.[^chap5-sec1-lvl56-1]
+<sup>1</sup> In persönlichen Fragen und Angelegenheiten können sich Angehörige der Armee direkt an ihre Kommandanten, an den Truppenarzt, an den Armeeseelsorger, an den Sozialdienst der Armee, an den Psychologisch-pädagogischen Dienst der Armee oder an die Vertrauensstelle der Armee wenden.[^chap5-sec1-lvl56-1]
 
 <sup>2</sup> Bei Bedarf werden Angehörige der Armee seelsorgerisch, medizinisch, psychologisch und sozial beraten oder betreut.
 
-<sup>3</sup> Der Kommandant vermittelt Betreuung, medizinische, psychologische oder soziale Beratung und Seelsorge durch entsprechende Fachleute.
+<sup>3</sup> Die Personen und Stellen nach Absatz 1 vermitteln eine solche Beratung und Betreuung durch entsprechende Fachleute.[^chap5-sec1-lvl56-2]
 
 <sup>4</sup> In Not und Bedrängnis stehen die Angehörigen der Armee einander kameradschaftlich bei.
 
-[^chap5-sec1-lvl56-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap5-sec1-lvl56-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
+[^chap5-sec1-lvl56-2]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
 
 ### **57** Sprache
 
@@ -1200,7 +1201,7 @@ Die Angehörigen der Armee arbeiten kameradschaftlich zusammen. Sie respektieren
 - b. im Gemeinschaftsbereich;
 - c. wenn sie die Uniform tragen.
 
-<sup>4</sup> …[^chap8-sec2-lvl96-2]
+<sup>4</sup> ...[^chap8-sec2-lvl96-2]
 
 [^chap8-sec2-lvl96-1]: Fassung gemäss Ziff. I der V vom 19. Dez. 2003, in Kraft seit 1. März 2004 ([AS 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 [^chap8-sec2-lvl96-2]: Aufgehoben durch Ziff. II 2 der V vom 28. Nov. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 4493](https://fedlex.data.admin.ch/eli/oc/2014/748)).
@@ -1239,9 +1240,21 @@ Die Angehörigen der Armee arbeiten kameradschaftlich zusammen. Sie respektieren
 
 <sup>1</sup> Angehörige der Armee, die Hilfe benötigen, werden seelsorgerisch, medizinisch, psychologisch und sozial beraten und betreut. Der Sozialdienst der Armee bietet insbesondere bei persönlichen und finanziellen Problemen Unterstützung an.
 
-<sup>2</sup> In persönlichen Fragen und Angelegenheiten können sich Angehörige der Armee direkt an ihre Kommandanten, an den Truppenarzt, an den Armeeseelsorger, an den Sozialdienst der Armee und an den Psychologisch-pädagogischen Dienst der Armee wenden.[^chap8-sec2-lvl100-1]
+<sup>2</sup> In persönlichen Fragen und Angelegenheiten können sich Angehörige der Armee direkt an ihre Kommandanten, an den Truppenarzt, an den Armeeseelsorger, an den Sozialdienst der Armee, an den Psychologisch-pädagogischen Dienst der Armee oder an die Vertrauensstelle der Armee wenden.[^chap8-sec2-lvl100-1]
 
-[^chap8-sec2-lvl100-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap8-sec2-lvl100-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
+
+### **100***a* Vertrauensstelle der Armee
+
+[^chap8-sec2-lvl100a-1]
+
+[^chap8-sec2-lvl100a-1]: Eingefügt durch Ziff. I der V vom 30. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
+
+<sup>1</sup> Die Vertrauensstelle der Armee berät Angehörige der Armee bei Problemen im Zusammenhang mit dem Militärdienst. Sie koordiniert ihre Tätigkeiten mit den Personen und Stellen nach Ziffer 100 Absatz 2.
+
+<sup>2</sup> Sie übt ihre Funktion unabhängig aus und ist weisungsungebunden. Sie behandelt alle Anfragen vertraulich.
+
+<sup>3</sup> Sie kann Rücksprache mit beteiligten Personen sowie mit den zuständigen Stellen der Armee, der Militärverwaltung oder des VBS nehmen und diesen Empfehlungen abgeben. Rücksprache und Empfehlungen erfolgen in anonymisierter Form, ausser es liegt das schriftliche Einverständnis des Ratsuchenden vor.
 
 ### **101** Recht auf Sold, Unterkunft und Verpflegung sowie auf besondere Leistungen
 
@@ -1293,7 +1306,7 @@ Ist ein Angehöriger der Armee der Überzeugung, es sei ihm Unrecht getan worden
 - e. Qualifikationen und Entscheide im Rahmen von Beförderungsverfahren;
 - f. Ernennung zum Fachoffizier und Entzug der Offiziersfunktion;
 - g. Verfügungen über die Verlängerung der Militärdienstpflicht;
-- h.[^chap8-sec3-lvl104-2] …
+- h.[^chap8-sec3-lvl104-2] ...
 - i. Abgabe und Entzug des militärischen Führerausweises;
 - j. Einstellung im Flug- oder Fallschirmsprungdienst;
 - k. Verleihung und Entzug von militärischen Auszeichnungen;
@@ -1374,7 +1387,7 @@ Disziplinarstrafen sind: Verweis, Ausgangssperre, Disziplinarbusse und Arrest.[^
 
 Eine Disziplinarstrafverfügung kann beim nächsthöheren Kommandanten angefochten werden. Der Beschwerdeentscheid dieses Kommandanten kann, wenn er auf Arrest oder Busse mit einem Betrag von 300 Franken oder mehr lautet, an den Ausschuss des Militärappellationsgerichts weitergezogen werden.[^chap9-2]
 
-…[^chap9-3]
+...[^chap9-3]
 
 [^chap9-1]: Fassung gemäss Ziff. I der V vom 19. Dez. 2003, in Kraft seit 1. März 2004 ([AS 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 [^chap9-2]: Fassung des Satzes gemäss Ziff. I der V vom 19. Dez. 2003, in Kraft seit 1. März 2004 ([AS 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
@@ -1388,7 +1401,7 @@ Eine Disziplinarstrafverfügung kann beim nächsthöheren Kommandanten angefocht
 
 [^chap10-lvl110-1]: Fassung gemäss Ziff. I der V vom 19. Dez. 2003, in Kraft seit 1. März 2004 ([AS 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
-Das Dienstreglement der Schweizerischen Armee (DR 80) vom 27. Juni 1979*[^chap10-lvl110-2]* wird aufgehoben.
+Das Dienstreglement der Schweizerischen Armee (DR 80) vom 27. Juni 1979[^chap10-lvl110-2] wird aufgehoben.
 
 [^chap10-lvl110-2]: [[AS 1980 16](https://fedlex.data.admin.ch/eli/oc/1980/16_16_16), [1995 170](https://fedlex.data.admin.ch/eli/oc/1995/170_170_170)Ziff. 110 Abs. 1 Bst. a in der Fassung des 22. Juni 1994]
 
@@ -1396,11 +1409,11 @@ Das Dienstreglement der Schweizerischen Armee (DR 80) vom 27. Juni 1979*[^chap10
 
 Dieses Dienstreglement tritt am 1. Januar 1995 in Kraft.
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 [^t-2]: Aufgehoben durch Ziff. VI Bst. a der V vom 29. Okt. 2003, mit Wirkung seit 1. März 2004 ([AS 2003 4541](https://fedlex.data.admin.ch/eli/oc/2003/673), **2004** 943).
 
-Anhang 2*[^t-3]*
+Anhang 2[^t-3]
 
 (1. Kap. Ziff. 2 Abs. 1 zweiter Satz)
 

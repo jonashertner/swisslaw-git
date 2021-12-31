@@ -4,20 +4,20 @@ title: "Regolamento di servizio dell'esercito del 22 giugno 1994 (RSE)"
 short: RSE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/170_170_170"
 language: it
-version: 2018-01-01
+version: 2022-01-01
 adopted: 1994-06-22
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/170_170_170/20180101/it/xml/fedlex-data-admin-ch-eli-cc-1995-170_170_170-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/170_170_170/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/170_170_170/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1995-170_170_170-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/170_170_170/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Regolamento di servizio dell’esercito
 
-(RSE)**[^t-1]**
+(RSE)[^t-1]
 
-del 22 giugno 1994 (Stato 1° gennaio 2018)
+del 22 giugno 1994 (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
@@ -483,7 +483,7 @@ generale comandante in capo dell’esercito
 
 <sup>4</sup> Si occupa dei militari della sua unità. Questi possono rivolgersi a lui anche fuori del servizio.
 
-## Capitolo 4: Istruzione ed educazione militare****
+## Capitolo 4: Istruzione ed educazione militare
 
 [^chap4-1]
 
@@ -784,15 +784,16 @@ Con l’appello serale terminano il giorno di lavoro e la libera uscita delle re
 
 ### **56** Consulenza e assistenza
 
-<sup>1</sup> Per le questioni di carattere personale i militari possono rivolgersi direttamente al loro comandante, al medico di truppa, al cappellano militare, al Servizio sociale dell’esercito e al Servizio psicopedagogico dell’esercito.[^chap5-sec1-lvl56-1]
+<sup>1</sup> Per le questioni di carattere personale i militari possono rivolgersi direttamente al loro comandante, al medico di truppa, al cappellano militare, al Servizio sociale dell’esercito, al Servizio psicopedagogico dell’esercito o all’Organo di mediazione dell’esercito.[^chap5-sec1-lvl56-1]
 
 <sup>2</sup> Se necessario, i militari ricevono un’assistenza spirituale, medica, psicologica e sociale.
 
-<sup>3</sup> Il comandante organizza l’assistenza e la consulenza medica, psicologica o sociale e l’assistenza spirituale, facendo capo a specialisti.
+<sup>3</sup> Le persone o gli organi di cui al capoverso 1 organizzano tale consulenza e assistenza, facendo capo a specialisti.[^chap5-sec1-lvl56-2]
 
 <sup>4</sup> I militari si assistono mutualmente nel bisogno e nello sconforto, in spirito di camerateria.
 
-[^chap5-sec1-lvl56-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap5-sec1-lvl56-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
+[^chap5-sec1-lvl56-2]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
 
 ### **57** Lingua
 
@@ -1268,9 +1269,21 @@ I militari collaborano in spirito di camerateria. Essi rispettano la personalit�
 
 <sup>1</sup> I militari che hanno bisogno d’aiuto possono beneficiare di una consulenza e assistenza spirituale, medica, psicologica e sociale. Il servizio sociale dell’esercito offre il suo sostegno, in particolare in questioni personali e finanziarie.
 
-<sup>2</sup> Per le questioni di carattere personale i militari possono rivolgersi direttamente al loro comandante, al medico di truppa, al cappellano militare, al Servizio sociale dell’esercito e al Servizio psicopedagogico dell’esercito.[^chap8-sec2-lvl100-1]
+<sup>2</sup> Per le questioni di carattere personale i militari possono rivolgersi direttamente al loro comandante, al medico di truppa, al cappellano militare, al Servizio sociale dell’esercito, al Servizio psicopedagogico dell’esercito o all’Organo di mediazione dell’esercito.[^chap8-sec2-lvl100-1]
 
-[^chap8-sec2-lvl100-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap8-sec2-lvl100-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
+
+### **100***a* Organo di mediazione dell’esercito
+
+[^chap8-sec2-lvl100a-1]
+
+[^chap8-sec2-lvl100a-1]: Introdotto dal n. I dell’O del 30 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
+
+<sup>1</sup> L’Organo di mediazione dell’esercito consiglia i militari in caso di problemi relativi al servizio militare. Coordina le sue attività con le persone e gli organi di cui al numero 100 capoverso 2.
+
+<sup>2</sup> Svolge la sua funzione in modo indipendente e non è vincolato a istruzioni. Tratta tutte le richieste in modo confidenziale.
+
+<sup>3</sup> Può consultare le persone coinvolte nonché gli organi competenti dell’esercito, dell’amministrazione militare o del DDPS e indirizzare loro raccomandazioni. Le consultazioni e le raccomandazioni avvengono in modo anonimo, a meno che non si disponga del consenso scritto della persona che ha chiesto la consulenza.
 
 ### **101** Diritto al soldo, all’alloggio e alla sussistenza, nonché a prestazioni particolari
 
@@ -1425,11 +1438,11 @@ Il regolamento di servizio dell’esercito svizzero (RS 80) del 27 giugno 1979[^
 
 Il presente regolamento di servizio entra in vigore il 1° gennaio 1995.
 
-Allegato 1*[^t-2]*
+Allegato 1[^t-2]
 
 [^t-2]: Abrogato dal n. IV lett. a dell’O del 29 ott. 2003, con effetto dal 1° mar. 2004 ([RU 2003 4541](https://fedlex.data.admin.ch/eli/oc/2003/673), **2004** 943).
 
-Allegato 2*[^t-3]*
+Allegato 2[^t-3]
 
 (Cap. 1 n. 2 cpv. 1 secondo per.)
 

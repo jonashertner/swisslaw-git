@@ -4,20 +4,20 @@ title: "Règlement de service de l'armée du 22 juin 1994 (RSA)"
 short: RSA
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/170_170_170"
 language: fr
-version: 2018-01-01
+version: 2022-01-01
 adopted: 1994-06-22
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/170_170_170/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-170_170_170-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/170_170_170/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/170_170_170/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-170_170_170-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/170_170_170/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Règlement de service de l’armée
 
-(RSA)**[^t-1]**
+(RSA)[^t-1]
 
-du 22 juin 1994 (Etat le 1<sup>er</sup> janvier 2018)
+du 22 juin 1994 (État le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
@@ -146,7 +146,7 @@ Selon la constitution et la loi, l’armée est subordonnée au pouvoir civil. L
 
 L’armée est une institution grande et diverse. Elle ne peut remplir sa mission fondamentale – défendre, protéger, aider – que si toutes ses forces collaborent. Des troupes formées et équipées de manière diversifiée et des spécialistes doivent remplir des missions particulières et travailler ensemble à atteindre un but commun. L’armée a donc besoin d’une organisation de commandement efficace. Elle est articulée en formations et organisée hiérarchiquement.
 
-L’ordre et l’obéissance sont les caractéristiques principales du commandement militaire. Mais le terme commandement a un contenu beaucoup plus vaste qu’une simple donnée d’ordre, même en cas d’engagement réel. Le commandant doit fixer des buts, prendre des décisions et répartir des missions. Conduire signifie aussi traiter les informations reçues et les transmettre judicieusement. Les commandants doivent coordonner et contrôler le travail de leurs subordonnés et collaborer avec les organes de même niveau. Ils doivent motiver leurs subordonnés, veiller à leur bien-être, et empêcher ou arbitrer les conflits internes. A tous les échelons, le droit et le devoir de commander vont de pair avec la responsabilité.
+L’ordre et l’obéissance sont les caractéristiques principales du commandement militaire. Mais le terme commandement a un contenu beaucoup plus vaste qu’une simple donnée d’ordre, même en cas d’engagement réel. Le commandant doit fixer des buts, prendre des décisions et répartir des missions. Conduire signifie aussi traiter les informations reçues et les transmettre judicieusement. Les commandants doivent coordonner et contrôler le travail de leurs subordonnés et collaborer avec les organes de même niveau. Ils doivent motiver leurs subordonnés, veiller à leur bien-être, et empêcher ou arbitrer les conflits internes. À tous les échelons, le droit et le devoir de commander vont de pair avec la responsabilité.
 
 Des subordonnés aussi, il est exigé davantage que la simple obéissance. Dans le cadre de leurs missions, ils doivent agir de manière autonome, disciplinée et responsable. Ils doivent informer leurs supérieurs et leurs camarades tout en collaborant avec eux de manière efficace.
 
@@ -292,7 +292,7 @@ Grande Unité (brigade, commandement de la police militaire, Forces terrestres, 
 
 <sup>1</sup> Selon la formation acquise à l’armée et selon leur fonction, les militaires sont rangés dans un ordre hiérarchique comprenant un certain nombre de grades.
 
-<sup>2</sup> A l’égalité de grade, l’ordre hiérarchique est déterminé d’après l’ancienneté ou, à l’égalité d’ancienneté, d’après la date de naissance.
+<sup>2</sup> À l’égalité de grade, l’ordre hiérarchique est déterminé d’après l’ancienneté ou, à l’égalité d’ancienneté, d’après la date de naissance.
 
 <sup>3</sup> L’organisation du commandement et l’ordre hiérarchique ne doivent pas obligatoirement correspondre. Des supérieurs peuvent être subordonnés à des militaires inférieurs en grade.
 
@@ -487,7 +487,7 @@ Les sous-officiers de l’unité
 
 <sup>4</sup> Il prend soin de ses subordonnés. Ceux-ci peuvent s’adresser en tout temps à leur commandant, même en dehors des périodes de service.
 
-## Chapitre 4 Instruction et éducation militaires****
+## Chapitre 4 Instruction et éducation militaires
 
 [^chap4-1]
 
@@ -584,7 +584,7 @@ L’instruction et l’éducation militaires ont pour but de rendre les militair
 
 <sup>5</sup> Celui qui n’atteint pas les buts de l’instruction dans les limites fixées est encouragé par des mesures spéciales. Le commandant peut ordonner qu’une instruction supplémentaire lui soit donnée en dehors des heures générales de travail.
 
-### **38** Evaluation du succès de l’instruction
+### **38** Évaluation du succès de l’instruction
 
 <sup>1</sup> Les enseignants ont pour tâche de contrôler régulièrement le niveau de l’instruction. Leurs supérieurs évaluent les résultats par des visites à la troupe et des inspections. Si ces contrôles révèlent un niveau insuffisant, des mesures d’instruction complémentaires doivent être ordonnées.
 
@@ -788,15 +788,16 @@ L’appel du soir met un terme à la journée de travail et à la sortie pour le
 
 ### **56** Conseils et assistance
 
-<sup>1</sup> Les militaires peuvent s’adresser directement à leur commandant, au médecin de troupe, à l’aumônier, au Service social de l’armée et au Service psycho-pédagogique de l’armée pour toute question ou affaire personnelle.[^chap5-sec1-lvl56-1]
+<sup>1</sup> Les militaires peuvent s’adresser directement à leur commandant, au médecin de troupe, à l’aumônier, au Service social de l’armée, au Service psycho-pédagogique de l’armée et au Service de médiation de l’armée pour toute question ou affaire personnelle.[^chap5-sec1-lvl56-1]
 
 <sup>2</sup> Au besoin, les militaires reçoivent une assistance spirituelle, médicale, psychologique et sociale.
 
-<sup>3</sup> Le commandant organise l’assistance, les conseils médicaux, psychologiques ou sociaux ainsi que l’assistance spirituelle en faisant appel à des spécialistes.
+<sup>3</sup> Les personnes et les services mentionnés à l’al. 1 organisent l’assistance et les conseils en faisant appel à des spécialistes.[^chap5-sec1-lvl56-2]
 
 <sup>4</sup> Dans les difficultés et la détresse, les militaires s’entraident en toute camaraderie.
 
-[^chap5-sec1-lvl56-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap5-sec1-lvl56-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
+[^chap5-sec1-lvl56-2]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
 
 ### **57** Langue
 
@@ -867,7 +868,7 @@ La cohésion entre les membres d’une formation est la condition essentielle à
 
 Au service, les militaires sont en butte à des contraintes inhabituelles; ils sont aussi confrontés à des obligations hors du commun. L’engagement – en particulier le combat – peut les pousser jusqu’à leurs limites extrêmes. La violence les menace à chaque instant dans leur corps et dans leur vie. De leur côté, ils doivent aussi employer la force; cet emploi de la force, n’est justifié que par la nécessité de parer à la menace. Dans les périodes d’instruction et dans l’engagement, on tiendra compte dès lors, autant que possible, du besoin d’assistance spirituelle et religieuse.
 
-On rappellera ici une exigence de l’Etat de droit et une règle de la camaraderie: en matière de croyance, tout militaire doit observer à l’égard des autres le même respect qu’il attend d’autrui.
+On rappellera ici une exigence de l’État de droit et une règle de la camaraderie: en matière de croyance, tout militaire doit observer à l’égard des autres le même respect qu’il attend d’autrui.
 
 ### **63** Respect dû aux religions
 
@@ -985,9 +986,10 @@ La garde protège la troupe, son matériel et ses installations contre des attaq
 
 <sup>2</sup> La garde est subordonnée directement au commandant qui a émis l’ordre d’engagement pour le service de garde. Sauf directive contraire, le commandant de la garde ne reçoit d’ordre que de ce commandant, l’équipe de garde que du commandant de la garde.[^chap7-sec2-lvl74-1]
 
-<sup>3</sup> En principe, le service de garde est effectué avec l’arme chargée. Le DDPS règle les détails.
+<sup>3</sup> En principe, le service de garde est effectué avec l’arme à feu et des munitions de combat.[^chap7-sec2-lvl74-2] Le DDPS règle les détails.
 
 [^chap7-sec2-lvl74-1]: Nouvelle teneur selon le ch. I 4 de l’O du 3 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^chap7-sec2-lvl74-2]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
 
 ### **75** Ordre d’engagement pour le service de garde
 
@@ -1009,7 +1011,7 @@ La garde protège la troupe, son matériel et ses installations contre des attaq
 
 ## Chapitre 8 Droits et devoirs
 
-Etat de droit, la Suisse garantit à ses citoyennes et à ses citoyens des droits fondamentaux et des libertés, contribuant ainsi à leur épanouissement personnel. Une des missions importantes de notre armée de milice est la défense de ces droits et de ces libertés.
+État de droit, la Suisse garantit à ses citoyennes et à ses citoyens des droits fondamentaux et des libertés, contribuant ainsi à leur épanouissement personnel. Une des missions importantes de notre armée de milice est la défense de ces droits et de ces libertés.
 
 La crédibilité et le succès de l’armée dépendent de la volonté de tous les militaires d’accomplir leurs obligations. Mais les habitudes de la vie civile ne coïncident souvent pas avec les exigences militaires. Cela est notamment valable dans les domaines de l’obéissance et de l’obligation, en cas de guerre, de remplir la mission confiée, si nécessaire au prix de sa vie.
 
@@ -1272,9 +1274,21 @@ Les militaires doivent collaborer dans un esprit de camaraderie. Ils respectent 
 
 <sup>1</sup> Les militaires peuvent, au besoin, bénéficier de conseils et d’assistance en matière spirituelle, médicale, psychologique et sociale. Le service social de l’armée offre en particulier son soutien dans les domaines personnel et financier.
 
-<sup>2</sup> Les militaires peuvent s’adresser directement à leur commandant, au médecin de troupe, à l’aumônier, au Service social de l’armée et au Service psycho-pédagogique de l’armée pour toute question ou affaire personnelle.[^chap8-sec2-lvl100-1]
+<sup>2</sup> Les militaires peuvent s’adresser directement à leur commandant, au médecin de troupe, à l’aumônier, au Service social de l’armée, au Service psycho-pédagogique de l’armée et au Service de médiation de l’armée pour toute question ou affaire personnelle.[^chap8-sec2-lvl100-1]
 
-[^chap8-sec2-lvl100-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap8-sec2-lvl100-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
+
+### **100***a* Service de médiation de l’armée
+
+[^chap8-sec2-lvl100a-1]
+
+[^chap8-sec2-lvl100a-1]: Introduit par le ch. I de l’O du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
+
+<sup>1</sup> Le Service de médiation de l’armée conseille les militaires qui ont des problèmes en lien avec le service militaire. Il coordonne ses activités avec les personnes et les services mentionnés au ch. 100, al. 2.
+
+<sup>2</sup> Il exerce sa fonction de manière indépendante et n’est pas lié par des instructions. Il traite les demandes qui lui sont adressées de manière confidentielle.
+
+<sup>3</sup> Il est habilité à s’entretenir avec les personnes concernées ainsi qu’avec les services compétents de l’armée, de l’administration militaire ou du DDPS et à leur donner des recommandations. Dans le cadre de ses entretiens et de ses recommandations, il ne révèle pas l’identité de la personne qui consulte, à moins que celle-ci n’ait donné son consentement par écrit.
 
 ### **101** Droit à la solde, au logement et à la subsistance ainsi qu’à des prestations spéciales
 
@@ -1337,7 +1351,7 @@ Si un militaire s’estime victime d’un préjudice, il doit d’abord chercher
 
 <sup>4</sup> La plainte de service n’est pas admissible contre des ordres de mise sur pied ainsi que contre des décisions relatives aux déplacements de service, services anticipés, services volontaires et dispenses. Contre de telles décisions, il est possible de déposer une demande de réexamen auprès de l’autorité qui les a prises.
 
-[^chap8-sec3-lvl104-2]: Abrogée par le ch. 1 de l’annexe 2 à l’O du 21 nov. 2007, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2007 6751](https://fedlex.data.admin.ch/eli/oc/2007/870)).
+[^chap8-sec3-lvl104-2]: Abrogée par l’annexe 2 ch. 1 de l’O du 21 nov. 2007, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2007 6751](https://fedlex.data.admin.ch/eli/oc/2007/870)).
 
 ### **105** Instance de plainte
 
@@ -1419,7 +1433,7 @@ Une décision disciplinaire peut être contestée auprès du commandant immédia
 
 [^chap10-lvl110-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2003, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
-Le règlement de service du 27 juin 1979 de l’armée suisse (RS 80)*[^chap10-lvl110-2]* est abrogé.
+Le règlement de service du 27 juin 1979 de l’armée suisse (RS 80)[^chap10-lvl110-2] est abrogé.
 
 [^chap10-lvl110-2]: [[RO 1980 16](https://fedlex.data.admin.ch/eli/oc/1980/16_16_16), [1995 170](https://fedlex.data.admin.ch/eli/oc/1995/170_170_170)ch. 110 al. 1 let. a, dans la teneur du 22 juin 1994]
 
@@ -1427,25 +1441,25 @@ Le règlement de service du 27 juin 1979 de l’armée suisse (RS 80)*[^chap10-l
 
 Le présent règlement de service entre en vigueur le 1<sup>er</sup> janvier 1995.
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 [^t-2]: Abrogée par le ch. IV let. a de l’O du 29 oct. 2003, avec effet au 1<sup>er</sup> mars 2004 ([RO 2003 4541](https://fedlex.data.admin.ch/eli/oc/2003/673), **2004** 943).
 
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
 (section 1, ch. 2, al. 1, 2<sup>e</sup> phrase)
 
 ## Dispositions particulières pour le service de promotion de la paix
 
-[^t-3]: Introduite par le ch. III de l’O du 9 sept. 1998 ([RO 1998 2288](https://fedlex.data.admin.ch/eli/oc/1998/2288_2288_2288)). Mise à jour selon le ch. II de l’O du 19 déc. 2003 ([RO 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)), le ch. IV let. b de l’O du 29 oct. 2003 ([RO 2003 4541](https://fedlex.data.admin.ch/eli/oc/2003/673), **2004** 943) et le ch. II de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^t-3]: Introduite par le ch. III de l’O du 9 sept. 1998 ([RO 1998 2288](https://fedlex.data.admin.ch/eli/oc/1998/2288_2288_2288)). Mise à jour par le ch. II de l’O du 19 déc. 2003 ([RO 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)), le ch. IV let. b de l’O du 29 oct. 2003 ([RO 2003 4541](https://fedlex.data.admin.ch/eli/oc/2003/673), **2004** 943) et le ch. II de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
 ### Section 1 Principes
 
 L’objectif de la contribution à la promotion militaire de la paix est d’empêcher, de juguler, de mettre fin à des hostilités entre diverses parties à un conflit ou, à tout le moins, de créer des conditions favorables au règlement d’un conflit. Cette contribution n’est apportée qu’avec l’accord de toutes les parties au conflit.
 
-En dépêchant du personnel, la Suisse entend contribuer activement au maintien et à la promotion de la paix. Pour ce faire, elle collabore avec d’autres Etats.
+En dépêchant du personnel, la Suisse entend contribuer activement au maintien et à la promotion de la paix. Pour ce faire, elle collabore avec d’autres États.
 
-L’engagement dans le cadre de la promotion militaire de la paix se fonde sur un mandat émis par une organisation internationale. Cette dernière fixe le statut du personnel engagé avec les parties au conflit. Elle règle les modalités d’intervention dans un accord passé avec les Etats qui engagent du personnel dans les missions.
+L’engagement dans le cadre de la promotion militaire de la paix se fonde sur un mandat émis par une organisation internationale. Cette dernière fixe le statut du personnel engagé avec les parties au conflit. Elle règle les modalités d’intervention dans un accord passé avec les États qui engagent du personnel dans les missions.
 
 L’inscription en vue d’une participation à un engagement de promotion militaire de la paix est volontaire. Le postulant peut passer un examen d’aptitude général ou spécifique à la fonction. Si l’issue de la procédure de recrutement est positive, il est habilité à recevoir l’instruction spécifique à l’engagement. Toute personne accomplissant un service de promotion de la paix est engagée sur la base d’un contrat de droit public.
 
@@ -1477,7 +1491,7 @@ Les prescriptions relatives à la marche du service au service de promotion de l
 
 <sup>2</sup> Le DDPS est responsable des composantes opérationnelles de la mission.
 
-<sup>3</sup> Un commandant de contingent suisse ou un haut représentant national (*Senior N**a**tional Representative*) est nommé pour la conduite des contingents suisses sur le lieu d’intervention. Les observateurs militaires et les personnes envoyées individuellement en mission sont mis directement à la disposition de l’organisation internationale concernée.
+<sup>3</sup> Un commandant de contingent suisse ou un haut représentant national (*Senior National Representative*) est nommé pour la conduite des contingents suisses sur le lieu d’intervention. Les observateurs militaires et les personnes envoyées individuellement en mission sont mis directement à la disposition de l’organisation internationale concernée.
 
 <sup>4</sup> Au sein d’un contingent suisse, seuls les cadres suisses ont le pouvoir de décision et la responsabilité de la conduite.
 
