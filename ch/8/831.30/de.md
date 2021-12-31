@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters-
 short: ELG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2007-804-20210101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-804-20220101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20210101/de"
 
 (ELG)
 
-vom 6. Oktober 2006 (Stand am 1. Januar 2021)
+vom 6. Oktober 2006 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -654,10 +654,9 @@ Die folgenden Bestimmungen des AHVG[^26-2] mit ihren allfälligen Abweichungen v
 
 - a. das Bearbeiten von Personendaten (Art. 49*a* AHVG[^26-4]);
 - b. die Datenbekanntgabe (Art. 50*a* AHVG);
-- c. die Versichertennummer (Art. 50*c* AHVG);
-- d. die systematische Verwendung der Versichertennummer als Sozialversicherungsnummer (Art. 50*d* AHVG);
-- e. die Bekanntgabe der Versichertennummer beim Vollzug kantonalen Rechts (Art. 50*f* AHVG);
-- f. die sichernden Massnahmen (Art. 50*g* AHVG).
+- c.[^26-5] die AHV-Nummer (Art. 50*c* AHVG);
+- d.[^26-6] die systematische Verwendung der AHV-Nummer (Art. 153*b*–153*i* AHVG);
+- e. und f.[^26-7] ...
 
 <sup>2</sup> Die Organe nach Artikel 21 Absatz 2 haben durch Abrufverfahren Zugriff auf das zentrale Register der laufenden Leistungen der Zentralen Ausgleichsstelle (Art. 50*b* AHVG).
 
@@ -665,6 +664,9 @@ Die folgenden Bestimmungen des AHVG[^26-2] mit ihren allfälligen Abweichungen v
 [^26-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^26-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^26-4]: Siehe heute: Art. 49*b*.
+[^26-5]: Fassung gemäss Anhang Ziff. 28 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^26-6]: Fassung gemäss Anhang Ziff. 28 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^26-7]: Aufgehoben durch Anhang Ziff. 28 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), mit Wirkung seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 26a
 
@@ -808,7 +810,7 @@ Der Bundesrat erlässt die Ausführungsbestimmungen.
 
 Solange die Kantone die Kosten, welche nach Artikel 14 Absatz 1 vergütet werden können, nicht bezeichnet haben, gelten die Artikel 3–18 der Verordnung vom 29. Dezember 1997[^34-1] über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen in der am 31. Dezember des Jahres vor dem Inkrafttreten des Bundesgesetzes vom 6. Oktober 2006[^34-2] über die Schaffung von Erlassen zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen gültigen Fassung sinngemäss weiterhin, längstens jedoch für die Dauer von drei Jahren seit dem Inkrafttreten dieses Gesetzes.
 
-[^34-1]: [[AS 1998 239](https://fedlex.data.admin.ch/eli/oc/1998/239_239_239), [2000 81](https://fedlex.data.admin.ch/eli/oc/2000/17), [2002 3728](https://fedlex.data.admin.ch/eli/oc/2002/578), [2003 4299](https://fedlex.data.admin.ch/eli/oc/2003/639), [2004 5399](https://fedlex.data.admin.ch/eli/oc/2004/826). [AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)Ziff. II 9].
+[^34-1]: [[AS 1998 239](https://fedlex.data.admin.ch/eli/oc/1998/239_239_239); [2000 81](https://fedlex.data.admin.ch/eli/oc/2000/17); [2002 3728](https://fedlex.data.admin.ch/eli/oc/2002/578); [2003 4299](https://fedlex.data.admin.ch/eli/oc/2003/639); [2004 5399](https://fedlex.data.admin.ch/eli/oc/2004/826). [AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)Ziff. II 9].
 [^34-2]: [AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)
 
 #### Art. 35
@@ -819,7 +821,7 @@ Das Bundesgesetz vom 19. März 1965[^35-1] über Ergänzungsleistungen zur Alter
 
 Datum des Inkrafttreten: 1. Januar 2008[^35-2]
 
-[^35-1]: [[AS 1965 537](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535), [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32), [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)Ziff. III, [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)Ziff. II, [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)Ziff. II 2, [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017), [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699), [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)Anhang Ziff. 4, [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952), [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441), [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 6 [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)Anhang Ziff. 9 [3453](https://fedlex.data.admin.ch/eli/oc/2002/511), [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)Anhang Ziff. 4, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 8]
+[^35-1]: [[AS 1965 537](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535); [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32); [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)Ziff. III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)Ziff. II; [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)Ziff. II 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699); [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)Anhang Ziff. 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 6, [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)Anhang Ziff. 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)Anhang Ziff. 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 8]
 [^35-2]: BRB vom 7. Nov. 2007
 
 ## Übergangsbestimmung zur Änderung vom 19. März 2010

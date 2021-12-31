@@ -4,11 +4,11 @@ title: "Legge federale del 6 ottobre 2006 sulle prestazioni complementari all'as
 short: LPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2007-804-20210101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-804-20220101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20210101/it"
 
 (LPC)
 
-del 6 ottobre 2006 (Stato 1° gennaio 2021)
+del 6 ottobre 2006 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -26,7 +26,7 @@ visti gli articoli 112*a* e 112*c* capoverso 2 della Costituzione federale[^ingr
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)
+[^ingress-2]: FF **200****5** 5349
 
 ## Capitolo 1: Applicabilità della LPGA
 
@@ -203,9 +203,9 @@ Il Consiglio federale disciplina:
 - h. la nozione di istituto ai sensi della presente legge.
 
 [^9-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^9-2]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^9-2]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); FF **201****6** 6705).
 [^9-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^9-4]: Introdotta dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^9-4]: Introdotta dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); FF **20****16** 6705).
 [^9-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 9a
@@ -294,7 +294,7 @@ Per tutte le persone sono inoltre riconosciute le spese seguenti:
 - e. pensioni alimentari versate in virtù del diritto di famiglia;
 - f.[^10-16] spese nette per la custodia complementare alla famiglia di figli che non hanno ancora compiuto gli 11 anni di età, sempre che la custodia sia necessaria e comprovata.
 
-[^10-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 (RU **20****20** 585; [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-2]: Nuovi importi giusta l’art. 1 dell’O 21 del 14 ott. 2020 sull’adeguamento delle prestazioni complementari all’AVS/AI, in vigore dal 1° gen. 2021 ([RU 2020 4619](https://fedlex.data.admin.ch/eli/oc/2020/823)).
 [^10-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-4]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
@@ -303,13 +303,13 @@ Per tutte le persone sono inoltre riconosciute le spese seguenti:
 [^10-7]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Correzione della Commissione di redazione dell’AF del 30 giu. 2020, pubblicata il 7 lug. 2020 ([RU 2020 2827](https://fedlex.data.admin.ch/eli/oc/2020/513)).
 [^10-8]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta il n. III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
 [^10-9]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta il n. III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^10-10]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta il n. III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); FF **2****019** 3381).
+[^10-10]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta il n. III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^10-11]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta il n. III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^10-12]: Introdotto dal n. III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^10-13]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-14]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 (RU **20****20** 585; [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-14]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-15]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-16]: Introdotta dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 (RU **2****020** 585; [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-16]: Introdotta dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 11
 
@@ -651,10 +651,9 @@ Si applicano per analogia le seguenti disposizioni della LAVS[^26-2], incluse le
 
 - a. il trattamento di dati personali (art. 49*a* LAVS[^26-4]);
 - b. la comunicazione di dati (art. 50*a* LAVS);
-- c. il numero d’assicurato (art. 50*c* LAVS);
-- d. l’utilizzazione sistematica del numero d’assicurato quale numero d’assicurazione sociale (art. 50*d* LAVS);
-- e. la comunicazione del numero d’assicurato nell’ambito dell’esecuzione del diritto cantonale (art. 50*f* LAVS);
-- f. le misure di sicurezza (art. 50*g* LAVS).
+- c.[^26-5] il numero AVS (art. 50*c* LAVS);
+- d.[^26-6] l’utilizzazione sistematica del numero AVS (art. 153*b*–153*i* LAVS);
+- [tab] e. ed f.[^26-7] ...
 
 <sup>2</sup> Gli organi di cui all’articolo 21 capoverso 2 possono accedere mediante procedura di richiamo al registro centrale delle prestazioni correnti dell’Ufficio centrale di compensazione (art. 50*b* LAVS).
 
@@ -662,6 +661,9 @@ Si applicano per analogia le seguenti disposizioni della LAVS[^26-2], incluse le
 [^26-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^26-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^26-4]: Attualmente art. 49*b*.
+[^26-5]: Nuovo testo giusta l’all. n. 28 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^26-6]: Nuovo testo giusta l’all. n. 28 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^26-7]: Abbrogati dall’all. n. 28 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 26a
 
@@ -726,7 +728,7 @@ Possono accedere mediante procedura di richiamo al sistema d’informazione sull
 
 Gli articoli 72–75 LPGA[^30-1] non sono applicabili*.*
 
-[^30-1]: RS **830****.****1**
+[^30-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 31
 
@@ -784,10 +786,10 @@ Ai cittadini svizzeri, islandesi, norvegesi o del Principato del Liechtenstein c
 <sup>4</sup> Nella presente legge le espressioni «Stati membri dell’Unione europea», «Stati membri della Comunità europea», «Stati dell’Unione europea» e «Stati della Comunità europea» designano gli Stati cui si applica l’Accordo sulla libera circolazione delle persone.
 
 [^32-1]: Nuovo testo giusta l’all. n. 3 del DF del 17 giu. 2016 (estensione alla Croazia dell’Accordo sulla libera circolazione delle persone), in vigore dal 1° gen. 2017 ([RU 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 1899](https://fedlex.data.admin.ch/eli/fga/2016/467)).
-[^32-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^32-2]: RS **0.142****.****112.681**
 [^32-3]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo al coordinamento dei sistemi di sicurezza sociale ([RS 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
-[^32-4]: Regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, che stabilisce le modalità di applicazione del regolamento (CE) n. 883/2004 relativo al coordinamento dei sistemi di sicurezza sociale (RS **0.8****31.109.268.11**).
-[^32-5]: Regolamento (CEE) n. 1408/71 del Consiglio, del 14 giugno 1971, relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) e della Convenzione AELS riveduta.
+[^32-4]: Regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, che stabilisce le modalità di applicazione del regolamento (CE) n. 883/2004 relativo al coordinamento dei sistemi di sicurezza sociale ([RS 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
+[^32-5]: Regolamento (CEE) n. 1408/71 del Consiglio, del 14 giugno 1971, relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), **20****08** 4219 4273, [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) e della Convenzione AELS riveduta.
 [^32-6]: Regolamento (CEE) n. 574/72 del Consiglio, del 21 marzo 1972, che stabilisce le modalità di applicazione del regolamento (CEE) n. 1408/71 relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) e della Convenzione AELS riveduta.
 [^32-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
@@ -841,10 +843,10 @@ I Cantoni sono autorizzati ad applicare l’articolo 21*a* soltanto a partire da
 
 <sup>3</sup> L’articolo 11*a* capoversi 3 e 4 si applica soltanto alla sostanza spesa dopo l’entrata in vigore della presente modifica.
 
-### Disposizione transitoria della modifica del 20 dicembre 2019****
+## Disposizione transitoria della modifica del 20 dicembre 2019****
 
-[^u2-lvlu1-1]
+[^u3-1]
 
-[^u2-lvlu1-1]: [RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)
+[^u3-1]: [RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)
 
 Ai beneficiari di prestazioni complementari che al momento dell’entrata in vigore della modifica del 22 marzo 2019 (Riforma delle PC) percepivano già una prestazione complementare annua si applica l’articolo 10 capoverso 1<sup>ter</sup> LPC, trascorso il termine di tre anni previsto dalle disposizioni transitorie della modifica del 22 marzo 2019.
