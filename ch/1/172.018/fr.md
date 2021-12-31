@@ -3,18 +3,18 @@ sr: "172.018"
 title: "Ordonnance du 14 août 1991 concernant l'exécution, dans les pays en développement, de programmes et de projets en faveur de l'environnement global"
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1856_1856_1856"
 language: fr
-version: 1999-07-01
+version: 2022-01-01
 adopted: 1991-08-14
 in_force: 1991-08-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1856_1856_1856/19990701/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1856_1856_1856-19990701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1856_1856_1856/19990701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1856_1856_1856/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1856_1856_1856-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1856_1856_1856/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant l’exécution, dans les pays en développement, de programmes et de projets en faveur de l’environnement global
 
-du 14 août 1991 (Etat le 1<sup>er</sup> juillet 1999)
+du 14 août 1991 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -22,14 +22,16 @@ vu l’art. 102, ch. 5, de la constitution fédérale[^ingress-1]; vu l’art. 6
 
 arrête:
 
-[^ingress-1]: [RS **1** 3]. A la disp. mentionnée correspond actuellement l’art. 182 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [RS **1** 3]. À la disp. mentionnée correspond actuellement l’art. 182 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 [^ingress-2]: [[RO 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114), [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170)[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)art. 59 ch. 2, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699), [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)ch. II 2 [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808), [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116), [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)art. 1<sup>er</sup> 1530 ch. II 1 1587 art. 1<sup>er</sup>, **1991** 362, **1992** 2 art. 1<sup>er</sup> 288 annexe ch. 2 510 581 app. ch. 2, **1993** 1770, **1995** 978 4093 annexe ch. 2 4362 art. 1<sup>er</sup> 5050 annexe ch. 1, **1996** 546 annexe ch. 1 1486 1498 annexe ch. 1. [RO 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)art. 63]. Voir actuellement la L du 21 mars 1997 sur l’organisation du gouvernement et de l’administration ([RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)).
 
 #### Art. 1
 
-**Objet**
+**Objet**[^1-1]
 
-La présente ordonnance régit l’exécution des mesures prévues dans le crédit cadre pour le financement, dans les pays en développement, de programmes et de projets en faveur de l’environnement global. Elle détermine notamment les compétences décisionnelles et financières pour autant qu’elles ne sont pas réglées par d’autres dispositions.
+La présente ordonnance régit l’exécution des mesures prévues dans le crédit d’engagement pour le financement, dans les pays en développement, de programmes et de projets en faveur de l’environnement global. Elle détermine notamment les compétences décisionnelles et financières pour autant qu’elles ne sont pas réglées par d’autres dispositions.
+
+[^1-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 2
 
@@ -42,7 +44,7 @@ Les services fédéraux compétents pour la planification et l’exécution des 
 - a. la Direction de la coopération au développement et de l’aide humanitaire (DDA) pour les actions bilatérales et multi-bilatérales, y compris les contributions à des programmes régionaux coordonnés sur le plan international, ainsi qu’à des mesures en faveur de la participation de pays en développement à des conférences internationales et des négociations de conventions internationales.
 - b. l’Office fédéral de l’environnement, des forêts et du paysage (OFEFP) pour les contributions à des fonds multilatéraux, y compris la facilité globale pour l’environnement de la Banque mondiale.
 
-<sup>2</sup> Le Secrétariat d’Etat à l’économie (seco)[^2-1] est compétent pour les négociations concernant des contributions à des fonds de la Banque mondiale et de banques régionales de développement dans le domaine de l’environnement global.
+<sup>2</sup> Le Secrétariat d’État à l’économie (seco)[^2-1] est compétent pour les négociations concernant des contributions à des fonds de la Banque mondiale et de banques régionales de développement dans le domaine de l’environnement global.
 
 [^2-1]: Nouvelle dénomination selon l’art. 21 ch. 1 de l’O du 17 nov. 1999, en vigueur depuis le 1<sup>er</sup> juil. 1999 ([RO 2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)). Il a été tenu compte de cette mod. dans tout le texte.
 
@@ -74,9 +76,12 @@ La conception globale de la contribution suisse à la collaboration internationa
 
 <sup>1</sup> Les crédits annuels destinés au financement des mesures bilatérales et multibilatérales sont intégrés au budget de la DDA, et ceux destinés aux contributions à des fonds multilatéraux au budget de l’OFEFP.
 
-<sup>2</sup> Chaque service fédéral compétent contrôle la part du crédit-cadre qui lui est attribuée.
+<sup>2</sup> Chaque service fédéral compétent contrôle la part du crédit d’engagement qui lui est attribuée.[^5-1]
 
-<sup>3</sup> La DDA établit semestriellement une récapitulation consolidée des engagements et des dépenses pour l’ensemble du crédit cadre. L’OFEFP prépare à cet effet les données nécessaires sur les moyens qu’il gère.
+<sup>3</sup> La DDA établit semestriellement une récapitulation consolidée des engagements et des dépenses pour l’ensemble du crédit d’engagement. L’OFEFP prépare à cet effet les données nécessaires sur les moyens qu’il gère.[^5-2]
+
+[^5-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^5-2]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 6
 
@@ -126,7 +131,9 @@ Les chefs de département ou directeurs concernés sont habilités, dans le cadr
 
 <sup>2</sup> Les services fédéraux compétents peuvent conclure des accords de droit privé ou public pour l’exécution de mesures, sous réserve de l’ouverture des crédits nécessaires.
 
-<sup>3</sup> Le personnel nécessaire à l’exécution des mesures peut être engagé; son coût et celui des places de travail correspondantes seront imputés au crédit-cadre.
+<sup>3</sup> …[^11-1]
+
+[^11-1]: Abrogé par l’annexe ch. 3 de l’O du 10 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 12
 

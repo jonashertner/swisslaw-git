@@ -3,18 +3,18 @@ sr: "172.018"
 title: "Ordinanza del 14 agosto 1991 sull'attuazione di programmi e progetti ecologici d'importanza globale nei Paesi in sviluppo"
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1856_1856_1856"
 language: it
-version: 1999-07-01
+version: 2022-01-01
 adopted: 1991-08-14
 in_force: 1991-08-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1856_1856_1856/19990701/it/xml/fedlex-data-admin-ch-eli-cc-1991-1856_1856_1856-19990701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1856_1856_1856/19990701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1856_1856_1856/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1991-1856_1856_1856-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1856_1856_1856/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’attuazione di programmi e progetti ecologici d’importanza globale nei Paesi in sviluppo
 
-del 14 agosto 1991 (Stato 1° luglio 1999)
+del 14 agosto 1991 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -23,13 +23,15 @@ visto l’articolo 102 numero 5 della Costituzione federale[^ingress-1]; visto l
 ordina:
 
 [^ingress-1]: [CS **1** 3]. Vedi ora l’art. 182 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: [[RU 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114), [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170)[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)art. 59 n. 2, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699), [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)n. II 2 [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808), [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116), [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)art. 1 [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)n. II 1 [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 1, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362), [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)art. 1 [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 2 [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510)[581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)appendice n. 2, [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770), [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978)[4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 2 [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)art. 1 [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)all. n. 1, [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)all. n. 1 [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486)[1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)all. n. 1. [RU 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)art. 63]. Vedi ora «la LF sull’organizzazione del Governo e dell’Amministrazione» ([RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)).
+[^ingress-2]: [[RU 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114), [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170)[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)art. 59 n. 2, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699), [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)n. II 2 [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808), [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116), [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)art. 1 [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)n. II 1 [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 1, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362), [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)art. 1 [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 2 [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510)[581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)appendice n. 2, [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770), [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978)[4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 2 [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)art. 1 [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)all. n. 1, [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)all. n. 1 [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486)[1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)all. n. 1. [RU 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)art. 63]. Vedi ora la LF del 21 mar. 1997 sull’organizzazione del Governo e dell’Amministrazione ([RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)).
 
 #### Art. 1
 
-**Oggetto**
+**Oggetto**[^1-1]
 
-La presente ordinanza disciplina l’attuazione dei provvedimenti previsti nell’ambito del credito quadro per il finanziamento, nei Paesi in sviluppo, di programmi e progetti ecologici di importanza globale. Essa stabilisce segnatamente le competenze decisionali e finanziarie in quanto non disciplinate in altri atti normativi.
+La presente ordinanza disciplina l’attuazione dei provvedimenti previsti nell’ambito dei crediti d’impegno per il finanziamento, nei Paesi in sviluppo, di programmi e progetti ecologici di importanza globale. Essa stabilisce segnatamente le competenze decisionali e finanziarie in quanto non disciplinate in altri atti normativi.
+
+[^1-1]: Nuovo testo giusta l’all. n. 3 dell’O del 10 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 2
 
@@ -74,9 +76,12 @@ La concezione globale del contributo svizzero alla collaborazione internazionale
 
 <sup>1</sup> I crediti annui destinati al finanziamento dei provvedimenti bilaterali e multibilaterali sono integrati nel preventivo della DSA e quelli destinati a contributi a fondi multilaterali in quello dell’UFAFP.
 
-<sup>2</sup> Ogni ufficio federale competente esegue esso stesso i controlli delle quote del credito quadro che gli sono assegnate.
+<sup>2</sup> Ogni ufficio federale competente esegue esso stesso i controlli delle quote del credito d’impegno che gli sono assegnate.[^5-1]
 
-<sup>3</sup> La DSA elabora semestralmente un compendio consolidato degli impegni e delle spese per la totalità del credito quadro. L’UFAFP fornisce all’uopo i dati necessari sui mezzi finanziari da esso amministrati.
+<sup>3</sup> La DSA elabora semestralmente un compendio consolidato degli impegni e delle spese per la totalità del credito d’impegno. L’UFAFP fornisce all’uopo i dati necessari sui mezzi finanziari da esso amministrati.[^5-2]
+
+[^5-1]: Nuovo testo giusta l’all. n. 3 dell’O del 10 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^5-2]: Nuovo testo giusta l’all. n. 3 dell’O del 10 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 6
 
@@ -126,7 +131,9 @@ I capi di dipartimento o direttori competenti sono abilitati, nel quadro delle l
 
 <sup>2</sup> I servizi federali competenti possono concludere accordi di diritto privato o pubblico per l’esecuzione di provvedimenti, fatto salvo lo stanziamento dei crediti necessari.
 
-<sup>3</sup> Il personale necessario all’esecuzione può essere impiegato e i posti di lavoro corrispondenti creati a carico del credito quadro.
+<sup>3</sup> ...[^11-1]
+
+[^11-1]: Abrogato dall’all. n. 3 dell’O del 10 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 12
 

@@ -3,18 +3,18 @@ sr: "172.018"
 title: Verordnung vom 14. August 1991 über die Durchführung von Umweltprogrammen und -projekten von globaler Bedeutung in Entwicklungsländern
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1856_1856_1856"
 language: de
-version: 1999-07-01
+version: 2022-01-01
 adopted: 1991-08-14
 in_force: 1991-08-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1856_1856_1856/19990701/de/xml/fedlex-data-admin-ch-eli-cc-1991-1856_1856_1856-19990701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1856_1856_1856/19990701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1856_1856_1856/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1991-1856_1856_1856-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1856_1856_1856/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Durchführung von Umweltprogrammen und -projekten von globaler Bedeutung in Entwicklungsländern
 
-vom 14. August 1991 (Stand am 1. Juli 1999)
+vom 14. August 1991 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -23,13 +23,15 @@ gestützt auf Artikel 102 Ziffer 5 der Bundesverfassung[^ingress-1] und Artikel 
 verordnet:
 
 [^ingress-1]: [BS **1** 3]. Der genannten Bestimmung entspricht heute Art. 182 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: [[AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114), [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170)[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)Art. 59 Ziff. 2, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699), [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)Ziff. II 2 [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808), [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116), [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)Art. 1 [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)Ziff. II 1 [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 1, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. I, [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)Art. 1 [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 2 [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510)[581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)Anhang Ziff. 2, [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770), [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978)[4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 2 [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)Art. 1[5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)Anhang Ziff. 1, [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)Anhang Ziff. 1 [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486)[1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Anhang Ziff. 1. [AS 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)Art. 63]. Siehe heute das Regierungs- und Verwaltungsorganisationsgesetz ([SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)).
+[^ingress-2]: [[AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114); [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170), [931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)Art. 59 Ziff. 2; [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699); [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)Ziff. II 2, [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808); [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116); [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)Art. 1, [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)Ziff. II 1, [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 1; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. I; [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)Art. 1, [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 2, [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510), [581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)Anhang Ziff. 2; [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770); [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978), [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 2, [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)Art. 1,[5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)Anhang Ziff. 1; [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)Anhang Ziff. 1, [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486), [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Anhang Ziff. 1. [AS 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)Art. 63]. Siehe heute: das Regierungs- und Verwaltungsorganisationsgesetz vom 21. März 1997 ([SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)).
 
 #### Art. 1
 
-**Gegenstand**
+**Gegenstand**[^1-1]
 
-Diese Verordnung regelt die Durchführung der Massnahmen, die aufgrund der Rahmenkredite zur Finanzierung von Umweltprogrammen und -projekten von globaler Bedeutung in Entwicklungsländern vorgesehen sind. Sie bestimmt insbesondere die Entscheidungs- und Finanzkompetenzen, soweit diese nicht in andern Erlassen geregelt sind.
+Diese Verordnung regelt die Durchführung der Massnahmen, die aufgrund der Verpflichtungskredite zur Finanzierung von Umweltprogrammen und -projekten von globaler Bedeutung in Entwicklungsländern vorgesehen sind. Sie bestimmt insbesondere die Entscheidungs- und Finanzkompetenzen, soweit diese nicht in andern Erlassen geregelt sind.
+
+[^1-1]: Fassung gemäss Anhang Ziff. 3 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 2
 
@@ -74,9 +76,12 @@ Die Gesamtkonzeption des schweizerischen Beitrages an die internationale Zusamme
 
 <sup>1</sup> Die jährlichen Zahlungskredite für die Finanzierung der bilateralen und multi-bilateralen Massnahmen werden in den Voranschlag der DEH und diejenigen für die Finanzierung der Beiträge an multilaterale Fonds in den Voranschlag des BUWAL eingestellt.
 
-<sup>2</sup> Jede zuständige Bundesstelle führt die Kontrolle der ihr zugeteilten Beträge des Rahmenkredites selbst.
+<sup>2</sup> Jede zuständige Bundesstelle führt die Kontrolle der ihr zugeteilten Beträge des Verpflichtungskredits selbst durch.[^5-1]
 
-<sup>3</sup> Die DEH erarbeitet halbjährlich eine konsolidierte Zusammenstellung der Verpflichtungen und Ausgaben für den gesamten Rahmenkredit. Das BUWAL liefert zu diesem Zweck die notwendigen Angaben über die von ihm verwalteten Mittel.
+<sup>3</sup> Die DEH erarbeitet halbjährlich eine konsolidierte Zusammenstellung der Verpflichtungen und Ausgaben für den gesamten Verpflichtungskredit. Das BUWAL liefert zu diesem Zweck die notwendigen Angaben über die von ihm verwalteten Mittel.[^5-2]
+
+[^5-1]: Fassung gemäss Anhang Ziff. 3 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^5-2]: Fassung gemäss Anhang Ziff. 3 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 6
 
@@ -126,7 +131,9 @@ Die zuständigen Departementsvorsteher oder Direktoren werden im Rahmen ihrer Fi
 
 <sup>2</sup> Unter dem Vorbehalt der Kreditbewilligung können die zuständigen Bundesstellen privat- oder öffentlichrechtliche Vereinbarungen über die Durchführung von Massnahmen treffen.
 
-<sup>3</sup> Das für die Durchführung notwendige Personal kann zu Lasten des Rahmenkredites angestellt und die entsprechende Arbeitsinfrastruktur angeschafft werden.
+<sup>3</sup> …[^11-1]
+
+[^11-1]: Aufgehoben durch Anhang Ziff. 3 der V vom 10. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 12
 
