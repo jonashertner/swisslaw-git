@@ -4,11 +4,11 @@ title: "Legge federale del 14 dicembre 1990 sull'armonizzazione delle imposte di
 short: LAID
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256"
 language: it
-version: 2021-07-01
+version: 2022-01-01
 adopted: 1990-12-14
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20210701/it"
 
 (LAID)
 
-del 14 dicembre 1990 (Stato 1° luglio 2021)
+del 14 dicembre 1990 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -72,7 +72,7 @@ I Cantoni riscuotono le seguenti imposte:
 
 <sup>4</sup> Il capoverso 3 si applica per analogia ai partner registrati. I partner registrati hanno il medesimo statuto dei coniugi. Questo vale anche per i contributi di mantenimento durante l’unione domestica registrata e per i contributi di mantenimento e la liquidazione dei rapporti patrimoniali in caso di sospensione della vita comune o di scioglimento dell’unione domestica registrata.[^3-1]
 
-[^3-1]: Introdotto dal n. 25 dell’all. alla L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^3-1]: Introdotto dell’all. n. 25 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 #### Art. 4
 
@@ -94,7 +94,7 @@ Le persone fisiche senza domicilio o dimora fiscale in Svizzera sono assoggettat
 
 [^4-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5039](https://fedlex.data.admin.ch/eli/oc/2017/547); [FF 2016 4757](https://fedlex.data.admin.ch/eli/fga/2016/1165)).
 [^4-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2010 sull’imposizione delle partecipazioni di collaboratore, in vigore dal 1° gen. 2013 ([RU 2011 3259](https://fedlex.data.admin.ch/eli/oc/2011/427); [FF 2005 495](https://fedlex.data.admin.ch/eli/fga/2005/88)).
-[^4-3]: Nuovo testo giusta il n. II 3 dell’all. 2 alla L del 17 giu. 2016 sull’approvvigionamento del Paese, in vigore dal 1° giu. 2017 ([RU 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308); [FF 2014 6105](https://fedlex.data.admin.ch/eli/fga/2014/1571)).
+[^4-3]: Nuovo testo giusta l’all. 2 n. II 3 della L del 17 giu. 2016 sull’approvvigionamento del Paese, in vigore dal 1° giu. 2017 ([RU 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308); [FF 2014 6105](https://fedlex.data.admin.ch/eli/fga/2014/1571)).
 [^4-4]: Introdotta dal n. I della LF del 17 mar. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5039](https://fedlex.data.admin.ch/eli/oc/2017/547); [FF 2016 4757](https://fedlex.data.admin.ch/eli/fga/2016/1165)).
 
 #### Art. 4a
@@ -103,7 +103,7 @@ Le persone fisiche senza domicilio o dimora fiscale in Svizzera sono assoggettat
 
 Sono fatti salvi i privilegi fiscali accordati in virtù dell’articolo 2 capoverso 2 della legge del 22 giugno 2007[^4a-2] sullo Stato ospite.
 
-[^4a-1]: Introdotto dal n. II 8 dell’all. alla LF del 22 giu. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
+[^4a-1]: Introdotto dall’all. n. II 8 della LF del 22 giu. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 [^4a-2]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 
 #### Art. 4b
@@ -203,7 +203,7 @@ Sono esenti dall’imposta soltanto:
 - m.[^7-18] le singole vincite ai giochi di destrezza e alle lotterie destinati a promuovere le vendite che secondo l’articolo 1 capoverso 2 lettere d ed e LGD non sottostanno a quest’ultima, purché non superino il limite stabilito dal diritto cantonale;
 - n.[^7-19] i proventi ricevuti in virtù della legge federale del 19 giugno 2020[^7-20] sulle prestazioni transitorie per i disoccupati anziani.
 
-[^7-1]: Nuova espr. giusta il n. 24 dell’all. alla LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^7-1]: Nuova espr. giusta l’all. n. 24 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^7-2]: Nuovo testo del terzo per. giusta il n. I 3 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^7-3]: Quarto per. introdotto dal n. I 3 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^7-4]: Nuovo testo giusta il n. I 2 della LF del 27 set. 2013 sul trattamento fiscale delle spese di formazione e perfezionamento professionali, in vigore dal 1° gen. 2016 ([RU 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2365](https://fedlex.data.admin.ch/eli/fga/2011/381)).
@@ -212,15 +212,15 @@ Sono esenti dall’imposta soltanto:
 [^7-7]: Introdotto dal n. I 6 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 2001 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
 [^7-8]: Nuovo testo giusta il n. I 6 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 2001 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
 [^7-9]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^7-10]: Nuovo testo giusta il n. II 7 dell’all. alla L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^7-10]: Nuovo testo giusta l’all. n. II 7 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 [^7-11]: Nuovo testo giusta il n. I 6 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 2001 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
-[^7-12]: Nuovo testo giusta il n. 8 dell’all. alla L del 6 ott. 1995 sul servizio civile, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^7-12]: Nuovo testo giusta l’all. n. 8 della L del 6 ott. 1995 sul servizio civile, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^7-13]: Introdotta dal n. I 2 della LF del 17 giu. 2011 sull’esenzione fiscale del soldo dei pompieri, in vigore dal 1° gen. 2013 ([RU 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [FF 2010 2497](https://fedlex.data.admin.ch/eli/fga/2010/508)).
-[^7-14]: Introdotta dal n. 3 dell’all. della LF del 18 dic. 1998 sulle case da gioco ([RU 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [FF 1997 III 129](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)). Nuovo testo giusta il n. II 6 dell’all. alla LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-14]: Introdotta dell’all. n. 3 della LF del 18 dic. 1998 sulle case da gioco ([RU 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [FF 1997 III 129](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)). Nuovo testo giusta l’all. n. II 6 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^7-15]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^7-16]: Introdotta dal n. II 6 dell’all. alla LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^7-17]: Introdotta dal n. II 6 dell’all. alla LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^7-18]: Introdotta testo giusta il n. I 2 della LF del 15 giu. 2012 concernente le semplificazioni nell’imposizione delle vincite alle lotterie ([RU 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 5819](https://fedlex.data.admin.ch/eli/fga/2011/1012)[5845](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nuovo testo giusta il n. II 6 dell’all. alla LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-16]: Introdotta dall’all. n. II 6 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-17]: Introdotta dall’all. n. II 6 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-18]: Introdotta testo giusta il n. I 2 della LF del 15 giu. 2012 concernente le semplificazioni nell’imposizione delle vincite alle lotterie ([RU 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 5819](https://fedlex.data.admin.ch/eli/fga/2011/1012)[5845](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nuovo testo giusta l’all. n. II 6 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^7-19]: Introdotta dall’all. n. 3 della LF del 19 giu. 2020 sulle prestazioni transitorie per i disoccupati anziani, in vigore dal 1° lug. 2021 ([RU 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 6861](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
 [^7-20]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
 
@@ -232,8 +232,8 @@ Sono esenti dall’imposta soltanto:
 
 È considerato reddito imponibile della sostanza ai sensi dell’articolo 7 capoverso 1 anche:
 
-- a. il ricavo della vendita di una partecipazione del 20 per cento almeno al capitale azionario o sociale di una società di capitali o di una società cooperativa, con trasferimento dal patrimonio privato al patrimonio commerciale di un’altra persona fisica o di una persona giuridica, sempre che nei cinque anni dopo la vendita venga distribuita, con la collaborazione del venditore[^7a-2], sostanza non necessaria all’esercizio aziendale che esisteva già al momento della vendita e che già allora avrebbe potuto essere distribuita secondo il diritto commerciale; ciò vale per analogia anche quando, nell’arco di cinque anni, più partecipanti vendono in comune una tale partecipazione o vengono vendute partecipazioni per un totale di almeno il 20 per cento; la sostanza distribuita è se del caso tassata presso il venditore in procedura di recupero d’imposta secondo l’articolo 53;
-- b.[^7a-3] il ricavo del trasferimento di una partecipazione al capitale azionario o sociale di una società di capitali o di una società cooperativa, dal patrimonio privato a quello commerciale di un’impresa di persone o di una persona giuridica in cui, dopo il trasferimento, il venditore o il conferente partecipa in ragione almeno del 50 per cento al capitale, per quanto il totale della controprestazione ricevuta superi la somma del valore nominale della partecipazione trasferita e delle riserve da apporti di capitale di cui all’articolo 7*b*; questa regola si applica per analogia anche nel caso in cui diversi partecipanti attuino il trasferimento in comune.
+- [tab] a. il ricavo della vendita di una partecipazione del 20 per cento almeno al capitale azionario o sociale di una società di capitali o di una società cooperativa, con trasferimento dal patrimonio privato al patrimonio commerciale di un’altra persona fisica o di una persona giuridica, sempre che nei cinque anni dopo la vendita venga distribuita, con la collaborazione del venditore[^7a-2], sostanza non necessaria all’esercizio aziendale che esisteva già al momento della vendita e che già allora avrebbe potuto essere distribuita secondo il diritto commerciale; ciò vale per analogia anche quando, nell’arco di cinque anni, più partecipanti vendono in comune una tale partecipazione o vengono vendute partecipazioni per un totale di almeno il 20 per cento; la sostanza distribuita è se del caso tassata presso il venditore in procedura di recupero d’imposta secondo l’articolo 53;
+- [tab] b.[^7a-3] il ricavo del trasferimento di una partecipazione al capitale azionario o sociale di una società di capitali o di una società cooperativa, dal patrimonio privato a quello commerciale di un’impresa di persone o di una persona giuridica in cui, dopo il trasferimento, il venditore o il conferente partecipa in ragione almeno del 50 per cento al capitale, per quanto il totale della controprestazione ricevuta superi la somma del valore nominale della partecipazione trasferita e delle riserve da apporti di capitale di cui all’articolo 7*b*; questa regola si applica per analogia anche nel caso in cui diversi partecipanti attuino il trasferimento in comune.
 
 <sup>2</sup> Vi è collaborazione ai sensi del capoverso 1 lettera a quando il venditore sa o è tenuto a sapere che per finanziare il prezzo d’acquisto dalla società vengono prelevati mezzi a fondo perso.
 
@@ -245,9 +245,23 @@ Sono esenti dall’imposta soltanto:
 
 **Principio degli apporti di capitale**[^7b-1]
 
-Il rimborso degli apporti, dell’aggio e dei pagamenti suppletivi forniti dai titolari dei diritti di partecipazione dopo il 31 dicembre 1996 è trattato in modo identico al rimborso del capitale azionario o sociale.
+<sup>1</sup> Il rimborso degli apporti, dell’aggio e dei pagamenti suppletivi (riserve da apporti di capitale) forniti dai titolari dei diritti di partecipazione dopo il 31 dicembre 1996 è trattato in modo identico al rimborso del capitale azionario o sociale. È fatto salvo il capoverso 2.
 
-[^7b-1]: Introdotto dal n. II 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+<sup>2</sup> Se, in occasione del rimborso di riserve da apporti di capitale di cui al capoverso 1, una società di capitali o società cooperativa quotata in una borsa svizzera non distribuisce altre riserve almeno per un importo equivalente, il rimborso è imponibile per un importo pari alla metà della differenza tra il rimborso stesso e la distribuzione delle altre riserve, ma al massimo per un importo pari a quello delle altre riserve disponibili nella società che possono essere distribuite in virtù del diritto commerciale.
+
+<sup>3</sup>
+
+Il capoverso 2 non si applica alle riserve da apporti di capitale:
+
+- [tab] a. costituite, dopo il 24 febbraio 2008, mediante il conferimento di diritti di partecipazione o societari a una società di capitali o società cooperativa estera nell’ambito di concentrazioni aventi carattere di fusione ai sensi dell’articolo 24 capoverso 3 lettera c o mediante un trasferimento transfrontaliero a una filiale svizzera ai sensi dell’articolo 24 capoverso 3 lettera d;
+- [tab] b. già esistenti in una società di capitali o società cooperativa estera, dopo il 24 febbraio 2008, al momento di una fusione o ristrutturazione transfrontaliera ai sensi dell’articolo 24 capoversi 3 lettera b e 3<sup>quater</sup> o del trasferimento della sede o dell’amministrazione effettiva;
+- [tab] c. in caso di liquidazione della società di capitali o società cooperativa.
+
+<sup>4</sup> I capoversi 2 e 3 si applicano per analogia anche alle riserve da apporti di capitale utilizzate per l’emissione di azioni gratuite o gli aumenti gratuiti del valore nominale.
+
+<sup>5</sup> Se, in occasione della vendita di diritti di partecipazione a una società di capitali o società cooperativa che è quotata in una borsa svizzera e li ha emessi, il rimborso delle riserve da apporti di capitale non corrisponde almeno alla metà dell’eccedenza di liquidazione ottenuta, la parte imponibile di questa eccedenza di liquidazione è ridotta della metà della differenza tra la parte stessa e il rimborso, ma al massimo di un importo pari a quello delle riserve da apporti di capitale disponibili nella società e imputabili a tali diritti di partecipazione.
+
+[^7b-1]: Introdotto dal n. II 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)). Nuovo testo giusta il n. I 3 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
 #### Art. 7c
 
@@ -257,34 +271,24 @@ Il rimborso degli apporti, dell’aggio e dei pagamenti suppletivi forniti dai t
 
 Sono considerate partecipazioni vere e proprie di collaboratore:
 
-- a. le azioni, i buoni di godimento, i certificati di partecipazione, le quote di società cooperative o partecipazioni di altro genere che il datore di lavoro, la sua società madre o un’altra società del gruppo distribuisce ai collaboratori;
-- b. le opzioni per l’acquisto di partecipazioni di cui alla lettera a.
+- [tab] a. le azioni, i buoni di godimento, i certificati di partecipazione, le quote di società cooperative o partecipazioni di altro genere che il datore di lavoro, la sua società madre o un’altra società del gruppo distribuisce ai collaboratori;
+- [tab] b. le opzioni per l’acquisto di partecipazioni di cui alla lettera a.
 
 <sup>2</sup> Sono considerate partecipazioni improprie di collaboratore le aspettative di meri indennizzi in contanti.
 
 [^7c-1]: Introdotto dal n. I 2 della LF del 17 dic. 2010 sull’imposizione delle partecipazioni di collaboratore, in vigore dal 1° gen. 2013 ([RU 2011 3259](https://fedlex.data.admin.ch/eli/oc/2011/427); [FF 2005 495](https://fedlex.data.admin.ch/eli/fga/2005/88)).
 
-#### Art. 7b
+#### Art. 7d
 
-**Principio degli apporti di capitale**[^7b-2]
+**Proventi di partecipazioni vere e proprie di collaboratore**[^7d-1]
 
-<sup>1</sup> Il rimborso degli apporti, dell’aggio e dei pagamenti suppletivi (riserve da apporti di capitale) forniti dai titolari dei diritti di partecipazione dopo il 31 dicembre 1996 è trattato in modo identico al rimborso del capitale azionario o sociale. È fatto salvo il capoverso 2.
+<sup>1</sup> I vantaggi valutabili in denaro risultanti da partecipazioni vere e proprie di collaboratore, ad eccezione di quelli risultanti da opzioni bloccate o non quotate in borsa, sono imponibili al momento dell’acquisto come reddito da attività lucrativa dipendente. La prestazione imponibile corrisponde al valore venale della partecipazione diminuito di un eventuale prezzo d’acquisto.
 
-<sup>2</sup> Se, in occasione del rimborso di riserve da apporti di capitale di cui al capoverso 1, una società di capitali o società cooperativa quotata in una borsa svizzera non distribuisce altre riserve almeno per un importo equivalente, il rimborso è imponibile per un importo pari alla metà della differenza tra il rimborso stesso e la distribuzione delle altre riserve, ma al massimo per un importo pari a quello delle altre riserve disponibili nella società che possono essere distribuite in virtù del diritto commerciale.
+<sup>2</sup> Per il calcolo della prestazione imponibile relativa alle azioni di collaboratore si tiene conto dei termini di attesa, con uno sconto del 6 per cento per anno di attesa sul valore venale delle azioni. Lo sconto si applica per dieci anni al massimo.
 
-<sup>3</sup>
+<sup>3</sup> I vantaggi valutabili in denaro risultanti da opzioni di collaboratore bloccate o non quotate in borsa sono imponibili al momento dell’esercizio delle opzioni medesime. La prestazione imponibile corrisponde al valore venale dell’azione al momento dell’esercizio, diminuito del prezzo di esercizio.
 
-Il capoverso 2 non si applica alle riserve da apporti di capitale:
-
-- a. costituite, dopo il 24 febbraio 2008, mediante il conferimento di diritti di partecipazione o societari a una società di capitali o società cooperativa estera nell’ambito di concentrazioni aventi carattere di fusione ai sensi dell’articolo 24 capoverso 3 lettera c o mediante un trasferimento transfrontaliero a una filiale svizzera ai sensi dell’articolo 24 capoverso 3 lettera d;
-- b. già esistenti in una società di capitali o società cooperativa estera, dopo il 24 febbraio 2008, al momento di una fusione o ristrutturazione transfrontaliera ai sensi dell’articolo 24 capoversi 3 lettera b e 3<sup>quater</sup> o del trasferimento della sede o dell’amministrazione effettiva;
-- c. in caso di liquidazione della società di capitali o società cooperativa.
-
-<sup>4</sup> I capoversi 2 e 3 si applicano per analogia anche alle riserve da apporti di capitale utilizzate per l’emissione di azioni gratuite o gli aumenti gratuiti del valore nominale.
-
-<sup>5</sup> Se, in occasione della vendita di diritti di partecipazione a una società di capitali o società cooperativa che è quotata in una borsa svizzera e li ha emessi, il rimborso delle riserve da apporti di capitale non corrisponde almeno alla metà dell’eccedenza di liquidazione ottenuta, la parte imponibile di questa eccedenza di liquidazione è ridotta della metà della differenza tra la parte stessa e il rimborso, ma al massimo di un importo pari a quello delle riserve da apporti di capitale disponibili nella società e imputabili a tali diritti di partecipazione.
-
-[^7b-2]: Introdotto dal n. II 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)). Nuovo testo giusta il n. I 3 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^7d-1]: Introdotto dal n. I 2 della LF del 17 dic. 2010 sull’imposizione delle partecipazioni di collaboratore, in vigore dal 1° gen. 2013 ([RU 2011 3259](https://fedlex.data.admin.ch/eli/oc/2011/427); [FF 2005 495](https://fedlex.data.admin.ch/eli/fga/2005/88)).
 
 #### Art. 7e
 
@@ -335,9 +339,9 @@ Le riserve occulte di un’impresa di persone (impresa individuale, società di 
 [^8-3]: Introdotto dal n. II 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 [^8-4]: Introdotto dal n. II 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 [^8-5]: Introdotto dal n. I 3 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^8-6]: Nuovo testo giusta il n. 8 dell’all. alla LF del 16 dic. 2005 (diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^8-7]: Nuovo testo giusta il n. 8 dell’all. alla L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
-[^8-8]: Introdotto dal n. 8 dell’all. alla L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+[^8-6]: Nuovo testo giusta l’all. n. 8 della LF del 16 dic. 2005 (diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^8-7]: Nuovo testo giusta l’all. n. 8 della L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+[^8-8]: Introdotto dall’all. n. 8 della L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 [^8-9]: Introdotto dal n. II 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 
 #### Art. 8a
@@ -402,19 +406,19 @@ Il contribuente che possiede immobili privati può dedurre le spese di manutenzi
 [^9-1]: Nuovo testo giusta il n. I 2 della LF del 27 set. 2013 sul trattamento fiscale delle spese di formazione e perfezionamento professionali, in vigore dal 1° gen. 2016 ([RU 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2365](https://fedlex.data.admin.ch/eli/fga/2011/381)). Correzione della Commissione di redazione dell’AF del 18 feb. 2015 ([RU 2015 993](https://fedlex.data.admin.ch/eli/oc/2015/186)).
 [^9-2]: Nuovo testo giusta il n. II 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 [^9-3]: Nuovo testo giusta il n. I 6 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 2001 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
-[^9-4]: Nuovo testo giusta il n. 4 dell’all. alla LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
-[^9-5]: Nuovo testo giusta il n. 3 dell’all. alla L del 13 dic. 2002 sui disabili, in vigore dal 1° gen. 2005 ([RU 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667)).
-[^9-6]: Introdotta dal n. 3 dell’all. alla L del 13 dic. 2002 sui disabili, in vigore dal 1° gen. 2005 ([RU 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667)).
+[^9-4]: Nuovo testo giusta l’all. n. 4 della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+[^9-5]: Nuovo testo giusta l’all. n. 3 della L del 13 dic. 2002 sui disabili, in vigore dal 1° gen. 2005 ([RU 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667)).
+[^9-6]: Introdotta dell’all. n. 3 della L del 13 dic. 2002 sui disabili, in vigore dal 1° gen. 2005 ([RU 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667)).
 [^9-7]: [RS 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
-[^9-8]: Nuovo testo giusta il n. 4 dell’all. alla LF dell’8 ott. 2004 (diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)7059).
+[^9-8]: Nuovo testo giusta l’all. n. 4 della LF dell’8 ott. 2004 (diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)7059).
 [^9-9]: Introdotta dal n. I 2 della LF del 12 giu. 2009 sulla deducibilità fiscale dei versamenti ai partiti, in vigore dal 1° gen. 2011 ([RU 2010 449](https://fedlex.data.admin.ch/eli/oc/2010/58); [FF 2008 6565](https://fedlex.data.admin.ch/eli/fga/2008/1236)[6587](https://fedlex.data.admin.ch/eli/fga/2008/1238)).
 [^9-10]: [RS 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
 [^9-11]: Introdotta dal n. I 2 della LF del 25 set. 2009 sullo sgravio fiscale delle famiglie con figli, in vigore dal 1° gen. 2011 ([RU 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [FF 2009 4095](https://fedlex.data.admin.ch/eli/fga/2009/815)). Rettificata dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl - [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^9-12]: Introdotta testo giusta il n. I 2 della LF del 15 giu. 2012 concernente le semplificazioni nell’imposizione delle vincite alle lotterie ([RU 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 5819](https://fedlex.data.admin.ch/eli/fga/2011/1012)[5845](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nuovo testo giusta il n. II 6 dell’all. alla LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^9-12]: Introdotta testo giusta il n. I 2 della LF del 15 giu. 2012 concernente le semplificazioni nell’imposizione delle vincite alle lotterie ([RU 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 5819](https://fedlex.data.admin.ch/eli/fga/2011/1012)[5845](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nuovo testo giusta l’all. n. II 6 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^9-13]: Introdotta dal n. I 2 della LF del 27 set. 2013 sul trattamento fiscale delle spese di formazione e perfezionamento professionali, in vigore dal 1° gen. 2016 ([RU 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2365](https://fedlex.data.admin.ch/eli/fga/2011/381)).
 [^9-14]: Nuovo testo giusta il n. I 2 della LF del 3 ott. 2008 sul trattamento fiscale delle spese di riattazione degli immobili, in vigore dal 1° gen. 2010 ([RU 2009 1515](https://fedlex.data.admin.ch/eli/oc/2009/218); [FF 2007 7201](https://fedlex.data.admin.ch/eli/fga/2007/1291)[7217](https://fedlex.data.admin.ch/eli/fga/2007/1293)).
-[^9-15]: Nuovo testo giusta il n. II 4 dell’all. alla LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^9-16]: Introdotto testo giusta il n. II 4 dell’all. alla LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^9-15]: Nuovo testo giusta l’all. n. II 4 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^9-16]: Introdotto giusta l’all. n. II 4 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 
 #### Art. 10
 
@@ -422,28 +426,46 @@ Il contribuente che possiede immobili privati può dedurre le spese di manutenzi
 
 <sup>1</sup>
 
-Sono segnatamente dedotti a titolo di spese consentite dall’uso commerciale o professionale:
+Sono segnatamente dedotti a titolo di spese giustificate dall’uso commerciale o professionale:[^10-1]
 
 - a. gli ammortamenti comprovati della sostanza commerciale;
 - b. gli accantonamenti per coprire impegni il cui ammontare è ancora indeterminato o per rischi di perdite imminenti;
 - c. le perdite che si sono verificate sulla sostanza commerciale e che sono state allibrate;
 - d. i versamenti alle istituzioni di previdenza a favore del proprio personale, sempreché sia escluso ogni uso contrario al loro scopo;
-- e.[^10-1] gli interessi su debiti commerciali come pure gli interessi versati sulle partecipazioni ai sensi dell’articolo 8 capoverso 2;
-- f.[^10-2] le spese di formazione e formazione continua professionali del personale, comprese le spese di riqualificazione.
+- e.[^10-2] gli interessi su debiti commerciali come pure gli interessi versati sulle partecipazioni ai sensi dell’articolo 8 capoverso 2;
+- f.[^10-3] le spese di formazione e formazione continua professionali del personale, comprese le spese di riqualificazione;
+- g.[^10-4] le sanzioni finalizzate al prelievo dell’utile illecito, nella misura in cui non abbiano carattere penale.
 
-<sup>1bis</sup> Non sono deducibili i versamenti di retribuzioni corruttive ai sensi del diritto penale svizzero fatti a pubblici ufficiali svizzeri o stranieri.[^10-3]
+<sup>1bis</sup>
 
-<sup>2</sup> Le perdite dei sette esercizi commerciali che precedono il periodo fiscale (art. 15) possono essere dedotte, sempreché non se ne sia potuto tenere conto per il calcolo del reddito imponibile di tali anni.[^10-4]
+Non sono deducibili segnatamente:
+
+- a. i versamenti di retribuzioni corruttive ai sensi del diritto penale svizzero;
+- b. le spese finalizzate a rendere possibili reati o che costituiscono la controprestazione per la commissione di reati;
+- c. le multe e le pene pecuniarie;
+- d. le sanzioni pecuniarie amministrative, nella misura in cui abbiano carattere penale.[^10-5]
+
+<sup>1ter</sup>
+
+Se pronunciate da autorità penali o amministrative estere, le sanzioni di cui al capoverso 1<sup>bis</sup> lettere c e d sono deducibili se:
+
+- a. sono contrarie all’ordine pubblico svizzero; o
+- b. il contribuente dimostra in modo plausibile di aver intrapreso tutto quanto si poteva ragionevolmente pretendere per conformarsi alla legge.[^10-6]
+
+<sup>2</sup> Le perdite dei sette esercizi commerciali che precedono il periodo fiscale (art. 15) possono essere dedotte, sempreché non se ne sia potuto tenere conto per il calcolo del reddito imponibile di tali anni.[^10-7]
 
 <sup>3</sup> Le perdite degli esercizi commerciali anteriori che non abbiano ancora potuto essere dedotte dal reddito possono essere compensate con le prestazioni di terzi destinate a equilibrare un bilancio deficitario nell’ambito di un risanamento.
 
-<sup>4</sup> I capoversi 2 e 3 si applicano anche in caso di trasferimento del domicilio fiscale o del luogo di esercizio all’interno della Svizzera.[^10-5]
+<sup>4</sup> I capoversi 2 e 3 si applicano anche in caso di trasferimento del domicilio fiscale o del luogo di esercizio all’interno della Svizzera.[^10-8]
 
-[^10-1]: Introdotta dal n. I 6 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 2001 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
-[^10-2]: Introdotta dal n. I 2 della LF del 27 set. 2013 sul trattamento fiscale delle spese di formazione e perfezionamento professionali, in vigore dal 1° gen. 2016 ([RU 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2365](https://fedlex.data.admin.ch/eli/fga/2011/381)).
-[^10-3]: Introdotto dal n. II della LF del 22 dic. 1999 sulla deducibilità fiscale delle retribuzioni corruttive, in vigore dal 1° gen. 2001 ([RU 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [FF 1997 II 852](https://fedlex.data.admin.ch/eli/fga/1997/2_1008_929_852), IV 1072).
-[^10-4]: Nuovo testo giusta il n. I 2 della LF del 22 mar. 2013 sull’adeguamento formale delle basi temporali per l’imposizione diretta delle persone fisiche, in vigore dal 1° gen. 2014 ([RU 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3279](https://fedlex.data.admin.ch/eli/fga/2011/525)).
-[^10-5]: Introdotto dal n. I 2 della LF del 15 dic. 2000 sul coordinamento e la semplificazione delle procedure di imposizione delle imposte dirette nei rapporti intercantonali, in vigore dal 1° gen. 2001 ([RU 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [FF 2000 3390](https://fedlex.data.admin.ch/eli/fga/2000/823)).
+[^10-1]: Nuovo testo giusta il n. I 2 della LF del 19 giu. 2020 sul trattamento fiscale delle sanzioni pecuniarie, in vigore dal 1° gen. 2022 ([RU 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 7575](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^10-2]: Introdotta dal n. I 6 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 2001 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
+[^10-3]: Introdotta dal n. I 2 della LF del 27 set. 2013 sul trattamento fiscale delle spese di formazione e perfezionamento professionali, in vigore dal 1° gen. 2016 ([RU 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2365](https://fedlex.data.admin.ch/eli/fga/2011/381)).
+[^10-4]: Introdotta dal n. I 2 della LF del 19 giu. 2020 sul trattamento fiscale delle sanzioni pecuniarie, in vigore dal 1° gen. 2022 ([RU 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 7575](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^10-5]: Introdotto dal n. II della LF del 22 dic. 1999 sulla deducibilità fiscale delle retribuzioni corruttive ([RU 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [FF 1997 II 852](https://fedlex.data.admin.ch/eli/fga/1997/2_1008_929_852), IV 1072). Nuovo testo giusta il n. I 2 della LF del 19 giu. 2020 sul trattamento fiscale delle sanzioni pecuniarie, in vigore dal 1° gen. 2022 ([RU 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 7575](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^10-6]: Introdotto dal n. I 2 della LF del 19 giu. 2020 sul trattamento fiscale delle sanzioni pecuniarie, in vigore dal 1° gen. 2022 ([RU 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 7575](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^10-7]: Nuovo testo giusta il n. I 2 della LF del 22 mar. 2013 sull’adeguamento formale delle basi temporali per l’imposizione diretta delle persone fisiche, in vigore dal 1° gen. 2014 ([RU 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3279](https://fedlex.data.admin.ch/eli/fga/2011/525)).
+[^10-8]: Introdotto dal n. I 2 della LF del 15 dic. 2000 sul coordinamento e la semplificazione delle procedure di imposizione delle imposte dirette nei rapporti intercantonali, in vigore dal 1° gen. 2001 ([RU 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [FF 2000 3390](https://fedlex.data.admin.ch/eli/fga/2000/823)).
 
 #### Art. 10a
 
@@ -469,7 +491,7 @@ Alla deduzione delle spese di ricerca e sviluppo in caso di attività lucrativa 
 
 [^11-1]: Nuovo testo giusta n. I 2 della LF del 25 set. 2009 sullo sgravio fiscale delle famiglie con figli, in vigore dal 1° gen. 2011 ([RU 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [FF 2009 4095](https://fedlex.data.admin.ch/eli/fga/2009/815)).
 [^11-2]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
-[^11-3]: Introdotto dal n. 5 dell’all. alla L del 17 giu. 2005 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3243](https://fedlex.data.admin.ch/eli/fga/2002/520)).
+[^11-3]: Introdotto dell’all. n. 5 della L del 17 giu. 2005 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3243](https://fedlex.data.admin.ch/eli/fga/2002/520)).
 [^11-4]: Introdotto dal n. II 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 
 ### Capitolo 3: Imposta sugli utili da sostanza immobiliare
@@ -508,9 +530,9 @@ I Cantoni possono riscuotere l’imposta sugli utili da sostanza immobiliare anc
 <sup>5</sup> I Cantoni provvedono affinché gli utili realizzati a corto termine siano imposti più gravemente.
 
 [^12-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^12-2]: Nuovo testo giusta il n. 4 dell’all. della LF del 26 giu. 1999, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1))
+[^12-2]: Nuovo testo giusta l’all. n. 4 della LF del 26 giu. 1999, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 [^12-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^12-4]: Nuovo testo giusta il n. 8 dell’all. alla L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+[^12-4]: Nuovo testo giusta l’all. n. 8 della L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 
 ### Capitolo 4: Imposta sulla sostanza
 
@@ -526,7 +548,7 @@ I Cantoni possono riscuotere l’imposta sugli utili da sostanza immobiliare anc
 
 <sup>4</sup> Le suppellettili domestiche e gli oggetti personali di uso corrente non sono imponibili.
 
-[^13-1]: Nuovo testo giusta il n. II 7 dell’all. alla L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^13-1]: Nuovo testo giusta l’all. n. II 7 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 
 #### Art. 14
 
@@ -622,7 +644,7 @@ L’imposta sugli utili da sostanza immobiliare è fissata per il periodo fiscal
 <sup>2</sup> Le persone giuridiche, le società commerciali estere e altre comunità estere di persone senza personalità giuridica sono assimilate alle persone giuridiche svizzere con le quali esse, per la loro natura giuridica o la loro forma effettiva, hanno maggior affinità.
 
 [^20-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^20-2]: Nuovo testo giusta il n. II 7 dell’all. alla L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^20-2]: Nuovo testo giusta l’all. n. II 7 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 
 #### Art. 21
 
@@ -686,12 +708,12 @@ Sono esenti dall’imposta unicamente:
 
 <sup>4</sup> Le persone giuridiche menzionate nel capoverso 1 lettere d–g ed i sottostanno nondimeno in tutti i casi all’imposta sui guadagni immobiliari. Le disposizioni relative ai beni sostitutivi (art. 8 cpv. 4), agli ammortamenti (art. 10 cpv. 1 lett. a), agli accantonamenti (art. 10 cpv. 1 lett. b) e alla deduzione delle perdite (art. 10 cpv. 1 lett. c) si applicano per analogia.[^23-6]
 
-[^23-1]: Nuovo testo giusta il n. II 8 dell’all. alla LF del 22 giu. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
+[^23-1]: Nuovo testo giusta l’all. n. II 8 della LF del 22 giu. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 [^23-2]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^23-3]: Introdotta dal n. II 7 dell’all. alla L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^23-3]: Introdotta dall’all. n. II 7 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 [^23-4]: Introdotta dal n. II 11 della LF del 20 mar. 2009 sulla riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^23-5]: Abrogato dal n. II 11 della LF del 20 mar. 2009 sulla riforma delle ferrovie 2, con effetto dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
-[^23-6]: Nuovo testo giusta il n. II 7 dell’all. alla L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^23-6]: Nuovo testo giusta l’all. n. II 7 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 
 ### Capitolo 2: Imposta sull’utile
 
@@ -741,14 +763,14 @@ Le riserve occulte di una persona giuridica non sono imponibili nell’ambito di
 <sup>5</sup> Le prestazioni che imprese miste di interesse pubblico procurano in modo preponderante a persone a loro vicine devono essere stimate al valore di mercato, al loro prezzo di costo aumentato di un margine adeguato o al loro prezzo di vendita finale diminuito di un margine di utile adeguato; il risultato di ciascuna impresa è adattato di conseguenza.
 
 [^24-1]: Nuovo testo giusta il n. II 2 della LF del 26 set. 2014 (adeguamento alle disposizioni generali del CP), in vigore dal 1° gen. 2017 ([RU 2015 779](https://fedlex.data.admin.ch/eli/oc/2015/143); [FF 2012 2521](https://fedlex.data.admin.ch/eli/fga/2012/403)).
-[^24-2]: Nuovo testo giusta il n. 8 dell’all. alla L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+[^24-2]: Nuovo testo giusta l’all. n. 8 della L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 [^24-3]: Nuovo testo giusta il n. I 3 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^24-4]: Introdotto dal n. I 2 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese, in vigore dal 1° gen. 1998 ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
-[^24-5]: Introdotto dal n. 8 dell’all. alla L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+[^24-5]: Introdotto dall’all. n. 8 della L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 [^24-6]: Secondo per. introdotto dal n. I 3 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^24-7]: Introdotto dal n. 8 dell’all. alla L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
-[^24-8]: Introdotto dal n. 8 dell’all. alla L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
-[^24-9]: Introdotto dal n. 8 dell’all. alla L del 3 ott. 2003 sulla fusione ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)). Nuovo testo giusta il n. 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^24-7]: Introdotto dall’all. n. 8 della L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+[^24-8]: Introdotto dall’all. n. 8 della L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+[^24-9]: Introdotto dall’all. n. 8 della L del 3 ott. 2003 sulla fusione ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)). Nuovo testo giusta il n. 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 
 #### Art. 24a
 
@@ -833,27 +855,46 @@ Il Consiglio federale emana disposizioni complementari, in particolare per quant
 
 <sup>1</sup>
 
-Gli oneri consentiti dall’uso commerciale comprendono anche:
+Gli oneri giustificati dall’uso commerciale comprendono anche:[^25-1]
 
-- a. le imposte federali, cantonali e comunali, ma non le multe fiscali;
+- a.[^25-2] le imposte federali, cantonali e comunali;
 - b. i versamenti a istituzioni di previdenza in favore del personale, in quanto sia esclusa ogni utilizzazione contraria allo scopo;
-- c.[^25-1] le prestazioni volontarie in contanti e in altri beni, entro i limiti determinati dal diritto cantonale, a persone giuridiche con sede in Svizzera che sono esentate dall’imposta in virtù del loro scopo pubblico o di utilità pubblica (art. 23 cpv. 1 lett. f) nonché alla Confederazione, ai Cantoni, ai Comuni e ai loro stabilimenti (art. 23 cpv. 1 lett. a–c);
+- c.[^25-3] le prestazioni volontarie in contanti e in altri beni, entro i limiti determinati dal diritto cantonale, a persone giuridiche con sede in Svizzera che sono esentate dall’imposta in virtù del loro scopo pubblico o di utilità pubblica (art. 23 cpv. 1 lett. f) nonché alla Confederazione, ai Cantoni, ai Comuni e ai loro stabilimenti (art. 23 cpv. 1 lett. a–c);
 - d. i ribassi, gli sconti, gli abbuoni e i rimborsi sulla rimunerazione di forniture e prestazioni, nonché le eccedenze che le società d’assicurazione destinano alla distribuzione agli assicurati;
-- e.[^25-2] le spese di formazione e formazione continua professionali del personale, comprese le spese di riqualificazione.
+- e.[^25-4] le spese di formazione e formazione continua professionali del personale, comprese le spese di riqualificazione;
+- f.[^25-5] le sanzioni finalizzate al prelievo dell’utile illecito, nella misura in cui non abbiano carattere penale.
 
-<sup>1bis</sup> Gli oneri consentiti dall’uso commerciale non comprendono i versamenti di retribuzioni corruttive ai sensi del diritto penale svizzero fatti a pubblici ufficiali svizzeri o stranieri.[^25-3]
+<sup>1bis</sup>
 
-<sup>2</sup> Dall’utile netto del periodo fiscale sono dedotte le perdite dei sette esercizi commerciali che precedono il periodo fiscale (art. 31 cpv. 2), sempreché non se ne sia potuto tenere conto per il calcolo dell’utile netto imponibile di tali anni.[^25-4]
+Gli oneri giustificati dall’uso commerciale non comprendono segnatamente:
+
+- a. i versamenti di retribuzioni corruttive ai sensi del diritto penale svizzero;
+- b. le spese finalizzate a rendere possibili reati o che costituiscono la controprestazione per la commissione di reati;
+- c. le multe;
+- d. le sanzioni pecuniarie amministrative, nella misura in cui abbiano carattere penale.[^25-6]
+
+<sup>1ter</sup>
+
+Se pronunciate da autorità penali o amministrative estere, le sanzioni di cui al capoverso 1<sup>bis</sup> lettere c e d sono deducibili se:
+
+- a. sono contrarie all’ordine pubblico svizzero; o
+- b. il contribuente dimostra in modo plausibile di aver intrapreso tutto quanto si poteva ragionevolmente pretendere per conformarsi alla legge.[^25-7]
+
+<sup>2</sup> Dall’utile netto del periodo fiscale sono dedotte le perdite dei sette esercizi commerciali che precedono il periodo fiscale (art. 31 cpv. 2), sempreché non se ne sia potuto tenere conto per il calcolo dell’utile netto imponibile di tali anni.[^25-8]
 
 <sup>3</sup> Le perdite degli esercizi commerciali anteriori che non abbiano ancora potuto essere dedotte dagli utili possono essere compensate con le prestazioni che sono destinate a equilibrare un bilancio deficitario nell’ambito di un risanamento e che non costituiscono apporti ai sensi dell’articolo 24 capoverso 2 lettera a.
 
-<sup>4</sup> I capoversi 2 e 3 si applicano anche in caso di trasferimento della sede o dell’amministrazione effettiva all’interno della Svizzera.[^25-5]
+<sup>4</sup> I capoversi 2 e 3 si applicano anche in caso di trasferimento della sede o dell’amministrazione effettiva all’interno della Svizzera.[^25-9]
 
-[^25-1]: Nuovo testo giusta il n. 4 dell’all. alla LF dell’8 ott. 2004 (diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)7059).
-[^25-2]: Introdotta dal n. I 2 della LF del 27 set. 2013 sul trattamento fiscale delle spese di formazione e perfezionamento professionali, in vigore dal 1° gen. 2016 ([RU 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2365](https://fedlex.data.admin.ch/eli/fga/2011/381)).
-[^25-3]: Introdotto dal n. II della LF del 22 dic. 1999 sulla deducibilità fiscale delle retribuzioni corruttive, in vigore dal 1° gen. 2001 ([RU 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [FF 1997 II 852](https://fedlex.data.admin.ch/eli/fga/1997/2_1008_929_852), IV 1072).
-[^25-4]: Nuovo testo giusta il n. I 2 della LF del 15 dic. 2000 sul coordinamento e la semplificazione delle procedure di imposizione delle imposte dirette nei rapporti intercantonali, in vigore dal 1° gen. 2001 ([RU 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [FF 2000 3390](https://fedlex.data.admin.ch/eli/fga/2000/823)).
-[^25-5]: Introdotto dal n. I 2 della LF del 15 dic. 2000 sul coordinamento e la semplificazione delle procedure di imposizione delle imposte dirette nei rapporti intercantonali, in vigore dal 1° gen. 2001 ([RU 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [FF 2000 3390](https://fedlex.data.admin.ch/eli/fga/2000/823)).
+[^25-1]: Nuovo testo giusta il n. I 2 della LF del 19 giu. 2020 sul trattamento fiscale delle sanzioni pecuniarie, in vigore dal 1° gen. 2022 ([RU 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 7575](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^25-2]: Nuovo testo giusta il n. I 2 della LF del 19 giu. 2020 sul trattamento fiscale delle sanzioni pecuniarie, in vigore dal 1° gen. 2022 ([RU 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 7575](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^25-3]: Nuovo testo giusta l’all. n. 4 della LF dell’8 ott. 2004 (diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)7059).
+[^25-4]: Introdotta dal n. I 2 della LF del 27 set. 2013 sul trattamento fiscale delle spese di formazione e perfezionamento professionali, in vigore dal 1° gen. 2016 ([RU 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2365](https://fedlex.data.admin.ch/eli/fga/2011/381)).
+[^25-5]: Introdotta dal n. I 2 della LF del 19 giu. 2020 sul trattamento fiscale delle sanzioni pecuniarie, in vigore dal 1° gen. 2022 ([RU 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 7575](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^25-6]: Introdotto dal n. II della LF del 22 dic. 1999 sulla deducibilità fiscale delle retribuzioni corruttive ([RU 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [FF 1997 II 852](https://fedlex.data.admin.ch/eli/fga/1997/2_1008_929_852), IV 1072). Nuovo testo giusta il n. I 2 della LF del 19 giu. 2020 sul trattamento fiscale delle sanzioni pecuniarie, in vigore dal 1° gen. 2022 ([RU 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 7575](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^25-7]: Introdotto dal n. I 2 della LF del 19 giu. 2020 sul trattamento fiscale delle sanzioni pecuniarie, in vigore dal 1° gen. 2022 ([RU 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 7575](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^25-8]: Nuovo testo giusta il n. I 2 della LF del 15 dic. 2000 sul coordinamento e la semplificazione delle procedure di imposizione delle imposte dirette nei rapporti intercantonali, in vigore dal 1° gen. 2001 ([RU 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [FF 2000 3390](https://fedlex.data.admin.ch/eli/fga/2000/823)).
+[^25-9]: Introdotto dal n. I 2 della LF del 15 dic. 2000 sul coordinamento e la semplificazione delle procedure di imposizione delle imposte dirette nei rapporti intercantonali, in vigore dal 1° gen. 2001 ([RU 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [FF 2000 3390](https://fedlex.data.admin.ch/eli/fga/2000/823)).
 
 #### Art. 25a
 
@@ -930,8 +971,8 @@ L’interesse figurativo sul capitale proprio di garanzia è calcolato alla fine
 
 <sup>3</sup> Gli investimenti collettivi di capitale soggiacciono all’imposta sull’utile per il reddito da possesso fondiario diretto.[^26-2]
 
-[^26-1]: Nuovo testo giusta il n. II 7 dell’all. alla L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^26-2]: Nuovo testo giusta il n. II 7 dell’all. alla L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^26-1]: Nuovo testo giusta l’all. n. II 7 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^26-2]: Nuovo testo giusta l’all. n. II 7 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 
 #### Art. 26a
 
@@ -1283,10 +1324,9 @@ Per la tassazione ordinaria ulteriore è competente:
 
 <sup>3</sup> Le autorità della Confederazione, dei Cantoni, dei distretti, dei circoli e dei Comuni comunicano su richiesta alle autorità incaricate dell’esecuzione della legislazione fiscale ogni informazione necessaria per la sua applicazione. Esse possono avvertire di moto proprio tali autorità se presumono che una tassazione sia incompleta.
 
-<sup>4</sup> Per adempiere i loro compiti legali, le autorità di cui ai capoversi 2 e 3 sono autorizzate a utilizzare sistematicamente il numero d’assicurato dell’assicurazione vecchiaia e superstiti conformemente alle disposizioni della legge federale del 20 dicembre 1946[^39-1] sull’assicurazione per la vecchiaia e per i superstiti.[^39-2]
+<sup>4</sup> ...[^39-1]
 
-[^39-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^39-2]: Introdotto dal n. 6 dell’all. alla LF del 23 giu. 2006 (nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^39-1]: Introdotto dall’all. n. 6 della LF del 23 giu. 2006 (nuovo numero d’assicurato dell’AVS) ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)). Abrogato dall’all. n. 20 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 39a
 
@@ -1374,7 +1414,7 @@ Devono presentare un’attestazione all’autorità di tassazione, per ogni peri
 - d.[^45-1] gli investimenti collettivi di capitale con possesso fondiario diretto, sui rapporti determinanti per la tassazione del possesso fondiario diretto e dei suoi redditi;
 - e.[^45-2] i datori di lavoro, sui vantaggi valutabili in denaro risultanti da partecipazioni vere e proprie di collaboratore, nonché sull’assegnazione e sull’esercizio delle opzioni di collaboratore.
 
-[^45-1]: Nuovo testo giusta il n. II 7 dell’all. alla L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^45-1]: Nuovo testo giusta l’all. n. II 7 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 [^45-2]: Introdotta dal n. I 2 della LF del 17 dic. 2010 sull’imposizione delle partecipazioni di collaboratore, in vigore dal 1° gen. 2013 ([RU 2011 3259](https://fedlex.data.admin.ch/eli/oc/2011/427); [FF 2005 495](https://fedlex.data.admin.ch/eli/fga/2005/88)).
 
 #### Art. 46
@@ -1608,7 +1648,7 @@ Se una persona di cui al capoverso 4 si denuncia spontaneamente per la prima vol
 [^57bis-1]: Introdotto dall’art. 3 n. 8 del DF del 17 dic. 2004 che approva e traspone gli accordi bilaterali con l’UE per l’associazione alla normativa di Schengen e Dublino, in vigore dal 1° mar. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112); [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^57bis-2]: Nuovo testo giusta il n. II 2 della LF del 26 set. 2014 (adeguamento alle disposizioni generali del CP), in vigore dal 1° gen. 2017 ([RU 2015 779](https://fedlex.data.admin.ch/eli/oc/2015/143); [FF 2012 2521](https://fedlex.data.admin.ch/eli/fga/2012/403)).
 [^57bis-3]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^57bis-4]: Nuovo testo giusta il n. 58 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^57bis-4]: Nuovo testo giusta l’all. n. 58 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 57a
 
@@ -1705,7 +1745,7 @@ L’azione penale per sottrazione consumata d’imposta si prescrive in dieci an
 
 La procedura penale e l’esecuzione della pena sono determinate dal diritto cantonale, sempreché il diritto federale non vi si opponga. Le decisioni in ultima istanza cantonale possono essere impugnate mediante ricorso in materia penale al Tribunale federale.[^61-1]
 
-[^61-1]: Nuovo testo del per. giusta n. 13 dell’all. alla L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^61-1]: Nuovo testo del per. giusta l’all. n. 13 della L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## Titolo settimo: ...
 
@@ -1733,33 +1773,26 @@ La procedura penale e l’esecuzione della pena sono determinate dal diritto can
 
 **Adeguamento delle legislazioni cantonali**
 
-<sup>1</sup> I Cantoni adeguano le loro legislazioni alle disposizioni dei titoli secondo a sesto entro otto anni dall’entrata in vigore della presente legge.[^72-1]
+<sup>1</sup> I Cantoni adeguano la loro legislazione alle disposizioni della presente legge per la data della loro entrata in vigore. Nel determinare la data dell’entrata in vigore, la Confederazione tiene conto dei Cantoni; accorda loro di norma un termine di almeno due anni per l’adeguamento della loro legislazione.[^72-1]
 
-<sup>2</sup> Scaduto questo termine, il diritto federale è direttamente applicabile se il diritto fiscale cantonale vi si oppone.
+<sup>2</sup> Dalla loro entrata in vigore, le disposizioni della presente legge si applicano direttamente laddove il diritto fiscale cantonale risulti loro contrario.[^72-2]
 
 <sup>3</sup> Il governo cantonale emana le necessarie disposizioni provvisorie.
 
-[^72-1]: Nuovo testo giusta il n. I 2 della LF del 22 mar. 2013 sull’adeguamento formale delle basi temporali per l’imposizione diretta delle persone fisiche, in vigore dal 1° gen. 2014 ([RU 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3279](https://fedlex.data.admin.ch/eli/fga/2011/525)).
+[^72-1]: Nuovo testo giusta il n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^72-2]: Nuovo testo giusta il n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72a
 
-**Adeguamento delle legislazioni cantonali alla modifica**[^72a-1]
+[^72a-1]
 
-<sup>1</sup> I Cantoni adeguano le loro legislazioni alle disposizioni della modifica della presente legge del 10 ottobre 1997 (art. 7 cpv. 1<sup>bis</sup>, 24 cpv. 3<sup>bis</sup> e 28 cpv. 1 e 3–5) entro il termine di cinque anni a contare dalla sua entrata in vigore.
-
-<sup>2</sup> Scaduto questo termine, dette disposizioni si applicano conformemente all’articolo 72 capoverso 2.
-
-[^72a-1]: Introdotto dal n. I 2 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese, in vigore dal 1° gen. 1998 ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
+[^72a-1]: Introdotto dal n. I 2 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72b
 
-**Adeguamento delle legislazioni cantonali**[^72b-1]
+[^72b-1]
 
-<sup>1</sup> All’entrata in vigore delle modifiche degli articoli 7 capoversi 1<sup>ter</sup>, 2 e 4 lettera d, 8 capoverso 2, 9 capoverso 2 lettere a e b, 10 capoverso 1 lettera e, nonché 35 capoverso 1 lettera f, i Cantoni adeguano le loro legislazioni.
-
-<sup>2</sup> Dopo l’entrata in vigore delle modifiche si applica l’articolo 72 capoverso 2.
-
-[^72b-1]: Introdotto dal n. I 6 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 2001 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
+[^72b-1]: Introdotto dal n. I 6 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72c
 
@@ -1769,163 +1802,99 @@ La procedura penale e l’esecuzione della pena sono determinate dal diritto can
 
 #### Art. 72d
 
-**Mantenimento della deduzione per il risparmio mirato per l’alloggio**[^72d-1]
+[^72d-1]
 
-Durante i quattro anni che seguono la scadenza prevista nell’articolo 72 capoverso 1, i Cantoni possono mantenere le disposizioni applicabili nel periodo fiscale 2000 relative alla deduzione dal reddito imponibile degli importi destinati al finanziamento del primo acquisto di una proprietà abitativa e all’esonero dall’imposta sul reddito e sulla sostanza del capitale in tal modo risparmiato e dell’utile che ne deriva.
-
-[^72d-1]: Introdotto dal n. I 2 della LF del 15 dic. 2000 sul coordinamento e la semplificazione delle procedure di imposizione delle imposte dirette nei rapporti intercantonali, in vigore dal 1° gen. 2001 ([RU 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [FF 2000 3390](https://fedlex.data.admin.ch/eli/fga/2000/823)).
+[^72d-1]: Introdotto dal n. I 2 della LF del 15 dic. 2000 sul coordinamento e la semplificazione delle procedure di imposizione delle imposte dirette nei rapporti intercantonali ([RU 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [FF 2000 3390](https://fedlex.data.admin.ch/eli/fga/2000/823)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72e
 
-**Adeguamento della legislazione cantonale**[^72e-1]
+[^72e-1]
 
-<sup>1</sup> I Cantoni adeguano la loro legislazione alle disposizioni modificate dei titoli secondo e terzo entro tre anni dall’entrata in vigore della modifica del 3 ottobre 2003[^72e-2] della presente legge.
-
-<sup>2</sup> Scaduto tale termine, si applica la regolamentazione di cui all’articolo 72 capoverso 2.
-
-[^72e-1]: Introdotto dal n. 8 dell’all. alla L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
-[^72e-2]: [RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320)all. n. 8
+[^72e-1]: Introdotto dall’all. n. 8 della L del 3 ott. 2003 sulla fusione ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72f
 
-**Adeguamento della legislazione cantonale**[^72f-1]
+[^72f-1]
 
-<sup>1</sup> I Cantoni adeguano la loro legislazione alle disposizioni dell’articolo 7*a* per la data d’entrata in vigore di tali disposizioni.
-
-<sup>2</sup> Da tale momento, l’articolo 7*a* si applica direttamente nel caso in cui il diritto fiscale cantonale contenga disposizioni ad esso contrarie.
-
-[^72f-1]: Introdotto dal n. I 2 della LF del 23 giu. 2006 che introduce alcuni adeguamenti urgenti nell’imposizione delle imprese, in vigore dal 1° gen. 2008 ([RU 2006 4883](https://fedlex.data.admin.ch/eli/oc/2006/760); [FF 2005 4837](https://fedlex.data.admin.ch/eli/fga/2005/853)).
+[^72f-1]: Introdotto dal n. I 2 della LF del 23 giu. 2006 che introduce alcuni adeguamenti urgenti nell’imposizione delle imprese ([RU 2006 4883](https://fedlex.data.admin.ch/eli/oc/2006/760); [FF 2005 4837](https://fedlex.data.admin.ch/eli/fga/2005/853)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72g
 
-**Adeguamento delle legislazioni cantonali alla modifica del 20 dicembre 2006**[^72g-1]
+[^72g-1]
 
-<sup>1</sup> I Cantoni adeguano la loro legislazione alle modifiche degli articoli 53 capoverso 4, 57 capoverso 4 e 57*a* entro due anni dall’entrata in vigore della modifica del 20 dicembre 2006.
-
-<sup>2</sup> Trascorso tale termine, gli articoli 53 capoverso 4, 57 capoverso 4 e 57*a* sono direttamente applicabili qualora il diritto fiscale cantonale sia loro contrario.
-
-[^72g-1]: Introdotto dal n. I 2 della LF del 20 dic. 2006 sulla modifica della procedura di ricupero d’imposta e del procedimento penale per sottrazione d’imposta in materia di imposizione diretta, in vigore dal 1° gen. 2008 ([RU 2007 2973](https://fedlex.data.admin.ch/eli/oc/2007/400); [FF 2006 3697](https://fedlex.data.admin.ch/eli/fga/2006/462)[3715](https://fedlex.data.admin.ch/eli/fga/2006/464)).
+[^72g-1]: Introdotto dal n. I 2 della LF del 20 dic. 2006 sulla modifica della procedura di ricupero d’imposta e del procedimento penale per sottrazione d’imposta in materia di imposizione diretta ([RU 2007 2973](https://fedlex.data.admin.ch/eli/oc/2007/400); [FF 2006 3697](https://fedlex.data.admin.ch/eli/fga/2006/462)[3715](https://fedlex.data.admin.ch/eli/fga/2006/464)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72h
 
-**Adeguamento della legislazione cantonale alla modifica del 23 marzo 2007**[^72h-1]
+[^72h-1]
 
-<sup>1</sup> Entro due anni dall’entrata in vigore della modifica del 23 marzo 2007, i Cantoni adeguano la loro legislazione alle disposizioni modificate degli articoli 7 capoverso 1, secondo periodo, 7*b*, 8 capoversi 2<sup>bis</sup>–2<sup>quater</sup> e 4, 9 capoverso 2 lettera a, 11 capoverso 5, 14 capoverso 3, 24 capoverso 4<sup>bis</sup> e 28 capoverso 1, primo periodo. Tali adeguamenti hanno effetto per tutti i Cantoni due anni dopo l’entrata in vigore della modifica del 23 marzo 2007.
-
-<sup>2</sup> Scaduti tali termini, le disposizioni menzionate nel capoverso 1 si applicano direttamente laddove il diritto cantonale risulti loro contrario.
-
-[^72h-1]: Introdotto dal n. II 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^72h-1]: Introdotto dal n. II 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72i
 
-**Adeguamento delle legislazioni cantonali alla modifica del 20 marzo 2008**[^72i-1]
+[^72i-1]
 
-<sup>1</sup> I Cantoni adeguano la loro legislazione alle modifiche degli articoli 53*a*, 56 capoversi 1, 1<sup>bis</sup>, 1<sup>ter</sup>, 3<sup>bis</sup>, 4 e 5, nonché degli articoli 57*b* e 59 capoversi 2<sup>bis</sup> e 2<sup>ter</sup> al momento della loro entrata in vigore.
-
-<sup>2</sup> Dalla loro entrata in vigore, le modifiche menzionate nel capoverso 1 si applicano direttamente laddove il diritto cantonale risulti loro contrario.
-
-[^72i-1]: Introdotto dal n. I 2 della LF del 20 mar. 2008 relativa alla semplificazione del ricupero d’imposta in caso di successione e all’introduzione dell’autodenuncia esente da pena, in vigore dal 1° gen. 2010 ([RU 2008 4453](https://fedlex.data.admin.ch/eli/oc/2008/618), [2009 5683](https://fedlex.data.admin.ch/eli/oc/2009/689); [FF 2006 8079](https://fedlex.data.admin.ch/eli/fga/2006/1131)).
+[^72i-1]: Introdotto dal n. I 2 della LF del 20 mar. 2008 relativa alla semplificazione del ricupero d’imposta in caso di successione e all’introduzione dell’autodenuncia esente da pena ([RU 2008 4453](https://fedlex.data.admin.ch/eli/oc/2008/618), [2009 5683](https://fedlex.data.admin.ch/eli/oc/2009/689); [FF 2006 8079](https://fedlex.data.admin.ch/eli/fga/2006/1131)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72j
 
-**Adeguamento della legislazione cantonale alla modifica del 3 ottobre 2008**[^72j-1]
+[^72j-1]
 
-<sup>1</sup> Entro due anni dall’entrata in vigore della modifica del 3 ottobre 2008, i Cantoni adeguano la loro legislazione alle disposizioni modificate dell’articolo 9 capoverso 3. Tale adeguamento ha effetto per tutti i Cantoni due anni dopo l’entrata in vigore della modifica del 3 ottobre 2008.
-
-<sup>2</sup> Scaduto tale termine, le modifiche dell’articolo 9 capoverso 3 si applicano direttamente laddove il diritto fiscale cantonale risulti ad esse contrario.
-
-[^72j-1]: Introdotto dal n. I 2 della LF del 3 ott. 2008 sul trattamento fiscale delle spese di riattazione degli immobili, in vigore dal 1° gen. 2010 ([RU 2009 1515](https://fedlex.data.admin.ch/eli/oc/2009/218); [FF 2007 7201](https://fedlex.data.admin.ch/eli/fga/2007/1291)[7217](https://fedlex.data.admin.ch/eli/fga/2007/1293)).
+[^72j-1]: Introdotto dal n. I 2 della LF del 3 ott. 2008 sul trattamento fiscale delle spese di riattazione degli immobili ([RU 2009 1515](https://fedlex.data.admin.ch/eli/oc/2009/218); [FF 2007 7201](https://fedlex.data.admin.ch/eli/fga/2007/1291)[7217](https://fedlex.data.admin.ch/eli/fga/2007/1293)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72k
 
-**Adeguamento della legislazione cantonale alla modifica del 12 giugno 2009**[^72k-1]
+[^72k-1]
 
-<sup>1</sup> Entro due anni dall’entrata in vigore della modifica del 12 giugno 2009, i Cantoni adeguano la loro legislazione alle disposizioni dell' articolo 9 capoverso 2 lettera l.
-
-<sup>2</sup> Scaduto tale termine, la modifica dell'articolo 9 capoverso 2 lettera l si applica direttamente laddove il diritto cantonale risulti loro contrario. Si applicano gli importi di cui all'articolo 33 capoverso 1 lettera i della legge federale del 14 dicembre 1990[^72k-2] sull’imposta federale diretta.
-
-[^72k-1]: Introdotto dal n. I 2 della LF del 12 giu. 2009 sulla deducibilità fiscale dei versamenti ai partiti, in vigore dal 1° gen. 2011 ([RU 2010 449](https://fedlex.data.admin.ch/eli/oc/2010/58); [FF 2008 6565](https://fedlex.data.admin.ch/eli/fga/2008/1236)[6587](https://fedlex.data.admin.ch/eli/fga/2008/1238)).
-[^72k-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^72k-1]: Introdotto dal n. I 2 della LF del 12 giu. 2009 sulla deducibilità fiscale dei versamenti ai partiti ([RU 2010 449](https://fedlex.data.admin.ch/eli/oc/2010/58); [FF 2008 6565](https://fedlex.data.admin.ch/eli/fga/2008/1236)[6587](https://fedlex.data.admin.ch/eli/fga/2008/1238)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72l
 
-**Adeguamento delle legislazioni cantonali alla modifica del 25 settembre 2009**[^72l-1]
+[^72l-1]
 
-<sup>1</sup> I Cantoni adeguano la loro legislazione alla modifica dell’articolo 9 capoverso 2 lettera m[^72l-2] entro due anni dall’entrata in vigore della modifica del 25 settembre 2009.
-
-<sup>2</sup> Scaduto tale termine, l’articolo 9 capoverso 2 lettera m[^72l-3] si applica direttamente laddove il diritto fiscale cantonale risulti a esso contrario.
-
-[^72l-1]: Introdotto dal n. I 2 della LF del 25 set. 2009 sullo sgravio fiscale delle famiglie con figli, in vigore dal 1° gen. 2011 ([RU 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [FF 2009 4095](https://fedlex.data.admin.ch/eli/fga/2009/815)).
-[^72l-2]: Rettificata dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl - [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^72l-3]: Rettificata dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl - [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^72l-1]: Introdotto dal n. I 2 della LF del 25 set. 2009 sullo sgravio fiscale delle famiglie con figli ([RU 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [FF 2009 4095](https://fedlex.data.admin.ch/eli/fga/2009/815)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72m
 
-**Adeguamento della legislazione cantonale alla modifica del 17 dicembre 2010**[^72m-1]
+[^72m-1]
 
-I Cantoni adeguano la loro legislazione alle modifiche della presente legge entro il momento dell’entrata in vigore delle medesime.
-
-[^72m-1]: Introdotto dal n. I 2 della LF del 17 dic. 2010 sull’imposizione delle partecipazioni di collaboratore, in vigore dal 1° gen. 2013 ([RU 2011 3259](https://fedlex.data.admin.ch/eli/oc/2011/427); [FF 2005 495](https://fedlex.data.admin.ch/eli/fga/2005/88)).
+[^72m-1]: Introdotto dal n. I 2 della LF del 17 dic. 2010 sull’imposizione delle partecipazioni di collaboratore ([RU 2011 3259](https://fedlex.data.admin.ch/eli/oc/2011/427); [FF 2005 495](https://fedlex.data.admin.ch/eli/fga/2005/88)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72n
 
-**Adeguamento della legislazione cantonale alla modifica del 17 giugno 2011**[^72n-1]
+[^72n-1]
 
-<sup>1</sup> Entro due anni dall’entrata in vigore della modifica del 17 giugno 2011 i Cantoni adeguano la loro legislazione alla disposizione modificata dell’articolo 7 capoverso 4 lettera h<sup>bis</sup>.
-
-<sup>2</sup> Scaduto tale termine, l’articolo 7 capoverso 4 lettera h<sup>bis</sup> si applica direttamente nel caso in cui il diritto fiscale cantonale contenga disposizioni a esso contrarie.
-
-[^72n-1]: Introdotto dal n. I 2 della LF del 17 giu. 2011 sull’esenzione fiscale del soldo dei pompieri, in vigore dal 1° gen. 2013 ([RU 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [FF 2010 2497](https://fedlex.data.admin.ch/eli/fga/2010/508)).
+[^72n-1]: Introdotto dal n. I 2 della LF del 17 giu. 2011 sull’esenzione fiscale del soldo dei pompieri ([RU 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [FF 2010 2497](https://fedlex.data.admin.ch/eli/fga/2010/508)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72o
 
-**Adeguamento della legislazione cantonale alla modifica del 23 dicembre 2011**[^72o-1]
+[^72o-1]
 
-<sup>1</sup> I Cantoni adeguano la loro legislazione all’articolo 42 per la data d’entrata in vigore di tale articolo.
-
-<sup>2</sup> Da tale momento, l’articolo 42 si applica direttamente laddove il diritto fiscale cantonale risulti ad esso contrario.
-
-[^72o-1]: Introdotto dal n. 6 dell’all. alla LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^72o-1]: Introdotto dell’all. n. 6 della LF del 23 dic. 2011 (Diritto contabile) ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72p
 
-**Adeguamento delle legislazioni cantonali alla modifica del 15 giugno 2012**[^72p-1]
+[^72p-1]
 
-<sup>1</sup> Entro due anni dall’entrata in vigore della modifica del 15 giugno 2012, i Cantoni adeguano la loro legislazione alle modifiche degli articoli 7 capoverso 4 lettera m e 9 capoverso 2 lettera n.
-
-<sup>2</sup> Scaduto questo termine, gli articoli 7 capoverso 4 lettera m e 9 capoverso 2 lettera n si applicano direttamente laddove il diritto fiscale cantonale risulti ad essi contrario.
-
-[^72p-1]: Introdotto testo giusta il n. I 2 della LF del 15 giu. 2012 concernente le semplificazioni nell’imposizione delle vincite alle lotterie, in vigore dal 1° gen. 2014 ([RU 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 5819](https://fedlex.data.admin.ch/eli/fga/2011/1012)[5845](https://fedlex.data.admin.ch/eli/fga/2011/1014)).
+[^72p-1]: Introdotto testo giusta il n. I 2 della LF del 15 giu. 2012 concernente le semplificazioni nell’imposizione delle vincite alle lotterie ([RU 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 5819](https://fedlex.data.admin.ch/eli/fga/2011/1012)[5845](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72q
 
-**Adeguamento della legislazione cantonale alla modifica del 28 settembre 2012**[^72q-1]
+[^72q-1]
 
-<sup>1</sup> I Cantoni che prevedono l’imposizione secondo il dispendio adeguano la loro legislazione alla modifica dell’articolo 6 entro due anni dall’entrata in vigore della modifica del 28 settembre 2012.
-
-<sup>2</sup> Scaduto tale termine, l’articolo 6 si applica direttamente laddove il diritto cantonale risulti a esso contrario.
-
-[^72q-1]: Introdotto dal n. I 2 della LF del 28 set. 2012, in vigore dal 1° gen. 2014 ([RU 2013 779](https://fedlex.data.admin.ch/eli/oc/2013/155); [FF 2011 5433](https://fedlex.data.admin.ch/eli/fga/2011/885)).
+[^72q-1]: Introdotto dal n. I 2 della LF del 28 set. 2012 ([RU 2013 779](https://fedlex.data.admin.ch/eli/oc/2013/155); [FF 2011 5433](https://fedlex.data.admin.ch/eli/fga/2011/885)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72r
 
-**Adeguamento della legislazione cantonale alla modifica del 27 settembre 2013**[^72r-1]
+[^72r-1]
 
-<sup>1</sup> I Cantoni adeguano la loro legislazione alla modifica del 27 settembre 2013 dell’articolo 9 capoversi 1 e 2 lettera o entro la data di entrata in vigore della stessa.
-
-<sup>2</sup> A partire da tale data, l’articolo 9 capoversi 1 e 2 lettera o si applica direttamente laddove il diritto fiscale cantonale risulti ad esso contrario. In tal caso il Governo cantonale emana le necessarie disposizioni provvisorie.
-
-[^72r-1]: Introdotto dal n. I 2 della LF del 27 set. 2013 sul trattamento fiscale delle spese di formazione e perfezionamento professionali, in vigore dal 1° gen. 2016 ([RU 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2365](https://fedlex.data.admin.ch/eli/fga/2011/381)).
+[^72r-1]: Introdotto dal n. I 2 della LF del 27 set. 2013 sul trattamento fiscale delle spese di formazione e perfezionamento professionali ([RU 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2365](https://fedlex.data.admin.ch/eli/fga/2011/381)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72s
 
-**Adeguamento delle legislazioni cantonali alla modifica del 26 settembre 2014**[^72s-1]
+[^72s-1]
 
-<sup>1</sup> I Cantoni adeguano la loro legislazione alla modifica degli articoli 57<sup>bis</sup> capoverso 1, 58, 59 capoverso 1 e 60 per la data d’entrata in vigore della modifica del 26 settembre 2014.
-
-<sup>2</sup> Dall’entrata in vigore della modifica, le disposizioni menzionate nel capoverso 1 si applicano direttamente laddove il diritto fiscale cantonale risulti loro contrario.
-
-[^72s-1]: Introdotto dal n. II 2 della LF del 26 set. 2014 (adeguamento alle disposizioni generali del CP), in vigore dal 1° gen. 2017 ([RU 2015 779](https://fedlex.data.admin.ch/eli/oc/2015/143); [FF 2012 2521](https://fedlex.data.admin.ch/eli/fga/2012/403)).
+[^72s-1]: Introdotto dal n. II 2 della LF del 26 set. 2014 (adeguamento alle disposizioni generali del CP) ([RU 2015 779](https://fedlex.data.admin.ch/eli/oc/2015/143); [FF 2012 2521](https://fedlex.data.admin.ch/eli/fga/2012/403)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72t
 
@@ -1940,33 +1909,21 @@ I Cantoni adeguano la loro legislazione alle modifiche della presente legge entr
 
 #### Art. 72u
 
-**Adeguamento delle legislazioni cantonali alla modifica del 30 settembre 2016**[^72u-1]
+[^72u-1]
 
-<sup>1</sup> I Cantoni adeguano le loro legislazioni all’articolo 9 capoversi 3 lettera a e 3<sup>bis</sup> entro due anni dall’entrata in vigore della modifica del 30 settembre 2016.
-
-<sup>2</sup> Scaduto questo termine, l’articolo 9 capoversi 3 lettera a e 3<sup>bis</sup> è direttamente applicabile se il diritto fiscale cantonale vi si oppone.
-
-[^72u-1]: Introdotto testo giusta il n. II 4 dell’all. alla LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^72u-1]: Introdotto dall’all. n. II 4 della LF del 30 set. 2016 sull’energia ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72v
 
-**Adeguamento delle legislazioni cantonali alla modifica del 16 dicembre 2016**[^72v-1]
+[^72v-1]
 
-<sup>1</sup> I Cantoni adeguano la loro legislazione alla modifica degli articoli 4*b* capoverso 1, terzo periodo, 32, 33, 33*a*, 33*b*, 34, 35 capoversi 1, frase introduttiva e lettere h e j, nonché 2, 35*a*, 35*b*, 36 capoverso 2, 36*a*, 37 capoversi 2 e 3, 38, 38*a* e 49 capoversi 2, 2<sup>bis</sup>, 2<sup>ter</sup> e 5 per la data d’entrata in vigore della modifica del 16 dicembre 2016.
-
-<sup>2</sup> Dall’entrata in vigore della modifica, le disposizioni di cui al capoverso 1 si applicano direttamente laddove il diritto cantonale risulti ad esse contrario.
-
-[^72v-1]: Introdotto dal n. I 2 della LF del 16 dic. 2016 sulla revisione dell’imposizione alla fonte del reddito da attività lucrativa, in vigore dal 1° gen. 2021 ([RU 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 603](https://fedlex.data.admin.ch/eli/fga/2015/56)).
+[^72v-1]: Introdotto dal n. I 2 della LF del 16 dic. 2016 sulla revisione dell’imposizione alla fonte del reddito da attività lucrativa ([RU 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 603](https://fedlex.data.admin.ch/eli/fga/2015/56)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72w
 
-**Adeguamento della legislazione cantonale alla modifica del 17 marzo 2017**[^72w-1]
+[^72w-1]
 
-<sup>1</sup> I Cantoni adeguano la loro legislazione alla modifica del 17 marzo 2017 degli articoli 4 capoversi 1 e 2 lettera g, nonché 21 capoversi 1 lettera d e 2 lettera b per la data di entrata in vigore di tale modifica.
-
-<sup>2</sup> A partire da tale data, gli articoli 4 capoversi 1 e 2 lettera g, nonché 21 capoversi 1 lettera d e 2 lettera b sono direttamente applicabili laddove il diritto fiscale cantonale risulti ad essi contrario.
-
-[^72w-1]: Introdotto dal n. I della LF del 17 mar. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5039](https://fedlex.data.admin.ch/eli/oc/2017/547); [FF 2016 4757](https://fedlex.data.admin.ch/eli/fga/2016/1165)).
+[^72w-1]: Introdotto dal n. I della LF del 17 mar. 2017 ([RU 2017 5039](https://fedlex.data.admin.ch/eli/oc/2017/547); [FF 2016 4757](https://fedlex.data.admin.ch/eli/fga/2016/1165)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72x
 
@@ -1976,32 +1933,26 @@ I Cantoni adeguano la loro legislazione alle modifiche della presente legge entr
 
 <sup>2</sup> A partire da tale data, gli articoli 7 capoverso 4 lettere l–m e 9 capoverso 2 lettera n sono direttamente applicabili, laddove il diritto fiscale cantonale risulti ad essi contrario. Si applicano gli importi di cui all’articolo 24 lettere i<sup>bis</sup> e j della legge federale del 14 dicembre 1990[^72x-2] sull’imposta federale diretta.
 
-[^72x-1]: Introdotto dal n. II 6 dell’all. alla LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^72x-1]: Introdotto dall’all. n. II 6 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^72x-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 
 #### Art. 72y
 
-**Adeguamento della legislazione cantonale alla modifica del 28 settembre 2018**[^72y-1]
+[^72y-1]
 
-<sup>1</sup> I Cantoni adeguano la loro legislazione alla modifica degli articoli 7 capoverso 1 terzo e quarto periodo, 7*a* capoverso 1 lettera b, 7*b*, 8 capoverso 2<sup>quinquies</sup>, 8*a*, 10*a*, 14 capoverso 3 secondo periodo, 24 capoversi 3<sup>bis</sup> primo periodo e 3<sup>quater</sup> secondo periodo, 24*a*–24*d*, 25*a,* 25*a*<sup>bis</sup>, 25*b*, 28 capoversi 2–5, 29 capoversi 2 lettera b e 3 nonché 78*g* entro la data dell’entrata in vigore integrale della modifica del 28 settembre 2018.[^72y-2]
-
-<sup>2</sup> A partire da tale data le disposizioni di cui al capoverso 1 si applicano direttamente laddove il diritto fiscale cantonale risulti ad esse contrario. In tal caso il Governo cantonale emana le necessarie disposizioni provvisorie.[^72y-3]
-
-<sup>3</sup> I Cantoni possono anticipare l’adeguamento della loro legislazione all’articolo 78*g* capoversi 1 e 2.
-
-[^72y-1]: Introdotto dal n. I 3 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 9 lug. 2019 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^72y-2]: In vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^72y-3]: In vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^72y-1]: Introdotto dal n. I 3 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72z
 
-**Adeguamento delle legislazioni cantonali alla modifica del 14 dicembre 2018**[^72z-1]
+[^72z-1]
 
-<sup>1</sup> I Cantoni adeguano le loro legislazioni all’articolo 28 capoverso 1<sup>quater</sup> per la data della sua entrata in vigore.
+[^72z-1]: Introdotto dal n. I 2 della LF del 14 dic. 2018 sul calcolo della deduzione per partecipa-zioni in caso di banche di rilevanza sistemica ([RU 2019 1207](https://fedlex.data.admin.ch/eli/oc/2019/225); [FF 2018 1013](https://fedlex.data.admin.ch/eli/fga/2018/511)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
-<sup>2</sup> A partire da tale data, l’articolo 28 capoverso 1<sup>quater</sup> si applica direttamente laddove il diritto fiscale cantonale risulti a esso contrario.
+#### Art. 72z<sup>bis</sup>
 
-[^72z-1]: Introdotto dal n. I 2 della LF del 14 dic. 2018 sul calcolo della deduzione per partecipa-zioni in caso di banche di rilevanza sistemica, in vigore dal 1° gen. 2019 ([RU 2019 1207](https://fedlex.data.admin.ch/eli/oc/2019/225); [FF 2018 1013](https://fedlex.data.admin.ch/eli/fga/2018/511)).
+[^72zbis-1]
+
+[^72zbis-1]: Introdotto dal n. I 2 della LF del 19 giu. 2020 sul trattamento fiscale delle sanzioni pecuniarie ([RU 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 7575](https://fedlex.data.admin.ch/eli/fga/2016/2055)). Abrogato dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 73
 

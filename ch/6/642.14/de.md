@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 14. Dezember 1990 über die Harmonisierung der direkten
 short: StHG
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256"
 language: de
-version: 2021-07-01
+version: 2022-01-01
 adopted: 1990-12-14
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20210701/de"
 
 (Steuerharmonisierungsgesetz, StHG)**[^t-1]**
 
-vom 14. Dezember 1990 (Stand am 1. Juli 2021)
+vom 14. Dezember 1990 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I 3 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
@@ -113,7 +113,7 @@ Die auf Grund von Artikel 2 Absatz 2 des Gaststaatgesetzes vom 22. Juni 2007[^4a
 
 **Wechsel der Steuerpflicht**[^4b-1]
 
-<sup>1</sup> Bei Wechsel des steuerrechtlichen Wohnsitzes innerhalb der Schweiz besteht die Steuerpflicht aufgrund persönlicher Zugehörigkeit für die laufende Steuerperiode im Kanton, in dem die steuerpflichtige Person am Ende dieser Periode ihren Wohnsitz hat. Kapitalleistungen nach Artikel 11 Absatz 3 sind jedoch in dem Kanton steuerbar, in dem die steuerpflichtige Person im Zeitpunkt der Fälligkeit der Leistung ihren Wohnsitz hat. ...[^4b-2]
+<sup>1</sup> Bei Wechsel des steuerrechtlichen Wohnsitzes innerhalb der Schweiz besteht die Steuerpflicht aufgrund persönlicher Zugehörigkeit für die laufende Steuerperiode im Kanton, in dem die steuerpflichtige Person am Ende dieser Periode ihren Wohnsitz hat. Kapitalleistungen nach Artikel 11 Absatz 3 sind jedoch in dem Kanton steuerbar, in dem die steuerpflichtige Person im Zeitpunkt der Fälligkeit der Leistung ihren Wohnsitz hat. …[^4b-2]
 
 <sup>2</sup> Eine Steuerpflicht aufgrund wirtschaftlicher Zugehörigkeit in einem andern Kanton als demjenigen des steuerrechtlichen Wohnsitzes besteht für die gesamte Steuerperiode, auch wenn sie im Laufe des Jahres begründet, verändert oder aufgehoben wird. In diesem Fall wird der Wert der Vermögensobjekte im Verhältnis zur Dauer der Zugehörigkeit vermindert. Im Übrigen werden das Einkommen und das Vermögen zwischen den beteiligten Kantonen in sinngemässer Anwendung der Grundsätze des Bundesrechts über das Verbot der interkantonalen Doppelbesteuerung ausgeschieden.
 
@@ -209,7 +209,7 @@ Steuerfrei sind nur:
 [^7-1]: Die Änd. gemäss BG vom 20. Juni 2014 über die Weiterbildung, in Kraft seit 1. Jan. 2017, betrifft nur den französischen und den italienischen Text ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^7-2]: Fassung des dritten Satz gemäss Ziff. I 3 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^7-3]: Vierter Satz eingefügt durch Ziff. I 3 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
-[^7-4]: Fassung gemäss Ziff. I 2 des BG vom 27. Sept. 2013 über die steuerliche Behandlung der berufsorientierten Aus- und Weiterbildungskosten, in Kraft seit 1. Jan. 2016 ([AS 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [BBl 2011 2607](https://fedlex.data.admin.ch/eli/fga/2011/381)).
+[^7-4]: Fassung gemäss Ziff. I 2 des BG vom 27. Sept. 2013 über die steuerliche Behan lung der berufsorientierten Aus- und Weiterbildungskosten, in Kraft seit 1. Jan. 2016 ([AS 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [BBl 2011 2607](https://fedlex.data.admin.ch/eli/fga/2011/381)).
 [^7-5]: [SR 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
 [^7-6]: Eingefügt durch Ziff. I 2 des BG vom 10. Okt. 1997 über die Reform der Unternehmensbesteuerung 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [BBl 1997 II 1164](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 [^7-7]: Eingefügt durch Ziff. I 6 des BG vom 19. März 1999 über das Stabilisierungsprogramm 1998, in Kraft seit 1. Jan. 2001 ([AS 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); BBl **1999** 4).
@@ -435,21 +435,38 @@ Als geschäfts- oder berufsmässig begründete Kosten werden namentlich abgezoge
 - c. die eingetretenen und verbuchten Verluste auf dem Geschäftsvermögen;
 - d. die Zuwendungen an Vorsorgeeinrichtungen zugunsten des eigenen Personals, sofern jede zweckwidrige Verwendung ausgeschlossen ist;
 - e.[^10-1] Zinsen auf Geschäftsschulden sowie Zinsen, die auf Beteiligungen nach Artikel 8 Absatz 2 entfallen;
-- f.[^10-2] die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals.
+- f.[^10-2] die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals;
+- g.[^10-3] gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
-<sup>1bis</sup> Nicht abziehbar sind Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts an schweizerische oder fremde Amtsträger.[^10-3]
+<sup>1bis</sup>
 
-<sup>2</sup> Verluste aus den sieben der Steuerperiode (Art. 15) vorangegangenen Geschäftsjahren können abgezogen werden, soweit sie bei der Berechnung des steuerbaren Einkommens dieser Jahre nicht berücksichtigt werden konnten.[^10-4]
+Nicht abziehbar sind insbesondere:
+
+- a. Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts;
+- b. Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
+- c. Bussen und Geldstrafen;
+- d. finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.[^10-4]
+
+<sup>1ter</sup>
+
+Sind Sanktionen nach Absatz 1<sup>bis</sup> Buchstaben c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
+
+- a. die Sanktion gegen den schweizerischen Ordre public verstösst; oder
+- b. die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.[^10-5]
+
+<sup>2</sup> Verluste aus den sieben der Steuerperiode (Art. 15) vorangegangenen Geschäftsjahren können abgezogen werden, soweit sie bei der Berechnung des steuerbaren Einkommens dieser Jahre nicht berücksichtigt werden konnten.[^10-6]
 
 <sup>3</sup> Mit Leistungen Dritter, die zum Ausgleich einer Unterbilanz im Rahmen einer Sanierung erbracht werden, können auch Verluste verrechnet werden, die in früheren Geschäftsjahren entstanden und noch nicht mit Einkommen verrechnet werden konnten.
 
-<sup>4</sup> Die Absätze 2 und 3 gelten auch bei Verlegung des steuerrechtlichen Wohnsitzes oder des Geschäftsortes innerhalb der Schweiz.[^10-5]
+<sup>4</sup> Die Absätze 2 und 3 gelten auch bei Verlegung des steuerrechtlichen Wohnsitzes oder des Geschäftsortes innerhalb der Schweiz.[^10-7]
 
 [^10-1]: Eingefügt durch Ziff. I 6 des BG vom 19. März 1999 über das Stabilisierungsprogramm 1998, in Kraft seit 1. Jan. 2001 ([AS 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); BBl **1999** 4).
 [^10-2]: Eingefügt durch Ziff. I 2 des BG vom 27. Sept. 2013 über die steuerliche Behandlung der berufsorientierten Aus- und Weiterbildungskosten, in Kraft seit 1. Jan. 2016 ([AS 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [BBl 2011 2607](https://fedlex.data.admin.ch/eli/fga/2011/381)).
-[^10-3]: Eingefügt durch Ziff. II des BG vom 22. Dez. 1999 über die Unzulässigkeit steuerlicher Abzüge von Bestechungsgeldern, in Kraft seit 1. Jan. 2001 ([AS 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [BBl 1997 II 1037](https://fedlex.data.admin.ch/eli/fga/1997/2_1037__), IV 1336).
-[^10-4]: Fassung gemäss Ziff. I 2 des BG vom 22. März 2013 über die formelle Bereinigung der zeitlichen Bemessung der direkten Steuern bei den natürlichen Personen, in Kraft seit 1. Jan. 2014 ([AS 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [BBl 2011 3593](https://fedlex.data.admin.ch/eli/fga/2011/525)).
-[^10-5]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2000 zur Koordination und Vereinfachung der Veranlagungsverfahren für die direkten Steuern im interkantonalen Verhältnis, in Kraft seit 1. Jan. 2001 ([AS 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [BBl 2000 3898](https://fedlex.data.admin.ch/eli/fga/2000/823)).
+[^10-3]: Eingefügt durch Ziff. I 2 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^10-4]: Eingefügt durch Ziff. II des BG vom 22. Dez. 1999 über die Unzulässigkeit steuerlicher Abzüge von Bestechungsgeldern ([AS 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [BBl 1997 II 1037](https://fedlex.data.admin.ch/eli/fga/1997/2_1037__), IV 1336). Fassung gemäss Ziff. I 2 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^10-5]: Eingefügt durch Ziff. I 2 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^10-6]: Fassung gemäss Ziff. I 2 des BG vom 22. März 2013 über die formelle Bereinigung der zeitlichen Bemessung der direkten Steuern bei den natürlichen Personen, in Kraft seit 1. Jan. 2014 ([AS 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [BBl 2011 3593](https://fedlex.data.admin.ch/eli/fga/2011/525)).
+[^10-7]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2000 zur Koordination und Vereinfachung der Veranlagungsverfahren für die direkten Steuern im interkantonalen Verhältnis, in Kraft seit 1. Jan. 2001 ([AS 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [BBl 2000 3898](https://fedlex.data.admin.ch/eli/fga/2000/823)).
 
 #### Art. 10a
 
@@ -685,7 +702,7 @@ Von der Steuerpflicht sind nur befreit:
 - i.[^23-3] die kollektiven Kapitalanlagen mit direktem Grundbesitz, sofern deren Anleger ausschliesslich steuerbefreite Einrichtungen der beruflichen Vorsorge nach Buchstabe d oder steuerbefreite inländische Sozialversicherungs- und Ausgleichskassen nach Buchstabe e sind;
 - j.[^23-4] die vom Bund konzessionierten Verkehrs- und Infrastrukturunternehmen, die für diese Tätigkeit Abgeltungen erhalten oder aufgrund ihrer Konzession einen ganzjährigen Betrieb von nationaler Bedeutung aufrecht erhalten müssen; die Steuerbefreiung erstreckt sich auch auf Gewinne aus der konzessionierten Tätigkeit, die frei verfügbar sind; von der Steuerbefreiung ausgenommen sind jedoch Nebenbetriebe und Liegenschaften, die keine notwendige Beziehung zur konzessionierten Tätigkeit haben.
 
-<sup>2</sup> ...[^23-5]
+<sup>2</sup> …[^23-5]
 
 <sup>3</sup> Die Kantone können auf dem Wege der Gesetzgebung für Unternehmen, die neu eröffnet werden und dem wirtschaftlichen Interesse des Kantons dienen, für das Gründungsjahr und die neun folgenden Jahre Steuererleichterungen vorsehen. Eine wesentliche Änderung der betrieblichen Tätigkeit kann einer Neugründung gleichgestellt werden.
 
@@ -840,24 +857,42 @@ Der Bundesrat erlässt weiterführende Bestimmungen, insbesondere:
 
 Zum geschäftsmässig begründeten Aufwand gehören auch:
 
-- a. die eidgenössischen, kantonalen und kommunalen Steuern, nicht aber Steuerbussen;
+- a.[^25-1] die eidgenössischen, kantonalen und kommunalen Steuern;
 - b. die Zuwendungen an Vorsorgeeinrichtungen zugunsten des eigenen Personals, sofern jede zweckwidrige Verwendung ausgeschlossen ist;
-- c.[^25-1] die freiwilligen Leistungen von Geld und übrigen Vermögenswerten bis zu dem nach kantonalem Recht bestimmten Ausmass an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf ihre öffentlichen oder gemeinnützigen Zwecke von der Steuerpflicht befreit sind (Art. 23 Abs. 1 Bst. f), sowie an Bund, Kantone, Gemeinden und deren Anstalten (Art. 23 Abs. 1 Bst. a–c);
+- c.[^25-2] die freiwilligen Leistungen von Geld und übrigen Vermögenswerten bis zu dem nach kantonalem Recht bestimmten Ausmass an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf ihre öffentlichen oder gemeinnützigen Zwecke von der Steuerpflicht befreit sind (Art. 23 Abs. 1 Bst. f), sowie an Bund, Kantone, Gemeinden und deren Anstalten (Art. 23 Abs. 1 Bst. a–c);
 - d. die Rabatte, Skonti, Umsatzbonifikationen und Rückvergütungen auf dem Entgelt für Lieferungen und Leistungen sowie zur Verteilung an die Versicherten bestimmte Überschüsse von Versicherungsgesellschaften;
-- e.[^25-2] die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals.
-- [tab] <sup>1bis</sup> Nicht zum geschäftsmässig begründeten Aufwand gehören Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts an schweizerische oder fremde Amtsträger.[^25-3]
+- e.[^25-3] die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals;
+- f.[^25-4] gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
-<sup>2</sup> Vom Reingewinn der Steuerperiode werden die Verluste aus den sieben der Steuerperiode (Art. 31 Abs. 2) vorangegangenen Geschäftsjahren abgezogen, soweit sie bei der Berechnung des steuerbaren Reingewinns dieser Jahre nicht berücksichtigt werden konnten.[^25-4]
+<sup>1bis</sup>
+
+Nicht zum geschäftsmässig begründeten Aufwand gehören insbesondere:
+
+- a. Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts;
+- b. Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
+- c. Bussen;
+- d. finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.[^25-5]
+
+<sup>1ter</sup> Sind Sanktionen nach Absatz 1<sup>bis</sup> Buchstaben c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
+
+a. die Sanktion gegen den schweizerischen Ordre public verstösst; oder
+
+b. die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.[^25-6]
+
+<sup>2</sup> Vom Reingewinn der Steuerperiode werden die Verluste aus den sieben der Steuerperiode (Art. 31 Abs. 2) vorangegangenen Geschäftsjahren abgezogen, soweit sie bei der Berechnung des steuerbaren Reingewinns dieser Jahre nicht berücksichtigt werden konnten.[^25-7]
 
 <sup>3</sup> Mit Leistungen zum Ausgleich einer Unterbilanz im Rahmen einer Sanierung, die nicht Kapitaleinlagen im Sinne von Artikel 24 Absatz 2 Buchstabe a sind, können auch Verluste verrechnet werden, die in früheren Geschäftsperioden entstanden und noch nicht mit Gewinnen verrechnet werden konnten.
 
-<sup>4</sup> Die Absätze 2 und 3 gelten auch bei Verlegung des Sitzes oder der tatsächlichen Verwaltung innerhalb der Schweiz.[^25-5]
+<sup>4</sup> Die Absätze 2 und 3 gelten auch bei Verlegung des Sitzes oder der tatsächlichen Verwaltung innerhalb der Schweiz.[^25-8]
 
-[^25-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 8. Okt. 2004 (Stiftungsrecht), in Kraft seit 1. Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
-[^25-2]: Eingefügt durch Ziff. I 2 des BG vom 27. Sept. 2013 über die steuerliche Behandlung der berufsorientierten Aus- und Weiterbildungskosten, in Kraft seit 1. Jan. 2016 ([AS 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [BBl 2011 2607](https://fedlex.data.admin.ch/eli/fga/2011/381)).
-[^25-3]: Eingefügt durch Ziff. II des BG vom 22. Dez. 1999 über die Unzulässigkeit steuerlicher Abzüge von Bestechungsgeldern, in Kraft seit 1. Jan. 2001 ([AS 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [BBl 1997 II 1037](https://fedlex.data.admin.ch/eli/fga/1997/2_1037__), IV 1336).
-[^25-4]: Fassung gemäss Ziff. I 2 des BG vom 15. Dez. 2000 zur Koordination und Vereinfachung der Veranlagungsverfahren für die direkten Steuern im interkantonalen Verhältnis, in Kraft seit 1. Jan. 2001 ([AS 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [BBl 2000 3898](https://fedlex.data.admin.ch/eli/fga/2000/823)).
-[^25-5]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2000 zur Koordination und Vereinfachung der Veranlagungsverfahren für die direkten Steuern im interkantonalen Verhältnis, in Kraft seit 1. Jan. 2001 ([AS 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [BBl 2000 3898](https://fedlex.data.admin.ch/eli/fga/2000/823)).
+[^25-1]: Fassung gemäss Ziff. I 2 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^25-2]: Fassung gemäss Anhang Ziff. 4 des BG vom 8. Okt. 2004 (Stiftungsrecht), in Kraft seit 1. Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^25-3]: Eingefügt durch Ziff. I 2 des BG vom 27. Sept. 2013 über die steuerliche Behandlung der berufsorientierten Aus- und Weiterbildungskosten, in Kraft seit 1. Jan. 2016 ([AS 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [BBl 2011 2607](https://fedlex.data.admin.ch/eli/fga/2011/381)).
+[^25-4]: Eingefügt durch Ziff. I 2 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^25-5]: Eingefügt durch Ziff. II des BG vom 22. Dez. 1999 über die Unzulässigkeit steuerlicher Abzüge von Bestechungsgeldern ([AS 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [BBl 1997 II 1037](https://fedlex.data.admin.ch/eli/fga/1997/2_1037__), IV 1336). Fassung gemäss Ziff. I 2 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^25-6]: Eingefügt durch Ziff. I 2 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^25-7]: Fassung gemäss Ziff. I 2 des BG vom 15. Dez. 2000 zur Koordination und Vereinfachung der Veranlagungsverfahren für die direkten Steuern im interkantonalen Verhältnis, in Kraft seit 1. Jan. 2001 ([AS 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [BBl 2000 3898](https://fedlex.data.admin.ch/eli/fga/2000/823)).
+[^25-8]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2000 zur Koordination und Vereinfachung der Veranlagungsverfahren für die direkten Steuern im interkantonalen Verhältnis, in Kraft seit 1. Jan. 2001 ([AS 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [BBl 2000 3898](https://fedlex.data.admin.ch/eli/fga/2000/823)).
 
 #### Art. 25a
 
@@ -972,7 +1007,7 @@ Bei Konzernobergesellschaften von systemrelevanten Banken nach Artikel 7 Absatz 
 - a. Pflichtwandelanleihen und Anleihen mit Forderungsverzicht nach Artikel 11 Absatz 4 BankG; und
 - b. Schuldinstrumente zur Verlusttragung bei Insolvenzmassnahmen im Sinne der Artikel 28–32 BankG.[^28-6]
 
-<sup>2–5</sup> ...[^28-7]
+<sup>2–5</sup> …[^28-7]
 
 <sup>6</sup> Andere Ausnahmen von der ordentlichen Steuerberechnung gemäss Artikel 27 sind nicht zulässig.
 
@@ -997,7 +1032,7 @@ Bei Konzernobergesellschaften von systemrelevanten Banken nach Artikel 7 Absatz 
 Das steuerbare Eigenkapital besteht:
 
 - a. bei Kapitalgesellschaften und Genossenschaften aus dem einbezahlten Grund- oder Stammkapital, den offenen und den aus versteuertem Gewinn gebildeten stillen Reserven;
-- b.[^29-2] ...
+- b.[^29-2] …
 - c. bei Vereinen, Stiftungen und den übrigen juristischen Personen aus dem Reinvermögen, wie es nach den Bestimmungen für die natürlichen Personen berechnet wird.
 
 <sup>3</sup> Die Kantone können für Eigenkapital, das auf Beteiligungsrechte nach Artikel 28 Absatz 1, auf Rechte nach Artikel 24*a* sowie auf Darlehen an Konzerngesellschaften entfällt, eine Steuerermässigung vorsehen.[^29-3]
@@ -1287,10 +1322,9 @@ Für die nachträgliche ordentliche Veranlagung ist zuständig:
 
 <sup>3</sup> Die Behörden des Bundes, der Kantone, Bezirke, Kreise und Gemeinden erteilen den mit dem Vollzug der Steuergesetze betrauten Behörden auf Ersuchen hin alle Auskünfte, die für die Anwendung dieser Gesetze erforderlich sind. Sie können diese Behörden von sich aus darauf aufmerksam machen, wenn sie vermuten, dass eine Veranlagung unvollständig ist.
 
-<sup>4</sup> Die Behörden nach den Absätzen 2 und 3 sind berechtigt, die Versichertennummer der Alters- und Hinterlassenenversicherung gemäss den Bestimmungen des Bundesgesetzes vom 20. Dezember 1946[^39-1] über die Alters- und Hinterlassenenversicherung für die Erfüllung ihrer gesetzlichen Aufgaben systematisch zu verwenden.[^39-2]
+<sup>4</sup> …[^39-1]
 
-[^39-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^39-2]: Eingefügt durch Anhang Ziff. 6 des BG vom 23. Juni 2006 (Neue AHV-Versicherten-nummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^39-1]: Eingefügt durch Anhang Ziff. 6 des BG vom 23. Juni 2006 (Neue AHV-Versicherten-nummer) ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)). Aufgehoben durch Anhang Ziff. 20 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), mit Wirkung seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 39a
 
@@ -1590,7 +1624,7 @@ Zeigt sich eine Person nach Absatz 4 erstmals selbst an, so wird von einer Straf
 
 <sup>2</sup> Werden im Geschäftsbereich einer juristischen Person Teilnahmehandlungen (Anstiftung, Gehilfenschaft, Mitwirkung) an Steuerhinterziehungen Dritter begangen, so ist Artikel 56 Absatz 3 auf die juristische Person anwendbar.
 
-<sup>3</sup> ...[^57-1]
+<sup>3</sup> …[^57-1]
 
 <sup>4</sup> Die steuerpflichtige Person, die in rechtlich und tatsächlich ungetrennter Ehe lebt, wird nur für die Hinterziehung ihrer eigenen Steuerfaktoren gebüsst. Vorbehalten bleibt Artikel 56 Absatz 3. Die Mitunterzeichnung der Steuererklärung stellt für sich allein keine Widerhandlung nach Artikel 56 Absatz 3 dar.[^57-2]
 
@@ -1708,7 +1742,7 @@ Das Strafverfahren und der Strafvollzug richten sich nach kantonalem Recht, sowe
 
 [^61-1]: Fassung des zweiten Satzes gemäss Anhang Ziff. 13 des Bundesgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## Siebter Titel: ...
+## Siebter Titel: …
 
 #### Art. 62–70
 
@@ -1734,33 +1768,26 @@ Das Strafverfahren und der Strafvollzug richten sich nach kantonalem Recht, sowe
 
 **Anpassung der kantonalen Gesetzgebungen**
 
-<sup>1</sup> Die Kantone passen ihre Gesetzgebung innert acht Jahren nach dem Inkrafttreten dieses Gesetzes den Vorschriften der Titel 2–6 an.[^72-1]
+<sup>1</sup> Die Kantone passen ihre Gesetzgebung den Bestimmungen dieses Gesetzes auf den Zeitpunkt von deren Inkrafttreten an. Der Bund nimmt bei der Festlegung des Zeitpunkts der Inkraftsetzung Rücksicht auf die Kantone; er lässt ihnen in der Regel eine Frist von mindestens zwei Jahren für die Anpassung ihrer Gesetzgebung. [^72-1]
 
-<sup>2</sup> Nach Ablauf dieser Frist findet das Bundesrecht direkt Anwendung, wenn ihm das kantonale Steuerrecht widerspricht.
+<sup>2</sup> Nach ihrem Inkrafttreten finden die Bestimmungen dieses Gesetzes direkt Anwendung, wenn ihnen das kantonale Steuerrecht widerspricht. [^72-2]
 
 <sup>3</sup> Die Kantonsregierung erlässt die erforderlichen vorläufigen Vorschriften.
 
-[^72-1]: Fassung gemäss Ziff. I 2 des BG vom 22. März 2013 über die formelle Bereinigung der zeitlichen Bemessung der direkten Steuern bei den natürlichen Personen, in Kraft seit 1. Jan. 2014 ([AS 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [BBl 2011 3593](https://fedlex.data.admin.ch/eli/fga/2011/525)).
+[^72-1]: Fassung gemäss Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^72-2]: Fassung gemäss Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72a
 
-**Anpassung der kantonalen Gesetzgebung an die Änderung**[^72a-1]
+[^72a-1]
 
-<sup>1</sup> Die Kantone passen ihre Gesetzgebung innert fünf Jahren nach Inkrafttreten der Änderung vom 10. Oktober 1997 den geänderten Artikeln 7 Absatz 1<sup>bis</sup>, 24 Absatz 3<sup>bis</sup> und 28 Absätze 1 und 3–5 an.
-
-<sup>2</sup> Nach Ablauf dieser Frist gilt die Regelung nach Artikel 72 Absatz 2.
-
-[^72a-1]: Eingefügt durch Ziff. I 2 des BG vom 10. Okt. 1997 über die Reform der Unternehmensbesteuerung 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [BBl 1997 II 1164](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
+[^72a-1]: Eingefügt durch Ziff. I 2 des BG vom 10. Okt. 1997 über die Reform der Unternehmensbesteuerung 1997 ([AS 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [BBl 1997 II 1164](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72b
 
-**Anpassung der kantonalen Gesetzgebung an die Änderungen**[^72b-1]
+[^72b-1]
 
-<sup>1</sup> Die Kantone passen ihre Gesetzgebung den Änderungen der Artikel 7 Absätze 1<sup>ter</sup>, 2 und 4 Buchstabe d, 8 Absatz 2, 9 Absatz 2 Buchstaben a und b, 10 Absatz 1 Buchstabe e sowie 35 Absatz 1 Buchstabe f auf den Zeitpunkt des Inkrafttretens an.
-
-<sup>2</sup> Nach dem Inkrafttreten der Änderungen gilt Artikel 72 Absatz 2.
-
-[^72b-1]: Eingefügt durch Ziff. I 6 des BG vom 19. März 1999 über das Stabilisierungsprogramm 1998, in Kraft seit 1. Jan. 2001 ([AS 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); BBl **1999** 4).
+[^72b-1]: Eingefügt durch Ziff. I 6 des BG vom 19. März 1999 über das Stabilisierungsprogramm 1998 ([AS 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); BBl **1999** 4). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72c
 
@@ -1770,163 +1797,99 @@ Das Strafverfahren und der Strafvollzug richten sich nach kantonalem Recht, sowe
 
 #### Art. 72d
 
-**Belassen des Bausparabzugs**[^72d-1]
+[^72d-1]
 
-In den vier Jahren nach Ablauf der Frist von Artikel 72 Absatz 1 können die Kantone die in der Steuerperiode 2000 anwendbaren Bestimmungen über den Abzug von Einlagen für den erstmaligen Erwerb von Wohneigentum bei der Einkommenssteuer und über die Befreiung des so angesparten Kapitals und dessen Erträgen von der Einkommens- und Vermögenssteuer beibehalten.
-
-[^72d-1]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2000 zur Koordination und Vereinfachung der Veranlagungsverfahren für die direkten Steuern im interkantonalen Verhältnis, in Kraft seit 1. Jan. 2001 ([AS 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [BBl 2000 3898](https://fedlex.data.admin.ch/eli/fga/2000/823)).
+[^72d-1]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2000 zur Koordination und Vereinfachung der Veranlagungsverfahren für die direkten Steuern im interkantonalen Verhältnis ([AS 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [BBl 2000 3898](https://fedlex.data.admin.ch/eli/fga/2000/823)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72e
 
-**Anpassung der kantonalen Gesetzgebung an die Änderungen**[^72e-1]
+[^72e-1]
 
-<sup>1</sup> Die Kantone passen ihre Gesetzgebung innert dreier Jahre nach Inkrafttreten der Gesetzesänderung vom 3. Oktober 2003[^72e-2] den geänderten Vorschriften des zweiten und des dritten Titels an.
-
-<sup>2</sup> Nach Ablauf dieser Frist gilt die Regelung nach Artikel 72 Absatz 2.
-
-[^72e-1]: Eingefügt durch Anhang Ziff. 8 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
-[^72e-2]: [AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320)Anhang Ziff. 8
+[^72e-1]: Eingefügt durch Anhang Ziff. 8 des Fusionsgesetzes vom 3. Okt. 2003 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72f
 
-**Anpassung der kantonalen Gesetzgebung**[^72f-1]
+[^72f-1]
 
-<sup>1</sup> Die Kantone passen ihre Gesetzgebung den Bestimmungen von Artikel 7*a* auf den Zeitpunkt von dessen Inkrafttreten an.
-
-<sup>2</sup> Ab diesem Zeitpunkt findet Artikel 7*a* direkt Anwendung, wenn ihm das kantonale Steuerrecht widerspricht.
-
-[^72f-1]: Eingefügt durch Ziff. I 2 des BG vom 23. Juni 2006 über dringende Anpassungen bei der Unternehmensbesteuerung, in Kraft seit 1. Jan. 2008 ([AS 2006 4883](https://fedlex.data.admin.ch/eli/oc/2006/760); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^72f-1]: Eingefügt durch Ziff. I 2 des BG vom 23. Juni 2006 über dringende Anpassungen bei der Unternehmensbesteuerung ([AS 2006 4883](https://fedlex.data.admin.ch/eli/oc/2006/760); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72g
 
-**Anpassung der kantonalen Gesetzgebung an die Änderung vom 20. Dezember 2006**[^72g-1]
+[^72g-1]
 
-<sup>1</sup> Die Kantone passen ihre Gesetzgebung innert zwei Jahren nach Inkrafttreten der Änderung vom 20. Dezember 2006 den geänderten Artikeln 53 Absatz 4, 57 Absatz 4 und 57*a* an.
-
-<sup>2</sup> Nach Ablauf dieser Frist finden die Artikel 53 Absatz 4, 57 Absatz 4 und 57*a* direkt Anwendung, wenn ihnen das kantonale Steuerrecht widerspricht.
-
-[^72g-1]: Eingefügt durch Ziff. I 2 des BG vom 20. Dez. 2006 über Änderungen des Nachsteuerverfahrens und des Strafverfahrens wegen Steuerhinterziehung auf dem Gebiet der direkten Steuern, in Kraft seit 1. Jan. 2008 ([AS 2007 2973](https://fedlex.data.admin.ch/eli/oc/2007/400); [BBl 2006 4021](https://fedlex.data.admin.ch/eli/fga/2006/462)[4039](https://fedlex.data.admin.ch/eli/fga/2006/464)).
+[^72g-1]: Eingefügt durch Ziff. I 2 des BG vom 20. Dez. 2006 über Änderungen des Nachsteuerverfahrens und des Strafverfahrens wegen Steuerhinterziehung auf dem Gebiet der direkten Steuern ([AS 2007 2973](https://fedlex.data.admin.ch/eli/oc/2007/400); [BBl 2006 4021](https://fedlex.data.admin.ch/eli/fga/2006/462)[4039](https://fedlex.data.admin.ch/eli/fga/2006/464)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72h
 
-**Anpassung der kantonalen Gesetzgebung an die Änderung vom 23. März 2007**[^72h-1]
+[^72h-1]
 
-<sup>1</sup> Die Kantone passen ihre Gesetzgebung innert zwei Jahren nach Inkrafttreten der Änderung vom 23. März 2007 den geänderten Vorschriften von Artikel 7 Absatz 1 zweiter Satz, 7*b*, 8 Absätze 2<sup>bis</sup>–2<sup>quater</sup> und 4, 9 Absatz 2 Buchstabe a, 11 Absatz 5, 14 Absatz 3, 24 Absatz 4<sup>bis</sup> und 28 Absatz 1 erster Satz an. Diese Anpassungen entfalten ihre Wirkung für alle Kantone zwei Jahre nach Inkrafttreten der Änderung vom 23. März 2007.
-
-<sup>2</sup> Nach Ablauf dieser Fristen finden die in Absatz 1 genannten Bestimmungen direkt Anwendung, wenn ihnen das kantonale Recht widerspricht.
-
-[^72h-1]: Eingefügt durch Ziff. II 3 des Unternehmenssteuerreformgesetzes II vom 23. März 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^72h-1]: Eingefügt durch Ziff. II 3 des Unternehmenssteuerreformgesetzes II vom 23. März 2007 ([AS 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72i
 
-**Anpassung der kantonalen Gesetzgebung an die Änderung vom 20. März 2008**[^72i-1]
+[^72i-1]
 
-<sup>1</sup> Die Kantone passen ihre Gesetzgebung den Änderungen der Artikel 53*a*, 56 Absätze 1, 1<sup>bis</sup>, 1<sup>ter</sup>, 3<sup>bis</sup>, 4 und 5 sowie 57*b* und 59 Absätze 2<sup>bis</sup> und 2<sup>ter</sup> auf den Zeitpunkt des Inkrafttretens an.
-
-<sup>2</sup> Nach dem Inkrafttreten der Änderung vom 20. März 2008 finden die in Absatz 1 genannten Bestimmungen direkt Anwendung, wenn ihnen das kantonale Recht widerspricht.
-
-[^72i-1]: Eingefügt durch Ziff. I 2 des BG vom 20. März 2008 über die Vereinfachung der Nach-besteuerung in Erbfällen und die Einführung der straflosen Selbstanzeige, in Kraft seit 1. Jan. 2010 ([AS 2008 4453](https://fedlex.data.admin.ch/eli/oc/2008/618), [2009 5683](https://fedlex.data.admin.ch/eli/oc/2009/689); [BBl 2006 8795](https://fedlex.data.admin.ch/eli/fga/2006/1131)).
+[^72i-1]: Eingefügt durch Ziff. I 2 des BG vom 20. März 2008 über die Vereinfachung der Nach-besteuerung in Erbfällen und die Einführung der straflosen Selbstanzeige ([AS 2008 4453](https://fedlex.data.admin.ch/eli/oc/2008/618), [2009 5683](https://fedlex.data.admin.ch/eli/oc/2009/689); [BBl 2006 8795](https://fedlex.data.admin.ch/eli/fga/2006/1131)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72j
 
-**Anpassung der kantonalen Gesetzgebung an die Änderung vom 3. Oktober 2008**[^72j-1]
+[^72j-1]
 
-<sup>1</sup> Die Kantone passen ihre Gesetzgebung innert zwei Jahren nach Inkrafttreten der Änderung vom 3. Oktober 2008 den geänderten Vorschriften von Artikel 9 Absatz 3 an. Diese Anpassung entfaltet ihre Wirkung für alle Kantone zwei Jahre nach Inkrafttreten der Änderung vom 3. Oktober 2008.
-
-<sup>2</sup> Nach Ablauf dieser Frist finden die Änderungen von Artikel 9 Absatz 3 direkt Anwendung, wenn ihnen das kantonale Steuerrecht widerspricht.
-
-[^72j-1]: Eingefügt durch Ziff. I 2 des BG vom 3. Okt. 2008 über die steuerliche Behandlung von Instandstellungskosten bei Liegenschaften, in Kraft seit 1. Jan. 2010 ([AS 2009 1515](https://fedlex.data.admin.ch/eli/oc/2009/218); [BBl 2007 7993](https://fedlex.data.admin.ch/eli/fga/2007/1291)[8009](https://fedlex.data.admin.ch/eli/fga/2007/1293)).
+[^72j-1]: Eingefügt durch Ziff. I 2 des BG vom 3. Okt. 2008 über die steuerliche Behandlung von Instandstellungskosten bei Liegenschaften ([AS 2009 1515](https://fedlex.data.admin.ch/eli/oc/2009/218); [BBl 2007 7993](https://fedlex.data.admin.ch/eli/fga/2007/1291)[8009](https://fedlex.data.admin.ch/eli/fga/2007/1293)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72k
 
-**Anpassung der kantonalen Gesetzgebung an die Änderung vom 12. Juni 2009**[^72k-1]
+[^72k-1]
 
-<sup>1</sup> Die Kantone passen ihre Gesetzgebung innert zwei Jahren nach Inkrafttreten der Änderung vom 12. Juni 2009 Artikel 9 Absatz 2 Buchstabe l an.
-
-<sup>2</sup> Nach Ablauf dieser Frist findet Artikel 9 Absatz 2 Buchstabe l direkt Anwendung, wenn ihm das kantonale Steuerrecht widerspricht. Dabei gelten die Beträge nach Artikel 33 Absatz 1 Buchstabe i des Bundesgesetzes vom 14. Dezember 1990[^72k-2] über die direkte Bundessteuer.
-
-[^72k-1]: Eingefügt durch Ziff. I 2 des BG vom 12. Juni 2009 über die steuerliche Abzugsfähigkeit von Zuwendungen an politische Parteien, in Kraft seit 1. Jan. 2011 ([AS 2010 449](https://fedlex.data.admin.ch/eli/oc/2010/58); [BBl 2008 7463](https://fedlex.data.admin.ch/eli/fga/2008/1236)[7485](https://fedlex.data.admin.ch/eli/fga/2008/1238)).
-[^72k-2]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184); [AS 2010 449](https://fedlex.data.admin.ch/eli/oc/2010/58)
+[^72k-1]: Eingefügt durch Ziff. I 2 des BG vom 12. Juni 2009 über die steuerliche Abzugsfähigkeit von Zuwendungen an politische Parteien ([AS 2010 449](https://fedlex.data.admin.ch/eli/oc/2010/58); [BBl 2008 7463](https://fedlex.data.admin.ch/eli/fga/2008/1236)[7485](https://fedlex.data.admin.ch/eli/fga/2008/1238)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72l
 
-**Anpassung der kantonalen Gesetzgebung an die Änderung vom 25. September 2009**[^72l-1]
+[^72l-1]
 
-<sup>1</sup> Die Kantone passen ihre Gesetzgebung innert zwei Jahren nach Inkrafttreten der Änderung vom 25. September 2009 dem geänderten Artikel 9 Absatz 2 Buchstabe m[^72l-2] an.
-
-<sup>2</sup> Nach Ablauf dieser Frist findet Artikel 9 Absatz 2 Buchstabe m[^72l-3] direkt Anwendung, wenn ihm das kantonale Steuerrecht widerspricht.
-
-[^72l-1]: Eingefügt durch Ziff. I 2 des BG vom 25. Sept. 2009 über die steuerliche Entlastung von Familien mit Kindern, in Kraft seit 1. Jan. 2011 ([AS 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [BBl 2009 4729](https://fedlex.data.admin.ch/eli/fga/2009/815)).
-[^72l-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^72l-3]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^72l-1]: Eingefügt durch Ziff. I 2 des BG vom 25. Sept. 2009 über die steuerliche Entlastung von Familien mit Kindern ([AS 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [BBl 2009 4729](https://fedlex.data.admin.ch/eli/fga/2009/815)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72m
 
-**Anpassung der kantonalen Gesetzgebung an die Änderung vom 17. Dezember 2010**[^72m-1]
+[^72m-1]
 
-Die Kantone passen ihre Gesetzgebung auf den Zeitpunkt des Inkrafttretens der Gesetzesänderung vom 17. Dezember 2010 an.
-
-[^72m-1]: Eingefügt durch Ziff. I 2 des BG vom 17. Dez. 2010 über die Besteuerung von Mitarbeiterbeteiligungen, in Kraft seit 1. Jan. 2013 ([AS 2011 3259](https://fedlex.data.admin.ch/eli/oc/2011/427); [BBl 2005 575](https://fedlex.data.admin.ch/eli/fga/2005/88)).
+[^72m-1]: Eingefügt durch Ziff. I 2 des BG vom 17. Dez. 2010 über die Besteuerung von Mitarbeiterbeteiligungen ([AS 2011 3259](https://fedlex.data.admin.ch/eli/oc/2011/427); [BBl 2005 575](https://fedlex.data.admin.ch/eli/fga/2005/88)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72n
 
-**Anpassung der kantonalen Gesetzgebung an die Änderung vom 17. Juni 2011**[^72n-1]
+[^72n-1]
 
-<sup>1</sup> Die Kantone passen ihre Gesetzgebung innert zwei Jahren nach Inkrafttreten der Änderung vom 17. Juni 2011 dem geänderten Artikel 7 Absatz 4 Buchstabe h<sup>bi</sup><sup>s</sup> an.
-
-<sup>2</sup> Nach Ablauf dieser Frist findet Artikel 7 Absatz 4 Buchstabe h<sup>bis</sup> direkt Anwendung, wenn ihm das kantonale Steuerrecht widerspricht.
-
-[^72n-1]: Eingefügt durch Ziff. I 2 des BG vom 27. Juni 2011 über die Steuerbefreiung des Feuerwehrsoldes, in Kraft seit 1. Jan. 2013 ([AS 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [BBl 2010 2855](https://fedlex.data.admin.ch/eli/fga/2010/508)).
+[^72n-1]: Eingefügt durch Ziff. I 2 des BG vom 27. Juni 2011 über die Steuerbefreiung des Feuerwehrsoldes ([AS 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [BBl 2010 2855](https://fedlex.data.admin.ch/eli/fga/2010/508)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72o
 
-**Anpassung der kantonalen Gesetzgebung an die Änderung vom 23. Dezember 2011**[^72o-1]
+[^72o-1]
 
-1 Die Kantone passen ihre Gesetzgebung der Bestimmung von Artikel 42 auf den Zeitpunkt von deren Inkrafttreten an.
-
-2 Ab diesem Zeitpunkt findet Artikel 42 direkt Anwendung, wenn ihm das kantonale Steuerrecht widerspricht.
-
-[^72o-1]: Eingefügt durch Anhang Ziff. 6 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), in Kraft seit 1. Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^72o-1]: Eingefügt durch Anhang Ziff. 6 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht) ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72p
 
-**Anpassung der kantonalen Gesetzgebung an die Änderung vom 15. Juni 2012**[^72p-1]
+[^72p-1]
 
-<sup>1</sup> Die Kantone passen ihre Gesetzgebung innert zwei Jahren nach Inkrafttreten der Änderung vom 15. Juni 2012 den geänderten Artikeln 7 Absatz 4 Buchstabe m und 9 Absatz 2 Buchstabe n an.
-
-<sup>2</sup> Nach Ablauf dieser Frist finden die Artikel 7 Absatz 4 Buchstabe m und 9 Absatz 2 Buchstabe n direkt Anwendung, wenn ihnen das kantonale Steuerrecht widerspricht.
-
-[^72p-1]: Eingefügt durch Ziff. I 2 des BG vom 15. Juni 2012 über die Vereinfachungen bei der Besteuerung von Lotteriegewinnen, in Kraft seit 1. Jan. 2014 ([AS 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [BBl 2011 6517](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6543](https://fedlex.data.admin.ch/eli/fga/2011/1014)).
+[^72p-1]: Eingefügt durch Ziff. I 2 des BG vom 15. Juni 2012 über die Vereinfachungen bei der Besteuerung von Lotteriegewinnen ([AS 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [BBl 2011 6517](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6543](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72q
 
-**Anpassung der kantonalen Gesetzgebung an die Änderung vom 28. September 2012**[^72q-1]
+[^72q-1]
 
-<sup>1</sup> Die Kantone, die die Besteuerung nach dem Aufwand vorsehen, passen ihre Gesetzgebung innert zwei Jahren nach Inkrafttreten der Änderung vom 28. September 2012 dem geänderten Artikel 6 an.
-
-<sup>2</sup> Nach Ablauf dieser Frist findet Artikel 6 für diese Kantone direkt Anwendung, wenn das kantonale Recht ihm widerspricht.
-
-[^72q-1]: Eingefügt durch Ziff. I 2 des BG vom 28. Sept. 2012, in Kraft seit 1. Jan. 2014 ([AS 2013 779](https://fedlex.data.admin.ch/eli/oc/2013/155); [BBl 2011 6021](https://fedlex.data.admin.ch/eli/fga/2011/885)).
+[^72q-1]: Eingefügt durch Ziff. I 2 des BG vom 28. Sept. 2012 ([AS 2013 779](https://fedlex.data.admin.ch/eli/oc/2013/155); [BBl 2011 6021](https://fedlex.data.admin.ch/eli/fga/2011/885)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72r
 
-**Anpassung der kantonalen Gesetzgebung an die Änderung vom 27. September 2013**[^72r-1]
+[^72r-1]
 
-<sup>1</sup> Die Kantone passen ihre Gesetzgebung auf den Zeitpunkt des Inkrafttretens der Änderung vom 27. September 2013 dem geänderten Artikel 9 Absätze 1 und 2 Buchstabe o an.
-
-<sup>2</sup> Ab diesem Zeitpunkt findet Artikel 9 Absätze 1 und 2 Buchstabe o direkt Anwendung, wenn ihm das kantonale Recht widerspricht. In diesem Fall erlässt die Kantonsregierung die erforderlichen vorläufigen Vorschriften.
-
-[^72r-1]: Eingefügt durch Ziff. I 2 des BG vom 27. Sept. 2013 über die steuerliche Behandlung der berufsorientierten Aus- und Weiterbildungskosten, in Kraft seit 1. Jan. 2016 ([AS 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [BBl 2011 2607](https://fedlex.data.admin.ch/eli/fga/2011/381)).
+[^72r-1]: Eingefügt durch Ziff. I 2 des BG vom 27. Sept. 2013 über die steuerliche Behandlung der berufsorientierten Aus- und Weiterbildungskosten ([AS 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [BBl 2011 2607](https://fedlex.data.admin.ch/eli/fga/2011/381)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72s
 
-**Anpassung der kantonalen Gesetzgebung an die Änderung vom 26. September 2014**[^72s-1]
+[^72s-1]
 
-<sup>1</sup> Die Kantone passen ihre Gesetzgebung auf den Zeitpunkt des Inkrafttretens der Änderung vom 26. September 2014 den geänderten Artikeln 57<sup>bis</sup> Absatz 1, 58, 59 Absatz 1 und 60 an.
-
-<sup>2</sup> Nach dem Inkrafttreten der Änderung finden die in Absatz 1 genannten Bestimmungen direkt Anwendung, wenn ihnen das kantonale Steuerrecht widerspricht.
-
-[^72s-1]: Eingefügt durch Ziff. I 2 des BG vom 26. Sept. 2014 (Anpassung an die allgemeinen Bestimmungen des StGB), in Kraft seit 1. Jan. 2017 ([AS 2015 779](https://fedlex.data.admin.ch/eli/oc/2015/143); [BBl 2012 2869](https://fedlex.data.admin.ch/eli/fga/2012/403)).
+[^72s-1]: Eingefügt durch Ziff. I 2 des BG vom 26. Sept. 2014 (Anpassung an die allgemeinen Bestimmungen des StGB) ([AS 2015 779](https://fedlex.data.admin.ch/eli/oc/2015/143); [BBl 2012 2869](https://fedlex.data.admin.ch/eli/fga/2012/403)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72t
 
@@ -1941,33 +1904,21 @@ Die Kantone passen ihre Gesetzgebung auf den Zeitpunkt des Inkrafttretens der Ge
 
 #### Art. 72u
 
-**Anpassung der kantonalen Gesetzgebung an die Änderung vom 30. September 2016**[^72u-1]
+[^72u-1]
 
-<sup>1</sup> Die Kantone passen ihre Gesetzgebung innert zwei Jahren nach Inkrafttreten der Änderung vom 30. September 2016 dem geänderten Artikel 9 Absätze 3 Buchstabe a und 3<sup>bis</sup> an.
-
-<sup>2</sup> Nach Ablauf dieser Frist findet Artikel 9 Absätze 3 Buchstabe a und 3<sup>bis</sup> direkt Anwendung, wenn ihm das kantonale Steuerrecht widerspricht.
-
-[^72u-1]: Eingefügt durch Anhang Ziff. II 4 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^72u-1]: Eingefügt durch Anhang Ziff. II 4 des Energiegesetzes vom 30. Sept. 2016 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72v
 
-**Anpassung der kantonalen Gesetzgebung an die Änderung vom 16. Dezember 2016**[^72v-1]
+[^72v-1]
 
-<sup>1</sup> Die Kantone passen ihre Gesetzgebung den Artikeln 4*b* Absatz 1 dritter Satz, 32, 33, 33*a*, 33*b*, 34, 35 Absatz 1 Einleitungssatz, Buchstabe h und j und Absatz 2, 35*a*, 35*b*, 36 Absatz 2, 36*a,* 37 Absätze 2 und 3, 38, 38*a* sowie 49 Absätze 2, 2<sup>bis</sup>, 2<sup>ter</sup> und 5 auf den Zeitpunkt des Inkrafttretens der Änderung vom 16. Dezember 2016 an.
-
-<sup>2</sup> Ab diesem Zeitpunkt finden die in Absatz 1 genannten Bestimmungen direkt Anwendung, wenn ihnen das kantonale Recht widerspricht.
-
-[^72v-1]: Eingefügt durch Ziff. I 2 des BG vom 16. Dez. 2016, in Kraft seit 1. Jan. 2021 ([AS 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [BBl 2015 657](https://fedlex.data.admin.ch/eli/fga/2015/56)).
+[^72v-1]: Eingefügt durch Ziff. I 2 des BG vom 16. Dez. 2016 ([AS 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [BBl 2015 657](https://fedlex.data.admin.ch/eli/fga/2015/56)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72w
 
-**Anpassung der kantonalen Gesetzgebung an die Änderung vom 17. März 2017**[^72w-1]
+[^72w-1]
 
-<sup>1</sup> Die Kantone passen ihre Gesetzgebung auf den Zeitpunkt des Inkrafttretens der Änderung vom 17. März 2017 den Artikeln 4 Absätze 1 und 2 Buchstabe g sowie 21 Absätze 1 Buchstabe d und 2 Buchstabe b an.
-
-<sup>2</sup> Ab diesem Zeitpunkt finden die Artikel 4 Absätze 1 und 2 Buchstabe g sowie 21 Absätze 1 Buchstabe d und 2 Buchstabe b direkt Anwendung, wenn ihnen das kantonale Steuerrecht widerspricht.
-
-[^72w-1]: Eingefügt durch Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 5039](https://fedlex.data.admin.ch/eli/oc/2017/547); [BBl 2016 5357](https://fedlex.data.admin.ch/eli/fga/2016/1165)).
+[^72w-1]: Eingefügt durch Ziff. I des BG vom 17. März 2017 ([AS 2017 5039](https://fedlex.data.admin.ch/eli/oc/2017/547); [BBl 2016 5357](https://fedlex.data.admin.ch/eli/fga/2016/1165)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72x
 
@@ -1982,27 +1933,21 @@ Die Kantone passen ihre Gesetzgebung auf den Zeitpunkt des Inkrafttretens der Ge
 
 #### Art. 72y
 
-**Anpassung der kantonalen Gesetzgebung an die Änderung vom 28. September 2018**[^72y-1]
+[^72y-1]
 
-<sup>1</sup> Die Kantone passen ihre Gesetzgebung auf den Zeitpunkt der abschliessenden Inkraftsetzung der Änderung vom 28. September 2018 den geänderten Artikeln 7 Absatz 1 dritter und vierter Satz, 7*a* Absatz 1 Buchstabe b, 7*b,* 8 Absatz 2<sup>quinquies</sup>, 8*a*, 10*a*, 14 Absatz 3 zweiter Satz, 24 Absätze 3<sup>bis</sup> erster Satz und 3<sup>quater</sup> zweiter Satz, 24*a*–24*d*, 25*a*, 25*a*<sup>bis</sup>, 25*b*, 28 Absätze 2–5, 29 Absätze 2 Buchstabe b und 3 sowie 78*g* an.[^72y-2]
-
-<sup>2</sup> Ab diesem Zeitpunkt finden die in Absatz 1 genannten Bestimmungen direkt Anwendung, wenn ihnen das kantonale Steuerrecht widerspricht. In diesem Fall erlässt die Kantonsregierung die erforderlichen vorläufigen Vorschriften.[^72y-3]
-
-<sup>3</sup> Die Kantone können ihre Gesetzgebung auf einen früheren Zeitpunkt an Artikel 78*g* Absätze 1 und 2 anpassen.
-
-[^72y-1]: Eingefügt durch Ziff. I 3 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 9. Juli 2019 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^72y-2]: In Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^72y-3]: In Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^72y-1]: Eingefügt durch Ziff. I 3 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72z
 
-**Anpassung der kantonalen Gesetzgebung an die Änderung vom 14. Dezember 2018**[^72z-1]
+[^72z-1]
 
-<sup>1</sup> Die Kantone passen ihre Gesetzgebung dem Artikel 28 Absatz 1quater auf den Zeitpunkt von dessen Inkrafttreten an.
+[^72z-1]: Eingefügt durch Ziff. I 2 des BG vom 14. Dez. 2018 über die Berechnung des Beteiligungsabzugs bei systemrelevanten Banken ([AS 2019 1207](https://fedlex.data.admin.ch/eli/oc/2019/225); [BBl 2018 1263](https://fedlex.data.admin.ch/eli/fga/2018/511)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
-<sup>2</sup> Ab diesem Zeitpunkt findet Artikel 28 Absatz 1quater direkt Anwendung, wenn ihm das kantonale Steuerrecht widerspricht.
+#### Art. 72z<sup>bis</sup>
 
-[^72z-1]: Eingefügt durch Ziff. I 2 des BG vom 14. Dez. 2018 über die Berechnung des Beteiligungsabzugs bei systemrelevanten Banken, in Kraft seit 1. Jan. 2019 ([AS 2019 1207](https://fedlex.data.admin.ch/eli/oc/2019/225); [BBl 2018 1263](https://fedlex.data.admin.ch/eli/fga/2018/511)).
+[^72zbis-1]
+
+[^72zbis-1]: Eingefügt durch Ziff. I 2 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)). Aufgehoben durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 73
 
@@ -2012,7 +1957,7 @@ Die Kantone passen ihre Gesetzgebung auf den Zeitpunkt des Inkrafttretens der Ge
 
 <sup>2</sup> Beschwerdebefugt sind die Steuerpflichtigen, die nach kantonalem Recht zuständige Behörde und die Eidgenössische Steuerverwaltung.
 
-<sup>3</sup> ...[^73-3]
+<sup>3</sup> …[^73-3]
 
 [^73-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
 [^73-2]: Fassung gemäss Ziff. I 3 des Steuererlassgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
@@ -2032,7 +1977,7 @@ Der Bundesrat erlässt die Vollzugsbestimmungen. Er regelt insbesondere die Prob
 
 **Änderung des AHVG**
 
-...[^75-1]
+…[^75-1]
 
 [^75-1]: Die Änderung kann unter [AS 1991 1256](https://fedlex.data.admin.ch/eli/oc/1991/1256_1256_1256)konsultiert werden.
 
