@@ -4,13 +4,13 @@ number: "150.1"
 title: Gesetz über die Verwaltungsrechtspflege
 short: VRG
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-10-15
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-09-09
 adopted: 1991-05-23
 in_force: 1992-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/150.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6853/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7482/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Gesetz über die Verwaltungsrechtspflege (VRG)
 
 (VRG)
 
-vom 23.05.1991 (Fassung in Kraft getreten am 01.01.2021)
+vom 23.05.1991 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -204,6 +204,12 @@ beschliesst:
 <sup>1</sup> Vor dem Kantonsgericht und vor der Enteignungskommission können nur die zur Ausübung des Anwaltsberufes zugelassenen Personen als Vertreter oder Beistand tätig sein.
 
 <sup>2</sup> Die Vertretung und die Verbeiständung in Sozialversicherungs- und Steuersachen richten sich nach Artikel 13.
+
+#### Art. 14a
+
+**Vertretung und Verbeiständung – Zustellungsdomizil**
+
+<sup>1</sup> Parteien, die in einem Verfahren Anträge einreichen, sind verpflichtet, der Behörde die Adresse ihres Wohn- oder Geschäftssitzes mitzuteilen. Wenn sich ihr Wohn- oder Geschäftssitz im Ausland befindet, müssen sie ein Zustellungsdomizil in der Schweiz wählen, es sei denn das internationale Recht oder die zuständige ausländische Behörde bewillige die direkte Zustellung im betreffenden Staat.
 
 ## 2 Verfahren
 
@@ -436,13 +442,15 @@ beschliesst:
 
 **Sprache – Ausnahmen**
 
-<sup>1</sup> Wenn die Umstände es rechtfertigen, insbesondere in einem Verfahren vor einer kantonalen Behörde, kann teilweise oder ganz von den Regeln der Artikel 36 und 37 Abs. 1 abgewichen werden.
+<sup>1</sup> Wenn die Umstände es rechtfertigen, kann teilweise oder ganz von den Regeln der Artikel 36 und 37 Abs. 1 abgewichen werden.
+
+<sup>2</sup> Die Parteien können sich unabhängig von der Verfahrenssprache mündlich und schriftlich in der Amtssprache ihrer Wahl an Behörden, deren Gerichtsbarkeit sich auf das ganze Kantonsgebiet erstreckt, wenden.
 
 #### Art. 39
 
 **Sprache – Übersetzung**
 
-<sup>1</sup> Gewährt die Behörde keine Ausnahme, so weist sie Eingaben einer Partei, die nicht in der Verfahrenssprache abgefasst sind, in der Regel zurück, fordert den Verfasser auf, sich dieser Sprache zu bedienen, und droht ihm an, auf die Eingabe nicht einzutreten, falls er der Aufforderung nicht innert der gesetzten Frist nachkomme.
+<sup>1</sup> Liegt keine Ausnahme im Sinne von Artikel 38 vor, so weist sie Eingaben einer Partei, die nicht in der Verfahrenssprache abgefasst sind, in der Regel zurück, fordert den Verfasser auf, sich dieser Sprache zu bedienen, und droht ihm an, auf die Eingabe nicht einzutreten, falls er der Aufforderung nicht innert der gesetzten Frist nachkomme.
 
 <sup>2</sup> Die Behörde kann von der Partei auch verlangen, eine Übersetzung der Beweisurkunden, die nicht in der Verfahrenssprache abgefasst sind, vorzulegen. Wird die Übersetzung nicht innert der gesetzten Frist eingereicht, so geht die Behörde nach Artikel 49 vor.
 
@@ -1530,7 +1538,7 @@ beschliesst:
 
 <sup>2</sup> Die Entschädigungen, die von den Behörden nach Artikel 2 Abs. 1 Bst. a und von den Verwaltungsjustizbehörden festgesetzt worden sind, werden von dem für die Beziehungen zur richterlichen Gewalt zuständigen Amt[^145b-1] ausgezahlt.
 
-<sup>3</sup> Gelangt der Berechtigte später zu hinreichenden Mitteln oder wird nachgewiesen, dass seine Bedürftigkeit nicht bestand, so kann das Gemeinwesen von ihm die Vergütung seiner Leistungen verlangen. Der Anspruch ist innert zehn Jahren seit Abschluss des Verfahrens geltend zu machen.
+<sup>3</sup> Gelangt der Berechtigte später zu hinreichenden Mitteln oder wird nachgewiesen, dass seine Bedürftigkeit nicht bestand, so kann das Gemeinwesen von ihm die Rückerstattung seiner Leistungen (nicht erhobene Verfahrenskosten, Kosten für Vertretung oder Verbeiständung und allfällige weitere Entschädigungen) verlangen. Der Anspruch ist innert zehn Jahren seit Abschluss des Verfahrens geltend zu machen.
 
 <sup>4</sup> Das für die Beziehungen zur richterlichen Gewalt zuständige Amt entscheidet über die Rückerstattung der Entschädigungen, die von den Behörden nach Artikel 2 Abs. 1 Bst. a und von den Verwaltungsjustizbehörden festgesetzt worden sind. Es erhält zu diesem Zweck eine Kopie aller Entscheide über die Gewährung der unentgeltlichen Rechtspflege und die Festsetzung der Kostenlisten der bezeichneten Rechtsbeistände.
 
@@ -1574,6 +1582,8 @@ beschliesst:
 <sup>1</sup> Gegen die Festsetzung der Höhe der Verfahrenskosten, der Parteientschädigung oder der Entschädigung des zugewiesenen Rechtsbeistands ist die Einsprache an die Behörde, die entschieden hat, zulässig, sofern nur dieser Teil des Entscheides angefochten wird.
 
 <sup>2</sup> Geht der Einspracheentscheid von einer Behörde aus, die nicht als letzte kantonale Instanz entscheidet, so kann er bei der für die Hauptsache zuständigen Beschwerdeinstanz angefochten werden.
+
+<sup>3</sup> Dieser Artikel ist in Sozialversicherungssachen nicht anwendbar.
 
 ## 5 Schlussbestimmungen
 

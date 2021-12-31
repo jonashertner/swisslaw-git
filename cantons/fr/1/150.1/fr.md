@@ -4,13 +4,13 @@ number: "150.1"
 title: Code de procédure et de juridiction administrative
 short: CPJA
 language: fr
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-10-15
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-09-09
 adopted: 1991-05-23
 in_force: 1992-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/150.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6853/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7482/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Code de procédure et de juridiction administrative (CPJA)
 
 (CPJA)
 
-du 23.05.1991 (version entrée en vigueur le 01.01.2021)
+du 23.05.1991 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -204,6 +204,12 @@ Décrète:
 <sup>1</sup> Seules les personnes autorisées à exercer la profession d'avocat peuvent agir comme mandataires dans les affaires portées devant le Tribunal cantonal ou devant la Commission d'expropriation.
 
 <sup>2</sup> Toutefois, en matière d'assurances sociales et en matière fiscale, la représentation et l'assistance sont régies par l'article 13.
+
+#### Art. 14a
+
+**Représentation et assistance – Domicile de notification**
+
+<sup>1</sup> Les parties qui déposent des conclusions dans une procédure sont tenues de communiquer à l'autorité l'adresse de leur domicile ou de leur siège. Si elles sont domiciliées à l'étranger, elles doivent élire un domicile de notification en Suisse, à moins que le droit international ou l'autorité étrangère compétente n'autorise la notification directe dans l'Etat considéré.
 
 ## 2 Procédure
 
@@ -436,13 +442,15 @@ Décrète:
 
 **Langue – Dérogations**
 
-<sup>1</sup> Si les circonstances le justifient, notamment en cas de procédure devant une autorité cantonale, il peut être dérogé, partiellement ou totalement, aux règles énoncées aux articles 36 et 37 al. 1.
+<sup>1</sup> Si les circonstances le justifient, il peut être dérogé, partiellement ou totalement, aux règles énoncées aux articles 36 et 37 al. 1.
+
+<sup>2</sup> Auprès des autorités dont la compétence s'étend à l'ensemble du canton, les parties peuvent s'adresser oralement et par écrit dans la langue officielle de leur choix, quelle que soit la langue de la procédure.
 
 #### Art. 39
 
 **Langue – Traduction**
 
-<sup>1</sup> Dans les cas où elle n'accorde pas une dérogation, l'autorité retourne en principe les écrits d'une partie qui ne sont pas rédigés dans la langue de la procédure, en invitant leur auteur à procéder dans cette langue et en l'avertissant que, s'il ne le fait pas dans le délai fixé, elle n'entrera pas en matière.
+<sup>1</sup> En l'absence de dérogation au sens de l'article 38, l'autorité retourne en principe les écrits d'une partie qui ne sont pas rédigés dans la langue de la procédure, en invitant leur auteur à procéder dans cette langue et en l'avertissant que, s'il ne le fait pas dans le délai fixé, elle n'entrera pas en matière.
 
 <sup>2</sup> L'autorité peut aussi exiger de la partie qu'elle fournisse une traduction des pièces qui servent de moyens de preuve et qui ne sont pas rédigées dans la langue de la procédure. Si la traduction n'est pas fournie dans le délai fixé, l'autorité procède conformément à l'article 49.
 
@@ -1530,7 +1538,7 @@ Décrète:
 
 <sup>2</sup> Les indemnités fixées par les autorités de l'article 2 al. 1 let. a et les autorités de la juridiction administrative sont versées par le service chargé des relations avec le Pouvoir judiciaire[^145b-1].
 
-<sup>3</sup> Si le bénéficiaire revient à meilleure fortune ou s'il est démontré que son état d'indigence n'existait pas, la collectivité publique peut exiger de lui le remboursement de ses prestations. La prétention doit être invoquée dans les dix ans dès la clôture de la procédure.
+<sup>3</sup> Si le bénéficiaire revient à meilleure fortune ou s'il est démontré que son état d'indigence n'existait pas, la collectivité publique peut exiger de lui le remboursement de ses prestations (frais de procédure non perçus, frais de représentation ou d'assistance et éventuelles autres indemnisations). La prétention doit être invoquée dans les dix ans dès la clôture de la procédure.
 
 <sup>4</sup> Le service chargé des relations avec le Pouvoir judiciaire est compétent pour demander le remboursement des indemnités fixées par les autorités de l'article 2 al. 1 let. a et les autorités de la juridiction administrative. Il reçoit à cet effet une copie du dispositif de toutes les décisions d'octroi de l'assistance judiciaire et de fixation des listes de frais des défenseurs désignés.
 
@@ -1574,6 +1582,8 @@ Décrète:
 <sup>1</sup> La fixation du montant des frais de procédure, de l'indemnité de partie ou de l'indemnité allouée au défenseur désigné peut faire l'objet d'une réclamation auprès de l'autorité qui a statué, lorsque seule cette partie de la décision est contestée.
 
 <sup>2</sup> Lorsque la décision sur réclamation émane d'une autorité qui ne statue pas en dernière instance cantonale, elle peut être attaquée auprès de l'autorité de recours compétente sur le fond.
+
+<sup>3</sup> Cet article ne s'applique pas en matière d'assurances sociales.
 
 ## 5 Dispositions finales
 
