@@ -3,18 +3,18 @@ sr: "946.231.148.9"
 title: "Ordonnance du 1<sup>er</sup> novembre 2006 instituant des mesures à l'égard du Liban"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/659"
 language: fr
-version: 2006-11-02
+version: 2022-01-01
 adopted: 2006-11-01
 in_force: 2006-11-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/659/20061102/fr/xml/fedlex-data-admin-ch-eli-cc-2006-659-20061102-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/659/20061102/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/659/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-659-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/659/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’égard du Liban
 
-du 1<sup>er</sup> novembre 2006 (Etat le 2 novembre 2006)
+du 1<sup>er</sup> novembre 2006 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -35,7 +35,7 @@ arrête:
 
 <sup>3</sup>
 
-Le Secrétariat d’Etat à l’économie (SECO) peut, après consultation des offices compétents du Département fédéral des affaires étrangères, autoriser des exceptions aux interdictions prévues aux al. 1 et 2 pour:
+Le Secrétariat d’État à l’économie (SECO) peut, après consultation des offices compétents du Département fédéral des affaires étrangères, autoriser des exceptions aux interdictions prévues aux al. 1 et 2 pour:
 
 - a. la fourniture, la vente et le transit de biens et la fourniture de services autorisés par le Gouvernement libanais ou par la Force intérimaire des Nations Unies au Liban (FINUL);
 - b. les vêtements de protection (p.ex. des gilets pare-balles) temporairement exportés pour le personnel des Nations Unies, de l’Union européenne ou de la Suisse, ou pour les représentants des médias et les agents humanitaires.
@@ -51,7 +51,9 @@ Le Secrétariat d’Etat à l’économie (SECO) peut, après consultation des o
 
 <sup>1</sup> Le SECO surveille l’exécution des mesures de coercition prévues à l’art. 1.
 
-<sup>2</sup> Le contrôle à la frontière incombe à l’Administration fédérale des douanes.
+<sup>2</sup> Le contrôle à la frontière incombe à l’Office fédéral de la douane et de la sécurité des frontières[^2-1].
+
+[^2-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 3
 

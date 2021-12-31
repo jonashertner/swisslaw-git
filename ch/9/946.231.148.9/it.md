@@ -3,20 +3,18 @@ sr: "946.231.148.9"
 title: Ordinanza del 1° novembre 2006 che istituisce misure riguardanti il Libano
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/659"
 language: it
-version: 2006-11-02
+version: 2022-01-01
 adopted: 2006-11-01
 in_force: 2006-11-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/659/20061102/it/xml/fedlex-data-admin-ch-eli-cc-2006-659-20061102-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/659/20061102/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/659/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2006-659-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/659/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce misure riguardanti il Libano
 
-946.231.148.9 (Stato 7 novembre 2006)
-
-del 1° novembre 2006 (Stato 7 novembre 2006)
+del 1° novembre 2006 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -52,7 +50,9 @@ D’intesa con gli uffici competenti del Dipartimento federale degli affari este
 
 <sup>1</sup> La SECO sorveglia l’esecuzione delle misure coercitive di cui all’articolo 1.
 
-<sup>2</sup> Il controllo al confine spetta all’Amministrazione federale delle dogane.
+<sup>2</sup> Il controllo al confine spetta all’Ufficio federale della dogana e della sicurezza dei confini[^2-1].
+
+[^2-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 3
 
@@ -66,4 +66,4 @@ D’intesa con gli uffici competenti del Dipartimento federale degli affari este
 
 **Entrata in vigore**
 
-La presente ordinanza entra in vigore il 2 novembre 2006.
+- [tab] La presente ordinanza entra in vigore il 2 novembre 2006.

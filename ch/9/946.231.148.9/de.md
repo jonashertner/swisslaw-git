@@ -3,18 +3,18 @@ sr: "946.231.148.9"
 title: Verordnung vom 1. November 2006 über Massnahmen betreffend Libanon
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/659"
 language: de
-version: 2006-11-02
+version: 2022-01-01
 adopted: 2006-11-01
 in_force: 2006-11-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/659/20061102/de/xml/fedlex-data-admin-ch-eli-cc-2006-659-20061102-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/659/20061102/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/659/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2006-659-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/659/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen betreffend Libanon
 
-vom 1. November 2006 (Stand am 7. November 2006)
+vom 1. November 2006 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -51,7 +51,9 @@ Das Staatssekretariat für Wirtschaft (SECO) kann nach Rücksprache mit den zust
 
 <sup>1</sup> Das SECO überwacht den Vollzug der Zwangsmassnahmen nach Artikel 1.
 
-<sup>2</sup> Die Kontrolle an der Grenze obliegt der Eidgenössischen Zollverwaltung.
+<sup>2</sup> Die Kontrolle an der Grenze obliegt dem Bundesamt für Zoll und Grenzsicherheit[^2-1].
+
+[^2-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 3
 
