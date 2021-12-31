@@ -4,11 +4,11 @@ title: "Ordinanza dell'11 aprile 2018 sulla registrazione delle malattie tumoral
 short: ORMT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/290"
 language: it
-version: 2021-03-15
+version: 2022-01-01
 adopted: 2018-04-11
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20210315/it/xml/fedlex-data-admin-ch-eli-cc-2018-290-20210315-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20210315/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2018-290-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20210315/it"
 
 (ORMT)
 
-dell’11 aprile 2018 (Stato 15 marzo 2021)
+dell’11 aprile 2018 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -181,7 +181,7 @@ Sono comunicati i seguenti dati:
   sulla persona deceduta:
 
   - 1\. domicilio,
-  - 2\. numero d’assicurato secondo l’articolo 50*c* della legge federale [del 20 dicembre 1946[^10-1] sull’assicurazione per la vecchiaia e per i superstiti](http://intranet.admin.ch/ch/i/rs/831_10/index.html) (numero d’assicurato),
+  - 2\.[^10-1] numero AVS,
   - 3\. sesso,
   - 4\. data di nascita,
   - 5\. data del decesso,
@@ -190,7 +190,7 @@ Sono comunicati i seguenti dati:
 
 - b. dati di contatto del medico che ha constatato il decesso.
 
-[^10-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^10-1]: Nuovo testo giusta l’all. n. II 33 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^10-2]: Il testo della Classificazione può essere visionato gratuitamente presso l’Ufficio federale della sanità pubblica, 3003 Berna, o consultato sui siti Internet www.ufsp.admin.ch &gt; Temi &gt; Persone & salute &gt; Malattie non trasmissibili &gt; Cancro &gt; Registrazione delle malattie tumorali, e www.who.int &gt; Health topics &gt; Classifications of diseases.
 
 #### Art. 11
@@ -216,7 +216,7 @@ Sono comunicati i seguenti dati:
 
   - 1\. cognome e nome,
   - 2\. indirizzo,
-  - 3\. numero d’assicurato,
+  - 3\. numero AVS[^11-1],
   - 4\. sesso,
   - 5\. data di nascita,
   - 6\. data dell’ammissione e della dimissione,
@@ -224,9 +224,10 @@ Sono comunicati i seguenti dati:
 
 - b. denominazione dell’unità organizzativa dell’ospedale.
 
-<sup>4</sup> Per la comunicazione dei dati, gli ospedali utilizzano le stesse fonti di dati che hanno consultato per la statistica medica degli stabilimenti ospedalieri di cui al numero 62 dell’allegato dell’ordinanza del 30 giugno 1993[^11-1] sulle rilevazioni statistiche.
+<sup>4</sup> Per la comunicazione dei dati, gli ospedali utilizzano le stesse fonti di dati che hanno consultato per la statistica medica degli stabilimenti ospedalieri di cui al numero 62 dell’allegato dell’ordinanza del 30 giugno 1993[^11-2] sulle rilevazioni statistiche.
 
-[^11-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^11-1]: Nuovo espr. giusta l’all. n. II 33 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta modifica è tenuto conto in tutto il presente testo.
+[^11-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 
 #### Art. 12
 
@@ -251,7 +252,7 @@ Sono comunicati i seguenti dati:
 
   - 1\. cognome e nome,
   - 2\. indirizzo,
-  - 3\. numero d’assicurato,
+  - 3\. numero AVS,
   - 4\. sesso,
   - 5\. data di nascita,
   - 6\. diagnosi principale e secondaria secondo l’ICD;
@@ -301,14 +302,14 @@ L’opposizione deve contenere i seguenti dati della persona che fa opposizione:
 - a. cognome e nome;
 - b. indirizzo;
 - c. data di nascita;
-- d. numero d’assicurato;
+- d. numero AVS;
 - e. data e firma.
 
 #### Art. 15
 
 **Misure in caso di opposizione**
 
-<sup>1</sup> Il registro che riceve l’opposizione la inserisce, dopo aver verificato il numero d’assicurato (art. 17 cpv. 2 lett. a), nel sistema d’informazione di cui all’articolo 26 mediante il servizio di pseudonimizzazione.
+<sup>1</sup> Il registro che riceve l’opposizione la inserisce, dopo aver verificato il numero AVS (art. 17 cpv. 2 lett. a), nel sistema d’informazione di cui all’articolo 26 mediante il servizio di pseudonimizzazione.
 
 <sup>2</sup> Esso conferma per scritto a chi ha fatto opposizione che quest’ultima è stata registrata e distrugge i dati di cui all’articolo 14 capoverso 2.
 
@@ -339,15 +340,17 @@ In vista di un’analisi statistica, i registri cantonali dei tumori e il regist
 
 **Termine di attesa**
 
-<sup>1</sup> I registri cantonali dei tumori e il registro dei tumori pediatrici possono registrare i dati di un paziente di cui finora non hanno registrato alcun dato, a condizione che il paziente non faccia opposizione entro tre mesi dalla ricezione dell’informazione di cui all’articolo 13 capoverso 1.
+<sup>1</sup> I registri cantonali dei tumori e il registro dei tumori pediatrici possono registrare i dati di un paziente di cui finora non hanno registrato alcun dato, a condizione che il paziente non faccia opposizione entro tre mesi dalla ricezione della prima notifica relativa a una malattia tumorale. [^17-1]
 
 <sup>2</sup>
 
 Fino alla scadenza del termine di attesa, i dati possono essere sottoposti ai seguenti trattamenti:
 
-- a. verifica del numero d’assicurato per mezzo di un confronto con i dati dell’Ufficio centrale di compensazione (UCC);
+- a. verifica del numero AVS per mezzo di un confronto con i dati dell’Ufficio centrale di compensazione (UCC);
 - b. verifica se sono già stati registrati dati;
 - c. in caso di incompetenza, trasmissione dei dati a un altro registro cantonale dei tumori o al registro dei tumori pediatrici.
+
+[^17-1]: Nuovo teso giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 722](https://fedlex.data.admin.ch/eli/oc/2021/722)).
 
 #### Art. 18
 
@@ -357,7 +360,7 @@ Fino alla scadenza del termine di attesa, i dati possono essere sottoposti ai se
 
 I registri cantonali dei tumori e il registro dei tumori pediatrici assicurano la correttezza della registrazione:
 
-- a. verificando il numero d’assicurato per mezzo di un confronto con i dati dell’UCC, secondo le direttive di quest’ultimo;
+- a. verificando il numero AVS per mezzo di un confronto con i dati dell’UCC, secondo le direttive di quest’ultimo;
 - b. consultando il sistema d’informazione di cui all’articolo 26 per escludere una registrazione multipla;
 - c. procedendo, in caso di dubbi sulla competenza, ad accertamenti con altri registri dei tumori o con il registro dei tumori pediatrici;
 - d. verificando prima dell’assegnazione del codice numerico del caso se il paziente ha fatto opposizione.
@@ -380,9 +383,9 @@ I registri cantonali dei tumori e il registro dei tumori pediatrici assicurano l
 
 **Comunicazione da parte dell’UST delle cause del decesso**
 
-<sup>1</sup> I registri cantonali dei tumori e il registro dei tumori pediatrici comunicano ogni anno entro la fine di febbraio all’UST il numero d’assicurato dei pazienti deceduti l’anno precedente.
+<sup>1</sup> I registri cantonali dei tumori e il registro dei tumori pediatrici comunicano ogni anno entro la fine di febbraio all’UST il numero AVS dei pazienti deceduti l’anno precedente.
 
-<sup>2</sup> L’UST comunica ogni anno entro il 31 maggio al registro cantonale dei tumori competente e al registro dei tumori pediatrici il numero d’assicurato e le cause del decesso, incluse diagnosi principale e secondaria, dei pazienti deceduti l’anno precedente. Esso allega alla documentazione il certificato di morte.
+<sup>2</sup> L’UST comunica ogni anno entro il 31 maggio al registro cantonale dei tumori competente e al registro dei tumori pediatrici il numero AVS e le cause del decesso, incluse diagnosi principale e secondaria, dei pazienti deceduti l’anno precedente. Esso allega alla documentazione il certificato di morte.
 
 #### Art. 21
 
@@ -400,13 +403,13 @@ I registri cantonali dei tumori e il registro dei tumori pediatrici assicurano l
 
 Il servizio nazionale di registrazione dei tumori trasmette ogni anno all’UST entro il 31 marzo del secondo anno successivo alla raccolta i dati di base elaborati per le analisi statistiche, unitamente al codice numerico del caso.
 
-## Sezione 6: Pseudonimizzazione del numero d’assicurato
+## Sezione 6: Pseudonimizzazione del numero AVS
 
 #### Art. 23
 
-<sup>1</sup> Per ogni numero d’assicurato è generato sempre lo stesso pseudonimo per mezzo di una procedura di codifica a senso unico.
+<sup>1</sup> Per ogni numero AVS è generato sempre lo stesso pseudonimo per mezzo di una procedura di codifica a senso unico.
 
-<sup>2</sup> Il numero d’assicurato può essere trattato in relazione con il numero d’assicurato pseudonimizzato soltanto dal servizio di pseudonimizzazione.
+<sup>2</sup> Il numero AVS può essere trattato in relazione con il numero AVS pseudonimizzato soltanto dal servizio di pseudonimizzazione.
 
 ## Sezione 7: Servizio nazionale di registrazione dei tumori
 
@@ -530,9 +533,9 @@ Il servizio nazionale di registrazione dei tumori assolve in particolare anche i
 
 <sup>2</sup> Devono essere resi irriconoscibili o cancellati in particolare il nome, l’indirizzo e numeri d’identificazione univoci. La data di nascita e di morte può contenere soltanto il mese e l’anno.
 
-<sup>3</sup> I dati comunicati a terzi secondo gli articoli 23 capoverso 2, 27 e 32 LRMT devono essere precedentemente aggregati.
+<sup>3</sup> e <sup>4</sup> …[^30-1]
 
-<sup>4</sup> I dati aggregati sono considerati anonimizzati se contengono almeno 20 record.
+[^30-1]: Abrogati dal n. I dell’O del 17 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 722](https://fedlex.data.admin.ch/eli/oc/2021/722)).
 
 ## Sezione 9: Promozione della registrazione di altre malattie
 

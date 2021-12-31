@@ -4,11 +4,11 @@ title: "Verordnung vom 11. April 2018 über die Registrierung von Krebserkrankun
 short: KRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/290"
 language: de
-version: 2021-03-15
+version: 2022-01-01
 adopted: 2018-04-11
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20210315/de/xml/fedlex-data-admin-ch-eli-cc-2018-290-20210315-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20210315/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2018-290-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20210315/de"
 
 (Krebsregistrierungsverordnung, KRV)
 
-vom 11. April 2018 (Stand am 15. März 2021)
+vom 11. April 2018 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -181,7 +181,7 @@ Bekanntgegeben werden die folgenden Daten:
   zur verstorbenen Person:
 
   - 1\. Wohnort,
-  - 2\. Versichertennummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^10-1] über die Alters- und Hinterlassenenversicherung (Versichertennummer),
+  - 2\.[^10-1] AHV-Nummer,
   - 3\. Geschlecht,
   - 4\. Geburtsdatum,
   - 5\. Todesdatum,
@@ -190,7 +190,7 @@ Bekanntgegeben werden die folgenden Daten:
 
 - b. Kontaktdaten der Ärztin oder des Arztes, die oder der den Tod festgestellt hat.
 
-[^10-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^10-1]: Fassung gemäss Anhang Ziff. II 33 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^10-2]: Der Text der Klassifizierung kann beim Bundesamt für Gesundheit, 3003 Bern kostenlos eingesehen oder abgerufen werden unter: www.bag.admin.ch &gt; Themen &gt; Mensch & Gesundheit &gt; Nichtübertragbare Krankheiten &gt; Krebs &gt; Krebsregistrierung, sowie unter: www.who.int &gt; Health topics &gt; Classifications of disease.
 
 #### Art. 11
@@ -216,7 +216,7 @@ Bekanntgegeben werden die folgenden Daten:
 
   - 1\. Name und Vorname,
   - 2\. Wohnadresse,
-  - 3\. Versichertennummer,
+  - 3\. AHV-Nummer[^11-1],
   - 4\. Geschlecht,
   - 5\. Geburtsdatum,
   - 6\. Eintritts- und Austrittsdatum,
@@ -224,9 +224,10 @@ Bekanntgegeben werden die folgenden Daten:
 
 - b. Bezeichnung der Organisationseinheit des Spitals.
 
-<sup>4</sup> Die Spitäler verwenden für die Bekanntgabe dieselben Datenquellen, die sie für die medizinische Statistik der Krankenhäuser nach Ziffer 62 des Anhangs der Statistikerhebungsverordnung vom 30. Juni 1993[^11-1] beigezogen haben.
+<sup>4</sup> Die Spitäler verwenden für die Bekanntgabe dieselben Datenquellen, die sie für die medizinische Statistik der Krankenhäuser nach Ziffer 62 des Anhangs der Statistikerhebungsverordnung vom 30. Juni 1993[^11-2] beigezogen haben.
 
-[^11-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^11-1]: Ausdruck gemäss Anhang Ziff. II 33 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^11-2]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 
 #### Art. 12
 
@@ -251,7 +252,7 @@ Bekanntgegeben werden die folgenden Daten:
 
   - 1\. Name und Vorname,
   - 2\. Wohnadresse,
-  - 3\. Versichertennummer,
+  - 3\. AHV-Nummer,
   - 4\. Geschlecht,
   - 5\. Geburtsdatum,
   - 6\. Angabe der Haupt- und Nebendiagnosen nach der ICD;
@@ -301,14 +302,14 @@ Der Widerspruch muss folgende Angaben der widersprechenden Person enthalten:
 - a. Name und Vorname;
 - b. Adresse;
 - c. Geburtsdatum;
-- d. Versichertennummer;
+- d. AHV-Nummer;
 - e. Datum und Unterschrift.
 
 #### Art. 15
 
 **Umsetzung des Widerspruchs**
 
-<sup>1</sup> Das Register, bei dem der Widerspruch eingereicht wurde, trägt diesen nach der Verifikation der Versichertennummer (Art. 17 Abs. 2 Bst. a) über den Pseudonymisierungsdienst im Informationssystem nach Artikel 26 ein.
+<sup>1</sup> Das Register, bei dem der Widerspruch eingereicht wurde, trägt diesen nach der Verifikation der AHV-Nummer (Art. 17 Abs. 2 Bst. a) über den Pseudonymisierungsdienst im Informationssystem nach Artikel 26 ein.
 
 <sup>2</sup> Es bestätigt der Widerspruch erhebenden Person schriftlich, dass der Widerspruch erfasst wurde, und vernichtet die Daten nach Artikel 14 Absatz 2.
 
@@ -339,15 +340,17 @@ Die kantonalen Krebsregister und das Kinderkrebsregister leiten zur statistische
 
 **Karenzfrist**
 
-<sup>1</sup> Die kantonalen Krebsregister und das Kinderkrebsregister können die eingehenden Daten zu einer Patientin oder einem Patienten, von der oder dem sie bisher keine Daten registriert haben, registrieren, sofern die Patientin oder der Patient innerhalb von drei Monaten nach der Information nach Artikel 13 Absatz 1 nicht Widerspruch erhoben hat.
+<sup>1</sup> Die kantonalen Krebsregister und das Kinderkrebsregister können die eingehenden Daten zu einer Patientin oder einem Patienten, von der oder dem sie bisher keine Daten registriert haben, registrieren, sofern die Patientin oder der Patient innerhalb von drei Monaten nach Eingang der ersten Meldung einer Krebserkrankung nicht Widerspruch erhoben hat.[^17-1]
 
 <sup>2</sup>
 
 Bis zum Ablauf der Karenzfrist können folgende Bearbeitungsschritte vorgenommen werden:
 
-- a. Verifikation der Versichertennummer durch einen Abgleich mit den Daten der zentralen Ausgleichsstelle (ZAS);
+- a. Verifikation der AHV-Nummer durch einen Abgleich mit den Daten der zentralen Ausgleichsstelle (ZAS);
 - b. Prüfung, ob bereits Daten registriert worden sind;
 - c. bei Unzuständigkeit: Übermittlung der Daten an ein anderes kantonales Krebsregister oder an das Kinderkrebsregister.
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 722](https://fedlex.data.admin.ch/eli/oc/2021/722)).
 
 #### Art. 18
 
@@ -357,7 +360,7 @@ Bis zum Ablauf der Karenzfrist können folgende Bearbeitungsschritte vorgenommen
 
 Die kantonalen Krebsregister und das Kinderkrebsregister sorgen für die Richtigkeit der Registrierung, indem sie:
 
-- a. durch einen Abgleich mit den Daten der ZAS die Versichertennummer nach den Richtlinien der ZAS verifizieren;
+- a. durch einen Abgleich mit den Daten der ZAS die AHV-Nummer nach den Richtlinien der ZAS verifizieren;
 - b. durch eine Abfrage des Informationssystems nach Artikel 26 eine Mehrfachregistrierung ausschliessen;
 - c. eine zweifelhafte Zuständigkeit mit den anderen Krebsregistern oder mit dem Kinderkrebsregister unverzüglich klären;
 - d. vor der Zuweisung der Fallnummer überprüfen, ob die Patientin oder der Patient Widerspruch erhoben hat.
@@ -380,9 +383,9 @@ Die kantonalen Krebsregister und das Kinderkrebsregister sorgen für die Richtig
 
 **Bekanntgabe der Todesursachen durch das BFS**
 
-<sup>1</sup> Die kantonalen Krebsregister und das Kinderkrebsregister geben dem BFS jeweils bis Ende Februar die Versichertennummern der im Vorjahr verstorbenen Patientinnen und Patienten bekannt.
+<sup>1</sup> Die kantonalen Krebsregister und das Kinderkrebsregister geben dem BFS jeweils bis Ende Februar die AHV-Nummern der im Vorjahr verstorbenen Patientinnen und Patienten bekannt.
 
-<sup>2</sup> Das BFS gibt dem zuständigen kantonalen Krebsregister und dem Kinderkrebsregister jeweils bis 31. Mai die Versichertennummern sowie die Todesursachen, einschliesslich Haupt- und Nebendiagnosen, der im Vorjahr verstorbenen Patientinnen und Patienten bekannt. Es legt die Todesbescheinigung bei.
+<sup>2</sup> Das BFS gibt dem zuständigen kantonalen Krebsregister und dem Kinderkrebsregister jeweils bis 31. Mai die AHV-Nummern sowie die Todesursachen, einschliesslich Haupt- und Nebendiagnosen, der im Vorjahr verstorbenen Patientinnen und Patienten bekannt. Es legt die Todesbescheinigung bei.
 
 #### Art. 21
 
@@ -400,13 +403,13 @@ Die kantonalen Krebsregister und das Kinderkrebsregister sorgen für die Richtig
 
 Die nationale Krebsregistrierungsstelle leitet die für statistische Auswertungen aufbereiteten Basisdaten mit den Fallnummern jeweils bis 31. März des zweiten Jahres nach der Erhebung an das BFS weiter.
 
-## 6. Abschnitt: Pseudonymisierung der Versichertennummer
+## 6. Abschnitt: Pseudonymisierung der AHV-Nummer
 
 #### Art. 23
 
-<sup>1</sup> Für jede Versichertennummer wird mit einer Einwegverschlüsselung stets das gleiche Pseudonym erstellt.
+<sup>1</sup> Für jede AHV-Nummer wird mit einer Einwegverschlüsselung stets das gleiche Pseudonym erstellt.
 
-<sup>2</sup> Die Versichertennummer darf in Verbindung mit der pseudonymisierten Versichertennummer nur vom Pseudonymisierungsdienst bearbeitet werden.
+<sup>2</sup> Die AHV-Nummer darf in Verbindung mit der pseudonymisierten AHV-Nummer nur vom Pseudonymisierungsdienst bearbeitet werden.
 
 ## 7. Abschnitt: Nationale Krebsregistrierungsstelle
 
@@ -473,7 +476,7 @@ Die nationale Krebsregistrierungsstelle betreibt ein Informationssystem, um:
 
 Das Informationssystem enthält folgende Daten:
 
-- a. pseudonymisierte Versichertennummern;
+- a. pseudonymisierte AHV-Nummern;
 - b. Fallnummern;
 - c. Widerspruchstatus.
 
@@ -530,9 +533,9 @@ Die nationale Krebsregistrierungsstelle nimmt insbesondere folgende weitere Aufg
 
 <sup>2</sup> Insbesondere unkenntlich gemacht oder gelöscht werden müssen Name, Wohnadresse und eindeutig kennzeichnende Identifikationsnummern. Das Geburts- und das Todesdatum dürfen nur Monat und Jahr umfassen.
 
-<sup>3</sup> Daten, die nach den Artikeln 23 Absatz 2, 27 und 32 KRG Dritten bekanntgegeben werden, müssen vorgängig aggregiert werden.
+<sup>3</sup> und <sup>4</sup> …[^30-1]
 
-<sup>4</sup> Daten, die aggregiert wurden, gelten als anonymisiert, wenn sie mindestens 20 Datensätze umfassen.
+[^30-1]: Aufgehoben durch Ziff. I der V vom 17. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 722](https://fedlex.data.admin.ch/eli/oc/2021/722)).
 
 ## 9. Abschnitt: Förderung der Registrierung anderer Krankheiten
 

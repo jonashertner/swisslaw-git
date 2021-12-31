@@ -4,11 +4,11 @@ title: "Ordonnance du 11 avril 2018 sur l'enregistrement des maladies oncologiqu
 short: OEMO
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/290"
 language: fr
-version: 2021-03-15
+version: 2022-01-01
 adopted: 2018-04-11
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20210315/fr/xml/fedlex-data-admin-ch-eli-cc-2018-290-20210315-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20210315/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-290-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20210315/fr"
 
 (OEMO)
 
-du 11 avril 2018 (Etat le 15 mars 2021)
+du 11 avril 2018 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -181,7 +181,7 @@ Les données suivantes sont communiquées:
   concernant la personne décédée:
 
   - 1\. le domicile,
-  - 2\. le numéro AVS au sens de l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^10-1] (numéro AVS),
+  - 2\.[^10-1] le numéro AVS,
   - 3\. le sexe,
   - 4\. la date de naissance,
   - 5\. la date du décès,
@@ -190,7 +190,7 @@ Les données suivantes sont communiquées:
 
 - b. les coordonnées du médecin qui a constaté le décès.
 
-[^10-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^10-1]: Nouvelle teneur selon l’annexe ch. II 33 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^10-2]: La classification peut être consultée gratuitement auprès de l’Office fédéral de la santé publique, 3003 Berne, ou téléchargée sur les sites suivants: www.ofsp.admin.ch &gt; Thèmes &gt; Santé humaine &gt; Maladies non transmissibles &gt; Le cancer &gt; Enregistrement du cancer et www.oms.org &gt; Thèmes de santé &gt; Classification.
 
 #### Art. 11
@@ -339,7 +339,7 @@ Les registres cantonaux des tumeurs et le registre du cancer de l’enfant trans
 
 **Délai de carence**
 
-<sup>1</sup> Lorsqu’ils reçoivent pour la première fois des données relatives à un patient, les registres cantonaux des tumeurs et le registre du cancer de l’enfant ne peuvent les enregistrer qu’au terme d’un délai de trois mois à compter de l’information du patient au sens de l’art. 13, al. 1, pour autant que le patient ne fasse pas valoir son droit d’opposition.
+<sup>1</sup> Lorsqu’ils reçoivent pour la première fois des données relatives à un patient, les registres cantonaux des tumeurs et le registre du cancer de l’enfant ne peuvent les enregistrer qu’au terme d’un délai de trois mois à compter de la réception de la première déclaration relative à une maladie oncologique, pour autant que le patient ne fasse pas valoir son droit d’opposition.[^17-1]
 
 <sup>2</sup>
 
@@ -348,6 +348,8 @@ Avant l’échéance du délai visé à l’al. 1, les registres peuvent:
 - a. vérifier le numéro AVS en comparant les données en leur possession avec celles de la Centrale de compensation (CdC);
 - b. examiner si des données concernant ce patient ont déjà été enregistrées;
 - c. transmettre les données à un autre registre cantonal des tumeurs ou au registre du cancer de l’enfant si ce cas ne relève pas de leur compétence.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 722](https://fedlex.data.admin.ch/eli/oc/2021/722)).
 
 #### Art. 18
 
@@ -530,9 +532,9 @@ L’organe national d’enregistrement du cancer assume notamment les autres tâ
 
 <sup>2</sup> Le nom, l’adresse et les numéros d’identification caractéristiques en particulier doivent être rendus méconnaissables ou être détruits. Les dates de naissance et de décès ne doivent contenir que le mois et l’année.
 
-<sup>3</sup> Les données communiquées à des tiers en vertu des art. 23, al. 2, 27 et 32 LEMO doivent être agrégées au préalable.
+<sup>3</sup> et <sup>4</sup> …[^30-1]
 
-<sup>4</sup> Les données agrégées sont réputées anonymisées si elles contiennent au moins 20 fichiers de données.
+[^30-1]: Abrogés par le ch. I de l’O du 17 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 722](https://fedlex.data.admin.ch/eli/oc/2021/722)).
 
 ## Section 9 Promotion de l’enregistrement d’autres maladies
 
