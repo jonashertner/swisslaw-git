@@ -4,13 +4,13 @@ number: "781.1"
 title: Gesetz zur Ausführung der Bundesgesetzgebung über den Strassenverkehr
 short: AGSVG
 language: de
-version: 2020-07-01
-valid_until: 2021-12-31
-version_adopted: 2019-10-16
+version: 2022-01-01
+valid_until: 2022-06-30
+version_adopted: 2021-10-06
 adopted: 1981-11-12
 in_force: 1982-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/781.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6448/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7207/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Strassenverkehr – G
 
 (AGSVG)
 
-vom 12.11.1981 (Fassung in Kraft getreten am 01.07.2020)
+vom 12.11.1981 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -41,7 +41,7 @@ beschliesst:
 
 **Anwendungsbereich**
 
-<sup>1</sup> Dieses Gesetz regelt die Anwendung des Bundesgesetzes vom 19. Dezember 1958 über den Strassenverkehr (SVG) und des Bundesgesetzes vom 24. Juni 1970 über Ordnungsbussen im Strassenverkehr (OBG) sowie deren Ausführungsvorschriften.
+<sup>1</sup> Dieses Gesetz regelt die Anwendung des Bundesgesetzes vom 19. Dezember 1958 über den Strassenverkehr (SVG) und seine Ausführungsvorschriften.
 
 <sup>2</sup> Das Gesetz über die Reklamen, das Gesetz über die Besteuerung der Motorfahrzeuge und Anhänger sowie das Strassengesetz bleiben vorbehalten.
 
@@ -72,7 +72,7 @@ beschliesst:
 
 <sup>2</sup> …
 
-[^3-1]: Heute: Sicherheits- und Justizdirektion.
+[^3-1]: Heute: Sicherheits-, Justiz- und Sportdirektion.
 
 #### Art. 4
 
@@ -101,7 +101,7 @@ beschliesst:
 
 <sup>3</sup> Sie übt zudem alle Aufgaben und Zuständigkeiten aus, die ihr durch die Ausführungsbestimmungen zu diesem Gesetz übertragen werden.
 
-[^5-1]: Heute: Raumplanungs-, Umwelt- und Baudirektion.
+[^5-1]: Heute: Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt.
 
 #### Art. 6
 
@@ -197,7 +197,7 @@ beschliesst:
 
 **Kompetenz im Allgemeinen**
 
-<sup>1</sup> Zuwiderhandlungen werden unter Vorbehalt der nachfolgenden Bestimmungen nach dem Justizgesetz verfolgt und beurteilt.
+<sup>1</sup> Zuwiderhandlungen werden unter Vorbehalt der nachfolgenden Bestimmungen nach dem Justizgesetz verfolgt und beurteilt. Die Ordnungsbussengesetzgebung von Kanton und Bund bleibt vorbehalten.
 
 #### Art. 18
 
@@ -233,41 +233,23 @@ beschliesst:
 
 <sup>2</sup> Die Busse wird vom Oberamtmann nach dem Justizgesetz ausgesprochen.
 
-## 6 Ordnungsbussen
+## 6
 
 #### Art. 23
 
-**Kantonspolizei**
-
-<sup>1</sup> Die Kantonspolizei ist für die Verhängung von Ordnungsbussen im Strassenverkehr gemäss OBG und OBV zuständig.
-
-<sup>2</sup> Wird die Busse nicht sofort oder innert 30 Tagen bezahlt, so wird die Zuwiderhandlung dem Oberamtmann angezeigt; dieser entscheidet nach dem Justizgesetz.
+**…**
 
 #### Art. 24
 
-**Gemeinden – Anweisung der Kompetenz**
-
-<sup>1</sup> Die Zuständigkeit zur Verhängung von Ordnungsbussen an die Strassenbenützer für Zuwiderhandlungen gegen Vorschriften über das Parkieren mit beschränkter Parkzeit (blaue Zonen, Parkometer) wird vom Staatsrat den Gemeinden übertragen, die ein entsprechendes Gesuch einreichen und diese Parkzonen auf eigene Kosten erstellen und unterhalten.
-
-<sup>2</sup> Der Staatsrat kann zeitweise und unter gewissen Bedingungen den Gemeinden die Zuständigkeit zur Verhängung anderer Ordnungsbussen übertragen, sofern sie es verlangen. Er erstellt in jedem Falle die Liste der Bussen, die verhängt werden können.
+**…**
 
 #### Art. 25
 
-**Gemeinden – Verfahren**
-
-<sup>1</sup> Die Ordnungsbusse wird vom Gemeindebeamten eingezogen, der von der Gemeinde hierfür ermächtigt ist.
-
-<sup>2</sup> Wird die Busse nicht sofort oder innert 30 Tagen gezahlt, so wird die Zuwiderhandlung dem Gemeinderat angezeigt.
-
-<sup>3</sup> …
-
-<sup>4</sup> Im Übrigen gilt Artikel 86 des Gesetzes vom 25. September 1980 über die Gemeinden.
+**…**
 
 #### Art. 26
 
-**Gemeinden – Ertrag der Ordnungsbussen**
-
-<sup>1</sup> Der Ertrag der von den Gemeinden eingezogenen Ordnungsbussen verbleibt den Gemeinden.
+**…**
 
 ## 7 Schluss- und Übergangsbestimmungen
 

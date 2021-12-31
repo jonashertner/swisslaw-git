@@ -4,13 +4,13 @@ number: "781.1"
 title: "Loi d'application de la législation fédérale sur la circulation routière"
 short: LALCR
 language: fr
-version: 2020-07-01
-valid_until: 2021-12-31
-version_adopted: 2019-10-16
+version: 2022-01-01
+valid_until: 2022-06-30
+version_adopted: 2021-10-06
 adopted: 1981-11-12
 in_force: 1982-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/781.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6448/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7207/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Circulation routière – L
 
 (LALCR)
 
-du 12.11.1981 (version entrée en vigueur le 01.07.2020)
+du 12.11.1981 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -41,7 +41,7 @@ Décrète:
 
 **Champ d'application**
 
-<sup>1</sup> La présente loi régit l'application de la loi fédérale du 19 décembre 1958 sur la circulation (LCR) et de la loi fédérale du 24 juin 1970 sur les amendes d'ordre (LAO) ainsi que de leurs dispositions d'exécution.
+<sup>1</sup> La présente loi régit l'application de la loi fédérale du 19 décembre 1958 sur la circulation routière (LCR) ainsi que de ses dispositions d'exécution.
 
 <sup>2</sup> La loi sur les réclames, la loi sur l'imposition des véhicules automobiles et des remorques ainsi que la loi sur les routes sont réservées.
 
@@ -72,7 +72,7 @@ Décrète:
 
 <sup>2</sup> …
 
-[^3-1]: Actuellement: Direction de la sécurité et de la justice.
+[^3-1]: Actuellement: Direction de la sécurité, de la justice et du sport.
 
 #### Art. 4
 
@@ -101,7 +101,7 @@ Décrète:
 
 <sup>3</sup> Elle exerce en outre toutes les tâches et compétences qui lui sont attribuées par les dispositions d'exécution de la présente loi.
 
-[^5-1]: Actuellement: Direction de l'aménagement, de l'environnement et des constructions.
+[^5-1]: Actuellement: Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement.
 
 #### Art. 6
 
@@ -197,7 +197,7 @@ Décrète:
 
 **Compétence en général**
 
-<sup>1</sup> La poursuite et le jugement des infractions ont lieu conformément à la loi sur la justice, sous réserve des dispositions qui suivent.
+<sup>1</sup> La poursuite et le jugement des infractions ont lieu conformément à la loi sur la justice, sous réserve des dispositions qui suivent. La législation cantonale et fédérale sur les amendes d'ordre demeure réservée.
 
 #### Art. 18
 
@@ -233,41 +233,23 @@ Décrète:
 
 <sup>2</sup> L'amende est prononcée par le préfet conformément à la loi sur la justice.
 
-## 6 Amendes d'ordre
+## 6
 
 #### Art. 23
 
-**Gendarmerie**
-
-<sup>1</sup> La compétence de percevoir les amendes d'ordre auprès des usagers de la route conformément à la LAO et l'OAO est attribuée à la gendarmerie.
-
-<sup>2</sup> A défaut de paiement immédiat ou dans les trente jours qui suivent, l'infraction est dénoncée au préfet, qui statue conformément à la loi sur la justice.
+**…**
 
 #### Art. 24
 
-**Communes – Délégation de compétence**
-
-<sup>1</sup> La compétence d'infliger les amendes d'ordre aux usagers de la route pour les infractions aux dispositions régissant le stationnement à durée limitée (zones bleues et parcomètres) est déléguée par le Conseil d'Etat aux communes qui en font la demande et qui aménagent et entretiennent ces zones de parcage à leurs frais.
-
-<sup>2</sup> Le Conseil d'Etat peut déléguer, à titre temporaire et à certaines conditions, la compétence d'infliger d'autres amendes d'ordre, aux communes qui en font la demande. Il arrête, dans chaque cas, la liste des amendes qui peuvent être infligées.
+**…**
 
 #### Art. 25
 
-**Communes – Procédure**
-
-<sup>1</sup> L'amende d'ordre est perçue par l'agent communal préposé à cette tâche par la commune.
-
-<sup>2</sup> A défaut de paiement immédiat ou dans les trente jours qui suivent, l'infraction est dénoncée au conseil communal.
-
-<sup>3</sup> …
-
-<sup>4</sup> Pour le surplus, l'article 86 de la loi du 25 septembre 1980 sur les communes est applicable.
+**…**
 
 #### Art. 26
 
-**Communes – Produit de l'amende**
-
-<sup>1</sup> Le produit des amendes d'ordre que les communes encaissent leur est acquis.
+**…**
 
 ## 7 Dispositions finales et transitoires
 
