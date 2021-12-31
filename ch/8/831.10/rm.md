@@ -4,11 +4,11 @@ title: "Lescha federala dals 20 da december 1946 davart l'assicuranza per vegls 
 short: LAVS
 eli: "https://fedlex.data.admin.ch/eli/cc/63/837_843_843"
 language: rm
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1946-12-20
 in_force: 1948-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20210101-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20210101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20220101-rm-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20220101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LAVS)**[^t-1]**
 
-dals 20 da december 1946 (versiun dal 1. da schaner 2021)
+dals 20 da december 1946 (versiun dal 1. da schaner 2022)
 
 [^t-1]: Agiuntà l’abreviaziun tenor la cifra I da la LF dals 24 da zer. 1977 (9. revisiun da la AVS), en vigur dapi il 1. da schan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -282,7 +282,7 @@ Per eruir las entradas or da l’activitad da gudogn independenta vegnan deducid
 [^9-4]: Versiun tenor la cifra I da la LF dals 7 d’oct. 1994 (10. revisiun da la AVS), en vigur dapi il 1. da schan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^9-5]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^9-6]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^9-7]: Versiun tenor la cifra I da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun), en vigur dapi il 1. da schan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)). Guardar la disposiziun transitorica da questa midada a la fin da quest text.
+[^9-7]: Versiun tenor la cifra I da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun), en vigur dapi il 1. da schan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)). Guardar disp. trans. da questa midada a la fin da quest text.
 
 #### Art. 9<sup>bis</sup>
 
@@ -480,10 +480,10 @@ Il Cussegl federal decretescha prescripziuns davart:
 [^18-5]: Versiun tenor la cifra 7 da l’agiunta da la LF dals 6 d’oct. 2000 davart la part generala dal dretg d’assicuranza sociala, en vigur dapi il 1. da schan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^18-6]: Integrà la frasa tras la cifra I da la LF dals 7 d’oct. 1994 (10. revisiun da la AVS), en vigur dapi il 1. da schan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^18-7]: Versiun tenor la cifra I da la LF dals 30 da zer. 1972, en vigur dapi il 1. da schan. 1973 ([AS 1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [BBl 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
-[^18-8]: Guardar er las disposiziuns finalas da la midada dals 7 d’oct. 1994 a la fin da quest text.
+[^18-8]: Guardar er disp. fin. da la midada dals 7 d’oct. 1994 a la fin da quest text.
 [^18-9]: Integrà tras la cifra I da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun), en vigur dapi il 1. da schan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^18-10]: Versiun tenor la cifra I da la LF dals 7 d’oct. 1994 (10. revisiun da la AVS), en vigur dapi il 1. da schan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^18-11]: Guardar er las disposiziuns finalas da la midada dals 7 d’oct. 1994 a la fin da quest text.
+[^18-11]: Guardar er disp. fin. da la midada dals 7 d’oct. 1994 a la fin da quest text.
 
 #### Art. 19
 
@@ -554,7 +554,7 @@ En divergenza da l’artitgel 20 LPGA[^22bis-3] sto la renta supplementara vegni
 <sup>3</sup> Ordinaziuns divergentas da la dretgira civila restan resalvadas en ils cas da l’alinea 2.[^22bis-5]
 
 [^22bis-1]: Integrà tras la cifra I da la LF dals 19 da dec. 1963 ([AS 1964 285](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); [BBl 1963 II 517](https://fedlex.data.admin.ch/eli/fga/1963/2_517_497_1209)). Versiun tenor la cifra I da la LF dals 7 d’oct. 1994 (10. revisiun da la AVS), en vigur dapi il 1. da schan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^22bis-2]: Guardar er las disposiziuns finalas da la midada dals 7 d’oct. 1994 a la fin da quest text.
+[^22bis-2]: Guardar er disp. fin. da la midada dals 7 d’oct. 1994 a la fin da quest text.
 [^22bis-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^22bis-4]: Versiun tenor la cifra 7 da l’agiunta da la LF dals 6 d’oct. 2000 davart la part generala dal dretg d’assicuranza sociala, en vigur dapi il 1. da schan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^22bis-5]: Integrà tras la cifra 7 da l’agiunta da la LF dals 6 d’oct. 2000 davart la part generala dal dretg d’assicuranza sociala, en vigur dapi il 1. da schan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
@@ -601,7 +601,7 @@ Il dretg finescha:
 
 <sup>5</sup> Il dretg recumenza, sche la nova lètg vegn divorziada u declerada per nunvalaivla. Il Cussegl federal regla ils detagls.
 
-[^23-1]: Guardar er las disposiziuns finalas da la midada dals 7 d’oct. 1994 a la fin da quest text.
+[^23-1]: Guardar er disp. fin. da la midada dals 7 d’oct. 1994 a la fin da quest text.
 
 #### Art. 24
 
@@ -611,7 +611,7 @@ Il dretg finescha:
 
 <sup>2</sup> Ultra da las cundiziuns da finiziun menziunadas en l’artitgel 23 alinea 4 finescha il dretg da la renta per vaivs, sche l’ultim uffant dal vaiv ha cumplenì 18 onns.
 
-[^24-1]: Guardar er las disposiziuns finalas da la midada dals 7 d’oct. 1994 a la fin da quest text.
+[^24-1]: Guardar er disp. fin. da la midada dals 7 d’oct. 1994 a la fin da quest text.
 
 #### Art. 24a
 
@@ -627,7 +627,7 @@ Ina persuna divorziada ha il medem status sco ina vaiva u in vaiv, sche:
 
 <sup>2</sup> Sche la persuna divorziada n’ademplescha betg almain ina da las premissas da l’alinea 1, exista il dretg d’ina renta per vaivas u vaivs mo, sche ed uschè ditg che la persuna divorziada ha uffants sut 18 onns.
 
-[^24a-1]: Guardar er las disposiziuns finalas da la midada dals 7 d’oct. 1994 a la fin da quest text.
+[^24a-1]: Guardar er disp. fin. da la midada dals 7 d’oct. 1994 a la fin da quest text.
 
 #### Art. 24b
 
@@ -699,7 +699,7 @@ Las rentas ordinarias vegnan pajadas sco:
 <sup>2</sup> Il Cussegl federal regla l’imputaziun dals mais da contribuziun durant l’onn ch’il dretg da la renta cumenza, da las periodas da contribuziun avant il 1. da schaner suenter che la persuna ha cumplenì 20 onns, sco er dals onns supplementars.[^29bis-2]
 
 [^29bis-1]: Integrà tras la cifra I da la LF dals 7 d’oct. 1994 (10. revisiun da la AVS), en vigur dapi il 1. da schan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^29bis-2]: Guardar er las disposiziuns finalas da la midada dals 7 d’oct. 1994 a la fin da quest text.
+[^29bis-2]: Guardar er disp. fin. da la midada dals 7 d’oct. 1994 a la fin da quest text.
 
 #### Art. 29<sup>ter</sup>
 
@@ -757,7 +757,7 @@ A la divisiun ed a l’imputaziun vicendaivla èn dentant suttamessas mo entrada
 <sup>6</sup> Il Cussegl federal regla la procedura. El fixescha en spezial, tge cassa da cumpensaziun che sto reparter las entradas.[^29quinquies-5]
 
 [^29quinquies-1]: Integrà tras la cifra I da la LF dals 7 d’oct. 1994 (10. revisiun da la AVS), en vigur dapi il 1. da schan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^29quinquies-2]: Guardar er las disposiziuns finalas da la midada dals 7 d’oct. 1994 a la fin da quest text.
+[^29quinquies-2]: Guardar er disp. fin. da la midada dals 7 d’oct. 1994 a la fin da quest text.
 [^29quinquies-3]: Versiun tenor la cifra I da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun), en vigur dapi il 1. da schan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^29quinquies-4]: Versiun tenor la cifra I da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun), en vigur dapi il 1. da schan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^29quinquies-5]: Integrà tras la cifra I da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun), en vigur dapi il 1. da schan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
@@ -861,7 +861,7 @@ Las entradas, per las qualas ils lavurants ston pajar contribuziuns, vegnan regi
 Sch’ina renta da vegliadetgna sto vegnir fixada da nov, perquai ch’il conjugal survegn il dretg da la renta u perquai che la lètg vegn schliada, èn decisivas las prescripziuns da calculaziun che valevan cur che la renta è vegnida calculada per l’emprima giada. La renta fixada da nov sin basa da questas disposiziuns sto vegnir actualisada.
 
 [^31-1]: Versiun tenor la cifra I da la LF dals 7 d’oct. 1994 (10. revisiun da la AVS), en vigur dapi il 1. da schan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^31-2]: Guardar er las disposiziuns finalas da la midada dals 7 d’oct. 1994 a la fin da quest text.
+[^31-2]: Guardar er disp. fin. da la midada dals 7 d’oct. 1994 a la fin da quest text.
 
 #### Art. 32
 
@@ -880,7 +880,7 @@ Sch’ina renta da vegliadetgna sto vegnir fixada da nov, perquai ch’il conjug
 <sup>3</sup> Sch’il defunct n’ha betg anc 45 onns, cur ch’el mora, vegn la media da sias entradas da gudogn augmentada procentualmain per calcular la renta per survivents. Il Cussegl federal fixescha las procentualas tenor la vegliadetgna dal defunct.
 
 [^33-1]: Versiun tenor la cifra I da la LF dals 7 d’oct. 1994 (10. revisiun da la AVS), en vigur dapi il 1. da schan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^33-2]: Guardar er las disposiziuns finalas da la midada dals 7 d’oct. 1994 a la fin da quest text.
+[^33-2]: Guardar er disp. fin. da la midada dals 7 d’oct. 1994 a la fin da quest text.
 
 #### Art. 33<sup>bis</sup>
 
@@ -976,7 +976,7 @@ La summa da las duas rentas dals dus conjugals importa maximalmain 150 pertschie
 Vaivas e vaivs che retiran rentas da vegliadetgna han il dretg d’in supplement da 20 pertschient sin lur renta. La renta ed il supplement na dastgan betg surpassar l’import maximal da la renta da vegliadetgna.
 
 [^35bis-1]: Integrà tras la cifra I da la LF dals 19 da dec. 1963 ([AS 1964 285](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); [BBl 1963 II 517](https://fedlex.data.admin.ch/eli/fga/1963/2_517_497_1209)). Versiun tenor la cifra I da la LF dals 7 d’oct. 1994 (10. revisiun da la AVS), en vigur dapi il 1. da schan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^35bis-2]: Guardar er las disposiziuns finalas da la midada dals 7 d’oct. 1994 a la fin da quest text.
+[^35bis-2]: Guardar disp. fin. da la midada dals 7 d’oct. 1994 a la fin da quest text.
 
 #### Art. 35<sup>ter</sup>
 
@@ -1061,7 +1061,7 @@ Sch’i vegnan ademplidas per il medem uffant tant las premissas per ina renta p
 <sup>3</sup> Il Cussegl federal fixescha la tariffa da reducziun tenor princips tecnics d’assicuranza.[^40-2]
 
 [^40-1]: Abolì tras la cifra I da la LF dals 30 da zer. 1972 ([AS 1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [BBl 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)). Versiun tenor la cifra I da la LF dals 7 d’oct. 1994 (10. revisiun da la AVS), en vigur dapi il 1. da schan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^40-2]: Guardar er las disposiziuns finalas da la midada dals 7 d’oct. 1994 a la fin da quest text.
+[^40-2]: Guardar disp. fin. da la midada dals 7 d’oct. 1994 a la fin da quest text.
 
 ### V. La reducziun da las rentas ordinarias****
 
@@ -1278,9 +1278,10 @@ Ils organs ch’èn incumbensads da realisar, da controllar u da survegliar la r
 - d. far valair il dretg da prender regress sin ina terza persuna responsabla;
 - e. exequir la surveglianza davart la realisaziun da questa lescha;
 - f. far statisticas;
-- g. attribuir u verifitgar il numer d’assicuranza.
+- g.[^49b-2] attribuir u verifitgar il numer da la AVS.
 
 [^49b-1]: Integrà tras la cifra I da la LF dals 23 da zer. 2000 ([AS 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)). Versiun tenor la cifra 1 da l’agiunta da la LF dals 21 da zer. 2019, en vigur dapi il 1. da schan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+[^49b-2]: Versiun tenor la cifra I da la LF dals 18 da dec. 2020 (diever sistematic dal numer da la AVS tras las autoritads), en vigur dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 50
 
@@ -1298,12 +1299,12 @@ Uschenavant che nagins interess privats predominants na s’opponan a quai, dast
 
 - a. ad auters organs ch’èn incumbensads da realisar sco er da controllar u da survegliar la realisaziun da questa lescha, sche las datas èn necessarias per ademplir las incumbensas surdadas ad els tras questa lescha;
 - b. ad organs d’ina autra assicuranza sociala, sch’ina obligaziun da render enconuschentas questas datas resulta tras ina lescha federala en divergenza da l’artitgel 32 alinea 2 LPGA;
-- b<sup>bis</sup>.[^50a-4] ad organs d’ina autra assicuranza sociala ed ad ulteriurs posts u instituziuns che han il dretg d’utilisar il numer d’assicuranza, sche las datas èn necessarias per attribuir u per verifitgar quest numer;
-- b<sup>ter</sup>.[^50a-5] als posts ch’èn incaricads cun la gestiun da la banca da datas centrala per la documentaziun publica dal stadi civil u cun la gestiun dal sistem d’infurmaziun per il sectur da persunas estras e d’asil, sche las datas èn necessarias per attribuir u per verifitgar quest numer;
-- c. als organs da la statistica federala, tenor la Lescha da statistica dals 9 d’october 1992[^50a-6];
-- c<sup>bis</sup>.[^50a-7] als registers chantunals da cancer ed al register da cancer d’uffants, tenor la Lescha federala dals 18 da mars 2016[^50a-8] davart la registraziun da las malsognas da cancer;
+- b<sup>bis</sup>.[^50a-4] ad organs d’ina autra assicuranza sociala ed ad ulteriurs posts u instituziuns che han il dretg d’utilisar il numer da la AVS[^50a-5], sche las datas èn necessarias per attribuir u per verifitgar quest numer;
+- b<sup>ter</sup>.[^50a-6] als posts ch’èn incaricads cun la gestiun da la banca da datas centrala per la documentaziun publica dal stadi civil u cun la gestiun dal sistem d’infurmaziun per il sectur da persunas estras e d’asil, sche las datas èn necessarias per attribuir u per verifitgar quest numer;
+- c. als organs da la statistica federala, tenor la Lescha da statistica dals 9 d’october 1992[^50a-7];
+- c<sup>bis</sup>.[^50a-8] als registers chantunals da cancer ed al register da cancer d’uffants, tenor la Lescha federala dals 18 da mars 2016[^50a-9] davart la registraziun da las malsognas da cancer;
 - d. a las autoritads d’inquisiziun penala, sche la denunzia u l’impediment d’in crim pretenda da communitgar las datas;
-- [tab] d<sup>bis</sup>.[^50a-9] al Servetsch d’infurmaziun da la Confederaziun (SIC) u als organs da segirezza dals chantuns per mauns dal SIC, sch’igl è avant maun ina smanatscha concreta per la segirezza interna u externa tenor l’artitgel 19 alinea 2 da la Lescha federala dals 25 da settember 2015[^50a-10] davart il servetsch d’infurmaziun;
+- [tab] d<sup>bis</sup>.[^50a-10] al Servetsch d’infurmaziun da la Confederaziun (SIC) u als organs da segirezza dals chantuns per mauns dal SIC, sch’igl è avant maun ina smanatscha concreta per la segirezza interna u externa tenor l’artitgel 19 alinea 2 da la Lescha federala dals 25 da settember 2015[^50a-11] davart il servetsch d’infurmaziun;
 - e.
 
   en il cas singul e sin ina dumonda motivada en scrit:
@@ -1311,19 +1312,19 @@ Uschenavant che nagins interess privats predominants na s’opponan a quai, dast
   - 1\. ad autoritads d’agid social, sche las datas èn necessarias per determinar, midar u pretender enavos prestaziuns respectivamain per impedir retratgas betg giustifitgadas,
   - 2\. a dretgiras civilas, sche las datas èn necessarias per giuditgar ina dispita da dretg da famiglia u d’ierta,
   - 3\. a dretgiras penalas ed ad autoritads d’inquisiziun penala, sche las datas èn necessarias per sclerir in crim u in delict,
-  - 4\. ad uffizis da scussiun, tenor ils artitgels 91, 163 e 222 da la Lescha federala dals 11 d’avrigl 1889[^50a-11] davart scussiun e concurs,
+  - 4\. ad uffizis da scussiun, tenor ils artitgels 91, 163 e 222 da la Lescha federala dals 11 d’avrigl 1889[^50a-12] davart scussiun e concurs,
   - 5\. ad autoritads da taglia, sche las datas èn necessarias per applitgar las leschas da taglia,
-  - 6\.[^50a-12] a las autoritads per la protecziun d’uffants e da creschids tenor l’artitgel 448 alinea 4 CCS[^50a-13],
-  - 7\.[^50a-14] ...
-  - 8\.[^50a-15] a las autoritads da migraziun tenor l’artitgel 97 alinea 1 da la Lescha federala dals 16 da december 2005[^50a-16] davart las persunas estras e l’integraziun.[^50a-17]
+  - 6\.[^50a-13] a las autoritads per la protecziun d’uffants e da creschids tenor l’artitgel 448 alinea 4 CCS[^50a-14],
+  - 7\.[^50a-15] ...
+  - 8\.[^50a-16] a las autoritads da migraziun tenor l’artitgel 97 alinea 1 da la Lescha federala dals 16 da december 2005[^50a-17] davart las persunas estras e l’integraziun.[^50a-18]
 
-<sup>2</sup> Las datas ch’èn necessarias per cumbatter la lavur illegala dastgan vegnir communitgadas da las autoritads federalas, chantunalas e communalas pertutgadas sin fundament dals artitgels 11 e 12 da la Lescha federala dals 17 da zercladur 2005[^50a-18] davart la lavur illegala.[^50a-19]
+<sup>2</sup> Las datas ch’èn necessarias per cumbatter la lavur illegala dastgan vegnir communitgadas da las autoritads federalas, chantunalas e communalas pertutgadas sin fundament dals artitgels 11 e 12 da la Lescha federala dals 17 da zercladur 2005[^50a-19] davart la lavur illegala.[^50a-20]
 
-<sup>3</sup> Las datas ch’èn d’in interess general e che sa refereschan a l’applicaziun da questa lescha, dastgan vegnir publitgadas en divergenza da l’artitgel 33 LPGA. L’anonimitad da las persunas assicuradas sto restar garantida.[^50a-20]
+<sup>3</sup> Las datas ch’èn d’in interess general e che sa refereschan a l’applicaziun da questa lescha, dastgan vegnir publitgadas en divergenza da l’artitgel 33 LPGA. L’anonimitad da las persunas assicuradas sto restar garantida.[^50a-21]
 
 <sup>4</sup>
 
-En ils ulteriurs cas dastgan datas vegnir communitgadas a terzas persunas – en divergenza da l’artitgel 33 LPGA – sco suonda:[^50a-21]
+En ils ulteriurs cas dastgan datas vegnir communitgadas a terzas persunas – en divergenza da l’artitgel 33 LPGA – sco suonda:[^50a-22]
 
 - a. datas che na sa refereschan betg a persunas, sche la communicaziun correspunda ad in interess predominant;
 - b. datas persunalas, sche la persuna pertutgada ha dà ses consentiment en scrit en il cas singul u, sch’i n’è betg pussaivel d’obtegnair il consentiment, sch’i dastga vegnir premess tenor las circumstanzas che lur communicaziun saja en l’interess da la persuna assicurada.
@@ -1338,23 +1339,24 @@ En ils ulteriurs cas dastgan datas vegnir communitgadas a terzas persunas – en
 [^50a-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^50a-3]: Versiun tenor la cifra I da la LF dals 23 da zer. 2006 (nov numer d’assicuranza da la AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^50a-4]: Integrà tras la cifra I da la LF dals 23 da zer. 2006 (nov numer d’assicuranza da la AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^50a-5]: Integrà tras la cifra I da la LF dals 23 da zer. 2006 (nov numer d’assicuranza da la AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^50a-6]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^50a-7]: Integrà tras l’art. 36 da la LF dals 18 da mars 2016 davart la registraziun da las malsognas da cancer, en vigur dapi il 1. Jan. 2020 ([AS 2018 2005](https://fedlex.data.admin.ch/eli/oc/2018/289); [BBl 2014 8727](https://fedlex.data.admin.ch/eli/fga/2014/1917)).
-[^50a-8]: [SR 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
-[^50a-9]: Integrà tras la cifra 8 da l’agiunta da la LF dals 23 da dec. 2011 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Versiun tenor la cifra II 14 da l’agiunta da la LF dals 25 da sett. 2015 davart il servetsch d’infurmaziun, en vigur dapi il 1. da sett. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^50a-10]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^50a-11]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^50a-12]: Integrà tras la cifra 26 da l’agiunta da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants), en vigur dapi il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^50a-13]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^50a-14]: Integrà tras la cifra 8 da l’agiunta da la LF dals 23 da dec. 2011 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Abolì tras la cifra II 14 da l’agiunta da la LF dals 25 da sett. 2015 davart il servetsch d’infurmaziun, cun effect dapi il 1. da sett. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^50a-15]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^50a-16]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^50a-17]: Versiun tenor la cifra I da l’O da l’AF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^50a-18]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
-[^50a-19]: Abolì la cifra I da l’O da l’AF dals 21 da zer. 2002 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)). Versiun tenor la cifra 6 da l’agiunta da la Lescha dals 17 da zer. 2005 davart la lavur illegala, en vigur dapi il 1. da schan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
-[^50a-20]: Versiun tenor la cifra I da l’O da l’AF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^50a-5]: Expressiun tenor la cifra I da la LF dals 18 da dec. 2020 (diever sistematic dal numer da la AVS tras las autoritads), en vigur dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Questa midada è vegnida fatga en las disposiziuns numnadas en la AS.
+[^50a-6]: Integrà tras la cifra I da la LF dals 23 da zer. 2006 (nov numer d’assicuranza da la AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^50a-7]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^50a-8]: Integrà tras l’art. 36 da la LF dals 18 da mars 2016 davart la registraziun da las malsognas da cancer, en vigur dapi il 1. Jan. 2020 ([AS 2018 2005](https://fedlex.data.admin.ch/eli/oc/2018/289); [BBl 2014 8727](https://fedlex.data.admin.ch/eli/fga/2014/1917)).
+[^50a-9]: [SR 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
+[^50a-10]: Integrà tras la cifra 8 da l’agiunta da la LF dals 23 da dec. 2011 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Versiun tenor la cifra II 14 da l’agiunta da la LF dals 25 da sett. 2015 davart il servetsch d’infurmaziun, en vigur dapi il 1. da sett. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^50a-11]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^50a-12]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^50a-13]: Integrà tras la cifra 26 da l’agiunta da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants), en vigur dapi il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^50a-14]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^50a-15]: Integrà tras la cifra 8 da l’agiunta da la LF dals 23 da dec. 2011 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Abolì tras la cifra II 14 da l’agiunta da la LF dals 25 da sett. 2015 davart il servetsch d’infurmaziun, cun effect dapi il 1. da sett. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^50a-16]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^50a-17]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^50a-18]: Versiun tenor la cifra I da l’O da l’AF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^50a-19]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^50a-20]: Abolì la cifra I da l’O da l’AF dals 21 da zer. 2002 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)). Versiun tenor la cifra 6 da l’agiunta da la Lescha dals 17 da zer. 2005 davart la lavur illegala, en vigur dapi il 1. da schan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
 [^50a-21]: Versiun tenor la cifra I da l’O da l’AF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^50a-22]: Versiun tenor la cifra I da l’O da l’AF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 
 #### Art. 50b
 
@@ -1381,87 +1383,34 @@ Il register central da las persunas assicuradas sco er il register central da la
 
 #### Art. 50c
 
-**Numer d’assicuranza**[^50c-1]
+**Numer da la AVS**[^50c-1]
 
 <sup>1</sup>
 
-In numer d’assicuranza vegn attribuì a mintga persuna che:
+In numer da la AVS vegn attribuì a mintga persuna che:
 
 - a. ha ses domicil u sia dimora ordinaria (art. 13 LPGA[^50c-2]) en Svizra;
 - b. abita a l’exteriur e retira u dumonda contribuziuns u prestaziuns.
 
 <sup>2</sup>
 
-In numer d’assicuranza vegn ultra da quai attribuì ad ina persuna, sche quai è necessari:
+In numer da la AVS vegn ultra da quai attribuì ad ina persuna, sche quai è necessari:[^50c-3]
 
 - a. per realisar la AVS; u
-- b. per il contact cun in post u cun ina instituziun che ha il dretg d’utilisar sistematicamain il numer.
+- b.[^50c-4] per il contact cun in post u cun ina instituziun che ha il dretg d’utilisar sistematicamain il numer ordaifer la AVS.
 
-<sup>3</sup> La cumposiziun dal numer d’assicuranza na dastga betg pussibilitar da trair conclusiuns a la persuna, a la quala il numer vegn attribuì.
+<sup>3</sup> La cumposiziun dal numer da la AVS na dastga betg pussibilitar da trair conclusiuns a la persuna, a la quala il numer vegn attribuì.
 
 [^50c-1]: Integrà tras la cifra I da la LF dals 23 da zer. 2006 (nov numer d’assicuranza da la AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^50c-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^50c-3]: Versiun tenor la cifra I da la LF dals 18 da dec. 2020 (diever sistematic dal numer da la AVS tras las autoritads), en vigur dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^50c-4]: Versiun tenor la cifra I da la LF dals 18 da dec. 2020 (diever sistematic dal numer da la AVS tras las autoritads), en vigur dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
-#### Art. 50d
+#### Art. 50d–50g
 
-**Utilisaziun sistematica dal numer d’assicuranza sco numer d’assicuranza sociala**[^50d-1]
+[^50d50g-1]
 
-<sup>1</sup> Posts ed instituziuns ch’èn incaricads cun incumbensas da l’assicuranza sociala ordaifer la AVS, pon utilisar sistematicamain il numer d’assicuranza, sch’ina lescha federala prevesa quai e sche l’intent da l’utilisaziun sco er ils utilisaders legitimads èn definids.
-
-<sup>2</sup> Posts ed instituziuns che adempleschan incumbensas da l’assicuranza sociala chantunala, pon utilisar sistematicamain il numer d’assicuranza per ademplir lur incumbensas legalas.
-
-[^50d-1]: Integrà tras la cifra I da la LF dals 23 da zer. 2006 (nov numer d’assicuranza da la AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-
-#### Art. 50e
-
-**Utilisaziun sistematica dal numer d’assicuranza en ulteriurs secturs**[^50e-1]
-
-<sup>1</sup> Il numer d’assicuranza po vegnir utilisà sistematicamain ordaifer l’assicuranza sociala da la Confederaziun mo, sch’ina lescha federala prevesa quai e sche l’intent da l’utilisaziun sco er ils utilisaders legitimads èn definids.
-
-<sup>2</sup>
-
-Ils suandants posts e las suandantas instituziuns ch’èn incaricads cun l’execuziun dal dretg chantunal, pon utilisar sistematicamain il numer d’assicuranza per ademplir lur incumbensas legalas:
-
-- a. ils posts incaricads cun l’execuziun da la reducziun da las premias en l’assicuranza da malsauns;
-- b. ils posts incaricads cun l’execuziun da l’agid social;
-- c. ils posts incaricads cun l’execuziun da la legislaziun fiscala;
-- d. las instituziuns da furmaziun.
-
-<sup>3</sup> Auters posts ed autras instituziuns ch’èn incaricads cun l’execuziun dal dretg chantunal, pon utilisar sistematicamain il numer d’assicuranza per ademplir lur incumbensas, sch’ina lescha chantunala prevesa quai.
-
-[^50e-1]: Integrà tras la cifra I da la LF dals 23 da zer. 2006 (nov numer d’assicuranza da la AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-
-#### Art. 50f
-
-**Communicaziun dal numer d’assicuranza tar l’execuziun dal dretg chantunal**[^50f-1]
-
-Posts ed instituziuns che utiliseschan sistematicamain il numer d’assicuranza tenor l’artitgel 50*d* alinea 2 u tenor l’artitgel 50*e* alineas 2 e 3, pon communitgar quel, sche nagins interess da la persuna pertutgada evidentamain degns da vegnir protegids na s’opponan a quai e sche:
-
-- a. la communicaziun da las datas è necessaria per ademplir las incumbensas, en spezial per verifitgar il numer;
-- b. la communicaziun da las datas è – en il cas singul – indispensabla per il retschavider per ademplir las incumbensas legalas; u
-- c. la persuna pertutgada ha – en il cas singul – dà ses consentiment, u ses consentiment dastga vegnir presumà tenor las circumstanzas.
-
-[^50f-1]: Integrà tras la cifra I da la LF dals 23 da zer. 2006 (nov numer d’assicuranza da la AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-
-#### Art. 50g
-
-**Mesiras da segirezza**[^50g-1]
-
-<sup>1</sup> Posts ed instituziuns che utiliseschan sistematicamain il numer d’assicuranza tenor l’artitgel 50*d* u 50*e*, annunzian quai al post ch’è cumpetent per l’attribuziun dal numer d’assicuranza. Quel maina ina glista dals posts e da las instituziuns che utiliseschan sistematicamain il numer d’assicuranza. La glista vegn publitgada mintga onn.
-
-<sup>2</sup>
-
-Ils posts e las instituziuns annunziadas ston:
-
-- a. prender mesiras tecnicas ed organisatoricas per l’utilisaziun dal dretg numer d’assicuranza e per la protecziun cunter in’utilisaziun abusiva dal numer;
-- b. metter a disposiziun al post ch’è cumpetent per l’attribuziun dal numer d’assicuranza las datas ch’èn necessarias per verifitgar il numer d’assicuranza;
-- c. far las correcturas vi dal numer d’assicuranza, che vegnan ordinadas dal post ch’è cumpetent per l’attribuziun dal numer d’assicuranza.
-
-<sup>3</sup> En enclegientscha cun il Departament federal da finanzas fixescha il Departament federal da l’intern ils standards minimals per las mesiras tenor l’alinea 2 litera a.
-
-<sup>4</sup> Il post ch’è cumpetent per l’attribuziun dal numer d’assicuranza po incassar taxas per sia lavur che resulta en connex cun l’utilisaziun dal numer d’assicuranza ordaifer la AVS.
-
-[^50g-1]: Integrà tras la cifra I da la LF dals 23 da zer. 2006 (nov numer d’assicuranza da la AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^50d50g-1]: Integrà tras la cifra I da la LF dals 23 da zer. 2006 (nov numer d’assicuranza da la AVS) ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)). Abolì tras la cifra I da la LF dals 18 da dec. 2020 (diever sistematic dal numer da la AVS tras las autoritads), cun effect dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 ### B. Ils patruns
 
@@ -1479,7 +1428,7 @@ Ils posts e las instituziuns annunziadas ston:
 
 [^51-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1968, en vigur dapi il 1. da schan. 1969 ([AS 1969 111](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [BBl 1968 I 602](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
 [^51-2]: Abolì tras la cifra I da la LF dals 7 d’oct. 1994 (10. revisiun da la AVS), cun effect dapi il 1. da schan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^51-3]: Guardar er las disposiziuns finalas da la midada dals 7 d’oct. 1994 a la fin da quest text.
+[^51-3]: Guardar disp. fin. da la midada dals 7 d’oct. 1994 a la fin da quest text.
 [^51-4]: Versiun tenor la cifra I da la LF dals 30 da zer. 1972, en vigur dapi il 1. da schan. 1973 ([AS 1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [BBl 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
 
 #### Art. 52
@@ -1840,7 +1789,7 @@ La pretensiun d’indemnisaziun finescha:
 
 L’Uffizi central da cumpensaziun maina:
 
-- a. in register central da las persunas assicuradas, che cuntegna ils numers d’assicuranza attribuids a las persunas assicuradas, ils numers d’assicuranza esters necessaris per realisar cunvegnas internaziunalas d’assicuranza sociala sco er las cassas da cumpensaziun che mainan in conto individual per ina persuna assicurada;
+- a. in register central da las persunas assicuradas, che cuntegna ils numers da la AVS attribuids a las persunas assicuradas, ils numers d’assicuranza esters necessaris per realisar cunvegnas internaziunalas d’assicuranza sociala sco er las cassas da cumpensaziun che mainan in conto individual per ina persuna assicurada;
 - b. in register central da las prestaziuns currentas, inclusiv las indicaziuns davart la concessiun da rentas estras, che cuntegna las prestaziuns en daners e che serva ad evitar pajaments nungiustifitgads, a facilitar l’adattaziun da las prestaziuns ed ad annunziar mortoris a las cassas da cumpensaziun.[^71-3]
 
 <sup>5</sup> L’Uffizi central da cumpensaziun procura ch’i vegnian resguardads tut ils contos individuals da la persuna assicurada il mument ch’il dretg da sia renta cumenza.[^71-4]
@@ -1963,7 +1912,7 @@ tgi che violescha sia obligaziun d’annunzia (art. 31 al. 1 LPGA[^87-3]),[^87-4
 
 tgi che violescha sco revisur u sco assistent dal revisur en moda gravanta las obligaziuns ch’el sto observar cun far ina revisiun respectivamain ina controlla u cun rediger ubain cun conceder il rapport da revisiun respectivamain da controlla,
 
-tgi che dovra sistematicamain il numer d’assicuranza, senza avair l’autorisaziun per quai,[^87-5]
+…[^87-5]
 
 vegn chastià cun in chasti pecuniar fin a 180 taxas per di, nun ch’i sa tractia d’in crim u d’in delict tenor il Cudesch penal[^87-6] che vegn chastià cun in chasti pli grev.[^87-7]
 
@@ -1971,7 +1920,7 @@ vegn chastià cun in chasti pecuniar fin a 180 taxas per di, nun ch’i sa tract
 [^87-2]: Versiun tenor la cifra I da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun), en vigur dapi il 1. da schan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^87-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^87-4]: Integrà tras la cifra 3 da l’agiunta da la LF dals 6 d’oct. 2006 (5. revisiun da la AI), en vigur dapi il 1. da schan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^87-5]: Integrà tras la cifra I da la LF dals 23 da zer. 2006 (nov numer d’assicuranza da la AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^87-5]: Integrà tras la cifra I da la LF dals 23 da zer. 2006 (nov numer d’assicuranza da la AVS) ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)). Abolì tras la cifra I da la LF dals 18 da dec. 2020 (diever sistematic dal numer da la AVS tras las autoritads), cun effect dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 [^87-6]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^87-7]: Versiun tenor la cifra I da la LF dals 23 da zer. 2006 (nov numer d’assicuranza da la AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 
@@ -1985,21 +1934,19 @@ tgi che s’oppona ad ina controlla ordinada dal post cumpetent u impedescha ina
 
 tgi che n’emplenescha betg ils formulars prescrits u als emplenescha en ina moda che na correspunda betg a la vardad,
 
-tgi che na prenda naginas mesiras en il senn da l’artitgel 50*g* alinea 2 litera a, sch’el dovra sistematicamain il numer d’assicuranza,[^88-2]
+...[^88-2]
 
 vegn chastià cun multa, nun ch’i saja ademplì in causal tenor l’artitgel 87.[^88-3]
 
 [^88-1]: Versiun tenor la cifra I da la LF dals 7 d’oct. 1994 (10. revisiun da la AVS), en vigur dapi il 1. da schan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^88-2]: Versiun tenor la cifra I da la LF dals 23 da zer. 2006 (nov numer d’assicuranza da la AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^88-2]: Abolì tras la cifra I da la LF dals 18 da dec. 2020 (diever sistematic dal numer da la AVS tras las autoritads), cun effect dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 [^88-3]: Versiun tenor la cifra I da la LF dals 23 da zer. 2006 (nov numer d’assicuranza da la AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 
 #### Art. 89
 
-**Cuntravenziuns commessas en interpresas**
+[^89-1]
 
-<sup>1</sup> Sche la cuntravenziun vegn commessa en l’interpresa d’ina persuna giuridica, d’ina societad da persunas u d’ina firma singula, vegnan las disposiziuns penalas tenor ils artitgels 87 ed 88 applitgadas per las persunas che han agì u che avessan stuì agir en lur num; per regla sto la persuna giuridica, la societad da persunas u il possessur da la firma singula star bun solidaricamain per la multa e per ils custs.
-
-<sup>2</sup> L’alinea 1 vegn er applitgà per cuntravenziuns ch’èn vegnidas commessas en l’interpresa d’ina corporaziun u d’in institut dal dretg public.
+[^89-1]: Abolì tras la cifra I da la LF dals 18 da dec. 2020 (diever sistematic dal numer da la AVS tras las autoritads), cun effect dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 90
 
@@ -2047,7 +1994,7 @@ L’Uffizi central da cumpensaziun cumpareglia las retratgas da diarias da l’a
 
 **Annunzia al Secretariat da stadi per migraziun**[^93bis-1]
 
-<sup>1</sup> L’Uffizi central da cumpensaziun cumpareglia periodicamain ils numers d’assicuranza che al vegnan transferids dal Secretariat da stadi per migraziun (SEM) per persunas dal sectur d’asil e d’esters, per las qualas ils chantuns survegnan indemnisaziuns pauschalas, cun las endataziuns en ils contos individuals che al vegnan annunziadas da las cassas da cumpensaziun.
+<sup>1</sup> L’Uffizi central da cumpensaziun cumpareglia periodicamain ils numers da la AVS che al vegnan transferids dal Secretariat da stadi per migraziun (SEM) per persunas dal sectur d’asil e d’esters, per las qualas ils chantuns survegnan indemnisaziuns pauschalas, cun las endataziuns en ils contos individuals che al vegnan annunziadas da las cassas da cumpensaziun.
 
 <sup>2</sup> Sch’el constatescha ch’ina persuna annunziada ha realisà entradas cun in’activitad da gudogn, annunzia el quai d’uffizi al SEM per laschar controllar las indemnisaziuns pauschalas pajadas e per laschar far in rendaquint correct da la taxa speziala.
 
@@ -2153,18 +2100,19 @@ L’assicuranza po conceder ad instituziuns privatas d’utilitad publica ch’�
 - c.[^101bis-3] surpigliar incumbensas da coordinaziun e da svilup;
 - d.[^101bis-4] realisar furmaziuns supplementaras per il persunal d’agid.
 
-<sup>2</sup> Contribuziuns vegnan concedidas sin basa da contracts da prestaziuns. Il Cussegl federal determinescha ils criteris da subvenziun e fixescha las limitas maximalas da las contribuziuns. Lur pajament po el far dependent d’ulteriuras premissas u colliar cun cundiziuns. L’uffizi federal cumpetent fa ils contracts da prestaziun e regla la calculaziun da las contribuziuns sco er ils detagls da las premissas per il dretg da contribuziuns.[^101bis-5]
+<sup>2</sup> Contribuziuns vegnan concedidas sin basa da contracts da prestaziuns. Il Cussegl federal determinescha ils criteris da subvenziun e fixescha las limitas maximalas da las contribuziuns. El fixescha in urden da prioritads e po suttametter il pajament da las contribuziuns ad ulteriuras premissas u cundiziuns.[^101bis-5] L’uffizi federal cumpetent fa ils contracts da prestaziun e regla la calculaziun da las contribuziuns sco er ils detagls da las premissas per il dretg da contribuziuns.[^101bis-6]
 
-<sup>3</sup> …[^101bis-6]
+<sup>3</sup> …[^101bis-7]
 
 <sup>4</sup> Uschenavant ch’i vegnan concedidas contribuziuns ad expensas en il senn da l’alinea 1 sin basa d’autras leschas federalas, na paja l’assicuranza naginas contribuziuns.
 
 [^101bis-1]: Integrà tras la cifra I da la LF dals 24 da zer. 1977 (9. revisiun da la AVS), en vigur dapi il 1. da schan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^101bis-2]: Versiun tenor la cifra II 24 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)). Guardar er la disposiziun transitorica da questa midada a la fin da quest text.
+[^101bis-2]: Versiun tenor la cifra II 24 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)). Guardar er disp. trans. da questa midada a la fin da quest text.
 [^101bis-3]: Versiun tenor la cifra II 24 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^101bis-4]: Versiun tenor la cifra II 24 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)). La midada tenor la LF dals 20 da zer. 2014 davart la furmaziun supplementara, en vigur dapi il 1. da schan. 2017, concerna mo il text franzos e talian ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
-[^101bis-5]: Versiun tenor la cifra II 24 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^101bis-6]: Abolì tras la cifra II 24 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), cun effect dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^101bis-5]: Versiun da la terza frasa tenor la cifra 2 da l’agiunta da la LF dals 19 da zer. 2020 (ulteriur svilup da la AI), en vigur dapi il 1. da schan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^101bis-6]: Versiun tenor la cifra II 24 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^101bis-7]: Abolì tras la cifra II 24 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), cun effect dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 101<sup>ter</sup>
 
@@ -2229,7 +2177,7 @@ La contribuziun federala tenor l’alinea 1 vegn augmentada. L’augment corresp
 
 <sup>2</sup> Supplementarmain assegna la Confederaziun a l’assicuranza il retgav da la taxa sin bancas da gieu.
 
-[^103-1]: Versiun tenor la cifra II 24 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)). Guardar er la disposiziun transitorica da questa midada a la fin da quest text.
+[^103-1]: Versiun tenor la cifra II 24 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)). Guardar er disp. trans. da questa midada a la fin da quest text.
 [^103-2]: Versiun tenor la cifra I 4 da la LF dals 22 da zer. 2007 davart la midada a la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5953](https://fedlex.data.admin.ch/eli/oc/2007/795); [BBl 2007 645](https://fedlex.data.admin.ch/eli/fga/2007/88)).
 [^103-3]: Integrà tras la cifra I 5 da la LF dals 28 da sett. 2018 davart la refurma fiscala e la finanziaziun da la AVS, en vigur dapi il 1. da schan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^103-4]: Integrà tras la cifra I 5 da la LF dals 28 da sett. 2018 davart la refurma fiscala e la finanziaziun da la AVS, en vigur dapi il 1. da schan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
@@ -2350,7 +2298,7 @@ Per persunas, per las qualas valan u valevan las prescripziuns giuridicas da la 
 
 <sup>4</sup> Las noziuns «stadis commembers da l’Uniun europeica», «stadis commembers da la Communitad europeica», «stadis da l’Uniun europeica» e «stadis da la Communitad europeica» en la lescha qua avant maun designeschan ils stadis, per ils quals vala la Cunvegna davart la libra circulaziun.
 
-[^153a-1]: Versiun tenor la cifra 1 dal COF dals 17 da zer. 2016 (extensiun da la Cunvegna davart la libra circulaziun sin la Republica da la Croazia), en vigur dapi il 1. da schan. 2017 ([AS 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [BBl 2016 2223](https://fedlex.data.admin.ch/eli/fga/2016/467)). Guardar er las disposiziuns transitoricas a la fin da quest text.
+[^153a-1]: Versiun tenor la cifra 1 dal COF dals 17 da zer. 2016 (extensiun da la Cunvegna davart la libra circulaziun sin la Republica da la Croazia), en vigur dapi il 1. da schan. 2017 ([AS 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [BBl 2016 2223](https://fedlex.data.admin.ch/eli/fga/2016/467)). Guardar er disp. trans. a la fin da quest text.
 [^153a-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^153a-3]: Ordinaziun (CE) nr. 883/2004 dal Parlament europeic e dal Cussegl dals 29 d’avr. 2004 concernent la coordinaziun dals sistems da la segirezza sociala ([SR 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
 [^153a-4]: Ordinaziun (CE) nr. 987/2009 dal Parlament europeic e dal Cussegl dals 16 da sett. 2009 concernent la fixaziun da las modalitads per realisar l’Ordinaziun (CE) nr. 883/2004 davart la coordinaziun dals sistems da la segirezza sociala ([SR 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
@@ -2358,11 +2306,113 @@ Per persunas, per las qualas valan u valevan las prescripziuns giuridicas da la 
 [^153a-6]: Ordinaziun (CEE) nr. 574/72 dal Cussegl dals 21 da mars 1972 davart l’execuziun da l’Ordinaziun (CEE) nr. 1408/71 concernent l’applicaziun dals sistems da la segirezza sociala sin ils lavurants, sin las persunas cun activitad da gudogn independenta sco er sin lur famiglias che immigreschan ed emigreschan entaifer la Communitad; mintgamai en la versiun valaivla da la Cunvegna davart la libra circulaziun da persunas ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) resp. da la cunvegna revedida da la AECL.
 [^153a-7]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-## Quarta part**** Disposiziuns finalas
+## Quarta part**** Diever sistematic dal numer da la AVS ordaifer la AVS
 
 [^part4-1]
 
-[^part4-1]: Oriundamain terza part.
+[^part4-1]: Integrà tras la cifra I da la LF dals 18 da dec. 2020 (diever sistematic dal numer da la AVS tras las autoritads), en vigur dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+
+#### Art. 153b
+
+**Definiziun**
+
+Il diever dal numer da la AVS tenor l’artitgel 50*c* vala sco sistematic, sche l’entir numer, ina part da tal u ina furma modifitgada da tal vegn collià cun datas persunalas che vegnan rimnadas en furma structurada.
+
+#### Art. 153c
+
+**Parts autorisadas**
+
+<sup>1</sup>
+
+Mo las suandantas autoritads, organisaziuns e persunas èn autorisadas da duvrar sistematicamain il numer da la AVS:
+
+- a.
+
+  uschenavant ch’el vegn duvrà per ademplir lur incumbensas legalas:
+
+  - 1\. ils departaments federals e la Chanzlia federala,
+  - 2\. las unitads decentralisadas da l’administraziun federala,
+  - 3\. las unitads da las administraziuns chantunalas e communalas,
+  - 4\. las organisaziuns e las persunas da dretg public u privat che n’appartegnan betg a las administraziuns tenor las cifras 1–3 e che adempleschan incumbensas administrativas sin basa dal dretg federal, chantunal u communal u sin basa d’in contract, uschenavant ch’il dretg applitgabel prevesa il diever sistematic dal numer da la AVS,
+  - 5\. las instituziuns da furmaziun;
+
+- b. las interpresas d’assicuranza privatas en ils cas tenor l’artitgel 47*a* da la Lescha dals 2 d’avrigl 1908[^153c-1] davart il contract d’assicuranza;
+- c. ils organs che han l’incumbensa da far las controllas previsas en in contract collectiv da lavur cun vigur lianta.
+
+<sup>2</sup> Ellas na dastgan betg duvrar sistematicamain il numer da la AVS en il secturs, nua ch’il dretg applitgabel excluda quai expressivamain.
+
+[^153c-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+
+#### Art. 153d
+
+**Mesiras tecnicas ed organisatoricas**[^153d-1]
+
+Las autoritads, organisaziuns e persunas ch’èn autorisadas da duvrar sistematicamain il numer da la AVS dastgan duvrar quest numer mo, sch’ellas han prendì las suandantas mesiras tecnicas ed organisatoricas:
+
+- a. limitar l’access a las bancas da datas che cuntegnan il numer da la AVS, a las persunas che dovran il numer da la AVS per ademplir lur incumbensas, e restrenscher correspundentamain ils dretgs da leger e da scriver en las bancas da datas electronicas;
+- b. designar ina persuna ch’è responsabla per il diever sistematic dal numer da la AVS;
+- c. procurar che las persunas cun dretg d’access vegnian instruidas – en il rom da scolaziuns e da furmaziuns supplementaras – davart il fatg ch’il numer da la AVS dastga vegnir duvrà mo per ademplir lur incumbensas e communitgà mo confurm a las prescripziuns legalas;
+- d. prender mesiras che correspundan a la situaziun da ristga ed al stadi da la tecnica per garantir la segirezza da las infurmaziuns e la protecziun da datas; en spezial procurar che las unitads da datas, che cuntegnan il numer da la AVS e che vegnan transmessas sur ina rait publica, vegnian codadas confurm al stadi da la tecnica;
+- e. fixar, co ch’igl è da proceder en cas d’in access abusiv a las bancas da datas u en cas d’in diever abusiv da talas.
+
+[^153d-1]: Guardar er disp. fin. da la midada dals 18 da dec. 2020 a la fin da quest text.
+
+#### Art. 153e
+
+**Analisa da las ristgas**
+
+<sup>1</sup>
+
+Las suandantas unitads fan periodicamain in’analisa da las ristgas che resguarda en spezial la ristga d’ina colliaziun inadmissibla da bancas da datas:
+
+- a. ils departaments federals e la Chanzlia federala per las bancas da datas ch’els mainan sezs sco er per las bancas da datas che vegnan manadas da las autoritads, organisaziuns e persunas tenor l’artitgel 153*c* alinea 1 litera a cifras 2 e 4, da las instituziuns da furmaziun en lur champ da cumpetenza e da las interpresas d’assicuranza privatas tenor l’artitgel 153*c* alinea 1 litera b;
+- b. ils chantuns per las bancas da datas che vegnan manadas da las unitads da l’administraziun chantunala e communala sco er da las organisaziuns e persunas tenor l’artitgel 153*c* alinea 1 litera a cifras 4 e 5, uschenavant ch’il dretg chantunal u communal applitgabel prevesa il diever sistematic dal numer da la AVS.
+
+<sup>2</sup> En vista a l’analisa da las ristgas mainan questas unitads ina glista da las bancas da datas, en las qualas il numer da la AVS vegn duvrà sistematicamain.
+
+#### Art. 153f
+
+**Obligaziuns da cooperaziun**
+
+Las autoritads, organisaziuns e persunas che dovran sistematicamain il numer da la AVS ston gidar l’Uffizi central da cumpensaziun ad ademplir sias incumbensas. Ellas han en spezial las suandantas obligaziuns da cooperaziun:
+
+- a. infurmar l’Uffizi central da cumpensaziun davart il diever sistematic dal numer da la AVS;
+- b. permetter a l’Uffizi central da cumpensaziun da far controllas, al metter a disposiziun las datas necessarias per verifitgar il numer da la AVS ed al dar las infurmaziuns necessarias en quest reguard;
+- c. curreger ils numers da la AVS tenor las ordinaziuns da l’Uffizi central da cumpensaziun.
+
+#### Art. 153g
+
+**Communicaziun dal numer da la AVS en il rom da l’execuziun dal dretg chantunal u communal**
+
+Las autoritads, organisaziuns e persunas che dovran sistematicamain il numer da la AVS en il rom da l’execuziun dal dretg chantunal u communal dastgan communitgar il numer da la AVS, sche nagins interess da la persuna pertutgada ch’èn evidentamain degns da vegnir protegids na s’opponan a quai e sche:
+
+- a. la communicaziun è necessaria per ademplir lur incumbensas, en spezial per verifitgar il numer da la AVS;
+- b. la communicaziun è indispensabla per il retschavider per ademplir sias incumbensas legalas; u
+- c. la communicaziun è vegnida approvada en il cas singul tras la persuna pertutgada.
+
+#### Art. 153h
+
+**Taxas**
+
+Il Cussegl federal po prevair taxas per ils servetschs che l’Uffizi central da cumpensaziun furnescha en connex cun il diever sistematic dal numer da la AVS ordaifer la AVS.
+
+#### Art. 153i
+
+**Disposiziuns penalas da la quarta part**
+
+<sup>1</sup> Tgi che dovra sistematicamain il numer da la AVS senza l’autorisaziun respectiva tenor l’artitgel 153*c* alinea 1, vegn chastià cun in chasti pecuniar.
+
+<sup>2</sup> Tgi che dovra sistematicamain il numer da la AVS senza prender las mesiras tecnicas ed organisatoricas tenor l’artitgel 153*d*, vegn chastià cun ina multa.
+
+<sup>3</sup> L’artitgel 79 LPGA[^153i-1] è applitgabel.
+
+[^153i-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+
+## Tschintgavla part**** Disposiziuns finalas
+
+[^part5-1]
+
+[^part5-1]: Oriundamain terza part resp. quarta part.
 
 #### Art. 154
 
@@ -2405,7 +2455,7 @@ Per persunas, per las qualas valan u valevan las prescripziuns giuridicas da la 
 <sup>3</sup> Il pli baud per il medem mument po el er adattar correspundentamain las limitas d’entradas tenor l’artitgel 42 alinea 1 LAVS e tenor l’artitgel 2 alinea 1 da la Lescha federala dals 19 da mars 1965[^u2-lvla-3] davart las prestaziuns supplementaras tar l’assicuranza per vegls, survivents ed invaliditad (LPS) sco er la scala degressiva tenor ils artitgels 6 ed 8 LAVS.
 
 [^u2-lvla-2]: Questa adattaziun ha gì lieu per il 1. da schan. 1980 (art. 2 da l’O dals 17 da sett. 1979 davart l’entrada en vigur cumpletta da la 9. revisiun da la AVS – [AS 1979 1365](https://fedlex.data.admin.ch/eli/oc/1979/1365_1365_1365)).
-[^u2-lvla-3]: [[AS 1965 537](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535), [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32), [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)cifra III, [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589), [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)cifra II 2, [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017), [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699), [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)agiunta cifra 4, [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952), [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441), [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)cifra I 5 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)cifra I 6 [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)agiunta cifra 9 [3453](https://fedlex.data.admin.ch/eli/oc/2002/511), [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)agiunta cifra 4, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 cifra 8, [2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747)cifra IV. [AS 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35]. Guardar oz: LF dals 6 d’oct. 2006 ([SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)).
+[^u2-lvla-3]: [[AS 1965 537](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535); [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32); [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)cifra III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589); [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)cifra II 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699); [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)agiunta cifra 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)cifra I 5, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)cifra I 6, [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)agiunta cifra 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)agiunta cifra 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 cifra 8; [2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747)cifra IV. [AS 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35]. Guardar oz: LF dals 6 d’oct. 2006 ([SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)).
 
 ### b.–d.**** …
 
@@ -2541,7 +2591,7 @@ La bunificaziun transitorica dastga dentant vegnir attribuida maximalmain per il
 
 <sup>3</sup> Ils patruns che han pajà ora – sin basa da l’artitgel 51 alinea 2 – il 1. da schaner 1997 sezs las rentas a lur lavurants u als survivents da quels, pon pajar er vinavant las rentas sut las medemas premissas sco fin ussa.
 
-[^u5-lvlg-1]: [[AS 1992 1982](https://fedlex.data.admin.ch/eli/oc/1992/1982_1982_1982), [1995 510](https://fedlex.data.admin.ch/eli/oc/1995/510_510_510)[872](https://fedlex.data.admin.ch/eli/oc/1995/872_872_872)[3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)cifra I 5]
+[^u5-lvlg-1]: [[AS 1992 1982](https://fedlex.data.admin.ch/eli/oc/1992/1982_1982_1982); [1995 510](https://fedlex.data.admin.ch/eli/oc/1995/510_510_510), [872](https://fedlex.data.admin.ch/eli/oc/1995/872_872_872), [3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)cifra I 5]
 
 ### h. Prestaziuns a burgais da stadis senza cunvegnas davart las assicuranzas socialas cun la Svizra
 
@@ -2551,13 +2601,13 @@ L’artitgel 18 alinea 2 vala er per cas assicurads ch’èn capitads avant il 1
 
 [^u6-1]
 
-[^u6-1]: [AS 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363)cifra I 9 2385 al. 2 cifra 2 lit. d; BBl **1999** 4
+[^u6-1]: [AS 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363)cifra I 9, 2385 al. 2 cifra 2 lit. d; BBl **1999** 4
 
 <sup>1</sup> Il conclus federal dals 4 d’october 1985[^u6-2] davart la contribuziun da la Confederaziun e dals chantuns a la finanziaziun da l’assicuranza per vegls e survivents vegn abolì.
 
 <sup>2</sup> …[^u6-3]
 
-[^u6-2]: [[AS 1985 2006](https://fedlex.data.admin.ch/eli/oc/1985/2006_2006_2006), [1996 3441](https://fedlex.data.admin.ch/eli/oc/1996/3441_3441_3441)]
+[^u6-2]: [[AS 1985 2006](https://fedlex.data.admin.ch/eli/oc/1985/2006_2006_2006); [1996 3441](https://fedlex.data.admin.ch/eli/oc/1996/3441_3441_3441)]
 [^u6-3]: Abolì tras la cifra I 12 da la LF dals 19 da dec. 2003 davart il program da distgargia 2003, cun effect dapi il 1. da schan. 2005 ([AS 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [BBl 2003 5615](https://fedlex.data.admin.ch/eli/fga/2003/887)).
 
 ## Disposiziuns finalas da la midada dals 23 da zercladur 2000****
@@ -2665,6 +2715,14 @@ L’artitgel 9 alinea 4 vala per tut las entradas or d’activitad da gudogn ind
 
 [^u15-2]: [AS 2016 5251](https://fedlex.data.admin.ch/eli/oc/2016/829)
 [^u15-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+
+## Disposiziuns finalas da la midada dals 18 da december 2020****
+
+[^u16-1]
+
+[^u16-1]: [AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)
+
+Ils posts e las instituziuns che dovran il numer da la AVS tenor il dretg vertent, ston avair prendì las mesiras tecnicas ed organisatoricas tenor l’artitgel 153*d* entaifer 1 onn suenter l’entrada en vigur da la midada dals 18 da december 2020.
 
 Agiunta
 

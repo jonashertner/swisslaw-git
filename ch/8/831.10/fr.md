@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 décembre 1946 sur l'assurance-vieillesse et surviv
 short: LAVS
 eli: "https://fedlex.data.admin.ch/eli/cc/63/837_843_843"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1946-12-20
 in_force: 1948-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20210101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,13 +17,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20210101/fr"
 
 (LAVS)**[^t-1]**
 
-du 20 décembre 1946 (Etat le 1<sup>er</sup> janvier 2021)
+du 20 décembre 1946 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Abréviation introduite par le ch. I de la LF du 24 juin 1977 (9<sup>e</sup> révision AVS), en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu l’art. 34<sup>quater</sup> de la constitution[^ingress-1],[^ingress-2] vu les messages du Conseil fédéral des 24 mai, 29 mai et 24 septembre 1946[^ingress-3],
+vu l’art. 34<sup>quat</sup><sup>er</sup> de la constitution[^ingress-1],[^ingress-2] vu les messages du Conseil fédéral des 24 mai, 29 mai et 24 septembre 1946[^ingress-3],
 
 arrête:
 
@@ -276,7 +276,7 @@ Pour déterminer le revenu provenant d’une activité indépendante sont dédui
 [^9-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Amélioration de la mise en œuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^9-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Amélioration de la mise en œuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^9-3]: Nouvelle teneur selon le ch. I de la LF du 7 oct. 1994 (10<sup>e</sup> révision AVS), en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^9-4]: Introduit par le ch. I de la LF du 7 oct. 1994 (10<sup>e</sup> révision AVS; [RO 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Amélioration de la mise en œuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^9-4]: Introduit par le ch. I de la LF du 7 oct. 1994 (10<sup>e</sup> révision AVS; [RO 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Amélioration de la mise en œuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 (RO **2****011** 4745; [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^9-5]: Nouvelle teneur selon le ch. I de la LF du 7 oct. 1994 (10<sup>e</sup> révision AVS), en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^9-6]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^9-7]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
@@ -447,7 +447,7 @@ Le Conseil fédéral édicte des dispositions sur:[^14-6]
 [^16-6]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^16-7]: Nouvelle teneur de la phrase selon le ch. I de la LF du 17 juin 2011 (Amélioration de la mise en œuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^16-8]: À l’art. 20 al. 3, dans la teneur du 30 sept. 1953, correspond actuellement l’art. 20 al. 2, dans la teneur du 7 oct. 1994.
-[^16-9]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Amélioration de la mise en œuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^16-9]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Amélioration de la mise en œuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 (RO **20****11** 4745; [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 
 #### Art. 17
 
@@ -556,18 +556,18 @@ En dérogation à l’art. 20 LPGA[^22bis-2], la rente complémentaire est vers�
 [^22bis-3]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^22bis-4]: Introduit par l’annexe ch. 7 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
-#### Art. 22<sup>ter</sup>
+#### Art. 22
 
-**Rente pour enfant**[^22ter-1]
+**<sup>te</sup><sup>r</sup> [^22-2]Rente pour enfant**
 
 <sup>1</sup> Les personnes auxquelles une rente de vieillesse a été allouée ont droit à une rente pour chacun des enfants qui, au décès de ces personnes, auraient droit à une rente d’orphelin. Les enfants recueillis par des personnes qui sont déjà au bénéfice d’une rente de vieillesse ou d’une rente d’invalidité allouée antérieurement à celle-ci ne donnent pas droit à la rente, sauf s’il s’agit des enfants de l’autre conjoint.
 
-<sup>2</sup> La rente pour enfant est versée comme la rente à laquelle elle se rapporte. Les dispositions relatives à un emploi de la rente conforme à son but (art. 20 LPGA[^22ter-2]) ainsi que les décisions contraires du juge civil sont réservées.[^22ter-3] Le Conseil fédéral peut édicter des dispositions spéciales sur le versement de la rente, en dérogation à l’art. 20 LPGA, notamment pour les enfants de parents séparés ou divorcés.[^22ter-4]
+<sup>2</sup> La rente pour enfant est versée comme la rente à laquelle elle se rapporte. Les dispositions relatives à un emploi de la rente conforme à son but (art. 20 LPGA[^22-3]) ainsi que les décisions contraires du juge civil sont réservées.[^22-4] Le Conseil fédéral peut édicter des dispositions spéciales sur le versement de la rente, en dérogation à l’art. 20 LPGA, notamment pour les enfants de parents séparés ou divorcés.[^22-5]
 
-[^22ter-1]: Introduit par le ch. I de la LF du 30 juin 1972 ([RO 1972 2537](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)). Nouvelle teneur selon le ch. I de la LF du 7 oct. 1994 (10<sup>e</sup> révision AVS), en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^22ter-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^22ter-3]: Nouvelle teneur de la phrase selon l’annexe ch. 7 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^22ter-4]: Nouvelle teneur de la phrase selon l’annexe ch. 7 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
+[^22-2]: Introduit par le ch. I de la LF du 30 juin 1972 ([RO 1972 2537](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)). Nouvelle teneur selon le ch. I de la LF du 7 oct. 1994 (10<sup>e</sup> révision AVS), en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^22-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^22-4]: Nouvelle teneur de la phrase selon l’annexe ch. 7 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
+[^22-5]: Nouvelle teneur de la phrase selon l’annexe ch. 7 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
 ### III.**** Le droit à la rente de veuve ou de veuf
 
@@ -633,7 +633,7 @@ La personne divorcée est assimilée à une veuve ou à un veuf:
 
 Si une personne remplit simultanément les conditions d’octroi d’une rente de veuve ou de veuf et d’une rente de vieillesse ou d’une rente en vertu de la LAI[^24b-1], seule la rente la plus élevée sera versée.
 
-[^24b-1]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^24b-1]: RS **831****.****20**
 
 ### IV. Le droit à la rente d’orphelin
 
@@ -666,7 +666,7 @@ Si une personne remplit simultanément les conditions d’octroi d’une rente d
 Si un orphelin remplit simultanément les conditions d’obtention d’une rente d’orphelin et d’une rente de veuve ou de veuf ou d’une rente en vertu de la LAI[^28bis-2], seule la rente la plus élevée sera versée. Si les deux parents sont décédés, la comparaison s’opère sur la base de la somme des deux rentes d’orphelin.
 
 [^28bis-1]: Introduit par l’art. 82 de la LF du 19 juin 1959 sur l’AI ([RO 1959 857](https://fedlex.data.admin.ch/eli/oc/1959/827_857_845); [FF 1958 II 1161](https://fedlex.data.admin.ch/eli/fga/1958/2_1137_1161_975)). Nouvelle teneur selon le ch. I de la LF du 7 oct. 1994 (10<sup>e</sup> révision AVS), en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^28bis-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^28bis-2]: RS **83****1.20**
 
 ### B. Les rentes ordinaires
 
@@ -1019,7 +1019,7 @@ Si, pour un même enfant, les conditions d’octroi d’une rente d’orphelin e
 
 [^38-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 1959, en vigueur depuis le 1<sup>er</sup> janv. 1960 ([RO 1959 884](https://fedlex.data.admin.ch/eli/oc/1959/854_884_872); [FF 1958 II 1161](https://fedlex.data.admin.ch/eli/fga/1958/2_1137_1161_975)).
 [^38-2]: Nouvelle teneur selon le ch. I de la LF du 30 juin 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2537](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
-[^38-3]: Introduit par le ch. I de la LF du 30 juin 1972 ([RO 1972 2537](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)). Nouvelle teneur selon le ch. I de la LF du 7 oct. 1994 (10<sup>e</sup> révision AVS), en vigueur depuis le 1<sup>er janv.</sup> 1997 ([RO 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^38-3]: Introduit par le ch. I de la LF du 30 juin 1972 ([RO 1972 2537](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); FF **19****71** II 1057). Nouvelle teneur selon le ch. I de la LF du 7 oct. 1994 (10<sup>e</sup> révision AVS), en vigueur depuis le 1<sup>er janv.</sup> 1997 ([RO 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 ### IV. L’âge flexible de la retraite****
 
@@ -1089,7 +1089,7 @@ Si, pour un même enfant, les conditions d’octroi d’une rente d’orphelin e
 
 <sup>3</sup> Les conjoints de ressortissants suisses à l’étranger soumis au régime de l’assurance obligatoire qui, en vertu d’un traité bilatéral ou de l’usage international, sont exclus de l’assurance-vieillesse, survivants et invalidité de l’État dans lequel ils résident, sont assimilés aux conjoints de ressortissants suisses domiciliés en Suisse.
 
-[^42-1]: Nouvelle teneur selon le ch. I de la LF du 7 oct. 1994 (10<sup>e</sup> révision AVS), en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^42-1]: Nouvelle teneur selon le ch. I de la LF du 7 oct. 1994 (10<sup>e</sup> révision AVS), en vigueur depuis le 1<sup>er</sup> janv. 1997 (RO **199****6** 2466; [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^42-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^42-3]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
@@ -1230,7 +1230,7 @@ Le Conseil fédéral fait vérifier périodiquement si le développement financi
 
 [^48bis48sexies-1]
 
-[^48bis48sexies-1]: Introduit par le ch. I de la LF du 24 juin 1977 (9<sup>e</sup> révision AVS; [RO 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)). Abrogé par l’annexe ch. 7 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
+[^48bis48sexies-1]: Introduit par le ch. I de la LF du 24 juin 1977 (9<sup>e</sup> révision AVS; [RO 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); FF **197****6** III 1). Abrogé par l’annexe ch. 7 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
 ### Chapitre IV L’organisation
 
@@ -1266,9 +1266,10 @@ Les organes chargés d’appliquer la présente loi ou d’en contrôler ou surv
 - d. faire valoir une prétention récursoire contre le tiers responsable;
 - e. surveiller l’exécution de la présente loi;
 - f. établir des statistiques;
-- g. attribuer ou vérifier le numéro d’assuré AVS (numéro AVS).
+- g.[^49b-2] attribuer ou vérifier le numéro AVS.
 
 [^49b-1]: Introduit par le ch. I de la LF du 23 juin 2000 ([RO 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+[^49b-2]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 50
 
@@ -1322,7 +1323,7 @@ Dans les autres cas, des données peuvent être communiquées à des tiers, en d
 
 <sup>7</sup> Les données sont communiquées en principe par écrit et gratuitement. Le Conseil fédéral peut prévoir la perception d’émoluments pour les cas nécessitant des travaux particulièrement importants.
 
-[^50a-1]: Introduit par le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^50a-1]: Introduit par le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); FF **20****00** 219).
 [^50a-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^50a-3]: Introduite par le ch. I de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^50a-4]: Introduite par le ch. I de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
@@ -1365,7 +1366,7 @@ Ont accès par procédure d’appel au registre central des assurés et au regis
 [^50b-4]: Introduite par l’annexe ch. 1 de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^50b-5]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 [^50b-6]: Introduite par l’annexe ch. 1 de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^50b-7]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^50b-7]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 (RO **20****16** 4375; [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 50c
 
@@ -1383,73 +1384,19 @@ Un numéro AVS est attribué à toute personne qui:
 Un numéro AVS est en outre attribué si cela s’avère nécessaire:
 
 - a. pour l’application de l’AVS;
-- b. pour le contact avec un service ou une institution habilités à utiliser ce numéro systématiquement.
+- b.[^50c-3] pour le contact avec un service ou une institution habilités à utiliser ce numéro systématiquement en dehors de l’AVS.
 
 <sup>3</sup> La composition du numéro AVS ne doit permettre aucune déduction sur la personne à qui ce numéro a été attribué.
 
 [^50c-1]: Introduit par le ch. I de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^50c-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^50c-3]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
-#### Art. 50d
+#### Art. 50d à 50g
 
-**Utilisation systématique du numéro AVS comme numéro de sécurité sociale**[^50d-1]
+[^50d50g-1]
 
-<sup>1</sup> Les services et les institutions chargés de tâches relevant de la sécurité sociale en dehors de l’AVS sont habilités à utiliser systématiquement le numéro AVS à condition qu’une loi fédérale le prévoie et que le but de l’utilisation et les utilisateurs légitimés soient définis.
-
-<sup>2</sup> Les services et les institutions qui assument des tâches de sécurité sociale cantonale sont autorisés à utiliser systématiquement le numéro AVS pour l’accomplissement de leurs tâches légales.
-
-[^50d-1]: Introduit par le ch. I de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-
-#### Art. 50e
-
-**Utilisation systématique du numéro AVS dans d’autres domaines**[^50e-1]
-
-<sup>1</sup> Le numéro AVS ne peut être utilisé systématiquement en dehors des assurances sociales fédérales que si une loi fédérale le prévoit et que le but de l’utilisation et les utilisateurs légitimés sont définis.
-
-<sup>2</sup>
-
-Sont habilités à utiliser systématiquement le numéro AVS pour l’accomplissement de leurs tâches légales les services et les institutions chargés de l’application du droit cantonal suivants:
-
-- a. les services chargés de l’exécution de la réduction de primes dans l’assurance-maladie;
-- b. les services chargés de l’exécution de l’aide sociale;
-- c. les services chargés de l’exécution de la législation fiscale;
-- d. les établissements de formation.
-
-<sup>3</sup> D’autres services et institutions chargés de l’application du droit cantonal sont habilités à utiliser systématiquement le numéro AVS pour l’accomplissement de leurs tâches légales à condition qu’une loi cantonale le prévoie.
-
-[^50e-1]: Introduit par le ch. I de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-
-#### Art. 50f
-
-**Divulgation du numéro AVS dans l’application du droit cantonal**[^50f-1]
-
-Les services et les institutions qui utilisent systématiquement le numéro AVS conformément aux art. 50*d*, al. 2, et 50*e,* al. 2 et 3*,* sont habilités à le divulguer pour autant qu’aucun intérêt manifestement digne de protection de la personne concernée ne s’y oppose et que la divulgation des données:
-
-- a. s’impose pour l’accomplissement de leurs tâches, en particulier pour la vérification du numéro;
-- b. s’impose parce que ce numéro est indispensable au destinataire pour l’accomplissement de sa tâche légale;
-- c. a été autorisée par la personne concernée dans ce cas particulier ou que, vu les circonstances, son accord peut être supposé.
-
-[^50f-1]: Introduit par le ch. I de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-
-#### Art. 50g
-
-**Mesures de précaution**[^50g-1]
-
-<sup>1</sup> Les services et les institutions qui utilisent systématiquement le numéro AVS au sens des art. 50*d* ou 50*e* l’annoncent auprès du service chargé d’attribuer les numéros. Ce dernier dresse une liste des services et des institutions qui utilisent systématiquement le numéro d’assuré. La liste est publiée chaque année.
-
-<sup>2</sup>
-
-Les services et les institutions légitimés sont tenus de:
-
-- a. prendre des mesures techniques et organisationnelles pour que le numéro AVS utilisé soit correct et qu’il n’en soit pas fait une utilisation abusive;
-- b. mettre à disposition du service chargé d’attribuer les numéros AVS les données nécessaires à la vérification du numéro attribué;
-- c. procéder aux corrections relatives au numéro AVS ordonnées par le service chargé de l’attribuer.
-
-<sup>3</sup> Le Département fédéral de l’intérieur définit, d’entente avec le Département fédéral des finances, les standards minimaux auxquels doivent satisfaire les mesures au sens de l’al. 2, let. a.
-
-<sup>4</sup> Le service chargé d’attribuer les numéros AVS peut percevoir des émoluments pour le travail qu’impliquent les tâches relevant de l’utilisation du numéro AVS en dehors de l’AVS.
-
-[^50g-1]: Introduit par le ch. I de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^50d50g-1]: Introduits par le ch. I de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS) ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)). Abrogés par le ch. I de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 ### B. Les employeurs
 
@@ -1946,7 +1893,7 @@ celui qui aura manqué à son obligation de communiquer (art. 31, al. 1, LPGA[^8
 
 celui qui, en sa qualité de réviseur ou d’aide-réviseur aura gravement enfreint les obligations qui lui incombent lors d’une révision ou d’un contrôle, ou en rédigeant ou présentant le rapport de révision ou de contrôle,
 
-celui qui aura utilisé systématiquement le numéro AVS sans y être autorisé,[^87-5]
+…[^87-5]
 
 sera puni d’une peine pécuniaire de 180 jours-amende au plus, à moins qu’il ne s’agisse d’un crime ou d’un délit frappé d’une peine plus lourde.[^87-6]
 
@@ -1954,7 +1901,7 @@ sera puni d’une peine pécuniaire de 180 jours-amende au plus, à moins qu’i
 [^87-2]: Nouvelle teneur selon le ch. I de la LF du 7 juin 2011 (Amélioration de la mise en œuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^87-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^87-4]: Introduit par l’annexe ch. 3 de la LF du 6 oct. 2006 (5<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 4215](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^87-5]: Introduit par le ch. I de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^87-5]: Introduit par le ch. I de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS) ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)). Abrogé par le ch. I de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 [^87-6]: Nouvelle teneur du dernier alinéa selon le ch. I de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 
 #### Art. 88
@@ -1967,21 +1914,19 @@ celui qui s’oppose à un contrôle ordonné par l’autorité compétente ou l
 
 celui qui ne remplit pas les formules prescrites ou ne les remplit pas de façon véridique,
 
-celui qui utilise systématiquement le numéro AVS, ne prend pas de mesures au sens de l’art. 50*g*, al. 2, let. a,[^88-2]
+…[^88-2]
 
 sera puni d’une amende, à moins qu’il ne s’agisse d’un cas prévu à l’art. 87.[^88-3]
 
 [^88-1]: Nouvelle teneur selon le ch. I de la LF du 7 oct. 1994 (10<sup>e</sup> révision AVS), en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^88-2]: Nouvelle teneur du par. selon le ch. I de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^88-2]: Abrogé par le ch. I de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 [^88-3]: Nouvelle teneur du dernier alinéa selon le ch. I de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 
 #### Art. 89
 
-**Infractions commises dans la gestion d’une entreprise**
+[^89-1]
 
-<sup>1</sup> Si l’infraction est commise dans la gestion d’une personne morale, d’une société de personnes ou d’une maison à raison commerciale individuelle, les dispositions pénales des art. 87 et 88 sont applicables aux personnes qui ont agi ou auraient dû agir en son nom. En règle générale, la personne morale, la société de personnes ou le titulaire de la maison à raison commerciale individuelle sont toutefois tenus solidairement du paiement de l’amende et des frais.
-
-<sup>2</sup> Les dispositions de l’al. 1 sont applicables aux infractions commises dans la gestion de l’entreprise d’une collectivité ou d’un établissement de droit public.
+[^89-1]: Abrogé par le ch. I de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 90
 
@@ -2095,7 +2040,7 @@ Le Fonds de compensation AVS rembourse à la Confédération, outre les frais vi
 
 [^97-1]
 
-[^97-1]: Abrogé par l’annexe ch. 1 de la LF du 21 juin 2019, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+[^97-1]: Abrogé par l’annexe ch. 1 de la LF du 21 juin 2019, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); FF **2****018** 1597).
 
 #### Art. 98
 
@@ -2107,7 +2052,7 @@ Le Fonds de compensation AVS rembourse à la Confédération, outre les frais vi
 
 [^99-1]
 
-[^99-1]: Abrogé par l’annexe ch. 13 de la LF du 16 déc. 1994, avec effet au 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^99-1]: Abrogé par l’annexe ch. 13 de la LF du 16 déc. 1994, avec effet au 1<sup>er</sup> janv. 1997 (RO **19****95** 1227; [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 #### Art. 100
 
@@ -2134,9 +2079,9 @@ Le Fonds de compensation AVS rembourse à la Confédération, outre les frais vi
 - c.[^101bis-3] assumer des tâches de coordination et de développement;
 - d.[^101bis-4] pourvoir à la formation continue du personnel auxiliaire.
 
-<sup>2</sup> L’octroi des subventions est réglé par des contrats de prestations. Le Conseil fédéral définit les critères de subvention et fixe le montant maximal des subventions. Il peut en subordonner l’octroi à d’autres conditions ou à l’accomplissement de certaines obligations. L’office fédéral compétent conclut les contrats de prestations et règle le calcul des subventions ainsi que les conditions d’octroi.[^101bis-5]
+<sup>2</sup> L’octroi des subventions est réglé par des contrats de prestations. Le Conseil fédéral définit les critères de subvention et fixe le montant maximal des subventions. Il fixe un ordre de priorité et peut subordonner l’octroi de subventions à d’autres conditions ou charges.[^101bis-5] L’office fédéral compétent conclut les contrats de prestations et règle le calcul des subventions ainsi que les conditions d’octroi.[^101bis-6]
 
-<sup>3</sup> *...*[^101bis-6]
+<sup>3</sup> *...*[^101bis-7]
 
 <sup>4</sup> L’assurance n’accordera pas de subventions dans la mesure où des subventions au sens de l’al. 1 sont accordées en vertu d’autres lois fédérales.
 
@@ -2144,8 +2089,9 @@ Le Fonds de compensation AVS rembourse à la Confédération, outre les frais vi
 [^101bis-2]: Nouvelle teneur selon le ch. II 24 de la LF du 6 oct. 2006 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^101bis-3]: Nouvelle teneur selon le ch. II 24 de la LF du 6 oct. 2006 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^101bis-4]: Nouvelle teneur selon l’annexe ch. 36 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
-[^101bis-5]: Nouvelle teneur selon le ch. II 24 de la LF du 6 oct. 2006 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)). Voir aussi la disp. trans. mod. 6 oct. 2006 à la fin du texte.
-[^101bis-6]: Abrogé par le ch. II 24 de la LF du 6 oct. 2006 (Réforme de la péréquation financière), avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^101bis-5]: Nouvelle teneur de la 3<sup>e</sup> phrase selon l’annexe ch. 2 de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^101bis-6]: Nouvelle teneur selon le ch. II 24 de la LF du 6 oct. 2006 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)). Voir aussi la disp. trans. mod. 6 oct. 2006 à la fin du texte.
+[^101bis-7]: Abrogé par le ch. II 24 de la LF du 6 oct. 2006 (Réforme de la péréquation financière), avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 101<sup>ter</sup>
 
@@ -2339,17 +2285,119 @@ Pour les personnes qui sont ou qui ont été soumises à la législation sur la 
 [^153a-6]: Règlement (CEE) n<sup>o</sup> 574/72 du Conseil du 21 mars 1972 fixant les modalités d’application du Règlement (CEE) 1408/71 relatif à l’application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l’intérieur de la Communauté; dans la dernière version en vigueur selon l’accord sur la libre circulation des personnes ([RO 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) et la convention AELE révisée.
 [^153a-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-## Quatrième partie:**** Dispositions finales
+## Quatrième partie**** Utilisation systématique du numéro AVS en dehors de l’AVS
 
 [^part4-1]
 
-[^part4-1]: Anciennement Troisième partie.
+[^part4-1]: Introduite par le ch. I de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+
+#### Art. 153b
+
+**Définition**
+
+L’utilisation du numéro AVS visé à l’art. 50*c* est réputée systématique lorsque l’intégralité, une partie ou une forme modifiée de ce numéro est liée à des données personnelles collectées de manière structurée.
+
+#### Art. 153c
+
+**Autorités, organisations et personnes habilitées**
+
+<sup>1</sup>
+
+Seules les autorités, organisations et personnes suivantes sont habilitées à utiliser le numéro AVS de manière systématique:
+
+- a.
+
+  dans la mesure où l’exécution de leurs tâches légales le requiert:
+
+  - 1\. les départements fédéraux et la Chancellerie fédérale,
+  - 2\. les unités décentralisées de l’administration fédérale,
+  - 3\. les unités des administrations cantonales et communales,
+  - 4\. les organisations et les personnes de droit public ou de droit privé qui sont extérieures aux administrations visées aux ch. 1 à 3 et qui sont chargées de tâches administratives par le droit fédéral, cantonal ou communal ou par contrat, si le droit applicable prévoit l’utilisation systématique du numéro AVS,
+  - 5\. les établissements de formation;
+
+- b. les entreprises d’assurances privées dans les cas prévus à l’art. 47*a* de la loi du 2 avril 1908 sur le contrat d’assurance[^153c-1];
+- c. les organes chargés de l’exécution des contrôles prévus par une convention collective de travail déclarée de force obligatoire.
+
+<sup>2</sup> Elles ne sont pas habilitées à utiliser le numéro AVS de manière systématique dans les domaines où le droit applicable l’exclut expressément.
+
+[^153c-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+
+#### Art. 153d
+
+**Mesures techniques et organisationnelles**[^153d-1]
+
+Les autorités, organisations et personnes habilitées à utiliser le numéro AVS de manière systématique ne peuvent l’utiliser que si elles ont pris les mesures techniques et organisationnelles suivantes:
+
+- a. limiter l’accès aux banques de données qui contiennent le numéro AVS aux personnes qui ont besoin de ce numéro pour accomplir leurs tâches et restreindre en conséquence les droits de lecture et d’écriture dans les banques de données électroniques contenant ce numéro;
+- b. désigner une personne responsable de l’utilisation systématique du numéro AVS;
+- c. veiller à ce que les personnes autorisées à accéder aux données soient informées, dans le cadre de formations et de perfectionnements, que le numéro AVS ne peut être utilisé qu’en rapport avec leurs tâches et ne peut être communiqué que conformément aux prescriptions légales;
+- d. garantir la sécurité de l’information et la protection des données en fonction des risques encourus et conformément à l’état de la technique; veiller en particulier à ce que les fichiers de données qui comprennent le numéro AVS et qui transitent par un réseau public soient cryptés conformément à l’état de la technique;
+- e. définir la manière de procéder en cas d’accès non autorisé aux banques de données ou d’utilisation abusive de celles-ci.
+
+[^153d-1]: V. aussi les disp. fin. de la mod. du 18 déc. 2020 à la fin de ce texte.
+
+#### Art. 153e
+
+**Analyse des risques**
+
+<sup>1</sup>
+
+Les entités suivantes mènent périodiquement une analyse des risques portant en particulier sur le risque d’un regroupement illicite de banques de données:
+
+- a. les départements fédéraux et la Chancellerie fédérale pour les banques de données détenues par eux-mêmes ainsi que par les autorités, organisations et personnes visées à l’art. 153*c*, al. 1, let. a, ch. 2 et 4, les établissements de formation dans leur domaine d’attribution et les entreprises d’assurances privées visées à l’art. 153*c,* al. 1, let. b;
+- b. les cantons pour les banques de données détenues par les unités des administrations cantonales et communales ainsi que par les organisations et personnes visées à l’art. 153*c*, al. 1, let. a, ch. 4 et 5 lorsque le droit cantonal ou communal applicable prévoit l’utilisation systématique du numéro AVS.
+
+<sup>2</sup> Elles tiennent, en vue de l’analyse des risques, un répertoire des banques de données dans lesquelles le numéro AVS est utilisé de manière systématique.
+
+#### Art. 153f
+
+**Obligations de collaborer**
+
+Les autorités, organisations et personnes qui utilisent le numéro AVS de manière systématique doivent assister la Centrale de compensation dans l’accomplissement de ses tâches. Elles sont notamment tenues:
+
+- a. d’annoncer à la Centrale de compensation qu’elles utilisent le numéro AVS de manière systématique;
+- b. de permettre à la Centrale de compensation d’effectuer des contrôles, de mettre à sa disposition les données nécessaires à la vérification du numéro AVS et de lui fournir à ce sujet les renseignements requis;
+- c. de procéder aux corrections de numéros AVS ordonnées par la Centrale de compensation.
+
+#### Art. 153g
+
+**Communication du numéro AVS dans l’application du droit cantonal ou communal**
+
+Les autorités, organisations et personnes qui utilisent de manière systématique le numéro AVS pour l’exécution du droit cantonal ou communal sont habilitées à communiquer ce numéro pour autant qu’aucun intérêt manifestement digne de protection de la personne concernée ne s’y oppose et que cette communication remplit l’une des conditions suivantes:
+
+- a. elle s’impose pour l’accomplissement de leurs tâches, en particulier pour la vérification du numéro AVS;
+- b. elle s’impose parce que ce numéro est indispensable au destinataire pour l’accomplissement de ses tâches légales;
+- c. elle a été approuvée dans le cas d’espèce par la personne concernée.
+
+#### Art. 153h
+
+**Émoluments**
+
+Le Conseil fédéral peut prévoir des émoluments pour les prestations de services de la Centrale de compensation liées à l’utilisation systématique du numéro AVS en dehors de l’AVS.
+
+#### Art. 153i
+
+**Dispositions pénales relatives à la quatrième partie**
+
+<sup>1</sup> Quiconque utilise de manière systématique le numéro AVS sans y être habilité par l’art. 153*c*, al. 1, est puni d’une peine pécuniaire.
+
+<sup>2</sup> Quiconque utilise le numéro AVS de manière systématique sans prendre les mesures techniques et organisationnelles visées à l’art. 153*d* est puni d’une amende.
+
+<sup>3</sup> L’art. 79 LPGA[^153i-1] est applicable.
+
+[^153i-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+
+## Cinquième partie:**** Dispositions finales
+
+[^part5-1]
+
+[^part5-1]: Anciennement Troisième, respectivement Quatrième partie.
 
 #### Art. 154
 
 **Entrée en vigueur et exécution**
 
-<sup>1</sup> La présente loi entre en vigueur le 1<sup>er</sup> janvier 1948. Le Conseil fédéral est autorisé, dès la publication de la présente loi dans le *Recueil officiel des lois de la Confédéra**tion*[^154-1]*,* à mettre en vigueur, déjà avant le 1<sup>er</sup> janvier 1948, certaines dispositions particulières se rapportant à l’organisation[^154-2].
+<sup>1</sup> La présente loi entre en vigueur le 1<sup>er</sup> janvier 1948. Le Conseil fédéral est autorisé, dès la publication de la présente loi dans le *Recueil officiel des* *lois de la Confédéra**tion*[^154-1]*,* à mettre en vigueur, déjà avant le 1<sup>er</sup> janvier 1948, certaines dispositions particulières se rapportant à l’organisation[^154-2].
 
 <sup>2</sup> Le Conseil fédéral est chargé de l’exécution de la présente loi et édictera les dispositions nécessaires à cet effet.
 
@@ -2547,7 +2595,7 @@ L’art. 18, al. 2, s’applique également lorsque l’événement assuré est 
 
 [^u7-1]
 
-[^u7-1]: [RO 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4601](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)
+[^u7-1]: RO **20****00** 2677; [FF 1999 4601](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)
 
 <sup>1</sup> S’ils résident dans un État membre de la Communauté européenne, les ressortissants suisses qui sont soumis à l’assurance facultative au moment de l’entrée en vigueur de la présente loi peuvent le rester pendant six années consécutives au maximum à compter de l’entrée en vigueur de la présente loi[^u7-2]. Ceux d’entre eux qui ont 50 ans révolus au moment de l’entrée en vigueur de la présente loi peuvent rester assurés jusqu’à l’âge légal de la retraite.
 
@@ -2611,7 +2659,7 @@ L’art. 18, al. 2, s’applique également lorsque l’événement assuré est 
 
 <sup>2</sup> ...[^u12-3]
 
-[^u12-2]: [RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)
+[^u12-2]: RO **200****7** 5779
 [^u12-3]: Abrogé par le ch. I 4 de la LF du 22 juin 2007 (Réforme de la péréquation financière), avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5953](https://fedlex.data.admin.ch/eli/oc/2007/795); [FF 2007 597](https://fedlex.data.admin.ch/eli/fga/2007/88)).
 
 ## Dispositions transitoires de la modification du 13 juin 2008****
@@ -2648,6 +2696,14 @@ L’art. 9, al. 4, s’applique à tous les revenus d’une activité indépenda
 
 [^u15-2]: [RO 2016 5251](https://fedlex.data.admin.ch/eli/oc/2016/829)
 [^u15-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+
+## Dispositions finales de la modification du 18 décembre 2020****
+
+[^u16-1]
+
+[^u16-1]: [RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)
+
+Les services et institutions qui utilisent le numéro AVS conformément à l’ancien droit sont tenus de mettre en place dans un délai d’un an après l’entrée en vigueur de la modification du 18 décembre 2020 les mesures techniques et organisationnelles visées à l’art. 153*d*.
 
 Annexe*[^t-2]*
 
