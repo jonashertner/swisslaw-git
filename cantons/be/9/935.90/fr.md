@@ -4,13 +4,13 @@ number: "935.90"
 title: Loi sur l’exercice de la prostitution
 short: LEP
 language: fr
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-24
+version: 2022-01-01
+valid_until: 2026-08-31
+version_adopted: 2021-03-09
 adopted: 2012-06-07
 in_force: 2013-04-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/935.90"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2241/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2484/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2241/pdf_file"
 
 (LEP)
 
-du 07.06.2012 (état au 01.04.2021)
+du 07.06.2012 (état au 01.01.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -154,13 +154,13 @@ arrête:
 - c s’assurer que les locaux répondent aux exigences de sécurité, de salubrité et d’hygiène prévues par la législation;
 - d s’assurer que les personnes exerçant la prostitution sont autorisées à le faire du point de vue de la législation sur les étrangers;
 - e prévenir toute atteinte à l’ordre et à la tranquillité publics;
-- f s’assurer que les fournisseurs de prestations au sens de l’article 58, alinéa 2 de la loi du 11 juin 2001 sur l’aide sociale (LASoc)[^11-1], qui exécutent les tâches en vertu de l’article 71, lettre e LASoc, ont en tout temps accès aux locaux affectés ou liés à l’exercice de la prostitution;
+- f s’assurer que les fournisseurs de prestations au sens de la loi du 9 mars 2021 sur les programmes d’action sociale (LASoc)[^11-1] qui exécutent des tâches en vertu de l’article 72, alinéa 1, lettre c LPASoc ont en tout temps accès aux locaux affectés ou liés à l’exercice de la prostitution;
 - g s’assurer que les autorités compétentes au sens de l’article 18 peuvent effectuer des contrôles en tout temps conformément à l’article 12, alinéa 1;
 - h annoncer immédiatement à l’autorité compétente pour l’autorisation tout changement dans les conditions prévues à l’article 8;
 - i désigner, pour toute absence de plus d’un mois, une personne suppléante dont elle communiquera les coordonnées à l’autorité compétente pour l’autorisation, la personne titulaire de l’autorisation restant responsable du respect des dispositions pertinentes;
 - k s’assurer que les personnes exerçant la prostitution ont accès aux informations concernant les offres selon l’article 16, alinéa 1.
 
-[^11-1]: RSB 860.1
+[^11-1]: RSB [860.2](https://www.belex.sites.be.ch/data/860.2/fr)
 
 #### Art. 12
 
@@ -213,13 +213,13 @@ arrête:
 
 <sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration propose des offres de prévention et d’assistance sanitaire et sociale pour les personnes exerçant la prostitution dans le canton de Berne.
 
-<sup>2</sup> Au surplus, les dispositions de la LASoc sont applicables.
+<sup>2</sup> Au surplus, les dispositions de la LPASoc sont applicables.
 
 #### Art. 17
 
 **Information des personnes exerçant la prostitution**
 
-<sup>1</sup> Les autorités compétentes et les fournisseurs de prestations au sens de l’article 58, alinéa 2 LASoc veillent à ce que les personnes exerçant la prostitution soient suffisamment informées quant à leurs droits et à leurs obligations.
+<sup>1</sup> Les autorités compétentes et les fournisseurs de prestations au sens de la LPASoc veillent à ce que les personnes exerçant la prostitution soient suffisamment informées quant à leurs droits et à leurs obligations.
 
 ## 5 Compétences, collaboration et protection des données
 
@@ -241,7 +241,7 @@ arrête:
 
 **Collaboration**
 
-<sup>1</sup> Les autorités compétentes et les fournisseurs de prestations au sens de l’article 58, alinéa 2 LASoc collaborent afin de garantir une application uniforme de la présente loi.
+<sup>1</sup> Les autorités compétentes et les fournisseurs de prestations au sens de la LPASoc collaborent afin de garantir une application uniforme de la présente loi.
 
 <sup>2</sup> A cet effet, le Conseil-exécutif peut mettre sur pied une commission spécialisée pour le canton et les communes, qui peut se voir déléguer des tâches d’évaluation.
 
@@ -251,13 +251,13 @@ arrête:
 
 **Information 1. par le fournisseur de prestations**
 
-<sup>1</sup> Les fournisseurs de prestations au sens de l’article 58, alinéa 2 LASoc qui exécutent des tâches en vertu de l’article 71, lettre e LASoc peuvent communiquer des données dans la mesure où la LASoc le prévoit.
+<sup>1</sup> Les fournisseurs de prestations au sens de la LPASoc, qui exécutent des tâches en vertu de l’article 72, alinéa 1, lettre c LPASoc peuvent communiquer des données dans la mesure où celle-ci le prévoit.
 
-<sup>2</sup> La libération des fournisseurs de prestations de l’obligation de dénoncer prévue à l’article 48, alinéa 1 de la loi du 11 juin 2009 portant introduction du code de procédure civile, du code de procédure pénale et de la loi sur la procédure pénale applicable aux mineurs (LiCPM)[^20-1] est régie par analogie par les dispositions de la LASoc.
+<sup>2</sup> La libération des fournisseurs de prestations de l’obligation de dénoncer prévue à l’article 48, alinéa 1 de la loi du 11 juin 2009 portant introduction du code de procédure civile, du code de procédure pénale et de la loi sur la procédure pénale applicable aux mineurs (LiCPM)[^20-1] est régie par analogie par les dispositions de la LPASoc.
 
 <sup>3</sup> Les fournisseurs de prestations ont qualité pour dénoncer les faits dont ils ont connaissance lors de leurs activités et qui font soupçonner une infraction à l’article 27, alinéa 2.
 
-[^20-1]: RSB 271.1
+[^20-1]: RSB [271.1](https://www.belex.sites.be.ch/data/271.1/fr)
 
 #### Art. 21
 
@@ -267,7 +267,7 @@ arrête:
 
 <sup>2</sup> Dans des cas déterminés, ces autorités peuvent échanger des données personnelles, y compris des données personnelles particulièrement dignes de protection, qu’elles traitent dans le cadre de l’application de la présente loi au sujet des personnes titulaires de l’autorisation lorsque le ou la destinataire en a impérativement besoin pour accomplir ses tâches légales.
 
-<sup>3</sup> Dans des cas déterminés, elles peuvent de leur propre chef communiquer des données personnelles, y compris données personnelles particulièrement dignes de protection concernant des personnes titulaires de l’autorisation ou des personnes exerçant la prostitution à des fournisseurs de prestations au sens de l’article 58, alinéa 2 LASoc qui exécutent des tâches en vertu de l’article 71, lettre e LASoc, lorsque le ou la destinataire en a impérativement besoin pour accomplir ses tâches légales.
+<sup>3</sup> Dans des cas déterminés, elles peuvent de leur propre chef communiquer des données personnelles, y compris des données personnelles particulièrement dignes de protection concernant des personnes titulaires de l’autorisation ou exerçant la prostitution, à des fournisseurs de prestations au sens de la LPASoc qui exécutent des tâches en vertu de l’article 72, alinéa 1, lettre c LPASoc, lorsque le ou la destinataire en a impérativement besoin pour accomplir ses tâches légales.
 
 #### Art. 22
 
@@ -288,7 +288,7 @@ arrête:
 - a la Police cantonale,
 - b le service de la Direction de la sécurité compétent en matière d’immigration,
 - c les services communaux compétents pour l’application de la présente loi,
-- d les fournisseurs de prestations au sens de l’article 58, alinéa 2 LASoc, exécutant des tâches en vertu de l’article 71, lettre e LASoc.
+- d les fournisseurs de prestations au sens de la LPASoc qui exécutent des tâches en vertu de l’article 72, alinéa 1, lettre c LPASoc.
 
 <sup>2</sup> Les services habilités à accéder aux données par une procédure d’appel peuvent utiliser les données pour accomplir les tâches qui leur sont attribuées par la présente loi. L’accès doit être limité à raison du lieu et de la matière aux données nécessaires à l’accomplissement des tâches.
 

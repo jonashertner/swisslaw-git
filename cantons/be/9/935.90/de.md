@@ -4,13 +4,13 @@ number: "935.90"
 title: Gesetz über das Prostitutionsgewerbe
 short: PGG
 language: de
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-24
+version: 2022-01-01
+valid_until: 2026-08-31
+version_adopted: 2021-03-09
 adopted: 2012-06-07
 in_force: 2013-04-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/935.90"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2241/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2484/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2241/pdf_file"
 
 (PGG)
 
-vom 07.06.2012 (Stand 01.04.2021)
+vom 07.06.2012 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -154,13 +154,13 @@ beschliesst:
 - c sicherzustellen, dass die Räumlichkeiten den in der Gesetzgebung vorgesehenen Anforderungen für Sicherheit, Sauberkeit und Hygiene genügen,
 - d sicherzustellen, dass Personen, die die Prostitution ausüben, ausländerrechtlich dazu berechtigt sind,
 - e jeder übermässigen Beeinträchtigung der öffentlichen Ruhe und Ordnung vorzubeugen,
-- f sicherzustellen, dass die Leistungserbringer gemäss Artikel 58 Absatz 2 des Gesetzes vom 11. Juni 2001 über die öffentliche Sozialhilfe (Sozialhilfegesetz, SHG)[^11-1], die Aufgaben nach Artikel 71 Buchstabe e SHG ausführen, jederzeit Zutritt zu den Räumlichkeiten haben, die für die Ausübung der Prostitution bestimmt sind oder damit im Zusammenhang stehen,
+- f sicherzustellen, dass die Leistungserbringer gemäss dem Gesetz vom 9. März 2021 über die sozialen Leistungsangebote (SLG)[^11-1], die Aufgaben nach Artikel 72 Absatz 1 Buchstabe c SLG ausführen, jederzeit Zutritt zu den Räumlichkeiten haben, die für die Ausübung der Prostitution bestimmt sind oder damit im Zusammenhang stehen,
 - g sicherzustellen, dass die zuständigen Behörden gemäss Artikel 18 jederzeit Kontrollen gemäss Artikel 12 Absatz 1 durchführen können,
 - h der Bewilligungsbehörde umgehend jede Änderung in den persönlichen Voraussetzungen gemäss Artikel 8 mitzuteilen,
 - i bei einer Abwesenheit von mehr als einem Monat eine geeignete Stellvertreterin oder einen geeigneten Stellvertreter zu bestimmen und deren oder dessen Personalien der Bewilligungsbehörde mitzuteilen, wobei sie oder er für die Einhaltung aller massgebenden Bestimmungen verantwortlich bleibt,
 - k sicherzustellen, dass Personen, die die Prostitution ausüben, Zugang zu Informationen über Angebote nach Artikel 16 Absatz 1 haben.
 
-[^11-1]: BSG 860.1
+[^11-1]: BSG [860.2](https://www.belex.sites.be.ch/data/860.2/de)
 
 #### Art. 12
 
@@ -213,13 +213,13 @@ beschliesst:
 
 <sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion stellt Angebote zur Prävention und zur gesundheitlichen und sozialen Betreuung für Personen bereit, die im Kanton die Prostitution ausüben.
 
-<sup>2</sup> Im Übrigen gelten die Bestimmungen des SHG.
+<sup>2</sup> Im Übrigen gelten die Bestimmungen des SLG.
 
 #### Art. 17
 
 **Information der Personen, welche die Prostitution ausüben**
 
-<sup>1</sup> Die zuständigen Behörden und Leistungserbringer gemäss Artikel 58 Absatz 2 SHG sorgen dafür, dass die Personen, welche die Prostitution ausüben, ausreichend über ihre Rechte und Pflichten informiert werden.
+<sup>1</sup> Die zuständigen Behörden und Leistungserbringer gemäss SLG sorgen dafür, dass die Personen, welche die Prostitution ausüben, ausreichend über ihre Rechte und Pflichten informiert werden.
 
 ## 5 Zuständigkeiten, Zusammenarbeit und Datenschutz
 
@@ -241,7 +241,7 @@ beschliesst:
 
 **Zusammenarbeit**
 
-<sup>1</sup> Die zuständigen Behörden und Leistungserbringer gemäss Artikel 58 Absatz 2 SHG arbeiten zusammen, um eine einheitliche Umsetzung dieses Gesetzes zu gewährleisten.
+<sup>1</sup> Die zuständigen Behörden und Leistungserbringer gemäss SLG arbeiten zusammen, um eine einheitliche Umsetzung dieses Gesetzes zu gewährleisten.
 
 <sup>2</sup> Der Regierungsrat kann zu diesem Zweck eine Kommission als beratendes Fachorgan des Kantons und der Gemeinden einsetzen, der Aufgaben im Bereich der Evaluation übertragen werden können.
 
@@ -251,13 +251,13 @@ beschliesst:
 
 **Weitergabe von Informationen 1. Durch Leistungserbringer**
 
-<sup>1</sup> Leistungserbringer gemäss Artikel 58 Absatz 2 SHG, die Aufgaben nach Artikel 71 Buchstabe e SHG ausführen, dürfen Daten bekannt geben, soweit das SHG dies vorsieht.
+<sup>1</sup> Leistungserbringer gemäss SLG, die Aufgaben nach Artikel 72 Absatz 1 Buchstabe c SLG ausführen, dürfen Daten bekannt geben, soweit das SLG dies vorsieht.
 
-<sup>2</sup> Die Befreiung der Leistungserbringer von der Anzeigepflicht an die Staatsanwaltschaft gemäss Artikel 48 Absatz 1 des Einführungsgesetzes vom 11. Juni 2009 zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordnung (EG ZSJ)[^20-1] richtet sich sinngemäss nach dem SHG.
+<sup>2</sup> Die Befreiung der Leistungserbringer von der Anzeigepflicht an die Staatsanwaltschaft gemäss Artikel 48 Absatz 1 des Einführungsgesetzes vom 11. Juni 2009 zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordnung (EG ZSJ)[^20-1] richtet sich sinngemäss nach dem SLG.
 
 <sup>3</sup> Die Leistungserbringer sind zur Anzeige berechtigt, wenn sie im Zusammenhang mit ihrer Tätigkeit Wahrnehmungen machen, die den Verdacht auf eine Widerhandlung gegen Artikel 27 Absatz 2 begründen.
 
-[^20-1]: BSG 271.1
+[^20-1]: BSG [271.1](https://www.belex.sites.be.ch/data/271.1/de)
 
 #### Art. 21
 
@@ -267,7 +267,7 @@ beschliesst:
 
 <sup>2</sup> Die übrigen für den Vollzug dieses Gesetzes zuständigen Behörden dürfen untereinander im Einzelfall zum Vollzug dieses Gesetzes bearbeitete Personendaten einschliesslich besonders schützenswerter Personendaten über Bewilligungsinhaberinnen und Bewilligungsinhaber bekannt geben, wenn die Daten für die Empfängerin oder den Empfänger zur Erfüllung ihrer oder seiner gesetzlichen Aufgabe zwingend erforderlich sind.
 
-<sup>3</sup> Sie dürfen zudem von sich aus im Einzelfall Personendaten einschliesslich besonders schützenswerter Personendaten über Bewilligungsinhaberinnen und Bewilligungsinhaber sowie über Personen, welche die Prostitution ausüben, an Leistungserbringer gemäss Artikel 58 Absatz 2 SHG, die Aufgaben nach Artikel 71 Buchstabe e SHG ausführen, bekannt geben, wenn die Daten für die Empfängerin oder den Empfänger zur Erfüllung ihrer oder seiner gesetzlichen Aufgabe zwingend erforderlich sind.
+<sup>3</sup> Sie dürfen zudem von sich aus im Einzelfall Personendaten einschliesslich besonders schützenswerter Personendaten über Bewilligungsinhaberinnen und Bewilligungsinhaber sowie über Personen, welche die Prostitution ausüben, an Leistungserbringer gemäss SLG, die Aufgaben nach Artikel 72 Absatz 1 Buchstabe c SLG ausführen, bekannt geben, wenn die Daten für die Empfängerin oder den Empfänger zur Erfüllung ihrer oder seiner gesetzlichen Aufgabe zwingend erforderlich sind.
 
 #### Art. 22
 
@@ -288,7 +288,7 @@ beschliesst:
 - a der Kantonspolizei,
 - b der für den Bereich der Migration zuständigen Stelle der Sicherheitsdirektion,
 - c den zum Vollzug dieses Gesetzes zuständigen Stellen der Gemeinden,
-- d den Leistungserbringern gemäss Artikel 58 Absatz 2 SHG, die Aufgaben nach Artikel 71 Buchstabe e SHG ausführen.
+- d den Leistungserbringern gemäss SLG, die Aufgaben nach Artikel 72 Absatz 1 Buchstabe c SLG ausführen.
 
 <sup>2</sup> Die zum Abruf berechtigten Stellen dürfen die Daten zur Erfüllung der jeweiligen ihnen von diesem Gesetz zugewiesenen Aufgaben verwenden. Der Zugriff ist örtlich und sachlich auf diejenigen Daten zu beschränken, die zur Aufgabenerfüllung erforderlich sind.
 
