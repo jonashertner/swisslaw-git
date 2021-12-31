@@ -3,18 +3,18 @@ sr: "946.231.169.4"
 title: Verordnung vom 13. Mai 2009 über Massnahmen gegenüber Somalia
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/295"
 language: de
-version: 2020-08-25
+version: 2022-01-01
 adopted: 2009-05-13
 in_force: 2009-05-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/295/20200825/de/xml/fedlex-data-admin-ch-eli-cc-2009-295-20200825-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/295/20200825/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/295/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2009-295-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/295/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Somalia
 
-vom 13. Mai 2009 (Stand am 25. August 2020)
+vom 13. Mai 2009 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -126,11 +126,12 @@ In dieser Verordnung bedeuten:
 
 <sup>2</sup> Das SEM überwacht den Vollzug des Ein- und Durchreiseverbots nach Artikel 4.
 
-<sup>3</sup> Die Kontrolle an der Grenze obliegt der Eidgenössischen Zollverwaltung.
+<sup>3</sup> Die Kontrolle an der Grenze obliegt dem Bundesamt für Zoll und Grenzsicherheit[^5-2].
 
 <sup>4</sup> Die zuständigen Behörden ergreifen auf Anweisung des SECO die für die Sperrung wirtschaftlicher Ressourcen notwendigen Massnahmen, zum Beispiel die Anmerkung einer Verfügungssperre im Grundbuch oder die Pfändung oder Versiegelung von Luxusgütern.
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 22. Mai 2013, in Kraft seit vom 23. Mai 2013 ([AS 2013 1545](https://fedlex.data.admin.ch/eli/oc/2013/359)).
+[^5-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -152,7 +153,7 @@ In dieser Verordnung bedeuten:
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 22. Mai 2013, in Kraft seit vom 23. Mai 2013 ([AS 2013 1545](https://fedlex.data.admin.ch/eli/oc/2013/359)).
 
-## 3. Abschnitt: Automatische Übernahme von Listen und Inkrafttreten****
+## 3. Abschnitt: Automatische Übernahme von Listen und Inkrafttreten
 
 [^sec3-1]
 
@@ -174,7 +175,7 @@ Diese Verordnung tritt am 25. Mai 2009 in Kraft.
 
 [^8-1]: Eingefügt durch Ziff. I 17 der V vom 19. Dez. 2012 über die Änd. der Veröffentlichung der Anhänge von Embargoverordnungen, in Kraft seit 1. Febr. 2013 ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)).
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 1 Abs. 3, 2 Abs. 1, 4 Abs. 1 sowie 7*a*)
 
@@ -184,14 +185,14 @@ Anhang 1*[^t-1]*
 
 **Anmerkung**
 
-\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bzw. der vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichneten natürlichen Personen, Unternehmen und Organisationen.*[^annex1-lvlu1-1]*
+\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bzw. der vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichneten natürlichen Personen, Unternehmen und Organisationen.[^annex1-lvlu1-1]
 
-\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.*[^annex1-lvlu1-2]*
+\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annex1-lvlu1-2]
 
 [^annex1-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; Somalia and Eritrea Sanctions Committee &gt; Sanctions List Materials.
 [^annex1-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 1 Abs. 4 Bst. e)
 
@@ -206,7 +207,7 @@ Anhang 2*[^t-2]*
 - 5\. Zur militärischen Verwendung bestimmte Treibladungen und Vorrichtungen, die energetische Materialien enthalten, sowie Minen und damit zusammenhängendes Wehrmaterial
 - 6\. Visiere mit Nachtsichtfähigkeit
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 1*a*)
 

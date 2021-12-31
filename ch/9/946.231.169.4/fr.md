@@ -3,18 +3,18 @@ sr: "946.231.169.4"
 title: "Ordonnance du 13 mai 2009 instituant des mesures à l'encontre de la Somalie"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/295"
 language: fr
-version: 2020-08-25
+version: 2022-01-01
 adopted: 2009-05-13
 in_force: 2009-05-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/295/20200825/fr/xml/fedlex-data-admin-ch-eli-cc-2009-295-20200825-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/295/20200825/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/295/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-295-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/295/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Somalie
 
-du 13 mai 2009 (Etat le 25 août 2020)
+du 13 mai 2009 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -126,11 +126,12 @@ Au sens de la présente ordonnance, on entend par:
 
 <sup>2</sup> Le SEM surveille l’exécution de l’interdiction d’entrée et de transit prévue à l’art. 4.
 
-<sup>3</sup> Le contrôle à la frontière incombe à l’Administration fédérale des douanes.
+<sup>3</sup> Le contrôle à la frontière incombe à l’Office fédéral de la douane et de la sécurité des frontières[^5-2].
 
 <sup>4</sup> Sur instruction du SECO, les autorités compétentes prennent les mesures nécessaires pour le gel des ressources économiques, par exemple la mention d’un blocage du registre foncier ou la saisie ou la mise sous scellé de biens de luxe.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 22 mai 2013, en vigueur depuis le 23 mai 2013 ([RO 2013 1545](https://fedlex.data.admin.ch/eli/oc/2013/359)).
+[^5-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -152,7 +153,7 @@ Au sens de la présente ordonnance, on entend par:
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 22 mai 2013, en vigueur depuis le 23 mai 2013 ([RO 2013 1545](https://fedlex.data.admin.ch/eli/oc/2013/359)).
 
-## Section 3 Reprise automatique de listes et entrée en vigueur****
+## Section 3 Reprise automatique de listes et entrée en vigueur
 
 [^sec3-1]
 
@@ -174,7 +175,7 @@ La présente ordonnance entre en vigueur le 25 mai 2009.
 
 [^8-1]: Introduit par le ch. I 17 de l’O du 19 déc. 2012 modifiant la publication des annexes aux O relatives aux embargos, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)).
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 1, al. 3, 2, al. 1, 4, al. 1, et 7*a*)
 
@@ -184,14 +185,14 @@ Annexe 1*[^t-1]*
 
 **Remarque**
 
-\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent*[^annex1-lvlu1-1]*.
+\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent[^annex1-lvlu1-1].
 
-\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies*[^annex1-lvlu1-2]*.
+\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annex1-lvlu1-2].
 
 [^annex1-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: www.un.org/fr/sc &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions concernant la Somalie et l’Erythrée &gt; Matériaux relatifs à la liste de sanctions.
 [^annex1-lvlu1-2]: La banque de données SESAM est librement accessible Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 1, al. 4, let. e)
 
@@ -206,7 +207,7 @@ Annexe 2*[^t-2]*
 - 5\. Charges et dispositifs à usage militaire contenant des matériaux énergétiques, mines et matériel connexe
 - 6\. Dispositifs de tirs de nuit
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 1*a*)
 

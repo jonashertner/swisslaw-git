@@ -3,18 +3,18 @@ sr: "946.231.169.4"
 title: Ordinanza del 13 maggio 2009 che istituisce provvedimenti nei confronti della Somalia
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/295"
 language: it
-version: 2020-08-25
+version: 2022-01-01
 adopted: 2009-05-13
 in_force: 2009-05-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/295/20200825/it/xml/fedlex-data-admin-ch-eli-cc-2009-295-20200825-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/295/20200825/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/295/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-295-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/295/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Somalia
 
-del 13 maggio 2009 (Stato 25 agosto 2020)
+del 13 maggio 2009 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -126,11 +126,12 @@ Nella presente ordinanza s’intende per:
 
 <sup>2</sup> La SEM sorveglia l’esecuzione del divieto di entrata e di transito di cui all’articolo 4.
 
-<sup>3</sup> Il controllo al confine è di competenza dell’Amministrazione federale delle dogane.
+<sup>3</sup> Il controllo al confine è di competenza dell’Ufficio federale della dogana e della sicurezza dei confini[^5-2].
 
 <sup>4</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
 
 [^5-1]: Nuovo testo giusta il n. I dell’O del 22 mag. 2013, in vigore dal 23 mag. 2013 ([RU 2013 1545](https://fedlex.data.admin.ch/eli/oc/2013/359)).
+[^5-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -152,7 +153,7 @@ Nella presente ordinanza s’intende per:
 
 [^7-1]: Nuovo testo giusta il n. I dell’O del 22 mag. 2013, in vigore dal 23 mag. 2013 ([RU 2013 1545](https://fedlex.data.admin.ch/eli/oc/2013/359)).
 
-## Sezione 3: Recepimento automatico di liste ed entrata in vigore****
+## Sezione 3: Recepimento automatico di liste ed entrata in vigore
 
 [^sec3-1]
 
@@ -174,7 +175,7 @@ La presente ordinanza entra in vigore il 25 maggio 2009.
 
 [^8-1]: Introdotta dal n. I 17 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi, in vigore dal 1° feb. 2013 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)).
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 1 cpv. 3, 2 cpv. 1, 4 cpv. 1 e 7*a*)
 
@@ -184,14 +185,14 @@ Allegato 1*[^t-1]*
 
 **Nota bene**
 
-\1. Il presente allegato corrisponde alle liste delle persone fisiche, imprese e organizzazioni indicate dal Consiglio di sicurezza delle Nazioni Unite o dal comitato competente del Consiglio di sicurezza delle Nazioni Unite*[^annex1-lvlu1-1]*.
+\1. Il presente allegato corrisponde alle liste delle persone fisiche, imprese e organizzazioni indicate dal Consiglio di sicurezza delle Nazioni Unite o dal comitato competente del Consiglio di sicurezza delle Nazioni Unite[^annex1-lvlu1-1].
 
-\2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite*[^annex1-lvlu1-2]*.
+\2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite[^annex1-lvlu1-2].
 
 [^annex1-lvlu1-1]: La lista è consultabile ai seguenti indirizzi Internet: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; Somalia and Eritrea Sanctions Committee &gt; Sanctions List Materials.
 [^annex1-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet:
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 1 cpv. 4 lett. e)
 
@@ -206,7 +207,7 @@ Allegato 2*[^t-2]*
 - 5\. Cariche e dispositivi a uso militare contenenti materiali energetici, mine e materiale connesso
 - 6\. Congegni di mira con capacità di visione notturna
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 1*a*)
 
