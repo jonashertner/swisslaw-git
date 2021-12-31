@@ -4,13 +4,13 @@ number: "121.111"
 title: Ordonnance sur le droit de cité cantonal et le droit de cité communal
 short: "Ordonnance sur le droit de cité, ODC"
 language: fr
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-24
+version: 2022-01-01
+valid_until: 2026-08-31
+version_adopted: 2021-11-03
 adopted: 2017-09-20
 in_force: 2018-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/121.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2217/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2503/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2217/pdf_file"
 
 (Ordonnance sur le droit de cité, ODC)
 
-du 20.09.2017 (état au 01.04.2021)
+du 20.09.2017 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -378,6 +378,18 @@ arrête:
 <sup>4</sup> Le montant des émoluments cantonaux est régi par l'ordonnance du 22 février 1995 fixant les émoluments de l'administration cantonale (ordonnance sur les émoluments, OEmo)[^27-1].
 
 [^27-1]: RSB 154.21
+
+## 4a Protection des données
+
+#### Art. 27a
+
+<sup>1</sup> Les autorités compétentes en matière de naturalisation peuvent utiliser des systèmes électroniques de traitement des données pour traiter les données dans leur champ d'activité.
+
+<sup>2</sup> Les collaborateurs et collaboratrices des autorités compétentes en matière de naturalisation n'ont accès qu'aux données de leur champ d'activité dans les systèmes électroniques cantonaux de traitement des données.
+
+<sup>3</sup> Le traitement, la conservation et la destruction de données dans les systèmes de traitement des données sont régis par la loi du 19 février 1986 sur la protection des données (LCPD)[^27a-1].
+
+[^27a-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
 
 ## 5 Dispositions finales
 

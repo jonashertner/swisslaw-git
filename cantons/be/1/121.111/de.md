@@ -4,13 +4,13 @@ number: "121.111"
 title: Verordnung über das Kantons- und Gemeindebürgerrecht
 short: "Kantonale Bürgerrechtsverordnung, KBüV"
 language: de
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-24
+version: 2022-01-01
+valid_until: 2026-08-31
+version_adopted: 2021-11-03
 adopted: 2017-09-20
 in_force: 2018-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/121.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2217/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2503/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2217/pdf_file"
 
 (Kantonale Bürgerrechtsverordnung, KBüV)
 
-vom 20.09.2017 (Stand 01.04.2021)
+vom 20.09.2017 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -378,6 +378,18 @@ beschliesst:
 <sup>4</sup> Die kantonalen Gebührensätze richten sich nach der Verordnung vom 22. Februar 1995 über die Gebühren der Kantonsverwaltung (Gebührenverordnung, GebV)[^27-1].
 
 [^27-1]: BSG 154.21
+
+## 4a Datenschutz
+
+#### Art. 27a
+
+<sup>1</sup> Die Einbürgerungsbehörden können zur Datenbearbeitung in ihrem Aufgabenbereich elektronische Datenbearbeitungssysteme betreiben.
+
+<sup>2</sup> Die Zugriffsrechte der Mitarbeiterinnen und Mitarbeiter der Einbürgerungsbehörden auf die kantonalen elektronischen Datenbearbeitungssysteme beschränken sich auf ihren Aufgabenbereich.
+
+<sup>3</sup> Die Datenbearbeitung, -aufbewahrung und -vernichtung in den elektronischen Datenbearbeitungssystemen richten sich nach dem Datenschutzgesetz vom 19. Februar 1986 (KDSG)[^27a-1].
+
+[^27a-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
 
 ## 5 Schlussbestimmungen
 
