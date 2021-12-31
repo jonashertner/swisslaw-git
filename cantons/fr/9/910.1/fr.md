@@ -4,13 +4,12 @@ number: "910.1"
 title: "Loi sur l'agriculture"
 short: LAgri
 language: fr
-version: 2018-04-01
-valid_until: 2021-12-31
-version_adopted: 2018-02-07
+version: 2022-01-01
+version_adopted: 2021-11-05
 adopted: 2006-10-03
 in_force: 2007-03-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/910.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5664/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7064/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Agriculture – L
 
 (LAgri)
 
-du 03.10.2006 (version entrée en vigueur le 01.04.2018)
+du 03.10.2006 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -96,7 +95,7 @@ Décrète:
 
 <sup>1</sup> Le Conseil d'Etat a les attributions suivantes:
 
-- a) il fixe, pour chaque période de quatre ans, les objectifs généraux de politique agricole, en particulier de promotion de produits agricoles, détermine les priorités, assure les moyens et les ressources prévisibles pour la mise en œuvre des mesures légales et livre pour chaque période un rapport de situation;
+- a) il fixe, pour chaque période de cinq ans, les objectifs généraux de politique agricole, en particulier de promotion de produits agricoles, détermine les priorités, assure les moyens et les ressources prévisibles pour la mise en œuvre des mesures légales et livre pour chaque période un rapport de situation;
 - b) il statue sur les aides financières qui relèvent de sa compétence;
 - c) il se détermine sur les questions de la politique agricole qui ont une portée générale, notamment lors des procédures de consultation de la Confédération;
 - d) il favorise la collaboration intercantonale, approuve les accords conclus avec les tiers en vue de l'application de la présente loi et conclut les conventions intercantonales, sous réserve des droits du Grand Conseil;
@@ -115,29 +114,21 @@ Décrète:
 
 #### Art. 7
 
-**Service de l'agriculture**
+**Grangeneuve**
 
-<sup>1</sup> Le service responsable de l'agriculture[^7-1] (ci-après: le Service) est l'unité administrative chargée des questions agricoles, y compris celles qui se rapportent aux aides structurelles et aux mesures d'accompagnement social.
+<sup>1</sup> Grangeneuve est chargé des questions agricoles, y compris celles qui se rapportent aux aides structurelles et aux mesures d'accompagnement social.
 
-<sup>2</sup> Il exécute les tâches qui lui sont confiées par la législation spéciale ou qui lui sont déléguées; il décide en particulier de l'octroi de toutes les contributions directes prévues par la législation fédérale (paiements directs au sens des articles 70 à 77 LAgr) et par la législation cantonale qui répondent aux mêmes critères.
+<sup>2</sup> Il exécute les tâches qui lui sont confiées par la législation spéciale ou qui lui sont déléguées; il décide en particulier de l'octroi de toutes les contributions directes prévues par la législation fédérale (paiements directs) et par la législation cantonale qui répondent aux mêmes critères.
 
-[^7-1]: Actuellement: Service de l'agriculture.
+<sup>3</sup> Il assure l'offre et la gestion de ​la formation professionnelle initiale et ​des formations supérieures et continues à des fins professionnelles ainsi que de la formation des ​adultes, notamment dans le domaine agricole.
+
+<sup>4</sup> Il assure la vulgarisation, le conseil, la recherche appliquée et les essais dans les domaines agricole et para-agricole, tels que la technologie laitière et alimentaire ainsi que l'agro-commerce.
+
+<sup>5</sup> Il est chargé en outre de l'exécution de tâches et des activités de service de nature technique relevant de ces mêmes domaines.
 
 #### Art. 8
 
-**Institut agricole de l'Etat de Fribourg**
-
-<sup>1</sup> L'Institut agricole de l'Etat de Fribourg assure la formation professionnelle initiale, supérieure et continue dans les domaines qui sont notamment:
-
-- a) l'agriculture;
-- b) l'économie familiale;
-- c) l'économie forestière;
-- d) la technologie laitière et en denrées alimentaires;
-- e) l'agro-commerce.
-
-<sup>2</sup> Il assure la vulgarisation, le conseil, la recherche appliquée et les essais dans les domaines agricole et para-agricole tels que la technologie laitière et alimentaire ainsi que l'agro-commerce.
-
-<sup>3</sup> Il est chargé en outre de l'exécution de tâches et des activités de service de nature technique relevant de ces mêmes domaines et de celles qui lui sont confiées par la législation spéciale.
+**…**
 
 #### Art. 9
 
@@ -201,7 +192,7 @@ Décrète:
 
 #### Art. 15
 
-<sup>1</sup> Les activités et les mesures en faveur de la formation professionnelle, de la vulgarisation, du conseil, de la recherche appliquée, d'essais ou de services sont régies par la loi sur l'Institut agricole de l'Etat de Fribourg.
+<sup>1</sup> Les activités et les mesures en faveur de la formation professionnelle, de la vulgarisation, du conseil, de la recherche appliquée, d'essais ou de services sont régies par la loi sur Grangeneuve.
 
 <sup>2</sup> La législation sur la formation professionnelle initiale et continue est réservée.
 
@@ -387,29 +378,32 @@ Décrète:
 
 #### Art. 35
 
-**Méthodes et techniques culturales – Principes**
+**Contributions à l'utilisation efficiente des ressources naturelles et à la biodiversité – Principes**
 
-<sup>1</sup> Par des aides financières, sous forme de contributions non remboursables, l'Etat encourage l'application de méthodes et techniques culturales préservant le sol agricole.
+<sup>1</sup> Par des aides financières, sous forme de contributions non remboursables, l'Etat encourage l'application de techniques et de processus d'exploitation, ainsi que l'utilisation et l'acquisition d'équipements et d'installations qui préservent le sol agricole, l'eau, l'air et la biodiversité.
 
 <sup>2</sup> Le Conseil d'Etat fixe les mesures y relatives qui peuvent être encouragées.
 
 #### Art. 36
 
-**Méthodes et techniques culturales – Bénéficiaires**
+**Contributions à l'utilisation efficiente des ressources naturelles et à la biodiversité – Bénéficiaires**
 
-<sup>1</sup> Les contributions peuvent être octroyées aux exploitations qui s'engagent à pratiquer les méthodes concernées pour une durée minimale de cinq ans.
+<sup>1</sup> Les contributions peuvent être octroyées aux exploitants et exploitantes, qui sont éligibles aux paiements directs et:
+
+- a) qui s'engagent à pratiquer les techniques ou processus d'exploitation concernés; ou
+- b) qui acquièrent, dans le cadre de l'exploitation de leur domaine, les équipements et installations concernés.
+
+<sup>2</sup> Les entreprises qui effectuent des travaux agricoles peuvent aussi bénéficier des contributions pour l'acquisition de machines.
 
 #### Art. 37
 
-**Méthodes et techniques culturales – Montants des contributions**
-
-<sup>1</sup> Les contributions s'élèvent annuellement au plus à 600 francs par hectare.
+**…**
 
 #### Art. 38
 
-**Méthodes et techniques culturales – Autres conditions et procédure**
+**Contributions à l'utilisation efficiente des ressources naturelles et à la biodiversité – Conditions et procédure**
 
-<sup>1</sup> Le Conseil d'Etat fixe les modalités et la procédure d'octroi de ces contributions.
+<sup>1</sup> Le Conseil d'Etat fixe les conditions, les modalités de calcul et la procédure d'octroi de ces contributions.
 
 #### Art. 39
 
@@ -449,11 +443,13 @@ Décrète:
 
 **Voies de droit**
 
-<sup>1</sup> Les décisions prises en application de la présente loi sont sujettes à recours conformément au code de procédure et de juridiction administrative.
+<sup>1</sup> Les décisions prises en application de la présente loi sont sujettes à recours auprès de la Direction. Demeurent réservées les dispositions prévues par la législation spéciale, notamment la loi sur Grangeneuve.
 
-<sup>2</sup> Toutefois, les décisions relatives aux demandes d'aides financières rendues par le Service sont sujettes à réclamation auprès de celui-ci, dans les dix jours dès leur communication.
+<sup>2</sup> Toutefois, les décisions prises par Grangeneuve en matière d'aides financières dans le domaine des paiements directs et des aides cantonales répondant aux mêmes critères sont sujettes à réclamation auprès de l'autorité qui a statué, dans les dix jours dès leur communication.
 
 <sup>3</sup> La réclamation est écrite; elle contient une brève indication des motifs et des conclusions.
+
+<sup>4</sup> Pour le surplus, le code de procédure et de juridiction administrative est applicable.
 
 ## 8 Dispositions finales
 

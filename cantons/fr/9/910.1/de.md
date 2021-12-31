@@ -4,13 +4,12 @@ number: "910.1"
 title: Landwirtschaftsgesetz
 short: LandwG
 language: de
-version: 2018-04-01
-valid_until: 2021-12-31
-version_adopted: 2018-02-07
+version: 2022-01-01
+version_adopted: 2021-11-05
 adopted: 2006-10-03
 in_force: 2007-03-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/910.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/5664/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7064/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Landwirtschaftsgesetz
 
 (LandwG)
 
-vom 03.10.2006 (Fassung in Kraft getreten am 01.04.2018)
+vom 03.10.2006 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -96,7 +95,7 @@ beschliesst:
 
 <sup>1</sup> Der Staatsrat hat folgende Befugnisse:
 
-- a) Er legt für einen Zeitraum von jeweils 4 Jahren die allgemeinen agrarpolitischen Ziele, insbesondere diejenigen zur Förderung der Agrarprodukte fest, setzt die Prioritäten, beschafft die voraussichtlichen Mittel und Ressourcen für die Umsetzung der gesetzlichen Massnahmen und legt für jeden Zeitraum einen Lagebericht vor.
+- a) Er legt für einen Zeitraum von jeweils 5 Jahren die allgemeinen agrarpolitischen Ziele, insbesondere diejenigen zur Förderung der Agrarprodukte fest, setzt die Prioritäten, beschafft die voraussichtlichen Mittel und Ressourcen für die Umsetzung der gesetzlichen Massnahmen und legt für jeden Zeitraum einen Lagebericht vor.
 - b) Er entscheidet über die Finanzhilfen, für die er zuständig ist.
 - c) Er nimmt namentlich im Rahmen von Vernehmlassungen des Bundes Stellung zu agrarpolitischen Fragen von allgemeiner Tragweite.
 - d) Er fördert die interkantonale Zusammenarbeit, genehmigt die im Hinblick auf die Anwendung dieses Gesetzes geschlossenen Abkommen mit Dritten und schliesst die interkantonalen Verträge ab; die Rechte des Grossen Rates bleiben vorbehalten.
@@ -115,29 +114,21 @@ beschliesst:
 
 #### Art. 7
 
-**Amt für Landwirtschaft**
+**Grangeneuve**
 
-<sup>1</sup> Das für die Landwirtschaft zuständige Amt[^7-1] (das Amt) ist die Verwaltungseinheit, die für Fragen der Landwirtschaft, einschliesslich der Fragen im Zusammenhang mit Strukturhilfen und sozialen Begleitmassnahmen, zuständig ist.
+<sup>1</sup> Grangeneuve ist für Fragen der Landwirtschaft, einschliesslich der Fragen im Zusammenhang mit Strukturhilfen und sozialen Begleitmassnahmen, zuständig.
 
-<sup>2</sup> Es nimmt die Aufgaben wahr, die ihm übertragen werden oder für die es gemäss der Spezialgesetzgebung zuständig ist; es entscheidet insbesondere über die Ausrichtung der in der Bundesgesetzgebung vorgesehenen Direktbeiträge (Direktzahlungen im Sinne von Artikel 70–77 LwG) sowie der Beiträge nach kantonaler Gesetzgebung, die denselben Kriterien entsprechen.
+<sup>2</sup> Es nimmt die Aufgaben wahr, die ihm übertragen werden oder für die es gemäss der Spezialgesetzgebung zuständig ist; es entscheidet insbesondere über die Ausrichtung der in der Bundesgesetzgebung vorgesehenen Direktbeiträge (Direktzahlungen) sowie der Beiträge nach kantonaler Gesetzgebung, die denselben Kriterien entsprechen.
 
-[^7-1]: Heute: Amt für Landwirtschaft.
+<sup>3</sup> Es gewährleistet das Angebot und das Management der beruflichen Grundbildung und der höheren Berufs- und Weiterbildung sowie der Erwachsenenbildung, namentlich im Landwirtschaftsbereich.
+
+<sup>4</sup> Es gewährleistet die Beratung, die angewandte Forschung und die Versuche in den landwirtschaftlichen und paralandwirtschaftlichen Bereichen wie Milch- und Lebensmitteltechnologie und der Vermarktung landwirtschaftlicher Produkte.
+
+<sup>5</sup> Es ist ausserdem für Aufgaben und Dienstleistungen technischer Natur in diesen Bereichen zuständig.
 
 #### Art. 8
 
-**Landwirtschaftliches Institut des Kantons Freiburg**
-
-<sup>1</sup> Das Landwirtschaftliche Institut des Kantons Freiburg gewährleistet die berufliche Grundbildung, höhere Berufsbildung und Weiterbildung, namentlich in folgenden Bereichen:
-
-- a) in der Landwirtschaft;
-- b) in der Hauswirtschaft;
-- c) in der Forstwirtschaft;
-- d) in der Milch- une Lebensmitteltechnologie;
-- e) im agro-kaufmännischen Bereich.
-
-<sup>2</sup> Es gewährleistet die Beratung, die angewandte Forschung und die Versuche in den landwirtschaftlichen und paralandwirtschaftlichen Bereichen wie Milch- und Lebensmitteltechnologie und dem agro-kaufmännischen Bereich.
-
-<sup>3</sup> Es ist ausserdem für Aufgaben und Dienstleistungen technischer Natur in diesen Bereichen und für diejenigen, die ihm durch die Spezialgesetzgebung übertragen werden zuständig.
+**…**
 
 #### Art. 9
 
@@ -201,7 +192,7 @@ beschliesst:
 
 #### Art. 15
 
-<sup>1</sup> Die Tätigkeiten und Massnahmen zugunsten der Berufsbildung, der Beratung, der angewandten Forschung, von Versuchen oder Dienstleistungen werden im Gesetz über das Landwirtschaftliche Institut des Kantons Freiburg geregelt.
+<sup>1</sup> Die Tätigkeiten und Massnahmen zugunsten der Berufsbildung, der Beratung, der angewandten Forschung, von Versuchen oder Dienstleistungen werden im Gesetz über Grangeneuve geregelt.
 
 <sup>2</sup> Die Gesetzgebung über die berufliche Grundbildung und die berufsorientierte Weiterbildung bleibt vorbehalten.
 
@@ -387,29 +378,32 @@ beschliesst:
 
 #### Art. 35
 
-**Anbaumethoden und -techniken – Grundsätze**
+**Beiträge an die effiziente Nutzung natürlicher Ressourcen und an die Biodiversität – Grundsätze**
 
-<sup>1</sup> Der Staat fördert die Anwendung von Anbaumethoden und -techniken zum Schutz landwirtschaftlicher Böden, indem er Finanzhilfen in Form von nicht rückzahlbaren Beiträgen gewährt.
+<sup>1</sup> Der Staat fördert die Anwendung von Techniken und betrieblichen Verfahren sowie die Verwendung und den Erwerb von Einrichtungen und Anlagen zum Schutz landwirtschaftlicher Böden, des Wassers, der Luft und der Biodiversität, indem er Finanzhilfen in Form von nicht rückzahlbaren Beiträgen gewährt.
 
 <sup>2</sup> Der Staatsrat legt die entsprechenden Massnahmen, die gefördert werden können, fest.
 
 #### Art. 36
 
-**Anbaumethoden und -techniken – Empfänger**
+**Beiträge an die effiziente Nutzung natürlicher Ressourcen und an die Biodiversität – Empfänger**
 
-<sup>1</sup> Die Beiträge können Betrieben gewährt werden, die sich verpflichten, die betreffenden Methoden während mindestens fünf Jahren anzuwenden.
+<sup>1</sup> Die Beiträge können Bewirtschafterinnen und Bewirtschaftern gewährt werden, die Direktzahlungen erhalten und:
+
+- a) die sich verpflichten, die betreffenden Techniken oder betrieblichen Verfahren anzuwenden;
+- b) oder welche die betreffenden Einrichtungen und Anlagen im Rahmen der Bewirtschaftung ihres Betriebs erwerben.
+
+<sup>2</sup> Unternehmen, die landwirtschaftliche Arbeiten ausführen, können für den Erwerb von Maschinen ebenfalls Beiträge erhalten.
 
 #### Art. 37
 
-**Anbaumethoden und -techniken – Höhe der Beiträge**
-
-<sup>1</sup> Die Beiträge belaufen sich je Hektare und Jahr auf höchstens 600 Franken.
+**…**
 
 #### Art. 38
 
-**Anbaumethoden und -techniken – Weitere Bedingungen und Verfahren**
+**Beiträge an die effiziente Nutzung natürlicher Ressourcen und an die Biodiversität – Bedingungen und Verfahren**
 
-<sup>1</sup> Der Staatsrat legt die Einzelheiten und das Verfahren für die Gewährung dieser Beiträge fest.
+<sup>1</sup> Der Staatsrat legt die Bedingungen, die Berechnungsmodalitäten und das Verfahren für die Gewährung dieser Beiträge fest.
 
 #### Art. 39
 
@@ -449,11 +443,13 @@ beschliesst:
 
 **Rechtsmittel**
 
-<sup>1</sup> Gegen Entscheide, die in Anwendung dieses Gesetzes gefällt werden, kann gemäss dem Gesetz über die Verwaltungsrechtspflege Beschwerde erhoben werden.
+<sup>1</sup> Gegen Entscheide, die in Anwendung dieses Gesetzes gefällt werden, kann bei der Direktion Beschwerde erhoben werden. Die Bestimmungen der Spezialgesetzgebung, namentlich des Gesetzes über Grangeneuve, bleiben vorbehalten.
 
-<sup>2</sup> Gegen die vom Amt gefällten Entscheide über Gesuche um Finanzhilfen kann innert 10 Tagen seit der Mitteilung beim Amt Einsprache erhoben werden.
+<sup>2</sup> Gegen die Entscheide von Grangeneuve über Finanzhilfen im Bereich der Direktzahlungen und der kantonalen Hilfen, die denselben Kriterien entsprechen, kann innert 10 Tagen seit der Mitteilung bei der entscheidenden Behörde Einsprache erhoben werden.
 
 <sup>3</sup> Die Einsprache muss schriftlich eingereicht werden und eine kurze Begründung sowie Rechtsbegehren enthalten.
+
+<sup>4</sup> Im Übrigen gilt das Gesetz über die Verwaltungsrechtspflege.
 
 ## 8 Schlussbestimmungen
 
