@@ -4,11 +4,11 @@ title: "Ordinanza del 4 dicembre 2009 sulle misure di polizia amministrativa del
 short: OMPAH
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/847"
 language: it
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2009-12-04
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/847/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2009-847-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/847/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-847-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20210401/it"
 
 (OMPAH)**[^t-1]**
 
-del 4 dicembre 2009 (Stato 1° aprile 2021)
+del 4 dicembre 2009 (Stato 1° gennaio 2022)
 
-[^t-1]: Nuovo testo giusta l’appendice 2 n. 1 all’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^t-1]: Nuovo testo giusta l’appendice 2 n. 1 dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
 Il Consiglio federale svizzero,
 
@@ -42,13 +42,13 @@ La presente ordinanza disciplina:
 - b. il sistema d’informazione HOOGAN di fedpol;
 - c.[^1-1] ...
 
-[^1-1]: Abrogata dell’appendice 2 n. 1 dell’O del 21 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^1-1]: Abrogata dall’appendice 2 n. 1 dell’O del 21 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
 #### Art. 2
 
 [^2-1]
 
-[^2-1]: Abrogato dAll’appendice 2 n. 1 dell’O del 21 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^2-1]: Abrogato dall’appendice 2 n. 1 dell’O del 21 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
 ## Sezione 2: Misure di polizia amministrativa contro il materiale di propaganda
 
@@ -105,11 +105,13 @@ Un comportamento violento e atti violenti sono considerati tali segnatamente se 
 Sono considerate prove di un comportamento violento:
 
 - a. sentenze giudiziarie o denunce della polizia pertinenti;
-- b. dichiarazioni attendibili o registrazioni visive della polizia, dell’Amministrazione delle dogane, del personale addetto alla sicurezza o delle federazioni e delle società sportive;
+- b. dichiarazioni attendibili o registrazioni visive della polizia, dell’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^5-1], del personale addetto alla sicurezza o delle federazioni e delle società sportive;
 - c. divieti di accedere a stadi pronunciati dalle federazioni o dalle società sportive;
 - d. comunicazioni di un’autorità straniera competente in materia.
 
 <sup>2</sup> Le dichiarazioni ai sensi del capoverso 1 lettera b sono messe per scritto e firmate.
+
+[^5-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 6
 
@@ -208,7 +210,7 @@ Le seguenti autorità possono accedere a HOOGAN esclusivamente per gli scopi seg
 
 - b. i collaboratori delle autorità di polizia dei Cantoni responsabili di prevenire la violenza in occasione di manifestazioni sportive: per pronunciare interdizioni di accedere a un’area, obblighi di presentarsi alla polizia e fermi preventivi di polizia, per analizzare e valutare la situazione e per trasmettere dati personali agli organizzatori di manifestazioni sportive in Svizzera;
 - c. i servizi delle autorità di polizia dei Cantoni: per identificare le persone in relazione alla violenza in occasione di manifestazioni sportive;
-- d. i servizi del Corpo delle guardie di confine (Cgcf) dell’Amministrazione federale delle dogane (AFD): per applicare i divieti limitati di lasciare la Svizzera e i divieti di entrata;
+- d. i servizi del Corpo delle guardie di confine (Cgcf) dell’UDSC: per applicare i divieti limitati di lasciare la Svizzera e i divieti di entrata;
 - e. le unità del Servizio centrale svizzero in materia di tifoseria violenta (Servizio centrale): per eseguire una prima valutazione delle comunicazioni pervenute in materia di divieti di accedere a stadi e dei rapporti sulle manifestazioni sportive redatti dagli organizzatori delle medesime, nonché per richiedere di pronunciare divieti limitati di lasciare la Svizzera, interdizioni di accedere a un’area e obblighi di presentarsi alla polizia.
 
 <sup>2</sup> Per accedere a HOOGAN può essere concesso un diritto d’accesso integrale o limitato. L’accesso integrale consente di leggere, inserire, modificare e cancellare i dati. L’accesso limitato consente unicamente di leggere i dati attivi al momento della consultazione concernenti un caso concreto.[^9-2]
@@ -316,7 +318,7 @@ Fedpol disciplina in un regolamento sul trattamento dei dati:
 
 [^1428-1]
 
-[^1428-1]: Abrogati dell’appendice 2 n. 1 all’O del 21 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^1428-1]: Abrogati dall’appendice 2 n. 1 dell’O del 21 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
 ## Sezione 6: Entrata in vigore
 
@@ -344,7 +346,7 @@ STF = Sezione Tifoseria violenta
 
 CSI = Centro servizi informatici DFGP
 
-AFD = Amministrazione federale delle dogane
+UDSC = Ufficio federale della dogana e della sicurezza dei confini
 
 SCTF = Servizio centrale svizzero in materia di tifoseria violenta
 
@@ -356,7 +358,7 @@ R = Polizia cantonale
 
 <table>
 <tr><td></td><td></td><td></td><td></td><td colspan="7">**Accesso integrale - HOOGAN Sistema operativo**</td><td colspan="2">**Accesso limitato a HOOGAN via RIPOL**</td></tr>
-<tr><td></td><td></td><td></td><td>**Servizio**</td><td>fedpol STF</td><td>fedpol STF</td><td>AFD, Cantoni, SCTF</td><td>fedpol STF</td><td>fedpol STF, CSI</td><td>Cantoni, SCTF</td><td>SCTF</td><td colspan="2">Unità organizzative E, F, R</td></tr>
+<tr><td></td><td></td><td></td><td>**Servizio**</td><td>fedpol STF</td><td>fedpol STF</td><td>UDSC, Cantoni, SCTF</td><td>fedpol STF</td><td>fedpol STF, CSI</td><td>Cantoni, SCTF</td><td>SCTF</td><td colspan="2">Unità organizzative E, F, R</td></tr>
 <tr><td></td><td></td><td></td><td>**Scopo trattamento**</td><td>fedpol Analisi preliminare − −&gt;</td><td>fedpol Garanzia della qualità − −&gt;</td><td>Utente − −&gt;</td><td>Amminis tratore − −&gt;</td><td>Amministra tore tecnico − −&gt;</td><td>Collaboratore responsabile − −&gt;</td><td>Collaboratore responsabile SCTF − −&gt;</td><td>Utente via RIPOL</td><td>Amministratore utenti RIPOL</td></tr>
 <tr><td>**Settore dei dati**</td><td>**Campi di dati**</td><td>**Diritti di trattamento**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Persona</td><td>Generalità, indirizzo, misure, violazioni delle misure, evento legato alla persona, relazione</td><td colspan="2">inserire provvisoriamente</td><td>LAE</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LAE</td><td>LAE</td><td>-</td><td>-</td></tr>

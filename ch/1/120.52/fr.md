@@ -4,11 +4,11 @@ title: "Ordonnance du 4 décembre 2009 sur les mesures de police administrative 
 short: OMAH
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/847"
 language: fr
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2009-12-04
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/847/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2009-847-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/847/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-847-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20210401/fr"
 
 (OMAH)**[^t-1]**
 
-du 4 décembre 2009 (Etat le 1<sup>er</sup> avril 2021)
+du 4 décembre 2009 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. 1 de l’appendice 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
@@ -105,11 +105,13 @@ Il y a notamment comportement violent et actes de violence lorsqu’une personne
 Sont considérés comme preuve d’un comportement violent:
 
 - a. les décisions judiciaires ou les dénonciations policières allant dans ce sens;
-- b. les témoignages crédibles ou les prises de vue de la police, de l’administration des douanes, du personnel de sécurité ou des fédérations et associations sportives;
+- b. les témoignages crédibles ou les prises de vue de la police, de l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^5-1], du personnel de sécurité ou des fédérations et associations sportives;
 - c. les interdictions de stade prononcées par les fédérations ou associations sportives;
 - d. les communications d’une autorité étrangère compétente.
 
 <sup>2</sup> Les témoignages visés à l’al. 1, let. b, doivent être déposés par écrit et signés.
+
+[^5-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 6
 
@@ -207,7 +209,7 @@ Les autorités ci-après ont accès à HOOGAN exclusivement aux fins suivantes:
 
 - b. les collaborateurs des autorités cantonales de police chargés d’empêcher la violence lors de manifestations sportives: pour les interdictions de périmètre, les obligations de se présenter à la police et les gardes à vue, pour l’évaluation de l’analyse et l’appréciation de la situation, ainsi que pour la communication de données personnelles aux organisateurs de manifestations sportives en Suisse;
 - c. les services des autorités cantonales de police: pour l’identification des personnes en cas de violence lors de manifestations sportives;
-- d. les services du Corps des gardes-frontière (Cgfr) de l’Administration fédérale des douanes (AFD): pour l’exécution des interdictions de se rendre dans un pays donné et d’entrer sur le territoire suisse;
+- d. les services du Corps des gardes-frontière (Cgfr) de l’OFDF pour l’exécution des interdictions de se rendre dans un pays donné et d’entrer sur le territoire suisse;
 - e. les services de l’Observatoire suisse du hooliganisme: pour l’examen préalable des communications reçues concernant les interdictions de stade et les rapports relatifs aux manifestations sportives des organisateurs de manifestations sportives, ainsi que pour les demandes d’interdiction de se rendre dans un pays donné, d’interdiction de périmètre et d’obligation de se présenter à la police.
 
 <sup>2</sup> Un accès complet ou un accès partiel à HOOGAN peut être autorisé. L’accès complet permet la lecture, la saisie, la modification et l’effacement de données. L’accès partiel ne permet que la lecture des données actives dans un cas concret.[^9-2]
@@ -322,7 +324,7 @@ Fedpol précise dans un règlement de traitement:
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2010.
 
-Annexe**[^t-2]**
+Annexe*[^t-2]*
 
 (art. 9, al. 6)
 
@@ -342,7 +344,7 @@ SH = Section Hooliganisme
 
 CSI = Centre de services informatiques du DFJP
 
-AFD = Administration fédérale des douanes
+OFDF = Office fédéral de la douane et de la sécurité des frontières
 
 Observatoire = Observatoire suisse du hooliganisme
 
@@ -353,8 +355,8 @@ F = Postes frontière
 R = Police cantonale
 
 <table>
-<tr><td></td><td></td><td></td><td></td><td colspan="7">**Accès complet à HOOGAN dans le domaine de la product****i****on**</td><td colspan="2">**Accès partiel à HOOGAN via le RIPOL**</td></tr>
-<tr><td></td><td></td><td></td><td>**Service**</td><td>SH</td><td>SH</td><td>AFD, cantons, Observatoire</td><td>SH</td><td>SH, CSI</td><td>cantons, Observatoire</td><td>Observatoire</td><td colspan="2">Unités organisationnelles E, F, R</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="7">**Accès complet à HOOGAN dans le domaine de la production**</td><td colspan="2">**Accès partiel à HOOGAN via le RIPOL**</td></tr>
+<tr><td></td><td></td><td></td><td>**Service**</td><td>SH</td><td>SH</td><td>OFDF, cantons, Observatoire</td><td>SH</td><td>SH, CSI</td><td>cantons, Observatoire</td><td>Observatoire</td><td colspan="2">Unités organisationnelles E, F, R</td></tr>
 <tr><td></td><td></td><td></td><td>**Rôle**</td><td>Analyse préliminaire fedpol − −&gt;</td><td>Assurance qualité fedpol − −&gt;</td><td>Utilisateur − −&gt;</td><td>Administrateur − −&gt;</td><td>Administrateur technique − −&gt;</td><td>Collaborateur spécialisé − −&gt;</td><td>Collaborateur spécialisé Observatoire − −&gt;</td><td>Utilisateur via le RIPOL − −&gt;</td><td>Administrateur des utilisateurs du RIPOL</td></tr>
 <tr><td>**Domaines de données**</td><td>**Champs de données**</td><td>**Droits de traitement**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Personne</td><td>Données personnelles, adresse, mesures, violations de mesures, événement lié à une personne, lien</td><td colspan="2">présaisir</td><td>LMS</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LMS</td><td>LMS</td><td>-</td><td>-</td></tr>
