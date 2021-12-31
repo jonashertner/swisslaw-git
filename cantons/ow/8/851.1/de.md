@@ -4,20 +4,22 @@ number: "851.1"
 title: Einführungsgesetz zum Krankenversicherungsgesetz
 short: EG KVG
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-06-28
+version: 2022-01-01
+valid_until: 2026-03-31
+version_adopted: 2021-06-25
 adopted: 1999-01-28
 in_force: 1999-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/851.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1371/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1694/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Einführungsgesetz zum Krankenversicherungsgesetz
 
-vom 28.01.1999 (Stand 01.01.2020)
+(EG KVG)
+
+vom 28.01.1999 (Stand 01.01.2022)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -73,6 +75,14 @@ beschliesst:
 **Zuweisung**
 
 <sup>1</sup> Personen, die ihrer Versicherungspflicht nicht rechtzeitig nachkommen, werden von der Einwohnergemeinde unverzüglich einem Versicherer zugewiesen.
+
+## 2a. Spital- und Pflegeheimplanung
+
+#### Art. 4a
+
+**Spital- und Pflegeheimplanung**
+
+<sup>1</sup> Der Kanton gewährleistet eine bedarfsgerechte, wirksame und wirtschaftliche Versorgung der Kantonseinwohner und -einwohnerinnen in Spitälern, Geburtshäusern und Pflegeheimen innerhalb und ausserhalb des Kantons.
 
 ## 3. Rechtsschutz
 
@@ -151,7 +161,9 @@ geändert durch
 
 \- Nachtrag vom 25. April 2013, in Kraft seit 1. Januar 2014 (OGS 2013, 27 und 32),
 
-\- Nachtrag vom 28. Juni 2019 (OGS 2019, 28), Botschaft und Vorlage des Regierungsrats vom 2. April 2019, Kantonsratssitzungen vom 23. Mai und 28. Juni 2019 (22.19.02), in Kraft seit 1. Januar 2020 (OGS 2019, 39)
+\- Nachtrag vom 28. Juni 2019 (OGS 2019, 28), Botschaft und Vorlage des Regierungsrats vom 2. April 2019, Kantonsratssitzungen vom 23. Mai und 28. Juni 2019 (22.19.02), in Kraft seit 1. Januar 2020 (OGS 2019, 39),
+
+\- Nachtrag zum Gesundheitsgesetz vom 25. Juni 2021 (OGS 2021, 23), Botschaft und Vorlage des Regierungsrats vom 9. März 2021), Kantonsratssitzungen vom 27. Mai und 25. Juni 2021 (22.21.01), Volksabstimmung vom 28. November 2021 (ABl 2021, 1747), in Kraft seit 1. Januar 2022 (OGS 2021, 41)
 
 Der Nachtrag vom 28. Januar 2016 (OGS 2016, 9 und OGS 2016, 18 und 26) wurde an der Volksabstimmung vom 25. September 2016 (OGS 2016, 15, 52, 53 und 54) abgelehnt.
 
