@@ -4,11 +4,11 @@ title: "Ordinanza dell' 8 settembre 1999 relativa alla legge federale sull'archi
 short: OLAr
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/371"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1999-09-08
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/371/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1999-371-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/371/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1999-371-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20210101/it"
 
 (Ordinanza sull’archiviazione, OLAr)
 
-dell’8 settembre 1999 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+dell’8 settembre 1999 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -521,7 +521,7 @@ Allegato 3*[^t-3]*
 
 ## Elenco degli archivi con termine di protezione prorogato
 
-[^t-3]: Nuovo testo giusta il n. I dell’O del DFI del 3 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4939](https://fedlex.data.admin.ch/eli/oc/2020/881)).
+[^t-3]: Nuovo testo giusta il n. I dell’O del DFI del 10 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 691](https://fedlex.data.admin.ch/eli/oc/2021/691)).
 
 (art. 12 cpv. 1 LAr)
 
@@ -538,6 +538,7 @@ Allegato 3*[^t-3]*
 <tr><td>E1030.7</td><td>Bundeskanzlei: Handakten Annemarie Huber-Hotz, Bundeskanzlerin (2000–2007)</td><td>50 anni</td></tr>
 <tr><td>E1030.8</td><td>Bundeskanzlei: Handakten Oswald Sigg, Vizekanzler (2005–2009)</td><td>50 anni</td></tr>
 <tr><td>E1030.9</td><td>Bundeskanzlei: Handakten Corina Casanova, Bundeskanzlerin (2008–2016)</td><td>50 anni</td></tr>
+<tr><td>E1030.10</td><td>Bundeskanzlei: Handakten Thomas Helbling, Vizekanzler (2008–2016)</td><td>50 anni</td></tr>
 <tr><td>E1030.11</td><td>Bundeskanzlei: Handakten André Simonazzi, Vizekanzler (2009–)</td><td>50 anni</td></tr>
 <tr><td>E1050.3B</td><td>Bundesversammlung: Finanzkommissionen und Finanzdelegation (1993–2000)</td><td>50 anni; vale solo per il versamento 2002/114</td></tr>
 <tr><td>E1050.3C</td><td>Bundesversammlung: Finanzkommissionen und Finanzdelegation (2001–)</td><td>50 anni; vale solo per il versamento 2006/34</td></tr>
@@ -553,7 +554,7 @@ Allegato 3*[^t-3]*
 <tr><td>E1070</td><td>Bundesversammlung: Geschäftsdossiers (1848–2001)</td><td>50 anni; vale solo per gli affari per la revoca dell’immunità dei membri del Parlamento e del Consiglio federale</td></tr>
 <tr><td>E1070-03</td><td>Bundesversammlung: Sicherheitspolitische Kommissionen (1991–2001)</td><td>50 anni</td></tr>
 <tr><td>E1070-04</td><td>Bundesversammlung: Parlamentarische Geschäfte, Räte und Ratsorgane (2001–)</td><td>50 anni; documenti prodotti dalle presidenze delle Camere; vale solo per la posizione 104</td></tr>
-<tr><td>E1070-04</td><td>Bundesversammlung: Parlamentarische Geschäfte, Räte und Ratsorgane (2001–)</td><td>50 anni; documenti prodotti dalle Commissioni della gestione; vale solo per la posizione 103-05 e per i versamenti 2011/107, 2015/278 , 2016/108 e 2017/410</td></tr>
+<tr><td>E1070-04</td><td>Bundesversammlung: Parlamentarische Geschäfte, Räte und Ratsorgane (2001–)</td><td>50 anni; documenti prodotti dalle Commissioni della gestione; vale solo per la posizione 103-05 e per i versamenti 2011/107, 2015/278, 2016/108 e 2017/410</td></tr>
 <tr><td>E1070-04</td><td>Bundesversammlung: Parlamentarische Geschäfte, Räte und Ratsorgane (2001–)</td><td>50 anni; documenti prodotti dalle Commissioni della gestione e dalle Commissioni delle finanze; vale solo per la posizione 103-09</td></tr>
 <tr><td>E1070-04</td><td>Bundesversammlung: Parlamentarische Geschäfte, Räte und Ratsorgane (2001–)</td><td>50 anni; documenti prodotti dalla Delegazione delle Commissioni della gestione; vale solo per le posizioni 103-08, 103-10, 103-11 e 305-04</td></tr>
 <tr><td>E1070-04</td><td>Bundesversammlung: Parlamentarische Geschäfte, Räte und Ratsorgane (2001–)</td><td>50 anni; documenti prodotti dalla Delegazione delle finanze; vale solo per le posizioni 103-02 e 305-03</td></tr>
@@ -570,18 +571,21 @@ Allegato 3*[^t-3]*
 <tr><td>E2003-01A</td><td>Abteilung für internationale Organisationen: Fremde Interessen (1950–1972)</td><td>50 anni; ad eccezione dei documenti relativi a mandati conclusi prima del 1966</td></tr>
 <tr><td>E2003-06</td><td>Politische Direktion: Fremde Interessen (1973–1984)</td><td>50 anni; ad eccezione dei documenti relativi a mandati conclusi prima del 1966</td></tr>
 <tr><td>E2006A</td><td>Eidgenössisches Departement für auswärtige Angelegenheiten: Zentrale Ablage des Einheitsregistraturplans EDA (1997–)</td><td>50 anni; vale solo per i documenti delle posizioni 252.0, 252.1, 252.2, 252.3, 252.4, 262.0, 262.1 (vale solo per i versamenti 2009/188 e 2018/275), 262.2 (vale solo per i versamenti 2009/188, 2011/253 e 2018/275)</td></tr>
+<tr><td>E2007-01A</td><td>Direktion für Ressourcen und Aussennetz: Immatrikulationsdaten über Auslandschweizer- und -schweizerinnen (IMMAPRO) (2002–2003)</td><td>50 anni, vale solo per i documenti nella posizione 2 (Datensammlung)</td></tr>
+<tr><td>E2008-01</td><td>Konsularische Direktion: Vernetzte Verwaltung der Auslandschweizerinnen und Auslandschweizer (VERA/eVERA) (2001–)</td><td>50 anni, vale solo per i documenti nella posizione 2 (Daten)</td></tr>
 <tr><td>E2010A</td><td>Politische Direktion: Zentrale Ablage (1982–2000)</td><td>50 anni; vale solo per i documenti relativi a mandati di rappresentanza di interessi esteri (posizione B.24)</td></tr>
 <tr><td>E2010-03A</td><td>Politische Direktion: Registraturfindmittel (1973–)</td><td>50 anni; vale solo per il versamento 2004/444, 2018/54 e 2018/203</td></tr>
 <tr><td>E2012</td><td>Eidgenössisches Departement für auswärtige Angelegenheiten: Taskforce Libyen-Affäre</td><td>50 anni</td></tr>
 <tr><td>E2023-01A</td><td>Politische Direktion: Fremde Interessen (1985–)</td><td>50 anni</td></tr>
 <tr><td>E2026-20</td><td>Direktion für Entwicklung und Zusammenarbeit: Koordinationsbüro Bamako (1970–)</td><td>50 anni; vale solo per il versamento 2013/262</td></tr>
 <tr><td>E2200 [...]</td><td>Schweizerische Vertretung, [Ort]: Zentrale Ablage</td><td>120 anni, vale solo per i documenti relativi ad adozioni, in particolare nelle posizioni 123.32 e 141.2 50 anni, vale solo per i documenti relativi a mandati di rappresentanza di interessi esteri (dal 1966 nella posizione 82 e in altre posizioni), ad eccezione dei mandati conclusi prima del 1966</td></tr>
+<tr><td>E2210.[...]</td><td>Ständige Vertretungen / Mission bei [Name der Organisation]: Zentrale Ablage</td><td>50 anni, vale solo per i documenti relativi a mandati di rappresentanza di interessi esteri (dal 1966), ad eccezione dei mandati conclusi prima del 1966</td></tr>
 <tr><td>E2210.7-05</td><td>Ständige Mission der Schweiz bei den internationalen Organisationen, Genf: Zentrale Ablage (1977–1992)</td><td>50 anni; vale solo per i documenti del gruppo principale 1 (organisations internationales, missions permanentes)</td></tr>
 <tr><td>E2210.7-06</td><td>Ständige Mission der Schweiz bei den internationalen Organisationen, Genf: Zentrale Ablage (1993–)</td><td>50 anni; vale solo per i documenti del gruppo principale 1 (Questions État-hôte avec les missions et les organisations internationales)</td></tr>
 <tr><td>E2600-02</td><td>Direktion für Völkerrecht: Unterlagen zur Libyen-Affäre</td><td>50 anni</td></tr>
 <tr><td>E3240A</td><td>Direktion der eidgenössischen Bauten: Zentrale Ablage (1848–1995)</td><td>50 anni; vale solo per i documenti che riguardano edifici e infrastrutture ancora in funzione</td></tr>
 <tr><td>E3240B</td><td>Amt für Bundesbauten: Zentrale Ablage (1996–1998)</td><td>80 anni</td></tr>
-<tr><td>E3240C-04</td><td>Bundesamt für Bauten und Logistik: Bauprojektakten (1999–)</td><td>50 anni; vale solo per i documenti classificati nelle posizioni riguardanti le rappresentanze svizzere all’estero</td></tr>
+<tr><td>E3240C-04</td><td>Bundesamt für Bauten und Logistik: Bauprojektakten (1999–)</td><td>50 anni; vale solo per i documenti classificati nelle posizioni riguardanti le Rappresentanze svizzere all’estero</td></tr>
 <tr><td>E3241</td><td>Direktion der eidgenössischen Bauten: Liegenschaftsverträge (1848–1998)</td><td>50 anni; vale solo per i documenti che riguardano edifici e infrastrutture ancora in funzione</td></tr>
 <tr><td>E3242</td><td>Direktion der eidgenössischen Bauten: Ingenieurbau (Tiefbau) (1848–1998)</td><td>80 anni</td></tr>
 <tr><td>E3322A</td><td>Bundesamt für Statistik: Zentrale Ablage (1999–)</td><td>50 anni; vale solo per il versamento 2011/296</td></tr>
@@ -604,9 +608,13 @@ Allegato 3*[^t-3]*
 <tr><td>E4160B</td><td>Eidgenössisches Amt für das Zivilstandswesen: Zentrale Ablage (1935–1947)</td><td>120 anni; vale solo per i documenti classificati nelle posizioni J (diritto che regola i minori) e P (adozioni)</td></tr>
 <tr><td>E4160D</td><td>Eidgenössisches Amt für das Zivilstandswesen: Zentrale Ablage (1964–)</td><td>120 anni; vale per i documenti d’adozione classificati nella posizione D 12 dei versamenti 1998/170 e 2002/57</td></tr>
 <tr><td>E4161</td><td>Eidgenössisches Amt für das Zivilstandswesen: Parallelakten (1923–)</td><td>120 anni; vale per il versamento 1994/184 (schedario relativo alle comunicazioni d’adozione)</td></tr>
+<tr><td>E4268-01</td><td>Bundesamt für Polizei: Informatisiertes Personennachweis-, Aktennachweis- und Verwaltungssystem (IPAS) (2000–)</td><td>50 anni, vale solo per i documenti nella posizione 2 (Datensammlung)</td></tr>
 <tr><td>E4268-02</td><td>Bundesamt für Polizei: Informatisiertes Staatsschutz-Informations‑System (ISIS) (1994–)</td><td>50 anni</td></tr>
+<tr><td>E4268-03</td><td>Bundesamt für Polizei: Informationssystem der Bundeskriminalpolizei JANUS (2000–)</td><td>50 anni, vale solo per i documenti nella posizione 2 (Daten)</td></tr>
 <tr><td>E4268-05</td><td>Bundesamt für Polizei: Dienst für Analyse und Prävention (2000–)</td><td>50 anni</td></tr>
 <tr><td>E4268-06</td><td>Bundesamt für Polizei: Ablage Registratur (2000–)</td><td>80 anni; vale solo per il versamento 2014/25 50 anni; vale solo per i documenti del gruppo principale 1 (categorie di fatti)</td></tr>
+<tr><td>E4268-07</td><td>Bundesamt für Polizei: Meldestelle für Geldwäscherei, Datenverarbeitungssystem zur Bekämpfung der Geldwäscherei (GEWA)</td><td>50 anni, vale solo per i documenti nella posizione (Daten)</td></tr>
+<tr><td>E4268-08</td><td>Bundesamt für Polizei: Datenbank Betäubungsmittel-Statistik (1987–2008)</td><td>50 anni, vale solo per i documenti nella posizione (Löschdaten)</td></tr>
 <tr><td>E4267-02</td><td>Bundesamt für Polizei: Polizeifahndungssystem RIPOL - Système de recherche informatisée de la police</td><td>50 anni</td></tr>
 <tr><td>E4268-09</td><td>Bundesamt für Polizei: Informatisiertes Staatsschutz-Informationssystem Neue Technologie (ISIS-NT)</td><td>50 anni</td></tr>
 <tr><td>E4270-01</td><td>Eidgenössische Spielbankenkommission: Zentrale Ablage (2000–2010)</td><td>50 anni; vale solo per il versamento 2011/105</td></tr>
@@ -626,15 +634,15 @@ Allegato 3*[^t-3]*
 <tr><td>E4323A</td><td>Schweizerisches Zentralpolizeibüro: Falschgeld (1848–1992)</td><td>50 anni</td></tr>
 <tr><td>E4324A</td><td>Schweizerisches Zentralpolizeibüro: Betäubungsmittel (1848–1992)</td><td>50 anni</td></tr>
 <tr><td>E4326A</td><td>Schweizerisches Zentralpolizeibüro: Interpol-Dienst (1848–1992)</td><td>50 anni</td></tr>
-<tr><td>E4327</td><td>Bundesanwaltschaft: Registraturfindmittel und diverse Unterlagen des Polizeidienstes (1935–1992)</td><td>50 anni; vale solo per i documenti concernenti la protezione dello Stato</td></tr>
-<tr><td>E4333-02</td><td>Bundesanwaltschaft: Diverses Polizei- und Rechtsdienst (1944–2001)</td><td>50 anni</td></tr>
+<tr><td>E4327</td><td>Bundesanwaltschaft: Registraturfindmittel und diverse Unterlagen des Polizeidienstes (1935–1992)</td><td>50 anni; vale solo per i documenti concernenti la protezione dello Stato (versamento 1994/197)</td></tr>
 <tr><td>E4333-03</td><td>Bundesanwaltschaft: Geschäftsdossiers und Verfahrensakten (1889–2008)</td><td>50 anni; vale solo per il versamento 2019/54</td></tr>
-<tr><td>E4333-04</td><td>Bundesanwaltschaft: Zentrale Ablage (2009–)</td><td>50 anni; vale solo per i documenti classificati nelle posizioni 034.2 (Ausschusssitzungen [operativer Ausschuss]), 23 (Strafverfahren führen), 41 (Passive Rechtshilfe) e per il versamento 2019/464</td></tr>
+<tr><td>E4333-04</td><td>Bundesanwaltschaft: Zentrale Ablage (2009–)</td><td>50 anni; vale solo per i documenti classificati nelle posizioni 034.2 (Ausschusssitzungen (operativer Ausschuss)), 23 (Strafverfahren führen), 41 (Passive Rechtshilfe) e per il versamento 2019/464</td></tr>
+<tr><td>E4333-02</td><td>Bundesanwaltschaft: Diverses Polizei- und Rechtsdienst (1944–2001)</td><td>50 anni</td></tr>
 <tr><td>E4380A</td><td>Eidgenössisches Amt für geistiges Eigentum: Zentrale Ablage (1888–1979)</td><td>50 anni; vale solo per i documenti classificati nella posizione 162</td></tr>
 <tr><td>E4380B</td><td>Bundesamt für geistiges Eigentum: Zentrale Ablage (1979–1995)</td><td>50 anni; vale solo per i documenti classificati nella posizione 226.1 (Reintegrazione – casi singoli)</td></tr>
-<tr><td>E4390C</td><td>Bundesamt für Zivilschutz: Zentrale Ablage (1976–2002)</td><td>50 anni; vale solo per i documenti classificati nella posizione 100.8 (relazioni con altri Stati)</td></tr>
+<tr><td>E4390C</td><td>Bundesamt für Zivilschutz: Zentrale Ablage (1976–2002)</td><td>50 anni; vale solo per i documenti classificati nella posizione 100.8 (relazioni con altri stati)</td></tr>
 <tr><td>E4390D</td><td>Bundesamt für Zivilschutz: Zentrale Ablage (1997–2005)</td><td>50 anni; vale solo per il versamento 2016/202</td></tr>
-<tr><td>E4390-02</td><td>Bundesamt für Bevölkerungsschutz: Zentrale Ablage (2006–)</td><td>50 anni</td></tr>
+<tr><td>E4390-02</td><td>Bundesamt für Bevölkerungsschutz: Zentrale Ablage (2006–)</td><td>50 anni; ad eccezione degli atti del personale classificati nella posizione 111.12</td></tr>
 <tr><td>E4800.3</td><td>Bundesanwaltschaft: Handakten Rudolf Gerber, Bundesanwalt (1974–1989)</td><td>50 anni</td></tr>
 <tr><td>E4800.3-01</td><td>Bundesanwaltschaft: Handakten Rudolf Gerber, Bundesanwalt (1974–1993)</td><td>50 anni</td></tr>
 <tr><td>E4800.7</td><td>Bundesanwaltschaft: Handakten Adrian Florian, Adjunkt (1931–2000)</td><td>50 anni</td></tr>
@@ -650,7 +658,9 @@ Allegato 3*[^t-3]*
 <tr><td>E5156B</td><td>Gruppe für Rüstungsdienste: Schiessversuche (1968–1995)</td><td>80 anni; vale solo per i documenti relativi all’infrastruttura militare particolarmente protetta secondo l’art. 1 cpv. 1 della legge federale del 23 giugno 1950 concernente la protezione delle opere militari (RS *510.518*)</td></tr>
 <tr><td>E5157-01</td><td>Laboratorium Wimmis: Fachbereichsthemen (1925–1981)</td><td>80 anni; vale solo per il versamento 2015/107 per i documenti relativi all’infrastruttura militare particolarmente protetta secondo l’art. 1 cpv. 1 della legge federale del 23 giugno 1950 concernente la protezione delle opere militari (RS *510.518*) 50 anni; vale solo per il versamento 2013/343</td></tr>
 <tr><td>E5159-01</td><td>Labor Spiez: Zentrale Ablage (2004–)</td><td>50 anni; vale solo per il versamento 2005/207</td></tr>
+<tr><td>E5162-01</td><td>Bundesamt für Rüstung armasuisse: Zentrale Ablage (2002–2010)</td><td>50 anni</td></tr>
 <tr><td>E5205-01</td><td>Eidgenössische Konstruktionswerkstätte, Thun: Handakten der Direktion (1863–1995)</td><td>80 anni; vale solo per i documenti dei gruppi principali 3 (documenti riguardanti i blindati) e 5 (artiglieria di fortezza)</td></tr>
+<tr><td>E5205-02</td><td>Eidgenössische Waffenfabrik Bern: Handakten der Geschäftsleitung (1875–1995)</td><td>80 anni; vale solo per i documenti del gruppo principale 3 (documenti riguardanti i blindati)</td></tr>
 <tr><td>E5206</td><td>Eidgenössische Konstruktionswerkstätte Thun: Datensammlungen und Dokumentationen (1861–1995)</td><td>80 anni; vale solo per i documenti relativi all’infrastruttura militare particolarmente protetta secondo l’art. 1 cpv. 1 della legge federale del 23 giugno 1950 concernente la protezione delle opere militari (RS *510.518*)</td></tr>
 <tr><td>E5230-01</td><td>Schweizerische Unternehmung für Waffensysteme: Geschäftsleitung (1996–1999)</td><td>80 anni; vale solo per i documenti dei gruppi principali 3 (documenti riguardanti i blindati) e 5 (artiglieria di fortezza)</td></tr>
 <tr><td>E5301-05</td><td>Untergruppe Personelles der Armee: Personalinformationssystem der Armee (PISA) (1996–2001)</td><td>50 anni</td></tr>
@@ -672,7 +682,7 @@ Allegato 3*[^t-3]*
 <tr><td>E5465C</td><td>Abteilung für Militärflugplätze: Zentrale Ablage (1972–1979)</td><td>80 anni; vale solo per i documenti relativi all’infrastruttura militare particolarmente protetta secondo l’art. 1 cpv. 1 della legge federale del 23 giugno 1950 concernente la protezione delle opere militari (RS *510.518*)</td></tr>
 <tr><td>E5465C-01</td><td>Bundesamt für Militärflugplätze: Diverses (1979–1980)</td><td>80 anni; vale solo per i documenti relativi all’infrastruttura militare particolarmente protetta secondo l’art. 1 cpv. 1 della legge federale del 23 giugno 1950 concernente la protezione delle opere militari (RS *510.518*)</td></tr>
 <tr><td>E5465D</td><td>Bundesamt für Militärflugplätze: Zentrale Ablage (1979–1995)</td><td>80 anni; vale solo per i documenti relativi all’infrastruttura militare particolarmente protetta secondo l’art. 1 cpv. 1 della legge federale del 23 giugno 1950 concernente la protezione delle opere militari (RS *510.518*)</td></tr>
-<tr><td>E5471-02</td><td>Luftwaffe: Zentrale Ablage (1996–)</td><td>80 anni; vale solo per i documenti relativi all’infrastruttura militare particolarmente protetta secondo l’art. 1 cpv. 1 della legge federale del 23 giugno 1950 concernente la protezione delle opere militari (RS *510.518*) 50 anni; vale solo per il versamento 2004/582</td></tr>
+<tr><td>E5471-02</td><td>Luftwaffe: Zentrale Ablage (1996–)</td><td>80 anni; vale solo per i documenti relativi all’infrastruttura militare particolarmente protetta secondo l’art. 1 cpv. 1 della legge federale del 23 giugno 1950 concernente la protezione delle opere militari (RS *510.518*) 50 anni; vale solo per il versamento 2004/582 e 2020/16</td></tr>
 <tr><td>E5480A</td><td>Abteilung und Waffenchef für Genie: Zentrale Ablage (1910–1950)</td><td>80 anni; vale solo per i documenti relativi all’infrastruttura militare particolarmente protetta secondo l’art. 1 cpv. 1 della legge federale del 23 giugno 1950 concernente la protezione delle opere militari (RS *510.518*)</td></tr>
 <tr><td>E5480A-01</td><td>Abteilung für Genie: Teilregistratur Genie und Altablagen (1895–1950)</td><td>80 anni; vale solo per i documenti relativi all’infrastruttura militare particolarmente protetta secondo l’art. 1 cpv. 1 della legge federale del 23 giugno 1950 concernente la protezione delle opere militari (RS *510.518*)</td></tr>
 <tr><td>E5480B</td><td>Abteilung für Genie und Festungen: Zentrale Ablage (1968–1979)</td><td>80 anni</td></tr>
@@ -687,7 +697,7 @@ Allegato 3*[^t-3]*
 <tr><td>E5522-03</td><td>Untergruppe Führungsunterstützung: Zentrale Ablage (1996–2003)</td><td>80 anni; vale solo per i documenti relativi all’infrastruttura militare particolarmente protetta secondo l’art. 1 cpv. 1 della legge federale del 23 giugno 1950 concernente la protezione delle opere militari (RS *510.518*) 50 anni; vale solo per i versamenti 2004/383, 2004/447 e 2008/221</td></tr>
 <tr><td>E5523-01</td><td>Bundesamt für Unterstützungstruppen (1996–2003): Altablagen des Bundesamtes für Unterstützungstruppen und Vorgänger (1943–2003)</td><td>50 anni; vale solo per il versamento 2005/261</td></tr>
 <tr><td>E5560C</td><td>Generalstabsabteilung: Zentrale Ablage (1946–1968)</td><td>80 anni; vale solo per i documenti relativi all’infrastruttura militare particolarmente protetta secondo l’art. 1 cpv. 1 della legge federale del 23 giugno 1950 concernente la protezione delle opere militari (RS *510.518*) 80 anni; vale solo per posizione 6 (fortificazioni)</td></tr>
-<tr><td>E5560D</td><td>Stab der Gruppe für Generalstabsdienste: Zentrale Ablage (1964–1995)</td><td>80 anni</td></tr>
+<tr><td>E5560D</td><td>Stab der Gruppe für Generalstabsdienste: Zentrale Ablage (1964–1995)</td><td>80 anni; ad eccezione del versamento 2020/346</td></tr>
 <tr><td>E5560D-01</td><td>Untergruppe Ausbildungsführung: Teilregistratur Kommando Generalstabsschule (1996)</td><td>50 anni</td></tr>
 <tr><td>E5560D-03</td><td>Untergruppe Planung: Zentrale Ablage (1996–2003)</td><td>50 anni; vale solo per i versamenti 2007/106 e 2007/171</td></tr>
 <tr><td>E5560-01</td><td>Generalstab: Rechtsdienst (1996–2003)</td><td>50 anni; vale solo per il versamento 2005/258</td></tr>
@@ -697,9 +707,10 @@ Allegato 3*[^t-3]*
 <tr><td>E5563-01</td><td>Stab der Gruppe Generalstabsdienste: Projekt 26 (P-26) - Dokumentation</td><td>50 anni</td></tr>
 <tr><td>E5564</td><td>Untergruppe Nachrichtendienst und Abwehr: Verschiedene Unterlagen (1969–1991)</td><td>50 anni</td></tr>
 <tr><td>E5565-01</td><td>Nachrichtendienst des Bundes: Informatisiertes Staatsschutz-Informations‑System Neue Technologie (ISIS-NT) (2005–)</td><td>50 anni</td></tr>
+<tr><td>E5565-03</td><td>Nachrichtendienst des Bundes: Ablage Vorgängerbehörden, insbesondere Bundespolizei und Dienst für Analyse und Prävention (1951–2012)</td><td>80 anni; vale solo per il versamento 2020/245 50 anni; vale solo per il versamento 2020/244</td></tr>
 <tr><td>E5571A</td><td>Generalstab: Bau und Liegenschaftswesen (1996–2003)</td><td>80 anni; vale solo per i documenti relativi all’infrastruttura militare particolarmente protetta secondo l’art. 1 cpv. 1 della legge federale del 23 giugno 1950 concernente la protezione delle opere militari (RS *510.518*) 50 anni; vale solo per il versamento 2003/351</td></tr>
-<tr><td>E5571-02</td><td>Generalstab: Zentrale Ablage Generalstabchef, Stab des Generalstabchefs, Militärprotokoll, Verteidigungsattachés und Zentrale Dienste (1997–2003)</td><td>80 anni; vale solo per i versamenti 2010/107, 2010/144, 2017/352 e 2018/320</td></tr>
-<tr><td></td><td></td><td>50 anni; vale solo per i versamenti 2017/351, 2018/120 e 2019/332</td></tr>
+<tr><td>E5571-02</td><td>Generalstab: Zentrale Ablage Generalstabchef, Stab des Generalstabchefs, Militärprotokoll, Verteidigungsattachés und Zentrale Dienste (1996–2003)</td><td>80 anni; vale solo per i versamenti 2010/107, 2010/144, 2017/352 e 2018/320</td></tr>
+<tr><td></td><td></td><td>50 anni; vale solo per i versamenti 2017/351, 2018/120, 2019/332 e 2019/418</td></tr>
 <tr><td>E5571-03</td><td>Untergruppe Planung: Registraturgemeinschaft mit Generalstab (1995–2003)</td><td>50 anni; vale solo per il versamento 2007/166</td></tr>
 <tr><td>E5572-01</td><td>Untergruppe Friedensförderung und Sicherheitskooperation des Generalstabs: Zentrale Ablage (1998–2003)</td><td>80 anni; vale solo per i documenti relativi all’infrastruttura militare particolarmente protetta secondo l’art. 1 cpv. 1 della legge federale del 23 giugno 1950 concernente la protezione delle opere militari (RS *510.518*)</td></tr>
 <tr><td>E5610B</td><td>Oberkriegskommissariat: Verwaltung der Waffen- und Schiessplätze (1964–1995)</td><td>80 anni; vale solo per i documenti relativi all’infrastruttura militare particolarmente protetta secondo l’art. 1 cpv. 1 della legge federale del 23 giugno 1950 concernente la protezione delle opere militari (RS *510.518*)</td></tr>
@@ -787,11 +798,13 @@ Allegato 3*[^t-3]*
 <tr><td>E5782-07</td><td>Feldarmeekorps 4: Büro (1995–2003)</td><td>50 anni; vale solo per il versamento 2004/132</td></tr>
 <tr><td>E5795</td><td>Persönlicher Stab des Generals Guisan: Zentrale Ablage (1939–1945)</td><td>80 anni; vale solo per i documenti relativi all’infrastruttura militare particolarmente protetta secondo l’art. 1 cpv. 1 della legge federale del 23 giugno 1950 concernente la protezione delle opere militari (RS *510.518*)</td></tr>
 <tr><td>E5850.3</td><td>Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport: Handakten Samuel Schmid, Bundesrat (2001–2008)</td><td>50 anni</td></tr>
-<tr><td>E5900-01</td><td>Gruppe Verteidigung: Zentrale Ablage (2004–)</td><td>80 anni; vale solo per i versamenti 2015/82, 2015/121 e 2018/44 50 anni; vale solo per i versamenti 2015/62, 2015/63, 2015/89, 2015/90, 2015/104, 2015/128, 2015/173, 2015/212, 2015/223, 2016/274, 2018/43, 2018/173, 2018/209, 2018/318, 2019/124, 2019/128, 2019/287 e 2020/53</td></tr>
+<tr><td>E5900-01</td><td>Gruppe Verteidigung: Zentrale Ablage (2004–)</td><td>80 anni; vale solo per i versamenti 2015/82, 2015/121 e 2018/44 50 anni; vale solo per i versamenti 2015/62, 2015/63, 2015/89, 2015/90, 2015/104, 2015/128, 2015/173, 2015/212, 2015/223, 2016/274, 2018/43, 2018/173, 2018/209, 2018/318, 2019/124, 2019/128, 2019/131, 2019/287, 2020/24, 2020/53, 2020/246 e 2020/330</td></tr>
 <tr><td>E5900-02</td><td>Diverse Unterlagen verschiedener Teilbereiche Gruppe V (2004–)</td><td>80 anni; vale solo per il versamento 2015/126</td></tr>
 <tr><td>E5901-01</td><td>Gruppe Verteidigung: Handakten Chef der Armee, André Blattmann (2009–2016)</td><td>50 anni</td></tr>
 <tr><td>E6104</td><td>Kontrollstelle für die Bekämpfung der Geldwäscherei: Zentrale Ablage (1995–2008)</td><td>50 anni; vale solo per il versamento 2008/287 e 2014/91</td></tr>
+<tr><td>E6270C-02</td><td>Eidgenössisches Personalamt: Zentrale Ablage (1987–2002)</td><td>50 anni, vale solo per i documenti della posizione 682.62 (Dati dei collaboratori e salariali)</td></tr>
 <tr><td>E6275-01</td><td>Eidgenössisches Personalamt: Zentrale Ablage (2011–)</td><td>80 anni, vale solo per i documenti della posizione 316 (consulenze)</td></tr>
+<tr><td>E6292-01</td><td>Medical Service AeD: Ärztlicher Dienst der allgemeinen Bundesverwaltung und der Post-, Telefon- und Telegrafenbetriebe (1971–1998)</td><td>80 anni, vale solo per i documenti della posizione 2 (dossier medici)</td></tr>
 <tr><td>E6301B</td><td>Eidgenössische Steuerverwaltung: Handakten Direktor Urs Ursprung</td><td>50 anni; vale solo per i documenti delle posizioni 1 e 2</td></tr>
 <tr><td>E6301A</td><td>Eidgenössische Steuerverwaltung: Wehropfer und Wehrsteuer (1918–1994)</td><td>50 anni; vale solo per i documenti delle posizioni 1, 61 e 63</td></tr>
 <tr><td>E6302B</td><td>Eidgenössische Steuerverwaltung: Direkte Bundessteuer (1995–)</td><td>50 anni; vale solo per i documenti delle posizioni 61, 62, 63, 64, 65 e 66</td></tr>
@@ -800,13 +813,21 @@ Allegato 3*[^t-3]*
 <tr><td>E6310</td><td>Eidgenössische Steuerverwaltung: Warenumsatzsteuer, Ausgleichssteuer, Luxussteuer (1918–1994)</td><td>50 anni; vale solo per i documenti delle posizioni 1-11, 1-12, 2-2 e 3-2</td></tr>
 <tr><td>E6310-01</td><td>Eidgenössische Steuerverwaltung: Mehrwertsteuer (1994–)</td><td>100 anni</td></tr>
 <tr><td>E6351G</td><td>Oberzolldirektion: Zentrale Ablage (1960–2000)</td><td>50 anni; vale solo per i documenti delle posizioni 3, 3.00, da 3.00-501 a 3.00-600 e da 3.01-601 a 3.01-615</td></tr>
-<tr><td>E6351H-01</td><td>Oberzolldirektion: Zentrale Ablage (1996–)</td><td>50 anni; vale solo per i documenti delle posizioni 3 (Zoller-hebung), 441 (Lenkungsabgaben) und 442 (Automobilsteuer) e per documenti della posizione 62 (ricerca [SISI])</td></tr>
+<tr><td>E6351H-01</td><td>Oberzolldirektion: Zentrale Ablage (1996–)</td><td>50 anni; vale solo per i documenti delle posizioni 3 (Zollerhebung), 441 (Lenkungsabgaben) und 442 (Automobilsteuer) e per documenti della posizione 62 (ricerca (SISI))</td></tr>
 <tr><td>E6501</td><td>Bundesamt für Organisation: Betrieblich-organisatorische Bauplanung (1979–1990)</td><td>50 anni; vale solo per il versamento 1988/160</td></tr>
 <tr><td>E6503A</td><td>Bundesamt für Informatik: Zentrale Ablage (1990–2001)</td><td>50 anni; vale solo per il versamento 2019/250</td></tr>
 <tr><td>E6503-01</td><td>Bundesamt für Informatik und Telekommunikation: Zentrale Ablage (2001–)</td><td>50 anni; vale solo per il versamento 2019/251</td></tr>
+<tr><td>E6520A</td><td>Eidgenössische Bankenkommission: Zentrale Ablage (1935–1980)</td><td>50 anni; vale solo per i documenti che riguardano le attività di sorveglianza delle istituzioni finanziarie</td></tr>
+<tr><td>E6520B</td><td>Eidgenössische Bankenkommission: Zentrale Ablage (1980–1996)</td><td>50 anni; vale solo per i documenti che riguardano le attività di sorveglianza delle istituzioni finanziarie</td></tr>
+<tr><td>E6520C</td><td>Eidgenössische Bankenkommission: Zentrale Ablage (1987–2004)</td><td>50 anni; vale solo per i documenti che riguardano le attività di sorveglianza delle istituzioni finanziarie</td></tr>
 <tr><td>E6520-01</td><td>Eidgenössische Bankenkommission: Altablage (1986–2001)</td><td>50 anni; vale solo per i documenti che riguardano le attività di sorveglianza delle istituzioni finanziarie per il versamento 2014/100</td></tr>
 <tr><td>E6520-02</td><td>Eidgenössische Bankenkommission: Zentrale Ablage (2002–2004)</td><td>50 anni; vale solo per i documenti che riguardano le attività di sorveglianza delle istituzioni finanziarie per i versamenti 2014/99, 2014/106, 2014/122 & 2014/149</td></tr>
-<tr><td>E6521C</td><td>Eidgenössische Bankenkommission: Banken und Sparkassen (1997–2008)</td><td>50 anni; vale solo per i documenti delle posizioni 101, 103, 111.1, 111.3, 112.1, 112.2, 113, 12, 13, 14, 17-2, 182 e 190</td></tr>
+<tr><td>E6520-03</td><td>Eidgenössische Bankenkommission: Zentrale Ablage (2004–2008)</td><td>50 anni; vale solo per i documenti che riguardano le attività di sorveglianza delle istituzioni finanziarie per i versamenti 2020/56</td></tr>
+<tr><td>E6521A</td><td>Eidgenössische Bankenkommission: Banken und Sparkassen (1935–1978)</td><td>50 anni; vale solo per i documenti che riguardano le attività di sorveglianza delle istituzioni finanziarie</td></tr>
+<tr><td>E6521B</td><td>Eidgenössische Bankenkommission: Banken und Sparkassen (1979–1996)</td><td>50 anni; vale solo per i documenti che riguardano le attività di sorveglianza delle istituzioni finanziarie</td></tr>
+<tr><td>E6521C</td><td>Eidgenössische Bankenkommission: Banken und Sparkassen (1997–2008)</td><td>50 anni; vale solo per i documenti che riguardano le attività di sorveglianza delle istituzioni finanziarie</td></tr>
+<tr><td>E6522A</td><td>Eidgenössische Bankenkommission: Anlagefonds (1935–1978)</td><td>50 anni; vale solo per i documenti che riguardano le attività di sorveglianza delle istituzioni finanziarie</td></tr>
+<tr><td>E6522B</td><td>Eidgenössische Bankenkommission: Anlagefonds (1935–1978)</td><td>50 anni; vale solo per i documenti che riguardano le attività di sorveglianza delle istituzioni finanziarie</td></tr>
 <tr><td>E6600-01</td><td>Staatssekretariat für internationale Finanzfragen: Zentrale Ablage (2012–)</td><td>50 anni, vale solo per i documenti del gruppo principale 4 (rappresentanza degli interessi bilaterali)</td></tr>
 <tr><td>E7259-01</td><td>Eidgenössisches Forschungszentrum Conthey: Zentrale Ablage (1944–2005)</td><td>50 anni; vale solo per il versamento 2017/187</td></tr>
 <tr><td>E7310B</td><td>Delegierter für wirtschaftliche Kriegsvorsorge: Zentrale Ablage (1969–1979)</td><td>50 anni; vale solo per i documenti classificati nella posizione 159.2 (trasferimento di sede)</td></tr>
@@ -815,10 +836,10 @@ Allegato 3*[^t-3]*
 <tr><td>E8003-02</td><td>Unfalluntersuchungsstelle für Bahnen und Schiffe: Zentrale Ablage (2000–2011)</td><td>50 anni; vale solo per i documenti classificati nella posizione 31 (indagini nell’ambito dei trasporti pubblici) e 32 (eventi conclusi senza rapporto)</td></tr>
 <tr><td>E8170D</td><td>Eidgenössisches Amt für Wasserwirtschaft: Zentrale Ablage (1938–1979)</td><td>50 anni; vale solo per la posizione 33 (sbarramenti e misure d’economia di guerra)</td></tr>
 <tr><td>E8171</td><td>Eidgenössisches Amt für Wasserwirtschaft: Teilregistratur Flussbau und Talsperren (1930–1979)</td><td>80 anni</td></tr>
-<tr><td>E9020</td><td>Bundesstrafgericht: Zentrale Ablage (2000–)</td><td>50 anni; vale solo per i versamenti 2019/292 e 2019/293</td></tr>
+<tr><td>E9020</td><td>Bundesstrafgericht. Zentrale Ablage (2000–)</td><td>50 anni; vale solo per i versamenti 2019/292 e 2019/293</td></tr>
 <tr><td>E9500.52</td><td>Kommission für militärische Landesverteidigung: Zentrale Ablage (1968–1995)</td><td>80 anni</td></tr>
 <tr><td>E9500.222</td><td>Aktenkommission und Fondskommission Kinder der Landstrasse: Zentrale Ablage (1988–1993)</td><td>100 anni; ad eccezione degli atti generali dei volumi 1–6 del versamento 1993/116</td></tr>
-<tr><td>E9500.233-01</td><td>Wettbewerbskommission: Zentrale Ablage (1997–)</td><td>50 anni, vale solo per i documenti classificati nella posizione 25 (Autodenuncia Programma di clemenza [art. 49a cpv. 2 LCart])</td></tr>
+<tr><td>E9500.233-01</td><td>Wettbewerbskommission: Zentrale Ablage (1997–)</td><td>50 anni, vale solo per i documenti classificati nella posizione 25 (Autodenuncia Programma di clemenza (art. 49*a* cpv. 2 LCart))</td></tr>
 </table>
 
-[^annex3-lvlu1-1]: Fatto salvo l’art. 7 cpv. 1 dell’ordinanza del 3 ott. 2003 sull’amministrazione parlamentare ([RS 171.115](https://fedlex.data.admin.ch/eli/cc/2003/512)), ossia a condizione che i verbali delle deliberazioni in merito ad atti contenenti norme di diritto siano disponibili per inchieste scientifiche e per l’applicazione del diritto dopo la votazione finale, se del caso dopo la scadenza del termine di referendum o dopo la votazione popolare.
+[^annex3-lvlu1-1]: Fatto salvo l’art. 7 cpv. 1 dell’ordinanza del 3 ottobre 2003 sull’amministrazione parlamentare ([RS 171.115](https://fedlex.data.admin.ch/eli/cc/2003/512)), ossia a condizione che i verbali delle deliberazioni in merito ad atti contenenti norme di diritto siano disponibili per inchieste scientifiche e per l’applicazione del diritto dopo la votazione finale, se del caso dopo la scadenza del termine di referendum o dopo la votazione popolare.
