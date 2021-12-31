@@ -4,13 +4,13 @@ number: "841.311"
 title: "Einführungsverordnung zum Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung"
 short: EV ELG
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-09
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-24
 adopted: 2009-09-16
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/841.311"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2096/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2486/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2096/pdf_file"
 
 (EV ELG)
 
-vom 16.09.2009 (Stand 01.01.2021)
+vom 16.09.2009 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -38,12 +38,12 @@ beschliesst:
 
 **Heimdefinition**
 
-<sup>1</sup> Als Heim gelten Einrichtungen, die über eine kantonale Betriebsbewilligung gestützt auf die Verordnung vom 18. September 1996 über die Betreuung und Pflege von Personen in Heimen und privaten Haushalten (Heimverordnung, HEV)[^1-1]oder die Pflegekinderverordnung vom 4. Juli 1979[^1-2] verfügen.
+<sup>1</sup> Als Heim gelten Einrichtungen, die über eine kantonale Betriebsbewilligung gestützt auf die Verordnung vom 24. November 2021 über die sozialen Leistungsangebote (SLV)[^1-1] oder die Verordnung vom 23. Juni 2021 über die Aufsicht über stationäre Einrichtungen und ambulante Leistungen für Kinder (ALKV)[^1-2] verfügen.
 
 <sup>2</sup> Wurde die Erteilung der Betriebsbewilligung an eine kommunale Stelle delegiert, ist die durch die kommunale Stelle erteilte Betriebsbewilligung der kantonalen gleichgestellt.
 
-[^1-1]: BSG 862.51
-[^1-2]: BSG 213.223
+[^1-1]: BSG [860.21](https://www.belex.sites.be.ch/data/860.21/de)
+[^1-2]: BSG [213.319.2](https://www.belex.sites.be.ch/data/213.319.2/de)
 
 #### Art. 2
 
@@ -69,10 +69,10 @@ beschliesst:
 
 <sup>1</sup> Für Personen, die dauernd oder längere Zeit einen Platz der Spital- und Pflegeheimliste des Kantons Bern belegen (Art. 2 Abs. 1 Bst. a), werden als Ausgaben folgende täglichen Höchstbeträge anerkannt:
 
-- a Pflegestufe 0: — CHF 163.00
-- b Pflegestufe 1: — CHF 164.40
-- c Pflegestufe 2: — CHF 176.85
-- d Pflegestufen 3 bis 12: — CHF 186.00
+- a Pflegestufe 0: — CHF 163.80
+- b Pflegestufe 1: — CHF 165.25
+- c Pflegestufe 2: — CHF 177.75
+- d Pflegestufen 3 bis 12: — CHF 186.80
 
 <sup>2</sup> Der Pflegeaufwand ist mit dem Bewohnerbeurteilungssystem BESA (Bewohnerinnen-Einstufungs- und Abrechnungssystem) oder RAI/RUG (Resident Assessment Instrument/Resource Utilization Group) zu erheben.
 
@@ -195,13 +195,12 @@ beschliesst:
 
 <sup>2</sup> Es werden keine Kosten für Leistungen nach Absatz 1 vergütet, ausser für
 
-- a die von der versicherten Person zu tragende Kostenbeteiligung nach Artikel 25d der Verordnung vom 24. Oktober 2001 über die öffentliche Sozialhilfe (Sozialhilfeverordnung, SHV)[^15-2] und
+- a die von der versicherten Person zu tragende Kostenbeteiligung nach Artikel 31 SLV und
 - b die von Familienangehörigen erbrachte notwendige Grundpflege im Sinne von Artikel 7 Absatz 2 Buchstabe c Ziffer 1 KLV.
 
 <sup>3</sup> Ausgewiesene Kosten für die von Familienangehörigen erbrachte notwendige Grundpflege (Abs. 2 Bst. b) werden mit 25 Franken pro Stunde und höchstens 9600 Franken pro Jahr vergütet, wenn die oder der Familienangehörige nicht in die EL-Berechnung eingeschlossen ist.
 
 [^15-1]: SR 832.112.31
-[^15-2]: BSG 860.111
 
 #### Art. 16
 
@@ -459,7 +458,7 @@ beschliesst:
 
 <sup>1</sup> An ein Heim angegliederte Wohnungen gelten längstens bis zum 31. Dezember 2012 als Teil eines anerkannten Heims, wenn
 
-- a das Heim über eine Betriebsbewilligung nach HEV verfügt,
+- a das Heim über eine Betriebsbewilligung nach der SLV verfügt,
 - b ein Notrufsystem vorhanden ist und im Falle eines Notrufs innerhalb von 15 Minuten jemand, der die Situation einschätzen und entsprechende Hilfe anfordern kann, bei der Wohnungsbewohnerin oder dem -bewohner ist,
 - c allen Wohnungsbewohnerinnen und -bewohnern ein Tarifausweis mit Pflegestufe 0 mit dem Vermerk «Wohnheimmodell» ausgestellt wird,
 - d der Übertritt in die stationäre Pflege des Heims jederzeit möglich ist und

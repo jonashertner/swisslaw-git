@@ -4,13 +4,13 @@ number: "841.311"
 title: "Ordonnance portant introduction de la loi fédérale sur les prestations complémentaires à l'AVS et à l'AI"
 short: Oi LPC
 language: fr
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-09
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-24
 adopted: 2009-09-16
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/841.311"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2096/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2486/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2096/pdf_file"
 
 (Oi LPC)
 
-du 16.09.2009 (état au 01.01.2021)
+du 16.09.2009 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -38,12 +38,12 @@ arrête:
 
 **Définition du foyer**
 
-<sup>1</sup> Sont considérées comme des foyers les institutions qui disposent d’une autorisation cantonale d’exploiter en vertu de l’ordonnance du 18 septembre 1996 sur les foyers et les ménages privés prenant en charge des personnes tributaires de soins (ordonnance sur les foyers, OFoy)[^1-1] ou de l’ordonnance du 4 juillet 1979 réglant le placement d’enfants[^1-2].
+<sup>1</sup> Sont considérées comme des foyers les institutions qui disposent d’une autorisation cantonale d’exploiter en vertu de l’ordonnance du 24 novembre 2021 sur les programmes d'action sociale (OPASoc)[^1-1] ou de l’ordonnance du 23 juin 2021 sur la surveillance des institutions résidentielles et des prestations ambulatoires destinées aux enfants (OSIPE)[^1-2].
 
 <sup>2</sup> Si l’octroi de l’autorisation d’exploiter a été délégué à une autorité communale, l’autorisation d’exploiter ainsi octroyée par l’autorité communale est assimilée à une autorisation d’exploiter cantonale.
 
-[^1-1]: RSB 862.51
-[^1-2]: RSB 213.223
+[^1-1]: RSB [860.21](https://www.belex.sites.be.ch/data/860.21/fr)
+[^1-2]: RSB [213.319.2](https://www.belex.sites.be.ch/data/213.319.2/fr)
 
 #### Art. 2
 
@@ -68,10 +68,10 @@ arrête:
 
 <sup>1</sup> Pour les personnes occupant en permanence ou pour une longue durée une place de la liste des hôpitaux et établissements médico-sociaux du canton de Berne (art. 2, al. 1, lit. a), les montants journaliers maximaux reconnus au titre de dépenses sont les suivants:
 
-- a Degré de soins 0: — CHF 163.00
-- b Degré de soins 1: — CHF 164.40
-- c Degré de soins 2: — CHF 176.85
-- d Degrés de soins 3 à 12: — CHF 186.00
+- a Degré de soins 0: — CHF 163.80
+- b Degré de soins 1: — CHF 165.25
+- c Degré de soins 2: — CHF 177.75
+- d Degrés de soins 3 à 12: — CHF 186.80
 
 <sup>2</sup> Les soins requis sont attribués au moyen du système d’évaluation BESA (Bewohnerinnen-Einstufungs- und Abrechnungssystem [Système de classification en degrés de soins et de décompte des prestations concernant les résidants]) ou RAI/RUG (Resident Assessment Instrument/ Resource Utilization Group).
 
@@ -192,13 +192,12 @@ arrête:
 
 <sup>2</sup> Il n’est pas remboursé de frais pour des prestations au sens de l’alinéa 1, à l’exception
 
-- a de la participation aux coûts des bénéficiaires de prestations au sens de l’article 25d de l’ordonnance du 24 octobre 2001 sur l’aide sociale (OASoc)[^15-2] et
+- a de la participation des personnes assurées aux frais des prestations au sens de l’article 31 OPASoc et
 - b des soins de base nécessaires au sens de l’article 7, alinéa 2, lettre c, chiffre 1 OPAS, qui sont dispensés par des membres de la famille.
 
 <sup>3</sup> Les frais, dûment établis, pour les soins de base dispensés par des membres de la famille (al. 2, lit. b) sont remboursés au tarif horaire de 25 francs et jusqu’à concurrence de 9600 francs par an, si lesdits membres de la famille ne sont pas pris en compte dans le calcul de la prestation complémentaire.
 
 [^15-1]: RS 832.112.31
-[^15-2]: RSB [860.111](https://www.belex.sites.be.ch/data/860.111/fr)
 
 #### Art. 16
 
@@ -456,7 +455,7 @@ arrête:
 
 <sup>1</sup> Les appartements protégés rattachés à un foyer sont considérés jusqu’au 31 décembre 2012 au plus tard comme faisant partie d’un foyer reconnu, si
 
-- a le foyer dispose d’une autorisation d’exploiter au sens de l’ordonnance sur les foyers;
+- a le foyer dispose d’une autorisation d’exploiter au sens de l’OPASoc;
 - b un système d’appel d’urgence est disponible et qu’en cas d’appel de ce type, une personne à même d’évaluer la situation et de demander l’aide nécessaire rejoigne dans les 15 minutes l’habitant ou l’habitante de l’appartement;
 - c tous les habitants de ces appartements se voient délivrer une attestation de tarif prévoyant un degré de soins 0, munie de la mention «Modèle d’appartements protégés avec prestations de soins et d’assistance»;
 - d le transfert vers le service hospitalier du foyer est possible à tout moment et que
