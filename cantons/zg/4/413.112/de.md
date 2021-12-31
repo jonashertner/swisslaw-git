@@ -3,20 +3,20 @@ canton: ZG
 number: "413.112"
 title: Ausführungsbestimmungen 2 zum Einführungsgesetz Berufsbildung (Regelung des Qualifikationsverfahrens)
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-14
+version: 2022-01-01
+valid_until: 2024-02-29
+version_adopted: 2021-12-13
 adopted: 2008-05-30
 in_force: 2008-06-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/413.112"
-pdf: "https://bgs.zg.ch/api/de/versions/2199/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2292/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen 2 zum Einführungsgesetz Berufsbildung (Regelung des Qualifikationsverfahrens)
 
-Vom 30. Mai 2008 (Stand 1. Januar 2021)
+Vom 30. Mai 2008 (Stand 1. Januar 2022)
 
 Das Amt für Berufsbildung des Kantons Zug,
 
@@ -68,9 +68,9 @@ verfügt:
 
 **Fernbleiben**
 
-<sup>1</sup> Für Lernende, welche ohne entschuldbaren Grund eine Prüfung oder einen Prüfungsteil nicht ablegen, nicht rechtzeitig oder nicht am vorgegebenen Prüfungsort erscheinen, gilt die betreffende Prüfung als nicht ausgeführt und wird mit der Note 1.0 erfasst.
+<sup>1</sup> Für Lernende, welche ohne entschuldbaren Grund eine Prüfung oder einen Prüfungsteil nicht ablegen, nicht rechtzeitig oder nicht am vorgegebenen Prüfungsort erscheinen, gilt die betreffende Prüfung als nicht ausgeführt und wird nicht bewertet.
 
-<sup>2</sup> In Fällen von leichten Verschulden kann die Prüfungsleitung auf schriftliches Gesuch der Lernenden oder des Lernenden eine Nachprüfung ansetzen. Die Kosten der Nachprüfung sind von der lernenden Person zu tragen. Der Nachprüfungstermin wird von der Prüfungsleitung festgelegt. Das Fähigkeitszeugnis wird frühestens nach dem ordentlichen Ende der beruflichen Grundbildung ausgehändigt.
+<sup>2</sup> In Fällen von leichtem Verschulden kann die Prüfungsleitung auf schriftliches Gesuch der Lernenden oder des Lernenden eine Nachprüfung ansetzen. Die Kosten der Nachprüfung sind von der lernenden Person zu tragen. Der Nachprüfungstermin wird von der Prüfungsleitung festgelegt.
 
 #### § 8
 
@@ -136,9 +136,11 @@ verfügt:
 
 **Widerhandlung gegen die Prüfungsordnung**
 
-<sup>1</sup> Das Amt entscheidet aufgrund der Expertenmeldung darüber, in welchem Qualifikationsbereich, welcher Position oder Unterposition die Leistungen der Kandidatin bzw. des Kandidaten mit der Note 1.0 erfasst wird, wenn diese bzw. dieser unerlaubte Hilfsmittel benützt, fremde Hilfe beansprucht oder in anderer Weise gegen die Prüfungsordnung verstösst.
+<sup>1</sup> Das Amt entscheidet aufgrund der Expertenmeldung darüber, in welchem Qualifikationsbereich, welcher Position oder Unterposition die Leistungen der Kandidatin bzw. des Kandidaten nicht bewertet werden, wenn diese bzw. dieser unerlaubte Hilfsmittel benützt, fremde Hilfe beansprucht oder in anderer Weise gegen die Prüfungsordnung verstösst.
 
-<sup>2</sup> Die Kandidatin oder der Kandidat, die bzw. der erheblich stört oder die vorgeschriebenen Prüfungszeiten grundlos nicht einhält, kann von der Expertin bzw. vom Experten unter Meldung an die Prüfungsleitung weggewiesen werden.
+<sup>2</sup> Die Kandidatin oder der Kandidat, die bzw. der erheblich stört oder die vorgeschriebenen Prüfungszeiten grundlos nicht einhält, kann von der Expertin bzw. vom Experten unter Meldung an die Prüfungsleitung weggewiesen werden. Die Prüfung wird in diesem Fall nicht bewertet.
+
+<sup>2a</sup> Die Prüfungsleitung entscheidet, ob nur die nicht bewerteten Prüfungen oder das gesamte Qualifikationsverfahren wiederholt werden. Prüfungen können frühestens nach einem Jahr wiederholt werden.
 
 <sup>3</sup> Wird der Verstoss gegen die Prüfungsordnung erst nachträglich erkannt, kann das Amt das Fähigkeitszeugnis zurückfordern bzw. allenfalls ungültig erklären.
 
