@@ -3,11 +3,11 @@ sr: "632.319"
 title: "Ordinanza del 27 giugno 1995 sulle aliquote di dazio per le merci nel traffico con partner di libero scambio (esclusi gli Stati membri dell'UE e dell'AELS) (Ordinanza sul libero scambio 2)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695"
 language: it
-version: 2021-11-01
+version: 2022-01-01
 adopted: 1995-06-27
 in_force: 1995-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695/20211101/it/xml/fedlex-data-admin-ch-eli-cc-1995-2695_2695_2695-20211101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20211101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1995-2695_2695_2695-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20211101/it"
 
 (Ordinanza sul libero scambio 2)[^t-1]
 
-del 27 giugno 1995 (Stato 1° novembre 2021)
+del 27 giugno 1995 (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta l’art. 8 dell’O del 18 giu. 2008 sul libero scambio 1, in vigore dal 1° ago. 2008 ([RU 2008 3519](https://fedlex.data.admin.ch/eli/oc/2008/455)).
 
@@ -47,10 +47,10 @@ Il trattamento preferenziale giusta gli accordi e le convenzioni menzionati nell
 <sup>2</sup> Per i prodotti agricoli contrassegnati dalla dicitura «em» negli allegati 2 e 3, si applicano le aliquote di dazio stabilite dal Dipartimento federale delle finanze secondo l’articolo 3 dell’ordinanza del 23 novembre 2011[^1-7] concernente gli elementi di protezione industriale e gli elementi mobili applicabili all’importazione di prodotti agricoli trasformati.[^1-8]
 
 [^1-1]: Nuovo testo giusta il n. I dell’O dell’11 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2669](https://fedlex.data.admin.ch/eli/oc/2010/357)), dal 1° ott. 2010 per la Serbia ([RU 2010 4095](https://fedlex.data.admin.ch/eli/oc/2010/597)), dal 1° nov. 2010 per l’Albania ([RU 2010 4609](https://fedlex.data.admin.ch/eli/oc/2010/667)), dal 1° lug. 2014 per gli Stati membri del CCG ([RU 2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)).
-[^1-2]: Nuovo testo giusta il n. I dell’O del 24 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 596](https://fedlex.data.admin.ch/eli/oc/2021/596)).
+[^1-2]: Nuovo testo giusta il n. I dell’O del 24 set. 2021, in vigore dal 1° nov. 2021, ad eccezione del Guatemala ([RU 2021 596](https://fedlex.data.admin.ch/eli/oc/2021/596)).
 [^1-3]: Botswana, Eswatini, Lesotho, Namibia, Sudafrica.
 [^1-4]: Arabia Saudita, Bahrain, Emirati Arabi Uniti, Kuwait, Oman, Qatar.
-[^1-5]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ad eccezione del Guatemala ([RU 2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)).
+[^1-5]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020, ad eccezione del Guatemala ([RU 2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)).
 [^1-6]: Introdotta dal n. I dell’O del 27 feb. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6433](https://fedlex.data.admin.ch/eli/oc/2020/1055)).
 [^1-7]: [RS 632.111.722](https://fedlex.data.admin.ch/eli/cc/2011/821)
 [^1-8]: Introdotto dal n. I dell’O del 7 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 605](https://fedlex.data.admin.ch/eli/oc/2014/133)).
@@ -61,21 +61,22 @@ Il trattamento preferenziale giusta gli accordi e le convenzioni menzionati nell
 
 <sup>1</sup> Le merci il cui quantitativo importato con trattamento preferenziale è limitato (contingenti doganali) sono specificate con le quantità corrispondenti nell’allegato 2 e, per il Regno Unito, nell’allegato 6.[^1a-2]
 
-<sup>2</sup> La dichiarazione doganale di merci che fanno parte di contingenti doganali deve essere effettuata per via elettronica. D’intesa con l’Ufficio federale dell’agricoltura, l’Amministrazione federale delle dogane può concedere deroghe alla dichiarazione doganale elettronica, ad esempio in caso di piccoli invii e importazioni occasionali.
+<sup>2</sup> La dichiarazione doganale di merci che fanno parte di contingenti doganali deve essere effettuata per via elettronica. D’intesa con l’Ufficio federale dell’agricoltura, l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^1a-3] può concedere deroghe alla dichiarazione doganale elettronica, ad esempio in caso di piccoli invii e importazioni occasionali.
 
-<sup>3</sup> Per le importazioni di merci appartenenti ai contingenti doganali, le aliquote di dazio preferenziali riportate negli allegati 2 e 6 sono attribuite nell’ordine di accettazione delle dichiarazioni doganali d’importazione fino ad esaurimento del rispettivo contingente. Sono fatte salve le disposizioni speciali previste dall’ordinanza del 26 ottobre 2011[^1a-3] sulle importazioni agricole (OIAgr) e dalle rispettive regolamentazioni di mercato della legislazione in materia di agricoltura.[^1a-4]
+<sup>3</sup> Per le importazioni di merci appartenenti ai contingenti doganali, le aliquote di dazio preferenziali riportate negli allegati 2 e 6 sono attribuite nell’ordine di accettazione delle dichiarazioni doganali d’importazione fino ad esaurimento del rispettivo contingente. Sono fatte salve le disposizioni speciali previste dall’ordinanza del 26 ottobre 2011[^1a-4] sulle importazioni agricole (OIAgr) e dalle rispettive regolamentazioni di mercato della legislazione in materia di agricoltura.[^1a-5]
 
 <sup>4</sup> Se sono applicabili disposizioni speciali ai sensi del capoverso 3, le quote di contingenti doganali sono attribuite solo se una quota di contingente doganale è stata previamente attribuita in virtù dell’OIAgr e delle rispettive regolamentazioni di mercato della legislazione in materia di agricoltura.
 
-<sup>5</sup> All’esaurimento di un contingente doganale ai sensi dell’OIAgr, l’Ufficio federale dell’agricoltura autorizza, sempre che obblighi convenzionali lo prevedano, l’importazione di una merce all’aliquota preferenziale di cui agli allegati 2 e 6 fino ad esaurimento del contingente corrispondente.[^1a-5]
+<sup>5</sup> All’esaurimento di un contingente doganale ai sensi dell’OIAgr, l’Ufficio federale dell’agricoltura autorizza, sempre che obblighi convenzionali lo prevedano, l’importazione di una merce all’aliquota preferenziale di cui agli allegati 2 e 6 fino ad esaurimento del contingente corrispondente.[^1a-6]
 
-<sup>6</sup> L’Amministrazione federale delle dogane pubblica periodicamente, per via elettronica, il saldo dei contingenti doganali.
+<sup>6</sup> L’UDSC pubblica periodicamente, per via elettronica, il saldo dei contingenti doganali.
 
 [^1a-1]: Introdotto dal n. I dell’O del 22 ago. 2001 ([RU 2001 2130](https://fedlex.data.admin.ch/eli/oc/2001/307)). Nuovo testo giusta il n. I dell’O del 2 apr. 2008, in vigore dal 15 apr. 2008 ([RU 2008 1661](https://fedlex.data.admin.ch/eli/oc/2008/244)).
 [^1a-2]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6433](https://fedlex.data.admin.ch/eli/oc/2020/1055)).
-[^1a-3]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
-[^1a-4]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6433](https://fedlex.data.admin.ch/eli/oc/2020/1055)).
+[^1a-3]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il testo.
+[^1a-4]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
 [^1a-5]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6433](https://fedlex.data.admin.ch/eli/oc/2020/1055)).
+[^1a-6]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6433](https://fedlex.data.admin.ch/eli/oc/2020/1055)).
 
 #### Art. 2 e 3
 
@@ -144,7 +145,7 @@ Allegato 1[^t-2]
 
 ## Elenco degli accordi e delle convenzioni in forma di scambi di lettere
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del 10 giu. 2011 ([RU 2011 2455](https://fedlex.data.admin.ch/eli/oc/2011/357)). Aggiornato dai n. II cpv. 1 delle O del 15 ago. 2012 ([RU 2012 4247](https://fedlex.data.admin.ch/eli/oc/2012/507)), del 14 set. 2012 ([RU 2012 4909](https://fedlex.data.admin.ch/eli/oc/2012/584)), del 14 giu. 2013 ([RU 2013 1877](https://fedlex.data.admin.ch/eli/oc/2013/409)), del 20 ago. 2014 ([RU 2014 2639](https://fedlex.data.admin.ch/eli/oc/2014/469)), del 6 giu. 2014 ([RU 2014 1465](https://fedlex.data.admin.ch/eli/oc/2014/312)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), del 28 mar. 2018 ([RU 2018 1405](https://fedlex.data.admin.ch/eli/oc/2018/227)), del 9 mag. 2018 ([RU 2018 1881](https://fedlex.data.admin.ch/eli/oc/2018/286)), del 18 set. 2020 ([RU 2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)), del 27 feb. 2019 ([RU 2020 6433](https://fedlex.data.admin.ch/eli/oc/2020/1055)), dai n. I cpv. 1 delle O del 21 apr. 2021 ([RU 2021 433](https://fedlex.data.admin.ch/eli/oc/2021/433)) e del 25 ago. 2021 ([RU 2021 534](https://fedlex.data.admin.ch/eli/oc/2021/534)) e dal n. II cpv. 1 dell’O del 24 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 596](https://fedlex.data.admin.ch/eli/oc/2021/596)).
+[^t-2]: Nuovo testo giusta il n. II dell’O del 10 giu. 2011 ([RU 2011 2455](https://fedlex.data.admin.ch/eli/oc/2011/357)). Aggiornato dai n. II cpv. 1 delle O del 15 ago. 2012 ([RU 2012 4247](https://fedlex.data.admin.ch/eli/oc/2012/507)), del 14 set. 2012 ([RU 2012 4909](https://fedlex.data.admin.ch/eli/oc/2012/584)), del 14 giu. 2013 ([RU 2013 1877](https://fedlex.data.admin.ch/eli/oc/2013/409)), del 20 ago. 2014 ([RU 2014 2639](https://fedlex.data.admin.ch/eli/oc/2014/469)), del 6 giu. 2014 ([RU 2014 1465](https://fedlex.data.admin.ch/eli/oc/2014/312)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), del 28 mar. 2018 ([RU 2018 1405](https://fedlex.data.admin.ch/eli/oc/2018/227)), del 9 mag. 2018 ([RU 2018 1881](https://fedlex.data.admin.ch/eli/oc/2018/286)), del 18 set. 2020 ([RU 2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)), del 27 feb. 2019 ([RU 2020 6433](https://fedlex.data.admin.ch/eli/oc/2020/1055)), dai n. I cpv. 1 delle O del 21 apr. 2021 ([RU 2021 433](https://fedlex.data.admin.ch/eli/oc/2021/433)), del 25 ago. 2021 ([RU 2021 534](https://fedlex.data.admin.ch/eli/oc/2021/534)) e dal n. II cpv. 1 dell’O del 24 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 596](https://fedlex.data.admin.ch/eli/oc/2021/596)).
 
 - 1\. Accordo di libero scambio del 25 giugno 2018[^annex1-lvlu1-1] tra gli Stati dell’AELS e la Turchia (art. 2.3–2.6) e Accordo agricolo del 25 giugno 2018[^annex1-lvlu1-2] tra la Svizzera e la Turchia.
 - 2\. Accordo di libero scambio del 17 settembre 1992[^annex1-lvlu1-3] tra gli Stati dell’AELS e Israele (art. 3–6) e Accordo agricolo del 22 novembre 2018[^annex1-lvlu1-4] tra la Svizzera e Israele.
@@ -180,11 +181,12 @@ Allegato 1[^t-2]
 - 32\. Accordo di partenariato economico globale del 25 giugno 2018[^annex1-lvlu1-56] tra gli Stati dell’AELS e l’Ecuador (art. 1.2–2.22).
 - 33\. Accordo commerciale dell’11 febbraio 2019[^annex1-lvlu1-57] tra la Confederazione Svizzera e il Regno Unito della Gran Bretagna e dell’Irlanda del Nord (con allegati).
 - 34\. Accordo di partenariato economico globale del 16 dicembre 2018[^annex1-lvlu1-58] tra gli Stati dell’AELS e l’Indonesia (art. 1.3–2.23).
+- [tab]
 
 [^annex1-lvlu1-1]: [RS 0.632.317.631](https://fedlex.data.admin.ch/eli/cc/2021/559)
 [^annex1-lvlu1-2]: [RS 0.632.317.631.1](https://fedlex.data.admin.ch/eli/cc/2021/560)
 [^annex1-lvlu1-3]: [RS 0.632.314.491](https://fedlex.data.admin.ch/eli/cc/1993/2477_2477_2477)
-[^annex1-lvlu1-4]: [RS 0.632.314.491.1](https://fedlex.data.admin.ch/eli/cc/2021/435)
+[^annex1-lvlu1-4]: [RS 0.632.314.491.1](https://fedlex.data.admin.ch/eli/cc/2021/435); [RU 2021 435](https://fedlex.data.admin.ch/eli/oc/2021/435)
 [^annex1-lvlu1-5]: [RS 0.946.293.142](https://fedlex.data.admin.ch/eli/cc/1995/3925_3925_3925)
 [^annex1-lvlu1-6]: [RS 0.632.315.491](https://fedlex.data.admin.ch/eli/cc/2003/433)
 [^annex1-lvlu1-7]: [RS 0.632.315.491.1](https://fedlex.data.admin.ch/eli/cc/2003/433-2)
@@ -244,9 +246,9 @@ Allegato 2[^t-3]
 
 (art. 1 cpv. 1 lett. a, 1*a* cpv. 1, 3 e 5)
 
-## Aliquote di dazio all’importazione: merci, aliquote e Paesi beneficiari
+## Aliquote di dazio all’importazione: merci, aliquote e Paesi beneficianti
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 2 dell’O del 24 set. 2021 ([RU 2021 596](https://fedlex.data.admin.ch/eli/oc/2021/596)). Aggiornato dal n. I dell’O del 2 dic. 2022, in vigore dal 1° ott. 2021 ([RU 2023 37](https://fedlex.data.admin.ch/eli/oc/2023/37)).
+[^t-3]: Nuovo testo giusta il n. II cpv. 2 dell’O del 24 set. 2021 ([RU 2021 596](https://fedlex.data.admin.ch/eli/oc/2021/596)). Aggiornato dal n. I dell’O del 2 dic. 2022 ([RU 2023 37](https://fedlex.data.admin.ch/eli/oc/2023/37)) e dall’all. 3 n. 9 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
 <tr><th colspan="2">Voce di tariffa</th><th colspan="2">Aliquota preferenziale</th><th>Paesi beneficianti (Codice ISO 2 o sigla)</th><th>Contingenti doganali; disposizioni particolari</th></tr>
@@ -535,7 +537,7 @@ Allegato 2[^t-3]
 <tr><td></td><td>9951</td><td></td><td>3.—</td><td>CN</td><td></td></tr>
 <tr><td></td><td>9981</td><td></td><td>3.—</td><td>CN</td><td></td></tr>
 <tr><td></td><td>9990</td><td>esente</td><td></td><td>SACU</td><td>di selvaggina: contingente doganale annuo di 20 t (voci di tariffa 0210.2010 e ex 9990)</td></tr>
-<tr><td>0301.</td><td>1100/ 0308.9000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>0301.</td><td>1100/ 0309. 9000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>0401.</td><td>1010</td><td>16.20</td><td></td><td>CN</td><td></td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td></td></tr>
 <tr><td></td><td>2010</td><td>16.20</td><td></td><td>CN</td><td></td></tr>
@@ -546,14 +548,14 @@ Allegato 2[^t-3]
 <tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td></td></tr>
 <tr><td></td><td>2911</td><td>45.—</td><td></td><td>CN, ID</td><td></td></tr>
 <tr><td></td><td>9110</td><td></td><td>5.—</td><td>CO, ID, PE</td><td></td></tr>
-<tr><td>0403.</td><td>1010</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, UA</td><td></td></tr>
+<tr><td>0403.</td><td>2011</td><td>16.20</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td></td></tr>
+<tr><td></td><td>2091</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, UA</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>10.—</td><td>CN, TR</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>12.—</td><td>ID</td><td></td></tr>
-<tr><td></td><td>1020</td><td>100.—</td><td></td><td>JO, MA, TN</td><td></td></tr>
+<tr><td></td><td>2099</td><td>100.—</td><td></td><td>JO, MA, TN</td><td></td></tr>
 <tr><td></td><td></td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>10.—</td><td>CN, ID, TR</td><td></td></tr>
-<tr><td></td><td>1091</td><td>16.20</td><td></td><td>CN</td><td></td></tr>
-<tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td></td></tr>
 <tr><td></td><td>9031</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>10.—</td><td>CN, ID, TR</td><td></td></tr>
 <tr><td></td><td>9041</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
@@ -647,7 +649,7 @@ Allegato 2[^t-3]
 <tr><td></td><td></td><td>26.—</td><td></td><td>CA</td><td></td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>GE, GT</td><td></td></tr>
 <tr><td></td><td></td><td>8.—</td><td></td><td>AL, BA, ME, RS, SACU</td><td>miele d’acacia</td></tr>
-<tr><td>0410.</td><td>0000</td><td>esente</td><td></td><td>BA, CAS, CL, CN, CO, EC, GCC, GE, ID, JP, KR, ME, MX, PE, SACU, SG</td><td></td></tr>
+<tr><td>0410.</td><td>1000/9000</td><td>esente</td><td></td><td>BA, CAS, CL, CN, CO, EC, GCC, GE, ID, JP, KR, ME, MX, PE, SACU, SG</td><td></td></tr>
 <tr><td>0501.</td><td>0000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, ID, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
 <tr><td>0502.</td><td>1000/9000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, ID, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
 <tr><td>0504.</td><td>0010</td><td>esente</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, ID, JP, KR, LB, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
@@ -863,6 +865,7 @@ Allegato 2[^t-3]
 <tr><td>0704.</td><td>1010</td><td>esente</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, ID, IL, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
 <tr><td></td><td>1011</td><td>esente</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, ID, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
 <tr><td></td><td>1020/1021</td><td>esente</td><td></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, ID, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>1030/1031</td><td>esente</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, ID, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
 <tr><td></td><td>1090/1091</td><td>esente</td><td></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, ID, JO, JP, KR, LB, MA, ME, MX, PE, PS, RS, SACU, UA</td><td></td></tr>
 <tr><td></td><td>2010/2011</td><td>5.—</td><td></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>CN, EC, EG, GE, ID</td><td></td></tr>
@@ -870,8 +873,6 @@ Allegato 2[^t-3]
 <tr><td></td><td>9020/9021</td><td>esente</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, ID, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, UA</td><td></td></tr>
 <tr><td></td><td>9030/9031</td><td>esente</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, ID, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, UA</td><td></td></tr>
 <tr><td></td><td>9040/9041</td><td>esente</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, ID, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td>9050</td><td>esente</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, ID, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td>9051</td><td>esente</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, ID, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
 <tr><td></td><td>9060</td><td>5.—</td><td></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, MA, ME, MK, PE, PS, RS, SACU, UA</td><td></td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>CN, EC, EG, GE, ID, IL, PH</td><td></td></tr>
 <tr><td></td><td>9061</td><td>5.—</td><td></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, MA, ME, MK, PE, PS, RS, SACU, UA</td><td></td></tr>
@@ -1004,8 +1005,9 @@ Allegato 2[^t-3]
 <tr><td></td><td>4090/4091</td><td>5.—</td><td></td><td>AL, CAS, CL, CO, JO, JP, KR, LB, MA, PE, RS, SACU, UA</td><td></td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>BA, CN, EC, EG, GE, ID, IL, ME, PH</td><td></td></tr>
 <tr><td></td><td>5100</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td>5900</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SG, UA</td><td></td></tr>
-<tr><td></td><td></td><td>esente</td><td></td><td>SACU</td><td>diversi dai tartufi</td></tr>
+<tr><td></td><td>5200/5500</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SG, SACU, UA</td><td></td></tr>
+<tr><td></td><td>5600</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SG, UA</td><td></td></tr>
+<tr><td></td><td>5900</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, UA</td><td></td></tr>
 <tr><td></td><td>6011</td><td>esente</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
 <tr><td></td><td>6012</td><td>5.—</td><td></td><td>AL, BA, CAS, CO, JO, JP, MA, ME, MK, MX, RS</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>8.60</td><td>EC, GE, PH, UA</td><td></td></tr>
@@ -1023,7 +1025,10 @@ Allegato 2[^t-3]
 <tr><td></td><td>9200</td><td></td><td>5.—</td><td>MA, TN, TR</td><td></td></tr>
 <tr><td></td><td></td><td>3.50</td><td></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>CN, EC, EG, GE, ID, IL</td><td></td></tr>
-<tr><td></td><td>9300</td><td>3.50</td><td></td><td>AL, BA, CL, CO, CR, JP, KR, LB, ME, PA, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>9310/9320</td><td>5.—</td><td></td><td>AL, BA, CL, CO, CR, JP, KR, LB, MA, ME, PA, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>JO</td><td>di tipo Baladi</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>CN, EC, EG, GE, GT, ID, IL, PH, TR</td><td></td></tr>
+<tr><td></td><td>9390</td><td>3.50</td><td></td><td>AL, BA, CL, CO, CR, JP, KR, LB, ME, PA, PE, RS, SACU, UA</td><td></td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>CN, EC, EG, GE, GT, ID, IL</td><td></td></tr>
 <tr><td></td><td>9911</td><td>esente</td><td></td><td>CN, ID</td><td></td></tr>
 <tr><td></td><td>9918</td><td>esente</td><td></td><td>CN, CO, EC, ID, IL, PE</td><td></td></tr>
@@ -1032,9 +1037,6 @@ Allegato 2[^t-3]
 <tr><td></td><td>9931</td><td>esente</td><td></td><td>CN, ID</td><td></td></tr>
 <tr><td></td><td>9940/9941</td><td>5.—</td><td></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, MA, ME, PE, PS, RS, SACU, UA</td><td></td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>CN, EC, EG, GE, ID, IL, PH</td><td></td></tr>
-<tr><td></td><td>9950/9951</td><td>5.—</td><td></td><td>AL, BA, CL, CO, CR, JP, KR, LB, MA, ME, PA, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td></td><td>esente</td><td></td><td>JO</td><td>di tipo «Baladi»</td></tr>
-<tr><td></td><td></td><td>esente</td><td></td><td>CN, EC, EG, GE, GT, ID, IL, PH, TR</td><td></td></tr>
 <tr><td></td><td>9960/9961</td><td>esente</td><td></td><td>CN, ID</td><td></td></tr>
 <tr><td></td><td>9970/9971</td><td>esente</td><td></td><td>CN, ID</td><td></td></tr>
 <tr><td></td><td>9980</td><td></td><td>5.—</td><td>MA</td><td></td></tr>
@@ -1086,7 +1088,7 @@ Allegato 2[^t-3]
 <tr><td></td><td>3100</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, ID, JP, KR, MA, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
 <tr><td></td><td>3200</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, ID, JP, KR, MA, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
 <tr><td></td><td>3300</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, ID, JP, KR, MA, ME, MX, PE, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td></td><td>3900</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, ID, JP, KR, MA, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>3400/3900</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, ID, JP, KR, MA, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
 <tr><td></td><td>9021</td><td>10.—</td><td></td><td>AL, BA, CL, CN, CO, EC, EG, GE, IL, KR, MK, PE, PH, RS, SACU</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>10.—</td><td>MA, TN</td><td></td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td></td></tr>
@@ -1215,8 +1217,8 @@ Allegato 2[^t-3]
 <tr><td></td><td>4100/4200</td><td>esente</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, ID, JP, KR, LB, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
 <tr><td></td><td>5100/5200</td><td>esente</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, ID, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>MA</td><td>per l’alimentazione umana</td></tr>
-<tr><td></td><td>6100/9030</td><td>esente</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, ID, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td>9090</td><td>esente</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, ID, JP, KR, LB, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>6100/8000</td><td>esente</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, ID, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9100/9900</td><td>esente</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, ID, JP, KR, LB, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
 <tr><td>0803.</td><td>1000</td><td>esente</td><td></td><td>CN, CO, CR, EC, GCC, GE, GT, ID, MX, PE, PH</td><td></td></tr>
 <tr><td></td><td>9000</td><td>esente</td><td></td><td>CAS, CN, CO, EC, GCC, GE, ID, MX, PE, PH</td><td></td></tr>
 <tr><td>0804.</td><td>1000</td><td>esente</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
@@ -1759,6 +1761,7 @@ Allegato 2[^t-3]
 <tr><td>1211.</td><td>2000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, ID, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
 <tr><td></td><td>3000/4000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, ID, JP, KR, LB, MA, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
 <tr><td></td><td>5000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, HK, ID, IL, JP, KR, LB, MA, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>6000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, ID, IL, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
 <tr><td></td><td>9000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, ID, IL, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>MA</td><td>diversi dalle radici di liquirizia</td></tr>
 <tr><td>1212.</td><td>2100</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, EC, EG, GCC, GE, HK, ID, JP, KR, LB, MA, ME, MX, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
@@ -1839,26 +1842,78 @@ Allegato 2[^t-3]
 <tr><td></td><td>9018/9019</td><td>esente</td><td></td><td>AL, BA, CO, CR, GE, HK, ID, KR, ME, PE, RS, TR</td><td>per usi tecnici</td></tr>
 <tr><td></td><td>9098</td><td>esente</td><td></td><td>AL, BA, CO, CR, GE, HK, ID, KR, ME, PE, RS, TR</td><td>per usi tecnici</td></tr>
 <tr><td></td><td>9099</td><td>esente</td><td></td><td>AL, BA, CO, CR, EC, GE, HK, ID, KR, ME, PE, RS, TR</td><td>per usi tecnici</td></tr>
-<tr><td>1509.</td><td>1010</td><td></td><td>5.50</td><td>JO, JP, MA, PS</td><td></td></tr>
+<tr><td>1509.</td><td>2010</td><td></td><td>5.50</td><td>JO, JP, MA, PS</td><td></td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td></td></tr>
-<tr><td></td><td>1091</td><td>esente</td><td></td><td>AL, BA, CR, GE, IL, JO, LB, MA, ME, PA, RS, TN, TR, UA</td><td>per usi tecnici</td></tr>
+<tr><td></td><td>2091</td><td>esente</td><td></td><td>AL, BA, CR, GE, IL, JO, LB, MA, ME, PA, RS, TN, TR, UA</td><td>per usi tecnici</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>JO</td><td>per l’alimentazione umana: contingente doganale annuo di 200 t</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>AL</td><td>per l’alimentazione umana: contingente doganale annuo di 500 t</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>TN</td><td>per l’alimentazione umana: contingente doganale annuo di 1000 t</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>LB</td><td>non per usi tecnici: contingente doganale annuo di 500 t</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>EG</td><td>contingente doganale annuo di 500 t</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>ME</td><td>per l’alimentazione umana: contingente doganale annuo di 100 t</td></tr>
-<tr><td></td><td></td><td>esente</td><td></td><td>TR</td><td>contingente doganale annuo di 2000 t (voci di tariffa 1509.1091 e 1099)</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>TR</td><td>contingente doganale annuo di 2000 t (voci di tariffa 1509.2091, 2099, 3091, 3099, 4091 e 4099)</td></tr>
 <tr><td></td><td></td><td></td><td>5.50</td><td>IL, JO, MA</td><td>non per usi tecnici</td></tr>
 <tr><td></td><td></td><td></td><td>5.50</td><td>PS</td><td></td></tr>
 <tr><td></td><td></td><td>60.60</td><td></td><td>CL</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>40.60</td><td>GE, ID, JP, KR, PH, SACU</td><td></td></tr>
 <tr><td></td><td></td><td>61.—</td><td></td><td>CO, PE</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>18.60</td><td>CN</td><td></td></tr>
-<tr><td></td><td>1099</td><td>esente</td><td></td><td>AL, BA, CR, EG, GE, IL, JO, LB, MA, ME, PA, RS, TN, TR, UA</td><td>per usi tecnici</td></tr>
+<tr><td></td><td>2099</td><td>esente</td><td></td><td>AL, BA, CR, EG, GE, IL, JO, LB, MA, ME, PA, RS, TN, TR, UA</td><td>per usi tecnici</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>EG</td><td>non per usi tecnici: contingente doganale annuo di 500 t</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>AL</td><td>per l’alimentazione umana: contingente doganale annuo di 500 t</td></tr>
-<tr><td></td><td></td><td>esente</td><td></td><td>TR</td><td>contingente doganale annuo di 2000 t (voci di tariffa 1509.1091 e 1099)</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>TR</td><td>contingente doganale annuo di 2000 t (voci di tariffa 1509.2091, 2099, 3091, 3099, 4091 e 4099)</td></tr>
+<tr><td></td><td></td><td></td><td>5.50</td><td>IL, JO, LB, MA, TN</td><td>non per usi tecnici</td></tr>
+<tr><td></td><td></td><td></td><td>5.50</td><td>PS</td><td></td></tr>
+<tr><td></td><td></td><td>86.70</td><td></td><td>CL</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>57.30</td><td>GE, ID, JP, KR, PH, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>87.—</td><td></td><td>CO, PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>28.30</td><td>CN</td><td></td></tr>
+<tr><td></td><td>3010</td><td></td><td>5.50</td><td>JO, JP, MA, PS</td><td></td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td></td></tr>
+<tr><td></td><td>3091</td><td>esente</td><td></td><td>AL, BA, CR, GE, IL, JO, LB, MA, ME, PA, RS, TN, TR, UA</td><td>per usi tecnici</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>JO</td><td>per l’alimentazione umana: contingente doganale annuo di 200 t</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>AL</td><td>per l’alimentazione umana: contingente doganale annuo di 500 t</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>TN</td><td>per l’alimentazione umana: contingente doganale annuo di 1000 t</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>LB</td><td>non per usi tecnici: contingente doganale annuo di 500 t</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>EG</td><td>contingente doganale annuo di 500 t</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>ME</td><td>per l’alimentazione umana: contingente doganale annuo di 100 t</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>TR</td><td>contingente doganale annuo di 2000 t (voci di tariffa 1509.2091, 2099, 3091, 3099, 4091 e 4099)</td></tr>
+<tr><td></td><td></td><td></td><td>5.50</td><td>IL, JO, MA</td><td>non per usi tecnici</td></tr>
+<tr><td></td><td></td><td></td><td>5.50</td><td>PS</td><td></td></tr>
+<tr><td></td><td></td><td>60.60</td><td></td><td>CL</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>40.60</td><td>GE, ID, JP, KR, PH, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>61.—</td><td></td><td>CO, PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>18.60</td><td>CN</td><td></td></tr>
+<tr><td></td><td>3099</td><td>esente</td><td></td><td>AL, BA, CR, EG, GE, IL, JO, LB, MA, ME, PA, RS, TN, TR, UA</td><td>per usi tecnici</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>EG</td><td>non per usi tecnici: contingente doganale annuo di 500 t</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>AL</td><td>per l’alimentazione umana: contingente doganale annuo di 500 t</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>TR</td><td>contingente doganale annuo di 2000 t (voci di tariffa 1509.2091, 2099, 3091, 3099, 4091 e 4099)</td></tr>
+<tr><td></td><td></td><td></td><td>5.50</td><td>IL, JO, LB, MA, TN</td><td>non per usi tecnici</td></tr>
+<tr><td></td><td></td><td></td><td>5.50</td><td>PS</td><td></td></tr>
+<tr><td></td><td></td><td>86.70</td><td></td><td>CL</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>57.30</td><td>GE, ID, JP, KR, PH, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>87.—</td><td></td><td>CO, PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>28.30</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4010</td><td></td><td>5.50</td><td>JO, JP, MA, PS</td><td></td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td></td></tr>
+<tr><td></td><td>4091</td><td>esente</td><td></td><td>AL, BA, CR, GE, IL, JO, LB, MA, ME, PA, RS, TN, TR, UA</td><td>per usi tecnici</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>JO</td><td>per l’alimentazione umana: contingente doganale annuo di 200 t</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>AL</td><td>per l’alimentazione umana: contingente doganale annuo di 500 t</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>TN</td><td>per l’alimentazione umana: contingente doganale annuo di 1000 t</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>LB</td><td>non per usi tecnici: contingente doganale annuo di 500 t</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>EG</td><td>contingente doganale annuo di 500 t</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>ME</td><td>per l’alimentazione umana: contingente doganale annuo di 100 t</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>TR</td><td>contingente doganale annuo di 2000 t (voci di tariffa 1509.2091, 2099, 3091, 3099, 4091 e 4099)</td></tr>
+<tr><td></td><td></td><td></td><td>5.50</td><td>IL, JO, MA</td><td>non per usi tecnici</td></tr>
+<tr><td></td><td></td><td></td><td>5.50</td><td>PS</td><td></td></tr>
+<tr><td></td><td></td><td>60.60</td><td></td><td>CL</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>40.60</td><td>GE, ID, JP, KR, PH, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>61.—</td><td></td><td>CO, PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>18.60</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4099</td><td>esente</td><td></td><td>AL, BA, CR, EG, GE, IL, JO, LB, MA, ME, PA, RS, TN, TR, UA</td><td>per usi tecnici</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>EG</td><td>non per usi tecnici: contingente doganale annuo di 500 t</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>AL</td><td>per l’alimentazione umana: contingente doganale annuo di 500 t</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>TR</td><td>contingente doganale annuo di 2000 t (voci di tariffa 1509.2091, 2099, 3091, 3099, 4091 e 4099)</td></tr>
 <tr><td></td><td></td><td></td><td>5.50</td><td>IL, JO, LB, MA, TN</td><td>non per usi tecnici</td></tr>
 <tr><td></td><td></td><td></td><td>5.50</td><td>PS</td><td></td></tr>
 <tr><td></td><td></td><td>86.70</td><td></td><td>CL</td><td></td></tr>
@@ -1881,17 +1936,20 @@ Allegato 2[^t-3]
 <tr><td></td><td></td><td></td><td>57.30</td><td>GE, ID, JP, KR, SACU</td><td></td></tr>
 <tr><td></td><td></td><td>87.—</td><td></td><td>CO, PE</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>29.10</td><td>CN</td><td></td></tr>
-<tr><td>1510.</td><td>0010</td><td>esente</td><td></td><td>ID</td><td></td></tr>
-<tr><td></td><td>0091</td><td>esente</td><td></td><td>AL, BA, CAS, CO, GE, JP, KR, LB, MA, ME, PE, RS, TN, TR, UA</td><td>per usi tecnici</td></tr>
+<tr><td>1510.</td><td>10 10</td><td>esente</td><td></td><td>ID</td><td></td></tr>
+<tr><td></td><td>10 90</td><td>esente</td><td></td><td>AL, BA, CAS, CO, GE, JP, KR, LB, MA, ME, PE, RS, TN, TR, UA</td><td>per usi tecnici</td></tr>
 <tr><td></td><td></td><td></td><td>13.40</td><td>CN, ID</td><td></td></tr>
-<tr><td></td><td>0099</td><td>esente</td><td></td><td>AL, BA, CAS, CO, GE, JP, KR, LB, MA, ME, PE, RS, TN, TR, UA</td><td>per usi tecnici</td></tr>
+<tr><td></td><td>90 10</td><td>esente</td><td></td><td>ID</td><td></td></tr>
+<tr><td></td><td>90 91</td><td>esente</td><td></td><td>AL, BA, CAS, CO, GE, JP, KR, LB, MA, ME, PE, RS, TN, TR, UA</td><td>per usi tecnici</td></tr>
+<tr><td></td><td></td><td></td><td>13.40</td><td>CN, ID</td><td></td></tr>
+<tr><td></td><td>90 99</td><td>esente</td><td></td><td>AL, BA, CAS, CO, GE, JP, KR, LB, MA, ME, PE, RS, TN, TR, UA</td><td>per usi tecnici</td></tr>
 <tr><td></td><td></td><td></td><td>14.55</td><td>CN, ID</td><td></td></tr>
 <tr><td>1511.</td><td>1010</td><td>esente</td><td></td><td>ID</td><td></td></tr>
 <tr><td></td><td>1090</td><td>esente</td><td></td><td>AL, BA, CAS, CO, EC, GE, JP, KR, ME, PE, PH, RS, TR, UA</td><td>per usi tecnici</td></tr>
-<tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td>con prova di sostenibilità, per usi tecnici</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>GT</td><td>per la fabbricazione di prodotti della voce di tariffa 2104.1000</td></tr>
-<tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td>con prova di sostenibilità, per la fabbricazione industriale di prodotti delle voci di tariffa 2103.9000 o 2104.1000</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>GT</td><td>per la fabbricazione industriale di prodotti della voce di tariffa 2103.9000</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td>con prova di sostenibilità, per usi tecnici</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td>con prova di sostenibilità, per la fabbricazione industriale di prodotti delle voci di tariffa 2103.9000 o 2104.1000</td></tr>
 <tr><td></td><td></td><td></td><td>36.70</td><td>ID</td><td>con prova di sostenibilità, in recipienti non eccedenti 22 t: contingente doganale annuo «A» (voci di tariffa ex 1511.1090, 9019, 9098 e 9099) per un quantitativo di: – 1.11.–31.12.2021: 166,7 t – 1.1.–31.12.2022: 1050 t – 1.1.–31.12.2023: 1100 t – 1.1.–31.12.2024: 1150 t – 1.1.–31.12.2025: 1200 t – dal 1.1.2026: 1250 t</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td>con prova di sostenibilità, per l’alimentazione umana, in recipienti di capacità non eccedente 2 l e pronto per l’uso: contingente doganale annuo «D» di 100 t (voci di tariffa ex 1511.1090, 9019, 9098 e 9099)</td></tr>
 <tr><td></td><td>9011</td><td>esente</td><td></td><td>ID</td><td></td></tr>
@@ -1908,7 +1966,7 @@ Allegato 2[^t-3]
 <tr><td></td><td>9091</td><td>esente</td><td></td><td>ID</td><td></td></tr>
 <tr><td></td><td>9098</td><td>esente</td><td></td><td>AL, BA, CAS, CO, EC, GE, JP, KR, ME, PE, PH, RS, TR, UA</td><td>per usi tecnici</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td>con prova di sostenibilità, per usi tecnici</td></tr>
-<tr><td></td><td></td><td></td><td>43.70</td><td>ID</td><td>con prova di sostenibilità, in recipienti non eccedenti 22 t: contingente doganale annuo «A» (voci di tariffa ex 1511.1090, 9019, 9098 e 9099) per un quantitativo di: – 1.11.–31.12.2021: 166,7 t – 1.1.–31.12.2022: 1050 t – 1.1.–31.12.2023: 1100 t – 1.1.–31. 2.2024: 1150 t – 1.1.–31.12.2025: 1200 t – dal 1.1.2026: 1250 t</td></tr>
+<tr><td></td><td></td><td></td><td>43.70</td><td>ID</td><td>con prova di sostenibilità, in recipienti non eccedenti 22 t: contingente doganale annuo «A» (voci di tariffa ex 1511.1090, 9019, 9098 e 9099) per un quantitativo di: – 1.11.–31.12.2021: 166,7 t – 1.1.–31.12.2022: 1050 t – 1.1.–31.12.2023: 1100 t – 1.1.–31. 12.2024: 1150 t – 1.1.–31.12.2025: 1200 t – dal 1.1.2026: 1250 t</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td>con prova di sostenibilità, per l’alimentazione umana, in recipienti di capacità non eccedente 2 l e pronto per l’uso: contingente doganale annuo «D» di 100 t (voci di tariffa ex 1511.1090, 9019, 9098 e 9099)</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td>con prova di sostenibilità, per la fabbricazione industriale di prodotti delle voci di tariffa 2103.9000 o 2104.1000</td></tr>
 <tr><td></td><td>9099</td><td>esente</td><td></td><td>AL, BA, CAS, CO, EC, GE, JP, KR, ME, PE, RS, TR, UA</td><td>per usi tecnici</td></tr>
@@ -1941,14 +1999,14 @@ Allegato 2[^t-3]
 <tr><td></td><td></td><td>esente</td><td></td><td>ID, PH</td><td>per la fabbricazione industriale di prodotti della voce di tariffa 2103.9000</td></tr>
 <tr><td></td><td>2110</td><td>esente</td><td></td><td>ID</td><td></td></tr>
 <tr><td></td><td>2190</td><td>esente</td><td></td><td>AL, BA, CAS, CO, EC, GE, JP, KR, ME, PE, PH, RS, TR, UA</td><td>per usi tecnici</td></tr>
-<tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td>con prova di sostenibilità, per usi tecnici</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>GT, PH</td><td>per la fabbricazione industriale di prodotti della voce di tariffa 2103.9000</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td>con prova di sostenibilità, per usi tecnici</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td>con prova di sostenibilità, per la fabbricazione industriale di prodotti della voce di tariffa 2103.9000</td></tr>
 <tr><td></td><td></td><td></td><td>51.30</td><td>ID</td><td>con prova di sostenibilità, in recipienti non eccedenti 22 t: contingente doganale annuo «C1» (voci di tariffa ex 1513.2190, 2918, 2919, 2998 e 2999) per un quantitativo di: – 1.11.–31.12.2021: 333,3 t – 1.1.–31.12.2022: 2100 t – 1.1.–31.12.2023: 2200 t – 1.1.–31.12.2024: 2300 t – 1.1.–31.12.2025: 2400 t – dal 1.1.2026: 2500 t</td></tr>
 <tr><td></td><td></td><td></td><td>25.60</td><td>ID</td><td>con prova di sostenibilità, in recipienti non eccedenti 22 t: contingente doganale annuo «C2» (voci di tariffa ex 1513.2190, 2918, 2919, 2998 e 2999) per un quantitativo di: – 1.11.–31.12.2021: 166,7 t – 1.1.–31.12.2022: 1050 t – 1.1.–31.12.2023: 1100 t – 1.1.–31.12.2024: 1150 t – 1.1.–31.12.2025: 1200 t – dal 1.1.2026: 1250 t</td></tr>
 <tr><td></td><td>2918</td><td>esente</td><td></td><td>AL, BA, CAS, CO, EC, GE, JP, KR, ME, PE, PH, RS, TR, UA</td><td>per usi tecnici</td></tr>
-<tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td>con prova di sostenibilità, per usi tecnici</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>PH</td><td>per la fabbricazione industriale di prodotti della voce di tariffa 2103.9000</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td>con prova di sostenibilità, per usi tecnici</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td>con prova di sostenibilità, per la fabbricazione industriale di prodotti della voce di tariffa 2103.9000</td></tr>
 <tr><td></td><td></td><td></td><td>65.80</td><td>ID</td><td>con prova di sostenibilità, in recipienti non eccedenti 22 t: contingente doganale annuo «C1» (voci di tariffa ex 1513.2190, 2918, 2919, 2998 e 2999) per un quantitativo di: – 1.11.–31.12.2021: 333,3 t – 1.1.–31.12.2022: 2100 t – 1.1.–31.12.2023: 2200 t – 1.1.–31.12.2024: 2300 t – 1.1.–31.12.2025: 2400 t – dal 1.1.2026: 2500 t</td></tr>
 <tr><td></td><td></td><td></td><td>32.90</td><td>ID</td><td>con prova di sostenibilità, in recipienti non eccedenti 22 t: contingente doganale annuo «C2» (voci di tariffa ex 1513.2190, 2918, 2919, 2998 e 2999) per un quantitativo di: – 1.11.–31.12.2021: 166,7 t – 1.1.–31.12.2022: 1050 t – 1.1.–31.12.2023: 1100 t – 1.1.–31.12.2024: 1150 t – 1.1.–31.12.2025: 1200 t – dal 1.1.2026: 1250 t</td></tr>
@@ -1963,8 +2021,8 @@ Allegato 2[^t-3]
 <tr><td></td><td></td><td></td><td>30.50</td><td>ID</td><td>con prova di sostenibilità, in recipienti non eccedenti 22 t: contingente doganale annuo «C2» (voci di tariffa ex 1513.2190, 2918, 2919, 2998 e 2999) per un quantitativo di: – 1.11.–31.12.2021: 166,7 t – 1.1.–31.12.2022: 1050 t – 1.1.–31.12.2023: 1100 t – 1.1.–31.12.2024: 1150 t – 1.1.–31.12.2025: 1200 t – dal 1.1.2026: 1250 t</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td>con prova di sostenibilità, per la fabbricazione industriale di prodotti della voce di tariffa 2103.9000</td></tr>
 <tr><td></td><td>2999</td><td>esente</td><td></td><td>AL, BA, CAS, CO, EC, GE, JP, KR, ME, PE, RS, TR, UA</td><td>per usi tecnici</td></tr>
-<tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td>con prova di sostenibilità, per usi tecnici</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>GT</td><td>per la fabbricazione industriale di prodotti della voce di tariffa 2103.9000</td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td>con prova di sostenibilità, per usi tecnici</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td>con prova di sostenibilità, per la fabbricazione industriale di prodotti della voce di tariffa 2103.9000</td></tr>
 <tr><td></td><td></td><td></td><td>65.60</td><td>ID</td><td>con prova di sostenibilità, in recipienti non eccedenti 22 t: contingente doganale annuo «C1» (voci di tariffa ex 1513.2190, 2918, 2919, 2998 e 2999) per un quantitativo di: – 1.11.–31.12.2021: 333,3 t – 1.1.–31.12.2022: 2100 t – 1.1.–31.12.2023: 2200 t – 1.1.–31.12.2024: 2300 t – 1.1.–31.12.2025: 2400 t – dal 1.1.2026: 2500 t</td></tr>
 <tr><td></td><td></td><td></td><td>32.80</td><td>ID</td><td>con prova di sostenibilità, in recipienti non eccedenti 22 t: contingente doganale annuo «C2» (voci di tariffa ex 1513.2190, 2918, 2919, 2998 e 2999) per un quantitativo di: – 1.11.–31.12.2021: 166,7 t – 1.1.–31.12.2022: 1050 t – 1.1.–31.12.2023: 1100 t – 1.1.–31.12.2024: 1150 t – 1.1.–31.12.2025: 1200 t – dal 1.1.2026: 1250 t</td></tr>
@@ -1991,6 +2049,10 @@ Allegato 2[^t-3]
 <tr><td></td><td></td><td></td><td>14.55</td><td>CN, ID</td><td></td></tr>
 <tr><td></td><td>5099</td><td>esente</td><td></td><td>AL, BA, CAS, CO, EG, GE, HK, JP, KR, LB, ME, PE, RS, TR, UA</td><td>per usi tecnici</td></tr>
 <tr><td></td><td></td><td></td><td>15.70</td><td>CN, ID</td><td></td></tr>
+<tr><td></td><td>6091</td><td>esente</td><td></td><td>AL, BA, CAS, CO, EG, GE, ID, IL, JP, KR, LB, ME, PE, RS, TR</td><td>per usi tecnici</td></tr>
+<tr><td></td><td></td><td></td><td>14.55</td><td>CN, EC, ID</td><td></td></tr>
+<tr><td></td><td>6099</td><td>esente</td><td></td><td>AL, BA, CAS, CO, EG, GE, ID, IL, JP, KR, LB, ME, PE, PH, RS, TR, UA</td><td>per usi tecnici</td></tr>
+<tr><td></td><td></td><td></td><td>15.70</td><td>CN, EC, ID</td><td></td></tr>
 <tr><td></td><td>9011</td><td>esente</td><td></td><td>ID</td><td></td></tr>
 <tr><td></td><td>9013</td><td>esente</td><td></td><td>AL, BA, CAS, CO, EG, GE, IL, JP, KR, LB, ME, PE, RS, TR, UA</td><td>per usi tecnici</td></tr>
 <tr><td></td><td></td><td></td><td>13.10</td><td>CN, EC</td><td></td></tr>
@@ -2034,6 +2096,7 @@ Allegato 2[^t-3]
 <tr><td></td><td>2097</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td></td><td>2098</td><td>esente</td><td></td><td>AL, BA, CAS, CO, EC, EG, GE, ID, JP, KR, LB, ME, PE, PH, RS, TR, UA</td><td>per usi tecnici</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>ID, KR</td><td>olio di Perilla, presentato sotto forma galenica</td></tr>
+<tr><td></td><td>3093/3099</td><td>esente</td><td></td><td>AL, BA, CAS, CO, EC, EG, GE, ID, JP, KR, LB, ME, PE, PH, RS, TR, UA</td><td>per usi tecnici</td></tr>
 <tr><td>1517.</td><td>1062</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>10.—</td><td>CN, ID, TR</td><td></td></tr>
 <tr><td></td><td>1067</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
@@ -2060,11 +2123,8 @@ Allegato 2[^t-3]
 <tr><td></td><td>9020</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, ID, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
 <tr><td></td><td>9062</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>10.—</td><td>CN, ID, TR</td><td></td></tr>
-<tr><td></td><td>9063</td><td></td><td>24.50</td><td>CN, EC, ID</td><td></td></tr>
 <tr><td></td><td>9067</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>10.—</td><td>CN, ID, TR</td><td></td></tr>
-<tr><td></td><td>9068</td><td></td><td>24.45</td><td>CN, EC, ID</td><td></td></tr>
-<tr><td></td><td></td><td>esente</td><td></td><td>EC</td><td>per usi tecnici</td></tr>
 <tr><td></td><td>9071</td><td></td><td>22.55</td><td>CN, EC, ID</td><td></td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>EC</td><td>per usi tecnici</td></tr>
 <tr><td></td><td>9079</td><td></td><td>23.90</td><td>CN, EC, ID</td><td></td></tr>
@@ -2099,7 +2159,7 @@ Allegato 2[^t-3]
 <tr><td></td><td></td><td>60.—</td><td></td><td>AL, KR, LB, ME, SACU</td><td></td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td></td></tr>
 <tr><td></td><td>0039</td><td>803.70</td><td></td><td>ID</td><td></td></tr>
-<tr><td></td><td>0049</td><td>110.—</td><td></td><td>AL, CL, CN, CO, EC, GE, ID, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>0048</td><td>110.—</td><td></td><td>AL, CL, CN, CO, EC, GE, ID, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
 <tr><td>1602.</td><td>1010</td><td>42.50</td><td></td><td>IL</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>42.50</td><td>CN, CO, EC, GE, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td></td></tr>
@@ -2133,7 +2193,7 @@ Allegato 2[^t-3]
 <tr><td></td><td>9011</td><td>90.—</td><td></td><td>CN</td><td></td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>ID</td><td></td></tr>
 <tr><td></td><td>9019</td><td>574.20</td><td></td><td>ID</td><td></td></tr>
-<tr><td></td><td>9089</td><td>90.—</td><td></td><td>ID</td><td></td></tr>
+<tr><td></td><td>9088</td><td>90.—</td><td></td><td>ID</td><td></td></tr>
 <tr><td>1603.</td><td>0000</td><td>esente</td><td></td><td>CN, EC, GE, HK, ID, KR, MX, PH</td><td></td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CO, EG, FO, GCC, IL, JO, LB, MA, ME, MK, PE, PS, RS, SACU, SG, TN, TR, UA</td><td>estratti e sughi di carne di balena, di pesci, di crostacei, di molluschi o di altri invertebrati acquatici</td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>JP</td><td>ottenuti esclusivamente da pesci</td></tr>
@@ -3094,6 +3154,14 @@ Allegato 2[^t-3]
 <tr><td></td><td>9930</td><td>esente</td><td></td><td>AL, BA, CN, CO, EC, GCC, GE, HK, ID, JP, KR, ME, PE, RS, SACU, SG</td><td></td></tr>
 <tr><td></td><td>9940</td><td>esente</td><td></td><td>AL, BA, CL, CN, CO, EC, GCC, GE, HK, ID, JP, KR, LB, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
 <tr><td></td><td>9990</td><td>497.70</td><td></td><td>CN, ID</td><td></td></tr>
+<tr><td>2404.</td><td>1100/1210</td><td>497.70</td><td></td><td>CN, ID</td><td></td></tr>
+<tr><td></td><td>1290</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>1910</td><td>497.70</td><td></td><td>CN, ID</td><td></td></tr>
+<tr><td></td><td>1990</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>9110</td><td>497.70</td><td></td><td>CN, ID</td><td></td></tr>
+<tr><td></td><td>9190</td><td>7.30</td><td></td><td>IL, JO, JP, MA, TN</td><td></td></tr>
+<tr><td></td><td></td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, ID, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9200/9900</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>2501.</td><td>0010/ 2904.9900</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>2905.</td><td>1110/4200</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td></td><td>4300/4500</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
@@ -3135,7 +3203,7 @@ Allegato 2[^t-3]
 <tr><td>3809.</td><td>1010</td><td></td><td>4.50</td><td>FO, MA</td><td></td></tr>
 <tr><td></td><td>1090</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td></td><td>9100/9300</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>3810.</td><td>1000/ 3822.0000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>3810.</td><td>1000/ 3822.9000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>3823.</td><td>1110</td><td>esente</td><td></td><td>ID</td><td></td></tr>
 <tr><td></td><td>1190</td><td></td><td>1.—</td><td>IL</td><td></td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, ID, JO, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
@@ -3146,13 +3214,13 @@ Allegato 2[^t-3]
 <tr><td>3824.</td><td>1010</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
 <tr><td></td><td>1090/5000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td></td><td>6000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td>7100/9920</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>8100/9920</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td></td><td>9991</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
 <tr><td></td><td>9999</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>3825.</td><td>1000/6900</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td></td><td>9010</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
 <tr><td></td><td>9090</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>3826.</td><td>0010/0090</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>3826.</td><td>0010/ 3827.9000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>3901.</td><td>1000/ 4017.0090</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>4101.</td><td>2000/ 4103.9000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>4104.</td><td>1100/ 4206.0090</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
@@ -3165,7 +3233,7 @@ Allegato 2[^t-3]
 <tr><td>5201.</td><td>0010/ 5203.0000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>5204.</td><td>1100/ 5212.2500</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>5301.</td><td>1000/ 5302.9000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>5303.</td><td>1000/ 9706.0000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>5303.</td><td>1000/ 9706.9000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 </table>
 
 Allegato 3[^t-4]
@@ -3174,7 +3242,7 @@ Allegato 3[^t-4]
 
 ## Aliquote di dazio all’importazione addizionali: merci, aliquote e Paesi beneficianti
 
-[^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)).
+[^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del 18 set. 2020 ([RU 2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)). Aggiornato dall’all. 3 n. 9 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 Le aliquote di dazio addizionali menzionate sono accordate per merci originarie dei Paesi indicati qui di seguito in base a impegni contrattuali e per il fatto che questi Paesi sono stati designati come beneficiari dell’aiuto allo sviluppo dal Comitato di aiuto allo sviluppo dell’Organizzazione
 
@@ -3212,8 +3280,9 @@ Le aliquote di dazio addizionali menzionate sono accordate per merci originarie 
 <tr><td>1502. 10 91/10 99</td><td colspan="2">esente</td><td></td><td>CO, PE</td><td>per usi tecnici</td></tr>
 <tr><td>90 91/90 99</td><td colspan="2">esente</td><td></td><td>CO, PE</td><td>per usi tecnici</td></tr>
 <tr><td>1505. 00 99</td><td colspan="2">esente</td><td></td><td>CO, PE</td><td></td></tr>
-<tr><td>1509. 10 91/10 99</td><td colspan="2">esente</td><td></td><td>CO, PE</td><td>per usi tecnici</td></tr>
-<tr><td>90 91/90 99</td><td colspan="2">esente</td><td></td><td>CO, PE</td><td>per usi tecnici</td></tr>
+<tr><td>1509. 20 91/20 99</td><td colspan="2">esente</td><td></td><td>CO, PE</td><td>per usi tecnici</td></tr>
+<tr><td>30 91/30 99</td><td colspan="2">esente</td><td></td><td>CO, PE</td><td>per usi tecnici</td></tr>
+<tr><td>40 91/40 99</td><td colspan="2">esente</td><td></td><td>CO, PE</td><td>per usi tecnici</td></tr>
 <tr><td>1515. 90 38/90 39</td><td colspan="2">esente</td><td></td><td>CO, PE</td><td>per usi tecnici</td></tr>
 <tr><td>1516. 10 91/10 99</td><td colspan="2">esente</td><td></td><td>CO, PE</td><td>per usi tecnici</td></tr>
 <tr><td>1518. 00 97</td><td colspan="2">esente</td><td></td><td>CO, PE</td><td></td></tr>
@@ -3255,7 +3324,7 @@ Allegato 4[^t-5]
 
 ## Aliquote di dazio all’importazione per il Lesotho: merci e aliquote
 
-[^t-5]: Nuovo testo giusta il n. II cpv. 1 dell’O del’11 giu. 2010 ([RU 2010 2669](https://fedlex.data.admin.ch/eli/oc/2010/357)). Aggiornato dall’all. 3 n. 9 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2012 ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
+[^t-5]: Nuovo testo giusta il n. II cpv. 1 dell’O del’11 giu. 2010 ([RU 2010 2669](https://fedlex.data.admin.ch/eli/oc/2010/357)). Aggiornato dall’all. 3 n. 9 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)) e dall’all. 3 n. 9 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
 <tr><th colspan="2">Voce di tariffa</th><th></th><th>Aliquota preferenziale</th><th>Disposizioni particolari</th></tr>
@@ -3269,8 +3338,8 @@ Allegato 4[^t-5]
 <tr><td>1505.</td><td colspan="2">00 11/</td><td>esente</td><td></td></tr>
 <tr><td></td><td colspan="2">1515.90 99</td><td></td><td></td></tr>
 <tr><td>ex1516.</td><td colspan="2">10 10/10 99</td><td>esente</td><td>merci di queste voci, escluse quelle di pesci o di mammiferi marini</td></tr>
-<tr><td>1516.</td><td colspan="2">20 10/</td><td>esente</td><td></td></tr>
-<tr><td></td><td colspan="2">1602.90 89</td><td></td><td></td></tr>
+<tr><td>1516.</td><td colspan="2">2010/</td><td>esente</td><td></td></tr>
+<tr><td></td><td colspan="2">1602.9088</td><td></td><td></td></tr>
 <tr><td>ex1603.</td><td colspan="2">00 00</td><td>esente</td><td>merci di questa voce, escluse quelle di pesci, di crostacei, di molluschi o di altri invertebrati acquatici</td></tr>
 <tr><td>1701.</td><td colspan="2">12 00/</td><td>esente</td><td></td></tr>
 <tr><td></td><td colspan="2">2209.00 00</td><td></td><td></td></tr>
@@ -3278,7 +3347,7 @@ Allegato 4[^t-5]
 <tr><td>2302.</td><td colspan="2">10 10/</td><td>esente</td><td></td></tr>
 <tr><td></td><td colspan="2">2309.90 30</td><td></td><td></td></tr>
 <tr><td>2309.</td><td colspan="2">90 81/</td><td>esente</td><td></td></tr>
-<tr><td></td><td colspan="2">2403.99 90</td><td></td><td></td></tr>
+<tr><td></td><td colspan="2">2404.9900</td><td></td><td></td></tr>
 <tr><td>2905.</td><td colspan="2">43 00/44 00</td><td>esente</td><td></td></tr>
 <tr><td>3301.</td><td colspan="2">12 00/90 90</td><td>esente</td><td></td></tr>
 <tr><td>3501.</td><td colspan="2">10 10/</td><td>esente</td><td></td></tr>
