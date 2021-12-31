@@ -4,11 +4,11 @@ title: Verordnung vom 4. September 2013 über den Verkehr mit Tieren und Pflanze
 short: VCITES
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/601"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2013-601-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2013-601-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20200101/de"
 
 (VCITES)
 
-vom 4. September 2013 (Stand am 1. Januar 2020)
+vom 4. September 2013 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -84,11 +84,12 @@ Wer Exemplare nach Artikel 1 Absatz 1 ein-, durch- oder ausführt, ist für die 
 
 <sup>1</sup> Das Eidgenössische Departement des Innern (EDI) legt in einer Verordnung fest, welche Exemplare nach Artikel 1 Absatz 1 Buchstaben a und b bei der Ein-, Durch- und Ausfuhr anzumelden sind. Jagdbare Tiere nach dem JSG, die ausgesetzt werden sollen, müssen nur bei der Einfuhr angemeldet werden.
 
-<sup>2</sup> Die Exemplare sind der Eidgenössischen Zollverwaltung (EZV) mit der Anmeldung nach der Zollgesetzgebung anzumelden. Werden die Exemplare in ein Zollausschlussgebiet eingeführt, durch ein Zollausschlussgebiet durchgeführt oder aus einem Zollausschlussgebiet ausgeführt, so ist die Anmeldung bei einer vom Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV)[^5-1] bezeichneten Stelle vorzunehmen.
+<sup>2</sup> Die Exemplare sind dem Bundesamt für Zoll und Grenzsicherheit (BAZG)[^5-1] mit der Anmeldung nach der Zollgesetzgebung anzumelden. Werden die Exemplare in ein Zollausschlussgebiet eingeführt, durch ein Zollausschlussgebiet durchgeführt oder aus einem Zollausschlussgebiet ausgeführt, so ist die Anmeldung bei einer vom Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV)[^5-2] bezeichneten Stelle vorzunehmen.
 
-<sup>3</sup> Mit der Anmeldung müssen der EZV oder der vom BLV bezeichneten Stelle die notwendigen Bewilligungen nach dem BGCITES und dem JSG sowie die notwendigen Bewilligungen und Bescheinigungen nach Artikel 3 vorgelegt werden.
+<sup>3</sup> Mit der Anmeldung müssen dem BAZG oder der vom BLV bezeichneten Stelle die notwendigen Bewilligungen nach dem BGCITES und dem JSG sowie die notwendigen Bewilligungen und Bescheinigungen nach Artikel 3 vorgelegt werden.
 
-[^5-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2014 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^5-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^5-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2014 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 6
 
@@ -111,7 +112,7 @@ Anmeldepflichtig sind:
 
 Die anmeldepflichtige Person muss:
 
-- a. dafür sorgen, dass anzumeldende Exemplare bei der EZV oder der vom BLV bezeichneten Stelle angemeldet werden;
+- a. dafür sorgen, dass anzumeldende Exemplare beim BAZG oder der vom BLV bezeichneten Stelle angemeldet werden;
 - b. die notwendigen Dokumente vorlegen und auf Verlangen Auskünfte über die Identität und die Herkunft der Exemplare erteilen;
 - c. die Sendungen dem zuständigen Kontrollorgan zur Kontrolle vorlegen;
 - d. bei der physischen Kontrolle für das Auspacken, Bereitstellen und Vorlegen der Sendungen für die Kontrolle sowie für das Wiederverpacken und Verladen der kontrollierten Sendungen sorgen; und
@@ -429,11 +430,11 @@ Das EDI kann unter den Voraussetzungen von Artikel 8 Absatz 2 BGCITES Ausnahmen 
 
 #### Art. 29
 
-**Aufgaben der EZV und der vom BLV bezeichneten Stelle**
+**Aufgaben des BAZG und der vom BLV bezeichneten Stelle**
 
 <sup>1</sup>
 
-Die EZV:
+Das BAZG:
 
 - a. meldet Einfuhrsendungen an das zuständige Kontrollorgan, soweit eine Kontrolle nach Artikel 30 Absatz 1 vorgeschrieben ist; und
 - b. erhebt die Gebühren für die angemeldeten Einfuhrsendungen, ausgenommen die Gebühren für die Kontrolle lebender Pflanzen aus der Europäischen Union (Art. 40 Abs. 2 Bst. c).
@@ -456,7 +457,7 @@ Bei der Ein-, Durch- oder Ausfuhr über ein Zollausschlussgebiet nimmt die vom B
 
 <sup>3</sup> Das BLV kann mit zugelassenen Empfängerinnen und Empfängern nach Artikel 101 der Zollverordnung vom 1. November 2006[^30-1] und mit Lagerhalterinnen und Lagerhaltern nach Artikel 52 Absatz 1 ZG[^30-2] die durchzuführenden Kontrollen und den Ort der Kontrolle vereinbaren. In der Vereinbarung ist festzulegen, wie die Exemplare bis zur Kontrolle gelagert oder untergebracht werden und welche Aufzeichnungen erforderlich sind.
 
-<sup>4</sup> Das BLV kann die Kontrolle von Dokumenten und Sendungen im Einvernehmen mit der EZV den Zollorganen übertragen.
+<sup>4</sup> Das BLV kann die Kontrolle von Dokumenten und Sendungen im Einvernehmen mit dem BAZG den Zollorganen übertragen.
 
 [^30-1]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
 [^30-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
@@ -471,7 +472,7 @@ Die Kontrollorgane kontrollieren Durchfuhrsendungen stichprobenweise sowie im Ve
 
 **Kontrolle der Ausfuhrsendungen**
 
-<sup>1</sup> Die EZV führt bei Ausfuhrsendungen eine Dokumentenkontrolle durch. Sie bescheinigt die Ausfuhr, wenn diese als ordnungsgemäss befunden wird.
+<sup>1</sup> Das BAZG führt bei Ausfuhrsendungen eine Dokumentenkontrolle durch. Sie bescheinigt die Ausfuhr, wenn diese als ordnungsgemäss befunden wird.
 
 <sup>2</sup> Bei der Ausfuhr aus dem Zollausschlussgebiet wird die Dokumentenkontrolle durch die vom BLV bezeichnete Stelle durchgeführt.
 
@@ -483,11 +484,11 @@ Die Kontrollorgane kontrollieren Durchfuhrsendungen stichprobenweise sowie im Ve
 
 <sup>1</sup> Sendungen, die aus dem Ausland in Zollfreilager oder offene Zolllager eingelagert werden, werden nach den Bestimmungen für die Einfuhr kontrolliert.
 
-<sup>2</sup> Die anmeldepflichtige Person muss die Sendungen der EZV bei der Einlagerung unter Vorlage der notwendigen Bewilligungen und Bescheinigungen anmelden.
+<sup>2</sup> Die anmeldepflichtige Person muss die Sendungen dem BAZG bei der Einlagerung unter Vorlage der notwendigen Bewilligungen und Bescheinigungen anmelden.
 
 <sup>3</sup> Die Kontrollorgane kontrollieren eingelagerte oder auszulagernde Sendungen stichprobenweise sowie im Verdachtsfall. Die Kontrollen können eine Dokumentenkontrolle, eine Identitätskontrolle und eine physische Kontrolle umfassen.
 
-<sup>4</sup> Für Sendungen, die aus Zollfreilagern oder offenen Zolllagern ins Ausland verbracht werden, gilt Artikel 32 Absätze 1 und 3. Die anmeldepflichtige Person muss der EZV bei der Anmeldung zum Transitverfahren die notwendigen Bewilligungen und Bescheinigungen vorlegen.
+<sup>4</sup> Für Sendungen, die aus Zollfreilagern oder offenen Zolllagern ins Ausland verbracht werden, gilt Artikel 32 Absätze 1 und 3. Die anmeldepflichtige Person muss dem BAZG bei der Anmeldung zum Transitverfahren die notwendigen Bewilligungen und Bescheinigungen vorlegen.
 
 #### Art. 34
 
@@ -606,10 +607,10 @@ Kontrollorgane sind:
 
 - a. das BLV;
 - b. der Eidgenössische Pflanzenschutzdienst;
-- c. die EZV;
+- c. das BAZG;
 - d. kantonale Veterinärämter, Tierärztinnen und Tierärzte sowie weitere Organisationen oder Personen des privaten oder des öffentlichen Rechts, die vom EDI mit Vollzugsaufgaben betraut werden.
 
-<sup>2</sup> Die EZV kann für den Vollzug die anderen Kontrollorgane nach Absatz 1 beiziehen.
+<sup>2</sup> Das BAZG kann für den Vollzug die anderen Kontrollorgane nach Absatz 1 beiziehen.
 
 #### Art. 42
 
@@ -855,7 +856,7 @@ II
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-…[^annexu1-lvlu1-2]
+...[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 2007 2661](https://fedlex.data.admin.ch/eli/oc/2007/351), [2008 4619](https://fedlex.data.admin.ch/eli/oc/2008/645), [2011 553](https://fedlex.data.admin.ch/eli/oc/2011/82)]
 [^annexu1-lvlu1-2]: Die Änd. können unter [AS 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)konsultiert werden.

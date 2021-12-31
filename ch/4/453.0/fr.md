@@ -4,11 +4,11 @@ title: Ordonnance du 4 septembre 2013 sur la circulation des espèces de faune e
 short: OCITES
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/601"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-601-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-601-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20200101/fr"
 
 (OCITES)
 
-du 4 septembre 2013 (Etat le 1<sup>er</sup> janvier 2020)
+du 4 septembre 2013 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -84,11 +84,12 @@ Quiconque importe, fait transiter ou exporte des spécimens visés à l’art. 1
 
 <sup>1</sup> Le Département fédéral de l’intérieur (DFI) définit dans une ordonnance les spécimens visés à l’art. 1, al. 1, let. a et b, qui doivent être déclarés au moment de leur importation, de leur transit et de leur exportation. S’il s’agit d’animaux pouvant être chassés au sens de la LChP et destinés au lâcher, seule leur importation doit être déclarée.
 
-<sup>2</sup> Les spécimens doivent être déclarés à l’Administration fédérale des douanes (AFD) au moyen de la déclaration prescrite par la législation douanière. Si les spécimens sont importés dans une enclave douanière suisse, transitent par une telle enclave ou sont exportés depuis une telle enclave, la déclaration doit être effectuée à l’un des postes de contrôle désignés par l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV)[^5-1].
+<sup>2</sup> Les spécimens doivent être déclarés à l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^5-1] au moyen de la déclaration prescrite par la législation douanière. Si les spécimens sont importés dans une enclave douanière suisse, transitent par une telle enclave ou sont exportés depuis une telle enclave, la déclaration doit être effectuée à l’un des postes de contrôle désignés par l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV)[^5-2].
 
-<sup>3</sup> Les autorisations requises par la LCITES et la LChP ainsi que les autorisations et certificats visés à l’art. 3 doivent être joints à la déclaration destinée à l’AFD ou au poste de contrôle désigné par l’OSAV.
+<sup>3</sup> Les autorisations requises par la LCITES et la LChP ainsi que les autorisations et certificats visés à l’art. 3 doivent être joints à la déclaration destinée à l’OFDF ou au poste de contrôle désigné par l’OSAV.
 
-[^5-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2014 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^5-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^5-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2014 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 6
 
@@ -111,7 +112,7 @@ Sont assujetties à l’obligation de déclarer:
 
 Les personnes assujetties à l’obligation de déclarer doivent:
 
-- a. veiller à ce que les spécimens soumis à déclaration soient déclarés à l’AFD ou au poste de contrôle désigné par l’OSAV;
+- a. veiller à ce que les spécimens soumis à déclaration soient déclarés à l’OFDF ou au poste de contrôle désigné par l’OSAV;
 - b. présenter les documents nécessaires et fournir, sur demande, des renseignements sur l’identité et l’origine des spécimens;
 - c. présenter les lots à l’organe chargé de les contrôler;
 - d. veiller, en cas de contrôle physique, à déballer, préparer et présenter les lots au contrôle, puis à réemballer et à charger les lots contrôlés, et
@@ -429,11 +430,11 @@ Le DFI peut prévoir des dérogations au régime d’autorisation applicable à 
 
 #### Art. 29
 
-**Tâches de l’AFD et du service de contrôle désigné par l’OSAV**
+**Tâches de l’OFDF et du service de contrôle désigné par l’OSAV**
 
 <sup>1</sup>
 
-L’AFD:
+L’OFDF:
 
 - a. annonce à l’organe de contrôle compétent les lots présentés à l’importation, si un contrôle visé à l’art. 30, al. 1, est prescrit, et
 - b. perçoit les émoluments qui frappent les lots présentés à l’importation, à l’exception des émoluments pour le contrôle des plantes vivantes en provenance de l’Union européenne (art. 40, al. 2, let. c).
@@ -456,7 +457,7 @@ Si l’importation, le transit ou l’exportation sont effectués via une enclav
 
 <sup>3</sup> L’OSAV peut convenir avec les destinataires agréés visés à l’art. 101 de l’ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes[^30-1] et avec les entreposeurs visés à l’art. 52, al. 1, LD[^30-2] des contrôles à effectuer et du lieu où ces contrôles seront effectués. La convention doit définir les modalités qui régissent l’entreposage des spécimens jusqu’au moment du contrôle ainsi que les informations à enregistrer.
 
-<sup>4</sup> En accord avec l’AFD, l’OSAV peut déléguer aux organes des douanes le contrôle des documents et des lots.
+<sup>4</sup> En accord avec l’OFDF, l’OSAV peut déléguer aux organes des douanes le contrôle des documents et des lots.
 
 [^30-1]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
 [^30-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
@@ -471,7 +472,7 @@ Les organes de contrôle contrôlent les lots en transit par sondage ou en cas d
 
 **Contrôle des lots destinés à l’exportation**
 
-<sup>1</sup> S’il s’agit de lots destinés à l’exportation, l’AFD effectue un contrôle des documents. Si elle estime que l’exportation est conforme au droit applicable, elle l’atteste.
+<sup>1</sup> S’il s’agit de lots destinés à l’exportation, l’OFDF effectue un contrôle des documents. Si il estime que l’exportation est conforme au droit applicable, il l’atteste.
 
 <sup>2</sup> Si les lots sont exportés depuis une enclave douanière suisse, le contrôle des documents est effectué par le service de contrôle désigné par l’OSAV.
 
@@ -483,11 +484,11 @@ Les organes de contrôle contrôlent les lots en transit par sondage ou en cas d
 
 <sup>1</sup> Les lots provenant d’un pays étranger qui sont entreposés dans un port franc ou un entrepôt douanier ouvert sont contrôlés selon les dispositions applicables aux lots destinés à l’importation.
 
-<sup>2</sup> La personne assujettie à l’obligation de déclarer doit déclarer les lots à l’AFD au moment de leur entreposage et présenter les autorisations et certificats requis.
+<sup>2</sup> La personne assujettie à l’obligation de déclarer doit déclarer les lots à l’OFDF au moment de leur entreposage et présenter les autorisations et certificats requis.
 
 <sup>3</sup> Les lots entreposés et ceux qui doivent être sortis de l’entrepôt sont contrôlés par sondage ou en cas de soupçon. Les contrôles peuvent comprendre un contrôle documentaire, un contrôle d’identité et un contrôle physique.
 
-<sup>4</sup> Le contrôle des lots qui quittent un port franc ou un entrepôt douanier ouvert pour être transportés à l’étranger est régi par l’art. 32, al. 1 et 3. La personne assujettie à l’obligation de déclarer doit présenter les autorisations et certificats requis à l’AFD lors de la déclaration en vue de la procédure de transit.
+<sup>4</sup> Le contrôle des lots qui quittent un port franc ou un entrepôt douanier ouvert pour être transportés à l’étranger est régi par l’art. 32, al. 1 et 3. La personne assujettie à l’obligation de déclarer doit présenter les autorisations et certificats requis à l’OFDF lors de la déclaration en vue de la procédure de transit.
 
 #### Art. 34
 
@@ -606,10 +607,10 @@ Les organes de contrôle sont:
 
 - a. l’OSAV;
 - b. le Service phytosanitaire fédéral;
-- c. l’AFD;
+- c. l’OFDF;
 - d. les services vétérinaires cantonaux, les vétérinaires, les organisations et les personnes de droit public ou de droit privé auxquels le DFI a confié des tâches d’exécution.
 
-<sup>2</sup> L’AFD peut faire appel aux autres organes de contrôle visés à l’al. 1 pour l’exécution de la présente ordonnance.
+<sup>2</sup> L’OFDF peut faire appel aux autres organes de contrôle visés à l’al. 1 pour l’exécution de la présente ordonnance.
 
 #### Art. 42
 
