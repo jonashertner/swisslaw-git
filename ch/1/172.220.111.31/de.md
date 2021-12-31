@@ -4,11 +4,11 @@ title: Verordnung des EFD vom 6. Dezember 2001 zur Bundespersonalverordnung (VBP
 short: VBPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: de
-version: 2021-08-01
+version: 2022-01-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2001-485-20210801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2001-485-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210801/de"
 
 (VBPV)
 
-vom 6. Dezember 2001 (Stand am 1. August 2021)
+vom 6. Dezember 2001 (Stand am 1. Januar 2022)
 
-Das Eidgenössische Finanzdepartement (EFD),[^ingress-1]
+Das Eidgenössische Finanzdepartement (EFD),*[^ingress-1]*
 
 gestützt auf Artikel 116 Absatz 1 der Bundespersonalverordnung vom 3. Juli 2001[^ingress-2] (BPV),
 
@@ -40,7 +40,7 @@ verordnet:
 
 <sup>2</sup> Die Zuständigkeit für Arbeitgeberentscheide nach dieser Verordnung richtet sich nach Artikel 2 BPV.
 
-<sup>3</sup> ...[^1-2]
+<sup>3</sup> …[^1-2]
 
 <sup>4</sup> In dieser Verordnung bezeichnet der Ausdruck «Departemente» die Departemente und die Bundeskanzlei.
 
@@ -118,7 +118,7 @@ Die Mitarbeiterinnen und Mitarbeiter und die direkten Vorgesetzten bestätigen m
 
 [^7-1]: Aufgehoben durch Ziff. I der V des EFD vom 11. Dez. 2009, mit Wirkung seit 1. Jan. 2010 ([AS 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
 
-## 3. Kapitel: Vorzeitiger Altersrücktritt
+## 3. Kapitel: Vorzeitiger Altersrücktritt****
 
 [^chap3-1]
 
@@ -126,7 +126,7 @@ Die Mitarbeiterinnen und Mitarbeiter und die direkten Vorgesetzten bestätigen m
 
 #### Art. 8
 
-**...[^8-2]**[^8-1]
+**…[^8-2]**[^8-1]
 
 Das Arbeitsverhältnis endet:
 
@@ -326,9 +326,9 @@ Der Zuschlag anstelle des Ferienanspruchs beträgt:
 
 - [tab] <sup>2</sup> Die Bewertung erfolgt gestützt auf die Anforderungen der Funktion nach Artikel 52 Absatz 3 BPV und den Vergleich mit anderen Stellen.
 
-<sup>3</sup> ...[^20-1]
+<sup>3</sup> …[^20-1]
 
-<sup>4</sup> ...[^20-2]
+<sup>4</sup> …[^20-2]
 
 [^20-1]: Aufgehoben durch Ziff. I der V des EFD vom 25. Okt. 2018, mit Wirkung seit 1. Jan 2019 ([AS 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
 [^20-2]: Aufgehoben durch Ziff. I der V des EFD vom 31. Mai 2013, mit Wirkung seit 1. Juli 2013 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
@@ -543,7 +543,7 @@ Die Leistungen des Bundes können vorübergehend oder dauernd gekürzt oder in s
 
 <sup>4</sup> Die Zeitguthaben verfallen fünf Jahre nach ihrem Übertrag auf das Sabbatical-Konto. Aus wichtigen Gründen kann diese Frist verlängert werden.
 
-<sup>5</sup> ...[^34-4]
+<sup>5</sup> …[^34-4]
 
 [^34-1]: Fassung gemäss Ziff. I der V des EFD vom 5. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^34-2]: Fassung gemäss Ziff. I der V des EFD vom 31. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
@@ -666,7 +666,7 @@ Bezahlter Urlaub kann insbesondere für die folgenden Aktivitäten gewährt werd
 Für die folgenden Ereignisse wird bezahlter Urlaub gewährt:
 
 - a.[^40-2] bei der eigenen Heirat, einschliesslich ziviler Trauung, oder bei Eintragung der Partnerschaft: 1 Arbeitstag;
-- b.[^40-3] bei Geburt eines eigenen Kindes (Vaterschaftsurlaub) oder desjenigen des eingetragenen Partners oder der eingetragenen Partnerin: 10 Arbeitstage; diese sind in den ersten zwölf Monaten nach der Geburt eines oder mehrerer Kinder einzeln oder zusammen zu beziehen;
+- b.[^40-3] …
 - c.[^40-4] für die Betreuung eines Familienmitglieds, des Lebenspartners oder der Lebenspartnerin im Fall einer Erkrankung oder eines Unfalls: die erforderliche Zeit, bis 3 Arbeitstage pro Ereignis;
 - d. beim Tod des Ehegatten oder der Ehegattin, des Lebenspartners oder der Lebenspartnerin, eines Elternteils oder Kindes: 3 Arbeitstage;
 - e. beim Tod anderer Verwandter oder von Dritten zur Teilnahme an der Trauerfeier: die erforderliche Zeit, bis 1 Arbeitstag;
@@ -689,7 +689,7 @@ Bei der Gewährung von Urlauben, insbesondere bei längeren unbezahlten Urlauben
 
 [^40-1]: Eingefügt durch Ziff. I der V des EFD vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
 [^40-2]: Fassung gemäss Ziff. I der V des EFD vom 31. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^40-3]: Fassung gemäss Ziff. I der V des EFD vom 26. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
+[^40-3]: Aufgehoben durch Ziff. I der V des EFD vom 14. Mai 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 [^40-4]: Fassung gemäss Ziff. I der V des EFD vom 14. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 [^40-5]: Fassung gemäss Ziff. I der V des EFD vom 5. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^40-6]: Eingefügt durch Ziff. I der V des EFD vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
@@ -915,18 +915,18 @@ Die Departemente regeln in ihrem Bereich die Vergütung von Auslagen:
 
 [^51a-2]
 
-<sup>1</sup> Der Arbeitgeber beteiligt sich an den Kosten der familienergänzenden Kinderbetreuung in Form von pauschalen Entschädigungen.[^51a-3]
+<sup>1</sup> Der Arbeitgeber beteiligt sich an den Kosten der familienergänzenden Kinderbetreuung in Form von Vergütungen.[^51a-3]
 
 <sup>2</sup>
 
 Die Departemente können:
 
-- a.[^51a-4] ...
+- a.[^51a-4] …
 - b. in externen Kinderbetreuungsstätten Krippenplätze finanzieren und für Kinder ihrer Angestellten reservieren.
 
 [^51a-1]: Eingefügt durch Ziff. I der V des EFD vom 8. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)).
 [^51a-2]: Fassung gemäss Ziff. I der V des EFD vom 18. Nov. 2020, in Kraft seit 1. Aug. 2021 ([AS 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
-[^51a-3]: Fassung gemäss Ziff. I der V des EFD vom 18. Nov. 2020, in Kraft seit 1. Aug. 2021 ([AS 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^51a-3]: Fassung gemäss Ziff. I der V des EFD vom 3. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 844](https://fedlex.data.admin.ch/eli/oc/2021/844)).
 [^51a-4]: Aufgehoben durch Ziff. I der V des EFD vom 25. Okt. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
 
 #### Art. 51b
@@ -935,15 +935,16 @@ Die Departemente können:
 
 ### (Art. 75*a* Abs. 2 BPV)
 
-<sup>1</sup> Die Höhe der Vergütung von Kosten für die familienergänzende Kinderbetreuung bemisst sich nach Anhang 2.
+<sup>1</sup> Die Höhe der Vergütung von Kosten für die familienergänzende Kinderbetreuung bemisst sich nach Anhang 2. Die Vergütung darf die effektiven Kosten nicht übersteigen.[^51b-2]
 
-<sup>2</sup> und <sup>3</sup> ... [^51b-2]
+<sup>2</sup> und <sup>3</sup> …[^51b-3]
 
-<sup>4</sup> Sind beide Partner einer Lebensgemeinschaft nach Artikel 75*b* Buchstabe a BPV erwerbstätig, so entspricht die anteilsmässige Vergütung pro Kind der Summe der Beschäftigungsgrade abzüglich 100 Prozent.[^51b-3]
+<sup>4</sup> Sind beide Partner einer Lebensgemeinschaft nach Artikel 75*b* Buchstabe a BPV erwerbstätig, so entspricht die anteilsmässige Vergütung pro Kind der Summe der Beschäftigungsgrade abzüglich 100 Prozent.[^51b-4]
 
 [^51b-1]: Eingefügt durch Ziff. I der V des EFD vom 8. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)).
-[^51b-2]: Aufgehoben durch Ziff. I der V des EFD vom 18. Nov. 2020, mit Wirkung seit 1. Aug. 2021 ([AS 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
-[^51b-3]: Fassung gemäss Ziff. I der V des EFD vom 26. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
+[^51b-2]: Fassung gemäss Ziff. I der V des EFD vom 3. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 844](https://fedlex.data.admin.ch/eli/oc/2021/844)).
+[^51b-3]: Aufgehoben durch Ziff. I der V des EFD vom 18. Nov. 2020, mit Wirkung seit 1. Aug. 2021 ([AS 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^51b-4]: Fassung gemäss Ziff. I der V des EFD vom 26. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
 
 #### Art. 51c
 
@@ -975,7 +976,7 @@ Die Departemente können:
 
 Liegt der Beschäftigungsgrad der angestellten Personen zum Zeitpunkt der Ausrichtung der Treueprämie tiefer als ihr durchschnittlicher Beschäftigungsgrad der letzten fünf Jahre, so kann höchstens die folgende Anzahl Tage bezahlter Urlaub gewährt werden:
 
-- a.[^52-3] ...
+- a.[^52-3] …
 - b. 11 Tage nach zehn oder fünfzehn Anstellungsjahren;
 - c. 22 Tage nach jeweils fünf weiteren Anstellungsjahren.[^52-4]
 
@@ -3662,7 +3663,7 @@ Zuschlag nach Ziffer 4 Absatz 1 Buchstabe c
 
 Der Zuschlag beträgt pro Jahr für Kinder bis zu 12 Jahren 1099 Franken. Für Kinder über 12 Jahre beträgt er 1275 Franken (Indexstand 2001).
 
-Anhang 2[^t-1]
+Anhang 2*[^t-1]*
 
 (Art. 51*b* Abs. 1)
 

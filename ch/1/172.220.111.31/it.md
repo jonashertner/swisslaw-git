@@ -4,11 +4,11 @@ title: "Ordinanza del DFF del 6 dicembre 2001 concernente l'ordinanza sul person
 short: O-OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: it
-version: 2021-08-01
+version: 2022-01-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2001-485-20210801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2001-485-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210801/it"
 
 (O-OPers)
 
-del 6 dicembre 2001 (Stato 1° agosto 2021)
+del 6 dicembre 2001 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
-Il Dipartimento federale delle finanze (DFF),[^ingress-1]
+Il Dipartimento federale delle finanze (DFF),*[^ingress-1]*
 
 visto l’articolo 116 capoverso 1 dell’ordinanza del 3 luglio 2001[^ingress-2] sul personale federale (OPers),
 
@@ -119,7 +119,7 @@ I collaboratori e i loro diretti superiori attestano con la propria firma sul mo
 
 [^7-1]: Abrogato dal n. I dell’O del DFF dell’11 dic. 2009, con effetto dal 1° gen. 2010 ([RU 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
 
-## Capitolo 3: Pensionamento anticipato
+## Capitolo 3:**** Pensionamento anticipato****
 
 [^chap3-1][^chap3-2]
 
@@ -662,7 +662,7 @@ Un congedo pagato può essere concesso in particolare per le seguenti attività:
 Un congedo pagato viene concesso all’impiegato per i seguenti eventi:
 
 - a.[^40-2] matrimonio, compreso il matrimonio civile, oppure registrazione dell’unione domestica: 1 giorno lavorativo;
-- b.[^40-3] nascita di un figlio proprio (congedo paternità) oppure di quello del partner registrato: dieci giorni lavorativi, da prendere di seguito o singolarmente, nei 12 mesi successivi alla nascita di uno o più figli;
+- b.[^40-3] ...
 - c.[^40-4] assistenza a un familiare o al partner in caso di malattia o infortunio: il tempo necessario fino a un massimo di tre giorni lavorativi per ogni evento;
 - d. decesso del coniuge, del convivente, di un genitore o di un figlio: tre giorni lavorativi;
 - e. decesso di un altro parente o di un terzo per consentire la partecipazione al rito funebre: il tempo necessario fino a un massimo di 1 giorno lavorativo;
@@ -685,7 +685,7 @@ In caso di concessione di congedi, in particolare di quelli di più lunga durata
 
 [^40-1]: Introdotta dal n. I dell’O del DFF del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
 [^40-2]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^40-3]: Nuovo testo giusta il n. I dell’O del DFF del 26 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
+[^40-3]: Abrogata dal n. I dell’O del DFF del 14 mag. 2021, con effetto dal 1° gen. 2022 ([RU 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 [^40-4]: Nuovo testo giusta il n. I dell’O del DFF del 14 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 [^40-5]: Nuovo testo giusta il n. I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^40-6]: Introdotta dal n. I dell’O del DFF del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
@@ -911,7 +911,7 @@ I Dipartimenti disciplinano nel proprio settore i rimborsi delle spese:
 
 [^51a-2]
 
-<sup>1</sup> Il datore di lavoro partecipa ai costi per la custodia di bambini complementare alla famiglia sotto forma di indennità forfettarie.[^51a-3]
+<sup>1</sup> Il datore di lavoro partecipa ai costi per la custodia di bambini complementare alla famiglia sotto forma di rimborsi.[^51a-3]
 
 <sup>2</sup>
 
@@ -922,7 +922,7 @@ I dipartimenti possono:
 
 [^51a-1]: Introdotto dal n. I dell’O del DFF dell’8 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)).
 [^51a-2]: Nuovo testo giusta il n. I dell’O del DFF del 18 nov. 2020, in vigore dal 1° ago. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
-[^51a-3]: Nuovo testo giusta il n. I dell’O del DFF del 18 nov. 2020, in vigore dal 1° ago. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^51a-3]: Nuovo testo giusta il n. I dell’O del DFF del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 844](https://fedlex.data.admin.ch/eli/oc/2021/844)).
 [^51a-4]: Abrogata dal n. I dell’O del DFF del 25 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
 
 #### Art. 51b
@@ -931,27 +931,25 @@ I dipartimenti possono:
 
 ### (art. 75a cpv. 2 OPers)
 
-<sup>1</sup> L’importo del rimborso dei costi per la custodia di bambini complementare alla famiglia è calcolato in base all’allegato 2.
+<sup>1</sup> L’importo del rimborso dei costi per la custodia di bambini complementare alla famiglia è calcolato in base all’allegato 2. Il rimborso non può superare i costi effettivi.[^51b-2]
 
-<sup>2</sup> e <sup>3</sup> ...[^51b-2]
+<sup>2</sup> e <sup>3</sup> ...[^51b-3]
 
-<sup>4</sup> Il rimborso proporzionale per figlio corrisponde alla somma dei tassi di occupazione delle persone che vivono in un’unione domestica ai sensi dell’articolo 75*b* lettera a OPers diminuita del 100 per cento.[^51b-3]
+<sup>4</sup> Il rimborso proporzionale per figlio corrisponde alla somma dei tassi di occupazione delle persone che vivono in un’unione domestica ai sensi dell’articolo 75*b* lettera a OPers diminuita del 100 per cento.[^51b-4]
 
-[^51b-1]: Introdotto dal n. I dell’O del DFF dell’8 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)).
-[^51b-2]: Abrogati dal n. I dell’O del DFF del 18 nov. 2020, con effetto dal 1° ago. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
-[^51b-3]: Nuovo testo giusta il n. I dell’O del DFF del 26 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
+**Art. 51**c*[^51b-5]* Rimborso di spese relative al lavoro mobile
 
-#### Art. 51c
-
-**Rimborso di spese relative al lavoro mobile**[^51c-1]
-
-### (art. 72 cpv. 2 lett. f OPers)
+(art. 72 cpv. 2 lett. f OPers)
 
 <sup>1</sup> Gli impiegati ai quali non è più messo a disposizione un posto di lavoro nei locali del datore di lavoro per l’intera durata del lavoro convenuta ricevono un importo forfettario annuo. Questo importo include la compensazione della parte della pigione dei locali privati utilizzati come pure la compensazione delle spese per la mobilia, il maggiore consumo di energia elettrica e i mezzi di comunicazione nonché di eventuali altre spese.
 
 <sup>2</sup> Per gli impiegati con un tasso di occupazione del 100 per cento, l’importo forfettario secondo il capoverso 1 ammonta a 200 franchi all’anno per ogni 20 per cento di durata annua del lavoro prestata sotto forma di lavoro mobile. Per gli impiegati occupati a tempo parziale, l’importo forfettario si riduce conformemente alla durata del lavoro prestata.
 
-[^51c-1]: Introdotto dal n. I dell’O del DFF del 14 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
+[^51b-1]: Introdotto dal n. I dell’O del DFF dell’8 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)).
+[^51b-2]: Nuovo testo giusta il n. I dell’O del DFF del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 844](https://fedlex.data.admin.ch/eli/oc/2021/844)).
+[^51b-3]: Abrogati dal n. I dell’O del DFF del 18 nov. 2020, con effetto dal 1° ago. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^51b-4]: Nuovo testo giusta il n. I dell’O del DFF del 26 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
+[^51b-5]: Introdotto dal n. I dell’O del DFF del 14 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 
 #### Art. 52
 
@@ -3658,7 +3656,7 @@ Supplemento ai sensi del numero 4 capoverso 1 lettera c
 
 Il supplemento ammonta a 1099 franchi all’anno per i figli fino ai 12 anni. Per quelli oltre i 12 anni esso ammonta a 1275 franchi (stato dell’indice del 2001).
 
-Allegato 2[^t-1]
+Allegato 2*[^t-1]*
 
 (art. 51*b* cpv. 1)
 

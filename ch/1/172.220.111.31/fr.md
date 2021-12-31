@@ -4,11 +4,11 @@ title: "Ordonnance du DFF du 6 décembre 2001 concernant l'ordonnance sur le per
 short: O-OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: fr
-version: 2021-08-01
+version: 2022-01-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2001-485-20210801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-485-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210801/fr"
 
 (O-OPers)
 
-du 6 décembre 2001 (Etat le 1<sup>er</sup> août 2021)
+du 6 décembre 2001 (Etat le 1<sup>er</sup> janvier 2022)
 
-Le Département fédéral des finances (DFF),[^ingress-1]
+Le Département fédéral des finances (DFF),*[^ingress-1]*
 
 vu l’art. 116, al. 1, de l’ordonnance du 3 juillet 2001 sur le personnel de la Confédération (OPers)[^ingress-2],
 
@@ -119,7 +119,7 @@ En signant le formulaire d’évaluation, les collaborateurs et les supérieurs 
 
 [^7-1]: Abrogé par le ch. I de l’O du DFF du 11 déc. 2009, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
 
-## Chapitre 3 Retraite anticipée
+## Chapitre 3 Retraite anticipée****
 
 [^chap3-1]
 
@@ -667,7 +667,7 @@ Un congé payé peut être accordé en particulier pour les activités suivantes
 Un congé payé est accordé à l’employé lors des événements suivants:
 
 - a.[^40-2] son mariage (y compris le mariage civil) ou l’enregistrement de son partenariat: 1 jour de travail;
-- b.[^40-3] naissance de son enfant (congé paternité) ou de l’enfant du partenaire enregistré: 10 jours de travail à prendre, en bloc ou séparément, durant les 12 mois après la naissance d’un ou de plusieurs enfants;
+- b.[^40-3] ...
 - c.[^40-4] prise en charge d’un membre de la famille ou du partenaire tombé malade ou victime d’un accident: le temps nécessaire, jusqu’à 3 jours de travail par événement;
 - d. décès de son conjoint, de son partenaire, de l’un de ses parents ou d’un de ses enfants: 3 jours de travail;
 - e. décès d’un autre parent ou d’un tiers et participation aux obsèques: le temps nécessaire, mais 1 jour de travail au maximum;
@@ -690,7 +690,7 @@ Lorsqu’un congé est accordé, et notamment un congé non payé de longue dur�
 
 [^40-1]: Introduite par le ch. I de l’O du DFF du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
 [^40-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 31 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^40-3]: Nouvelle teneur selon le ch. I de l’O du DFF du 26 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
+[^40-3]: Abrogée par le ch. I de l’O du DFF du 14 mai 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 [^40-4]: Nouvelle teneur selon le ch. I de l’O du DFF du 14 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 [^40-5]: Nouvelle teneur selon le ch. I de l’O du DFF du 5 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^40-6]: Introduite par le ch. I de l’O du DFF du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
@@ -914,7 +914,7 @@ Les départements règlent dans leur domaine le remboursement:
 
 [^51a-2]
 
-<sup>1</sup> L’employeur participe aux coûts de l’accueil extrafamilial d’enfants sous la forme d’indemnités forfaitaires.[^51a-3]
+<sup>1</sup> L’employeur participe aux coûts de l’accueil extrafamilial d’enfants sous la forme de remboursements.[^51a-3]
 
 <sup>2</sup>
 
@@ -925,7 +925,7 @@ Les départements peuvent:
 
 [^51a-1]: Introduit par le ch. I de l’O du DFF du 8 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)).
 [^51a-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
-[^51a-3]: Nouvelle teneur selon le ch. I de l’O du DFF du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^51a-3]: Nouvelle teneur selon le ch. I de l’O du DFF du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 844](https://fedlex.data.admin.ch/eli/oc/2021/844)).
 [^51a-4]: Abrogée par le ch. I de l’O du DFF du 25 oct. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
 
 #### Art. 51b
@@ -934,15 +934,16 @@ Les départements peuvent:
 
 ### (art. 75*a*, al. 2, OPers)
 
-<sup>1</sup> La part remboursée des coûts de l’accueil extrafamilial d’enfants est calculée conformément à l’annexe 2.
+<sup>1</sup> La part remboursée des coûts de l’accueil extrafamilial d’enfants est calculée conformément à l’annexe 2. Elle ne doit pas dépasser les coûts effectifs de l’accueil extrafamilial.[^51b-2]
 
-<sup>2</sup> et <sup>3</sup> …[^51b-2]
+<sup>2</sup> et <sup>3</sup> …[^51b-3]
 
-<sup>4</sup> Le remboursement proportionnel par enfant correspond à la somme des taux d’occupation des personnes formant un ménage commun visées à l’art. 75*b*, let. a, OPers moins 100 %.[^51b-3]
+<sup>4</sup> Le remboursement proportionnel par enfant correspond à la somme des taux d’occupation des personnes formant un ménage commun visées à l’art. 75*b*, let. a, OPers moins 100 %.[^51b-4]
 
 [^51b-1]: Introduit par le ch. I de l’O du DFF du 8 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)).
-[^51b-2]: Abrogés par le ch. I de l’O du DFF du 18 nov. 2020, avec effet au 1<sup>er</sup> août 2021 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
-[^51b-3]: Nouvelle teneur selon le ch. I de l’O du DFF du 26 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
+[^51b-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 844](https://fedlex.data.admin.ch/eli/oc/2021/844)).
+[^51b-3]: Abrogés par le ch. I de l’O du DFF du 18 nov. 2020, avec effet au 1<sup>er</sup> août 2021 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^51b-4]: Nouvelle teneur selon le ch. I de l’O du DFF du 26 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
 
 #### Art. 51c
 
@@ -3662,7 +3663,7 @@ Supplément en vertu du ch. 4, al. 1, let. c
 
 Le supplément s’élève à 1099 francs par année pour les enfants jusqu’à 12 ans. Pour les enfants de plus de 12 ans, ce montant s’élève à 1275 francs (état 2001)
 
-Annexe 2[^t-1]
+Annexe 2*[^t-1]*
 
 (art. 51*b*, al. 1)
 
