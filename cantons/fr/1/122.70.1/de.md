@@ -4,13 +4,13 @@ number: "122.70.1"
 title: Gesetz über das Staatspersonal
 short: StPG
 language: de
-version: 2019-07-01
-valid_until: 2021-12-31
-version_adopted: 2017-11-17
+version: 2022-01-01
+valid_until: 2023-01-31
+version_adopted: 2021-06-22
 adopted: 2001-10-17
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.70.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6761/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7467/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Staatspersonal – G
 
 (StPG)
 
-vom 17.10.2001 (Fassung in Kraft getreten am 01.07.2019)
+vom 17.10.2001 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -67,9 +67,9 @@ beschliesst:
 
 #### Art. 4
 
-**Ziel**
+**Ziele**
 
-<sup>1</sup> Ziel der Personalpolitik ist es, die Personalressourcen des Staates optimal zur Geltung zu bringen. Sie beruht auf folgenden Grundsätzen:
+<sup>1</sup> Ziel der Personalpolitik ist es, die Personalressourcen des Staates optimal zu nutzen und einen qualitativ hochstehenden öffentlichen Dienst sicherzustellen. Sie beruht auf folgenden Grundsätzen:
 
 - a) dynamische und vorausschauende Personalbewirtschaftung;
 - b) Wahrung der Integrität und berufliche Entfaltung der Mitarbeiterinnen und Mitarbeiter;
@@ -78,9 +78,15 @@ beschliesst:
 - e) Mitwirkung der Mitarbeiterinnen und Mitarbeiter am Entscheidungsprozess;
 - f) regelmässige Information und Konsultation des Personals;
 - g) Schaffung von Stellen für Personen, die eine Lehre oder eine Ausbildung absolvieren;
-- h) Eingliederung behinderter Personen;
+- h) Eingliederung von Personen mit einer dauerhaften Beeinträchtigung ihrer körperlichen oder psychischen Gesundheit oder Schwierigkeiten bei der sozioprofessionellen Eingliederung;
 - i) Eingliederung von Arbeitslosen;
 - j) Förderung der Zweisprachigkeit.
+- k) Vereinbarkeit von Berufs- und Privatleben;
+- l) flexible Arbeits- und Arbeitszeitformen;
+- m) Entwicklung von Know-how und Potenzial der Mitarbeiterinnen und Mitarbeiter, insbesondere mit Schulungen, je nach ihren Fähigkeiten und Qualifikationen;
+- n) Förderung von Sicherheit und Gesundheitsschutz am Arbeitsplatz;
+- o) Attraktivität des Arbeitgebers, damit geeignetes Personal angestellt werden kann und die Mitarbeiterbindung gewährleistet ist;
+- p) Förderung umweltfreundlichen Verhaltens und der Mobilität im Rahmen der nachhaltigen Entwicklung.
 
 #### Art. 5
 
@@ -117,12 +123,13 @@ beschliesst:
 <sup>1</sup> Der Staatsrat hat folgende Aufgaben:
 
 - a) Er erlässt die Ausführungsbestimmungen zu diesem Gesetz und genehmigt diejenigen der Direktionen und Anstalten.
+- a1) Er definiert und genehmigt die Personalpolitik.
 - b) Er trifft alle Grundsatzentscheide, die das gesamte Staatspersonal betreffen.
 - c) Er stellt die Direktorinnen und Direktoren der Anstalten und die Chefinnen und Chefs der zentralen Dienste an.
 - d) Er genehmigt die Anstellung der übrigen höheren Kader, die den Direktionen unterstellt sind.
-- e) Er genehmigt die in Anwendung dieses Gesetzes von den Direktionen und Anstalten beschlossenen Kompetenzdelegationen an Dienstchefinnen und chefs und an die Oberamtmänner.
-- f) Er vertritt den Arbeitgeber Staat gegenüber dem Dachverband des Personals öffentlicher Dienste des Kantons Freiburg, der Vereinigung der höheren Kader und Magistratspersonen des Staates Freiburg sowie gegenüber den Berufsverbänden und Gewerkschaften in allen allgemeinen Fragen oder in Fragen, die nach diesem Artikel in seine Zuständigkeit fallen.
-- g) Er nimmt alle übrigen Aufgaben wahr, die ihm dieses Gesetz und seine Ausführungsbestimmungen oder die Spezialgesetze ausdrücklich zuweisen.
+- e) Er genehmigt die in Anwendung dieses Gesetzes von den Direktionen und Anstalten beschlossenen Kompetenzdelegationen an Dienstchefinnen und ‑chefs und an die Oberamtmänner.
+- f) Er vertritt den Arbeitgeber Staat gegenüber den anerkannten Personalverbänden nach Artikel 128 für alle allgemeinen Fragen oder Fragen in seinem Aufgabenbereich im Sinne dieser Bestimmung.
+- g) Er nimmt alle weiteren Aufgaben wahr, die ihm dieses Gesetz und seine Ausführungsbestimmungen oder die Spezialgesetze ausdrücklich zuweisen.
 
 <sup>2</sup> Der Staatsrat ist zuständig, Personen, die er angestellt hat, vorläufig vom Dienst zu entheben, zu entlassen oder in den Ruhestand zu versetzen (Art. 33–48 und 52–54). Im Übrigen übt die zuständige Direktion ihnen gegenüber die Befugnisse der Anstellungsbehörde aus.
 
@@ -145,7 +152,7 @@ beschliesst:
 - a) Sie geben die notwendigen Anweisungen, damit das Personal der Dienststelle seine Arbeit im Hinblick auf die zu erreichenden Ziele planen und organisieren kann.
 - b) Sie fördern die Eigenverantwortung der Mitarbeiterinnen und Mitarbeiter der Dienststelle bei der Organisation, der Planung und der Ausführung ihrer Aufgaben.
 - c) Sie gewährleisten die Kontrolle der Arbeitsergebnisse des Personals der Dienststelle.
-- d) Sie stellen bei der Personalbewirtschaftung die nötige Koordination mit den andern Dienststellen des Staates und seinen Anstalten sicher.
+- d) …
 - e) Sie üben die Kompetenzen aus, die ihnen in Anwendung von Artikel 9 Abs. 3 übertragen werden.
 - f) Sie nehmen im Voraus Stellung zu allen Entscheiden, die von einer anderen Behörde in Anwendung dieses Gesetzes über Mitarbeiterinnen und Mitarbeiter ihrer Dienststelle gefällt werden.
 - g) Sie nehmen alle übrigen Aufgaben wahr, die ihnen dieses Gesetz und seine Ausführungsbestimmungen oder die Spezialgesetze ausdrücklich zuweisen.
@@ -164,12 +171,14 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Personal und Organisation hat folgende Aufgaben:
 
-- a) Es sorgt für die einheitliche Anwendung dieses Gesetzes und der Spezialgesetze über das Personal des Staates und seiner Anstalten und gibt zu diesem Zweck Stellungnahmen ab oder stellt Richtlinien auf.
-- b) Es entwickelt die zentral bewirtschafteten Führungsinstrumente.
-- c) Es verwaltet die Software für die Personalbewirtschaftung und die Gehaltszahlungen.
-- d) Es verwaltet die Gehälter des Staatspersonals, sofern diese Verwaltung nicht aus Gründen der Rationalisierung, insbesondere zu Gunsten der Anstalten, dezentralisiert werden muss.
-- e) Gegenüber dem Staatsrat, den Direktionen und Anstalten übt es in allen Bereichen, die das Personal betreffen, die Funktion eines Beratungs- und Kontrollorgans aus und verfasst Berichte und Stellungnahmen.
-- f) Es nimmt alle übrigen Aufgaben wahr, die ihm dieses Gesetz und seine Ausführungsbestimmungen oder Spezialgesetze ausdrücklich zuweisen.
+- a) Es gestaltet die Personalpolitik, bereitet personalpolitische Geschäfte zuhanden des Staatsrates vor und sorgt für die Umsetzung der Personalpolitik mit Hilfe von Indikatoren.
+- b) Es berät und unterstützt den Staatsrat, die Direktionen und die Anstalten in allen personellen und organisatorischen Fragen.
+- c) Es sorgt für die harmonisierte Anwendung dieses Gesetzes und der Spezialgesetze über das Personal des Staates und seiner Anstalten und gibt zu diesem Zweck Stellungnahmen ab oder erstellt Richtlinien.
+- d) Es entwickelt und verwaltet die Systeme sowie die zentralisierten Personalbewirtschaftungs- und die Personalinformationsinstrumente.
+- e) Es entwickelt ein Gesamtkonzept für die Aus- und Weiterbildung der Kader und bietet auf die Bedürfnisse der Mitarbeiterinnen und Mitarbeiter zugeschnittene Aus- und Weiterbildungsmassnahmen an.
+- f) Es sorgt für die Umsetzung der Massnahmen in den Bereichen Arbeitssicherheit, Gesundheitsschutz und Gesundheitsförderung am Arbeitsplatz.
+- g) Es führt eine Organisationseinheit für Personal- und Sozialberatung.
+- h) Es nimmt alle weiteren Aufgaben wahr, die ihm dieses Gesetz und seine Ausführungsbestimmungen oder die Spezialgesetze ausdrücklich zuweisen.
 
 #### Art. 13
 
@@ -183,23 +192,11 @@ beschliesst:
 
 #### Art. 14
 
-**Beratende Kommission – Organisation**
-
-<sup>1</sup> Der Staatsrat verfügt über eine ständige beratende Kommission für Personalfragen.
-
-<sup>2</sup> Die Zusammensetzung der Kommission gewährleistet die paritätische Vertretung des Arbeitgebers Staat und des Personals.
-
-<sup>3</sup> Der Staatsrat ernennt die Kommissionsmitglieder und bestimmt die Arbeitsweise der Kommission.
+**…**
 
 #### Art. 15
 
-**Beratende Kommission – Aufgaben**
-
-<sup>1</sup> Die Kommission hat folgende Aufgaben:
-
-- a) Sie wirkt bei der Ausarbeitung der Entwürfe für die Ausführungsbestimmungen zu diesem Gesetz und der entsprechenden Änderungen mit.
-- b) Sie nimmt im Voraus zu Grundsatzfragen Stellung, die das Personal betreffen, insbesondere was die Gehälter angeht.
-- c) Sie nimmt zu allen andern Fragen, die das Personal betreffen, Stellung, wenn sie vom Staatsrat dazu aufgefordert wird.
+**…**
 
 ## 4 Instrumente zur Personalführung und -bewirtschaftung
 
@@ -241,7 +238,7 @@ beschliesst:
 
 **Aus- und Weiterbildung**
 
-<sup>1</sup> Der Staatsrat erstellt ein allgemeines Konzept für die Weiterbildung sowie für die Ausbildung des Kaders, insbesondere im Bereich der Personalführung.
+<sup>1</sup> Der Staatsrat beschliesst ein allgemeines Konzept für die Weiterbildung sowie für die Ausbildung des Kaders, insbesondere im Bereich der Personalführung.
 
 <sup>2</sup> Die Direktionen und Anstalten erstellen soweit nötig spezifische Konzepte für die ihnen unterstellten Personalkategorien. Die Konzepte werden nach Stellungnahme des Amtes für Personal und Organisation dem Staatsrat zur Genehmigung unterbreitet.
 
@@ -285,7 +282,7 @@ beschliesst:
 
 <sup>2</sup> Führt die Ausschreibung nicht zum erwarteten Ergebnis, so wiederholt die Anstellungsbehörde die Ausschreibung oder besetzt die Stelle durch Berufung.
 
-<sup>3</sup> Der Staatsrat regelt Form und Umfang der Stellenausschreibung für Teilzeitstellen und befristete Stellen.
+<sup>3</sup> …
 
 #### Art. 26
 
@@ -323,7 +320,7 @@ beschliesst:
 
 <sup>3</sup> Die Anstellungsbehörde kann von der ärztlichen Untersuchung absehen, wenn die Mitarbeiterin oder der Mitarbeiter zu einem niedrigen Beschäftigungsgrad angestellt wird.
 
-<sup>4</sup> Das Gesetz über die Pensionskasse des Staatspersonals bleibt vorbehalten.
+<sup>4</sup> …
 
 #### Art. 29
 
@@ -345,27 +342,21 @@ beschliesst:
 
 #### Art. 31
 
-**Probezeit – Grundsatz**
+**Probezeit**
 
-<sup>1</sup> Die Probezeit beträgt ein Jahr.
+<sup>1</sup> Die Probezeit beträgt sechs Monate.
 
 <sup>2</sup> Das Dienstverhältnis kann während der Probezeit von beiden Parteien jederzeit gekündigt werden. Artikel 46 bleibt vorbehalten. Die Kündigung wird mit eingeschriebenem Brief mitgeteilt.
 
-<sup>3</sup> Das Dienstverhältnis kann in den ersten drei Monaten der Probezeit von jeder Partei mit einer Kündigungsfrist von einer Woche auf das Ende einer Woche gekündigt werden. Ab dem vierten Monat der Probezeit kann das Dienstverhältnis mit einer Kündigungsfrist von einem Monat auf das Ende eines Monats gekündigt werden.
+<sup>3</sup> Das Dienstverhältnis kann in den ersten zwei Monaten der Probezeit von jeder Partei mit einer Kündigungsfrist von einer Woche auf das Ende einer Woche gekündigt werden. Ab dem dritten Monat der Probezeit kann das Dienstverhältnis mit einer Kündigungsfrist von einem Monat auf das Ende eines Monats gekündigt werden.
 
-<sup>4</sup> Bei der Anstellung oder während der Probezeit kann ganz oder teilweise auf diese verzichtet werden, und zwar für befristete Verträge, wenn die Mitarbeiterin oder der Mitarbeiter die betreffende Funktion schon vorher ausgeübt hat oder wenn die Leistungen, das Verhalten und die Fähigkeiten mit denen erfahrener Mitarbeiterinnen und Mitarbeiter vergleichbar sind. Die Artikel 34 und 35 bleiben im Übrigen vorbehalten.
+<sup>4</sup> Bestehen Zweifel an der Eignung der Mitarbeiterin oder des Mitarbeiters für die Arbeitsstelle, so kann die Probezeit um höchstens sechs Monate verlängert werden. Nach Ablauf dieser Verlängerung ist keine weitere Verlängerung mehr möglich.
+
+<sup>5</sup> Bei der Anstellung oder während der Probezeit kann ganz oder teilweise auf diese verzichtet werden, und zwar für befristete Verträge, wenn die Mitarbeiterin oder der Mitarbeiter die betreffende Funktion schon vorher ausgeübt hat oder wenn die Leistungen, das Verhalten und die Fähigkeiten mit denen erfahrener Mitarbeiterinnen und Mitarbeiter vergleichbar sind. Die Artikel 34 und 35 bleiben im Übrigen vorbehalten.
 
 #### Art. 32
 
-**Probezeit – Ablauf der Probezeit und offizielle Anerkennung**
-
-<sup>1</sup> Wurde das Dienstverhältnis nicht vorher gekündigt, so wird am Ende der Probezeit angenommen, dass die Mitarbeiterin oder der Mitarbeiter den Anforderungen der Stelle entspricht. In diesem Falle wird sie oder er offiziell in der besonderen Eigenschaft als Mitarbeiterin oder Mitarbeiter des öffentlichen Dienstes anerkannt.
-
-<sup>2</sup> Bestehen jedoch nach einer Personalbeurteilung Zweifel über die Eignung der Mitarbeiterin oder des Mitarbeiters für diese Stelle, so wird die Probezeit um höchstens ein Jahr verlängert und die offizielle Anerkennung auf deren Ende aufgeschoben. Die Verlängerung der Probezeit und die Aufschiebung der offiziellen Anerkennung werden spätestens am Ende der Probezeit mitgeteilt.
-
-<sup>3</sup> Während der Verlängerung der Probezeit kann das Dienstverhältnis von jeder Partei jederzeit mit einer Kündigungsfrist von 2 Monaten auf das Ende eines Monats gekündigt werden. Eine weitere Verlängerung ist nicht möglich.
-
-<sup>4</sup> Die Spezialgesetze, die die Ernennung von Mitarbeiterinnen und Mitarbeitern vorsehen, bleiben vorbehalten.
+**…**
 
 ### 5.3 Änderung des Dienstverhältnisses
 
@@ -430,13 +421,21 @@ beschliesst:
 
 <sup>1</sup> Die Anstellungsbehörde spricht die Kündigung aus, wenn die Mitarbeiterin oder der Mitarbeiter die Anforderungen der Funktion wegen mangelnder Leistungen oder Fähigkeiten oder auf Grund des Verhaltens nicht mehr erfüllt.
 
-<sup>2</sup> Die Kündigungsgründe müssen im Rahmen einer Personalbeurteilung im Sinne von Artikel 22 nachgewiesen werden.
+<sup>2</sup> …
 
 #### Art. 39
 
-**Unbefristeter Vertrag – Verwarnung**
+**Unbefristeter Vertrag – Mahnschreiben**
 
-<sup>1</sup> Der Kündigung muss zumindest eine schriftliche und begründete Verwarnung vorangehen, die es der Mitarbeiterin oder dem Mitarbeiter erlaubt, innert nützlicher Frist den Anforderungen der Stelle gerecht zu werden.
+<sup>1</sup> Der Kündigung muss ein begründetes und schriftliches Mahnschreiben der Dienstchefin oder des Dienstchefs vorangehen, das früh genug übergegeben wird, damit die Mitarbeiterin oder der Mitarbeiter innert nützlicher Frist den Anforderungen der Stelle gerecht werden kann.
+
+<sup>2</sup> Das Mahnschreiben ist eine Warnung an Mitarbeiterinnen und Mitarbeiter, welche die Anforderungen ihrer Funktion gemäss Artikel 38 nicht erfüllen, damit sie sich verbessern können, bevor allenfalls eine Kündigung ausgesprochen wird.
+
+<sup>3</sup> Das Mahnschreiben kann nicht mit Beschwerde angefochten werden. Die Mitarbeiterin oder der Mitarbeiter kann aber schriftlich ein begründetes Wiedererwägungsgesuch gegen das Mahnschreiben an die Anstellungsbehörde richten.
+
+<sup>4</sup> Die Anstellungsbehörde nimmt endgültig Stellung zum Wiederwägungsgesuch. Es handelt sich um eine interne Wiedererwägung. Die Stellungnahme zu dieser Wiedererwägung kann nicht mit Beschwerde angefochten werden.
+
+<sup>5</sup> Das Verfahren wird in den Ausführungsbestimmungen zu diesem Gesetz geregelt.
 
 #### Art. 40
 
@@ -454,7 +453,7 @@ beschliesst:
 
 **Unbefristeter Vertrag – Folgen bei ungerechtfertigter Kündigung**
 
-<sup>1</sup> Erweisen sich die Kündigungsgründe als ungerechtfertigt, behält die Mitarbeiterin oder der Mitarbeiter die Funktion bei. Bei tatsächlicher Beendigung des Dienstverhältnisses oder wenn eine Wiedereingliederung der Mitarbeiterin oder des Mitarbeiters nicht mehr möglich ist, besteht Anspruch auf eine Entschädigung. Deren Höhe beträgt maximal ein Jahresgehalt.
+<sup>1</sup> Erweisen sich die Kündigungsgründe als ungerechtfertigt, so wird die Mitarbeiterin oder der Mitarbeiter wieder in die jeweilige Funktion aufgenommen. Bei tatsächlicher Beendigung des Dienstverhältnisses und wenn eine Wiedereingliederung der Mitarbeiterin oder des Mitarbeiters nicht mehr möglich ist, hat sie oder er Anspruch auf eine Entschädigung in Höhe von maximal 18 Monatslöhnen.
 
 #### Art. 42
 
@@ -492,7 +491,7 @@ beschliesst:
 
 <sup>1</sup> Das Verfahren richtet sich nach Artikel 40. In schwer wiegenden Fällen und wenn die Mitarbeiterin oder der Mitarbeiter die erhobenen Tatbestände eingesteht, kann die Entlassung nach einem vereinfachten dringlichen Verfahren verfügt werden. Der Staatsrat regelt dieses Verfahren.
 
-<sup>2</sup> Wenn es die Umstände erlauben, ergeht eine schriftliche Verwarnung, bevor die Entlassung verfügt wird.
+<sup>2</sup> Wenn es die Umstände erlauben, ergeht ein Mahnschreiben gemäss Artikel 39 Abs. 2, bevor die Entlassung verfügt wird.
 
 <sup>3</sup> Die Mitarbeiterin oder der Mitarbeiter kann verpflichtet werden, die Verfahrenskosten zu tragen. Führt das Verfahren nicht zur Entlassung und hat die Mitarbeiterin oder der Mitarbeiter aus eigenem Verschulden oder aus Fahrlässigkeit Anlass zu diesem Verfahren gegeben oder es erschwert, so kann sie oder er ebenfalls verpflichtet werden, die Kosten ganz oder teilweise zu tragen.
 
@@ -532,11 +531,17 @@ beschliesst:
 
 <sup>6</sup> Die Artikel 50-55 über die Pensionierung bleiben vorbehalten.
 
+#### Art. 47a
+
+**Besitzstandentschädigung**
+
+<sup>1</sup> Im Falle einer Versetzung oder einer Stellenabschaffung aus Reorganisationsgründen wird Mitarbeiterinnen und Mitarbeitern, die das entsprechende reglementarische Alter erreicht haben, eine Entschädigung gewährt, die ihnen das gleiche Lohnniveau bis zur Pensionierung garantiert. Der Staatsrat regelt die Einzelheiten für die Gewährung der Besitzstandentschädigung.
+
 #### Art. 48
 
 **Dauernde Arbeitsunfähigkeit**
 
-<sup>1</sup> Arbeitsunfähigkeit wegen Krankheit oder Unfall führt von Rechts wegen zur Beendigung des Dienstverhältnisses, wenn sie mehr als 365 Ganztages- oder Teilabwesenheiten innerhalb von 547 aufeinanderfolgenden Tagen umfasst. Die Anstellungsbehörde kann die Mitarbeiterin oder den Mitarbeiter entweder unmittelbar nach Beendigung des Dienstverhältnisses oder später wieder anstellen.
+<sup>1</sup> Arbeitsunfähigkeit wegen Krankheit oder Unfall führt von Rechts wegen zur Beendigung des Dienstverhältnisses, wenn sie mehr als 365 Abwesenheitstage innerhalb von 547 aufeinanderfolgenden Tagen umfasst. Die Anstellungsbehörde kann die Mitarbeiterin oder den Mitarbeiter entweder unmittelbar nach Beendigung des Dienstverhältnisses oder später wieder anstellen. Die Einzelheiten werden auf dem Verordnungsweg geregelt.
 
 <sup>2</sup> Artikel 110 über den Gehaltsanspruch bei Arbeitsunfähigkeit wegen Krankheit oder Unfall bleibt vorbehalten.
 
@@ -670,13 +675,15 @@ beschliesst:
 
 **Informationspflicht – Von Mitarbeiterinnen und Mitarbeitern festgestellte Widerhandlungen**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter, die in der Ausübung ihrer Funktion Kenntnis von strafbaren und den Interessen des Staates schadenden Handlungen haben oder solche vermuten, sind verpflichtet, dies unverzüglich der Anstellungsbehörde zu melden.
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter, die in der Ausübung ihrer Funktion Kenntnis von strafbaren und den Interessen des Staates schadenden Handlungen haben oder solche vermuten, sind verpflichtet, dies unverzüglich der Anstellungsbehörde oder subsidiär dem Staatsrat zu melden.
 
-<sup>2</sup> Scheint die Tat strafrechtlichen Charakter zu haben, so zeigt die Anstellungsbehörde sie der zuständigen Strafbehörde an. In nicht schwer wiegenden Fällen kann sie darauf verzichten. Erstattet sie Anzeige, so setzt sie den Staatsrat davon in Kenntnis.
+<sup>2</sup> Scheint die Tat strafrechtlichen Charakter zu haben, so zeigt die Anstellungsbehörde oder der Staatsrat sie der zuständigen Strafbehörde an. In nicht schwerwiegenden Fällen kann auf eine Anzeige verzichtet werden. Erstattet die Anstellungsbehörde oder die Direktion Anzeige, so setzt sie den Staatsrat davon in Kenntnis.
 
 <sup>3</sup> Die Ausführungsbestimmungen können für gewisse Personalkategorien die Pflicht einführen, von Dritten begangene Straftaten, von denen Mitarbeiterinnen und Mitarbeiter in der Ausübung ihrer Funktion Kenntnis erhalten haben, der zuständigen Strafbehörde anzuzeigen.
 
 <sup>4</sup> Artikel 302 Abs. 1 der Strafprozessordnung über die Anzeigepflicht der Beamtinnen und Beamten der Kantonspolizei bleibt vorbehalten.
+
+<sup>5</sup> Mitarbeiterinnen und Mitarbeitern, die in gutem Glauben eine offensichtlich strafbare oder den Interessen des Staates schadende Handlung gemeldet oder bezeugt haben, dürfen daraus keine beruflichen Nachteile entstehen.
 
 #### Art. 63
 
@@ -797,6 +804,16 @@ beschliesst:
 
 <sup>3</sup> Die Spezialgesetze, insbesondere das Gesetz über die Universität bleiben vorbehalten.
 
+#### Art. 74a
+
+**Übertragung von Urheberrechten**
+
+<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter übertragen dem Staat die Urheberrechte an allen Werken im Sinne des Bundesgesetzes über das Urheberrecht, die sie im Rahmen ihrer Tätigkeit im Dienst des Staates geschaffen haben.
+
+<sup>2</sup> Der Staat vergütet solche Werke nicht zusätzlich zum Gehalt der Mitarbeiterin oder des Mitarbeiters.
+
+<sup>3</sup> Vorbehalten bleiben die Spezialgesetze, namentlich das Gesetz über die Universität, und die Sondervereinbarungen.
+
 ## 7 Verletzung der Pflichten des Personals
 
 #### Art. 75
@@ -894,7 +911,7 @@ beschliesst:
 
 **Arbeitsmarktzulage**
 
-<sup>1</sup> Erlaubt es das Funktionsgehalt von Mitarbeiterinnen und Mitarbeitern oder gewisser Personalkategorien auf Grund der Arbeitsmarktlage nicht, qualifiziertes Personal zu halten oder anzustellen, so kann der Staatsrat vorübergehend eine Zulage von höchstens 20 % des Gehaltsmaximums der massgebenden Klasse gewähren.
+<sup>1</sup> Erlaubt es das Funktionsgehalt von Mitarbeiterinnen und Mitarbeitern oder gewisser Personalkategorien auf Grund der Arbeitsmarktlage nicht, qualifiziertes Personal zu halten oder anzustellen, so kann der Staatsrat vorübergehend eine Zulage gewähren.
 
 <sup>2</sup> Sobald die Arbeitsmarktlage die nach Absatz 1 ergriffene Massnahme nicht mehr rechtfertigt, wird die Zulage gekürzt oder gestrichen.
 
@@ -942,7 +959,7 @@ beschliesst:
 
 <sup>1</sup> Genügt eine Mitarbeiterin oder ein Mitarbeiter den Anforderungen der Funktion wegen mangelnder Leistungen oder Fähigkeiten oder auf Grund des Verhaltens nicht oder nur zum Teil, so wird die Gehaltserhöhung nicht oder nur teilweise gewährt oder innerhalb des Jahres aufgeschoben.
 
-<sup>2</sup> Die Anstellungsbehörde trifft ihren Entscheid auf der Grundlage einer Personalbeurteilung.
+<sup>2</sup> …
 
 <sup>3</sup> Die Ausführungsbestimmungen regeln die Gewährung der Gehaltserhöhung bei langdauernder Abwesenheit einer Mitarbeiterin oder eines Mitarbeiters.
 
@@ -966,9 +983,17 @@ beschliesst:
 
 ### 8.7 Prämien und Belohnungen
 
-[^91-1]
+#### Art. 92–94
 
-[^91-1]: Art. 92 bis 94: diese Bestimmungen sind noch nicht in Kraft, siehe Anmerkung zu Artikel 143.
+**[^9294-1]**
+
+[^9294-1]: Die Artikel 92–94 in der Fassung des Gesetzes vom 17. Oktober 2001 sind nie in Kraft getreten und gelten als aufgehoben durch die Gesetz vom 22. Juni 2021.
+
+#### Art. 94a
+
+**Prämien**
+
+<sup>1</sup> Der Staatsrat legt auf dem Verordnungsweg ein Prämiensystem zur Belohnung von aussergewöhnlichen Einzel- oder Gruppenleistungen fest.
 
 #### Art. 95
 
@@ -1143,7 +1168,7 @@ beschliesst:
 
 <sup>1</sup> Bei Mutterschaft hat die Mitarbeiterin Anspruch auf 16 Wochen bezahlten Urlaub.
 
-<sup>2</sup> Für eine Mitarbeiterin im ersten Dienstjahr, die am Ende ihres Mutterschaftsurlaubs ihre Arbeitstätigkeit nicht wieder aufnimmt, beträgt der bezahlte Mutterschaftsurlaub jedoch 12 Wochen.
+<sup>2</sup> …
 
 <sup>3</sup> Die Einzelheiten des Mutterschaftsurlaubs werden in den Ausführungsbestimmungen geregelt.
 
@@ -1151,15 +1176,17 @@ beschliesst:
 
 **Adoption**
 
-<sup>1</sup> Bei einer Adoption hat die Mitarbeiterin Anspruch auf 12 Wochen bezahlten Urlaub.
+<sup>1</sup> Bei einer Adoption einer oder eines Minderjährigen hat die Mitarbeiterin oder der Mitarbeiter Anspruch auf zwölf Wochen bezahlten Urlaub.
 
-<sup>2</sup> Der Mitarbeiter hat Anspruch auf einen bezahlten Urlaub von bis zu 4 Wochen, wenn es die zur Aufnahme des Kindes nötigen Schritte erfordern.
+<sup>2</sup> Arbeiten beide Adoptivelternteile beim Staat, so hat der Partner oder die Partnerin der betreffenden Mitarbeiterin oder des betreffenden Mitarbeiters Anspruch auf fünfzehn Arbeitstage bezahlten Urlaub.
+
+<sup>3</sup> Der Adoptionsurlaub gilt nur für die Adoption eines minderjährigen Kindes, das nicht ein Kind des Ehepartners oder der Ehepartnerin im Sinne von Artikel 264c ZGB ist.
 
 #### Art. 114a
 
 **Vaterschaft**
 
-<sup>1</sup> Bei der Geburt seines Kindes hat der Mitarbeiter Anspruch auf bezahlten Vaterschaftsurlaub von fünf Arbeitstagen.
+<sup>1</sup> Bei der Geburt seines Kindes hat der Mitarbeiter Anspruch auf bezahlten Vaterschaftsurlaub von fünfzehn Arbeitstagen.
 
 <sup>2</sup> Der Staatsrat regelt die Einzelheiten für die Gewährung dieses bezahlten Urlaubs.
 
@@ -1177,6 +1204,12 @@ beschliesst:
 
 <sup>1</sup> Die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge wird durch die Spezialgesetzgebung, insbesondere das Gesetz über die Pensionskasse des Staatspersonals geregelt.
 
+#### Art. 116a
+
+**Beschwerlichkeit der Arbeit**
+
+<sup>1</sup> Der Staatsrat bestimmt auf dem Verordnungsweg die Grundsätze und Kriterien für beschwerliche Tätigkeiten oder Tätigkeiten mit erhöhtem Risiko.
+
 ## 10 Ferien und Urlaub
 
 #### Art. 117
@@ -1193,7 +1226,7 @@ beschliesst:
 
 <sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter haben für die Ausübung gesetzlicher Verpflichtungen oder für besondere Ereignisse Anspruch auf bezahlten Kurzurlaub.
 
-<sup>2</sup> Den Mitarbeiterinnen und Mitarbeitern kann auch längerer bezahlter Urlaub gewährt werden, und zwar für eine Ausbildung, eine Aufgabe von allgemeinem Interesse oder aus anderen triftigen Gründen.
+<sup>2</sup> Den Mitarbeiterinnen und Mitarbeitern kann auch längerer bezahlter Urlaub gewährt werden, und zwar für eine Ausbildung, eine Aufgabe von allgemeinem Interesse oder aus anderen triftigen Gründen, namentlich für pflegende Angehörige und die Betreuung schwerkranker Kinder.
 
 #### Art. 119
 
@@ -1239,11 +1272,7 @@ beschliesst:
 
 #### Art. 124
 
-**Schutz der Personaldaten**
-
-<sup>1</sup> Die staatlichen Organe dürfen die Personendaten, die zur Verwaltung der Personaldossiers und zur Verwaltung der Gehälter erforderlich sind, nur für die Begründung und die Verwaltung des Dienstverhältnisses bearbeiten.
-
-<sup>2</sup> Die Gesetzgebung über den Datenschutz ist anwendbar.
+**…**
 
 #### Art. 125
 
@@ -1268,6 +1297,97 @@ beschliesst:
 <sup>2</sup> Wird gegen Mitarbeiterinnen und Mitarbeiter wegen einer strafbaren Handlung, die sie in Ausübung ihrer Funktion Dritten gegenüber begangen haben sollen, Strafklage oder Anzeige erhoben, so gewährt ihnen der Staat auf Verlangen Rechtsschutz. Dasselbe gilt, wenn eine Mitarbeiterin oder ein Mitarbeiter, die oder der ungerechtfertigterweise bedroht oder angegriffen wurde, zur angemessenen Verteidigung der eigenen Interessen Klage einreichen muss.
 
 <sup>3</sup> Werden Mitarbeiterinnen und Mitarbeiter für schuldig befunden, so werden ihnen die Kosten dieses Rechtsschutzes auferlegt, sofern sie ihre Dienstpflichten vorsätzlich oder grobfahrlässig verletzt haben.
+
+## 11a Datenschutz
+
+#### Art. 127a
+
+**Personaladministration**
+
+<sup>1</sup> Der Arbeitgeber Staat bearbeitet in Papierform oder in einem oder mehreren Informationssystemen auf das Personal bezogene Daten, die er zur Erfüllung der ihm durch dieses Gesetz zugewiesenen Aufgaben benötigt, insbesondere zu folgenden Zwecken:
+
+- a) Bedarfsplanung und Personalrekrutierung;
+- b) Verwaltung der Gehälter, der Vergütungen und der Meldungen an die Sozialversicherungen;
+- c) Einreihung der Funktionen;
+- d) Umsetzung des Führens mit Zielvereinbarung, der Entwicklung und der Personalbeurteilung;
+- e) Ermittlung und Förderung von Personalentwicklungs- und Schulungsmöglichkeiten;
+- f) Sicherstellung der Planung, Steuerung, Nutzung und Kontrolle von Personaldaten;
+- g) Aggregieren und Analysieren von Daten in unterschiedlichen Formen, namentlich zu statistischen Zwecken.
+
+<sup>2</sup> Er ist befugt, die Personaldaten zu bearbeiten, die er zur Erfüllung der ihm durch dieses Gesetz zugewiesenen Aufgaben benötigt, einschliesslich der besonders schützenswerten Personendaten, namentlich:
+
+- a) personenbezogene Daten;
+- b) auf die Leistungen, das Potenzial und die persönliche und berufliche Entwicklung bezogene Daten;
+- c) auf den Gesundheitszustand in Zusammenhang mit der Arbeitsfähigkeit bezogene Daten;
+- d) Daten, die in der Zusammenarbeit bei der Umsetzung des Sozialversicherungsrechts erforderlich sind;
+- e) arbeitsbezogene Verfahrenshandlungen und Entscheide des Arbeitgebers Staat.
+
+<sup>3</sup> Er ist für den Datenschutz und die Datensicherheit verantwortlich.
+
+<sup>4</sup> Er kann Daten Dritten bekanntgeben, sofern eine gesetzliche Grundlage dafür besteht oder die Person, auf die sich die Daten beziehen, schriftlich ihre Zustimmung dazu erteilt hat.
+
+<sup>5</sup> Der Arbeitgeber Staat kann zu dienstlichen Zwecken und zur Weitergabe zu statistischen Zwecken Zugriff auf personenbezogene Daten aus anderen IT-Plattformen und digitalen Registern haben. Dazu ist eine vorgängige Bewilligung erforderlich, und die Zugriffsrechte müssen streng begrenzt sein.
+
+<sup>6</sup> Die Personendaten können über ein elektronisches Abrufverfahren im Sinne des kantonalen Gesetzes über den Datenschutz zugänglich gemacht werden.
+
+<sup>7</sup> Darüber hinaus sind die Einzelheiten in den Ausführungsbestimmungen geregelt.
+
+#### Art. 127b
+
+**Personal- und Sozialberatung**
+
+<sup>1</sup> Die Personal- und Sozialberatung des Staates Freiburg bearbeitet in Papierform oder in einem Informationssystem Daten, die sich auf Personen beziehen, die diese Beratungsdienste in Anspruch nehmen, und die sie für die Erfüllung ihrer Aufgaben benötigt, namentlich:
+
+- a) zu Beeinträchtigungen der körperlichen oder psychischen Gesundheit;
+- b) zu psychosozialen Risiken am Arbeitsplatz;
+- c) zu finanziellen Problemen;
+- d) zu persönlichen Fragen;
+- e) zu Konflikten, Mobbing und sexueller Belästigung;
+- f) zu Aktivitäten in Zusammenhang mit der beruflichen Wiedereingliederung von Personen mit gesundheitlicher Beeinträchtigung;
+- g) zur Bearbeitung der Anträge für Darlehen aus dem Sozialfonds für das Staatspersonal;
+- h) zum Aggregieren und Analysieren von Daten in unterschiedlichen Formen, namentlich zu statistischen Zwecken.
+
+<sup>2</sup> Sie kann besonders schützenswerte Personendaten bearbeiten, die sich auf die Personen beziehen, die ihre Dienste beanspruchen, und die sie für die Erfüllung ihrer Aufgaben benötigt, namentlich:
+
+- a) zur persönlichen Situation;
+- b) zum Gesundheitszustand;
+- c) zur Arbeitsfähigkeit;
+- d) zu Invaliditätsgründen und Invaliditätsgrad.
+
+<sup>3</sup> Sie ist für den Schutz der Daten verantwortlich, die sie im Rahmen ihres Einsatzes bearbeitet.
+
+<sup>4</sup> Der Staatsrat bestimmt die Personen und die Funktionen, die Zugriff auf das Informationssystem haben.
+
+<sup>5</sup> Die Personal- und Sozialberatung garantiert den Personen, die ihre Leistungen in Anspruch nehmen, Vertraulichkeit. Ohne die schriftliche Zustimmung der betroffenen Person dürfen von ihren Beraterinnen und Beratern keine Schritte unternommen oder Massnahmen getroffen werden. Die Zustimmung kann auch jederzeit rückgängig gemacht werden.
+
+<sup>6</sup> Auf die schriftliche Zustimmung der betroffenen Person kann verzichtet werden, wenn ein überwiegendes öffentliches Interesse dies erfordert.
+
+<sup>7</sup> Wenn es in einer gesetzlichen Grundlage vorgeshen ist, können unbedingt erforderliche Daten ohne ausdrückliche Zustimmung der betroffenen Personen Dritten bekanntgegeben werden.
+
+<sup>8</sup> Darüber hinaus werden die Einzelheiten in den Ausführungsbestimmungen geregelt.
+
+#### Art. 127c
+
+**Gesundheitsdaten**
+
+<sup>1</sup> Die Vertrauensärztin oder der Vertrauensarzt des Staates Freiburg bearbeitet in Papierform oder in einem Informationssystem besonders schützenswerte, gesundheitsbezogene Personendaten, die zur Beurteilung der Fähigkeiten und Risiken oder zu statistischen Zwecken erforderlich sind, namentlich:
+
+- a) zur Arbeitsfähigkeit der Stellenbewerberinnen und Stellenbewerber bei der Anstellung;
+- b) zur Arbeitsfähigkeit des Personals während der Dauer des Arbeitsverhältnisses;
+- c) zum Invaliditäts- und Sterberisiko der Stellenbewerberinnen und Stellenbewerber bei der Anstellung;
+- d) zum Aggregieren und Analysieren von Daten in unterschiedlichen Formen, namentlich zu statistischen Zwecken.
+
+<sup>2</sup> Die Vertrauensärztin oder der Vertrauensarzt ist für den Datenschutz und die Sicherheit des Informationssystems verantwortlich.
+
+<sup>3</sup> Die Mitarbeiterinnen und Mitarbeiter der Vertrauensärztin oder des Vertrauensarztes und die technischen Hilfsdienste haben Zugriff auf das Informationssystem, sofern dies für die Erfüllung ihrer Aufgabe erforderlich ist.
+
+<sup>4</sup> Für die Eignung der Bewerberin oder des Bewerbers für die Anstellung darf die Vertrauensärztin oder der Vertrauensarzt den betroffenen Dienststellen Informationen über die Schlussfolgerungen aus den ärztlichen Befunden nur dann mitteilen, wenn dies für die Beurteilung der Eignung der dieser Person für die Beschäftigung oder für die Ausführung der ihr übertragenen Arbeit oder für die Stellungnahme zu Ansprüchen aus dem Arbeitsverhältnis erforderlich ist. Die betroffene Person muss dieser Bekanntgabe schriftlich zugestimmt haben.
+
+<sup>5</sup> Im Übrigen kann die Vertrauensärztin oder der Vertrauensarzt Gesundheitsdaten und Patientendossiers weitergeben, sofern die betroffene Person schriftlich ihre Zustimmung dazu erteilt hat.
+
+<sup>6</sup> Auf die schriftliche Zustimmung der betroffenen Person kann verzichtet werden, wenn ein überwiegendes öffentliches Interesse dies erfordert.
+
+<sup>7</sup> Darüber hinaus werden die Einzelheiten in den Ausführungsbestimmungen geregelt.
 
 ## 12 Berufsverbände und Gewerkschaften
 
@@ -1315,9 +1435,7 @@ beschliesst:
 
 #### Art. 131
 
-**Verfahren zur Wiedererwägung der Personalbeurteilung**
-
-<sup>1</sup> Der Staatsrat erlässt Vorschriften über die Wiedererwägung der Personalbeurteilung einer Mitarbeiterin oder eines Mitarbeiters durch die vorgesetzte Behörde. Er kann die Dienstchefinnen oder -chefs und die Direktorinnen oder Direktoren der Anstalten als letzte Stufe zur Behandlung von Wiedererwägungsgesuchen bezeichnen.
+**…**
 
 #### Art. 131a
 
@@ -1335,7 +1453,7 @@ beschliesst:
 
 <sup>2</sup> Bei Entscheiden, die das Dienstverhältnis einer Mitarbeiterin oder eines Mitarbeiters nicht betreffen (z. B. bei der Zuteilung von Parkplätzen), kann auf dem Verordnungsweg eine vorgängige Beschwerde an den Staatsrat eingeführt werden.
 
-<sup>3</sup> Entscheide, die eine Personalbeurteilung betreffen, sind nicht selbständig mit Beschwerde anfechtbar.
+<sup>3</sup> …
 
 #### Art. 133
 

@@ -4,13 +4,13 @@ number: "122.70.1"
 title: "Loi sur le personnel de l'Etat"
 short: LPers
 language: fr
-version: 2019-07-01
-valid_until: 2021-12-31
-version_adopted: 2017-11-17
+version: 2022-01-01
+valid_until: 2023-01-31
+version_adopted: 2021-06-22
 adopted: 2001-10-17
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.70.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6761/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7467/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Personnel de l'Etat – L
 
 (LPers)
 
-du 17.10.2001 (version entrée en vigueur le 01.07.2019)
+du 17.10.2001 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -67,9 +67,9 @@ Décrète:
 
 #### Art. 4
 
-**Objectif**
+**Objectifs**
 
-<sup>1</sup> La politique du personnel a pour but de valoriser de manière optimale les ressources humaines de l'Etat en se fondant sur les principes suivants:
+<sup>1</sup> La politique du personnel a pour but de valoriser de manière optimale les ressources humaines de l'Etat et de garantir un service public de qualité. Elle se fonde sur les principes suivants:
 
 - a) la gestion dynamique et prévisionnelle du personnel;
 - b) le respect de l'intégrité du collaborateur ou de la collaboratrice et son épanouissement professionnel;
@@ -78,9 +78,15 @@ Décrète:
 - e) la participation du collaborateur ou de la collaboratrice au processus décisionnel;
 - f) l'information et la consultation régulière du personnel;
 - g) la création de places pour les personnes accomplissant un apprentissage ou une formation;
-- h) l'intégration des personnes handicapées;
+- h) l'intégration des personnes atteintes durablement dans leur santé physique ou psychique ou présentant des difficultés d'insertion socioprofessionnelle;
 - i) l'intégration des personnes sans emploi;
 - j) la promotion du bilinguisme.
+- k) la conciliation de la vie privée et de la vie professionnelle;
+- l) la mise en place de formes flexibles de travail et de temps de travail;
+- m) le développement des compétences et du potentiel des collaborateurs et collaboratrices, notamment par la formation, en fonction de leurs aptitudes et de leurs qualifications;
+- n) la promotion de la santé et de la sécurité au travail;
+- o) l'attrait de l'employeur afin que soient assurés l'engagement et la fidélisation du personnel;
+- p) l'encouragement des comportements écologiques et la promotion de la mobilité douce, dans le cadre du développement durable.
 
 #### Art. 5
 
@@ -117,11 +123,12 @@ Décrète:
 <sup>1</sup> Le Conseil d'Etat exerce les attributions suivantes:
 
 - a) il adopte les dispositions d'exécution de la présente loi et approuve celles qui sont édictées par les Directions et établissements;
+- a1) il définit et adopte la politique du personnel;
 - b) il prend toutes les décisions de principe relatives à l'ensemble du personnel de l'Etat;
 - c) il engage les directeurs et directrices d'établissement et les chef-fe-s des services centraux;
 - d) il approuve l'engagement des autres cadres supérieurs dépendant des Directions;
 - e) il approuve les délégations de compétences aux chef-fe-s de service ou aux préfets décidées par les Directions et les établissements en application de la présente loi;
-- f) il représente l'Etat-employeur face à la Fédération des associations du personnel des services publics du canton de Fribourg, à l'Association des cadres supérieurs et magistrats, magistrates de l'Etat de Fribourg, aux associations professionnelles et aux organisations syndicales, pour toute question de portée générale ou entrant dans ses attributions en vertu de la présente disposition;
+- f) il représente l'Etat-employeur face aux associations de personnel reconnues selon l'article 128 pour toute question de portée générale ou entrant dans ses attributions en vertu de la présente disposition;
 - g) il exerce toutes les autres attributions qui lui sont expressément dévolues par la présente loi et ses dispositions d'exécution ou par les lois spéciales.
 
 <sup>2</sup> Le Conseil d'Etat est compétent pour suspendre, renvoyer ou mettre à la retraite (art. 33 à 48 et 52 à 54) les personnes qu'il a engagées. Pour le reste, la Direction concernée exerce à leur égard les compétences dévolues à l'autorité d'engagement.
@@ -145,7 +152,7 @@ Décrète:
 - a) donner les instructions nécessaires pour que le personnel du service puisse planifier et organiser son travail en vue d'atteindre les objectifs fixés;
 - b) développer la prise de responsabilité des collaborateurs et collaboratrices du service face à l'organisation, la planification et l'exécution de leurs propres tâches;
 - c) assurer un contrôle du travail effectué par le personnel du service;
-- d) assurer la coordination nécessaire avec les autres services de l'Etat et des établissements en matière de gestion du personnel;
+- d) …
 - e) exercer les compétences qui lui sont déléguées en vertu de l'article 9 al. 3;
 - f) donner son avis avant toute décision prise en application de la présente loi par une autre autorité relative à un collaborateur ou une collaboratrice de son service;
 - g) exercer toutes les autres attributions qui lui sont expressément dévolues par la présente loi et ses dispositions d'exécution ou par les lois spéciales.
@@ -164,12 +171,14 @@ Décrète:
 
 <sup>1</sup> Le Service du personnel et d'organisation a les attributions suivantes:
 
-- a) il veille à l'application uniforme de la présente loi et des lois spéciales concernant le personnel de l'Etat et de ses établissements; à cet effet, il donne des préavis ou établit des directives;
-- b) il développe les instruments de gestion centralisés;
-- c) il gère le logiciel relatif à la gestion et aux salaires du personnel;
-- d) il assure la gestion des salaires du personnel de l'Etat, à moins que des motifs de rationalisation ne commandent une décentralisation, notamment au profit des établissements;
-- e) il est organe de conseil, de contrôle, de rapport et de préavis au Conseil d'Etat, aux Directions et aux établissements dans tous les domaines relatifs au personnel;
-- f) il exerce toutes les autres attributions qui lui sont expressément dévolues par la présente loi et ses dispositions d'exécution ou par les lois spéciales.
+- a) il élabore la politique du personnel, prépare les propositions de politique du personnel à l'intention du Conseil d'Etat et veille à sa mise en œuvre par le biais d'indicateurs;
+- b) il conseille et soutient le Conseil d'Etat, les Directions et les établissements dans tous les domaines relatifs au personnel et organisationnels;
+- c) il veille à l'application harmonieuse de la présente loi et des lois spéciales concernant le personnel de l'Etat et de ses établissements; à cet effet, il donne des préavis ou établit des directives;
+- d) il développe et gère les systèmes ainsi que les instruments de gestion centralisés et d'information du personnel;
+- e) il élabore un concept général de formation continue et de formation des cadres et met à disposition une offre de formations et des mesures de perfectionnement et de développement adaptés aux besoins des collaborateurs et collaboratrices;
+- f) il veille à la mise en œuvre de mesures dans les domaines de la sécurité au travail, de la protection de la santé et de la promotion de la santé;
+- g) il gère une unité organisationnelle de consultation sociale et de conseil du personnel;
+- h) il exerce toutes les autres attributions qui lui sont expressément dévolues par la présente loi et ses dispositions d'exécution ou par les lois spéciales.
 
 #### Art. 13
 
@@ -183,23 +192,11 @@ Décrète:
 
 #### Art. 14
 
-**Commission consultative – Organisation**
-
-<sup>1</sup> Le Conseil d'Etat dispose d'une Commission consultative permanente pour les questions de personnel.
-
-<sup>2</sup> La composition de la Commission assure une représentation paritaire de l'Etat-employeur et du personnel.
-
-<sup>3</sup> Le Conseil d'Etat nomme les membres et détermine le fonctionnement de la Commission.
+**…**
 
 #### Art. 15
 
-**Commission consultative – Attributions**
-
-<sup>1</sup> La Commission a les attributions suivantes:
-
-- a) elle participe à l'élaboration des projets de dispositions d'exécution de la présente loi ainsi que des modifications y relatives;
-- b) elle donne son avis préalable sur les questions de principe concernant le personnel, notamment en matière de rémunération;
-- c) elle donne son avis sur toute autre question concernant le personnel lorsqu'elle en est requise par le Conseil d'Etat.
+**…**
 
 ## 4 Instruments de gestion
 
@@ -241,7 +238,7 @@ Décrète:
 
 **Formation**
 
-<sup>1</sup> Le Conseil d'Etat établit un concept général de formation continue et de formation des cadres, notamment dans le domaine de la conduite du personnel.
+<sup>1</sup> Le Conseil d'Etat adopte un concept général de formation continue et de formation des cadres, notamment dans le domaine de la conduite du personnel.
 
 <sup>2</sup> Dans la mesure nécessaire, les Directions et les établissements établissent des concepts spécifiques pour les catégories de personnel qui leur sont rattachées. Ces concepts sont approuvés par le Conseil d'Etat, sur le préavis du Service du personnel et d'organisation.
 
@@ -285,7 +282,7 @@ Décrète:
 
 <sup>2</sup> Si la mise au concours n'a pas donné le résultat attendu, l'autorité d'engagement la renouvelle ou procède par voie d'appel.
 
-<sup>3</sup> Le Conseil d'Etat édicte des règles relatives à la forme et à l'étendue de la mise au concours pour les postes à temps partiel ou de durée limitée.
+<sup>3</sup> …
 
 #### Art. 26
 
@@ -323,7 +320,7 @@ Décrète:
 
 <sup>3</sup> L'autorité d'engagement peut renoncer à l'obligation de l'examen médical lorsque le collaborateur ou la collaboratrice est engagé-e à un faible taux d'activité.
 
-<sup>4</sup> La loi sur la Caisse de prévoyance du personnel de l'Etat reste réservée.
+<sup>4</sup> …
 
 #### Art. 29
 
@@ -345,27 +342,21 @@ Décrète:
 
 #### Art. 31
 
-**Période probatoire – Principe**
+**Période probatoire**
 
-<sup>1</sup> Le collaborateur ou la collaboratrice est soumis-e à une période probatoire d'une année.
+<sup>1</sup> Le collaborateur ou la collaboratrice est soumis‑e à une période probatoire de six mois.
 
 <sup>2</sup> Durant la période probatoire, les rapports de service peuvent être résiliés librement de part et d'autre, sous réserve de l'article 46. La résiliation est communiquée par pli recommandé.
 
-<sup>3</sup> Durant les trois premiers mois de la période probatoire, les rapports de service peuvent être résiliés de part et d'autre une semaine d'avance pour la fin d'une semaine. Dès le quatrième mois, le délai de résiliation est d'un mois pour la fin d'un mois.
+<sup>3</sup> Durant les deux premiers mois de la période probatoire, les rapports de service peuvent être résiliés de part et d'autre une semaine d'avance pour la fin d'une semaine. Dès le troisième mois, le délai de résiliation est de un mois pour la fin d'un mois.
 
-<sup>4</sup> Il peut être renoncé, dès l'engagement ou pendant la période probatoire, à tout ou partie de celle-ci, pour les contrats de durée déterminée, ou lorsque le collaborateur ou la collaboratrice a déjà exercé antérieurement la fonction concernée, ou encore lorsque les prestations, le comportement et les aptitudes sont comparables à celles d'une personne expérimentée. Les articles 34 et 35 sont en outre réservés.
+<sup>4</sup> S'il existe un doute sur la capacité du collaborateur ou de la collaboratrice d'occuper le poste de travail, la période probatoire peut être prolongée de six mois au plus. Au terme de cette prolongation, une nouvelle prolongation n'est pas possible.
+
+<sup>5</sup> Il peut être renoncé, dès l'engagement ou pendant la période probatoire, à tout ou partie de celle-ci pour les contrats de durée déterminée, ou lorsque le collaborateur ou la collaboratrice a déjà exercé antérieurement la fonction concernée, ou encore lorsque les prestations, le comportement et les aptitudes sont comparables à celles d'une personne expérimentée. Les articles 34 et 35 sont en outre réservés.
 
 #### Art. 32
 
-**Période probatoire – Fin de la période probatoire et reconnaissance officielle**
-
-<sup>1</sup> A moins que les rapports de service n'aient été résiliés antérieurement, le collaborateur ou la collaboratrice est réputé-e, au terme de la période probatoire, répondre aux exigences de son poste; en ce cas, il ou elle fait l'objet d'une reconnaissance officielle de sa qualité d'agent ou agente des services publics.
-
-<sup>2</sup> Si, à la suite d'une évaluation des prestations, il existe un doute sur la capacité du collaborateur ou de la collaboratrice d'occuper le poste de travail, la reconnaissance officielle est reportée au terme d'une nouvelle période probatoire d'une année au plus. Au plus tard au terme de la période probatoire, le collaborateur ou la collaboratrice doit être avisé-e de sa prolongation et du report de la reconnaissance officielle.
-
-<sup>3</sup> Durant la prolongation, les rapports de service peuvent être résiliés librement de part et d'autre deux mois d'avance pour la fin d'un mois. Une nouvelle prolongation n'est pas possible.
-
-<sup>4</sup> Les lois spéciales prévoyant une nomination du collaborateur ou de la collaboratrice sont réservées.
+**…**
 
 ### 5.3 Modification des rapports de service
 
@@ -430,13 +421,21 @@ Décrète:
 
 <sup>1</sup> Le licenciement par l'autorité d'engagement a lieu lorsque le collaborateur ou la collaboratrice ne répond plus aux exigences de la fonction sous l'angle des prestations, du comportement ou des aptitudes.
 
-<sup>2</sup> Les motifs de licenciement sont attestés dans le cadre d'une évaluation des prestations au sens de l'article 22.
+<sup>2</sup> …
 
 #### Art. 39
 
-**Contrat de durée indéterminée – Avertissement**
+**Contrat de durée indéterminée – Lettre d'avertissement**
 
-<sup>1</sup> Le licenciement est précédé au moins d'un avertissement écrit et motivé, donné suffisamment tôt pour permettre au collaborateur ou à la collaboratrice de répondre aux exigences du poste.
+<sup>1</sup> Le licenciement est précédé d'une lettre d'avertissement écrite et motivée, du ou de la chef‑fe de service, donnée suffisamment tôt pour permettre au collaborateur ou à la collaboratrice de répondre aux exigences du poste.
+
+<sup>2</sup> La lettre d'avertissement consiste en une mise en garde adressée au collaborateur ou à la collaboratrice qui ne répond pas aux exigences de sa fonction selon l'article 38, afin de lui donner la possibilité de s'améliorer avant l'éventuel prononcé d'une décision de résiliation.
+
+<sup>3</sup> La lettre d'avertissement n'est pas sujette à recours. Le collaborateur ou la collaboratrice peut toutefois présenter par écrit, à l'autorité d'engagement, une demande de réexamen motivée contre la lettre d'avertissement.
+
+<sup>4</sup> L'autorité d'engagement se détermine de manière définitive sur la demande de réexamen. Il s'agit d'un réexamen interne. La détermination sur ce réexamen ne peut pas faire l'objet d'un recours.
+
+<sup>5</sup> La procédure est régie par les dispositions d'exécution de la présente loi.
 
 #### Art. 40
 
@@ -454,7 +453,7 @@ Décrète:
 
 **Contrat de durée indéterminée – Conséquences d'un licenciement injustifié**
 
-<sup>1</sup> Lorsque les motifs de licenciement se révèlent injustifiés, le collaborateur ou la collaboratrice est maintenu-e dans sa fonction. Toutefois, s'il y a eu cessation de fait des rapports de service et qu'une réintégration du collaborateur ou de la collaboratrice ne soit plus possible, celui-ci ou celle-ci a droit à une indemnité dont le montant maximal est égal à une année de traitement.
+<sup>1</sup> Lorsque les motifs de licenciement se révèlent injustifiés, le collaborateur ou la collaboratrice est maintenu‑e dans sa fonction. Toutefois, s'il y a eu cessation de fait des rapports de service et qu'une réintégration du collaborateur ou de la collaboratrice ne soit plus possible, celui-ci ou celle-ci a droit à une indemnité dont le montant maximal est égal à dix-huit mois de traitement.
 
 #### Art. 42
 
@@ -492,7 +491,7 @@ Décrète:
 
 <sup>1</sup> La procédure est celle qui est prévue à l'article 40. Toutefois, dans les cas graves et lorsque le collaborateur ou la collaboratrice reconnaît les faits qui lui sont reprochés, la décision de renvoi peut être prononcée selon une procédure d'urgence simplifiée, réglée par le Conseil d'Etat.
 
-<sup>2</sup> Lorsque les circonstances le permettent, le renvoi est précédé d'un avertissement écrit.
+<sup>2</sup> Lorsque les circonstances le permettent, le renvoi est précédé d'une lettre d'avertissement, telle qu'elle est définie à l'article 39 al. 2.
 
 <sup>3</sup> Le collaborateur ou la collaboratrice peut être tenu-e de supporter les frais de procédure. Si celle-ci n'aboutit pas au renvoi mais que le collaborateur ou la collaboratrice l'ait provoquée par sa faute ou sa légèreté ou qu'il ou elle l'ait rendue plus difficile, tout ou partie des frais peuvent également être mis à sa charge.
 
@@ -532,11 +531,17 @@ Décrète:
 
 <sup>6</sup> Les articles 50 à 55 relatifs à la mise à la retraite sont réservés.
 
+#### Art. 47a
+
+**Indemnité de situation acquise**
+
+<sup>1</sup> En cas de transfert ou de suppression de postes liés à une réorganisation, une indemnité garantissant le maintien de la situation salariale est octroyée aux collaborateurs et collaboratrices ayant atteint l'âge qui sera fixé par voie réglementaire. Le Conseil d'Etat fixe les modalités d'octroi de l'indemnité de situation acquise.
+
 #### Art. 48
 
 **Incapacité durable de travail**
 
-<sup>1</sup> L'incapacité de travail par suite de maladie ou d'accident entraîne une cessation de plein droit des rapports de service lorsque sa durée dépasse 365 jours complets ou partiels d'absence, dans une période de 547 jours consécutifs. L'autorité d'engagement peut réengager le collaborateur ou la collaboratrice, soit dès la cessation des rapports de service, soit de manière différée.
+<sup>1</sup> L'incapacité de travail par suite de maladie ou d'accident entraîne une cessation de plein droit des rapports de service lorsque sa durée dépasse 365 jours d'incapacité, dans une période de 547 jours consécutifs. L'autorité d'engagement peut réengager le collaborateur ou la collaboratrice, soit dès la cessation des rapports de service, soit de manière différée. Les modalités sont fixées par voie d'ordonnance.
 
 <sup>2</sup> L'article 110 relatif au droit au traitement en cas d'incapacité de travail pour cause de maladie ou d'accident reste réservé.
 
@@ -670,13 +675,15 @@ Décrète:
 
 **Obligation d'information – Infraction constatée par un membre du personnel**
 
-<sup>1</sup> Le collaborateur ou la collaboratrice qui, dans le cadre de l'exercice de sa fonction, constate ou éprouve des soupçons sérieux au sujet d'un fait punissable et préjudiciable aux intérêts de l'Etat est tenu-e de le signaler sans retard à son autorité d'engagement.
+<sup>1</sup> Le collaborateur ou la collaboratrice qui, dans l'exercice de sa fonction, constate ou éprouve des soupçons sérieux au sujet d'un fait punissable et préjudiciable aux intérêts de l'Etat est tenu‑e de le signaler sans retard à son autorité d'engagement, subsidiairement au Conseil d'Etat.
 
-<sup>2</sup> Lorsque le fait paraît présenter un caractère pénal, l'autorité d'engagement le dénonce à l'autorité pénale compétente. Elle peut y renoncer dans les cas de peu de gravité. En cas de dénonciation, elle en informe le Conseil d'Etat.
+<sup>2</sup> Lorsque le fait paraît présenter un caractère pénal, l'autorité d'engagement ou le Conseil d'Etat le dénonce à l'autorité pénale compétente. Il peut être renoncé à une dénonciation dans les cas de peu de gravité. En cas de dénonciation par l'autorité d'engagement ou la Direction, le Conseil d'Etat en est informé.
 
 <sup>3</sup> Les dispositions d'exécution peuvent, pour certaines catégories de personnel, introduire une obligation de dénoncer, à l'autorité pénale compétente, les infractions commises par des tiers dont le collaborateur ou la collaboratrice a eu connaissance dans le cadre de l'exercice de sa fonction.
 
 <sup>4</sup> L'article 302 al. 1 du code de procédure pénale imposant un devoir de dénonciation aux agents et agentes de la Police cantonale reste réservé.
+
+<sup>5</sup> Nul ne doit subir de désavantage sur le plan professionnel pour avoir, de bonne foi, signalé un fait apparemment punissable ou préjudiciable aux intérêts de l'Etat ou pour en avoir attesté.
 
 #### Art. 63
 
@@ -797,6 +804,16 @@ Décrète:
 
 <sup>3</sup> Les lois spéciales, notamment la loi sur l'Université, sont en outre réservées.
 
+#### Art. 74a
+
+**Transfert des droits d'auteur**
+
+<sup>1</sup> Les collaborateurs et collaboratrices transfèrent à l'Etat les droits d'auteur concernant toutes les œuvres au sens de la loi fédérale sur le droit d'auteur qu'ils ont réalisées dans le cadre de leur activité au service de l'Etat.
+
+<sup>2</sup> L'Etat ne verse aucune contre-prestation pour ces œuvres en sus du traitement du collaborateur ou de la collaboratrice.
+
+<sup>3</sup> Les lois spéciales, notamment la loi sur l'Université, et les accords particuliers sont réservés.
+
 ## 7 Violation des devoirs du personnel
 
 #### Art. 75
@@ -894,7 +911,7 @@ Décrète:
 
 **Prestation liée au marché du travail**
 
-<sup>1</sup> Lorsque le marché du travail est tel que le traitement octroyé à un collaborateur ou une collaboratrice, ou encore à une catégorie de personnel, ne permet plus d'engager ou de conserver des collaborateurs ou collaboratrices qualifiés, le Conseil d'Etat peut, par mesure temporaire, accorder une prestation supplémentaire égale, au plus, à 20 % du maximum de la classe déterminante pour la fixation du traitement ordinaire.
+<sup>1</sup> Lorsque le marché du travail est tel que le traitement octroyé à un collaborateur ou une collaboratrice, ou encore à une catégorie de personnel, ne permet plus d'engager ou de conserver des collaborateurs ou collaboratrices qualifiés, le Conseil d'Etat peut, par mesure temporaire, accorder une prestation supplémentaire.
 
 <sup>2</sup> Dès que le marché du travail ne justifie plus la mesure prise en application de l'alinéa 1, la prestation est réduite ou supprimée.
 
@@ -942,7 +959,7 @@ Décrète:
 
 <sup>1</sup> Lorsque le collaborateur ou la collaboratrice ne répond pas ou que partiellement aux exigences de la fonction sous l'angle des prestations, du comportement ou des aptitudes, l'augmentation n'est pas octroyée, n'est octroyée que partiellement ou est reportée dans l'année.
 
-<sup>2</sup> L'autorité d'engagement statue sur la base d'une évaluation des prestations du collaborateur ou de la collaboratrice.
+<sup>2</sup> …
 
 <sup>3</sup> Les dispositions d'exécution règlent les cas de l'octroi de l'augmentation en cas d'absence prolongée du collaborateur ou de la collaboratrice.
 
@@ -966,9 +983,17 @@ Décrète:
 
 ### 8.7 Primes et récompenses
 
-[^91-1]
+#### Art. 92–94
 
-[^91-1]: Art. 92 à 94: dispositions pas encore en vigueur, cf. note ad art. 143.
+**[^9294-1]**
+
+[^9294-1]: Les articles 92 à 94, tels qu'adoptés par la loi du 17.10.2001, ne sont jamais entrés en vigueur et sont considérés comme abrogés par la loi du 22.06.2021.
+
+#### Art. 94a
+
+**Primes**
+
+<sup>1</sup> Le Conseil d'Etat fixe par voie d'ordonnance un système de primes récompensant les prestations exceptionnelles individuelles ou d'un groupe.
 
 #### Art. 95
 
@@ -1143,7 +1168,7 @@ Décrète:
 
 <sup>1</sup> En cas de maternité, la collaboratrice a droit à seize semaines de congé payé.
 
-<sup>2</sup> Toutefois, la durée du congé payé est de douze semaines lorsque la collaboratrice est en première année de service et qu'elle a décidé de ne pas reprendre son activité au terme de son congé.
+<sup>2</sup> …
 
 <sup>3</sup> Les dispositions d'exécution fixent les modalités du congé de maternité.
 
@@ -1151,15 +1176,17 @@ Décrète:
 
 **Adoption**
 
-<sup>1</sup> En cas d'adoption, la collaboratrice a droit à douze semaines de congé payé.
+<sup>1</sup> En cas d'adoption d'une personne mineure, le collaborateur ou la collaboratrice a droit à douze semaines de congé payé.
 
-<sup>2</sup> Le collaborateur peut bénéficier d'un congé payé allant jusqu'à quatre semaines, lorsque les démarches visant à accueillir l'enfant le nécessitent.
+<sup>2</sup> Si les deux parents adoptifs travaillent à l'Etat, le ou la partenaire du collaborateur ou de la collaboratrice a droit à un congé payé de quinze jours ouvrables.
+
+<sup>3</sup> Le congé d'adoption vaut uniquement pour l'adoption d'une personne mineure n'étant pas déjà l'enfant du conjoint ou de la conjointe au sens de l'article 264c CC.
 
 #### Art. 114a
 
 **Paternité**
 
-<sup>1</sup> Lors de la naissance de son enfant, le collaborateur a droit à un congé payé de paternité de cinq jours ouvrables.
+<sup>1</sup> Lors de la naissance de son enfant, le collaborateur a droit à un congé payé de paternité de quinze jours ouvrables.
 
 <sup>2</sup> Le Conseil d'Etat fixe les modalités d'octroi de ce congé payé.
 
@@ -1177,6 +1204,12 @@ Décrète:
 
 <sup>1</sup> La prévoyance professionnelle vieillesse, survivants et invalidité est régie par la législation spéciale, notamment celle sur la Caisse de prévoyance du personnel de l'Etat.
 
+#### Art. 116a
+
+**Pénibilité**
+
+<sup>1</sup> Le Conseil d'Etat détermine par voie d'ordonnance les principes et critères d'évaluation pour les activités pénibles ou à risques accrus.
+
 ## 10 Vacances et congés
 
 #### Art. 117
@@ -1193,7 +1226,7 @@ Décrète:
 
 <sup>1</sup> Le collaborateur ou la collaboratrice a droit à des congés payés de courte durée liés à l'accomplissement d'obligations légales ou à des événements particuliers.
 
-<sup>2</sup> Le collaborateur ou la collaboratrice peut bénéficier de congés payés prolongés liés à l'accomplissement d'une formation, d'une tâche d'intérêt général ou pour d'autres motifs justifiés.
+<sup>2</sup> Le collaborateur ou la collaboratrice peut bénéficier de congés payés prolongés liés à l'accomplissement d'une formation, d'une tâche d'intérêt général ou pour d'autres motifs justifiés, notamment pour les proches aidants et les enfants gravement malades.
 
 #### Art. 119
 
@@ -1239,11 +1272,7 @@ Décrète:
 
 #### Art. 124
 
-**Protection des données relatives au personnel**
-
-<sup>1</sup> Les organes de l'Etat ne peuvent traiter les données personnelles nécessaires à la gestion des dossiers du personnel et à la gestion des salaires que pour l'établissement et l'administration des rapports de service.
-
-<sup>2</sup> La législation sur la protection des données est applicable.
+**…**
 
 #### Art. 125
 
@@ -1268,6 +1297,97 @@ Décrète:
 <sup>2</sup> L'Etat assure, sur requête, une assistance juridique aux membres du personnel qui font l'objet d'une plainte ou d'une dénonciation pénale concernant des infractions qui auraient été commises dans l'exercice de leurs fonctions à l'égard de tiers. Il en est de même si la défense adéquate des intérêts d'un membre du personnel, menacé ou agressé injustement, nécessite que celui-ci intente une action en justice.
 
 <sup>3</sup> Les frais d'assistance sont mis totalement ou partiellement à la charge du collaborateur ou de la collaboratrice si celui-ci ou celle-ci est reconnu-e coupable, pour autant qu'il ou elle ait violé intentionnellement ou par négligence grave ses devoirs de service.
+
+## 11a Protection des données
+
+#### Art. 127a
+
+**Administration du personnel**
+
+<sup>1</sup> L'Etat-employeur traite, sous forme papier ou dans un ou plusieurs systèmes d'information, les données relatives au personnel dont il a besoin pour exécuter les tâches qui lui sont assignées par la présente loi, notamment pour:
+
+- a) planifier les besoins et assurer le recrutement du personnel;
+- b) gérer les salaires, les rémunérations et les communications aux assurances sociales;
+- c) établir la classification des fonctions;
+- d) assurer la mise en œuvre de la conduite par objectifs, de l'évaluation et du développement du personnel;
+- e) identifier et promouvoir les mesures de développement et de formation du personnel;
+- f) garantir la planification, le pilotage, l'exploitation et le contrôle des données du personnel;
+- g) réaliser des agrégats et des analyses de données, sous différentes formes, notamment à des fins statistiques.
+
+<sup>2</sup> Il est habilité à traiter les données du personnel qui sont nécessaires à l'exécution de ses tâches, y compris les données sensibles, notamment:
+
+- a) les données relatives à la personne;
+- b) les données relatives aux prestations, au potentiel et au développement personnel et professionnel;
+- c) les données relatives à l'état de santé en rapport avec la capacité de travail;
+- d) les données requises dans le cadre de la collaboration à la mise en œuvre du droit des assurances sociales;
+- e) les actes de procédure et décisions de l'Etat-employeur ayant trait au travail.
+
+<sup>3</sup> Il est responsable de la protection et de la sécurité des données.
+
+<sup>4</sup> Il peut transmettre des données à des tiers s'il existe une base légale ou si la personne à laquelle ces données se rapportent y a consenti par écrit.
+
+<sup>5</sup> L'Etat-employeur peut avoir accès, pour les besoins de services, aux données personnelles d'autres plates-formes ou registres informatiques de données, ainsi que pour la transmission à des fins statistiques. Une autorisation préalable est requise, et les droits d'accès doivent être strictement délimités.
+
+<sup>6</sup> Les données personnelles peuvent être rendues accessibles au moyen d'une procédure d'appel électronique au sens de la loi cantonale sur la protection des données.
+
+<sup>7</sup> Au surplus, les dispositions d'exécution règlent les modalités.
+
+#### Art. 127b
+
+**Consultation sociale et de conseil du personnel**
+
+<sup>1</sup> La Consultation sociale et de conseil du personnel de l'Etat de Fribourg traite, sur papier ou dans un système d'information, les données qui concernent les personnes faisant appel à ses services et dont elle a besoin pour exécuter ses tâches, notamment:
+
+- a) les atteintes à la santé physique ou psychique;
+- b) les risques psychosociaux au travail;
+- c) les problèmes financiers;
+- d) les questions personnelles;
+- e) les conflits et le harcèlement;
+- f) les activités liées à la réintégration de personnes atteintes dans leur santé;
+- g) le traitement des demandes et le secrétariat du Fond d'entraide sociale pour le personnel de l'Etat;
+- h) la réalisation d'agrégats et d'analyses de données, sous différentes formes, notamment à des fins statistiques.
+
+<sup>2</sup> Elle peut traiter les données sensibles relatives aux bénéficiaires nécessaires à l'exécution de ses tâches, notamment:
+
+- a) la situation personnelle;
+- b) l'état de santé;
+- c) la capacité de travail;
+- d) les causes et le degré d'invalidité.
+
+<sup>3</sup> Elle est responsable de la protection des données qu'elle traite dans le cadre de ses interventions.
+
+<sup>4</sup> Le Conseil d'Etat définit les personnes et les fonctions qui ont accès au système d'information.
+
+<sup>5</sup> La Consultation sociale et de conseil du personnel garantit la confidentialité aux bénéficiaires. Aucune démarche ni aucune mesure ne peut être entreprise par ses intervenants et intervenantes en charge d'un dossier sans l'accord écrit de la personne concernée. L'accord donné peut également être retiré en tout temps.
+
+<sup>6</sup> Il peut être renoncé au consentement écrit de la personne concernée si un intérêt public prépondérant le requiert.
+
+<sup>7</sup> Si une base légale le prévoit, les données strictement nécessaires peuvent être communiquées à des tiers sans l'accord explicite de la personne ou des personnes.
+
+<sup>8</sup> Au surplus, les dispositions d'exécution règlent les modalités.
+
+#### Art. 127c
+
+**Données relatives à la santé**
+
+<sup>1</sup> Le ou la médecin-conseil de l'Etat de Fribourg traite, sur papier ou dans un système d'information, les données sensibles concernant la santé qui sont nécessaires à l'évaluation des aptitudes et risques ou à des fins statistiques, notamment:
+
+- a) l'aptitude au travail des candidats et candidates lors de l'engagement;
+- b) l'aptitude au travail du personnel pendant la durée des rapports de travail;
+- c) les risques d'invalidité et de morbidité des candidats et candidates lors de l'engagement;
+- d) la réalisation d'agrégats et d'analyses de données, sous différentes formes, notamment à des fins statistiques.
+
+<sup>2</sup> Le ou la médecin-conseil est responsable de la protection des données et de la sécurité du système d'information.
+
+<sup>3</sup> Les collaborateurs et collaboratrices du ou de la médecin-conseil et les services d'assistance technique ont accès au système d'information, à la condition que l'exécution de leurs tâches l'exige.
+
+<sup>4</sup> S'agissant de l'aptitude du candidat ou de la candidate à être engagé‑e, le ou la médecin-conseil ne peut communiquer aux services intéressés des renseignements sur les conclusions tirées de constatations médicales que si cela est nécessaire à l'appréciation de l'aptitude à être engagé ou à exercer le travail confié ou pour prendre position sur des revendications découlant des rapports de travail. La personne concernée doit avoir donné son consentement écrit à cette communication.
+
+<sup>5</sup> Au demeurant, le ou la médecin-conseil peut communiquer des données relatives à la santé et les dossiers médicaux à la condition que la personne concernée ait donné son consentement écrit.
+
+<sup>6</sup> Il peut être renoncé au consentement écrit de la personne concernée si un intérêt public prépondérant le requiert.
+
+<sup>7</sup> Au surplus, les dispositions d'exécution règlent les modalités.
 
 ## 12 Associations professionnelles et syndicats
 
@@ -1315,9 +1435,7 @@ Décrète:
 
 #### Art. 131
 
-**Procédure de réexamen de l'évaluation des prestations**
-
-<sup>1</sup> Le Conseil d'Etat édicte des règles relatives au réexamen par l'autorité hiérarchique supérieure de l'évaluation des prestations du collaborateur ou de la collaboratrice. Il peut limiter le réexamen jusqu'au niveau des chef-fe-s de service et des directeurs et directrices d'établissements.
+**…**
 
 #### Art. 131a
 
@@ -1335,7 +1453,7 @@ Décrète:
 
 <sup>2</sup> Le recours préalable au Conseil d'Etat peut être prévu par voie réglementaire contre des décisions ne touchant pas au statut d'un collaborateur ou d'une collaboratrice (p. ex. l'octroi d'une place de stationnement).
 
-<sup>3</sup> Les décisions relatives à l'évaluation des prestations ne sont pas susceptibles de recours séparé.
+<sup>3</sup> …
 
 #### Art. 133
 
