@@ -3,18 +3,18 @@ sr: "173.320.4"
 title: "Règlement du 21 février 2008 du Tribunal administratif fédéral relatif à l'information"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/323"
 language: fr
-version: 2017-09-01
+version: 2022-01-01
 adopted: 2008-02-21
 in_force: 2008-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/323/20170901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-323-20170901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/323/20170901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/323/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-323-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/323/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Règlement du Tribunal administratif fédéral relatif à l’information
 
-du 21 février 2008 (Etat le 1<sup>er</sup> septembre 2017)
+du 21 février 2008 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Tribunal administratif fédéral,
 
@@ -52,23 +52,26 @@ Le tribunal dispose d’un service de presse rattaché au Secrétariat général
 
 **Prononcé des arrêts**
 
-<sup>1</sup> Le tribunal met à la disposition du public la page de garde et le dispositif de tous ses arrêts pendant 30 jours à compter de leur notification et de la levée de l’embargo conformément à l’art. 42 LTAF. Les arrêts rendus en application de l’art. 36*b* LTAF ne sont pas mis à disposition.[^4-1]
+<sup>1</sup> Le tribunal met à la disposition du public la page de garde et le dispositif de tous ses arrêts pendant 30 jours à compter de leur notification et de la levée de l’embargo conformément à l’art. 42 LTAF. Les arrêts rendus en application de l’art. 36*b* LTAF et de l’art. 43*b* de la loi fédérale du 6 octobre 2000 sur la partie générale du droit des assurances sociales (LPGA)[^4-1] ne sont pas mis à disposition.[^4-2]
 
 <sup>2</sup> Le tribunal met ses arrêts à la disposition du public sous une forme non anonyme, à moins que la protection de la personnalité ou d’autres intérêts privés ou publics n’imposent leur anonymisation.
 
 <sup>3</sup> Les arrêts sont mis à la disposition du public sous forme imprimée ou sous forme électronique.
 
-[^4-1]: Nouvelle teneur selon le ch. I du R du TAF du 21 mars 2017, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3809](https://fedlex.data.admin.ch/eli/oc/2017/451)).
+[^4-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^4-2]: Nouvelle teneur selon le ch. I du R du TAF du 2 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 677](https://fedlex.data.admin.ch/eli/oc/2021/677)).
 
 #### Art. 5
 
 **Publication d’arrêts**[^5-1]
 
-<sup>1</sup> Le tribunal publie ses arrêts dans une banque de données électronique et dans un recueil officiel. Les arrêts rendus en application de l’art. 36*b* LTAF ne sont pas publiés.
+<sup>1</sup> Le tribunal publie ses arrêts dans une banque de données électronique et dans un recueil officiel. Les arrêts rendus en application de l’art. 36*b* LTAF et de l’art. 43*b* LPGA[^5-2] ne sont pas publiés.[^5-3]
 
 <sup>2</sup> Le recueil officiel des arrêts du tribunal «Arrêts du Tribunal administratif fédéral suisse (ATAF)» est publié sur papier et sous forme électronique.
 
 [^5-1]: Nouvelle teneur selon le ch. I du R du TAF du 21 mars 2017, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3809](https://fedlex.data.admin.ch/eli/oc/2017/451)).
+[^5-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^5-3]: Nouvelle teneur selon le ch. I du R du TAF du 2 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 677](https://fedlex.data.admin.ch/eli/oc/2021/677)).
 
 #### Art. 6
 

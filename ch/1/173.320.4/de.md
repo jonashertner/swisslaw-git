@@ -3,18 +3,18 @@ sr: "173.320.4"
 title: Informationsreglement vom 21. Februar 2008 für das Bundesverwaltungsgericht
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/323"
 language: de
-version: 2017-09-01
+version: 2022-01-01
 adopted: 2008-02-21
 in_force: 2008-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/323/20170901/de/xml/fedlex-data-admin-ch-eli-cc-2008-323-20170901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/323/20170901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/323/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-323-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/323/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Informationsreglement für das Bundesverwaltungsgericht
 
-vom 21. Februar 2008 (Stand am 1. September 2017)
+vom 21. Februar 2008 (Stand am 1. Januar 2022)
 
 Das Bundesverwaltungsgericht,
 
@@ -52,23 +52,26 @@ Das Bundesverwaltungsgericht verfügt über eine Medienstelle im Generalsekretar
 
 **Verkünden von Entscheiden**
 
-<sup>1</sup> Das Bundesverwaltungsgericht legt alle Entscheide im Dispositiv mit Rubrum während 30 Tagen nach deren Eröffnung und nach Ablauf der Sperrfristen öffentlich auf (Art. 42 VGG). Entscheide aufgrund von Artikel 36*b* VGG werden nicht aufgelegt.[^4-1]
+<sup>1</sup> Das Bundesverwaltungsgericht legt alle Entscheide im Dispositiv mit Rubrum während 30 Tagen nach deren Eröffnung und nach Ablauf der Sperrfristen öffentlich auf (Art. 42 VGG). Entscheide aufgrund von Artikel 36*b* VGG und Artikel 43*b* des Bundesgesetzes vom 6. Oktober 2000[^4-1] über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG) werden nicht aufgelegt.[^4-2]
 
 <sup>2</sup> Das Bundesverwaltungsgericht legt seine Entscheide in nicht anonymisierter Form auf, sofern eine Anonymisierung nicht zum Schutz der Persönlichkeit oder anderer privater oder öffentlicher Interessen geboten ist.
 
 <sup>3</sup> Die Entscheide werden entweder in gedruckter oder in elektronischer Form öffentlich zugänglich gemacht.
 
-[^4-1]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 21. März 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 3809](https://fedlex.data.admin.ch/eli/oc/2017/451)).
+[^4-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^4-2]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 2. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 677](https://fedlex.data.admin.ch/eli/oc/2021/677)).
 
 #### Art. 5
 
 **Veröffentlichung von Entscheiden**[^5-1]
 
-<sup>1</sup> Das Bundesverwaltungsgericht veröffentlicht seine Entscheide sowohl in einer elektronischen Entscheiddatenbank als auch in einer amtlichen Entscheidsammlung. Entscheide aufgrund von Artikel 36*b* VGG werden nicht veröffentlicht.
+<sup>1</sup> Das Bundesverwaltungsgericht veröffentlicht seine Entscheide sowohl in einer elektronischen Entscheiddatenbank als auch in einer amtlichen Entscheidsammlung. Entscheide aufgrund von Artikel 36*b* VGG und Artikel 43*b* ATSG[^5-2] werden nicht veröffentlicht.[^5-3]
 
 <sup>2</sup> Die amtliche Entscheidsammlung «Entscheide des Schweizerischen Bundesverwaltungsgerichts (BVGE)» wird in Papierform und in elektronischer Form zur Verfügung gestellt.
 
 [^5-1]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 21. März 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 3809](https://fedlex.data.admin.ch/eli/oc/2017/451)).
+[^5-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^5-3]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 2. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 677](https://fedlex.data.admin.ch/eli/oc/2021/677)).
 
 #### Art. 6
 

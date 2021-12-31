@@ -3,18 +3,18 @@ sr: "173.320.4"
 title: "Regolamento del 21 febbraio 2008 del Tribunale amministrativo federale concernente l'informazione"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/323"
 language: it
-version: 2017-09-01
+version: 2022-01-01
 adopted: 2008-02-21
 in_force: 2008-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/323/20170901/it/xml/fedlex-data-admin-ch-eli-cc-2008-323-20170901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/323/20170901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/323/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-323-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/323/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Regolamento del Tribunale amministrativo federale concernente l’informazione
 
-del 21 febbraio 2008 (Stato 1° settembre 2017)
+del 21 febbraio 2008 (Stato 1° gennaio 2022)
 
 Il Tribunale amministrativo federale,
 
@@ -52,23 +52,26 @@ Il Tribunale dispone di un ufficio stampa in seno al segretariato generale.
 
 **Divulgazione delle sentenze**
 
-<sup>1</sup> Il Tribunale mette a disposizione del pubblico la pagina d’intestazione e il dispositivo di tutte le sue sentenze per 30 giorni dopo la loro notificazione e la scadenza del periodo di attesa (art. 42 LTAF). Le decisioni pronunciate in applicazione dell’articolo 36*b* LTAF non sono messe a disposizione.[^4-1]
+<sup>1</sup> Il Tribunale mette a disposizione del pubblico la pagina d’intestazione e il dispositivo di tutte le sue sentenze per 30 giorni dopo la loro notificazione e la scadenza del periodo di attesa (art. 42 LTAF). Le decisioni pronunciate in applicazione dell’articolo 36*b* LTAF e dell’articolo 43*b* della legge federale del 6 ottobre 2000[^4-1] sulla parte generale del diritto delle assicurazioni sociali (LPGA) non sono messe a disposizione.[^4-2]
 
 <sup>2</sup> Il Tribunale rende pubbliche le proprie decisioni in forma non anonimizzata, a meno che un’anonimizzazione non s’imponga per la protezione della personalità o per altri interessi privati o pubblici.
 
 <sup>3</sup> Le sentenze sono messe a disposizione del pubblico su carta stampata oppure in formato elettronico.
 
-[^4-1]: Nuovo testo giusta il n. I della D del TAF del 21 mar. 2017, in vigore dal 1° set. 2017 ([RU 2017 3809](https://fedlex.data.admin.ch/eli/oc/2017/451)).
+[^4-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^4-2]: Nuovo testo giusta il n. I della D del TAF del 2 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 677](https://fedlex.data.admin.ch/eli/oc/2021/677)).
 
 #### Art. 5
 
 **Pubblicazione delle decisioni**[^5-1]
 
-<sup>1</sup> Il Tribunale pubblica le proprie decisioni sia in una banca dati elettronica delle decisioni sia in una raccolta ufficiale. Le decisioni pronunciate in applicazione dell’articolo 36*b* LTAF non vengono pubblicate.
+<sup>1</sup> Il Tribunale pubblica le proprie decisioni sia in una banca dati elettronica delle decisioni sia in una raccolta ufficiale. Le decisioni pronunciate in applicazione dell’articolo 36*b* LTAF e dell’articolo 43*b* LPGA[^5-2] non vengono pubblicate.[^5-3]
 
 <sup>2</sup> La raccolta ufficiale delle decisioni del Tribunale «Decisioni del Tribunale amministrativo federale (DTAF)» è messa a disposizione su carta stampata e in formato elettronico.
 
 [^5-1]: Nuovo testo giusta il n. I della D del TAF del 21 mar. 2017, in vigore dal 1° set. 2017 ([RU 2017 3809](https://fedlex.data.admin.ch/eli/oc/2017/451)).
+[^5-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^5-3]: Nuovo testo giusta il n. I della D del TAF del 2 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 677](https://fedlex.data.admin.ch/eli/oc/2021/677)).
 
 #### Art. 6
 
