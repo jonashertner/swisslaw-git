@@ -3,18 +3,18 @@ sr: "784.101.113"
 title: "Ordonnance de l'OFCOM du 9 décembre 1997 sur les services de télécommunication et les ressources d'adressage"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/480_480_480"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1997-12-09
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/480_480_480/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-480_480_480-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/480_480_480/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/480_480_480/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-480_480_480-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/480_480_480/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OFCOM sur les services de télécommunication et les ressources d’adressage****
 
-du 9 décembre 1997 (Etat le 1<sup>er</sup> janvier 2021)[^t-1]
+du 9 décembre 1997 (Etat le 1<sup>er</sup> janvier 2022)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 25 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4631](https://fedlex.data.admin.ch/eli/oc/2016/748)).
 
@@ -51,7 +51,7 @@ Annexe 1*[^t-2]*
 [^annex1-lvlu1-1]
 
 [^t-2]: Mise à jour par le ch. II des O de l’OFCOM du 14 nov. 2014 ([RO 2014 4353](https://fedlex.data.admin.ch/eli/oc/2014/717)), du 25 nov. 2016 ([RO 2016 4631](https://fedlex.data.admin.ch/eli/oc/2016/748)), du 12 déc. 2016 ([RO 2017 19](https://fedlex.data.admin.ch/eli/oc/2017/5)) et le ch. I des O de l’OFCOM du 30 nov. 2018 ([RO 2018 4677](https://fedlex.data.admin.ch/eli/oc/2018/737)) et du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5273](https://fedlex.data.admin.ch/eli/oc/2020/912)).
-[^annex1-lvlu1-1]: Le texte de ces prescriptions n’est pas publié au RO ([RO 2001 3130](https://fedlex.data.admin.ch/eli/oc/2001/469), [2002 2673](https://fedlex.data.admin.ch/eli/oc/2002/376)[4226](https://fedlex.data.admin.ch/eli/oc/2002/687), [2003 3246](https://fedlex.data.admin.ch/eli/oc/2003/444)[4769](https://fedlex.data.admin.ch/eli/oc/2003/694), [2005 673](https://fedlex.data.admin.ch/eli/oc/2005/71)[2327](https://fedlex.data.admin.ch/eli/oc/2005/394)[5033](https://fedlex.data.admin.ch/eli/oc/2005/700), [2007 989](https://fedlex.data.admin.ch/eli/oc/2007/168), [2009 715](https://fedlex.data.admin.ch/eli/oc/2009/119)[5831](https://fedlex.data.admin.ch/eli/oc/2009/705), [2012 369](https://fedlex.data.admin.ch/eli/oc/2012/26), [2013 1095](https://fedlex.data.admin.ch/eli/oc/2013/247), [2014 535](https://fedlex.data.admin.ch/eli/oc/2014/105), 2017 19). Commmande: Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne; téléchargement: www.ofcom.admin.ch &gt; L’OFCOM &gt; Bases légales &gt; Pratique en matière d’exécution &gt; Télécommunication.
+[^annex1-lvlu1-1]: Le texte de ces prescriptions n’est pas publié au RO ([RO 2001 3130](https://fedlex.data.admin.ch/eli/oc/2001/469); [2002 2673](https://fedlex.data.admin.ch/eli/oc/2002/376), [4226](https://fedlex.data.admin.ch/eli/oc/2002/687); [2003 3246](https://fedlex.data.admin.ch/eli/oc/2003/444), [4769](https://fedlex.data.admin.ch/eli/oc/2003/694); [2005 673](https://fedlex.data.admin.ch/eli/oc/2005/71), [2327](https://fedlex.data.admin.ch/eli/oc/2005/394), [5033](https://fedlex.data.admin.ch/eli/oc/2005/700); [2007 989](https://fedlex.data.admin.ch/eli/oc/2007/168); [2009 715](https://fedlex.data.admin.ch/eli/oc/2009/119), [5831](https://fedlex.data.admin.ch/eli/oc/2009/705); [2012 369](https://fedlex.data.admin.ch/eli/oc/2012/26); [2013 1095](https://fedlex.data.admin.ch/eli/oc/2013/247); [2014 535](https://fedlex.data.admin.ch/eli/oc/2014/105); [2017 19](https://fedlex.data.admin.ch/eli/oc/2017/5)). Commmande: Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne; téléchargement: www.ofcom.admin.ch &gt; L’OFCOM &gt; Bases légales &gt; Pratique en matière d’exécution &gt; Télécommunication.
 
 - 1\. Prescriptions techniques et administratives concernant la gestion et la mise à disposition des données d’annuaire des fournisseurs du service téléphonique public (7<sup>e</sup> édition)
 - 2\. Prescriptions techniques et administratives concernant la qualité du service universel (9<sup>e</sup> édition)
@@ -73,7 +73,7 @@ Annexe 2*[^t-3]*
 
 [^annex2-lvlu1-1]
 
-[^t-3]: Mise à jour par le ch. II de l’O de l’OFCOM du 14 nov. 2014 ([RO 2014 4353](https://fedlex.data.admin.ch/eli/oc/2014/717)), le ch. I de l’O de l’OFCOM du 14 août 2015 ([RO 2015 2769](https://fedlex.data.admin.ch/eli/oc/2015/522)), le ch. II de l’O de l’OFCOM du 25 nov. 2016 ([RO 2016 4631](https://fedlex.data.admin.ch/eli/oc/2016/748)) et le ch. I des O de l’OFCOM du 15 sept. 2017 ([RO 2017 5223](https://fedlex.data.admin.ch/eli/oc/2017/575)), du 30 nov. 2018 ([RO 2018 4677](https://fedlex.data.admin.ch/eli/oc/2018/737)) et du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5273](https://fedlex.data.admin.ch/eli/oc/2020/912)).
+[^t-3]: Mise à jour par le ch. II de l’O de l’OFCOM du 14 nov. 2014 ([RO 2014 4353](https://fedlex.data.admin.ch/eli/oc/2014/717)), le ch. I de l’O de l’OFCOM du 14 août 2015 ([RO 2015 2769](https://fedlex.data.admin.ch/eli/oc/2015/522)), le ch. II de l’O de l’OFCOM du 25 nov. 2016 ([RO 2016 4631](https://fedlex.data.admin.ch/eli/oc/2016/748)), le ch. I des O de l’OFCOM du 15 sept. 2017 ([RO 2017 5223](https://fedlex.data.admin.ch/eli/oc/2017/575)), du 30 nov. 2018 ([RO 2018 4677](https://fedlex.data.admin.ch/eli/oc/2018/737)), du 18 nov. 2020 ([RO 2020 5273](https://fedlex.data.admin.ch/eli/oc/2020/912)) et du 1<sup>er</sup> déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 824](https://fedlex.data.admin.ch/eli/oc/2021/824)).
 [^annex2-lvlu1-1]: Le texte de ces plans et prescriptions n’est pas publié au RO. Il peut être obtenu auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne ou téléchargé à l’adresse www.ofcom.admin.ch &gt; L’OFCOM &gt; Bases légales &gt; Pratique en matière d’exécution &gt; Télécommunication.
 
 - 1\. ...
@@ -87,7 +87,7 @@ Annexe 2*[^t-3]*
 - 9\. *...*
 - 10\. Prescriptions techniques et administratives concernant l’attribution de numéros individuels (9<sup>e</sup> édition)
 - 11\. *...*
-- 12\. Prescriptions techniques et administratives concernant les numéros courts des services de renseignements sur les annuaires (8<sup>e</sup> édition)
+- 12\. Prescriptions techniques et administratives concernant les numéros courts des services de renseignements sur les annuaires (9<sup>e</sup> édition)
 - 13\. Prescriptions techniques et administratives concernant l’attribution et la gestion des noms de domaine de deuxième niveau qui dépendent du domaine «.ch» (8<sup>e</sup> édition)
 - 14\. Prescriptions techniques et administratives concernant l’attribution et la gestion des noms de domaine de deuxième niveau qui dépendent du domaine «.swiss» (3<sup>e</sup> édition)
 - 15\. Prescriptions techniques et administratives concernant l’utilisation de ressources d’adressage sans attribution formelle (6<sup>e</sup> édition)

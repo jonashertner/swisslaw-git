@@ -3,18 +3,18 @@ sr: "784.101.113"
 title: "Ordinanza dell'UFCOM del 9 dicembre 1997 sui servizi di telecomunicazione e gli elementi d'indirizzo"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/480_480_480"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1997-12-09
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/480_480_480/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1998-480_480_480-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/480_480_480/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/480_480_480/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1998-480_480_480-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/480_480_480/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’UFCOM sui servizi di telecomunicazione e gli elementi d’indirizzo****
 
-del 9 dicembre 1997 (Stato 1° gennaio 2021)[^t-1]
+del 9 dicembre 1997 (Stato 1° gennaio 2022)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’O dell’UFCOM del 25 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4631](https://fedlex.data.admin.ch/eli/oc/2016/748)).
 
@@ -76,8 +76,8 @@ Allegato 2*[^t-3]*
 
 [^annex2-lvlu1-1]
 
-[^t-3]: Aggiornato dal n. II dell’O dell’UFCOM del 14 nov. 2014 ([RU 2014 4353](https://fedlex.data.admin.ch/eli/oc/2014/717)), dal n. I dell’O dell’UFCOM del 14 ago. 2015 ([RU 2015 2769](https://fedlex.data.admin.ch/eli/oc/2015/522)), dal n. II dell’O dell’UFCOM del 25 nov. 2016 ([RU 2016 4631](https://fedlex.data.admin.ch/eli/oc/2016/748)), dai n. I delle O dell’UFCOM del 15 set. 2017 ([RU 2017 5223](https://fedlex.data.admin.ch/eli/oc/2017/575)), del 30 nov. 2018 ([RU 2018 4677](https://fedlex.data.admin.ch/eli/oc/2018/737)) e del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5273](https://fedlex.data.admin.ch/eli/oc/2020/912)).
-[^annex2-lvlu1-1]: I piani di numerazione e le prescrizioni tecniche e amministrative non sono pubblicati nella RU. Sono ottenibili presso l’UFCOM, rue de l’Avenir 44, casella postale, 2501 Bienne o consultabili all’indirizzo Internet www.ufcom.admin.ch &gt; L’UFCOM &gt; Basi legali &gt; Prassi d’esecuzione &gt; Telecomunicazione.
+[^t-3]: Aggiornato dal n. II dell’O dell’UFCOM del 14 nov. 2014 ([RU 2014 4353](https://fedlex.data.admin.ch/eli/oc/2014/717)), dal n. I dell’O dell’UFCOM del 14 ago. 2015 ([RU 2015 2769](https://fedlex.data.admin.ch/eli/oc/2015/522)), dal n. II dell’O dell’UFCOM del 25 nov. 2016 ([RU 2016 4631](https://fedlex.data.admin.ch/eli/oc/2016/748)), dai n. I delle O dell’UFCOM del 15 set. 2017 ([RU 2017 5223](https://fedlex.data.admin.ch/eli/oc/2017/575)), del 30 nov. 2018 ([RU 2018 4677](https://fedlex.data.admin.ch/eli/oc/2018/737)), del 18 nov. 2020 ([RU 2020 5273](https://fedlex.data.admin.ch/eli/oc/2020/912)) e del 1° dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 824](https://fedlex.data.admin.ch/eli/oc/2021/824)).
+[^annex2-lvlu1-1]: I piani di numerazione e le prescrizioni tecniche e amministrative non sono pubblicati nella RU. Sono ottenibili presso l’Ufficio federale delle comunicazioni, rue de l’Avenir 44, Casella postale, 2501 Bienne o consultabili in Internet all’indirizzo www.ufcom.admin.ch &gt; L’UFCOM &gt; Basi legali &gt; Prassi d’esecuzione &gt; Telecomunicazione.
 
 - 1\. ...
 - 2\. Prescrizioni tecniche e amministrative relative al piano di numerazione e alla ripartizione dei numeri E.164 (7<sup>a</sup> edizione)
@@ -90,7 +90,7 @@ Allegato 2*[^t-3]*
 - 9\. ...
 - 10\. Prescrizioni tecniche e amministrative relative all’attribuzione di numeri individuali (9<sup>a</sup> edizione)
 - 11\. ...
-- 12\. Prescrizioni tecniche e amministrative relative ai numeri brevi dei servizi d’informazione sugli elenchi (8<sup>a</sup> edizione)
+- 12\. Prescrizioni tecniche e amministrative relative ai numeri brevi dei servizi d’informazione sugli elenchi (9<sup>a</sup> edizione)
 - 13\. Prescrizioni tecniche e amministrative relative all’attribuzione e alla gestione di nomi di dominio di secondo livello che dipendono dal dominio «.ch» (8<sup>a</sup> edizione)
 - 14\. Prescrizioni tecniche e amministrative relative all’attribuzione e alla gestione di nomi di dominio di secondo livello che dipendono dal dominio «.swiss» (3<sup>a</sup> edizione)
 - 15\. Prescrizioni tecniche e amministrative relative all’utilizzo degli elementi d’indirizzo senza attribuzione formale (6<sup>a</sup> edizione)
