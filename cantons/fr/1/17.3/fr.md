@@ -4,13 +4,13 @@ number: "17.3"
 title: Loi sur la vidéosurveillance
 short: LVid
 language: fr
-version: 2012-01-01
-valid_until: 2021-12-31
-version_adopted: 2010-12-07
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-10-07
 adopted: 2010-12-07
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/17.3"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5099/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7469/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Vidéosurveillance -L
 
 (LVid)
 
-du 07.12.2010 (version entrée en vigueur le 01.01.2012)
+du 07.12.2010 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -92,7 +92,7 @@ Décrète:
 - a) le respect des exigences de proportionnalité fixées à l'article 4 al. 1 let. a paraît établi;
 - b) les mesures énoncées dans le règlement d'utilisation paraissent suffisantes pour assurer le respect des exigences générales et la protection des données.
 
-<sup>2</sup> Le préfet est l'autorité compétente pour délivrer l'autorisation; il statue après avoir pris le préavis de l'Autorité cantonale de la transparence et de la protection des données et, le cas échéant, de la commune sur le territoire de laquelle l'installation est envisagée. Les organes de préavis reçoivent une copie de la décision.
+<sup>2</sup> Le préfet est l'autorité compétente pour délivrer l'autorisation; il statue après avoir pris le préavis de l'Autorité cantonale de la transparence, de la protection des données et de la médiation et, le cas échéant, de la commune sur le territoire de laquelle l'installation est envisagée. Les organes de préavis reçoivent une copie de la décision.
 
 <sup>3</sup> Lorsque la demande d'autorisation émane d'un organe public, elle doit, le cas échéant, avoir été préalablement approuvée par la Direction du Conseil d'Etat dont dépend ou à laquelle est rattaché cet organe ou dont relève l'activité exercée dans les lieux placés sous vidéosurveillance. La Direction concernée reçoit une copie de la décision.
 

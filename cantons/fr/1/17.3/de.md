@@ -4,13 +4,13 @@ number: "17.3"
 title: Gesetz über die Videoüberwachung
 short: VidG
 language: de
-version: 2012-01-01
-valid_until: 2021-12-31
-version_adopted: 2010-12-07
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-10-07
 adopted: 2010-12-07
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/17.3"
-pdf: "https://bdlf.fr.ch/api/de/versions/5099/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7469/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Videoüberwachung – G
 
 (VidG)
 
-vom 07.12.2010 (Fassung in Kraft getreten am 01.01.2012)
+vom 07.12.2010 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -92,7 +92,7 @@ beschliesst:
 - a) der Grundsatz der Verhältnismässigkeit nach Artikel 4 Abs. 1 Bst. a eingehalten erscheint;
 - b) die im Benutzungsreglement aufgeführten Massnahmen ausreichend erscheinen, um die allgemeinen Anforderungen und den Datenschutz einzuhalten.
 
-<sup>2</sup> Die Oberamtsperson ist für die Ausstellung der Bewilligung zuständig; sie entscheidet nach Einholen der Stellungnahme der kantonalen Behörde für Öffentlichkeit und Datenschutz und gegebenenfalls derjenigen Gemeinde, auf deren Gebiet die Einrichtung der Überwachungsanlage vorgesehen ist. Den Organen, die Stellung genommen haben, wird eine Kopie des Entscheides zugestellt.
+<sup>2</sup> Die Oberamtsperson ist für die Ausstellung der Bewilligung zuständig; sie entscheidet nach Einholen der Stellungnahme der kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation und gegebenenfalls derjenigen Gemeinde, auf deren Gebiet die Einrichtung der Überwachungsanlage vorgesehen ist. Den Organen, die Stellung genommen haben, wird eine Kopie des Entscheides zugestellt.
 
 <sup>3</sup> Wird das Gesuch von einem Verwaltungsorgan eingereicht, so muss vorgängig die Zustimmung derjenigen Direktion des Staatsrates eingeholt werden, welcher das Organ angehört oder zugeordnet ist oder in deren Zuständigkeitsbereich die Tätigkeit fällt, die im zu überwachenden Raum ausgeübt wird. Die Direktion erhält eine Kopie des Entscheids.
 
