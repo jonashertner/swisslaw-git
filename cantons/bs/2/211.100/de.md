@@ -3,13 +3,13 @@ canton: BS
 number: "211.100"
 title: Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches
 language: de
-version: 2018-07-05
-valid_until: 2021-12-31
-version_adopted: 2018-02-07
+version: 2022-01-01
+valid_until: 2024-03-31
+version_adopted: 2021-10-20
 adopted: 1911-04-27
 in_force: 1912-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/211.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4803/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5660/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4803/pdf_file"
 
 Einführungsgesetz zum ZGB | Ergänzungserlasse zum Bundeszivilrecht[^t-1]
 
-Vom 27. April 1911 (Stand 5. Juli 2018)
+Vom 27. April 1911 (Stand 1. Januar 2022)
 
 Der Grosse Rat des Kantons Basel-Stadt
 
@@ -443,32 +443,60 @@ beschlossen was folgt:
 
 #### § 47
 
-**3. Inkassohilfe und Vorschüsse (ZGB 290, 131)**
+**Inkassohilfe und Vorschüsse (ZGB 290, 131)**
 
-<sup>1</sup> 1.
+<sup>1</sup> Erfüllt ein Elternteil die Unterhaltspflicht gegenüber dem minderjährigen oder volljährigen Kind nicht, so werden diesem auf Gesuch des andern Elternteils oder des volljährigen Kindes unentgeltlich Inkassohilfe und Vorschüsse gewährt, bis die Erstausbildung ordentlicherweise abgeschlossen werden kann, längstens aber bis zum zurückgelegten 25. Altersjahr. Voraussetzung ist, dass das Kind Wohnsitz im Kanton hat. Für die Gewährung von Vorschüssen ist zusätzlich erforderlich, dass es sich dauernd in der Schweiz aufhält.
 
-- 1 Kommt ein Elternteil seiner Unterhaltspflicht gegenüber seinem unmündigen oder seinem mündigen Kind nicht nach, so werden diesem auf Gesuch des obhutsberechtigten Elternteils oder des mündigen Kindes unentgeltlich Inkassohilfe und Vorschüsse gewährt, bis die Erstausbildung ordentlicherweise abgeschlossen werden kann, längstens aber bis zum zurückgelegten 25. Altersjahr. Voraussetzung ist, dass das Kind Wohnsitz im Kanton hat und es sich dauernd in der Schweiz aufhält.
-- 2 Vorschüsse werden auch gewährt, wenn die Höhe der Unterhaltsbeiträge noch nicht gerichtlich oder vertraglich festgesetzt ist und der unterhaltspflichtige Elternteil unbekannt abwesend ist oder wenn der unterhaltspflichtige Elternteil nach durchgeführtem Vaterschaftsprozess nicht festgestellt werden konnte, soweit eine entsprechende, vorsorgliche richterliche Verfügung vorliegt.
-- 3 Kommt ein geschiedener oder getrennt lebender Ehegatte seiner Unterhaltspflicht gegenüber dem anderen Ehegatten nicht nach, so wird diesem auf Gesuch unentgeltliche Inkassohilfe gewährt, wenn die unterhaltsberechtigte Person Wohnsitz im Kanton hat und sich dauernd in der Schweiz aufhält.
+- 1 …
+- 2 …
+- 3 …
 
-<sup>2</sup> 2.
+<sup>2</sup> Vorschüsse werden auch gewährt, wenn die Höhe der Unterhaltsbeiträge noch nicht gerichtlich oder vertraglich festgesetzt ist und der unterhaltspflichtige Elternteil unbekannt abwesend ist oder wenn der unterhaltspflichtige Elternteil nach durchgeführtem Vaterschaftsprozess nicht festgestellt werden konnte, soweit eine entsprechende, vorsorgliche richterliche Verfügung vorliegt.
 
-- 1 Die Bevorschussung erfolgt bis zu einem durch Verordnung festzusetzenden Höchstbetrag.
-- 2 Vorschüsse werden nur ausgerichtet, sofern Einkommen und Vermögen des unterhaltsberechtigten Kindes, des obhutberechtigten Elternteils oder eines Stiefelternteils die durch Verordnung festzulegenden Beträge nicht übersteigt.
-- 3 Die Vorschüsse werden unabhängig von der Einbringlichkeit der Forderung ausgerichtet.
+- 1 …
+- 2 …
+- 3 …
 
-<sup>3</sup> 3.
+<sup>2<sup>bis</sup></sup> Kein Anspruch auf Vorschüsse besteht, wenn der unterhaltspflichtige Elternteil mit dem anderen Elternteil und/oder mit dem unterhaltsberechtigten Kind im gleichen Haushalt wohnt.
 
-- 1 Inkassohilfe und Vorschüsse werden durch das vom Regierungsrat als zuständig bezeichnete Departement geleistet.
-- 2 Betreut oder unterstützt die Sozialhilfe die in der Einwohnergemeinde Riehen oder Bettingen wohnhafte Familie des unterhaltsberechtigten Kindes oder dieses selber, werden die Inkassohilfe und Vorschüsse durch die zuständige Gemeindebehörde geleistet. Der Regierungsrat kann jedoch auch in diesen Fällen die Zuständigkeit gemäss Abs. 1[^47-1] festlegen.
-- 3 Betreut oder unterstützt die Sozialhilfe die in der Stadt Basel wohnhafte Familie des unterhaltsberechtigten Kindes oder dieses selber, kann der Regierungsrat die Sozialhilfe für die Leistung der Inkassohilfe und Vorschüsse für zuständig erklären.
-- 4 Der Regierungsrat kann im Kanton tätige private oder öffentlich-rechtliche Organisationen ermächtigen, Inkassohilfe und Vorschüsse zu gewähren. Die ermächtigten Organisationen stehen unter der Aufsicht des zuständigen Departements. In Beschwerdefällen ist es erste Instanz.
+<sup>3</sup> Kommt ein geschiedener oder getrennt lebender Ehegatte oder eine in getrennter oder aufgelöster eingetragener Partnerschaft lebende Person seiner bzw. ihrer Unterhaltspflicht gegenüber dem anderen Ehegatten oder der anderen Partnerin bzw. dem anderen Partner nicht nach, so wird diesen auf Gesuch unentgeltliche Inkassohilfe gewährt, wenn die unterhaltsberechtigte Person Wohnsitz im Kanton hat.
 
-<sup>4</sup> 4. Für Unterhaltsbeiträge, die vor dem 1. Januar 1996 bis zur Mündigkeit festgelegt worden sind, können dem bisher obhutberechtigten Elternteil bis zur Vollendung des 20. Altersjahres des Mündigen weiterhin unentgeltliche Inkassohilfe und Vorschüsse gewährt werden, sofern der Mündige dem Elternteil eine entsprechende Vollmacht erteilt.
+- 1 …
+- 2 …
+- 3 …
+- 4 …
 
-<sup>5</sup> 5. Der Regierungsrat erlässt die erforderlichen Ausführungsbestimmungenauf dem Verordnungsweg.
+<sup>4</sup> …
 
-[^47-1]: Aufgrund der softwarebedingten, redaktionellen Einfügung von Gliederungsziffern oder -buchstaben: Jetzt Ziff.1.
+<sup>5</sup> …
+
+#### § 47a
+
+**Ausrichtung von Vorschüssen**
+
+<sup>1</sup> Die Bevorschussung erfolgt bis zu einem durch Verordnung festzusetzenden Höchstbetrag.
+
+<sup>2</sup> Vorschüsse werden nur ausgerichtet, sofern Einkommen und Vermögen des unterhaltsberechtigten Kindes, des obhutsberechtigten Elternteils oder eines Stiefelternteils die durch Verordnung festzulegenden Beträge nicht übersteigt.
+
+<sup>3</sup> Die Vorschüsse werden unabhängig von der Einbringlichkeit der Forderung ausgerichtet.
+
+#### § 47b
+
+**Zuständigkeiten**
+
+<sup>1</sup> Inkassohilfe und Vorschüsse werden durch das vom Regierungsrat als zuständig bezeichnete Departement geleistet.
+
+<sup>2</sup> Betreut oder unterstützt die Sozialhilfe die in der Einwohnergemeinde Riehen oder Bettingen wohnhafte unterhaltsberechtigte Person, werden die Inkassohilfe bzw. Vorschüsse durch die zuständige Gemeindebehörde geleistet. Der Regierungsrat kann jedoch auch in diesen Fällen die Zuständigkeit gemäss Abs. 1 festlegen.
+
+<sup>3</sup> Betreut oder unterstützt die Sozialhilfe die in der Stadt Basel wohnhafte unterhaltsberechtigte Person, kann der Regierungsrat die Sozialhilfe für die Leistung der Inkassohilfe bzw. Vorschüsse für zuständig erklären.
+
+<sup>4</sup> Der Regierungsrat kann im Kanton tätige private oder öffentlich-rechtliche Organisationen ermächtigen, Inkassohilfe und Vorschüsse zu gewähren. Die ermächtigten Organisationen stehen unter der Aufsicht des zuständigen Departements. In Beschwerdefällen ist es erste Instanz.
+
+#### § 47c
+
+**Ausführungsbestimmungen**
+
+<sup>1</sup> Der Regierungsrat erlässt die erforderlichen Ausführungsbestimmungen auf dem Verordnungsweg.
 
 #### § 48
 
@@ -1404,7 +1432,7 @@ beschlossen was folgt:
 
 <sup>2</sup> Wer eine verlorene Sache anderswo als in einem bewohnten Haus oder in einer dem öffentlichen Gebrauch oder Verkehr dienenden Anstalt findet (ZGB 720 Abs. 3), ist berechtigt und auf Anordnung der Polizeibehörde verpflichtet, den Fundgegenstand auf Kosten des Eigentümers beim Fundbüro des zuständigen Departements zu hinterlegen.
 
-<sup>3</sup>
+<sup>3</sup> …
 
 <sup>4</sup> Die Bewilligung zur Versteigerung von Fundgegenständen ist beim zuständigen Departementsvorsteher oder bei einer von diesem bezeichneten Verwaltungseinheit nachzusuchen.
 
