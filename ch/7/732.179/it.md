@@ -3,18 +3,18 @@ sr: "732.179"
 title: "Regolamento del DATEC del 27 gennaio 2016 sull'organizzazione, i principi e gli obiettivi degli investimenti patrimoniali, nonché le relative condizioni, del Fondo di disattivazione e del Fondo di smaltimento per gli impianti nucleari"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/81"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2016-01-27
 in_force: 2016-02-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/81/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2016-81-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/81/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/81/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-81-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/81/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Regolamento del DATEC sull’organizzazione, i principi e gli obiettivi degli investimenti patrimoniali, nonché le relative condizioni, del Fondo di disattivazione e del Fondo di smaltimento per gli impianti nucleari****
+# Regolamento del DATEC sull’organizzazione, i principi e gli obiettivi degli investimenti patrimoniali, nonché le relative condizioni, del Fondo di disattivazione e del Fondo di smaltimento per gli impianti nucleari
 
-del 27 gennaio 2016 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)[^t-1]
+del 27 gennaio 2016 (Stato 1° gennaio 2022)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del DATEC del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
 
@@ -24,7 +24,7 @@ visto l’articolo 29*a* capoverso 2 lettera a dell’ordinanza del 7 dicembre 2
 
 ordina:
 
-[^ingress-1]: [RS 732.17](https://fedlex.data.admin.ch/eli/cc/2008/64)
+[^ingress-1]: [RS 732.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8544)
 
 ## Sezione 1: Oggetto
 
@@ -32,7 +32,7 @@ ordina:
 
 Il presente regolamento stabilisce, a complemento di quanto previsto dalla legge federale del 21 marzo 2003[^1-1] sull’energia nucleare (LENu) e dall’OFDS, l’organizzazione e le modalità di lavoro dei Fondi e i principi e gli obiettivi degli investimenti patrimoniali, nonché le relative condizioni.
 
-[^1-1]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^1-1]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 
 ## Sezione 2: Organizzazione
 
@@ -62,11 +62,14 @@ Il presente regolamento stabilisce, a complemento di quanto previsto dalla legge
 
 **Diritto di proposta per la composizione della Commissione**
 
-<sup>1</sup> I membri indipendenti propongono, all’attenzione della Commissione, uno di loro per la carica di vicepresidente. L’Ufficio federale dell’energia (UFE), d’accordo con la presidenza, propone all’attenzione della Commissione gli altri membri indipendenti.
+<sup>1</sup> I membri indipendenti propongono, all’attenzione della Commissione, uno di loro per la carica di presidente e uno di loro per la carica di vicepresidente. L’Ufficio federale dell’energia (UFE), d’accordo con la presidenza, propone all’attenzione della Commissione gli altri membri indipendenti.[^4-1]
 
-<sup>2</sup> I rappresentanti dei proprietari propongono, all’attenzione della Commissione, uno di loro per la carica di presidente. I proprietari propongono, all’attenzione della Commissione, i loro ulteriori rappresentanti.
+<sup>2</sup> I rappresentanti dei proprietari propongono, all’attenzione della Commissione, uno di loro quale membro del comitato della Commissione secondo l’articolo 21 capoverso 2 lettera b OFDS. I proprietari propongono, all’attenzione della Commissione, i loro ulteriori rappresentanti.[^4-2]
 
 <sup>3</sup> La Commissione propone al DATEC, all’attenzione del Consiglio federale, i candidati alla presidenza, alla vicepresidenza e gli altri membri. Il Dipartimento federale delle finanze propone al Consiglio federale un collaboratore dell’Amministrazione federale delle finanze (AFF) come membro.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
+[^4-2]: Nuovo testo giusta il n. I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 5
 
@@ -111,28 +114,27 @@ Oltre a quelli elencati nell’articolo 23 OFDS, la Commissione svolge in partic
 [^5-2]: Abrogata dal n. I dell’O del DATEC del 6 nov. 2019, con effetto dal 1° gen. 2020 ([RU 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
 [^5-3]: Introdotto dal n. I dell’O del DATEC del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
 
+#### Art. 5a
+
+**Presidenza**[^5a-1]
+
+<sup>1</sup> Il presidente rappresenta il Fondo di disattivazione e il Fondo di smaltimento verso l’esterno.
+
+<sup>2</sup> In caso di impedimento, è sostituito dal vicepresidente.
+
+[^5a-1]: Introdotto dal n. I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
+
 #### Art. 6
 
-**Comitato della Commissione**
+**Comitato della Commissione**[^6-1]
 
-<sup>1</sup>
+<sup>1</sup> Il comitato della Commissione può invitare a partecipare alle sue sedute altri membri della Commissione per la trattazione di questioni specifiche.
 
-Il comitato della Commissione è formato:
+<sup>2</sup> Si riunisce almeno trimestralmente.
 
-- a. dal presidente della Commissione;
-- b. dal vicepresidente della Commissione; e
-- c. dai presidenti del comitato per gli investimenti e del comitato per il controllo dei costi;
-- d.[^6-1] ...
+<sup>3</sup> Può deliberare se è presente la maggioranza dei suoi membri. Le decisioni sono prese a maggioranza semplice dei membri presenti. Il presidente della Commissione vota e, in caso di parità, il suo voto prevale.
 
-<sup>2</sup> Il presidente della Commissione dirige il comitato.
-
-<sup>3</sup> Per la trattazione di questioni specifiche, possono essere chiamati a partecipare alle sedute del comitato altri membri della Commissione.
-
-<sup>4</sup> Il comitato della Commissione si riunisce almeno trimestralmente.
-
-<sup>5</sup> Il comitato della Commissione può deliberare se è presente la maggioranza dei suoi membri. Le decisioni sono prese a maggioranza semplice dei membri presenti. Il presidente vota e, in caso di parità, il suo voto prevale.
-
-[^6-1]: Abrogata dal n. I dell’O del DATEC del 6 nov. 2019, con effetto dal 1° gen. 2020 ([RU 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
+[^6-1]: Nuovo testo giusta il n. I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 7
 
@@ -149,32 +151,28 @@ Il comitato della Commissione svolge in particolare i seguenti compiti:
   - 2\. la proposta concernente la fissazione del tasso di occupazione dei membri della Commissione e dei comitati, all’attenzione del DATEC,
   - 3\. la proposta concernente la fissazione delle indennità per i membri indipendenti della Commissione e dei comitati, all’attenzione del DATEC;
 
+- b<sup>bis</sup>.[^7-1] decide in merito ad affari urgenti non affidati espressamente a un altro organo;
 - c. riferisce trimestralmente all’UFE, in particolare in merito agli affari correnti nonché all’evoluzione e allo stato del patrimonio;
 - d. è responsabile della comunicazione interna ed esterna;
 - e. informa la Commissione sulle proprie attività;
-- f.[^7-1] assume altri compiti affidatigli dalla Commissione.
+- f.[^7-2] assume altri compiti affidatigli dalla Commissione.
 
-[^7-1]: Introdotta dal n. I dell’O del DATEC del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
+[^7-1]: Introdotta dal n. I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
+[^7-2]: Introdotta dal n. I dell’O del DATEC del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
 
 #### Art. 8
 
-**Comitato per gli investimenti**
+**Comitato per gli investimenti**[^8-1]
 
-<sup>1</sup> Il comitato per gli investimenti comprende 8–12 membri. Un membro è inviato dall’AFF.
+<sup>1</sup> I membri del comitato per gli investimenti dispongono delle competenze specialistiche necessarie per lo svolgimento dei compiti del comitato stesso. Essi soddisfano il profilo dei requisiti stabilito dal DATEC.
 
-<sup>2</sup> Per la rappresentanza dei sessi e delle comunità linguistiche si applicano per analogia gli articoli 8*c* capoverso 1 e 8*c*<sup>bis</sup> capoverso 1 dell’ordinanza del 25 novembre 1998[^8-1] sull’organizzazione del Governo e dell’Amministrazione (OLOGA). È possibile derogare eccezionalmente a queste disposizioni per ragioni concernenti le qualifiche professionali.
+<sup>2</sup> Un membro del comitato per gli investimenti è inviato dall’AFF.
 
-<sup>3</sup> La presidenza del comitato per gli investimenti è esercitata da un membro indipendente della Commissione.
+<sup>3</sup> Il comitato per gli investimenti si riunisce almeno quattro volte l’anno.
 
-<sup>4</sup> I membri del comitato per gli investimenti dispongono delle competenze specialistiche necessarie per lo svolgimento dei compiti del comitato stesso. Essi soddisfano il profilo dei requisiti stabilito dal DATEC.
+<sup>4</sup> Per il quorum e le votazioni si applicano per analogia le disposizioni dell’articolo 25 OFDS.
 
-<sup>5</sup> Per le indennità versate agli specialisti consultati dal comitato per gli investimenti si applicano per analogia le disposizioni dell’articolo 21*c* capoversi 1 e 3 OFDS.
-
-<sup>6</sup> Il comitato per gli investimenti si riunisce almeno quattro volte l’anno.
-
-<sup>7</sup> Per il quorum e le votazioni si applicano per analogia le disposizioni dell’articolo 25 OFDS.
-
-[^8-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^8-1]: Nuovo testo giusta il n. I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 9
 
@@ -192,50 +190,45 @@ Il comitato per gli investimenti svolge in particolare i seguenti compiti:
 
 #### Art. 10
 
-**Comitato per il controllo dei costi**
+**Comitato per il controllo dei costi**[^10-1]
 
-<sup>1</sup> Il comitato per il controllo dei costi comprende 8–12 membri.
+<sup>1</sup> I membri del comitato per il controllo dei costi dispongono delle competenze specialistiche necessarie per lo svolgimento dei compiti del comitato stesso. Essi soddisfano il profilo dei requisiti stabilito dal DATEC.
 
-<sup>2</sup> Per la rappresentanza dei sessi e delle comunità linguistiche si applicano per analogia gli articoli 8*c* capoverso 1 e 8*c*<sup>bis</sup> capoverso 1 OLOGA[^10-1]. È possibile derogare eccezionalmente a queste disposizioni per ragioni concernenti le qualifiche professionali.
+<sup>2</sup> Il comitato per il controllo dei costi si riunisce quando necessario.
 
-<sup>3</sup> La presidenza del comitato per il controllo dei costi è esercitata da un membro indipendente della Commissione.
+<sup>3</sup> Per il quorum e le votazioni si applicano per analogia le disposizioni dell’articolo 25 OFDS.
 
-<sup>4</sup> I membri del comitato per il controllo dei costi dispongono delle competenze specialistiche necessarie per lo svolgimento dei compiti del comitato stesso. Essi soddisfano il profilo dei requisiti stabilito dal DATEC.
-
-<sup>5</sup> Per le indennità versate agli specialisti consultati dal comitato per il controllo dei costi si applicano per analogia le disposizioni dell’articolo 21*c* capoversi 1 e 3 OFDS.
-
-<sup>6</sup> Il comitato per il controllo dei costi si riunisce quando necessario.
-
-<sup>7</sup> Per il quorum e le votazioni si applicano per analogia le disposizioni dell’articolo 25 OFDS.
-
-[^10-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^10-1]: Nuovo testo giusta il n. I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 11
 
-**Compiti del comitato per il controllo dei costi**
+**Compiti del comitato per il controllo dei costi**[^11-1]
 
 Il comitato per il controllo dei costi svolge in particolare i seguenti compiti:
 
-- a. elabora, all’attenzione della Commissione, la proposta da presentare al DATEC in merito alle disposizioni per l’elaborazione dello studio sul prevedibile ammontare dei costi di disattivazione e di smaltimento (studio sui costi);
-- b. sorveglia l’elaborazione dello studio sui costi e ne coordina la verifica, su mandato della Commissione. A tale riguardo stila un rapporto d’esame;
-- c. prepara, all’attenzione della Commissione, la proposta da presentare al DATEC in merito alla fissazione del prevedibile ammontare dei costi di disattivazione e di smaltimento per ogni impianto nucleare;
-- d. sulla base del modello attuariale e conformemente agli articoli 8 e 8*a* OFDS, calcola, all’attenzione della Commissione, l’importo dei contributi annui che i proprietari sono tenuti a versare;
-- e. sulla base del modello attuariale, verifica il piano di accantonamento dei proprietari per i costi di smaltimento risultanti prima della messa fuori servizio definitiva di cui all’articolo 19 OFDS;
-- f. calcola, all’attenzione della Commissione, eventuali rimborsi;
-- g. assicura il controlling dei costi di disattivazione e di smaltimento risultanti e sorveglia il versamento delle risorse dei Fondi ai proprietari da parte dell’Ufficio;
-- h. informa la Commissione sulle proprie attività.
+- a. sorveglia l’elaborazione dello studio sul prevedibile ammontare dei costi di disattivazione e di smaltimento (studio sui costi) e ne coordina la verifica, su mandato della Commissione;
+- b. elabora, all’attenzione della Commissione, un rapporto di verifica sintetico in relazione allo studio sui costi e chiede la fissazione del prevedibile ammontare dei costi di disattivazione e di smaltimento per ogni impianto nucleare;
+- c. sulla base del modello attuariale e conformemente agli articoli 8 e 8*a* OFDS, calcola, all’attenzione della Commissione, l’importo dei contributi annui che i proprietari sono tenuti a versare;
+- d. sulla base del modello attuariale, verifica il piano di accantonamento dei proprietari per i costi di smaltimento risultanti dalla prima messa fuori servizio definitiva di cui all’articolo 19 OFDS;
+- e. calcola, all’attenzione della Commissione, eventuali rimborsi;
+- f. assicura il controlling dei costi di disattivazione e di smaltimento risultanti e sorveglia il versamento delle risorse dei Fondi ai proprietari da parte dell’Ufficio;
+- g. informa la Commissione sulle proprie attività.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 12
 
-**Gruppi specializzati e gruppi di lavoro**
+**Gruppi di specialisti e gruppi di lavoro**[^12-1]
 
-La presidenza dei gruppi specializzati e dei gruppi di lavoro è esercitata da un membro indipendente della Commissione.
+La presidenza dei gruppi di specialisti e dei gruppi di lavoro è esercitata da un membro indipendente della Commissione o di un comitato.
+
+[^12-1]: Nuovo testo giusta il n. I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 13
 
 **Ufficio**
 
-<sup>1</sup> Almeno un rappresentante dell’Ufficio partecipa alle sedute della Commissione e dei suoi comitati con voto consultivo.
+<sup>1</sup> Almeno un rappresentante dell’Ufficio partecipa alle sedute della Commissione, del comitato della Commissione e dei comitati con funzione consultiva.[^13-1]
 
 <sup>2</sup>
 
@@ -244,11 +237,12 @@ La direzione dell’Ufficio può essere affidata unicamente a un organo che:
 - a. dispone di esperienza pluriennale in questo ambito o in ambiti analoghi;
 - b. con i proprietari, l’industria elettrica e gli organi incaricati dell’amministrazione e della conservazione del patrimonio dei Fondi non intrattiene relazioni tali da poter far sorgere il sospetto di parzialità.
 
-<sup>3</sup> L’Ufficio dispone delle risorse di personale e delle conoscenze specialistiche necessarie per gestire in maniera efficiente gli affari dei due Fondi. In particolare, soddisfa i requisiti della legge del 10 ottobre 1997[^13-1] sul riciclaggio di denaro.
+<sup>3</sup> L’Ufficio dispone delle risorse di personale e delle conoscenze specialistiche necessarie per gestire in maniera efficiente gli affari dei due Fondi. In particolare, soddisfa i requisiti della legge del 10 ottobre 1997[^13-2] sul riciclaggio di denaro.
 
 <sup>4</sup> Per lo svolgimento dei compiti dell’Ufficio deve essere assicurata di volta in volta una supplenza.
 
-[^13-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^13-1]: Nuovo testo giusta il n. I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
+[^13-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 14
 
@@ -258,7 +252,9 @@ L’ufficio svolge in particolare i seguenti compiti:
 
 - a. sbriga gli affari correnti secondo le istruzioni del comitato della Commissione;
 - b. elabora annualmente il preventivo relativo ai costi amministrativi all’attenzione della Commissione;
-- c. verifica i calcoli del comitato per il controllo dei costi di cui all’articolo 11 lettera d.
+- c.[^14-1] verifica i calcoli del comitato per il controllo dei costi di cui all’articolo 11 lettera c.
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 15
 
@@ -286,17 +282,24 @@ La comunicazione deve avvenire in modo oggettivo, politicamente neutro e compren
 
 #### Art. 18
 
-**Riservatezza, conflitti d’interesse e ricusazione**
+**Riservatezza e conflitti d’interesse[^18-1]**
 
 <sup>1</sup> Tutte le persone coinvolte nella gestione patrimoniale sono soggette all’obbligo di riservatezza in relazione a tutte le informazioni di cui vengono a conoscenza nell’esercizio della propria attività.
 
 <sup>2</sup> Non devono accettare o conseguire vantaggi personali in relazione all’esercizio della propria attività per i Fondi. Sono esclusi vantaggi esigui conformi agli usi sociali. Sono da considerarsi esigui gli omaggi in natura con un valore di mercato massimo di 200 franchi.
 
-<sup>3</sup> In caso di conflitti d’interesse in relazione alla propria persona o ai propri datori di lavoro o mandanti, i membri indipendenti della Commissione, dei comitati e dei gruppi specializzati devono ricusarsi.
+<sup>3 e <sup>4</sup></sup> ...[^18-2]
 
-<sup>4</sup> In caso di conflitti d’interesse in occasione di controversie legali in cui sono coinvolti i proprietari rappresentati e il Fondo di disattivazione o il Fondo di smaltimento o in caso di conflitti d’interesse in relazione alla propria persona, i membri della Commissione, dei comitati e dei gruppi specializzati che rappresentano gli interessi dei proprietari devono ricusarsi.[^18-1]
+[^18-1]: Nuovo testo giusta il n. I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
+[^18-2]: Abrogati dal n. I dell’O del DATEC del 24 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del DATEC del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
+#### Art. 18a
+
+**Motivi di ricusazione per specialisti consultati**[^18a-1]
+
+Per gli specialisti consultati si applicano per analogia i motivi di ricusazione di cui all’art. 21*d* OFDS.
+
+[^18a-1]: Introdotto dal n. I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 19
 
@@ -307,12 +310,14 @@ La comunicazione deve avvenire in modo oggettivo, politicamente neutro e compren
 Nel quadro del preventivo approvato, le persone e gli organi elencati qui di seguito possono assumere impegni fino agli importi indicati:
 
 - a. l’Ufficio: fino a 20 000 franchi per affare;
-- b. il presidente del comitato per gli investimenti o del comitato per il controllo dei costi: fino a 50 000 franchi per affare;
+- b.[^19-1] il presidente del comitato per gli investimenti e del comitato per il controllo dei costi: fino a 50 000 franchi per affare;
 - c. il presidente: fino a 50 000 franchi per affare;
 - d. il comitato della Commissione: fino a 250 000 franchi per affare;
 - e. la Commissione: oltre 250 000 franchi.
 
 <sup>2</sup> Impegni per affari non iscritti a preventivo possono essere assunti solamente dalla Commissione.
+
+[^19-1]: Nuovo testo giusta il n. I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 20
 
@@ -375,8 +380,8 @@ Oltre alle restrizioni di cui all’articolo 16 OFDS devono essere rispettate le
   - 1\. avviene esclusivamente su base assicurata e, nel caso degli investimenti diretti, attraverso la banca depositaria in base a un contratto scritto,
   - 2\. nel caso di azioni di società anonime svizzere quotate in borsa, non compromette l’esercizio dei diritti degli azionisti.
 
-[^23-1]: [RS 951.311](https://fedlex.data.admin.ch/eli/cc/2006/859)
-[^23-2]: [RS 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^23-1]: [RS 951.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11534)
+[^23-2]: [RS 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 
 #### Art. 24
 

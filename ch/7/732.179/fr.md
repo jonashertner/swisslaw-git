@@ -3,18 +3,18 @@ sr: "732.179"
 title: "Règlement du DETEC du 27 janvier 2016 sur l'organisation, les principes et les buts du placement des avoirs ainsi que sur le cadre des placements du fonds de désaffectation et du fonds de gestion des déchets radioactifs pour les installations nucléaires"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/81"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2016-01-27
 in_force: 2016-02-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/81/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-81-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/81/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/81/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-81-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/81/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Règlement du DETEC sur l’organisation, les principes et les buts du placement des avoirs ainsi que sur le cadre des placements du fonds de désaffectation et du fonds de gestion des déchets radioactifs pour les installations nucléaires
 
-du 27 janvier 2016 (Etat le 1<sup>er</sup> janvier 2020)
+du 27 janvier 2016 (État le 1<sup>er</sup> janvier 2022)
 
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
 
@@ -22,7 +22,7 @@ vu l’art. 29*a*, al. 2, let. a, de l’ordonnance du 7 décembre 2007 sur le f
 
 arrête:
 
-[^ingress-1]: [RS 732.17](https://fedlex.data.admin.ch/eli/cc/2008/64)
+[^ingress-1]: [RS 732.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8544)
 
 ## Section 1 Objet
 
@@ -30,7 +30,7 @@ arrête:
 
 En complément de la loi du 21 mars 2003 sur l’énergie nucléaire (LENu)[^1-1] et de l’OFDG, le présent règlement fixe l’organisation et le fonctionnement des fonds, les principes et les buts du placement des avoirs ainsi que le cadre de ces placements.
 
-[^1-1]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^1-1]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 
 ## Section 2 Organisation
 
@@ -48,7 +48,7 @@ En complément de la loi du 21 mars 2003 sur l’énergie nucléaire (LENu)[^1-1
 
 <sup>1</sup> Les membres de la commission doivent offrir la garantie d’une activité irréprochable. Ils disposent des compétences spécifiques requises pour l’accomplissement de leurs tâches.
 
-<sup>2</sup> ...[^3-1]
+<sup>2</sup> …[^3-1]
 
 <sup>3</sup> Les membres de la commission qui représentent les propriétaires d’une installation nucléaire tenus de verser des contributions doivent être des membres de la direction de l’entreprise propriétaire ou des personnes directement subordonnées à la direction qui disposent d’une vue d’ensemble complète des affaires dudit propriétaire.
 
@@ -60,11 +60,14 @@ En complément de la loi du 21 mars 2003 sur l’énergie nucléaire (LENu)[^1-1
 
 **Droit de proposition concernant la composition de la commission**
 
-<sup>1</sup> Les membres indépendants proposent à la commission une personne issue de leurs rangs pour assumer la présidence. L’Office fédéral de l’énergie (OFEN) propose à la commission, après entente avec la présidence, les autres membres indépendants.
+<sup>1</sup> Les membres indépendants proposent à la commission deux personnes issues de leurs rangs, l’une pour assumer la présidence, l’autre pour assumer la vice-présidence. L’Office fédéral de l’énergie (OFEN) propose à la commission, après entente avec la présidence, les autres membres indépendants.[^4-1]
 
-<sup>2</sup> Les représentants des propriétaires proposent à la commission une personne issue de leurs rangs pour assumer la vice-présidence. Les propriétaires proposent à la commission les autres personnes chargées de les représenter.
+<sup>2</sup> Les représentants des propriétaires proposent à la commission une personne issue de leurs rangs pour siéger au comité de la commission conformément à l’art. 21, al. 2, let. b, OFDG. Les propriétaires proposent à la commission les autres personnes chargées de les représenter.[^4-2]
 
 <sup>3</sup> La commission propose au DETEC, à l’attention du Conseil fédéral, les candidats à la présidence et à la vice-présidence ainsi que les autres candidats à un siège à la commission. Le Département fédéral des finances propose au Conseil fédéral un collaborateur de l’Administration fédérale des finances (AFF) en tant que membre.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 5
 
@@ -109,28 +112,27 @@ En plus des tâches mentionnées à l’art. 23 OFDG, la commission assume notam
 [^5-2]: Abrogée par le ch. I de l’O du DETEC du 6 nov. 2019, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
 [^5-3]: Introduit par le ch. I de l’O du DETEC du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
 
+#### Art. 5a
+
+**Présidence**[^5a-1]
+
+<sup>1</sup> Le président représente le fonds de désaffectation et le fonds de gestion vis-à-vis de l’extérieur.
+
+<sup>2</sup> En cas d’empêchement, il se fait représenter par le vice-président.
+
+[^5a-1]: Introduit par le ch. I de l’O du DETEC du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
+
 #### Art. 6
 
-**Comité de la commission**
+**Comité de la commission**[^6-1]
 
-<sup>1</sup>
+<sup>1</sup> Le comité de la commission peut inviter d’autres membres de la commission à ses séances en vue du traitement de questions spécifiques.
 
-Le comité de la commission se compose:
+<sup>2</sup> Il siège au moins tous les trois mois.
 
-- a. du président de la commission;
-- b. du vice-président de la commission;
-- c. des présidents du comité de placements et du comité en charge des coûts;
-- d.[^6-1] ...
+<sup>3</sup> Il atteint le quorum lorsque la majorité de ses membres sont présents. Les décisions sont prises à la majorité simple des membres présents. Le président de la commission prend part au vote; en cas d’égalité des voix, sa voix est prépondérante.
 
-<sup>2</sup> Le président de la commission dirige le comité.
-
-<sup>3</sup> D’autres membres de la commission peuvent être invités aux séances du comité en vue du traitement de questions spécifiques.
-
-<sup>4</sup> Le comité de la commission siège au moins tous les trois mois.
-
-<sup>5</sup> Le comité de la commission atteint le quorum lorsque la majorité de ses membres est présente. Les décisions sont prises à la majorité simple des membres présents. Le président prend part au vote; en cas d’égalité des voix, celle du président est prépondérante.
-
-[^6-1]: Abrogée par le ch. I de l’O du DETEC du 6 nov. 2019, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 7
 
@@ -147,32 +149,28 @@ Le comité de la commission assume notamment les tâches suivantes:
   - 2\. la proposition à l’attention du DETEC concernant la fixation du degré d’occupation des membres de la commission et des comités,
   - 3\. la proposition à l’attention du DETEC concernant les rétributions des membres indépendants de la commission et des comités;
 
+- b<sup>bis</sup>.[^7-1] il décide des affaires urgentes qui n’ont pas été confiées expressément à un autre organe;
 - c. il remet un rapport trimestriel à l’OFEN, notamment concernant les affaires courantes ainsi que l’évolution et l’état de la fortune;
 - d. il est responsable de la communication interne et externe;
 - e. il informe la commission de ses activités;
-- f.[^7-1] il exécute d’autres tâches, que la commission lui confie.
+- f.[^7-2] il exécute d’autres tâches, que la commission lui confie.
 
-[^7-1]: Introduite par le ch. I de l’O du DETEC du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
+[^7-1]: Introduite par le ch. I de l’O du DETEC du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
+[^7-2]: Introduite par le ch. I de l’O du DETEC du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
 
 #### Art. 8
 
-**Comité de placements**
+**Comité de placements**[^8-1]
 
-<sup>1</sup> Le comité de placements comprend 8 à 12 membres. Un membre est nommé par l’AFF.
+<sup>1</sup> Les membres du comité de placements disposent des compétences requises pour assumer les tâches de leur comité. Ils satisfont au profil de compétences établi par le DETEC.
 
-<sup>2</sup> Pour la représentation des sexes et des communautés linguistiques, les art. 8*c*, al. 1, et 8*c*<sup>bis</sup>, al. 1, OLOGA[^8-1] s’appliquent par analogie. À titre exceptionnel, il peut être dérogé à ces exigences pour des raisons de qualification.
+<sup>2</sup> Un membre du comité de placements est issu de l’AFF.
 
-<sup>3</sup> Un membre indépendant de la commission assume la présidence du comité de placements.
+<sup>3</sup> Le comité de placements siège au moins quatre fois par an.
 
-<sup>4</sup> Les membres du comité de placements disposent des compétences spécifiques requises pour assumer les tâches du comité de placements. Ils satisfont au profil de compétence établi par le DETEC.
+<sup>4</sup> L’art. 25 OFDG s’applique par analogie au quorum et au vote.
 
-<sup>5</sup> La rétribution des membres du comité de placements se fonde par analogie sur l’art. 21*c*, al. 1 et 3, OFDG.
-
-<sup>6</sup> Le comité de placements siège au moins quatre fois par an.
-
-<sup>7</sup> L’art. 25 OFDG s’applique par analogie en ce qui concerne le quorum et le vote.
-
-[^8-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 9
 
@@ -190,38 +188,31 @@ Le comité de placements assume notamment les tâches suivantes:
 
 #### Art. 10
 
-**Comité en charge des coûts**
+**Comité en charge des coûts**[^10-1]
 
-<sup>1</sup> Le comité en charge des coûts comprend 8 à 12 membres.
+<sup>1</sup> Les membres du comité en charge des coûts disposent des compétences requises pour assumer les tâches de leur comité. Ils satisfont au profil de compétences établi par le DETEC.
 
-<sup>2</sup> Pour la représentation des sexes et des communautés linguistiques, les art. 8*c*, al. 1, et 8*c*<sup>bis</sup>, al. 1, OLOGA[^10-1] s’appliquent par analogie. À titre exceptionnel, il peut être dérogé à ces exigences pour des raisons de qualification.
+<sup>2</sup> Le comité en charge des coûts se réunit en fonction des besoins.
 
-<sup>3</sup> Un membre indépendant de la commission assume la présidence du comité en charge des coûts.
+<sup>3</sup> L’art. 25 OFDG s’applique par analogie au quorum et au vote.
 
-<sup>4</sup> Les membres du comité en charge des coûts disposent des compétences spécifiques requises pour assumer les tâches du comité en charge des coûts. Ils satisfont au profil de compétence établi par le DETEC.
-
-<sup>5</sup> La rétribution des membres du comité en charge des coûts se fonde par analogie sur l’art. 21*c*, al. 1 et 3, OFDG.
-
-<sup>6</sup> Le comité en charge des coûts se réunit en fonction des besoins.
-
-<sup>7</sup> L’art. 25 OFDG s’applique par analogie en ce qui concerne le quorum et le vote.
-
-[^10-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 11
 
-**Tâches du comité en charge des coûts**
+**Tâches du comité en charge des coûts**[^11-1]
 
 Le comité en charge des coûts assume notamment les tâches suivantes:
 
-- a. il élabore à l’attention de la commission la proposition au DETEC concernant les exigences pour l’étude sur le montant prévisible des coûts de désaffectation et de gestion des déchets de chaque installation nucléaire (étude de coûts);
-- b. il surveille l’élaboration de l’étude de coûts et coordonne son contrôle sur mandat de la commission. Il établit à cet effet un rapport de contrôle;
-- c. il prépare à l’attention de la commission la proposition au DETEC pour la fixation du montant prévisible des coûts de désaffectation et de gestion des déchets de chaque installation nucléaire;
-- d. sur la base du modèle actuariel, il calcule à l’attention de la commission le montant des contributions annuelles dues par les propriétaires d’installations nucléaires conformément aux art. 8 et 8*a* OFDG;
-- e. sur la base du modèle actuariel, il vérifie le plan de constitution des provisions des propriétaires pour les coûts de gestion des déchets précédant la mise hors service définitive des centrales nucléaires conformément à l’art. 19 OFDG;
-- f. il calcule à l’attention de la commission d’éventuels remboursements;
-- g. il assure le controlling des coûts de désaffectation et de gestion des déchets encourus et surveille le paiement par le bureau des moyens des fonds aux propriétaires;
-- h. il informe la commission de ses activités.
+- a. il surveille l’élaboration de l’étude sur le montant prévisible des coûts de désaffectation et de gestion des déchets (étude de coûts) et coordonne son contrôle sur mandat de la commission;
+- b. il établit à l’attention de la commission un rapport de contrôle récapitulatif concernant l’étude de coûts, dans lequel il lui demande de fixer le montant prévisible des coûts de désaffectation et de gestion des déchets de chaque installation nucléaire;
+- c. sur la base du modèle actuariel, il calcule à l’attention de la commission le montant des contributions annuelles dues par les propriétaires d’installations nucléaires conformément aux art. 8 et 8*a* OFDG;
+- d. sur la base du modèle actuariel, il vérifie le plan de constitution des provisions des propriétaires pour les coûts de gestion des déchets précédant la mise hors service définitive des centrales nucléaires conformément à l’art. 19 OFDG;
+- e. il calcule à l’attention de la commission d’éventuels remboursements;
+- f. il assure le controlling des coûts causés par la désaffectation et par la gestion des déchets et surveille le paiement par le bureau des moyens des fonds aux propriétaires;
+- g. il informe la commission de ses activités.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 12
 
@@ -233,7 +224,7 @@ La présidence des groupes d’experts et des groupes de travail est assurée pa
 
 **Bureau**
 
-<sup>1</sup> Au moins un représentant du bureau prend part aux séances de la commission et de ses comités avec voix consultative.
+<sup>1</sup> Au moins un représentant du bureau prend part aux séances de la commission, du comité de la commission et des comités avec voix consultative.[^13-1]
 
 <sup>2</sup>
 
@@ -242,11 +233,12 @@ La gestion du bureau ne peut être assurée que par un organe:
 - a. disposant de plusieurs années d’expérience dans ce domaine d’activités ou dans un domaine comparable;
 - b. n’ayant avec les propriétaires d’installations nucléaires, l’économie de l’électricité et les services chargés de l’administration et de la préservation de la fortune des fonds aucun lien qui puisse sembler impliquer un parti pris.
 
-<sup>3</sup> Le bureau dispose des ressources humaines et techniques requises pour pouvoir traiter efficacement les affaires des deux fonds. Il satisfait notamment aux conditions visées dans la loi du 10 octobre 1997 sur le blanchiment d’argent[^13-1].
+<sup>3</sup> Le bureau dispose des ressources humaines et techniques requises pour pouvoir traiter efficacement les affaires des deux fonds. Il satisfait notamment aux conditions visées dans la loi du 10 octobre 1997 sur le blanchiment d’argent[^13-2].
 
 <sup>4</sup> Une suppléance est assurée pour l’exécution des tâches du bureau.
 
-[^13-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
+[^13-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 14
 
@@ -256,7 +248,9 @@ Le bureau assume notamment les tâches suivantes:
 
 - a. il s’occupe des affaires courantes conformément aux directives du comité de la commission;
 - b. il établit chaque année le budget des coûts administratifs à l’attention de la commission;
-- c. il vérifie les calculs du comité en charge des coûts visés à l’art. 11, let. d.
+- c.[^14-1] il vérifie les calculs du comité en charge des coûts visés à l’art. 11, let. c.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 15
 
@@ -284,17 +278,24 @@ La communication doit être objective, politiquement neutre, claire et transpare
 
 #### Art. 18
 
-**Confidentialité, conflits d’intérêts et récusation**
+**Confidentialité et conflits d’intérêts[^18-1]**
 
 <sup>1</sup> Toutes les personnes et institutions impliquées dans la gestion de fortune sont soumises à un devoir de discrétion concernant toutes les informations dont elles ont connaissance dans l’exercice de leur activité.
 
 <sup>2</sup> Elles ne peuvent pas accepter ou obtenir des avantages personnels en rapport avec l’exercice de leur activité concernant les fonds. Les avantages de faible importance, conformes aux usages sociaux, ne sont pas concernés par cette disposition. Les cadeaux en nature d’une valeur marchande ne dépassant pas 200 francs sont considérés comme étant de faible importance.
 
-<sup>3</sup> Les membres indépendants de la commission, des comités et des groupes d’experts doivent se récuser en cas de conflits d’intérêts en relation avec leur personne, leur travail ou leurs mandataires.
+<sup>3 et <sup>4</sup></sup> …[^18-2]
 
-<sup>4</sup> Les membres de la commission, des comités et des groupes d’experts représentant les intérêts des propriétaires doivent se récuser en cas de conflits d’intérêts lors de litiges impliquant les propriétaires représentés et le fonds de désaffectation ou de gestion, ou en cas de conflits d’intérêts en relation avec leur personne.[^18-1]
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
+[^18-2]: Abrogés par le ch. I de l’O du DETEC du 24 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
-[^18-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
+#### Art. 18a
+
+**Motifs de récusation des spécialistes auxquels il est fait appel**[^18a-1]
+
+L’art. 21*d* OFDG s’applique par analogie aux motifs de récusation des spécialistes auxquels il est fait appel.
+
+[^18a-1]: Introduit par le ch. I de l’O du DETEC du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 19
 
@@ -373,8 +374,8 @@ En plus des restrictions visées à l’art. 16 OFDG, il faut tenir compte des r
   - 1\. s’il s’effectue exclusivement avec des garanties et, dans le cas des placements directs, et s’il est effectué par la banque dépositaire sur la base d’un contrat écrit,
   - 2\. si, s’agissant des actions de sociétés anonymes suisses cotées, il ne compromet pas l’exercice des droits des actionnaires.
 
-[^23-1]: [RS 951.311](https://fedlex.data.admin.ch/eli/cc/2006/859)
-[^23-2]: [RS 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^23-1]: [RS 951.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11534)
+[^23-2]: [RS 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 
 #### Art. 24
 

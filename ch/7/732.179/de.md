@@ -3,18 +3,18 @@ sr: "732.179"
 title: "Reglement des UVEK vom 27. Januar 2016 über die Organisation, die Grundsätze und Ziele der Vermögensanlage sowie über den Anlagerahmen des Stilllegungsfonds und des Entsorgungsfonds für Kernanlagen"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/81"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2016-01-27
 in_force: 2016-02-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/81/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2016-81-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/81/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/81/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-81-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/81/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Reglement des UVEK über die Organisation, die Grundsätze und Ziele der Vermögensanlage sowie über den Anlagerahmen des Stilllegungsfonds und des Entsorgungsfonds für Kernanlagen
 
-vom 27. Januar 2016 (Stand am 1. Januar 2020)
+vom 27. Januar 2016 (Stand am 1. Januar 2022)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 29*a* Absatz 2 Buchstabe a der Stilllegungs- und Entsorgun
 
 verordnet:
 
-[^ingress-1]: [SR 732.17](https://fedlex.data.admin.ch/eli/cc/2008/64)
+[^ingress-1]: [SR 732.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8544)
 
 ## 1. Abschnitt: Gegenstand
 
@@ -30,7 +30,7 @@ verordnet:
 
 Dieses Reglement legt ergänzend zum Kernenergiegesetz vom 21. März 2003[^1-1] (KEG) und zur SEFV die Organisation und die Arbeitsweise der Fonds, die Grundsätze und Ziele der Vermögensanlage sowie den Anlagerahmen fest.
 
-[^1-1]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^1-1]: [SR 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 
 ## 2. Abschnitt: Organisation
 
@@ -60,11 +60,14 @@ Dieses Reglement legt ergänzend zum Kernenergiegesetz vom 21. März 2003[^1-1] 
 
 **Vorschlagsrecht für die Zusammensetzung der Kommission**
 
-<sup>1</sup> Die unabhängigen Mitglieder schlagen zuhanden der Kommission eine Person aus ihrer Mitte als Präsidentin oder Präsidenten vor. Das Bundesamt für Energie (BFE) schlägt in Absprache mit dem Präsidium zuhanden der Kommission die weiteren unabhängigen Mitglieder vor.
+<sup>1</sup> Die unabhängigen Mitglieder schlagen zuhanden der Kommission eine Person aus ihrer Mitte als Präsidentin oder Präsidenten und eine Person aus ihrer Mitte als Vizepräsidentin oder Vizepräsidenten vor. Das Bundesamt für Energie (BFE) schlägt in Absprache mit dem Präsidium zuhanden der Kommission die weiteren unabhängigen Mitglieder vor.[^4-1]
 
-<sup>2</sup> Die Vertreterinnen und Vertreter der Eigentümer schlagen zuhanden der Kommission eine Person aus ihrer Mitte als Vizepräsidentin oder Vizepräsidenten vor. Die Eigentümer schlagen zuhanden der Kommission ihre weiteren Vertreterinnen und Vertreter vor.
+<sup>2</sup> Die Vertreterinnen und Vertreter der Eigentümer schlagen zuhanden der Kommission eine Person aus ihrer Mitte als Mitglied des Kommissionsausschusses nach Artikel 21 Absatz 2 Buchstabe b SEFV vor. Die Eigentümer schlagen zuhanden der Kommission ihre weiteren Vertreterinnen und Vertreter vor.[^4-2]
 
 <sup>3</sup> Die Kommission schlägt dem UVEK zuhanden des Bundesrates die Kandidatinnen und Kandidaten für das Präsidium, das Vizepräsidium und die weiteren Mitglieder vor. Das Eidgenössische Finanzdepartement schlägt dem Bundesrat eine Mitarbeiterin oder einen Mitarbeiter der Eidgenössischen Finanzverwaltung (EFV) als Mitglied vor.
+
+[^4-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
+[^4-2]: Fassung gemäss Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 5
 
@@ -74,14 +77,14 @@ Dieses Reglement legt ergänzend zum Kernenergiegesetz vom 21. März 2003[^1-1] 
 
 Die Kommission hat neben den in Artikel 23 SEFV genannten Aufgaben insbesondere folgende Aufgaben:
 
-- a. Sie legt das Verfahren zur Auswahl der Mitglieder des Anlage- und Kostenausschusses fest.
-- b.
+- a.[^5-1] Sie legt das Verfahren zur Auswahl der Mitglieder des Anlage- und des Kostenkomitees fest.
+- b.[^5-2]
 
   Sie schlägt dem UVEK Folgendes vor:
 
-  - 1\. das Anforderungsprofil für die Mitglieder der Kommission, die Vorsitzenden des Anlage- und Kostenausschusses sowie für deren Mitglieder;
-  - 2\. den Beschäftigungsgrad der Mitglieder der Kommission und der Ausschüsse;
-  - 3 die Höhe der Entschädigung für die unabhängigen Mitglieder der Kommission und der Ausschüsse, soweit sie dies als erforderlich erachtet.
+  - 1\. das Anforderungsprofil für die Mitglieder der Kommission, die Vorsitzenden des Anlage- und des Kostenkomitees sowie für deren Mitglieder;
+  - 2\. den Beschäftigungsgrad der Mitglieder der Kommission und der Komitees;
+  - 3\. die Höhe der Entschädigung für die unabhängigen Mitglieder der Kommission und der Komitees, soweit sie dies als erforderlich erachtet.
 
 - c. Sie legt die Entschädigung der beigezogenen Fachleute fest.
 - d.
@@ -91,46 +94,48 @@ Die Kommission hat neben den in Artikel 23 SEFV genannten Aufgaben insbesondere 
   - 1\. die Richtlinie über die Ausübung der Aktionärsstimmrechte der Fonds an der Generalversammlung von Aktiengesellschaften;
   - 2\. die Richtlinie über die Spesenentschädigung.
 
-- e. Sie genehmigt die Anlagestrategie auf Vorschlag des Anlageausschusses.
+- e.[^5-3] Sie genehmigt die Anlagestrategie auf Vorschlag des Anlagekomitees.
 - f. Sie überprüft die Einhaltung der Anlagerichtlinien, der Anlagegrundsätze sowie der Anlagebeschränkungen.
-- g.[^5-1] …
+- g.[^5-4] …
 - h. Sie erstattet dem BFE jährlich Bericht über das Risikomanagement.
 - i. Sie schlägt dem UVEK zuhanden des Bundesrates eine erfahrene, bei der Eidgenössischen Revisionsaufsichtsbehörde registrierte Revisionsgesellschaft zur Wahl vor.
 - j. Sie bestimmt die für das Investmentcontrolling zuständige Stelle und legt das Überwachungs- und Berichterstattungskonzept für das Investmentcontrolling fest.
 - k. Sie genehmigt das Jahresbudget für die Verwaltungskosten der Fonds.
 - l. Sie legt die Zahlungstermine der jährlich zu leistenden Beitragsraten fest.
-- m.[^5-2] …
+- m.[^5-5] …
 - n. Sie schliesst die Verträge für die beiden Fonds ab; vorbehalten bleiben die Ausgabenkompetenzen gemäss Artikel 19 Absatz 1.
 - o. Sie legt die Grundsätze für die Information der Öffentlichkeit fest.
 
-<sup>2</sup> Sie kann weitere Aufgaben, die weder in Artikel 23 SEFV noch in Absatz 1 genannt werden, an den Kommissionsausschuss übertragen.*[^5-3]*
+<sup>2</sup> Sie kann weitere Aufgaben, die weder in Artikel 23 SEFV noch in Absatz 1 genannt werden, an den Kommissionsausschuss übertragen.[^5-6]
 
-[^5-1]: Aufgehoben durch Ziff. I der V des UVEK vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
-[^5-2]: Aufgehoben durch Ziff. I der V des UVEK vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
-[^5-3]: Eingefügt durch Ziff. I der V des UVEK vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
+[^5-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
+[^5-2]: Fassung gemäss Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
+[^5-3]: Fassung gemäss Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
+[^5-4]: Aufgehoben durch Ziff. I der V des UVEK vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
+[^5-5]: Aufgehoben durch Ziff. I der V des UVEK vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
+[^5-6]: Eingefügt durch Ziff. I der V des UVEK vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
+
+#### Art. 5a
+
+**Präsidium**[^5a-1]
+
+<sup>1</sup> Die Präsidentin oder der Präsident vertritt den Stilllegungs- und den Entsorgungsfonds nach aussen.
+
+<sup>2</sup> Sie oder er wird bei Verhinderung durch die Vizepräsidentin oder den Vizepräsidenten vertreten.
+
+[^5a-1]: Eingefügt durch Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 6
 
-**Kommissionsausschuss**
+**Kommissionsausschuss**[^6-1]
 
-<sup>1</sup>
+<sup>1</sup> Der Kommissionsausschuss kann für die Behandlung von Sachfragen weitere Kommissionsmitglieder zu seinen Sitzungen beiziehen.
 
-Der Kommissionsausschuss setzt sich zusammen aus:
+<sup>2</sup> Er tagt mindestens vierteljährlich.
 
-- a. der Präsidentin oder dem Präsidenten der Kommission;
-- b. der Vizepräsidentin oder dem Vizepräsidenten der Kommission;
-- c. den Vorsitzenden des Anlage- und des Kostenausschusses; und
-- d.[^6-1] …
+<sup>3</sup> Er ist beschlussfähig, wenn die Mehrheit seiner Mitglieder anwesend ist. Die Beschlüsse werden mit dem einfachen Mehr der Anwesenden gefasst. Die Präsidentin oder der Präsident der Kommission stimmt mit und hat bei Stimmengleichheit den Stichentscheid.
 
-<sup>2</sup> Die Präsidentin oder der Präsident der Kommission leitet den Ausschuss.
-
-<sup>3</sup> Für die Behandlung von Sachfragen können weitere Kommissionsmitglieder zu den Sitzungen des Ausschusses beigezogen werden.
-
-<sup>4</sup> Der Kommissionsausschuss tagt mindestens vierteljährlich.
-
-<sup>5</sup> Der Kommissionsausschuss ist beschlussfähig, wenn die Mehrheit seiner Mitglieder anwesend ist. Die Beschlüsse werden mit dem einfachen Mehr der Anwesenden gefasst. Die Präsidentin oder der Präsident stimmt mit und hat bei Stimmengleichheit den Stichentscheid.
-
-[^6-1]: Aufgehoben durch Ziff. I der V des UVEK vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
+[^6-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 7
 
@@ -139,101 +144,95 @@ Der Kommissionsausschuss setzt sich zusammen aus:
 Der Kommissionsausschuss hat insbesondere folgende Aufgaben:
 
 - a. Er führt die laufenden Geschäfte im Auftrag der Kommission.
-- b.
+- b.[^7-1]
 
   Er bereitet ihre Beschlüsse vor, insbesondere:
 
-  - 1\. die Wahlvorschläge für die Mitglieder der Kommission, des Anlage- und des Kostenausschusses;
-  - 2\. den Vorschlag für die Festsetzung des Beschäftigungsgrads der Mitglieder der Kommission und der Ausschüsse zuhanden des UVEK;
-  - 3\. den Vorschlag für die Entschädigungen der unabhängigen Mitglieder der Kommission und der Ausschüsse zuhanden des UVEK.
+  - 1\. die Wahlvorschläge für die Mitglieder der Kommission, des Anlage- und des Kostenkomitees;
+  - 2\. den Vorschlag für die Festsetzung des Beschäftigungsgrads der Mitglieder der Kommission und der Komitees zuhanden des UVEK;
+  - 3\. den Vorschlag für die Entschädigungen der unabhängigen Mitglieder der Kommission und der Komitees zuhanden des UVEK.
 
+- b<sup>bis</sup>.[^7-2] Er entscheidet über dringende Geschäfte, die nicht ausdrücklich einem anderen Organ übertragen wurden.
 - c. Er erstattet dem BFE quartalsweise Bericht, insbesondere über die laufenden Geschäfte sowie über Entwicklung und Stand der Vermögen.
 - d. Er ist für die interne und externe Kommunikation verantwortlich.
 - e. Er orientiert die Kommission über seine Tätigkeit.
-- f.[^7-1] Er übernimmt weitere Aufgaben, die ihm von der Kommission übertragen werden.
+- f.[^7-3] Er übernimmt weitere Aufgaben, die ihm von der Kommission übertragen werden.
 
-[^7-1]: Eingefügt durch Ziff. I der V des UVEK vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
+[^7-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
+[^7-2]: Eingefügt durch Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
+[^7-3]: Eingefügt durch Ziff. I der V des UVEK vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
 
 #### Art. 8
 
-**Anlageausschuss**
+**Anlagekomitee**[^8-1]
 
-<sup>1</sup> Der Anlageausschuss umfasst 8–12 Mitglieder. Ein Mitglied wird von der EFV gestellt.
+<sup>1</sup> Die Mitglieder des Anlagekomitees verfügen über die für die Erfüllung der Aufgaben des Anlagekomitees erforderlichen Fachkompetenzen. Sie entsprechen dem vom UVEK erstellten Anforderungsprofil.
 
-<sup>2</sup> Für die Vertretung der Geschlechter und der Sprachregionen gelten die Artikel 8*c* Absatz 1 und 8*c*<sup>bis</sup> Absatz 1 RVOV[^8-1] sinngemäss. Von diesen Vorgaben kann aus Gründen der Qualifikation ausnahmsweise abgewichen werden.
+<sup>2</sup> Ein Mitglied des Anlagekomitees wird von der EFV gestellt.
 
-<sup>3</sup> Den Vorsitz des Anlageausschusses führt ein unabhängiges Kommissionsmitglied.
+<sup>3</sup> Das Anlagekomitee tagt mindestens viermal jährlich.
 
-<sup>4</sup> Die Mitglieder des Anlageausschusses verfügen über die für die Erfüllung der Aufgaben des Anlageausschusses erforderlichen Fachkompetenzen. Sie entsprechen dem vom UVEK erstellten Anforderungsprofil.
+<sup>4</sup> Für die Beschlussfähigkeit und die Abstimmungen gilt Artikel 25 SEFV sinngemäss.
 
-<sup>5</sup> Die Entschädigung der Mitglieder des Anlageausschusses richtet sich sinngemäss nach Artikel 21*c* Absätze 1 und 3 SEFV.
-
-<sup>6</sup> Der Anlageausschuss tagt mindestens viermal jährlich.
-
-<sup>7</sup> Für die Beschlussfähigkeit und die Abstimmungen gilt Artikel 25 SEFV sinngemäss.
-
-[^8-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^8-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 9
 
-**Aufgaben des Anlageausschusses**
+**Aufgaben des Anlagekomitees**[^9-1]
 
-Der Anlageausschuss hat insbesondere folgende Aufgaben:
+Das Anlagekomitee hat insbesondere folgende Aufgaben:
 
-- a. Er steuert, koordiniert und überwacht die Vermögensbewirtschaftung.
-- b. Er erarbeitet zuhanden der Kommission die Anlagestrategie und ist für deren Umsetzung verantwortlich. Die Anlagestrategie umfasst die Verteilung der Fondsmittel auf die verschiedenen Anlagekategorien. Die Anlagestrategie wird für jeden Beitragspflichtigen individuell oder für alle Beitragspflichtigen einheitlich festgelegt. Sie berücksichtigt die Risikofähigkeit der Betreiber.
-- c. Er legt den Anlageprozess fest.
-- d. Er überwacht in Abstimmung mit der für das Investmentcontrolling zuständigen Stelle die Tätigkeit der Vermögensverwalterinnen sowie die Einhaltung der Anlagerichtlinien, der Anlagegrundsätze und der Anlagebeschränkungen.
-- e. Er überwacht und beurteilt periodisch die Anlagerisiken der Fonds.
-- f. Er beaufsichtigt die von ihm beigezogenen Fachleute sowie die der Geschäftsstelle in Auftrag gegebenen Arbeiten.
-- g. Er orientiert die Kommission über seine Tätigkeiten sowie über die Umsetzung der Anlagerichtlinien.
+- a. Es steuert, koordiniert und überwacht die Vermögensbewirtschaftung.
+- b. Es erarbeitet zuhanden der Kommission die Anlagestrategie und ist für deren Umsetzung verantwortlich. Die Anlagestrategie umfasst die Verteilung der Fondsmittel auf die verschiedenen Anlagekategorien. Die Anlagestrategie wird für jeden Beitragspflichtigen individuell oder für alle Beitragspflichtigen einheitlich festgelegt. Sie berücksichtigt die Risikofähigkeit der Betreiber.
+- c. Es legt den Anlageprozess fest.
+- d. Es überwacht in Abstimmung mit der für das Investmentcontrolling zuständigen Stelle die Tätigkeit der Vermögensverwalterinnen sowie die Einhaltung der Anlagerichtlinien, der Anlagegrundsätze und der Anlagebeschränkungen.
+- e. Es überwacht und beurteilt periodisch die Anlagerisiken der Fonds.
+- f. Es beaufsichtigt die von ihm beigezogenen Fachleute sowie die der Geschäftsstelle in Auftrag gegebenen Arbeiten.
+- g. Es orientiert die Kommission über seine Tätigkeiten sowie über die Umsetzung der Anlagerichtlinien.
+
+[^9-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 10
 
-**Kostenausschuss**
+**Kostenkomitee**[^10-1]
 
-<sup>1</sup> Der Kostenausschuss umfasst 8–12 Mitglieder.
+<sup>1</sup> Die Mitglieder des Kostenkomitees verfügen über die für die Erfüllung der Aufgaben des Kostenkomitees erforderlichen Fachkompetenzen. Sie entsprechen dem vom UVEK erstellten Anforderungsprofil.
 
-<sup>2</sup> Für die Vertretung der Geschlechter und der Sprachregionen gelten die Artikel 8*c* Absatz 1 und 8*c*<sup>bis</sup> Absatz 1 RVOV[^10-1] sinngemäss. Von diesen Vorgaben kann aus Gründen der Qualifikation ausnahmsweise abgewichen werden.
+<sup>2</sup> Das Kostenkomitee tagt bei Bedarf.
 
-<sup>3</sup> Den Vorsitz des Kostenausschusses führt ein unabhängiges Kommissionsmitglied.
+<sup>3</sup> Für die Beschlussfähigkeit und die Abstimmungen gilt Artikel 25 SEFV sinngemäss.
 
-<sup>4</sup> Die Mitglieder des Kostenausschusses verfügen über die für die Erfüllung der Aufgaben des Kostenausschusses erforderlichen Fachkompetenzen. Sie entsprechen dem vom UVEK erstellten Anforderungsprofil.
-
-<sup>5</sup> Die Entschädigung der Mitglieder des Kostenausschusses richtet sich sinngemäss nach Artikel 21*c* Absätze 1 und 3 SEFV.
-
-<sup>6</sup> Der Kostenausschuss tagt bei Bedarf.
-
-<sup>7</sup> Für die Beschlussfähigkeit und die Abstimmungen gilt Artikel 25 SEFV sinngemäss.
-
-[^10-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^10-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 11
 
-**Aufgaben des Kostenausschusses**
+**Aufgaben des Kostenkomitees**[^11-1]
 
-Der Kostenausschuss hat insbesondere folgende Aufgaben:
+Das Kostenkomitee hat insbesondere folgende Aufgaben:
 
-- a. Er erarbeitet zuhanden der Kommission den Antrag an das UVEK über die Vorgaben für die Studie zur voraussichtlichen Höhe der Stilllegungs- und Entsorgungskosten (Kostenstudie).
-- b. Er überwacht die Erstellung der Kostenstudie und koordiniert im Auftrag der Kommission deren Überprüfung. Dazu erstellt er einen Prüfungsbericht.
-- c. Er bereitet zuhanden der Kommission den Antrag an das UVEK für die Festlegung der voraussichtlichen Höhe der Stilllegungs- und Entsorgungskosten für jede Kernanlage vor.
-- d. Er berechnet gestützt auf das finanzmathematische Modell zuhanden der Kommission die Höhe der Jahresbeiträge der Eigentümer nach den Artikeln 8 und 8*a* SEFV.
-- e. Er überprüft gestützt auf das finanzmathematische Modell den Rückstellungsplan der Eigentümer über die vor der Ausserbetriebnahme anfallenden Entsorgungskosten gemäss Artikel 19 SEFV.
-- f. Er berechnet zuhanden der Kommission allfällige Rückerstattungen.
-- g. Er stellt das Controlling der anfallenden Stilllegungs- und Entsorgungskosten sicher und überwacht die Auszahlung von Fondsmitteln an die Eigentümer durch die Geschäftsstelle.
-- h. Er orientiert die Kommission über seine Tätigkeit.
+- a. Es überwacht die Erstellung der Studie zur voraussichtlichen Höhe der Stilllegungs- und Entsorgungskosten (Kostenstudie) und koordiniert im Auftrag der Kommission deren Überprüfung.
+- b. Es erstellt zuhanden der Kommission einen zusammenfassenden Prüfbericht betreffend die Kostenstudie und beantragt darin die Festlegung der voraussichtlichen Höhe der Stilllegungs- und Entsorgungskosten für jede Kernanlage.
+- c. Es berechnet gestützt auf das finanzmathematische Modell zuhanden der Kommission die Höhe der Jahresbeiträge der Eigentümer nach den Artikeln 8 und 8*a* SEFV.
+- d. Es überprüft gestützt auf das finanzmathematische Modell den Rückstellungsplan der Eigentümer über die vor der Ausserbetriebnahme anfallenden Entsorgungskosten gemäss Artikel 19 SEFV.
+- e. Es berechnet zuhanden der Kommission allfällige Rückerstattungen.
+- f. Es stellt das Controlling der anfallenden Stilllegungs- und Entsorgungskosten sicher und überwacht die Auszahlung von Fondsmitteln an die Eigentümer durch die Geschäftsstelle.
+- g. Es orientiert die Kommission über seine Tätigkeit.
+
+[^11-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 12
 
-**Fach- und Arbeitsgruppen**
+**Fach- und Arbeitsgruppen**[^12-1]
 
-Den Vorsitz der Fach- und Arbeitsgruppen führt ein unabhängiges Ausschuss- oder Kommissionsmitglied.
+Den Vorsitz der Fach- und Arbeitsgruppen führt ein unabhängiges Kommissions- oder Komiteemitglied.
+
+[^12-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 13
 
 **Geschäftsstelle**
 
-<sup>1</sup> Mindestens eine Vertreterin oder ein Vertreter der Geschäftsstelle nimmt an den Sitzungen der Kommission und ihrer Ausschüsse mit beratender Stimme teil.
+<sup>1</sup> Mindestens eine Vertreterin oder ein Vertreter der Geschäftsstelle nimmt an den Sitzungen der Kommission, des Kommissionsausschusses und der Komitees mit beratender Stimme teil.[^13-1]
 
 <sup>2</sup>
 
@@ -242,11 +241,12 @@ Mit der Führung der Geschäftsstelle kann nur eine Stelle beauftragt werden, di
 - a. über mehrjährige Erfahrung in diesem oder einem vergleichbaren Aufgabenbereich verfügt;
 - b. zu den Eigentümern, der Elektrizitätswirtschaft und den mit der Verwaltung und Aufbewahrung des Fondsvermögens beauftragten Stellen in keiner Beziehung steht, die den Anschein der Voreingenommenheit erwecken kann.
 
-<sup>3</sup> Die Geschäftsstelle verfügt über die notwendigen personellen und fachlichen Ressourcen, um die Geschäfte der beiden Fonds effizient abwickeln zu können. Sie erfüllt insbesondere die Voraussetzungen gemäss dem Geldwäschereigesetz vom 10. Oktober 1997[^13-1].
+<sup>3</sup> Die Geschäftsstelle verfügt über die notwendigen personellen und fachlichen Ressourcen, um die Geschäfte der beiden Fonds effizient abwickeln zu können. Sie erfüllt insbesondere die Voraussetzungen gemäss dem Geldwäschereigesetz vom 10. Oktober 1997[^13-2].
 
 <sup>4</sup> Für die Erledigung der Aufgaben in der Geschäftsstelle muss jeweils eine Stellvertretung sichergestellt werden.
 
-[^13-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^13-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
+[^13-2]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 14
 
@@ -256,7 +256,9 @@ Die Geschäftsstelle hat insbesondere folgende Aufgaben:
 
 - a. Sie erledigt das Tagesgeschäft gemäss den Weisungen des Kommissionsausschusses.
 - b. Sie erstellt jährlich das Budget über die Verwaltungskosten zuhanden der Kommission.
-- c. Sie prüft die Berechnungen des Kostenausschusses nach Artikel 11 Buchstabe d.
+- c.[^14-1] Sie prüft die Berechnungen des Kostenkomitees nach Artikel 11 Buchstabe c.
+
+[^14-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 15
 
@@ -284,17 +286,24 @@ Die Kommunikation hat in sachlicher, politisch neutraler und verständlicher For
 
 #### Art. 18
 
-**Vertraulichkeit, Interessenskonflikte und Ausstand**
+**Vertraulichkeit und Interessenkonflikte[^18-1]**
 
 <sup>1</sup> Sämtliche Personen und Institutionen, die in die Vermögensbewirtschaftung involviert sind, unterstehen einer Verschwiegenheitspflicht in Bezug auf alle Informationen, die ihnen in Ausübung ihrer Tätigkeit zukommen.
 
 <sup>2</sup> Sie dürfen keine persönlichen Vorteile im Zusammenhang mit der Ausübung ihrer Tätigkeit für die Fonds annehmen oder erzielen. Ausgenommen sind geringfügige, sozial übliche Vorteile. Geringfügig sind Naturalgeschenke mit einem Marktwert von höchstens 200 Franken.
 
-<sup>3</sup> Die unabhängigen Mitglieder der Kommission, der Ausschüsse und der Fachgruppen haben im Falle von Interessenkonflikten im Zusammenhang mit ihrer Person oder ihren Arbeit- beziehungsweise Auftraggebern in den Ausstand zu treten.
+<sup>3 und <sup>4</sup></sup> …[^18-2]
 
-<sup>4</sup> Mitglieder der Kommission, der Ausschüsse und der Fachgruppen, welche die Interessen der Eigentümer vertreten, haben im Falle von Interessenkonflikten bei Rechtsstreitigkeiten mit Beteiligung der vertretenen Eigentümer und dem Stilllegungs- beziehungsweise dem Entsorgungsfonds oder bei Interessenkonflikten im Zusammenhang mit ihrer Person in den Ausstand zu treten.[^18-1]
+[^18-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
+[^18-2]: Aufgehoben durch Ziff. I der V des UVEK vom 24. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
-[^18-1]: Fassung gemäss Ziff. I der V des UVEK vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4221](https://fedlex.data.admin.ch/eli/oc/2019/725)).
+#### Art. 18a
+
+**Ausstandsgründe für beigezogene Fachleute**[^18a-1]
+
+Für beigezogene Fachleute gelten die Ausstandsgründe nach Art. 21*d* SEFV sinngemäss.
+
+[^18a-1]: Eingefügt durch Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 19
 
@@ -305,12 +314,14 @@ Die Kommunikation hat in sachlicher, politisch neutraler und verständlicher For
 Nachstehende Personen und Organe können im Rahmen des genehmigten Budgets Verpflichtungen bis zu folgendem Betrag eingehen:
 
 - a. die Geschäftsstelle: bis 20 000 Franken pro Geschäft;
-- b. die oder der Vorsitzende des Anlageausschusses und des Kostenausschusses: bis 50 000 Franken pro Geschäft;
+- b.[^19-1] die oder der Vorsitzende des Anlage- und des Kostenkomitees: bis 50 000 Franken pro Geschäft;
 - c. die Präsidentin oder der Präsident: bis 50 000 Franken pro Geschäft;
 - d. der Kommissionsausschuss: bis 250 000 Franken pro Geschäft;
 - e. die Kommission: über 250 000 Franken.
 
 <sup>2</sup> Verpflichtungen für nicht budgetierte Geschäfte können nur von der Kommission eingegangen werden.
+
+[^19-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 #### Art. 20
 
@@ -323,7 +334,9 @@ Nachstehende Personen und Organe können im Rahmen des genehmigten Budgets Verpf
 Ergänzend zur Regelung von Artikel 24 Absatz 1 SEFV sind für die Fonds zeichnungsberechtigt:
 
 - a. In den Fällen von Artikel 19 Buchstabe a: die Geschäftsstelle mit Doppelunterschrift;
-- b. In den Fällen von Artikel 19 Buchstabe b: die oder der Vorsitzende des Anlageausschusses oder des Kostenausschusses zusammen mit einem Mitglied der Geschäftsstelle.
+- b.[^20-1] In den Fällen von Artikel 19 Buchstabe b: die oder der Vorsitzende des Anlage- oder des Kostenkomitees zusammen mit einem Mitglied der Geschäftsstelle.
+
+[^20-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 830](https://fedlex.data.admin.ch/eli/oc/2021/830)).
 
 ## 3. Abschnitt: Vermögensverwaltung
 
@@ -373,8 +386,8 @@ Neben den Beschränkungen nach Artikel 16 SEFV müssen folgende Anlagebeschränk
   - 1\. ausschliesslich auf gesicherter Basis erfolgt und bei Direktanlagen basierend auf einem schriftlichen Vertrag über die Depotbank abgewickelt wird;
   - 2\. bei Aktien von kotierten Schweizer Aktiengesellschaften die Wahrnehmung der Aktionärsrechte nicht beeinträchtigt.
 
-[^23-1]: [SR 951.311](https://fedlex.data.admin.ch/eli/cc/2006/859)
-[^23-2]: [SR 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^23-1]: [SR 951.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11534)
+[^23-2]: [SR 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 
 #### Art. 24
 
