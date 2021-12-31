@@ -4,20 +4,20 @@ number: "211.61"
 title: Verordnung betreffend die Einführung des Kindes- und Erwachsenenschutzrechts
 short: EV KESR
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-05-28
+version: 2022-01-01
+valid_until: 2022-03-31
+version_adopted: 2021-06-25
 adopted: 2012-05-03
 in_force: 2013-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/211.61"
-pdf: "http://gdb.ow.ch/api/de/versions/1451/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1547/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung betreffend die Einführung des Kindes- und Erwachsenenschutzrechts
 
-vom 03.05.2012 (Stand 01.01.2021)
+vom 03.05.2012 (Stand 01.01.2022)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -183,9 +183,9 @@ beschliesst:
 
 <sup>1</sup> Wenn Gefahr im Verzug liegt, kann die fürsorgerische Unterbringung auch durch die im Kanton zur selbstständigen Berufsausübung zugelassenen Ärztinnen oder Ärzte sowie durch die Chefärztinnen und Chefärzte, die leitenden Ärztinnen und Ärzte und die Oberärztinnen und Oberärzte des Kantonsspitals Obwalden angeordnet werden, längstens jedoch für sechs Wochen.
 
-<sup>2</sup> Die anordnende Ärztin oder der anordnende Arzt stellt den Unterbringungsentscheid unverzüglich der Kindes- und Erwachsenenschutzbehörde zu.
+<sup>2</sup> …
 
-<sup>3</sup> Die Einrichtung meldet der Kindes- und Erwachsenenschutzbehörde unverzüglich die Entlassung. Sie organisiert mit der Entlassung eine geeignete Nachbetreuung.
+<sup>3</sup> Die Einrichtung organisiert mit der Entlassung eine geeignete Nachbetreuung.
 
 #### Art. 15
 
@@ -199,7 +199,7 @@ beschliesst:
 
 **Zurückbehaltung freiwillig Eingetretener**
 
-<sup>1</sup> Die Bestimmungen in Art. 14 bis 19 dieser Verordnung über die Meldepflichten, die Weiterführung der Unterbringung sowie die Nachbetreuung gelten sinngemäss auch für Fälle der Zurückbehaltung freiwillig Eingetretener durch die Einrichtung.
+<sup>1</sup> Die Bestimmungen in Art. 14 bis 19 dieser Verordnung über die Weiterführung der Unterbringung sowie die Nachbetreuung gelten sinngemäss auch für Fälle der Zurückbehaltung freiwillig Eingetretener durch die Einrichtung.
 
 ### 2.3. Nachbetreuung
 
@@ -367,6 +367,8 @@ geändert durch:
 
 \- Nachtrag vom 1. Juli 2016, in Kraft seit 1. Januar 2017 (OGS 2016, 46), Botschaft und Vorlage des Regierungsrats vom 17. Mai 2016, Sitzung des Kantonsrats vom 1. Juli 2016 (23.16.04)
 
-\- Nachtrag vom 28. Mai 2020, in Kraft seit 1. Januar 2021 (OGS 2020, 17), Botschaft und Vorlage des Regierungsrats vom 7. April 2020, Sitzung des Kantonsrats vom 28. Mai 2020 (32.20.01/ 23.20.02)
+\- Nachtrag vom 28. Mai 2020, in Kraft seit 1. Januar 2021 (OGS 2020, 17), Botschaft und Vorlage des Regierungsrats vom 7. April 2020, Sitzung des Kantonsrats vom 28. Mai 2020 (32.20.01/ 23.20.02),
+
+\- Nachtrag zum Gesundheitsgesetz vom 25. Juni 2021 (OGS 2021, 23), Botschaft und Vorlage des Regierungsrats vom 9. März 2021), Kantonsratssitzungen vom 27. Mai und 25. Juni 2021 (22.21.01), Volksabstimmung vom 28. November 2021 (ABl 2021, 1747), in Kraft seit 1. Januar 2022 (OGS 2021, 41)
 
 OGS 2012, 30
