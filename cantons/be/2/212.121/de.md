@@ -1,70 +1,136 @@
 ---
 canton: BE
 number: "212.121"
-title: Verordnung über das Zivilstandswesen
-short: ZV
+title: Kantonale Zivilstandsverordnung
+short: KZStV
 language: de
-version: 2013-12-23
-valid_until: 2021-12-31
-version_adopted: 2013-11-13
+version: 2022-01-01
+valid_until: 2026-08-31
+version_adopted: 2021-11-03
 adopted: 2021-11-03
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/212.121"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/168/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2527/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über das Zivilstandswesen
+# Kantonale Zivilstandsverordnung
 
-(ZV)
+(KZStV)
 
-vom 03.06.2009 (Stand 23.12.2013)
+vom 03.11.2021 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 19 des Gesetzes vom 28. Mai 1911 betreffend die Einführung des Zivilgesetzbuchs (EG ZGB)[^ingress-1] und die eidgenössische Zivilstandsverordnung vom 28. April 2004 (ZStV)[^ingress-2],
+gestützt auf Artikel 19 des Gesetzes vom 28. Mai 1911 betreffend die Einführung des Zivilgesetzbuches (EG ZGB)[^ingress-1] und die eidgenössische Zivilstandsverordnung vom 28. April 2004 (ZStV)[^ingress-2],
 
-auf Antrag der Polizei- und Militärdirektion,
+auf Antrag der Sicherheitsdirektion,
 
 beschliesst:
 
-[^ingress-1]: BSG 211.1
-[^ingress-2]: SR 211.112.2
+[^ingress-1]: BSG [211.1](https://www.belex.sites.be.ch/data/211.1/de)
+[^ingress-2]: SR [211.112.2](https://db.clex.ch/link/Bund/211.112.2/de)
 
-## 1 Allgemeine Bestimmungen
+## 1 Zivilstandskreise
 
 #### Art. 1
 
-**Zivilstandskreise**
+<sup>1</sup> Im Kanton bestehen die in Anhang 1 umschriebenen Zivilstandskreise mit den dort festgelegten Namen und Amtssitzen.
 
-<sup>1</sup> Im Kanton Bern bestehen die im Anhang umschriebenen Zivilstandskreise mit den dort festgelegten Namen und Amtssitzen.
+## 2 Zuständigkeiten
 
 #### Art. 2
 
-**Zivilstandsämter**
+**Sicherheitsdirektion**
 
-<sup>1</sup> Der Kanton führt für jeden Zivilstandskreis ein Zivilstandsamt. Die Zivilstandsämter sind an die gemäss Artikel 45a des Schweizerischen Zivilgesetzbuchs vom 10. Dezember 1907 (ZGB[^2-1]) vom Bund betriebene zentrale Datenbank (elektronisches Personenstandsregister Infostar) angeschlossen und verfügen über die notwendige Infrastruktur.
+<sup>1</sup> Die Sicherheitsdirektion beurteilt Beschwerden nach Artikel 60 ff. des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^2-1] gegen Verfügungen der kantonalen Aufsichtsbehörde im Zivilstandswesen und der Zivilstandsämter.
 
-<sup>2</sup> Für die Beurkundung folgender Zivilstandsereignisse kann ein Sonderzivilstandsamt eingerichtet werden:
-
-- a Urteile der bernischen Gerichte,
-- b Kindesanerkennungen vor einem Gericht oder durch letztwillige Verfügung, wenn sie im Kanton Bern eröffnet werden,
-- c Verwaltungsverfügungen des Kantons Bern,
-- d Verwaltungsverfügungen des Bundes betreffend Kantonsbürgerinnen und Kantonsbürger,
-- e Bundesgerichtsurteile, wenn erstinstanzlich ein Gericht des eigenen Kantons entschieden hat,
-- f ausländische Entscheidungen und Urkunden über den Zivilstand aufgrund von Verfügungen der eigenen Aufsichtsbehörde betreffend Kantonsbürgerinnen und Kantonsbürger,
-- g Einbürgerungen.
-
-<sup>3</sup> Der Zivilstandskreis des Sonderzivilstandsamtes umfasst das ganze Kantonsgebiet. Die Polizei- und Militärdirektion befindet über dessen Errichtung und bezeichnet den Amtssitz.
-
-<sup>4</sup> Das Sonderzivilstandsamt kann administrativ einem ordentlichen Zivilstandsamt angegliedert werden.
-
-<sup>5</sup> Der Kanton stellt für Trauungen und Beurkundungen von eingetragenen Partnerschaften würdige Trauungs- und Zeremonielokale sowie die nötigen Räumlichkeiten für die übrigen zivilstandsamtlichen Verrichtungen zur Verfügung.
-
-[^2-1]: SR 210
+[^2-1]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
 
 #### Art. 3
+
+**Amt für Bevölkerungsdienste**
+
+<sup>1</sup> Das Amt für Bevölkerungsdienste
+
+- a ergreift Disziplinarmassnahmen nach Artikel 47 des schweizerischen Zivilgesetzbuches (ZGB)[^3-1],
+- b beurteilt aufsichtsrechtliche Anzeigen nach Artikel 101 VRPG gegen Amtshandlungen der kantonalen Aufsichtsbehörde im Zivilstandswesen und der Zivilstandsämter.
+
+<sup>2</sup> Es führt den Zivilstands- und Bürgerrechtsdienst.
+
+[^3-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+
+#### Art. 4
+
+**Zivilstands- und Bürgerrechtsdienst**
+
+<sup>1</sup> Der Zivilstands- und Bürgerrechtsdienst ist zuständig für
+
+- a die Bewilligung von Ausnahmen vom minimalen Beschäftigungsgrad nach Artikel 1 Absatz 2 ZStV,
+- b die Bewilligung und Organisation von Lokalen nach Artikel 1a ZStV und Artikel 21 bis 24,
+- c die Bildung eines Sonderzivilstandsamts nach Artikel 2 ZStV,
+- d die Zuordnung der nötigen Anzahl Zivilstandsbeamtinnen und Zivilstandsbeamten zu den Zivilstandsämtern und die Bestimmung der Leiterinnen und Leitern sowie die Regelung der Stellvertretung nach Artikel 4 Absatz 1 ZStV,
+- e die Fristansetzung und den Entscheid nach Artikel 4 Absatz 4 und 5 ZStV,
+- f die Bewilligung zur Vernichtung von Belegen nach Artikel 32 ZStV,
+- g das Einschreiten von Amtes wegen nach Artikel 86 Absatz 1 ZStV,
+- h die Aufbewahrung, Archivierung und Sicherung von Zivilstandsregistern nach Artikel 92a bis 92c ZStV sowie die Aufbewahrung, Archivierung und Vernichtung von Belegen nach Artikel 31 bis 33 ZStV,
+- i die Festlegung der Öffnungszeiten der kantonalen Aufsichtsbehörde im Zivilstandswesen und der Zivilstandsämter sowie der Zeremoniezeiten.
+
+<sup>2</sup> Er führt die kantonale Aufsichtsbehörde im Zivilstandswesen und die Zivilstandsämter.
+
+#### Art. 5
+
+**Kantonale Aufsichtsbehörde im Zivilstandswesen**
+
+<sup>1</sup> Die kantonale Aufsichtsbehörde im Zivilstandswesen ist zuständig für
+
+- a die Erfüllung von Aufgaben nach Artikel 41, 42 und 45 ZGB sowie die ihr durch die ZStV zugewiesenen Aufgaben, die nicht einer anderen Behörde nach Artikel 2 bis 4 zugeordnet sind,
+- b die Beurteilung der Verstösse gegen Artikel 91 ZStV,
+- c die Bewilligung der systematischen Mitteilungen an die Burgergemeinden nach Artikel 20.
+
+#### Art. 6
+
+**Zivilstandsämter**
+
+<sup>1</sup> Die Zivilstandsämter sind zuständig für
+
+- a die Erfüllung der Aufgaben nach Artikel 44 Absatz 1 ZGB,
+- b alle ihnen durch die ZStV zugewiesenen Aufgaben.
+
+#### Art. 7
+
+**Zivilstandsamt am Sitz des Gerichts**
+
+<sup>1</sup> Das Zivilstandsamt am Sitz des erstinstanzlichen Gerichts ist zuständig für
+
+- a die Beurkundung von Urteilen der bernischen Gerichte betreffend den Personenstand sowie Kindesanerkennungen vor einem bernischen Gericht,
+- b die Beurkundung von Urteilen des Obergerichts sowie des Bundesgerichts in Beschwerdefällen von Verfahren nach Buchstabe a.
+
+#### Art. 8
+
+**Zivilstandsamt am Ort der Testamentseröffnung**
+
+<sup>1</sup> Das Zivilstandsamt am Ort der Testamentseröffnung ist zuständig für die Beurkundung von testamentarischen Kindesanerkennungen aufgrund einer Eintragungsverfügung der kantonalen Aufsichtsbehörde im Zivilstandswesen.
+
+#### Art. 9
+
+**Zivilstandsamt des Kreises Bern-Mittelland**
+
+<sup>1</sup> Das Zivilstandsamt des Kreises Bern-Mittelland ist zuständig für die Beurkundung von Adoptionsverfügungen und Namensänderungsverfügungen.
+
+#### Art. 10
+
+**Zivilstandsamt am Heimatort**
+
+<sup>1</sup> Das Zivilstandsamt am Heimatort der betroffenen Person ist zuständig für die Eintragung von
+
+- a Verfügungen der bernischen Kindes- und Erwachsenenschutzbehörden betreffend umfassende Beistandschaften (Art. 398 und 449c ZGB),
+- b Verfügungen des Bundes und des Kantons betreffend das Bürgerrecht sowie Eintragungsbewilligungen und Eintragungsverfügungen der Aufsichtsbehörde im Zivilstandswesen betreffend ausländische Entscheidungen oder Urkunden über den Personenstand.
+
+## 3 Verfahren der Beurkundung
+
+#### Art. 11
 
 **Amtssprachen**
 
@@ -74,251 +140,204 @@ beschliesst:
 - b im Zivilstandskreis Seeland das Deutsche und das Französische,
 - c in den übrigen Zivilstandskreisen das Deutsche.
 
-#### Art. 4
-
-**Zivilstandsbeamtinnen und Zivilstandsbeamte**
-
-<sup>1</sup> Das Amt für Migration und Personenstand entscheidet über Anstellung und Einstufung im Funktionsbereich einer Zivilstandsbeamtin oder eines Zivilstandsbeamten.
-
-#### Art. 5
-
-**Leiterinnen und Leiter eines Zivilstandsamtes**
-
-<sup>1</sup> Das Amt für Migration und Personenstand (Zivilstands- und Bürgerrechtsdienst) bestimmt die Leiterin oder den Leiter eines Zivilstandsamtes. Einer Leiterin oder einem Leiter kann die Leitung mehrerer Zivilstandsämter oder des Sonderzivilstandsamtes übertragen werden.
-
-#### Art. 6
-
-**Ausbildung**
-
-<sup>1</sup> Die Zivilstandsbeamtinnen und Zivilstandsbeamten sowie die Leiterinnen und Leiter der Zivilstandsämter sind verpflichtet, die vom Amt für Migration und Personenstand (Zivilstands- und Bürgerrechtsdienst) als obligatorisch bezeichneten Kurse, Arbeitstagungen und Seminare zu besuchen.
-
-#### Art. 7
-
-**Amtsführung**
-
-<sup>1</sup> Für die Amtsführung der Zivilstandsämter gelten die einschlägigen Vorschriften der ZStV sowie die verbindlichen Kreisschreiben und Weisungen des Eidgenössischen Amtes für das Zivilstandswesen und des Amtes für Migration und Personenstand (Zivilstands- und Bürgerrechtsdienst).
-
-<sup>2</sup> Die Zivilstandsämter unterstehen dem Amt für Migration und Personenstand (Zivilstands- und Bürgerrechtsdienst). Die Anordnungen und Weisungen des Amtes für Migration und Personenstand (Zivilstands- und Bürgerrechtsdienst) sind für die Zivilstandsämter verbindlich.
-
-## 2 Verfahren der Beurkundung
-
-#### Art. 8
-
-**Übersetzung und Echtheitsüberprüfung ausländischer Entscheidungen oder Urkunden**
-
-<sup>1</sup> In einer Fremdsprache abgefasste ausländische Entscheidungen oder Urkunden, die im Hinblick auf eine Amtshandlung vorgelegt werden, sind grundsätzlich in eine schweizerische Amtssprache zu übersetzen.
-
-<sup>2</sup> Sofern die Massnahme als gerechtfertigt erscheint, kann die Überprüfung der Echtheit oder die Beglaubigung ausländischer Entscheidungen oder Urkunden angeordnet werden.
-
-<sup>3</sup> Die Kosten für die Übersetzung, die Überprüfung und die Beglaubigung der Entscheidungen oder Urkunden gehen zulasten der Person, welche die Dokumente eingereicht hat oder für welche die Dokumente von Amtes wegen beschafft worden sind.
-
-#### Art. 9
-
-**Aktenprüfung**
-
-<sup>1</sup> Besteht bei der Beurkundung des Personenstandes, in einem Eheschliessungsverfahren oder in einem Verfahren zur Eintragung einer Partnerschaft ein Bezug zum Ausland, so können ausländische Entscheidungen oder Urkunden der Aufsichtsbehörde zur Prüfung unterbreitet werden.
-
-<sup>2</sup> Das Amt für Migration und Personenstand (Zivilstands- und Bürgerrechtsdienst) erlässt die erforderlichen Weisungen.
-
-#### Art. 10
-
-**Zuständigkeit, Beurkundung**
-
-<sup>1</sup> Urteile der bernischen Gerichte sowie Kindesanerkennungen vor einem bernischen Gericht werden vom Zivilstandsamt des Sitzes des Gerichtes beurkundet. Urteile des Obergerichts sowie des Bundesgerichts werden vom Zivilstandsamt des Sitzes der ersten Instanz beurkundet.
-
-<sup>2</sup> Kindesanerkennungen durch letztwillige Verfügungen werden vom Zivilstandsamt des Ortes der Testamentseröffnung beurkundet.
-
-<sup>3</sup> Den Personenstand betreffende Anordnungen in Verfügungen, Beschwerdeentscheiden oder Urteilen von Behörden des Kantons werden vom Zivilstandsamt des Kreises Bern beurkundet. Ausgenommen sind Verfügungen der Kindes- und Erwachsenenschutzbehörden, welche an das Zivilstandsamt am Sitz der Kindes- und Erwachsenenschutzbehörde zur Beurkundung mitzuteilen sind.
-
-<sup>4</sup> Verwaltungsverfügungen des Bundes, ausländische Entscheidungen und Urkunden über den Personenstand aufgrund von Verfügungen der eigenen Aufsichtsbehörde sowie Einbürgerungen betreffend Kantonsbürgerinnen und Kantonsbürger werden vom Zivilstandsamt des Heimatortes der betroffenen Person beurkundet.
-
-<sup>5</sup> Die Beurkundung sämtlicher oder einzelner der in Absatz 1 bis 4 erwähnten Entscheidungen kann einem Sonderzivilstandsamt übertragen werden.
-
-## 3 Aufbewahrung der Register und Belege
-
-#### Art. 11
-
-**Register**
-
-<sup>1</sup> Das Amt für Migration und Personenstand (Zivilstands- und Bürgerrechtsdienst) kann anordnen, dass bestimmte auf Papier geführte Register zentral aufbewahrt werden.
-
 #### Art. 12
 
-**Belege**
+**Überprüfung ausländischer Entscheidungen und Urkunden über den Personenstand**
 
-<sup>1</sup> Die zweckmässige Ablage der Belege zur Beurkundung der Personenstandsdaten richtet sich nach den Weisungen des Amtes für Migration und Personenstand (Zivilstands- und Bürgerrechtsdienst).
+<sup>1</sup> Die Zivilstandsbeamtin oder der Zivilstandsbeamte sowie Mitarbeiterinnen und Mitarbeiter der Aufsichtsbehörde im Zivilstandswesen können die Überprüfung der Echtheit oder die Beibringung einer Beglaubigung ausländischer Entscheidungen und Urkunden über den Personenstand anordnen.
 
-## 4 Meldepflichten bei Findelkindern
+<sup>2</sup> Die Kosten für die Übersetzung, die Überprüfung und die Beglaubigung der ausländischen Entscheidungen und Urkunden über den Personenstand gehen zu Lasten der Person, welche die Dokumente eingereicht hat oder für welche die Dokumente von Amtes wegen beschafft worden sind.
 
 #### Art. 13
 
-<sup>1</sup> Wer ein Kind unbekannter Abstammung findet, hat die Gemeinde, in der es ausgesetzt wurde, unverzüglich zu benachrichtigen.
+**Aktenprüfung**
 
-<sup>2</sup> Die zuständige Kindes- und Erwachsenenschutzbehörde gibt dem Kind den Familiennamen und einen oder mehrere Vornamen und erstattet innert drei Tagen die vorgeschriebene Anmeldung beim zuständigen Zivilstandsamt.
-
-## 5 Amtliche Mitteilungspflichten
+<sup>1</sup> Besteht bei der Beurkundung des Personenstands ein Bezug zum Ausland, können der kantonalen Aufsichtsbehörde im Zivilstandswesen ausländische Entscheidungen und Urkunden über den Personenstand zur Prüfung unterbreitet werden.
 
 #### Art. 14
 
-<sup>1</sup> Die Gerichte und die Verwaltungsbehörden teilen ihre Entscheidungen direkt an das gemäss Artikel 10 für die Beurkundung zuständige Zivilstandsamt mit.
+**Bestätigung der Anmeldung eines Todesfalls**
 
-## 6 Bekanntgabe der Daten
+<sup>1</sup> Das Zivilstandsamt, das den Tod beurkundet, stellt im Hinblick auf die Bestattung in der Schweiz oder die Ausstellung des Leichenpasses für den Transport der Leiche ins Ausland unverzüglich und kostenfrei die Bestätigung der Anmeldung eines Todesfalls aus.
 
 #### Art. 15
 
-**Bestattung**
+**Ärztliche Todesbescheinigung**
 
-<sup>1</sup> Das Zivilstandsamt, das den Tod beurkundet, stellt im Hinblick auf die Bestattung in der Schweiz oder den Transport der Leiche ins Ausland unverzüglich und kostenlos die Bestätigung der Anmeldung eines Todesfalls aus.
+<sup>1</sup> Die Erbinnen und Erben der verstorbenen Person tragen die Kosten für die Ausstellung der ärztlichen Todesbescheinigung, sofern diese nicht aus der Erbmasse gedeckt werden können.
 
-<sup>2</sup> Wird ausnahmsweise die Leiche bestattet oder ein Leichenpass ausgestellt, ohne dass die Anmeldebestätigung des Zivilstandsamts des Todesorts vorliegt, sorgt die Behörde, welche die Bestattung angeordnet oder den Leichenpass ausgestellt hat, für die Anmeldung des Todes beim zuständigen Zivilstandsamt.
+<sup>2</sup> Der Kanton trägt die Kosten für die Ausstellung der ärztlichen Todesbescheinigung, sofern keine Erbinnen oder Erben vorhanden sind oder sämtliche Erbinnen und Erben das Erbe ausschlagen und die Kosten nicht aus der Erbmasse heraus gedeckt werden können.
+
+## 4 Meldepflichten
 
 #### Art. 16
 
-**Bürgerrechts- und Familienverhältnisse**
+**Gerichte und Verwaltungsbehörden**
 
-<sup>1</sup> Das Zivilstandsamt erteilt den Behörden der Heimatgemeinde und des Kantons im Hinblick auf die Erfüllung gesetzlicher Aufgaben auf Gesuch hin im Einzelfall kostenlos Auskunft über Bürgerrechts- und Familienverhältnisse.
+<sup>1</sup> Die Gerichte und die Verwaltungsbehörden teilen ihre Entscheidungen unter Vorbehalt von Absatz 2 und 3 nach Eintritt der Rechtskraft an das nach Artikel 7 bis 10 für die Beurkundung zuständige Zivilstandsamt mit.
 
-<sup>2</sup> Zu diesem Zweck sind Hinweise im Familienregister über den Besitz des Bürgerrechts anlässlich der Übertragung der Person in das informatisierte Personenstandsregister zu berücksichtigen.
+<sup>2</sup> Die Gerichte teilen ihre Urteile nach Artikel 42 ZGB nach Eintritt der Rechtskraft der kantonalen Aufsichtsbehörde im Zivilstandswesen mit.
 
-<sup>3</sup> Für die Feststellung des Bürgerrechts, des Personenstandes und der Schreibweise des Familiennamens sind die Beurkundungen im Familienregister bzw. im informatisierten Personenstandsregister massgebend.
+<sup>3</sup> Die kantonale Adoptionsbehörde teilt ihre Adoptionsverfügungen nach Eintritt der Rechtskraft der kantonalen Aufsichtsbehörde im Zivilstandswesen mit.
 
 #### Art. 17
 
-**Alte Register der Heimatgemeinde**
+**Findelkind**
 
-<sup>1</sup> Zivilstandsereignisse betreffend Personen, die vor dem 1. Januar 1929 geboren worden sind und nicht im Familienregister eingetragen sind, werden der Heimatgemeinde im Hinblick auf die Nachführung des Bürgerregisters bzw. des Burgerrodels von Amtes wegen mitgeteilt.
+<sup>1</sup> Wer ein Kind unbekannter Abstammung auffindet, hat unverzüglich die Polizei zu benachrichtigen. Die Polizei benachrichtigt die für den Auffindungsort zuständige Kindesschutzbehörde.
 
-<sup>2</sup> Überlässt die Gemeinde das Bürgerregister bzw. den Burgerrodel dem Zivilstandsamt, so wird dieses Sammelregister für die Zeit bis zum 31. Dezember 1928 kostenlos nachgeführt; es bildet definitiv einen integrierenden Teil des seit dem 1. Januar 1929 geführten Familienregisters.
+<sup>2</sup> Die Einrichtungen des Gesundheitswesens mit einem Babyfenster benachrichtigen unverzüglich die örtlich zuständige Kindesschutzbehörde, wenn sie ein Kind unbekannter Abstammung auffinden.
 
-<sup>3</sup> Stehen Bürgerregister und Burgerrodel dem Zivilstandsamt nicht zur Verfügung, sind Auszüge daraus unmittelbar durch die zuständige Burger, Einwohner- oder gemischte Gemeinde auszustellen. Das Zivilstandsamt kann Auszüge für die Zeit bis zum 31. Dezember 1928 kostenlos anfordern.
+<sup>3</sup> Die Kindesschutzbehörde
 
-## 7 Organisatorische Vorschriften
+- a gibt dem Kind einen Familiennamen und einen oder mehrere Vornamen,
+- b meldet das Kind innert drei Tagen beim Zivilstandsamt am Auffindungsort an.
 
 #### Art. 18
 
-**Öffnungs-, Trau- und Beurkundungszeiten**
+**Tod**
 
-<sup>1</sup> Das Amt für Migration und Personenstand (Zivilstands- und Bürgerrechtsdienst) bestimmt die Öffnungszeiten sowie die Trau- und Beurkundungszeiten der Zivilstandsämter.
+<sup>1</sup> Die Meldung des Todes nimmt ausschliesslich das zuständige Zivilstandsamt nach Artikel 20a ZStV entgegen.
 
-<sup>2</sup> Trauungen sowie Beurkundungen von eingetragenen Partnerschaften können von Montag bis Samstag während den Trau- und Beurkundungszeiten durchgeführt werden.
-
-<sup>3</sup> Das Amt für Migration und Personenstand (Zivilstands- und Bürgerrechtsdienst) erlässt die erforderlichen Weisungen.
+<sup>2</sup> Todesfälle können mit Zustimmung des Zivilstandsamts in elektronischer Form vorangemeldet werden. Die schriftliche Meldung der meldepflichtigen Stelle, meldepflichtigen Person oder bevollmächtigten Person nach Artikel 34a ZStV muss innert zwei Tagen nach dem Todesfall nachgereicht werden.
 
 #### Art. 19
 
-**Besondere Trau- und Zeremonielokale 1. Grundsätze**
+**Ausländische Entscheidungen und Urkunden über den Personenstand**
 
-<sup>1</sup> Das Amt für Migration und Personenstand (Zivilstands- und Bürgerrechtsdienst) bewilligt auf Gesuch hin besondere Trau- und Zeremonielokale.
+<sup>1</sup> Die Einwohnergemeinden und gemischten Gemeinden sind verpflichtet, ausländische Entscheidungen und Urkunden über den Personenstand von Schweizerinnen und Schweizern, die ihnen bekannt gegeben werden, der kantonalen Aufsichtsbehörde im Zivilstandswesen vor dem Eintrag im Einwohnerkontrollregister zur Prüfung der Eintragung im Personenstandsregister zu übermitteln.
 
-<sup>2</sup> Pro Zivilstandskreis sind höchstens zwei besondere Trau- und Zeremonielokale zu bewilligen. In begründeten Ausnahmefällen kann das Amt für Migration und Personenstand (Zivilstands- und Bürgerrechtsdienst) drei oder mehr besondere Trau- und Zeremonielokale bewilligen.
-
-<sup>3</sup> Die besonderen Trau- und Zeremonielokale weisen insbesondere folgende Kriterien auf:
-
-- a schlossähnliches Gebäude mit parkähnlicher Umgebung,
-- b der Amtshandlung entsprechend würdiger Raum mit attraktiver Raumausstattung und genügendem Platz- und Sitzangebot,
-- c öffentlicher Zugang zum Lokal während Trau- und Zeremoniezeiten,
-- d besonders attraktiver Standort des Lokals,
-- e Erreichbarkeit mit öffentlichen oder privaten Verkehrsmitteln.
-
-<sup>4</sup> Das Amt für Migration und Personenstand (Zivilstands- und Bürgerrechtsdienst) erlässt die erforderlichen Weisungen.
-
-<sup>5</sup> Es besteht kein Rechtsanspruch auf Bewilligung. Bei Streitigkeiten entscheidet das Amt für Migration und Personenstand.
+## 5 Mitteilungen an Burgergemeinden
 
 #### Art. 20
 
-**2. Kosten, Durchführung**
+<sup>1</sup> Das Zivilstandsamt des Heimatortes teilt den Burgergemeinden des Kantons Änderungen der Personenstandsdaten ihrer Burgerinnen und Burger auf Antrag und mit Bewilligung der kantonalen Aufsichtsbehörde im Zivilstandswesen systematisch mit.
 
-<sup>1</sup> Sämtliche Kosten, die für die Einrichtung und den Betrieb anfallen, gehen zulasten der Organisation, die das besondere Trau- und Zeremonielokal zur Verfügung stellt. Die Benutzung eines besonderen Trau- und Zeremonielokals darf nicht mit der Verpflichtung zum Bezug weiterer kostenpflichtiger Dienstleistungen verknüpft werden.
+<sup>2</sup> Die Bewilligung wird erteilt, wenn die Mitteilungen für die Erfüllung einer gesetzlichen Aufgabe zwingend erforderlich sind.
 
-<sup>2</sup> Trauungen und Beurkundungen von eingetragenen Partnerschaften in besonderen Trau- und Zeremonielokalen werden auf Vereinbarung zwischen dem Zivilstandsamt und den Brautleuten bzw. den Partnerinnen oder den Partnern durchgeführt, wenn die Umstände dies erlauben.
+<sup>3</sup> Die systematischen Mitteilungen sind kostenpflichtig.
 
-<sup>3</sup> Das Zivilstandsamt, in dessen territorialen Zuständigkeitsbereich das besondere Trau- oder Zeremonielokal liegt, legt die Einzelheiten mit den einzelnen Anbietenden fest.
+<sup>4</sup> Für die Burgergemeinden, welche die Mitteilungen erhalten, gelten die Grundsätze der Geheimhaltung nach Artikel 44 und Artikel 56 Absatz 3 ZStV.
 
-<sup>4</sup> Es besteht kein Rechtsanspruch auf Trauungen und Beurkundungen von eingetragenen Partnerschaften in besonderen Trau- und Zeremonielokalen. Bei Streitigkeiten entscheidet das Amt für Migration und Personenstand endgültig.
-
-## 8 Datensicherheit
+## 6 Amtsräume (Lokale)
 
 #### Art. 21
 
-<sup>1</sup> Das Amt für Migration und Personenstand (Zivilstands- und Bürgerrechtsdienst) sorgt dafür, dass die Register, sämtliche Belege und die elektronischen Datenträger sicher aufbewahrt und vor unberechtigtem Zugriff geschützt werden.
+**Ordentliche Lokale**
 
-<sup>2</sup> Es sorgt für die definitive Sicherstellung aller Zivilstandsregister als Kulturgut im Rahmen der Vorschriften des Bundes seit ihrer Einführung.
-
-## 9 Aufsicht
+<sup>1</sup> Jeder Zivilstandskreis verfügt über mindestens ein ordentliches Lokal nach Artikel 1a Absatz 3 ZStV am Amtssitz.
 
 #### Art. 22
 
-**Aufsichtsbehörde**
+**Besondere Lokale**
 
-<sup>1</sup> Das Amt für Migration und Personenstand (Zivilstands- und Bürgerrechtsdienst) teilt der Polizei- und Militärdirektion Verstösse gegen die Meldepflicht mit. Diese erlässt Bussenverfügungen gemäss Artikel 91 ZStV (Art. 40 Abs. 2 ZGB).
+<sup>1</sup> Besondere Lokale ausserhalb der Zivilstandsämter nach Artikel 1a Absatz 4 ZStV können auf Gesuch einer Anbieterin oder eines Anbieters durch Vertrag bewilligt werden.
 
-<sup>2</sup> Die Polizei- und Militärdirektion ist bei Amtspflichtverletzungen für die Anordnung von Disziplinarmassnahmen gemäss Artikel 47 ZGB zuständig.
+<sup>2</sup> Bei der Bewilligung ist auf eine ausgewogene Verteilung zwischen den Zivilstandskreisen und Regionen sowie auf das Zeremonieangebot im ordentlichen Lokal zu achten.
+
+<sup>3</sup> Die besonderen Lokale weisen insbesondere folgende Kriterien auf:
+
+- a Schloss oder schlossähnliches oder historisches Gebäude,
+- b besonders attraktiver Standort,
+- c der Amtshandlung entsprechend würdiger Raum mit attraktiver Raumausstattung und angemessenem Platz- und Sitzangebot,
+- d öffentlicher Zugang zum Lokal während der Zeremoniezeiten,
+- e Erreichbarkeit mit öffentlichen oder privaten Verkehrsmitteln,
+- f ausreichende Kapazität, mehrere Zeremonien in Folge durchzuführen,
+- g hohe Kundennachfrage und gute Auslastung.
 
 #### Art. 23
 
-**Inspektionen**
+**Organisation**
 
-<sup>1</sup> Die Zivilstandsämter werden durch die kantonale Aufsichtsbehörde entsprechend den Vorschriften des Bundesrechts regelmässig inspiziert.
+<sup>1</sup> Sämtliche Kosten, die für die Einrichtung und den Betrieb anfallen, gehen zulasten der Anbieterin oder des Anbieters.
 
-<sup>2</sup> Die Inspektion betrifft insbesondere die organisatorische Führung des Zivilstandsamtes sowie die Einhaltung der rechtlichen und registertechnischen Bestimmungen im Zivilstandswesen.
+<sup>2</sup> Die Benutzung eines besonderen Lokals darf nicht mit der Verpflichtung zum Bezug weiterer kostenpflichtiger Dienstleistungen verknüpft werden.
 
-## 10 Verfahren
+<sup>3</sup> Für jedes bewilligte besondere Lokal werden die Zeremonietage und die Anzahl Zeremonien pro Tag sowie die weiteren Einzelheiten durch Vertrag festgelegt.
 
 #### Art. 24
 
-**Verfahrensgrundsätze**
+**Fehlender Rechtsanspruch**
 
-<sup>1</sup> Das Verfahren vor den Zivilstandsämtern und der Aufsichtsbehörde richtet sich nach dem Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG[^24-1]), soweit Bundesrecht oder kantonales Recht nichts anderes vorschreiben.
+<sup>1</sup> Es besteht kein Rechtsanspruch auf
 
-[^24-1]: BSG 155.21
+- a Abschluss eines Vertrags nach Artikel 22 Absatz 1,
+- b bestimmte Zeremonietage und -zeiten sowie bestimmte Anzahl Zeremonien pro Tag in Lokalen nach Artikel 21 und 22.
+
+## 7 Bürgerregister und Burgerrodel
 
 #### Art. 25
 
-**Rechtsmittel**
+**Grundsätze**
 
-<sup>1</sup> Beschwerden gegen Verfügungen der Zivilstandsbeamtinnen und Zivilstandsbeamten sowie der Aufsichtsbehörde werden durch die Polizei- und Militärdirektion beurteilt.
+<sup>1</sup> Die Bürgerregister und Burgerrodel, die sich im Besitz des Zivilstandsamts befinden, bilden unter Vorbehalt von Absatz 2 einen integrierenden Bestandteil der Zivilstandsregister, erbringen für darin enthaltende Personenstandsdaten volle Beweiskraft und sind Eigentum des Kantons.
 
-<sup>2</sup> Das Amt für Migration und Personenstand (Zivilstands- und Bürgerrechtsdienst) wird im Beschwerdefall bei Verfügungen der Zivilstandsbeamtinnen und Zivilstandsbeamten angehört.
+<sup>2</sup> Die parallel zu anderen Registern geführten Burgerrodel, die sich im Besitz des Zivilstandsamts befinden, bilden keinen Bestandteil des Zivilstandsregisters und gelten nach Ablauf der Schutzfrist als kantonales Archivgut.
 
-## 11 Schlussbestimmungen
+<sup>3</sup> Die Zivilstandsämter gewähren den Organen der Burgergemeinden kostenfrei Einsicht in die dem Zivilstandsamt abgelieferten Burgerrodel.
 
 #### Art. 26
 
-**Aufhebung eines Erlasses**
+**Auszüge aus den dem Zivilstandsamt nicht abgelieferten Burgerrodeln vor 1929**
 
-<sup>1</sup> Die Verordnung vom 27. Oktober 2004 über das Zivilstandswesen (Zivilstandsverordnung, ZV) (BSG 212.121) wird aufgehoben.
+<sup>1</sup> Die Behörde, die im Besitz von vor dem 1. Januar 1929 eröffneten und dem Zivilstandsamt nicht abgelieferten Burgerrodeln ist, erstellt auf Anfrage Auszüge daraus, wenn durch die Gemeinde keine Bürgerregister geführt wurden oder die Personenstandsdaten nicht im Familienregister geführt sind.
+
+<sup>2</sup> Auszüge an die Zivilstandsämter erfolgen kostenfrei.
 
 #### Art. 27
 
+**Kennzeichnung des Burgerrechts im Personenstandsregister**
+
+<sup>1</sup> Ein bernisches Burgerrecht wird gestützt auf einen entsprechenden Eintrag in den Registern der Burgergemeinden im Personenstandsregister gekennzeichnet.
+
+## 8 Datenschutz
+
+#### Art. 28
+
+<sup>1</sup> Die kantonale Aufsichtsbehörde im Zivilstandswesen, die Zivilstandsämter und die Namensänderungsbehörde können zur Datenbearbeitung in ihrem Aufgabenbereich elektronische Datenbearbeitungssysteme betreiben.
+
+<sup>2</sup> Die Zugriffsrechte der Mitarbeiterinnen und Mitarbeiter der kantonalen Aufsichtsbehörde im Zivilstandswesen, der Zivilstandsämter und der Namensänderungsbehörde auf die kantonalen elektronischen Datenbearbeitungssysteme beschränken sich auf ihren Aufgabenbereich.
+
+<sup>3</sup> Die Datenbearbeitung, -aufbewahrung und -vernichtung in den elektronischen Datenbearbeitungssystemen richten sich nach dem Datenschutzgesetz vom 19. Februar 1986 (KDSG)[^28-1].
+
+[^28-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
+
+## 9 Schlussbestimmungen
+
+#### Art. 29
+
+**Änderung von Erlassen**
+
+<sup>1</sup> Folgende Erlasse werden geändert:
+
+- 1\. Verordnung vom 20. September 2017 über das Kantons- und Gemeindebürgerrecht (Kantonale Bürgerrechtsverordnung, KBüV)[^29-1],
+- 2\. Einführungsverordnung vom 9. Dezember 2015 zur eidgenössischen Epidemiengesetzgebung (EV EpG)[^29-2].
+
+[^29-1]: BSG [121.111](https://www.belex.sites.be.ch/data/121.111/de)
+[^29-2]: BSG [815.122](https://www.belex.sites.be.ch/data/815.122/de)
+
+#### Art. 30
+
+**Aufhebung eines Erlasses**
+
+<sup>1</sup> Die Verordnung vom 3. Juni 2009 über das Zivilstandswesen (ZV)[^30-1] wird aufgehoben.
+
+[^30-1]: BSG [212.121](https://www.belex.sites.be.ch/data/212.121/de)
+
+#### Art. 31
+
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 2010 in Kraft.
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2022 in Kraft.
 
-## A1 Anhang 1: Umschreibung der Zivilstandskreise und Bezeichnung der Amtssitze (Art. 1)
-
-#### Art. A1-1
-
-<sup>1</sup>
-
-<table>
-<tr><th>Nr.</th><th>Name des Kreises</th><th>Gebietsumschreibung des Kreises</th><th>Amtssitz des Zivilstandsamtes</th></tr>
-<tr><td>1.</td><td>Berner Jura</td><td>alle politischen Gemeinden des Verwaltungskreises Berner Jura</td><td>Courtelary</td></tr>
-<tr><td>2.</td><td>Seeland</td><td>alle politischen Gemeinden der Verwaltungskreise Biel/Bienne und Seeland</td><td>Biel</td></tr>
-<tr><td>3.</td><td>Emmental</td><td>alle politischen Gemeinden des Verwaltungskreises Emmental</td><td>Langnau im Emmental</td></tr>
-<tr><td>4.</td><td>Oberaargau</td><td>alle politischen Gemeinden des Verwaltungskreises Oberaargau</td><td>Langenthal</td></tr>
-<tr><td>5.</td><td>Bern-Mittelland</td><td>alle politischen Gemeinden des Verwaltungskreises Bern-Mittelland</td><td>Bern</td></tr>
-<tr><td>6.</td><td>Oberland West</td><td>alle politischen Gemeinden der Verwaltungskreise Thun, Obersimmental-Saanen, Frutigen-Niedersimmental</td><td>Thun</td></tr>
-<tr><td>7.</td><td>Oberland Ost</td><td>alle politischen Gemeinden des Verwaltungskreises Interlaken-Oberhasli</td><td>Interlaken</td></tr>
-</table>
-
-Bern, 3. Juni 2009
+Bern, 3. November 2021
 
 Im Namen des Regierungsrates
 
-Der Präsident: Käser
+Die Präsidentin: Simon
 
-Der Staatsschreiber: Nuspliger
+Der Staatsschreiber: Auer
 
-Vom Eidgenössischen Justiz- und Polizeidepartement am 19. Oktober 2009 genehmigt
+Vom Eidgenössischen Justiz- und Polizeidepartement am 2. Dezember 2021 genehmigt.
 
-09-68
+21-101
