@@ -4,13 +4,13 @@ number: "411.211"
 title: Verordnung über die Anstellung und Löhne der Lehrpersonen
 short: VALL
 language: de
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2020-02-19
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-04-07
 adopted: 2004-10-13
 in_force: 2005-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/411.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2971/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3066/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2971/pdf_file"
 
 (VALL)
 
-Vom 13.10.2004 (Stand 01.08.2021)
+Vom 13.10.2004 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -138,11 +138,7 @@ beschliesst:
 
 #### § 8
 
-**c) Schulpflegen und Kreisschulpflegen; Schulleitungen an der Volksschule**
-
-<sup>1</sup> Die Schulpflegen und Kreisschulpflegen stellen die Mitglieder der Schulleitung und die Lehrpersonen ihrer Schule an. Vorbehalten bleiben die besonderen Zuständigkeitsregelungen in den Satzungen der Sprachheilverbände.
-
-<sup>2</sup> Die Schulpflegen und Kreisschulpflegen können die Anstellung der Lehrpersonen, sofern es sich um befristete Anstellungen handelt, sowie weitere Kompetenzen im Sinne von § 4 lit. b–d dieser Verordnung an die Schulleitung delegieren. Vorbehalten bleiben Entscheidungen, die mit einem ordentlichen Rechtsmittel angefochten werden können.
+**…**
 
 ## 3. Begründung des Anstellungsverhältnisses
 
@@ -362,7 +358,7 @@ beschliesst:
 
 <sup>2</sup> Legasthenietherapeutinnen und -therapeuten behandeln grundsätzlich schulpflichtige Kinder, die in der geschriebenen Sprache beeinträchtigt sind.
 
-<sup>3</sup> Die Sprachheilfachpersonen beraten und unterstützen Eltern und Lehrpersonen bei fachlichen Fragestellungen, pflegen die interdisziplinäre Zusammenarbeit, leisten Informationsarbeit, führen im Auftrag der Schulpflege Abklärungen und Kontrollen durch und bilden sich regelmässig fachlich und methodisch weiter.
+<sup>3</sup> Die Sprachheilfachpersonen beraten und unterstützen Eltern und Lehrpersonen bei fachlichen Fragestellungen, pflegen die interdisziplinäre Zusammenarbeit, leisten Informationsarbeit, führen im Auftrag des Gemeinderats Abklärungen und Kontrollen durch und bilden sich regelmässig fachlich und methodisch weiter.
 
 <sup>4</sup> Behandlungen, Abklärungen und Kontrollen erfolgen im Rahmen der im Pensenplan festgelegten Unterrichtslektionen.
 
@@ -425,7 +421,7 @@ beschliesst:
 - j) Schülerinnen- und schülerbezogene Zusammenarbeit mit Fachpersonen,
 - k) Reflektieren und Weiterentwickeln der eigenen Tätigkeit.
 
-<sup>2</sup> Die Schulleitung teilt die zu erteilenden Lektionen im Rahmen der verfügbaren Ressourcen der Schule und des vertraglich festgelegten Beschäftigungsgrads individuell zu und berücksichtigt dabei die konkrete Belastungssituation der einzelnen Lehrperson im Berufsfeld "Unterricht" sowie deren Einsatz im Berufsfeld "Schule". Die im Pensenplan gemäss Anhang I verankerten Lektionen gelten dabei als Richtwerte.
+<sup>2</sup> Die Schulleitung teilt die zu erteilenden Lektionen im Rahmen der verfügbaren Ressourcen der Schule und des vertraglich festgelegten Beschäftigungsgrads individuell zu und berücksichtigt dabei die konkrete Belastungssituation der einzelnen Lehrperson im Berufsfeld "Unterricht und Klasse" sowie deren Einsatz in den übrigen Berufsfeldern. Die im Pensenplan gemäss Anhang 1 verankerten Lektionen gelten dabei als Richtwerte.
 
 <sup>3</sup> …
 
@@ -570,11 +566,13 @@ beschliesst:
 
 **Festlegung des Lohns a) Anfangslohn**
 
-<sup>1</sup> Der Anfangslohn der Lehrpersonen wird nach den Vorgaben des Dekrets über die Löhne der Lehrpersonen (Lohndekret Lehrpersonen, LDLP) vom 24. August 2004[^44-1] durch Verfügung der Anstellungsbehörde festgelegt.
+<sup>1</sup> Der Anfangslohn der Lehrpersonen wird nach den Vorgaben des Dekrets über die Löhne der Lehrpersonen (Lohndekret Lehrpersonen, LDLP) vom 24. August 2004[^44-1] und nach den Weisungen des Departements Bildung, Kultur und Sport (BKS) durch Entscheid der Anstellungsbehörde festgelegt. Das BKS kann im Rahmen von personalrechtlichen Verfahren anstelle der Anstellungsbehörde entscheiden.
 
-<sup>2</sup> Die Anstellungsbehörde kann nach Absprache mit dem Departement Bildung, Kultur und Sport bei Lehrpersonen, die nach einem Unterbruch von mindestens zehn Jahren wieder oder erst nach vollendetem 35. Altersjahr in den Lehrberuf einsteigen, die anrechenbaren Praxisjahre individuell festlegen, wenn die frühere Berufs- und Lebenserfahrung auf Grund einer Gesamtbetrachtung für die Lehrtätigkeit von geringer Bedeutung erscheint. Dies gilt nicht für Berufsunterbrüche wegen Familienarbeit.
+<sup>2</sup> Die für die jeweilige Funktion relevanten, gerundeten Erfahrungsjahre werden mit einem Gewichtungsfaktor gemäss Anhang 2 multipliziert und bestimmen die individuelle Zuordnung zu einer Erfahrungsstufe des Normverlaufs gemäss § 6 Abs. 2 LDLP. Die Unterrichtserfahrung, die funktionsspezifische schulische und für die Lehrtätigkeit relevante berufliche Erfahrung sowie die Schulleitungserfahrung müssen schriftlich belegt sein.
 
-<sup>3</sup> Nach spätestens 5 Jahren sind die beim Anfangslohn gekürzten Praxisjahre gemäss LDLP Anhang III zu korrigieren.
+<sup>3</sup> Unterrichtserfahrungen werden nur angerechnet, wenn sie im Rahmen eines Beschäftigungsgrads von mindestens 30 % an einer öffentlichen Schule oder an einer staatlich anerkannten Privatschule in der Schweiz oder im Ausland gemacht wurden. Das Unterrichten an Volkshochschulen oder im Erwachsenenbereich wird nicht angerechnet.
+
+<sup>4</sup> Berufs- und Schulleitungserfahrungen werden nur angerechnet, wenn sie im Rahmen eines Beschäftigungsgrads von mindestens 30 % gemacht wurden.
 
 [^44-1]: SAR [411.210](https://gesetzessammlungen.ag.ch/data/411.210/de)
 
@@ -585,14 +583,12 @@ beschliesst:
 <sup>1</sup> Massgebend für die Lohnentwicklung innerhalb des Erfahrungsanteils sind:
 
 - a) die für die Erfahrungshonorierung verfügbare Lohnsumme;
-- b) die Entwicklungsphase mit der jeweilig zugeordneten Punktzahl gemäss § 6 Abs. 2 LDLP;
+- b) die individuelle Zuordnung zu einer Zone der Normalkurve gemäss § 6 Abs. 2 LDLP;
 - c) das pflichtgemässe Ermessen der Anstellungsbehörde in den Fällen von § 46 dieser Verordnung.
 
 #### § 45a
 
-**c) Lohnstufen der Schulleitungen**
-
-<sup>1</sup> Das Departement Bildung, Kultur und Sport kann bei der Zuteilung der Lohnstufen der Schulleitungen korrigierend eingreifen, wenn sich bei der Einreihung der Löhne im Vergleich zu den anderen Schulen mit ähnlichen Strukturen und Schulleitungsmodellen wesentliche Differenzen ergeben.
+**…**
 
 #### § 46
 
