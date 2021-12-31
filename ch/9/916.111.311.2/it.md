@@ -3,18 +3,18 @@ sr: "916.111.311.2"
 title: "Ordinanza del 21 dicembre 1988 per l'applicazione della Convenzione concernente l'aiuto alimentare dell'Accordo internazionale sul grano del 1986"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/72_72_72"
 language: it
-version: 2013-01-01
+version: 2022-01-01
 adopted: 1988-12-21
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/72_72_72/20130101/it/xml/fedlex-data-admin-ch-eli-cc-1989-72_72_72-20130101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/72_72_72/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/72_72_72/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1989-72_72_72-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/72_72_72/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza per l’applicazione della Convenzione concernente l’aiuto alimentare dell’Accordo internazionale sul grano del 1986****
+# Ordinanza per l’applicazione della Convenzione concernente l’aiuto alimentare dell’Accordo internazionale sul grano del 1986
 
-del 21 dicembre 1988 (Stato 1° gennaio 2013)[^t-1]
+del 21 dicembre 1988 (Stato 1° gennaio 2022)[^t-1]
 
 [^t-1]: Ora: Accordo internazionale sul grano del 1995
 
@@ -24,7 +24,7 @@ in esecuzione della Convenzione del 13 marzo 1986[^ingress-1] concernente l’ai
 
 ordina:
 
-[^ingress-1]: [RS 0.916.111.311](https://fedlex.data.admin.ch/eli/cc/1996/2642_2642_2642)
+[^ingress-1]: [RS 0.916.111.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4035)
 
 #### Art. 1
 
@@ -39,16 +39,18 @@ Per il resto sono incaricati dell’applicazione e dell’esecuzione della Conve
 - a. la Direzione della cooperazione allo sviluppo e dell’aiuto umanitario del Dipartimento federale degli affari esteri;
 - b. Ufficio federale dell’agricoltura del Dipartimento federale dell’economia, della formazione e della ricerca.[^1-4]
 
-[^1-1]: [RS 0.916.111.311](https://fedlex.data.admin.ch/eli/cc/1996/2642_2642_2642)
-[^1-2]: [RS 974.01](https://fedlex.data.admin.ch/eli/cc/1978/25_25_25)
-[^1-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° giu. 1993. Di detta mod. è tenuto conto in tutto il presente testo.
-[^1-4]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2013.
+[^1-1]: [RS 0.916.111.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4035)
+[^1-2]: [RS 974.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11702)
+[^1-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° giu. 1993. Di detta mod. è tenuto conto in tutto il presente testo.
+[^1-4]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2013.
 
 #### Art. 2
 
-**Mezzi finanziari**
+**Mezzi finanziari**[^2-1]
 
-I mezzi necessari per l’applicazione della Convenzione sono iscritti nel preventivo del Dipartimento federale degli affari esteri e addebitati al credito quadro per la prosecuzione dell’aiuto internazionale umanitario della Confederazione.
+I mezzi necessari per l’applicazione della Convenzione sono iscritti nel preventivo del Dipartimento federale degli affari esteri e addebitati al credito d’impegno per la prosecuzione dell’aiuto internazionale umanitario della Confederazione
+
+[^2-1]: Nuovo testo giusta l’all. n. 6 dell’O del 10 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 3
 
@@ -58,7 +60,7 @@ I mezzi necessari per l’applicazione della Convenzione sono iscritti nel preve
 
 <sup>2</sup> Le competenze finanziarie sono regolate dall’articolo 16 capoverso 2 e dall’allegato 2 dell’ordinanza del 12 dicembre 1977[^3-1] su la cooperazione allo sviluppo e l’aiuto umanitario internazionali.
 
-[^3-1]: [RS 974.01](https://fedlex.data.admin.ch/eli/cc/1978/25_25_25)
+[^3-1]: [RS 974.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11702)
 
 #### Art. 4
 

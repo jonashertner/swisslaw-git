@@ -3,18 +3,18 @@ sr: "916.111.311.2"
 title: Verordnung vom 21. Dezember 1988 über die Anwendung des Übereinkommens betreffend Nahrungsmittelhilfe des Internationalen Weizenabkommens von 1986
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/72_72_72"
 language: de
-version: 2013-01-01
+version: 2022-01-01
 adopted: 1988-12-21
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/72_72_72/20130101/de/xml/fedlex-data-admin-ch-eli-cc-1989-72_72_72-20130101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/72_72_72/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/72_72_72/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1989-72_72_72-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/72_72_72/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über die Anwendung des Übereinkommens betreffend Nahrungsmittelhilfe des Internationalen Weizenabkommens von 1986****
+# Verordnung über die Anwendung des Übereinkommens betreffend Nahrungsmittelhilfe des Internationalen Weizenabkommens von 1986
 
-vom 21. Dezember 1988 (Stand am 1. Januar 2013)[^t-1]
+vom 21. Dezember 1988 (Stand am 1. Januar 2022)[^t-1]
 
 [^t-1]: Heute: des Internationalen Getreideabkommens von 1995
 
@@ -24,7 +24,7 @@ in Ausführung des Übereinkommens vom 13. März 1986[^ingress-1] betreffend Nah
 
 verordnet:
 
-[^ingress-1]: [AS **1987** 1362, [1994 357](https://fedlex.data.admin.ch/eli/oc/1994/357_357_357). [AS 1996 2642](https://fedlex.data.admin.ch/eli/oc/1996/2642_2642_2642)]. Siehe heute: das Internationales Getreide-Abkommen von 1995 ([SR 0.916.111.311](https://fedlex.data.admin.ch/eli/cc/1996/2642_2642_2642)).
+[^ingress-1]: [AS **1987** 1362, [1994 357](https://fedlex.data.admin.ch/eli/oc/1994/357_357_357). [AS 1996 2642](https://fedlex.data.admin.ch/eli/oc/1996/2642_2642_2642)]. Siehe heute: das Internationales Getreide-Abkommen von 1995 ([SR 0.916.111.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4035)).
 
 #### Art. 1
 
@@ -39,16 +39,18 @@ Im übrigen werden mit der Anwendung und dem Vollzug des Übereinkommens beauftr
 - a. die Direktion für Entwicklungszusammenarbeit und humanitäre Hilfe des Eidgenössischen Departementes für auswärtige Angelegenheiten;
 - b. das Bundesamt für Landwirtschaft des Eidgenössischen Departements für Wirtschaft, Bildung und Forschung[^1-4].
 
-[^1-1]: [AS **1987** 1362, [1994 357](https://fedlex.data.admin.ch/eli/oc/1994/357_357_357). [AS 1996 2642](https://fedlex.data.admin.ch/eli/oc/1996/2642_2642_2642)]. Siehe heute: das Internationales Getreide-Abkommen von 1995 ([SR 0.916.111.311](https://fedlex.data.admin.ch/eli/cc/1996/2642_2642_2642)).
-[^1-2]: [SR 974.01](https://fedlex.data.admin.ch/eli/cc/1978/25_25_25)
-[^1-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Juni 1993 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
-[^1-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2013 angepasst.
+[^1-1]: [AS **1987** 1362, [1994 357](https://fedlex.data.admin.ch/eli/oc/1994/357_357_357). [AS 1996 2642](https://fedlex.data.admin.ch/eli/oc/1996/2642_2642_2642)]. Siehe heute: das Internationales Getreide-Abkommen von 1995 ([SR 0.916.111.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4035)).
+[^1-2]: [SR 974.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11702)
+[^1-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Juni 1993 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^1-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2013 angepasst.
 
 #### Art. 2
 
-**Finanzielle Mittel**
+**Finanzielle Mittel**[^2-1]
 
-Die für die Anwendung des Übereinkommens benötigten Mittel werden im Voranschlag beim Eidgenössischen Departement für auswärtige Angelegenheiten eingesetzt und dem Rahmenkredit für die Weiterführung der internationalen humanitären Hilfe der Eidgenossenschaft belastet.
+Die für die Anwendung des Übereinkommens benötigten Mittel werden im Voranschlag beim Eidgenössischen Departement für auswärtige Angelegenheiten eingesetzt und dem Verpflichtungskredit für die Weiterführung der internationalen humanitären Hilfe der Eidgenossenschaft belastet.
+
+[^2-1]: Fassung gemäss Anhang Ziff. 6 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 3
 
@@ -58,7 +60,7 @@ Die für die Anwendung des Übereinkommens benötigten Mittel werden im Voransch
 
 <sup>2</sup> Die Finanzkompetenzen richten sich nach Artikel 16 Absatz 2 und Anhang 2 der Verordnung vom 12. Dezember 1977[^3-1] über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe.
 
-[^3-1]: [SR 974.01](https://fedlex.data.admin.ch/eli/cc/1978/25_25_25)
+[^3-1]: [SR 974.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11702)
 
 #### Art. 4
 
@@ -80,4 +82,4 @@ Das Bundesamt für Landwirtschaft erstattet im Einvernehmen mit der Direktion f�
 
 <sup>2</sup> Diese Verordnung tritt am 1. Januar 1989 in Kraft.
 
-[^6-1]: [[AS 1972 239](https://fedlex.data.admin.ch/eli/oc/1972/239_243_243), AS **1983** 1555]
+[^6-1]: [[AS 1972 239](https://fedlex.data.admin.ch/eli/oc/1972/239_243_243); **1983** 1555]
