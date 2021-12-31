@@ -3,20 +3,20 @@ canton: BE
 number: "172.121"
 title: "Arrêté du Conseil-exécutif concernant l'orthographe officielle des noms des communes"
 language: fr
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-16
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-10-20
 adopted: 1956-02-07
 in_force: 1956-02-07
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/172.121"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2103/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2417/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Arrêté du Conseil-exécutif concernant l'orthographe officielle des noms des communes
 
-du 07.02.1956 (état au 01.01.2021)
+du 07.02.1956 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -63,7 +63,7 @@ arrête:
 - l District d'Interlaken: Beatenberg, Bönigen [Bönigen bei Interlaken], Brienz (BE), Brienzwiler, Därligen, Grindelwald, Gsteigwiler, Gündlischwand, Habkern, Hofstetten bei Brienz, Interlaken, Iseltwald, Lauterbrunnen, Leissigen, Lütschental, Matten bei Interlaken, Niederried bei Interlaken, Oberried am Brienzersee, Ringgenberg (BE), Saxeten, Schwanden bei Brienz, Unterseen, Wilderswil.
 - m District de Konolfingen: Allmendingen, Arni (BE) [Arni bei Biglen], Biglen, Bowil, Brenzikofen, Freimettigen, Grosshöchstetten, Häutligen, Herbligen, Kiesen, Konolfingen, Landiswil, Linden [Linden bei Oberdiessbach], Mirchel, Münsingen, Niederhünigen, Oberdiessbach, Oberthal, Oberhünigen, Oppligen, Rubigen, Walkringen, Wichtrach, Worb, Zäziwil.
 - n
-- o District de Laupen: Clavaleyres, Ferenbalm, Frauenkappelen, Gurbrü, Kriechenwil, Laupen [Laupen (BE)], Mühleberg, Münchenwiler, Neuenegg, Wileroltigen.
+- o District de Laupen: Ferenbalm, Frauenkappelen, Gurbrü, Kriechenwil, Laupen [Laupen (BE)], Mühleberg, Münchenwiler, Neuenegg, Wileroltigen.
 - p District de Moutier: Belprahon f., Champoz f., Corcelles (BE) f., Court f., Crémines f., Eschert f., Grandval f., Loveresse f., Moutier f., Perrefitte f., Petit-Val f., Rebévelier f., Reconvilier f., Roches (BE) f., Saicourt f., Saules (BE) f., Schelten, Seehof, Sorvilier f., Tavannes f., Valbirse f.
 - q District de La Neuveville: La Neuveville f., Nods f., Plateau de Diesse.
 - r District de Nidau: Aegerten, Bellmund, Brügg [Brügg bei Biel], Bühl [Bühl bei Aarberg], Epsach, Hagneck, Hermrigen, Jens, Ipsach, Ligerz, Merzligen, Mörigen, Nidau, Orpund, Port, Safnern, Scheuren, Schwadernau, Studen (BE), Sutz-Lattrigen, Täuffelen, Twann-Tüscherz, Walperswil, Worben.
