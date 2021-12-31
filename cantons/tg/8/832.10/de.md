@@ -4,13 +4,13 @@ number: "832.10"
 title: Verordnung des Regierungsrates zum Gesetz über die Krankenversicherung
 short: TG KVV
 language: de
-version: 2021-10-01
-valid_until: 2021-12-31
-version_adopted: 2021-10-05
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-07
 adopted: 2011-12-20
 in_force: 2012-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/832.10"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1915/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2280/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ TG KVV
 
 (TG KVV)
 
-vom 20.12.2011 (Stand 01.10.2021)
+vom 20.12.2011 (Stand 01.01.2022)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -29,7 +29,7 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 **Inhalt**
 
-<sup>1</sup> Diese Verordnung regelt den Vollzug des Bundesgesetzes über die Krankenversicherung vom 18. März 1994 (KVG)[^1-1] sowie des Gesetzes über die Krankenversicherung vom 25. Oktober 1995 (TG KVG)[^1-2].
+<sup>1</sup> Diese Verordnung regelt den Vollzug des Bundesgesetzes über die Krankenversicherung (KVG)[^1-1] sowie des Gesetzes über die Krankenversicherung (TG KVG)[^1-2].
 
 [^1-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
 [^1-2]: RB [832.1](https://www.rechtsbuch.tg.ch/data/832.1/de)
@@ -46,7 +46,7 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 <sup>4</sup> Das Departement beauftragt die kantonale Ausgleichskasse auf der Grundlage von Leistungsvereinbarungen mit Vollzugsaufgaben in den Bereichen Prämienverbilligung, Pflegefinanzierung und Versicherungspflicht.
 
-<sup>5</sup> Das Departement beauftragt die kantonale Dienststelle für Statistik auf der Grundlage einer Leistungsvereinbarung mit der Bearbeitung von Daten der Leistungserbringer gemäss Artikel 59a KVG.
+<sup>5</sup> Das Departement beauftragt die kantonale Dienststelle für Statistik auf der Grundlage einer Leistungsvereinbarung mit der Bearbeitung von Daten der Leistungserbringer gemäss Art. 59a KVG.
 
 ## 2. Versicherungspflicht
 
@@ -60,20 +60,20 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 **Zuständige kantonale Behörde**
 
-<sup>1</sup> Das Departement bestimmt die zuständige kantonale Behörde sowie die Revisionsstelle gemäss Artikel 64a KVG.
+<sup>1</sup> Das Departement bestimmt die zuständige kantonale Behörde sowie die Revisionsstelle gemäss Art. 64a KVG.
 
 #### § 5
 
 **Verlustscheine und gleichwertige Rechtstitel**
 
-<sup>1</sup> Als Verlustscheine und einem Verlustschein gleichwertige Rechtstitel im Sinne von Artikel 64a KVG gelten:
+<sup>1</sup> Als Verlustscheine und einem Verlustschein gleichwertige Rechtstitel im Sinne von Art. 64a KVG gelten:
 
-- 1\. definitiver Verlustschein nach Artikel 149 beziehungsweise 265 des Bundesgesetzes über Schuldbetreibung und Konkurs (SchKG)[^5-1];
-- 2\. Pfändungsurkunde nach Artikel 115 Absatz 1 SchKG, wenn kein pfändbares Vermögen vorhanden ist, und nach Artikel 115 Absatz 2 SchKG (provisorischer Verlustschein);
-- 3\. SchKG-Urkunde oder Auszug des Schweizerischen Handelsamtsblattes nach der Durchführung einer konkursamtlichen Liquidation einer Erbschaft gemäss Artikel 193 SchKG;
-- 4\. behördliche Insolvenzbestätigung aus Ländern der Europäischen Union, Island und Norwegen;
-- 5\. behördliche Bestätigung betreffend Ausschlagung der Erbschaft;
-- 6\. Verfügung betreffend Einstellung des Konkursverfahrens mangels Aktiven gemäss Artikel 230 SchKG.
+- 1\. definitiver Verlustschein nach Art. 149 beziehungsweise Art. 265 des Bundesgesetzes über Schuldbetreibung und Konkurs (SchKG)[^5-1]
+- 2\. Pfändungsurkunde nach Art. 115 Abs. 1 SchKG, wenn kein pfändbares Vermögen vorhanden ist, und nach Art. 115 Abs. 2 SchKG (provisorischer Verlustschein)
+- 3\. SchKG-Urkunde oder Auszug des Schweizerischen Handelsamtsblattes nach der Durchführung einer konkursamtlichen Liquidation einer Erbschaft gemäss Art. 193 SchKG
+- 4\. behördliche Insolvenzbestätigung aus Ländern der Europäischen Union, Island und Norwegen
+- 5\. behördliche Bestätigung betreffend Ausschlagung der Erbschaft
+- 6\. Verfügung betreffend Einstellung des Konkursverfahrens mangels Aktiven gemäss Art. 230 SchKG
 
 [^5-1]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
 
@@ -83,15 +83,15 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 <sup>1</sup> Die Wohnsitz- oder Aufenthaltsgemeinde des Versicherten übernimmt nach Massgabe des KVG die in der Schlussabrechnung des Versicherers ausgewiesenen Forderungen aus der obligatorischen Krankenpflegeversicherung, die zur Ausstellung eines Verlustscheins geführt haben.
 
-<sup>2</sup> Rückvergütungen gemäss Artikel 64a Absatz 5 KVG werden Gemeinden erstattet, die Forderungen gemäss Absatz 1 übernommen haben.
+<sup>2</sup> Rückvergütungen gemäss Art. 64a Abs. 5 KVG werden Gemeinden erstattet, die Forderungen gemäss Abs. 1 übernommen haben.
 
-<sup>3</sup> Die Wohnsitz- oder Aufenthaltsgemeinde, die Forderungen gemäss Absatz 1 übernommen hat, hat gegenüber früheren Wohnsitz- und Aufenthaltsgemeinden im Kanton das Rückgriffsrecht anteilmässig für dort entstandene Forderungen, die in den Verlustscheinen und gleichwertigen Rechtstiteln zusammengefasst wurden. Rückvergütungen gemäss Absatz 2 sind anteilmässig zurückzuerstatten.
+<sup>3</sup> Die Wohnsitz- oder Aufenthaltsgemeinde, die Forderungen gemäss Abs. 1 übernommen hat, hat gegenüber früheren Wohnsitz- und Aufenthaltsgemeinden im Kanton das Rückgriffsrecht anteilmässig für dort entstandene Forderungen, die in den Verlustscheinen und gleichwertigen Rechtstiteln zusammengefasst wurden. Rückvergütungen gemäss Abs. 2 sind anteilmässig zurückzuerstatten.
 
 #### § 7
 
 **Rückgriffsrecht, Rückerstattung von übernommenen Ausständen**
 
-<sup>1</sup> Übernimmt die Wohnsitz- oder Aufenthaltsgemeinde die gesamten ausstehenden Prämienrückstände, Kostenbeteiligungen, Verzugszinsen und Betreibungskosten, hat sie gegenüber früheren Wohnsitz- und Aufenthaltsgemeinden im Kanton das Rückgriffsrecht für dort entstandene Prämienrückstände und Kostenbeteiligungen, abzüglich die bezogenen Entschädigungen gemäss § 8 Absatz 2.
+<sup>1</sup> Übernimmt die Wohnsitz- oder Aufenthaltsgemeinde die gesamten ausstehenden Prämienrückstände, Kostenbeteiligungen, Verzugszinsen und Betreibungskosten, hat sie gegenüber früheren Wohnsitz- und Aufenthaltsgemeinden im Kanton das Rückgriffsrecht für dort entstandene Prämienrückstände und Kostenbeteiligungen, abzüglich die bezogenen Entschädigungen gemäss § 8 Abs. 2.
 
 <sup>2</sup> Von der Gemeinde übernommene Ausstände sind vom Versicherten zurückzuerstatten.
 
@@ -101,7 +101,7 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 <sup>1</sup> Zur Abgeltung der von den Gemeinden übernommenen Ausstände von Versicherten wird aus den Mitteln der Prämienverbilligung ein vom Regierungsrat jährlich festzulegender Betrag zur Verfügung gestellt. An die Beiträge der Gemeinden für Verlustscheine und gleichwertige Rechtstitel aus Vorjahren erfolgt keine Mitfinanzierung.
 
-<sup>2</sup> Liegen die Aufwendungen der Gemeinden über dem Betrag gemäss Absatz 1, werden die Gemeinden für ihre Aufwendungen anteilmässig entschädigt.
+<sup>2</sup> Liegen die Aufwendungen der Gemeinden über dem Betrag gemäss Abs. 1, werden die Gemeinden für ihre Aufwendungen anteilmässig entschädigt.
 
 <sup>3</sup> Die Gemeinden reichen dem Kanton die Abrechnungen der von ihnen im Kalenderjahr übernommenen Aufwendungen bis zum 15. Januar des Folgejahres ein.
 
@@ -109,11 +109,11 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 **Liste der säumigen Prämienzahler**
 
-<sup>1</sup> Der Kanton führt eine Liste gemäss Artikel 64a Absatz 7 KVG von volljährigen Personen, die ihrer Prämienpflicht nicht nachkommen. Er betreibt dafür eine elektronische Applikation und macht die Liste den Berechtigten zugänglich.
+<sup>1</sup> Der Kanton führt eine Liste gemäss Art. 64a Abs. 7 KVG von volljährigen Personen, die ihrer Prämienpflicht nicht nachkommen. Er betreibt dafür eine elektronische Applikation und macht die Liste den Berechtigten zugänglich.
 
 <sup>2</sup> Zum Zugriff auf die elektronische Applikation berechtigt sind die kantonale Behörde gemäss § 4, die Politischen Gemeinden des Kantons sowie das Amt für Gesundheit und der Datenschutzbeauftragte.
 
-<sup>3</sup> Zur Einsicht in die Liste der säumigen Prämienzahler berechtigt sind die Stellen gemäss Absatz 2 und die zur obligatorischen Krankenpflegeversicherung zugelassenen Leistungserbringer, sofern sie über eine Zahlstellennummer der Versicherer verfügen.
+<sup>3</sup> Zur Einsicht in die Liste der säumigen Prämienzahler berechtigt sind die Stellen gemäss Abs. 2 und die zur obligatorischen Krankenpflegeversicherung zugelassenen Leistungserbringer, sofern sie über eine Zahlstellennummer der Versicherer verfügen.
 
 #### § 10
 
@@ -151,7 +151,7 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 **Ausstand**
 
-<sup>1</sup> Leistungserbringer, die es im Sinne von Artikel 44 Absatz 2 KVG ablehnen, gesetzliche Leistungen zu erbringen, haben dies dem Amt für Gesundheit zu melden.
+<sup>1</sup> Leistungserbringer, die es im Sinne von Art. 44 Abs. 2 KVG ablehnen, gesetzliche Leistungen zu erbringen, haben dies dem Amt für Gesundheit zu melden.
 
 ## 3. Prämienverbilligung
 
@@ -161,13 +161,13 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 <sup>1</sup> Die Prämienverbilligungen betragen:
 
-- 1\. Fr. 2'304 bis zum Steuerbetrag von Fr. 400 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen;
-- 2\. Fr. 1'728 bis zum Steuerbetrag von Fr. 600 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen;
-- 3\. Fr. 1'152 bis zum Steuerbetrag von Fr. 800 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen;
+- 1\. Fr. 2'496 bis zum Steuerbetrag von Fr. 400 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
+- 2\. Fr. 1'872 bis zum Steuerbetrag von Fr. 600 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
+- 3\. Fr. 1'248 bis zum Steuerbetrag von Fr. 800 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
 - 4\. …
-- 5\. Fr. 1'002 für Kinder bis zum Steuerbetrag von Fr. 1'600 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen der Eltern;
-- 6\. Fr. 4'146 für erwachsene Sozialhilfeempfänger;
-- 7\. Fr. 1'002 für Sozialhilfeempfänger bis zum 18. Altersjahr.
+- 5\. Fr. 1'008 für Kinder bis zum Steuerbetrag von Fr. 1'600 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen der Eltern
+- 6\. Fr. 4'488 für erwachsene Sozialhilfeempfänger
+- 7\. Fr. 1'008 für Sozialhilfeempfänger bis zum 18. Altersjahr
 
 #### § 15
 
@@ -177,7 +177,7 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 <sup>2</sup> Lassen sich gestützt auf die definitive Steuerveranlagung, im Falle der Jahresaufenthalter gestützt auf die Tarifkorrektur, verschlechterte wirtschaftliche Verhältnisse nachweisen, kann die versicherte Person spätestens innert 30 Tagen seit Rechtskraft der Schlussrechnung respektive der Tarifkorrektur eine Neubemessung der Prämienverbilligung verlangen. Differenzbeträge von weniger als Fr. 30 werden weder ausbezahlt noch zurückgefordert.
 
-<sup>3</sup> Eine Neubemessung ist ausgeschlossen, wenn der Anspruch gemäss § 9 Absatz 2 des Gesetzes verfallen ist.
+<sup>3</sup> Eine Neubemessung ist ausgeschlossen, wenn der Anspruch gemäss § 9 Abs. 2 des Gesetzes verfallen ist.
 
 #### § 16
 
@@ -227,11 +227,11 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 **Anspruch von Niedergelassenen und Jahresaufenthaltern**
 
-<sup>1</sup> Die Ansprüche von Personen, die Sozialhilfe oder Ergänzungsleistungen zur AHV/IV erhalten, bestehen unabhängig von der Bezugsfrist und der Verwirkungsfrist nach § 9 Absatz 2 des Gesetzes.
+<sup>1</sup> Die Ansprüche von Personen, die Sozialhilfe oder Ergänzungsleistungen zur AHV/IV erhalten, bestehen unabhängig von der Bezugsfrist und der Verwirkungsfrist nach § 9 Abs. 2 des Gesetzes.
 
-<sup>2</sup> Trotz Ablauf der Bezugsfrist und Verwirkungsfrist nach § 9 Absatz 2 des Gesetzes lebt der Anspruch einer versicherten Person unter den Voraussetzungen gemäss § 15 Absatz 2 wieder auf.
+<sup>2</sup> Trotz Ablauf der Bezugsfrist und Verwirkungsfrist nach § 9 Abs. 2 des Gesetzes lebt der Anspruch einer versicherten Person unter den Voraussetzungen gemäss § 15 Abs. 2 wieder auf.
 
-<sup>3</sup> Der Anspruch erlischt für die Zeit der Sistierung der Versicherungspflicht gemäss Artikel 3 Absatz 4 KVG. Die Rückforderung richtet sich nach § 12 des Gesetzes.
+<sup>3</sup> Der Anspruch erlischt für die Zeit der Sistierung der Versicherungspflicht gemäss Art. 3 Abs. 4 KVG. Die Rückforderung richtet sich nach § 12 des Gesetzes.
 
 #### § 22
 
@@ -275,7 +275,7 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 **Abgabestelle für Mittel und Gegenstände**
 
-<sup>1</sup> Pflegeheime der Pflegeheimliste sind als Abgabestelle für Mittel und Gegenstände gemäss Artikel 55 der Verordnung über die Krankenversicherung (KVV)[^25a-1] zugelassen.
+<sup>1</sup> Pflegeheime der Pflegeheimliste sind als Abgabestelle für Mittel und Gegenstände gemäss Art. 55 der Verordnung über die Krankenversicherung (KVV)[^25a-1] zugelassen.
 
 [^25a-1]: SR [832.102](https://db.clex.ch/link/Bund/832.102/de)
 
@@ -285,7 +285,7 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 <sup>1</sup> Die Pflegeheime führen eine Leistungserfassung sowie eine Kostenrechnung, welche die Kostenarten, die Kostenstellen und die Kostenträger umfasst. Zur Ermittlung der Kosten für die Anlagenutzung ist eine Anlagebuchhaltung zu führen. Für die Rechnungslegung ist das aktuelle Handbuch des Branchenverbandes Curaviva Schweiz massgebend.
 
-<sup>2</sup> Dem Kostenträger Pflege werden nur Leistungen der stationären Pflege gemäss Artikel 25a Absatz 1 KVG zugeordnet. Akut- und Übergangspflege, Tages- und Nachtstrukturen sowie weitere Leistungen sind als separate Kostenträger zu führen.
+<sup>2</sup> Dem Kostenträger Pflege werden nur Leistungen der stationären Pflege gemäss Art. 25a Abs. 1 KVG zugeordnet. Akut- und Übergangspflege, Tages- und Nachtstrukturen sowie weitere Leistungen sind als separate Kostenträger zu führen.
 
 <sup>3</sup> Das Departement legt ein einheitliches Formular für die Kostenrechnung sowie den anwendbaren Verteilschlüssel für die Abgrenzung der direkten und indirekten Pflegekosten von den nicht anrechenbaren Kosten fest.
 
@@ -297,7 +297,7 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 <sup>2</sup> Der Kanton gliedert sich entlang der direkten Verbindung zwischen den Städten Frauenfeld, Weinfelden und Kreuzlingen in zwei Teile, wobei diese Städte zu beiden Kantonsteilen zählen.
 
-<sup>3</sup> Belegt die versicherte Person mit einem datierten Ausdruck, dass zum Zeitpunkt ihres Entscheides zum Heimeintritt, jedoch höchstens einen Monat vor dem effektiven Heimeintritt, kein Pflegeheimplatz im Kantonsteil ihres Wohnortes verfügbar ist, gelten die Beiträge der Restkostenfinanzierung des Standortkantons des Leistungserbringers gemäss Artikel 25a Absatz 5 KVG.
+<sup>3</sup> Belegt die versicherte Person mit einem datierten Ausdruck, dass zum Zeitpunkt ihres Entscheides zum Heimeintritt, jedoch höchstens einen Monat vor dem effektiven Heimeintritt, kein Pflegeheimplatz im Kantonsteil ihres Wohnortes verfügbar ist, gelten die Beiträge der Restkostenfinanzierung des Standortkantons des Leistungserbringers gemäss Art. 25a Abs. 5 KVG.
 
 #### § 26b
 
@@ -305,8 +305,8 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 <sup>1</sup> Von einer Ärztin oder einem Arzt mit Weiterbildung in Palliativmedizin verschriebene Aufenthalte in einem Hospiz gemäss Pflegeheimliste des Standortkantons werden wie folgt abgegolten:
 
-- 1\. Betrag in Höhe der Beiträge des Standortkantons an die Pflegerestkosten gemäss Art. 25a KVG inklusive allfälliger Zuschläge pro Pflegetag;
-- 2\. Beitrag von Fr. 97 pro Tag an die Betreuungs- und Vorhalteleistungen.
+- 1\. Betrag in Höhe der Beiträge des Standortkantons an die Pflegerestkosten gemäss Art. 25a KVG inklusive allfälliger Zuschläge pro Pflegetag
+- 2\. Beitrag von Fr. 97 pro Tag an die Betreuungs- und Vorhalteleistungen
 
 <sup>2</sup> Die Abgeltung erfolgt jeweils nach schriftlicher Geltendmachung direkt an das Sterbehospiz.
 
@@ -322,7 +322,7 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 <sup>1</sup> Die Pflegeheime sind verpflichtet, die für die Festlegung der Normkostenbeiträge und die Vergleichbarkeit der Heime notwendigen Daten kostenlos bekannt zu geben.
 
-<sup>2</sup> Die Pflegeheime stellen dem Amt für Gesundheit und der Dienststelle für Statistik die Daten gemäss Artikel 59a KVG vollständig, fristgerecht und kostenlos zur Verfügung. Das Amt für Gesundheit erlässt Vorgaben zu Inhalt, Form und Terminen der Datenlieferungen. Die Kostenrechnung ist bis am 30. April des dem Geschäftsjahr folgenden Jahres dem Amt für Gesundheit einzureichen.
+<sup>2</sup> Die Pflegeheime stellen dem Amt für Gesundheit und der Dienststelle für Statistik die Daten gemäss Art. 59a KVG vollständig, fristgerecht und kostenlos zur Verfügung. Das Amt für Gesundheit erlässt Vorgaben zu Inhalt, Form und Terminen der Datenlieferungen. Die Kostenrechnung ist bis am 30. April des dem Geschäftsjahr folgenden Jahres dem Amt für Gesundheit einzureichen.
 
 <sup>3</sup> Auf Anfrage sind dem Amt für Gesundheit weitere Daten, wie Bilanz und Erfolgsrechnung, zur Überprüfung der Kostenrechnung und Kostenentwicklung sowie der wirtschaftlichen und effizienten Leistungserbringung in der erforderlichen Qualität bekannt zu geben.
 
@@ -332,7 +332,7 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 **Datenbearbeitung und Datenveröffentlichung**
 
-<sup>1</sup> Das Amt für Gesundheit und die Dienststelle für Statistik dürfen betriebsbezogene Daten und Daten nach Artikel 59a KVG bearbeiten und veröffentlichen. Veröffentlichte Daten dürfen keine Rückschlüsse auf natürliche Personen zulassen.
+<sup>1</sup> Das Amt für Gesundheit und die Dienststelle für Statistik dürfen betriebsbezogene Daten und Daten nach Art. 59a KVG bearbeiten und veröffentlichen. Veröffentlichte Daten dürfen keine Rückschlüsse auf natürliche Personen zulassen.
 
 <sup>2</sup> Es können insbesondere Daten über den Rechtsträger, die Rechtsform, das Leistungsangebot, die Pflegeleistungen, die Kosten der Pflege- und Betreuungsleistungen sowie der Hotellerie und das Verhältnis zwischen Fach- und Verwaltungspersonal sowie übrigem Personal veröffentlicht werden.
 
@@ -348,11 +348,11 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 <sup>1</sup> Für spezialisierte Leistungsangebote können folgende Zuschläge gewährt werden:
 
-- 1\. für eine Demenzstation oder für ausgewiesene Sonderleistungen im Bereich Demenz (Demenzkonzept) bis zu 5 % auf die anrechenbaren Normkosten;
-- 2\. für eine Psychiatriestation oder für ausgewiesene Sonderleistungen im Bereich der Psychiatrie (Psychiatriekonzept) bis zu 5 % auf die anrechenbaren Normkosten;
-- 3\. für Pflegeheime mit zertifiziertem Palliative Care Konzept bis zu 5 % auf die anrechenbaren Normkosten.
+- 1\. für eine Demenzstation oder für ausgewiesene Sonderleistungen im Bereich Demenz (Demenzkonzept) bis zu 5 % auf die anrechenbaren Normkosten
+- 2\. für eine Psychiatriestation oder für ausgewiesene Sonderleistungen im Bereich der Psychiatrie (Psychiatriekonzept) bis zu 5 % auf die anrechenbaren Normkosten
+- 3\. für Pflegeheime mit zertifiziertem Palliative Care Konzept bis zu 5 % auf die anrechenbaren Normkosten
 
-<sup>2</sup> Mit Ausnahme von Ziffer 3 können die Zuschläge nicht kumuliert werden. Das Departement entscheidet über die Gewährung der Zuschläge aufgrund des Leistungsangebots und den erhöhten Anforderungen an die Pflege.
+<sup>2</sup> Mit Ausnahme von Ziff. 3 können die Zuschläge nicht kumuliert werden. Das Departement entscheidet über die Gewährung der Zuschläge aufgrund des Leistungsangebots und den erhöhten Anforderungen an die Pflege.
 
 <sup>3</sup> Die Zuschläge werden halbiert, sobald mehr als 50 % der Leistungsbezüger und Leistungsbezügerinnen im Kanton Thurgau in einem Pflegeheim mit spezialisiertem Leistungsangebot wohnen; die Zuschläge entfallen, sobald ein Anteil von 80 % erreicht ist.
 
@@ -410,7 +410,7 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 **Spitexorganisationen, Tagesheime, Tages- und Nachtstrukturen**
 
-<sup>1</sup> Private und öffentlich-rechtliche Spitexorganisationen, gemeindeeigene Spitexdienste sowie Tagesheime, Tages- und Nachtstrukturen bedürfen gemäss § 24 des Gesetzes über das Gesundheitswesen (GG)[^39-1] einer gesundheitspolizeilichen Bewilligung. Sie werden als Leistungserbringer im Sinne des KVG zugelassen, sofern sie über eine solche verfügen und die weiteren Voraussetzungen der KVV betreffend Abrechnung zulasten der obligatorischen Krankenpflegeversicherung erfüllen. Sie sind als Abgabestelle für Mittel und Gegenstände gemäss Artikel 55 KVV zugelassen.
+<sup>1</sup> Private und öffentlich-rechtliche Spitexorganisationen, gemeindeeigene Spitexdienste sowie Tagesheime, Tages- und Nachtstrukturen bedürfen gemäss § 24 des Gesetzes über das Gesundheitswesen (GG)[^39-1] einer gesundheitspolizeilichen Bewilligung. Sie werden als Leistungserbringer im Sinne des KVG zugelassen, sofern sie über eine solche verfügen und die weiteren Voraussetzungen der KVV betreffend Abrechnung zulasten der obligatorischen Krankenpflegeversicherung erfüllen. Sie sind als Abgabestelle für Mittel und Gegenstände gemäss Art. 55 KVV zugelassen.
 
 [^39-1]: RB [810.1](https://www.rechtsbuch.tg.ch/data/810.1/de)
 
@@ -420,7 +420,7 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 <sup>1</sup> Leistungserbringer der ambulanten Pflege führen eine Leistungserfassung und eine Kostenrechnung, welche die Kostenarten, die Kostenstellen und die Kostenträger umfasst. Für die Rechnungslegung ist das aktuelle Finanzmanual des Spitex Verbandes Schweiz massgebend.
 
-<sup>2</sup> Dem Kostenträger Pflege werden nur Leistungen der ambulanten Pflege gemäss Artikel 25a Absatz 1 KVG zugeordnet. Die Akut- und Übergangspflege gemäss Artikel 25a Absatz 2 KVG ist als separater Kostenträger zu führen.
+<sup>2</sup> Dem Kostenträger Pflege werden nur Leistungen der ambulanten Pflege gemäss Art. 25a Abs. 1 KVG zugeordnet. Die Akut- und Übergangspflege gemäss Art. 25a Abs. 2 KVG ist als separater Kostenträger zu führen.
 
 #### § 41
 
@@ -428,19 +428,19 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 <sup>1</sup> Die Leistungserbringer verwenden für die Bedarfsabklärung der ambulanten Langzeitpflege das Bedarfsabklärungssystem interRAI HC Schweiz oder ein vergleichbares, von unabhängiger Seite validiertes Bedarfserfassungssystem. Ausgenommen sind Leistungen der isolierten Wundbehandlung, der Wochenbettbetreuung, der Stillberatung sowie die in separaten Tarifverträgen abschliessend bezeichneten speziellen Leistungen der Ligen.
 
-<sup>2</sup> Für die Leistungserfassung im Tagesheim und in bewilligten Tages- und Nachtstrukturen im Pflegeheim ist ein vereinfachtes Bedarfsabklärungssystem zu verwenden. Die Restfinanzierung gemäss Artikel 25a Absatz 5 KVG ist geschuldet, wenn das Bedarfsabklärungssystem RAI D/N oder weitere, von unabhängiger Seite validierte Bedarfsabklärungssysteme verwendet werden.
+<sup>2</sup> Für die Leistungserfassung im Tagesheim und in bewilligten Tages- und Nachtstrukturen im Pflegeheim ist ein vereinfachtes Bedarfsabklärungssystem zu verwenden. Die Restfinanzierung gemäss Art. 25a Abs. 5 KVG ist geschuldet, wenn das Bedarfsabklärungssystem RAI D/N oder weitere, von unabhängiger Seite validierte Bedarfsabklärungssysteme verwendet werden.
 
 #### § 42
 
 **Datenerhebung**
 
-<sup>1</sup> Die Leistungserbringer geben die für die Festlegung der anrechenbaren Kosten und für die Vergleichbarkeit der Leistungserbringer der ambulanten Pflege notwendigen Daten kostenlos bekannt, insbesondere diejenigen gemäss Artikel 59a KVG.
+<sup>1</sup> Die Leistungserbringer geben die für die Festlegung der anrechenbaren Kosten und für die Vergleichbarkeit der Leistungserbringer der ambulanten Pflege notwendigen Daten kostenlos bekannt, insbesondere diejenigen gemäss Art. 59a KVG.
 
 #### § 43
 
 **Datenbearbeitung und Datenveröffentlichung**
 
-<sup>1</sup> Das Amt für Gesundheit und die Dienststelle für Statistik dürfen betriebsbezogene Daten und Daten nach Artikel 59a KVG bearbeiten und veröffentlichen. Veröffentlichte Daten dürfen keine Rückschlüsse auf natürliche Personen zulassen.
+<sup>1</sup> Das Amt für Gesundheit und die Dienststelle für Statistik dürfen betriebsbezogene Daten und Daten nach Art. 59a KVG bearbeiten und veröffentlichen. Veröffentlichte Daten dürfen keine Rückschlüsse auf natürliche Personen zulassen.
 
 <sup>2</sup> Es können insbesondere Daten über den Rechtsträger, die Rechtsform, das Leistungsangebot, die Leistungen und die Pflegetage, die Kosten der Pflegeleistungen sowie der Hilfe zu Hause und das Verhältnis zwischen Fach- und Verwaltungspersonal sowie übrigem Personal veröffentlicht werden.
 
@@ -468,7 +468,7 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 **Gemeindebeiträge an Hebammen**
 
-<sup>1</sup> Der Beitrag der Gemeinden an die Gewährleistung der Versorgungspflicht der Hebammen gemäss den nachfolgenden Absätzen beträgt mindestens 15 Rappen pro Einwohner und Einwohnerin.
+<sup>1</sup> Der Beitrag der Gemeinden an die Gewährleistung der Versorgungspflicht der Hebammen gemäss den nachfolgenden Absätzen beträgt mindestens Fr. 0.15 pro Einwohner und Einwohnerin.
 
 <sup>2</sup> Der zeitgerechte Zugang zu den Leistungen der Hebammen für Wöchnerinnen wird über eine telefonische Vermittlung des Vereins freipraktizierender Hebammen gewährleistet.
 
@@ -482,9 +482,9 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 <sup>1</sup> Die Organisation führt für die Beiträge der Gemeinden gemäss § 25 TG KVG und gemäss § 44 in der periodischen Rechnungsstellung als elektronische Zusammenstellung für die administrative Rechnungsprüfung durch die Gemeinde auf:
 
-- 1\. Name, Vorname, Adresse und Geburtsdatum der Leistungsbezügerinnen und ‑bezüger;
-- 2\. Datum des Leistungsbeginns und -endes in der Rechnungsperiode;
-- 3\. Total der für die Gemeinde in der Rechnungsperiode abgerechneten Beitragssumme sowie die beitragsberechtigten Stunden je Leistungsbereich.
+- 1\. Name, Vorname, Adresse und Geburtsdatum der Leistungsbezügerinnen und ‑bezüger
+- 2\. Datum des Leistungsbeginns und -endes in der Rechnungsperiode
+- 3\. Total der für die Gemeinde in der Rechnungsperiode abgerechneten Beitragssumme sowie die beitragsberechtigten Stunden je Leistungsbereich
 
 <sup>2</sup> Bis zum 31. Januar des Folgejahres stellt die Organisation der Gemeinde sowie der Dienststelle für Statistik eine Zusammenstellung für das Gesamtjahr zu. Diese enthält für die Gemeinde die Angaben gemäss Abs. 1 sowie für die Dienststelle für Statistik die Angaben gemäss Abs. 1 Ziff. 3.
 
@@ -500,21 +500,21 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 <sup>2</sup> Anrechenbar sind Aufwendungen gemäss Art. 25a KVG, § 25 TG KVG, § 27 Abs. 2 und Abs. 3 TG KVG, einschliesslich Abgeltungen für gemeinwirtschaftliche Leistungen, namentlich:
 
-\- Restkosten der Pflege gemäss Art. 25a KVG;
+\- Restkosten der Pflege gemäss Art. 25a KVG
 
-\- Hauswirtschaftliche Unterstützung und Haushaltshilfe;
+\- Hauswirtschaftliche Unterstützung und Haushaltshilfe
 
-\- Aufenthalte in Tagesheimen und Tages- und Nachtstrukturen;
+\- Aufenthalte in Tagesheimen und Tages- und Nachtstrukturen
 
-\- Begleitetes Wohnen;
+\- Begleitetes Wohnen
 
-\- Entlastung von betreuenden Angehörigen;
+\- Entlastung von betreuenden Angehörigen
 
-\- Fahrdienste;
+\- Fahrdienste
 
-\- Mahlzeitendienste;
+\- Mahlzeitendienste
 
-\- Sozialbetreuung und -beratung.
+\- Sozialbetreuung und -beratung
 
 <sup>3</sup> Der Kantonsbeitrag an die Gemeinde beträgt 40 % der von ihr geltendgemachten, anrechenbaren Kosten.
 
@@ -609,11 +609,11 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 <sup>1</sup> Die Leistungsaufträge an die gemäss geltender Spitalliste aufgeführten Spitäler führen insbesondere auf:
 
-- 1\. Kooperationspartner, auf Basis vorgängig zur Leistungserbringung genehmigter Vereinbarungen einschliesslich Untervergabe von Supportleistungen;
-- 2\. zusätzliche Leistungsaufträge für gemeinwirtschaftliche Leistungen;
-- 3\. Qualitätsmanagement und Berichtswesen;
-- 4\. Vorgehen und Massnahmen bei Nichteinhaltung von Teilen des Leistungsauftrages oder der Leistungserbringung gemäss Spitalliste und Richtlinien;
-- 5\. Finanzierungsmodalitäten.
+- 1\. Kooperationspartner, auf Basis vorgängig zur Leistungserbringung genehmigter Vereinbarungen einschliesslich Untervergabe von Supportleistungen
+- 2\. zusätzliche Leistungsaufträge für gemeinwirtschaftliche Leistungen
+- 3\. Qualitätsmanagement und Berichtswesen
+- 4\. Vorgehen und Massnahmen bei Nichteinhaltung von Teilen des Leistungsauftrages oder der Leistungserbringung gemäss Spitalliste und Richtlinien
+- 5\. Finanzierungsmodalitäten
 
 <sup>2</sup> Die Leistungsaufträge werden den Trägerschaften der Leistungserbringer erteilt. Sie sind an den zugelassenen Standorten gemäss gesundheitspolizeilicher Bewilligung zu erbringen. Eine Verlegung des Standortes bedingt die Zustimmung des Departementes.
 
@@ -661,7 +661,7 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 **Daten**
 
-<sup>1</sup> Die Listenspitäler stellen dem Amt für Gesundheit und der Dienststelle für Statistik die Daten gemäss Artikel 59a KVG vollständig, fristgerecht und kostenlos zur Verfügung. Das Amt für Gesundheit und die Dienststelle für Statistik dürfen betriebsbezogene Daten und Daten nach Artikel 59a KVG bearbeiten und veröffentlichen. Veröffentlichte Daten dürfen keine Rückschlüsse auf natürliche Personen zulassen
+<sup>1</sup> Die Listenspitäler stellen dem Amt für Gesundheit und der Dienststelle für Statistik die Daten gemäss Art. 59a KVG vollständig, fristgerecht und kostenlos zur Verfügung. Das Amt für Gesundheit und die Dienststelle für Statistik dürfen betriebsbezogene Daten und Daten nach Art. 59a KVG bearbeiten und veröffentlichen. Veröffentlichte Daten dürfen keine Rückschlüsse auf natürliche Personen zulassen
 
 <sup>2</sup> Für die betriebliche Rechnungslegung sind die Richtlinien des Branchenverbandes Hplus (Rekole) verbindlich anzuwenden.
 
@@ -673,7 +673,7 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 **Finanzierungsanteil**
 
-<sup>1</sup> Der Regierungsrat setzt den Finanzierungsanteil des Kantons an den stationären Behandlungen nach Artikel 49a Absatz 2 KVG fest[^58-1].
+<sup>1</sup> Der Regierungsrat setzt den Finanzierungsanteil des Kantons an den stationären Behandlungen nach Art. 49a Abs. 2 KVG fest[^58-1].
 
 [^58-1]: Der Finanzierungsanteil des Kantons beträgt 55 %, vgl. ABl. Nr. 51/2017 S. 3104.
 
@@ -725,14 +725,14 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 <sup>1</sup> Für Notfallbehandlungen gilt:
 
-- 1\. Leistungserbringer mit Standort ausserhalb des Kantons: Ein Notfall liegt vor, wenn der Zustand der zu behandelnden Person es nicht erlaubt, diese in ein innerkantonales Listenspital zu transportieren;
-- 2\. Massgebend für die Behandlung von Notfällen sind die Bestimmungen gemäss Artikel 64a Absatz 7 KVG in Verbindung mit § 9 dieser Verordnung über die Liste der säumigen Prämienzahler.
+- 1\. Leistungserbringer mit Standort ausserhalb des Kantons: Ein Notfall liegt vor, wenn der Zustand der zu behandelnden Person es nicht erlaubt, diese in ein innerkantonales Listenspital zu transportieren
+- 2\. Massgebend für die Behandlung von Notfällen sind die Bestimmungen gemäss Art. 64a Abs. 7 KVG in Verbindung mit § 9 dieser Verordnung über die Liste der säumigen Prämienzahler
 
 <sup>2</sup> Notfälle sind dem kantonsärztlichen Dienst innert drei Tagen zu melden, sofern Anspruch auf Entschädigungen gestellt werden, die höher sind als die geltenden Referenztarife.
 
 <sup>3</sup> Der kantonsärztliche Dienst prüft die Behandlung auf ihre medizinische Notwendigkeit hin und trifft den Kostengutsprache- beziehungsweise Indikationsentscheid betreffend des anwendbaren Tarifs.
 
-<sup>4</sup> Für Behandlungen von Personen mit Leistungsaufschub des Krankenversicherers, die über Absatz 1 hinaus gehen, kommt der Kanton nicht auf. Die Behandlungskosten sind dem Patienten oder der Patientin in Rechnung zu stellen.
+<sup>4</sup> Für Behandlungen von Personen mit Leistungsaufschub des Krankenversicherers, die über Abs. 1 hinaus gehen, kommt der Kanton nicht auf. Die Behandlungskosten sind dem Patienten oder der Patientin in Rechnung zu stellen.
 
 <sup>5</sup> Wird der Kanton in diesen Fällen dennoch für Behandlungskosten in Anspruch genommen, steht ihm das Rückgriffsrecht auf den Patienten oder die Patientin zu.
 
@@ -740,9 +740,9 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 **Investitionen**
 
-<sup>1</sup> Betriebsnotwendige Investitionen gemäss Artikel 8 Absatz 1 der Verordnung über die Kostenermittlung und die Leistungserfassung durch Spitäler, Geburtshäuser und Pflegeheime in der Krankenversicherung[^63-1] sind über den rechtsgültigen Tarif durch den Kanton und den Krankenversicherer abgegolten.
+<sup>1</sup> Betriebsnotwendige Investitionen gemäss Art. 8 Abs. 1 der Verordnung über die Kostenermittlung und die Leistungserfassung durch Spitäler, Geburtshäuser und Pflegeheime in der Krankenversicherung[^63-1] sind über den rechtsgültigen Tarif durch den Kanton und den Krankenversicherer abgegolten.
 
-<sup>2</sup> Die Betriebsnotwendigkeit definiert sich aus dem Leistungsauftrag gemäss Artikel 39 KVG beziehungsweise dem Leistungsspektrum gemäss Artikel 58e Absatz 2 KVV.
+<sup>2</sup> Die Betriebsnotwendigkeit definiert sich aus dem Leistungsauftrag gemäss Art. 39 KVG beziehungsweise dem Leistungsspektrum gemäss Art. 58e Abs. 2 KVV.
 
 <sup>3</sup> Zur Prüfung der laufenden Investitionen ist eine Übersicht über die Anlagebuchhaltung gemäss den aktuellen Richtlinien des Branchenverbandes Hplus (Rekole) sowie eine zweckmässige Investitionsplanung zu führen.
 
@@ -770,14 +770,14 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 <sup>1</sup> Der Regierungsrat kann an die folgenden gemeinwirtschaftlichen Leistungen von Listenspitälern gemäss § 39 des Gesetzes Pauschalen gewähren:
 
-- 1\. durch die Tarife nicht gedeckte Behandlungskosten des Ostschweizer Kinderspitals;
-- 2\. Palliative Care gemäss kantonalem Konzept;
-- 3\. Behandlung von Kleinkindern auf der Eltern-Kind-Station der Psychiatrischen Dienste Thurgau (PDT);
-- 4\. intensivierte ambulante Angebote der Psychiatrie;
-- 5\. Notfall- und Rettungswesen;
-- 6\. koordinierter Sanitätsdienst;
-- 7\. Gesundheitsförderung, Prävention und Sucht gemäss gültigen kantonalen Konzepten;
-- 8\. Kindesschutz.
+- 1\. durch die Tarife nicht gedeckte Behandlungskosten des Ostschweizer Kinderspitals
+- 2\. Palliative Care gemäss kantonalem Konzept
+- 3\. Behandlung von Kleinkindern auf der Eltern-Kind-Station der Psychiatrischen Dienste Thurgau (PDT)
+- 4\. intensivierte ambulante Angebote der Psychiatrie
+- 5\. Notfall- und Rettungswesen
+- 6\. koordinierter Sanitätsdienst
+- 7\. Gesundheitsförderung, Prävention und Sucht gemäss gültigen kantonalen Konzepten
+- 8\. Kindesschutz
 
 #### § 67
 
@@ -831,7 +831,7 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 <sup>2</sup> Übernimmt die Gemeinde die Behandlungskosten, so hat der Leistungserbringer Inkassobemühungen bis zum allfälligen Rechtsvorschlag des Versicherten nachzuweisen. Für Behandlungen unter Fr. 500 genügt der Nachweis, dass der Versicherte nach der Rechnungsstellung zweimal erfolglos gemahnt worden ist.
 
-<sup>3</sup> Begleicht die Wohnsitz- bzw. Aufenthaltsgemeinde im Versicherungsfall die Kosten gemäss Absatz 2, hat sie gegenüber früheren Wohnsitz- und Aufenthaltsgemeinden im Kanton das Rückgriffsrecht für dort entstandene Prämienrückstände und Kostenbeteiligungen, abzüglich die bezogenen Entschädigungen gemäss § 8 Absatz 2.
+<sup>3</sup> Begleicht die Wohnsitz- bzw. Aufenthaltsgemeinde im Versicherungsfall die Kosten gemäss Abs. 2, hat sie gegenüber früheren Wohnsitz- und Aufenthaltsgemeinden im Kanton das Rückgriffsrecht für dort entstandene Prämienrückstände und Kostenbeteiligungen, abzüglich die bezogenen Entschädigungen gemäss § 8 Abs. 2.
 
 #### § 72
 
@@ -849,7 +849,7 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 <sup>2</sup> Bis zur Festlegung der Pflegetarife durch die Gemeinden gelten für die zugelassenen Leistungserbringer mit kommunalem Leistungsauftrag die bisherigen Finanzierungen der Gemeinden.
 
-<sup>3</sup> Für zugelassene Leistungserbringer ohne kommunalen Leistungsauftrag kann der Verband Thurgauer Gemeinden (VTG) mit den Branchenverbänden die Pflegetarife vereinbaren. Soweit die Gemeinden diesen Vereinbarungen beitreten, gelten die vereinbarten Tarife als Pflegetarife gemäss § 25 Absatz 2 des Gesetzes.
+<sup>3</sup> Für zugelassene Leistungserbringer ohne kommunalen Leistungsauftrag kann der Verband Thurgauer Gemeinden (VTG) mit den Branchenverbänden die Pflegetarife vereinbaren. Soweit die Gemeinden diesen Vereinbarungen beitreten, gelten die vereinbarten Tarife als Pflegetarife gemäss § 25 Abs. 2 des Gesetzes.
 
 #### § 74
 
@@ -867,8 +867,8 @@ vom 20.12.2011 (Stand 01.10.2021)
 
 <sup>1</sup> Die effektiven Aufwendungen für von der Ärztin oder dem Arzt verordnete Mittel und Gegenstände, die der Untersuchung oder Behandlung dienen und für die noch keine Vergütung in der Mittel- und Gegenständeliste festgelegt ist, werden bis zum 30. September 2022 im Rahmen der Restfinanzierung der Pflegekosten getragen.
 
-<sup>2</sup> Aufwendungen für in einem Pflegeheim einer kantonalen Pflegeheimliste angewendete Mittel und Gegenstände gemäss Absatz 1 können nach Kostengutsprache durch das Amt für Gesundheit gemäss den Regeln der Pflegefinanzierung bei der kantonalen Ausgleichskasse bis zum 30. September 2022 geltend gemacht werden.
+<sup>2</sup> Aufwendungen für in einem Pflegeheim einer kantonalen Pflegeheimliste angewendete Mittel und Gegenstände gemäss Abs. 1 können nach Kostengutsprache durch das Amt für Gesundheit gemäss den Regeln der Pflegefinanzierung bei der kantonalen Ausgleichskasse bis zum 30. September 2022 geltend gemacht werden.
 
-<sup>3</sup> Für durch Pflegefachpersonen in der ambulanten Pflege angewendete Mittel und Gegenstände gemäss Absatz 1 können die effektiven Aufwendungen zusammen mit den Restkosten der Pflegeleistungen bei der Wohngemeinde bis zum 30. September 2022 geltend gemacht werden.
+<sup>3</sup> Für durch Pflegefachpersonen in der ambulanten Pflege angewendete Mittel und Gegenstände gemäss Abs. 1 können die effektiven Aufwendungen zusammen mit den Restkosten der Pflegeleistungen bei der Wohngemeinde bis zum 30. September 2022 geltend gemacht werden.
 
 ABl. 51/2011
