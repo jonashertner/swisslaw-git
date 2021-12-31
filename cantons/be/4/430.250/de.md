@@ -4,13 +4,12 @@ number: "430.250"
 title: Gesetz über die Anstellung der Lehrkräfte
 short: LAG
 language: de
-version: 2020-03-01
-valid_until: 2021-12-31
-version_adopted: 2020-01-29
+version: 2022-01-01
+version_adopted: 2021-06-10
 adopted: 1993-01-20
 in_force: 1993-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/430.250"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2390/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2437/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2390/pdf_file"
 
 (LAG)
 
-vom 20.01.1993 (Stand 01.03.2020)
+vom 20.01.1993 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -44,7 +43,7 @@ beschliesst:
 <sup>1</sup> Das vorliegende Gesetz gilt für alle Lehrkräfte an
 
 - a …
-- b öffentlichen Volksschulen,
+- b öffentlichen Volksschulen, mit Ausnahme der besonderen Volksschulen,
 - c kantonalen Sonderschulen,
 - d …
 - e kantonalen Mittelschulen,

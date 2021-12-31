@@ -4,13 +4,12 @@ number: "430.250"
 title: "Loi sur le statut du corps enseignant *"
 short: LSE
 language: fr
-version: 2020-03-01
-valid_until: 2021-12-31
-version_adopted: 2020-01-29
+version: 2022-01-01
+version_adopted: 2021-06-10
 adopted: 1993-01-20
 in_force: 1993-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/430.250"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2390/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2437/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2390/pdf_file"
 
 (LSE)
 
-du 20.01.1993 (état au 01.03.2020)
+du 20.01.1993 (état au 01.01.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -44,7 +43,7 @@ arrête:
 <sup>1</sup> La présente loi s'applique à tout le corps enseignant
 
 - a …
-- b des écoles publiques de la scolarité obligatoire;
+- b des établissements publics de la scolarité obligatoire, à l’exception des établissements particuliers de la scolarité obligatoire,
 - c des écoles spécialisées cantonales;
 - d …
 - e des écoles moyennes cantonales;
