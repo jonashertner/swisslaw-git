@@ -4,13 +4,13 @@ number: "921.11"
 title: Règlement sur les forêts et la protection contre les catastrophes naturelles
 short: RFCN
 language: fr
-version: 2020-10-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-22
+version: 2022-01-01
+valid_until: 2022-11-30
+version_adopted: 2021-12-14
 adopted: 2001-12-11
 in_force: 2002-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/921.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6603/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7051/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Forêts et protection contre les catastrophes naturelles – R
 
 (RFCN)
 
-du 11.12.2001 (version entrée en vigueur le 01.10.2020)
+du 11.12.2001 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -681,7 +681,7 @@ Arrête:
 
 **Formation professionnelle (art. 61 LFCN)**
 
-<sup>1</sup> Pour assurer les cours, le Service collabore avec l'Institut agricole de l'Etat de Fribourg et les associations et organisations professionnelles. Il utilise, autant que possible, les infrastructures de l'Institut.
+<sup>1</sup> Pour assurer les cours, le Service collabore avec Grangeneuve et les associations et organisations professionnelles. Il utilise, autant que possible, les infrastructures de Grangeneuve.
 
 <sup>2</sup> Les cours de sensibilisation aux dangers des travaux forestiers sont obligatoires pour les personnes qui exécutent des travaux de récolte de bois ou des travaux à la tronçonneuse pour le compte de tiers ou des collectivités publiques. Le Service en règle l'application avec la Commission d'apprentissage des métiers de la forêt.
 
@@ -795,26 +795,15 @@ Arrête:
 
 <sup>1</sup> Les infractions à l'article 32 du présent règlement constituent des contraventions au sens de l'article 77 al. 1 let. b de la loi.
 
+<sup>2</sup> Les infractions au présent règlement que la législation cantonale sur les amendes d'ordre sanctionne par l'amende d'ordre demeurent réservées.
+
 #### Art. 68a
 
-**Amendes d'ordre (art. 77a LFCN)**
-
-<sup>1</sup> Les infractions aux dispositions des articles 30, 32 al. 1, 33 al. 1 et 44 al. 2 de la loi ainsi que de l'article 33 al. 2 du présent règlement sont passibles d'une amende d'ordre au sens de l'article 77a de la loi.
+**…**
 
 #### Art. 68b
 
-**Montant forfaitaire des amendes d'ordre**
-
-<sup>1</sup> Le montant forfaitaire des amendes d'ordre est le suivant:
-
-<table>
-<tr><th>No</th><th>Infraction</th><th>Montant forfaitaire</th></tr>
-<tr><td>FR 601</td><td>Circulation – Cycles, autres véhicules, cavaliers hors chemins carrossables et parcours réservés (art. 30 LFCN / art. 77a LFCN)</td><td>Fr. 100</td></tr>
-<tr><td>FR 602</td><td>Feux en forêt – Violation de l'interdiction (art. 32 al. 1 LFCN / art. 77a LFCN)</td><td>Fr. 300</td></tr>
-<tr><td>FR 603</td><td>Feux en forêt – Distance raisonnable (art. 33 al. 2 RFCN / art. 77a LFCN)</td><td>Fr. 100</td></tr>
-<tr><td>FR 604</td><td>Propreté des forêts (art. 33 al. 1 LFCN / art. 77a LFCN)</td><td>Fr. 300</td></tr>
-<tr><td>FR 605</td><td>Récolte illégale de matériel forestier (art. 44 al. 2 LFCN / art. 77a LFCN)</td><td>Fr. 300</td></tr>
-</table>
+**…**
 
 #### Art. 68c
 

@@ -4,13 +4,13 @@ number: "921.11"
 title: Reglement über den Wald und den Schutz vor Naturereignissen
 short: WSR
 language: de
-version: 2020-10-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-22
+version: 2022-01-01
+valid_until: 2022-11-30
+version_adopted: 2021-12-14
 adopted: 2001-12-11
 in_force: 2002-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/921.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6603/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7051/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Wald und Schutz vor Naturereignissen – R
 
 (WSR)
 
-vom 11.12.2001 (Fassung in Kraft getreten am 01.10.2020)
+vom 11.12.2001 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -681,7 +681,7 @@ beschliesst:
 
 **Berufsbildung (Art. 61 WSG)**
 
-<sup>1</sup> Für die Durchführung der Kurse arbeitet das Amt mit dem Landwirtschaftlichen Institut des Kantons Freiburg und den Berufsverbänden und -organisationen zusammen. Es nutzt dabei soweit wie möglich die Infrastrukturen des Instituts.
+<sup>1</sup> Für die Durchführung der Kurse arbeitet das Amt mit Grangeneuve und den Berufsverbänden und -organisationen zusammen. Es nutzt dabei so weit wie möglich die Infrastrukturen von Grangeneuve.
 
 <sup>2</sup> Die Kurse zur Sensibilisierung über die Gefahren von forstlichen Arbeiten sind obligatorisch für Personen, die in der Holzgewinnung oder mit der Motorsäge für Dritte oder öffentliche Körperschaften arbeiten. Das Amt regelt die Durchführung mit der Lehraufsichtskommission der Forstberufe.
 
@@ -795,26 +795,15 @@ beschliesst:
 
 <sup>1</sup> Zuwiderhandlungen gegen Artikel 32 dieses Reglements sind Übertretungen im Sinne von Artikel 77 Abs. 1 Bst. b des Gesetzes.
 
+<sup>2</sup> Zuwiderhandlungen gegen dieses Reglement, die gemäss kantonaler Ordnungsbussengesetzgebung mit Ordnungsbusse bestraft werden, bleiben vorbehalten.
+
 #### Art. 68a
 
-**Ordnungsbussen (Art. 77a WSG)**
-
-<sup>1</sup> Zuwiderhandlungen gegen die Artikel 30, 32 Abs. 1, 33 Abs. 1 und 44 Abs. 2 des Gesetzes sowie Artikel 33 Abs. 2 dieses Reglements werden mit einer Ordnungsbusse im Sinne von Artikel 77a des Gesetzes bestraft.
+**…**
 
 #### Art. 68b
 
-**Pauschalbetrag der Ordnungsbussen**
-
-<sup>1</sup> Es gelten die folgenden Pauschalbeträge für Ordnungsbussen:
-
-<table>
-<tr><th>Nr.</th><th>Zuwiderhandlung</th><th>Pauschalbetrag</th></tr>
-<tr><td>FR 601</td><td>Verkehr – Fahrräder, andere Fahrzeuge, Reiter abseits der Fahrwege und gekennzeichneten Strecken (Art. 30 WSG / Art. 77a WSG)</td><td>Fr. 100</td></tr>
-<tr><td>FR 602</td><td>Feuer im Wald – Verletzung des Verbots (Art. 32 Abs. 1 WSG / Art. 77a WSG)</td><td>Fr. 300</td></tr>
-<tr><td>FR 603</td><td>Feuer im Wald – Vernünftiger Abstand (Art. 33 Abs. 2 WSR / Art. 77a WSG)</td><td>Fr. 100</td></tr>
-<tr><td>FR 604</td><td>Sauberkeit des Waldes (Art. 33 Abs. 1 WSG / Art. 77a WSG)</td><td>Fr. 300</td></tr>
-<tr><td>FR 605</td><td>Illegale Gewinnung von forstlichem Gut (Art. 44 Abs. 2 WSG / Art. 77a WSG)</td><td>Fr. 300</td></tr>
-</table>
+**…**
 
 #### Art. 68c
 
