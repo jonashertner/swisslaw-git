@@ -3,20 +3,20 @@ canton: BL
 number: "681.11"
 title: Verordnung für die Berufsbildung
 language: de
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2021-06-29
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-14
 adopted: 2009-03-17
 in_force: 2009-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/681.11"
-pdf: "https://bl.clex.ch/api/de/versions/3061/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3192/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für die Berufsbildung
 
-Vom 17.03.2009 (Stand 01.07.2021)
+Vom 17.03.2009 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -61,7 +61,7 @@ beschliesst:
 
 **Lernortübergreifende Qualitätssicherung und -entwicklung**
 
-<sup>1</sup> Das Amt für Berufsbildung und Berufsberatung entwickelt unter Einbezug von Vertretungen der Berufsfachschulen und der Organisationen der Arbeitswelt ein Konzept für die lernortübergreifende Qualitätssicherung und entwicklung für die berufliche Grundbildung und sorgt für dessen Umsetzung.
+<sup>1</sup> Die Hauptabteilung Berufsbildung der Dienststelle Berufsbildung, Mittelschulen und Hochschulen (Dienststelle BMH) entwickelt unter Einbezug von Vertretungen der Berufsfachschulen und der Organisationen der Arbeitswelt ein Konzept für die lernortübergreifende Qualitätssicherung und Qualitätsentwicklung für die berufliche Grundbildung und sorgt für dessen Umsetzung.
 
 ## 1<sup>bis</sup> Ausbildung in Brückenangeboten
 
@@ -127,11 +127,11 @@ beschliesst:
 
 **Betriebliche Voraussetzungen**
 
-<sup>1</sup> Betriebe, welche eine berufliche Grundbildung anbieten, erhalten vom Amt für Berufsbildung und Berufsberatung die dafür notwendige Bildungsbewilligung, wenn die bundesrechtlichen Voraussetzungen erfüllt sind.
+<sup>1</sup> Betriebe, welche eine berufliche Grundbildung anbieten, erhalten von der Hauptabteilung Berufsbildung der Dienststelle BMH die dafür notwendige Bildungsbewilligung, wenn die bundesrechtlichen Voraussetzungen erfüllt sind.
 
 <sup>2</sup> Mehrere Betriebe können sich zu einem Lehrbetriebsverbund zusammenschliessen.
 
-<sup>3</sup> Plant ein Betrieb, mehr Ausbildungsverhältnisse anzubieten als in den Verordnungen über die berufliche Grundbildung vorgesehen sind, so ist dafür vorgängig eine Ausnahmebewilligung des Amtes für Berufsbildung und Berufsberatung einzuholen.
+<sup>3</sup> Plant ein Betrieb, mehr Ausbildungsverhältnisse anzubieten als in den Verordnungen über die berufliche Grundbildung vorgesehen sind, so ist dafür vorgängig eine Ausnahmebewilligung der Hauptabteilung Berufsbildung der Dienststelle BMH einzuholen.
 
 <sup>4</sup> Die Bildungsbewilligung kann entzogen, sistiert oder mit Auflagen verbunden werden.
 
@@ -139,7 +139,7 @@ beschliesst:
 
 **Lehrvertrag**
 
-<sup>1</sup> Vor Beginn des Ausbildungsverhältnisses schliessen die Lernenden, wenn sie noch nicht volljährig sind, gemeinsam mit den Erziehungsberechtigten, und der Lehrbetrieb einen Lehrvertrag ab, welcher dem Amt für Berufsbildung und Berufsberatung zur Genehmigung vorzulegen ist.
+<sup>1</sup> Vor Beginn des Ausbildungsverhältnisses schliessen die Lernenden, wenn sie noch nicht volljährig sind, gemeinsam mit den Erziehungsberechtigten, und der Lehrbetrieb einen Lehrvertrag ab, welcher der Hauptabteilung Berufsbildung der Dienststelle BMH zur Genehmigung vorzulegen ist.
 
 <sup>2</sup> Die Genehmigung kann bei Wegfall der Genehmigungsvoraussetzungen widerrufen werden.
 
@@ -164,15 +164,15 @@ beschliesst:
 
 **Änderungen der Probe- und Lehrzeit**
 
-<sup>1</sup> Die Verlängerung der Probezeit zu Beginn der beruflichen Grundbildung über 3 Monate hinaus sowie die Verlängerung oder Verkürzung der Lehrzeit bedürfen der Genehmigung des Amtes für Berufsbildung und Berufsberatung.
+<sup>1</sup> Die Verlängerung der Probezeit zu Beginn der beruflichen Grundbildung über 3 Monate hinaus sowie die Verlängerung oder Verkürzung der Lehrzeit bedürfen der Genehmigung der Hauptabteilung Berufsbildung der Dienststelle BMH.
 
 #### § 8
 
 **Auflösung des Lehrvertrages**
 
-<sup>1</sup> Beabsichtigt eine Vertragspartei, den Lehrvertrag einseitig aufzulösen, versucht das Amt für Berufsbildung und Berufsberatung zu vermitteln.
+<sup>1</sup> Beabsichtigt eine Vertragspartei, den Lehrvertrag einseitig aufzulösen, versucht die Hauptabteilung Berufsbildung der Dienststelle BMH zu vermitteln.
 
-<sup>2</sup> Scheitert die Vermittlung, ist das Amt für Berufsbildung und Berufsberatung verpflichtet, bei der Suche nach einer Folgelösung behilflich zu sein.
+<sup>2</sup> Scheitert die Vermittlung, ist die Hauptabteilung Berufsbildung der Dienststelle BMH verpflichtet, bei der Suche nach einer Folgelösung behilflich zu sein.
 
 #### § 9
 
@@ -216,7 +216,7 @@ beschliesst:
 
 <sup>1</sup> In der Regel führen die Organisationen der Arbeitswelt für die Lernenden überbetriebliche Kurse durch.
 
-<sup>2</sup> Das Amt für Berufsbildung und Berufsberatung unterstützt sie dabei, indem es:
+<sup>2</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH unterstützt sie dabei, indem sie:
 
 - a. die überbetrieblichen Kurse ins Konzept einer lernortübergreifenden Qualitätssicherung und entwicklung einbezieht;
 - b. überbetriebliche Kurse mit anderen Kantonen koordiniert;
@@ -238,7 +238,7 @@ beschliesst:
 - b. an die Kosten von Einrichtungen und ausserordentlichen Anschaffungen für die Überbetrieblichen Kurse: maximal 40 % der durch schriftliche Abrechnung und Rechnungsbelege nachgewiesenen Kosten;
 - c. an die Kosten für Massnahmen, die der Qualitätssicherung und -entwicklung dienen: maximal 40 % der schriftlich belegten Kosten.
 
-<sup>3</sup> Anträge betreffend Kostenbeiträge nach Abs. 2 sind vorgängig ans Amt für Berufsbildung und Berufsberatung zu richten.
+<sup>3</sup> Anträge betreffend Kostenbeiträge nach Abs. 2 sind vorgängig an die Hauptabteilung Berufsbildung der Dienststelle BMH zu richten.
 
 [^12-1]: [SGS 681.22](https://bl.clex.ch/data/681.22/de)
 [^12-2]: [SR 414.201.1](https://db.clex.ch/link/Bund/414.201.1/de)
@@ -257,7 +257,7 @@ beschliesst:
 
 **Standortbestimmungen**
 
-<sup>1</sup> Das Amt für Berufsbildung und Berufsberatung kann in einzelnen Branchen oder Berufen für die Lernenden Standortbestimmungen zur Feststellung des betrieblichen Ausbildungsstandes anordnen.
+<sup>1</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH kann in einzelnen Branchen oder Berufen für die Lernenden Standortbestimmungen zur Feststellung des betrieblichen Ausbildungsstandes anordnen.
 
 <sup>2</sup> Eine Standortbestimmung findet ausserdem statt, wenn:
 
@@ -266,15 +266,15 @@ beschliesst:
 
 <sup>3</sup> Die Standortbestimmungen sind für die Lehrvertragsparteien kostenlos.
 
-<sup>4</sup> Die Festlegung der Form und des Umfangs sowie die Organisation und die Durchführung der Standortbestimmung obliegen dem Amt für Berufsbildung und Berufsberatung.
+<sup>4</sup> Die Festlegung der Form und des Umfangs sowie die Organisation und die Durchführung der Standortbestimmung obliegen der Hauptabteilung Berufsbildung der Dienststelle BMH.
 
 #### § 15
 
 **Übertragung von Qualifikationsverfahren**
 
-<sup>1</sup> Das Amt für Berufsbildung und Berufsberatung ist verantwortlich für die Organisation und Durchführung von Qualifikationsverfahren.
+<sup>1</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH ist verantwortlich für die Organisation und Durchführung von Qualifikationsverfahren.
 
-<sup>2</sup> Es kann diese Aufgaben ganz oder teilweise kantonalen Berufsfachschulen oder privatrechtlichen Organisationen übertragen.
+<sup>2</sup> Sie kann diese Aufgaben ganz oder teilweise kantonalen Berufsfachschulen oder privatrechtlichen Organisationen übertragen.
 
 #### § 16
 
@@ -288,9 +288,9 @@ beschliesst:
 
 <sup>1</sup> Berufsbildnerinnen und Berufsbildner verfügen nebst einer qualifizierten fachlichen Bildung über eine berufspädagogische Qualifikation im Äquivalent von 100 Lernstunden oder über den Nachweis eines Ausbildungskurses für Berufsbildnerinnen und Berufsbildner im Umfang von 40 Kursstunden.
 
-<sup>2</sup> Für Berufsbildnerinnen und Berufsbildner, welche in ihrem Betrieb erstmals für berufliche Grundbildungen zuständig sind und noch über keine berufspädagogische Qualifikation nach Abs. 1 verfügen, führt das Amt für Berufsbildung und Berufsberatung obligatorische Ausbildungskurse durch. Der Ausbildungskurs ist in der Regel vor Einstellung der oder des ersten Lernenden, spätestens aber im 1. Jahr als Berufsbildnerin oder Berufsbildner zu absolvieren.
+<sup>2</sup> Für Berufsbildnerinnen und Berufsbildner, welche in ihrem Betrieb erstmals für berufliche Grundbildungen zuständig sind und noch über keine berufspädagogische Qualifikation nach Abs. 1 verfügen, führt die Hauptabteilung Berufsbildung der Dienststelle BMH obligatorische Ausbildungskurse durch. Der Ausbildungskurs ist in der Regel vor Einstellung der oder des ersten Lernenden, spätestens aber im 1. Jahr als Berufsbildnerin oder Berufsbildner zu absolvieren.
 
-<sup>3</sup> Das Amt für Berufsbildung und Berufsberatung kann Dritte mit der Durchführung von Ausbildungskursen für Berufsbildnerinnen und Berufsbildner beauftragen.
+<sup>3</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH kann Dritte mit der Durchführung von Ausbildungskursen für Berufsbildnerinnen und Berufsbildner beauftragen.
 
 <sup>4</sup> Das Amt für Berufsbildung und Berufsberatung kann ausserdem branchen- und berufsbezogene Fortbildungskurse für Berufsbildnerinnen und Berufsbildner für obligatorisch erklären.
 
@@ -310,7 +310,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat kann die Führung des beruflichen Unterrichts sowie die Bildungsbewilligung zur Vermittlung der praktischen Bildung und zu deren Durchführung mittels Praktikumsverträgen mit den Anbietenden von Betriebspraktika der Wirtschaftsmittelschule durch Vertrag privatrechtlichen Organisationen übertragen.
 
-<sup>3</sup> Das Amt für Berufsbildung und Berufsberatung ist zuständig für den Vollzug der Bundesvorschriften, für die Koordination der Berufsfachschulen und ist Ansprechpartner für die Schulräte und Schulleitungen der Berufsfachschulen und Höheren Fachschulen, die dem Bundesgesetz über die Berufsbildung unterstellt sind.
+<sup>3</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH ist zuständig für den Vollzug der Bundesvorschriften, für die Koordination der Berufsfachschulen und ist Ansprechstelle für die Schulräte und Schulleitungen der Berufsfachschulen und Höheren Fachschulen, die dem Bundesgesetz über die Berufsbildung unterstellt sind.
 
 #### § 19
 
@@ -318,7 +318,7 @@ beschliesst:
 
 <sup>1</sup> Die Bildungs-, Kultur- und Sportdirektion legt Beginn und Dauer des Schuljahres sowie die Schulferien fest, soweit deren Festlegung nicht privatrechtlichen Organisationen mit einem Bildungsauftrag des Kantons übertragen wurde.
 
-<sup>2</sup> Das Amt für Berufsbildung und Berufsberatung legt insbesondere folgende Termine fest:
+<sup>2</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH legt insbesondere folgende Termine fest:
 
 - a. den frühesten und spätesten Beginn einer Berufsausbildung;
 - b. die Termine der Standortbestimmungen, der Teil- und der Lehrabschlussprüfungen.
@@ -396,7 +396,7 @@ beschliesst:
   - 2\. kombiniertes Profil: 14;
   - 3\. integratives Profil: 14.
 
-<sup>3</sup> Über Ausnahmen entscheidet das Amt für Berufsbildung und Berufsberatung auf Antrag der Schulleitung.
+<sup>3</sup> Über Ausnahmen entscheidet die Hauptabteilung Berufsbildung der Dienststelle BMH auf Antrag der Schulleitung.
 
 <sup>4</sup> Die Schulleitungen können zur Förderung von neuen Unterrichtsformen und für Projekte pro Lehrzeit 40 Wochenstunden für Abteilungsunterricht bewilligen.
 
@@ -493,11 +493,11 @@ beschliesst:
 
 <sup>1</sup> Die Bildungs-, Kultur- und Sportdirektion ist für die regelmässige Durchführung der externen Evaluation verantwortlich und bestimmt die Evaluationsbereiche. Die Schulen haben das Recht, einen Evaluationsbereich selber festzulegen.
 
-<sup>2</sup> Das Amt für Berufsbildung und Berufsberatung erteilt den Auftrag an die mit der externen Evaluation beauftragten Organisation.
+<sup>2</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH erteilt den Auftrag an die mit der externen Evaluation beauftragte Organisation.
 
 <sup>3</sup> Das Evaluationsteam legt in Absprache mit der Schulleitung den Ablauf der externen Evaluation fest.
 
-<sup>4</sup> Nach der Durchführung verfasst das Evaluationsteam zuhanden des Schulrates, der Schulleitung und des Amtes für Berufsbildung und Berufsberatung einen Bericht, der seine Beobachtungen, eine Beurteilung und Empfehlungen zur Qualitätsentwicklung enthält. Das Amt für Berufsbildung und Berufsberatung und das Evaluationsteam haben kein Weisungsrecht gegenüber der Schule.
+<sup>4</sup> Nach der Durchführung verfasst das Evaluationsteam zuhanden des Schulrates, der Schulleitung und der Hauptabteilung Berufsbildung der Dienststelle BMH einen Bericht, der seine Beobachtungen, eine Beurteilung und Empfehlungen zur Qualitätsentwicklung enthält. Die Hauptabteilung Berufsbildung der Dienststelle BMH und das Evaluationsteam haben kein Weisungsrecht gegenüber der Schule.
 
 ### 3.6 Lernortübergreifende Qualitätssicherung und -entwicklung
 
@@ -505,7 +505,7 @@ beschliesst:
 
 **Lernortübergreifende Qualitätssicherung und -entwicklung**
 
-<sup>1</sup> Die Berufsfachschulen, die Verantwortlichen für die Überbetrieblichen Kurse und die Organisationen der Arbeitswelt arbeiten am Qualitätssicherungs- und entwicklungskonzept des Amts für Berufsbildung und Berufsberatung aktiv mit.
+<sup>1</sup> Die Berufsfachschulen, die Verantwortlichen für die Überbetrieblichen Kurse und die Organisationen der Arbeitswelt arbeiten am Qualitätssicherungs- und entwicklungskonzept der Hauptabteilung Berufsbildung der Dienststelle BMH aktiv mit.
 
 ### 3.7 Erweitertes Bildungsangebot
 
@@ -519,7 +519,7 @@ beschliesst:
 
 <sup>3</sup> Ihr Umfang darf während der Arbeitszeit durchschnittlich einen halben Tag pro Woche nicht übersteigen.
 
-<sup>4</sup> Über Ausnahmen entscheidet das Amt für Berufsbildung und Berufsberatung in Absprache mit dem Lehrbetrieb.
+<sup>4</sup> Über Ausnahmen entscheidet die Hauptabteilung Berufsbildung der Dienststelle BMH in Absprache mit dem Lehrbetrieb.
 
 #### § 35
 
@@ -527,7 +527,7 @@ beschliesst:
 
 <sup>1</sup> Die Berufsfachschulen bieten Lernenden der dualen beruflichen Grundbildung mit ungenügenden schulischen Leistungen Stützkurse an. Stützkurse sind so anzusetzen, dass der Besuch ohne wesentliche Beeinträchtigung der Bildung in beruflicher Praxis möglich ist. Ihr Umfang darf während der Arbeitszeit durchschnittlich einen halben Tag pro Woche nicht übersteigen.
 
-<sup>2</sup> Auf Antrag einer Lehrvertragspartei oder der Schulleitung kann das Amt für Berufsbildung und Berufsberatung im Einzelfall Stützkurse für obligatorisch erklären.
+<sup>2</sup> Auf Antrag einer Lehrvertragspartei oder der Schulleitung kann die Hauptabteilung Berufsbildung der Dienststelle BMH im Einzelfall Stützkurse für obligatorisch erklären.
 
 <sup>3</sup> Die Notwendigkeit des Besuchs von Stützkursen wird periodisch überprüft.
 
@@ -572,7 +572,7 @@ beschliesst:
 
 <sup>2</sup> Über die Dispensation entscheidet die Schulleitung auf Gesuch der Erziehungsberechtigten oder der volljährigen Lernenden.
 
-<sup>3</sup> Das Amt für Berufsbildung und Berufsberatung kann Lernende auf schriftliches Gesuch der Erziehungsberechtigten bzw. der volljährigen Lernenden von Teilen der Qualifikationsverfahren dispensieren.
+<sup>3</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH kann Lernende auf schriftliches Gesuch der Erziehungsberechtigten bzw. der volljährigen Lernenden von Teilen der Qualifikationsverfahren dispensieren.
 
 #### § 39
 
@@ -718,11 +718,11 @@ beschliesst:
 
 **Konferenz der Schulleitungen der berufsbildenden Schulen**
 
-<sup>1</sup> Die Rektorinnen und Rektoren der kantonalen Berufsfachschulen und der Berufsfachschulen von privatrechtlichen Organisationen bilden zusammen mit einer Vertretung des Amtes für Berufsbildung und Berufsberatung die Konferenz der Schulleitungen der berufsbildenden Schulen (Konferenz).
+<sup>1</sup> Die Rektorinnen und Rektoren der kantonalen Berufsfachschulen und der Berufsfachschulen von privatrechtlichen Organisationen bilden zusammen mit einer Vertretung der Hauptabteilung Berufsbildung der Dienststelle BMH die Konferenz der Schulleitungen der berufsbildenden Schulen (Konferenz).
 
 <sup>2</sup> Die Konferenz hat insbesondere folgende Aufgaben:
 
-- a. Sie berät das Amt für Berufsbildung und Berufsberatung in allen wichtigen Fragen.
+- a. Sie berät die Hauptabteilung Berufsbildung der Dienststelle BMH in allen wichtigen Fragen.
 - b. Sie koordiniert alle schulübergreifenden Geschäfte.
 - c. Sie dient der gegenseitigen Orientierung der Schulleitungen über geplante und laufende Aktivitäten an den einzelnen Berufsfachschulen.
 
@@ -759,7 +759,7 @@ beschliesst:
 
 <sup>1</sup> Der Schulrat besteht aus 5–12 stimmberechtigten Mitgliedern. Vorbehalten bleiben abweichende vertragliche Regelungen mit den Trägerschaften privater Berufsfachschulen, die dem Bundesgesetz über die Berufsbildung unterstellt sind.
 
-<sup>2</sup> Der Schulrat setzt sich in der Regel aus paritätischen Vertretungen der Arbeitgeber- und Arbeitnehmerschaft, einer Vertretung des Amts für Berufsbildung und Berufsberatung und einer Vertretung einer abnehmenden Schule zusammen.
+<sup>2</sup> Der Schulrat setzt sich in der Regel aus paritätischen Vertretungen der Arbeitgeber- und Arbeitnehmerschaft, einer Vertretung der Hauptabteilung Berufsbildung der Dienststelle BMH und einer Vertretung einer abnehmenden Schule zusammen.
 
 <sup>3</sup> Die Berufsorganisationen der Arbeitgeber- und Arbeitnehmerschaft können dem Regierungsrat Vorschläge für ihre Vertretung unterbreiten.
 
@@ -773,7 +773,7 @@ beschliesst:
 
 <sup>1</sup> Der Schulrat hat insbesondere folgende Aufgaben:
 
-- a. Er verabschiedet das Budget und die Abrechnung der Schule zuhanden des Amtes für Berufsbildung und Berufsberatung.
+- a. Er verabschiedet das Budget und die Abrechnung der Schule zuhanden der Hauptabteilung Berufsbildung der Dienststelle BMH.
 - b. Er legt auf Antrag der Schulleitung deren Organisation fest.
 - c. Er unterstützt die Lehrkräfte in ihrem Auftrag.
 
@@ -809,24 +809,24 @@ beschliesst:
 
 **Allgemeines**
 
-<sup>1</sup> Das Amt für Berufsbildung und Berufsberatung leitet und koordiniert die Berufsbildung und Berufsberatung sowie die Ausrichtung von Ausbildungsbeiträgen des Kantons.
+<sup>1</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH leitet und koordiniert die Berufsbildung und Berufsberatung sowie die Ausrichtung von Ausbildungsbeiträgen des Kantons.
 
 #### § 59
 
 **Aufgaben in der Berufsbildung**
 
-<sup>1</sup> Das Amt für Berufsbildung und Berufsberatung hat in der Berufsbildung insbesondere folgende Aufgaben:
+<sup>1</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH hat in der Berufsbildung insbesondere folgende Aufgaben:
 
-- a. Es entwickelt Strategien und Konzepte zur nachhaltigen Sicherung des Lehrstellenangebots in Zusammenarbeit mit Organisationen der Wirtschaft.
-- b. Es unterstützt und beaufsichtigt die Berufsfachschulen und Lehrwerkstätten.
-- c. Es berät und beaufsichtigt die Lehrbetriebe und zieht dafür bei Bedarf Fachexpertinnen und Fachexperten bei.
-- d. Es ist verantwortlich für die Koordination zwischen den an der beruflichen Grundbildung Beteiligten und für die lernortübergreifende Qualitätssicherung und entwicklung.
-- e. Es sorgt für die Ausbildung der Berufsbildnerinnen und Berufsbildner und kann Weiterbildungskurse für sie anbieten.
-- f. Es arbeitet mit den Arbeitgeber- und Arbeitnehmerorganisationen zusammen.
-- g. Es organisiert und führt die Standortbestimmungen und Qualifikationsverfahren der beruflichen Grundbildung durch, soweit diese nicht kantonalen Berufsfachschulen oder privatrechtlichen Organisationen übertragen sind.
-- h. Es ist zuständig für die berufsvorbereitenden Angebote für Jugendliche.
-- i. Es ist zuständig für die Realisierung der fachkundigen individuellen Begleitung im Rahmen der Attestausbildung.
-- j. Es unterstützt alle Bestrebungen zur Gleichstellung der Geschlechter.
+- a. Sie entwickelt Strategien und Konzepte zur nachhaltigen Sicherung des Lehrstellenangebots in Zusammenarbeit mit Organisationen der Wirtschaft.
+- b. Sie unterstützt und beaufsichtigt die Berufsfachschulen und Lehrwerkstätten.
+- c. Sie berät und beaufsichtigt die Lehrbetriebe und zieht dafür bei Bedarf Fachexpertinnen und Fachexperten bei.
+- d. Sie ist verantwortlich für die Koordination zwischen den an der beruflichen Grundbildung Beteiligten und für die lernortübergreifende Qualitätssicherung und entwicklung.
+- e. Sie sorgt für die Ausbildung der Berufsbildnerinnen und Berufsbildner und kann Weiterbildungskurse für diese anbieten.
+- f. Sie arbeitet mit den Arbeitgeber- und Arbeitnehmerorganisationen zusammen.
+- g. Sie organisiert und führt die Standortbestimmungen und Qualifikationsverfahren der beruflichen Grundbildung durch, soweit diese nicht kantonalen Berufsfachschulen oder privatrechtlichen Organisationen übertragen sind.
+- h. Sie ist zuständig für die berufsvorbereitenden Angebote für Jugendliche.
+- i. Sie ist zuständig für die Realisierung der fachkundigen individuellen Begleitung im Rahmen der Attestausbildung.
+- j. Sie unterstützt alle Bestrebungen zur Gleichstellung der Geschlechter.
 
 #### § 60
 
@@ -866,16 +866,16 @@ beschliesst:
 
 - a. zusätzliche Arbeit in der schulfreien Zeit;
 - b. befristeter Ausschluss von einzelnen Schulfächern oder Schulausschluss bis zu 10 Schultagen mit Mitteilung an den Lehrbetrieb und die zuständige Ausbildungsberaterin oder den zuständigen Ausbildungsberater sowie bei nicht volljährigen Lernenden an die Erziehungsberechtigten;
-- c. Antrag an das Amt für Berufsbildung und Berufsberatung, die Lernende oder den Lernenden in eine andere Berufsfachschule zu versetzen, mit Mitteilung an den Lehrbetrieb sowie bei nicht volljährigen Auszubildenden an die Erziehungsberechtigten;
+- c. Antrag an die Hauptabteilung Berufsbildung der Dienststelle BMH , die Lernende oder den Lernenden in eine andere Berufsfachschule zu versetzen, mit Mitteilung an den Lehrbetrieb sowie bei nicht volljährigen Auszubildenden an die Erziehungsberechtigten;
 - d. Versetzung in eine andere Klasse oder die Freistellung zur Arbeit im Lehrbetrieb, sofern sie nach einer summarischen Prüfung des Sachverhalts zur Ansicht gelangt, dass eine solche gerechtfertigt ist;
 - e. Androhung des Antrages an den Schulrat auf Schulausschluss bis zu 8 Wochen;
-- f. Antrag an den Lehrbetrieb und das Amt für Berufsbildung und Berufsberatung auf Auflösung des Lehrvertrages mit Mitteilung an die Erziehungsberechtigten bei nicht volljährigen Lernenden.
+- f. Antrag an den Lehrbetrieb und die Hauptabteilung Berufsbildung der Dienststelle BMH auf Auflösung des Lehrvertrages mit Mitteilung an die Erziehungsberechtigten bei nicht volljährigen Lernenden.
 
 #### § 64
 
 **Massnahmen des Schulrats**
 
-<sup>1</sup> Der Schulrat kann auf Antrag der Schulleitung und nach Rücksprache mit dem Lehrbetrieb und dem Amt für Berufsbildung und Berufsberatung zusätzlich einen befristeten Schulausschluss von bis zu 8 Wochen oder einen unbefristeten Schulausschluss anordnen.
+<sup>1</sup> Der Schulrat kann auf Antrag der Schulleitung und nach Rücksprache mit dem Lehrbetrieb und der Hauptabteilung Berufsbildung der Dienststelle BMH zusätzlich einen befristeten Schulausschluss von bis zu 8 Wochen oder einen unbefristeten Schulausschluss anordnen.
 
 #### § 65
 
@@ -907,7 +907,7 @@ beschliesst:
 
 **Lernende mit Behinderungen**
 
-<sup>1</sup> Bei Lernenden mit Behinderungen, die das vorgeschriebene Ausbildungsprogramm nicht vollständig erfüllen können, entscheidet das Amt für Berufsbildung und Berufsberatung, ob sie in eine berufliche Grundbildung eintreten können.
+<sup>1</sup> Bei Lernenden mit Behinderungen, die das vorgeschriebene Ausbildungsprogramm nicht vollständig erfüllen können, entscheidet die Hauptabteilung Berufsbildung die Dienststelle BMH, ob sie in eine berufliche Grundbildung eintreten können.
 
 <sup>2</sup> Der Kanton kann entsprechende Ausbildungsverhältnisse und Stützmassnahmen finanziell unterstützen.
 
@@ -936,7 +936,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton richtet Beiträge an Firmen und private Organisationen für Veranstaltungen der berufsorientierten Weiterbildung aus.
 
-<sup>2</sup> Private Anbieter dürfen gegenüber staatlichen nicht benachteiligt werden. 3 Beitragsgesuche sind dem Amt für Berufsbildung und Berufsberatung einschliesslich Kursprogramm einzureichen.
+<sup>2</sup> Private Anbieter dürfen gegenüber staatlichen nicht benachteiligt werden. 3 Beitragsgesuche sind der Hauptabteilung Berufsbildung der Dienststelle BMH einschliesslich Kursprogramm einzureichen.
 
 #### § 73
 
