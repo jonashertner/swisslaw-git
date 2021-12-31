@@ -4,13 +4,13 @@ number: "620"
 title: Steuergesetz
 short: StG
 language: de
-version: 2021-09-01
-valid_until: 2021-12-31
-version_adopted: 2021-05-10
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2019-09-09
 adopted: 1999-11-22
 in_force: 2001-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/620"
-pdf: "https://srl.lu.ch/api/de/versions/3811/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3866/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3811/pdf_file"
 
 (StG)
 
-vom 22.11.1999 (Stand 01.09.2021)
+vom 22.11.1999 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -478,7 +478,7 @@ beschliesst:
 
 <sup>2</sup> Der Mietwert ist unter Berücksichtigung der Förderung der Eigentumsbildung und der Selbstvorsorge massvoll festzulegen. Er beträgt 70 Prozent der mittleren Marktmiete. Die mittlere Marktmiete entspricht dem mittleren Mietzins, der an vergleichbarer Lage für vergleichbare Mietobjekte zu erzielen wäre.
 
-<sup>3</sup> Der Mietwert wird auf den Beginn jeder Steuerperiode durch den Regierungsrat an die aktuellen Verhältnisse angepasst. Dabei ist die unterschiedliche Mietzinsentwicklung je nach regionaler Lage und Alter der Objekte zu berücksichtigen.
+<sup>3</sup> …
 
 <sup>4</sup> Der Mietwert von Liegenschaften, die steuerpflichtige Personen an ihrem Wohnsitz dauernd selbst bewohnen, wird auf Antrag angemessen herabgesetzt, wenn er im Verhältnis zu den Mitteln, die den steuerpflichtigen und weiteren im gleichen Haushalt lebenden Personen zur Deckung der Lebenshaltungskosten zur Verfügung stehen, auf Dauer zu einer übermässigen Belastung führt. Der Regierungsrat regelt die Einzelheiten.
 
@@ -731,22 +731,83 @@ beschliesst:
 
 <sup>2</sup> Der Steuerwert entspricht
 
-- a. 75 Prozent des Katasterwertes bei Liegenschaften oder Liegenschaftsteilen, welche die steuerpflichtige Person an ihrem Wohnsitz dauernd selbst bewohnt, wenn gemäss Schatzungsgesetz ein Verkehrswert festgesetzt ist,
+- a. 75 Prozent des Katasterwertes bei Liegenschaften oder Liegenschaftsteilen, welche die steuerpflichtige Person an ihrem Wohnsitz dauernd selbst bewohnt, wenn der Katasterwert dem Verkehrswert entspricht,
 - b. dem Katasterwert in den übrigen Fällen.
 
-<sup>3</sup> Sind im massgebenden Bemessungszeitpunkt (§ 55) Investitionen getätigt, für die noch keine Katasterschatzung vorliegt, sind diese mit ihrem vollen Wert zu berücksichtigen. Bei selbstbewohnten Liegenschaften im Sinn von Absatz 2a sind sie mit 75 Prozent ihres Wertes zu berücksichtigen. Steht eine landwirtschaftliche Ertragswertschatzung in Aussicht, sind die Investitionen mit einem Drittel ihres Wertes zu erfassen.
+<sup>3</sup> Sind im massgebenden Bemessungszeitpunkt (§ 55) Investitionen getätigt, für die noch kein Katasterwert vorliegt, sind diese mit ihrem vollen Wert zu berücksichtigen. Bei selbstbewohnten Liegenschaften im Sinn von Absatz 2a sind sie mit 75 Prozent ihres Wertes zu berücksichtigen. Steht eine landwirtschaftliche Ertragswertschatzung in Aussicht, sind die Investitionen mit einem Drittel ihres Wertes zu erfassen.
 
 #### § 48a
+
+**Katasterwert**
+
+<sup>1</sup> Der Katasterwert der land- und forstwirtschaftlichen Grundstücke ist nach dem Ertragswert festzusetzen. Der Ertragswert ist nach den für die bundesrechtlichen Schatzungen geltenden Vorschriften zu ermitteln.
+
+<sup>2</sup> Der Katasterwert der übrigen Grundstücke entspricht dem Verkehrswert.
+
+#### § 48b
+
+**Ermittlung des Katasterwertes und anderer Werte**
+
+<sup>1</sup> Die Dienststelle Steuern des Kantons ermittelt den Katasterwert und informiert die Eigentümerinnen und Eigentümer über die Bewertung.
+
+<sup>2</sup> Sie besorgt ferner alle Aufgaben im Schatzungswesen, die nicht durch Gesetz oder Verordnung einer andern Behörde oder Amtsstelle übertragen sind. Sie ermitttelt namentlich
+
+- a. die nach dem Bundesgesetz über das bäuerliche Bodenrecht (BGBB)[^48b-1] zu ermittelnden Grundstückwerte und Anrechnungswerte des Betriebsinventars,
+- b. den für die Erbteilung massgebenden Anrechungswert (Art. 617 und 618 ZGB),
+- c. den durchschnittlichen Jahresertrag eines landwirtschaftlichen Gewerbes oder Grundstücks bei Bildung einer Ertragsgemeinderschaft (Art. 347 ZGB),
+- d. den Verkehrswert des unbeweglichen Vermögens, sofern er von einer kantonalen oder kommunalen Behörde verlangt wird; ausgeschlossen sind Fälle, in denen ein Enteignungsverfahren eingeleitet werden kann.
+
+<sup>3</sup> Auf die bundesrechtlichen Schatzungen finden die Vorschriften über die Ermittlung des Katasterwerts sinngemäss Anwendung, soweit das Bundesrecht nichts Abweichendes vorschreibt.
+
+[^48b-1]: SR [211.412.11](https://db.clex.ch/link/Bund/211.412.11/de)
+
+#### § 48c
+
+**Anpassung des Katasterwertes**
+
+<sup>1</sup> Der Katasterwert wird alle fünf Jahre neu ermittelt.
+
+<sup>2</sup> Bei Änderung der für die Bewertung massgebenden tatsächlichen Verhältnisse und bei Wegfall der Voraussetzungen für eine Ertrags- oder Verkehrswertschatzung wird der Katasterwert auf den Zeitpunkt der Änderung neu ermittelt.
+
+<sup>3</sup> Erweist sich ein Katasterwert wegen Nichtbeachtung wesentlicher Tatsachen oder infolge fehlerhafter Rechtsanwendung als unrichtig, wird er neu ermittelt.
+
+<sup>4</sup> Beträgt die Änderung des neu ermittelten Katasterwertes gegenüber dem bisherigen Katasterwert mehr als fünf Prozent und mehr als 25 000 Franken, tritt dieser an die Stelle des bisherigen Katasterwertes.
+
+<sup>5</sup> Die Eigentümerinnen und Eigentümer sowie die Einwohnergemeinden haben Änderungen der für die Bewertung massgebenden tatsächlichen Verhältnisse der Dienststelle Steuern kostenlos zu melden.
+
+#### § 48d
+
+**Mitwirkung bei der Ermittlung des Katasterwertes**
+
+<sup>1</sup> Die Amtsstellen des Kantons und der Gemeinden haben der Dienststelle Steuern des Kantons auf Verlangen Einsicht in sachdienliche Unterlagen zu gewähren. Sie können vom Regierungsrat angewiesen werden, bestimmte von ihm bezeichnete Tatsachen von sich aus kostenlos zu melden.
+
+<sup>2</sup> Die Grundbuchämter melden der Dienststelle Steuern des Kantons kostenlos alle eingetragenen Handänderungen und Änderungen von Grundstückgrenzen sowie die Begründung und die Aufhebung von Baurechten, Stockwerkeigentum und selbständigem Miteigentum.
+
+<sup>3</sup> Die Nachführungsgeometerinnen und -geometer haben der Dienststelle Steuern des Kantons auf Kosten des Auftraggebers oder der Auftraggeberin ein Doppel der Mutationspläne unter Angabe der Kulturart und ihrer Masse zuzustellen.
+
+<sup>4</sup> Die Gebäudeversicherung Luzern stellt der Dienststelle Steuern des Kantons kostenlos die Unterlagen zur Ermittlung der Bauwerte zur Verfügung und meldet ihr die Neubauten und baulichen Veränderungen.
+
+#### § 48e
+
+**Anfechtung von Kataster- und Mietwerten**
+
+<sup>1</sup> Der Katasterwert und der Mietwert gemäss § 28 können im Steuerveranlagungsverfahren angefochten werden.
+
+<sup>2</sup> Ändert die Veranlagungsbehörde den Kataster- oder den Mietwert ab, informiert die Dienststelle Steuern des Kantons den Eigentümer oder die Eigentümerin nach Rechtskraft der Veranlagung über die neue Bewertung.
+
+<sup>3</sup> Soweit bundesrechtliche Schatzungen angefochten werden können, gelten die Bestimmungen über die Anfechtung von Veranlagungen sinngemäss. Einsprachebehörde ist die Dienststelle Steuern des Kantons.
+
+#### § 49
+
+**…**
+
+#### § 49a
 
 **Mitarbeiterbeteiligungen**
 
 <sup>1</sup> Mitarbeiterbeteiligungen nach § 24b Absatz 1 sind zum Verkehrswert einzusetzen. Allfällige Sperrfristen sind angemessen zu berücksichtigen.
 
 <sup>2</sup> Mitarbeiterbeteiligungen nach den §§ 24b Absatz 3 und 24c sind bei Zuteilung ohne Steuerwert zu deklarieren.
-
-#### § 49
-
-**…**
 
 ### 1.2.3.3 Abzug von Schulden
 
@@ -3254,6 +3315,18 @@ beschliesst:
 <sup>1</sup> In Abweichung von § 60 Absatz 1 beträgt die Steuer vom Vermögen in den Steuerjahren 2020–2023 0,875 Promille je Einheit.
 
 <sup>2</sup> In Abweichung von § 62 Absatz 2 darf der Gesamtbetrag der Vermögenssteuer des Staates, der Einwohner- und der Kirchgemeinden in den Steuerjahren 2020–2023 3,5 Promille des im Kanton Luzern steuerbaren Vermögens nicht übersteigen.
+
+### 4.3.11 Miet- und Katasterwerte
+
+#### § 259d
+
+<sup>1</sup> Die Miet- und Katasterwerte nach bisherigem Recht bleiben bis zu einer Bewertung nach neuem Recht bestehen.
+
+### 4.3.12 Wirkungsbericht zur Vereinfachung des Schatzungswesens
+
+#### § 259e
+
+<sup>1</sup> Der Regierungsrat unterbreitet dem Kantonsrat spätestens vier Jahre nach dem Inkrafttreten der Änderung vom 9. September 2019 einen Wirkungsbericht zu dieser Gesetzesänderung.
 
 ### 4.4 Direkte Bundessteuer
 
