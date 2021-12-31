@@ -4,11 +4,11 @@ title: "Ordinanza del 23 ottobre 2013 concernente i pagamenti diretti all'agrico
 short: OPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/765"
 language: it
-version: 2021-07-05
+version: 2022-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20210705/it/xml/fedlex-data-admin-ch-eli-cc-2013-765-20210705-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20210705/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2013-765-20220101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20210705/it"
 
 (Ordinanza sui pagamenti diretti, OPD)
 
-del 23 ottobre 2013 (Stato 5 luglio 2021)
+del 23 ottobre 2013 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -193,7 +193,7 @@ I pagamenti diretti sono versati soltanto se il volume di lavoro dell’azienda 
 
 I pagamenti diretti sono versati soltanto se l’effettivo di animali dell’azienda non supera i limiti dell’ordinanza del 23 ottobre 2013[^7-1] sugli effettivi massimi.
 
-[^7-1]: [RS 916.344](https://fedlex.data.admin.ch/eli/cc/2013/727)
+[^7-1]: RS **916.3****44**
 
 #### Art. 8
 
@@ -246,7 +246,12 @@ Le prescrizioni della legislazione sulla protezione degli animali determinanti p
 
 <sup>2</sup> La quantità di fosforo e azoto ammessa è calcolata in base al fabbisogno delle piante e al potenziale di produzione aziendale.
 
+<sup>2bis</sup> Gli inquinamenti atmosferici causati in particolare dal deposito e dallo spandimento di concimi aziendali liquidi devono essere limitati conformemente alle indicazioni dell’ordinanza del 16 dicembre 1985[^13-1] contro l’inquinamento atmosferico.[^13-2]
+
 <sup>3</sup> Allo scopo di ottimizzare la ripartizione di concime sulle singole particelle, almeno una volta ogni dieci anni tutte le particelle devono essere sottoposte ad analisi del suolo secondo l’allegato 1 numero 2.2.
+
+[^13-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^13-2]: Introdotto dal n. II dell’O del 12 feb. 2020, in vigore dal 1° gen. 2022 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)).
 
 #### Art. 14
 
@@ -504,11 +509,12 @@ Se un eventuale piano di gestione secondo l’allegato 2 numero 2 contiene esige
 
 <sup>6</sup> Le superfici inerbite e i terreni da strame ricchi di specie nella regione d’estivazione (art. 55 cpv. 1 lett. o) danno diritto soltanto ai contributi per la biodiversità.
 
-<sup>7</sup> Non danno diritto ai contributi le superfici sulle quali si trovano vivai, piante forestali, alberi di Natale, piante ornamentali, canapa o serre con fondamenta fisse.
+<sup>7</sup> Non danno diritto ai contributi le superfici sulle quali si trovano vivai, piante forestali, alberi di Natale, piante ornamentali, canapa non coltivata per l’uso delle fibre o dei semi o serre con fondamenta fisse.[^35-4]
 
 [^35-1]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 [^35-2]: Introdotto dal n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
 [^35-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^35-4]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 ### Sezione 2: Effettivi di animali determinanti
 
@@ -1346,6 +1352,16 @@ Esse contengono:
 
 [^76-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
 
+#### Art. 76a
+
+**Progetti per l’evoluzione delle disposizioni sui contributi per il benessere degli animali**[^76a-1]
+
+<sup>1</sup> Nell’ambito di progetti con i quali sono testate norme alternative in vista di un’evoluzione delle disposizioni sui contributi per il benessere degli animali, è possibile derogare a singole esigenze di cui agli articoli 74 e 75 nonché all’allegato 6, a condizione che le norme in relazione al benessere degli animali siano almeno equivalenti e il progetto abbia un accompagnamento scientifico.
+
+<sup>2</sup> Le deroghe necessitano dell’autorizzazione dell’UFAG.
+
+[^76a-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
+
 ### Capitolo 6: Contributi per l’efficienza delle risorse
 
 ### Sezione 1: Contributo per procedimenti di spandimento a basse emissioni
@@ -1991,9 +2007,11 @@ Sono considerate cause di forza maggiore in particolare:
 
 <sup>2</sup> Nella determinazione dei contributi il Cantone tiene conto dapprima delle deduzioni risultanti dalla limitazione dei pagamenti diretti per USM e poi delle deduzioni dovute alle riduzioni secondo l’articolo 105 e ai pagamenti diretti dell’UE secondo l’articolo 54.
 
-<sup>3</sup> Per le riduzioni secondo l’articolo 105 il Cantone considera i fatti riscontrati fino al 31 agosto. Per le aziende d’estivazione e con pascoli comunitari il Cantone può posticipare tale scadenza. Le riduzioni per fatti riscontrati dopo tale scadenza sono applicate nell’anno seguente.
+<sup>3</sup> Per le riduzioni secondo l’articolo 105 il Cantone considera tutte le lacune riscontrate dal 1° gennaio al 31 dicembre. Può applicare le riduzioni nell’anno di contribuzione seguente se le lacune sono state riscontrate dopo il 1° settembre.[^108-1]
 
 <sup>4</sup> Il Cantone registra i dati concernenti l’azienda, il gestore, le superfici e gli effettivi di animali tra il 15 gennaio e il 28 febbraio. Per gli effettivi di animali, oltre all’effettivo determinante va registrato quello al 1° gennaio. I Cantoni registrano le variazioni entro il 1° maggio.
+
+[^108-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 #### Art. 109
 
@@ -2205,7 +2223,7 @@ Sono abrogate:
 
 [^116-1]: [[RU 1999 229](https://fedlex.data.admin.ch/eli/oc/1999/29), [2000 1105](https://fedlex.data.admin.ch/eli/oc/2000/175)art. 20 n. 2, [2001 232](https://fedlex.data.admin.ch/eli/oc/2001/48)[1310](https://fedlex.data.admin.ch/eli/oc/2001/179)art. 22 n. 1 [3539](https://fedlex.data.admin.ch/eli/oc/2001/525), [2003 1998](https://fedlex.data.admin.ch/eli/oc/2003/301)[5321](https://fedlex.data.admin.ch/eli/oc/2003/777), [2006 883](https://fedlex.data.admin.ch/eli/oc/2006/153)[4827](https://fedlex.data.admin.ch/eli/oc/2006/744), [2007 6117](https://fedlex.data.admin.ch/eli/oc/2007/817), [2008 3777](https://fedlex.data.admin.ch/eli/oc/2008/511)[5819](https://fedlex.data.admin.ch/eli/oc/2008/800), [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)[6091](https://fedlex.data.admin.ch/eli/oc/2009/745), [2010 2319](https://fedlex.data.admin.ch/eli/oc/2010/335)[5855](https://fedlex.data.admin.ch/eli/oc/2010/835), [2011 2361](https://fedlex.data.admin.ch/eli/oc/2011/337)[5295](https://fedlex.data.admin.ch/eli/oc/2011/765)[5297](https://fedlex.data.admin.ch/eli/oc/2011/766)all. 2 n. 3 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 n. 3, [2013 1729](https://fedlex.data.admin.ch/eli/oc/2013/394)]
 [^116-2]: [[RU 2007 6139](https://fedlex.data.admin.ch/eli/oc/2007/818), [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)n. II 1, [2010 2321](https://fedlex.data.admin.ch/eli/oc/2010/336)[5855](https://fedlex.data.admin.ch/eli/oc/2010/835)n. II 1, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)all. 2 n. 4 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 n. II 4]
-[^116-3]: [RU **20****01** 1310, **2003** 4871, **2007** 6157, **2009** 6313, **2010** 5855 n. II 3]
+[^116-3]: [[RU 2001 1310](https://fedlex.data.admin.ch/eli/oc/2001/179), [2003 4871](https://fedlex.data.admin.ch/eli/oc/2003/717), [2007 6157](https://fedlex.data.admin.ch/eli/oc/2007/819), [2009 6313](https://fedlex.data.admin.ch/eli/oc/2009/769), [2010 5855](https://fedlex.data.admin.ch/eli/oc/2010/835)n. II 3]
 
 #### Art. 117
 
@@ -2627,7 +2645,7 @@ Allegato 4*[^t-3]*
 
 ## Condizioni concernenti le superfici per la promozione della biodiversità
 
-[^t-3]: Aggiornato dal n. II cpv. 1 dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), dai n. II delle O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), dal n. II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)) e dal n. II dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
+[^t-3]: Aggiornato dal n. II cpv. 1 dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), dai n. II delle O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), dal n. II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), dai n. II delle O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) e del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 ### A Superfici per la promozione della biodiversità
 
@@ -2793,11 +2811,12 @@ Allegato 4*[^t-3]*
   - b. 100 ciliegi, noci e castagni.
 
 - 12\.1.4 Gli alberi devono trovarsi sulla superficie agricola utile di proprietà o affittata.
-- 12\.1.5 I singoli alberi devono essere piantati a una distanza che garantisca uno sviluppo e una capacità di resa normali degli alberi. Vanno rispettate le indicazioni dei mezzi didattici usuali. Le misure fitosanitarie devono essere attuate conformemente alle istruzioni dei Cantoni.
+- 12\.1.5 I singoli alberi devono essere piantati a una distanza che garantisca uno sviluppo e una capacità di resa normali degli alberi. Vanno rispettate le indi-cazioni dei mezzi didattici usuali.
 - 12\.1.6 L’altezza del tronco deve essere di almeno 1,2 m per gli alberi da frutto a nocciolo e di almeno 1,6 m per gli altri alberi da frutto.
 - 12\.1.7 Non è autorizzato l’impiego di erbicidi ai piedi del tronco, eccetto per alberi di meno di cinque anni.
 - 12\.1.8 Gli alberi da frutto ad alto fusto nei campi il cui tronco dista meno di 10 metri dai margini del bosco, dalle siepi, dai boschetti campestri e rivieraschi nonché dai corsi d’acqua non devono essere trattati con prodotti fitosanitari.
-- 12\.1.9 Fino al decimo anno dalla piantagione va eseguita un’adeguata cura degli alberi. Questa comprende formatura e potatura, protezione del tronco e delle radici, concimazione in funzione del fabbisogno, nonché lotta adeguata contro gli organismi nocivi particolarmente pericolosi conformemente alle disposizioni dei servizi fitosanitari cantonali.
+- 12\.1.9 Fino al decimo anno dalla piantagione va eseguita un’adeguata cura degli al-beri. Questa comprende formatura e potatura, protezione del tronco e delle radici, nonché una concimazione in funzione del fabbisogno.
+- 12\.1.10 Gli organismi da quarantena secondo l’ordinanza del 31 ottobre 2018 sulla salute dei vegetali e l’ordinanza d’esecuzione emanata in virtù di essa vanno combattuti conformemente alle istruzioni dei servizi fitosanitari cantonali.
 
 ### 12.2 Livello qualitativo II
 
@@ -2973,7 +2992,7 @@ Allegato 5*[^t-4]*
 
 ## Esigenze specifiche del programma per la produzione di latte e carne basata sulla superficie inerbita (PLCSI)
 
-[^t-4]: Aggiornato dal n. II cpv. 1 dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), dai n. II delle O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), dal n. II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), dai n. II delle O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) e dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2020 ([RU 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
+[^t-4]: Aggiornato dal n. II cpv. 1 dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), dai n. II delle O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), dal n. II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), dai n. II delle O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) e dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2020 (RU **20****20** 5449).
 
 ### 1 Definizione dei foraggi e della razione
 
@@ -3041,7 +3060,7 @@ Allegato 6*[^t-5]*
 
 ## Esigenze specifiche dei contributi per il benessere degli animali
 
-[^t-5]: Nuovo testo giusta il n. II cpv. 2 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Aggiornato dai n. II delle O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)). Correzione del 5 lug. 2021 ([RU 2021 416](https://fedlex.data.admin.ch/eli/oc/2021/416)).
+[^t-5]: Nuovo testo giusta il n. II cpv. 2 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Aggiornato dai n. II delle O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), dell’11 nov. 2020 ([RU 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), dalla correzione del 5 lug. 2021 ([RU 2021 416](https://fedlex.data.admin.ch/eli/oc/2021/416)) e dal n. II dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 ### A Esigenze dei contributi SSRA
 
@@ -3228,7 +3247,7 @@ Allegato 6*[^t-5]*
 
   - a. per galline e galli fino alle ore 10 e dall’entrata nel pollaio fino alla fine della 23<sup>a</sup> settimana di vita;
   - b. per polli da ingrasso durante i primi 21 giorni di vita;
-  - c. per tacchini e pulcini per la produzione di uova nei primi 42 giorni di vita.
+  - c. per tacchini, galletti di razze ovaiole e pulcini per la produzione di uova nei primi 42 giorni di vita.
 
 - 7\.8
 
@@ -3289,7 +3308,7 @@ Allegato 6*[^t-5]*
   - a. durante i dieci giorni precedenti la data probabile del parto e durante i dieci giorni successivi al parto;
   - b. in relazione a un intervento praticato sull’animale;
   - c. per due giorni al massimo prima di un trasporto; il numero di identificazione degli animali fissati giusta l’ordinanza BDTA e la data del trasporto devono essere documentati prima della deroga;
-  - d. nella misura in cui ciò sia necessario durante il foraggiamento o la pulizia della superficie di uscita.
+  - d. nella misura in cui ciò sia necessario durante il foraggiamento, la mungitura o la pulizia della superficie di uscita.
 
 - 2\.4
 
@@ -3497,7 +3516,7 @@ Allegato 7*[^t-7]*
 
 ## Aliquote dei contributi
 
-[^t-7]: Aggiornato dal n. II cpv. 1 dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), dai n. II delle O del 20 mag. 2015 ([RU 2015 1743](https://fedlex.data.admin.ch/eli/oc/2015/339)), del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), dal n. I dell’O del 15 feb. 2017 (RU **2****017** 691), dal n. II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)) e dal n. II dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
+[^t-7]: Aggiornato dal n. II cpv. 1 dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), dai n. II delle O del 20 mag. 2015 ([RU 2015 1743](https://fedlex.data.admin.ch/eli/oc/2015/339)), del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), dal n. I dell’O del 15 feb. 2017 ([RU 2017 691](https://fedlex.data.admin.ch/eli/oc/2017/126)), dal n. II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)) e dal n. II dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
 
 ### 1 Contributi per il paesaggio rurale
 
@@ -3602,7 +3621,7 @@ Allegato 7*[^t-7]*
 <tr><th colspan="2"></th><th colspan="2">Contributo per la qualità secondo livelli qualitativi</th><th></th></tr>
 <tr><th colspan="2"></th><th>I</th><th colspan="2">II</th></tr>
 <tr><th colspan="2"></th><th>fr./ha e anno</th><th colspan="2">fr./ha e anno</th></tr>
-<tr><td colspan="2">*1.* *P**rati sfruttati in modo estensivo*</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="2">*1.* *Prati sfruttati in modo estensivo*</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">a. Zona di pianura</td><td>1080</td><td colspan="2">1920</td></tr>
 <tr><td colspan="2">b. Zona collinare</td><td>860</td><td colspan="2">1840</td></tr>
 <tr><td colspan="2">c. Zone di montagna I e II</td><td>500</td><td colspan="2">1700</td></tr>
@@ -3624,7 +3643,7 @@ Allegato 7*[^t-7]*
 <tr><td colspan="2">*10.* *Vigneti con biodiversità naturale*</td><td>–</td><td colspan="2">1100</td></tr>
 <tr><td colspan="2">*11.* *Prato rivierasco lungo i corsi d’acqua*</td><td>450</td><td colspan="2"></td></tr>
 <tr><td colspan="2">*12.* *Superfici inerbite e terreni da strame ricchi di specie nella regione d’estivazione*</td><td>–</td><td colspan="2">150, al massi- mo tutta- via 300 per CN</td></tr>
-<tr><td colspan="2">*13.* *Superfici per la promozione della biodiversità specif**iche di una regione*</td><td>–</td><td colspan="2">–</td></tr>
+<tr><td colspan="2">*13.* *Superfici per la promozione della biodiversità specifiche di una regione*</td><td>–</td><td colspan="2">–</td></tr>
 <tr><td colspan="2">*14.* *Strisce fiorite per impollinatori e altri organismi utili*</td><td>2500</td><td colspan="2"></td></tr>
 </table>
 
@@ -3634,7 +3653,7 @@ Allegato 7*[^t-7]*
 <tr><th></th><th colspan="2">Contributo per la qualità secondo livelli qualitativi</th><th></th></tr>
 <tr><th></th><th>I</th><th colspan="2">II</th></tr>
 <tr><th></th><th>fr./ albero e anno</th><th colspan="2">fr./ albero e anno</th></tr>
-<tr><td>*1.* *Alb**eri da frutto ad alto fusto nei campi* *Noci*</td><td>13.50 13.50</td><td colspan="2">31.50 16.50</td></tr>
+<tr><td>*1.* *Alberi da frutto ad alto fusto nei campi* *Noci*</td><td>13.50 13.50</td><td colspan="2">31.50 16.50</td></tr>
 <tr><td>*2.* *Alberi indigeni isolati adatti al luogo e viali alberati*</td><td>–</td><td colspan="2">–</td></tr>
 </table>
 
@@ -3827,7 +3846,7 @@ Allegato 8*[^t-8]*
 
 ## Riduzione dei pagamenti diretti
 
-[^t-8]: Nuovo testo giusta il n. II cpv. 2 dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Aggiornato dai n. II delle O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), dal n. II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), dal n. II dell’O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), dalla correzione del 18 ago. 2020 ([RU 2020 3585](https://fedlex.data.admin.ch/eli/oc/2020/641)) e dal n. II dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
+[^t-8]: Nuovo testo giusta il n. II cpv. 2 dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Aggiornato dai n. II delle O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), dal n. II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), dal n. II dell’O del 31 ott. 2018 (RU **201****8** 4149), dalla correzione del 18 ago. 2020 ([RU 2020 3585](https://fedlex.data.admin.ch/eli/oc/2020/641)), dal n. II delle O dell’11 nov. 2020 ([RU 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)) e del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 ### 1 Considerazioni generali
 
@@ -3922,10 +3941,10 @@ Allegato 8*[^t-8]*
 
 ### 2.2 Prova che le esigenze ecologiche sono rispettate
 
-- 2\.2.1 Le riduzioni avvengono mediante la detrazione di importi forfettari o di importi per unità e mediante l’assegnazione di punti convertiti in importi applicando la formula seguente:
+- 2\.2.1 Le riduzioni avvengono mediante la detrazione di importi forfettari, di importi per unità e mediante l’assegnazione di punti convertiti in importi applicando la formula seguente:
 - somma dei punti meno 10 punti diviso per 100 e poi moltiplicato per 1000 franchi per ettaro di SAU dell’azienda.
 - Se la somma dei punti per recidiva è uguale o superiore a 110, nell’anno di contribuzione non vengono versati pagamenti diretti.
-- Con una lacuna i punti sono raddoppiati nel primo caso di recidiva e quadruplicati a partire dal secondo.
+- Con una lacuna i punti, gli importi forfettari e gli importi per unità sono raddoppiati nel primo caso di recidiva e quadruplicati a partire dal secondo.
 - 2\.2.2 Considerazioni generali
 
 <table>
@@ -3948,7 +3967,7 @@ Allegato 8*[^t-8]*
 <table>
 <tr><th>Lacuna per il punto di controllo</th><th>Riduzione</th></tr>
 <tr><td>a. Superficie per la promozione della biodiversità inferiore al 7 % della SAU (colture speciali: 3,5 %) (art. 14)</td><td colspan="2">20 punti per % in meno, min. 10 punti</td></tr>
-<tr><td>b. Gestione non conforme alle prescrizioni di oggetti in inventari d’importanza nazionale, inclusa quella delle rispettive fasce tampone, con decisione passata in giudicato (art. 15)</td><td colspan="2">5 punti per oggetto</td></tr>
+<tr><td>b. Gestione non conforme alle prescrizioni di oggetti in inventari d’importanza nazionale, inclusa quella delle rispettive zone tampone (art. 15)</td><td colspan="2">5 punti per oggetto</td></tr>
 </table>
 
 - 2\.2.5 Fasce tampone
@@ -4005,11 +4024,11 @@ Allegato 8*[^t-8]*
 
 ### 2.3 Protezione degli animali
 
-- 3\.1 Le riduzioni avvengono mediante la detrazione di importi forfettari e mediante l’assegnazione di punti convertiti in importi applicando la formula seguente:
+- 2\.3.1 Le riduzioni avvengono mediante la detrazione di importi forfettari e mediante l’assegnazione di punti convertiti in importi applicando la formula seguente:
 - somma dei punti moltiplicata per 100 franchi per punto, tuttavia almeno 200 franchi e in caso di recidiva almeno 400 franchi.
 - Se la somma dei punti per recidiva è uguale o superiore a 110, nell’anno di contribuzione non vengono versati pagamenti diretti.
 - Nel primo caso di infrazione la riduzione è pari a 50 punti al massimo per ogni punto di controllo di cui alle lettere a–f. Nei casi particolarmente gravi, come grave incuria nei confronti degli animali o elevato numero di animali interessati, il Cantone può aumentare il punteggio massimo in maniera adeguata. In caso di recidiva non si applica un punteggio massimo.
-- Con una lacuna i punti sono raddoppiati nel primo caso di recidiva e quadruplicati a partire dal secondo.
+- Con una lacuna i punti e gli importi forfettari sono raddoppiati nel primo caso di recidiva e quadruplicati a partire dal secondo.
 
 <table>
 <tr><th>Lacuna per punto di controllo</th><th>Recidiva</th></tr>
@@ -4028,6 +4047,20 @@ Allegato 8*[^t-8]*
 <tr><td>60–119 giorni di uscita in estate</td><td>2 punti per UBG interessata</td></tr>
 <tr><td>0–59 giorni di uscita in estate</td><td>4 punti per UBG interessata</td></tr>
 </table>
+
+### 2.3*a* Inquinamento atmosferico
+
+- 2\.3*a*.1 Le riduzioni avvengono mediante la detrazione di importi forfettari e di importi per ettaro.
+- Gli importi forfettari e gli importi per ettaro sono raddoppiati nel primo caso di recidiva e quadruplicati a partire dal secondo.
+- Se l’autorità competente concede un termine di risanamento degli impianti per il deposito, per le lacune riscontrate le riduzioni di cui alla lettera a non si applicano nell’arco di tale termine.
+
+<table>
+<tr><td>Lacuna per il punto di controllo</td><td>Riduzione</td></tr>
+<tr><td>a. Deposito non conforme di concimi aziendali liquidi (art. 13 cpv. 2<sup>bis</sup>)</td><td>300 fr.</td></tr>
+<tr><td>b. ...[^annex8-lvlu1-lvl2-lvl23a-1]</td><td></td></tr>
+</table>
+
+[^annex8-lvlu1-lvl2-lvl23a-1]: In vigore il 1° gen. 2024 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 ### 2.4 Contributi per la biodiversità: contributi per la qualità
 
@@ -4381,7 +4414,7 @@ Allegato 8*[^t-8]*
 - 2\.9.1 Le riduzioni avvengono mediante la detrazione di importi forfettari e mediante l’assegnazione di punti. Questi vengono convertiti in importi per categoria di animali secondo l’articolo 73 e separatamente per i contributi SSRA e URA applicando la formula seguente:
 - somma dei punti meno 10 punti diviso per 100 e poi moltiplicato per i contributi URA o SSRA della rispettiva categoria di animali.
 - Se il totale dei punti è uguale o superiore a 110, per l’anno di contribuzione non vengono versati contributi URA o SSRA per la rispettiva categoria di animali.
-- 2\.9.2 Alla prima recidiva vengono aggiunti 50 punti al punteggio relativo a una lacuna. A partire dalla seconda recidiva il punteggio relativo a una lacuna viene maggiorato di 100 punti o non vengono versati contributi URA o SSRA per la rispettiva categoria di animali.
+- 2\.9.2 Alla prima recidiva i punti relativi a una lacuna sono maggiorati di 50 punti. A partire dalla seconda recidiva i punti relativi a una lacuna sono maggiorati di 100 punti, ovvero non vengono versati contributi URA o SSRA per la rispettiva categoria di animali. Gli importi forfettari sono raddoppiati alla prima recidiva e quadruplicati a partire dalla seconda recidiva.
 - 2\.9.2a Se manca la documentazione dell’uscita di cui al numero 2.9.4 lettera d o se secondo la documentazione l’uscita risulta effettuata, ma non è comprovata in maniera attendibile, per la categoria di animali interessata sono calcolati 60 punti per la riduzione.
 - 2\.9.2b Se manca la documentazione dell’uscita di cui al numero 2.9.3 lettera r o se secondo la documentazione l’uscita risulta effettuata, ma non è comprovata in maniera attendibile, per la categoria di animali interessati sono calcolati 60 punti per la riduzione.
 - 2\.9.2c Se secondo la documentazione di cui al numero 2.9.4 lettera d non risulta l’uscita, ma è comprovata in maniera attendibile, non sono effettuate riduzioni secondo il numero 2.9.4 lettera e.
@@ -4428,6 +4461,13 @@ Allegato 8*[^t-8]*
 <tr><td>k. La superficie del suolo e quella laterale o la larghezza delle aperture dell’ACE non sono conformi alle esigenze</td><td colspan="2">Pollame da reddito (all. 6 lett. A n. 7.8)</td><td>Differenza inferiore al 10 %: 60 punti Differenza del 10 % o oltre: 110 punti</td></tr>
 <tr><td>l. Superficie del suolo nell’ACE (intera superficie) non sufficientemente ricoperta da una lettiera adeguata</td><td colspan="2">Pollame da reddito (all. 6 lett. A n. 7.8)</td><td>Presenza di lettiera scarsa: 10 punti Presenza di lettiera troppo scarsa: 40 punti Lettiera inesistente: 110 punti</td></tr>
 <tr><td>m. Gli animali hanno accesso all’ACE non durante tutto il giorno o non ricevono il numero minimo di ore di pascolo al giorno oppure l’ACE non è ricoperta</td><td colspan="2">Pollame da reddito (all. 6 lett. 4.1B n. 4.1)</td><td>60 punti</td></tr>
+</table>
+
+- 2\.9.5 Progetti per l’evoluzione delle disposizioni sui contributi per il benessere degli animali
+
+<table>
+<tr><td>[tab] Lacuna per il punto di controllo</td><td>[tab] Riduzione</td></tr>
+<tr><td>I requisiti per i contributi per il benessere degli animali o le deroghe autorizzate dall’UFAG non sono adempiute (art. 76*a*)</td><td>Riduzione analoga ai n. 2.9.1–2.9.4</td></tr>
 </table>
 
 ### 2.10 Contributi per l’efficienza delle risorse

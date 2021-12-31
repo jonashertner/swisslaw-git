@@ -4,11 +4,11 @@ title: "Verordnung vom 23. Oktober 2013 über die Direktzahlungen an die Landwir
 short: DZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/765"
 language: de
-version: 2021-07-05
+version: 2022-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20210705/de/xml/fedlex-data-admin-ch-eli-cc-2013-765-20210705-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20210705/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2013-765-20220101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20210705/de"
 
 (Direktzahlungsverordnung, DZV)
 
-vom 23. Oktober 2013 (Stand am 5. Juli 2021) (Stand am 5. Juli 2021)
+vom 23. Oktober 2013 (Stand am 1. Januar 2022) (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -246,7 +246,12 @@ Die für die landwirtschaftliche Produktion massgebenden Vorschriften der Tiersc
 
 <sup>2</sup> Die zulässige Phosphor- und Stickstoffmenge bemisst sich nach dem Pflanzenbedarf und dem betrieblichen Bewirtschaftungspotenzial.
 
+<sup>2bis</sup> Luftverunreinigungen, die insbesondere durch das Lagern und Ausbringen von flüssigen Hofdüngern verursacht werden, sind nach den Vorgaben der Luftreinhalte-Verordnung vom 16. Dezember 1985[^13-1] zu begrenzen.[^13-2]
+
 <sup>3</sup> Zur Optimierung der Düngerverteilung auf die einzelnen Parzellen müssen auf allen Parzellen mindestens alle zehn Jahre Bodenuntersuchungen nach Anhang 1 Ziffer 2.2 durchgeführt werden.
+
+[^13-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^13-2]: Eingefügt durch Ziff. II der V vom 12. Febr. 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)).
 
 #### Art. 14
 
@@ -307,7 +312,7 @@ Verbindlich ausgeschieden sind Flächen, wenn:
 
 <sup>2</sup> Betriebe mit mehr als 3 Hektaren offener Ackerfläche müssen auf jeder Parzelle mit Kulturen, die vor dem 31. August geerntet werden, im laufenden Jahr eine Winterkultur, Zwischenfutter oder Gründüngung ansäen.[^17-1]
 
-<sup>3</sup> ...[^17-2]
+<sup>3</sup> …[^17-2]
 
 <sup>4</sup> Für Betriebe, die nach den Anforderungen der Bio-Verordnung vom 22. September 1997[^17-3] bewirtschaftet werden, gelten für den Nachweis eines geeigneten Bodenschutzes die Anforderungen der nationalen Fachorganisation nach Artikel 20 Absatz 2.
 
@@ -504,11 +509,12 @@ Enthält ein allfälliger Bewirtschaftungsplan nach Anhang 2 Ziffer 2 weitergehe
 
 <sup>6</sup> Artenreiche Grün- und Streueflächen im Sömmerungsgebiet (Art. 55 Abs. 1 Bst. o) berechtigen nur zu Biodiversitätsbeiträgen.
 
-<sup>7</sup> Zu keinen Beiträgen berechtigen Flächen, die mit Baumschulen, Forstpflanzen, Christbäumen, Zierpflanzen, Hanf oder Gewächshäusern mit festem Fundament belegt sind.
+<sup>7</sup> Zu keinen Beiträgen berechtigen Flächen, die mit Baumschulen, Forstpflanzen, Christbäumen, Zierpflanzen, Hanf, der nicht zur Nutzung der Fasern oder der Samen angebaut wird, oder Gewächshäusern mit festem Fundament belegt sind.[^35-4]
 
 [^35-1]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 [^35-2]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
 [^35-3]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^35-4]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 ### 2. Abschnitt: Massgebende Tierbestände
 
@@ -548,7 +554,7 @@ Für die Bestimmung der Bestossung von Sömmerungs- und Gemeinschaftsweidebetrie
 
 <sup>6</sup> Der Tierbestand für die Bestossung von Sömmerungs- und Gemeinschaftsweidebetrieben im Inland wird in Normalstössen nach Artikel 39 Absätze 2 und 3 bemessen.
 
-[^37-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
+[^37-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2018 (AS **201****6** 3291).
 [^37-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 ### 3. Abschnitt: Besondere Bestimmungen für die Sömmerung und das Sömmerungsgebiet
@@ -577,7 +583,7 @@ Für die Bestimmung der Bestossung von Sömmerungs- und Gemeinschaftsweidebetrie
 
 <sup>5</sup> Bei Sömmerungs- oder Gemeinschaftsweidebetrieben, welche die Sömmerung neu aufnehmen, setzt der Kanton den Normalbesatz aufgrund des effektiv gesömmerten Bestandes provisorisch fest. Nach drei Jahren setzt er den Normalbesatz unter Berücksichtigung der durchschnittlichen Bestossung dieser drei Jahre und der Anforderung einer nachhaltigen Nutzung definitiv fest.
 
-[^39-1]: [[AS 2000 1105](https://fedlex.data.admin.ch/eli/oc/2000/175),[2002 1140](https://fedlex.data.admin.ch/eli/oc/2002/186),[2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 17. [AS 2007 6139](https://fedlex.data.admin.ch/eli/oc/2007/818)Art. 29]
+[^39-1]: [[AS 2000 1105](https://fedlex.data.admin.ch/eli/oc/2000/175);[2002 1140](https://fedlex.data.admin.ch/eli/oc/2002/186);[2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 17. [AS 2007 6139](https://fedlex.data.admin.ch/eli/oc/2007/818)Art. 29]
 
 #### Art. 40
 
@@ -590,7 +596,7 @@ Der Kanton setzt für jeden Sömmerungs- oder Gemeinschaftsweidebetrieb den Norm
 - a. Schafe, mit Ausnahme von Milchschafen, nach Weidesystem;
 - b. die übrigen raufutterverzehrenden Nutztiere, mit Ausnahme von Bisons und Hirschen.
 
-<sup>2</sup> ...[^40-1]
+<sup>2</sup> …[^40-1]
 
 <sup>3</sup> Bei der Festlegung des Normalbesatzes für Schafe, mit Ausnahme von Milchschafen, darf der Besatz nach Anhang 2 Ziffer 3 pro Hektare Nettoweidefläche nicht überschritten werden.
 
@@ -620,7 +626,7 @@ Er setzt den Normalbesatz unter Berücksichtigung der Stellungnahmen der kantona
 
 <sup>3</sup> Er setzt den Normalbesatz neu fest, wenn die Bestossung über drei Jahre in Folge 75 Prozent des festgelegten Normalbesatzes unterschreitet. Er berücksichtigt dabei den durchschnittlichen Bestand der letzten drei Jahre und die Anforderungen an eine nachhaltige Nutzung.
 
-<sup>3bis</sup> und <sup>3ter</sup> ...[^41-1]
+<sup>3bis</sup> und <sup>3ter</sup> …[^41-1]
 
 <sup>4</sup> Der Bewirtschafter oder die Bewirtschafterin kann gegen die Anpassung des Normalbesatzes innerhalb von 30 Tagen Einsprache erheben und die Überprüfung des Entscheids aufgrund eines Bewirtschaftungsplanes verlangen. Er oder sie muss den Plan innerhalb eines Jahres vorlegen.
 
@@ -712,7 +718,7 @@ Er wird für folgende Kategorien festgelegt:
 - b. Schafe, mit Ausnahme von Milchschafen, bei Umtriebsweiden, pro NST;
 - c. Schafe, mit Ausnahme von Milchschafen, bei übrigen Weiden, pro NST;
 - d.[^47-1] übrige raufutterverzehrende Nutztiere, pro NST;
-- e.[^47-2] ...
+- e.[^47-2] …
 
 <sup>3</sup> Für Milchkühe, Milchschafe und Milchziegen wird zum Beitrag nach Absatz 2 Buchstabe d ein Zusatzbeitrag ausgerichtet.[^47-3]
 
@@ -806,7 +812,7 @@ Der Mindesttierbesatz auf Dauergrünflächen beträgt pro Hektare:
 
 <sup>2</sup> Für die Berechnung des Abzugs sind die Direktzahlungen der EU massgebend, die für das Vorjahr ausgerichtet wurden.
 
-[^54-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
+[^54-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 (AS **201****6** 3291).
 
 ### 3. Kapitel: Biodiversitätsbeiträge
 
@@ -829,16 +835,16 @@ Biodiversitätsbeiträge werden pro Hektare für folgende eigene oder gepachtete
 - i. Rotationsbrachen;
 - j. Ackerschonstreifen;
 - k. Saum auf Ackerfläche;
-- l.[^55-2] ...
-- m.[^55-3] ...
+- l.[^55-2] …
+- m.[^55-3] …
 - n. Rebflächen mit natürlicher Artenvielfalt;
 - o. artenreiche Grün- und Streueflächen im Sömmerungsgebiet;
 - p. regionsspezifische Biodiversitätsförderflächen;
 - q.[^55-4] Blühstreifen für Bestäuber und andere Nützlinge.
 
-<sup>1b</sup>
+<sup>1bis</sup>
 
-<sup>is</sup> Biodiversitätsbeiträge werden pro Baum für folgende eigene oder gepachtete Bäume gewährt:[^55-5]
+Biodiversitätsbeiträge werden pro Baum für folgende eigene oder gepachtete Bäume gewährt:[^55-5]
 
 - a. Hochstamm-Feldobstbäume;
 - b. einheimische standortgerechte Einzelbäume und Alleen.[^55-6]
@@ -1138,7 +1144,7 @@ Der Anbau hat unter vollständigem Verzicht auf den Einsatz von folgenden Mittel
 Die Anforderungen nach Absatz 1 sind pro Kultur auf dem Betrieb gesamthaft zu erfüllen für:
 
 - a.[^69-2] Brotweizen (einschliesslich Hartweizen), Futterweizen, Roggen, Hirse, Dinkel, Hafer, Gerste, Triticale, Emmer und Einkorn sowie Mischungen dieser Getreidearten;
-- b.[^69-3] ...
+- b.[^69-3] …
 - c. Raps;
 - d. Sonnenblumen;
 - e.[^69-4] Eiweisserbsen, Ackerbohnen und Lupinen sowie Mischungen von Eiweiss-erbsen, Ackerbohnen oder Lupinen mit Getreide zur Verfütterung.
@@ -1249,7 +1255,7 @@ Für die Tierwohlbeiträge gelten folgende Tierkategorien:
 
   - 1\. weibliche Tiere, über ein Jahr alt,
   - 2\. männliche Tiere, über ein Jahr alt,
-  - 3\.[^73-2] ...
+  - 3\.[^73-2] …
 
 - e.
 
@@ -1346,6 +1352,16 @@ Sie enthalten:
 
 [^76-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
 
+#### Art. 76a
+
+**Projekte zur Weiterentwicklung der Bestimmungen für die Tierwohlbeiträge**[^76a-1]
+
+<sup>1</sup> Im Rahmen von Projekten, mit denen im Hinblick auf die Weiterentwicklung der Bestimmungen für die Tierwohlbeiträge alternative Regelungen getestet werden, kann von einzelnen Anforderungen der Artikel 74 und 75 und nach Anhang 6 abgewichen werden, sofern die Regelungen in Bezug auf das Tierwohl mindestens gleichwertig sind und das Projekt wissenschaftlich begleitet wird.
+
+<sup>2</sup> Die Abweichungen bedürfen der Bewilligung des BLW.
+
+[^76a-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
+
 ### 6. Kapitel: Ressourceneffizienzbeiträge
 
 ### 1. Abschnitt: Beitrag für emissionsmindernde Ausbringverfahren
@@ -1385,7 +1401,7 @@ Der Bewirtschafter oder die Bewirtschafterin verpflichtet sich, pro Fläche folg
 
 - a. Datum der Ausbringung;
 - b. gedüngte Fläche;
-- c.[^78-4] ...
+- c.[^78-4] …
 
 <sup>5</sup> Der Kanton bestimmt, in welcher Form die Aufzeichnungen geliefert werden müssen.
 
@@ -1437,10 +1453,10 @@ Der Bewirtschafter oder die Bewirtschafterin verpflichtet sich, pro Fläche folg
 
 - a. Art der schonenden Bodenbearbeitung;
 - b.[^80-3] Hauptkultur und vorangehende Hauptkultur;
-- c.[^80-4] ...
+- c.[^80-4] …
 - d. Herbizideinsatz;
 - e. Fläche;
-- f.[^80-5] ...
+- f.[^80-5] …
 
 <sup>4</sup> Der Kanton bestimmt, in welcher Form die Aufzeichnungen geliefert werden müssen.
 
@@ -1519,7 +1535,7 @@ Für die Ausrüstung von vorhandenen und neu angeschafften Feld- und Gebläsespr
 <sup>2</sup> Die Beiträge werden bis 2022 ausgerichtet.[^82b-2]
 
 [^82b-1]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^82b-2]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
+[^82b-2]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 (AS **202****0** 5449).
 
 #### Art. 82c
 
@@ -1562,7 +1578,7 @@ Der Beitrag für die Reduktion von Pflanzenschutzmitteln im Rebbau wird ausgeric
 
 <sup>4</sup> Die Beiträge werden bis 2022 ausgerichtet.[^82d-2]
 
-[^82d-1]: SR **91****0.91**
+[^82d-1]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 [^82d-2]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
 
 #### Art. 82e
@@ -1898,7 +1914,7 @@ Bewirtschafter und Bewirtschafterinnen, die ein Gesuch für bestimmte Direktzahl
 
 <sup>2</sup> Tierschutzkontrollen im Rahmen des ÖLN sind nach den Bestimmungen der Tierschutzgesetzgebung durchzuführen.
 
-<sup>3</sup> und <sup>4 ...</sup> [^102-2]
+<sup>3</sup> und <sup>4 …</sup> [^102-2]
 
 [^102-1]: [SR 910.15](https://fedlex.data.admin.ch/eli/cc/2018/673)
 [^102-2]: Aufgehoben durch Ziff. I der V vom 31. Okt. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
@@ -1909,7 +1925,7 @@ Bewirtschafter und Bewirtschafterinnen, die ein Gesuch für bestimmte Direktzahl
 
 <sup>1</sup> Bei der Betriebskontrolle festgestellte Mängel oder falsche Angaben muss die Kontrollperson dem Bewirtschafter oder der Bewirtschafterin unverzüglich mitteilen.
 
-<sup>2</sup> und <sup>3</sup> ...[^103-1]
+<sup>2</sup> und <sup>3</sup> …[^103-1]
 
 <sup>4</sup> Die Kontrollstelle leitet die Kontrollergebnisse nach den Bestimmungen des Zusammenarbeitsvertrags nach Artikel 104 Absatz 3 weiter.
 
@@ -1935,7 +1951,7 @@ Bewirtschafter und Bewirtschafterinnen, die ein Gesuch für bestimmte Direktzahl
 
 <sup>5</sup> Er überwacht die Kontrolltätigkeit der Kontrollstellen in seinem Kantonsgebiet stichprobenmässig.
 
-<sup>6</sup> ...[^104-2]
+<sup>6</sup> …[^104-2]
 
 [^104-1]: [SR 910.15](https://fedlex.data.admin.ch/eli/cc/2018/673)
 [^104-2]: Aufgehoben durch Ziff. I der V vom 11. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
@@ -1948,7 +1964,7 @@ Bewirtschafter und Bewirtschafterinnen, die ein Gesuch für bestimmte Direktzahl
 
 <sup>1</sup> Die Kantone kürzen oder verweigern die Beiträge gemäss Anhang 8.
 
-<sup>2</sup> ...[^105-2]
+<sup>2</sup> …[^105-2]
 
 [^105-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
 [^105-2]: Aufgehoben durch Ziff. I der V vom 28. Okt. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
@@ -1993,9 +2009,11 @@ Als höhere Gewalt gelten insbesondere:
 
 <sup>2</sup> Bei der Festsetzung der Beiträge berücksichtigt der Kanton zuerst die Reduktionen, die sich aufgrund der Begrenzung der Direktzahlungen pro SAK ergeben, und danach die Reduktionen, die sich aufgrund der Kürzungen nach Artikel 105 und aufgrund der Direktzahlungen der EU nach Artikel 54 ergeben.
 
-<sup>3</sup> Der Kanton berücksichtigt für Kürzungen nach Artikel 105 die bis zum 31. August festgestellten Sachverhalte. Für Sömmerungs- und Gemeinschaftsweidebetriebe kann der Kanton einen späteren Termin festsetzen. Kürzungen für später festgestellte Sachverhalte werden im Folgejahr vorgenommen.
+<sup>3</sup> Der Kanton berücksichtigt für Kürzungen nach Artikel 105 alle vom 1. Januar bis zum 31. Dezember festgestellten Mängel. Er kann die Kürzungen im folgenden Beitragsjahr vornehmen, wenn die Mängel nach dem 1. September festgestellt wurden.[^108-1]
 
 <sup>4</sup> Der Kanton erfasst die Angaben zu Betrieb, Bewirtschafter und Bewirtschafterinnen, Flächen und Tierbeständen zwischen dem 15. Januar und 28. Februar. Bei den Tierbeständen ist zusätzlich zum massgebenden Bestand der Bestand am 1. Januar zu erfassen. Die Kantone erfassen Änderungen bis zum 1. Mai.
+
+[^108-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 #### Art. 109
 
@@ -2090,13 +2108,13 @@ Die Kantone erfassen die Flächen und deren Nutzung sowie die übrigen notwendig
 
 <sup>6</sup> Für Flächen und Bäume nach Artikel 55, die bis zum Stichtag im Jahr 2013 angemeldet wurden, und für regionale Vernetzungsprojekte nach Artikel 61, die bis Ende 2013 vom Kanton genehmigt wurden, gelten während der laufenden Projektdauer die bisherigen Anforderungen. Der Kanton kann für solche Vernetzungsprojekte eine kürzere Projektdauer festlegen. Für Nussbäume der Qualitätsstufe II werden vom Bund bis zum Ablauf der Verpflichtungsdauer 30 Franken ausgerichtet.
 
-<sup>7</sup> ...[^115-2]
+<sup>7</sup> …[^115-2]
 
 <sup>8</sup> Die Kantone passen die kantonalen Anforderungen für die Vernetzung nach Artikel 62 Absatz 2 an die Bestimmungen nach dieser Verordnung an und unterbreiten diese bis spätestens 30. September 2014 dem BLW zur Genehmigung. Vernetzungsprojekte, die die Kantone 2014 genehmigen oder verlängern, müssen den bisherigen kantonalen Anforderungen entsprechen. Für die Projektdauer gelten die Bestimmungen dieser Verordnung.
 
 <sup>9</sup> Für Landschaftsqualitätsprojekte nach Artikel 64, deren Umsetzungsperiode 2014 beginnen soll, sind der Projektbericht und das Gesuch um Umsetzung dem BLW bis zum 31. Januar 2014 einzureichen.
 
-<sup>10</sup> ...[^115-3]
+<sup>10</sup> …[^115-3]
 
 <sup>11</sup> Der Nachweis zur Erfüllung des ÖLN richtet sich im Jahr 2014 nach den Bestimmungen der Direktzahlungsverordnung vom 7. Dezember 1998, mit Ausnahme der Bestimmung nach Ziffer 2.1 Absatz 1 des Anhangs; statt dieser müssen die Anforderungen nach Anhang 1 Ziffern 2.1.1 und 2.1.3 der vorliegenden Verordnung erfüllt sein.
 
@@ -2112,7 +2130,7 @@ Die Kantone erfassen die Flächen und deren Nutzung sowie die übrigen notwendig
 
 <sup>17</sup> Solange ein Bewirtschafter oder eine Bewirtschafterin, Direktzahlungen im Rahmen eines Ressourcenprogrammes nach den Artikeln Artikel 77*a* und 77*b* LwG erhält, werden für dieselbe Massnahme keine Ressourceneffizienzbeiträge nach den Artikeln 77–81 ausgerichtet.
 
-[^115-1]: [[AS 1999 229](https://fedlex.data.admin.ch/eli/oc/1999/29), [2000 1105](https://fedlex.data.admin.ch/eli/oc/2000/175)Art. 20 Ziff. 2, [2001 232](https://fedlex.data.admin.ch/eli/oc/2001/48)[1310](https://fedlex.data.admin.ch/eli/oc/2001/179)Art. 22 Ziff. 1 [3539](https://fedlex.data.admin.ch/eli/oc/2001/525), **2****003** 1998 5321, [2006 883](https://fedlex.data.admin.ch/eli/oc/2006/153)[4827](https://fedlex.data.admin.ch/eli/oc/2006/744), [2007 6117](https://fedlex.data.admin.ch/eli/oc/2007/817), [2008 3777](https://fedlex.data.admin.ch/eli/oc/2008/511)[5819](https://fedlex.data.admin.ch/eli/oc/2008/800), [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)[6091](https://fedlex.data.admin.ch/eli/oc/2009/745), [2010 2319](https://fedlex.data.admin.ch/eli/oc/2010/335)[5855](https://fedlex.data.admin.ch/eli/oc/2010/835), [2011 2361](https://fedlex.data.admin.ch/eli/oc/2011/337)[5295](https://fedlex.data.admin.ch/eli/oc/2011/765)[5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Anhang 2 Ziff. 3 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)Anhang 2 Ziff. 3, [2013 1729](https://fedlex.data.admin.ch/eli/oc/2013/394)]
+[^115-1]: [[AS 1999 229](https://fedlex.data.admin.ch/eli/oc/1999/29); [2000 1105](https://fedlex.data.admin.ch/eli/oc/2000/175)Art. 20 Ziff. 2; [2001 232](https://fedlex.data.admin.ch/eli/oc/2001/48), [1310](https://fedlex.data.admin.ch/eli/oc/2001/179)Art. 22 Ziff. 1, [3539](https://fedlex.data.admin.ch/eli/oc/2001/525); [2003 1998](https://fedlex.data.admin.ch/eli/oc/2003/301), [5321](https://fedlex.data.admin.ch/eli/oc/2003/777); [2006 883](https://fedlex.data.admin.ch/eli/oc/2006/153), [4827](https://fedlex.data.admin.ch/eli/oc/2006/744); [2007 6117](https://fedlex.data.admin.ch/eli/oc/2007/817); [2008 3777](https://fedlex.data.admin.ch/eli/oc/2008/511), [5819](https://fedlex.data.admin.ch/eli/oc/2008/800); [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338), [6091](https://fedlex.data.admin.ch/eli/oc/2009/745); [2010 2319](https://fedlex.data.admin.ch/eli/oc/2010/335), [5855](https://fedlex.data.admin.ch/eli/oc/2010/835); [2011 2361](https://fedlex.data.admin.ch/eli/oc/2011/337), [5295](https://fedlex.data.admin.ch/eli/oc/2011/765), [5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Anhang 2 Ziff. 3, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)Anhang 2 Ziff. 3; [2013 1729](https://fedlex.data.admin.ch/eli/oc/2013/394)]
 [^115-2]: Aufgehoben durch Ziff. I der V vom 28. Okt. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 [^115-3]: Aufgehoben durch Ziff. I der V vom 16. Sept. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
 
@@ -2155,7 +2173,7 @@ Für die Berechnung der linearen Korrektur gemäss Zusatzmodul 6 und der Import/
 <sup>5</sup> In den Jahren 2018 und 2019 kann der Bewirtschafter oder die Bewirtschafterin bei der vom zuständigen Kanton bezeichneten Stelle jeweils bis zum 1. Mai, beim Sömmerungs- oder Gemeinschaftsweidebetrieb bis zum 15. November, schriftlich oder elektronisch melden, wenn der effektiv auf dem Betrieb gehaltene massgebende Bestand an Tieren der Pferdegattung von dem nach Artikel 36 Absätze 2 Buchstabe a und 3 erhobenen Bestand abweicht. Die vom zuständigen Kanton bezeichnete Stelle korrigiert den Bestand entsprechend der Meldung oder stellt eine elektronische Korrekturmöglichkeit zur Verfügung.
 
 [^115c-1]: Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017, Abs. 5 in Kraft seit 1. Jan. 2018 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
-[^115c-2]: SR **510****.****620**
+[^115c-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
 
 #### Art. 115d
 
@@ -2205,9 +2223,9 @@ Folgende Verordnungen werden aufgehoben:
 - 2\. Sömmerungsbeitragsverordnung vom 14. November 2007[^116-2];
 - 3\. Öko-Qualitätsverordnung vom 4. April 2001[^116-3].
 
-[^116-1]: [[AS 1999 229](https://fedlex.data.admin.ch/eli/oc/1999/29), [2000 1105](https://fedlex.data.admin.ch/eli/oc/2000/175)Art. 20 Ziff. 2, [2001 232](https://fedlex.data.admin.ch/eli/oc/2001/48)[1310](https://fedlex.data.admin.ch/eli/oc/2001/179)Art. 22 Ziff. 1 [3539](https://fedlex.data.admin.ch/eli/oc/2001/525), [2003 1998](https://fedlex.data.admin.ch/eli/oc/2003/301)[5321](https://fedlex.data.admin.ch/eli/oc/2003/777), [2006 883](https://fedlex.data.admin.ch/eli/oc/2006/153)[4827](https://fedlex.data.admin.ch/eli/oc/2006/744), [2007 6117](https://fedlex.data.admin.ch/eli/oc/2007/817), [2008 3777](https://fedlex.data.admin.ch/eli/oc/2008/511)[5819](https://fedlex.data.admin.ch/eli/oc/2008/800), [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)[6091](https://fedlex.data.admin.ch/eli/oc/2009/745), [2010 2319](https://fedlex.data.admin.ch/eli/oc/2010/335)[5855](https://fedlex.data.admin.ch/eli/oc/2010/835), [2011 2361](https://fedlex.data.admin.ch/eli/oc/2011/337)[5295](https://fedlex.data.admin.ch/eli/oc/2011/765)[5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Anhang 2 Ziff. 3 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)Anhang 2 Ziff. 3, [2013 1729](https://fedlex.data.admin.ch/eli/oc/2013/394)]
-[^116-2]: [[AS 2007 6139](https://fedlex.data.admin.ch/eli/oc/2007/818), [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)Ziff. II 1, [2010 2321](https://fedlex.data.admin.ch/eli/oc/2010/336)[5855](https://fedlex.data.admin.ch/eli/oc/2010/835)Ziff. II 1, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Anhang 2 Ziff. 4 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)Anhang 2 Ziff. II 4]
-[^116-3]: [[AS 2001 1310](https://fedlex.data.admin.ch/eli/oc/2001/179), [2003 4871](https://fedlex.data.admin.ch/eli/oc/2003/717), [2007 6157](https://fedlex.data.admin.ch/eli/oc/2007/819), [2009 6313](https://fedlex.data.admin.ch/eli/oc/2009/769), [2010 5855](https://fedlex.data.admin.ch/eli/oc/2010/835)Ziff. II 3]
+[^116-1]: [[AS 1999 229](https://fedlex.data.admin.ch/eli/oc/1999/29); [2000 1105](https://fedlex.data.admin.ch/eli/oc/2000/175)Art. 20 Ziff. 2; [2001 232](https://fedlex.data.admin.ch/eli/oc/2001/48), [1310](https://fedlex.data.admin.ch/eli/oc/2001/179)Art. 22 Ziff. 1, [3539](https://fedlex.data.admin.ch/eli/oc/2001/525); [2003 1998](https://fedlex.data.admin.ch/eli/oc/2003/301), [5321](https://fedlex.data.admin.ch/eli/oc/2003/777); [2006 883](https://fedlex.data.admin.ch/eli/oc/2006/153), [4827](https://fedlex.data.admin.ch/eli/oc/2006/744); [2007 6117](https://fedlex.data.admin.ch/eli/oc/2007/817); [2008 3777](https://fedlex.data.admin.ch/eli/oc/2008/511), [5819](https://fedlex.data.admin.ch/eli/oc/2008/800); [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338), [6091](https://fedlex.data.admin.ch/eli/oc/2009/745); [2010 2319](https://fedlex.data.admin.ch/eli/oc/2010/335), [5855](https://fedlex.data.admin.ch/eli/oc/2010/835); [2011 2361](https://fedlex.data.admin.ch/eli/oc/2011/337), [5295](https://fedlex.data.admin.ch/eli/oc/2011/765), [5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Anhang 2 Ziff. 3, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)Anhang 2 Ziff. 3; [2013 1729](https://fedlex.data.admin.ch/eli/oc/2013/394)]
+[^116-2]: [[AS 2007 6139](https://fedlex.data.admin.ch/eli/oc/2007/818); [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)Ziff. II 1; [2010 2321](https://fedlex.data.admin.ch/eli/oc/2010/336), [5855](https://fedlex.data.admin.ch/eli/oc/2010/835)Ziff. II 1; [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Anhang 2 Ziff. 4, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)Anhang 2 Ziff. II 4]
+[^116-3]: [[AS 2001 1310](https://fedlex.data.admin.ch/eli/oc/2001/179); [2003 4871](https://fedlex.data.admin.ch/eli/oc/2003/717); [2007 6157](https://fedlex.data.admin.ch/eli/oc/2007/819); [2009 6313](https://fedlex.data.admin.ch/eli/oc/2009/769); [2010 5855](https://fedlex.data.admin.ch/eli/oc/2010/835)Ziff. II 3]
 
 #### Art. 117
 
@@ -2221,7 +2239,7 @@ Die Änderung anderer Erlasse wird in Anhang 9 geregelt.
 
 <sup>1</sup> Diese Verordnung tritt unter Vorbehalt der Absätze 2 und 3 am 1. Januar 2014 in Kraft.
 
-<sup>2</sup> ...[^118-1]
+<sup>2</sup> …[^118-1]
 
 <sup>3</sup> Artikel 43 Absatz 1 Buchstabe c sowie Anhang 7 Ziffer 1.2.1 Buchstabe c treten am 1. Januar 2017 in Kraft.
 
@@ -2233,7 +2251,7 @@ Anhang 1*[^t-1]*
 
 ## Ökologischer Leistungsnachweis
 
-[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II Abs. 1 der V vom 18. Okt. 2017 (AS **2****017** 6033), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) und vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II Abs. 1 der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) und vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
 
 ### 1 Aufzeichnungen
 
@@ -2630,7 +2648,7 @@ Anhang 4*[^t-3]*
 
 ## Voraussetzungen für Biodiversitätsförderflächen
 
-[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II Abs. 1 der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)) und Ziff. II der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
+[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II Abs. 1 der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) und vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 ### A Biodiversitätsförderflächen
 
@@ -2796,11 +2814,14 @@ Anhang 4*[^t-3]*
   - b. 100 Kirsch-, Nuss- und Kastanienbäume.
 
 - 12\.1.4 Die Bäume müssen auf der eigenen oder der gepachteten landwirtschaftlichen Nutzfläche stehen.
-- 12\.1.5 Die einzelnen Bäume müssen in einer Distanz angepflanzt werden, die eine normale Entwicklung und Ertragsfähigkeit der Bäume gewährleistet. Die Angaben der gängigen Lehrmittel sind einzuhalten. Phytosanitäre Massnahmen sind gemäss Anordnung der Kantone umzusetzen.
+- 12\.1.5 Die einzelnen Bäume müssen in einer Distanz angepflanzt werden, die eine normale Entwicklung und Ertragsfähigkeit der Bäume gewährleistet. Die Angaben der gängigen Lehrmittel sind einzuhalten.
 - 12\.1.6 Die Stammhöhe muss bei Steinobstbäumen mindestens 1,2 m, bei den übrigen Bäumen mindestens 1,6 m betragen.
 - 12\.1.7 Es dürfen keine Herbizide eingesetzt werden, um den Stamm frei zu halten, ausgenommen bei jungen Bäumen von weniger als fünf Jahren.
 - 12\.1.8 Hochstamm-Feldobstbäume mit einem Abstand von weniger als 10 m ab dem Stamm zu Waldrand, Hecken, Feld- und Ufergehölzen sowie Gewässern dürfen nicht mit Pflanzenschutzmitteln behandelt werden.
-- 12\.1.9 Bis zum 10. Standjahr ab Pflanzung ist eine fachgerechte Baumpflege durchzuführen. Diese beinhaltet Formierung und Schnitt, Stamm- und Wurzelschutz, eine bedarfsgerechte Düngung sowie eine fachgerechte Bekämpfung von besonders gefährlichen Schadorganismen gemäss den Anordnungen der kantonalen Pflanzenschutzstellen.
+- 12\.1.9 Bis zum 10. Standjahr ab Pflanzung ist eine fachgerechte Baumpflege durchzuführen. Diese beinhaltet Formierung und Schnitt, Stamm- und Wurzelschutz sowie eine bedarfsgerechte Düngung.
+- 12\.1.10 Quarantäneorganismen nach der Pflanzengesundheitsverordnung vom 31. Oktober 2018[^annex4-lvlu1-lvl12-lvl121-1] und der gestützt darauf erlassenen Ausführungsverordnung sind gemäss den Anordnungen der kantonalen Pflanzenschutzstellen zu bekämpfen.
+
+[^annex4-lvlu1-lvl12-lvl121-1]: [SR 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
 
 ### 12.2 Qualitätsstufe II
 
@@ -2818,7 +2839,7 @@ Anhang 4*[^t-3]*
 - 12\.2.5 Die Distanz zwischen den einzelnen Bäumen darf maximal 30 m betragen.
 - 12\.2.6 Es sind fachgerechte Baumschnitte durchzuführen.
 - 12\.2.7 Die Anzahl Bäume muss während der Verpflichtungsdauer mindestens konstant bleiben.
-- 12\.2.8 ...
+- 12\.2.8 …
 - 12\.2.9
 
   Die Fläche mit Hochstamm-Feldobstbäumen muss in einer Distanz von maximal 50 m mit einer weiteren Biodiversitätsförderfläche (Zurechnungsfläche) örtlich kombiniert sein. Wenn nicht anders mit der kantonalen Fachstelle für Naturschutz vereinbart, gelten als Zurechnungsflächen:
@@ -3050,7 +3071,7 @@ Anhang 6*[^t-5]*
 
 ## Spezifische Anforderungen der Tierwohlbeiträge
 
-[^t-5]: Fassung gemäss Ziff. II Abs. 2 der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Bereinigt gemäss Ziff. II der V vom 31. Okt. 2018 (AS **20****18** 4149) und vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)). Die Berichtigung vom 5. Juli 2021 betrifft nur den italienischen Text ([AS 2021 416](https://fedlex.data.admin.ch/eli/oc/2021/416)).
+[^t-5]: Fassung gemäss Ziff. II Abs. 2 der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Bereinigt gemäss Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), vom 11. Nov. 2020 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)) und vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 ### A Anforderungen für BTS-Beiträge
 
@@ -3104,7 +3125,7 @@ Anhang 6*[^t-5]*
   - c. bei hochträchtigen Rindern, die nach dem Kalben in einem Anbindestall gehalten werden, während zehn Tagen vor dem voraussichtlichen Geburtstermin.
 
 [^annex6-lvlu1-lvlA-lvl2-1]: Die Norm kann beim Bundesamt für Landwirtschaft, 3003 Bern, kostenlos eingesehen oder gegen Bezahlung bei der Schweizerische Normen-Vereinigung (SNV), Bürglistrasse 29, 8400 Winterthur oder unter www.snv.ch bezogen werden.
-[^annex6-lvlu1-lvlA-lvl2-2]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^annex6-lvlu1-lvlA-lvl2-2]: SR **91****6.404.1**
 
 ### 3 Tiere der Pferdegattung
 
@@ -3237,7 +3258,7 @@ Anhang 6*[^t-5]*
 
   - a. für Hennen und Hähne bis 10 Uhr sowie nach dem Einstallen in den Legestall bis zum Ende der 23. Alterswoche;
   - b. für Mastpoulets an den ersten 21 Lebenstagen;
-  - c. für Truten und Küken für die Eierproduktion an den ersten 42 Lebenstagen.
+  - c. für Truten, Junghähne von Legehennenlinien und Küken für die Eierproduktion an den ersten 42 Lebenstagen.
 
 - 7\.8
 
@@ -3298,7 +3319,7 @@ Anhang 6*[^t-5]*
   - a. während zehn Tagen vor dem voraussichtlichen Geburtstermin und während zehn Tagen nach der Geburt;
   - b. im Zusammenhang mit einem Eingriff am Tier;
   - c. vor einem Transport während maximal zwei Tagen; die Identifikationsnummern der fixierten Tiere nach der TVD-Verordnung und das Datum müssen vor der Abweichung dokumentiert werden;
-  - d. soweit dies während der Fütterung oder der Reinigung der Auslauffläche notwendig ist.
+  - d. soweit dies während der Fütterung, des Melkens oder der Reinigung der Auslauffläche notwendig ist.
 
 - 2\.4
 
@@ -3360,10 +3381,10 @@ Anhang 6*[^t-5]*
 - 2\.8 Den Tieren der Pferdegattung muss mindestens folgende Auslauffläche zur Verfügung stehen:
 
 <table>
-<tr><th>Die Auslaufläche ist für die Tiere ...</th><th></th><th></th><th colspan="6">Widerristhöhe des Tieres</th><th></th><th></th><th></th></tr>
+<tr><th>Die Auslaufläche ist für die Tiere …</th><th></th><th></th><th colspan="6">Widerristhöhe des Tieres</th><th></th><th></th><th></th></tr>
 <tr><th></th><th colspan="3">&lt; 120 cm</th><th>120–134 cm</th><th>134–148 cm</th><th>148–162 cm</th><th>162–175 cm</th><th colspan="4">&gt; 175 cm</th></tr>
-<tr><td>– dauernd zugänglich: mindestens ... m<sup>2</sup>/Tier<sup>1, 2</sup></td><td colspan="3">12</td><td>14</td><td>16</td><td>20</td><td>24</td><td colspan="4">24</td></tr>
-<tr><td>– nicht dauernd zugänglich: mindestens ... m<sup>2</sup>/Tier<sup>1, 2</sup></td><td colspan="3">18</td><td>21</td><td>24</td><td>30</td><td>36</td><td colspan="4">36</td></tr>
+<tr><td>– dauernd zugänglich: mindestens … m<sup>2</sup>/Tier<sup>1, 2</sup></td><td colspan="3">12</td><td>14</td><td>16</td><td>20</td><td>24</td><td colspan="4">24</td></tr>
+<tr><td>– nicht dauernd zugänglich: mindestens … m<sup>2</sup>/Tier<sup>1, 2</sup></td><td colspan="3">18</td><td>21</td><td>24</td><td>30</td><td>36</td><td colspan="4">36</td></tr>
 <tr><td colspan="12"><sup>1</sup> Mindestens 50 % der minimalen Auslauffläche muss ungedeckt sein. <sup>2</sup> Befinden sich mehrere Tiere auf einer Auslauffläche, so entspricht die Mindestfläche der Summe der Mindestflächen für die einzelnen Tiere. Umfasst eine Gruppe mindestens fünf Tiere, so kann die Fläche um maximal 20 % reduziert werden.</td></tr>
 </table>
 
@@ -3629,7 +3650,7 @@ Anhang 7*[^t-7]*
 <tr><td colspan="2">*4.* *Extensive Weiden und Waldweiden*</td><td>450</td><td colspan="2">700</td></tr>
 <tr><td colspan="2">*5.* *Hecken, Feld- und Ufergehölze*</td><td>2160</td><td colspan="2">2840</td></tr>
 <tr><td colspan="2">*6.* *Buntbrache*</td><td>3800</td><td colspan="2"></td></tr>
-<tr><td colspan="2">*7.* *Rotati**onsbrache*</td><td>3300</td><td colspan="2"></td></tr>
+<tr><td colspan="2">*7.* *Rotationsbrache*</td><td>3300</td><td colspan="2"></td></tr>
 <tr><td colspan="2">*8.* *Ackerschonstreifen*</td><td>2300</td><td colspan="2"></td></tr>
 <tr><td colspan="2">*9.* *Saum auf Ackerfläche*</td><td>3300</td><td colspan="2"></td></tr>
 <tr><td colspan="2">*10.* *Rebflächen mit natürlicher Artenvie**l**falt*</td><td>–</td><td colspan="2">1100</td></tr>
@@ -3837,7 +3858,7 @@ Anhang 8*[^t-8]*
 
 ## Kürzungen der Direktzahlungen
 
-[^t-8]: Fassung gemäss Ziff. II Abs. 2 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Bereinigt gemäss Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)) und Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) und vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
+[^t-8]: Fassung gemäss Ziff. II Abs. 2 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Bereinigt gemäss Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), vom 11. Nov. 2020 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)) und vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 ### 1 Allgemeines
 
@@ -3932,9 +3953,9 @@ Anhang 8*[^t-8]*
 ### 2.2 Ökologischer Leistungsnachweis
 
 - 2\.2.1 Die Kürzungen erfolgen mit Abzügen von Pauschalbeträgen, von Beträgen pro Einheit und über die Vergabe von Punkten, die folgendermassen in Beträge umgerechnet werden:
-- Summe der Punkte minus 10 Punkte, dividiert durch 100 und dann multipliziert mit 1000 Franken pro Hektar LN des Betriebs.
-- Liegt die Summe der Punkte aus Wiederholungfällen bei 110 oder mehr, so werden im Beitragsjahr keine Direktzahlungen ausgerichtet.
-- Die Punkte bei einem Mangel werden im ersten Wiederholungsfall verdoppelt und ab dem zweiten Wiederholungsfall vervierfacht.
+- Summe der Punkte minus 10 Punkte, dividiert durch 100 und dann multipliziert mit 1000 Franken pro Hektare LN des Betriebs.
+- Liegt die Summe der Punkte aus Wiederholungsfällen bei 110 Punkten oder mehr, so werden im Beitragsjahr keine Direktzahlungen ausgerichtet.
+- Die Punkte bei einem Mangel, die Pauschalbeträge und die Beträge pro Einheit werden im ersten Wiederholungsfall verdoppelt und ab dem zweiten Wiederholungsfall vervierfacht.
 - 2\.2.2 Allgemeines
 
 <table>
@@ -3957,7 +3978,7 @@ Anhang 8*[^t-8]*
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
 <tr><td>a. Weniger als 7 % Biodiversitätsförderfläche an der LN (Spezialkulturen: 3,5 %); (Art. 14)</td><td>20 Pte. je % Unterschreitung, mind. 10 Pte.</td></tr>
-<tr><td>b. Keine vorschriftsgemässe Bewirtschaftung von Objekten in Inventaren nationaler Bedeutung, inklusive der dazugehörigen Pufferstreifen, bei vorliegendem rechtskräftigen Entscheid (Art. 15)</td><td>5 Pte. pro Objekt</td></tr>
+<tr><td>b. Keine vorschriftsgemässe Bewirtschaftung von Objekten in Inventaren nationaler Bedeutung, inklusive der dazugehörigen Pufferzonen (Art. 15)</td><td>5 Pte. pro Objekt</td></tr>
 </table>
 
 - 2\.2.5 Pufferstreifen
@@ -4017,8 +4038,8 @@ Anhang 8*[^t-8]*
 - 2\.3.1 Die Kürzungen erfolgen mit Abzügen von Pauschalbeträgen und mit der Vergabe von Punkten, die folgendermassen in Beträge umgerechnet werden:
 - Summe der Punkte mal 100 Franken pro Punkt, mindestens jedoch 200 Franken und im Wiederholungsfall mindestens 400 Franken.
 - Liegt die Summe der Punkte aus Wiederholungsfällen bei 110 oder mehr, so werden im Beitragsjahr keine Direktzahlungen ausgerichtet.
-- Bei einem erstmaligen Verstoss beträgt die Kürzung maximal 50 Punkte in jedem einzelnen der Buchstaben a–f. Bei besonders schwerwiegenden Fällen, wie einer groben Vernachlässigung der Tiere oder sehr vielen betroffenen Tiere, kann der Kanton die maximale Punktzahl angemessen erhöhen. Im Wiederholungsfall gelten keine maximalen Punktzahlen.
-- Die Punkte bei einem Mangel werden im ersten Wiederholungsfall verdoppelt und ab dem zweiten Wiederholungsfall vervierfacht.
+- Bei einem erstmaligen Verstoss beträgt die Kürzung maximal 50 Punkte in jedem einzelnen der Buchstaben a–f. Bei besonders schwerwiegenden Fällen, wie einer groben Vernachlässigung der Tiere oder sehr vielen betroffenen Tieren, kann der Kanton die maximale Punktzahl angemessen erhöhen. Im Wiederholungsfall gelten keine maximalen Punktzahlen.
+- Die Punkte bei einem Mangel und die Pauschalbeträge werden im ersten Wiederholungsfall verdoppelt und ab dem zweiten Wiederholungsfall vervierfacht.
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
@@ -4037,6 +4058,20 @@ Anhang 8*[^t-8]*
 <tr><td>60–119 Tage Auslauf im Sommer</td><td>2 Pte. pro betroffene GVE</td></tr>
 <tr><td>0–59 Tage Auslauf im Sommer</td><td>4 Pte. pro betroffene GVE</td></tr>
 </table>
+
+### 2.3*a* Luftreinhaltung
+
+- 2\.3*a.*1 Die Kürzungen erfolgen mit Abzügen von Pauschalbeträgen und mit Beträgen pro ha.
+- Die Pauschalbeträge und die Beträge pro ha werden im ersten Wiederholungsfall verdoppelt und ab dem zweiten Wiederholungsfall vervierfacht.
+- Gewährt die zuständige Behörde eine Frist zur Sanierung von Anlagen zur Lagerung, so werden bei festgestellten Mängeln innerhalb dieser Frist keine Kürzungen nach Buchstabe a vorgenommen.
+
+<table>
+<tr><td>Mangel beim Kontrollpunkt</td><td>Kürzung</td></tr>
+<tr><td>a. Nicht konforme Lagerung von flüssigen Hofdüngern (Art. 13 Abs. 2<sup>bis</sup>)</td><td>300 Fr.</td></tr>
+<tr><td>b. …[^annex8-lvlu1-lvl2-lvl23a-1]</td><td></td></tr>
+</table>
+
+[^annex8-lvlu1-lvl2-lvl23a-1]: Tritt am 1. Jan. 2024 in Kraft ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 ### 2.4 Biodiversitätsbeiträge: Qualitätsbeiträge
 
@@ -4324,7 +4359,7 @@ Anhang 8*[^t-8]*
 <tr><td>a. Tierbestandesverzeichnis oder Behandlungsjournal unvollständig, fehlend, falsch oder unbrauchbar (Art. 16*d* Abs. 4, Anhang 1 Ziff. 3.3 Bst. e Bio-V)</td><td>50 Fr. pro Dokument</td></tr>
 <tr><td>b. Unerlaubte zootechnische Massnahmen vorgenommen (Art. 16*e* Bio-Verordnung)</td><td>GVE betroffene Tiere × 100 Fr., mind. 200 Fr. und 1 Punkt/Tier, min. 15 Pte., max. 60 Pte.</td></tr>
 <tr><td>c. Medikamente präventiv eingesetzt; Eiseninjektion (Art. 16*d* Abs. 3 Bst. c und d Bio-V)</td><td>GVE betroffene Tiere × 100 Fr., und 10 Pte.</td></tr>
-<tr><td>d. ...</td><td></td></tr>
+<tr><td>d. …</td><td></td></tr>
 <tr><td>e. Doppelte Wartefristen nicht eingehalten (Art. 16*d* Abs. 8 Bio-V)</td><td>GVE betroffene Tiere × 100 Fr., mind. 200 Fr. und 10 Pte.</td></tr>
 <tr><td>f. Umstellungszeiträume nach Medikamenteneinsatz nicht eingehalten (Art. 16*d* Abs. 9 Bio-V)</td><td>GVE betroffene Tiere × 100 Fr., mind. 200 Fr. und 15 Pte.</td></tr>
 <tr><td>g. Hilfsstoffe eingesetzt, die nicht erlaubt sind (Art. 15 Abs. 2 Bio-V und Anh. 8 WBF- Bio-V)</td><td>100 Fr. und 10 Pte.</td></tr>
@@ -4389,7 +4424,7 @@ Anhang 8*[^t-8]*
 - 2\.9.1 Die Kürzungen erfolgen mit Abzügen von Pauschalbeträgen und über die Vergabe von Punkten. Die Punkte werden pro Tierkategorie nach Artikel 73 sowie für BTS- und RAUS-Beiträge separat wie folgt in Beträge umgerechnet:
 - Summe der Punkte minus 10 Punkte, dividiert durch 100 und dann multipliziert mit den BTS- bzw. RAUS-Beiträgen der betreffenden Tierkategorie.
 - Liegt die Summe der Punkte bei 110 oder mehr, so werden im Beitragsjahr keine BTS- bzw. RAUS-Beiträge für die betreffende Tierkategorie ausgerichtet.
-- 2\.9.2 Im ersten Wiederholungsfall wird die Punktzahl eines Mangels um 50 Punkte erhöht. Ab dem zweiten Wiederholungsfall wird die Punktzahl eines Mangels um 100 Punkte erhöht bzw. es werden keine BTS- bzw. RAUS-Beiträge für die entsprechende Tierkategorie ausgerichtet.
+- 2\.9.2 Die Punkte bei einem Mangel werden im ersten Wiederholungsfall um 50 Punkte erhöht. Ab dem zweiten Wiederholungsfall werden die Punkte um 100 Punkte erhöht bzw. es werden keine BTS- bzw. RAUS-Beiträge für die entsprechende Tierkategorie ausgerichtet. Die Pauschalbeträge werden im ersten Wiederholungsfall verdoppelt und ab dem zweiten Wiederholungsfall vervierfacht.
 - 2\.9.2a Wenn die Dokumentation des Auslaufs nach Ziffer 2.9.4 Buchstabe d fehlt oder der Auslauf gemäss Dokumentation eingehalten, aber nicht glaubwürdig gewährt wurde, werden für die betreffende Tierkategorie 60 Punkte für die Kürzung berechnet.
 - 2\.9.2b Wenn die Dokumentation des Auslaufs nach Ziffer 2.9.3 Buchstabe r fehlt oder der Auslauf gemäss Dokumentation eingehalten, aber nicht glaubwürdig gewährt wurde, werden für die betreffende Tierkategorie 60 Punkte für die Kürzung berechnet.
 - 2\.9.2c Wenn der Auslauf gemäss Dokumentation nach Ziffer 2.9.4 Buchstabe d nicht eingehalten wurde, aber glaubhaft gewährt wurde, werden keine Kürzungen nach Ziffer 2.9.4 Buchstabe e vorgenommen.
@@ -4436,6 +4471,13 @@ Anhang 8*[^t-8]*
 <tr><td>k. Boden- und Seitenfläche oder Breite der Öffnungen des AKB entsprechen nicht den Anforderungen</td><td colspan="2">Nutzgeflügel (Anhang 6 Bst. A Ziff. 7.8)</td><td>Abweichung weniger als 10 %: 60 Pte. Abweichung 10 % oder mehr: 110 Pte.</td></tr>
 <tr><td>l. Bodenfläche im AKB (ganze Fläche) nicht ausreichend mit zweckmässiger Einstreu bedeckt</td><td colspan="2">Nutzgeflügel (Anhang 6 Bst. A Ziff. 7.8)</td><td>zu wenig Einstreu; 10 Pte. viel zu wenig Einstreu: 40 Pte. keine Einstreu: 110 Pte.</td></tr>
 <tr><td>m. Die Tiere erhalten nicht während des ganzen Tages Zugang zum AKB oder die Tiere erhalten nicht die minimale Anzahl Stunden Weide pro Tag oder AKB nicht gedeckt</td><td colspan="2">Nutzgeflügel (Anhang 6 Bst. B Ziff. 4.1)</td><td>60 Pte.</td></tr>
+</table>
+
+- 2\.9.5 Projekte zur Weiterentwicklung der Bestimmungen für die Tierwohlbeiträge
+
+<table>
+<tr><td>Mangel beim Kontrollpunkt</td><td>Kürzung</td></tr>
+<tr><td>Die Anforderungen für die Tierwohlbeiträge oder die vom BLW bewilligten Abweichungen sind nicht eingehalten (Art. 76*a*)</td><td>Kürzung analog zu den Ziffern 2.9.1–2.9.4</td></tr>
 </table>
 
 ### 2.10 Ressourceneffizienzbeiträge
@@ -4619,12 +4661,12 @@ Die Kürzungen erfolgen mit Abzügen von Pauschalbeträgen. Im ersten Wiederholu
 <tr><td>a. Keine Herdenführung durch einen Hirten oder eine Hirtin mit Hunden (Anh. 2, Ziff. 4.1.1)</td><td>15 %</td></tr>
 <tr><td>b. Keine tägliche Führung der Herde auf einen vom Hirten oder von der Hirtin ausgewählten Weideplatz (Anh. 2, Ziff. 4.1.1)</td><td>15 %</td></tr>
 <tr><td>c. Keine Aufteilung der Weidefläche in Sektoren (Anh. 2, Ziff. 4.1.2)</td><td>10 %</td></tr>
-<tr><td>[tab] d.-f. ...</td><td></td></tr>
+<tr><td>[tab] d.-f. …</td><td></td></tr>
 <tr><td>g. Die Aufenthaltsdauer übersteigt im gleichen Sektor beziehungsweise auf der gleichen Weidefläche zwei Wochen (Anh. 2, Ziff. 4.1.4)</td><td>10 %</td></tr>
 <tr><td>h. Dieselbe Fläche wird innerhalb von vier Wochen wieder beweidet (Anh. 2, Ziff. 4.1.4)</td><td>10 %</td></tr>
 <tr><td>i. Die Herde ist nicht ununterbrochen behirtet (Anh. 2, Ziff. 4.1.5)</td><td>15 %</td></tr>
 <tr><td>j. Die Auswahl und Nutzung der Übernachtungsplätze erfolgt nicht so, dass ökologische Schäden vermieden werden (Anh. 2, Ziff. 4.1.6)</td><td>10 %</td></tr>
-<tr><td>k. ...</td><td></td></tr>
+<tr><td>k. …</td><td></td></tr>
 <tr><td>l. Die Beweidung erfolgt vor 20 Tage nach der Schneeschmelze (Anh. 2, Ziff. 4.1.8)</td><td>10 %</td></tr>
 <tr><td>m. Kein richtiger Umgang mit Kunststoffweidenetze (Anh. 2, Ziff. 4.1.9)</td><td>10 %</td></tr>
 </table>
@@ -4634,11 +4676,11 @@ Die Kürzungen erfolgen mit Abzügen von Pauschalbeträgen. Im ersten Wiederholu
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
 <tr><td>a. Die Beweidung erfolgt nicht während der gesamten Sömmerungsdauer in Koppeln, die eingezäunt oder natürlich klar abgegrenzt sind (Anh. 2, Ziff. 4.2.1)</td><td>15 %</td></tr>
-<tr><td>[tab] b. und c. ...</td><td></td></tr>
+<tr><td>[tab] b. und c. …</td><td></td></tr>
 <tr><td>d. Kein regelmässiger Umtrieb in Berücksichtigung von Koppelfläche, Bestossung und Standortbedingungen (Anh. 2, Ziff. 4.2.3)</td><td>10 %</td></tr>
 <tr><td>e. Dieselbe Koppel wird während mehr als zwei Wochen beweidet (Anh. 2, Ziff. 4.2.4)</td><td>10 %</td></tr>
 <tr><td>f. Dieselbe Koppel wird innerhalb von vier Wochen wieder beweidet (Anh. 2, Ziff. 4.2.4)</td><td>10 %</td></tr>
-<tr><td>[tab] g. und h. ...</td><td></td></tr>
+<tr><td>[tab] g. und h. …</td><td></td></tr>
 <tr><td>i. Die Beweidung erfolgt vor 20 Tage nach der Schneeschmelze (Anh. 2, Ziff. 4.2.7)</td><td>10 %</td></tr>
 <tr><td>j. Kein richtiger Umgang mit Kunststoffweidenetzen (Anh. 2, Ziff. 4.2.8)</td><td>10 %</td></tr>
 </table>
@@ -4682,6 +4724,6 @@ Anhang 9
 
 Die nachstehenden Verordnungen werden wie folgt geändert.
 
-...[^annex9-lvlu1-1]
+…[^annex9-lvlu1-1]
 
 [^annex9-lvlu1-1]: Die Änderungen können unter [AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)konsultiert werden.

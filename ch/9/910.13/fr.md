@@ -4,11 +4,11 @@ title: "Ordonnance du 23 octobre 2013 sur les paiements directs versés dans l'a
 short: OPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/765"
 language: fr
-version: 2021-07-05
+version: 2022-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20210705/fr/xml/fedlex-data-admin-ch-eli-cc-2013-765-20210705-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20210705/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-765-20220101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20210705/fr"
 
 (Ordonnance sur les paiements directs, OPD)
 
-du 23 octobre 2013 (Etat le 5 juillet 2021)
+du 23 octobre 2013 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -247,7 +247,12 @@ Les prescriptions de la législation sur la protection des animaux applicables �
 
 <sup>2</sup> Les apports autorisés en phosphore et en azote sont calculés en fonction des besoins des plantes et du potentiel de production de l’exploitation.
 
+<sup>2bis</sup> Les polluants atmosphériques émis en particulier lors de l’entreposage et l’épandage d’engrais de ferme liquides doivent être limités en vertu des dispositions de l’ordonnance du 16 décembre 1985 sur la protection de l’air[^13-1].[^13-2]
+
 <sup>3</sup> Afin que les engrais puissent être répartis d’une manière optimale sur les différentes parcelles, toutes les parcelles doivent faire l’objet, au moins tous les dix ans, d’analyses du sol visées à l’annexe 1, ch. 2.2.
+
+[^13-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^13-2]: Introduit par le ch. II de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)).
 
 #### Art. 14
 
@@ -507,11 +512,12 @@ Si un plan d’exploitation visé à l’annexe 2, ch. 2, prévoit des exigences
 
 <sup>6</sup> Les surfaces herbagères et les surfaces à litière riches en espèces dans la région d’estivage (art. 55, al. 1, let. o) ne donnent droit qu’à des contributions à la biodiversité.
 
-<sup>7</sup> Les surfaces aménagées en pépinières ou affectées à la culture de plantes forestières, de sapins de Noël, de plantes ornementales, de chanvre et les surfaces sous serres reposant sur des fondations en dur ne donnent droit à aucune contribution.
+<sup>7</sup> Les surfaces aménagées en pépinières ou affectées à la culture de plantes forestières, de sapins de Noël, de plantes ornementales, de chanvre non cultivé pour l’utilisation des fibres ou des graines et les surfaces sous serres reposant sur des fondations en dur ne donnent droit à aucune contribution.[^35-4]
 
 [^35-1]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 [^35-2]: Introduit par le ch. I de l’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
 [^35-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^35-4]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 ### Section 2 Effectifs déterminants d’animaux
 
@@ -599,7 +605,7 @@ Le canton fixe, pour chaque exploitation d’estivage ou de pâturages communaut
 
 <sup>4</sup> S’il existe un plan d’exploitation, le canton se réfère aux chiffres qu’il contient pour fixer la charge usuelle. Les limites fixées à l’al. 3 doivent être respectées.
 
-[^40-1]: Abrogé par le ch. I de l’O du 31 oct. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
+[^40-1]: Abrogés par le ch. I de l’O du 31 oct. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
 
 #### Art. 41
 
@@ -1109,7 +1115,7 @@ La contribution pour l’agriculture biologique est versée par hectare et éche
 
 [^67-1]: [RS 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
 
-### Section 3 Contribution pour la culture extensive de céréales, de tournesols, de pois protéagineux, de féveroles, de lupins et de colza****
+### Section 3 Contribution pour la culture extensive de céréales, de tournesols, de pois protéagineux, de féveroles, de lupins et de colza
 
 [^tit2-chap5-sec3-1]
 
@@ -1347,6 +1353,16 @@ Elles contiennent:
 
 [^76-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
 
+#### Art. 76a
+
+**Projets de développement des dispositions concernant les contributions au bien-être des animaux**[^76a-1]
+
+<sup>1</sup> Dans le cadre de projets servant à tester des réglementations alternatives en vue du développement des dispositions concernant les contributions au bien-être des animaux, il est possible de déroger à certaines exigences visées aux art. 74 et 75 et à l’annexe 6, à condition que les réglementations soient au moins équivalentes en matière de bien-être des animaux et que le projet fasse l’objet d’un accompagnement scientifique.
+
+<sup>2</sup> Les dérogations requièrent l’autorisation de l’OFAG.
+
+[^76a-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
+
 ### Chapitre 6 Contributions à l’utilisation efficiente des ressources
 
 ### Section 1 Contribution pour des techniques d’épandage diminuant les émissions
@@ -1487,7 +1503,7 @@ Sont considérés comme pulvérisateurs anti-dérive:
 [^82-4]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
 [^82-5]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
 
-### Section 4**** Contribution pour l’installation sur les pulvérisateurs d’un système de nettoyage disposant d’un circuit d’eau de rinçage séparé, en vue du nettoyage des appareils destinés à l’épandage de produits phytosanitaires
+### Section 4 Contribution pour l’installation sur les pulvérisateurs d’un système de nettoyage disposant d’un circuit d’eau de rinçage séparé, en vue du nettoyage des appareils destinés à l’épandage de produits phytosanitaires
 
 [^tit2-chap6-sec4-1]
 
@@ -1504,7 +1520,7 @@ Une contribution unique par pulvérisateur est versée pour l’installation sur
 
 <sup>2</sup> Les contributions sont versées jusqu’en 2022.
 
-### Section 5**** Contribution pour une alimentation biphase des porcs appauvrie en matière azotée
+### Section 5 Contribution pour une alimentation biphase des porcs appauvrie en matière azotée
 
 [^tit2-chap6-sec5-1]
 
@@ -1533,7 +1549,7 @@ Une contribution unique par pulvérisateur est versée pour l’installation sur
 [^82c-2]: Les éditions applicables du guide peuvent être consultées sur le site de l’Office fédéral de l’agriculture à l’adresse suivante: www.blw.admin.ch &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD).
 [^82c-3]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
 
-### Section 6**** Contribution pour la réduction des produits phytosanitaires dans l’arboriculture fruitière, dans la viticulture et dans la culture des betteraves sucrières
+### Section 6 Contribution pour la réduction des produits phytosanitaires dans l’arboriculture fruitière, dans la viticulture et dans la culture des betteraves sucrières
 
 [^tit2-chap6-sec6-1]
 
@@ -1586,7 +1602,7 @@ L’exploitant doit procéder aux enregistrements suivants pour chaque surface a
 
 [^82e-1]: Le plan d’action est disponible sous www. blw.admin.ch &gt; Production durable &gt; Protection des plantes &gt; Produits phytosanitaires &gt; Plan d’action Produits phytosanitaires.
 
-### Section 7**** Contribution pour la réduction des herbicides sur les terres ouvertes
+### Section 7 Contribution pour la réduction des herbicides sur les terres ouvertes
 
 [^tit2-chap6-sec7-1]
 
@@ -1629,7 +1645,7 @@ L’exploitant doit effectuer les enregistrements suivants pour chaque surface a
 
 <sup>5</sup> Le canton définit sous quelle forme les enregistrements doivent être effectués.
 
-### Section 8**** Coordination avec les programmes d’utilisation durable des ressources visés aux art. 77*a* et 77*b* LAgr
+### Section 8 Coordination avec les programmes d’utilisation durable des ressources visés aux art. 77*a* et 77*b* LAgr
 
 [^tit2-chap6-sec8-1]
 
@@ -1985,6 +2001,26 @@ Sont notamment considérés comme cas de force majeure:
 
 <sup>2</sup> Si des conditions exigées pour l’octroi des contributions au bien-être des animaux ne sont pas remplies en raison de prescriptions concernant la prophylaxie des épizooties, les contributions ne seront ni réduites ni refusées.
 
+#### Art. 107a
+
+**Abandon de l’adaptation des contributions d’estivage, des contributions à la biodiversité et des contributions à la qualité du paysage en cas de désalpe précoce causée par la présence de grands prédateurs**[^107a-1]
+
+<sup>1</sup>
+
+Si des exploitations d’estivage et des exploitations de pâturages communautaires doivent effectuer prématurément une désalpe en raison de la mise en danger des animaux de rente par les grands prédateurs, le canton peut:
+
+- a. renoncer à adapter la contribution d’estivage selon l’art. 49, al. 2, let. c;
+- b octroyer la contribution à la biodiversité selon l’annexe 7, ch. 3.1.1, ch. 12, et la contribution à la qualité du paysage selon l’annexe 7, ch. 4.1, let. b, à hauteur de la totalité du montant des contributions versées l’année précédente, même si la charge en bétail est inférieure à la charge usuelle.
+
+<sup>2</sup> Après la première autorisation de non-adaptation des contributions, le canton peut renoncer à l’adaptation des contributions au maximum une fois encore au cours des quatre années suivantes pour le même alpage.
+
+<sup>3</sup> L’exploitant doit déposer la demande de non-adaptation des contributions auprès de l’autorité désignée par le canton concerné. Celle-ci tient compte, lors de l’évaluation de la demande, des mesures de protection raisonnables visées à l’art. 10<sup>quinquies</sup> de l’ordonnance du 29 février 1988 sur la chasse[^107a-2] et consulte les spécialistes cantonaux compétents pour la protection des troupeaux et la chasse. Les cantons règlent la procédure.
+
+<sup>4</sup> Le canton annonce à l’OFAG à la fin du mois de novembre les demandes de désalpe précoce en raison de la présence de grands prédateurs. L’OFAG fixe la forme et le contenu de l’annonce.
+
+[^107a-1]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+[^107a-2]: [RS 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517)
+
 ### Chapitre 5 Fixation des contributions, décompte et versement
 
 #### Art. 108
@@ -1995,9 +2031,11 @@ Sont notamment considérés comme cas de force majeure:
 
 <sup>2</sup> Pour la fixation des contributions, le canton prend d’abord en compte les réductions dues au plafonnement des paiements directs par UMOS; ensuite les réductions prévues à l’art. 105 et les réductions liées aux paiements directs de l’UE en vertu de l’art. 54.
 
-<sup>3</sup> Pour les réductions visées à l’art. 105, le canton prend en compte la situation constatée jusqu’au 31 août. Le canton peut fixer une date ultérieure pour les exploitations d’estivage et de pâturages communautaires. Les réductions fondées sur une situation constatée ultérieurement sont appliquées l’année suivante.
+<sup>3</sup> Pour les réductions visées à l’art. 105, le canton prend en compte tous les manquements qui ont été constatés du 1<sup>er</sup> janvier au 31 décembre. Il peut appliquer les réductions au cours de l’année de contributions suivante si les manquements ont été constatés après le 1<sup>er</sup> septembre.[^108-1]
 
 <sup>4</sup> Le canton saisit les données concernant l’exploitation, l’exploitant, les surfaces et les effectifs d’animaux entre le 15 janvier et le 28 février. En ce qui concerne les effectifs d’animaux, en plus de l’effectif déterminant, il convient de relever également l’effectif au 1<sup>er</sup> janvier. Les cantons saisissent les changements intervenus avant le 1<sup>er</sup> mai.
+
+[^108-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 #### Art. 109
 
@@ -2229,7 +2267,7 @@ La modification d’autres actes est réglementée à l’annexe 9.
 
 [^118-1]: Abrogé par le ch. I de l’O du 28 oct. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 13, al. 1 et 3, 14, al. 2, 16, al. 2 et 3, 17, al. 1, 18, al. 3 à 5, 19 à 21, 25, 58, al. 4, let. d, 115, al. 11 et 16, 115*c*, al. 1 et 4, 115*d*, al. 4, et 115*e*, al. 1)
 
@@ -2434,14 +2472,14 @@ Annexe 1*[^t-1]*
 - 7\.1 Les règles suivantes sont applicables:
 
 <table>
-<tr><td colspan="2">**a.** **Semences de céréales**</td></tr>
+<tr><td colspan="2">a. Semences de céréales</td></tr>
 <tr><td>– Pause entre les cultures</td><td>Semences de multiplication des étapes prébase, base et R1: au maximum deux années de culture consécutives.</td></tr>
-<tr><td colspan="2">**b.** **Plants de pommes de terre**</td></tr>
+<tr><td colspan="2">b. Plants de pommes de terre</td></tr>
 <tr><td>– Protection phytosanitaire</td><td>Utilisation d’aphicides (seulement pour les cultures sous tunnel) et d’huiles autorisée dans les étapes prébase et base, y compris pour la production de plants certifiés de la classe A. Le traitement avec des aphicides (excepté pour les cultures sous tunnel) n’est possible qu’avec une autorisation spéciale délivrée par Agroscope.</td></tr>
-<tr><td colspan="2">**c.** **Semences de maïs**</td></tr>
+<tr><td colspan="2">c. Semences de maïs</td></tr>
 <tr><td>– Pause entre les cultures</td><td>Pour les semis sous litière, sous-semis ou prairies à maïs: au maximum cinq années de culture consécutives, ensuite pause de trois ans sans maïs. Autres procédés culturaux: au maximum trois années de culture consécutives, ensuite pause de deux ans sans maïs.</td></tr>
 <tr><td>– Protection phytosanitaire</td><td>Herbicides en prélevée autorisés en traitement de surface.</td></tr>
-<tr><td colspan="2">**d. Semences de graminées et de trèfle**</td></tr>
+<tr><td colspan="2">d. Semences de graminées et de trèfle</td></tr>
 <tr><td>– Protection phytosanitaire</td><td>Utilisation d’herbicides homologués pour les herbages autorisée dans la production de semences de graminées et de trèfle. Uniquement insecticides homologués autorisés pour le trèfle.</td></tr>
 </table>
 
@@ -2496,7 +2534,7 @@ Annexe 1*[^t-1]*
 [^annex1-lvlu1-lvl9-1]: La brochure peut être obtenue auprès d’Agridea 1000 Lausanne 6.
 [^annex1-lvlu1-lvl9-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 29, al. 2, 33, 34, al. 3, 38, al. 1, 40, al. 3, et 48)
 
@@ -2622,13 +2660,13 @@ Les terrasses sont définies selon les critères suivants:
 - 5\. L’aménagement en terrasses doit couvrir un périmètre total de 1 ha au moins.
 - 6\. Les vignobles en terrasses sont reportés sur un plan d’ensemble ou sur une carte.
 
-Annexe 4*[^t-3]*
+Annexe 4[^t-3]
 
 (art. 58, al. 1, 2, 4 et 9, 59, al. 1, et 62, al. 1, let. a, et 2)
 
 ## Conditions que doivent remplir les surfaces de promotion de la biodiversité
 
-[^t-3]: Mise à jour par le ch. II al. 1 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), le ch. II des O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), l’erratum du 7 fév. 2017 ([RO 2017 513](https://fedlex.data.admin.ch/eli/oc/2017/90)) et ch. II de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
+[^t-3]: Mise à jour par le ch. II al. 1 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), le ch. II des O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), l’erratum du 7 fév. 2017 ([RO 2017 513](https://fedlex.data.admin.ch/eli/oc/2017/90)), le ch. II des O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) et du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 ### A Surfaces de promotion de la biodiversité
 
@@ -2792,11 +2830,14 @@ Annexe 4*[^t-3]*
   - b. 100 cerisiers, noyers et châtaigniers.
 
 - 12\.1.4 Les arbres doivent être situés sur la surface agricole utile détenue en propre ou en fermage.
-- 12\.1.5 Les arbres doivent être plantés à une distance l’un de l’autre garantissant un développement et un rendement normaux. Les indications en matière de distances de plantation données dans les principaux supports d’enseignement doivent être respectées. Les mesures phytosanitaires doivent être mises en œuvre selon les instructions des cantons.
+- 12\.1.5 Les arbres doivent être plantés à une distance l’un de l’autre garantissant un développement et un rendement normaux. Les indications en matière de distances de plantation données dans les principaux supports d’enseignement doivent être respectées.
 - 12\.1.6 Le tronc doit présenter une hauteur minimale de 1,2 m pour les arbres fruitiers à noyau et de 1,6 m pour les autres arbres.
 - 12\.1.7 Aucun herbicide ne peut être utilisé au pied des arbres, sauf pour les jeunes arbres de moins de cinq ans.
 - 12\.1.8 Les arbres fruitiers haute-tige pour lesquels la distance mesurée entre le tronc et la lisière de la forêt, les haies, les bosquets champêtres et les berges boisées et les cours d’eau est inférieure à 10 m ne doivent pas être traités avec des produits phytosanitaires.
-- 12\.1.9 Un entretien des arbres conformément aux règles de l’art doit être effectué jusqu’à la 10<sup>e</sup> année suivant leur plantation. Cet entretien comprend la taille de mise en forme, l’élagage, la protection du tronc et des racines, une fumure adaptée aux besoins, ainsi qu’une lutte appropriée contre les organismes nuisibles particulièrement dangereux conformément aux instructions des services phytosanitaires cantonaux.
+- 12\.1.9 Un entretien des arbres conformément aux règles de l’art doit être effectué jusqu’à la 10<sup>e</sup> année suivant leur plantation. Cet entretien comprend la taille de mise en forme, l’élagage, la protection du tronc et des racines, ainsi qu’une fumure adaptée aux besoins.
+- 12\.1.10 Les organismes de quarantaine visés dans l’ordonnance du 31 octobre 2018 sur la santé des végétaux[^annex4-lvlu1-lvl1-lvl12-lvl121-1] et dans l’ordonnance d’exécution qui en découle doivent faire l’objet d’une lutte conformément aux ordres des services phytosanitaires cantonaux.
+
+[^annex4-lvlu1-lvl1-lvl12-lvl121-1]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
 
 ### 12.2 Niveau de qualité II
 
@@ -2966,7 +3007,7 @@ Annexe 4*[^t-3]*
 - 5\.1 Le degré de réalisation des objectifs doit être examiné avant l’échéance de la durée du projet, qui est de 8 ans. Pour que le projet puisse être poursuivi, 80 % des objectifs définis doivent être atteints. Il peut être dérogé à cette règle dans des cas dûment fondés.
 - 5\.2 Les objectifs (objectifs de mise en œuvre et mesures) doivent être contrôlés et adaptés. Le rapport de projet doit correspondre aux exigences minimales en matière de mise en réseau (ch. 2 à 4).
 
-Annexe 5*[^t-4]*
+Annexe 5[^t-4]
 
 (art. 71, al. 1 et 4)
 
@@ -3040,13 +3081,13 @@ Annexe 5*[^t-4]*
   - b. contrôler les données peu probables sur les effectifs d’animaux;
   - c. vérifier les données peu probables sur les apports et les cessions de fourrage qui ressortent des bulletins de livraison.
 
-Annexe 6*[^t-5]*
+Annexe 6[^t-5]
 
 (art. 72, al. 3 et 4, 75, al. 1, 2<sup>bis</sup> et 3, 76, al. 1, et 115*d*, al. 1)
 
 ## Exigences spécifiques relatives aux contributions pour le bien‑être des animaux
 
-[^t-5]: Nouvelle teneur selon le ch. II al. 2 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)[7789](https://fedlex.data.admin.ch/eli/oc/2017/891)). Mise à jour par le ch. II des O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) et du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)). Erratum du 5 juil. 2021, ne concerne que le texte italien ([RO 2021 416](https://fedlex.data.admin.ch/eli/oc/2021/416)).
+[^t-5]: Nouvelle teneur selon le ch. II al. 2 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)[7789](https://fedlex.data.admin.ch/eli/oc/2017/891)). Mise à jour par le ch. II des O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), du 11 nov. 2020 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)) et du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 ### A Exigences relatives aux contributions SST
 
@@ -3100,7 +3141,7 @@ Annexe 6*[^t-5]*
   - c. dans le cas des génisses en gestation avancée, qui sont gardées dans une stabulation entravée après le vêlage, elles peuvent y être déplacées au plus tôt dix jours avant la date présumée du vêlage.
 
 [^annex6-lvlu1-lvlA-lvl2-1]: La norme peut être consultée gratuitement auprès de l’Office fédéral de l’agriculture, 3003 Berne ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
-[^annex6-lvlu1-lvlA-lvl2-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^annex6-lvlu1-lvlA-lvl2-2]: [[RO 2011 5453](https://fedlex.data.admin.ch/eli/oc/2011/775); [2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)annexe ch. 1; [2013 1753](https://fedlex.data.admin.ch/eli/oc/2013/399), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 13, [3999](https://fedlex.data.admin.ch/eli/oc/2013/730); [2014 1389](https://fedlex.data.admin.ch/eli/oc/2014/294), [2243](https://fedlex.data.admin.ch/eli/oc/2014/376)annexe ch. 2; [2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)annexe ch. 2, [4573](https://fedlex.data.admin.ch/eli/oc/2015/770); [2016 3401](https://fedlex.data.admin.ch/eli/oc/2016/570); [2017 6145](https://fedlex.data.admin.ch/eli/oc/2017/680); [2018 2085](https://fedlex.data.admin.ch/eli/oc/2018/293), [4275](https://fedlex.data.admin.ch/eli/oc/2018/683), [4353](https://fedlex.data.admin.ch/eli/oc/2018/702)art. 20 ch. 2, [4543](https://fedlex.data.admin.ch/eli/oc/2018/708)annexe ch. 2; [2019 3673](https://fedlex.data.admin.ch/eli/oc/2019/663); [2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)annexe 4 ch. 9; [2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)ch. II 1; [2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)annexe ch. 1]. Voir actuellement l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux ([RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751))
 
 ### 3 Équidés
 
@@ -3233,7 +3274,7 @@ Annexe 6*[^t-5]*
 
   - a. pour les poules et les coqs jusqu’à 10 heures du matin ainsi qu’entre l’installation au poulailler et la fin de la 23<sup>e</sup> semaine;
   - b. pour les poulets de chair durant les 21 premiers jours de leur vie;
-  - c. pour les dindes et les poussins pour la production d’œufs, durant les 42 premiers jours de leur vie.
+  - c. pour les dindes, les jeunes coqs issus de lignées de poules pondeuses et les poussins pour la production d’œufs, durant les 42 premiers jours de leur vie.
 
 - 7\.8
 
@@ -3294,7 +3335,7 @@ Annexe 6*[^t-5]*
   - a. pendant 10 jours avant la date probable de mise bas et pendant 10 jours suivant la mise bas;
   - b. en cas d’intervention pratiquée sur l’animal;
   - c. durant deux jours au plus avant un transport, pour autant que le numéro BDTA des animaux concernés et la date du transport aient été notés dans un document avant la dérogation;
-  - d. pour autant que cela soit nécessaire, durant l’affourragement ou durant le nettoyage de l’aire d’exercice.
+  - d. dans la mesure où cela est nécessaire durant l’affourragement, la traite ou le nettoyage de l’aire d’exercice.
 
 - 2\.4
 
@@ -3427,7 +3468,7 @@ Annexe 6*[^t-5]*
 - 6\.1 Les animaux doivent être gardés toute l’année au pâturage.
 - 6\.2 Les bisons doivent disposer d’un pâturage d’une superficie d’au moins 2500 m² pour les cinq premiers animaux. Pour chaque animal supplémentaire, cette superficie doit être augmentée de 240 m<sup>2</sup>. Si les animaux ont en permanence accès à des surfaces dont le revêtement est en dur, la surface pâturable peut être réduite d’une surface équivalente, mais de 500 m<sup>2</sup> au plus.
 
-Annexe 6a*[^t-6]*
+Annexe 6a[^t-6]
 
 (art. 82*d*, al. 2 et 3, et 82*e*, al. 2)
 
@@ -3490,13 +3531,13 @@ Annexe 6a*[^t-6]*
 - Mesure
   - a. non-recours aux fongicides et insecticides (du semis à la récolte).
 
-Annexe 7*[^t-7]*
+Annexe 7[^t-7]
 
 (art. 61, al. 4, 63, al. 4, 83, al. 1, et 86, al. 3)
 
 ## Taux des contributions
 
-[^t-7]: Mise à jour par le ch. II al. 1 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), le ch. II des O du 20 mai 2015 ([RO 2015 1743](https://fedlex.data.admin.ch/eli/oc/2015/339)), du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. I de l’O du 15 fév. 2017 ([RO 2017 691](https://fedlex.data.admin.ch/eli/oc/2017/126)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)) et le ch. II de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
+[^t-7]: Mise à jour par le ch. II al. 1 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), le ch. II des O du 20 mai 2015 ([RO 2015 1743](https://fedlex.data.admin.ch/eli/oc/2015/339)), du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. I de l’O du 15 fév. 2017 ([RO 2017 691](https://fedlex.data.admin.ch/eli/oc/2017/126)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), le ch. II des O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) et du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 
 ### 1 Contributions au paysage cultivé
 
@@ -3545,7 +3586,7 @@ Annexe 7*[^t-7]*
 - 1\.6.1 La contribution d’estivage annuelle est calculée en fonction de la charge usuelle en bétail qui a été déterminée et s’élève à:
 
 <table>
-<tr><td>a. pour les moutons, excepté les brebis laitières, en cas de surveillance permanente par un berger ou dans le cas des pâturages tournants assortis de mesures de protection des troupeaux</td><td>400 fr. par PN</td></tr>
+<tr><td>a. pour les moutons, excepté les brebis laitières, en cas de surveillance permanente par un berger ou dans le cas des pâturages tournants assortis de mesures de protection des troupeaux</td><td>500 fr. par PN</td></tr>
 <tr><td>b. pour les moutons, excepté les brebis laitières, en cas de pâturage tournant</td><td>320 fr. par PN</td></tr>
 <tr><td>c. pour les moutons, excepté les brebis laitières, en cas d’«autres pâturages»</td><td>120 fr. par PN</td></tr>
 <tr><td>d. pour les autres animaux consommant du fourrage grossier</td><td>400 fr. par PN</td></tr>
@@ -3822,13 +3863,13 @@ Annexe 7*[^t-7]*
 
 - 6\.9.1 La contribution pour la réduction des herbicides sur les terres ouvertes s’élève à 250 francs par hectare et par année.
 
-Annexe 8*[^t-8]*
+Annexe 8[^t-8]
 
 (art. 105, al. 1, 115*a*, al. 1 et 2, et 115*c*, al. 2)
 
 ## Réduction des paiements directs
 
-[^t-8]: Nouvelle teneur selon le ch. II al. 2 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Mise à jour par le ch. II des O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. II al. 1 de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), les errata des 17 janv. 2017 ([RO 2017 133](https://fedlex.data.admin.ch/eli/oc/2017/40)), 26 sept. 2017 ([RO 2017 5061](https://fedlex.data.admin.ch/eli/oc/2017/551)), 14 nov. 2017 ([RO 2017 6021](https://fedlex.data.admin.ch/eli/oc/2017/662)) et le ch. II de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), l’erratum du 18 août 2020 (ne concerne que le texte italien) ([RO 2020 3585](https://fedlex.data.admin.ch/eli/oc/2020/641)) et le ch. II de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
+[^t-8]: Nouvelle teneur selon le ch. II al. 2 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Mise à jour par le ch. II des O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. II al. 1 de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), les errata des 17 janv. 2017 ([RO 2017 133](https://fedlex.data.admin.ch/eli/oc/2017/40)), 26 sept. 2017 ([RO 2017 5061](https://fedlex.data.admin.ch/eli/oc/2017/551)), 14 nov. 2017 ([RO 2017 6021](https://fedlex.data.admin.ch/eli/oc/2017/662)) et le ch. II de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), le ch. II des O du 11 nov. 2020 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)) et du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 ### 1 Généralités
 
@@ -3936,9 +3977,9 @@ Annexe 8*[^t-8]*
 ### 2.2 Prestations écologiques requises
 
 - 2\.2.1 Les réductions consistent en des déductions de montants forfaitaires et de montants par unité; des points sont également distribués et convertis en montants au moyen du calcul suivant:
-- somme des points moins 10 points, divisée par 100, et ensuite multipliée par 1000 francs par hectare de SAU de l’exploitation.
-- Si la somme des points dus à des cas de récidive est supérieure ou égale à 110, les paiements directs ne sont pas versés pour l’année de contributions.
-- Les points attribués en cas de manquement sont doublés pour le premier cas de récidive et quadruplés à partir du deuxième cas de récidive.
+- Somme des points moins 10 points, divisée par 100, et ensuite multipliée par 1000 francs par hectare de SAU de l’exploitation.
+- Si la somme des points dus à des cas de récidive est égale ou supérieure à 110, aucun paiement direct n’est versé pendant l’année de contributions.
+- Les points attribués en cas de manquement, les montants forfaitaires et les montants par unité sont doublés pour le premier cas de récidive et quadruplés à partir du deuxième cas de récidive.
 - 2\.2.2 Généralités
 
 <table>
@@ -3961,7 +4002,7 @@ Annexe 8*[^t-8]*
 <table>
 <tr><th>Manquement concernant le point de contrôle</th><th>Réduction</th></tr>
 <tr><td>a. Moins de 7 % de surface de promotion de la biodiversité à la SAU (cultures spéciales: 3,5 %); (art. 14)</td><td>20 points par % de moins, au moins 10 points</td></tr>
-<tr><td>b. Exploitation non conforme aux prescriptions des objets inscrits dans les inventaires d’importance nationale, y compris les bordures tampon, en cas de décision ayant force exécutoire (art. 15)</td><td>5 points par objet</td></tr>
+<tr><td>b. Exploitation non conforme aux prescriptions des objets inscrits dans les inventaires d’importance nationale, y compris les zones tampon (art. 15)</td><td>[tab] 5 points par objet</td></tr>
 </table>
 
 - 2\.2.5 Bordures tampon
@@ -4021,10 +4062,10 @@ Annexe 8*[^t-8]*
 ### 2.3 Protection des animaux
 
 - 2\.3.1 Les réductions consistent en des déductions de montants forfaitaires; des points sont également distribués et convertis en montants au moyen du calcul suivant:
-- somme des points, multipliée par 100 francs par point, mais au minimum 200 francs et, en cas de récidive, au minimum 400 francs.
+- Somme des points, multipliée par 100 francs par point, mais au minimum 200 francs et, en cas de récidive, au minimum 400 francs.
 - Si la somme des points dus à des cas de récidive est égale ou supérieure à 110, aucun paiement direct n’est versé pendant l’année de contributions.
 - En cas de première infraction, la réduction représente 50 points au maximum pour chaque point de contrôle visé au ch. 2.3.1, let. a à f. Dans les cas particulièrement graves, tels qu’une négligence grave dans la garde des animaux ou si le nombre d’animaux concernés est très élevé, le canton peut majorer le nombre de points maximum de manière appropriée. Il n’y a pas de nombre de points maximum en cas de récidive.
-- Les points attribués en cas de manquement sont doublés pour le premier cas de récidive et quadruplés à partir du deuxième cas de récidive.
+- Les points attribués en cas de manquement et les montants forfaitaires sont doublés pour le premier cas de récidive et quadruplés à partir du deuxième cas de récidive.
 
 <table>
 <tr><th>Manquement concernant le point de contrôle</th><th>Réduction</th></tr>
@@ -4043,6 +4084,20 @@ Annexe 8*[^t-8]*
 <tr><td>60–119 jours de sortie en été</td><td>2 points par UGB concernée</td></tr>
 <tr><td>0–59 jours de sortie en été</td><td>4 points par UGB concernée</td></tr>
 </table>
+
+### 2.3*a* Protection de l’air
+
+- 2\.3*a*.1 Les réductions consistent en des déductions de montants forfaitaires et de montant par ha.
+- Les montants forfaitaires et les montant par ha sont doublés pour le premier cas de récidive et quadruplés à partir du deuxième cas de récidive.
+- Lorsque l’autorité compétente accorde un délai pour l’assainissement des installations de stockage, aucune réduction en vertu de la let. a n’est appliquée si un manquement est constaté au cours de cette période.
+
+<table>
+<tr><td>Manquement concernant le point de contrôle</td><td>Réduction</td></tr>
+<tr><td>a. Stockage non conforme d’engrais de ferme liquides (art. 13, al. 2<sup>bis</sup>)</td><td>300 fr.</td></tr>
+<tr><td>b.[^annex8-lvlu1-lvl2-lvl23a-1] ...</td><td></td></tr>
+</table>
+
+[^annex8-lvlu1-lvl2-lvl23a-1]: Entre en vigueur le 1<sup>er</sup> janv. 2024 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 ### 2.4 Contributions à la biodiversité: contributions à la qualité
 
@@ -4403,7 +4458,7 @@ Annexe 8*[^t-8]*
 - 2\.9.1 Les réductions ont lieu au moyen de déductions de montants forfaitaires et par l’attribution de points. Les points sont convertis comme suit en montants par catégorie d’animaux au sens de l’art. 73 et séparément pour les contributions SST et SRPA:
 - somme des points moins 10 points, divisée par 100, multipliée ensuite par les contributions SST ou SRPA de la catégorie animale concernée.
 - Si la somme des points est supérieure ou égale à 110, aucune contribution SST ou SRPA n’est versée dans l’année de contributions, pour la catégorie d’animaux concernée.
-- 2\.9.2 Dans le premier cas de récidive, 50 points sont ajoutés au nombre de points pour la catégorie d’animaux concernée. À partir du deuxième cas de récidive, le nombre de points pour un manquement est majoré de 100 points ou aucune contribution SST ou SRPA n’est versée pour la catégorie d’animaux concernée.
+- 2\.9.2 Dans le premier cas de récidive, le nombre de points pour un manquement est augmenté de 50 points pour la catégorie d’animaux concernée. À partir du deuxième cas de récidive, le nombre de points est majoré de 100 points ou aucune contribution SST ou SRPA n’est versée pour la catégorie d’animaux concernée. Les montants forfaitaires sont doublés pour le premier cas de récidive et quadruplés à partir du deuxième cas de récidive.
 - 2\.9.2a Si la documentation des sorties visée au ch. 2.9.4, let. d, manque ou que les sorties ont eu lieu selon la documentation, mais qu’elles ne peuvent pas être prouvées de manière crédible, une réduction de 60 points est opérée pour la catégorie d’animaux concernée.
 - [tab] 2.9.2b Si la documentation des sorties visée au ch. 2.9.3, let. r, manque ou que les sorties ont eu lieu selon la documentation, mais qu’elles ne peuvent pas être prouvées de manière crédible, une réduction de 60 points est opérée pour la catégorie d’animaux concernée.
 - 2\.9.2c Si les sorties n’ont pas eu lieu selon la documentation visée au ch. 2.9.4, let. d, mais qu’elles peuvent être prouvées de manière crédible, aucune réduction visée au ch. 2.9.4, let. e, n’est appliquée.
@@ -4450,6 +4505,13 @@ Annexe 8*[^t-8]*
 <tr><td>k. La surface du sol et la surface latérale ou la largeur des ouvertures des ACE ne sont pas conformes aux exigences</td><td colspan="2">Volaille de rente (annexe 6, let. A, ch. 7.8)</td><td>Divergence de moins de 10 %: 60 points Divergence de 10 % et plus: 110 points</td></tr>
 <tr><td>l. La surface du sol dans l’ACE (surface totale) n’est pas recouverte de litière appropriée en quantité suffisante</td><td colspan="2">Volaille de rente (annexe 6, let. A, ch. 7.8)</td><td>Trop peu de litière: 10 points Beaucoup trop peu de litière: 40 points Pas de litière: 110 points</td></tr>
 <tr><td>m. Les animaux n’ont pas accès à l’ACE pendant toute la journée ou n’ont pas le nombre minimum d’heures de pâturage par jour ou ACE non respectée</td><td colspan="2">Volaille de rente (annexe 6, let. B, ch. 4.1)</td><td>60 points</td></tr>
+</table>
+
+- 2\.9.5 Projets de développement des dispositions concernant les contributions au bien-être des animaux
+
+<table>
+<tr><td>Manquement concernant le point de contrôle</td><td>Réduction</td></tr>
+<tr><td>Les exigences en matière de bien-être des animaux ou les dérogations autorisées par l’OFAG ne sont pas respectées (art. 76*a*)</td><td>Réduction analogue aux ch. 2.9.1 à 2.9.4</td></tr>
 </table>
 
 ### 2.10 Contributions à l’utilisation efficiente des ressources
