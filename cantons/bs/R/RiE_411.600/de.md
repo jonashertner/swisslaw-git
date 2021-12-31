@@ -4,13 +4,13 @@ number: RiE 411.600
 title: Ordnung für die Schulen der Gemeinden Bettingen und Riehen
 short: Schulordnung
 language: de
-version: 2020-08-01
-valid_until: 2021-12-31
-version_adopted: 2020-06-17
+version: 2022-01-01
+valid_until: 2024-06-05
+version_adopted: 2021-11-24
 adopted: 2009-03-25
 in_force: 2009-08-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20411.600"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4991/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5424/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Schulordnung | Riehen: Einwohnergemeinde
 
 (Schulordnung)
 
-Vom 25. März 2009 (Stand 1. August 2020)
+Vom 25. März 2009 (Stand 1. Januar 2022)
 
 Der Einwohnerrat Riehen
 
@@ -144,11 +144,17 @@ erlässt, auf Antrag des Gemeinderats und der Sachkommission für Bildung, Sozia
 
 **Mitglieder der Schulräte**
 
-<sup>1</sup> Jeder Schulrat besteht aus fünf bis sieben Mitgliedern und einer Präsidentin oder einem Präsidenten.
+<sup>1</sup> Jeder Schulrat besteht aus einer externen Präsidentin oder einem externen Präsidenten, fünf bis sieben externen Mitgliedern und zwei internen Mitgliedern.
 
 <sup>2</sup> Der Gemeinderat regelt die Zusammensetzung in einem Reglement.
 
-<sup>3</sup> Er achtet auf eine angemessene Berücksichtigung der im Einwohnerrat vertretenen Parteien und sorgt für eine Vertretung beider Geschlechter.
+<sup>2<sup>bis</sup></sup> Die Präsidentin oder der Präsident sowie die vom Gemeinderat gewählten schulexternen Mitglieder dürfen weder eigene Kinder in der Schule noch verwandtschaftliche oder partnerschaftliche Beziehungen zu Schulleitungsmitgliedern der Schule haben.
+
+<sup>3</sup> Der Gemeinderat achtet bei der Wahl der von ihm gewählten externen Schulratsmitglieder auf eine angemessene Berücksichtigung der im Einwohnerrat vertretenen Parteien, des Alters der Kandidierenden sowie der freien Sitze und sorgt für eine Vertretung beider Geschlechter.
+
+<sup>4</sup> Der Gemeinderat weist den von der zuständigen Sachkommission des Einwohnerrats delegierten Mitgliedern einen Schulstandort unter Berücksichtigung der Kriterien gemäss Abs. 3 zu.
+
+<sup>5</sup> Die Entschädigung der schulexternen Mitglieder der Schulräte richtet sich nach dem kantonalen Recht.
 
 #### § 12
 
@@ -156,15 +162,15 @@ erlässt, auf Antrag des Gemeinderats und der Sachkommission für Bildung, Sozia
 
 <sup>1</sup> Die Schulräte begleiten und beraten als externe Gremien die Schule.
 
-<sup>2</sup> Sie pflegen den Dialog zwischen den internen und externen Anspruchsgruppen.
+<sup>2</sup> Sie pflegen den Dialog zwischen den internen und externen Anspruchsgruppen bzw. zwischen der Schule und der Gesellschaft. Sie haben keine Aufsichtsfunktion.
 
-<sup>3</sup> Sie vermitteln in Konfliktfällen aus dem Schulbetrieb zwischen den Betroffenen, wenn im direkten Schulumfeld keine Klärung gefunden werden konnte. Sie geben eine Empfehlung zur Lösung ab.
+<sup>3</sup> Die Schulratspräsidien vermitteln in Konfliktfällen aus dem Schulbetrieb zwischen den Betroffenen, wenn im direkten Schulumfeld zuvor keine Klärung gefunden werden konnte und alle Betroffenen und die Schulleitung einverstanden sind. Sie geben eine Empfehlung zur Lösung ab.
 
-<sup>4</sup> Sie stellen die Vernetzung zwischen den Schulräten sicher und verfassen jährlich einen gemeinsamen Bericht zu Handen der Gemeinden Bettingen und Riehen.
+<sup>4</sup> Die Schulratspräsidien stellen die Vernetzung zwischen den Schulräten sicher und verfassen jährlich einen gemeinsamen Bericht zu Handen der Gemeinden Bettingen und Riehen.
 
 <sup>5</sup> Die schulexternen Mitglieder haben zusätzlich folgende Aufgaben und Befugnisse:
 
-- a) Sie besuchen regelmässig die Schule, insbesondere den Unterricht, die Elternabende, die Schulsitzungen und die Schulanlässe, und verschaffen sich dadurch einen Einblick in die Arbeit der Schule. Rückmeldungen zu ihren Eindrücken richten sie an die Lehrpersonen und an die Schulleitung.
+- a) Sie besuchen regelmässig die Schule, insbesondere den Unterricht und die Betreuungsangebote, die Elternabende, die Schulsitzungen und die Schulanlässe, und verschaffen sich dadurch einen Einblick in die Arbeit der Schule. Davon ausgenommen sind Therapiestunden. Sie geben Rückmeldungen zu ihren Eindrücken und[^12-1] richten sie an die Lehrpersonen und an die Schulleitung.
 - b) Sie genehmigen das Schulleitbild.
 - c) Sie können Anfragen und Anträge an die Schulleitung oder an die zuständige Abteilungsleitung richten.
 - d) Sie können eine Schulsitzung beantragen und die Behandlung eines Geschäfts verlangen.
@@ -174,6 +180,28 @@ erlässt, auf Antrag des Gemeinderats und der Sachkommission für Bildung, Sozia
 <sup>6</sup> Die schulinternen Mitglieder haben bei Aufgaben gemäss Abs. 5 beratende Stimme.
 
 <sup>7</sup> Der Gemeinderat regelt das Weitere in einem Reglement.
+
+[^12-1]: Die Konjunktion «und» wurde auf Anweisung der Gemeinde Riehen redaktionell ergänzt.
+
+#### § 12a
+
+**Berichterstattung und Verschwiegenheit**
+
+<sup>1</sup> Die Delegierten im Schulrat informieren ihre eigenen Gruppierungen in angemessener Weise. Der Schulrat beschliesst die Art und Weise der Information.
+
+<sup>2</sup> Die Weitergabe von Informationen oder Personendaten über Schülerinnen und Schüler, Mitarbeitende der Gemeindeschulen sowie Erziehungsberechtigte ist nur zulässig, wenn dies für die Aufgabenerfüllung des Schulrats notwendig ist und kein Gesetz oder überwiegende öffentliche bzw. private Interessen entgegenstehen.
+
+<sup>3</sup> Die Protokolle des Schulrats sind nicht öffentlich zugänglich.
+
+<sup>4</sup> Bei Konflikten in der Schule sind die Präsidien und die Schulratsmitglieder zur Verschwiegenheit verpflichtet.
+
+<sup>5</sup> Nach Beendigung des Amts übergeben alle Mitglieder und Delegierten Dokumente, die sie im Zusammenhang mit ihrem Amt erhalten haben, der zuständigen Abteilungsleitung. Sie sind weiterhin zur Verschwiegenheit verpflichtet.
+
+#### § 12b
+
+**Ausstand**
+
+<sup>1</sup> Bei persönlicher Betroffenheit oder bei Befangenheit aus anderen Gründen treten die Schulratsmitglieder in den Ausstand und nehmen an der Beratung nicht teil.
 
 ## III. Betrieb der Gemeindeschulen
 
