@@ -4,11 +4,11 @@ title: "Verordnung vom 12. November 1997 über die Lenkungsabgabe auf «Heizöl 
 short: HELV
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2993_2993_2993"
 language: de
-version: 2009-01-01
+version: 2022-01-01
 adopted: 1997-11-12
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2993_2993_2993/20090101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2993_2993_2993-20090101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2993_2993_2993/20090101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2993_2993_2993/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2993_2993_2993-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2993_2993_2993/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2993_2993_2993/20090101/de"
 
 (HELV)
 
-vom 12. November 1997 (Stand am 1. Januar 2009)
+vom 12. November 1997 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -43,12 +43,13 @@ verordnet:
 
 **Vollzug**
 
-<sup>1</sup> Die Eidgenössische Zollverwaltung vollzieht diese Verordnung mit Ausnahme der Bestimmungen über die Verteilung des Abgabeertrages. Die Zollverwaltung erhält 2,5 Prozent der Gesamteinnahmen (Bruttoertrag) als Entschädigung für ihren Aufwand.[^2-1]
+<sup>1</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^2-1] vollzieht diese Verordnung mit Ausnahme der Bestimmungen über die Verteilung des Abgabeertrages. Das BAZG erhält 2,5 Prozent der Gesamteinnahmen (Bruttoertrag) als Entschädigung für seinen Aufwand.[^2-2]
 
-<sup>2</sup> Das Bundesamt für Umwelt[^2-2] (Bundesamt) vollzieht die Bestimmungen über die Verteilung des Abgabeertrages. Es untersucht die Wirkung der Abgabe auf die Umweltqualität und veröffentlicht die Ergebnisse regelmässig.
+<sup>2</sup> Das Bundesamt für Umwelt[^2-3] (Bundesamt) vollzieht die Bestimmungen über die Verteilung des Abgabeertrages. Es untersucht die Wirkung der Abgabe auf die Umweltqualität und veröffentlicht die Ergebnisse regelmässig.
 
-[^2-1]: Satz eingefügt durch Ziff. I der V vom 15. Okt. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4063](https://fedlex.data.admin.ch/eli/oc/2003/598)).
-[^2-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
+[^2-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^2-2]: Satz eingefügt durch Ziff. I der V vom 15. Okt. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4063](https://fedlex.data.admin.ch/eli/oc/2003/598)).
+[^2-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
 
 #### Art. 3
 
@@ -67,8 +68,8 @@ Der Abgabesatz beträgt 12 Franken je 1000 kg HEL mit einem Schwefelgehalt von m
 <sup>3</sup> Die Ergebnisse der einzelnen Messungen werden auf der Grundlage der Kriterien ausgewertet, die in der Norm ISO 4259:1992[^3a-3] Artikel 9 beschrieben sind.
 
 [^3a-1]: Eingefügt durch Ziff. I der V vom 15. Okt. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4063](https://fedlex.data.admin.ch/eli/oc/2003/598)).
-[^3a-2]: *Bezugsquelle:* Schweizerische Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^3a-3]: *Bezugsquelle:* Schweizerische Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^3a-2]: Die Methode kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
+[^3a-3]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
 
 #### Art. 4
 
@@ -98,7 +99,7 @@ Sie verteilen den Jahresertrag gleichmässig auf alle Personen, die am 1. Januar
 
 <sup>7</sup> Die Versicherer werden für ihren Aufwand mit dem Zinsvorteil entschädigt, der ihnen durch die vorzeitige Ausrichtung ihres Anteils am Abgabeertrag zugute kommt.
 
-[^4-1]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 2. April 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262))
+[^4-1]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 2. April 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)).
 [^4-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^4-3]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 12 novembre 1997 relativa alla tassa d'incentivazione sull
 short: OHEL
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2993_2993_2993"
 language: it
-version: 2009-01-01
+version: 2022-01-01
 adopted: 1997-11-12
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2993_2993_2993/20090101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2993_2993_2993-20090101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2993_2993_2993/20090101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2993_2993_2993/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2993_2993_2993-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2993_2993_2993/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2993_2993_2993/20090101/it"
 
 (OHEL)
 
-del 12 novembre 1997 (Stato 1° gennaio 2009)
+del 12 novembre 1997 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 35*b* e 35*c* della legge federale del 7 ottobre 1983[^ingres
 
 ordina:
 
-[^ingress-1]: RU **1997** 2993 RS **814.01**
+[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 
 #### Art. 1
 
@@ -43,18 +43,19 @@ ordina:
 
 **Esecuzione**
 
-<sup>1</sup> L’Amministrazione federale delle dogane esegue la presente ordinanza, fatta eccezione delle disposizioni sulla distribuzione del prodotto della tassa. L’Amministrazione federale delle dogane riceve il 2,5 per cento degli introiti complessivi (proventi lordi) a titolo di indennità per l’onere derivante dall’esecuzione dell’ordinanza.[^2-1]
+<sup>1</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^2-1] esegue la presente ordinanza, fatta eccezione delle disposizioni sulla distribuzione del prodotto della tassa. L’UDSC riceve il 2,5 per cento degli introiti complessivi (proventi lordi) a titolo di indennità per l’onere derivante dall’esecuzione dell’ordinanza.[^2-2]
 
-<sup>2</sup> L’Ufficio federale dell’ambiente[^2-2] (Ufficio federale) esegue le disposizioni sulla distribuzione del prodotto della tassa. Esamina l’effetto della tassa sulla qualità dell’ambiente e pubblica a intervalli regolari i risultati.
+<sup>2</sup> L’Ufficio federale dell’ambiente[^2-3] (Ufficio federale) esegue le disposizioni sulla distribuzione del prodotto della tassa. Esamina l’effetto della tassa sulla qualità dell’ambiente e pubblica a intervalli regolari i risultati.
 
-[^2-1]: Per. introdotto dal n. I dell’O del 15 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4063](https://fedlex.data.admin.ch/eli/oc/2003/598)).
-[^2-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^2-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^2-2]: Per. introdotto dal n. I dell’O del 15 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4063](https://fedlex.data.admin.ch/eli/oc/2003/598)).
+[^2-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
 #### Art. 3
 
 **Aliquota della tassa**
 
-L’aliquota della tassa è di 12 franchi per ogni 1000 kg di HEL con un tenore di zolfo superiore allo 0,1 per cento (% massa). Detta aliquota corrisponde a franchi 10,14 per ogni 1000 litri alla temperatura di 15° C.
+L’aliquota della tassa è di 12 franchi per ogni 1000 kg di HEL con un tenore di zolfo superiore allo 0,1 per cento (% massa). Detta aliquota corrisponde a franchi 10.14 per ogni 1000 litri alla temperatura di 15 °C.
 
 #### Art. 3a
 
@@ -67,8 +68,8 @@ L’aliquota della tassa è di 12 franchi per ogni 1000 kg di HEL con un tenore 
 <sup>3</sup> I risultati delle singole misurazioni vengono valutati sulla base dei criteri contemplati nell’articolo 9 della norma ISO 4259:1992[^3a-3].
 
 [^3a-1]: Introdotto dal n. I dell’O del 15 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4065](https://fedlex.data.admin.ch/eli/oc/2003/599)).
-[^3a-2]: *Fonte:* Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^3a-3]: *Fonte:* Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^3a-2]: La norma menzionata può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^3a-3]: La norma menzionata può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 #### Art. 4
 

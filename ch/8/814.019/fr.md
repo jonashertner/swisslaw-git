@@ -4,11 +4,11 @@ title: "Ordonnance du 12 novembre 1997 sur la taxe d'incitation sur l'huile de c
 short: OHEL
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2993_2993_2993"
 language: fr
-version: 2009-01-01
+version: 2022-01-01
 adopted: 1997-11-12
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2993_2993_2993/20090101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2993_2993_2993-20090101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2993_2993_2993/20090101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2993_2993_2993/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2993_2993_2993-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2993_2993_2993/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2993_2993_2993/20090101/fr"
 
 (OHEL)
 
-du 12 novembre 1997 (Etat le 1<sup>er</sup> janvier 2009)
+du 12 novembre 1997 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -43,18 +43,19 @@ arrête:
 
 **Exécution**
 
-<sup>1</sup> L’Administration fédérale des douanes exécute la présente ordonnance, à l’exception des dispositions concernant la répartition du produit de la taxe. L’Administration des douanes prélève 2,5 % des recettes totales (produit brut) à titre de dédommagement pour son travail.[^2-1]
+<sup>1</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^2-1] exécute la présente ordonnance, à l’exception des dispositions concernant la répartition du produit de la taxe. L’OFDF prélève 2,5 % des recettes totales (produit brut) à titre de dédommagement pour son travail.[^2-2]
 
-<sup>2</sup> L’Office fédéral de l’environnement[^2-2] (office) exécute les dispositions concernant la répartition du produit de la taxe. Il examine l’effet de la taxe sur la qualité de l’air et publie régulièrement les résultats obtenus.
+<sup>2</sup> L’Office fédéral de l’environnement[^2-3] (office) exécute les dispositions concernant la répartition du produit de la taxe. Il examine l’effet de la taxe sur la qualité de l’air et publie régulièrement les résultats obtenus.
 
-[^2-1]: Phrase introduite par le ch. I de l’O du 15 oct. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4063](https://fedlex.data.admin.ch/eli/oc/2003/598)).
-[^2-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^2-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^2-2]: Phrase introduite par le ch. I de l’O du 15 oct. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4063](https://fedlex.data.admin.ch/eli/oc/2003/598)).
+[^2-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
 #### Art. 3
 
 **Taux de la taxe**
 
-Le taux de la taxe est fixé à 12 francs par 1000 kg d’HEL d’une teneur en soufre supérieure à 0,1 % (% masse). Ce tarif correspond à 10,14 francs pour 1000 litres à 15° C.
+Le taux de la taxe est fixé à 12 francs par 1000 kg d’HEL d’une teneur en soufre supérieure à 0,1 % (% masse). Ce tarif correspond à 10.14 francs pour 1000 litres à 15° C.
 
 #### Art. 3a
 
@@ -67,8 +68,8 @@ Le taux de la taxe est fixé à 12 francs par 1000 kg d’HEL d’une teneur en 
 <sup>3</sup> Les résultats de mesure sont évalués selon les critères définis à l’art. 9 de la norme ISO 4259:1992[^3a-3].
 
 [^3a-1]: Introduit par le ch. I de l’O du 15 oct. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4063](https://fedlex.data.admin.ch/eli/oc/2003/598)).
-[^3a-2]: Commande : Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
-[^3a-3]: Commande : Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^3a-2]: Cette méthode peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
+[^3a-3]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
 
 #### Art. 4
 
