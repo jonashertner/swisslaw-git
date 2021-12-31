@@ -3,20 +3,20 @@ canton: SO
 number: "131.3"
 title: Verzeichnis der solothurnischen Gemeinden
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-16
+version: 2022-01-01
+valid_until: 2023-08-31
+version_adopted: 2021-12-15
 adopted: 1997-10-28
 in_force: 1997-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/131.3"
-pdf: "https://bgs.so.ch/api/de/versions/5176/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5332/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verzeichnis der solothurnischen Gemeinden
 
-Vom 28.10.1997 (Stand 01.01.2021)
+Vom 28.10.1997 (Stand 01.01.2022)
 
 Der Kantonsrat von Solothurn
 
@@ -68,6 +68,8 @@ beschliesst:
   - 1\. Drei Höfe (ohne Bürgergemeinde Winistorf)
   - 2\. …
   - 3\. …
+  - 4\. Kriegstetten
+  - 5\. Oekingen
 - h) Bezirk Gäu
   - 1\. Oberbuchsiten
 - i) Bezirk Olten
@@ -131,11 +133,11 @@ beschliesst:
   - 10\. …
   - 11\. Horriwil
   - 12\. Hüniken
-  - 13\. Kriegstetten
+  - 13\. …
   - 14\. Lohn-Ammannsegg
   - 15\. Luterbach
   - 16\. Obergerlafingen
-  - 17\. Oekingen
+  - 17\. …
   - 18\. Recherswil
   - 19\. …
   - 20\. Subingen
@@ -271,11 +273,11 @@ beschliesst:
   - 11\. …
   - 12\. Horriwil
   - 13\. Hüniken
-  - 14\. Kriegstetten
+  - 14\. …
   - 15\. Lohn
   - 16\. Luterbach
   - 17\. Obergerlafingen
-  - 18\. Oekingen
+  - 18\. …
   - 19\. Recherswil
   - 20\. …
   - 21\. Subingen
@@ -482,7 +484,7 @@ beschliesst:
 - d) Bezirk Thal
   - 1\. Thal (Aedermannsdorf, Balsthal, Herbetswil, Holderbank, Laupersdorf, Matzendorf, Mümliswil-Ramiswil, Welschenrohr-Gänsbrunnen)
   - 2\. …
-- e) Bezirk Gäu, Olten und Gösgen
+- e) Bezirke Gäu, Olten und Gösgen
   - 1\. Erlinsbach (Erlinsbach SO)
   - 2\. Fulenbach (Fulenbach)
   - 3\. Gäu (Egerkingen, Gunzgen, Härkingen, Neuendorf, Niederbuchsiten, Oberbuchsiten, Wolfwil)
