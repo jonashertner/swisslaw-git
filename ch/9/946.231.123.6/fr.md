@@ -3,18 +3,18 @@ sr: "946.231.123.6"
 title: "Ordonnance du 14 mars 2014 instituant des mesures à l'encontre de la République centrafricaine"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/150"
 language: fr
-version: 2020-08-25
+version: 2022-01-01
 adopted: 2014-03-14
 in_force: 2014-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/150/20200825/fr/xml/fedlex-data-admin-ch-eli-cc-2014-150-20200825-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/150/20200825/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/150/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-150-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/150/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République centrafricaine
 
-du 14 mars 2014 (Etat le 25 août 2020)
+du 14 mars 2014 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -23,7 +23,7 @@ vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1], en 
 arrête:
 
 [^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^ingress-2]: Les textes des résolutions du Conseil de sécurité des Nations Unies sont accessibles en ligne à l’adresse: www.un.org/fr/sc/ &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions concernant la République centrafricaine &gt; Résolutions.
+[^ingress-2]: Les textes des résolutions du Conseil de sécurité des Nations Unies sont accessibles en ligne à l’adresse: [www.un.org/fr/sc](https://www.un.org/securitycouncil/fr) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions concernant la République centrafricaine &gt; Résolutions.
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 14 déc. 2018 ([RO 2018 4553](https://fedlex.data.admin.ch/eli/oc/2018/709)).
 
 ## Section 1 Mesures de coercition
@@ -132,9 +132,11 @@ Au sens de la présente ordonnance, on entend par:
 
 <sup>2</sup> Le SEM surveille l’exécution de l’interdiction d’entrée et de transit prévue à l’art. 4.
 
-<sup>3</sup> Le contrôle à la frontière incombe à l’Administration fédérale des douanes.
+<sup>3</sup> Le contrôle à la frontière incombe à l’Office fédéral de la douane et de la sécurité des frontières[^5-1].
 
 <sup>4</sup> Sur instruction du SECO, les autorités compétentes prennent les mesures nécessaires pour le gel des ressources économiques, par exemple la mention d’un blocage du registre foncier ou la saisie ou la mise sous scellé de biens de luxe.
+
+[^5-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -154,7 +156,7 @@ Au sens de la présente ordonnance, on entend par:
 
 <sup>3</sup> Le SECO poursuit et juge les infractions au sens des art. 9 et 10 LEmb; il peut ordonner des saisies ou des confiscations.
 
-## Section 3 Reprise automatique de listes et entrée en vigueur****
+## Section 3 Reprise automatique de listes et entrée en vigueur
 
 [^sec3-1]
 
@@ -174,7 +176,7 @@ Les listes relatives à des personnes physiques, entreprises et entités que le 
 
 La présente ordonnance entre en vigueur le 15 mars 2014.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 2, al. 1, let. a, 4, al. 1, et 8)
 
@@ -184,9 +186,9 @@ Annexe*[^t-1]*
 
 **Remarque**
 
-\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent*[^annexu1-lvlu1-1]*.
+\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent[^annexu1-lvlu1-1].
 
-\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies*[^annexu1-lvlu1-2]*.
+\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annexu1-lvlu1-2].
 
-[^annexu1-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: www.un.org/fr/sc &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions concernant la République centrafricaine &gt; Matériaux relatifs à la liste de sanctions.
-[^annexu1-lvlu1-2]: La banque de données SESAM est librement accessible Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
+[^annexu1-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: [www.un.org/fr/sc](https://www.un.org/securitycouncil/fr) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions concernant la République centrafricaine &gt; Matériaux relatifs à la liste de sanctions.
+[^annexu1-lvlu1-2]: La banque de données SESAM est librement accessible Internet: [www.seco.admin.ch](https://www.seco.admin.ch/) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
