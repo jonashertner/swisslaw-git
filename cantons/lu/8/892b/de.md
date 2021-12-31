@@ -4,20 +4,20 @@ number: 892b
 title: Kantonale Asylverordnung
 short: KAsylV
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-12-10
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-03
 adopted: 2015-11-24
 in_force: 2016-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/892b"
-pdf: "https://srl.lu.ch/api/de/versions/3528/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3881/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonale Asylverordnung
 
-vom 24.11.2015 (Stand 01.01.2020)
+vom 24.11.2015 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -106,32 +106,32 @@ beschliesst:
 
 <table>
 <tr><th>Haushaltgrösse</th><th>Betrag pro Person und tatsächlichen Anwesenheitstag</th></tr>
-<tr><td>1 Person</td><td>Fr. 11.10</td></tr>
-<tr><td>2 Personen</td><td>Fr. 10.60</td></tr>
-<tr><td>3 Personen</td><td>Fr. 9.35</td></tr>
-<tr><td>4 Personen</td><td>Fr. 8.25</td></tr>
-<tr><td>5 Personen</td><td>Fr. 7.55</td></tr>
-<tr><td>6 Personen</td><td>Fr. 7.15</td></tr>
-<tr><td>7 Personen</td><td>Fr. 6.75</td></tr>
-<tr><td>8 Personen</td><td>Fr. 6.50</td></tr>
-<tr><td>9 Personen</td><td>Fr. 6.30</td></tr>
-<tr><td>für jede weitere Person</td><td>Fr. 4.85</td></tr>
+<tr><td>1 Person</td><td>Fr. 11.20</td></tr>
+<tr><td>2 Personen</td><td>Fr. 10.70</td></tr>
+<tr><td>3 Personen</td><td>Fr. 9.45</td></tr>
+<tr><td>4 Personen</td><td>Fr. 8.35</td></tr>
+<tr><td>5 Personen</td><td>Fr. 7.65</td></tr>
+<tr><td>6 Personen</td><td>Fr. 7.25</td></tr>
+<tr><td>7 Personen</td><td>Fr. 6.85</td></tr>
+<tr><td>8 Personen</td><td>Fr. 6.60</td></tr>
+<tr><td>9 Personen</td><td>Fr. 6.40</td></tr>
+<tr><td>für jede weitere Person</td><td>Fr. 4.90</td></tr>
 </table>
 
 <sup>3</sup> Ansätze bei Unterbringung in individuellen Unterkünften:
 
 <table>
 <tr><th>Haushaltgrösse</th><th>Betrag pro Person und Tag</th></tr>
-<tr><td>1 Person</td><td>Fr. 13.65</td></tr>
-<tr><td>2 Personen</td><td>Fr. 12.70</td></tr>
-<tr><td>3 Personen</td><td>Fr. 11.60</td></tr>
-<tr><td>4 Personen</td><td>Fr. 10.30</td></tr>
-<tr><td>5 Personen</td><td>Fr. 9.55</td></tr>
-<tr><td>6 Personen</td><td>Fr. 9.05</td></tr>
-<tr><td>7 Personen</td><td>Fr. 8.80</td></tr>
-<tr><td>8 Personen</td><td>Fr. 8.50</td></tr>
-<tr><td>9 Personen</td><td>Fr. 8.30</td></tr>
-<tr><td>für jede weitere Person</td><td>Fr. 6.60</td></tr>
+<tr><td>1 Person</td><td>Fr. 13.80</td></tr>
+<tr><td>2 Personen</td><td>Fr. 12.85</td></tr>
+<tr><td>3 Personen</td><td>Fr. 11.70</td></tr>
+<tr><td>4 Personen</td><td>Fr. 10.40</td></tr>
+<tr><td>5 Personen</td><td>Fr. 9.65</td></tr>
+<tr><td>6 Personen</td><td>Fr. 9.15</td></tr>
+<tr><td>7 Personen</td><td>Fr. 8.90</td></tr>
+<tr><td>8 Personen</td><td>Fr. 8.60</td></tr>
+<tr><td>9 Personen</td><td>Fr. 8.40</td></tr>
+<tr><td>für jede weitere Person</td><td>Fr. 6.70</td></tr>
 </table>
 
 #### § 8
