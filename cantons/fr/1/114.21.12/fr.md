@@ -3,13 +3,13 @@ canton: FR
 number: "114.21.12"
 title: Ordonnance relative à la plate-forme informatique contenant les données des registres des habitants
 language: fr
-version: 2016-07-01
-valid_until: 2021-12-31
-version_adopted: 2016-06-21
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2022-01-31
 adopted: 2010-06-14
 in_force: 2010-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/114.21.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6200/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7101/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6200/pdf_file"
 
 Registre des habitants, plate-forme informatique – O
 
-du 14.06.2010 (version entrée en vigueur le 01.07.2016)
+du 14.06.2010 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -55,11 +55,11 @@ Arrête:
 
 **Droit d'accès aux données de la plate-forme cantonale – Déroulement de la procédure**
 
-<sup>1</sup> Lorsque la demande est complète, le Service requiert le préavis de l'Autorité cantonale de la transparence et de la protection des données. En cas de demande d'interfaçage, il doit également requérir le préavis du Service de l'informatique et des télécommunications quant à la faisabilité technique de la demande et à l'évaluation des coûts.
+<sup>1</sup> Lorsque la demande est complète, le Service requiert le préavis de l'Autorité cantonale de la transparence, de la protection des données et de la médiation. En cas de demande d'interfaçage, il doit également requérir le préavis du Service de l'informatique et des télécommunications quant à la faisabilité technique de la demande et à l'évaluation des coûts.
 
 <sup>2</sup> Il transmet ensuite la demande, accompagnée du préavis précité, à la Direction de la sécurité et de la justice (ci-après: la Direction) pour décision.
 
-<sup>3</sup> La décision notifiée au requérant ou à la requérante est communiquée à l'Autorité cantonale de la transparence et de la protection des données, au Service et au Service de l'informatique et des télécommunications.
+<sup>3</sup> La décision notifiée au requérant ou à la requérante est communiquée à l'Autorité cantonale de la transparence, de la protection des données et de la médiation, au Service et au Service de l'informatique et des télécommunications.
 
 <sup>4</sup> La procédure est gratuite. Toutefois, si des travaux doivent être entrepris pour satisfaire à la demande, les frais y relatifs sont à la charge du requérant ou de la requérante.
 
@@ -71,7 +71,7 @@ Arrête:
 
 <sup>1</sup> La durée de validité de l'autorisation n'est pas limitée.
 
-<sup>2</sup> Le Service procède, à intervalles réguliers, au contrôle des autorisations délivrées, en collaboration avec l'Autorité cantonale de la transparence et de la protection des données.
+<sup>2</sup> Le Service procède, à intervalles réguliers, au contrôle des autorisations délivrées, en collaboration avec l'Autorité cantonale de la transparence, de la protection des données et de la médiation.
 
 <sup>3</sup> Lorsque le droit d'accès ne correspond plus aux exigences légales, il en informe la Direction, qui peut retirer l'autorisation concernée.
 

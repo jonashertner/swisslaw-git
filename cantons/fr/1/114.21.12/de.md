@@ -3,13 +3,13 @@ canton: FR
 number: "114.21.12"
 title: Verordnung über die Informatikplattform für die Einwohnerregisterdaten
 language: de
-version: 2016-07-01
-valid_until: 2021-12-31
-version_adopted: 2016-06-21
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2022-01-31
 adopted: 2010-06-14
 in_force: 2010-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/114.21.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/6200/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7101/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6200/pdf_file"
 
 Einwohnerregisterdaten, Informatikplattform – V
 
-vom 14.06.2010 (Fassung in Kraft getreten am 01.07.2016)
+vom 14.06.2010 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -55,11 +55,11 @@ beschliesst:
 
 **Zugriff auf die Daten der kantonalen Informatikplattform – Verfahrensablauf**
 
-<sup>1</sup> Das Amt unterbreitet die vollständig ausgefüllten Gesuche der kantonalen Aufsichtsbehörde für Öffentlichkeit und Datenschutz zur Stellungnahme. Im Fall eines Gesuchs betreffend Austausch der Daten muss es ebenfalls die Stellungnahme des Amts für Informatik und Telekommunikation zur technischen Machbarkeit des Gesuchs und zum Kostenvoranschlag einholen.
+<sup>1</sup> Das Amt unterbreitet die vollständig ausgefüllten Gesuche der kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation zur Stellungnahme. Im Fall eines Gesuchs betreffend Austausch der Daten muss es ebenfalls die Stellungnahme des Amts für Informatik und Telekommunikation zur technischen Machbarkeit des Gesuchs und zum Kostenvoranschlag einholen.
 
 <sup>2</sup> Es leitet danach das Gesuch zusammen mit der oben erwähnten Stellungnahme an die Sicherheits- und Justizdirektion (die Direktion) zum Entscheid weiter.
 
-<sup>3</sup> Der Entscheid wird dem Gesuchsteller zugestellt und der kantonalen Aufsichtsbehörde für Öffentlichkeit und Datenschutz, dem Amt sowie dem Amt für Informatik und Telekommunikation mitgeteilt.
+<sup>3</sup> Der Entscheid wird dem Gesuchsteller zugestellt und der kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation, dem Amt sowie dem Amt für Informatik und Telekommunikation mitgeteilt.
 
 <sup>4</sup> Das Verfahren ist kostenlos. Falls jedoch Arbeiten unternommen werden müssen, um dem Gesuch zu entsprechen, gehen die Kosten zulasten des Gesuchstellers.
 
@@ -71,7 +71,7 @@ beschliesst:
 
 <sup>1</sup> Die Bewilligung ist unbefristet.
 
-<sup>2</sup> Das Amt prüft in Zusammenarbeit mit der kantonalen Aufsichtsbehörde für Öffentlichkeit und Datenschutz regelmässig die erteilten Bewilligungen.
+<sup>2</sup> Das Amt prüft in Zusammenarbeit mit der kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation regelmässig die erteilten Bewilligungen.
 
 <sup>3</sup> Entspricht das Zugriffsrecht nicht mehr den gesetzlichen Anforderungen, so teilt das Amt dies der Direktion mit; die Direktion kann die Bewilligung entziehen.
 
