@@ -4,13 +4,13 @@ number: "651.111"
 title: Verordnung zum Steuergesetz
 short: StGV
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-11-06
+version: 2022-01-01
+valid_until: 2023-06-30
+version_adopted: 2021-08-25
 adopted: 2000-09-11
 in_force: 2001-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/651.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2790/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3081/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2790/pdf_file"
 
 (StGV)
 
-Vom 11.09.2000 (Stand 01.01.2020)
+Vom 11.09.2000 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -189,7 +189,7 @@ beschliesst:
 
 <sup>1</sup> Auf beweglichen Gegenständen des Anlagevermögens kann die Differenz zwischen dem Anlagewert und dem Endwert sofort abgeschrieben werden. Endwert ist der Wert, den der abzuschreibende Gegenstand in dem Zeitpunkt haben wird, in welchem er aus dem Betrieb ausscheidet; er beträgt in der Regel 20 % des Anlagewertes.
 
-<sup>2</sup> Gegenstände, für welche die Sofortabschreibung beansprucht wird, sind auf einem separatem Konto zu verbuchen, das Anlagewert und Endwert jedes einzelnen Postens im Detail ausweist. Den Steuerbehörden ist nebst der Bilanz eine Abschreibungstabelle zur Verfügung zu stellen. Steuerpflichtige, welche diese buchmässigen Anforderungen nicht erfüllen, können die Sofortabschreibung nicht geltend machen.
+<sup>2</sup> Gegenstände, für welche die Sofortabschreibung beansprucht wird, sind auf einem separaten Konto zu verbuchen, das Anlagewert und Endwert jedes einzelnen Postens im Detail ausweist. Den Steuerbehörden ist nebst der Bilanz eine Abschreibungstabelle zur Verfügung zu stellen. Steuerpflichtige, welche diese buchmässigen Anforderungen nicht erfüllen, können die Sofortabschreibung nicht geltend machen.
 
 <sup>3</sup> Die Sofortabschreibung kann ausserdem nicht beansprucht werden, sofern auf den fraglichen Gegenständen bereits nach den Normalsätzen abgeschrieben wurde.
 
@@ -250,7 +250,7 @@ beschliesst:
 
 **Kinderbetreuungskosten (§ 40 lit. n StG)**
 
-<sup>1</sup> Lebenshaltungskosten gelten nicht als Kinderbetreuungskosten. Sie werden pauschal mit 25 % der nachgewiesenen Kosten berücksichtigt.
+<sup>1</sup> Lebenshaltungskosten gelten nicht als Kinderbetreuungskosten. Sie werden pauschal mit 10 % der nachgewiesenen Kosten berücksichtigt.
 
 <sup>2</sup> Kinderbetreuungskosten sind nur abzugsfähig bei einer tatsächlichen Verhinderung, die Kinder selbst zu betreuen. Bei Ehepaaren liegt eine solche vor, wenn beide Elternteile gleichzeitig einer Erwerbstätigkeit nachgehen beziehungsweise in Ausbildung stehen oder erwerbsunfähig sind. Dies gilt sinngemäss auch für unverheiratete Personen, die mit Kindern zusammen in einem Haushalt leben (Konkubinat).
 
@@ -601,6 +601,12 @@ beschliesst:
 <sup>1</sup> Für Mahnungen nicht rechtzeitig eingereichter Steuererklärungen werden Gebühren erhoben. Die Gebühr für die erste Mahnung beträgt Fr. 35.–, für die zweite Fr. 50.–.
 
 <sup>2</sup> Die Anfechtung von Verfügungen über Mahngebühren gemäss Absatz 1 richtet sich nach dem Rechtsschutz für Gebührenverfügungen im Bezugsverfahren (§ 227 Abs. 2 StG).
+
+#### § 65b
+
+**Auferlegung der Kosten einer Bücheruntersuchung (§ 188 Abs. 2 StG)**
+
+<sup>1</sup> Für eine durch schuldhaftes Verhalten veranlasste Bücherprüfung durch das Kantonale Steueramt wird eine Gebühr zwischen Fr. 200.– und Fr. 2'000.– erhoben. Innerhalb dieses Rahmens bemisst sich die Gebühr nach dem Zeitaufwand und der Bedeutung der Sache.
 
 #### § 66
 
