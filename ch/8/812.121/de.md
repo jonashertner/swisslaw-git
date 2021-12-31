@@ -4,20 +4,20 @@ title: "Bundesgesetz vom 3. Oktober 1951 über die Betäubungsmittel und die psy
 short: BetmG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/241_241_245"
 language: de
-version: 2021-05-15
+version: 2022-01-01
 adopted: 1951-10-03
 in_force: 1952-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20210515/de/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20210515-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20210515/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Betäubungsmittel und die psychotropen Stoffe
 
-(Betäubungsmittelgesetz, BetmG)**[^t-1]**
+(Betäubungsmittelgesetz, BetmG)[^t-1]
 
-vom 3. Oktober 1951 (Stand am 15. Mai 2021)
+vom 3. Oktober 1951 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. I des BG vom 24. März 1995, in Kraft seit 1. Juli 1996 ([AS 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [BBl 1994 III 1273](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
@@ -31,9 +31,7 @@ beschliesst:
 [^ingress-2]: Fassung gemäss Ziff. 7 des BG vom 19. März 2010 über die Umsetzung des Rahmenbeschlusses 2008/977/JI über den Schutz von Personendaten im Rahmen der polizeilichen und justiziellen Zusammenarbeit in Strafsachen, in Kraft seit 1. Dez. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464); [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 [^ingress-3]: [BBl 1951 I 829](https://fedlex.data.admin.ch/eli/fga/1951/1_829_841_)
 
-## 1. Kapitel****: Allgemeine Bestimmungen
-
-[^chap1-1]
+## 1. Kapitel[^chap1-1]: Allgemeine Bestimmungen
 
 [^chap1-1]: Erlassgliederung sowie Nummerierung der Einschaltartikel und -abschnitte gemäss Ziff. I des BG vom 20. März 1975, in Kraft seit 1. Aug. 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 
@@ -116,7 +114,7 @@ Soweit das Gesetz nichts anderes vorsieht, gelten die Bestimmungen zu den Betäu
 
 <sup>2</sup> Der Bundesrat kann Betäubungsmittel von den Kontrollmassnahmen teilweise und – in bestimmter Konzentration oder Menge – ganz ausnehmen, wenn die zuständigen internationalen Organisationen (Vereinte Nationen, Weltgesundheitsorganisation) die Befreiung aufgrund eines auch von der Schweiz ratifizierten Abkommens beschliessen oder empfehlen.[^3-3]
 
-<sup>3</sup> ...[^3-4]
+<sup>3</sup> …[^3-4]
 
 <sup>4</sup> Für den Vollzug von Absatz 1, insbesondere für Informations- und Beratungsaufgaben, kann der Bundesrat private Organisationen beiziehen.[^3-5]
 
@@ -132,7 +130,7 @@ Soweit das Gesetz nichts anderes vorsieht, gelten die Bestimmungen zu den Betäu
 
 [^3a-1]: Eingefügt durch Ziff. I des BG vom 24. März 1995 ([AS 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [BBl 1994 III 1273](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)). Aufgehoben durch Ziff. I des BG vom 20. März 2008, mit Wirkung seit 1. Juli 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
-## 1*a*. Kapitel:**** Prävention, Therapie und Schadenminderung
+## 1*a*. Kapitel: Prävention, Therapie und Schadenminderung
 
 [^chap1a-1]
 
@@ -304,12 +302,13 @@ Der Bund entwickelt in Zusammenarbeit mit den Kantonen Empfehlungen zur Qualitä
 
 <sup>1bis</sup> Der Bundesrat kann für die Ein- und Ausfuhr von Betäubungsmitteln durch kranke Reisende besondere Bestimmungen vorsehen. Das Institut kann besonders schützenswerte Personendaten im Zusammenhang mit der Ein- und Ausfuhr von Betäubungsmitteln durch kranke Reisende bearbeiten, soweit dies auf Grund internationaler Abkommen notwendig ist.[^5-4]
 
-<sup>2</sup> Die Aufsicht über die Durchfuhr von Betäubungsmitteln wird von der Zollverwaltung in Verbindung mit dem Institut ausgeübt.
+<sup>2</sup> Die Aufsicht über die Durchfuhr von Betäubungsmitteln wird vom Bundesamt für Zoll und Grenzsicherheit[^5-5] in Verbindung mit dem Institut ausgeübt.
 
 [^5-1]: Eingefügt durch Ziff. I des BG vom 20. März 2008, in Kraft seit 1. Juli 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^5-2]: Fassung gemäss Ziff. I des BG vom 20. März 2008, in Kraft seit 1. Juli 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^5-3]: Fassung gemäss Ziff. I des BG vom 20. März 1975, in Kraft seit 1. Aug. 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 [^5-4]: Eingefügt durch Art. 3 Ziff. 9 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und an Dublin, in Kraft seit 12. Dez. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 Bst. f; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^5-5]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -347,7 +346,7 @@ Die folgenden Betäubungsmittel dürfen weder angebaut, eingeführt, hergestellt
 - c. Halluzinogene wie Lysergid (LSD 25);
 - d.[^8-3] Betäubungsmittel des Wirkungstyps Cannabis.[^8-4]
 
-<sup>2</sup> ...[^8-5]
+<sup>2</sup> …[^8-5]
 
 <sup>3</sup> Der Bundesrat kann die Einfuhr, die Herstellung und das Inverkehrbringen weiterer Betäubungsmittel untersagen, wenn internationale Abkommen ihre Herstellung verbieten oder die wichtigsten Fabrikationsländer auf die Herstellung verzichten.[^8-6]
 
@@ -400,9 +399,9 @@ Das Bundesamt für Gesundheit kann nach Anhörung der betroffenen Kantone und Ge
 
 <sup>2</sup> Die Befugnis nach Absatz 1 steht auch Medizinalpersonen und Studierenden von universitären Medizinalberufen zu, die mit Bewilligung der zuständigen kantonalen Behörde eine Medizinalperson in einem universitären Medizinalberuf vertreten.[^9-4]
 
-<sup>2</sup> *<sup>a</sup>* ...[^9-5]
+<sup>2</sup> *<sup>a</sup>* …[^9-5]
 
-<sup>3</sup> ...[^9-6]
+<sup>3</sup> …[^9-6]
 
 <sup>4</sup> Die Kantone können die Befugnis der Zahnärzte auf bestimmte Betäubungsmittel beschränken.
 
@@ -466,7 +465,7 @@ In den Apotheken darf die Abgabe von Betäubungsmitteln an das Publikum nur auf 
 [^14-1]: Fassung gemäss Ziff. I des BG vom 20. März 2008, in Kraft seit 1. Juli 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^14-2]: Eingefügt durch Ziff. I des BG vom 20. März 1975, in Kraft seit 1. Aug. 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 
-### Abschnitt 3*a*:**** Organisationen und Behörden
+### Abschnitt 3*a*: Organisationen und Behörden
 
 [^chap2-sec3a-1]
 
@@ -480,7 +479,7 @@ In den Apotheken darf die Abgabe von Betäubungsmitteln an das Publikum nur auf 
 
 <sup>2</sup> Der Bundesrat und die Kantone können die von ihnen erteilten Bewilligungen für bestimmte Zeit oder dauernd entziehen, sofern besondere Umstände es erfordern.
 
-### 4. Abschnitt: ...****
+### 4. Abschnitt: …
 
 [^chap2-sec4-1]
 
@@ -536,7 +535,7 @@ Für jede Lieferung von Betäubungsmitteln ist ein Lieferschein zu erstellen und
 [^18-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 1968, in Kraft seit 1. Jan. 1970 ([AS 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9)13; [BBl 1968 I 737](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)).
 [^18-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-## 3*a*. Kapitel:**** Datenschutz im Rahmen der Schengen-Assoziierungsabkommen
+## 3*a*. Kapitel: Datenschutz im Rahmen der Schengen-Assoziierungsabkommen
 
 [^chap3a-1]
 
@@ -572,7 +571,7 @@ Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder
 
 ## 4. Kapitel: Strafbestimmungen
 
-### 1. Abschnitt: Strafbare Handlungen****
+### 1. Abschnitt: Strafbare Handlungen
 
 [^chap4-sec1-1]
 
@@ -756,7 +755,7 @@ Die allgemeinen Bestimmungen des Strafgesetzbuches[^26-1] finden insoweit Anwend
 [^27-5]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^27-6]: [[AS 2000 1347](https://fedlex.data.admin.ch/eli/oc/2000/213), [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 4, [2004 5387](https://fedlex.data.admin.ch/eli/oc/2004/820), [2006 2353](https://fedlex.data.admin.ch/eli/oc/2006/360)[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 45, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 24 [6657](https://fedlex.data.admin.ch/eli/oc/2007/861)Anhang Ziff. 9. [AS 2009 6743](https://fedlex.data.admin.ch/eli/oc/2009/828)Art. 163]. Siehe heute: die Mehrwertsteuerverordnung vom 27. Nov. 2009 ([SR 641.201](https://fedlex.data.admin.ch/eli/cc/2009/828)**)**.
 
-### 2. Abschnitt: Strafverfolgung****
+### 2. Abschnitt: Strafverfolgung
 
 [^chap4-sec2-1]
 
@@ -790,7 +789,7 @@ Widerhandlungen nach den Artikeln 20–22, welche im Vollzugsbereich des Bundes 
 
 [^28b28l-1]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012 ([AS 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [BBl 2011 8195](https://fedlex.data.admin.ch/eli/fga/2011/1437)[8221](https://fedlex.data.admin.ch/eli/fga/2011/1439)). Aufgehoben durch Anhang Ziff. II 3 des Ordnungsbussengesetzes vom 18. März 2016, mit Wirkung seit 1. Jan. 2020 ([AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [BBl 2015 959](https://fedlex.data.admin.ch/eli/fga/2015/96)).
 
-## 5. Kapitel:**** Aufgaben der Kantone und des Bundes
+## 5. Kapitel: Aufgaben der Kantone und des Bundes
 
 [^chap5-1]
 

@@ -4,11 +4,11 @@ title: "Federal Act of 3 October 1951 on Narcotics and Psychotropic Substances (
 short: NarcA
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/241_241_245"
 language: en
-version: 2021-05-15
+version: 2022-01-01
 adopted: 1951-10-03
 in_force: 1952-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20210515/en/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20210515-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20210515/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20220101-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20210515/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-(Narcotics Act, NarcA)**[^t-1]**
+(Narcotics Act, NarcA)[^t-1]
 
-of 3 October 1951 (Status as of 15 May 2021)
+of 3 October 1951 (Status as of 1 January 2022)
 
 [^t-1]: Title amended by No I of the FA of 24 March 1995, in force since 1 July 1996 ([AS 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [BBl 1994 III 1273](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
@@ -33,7 +33,7 @@ decrees:
 [^ingress-2]: Amended by No 7 of the FA of 19 March 2010 on the implementation of Council Framework Decision 2008/977/JI on the protection of personal data processed in the framework of police and judicial cooperation in criminal matters, in force since 1 Dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464); [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 [^ingress-3]: [BBl 1951 I 829](https://fedlex.data.admin.ch/eli/fga/1951/1_829_841_)
 
-## Chapter 1**** General Provisions
+## Chapter 1 General Provisions
 
 [^chap1-1]
 
@@ -134,7 +134,7 @@ Unless this Act provides otherwise, the provisions on narcotics also apply to ps
 
 [^3a-1]: Inserted by No I of the FA of 24 March 1995 ([AS 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [BBl 1994 III 1273](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)). Repealed by No I of the FA of 20 March 2008, with effect from 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
-## Chapter 1*a***** Prevention, Therapy and Harm Reduction
+## Chapter 1*a* Prevention, Therapy and Harm Reduction
 
 [^chap1a-1]
 
@@ -306,12 +306,13 @@ In consultation with the cantons, the Confederation shall develop recommendation
 
 <sup>1bis</sup> The Federal Council may issue special provisions on the import or export of narcotics by travellers suffering from medical conditions. The Agency may process sensitive personal data connected with the import or export of narcotics by travellers suffering from medical conditions, provided this is required by international agreements.[^5-4]
 
-<sup>2</sup> The supervision of the transit of narcotics shall be carried out by the Customs Administration in consultation with the Agency.
+<sup>2</sup> The supervision of the transit of narcotics shall be carried out by the Federal Office for Customs and Border Security[^5-5] in consultation with the Agency.
 
 [^5-1]: Inserted by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^5-2]: Amended by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^5-3]: Amended by No I of the FA of 20 March 1975, in force since 1 Aug. 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 [^5-4]: Inserted by Art. 3 No 9 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association to Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. f; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^5-5]: The name of this administrative unit was modified on 1 Jan. 2022 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -468,7 +469,7 @@ In pharmacies, narcotics may only be dispensed to the public on the basis of a p
 [^14-1]: Amended by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^14-2]: Inserted by No I of the FA of 20 March 1975, in force since 1 Aug. 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 
-### Section 3*a***** Organisations and Authorities
+### Section 3*a* Organisations and Authorities
 
 [^chap2-sec3a-1]
 
@@ -482,7 +483,7 @@ In pharmacies, narcotics may only be dispensed to the public on the basis of a p
 
 <sup>2</sup> The Federal Council and the cantons may revoke the licence they have granted for a limited period or permanently where special circumstances so require.
 
-### Section 4 ...****
+### Section 4 ...
 
 [^chap2-sec4-1]
 
@@ -538,7 +539,7 @@ For each supply of narcotics, a delivery note must be issued and handed to the r
 [^18-1]: Amended by No I of the FA of 18 Dec. 1968, in force since 1 Jan. 1970 ([AS 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9)13; [BBl 1968 I 737](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)).
 [^18-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-## Chapter 3*a***** Data Protection under the Schengen Association Agreements
+## Chapter 3*a* Data Protection under the Schengen Association Agreements
 
 [^chap3a-1]
 
@@ -574,7 +575,7 @@ The right to information is governed by the federal or cantonal data protection 
 
 ## Chapter 4 Criminal Provisions
 
-### Section 1 Offences****
+### Section 1 Offences
 
 [^chap4-sec1-1]
 
@@ -760,7 +761,7 @@ The general provisions of the Criminal Code[^26-1] apply unless this Act itself 
 [^27-5]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^27-6]: [[AS 2000 1347](https://fedlex.data.admin.ch/eli/oc/2000/213), [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 4, [2004 5387](https://fedlex.data.admin.ch/eli/oc/2004/820), [2006 2353](https://fedlex.data.admin.ch/eli/oc/2006/360)[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)No II 45, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 24 [6657](https://fedlex.data.admin.ch/eli/oc/2007/861)Annex No 9. [AS 2009 6743](https://fedlex.data.admin.ch/eli/oc/2009/828)Art. 163]. See now: the Value Added Tax Ordinance of 27 Nov. 2009 ([SR 641.201](https://fedlex.data.admin.ch/eli/cc/2009/828)).
 
-### Section 2 Prosecution****
+### Section 2 Prosecution
 
 [^chap4-sec2-1]
 
@@ -794,7 +795,7 @@ Offences under Articles 20–22 that are established by the relevant federal aut
 
 [^28b28l-1]: Inserted by No I of the FA of 28 Sept. 2012 ([AS 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [BBl 2011 8195](https://fedlex.data.admin.ch/eli/fga/2011/1437)[8221](https://fedlex.data.admin.ch/eli/fga/2011/1439)). Repealed by Annex No II 3 of the Fixed Penalties Act of 18 March 2016, with effect from 1 Jan. 2020 ([AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [BBl 2015 959](https://fedlex.data.admin.ch/eli/fga/2015/96)).
 
-## Chapter 5**** Tasks of the Cantons and the Confederation
+## Chapter 5 Tasks of the Cantons and the Confederation
 
 [^chap5-1]
 
@@ -929,4 +930,4 @@ The cantons shall issue the required regulations for implementing the federal la
 Commencement Date: 1 June 1952[^37-2]
 
 [^37-1]: [BS **4** 434]
-[^37-2]: FCD of 4 March 1952.
+[^37-2]: FCD of 4 March 1952..

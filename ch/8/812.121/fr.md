@@ -4,22 +4,22 @@ title: "Loi fédérale du 3 octobre 1951 sur les stupéfiants et les substances 
 short: LStup
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/241_241_245"
 language: fr
-version: 2021-05-15
+version: 2022-01-01
 adopted: 1951-10-03
 in_force: 1952-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20210515/fr/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20210515-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20210515/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur les stupéfiants et les substances psychotropes
 
-(Loi sur les stupéfiants, LStup)**[^t-1]**
+(Loi sur les stupéfiants, LStup)[^t-1]
 
-du 3 octobre 1951 (Etat le 15 mai 2021)
+du 3 octobre 1951 (État le 1<sup>er</sup> janvier 2022)
 
-[^t-1]: Nouvelle teneur selon le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> juil. 1**996** ([RO 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [FF 1994 III 1249](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
+[^t-1]: Nouvelle teneur selon le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> juil. 1996([RO 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [FF 1994 III 1249](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -31,7 +31,7 @@ arrête:
 [^ingress-2]: Nouvelle teneur selon le ch. 7 de la LF du 19 mars 2010 portant mise en œuvre de la décision-cadre 2008/977/JAI relative à la protection des données à caractère personnel traitées dans le cadre de la coopération policière et judiciaire en matière pénale, en vigueur depuis le 1<sup>er</sup> déc. 2010 ([RO 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464); [FF 2009 6091](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 [^ingress-3]: [FF 1951 I 841](https://fedlex.data.admin.ch/eli/fga/1951/1_829_841_)
 
-## Chapitre 1**** Dispositions générales
+## Chapitre 1 Dispositions générales
 
 [^chap1-1]
 
@@ -132,7 +132,7 @@ Sauf disposition contraire de la présente loi, les dispositions relatives aux s
 
 [^3a-1]: Introduit par le ch. I de la LF du 24 mars 1995 ([RO 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [FF 1994 III 1249](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)). Abrogé par le ch. I de la LF du 20 mars 2008, avec effet au 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
-## Chapitre 1*a***** Prévention, thérapie et réduction des risques
+## Chapitre 1*a* Prévention, thérapie et réduction des risques
 
 [^chap1a-1]
 
@@ -281,7 +281,7 @@ La Confédération développe la formation et la formation continue dans les dom
 
 En collaboration avec les cantons, la Confédération élabore des recommandations relatives à l’assurance qualité dans les domaines de la prévention, de la thérapie, de la réinsertion, de la réduction des risques et de l’aide à la survie.
 
-## Chapitre 2 Fabrication, remise****, acquisition et utilisation de stupéfiants****
+## Chapitre 2 Fabrication, remise, acquisition et utilisation de stupéfiants
 
 [^chap2-1][^chap2-2]
 
@@ -309,11 +309,12 @@ En collaboration avec les cantons, la Confédération élabore des recommandatio
 
 <sup>1bis</sup> Le Conseil fédéral peut prévoir des dispositions spéciales pour l’importation et l’exportation de stupéfiants par des voyageurs malades. L’Institut peut traiter des données sensibles en relation avec l’importation et l’exportation de stupéfiants par des voyageurs malades lorsque l’exécution d’accords internationaux l’exige.[^5-3]
 
-<sup>2</sup> L’Administration des douanes exerce avec l’institut le contrôle sur le transit des stupéfiants.
+<sup>2</sup> L’Office fédéral de la douane et de la sécurité des frontières[^5-4] exerce avec l’institut le contrôle sur le transit des stupéfiants.
 
 [^5-1]: Introduit par le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^5-2]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^5-3]: Introduit par l’art. 3 ch. 9 de l’AF du 17 déc. 2004 portant approbation et mise en oeuvre des accords bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, en vigueur depuis le 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. f; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^5-4]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -472,7 +473,7 @@ Les pharmaciens ne peuvent remettre des stupéfiants au public que sur présenta
 [^14-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^14-2]: Introduit par le ch. I de la LF du 20 mars 1975, en vigueur depuis le 1<sup>er</sup> août 1975 ([RO 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [FF 1973 I 1303](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 
-### Section 3*a***** Organisations et autorités
+### Section 3*a* Organisations et autorités
 
 [^chap2-sec3a-1]
 
@@ -486,7 +487,7 @@ Les pharmaciens ne peuvent remettre des stupéfiants au public que sur présenta
 
 <sup>2</sup> Le Conseil fédéral et les cantons peuvent retirer l’autorisation pour un temps déterminé ou à titre définitif, si des circonstances spéciales l’exigent.
 
-### Section 4 …****
+### Section 4 …
 
 [^chap2-sec4-1]
 
@@ -541,7 +542,7 @@ Pour toute livraison de stupéfiants, un bulletin doit être établi et remis au
 [^18-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 1968, en vigueur depuis le 1<sup>er</sup> janv. 1970 ([RO 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9); [FF 1968 I 784](https://fedlex.data.admin.ch/eli/fga/1968/1_757_784_977)).
 [^18-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-## Chapitre 3*a***** Traitement de données dans le cadre des accords d’association à Schengen
+## Chapitre 3*a* Traitement de données dans le cadre des accords d’association à Schengen
 
 [^chap3a-1]
 
@@ -577,7 +578,7 @@ Le droit d’accès est régi par les dispositions fédérales ou cantonales de 
 
 ## Chapitre 4 Dispositions pénales
 
-### Section 1 Actes punissables****
+### Section 1 Actes punissables
 
 [^chap4-sec1-1]
 
@@ -762,7 +763,7 @@ Est puni d’une amende celui qui, intentionnellement ou par négligence:
 [^27-5]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^27-6]: [[RO 2000 1347](https://fedlex.data.admin.ch/eli/oc/2000/213), [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)ch. II 4, [2004 5387](https://fedlex.data.admin.ch/eli/oc/2004/820), [2006 2353](https://fedlex.data.admin.ch/eli/oc/2006/360)[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 45, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 24 [6657](https://fedlex.data.admin.ch/eli/oc/2007/861)annexe ch. 9. [RO 2009 6743](https://fedlex.data.admin.ch/eli/oc/2009/828)art. 163]. Voir actuellement l’O du 27 nov. 2009 ([RS 641.201](https://fedlex.data.admin.ch/eli/cc/2009/828)).
 
-### Section 2 Poursuite pénale ****
+### Section 2 Poursuite pénale
 
 [^chap4-sec2-1]
 
@@ -796,7 +797,7 @@ Les infractions visées aux art. 20 à 22 qui sont constatées dans le domaine d
 
 [^28b28l-1]: Introduits par le ch. I de la LF du 28 sept. 2012 ([RO 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [FF 2011 7523](https://fedlex.data.admin.ch/eli/fga/2011/1437)[7549](https://fedlex.data.admin.ch/eli/fga/2011/1439)). Abrogés par l’annexe ch. II 3 de la L du 18 mars 2016 sur les amendes d’ordre, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [FF 2015 909](https://fedlex.data.admin.ch/eli/fga/2015/96)).
 
-## Chapitre 5**** Tâches des cantons et de la Confédération
+## Chapitre 5 Tâches des cantons et de la Confédération
 
 [^chap5-1]
 

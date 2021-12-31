@@ -4,20 +4,20 @@ title: "Legge federale del 3 ottobre 1951 sugli stupefacenti e sulle sostanze ps
 short: LStup
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/241_241_245"
 language: it
-version: 2021-05-15
+version: 2022-01-01
 adopted: 1951-10-03
 in_force: 1952-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20210515/it/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20210515-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20210515/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sugli stupefacenti e sulle sostanze psicotrope
 
-(Legge sugli stupefacenti, LStup)**[^t-1]**
+(Legge sugli stupefacenti, LStup)[^t-1]
 
-del 3 ottobre 1951 (Stato 15 maggio 2021)
+del 3 ottobre 1951 (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° lug. 1996 ([RU 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [FF 1994 III 1137](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
@@ -31,7 +31,7 @@ decreta:
 [^ingress-2]: Nuovo testo giusta il n. 7 della LF del 19 mar. 2010 che traspone nel diritto svizzero la decisione quadro 2008/977/GAI sulla protezione dei dati personali trattati nell’ambito della cooperazione giudiziaria e di polizia in materia penale, in vigore dal 1° dic. 2010 ([RU 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464); [FF 2009 5873](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 [^ingress-3]: FF **1951** I 829 ediz. ted. 841 ediz. franc.
 
-## Capitolo 1:**** Disposizioni generali
+## Capitolo 1: Disposizioni generali
 
 [^chap1-1]
 
@@ -132,7 +132,7 @@ In quanto la legge non disponga altrimenti, le disposizioni concernenti gli stup
 
 [^3a-1]: Introdotto dal n. I della LF del 24 mar. 1995 ([RU 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [FF 1994 III 1137](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)). Abrogato dal n. I della LF del 20 mar. 2008, con effetto dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
-## Capitolo 1*a*:**** Prevenzione, terapia e riduzione dei danni
+## Capitolo 1*a*: Prevenzione, terapia e riduzione dei danni
 
 [^chap1a-1]
 
@@ -304,11 +304,12 @@ La Confederazione elabora, in collaborazione con i Cantoni, raccomandazioni rela
 
 <sup>1bis</sup> Il Consiglio federale può prevedere disposizioni speciali per l’importazione e l’esportazione di stupefacenti da parte di viaggiatori malati. L’Istituto può trattare dati personali degni di particolare protezione in relazione con l’importazione e l’esportazione di stupefacenti da parte di viaggiatori malati, qualora ciò sia necessario in base a convenzioni internazionali.[^5-3]
 
-<sup>2</sup> L’amministrazione delle dogane esercita, insieme con l’Istituto, il controllo sul transito degli stupefacenti.
+<sup>2</sup> L’Ufficio federale della dogana e della sicurezza dei confini[^5-4] esercita, insieme con l’Istituto, il controllo sul transito degli stupefacenti.
 
 [^5-1]: Introdotta dal n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^5-2]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^5-3]: Introdotto dall’art. 3 n. 9 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. f).
+[^5-4]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -329,7 +330,7 @@ La Confederazione elabora, in collaborazione con i Cantoni, raccomandazioni rela
 
 <sup>2</sup> L’Istituto esamina se tali materie prime o prodotti sono sostanze o preparati secondo l’articolo 2. In caso affermativo, sono necessarie le autorizzazioni di cui agli articoli 4 e 5.
 
-<sup>3</sup> Il Dipartimento federale dell’interno tiene un elenco di tali sostanze e preparati
+<sup>3</sup> Il Dipartimento federale dell’interno tiene un elenco di tali sostanze e preparati.
 
 [^7-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
@@ -466,7 +467,7 @@ I farmacisti possono dispensare stupefacenti al pubblico soltanto verso presenta
 [^14-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^14-2]: Introdotto dal n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
 
-### Sezione 3*a*:**** Organizzazioni e autorità
+### Sezione 3*a*: Organizzazioni e autorità
 
 [^chap2-sec3a-1]
 
@@ -532,7 +533,7 @@ Per ogni fornitura di stupefacenti dev’essere allestito un bollettino di conse
 [^18-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1968, in vigore dal 1° gen. 1970 ([RU 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9); [FF 1968 I 489](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)).
 [^18-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Vedi anche l’art. 321<sup>bis</sup>.
 
-## Capitolo 3*a*:**** Protezione dei dati nell’ambito degli accordi di associazione alla normativa di Schengen
+## Capitolo 3*a*: Protezione dei dati nell’ambito degli accordi di associazione alla normativa di Schengen
 
 [^chap3a-1]
 
@@ -568,7 +569,7 @@ Il diritto d’accesso è retto dalle disposizioni federali o cantonali in mater
 
 ## Capitolo 4: Disposizioni penali
 
-### Sezione 1: Atti punibili****
+### Sezione 1: Atti punibili
 
 [^chap4-sec1-1]
 
@@ -752,7 +753,7 @@ In mancanza di prescrizioni della presente legge, sono applicabili le disposizio
 [^27-5]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^27-6]: [[RU 2000 1347](https://fedlex.data.admin.ch/eli/oc/2000/213), [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)n. II 4, [2004 5387](https://fedlex.data.admin.ch/eli/oc/2004/820), [2006 2353](https://fedlex.data.admin.ch/eli/oc/2006/360)[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 45, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 24 [6657](https://fedlex.data.admin.ch/eli/oc/2007/861)all. n. 9. [RU 2009 6743](https://fedlex.data.admin.ch/eli/oc/2009/828)art. 163]. Vedi ora l’O del 27 nov. 2009 ([RS 641.201](https://fedlex.data.admin.ch/eli/cc/2009/828)).
 
-### Sezione 2: Perseguimento penale****
+### Sezione 2: Perseguimento penale
 
 [^chap4-sec2-1]
 
@@ -786,7 +787,7 @@ Le infrazioni di cui agli articoli 20–22 accertate nell’ambito di esecuzione
 
 [^28b28l-1]: Introdotti dal n. I della LF del 28 set. 2012 ([RU 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [FF 2011 7269](https://fedlex.data.admin.ch/eli/fga/2011/1437)[7295](https://fedlex.data.admin.ch/eli/fga/2011/1439)). Abrogati dall’all. n. II 3 della LF del 18 mar. 2016 sulle multe disciplinari, con effetto dal 1° gen. 2020 ([RU 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [FF 2015 869](https://fedlex.data.admin.ch/eli/fga/2015/96)).
 
-## Capitolo 5:**** Compiti dei Cantoni e della Confederazione
+## Capitolo 5: Compiti dei Cantoni e della Confederazione
 
 [^chap5-1]
 
