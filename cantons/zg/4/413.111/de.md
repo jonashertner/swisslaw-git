@@ -3,20 +3,20 @@ canton: ZG
 number: "413.111"
 title: Ausführungsbestimmungen 1 zum Einführungsgesetz Berufsbildung
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-11-28
+version: 2022-01-01
+valid_until: 2024-02-29
+version_adopted: 2021-11-04
 adopted: 2026-07-13
 in_force: 2026-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/413.111"
-pdf: "https://bgs.zg.ch/api/de/versions/2023/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2282/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen 1 zum Einführungsgesetz Berufsbildung
 
-Vom 5. Juni 2012 (Stand 1. Januar 2020)
+Vom 5. Juni 2012 (Stand 1. Januar 2022)
 
 Das Amt für Berufsbildung des Kantons Zug,
 
@@ -126,6 +126,12 @@ verfügt:
 <sup>10</sup> In Grenz- und Spezialfällen entscheidet das Amt über die Aufnahme.
 
 [^7-1]: BGS [412.113](https://bgs.zg.ch/data/412.113/de)
+
+#### § 7a
+
+**Genehmigung von Praktika in Kindertagesstätten**
+
+<sup>1</sup> Berufsvorbereitende Praktika in Kindertagesstätten, die länger als sechs Monate dauern, bedürfen einer Genehmigung durch das Amt für Berufsbildung. Für die Berechnung der Dauer werden alle berufsvorbereitenden Praktika der Praktikantin bzw. des Praktikanten in Kindertagesstätten zusammengezählt. Das Amt für Berufsbildung regelt die Genehmigungsvoraussetzungen in einer Wegleitung.
 
 #### § 8
 
