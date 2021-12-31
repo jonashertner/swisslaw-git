@@ -4,13 +4,13 @@ number: "641.1"
 title: Gesetz über die sparsame Energienutzung und die Förderung erneuerbarer Energien
 short: "Kantonales Energiegesetz, kEnG"
 language: de
-version: 2021-11-01
-valid_until: 2021-12-31
+version: 2022-01-01
+valid_until: 2025-12-31
 version_adopted: 2021-03-31
 adopted: 2009-12-16
 in_force: 2010-05-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/641.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/647/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/648/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/647/pdf_file"
 
 (Kantonales Energiegesetz, kEnG)
 
-vom 16.12.2009 (Stand 01.11.2021)
+vom 16.12.2009 (Stand 01.01.2022)
 
 Der Landrat von Nidwalden,
 
@@ -274,6 +274,12 @@ beschliesst:
 
 <sup>3</sup> Die Bewilligungsbehörde verfügt die Ersatzabgabe mit der Baubewilligung.
 
+#### Art. 19c
+
+**3. Verwendung**
+
+<sup>1</sup> Der Kanton weist die Ersatzabgabe dem Fonds zur Finanzierung des Förderprogramms gemäss Art. 27 zu.
+
 #### Art. 20
 
 **Verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung 1. Ausrüstungspflicht bei Neubauten**
@@ -378,6 +384,8 @@ beschliesst:
 <sup>1</sup> Der Kanton fördert Massnahmen zur sparsamen und rationellen Energienutzung sowie zur Nutzung umweltschonender, erneuerbarer Energien und Abwärme.
 
 <sup>2</sup> Der Regierungsrat legt das kantonale Förderprogramm fest.
+
+<sup>3</sup> Der Kanton führt einen Fonds zur Finanzierung des Förderprogramms.
 
 #### Art. 28
 
