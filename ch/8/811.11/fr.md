@@ -4,20 +4,20 @@ title: "Loi fédérale du 23 juin 2006 sur les professions médicales universita
 short: LPMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/537"
 language: fr
-version: 2020-02-01
+version: 2022-01-01
 adopted: 2006-06-23
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/537/20200201/fr/xml/fedlex-data-admin-ch-eli-cc-2007-537-20200201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20200201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/537/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-537-20220101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les professions médicales universitaires<sup>∗</sup>
+# Loi fédérale sur les professions médicales universitaires<sup></sup>
 
 (Loi sur les professions médicales, LPMéd)[^t-1]
 
-du 23 juin 2006 (Etat le 1<sup>er</sup> février 2020)
+du 23 juin 2006 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -852,7 +852,7 @@ La Commission des professions médicales a les tâches et les compétences suiva
 
 <sup>4</sup> Le registre contient notamment les informations nécessaires aux cantons et aux organes fédéraux dans le cadre de l’application de la loi fédérale du 18 mars 1994 sur l’assurance-maladie[^51-4].
 
-<sup>4bis</sup> Le registre utilise systématiquement le numéro AVS visé à l’art. 50*e*, al. 1, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^51-5] en vue de l’identification univoque des personnes qui y figurent, ainsi que pour la mise à jour des données personnelles.[^51-6]
+<sup>4bis</sup> …[^51-5]
 
 <sup>5</sup> Le Conseil fédéral édicte des dispositions sur les données personnelles contenues dans le registre et les modalités de leur traitement.
 
@@ -860,8 +860,7 @@ La Commission des professions médicales a les tâches et les compétences suiva
 [^51-2]: Nouvelle teneur de la phrase selon le ch. I de la LF du 20 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5583](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^51-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^51-4]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^51-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^51-6]: Introduit par le ch. I de la LF du 20 mars 2015 ([RO 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5583](https://fedlex.data.admin.ch/eli/fga/2013/1112)). Nouvelle teneur selon l’annexe ch. 4 de la LF du 30 sept. 2016 sur les professions de la santé, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7925](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
+[^51-5]: Introduit par le ch. I de la LF du 20 mars 2015 ([RO 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5583](https://fedlex.data.admin.ch/eli/fga/2013/1112)). Abrogé par l’annexe ch. 23 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 52
 
@@ -887,13 +886,14 @@ Les autorités cantonales compétentes notifient sans retard au DFI:
 
 <sup>2</sup> L’OFSP communique aux autorités chargées des procédures disciplinaires en cours, à leur demande, des renseignements sur les données concernant les restrictions levées et les interdictions temporaires de pratiquer signalées par la mention «radié».
 
-<sup>3</sup> Le numéro AVS visé à l’art. 51, al. 4<sup>bis</sup>, n’est pas accessible au public et n’est disponible que pour le service chargé de la tenue du registre et pour les autorités cantonales chargées de l’octroi des autorisations de pratiquer.
+<sup>3</sup> Le numéro AVS n’est pas accessible au public; il est accessible uniquement au service chargé de la tenue du registre et aux autorités cantonales chargées de l’octroi des autorisations de pratiquer.[^53-2]
 
 <sup>4</sup> Toutes les autres données sont accessibles au public en ligne.
 
 <sup>5</sup> Le Conseil fédéral peut prévoir que certaines données sont accessibles uniquement sur demande s’il n’est pas dans l’intérêt de la santé publique qu’elles soient accessibles au public en ligne.
 
 [^53-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 30 sept. 2016 sur les professions de la santé, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7925](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
+[^53-2]: Nouvelle teneur selon l’annexe ch. 23 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 54
 

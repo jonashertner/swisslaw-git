@@ -4,11 +4,11 @@ title: "Legge federale del 23 giugno 2006 sulle professioni mediche universitari
 short: LPMed
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/537"
 language: it
-version: 2020-02-01
+version: 2022-01-01
 adopted: 2006-06-23
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/537/20200201/it/xml/fedlex-data-admin-ch-eli-cc-2007-537-20200201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20200201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/537/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-537-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20200201/it"
 
 (Legge sulle professioni mediche, LPMed)
 
-del 23 giugno 2006 (Stato 1° febbraio 2020)
+del 23 giugno 2006 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -848,7 +848,7 @@ La Commissione delle professioni mediche ha le seguenti attribuzioni e competenz
 
 <sup>4</sup> Il registro deve inoltre contenere in particolare le informazioni di cui i Cantoni e gli organi federali abbisognano per l’esecuzione della legge federale del 18 marzo 1994[^51-4] sull’assicurazione malattie.
 
-<sup>4bis</sup> Al fine di identificare in modo univoco le persone elencate e per aggiornare i dati personali, nel registro si utilizza sistematicamente il numero di assicurato conformemente all’articolo 50*e* capoverso 1 della legge federale del 20 dicembre 1946[^51-5] sull’assicurazione per la vecchiaia e per i superstiti.[^51-6]
+<sup>4bis</sup> ...[^51-5]
 
 <sup>5</sup> Il Consiglio federale emana disposizioni dettagliate sui dati personali contenuti nel registro e sulle relative modalità di trattamento.
 
@@ -856,8 +856,7 @@ La Commissione delle professioni mediche ha le seguenti attribuzioni e competenz
 [^51-2]: Nuovo testo del per. giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^51-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^51-4]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^51-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^51-6]: Introdotto dal n. I della L del 20 mar. 2015 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)). Nuovo testo giusta l’all. n. 4 della LF del 30 set. 2016 sulle professioni sanitarie, in vigore dal 1° feb. 2020 ([RU 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7125](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
+[^51-5]: Introdotto dal n. I della L del 20 mar. 2015 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)). Abrogato dall’all. n. 23 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 52
 
@@ -882,13 +881,14 @@ Le autorità cantonali competenti notificano senza indugio al DFI:
 
 <sup>2</sup> Su richiesta, l’UFSP comunica alle autorità cui compete un procedimento disciplinare in corso i dati relativi alle restrizioni soppresse e ai divieti temporanei di esercitare la professione ai quali è apposta la menzione «cancellato».
 
-<sup>3</sup> Il numero di assicurato di cui all’articolo 51 capoverso 4<sup>bis</sup> non è accessibile al pubblico ed è a disposizione unicamente del servizio incaricato di tenere il registro, nonché delle autorità cantonali competenti per il rilascio dell’autorizzazione all’esercizio della professione.
+<sup>3</sup> Il numero AVS non è accessibile al pubblico; è a disposizione unicamente del servizio incaricato di tenere il registro, nonché delle autorità cantonali competenti per il rilascio dell’autorizzazione all’esercizio della professione.[^53-2]
 
 <sup>4</sup> Tutti gli altri dati sono liberamente consultabili in rete.
 
 <sup>5</sup> Il Consiglio federale può prevedere che determinati dati siano accessibili soltanto su domanda, se l’interesse della sanità pubblica non richiede che siano pubblicamente accessibili in rete.
 
 [^53-1]: Nuovo testo giusta l’all. n. 4 della LF del 30 set. 2016 sulle professioni sanitarie, in vigore dal 1° feb. 2020 ([RU 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7125](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
+[^53-2]: Nuovo testo giusta l’all. n. 23 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 54
 
