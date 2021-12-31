@@ -3,11 +3,11 @@ sr: "830.31"
 title: Ordonnance du 20 mars 2020 sur les mesures en cas de pertes de gain en lien avec le coronavirus (COVID-19) (Ordonnance sur les pertes de gain COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/167"
 language: fr
-version: 2021-10-28
+version: 2022-01-01
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20211028/fr/xml/fedlex-data-admin-ch-eli-cc-2020-167-20211028-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20211028/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-167-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20211028/fr"
 
 (Ordonnance sur les pertes de gain COVID-19)
 
-du 20 mars 2020 (Etat le 28 octobre 2021)
+du 20 mars 2020 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -78,7 +78,7 @@ Les personnes visées à l’al. 1 ont droit à l’allocation pour autant qu’
 
 <sup>2</sup> Les parents qui doivent interrompre leur activité lucrative pour assurer la garde de leur enfant pendant les vacances scolaires n’ont droit à l’allocation qu’en cas de fermeture de l’institution prévue pour assurer cette garde ou de mise en quarantaine de la personne prévue pour assurer cette garde.[^2-8]
 
-<sup>2bis</sup> Les pertes de gain dues à une quarantaine-voyage au sens de l’art. 7 de l’ordonnance COVID-19 du 27 janvier 2021 mesures dans le domaine du transport international de voyageurs[^2-9] ne donnent pas droit à l’allocation.[^2-10]
+<sup>2bis</sup> Les pertes de gain dues à une quarantaine-voyage au sens de l’art. 9 de l’ordonnance COVID-19 du 23 juin 2021 transport international de voyageurs[^2-9] ne donnent pas droit à l’allocation.[^2-10]
 
 <sup>3</sup>
 
@@ -97,13 +97,13 @@ Les personnes qui exercent une activité lucrative indépendante au sens de l’
 
 <sup>3ter</sup> L’activité lucrative est considérée comme significativement limitée lorsque le chiffre d’affaires mensuel baisse d’au moins 30 % par rapport au chiffre d’affaires mensuel moyen des années 2015 à 2019. Si l’activité lucrative a débuté après 2015 et avant 2020, la moyenne doit être calculée sur la période de revenu correspondante. Les personnes ayant débuté leur activité lucrative après 2019 doivent prouver qu’elles ont subi une baisse de chiffre d’affaires d’au moins 30 % par mois comparé au chiffre d’affaires moyen réalisé sur au moins trois mois; la moyenne des trois mois où le chiffre d’affaires était le plus élevé étant déterminante.[^2-14]
 
-<sup>3quater</sup> Les employés vulnérables au sens de l’art. 27*a* de l’ordonnance 3 COVID-19 du 19 juin 2020[^2-15] ont droit à l’allocation sʼil nʼest pas possible de les occuper conformément à l’art. 27*a*, al. 1 à 4, de l’ordonnance 3 COVID-19, ou dans le cas d’un refus visé à l’art. 27*a*, al. 6, de l’ordonnance 3 COVID-19. Les employés doivent prouver leur vulnérabilité au moyen d’un certificat médical.[^2-16]
+<sup>3quater</sup> Les employés vulnérables au sens de l’art. 27*a* de l’ordonnance 3 COVID-19 du 19 juin 2020[^2-15] ont droit à l’allocation s’il n’est pas possible de les occuper conformément à l’art. 27*a*, al. 1 à 4, de l’ordonnance 3 COVID-19, ou dès lors qu’ils refusent d’accomplir la tâche qui leur a été attribuée conformément à l’art. 27*a*, al. 6, de l’ordonnance 3 COVID-19. Les employés doivent prouver leur vulnérabilité au moyen d’un certificat médical.[^2-16]
 
-<sup>3quinquies</sup> Les personnes vulnérables exerçant une activité lucrative indépendante au sens de l’art. 12 LPGA ont droit à l’allocation lorsqu’elles ne peuvent pas travailler depuis leur domicile. Pour la définition des personnes vulnérables, l’art. 27*a*, al. 10 et 11, de l’ordonnance 3 COVID-19 s’applique par analogie. Les employés doivent prouver leur vulnérabilité au moyen d’un certificat médical.[^2-17]
+<sup>3quinquies</sup> Les personnes vulnérables exerçant une activité lucrative indépendante au sens de l’art. 12 LPGA ont droit à l’allocation lorsqu’elles ne peuvent pas travailler depuis leur domicile. Pour la définition des personnes vulnérables, l’art. 27*a*, al. 10 à 12 de l’ordonnance 3 COVID-19 s’applique par analogie. Les employés doivent prouver leur vulnérabilité au moyen d’un certificat médical.[^2-17]
 
 <sup>4</sup> L’allocation est octroyée subsidiairement aux prestations des assurances sociales et aux prestations des assurances régies par la loi du 2 avril 1908 sur le contrat d’assurance[^2-18]. Ce principe ne s’applique pas aux prestations octroyées en vertu de l’art. 12 de la loi COVID-19 du 25 septembre 2020.[^2-19]
 
-<sup>5</sup> ...[^2-20]
+<sup>5</sup> …[^2-20]
 
 <sup>6</sup> Les deux parents peuvent avoir droit à l’allocation si la garde des enfants par un tiers n’est plus assurée. Toutefois, ils ne peuvent faire valoir qu’une seule indemnité journalière par jour de travail.
 
@@ -120,14 +120,14 @@ Les personnes qui exercent une activité lucrative indépendante au sens de l’
 [^2-7]: Introduit par le ch. I de l’O du 16 avr. 2020, en vigueur depuis le 17 mars 2020 ([RO 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)).
 [^2-8]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
 [^2-9]: [RS 818.101.27](https://fedlex.data.admin.ch/eli/cc/2021/380)
-[^2-10]: Introduit par l’art. 6 ch. 2 de l’O COVID-19 mesures dans le domaine du transport international de voyageurs du 2 juil. 2020 ([RO 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)). Nouvelle teneur selon l’annexe 2 ch. 3 de l’O COVID-19 mesures dans le domaine du transport international de voyageurs du 27 janv. 2021, en vigueur depuis le 8 fév. 2021 ([RO 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
+[^2-10]: Introduit par l’art. 6 ch. 2 de l’O COVID-19 mesures dans le domaine du transport international de voyageurs du 2 juil. 2020 ([RO 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906)).
 [^2-11]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 [^2-12]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^2-13]: Introduit par le ch. I de l’O du 16 avr. 2020 ([RO 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)). Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^2-14]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 2020 ([RO 2020 2729](https://fedlex.data.admin.ch/eli/oc/2020/493)). Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 183](https://fedlex.data.admin.ch/eli/oc/2021/183)).
 [^2-15]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^2-16]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 déc. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
-[^2-17]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 déc. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
+[^2-16]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables) ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11, al. 8).
+[^2-17]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables) ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11, al. 8).
 [^2-18]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
 [^2-19]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^2-20]: Abrogé par le ch. I de l’O du 11 sept. 2020, avec effet au 17 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
@@ -153,8 +153,8 @@ Les personnes qui exercent une activité lucrative indépendante au sens de l’
 [^3-3]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^3-4]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^3-5]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^3-6]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 déc. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
-[^3-7]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 déc. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
+[^3-6]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables) ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11, al. 8).
+[^3-7]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables) ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11, al. 8).
 
 #### Art. 4
 
@@ -184,27 +184,26 @@ Les personnes qui exercent une activité lucrative indépendante au sens de l’
 
 <sup>3</sup> Le montant maximal de l’allocation s’élève à 196 francs par jour.
 
-<sup>4</sup> ...[^5-9]
+<sup>4</sup> …[^5-9]
 
 [^5-1]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 [^5-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
 [^5-3]: Introduit par le ch. I de l’O du 11 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)). Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^5-4]: Introduit par le ch. I de l’O du 11 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)). Nouvelle teneur selon le ch.I de l’O du 18 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 390](https://fedlex.data.admin.ch/eli/oc/2021/390)).
-[^5-5]: Introduit par le ch.I de l’O du 18 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 390](https://fedlex.data.admin.ch/eli/oc/2021/390)).
+[^5-4]: Introduit par le ch. I de l’O du 11 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906)).
+[^5-5]: Introduit par le ch.I de l’O du 18 juin 2021 ([RO 2021 390](https://fedlex.data.admin.ch/eli/oc/2021/390)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906)).
 [^5-6]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^5-7]: Introduit par le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^5-8]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 déc. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
+[^5-8]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables) ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11, al. 8).
 [^5-9]: Abrogé par le ch. I de l’O du 11 sept. 2020, avec effet au 17 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
 
 #### Art. 6
 
 **Extinction du droit**[^6-1]
 
-En dérogation à l’art. 24, al 1, LPGA[^6-2], le droit aux prestations non perçues s’éteint au 31 mars 2022.[^6-3]
+En dérogation à l’art. 24, al 1, LPGA[^6-2], le droit aux prestations non perçues s’éteint au 31 mars 2023.
 
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 183](https://fedlex.data.admin.ch/eli/oc/2021/183)).
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906)).
 [^6-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^6-3]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 390](https://fedlex.data.admin.ch/eli/oc/2021/390)).
 
 #### Art. 7
 
@@ -278,13 +277,22 @@ Sont payées sur l’allocation des cotisations:
 
 #### Art. 10a
 
-**Surveillance et contrôle**[^10a-1]
+**Particularités de la procédure de contentieux**[^10a-1]
+
+En dérogation à l'art. 58, al. 1, LPGA[^10a-2], les décisions et les décisions sur opposition rendues par les caisses cantonales de compensation peuvent faire l’objet d’un recours au tribunal des assurances du canton où la caisse de compensation a son siège.
+
+[^10a-1]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906)).
+[^10a-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+
+#### Art. 10a<sup>bis</sup>
+
+**Surveillance et contrôle**[^10abis-1]
 
 <sup>1</sup> L’Office fédéral des assurances sociales (OFAS) surveille l’exécution de la présente ordonnance. Les caisses de compensation AVS et leurs mandataires doivent fournir à l’OFAS et aux autres autorités de surveillance les renseignements nécessaires à l’exécution de leur tâche de surveillance.
 
 <sup>2</sup> Le Contrôle fédéral des finances collabore avec l’OFAS pour déterminer les risques et éviter des versements indus de prestations. Il peut procéder à des contrôles spécifiques auprès des caisses de compensation AVS et accéder pour ce faire aux données nécessaires relatives aux allocations COVID-19.
 
-[^10a-1]: Introduit par le ch. I de l’O du 16 avr. 2020, en vigueur depuis le 17 mars 2020 ([RO 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)).
+[^10abis-1]: Anciennement art. 10*a*. Introduit par le ch. I de l’O du 16 avr. 2020, en vigueur depuis le 17 mars 2020 ([RO 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)).
 
 #### Art. 10b
 
@@ -313,18 +321,24 @@ Sont payées sur l’allocation des cotisations:
 
 <sup>1</sup> La présente ordonnance entre en vigueur avec effet rétroactif au 17 mars 2020.
 
-<sup>2</sup> ...[^11-1]
+<sup>2</sup> …[^11-1]
 
-<sup>3</sup> ...[^11-2]
+<sup>3</sup> …[^11-2]
 
-<sup>4</sup> ...[^11-3]
+<sup>4</sup> …[^11-3]
 
-<sup>5</sup> ...[^11-4]
+<sup>5</sup> …[^11-4]
 
-<sup>6</sup> Elle a effet jusqu’au 31 décembre 2021.[^11-5]
+<sup>6</sup> …[^11-5]
+
+<sup>7</sup> Elle a effet jusqu’au 31 décembre 2022, sous réserve de l’al. 8.[^11-6]
+
+<sup>8</sup> Les art. 2, al. 3<sup>quater</sup> et 3<sup>quinquies</sup>, 3, al. 5 et 6, et 5, al. 2<sup>quinquies</sup>, ont effet jusqu’au 31 mars 2022.[^11-7]
 
 [^11-1]: Abrogé par le ch. I de l’O du 4 nov. 2020, avec effet au 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^11-2]: Introduit par le ch. I de l’O du 16 avr. 2020 ([RO 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)). Abrogé par le ch. I de l’O du 22 avr. 2020, avec effet au 23 avr. 2020 ([RO 2020 1335](https://fedlex.data.admin.ch/eli/oc/2020/253)).
 [^11-3]: Introduit par le ch. I de l’O du 11 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)). Abrogé par le ch. I de l’O du 4 nov. 2020, avec effet au 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^11-4]: Introduit par le ch. I de l’O du 4 nov. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)). Abrogé par le ch. I de l’O du 18 juin 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 390](https://fedlex.data.admin.ch/eli/oc/2021/390)).
-[^11-5]: Introduit par le ch. I de l’O du 18 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 390](https://fedlex.data.admin.ch/eli/oc/2021/390)).
+[^11-5]: Introduit par le ch. I de l’O du 18 juin 2021 ([RO 2021 390](https://fedlex.data.admin.ch/eli/oc/2021/390)). Abrogé par le ch. I de l’O du 17 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906)).
+[^11-6]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906)).
+[^11-7]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906)).
