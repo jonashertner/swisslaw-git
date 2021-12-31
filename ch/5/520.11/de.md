@@ -4,11 +4,11 @@ title: "Verordnung vom 11. November 2020 über den Zivilschutz (Zivilschutzveror
 short: ZSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: de
-version: 2021-06-02
+version: 2022-01-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20210602/de/xml/fedlex-data-admin-ch-eli-cc-2020-888-20210602-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20210602/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-888-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20210602/de"
 
 (Zivilschutzverordnung, ZSV)
 
-vom 11. November 2020 (Stand am 2. Juni 2021)
+vom 11. November 2020 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -110,7 +110,7 @@ Die Entscheide der UC lauten:
 
 - a. schutzdiensttauglich;
 - b. schutzdiensttauglich ohne Führen von Motorfahrzeugen des Zivilschutzes;
-- c. zurückgestellt bis ...;
+- c. zurückgestellt bis …;
 - d. schutzdienstuntauglich.
 
 <sup>2</sup> Personen, deren Schutzdiensttauglichkeit im Zeitpunkt der Beurteilung unklar ist oder nicht abschliessend beurteilt werden kann, werden zurückgestellt. Die Gesamtdauer der Zurückstellung darf nicht mehr als zwei Jahre betragen.
@@ -1499,15 +1499,17 @@ Anhang 2*[^t-1]*
 <tr><td>1 Kantonale Führungsorgane 2 Kommunale Führungsorgane ABC atomar, biologisch und chemisch Bat Bataillon Betreu Betreuung C Chef/in Fhr Führung FO Führungsorgan Four Fourier/in FU Führungsunterstützung Fw Feldweibel</td><td>Grfhr Gruppenführer/in Infra Infrastruktur Kdt Kommandant/in KGS Kulturgüterschutz KK Kaderkurs (Kaderausbildung) KKT Kaderkurs Technik (Kaderausbildung) Kp Kompanie Kü Küche Log Logistik Mat Material Of Offizier/in</td><td>Pi Pionier/in San Sanität Spez Spezialist/in Stv Stellvertreter/in TH Technische Hilfe Trsp Transport Uof Unteroffizier/in Z Zug Zfhr Zugführer/in</td></tr>
 </table>
 
-Anhang 3
+Anhang 3*[^t-2]*
 
 (Art. 65 Abs. 2)
 
 ## Im Veranstaltungsadministratorsystem erfasste Daten
 
+[^t-2]: Bereinigt gemäss Anhang Ziff. II 23 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+
 ### Personalien
 
-- 1\. AHV-Versichertennummer, neu
+- 1\. AHV-Nummer, neu
 - 2\. AHV-Nummer, alt
 - 3\. Name
 - 4\. Vornamen
@@ -1618,10 +1620,10 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annex6-lvlu1-5]
+…[^annex6-lvlu1-5]
 
-[^annex6-lvlu1-1]: [[AS 2003 5147](https://fedlex.data.admin.ch/eli/oc/2003/758), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 41, [2008 2887](https://fedlex.data.admin.ch/eli/oc/2008/396)Art. 15, [2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)Anhang 36 Ziff. 7, [2011 5903](https://fedlex.data.admin.ch/eli/oc/2011/817), [2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)Anhang 2 Ziff. 3, [2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25), [2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)Ziff. III]
-[^annex6-lvlu1-2]: [[AS 2003 5161](https://fedlex.data.admin.ch/eli/oc/2003/759), [2012 449](https://fedlex.data.admin.ch/eli/oc/2012/57), [2015 3933](https://fedlex.data.admin.ch/eli/oc/2015/660)]
-[^annex6-lvlu1-3]: [[AS 2008 2887](https://fedlex.data.admin.ch/eli/oc/2008/396), [2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)Anhang Ziff. 2]
-[^annex6-lvlu1-4]: [[AS 2003 5179](https://fedlex.data.admin.ch/eli/oc/2003/762), [2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)Anhang Ziff. 6, [2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)Anhang 2 Ziff. 4]
+[^annex6-lvlu1-1]: [[AS 2003 5147](https://fedlex.data.admin.ch/eli/oc/2003/758); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 41; [2008 2887](https://fedlex.data.admin.ch/eli/oc/2008/396)Art. 15; [2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)Anhang 36 Ziff. 7; [2011 5903](https://fedlex.data.admin.ch/eli/oc/2011/817); [2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)Anhang 2 Ziff. 3; [2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25); [2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)Ziff. III]
+[^annex6-lvlu1-2]: [[AS 2003 5161](https://fedlex.data.admin.ch/eli/oc/2003/759); [2012 449](https://fedlex.data.admin.ch/eli/oc/2012/57); [2015 3933](https://fedlex.data.admin.ch/eli/oc/2015/660)]
+[^annex6-lvlu1-3]: [[AS 2008 2887](https://fedlex.data.admin.ch/eli/oc/2008/396); [2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)Anhang Ziff. 2]
+[^annex6-lvlu1-4]: [[AS 2003 5179](https://fedlex.data.admin.ch/eli/oc/2003/762); [2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)Anhang Ziff. 6; [2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)Anhang 2 Ziff. 4]
 [^annex6-lvlu1-5]: Die Änderungen können unter [AS 2020 5031](https://fedlex.data.admin.ch/eli/oc/2020/888)konsultiert werden.

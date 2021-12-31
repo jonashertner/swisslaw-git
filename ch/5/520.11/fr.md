@@ -4,11 +4,11 @@ title: Ordonnance du 11 novembre 2020 sur la protection civile (OPCi)
 short: OPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: fr
-version: 2021-06-02
+version: 2022-01-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20210602/fr/xml/fedlex-data-admin-ch-eli-cc-2020-888-20210602-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20210602/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-888-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20210602/fr"
 
 (OPCi)
 
-du 11 novembre 2020 (Etat le 2 juin 2021)
+du 11 novembre 2020 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -1495,15 +1495,17 @@ Annexe 2*[^t-1]*
 <tr><td>1 Organes de conduite cantonaux 2 Organes de conduite communaux AiC Aide à la conduite Assist Assistance AT Appui technique Bat Bataillon C Chef CC Cours de cadres CCT Cours de cadres technique Cdt Commandant C gr Chef de groupe</td><td>Cond Conduite Cp Compagnie CS Chef de service C sct Chef de section Cuis Cuisine Four Fourrier Infra Infrastructure Log Logistique Mat Matériel NBC Nucléaire, biologique et chimique OC Organe de conduite Of Officier</td><td>PBC Protection des biens culturels Pi Pionnier Rempl Remplaçant San Sanitaire Sct Section Sgtm Sergent-major Sof Sous-officier Spéc Spécialiste Trsp Transports</td></tr>
 </table>
 
-Annexe 3
+Annexe 3*[^t-2]*
 
 (art. 65, al. 2)
 
 ## Données saisies dans le système de gestion des cours
 
+[^t-2]: Mise à jour par l’annexe ch. II 23 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+
 ### Données personnelles
 
-- 1\. Numéro d’assuré AVS, nouveau
+- 1\. Numéro AVS, nouveau
 - 2\. Numéro AVS, ancien
 - 3\. Nom
 - 4\. Prénoms

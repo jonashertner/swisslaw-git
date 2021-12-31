@@ -4,11 +4,11 @@ title: Ordinanza sulla protezione civile (OPCi)
 short: OPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: it
-version: 2021-06-02
+version: 2022-01-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20210602/it/xml/fedlex-data-admin-ch-eli-cc-2020-888-20210602-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20210602/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-888-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20210602/it"
 
 (OPCi)
 
-dell’11 novembre 2020 (Stato 2 giugno 2021) (Stato 2 giugno 2021)
+dell’11 novembre 2020 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -1497,15 +1497,17 @@ Allegato 2*[^t-1]*
 <tr><td>1 organi di condotta cantonali 2 organi di condotta comunali AiC aiuto alla condotta assist assistenza bat battaglione C capo mat materiale NBC nucleare, biologico e chimico OC organo di condotta pi pioniere PBC protezione dei beni culturali</td><td>cdt comandante C gr capo gruppo cond condotta CQ corso quadri (istruzione dei quadri) CQT corso quadri tecnico (istruzione dei quadri) san sanitario sez sezione sgtm sergente maggiore sost sostituto spec specialista</td><td>cp compagnia C sez capo sezione cuc cucina fur furiere infra infrastruttura log logistica ST supporto tecnico trsp trasporti suff sottufficiale uff ufficiale</td></tr>
 </table>
 
-Allegato 3
+Allegato 3*[^t-2]*
 
 (art. 65 cpv. 2)
 
 ## Dati registrati nel sistema di amministrazione dei corsi
 
+[^t-2]: Aggiornato dall’all. n. II 23 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+
 ### Dati personali
 
-- 1\. Numero d’assicurato AVS, nuovo
+- 1\. Numero AVS, nuovo
 - 2\. Numero AVS, vecchio
 - 3\. Cognome
 - 4\. Nome
