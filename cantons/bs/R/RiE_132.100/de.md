@@ -4,13 +4,13 @@ number: RiE 132.100
 title: Ordnung der politischen Rechte in der Einwohnergemeinde Riehen
 short: "Ordnung politische Rechte, OPR"
 language: de
-version: 2017-11-16
-valid_until: 2021-12-31
-version_adopted: 2017-09-27
+version: 2022-01-01
+valid_until: 2025-02-28
+version_adopted: 2021-04-28
 adopted: 2024-09-25
 in_force: 2025-03-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20132.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4447/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5375/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4447/pdf_file"
 
 Politische Rechte: Ordnung | Riehen: Einwohnergemeinde
 
-Vom 24. April 1996 (Stand 16. November 2017)
+Vom 24. April 1996 (Stand 1. Januar 2022)
 
 Der Einwohnerrat der Einwohnergemeinde Riehen
 
@@ -516,7 +516,7 @@ erlässt, auf Antrag des Gemeinderates und gestützt auf § 9 des Gemeindegesetz
 
 **Zeitpunkt der Wahlen**
 
-<sup>1</sup> Die Gesamterneuerungswahlen finden alle vier Jahre statt. Sie sind zeitlich so anzuordnen, dass Einwohnerrat und Gemeinderat ihre Tätigkeit je im Mai beginnen können.
+<sup>1</sup> Die Gesamterneuerungswahlen finden alle vier Jahre statt. Sie sind zeitlich so anzuordnen, dass Einwohnerrat und Gemeinderat ihre Tätigkeit je im Februar beginnen können.
 
 <sup>2</sup> Ersatzwahlen sind beförderlich anzuordnen. Die Ersatzwahl kann bis zum nächsten eidgenössischen oder kantonalen Wahl- oder Abstimmungstag hinausgeschoben werden, sofern die Vakanz deswegen nicht länger als drei Monate andauert.
 
