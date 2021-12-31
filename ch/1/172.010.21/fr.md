@@ -4,11 +4,11 @@ title: "Ordonnance du 5 décembre 2008 concernant la gestion de l'immobilier et 
 short: OILC
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/857"
 language: fr
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2008-12-05
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2008-857-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-857-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20210401/fr"
 
 (OILC)
 
-du 5 décembre 2008 (Etat le 1<sup>er</sup> avril 2021)
+du 5 décembre 2008 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -30,7 +30,7 @@ arrête:
 
 ## Chapitre 1 Dispositions générales
 
-### Section 1 Objet, objectifs stratégiques et principes****
+### Section 1 Objet, objectifs stratégiques et principes
 
 [^chap1-sec1-1]
 
@@ -234,7 +234,7 @@ Dans le domaine du pilotage tactique des projets, les SCI assument en particulie
 
 Dans le domaine du pilotage opérationnel des projets, les SCI assument en particulier les tâches suivantes:
 
-- a.[^9-4] *fourniture d’immeubles, désinvestissement et gestion commerciale des* *ouvrages**,* comprenant notamment l’acquisition, y compris les coopérations en la matière, la gestion des locaux et des surfaces, la comptabilité des ouvrages et la gestion des contrats. L’OFCL et armasuisse respectent les dispositions relatives au controlling des achats contenues dans l’ordonnance du 24 octobre 2012 sur l’organisation des marchés publics de l’administration fédérale[^9-5];
+- a.[^9-4] *fourniture d’immeubles, désinvestissement et gestion commerciale des ouvrages,* comprenant notamment l’acquisition, y compris les coopérations en la matière, la gestion des locaux et des surfaces, la comptabilité des ouvrages et la gestion des contrats. L’OFCL et armasuisse respectent les dispositions relatives au controlling des achats contenues dans l’ordonnance du 24 octobre 2012 sur l’organisation des marchés publics de l’administration fédérale[^9-5];
 - b. *gestion technique des bâtiments,* comprenant notamment l’entretien, l’exploitation technique ainsi que la gestion de l’énergie et de la sécurité;
 - c. *gestion de l’infrastructure des bâtiments,* comprenant l’acquisition, la fourniture, la coordination et la surveillance de tous les services nécessaires à l’utilisation quotidienne de l’ouvrage;
 - d. *études préalables et études de projet,* comprenant la direction des phases d’études de faisabilité, de définition de projet, de procédure de sélection, d’avant-projet, de projet de construction, de procédure d’autorisation et de projet de mise à l’enquête; l’optimisation des coûts du cycle de vie du bâtiment doit être prise en compte durant toutes les phases du projet;
@@ -570,12 +570,12 @@ Sur proposition de la KBOB, le DFF édicte, dans le domaine de la gestion de l�
 
 <sup>1</sup>
 
-Le département dont fait partie le SCI demande chaque année, pour tous les projets d’investissement de son SCI dans le domaine de la gestion de l’immobilier, un crédit d’ensemble structuré comme suit:
+Le département dont fait partie le SCI demande chaque année, pour tous les projets d’investissement de son SCI dans le domaine de la gestion de l’immobilier, un crédit d’engagement structuré comme suit:[^28-1]
 
 - a. un crédit d’engagement pour chaque projet qui entraîne des coûts dépassant 10 millions de francs, avec des explications pour chaque projet;
-- b. un crédit-cadre avec une structure adéquate pour tous les autres projets de construction.
+- b.[^28-2] un crédit d’engagement avec une structure adéquate pour tous les autres projets de construction.
 
-<sup>2</sup> Le crédit d’ensemble est demandé dans un message sur l’immobilier séparé; pour le domaine des EPF, il est partie intégrante du message sur le budget.
+<sup>2</sup> Le crédit d’engagement est demandé dans un message sur l’immobilier séparé; pour le domaine des EPF, il est partie intégrante du message sur le budget.[^28-3]
 
 <sup>3</sup> Le département dont fait partie le SCI sollicite par la voie du budget concerné les crédits budgétaires nécessaires pour réaliser les projets prévus et exploiter les immeubles.
 
@@ -588,6 +588,10 @@ Dans le cadre de la gestion de l’immobilier, les SCI peuvent:
 - a. statuer sur les crédits d’études et sur la libération de crédits destinés à des projets d’investissement;
 - b. statuer sur des crédits d’exploitation et sur la libération des crédits correspondants;
 - c. gérer des crédits d’engagement et des crédits budgétaires.
+
+[^28-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^28-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^28-3]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 29
 
@@ -780,13 +784,13 @@ L’ordonnance du 14 décembre 1998 concernant la gestion de l’immobilier et l
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2009.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 8, al. 5)
 
 ## Responsabilités en matière de gestion de l’immobilier dans le domaine des EPF (diagramme des fonctions)
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 17 déc. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2015 1](https://fedlex.data.admin.ch/eli/oc/2015/1))
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 17 déc. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2015 1](https://fedlex.data.admin.ch/eli/oc/2015/1)).
 
 Légende:
 

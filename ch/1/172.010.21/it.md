@@ -4,11 +4,11 @@ title: Ordinanza del 5 dicembre 2008 sulla gestione immobiliare e la logistica d
 short: OILC
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/857"
 language: it
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2008-12-05
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2008-857-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-857-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20210401/it"
 
 (OILC)
 
-del 5 dicembre 2008 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
+del 5 dicembre 2008 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -30,7 +30,7 @@ ordina:
 
 ## Capitolo 1: Disposizioni generali
 
-### Sezione 1: Oggetto, obiettivi strategici e principi****
+### Sezione 1: Oggetto, obiettivi strategici e principi
 
 [^chap1-sec1-1]
 
@@ -50,7 +50,7 @@ La presente ordinanza disciplina:
 
 <sup>2</sup> Essa non si applica alle infrastrutture della Confederazione relative alle strade nazionali secondo l’articolo 2 dell’ordinanza del 7 novembre 2007[^1-3] sulle strade nazionali; la gestione immobiliare delle strade nazionali è retta dalla legge dell’8 marzo 1960[^1-4] sulle strade nazionali.
 
-[^1-1]: Nuovo testo giusta il n. 1 dell’all. 3 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^1-1]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 [^1-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 [^1-3]: [RS 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
 [^1-4]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
@@ -121,7 +121,7 @@ Gli OCI possono, su base contrattuale e a prezzi che coprono i costi, fornire pr
 - b. enti esterni incaricati di compiti amministrativi ai sensi dell’articolo 6 capoverso 3 primo periodo OLOGA;
 - c. altre amministrazioni pubbliche.
 
-[^5-1]: Nuovo testo giusta il n. 1 dell’all. 3 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^5-1]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 [^5-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 
 ## Capitolo 2: Gestione immobiliare
@@ -424,8 +424,8 @@ Esse mettono annualmente a disposizione dell’UFCL i seguenti dati per l’alle
 - b. indicatori d’esercizio, per quanto la competenza dell’esercizio degli edifici sia data all’OU.
 
 [^19-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
-[^19-2]: Nuovo testo giusta il n. 1 dell’all. 3 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^19-3]: Nuovo testo giusta il n. 1 dell’all. 3 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^19-2]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^19-3]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 
 #### Art. 20
 
@@ -569,12 +569,12 @@ Il DFF emana, su proposta della KBOB, istruzioni nell’ambito della gestione im
 
 <sup>1</sup>
 
-Per tutti i progetti di investimento del suo OCI nel campo della gestione immobiliare, il dipartimento di cui fa parte l’OCI chiede ogni anno un credito complessivo con i seguenti ambiti di attribuzione:
+Per tutti i progetti di investimento del suo OCI nel campo della gestione immobiliare, il dipartimento di cui fa parte l’OCI chiede ogni anno un credito d’impegno con i seguenti ambiti di attribuzione:[^28-1]
 
 - a. un credito d’impegno per tutti i progetti che richiedono spese per oltre 10 milioni di franchi ciascuno, con spiegazioni per ogni singolo progetto;
-- b. un credito quadro opportunamente articolato per tutti gli altri progetti di costruzione.
+- b.[^28-2] un credito d’impegno opportunamente articolato per tutti gli altri progetti di costruzione.
 
-<sup>2</sup> Il credito complessivo è chiesto in un messaggio separato relativo agli immobili. Il credito per il settore dei PF è chiesto mediante il messaggio sul preventivo.
+<sup>2</sup> Il credito d’impegno è chiesto in un messaggio separato relativo agli immobili. Il credito per il settore dei PF è chiesto mediante il messaggio sul preventivo.[^28-3]
 
 <sup>3</sup> Il dipartimento di cui fa parte l’OCI chiede nel corrispondente preventivo i crediti a preventivo necessari per la realizzazione dei progetti pianificati, nonché per l’esercizio degli immobili.
 
@@ -587,6 +587,10 @@ Nel quadro della gestione immobiliare gli OCI possono:
 - a. decidere su crediti di progettazione e sulla liberazione di crediti per singoli progetti d’investimento;
 - b. decidere su crediti di esercizio e sulla liberazione dei relativi crediti;
 - c. amministrare crediti d’impegno e crediti a preventivo.
+
+[^28-1]: Nuovo testo giusta l’all. n. 2 dell’O del 10 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^28-2]: Nuovo testo giusta l’all. n. 2 dell’O del 10 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^28-3]: Nuovo testo giusta l’all. n. 2 dell’O del 10 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 29
 
@@ -611,7 +615,7 @@ I seguenti destinatari di prestazioni e servizi richiedenti non inclusi nel capo
 - c. gli enti esterni incaricati di compiti amministrativi ai sensi dell’articolo 6 capoverso 3 primo periodo OLOGA;
 - d. altre amministrazioni pubbliche.
 
-[^30-1]: Nuovo testo giusta il n. 1 dell’all. 3 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^30-1]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 [^30-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 [^30-3]: Nuovo testo giusta il n. I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5049](https://fedlex.data.admin.ch/eli/oc/2010/722)).
 
@@ -647,7 +651,7 @@ Tiene, gestisce e diffonde gli articoli normalizzati nei seguenti assortimenti:
 <sup>10</sup> È competente della personalizzazione e del confezionamento del passaporto svizzero e di altri certificati d’identità e di legittimazione della Confederazione su incarico dell’Ufficio federale di polizia.
 
 [^31-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
-[^31-2]: Nuovo testo giusta il n. 1 dell’all. 3 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^31-2]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 [^31-3]: [[RU 2006 5613](https://fedlex.data.admin.ch/eli/oc/2006/829), [2007 2547](https://fedlex.data.admin.ch/eli/oc/2007/344), [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752)n. III 2, [2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)all. 3 n. 3, [2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)all. n. 2. [RU 2012 5935](https://fedlex.data.admin.ch/eli/oc/2012/695)art. 39 cpv. 1]. Vedi ora l’O del 24 ott. 2012 concernente l’organizzazione degli acquisti pubblici dell’Amministrazione federale ([RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)).
 [^31-4]: Nuovo testo giusta il n. III 1 dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796)).
 
@@ -779,7 +783,7 @@ L’ordinanza del 14 dicembre 1998[^42-1] sulla gestione immobiliare e la logist
 
 La presente ordinanza entra in vigore il 1° gennaio 2009.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 8 cpv. 5)
 
@@ -852,7 +856,7 @@ Legenda:
 
 [^annex1-lvlu1-1]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 11 cpv. 2)
 
@@ -878,7 +882,7 @@ RE = responsabile dell’edificio
 <tr><td>Progetti immobiliari – Progetti di costruzione – Locazione di immobili</td><td>CP Committente della costruzione Gestore d’immobili</td><td>CP Utenti CP Utenti</td></tr>
 <tr><td>Gestione commerciale degli edifici – Computo delle prestazioni</td><td>Key Account Manager</td><td>AL-OU</td></tr>
 <tr><td>Esercizio d’immobili</td><td></td><td></td></tr>
-<tr><td>*– Permanenza telefonica*</td><td>*Centro di chiamata*</td><td>*tutti (utenti di spazi)*</td></tr>
+<tr><td>*– Permanenza telefonica*</td><td>*Centro di chiamata*</td><td>*tutti* *(utenti di spazi)*</td></tr>
 <tr><td>– Misure di piccola portata</td><td>RE</td><td>AL-OU</td></tr>
 <tr><td>– Manutenzione</td><td>RE</td><td>AL-OU o AL-U</td></tr>
 <tr><td>– Esercizio d’immobili e pulizia</td><td>Centro delle prestazioni di servizi</td><td>AL-OU o AL-U</td></tr>

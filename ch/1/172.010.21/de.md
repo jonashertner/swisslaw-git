@@ -4,11 +4,11 @@ title: Verordnung vom 5. Dezember 2008 über das Immobilienmanagement und die Lo
 short: VILB
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/857"
 language: de
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2008-12-05
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2008-857-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-857-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20210401/de"
 
 (VILB)
 
-vom 5. Dezember 2008 (Stand am 1. April 2021)
+vom 5. Dezember 2008 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -30,7 +30,7 @@ verordnet:
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
-### 1. Abschnitt: Gegenstand, strategische Ziele und Grundsätze****
+### 1. Abschnitt: Gegenstand, strategische Ziele und Grundsätze
 
 [^chap1-sec1-1]
 
@@ -570,12 +570,12 @@ Das EFD erlässt auf Antrag der KBOB im Bereich des Immobilienmanagements Weisun
 
 <sup>1</sup>
 
-Das Departement, dem das BLO angehört, beantragt für alle Investitionsvorhaben seines BLO im Bereich des Immobilienmanagements jährlich einen Gesamtkredit mit folgenden Spezifikationsbereichen:
+Das Departement, dem das BLO angehört, beantragt für alle Investitionsvorhaben seines BLO im Bereich des Immobilienmanagements jährlich einen Verpflichtungskredit mit folgenden Spezifikationsbereichen:[^28-1]
 
 - a. je einen Verpflichtungskredit für alle Vorhaben, die Ausgaben von mehr als 10 Millionen Franken im Einzelfall erfordern, mit Erläuterungen für jedes einzelne Vorhaben;
-- b. einen zweckmässig gegliederten Rahmenkredit für alle übrigen Bauvorhaben.
+- b.[^28-2] einen zweckmässig gegliederten Verpflichtungskredit für alle übrigen Bauvorhaben.
 
-<sup>2</sup> Der Gesamtkredit wird in einer separaten Immobilienbotschaft beantragt. Für den ETH-Bereich wird er als Bestandteil der Botschaft zum Voranschlag beantragt.
+<sup>2</sup> Der Verpflichtungskredit wird in einer separaten Immobilienbotschaft beantragt. Für den ETH-Bereich wird er als Bestandteil der Botschaft zum Voranschlag beantragt.[^28-3]
 
 <sup>3</sup> Das Departement, dem das BLO angehört, beantragt die zur Realisierung geplanter Vorhaben sowie zum Betrieb von Immobilien erforderlichen Voranschlagskredite im jeweiligen Voranschlag.
 
@@ -588,6 +588,10 @@ Die BLO können im Rahmen des Immobilienmanagements:
 - a. über Projektierungskredite und Kreditfreigaben für einzelne Investitionsvorhaben entscheiden;
 - b. über Betriebskredite und entsprechende Kreditfreigaben entscheiden;
 - c. Verpflichtungs- und Voranschlagskredite verwalten.
+
+[^28-1]: Fassung gemäss Anhang Ziff. 2 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^28-2]: Fassung gemäss Anhang Ziff. 2 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^28-3]: Fassung gemäss Anhang Ziff. 2 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 29
 
@@ -772,7 +776,7 @@ Das BBL erlässt Weisungen für den Bereich Logistik. Vorbehalten bleiben:
 
 Die Verordnung vom 14. Dezember 1998[^42-1] über das Immobilienmanagement und die Logistik des Bundes wird aufgehoben.
 
-[^42-1]: [[AS 1999 1167](https://fedlex.data.admin.ch/eli/oc/1999/154), [2000 1227](https://fedlex.data.admin.ch/eli/oc/2000/198)Anhang Ziff. II 3, [2002 2047](https://fedlex.data.admin.ch/eli/oc/2002/303), [2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)Anhang 2 Ziff. 1 [5047](https://fedlex.data.admin.ch/eli/oc/2003/748)Anhang Ziff. II 1, [2004 305](https://fedlex.data.admin.ch/eli/oc/2004/16)Anhang Ziff. II 2, [2005 481](https://fedlex.data.admin.ch/eli/oc/2005/56), [2006 5613](https://fedlex.data.admin.ch/eli/oc/2006/829)Art. 30 Abs. 2 Ziff. 2, [2007 2819](https://fedlex.data.admin.ch/eli/oc/2007/368)[5957](https://fedlex.data.admin.ch/eli/oc/2007/796)Anhang 4 Ziff. II 1]
+[^42-1]: [[AS 1999 1167](https://fedlex.data.admin.ch/eli/oc/1999/154); [2000 1227](https://fedlex.data.admin.ch/eli/oc/2000/198)Anhang Ziff. II 3; [2002 2047](https://fedlex.data.admin.ch/eli/oc/2002/303); [2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)Anhang 2 Ziff. 1, [5047](https://fedlex.data.admin.ch/eli/oc/2003/748)Anhang Ziff. II 1; [2004 305](https://fedlex.data.admin.ch/eli/oc/2004/16)Anhang Ziff. II 2; [2005 481](https://fedlex.data.admin.ch/eli/oc/2005/56); [2006 5613](https://fedlex.data.admin.ch/eli/oc/2006/829)Art. 30 Abs. 2 Ziff. 2; [2007 2819](https://fedlex.data.admin.ch/eli/oc/2007/368), [5957](https://fedlex.data.admin.ch/eli/oc/2007/796)Anhang 4 Ziff. II 1]
 
 #### Art. 43
 
@@ -780,7 +784,7 @@ Die Verordnung vom 14. Dezember 1998[^42-1] über das Immobilienmanagement und d
 
 Diese Verordnung tritt am 1. Januar 2009 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 8 Abs. 5)
 
