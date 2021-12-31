@@ -3,20 +3,20 @@ canton: BL
 number: "331.11"
 title: Verordnung zum Steuergesetz
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-11-24
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-30
 adopted: 2005-12-13
 in_force: 2006-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/331.11"
-pdf: "https://bl.clex.ch/api/de/versions/2801/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3146/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Steuergesetz
 
-Vom 13.12.2005 (Stand 01.01.2021)
+Vom 13.12.2005 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -28,7 +28,7 @@ beschliesst:
 
 #### § 1
 
-**Mietwert selbstgenutzter Liegenschaften (§ 27<sup>ter</sup> Abs. 2 [StG](https://bl.clex.ch/data/331/de/art27ter))**
+**Mietwert selbstgenutzter Liegenschaften (§ 27<sup>ter</sup> Abs. 2 StG)**
 
 <sup>1</sup> Für die Berechnung der steuerbaren Eigenmietwerte gelten die nachfolgend aufgeführten, gemeindespezifischen Korrekturfaktoren:
 
@@ -81,7 +81,7 @@ beschliesst:
 
 #### § 1a
 
-**Korrektur Mietwert selbstgenutzter Liegenschaften (§ 27<sup>ter</sup> Abs. 6 [StG](https://bl.clex.ch/data/331/de/art27ter))**
+**Korrektur Mietwert selbstgenutzter Liegenschaften (§ 27<sup>ter</sup> Abs. 6 StG)**
 
 <sup>1</sup> Der Marktmietwert des selbstgenutzten Wohneigentums richtet sich nach demjenigen Wert, der unter normalen und ortsüblichen Verhältnissen bei einer Vermietung an Dritte erzielt werden könnte.
 
@@ -89,13 +89,13 @@ beschliesst:
 
 #### § 1b
 
-**Reduktion Mietwert selbstgenutzter Liegenschaften (§ 27<sup>ter</sup> Abs. 7 [StG](https://bl.clex.ch/data/331/de/art27ter))**
+**Reduktion Mietwert selbstgenutzter Liegenschaften (§ 27<sup>ter</sup> Abs. 7 StG)**
 
 <sup>1</sup> Liegt der gemäss den gesetzlichen Bestimmungen formelmässig ermittelte Eigenmietwert im Einzelfall nachweislich über 60 % des Marktmietwerts, so wird er auf schriftlich und begründetes Gesuch hin auf einen Wert von 60 % reduziert. Zum individuellen Nachweis sind Liegenschaften geeignet, welche nach Lage, Beschaffenheit (Baujahr, Wohnfläche, Kubatur und Gebäudeart) und Ausstattung vergleichbar sowie an Dritte vermietet sind.
 
 #### § 2
 
-**Unternutzungsabzug (§ 27<sup>ter</sup> [StG](https://bl.clex.ch/data/331/de/art27ter))**
+**Unternutzungsabzug (§ 27<sup>ter</sup> StG)**
 
 <sup>1</sup> Ein Unternutzungsabzug kann nur für das am Wohnsitz dauernd selbst bewohnte Wohneigentum geltend gemacht werden, nicht jedoch für Zweitliegenschaften und Ferienheime.
 
@@ -111,7 +111,7 @@ beschliesst:
 
 #### § 3
 
-**Berufsauslagen bei unselbständiger Erwerbstätigkeit (§ 29 Abs. 1a [StG](https://bl.clex.ch/data/331/de/art29))**
+**Berufsauslagen bei unselbständiger Erwerbstätigkeit (§ 29 Abs. 1a StG)**
 
 <sup>1</sup> Die unselbständig Erwerbenden können als Erwerbsunkosten abziehen:
 
@@ -119,6 +119,7 @@ beschliesst:
   - 1\. bei Benützung eines öffentlichen Verkehrsmittels (Bahn, Tram, Autobus usw.): die tatsächlichen Kosten.
   - 2\. bei Benützung eines Fahrrads, eines Motorfahrrads oder eines Motorrads mit gelbem Kontrollschild bis zu CHF 700 pro Jahr. Der Nachweis höherer Kosten bleibt vorbehalten.
   - 3\. bei Benützung eines Motorrads oder eines Privatautos: die Auslagen, die bei Benützung eines öffentlichen Verkehrsmittels entstehen würden. Steht kein solches zur Verfügung oder kann dessen Benützung dem Steuerpflichtigen nicht zugemutet werden (z.B. bei Gebrechlichkeit, bei mehr als 1,5 km Entfernung von der nächsten Haltestelle, bei einem täglichen Zeitaufwand von mehr als 2½ Stunden), so ist pro Fahrkilometer ein Abzug bis zu CHF 0.40 für Motorräder mit weissem Kontrollschild und bis zu CHF 0.70 für Autos zulässig. Der Nachweis höherer Kosten bleibt vorbehalten. Für die Hin- und Rückfahrt über Mittag können aber höchstens die Kosten für auswärtige Verpflegung gemäss Bst. b (CHF 15 pro Tag, jedoch höchstens CHF 3'200 pro Jahr) geltend gemacht werden.
+  - 4\. bei unentgeltlicher Benützung eines Geschäftsfahrzeugs für Fahrten zwischen Wohn- und Arbeitsstätte sowie für weitere private Zwecke: Die steuerpflichtige Person kann anstelle der Abrechnung über die tatsächlichen Kosten der privaten Nutzung und des Fahrkostenabzugs nach § 29 Abs. 1 Bst. a des Steuergesetzes eine pauschale Fahrkostenberechnung vornehmen. In diesem Fall beträgt ihr Einkommen aus dieser Nutzung pro Monat pauschal 0,9 % des Kaufpreises des Fahrzeugs.
 - b. die Mehrkosten für auswärtige Verpflegung: CHF 15 für jede auswärtige Hauptmahlzeit (in der Regel nur für das Mittagessen), bei ständiger auswärtiger Verpflegung CHF 3'200 pro Jahr. Wird die Hauptmahlzeit durch den Arbeitgeber verbilligt (Kantine, Personalrestaurant, Kostenbeitrag in bar, Abgabe von Mahlzeitengutscheinen), so wird für diese Mahlzeit der halbe Abzug gewährt. Wer wegen kurzer Essenspausen gezwungen ist, mindestens einmal pro Tag eine Hauptmahlzeit beim Arbeitgeber einzunehmen (wie z.B. beim Gastgewerbe), kann pro Tag (allenfalls pro Jahr) einen halben Abzug vornehmen; die Einnahme weiterer Mahlzeiten beim Arbeitgeber gibt keinen Anspruch auf mehr als diesen halben Abzug. Kein Abzug ist mangels Mehrkosten zulässig, wenn die Hauptmahlzeiten den Steuerpflichtigen auf weniger als CHF 10 zu stehen kommen bzw. wenn der Arbeitgeber bei der Bewertung allfälliger Naturalbezüge folgende Werte unterschreitet: Mittagessen CHF 10, Abendessen CHF 8 oder CHF 21.50 pro Tag für Morgen-, Mittag- und Abendessen.
 - c. die Mehrkosten bei auswärtigem Wochenaufenthalt: Steuerpflichtige, die sich während der Woche am Arbeitsort aufhalten, jedoch regelmässig über das Wochenende nach Hause zurückkehren und daher steuerpflichtig bleiben:
   - 1\. für Mehrkosten der auswärtigen Verpflegung: CHF 15 pro Hauptmahlzeit, somit CHF 30 pro Tag, bei ganzjährigem Wochenaufenthalt CHF 6'400 im Jahr. Wenn das Mittagessen durch den Arbeitgeber verbilligt wird (Kantine, Kostenbeitrag, Naturalleistung des Arbeitgebers), so wird für diese Mahlzeit nur der halbe Abzug (CHF 7.50) gewährt, somit gesamthaft CHF 22.50 und CHF 4'800 pro Jahr. Kein Abzug ist mangels Mehrkosten zulässig, wenn die Hauptmahlzeiten den Steuerpflichtigen auf weniger als CHF 10 zu stehen kommen.
@@ -141,7 +142,7 @@ beschliesst:
 
 #### § 4
 
-**Steuerfreie Rücklagen für Forschung, Betriebsumstellungen und Betriebs-umstrukturierungen (§§ 31<sup>bis</sup> und 55 [StG](https://bl.clex.ch/data/331/de/art31bis))**
+**Steuerfreie Rücklagen für Forschung, Betriebsumstellungen und Betriebs-umstrukturierungen (§§ 31<sup>bis</sup> und 55 StG)**
 
 <sup>1</sup> Selbständigerwerbende sowie Kapitalgesellschaften und Genossenschaften können steuerfreie Rücklagen für Zwecke der wissenschaftlichen oder technischen Forschung sowie für die mutmasslichen Kosten wirtschaftlich erforderlicher Betriebsumstellungen und Betriebsumstrukturierungen bilden.
 
@@ -157,25 +158,25 @@ beschliesst:
 
 #### § 5
 
-**Privilegierte Besteuerung des Liquidations- bzw. Grundstückgewinnes (§§ 36<sup>bis</sup> und 80<sup>bis</sup> [StG](https://bl.clex.ch/data/331/de/art36bis))**
+**Privilegierte Besteuerung des Liquidations- bzw. Grundstückgewinnes (§§ 36<sup>bis</sup> und 80<sup>bis</sup> StG)**
 
 <sup>1</sup> Für die privilegierte Besteuerung des Liquidations- resp. Grundstückgewinns gemäss den §§ 36<sup>bis</sup> und 80<sup>bis</sup> des Steuergesetzes kommen die Bestimmungen der Verordnung über die Besteuerung der Liquidationsgewinne bei definitiver Aufgabe der selbstständigen Erwerbstätigkeit zur Anwendung.
 
 #### § 6
 
-**Anteil des Einkommens aus landwirtschaftlicher Nutzung (§ 43 [StG](https://bl.clex.ch/data/331/de/art43))**
+**Anteil des Einkommens aus landwirtschaftlicher Nutzung (§ 43 StG)**
 
 <sup>1</sup> Ein erheblicher Teil des Einkommens aus Landwirtschaft im Sinne von § 10 Abs. 2 des Dekrets ist in der Regel dort anzunehmen, wo der Steuerpflichtige mindestens 1/3 seines Erwerbseinkommens aus landwirtschaftlicher Bewirtschaftung erzielt.
 
 #### § 7
 
-**Ertragswert von Grund und Boden, Bemessungsperiode (§ 43 [StG](https://bl.clex.ch/data/331/de/art43))**
+**Ertragswert von Grund und Boden, Bemessungsperiode (§ 43 StG)**
 
 <sup>1</sup> Als längere Wirtschaftsperiode im Sinne von § 11 Abs. 2 des Dekrets gelten die ersten 15 der letzten 17 Jahre vor der Katasterneuschätzung.
 
 #### § 8
 
-**Ertragswert von Gebäuden, Kapitalisierungssätze (§ 43 [StG](https://bl.clex.ch/data/331/de/art43))**
+**Ertragswert von Gebäuden, Kapitalisierungssätze (§ 43 StG)**
 
 <sup>1</sup> Der Ertragswert von Gebäuden, die weder landwirtschaftlichen oder forstwirtschaftlichen noch gewerblichen oder industriellen Zwecken dienen, ist nach folgenden Kapitalisierungssätzen zu bestimmen:
 
@@ -188,7 +189,7 @@ beschliesst:
 
 #### § 9
 
-**Ertragswert landwirtschaftlicher Gebäude (§ 43 [StG](https://bl.clex.ch/data/331/de/art43))**
+**Ertragswert landwirtschaftlicher Gebäude (§ 43 StG)**
 
 <sup>1</sup> Die Ertragswertlimiten der landwirtschaftlichen und forstwirtschaftlichen Gebäude mit Einschluss der Ökonomiegebäude werden in Prozenten des Brandlagers (100 %) wie folgt festgesetzt:
 
@@ -200,13 +201,13 @@ beschliesst:
 
 #### § 9a
 
-**Berechnung des Verkehrswerts vor 20 Jahren (§ 77 Abs. 3 [StG](https://bl.clex.ch/data/331/de/art77))**
+**Berechnung des Verkehrswerts vor 20 Jahren (§ 77 Abs. 3 StG)**
 
 <sup>1</sup> In Fällen, in denen der Notar bzw. die Notarin als Zahl- und Treuhandstelle zur Sicherstellung der Grundstückgewinnsteuer eingesetzt wird, können basellandschaftliche Notare und Notarinnen den Verkehrswert von Liegenschaften vor 20 Jahren von der kantonalen Steuerverwaltung berechnen lassen.
 
 #### § 10
 
-**Zusätzliche Beilagen zur Steuererklärung (§ 103 Abs. 2 [StG](https://bl.clex.ch/data/331/de/art103))**
+**Zusätzliche Beilagen zur Steuererklärung (§ 103 Abs. 2 StG)**
 
 <sup>1</sup> Der Steuererklärung haben ferner beizufügen und wahrheitsgetreu zu beantworten:
 
@@ -225,7 +226,7 @@ beschliesst:
 
 #### § 11
 
-**Gebühren (§§ 102 Abs. 2; 106 Abs. 1 und 139a Abs. 1 [StG](https://bl.clex.ch/data/331/de/art102))**
+**Gebühren (§§ 102 Abs. 2; 106 Abs. 1 und 139a Abs. 1 StG)**
 
 <sup>1</sup> Für jede Fristverlängerung, die dem Steuerpflichtigen auf Gesuch hin für die Einreichung der Steuerklärung gewährt wird, wird eine Gebühr von CHF 40.– erhoben. Die selbstveranlagenden Gemeinden werden an den Gebühren angemessen beteiligt. Das Nähere regelt die Finanz- und Kirchendirektion.
 
@@ -235,7 +236,7 @@ beschliesst:
 
 #### § 12
 
-**Mitwirkung der Gemeinden bei der Steuerveranlagung (§ 107 [StG](https://bl.clex.ch/data/331/de/art107))**
+**Mitwirkung der Gemeinden bei der Steuerveranlagung (§ 107 StG)**
 
 <sup>1</sup> Die Veranlagung der unselbständig erwerbenden Steuerpflichtigen durch die Gemeinden gemäss § 107 Abs. 3 des Steuergesetzes umfasst die in § 23 des Dekrets aufgeführten Aufgaben.
 
@@ -263,7 +264,7 @@ beschliesst:
 
 #### § 13
 
-**Selbstveranlagende Gemeinden (§ 107 Abs. 3 [StG](https://bl.clex.ch/data/331/de/art107))**
+**Selbstveranlagende Gemeinden (§ 107 Abs. 3 StG)**
 
 <sup>1</sup> Für Gemeinden, die die Unselbständigerwerbenden selbst einschätzen, gelten zusätzlich folgende Regelungen:
 
@@ -280,15 +281,15 @@ beschliesst:
 
 #### § 14
 
-**Vergütung für Veranlagung (§ 107a [StG](https://bl.clex.ch/data/331/de/art107a))**
+**Vergütung für Veranlagung (§ 107a StG)**
 
-<sup>1</sup> Die Vergütung gemäss § 107a des Steuergesetzes[^14-1] für die Einschätzung der Unselbständigerwerbenden und Nichterwerbstätigen beträgt CHF 30.– pro veranlagten Steuerpflichtigen und Veranlagungsperiode und gilt für die Bearbeitung der Steuererklärungen der Steuerperioden 2019 und 2020.
+<sup>1</sup> Die Vergütung gemäss § 107a des Steuergesetzes[^14-1] für die Einschätzung der Unselbständigerwerbenden und Nichterwerbstätigen beträgt CHF 30.– pro veranlagten Steuerpflichtigen und Veranlagungsperiode und gilt für die Bearbeitung der Steuererklärungen der Steuerperioden 2021 und 2022.
 
 [^14-1]: [SGS 331](https://bl.clex.ch/data/331/de/art107a)
 
 #### § 15
 
-**Katasterschätzung, Zonenkategorien, Ertragswertlimiten (§ 121 Abs. 4 [StG](https://bl.clex.ch/data/331/de/art121))**
+**Katasterschätzung, Zonenkategorien, Ertragswertlimiten (§ 121 Abs. 4 StG)**
 
 <sup>1</sup> Die aufgrund des statistischen Zahlenmaterials der Jahre 1946–1965 ermittelten Ertragswertlimiten für landwirtschaftlich genutzten Grund und Boden werden in folgende Zonenkategorien eingeteilt:
 
@@ -307,7 +308,7 @@ beschliesst:
 
 #### § 16
 
-**Katasterschätzung, Wertschriften (§ 121 Abs. 4 [StG](https://bl.clex.ch/data/331/de/art121))**
+**Katasterschätzung, Wertschriften (§ 121 Abs. 4 StG)**
 
 <sup>1</sup> Verkehrswert und Ertragswert von Grund und Boden sind wie folgt zu gewichten:
 
@@ -320,7 +321,7 @@ beschliesst:
 
 #### § 17
 
-**Katasterschätzung; Limiten der gewerblich oder industriell genutzten Gebäude (§ 121 Abs. 4 [StG](https://bl.clex.ch/data/331/de/art121))**
+**Katasterschätzung; Limiten der gewerblich oder industriell genutzten Gebäude (§ 121 Abs. 4 StG)**
 
 <sup>1</sup> Bei der Festsetzung des Mittelwertes der gewerblich oder industriell genutzten Gebäude ist von einem Grundansatz von 225 % des Brandlagers auszugehen. Sodann ist folgenden Faktoren, soweit sie für den Betrieb, welchem das Schätzungsobjekt dient, von Bedeutung sind, durch entsprechende Zuschläge oder Abzüge von höchstens je 15 % Rechnung zu tragen:
 
@@ -336,7 +337,7 @@ beschliesst:
 
 #### § 18
 
-**Mittelwert nichtgewerblicher oder nichtindustrieller Gebäude (§ 121 Abs. 4 [StG](https://bl.clex.ch/data/331/de/art121))**
+**Mittelwert nichtgewerblicher oder nichtindustrieller Gebäude (§ 121 Abs. 4 StG)**
 
 <sup>1</sup> Für die Berechnung des Mittelwertes der nichtgewerblich oder nichtindustriell genutzten Gebäude gelten folgende Limiten in Prozenten des Brandlagers (100 %):
 
@@ -355,39 +356,39 @@ beschliesst:
 
 #### § 19
 
-**Vergütungs- und Verzugszins (§§ 135a und 135b [StG](https://bl.clex.ch/data/331/de/art135a))**
+**Vergütungs- und Verzugszins (§§ 135a und 135b StG)**
 
 <sup>1</sup> Der Vergütungszins beträgt:
 
-- a. für das Kalenderjahr 2018 — 0,2 %.
-- b. für das Kalenderjahr 2019 — 0,2 %.
-- c. für das Kalenderjahr 2020 — 0,2 %.
-- d. für das Kalenderjahr 2021 — 0,2 %.
+- a. für das Kalenderjahr 2019 — 0,2 %;
+- b. für das Kalenderjahr 2020 — 0,2 %;
+- c. für das Kalenderjahr 2021 — 0,2 %;
+- d. für das Kalenderjahr 2022 — 0,2 %.
 
 <sup>2</sup> Der Verzugszins beträgt:
 
-- a. für das Kalenderjahr 2018 — 6,0 %.
-- b. für das Kalenderjahr 2019 — 6,0 %.
-- c. für das Kalenderjahr 2020 — 6,0 %.
-- d. für das Kalenderjahr 2021 — 5,0 %.
+- a. für das Kalenderjahr 2019 — 6,0 %;
+- b. für das Kalenderjahr 2020 — 6,0 %;
+- c. für das Kalenderjahr 2021 — 5,0 %;
+- d. für das Kalenderjahr 2022 — 5,0 %.
 
 <sup>3</sup> Die Berechnung der Zinsen gemäss den Abs. 1 und 2 wird auf der Basis eines Kalenderjahres mit 365 bzw. 366 Tagen vorgenommen.
 
 #### § 20
 
-**Aufteilung von Steuerzahlungen bei Trennung, Scheidung und Auflösung der eingetragenen Partnerschaft (§§ 137 und 141 Abs. 4 [StG](https://bl.clex.ch/data/331/de/art137))**
+**Aufteilung von Steuerzahlungen bei Trennung, Scheidung und Auflösung der eingetragenen Partnerschaft (§§ 137 und 141 Abs. 4 StG)**
 
 <sup>1</sup> Bei einer Trennung oder Scheidung oder Auflösung der eingetragenen Partnerschaft kann jeder Ehegatte bzw. jeder eingetragene Partner oder jede eingetragene Partnerin verlangen, dass Teilzahlungen, die für das Trennungs-, Scheidungs- oder Auflösungsjahr oder für noch nicht vollständig beglichene Steuerforderungen vergangener, gemeinsam veranlagter Steuerjahre geleistet wurden, auf die Ehegatten bzw. auf die eingetragenen Partner oder eingetragenen Partnerinnen aufgeteilt werden. Können sich die Ehegatten bzw. die eingetragenen Partner oder eingetragenen Partnerinnen nicht über eine Aufteilung einigen, so wird die Aufteilung von Amtes wegen je zur Hälfte vorgenommen.
 
 #### § 21
 
-**Vergütung für Bezug (§ 138 Abs. 2 [StG](https://bl.clex.ch/data/331/de/art138))**
+**Vergütung für Bezug (§ 138 Abs. 2 StG)**
 
 <sup>1</sup> Die Vergütung gemäss § 138 Abs. 2 des Steuergesetzes für den Bezug der Gemeindesteuer durch die kantonale Steuerverwaltung beträgt CHF 20.– pro veranlagtem Steuerpflichtigen und Steuerjahr.
 
 #### § 22
 
-**Weisungen (§ 197 [StG](https://bl.clex.ch/data/331/de/art197))**
+**Weisungen (§ 197 StG)**
 
 <sup>1</sup> Die Finanzdirektion bzw. mit deren Einverständnis die kantonale Steuerverwaltung erlässt die näheren mit dem Vollzug und der Anwendung des Steuergesetzes erforderlichen materiellen und organisatorischen Weisungen.
 
