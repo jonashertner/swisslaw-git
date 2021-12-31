@@ -4,13 +4,13 @@ number: "810.15"
 title: "Ordonnance sur les études d'impact sur l'environnement et les procédures décisives"
 short: OEIEP
 language: fr
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-12-14
 adopted: 2002-07-02
 in_force: 2002-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/810.15"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6303/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7037/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Etudes d'impact sur l'environnement – O
 
 (OEIEP)
 
-du 02.07.2002 (version entrée en vigueur le 01.04.2019)
+du 02.07.2002 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -119,7 +119,7 @@ Arrête:
 
 <sup>2</sup> La Direction des institutions, de l'agriculture et des forêts est l'autorité compétente.
 
-<sup>3</sup> Le Service de l'agriculture est le service de coordination pour les projets de type 80.1 de l'annexe OEIE.
+<sup>3</sup> Grangeneuve est considéré comme service de coordination pour les projets de type 80.1 de l'annexe OEIE.
 
 <sup>4</sup> Le Service des forêts et de la nature est le service de coordination pour les projets de type 80.2 de l'annexe OEIE.
 

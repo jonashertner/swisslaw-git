@@ -4,13 +4,13 @@ number: "810.15"
 title: Verordnung über die Umweltverträglichkeitsprüfungen und die massgeblichen Verfahren
 short: UVPVV
 language: de
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-12-14
 adopted: 2002-07-02
 in_force: 2002-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/810.15"
-pdf: "https://bdlf.fr.ch/api/de/versions/6303/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7037/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Umweltverträglichkeitsprüfungen – V
 
 (UVPVV)
 
-vom 02.07.2002 (Fassung in Kraft getreten am 01.04.2019)
+vom 02.07.2002 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -119,7 +119,7 @@ beschliesst:
 
 <sup>2</sup> Die Direktion der Institutionen und der Land- und Forstwirtschaft ist die zuständige Behörde.
 
-<sup>3</sup> Das Amt für Landwirtschaft ist die Koordinationsbehörde für Projekte gemäss Ziffer 80.1 des UVPV-Anhangs.
+<sup>3</sup> Grangeneuve ist die Koordinationsbehörde für Projekte gemäss Ziffer 80.1 des UVPV-Anhangs.
 
 <sup>4</sup> Das Amt für Wald und Natur ist die Koordinationsbehörde für Projekte gemäss Ziffer 80.2 des UVPV-Anhangs.
 
