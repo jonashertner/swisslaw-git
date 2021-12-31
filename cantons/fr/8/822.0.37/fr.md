@@ -3,20 +3,20 @@ canton: FR
 number: "822.0.37"
 title: Ordonnance fixant les tarifs de référence des hôpitaux et des maisons de naissance
 language: fr
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-09
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-12-07
 adopted: 2026-01-13
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/822.0.37"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6688/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7473/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance fixant les tarifs de référence des hôpitaux et des maisons de naissance
 
-du 09.12.2020 (version entrée en vigueur le 01.01.2021)
+du 07.12.2021 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -24,37 +24,32 @@ Vu la loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal);
 
 Considérant:
 
-L'article 41 al. 1<sup>bis</sup>, 2<sup>e</sup> phr., LAMal dispose que, en cas de traitement hospitalier par convenance personnelle dans un hôpital répertorié hors canton, l'assureur-maladie et le canton de résidence prennent en charge leur part respective de rémunération au sens de l'article 49a LAMal, jusqu'à concurrence du tarif applicable pour ce traitement dans un hôpital répertorié du canton de résidence.
+L'article 41 al. 1bis, 2<sup>e</sup> phr. LAMal dispose que, en cas de traitement hospitalier par convenance personnelle dans un hôpital répertorié hors canton, l'assureur-maladie et le canton de résidence prennent en charge leur part respective de rémunération au sens de l'article 49a LAMal, jusqu'à concurrence du tarif applicable pour ce traitement dans un hôpital répertorié du canton de résidence.
 
 Les tarifs de référence doivent dès lors être fixés.
 
-A la suite de l'adaptation des paramètres servant de base pour le calcul des tarifs de référence, le tarif de référence (*baserate*) pour les prestations qui peuvent être fournies par un hôpital ou une maison de naissance du canton de Fribourg répertoriés dans la liste hospitalière fribourgeoise, le forfait journalier pour la réadaptation en paraplégie ainsi que le *baserate* pour les hospitalisations psychiatriques sont adaptés.
+A la suite de l'adaptation des paramètres servant de base pour le calcul des tarifs de référence et en vue de l'introduction de la nouvelle structure tarifaire uniforme au niveau Suisse ST Reha dans le domaine de la réadaptation, le tarif de référence (baserate) pour les prestations qui peuvent être fournies par un hôpital ou une maison de naissance du canton de Fribourg répertoriés dans la liste hospitalière fribourgeoise ainsi que les tarifs pour la réadaptation sont adaptés.
 
-Sur la proposition de la Direction de la santé et des affaires sociales,
+Sur proposition de la Direction de la santé et des affaires sociales,
 
 Arrête:
 
 #### Art. 1
 
-<sup>1</sup> Les tarifs de référence (*baserates*) selon l'article 41 al. 1<sup>bis</sup>, 2<sup>e</sup> phr., LAMal pour les hospitalisations somatiques aiguës sont fixés comme il suit:
+<sup>1</sup> Les tarifs de référence (baserates) selon l'article 41 al. 1bis, 2<sup>e</sup> phr. LAMal pour les hospitalisations somatiques aiguës sont fixés comme il suit:
 
-- a) prestations qui peuvent être fournies par un hôpital ou une maison de naissance du canton de Fribourg répertoriés dans la liste hospitalière fribourgeoise — Fr. 9'100.–
-- b) autres prestations — Fr. 10'650.–
+- a) pour les prestations qui peuvent être fournies par un hôpital ou une maison de naissance du canton de Fribourg répertoriés dans la liste hospitalière fribourgeoise — Fr. 9'105.–
+- b) pour les autres prestations — Fr. 10'650.–
 
 #### Art. 2
 
-<sup>1</sup> Les tarifs de référence selon l'article 41 al. 1<sup>bis</sup>, 2<sup>e</sup> phr., LAMal pour les hospitalisations somatiques non aiguës sont des forfaits journaliers et sont fixés comme il suit:
+<sup>1</sup> Le tarif de référence (baserate) selon l'article 41 al. 1bis, 2<sup>e</sup> phr. LAMal pour les hospitalisations somatiques non aiguës est fixé comme il suit:
 
-- a) réadaptation générale, générale de type neurologique et pulmonaire — Fr. 675.–
-- b) réadaptation gériatrique — Fr. 675.–
-- c) réadaptation cardio-vasculaire — Fr. 550.–
-- d) réadaptation en paraplégie — Fr. 1'380.–
-- e) neuroréhabilitation intensive — Fr. 763.–
-- f) autres formes de réadaptation — Fr. 675.–
+- a) réadaptation (à l'exception des réadaptations en paraplégie et précoces pour lesquelles s'applique le tarif LAMal en vigueur du fournisseur de prestations) — Fr. 680.–
 
 #### Art. 3
 
-<sup>1</sup> Le tarif de référence (*baserate*) selon l'article 41 al. 1<sup>bis</sup>, 2<sup>e</sup> phr., LAMal pour les hospitalisations psychiatriques est fixé comme il suit:
+<sup>1</sup> Le tarif de référence (baserate) selon l'article 41 al. 1bis, 2<sup>e</sup> phr. LAMal pour les hospitalisations psychiatriques est fixé comme il suit:
 
 - a) psychiatrie — Fr. 680.–
 
@@ -66,4 +61,4 @@ Arrête:
 
 <sup>1</sup> Les tarifs de référence peuvent être modifiés à tout moment. Une modification ainsi que des rétrocessions financières rétroactives sont toutefois exclues.
 
-2020\_176
+2021\_169
