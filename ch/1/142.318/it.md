@@ -3,11 +3,11 @@ sr: "142.318"
 title: "Ordinanza del 1° aprile 2020 sui provvedimenti nel settore dell'asilo in relazione al coronavirus (Ordinanza COVID-19 asilo)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/205"
 language: it
-version: 2021-07-01
+version: 2022-01-01
 adopted: 2020-04-01
 in_force: 2020-04-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/205/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2020-205-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/205/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/205/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-205-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/205/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/205/20210701/it"
 
 (Ordinanza COVID-19 asilo)
 
-del 1° aprile 2020 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
+del 1° aprile 2020 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -157,6 +157,9 @@ Nella procedura celere, il ricorso contro una decisione secondo l’articolo 31*
 
 <sup>7</sup> La durata di validità della presente ordinanza è prorogata fino al 31 dicembre 2021.[^12-3]
 
+<sup>8</sup> La durata di validità della presente ordinanza è prorogata fino al 31 dicembre 2022.[^12-4]
+
 [^12-1]: Introdotto dal n. I dell’O del 12 giu. 2020, in vigore dal 7 lug. 2020 ([RU 2020 2575](https://fedlex.data.admin.ch/eli/oc/2020/473)).
 [^12-2]: Introdotto dal n. I dell’O del 26 ago. 2020, in vigore dal 2 ott. 2020 ([RU 2020 3715](https://fedlex.data.admin.ch/eli/oc/2020/676)).
 [^12-3]: Introdotto dal n. I dell’O del 23 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 381](https://fedlex.data.admin.ch/eli/oc/2021/381)).
+[^12-4]: Introdotto dal n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 897](https://fedlex.data.admin.ch/eli/oc/2021/897)).
