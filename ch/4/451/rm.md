@@ -4,11 +4,11 @@ title: Lescha federala dal 1. da fanadur 1966 davart la protecziun da la natira 
 short: LPNP
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679"
 language: rm
-version: 2020-04-01
+version: 2022-01-01
 adopted: 1966-07-01
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679/20200401/rm/xml/fedlex-data-admin-ch-eli-cc-1966-1637_1694_1679-20200401-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20200401/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-1966-1637_1694_1679-20220101-rm-xml-25.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20220101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20200401/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-(LPNP)**[^t-1]**
+(LPNP)[^t-1]
 
-dal 1. da fanadur 1966 (versiun dal 1. d’avrigl 2020)
+dal 1. da fanadur 1966 (versiun dal 1. da schaner 2022)
 
 [^t-1]: Versiun tenor la cifra I da la LF dals 24 da mars 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [BBl 1991 III 1121](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
@@ -55,7 +55,7 @@ En il rom da la cumpetenza da la Confederaziun tenor l’artitgel 78 alineas 2�
 [^1-4]: Integrà tras l’agiunta dal COF dals 21 da mars 2014 (Protocol da Nagoya), en vigur dapi ils 12 d’oct. 2014 ([AS 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [BBl 2013 3009](https://fedlex.data.admin.ch/eli/fga/2013/611)).
 [^1-5]: Questa midada tenor la LF dals 20 da zer. 2014 davart il perfecziunament, en vigur dapi il 1. da schan. 2017, concerna mo il text franzos e talian ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
-### Secziun 1 Protecziun da la natira, protecziun da la patria e tgira da monuments tar l’adempliment d’incumbensas federalas****
+### Secziun 1 Protecziun da la natira, protecziun da la patria e tgira da monuments tar l’adempliment d’incumbensas federalas
 
 [^lvlu1-chap1-1]
 
@@ -322,7 +322,7 @@ Sche l’organisaziun perda la procedura, la vegnan adossads ils custs da la pro
 
 [^12g-1]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2006, en vigur dapi il 1. da fan. 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
-### Secziun 2 Sustegn da la protecziun da la natira, da la protecziun da la patria e da la tgira da monuments tras la Confederaziun ed atgnas mesiras da la Confederaziun****
+### Secziun 2 Sustegn da la protecziun da la natira, da la protecziun da la patria e da la tgira da monuments tras la Confederaziun ed atgnas mesiras da la Confederaziun
 
 [^lvlu1-chap2-1]
 
@@ -401,13 +401,14 @@ Sch’in privel direct smanatscha ina cuntrada natirala en il senn da l’artitg
 
 [^16a-1]
 
-<sup>1</sup> L’Assamblea federala deliberescha cun in conclus federal simpel credits generals a temp limità per garantir contribuziuns.
+<sup>1</sup> L’Assamblea federala deliberescha cun in conclus federal simpel credits d’impegn[^16a-2] a temp limità per garantir contribuziuns.
 
-<sup>2</sup> La finanziaziun dals secturs da la protecziun da la patria e da la tgira da monuments sa drizza tenor l’artitgel 27 da la Lescha federala dals 11 da december 2009[^16a-2] davart la promoziun da la cultura.[^16a-3]
+<sup>2</sup> La finanziaziun dals secturs da la protecziun da la patria e da la tgira da monuments sa drizza tenor l’artitgel 27 da la Lescha federala dals 11 da december 2009[^16a-3] davart la promoziun da la cultura.[^16a-4]
 
 [^16a-1]: Integrà tras la cifra 9 da l’agiunta da la Lescha da subvenziuns dals 5 d’oct. 1990 ([AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [BBl 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297)). Versiun tenor la cifra II 7 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^16a-2]: [SR 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
-[^16a-3]: Integrà tras la cifra II 5 da l’agiunta da la LF dals 11 da dec. 2009 davart la promoziun da la cultura, en vigur dapi il 1. da schan. 2012 ([AS 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [BBl 2007 4819](https://fedlex.data.admin.ch/eli/fga/2007/681)[4857](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^16a-2]: Expressiun tenor la cifra 3 da l’agiunta da la LF dals 19 da mars 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^16a-3]: [SR 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
+[^16a-4]: Integrà tras la cifra II 5 da l’agiunta da la LF dals 11 da dec. 2009 davart la promoziun da la cultura, en vigur dapi il 1. da schan. 2012 ([AS 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [BBl 2007 4819](https://fedlex.data.admin.ch/eli/fga/2007/681)[4857](https://fedlex.data.admin.ch/eli/fga/2007/683)).
 
 ### Restituziun da contribuziuns
 
@@ -568,7 +569,7 @@ La colonisaziun da spezias, da sutspezias e da razzas d’animals e da plantas d
 
 [^23-1]: Versiun tenor l’art. 27 cifra 2 da la Lescha da chatscha dals 20 da zer. 1986, en vigur dapi il 1. d’avr. 1988 ([AS 1988 506](https://fedlex.data.admin.ch/eli/oc/1988/506_506_506); [BBl 1983 II 1197](https://fedlex.data.admin.ch/eli/fga/1983/2_1197_1229_1169)).
 
-### Secziun 3*a***** Palids e cuntradas da palì da bellezza particulara e d’impurtanza naziunala
+### Secziun 3*a* Palids e cuntradas da palì da bellezza particulara e d’impurtanza naziunala
 
 [^lvlu1-chap3a-1]
 
@@ -633,7 +634,7 @@ Sut la premissa da l’alinea 1 èn admess spezialmain:
 - c. mesiras per proteger ils umans cunter eveniments da la natira;
 - d. ils indrizs d’infrastructura ch’èn necessaris per applitgar ils bustabs a–c.
 
-### Secziun 3*b***** Parcs d’impurtanza naziunala
+### Secziun 3*b* Parcs d’impurtanza naziunala
 
 [^lvlu1-chap3b-1]
 
@@ -762,7 +763,7 @@ Il Cussegl federal decretescha prescripziuns davart:
 
 [^23m-1]: [SR 454](https://fedlex.data.admin.ch/eli/cc/1981/236_236_236)
 
-### Secziun 3*c***** Resursas geneticas
+### Secziun 3*c* Resursas geneticas
 
 [^lvlu1-chap3c-1]
 
@@ -927,7 +928,7 @@ Tge che donnegia in monument natiral u cultural protegì da questa lescha, in li
 
 [^24e-1]: Integrà tras la cifra I da la LF dals 19 da zer. 1987 ([AS 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [BBl 1985 II 1445](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)). Versiun tenor la cifra I da la LF dals 24 mars 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [BBl 1991 III 1121](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
-### Secziun 5 Execuziun, organisaziun ed infurmaziun****
+### Secziun 5 Execuziun, organisaziun ed infurmaziun
 
 [^lvlu1-chap5-1]
 
@@ -969,7 +970,7 @@ Ils chantuns exequeschan questa lescha, nun che l’execuziun saja attribuida a 
 
 <sup>4</sup> Las autoritads executivas da la Confederaziun resguardan las mesiras ch’ils chantuns han prendì a favur da la protecziun da la natira e da la patria.
 
-[^24h-1]: Integrà tras l’agiunta dal COF dals 21 da mars 2014 (Protocol da Nagoya), en vigur dapi il 1. da sett. 2014, el al. 3 en vigur dapi il 12 da oct. 2014 ([AS 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [BBl 2013 3009](https://fedlex.data.admin.ch/eli/fga/2013/611)).
+[^24h-1]: Integrà tras l’agiunta dal COF dals 21 da mars 2014 (Protocol da Nagoya), en vigur dapi il 1. da sett. 2014, al. 3 en vigur dapi il 12 d’oct. 2014 ([AS 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [BBl 2013 3009](https://fedlex.data.admin.ch/eli/fga/2013/611)).
 [^24h-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 ### Organisaziun
@@ -1000,7 +1001,7 @@ Ils chantuns exequeschan questa lescha, nun che l’execuziun saja attribuida a 
 
 [^25a-1]: Integrà tras la cifra I da l’agiunta da la LF dals 21 da dec. 1995, en vigur dapi il 1. da fan. 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
-### Secziun 6 Disposiziuns finalas****
+### Secziun 6 Disposiziuns finalas
 
 [^lvlu1-chap6-1]
 
@@ -1012,7 +1013,7 @@ Ils chantuns exequeschan questa lescha, nun che l’execuziun saja attribuida a 
 
 [^25b-1]
 
-<sup>1</sup> Ils chantuns designeschan ils stabiliments, ils edifizis e las midadas dal terren ch’èn vegnids fatgs suenter il 1. da zercladur 1983 en palids ed en cuntradas da palì da bellezza particulara e d’impurtanza naziunala, che cuntrafan a las finamiras da protecziun e che n’èn betg vegnids permess cun vigur legala sin basa da zonas d’utilisaziun che correspundan a la Lescha dals 22 dal zercladur 1979 davart la planisaziun dal territori[^25b-2].
+<sup>1</sup> Ils chantuns designeschan ils stabiliments, ils edifizis e las midadas dal terren ch’èn vegnids fatgs suenter il 1. da zercladur 1983 en palids ed en cuntradas da palì da bellezza particulara e d’impurtanza naziunala, che cuntrafan a las finamiras da protecziun e che n’èn betg vegnids permess cun vigur legala sin basa da zonas d’utilisaziun che correspundan a la Lescha dals 22 dal zercladur 1979[^25b-2] davart la planisaziun dal territori.
 
 <sup>2</sup> En la cuntrada da palì da Rothenthurm designeschan ils chantuns Sviz e Zug ils stabiliments, ils edifizis e las midadas dal terren ch’èn vegnids fatgs suenter il 1. da zercladur 1983 e che crodan sut la disposiziun transitorica da l’artitgel 24<sup>sexies</sup> alinea 5 da la Constituziun federala[^25b-3].
 
@@ -1026,7 +1027,7 @@ Ils chantuns exequeschan questa lescha, nun che l’execuziun saja attribuida a 
 
 [^25c-1]
 
-[^25c-1]: Integrà tras la cifra I da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abolì tras la cifra 43 da l’agiunta da la LF dals 17 da zer. 2005 davart il Tribunal administrativ federal, cun effect dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^25c-1]: Integrà tras la cifra I da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abolì tras la cifra 43 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, cun effect dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Disposiziun transitorica da la midada dals 21 da mars 2014
 

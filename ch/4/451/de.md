@@ -4,20 +4,20 @@ title: Bundesgesetz vom 1. Juli 1966 über den Natur- und Heimatschutz (NHG)
 short: NHG
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679"
 language: de
-version: 2020-04-01
+version: 2022-01-01
 adopted: 1966-07-01
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679/20200401/de/xml/fedlex-data-admin-ch-eli-cc-1966-1637_1694_1679-20200401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20200401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1966-1637_1694_1679-20220101-de-xml-25.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über den Natur- und Heimatschutz
 
-(NHG)**[^t-1]**
+(NHG)[^t-1]
 
-vom 1. Juli 1966 (Stand am 1. April 2020)
+vom 1. Juli 1966 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 24. März 1995, in Kraft seit 1. Febr. 1996 ([AS 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [BBl 1991 III 1121](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
@@ -53,7 +53,7 @@ Dieses Gesetz hat zum Zweck, im Rahmen der Zuständigkeit des Bundes nach Artike
 [^1-4]: Eingefügt durch Anhang des BB vom 21. März 2014 (Nagoya-Protokoll), in Kraft seit 12. Okt. 2014 ([AS 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [BBl 2013 3009](https://fedlex.data.admin.ch/eli/fga/2013/611)).
 [^1-5]: Die Änd. gemäss BG vom 20. Juni 2014 über die Weiterbildung, in Kraft seit 1. Jan. 2017, betrifft nur den französischen und den italienischen Text ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
-### 1. Abschnitt: Naturschutz, Heimatschutz und Denkmalpflege bei Erfüllung von Bundesaufgaben****
+### 1. Abschnitt: Naturschutz, Heimatschutz und Denkmalpflege bei Erfüllung von Bundesaufgaben
 
 [^lvlu1-chap1-1]
 
@@ -320,7 +320,7 @@ Unterliegt die Organisation im Verfahren, so werden ihr für die Beschwerdeführ
 
 [^12g-1]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
-### 2. Abschnitt: Unterstützung von Naturschutz, Heimatschutz und Denkmalpflege durch den Bund und eigene Massnahmen des Bundes****
+### 2. Abschnitt: Unterstützung von Naturschutz, Heimatschutz und Denkmalpflege durch den Bund und eigene Massnahmen des Bundes
 
 [^lvlu1-chap2-1]
 
@@ -399,13 +399,14 @@ Droht einer Naturlandschaft im Sinne von Artikel 15, einer geschichtlichen Stät
 
 [^16a-1]
 
-<sup>1</sup> Die Bundesversammlung bewilligt mit einfachem Bundesbeschluss befristete Rahmenkredite für die Zusicherung von Beiträgen.
+<sup>1</sup> Die Bundesversammlung bewilligt mit einfachem Bundesbeschluss befristete Verpflichtungskredite[^16a-2] für die Zusicherung von Beiträgen.
 
-<sup>2</sup> Die Finanzierung der Bereiche Heimatschutz und Denkmalpflege richtet sich nach Artikel 27 des Kulturförderungsgesetzes vom 11. Dezember 2009[^16a-2].[^16a-3]
+<sup>2</sup> Die Finanzierung der Bereiche Heimatschutz und Denkmalpflege richtet sich nach Artikel 27 des Kulturförderungsgesetzes vom 11. Dezember 2009[^16a-3].[^16a-4]
 
 [^16a-1]: Eingefügt durch Anhang Ziff. 9 des Subventionsgesetzes vom 5. Okt. 1990 ([AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [BBl 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297)). Fassung gemäss Ziff. II 7 des BG vom 6. Okt. 2006 über die Neugestal-tung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^16a-2]: [SR 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
-[^16a-3]: Eingefügt durch Anhang Ziff. II 5 des Kulturförderungsgesetzes vom 11. Dez. 2009, in Kraft seit 1. Jan. 2012 ([AS 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [BBl 2007 4819](https://fedlex.data.admin.ch/eli/fga/2007/681)[4857](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^16a-2]: Ausdruck gemäss Anhang Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^16a-3]: [SR 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
+[^16a-4]: Eingefügt durch Anhang Ziff. II 5 des Kulturförderungsgesetzes vom 11. Dez. 2009, in Kraft seit 1. Jan. 2012 ([AS 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [BBl 2007 4819](https://fedlex.data.admin.ch/eli/fga/2007/681)[4857](https://fedlex.data.admin.ch/eli/fga/2007/683)).
 
 ### Rückerstattung von Beiträgen
 
@@ -566,7 +567,7 @@ Das Ansiedeln von Tieren und Pflanzen landes- oder standortfremder Arten, Untera
 
 [^23-1]: Fassung gemäss Art. 27 Ziff. 2 des Jagdgesetzes vom 20. Juni 1986, in Kraft seit 1. April 1988 ([AS 1988 506](https://fedlex.data.admin.ch/eli/oc/1988/506_506_506); [BBl 1983 II 1197](https://fedlex.data.admin.ch/eli/fga/1983/2_1197_1229_1169)).
 
-### Abschnitt 3*a*:**** Moore und Moorlandschaften von besonderer Schönheit und von nationaler Bedeutung
+### Abschnitt 3*a*: Moore und Moorlandschaften von besonderer Schönheit und von nationaler Bedeutung
 
 [^lvlu1-chap3a-1]
 
@@ -631,7 +632,7 @@ Unter der Voraussetzung von Absatz 1 sind insbesondere zulässig:
 - c. Massnahmen zum Schutz von Menschen vor Naturereignissen;
 - d. die für die Anwendung der Buchstaben a–c notwendigen Infrastrukturanlagen.
 
-### Abschnitt 3*b*:**** Pärke von nationaler Bedeutung
+### Abschnitt 3*b*: Pärke von nationaler Bedeutung
 
 [^lvlu1-chap3b-1]
 
@@ -760,7 +761,7 @@ Der Bundesrat erlässt Vorschriften über:
 
 [^23m-1]: [SR 454](https://fedlex.data.admin.ch/eli/cc/1981/236_236_236)
 
-### Abschnitt 3*c*:**** Genetische Ressourcen
+### Abschnitt 3*c*: Genetische Ressourcen
 
 [^lvlu1-chap3c-1]
 
@@ -925,7 +926,7 @@ Wer ein aufgrund dieses Gesetzes geschütztes Natur- oder Kulturdenkmal, eine ge
 
 [^24e-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 1987 ([AS 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [BBl 1985 II 1445](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)). Fassung gemäss Ziff. I des BG vom 24. März 1995, in Kraft seit 1. Febr. 1996 ([AS 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [BBl 1991 III 1121](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
-### 5. Abschnitt: Vollzug, Organisation und Information****
+### 5. Abschnitt: Vollzug, Organisation und Information
 
 [^lvlu1-chap5-1]
 
@@ -998,7 +999,7 @@ Die Kantone vollziehen dieses Gesetz, soweit es den Vollzug nicht dem Bund über
 
 [^25a-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 21. Dez. 1995, in Kraft seit 1. Juli 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
-### 6. Abschnitt: Schlussbestimmungen****
+### 6. Abschnitt: Schlussbestimmungen
 
 [^lvlu1-chap6-1]
 

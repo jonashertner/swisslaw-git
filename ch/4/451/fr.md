@@ -4,20 +4,20 @@ title: "Loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la na
 short: LPN
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679"
 language: fr
-version: 2020-04-01
+version: 2022-01-01
 adopted: 1966-07-01
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679/20200401/fr/xml/fedlex-data-admin-ch-eli-cc-1966-1637_1694_1679-20200401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20200401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1966-1637_1694_1679-20220101-fr-xml-25.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur la protection de la nature et du paysage
 
-(LPN)**[^t-1]**
+(LPN)[^t-1]
 
-du 1<sup>er</sup> juillet 1966 (Etat le 1<sup>er</sup> avril 2020)
+du 1<sup>er</sup> juillet 1966 (État le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> fév. 1996 ([RO 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [FF 1991 III 1137](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
@@ -51,9 +51,9 @@ Dans les limites de la compétence conférée à la Confédération par l’art.
 [^1-2]: Nouvelle teneur selon l’annexe à l’AF du 21 mars 2014 (Prot. de Nagoya), en vigueur depuis le 12 oct. 2014 ([RO 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [FF 2013 2659](https://fedlex.data.admin.ch/eli/fga/2013/611)).
 [^1-3]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^1-4]: Introduit par l’annexe à l’AF du 21 mars 2014 (Prot. de Nagoya), en vigueur depuis le 12 oct. 2014 ([RO 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [FF 2013 2659](https://fedlex.data.admin.ch/eli/fga/2013/611)).
-[^1-5]: Nouvelle teneur selon le ch. 19 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);FF**2013** 3265).
+[^1-5]: Nouvelle teneur selon le ch. 19 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
-### Chapitre 1 Protection de la nature, protection du paysage et conservation des monuments historiques dans l’accomplissement des tâches de la Confédération****
+### Chapitre 1 Protection de la nature, protection du paysage et conservation des monuments historiques dans l’accomplissement des tâches de la Confédération
 
 [^lvlu1-chap1-1]
 
@@ -320,7 +320,7 @@ L’organisation qui succombe supporte les frais de la procédure de recours aup
 
 [^12g-1]: Introduit par le ch. II 1 de la LF du 20 déc. 2006, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 5041](https://fedlex.data.admin.ch/eli/fga/2005/841)[5081](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
-### Chapitre 2 Soutien accordé par la Confédération à la protection de la nature, à la protection du paysage et à la conservation des monuments historiques, et mesures de la Confédération****
+### Chapitre 2 Soutien accordé par la Confédération à la protection de la nature, à la protection du paysage et à la conservation des monuments historiques, et mesures de la Confédération
 
 [^lvlu1-chap2-1]
 
@@ -372,7 +372,7 @@ La Confédération peut allouer des subventions pour promouvoir:
 <sup>2</sup> Lorsqu’il existe un intérêt national, la Confédération peut assumer elle-même ces tâches ou les faire exécuter à ses frais.
 
 [^14a-1]: Introduit par le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> fév. 1996 ([RO 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [FF 1991 III 1137](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
-[^14a-2]: Nouvelle teneur selon le ch. 19 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);FF**2013** 3265).
+[^14a-2]: Nouvelle teneur selon le ch. 19 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 ### Achat et sauvegarde d’objets dignes de protection
 
@@ -400,13 +400,14 @@ Si un danger imminent menace un site naturel selon l’art. 15, un site évocate
 
 [^16a-1]
 
-<sup>1</sup> L’Assemblée fédérale accorde, par voie d’arrêté fédéral simple, des crédits-cadre de durée limitée pour l’octroi des subventions.
+<sup>1</sup> L’Assemblée fédérale accorde, par voie d’arrêté fédéral simple, des crédits d’engagement[^16a-2] de durée limitée pour l’octroi des subventions.
 
-<sup>2</sup> Le financement des domaines de la protection du paysage et de la conservation des monuments historiques se fonde sur l’art. 27 de la loi du 11 décembre 2009 sur l’encouragement de la culture[^16a-2].[^16a-3]
+<sup>2</sup> Le financement des domaines de la protection du paysage et de la conservation des monuments historiques se fonde sur l’art. 27 de la loi du 11 décembre 2009 sur l’encouragement de la culture[^16a-3].[^16a-4]
 
 [^16a-1]: Introduit par le ch. 9 de l’annexe à la LF du 5 oct. 1990 sur les subventions ([RO 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [FF 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297_1)). Nouvelle teneur selon le ch. II 7 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^16a-2]: [RS 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
-[^16a-3]: Introduit par le ch. II 5 de l’annexe à la LF du 11 déc. 2009 sur l’encouragement de la culture, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4579](https://fedlex.data.admin.ch/eli/fga/2007/681)[4617](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^16a-2]: Nouvelle expression selon l’annexe ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^16a-3]: [RS 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
+[^16a-4]: Introduit par le ch. II 5 de l’annexe à la LF du 11 déc. 2009 sur l’encouragement de la culture, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4579](https://fedlex.data.admin.ch/eli/fga/2007/681)[4617](https://fedlex.data.admin.ch/eli/fga/2007/683)).
 
 ### Restitution de subventions
 
@@ -568,7 +569,7 @@ L’acclimatation d’espèces, sous-espèces et races d’animaux et végétaux
 
 [^23-1]: Nouvelle teneur selon l’art. 27 ch. 2 de la LF du 20 juin 1986 sur la chasse, en vigueur depuis le 1<sup>er</sup> avr. 1988 ([RO 1988 506](https://fedlex.data.admin.ch/eli/oc/1988/506_506_506); [FF 1983 II 1229](https://fedlex.data.admin.ch/eli/fga/1983/2_1197_1229_1169)).
 
-### Chapitre 3*a***** Marais et sites marécageux d’une beauté particulière et d’importance nationale
+### Chapitre 3*a* Marais et sites marécageux d’une beauté particulière et d’importance nationale
 
 [^lvlu1-chap3a-1]
 
@@ -633,7 +634,7 @@ Sont en particulier admis à la condition prévue à l’al. 1:
 - c. les mesures visant à protéger l’homme contre les catastrophes naturelles;
 - d. les installations d’infrastructure nécessaires à l’application des let. a à c ci-dessus.
 
-### Chapitre 3*b***** Parcs d’importance nationale
+### Chapitre 3*b* Parcs d’importance nationale
 
 [^lvlu1-chap3b-1]
 
@@ -764,7 +765,7 @@ Le Conseil fédéral édicte des dispositions d’exécution portant sur:
 
 [^23m-1]: [RS 454](https://fedlex.data.admin.ch/eli/cc/1981/236_236_236)
 
-### Chapitre 3*c***** Ressources génétiques
+### Chapitre 3*c* Ressources génétiques
 
 [^lvlu1-chap3c-1]
 
@@ -842,18 +843,23 @@ Les art. 23*n* et 23*o* s’appliquent également aux connaissances traditionnel
 
 <sup>1</sup>
 
-Est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire quiconque, intentionnellement et sans autorisation:
+Est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire quiconque, intentionnellement et sans autorisation:[^24-2]
 
-- a. détruit ou endommage sérieusement une curiosité naturelle ou un monument protégés en vertu de la présente loi, un site protégé évocateur du passé, un site naturel protégé ou un biotope protégé;
+- a.[^24-3] détruit ou endommage sérieusement une curiosité naturelle ou un monument protégés en vertu de la présente loi, un site protégé évocateur du passé, un site naturel protégé ou un biotope protégé;
 - b. essarte, recouvre ou anéantit d’une autre manière la végétation riveraine au sens de l’art. 21;
-- c. détruit ou endommage sérieusement des curiosités naturelles ou des antiquités enfouies qui offrent un intérêt scientifique (art. 724, al. 1, CC[^24-2]);
-- d.[^24-3] …
+- c.[^24-4] détruit ou endommage sérieusement des curiosités naturelles ou des antiquités enfouies qui offrent un intérêt scientifique[^24-5] (art. 724, al. 1, CC[^24-6]);
+- d.[^24-7] …
 
-<sup>2</sup> Si le délinquant agit par négligence, il est passible d’une amende jusqu’à 40 000 francs.
+<sup>2</sup> Si le délinquant agit par négligence, il est passible d’une amende jusqu’à 40 000 francs.[^24-8]
 
-[^24-1]: Nouvelle teneur selon l’art. 333 du CP, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
-[^24-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^24-3]: Introduite par le ch. I de la LF du 21 juin 1996 ([RO 1997 1152](https://fedlex.data.admin.ch/eli/oc/1997/1152_1152_1152); [FF 1995 IV 621](https://fedlex.data.admin.ch/eli/fga/1995/4_629_621_589)). Abrogée par le ch. 1 de l’annexe 1 à la LF du 16 mars 2012 sur les espèces protégées, avec effet au 1<sup>er</sup> oct. 2013 ([RO 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [FF 2011 6439](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
+[^24-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 1987, en vigueur depuis le 1<sup>er</sup> fév. 1988 ([RO 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1449](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
+[^24-2]: Nouvelle teneur selon l’art. 333 du CP, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^24-3]: Nouvelle teneur selon le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> fév. 1996 ([RO 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214), 224; [FF 1991 III 1137](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^24-4]: Introduite par le ch. I de la LF du 24 mars 1995 ([RO 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [FF 1991 III 1137](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)). Nouvelle teneur selon l’art. 32 ch. 4 de la L du 20 juin 2033 sur le transfert des biens culturels, en vigueur depuis le 1<sup>er</sup> er juin 2005 ([RO 2005 1869](https://fedlex.data.admin.ch/eli/oc/2005/317); [FF 2002 505](https://fedlex.data.admin.ch/eli/fga/2002/93)).
+[^24-5]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^24-6]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^24-7]: Introduite par le ch. I de la LF du 21 juin 1996 ([RO 1997 1152](https://fedlex.data.admin.ch/eli/oc/1997/1152_1152_1152); [FF 1995 IV 621](https://fedlex.data.admin.ch/eli/fga/1995/4_629_621_589)). Abrogée par le ch. 1 de l’annexe 1 à la LF du 16 mars 2012 sur les espèces protégées, avec effet au 1<sup>er</sup> oct. 2013 ([RO 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [FF 2011 6439](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
+[^24-8]: Nouvelle teneur selon l’art. 333 du CP, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
 ### Contraventions
 
@@ -925,7 +931,7 @@ Indépendamment d’une procédure pénale, celui qui porte atteinte à une curi
 
 [^24e-1]: Introduit par le ch. I de la LF du 19 juin 1987 ([RO 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1449](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)). Nouvelle teneur selon le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> fév. 1996 ([RO 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [FF 1991 III 1137](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
-### Chapitre 5 Exécution, organisation et information****
+### Chapitre 5 Exécution, organisation et information
 
 [^lvlu1-chap5-1]
 
@@ -998,7 +1004,7 @@ Les cantons exécutent la présente loi, dans la mesure où cette compétence n�
 
 [^25a-1]: Introduit par le ch. 1 de l’annexe à la LF du 21 déc. 1995, en vigueur depuis le 1<sup>er</sup> jul. 1997 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
-### Chapitre 6 Dispositions finales****
+### Chapitre 6 Dispositions finales
 
 [^lvlu1-chap6-1]
 

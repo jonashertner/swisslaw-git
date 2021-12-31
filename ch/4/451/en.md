@@ -4,11 +4,11 @@ title: Federal Act of 1 July 1966 on the Protection of Nature and Cultural Herit
 short: NCHA
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679"
 language: en
-version: 2020-04-01
+version: 2022-01-01
 adopted: 1966-07-01
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679/20200401/en/xml/fedlex-data-admin-ch-eli-cc-1966-1637_1694_1679-20200401-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20200401/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1966-1637_1694_1679-20220101-en-xml-25.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20200401/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-(NCHA)**[^t-1]**
+(NCHA)[^t-1]
 
-of 1 July 1966 (Status as of 1 April 2020)
+of 1 July 1966 (Status as of 1 January 2022)
 
 [^t-1]: Amended by No I of the FA of 24 March 1995, in force since 1 Feb. 1996 ([AS 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [BBl 1991 III 1121](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
@@ -55,7 +55,7 @@ The aim of this Act, subject to the authority of the Confederation under Article
 [^1-4]: Inserted by the Annex to the FD of 21 March 2014 (Nagoya Protocol), in force since 12 Oct. 2014 ([AS 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [BBl 2013 3009](https://fedlex.data.admin.ch/eli/fga/2013/611)).
 [^1-5]: The amendment in accordance with the FA of 20 June 2014 on Continuing Education and Training, in force since 1 Jan. 2017, relates on to the French and Italian texts ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
-### Section 1 Nature Protection, Cultural Heritage Protection and Monument Preservation in the Fulfilment of Federal Tasks****
+### Section 1 Nature Protection, Cultural Heritage Protection and Monument Preservation in the Fulfilment of Federal Tasks
 
 [^lvlu1-chap1-1]
 
@@ -322,7 +322,7 @@ If the organisation is unsuccessful in the proceedings, it shall bear the costs 
 
 [^12g-1]: Inserted by No II 1 of the FA of 20. Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
-### Section 2 Federal Support for Nature Protection, Cultural Heritage Protection and Monument Preservation, and Independent Federal Measures****
+### Section 2 Federal Support for Nature Protection, Cultural Heritage Protection and Monument Preservation, and Independent Federal Measures
 
 [^lvlu1-chap2-1]
 
@@ -401,13 +401,14 @@ In cases where a natural landscape as defined in Article 15, a historical site, 
 
 [^16a-1]
 
-<sup>1</sup> The Federal Assembly shall approve by simple federal decree temporary framework credits to guarantee the provision of subsidies.
+<sup>1</sup> The Federal Assembly shall approve by simple federal decree temporary guarantee credits[^16a-2] to guarantee the provision of subsidies.
 
-<sup>2</sup> The financing of the areas of cultural heritage protection and monument preservation is governed by Article 27 of the Culture Promotion Act of 11 December 2009[^16a-2].[^16a-3]
+<sup>2</sup> The financing of the areas of cultural heritage protection and monument preservation is governed by Article 27 of the Culture Promotion Act of 11 December 2009[^16a-3].[^16a-4]
 
 [^16a-1]: Inserted by Annex No 9 of the Subsidies Act of 5 Oct. 1990 ([AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [BBl 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297)). Amended by No II 7 of the FA of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFA), in force since 1 Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^16a-2]: [SR 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
-[^16a-3]: Inserted by Annex No II 5 of the Culture Promotion Act of 11 Dec. 2009, in force since 1 Jan. 2012 ([AS 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [BBl 2007 4819](https://fedlex.data.admin.ch/eli/fga/2007/681)[4857](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^16a-2]: Term in accordance with Annex No 3 of the FA of 19 March 2021, in force since 1 Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^16a-3]: [SR 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
+[^16a-4]: Inserted by Annex No II 5 of the Culture Promotion Act of 11 Dec. 2009, in force since 1 Jan. 2012 ([AS 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [BBl 2007 4819](https://fedlex.data.admin.ch/eli/fga/2007/681)[4857](https://fedlex.data.admin.ch/eli/fga/2007/683)).
 
 ### Repayment of subsidies
 
@@ -568,7 +569,7 @@ The establishment of animals and plants of species, subspecies and breeds not na
 
 [^23-1]: Amended by Art. 27 Section 2 of the Hunting Act of 20 June 1986, in force since 1 April 1988 ([AS 1988 506](https://fedlex.data.admin.ch/eli/oc/1988/506_506_506); [BBl 1983 II 1197](https://fedlex.data.admin.ch/eli/fga/1983/2_1197_1229_1169)).
 
-### Section 3*a***** Mires and Mire Landscapes of Outstanding Beauty and National Importance
+### Section 3*a* Mires and Mire Landscapes of Outstanding Beauty and National Importance
 
 [^lvlu1-chap3a-1]
 
@@ -633,7 +634,7 @@ Subject to paragraph 1, the following are permitted in particular:
 - c. measures designed to protect people against natural disasters;
 - d. infrastructure required for the application of letters a–c above.
 
-### Section 3*b***** Parks of National Importance
+### Section 3*b* Parks of National Importance
 
 [^lvlu1-chap3b-1]
 
@@ -762,7 +763,7 @@ The Federal Council shall issue regulations on:
 
 [^23m-1]: [SR 454](https://fedlex.data.admin.ch/eli/cc/1981/236_236_236)
 
-### Section 3*c***** Genetic Resources
+### Section 3*c* Genetic Resources
 
 [^lvlu1-chap3c-1]
 
@@ -838,9 +839,9 @@ Articles 23*n* and 23*o* also apply to traditional knowledge of indigenous and l
 
 [^24-1]
 
-<sup>1</sup> shall be liable to a term of imprisonment not exceeding one year or to a monetary penalty.
+<sup>1</sup>
 
-Any person who wilfully and without authorisation:[^24-2]
+Any person shall be liable to a term of imprisonment not exceeding one year or to a monetary penalty who wilfully and without authorisation:[^24-2]
 
 - a.[^24-3] destroys or seriously damages a natural or cultural monument protected under this Act, a protected historical site, a protected natural landscape or a protected biotope;
 - b. clears, covers up or otherwise destroys riparian vegetation as specified in Article 21;
@@ -864,9 +865,9 @@ Any person who wilfully and without authorisation:[^24-2]
 
 [^24a-1]
 
-<sup>1</sup> shall be liable to a fine not exceeding 20,000 Swiss francs.
+<sup>1</sup>
 
-Any person who:
+Any person shall be liable to a fine not exceeding 20,000 Swiss francs who:
 
 - a. fails to comply with a condition or requirement that makes specific reference to this provision that is related to the provision of a federal subsidy;
 - b.[^24a-2] contravenes an implementation regulation issued under Articles 16, 18, 18*a*, 18*b*, 18*c*, 19, 20, 23*c*, 23*d* or 25*a*, where infringements have been declared to be offences;
@@ -927,7 +928,7 @@ Any person who damages a natural or cultural monument protected under this Act, 
 
 [^24e-1]: Inserted by No I of the FA of 19 June 1987 ([AS 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [BBl 1985 II 1445](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)). Amended by No I of the FA of 24 March 1995, in force since 1 Feb. 1996 ([AS 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [BBl 1991 III 1121](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
-### Section 5 Implementation, Organisation and Information****
+### Section 5 Implementation, Organisation and Information
 
 [^lvlu1-chap5-1]
 
@@ -1000,7 +1001,7 @@ The cantons shall implement this Act unless implementation is assigned to the Co
 
 [^25a-1]: Inserted by No 1 of the Annex to the FA of 21 Dec. 1995, in force since 1 July 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)1174; [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
-### Section 6 Final Provisions****
+### Section 6 Final Provisions
 
 [^lvlu1-chap6-1]
 

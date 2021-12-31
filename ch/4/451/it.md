@@ -4,20 +4,20 @@ title: "Legge federale del 1<sup>o</sup> luglio 1966 sulla protezione della natu
 short: LPN
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679"
 language: it
-version: 2020-04-01
+version: 2022-01-01
 adopted: 1966-07-01
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679/20200401/it/xml/fedlex-data-admin-ch-eli-cc-1966-1637_1694_1679-20200401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20200401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1966-1637_1694_1679-20220101-it-xml-25.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulla protezione della natura e del paesaggio
 
-(LPN)**[^t-1]**
+(LPN)[^t-1]
 
-del 1° luglio 1966 (Stato 1° aprile 2020)
+del 1° luglio 1966 (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
@@ -53,7 +53,7 @@ La presente legge è, nei limiti della competenza conferita alla Confederazione 
 [^1-4]: Introdotta dall’all. del DF del 21 mar. 2014 (Protocollo di Nagoya), in vigore dal 12 ott. 2014 ([RU 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [FF 2013 2531](https://fedlex.data.admin.ch/eli/fga/2013/611)).
 [^1-5]: Nuovo testo giusta l’all. n. 19 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
-### Capo 1: Protezione della natura, protezione del paesaggio e conservazione dei monumenti storici nell’adempimento dei compiti della Confederazione****
+### Capo 1: Protezione della natura, protezione del paesaggio e conservazione dei monumenti storici nell’adempimento dei compiti della Confederazione
 
 [^lvlu1-chap1-1]
 
@@ -322,7 +322,7 @@ Le spese della procedura di ricorso dinnanzi alle autorità federali sono a cari
 
 [^12g-1]: Introdotto dal n. II 1 della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
-### Capo 2: Promovimento della protezione della natura, della protezione del paesaggio e della conservazione dei monumenti storici da parte della Confederazione e provvedimenti federali****
+### Capo 2: Promovimento della protezione della natura, della protezione del paesaggio e della conservazione dei monumenti storici da parte della Confederazione e provvedimenti federali
 
 [^lvlu1-chap2-1]
 
@@ -402,13 +402,14 @@ Allorché un pericolo imminente minacci un sito naturale secondo l’articolo 15
 
 [^16a-1]
 
-<sup>1</sup> L’Assemblea federale stanzia mediante decreto federale semplice crediti quadro di durata limitata per l’assegnazione di sussidi.
+<sup>1</sup> L’Assemblea federale stanzia mediante decreto federale semplice crediti d’impegno[^16a-2] di durata limitata per l’assegnazione di sussidi.
 
-<sup>2</sup> Il finanziamento dei settori della protezione del paesaggio e della conservazione dei monumenti storici è retto dall’articolo 27 della legge dell’11 dicembre 2009[^16a-2] sulla promozione della cultura.[^16a-3]
+<sup>2</sup> Il finanziamento dei settori della protezione del paesaggio e della conservazione dei monumenti storici è retto dall’articolo 27 della legge dell’11 dicembre 2009[^16a-3] sulla promozione della cultura.[^16a-4]
 
 [^16a-1]: Introdotto dall’all. n. 9 della LF del 5 ott. 1990 sui sussidi ([RU 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [FF 1987 I 297](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297)). Nuovo testo giusta il n. II 7 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^16a-2]: [RS 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
-[^16a-3]: Introdotto dall’all. n. II 5 della LF dell’11 dic. 2009 sulla promozione della cultura, in vigore dal 1° gen. 2012 ([RU 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)[4459](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^16a-2]: Nuova espr. giusta l’all. n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^16a-3]: [RS 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
+[^16a-4]: Introdotto dall’all. n. II 5 della LF dell’11 dic. 2009 sulla promozione della cultura, in vigore dal 1° gen. 2012 ([RU 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)[4459](https://fedlex.data.admin.ch/eli/fga/2007/683)).
 
 ### Restituzione di sussidi
 
@@ -569,7 +570,7 @@ Per l’acclimazione di specie, sottospecie e razze animali e vegetali forestier
 
 [^23-1]: Nuovo testo giusta l’art. 27 n. 2 della LF del 20 giu. 1986 su la caccia e la protezione dei mammiferi e degli uccelli selvatici, in vigore dal 1° apr. 1988 ([RU 1988 506](https://fedlex.data.admin.ch/eli/oc/1988/506_506_506); [FF 1983 II 1169](https://fedlex.data.admin.ch/eli/fga/1983/2_1197_1229_1169)).
 
-### Capo 3*a*:**** Paludi e zone palustri di particolare bellezza e d’importanza nazionale
+### Capo 3*a*: Paludi e zone palustri di particolare bellezza e d’importanza nazionale
 
 [^lvlu1-chap3a-1]
 
@@ -634,7 +635,7 @@ Fermo restando il presupposto del capoverso 1, sono segnatamente ammissibili:
 - c. misure per proteggere l’uomo da catastrofi naturali;
 - d. gli impianti infrastrutturali occorrenti per l’applicazione delle lettere a a c.
 
-### Capo 3*b*:**** Parchi d’importanza nazionale
+### Capo 3*b*: Parchi d’importanza nazionale
 
 [^lvlu1-chap3b-1]
 
@@ -763,7 +764,7 @@ Il Consiglio federale emana prescrizioni per quanto concerne:
 
 [^23m-1]: [RS 454](https://fedlex.data.admin.ch/eli/cc/1981/236_236_236)
 
-### Capo 3*c*:**** Risorse genetiche
+### Capo 3*c*: Risorse genetiche
 
 [^lvlu1-chap3c-1]
 
@@ -928,7 +929,7 @@ Indipendentemente da un procedimento penale, chiunque danneggia una rarità natu
 
 [^24e-1]: Introdotto dal n. I della LF del 19 giu. 1987 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)). Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
-### Capo 5: Esecuzione, organizzazione e informazione****
+### Capo 5: Esecuzione, organizzazione e informazione
 
 [^lvlu1-chap5-1]
 
