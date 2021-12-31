@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.96"
 title: "Règlement d'exécution du plan cantonal de relance en vue de contrer les effets de la crise sanitaire et économique due au coronavirus («Contribution au financement des salaires des apprenti-e-s de première année»)"
 language: fr
-version: 2020-11-24
-valid_until: 2021-12-31
-version_adopted: 2020-11-24
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-12-14
 adopted: 2020-11-24
 in_force: 2020-11-24
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.96"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6656/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7044/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6656/pdf_file"
 
 COVID-19, plan de relance – Salaires des apprenti-e-s – R
 
-du 24.11.2020 (version entrée en vigueur le 24.11.2020)
+du 24.11.2020 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -62,7 +62,7 @@ Arrête:
 
 <sup>3</sup> Les demandes doivent parvenir au plus tard, pour chacune des rentrées scolaires, respectivement jusqu'au 31 mars 2021, 31 mars 2022 et 30 novembre 2022.
 
-<sup>4</sup> Les demandes concernant les CFC d'agriculteurs et agricultrices changeant chaque année de formateurs et formatrices en entreprise sont traitées par l'Institut agricole de l'Etat de Fribourg (IAG). En effet, le montant global est réparti par l'IAG entre les entreprises formatrices, proportionnellement à la durée du contrat.
+<sup>4</sup> Les demandes concernant les CFC d'agriculteurs et agricultrices changeant chaque année de formateurs et formatrices en entreprise sont traitées par Grangeneuve. En effet, le montant global est réparti par Grangeneuve entre les entreprises formatrices, proportionnellement à la durée du contrat.
 
 #### Art. 5
 

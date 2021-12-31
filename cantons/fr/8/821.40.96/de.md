@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.96"
 title: Ausführungsreglement zum kantonalen Wiederankurbelungsplan zur Bewältigung der Gesundheits- und Wirtschaftskrise infolge des Coronavirus («Beitrag an den Lohn von Lernenden im 1. Lehrjahr»)
 language: de
-version: 2020-11-24
-valid_until: 2021-12-31
-version_adopted: 2020-11-24
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-12-14
 adopted: 2020-11-24
 in_force: 2020-11-24
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.96"
-pdf: "https://bdlf.fr.ch/api/de/versions/6656/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7044/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6656/pdf_file"
 
 COVID-19, Wiederankurbelungsplan – Lohn von Lernenden – R
 
-vom 24.11.2020 (Fassung in Kraft getreten am 24.11.2020)
+vom 24.11.2020 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -62,7 +62,7 @@ beschliesst:
 
 <sup>3</sup> Das Gesuch ist für das jeweilige Schuljahr bis spätestens am 31. März 2021, 31. März 2022 oder 20. November 2022 einzureichen.
 
-<sup>4</sup> Die Gesuche für Landwirtinnen und Landwirte EFZ, die jedes Jahr den Bildungsbetrieb wechseln, werden vom Landwirtschaftlichen Institut des Kantons Freiburg (LIG) bearbeitet. Der gesamte Betrag des Gutscheins wird vom LIG auf die Lehrbetriebe im Verhältnis zur Dauer des Lehrvertrags aufgeteilt.
+<sup>4</sup> Die Gesuche für Landwirtinnen und Landwirte EFZ, die jedes Jahr den Bildungsbetrieb wechseln, werden von Grangeneuve bearbeitet. Der gesamte Betrag des Gutscheins wird von Grangeneuve auf die Lehrbetriebe im Verhältnis zur Dauer des Lehrvertrags aufgeteilt.
 
 #### Art. 5
 
