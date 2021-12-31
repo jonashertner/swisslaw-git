@@ -4,11 +4,11 @@ title: Verordnung vom 16. Dezember 2016 über das Schlachten und die Fleischkont
 short: VSFK
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/66"
 language: de
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2017-66-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-66-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20200701/de"
 
 (VSFK)
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2020)
+vom 16. Dezember 2016 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -521,21 +521,23 @@ Wer Tiere zur Schlachtung liefert, muss zuhanden der Fleischkontrolle eine schri
 Die Gesundheitsmeldung für Hausgeflügel muss 72 bis 12 Stunden vor der Schlachtung erfolgen und zusätzlich folgende Angaben enthalten:
 
 - a. die Informationen zur Lebensmittelkette nach Artikel 22 Absatz 1;
-- b. den Namen und die Adresse der Tierhalterin oder des Tierhalters (inklusive Identifikationsnummer [BUR-Nummer], des Betriebs nach Art. 3 Abs. 2 Bst. c der V vom 30. Juni 1993[^24-1] über das Betriebs- und Unternehmensregister oder die ihm von der Betreiberin der Tierverkehrsdatenbank [TVD-Verordnung vom 26. Okt. 2011[^24-2]] zugeteilte TVD-Nummer);
+- b.[^24-1] den Namen und die Adresse der Tierhalterin oder des Tierhalters sowie die BUR-Nummer der Tierhaltung nach Artikel 3 Absatz 2 Buchstabe c der Verordnung vom 30. Juni 1993[^24-2] über das Betriebs- und Unternehmensregister oder die TVD-Nummer der Tierhaltung nach Artikel 15 Absatz 1 der Verordnung vom 3. November 2021[^24-3] über die Identitas AG und die Tierverkehrsdatenbank (IdTVD-V);
 - c. den Namen und die Adresse des Schlachtbetriebs sowie das vorgesehene Datum der Schlachtung;
 - d. die Anzahl und das Alter der Tiere, die zur Schlachtung geliefert werden;
 - e. das Datum der Einstallung und die Anzahl der eingestallten Tiere;
 - f. das Datum der Ausstallung und die Anzahl der ausgestallten Tiere;
 - g. die Sterblichkeitsrate der Tiere während der Mast;
-- h. den Befund der Untersuchung der von der Geflügelhalterin oder dem Geflügelhalter nach Artikel 257 Absatz 2 Buchstabe c TSV[^24-3] entnommenen Proben auf *Salmonella*-Infektionen.
+- h. den Befund der Untersuchung der von der Geflügelhalterin oder dem Geflügelhalter nach Artikel 257 Absatz 2 Buchstabe c TSV[^24-4] entnommenen Proben auf *Salmonella*-Infektionen.
 
 <sup>4</sup> Das Auftreten von besonderen Ereignisse in der Zeit zwischen dem Versand der Gesundheitsmeldung und der Ankunft der Tiere im Schlachthof ist der Fleischkontrolle mündlich zu melden.
 
-<sup>5</sup> Ist ein Begleitdokument nach Artikel 12 TSV vorgeschrieben, so ist die Gesundheitsmeldung durch die Tierhalterin oder den Tierhalter auf diesem Dokument und für Equiden im Equidenpass zu machen. Bei Equiden, die vor dem 31. Dezember ihres Geburtsjahres geschlachtet werden, sind diese Angaben in der Aufnahmebestätigung nach Artikel 22 Absatz 2 der TDV-Verordnung vom 26. Oktober 2011 zu machen.
+<sup>5</sup> Ist ein Begleitdokument nach Artikel 12 TSV vorgeschrieben, so ist die Gesundheitsmeldung durch die Tierhalterin oder den Tierhalter auf diesem Dokument zu machen. Für Equiden ist sie im Equidenpass zu machen. Bei Equiden, die vor dem 31. Dezember ihres Geburtsjahres geschlachtet werden, sind diese Angaben in der Aufnahmebestätigung nach Artikel 27 Absatz 2 IdTVD-V zu machen.[^24-5]
 
-[^24-1]: [SR 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
-[^24-2]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^24-3]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^24-1]: Fassung gemäss Anhang 3 Ziff. II 6 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^24-2]: [SR 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
+[^24-3]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^24-4]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^24-5]: Fassung gemäss Anhang 3 Ziff. II 6 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 25
 
@@ -763,7 +765,7 @@ Bei Beanstandungen entscheidet die amtliche Tierärztin oder der amtliche Tierar
 
 <sup>1</sup> Nimmt die Eigentümerin oder der Eigentümer den Entscheid sofort an, so werden die genussuntauglichen Schlachttierkörper und Schlachterzeugnisse unverzüglich als tierische Nebenprodukte entsorgt.
 
-<sup>2</sup> In allen anderen Fällen entscheidet die amtliche Tierärztin oder der amtliche Tierarzt, wie lange der Schlachttierkörper und die Schlachterzeugnisse aufbewahrt werden müssen
+<sup>2</sup> In allen anderen Fällen entscheidet die amtliche Tierärztin oder der amtliche Tierarzt, wie lange der Schlachttierkörper und die Schlachterzeugnisse aufbewahrt werden müssen.
 
 <sup>3</sup> Die Eigentümerin oder der Eigentümer kann verlangen, dass alle Teile bis zum Ablauf der Einsprachefrist oder, wenn Einsprache erhoben werden sollte, bis zum Abschluss des Verfahrens unter sichernden Bedingungen aufbewahrt werden.
 
@@ -1169,7 +1171,7 @@ Sie oder er stellt dem BLV auf Verlangen zur Verfügung:
 - d. die Bewilligungen nach Artikel 6;
 - e. die Gesundheitsmeldungen.
 
-<sup>4</sup> ...[^59-1]
+<sup>4</sup> …[^59-1]
 
 [^59-1]: Aufgehoben durch Anhang Ziff. 1 der V vom 31. Okt. 2018 über die Informationssysteme für den öffentlichen Veterinärdienst, in Kraft seit 1. Jan. 2019 ([AS 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
 
@@ -1209,6 +1211,7 @@ Sie setzen die Gebühren für die Untersuchung wie folgt fest:
 <tr><td>g. anderes Schlachtvieh</td><td>4.50</td><td>8.-</td></tr>
 <tr><td>h. Hausgeflügel, Hauskaninchen</td><td>0.01</td><td>0.20</td></tr>
 <tr><td>i. Gehegewild</td><td>0.75</td><td>8.-</td></tr>
+<tr><td>[tab]</td><td></td><td></td></tr>
 <tr><td>j. Federwild, Hase</td><td>0.01</td><td>0.20</td></tr>
 <tr><td>k. anderes Wild</td><td>0.50</td><td>8.-</td></tr>
 </table>
@@ -1250,9 +1253,9 @@ Nach Zeitaufwand beträgt die Gebühr für die Untersuchung unabhängig von der 
 
 <sup>2</sup> Der nachstehende Erlass wird wie folgt geändert:
 
-...[^62-2]
+…[^62-2]
 
-[^62-1]: [[AS 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)Anhang 2 Ziff. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)Ziff. II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)Anhang 2 Ziff. II 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Anhang Ziff. II 3]
+[^62-1]: [[AS 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747); [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [4809](https://fedlex.data.admin.ch/eli/oc/2006/739); [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)Anhang 2 Ziff. 2, [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)Ziff. II 1; [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 2, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)Anhang 2 Ziff. II 2; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 8; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 6; [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608), [5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Anhang Ziff. II 3]
 [^62-2]: Die Änd. kann unter [AS 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)konsultiert werden.
 
 #### Art. 63

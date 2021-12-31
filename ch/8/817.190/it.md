@@ -4,11 +4,11 @@ title: Ordinanza del 16 dicembre 2016 concernente la macellazione e il controllo
 short: OMCC
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/66"
 language: it
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2017-66-20200701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-66-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20200701/it"
 
 (OMCC)
 
-del 16 dicembre 2016 (Stato 1° luglio 2020)
+del 16 dicembre 2016 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -266,17 +266,19 @@ Al di fuori dei macelli autorizzati sono ammessi:[^9-1]
 
 [^chap3-sec2a-1]: Introdotta dal n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
-**Art. 9**a
+#### Art. 9a
 
 <sup>1</sup> Lʼuccisione in azienda per la produzione di carne è ammessa per il bestiame da macello, l’uccisione al pascolo per la produzione di carne è ammessa per gli animali della specie bovina a partire da quattro mesi di vita e per la selvaggina d’allevamento.
 
-<sup>2</sup> I detentori di animali che effettuano l’uccisione in azienda o al pascolo per la produzione di carne necessitano di un’autorizzazione dell’autorità cantonale competente. Questa autorizzazione è rilasciata alle seguenti condizioni:
+<sup>2</sup>
+
+I detentori di animali che effettuano l’uccisione in azienda o al pascolo per la produzione di carne necessitano di un’autorizzazione dell’autorità cantonale competente. Questa autorizzazione è rilasciata alle seguenti condizioni:
 
 - a.
 
   il detentore di animali garantisce che siano rispettati i requisiti della legislazione sulla protezione degli animali per lo stordimento e il dissanguamento degli animali; in particolare deve provvedere affinché:
 
-  - 1\. in caso di uccisione in azienda per la produzione di carne, gli animali vengano immobilizzati in una struttura adeguata e storditi e dissanguati da una persona esperta ai sensi dell’articolo 177 capoverso 1<sup>bis</sup> dell’ordinanza del 23 aprile 2008[^chap3-sec2a-2] sulla protezione degli animali (OPAn),
+  - 1\. in caso di uccisione in azienda per la produzione di carne, gli animali vengano immobilizzati in una struttura adeguata e storditi e dissanguati da una persona esperta ai sensi dell’articolo 177 capoverso 1<sup>bis</sup> dell’ordinanza del 23 aprile 2008[^9a-1] sulla protezione degli animali (OPAn),
   - 2\. in caso di uccisione al pascolo per la produzione di carne, gli animali vengano abbattuti e dissanguati nel rispetto delle condizioni di sicurezza da una persona esperta ai sensi dell’articolo 177 capoverso 1<sup>bis</sup> OPAn,
   - 3\. il successo dello stordimento, il dissanguamento sufficiente e il sopraggiungere del decesso siano controllati e vengano adottate misure immediate se lo stordimento o il dissanguamento non siano stati eseguiti correttamente;
 
@@ -289,7 +291,7 @@ Al di fuori dei macelli autorizzati sono ammessi:[^9-1]
 
 <sup>5</sup> In caso di uccisione al pascolo per la produzione di carne, l’abbattimento e il dissanguamento degli animali devono essere sempre sorvegliati da un veterinario ufficiale.
 
-[^chap3-sec2a-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^9a-1]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 
 ### Sezione 3: Bestiame da macello malato o infortunato e selvaggina infortunata
 
@@ -522,21 +524,23 @@ Chi consegna animali destinati alla macellazione deve confermare per scritto al 
 La dichiarazione sanitaria per i volatili da cortile deve essere effettuata da 72 a 12 ore prima della macellazione e contenere le seguenti indicazioni aggiuntive:
 
 - a. le informazioni sulla catena alimentare secondo l’articolo 22 capoverso 1;
-- b. il nome e l’indirizzo del detentore di animali, incluso un numero di identificazione (numero RIS) dell’azienda, ai sensi dell’articolo 3 capoverso 2 lettera c dell’ordinanza del 30 giugno 1993[^24-1] sul Registro delle imprese e degli stabilimenti, oppure il numero BDTA assegnato dal gestore della banca dati (ordinanza BDTA del 26 ottobre 2011[^24-2]);
+- b.[^24-1] il nome e l’indirizzo del detentore di animali nonché il numero RIS dell’azienda detentrice di animali, ai sensi dell’articolo 3 capoverso 2 lettera c dell’ordinanza del 30 giugno 1993[^24-2] sul Registro delle imprese e degli stabilimenti, oppure il numero BDTA dell’azienda detentrice di animali ai sensi dell’articolo 15 capoverso 1 dell’ordinanza del 3 novembre 2021[^24-3] concernente Identitas AG e la banca dati sul traffico di animali (OIBDTA);
 - c. il nome e l’indirizzo del macello e la data di macellazione prevista;
 - d. il numero e l’età degli animali destinati alla macellazione;
 - e. la data di stabulazione e il numero degli animali stabulati;
 - f. la data di uscita dal pollaio e il numero degli animali trasferiti;
 - g. il tasso di mortalità degli animali durante l’ingrasso;
-- h. il risultato dell’analisi dei campioni prelevati dall’avicoltore per la ricerca di infezioni da *Salmonella* secondo l’articolo 257 capoverso 2 lettera c OFE[^24-3].
+- h. il risultato dell’analisi dei campioni prelevati dall’avicoltore per la ricerca di infezioni da *Salmonella* secondo l’articolo 257 capoverso 2 lettera c OFE[^24-4].
 
 <sup>4</sup> La comparsa di eventi particolari nel periodo compreso tra l’invio della dichiarazione sanitaria e l’arrivo degli animali al macello deve essere comunicata oralmente al veterinario ufficiale.
 
-<sup>5</sup> Se è prescritto un certificato d’accompagnamento secondo l’articolo 12 OFE, la dichiarazione sanitaria effettuata dal detentore di animali deve figurare su tale documento; per gli equidi deve figurare sul passaporto per equide. Per gli equidi macellati prima del 31 dicembre del rispettivo anno di nascita, queste indicazioni vanno riportate nell’attestato di registrazione di cui all’articolo 22 capoverso 2 dell’ordinanza BDTA del 26 ottobre 2011.
+<sup>5</sup> Se è prescritto un certificato d’accompagnamento secondo l’articolo 12 OFE, la dichiarazione sanitaria effettuata dal detentore di animali deve figurare su tale documento. Per gli equidi deve figurare sul passaporto per equide. Per gli equidi macellati prima del 31 dicembre del rispettivo anno di nascita, queste indicazioni vanno riportate nell’attestato di registrazione di cui all’articolo 27 capoverso 2 OIBDTA.[^24-5]
 
-[^24-1]: [RS 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
-[^24-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^24-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^24-1]: Nuovo testo giusta l’all. 3 n. II 6 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^24-2]: [RS 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
+[^24-3]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^24-4]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^24-5]: Nuovo testo giusta l’all. 3 n. II 6 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 25
 

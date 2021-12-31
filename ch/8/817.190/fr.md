@@ -4,11 +4,11 @@ title: "Ordonnance du 16 décembre 2016 concernant l'abattage d'animaux et le co
 short: OAbCV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/66"
 language: fr
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-66-20200701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-66-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20200701/fr"
 
 (OAbCV)
 
-du 16 décembre 2016 (Etat le 1<sup>er</sup> juillet 2020)
+du 16 décembre 2016 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -267,17 +267,19 @@ Sont admis en dehors des abattoirs autorisés:
 
 [^chap3-sec2a-1]: Introduite par le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
-**Art. 9**a
+#### Art. 9a
 
 <sup>1</sup> La mise à mort à la ferme pour la production de viande est admise pour le bétail de boucherie, la mise à mort au pré pour la production de viande est admise pour les animaux de l’espèce bovine à partir de quatre mois et pour le gibier d’élevage.
 
-<sup>2</sup> Les détenteurs d’animaux qui souhaitent pratiquer la mise à mort à la ferme ou au pré pour la production de viande doivent demander une autorisation à l’autorité cantonale compétente. L’autorisation est assortie des charges suivantes:
+<sup>2</sup>
+
+Les détenteurs d’animaux qui souhaitent pratiquer la mise à mort à la ferme ou au pré pour la production de viande doivent demander une autorisation à l’autorité cantonale compétente. L’autorisation est assortie des charges suivantes:
 
 - a.
 
   le détenteur doit garantir le respect des exigences de la législation sur la protection des animaux en ce qui concerne l’étourdissement et la saignée des animaux; il doit veiller en particulier à ce que:
 
-  - 1\. en cas de mise à mort à la ferme pour la production de viande, les animaux soient immobilisés dans une installation appropriée, et qu’ils soient étourdis et saignés par une personne compétente au sens de l’art. 177, al. 1<sup>bis</sup>, de l’ordonnance du 23 avril 2008 sur la protection des animaux (OPAn)[^chap3-sec2a-2],
+  - 1\. en cas de mise à mort à la ferme pour la production de viande, les animaux soient immobilisés dans une installation appropriée, et qu’ils soient étourdis et saignés par une personne compétente au sens de l’art. 177, al. 1<sup>bis</sup>, de l’ordonnance du 23 avril 2008 sur la protection des animaux (OPAn)[^9a-1],
   - 2\. en cas de mise à mort au pré pour la production de viande, les animaux soient tirés dans des conditions sûres et saignés par une personne compétente au sens de l’art. 177, al. 1<sup>bis</sup>, OPAn,
   - 3\. l’efficacité de l’étourdissement, la saignée suffisante et la mort effective soient vérifiées et que des mesures immédiates soient prises si l’étourdissement ou la saignée ne se sont pas passés correctement;
 
@@ -290,7 +292,7 @@ Sont admis en dehors des abattoirs autorisés:
 
 <sup>5</sup> En cas de mise à mort au pré pour la production de viande, un vétérinaire officiel doit toujours surveiller le tir et la saignée des animaux.
 
-[^chap3-sec2a-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^9a-1]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 
 ### Section 3 Bétail de boucherie malade ou accidenté et gibier sauvage accidenté
 
@@ -523,21 +525,23 @@ Quiconque livre des animaux à l’abattage doit remettre à l’attention des o
 La déclaration sanitaire pour la volaille domestique doit être faite entre 72 et 12 heures avant l’abattage et comprendre en outre les indications suivantes:
 
 - a. les informations relatives à la chaîne alimentaire visées à l’art. 22, al. 1;
-- b. les nom et adresse du détenteur d’animaux (y compris le numéro d’identification de l’exploitation [numéro REE] visé à l’art. 3, al. 2, let. c, de l’ordonnance du 30 juin 1993 sur le registre des entreprises et des établissements[^24-1] ou le numéro BDTA qui lui a été octroyé par l’exploitant de la banque de données sur le trafic des animaux [ordonnance du 26 octobre 2011 sur la BDTA[^24-2]]);
+- b.[^24-1] les nom et adresse du détenteur d’animaux ainsi que le numéro REE de l’unité d’élevage visé à l’art. 3, al. 2, let. c, de l’ordonnance du 30 juin 1993 sur le Registre des entreprises et des établissements[^24-2] ou le numéro BDTA de l’unité d’élevage visé à l’art. 15, al. 1, de l’ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux (OId-BDTA)[^24-3];
 - c. le nom et l’adresse de l’abattoir ainsi que la date d’abattage prévue;
 - d. le nombre d’animaux destinés à l’abattage et leur âge;
 - e. la date d’installation dans le parc avicole et le nombre d’animaux introduits;
 - f. la date de sortie du parc avicole et le nombre d’animaux sortis;
 - g. le taux de mortalité pendant l’engraissement;
-- h. le résultat de l’analyse des échantillons prélevés par l’aviculteur pour le dépistage des infections à *Salmonella* prescrite par l’art. 257, al. 2, let. c, OFE[^24-3].
+- h. le résultat de l’analyse des échantillons prélevés par l’aviculteur pour le dépistage des infections à *Salmonella* prescrite par l’art. 257, al. 2, let. c, OFE[^24-4].
 
 <sup>4</sup> La survenue d’événements particuliers durant la période comprise entre l’envoi de la déclaration sanitaire et l’arrivée des animaux à l’abattoir doit être déclarée oralement aux organes de contrôle des viandes.
 
-<sup>5</sup> Dans les cas où un document d’accompagnement est prescrit par l’art. 12 OFE, la déclaration sanitaire effectuée par le détenteur doit figurer sur ce document; pour les équidés, elle doit figurer sur le passeport équin. Pour les équidés qui sont abattus avant le 31 décembre de leur année de naissance, ces indications doivent figurer dans la confirmation d’enregistrement visée à l’art. 22, al. 2, de l’ordonnance du 26 octobre 2011 sur la BDTA.
+<sup>5</sup> Dans les cas où un document d’accompagnement est prescrit par l’art. 12 OFE, la déclaration sanitaire effectuée par le détenteur doit figurer sur ce document. Pour les équidés, elle doit figurer sur le passeport équin. Pour les équidés qui sont abattus avant le 31 décembre de leur année de naissance, ces indications doivent figurer dans la confirmation d’enregistrement visée à l’art. 27, al. 2, OId-BDTA.[^24-5]
 
-[^24-1]: [RS 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
-[^24-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^24-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^24-1]: Nouvelle teneur selon l’annexe 3 ch. II 6 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^24-2]: [RS 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
+[^24-3]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^24-4]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^24-5]: Nouvelle teneur selon l’annexe 3 ch. II 6 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 25
 
