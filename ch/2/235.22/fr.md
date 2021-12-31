@@ -4,11 +4,11 @@ title: Ordonnance du 17 août 2016 sur le système d’information E-VERA
 short: O E-VERA
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/487"
 language: fr
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2016-08-17
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2016-487-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-487-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20210401/fr"
 
 (O E-VERA)
 
-du 17 août 2016 (Etat le 1<sup>er</sup> avril 2021)
+du 17 août 2016 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -88,12 +88,12 @@ Sont traitées dans E-VERA les données relatives aux personnnes ci‑après:
 
 <sup>1</sup> Toutes les données sont saisies dans E-VERA par les représentations. Le système attribue automatiquement un numéro à toute personne qui y est saisie.
 
-<sup>2</sup> Les numéros AVS au sens de l’art. 50*c* LAVS[^6-1] (numéros AVS) saisis dans E‑VERA sont vérifiés conformément aux art. 133<sup>bis</sup> et 134<sup>quater</sup> du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^6-2] et, le cas échéant, corrigés. La Centrale de compensation (CdC) attribue un numéro AVS aux personnes qui n’en ont pas.
+<sup>2</sup> Les numéros AVS saisis dans E-VERA sont vérifiés conformément aux art. 133<sup>bis</sup> et 134<sup>quater</sup> du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^6-1] et, le cas échéant, corrigés. La Centrale de compensation (CdC) attribue un numéro AVS aux personnes qui n’en ont pas.[^6-2]
 
 <sup>3</sup> E-VERA vérifie par consultation en ligne si les personnes qui y sont saisies sont inscrites dans le système de recherches informatisées de police (RIPOL) en raison d’un crime ou d’un délit. Le résultat de la consultation n’est pas enregistré dans E‑VERA.
 
-[^6-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^6-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^6-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^6-2]: Nouvelle teneur selon l’annexe ch. II 11 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 7
 

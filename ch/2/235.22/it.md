@@ -3,11 +3,11 @@ sr: "235.22"
 title: "Ordinanza del 17 agosto 2016 concernente il sistema d'informazione E-VERA (Ordinanza E-VERA)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/487"
 language: it
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2016-08-17
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2016-487-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-487-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20210401/it"
 
 (Ordinanza E-VERA)
 
-del 17 agosto 2016 (Stato 1° aprile 2021)
+del 17 agosto 2016 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -87,12 +87,12 @@ In E-VERA sono trattati i dati delle persone seguenti:
 
 <sup>1</sup> Tutti i dati contenuti in E-VERA sono registrati dalle rappresentanze. Il sistema attribuisce automaticamente un numero a ogni persona registrata.
 
-<sup>2</sup> I numeri d’assicurato di cui all’articolo 50*c* LAVS[^6-1] (Numero d’assicurato) registrati in E-VERA sono verificati e, se del caso, rettificati secondo gli articoli 133<sup>bis</sup> e 134<sup>quater</sup> dell’ordinanza del 31 ottobre 1947[^6-2] sull’assicurazione per la vecchiaia e per i superstiti. L’Ufficio centrale di compensazione (UCC) assegna un numero d’assicurato alle persone che ne sono prive.
+<sup>2</sup> I numeri AVS registrati in E-VERA sono verificati e, se del caso, rettificati secondo gli articoli 133<sup>bis</sup> e 134<sup>quater</sup> dell’ordinanza del 31 ottobre 1947[^6-1] sull’assicurazione per la vecchiaia e per i superstiti. L’Ufficio centrale di compensazione (UCC) assegna un numero AVS alle persone che ne sono prive.[^6-2]
 
 <sup>3</sup> E-VERA verifica mediante una consultazione online se le persone registrate in E‑VERA sono segnalate nel sistema di ricerca informatizzato di polizia (RIPOL) per aver commesso un crimine o un delitto. Il risultato della consultazione non viene memorizzato in E-VERA.
 
-[^6-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^6-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^6-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^6-2]: Nuovo testo giusta l’all. n. II 11 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 7
 
@@ -111,9 +111,11 @@ I seguenti servizi possono consultare mediante procedura di richiamo tutti i dat
 - c. il Centro di gestione delle crisi DFAE: per localizzare rapidamente i cittadini svizzeri nelle situazioni di crisi;
 - d. l’Ufficio passaporti DFAE: per rintracciare i titolari di passaporti diplomatici o di servizio all’estero;
 - e. la CSC: per adempiere i compiti previsti dalla legge nell’ambito dell’assicurazione per la vecchiaia e per i superstiti e dell’assicurazione per l’invalidità;
-- f. l’UCC: per assegnare il numero d’assicurato.
+- f. l’UCC: per assegnare il numero AVS[^7-1].
 
 <sup>4</sup> L’unità Informatica DFAE dispone dei diritti di accesso necessari per adempiere i propri compiti.
+
+[^7-1]: Nuova espr. giusta l’all. n. II 11 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 8
 
@@ -127,7 +129,7 @@ I dati di cui all’allegato 1 vengono trasmessi automaticamente e in forma cifr
 
 - a. all’Ufficio federale di statistica: nell’ambito dell’ordinanza del 30 giugno 1993[^8-1] sulle rilevazioni statistiche e dell’ordinanza del 21 novembre 2007[^8-2] sull’armonizzazione dei registri;
 - b. alla CSC: per l’esecuzione delle mutazioni notificate alle rappresentanze che riguardano dossier gestiti dalla CSC;
-- c. all’UCC: per la verifica e l’assegnazione del numero d’assicurato.
+- c. all’UCC: per la verifica e l’assegnazione del numero AVS.
 
 <sup>3</sup> Se altre autorità hanno bisogno dei dati registrati in E-VERA per l’adempimento dei loro compiti, le rappresentanze e la DC possono comunicarglieli.
 
@@ -273,15 +275,15 @@ Legenda:
 <tr><td>Dati sulla naturalizzazione, perdita della cittadinanza: luogo, data, autorità, passaggio in giudicato</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
 <tr><td>Appellativo</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>D</td><td></td><td></td><td>C</td></tr>
 <tr><td>Titolo</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>D</td><td></td><td></td><td>C</td></tr>
-<tr><td>Numero d’assicurato</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
+<tr><td>Numero AVS</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
 <tr><td>Livello di formazione</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>D</td><td>C</td></tr>
 <tr><td>Professione: designazione della professione, categoria professionale, formazione più elevata conclusa, data della registrazione</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>D</td><td>C</td></tr>
 <tr><td>Dati sugli eventi di stato civile: matrimonio, divorzio, registrazione dell’unione domestica, scioglimento dell’unione domestica, separazione, inizio della separazione, fine della separazione, motivo dello scioglimento, dichiarazione di nullità, adozione, nascita, cambiamento di nome, attestato ufficiale, data, luogo, sentenza, data del passaggio in giudicato</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
 <tr><td>Dati sul decesso: data, luogo, tipo di notifica</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
 <tr><td>Lingua</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
 <tr><td>Lingua per la corrispondenza</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>D</td><td>C</td></tr>
-<tr><td>Dati su coniuge, partner: cognome, nome, data di nascita, numero d’assicurato</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B</td><td></td><td>C</td></tr>
-<tr><td>Dati su figli e autorità parentale: cognome, nome, data di nascita, numero d’assicurato, titolari dell’autorità parentale</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B</td><td></td><td>C</td></tr>
+<tr><td>Dati su coniuge, partner: cognome, nome, data di nascita, numero AVS</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B</td><td></td><td>C</td></tr>
+<tr><td>Dati su figli e autorità parentale: cognome, nome, data di nascita, numero AVS, titolari dell’autorità parentale</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B</td><td></td><td>C</td></tr>
 <tr><td>Dati di contatto: indirizzi, coordinate GPS, indirizzo e-mail, numero di telefono, numero di fax</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B</td><td>D</td><td>C</td></tr>
 <tr><td>Dati sulla circoscrizione consolare</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td></td><td>D</td><td>C</td></tr>
 <tr><td>N. personale, art. 6 cpv. 1</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td></td><td></td></tr>
@@ -310,5 +312,5 @@ Allegato 2
 
 <table>
 <tr><th>Sistema d’informazione</th><th>Dati personali</th><th>Periodicità</th></tr>
-<tr><td>EDAssist+</td><td>a. Cognome b. Nome c. Indirizzo, mezzi di comunicazione (dati di contatto) d. Data di nascita e. Sesso f. Lingue g. Luoghi d’origine h. Cittadinanze i. Numero d’assicurato j. Numero personale</td><td>In base alle esigenze</td></tr>
+<tr><td>EDAssist+</td><td>a. Cognome b. Nome c. Indirizzo, mezzi di comunicazione (dati di contatto) d. Data di nascita e. Sesso f. Lingue g. Luoghi d’origine h. Cittadinanze i. Numero AVS j. Numero personale</td><td>In base alle esigenze</td></tr>
 </table>

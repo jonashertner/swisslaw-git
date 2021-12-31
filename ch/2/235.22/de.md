@@ -4,11 +4,11 @@ title: "Verordnung vom 17. August 2016 über das Informationssystem E-VERA (Vero
 short: VEVERA
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/487"
 language: de
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2016-08-17
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2016-487-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-487-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20210401/de"
 
 (Verordnung E-VERA, VEVERA)
 
-vom 17. August 2016 (Stand am 1. April 2021)
+vom 17. August 2016 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -88,12 +88,12 @@ Im E-VERA werden die Daten folgender Personen bearbeitet:
 
 <sup>1</sup> Sämtliche Daten des E-VERA werden von den Vertretungen erfasst. Das System teilt jeder Person automatisch eine Nummer zu.
 
-<sup>2</sup> Die im E-VERA erfassten Versichertennummern nach Artikel 50*c* AHVG[^6-1] (Versichertennummer) werden nach den Artikeln 133<sup>bis</sup> und 134<sup>quater</sup> der Verordnung vom 31. Oktober 1947[^6-2] über die Alters- und Hinterlassenenversicherung verifiziert und gegebenenfalls berichtigt. Personen ohne Versichertennummer weist die Zentrale Ausgleichsstelle (ZAS) die Versichertennummer zu.
+<sup>2</sup> Die im E-VERA erfassten AHV-Nummern werden nach den Artikeln 133<sup>bis</sup> und 134<sup>quater</sup> der Verordnung vom 31. Oktober 1947[^6-1] über die Alters- und Hinterlassenenversicherung verifiziert und gegebenenfalls berichtigt. Personen ohne AHV-Nummer weist die Zentrale Ausgleichsstelle (ZAS) die AHV-Nummer zu.[^6-2]
 
 <sup>3</sup> Das E-VERA überprüft mittels Online-Abfrage, ob im E-VERA erfasste Personen wegen eines Verbrechens oder Vergehens im automatisierten Polizeifahndungssystem (RIPOL) verzeichnet sind. Das Resultat der Abfrage wird im E-VERA nicht gespeichert.
 
-[^6-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^6-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^6-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^6-2]: Fassung gemäss Anhang Ziff. II 11 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 7
 
@@ -112,9 +112,11 @@ Die folgenden Stellen können für die nachstehenden Zwecke die Daten nach Anhan
 - c. das Krisenmanagementzentrum des EDA: zur raschen Lokalisierung von Schweizer Bürgerinnen und Bürgern in Krisensituationen;
 - d. das Passbüro EDA: zum Auffinden von Inhaberinnen und Inhabern von Diplomaten- und Dienstpässen im Ausland;
 - e. die SAK: zur Erfüllung der gesetzlichen Aufgaben im Bereich der Alters- und Hinterlassenenversicherung sowie der Invalidenversicherung;
-- f. die ZAS: zur Zuweisung der Versichertennummer.
+- f. die ZAS: zur Zuweisung der AHV-Nummer[^7-1].
 
 <sup>4</sup> Die Einheit für Informatik des EDA verfügt über diejenigen Zugriffsrechte, die zur Erfüllung ihrer Aufgaben notwendig sind.
+
+[^7-1]: Ausdruck gemäss Anhang Ziff. II 11 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 8
 
@@ -128,7 +130,7 @@ Den folgenden Stellen werden die Daten nach Anhang 1 automatisch und verschlüss
 
 - a. dem Bundesamt für Statistik: im Rahmen der Statistikerhebungsverordnung vom 30. Juni 1993[^8-1] und der Registerharmonisierungsverordnung vom 21. November 2007[^8-2];
 - b. der SAK: zur Vornahme der den Vertretungen gemeldeten Mutationen, die Dossiers betreffen, die von der SAK verwaltet werden;
-- c. der ZAS: zur Verifizierung und Zuweisung der Versichertennummer.
+- c. der ZAS: zur Verifizierung und Zuweisung der AHV-Nummer.
 
 <sup>3</sup> Die Vertretungen und die KD können im E-VERA erfasste Daten anderen Behörden bekannt geben, sofern diese die Daten zur Erfüllung ihrer Aufgaben benötigen.
 
@@ -197,7 +199,7 @@ Die Informatiksicherheit richtet sich nach:
 
 - a. der Verordnung vom 14. Juni 1993[^14-1] zum Bundesgesetz über den Datenschutz;
 - b.[^14-2] der Cyberrisikenverordnung vom 27. Mai 2020[^14-3];
-- c.[^14-4] ...
+- c.[^14-4] …
 
 <sup>2</sup> Die KD erlässt ein Bearbeitungsreglement. Dieses enthält die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie zur Kontrolle der Datenbearbeitung.
 
@@ -222,7 +224,7 @@ Die Informatiksicherheit richtet sich nach:
 
 Die VERA-Verordnung vom 7. Juni 2004[^16-1] wird aufgehoben.
 
-[^16-1]: [[AS 2004 2997](https://fedlex.data.admin.ch/eli/oc/2004/381), [2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)Anhang Ziff. 4, [2012 337](https://fedlex.data.admin.ch/eli/oc/2012/21)Art. 19]
+[^16-1]: [[AS 2004 2997](https://fedlex.data.admin.ch/eli/oc/2004/381); [2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)Anhang Ziff. 4; [2012 337](https://fedlex.data.admin.ch/eli/oc/2012/21)Art. 19]
 
 #### Art. 17
 
@@ -230,7 +232,7 @@ Die VERA-Verordnung vom 7. Juni 2004[^16-1] wird aufgehoben.
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^17-1]
+…[^17-1]
 
 [^17-1]: Die Änderungen können unter [AS 2016 2933](https://fedlex.data.admin.ch/eli/oc/2016/487)konsultiert werden.
 
@@ -274,15 +276,15 @@ Zeichenerklärung
 <tr><td>Angaben zu Einbürgerung, Verlust des Bürgerrechts: Ort, Datum, Behörde, Rechtskraft</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
 <tr><td>Anrede</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>D</td><td></td><td></td><td>C</td></tr>
 <tr><td>Titel</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>D</td><td></td><td></td><td>C</td></tr>
-<tr><td>Versichertennummer</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
+<tr><td>AHV-Nummer</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
 <tr><td>Bildungsstand</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>D</td><td>C</td></tr>
 <tr><td>Beruf: Berufsbezeichnung, Berufsgruppe, höchster Bildungsabschluss, Erfassungsdatum</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>D</td><td>C</td></tr>
 <tr><td>Angaben über Zivilstandsereignisse: Eheschliessung, Scheidung, Eintragung Partnerschaft, Auflösung Partnerschaft, Trennung, Trennungsbeginn, Trennungsende, Auflösungsgrund, Ungültigkeitserklärung, Adoption, Geburt, Namensänderung, amtlicher Nachweis, Datum, Ort, Urteil, Datum der Rechtskraft</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
 <tr><td>Angaben zum Tod: Datum, Ort, Meldungsart</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
 <tr><td>Sprache</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
 <tr><td>Korrespondenzsprache</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>D</td><td>C</td></tr>
-<tr><td>Angaben zur Ehegattin / zum Ehegatten, zur Partnerin / zum Partner: Name, Vorname, Geburtsdatum, Versichertennummer</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B</td><td></td><td>C</td></tr>
-<tr><td>Angaben zu Kindern und Sorgerecht: Name, Vorname, Geburtsdatum, Versichertennummer, Sorgerechtsberechtigte</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B</td><td></td><td>C</td></tr>
+<tr><td>Angaben zur Ehegattin / zum Ehegatten, zur Partnerin / zum Partner: Name, Vorname, Geburtsdatum, AHV-Nummer</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B</td><td></td><td>C</td></tr>
+<tr><td>Angaben zu Kindern und Sorgerecht: Name, Vorname, Geburtsdatum, AHV-Nummer, Sorgerechtsberechtigte</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B</td><td></td><td>C</td></tr>
 <tr><td>Kontaktangaben: Adressen, GPS-Daten, E-Mail-Adresse, Telefonnummer, Faxnummer</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B</td><td>D</td><td>C</td></tr>
 <tr><td>Angaben zum Konsularkreis</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td></td><td>D</td><td>C</td></tr>
 <tr><td>Personennummer nach Art. 6 Abs. 1</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td></td><td></td></tr>
@@ -311,5 +313,5 @@ Anhang 2
 
 <table>
 <tr><th>Informationssystem</th><th>Personendaten</th><th>Periodizität</th></tr>
-<tr><td>EDAssist+</td><td>a. Namen b. Vornamen c. Adressdaten und Kommunikationsmittel (Kontaktangaben) d. Geburtsdatum e. Geschlecht f. Sprachen g. Heimatorte h. Staatsangehörigkeiten i. Versichertennummer j. Personennummer</td><td>Nach Bedarf</td></tr>
+<tr><td>EDAssist+</td><td>a. Namen b. Vornamen c. Adressdaten und Kommunikationsmittel (Kontaktangaben) d. Geburtsdatum e. Geschlecht f. Sprachen g. Heimatorte h. Staatsangehörigkeiten i. AHV-Nummer j. Personennummer</td><td>Nach Bedarf</td></tr>
 </table>
