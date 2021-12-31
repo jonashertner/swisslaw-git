@@ -4,11 +4,11 @@ title: "Ordonnance du 19 juin 1995 sur la durée du travail et du repos des cond
 short: OTR 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
 language: fr
-version: 2019-02-01
+version: 2022-01-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20190201/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20190201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20190201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20190201/fr"
 
 (Ordonnance sur les chauffeurs, OTR 1)
 
-du 19 juin 1995 (Etat le 1<sup>er</sup> février 2019)
+du 19 juin 1995 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -63,7 +63,14 @@ Au sens de la présente ordonnance on entend par:
 - h.[^2-4] *activité professionnelle,* pour le salarié, le temps de travail, pour le conducteur indépendant, la durée de la conduite et les activités liées au transport;
 - i.[^2-5] *temps de repos,* la période durant laquelle le conducteur peut disposer librement de son temps;
 - j.[^2-6] *semaine,* la période qui court du lundi à 00 h 00 au dimanche à 24 h 00;
-- k.[^2-7] *équipage,* le cas où deux conducteurs ou plus sont engagés pour se relayer au volant d’un véhicule entre deux temps de repos.
+- k.[^2-7] *équipage,* le cas où deux conducteurs ou plus sont engagés pour se relayer au volant d’un véhicule entre deux temps de repos;
+- l.[^2-8]
+
+  *transport non commercial*, tout transport par route:
+
+  - 1\. qui n’est rémunéré ni directement ni indirectement,
+  - 2\. qui ne génère directement ou indirectement aucun revenu pour le conducteur du véhicule ou pour un tiers, et
+  - 3\. qui n’est lié à aucune activité professionnelle ou commerciale.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 [^2-2]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
@@ -72,6 +79,7 @@ Au sens de la présente ordonnance on entend par:
 [^2-5]: Introduite par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 [^2-6]: Introduite par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 [^2-7]: Introduite par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^2-8]: Introduite par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 
 ## Section 2 Domaine d’application
 
@@ -110,53 +118,56 @@ La présente ordonnance ne s’applique pas aux conducteurs des véhicules:
 - e. spécialement équipés pour des tâches médicales;
 - f. spécialement équipés pour le dépannage et utilisés dans un rayon de 100 km autour de leur point d’attache;
 - g.[^4-1] subissant des tests sur route ou des transferts à des fins d’amélioration technique, de réparation ou d’entretien, ou qui sont neufs ou transformés et ne sont pas encore en circulation;
-- h.[^4-2]
+- h.[^4-2] ou des ensembles de véhicules dont le poids total autorisé n’excède pas 7,5 t et qui sont utilisés pour des transports non commerciaux de choses;
+- i. réputés historiques (véhicules vétérans) et utilisés pour le transport non commercial de personnes ou de choses[^4-3];
+- j.[^4-4]
 
-  ou des ensembles de véhicules dont le poids total autorisé n’excède pas 7,5 t:
+  ou des ensembles de véhicules dont le poids total autorisé n’excède pas 7,5 t et qui servent à livrer des marchandises fabriquées de manière artisanale ou à transporter du matériel ou de l’équipement que le conducteur utilise dans l’exercice de son métier:
 
-  - 1\. utilisés pour des transports non commerciaux de biens à des fins purement privées, ou
-  - 2\. qui servent à transporter du matériel ou de l’équipement que le conducteur utilise dans l’exercice de son métier dans un rayon de 100 kilomètres autour du lieu d’établissement de l’entreprise, à condition que la conduite du véhicule absorbe au maximum la moitié du temps de travail en moyenne hebdomadaire;
-
-- i.[^4-3] réputés historiques (véhicules vétérans) et utilisés pour le transport non commercial de personnes ou de biens.
+  - 1\. si ces véhicules ou ensembles de véhicules sont employés dans un rayon de 100 kilomètres autour du lieu d’établissement de l’entreprise,
+  - 2\. si leur conduite absorbe au maximum la moitié du temps de travail en moyenne hebdomadaire, et
+  - 3\. si le transport n’est pas effectué pour le compte d’autrui.[^4-5]
 
 <sup>2</sup>
 
 En trafic interne, la présente ordonnance ne s’applique pas aux conducteurs qui effectuent exclusivement des courses avec les véhicules ou ensembles de véhicules suivants:
 
-- a.[^4-4] véhicules automobiles affectés au transport de personnes ne comptant pas plus de 16 places assises en plus du siège du conducteur;
+- a.[^4-6] véhicules automobiles affectés au transport de personnes ne comptant pas plus de 16 places assises en plus du siège du conducteur;
 - b. ensembles de véhicules affectés au transport de choses, pour autant que le poids total du véhicule tracteur n’excède pas 3,5 t et, s’il s’agit de tracteurs à sellette, que le poids total autorisé de l’ensemble inscrit dans le permis de circulation du tracteur à sellette n’excède pas 5 t;
-- c.[^4-5] véhicules de l’administration de la Confédération (art. 2, al. 1, de l’O du 23 fév. 2005 concernant les véhicules automobiles de la Confédération et leurs conducteurs[^4-6]);
-- d.[^4-7] véhicules spécialement équipés pour des projets mobiles et destinés principalement à des fins d’enseignement lorsqu’ils sont à l’arrêt;
-- e.[^4-8] véhicules des écoles de conduite, à condition de ne pas être utilisés pour le transport commercial de personnes et de biens;
-- f.[^4-9] véhicules utilisés dans le cadre de la formation pratique de conduite ou de la formation continue organisée par des moniteurs de conduite ou des centres de formation continue, pour autant qu’aucun transport commercial de personnes et de biens ne soit effectué durant ces courses;
-- g.[^4-10] véhicules utilisés par les services responsables des canalisations, de la protection contre les inondations, de l’entretien des routes et de la collecte des déchets ménagers, par les services en charge des eaux, du gaz et de l’électricité, par les opérateurs télégraphiques ou téléphoniques, par les émetteurs de radio et de télévision ainsi que pour la détection des émetteurs ou récepteurs de radio ou de télévision;
-- h.[^4-11] véhicules transportant du matériel de cirque ou de fêtes foraines;
-- i.[^4-12] véhicules affectés au trafic interne d’une entreprise, autorisés à circuler sur la voie publique uniquement sur autorisation des pouvoirs publics (art. 33 de l’O du 20 nov. 1959 sur l’assurance des véhicules[^4-13] et art. 72, al. 1, let. e, de l’O du 27 oct. 1976 réglant l’admission des personnes et des véhicules à la circulation routière, OAC[^4-14]) ou véhicules utilisés exclusivement sur route dans des installations de plates-formes telles que les ports, ports de transbordement intermodaux et terminaux ferroviaires.
+- c.[^4-7] véhicules de l’administration de la Confédération (art. 2, al. 1, de l’O du 23 fév. 2005 concernant les véhicules automobiles de la Confédération et leurs conducteurs[^4-8]);
+- d.[^4-9] véhicules spécialement équipés pour des projets mobiles et destinés principalement à des fins d’enseignement lorsqu’ils sont à l’arrêt;
+- e.[^4-10] véhicules des écoles de conduite, à condition de ne pas être utilisés pour le transport commercial de personnes et de choses;
+- f.[^4-11] véhicules utilisés dans le cadre de la formation pratique de conduite ou de la formation continue organisée par des moniteurs de conduite ou des centres de formation continue, pour autant qu’aucun transport commercial de personnes et de choses ne soit effectué durant ces courses;
+- g.[^4-12] véhicules utilisés par les services responsables des canalisations, de la protection contre les inondations, de l’entretien des routes et de la collecte des déchets ménagers, par les services en charge des eaux, du gaz et de l’électricité, par les opérateurs télégraphiques ou téléphoniques, par les émetteurs de radio et de télévision ainsi que pour la détection des émetteurs ou récepteurs de radio ou de télévision;
+- h.[^4-13] véhicules transportant du matériel de cirque ou de fêtes foraines;
+- i.[^4-14] véhicules affectés au trafic interne d’une entreprise, autorisés à circuler sur la voie publique uniquement sur autorisation des pouvoirs publics (art. 33 de l’O du 20 nov. 1959 sur l’assurance des véhicules[^4-15] et art. 72, al. 1, let. e, de l’O du 27 oct. 1976 réglant l’admission des personnes et des véhicules à la circulation routière, OAC[^4-16]) ou véhicules utilisés exclusivement sur route dans des installations de plates-formes telles que les ports, ports de transbordement intermodaux et terminaux ferroviaires.
 
-<sup>2bis</sup> En trafic interne, les conducteurs qui utilisent des véhicules au sens de l’al. 2, let. a, pour le transport professionnel de personnes sont soumis à l’ordonnance du 6 mai 1981 sur la durée du travail et du repos des conducteurs professionnels de véhicules légers affectés au transport de personnes[^4-15].[^4-16]
+<sup>2bis</sup> En trafic interne, les conducteurs qui utilisent des véhicules au sens de l’al. 2, let. a, pour le transport professionnel de personnes sont soumis à l’ordonnance du 6 mai 1981 sur la durée du travail et du repos des conducteurs professionnels de véhicules légers affectés au transport de personnes[^4-17].[^4-18]
 
-<sup>3</sup> En trafic interne, la présente ordonnance ne s’applique pas aux conducteurs soumis à la loi du 8 octobre 1971 sur la durée du travail[^4-17] et qui n’effectuent que des transports régis par ladite loi. Lorsque ces conducteurs effectuent en outre d’autres transports, ils sont tenus d’observer, pour toute leur activité professionnelle, les prescriptions des art. 5 à 12 sur la durée du travail, de la conduite et du repos et de tenir à jour les moyens de contrôle indiqués aux art. 14 à 16.
+<sup>3</sup> En trafic interne, la présente ordonnance ne s’applique pas aux conducteurs soumis à la loi du 8 octobre 1971 sur la durée du travail[^4-19] et qui n’effectuent que des transports régis par ladite loi. Lorsque ces conducteurs effectuent en outre d’autres transports, ils sont tenus d’observer, pour toute leur activité professionnelle, les prescriptions des art. 5 à 12 sur la durée du travail, de la conduite et du repos et de tenir à jour les moyens de contrôle indiqués aux art. 14 à 16.
 
-<sup>4</sup> …[^4-18]
+<sup>4</sup> …[^4-20]
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2011, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
-[^4-2]: Nouvelle teneur selon le ch. I de l’O du 11 fév. 2015, en vigueur depuis le 1<sup>er</sup> mai 2015 ([RO 2015 1089](https://fedlex.data.admin.ch/eli/oc/2015/217)).
-[^4-3]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^4-4]: Nouvelle teneur selon le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
-[^4-5]: Nouvelle teneur selon le ch. II 7 de l’annexe à l’O du 23 fév. 2005 concernant les véhicules automobiles de la Confédération et leurs conducteurs, en vigueur depuis le 1<sup>er</sup> mars 2005 ([RO 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
-[^4-6]: [RS 514.31](https://fedlex.data.admin.ch/eli/cc/2005/163)
-[^4-7]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^4-8]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^4-9]: Introduite par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^4-10]: Introduite par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^4-3]: Nouvelle expression selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^4-4]: Introduite par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^4-5]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-6]: Nouvelle teneur selon le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
+[^4-7]: Nouvelle teneur selon l’annexe ch. II 7 de l’O du 23 fév. 2005 concernant les véhicules automobiles de la Confédération et leurs conducteurs, en vigueur depuis le 1<sup>er</sup> mars 2005 ([RO 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
+[^4-8]: [RS 514.31](https://fedlex.data.admin.ch/eli/cc/2005/163)
+[^4-9]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-10]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 [^4-11]: Introduite par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 [^4-12]: Introduite par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^4-13]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
-[^4-14]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
-[^4-15]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
-[^4-16]: Introduit par le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
-[^4-17]: [RS 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536)
-[^4-18]: Introduit par le ch. 4 de l’annexe 1 à l’O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Abrogé par le ch. I de l’O du 30 juin 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-13]: Introduite par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-14]: Introduite par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-15]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^4-16]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^4-17]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^4-18]: Introduit par le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
+[^4-19]: [RS 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536)
+[^4-20]: Introduit par l’annexe 1 ch. 4 de l’O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Abrogé par le ch. I de l’O du 30 juin 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 
 ## Section 3 Durée de la conduite, du travail, des pauses et du repos
 
@@ -218,7 +229,7 @@ En trafic interne, la présente ordonnance ne s’applique pas aux conducteurs q
 
 <sup>1</sup> Le conducteur doit avoir pris un temps de repos journalier dans les 24 heures suivant la fin d’un temps de repos journalier ou hebdomadaire.
 
-<sup>2</sup> Le temps de repos journalier doit durer au moins onze heures. Il peut être pris en deux tranches, si sa durée totale est de douze heures au moins. La première tranche doit être une période ininterrompue d’au moins trois heures et la seconde une période ininterrompue d’au moins neuf heures.
+<sup>2</sup> Le temps de repos journalier doit durer au moins onze heures (temps de repos journalier normal). Il peut être pris en deux tranches, si sa durée totale est de douze heures au moins. La première tranche doit être une période ininterrompue d’au moins trois heures et la seconde une période ininterrompue d’au moins neuf heures.[^9-2]
 
 <sup>3</sup> Le conducteur ne peut pas prendre plus de trois temps de repos journaliers réduits entre deux temps de repos hebdomadaires. Un temps de repos journalier réduit dure au moins neuf heures.
 
@@ -231,6 +242,7 @@ En trafic interne, la présente ordonnance ne s’applique pas aux conducteurs q
 <sup>7</sup> Les temps de repos journaliers loin du point d’attache peuvent être pris à bord du véhicule, à condition que celui-ci soit équipé d’un matériel de couchage convenable pour chaque conducteur et qu’il soit à l’arrêt.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 
 #### Art. 10
 
@@ -242,7 +254,7 @@ En trafic interne, la présente ordonnance ne s’applique pas aux conducteurs q
 
 **Temps de repos hebdomadaire**[^11-1]
 
-<sup>1</sup> En l’espace de deux semaines, le conducteur doit observer deux temps de repos hebdomadaires de 45 heures chacun.
+<sup>1</sup> En l’espace de deux semaines, le conducteur doit observer deux temps de repos hebdomadaires d’au moins 45 heures chacun (temps de repos hebdomadaire normal).[^11-2]
 
 <sup>2</sup> Un des temps de repos peut être ramené à 24 heures (temps de repos hebdomadaire réduit). La réduction doit être compensée par une période de repos équivalente prise en bloc dans les trois semaines qui suivent.
 
@@ -252,9 +264,23 @@ En trafic interne, la présente ordonnance ne s’applique pas aux conducteurs q
 
 <sup>5</sup> Un temps de repos hebdomadaire à cheval sur deux semaines peut être comptabilisé dans l’une ou l’autre des semaines, mais pas dans les deux.
 
-<sup>6</sup> Les temps de repos hebdomadaires réduits loin du point d’attache peuvent être pris à bord de véhicule, à condition que celui-ci soit équipé d’un matériel de couchage convenable pour chaque conducteur et qu’il soit à l’arrêt.
+<sup>6</sup> Les temps de repos hebdomadaires réduits loin du point d’attache peuvent être pris à bord du véhicule, à condition que celui-ci soit équipé d’un matériel de couchage convenable pour chaque conducteur et qu’il soit à l’arrêt. Les temps de repos hebdomadaires normaux ainsi que les temps de repos hebdomadaires de plus de 45 heures pris en compensation d’un temps de repos hebdomadaire réduit ne peuvent pas être pris dans le véhicule. Ils doivent être passés dans un lieu d’hébergement approprié, répondant en particulier aux besoins de chaque sexe et comportant un matériel de couchage et des installations sanitaires adéquates.[^11-3]
+
+<sup>7</sup>
+
+En dérogation à l’al. 2, les deux temps de repos peuvent être réduits à 24 heures:
+
+- a. si le conducteur effectue des transports internationaux de choses;
+- b. si les deux temps de repos hebdomadaires réduits consécutifs commencent en dehors du pays de domicile du conducteur et du pays d’établissement de l’employeur, et
+- c. si, au cours de quatre semaines consécutives, le conducteur prend au minimum quatre temps de repos hebdomadaires, dont au moins deux sont des temps de repos hebdomadaires normaux.[^11-4]
+
+<sup>8</sup> Si deux temps de repos hebdomadaires réduits consécutifs ont été pris conformément à l’al. 7, le temps de repos hebdomadaire normal suivant est précédé d’un temps de repos en guise de compensation de ces deux temps de repos hebdomadaires réduits. Ce temps de repos compensatoire et le temps de repos hebdomadaire normal suivant doivent être pris consécutivement.[^11-5]
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)). Erratum du 7 fév. 2017, en vigueur depuis le 7 fév. 2017 ([RO 2017 511](https://fedlex.data.admin.ch/eli/oc/2017/89)).
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^11-3]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^11-4]: Introduit par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^11-5]: Introduit par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 
 #### Art. 11a
 
@@ -265,7 +291,7 @@ En trafic interne, la présente ordonnance ne s’applique pas aux conducteurs q
 En dérogation à l’art. 11, al. 3, le conducteur peut repousser le début de son repos hebdomadaire de douze périodes de 24 heures consécutives au maximum à compter de la fin du précédent temps de repos hebdomadaire normal, si:
 
 - a. le conducteur effectue un seul circuit de transport international de personnes (art. 8, al. 1, let. f, de l’O du 4 nov. 2009 sur le transport de voyageurs[^11a-2]);
-- b. le transport se déroule dans un autre Etat que celui où il a commencé durant au moins 24 heures consécutives; et
+- b. le transport se déroule dans un autre État que celui où il a commencé durant au moins 24 heures consécutives, et
 - c. le véhicule est équipé d’un tachygraphe numérique.
 
 <sup>2</sup> Lors de transports effectués entre 22 h 00 et 6 h 00, la durée de conduite selon l’art. 8, al. 1, est réduite à trois heures, sauf en cas de conduite en équipage.
@@ -274,7 +300,7 @@ En dérogation à l’art. 11, al. 3, le conducteur peut repousser le début de 
 
 Si le conducteur ajourne son repos hebdomadaire, il doit prévoir, après son ajournement:
 
-- a. deux temps de repos hebdomadaire normaux; ou
+- a. deux temps de repos hebdomadaire normaux, ou
 - b. un temps de repos hebdomadaire normal et un temps de repos hebdomadaire réduit d’au moins 24 heures; la réduction doit être compensée par une période de repos équivalente prise en bloc dans les trois semaines qui suivent.
 
 [^11a-1]: Introduit par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
@@ -304,26 +330,41 @@ Si le conducteur ajourne son repos hebdomadaire, il doit prévoir, après son aj
 
 **Transports combinés**[^11d-1]
 
-<sup>1</sup> Les périodes pendant lesquelles un conducteur accompagne un véhicule transporté par ferry-boat ou par train sont considérées comme temps de disponibilité. Il peut les compter comme temps de repos à condition de disposer d’une couchette.
+<sup>1</sup> Les périodes pendant lesquelles un conducteur accompagne un véhicule transporté par ferry-boat ou par train sont considérées comme temps de disponibilité. Il peut les compter comme temps de repos journalier ou temps de repos hebdomadaire à condition de disposer d’une cabine couchette ou d’une couchette.
 
-<sup>2</sup>
+<sup>2</sup> Si le conducteur prend le temps passé en transport combiné comme temps de repos journalier normal ou comme temps de repos hebdomadaire réduit, il peut interrompre le temps de repos deux fois au maximum, pour autant que la durée des interruptions ne dépasse pas une heure au total.
 
-En dérogation à l’art. 9, al. 2, le conducteur peut interrompre ce temps de repos deux fois au maximum si:
+<sup>3</sup>
 
-- a. la durée des interruptions ne dépasse pas une heure au total; et
-- b. le temps de repos n’en est pas réduit.
+Si le conducteur prend le temps passé en transport combiné comme temps de repos hebdomadaire normal, il peut interrompre ce temps de repos deux fois au maximum:
 
-[^11d-1]: Introduit par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+- a. si la durée de voyage prévue est d’au moins huit heures;
+- b. si la durée des interruptions ne dépasse pas une heure au total, et
+- c. s’il dispose d’une cabine couchette dans le ferry-boat ou le train.
+
+[^11d-1]: Introduit par le ch. I de l’O du 30 juin 2010 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)). Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 
 #### Art. 12
 
-**Dérogations dans les états d’urgence**
+**Dérogations en cas d’urgence et dans des circonstances exceptionnelles[^12-1]**
 
-<sup>1</sup> A condition de ne pas compromettre la sécurité routière et afin de lui permettre d’atteindre un point d’arrêt approprié, le conducteur peut déroger aux prescriptions sur la durée du travail, de la conduite et du repos dans la mesure nécessaire pour assurer la sécurité des passagers, du véhicule ou de son chargement.
+<sup>1</sup> À condition de ne pas compromettre la sécurité routière et afin de lui permettre d’atteindre un point d’arrêt approprié, le conducteur peut déroger aux prescriptions sur la durée du travail, de la conduite et du repos dans la mesure nécessaire pour assurer la sécurité des passagers, du véhicule ou de son chargement.
 
-<sup>2</sup> Le conducteur doit mentionner le genre et le motif de la dérogation aux prescriptions sur la durée du travail, de la conduite et du repos sur le disque d’enregistrement du tachygraphe ou sur une feuille spéciale lorsqu’il s’agit d’un tachygraphe numérique. L’art. 14*b*, al. 4, s’applique par analogie.[^12-1]
+<sup>1bis</sup>
 
-[^12-1]: Nouvelle teneur selon le ch. I de l’O du 29 mars 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+À condition de ne pas compromettre la sécurité routière, le conducteur peut, dans des circonstances exceptionnelles, déroger aux art. 5, al. 1 et 2, et 9, al. 1, et dépasser la durée de conduite journalière et hebdomadaire:
+
+- a. d’une heure au maximum, pour atteindre le lieu d’établissement de l’entreprise ou son propre domicile afin de prendre un temps de repos hebdomadaire;
+- b. de deux heures au maximum, pour atteindre le lieu d’établissement de l’entreprise ou son propre domicile afin de prendre un temps de repos hebdomadaire normal, s’il a pris une pause ininterrompue de 30 minutes immédiatement avant la durée de conduite supplémentaire.[^12-2]
+
+<sup>1ter</sup> Toute prolongation de la durée de conduite doit être compensée par un temps de repos équivalent. Le conducteur devra prendre ce dernier en bloc avec un temps de repos journalier ou hebdomadaire ininterrompu d’ici la fin de la troisième semaine suivant celle au cours de laquelle la durée de conduite a été prolongée.[^12-3]
+
+<sup>2</sup> Le conducteur doit mentionner le genre et le motif de la dérogation aux prescriptions sur la durée du travail, de la conduite et du repos sur le disque d’enregistrement du tachygraphe ou sur une feuille spéciale lorsqu’il s’agit d’un tachygraphe numérique. L’art. 14*b*, al. 4, s’applique par analogie.[^12-4]
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^12-2]: Introduit par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^12-3]: Introduit par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^12-4]: Nouvelle teneur selon le ch. I de l’O du 29 mars 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 
 ## Section 4 Dispositions sur le contrôle
 
@@ -379,7 +420,7 @@ Les cartes de tachygraphe sont retirées avant l’expiration de leur durée de 
 
 **Carte de conducteur**[^13b-1]
 
-<sup>1</sup> Les cartes de conducteur sont délivrées aux titulaires d’un permis d’élève conducteur ou de conduire au format carte de crédit des catégories B, C, D, des sous-catégories C1 ou D1 ou de la catégorie spéciale F (art. 3 OAC[^13b-2]). Il est interdit d’en octroyer aux conducteurs en provenance de l’étranger qui ont besoin d’un permis de conduire suisse (art. 42, al. 3<sup>bis</sup>, OAC) s’ils sont domiciliés dans un Etat de l’Union européenne.[^13b-3]
+<sup>1</sup> Les cartes de conducteur sont délivrées aux titulaires d’un permis d’élève conducteur ou de conduire au format carte de crédit des catégories B, C, D, des sous-catégories C1 ou D1 ou de la catégorie spéciale F (art. 3 OAC[^13b-2]). Il est interdit d’en octroyer aux conducteurs en provenance de l’étranger qui ont besoin d’un permis de conduire suisse (art. 42, al. 3<sup>bis</sup>, OAC) s’ils sont domiciliés dans un État de l’Union européenne.[^13b-3]
 
 <sup>2</sup> La demande de carte de conducteur doit être déposée auprès de l’Office fédéral des routes; elle contient les données du requérant visées au ch. 212 de l’annexe 2 de l’ordonnance du 30 novembre 2018 sur le système d’information relatif à l’admission à la circulation (OSIAC)[^13b-4].[^13b-5]
 
@@ -387,17 +428,17 @@ Les cartes de tachygraphe sont retirées avant l’expiration de leur durée de 
 
 <sup>4</sup> Une seule carte de conducteur peut être délivrée par conducteur. Elle est personnelle et non transmissible.
 
-<sup>5</sup> Si le titulaire d’une carte de conducteur délivrée par un Etat étranger a transféré son domicile en Suisse, il peut déposer auprès de l’Office fédéral des routes une demande pour échanger la carte de conducteur. La carte de conducteur étrangère doit être remise à l’Office fédéral des routes.[^13b-6]
+<sup>5</sup> Si le titulaire d’une carte de conducteur délivrée par un État étranger a transféré son domicile en Suisse, il peut déposer auprès de l’Office fédéral des routes une demande pour échanger la carte de conducteur. La carte de conducteur étrangère doit être remise à l’Office fédéral des routes.[^13b-6]
 
 <sup>6</sup> Les cartes de conducteur doivent être retournées à l’Office fédéral des routes en cas de changements selon l’art. 13*a*, al. 3, endommagement ou dysfonctionnement. Si une carte de conducteur remplacée est retrouvée, elle doit être restituée à l’autorité dans les quatorze jours. Les données enregistrées sur la carte doivent être sécurisées au préalable.[^13b-7]
 
-<sup>7</sup> Le vol d’une carte de conducteur doit être signalé aux autorités compétentes de l’Etat dans lequel il s’est produit.
+<sup>7</sup> Le vol d’une carte de conducteur doit être signalé aux autorités compétentes de l’État dans lequel il s’est produit.
 
 [^13b-1]: Introduit par le ch. I de l’O du 29 mars 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 [^13b-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 [^13b-3]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
 [^13b-4]: [RS 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
-[^13b-5]: Nouvelle teneur selon le ch. II 10 de l’annexe 4 à l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^13b-5]: Nouvelle teneur selon l’annexe 4 ch. II 10 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^13b-6]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2011, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 [^13b-7]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2011, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 
@@ -407,20 +448,21 @@ Les cartes de tachygraphe sont retirées avant l’expiration de leur durée de 
 
 <sup>1</sup> Les cartes d’atelier sont délivrées aux ateliers qui disposent d’une autorisation au sens de l’art. 101 de l’ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers (OETV)[^13c-2] et qui ne remplissent pas les conditions posées pour la délivrance d’une carte d’entreprise. Dans des cas justifiés, elles peuvent aussi être délivrées à des ateliers satisfaisant auxdites conditions, si l’activité entrepreneuriale de ceux-ci ne compromet pas le système de contrôle conformément au règlement (UE) n<sup>o</sup> 165/2014[^13c-3].[^13c-4]
 
-<sup>2</sup> La demande de carte d’atelier doit être déposée auprès de l’Administration fédérale des douanes; elle contient des données sur l’atelier et sur le technicien de l’atelier conformément aux ch. 222 et 223 de l’annexe 2 OSIAC[^13c-5].[^13c-6]
+<sup>2</sup> La demande de carte d’atelier doit être déposée auprès de l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^13c-5]; elle contient des données sur l’atelier et sur le technicien de l’atelier conformément aux ch. 222 et 223 de l’annexe 2 OSIAC[^13c-6].[^13c-7]
 
 <sup>3</sup> La durée de validité de la carte d’atelier est d’une année.
 
 <sup>4</sup> La carte d’atelier est délivrée au nom de l’atelier et de ses techniciens habilités. Elle ne peut être utilisée que par le technicien habilité de l’atelier et qu’au siège de l’atelier au nom duquel elle a été établie. Le technicien est responsable à titre personnel des travaux effectués avec sa carte d’atelier et du calibrage des tachygraphes numériques.
 
-<sup>5</sup> Les cartes d’atelier doivent être retournées à l’Administration fédérale des douanes en cas de changements selon l’art. 13*a*, al. 3, endommagement ou dysfonctionnement. Si une carte d’atelier remplacée est retrouvée, elle doit être restituée à l’autorité dans les quatorze jours. Les données enregistrées sur la carte doivent être sécurisées au préalable.
+<sup>5</sup> Les cartes d’atelier doivent être retournées à l’OFDF en cas de changements selon l’art. 13*a*, al. 3, endommagement ou dysfonctionnement. Si une carte d’atelier remplacée est retrouvée, elle doit être restituée à l’autorité dans les quatorze jours. Les données enregistrées sur la carte doivent être sécurisées au préalable.
 
 [^13c-1]: Introduit par le ch. I de l’O du 29 mars 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 [^13c-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^13c-3]: Règlement (UE) n<sup>o</sup> 165/2014 du Parlement européen et du Conseil du 4 février 2014 relatif aux tachygraphes dans les transports routiers, abrogeant le règlement (CEE) n<sup>o</sup> 3821/85 du Conseil concernant l’appareil de contrôle dans le domaine des transports par route et modifiant le règlement (CE) n<sup>o</sup> 561/2006 du Parlement européen et du Conseil relatif à l’harmonisation de certaines dispositions de la législation sociale dans le domaine des transports par route, version du JO L 60 du 28.2.2014, p. 1.
-[^13c-4]: Nouvelle teneur selon le ch. II 10 de l’annexe 4 à l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
-[^13c-5]: [RS 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
-[^13c-6]: Nouvelle teneur selon le ch. II 10 de l’annexe 4 à l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^13c-4]: Nouvelle teneur selon l’annexe 4 ch. II 10 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^13c-5]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^13c-6]: [RS 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
+[^13c-7]: Nouvelle teneur selon l’annexe 4 ch. II 10 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 #### Art. 13d
 
@@ -436,13 +478,13 @@ Les cartes de tachygraphe sont retirées avant l’expiration de leur durée de 
 
 [^13d-1]: Introduit par le ch. I de l’O du 29 mars 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 [^13d-2]: [RS 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
-[^13d-3]: Nouvelle teneur selon le ch. II 10 de l’annexe 4 à l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^13d-3]: Nouvelle teneur selon l’annexe 4 ch. II 10 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 #### Art. 13e
 
 **Carte de contrôle**[^13e-1]
 
-<sup>1</sup> Les cartes de contrôle sont délivrées aux autorités compétentes des cantons et de l’Administration fédérale des douanes chargées des contrôles sur route et dans les entreprises.
+<sup>1</sup> Les cartes de contrôle sont délivrées aux autorités compétentes des cantons et de l’OFDF chargés des contrôles sur route et dans les entreprises.
 
 <sup>2</sup> La demande de carte de contrôle doit être déposée auprès de l’autorité compétente; elle contient des données sur l’autorité de contrôle conformément au ch. 242 de l’annexe 2 OSIAC[^13e-2].[^13e-3]
 
@@ -452,7 +494,7 @@ Les cartes de tachygraphe sont retirées avant l’expiration de leur durée de 
 
 [^13e-1]: Introduit par le ch. I de l’O du 29 mars 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 [^13e-2]: [RS 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
-[^13e-3]: Nouvelle teneur selon le ch. II 10 de l’annexe 4 à l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^13e-3]: Nouvelle teneur selon l’annexe 4 ch. II 10 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^13e-4]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
 
 #### Art. 14
@@ -487,11 +529,12 @@ Le conducteur porte les inscriptions suivantes sur le disque d’enregistrement:
 - b. avant d’introduire et après avoir retiré le disque d’enregistrement: la date et le lieu;
 - c. après avoir retiré le disque, au terme de la dernière course de la journée: le nouveau kilométrage et le total des kilomètres parcourus;
 - d. en cas de changement de véhicule pendant la journée: le relevé du compteur kilométrique auquel il a été affecté et de celui auquel il va être affecté;
-- e. le cas échéant, l’heure du changement de véhicule.
+- e. le cas échéant, l’heure du changement de véhicule;
+- f.[^14a-2] au début du prochain arrêt possible après le franchissement de la frontière nationale: le pays dans lequel il est entré.
 
-<sup>2</sup> Lorsque, par suite de son éloignement du véhicule, le conducteur ne peut utiliser le tachygraphe, il porte au fur et à mesure les indications relatives à la durée du travail, de la disponibilité et du repos, de façon lisible sur le disque, manuellement ou par un autre moyen approprié. Les inscriptions manuelles ne doivent pas compromettre les enregistrements de l’appareil.[^14a-2]
+<sup>2</sup> Lorsque, par suite de son éloignement du véhicule, le conducteur ne peut utiliser le tachygraphe, il porte au fur et à mesure les indications relatives à la durée du travail, de la disponibilité et du repos, de façon lisible sur le disque, manuellement ou par un autre moyen approprié. Les inscriptions manuelles ne doivent pas compromettre les enregistrements de l’appareil.[^14a-3]
 
-<sup>3</sup> En cas de panne ou de fonctionnement défectueux du tachygraphe, et dans la mesure où les indications concernant la durée du travail, de la conduite, de la disponibilité et du repos ne sont plus enregistrées de manière irréprochable, le conducteur les porte sur le disque d’enregistrement ou sur une feuille ad hoc à joindre au disque d’enregistrement.[^14a-3]
+<sup>3</sup> En cas de panne ou de fonctionnement défectueux du tachygraphe, et dans la mesure où les indications concernant la durée du travail, de la conduite, de la disponibilité et du repos ne sont plus enregistrées de manière irréprochable, le conducteur les porte sur le disque d’enregistrement ou sur une feuille ad hoc à joindre au disque d’enregistrement.[^14a-4]
 
 <sup>4</sup> Aucun disque d’enregistrement ne peut être utilisé pour une période plus longue que celle pour laquelle il a été destiné.
 
@@ -500,8 +543,9 @@ Le conducteur porte les inscriptions suivantes sur le disque d’enregistrement:
 <sup>6</sup> L’employeur délivre les disques d’enregistrement gratuitement au salarié et lui remet, sur demande, une copie des disques utilisés.
 
 [^14a-1]: Introduit par le ch. I de l’O du 29 mars 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^14a-2]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2011, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^14a-2]: Introduite par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 [^14a-3]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2011, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^14a-4]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2011, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 
 #### Art. 14b
 
@@ -557,7 +601,7 @@ Si le conducteur conduit alternativement un véhicule équipé d’un tachygraph
 
 **Tachygraphe numérique des véhicules de location**[^14d-1]
 
-A la demande du locataire, les loueurs de véhicules mettent à sa disposition, au plus tard un mois après l’expiration du rapport de location, les données stockées dans le tachygraphe relatives aux trajets effectués par le locataire et auxquelles il ne peut avoir accès directement. A cet égard, la protection des données doit être garantie.
+À la demande du locataire, les loueurs de véhicules mettent à sa disposition, au plus tard un mois après l’expiration du rapport de location, les données stockées dans le tachygraphe relatives aux trajets effectués par le locataire et auxquelles il ne peut avoir accès directement. À cet égard, la protection des données doit être garantie.
 
 [^14d-1]: Introduit par le ch. I de l’O du 29 mars 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 
@@ -586,7 +630,7 @@ Le salarié tient un livret de travail indiquant la durée de son travail:
 
 <sup>1</sup>
 
-A l’aide des moyens de contrôle disponibles, l’employeur s’assurera constamment que les dispositions sur la durée du travail, de la conduite et du repos ont été observées. A cet effet, il inscrira, pour chaque salarié, les indications ci-après dans un registre:
+À l’aide des moyens de contrôle disponibles, l’employeur s’assurera constamment que les dispositions sur la durée du travail, de la conduite et du repos ont été observées. À cet effet, il inscrira, pour chaque salarié, les indications ci-après dans un registre:
 
 - a. la durée journalière de la conduite;
 - b. le temps de travail hebdomadaire et sa moyenne actuelle;
@@ -605,9 +649,9 @@ Les conducteurs indépendants indiquent les données suivantes dans un registre:
 
 <sup>3</sup> Pour les conducteurs dont la durée journalière de la conduite est manifestement inférieure à 7 heures, d’après un contrôle sommaire des disques du tachygraphe, il n’est pas nécessaire d’inscrire la durée de la conduite dans un registre.
 
-<sup>4</sup> A la fin du mois au plus tard, le registre prévu aux al. 1 et 2 doit contenir toutes les inscriptions relatives à l’avant-dernier mois. Pour les conducteurs travaillant à l’étranger, il doit être établi dès que possible après leur retour en Suisse.[^16-3]
+<sup>4</sup> À la fin du mois au plus tard, le registre prévu aux al. 1 et 2 doit contenir toutes les inscriptions relatives à l’avant-dernier mois. Pour les conducteurs travaillant à l’étranger, il doit être établi dès que possible après leur retour en Suisse.[^16-3]
 
-<sup>4bis</sup> A la demande du salarié, l’employeur lui remettra une copie du registre.[^16-4]
+<sup>4bis</sup> À la demande du salarié, l’employeur lui remettra une copie du registre.[^16-4]
 
 <sup>5</sup> Les employeurs et les conducteurs indépendants qui confient la tenue du registre ou la gestion des données à des tiers restent responsables de l’exactitude des inscriptions, de la sécurisation et de la conservation des données déchargées ainsi que de leur intégralité.[^16-5]
 
@@ -657,15 +701,31 @@ Si le véhicule est équipé d’un tachygraphe numérique, l’employeur et les
 
 <sup>1</sup> L’employeur répartira le travail du salarié de telle manière que ce dernier puisse respecter les dispositions sur la durée du travail, de la conduite et du repos. Le salarié doit avertir son employeur en temps opportun, si le travail qui lui a été confié devait l’amener à enfreindre les présentes dispositions.
 
+<sup>1bis</sup>
+
+L’employeur attribuera le travail au salarié de façon à ce que ce dernier puisse, au cours de quatre semaines consécutives et afin de prendre un temps de repos hebdomadaire d’au moins 45 heures, rentrer:
+
+- a. au lieu d’établissement de l’entreprise auquel il est normalement rattaché et où commence le temps de repos hebdomadaire, ou
+- b. à son domicile.[^17-1]
+
+<sup>1ter</sup>
+
+Si le salarié a pris deux temps de repos hebdomadaires réduits consécutifs conformément à l’art. 11, al. 7, l’employeur lui attribuera le travail de façon à ce qu’il puisse rentrer, avant même le début du temps de repos hebdomadaire normal de plus de 45 heures pris en compensation:
+
+- a. au lieu d’établissement de l’entreprise auquel il est normalement rattaché et où commence le temps de repos hebdomadaire, ou
+- b. à son domicile.[^17-2]
+
 <sup>2</sup> L’employeur doit veiller à ce que le salarié observe les dispositions sur la durée du travail, de la conduite et du repos, tienne correctement les moyens de contrôle et les lui remette en temps voulu.
 
 <sup>3</sup> L’employeur établira une liste comprenant les noms des conducteurs, leur adresse et leur date de naissance ainsi que, le cas échéant, le numéro du livret de travail.
 
-<sup>3bis</sup> L’employeur doit veiller à ce que les données personnelles des conducteurs qu’il traite dans le cadre de l’exécution de la présente ordonnance ne soient utilisées qu’aux fins de celle-ci et protégées contre tout accès non autorisé.[^17-1]
+<sup>3bis</sup> L’employeur doit veiller à ce que les données personnelles des conducteurs qu’il traite dans le cadre de l’exécution de la présente ordonnance ne soient utilisées qu’aux fins de celle-ci et protégées contre tout accès non autorisé.[^17-3]
 
 <sup>4</sup> Les salariés ne seront pas rémunérés en fonction des distances parcourues, du volume des marchandises transportées ou d’autres prestations qui sont de nature à compromettre la sécurité routière.
 
-[^17-1]: Introduit par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
+[^17-1]: Introduit par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^17-2]: Introduit par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^17-3]: Introduit par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
 
 #### Art. 18
 
@@ -718,7 +778,7 @@ L’employeur et tout conducteur indépendant conservent pendant trois ans, au s
 Lors des courses d’apprentissage, l’instructeur doit:
 
 - a. inscrire ses initiales en plus du nom de la personne en formation sur le disque d’enregistrement du tachygraphe;
-- b. utiliser son propre disque d’enregistrement; ou
+- b. utiliser son propre disque d’enregistrement, ou
 - c. insérer sa carte de conducteur à l’endroit prévu pour le passager dans le tachygraphe numérique.
 
 <sup>4</sup> Les courses d’apprentissage sont comptées comme temps de conduite, aussi bien pour l’instructeur que pour la personne en formation.
@@ -735,6 +795,32 @@ Lors des courses d’apprentissage, l’instructeur doit:
 <sup>2</sup> L’employeur qui engage des conducteurs à titre accessoire doit s’assurer que le salarié ne dépasse pas ces limites.
 
 <sup>3</sup> Pour les conducteurs engagés à titre accessoire et qui, en dehors de cette occupation, n’exercent pas une autre activité lucrative en qualité de salariés, tels les agriculteurs, les étudiants, les ménagères, l’autorité d’exécution fixe un nombre d’heures comme base de la durée du travail dans la mesure où l’exige l’activité qu’ils exercent à titre principal.
+
+#### Art. 20a
+
+**Conducteurs engagés pour le service hivernal**[^20a-1]
+
+<sup>1</sup>
+
+En dérogation à l’art. 9, al. 1, le délai dans lequel un nouveau temps de repos journalier doit être pris peut, dans des cas imprévus et si la situation le justifie, être porté à 30 heures, une fois par semaine, pour les conducteurs:
+
+- a. qui sont engagés pour des courses avec des véhicules du service hivernal;
+- b. qui exercent leur activité uniquement en trafic interne, et
+- c. qui sont soumis aux prescriptions de la présente ordonnance.
+
+<sup>2</sup>
+
+Dans les cas visés à l’al. 1, les dispositions suivantes s’appliquent:
+
+- a. Le temps de repos journalier doit durer au moins douze heures.
+- b. L’art. 9, al. 2, ne s’applique pas.
+- c. Les conducteurs doivent prendre un temps de repos hebdomadaire normal durant la semaine où ils font usage de l’exception prévue à l’al. 1.
+
+<sup>3</sup> L’exception prévue à l’al. 1 s’applique aussi par analogie aux conducteurs mobilisés pour une intervention du service hivernal, mais dont la mission est annulée à un moment où il n’est plus possible de prendre un temps de repos journalier au sens de l’art. 9, al. 1 et 3.
+
+<sup>4</sup> Les conducteurs sont tenus d’indiquer les trajets pour lesquels ils font usage de l’exception prévue à l’al. 1 sur une feuille ad hoc au sens de l’art. 14*b*, al. 4, ou sur une impression papier au sens de l’art. 14*b*, al. 5.
+
+[^20a-1]: Introduit par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 
 ## Section 6 Dispositions et poursuite pénales
 
@@ -757,7 +843,7 @@ Sera puni de l’amende quiconque enfreint les dispositions sur le contrôle (ar
 - g.[^21-4] …
 - h. manipule le système global du tachygraphe numérique de telle sorte que ce dernier fournit des données fausses.[^21-5]
 
-<sup>3</sup> Quiconque enfreint les devoirs ou les prescriptions à observer selon les dispositions spéciales (art. 19 et 20) sera puni de l’amende.[^21-6]
+<sup>3</sup> Quiconque enfreint les devoirs ou les prescriptions à observer selon les dispositions spéciales (art. 19 à 20*a*) sera puni de l’amende.[^21-6]
 
 <sup>4</sup> L’employeur qui incite un conducteur à commettre un acte punissable en vertu de la présente ordonnance ou qui n’empêche pas, selon ses possibilités, une telle infraction, est passible de la même peine que le conducteur. Le juge pourra atténuer la peine à l’égard du conducteur ou l’exempter de toute peine si les circonstances le justifient.
 
@@ -766,7 +852,7 @@ Sera puni de l’amende quiconque enfreint les dispositions sur le contrôle (ar
 [^21-3]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
 [^21-4]: Abrogée par le ch. I de l’O du 28 mars 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
 [^21-5]: Nouvelle teneur selon le ch. I de l’O du 29 mars 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^21-6]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
+[^21-6]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 
 #### Art. 22
 
@@ -806,7 +892,7 @@ Sera puni de l’amende quiconque enfreint les dispositions sur le contrôle (ar
 
 <sup>3</sup> L’Office fédéral des routes détermine la forme et l’aspect des cartes de tachygraphe en accord avec les prescriptions internationales et les diffuse.[^24-3]
 
-<sup>4</sup> L’Administration fédérale des douanes est compétente pour délivrer, retirer et déclarer non valables les cartes d’entreprises.[^24-4]
+<sup>4</sup> L’OFDF est compétent pour délivrer, retirer et déclarer non valables les cartes d’entreprises.[^24-4]
 
 <sup>5</sup> L’Office fédéral des routes est compétent pour délivrer, retirer et déclarer non valables les cartes de conducteur et les cartes d’entreprises.[^24-5]
 

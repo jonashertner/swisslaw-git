@@ -4,11 +4,11 @@ title: "Ordinanza del 19 giugno 1995 sulla durata del lavoro e del riposo dei co
 short: OLR 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
 language: it
-version: 2019-02-01
+version: 2022-01-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20190201/it/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20190201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20190201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20190201/it"
 
 (Ordinanza per gli autisti, OLR 1)[^t-1]
 
-del 19 giugno 1995 (Stato 1° febbraio 2019)
+del 19 giugno 1995 (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 
@@ -65,7 +65,14 @@ Nella presente ordinanza sono utilizzate le seguenti definizioni:
 - h.[^2-4] è *attività professionale*, per il lavoratore il tempo di lavoro, per il conducente indipendente il tempo di guida nonché delle attività connesse con il trasporto;
 - i.[^2-5] è *periodo di riposo* il periodo durante il quale il conducente può disporre liberamente del suo tempo;
 - j.[^2-6] è una *settimana* il periodo di tempo dalle 00.00 di lunedì alle 24.00 di domenica;
-- k.[^2-7] è considerato *equipaggio multiplo* il caso in cui, durante il periodo di guida tra due periodi di riposo, a bordo del veicolo sono presenti più conducenti che prendono parte alla guida.
+- k.[^2-7] è considerato *equipaggio multiplo* il caso in cui, durante il periodo di guida tra due periodi di riposo, a bordo del veicolo sono presenti più conducenti che prendono parte alla guida;
+- l.[^2-8]
+
+  è *trasporto non commerciale* qualsiasi trasporto su strada:
+
+  - 1\. per il quale non sia percepita alcuna retribuzione diretta o indiretta,
+  - 2\. che non generi direttamente o indirettamente alcun reddito per il conducente del veicolo o per terzi, e
+  - 3\. che non sia legato a un’attività professionale o commerciale.
 
 [^2-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 [^2-2]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
@@ -74,6 +81,7 @@ Nella presente ordinanza sono utilizzate le seguenti definizioni:
 [^2-5]: Introdotta dal n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 [^2-6]: Introdotta dal n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 [^2-7]: Introdotta dal n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^2-8]: Introdotta dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 
 ## Sezione 2: Campo d’applicazione
 
@@ -112,52 +120,54 @@ La presente ordinanza non si applica ai conducenti di veicoli:
 - e. equipaggiati specialmente per compiti sanitari;
 - f. equipaggiati specialmente per l’autosoccorso stradale e impiegati entro un raggio di 100 km dalla loro postazione;
 - g. con i quali, a scopo di sviluppo tecnico o per lavori di riparazione e manutenzione, sono eseguite corse di prova o di trasferimento o che non sono ancora in circolazione come nuovi o trasformati;
-- h.
+- h.[^4-1] con un peso totale fino a 7,5 t e combinazioni di veicoli con un peso totale fino a 7,5 t impiegati per trasporti non commerciali di cose;
+- i. di valore storico (veicoli d’epoca) e non usati per trasporti commerciali di cose o persone;
+- j.[^4-2]
 
-  con un peso totale fino a 7,5 t e combinazioni di veicoli con un peso totale fino a 7,5 t:
+  con un peso totale fino a 7,5 t e combinazioni di veicoli con un peso totale fino a 7,5 t impiegati per la consegna di merci prodotte artigianalmente o il trasporto di materiali o attrezzature utilizzati dal conducente nell’esercizio della propria attività professionale, a condizione che:
 
-  - 1\. non impiegati per trasporti commerciali di cose, oppure
-  - 2\. utilizzati nel raggio di 100 km dalla sede dell’impresa per il trasporto di materiale o attrezzature utilizzati dal conducente nell’esercizio della propria attività professionale, a condizione che la guida del veicolo non superi in media la metà del tempo di lavoro settimanale;[^4-1]
-
-- i. di valore storico (veicoli d’epoca) e non usati per trasporti commerciali di cose o persone.[^4-2]
+  - 1\. i veicoli o combinazioni di veicoli siano utilizzati nel raggio di 100 km dalla sede dell’impresa,
+  - 2\. la guida del veicolo non superi in media la metà del tempo di lavoro settimanale, e
+  - 3\. il trasporto non sia effettuato per conto terzi.[^4-3]
 
 <sup>2</sup>
 
 Nel traffico interno, la presente ordinanza non si applica inoltre ai conducenti che eseguono unicamente corse con i seguenti veicoli o combinazioni di veicoli:
 
-- a.[^4-3] autoveicoli per il trasporto di persone che, oltre a quello del conducente, hanno un numero di posti a sedere non superiore a 16;
+- a.[^4-4] autoveicoli per il trasporto di persone che, oltre a quello del conducente, hanno un numero di posti a sedere non superiore a 16;
 - b. combinazioni di veicoli per il trasporto di cose, nella misura in cui il peso totale del veicolo trattore non superi le 3,5 t e, per i trattori a sella, nella misura in cui il peso totale del convoglio non supera 5 t giusta la licenza di circolazione;
-- c.[^4-4] veicoli dell’amministrazione federale (art. 2 cpv. 1 dell’O del 23 feb. 2005[^4-5] concernente i veicoli della Confederazione e i loro conducenti);
-- d.[^4-6] veicoli equipaggiati specialmente per progetti mobili, essenzialmente destinati ad essere utilizzati, da fermi, per fini didattici;
-- e.[^4-7] veicoli per la scuola guida, se non impiegati per trasporti commerciali di persone o cose;
-- f.[^4-8] veicoli impiegati da maestri conducenti o centri di formazione periodica nel quadro della formazione pratica di guida o della formazione periodica pratica, a condizione che durante queste corse non vengano effettuati trasporti commerciali di persone o merci;
-- g.[^4-9] veicoli usati dai servizi di canalizzazione, protezione contro le inondazioni, manutenzione della rete stradale e nettezza urbana, dai servizi di approvvigionamento idrico, elettrico e di gas come anche veicoli usati da fornitori di servizi di telecomunicazione e di radiotelevisione nonché per la rilevazione di emittenti e riceventi radiotelevisivi;
-- h.[^4-10] veicoli usati per il trasporto di materiale da circo o per fiere e mercati;
-- i.[^4-11] veicoli assegnati soltanto al traffico interno di un’impresa, autorizzati a circolare su strada pubblica soltanto con il permesso dell’autorità (art. 33 dell’O del 20 nov. 1959[^4-12] sull’assicurazione dei veicoli e art. 72 cpv. 1 lett. e dell’O del 27 ott. 1976[^4-13] sull’ammissione alla circolazione di persone e veicoli, OAC), o usati esclusivamente su strade all’interno di centri di smistamento quali porti, interporti e terminali ferroviari.
+- c.[^4-5] veicoli dell’amministrazione federale (art. 2 cpv. 1 dell’O del 23 feb. 2005[^4-6] concernente i veicoli della Confederazione e i loro conducenti);
+- d.[^4-7] veicoli equipaggiati specialmente per progetti mobili, essenzialmente destinati ad essere utilizzati, da fermi, per fini didattici;
+- e.[^4-8] veicoli per la scuola guida, se non impiegati per trasporti commerciali di persone o cose;
+- f.[^4-9] veicoli impiegati da maestri conducenti o centri di formazione periodica nel quadro della formazione pratica di guida o della formazione periodica pratica, a condizione che durante queste corse non vengano effettuati trasporti commerciali di persone o cose;
+- g.[^4-10] veicoli usati dai servizi di canalizzazione, protezione contro le inondazioni, manutenzione della rete stradale e nettezza urbana, dai servizi di approvvigionamento idrico, elettrico e di gas come anche veicoli usati da fornitori di servizi di telecomunicazione e di radiotelevisione nonché per la rilevazione di emittenti e riceventi radiotelevisivi;
+- h.[^4-11] veicoli usati per il trasporto di materiale da circo o per fiere e mercati;
+- i.[^4-12] veicoli assegnati soltanto al traffico interno di un’impresa, autorizzati a circolare su strada pubblica soltanto con il permesso dell’autorità (art. 33 dell’O del 20 nov. 1959[^4-13] sull’assicurazione dei veicoli e art. 72 cpv. 1 lett. e dell’O del 27 ott. 1976[^4-14] sull’ammissione alla circolazione di persone e veicoli, OAC), o usati esclusivamente su strade all’interno di centri di smistamento quali porti, interporti e terminali ferroviari.
 
-<sup>2bis</sup> Nel traffico interno, i conducenti che impiegano i veicoli di cui al capoverso 2 lettera a per il trasporto professionale di persone sottostanno all’ordinanza del 6 maggio 1981[^4-14] sulla durata del lavoro e del riposo dei conducenti professionali di veicoli leggeri per il trasporto di persone e di automobili pesanti.[^4-15]
+<sup>2bis</sup> Nel traffico interno, i conducenti che impiegano i veicoli di cui al capoverso 2 lettera a per il trasporto professionale di persone sottostanno all’ordinanza del 6 maggio 1981[^4-15] sulla durata del lavoro e del riposo dei conducenti professionali di veicoli leggeri per il trasporto di persone e di automobili pesanti.[^4-16]
 
-<sup>3</sup> Nel traffico interno la presente ordinanza non si applica ai conducenti che sottostanno alla legge dell’8 ottobre 1971[^4-16] sulla durata del lavoro ed eseguono unicamente trasporti contemplati in detta legge. Se vengono eseguiti altri trasporti suppletivi, per la loro attività professionale complessiva essi devono rispettare le prescrizioni degli articoli 5–12 relative alla durata del lavoro, della guida e del riposo e gestire i mezzi di controllo giusta gli articoli 14–16.
+<sup>3</sup> Nel traffico interno la presente ordinanza non si applica ai conducenti che sottostanno alla legge dell’8 ottobre 1971[^4-17] sulla durata del lavoro ed eseguono unicamente trasporti contemplati in detta legge. Se vengono eseguiti altri trasporti suppletivi, per la loro attività professionale complessiva essi devono rispettare le prescrizioni degli articoli 5–12 relative alla durata del lavoro, della guida e del riposo e gestire i mezzi di controllo giusta gli articoli 14–16.
 
-<sup>4</sup> ...[^4-17]
+<sup>4</sup> ...[^4-18]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O dell’11 feb. 2015, in vigore dal 1° mag. 2015 ([RU 2015 1089](https://fedlex.data.admin.ch/eli/oc/2015/217)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^4-3]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
-[^4-4]: Nuovo testo giusta il n. II 7 dell’all. all’O del 23 feb. 2005 concernente i veicoli della Confederazione e i loro conducenti, in vigore dal 1° mar. 2005 ([RU 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
-[^4-5]: [RS 514.31](https://fedlex.data.admin.ch/eli/cc/2005/163)
-[^4-6]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^4-2]: Introdotta dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^4-3]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-4]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
+[^4-5]: Nuovo testo giusta il n. II 7 dell’all. all’O del 23 feb. 2005 concernente i veicoli della Confederazione e i loro conducenti, in vigore dal 1° mar. 2005 ([RU 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
+[^4-6]: [RS 514.31](https://fedlex.data.admin.ch/eli/cc/2005/163)
 [^4-7]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^4-8]: Introdotta dal n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^4-9]: Introdotta dal n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-8]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-9]: Introdotta dal n. I dell’O del 30 giu. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)). Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 [^4-10]: Introdotta dal n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 [^4-11]: Introdotta dal n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^4-12]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
-[^4-13]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
-[^4-14]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
-[^4-15]: Introdotto dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
-[^4-16]: [RS 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536)
-[^4-17]: Introdotto dal n. 4 dell’all. 1 all’O del 2 set. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Abrogato dal n. I dell’O del 30 giu. 2010, con effetto dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-12]: Introdotta dal n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-13]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^4-14]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^4-15]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^4-16]: Introdotto dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
+[^4-17]: [RS 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536)
+[^4-18]: Introdotto dal n. 4 dell’all. 1 all’O del 2 set. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Abrogato dal n. I dell’O del 30 giu. 2010, con effetto dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 
 ## Sezione 3: Periodi di guida, di lavoro, pause, periodi di riposo
 
@@ -219,7 +229,7 @@ Nel traffico interno, la presente ordinanza non si applica inoltre ai conducenti
 
 <sup>1</sup> Entro 24 ore dalla fine del periodo di riposo giornaliero o settimanale precedente, il conducente deve effettuare un nuovo periodo di riposo giornaliero.
 
-<sup>2</sup> Il periodo di riposo giornaliero deve essere di almeno 11 ore. Se di una durata complessiva di almeno 12 ore, può essere suddiviso in due parti. La prima deve essere di una durata ininterrotta di almeno 3 ore e la seconda di una durata ininterrotta di almeno 9 ore.
+<sup>2</sup> Il periodo di riposo giornaliero deve essere di almeno 11 ore (periodo di riposo giornaliero regolare). Se di durata complessiva di almeno 12 ore, può essere suddiviso in due parti. La prima deve avere una durata ininterrotta di almeno 3 ore e la seconda di almeno 9 ore.[^9-2]
 
 <sup>3</sup> Il conducente non può effettuare più di tre periodi di riposo giornaliero ridotto tra due periodi di riposo settimanale. La durata minima di un periodo di riposo giornaliero ridotto è di 9 ore.
 
@@ -232,6 +242,7 @@ Nel traffico interno, la presente ordinanza non si applica inoltre ai conducenti
 <sup>7</sup> In trasferta, i periodi di riposo giornaliero possono essere effettuati nel veicolo, purché questo sia in sosta e dotato delle opportune attrezzature per il riposo di tutti i conducenti.
 
 [^9-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^9-2]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 
 #### Art. 10
 
@@ -243,7 +254,7 @@ Nel traffico interno, la presente ordinanza non si applica inoltre ai conducenti
 
 **Periodo di riposo settimanale**[^11-1]
 
-<sup>1</sup> Nel corso di due settimane il conducente deve effettuare due periodi di riposo settimanale ciascuno di almeno 45 ore.
+<sup>1</sup> Nel corso di due settimane il conducente deve effettuare due periodi di riposo settimanale di almeno 45 ore ciascuno (periodo di riposo settimanale regolare).[^11-2]
 
 <sup>2</sup> Uno dei due periodi di riposo può essere ridotto fino a un minimo di 24 ore (periodo di riposo settimanale ridotto). La riduzione deve essere compensata da un periodo di riposo equivalente e ininterrotto nel corso delle seguenti tre settimane.
 
@@ -253,10 +264,23 @@ Nel traffico interno, la presente ordinanza non si applica inoltre ai conducenti
 
 <sup>5</sup> Un periodo di riposo settimanale che inizi in una settimana e si prolunghi nella settimana successiva può essere conteggiato in una delle due, ma non in entrambe.
 
-<sup>6</sup> In trasferta, i periodi di riposo settimanale ridotto possono essere effettuati nel veicolo, purché questo sia in sosta e dotato delle opportune attrezzature per il riposo di tutti i conducenti.[^11-2]
+<sup>6</sup> In trasferta, i periodi di riposo settimanale ridotti possono essere effettuati nel veicolo, purché questo sia in sosta e dotato delle opportune attrezzature per il riposo di tutti i conducenti. I periodi di riposo settimanale regolari e quelli superiori a 45 ore a compensazione di periodi di riposo settimanale ridotti non possono essere effettuati a bordo del veicolo. Essi devono essere trascorsi in un alloggio adeguato, che tenga conto delle specificità di genere e che sia dotato di opportune attrezzature per il riposo e appropriati servizi igienici.[^11-3]
+
+<sup>7</sup>
+
+In deroga al capoverso 2, i due periodi di riposo possono essere ridotti a 24 ore se:
+
+- a. il conducente effettua trasporti internazionali di cose;
+- b. i due periodi di riposo settimanale ridotti consecutivi iniziano al di fuori dello Stato di domicilio del conducente e della sede dell’impresa; e
+- c. nel corso di quattro settimane consecutive sono effettuati almeno quattro periodi di riposo settimanale, di cui almeno due regolari.[^11-4]
+
+<sup>8</sup> Laddove siano stati effettuati consecutivamente due periodi di riposo settimanale ridotti di cui al capoverso 7, il successivo periodo di riposo settimanale regolare deve essere preceduto da un periodo di riposo a compensazione dei due suddetti periodi ridotti. Il periodo a compensazione e il successivo periodo di riposo settimanale regolare devono essere presi in una sola volta.[^11-5]
 
 [^11-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^11-2]: La correzione del 7 feb. 2017 concerne soltanto il testo francese ([RU 2017 511](https://fedlex.data.admin.ch/eli/oc/2017/89)).
+[^11-2]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^11-3]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^11-4]: Introdotto dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^11-5]: Introdotto dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 
 #### Art. 11a
 
@@ -307,26 +331,41 @@ Se il conducente rinvia il periodo di riposo settimanale, dopo il rinvio deve ef
 
 **Trasporti combinati**[^11d-1]
 
-<sup>1</sup> Il periodo durante il quale il conducente accompagna un veicolo trasportato a bordo di un traghetto o di un treno è considerato tempo di disponibilità. Il conducente può conteggiare questo tempo come periodo di riposo giornaliero se dispone di una cuccetta, di una branda o di un posto dove stendersi.
+<sup>1</sup> Il periodo durante il quale il conducente accompagna un veicolo trasportato a bordo di un traghetto o di un treno è considerato tempo di disponibilità. Il conducente può conteggiare questo tempo come periodo di riposo giornaliero o settimanale se dispone di una cuccetta, di una branda o di un posto dove stendersi.
 
-<sup>2</sup>
+<sup>2</sup> Se il tempo trascorso durante il trasporto combinato è conteggiato come periodo di riposo giornaliero regolare o settimanale ridotto, il conducente può interromperlo al massimo due volte se la durata complessiva delle interruzioni non supera l’ora.
 
-In deroga all’articolo 9 capoverso 2 il conducente può interrompere questo periodo di riposo giornaliero al massimo due volte se:
+<sup>3</sup>
 
-- a. la durata complessiva delle interruzioni non supera l’ora; e
-- b. il periodo di riposo non viene accorciato.
+Se il tempo trascorso durante il trasporto combinato è conteggiato come periodo di riposo settimanale regolare, il conducente può interromperlo al massimo due volte se:
 
-[^11d-1]: Introdotto dal n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+- a. la durata prevista del viaggio è pari ad almeno otto ore;
+- b. la durata complessiva delle interruzioni non supera l’ora; e
+- c. dispone di una cuccetta a bordo del traghetto o del treno.
+
+[^11d-1]: Introdotto dal n. I dell’O del 30 giu. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)). Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 
 #### Art. 12
 
-**Deroghe in caso d’emergenza**
+**Deroghe in caso d’emergenza e in circostanze eccezionali[^12-1]**
 
 <sup>1</sup> Nella misura in cui la sicurezza del traffico lo consente, il conducente può derogare alle disposizioni sulla durata del lavoro, della guida e del riposo per raggiungere un’area di stazionamento appropriata, nella misura in cui sia necessario a garantire la sicurezza delle persone trasportate, del veicolo o del suo carico.
 
-<sup>2</sup> Il conducente deve menzionare sul disco per il tachigrafo analogico e su un foglio speciale per il tachigrafo o digitale genere e motivo della deroga alle prescrizioni relative alla durata del lavoro, della guida e del riposo. L’articolo 14*b* capoverso 4 si applica per analogia.[^12-1]
+<sup>1bis</sup>
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+Nella misura in cui la sicurezza della circolazione stradale lo consente, in circostanze eccezionali il conducente può derogare agli articoli 5 capoversi 1 e 2 e 9 capoverso 1 e superare il periodo di guida giornaliero e settimanale fino a:
+
+- a. un’ora, al fine di raggiungere la sede dell’impresa o il proprio domicilio per effettuare un periodo di riposo settimanale;
+- b. due ore, al fine di raggiungere la sede dell’impresa o il proprio domicilio per effettuare un periodo di riposo settimanale regolare, a condizione di aver osservato una pausa di 30 minuti consecutivi subito prima del periodo di guida aggiuntivo.[^12-2]
+
+<sup>1ter</sup> Ogni eventuale estensione del tempo di guida deve essere compensata da un periodo di riposo equivalente. Quest’ultimo deve essere effettuato assieme a un periodo di riposo giornaliero o settimanale senza interruzione entro la fine della terza settimana successiva alla settimana in questione.[^12-3]
+
+<sup>2</sup> Il conducente deve menzionare sul disco per il tachigrafo analogico e su un foglio speciale per il tachigrafo o digitale genere e motivo della deroga alle prescrizioni relative alla durata del lavoro, della guida e del riposo. L’articolo 14*b* capoverso 4 si applica per analogia.[^12-4]
+
+[^12-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^12-2]: Introdotto dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^12-3]: Introdotto dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^12-4]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 
 ## Sezione 4: Disposizioni sul controllo
 
@@ -410,20 +449,21 @@ Le carte per il tachigrafo sono ritirate o annullate prima della scadenza della 
 
 <sup>1</sup> Le carte dell’officina sono rilasciate alle officine che dispongono di un’autorizzazione di cui all’articolo 101 dell’ordinanza del 19 giugno 1995[^13c-2] concernente le esigenze tecniche per i veicoli stradali (OETV) e non soddisfano le condizioni per il rilascio di una carta dell’azienda. In casi motivati le carte dell’officina possono essere rilasciate anche alle officine che soddisfano le condizioni per il rilascio di una carta dell’azienda se le loro attività aziendali non pregiudicano il sistema di sicurezza secondo il regolamento (UE) n. 165/2014[^13c-3].[^13c-4]
 
-<sup>2</sup> La richiesta di una carta dell’officina deve essere inoltrata all’Amministrazione federale delle dogane e contiene i dati relativi all’officina e al corrispondente tecnico conformemente all’allegato 2 numeri 222 e 223 OSIAC[^13c-5].[^13c-6]
+<sup>2</sup> La richiesta di una carta dell’officina deve essere inoltrata all’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^13c-5] e contiene i dati relativi all’officina e al corrispondente tecnico conformemente all’allegato 2 numeri 222 e 223 OSIAC[^13c-6].[^13c-7]
 
 <sup>3</sup> La carta dell’officina ha una durata di validità di un anno.
 
 <sup>4</sup> La carta dell’officina è rilasciata all’officina e ai suoi tecnici autorizzati. Può essere utilizzata soltanto dal tecnico dell’officina autorizzato e soltanto presso la sede dell’officina pertinente. Il tecnico è personalmente responsabile dei lavori e delle calibrazioni eseguiti sui tachigrafi digitali con la sua carta dell’officina.
 
-<sup>5</sup> Le carte dell’officina devono essere restituite all’Amministrazione federale delle dogane in caso di modifiche secondo l’articolo 13*a* capoverso 3, danneggiamento o cattivo funzionamento. Se viene ritrovata, una carta dell’officina sostituita deve essere consegnata all’autorità entro 14 giorni. I dati memorizzati sulla carta devono essere preventivamente salvati.
+<sup>5</sup> Le carte dell’officina devono essere restituite all’UDSC in caso di modifiche secondo l’articolo 13*a* capoverso 3, danneggiamento o cattivo funzionamento. Se viene ritrovata, una carta dell’officina sostituita deve essere consegnata all’autorità entro 14 giorni. I dati memorizzati sulla carta devono essere preventivamente salvati.
 
 [^13c-1]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 [^13c-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^13c-3]: Regolamento (UE) n. 165/2014 del Parlamento europeo e del Consiglio del 4 febbraio 2014 relativo ai tachigrafi nel settore dei trasporti su strada, che abroga il regolamento (CEE) n. 3821/85 del Consiglio relativo all’apparecchio di controllo nel settore dei trasporti su strada e modifica il regolamento (CE) n. 561/2006 del Parlamento europeo e del Consiglio relativo all’armonizzazione di alcune disposizioni in materia sociale nel settore dei trasporti su strada, versione della GU L 60 del 28.2.2014, pag. 1.
 [^13c-4]: Nuovo testo giusta il n. II 10 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
-[^13c-5]: [RS 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
-[^13c-6]: Nuovo testo giusta il n. II 10 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^13c-5]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta modifica è tenuto conto in tutto il presente testo.
+[^13c-6]: [RS 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
+[^13c-7]: Nuovo testo giusta il n. II 10 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 #### Art. 13d
 
@@ -445,7 +485,7 @@ Le carte per il tachigrafo sono ritirate o annullate prima della scadenza della 
 
 **Carta di controllo**[^13e-1]
 
-<sup>1</sup> Le carte di controllo sono rilasciate alle autorità preposte ai controlli stradali e aziendali dei Cantoni e dell’Amministrazione federale delle dogane.
+<sup>1</sup> Le carte di controllo sono rilasciate alle autorità preposte ai controlli stradali e aziendali dei Cantoni e dell’UDSC.
 
 <sup>2</sup> La richiesta di una carta di controllo deve essere inoltrata all’autorità competente e contiene i dati relativi all’autorità di controllo conformemente all’allegato 2 numero 242 OSIAC[^13e-2].[^13e-3]
 
@@ -490,11 +530,12 @@ Il conducente deve apportare sul disco le seguenti indicazioni:
 - b. prima dell’inserimento del disco e dopo la sua estrazione: data e luogo;
 - c. dopo l’estrazione del disco, terminata l’ultima corsa della giornata: il nuovo stato del contachilometri e il totale dei chilometri percorsi;
 - d. in caso di cambio di veicolo durante la giornata: i chilometri percorsi con il veicolo precedente e con il nuovo veicolo;
-- e. eventualmente l’ora del cambio di veicolo.
+- e. eventualmente l’ora del cambio di veicolo;
+- f.[^14a-2] all’inizio della prima sosta utile dopo aver attraversato il confine di Stato: il Paese in cui è entrato.
 
-<sup>2</sup> Se non è in grado di utilizzare il tachigrafo poiché non si trova nelle vicinanze del veicolo, il conducente deve iscrivere costantemente sul disco i dati relativi ai periodi di lavoro e di riposo e ai tempi di disponibilità, a mano o in altro modo idoneo, in maniera leggibile. Le iscrizioni fatte a mano non devono pregiudicare le registrazioni dell’apparecchio.[^14a-2]
+<sup>2</sup> Se non è in grado di utilizzare il tachigrafo poiché non si trova nelle vicinanze del veicolo, il conducente deve iscrivere costantemente sul disco i dati relativi ai periodi di lavoro e di riposo e ai tempi di disponibilità, a mano o in altro modo idoneo, in maniera leggibile. Le iscrizioni fatte a mano non devono pregiudicare le registrazioni dell’apparecchio.[^14a-3]
 
-<sup>3</sup> In caso di guasto o di funzionamento difettoso del tachigrafo il conducente deve annotare sul disco o su un foglio speciale da accludere al disco i corrispondenti dati concernenti i periodi di lavoro, di guida, di riposo e i tempi di disponibilità che non sono più registrati in maniera ineccepibile.[^14a-3]
+<sup>3</sup> In caso di guasto o di funzionamento difettoso del tachigrafo il conducente deve annotare sul disco o su un foglio speciale da accludere al disco i corrispondenti dati concernenti i periodi di lavoro, di guida, di riposo e i tempi di disponibilità che non sono più registrati in maniera ineccepibile.[^14a-4]
 
 <sup>4</sup> Nessun disco deve essere utilizzato per un periodo più lungo di quello per il quale è destinato.
 
@@ -503,8 +544,9 @@ Il conducente deve apportare sul disco le seguenti indicazioni:
 <sup>6</sup> Il datore di lavoro deve mettere gratuitamente a disposizione del lavoratore i dischi e, a richiesta, consegnargli una copia dei dischi utilizzati.
 
 [^14a-1]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^14a-2]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^14a-2]: Introdotta dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 [^14a-3]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^14a-4]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 
 #### Art. 14b
 
@@ -660,15 +702,31 @@ Se il veicolo è provvisto di tachigrafo digitale, i datori di lavoro e i conduc
 
 <sup>1</sup> Il datore di lavoro deve ripartire l’attività professionale del conducente in modo che questi possa osservare le disposizioni concernenti la durata del lavoro, della guida e del riposo. Se il lavoro attribuitogli potesse causare una violazione di tali disposizioni, il conducente deve informare tempestivamente il datore di lavoro.
 
+<sup>1bis</sup>
+
+Il datore di lavoro deve ripartire l’attività professionale del conducente in modo che questi, nell’arco di quattro settimane consecutive e al fine di effettuare un periodo di riposo settimanale di almeno 45 ore, possa ritornare:
+
+- a. nella sede dell’impresa da cui normalmente dipende e dove inizia il suo periodo di riposo settimanale; oppure
+- b. al proprio domicilio.[^17-1]
+
+<sup>1ter</sup>
+
+Laddove il conducente abbia effettuato due periodi di riposo settimanale ridotti consecutivi ai sensi dell’articolo 11 capoverso 7, il datore di lavoro deve ripartire l’attività professionale del conducente in modo che questi possa ritornare, già prima dell’inizio del periodo di riposo settimanale regolare superiore a 45 ore effettuato a compensazione:
+
+- a. nella sede dell’impresa da cui normalmente dipende e dove inizia il suo periodo di riposo settimanale; oppure
+- b. al proprio domicilio.[^17-2]
+
 <sup>2</sup> Il datore di lavoro deve vegliare a che il lavoratore osservi le disposizioni sulla durata del lavoro, della guida e del riposo, tenga correttamente i mezzi di controllo e glieli consegni per tempo.
 
 <sup>3</sup> Il datore di lavoro tiene un elenco comprendente i nomi dei conducenti, il loro indirizzo e la loro data di nascita nonché l’eventuale numero dei libretti di lavoro.
 
-<sup>3bis</sup> Il datore di lavoro deve vegliare a che i dati personali dei conducenti raccolti in relazione all’esecuzione della presente ordinanza siano utilizzati unicamente ai fini della stessa e protetti da accessi non autorizzati.[^17-1]
+<sup>3bis</sup> Il datore di lavoro deve vegliare a che i dati personali dei conducenti raccolti in relazione all’esecuzione della presente ordinanza siano utilizzati unicamente ai fini della stessa e protetti da accessi non autorizzati.[^17-3]
 
 <sup>4</sup> Il salario dei lavoratori non può essere calcolato in base alle distanze percorse, al volume delle merci trasportate o ad altre prestazioni che compromettono la sicurezza della circolazione stradale.
 
-[^17-1]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
+[^17-1]: Introdotto dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^17-2]: Introdotto dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^17-3]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
 
 #### Art. 18
 
@@ -739,6 +797,32 @@ Durante le corse di guida effettuate nell’ambito della formazione, l’istrutt
 
 <sup>3</sup> Per i conducenti impiegati a titolo accessorio, che all’infuori di tale occupazione non esercitano altra attività lucrativa in qualità di lavoratore, quali contadini, studenti e casalinghe, l’autorità di esecuzione stabilisce un numero di ore come base di durata del lavoro, nella misura in cui ciò s’imponga a causa dell’occupazione nella loro professione principale.
 
+#### Art. 20a
+
+**Conducenti del servizio invernale**[^20a-1]
+
+<sup>1</sup>
+
+In deroga all’articolo 9 capoverso 1, in casi imprevisti e motivati, una volta a settimana l’arco di tempo nel quale deve essere effettuato un nuovo periodo di riposo giornaliero può essere prorogato a 30 ore per i conducenti:
+
+- a. impiegati alla guida di veicoli del servizio invernale;
+- b. operanti esclusivamente nel traffico interno; e
+- c. soggetti alle prescrizioni della presente ordinanza.
+
+<sup>2</sup>
+
+Nei casi di cui al capoverso 1 vigono le seguenti disposizioni:
+
+- a. il periodo di riposo giornaliero deve essere di almeno 12 ore;
+- b. non si applica l’articolo 9 capoverso 2;
+- c. il conducente deve effettuare un periodo di riposo settimanale regolare nella settimana in cui si avvale dell’eccezione di cui al capoverso 1.
+
+<sup>3</sup> L’eccezione di cui al capoverso 1 si applica per analogia anche ai conducenti chiamati a svolgere un intervento del servizio invernale che viene annullato quando non è più possibile effettuare un periodo di riposo giornaliero secondo l’articolo 9 capoversi 1 e 3.
+
+<sup>4</sup> Il conducente deve annotare il servizio svolto avvalendosi dell’eccezione di cui al capoverso 1 su un foglio speciale in conformità con l’articolo 14*b* capoverso 4 o su un estratto ai sensi dell’articolo 14*b* capoverso 5.
+
+[^20a-1]: Introdotto dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+
 ## Sezione 6: Disposizioni penali e perseguimento penale
 
 #### Art. 21
@@ -760,7 +844,7 @@ Durante le corse di guida effettuate nell’ambito della formazione, l’istrutt
 - g.[^21-4] ...
 - h. manipola l’intero sistema del tachigrafo digitale in modo tale che i dati da esso forniti sono errati.[^21-5]
 
-<sup>3</sup> Chiunque contravviene agli obblighi o alle prescrizioni da osservare secondo le disposizioni speciali (art. 19 e 20) è punito con la multa.[^21-6]
+<sup>3</sup> Chiunque contravviene agli obblighi o alle prescrizioni da osservare secondo le disposizioni speciali (art. 19–20*a*) è punito con la multa.[^21-6]
 
 <sup>4</sup> Il datore di lavoro che induce un conducente a commettere un atto punibile ai sensi della presente ordinanza oppure non glielo impedisce, nei limiti delle sue possibilità, è passibile della stessa pena inflitta al conducente. Il giudice può attenuare la pena per il lavoratore o esentarlo da una pena se le circostanze lo giustificano.
 
@@ -769,7 +853,7 @@ Durante le corse di guida effettuate nell’ambito della formazione, l’istrutt
 [^21-3]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
 [^21-4]: Abrogata dal n. I dell’O del 28 mar. 2007, con effetto dal 1° gen. 2008 ([RU 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
 [^21-5]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^21-6]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
+[^21-6]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 
 #### Art. 22
 
@@ -809,7 +893,7 @@ Durante le corse di guida effettuate nell’ambito della formazione, l’istrutt
 
 <sup>3</sup> L’Ufficio federale delle strade, in conformità con le prescrizioni internazionali, fissa la forma e l’aspetto delle carte per il tachigrafo e li pubblica.[^24-3]
 
-<sup>4</sup> L’Amministrazione federale delle dogane è competente per il rilascio, la revoca e la dichiarazione di non validità delle carte per le officine.[^24-4]
+<sup>4</sup> L’UDSC è competente per il rilascio, la revoca e la dichiarazione di non validità delle carte per le officine.[^24-4]
 
 <sup>5</sup> L’Ufficio federale delle strade è competente per il rilascio, la revoca e la dichiarazione di non validità delle carte del conducente e dell’azienda.[^24-5]
 
