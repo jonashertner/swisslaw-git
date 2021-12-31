@@ -4,13 +4,13 @@ number: II A/2/3
 title: Landratsverordnung
 short: LRV
 language: de
-version: 2021-09-01
-valid_until: 2021-12-31
+version: 2022-01-01
+valid_until: 2023-12-31
 version_adopted: 2019-12-04
 adopted: 1994-04-13
 in_force: 1994-06-29
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.2.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2244/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2260/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2244/pdf_file"
 
 (LRV)
 
-Vom 13.04.1994 (Stand 01.09.2021)
+Vom 13.04.1994 (Stand 01.01.2022)
 
 Der Landrat des Kantons Glarus,
 
@@ -184,11 +184,9 @@ beschliesst:
 
 <sup>2</sup> Die Aufzeichnungen öffentlicher Beratungen werden in Echtzeit über das Internet übertragen.
 
-<sup>3</sup> ...[^15a-1]
+<sup>3</sup> Die Aufzeichnungen öffentlicher Beratungen bleiben in geeigneter Form im Internet zugänglich.
 
 <sup>4</sup> Das Büro regelt die Einzelheiten.
-
-[^15a-1]: Tritt zu einem späteren Zeitpunkt in Kraft.
 
 #### Art. 16
 
