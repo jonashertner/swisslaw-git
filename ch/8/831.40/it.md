@@ -4,11 +4,11 @@ title: "Legge federale del 25 giugno 1982 sulla previdenza professionale per la 
 short: LPP
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: it
-version: 2021-07-01
+version: 2022-01-01
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20210701/it"
 
 (LPP)
 
-del 25 giugno 1982 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
+del 25 giugno 1982 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -413,18 +413,11 @@ Hanno diritto alle prestazioni d’invalidità le persone che:
 
 #### Art. 24
 
-**Ammontare della rendita**[^24-1]
+**Calcolo della rendita intera d’invalidità[^24-2]**[^24-1]
 
-<sup>1</sup>
+<sup>1</sup> ... [^24-3]
 
-L’assicurato ha diritto:
-
-- a. alla rendita intera d’invalidità se, nel senso dell’AI, è invalido per almeno il 70 per cento;
-- b. a tre quarti di rendita se è invalido per almeno il 60 per cento;
-- c. a una mezza rendita se è invalido per almeno il 50 per cento;
-- d. a un quarto di rendita se è invalido per almeno il 40 per cento.
-
-<sup>2</sup> La rendita d’invalidità è calcolata secondo l’aliquota di conversione valida per la rendita di vecchiaia all’età di 65 anni[^24-2]. Agli assicurati della generazione di transizione si applica l’aliquota di conversione stabilita dal Consiglio federale secondo la lettera b delle disposizioni transitorie della modifica della presente legge del 3 ottobre 2003.
+<sup>2</sup> La rendita d’invalidità è calcolata secondo l’aliquota di conversione valida per la rendita di vecchiaia all’età di 65 anni[^24-4]. Agli assicurati della generazione di transizione si applica l’aliquota di conversione stabilita dal Consiglio federale secondo la lettera b delle disposizioni transitorie della modifica della presente legge del 3 ottobre 2003.
 
 <sup>3</sup>
 
@@ -435,12 +428,51 @@ L’avere di vecchiaia determinante per il calcolo consta:
 
 <sup>4</sup> Gli accrediti di vecchiaia per gli anni mancanti sono calcolati sul salario coordinato dell’assicurato durante l’ultimo anno d’assicurazione nell’istituto di previdenza.
 
-<sup>5</sup> La rendita d’invalidità è adeguata se nell’ambito del conguaglio della previdenza professionale è trasferito un importo secondo l’articolo 124 capoverso 1 CC[^24-3]. Il Consiglio federale disciplina il calcolo di tale adeguamento.[^24-4]
+<sup>5</sup> La rendita d’invalidità è adeguata se nell’ambito del conguaglio della previdenza professionale è trasferito un importo secondo l’articolo 124 capoverso 1 CC[^24-5]. Il Consiglio federale disciplina il calcolo di tale adeguamento.[^24-6]
 
 [^24-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
-[^24-2]: Dal 1° gen. 2005: 64 anni per le donne (art. 62*a* cpv. 2 lett. c dell’O del 18 apr. 1984 sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità, nel testo del 18 ago. 2004 – [RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
-[^24-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^24-4]: Introdotto dall’all. n. 4 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^24-2]: Nuovo testo giusta l’all. n. 3 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^24-3]: Abrogato dall’all. n. 3 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), con effetto dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^24-4]: Dal 1° gen. 2005: 64 anni per le donne (art. 62*a* cpv. 2 lett. c dell’O del 18 apr. 1984 sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità, nel testo del 18 ago. 2004 – [RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^24-5]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^24-6]: Introdotto dall’all. n. 4 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+
+#### Art. 24a
+
+**Graduazione della rendita d’invalidità in base al grado d’invalidità**[^24a-1]
+
+<sup>1</sup> L’ammontare della rendita d’invalidità è determinato quale quota percentuale di una rendita intera.
+
+<sup>2</sup> Se il grado d’invalidità nel senso dell’AI è compreso tra il 50 e il 69 per cento, la quota percentuale corrisponde al grado d’invalidità.
+
+<sup>3</sup> Se il grado d’invalidità nel senso dell’AI è uguale o superiore al 70 per cento, l’assicurato ha diritto a una rendita intera.
+
+<sup>4</sup> Se il grado d’invalidità nel senso dell’AI è inferiore al 50 per cento, si applicano le quote percentuali seguenti:
+
+<table>
+<tr><td>Grado d’invalidità</td><td>Quota percentuale</td></tr>
+<tr><td>49 %</td><td>47,5 %</td></tr>
+<tr><td>48 %</td><td>45 %</td></tr>
+<tr><td>47 %</td><td>42,5 %</td></tr>
+<tr><td>46 %</td><td>40 %</td></tr>
+<tr><td>45 %</td><td>37,5 %</td></tr>
+<tr><td>44 %</td><td>35 %</td></tr>
+<tr><td>43 %</td><td>32,5 %</td></tr>
+<tr><td>42 %</td><td>30 %</td></tr>
+<tr><td>41 %</td><td>27,5 %</td></tr>
+<tr><td>40 %</td><td>25 %</td></tr>
+</table>
+
+[^24a-1]: Introdotto dall’all. n. 3 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)). Vedi anche le disp trans. alla fine del presente testo.
+
+#### Art. 24b
+
+**Revisione della rendita d’invalidità**[^24b-1]
+
+Una volta stabilita, la rendita d’invalidità è aumentata, ridotta o soppressa se il grado d’invalidità subisce una modificazione secondo l’articolo 17 capoverso 1 LPGA[^24b-2].
+
+[^24b-1]: Introdotto dall’all. n. 3 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^24b-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 25
 
@@ -831,9 +863,30 @@ Di regola, le rendite sono pagate mese per mese. Per il mese in cui il diritto s
 
 #### Art. 40
 
-[^40-1]
+**Misure in caso d’inosservanza dell’obbligo di mantenimento**[^40-1]
 
-[^40-1]: Abrogato dal n. I della LF del 17 dic. 1993 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, con effetto dal 1° gen. 1995 ([RU 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [FF 1992 VI 209](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209)).
+<sup>1</sup> Se un assicurato è in ritardo di almeno quattro mensilità nel pagamento periodico di alimenti, l’ufficio specializzato designato dal diritto cantonale di cui agli articoli 131 capoverso 1 e 290 del Codice civile[^40-2] lo può notificare all’istituto di previdenza.
+
+<sup>2</sup> Le notifiche hanno effetto a contare dalla loro trattazione, ma al più tardi cinque giorni lavorativi dopo la loro trasmissione.
+
+<sup>3</sup>
+
+L’istituto di previdenza annuncia senza indugio all’ufficio specializzato l’esigibilità delle seguenti pretese degli assicurati che gli sono stati notificati:
+
+- a. il versamento di una liquidazione in capitale unica di importo pari ad almeno 1000 franchi;
+- b. il pagamento in contanti, secondo l’articolo 5 LFLP[^40-3], di un importo pari ad almeno 1000 franchi;
+- c. il prelievo anticipato nell’ambito della promozione della proprietà d’abitazioni secondo l’articolo 30*c* della presente legge e l’articolo 331*e* CO[^40-4].
+
+<sup>4</sup> L’istituto di previdenza annuncia all’ufficio specializzato anche la costituzione in pegno secondo l’articolo 30*b* delle prestazioni di previdenza di questi assicurati nonché la realizzazione del pegno.
+
+<sup>5</sup> Gli annunci e le notifiche di cui ai capoversi 1, 3 e 4 devono essere effettuati, per scritto, mediante invio postale raccomandato o in altro modo contro ricevuta.
+
+<sup>6</sup> L’istituto di previdenza può effettuare uno dei versamenti di cui al capoverso 3 al più presto 30 giorni dopo la notifica all’ufficio specializzato.
+
+[^40-1]: Nuovo testo giusta l’all. n. 3 della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2022 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728)[5017](https://fedlex.data.admin.ch/eli/oc/2015/822), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^40-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^40-3]: RS **831****.****42**
+[^40-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 41
 
@@ -962,13 +1015,14 @@ Un istituto di previdenza è radiato dal registro se:
 - a. non soddisfa più le condizioni legali per la registrazione e non provvede agli adeguamenti necessari entro il termine impartito dall’autorità di vigilanza;
 - b. rinuncia alla registrazione.[^48-3]
 
-<sup>4</sup> Gli istituti di previdenza registrati e i terzi coinvolti nella previdenza professionale da essi attuata sono autorizzati a utilizzare sistematicamente, per adempiere i loro compiti legali, il numero d’assicurato dell’AVS conformemente alle disposizioni della LAVS[^48-4].[^48-5]
+<sup>4</sup> Gli istituti di previdenza registrati e i terzi coinvolti nella previdenza professionale da essi attuata sono autorizzati a utilizzare sistematicamente, per adempiere i loro compiti legali, il numero AVS[^48-4] conformemente alle disposizioni della LAVS[^48-5].[^48-6]
 
 [^48-1]: Nuovo testo giusta l’all. n. 9 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^48-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2014 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457), [2013 2253](https://fedlex.data.admin.ch/eli/oc/2013/470); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 [^48-3]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^48-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^48-5]: Introdotto dall’all. n. 9 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^48-4]: Nuova espr. giusta l’all. n. 29 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^48-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^48-6]: Introdotto dall’all. n. 9 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 
 #### Art. 49
 
@@ -988,19 +1042,20 @@ Se un istituto di previdenza concede prestazioni superiori a quelle minime, alla
 - 4\. la restituzione delle prestazioni ricevute indebitamente (art. 35*a*);
 - 5\.[^49-7] l’adeguamento all’evoluzione dei prezzi (art. 36 cpv. 2–4);
 - 5*a*.[^49-8] il consenso alla liquidazione in capitale (art. 37*a*);
+- 5*b*.[^49-9] le misure in caso d’inosservanza dell’obbligo di mantenimento (art. 40);
 - 6\. la prescrizione dei diritti e la conservazione di documenti (art. 41);
-- 6*a*.[^49-9] la cessazione dell’assicurazione obbligatoria dopo i 58 anni (art. 47*a*);
-- 6*b*.[^49-10] l’utilizzazione sistematica del numero d’assicurato dell’AVS (art. 48 cpv. 4);
-- 7\.[^49-11] l’amministrazione paritetica e i compiti dell’organo supremo dell’istituto di previdenza (art. 51 e 51*a*);
+- 6*a*.[^49-10] la cessazione dell’assicurazione obbligatoria dopo i 58 anni (art. 47*a*);
+- 6*b*.[^49-11] l’utilizzazione sistematica del numero AVS (art. 48 cpv. 4);
+- 7\.[^49-12] l’amministrazione paritetica e i compiti dell’organo supremo dell’istituto di previdenza (art. 51 e 51*a*);
 - 8\. la responsabilità (art. 52);
-- 9\.[^49-12] l’abilitazione e i compiti degli organi di controllo (art. 52*a*–52*e*);
-- 10\.[^49-13] l’integrità e la lealtà dei responsabili, i negozi giuridici con persone vicine e i conflitti d’interesse (art. 51*b*, 51*c* e 53*a*) [^49-14];
+- 9\.[^49-13] l’abilitazione e i compiti degli organi di controllo (art. 52*a*–52*e*);
+- 10\.[^49-14] l’integrità e la lealtà dei responsabili, i negozi giuridici con persone vicine e i conflitti d’interesse (art. 51*b*, 51*c* e 53*a*) [^49-15];
 - 11\. la liquidazione parziale o totale (art. 53*b*–53*d*);
-- 12\.[^49-15] lo scioglimento dei contratti (art. 53*e* e 53*f*);
+- 12\.[^49-16] lo scioglimento dei contratti (art. 53*e* e 53*f*);
 - 13\. il fondo di garanzia (art. 56 cpv. 1 lett. c e cpv. 2–5, 56*a*, 57 e 59);
-- 14\.[^49-16] la vigilanza e l’alta vigilanza (art. 61–62*a* e 64–64*c*);
-- 15\.[^49-17] ...
-- 16\.[^49-18] la sicurezza finanziaria (art. 65, 65*c*, 65*d* cpv. 1, 2 e 3 lett. a, secondo periodo, e b, 65*e*, 66 cpv. 4, 67 e 72*a*–72*g*);
+- 14\.[^49-17] la vigilanza e l’alta vigilanza (art. 61–62*a* e 64–64*c*);
+- 15\.[^49-18] ...
+- 16\.[^49-19] la sicurezza finanziaria (art. 65, 65*c*, 65*d* cpv. 1, 2 e 3 lett. a, secondo periodo, e b, 65*e*, 66 cpv. 4, 67 e 72*a*–72*g*);
 - 17\. la trasparenza (art. 65*a*);
 - 18\. le riserve (art. 65*b*);
 - 19\. i contratti assicurativi tra istituti di previdenza e istituti d’assicurazione (art. 68 cpv. 3 e 4);
@@ -1010,8 +1065,8 @@ Se un istituto di previdenza concede prestazioni superiori a quelle minime, alla
 - 23\. le disposizioni penali (art. 75–79);
 - 24\. il riscatto (art. 79*b*);
 - 25\. il salario assicurabile e il reddito assicurabile (art. 79*c*);
-- [tab] 25*a*.[^49-19] il trattamento dei dati per assegnare o verificare il numero d’assicurato dell’AVS (art. 85*a* lett. f);
-- [tab] 25*b*.[^49-20] la comunicazione dei dati per assegnare o verificare il numero d’assicurato dell’AVS (art. 86*a* cpv. 2 lett. b<sup>bis</sup>);
+- [tab] 25*a*.[^49-20] il trattamento dei dati per assegnare o verificare il numero AVS (art. 85*a* lett. f);
+- [tab] 25*b*.[^49-21] la comunicazione dei dati per assegnare o verificare il numero AVS (art. 86*a* cpv. 2 lett. b<sup>bis</sup>);
 - 26\. l’informazione degli assicurati (art. 86*b*).
 
 [^49-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 per il cpv. 2 n. 7 a 9, 12 a 14, 16 (ad accezione dell’art. 66, cpv. 4), 17, 19 a 23 e 26, dal 1° gen. 2005 per i cpv. 1 e 2 n. 3 a 6, 10, 11, 15, 16 (art. 66 cpv. 4), 18, dal 1° gen. 2006 per il cpv. 2 n. 1, 24 e 25 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
@@ -1022,18 +1077,19 @@ Se un istituto di previdenza concede prestazioni superiori a quelle minime, alla
 [^49-6]: Originaria lett. 3*a*. Introdotto dall’all. n. 6 della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^49-7]: Nuovo testo giusta il n. I della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
 [^49-8]: Introdotto dall’all. n. 4 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^49-9]: Introdotto dal n. II 2 della LF del 22 mar. 2019 (Riforma delle PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^49-10]: Originario 6*a*. Introdotto dall’all. n. 9 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^49-11]: Nuovo testo giusta il n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^49-9]: Introdotta dall’all. n. 3 della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2022 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728)[5017](https://fedlex.data.admin.ch/eli/oc/2015/822), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^49-10]: Introdotto dal n. II 2 della LF del 22 mar. 2019 (Riforma delle PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^49-11]: Originario 6*a*. Introdotto dall’all. n. 9 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^49-12]: Nuovo testo giusta il n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^49-13]: Nuovo testo giusta il n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^49-14]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^49-15]: Nuovo testo giusta il n. I della LF del 20 dic. 2006 (Cambiamento dell’istituto di previdenza), in vigore dal 1° mag. 2007 ([RU 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [FF 2005 5283](https://fedlex.data.admin.ch/eli/fga/2005/954)[5295](https://fedlex.data.admin.ch/eli/fga/2005/956)).
-[^49-16]: Nuovo testo giusta il n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^49-17]: Abrogato dal n. I della LF del 19 mar. 2010 (Riforma strutturale), con effetto dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^49-18]: Nuovo testo giusta il n. I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^49-19]: Introdotto dall’all. n. 9 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^49-14]: Nuovo testo giusta il n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^49-15]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^49-16]: Nuovo testo giusta il n. I della LF del 20 dic. 2006 (Cambiamento dell’istituto di previdenza), in vigore dal 1° mag. 2007 ([RU 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [FF 2005 5283](https://fedlex.data.admin.ch/eli/fga/2005/954)[5295](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+[^49-17]: Nuovo testo giusta il n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^49-18]: Abrogato dal n. I della LF del 19 mar. 2010 (Riforma strutturale), con effetto dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^49-19]: Nuovo testo giusta il n. I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 [^49-20]: Introdotto dall’all. n. 9 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^49-21]: Introdotto dall’all. n. 9 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 
 #### Art. 50
 
@@ -2367,7 +2423,7 @@ Gli organi incaricati di applicare la presente legge o di controllarne o sorvegl
 - c. far valere una pretesa di regresso nei confronti di terzi responsabili;
 - d. sorvegliare l’esecuzione della presente legge;
 - e. allestire statistiche;
-- f.[^85a-3] assegnare o verificare il numero d’assicurato dell’AVS.
+- f.[^85a-3] assegnare o verificare il numero AVS.
 
 [^85a-1]: Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 [^85a-2]: Nuovo testo giusta l’all. n. 9 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
@@ -2408,12 +2464,13 @@ Le persone incaricate di applicare la presente legge nonché di controllarne e s
 Purché nessun interesse privato preponderante vi si opponga, in singoli casi e su richiesta scritta e motivata i dati possono essere comunicati:
 
 - a. alle autorità d’assistenza sociale, qualora ne necessitino per determinare o modificare prestazioni, chiederne la restituzione o prevenire pagamenti indebiti;
+- a<sup>bis</sup>.[^86a-2] all’ufficio specializzato designato dal diritto cantonale (art. 40), qualora ne necessiti per riscuotere alimenti non pagati o garantire il versamento di alimenti futuri;
 - b. ai tribunali civili, qualora ne necessitino per decidere di una controversia relativa al diritto di famiglia o successorio;
 - c. ai tribunali penali e alle autorità istruttorie penali, qualora ne necessitino per accertare un crimine o un delitto;
-- d. agli uffici d’esecuzione, conformemente agli articoli 91, 163 e 222 della legge federale dell’11 aprile 1889[^86a-2] sulla esecuzione e sul fallimento;
+- d. agli uffici d’esecuzione, conformemente agli articoli 91, 163 e 222 della legge federale dell’11 aprile 1889[^86a-3] sulla esecuzione e sul fallimento;
 - e. alle autorità fiscali, qualora riguardino il versamento di prestazioni della previdenza professionale e siano necessari per l’applicazione delle leggi in materia fiscale;
-- f.[^86a-3] alle autorità di protezione dei minori e degli adulti, conformemente all’articolo 448 capoverso 4 del Codice civile[^86a-4];
-- g.[^86a-5] ...
+- f.[^86a-4] alle autorità di protezione dei minori e degli adulti, conformemente all’articolo 448 capoverso 4 del Codice civile[^86a-5];
+- g.[^86a-6] ...
 
 <sup>2</sup>
 
@@ -2421,14 +2478,14 @@ Purché nessun interesse privato preponderante vi si opponga, i dati possono ess
 
 - a. ad altri organi incaricati di applicare la presente legge, nonché di controllarne o sorvegliarne l’esecuzione, qualora ne necessitino per adempiere gli obblighi conferiti loro dalla presente legge;
 - b. agli organi di altre assicurazioni sociali, qualora l’obbligo di comunicazione sia sancito da una legge federale;
-- [tab] b<sup>bis</sup>.[^86a-6] agli organi di un’altra assicurazione sociale per assegnare o verificare il numero d’assicurato dell’AVS;
-- c. alle autorità competenti per l’imposta alla fonte, conformemente agli articoli 88 e 100 della legge federale del 14 dicembre 1990[^86a-7] sull’imposta federale diretta, nonché alle rispettive disposizioni cantonali;
-- d. agli organi della statistica federale, conformemente alla legge federale del 9 ottobre 1992[^86a-8] sulla statistica federale;
+- [tab] b<sup>bis</sup>.[^86a-7] agli organi di un’altra assicurazione sociale per assegnare o verificare il numero AVS;
+- c. alle autorità competenti per l’imposta alla fonte, conformemente agli articoli 88 e 100 della legge federale del 14 dicembre 1990[^86a-8] sull’imposta federale diretta, nonché alle rispettive disposizioni cantonali;
+- d. agli organi della statistica federale, conformemente alla legge federale del 9 ottobre 1992[^86a-9] sulla statistica federale;
 - e. alle autorità istruttorie penali, qualora ne necessitino per denunciare o impedire un crimine;
-- f.[^86a-9] all’ufficio AI competente per il rilevamento tempestivo conformemente all’articolo 3*b* LAI[^86a-10] o nell’ambito della collaborazione interistituzionale secondo l’articolo 68<sup>bis</sup> LAI e agli istituti d’assicurazione privati secondo l’articolo 68<sup>bis</sup> capoverso 1 lettera b LAI;
-- g.[^86a-11] al Servizio delle attività informative della Confederazione (SIC) o agli organi di sicurezza dei Cantoni a destinazione del SIC, qualora sussista una minaccia concreta per la sicurezza interna o esterna secondo l’articolo 19 capoverso 2 della legge federale del 25 settembre 2015[^86a-12] sulle attività informative.
+- f.[^86a-10] all’ufficio AI competente per il rilevamento tempestivo conformemente all’articolo 3*b* LAI[^86a-11] o nell’ambito della collaborazione interistituzionale secondo l’articolo 68<sup>bis</sup> LAI e agli istituti d’assicurazione privati secondo l’articolo 68<sup>bis</sup> capoverso 1 lettera b LAI;
+- g.[^86a-12] al Servizio delle attività informative della Confederazione (SIC) o agli organi di sicurezza dei Cantoni a destinazione del SIC, qualora sussista una minaccia concreta per la sicurezza interna o esterna secondo l’articolo 19 capoverso 2 della legge federale del 25 settembre 2015[^86a-13] sulle attività informative.
 
-<sup>3</sup> I dati possono altresì essere comunicati alle competenti autorità fiscali nell’ambito della procedura di notifica di cui all’articolo 19 della legge federale del 13 ottobre 1965[^86a-13] sull’imposta preventiva.
+<sup>3</sup> I dati possono altresì essere comunicati alle competenti autorità fiscali nell’ambito della procedura di notifica di cui all’articolo 19 della legge federale del 13 ottobre 1965[^86a-14] sull’imposta preventiva.
 
 <sup>4</sup> I dati d’interesse generale in relazione all’applicazione della presente legge possono essere pubblicati. L’anonimato degli assicurati è garantito.
 
@@ -2446,18 +2503,19 @@ Negli altri casi i dati possono essere comunicati a terzi alle condizioni seguen
 <sup>8</sup> I dati sono di norma comunicati per scritto e gratuitamente. Il Consiglio federale può prevedere la riscossione di un emolumento qualora sia necessario un particolare dispendio di lavoro.
 
 [^86a-1]: Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^86a-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^86a-3]: Introdotto dall’all. n. 27 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^86a-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^86a-5]: Introdotta dall’all. n. 10 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Abrogata dall’all. n. II 16 della LF del 25 set. 2015 sulle attività informative, con effetto dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^86a-6]: Introdotta dall’all. n. 9 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^86a-7]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^86a-8]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^86a-9]: Introdotta dall’all. n. 5 della LF del 6 ott. 2006 (5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^86a-10]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^86a-11]: Introdotto dall’all. n. 10 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nuovo testo giusta l’all. n. II 16 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^86a-12]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^86a-13]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+[^86a-2]: Introdotta dall’all. n. 3 della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2022 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728)[5017](https://fedlex.data.admin.ch/eli/oc/2015/822), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^86a-3]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^86a-4]: Introdotto dall’all. n. 27 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^86a-5]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^86a-6]: Introdotta dall’all. n. 10 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Abrogata dall’all. n. II 16 della LF del 25 set. 2015 sulle attività informative, con effetto dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^86a-7]: Introdotta dall’all. n. 9 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^86a-8]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^86a-9]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^86a-10]: Introdotta dall’all. n. 5 della LF del 6 ott. 2006 (5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^86a-11]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^86a-12]: Introdotto dall’all. n. 10 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nuovo testo giusta l’all. n. II 16 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^86a-13]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^86a-14]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
 
 #### Art. 86b
 
@@ -2485,6 +2543,8 @@ L’istituto di previdenza informa ogni anno in modo adeguato gli assicurati su:
 
 **Assistenza amministrativa**[^87-1]
 
+<sup>1</sup>
+
 Le autorità amministrative e giudiziarie della Confederazione, dei Cantoni, dei distretti, dei circoli e dei Comuni, nonché gli organi delle altre assicurazioni sociali forniscono nel singolo caso gratuitamente agli organi incaricati dell’esecuzione della presente legge, su richiesta scritta e motivata, i dati necessari per:
 
 - a. controllare l’assoggettamento dei datori di lavoro;
@@ -2493,13 +2553,18 @@ Le autorità amministrative e giudiziarie della Confederazione, dei Cantoni, dei
 - d. fissare e riscuotere i contributi;
 - e. intraprendere azioni di regresso contro terzi responsabili.
 
+<sup>2</sup> L’istituto di previdenza che, nello svolgimento delle sue funzioni, apprende che un assicurato percepisce prestazioni indebite, può informarne gli organi dell’assicurazione sociale interessata.[^87-2]
+
 [^87-1]: Nuovo testo giusta il n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^87-2]: Introdotto dall’all. n. 3 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 88
 
-[^88-1]
+**Notifica di prestazioni percepite indebitamente**[^88-1]
 
-[^88-1]: Abrogato dal n. II 41 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+L’istituto di previdenza che, nello svolgimento delle sue funzioni, constata che una persona ha percepito prestazioni indebitamente, è legittimato a notificarlo agli organi dell’assicurazione sociale e degli istituti di previdenza interessati.
+
+[^88-1]: Nuovo testo giusta l’all. n. 3 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 89
 
@@ -2807,14 +2872,33 @@ Se una rendita dell’AI è ridotta o soppressa in applicazione della lettera *a
 [^u6-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^u6-3]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 
-## Disposizione transitoria della modifica del 22 marzo 2019**** (art. 47a)****
+## Disposizione transitoria della modifica del 22 marzo 2019 (art. 47*a*)****
 
-[^u7-1][^u7-2]
+[^u7-1]
 
-[^u7-1]: [RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111)
-[^u7-2]: [RU 2020 3835](https://fedlex.data.admin.ch/eli/oc/2020/711); [FF 2020 5797](https://fedlex.data.admin.ch/eli/fga/2020/1669)
+[^u7-1]: [RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111)[3835](https://fedlex.data.admin.ch/eli/oc/2020/711); [FF 2020 5797](https://fedlex.data.admin.ch/eli/fga/2020/1669)(in vigore fino al 31 dic. 2021).
 
-L’assicurato che cessa d’essere assoggettato all’assicurazione obbligatoria posteriormente al 31 luglio 2020 e dopo il compimento dei 58 anni a causa dello scioglimento del rapporto di lavoro da parte del datore di lavoro può chiedere, a partire dal 1° gennaio 2021, la continuazione dell’assicurazione conformemente all’articolo 47*a*.
+## Disposizioni transitorie della modifica del 19 giugno 2020 (Ulteriore sviluppo dell’AI)****
+
+[^u8-1]
+
+[^u8-1]: [RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)
+
+a. Adeguamento delle rendite correnti per i beneficiari che non hanno ancora 55 anni compiuti
+
+<sup>1</sup> I beneficiari di rendita il cui diritto alla rendita è nato prima dell’entrata in vigore della presente modifica e che all’entrata in vigore della presente modifica non hanno ancora 55 anni compiuti continuano ad avere diritto alla rendita precedente fintantoché il loro grado d’invalidità non subisca una modificazione secondo l’articolo 17 capoverso 1 LPGA[^u8-2].
+
+<sup>2</sup> Essi continuano ad avere diritto alla rendita precedente anche dopo una modificazione del grado d’invalidità secondo l’articolo 17 capoverso 1 LPGA se l’applicazione dell’articolo 24*a* della presente legge comporta una diminuzione della rendita precedente in caso di aumento del grado d’invalidità o un suo aumento in caso di riduzione del grado d’invalidità.
+
+<sup>3</sup> Per i beneficiari di rendita il cui diritto alla rendita è nato prima dell’entrata in vigore della presente modifica e che all’entrata in vigore della presente modifica non hanno ancora 30 anni compiuti, la regolamentazione del diritto alla rendita secondo l’articolo 24*a* della presente legge è applicata al più tardi dieci anni dopo l’entrata in vigore della presente modifica. Se ne risulta un ammontare della rendita inferiore a quello precedente, all’assicurato viene versato l’importo precedente fintantoché il suo grado d’invalidità non subisca una modificazione secondo l’articolo 17 capoverso 1 LPGA.
+
+<sup>4</sup> L’applicazione dell’articolo 24*a* è differita per il periodo in cui il rapporto di assicurazione continua a sussistere conformemente all’articolo 26*a*.
+
+b. Non adeguamento delle rendite correnti per i beneficiari che hanno 55 anni compiuti
+
+Ai beneficiari di rendita il cui diritto alla rendita è nato prima dell’entrata in vigore della presente modifica e che all’entrata in vigore della presente modifica hanno 55 anni compiuti continua ad applicarsi il diritto anteriore.
+
+[^u8-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 Allegato
 

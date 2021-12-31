@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. Juni 1982 über die berufliche Alters-, Hinterlasse
 short: BVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: de
-version: 2021-07-01
+version: 2022-01-01
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20210701/de"
 
 (BVG)
 
-vom 25. Juni 1982 (Stand am 1. Juli 2021)
+vom 25. Juni 1982 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -365,18 +365,19 @@ Die Vorsorgeeinrichtung kann in ihrem Reglement neben den Anspruchsberechtigten 
 
 **Höhe der Rente**[^21-1]
 
-<sup>1</sup> Beim Tod eines Versicherten beträgt die Witwen- oder Witwerrente 60 Prozent, die Waisenrente 20 Prozent der vollen Invalidenrente, auf die der Versicherte Anspruch gehabt hätte.
+<sup>1</sup> Beim Tod eines Versicherten beträgt die Witwen- oder Witwerrente 60 Prozent, die Waisenrente 20 Prozent der ganzen Invalidenrente, auf die der Versicherte Anspruch gehabt hätte.[^21-2]
 
 <sup>2</sup> Beim Tod einer Person, die eine Alters- oder Invalidenrente bezogen hat, beträgt die Witwen- oder Witwerrente 60 Prozent, die Waisenrente 20 Prozent der zuletzt ausgerichteten Alters- oder Invalidenrente.
 
-<sup>3</sup> Rentenanteile, die im Rahmen eines Vorsorgeausgleichs nach Artikel 124*a* ZGB[^21-2] dem ausgleichsberechtigten Ehegatten zugesprochen wurden, gehören nicht zur zuletzt ausgerichteten Alters- oder Invalidenrente der versicherten Person nach Absatz 2.[^21-3]
+<sup>3</sup> Rentenanteile, die im Rahmen eines Vorsorgeausgleichs nach Artikel 124*a* ZGB[^21-3] dem ausgleichsberechtigten Ehegatten zugesprochen wurden, gehören nicht zur zuletzt ausgerichteten Alters- oder Invalidenrente der versicherten Person nach Absatz 2.[^21-4]
 
-<sup>4</sup> Wurde eine Kinderrente von einem Vorsorgeausgleich nach Artikel 124 oder 124*a* ZGB nicht berührt, so wird die Waisenrente auf den gleichen Grundlagen berechnet.[^21-4]
+<sup>4</sup> Wurde eine Kinderrente von einem Vorsorgeausgleich nach Artikel 124 oder 124*a* ZGB nicht berührt, so wird die Waisenrente auf den gleichen Grundlagen berechnet.[^21-5]
 
 [^21-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)). Siehe auch die UeB der Änd. vom 3. Okt. 2003 am Ende dieses Erlasses.
-[^21-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^21-3]: Eingefügt durch Anhang Ziff. 4 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^21-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^21-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^21-4]: Eingefügt durch Anhang Ziff. 4 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^21-5]: Eingefügt durch Anhang Ziff. 4 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 #### Art. 22
 
@@ -416,18 +417,11 @@ Anspruch auf Invalidenleistungen haben Personen, die:
 
 #### Art. 24
 
-**Höhe der Rente**[^24-1]
+**Berechnung der ganzen Invalidenrente[^24-2]**[^24-1]
 
-<sup>1</sup>
+<sup>1</sup> …[^24-3]
 
-Der Versicherte hat Anspruch auf:
-
-- a. eine volle Invalidenrente, wenn er im Sinne der IV zu mindestens 70 Prozent invalid ist;
-- b. eine Dreiviertelsrente, wenn er zu mindestens 60 Prozent invalid ist;
-- c. eine halbe Rente, wenn er mindestens zur Hälfte invalid ist;
-- d. eine Viertelsrente, wenn er mindestens zu 40 Prozent invalid ist.
-
-<sup>2</sup> Die Invalidenrente wird nach dem gleichen Umwandlungssatz berechnet wie die Altersrente im 65. Altersjahr[^24-2]. Für die Versicherten der Übergangsgeneration gilt der vom Bundesrat nach Buchstabe b der Übergangsbestimmungen der 1. BVG-Revision vom 3. Oktober 2003 festgelegte Umwandlungssatz.
+<sup>2</sup> Die Invalidenrente wird nach dem gleichen Umwandlungssatz berechnet wie die Altersrente im 65. Altersjahr[^24-4]. Für die Versicherten der Übergangsgeneration gilt der vom Bundesrat nach Buchstabe b der Übergangsbestimmungen der 1. BVG-Revision vom 3. Oktober 2003 festgelegte Umwandlungssatz.
 
 <sup>3</sup>
 
@@ -438,12 +432,51 @@ Das der Berechnung zu Grunde liegende Altersguthaben besteht aus:
 
 <sup>4</sup> Diese Altersgutschriften werden auf dem koordinierten Lohn des Versicherten während seines letzten Versicherungsjahres in der Vorsorgeeinrichtung berechnet.
 
-<sup>5</sup> Die Invalidenrente wird angepasst, wenn bei einem Vorsorgeausgleich ein Betrag nach Artikel 124 Absatz 1 ZGB[^24-3] übertragen wird. Der Bundesrat regelt die Berechnung der Anpassung.[^24-4]
+<sup>5</sup> Die Invalidenrente wird angepasst, wenn bei einem Vorsorgeausgleich ein Betrag nach Artikel 124 Absatz 1 ZGB[^24-5] übertragen wird. Der Bundesrat regelt die Berechnung der Anpassung.[^24-6]
 
 [^24-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)). Siehe auch die UeB der Änd. vom 3. Okt. 2003 am Ende dieses Erlasses.
-[^24-2]: Seit 1. Jan. 2005: Rentenalter 64 für Frauen (Art. 62*a* Abs. 2 Bst. c der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 18. Aug. 2004 – [AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
-[^24-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^24-4]: Eingefügt durch Anhang Ziff. 4 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^24-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^24-3]: Aufgehoben durch Anhang Ziff. 3 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), mit Wirkung seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^24-4]: Seit 1. Jan. 2005: Rentenalter 64 für Frauen (Art. 62*a* Abs. 2 Bst. c der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 18. Aug. 2004 – [AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^24-5]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^24-6]: Eingefügt durch Anhang Ziff. 4 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+
+#### Art. 24a
+
+**Abstufung der Invalidenrente nach Invaliditätsgrad**[^24a-1]
+
+<sup>1</sup> Die Höhe des Anspruchs auf eine Invalidenrente wird in prozentualen Anteilen an einer ganzen Rente festgelegt.
+
+<sup>2</sup> Bei einem Invaliditätsgrad im Sinne der IV von 50‒69 Prozent entspricht der prozentuale Anteil dem Invaliditätsgrad.
+
+<sup>3</sup> Bei einem Invaliditätsgrad im Sinne der IV ab 70 Prozent besteht Anspruch auf eine ganze Rente.
+
+<sup>4</sup> Bei einem Invaliditätsgrad im Sinne der IV von unter 50 Prozent gelten die folgenden prozentualen Anteile:
+
+<table>
+<tr><td>Invaliditätsgrad</td><td>Prozentualer Anteil</td></tr>
+<tr><td>49 Prozent</td><td>47,5 Prozent</td></tr>
+<tr><td>48 Prozent</td><td>45 Prozent</td></tr>
+<tr><td>47 Prozent</td><td>42,5 Prozent</td></tr>
+<tr><td>46 Prozent</td><td>40 Prozent</td></tr>
+<tr><td>45 Prozent</td><td>37,5 Prozent</td></tr>
+<tr><td>44 Prozent</td><td>35 Prozent</td></tr>
+<tr><td>43 Prozent</td><td>32,5 Prozent</td></tr>
+<tr><td>42 Prozent</td><td>30 Prozent</td></tr>
+<tr><td>41 Prozent</td><td>27,5 Prozent</td></tr>
+<tr><td>40 Prozent</td><td>25 Prozent</td></tr>
+</table>
+
+[^24a-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+
+#### Art. 24b
+
+**Revision der Invalidenrente**[^24b-1]
+
+Eine einmal festgesetzte Invalidenrente wird erhöht, herabgesetzt oder aufgehoben, wenn sich der Invaliditätsgrad in dem nach Artikel 17 Absatz 1 ATSG[^24b-2] festgelegten Ausmass ändert.
+
+[^24b-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^24b-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 25
 
@@ -710,7 +743,7 @@ Der Bundesrat regelt die Berechnung der Leistungen in besonderen Fällen, nament
 - a.[^34-1] wenn das nach Artikel 24 Absatz 4 massgebende Versicherungsjahr nicht vollständig ist oder der Versicherte während dieser Zeit nicht voll erwerbsfähig war;
 - b. wenn der Versicherte bei Eintritt des neuen Versicherungsfalles nach diesem Gesetz bereits eine Invalidenrente bezieht oder eine Invalidenleistung bezogen hat.
 
-<sup>2</sup> ...[^34-2]
+<sup>2</sup> …[^34-2]
 
 [^34-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^34-2]: Aufgehoben durch Anhang Ziff. 10 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
@@ -799,7 +832,7 @@ Die Vorsorgeeinrichtung kann in ihrem Reglement vorsehen, dass:
 - a. die Anspruchsberechtigten eine Kapitalabfindung an Stelle einer Alters-, Hinterlassenen- oder Invalidenrente wählen können;
 - b. die Anspruchsberechtigten eine bestimmte Frist für die Geltendmachung der Kapitalabfindung einhalten müssen.
 
-<sup>5</sup> ...[^37-3]
+<sup>5</sup> …[^37-3]
 
 [^37-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^37-2]: Art. 13*a* war in der 11. AHV-Revision vom 3. Okt. 2003 vorgesehen, die in der [Volksabstimmung vom 16. Mai 2004](http://www.admin.ch/ch/d/pore/va/20040516/index.html)abgelehnt wurde (siehe [BBl 2004 3943](https://fedlex.data.admin.ch/eli/fga/2004/664)).
@@ -835,9 +868,30 @@ Die Renten werden in der Regel monatlich ausgerichtet. Für den Monat, in dem de
 
 #### Art. 40
 
-[^40-1]
+**Massnahmen bei Vernachlässigung der Unterhaltspflicht**[^40-1]
 
-[^40-1]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 1993 über die Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge, mit Wirkung seit 1. Jan. 1995 ([AS 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [BBl 1992 VI 237](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209)).
+<sup>1</sup> Befindet sich eine versicherte Person mit regelmässig zu erbringenden Unterhaltszahlungen im Umfang von mindestens vier monatlichen Zahlungen in Verzug, so kann die vom kantonalen Recht bezeichnete Fachstelle nach den Artikeln 131 Absatz 1 und 290 des Zivilgesetzbuches[^40-2] dies der Vorsorgeeinrichtung melden.
+
+<sup>2</sup> Die Meldung entfaltet ihre Wirkung mit Abschluss der Verarbeitung, spätestens jedoch fünf Arbeitstage nach ihrer Zustellung.
+
+<sup>3</sup>
+
+Die Vorsorgeeinrichtung muss der Fachstelle den Eintritt der Fälligkeit folgender Ansprüche der ihr gemeldeten Versicherten unverzüglich melden:
+
+- a. Auszahlung der Leistung als einmalige Kapitalabfindung in der Höhe von mindestens 1000 Franken;
+- b. Barauszahlung nach Artikel 5 FZG[^40-3] in der Höhe von mindestens 1000 Franken;
+- c. Vorbezug zur Wohneigentumsförderung nach Artikel 30c des vorliegenden Gesetzes und nach Artikel 331e OR[^40-4].
+
+<sup>4</sup> Sie muss der Fachstelle auch die Verpfändung von Vorsorgeguthaben dieser Versicherten nach Artikel 30*b* sowie die Pfandverwertung dieses Guthabens melden.
+
+<sup>5</sup> Die Meldungen nach den Absätzen 1, 3 und 4 haben schriftlich durch eingeschriebene Postsendung oder auf andere Weise gegen Empfangsbestätigung zu erfolgen.
+
+<sup>6</sup> Die Vorsorgeeinrichtung darf eine Überweisung nach Absatz 3 frühestens 30 Tage nach Zustellung der Meldung an die Fachstelle vornehmen.
+
+[^40-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 20. März 2015 (Kindesunterhalt), in Kraft seit 1. Jan. 2022 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728)[5017](https://fedlex.data.admin.ch/eli/oc/2015/822), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^40-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^40-3]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^40-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 41
 
@@ -966,13 +1020,14 @@ Eine Vorsorgeeinrichtung wird aus dem Register gestrichen, wenn sie:
 - a. die gesetzlichen Voraussetzungen zur Registrierung nicht mehr erfüllt und innerhalb der von der Aufsichtsbehörde gesetzten Frist die erforderlichen Anpassungen nicht vornimmt;
 - b. auf die weitere Registrierung verzichtet.[^48-3]
 
-<sup>4</sup> Die registrierten Vorsorgeeinrichtungen und die an der von ihnen durchgeführten beruflichen Vorsorge Beteiligten sind berechtigt, die Versichertennummer der AHV nach den Bestimmungen des AHVG[^48-4] für die Erfüllung ihrer gesetzlichen Aufgaben systematisch zu verwenden.[^48-5]
+<sup>4</sup> Die registrierten Vorsorgeeinrichtungen und die an der von ihnen durchgeführten beruflichen Vorsorge Beteiligten sind berechtigt, die AHV-Nummer[^48-4] nach den Bestimmungen des AHVG[^48-5] für die Erfüllung ihrer gesetzlichen Aufgaben systematisch zu verwenden.[^48-6]
 
 [^48-1]: Fassung gemäss Anhang Ziff. 9 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^48-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2010 (Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften), in Kraft seit 1. Jan. 2014 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 [^48-3]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^48-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^48-5]: Eingefügt durch Anhang Ziff. 9 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^48-4]: Ausdruck gemäss Anhang Ziff. 29 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^48-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^48-6]: Eingefügt durch Anhang Ziff. 9 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 
 #### Art. 49
 
@@ -992,19 +1047,20 @@ Gewährt eine Vorsorgeeinrichtung mehr als die Mindestleistungen, so gelten für
 - 4\. die Rückerstattung zu Unrecht bezogener Leistungen (Art. 35*a*);
 - 5\.[^49-7] die Anpassung an die Preisentwicklung (Art. 36 Abs. 2–4);
 - [tab] 5*a*.[^49-8] die Zustimmung bei Kapitalabfindung (Art. 37*a*);
+- 5*b*.[^49-9] die Massnahmen bei Vernachlässigung der Unterhaltspflicht (Art. 40);
 - 6\. die Verjährung von Ansprüchen und die Aufbewahrung von Vorsorgeunterlagen (Art. 41);
-- 6*a*.[^49-9] das Ausscheiden aus der obligatorischen Versicherung nach Vollendung des 58. Altersjahres (Art. 47*a*);
-- [tab] 6*b*.[^49-10] die systematische Verwendung der Versichertennummer der AHV (Art. 48 Abs. 4);
-- 7\.[^49-11] die paritätische Verwaltung und die Aufgaben des obersten Organs der Vorsorgeeinrichtung (Art. 51 und 51*a*);
+- 6*a*.[^49-10] das Ausscheiden aus der obligatorischen Versicherung nach Vollendung des 58. Altersjahres (Art. 47*a*);
+- [tab] 6*b*.[^49-11] die systematische Verwendung der AHV-Nummer (Art. 48 Abs. 4);
+- 7\.[^49-12] die paritätische Verwaltung und die Aufgaben des obersten Organs der Vorsorgeeinrichtung (Art. 51 und 51*a*);
 - 8\. die Verantwortlichkeit (Art. 52);
-- 9\.[^49-12] die Zulassung und die Aufgaben der Kontrollorgane (Art. 52*a*–52*e*);
-- 10\.[^49-13] die Integrität und Loyalität der Verantwortlichen, die Rechtsgeschäfte mit Nahestehenden und die Interessenkonflikte (Art. 51*b*, 51*c* und 53*a*);
+- 9\.[^49-13] die Zulassung und die Aufgaben der Kontrollorgane (Art. 52*a*–52*e*);
+- 10\.[^49-14] die Integrität und Loyalität der Verantwortlichen, die Rechtsgeschäfte mit Nahestehenden und die Interessenkonflikte (Art. 51*b*, 51*c* und 53*a*);
 - 11\. die Teil- oder Gesamtliquidation (Art. 53*b*–53*d*);
-- 12\.[^49-14] die Auflösung von Verträgen (Art. 53*e* und 53*f*);
+- 12\.[^49-15] die Auflösung von Verträgen (Art. 53*e* und 53*f*);
 - 13\. den Sicherheitsfonds (Art. 56 Abs. 1 Bst. c und Abs. 2–5, Art. 56*a*, 57 und 59);
-- 14\.[^49-15] die Aufsicht und die Oberaufsicht (Art. 61–62*a* und 64–64*c*);
-- 15\.[^49-16] ...
-- 16\.[^49-17] die finanzielle Sicherheit (Art. 65, 65*c*, 65*d* Abs. 1, 2 und 3 Bst. a zweiter Satz und b, Art. 65*e*, 66 Abs. 4, 67 und 72*a*–72*g*);
+- 14\.[^49-16] die Aufsicht und die Oberaufsicht (Art. 61–62*a* und 64–64*c*);
+- 15\.[^49-17] …
+- 16\.[^49-18] die finanzielle Sicherheit (Art. 65, 65*c*, 65*d* Abs. 1, 2 und 3 Bst. a zweiter Satz und b, Art. 65*e*, 66 Abs. 4, 67 und 72*a*–72*g*);
 - 17\. die Transparenz (Art. 65*a*);
 - 18\. die Rückstellungen (Art. 65*b*);
 - 19\. die Versicherungsverträge zwischen Vorsorgeeinrichtungen und Versicherungseinrichtungen (Art. 68 Abs. 3 und 4);
@@ -1014,8 +1070,8 @@ Gewährt eine Vorsorgeeinrichtung mehr als die Mindestleistungen, so gelten für
 - 23\. die Strafbestimmungen (Art. 75–79);
 - 24\. den Einkauf (Art. 79*b*);
 - 25\. den versicherbaren Lohn und das versicherbare Einkommen (Art. 79*c*);
-- [tab] 25*a*.[^49-18] die Datenbearbeitung für die Zuweisung oder Verifizierung der Versichertennummer der AHV (Art. 85*a* Bst. f);
-- [tab] 25*b*.[^49-19] die Datenbekanntgabe für die Zuweisung oder Verifizierung der Versichertennummer der AHV (Art. 86*a* Abs. 2 Bst. b<sup>bis</sup>);
+- [tab] 25*a*.[^49-19] die Datenbearbeitung für die Zuweisung oder Verifizierung der AHV-Nummer (Art. 85*a* Bst. f);
+- [tab] 25*b*.[^49-20] die Datenbekanntgabe für die Zuweisung oder Verifizierung der AHV-Nummer (Art. 86*a* Abs. 2 Bst. b<sup>bis</sup>);
 - 26\. die Information der Versicherten (Art. 86*b*).
 
 [^49-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), Abs. 2 Ziff. 7–9, 12–14, 16 (mit Ausnahme von Art. 66 Abs. 4), 17, 19-23 und 26 in Kraft seit 1. April 2004, Abs. 1 und 2 Ziff. 3–6, 10, 11, 15, 16 (Art. 66 Abs. 4) und 18 in Kraft seit 1. Jan. 2005, Abs. 2 Ziff. 1, 24 und 25 in Kraft seit 1. Jan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
@@ -1026,17 +1082,18 @@ Gewährt eine Vorsorgeeinrichtung mehr als die Mindestleistungen, so gelten für
 [^49-6]: Ursprünglich Ziff. 3*a*. Eingefügt durch Anhang Ziff. 6 des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket) ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^49-7]: Fassung gemäss Ziff. I des BG vom 18. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [BBl 2003 6399](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
 [^49-8]: Eingefügt durch Anhang Ziff. 4 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^49-9]: Eingefügt durch Ziff. II 2 des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^49-10]: Ursprünglich: Ziff. 6*a*. Eingefügt durch Anhang Ziff. 9 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^49-11]: Fassung gemäss Ziff. I des BG vom 19. März 2010 (Strukturreform), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^49-9]: Eingefügt durch Anhang Ziff. 3 des BG vom 20. März 2015 (Kindesunterhalt), in Kraft seit 1. Jan. 2022 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728)[5017](https://fedlex.data.admin.ch/eli/oc/2015/822), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^49-10]: Eingefügt durch Ziff. II 2 des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^49-11]: Ursprünglich: Ziff. 6*a*. Eingefügt durch Anhang Ziff. 9 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^49-12]: Fassung gemäss Ziff. I des BG vom 19. März 2010 (Strukturreform), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^49-13]: Fassung gemäss Ziff. I des BG vom 19. März 2010 (Strukturreform), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^49-14]: Fassung gemäss Ziff. I des BG vom 20. Dez. 2006 (Wechsel der Vorsorgeeinrichtung), in Kraft seit 1. Mai 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
-[^49-15]: Fassung gemäss Ziff. I des BG vom 19. März 2010 (Strukturreform), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^49-16]: Aufgehoben durch Ziff. I des BG vom 19. März 2010 (Strukturreform), mit Wirkung seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^49-17]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2010 (Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften), in Kraft seit 1. Jan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^49-18]: Eingefügt durch Anhang Ziff. 9 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^49-14]: Fassung gemäss Ziff. I des BG vom 19. März 2010 (Strukturreform), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^49-15]: Fassung gemäss Ziff. I des BG vom 20. Dez. 2006 (Wechsel der Vorsorgeeinrichtung), in Kraft seit 1. Mai 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+[^49-16]: Fassung gemäss Ziff. I des BG vom 19. März 2010 (Strukturreform), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^49-17]: Aufgehoben durch Ziff. I des BG vom 19. März 2010 (Strukturreform), mit Wirkung seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^49-18]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2010 (Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften), in Kraft seit 1. Jan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 [^49-19]: Eingefügt durch Anhang Ziff. 9 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^49-20]: Eingefügt durch Anhang Ziff. 9 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 
 #### Art. 50
 
@@ -1077,9 +1134,9 @@ Die Vorsorgeeinrichtung hat die ordnungsgemässe Durchführung der paritätische
 
 <sup>4</sup> Ist das Verfahren bei Stimmengleichheit noch nicht geregelt, so entscheidet ein im gegenseitigen Einvernehmen bestimmter neutraler Schiedsrichter. Kommt keine Einigung über den Schiedsrichter zustande, so wird dieser von der Aufsichtsbehörde bezeichnet.
 
-<sup>5</sup> ...[^51-3]
+<sup>5</sup> …[^51-3]
 
-<sup>6</sup> und <sup>7</sup> ...[^51-4]
+<sup>6</sup> und <sup>7</sup> …[^51-4]
 
 [^51-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. April 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^51-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. April 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
@@ -1945,7 +2002,7 @@ Der Bundesrat regelt die Einzelheiten, insbesondere:
 
 <sup>1</sup> Versicherungseinrichtungen, welche die Risikodeckung einer nach diesem Gesetz registrierten Vorsorgeeinrichtung übernehmen wollen, haben in ihre Angebote Tarife einzubeziehen, die lediglich die gesetzlich vorgeschriebenen Risiken für Todesfall und Invalidität abdecken. Der Bundesrat regelt die Einzelheiten.
 
-<sup>2</sup> ...[^68-1]
+<sup>2</sup> …[^68-1]
 
 <sup>3</sup> Die Versicherungseinrichtungen haben den Vorsorgeeinrichtungen die nötigen Angaben zu liefern, damit diese die in Artikel 65*a* geforderte Transparenz gewährleisten können.[^68-2]
 
@@ -2109,7 +2166,7 @@ Jeder Kanton bezeichnet ein Gericht, das als letzte kantonale Instanz über Stre
 
 <sup>3</sup> Gerichtsstand ist der schweizerische Sitz oder Wohnsitz des Beklagten oder der Ort des Betriebes, bei dem der Versicherte angestellt wurde.
 
-<sup>4</sup> ...[^73-4]
+<sup>4</sup> …[^73-4]
 
 [^73-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^73-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
@@ -2357,7 +2414,7 @@ Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführ
 - c. ein Rückgriffsrecht gegenüber einem haftpflichtigen Dritten geltend zu machen;
 - d. die Aufsicht über die Durchführung dieses Gesetzes auszuüben;
 - e. Statistiken zu führen;
-- f.[^85a-3] die Versichertennummer der AHV zuzuweisen oder zu verifizieren.
+- f.[^85a-3] die AHV-Nummer zuzuweisen oder zu verifizieren.
 
 [^85a-1]: Eingefügt durch Ziff. I des BG von 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 [^85a-2]: Fassung gemäss Anhang Ziff. 9 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
@@ -2398,12 +2455,13 @@ Personen, die an der Durchführung sowie der Kontrolle oder der Beaufsichtigung 
 Sofern kein überwiegendes Privatinteresse entgegensteht, dürfen Daten im Einzelfall und auf schriftliches und begründetes Gesuch hin bekannt gegeben werden an:
 
 - a. Sozialhilfebehörden, wenn sie für die Festsetzung, Änderung oder Rückforderung von Leistungen beziehungsweise für die Verhinderung ungerechtfertigter Bezüge erforderlich sind;
+- a<sup>bis</sup>.[^86a-2] die vom kantonalen Recht bezeichnete Fachstelle (Art. 40), wenn sie für die Einforderung von ausstehenden oder die Sicherung zukünftiger Unterhaltszahlungen erforderlich sind;
 - b. Zivilgerichte, wenn sie für die Beurteilung eines familien- oder erbrechtlichen Streitfalles erforderlich sind;
 - c. Strafgerichte und Strafuntersuchungsbehörden, wenn sie für die Abklärung eines Verbrechens oder eines Vergehens erforderlich sind;
-- d. Betreibungsämter, nach den Artikeln 91, 163 und 222 des Bundesgesetzes vom 11. April 1889[^86a-2] über Schuldbetreibung und Konkurs;
+- d. Betreibungsämter, nach den Artikeln 91, 163 und 222 des Bundesgesetzes vom 11. April 1889[^86a-3] über Schuldbetreibung und Konkurs;
 - e. Steuerbehörden, wenn sie sich auf die Ausrichtung von Leistungen der beruflichen Vorsorge beziehen und für die Anwendung der Steuergesetze erforderlich sind;
-- f.[^86a-3] die Kindes- und Erwachsenenschutzbehörden nach Artikel 448 Absatz 4 ZGB[^86a-4];
-- [tab] g.[^86a-5] ...
+- f.[^86a-4] die Kindes- und Erwachsenenschutzbehörden nach Artikel 448 Absatz 4 ZGB[^86a-5];
+- [tab] g.[^86a-6] …
 
 <sup>2</sup>
 
@@ -2411,14 +2469,14 @@ Sofern kein überwiegendes Privatinteresse entgegensteht, dürfen Daten bekannt 
 
 - a. andere mit der Durchführung sowie der Kontrolle oder der Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organe, wenn sie für die Erfüllung der ihnen nach diesem Gesetz übertragenen Aufgaben erforderlich sind;
 - b. Organe einer anderen Sozialversicherung, wenn sich eine Pflicht zur Bekanntgabe aus einem Bundesgesetz ergibt;
-- [tab] b<sup>bis</sup>.[^86a-6] Organe einer anderen Sozialversicherung für die Zuweisung oder Verifizierung der Versichertennummer der AHV;
-- c. die für die Quellensteuer zuständigen Behörden, nach den Artikeln 88 und 100 des Bundesgesetzes vom 14. Dezember 1990[^86a-7] über die direkte Bundessteuer sowie den entsprechenden kantonalen Bestimmungen;
-- d. Organe der Bundesstatistik, nach dem Bundesstatistikgesetz vom 9. Oktober 1992[^86a-8];
+- [tab] b<sup>bis</sup>.[^86a-7] Organe einer anderen Sozialversicherung für die Zuweisung oder Verifizierung der AHV-Nummer;
+- c. die für die Quellensteuer zuständigen Behörden, nach den Artikeln 88 und 100 des Bundesgesetzes vom 14. Dezember 1990[^86a-8] über die direkte Bundessteuer sowie den entsprechenden kantonalen Bestimmungen;
+- d. Organe der Bundesstatistik, nach dem Bundesstatistikgesetz vom 9. Oktober 1992[^86a-9];
 - e. Strafuntersuchungsbehörden, wenn es die Anzeige oder die Abwendung eines Verbrechens erfordert;
-- f.[^86a-9] die IV-Stelle zur Früherfassung nach Artikel 3*b* IVG[^86a-10] oder im Rahmen der interinstitutionellen Zusammenarbeit nach Artikel 68<sup>bis</sup> IVG und an die privaten Versicherungseinrichtungen nach Artikel 68<sup>bis</sup> Absatz 1 Buchstabe b IVG;
-- [tab] g.[^86a-11] den Nachrichtendienst des Bundes (NDB) oder die Sicherheitsorgane der Kantone zuhanden des NDB, wenn eine konkrete Bedrohung der inneren oder äusseren Sicherheit nach Artikel 19 Absatz 2 des Nachrichtendienstgesetzes vom 25. September 2015[^86a-12] gegeben ist.
+- f.[^86a-10] die IV-Stelle zur Früherfassung nach Artikel 3*b* IVG[^86a-11] oder im Rahmen der interinstitutionellen Zusammenarbeit nach Artikel 68<sup>bis</sup> IVG und an die privaten Versicherungseinrichtungen nach Artikel 68<sup>bis</sup> Absatz 1 Buchstabe b IVG;
+- [tab] g.[^86a-12] den Nachrichtendienst des Bundes (NDB) oder die Sicherheitsorgane der Kantone zuhanden des NDB, wenn eine konkrete Bedrohung der inneren oder äusseren Sicherheit nach Artikel 19 Absatz 2 des Nachrichtendienstgesetzes vom 25. September 2015[^86a-13] gegeben ist.
 
-<sup>3</sup> Daten dürfen auch der zuständigen Steuerbehörde im Rahmen des Meldeverfahrens nach Artikel 19 des Bundesgesetzes vom 13. Oktober 1965[^86a-13] über die Verrechnungssteuer bekannt gegeben werden.
+<sup>3</sup> Daten dürfen auch der zuständigen Steuerbehörde im Rahmen des Meldeverfahrens nach Artikel 19 des Bundesgesetzes vom 13. Oktober 1965[^86a-14] über die Verrechnungssteuer bekannt gegeben werden.
 
 <sup>4</sup> Daten, die von allgemeinem Interesse sind und sich auf die Anwendung dieses Gesetzes beziehen, dürfen veröffentlicht werden. Die Anonymität der Versicherten muss gewahrt bleiben.
 
@@ -2436,18 +2494,19 @@ In den übrigen Fällen dürfen Daten an Dritte wie folgt bekannt gegeben werden
 <sup>8</sup> Die Daten werden in der Regel schriftlich und kostenlos bekannt gegeben. Der Bundesrat kann die Erhebung einer Gebühr vorsehen, wenn besonders aufwendige Arbeiten erforderlich sind.
 
 [^86a-1]: Eingefügt durch Ziff. I des BG von 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^86a-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^86a-3]: Eingefügt durch Anhang Ziff. 27 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^86a-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^86a-5]: Eingefügt durch Anhang Ziff. 10 des BG vom 23. Dez. 2011 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Aufgehoben durch Anhang Ziff. II 16 des Nachrichtendienstgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^86a-6]: Eingefügt durch Anhang Ziff. 9 des BG vom 23. Juni 2006 (Neue AHV-Versicherten-nummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^86a-7]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^86a-8]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^86a-9]: Eingefügt durch Anhang Ziff. 5 des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^86a-10]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^86a-11]: Eingefügt durch Anhang Ziff. 10 des BG vom 23. Dez. 2011 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Fassung gemäss Anhang Ziff. II 16 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^86a-12]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^86a-13]: [SR 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+[^86a-2]: Eingefügt durch Anhang Ziff. 3 des BG vom 20. März 2015 (Kindesunterhalt), in Kraft seit 1. Jan. 2022 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728)[5017](https://fedlex.data.admin.ch/eli/oc/2015/822), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^86a-3]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^86a-4]: Eingefügt durch Anhang Ziff. 27 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^86a-5]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^86a-6]: Eingefügt durch Anhang Ziff. 10 des BG vom 23. Dez. 2011 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Aufgehoben durch Anhang Ziff. II 16 des Nachrichtendienstgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^86a-7]: Eingefügt durch Anhang Ziff. 9 des BG vom 23. Juni 2006 (Neue AHV-Versicherten-nummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^86a-8]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^86a-9]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^86a-10]: Eingefügt durch Anhang Ziff. 5 des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^86a-11]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^86a-12]: Eingefügt durch Anhang Ziff. 10 des BG vom 23. Dez. 2011 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Fassung gemäss Anhang Ziff. II 16 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^86a-13]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^86a-14]: [SR 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
 
 #### Art. 86b
 
@@ -2473,6 +2532,8 @@ Die Vorsorgeeinrichtung muss ihre Versicherten jährlich in geeigneter Form info
 
 **Amts- und Verwaltungshilfe**[^87-1]
 
+<sup>1</sup>
+
 Die Verwaltungs- und Rechtspflegebehörden des Bundes, der Kantone, Bezirke, Kreise und Gemeinden sowie die Organe der anderen Sozialversicherungen geben den mit der Durchführung dieses Gesetzes betrauten Organen auf schriftliche und begründete Anfrage im Einzelfall kostenlos diejenigen Daten bekannt, die erforderlich sind für:
 
 - a. die Kontrolle der Erfassung der Arbeitgeber;
@@ -2481,13 +2542,18 @@ Die Verwaltungs- und Rechtspflegebehörden des Bundes, der Kantone, Bezirke, Kre
 - d. die Festsetzung und den Bezug der Beiträge;
 - e. den Rückgriff auf haftpflichtige Dritte.
 
+<sup>2</sup> Erfährt eine Vorsorgeeinrichtung im Rahmen ihrer Funktionen, dass eine versicherte Person ungerechtfertigte Leistungen bezieht, so kann sie die Organe der betroffenen Sozialversicherung darüber informieren.[^87-2]
+
 [^87-1]: Fassung gemäss Ziff. I des BG von 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^87-2]: Eingefügt durch Anhang Ziff. 3 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 88
 
-[^88-1]
+**Meldung von zu Unrecht bezogenen Leistungen**[^88-1]
 
-[^88-1]: Aufgehoben durch Ziff. II 41 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+Vorsorgeeinrichtungen, die bei der Ausübung ihrer Aufgaben feststellen, dass eine Person zu Unrecht Leistungen bezogen hat, sind berechtigt, dies den Organen der betroffenen Sozialversicherung sowie den Organen der betroffenen Vorsorgeeinrichtungen zu melden.
+
+[^88-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 89
 
@@ -2637,7 +2703,7 @@ Während der ersten zwei Jahre nach Inkrafttreten des Gesetzes gelten für die B
 
 <sup>1bis</sup> Der Bundesrat erlässt Vorschriften über die Durchführung von Erhebungen und die Veröffentlichung von Informationen, die der Kontrolle über die Anwendung sowie der Evaluation über die Wirkung dieses Gesetzes dienen. Dabei sind insbesondere die Organisation und die Finanzierung der Vorsorgeeinrichtungen, die Leistungen und deren Empfänger sowie der Beitrag der beruflichen Vorsorge an die Fortsetzung der gewohnten Lebenshaltung zu analysieren.[^97-1]
 
-<sup>2</sup> Die Kantone erlassen die Ausführungsbestimmungen. ...[^97-2]
+<sup>2</sup> Die Kantone erlassen die Ausführungsbestimmungen. …[^97-2]
 
 <sup>3</sup> Die Kantone bringen die Ausführungsvorschriften dem Eidgenössischen Departement des Innern zur Kenntnis.[^97-3]
 
@@ -2791,19 +2857,38 @@ Wird in Anwendung der Schlussbestimmungen Buchstabe *a* der Änderung vom 18. M�
 [^u6-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^u6-3]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 
-## Übergangsbestimmung zur Änderung vom 22. März 2019**** (Art. 47a)****
+## Übergangsbestimmung zur Änderung vom 22. März 2019 (Art. 47*a*)****
 
-[^u7-1][^u7-2]
+[^u7-1]
 
-[^u7-1]: [AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111)
-[^u7-2]: [AS 2020 3835](https://fedlex.data.admin.ch/eli/oc/2020/711); [BBl 2020 6563](https://fedlex.data.admin.ch/eli/fga/2020/1669)
+[^u7-1]: [AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111)[3835](https://fedlex.data.admin.ch/eli/oc/2020/711); [BBl 2020 6563](https://fedlex.data.admin.ch/eli/fga/2020/1669)(in Kraft bis 31. Dez. 2021)
 
-Versicherte, die nach dem 31. Juli 2020 sowie nach Vollendung des 58. Altersjahres aus der obligatorischen Versicherung ausscheiden, weil das Arbeitsverhältnis vom Arbeitgeber aufgelöst wurde, können ab dem 1. Januar 2021 die Weiterführung ihrer Versicherung nach Artikel 47*a* beantragen.
+## Übergangsbestimmungen zur Änderung vom 19. Juni 2020 (Weiterentwicklung der IV)****
+
+[^u8-1]
+
+[^u8-1]: [AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)
+
+a. Anpassung laufender Renten von Rentenbezügerinnen und -bezügern, die das 55. Altersjahr noch nicht vollendet haben
+
+<sup>1</sup> Für Rentenbezügerinnen und Rentenbezüger, deren Rentenanspruch vor Inkrafttreten dieser Änderung entstanden ist und die bei Inkrafttreten dieser Änderung das 55. Altersjahr noch nicht vollendet haben, bleibt der bisherige Rentenanspruch bestehen, bis sich der Invaliditätsgrad nach Artikel 17 Absatz 1 ATSG[^u8-2] ändert.
+
+<sup>2</sup> Der bisherige Rentenanspruch bleibt auch nach einer Änderung des Invaliditätsgrades nach Artikel 17 Absatz 1 ATSG bestehen, sofern die Anwendung von Artikel 24*a* des vorliegenden Gesetzes zur Folge hat, dass der bisherige Rentenanspruch bei einer Erhöhung des Invaliditätsgrades sinkt oder bei einem Sinken des Invaliditätsgrades ansteigt.
+
+<sup>3</sup> Für Rentenbezügerinnen und -bezüger, deren Rentenanspruch vor Inkrafttreten dieser Änderung entstanden ist und die bei Inkrafttreten dieser Änderung das 30. Altersjahr noch nicht vollendet haben, wird die Regelung des Rentenanspruchs nach Artikel 24*a* des vorliegenden Gesetzes spätestens 10 Jahre nach Inkrafttreten dieser Änderung angewendet. Falls der Rentenbetrag im Vergleich zum bisherigen Betrag sinkt, wird der versicherten Person der bisherige Betrag solange ausgerichtet, bis sich der Invaliditätsgrad nach Artikel 17 Absatz 1 ATSG verändert.
+
+<sup>4</sup> Während der provisorischen Weiterversicherung nach Artikel 26*a* wird die Anwendung von Artikel 24*a* aufgeschoben.
+
+b. Nichtanpassung laufender Renten von Rentenbezügerinnen und -bezügern, die das 55. Altersjahr vollendet haben
+
+Für Rentenbezügerinnen und -bezüger, deren Rentenanspruch vor Inkrafttreten dieser Änderung entstanden ist und die bei Inkrafttreten dieser Änderung das 55. Altersjahr vollendet haben, gilt das bisherige Recht.
+
+[^u8-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 Anhang
 
 ## Änderung von Bundeserlassen
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797)konsultiert werden.
