@@ -4,20 +4,20 @@ title: "Ordinanza del 27 giugno 2007 sui diplomi, la formazione, il perfezioname
 short: OPMed
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/538"
 language: it
-version: 2021-11-01
+version: 2022-01-01
 adopted: 2007-06-27
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/538/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2007-538-20211101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/538/20211101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/538/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-538-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/538/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sui diplomi, la formazione, il perfezionamento e l’esercizio della professione nelle professioni mediche universitarie
 
-(Ordinanza sulle professioni mediche, OPMed)**[^t-1]**
+(Ordinanza sulle professioni mediche, OPMed)[^t-1]
 
-del 27 giugno 2007 (Stato 1° novembre 2021)
+del 27 giugno 2007 (Stato 1° gennaio 2022)
 
 [^t-1]: Introdotto dal n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5419](https://fedlex.data.admin.ch/eli/oc/2010/768)).
 
@@ -85,7 +85,7 @@ I diplomi e i titoli di perfezionamento esteri riconosciuti, rilasciati da Stati
 
 <sup>2</sup> I diplomi e i titoli di perfezionamento sono riconosciuti rispettivamente dalla MEBEKO, sezione «Formazione», e dalla MEBEKO, sezione «Perfezionamento».[^4-4]
 
-<sup>3</sup> e <sup>4</sup> ...[^4-5]
+<sup>3</sup> e <sup>4</sup> …[^4-5]
 
 [^4-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^4-2]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
@@ -109,7 +109,7 @@ La MEBEKO iscrive in una banca dati i dati rilevanti che riguardano:
 - f. i titoli di perfezionamento esteri riconosciuti di cui all’articolo 21 capoverso 1 LPMed;
 - g. i titoli di perfezionamento verificati di cui all’articolo 35 capoverso 1 LPMed;
 - h. i titoli di perfezionamento equivalenti di cui all’articolo 36 capoverso 3 LPMed;
-- i.[^5-2] ...
+- i.[^5-2] …
 
 <sup>2</sup>
 
@@ -119,12 +119,12 @@ Il segretariato della sezione «Formazione» della MEBEKO rileva i seguenti dati
 - b. la data di nascita e il sesso;
 - c. la lingua di corrispondenza;
 - d. i luoghi di attinenza e le cittadinanze;
-- e. il numero d’assicurato di cui all’articolo 50*e* capoverso 1 della legge federale del 20 dicembre 1946[^5-3] sull’assicurazione per la vecchiaia e per i superstiti;
+- e. il numero AVS[^5-3] sull’assicurazione per la vecchiaia e per i superstiti;
 - f. un numero di identificazione univoco per le persone appartenenti alle professioni mediche (GLN[^5-4]);
 - g. l’indirizzo, il numero di telefono e l’indirizzo di posta elettronica;
 - h. le conoscenze linguistiche del titolare del diploma.
 
-<sup>2bis</sup> ...[^5-5]
+<sup>2bis</sup> …[^5-5]
 
 <sup>3</sup>
 
@@ -150,7 +150,7 @@ Il segretariato della sezione «Perfezionamento» della MEBEKO rileva i dati rig
 
 [^5-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
 [^5-2]: Introdotta dal n. I 1 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
-[^5-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^5-3]: Nuova espr. giusta l’all. n. II 28 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^5-4]: GLN è l’acronimo di *Global Location Number*.
 [^5-5]: Introdotto dal n. I 1 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 [^5-6]: [RS 811.117.3](https://fedlex.data.admin.ch/eli/cc/2017/279)
@@ -172,7 +172,7 @@ Su domanda del titolare di un diploma federale o di un titolo federale di perfez
 [^7-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 [^7-2]: Nuovo testo giusta l’all. n. 3 dell’O del 12 nov. 2014 concernente la L sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
 
-## Sezione 2: Formazione universitaria****
+## Sezione 2: Formazione universitaria
 
 [^sec2-1]
 
@@ -218,7 +218,7 @@ La durata della formazione per ogni singolo titolo di perfezionamento è discipl
 
 <sup>2</sup> L’organizzazione responsabile del perfezionamento deve presentare la domanda di accreditamento al più tardi due anni prima della scadenza del periodo di validità dell’accreditamento.[^11-3]
 
-<sup>3</sup> ...[^11-4]
+<sup>3</sup> …[^11-4]
 
 <sup>4</sup> L’organo di accreditamento avvia la valutazione esterna non appena riceve la domanda di accreditamento.
 
@@ -231,7 +231,7 @@ La durata della formazione per ogni singolo titolo di perfezionamento è discipl
 [^11-3]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
 [^11-4]: Abrogato dal n. I dell’O del 28 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4651](https://fedlex.data.admin.ch/eli/oc/2014/778)).
 
-## Sezione 3*a*:**** Conoscenze linguistiche secondo l’articolo 33*a* LPMed
+## Sezione 3*a*: Conoscenze linguistiche secondo l’articolo 33*a* LPMed
 
 [^sec3a-1]
 
@@ -275,7 +275,7 @@ Le conoscenze linguistiche possono essere provate mediante:
 
 <sup>3</sup> In linea di principio si presuppone che le conoscenze orali e scritte della lingua principale della persona che esercita una professione medica universitaria siano sufficienti ai fini dell’iscrizione. In caso di dubbio, la MEBEKO può esigere una prova della padronanza della lingua.
 
-## Sezione 3*b*:**** Esigenze minime relative alla formazione finalizzata all’ottenimento di un diploma secondo l’articolo 33*a* capoverso 2 lettera a LPMed
+## Sezione 3*b*: Esigenze minime relative alla formazione finalizzata all’ottenimento di un diploma secondo l’articolo 33*a* capoverso 2 lettera a LPMed
 
 [^sec3b-1]
 
@@ -374,7 +374,7 @@ L’ordinanza del 17 ottobre 2001[^16-1] sul perfezionamento e sul riconosciment
 
 **Modifica del diritto vigente**
 
-...[^17-1]
+…[^17-1]
 
 [^17-1]: La mod. può essere consultata alla [RU 2007 4055](https://fedlex.data.admin.ch/eli/oc/2007/538).
 
@@ -382,7 +382,7 @@ L’ordinanza del 17 ottobre 2001[^16-1] sul perfezionamento e sul riconosciment
 
 **Disposizioni transitorie**
 
-<sup>1</sup> a <sup>8</sup> ...[^18-1]
+<sup>1</sup> a <sup>8</sup> …[^18-1]
 
 <sup>9</sup> Per l’ammissione al perfezionamento conformemente all’articolo 19 capoverso 1 LPMed, il superamento del primo esame intercantonale in chiropratica equivale al conseguimento di un diploma federale corrispondente.
 
@@ -392,11 +392,11 @@ L’ordinanza del 17 ottobre 2001[^16-1] sul perfezionamento e sul riconosciment
 
 **Disposizioni transitorie della modifica del 17 novembre 2010**[^18a-1]
 
-<sup>1</sup> ...[^18a-2]
+<sup>1</sup> …[^18a-2]
 
 <sup>2</sup> Le persone che hanno conseguito un titolo federale di perfezionamento in medicina generale o interna prima dell’entrata in vigore della modifica del 17 novembre 2010 possono continuare a usare il titolo federale di perfezionamento precedente oppure conseguire, su domanda, il nuovo titolo federale di perfezionamento in medicina interna generale, senza alcuna condizione.
 
-<sup>3</sup> ...[^18a-3]
+<sup>3</sup> …[^18a-3]
 
 <sup>4</sup> Le persone che hanno conseguito un titolo di perfezionamento di diritto privato in farmacia d’officina o d’ospedale prima dell’istituzione dei titoli federali di perfezionamento corrispondenti possono utilizzare la designazione di farmacista specialista in farmacia d’officina o d’ospedale.
 
@@ -434,7 +434,7 @@ Sono esonerati dall’obbligo di fornire la prova di cui all’articolo 11*c* e 
 
 La presente ordinanza entra in vigore il 1° settembre 2007.
 
-Allegato 1*[^t-2]*
+Allegato 1[^t-2]
 
 (art. 2 cpv. 1 lett. a e b nonché art. 10)
 
@@ -442,109 +442,72 @@ Allegato 1*[^t-2]*
 
 [^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del 17 nov. 2010 ([RU 2010 5419](https://fedlex.data.admin.ch/eli/oc/2010/768)). Aggiornato dai n. II cpv. 1 delle O del 28 nov. 2014 ([RU 2014 4651](https://fedlex.data.admin.ch/eli/oc/2014/778)) e del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
 
-### 1. Specializzazioni e relativa durata secondo l’articolo 25 della direttiva 2005/36/CE****
+### 1. Specializzazioni e relativa durata secondo l’articolo 25 della direttiva 2005/36/CE
 
 [^annex1-lvlu1-lvl1-1]
 
 [^annex1-lvlu1-lvl1-1]: Direttiva 2005/36/CE del Parlamento europeo e del Consiglio, del 7 set. 2005, relativa al riconoscimento delle qualifiche professionali, nella versione vincolante per la Svizzera conformemente all’allegato III sezione A numero 1 dell’Accordo sulla libera circolazione delle persone ([RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)).
 
-anestesiologia 5 anni
-
-chirurgia 6 anni
-
-ginecologia e ostetricia 5 anni
-
-medicina interna generale 5 anni
-
-pediatria 5 anni
-
-neurochirurgia 6 anni
-
-neurologia 6 anni
-
-oftalmologia 5 anni
-
-chirurgia ortopedica e traumatologia dell’apparato locomotore 6 anni
-
-otorinolaringoiatria 5 anni
-
-patologia 5 anni
-
-pneumologia 6 anni
-
-psichiatria e psicoterapia 6 anni
-
-urologia 6 anni
-
-allergologia e immunologia clinica 6 anni
-
-medicina del lavoro 5 anni
-
-dermatologia e venereologia 5 anni
-
-endocrinologia e diabetologia 6 anni
-
-gastroenterologia 6 anni
-
-ematologia 6 anni
-
-chirurgia del cuore e dei vasi toracici 6 anni
-
-cardiologia 6 anni
-
-chirurgia oro-maxillo-facciale 6 anni
-
-psichiatria e psicoterapia infantile e dell’adolescenza 6 anni
-
-chirurgia pediatrica 6 anni
-
-farmacologia e tossicologia clinica 6 anni
-
-radiologia 5 anni
-
-medicina nucleare 5 anni
-
-radio oncologia / radioterapia 5 anni
-
-nefrologia 6 anni
-
-medicina fisica e riabilitazione 5 anni
-
-chirurgia plastica, ricostruttiva ed estetica 6 anni
-
-prevenzione e salute pubblica 5 anni
-
-reumatologia 6 anni
-
-medicina tropicale e medicina di viaggio 5 anni
-
-malattie infettive 6 anni
-
-genetica medica 5 anni
-
-oncologia medica 6 anni
+<table>
+<tr><td>anestesiologia</td><td>5 anni</td></tr>
+<tr><td>chirurgia</td><td>6 anni</td></tr>
+<tr><td>ginecologia e ostetricia</td><td>5 anni</td></tr>
+<tr><td>medicina interna generale</td><td>5 anni</td></tr>
+<tr><td>pediatria</td><td>5 anni</td></tr>
+<tr><td>neurochirurgia</td><td>6 anni</td></tr>
+<tr><td>neurologia</td><td>6 anni</td></tr>
+<tr><td>oftalmologia</td><td>5 anni</td></tr>
+<tr><td>chirurgia ortopedica e traumatologia dell’apparato locomotore</td><td>6 anni</td></tr>
+<tr><td>otorinolaringoiatria</td><td>5 anni</td></tr>
+<tr><td>patologia</td><td>5 anni</td></tr>
+<tr><td>pneumologia</td><td>6 anni</td></tr>
+<tr><td>psichiatria e psicoterapia</td><td>6 anni</td></tr>
+<tr><td>urologia</td><td>6 anni</td></tr>
+<tr><td>allergologia e immunologia clinica</td><td>6 anni</td></tr>
+<tr><td>medicina del lavoro</td><td>5 anni</td></tr>
+<tr><td>dermatologia e venereologia</td><td>5 anni</td></tr>
+<tr><td>endocrinologia e diabetologia</td><td>6 anni</td></tr>
+<tr><td>gastroenterologia</td><td>6 anni</td></tr>
+<tr><td>ematologia</td><td>6 anni</td></tr>
+<tr><td>chirurgia del cuore e dei vasi toracici</td><td>6 anni</td></tr>
+<tr><td>cardiologia</td><td>6 anni</td></tr>
+<tr><td>chirurgia oro-maxillo-facciale</td><td>6 anni</td></tr>
+<tr><td>psichiatria e psicoterapia infantile e dell’adolescenza</td><td>6 anni</td></tr>
+<tr><td>chirurgia pediatrica</td><td>6 anni</td></tr>
+<tr><td>farmacologia e tossicologia clinica</td><td>6 anni</td></tr>
+<tr><td>radiologia</td><td>5 anni</td></tr>
+<tr><td>medicina nucleare</td><td>5 anni</td></tr>
+<tr><td>radio oncologia / radioterapia</td><td>5 anni</td></tr>
+<tr><td>nefrologia</td><td>6 anni</td></tr>
+<tr><td>medicina fisica e riabilitazione</td><td>5 anni</td></tr>
+<tr><td>chirurgia plastica, ricostruttiva ed estetica</td><td>6 anni</td></tr>
+<tr><td>prevenzione e salute pubblica</td><td>5 anni</td></tr>
+<tr><td>reumatologia</td><td>6 anni</td></tr>
+<tr><td>medicina tropicale e medicina di viaggio</td><td>5 anni</td></tr>
+<tr><td>malattie infettive</td><td>6 anni</td></tr>
+<tr><td>genetica medica</td><td>5 anni</td></tr>
+<tr><td>oncologia medica</td><td>6 anni</td></tr>
+</table>
 
 ### 2. Specializzazione e relativa durata secondo l’articolo 28 della direttiva 2005/36/CE
 
-medico generico 3 anni
+<table>
+<tr><td>medico generico</td><td>3 anni</td></tr>
+</table>
 
 ### 3. Altre specializzazioni e relativa durata
 
-angiologia 6 anni
+<table>
+<tr><td>angiologia</td><td>6 anni</td></tr>
+<tr><td>chirurgia vascolare</td><td>6 anni</td></tr>
+<tr><td>chirurgia della mano</td><td>6 anni</td></tr>
+<tr><td>medicina intensiva</td><td>6 anni</td></tr>
+<tr><td>medicina farmacologica</td><td>5 anni</td></tr>
+<tr><td>medicina legale</td><td>5 anni</td></tr>
+<tr><td>chirurgia toracica</td><td>6 anni</td></tr>
+</table>
 
-chirurgia vascolare 6 anni
-
-chirurgia della mano 6 anni
-
-medicina intensiva 6 anni
-
-medicina farmacologica 5 anni
-
-medicina legale 5 anni
-
-chirurgia toracica 6 anni
-
-Allegato 2*[^t-3]*
+Allegato 2[^t-3]
 
 (art. 2 cpv. 1 lett. c e art. 10)
 
@@ -552,23 +515,25 @@ Allegato 2*[^t-3]*
 
 [^t-3]: Aggiornato giusta il n. II cpv. 1 dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4651](https://fedlex.data.admin.ch/eli/oc/2014/778)).
 
-### 1. Specializzazioni e relativa durata secondo l’articolo 35 della direttiva 2005/36/CE****
+### 1. Specializzazioni e relativa durata secondo l’articolo 35 della direttiva 2005/36/CE
 
 [^annex2-lvlu1-lvl1-1]
 
 [^annex2-lvlu1-lvl1-1]: Cfr. nota a piè di pagina relativa all’all. 1 n. 1.
 
-ortodonzia 4 anni
-
-chirurgia orale 3 anni
+<table>
+<tr><td>ortodonzia</td><td>4 anni</td></tr>
+<tr><td>chirurgia orale</td><td>3 anni</td></tr>
+</table>
 
 ### 2. Ulteriori specializzazioni e relativa durata
 
-parodontologia 3 anni
+<table>
+<tr><td>parodontologia</td><td>3 anni</td></tr>
+<tr><td>medicina dentaria ricostruttiva</td><td>3 anni</td></tr>
+</table>
 
-medicina dentaria ricostruttiva 3 anni
-
-Allegato 3*[^t-4]*
+Allegato 3[^t-4]
 
 (art. 2 cpv. 1 lett. d e art. 10)
 
@@ -576,15 +541,17 @@ Allegato 3*[^t-4]*
 
 [^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4651](https://fedlex.data.admin.ch/eli/oc/2014/778)).
 
-### Specializzazione e relativa durata in chiropratica secondo gli articoli 10–15 della direttiva 2005/36/CE****
+### Specializzazione e relativa durata in chiropratica secondo gli articoli 10–15 della direttiva 2005/36/CE
 
 [^annex3-lvlu1-lvlu1-1]
 
 [^annex3-lvlu1-lvlu1-1]: Cfr. nota a piè di pagina relativa all’all. 1 n. 1.
 
-chiropratica specialistica 2½ anni
+<table>
+<tr><td>chiropratica specialistica</td><td>2½ anni</td></tr>
+</table>
 
-Allegato 3a*[^t-5]*
+Allegato 3a[^t-5]
 
 (art. 2 cpv. 1 lett. e nonché art. 10)
 
@@ -592,21 +559,22 @@ Allegato 3a*[^t-5]*
 
 [^t-5]: Introdotto dal n. II cpv. 2 dell’O del 17 nov. 2010 ([RU 2010 5419](https://fedlex.data.admin.ch/eli/oc/2010/768)). Nuovo testo giusta il n. II cpv. 2 dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
 
-### Specializzazioni e relativa durata in farmacia secondo gli articoli 10–15 della direttiva 2005/36/CE****
+### Specializzazioni e relativa durata in farmacia secondo gli articoli 10–15 della direttiva 2005/36/CE
 
 [^annex3a-lvlu1-lvlu1-1]
 
 [^annex3a-lvlu1-lvlu1-1]: Direttiva 2005/36/CE del Parlamento europeo e del Consiglio, del 7 set. 2005, relativa al riconoscimento delle qualifiche professionali, nella versione vincolante per la Svizzera secondo l’allegato III Sezione A dell’Accordo di libero scambio ([RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)).
 
-farmacia d’officina 2 anni
+<table>
+<tr><td>farmacia d’officina</td><td>2 anni</td></tr>
+<tr><td>farmacia d’ospedale</td><td>3 anni</td></tr>
+</table>
 
-farmacia d’ospedale 3 anni
-
-Allegato 4*[^t-6]*
+Allegato 4[^t-6]
 
 [^t-6]: Abrogato dal n. II cpv. 3 dell’O del 28 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4651](https://fedlex.data.admin.ch/eli/oc/2014/778)).
 
-Allegato 5*[^t-7]*
+Allegato 5[^t-7]
 
 (art. 15)
 
@@ -618,29 +586,29 @@ Sono fissati gli emolumenti seguenti:
 
 <table>
 <tr><th></th><th>franchi</th></tr>
-<tr><td>1. Per il diploma federale e l’iscrizione nella banca dati della MEBEKO:</td><td>[tab]</td></tr>
-<tr><td>[tab] a. rilascio, incluso quello della tessera</td><td>500</td></tr>
-<tr><td>[tab] b. duplicato</td><td>150</td></tr>
-<tr><td>[tab] c. facsimile</td><td>500</td></tr>
-<tr><td>[tab] d. attestato di diploma</td><td>50</td></tr>
-<tr><td>[tab] e. rilascio separato della tessera</td><td>50</td></tr>
+<tr><td>1. Per il diploma federale e l’iscrizione nella banca dati della MEBEKO:</td><td></td></tr>
+<tr><td>a. rilascio, incluso quello della tessera</td><td>500</td></tr>
+<tr><td>b. duplicato</td><td>150</td></tr>
+<tr><td>c. facsimile</td><td>500</td></tr>
+<tr><td>d. attestato di diploma</td><td>50</td></tr>
+<tr><td>e. rilascio separato della tessera</td><td>50</td></tr>
 <tr><td>2. Per il riconoscimento di diplomi esteri e l’iscrizione nella banca dati della MEBEKO:</td><td></td></tr>
 <tr><td>a. procedura secondo l’articolo 15 capoverso 1 LPMed, incluso il rilascio della tessera</td><td>800–1000</td></tr>
 <tr><td>b. procedura secondo l’articolo 15 capoverso 4 LPMed</td><td>800–1000</td></tr>
-<tr><td>[tab] c. duplicato</td><td>150</td></tr>
-<tr><td>[tab] d. facsimile</td><td>500</td></tr>
-<tr><td>[tab] e. rilascio separato della tessera</td><td>50</td></tr>
-<tr><td>[tab] 2*a*. Per la verifica di diplomi e l’iscrizione nella banca dati della MEBEKO secondo l’articolo 33*a* capoverso 2 LPMed</td><td>[tab] 800–1200</td></tr>
-<tr><td>3. Per il riconoscimento di titoli di perfezionamento esteri e l’iscrizione nella banca dati della MEBEKO::</td><td></td></tr>
+<tr><td>c. duplicato</td><td>150</td></tr>
+<tr><td>d. facsimile</td><td>500</td></tr>
+<tr><td>e. rilascio separato della tessera</td><td>50</td></tr>
+<tr><td>2*a*. Per la verifica di diplomi e l’iscrizione nella banca dati della MEBEKO secondo l’articolo 33*a* capoverso 2 LPMed</td><td>800–1200</td></tr>
+<tr><td>3. Per il riconoscimento di titoli di perfezionamento esteri e l’iscrizione nella banca dati della MEBEKO:</td><td></td></tr>
 <tr><td>a. procedura secondo l’articolo 21 capoverso 1 LPMed</td><td>800–1000</td></tr>
-<tr><td>b. ...</td><td></td></tr>
-<tr><td>[tab] c. duplicato</td><td>150</td></tr>
-<tr><td>[tab] d. facsimile</td><td>500</td></tr>
+<tr><td>b. …</td><td></td></tr>
+<tr><td>c. duplicato</td><td>150</td></tr>
+<tr><td>d. facsimile</td><td>500</td></tr>
 <tr><td>3*a*. Per la verifica delle qualifiche professionali dei prestatori di servizi secondo l’articolo 35 capoverso 1 LPMed</td><td></td></tr>
 <tr><td>a. primo annuncio</td><td>800–1000</td></tr>
 <tr><td>b. rinnovo dell’annuncio</td><td>150</td></tr>
-<tr><td>[tab] 3*b*. Per la verifica delle conoscenze linguistiche del titolare del diploma e la loro iscrizione nel registro delle professioni mediche secondo l’articolo 11*c*</td><td>[tab] 50–100</td></tr>
+<tr><td>3*b*. Per la verifica delle conoscenze linguistiche del titolare del diploma e la loro iscrizione nel registro delle professioni mediche secondo l’articolo 11*c*</td><td>50–100</td></tr>
 <tr><td>4. Per l’emissione di certificati di conformità alle direttive per i diplomi e i titoli di perfezionamento federali</td><td>150</td></tr>
 <tr><td>5. Per l’emissione di certificati di equivalenza secondo l’articolo 36 capoverso 3 LPMed e l’iscrizione nella banca dati della MEBEKO</td><td>680–790</td></tr>
-<tr><td>6. Per le decisioni conformemente al combinato disposto degli articoli 28 e 47 capoverso 2 LPMed</td><td>10 000 – 50 000</td></tr>
+<tr><td>6. Per le decisioni conformemente al combinato disposto degli articoli 28 e 47 capoverso 2 LPMed</td><td>10 000–50 000</td></tr>
 </table>

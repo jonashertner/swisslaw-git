@@ -4,20 +4,20 @@ title: "Ordonnance du 27 juin 2007 concernant les diplômes, la formation univer
 short: OPMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/538"
 language: fr
-version: 2021-11-01
+version: 2022-01-01
 adopted: 2007-06-27
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/538/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-538-20211101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/538/20211101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/538/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-538-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/538/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant les diplômes, la formation universitaire, la formation postgrade et l’exercice des professions médicales universitaires
 
-(Ordonnance sur les professions médicales, OPMéd)**[^t-1]**
+(Ordonnance sur les professions médicales, OPMéd)[^t-1]
 
-du 27 juin 2007 (Etat le 1<sup>er</sup> novembre 2021)
+du 27 juin 2007 (État le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5419](https://fedlex.data.admin.ch/eli/oc/2010/768)).
 
@@ -83,7 +83,7 @@ Les diplômes et les titres postgrades étrangers reconnus, délivrés par des �
 
 <sup>2</sup> Les diplômes sont reconnus par la section «formation universitaire» de la MEBEKO, et les titres postgrades par la section «formation postgrade» de la MEBEKO.[^4-4]
 
-<sup>3</sup> et <sup>4</sup> ...[^4-5]
+<sup>3</sup> et <sup>4</sup> …[^4-5]
 
 [^4-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^4-2]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
@@ -117,12 +117,12 @@ Le secrétariat de la section «formation universitaire» de la MEBEKO enregistr
 - b. date de naissance et sexe;
 - c. langue de correspondance;
 - d. lieux d’origine et nationalités;
-- e. numéro d’assuré visé à l’art. 50*e*, al. 1, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^5-3];
+- e. numéro AVS[^5-3];
 - f. numéro d’identification unique pour les personnes relevant des professions médicales (GLN[^5-4]);
 - g. adresse, numéro de téléphone et adresse électronique;
 - h. connaissances linguistiques.
 
-<sup>2bis</sup> ...[^5-5]
+<sup>2bis</sup> …[^5-5]
 
 <sup>3</sup>
 
@@ -148,7 +148,7 @@ Le secrétariat de la section «formation postgrade» de la MEBEKO enregistre le
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
 [^5-2]: Introduite par le ch. I 1 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 oct. 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
-[^5-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^5-3]: Nouvelle expression selon l’annexe ch. II 28 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^5-4]: L’abréviation «GLN» signifie «*Global Location Number*»
 [^5-5]: Introduit par le ch. I 1 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 oct. 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 [^5-6]: [RS 811.117.3](https://fedlex.data.admin.ch/eli/cc/2017/279)
@@ -170,7 +170,7 @@ Sur demande du titulaire d’un diplôme fédéral ou d’un titre postgrade fé
 [^7-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 [^7-2]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 12 nov. 2014 (Encouragement et coordination des hautes écoles), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
 
-## Section 2 Formation universitaire****
+## Section 2 Formation universitaire
 
 [^sec2-1]
 
@@ -216,7 +216,7 @@ La durée de la formation pour chaque titre postgrade est mentionnée aux annexe
 
 <sup>2</sup> L’organisation responsable de la formation postgrade doit déposer la demande d’accréditation au plus tard deux ans avant la fin de la durée de validité de l’accréditation.[^11-3]
 
-<sup>3</sup> ...[^11-4]
+<sup>3</sup> …[^11-4]
 
 <sup>4</sup> Dès que la demande d’accréditation a été faite, l’organe d’accréditation procède à l’évaluation externe.
 
@@ -229,7 +229,7 @@ La durée de la formation pour chaque titre postgrade est mentionnée aux annexe
 [^11-3]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
 [^11-4]: Abrogé par le ch. I de l’O du 28 nov. 2014, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 4651](https://fedlex.data.admin.ch/eli/oc/2014/778)).
 
-## Section 3*a***** Connaissances linguistiques visées à l’art. 33*a* LPMéd
+## Section 3*a* Connaissances linguistiques visées à l’art. 33*a* LPMéd
 
 [^sec3a-1]
 
@@ -273,7 +273,7 @@ Les connaissances linguistiques peuvent être prouvées par:
 
 <sup>3</sup> Les connaissances orales et écrites de la langue principale de la personne exerçant une profession médicale universitaire sont considérées en principe comme suffisantes pour l’inscription. En cas de doute, la MEBEKO peut exiger un preuve de la maîtrise de la langue.
 
-## Section 3*b***** Exigences minimales relatives à la formation sanctionnée par un diplôme visé à l’art. 33*a*, al. 2, let. a, LPMéd
+## Section 3*b* Exigences minimales relatives à la formation sanctionnée par un diplôme visé à l’art. 33*a*, al. 2, let. a, LPMéd
 
 [^sec3b-1]
 
@@ -379,7 +379,7 @@ L’ordonnance du 17 octobre 2001 sur la formation postgrade et la reconnaissanc
 
 **Dispositions transitoires**
 
-<sup>1</sup> à <sup>8</sup> ...[^18-1]
+<sup>1</sup> à <sup>8</sup> …[^18-1]
 
 <sup>9</sup> Le premier examen intercantonal réussi en chiropratique équivaut, pour l’admission à la formation postgrade au sens de l’art. 19, al, 1, LPMéd, à un diplôme fédéral correspondant.
 
@@ -389,11 +389,11 @@ L’ordonnance du 17 octobre 2001 sur la formation postgrade et la reconnaissanc
 
 **Dispositions transitoires concernant la modification du 17 novembre 2010**[^18a-1]
 
-<sup>1</sup> ...[^18a-2]
+<sup>1</sup> …[^18a-2]
 
 <sup>2</sup> Les personnes ayant obtenu un titre postgrade fédéral en médecine générale ou en médecine interne avant l’entrée en vigueur de la modification du 17 novembre 2010 de la présente ordonnance peuvent soit continuer à l’utiliser, soit obtenir le nouveau titre postgrade fédéral en médecine interne générale sur demande et sans conditions.
 
-<sup>3</sup> ...[^18a-3]
+<sup>3</sup> …[^18a-3]
 
 <sup>4</sup> Les personnes ayant obtenu, avant la création des titres postgrades fédéraux en pharmacie d’officine ou hospitalière, un titre postgrade de droit privé correspondant, peuvent utiliser la dénomination de pharmacien spécialiste en pharmacie d’officine ou hospitalière.
 
@@ -431,15 +431,15 @@ Sont exemptées de la preuve visée à l’art. 11*c* et des émoluments visés 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> septembre 2007.
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 (art. 2, al. 1, let. a et b et art. 10)
 
 ## Formation postgrade des médecins
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 17 nov. 2010 ([RO 2010 5419](https://fedlex.data.admin.ch/eli/oc/2010/768)). Mise à jour selon le ch. II al. 1 des O du 28 nov. 2014 ([RO 2014 4651](https://fedlex.data.admin.ch/eli/oc/2014/778)) et du 5 avr. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 17 nov. 2010 ([RO 2010 5419](https://fedlex.data.admin.ch/eli/oc/2010/768)). Mise à jour par le ch. II al. 1 des O du 28 nov. 2014 ([RO 2014 4651](https://fedlex.data.admin.ch/eli/oc/2014/778)) et du 5 avr. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
 
-### 1. Domaines de formation postgrade et durée de la formation selon l’art. 25 de la directive 2005/36/CE****
+### 1. Domaines de formation postgrade et durée de la formation selon l’art. 25 de la directive 2005/36/CE
 
 [^annex1-lvlu1-lvl1-1]
 
@@ -463,7 +463,7 @@ Annexe 1*[^t-2]*
 <tr><td>allergologie et immunologie clinique</td><td>6 ans</td></tr>
 <tr><td>médecine du travail</td><td>5 ans</td></tr>
 <tr><td>dermatologie et vénéréologie</td><td>5 ans</td></tr>
-<tr><td>endocrinologie / diabétologie</td><td>6 ans</td></tr>
+<tr><td>endocrinologie/diabétologie</td><td>6 ans</td></tr>
 <tr><td>gastroentérologie</td><td>6 ans</td></tr>
 <tr><td>hématologie</td><td>6 ans</td></tr>
 <tr><td>chirurgie cardiaque et vasculaire thoracique</td><td>6 ans</td></tr>
@@ -474,7 +474,7 @@ Annexe 1*[^t-2]*
 <tr><td>pharmacologie et toxicologie cliniques</td><td>6 ans</td></tr>
 <tr><td>radiologie</td><td>5 ans</td></tr>
 <tr><td>médecine nucléaire</td><td>5 ans</td></tr>
-<tr><td>radio-oncologie / radiothérapie</td><td>5 ans</td></tr>
+<tr><td>radio-oncologie/radiothérapie</td><td>5 ans</td></tr>
 <tr><td>néphrologie</td><td>6 ans</td></tr>
 <tr><td>médecine physique et réadaptation</td><td>5 ans</td></tr>
 <tr><td>chirurgie plastique, reconstructive et esthétique</td><td>6 ans</td></tr>
@@ -504,15 +504,15 @@ Annexe 1*[^t-2]*
 <tr><td>chirurgie thoracique</td><td>6 ans</td></tr>
 </table>
 
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
 (art. 2, al. 1, let. c et art. 10)
 
 ## Formation postgrade des médecin-dentistes
 
-[^t-3]: Mise à jour selon le ch. II al. 1 de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4651](https://fedlex.data.admin.ch/eli/oc/2014/778)).
+[^t-3]: Mise à jour par le ch. II al. 1 de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4651](https://fedlex.data.admin.ch/eli/oc/2014/778)).
 
-### 1. Domaines de formation postgrade et durée de la formation selon l’art. 35 de la directive 2005/36/CE****
+### 1. Domaines de formation postgrade et durée de la formation selon l’art. 35 de la directive 2005/36/CE
 
 [^annex2-lvlu1-lvl1-1]
 
@@ -530,7 +530,7 @@ Annexe 2*[^t-3]*
 <tr><td>médecine dentaire reconstructive</td><td>3 ans</td></tr>
 </table>
 
-Annexe 3*[^t-4]*
+Annexe 3[^t-4]
 
 (art. 2, al. 1, let. d et art. 10)
 
@@ -538,7 +538,7 @@ Annexe 3*[^t-4]*
 
 [^t-4]: Nouvelle teneur selon le ch. II al. 2 de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4651](https://fedlex.data.admin.ch/eli/oc/2014/778)).
 
-### Domaines de formation postgrade et durée de la formation en chiropratique selon les art. 10 à 15 de la directive 2005/36/CE****
+### Domaines de formation postgrade et durée de la formation en chiropratique selon les art. 10 à 15 de la directive 2005/36/CE
 
 [^annex3-lvlu1-lvlu1-1]
 
@@ -548,7 +548,7 @@ Annexe 3*[^t-4]*
 <tr><td>chiropratique spécialisée</td><td>2½ ans</td></tr>
 </table>
 
-Annexe 3a*[^t-5]*
+Annexe 3a[^t-5]
 
 (art. 2, al. 1, let. e et art. 10)
 
@@ -556,7 +556,7 @@ Annexe 3a*[^t-5]*
 
 [^t-5]: Introduite par le ch. II al. 2 de l’O du 17 nov. 2010 ([RO 2010 5419](https://fedlex.data.admin.ch/eli/oc/2010/768)). Nouvelle teneur selon le ch. II al. 2 de l’O du 5 avr. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
 
-### Domaines de formation postgrade et durée de la formation en pharmacie selon les art. 10 à 15 de la directive 2005/36/CE****
+### Domaines de formation postgrade et durée de la formation en pharmacie selon les art. 10 à 15 de la directive 2005/36/CE
 
 [^annex3a-lvlu1-lvlu1-1]
 
@@ -567,40 +567,40 @@ Annexe 3a*[^t-5]*
 <tr><td>Pharmacie hospitalière</td><td>3 ans</td></tr>
 </table>
 
-Annexe 4*[^t-6]*
+Annexe 4[^t-6]
 
 [^t-6]: Abrogée par le ch. II al. 3 de l’O du 28 nov. 2014, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 4651](https://fedlex.data.admin.ch/eli/oc/2014/778)).
 
-Annexe 5*[^t-7]*
+Annexe 5[^t-7]
 
 (art. 15)
 
 ## Émoluments
 
-[^t-7]: Nouvelle teneur selon le ch. 2 de l’annexe 2 à l’O du 26 nov. 2008 concernant les examens LPMéd ([RO 2008 6007](https://fedlex.data.admin.ch/eli/oc/2008/832)).Mise à jour selon le ch. II al. 1 des O du 28 nov. 2014 ([RO 2014 4651](https://fedlex.data.admin.ch/eli/oc/2014/778)) et du 5 avr. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
+[^t-7]: Nouvelle teneur selon le ch. 2 de l’annexe 2 à l’O du 26 nov. 2008 concernant les examens LPMéd ([RO 2008 6007](https://fedlex.data.admin.ch/eli/oc/2008/832)).Mise à jour par le ch. II al. 1 des O du 28 nov. 2014 ([RO 2014 4651](https://fedlex.data.admin.ch/eli/oc/2014/778)) et du 5 avr. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
 
 Des émoluments sont fixés pour:
 
 <table>
-<tr><td></td><td>francs</td></tr>
+<tr><th></th><th>francs</th></tr>
 <tr><td>1. le diplôme fédéral et l’inscription dans la banque de données de la MEBEKO:</td><td></td></tr>
 <tr><td>a. délivrance (y compris la carte)</td><td>500</td></tr>
 <tr><td>b. duplicata</td><td>150</td></tr>
 <tr><td>c. fac-similé</td><td>500</td></tr>
 <tr><td>d. attestation de diplôme</td><td>50</td></tr>
 <tr><td>e. délivrance séparée de la carte</td><td>50</td></tr>
-<tr><td>2. la reconnaissance des diplômes étrangers et l’inscription dans la banque de données de la MEBEKO:</td><td>[tab]</td></tr>
+<tr><td>2. la reconnaissance des diplômes étrangers et l’inscription dans la banque de données de la MEBEKO:</td><td></td></tr>
 <tr><td>a. procédure selon l’art. 15, al. 1, LPMéd (y compris la carte)</td><td>800 à 1000</td></tr>
 <tr><td>b. procédure selon l’art. 15, al. 4, LPMéd</td><td>800 à 1000</td></tr>
-<tr><td>c. duplicata</td><td>[tab] 150</td></tr>
-<tr><td>d. fac-similé</td><td>[tab] 500</td></tr>
-<tr><td>e. délivrance séparée de la carte</td><td>[tab] 50</td></tr>
+<tr><td>c. duplicata</td><td>150</td></tr>
+<tr><td>d. fac-similé</td><td>500</td></tr>
+<tr><td>e. délivrance séparée de la carte</td><td>50</td></tr>
 <tr><td>2*a*. le contrôle des diplômes et leur inscription dans la banque de données de la MEBEKO selon l’art. 33*a*, al. 2, LPMéd</td><td>800 à 1200</td></tr>
 <tr><td>3. la reconnaissance des titres postgrades étrangers et l’inscription dans la banque de données de la MEBEKO:</td><td></td></tr>
 <tr><td>a. procédure selon l’art. 21, al. 1, LPMéd</td><td>800 à 1000</td></tr>
-<tr><td>b. ...</td><td></td></tr>
-<tr><td>c. duplicata</td><td>[tab] 150</td></tr>
-<tr><td>d. fac-similé</td><td>[tab] 500</td></tr>
+<tr><td>b. …</td><td></td></tr>
+<tr><td>c. duplicata</td><td>150</td></tr>
+<tr><td>d. fac-similé</td><td>500</td></tr>
 <tr><td>3*a*. la vérification de la qualification professionnelle des prestataires de services selon l’ art. 35, al. 1, LPMéd</td><td></td></tr>
 <tr><td>a. première déclaration</td><td>800 à 1000</td></tr>
 <tr><td>b. renouvellement de la déclaration</td><td>150</td></tr>

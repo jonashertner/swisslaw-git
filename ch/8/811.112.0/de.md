@@ -4,20 +4,20 @@ title: "Verordnung vom 27. Juni 2007 über Diplome, Ausbildung, Weiterbildung un
 short: MedBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/538"
 language: de
-version: 2021-11-01
+version: 2022-01-01
 adopted: 2007-06-27
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/538/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2007-538-20211101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/538/20211101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/538/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-538-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/538/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Diplome, Ausbildung, Weiterbildung und Berufsausübung in den universitären Medizinalberufen
 
-(Medizinalberufeverordnung, MedBV)**[^t-1]**
+(Medizinalberufeverordnung, MedBV)[^t-1]
 
-vom 27. Juni 2007 (Stand am 1. November 2021)
+vom 27. Juni 2007 (Stand am 1. Januar 2022)
 
 [^t-1]: Eingefügt durch Ziff. I der V vom 17. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5419](https://fedlex.data.admin.ch/eli/oc/2010/768)).
 
@@ -84,13 +84,13 @@ Die anerkannten ausländischen Diplome und Weiterbildungstitel aus Mitgliedstaat
 
 <sup>2</sup> Diplome werden von der MEBEKO, Ressort Ausbildung, Weiterbildungstitel von der MEBEKO, Ressort Weiterbildung, anerkannt.[^4-4]
 
-<sup>3–4</sup> ...[^4-5]
+<sup>3–4</sup> …[^4-5]
 
 [^4-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^4-2]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^4-3]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 26. Juni 2013 über die Meldepflicht und die Nachprüfung der Berufsqualifikationen von Dienstleistungserbringerinnen und -erbringern in reglementierten Berufen, in Kraft seit 1. Sept. 2013 ([AS 2013 2421](https://fedlex.data.admin.ch/eli/oc/2013/510)).
+[^4-3]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 26. Juni 2013 über die Meldepflicht und die Nachprüfung der Berufsqualifikationen von Dienstleistungserbringerinnen und ‑erbringern in reglementierten Berufen, in Kraft seit 1. Sept. 2013 ([AS 2013 2421](https://fedlex.data.admin.ch/eli/oc/2013/510)).
 [^4-4]: Fassung gemäss Ziff. I der V vom 5. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
-[^4-5]: Aufgehoben durch Anhang 2 Ziff. 2 der V vom 26. Juni 2013 über die Meldepflicht und die Nachprüfung der Berufsqualifikationen von Dienstleistungserbringerinnen und -erbringern in reglementierten Berufen, mit Wirkung seit 1. Sept. 2013 ([AS 2013 2421](https://fedlex.data.admin.ch/eli/oc/2013/510)).
+[^4-5]: Aufgehoben durch Anhang 2 Ziff. 2 der V vom 26. Juni 2013 über die Meldepflicht und die Nachprüfung der Berufsqualifikationen von Dienstleistungserbringerinnen und ‑erbringern in reglementierten Berufen, mit Wirkung seit 1. Sept. 2013 ([AS 2013 2421](https://fedlex.data.admin.ch/eli/oc/2013/510)).
 
 #### Art. 5
 
@@ -108,7 +108,7 @@ Die MEBEKO trägt in einer Datenbank die relevanten Daten ein zu:
 - f. den anerkannten ausländischen Weiterbildungstiteln nach Artikel 21 Absatz 1 MedBG;
 - g. den nachgeprüften Weiterbildungstiteln nach Artikel 35 Absatz 1 MedBG;
 - h. den gleichwertigen Weiterbildungstiteln nach Artikel 36 Absatz 3 MedBG;
-- i.[^5-2] ...
+- i.[^5-2] …
 
 <sup>2</sup>
 
@@ -118,12 +118,12 @@ Das Sekretariat des Ressorts Ausbildung der MEBEKO erfasst folgende Daten zu den
 - b. Geburtsdatum und Geschlecht;
 - c. Korrespondenzsprache;
 - d. Heimatorte und Nationalitäten;
-- e. Versichertennummer nach Artikel 50*e* Absatz 1 des Bundesgesetzes vom 20. Dezember 1946[^5-3] über die Alters- und Hinterlassenenversicherung;
+- e. AHV-Nummer[^5-3];
 - f. eine eindeutige Identifikationsnummer für die Medizinalpersonen (GLN[^5-4]);
 - g. Adresse, Telefonnummer und E-Mail-Adresse;
 - h. die vorhandenen Sprachkenntnisse.
 
-<sup>2bis</sup> ...[^5-5]
+<sup>2bis</sup> …[^5-5]
 
 <sup>3</sup>
 
@@ -149,7 +149,7 @@ Das Sekretariat des Ressorts Weiterbildung der MEBEKO erfasst zu den Inhaberinne
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 5. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
 [^5-2]: Eingefügt durch Ziff. I 1 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
-[^5-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^5-3]: Ausdruck gemäss Anhang Ziff. II 28 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^5-4]: GLN steht für Global Location Number.
 [^5-5]: Eingefügt durch Ziff. I 1 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 [^5-6]: [SR 811.117.3](https://fedlex.data.admin.ch/eli/cc/2017/279)
@@ -169,9 +169,9 @@ Die MEBEKO bestätigt gegebenenfalls mit einer Bescheinigung auf Antrag der Inha
 <sup>2</sup> Die Überprüfung findet mindestens alle sieben Jahre statt.
 
 [^7-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^7-2]: Fassung gemäss Anhang Ziff. 3 der V vom 12. Nov. 2014 zum Hochschulförderungs- und -koordinationsgesetz, in Kraft seit 1. Jan. 2015 ([AS 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
+[^7-2]: Fassung gemäss Anhang Ziff. 3 der V vom 12. Nov. 2014 zum Hochschulförderungs- und ‑koordinationsgesetz, in Kraft seit 1. Jan. 2015 ([AS 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
 
-## 2. Abschnitt: Universitäre Ausbildung****
+## 2. Abschnitt: Universitäre Ausbildung
 
 [^sec2-1]
 
@@ -217,7 +217,7 @@ Die Dauer der Weiterbildung für jeden einzelnen Weiterbildungstitel richtet sic
 
 <sup>2</sup> Die verantwortliche Weiterbildungsorganisation hat das Akkreditierungsgesuch spätestens zwei Jahre vor Ablauf der Geltungsdauer der Akkreditierung einzureichen.[^11-3]
 
-<sup>3</sup> ...[^11-4]
+<sup>3</sup> …[^11-4]
 
 <sup>4</sup> Sobald das Akkreditierungsgesuch vorliegt, nimmt das Akkreditierungsorgan die Fremdevaluation auf.
 
@@ -226,11 +226,11 @@ Die Dauer der Weiterbildung für jeden einzelnen Weiterbildungstitel richtet sic
 <sup>6</sup> Das EDI erlässt zur Konkretisierung des Akkreditierungskriteriums gemäss Artikel 25 Absatz 1 Buchstabe b MedBG Qualitätsstandards in einer Verordnung.
 
 [^11-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^11-2]: Fassung gemäss Anhang Ziff. 3 der V vom 12. Nov. 2014 zum Hochschulförderungs- und -koordinationsgesetz, in Kraft seit 1. Jan. 2015 ([AS 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
+[^11-2]: Fassung gemäss Anhang Ziff. 3 der V vom 12. Nov. 2014 zum Hochschulförderungs- und ‑koordinationsgesetz, in Kraft seit 1. Jan. 2015 ([AS 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
 [^11-3]: Fassung gemäss Ziff. I der V vom 5. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
 [^11-4]: Aufgehoben durch Ziff. I der V vom 28. Nov. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 4651](https://fedlex.data.admin.ch/eli/oc/2014/778)).
 
-## 3*a*. Abschnitt:**** Sprachkenntnisse nach Artikel 33*a* MedBG
+## 3*a*. Abschnitt: Sprachkenntnisse nach Artikel 33*a* MedBG
 
 [^sec3a-1]
 
@@ -274,7 +274,7 @@ Die Sprachkenntnisse können nachgewiesen werden mit:
 
 <sup>3</sup> Es wird grundsätzlich davon ausgegangen, dass die mündlichen und schriftlichen Kenntnisse der Hauptsprache der universitären Medizinalperson für die Eintragung ausreichend sind. Im Zweifelsfall kann die MEBEKO einen Nachweis für die Beherrschung der Sprache verlangen.
 
-## 3*b*. Abschnitt:**** Mindestanforderungen an die einem Diplom nach Artikel 33*a* Absatz 2 Buchstabe a MedBG zugrunde liegende Ausbildung
+## 3*b*. Abschnitt: Mindestanforderungen an die einem Diplom nach Artikel 33*a* Absatz 2 Buchstabe a MedBG zugrunde liegende Ausbildung
 
 [^sec3b-1]
 
@@ -325,11 +325,11 @@ Eidgenössische und anerkannte ausländische Weiterbildungstitel müssen für di
 
 [^13-1]
 
-[^13-1]: Aufgehoben durch Anhang 2 Ziff. 2 der V vom 26. Juni 2013 über die Meldepflicht und die Nachprüfung der Berufsqualifikationen von Dienstleistungserbringerinnen und -erbringern in reglementierten Berufen, mit Wirkung seit 1. Sept. 2013 ([AS 2013 2421](https://fedlex.data.admin.ch/eli/oc/2013/510)).
+[^13-1]: Aufgehoben durch Anhang 2 Ziff. 2 der V vom 26. Juni 2013 über die Meldepflicht und die Nachprüfung der Berufsqualifikationen von Dienstleistungserbringerinnen und ‑erbringern in reglementierten Berufen, mit Wirkung seit 1. Sept. 2013 ([AS 2013 2421](https://fedlex.data.admin.ch/eli/oc/2013/510)).
 
 #### Art. 14
 
-**Berufsausübung für Inhaberinnen und Inhaber von Diplomen und Weiterbildungstiteln aus Nicht-EU-Staaten und aus Nicht‑EFTA-Staaten[^14-1]**
+**Berufsausübung für Inhaberinnen und Inhaber von Diplomen und Weiterbildungstiteln aus Nicht‑EU-Staaten und aus Nicht‑EFTA-Staaten[^14-1]**
 
 <sup>1</sup>
 
@@ -367,13 +367,13 @@ Personen nach Artikel 36 Absatz 3 MedBG mit einem Diplom oder Weiterbildungstite
 
 Die Verordnung vom 17. Oktober 2001[^16-1] über die Weiterbildung und die Anerkennung der Diplome und Weiterbildungstitel der medizinischen Berufe wird aufgehoben.
 
-[^16-1]: [[AS 2002 1189](https://fedlex.data.admin.ch/eli/oc/2002/198)[1403](https://fedlex.data.admin.ch/eli/oc/2002/217), [2004 3869](https://fedlex.data.admin.ch/eli/oc/2004/535)]
+[^16-1]: [[AS 2002 1189](https://fedlex.data.admin.ch/eli/oc/2002/198), [1403](https://fedlex.data.admin.ch/eli/oc/2002/217); [2004 3869](https://fedlex.data.admin.ch/eli/oc/2004/535)]
 
 #### Art. 17
 
 **Änderung bisherigen Rechts**
 
-...[^17-1]
+…[^17-1]
 
 [^17-1]: Die Änderung kann unter [AS 2007 4055](https://fedlex.data.admin.ch/eli/oc/2007/538)konsultiert werden.
 
@@ -381,7 +381,7 @@ Die Verordnung vom 17. Oktober 2001[^16-1] über die Weiterbildung und die Anerk
 
 **Übergangsbestimmungen**
 
-<sup>1–8</sup> ...[^18-1]
+<sup>1–8</sup> …[^18-1]
 
 <sup>9</sup> Die bestandene erste interkantonale Prüfung in Chiropraktik entspricht für die Zulassung zur Weiterbildung gemäss Artikel 19 Absatz 1 MedBG einem entsprechenden eidgenössischen Diplom.
 
@@ -391,11 +391,11 @@ Die Verordnung vom 17. Oktober 2001[^16-1] über die Weiterbildung und die Anerk
 
 **Übergangsbestimmungen zur Änderung vom 17. November 2010**[^18a-1]
 
-<sup>1</sup> ...[^18a-2]
+<sup>1</sup> …[^18a-2]
 
 <sup>2</sup> Personen, die vor Inkrafttreten der Änderung vom 17. November 2010 dieser Verordnung einen eidgenössischen Weiterbildungstitel in Allgemeinmedizin oder Innerer Medizin erworben haben, können entweder den bisherigen eidgenössischen Weiterbildungstitel weiter verwenden oder den neuen eidgenössischen Weiterbildungstitel in Allgemeiner Innerer Medizin auf Antrag hin voraussetzungslos erwerben.
 
-<sup>3</sup> ...[^18a-3]
+<sup>3</sup> …[^18a-3]
 
 <sup>4</sup> Personen, die vor der Schaffung der eidgenössischen Weiterbildungstitel in Spital- bzw. Offizinpharmazie einen entsprechenden privatrechtlichen Weiterbildungstitel erworben haben, dürfen sich als Fachapothekerin/Fachapotheker in Spital- bzw. Offizinpharmazie bezeichnen.
 
@@ -433,7 +433,7 @@ Von der Nachweispflicht nach Artikel 11c sowie der Gebührenpflicht nach Ziffer 
 
 Diese Verordnung tritt am 1. September 2007 in Kraft.
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 (Art. 2 Abs. 1 Bst. a und b sowie Art. 10)
 
@@ -441,7 +441,7 @@ Anhang 1*[^t-2]*
 
 [^t-2]: Fassung gemäss Ziff. II Abs. 1 der V vom 17. Nov. 2010 ([AS 2010 5419](https://fedlex.data.admin.ch/eli/oc/2010/768)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 28. Nov. 2014 ([AS 2014 4651](https://fedlex.data.admin.ch/eli/oc/2014/778)) und vom 5. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
 
-### 1. Weiterbildungsbereiche und -dauer nach Artikel 25 der Richtlinie 2005/36/EG****
+### 1. Weiterbildungsbereiche und -dauer nach Artikel 25 der Richtlinie 2005/36/EG
 
 [^annex1-lvlu1-lvl1-1]
 
@@ -506,7 +506,7 @@ Anhang 1*[^t-2]*
 <tr><td>Thoraxchirurgie</td><td>6 Jahre</td></tr>
 </table>
 
-Anhang 2*[^t-3]*
+Anhang 2[^t-3]
 
 (Art. 2 Abs. 1 Bst. c und Art. 10)
 
@@ -514,7 +514,7 @@ Anhang 2*[^t-3]*
 
 [^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 28. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4651](https://fedlex.data.admin.ch/eli/oc/2014/778)).
 
-### 1. Weiterbildungsbereiche und -dauer nach Artikel 35 der Richtlinie 2005/36/EG****
+### 1. Weiterbildungsbereiche und -dauer nach Artikel 35 der Richtlinie 2005/36/EG
 
 [^annex2-lvlu1-lvl1-1]
 
@@ -532,7 +532,7 @@ Anhang 2*[^t-3]*
 <tr><td>Rekonstruktive Zahnmedizin</td><td>3 Jahre</td></tr>
 </table>
 
-Anhang 3*[^t-4]*
+Anhang 3[^t-4]
 
 (Art. 2 Abs. 1 Bst. d und Art. 10)
 
@@ -540,7 +540,7 @@ Anhang 3*[^t-4]*
 
 [^t-4]: Fassung gemäss Ziff. II Abs. 2 der V vom 28. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4651](https://fedlex.data.admin.ch/eli/oc/2014/778)).
 
-### Weiterbildungsbereiche und -dauer in Chiropraktik nach den Artikeln 10–15 der Richtlinie 2005/36/EG****
+### Weiterbildungsbereiche und -dauer in Chiropraktik nach den Artikeln 10–15 der Richtlinie 2005/36/EG
 
 [^annex3-lvlu1-lvlu1-1]
 
@@ -550,7 +550,7 @@ Anhang 3*[^t-4]*
 <tr><td>Fachchiropraktik</td><td>2½ Jahre</td></tr>
 </table>
 
-Anhang 3a*[^t-5]*
+Anhang 3a[^t-5]
 
 (Art. 2 Abs. 1 Bst. e und Art. 10)
 
@@ -558,7 +558,7 @@ Anhang 3a*[^t-5]*
 
 [^t-5]: Eingefügt durch Ziff. II Abs. 2 der V vom 17. Nov. 2010 ([AS 2010 5419](https://fedlex.data.admin.ch/eli/oc/2010/768)). Fassung gemäss Ziff. II Abs. 2 der V vom 5. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
 
-### Weiterbildungsbereiche und -dauer in Pharmazie nach den Artikeln 10–15 der Richtlinie 2005/36/EG****
+### Weiterbildungsbereiche und -dauer in Pharmazie nach den Artikeln 10–15 der Richtlinie 2005/36/EG
 
 [^annex3a-lvlu1-lvlu1-1]
 
@@ -569,11 +569,11 @@ Anhang 3a*[^t-5]*
 <tr><td>Spitalpharmazie</td><td>3 Jahre</td></tr>
 </table>
 
-Anhang 4*[^t-6]*
+Anhang 4[^t-6]
 
 [^t-6]: Aufgehoben durch Ziff. II Abs. 3 der V vom 28. Nov. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 4651](https://fedlex.data.admin.ch/eli/oc/2014/778)).
 
-Anhang 5*[^t-7]*
+Anhang 5[^t-7]
 
 (Art. 15)
 
@@ -584,31 +584,30 @@ Anhang 5*[^t-7]*
 Es werden folgende Gebühren festgelegt:
 
 <table>
-<tr><td>1. für das eidgenössische Diplom und den Eintrag in die Datenbank der MEBEKO:</td><td>Franken</td></tr>
+<tr><th></th><th>Franken</th></tr>
+<tr><td>1. für das eidgenössische Diplom und den Eintrag in die Datenbank der MEBEKO:</td><td></td></tr>
 <tr><td>a. Erteilung inklusive Ausweis</td><td>500</td></tr>
 <tr><td>b. Duplikat</td><td>150</td></tr>
 <tr><td>c. Faksimile</td><td>500</td></tr>
 <tr><td>d. Diplombestätigung</td><td>50</td></tr>
 <tr><td>e. separate Ausweiserteilung</td><td>50</td></tr>
-<tr><td>2. für die Anerkennung ausländischer Diplome und den Eintrag in die Datenbank der MEBEKO:</td><td>[tab]</td></tr>
+<tr><td>2. für die Anerkennung ausländischer Diplome und den Eintrag in die Datenbank der MEBEKO:</td><td></td></tr>
 <tr><td>a. Verfahren gemäss Artikel 15 Absatz 1 MedBG inklusive Ausweis</td><td>800–1000</td></tr>
 <tr><td>b. Verfahren gemäss Artikel 15 Absatz 4 MedBG</td><td>800–1000</td></tr>
 <tr><td>c. Duplikat</td><td>150</td></tr>
 <tr><td>d. Faksimile</td><td>500</td></tr>
 <tr><td>e. separate Ausweiserteilung</td><td>50</td></tr>
-<tr><td>2*a*. für die Prüfung von Diplomen und den Eintrag in die Datenbank der MEBEKO gemäss Artikel 33a Absatz 2 MedBG</td><td>800–1200</td></tr>
+<tr><td>2*a*. für die Prüfung von Diplomen und den Eintrag in die Datenbank der MEBEKO gemäss Artikel 33*a* Absatz 2 MedBG</td><td>800–1200</td></tr>
 <tr><td>3. für die Anerkennung ausländischer Weiterbildungstitel und den Eintrag in die Datenbank der MEBEKO:</td><td></td></tr>
 <tr><td>a. Verfahren gemäss Artikel 21 Absatz 1 MedBG</td><td>800–1000</td></tr>
-<tr><td>b. ...</td><td></td></tr>
+<tr><td>b. …</td><td></td></tr>
 <tr><td>c. Duplikat</td><td>150</td></tr>
 <tr><td>d. Faksimile</td><td>500</td></tr>
 <tr><td>3*a*. für die Nachprüfung der Berufsqualifikation der Dienstleistungserbringer gemäss Artikel 35 Absatz 1 MedBG</td><td></td></tr>
 <tr><td>a. Erste Meldung</td><td>800–1000</td></tr>
 <tr><td>b. Erneuerung der Meldung</td><td>150</td></tr>
-<tr><td>[tab] 3*b*.für die Prüfung der vorhandenen Sprachkenntnisse und deren Eintrag ins Medizinalberuferegister gemäss Artikel 11*c*</td><td>50–100</td></tr>
+<tr><td>3*b*. für die Prüfung der vorhandenen Sprachkenntnisse und deren Eintrag ins Medizinalberuferegister gemäss Artikel 11*c*</td><td>50–100</td></tr>
 <tr><td>4. Ausstellen von Richtlinien-Konformitätsbescheinigungen für eidgenössische Diplome und eidgenössische Weiterbildungstitel</td><td>150</td></tr>
-<tr><td>[tab]</td><td></td></tr>
-<tr><td>[tab]</td><td></td></tr>
 <tr><td>5. für das Ausstellen von Gleichwertigkeitsbescheinigungen nach Artikel 36 Absatz 3 MedBG und den Eintrag in die Datenbank der MEBEKO</td><td>680–790</td></tr>
 <tr><td>6. Verfügungen gemäss Artikel 28 in Verbindung mit Artikel 47 Absatz 2 MedBG</td><td>10 000–50 000</td></tr>
 </table>
