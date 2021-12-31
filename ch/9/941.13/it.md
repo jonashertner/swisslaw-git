@@ -4,11 +4,11 @@ title: "Legge federale del 19 marzo 2004 sull'aiuto monetario internazionale (Le
 short: LAMO
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/625"
 language: it
-version: 2017-11-01
+version: 2022-01-01
 adopted: 2004-03-19
 in_force: 2004-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/625/20171101/it/xml/fedlex-data-admin-ch-eli-cc-2004-625-20171101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/625/20171101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/625/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2004-625-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/625/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/625/20171101/it"
 
 (Legge sull’aiuto monetario, LAMO)
 
-del 19 marzo 2004 (Stato 1° novembre 2017)
+del 19 marzo 2004 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -102,12 +102,13 @@ Il Consiglio federale coordina, in stretto accordo con la BNS, la preparazione e
 
 **Finanziamento**
 
-<sup>1</sup> L’Assemblea federale stanzia mediante decreto federale semplice il credito quadro per gli aiuti ai sensi degli articoli 2 e 4. I mutui rimborsati e le garanzie scadute senza perdite possono essere nuovamente computati.
+<sup>1</sup> L’Assemblea federale stanzia mediante decreto federale semplice il credito d’impegno[^8-1] per gli aiuti ai sensi degli articoli 2 e 4. I mutui rimborsati e le garanzie scadute senza perdite possono essere nuovamente computati.
 
-<sup>2</sup> Per le partecipazioni ai sensi dell’articolo 3 dev’essere richiesto un credito d’impegno conformemente all’articolo 21 della legge del 7 ottobre 2005[^8-1] sulle finanze della Confederazione.[^8-2]
+<sup>2</sup> Per le partecipazioni ai sensi dell’articolo 3 dev’essere richiesto un credito d’impegno conformemente all’articolo 21 della legge del 7 ottobre 2005[^8-2] sulle finanze della Confederazione.[^8-3]
 
-[^8-1]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
-[^8-2]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5567](https://fedlex.data.admin.ch/eli/oc/2017/600); [FF 2016 7219](https://fedlex.data.admin.ch/eli/fga/2016/1788)).
+[^8-1]: Nuova espr. giusta l’all. n. 10 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^8-2]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^8-3]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5567](https://fedlex.data.admin.ch/eli/oc/2017/600); [FF 2016 7219](https://fedlex.data.admin.ch/eli/fga/2016/1788)).
 
 #### Art. 9
 

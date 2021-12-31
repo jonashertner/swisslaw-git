@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 19. März 2004 über die internationale Währungshilfe 
 short: WHG
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/625"
 language: de
-version: 2017-11-01
+version: 2022-01-01
 adopted: 2004-03-19
 in_force: 2004-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/625/20171101/de/xml/fedlex-data-admin-ch-eli-cc-2004-625-20171101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/625/20171101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/625/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2004-625-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/625/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/625/20171101/de"
 
 (Währungshilfegesetz, WHG)
 
-vom 19. März 2004 (Stand am 1. November 2017)
+vom 19. März 2004 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -42,7 +42,7 @@ beschliesst:
 
 <sup>1</sup> Der Bund kann an multilateralen Hilfsaktionen zur Verhütung oder Behebung ernsthafter Störungen des internationalen Währungssystems mitwirken.
 
-<sup>2</sup> …[^2-1]
+<sup>2</sup> ...[^2-1]
 
 <sup>3</sup> Die maximale Laufzeit von Darlehen oder Garantieverpflichtungen beträgt in der Regel zehn Jahre.[^2-2]
 
@@ -102,12 +102,13 @@ Der Bundesrat koordiniert in enger Absprache mit der SNB die Vorbereitung und Du
 
 **Finanzierung**
 
-<sup>1</sup> Die Bundesversammlung bewilligt für Hilfeleistungen nach den Artikeln 2 und 4 mit einfachem Bundesbeschluss einen Rahmenkredit. Zurückfliessende Darlehen und verlustfrei erloschene Garantien dürfen wieder angerechnet werden.
+<sup>1</sup> Die Bundesversammlung bewilligt für Hilfeleistungen nach den Artikeln 2 und 4 mit einfachem Bundesbeschluss einen Verpflichtungskredit[^8-1]. Zurückfliessende Darlehen und verlustfrei erloschene Garantien dürfen wieder angerechnet werden.
 
-<sup>2</sup> Für Beteiligungen nach Artikel 3 ist nach Massgabe von Artikel 21 des Finanzhaushaltgesetzes vom 7. Oktober 2005[^8-1] ein Verpflichtungskredit einzuholen.[^8-2]
+<sup>2</sup> Für Beteiligungen nach Artikel 3 ist nach Massgabe von Artikel 21 des Finanzhaushaltgesetzes vom 7. Oktober 2005[^8-2] ein Verpflichtungskredit einzuholen.[^8-3]
 
-[^8-1]: [SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
-[^8-2]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5567](https://fedlex.data.admin.ch/eli/oc/2017/600); [BBl 2016 8049](https://fedlex.data.admin.ch/eli/fga/2016/1788)).
+[^8-1]: Ausdruck gemäss Anhang Ziff. 10 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^8-2]: [SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^8-3]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5567](https://fedlex.data.admin.ch/eli/oc/2017/600); [BBl 2016 8049](https://fedlex.data.admin.ch/eli/fga/2016/1788)).
 
 #### Art. 9
 
@@ -115,7 +116,7 @@ Der Bundesrat koordiniert in enger Absprache mit der SNB die Vorbereitung und Du
 
 Der Bundesbeschluss vom 20. März 1975[^9-1] über die Mitwirkung der Schweiz an internationalen Währungsmassnahmen wird aufgehoben.
 
-[^9-1]: [[AS 1975 1293](https://fedlex.data.admin.ch/eli/oc/1975/1293_1293_1293), [1980 325](https://fedlex.data.admin.ch/eli/oc/1980/325_325_325), [1985 1036](https://fedlex.data.admin.ch/eli/oc/1985/1036_1036_1036), [1995 3658](https://fedlex.data.admin.ch/eli/oc/1995/3658_3658_3658), [1999 2889](https://fedlex.data.admin.ch/eli/oc/1999/455)]
+[^9-1]: [[AS 1975 1293](https://fedlex.data.admin.ch/eli/oc/1975/1293_1293_1293); [1980 325](https://fedlex.data.admin.ch/eli/oc/1980/325_325_325); [1985 1036](https://fedlex.data.admin.ch/eli/oc/1985/1036_1036_1036); [1995 3658](https://fedlex.data.admin.ch/eli/oc/1995/3658_3658_3658); [1999 2889](https://fedlex.data.admin.ch/eli/oc/1999/455)]
 
 #### Art. 10
 
