@@ -4,13 +4,13 @@ number: "725.31"
 title: Reglement über die Hundehaltung
 short: HHR
 language: de
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-11-23
 adopted: 2023-06-13
 in_force: 2024-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/725.31"
-pdf: "https://bdlf.fr.ch/api/de/versions/6299/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7426/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Hundehaltung – R
 
 (HHR)
 
-vom 11.03.2008 (Fassung in Kraft getreten am 01.04.2019)
+vom 11.03.2008 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -217,8 +217,8 @@ beschliesst:
 
 <sup>1</sup> Es werden die folgenden Gebühren erhoben:
 
-- a) Haltungsbewilligung für Rassen oder Rassetypen nach Artikel 8 (Art. 19 Abs. 1 HHG): Fr. 300 bis 500
-- b) Haltungsbewilligung für mehrere Hunde unabhängig von ihrer Rasse (Art. 19 Abs. 2 HHG): Fr. 80 bis 250
+- a) Haltungsbewilligung für Rassen oder Rassetypen nach Artikel 8 (Art. 19 Abs. 1 HHG): — Fr. 300 bis 500
+- b) Haltungsbewilligung für mehrere Hunde unabhängig von ihrer Rasse (Art. 19 Abs. 2 HHG): — Fr. 80 bis 250
 
 ### 2.3 Meldung und Schutzmassnahmen
 
@@ -443,26 +443,11 @@ beschliesst:
 
 #### Art. 51a
 
-**Ordnungsbussen (Art. 44a HHG)**
-
-<sup>1</sup> Widerhandlungen gegen die Artikel 20 Abs. 2, 35 Abs. 2, 36 Abs. 1 und 38 Abs. 1 und 2 des Gesetzes vom 2. November 2006 über die Hundehaltung sowie gegen Artikel 49 Abs. 1 dieses Reglements werden mit einer Ordnungsbusse im Sinne von Artikel 44a HHG bestraft.
+<sup>1</sup> Die Widerhandlungen gegen dieses Reglement, die mit Ordnungsbusse bestraft werden, werden in der kantonalen Ordnungsbussengesetzgebung geregelt.
 
 #### Art. 51b
 
-**Pauschalbetrag der Ordnungsbussen**
-
-<sup>1</sup> Es gelten die folgenden Pauschalbeträge für Ordnungsbussen:
-
-<table>
-<tr><th>Nr.</th><th>Widerhandlungen</th><th>Pauschalbetrag</th></tr>
-<tr><td>FR 101</td><td>Verbringen von verbotenen, gesetzeswidrig gehaltenen Hunden (ohne Leine und/oder Maulkorb) in das Kantonsgebiet für einen längeren als den gesetzlich erlaubten Zeitraum (Art. 19 Abs. 1 / Art. 20 Abs. 2 HHG)</td><td>Fr. 300</td></tr>
-<tr><td>FR 102</td><td>Verbringen von verbotenen, gesetzeswidrig gehaltenen Hunden (ohne Leine und/oder Maulkorb) in das Kantonsgebiet bis zum Ablauf des gesetzlich erlaubten Zeitraums (Art. 19 Abs. 1 / Art. 20 Abs. 2 HHG)</td><td>Fr. 250</td></tr>
-<tr><td>FR 103</td><td>Verbringen von verbotenen, gesetzeskonform gehaltenen Hunden (mit Leine und/oder Maulkorb) in das Kantonsgebiet für einen längeren als den gesetzlich erlaubten Zeitraum (Art. 19 Abs. 1 / Art. 20 Abs. 2 HHG)</td><td>Fr. 200</td></tr>
-<tr><td>FR 104</td><td>Nicht unter der Kontrolle seiner Halterin oder seines Halters stehender Hund (Art. 35 Abs. 2 HHG)</td><td>Fr. 100</td></tr>
-<tr><td>FR 105</td><td>Anwendung verbotener Praktiken (Art. 36 Abs. 1 HHG)</td><td>Fr. 250</td></tr>
-<tr><td>FR 106</td><td>Hund, der landwirtschaftlichen Betrieben, der Natur oder anderen Tieren Schaden zufügt (Art. 38 Abs. 1 HHG)</td><td>Fr. 150</td></tr>
-<tr><td>FR 107</td><td>Verstoss gegen die Vorschriften über den eingeschränkten Zutritt (Art. 38 Abs. 2 HHG / Art. 49 Abs. 1 HHR)</td><td>Fr. 150</td></tr>
-</table>
+**…**
 
 ## 4 Gebühren (Art. 45 ff HHG)
 

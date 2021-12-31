@@ -4,13 +4,13 @@ number: "725.31"
 title: Règlement sur la détention des chiens
 short: RDCh
 language: fr
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-11-23
 adopted: 2023-06-13
 in_force: 2024-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/725.31"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6299/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7426/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Détention des chiens – R
 
 (RDCh)
 
-du 11.03.2008 (version entrée en vigueur le 01.04.2019)
+du 11.03.2008 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -217,8 +217,8 @@ Arrête:
 
 <sup>1</sup> Les émoluments suivants sont perçus:
 
-- a) autorisation de détention de chiens des races ou des types de races énumérés à l'article 8 (art. 19 al. 1 LDCh): Fr. 300 à 500
-- b) autorisation de détention de plusieurs chiens, indépendamment de leur race (art. 19 al. 2 LDCh): Fr. 80 à 250
+- a) autorisation de détention de chiens des races ou des types de races énumérés à l'article 8 (art. 19 al. 1 LDCh): — Fr. 300 à 500
+- b) autorisation de détention de plusieurs chiens, indépendamment de leur race (art. 19 al. 2 LDCh): — Fr. 80 à 250
 
 ### 2.3 Signalement et mesures de protection
 
@@ -443,26 +443,11 @@ Arrête:
 
 #### Art. 51a
 
-**Amendes d'ordre (art. 44a LDCh)**
-
-<sup>1</sup> Les infractions aux articles 20 al. 2, 35 al. 2, 36 al. 1 et 38 al. 1 et 2 de la loi du 2 novembre 2006 sur la détention des chiens ainsi qu'à l'article 49 al. 1 du présent règlement sont passibles d'une amende d'ordre au sens de l'article 44a LDCh.
+<sup>1</sup> Les infractions au présent règlement passibles d'une amende d'ordre sont définies dans la législation cantonale sur les amendes d'ordre.
 
 #### Art. 51b
 
-**Montant forfaitaire des amendes d'ordre**
-
-<sup>1</sup> Le montant forfaitaire des amendes d'ordre est le suivant:
-
-<table>
-<tr><th>N<sup>o</sup></th><th>Infractions</th><th>Montant forfaitaire</th></tr>
-<tr><td>FR 101</td><td>Introduction d'un chien interdit dans le canton pour une durée supérieure à la limite légale et détenu de manière non conforme à la législation (sans port de la laisse et/ou sans port de la muselière) (art. 19 al. 1 / 20 al. 2 LDCh)</td><td>Fr. 300</td></tr>
-<tr><td>FR 102</td><td>Introduction d'un chien interdit dans le canton pour une durée respectant la limite légale mais détenu de manière non conforme à la législation (sans port de la laisse et/ou sans port de la muselière) (art. 19 al. 1 / 20 al. 2 LDCh)</td><td>Fr. 250</td></tr>
-<tr><td>FR 103</td><td>Introduction d'un chien interdit dans le canton pour une durée supérieure à la limite légale mais détenu de manière conforme à la législation (avec port de la laisse et de la muselière) (art. 19 al. 1 / 20 al. 2 LDCh)</td><td>Fr. 200</td></tr>
-<tr><td>FR 104</td><td>Animal hors du contrôle de son détenteur ou de sa détentrice (art. 35 al. 2 LDCh)</td><td>Fr. 100</td></tr>
-<tr><td>FR 105</td><td>Exercice de pratiques interdites (art. 36 al. 1 LDCh)</td><td>Fr. 250</td></tr>
-<tr><td>FR 106</td><td>Chien portant préjudice aux exploitations agricoles, à la nature et aux autres animaux (art. 38 al. 1 LDCh)</td><td>Fr. 150</td></tr>
-<tr><td>FR 107</td><td>Infraction aux prescriptions sur les accès autorisés sous conditions (art. 38 al. 2 LDCh / art. 49 al. 1 RDCh)</td><td>Fr. 150</td></tr>
-</table>
+**…**
 
 ## 4 Redevances (art. 45ss LDCh)
 
