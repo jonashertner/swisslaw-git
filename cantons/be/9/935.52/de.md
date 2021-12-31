@@ -4,13 +4,13 @@ number: "935.52"
 title: Kantonales Geldspielgesetz
 short: KGSG
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-06-10
+version: 2022-01-01
+valid_until: 2026-08-31
+version_adopted: 2021-03-09
 adopted: 2020-06-10
 in_force: 2021-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/935.52"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2054/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2483/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2054/pdf_file"
 
 (KGSG)
 
-vom 10.06.2020 (Stand 01.01.2021)
+vom 10.06.2020 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -227,11 +227,11 @@ beschliesst:
 
 **Verwendung der Abgabe auf Spielbanken**
 
-<sup>1</sup> Je 5 bis 20 Prozent der Spielbankenabgabe werden der Standortgemeinde und dem Fonds für Suchtprobleme gemäss Artikel 70 des Gesetzes vom 11. Juni 2001 über die öffentliche Sozialhilfe (Sozialhilfegesetz, SHG)[^22-1] zugewiesen.
+<sup>1</sup> Je 5 bis 20 Prozent der Spielbankenabgabe werden der Standortgemeinde und dem Fonds für Suchtprobleme gemäss Artikel 34 des Gesetzes vom 9. März 2021 über die sozialen Leistungsangebote (SLG)[^22-1] zugewiesen.
 
 <sup>2</sup> Darüber hinaus besteht keine Zweckbindung bei der Mittelverwendung.
 
-[^22-1]: BSG [860.1](https://www.belex.sites.be.ch/data/860.1/de)
+[^22-1]: BSG [860.2](https://www.belex.sites.be.ch/data/860.2/de)
 
 #### Art. 23
 

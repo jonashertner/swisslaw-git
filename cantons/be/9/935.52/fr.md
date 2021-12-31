@@ -4,13 +4,13 @@ number: "935.52"
 title: "Loi cantonale sur les jeux d'argent"
 short: LCJAr
 language: fr
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-06-10
+version: 2022-01-01
+valid_until: 2026-08-31
+version_adopted: 2021-03-09
 adopted: 2020-06-10
 in_force: 2021-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/935.52"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2054/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2483/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2054/pdf_file"
 
 (LCJAr)
 
-du 10.06.2020 (état au 01.01.2021)
+du 10.06.2020 (état au 01.01.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -227,11 +227,11 @@ arrête:
 
 **Affectation de l'impôt sur les maisons de jeu**
 
-<sup>1</sup> Une part de l'impôt sur les maisons de jeu comprise entre 5 et 20 pour cent est versée respectivement à la commune d'implantation et au Fonds de lutte contre la toxicomanie au sens de l'article 70 de la loi du 11 juin 2001 sur l'aide sociale (LASoc)[^22-1].
+<sup>1</sup> Une part de l'impôt sur les maisons de jeu comprise entre 5 et 20 pour cent est versée respectivement à la commune d'implantation et au Fonds de lutte contre la toxicomanie au sens de l'article 34 de la loi du 9 mars 2021 sur les programmes d'action sociale (LPASoc)[^22-1].
 
 <sup>2</sup> Pour le reste, l'impôt sur les maisons de jeu n'est soumis à aucune obligation d'affectation.
 
-[^22-1]: RSB [860.1](https://www.belex.sites.be.ch/data/860.1/fr)
+[^22-1]: RSB [860.2](https://www.belex.sites.be.ch/data/860.2/fr)
 
 #### Art. 23
 
