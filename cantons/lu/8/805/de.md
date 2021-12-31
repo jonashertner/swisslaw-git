@@ -4,13 +4,13 @@ number: "805"
 title: Medizinalberufeverordnung
 short: MbV
 language: de
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2021-06-15
+version: 2022-01-01
+valid_until: 2025-04-30
+version_adopted: 2021-11-30
 adopted: 2009-04-28
 in_force: 2009-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/805"
-pdf: "https://srl.lu.ch/api/de/versions/3753/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3873/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3753/pdf_file"
 
 (MbV)
 
-vom 28.04.2009 (Stand 01.07.2021)
+vom 28.04.2009 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -46,7 +46,11 @@ beschliesst:
 
 <sup>2</sup> Die Einzelheiten der Betriebsbewilligung für öffentliche Apotheken, den Versandhandel mit Arzneimitteln, Privatapotheken, Spitalapotheken und Apotheken in Heimen, für Drogerien sowie für Betriebe, die Blut und Blutprodukte nur lagern, sind in der Heilmittelverordnung vom 28. April 2009[^1-1] geregelt.
 
+<sup>3</sup> Die Zulassung von Berufsleuten und Betrieben nach dieser Verordnung zur Leistungserbringung zulasten der obligatorischen Krankenpflegeversicherung nach dem Bundesgesetz über die Krankenversicherung (KVG) vom 18. März 1994[^1-2] richtet sich nach der Kantonalen Zulassungsverordnung vom 30. November 2021[^1-3].
+
 [^1-1]: SRL Nr. [830](https://srl.lu.ch/data/830/de) (G 2009 113)
+[^1-2]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
+[^1-3]: SRL Nr. [865c](https://srl.lu.ch/data/865c/de)
 
 #### § 2
 
@@ -67,10 +71,13 @@ beschliesst:
 
 <sup>3</sup> Für die Befreiung von Ärztinnen und Ärzten, Apothekerinnen und Apothekern, Zahnärztinnen und -ärzten sowie von Chiropraktorinnen und Chiropraktoren vom Berufsgeheimnis im Sinn von Artikel 321 Ziffer 2 des Schweizerischen Strafgesetzbuches[^3-4] ist die Dienststelle Gesundheit und Sport zuständig.
 
+<sup>4</sup> Die Dienststelle Gesundheit und Sport ist kantonale Bewilligungsbehörde im Sinn des Fortpflanzungsmedizingesetzes vom 18. Dezember 1998[^3-5].
+
 [^3-1]: Gemäss Änderung der SRL Nr. [37](https://srl.lu.ch/data/37/de) vom 28. Oktober 2014, in Kraft seit dem 1. Januar 2015 (G 2014 369), wurde in den §§ 3, 4 und 13 die Bezeichnung «Dienststelle Gesundheit» durch «Dienststelle Gesundheit und Sport» ersetzt.
 [^3-2]: Gemäss Änderung vom 22. Oktober 2013, in Kraft seit dem 1. Januar 2014 (G 2013 563), wurde in den §§ 3 und 4 die Bezeichnung «Dienststelle Lebensmittelkontrolle und Veterinärwesen» durch «Veterinärdienst» ersetzt.
 [^3-3]: SRL Nr. [800](https://srl.lu.ch/data/800/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
 [^3-4]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+[^3-5]: SR [810.11](https://db.clex.ch/link/Bund/810.11/de)
 
 #### § 4
 
@@ -260,7 +267,7 @@ beschliesst:
 <sup>3</sup> Die Bewilligung ist befristet:
 
 - a. bei Ärztinnen und Ärzten, Apothekerinnen und Apothekern sowie Chiropraktorinnen und Chiropraktoren längstens bis zum Erwerb des Weiterbildungstitels,
-- b. bei Zahnärztinnen und Zahnärzten für die nach Artikel 42 der eidgenössischen Verordnung über die Krankenversicherung (KVV) vom 27. Juni 1995[^17-1] erforderliche zweijährige praktische Weiterbildung nach Erwerb des Diploms oder für die praktische Weiterbildung im Hinblick auf den Erwerb eines eidgenössischen Weiterbildungstitels als Fachzahnarzt oder Fachzahnärztin,
+- b. bei Zahnärztinnen und Zahnärzten für die nach Artikel 42 Unterabsatz b der eidgenössischen Verordnung über die Krankenversicherung (KVV) vom 27. Juni 1995[^17-1] erforderliche dreijährige praktische Weiterbildung nach Erwerb des Diploms oder für die praktische Weiterbildung im Hinblick auf den Erwerb eines eidgenössischen Weiterbildungstitels als Fachzahnarzt oder Fachzahnärztin,
 - c. bei Tierärztinnen und Tierärzten für eine praktische Weiterbildung nach Erwerb des Diploms von maximal zwei Jahren.
 
 <sup>4</sup> Die Bewilligung ist für jeden Assistenten und für jede Assistentin einzeln zu beantragen. Bei einem Vollzeitpensum des Bewilligungsinhabers oder der -inhaberin werden Assistentinnen und Assistenten im Umfang von gesamthaft höchstens 200 Stellenprozenten bewilligt. Die zuständige Dienststelle gemäss § 3 Absatz 1 kann in begründeten Fällen Ausnahmen bewilligen.
@@ -289,7 +296,7 @@ beschliesst:
 
 <sup>1</sup> Eine Betriebsbewilligung der Dienststelle Gesundheit und Sport benötigen ambulante ärztliche, zahnärztliche und chiropraktische Praxen,
 
-- a. in denen mehrere fachlich eigenverantwortlich tätige universitäre Medizinalpersonen eine wirtschaftliche Abrechnungseinheit bilden (Gruppen- und Gemeinschaftspraxen) oder
+- a. in denen mehrere fachlich eigenverantwortlich tätige universitäre Medizinalpersonen eine wirtschaftliche Abrechnungseinheit bilden (Gruppen- und Gemeinschaftspraxen), insbesondere solche, die nach dem Bundesgesetz über die Krankenversicherung (KVG) vom 18. März 1994[^17b-1] für eine Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung eine Zulassung als Organisation benötigen, oder
 - b. die wirtschaftlich nicht der Medizinalperson oder den Medizinalpersonen persönlich gehören, die für die Praxis fachlich eigenverantwortlich tätig sind.
 
 <sup>2</sup> Nicht bewilligungspflichtig sind
@@ -298,6 +305,8 @@ beschliesst:
 - b. ambulante ärztliche, zahnärztliche und chiropraktische Angebote von Spitälern auf deren Betriebsgelände.
 
 <sup>3</sup> Die in einer bewilligungspflichtigen Einrichtung fachlich eigenverantwortlich tätigen universitären Medizinalpersonen benötigen eine entsprechende Berufsausübungsbewilligung.
+
+[^17b-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
 
 #### § 17c
 
