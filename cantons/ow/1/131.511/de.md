@@ -4,20 +4,21 @@ number: "131.511"
 title: Ausführungsbestimmungen zum Geoinformationsgesetz
 short: AB kGeoIG
 language: de
-version: 2013-01-01
-valid_until: 2021-12-31
-version_adopted: 2012-12-18
+version: 2022-01-01
+version_adopted: 2021-11-30
 adopted: 2012-12-18
 in_force: 2013-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/131.511"
-pdf: "http://gdb.ow.ch/api/de/versions/771/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1773/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen zum Geoinformationsgesetz
 
-vom 18.12.2012 (Stand 01.01.2013)
+(AB kGeoIG)
+
+vom 18.12.2012 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -102,7 +103,7 @@ beschliesst:
 
 **Eigentümerabfrage**
 
-<sup>1</sup> Registrierte Nutzer des Geoinformationssystems können den Namen und den Vornamen der Grundeigentümerschaft und deren Eigentumsform einer Parzelle abfragen. Serienabfragen sind nicht gestattet.
+<sup>1</sup> Nutzerinnen und Nutzer des Geoinformationssystems können den Namen und den Vornamen sowie die Adresse der Grundeigentümerschaft und deren Eigentumsform eines Grundstücks abfragen. Serienabfragen sind nicht gestattet.
 
 <sup>2</sup> Auf die Daten des Grundbuchs darf nur im Rahmen der Bundesgesetzgebung zugegriffen werden.
 
@@ -251,5 +252,15 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Ausführungsbestimmungen treten am 1. Januar 2013 in Kraft.
+
+**Informationen zum Erlass**
+
+Ursprüngliche Fundstelle: OGS 2012, 81
+
+Ursprüngliches Inkrafttreten: 1. Januar 2013
+
+Geändert durch:
+
+\- Nachtrag vom 30. November 2021, in Kraft seit 1. Januar 2022 (OGS 2021, 46)
 
 OGS 2012, 81
