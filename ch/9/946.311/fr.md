@@ -4,11 +4,11 @@ title: "Ordonnance du DEFR du 9 avril 2008 sur l'attestation de l'origine non pr
 short: OOr-DEFR
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/272"
 language: fr
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2008-04-09
 in_force: 2008-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/272/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-272-20130101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/272/20130101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/272/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-272-20220101-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/272/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,15 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/272/20130101/fr"
 
 (OOr-DEFR)
 
-du 9 avril 2008 (Etat le 1<sup>er</sup> janvier 2013)
+du 9 avril 2008 (État le 1<sup>er</sup> janvier 2022)
 
-Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)*[^ingress-1]*,
+Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^ingress-1],
 
 vu les art. 6, al. 1, 11, al. 2 et 3, 19, al. 3, 20, al. 1, 24, al. 2, et 25, al. 1, de l’ordonnance du 9 avril 2008 sur l’attestation de l’origine non préférentielle des marchandises (OOr)[^ingress-2],
 
 arrête:
 
-[^ingress-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette mod. dans tout le texte.
+[^ingress-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 [^ingress-2]: [RS 946.31](https://fedlex.data.admin.ch/eli/cc/2008/271)
 
 ## Section 1 Dispositions générales
@@ -221,10 +221,10 @@ Annexe 2
 
 Tableau 1
 
-Liste des ouvraisons ou des transformations à effectuer sur les matières non originaires de Suisse pour que les produits qui en sont issus obtiennent l’origine suisse
+**Liste des ouvraisons ou des transformations à effectuer sur les matières non originaires de Suisse pour que les produits qui en sont issus obtiennent l’origine suisse**
 
 <table>
-<tr><th colspan="2">Produit fini</th><th></th><th colspan="3">Matières d’origine étrangère utilisées</th></tr>
+<tr><th colspan="2">**Produit fini**</th><th></th><th colspan="3">**Matières d’origine étrangère utilisées**</th></tr>
 <tr><th>N<sup>o</sup> du tarif[^t-1]</th><th colspan="2">Désignation de la marchandise</th><th colspan="3">Ouvraison ou transformation, effectuée sur des matières non originaires, conférant le caractère originaire</th></tr>
 <tr><td>Chap. 28–39</td><td colspan="2">Produits des industries chimiques et des industries connexes</td><td colspan="3">Transformations chimiques; autres ouvraisons ou transformations permettant d’obtenir un produit qualitativement nouveau (v. remarques, let. a)</td></tr>
 <tr><td>3105</td><td colspan="2">Engrais minéraux ou chimiques contenant deux ou trois des éléments fertilisants: azote, phosphore et potassium; autres engrais; produits du présent chapitre présentés soit en tablettes ou formes similaires, soit en emballages d’un poids brut n’excédant pas 10 kg</td><td colspan="3">Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit fini</td></tr>
@@ -242,7 +242,7 @@ Liste des ouvraisons ou des transformations à effectuer sur les matières non o
 <tr><td>ex 5602 ex 5603</td><td colspan="3">Feutres et non-tissés, imprégnés, enduits ou recouverts</td><td colspan="2">Imprégnation, enduction ou recouvrement de feutres et non-tissés</td></tr>
 <tr><td>ex 7106 ex 7108 ex 7110</td><td colspan="3">Métaux précieux sous formes mi-ouvrées ou en poudre</td><td colspan="2">Fabrication à partir de métaux précieux, sous formes brutes</td></tr>
 <tr><td>7209 ex 7211 ex 7219 ex 7220 ex 7225 ex 7226</td><td colspan="3">Produits laminés plats en fer ou en aciers non alliés ou en aciers inoxydables ou en autres aciers alliés, obtenus ou parachevés à froid</td><td colspan="2">Modification et/ou réduction de la dimension de section obtenues à froid, notamment étirage à froid, laminage à froid, refendage</td></tr>
-<tr><td>ex 7213 ex 7221 ex 7227</td><td colspan="3">Fil machine en fer ou en aciers non alliés ou en aciers inoxydables ou en autres aciers alliés, obtenu ou parachevé à froid</td><td colspan="2">Modification et/ou réduction de la dimension de section obtenues à froid, notamment étirage à froid, laminage à froid</td></tr>
+<tr><td>ex 7213 ex 7221 ex 7227</td><td colspan="4">Fil machine en fer ou en aciers non alliés ou en aciers inoxydables ou en autres aciers alliés, obtenu ou parachevé à froid</td><td>Modification et/ou réduction de la dimension de section obtenues à froid, notamment étirage à froid, laminage à froid</td></tr>
 <tr><td>ex 7215 ex 7222 ex 7228</td><td colspan="4">Barres en fer ou en aciers, alliés ou non, obtenues ou parachevées à froid</td><td>Modification et/ou réduction de la dimension de section obtenues à froid, notamment étirage à froid, laminage à froid</td></tr>
 <tr><td>ex 7216 ex 7222 ex 7228</td><td colspan="4">Profilés en fer ou en aciers non alliés ou en aciers inoxydables ou en autres aciers alliés, obtenus ou parachevés à froid</td><td>Modification et/ou réduction de la dimension de section obtenues à froid, notamment étirage à froid, laminage à froid, dressage au laminoir à galets (rollforming, doucissage des arêtes)</td></tr>
 <tr><td>ex 7217 ex 7223 ex 7229</td><td colspan="4">Fils en fer ou en aciers non alliés ou en aciers inoxydables ou en autres aciers alliés, obtenus ou parachevés à froid</td><td>Modification et/ou réduction de la dimension de section obtenues à froid, notamment laminage à froid, dressage au laminoir à galets</td></tr>
@@ -254,21 +254,12 @@ Liste des ouvraisons ou des transformations à effectuer sur les matières non o
 <tr><td>8445</td><td colspan="4">Machines pour la préparation des matières textiles; machines pour la filature, le doublage ou le retordage des matières textiles et autres machines et appareils pour la fabrication des fils textiles; machines à bobiner (y compris les canetières) ou à dévider les matières textiles et machines pour la préparation des fils textiles en vue de leur utilisation sur les machines des nos 8446 ou 8447</td><td>Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 60 % du prix départ usine du produit fini</td></tr>
 <tr><td>8446</td><td colspan="4">Métiers tisser</td><td>Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 60 % du prix départ usine du produit fini</td></tr>
 <tr><td>8447</td><td colspan="4">Machines et métiers à bonneterie, de couture-tricotage, à guipure, à tulle, à dentelle, à broderie, à passementerie, à tresses, à filet ou à touffeter</td><td>Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 60 % du prix départ usine du produit fini</td></tr>
-<tr><td>8448</td><td colspan="4">Machines et appareils auxiliaires pour les machines des nos 8444, 8445, 8446 ou 8447 (ratières, mécaniques Jacquard, casse-chaînes et casse-trames, mécanismes de changement de navettes, p. ex.); parties et accessoires reconnaissables comme étant exclusivement ou principalement destinés aux machines de la présente position ou des</td><td>Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 60 % du prix départ usine du produit fini</td></tr>
-<tr><td></td><td colspan="4">n<sup>os</sup> 8444, 8445, 8446 ou 8447 (broches, ailettes, garnitures de cardes, peignes, barrettes, filières, navettes, lisses et cadres de lisses, aiguilles, platines, crochets, p. ex.)</td><td></td></tr>
+<tr><td>8448</td><td colspan="4">Machines et appareils auxiliaires pour les machines des nos 8444, 8445, 8446 ou 8447 (ratières, mécaniques Jacquard, casse-chaînes et casse-trames, mécanismes de changement de navettes, p. ex.); parties et accessoires reconnaissables comme étant exclusivement ou principalement destinés aux machines de la présente position ou des n<sup>os</sup> 8444, 8445, 8446 ou 8447 (broches, ailettes, garnitures de cardes, peignes, barrettes, filières, navettes, lisses et cadres de lisses, aiguilles, platines, crochets, p. ex.)</td><td>Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 60 % du prix départ usine du produit fini</td></tr>
 <tr><td>ex 8482</td><td colspan="4">Roulements à billes, à galets, à rouleaux ou à aiguilles, montés</td><td>Traitement thermique (trempage) et meulage intérieur et extérieur des bagues, ainsi que montage des roulements</td></tr>
 <tr><td>ex 8545</td><td colspan="4">Electrodes en graphite pour fours électriques, appareils de soudage ou installations d’électrolyse</td><td>Transformation du charbon amorphe en graphite par procédé électrothermique</td></tr>
 </table>
 
-**Remarques**
-
-Annexe 2
-
-(art. 2, al. 2)
-
-Tableau 2
-
-Liste des ouvraisons ou des transformations de marchandises données du chap. 91 à effectuer sur les matières non originaires de Suisse pour que les produits qui en sont issus obtiennent l’origine suisse
+Remarques
 
 - a)
 
@@ -285,21 +276,26 @@ Liste des ouvraisons ou des transformations de marchandises données du chap. 91
   - – le produit obtenu possède des caractéristiques ou propriétés nouvelles, ou permet de nouvelles applications eu égard à sa structure spécifique;
   - – un processus spécial de mise en œuvre peut aussi servir de norme pour la modification qualitative (genre, ampleur et complexité des processus de fabrication, charge de travail requise, prestation intellectuelle en propre et habileté, ainsi qu’installations techniques indispensables à la fabrication).
 
-- Dans les cas particuliers dont l’application des critères ci-dessus cause des difficultés, la décision incombe à l’administration des douanes.
+- Dans les cas particuliers dont l’application des critères ci-dessus cause des difficultés, la décision incombe à l’Office fédéral de la douane et de la sécurité des frontières[^t-2].
 - b) Ne confèrent pas le caractère de produit originaire les ouvraisons de surface comme le blanchissage chimique, le lavage, la pré-teinture, etc.
 
+Tableau 2
+
+**Liste des ouvraisons ou des transformations de marchandises données du chap. 91 à effectuer sur les matières non originaires de Suisse pour que les produits qui en sont issus obtiennent l’origine suisse**
+
 <table>
-<tr><th colspan="2">Produit fini</th><th></th><th>Matières d’origine étrangère utilisées</th></tr>
-<tr><th>N<sup>o</sup> du tarif[^t-2]</th><th colspan="2">Désignation de la marchandise</th><th>Ouvraison ou transformation, effectuée sur des matières non originaires, conférant le caractère originaire</th></tr>
+<tr><th colspan="2">**Produit fini**</th><th></th><th>**Matières d’origine étrangère utilisées**</th></tr>
+<tr><th>N<sup>o</sup> du tarif[^t-3]</th><th colspan="2">Désignation de la marchandise</th><th>Ouvraison ou transformation, effectuée sur des matières non originaires, conférant le caractère originaire</th></tr>
 <tr><th>ex chap. 91</th><th colspan="2">Horlogerie, à l’exception des produits des n<sup>os</sup> 9101, 9102, 9106, 9107 et 9108</th><th>Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit fini</th></tr>
 <tr><th>9101</th><th colspan="2">Montres-bracelets, montres de poche et montres similaires (y compris les compteurs de temps des mêmes types), avec boîte en métaux précieux ou en plaqués ou doublés de métaux précieux</th><th>Fabrication à partir de mouvements du n<sup>o</sup> 9108 assemblés en Suisse dans lesquels la valeur de toutes les matières utilisées ne doit pas excéder 50 % de la valeur des pièces du mouvement</th></tr>
 <tr><th>9102</th><th colspan="2">Montres-bracelets, montres de poche et montres similaires (y compris les compteurs de temps des mêmes types), autres que celles du n<sup>o</sup> 9101</th><th>Fabrication à partir de mouvements du n<sup>o</sup> 9108 assemblés en Suisse dans lesquels la valeur de toutes les matières utilisées ne doit pas excéder 50 % de la valeur des pièces du mouvement</th></tr>
-<tr><th>9108</th><th colspan="2">Mouvements de montres, complets et assemblés</th><th>Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % de la valeur des pièces du mouvement[^t-3]</th></tr>
+<tr><th>9108</th><th colspan="2">Mouvements de montres, complets et assemblés</th><th>Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % de la valeur des pièces du mouvement[^t-4]</th></tr>
 </table>
 
 [^t-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe
-[^t-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe
-[^t-3]: [RO 2008 2959](https://fedlex.data.admin.ch/eli/oc/2008/412)
+[^t-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^t-3]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe
+[^t-4]: [RO 2008 2959](https://fedlex.data.admin.ch/eli/oc/2008/412)
 
 Annexe 3
 
@@ -310,10 +306,10 @@ Annexe 3
 <tr><td></td><td colspan="6">**DEMANDE D’ATTESTATION**</td></tr>
 <tr><td>**Destinataire**</td><td colspan="6">Pour les marchandises mentionnées ci-dessous, une preuve documentaire de l’origine au sens de l’ordonnance sur l’attestation de l’origine non préférentielle des marchandises (OOr) est demandée auprès de</td></tr>
 <tr><td></td><td colspan="6">**Pays d’origine:**</td></tr>
-<tr><td>**Indications concernant le transport (mention facultative)**</td><td colspan="6">**Observations**</td></tr>
-<tr><td colspan="2">**Marques, numéros, nombre et nature des colis; désign****a****tion de la marchandise**</td><td>N<sup>o</sup> du tarif d’usage des douanes suisses</td><td colspan="2">**\***</td><td>Poids net (kg, l, m<sup>3</sup>, etc.)</td><td>Valeur en fr. s.</td></tr>
+<tr><td>**Indications concernant le transport** **(mention facultative)**</td><td colspan="6">**Observations**</td></tr>
+<tr><td colspan="2">**Marques, numéros, nombre et nature des colis; désignation de la marchandise**</td><td>N<sup>o</sup> du tarif d’usage des douanes suisses</td><td colspan="2">**\***</td><td>Poids net (kg, l, m<sup>3</sup>, etc.)</td><td>Valeur en fr. s.</td></tr>
 <tr><td colspan="2"></td><td></td><td colspan="2"></td><td>Poids brut</td><td>Montant total facture fr. s.</td></tr>
-<tr><td colspan="2">**\* Critères** **d’origine** (inscrire la lettre qui convient) (bases légales: voir au verso) **1. Marchandises produites par le requérant** **A** Marchandises entièrement obtenues (art. 10 OOr) **B** Critère des 50 % de la valeur ajoutée (art. 11, al. 1, let. a OOr) **C** Saut tarifaire (changement de position tarifaire) dans le SH (art. 11, al. 1, let. b OOr) **D** Règles de liste (art. 11, al. 1, let. c et 2 OOr; art. 2 et annexe 2 OOr-DEFR) **E** Autres faits dûment pouvés en matière d’origine (art. 4 OOr) (indications sous «Observations») **F** Trafic de perfectionnement (art. 16 OOr) **2. Marchandises non produites par le requérant** **G** Marchandises commerciales (art. 5 et 17 OOr) (indications supplé- mentaires du requérant sous chiffre 2 au verso) **3. Accessoires, pièces de rechange et outils concernant les mar****- chandises des ch. 84 à 92 du tarif d’usage des douanes suisses** **H** Livraison conjointe avec des marchandises des ch. 84 à 92 (art. 4, al. 1 OOr-DEFR) **I** Livraison complémentaire concernant des marchandises déjà livrées des ch. 84 à 92 (art. 4, al. 2 OOr-DEFR) (indications supplémentaires et déclaration du requérant sous chiffre 3 au verso)</td><td colspan="5">Le requérant atteste avoir pris pleinement connaissance des déclarations mentionnées au verso. Il déclare également avoir complété ces indications le cas échéant. Lieu et date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Réf.: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_</td></tr>
+<tr><td colspan="2">**\* Critères** **d’origine** (inscrire la lettre qui convient) (bases légales: voir au verso) **1.** **Marchandises produites par le requérant** **A** Marchandises entièrement obtenues (art. 10 OOr) **B** Critère des 50 % de la valeur ajoutée (art. 11, al. 1, let. a OOr) **C** Saut tarifaire (changement de position tarifaire) dans le SH (art. 11, al. 1, let. b OOr) **D** Règles de liste (art. 11, al. 1, let. c et 2 OOr; art. 2 et annexe 2 OOr-DEFR) **E** Autres faits dûment pouvés en matière d’origine (art. 4 OOr) (indications sous «Observations») **F** Trafic de perfectionnement (art. 16 OOr) **2.** **Marchandises non produites par le requérant** **G** Marchandises commerciales (art. 5 et 17 OOr) (indications supplé- mentaires du requérant sous chiffre 2 au verso) **3.** **Accessoires, pièces de rechange et outils concernant les mar****-** **chandises des ch. 84 à 92 du tarif d’usage des douanes suisses** **H** Livraison conjointe avec des marchandises des ch. 84 à 92 (art. 4, al. 1 OOr-DEFR) **I** Livraison complémentaire concernant des marchandises déjà livrées des ch. 84 à 92 (art. 4, al. 2 OOr-DEFR) (indications supplémentaires et déclaration du requérant sous chiffre 3 au verso)</td><td colspan="5">Le requérant atteste avoir pris pleinement connaissance des déclarations mentionnées au verso. Il déclare également avoir complété ces indications le cas échéant. Lieu et date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Réf.: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_</td></tr>
 <tr><td colspan="2"></td><td colspan="5">Sceau et signature du requérant:</td></tr>
 </table>
 
@@ -323,7 +319,7 @@ Annexe 3
 
 **Déclaration du requérant**
 
-- **1.** Marchandises produites par le requérant: Le requérant atteste par la présente déclaration que les marchandises ont été entièrement obtenues par lui-même ou qu’elles ont fait l’objet d’une ouvraison ou d’une transformation suffisantes. Les prescriptions de l’ordonnance du 9 avril 2008 sur l’attestation de l’origine non préférentielle des marchandises (OOr) et celles de l’ordonnance du DEFR du 9 avril 2008 sur l’attestation de l’origine non préférentielle des marchandises (OOr-DEFR) sont respectées conformément aux critères fixés dans la colonne «critères d’origine» (\*).
+- **1.** **Marchandises produites par le requérant:** Le requérant atteste par la présente déclaration que les marchandises ont été entièrement obtenues par lui-même ou qu’elles ont fait l’objet d’une ouvraison ou d’une transformation suffisantes. Les prescriptions de l’ordonnance du 9 avril 2008 sur l’attestation de l’origine non préférentielle des marchandises (OOr) et celles de l’ordonnance du DEFR du 9 avril 2008 sur l’attestation de l’origine non préférentielle des marchandises (OOr-DEFR) sont respectées conformément aux critères fixés dans la colonne «critères d’origine» (\*).
 - **2.** **Marchandises non produites par le requérant:** Le requérant atteste par la présente déclaration que les marchandises sont les mêmes que celles énumérées dans les factures, certificats d’origine ou déclarations d’origine ci-après:
 
 <table>
@@ -340,7 +336,7 @@ Annexe 3
 
 - [tab] Lorsque la demande d’attestation ne porte que sur une partie de la quantité de la marchandise mentionnée dans une preuve d’origine, le requérant est tenu de le préciser dans cette dernière.
 - **3.** **Déclarations et indications particulières pour des marchandises déjà livrées des chapitres 84 à 92** **(art. 4, al. 2, OOr-DEFR):** «Les marchandises susmentionnées sont des pièces de rechange essentielles, destinées à la remise en l’état de \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (description aussi détaillée que possible des instruments livrés antérieurement) selon la facture n<sup>o</sup> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ et le certificat d’origine n<sup>o</sup> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ établi par \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ le \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_».
-- **4.** Le requérant soussigné atteste sous sa propre responsabilité, en connaissance des prescriptions fédérales et notamment des dispositions pénales, la véracité des indications susmentionnées. Il **s’engage**, à la demande de l’Administration fédérale des douanes ou de la chambre de commerce concernée, à fournir tous les documents supplémentaires qui lui sont demandés en rapport avec la preuve documentaire de l’origine, ainsi que, le cas échéant, à permettre l’examen des documents commerciaux et des documents de fabrication concernant la marchandise certifiée
+- **4.** Le requérant soussigné atteste sous sa propre responsabilité, en connaissance des prescriptions fédérales et notamment des dispositions pénales, la véracité des indications susmentionnées. Il **s’engage**, à la demande de l’Office fédéral de la douane et de la sécurité des frontières ou de la chambre de commerce concernée, à fournir tous les documents supplémentaires qui lui sont demandés en rapport avec la preuve documentaire de l’origine, ainsi que, le cas échéant, à permettre l’examen des documents commerciaux et des documents de fabrication concernant la marchandise certifiée
 - Il déclare en outre ne pas avoir déjà sollicité un même document pour ces marchandises et il s’engage à rendre les documents certifiés, au cas où ceux-ci ne seraient pas nécessaires pour une quelconque raison.
 
 Annexe 4
@@ -349,12 +345,12 @@ Annexe 4
 
 <table>
 <tr><td>**Exporteur** Exportateur Esportatore Exporter</td><td colspan="2"></td><td>Nr. N<sup>o</sup></td></tr>
-<tr><td></td><td colspan="3">**URSPRUNGSZEUGNIS** **CERTIFICAT D’ORIGINE** **CERTIFICATO D’ORIGINE** **CERTIFICATE OF ORIGIN** **![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/272/20130101/fr/xml/image/image1.png)**</td></tr>
+<tr><td></td><td colspan="3">**URSPRUNGSZEUGNIS** **CERTIFICAT D’ORIGINE** **CERTIFICATO D’ORIGINE** **CERTIFICATE OF ORIGIN** **![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/272/20220101/fr/xml/image/image1.png)**</td></tr>
 <tr><td>**Empfänger** Destinataire Destinatario Consignee</td><td colspan="3"></td></tr>
 <tr><td></td><td colspan="3">**Ursprungsland** Pays d’origine Paese d’origine Country of origin</td></tr>
-<tr><td>**Angaben über die B****e****förderung (Ausfüllung freigestellt)** Informations relatives au transport (mention facultative) Informazioni riguardanti il trasporto (indicazione facoltativa) Particulars of transport (optional declaration)</td><td colspan="3">**Bemerkungen** Observations Osservazioni Observations</td></tr>
-<tr><td colspan="2">**Zeichen, Nummern, Anzahl und Art der Packstücke; Warenb****e****zeichnung** Marques, numéros, nombre et nature des colis; désignation des marchandises Marche, numeri, numero e natura dei colli; designazione delle merci Marks, numbers, number and kind of packages; description of the goods</td><td colspan="2">**Nettogewicht** Poids net Peso netto Net weight kg, l, m<sup>3</sup> usw./etc./ecc. **Bruttogewicht** Poids brut Peso lordo Gross weight</td></tr>
-<tr><td colspan="4">**Die unterzeichnete Handelskammer bescheinigt den Ursprung oben b****e****zeichneter Waren** La chambre de commerce soussignée certifie l’origine des marchandises désignées ci-dessus La sottoscritta Camera di commercio certifica l’origine delle merci summenzionate The undersigned Chamber of commerce certifies the origin of the above mentioned goods</td></tr>
+<tr><td>**Angaben über die Beförderung** **(Ausfüllung freigestellt)** Informations relatives au transport (mention facultative) Informazioni riguardanti il trasporto (indicazione facoltativa) Particulars of transport (optional declaration)</td><td colspan="3">**Bemerkungen** Observations Osservazioni Observations</td></tr>
+<tr><td colspan="2">**Zeichen, Nummern, Anzahl und Art der Packstücke; Warenbezeichnung** Marques, numéros, nombre et nature des colis; désignation des marchandises Marche, numeri, numero e natura dei colli; designazione delle merci Marks, numbers, number and kind of packages; description of the goods</td><td colspan="2">**Nettogewicht** Poids net Peso netto Net weight kg, l, m<sup>3</sup> usw./etc./ecc. **Bruttogewicht** Poids brut Peso lordo Gross weight</td></tr>
+<tr><td colspan="4">**Die unterzeichnete Handelskammer bescheinigt den Ursprung oben bezeichneter Waren** La chambre de commerce soussignée certifie l’origine des marchandises désignées ci-dessus La sottoscritta Camera di commercio certifica l’origine delle merci summenzionate The undersigned Chamber of commerce certifies the origin of the above mentioned goods</td></tr>
 </table>
 
 Annexe 5
@@ -374,7 +370,7 @@ Version allemande
 <tr><td></td><td></td><td>Die Ware wurde hergestellt bei (Firma, Adresse, Ort):</td></tr>
 </table>
 
-Die Ausstellerin/Der Aussteller dieser Ursprungsdeklaration hat davon Kenntnis genommen, dass eine unrichtige Ursprungsangabe im Sinne der Artikel 9 ff. VUB und der Artikel 2 ff. VUB-WBF verwaltungsrechtliche Massnahmen zur Folge hat und strafrechtlich geahndet wird.
+Die Ausstellerin / Der Aussteller dieser Ursprungsdeklaration hat davon Kenntnis genommen, dass eine unrichtige Ursprungsangabe im Sinne der Artikel 9 ff. VUB und der Artikel 2 ff. VUB-WBF verwaltungsrechtliche Massnahmen zur Folge hat und strafrechtlich geahndet wird.
 
 Ort, Datum, Firma, Unterschrift
 
@@ -443,18 +439,18 @@ La demande d’attestation et le certificat d’origine ou le document commercia
 
 Version allemande
 
-«Dieses Ursprungszeugnis/Diese Ursprungsbescheinigung dient ausschliesslich zur Eingabe eines Angebots im öffentlichen Beschaffungswesen und bezieht sich nicht auf eine tatsächliche Warenlieferung.»
+«Dieses Ursprungszeugnis / Diese Ursprungsbescheinigung dient ausschliesslich zur Eingabe eines Angebots im öffentlichen Beschaffungswesen und bezieht sich nicht auf eine tatsächliche Warenlieferung.»
 
 Version française
 
-«Le présent certificat d’origine/La présente attestation d’origine est exclusivement destiné(e) à la soumission d’une offre de marchés publics et ne se rapporte pas à une livraison de marchandises effective.»
+«Le présent certificat d’origine / La présente attestation d’origine est exclusivement destiné(e) à la soumission d’une offre de marchés publics et ne se rapporte pas à une livraison de marchandises effective.»
 
 Version italienne
 
-«Il presente certificato d’origine/La presente attestazione d’origine vale unicamente per la formulazione di un’offerta nell’ambito di una gara d’appalto pubblico e non è stato/a emesso/a per un’effettiva consegna di merci.»
+«Il presente certificato d’origine / La presente attestazione d’origine vale unicamente per la formulazione di un’offerta nell’ambito di una gara d’appalto pubblico e non è stato/a emesso/a per un’effettiva consegna di merci.»
 
 Version romanche
 
-«Quest certificat d’origin/Questa attestaziun d’origin serva unicamain ad inoltrar in’offerta en il rom da las acquisiziuns publicas e na sa referescha betg ad ina furniziun effectiva da rauba.»
+«Quest certificat d’origin / Questa attestaziun d’origin serva unicamain ad inoltrar in’offerta en il rom da las acquisiziuns publicas e na sa referescha betg ad ina furniziun effectiva da rauba.»
 
 La mention peut figurer en plus dans une autre langue.

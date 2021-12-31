@@ -4,11 +4,11 @@ title: Verordnung des WBF vom 9. April 2008 über die Beglaubigung des nichtprä
 short: VUB-WBF
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/272"
 language: de
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2008-04-09
 in_force: 2008-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/272/20130101/de/xml/fedlex-data-admin-ch-eli-cc-2008-272-20130101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/272/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/272/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-272-20220101-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/272/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/272/20130101/de"
 
 (VUB-WBF)
 
-vom 9. April 2008 (Stand am 1. Januar 2013)
+vom 9. April 2008 (Stand am 1. Januar 2022)
 
 Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)[^ingress-1],
 
@@ -129,9 +129,9 @@ Als gleichwertige Bescheinigungen im Sinne von Absatz 3 Buchstabe c gelten präf
 - b. den Artikeln 1 und 4 der Freihandelsverordnung 2 vom 27. Juni 1995[^8-2]; und
 - c. den Artikeln 20–37 der Ursprungsregelnverordnung vom 17. April 1996[^8-3].
 
-[^8-1]: [[AS 2002 1158](https://fedlex.data.admin.ch/eli/oc/2002/192),[2004 4599](https://fedlex.data.admin.ch/eli/oc/2004/704)[4971](https://fedlex.data.admin.ch/eli/oc/2004/750),[2005 569](https://fedlex.data.admin.ch/eli/oc/2005/66),[2006 867](https://fedlex.data.admin.ch/eli/oc/2006/151)Anhang Ziff. 3[2901 2995](https://fedlex.data.admin.ch/eli/oc/2901/2995)Anhang 4 Ziff. II 8[4659](https://fedlex.data.admin.ch/eli/oc/2901/4659),[2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 22[2273](https://fedlex.data.admin.ch/eli/oc/2007/321)[3417](https://fedlex.data.admin.ch/eli/oc/2007/417). [AS 2008 3519](https://fedlex.data.admin.ch/eli/oc/2008/455)Art. 7]. Siehe heute der Freihandelsverordnung 1 vom 18. Juni 2008 ([SR 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)).
+[^8-1]: [[AS 2002 1158](https://fedlex.data.admin.ch/eli/oc/2002/192);[2004 4599](https://fedlex.data.admin.ch/eli/oc/2004/704),[4971](https://fedlex.data.admin.ch/eli/oc/2004/750);[2005 569](https://fedlex.data.admin.ch/eli/oc/2005/66);[2006 867](https://fedlex.data.admin.ch/eli/oc/2006/151)Anhang Ziff. 3,[2901](https://fedlex.data.admin.ch/eli/oc/2006/440), [2995](https://fedlex.data.admin.ch/eli/oc/2006/464)Anhang 4 Ziff. II 8,[4659](https://fedlex.data.admin.ch/eli/oc/2006/708);[2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 22,[2273](https://fedlex.data.admin.ch/eli/oc/2007/321),[3417](https://fedlex.data.admin.ch/eli/oc/2007/417). [AS 2008 3519](https://fedlex.data.admin.ch/eli/oc/2008/455)Art. 7]. Siehe heute der Freihandelsverordnung 1 vom 18. Juni 2008 ([SR 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)).
 [^8-2]: [SR 632.319](https://fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695)
-[^8-3]: [[AS 1996 1540](https://fedlex.data.admin.ch/eli/oc/1996/1540_1540_1540), [1998 2035](https://fedlex.data.admin.ch/eli/oc/1998/2035_2035_2035), [2004 1451](https://fedlex.data.admin.ch/eli/oc/2004/184), [2008 1833](https://fedlex.data.admin.ch/eli/oc/2008/271)Anhang Ziff. 4. [AS 2011 1415](https://fedlex.data.admin.ch/eli/oc/2011/220)Art. 48]. Siehe heute: die V vom 30. März 2011 ([SR 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220)).
+[^8-3]: [[AS 1996 1540](https://fedlex.data.admin.ch/eli/oc/1996/1540_1540_1540); [1998 2035](https://fedlex.data.admin.ch/eli/oc/1998/2035_2035_2035); [2004 1451](https://fedlex.data.admin.ch/eli/oc/2004/184); [2008 1833](https://fedlex.data.admin.ch/eli/oc/2008/271)Anhang Ziff. 4. [AS 2011 1415](https://fedlex.data.admin.ch/eli/oc/2011/220)Art. 48]. Siehe heute: die V vom 30. März 2011 ([SR 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220)).
 
 #### Art. 9
 
@@ -195,7 +195,7 @@ Anhang 1
 <table>
 <tr><th>Name</th><th>Geografische Zuständigkeit</th></tr>
 <tr><td>Aargauische Industrie- und Handelskammer, Aarau</td><td>Kanton Aargau</td></tr>
-<tr><td>Handelskammer beider Basel, Basel</td><td>Kantone Basel-Stadt und Basel-Landschaft</td></tr>
+<tr><td>Handelskammer beider Basel, Basel</td><td>Kantone Basel-Stadt und Basel‑Landschaft</td></tr>
 <tr><td>Handels- und Industrieverein des Kantons Bern – Berner Handelskammer, Union du Commerce et de l’Industrie du Canton de Berne – Chambre de Commerce bernoise, Bern</td><td>Kanton Bern</td></tr>
 <tr><td>Handelskammer und Arbeitgeberverband Graubünden, Camera di commercio e Associazione degli imprenditori dei Grigioni, Chambra da commerzi ed associaziun dals patruns dal Grischun, Chur</td><td>Kanton Graubünden</td></tr>
 <tr><td>Handelskammer Freiburg, Chambre de commerce Fribourg, Freiburg</td><td>Kanton Freiburg</td></tr>
@@ -221,10 +221,10 @@ Anhang 2
 
 Tabelle 1
 
-**Liste der Be- oder Verarbeitungen, die an Vormaterialien ohne schweizerischen Ursprung vorgenommen werden müssen, damit die daraus hergestellten Erzeugnisse den schweizerischen U****r****sprung erhalten**
+**Liste der Be- oder Verarbeitungen, die an Vormaterialien ohne schweizerischen Ursprung vorgenommen werden müssen, damit die daraus hergestellten** **Erzeugnisse** **den schweizerischen Ursprung erhalten**
 
 <table>
-<tr><th colspan="2">Fertigware</th><th></th><th colspan="3">Verwendete Vormaterialien ausländischen Ursprungs</th></tr>
+<tr><th colspan="2">**Fertigware**</th><th></th><th colspan="3">**Verwendete Vormaterialien** **ausländischen** **Ursprungs**</th></tr>
 <tr><th>Tarifnummer[^t-1]</th><th colspan="2">Warenbezeichnung</th><th colspan="3">Be- oder Verarbeitung von Vormaterialien ohne Ursprungseigenschaft, die Ursprung verleihen</th></tr>
 <tr><td>Kap. 28–39</td><td colspan="2">Erzeugnisse der chemischen Industrie und verwandter Industrien</td><td colspan="3">Chemische Umwandlungen; andere Bearbeitungen oder Verarbeitungen, die zu einem qualitativ neuartigen Erzeugnis führen (s. Bemerkungen Bst. a)</td></tr>
 <tr><td>3105</td><td colspan="2">Düngemittel, mineralische oder chemische, die zwei oder drei der düngenden Elemente Stickstoff, Phosphor und Kalium enthalten; andere Düngemittel; Erzeugnisse dieses Kapitels in Tabletten oder ähnlichen Formen, oder in Packungen mit einem Bruttogewicht von nicht mehr als 10 kg</td><td colspan="3">Herstellung unter Verwendung von Vormaterialien, deren Wert 50 % des Ab-Werk-Preises der hergestellten Ware nicht übersteigt</td></tr>
@@ -276,28 +276,25 @@ Bemerkungen
   - – Das gewonnene Erzeugnis hat neue Merkmale oder neue Eigenschaften oder ermöglicht aufgrund seiner spezifischen Beschaffenheit neue Anwendungen.
   - – Massstab für die qualitative Veränderung ist auch ein besonderer unternehmerischer Aufwand (Art, Umfang und Komplexität der Arbeitsvorgänge, der erforderliche Arbeitsaufwand, die eigene geistige Leistung und Fertigkeit sowie die mit der Herstellung verbundenen technischen Anlagen).
 
-- Besondere Fälle, die bei der Anwendung dieser Richtlinien zu Schwierigkeiten führen, entscheidet die Zollverwaltung.
+- Besondere Fälle, die bei der Anwendung dieser Richtlinien zu Schwierigkeiten führen, entscheidet das Bundesamt für Zoll und Grenzsicherheit[^t-2].
 - b) Als nicht ursprungsbegründend gelten oberflächliche Bearbeitungen wie Schnellbleichen, Auswaschen, Anfärben usw.
-
-Anhang 2
-
-(Art. 2 Abs. 2)
 
 Tabelle 2
 
-**Liste der besonderen Be- oder Verarbeitungen von bestimmten Waren des Kapitels 91, die an Vormaterialien ohne schweizer****i****schen Ursprung vorgenommen werden müssen, damit die daraus hergestellten Erzeugnisse den schweizerischen Ursprung erha****l****ten**
+**Liste der besonderen Be- oder Verarbeitungen von bestimmten Waren** **des Kapitels** **91, die an Vormaterialien ohne schweizerischen Ursprung** **vorgenommen** **werden müssen, damit die daraus hergestellten Erzeugnisse den schweizerischen Ursprung erhalten**
 
 <table>
-<tr><th colspan="2">Fertigware</th><th>Verwendete Vormaterialien ausländischen Ursprungs</th></tr>
-<tr><th>Tarifnummer[^t-2]</th><th>Warenbezeichnung</th><th>Be- oder Verarbeitung von Vormaterialien ohne Ursprungseigenschaft, die Ursprung verleihen</th></tr>
-<tr><th>ex Kap. 91</th><th>Uhren, ausgenommen Waren der Nrn. 9101, 9102, 9106, 9107 und 9108</th><th>Herstellen unter Verwendung von Vormaterialien, deren Gesamtwert 50 % des Ab-Werk-Preises der hergestellten Ware nicht übersteigt</th></tr>
-<tr><th>9101</th><th>Armbanduhren, Taschenuhren und ähnliche Uhren (einschliesslich Stoppuhren vom gleichen Typ), mit Gehäuse aus Edelmetallen oder Edelmetallplattierungen</th><th>Herstellen unter Verwendung von in der Schweiz zusammengesetzten Uhrwerken der Nr. 9108, bei denen der Wert aller verwendeten Vormaterialien 50 % des Wertes der Teile des Uhrwerks nicht übersteigt</th></tr>
-<tr><th>9102</th><th>Armbanduhren, Taschenuhren und ähnliche Uhren (einschliesslich Stoppuhren vom gleichen Typ), andere als solche der Nr. 9101</th><th>Herstellen unter Verwendung von in der Schweiz zusammengesetzten Uhrwerken der Nr. 9108, bei denen der Wert aller verwendeten Vormaterialien 50 % des Wertes der Teile des Uhrwerks nicht übersteigt</th></tr>
-<tr><th>9108</th><th>Kleinuhrwerke, vollständig und zusammengesetzt</th><th>Herstellen bei dem der Wert aller verwendeten Vormaterialien 50 % des Wertes der Teile des Uhrwerks nicht übersteigt</th></tr>
+<tr><th colspan="2">**Fertigware**</th><th colspan="2"></th><th colspan="2">**Verwendete Vormaterialien** **ausländischen Ursprungs**</th></tr>
+<tr><th>Tarifnummer[^t-3]</th><th colspan="2">Warenbezeichnung</th><th colspan="2">Be- oder Verarbeitung von Vormaterialien ohne Ursprungseigenschaft, die Ursprung verleihen</th></tr>
+<tr><td>ex Kap. 91</td><td colspan="2">Uhren, ausgenommen Waren der Nrn. 9101, 9102, 9106, 9107 und 9108</td><td colspan="2">Herstellen unter Verwendung von Vormaterialien, deren Gesamtwert 50 % des Ab-Werk-Preises der hergestellten Ware nicht übersteigt</td></tr>
+<tr><td>9101</td><td colspan="2">Armbanduhren, Taschenuhren und ähnliche Uhren (einschliesslich Stoppuhren vom gleichen Typ), mit Gehäuse aus Edelmetallen oder Edelmetallplattierungen</td><td colspan="2">Herstellen unter Verwendung von in der Schweiz zusammengesetzten Uhrwerken der Nr. 9108, bei denen der Wert aller verwendeten Vormaterialien 50 % des Wertes der Teile des Uhrwerks nicht übersteigt</td></tr>
+<tr><td>9102</td><td colspan="2">Armbanduhren, Taschenuhren und ähnliche Uhren (einschliesslich Stoppuhren vom gleichen Typ), andere als solche der Nr. 9101</td><td colspan="2">Herstellen unter Verwendung von in der Schweiz zusammengesetzten Uhrwerken der Nr. 9108, bei denen der Wert aller verwendeten Vormaterialien 50 % des Wertes der Teile des Uhrwerks nicht übersteigt</td></tr>
+<tr><td>9108</td><td colspan="2">Kleinuhrwerke, vollständig und zusammengesetzt</td><td colspan="2">Herstellen bei dem der Wert aller verwendeten Vormaterialien 50 % des Wertes der Teile des Uhrwerks nicht übersteigt</td></tr>
 </table>
 
 [^t-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
-[^t-2]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
+[^t-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^t-3]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
 
 Anhang 3
 
@@ -308,10 +305,10 @@ Anhang 3
 <tr><td></td><td colspan="6">**BEGLAUBIGUNGSGESUCH**</td></tr>
 <tr><td>**Empfänger**</td><td colspan="6">Für die nachstehend erwähnten Waren wird eine Ursprungsbeglaubigung im Sinne der Verordnung über die Beglaubigung des nichtpräferenziellen Ursprungs von Waren (VUB) bei der beantragt.</td></tr>
 <tr><td></td><td colspan="6">**Ursprungsland:**</td></tr>
-<tr><td>**Angaben über die Beförderung (Ausfüllen freig****e****stellt)**</td><td colspan="6">**Bemerkungen**</td></tr>
+<tr><td>**Angaben über die Beförderung** **(Ausfüllen freigestellt)**</td><td colspan="6">**Bemerkungen**</td></tr>
 <tr><td colspan="2">**Zeichen, Nummern, Anzahl und Art der Packstücke; Warenbezeichnung**</td><td>Schweiz. Zolltarif-nummer</td><td colspan="2">**\***</td><td>Nettogewicht (kg, l, m<sup>3</sup> usw.)</td><td>Wert in SFr.</td></tr>
 <tr><td colspan="2"></td><td></td><td colspan="2"></td><td>Bruttogewicht</td><td>Faktura-Endbetrag SFr.</td></tr>
-<tr><td colspan="2">\* Ursprungskriterien (zutreffenden Buchstaben eintragen) (Rechtsgrundlagen siehe Rückseite) **1. Selbst hergestellte Waren** **A** Vollständig erzeugte Waren (Art. 10 VUB) **B** 50 %-Wertzuwachs-Kriterium (Art. 11 Abs. 1 Bst. a VUB) **C** HS-Positionssprung (Tarifwechsel) (Art. 11 Abs. 1 Bst. b VUB) **D** Listenregeln (Art. 11 Abs. 1 Bst. c und 2 VUB; Art. 2 und Anhang 2 VUB-WBF) **E** Andere nachweisbare Sachverhalte im Ursprungsbereich (Art. 4 VUB) (Angaben unter Feld Bemerkungen) **F** Veredelungsverkehr (Art. 16 VUB) **2. Nicht selbst hergestellte Waren** **G** Handelswaren (Art. 5 und 17 VUB) zusätzliche Angaben des Antragstellers/der Antragstellerin unter Ziff. 2, Rückseite) **3. Zubehör, Ersatzteile und Werkzeuge zu Waren der Kapitel 84 bis 92 des schweizerischen Gebrauchszolltarifs** **H** Lieferung zusammen mit Waren der Kapitel 84-92 (Art. 4 Abs. 1 VUB-WBF) **I** Lieferung für bereits gelieferte Waren der Kapitel 84-92 (Art. 4 Abs. 2 VUB-WBF) (zusätzliche Angaben und Erklärung des Antragstellers/der Antragstellerin unter Ziff. 3, Rückseite)</td><td colspan="5">Der/Die Antragsteller(in) bestätigt hiermit, volle Kenntnis der auf der Rückseite aufgeführten Erklärungen zu haben. Er/Sie erklärt gleichzeitig, diese Angaben gegebenenfalls vervollständigt zu haben. Ort und Datum: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Ref.: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_</td></tr>
+<tr><td colspan="2">\* Ursprungskriterien (zutreffenden Buchstaben eintragen) (Rechtsgrundlagen siehe Rückseite) **1.** **Selbst hergestellte Waren** **A** Vollständig erzeugte Waren (Art. 10 VUB) **B** 50 %-Wertzuwachs-Kriterium (Art. 11 Abs. 1 Bst. a VUB) **C** HS-Positionssprung (Tarifwechsel) (Art. 11 Abs. 1 Bst. b VUB) **D** Listenregeln (Art. 11 Abs. 1 Bst. c und 2 VUB; Art. 2 und Anhang 2 VUB-WBF) **E** Andere nachweisbare Sachverhalte im Ursprungsbereich (Art. 4 VUB) (Angaben unter Feld Bemerkungen) **F** Veredelungsverkehr (Art. 16 VUB) **2.** **Nicht selbst hergestellte Waren** **G** Handelswaren (Art. 5 und 17 VUB) zusätzliche Angaben des Antragstellers/der Antragstellerin unter Ziff. 2, Rückseite) **3.** **Zubehör, Ersatzteile und Werkzeuge zu Waren der Kapitel 84** **bis 92 des schweizerischen Gebrauchszolltarifs** **H** Lieferung zusammen mit Waren der Kapitel 84-92 (Art. 4 Abs. 1 VUB-WBF) **I** Lieferung für bereits gelieferte Waren der Kapitel 84-92 (Art. 4 Abs. 2 VUB-WBF) (zusätzliche Angaben und Erklärung des Antragstellers/der Antragstellerin unter Ziff. 3, Rückseite)</td><td colspan="5">Der/Die Antragsteller(in) bestätigt hiermit, volle Kenntnis der auf der Rückseite aufgeführten Erklärungen zu haben. Er/Sie erklärt gleichzeitig, diese Angaben gegebenenfalls vervollständigt zu haben. Ort und Datum: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Ref.: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_</td></tr>
 <tr><td colspan="2"></td><td colspan="5">Stempel und Unterschrift des Antragstellers / der Antragstellerin:</td></tr>
 </table>
 
@@ -319,9 +316,9 @@ Anhang 3
 
 (Fortsetzung)
 
-**Erklärung des Antragstellers/der Antragstellerin**
+**Erklärung des Antragstellers / der Antragstellerin**
 
-- **1.** Selbst hergestellte Waren: Der/Die Antragsteller(in) bestätigt hiermit, dass die Waren durch ihn/sie vollständig gewonnen oder hergestellt oder ausreichend be- oder verarbeitet wurden. Die Vorschriften der Verordnung vom 9. April 2008 über die Beglaubigung des nichtpräferenziellen Ursprungs von Waren (VUB) und der Verordnung des WBF vom 9. April 2008 über die Beglaubigung des nichtpräferenziellen Ursprungs von Waren (VUB-WBF) sind gemäss den in der Kolonne "Ursprungskriterien" (\*) eingesetzten Kriterien erfüllt.
+- **1.** **Selbst hergestellte Waren:** Der/Die Antragsteller(in) bestätigt hiermit, dass die Waren durch ihn/sie vollständig gewonnen oder hergestellt oder ausreichend be- oder verarbeitet wurden. Die Vorschriften der Verordnung vom 9. April 2008 über die Beglaubigung des nichtpräferenziellen Ursprungs von Waren (VUB) und der Verordnung des WBF vom 9. April 2008 über die Beglaubigung des nichtpräferenziellen Ursprungs von Waren (VUB-WBF) sind gemäss den in der Kolonne "Ursprungskriterien" (\*) eingesetzten Kriterien erfüllt.
 - **2.** **Nicht** **selbst hergestellte Waren:** Der/Die Antragsteller(in) erklärt hiermit, dass die Waren dieselben sind, wie auf den nachstehenden Fakturen/Ursprungszeugnissen oder Ursprungsdeklarationen aufgeführt:
 
 <table>
@@ -338,7 +335,8 @@ Anhang 3
 
 - [tab] Bezieht sich das Beglaubigungsgesuch nur auf einen Teil der in einem vorgelegten Ursprungsnachweis aufgeführten Warenmengen, so hat der/die Antragsteller(in) dies auf diesem Ursprungsnachweis zu vermerken.
 - **3.** **Besondere****Erklärungen** **und Angaben für bereits gelieferte Waren der Kapitel 84 bis 92 (Art. 4 Abs. 2 VUB-WBF):** «Bei den vorgenannten Waren handelt es sich um wesentliche, zur Instandstellung bestimmte Ersatzteile für (möglichst genaue Bezeichnung der früher gelieferten Geräte) gemäss Rechnung Nr. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Ursprungszeugnis Nr. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ausgestellt durch \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ am \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_».
-- **4.** Der/Die unterzeichnete Antragsteller(in), in Kenntnis der eidgenössischen Vorschriften und namentlich ihrer strafrechtlichen Bestimmungen, bescheinigt auf seine/ihre eigene Verantwortung die Richtigkeit der obigen Angaben. Er/Sie **verpflichtet** sich, auf Verlangen der Eidgenössischen Zollverwaltung oder der betreffenden Handelskammer, alle zusätzlichen Beweise zu liefern, die diese im Zusammenhang mit der erteilten Ursprungsbeglaubigung verlangen, sowie gegebenenfalls der Einsichtnahme in die entsprechenden Geschäfts- und Fabrikationsunterlagen, welche die beglaubigte Ware betreffen, zuzustimmen. Er/Sie erklärt ferner, für die Waren nicht schon um ein gleiches Dokument nachgesucht zu haben, und verpflichtet sich, die beglaubigten Dokumente zurückzugeben, falls diese aus irgendeinem Grunde nicht benötigt werden.
+- **4.** Der/Die unterzeichnete Antragsteller(in), in Kenntnis der eidgenössischen Vorschriften und namentlich ihrer strafrechtlichen Bestimmungen, bescheinigt auf seine/ihre eigene Verantwortung die Richtigkeit der obigen Angaben. Er/Sie **verpflichtet** sich, auf Verlangen des Bundesamtes für Zoll und Grenzsicherheit oder der betreffenden Handelskammer, alle zusätzlichen Beweise zu liefern, die diese im Zusammenhang mit der erteilten Ursprungsbeglaubigung verlangen, sowie gegebenenfalls der Einsichtnahme in die entsprechenden Geschäfts- und Fabrikationsunterlagen, welche die beglaubigte Ware betreffen, zuzustimmen.
+- Er/Sie erklärt ferner, für die Waren nicht schon um ein gleiches Dokument nachgesucht zu haben, und verpflichtet sich, die beglaubigten Dokumente zurückzugeben, falls diese aus irgendeinem Grunde nicht benötigt werden.
 
 Anhang 4
 
@@ -346,19 +344,19 @@ Anhang 4
 
 <table>
 <tr><td>**Exporteur** Exportateur Esportatore Exporter</td><td colspan="2"></td><td>Nr. N<sup>o</sup></td></tr>
-<tr><td></td><td colspan="3">**URSPRUNGSZEUGNIS** **CERTIFICAT D’ORIGINE** **CERTIFICATO D’ORIGINE** **CERTIFICATE OF ORIGIN** **![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/272/20130101/de/xml/image/image1.png)**</td></tr>
+<tr><td></td><td colspan="3">**URSPRUNGSZEUGNIS** **CERTIFICAT D’ORIGINE** **CERTIFICATO D’ORIGINE** **CERTIFICATE OF ORIGIN** **![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/272/20220101/de/xml/image/image1.png)**</td></tr>
 <tr><td>**Empfänger** Destinataire Destinatario Consignee</td><td colspan="3"></td></tr>
 <tr><td></td><td colspan="3">**Ursprungsland** Pays d’origine Paese d’origine Country of origin</td></tr>
-<tr><td>**Angaben über die B****e****förderung (Ausfüllung freigestellt)** Informations relatives au transport (mention facultative) Informazioni riguardanti il trasporto (indicazione facoltativa) Particulars of transport (optional declaration)</td><td colspan="3">**Bemerkungen** Observations Osservazioni Observations</td></tr>
-<tr><td colspan="2">**Zeichen, Nummern, Anzahl und Art der Packstücke; Warenb****e****zeichnung** Marques, numéros, nombre et nature des colis; désignation des marchandises Marche, numeri, numero e natura dei colli; designazione delle merci Marks, numbers, number and kind of packages; description of the goods</td><td colspan="2">**Nettogewicht** Poids net Peso netto Net weight kg, l, m<sup>3</sup> usw./etc./ecc. **Bruttogewicht** Poids brut Peso lordo Gross weight</td></tr>
-<tr><td colspan="4">**Die unterzeichnete Handelskammer bescheinigt den Ursprung oben b****e****zeichneter Waren** La chambre de commerce soussignée certifie l’origine des marchandises désignées ci-dessus La sottoscritta Camera di commercio certifica l’origine delle merci summenzionate The undersigned Chamber of commerce certifies the origin of the above mentioned goods</td></tr>
+<tr><td>**Angaben über die Beförderung** **(Ausfüllung freigestellt)** Informations relatives au transport (mention facultative) Informazioni riguardanti il trasporto (indicazione facoltativa) Particulars of transport (optional declaration)</td><td colspan="3">**Bemerkungen** Observations Osservazioni Observations</td></tr>
+<tr><td colspan="2">**Zeichen, Nummern, Anzahl und Art der Packstücke; Warenbezeichnung** Marques, numéros, nombre et nature des colis; désignation des marchandises Marche, numeri, numero e natura dei colli; designazione delle merci Marks, numbers, number and kind of packages; description of the goods</td><td colspan="2">**Nettogewicht** Poids net Peso netto Net weight kg, l, m<sup>3</sup> usw./etc./ecc. **Bruttogewicht** Poids brut Peso lordo Gross weight</td></tr>
+<tr><td colspan="4">**Die unterzeichnete Handelskammer bescheinigt den Ursprung oben bezeichneter Waren** La chambre de commerce soussignée certifie l’origine des marchandises désignées ci-dessus La sottoscritta Camera di commercio certifica l’origine delle merci summenzionate The undersigned Chamber of commerce certifies the origin of the above mentioned goods</td></tr>
 </table>
 
 Anhang 5
 
 (Art. 6)
 
-**Wortlaut der Ursprungsdeklaration, die nur im Inland gü****l****tig ist**
+## Wortlaut der Ursprungsdeklaration, die nur im Inland gültig ist
 
 Die Ursprungsdeklaration ist mit folgendem Wortlaut in einer Landessprache auszufertigen:
 
@@ -367,11 +365,11 @@ Deutsche Fassung
 «Die Waren, auf die sich das vorliegende Handelsdokument bezieht, haben schweizerischen Ursprung nach den Bestimmungen der Artikel 9–16 der Verordnung vom 9. April 2008 über die Beglaubigung des nichtpräferenziellen Ursprungs von Waren (VUB) und der Verordnung des WBF vom 9. April 2008 über die Beglaubigung des nichtpräferenziellen Ursprungs von Waren (VUB-WBF).
 
 <table>
-<tr><td></td><td>Die Ware wurde im eigenen Betrieb hergestellt.</td></tr>
-<tr><td></td><td>Die Ware wurde hergestellt bei (Firma, Adresse, Ort):</td></tr>
+<tr><td></td><td></td><td>Die Ware wurde im eigenen Betrieb hergestellt.</td></tr>
+<tr><td></td><td></td><td>Die Ware wurde hergestellt bei (Firma, Adresse, Ort):</td></tr>
 </table>
 
-Die Ausstellerin/Der Aussteller dieser Ursprungsdeklaration hat davon Kenntnis genommen, dass eine unrichtige Ursprungsangabe im Sinne der Artikel 9 ff. VUB und der Artikel 2 ff. VUB-WBF verwaltungsrechtliche Massnahmen zur Folge hat und strafrechtlich geahndet wird.
+Die Ausstellerin / Der Aussteller dieser Ursprungsdeklaration hat davon Kenntnis genommen, dass eine unrichtige Ursprungsangabe im Sinne der Artikel 9 ff. VUB und der Artikel 2 ff. VUB-WBF verwaltungsrechtliche Massnahmen zur Folge hat und strafrechtlich geahndet wird.
 
 Ort, Datum, Firma, Unterschrift
 
@@ -384,8 +382,8 @@ Französische Fassung
 «Les marchandises auxquelles se rapporte le présent document commercial sont originaires de Suisse selon les dispositions des articles 9 à 16 de l’Ordonnance du 9 avril 2008 sur l’attestation de l’origine non préférentielle des marchandises (OOr) et de l’Ordonnance du DEFR du 9 avril 2008 sur l’attestation de l’origine non préférentielle des marchandises (OOr-DEFR).
 
 <table>
-<tr><td></td><td>La marchandise a été produite par notre entreprise.</td></tr>
-<tr><td></td><td>La marchandise a été produite par (société, adresse, localité):</td></tr>
+<tr><td></td><td></td><td>La marchandise a été produite par notre entreprise.</td></tr>
+<tr><td></td><td></td><td>La marchandise a été produite par (société, adresse, localité):</td></tr>
 </table>
 
 L’auteur de la présente déclaration d’origine a pris connaissance du fait que l’indication inexacte de l’origine selon les art. 9 ss. OOr et les art. 2 ss. OOr-DEFR entraîne des mesures de droit administratif et des poursuites pénales.
@@ -401,8 +399,8 @@ Italienische Fassung
 «La merce alla quale si riferisce il presente documento commerciale è di origine svizzera ai sensi delle disposizioni degli articoli da 9 a 16 dell’ordinanza del 9 aprile 2008 sull’attestazione dell’origine non preferenziale delle merci (OAO) e dell’ordinanza del DEFR del 9 aprile 2008 sull’attestazione dell’origine non preferenziale delle merci (OAO-DEFR).
 
 <table>
-<tr><td></td><td>La merce è stata prodotta nella nostra impresa</td></tr>
-<tr><td></td><td>La merce è stata prodotta nella seguente impresa (nome, indirizzo, sede):</td></tr>
+<tr><td></td><td></td><td>La merce è stata prodotta nella nostra impresa</td></tr>
+<tr><td></td><td></td><td>La merce è stata prodotta nella seguente impresa (nome, indirizzo, sede):</td></tr>
 </table>
 
 L’autore della presente dichiarazione d’origine è a conoscenza del fatto che l’emissione di una dichiarazione d’origine inesatta ai sensi dell’articolo 9 segg. OAO e dell’articolo 2 segg. OAO-DEFR comporta l’adozione di provvedimenti amministrativi e il perseguimento penale.
@@ -418,8 +416,8 @@ Rätoromanische Fassung
 «La rauba, a la quala quest document commerzial sa referescha, è d’origin svizzer tenor las disposiziuns dals artitgels 9 fin 16 da l’ordinaziun dals 9 d’avrigl 2008 davart l’attestaziun da l’origin betg preferenzial da rauba (OAO) e tenor l’ordinaziun dal DEFR dals 9 d’avrigl 2008 davart l’attestaziun da l’origin betg preferenzial da rauba (OAO-DEFR).
 
 <table>
-<tr><td></td><td>La rauba è vegnida producida en l’atgna interpresa.</td></tr>
-<tr><td></td><td>La rauba è vegnida producida tar (firma, adressa, lieu):</td></tr>
+<tr><td></td><td></td><td>La rauba è vegnida producida en l’atgna interpresa.</td></tr>
+<tr><td></td><td></td><td>La rauba è vegnida producida tar (firma, adressa, lieu):</td></tr>
 </table>
 
 L’emittenta u l’emittent da questa decleraziun d’origin ha prendì enconuschientscha dal fatg ch’ina faussa indicaziun da l’origin en il senn dals artitgels 9 ss. OAO e dals artitgels 2 ss. OAO-DEFR ha consequenzas da dretg administrativ e vegn persequitada penalmain.
@@ -434,24 +432,24 @@ Anhang 6
 
 (Art. 10 Abs. 2)
 
-**Ursprungsbeglaubigungen im öffentlichen Beschaffungswesen**
+## Ursprungsbeglaubigungen im öffentlichen Beschaffungswesen
 
 Das Beglaubigungsgesuch sowie das Ursprungszeugnis oder das Handelsdokument, auf dem eine Ursprungsbescheinigung ausgestellt wird, müssen einen der folgenden Vermerke tragen:
 
 Deutsche Fassung
 
-«Dieses Ursprungszeugnis/Diese Ursprungsbescheinigung dient ausschliesslich zur Eingabe eines Angebots im öffentlichen Beschaffungswesen und bezieht sich nicht auf eine tatsächliche Warenlieferung.»
+«Dieses Ursprungszeugnis / Diese Ursprungsbescheinigung dient ausschliesslich zur Eingabe eines Angebots im öffentlichen Beschaffungswesen und bezieht sich nicht auf eine tatsächliche Warenlieferung.»
 
 Französische Fassung
 
-«Le présent certificat d’origine/La présente attestation d’origine est exclusivement destiné(e) à la soumission d’une offre de marchés publics et ne se rapporte pas à une livraison de marchandises effective.»
+«Le présent certificat d’origine / La présente attestation d’origine est exclusivement destiné(e) à la soumission d’une offre de marchés publics et ne se rapporte pas à une livraison de marchandises effective.»
 
 Italienische Fassung
 
-«Il presente certificato d’origine/La presente attestazione d’origine vale unicamente per la formulazione di un’offerta nell’ambito di una gara d’appalto pubblico e non è stato/a emesso/a per un’effettiva consegna di merci.»
+«Il presente certificato d’origine / La presente attestazione d’origine vale unicamente per la formulazione di un’offerta nell’ambito di una gara d’appalto pubblico e non è stato/a emesso/a per un’effettiva consegna di merci.»
 
 Rätoromanische Fassung
 
-«Quest certificat d’origin/Questa attestaziun d’origin serva unicamain ad inoltrar in’offerta en il rom da las acquisiziuns publicas e na sa referescha betg ad ina furniziun effectiva da rauba.»
+«Quest certificat d’origin / Questa attestaziun d’origin serva unicamain ad inoltrar in’offerta en il rom da las acquisiziuns publicas e na sa referescha betg ad ina furniziun effectiva da rauba.»
 
 Der Hinweis kann zusätzlich in einer anderen Sprache angebracht werden.
