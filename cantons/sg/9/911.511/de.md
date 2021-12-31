@@ -3,20 +3,19 @@ canton: SG
 number: "911.511"
 title: Vollzugsverordnung zum Gesetz über Inkassohilfe und Vorschüsse für Unterhaltsbeiträge
 language: de
-version: 2001-05-22
-valid_until: 2021-12-31
-version_adopted: 2001-05-22
+version: 2022-01-01
+version_adopted: 2022-01-25
 adopted: 1979-10-15
 in_force: 1980-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/911.511"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/484/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3325/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollzugsverordnung zum Gesetz über Inkassohilfe und Vorschüsse für Unterhaltsbeiträge
 
-vom 15.10.1979 (Stand 22.05.2001)
+vom 15.10.1979 (Stand 01.01.2022)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -57,23 +56,28 @@ als Verordnung:[^ingress-2]
 
 [^2-1]: Art. 217 des eidg Strafgesetzbuches vom 21. Dezember 1937, SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
 
+## I<sup>bis</sup>. Inkassohilfe
+
+#### Art. 2bis
+
+**Organisation für unterstützende Massnahmen**
+
+<sup>1</sup> Als Organisation für unterstützende Massnahmen im Sinne von [Art. 1<sup>quater</sup>](https://www.gesetzessammlung.sg.ch/data/911.51/de/art1quater) Abs. 1 des Gesetzes über Inkassohilfe und Vorschüsse für Unterhaltsbeiträge vom 28. Juni 1979[^2bis-1] wird die St.Gallische Konferenz der Sozialhilfe beauftragt.
+
+<sup>2</sup> Die Regierung schliesst mit der St.Gallischen Konferenz der Sozialhilfe eine auf zwei Jahre befristete Leistungsvereinbarung bezüglich der zu erbringenden unterstützenden Massnahmen ab.
+
+<sup>3</sup> Einzelfallberatungen nach [Art. 1<sup>quater</sup>](https://www.gesetzessammlung.sg.ch/data/911.51/de/art1quater) Abs. 1 Bst. c des Gesetzes über Inkassohilfe und Vorschüsse für Unterhaltsbeiträge vom 28. Juni 1979[^2bis-2] können von der St.Gallischen Konferenz der Sozialhilfe derjenigen Gemeinde in Rechnung gestellt werden, welche die Dienste in Anspruch genommen hat.
+
+<sup>4</sup> Die Leistungen der St.Gallischen Konferenz der Sozialhilfe werden jährlich durch das Amt für Soziales evaluiert.
+
+[^2bis-1]: sGS [911.51](https://www.gesetzessammlung.sg.ch/data/911.51/de).
+[^2bis-2]: sGS [911.51](https://www.gesetzessammlung.sg.ch/data/911.51/de).
+
 ## II. Vorschüsse
 
 #### Art. 3
 
-**Anspruchsvoraussetzungen a) Inkassoversuche**
-
-<sup>1</sup> Angemessene Inkassoversuche im Sinn von Art. 2 Abs. 1 des Gesetzes[^3-1] sind namentlich:
-
-- a) die Inanspruchnahme der gesetzlichen Inkassohilfe,[^3-2]
-- b) die schriftliche Zahlungsaufforderung,
-- c) die Anhebung der Betreibung,[^3-3]
-- d) die Eingabe der Forderung im Konkurs des Schuldners.[^3-4]
-
-[^3-1]: sGS [911.51](https://www.gesetzessammlung.sg.ch/data/911.51/de).
-[^3-2]: Art. [1](https://www.gesetzessammlung.sg.ch/data/911.51/de/art1)GIVU, sGS [911.51](https://www.gesetzessammlung.sg.ch/data/911.51/de).
-[^3-3]: Art. 67 des BG über Schuldbetreibung und Konkurs vom 11. April 1889, SR [281.1](https://db.clex.ch/link/Bund/281.1/de).
-[^3-4]: Art. 231 f. des BG über Schuldbetreibung und Konkurs vom 11. april 1889, SR [281.1](https://db.clex.ch/link/Bund/281.1/de).
+**…**
 
 #### Art. 4
 
@@ -94,7 +98,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 6
 
-**b) Auskunftspflicht6.[^6-1];**
+**b) Auskunftspflicht[^6-1]**
 
 <sup>1</sup> Der Gesuchsteller hat die notwendigen Auskünfte zu erteilen und auf Verlangen die erforderlichen Unterlagen beizubringen, namentlich:
 
@@ -103,13 +107,12 @@ als Verordnung:[^ingress-2]
 - c) eine Aufstellung der vom anrechenbaren Einkommen abzugsfähigen Kosten[^6-2] samt Belegen;
 - d) den die Unterhaltsbeiträge begründenden Rechtstitel, wie richterliche Verfügung, Gerichtsurteil, Vereinbarung;
 - e) eine Aufstellung über die ausstehenden Unterhaltsbeiträge;
-- f) den Nachweis, dass Inkassoversuche erfolgt sind;[^6-3]
-- g) eine Inkasso- und Prozessvollmacht oder eine Abtretungserklärung.[^6-4]
+- f) …
+- g) eine Inkasso- und Prozessvollmacht.[^6-3]
 
-[^6-1]: Art. [3](https://www.gesetzessammlung.sg.ch/data/911.51/de/art3.) lit. g GIVU, sGS [911.51](https://www.gesetzessammlung.sg.ch/data/911.51/de).
+[^6-1]: Art. [3](https://www.gesetzessammlung.sg.ch/data/911.51/de/art3.) Bst. g GIVU, sGS [911.51](https://www.gesetzessammlung.sg.ch/data/911.51/de).
 [^6-2]: Art. [4<sup>bis</sup>](https://www.gesetzessammlung.sg.ch/data/911.51/de/art4bis.) Abs. 3 GIVU, sGS [911.51](https://www.gesetzessammlung.sg.ch/data/911.51/de).
-[^6-3]: Art. [2](https://www.gesetzessammlung.sg.ch/data/911.51/de/art2.)GIVU, sGS [911.51](https://www.gesetzessammlung.sg.ch/data/911.51/de); Art. [3](https://www.gesetzessammlung.sg.ch/data/911.511/de/art3.) VV zum GIVU, sGS [911.511](https://www.gesetzessammlung.sg.ch/data/911.511/de).
-[^6-4]: Art. [6](https://www.gesetzessammlung.sg.ch/data/911.51/de/art6.)GIVU, sGS [911.51](https://www.gesetzessammlung.sg.ch/data/911.51/de).
+[^6-3]: Art. [6](https://www.gesetzessammlung.sg.ch/data/911.51/de/art6.) GIVU, sGS [911.51](https://www.gesetzessammlung.sg.ch/data/911.51/de).
 
 #### Art. 7
 
@@ -135,7 +138,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Wird der zivilrechtliche Wohnsitz[^9-1] des anspruchsberechtigten Kindes verlegt, so enden Vorschusspflicht und Inkassovollmacht der bisherigen Wohnsitzgemeinde.[^9-2]
 
-<sup>2</sup> Die Gemeinde kann spätere Zahlungen des Schuldners, die infolge vorher angehobener Inkassoversuche bei ihr eingehen, zur Deckung geleisteter Vorschüsse verwenden. Darüber hinausgehende Zahlungen werden der neuen Wohnsitzgemeinde überwiesen, wenn sie Vorschüsse leistet. In den anderen Fällen erhalten der für das Kind sorgende Elternteil oder der gesetzliche Vertreter des Kindes die Zahlungen.
+<sup>2</sup> Die Gemeinde kann spätere Zahlungen der verpflichteten Person, die infolge vorher angehobener Inkassoversuche bei ihr eingehen, zur Deckung geleisteter Vorschüsse verwenden. Darüber hinausgehende Zahlungen werden der neuen Wohnsitzgemeinde überwiesen, wenn sie Vorschüsse leistet. In den anderen Fällen erhalten der für das Kind sorgende Elternteil oder der gesetzliche Vertreter des Kindes die Zahlungen.
 
 [^9-1]: Art. 23 ff. des Schweizerischen Zivilgesetzbuchs vom 10. Dezember 1907, SR [210](https://db.clex.ch/link/Bund/210/de).
 [^9-2]: Art. [5](https://www.gesetzessammlung.sg.ch/data/911.51/de/art5) Abs. 1 GIVU, sGS [911.51](https://www.gesetzessammlung.sg.ch/data/911.51/de).
