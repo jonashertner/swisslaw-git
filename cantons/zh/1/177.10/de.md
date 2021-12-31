@@ -4,11 +4,11 @@ number: "177.10"
 title: Personalgesetz (PG)
 short: PG
 language: de
-version: "2015-05-01"
-nachtrag: "89"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
+valid_until: 2022-10-01
 adopted: 1998-09-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_10-1998_09_27-1999_07_01-089.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_10-1998_09_27-1999_07_01-115.html"
 text: pdf
 ---
 
@@ -54,7 +54,7 @@ Angestellte sind Personen, die unbefristet oder befristet mit einem vollen oder 
 
 **1**
 
-- 1\. 7. 15 - 89
+- 1\. 1. 22 - 115
 
 ### C. Personalpolitik
 
@@ -150,7 +150,7 @@ Offene Stellen sind in der Regel öffentlich auszuschreiben.
 
 **3**
 
-- 1\. 7. 15 - 89 § 11. <sup>1</sup> Voraussetzung für eine Anstellung ist insbesondere die fachliche und persönliche Eignung der Bewerberin oder des Bewerbers.
+- 1\. 1. 22 - 115 § 11. <sup>1</sup> Voraussetzung für eine Anstellung ist insbesondere die fachliche und persönliche Eignung der Bewerberin oder des Bewerbers.
 
 **Voraussetzungen der Anstellung**
 
@@ -242,7 +242,7 @@ Offene Stellen sind in der Regel öffentlich auszuschreiben.
 
 **5**
 
-- 1\. 7. 15 - 89
+- 1\. 1. 22 - 115
 
 <sup>4</sup> Das Arbeitsverhältnis kann jeweils auf Ende eines Monats beendet werden. Der Regierungsrat bezeichnet die Arbeitsverhältnisse, für welche abweichende Endtermine gelten.
 
@@ -328,7 +328,7 @@ Offene Stellen sind in der Regel öffentlich auszuschreiben.
 
 **7**
 
-- 1\. 7. 15 - 89
+- 1\. 1. 22 - 115
 
 <sup>3</sup> Eine Entlassung altershalber kann nur einmal erfolgen. Sie ist in zwei Schritten möglich.
 
@@ -386,7 +386,7 @@ Kommt es infolge von Stellenabbau zu Kündigungen, legen der Regierungsrat oder 
 
 **9**
 
-- 1\. 7. 15 - 89 § 29. <sup>1</sup> Angestellte können von der Anstellungs- oder Aufsichtsbehörde jederzeit vorsorglich im Amt eingestellt werden, wenn
+- 1\. 1. 22 - 115 § 29. <sup>1</sup> Angestellte können von der Anstellungs- oder Aufsichtsbehörde jederzeit vorsorglich im Amt eingestellt werden, wenn
 
 **Vorsorgliche Massnahmen**
 
@@ -480,7 +480,7 @@ Soweit dieses Gesetz nichts Abweichendes regelt, richtet sich der Weiterzug von 
 
 **11**
 
-- 1\. 7. 15 - 89
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Er trifft die zum Schutz von Leben, Gesundheit und persönlicher Integrität seiner Angestellten erforderlichen Massnahmen.
 
@@ -572,7 +572,7 @@ Die Vereinsfreiheit der Angestellten ist im Rahmen des Verfassungsrechts gewähr
 
 **13**
 
-- 1\. 7. 15 - 89
+- 1\. 1. 22 - 115
 
 <sup>3</sup> Auf besonderes Verlangen der Angestellten hat sich das Zeugnis auf Angaben über die Art und Dauer des Arbeitsverhältnisses zu beschränken.
 
@@ -662,9 +662,27 @@ Die Angestellten haben sich rechtmässig zu verhalten, die Rechte und Freiheiten
 
 **15**
 
-- 1\. 7. 15 - 89
+- 1\. 1. 22 - 115
 
-### IV. Schlussbestimmungen
+### IV. Administrativuntersuchung<sup>21</sup>
+
+**Mitwirkungspflicht**
+
+§ 55 a.<sup>21</sup> Die in eine Administrativuntersuchung einbezogenen Angestellten sind verpflichtet, an der Abklärung des Sachverhalts persönlich mitzuwirken. Die Mitwirkungspflicht entfällt, wenn sie sich dadurch strafrechtlich belasten würden.
+
+**Mitteilungspflichten der Strafbehörden**
+
+§ 55 b.<sup>21</sup> <sup>1</sup> Strafverfolgungsbehörden teilen den Behörden gemäss § 4 die Eröffnung einer Strafuntersuchung gegen Angestellte mit, wenn diese verdächtigt werden, ein Verbrechen oder Vergehen verübt zu haben,
+
+- a. bei Ausübung ihrer Tätigkeit,
+
+- b. mit dem der Kanton geschädigt werden kann,
+
+- c. das mit ihrer Tätigkeit nicht vereinbar erscheint, insbesondere weil es das Ansehen des Arbeitgebers oder das Vertrauen in die ordnungsgemässe Erfüllung öffentlicher Aufgaben erheblich beeinträchtigt.
+
+<sup>2</sup> Strafverfolgungsbehörden und Gerichte stellen den Behörden den rechtskräftigen Entscheid zu.
+
+### V.<sup>22</sup> Schlussbestimmungen
 
 #### § 56
 
@@ -690,11 +708,13 @@ Die Angestellten haben sich rechtmässig zu verhalten, die Rechte und Freiheiten
 
 <sup>4</sup> Für Arbeitsverhältnisse, die beim Inkrafttreten des Personalgesetzes bereits gekündigt, aber noch nicht aufgelöst sind, gilt bisheriges Recht.
 
+[^57-1]: Text siehe OS 54, 765.
+
 #### § 58
 
 **Änderung bisherigen Rechts**
 
-**Die nachstehenden Gesetze werden wie folgt geändert: . . .<sup>8</sup>**
+**Die nachstehenden Gesetze werden wie folgt geändert: . . .[^57-1]**
 
 #### § 59
 
@@ -702,27 +722,7 @@ Die Angestellten haben sich rechtmässig zu verhalten, die Rechte und Freiheiten
 
 <sup>1</sup> Dieses Gesetz untersteht der Volksabstimmung.
 
-<sup>2</sup> Ein Inkrafttreten dieses Gesetzes setzt die Annahme der Verfassungsbestimmungen über die Änderung des Personalrechts in der Volksabstimmung voraus. Der Regierungsrat bestimmt den Zeitpunkt<sup>2</sup>.
-
-<sup>1</sup> OS 54, 752.
-
-<sup>2</sup> In Kraft seit 1. Juli 1999 (OS 55, 62).
-
-<sup>3</sup> LS 170.4.
-
-<sup>4</sup> LS 175.2.
-
-<sup>5</sup> LS 177.21.
-
-<sup>6</sup> SR 151.1.
-
-<sup>7</sup> SR 220.
-
-<sup>8</sup> Text siehe OS 54, 765.
-
-<sup>9</sup> Fassung gemäss G über die Teilrevision der Strafprozessgesetzgebung vom 27. Januar 2003 (OS 59, 22; ABl 2001, 504). In Kraft seit 1. Januar 2005 (OS 59, 302).
-
-<sup>10</sup> Fassung gemäss G vom 26. September 2005 (OS 60, 517; ABl 2005, 4). In Kraft seit 1. Januar 2006.
+<sup>2</sup> Ein Inkrafttreten dieses Gesetzes setzt die Annahme der Verfassungsbestimmungen über die Änderung des Personalrechts in der Volksabstimmung voraus. Der Regierungsrat bestimmt den Zeitpunkt[^59-1].
 
 <sup>11</sup> Fassung gemäss G über die Verselbstständigung der Versicherungskasse für das Staatspersonal vom 10. Februar 2003 (OS 58, 102; ABl 2002, 822). In Kraft seit 1. Mai 2007 (OS 62, 152).
 
@@ -744,6 +744,20 @@ Die Angestellten haben sich rechtmässig zu verhalten, die Rechte und Freiheiten
 
 <sup>20</sup> Aufgehoben durch G vom 20. Oktober 2014 (OS 70, 89; ABl 2014-02-14). In Kraft seit 1. Mai 2015.
 
-**17**
+<sup>21</sup> Eingefügt durch G über die Administrativuntersuchung vom 22. Februar 2021 (OS 76, 447; ABl 2018-07-20). In Kraft seit 1. Januar 2022.
 
-- 1\. 7. 15 - 89
+<sup>22</sup> Fassung gemäss G über die Administrativuntersuchung vom 22. Februar 2021 (OS 76, 447; ABl 2018-07-20). In Kraft seit 1. Januar 2022.
+
+[^59-1]: In Kraft seit 1. Juli 1999 (OS 55, 62).
+
+## Weitere Fussnoten
+
+- [1] OS 54, 752.
+- [3] LS 170.4.
+- [4] LS 175.2.
+- [5] LS 177.21.
+- [6] SR 151.1.
+- [7] SR 220.
+- [9] Fassung gemäss G über die Teilrevision der Strafprozessgesetzgebung vom 27. Januar 2003 (OS 59, 22; ABl 2001, 504). In Kraft seit 1. Januar 2005 (OS 59,
+- [302] .
+- [10] Fassung gemäss G vom 26. September 2005 (OS 60, 517; ABl 2005, 4). In Kraft seit 1. Januar 2006. 1. 1. 22 - 115 17
