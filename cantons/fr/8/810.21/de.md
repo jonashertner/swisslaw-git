@@ -4,13 +4,13 @@ number: "810.21"
 title: Reglement über die Abfallbewirtschaftung
 short: ABR
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-12-10
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-11-23
 adopted: 1998-01-20
 in_force: 1998-02-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/810.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/6451/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6979/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Abfallbewirtschaftung – R
 
 (ABR)
 
-vom 20.01.1998 (Fassung in Kraft getreten am 01.01.2020)
+vom 20.01.1998 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -150,7 +150,7 @@ beschliesst:
 
 <sup>2</sup> Die Direktion kann die Bewilligung mit Auflagen oder Bedingungen für den Betrieb der Anlage und für die Dauer der Bewilligung versehen.
 
-## 3 Strafbestimmungen
+## 3
 
 #### Art. 13
 
@@ -162,27 +162,15 @@ beschliesst:
 
 #### Art. 14a
 
-**Pauschalbetrag der Ordnungsbussen (Art. 36a Abs. 4 ABG)**
-
-<sup>1</sup> Der Pauschalbetrag der Ordnungsbusse beträgt 50 Franken für kleine isolierte Abfälle wie Zigarettenkippen, Kaugummis, Essensreste, Papier, Verpackungen, Getränkedosen, Flaschen.
-
-<sup>2</sup> Der Pauschalbetrag der Ordnungsbusse beträgt 150 Franken für eine Ansammlung von kleinen Abfällen wie Zigarettenkippen, Kaugummis, Essensreste, Papier, Verpackungen, Getränkedosen, Flaschen bis zu einem Volumen von 17 Litern.
-
-<sup>3</sup> Gemäss Artikel 24 Abs. 1 des Bundesgesetzes vom 20. Juni 2003 über das Jugendstrafrecht und Artikel 4 des Bundesgesetzes vom 22. März 1974 über das Verwaltungsstrafrecht gilt dieses Reglement nicht für Jugendliche, die das 15. Altersjahr noch nicht vollendet haben.
+**…**
 
 #### Art. 14b
 
-**Übertragung der Kompetenz – Grundsatz**
-
-<sup>1</sup> Die Kompetenz zur Verhängung von Ordnungsbussen im Sinne des Gesetzes über die Abfallbewirtschaftung und dieses Reglements wird gemäss Beschluss über die Verhängung von Ordnungsbussen durch die Gemeinden, der sinngemäss gilt, an die Gemeinden übertragen; die besonderen Bestimmungen dieses Reglements bleiben vorbehalten.
+**…**
 
 #### Art. 14c
 
-**Übertragung der Kompetenz – Besondere Bestimmungen**
-
-<sup>1</sup> Die Gemeindebeamtinnen und ‑beamten, die in Anwendung dieses Reglements mit der Erhebung von Ordnungsbussen beauftragt sind, tragen eine Dienstuniform oder zumindest ein Kennzeichen.
-
-<sup>2</sup> Bei der Prüfung der Gesuche der Gemeinden für eine Übertragung der Kompetenz hört die Sicherheits- und Justizdirektion die Raumplanungs-, Umwelt- und Baudirektion an, bevor sie das Gesuch an den Staatsrat weiterleitet.
+**…**
 
 ## 4 Schlussbestimmungen
 
@@ -194,9 +182,9 @@ beschliesst:
 
 **Übergangsrecht betreffend die Änderung vom 10. Dezember 2019**
 
-<sup>1</sup> Die Gemeinden, die bei Inkrafttreten der Änderung vom 10. Dezember 2019 dieses Reglements über eine Kompetenzübertragung gemäss Beschluss über die Verhängung von Ordnungsbussen durch die Gemeinden verfügen, sind befugt, Ordnungsbussen nach dem Gesetz über die Abfallbewirtschaftung und diesem Reglement zu verhängen.
+<sup>1</sup> Die Gemeinden, die bei Inkrafttreten der Änderung dieses Reglements vom 10. Dezember 2019 über eine Kompetenzdelegation gemäss KOBG verfügen, sind befugt, Ordnungsbussen nach dem Gesetz über die Abfallbewirtschaftung und diesem Reglement zu verhängen, bis die Übertragung der Kompetenz an die Gemeinde erneuert werden muss.
 
-<sup>2</sup> Die mit der Erhebung von Ordnungsbussen betrauten Beamtinnen und Beamten, welche die obligatorische Ausbildung nach Artikel 5 Abs. 2 des Beschlusses vom 20. September 1993 über die Verhängung von Ordnungsbussen durch die Gemeinden bereits besucht haben, sind von der obligatorischen Schulung befreit, bis die Übertragung der Kompetenz an die Gemeinde erneuert werden muss.
+<sup>2</sup> Die mit der Erhebung von Ordnungsbussen betrauten Beamtinnen und Beamten, welche die obligatorische Ausbildung nach Artikel 12 Abs. 1 Bst. b KOBG bereits besucht haben, sind von der obligatorischen Ausbildung befreit, bis die Übertragung der Kompetenz an die Gemeinde erneuert werden muss.
 
 #### Art. 16
 

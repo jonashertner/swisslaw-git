@@ -4,13 +4,13 @@ number: "810.21"
 title: Règlement sur la gestion des déchets
 short: RGD
 language: fr
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-12-10
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-11-23
 adopted: 1998-01-20
 in_force: 1998-02-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/810.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6451/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6979/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Gestion des déchets – R
 
 (RGD)
 
-du 20.01.1998 (version entrée en vigueur le 01.01.2020)
+du 20.01.1998 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -150,7 +150,7 @@ Arrête:
 
 <sup>2</sup> Elle peut assortir cette dernière de charges et conditions relatives à l'exploitation et à la durée de l'autorisation.
 
-## 3 Dispositions pénales
+## 3
 
 #### Art. 13
 
@@ -162,27 +162,15 @@ Arrête:
 
 #### Art. 14a
 
-**Montant forfaitaire des amendes d'ordre (art. 36a al. 4 LGD)**
-
-<sup>1</sup> Le montant forfaitaire des amendes d'ordre est fixé à 50 francs pour les petits déchets isolés tels que mégot, chewing-gum, reste de repas, papier, emballage, canette, bouteille.
-
-<sup>2</sup> Le montant forfaitaire des amendes d'ordre est fixé à 150 francs pour un ensemble de petits déchets tels que mégots, chewing-gums, restes de repas, papiers, emballages, canettes, bouteilles, d'un volume total allant jusqu'à 17 litres.
-
-<sup>3</sup> Le présent règlement ne s'applique pas aux mineur‑e‑s de moins de 15 ans conformément à l'article 24 al. 1 de la loi fédérale du 20 juin 2003 régissant la condition pénale des mineurs et à l'article 4 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif.
+**…**
 
 #### Art. 14b
 
-**Délégation de compétence – Principe**
-
-<sup>1</sup> Sous réserve des dispositions particulières prévues par le présent règlement, la délégation, aux communes, de la compétence de percevoir des amendes d'ordre sur la base de la loi sur la gestion des déchets et du présent règlement s'opère selon l'arrêté concernant la délégation, aux communes, de la compétence d'infliger des amendes d'ordre, applicable par analogie.
+**…**
 
 #### Art. 14c
 
-**Délégation de compétence – Dispositions particulières**
-
-<sup>1</sup> Les agents et agentes communaux chargés de percevoir des amendes d'ordre en application du présent règlement portent un uniforme ou, à tout le moins, un signe distinctif.
-
-<sup>2</sup> Lors de l'examen des demandes de délégation formulées par les communes, la Direction de la sécurité et de la justice consulte la Direction de l'aménagement, de l'environnement et des constructions avant de les transmettre au Conseil d'Etat.
+**…**
 
 ## 4 Dispositions finales
 
@@ -194,9 +182,9 @@ Arrête:
 
 **Droit transitoire relatif à la modification du 10 décembre 2019**
 
-<sup>1</sup> Les communes bénéficiant, à la date d'entrée en vigueur de la modification du 10 décembre 2019 du présent règlement, d'une délégation de compétence, au sens de l'arrêté concernant la délégation, aux communes, de la compétence d'infliger des amendes d'ordre, sont habilitées à infliger les amendes d'ordre en lien avec la loi sur la gestion des déchets et le présent règlement.
+<sup>1</sup> Les communes bénéficiant, à la date d'entrée en vigueur de la modification du 10 décembre 2019 du présent règlement, d'une délégation de compétence au sens de la LCAO, sont habilitées à infliger les amendes d'ordre en lien avec la loi sur la gestion des déchets et le présent règlement, jusqu'au renouvellement de la délégation octroyée.
 
-<sup>2</sup> Les agents et agentes préposés à la perception des amendes d'ordre ayant déjà suivi la formation obligatoire prévue par l'article 5 al. 2 de l'arrêté du 20 septembre 1993 concernant la délégation, aux communes, de la compétence d'infliger des amendes d'ordre sont dispensés de la formation obligatoire jusqu'au renouvellement de la délégation octroyée.
+<sup>2</sup> Les agents et agentes préposés à la perception des amendes d'ordre ayant déjà suivi la formation obligatoire prévue par l'article 12 al. 1 let. b de la LCAO sont dispensés de la formation obligatoire jusqu'au renouvellement de la délégation octroyée.
 
 #### Art. 16
 
