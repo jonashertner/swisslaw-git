@@ -4,13 +4,13 @@ number: "842.11"
 title: "Loi portant introduction des lois fédérales sur l'assurance-maladie, sur l'assurance-accidents et sur l'assurance militaire"
 short: LiLAMAM
 language: fr
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-09
+version: 2022-01-01
+valid_until: 2026-08-31
+version_adopted: 2020-11-25
 adopted: 2000-06-06
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/842.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2214/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2435/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2214/pdf_file"
 
 (LiLAMAM)
 
-du 06.06.2000 (état au 01.07.2021)
+du 06.06.2000 (état au 01.01.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -134,7 +134,7 @@ arrête:
 
 **Rémunération 1. Part cantonale**
 
-<sup>1</sup> Le Conseil-exécutif fixe annuellement la part cantonale au sens de l’article 49a, alinéa 2 LAMal.
+<sup>1</sup> Le Conseil-exécutif fixe la part cantonale au sens de l’article 49a, alinéa 2 LAMal.
 
 #### Art. 9b
 

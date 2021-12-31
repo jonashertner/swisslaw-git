@@ -4,13 +4,13 @@ number: "842.11"
 title: "Gesetz betreffend die Einführung der Bundesgesetze über die Kranken-, die Unfall- und die Militärversicherung"
 short: EG KUMV
 language: de
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-09
+version: 2022-01-01
+valid_until: 2026-08-31
+version_adopted: 2020-11-25
 adopted: 2000-06-06
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/842.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2214/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2435/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2214/pdf_file"
 
 (EG KUMV)
 
-vom 06.06.2000 (Stand 01.07.2021)
+vom 06.06.2000 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -134,7 +134,7 @@ beschliesst:
 
 **Abgeltung 1. Kantonaler Anteil**
 
-<sup>1</sup> Der Regierungsrat setzt den kantonalen Anteil nach Artikel 49a Absatz 2 KVG jährlich fest.
+<sup>1</sup> Der Regierungsrat setzt den kantonalen Anteil nach Artikel 49a Absatz 2 KVG fest.
 
 #### Art. 9b
 
