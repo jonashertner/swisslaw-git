@@ -4,11 +4,10 @@ number: "232.3"
 title: Einführungsgesetz zum Kindes- und Erwachsenenschutzrecht (EG KESR)
 short: EG KESR
 language: de
-version: "2021-01-01"
-nachtrag: "111"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
 adopted: 2012-06-25
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-232_3-2012_06_25-2013_01_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-232_3-2012_06_25-2013_01_01-115.html"
 text: pdf
 ---
 
@@ -55,7 +54,7 @@ Dieses Gesetz regelt die Umsetzung der Bestimmungen des ZGB[^h1AbschnittAllgem-1
 
 **1**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Der Regierungsrat legt nach Anhörung der Gemeinden die Kreise fest. Er berücksichtigt dabei insbesondere a. die mutmassliche Anzahl Fälle in den betreffenden Gemeinden,
 
@@ -154,7 +153,7 @@ Die Mitglieder der KESB sind bei ihren Entscheiden an keine Weisungen gebunden.
 
 **3**
 
-- 1\. 1. 21 - 111 § 12. <sup>1</sup> Jede KESB führt das Sekretariat an ihrem organisationsrechtlichen Sitz.
+- 1\. 1. 22 - 115 § 12. <sup>1</sup> Jede KESB führt das Sekretariat an ihrem organisationsrechtlichen Sitz.
 
 **Sekretariat**
 
@@ -260,7 +259,7 @@ Die Kostentragung bei Massnahmen, welche die KESB oder eine Ärztin oder ein Arz
 
 **5**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 <sup>3</sup> Beim Tod der betroffenen Person können die Erbinnen und Erben bis zur Höhe der nach dem Schuldenabzug verbleibenden Erbschaft zur Nachzahlung der Kosten verpflichtet werden.
 
@@ -364,7 +363,7 @@ Entscheide über die Unterbringung freiwillig Eingetretener gemäss Art. 427 Abs
 
 **7**
 
-- 1\. 1. 21 - 111 § 33. <sup>1</sup> Die Einrichtung kann eine fürsorgerisch untergebrachte Person, die beurlaubt worden oder entwichen ist, innert dreier Monate ohne neues Einweisungsverfahren wieder aufnehmen, wenn die Voraussetzungen von Art. 426 Abs. 1 und 2 ZGB erfüllt sind.
+- 1\. 1. 22 - 115 § 33. <sup>1</sup> Die Einrichtung kann eine fürsorgerisch untergebrachte Person, die beurlaubt worden oder entwichen ist, innert dreier Monate ohne neues Einweisungsverfahren wieder aufnehmen, wenn die Voraussetzungen von Art. 426 Abs. 1 und 2 ZGB erfüllt sind.
 
 **Wiederaufnahme entwichener oder beurlaubter Personen**
 
@@ -463,7 +462,7 @@ Vor der Entlassung einer fürsorgerisch untergebrachten Person trifft die Einric
 
 **9**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 <sup>3</sup> Ambulante Massnahmen werden für längstens zwei Jahre angeordnet. Sie können verlängert werden.
 
@@ -516,67 +515,68 @@ Das Verfahren ist nicht öffentlich.
 
 <sup>2</sup> Zur Anordnung vorsorglicher Massnahmen ist bei besonderer Dringlichkeit (Art. 445 Abs. 2 ZGB) auch jedes Mitglied der KESB zuständig.
 
+[^44-1]: Fassung gemäss Kinder- und Jugendheimgesetz vom 27. November 2017 (OS 74, 322; ABl 2015-08-28). In Kraft seit 1. Januar 2022 (OS 76, 622). 1. 1. 22 - 115 19
+
+#### § 45
+
 **b. Einzelzuständigkeit**
 
-§ 45.[^44-1] <sup>1</sup> Ein Mitglied der KESB entscheidet über die a. Gewährung der Vollstreckungshilfe, soweit das kantonale Recht keine andere Behörde für zuständig erklärt (Art. 131 Abs. 1 und 290 ZGB),
+<sup>1</sup> Ein Mitglied der KESB entscheidet über die[^44-1] a. Gewährung der Vollstreckungshilfe, soweit das kantonale Recht keine andere Behörde für zuständig erklärt (Art. 131 Abs. 1 und 290 ZGB),
 
 - b. Antragstellung auf Neuregelung der elterlichen Sorge beim Scheidungs- oder Trennungsgericht (Art. 134 Abs. 1 ZGB),
 
 - c. Genehmigung von Unterhaltsverträgen (Art. 134 Abs. 3 und Art. 287 Abs. 1 ZGB) sowie Neuregelung der elterlichen Sorge, der Obhut, des persönlichen Verkehrs oder der Betreuungsanteile (Art. 134 Abs. 3 und Art. 298 d ZGB) bei Einigkeit der Eltern,
 
-- d. Antragstellung zur Anordnung einer Kindesvertretung im Scheidungs- oder Trennungsprozess (Art. 299 Abs. 2 Bst. b ZPO[^44-2],
+- d. Antragstellung zur Anordnung einer Kindesvertretung im Scheidungs- oder Trennungsprozess (Art. 299 Abs. 2 Bst. b ZPO[^45-1],
 
 - e. Entgegennahme der Zustimmungserklärung von Vater und Mutter zur Adoption (Art. 265 a Abs. 2 ZGB),
 
 - f. Entgegennahme der gemeinsamen Erklärung betreffend gemeinsame elterliche Sorge (Art. 298 a Abs. 4 ZGB) und Regelung des persönlichen Verkehrs und des Unterhaltes bei Einigkeit der Eltern (Art. 273 Abs. 3 und Art. 287 Abs. 1 ZGB),
 
-- g. Regelung der Anrechnung der Erziehungsgutschriften bei gemeinsamer elterlicher Sorge geschiedener oder nicht miteinander verheirateter Eltern aufgrund einer Erklärung der Eltern an das Zivilstandsamt oder an die KESB, wenn die Eltern keine Vereinbarung einreichen (Art. 52 f<sup>bis</sup> Abs. 3 der Verordnung vom 31. Oktober 1947 über die Alters- und Hinterlassenenversicherung[^44-3],
+- g. Regelung der Anrechnung der Erziehungsgutschriften bei gemeinsamer elterlicher Sorge geschiedener oder nicht miteinander verheirateter Eltern aufgrund einer Erklärung der Eltern an das Zivilstandsamt oder an die KESB, wenn die Eltern keine Vereinbarung einreichen (Art. 52 f<sup>bis</sup> Abs. 3 der Verordnung vom 31. Oktober 1947 über die Alters- und Hinterlassenenversicherung[^45-2],
 
 - h. Aufforderung an die Eltern zu einer Mediation (Art. 314 Abs. 2 ZGB),
 
-- i. Erteilung der Bewilligung zur Aufnahme eines Pflegekindes und Ausübung der Pflegekinderaufsicht, soweit keine andere Behörde zuständig ist (Art. 316 Abs. 1 ZGB),
+- i. Anordnung der Inventaraufnahme oder der periodischen Rechnungsstellung und Berichterstattung über das Kindesvermögen (Art. 318 Abs. 3 und 322 Abs. 2 ZGB) sowie Entgegennahme des Kindesvermögensinventars nach dem Tod eines Elternteils (Art. 318 Abs. 2 ZGB),
 
-- j. Anordnung der Inventaraufnahme oder der periodischen Rechnungsstellung und Berichterstattung über das Kindesvermögen (Art. 318 Abs. 3 und 322 Abs. 2 ZGB) sowie Entgegennahme des Kindesvermögensinventars nach dem Tod eines Elternteils (Art. 318 Abs. 2 ZGB),
+- j. Bewilligung zur Anzehrung des Kindesvermögens (Art. 320 Abs. 2 ZGB),
 
-- k. Bewilligung zur Anzehrung des Kindesvermögens (Art. 320 Abs. 2 ZGB),
+- k. Feststellung der Wirksamkeit, Auslegung und Ergänzung des Vorsorgeauftrags sowie Festlegung der Entschädigung und Spesen der beauftragten Person (Art. 363, 364 und 366 ZGB),
 
-- l. Feststellung der Wirksamkeit, Auslegung und Ergänzung des Vorsorgeauftrags sowie Festlegung der Entschädigung und Spesen der beauftragten Person (Art. 363, 364 und 366 ZGB),
+- l. Prüfung der Kündigung des Vorsorgeauftrags (Art. 367 ZGB),
 
-- m. Prüfung der Kündigung des Vorsorgeauftrags (Art. 367 ZGB),
+- m. Zustimmung zu Rechtshandlungen des Ehegatten bzw. der eingetragenen Partnerin oder des eingetragenen Partners im Rahmen der ausserordentlichen Vermögensverwaltung (Art. 374 Abs. 3 ZGB),
 
 **11**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
-- n. Zustimmung zu Rechtshandlungen des Ehegatten bzw. der eingetragenen Partnerin oder des eingetragenen Partners im Rahmen der ausserordentlichen Vermögensverwaltung (Art. 374 Abs. 3 ZGB),
+- n. Festlegung der Vertretungsberechtigung bei medizinischen Massnahmen (Art. 381 Abs. 2 und 3 und 382 Abs. 3 ZGB),
 
-- o. Festlegung der Vertretungsberechtigung bei medizinischen Massnahmen (Art. 381 Abs. 2 und 3 und 382 Abs. 3 ZGB),
+- o. Aufnahme eines Inventars sowie dessen Prüfung und Genehmigung (Art. 405 Abs. 2 und Art. 553 Abs. 1 Ziff. 1, 2 und 4 ZGB),
 
-- p. Aufnahme eines Inventars sowie dessen Prüfung und Genehmigung (Art. 405 Abs. 2 und Art. 553 Abs. 1 Ziff. 1, 2 und 4 ZGB),
+- p. Anordnung der Aufnahme eines öffentlichen Inventars (Art. 405 Abs. 3 ZGB),
 
-- q. Anordnung der Aufnahme eines öffentlichen Inventars (Art. 405 Abs. 3 ZGB),
+- q. Prüfung und Genehmigung der Rechnung und des Berichts (Art. 318 Abs. 3, Art. 322 Abs. 2, Art. 415 Abs. 1 und 2 und 425 Abs. 2 ZGB) und Festsetzung der Entschädigung der Beiständin oder des Beistandes (Art. 404 Abs. 2 ZGB),
 
-- r. Prüfung und Genehmigung der Rechnung und des Berichts (Art. 318 Abs. 3, Art. 322 Abs. 2, Art. 415 Abs. 1 und 2 und 425 Abs. 2 ZGB) und Festsetzung der Entschädigung der Beiständin oder des Beistandes (Art. 404 Abs. 2 ZGB),
+- r. Anordnung einer Vertretungsbeistandschaft für das ungeborene Kind zur Wahrung erbrechtlicher Ansprüche (Art. 544 Abs. 1<sup>bis</sup> ZGB),
 
-- s. Anordnung einer Vertretungsbeistandschaft für das ungeborene Kind zur Wahrung erbrechtlicher Ansprüche (Art. 544 Abs. 1<sup>bis</sup> ZGB),
+- s. Vollstreckung von Entscheiden (Art. 450 g Abs. 1 ZGB),
 
-- t. Vollstreckung von Entscheiden (Art. 450 g Abs. 1 ZGB),
+- t. Auskunftserteilung über das Vorliegen und die Wirkungen einer Massnahme des Erwachsenenschutzes (Art. 451 Abs. 2 ZGB),
 
-- u. Auskunftserteilung über das Vorliegen und die Wirkungen einer Massnahme des Erwachsenenschutzes (Art. 451 Abs. 2 ZGB),
+- u. Antragstellung auf Anordnung eines Inventars (Art. 553 Abs. 1 Ziff. 3 ZGB),
 
-- v. Antragstellung auf Anordnung eines Inventars (Art. 553 Abs. 1 Ziff. 3 ZGB),
+- v. Stellung eines Strafantrages (Art. 30 Abs. 2 StGB[^45-3],
 
-- w. Stellung eines Strafantrages (Art. 30 Abs. 2 StGB[^44-4],
-
-- x. Entscheide in Vermögensangelegenheiten gemäss der Verordnung vom 4. Juli 2012 über die Vermögensverwaltung im Rahmen einer Beistandschaft oder Vormundschaft[^44-5].
+- w. Entscheide in Vermögensangelegenheiten gemäss der Verordnung vom 4. Juli 2012 über die Vermögensverwaltung im Rahmen einer Beistandschaft oder Vormundschaft[^45-4].
 
 <sup>2</sup> Im Zusammenhang mit einem hängigen Verfahren kann das Kollegium aus zureichenden Gründen über Geschäfte gemäss Abs. 1 entscheiden.
 
-[^44-1]: Fassung gemäss G vom 25. April 2016 (OS 72, 13; ABl 2014-05-30). In Kraft seit 1. März 2017.
-[^44-2]: SR 272.
-[^44-3]: SR 831.101.
-[^44-4]: SR 311.0.
-[^44-5]: SR 211.223.11.
+[^45-1]: SR 272.
+[^45-2]: SR 831.101.
+[^45-3]: SR 311.0.
+[^45-4]: SR 211.223.11.
 
 #### § 46
 
@@ -640,7 +640,7 @@ Die Einladung zu einer Anhörung gemäss Art. 447 Abs. 1 ZGB kann formlos und oh
 
 **13**
 
-- 1\. 1. 21 - 111 § 52. Der wesentliche Inhalt der Anhörung wird von der Person, welche die Anhörung durchführt, oder einer Mitarbeiterin oder einem Mitarbeiter des Sekretariats schriftlich festgehalten.
+- 1\. 1. 22 - 115 § 52. Der wesentliche Inhalt der Anhörung wird von der Person, welche die Anhörung durchführt, oder einer Mitarbeiterin oder einem Mitarbeiter des Sekretariats schriftlich festgehalten.
 
 #### § 53
 
@@ -752,7 +752,7 @@ Für die Aufbewahrung von Akten abgeschlossener Verfahren gelten folgende Friste
 
 **15**
 
-- 1\. 1. 21 - 111 § 63. <sup>1</sup> Beschwerden gemäss Art. 450 Abs. 1 ZGB werden in erster Instanz vom Bezirksrat beurteilt. Zuständig ist
+- 1\. 1. 22 - 115 § 63. <sup>1</sup> Beschwerden gemäss Art. 450 Abs. 1 ZGB werden in erster Instanz vom Bezirksrat beurteilt. Zuständig ist
 
 **b. Beschwerden gemäss Art. 450 Abs. 1 ZGB**
 
@@ -838,7 +838,7 @@ Auf das Beschwerdeverfahren sind § 44 Abs. 2 und § 60 Abs. 1 sinngemäss anwen
 
 § 74 a.[^h7AbschnittWeiter-2] Die Kindes- und Erwachsenenschutzbehörden melden Regelungen betreffend die elterliche Sorge über minderjährige Personen unentgeltlich der Gemeinde, in der diese Personen als niedergelassen gemeldet sind. Die Meldung umfasst Namen und Adressen der sorgeberechtigten Personen.
 
-[^h7AbschnittWeiter-1]: Aufgehoben durch Gesetz über das Meldewesen und die Einwohnerregister vom 11. Mai 2015 (OS 70, 407; ABl 2014-10-31). In Kraft seit 1. Januar 2021. 1. 1. 21 - 111 19
+[^h7AbschnittWeiter-1]: Aufgehoben durch Gesetz über das Meldewesen und die Einwohnerregister vom 11. Mai 2015 (OS 70, 407; ABl 2014-10-31). In Kraft seit 1. Januar 2021.
 [^h7AbschnittWeiter-2]: Eingefügt durch Gesetz über das Meldewesen und die Einwohnerregister vom 11. Mai 2015 (OS 70, 407; ABl 2014-10-31). In Kraft seit 1. Januar 2016.
 
 #### § 75
@@ -873,7 +873,7 @@ Die KESB ist Hinterlegungsort für Vorsorgeaufträge (Art. 361 Abs. 3 ZGB).
 
 **17**
 
-- 1\. 1. 21 - 111 § 79. Bei Personen, die im Zeitpunkt des Inkrafttreten dieses Gesetzes bevormundet sind, richtet sich der Sitz der KESB gemäss Art. 25 Abs. 2 und 26 ZGB nach ihrem Lebensmittelpunkt.
+- 1\. 1. 22 - 115 § 79. Bei Personen, die im Zeitpunkt des Inkrafttreten dieses Gesetzes bevormundet sind, richtet sich der Sitz der KESB gemäss Art. 25 Abs. 2 und 26 ZGB nach ihrem Lebensmittelpunkt.
 
 [^h8AbschnittÜberga-1]: Inkrafttreten: 26. September 2012.
 [^h8AbschnittÜberga-2]: Fassung gemäss Gemeindegesetz vom 20. April 2015 (OS 72, 183; ABl 2013- 04-19). In Kraft seit 1. Januar 2018.
@@ -926,3 +926,7 @@ und Strafprozess (GOG) vom 10. Mai 2010 (LS 211.1): . . .[^h5GesetzüberdieG-1] 
 gesetz; ZLG) vom 7. Februar 1971 (LS 831.3): . . .[^hHinterlassenenund-1] 12. Sozialhilfegesetz (SHG) vom 14. Juni 1981 (LS 851.1): . . .[^hHinterlassenenund-1] 13. Kinder- und Jugendhilfegesetz (KJHG) vom 14. März 2011 (LS 852.1): . . .[^hHinterlassenenund-1] 14. Jugendhilfegesetz vom 14. Juni 1981: . . .[^hHinterlassenenund-1] 15. Gesetz über Jagd und Vogelschutz vom 12. Mai 1929 (LS 922.1): . . .[^hHinterlassenenund-1] 16. Gesetz über die Fischerei vom 5. Dezember 1976 (LS 923.1): . . .[^hHinterlassenenund-1]
 
 [^hHinterlassenenund-1]: Text siehe OS 67, 443.
+
+## Weitere Fussnoten
+
+- [20] Fassung gemäss G vom 25. April 2016 (OS 72, 13; ABl 2014-05-30). In Kraft seit 1. März 2017.
