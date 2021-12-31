@@ -1,27 +1,27 @@
 ---
 canton: FR
 number: "181.1"
-title: Ombudsgesetz
-short: OmbG
+title: Gesetz über die Mediation für Verwaltungsangelegenheiten
+short: MedG
 language: de
-version: 2017-01-01
-valid_until: 2021-12-31
-version_adopted: 2015-06-25
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-10-07
 adopted: 2015-06-25
 in_force: 2017-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/181.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6736/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7471/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ombudsgesetz
+# Gesetz über die Mediation für Verwaltungsangelegenheiten
 
 Ombudsgesetz
 
-(OmbG)
+(MedG)
 
-vom 25.06.2015 (Fassung in Kraft getreten am 01.01.2017)
+vom 25.06.2015 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -108,9 +108,19 @@ beschliesst:
 
 #### Art. 6
 
-**Administrative Zuweisung**
+**Kantonale Behörde**
 
-<sup>1</sup> Die kantonale Mediatorin oder der kantonale Mediator ist administrativ der Staatskanzlei zugewiesen.
+<sup>1</sup> Die kantonale Mediatorin oder der kantonale Mediator wird administrativ in die Kantonale Behörde für Öffentlichkeit, Datenschutz und Mediation (die Behörde) integriert.
+
+<sup>2</sup> Im Bereich der Mediation hat die kantonale Öffentlichkeits-, Datenschutz- und Mediationskommission (die Kommission) folgende Aufgaben:
+
+- a) Sie stellt die Koordination zwischen der Ausübung der Mediationstätigkeit durch die kantonale Mediatorin oder den kantonalen Mediator, der Ausübung des Rechts auf Zugang zu amtlichen Dokumenten und den Erfordernissen des Datenschutzes sicher.
+- b) Sie führt das Verfahren zur Ernennung der kantonalen Mediatorin oder des kantonalen Mediators für den Staatsrat durch und nimmt zuhanden des Staatsrats Stellung zu den von ihr bevorzugten Kandidatinnen und Kandidaten.
+- c) Sie nimmt Stellung zu Erlassentwürfen, welche die Mediation betreffen.
+- d) Sie übt die Aufsicht über die Geschäftsführung der Mediationstätigkeit aus.
+- e) Sie sorgt dafür, dass die Unabhängigkeit der kantonalen Mediatorin oder des kantonalen Mediators gewährleistet ist.
+
+<sup>3</sup> Die Kommission erhält den Tätigkeitsbericht der kantonalen Mediatorin oder des kantonalen Mediators und fügt ihn unverändert in ihren Bericht ein, den sie über den Staatsrat an den Grossen Rat richtet. Sie kann ihre eigenen Einschätzungen dazu separat anfügen.
 
 #### Art. 7
 
@@ -122,11 +132,9 @@ beschliesst:
 
 **Verhinderung**
 
-<sup>1</sup> Bei dauerhafter Verhinderung der kantonalen Mediatorin oder des kantonalen Mediators bezeichnet der Staatsrat eine Person, die das Amt interimistisch ausübt.
+<sup>1</sup> Bei dauerhafter Verhinderung der kantonalen Mediatorin oder des kantonalen Mediators bezeichnet der Staatsrat nach Stellungnahme der Kommission eine Person, die das Amt interimistisch ausübt.
 
-<sup>2</sup> Bei punktueller Verhinderung wird die kantonale Mediatorin oder der kantonale Mediator von der zuständigen Mediationsbeauftragten oder vom zuständigen Mediationsbeauftragten im Bereich des Zugangs zu Informationen[^8-1] vertreten.
-
-[^8-1]: Heute: die oder der kantonale Beauftragte für Öffentlichkeit und Transparenz.
+<sup>2</sup> Bei punktueller Verhinderung wird die kantonale Mediatorin oder der kantonale Mediator von einer von der Kommission dazu bestimmten Person vertreten.
 
 #### Art. 9
 
@@ -137,9 +145,9 @@ beschliesst:
 - a) wenn die Ernennungsvoraussetzungen nicht mehr erfüllt sind;
 - b) im Falle von Arbeitsunfähigkeit oder wenn ein anderer Grund, der die Belassung im Amt verunmöglicht, vorliegt.
 
-<sup>2</sup> Das Abberufungsverfahren wird vom Staatsrat eröffnet.
+<sup>2</sup> Das Abberufungsverfahren wird vom Staatsrat auf Antrag der Kommission eröffnet.
 
-<sup>3</sup> Der Staatsrat kann die kantonale Mediatorin oder den kantonalen Mediator gemäss den Bestimmungen des Gesetzes über das Staatspersonal, die sinngemäss gelten, vorläufig in ihrer oder seiner Tätigkeit suspendieren.
+<sup>3</sup> Der Staatsrat kann die kantonale Mediatorin oder den kantonalen Mediator auf Antrag der Kommission gemäss den Bestimmungen des Gesetzes über das Staatspersonal, die sinngemäss gelten, vorläufig in ihrer oder seiner Tätigkeit suspendieren.
 
 <sup>4</sup> Die Bestimmungen der Gesetzgebung über das Staatspersonal über die Entlassung aus wichtigen Gründen bleiben vorbehalten.
 
@@ -149,9 +157,9 @@ beschliesst:
 
 <sup>1</sup> Die kantonale Mediatorin oder der kantonale Mediator bestimmt die Organisation zur Erfüllung ihrer oder seiner Aufgabe selbst.
 
-<sup>2</sup> Sie oder er verfügt über ein Globalbudget, dessen Betrag alljährlich bei der Verabschiedung des Staatsvoranschlags festgelegt wird.
+<sup>2</sup> Ihr oder sein Budget wird in das Globalbudget nach Artikel 32 Abs. 3 des Gesetzes vom 25. November 1994 über den Datenschutz integriert.
 
-<sup>3</sup> Sie oder er übt ihre oder seine Tätigkeit in Räumlichkeiten aus, die mit dem Sekretariat der Öffentlichkeits- und Datenschutzkommission gemeinsam genutzt werden. Sie oder er spricht sich mit diesem ab und kann über dessen Personal verfügen.
+<sup>3</sup> …
 
 #### Art. 11
 
@@ -159,7 +167,7 @@ beschliesst:
 
 <sup>1</sup> Die kantonale Mediatorin oder der kantonale Mediator darf in einem Verwaltungsverfahren, einem Zivilverfahren oder einem Strafverfahren zu Feststellungen, die sie oder er bei der Ausübung ihrer oder seiner Tätigkeit gemacht hat, das Zeugnis verweigern, selbst wenn sie oder er vom Amtsgeheimnis entbunden worden ist.
 
-<sup>2</sup> Dies gilt ebenso für das Personal des Sekretariats der Öffentlichkeits- und Datenschutzkommission, mit dem die kantonale Mediatorin oder der kantonale Mediator beim Ausüben ihrer oder seiner Tätigkeit zusammenarbeitet.
+<sup>2</sup> Dies gilt ebenso für die Mitglieder der Kommission und das Personal der Behörde, insofern sie oder es mit der kantonalen Mediatorin oder dem kantonalen Mediator beim Ausüben ihrer oder seiner Tätigkeit zusammenarbeiten.
 
 #### Art. 12
 
@@ -170,23 +178,27 @@ beschliesst:
 - a) Sie oder er informiert ratsuchende Personen über das Vorgehen in Verwaltungsangelegenheiten.
 - b) Sie oder er interveniert, um einem Konflikt vorzubeugen oder eine einvernehmliche Lösung zu suchen .
 
-<sup>2</sup> Sie oder er erfüllt ihre oder seine Aufgaben innerhalb angemessener Fristen.
+<sup>2</sup> Sie oder er erfüllt ihre oder seine Aufgaben innerhalb angemessener Fristen und unter Wahrung der allgemeinen Grundsätze der Tätigkeit der Verwaltungsbehörden.
 
-<sup>3</sup> Sie oder er informiert die Öffentlichkeit regelmässig über ihre oder seine Tätigkeit und legt dem Staatsrat zuhanden des Grossen Rates jährlich einen Bericht vor, in dem sie oder er über ihre oder seine Tätigkeit Rechenschaft abgibt. Die Anonymität der Personen, welche die Intervention der kantonalen Mediatorin oder des kantonalen Mediators beantragt haben, wird gewährleistet. Dasselbe gilt, ausser in Ausnahmefällen, auch für die Mitarbeiterinnen und Mitarbeiter der beschuldigten Behörden.
+<sup>2a</sup> Bei Bedarf kann die kantonale Mediatorin oder der kantonale Mediator die Kommission um Unterstützung ersuchen. Sie oder er ist jedoch nicht verpflichtet, sich nach deren Meinung zu richten.
+
+<sup>3</sup> Sie oder er informiert die Öffentlichkeit regelmässig über ihre oder seine Tätigkeit und richtet ihren oder seinen Jahresbericht an die Kommission, die diesen nach Artikel 6 Abs. 3 in ihren eigenen Bericht integriert. Dabei wird die Anonymität der Personen, welche die Intervention der kantonalen Mediatorin oder des kantonalen Mediators beantragt haben, gewahrt. Dasselbe gilt, ausser in Ausnahmefällen, auch für die Mitarbeiterinnen und Mitarbeiter der beschuldigten Behörden.
 
 ## 3 Mediationsverfahren
 
 #### Art. 13
 
-**Einleitung – Gesuch**
+**Grundsatz**
 
 <sup>1</sup> Die kantonale Mediatorin oder der kantonale Mediator wird auf Gesuch der betroffenen Person oder der für das Dossier zuständigen Kantonsbehörde aktiv.
 
 <sup>2</sup> Sie oder er kann nicht von sich aus tätig werden.
 
+<sup>3</sup> Ohne Einverständnis der Parteien kann kein Mediationsverfahren durchgeführt werden.
+
 #### Art. 14
 
-**Einleitung – Zulässigkeit**
+**Eintretensvoraussetzungen**
 
 <sup>1</sup> Bevor die betroffene Person ein Gesuch einreicht, muss sie die üblichen Schritte zur einvernehmlichen Beilegung des Streitfalls bei den für das Dossier zuständigen Kantonsbehörden unternommen haben.
 
@@ -210,7 +222,7 @@ beschliesst:
 
 <sup>1</sup> Für den Ausstand der kantonalen Mediatorin oder des kantonalen Mediators gelten die Artikel 21–25 VRG.
 
-<sup>2</sup> Der Staatsrat ist die vorgesetzte Behörde im Sinne dieser Bestimmungen.
+<sup>2</sup> Die Kommission ist die Behörde im Sinne dieser Bestimmungen.
 
 #### Art. 17
 
@@ -218,15 +230,17 @@ beschliesst:
 
 <sup>1</sup> Nach Eingang eines Gesuchs entscheidet die kantonale Mediatorin oder der kantonale Mediator, ob und gegebenenfalls wie sie oder er sich mit der Angelegenheit befassen will.
 
-<sup>2</sup> Ist sie oder er der Auffassung, dass das Gesuch nicht in den Anwendungsbereich dieses Gesetzes fällt oder dass die Voraussetzungen für die Zulässigkeit nach Artikel 14 nicht erfüllt sind, so informiert sie oder er die Gesuchstellerin oder den Gesuchsteller und gibt ihr oder ihm die Möglichkeit, sich zu äussern.
+<sup>2</sup> Ist sie oder er der Auffassung, dass das Gesuch nicht in den Anwendungsbereich dieses Gesetzes fällt oder dass die Eintretensvoraussetzungen nach Art. 14 nicht erfüllt sind, so informiert sie oder er die Gesuchstellerin oder den Gesuchsteller und gibt ihr oder ihm die Möglichkeit, sich zu äussern.
+
+<sup>3</sup> Ist sie oder er der Auffassung, dass das Gesuch in den Anwendungsbereich dieses Gesetzes fällt und dass die Eintretensvoraussetzungen nach Artikel 14 erfüllt sind, teilt sie oder er den Inhalt der betroffenen Behörde mit und ersucht sie um ihr Einverständnis für einen Mediationsversuch. Lehnt die betroffene Behörde ab, so muss sie das schriftlich begründen.
 
 #### Art. 18
 
 **Prüfung der Angelegenheit**
 
-<sup>1</sup> Beschliesst die kantonale Mediatorin oder der kantonale Mediator, ein Gesuch zu prüfen, so informiert sie oder er die anderen Parteien und gibt ihnen Gelegenheit, sich zu äussern.
+<sup>1</sup> Wenn sie oder er dem Gesuch Folge geben kann, lädt die kantonale Mediatorin oder der kantonale Mediator die Partei ein, deren Handeln in Frage gestellt wird, sich zu der Angelegenheit zu äussern.
 
-<sup>2</sup> Sie oder er unternimmt die notwendigen Schritte, um den Sachverhalt festzustellen und die Gründe des Gesuchs zu ermitteln.
+<sup>2</sup> Sie oder er unternimmt die notwendigen Schritte, um den Sachverhalt festzustellen und die Gründe für den Konflikt zu verstehen.
 
 <sup>3</sup> Zur Abklärung des Sachverhalts kann die kantonale Mediatorin oder der kantonale Mediator jederzeit:
 
@@ -237,6 +251,8 @@ beschliesst:
 - e) ausnahmsweise Fachpersonen für Geschäfte, zu deren Beurteilung spezifische Kenntnisse erforderlich sind (Gutachten), beiziehen.
 
 <sup>4</sup> Die kantonale Mediatorin oder der kantonale Mediator prüft, ob die für das Dossier zuständige Kantonsbehörde rechtmässig und zweckmässig gehandelt hat.
+
+<sup>5</sup> Unterbricht eine der Parteien die Mediation, so geht die kantonale Mediatorin oder der kantonale Mediator nach Artikel 20 Abs. 2 vor. Das gilt auch, wenn die betroffene Behörde es in Anwendung von Artikel 17 Abs. 3 ablehnt, eine Mediation durchzuführen.
 
 #### Art. 19
 

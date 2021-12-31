@@ -4,13 +4,13 @@ number: "181.1"
 title: Loi sur la médiation administrative
 short: LMéd
 language: fr
-version: 2017-01-01
-valid_until: 2021-12-31
-version_adopted: 2015-06-25
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-10-07
 adopted: 2015-06-25
 in_force: 2017-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/181.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6736/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7471/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Médiation administrative – L
 
 (LMéd)
 
-du 25.06.2015 (version entrée en vigueur le 01.01.2017)
+du 25.06.2015 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -108,9 +108,19 @@ Décrète:
 
 #### Art. 6
 
-**Rattachement administratif**
+**Autorité cantonale**
 
-<sup>1</sup> Le médiateur ou la médiatrice cantonal-e est rattaché-e administrativement à la Chancellerie d'Etat.
+<sup>1</sup> Le médiateur ou la médiatrice cantonal‑e est intégré‑e administrativement à l'Autorité cantonale de la transparence, de la protection des données et de la médiation (ci-après: l'Autorité).
+
+<sup>2</sup> Dans le domaine de la médiation, la Commission cantonale de la transparence, de la protection des données et de la médiation (ci-après la Commission) a pour tâches:
+
+- a) d'assurer la coordination entre l'exercice de l'activité de médiation par le médiateur ou la médiatrice cantonal‑e, l'exercice du droit d'accès aux documents officiels et les exigences de la protection des données;
+- b) de mener la procédure de nomination du médiateur ou de la médiatrice cantonal‑e pour le Conseil d'Etat et de préaviser à son intention la ou les candidatures qu'elle privilégie;
+- c) de donner son avis sur les projets d'actes législatifs touchant à la médiation;
+- d) de surveiller la gestion de l'activité de médiation;
+- e) de veiller à ce que l'indépendance du médiateur ou de la médiatrice cantonal‑e soit garantie.
+
+<sup>3</sup> La Commission reçoit le rapport d'activité du médiateur ou de la médiatrice cantonal‑e et l'intègre sans modifications dans celui qu'elle adresse au Grand Conseil par l'intermédiaire du Conseil d'Etat. Elle peut y ajouter de manière séparée ses propres appréciations.
 
 #### Art. 7
 
@@ -122,11 +132,9 @@ Décrète:
 
 **Empêchement**
 
-<sup>1</sup> En cas d'empêchement durable du médiateur ou de la médiatrice cantonal-e, le Conseil d'Etat désigne une personne pour occuper cette fonction par intérim.
+<sup>1</sup> En cas d'empêchement durable du médiateur ou de la médiatrice cantonal‑e, le Conseil d'Etat désigne, sur le préavis de la Commission, une personne pour occuper cette fonction par intérim.
 
-<sup>2</sup> En cas d'empêchement ponctuel, il ou elle est remplacé-e par le ou la préposé-e compétent-e pour la médiation en matière d'accès à l'information[^8-1].
-
-[^8-1]: Actuellement: le ou la préposé-e cantonal-e à la transparence.
+<sup>2</sup> En cas d'empêchement ponctuel, il ou elle est remplacé‑e par une personne désignée à cet effet par la Commission.
 
 #### Art. 9
 
@@ -137,9 +145,9 @@ Décrète:
 - a) si une condition de nomination n'est plus remplie;
 - b) en cas d'incapacité ou pour tout autre motif ne permettant pas son maintien en fonction.
 
-<sup>2</sup> La procédure de révocation est ouverte par le Conseil d'Etat.
+<sup>2</sup> La procédure de révocation est ouverte par le Conseil d'Etat, sur la proposition de la Commission.
 
-<sup>3</sup> Le Conseil d'Etat peut prononcer la suspension provisoire de l'activité du médiateur ou de la médiatrice cantonal-e, conformément aux dispositions de la loi sur le personnel de l'Etat, applicables par analogie.
+<sup>3</sup> Le Conseil d'Etat, sur la proposition de la Commission, peut prononcer la suspension provisoire de l'activité du médiateur ou de la médiatrice cantonal‑e, conformément aux dispositions de la loi sur le personnel de l'Etat, applicables par analogie.
 
 <sup>4</sup> Les dispositions de la législation sur le personnel de l'Etat relatives au renvoi pour de justes motifs sont réservées.
 
@@ -149,9 +157,9 @@ Décrète:
 
 <sup>1</sup> Le médiateur ou la médiatrice cantonal-e s'organise librement pour mener à bien sa mission.
 
-<sup>2</sup> Il ou elle dispose d'une enveloppe budgétaire dont le montant est déterminé chaque année lors de l'adoption du budget de l'Etat.
+<sup>2</sup> Son budget est intégré dans l'enveloppe prévue à l'article 32 al. 3 de la loi du 25 novembre 1994 sur la protection des données.
 
-<sup>3</sup> Il ou elle exerce ses fonctions dans des locaux communs avec le secrétariat de la Commission de la transparence et de la protection des données, avec lequel il ou elle se coordonne et dont il ou elle peut disposer.
+<sup>3</sup> …
 
 #### Art. 11
 
@@ -159,34 +167,38 @@ Décrète:
 
 <sup>1</sup> Le médiateur ou la médiatrice cantonal-e est autorisé-e à refuser de témoigner dans une procédure administrative, civile ou pénale au sujet de constatations faites dans l'exercice de ses fonctions, même en cas de levée du secret de fonction.
 
-<sup>2</sup> Il en est de même pour le personnel du secrétariat de la Commission de la transparence et de la protection des données avec lequel il ou elle est amené-e à collaborer dans l'exercice de ses fonctions.
+<sup>2</sup> Il en est de même pour les membres de la Commission et le personnel de l'Autorité, si et dans la mesure où ils ont été amenés à collaborer avec le médiateur ou la médiatrice cantonal‑e dans l'exercice de ses fonctions.
 
 #### Art. 12
 
 **Tâches**
 
-<sup>1</sup> Le médiateur ou la médiatrice accomplit notamment les tâches suivantes:
+<sup>1</sup> Le médiateur ou la médiatrice cantonal‑e accomplit notamment les tâches suivantes:
 
 - a) il ou elle renseigne les personnes qui le ou la consultent sur la manière de procéder en matière administrative;
 - b) il ou elle intervient pour prévenir un conflit ou pour chercher une solution à l'amiable.
 
-<sup>2</sup> Il ou elle remplit ses tâches dans des délais raisonnables.
+<sup>2</sup> Il ou elle remplit ses tâches dans des délais raisonnables et dans le respect des principes généraux relatifs à l'activité des autorités administratives.
 
-<sup>3</sup> Il ou elle informe régulièrement le public sur son activité et adresse chaque année au Conseil d'Etat, à l'intention du Grand Conseil, un rapport qui rend compte de son activité, en préservant l'anonymat des personnes qui ont requis son intervention et, sauf cas exceptionnel, celui des collaborateurs ou collaboratrices des autorités mises en cause.
+<sup>2a</sup> En cas de besoin, le médiateur ou la médiatrice cantonal‑e peut requérir le soutien de la Commission. Il ou elle n'est toutefois pas tenu‑e de suivre son avis.
+
+<sup>3</sup> Il ou elle informe régulièrement le public sur son activité et adresse son rapport annuel à la Commission pour que celle-ci l'intègre dans son propre rapport, conformément à l'article 6 al. 3. Ce faisant, il ou elle préserve l'anonymat des personnes qui ont requis son intervention et, sauf cas exceptionnel, celui des collaborateurs ou collaboratrices des autorités mises en cause.
 
 ## 3 Processus de médiation
 
 #### Art. 13
 
-**Saisine – Requête**
+**Principes**
 
 <sup>1</sup> Le médiateur ou la médiatrice cantonal-e agit sur requête de la personne concernée ou de l'autorité cantonale en charge du dossier.
 
 <sup>2</sup> Il ou elle ne peut agir de sa propre initiative.
 
+<sup>3</sup> Il ne peut être procédé à un processus de médiation sans l'accord des parties.
+
 #### Art. 14
 
-**Saisine – Recevabilité**
+**Conditions d'entrée en matière**
 
 <sup>1</sup> La personne concernée doit avoir précédé sa requête des démarches usuelles auprès de l'autorité cantonale en charge du dossier afin de résoudre le conflit à l'amiable.
 
@@ -210,7 +222,7 @@ Décrète:
 
 <sup>1</sup> Les articles 21 à 25 CPJA sont applicables à la récusation du médiateur ou de la médiatrice cantonal-e.
 
-<sup>2</sup> Le Conseil d'Etat est l'autorité hiérarchique au sens de ces dispositions.
+<sup>2</sup> La Commission est l'autorité au sens de ces dispositions.
 
 #### Art. 17
 
@@ -218,15 +230,17 @@ Décrète:
 
 <sup>1</sup> Lorsqu'il ou elle est saisi-e d'une requête, le médiateur ou la médiatrice cantonal-e décide si, et le cas échéant de quelle façon, il ou elle examine une affaire.
 
-<sup>2</sup> S'il ou si elle estime que la requête n'entre pas dans le champ d'application de la présente loi ou que les conditions de recevabilité prévues à l'article 14 ne sont pas remplies, il ou elle en informe son auteur-e en lui donnant la possibilité de s'exprimer.
+<sup>2</sup> S'il ou si elle estime que la requête n'entre pas dans le champ d'application de la présente loi ou que les conditions d'entrée en matière prévues à l'article 14 ne sont pas remplies, il ou elle en informe son auteur‑e en lui donnant la possibilité de s'exprimer.
+
+<sup>3</sup> S'il ou si elle estime que la requête entre dans le champ d'application de la présente loi et que les conditions d'entrée en matière prévues à l'article 14 sont remplies, il ou elle en communique le contenu à l'autorité concernée et lui demande son accord pour tenter une médiation. Le refus de l'autorité concernée doit être motivé par écrit.
 
 #### Art. 18
 
 **Examen de l'affaire**
 
-<sup>1</sup> Si le médiateur ou la médiatrice cantonal-e décide de donner suite à une requête, il ou elle en informe les autres parties, auxquelles il ou elle donne l'occasion de s'exprimer.
+<sup>1</sup> S'il ou si elle peut donner suite à la requête, le médiateur ou la médiatrice cantonal‑e invite la partie mise en cause à s'exprimer sur l'affaire.
 
-<sup>2</sup> Il ou elle entreprend les démarches nécessaires dans le but d'établir les faits et de déceler les causes de la requête.
+<sup>2</sup> Il ou elle entreprend les démarches nécessaires dans le but d'établir les faits et de comprendre les motifs du conflit.
 
 <sup>3</sup> Pour établir les faits, le médiateur ou la médiatrice cantonal-e a en tout temps le droit:
 
@@ -237,6 +251,8 @@ Décrète:
 - e) exceptionnellement, de faire appel à des personnes spécialisées si l'affaire exige des connaissances spécifiques (expertise).
 
 <sup>4</sup> Le médiateur ou la médiatrice cantonal-e examine si l'autorité cantonale en charge du dossier a agi de façon légale et opportune.
+
+<sup>5</sup> Si une des parties interrompt la médiation, le médiateur ou la médiatrice cantonal‑e procède conformément à l'article 20 al. 2. Il en est de même si, en application de l'article 17 al. 3, l'autorité concernée refuse de procéder à une médiation.
 
 #### Art. 19
 
