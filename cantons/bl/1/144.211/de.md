@@ -1,24 +1,27 @@
 ---
 canton: BL
 number: "144.211"
-title: Pflichtenheft für die Aufgaben des Amtes für Orts- und Regionalplanung im Rahmen der Schulplanung
+title: Pflichtenheft für die Aufgaben des Amts für Orts- und Regionalplanung im Rahmen der Schulplanung
 language: de
-version: 2004-08-01
-valid_until: 2021-12-31
-version_adopted: 2004-06-22
+version: 2022-01-01
+version_adopted: 2021-12-14
 adopted: 1996-12-17
 in_force: 1997-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/144.211"
-pdf: "https://bl.clex.ch/api/de/versions/437/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3652/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Pflichtenheft für die Aufgaben des Amtes für Orts- und Regionalplanung im Rahmen der Schulplanung
+# Pflichtenheft für die Aufgaben des Amts für Orts- und Regionalplanung im Rahmen der Schulplanung
 
-Vom 17.12.1996 (Stand 01.08.2004)
+Vom 17.12.1996 (Stand 01.01.2022)
 
-Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 126 Absatz 4 des Schulgesetzes vom 26. April 1979, beschliesst:
+Der Regierungsrat des Kantons Basel-Landschaft,
+
+gestützt auf § 126 Abs. 4 des Schulgesetzes vom 26. April 1979,
+
+beschliesst:
 
 #### § 1
 
@@ -38,7 +41,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 126 Absatz 4 de
 
 **Organisation**
 
-<sup>1</sup> Partner des Amtes für Orts- und Regionalplanung sind für diese Aufgaben die Stabsstelle Bildung und der Personaldienst der Bildungs-, Kultur- und Sportdirektion, das Amt für Volksschulen, das Amt für Berufsbildung und Berufsberatung, das Statistische Amt sowie das Hochbauamt.
+<sup>1</sup> Partner des Amts für Orts- und Regionalplanung sind für diese Aufgaben die Abteilungen Bildung und Personal des Generalsekretariats der Bildungs-, Kultur- und Sportdirektion, das Amt für Volksschulen, die Dienststelle Berufsbildung, Mittelschulen und Hochschulen (BMH), das Amt für Daten und Statistik sowie das Hochbauamt.
 
 <sup>2</sup> Die Klassenbildungspläne werden mit dem Visum und einem allfälligen Mitbericht des Amtes für Orts- und Regionalplanung an die Bildungs-, Kultur- und Sportdirektion zur Genehmigung weitergeleitet.
 
@@ -48,21 +51,21 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 126 Absatz 4 de
 
 <sup>1</sup> Allgemeines:
 
-- 1\. Allgemeines
-  - a. Jährliche Auswertung der Schülerstatistik nach Wohnort und Schulort
-  - b. Mitarbeit in der Koordinationsgruppe «Schulraumplanung und -bewirtschaftung» und in der «Schulbaukommission»
+- 1\. Allgemeines:
+  - a. jährliche Auswertung der Schülerstatistik nach Wohnort und Schulort;
+  - b. Mitarbeit in der Koordinationsgruppe «Schulraumplanung und -bewirtschaftung» und in der «Schulbaukommission»;
 - 2\. Volksschulen (ausgenommen IV-Sonderschulen):
-  - a. Jährliche Ausarbeitung der Schülerprognosen
-  - b. Jährliche Begutachtung der Klassenbildungspläne
-  - c. Alle zwei Jahre: Ausarbeitung der Klassenprognosen
-- 3\. Weiterführende Schulen:
-  - a. Jährliche Ausarbeitung der Schüler- und Klassenprognosen unter Einbezug des ausserkantonalen Einzugsbereiches der Gymnasien
-  - b. Jährliche Begutachtung der Klassenbildungspläne
-  - c. Errechnen der Schulwegzeiten (Isochronen) für geplante Umteilungen von Schülerinnen und Schülern
+  - a. jährliche Ausarbeitung der Schülerprognosen;
+  - b. jährliche Begutachtung der Klassenbildungspläne;
+  - c. alle 2 Jahre: Ausarbeitung der Klassenprognosen;
+- 3\. weiterführende Schulen:
+  - a. jährliche Ausarbeitung der Schüler- und Klassenprognosen unter Einbezug des ausserkantonalen Einzugsbereiches der Gymnasien;
+  - b. jährliche Begutachtung der Klassenbildungspläne;
+  - c. Errechnen der Schulwegzeiten (Isochronen) für geplante Umteilungen von Schülerinnen und Schülern;
 - 4\. Berufsschulen:
-  - a. Auf Anfrage: Ausarbeitung von Schüler- und Klassenprognosen
+  - a. auf Anfrage: Ausarbeitung von Schüler- und Klassenprognosen;
 - 5\. Aufgaben nach Absprache:
-  - a. Zusätzliche Aufgaben werden speziell vereinbart.
+  - a. zusätzliche Aufgaben werden speziell vereinbart.
 
 #### § 5
 
