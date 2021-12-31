@@ -3,11 +3,11 @@ sr: "0.653.1"
 title: Accordo multilaterale del 29 ottobre 2014 tra autorità competenti concernente lo scambio automatico di informazioni relative a conti finanziari (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/759"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2014-10-29
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/759/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2016-759-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/759/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/759/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-759-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/759/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso il 29 ottobre 2014 Approvato dall’Assemblea federale il 18 dicembre 2015[^t-1] Entrato in vigore il 1° gennaio 2017
 
-(Stato 1° gennaio 2021)
+(Stato 1° gennaio 2022)
 
 [^t-1]: [RU 2016 4717](https://fedlex.data.admin.ch/eli/oc/2016/758)
 
@@ -641,7 +641,7 @@ Ai fini della presente notifica:
 [^annexu1-lvlu1-secIX-2]: [RS 0.652.1](https://fedlex.data.admin.ch/eli/cc/2016/806)
 [^annexu1-lvlu1-secIX-3]: La Svizzera ha ottenuto dalla Commissione europea una decisione di adeguatezza in ottemperanza all’articolo 25 paragrafo 6 della direttiva 95/46/CE del Parlamento europeo e del Consiglio, del 24 ottobre 1995, relativa alla tutela delle persone fisiche con riguardo al trattamento dei dati personali, nonché alla libera circolazione di tali dati.
 
-Campo d’applicazione il 1° gennaio 2021**[^t-2]**
+Campo d’applicazione il 1° gennaio 2022**[^t-2]**
 
 La Svizzera è vincolata dalle disposizioni dell’Accordo multilaterale tra autorità competenti concernente lo scambio automatico di informazioni relative a conti finanziari verso gli Stati e i territori seguenti conformemente al paragrafo 2.1 della sezione 7 del presente Accordo:
 
@@ -686,42 +686,45 @@ La Svizzera è vincolata dalle disposizioni dell’Accordo multilaterale tra aut
 <tr><td>Isola di Man[^t-39]</td><td>1° gennaio 2017</td></tr>
 <tr><td>Israele[^t-40]</td><td>1° gennaio 2019</td></tr>
 <tr><td>Jersey[^t-41]</td><td>1° gennaio 2017</td></tr>
-<tr><td>Kuwait[^t-42]</td><td>1° gennaio 2019\*</td></tr>
-<tr><td>Libano[^t-43]</td><td>1° gennaio 2020</td></tr>
-<tr><td>Liechtenstein[^t-44]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Macao[^t-45]</td><td>1° gennaio 2020</td></tr>
-<tr><td>Malaysia[^t-46]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Marshall, Isole[^t-47]</td><td>1° gennaio 2019\*</td></tr>
-<tr><td>Maurizio[^t-48]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Messico[^t-49]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Monaco[^t-50]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Montserrat[^t-51]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Nauru[^t-52]</td><td>1° gennaio 2019\*</td></tr>
-<tr><td>Nigeria[^t-53]</td><td>1° gennaio 2021</td></tr>
-<tr><td>Norvegia[^t-54]</td><td>1° gennaio 2017</td></tr>
-<tr><td>Nuova Zelanda[^t-55]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Paesi Bassi: Comuni d’oltremare Bonaire, Saint’Eustachio e Saba[^t-56]</td><td>1° gennaio 2019</td></tr>
-<tr><td>Pakistan[^t-57]</td><td>1° gennaio 2020</td></tr>
-<tr><td>Panama[^t-58]</td><td>1° gennaio 2019</td></tr>
-<tr><td>Perù[^t-59]</td><td>1° gennaio 2021</td></tr>
-<tr><td>Qatar[^t-60]</td><td>1° gennaio 2019\*</td></tr>
-<tr><td>Russia[^t-61]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Saint Kitts e Nevis[^t-62]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Saint Vincent e Grenadine[^t-63]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Samoa[^t-64]</td><td>1° gennaio 2020</td></tr>
-<tr><td>San Marino[^t-65]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Santa Lucia[^t-66]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Seicelle[^t-67]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Sudafrica[^t-68]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Turchia[^t-69]</td><td>1° gennaio 2021</td></tr>
-<tr><td>Turks e Caicos, Isole[^t-70]</td><td>1° gennaio 2018\*</td></tr>
-<tr><td>Uruguay[^t-71]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Vanuatu[^t-72]</td><td>1° gennaio 2020\*</td></tr>
-<tr><td>Vergini Britanniche, Isole[^t-73]</td><td>1° gennaio 2018\*</td></tr>
+<tr><td>Kazakistan[^t-42]</td><td>1° gennaio 2022</td></tr>
+<tr><td>Kuwait[^t-43]</td><td>1° gennaio 2019\*</td></tr>
+<tr><td>Libano[^t-44]</td><td>1° gennaio 2020</td></tr>
+<tr><td>Liechtenstein[^t-45]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Macao[^t-46]</td><td>1° gennaio 2020</td></tr>
+<tr><td>Maldive[^t-47]</td><td>1° gennaio 2022</td></tr>
+<tr><td>Malaysia[^t-48]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Marshall, Isole[^t-49]</td><td>1° gennaio 2019\*</td></tr>
+<tr><td>Maurizio[^t-50]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Messico[^t-51]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Monaco[^t-52]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Montserrat[^t-53]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Nauru[^t-54]</td><td>1° gennaio 2019\*</td></tr>
+<tr><td>Nigeria[^t-55]</td><td>1° gennaio 2021</td></tr>
+<tr><td>Norvegia[^t-56]</td><td>1° gennaio 2017</td></tr>
+<tr><td>Nuova Zelanda[^t-57]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Oman[^t-58]</td><td>1° gennaio 2022</td></tr>
+<tr><td>Paesi Bassi: Comuni d’oltremare Bonaire, Saint’Eustachio e Saba[^t-59]</td><td>1° gennaio 2019</td></tr>
+<tr><td>Pakistan[^t-60]</td><td>1° gennaio 2020</td></tr>
+<tr><td>Panama[^t-61]</td><td>1° gennaio 2019</td></tr>
+<tr><td>Perù[^t-62]</td><td>1° gennaio 2021</td></tr>
+<tr><td>Qatar[^t-63]</td><td>1° gennaio 2019\*</td></tr>
+<tr><td>Russia[^t-64]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Saint Kitts e Nevis[^t-65]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Saint Vincent e Grenadine[^t-66]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Samoa[^t-67]</td><td>1° gennaio 2020</td></tr>
+<tr><td>San Marino[^t-68]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Santa Lucia[^t-69]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Seicelle[^t-70]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Sudafrica[^t-71]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Turchia[^t-72]</td><td>1° gennaio 2021</td></tr>
+<tr><td>Turks e Caicos, Isole[^t-73]</td><td>1° gennaio 2018\*</td></tr>
+<tr><td>Uruguay[^t-74]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Vanuatu[^t-75]</td><td>1° gennaio 2020\*</td></tr>
+<tr><td>Vergini Britanniche, Isole[^t-76]</td><td>1° gennaio 2018\*</td></tr>
 <tr><td colspan="2">\* Questo Stato applica sistematicamente lo scambio automatico di informazioni in modo non reciproco, sulla base di una notifica secondo la sez. 7 punto 1 lett. b dell’Acc. multilaterale. Questo significa che non riceve dati relativi a conti finanziari da parte della Svizzera, ma le trasmette tali informazioni.</td></tr>
 </table>
 
-[^t-2]: [RU 2016 4721](https://fedlex.data.admin.ch/eli/oc/2016/759); [2017 7673](https://fedlex.data.admin.ch/eli/oc/2017/840); [2018 75](https://fedlex.data.admin.ch/eli/oc/2018/24); [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9); [2020 247](https://fedlex.data.admin.ch/eli/oc/2020/40); [2021 769](https://fedlex.data.admin.ch/eli/oc/2021/769). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-2]: [RU 2016 4721](https://fedlex.data.admin.ch/eli/oc/2016/759); [2017 7673](https://fedlex.data.admin.ch/eli/oc/2017/840); [2018 75](https://fedlex.data.admin.ch/eli/oc/2018/24); [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9); [2020 247](https://fedlex.data.admin.ch/eli/oc/2020/40); [2021 769](https://fedlex.data.admin.ch/eli/oc/2021/769); [2022 36](https://fedlex.data.admin.ch/eli/oc/2022/36). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
 [^t-3]: DF del 10 dic. 2019 ([RU 2021 764](https://fedlex.data.admin.ch/eli/oc/2021/764)).
 [^t-4]: DF del 7 dic. 2017 ([RU 2017 7675](https://fedlex.data.admin.ch/eli/oc/2017/841)).
 [^t-5]: DF del 13 dic. 2018 ([RU 2019 89](https://fedlex.data.admin.ch/eli/oc/2019/10)).
@@ -761,35 +764,38 @@ La Svizzera è vincolata dalle disposizioni dell’Accordo multilaterale tra aut
 [^t-39]: DF del 12 dic. 2016 ([RU 2016 5313](https://fedlex.data.admin.ch/eli/oc/2016/844)).
 [^t-40]: DF del 5 dic. 2017 ([RU 2017 7715](https://fedlex.data.admin.ch/eli/oc/2017/861), [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9)).
 [^t-41]: DF del 12 dic. 2016 ([RU 2016 5319](https://fedlex.data.admin.ch/eli/oc/2016/847)).
-[^t-42]: DF del 13 dic. 2018 ([RU 2019 97](https://fedlex.data.admin.ch/eli/oc/2019/14)).
-[^t-43]: DF del 10 dic. 2019 ([RU 2020 237](https://fedlex.data.admin.ch/eli/oc/2020/35)).
-[^t-44]: DF del 7 dic. 2017 ([RU 2017 7719](https://fedlex.data.admin.ch/eli/oc/2017/863)).
-[^t-45]: DF del 10 dic. 2019 ([RU 2020 239](https://fedlex.data.admin.ch/eli/oc/2020/36)).
-[^t-46]: DF del 7 dic. 2017 ([RU 2017 7721](https://fedlex.data.admin.ch/eli/oc/2017/864)).
-[^t-47]: DF del 5 dic. 2017 ([RU 2017 7723](https://fedlex.data.admin.ch/eli/oc/2017/865)).
-[^t-48]: DF del 5 dic. 2017 ([RU 2017 7725](https://fedlex.data.admin.ch/eli/oc/2017/866)).
-[^t-49]: DF del 7 dic. 2017 ([RU 2017 7727](https://fedlex.data.admin.ch/eli/oc/2017/867)).
-[^t-50]: DF del 7 dic. 2017 ([RU 2017 7729](https://fedlex.data.admin.ch/eli/oc/2017/868)).
-[^t-51]: DF del 7 dic. 2017 ([RU 2017 7731](https://fedlex.data.admin.ch/eli/oc/2017/869)).
-[^t-52]: DF del 13 dic. 2018 ([RU 2019 99](https://fedlex.data.admin.ch/eli/oc/2019/15)).
-[^t-53]: DF del 10 dic. 2019 ([RU 2021 766](https://fedlex.data.admin.ch/eli/oc/2021/766)).
-[^t-54]: DF del 12 dic. 2016 ([RU 2016 5321](https://fedlex.data.admin.ch/eli/oc/2016/848)).
-[^t-55]: DF del 7 dic. 2017 ([RU 2017 7733](https://fedlex.data.admin.ch/eli/oc/2017/870)).
-[^t-56]: DF del 13 dic. 2018 ([RU 2019 101](https://fedlex.data.admin.ch/eli/oc/2019/16)).
-[^t-57]: DF del 10 dic. 2019 ([RU 2020 241](https://fedlex.data.admin.ch/eli/oc/2020/37)).
-[^t-58]: DF del 13 dic. 2018 ([RU 2019 103](https://fedlex.data.admin.ch/eli/oc/2019/17)).
-[^t-59]: DF del 10 dic. 2019 ([RU 2021 767](https://fedlex.data.admin.ch/eli/oc/2021/767)).
-[^t-60]: DF del 13 dic. 2018 ([RU 2019 95](https://fedlex.data.admin.ch/eli/oc/2019/13)).
-[^t-61]: DF del 7 dic. 2017 ([RU 2017 7735](https://fedlex.data.admin.ch/eli/oc/2017/871)).
-[^t-62]: DF del 7 dic. 2017 ([RU 2017 7737](https://fedlex.data.admin.ch/eli/oc/2017/872)).
-[^t-63]: DF del 7 dic. 2017 ([RU 2017 7741](https://fedlex.data.admin.ch/eli/oc/2017/874)).
-[^t-64]: DF del 10 dic. 2019 ([RU 2020 243](https://fedlex.data.admin.ch/eli/oc/2020/38)).
-[^t-65]: DF del 7 dic. 2017 ([RU 2017 7743](https://fedlex.data.admin.ch/eli/oc/2017/875)).
-[^t-66]: DF del 7 dic. 2017 ([RU 2017 7739](https://fedlex.data.admin.ch/eli/oc/2017/873)).
-[^t-67]: DF del 7 dic. 2017 ([RU 2017 7747](https://fedlex.data.admin.ch/eli/oc/2017/877)).
-[^t-68]: DF del 7 dic. 2017 ([RU 2017 7749](https://fedlex.data.admin.ch/eli/oc/2017/878)).
-[^t-69]: DF del 3 mar. 2020 ([RU 2021 768](https://fedlex.data.admin.ch/eli/oc/2021/768)).
-[^t-70]: DF del 7 dic. 2017 ([RU 2017 7751](https://fedlex.data.admin.ch/eli/oc/2017/879)).
-[^t-71]: DF del 7 dic. 2017 ([RU 2017 7753](https://fedlex.data.admin.ch/eli/oc/2017/880)).
-[^t-72]: DF del 10 dic. 2019 ([RU 2020 245](https://fedlex.data.admin.ch/eli/oc/2020/39)).
-[^t-73]: DF del 7 dic. 2017 ([RU 2017 7691](https://fedlex.data.admin.ch/eli/oc/2017/849)).
+[^t-42]: DF del 10 dic. 2019 ([RU 2022 33](https://fedlex.data.admin.ch/eli/oc/2022/33)).
+[^t-43]: DF del 13 dic. 2018 ([RU 2019 97](https://fedlex.data.admin.ch/eli/oc/2019/14)).
+[^t-44]: DF del 10 dic. 2019 ([RU 2020 237](https://fedlex.data.admin.ch/eli/oc/2020/35)).
+[^t-45]: DF del 7 dic. 2017 ([RU 2017 7719](https://fedlex.data.admin.ch/eli/oc/2017/863)).
+[^t-46]: DF del 10 dic. 2019 ([RU 2020 239](https://fedlex.data.admin.ch/eli/oc/2020/36)).
+[^t-47]: DF del 10 dic. 2019 ([RU 2022 34](https://fedlex.data.admin.ch/eli/oc/2022/34)).
+[^t-48]: DF del 7 dic. 2017 ([RU 2017 7721](https://fedlex.data.admin.ch/eli/oc/2017/864)).
+[^t-49]: DF del 5 dic. 2017 ([RU 2017 7723](https://fedlex.data.admin.ch/eli/oc/2017/865)).
+[^t-50]: DF del 5 dic. 2017 ([RU 2017 7725](https://fedlex.data.admin.ch/eli/oc/2017/866)).
+[^t-51]: DF del 7 dic. 2017 ([RU 2017 7727](https://fedlex.data.admin.ch/eli/oc/2017/867)).
+[^t-52]: DF del 7 dic. 2017 ([RU 2017 7729](https://fedlex.data.admin.ch/eli/oc/2017/868)).
+[^t-53]: DF del 7 dic. 2017 ([RU 2017 7731](https://fedlex.data.admin.ch/eli/oc/2017/869)).
+[^t-54]: DF del 13 dic. 2018 ([RU 2019 99](https://fedlex.data.admin.ch/eli/oc/2019/15)).
+[^t-55]: DF del 10 dic. 2019 ([RU 2021 766](https://fedlex.data.admin.ch/eli/oc/2021/766)).
+[^t-56]: DF del 12 dic. 2016 ([RU 2016 5321](https://fedlex.data.admin.ch/eli/oc/2016/848)).
+[^t-57]: DF del 7 dic. 2017 ([RU 2017 7733](https://fedlex.data.admin.ch/eli/oc/2017/870)).
+[^t-58]: DF del 10 dic. 2019 ([RU 2022 35](https://fedlex.data.admin.ch/eli/oc/2022/35)).
+[^t-59]: DF del 13 dic. 2018 ([RU 2019 101](https://fedlex.data.admin.ch/eli/oc/2019/16)).
+[^t-60]: DF del 10 dic. 2019 ([RU 2020 241](https://fedlex.data.admin.ch/eli/oc/2020/37)).
+[^t-61]: DF del 13 dic. 2018 ([RU 2019 103](https://fedlex.data.admin.ch/eli/oc/2019/17)).
+[^t-62]: DF del 10 dic. 2019 ([RU 2021 767](https://fedlex.data.admin.ch/eli/oc/2021/767)).
+[^t-63]: DF del 13 dic. 2018 ([RU 2019 95](https://fedlex.data.admin.ch/eli/oc/2019/13)).
+[^t-64]: DF del 7 dic. 2017 ([RU 2017 7735](https://fedlex.data.admin.ch/eli/oc/2017/871)).
+[^t-65]: DF del 7 dic. 2017 ([RU 2017 7737](https://fedlex.data.admin.ch/eli/oc/2017/872)).
+[^t-66]: DF del 7 dic. 2017 ([RU 2017 7741](https://fedlex.data.admin.ch/eli/oc/2017/874)).
+[^t-67]: DF del 10 dic. 2019 ([RU 2020 243](https://fedlex.data.admin.ch/eli/oc/2020/38)).
+[^t-68]: DF del 7 dic. 2017 ([RU 2017 7743](https://fedlex.data.admin.ch/eli/oc/2017/875)).
+[^t-69]: DF del 7 dic. 2017 ([RU 2017 7739](https://fedlex.data.admin.ch/eli/oc/2017/873)).
+[^t-70]: DF del 7 dic. 2017 ([RU 2017 7747](https://fedlex.data.admin.ch/eli/oc/2017/877)).
+[^t-71]: DF del 7 dic. 2017 ([RU 2017 7749](https://fedlex.data.admin.ch/eli/oc/2017/878)).
+[^t-72]: DF del 3 mar. 2020 ([RU 2021 768](https://fedlex.data.admin.ch/eli/oc/2021/768)).
+[^t-73]: DF del 7 dic. 2017 ([RU 2017 7751](https://fedlex.data.admin.ch/eli/oc/2017/879)).
+[^t-74]: DF del 7 dic. 2017 ([RU 2017 7753](https://fedlex.data.admin.ch/eli/oc/2017/880)).
+[^t-75]: DF del 10 dic. 2019 ([RU 2020 245](https://fedlex.data.admin.ch/eli/oc/2020/39)).
+[^t-76]: DF del 7 dic. 2017 ([RU 2017 7691](https://fedlex.data.admin.ch/eli/oc/2017/849)).
