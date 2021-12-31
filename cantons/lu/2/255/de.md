@@ -4,13 +4,12 @@ number: "255"
 title: Gesetz über die öffentlichen Beurkundungen
 short: "Beurkundungsgesetz, BeurkG"
 language: de
-version: 2015-06-01
-valid_until: 2021-12-31
-version_adopted: 2014-11-03
+version: 2022-01-01
+version_adopted: 2021-10-25
 adopted: 1973-09-18
 in_force: 1974-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/255"
-pdf: "https://srl.lu.ch/api/de/versions/3004/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3883/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3004/pdf_file"
 
 (Beurkundungsgesetz, BeurkG)
 
-vom 18.09.1973 (Stand 01.06.2015)
+vom 18.09.1973 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -90,7 +89,7 @@ beschliesst:
 <sup>1</sup> Als Notare werden vom Präsidenten der Aufsichtsbehörde ernannt:
 
 - a. Anwälte, die im Kanton Luzern ein Anwaltsbüro führen oder ständig in einem solchen tätig sind;
-- b. patentierte, im Amte stehende Gemeindeschreiber und ihre vollamtlichen, patentierten Substituten;
+- b. patentierte, im Amte stehende Gemeindeschreiber und ihre voll- oder hauptamtlichen, patentierten Substituten;
 - c. mit ganzer oder teilweiser Beurkundungsbefugnis weitere Angestellte mit Gemeindeschreiberfunktionen, sofern ein Bedürfnis besteht.
 
 <sup>2</sup> Voraussetzungen sind:
@@ -98,7 +97,7 @@ beschliesst:
 - a. eine vom Bewerber abgelegte Prüfung über seine Befähigung;
 - b. die Leistung der vorgeschriebenen Sicherheit;
 - c. die Beeidigung als Notar und
-- d. Wohnsitz im Kanton Luzern.
+- d. Wohnsitz in der Schweiz.
 
 #### § 6
 
@@ -654,23 +653,49 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Die Urkundsperson hat für ihre Tätigkeit Anspruch auf Vergütung. Mehrere Parteien haften hiefür solidarisch.
+<sup>1</sup> Die Urkundsperson bezieht für ihre Tätigkeit eine Gebühr, und sie hat Anspruch auf Ersatz der notwendigen Auslagen. Ist sie auf Begehren mehrerer Personen tätig geworden, haften diese solidarisch für die Gebühren und die Auslagen.
 
-<sup>2</sup> Die Vergütung umfasst die Gebühr sowie den Ersatz der notwendigen Auslagen. Einzelheiten sind durch Verordnung zu regeln.
+<sup>2</sup> …
 
 <sup>3</sup> Die Urkundsperson kann einen angemessenen Vorschuss verlangen.
 
 <sup>4</sup> Die Gemeinden haben mit ihren Notaren gemäss § 5 Abs. 1b und c schriftliche Vereinbarungen über die Abgeltung der Notariatstätigkeit und der damit verbundenen weiteren Tätigkeiten abzuschliessen. Abzugelten sind die vollen Kosten, insbesondere für die Inanspruchnahme von Arbeitszeit, den Beizug von Gemeindepersonal, die Benützung der gemeindeeigenen Infrastruktur und die Verwendung von Büromaterial der Gemeinde.
 
+#### § 52a
+
+**Gebühren**
+
+<sup>1</sup> Die Gebühr ist das Entgelt für Vorbereitungsarbeiten, den Beurkundungsakt und die Anmeldung eintragungsbedürftiger Geschäfte.
+
+<sup>2</sup> Das Kantonsgericht regelt durch Verordnung, welche Vorbereitungs- und Folgearbeiten mit der Gebühr nicht abgegolten sind und wie diese zu entschädigen sind.
+
+#### § 52b
+
+**Bemessung**
+
+<sup>1</sup> Die Gebühr bemisst sich nach festen Ansätzen, nach einem gestaffelten Promilletarif oder nach einem Gebührenrahmen.
+
+<sup>2</sup> Nach festen Ansätzen richtet sich die Gebühr für Beglaubigungen.
+
+<sup>3</sup> Nach dem gestaffelten Promilletarif richtet sich die Gebühr für Beurkundungen von Rechtsgeschäften mit einem Geschäftswert. Die Gebühr beträgt maximal drei Promille des Geschäftswerts, bei Pfandrechten maximal zwei Promille der Pfandsumme. Von dem Geschäftswert, der zehn Millionen Franken überschreitet, wird keine Gebühr erhoben.
+
+<sup>4</sup> Ein Rahmentarif mit einer Mindest- und einer Höchstgebühr gilt für alle übrigen Beurkundungen. Die Gebühr innerhalb des Rahmens bemisst sich nach dem gebotenen Zeitaufwand.
+
+<sup>5</sup> Die Mindestgebühren können in Ausnahmefällen unterschritten werden.
+
+<sup>6</sup> Das Kantonsgericht regelt die Einzelheiten der Gebührenbemessung durch Verordnung.
+
 #### § 53
 
 **Streitige Vergütungen**
 
-<sup>1</sup> Die Aufsichtsbehörde entscheidet über streitige Vergütungen und damit zusammenhängende Einreden.
+<sup>1</sup> Die Aufsichtsbehörde entscheidet ohne Rücksicht auf den Wohn- oder Geschäftssitz des Schuldners über alle streitigen Vergütungen und damit zusammenhängenden Einreden.
 
-<sup>2</sup> Ihr Entscheid ist einem vollstreckbaren gerichtlichen Urteil nach Art. 80 Abs. 2 SchKG[^53-1] gleichgestellt.
+<sup>1<sup>bis</sup></sup> Der Präsident der Aufsichtsbehörde entscheidet in Einzelbesetzung, wenn der Streitwert weniger als 20 000 Franken beträgt.
 
-<sup>3</sup> Das Verfahren ist durch Verordnung zu regeln.
+<sup>2</sup> Entscheide der Aufsichtsbehörde und des Präsidenten der Aufsichtsbehörde sind einem vollstreckbaren gerichtlichen Urteil nach Art. 80 Abs. 2 SchKG[^53-1] gleichgestellt.
+
+<sup>3</sup> Das Kantonsgericht regelt das Verfahren durch Verordnung.
 
 [^53-1]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
 
