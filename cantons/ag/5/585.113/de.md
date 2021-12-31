@@ -4,13 +4,12 @@ number: "585.113"
 title: Brandschutzverordnung
 short: BSV
 language: de
-version: 2017-01-01
-valid_until: 2021-12-31
-version_adopted: 2017-03-29
+version: 2022-01-01
+version_adopted: 2021-10-27
 adopted: 2005-03-23
 in_force: 2005-05-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/585.113"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2393/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3755/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2393/pdf_file"
 
 (BSV)
 
-Vom 23.03.2005 (Stand 01.01.2017)
+Vom 23.03.2005 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -73,11 +72,11 @@ beschliesst:
 
 **b) Kantonale Brandschutzbewilligung**
 
-<sup>1</sup> Die Errichtung, der Umbau oder die wesentliche Änderung der nachfolgenden Bauten, Anlagen und Einrichtungen bedarf einer Bewilligung der Aargauischen Gebäudeversicherung:
+<sup>1</sup> Die Errichtung, der Umbau oder die wesentliche Änderung der nachfolgenden Bauten, Anlagen und Einrichtungen bedürfen einer Bewilligung der Aargauischen Gebäudeversicherung:
 
-- a) Beherbergungsbetriebe gemäss Art. 13 Abs. 2 lit. a [a] Brandschutznorm ab 10 Personen sowie gemäss Art. 13 Abs. 2 lit. a [b] und [c] Brandschutznorm ab 15 Personen;
+- a) Beherbergungsbetriebe gemäss Art. 13 Abs. 2 lit. a Brandschutznorm;
 - b) Verkaufsgeschäfte gemäss Art. 13 Abs. 2 lit. b Brandschutznorm;
-- c) Räume mit grosser Personenbelegung gemäss Art. 13 Abs. 2 lit. c Brandschutznorm mit mehr als 100 Personen;
+- c) Räume mit grosser Personenbelegung gemäss Art. 13 Abs. 2 lit. c Brandschutznorm;
 - d) Parking gemäss Art. 13 Abs. 2 lit. d Brandschutznorm;
 - e) Hochregallager gemäss Art. 13 Abs. 2 lit. e Brandschutznorm;
 - f) Hochhäuser gemäss Art. 13 Abs. 3 lit. c Brandschutznorm;
@@ -86,7 +85,7 @@ beschliesst:
 - i) industrielle Betriebe gemäss Art. 5 des Bundesgesetzes über die Arbeit in Industrie, Gewerbe und Handel (Arbeitsgesetz, ArG) vom 13. März 1964[^4-1];
 - j) gewerbliche Betriebe mit über 300 m² gewerblich genutzter Fläche, bei denen eine besondere Brand- oder Explosionsgefahr besteht, wie Lösungsmittel und Holz verarbeitende Betriebe, Farbspritzanlagen, Autoreparaturwerkstätten, Apotheken, Drogerien, Herstellungsbetriebe chemisch-technischer Produkte usw.;
 - k) Lagerhäuser, -räume und -plätze ab einer Lagerfläche von 600 m² pro Stockwerk oder insgesamt 1800 m² Lagerfläche, ferner Lagerplätze ab 1800 m² Lagerfläche;
-- l) lufttechnische Anlagen für Gebäude, die unter die kantonale Bewilligungspflicht gemäss dieser Bestimmung fallen;
+- l) …
 - m) Anlagen zur Verarbeitung, zum Umschlag oder zur Lagerung von feuer- oder explosionsgefährlichen Stoffen, wie:
   - 1\. Lösungsmittellager mit mehr als 450 l für die Kategorie F 1 und F 2, zum Beispiel Benzin/Verdünner;
   - 2\. Flüssiggasdepots;
@@ -94,8 +93,8 @@ beschliesst:
   - 4\. Tankstellen;
   - 5\. stationäre Tankanlagen im Freien mit mehr als 2000 l für die Kategorien F 3 und F 4, zum Beispiel Heizöl, Dieselöl;
 - n) gewerbliche und industrielle Feuerungen mit mehr als 70kW Nennwärmeleistung, wie Trocknungsanlagen, Einbrennkabinen, Dampf- und Heisswasserkessel usw.;
-- o) Feuerungen für feste Brennstoffe mit automatischer Beschickung mit mehr als 70 kW Nennwärmeleistung;
-- p) stationäre Verbrennungsanlagen mit mehr als 70 kW Nennwärmeleistung beziehungsweise Antriebsleistung für den Gebrauch von brennbaren oder verbrennungsfördernden Gasen, wie Sauerstoff, Acetylen, Flüssiggas, Erdgas usw.
+- o) …
+- p) …
 
 <sup>2</sup> …
 
@@ -126,36 +125,47 @@ beschliesst:
 
 **Abnahmekontrolle**
 
-<sup>1</sup> Nach der Fertigstellung von Bauten und anderen bewilligungspflichtigen Anlagen und Einrichtungen führt die Bewilligungsbehörde eine Abnahmekontrolle durch.
+<sup>1</sup> …
 
-<sup>2</sup> Die Bauherrschaft ist verpflichtet, der Bewilligungsbehörde die Fertigstellung vor der Inbetriebnahme anzuzeigen.
+<sup>2</sup> …
 
-<sup>3</sup> Die Bewilligungsbehörde kann die Inbetriebnahme von einer Prüfung der Einhaltung der Brandschutzauflagen abhängig machen und die Vorlage von Attesten anerkannter Prüfstellen verlangen.
+<sup>3</sup> Die Bewilligungsbehörde kann die Inbetriebnahme von Bauten und anderen bewilligungspflichtigen Anlagen und Einrichtungen von einer Prüfung der Einhaltung der Brandschutzauflagen abhängig machen und die Vorlage von Attesten anerkannter Prüfstellen verlangen.
 
 #### § 8
 
-**Feuerschau**
+**Periodische Kontrollen**
 
-<sup>1</sup> Zur Feststellung und Beseitigung von Brandschutzmängeln führen die Bewilligungsbehörden periodisch oder nach Bedarf im Einzelfall eine Feuerschau durch.
+<sup>1</sup> Zur Feststellung und Beseitigung von Brandschutzmängeln können die Bewilligungsbehörden nach Bedarf periodisch oder im Einzelfall eine Kontrolle durchführen.
 
-<sup>2</sup> Der Kontrollturnus der kantonalen Feuerschau richtet sich nach der potenziellen Gefahr für Personen und Sachen als Folge von Brandschutzmängeln in Gebäuden, Anlagen und Einrichtungen.
+<sup>2</sup> Der Kontrollturnus der periodischen Kontrolle richtet sich nach der potenziellen Gefahr für Personen und Sachen als Folge von Brandschutzmängeln in Gebäuden, Anlagen und Einrichtungen.
 
-<sup>3</sup> Die kommunale periodische Feuerschau findet mindestens alle 10 Jahre statt. Von der Pflicht zur periodischen Feuerschau ausgenommen sind Ein- und Zweifamilienhäuser sowie Kleinbauten. Zu prüfen ist insbesondere, ob
+<sup>3</sup> …
 
-- a) alle Feuerungs- und Rauchabzugsanlagen den Vorschriften entsprechen und ordnungsgemäss unterhalten sind;
-- b) allfälliges brennbares Material in einem genügenden Abstand von Feuerungseinrichtungen gelagert ist;
-- c) Asche, Rauchzeugabfälle und Putzlappen vorschriftsgemäss aufbewahrt werden;
-- d) die Treppenhäuser und alle sonstigen Fluchtwege frei zugänglich sind;
-- e) die vorgeschriebenen Löscheinrichtungen und -geräte einsatzbereit sind;
-- f) Treibstoffe oder andere feuergefährliche Stoffe vorschriftsgemäss gelagert sind;
-- g) Fahrzeuge, Geräte oder Maschinen mit Verbrennungsmotoren den Vorschriften entsprechend ein- oder aufgestellt sind;
-- h) andere offensichtliche Mängel bestehen.
+<sup>4</sup> Die Bewilligungsbehörden können für technische Brandschutzeinrichtungen die Vorlage von Attesten anerkannter Prüfstellen verlangen.
 
 ## 3.
 
 #### § 9
 
 **…**
+
+## 3<sup>bis</sup> Kaminfegerwesen
+
+#### § 9a
+
+**Liste der Fachpersonen**
+
+<sup>1</sup> Der Eintrag in die Liste der Fachpersonen erfolgt auf Gesuch hin unentgeltlich und personenbezogen.
+
+#### § 9b
+
+**Wesentliche Mängel**
+
+<sup>1</sup> Die Fachperson meldet wesentliche Mängel, die sie nicht sofort beheben kann, unverzüglich der zuständigen Behörde.
+
+<sup>2</sup> Diese führt spätestens nach Ablauf der von der Fachperson gesetzten Frist eine Nachkontrolle durch. Nötigenfalls verfügt die Behörde eine kürzere Frist.
+
+<sup>3</sup> Die Aargauische Gebäudeversicherung kann festlegen, welche Mängel wesentlich sind.
 
 ## 4. Schluss- und Übergangsbestimmungen
 
