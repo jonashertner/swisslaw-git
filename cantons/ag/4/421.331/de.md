@@ -4,13 +4,13 @@ number: "421.331"
 title: Verordnung über die Förderung von Kindern und Jugendlichen mit besonderen schulischen Bedürfnissen
 short: V Förderung bei besonderen schulischen Bedürfnissen
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-03-20
+version: 2022-01-01
+valid_until: 2025-07-31
+version_adopted: 2021-04-07
 adopted: 2000-06-28
 in_force: 2000-10-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/421.331"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2756/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3717/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2756/pdf_file"
 
 (V Förderung bei besonderen schulischen Bedürfnissen)
 
-Vom 28.06.2000 (Stand 01.01.2020)
+Vom 28.06.2000 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -149,7 +149,7 @@ beschliesst:
 
 **Kurse in heimatlicher Sprache und Kultur**
 
-<sup>1</sup> Das Departement Bildung, Kultur und Sport vermittelt zwischen Schulpflegen, Konsulaten und Elternvereinigungen Kurse in heimatlicher Sprache und Kultur.
+<sup>1</sup> Das Departement Bildung, Kultur und Sport vermittelt zwischen Gemeinderäten, Konsulaten und Elternvereinigungen Kurse in heimatlicher Sprache und Kultur.
 
 <sup>2</sup> Die Kurse werden durch Konsulate und Elternvereinigungen organisiert und können nach Bedarf bis zu 4 Unterrichtsstunden pro Woche umfassen. Die zuständigen Stellen und Behörden fördern durch eine angemessene Stundenplangestaltung, durch allfällige Dispensationen und durch unentgeltliche Überlassung von Schulraum und Verbrauchsmaterialien die Integration dieser Kurse in die bestehende Schulorganisation.
 
@@ -171,9 +171,9 @@ beschliesst:
 
 **Förderung**
 
-<sup>1</sup> Die Schule hat dafür zu sorgen, dass die Förderung von Schülerinnen und Schülern mit herausragenden Fähigkeiten, hohem Engagement und hoher Kreativität in erster Linie innerhalb der bestehenden Schulorganisation sichergestellt ist.
+<sup>1</sup> Der Gemeinderat hat dafür zu sorgen, dass die Begabungsförderung in erster Linie innerhalb der bestehenden Schulorganisation und mit den zur Verfügung stehenden Mitteln vor Ort sichergestellt ist.
 
-<sup>2</sup> Sie kann Schülerinnen und Schülern mit besonderen Begabungen den Besuch von Lektionen in einer höheren Klasse oder in einem anderen Schultyp gestatten.
+<sup>2</sup> Er kann Schülerinnen und Schülern mit besonderen Begabungen den Besuch von Lektionen in einer höheren Klasse oder in einem anderen Schultyp gestatten.
 
 <sup>3</sup> …
 
@@ -271,13 +271,13 @@ beschliesst:
 
 **Zuweisung**
 
-<sup>1</sup> Die Schulpflege am Herkunftsort der betreffenden Schülerin beziehungsweise des betreffenden Schülers entscheidet aufgrund folgender Unterlagen über die Zuweisung:
+<sup>1</sup> Der Gemeinderat am Herkunftsort der betreffenden Schülerin beziehungsweise des betreffenden Schülers entscheidet aufgrund folgender Unterlagen über die Zuweisung:
 
 - a) Gesamtbericht der Schulleitung und der Klassenlehrperson zur aktuellen Lage mit einer Liste der bisher getroffenen Massnahmen, mit den laufenden oder geplanten therapeutischen oder medizinischen Behandlungen, mit den erzielten Wirkungen und mit einer Absichtserklärung zur Wiederaufnahme;
 - b) Bericht des Schulpsychologischen Dienstes zu den Auffälligkeiten, zu den möglichen Ursachen und zum Veränderungspotential;
 - c) schriftliche Erklärung der Eltern zur Kooperationsbereitschaft und Übernahme eines Elternbeitrags für die Verpflegung ihres Kindes im Rahmen der Tagesschule.
 
-<sup>2</sup> Sie hat vorgängig beim Departement Bildung, Kultur und Sport die Zustimmung zur beabsichtigten Zuweisung einzuholen.
+<sup>2</sup> Er hat vorgängig beim Departement Bildung, Kultur und Sport die Zustimmung zur beabsichtigten Zuweisung einzuholen.
 
 #### § 34c
 
