@@ -1,288 +1,253 @@
 ---
 canton: TG
 number: "172.31"
-title: Informatikreglement
-short: ITR
+title: Informatikverordnung
+short: ITV
 language: de
-version: 2020-04-18
-valid_until: 2021-12-31
-version_adopted: 2020-04-07
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-12-14
 adopted: 2021-12-14
 in_force: 2022-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/172.31"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1776/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1967/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Informatikreglement
+# Informatikverordnung
 
-ITR
+ITV
 
-(ITR)
+(ITV)
 
-vom 17.12.1991 (Stand 18.04.2020)
+vom 14.12.2021 (Stand 01.01.2022)
 
-## 1. Allgemeines
+## 1. Geltungsbereich und Grundlagen
 
 #### § 1
 
-**Zielsetzung**
+**Geltungsbereich**
 
-<sup>1</sup> Ziele des Einsatzes von Informatikmitteln sind insbesondere:
+<sup>1</sup> Diese Verordnung gilt für alle Departemente, die Staatskanzlei und die Gerichte.
 
-- 1\. Verbessern des Informationsstandes der Verwaltung und Verkürzen der Reaktionszeit für die Führung;
-- 2\. Steigerung der Attraktivität der Arbeitsplätze;
-- 3\. Transparenz des Verwaltungshandelns;
-- 4\. rationeller Einsatz der personellen und sachlichen Mittel durch Automatisierung der Routineabläufe.
+<sup>2</sup> Für den Unterricht an kantonalen Schulen findet diese Verordnung keine Anwendung.
+
+<sup>3</sup> Der Regierungsrat kann weitere Ausnahmen vom Geltungsbereich festlegen.
 
 #### § 2
 
-**Geltungsbereich**
+**Strategien des Regierungsrates**
 
-<sup>1</sup> Dieses Reglement gilt für die Zentralverwaltung, die unselbständigen Anstalten, die Bezirks- und Kreisämter sowie die Gerichte.
+<sup>1</sup> Der Regierungsrat erlässt:
 
-<sup>2</sup> Das Departement für Erziehung und Kultur und das Amt für Informatik koordinieren den Einsatz von Informatikmitteln, welche im Unterricht an kantonalen Schulen und in der Lehrerfortbildung eingesetzt werden. Im übrigen findet dieses Reglement für diese Bereiche keine Anwendung.
+- 1\. IT-Strategie des Kantons Thurgau
+- 2\. Strategie Digitale Verwaltung Thurgau
+
+<sup>2</sup> Die IT-Strategie bestimmt die Grundsätze und strategischen Ziele für den Einsatz von Informations- und Kommunikationstechnologien.
+
+<sup>3</sup> Die Strategie Digitale Verwaltung Thurgau bestimmt die Grundsätze für eine moderne, digitale Verwaltung und bezeichnet die wesentlichen Handlungsfelder.
 
 #### § 3
 
-**Begriff**
+**Richtlinien**
 
-<sup>1</sup> Informatik im Sinne dieses Reglementes ist die computerunterstützte Erfassung, Verarbeitung, Auswertung, Aufbewahrung, Übertragung und Verbreitung von Informationen unter Einsatz der dazu notwendigen personellen, technischen, organisatorischen und finanziellen Mittel und Methoden.
+<sup>1</sup> Die IT-Betriebskommission erlässt Richtlinien für den Einsatz der Büroinformationssysteme (BIS-Strategie).
 
-#### § 3a
+<sup>2</sup> Das Amt für Informatik erlässt Richtlinien für Benutzung, Beschaffung und Unterhalt der Informatik-Systeme sowie für die Projektmethodik.
 
-**Leitbild**
-
-<sup>1</sup> Das Informatik-Leitbild legt die strategischen Vorgaben für den Informatik-Einsatz, die Grundsätze der Projektabwicklung sowie die Beschaffungsstrategie fest.
+## 2. Organisation
 
 #### § 4
 
-**Handbuch**
+**Zuständiges Departement**
 
-<sup>1</sup> Das Amt für Informatik erstellt ein Informatik-Handbuch, welches laufend nachzuführen ist.
-
-<sup>2</sup> Das Handbuch erläutert die für den Anwender wesentlichen Fragen insbesondere im Zusammenhang mit den strategischen Vorgaben, der Projektabwicklung sowie der Beschaffung und dem Unterhalt von Informatik-Systemen.
-
-<sup>3</sup> Neue strategische Vorgaben sowie neue Hard- und Software-Standards können dem Anwender gegenüber nur geltend gemacht werden, nachdem sie im Handbuch veröffentlicht wurden.
+<sup>1</sup> Zuständiges Departement für die Informatik ist das Departement für Inneres und Volkswirtschaft.
 
 #### § 5
 
-**Datenschutz**
+**Amt für Informatik**
 
-<sup>1</sup> Alle Projekte, bei welchen Personendaten verarbeitet werden, sind vom Amt für Informatik dem Datenschutzbeauftragten zur Stellungnahme zu unterbreiten.
+<sup>1</sup> Das Amt für Informatik ist die Informatik-Dienststelle der kantonalen Verwaltung.
 
-<sup>2</sup> Das Amt für Informatik und der Anwender haben sich insbesondere zu vergewissern, ob die Stellungnahme des Datenschutzbeauftragten eingeholt und die erforderlichen Massnahmen getroffen wurden.
+<sup>2</sup> Es trägt die Verantwortung für die zentrale Beschaffung von Hard- und Software.
+
+<sup>3</sup> Es unterstützt die einzelnen Amtsstellen in Informatikbelangen und bestimmt die notwendigen Vorgaben in technischer Hinsicht.
 
 #### § 6
 
-**Informationspflicht**
-
-<sup>1</sup> Das Amt für Informatik sorgt zusammen mit den Koordinatoren für die Information im Informatikbereich.
-
-<sup>2</sup> Die Vorgesetzten sorgen zusammen mit den Projektleitern für die Information der von der Planung, Realisierung oder Einführung von Informatiklösungen betroffenen Mitarbeiter.
-
-#### § 7
-
-**Ausbildung**
-
-<sup>1</sup> Das Personalamt ist zusammen mit dem Amt für Informatik und der Büromaterial-, Lehrmittel- und Drucksachenzentrale für eine funktions- und stufengerechte Aus- und Weiterbildung der Mitarbeiter auf dem Gebiet der Informatik und angrenzender Bereiche verantwortlich.
-
-## 2. Beschaffungsgrundsätze
-
-#### § 8
-
-**Beschaffung von Hard- und Software**
-
-<sup>1</sup> Die Beschaffung von Hard- und Software erfolgt nach den im Leitbild und Handbuch enthaltenen strategischen und operativen Vorgaben.
-
-<sup>2</sup> Abweichungen sind in der Regel nur zulässig, soweit keine übergeordneten Interessen in bezug auf den Datenaustausch entgegenstehen.
-
-<sup>3</sup> Bei der Software-Beschaffung sind folgende Grundsätze zu beachten:
-
-- 1\. die Lösung soll möglichst kostengünstig sein, wobei neben Investitions- und Schulungskosten insbesondere auch die Folgekosten zu berücksichtigen sind;
-- 2\. die Zusammenarbeit insbesondere mit anderen Kantonen ist zu fördern;
-- 3\. das Amt für Informatik stellt die Möglichkeit für Eigenentwicklungen sicher.
-
-<sup>4</sup> Für Offertanfragen und Bestellungen von Informatikmitteln ist ausschliesslich das Amt für Informatik zuständig.
-
-#### § 9
-
-**Verwendung fremder Hard- und Software**
-
-<sup>1</sup> Die Verwendung von Hard- und Software, für welche der Kanton keine Eigentums- und Nutzungsrechte hat, ist untersagt.
-
-<sup>2</sup> Das Amt für Informatik kann Ausnahmen im Einvernehmen mit dem betreffenden Amtschef bewilligen.
-
-## 3. Organe
-
-#### § 10
-
-**Informatik-Organe**
+**Organe**
 
 <sup>1</sup> Informatikorgane sind:
 
-- 1\. Informatik-Kommission;
-- 2\. Amt für Informatik;
-- 3\. Koordinatoren;
-- 4\. Lenkungsausschüsse.
+- 1\. Steuerungsausschuss Informatik
+- 2\. IT-Betriebskommission
+- 3\. IT-Koordinierende
+
+<sup>2</sup> Organe zur Umsetzung der Strategie Digitale Verwaltung sind:
+
+- 1\. Steuerungsausschuss Digitale Verwaltung
+- 2\. Kompetenzzentrum Digitale Verwaltung
+- 3\. Digitalisierungsverantwortliche
+
+#### § 7
+
+**Steuerungsausschuss Informatik**
+
+<sup>1</sup> Mitglieder des Steuerungsausschusses Informatik sind:
+
+- 1\. Staatsschreiberin oder Staatsschreiber
+- 2\. Generalsekretärinnen oder Generalsekretäre der Departemente
+- 3\. Chefin oder Chef des Amts für Informatik
+
+<sup>2</sup> Der Vorsitz liegt bei der Generalsekretärin oder dem Generalsekretär des zuständigen Departements.
+
+<sup>3</sup> Entsprechend den traktandierten Geschäften werden Vertretungen ohne Stimmrecht beigezogen, namentlich aus der Finanzverwaltung, dem Personalamt, dem Staatsarchiv, den Gerichten, dem Kompetenzzentrum Digitale Verwaltung und den von Projekten betroffenen Ämtern.
+
+#### § 8
+
+**Aufgaben des Steuerungsausschusses Informatik**
+
+<sup>1</sup> Der Steuerungsausschuss Informatik berät Fragen der Informatikplanung und -realisierung.
+
+<sup>2</sup> Er stellt Antrag zu den Informatikprojekten, die vom Regierungsrat genehmigt werden oder bei denen das Einvernehmen zwischen dem Amt für Informatik und dem für das Projekt zuständigen Departement, der Staatskanzlei oder dem zuständigen Amt fehlt.
+
+<sup>3</sup> Er tagt bei Bedarf, wenn möglich abgestimmt auf den Sitzungsrhythmus der Generalsekretärenkonferenz (GSK).
+
+#### § 9
+
+**IT-Betriebskommission**
+
+<sup>1</sup> Mitglieder der IT-Betriebskommission sind:
+
+- 1\. Generalsekretärin oder Generalsekretär des zuständigen Departements (Vorsitz)
+- 2\. Chefin oder Chef des Amts für Informatik
+- 3\. IT-Koordinierende der Departemente und der Staatskanzlei
+- 4\. je eine vom Staatsarchiv und vom Personalamt bestimmte Person
+
+<sup>2</sup> Mit beratender Stimme nehmen an den Sitzungen teil:
+
+- 1\. Leiterin oder Leiter der für die Büroinformationssysteme zuständigen Abteilung des Amts für Informatik
+- 2\. Leiterin oder Leiter des Kompetenzzentrums Digitale Verwaltung
+
+<sup>3</sup> Die IT-Betriebskommission kann für bestimmte Aufgaben oder Projekte Ausschüsse bilden oder weitere Personen in beratender Funktion beiziehen.
+
+#### § 10
+
+**Aufgaben der IT-Betriebskommission**
+
+<sup>1</sup> Die IT-Betriebskommission vertritt die Interessen der Nutzerinnen und Nutzer der in der kantonalen Verwaltung verwendeten Büroinformationssysteme.
+
+<sup>2</sup> Sie berät die Beschaffung und den Einsatz der Büroinformationssysteme und erlässt Vorgaben, die den Betrieb fördern, unterstützen und erleichtern.
+
+<sup>3</sup> Sie kann Anträge zuhanden des Steuerungsausschusses Informatik stellen oder in dessen Auftrag bestimmte Aufgaben übernehmen.
 
 #### § 11
 
-**Entscheidungsinstanzen**
+**IT-Koordinierende**
 
-<sup>1</sup> Departementsübergreifende Projekte (Konzernprojekte) sowie Departements- oder Amtsprojekte über Fr. 200'000 genehmigt der Regierungsrat.
+<sup>1</sup> Jedes Departement, die Staatskanzlei sowie jedes Amt und die Gerichte bestimmen eine IT-Koordinierende oder einen IT-Koordinierenden für die Informatik im entsprechenden Bereich.
 
-<sup>2</sup> Departements- oder Amtsprojekte über Fr. 50'000 bis Fr. 200'000 genehmigt der zuständige Departementschef im Einvernehmen mit dem Amt für Informatik.
+<sup>2</sup> Die IT-Koordinierenden dienen als Anlaufstelle gegenüber dem Amt für Informatik und unterstützen ihre vorgesetzte Stelle in allen Belangen der Informatik, insbesondere in Fragen der Organisation, Planung, Beschaffung und Budgetierung.
 
-<sup>3</sup> Departements- oder Amtsprojekte bis Fr. 50'000 genehmigt der Chef des Amtes für Informatik im Einvernehmen mit dem zuständigen Departements- oder Amtschef.
-
-<sup>4</sup> Massgebend sind die Nettopreise für das Gesamtprojekt ohne Folgekosten.
-
-<sup>5</sup> Projektgenehmigungen erfolgen unter dem Vorbehalt der Budgetgenehmigung durch den Grossen Rat.
+<sup>3</sup> Das Amt für Informatik organisiert periodische Informationsveranstaltungen und Schulungen für die IT-Koordinierenden, namentlich im Hinblick auf die Einführung neuer Hard- oder Software.
 
 #### § 12
 
-**Informatik-Kommission**
+**Steuerungsausschuss Digitale Verwaltung**
 
-<sup>1</sup> Die Informatik-Kommission ist organisatorisch dem Departement für Inneres und Volkswirtschaft angegliedert.
+<sup>1</sup> Der Steuerungsausschuss Digitale Verwaltung entspricht dem Steuerungsausschuss Informatik ergänzt durch die Chefin oder den Chef des:
 
-<sup>2</sup> Sie setzt sich zusammen aus dem Präsidenten, je einem Vertreter der Departemente, der Staatskanzlei und der Gerichte sowie den Chefs des Amtes für Informatik, der Finanzverwaltung, des Personalamtes, der Büromaterial-, Lehrmittel- und Drucksachenzentrale und des Staatsarchivs.
+- 1\. zuständigen Departements (Vorsitz)
+- 2\. Departements für Finanzen und Soziales
+- 3\. Personalamts
 
-<sup>3</sup> Der Generalsekretär des Departementes für Inneres und Volkswirtschaft ist Präsident der Informatik-Kommission. Der Chef des Departementes für Inneres und Volkswirtschaft nimmt nach Möglichkeit an den Sitzungen teil.
+<sup>2</sup> Die Leiterin oder der Leiter des Kompetenzzentrums Digitale Verwaltung nimmt an den Sitzungen mit beratender Stimme teil.
+
+<sup>3</sup> Der Steuerungsausschuss ist für die Umsetzung der Strategie Digitale Verwaltung verantwortlich, legt die Schwerpunktplanung fest und beantragt beim Regierungsrat das Budget für das Impulsprogramm und das Kompetenzzentrum.
 
 #### § 13
 
-**Aufgaben der Informatik-Kommission**
+**Kompetenzzentrum Digitale Verwaltung**
 
-<sup>1</sup> Die Informatik-Kommission ist beratendes und antragstellendes Organ für Fragen der Informatik-Planung und -Realisierung; sie nimmt vom Informatikbudget Kenntnis.
+<sup>1</sup> Das Kompetenzzentrum Digitale Verwaltung (KDV) untersteht fachlich dem Steuerungsausschuss Digitale Verwaltung und ist administrativ dem Amt für Informatik angegliedert.
 
-<sup>2</sup> Sie stellt Antrag zu den Projekten, die vom Regierungsrat genehmigt werden oder bei welchen zwischen dem Amt für Informatik und dem Projektauftraggeber das Einvernehmen fehlt.
+<sup>2</sup> Es ist für die Umsetzung der Schwerpunktplanung zuständig, stellt Anträge an den Steuerungsausschuss Digitale Verwaltung und erbringt Leistungen für die kantonale Verwaltung, die unselbständigen Anstalten, die kantonalen Schulen und Betriebe und die Gerichte.
 
-<sup>3</sup> Sie kann Sachverständige beiziehen sowie aus ihren Reihen Ausschüsse bilden und diesen die Antragstellung delegieren.
+<sup>3</sup> Für die Koordination der Umsetzung arbeitet es insbesondere mit dem Amt für Informatik, dem Personalamt, den Digitalisierungsverantwortlichen der Departemente und der Staatskanzlei sowie mit den Gerichten zusammen.
 
 #### § 14
 
-**Amt für Informatik**
+**Digitalisierungsverantwortliche**
 
-<sup>1</sup> Das Amt für Informatik ist die zentrale Informatik-Dienststelle der kantonalen Verwaltung.
+<sup>1</sup> Alle Departemente, die Staatskanzlei und die Gerichte bestimmen eine Digitalisierungsverantwortliche oder einen Digitalisierungsverantwortlichen.
 
-<sup>2</sup> Es trägt die Verantwortung für die Realisierung von Projekten, unterstützt die einzelnen Amtsstellen in Informatikbelangen und ist für die Anpassung der strategischen Vorgaben in technischer Hinsicht zuständig.
+<sup>2</sup> Die Digitalisierungsverantwortlichen treiben die digitale Transformation in ihren Organisationseinheiten voran.
+
+<sup>3</sup> Sie führen das Projektportfolio und unterstützen die Projekte im eigenen Bereich.
+
+<sup>4</sup> In der Zusammenarbeit mit dem KDV bringen sie die Interessen und Bedürfnisse ihrer Organisationseinheiten ein.
+
+## 3. Budgetierung, Beschaffung und Projekte
 
 #### § 15
 
-**Koordinatoren**
+**Informatikbudget**
 
-<sup>1</sup> Für jedes Departement und die Gerichte wird von den zuständigen Departementschefs beziehungsweise dem Präsidenten des Obergerichts je ein Koordinator bestimmt.
+<sup>1</sup> Das Amt für Informatik ermittelt in Zusammenarbeit mit allen Ämtern und Dienststellen der kantonalen Verwaltung sowie den Gerichten die Informatikbedürfnisse für das Budgetjahr und die Finanzplanjahre. Die Informatikbedürfnisse sind durch die Ämter und Dienststellen zu priorisieren.
 
-<sup>2</sup> Die Koordinatoren der Departemente sind den Generalsekretariaten unterstellt.
+<sup>2</sup> In Zusammenarbeit mit dem zuständigen Departement und der Staatskanzlei wird ein konsolidierter Budgetentwurf für die gesamte kantonale Verwaltung erstellt und dem Regierungsrat vorgelegt.
 
-<sup>3</sup> Die Tätigkeit der Koordinatoren umfasst insbesondere:
-
-- 1\. Erarbeitung des Informatik-Planes für ihren Bereich;
-- 2\. Festlegung der Prioritäten für die Beschaffung nach Weisung des Departementschefs;
-- 3\. Stellungnahmen zu Projektanträgen und Konzepten zuhanden des Amtes für Informatik;
-- 4\. Förderung der informatikgerechten Organisation in den Ämtern und Anstalten ihres Bereiches.
-
-<sup>4</sup> Die Koordinatoren treffen sich periodisch unter der Leitung des Amtes für Informatik.
-
-#### § 15a
-
-**Betriebskommission Büroinformationssysteme**
-
-<sup>1</sup> Die Betriebskommission Büroinformationssysteme (BK BIS) ist organisatorisch dem Departement für Inneres und Volkswirtschaft angegliedert und wird von diesem gewählt.
-
-<sup>2</sup> Sie setzt sich zusammen aus dem Vorsitzenden, den Koordinatoren und Koordinatorinnen, dem Chef des Amtes für Informatik, einem Vertreter des Staatsarchivs, des Personalamtes sowie dem Abteilungsleiter Konzern und Ämter des Amtes für Informatik, letzterer mit beratender Stimme.
-
-<sup>3</sup> Vorsitzender ist der Generalsekretär des Departementes für Inneres und Volkswirtschaft.
-
-<sup>4</sup> Die Leiter von Projekten, die in enger Beziehung zu den Büroinformationssystemen stehen, nehmen während der Projektdauer in der BK BIS Einsitz.
-
-#### § 15b
-
-**Aufgaben**
-
-<sup>1</sup> Die BK BIS erarbeitet strategische und operative Vorgaben für den Einsatz der Büroinformationssysteme und stellt deren Umsetzung sicher. Im Einverständnis mit der Generalsekretärenkonferenz ist sie befugt, Querschnittsprozesse zu definieren, abzuändern oder aufzuheben.
-
-<sup>2</sup> Sie legt nach Rücksprache mit dem Staatsschreiber oder dem zuständigen Generalsekretär zusammen mit der Amts- oder Betriebsleitung Massnahmen fest, die dem Einsatz der Büroinformationssysteme im Amt oder Betrieb dienen.
-
-<sup>3</sup> Einigen sich BK BIS und Amts- oder Betriebsleitung hinsichtlich des Vorgehens oder dessen Umsetzung nicht, beantragt die BK BIS dem zuständigen Departementschef oder dem Staatsschreiber die erforderlichen Massnahmen.
-
-#### § 15c
-
-**Portal**
-
-<sup>1</sup> Für das Intranet-Portal der kantonalen Verwaltung sind zuständig:
-
-- 1\. die BK BIS für die Einrichtung und Förderung des Portals als übergeordnete elektronische Informationsplattform für alle Mitarbeiter und Mitarbeiterinnen;
-- 2\. der Informationsdienst für den Inhalt der übergeordneten Angebote, die zu verwendenden Begriffe und das Erscheinungsbild;
-- 3\. das Amt für Informatik für die Ausbreitung, technische Betreuung und Entwicklung des Portals.
-
-<sup>2</sup> Anträge für neue und für Änderungen bestehender Angebote sind beim Informationsdienst einzureichen. Er prüft die Gesuche nach Massgabe ihrer verwaltungsweiten Bedeutung und des Informationsbedarfs und stellt der BK BIS Antrag. Diese entscheidet abschliessend.
+<sup>3</sup> Der Regierungsrat berät den Budgetentwurf und nimmt die notwendigen Priorisierungen und allfällige konkrete oder pauschale Korrekturen vor.
 
 #### § 16
 
-**Lenkungsausschüsse**
+**Zentrale Beschaffung**
 
-<sup>1</sup> Für Projekte ist in der Regel je ein Lenkungsausschuss zu bilden.
+<sup>1</sup> Die Beschaffung von Hard- und Software erfolgt zentral und ausschliesslich durch das Amt für Informatik nach den in der IT-Strategie und in den Richtlinien festgelegten strategischen und operativen Vorgaben.
 
-<sup>2</sup> Dem Lenkungsausschuss gehören mindestens die Projektleiter, der Chef oder ein Vertreter des Amtes für Informatik, der Amtschef und der Koordinator an.
+<sup>2</sup> Das Amt für Informatik kann im Einvernehmen mit dem betreffenden Amt Ausnahmen bewilligen.
 
-<sup>3</sup> Die Lenkungsausschüsse planen, beurteilen und überwachen die Projekte. Sie bestimmen die Projektmitarbeiter.
-
-## 4. Projekte
+<sup>3</sup> Für die Zuständigkeiten und Verfahrensabläufe bei Beschaffungen gelten die Bestimmungen über das öffentliche Beschaffungswesen.
 
 #### § 17
 
-**Projektablauf**
+**Verwendung fremder Software**
 
-<sup>1</sup> Informatik-Projekte werden mit einem Antrag an den zuständigen Koordinator eingeleitet.
+<sup>1</sup> Die Verwendung von Software, für die der Kanton keine Eigentums- oder Nutzungsrechte besitzt, ist untersagt.
 
-<sup>2</sup> Das Amt für Informatik legt im Einzelfall das Projektverfahren fest.
+<sup>2</sup> Für die Verwendung von Cloud-Lösungen ist die Zustimmung des Amts für Informatik und der Aufsichtsstelle Datenschutz und Öffentlichkeitsprinzip einzuholen.
 
 #### § 18
 
-**Externe Berater**
+**Freigabe von Projekten**
 
-<sup>1</sup> Die Unterstützung durch externe Berater ist restriktiv zu handhaben und kann ausnahmsweise in folgenden Fällen bewilligt werden:
+<sup>1</sup> Projekte über Fr. 200'000 werden durch den Regierungsrat freigegeben.
 
-- 1\. Lösung komplexer Fragestellungen;
-- 2\. strategische Planung;
-- 3\. Abdeckung des Spitzenbedarfs;
-- 4\. Fehlen des Fachwissens für bestimmte Aufgaben.
+<sup>2</sup> Projekte über Fr. 100'000 bis Fr. 200'000 werden durch das betroffene Departement oder die Staatskanzlei im Einvernehmen mit dem Amt für Informatik freigegeben.
+
+<sup>3</sup> Projekte bis Fr. 100'000 werden durch das betroffene Amt oder den Betrieb im Einvernehmen mit dem Amt für Informatik freigegeben.
+
+<sup>4</sup> Massgebend für die Projektfreigabe sind die Nettopreise ohne Folgekosten.
 
 #### § 19
 
-**Projektmitarbeiter**
+**Datenschutz**
 
-<sup>1</sup> Für jedes Projekt ist ein Projektteam einzusetzen.
+<sup>1</sup> Alle Projekte, bei denen Personendaten verarbeitet werden sollen, sind von der auftraggebenden Stelle der Aufsichtsstelle Datenschutz und Öffentlichkeitsprinzip zur Stellungnahme zu unterbreiten.
 
-<sup>2</sup> Der zuständige Amtschef setzt in Absprache mit dem Koordinator den Projektleiter Benutzer ein. Der Chef des Amtes für Informatik bestimmt den Projektleiter Informatik.
+<sup>2</sup> In allen Projekten sind die für den Datenschutz erforderlichen Massnahmen einzuhalten.
 
-<sup>3</sup> Sofern kein Lenkungssausschuss zu bilden ist, bestimmt der Amtschef in Absprache mit dem Chef des Amtes für Informatik die Projektmitarbeiter.
+## 4. Konfliktbewältigung
 
 #### § 20
 
-**Finanzielle Bestimmungen**
+**Eskalationsstufen**
 
-<sup>1</sup> Das Handbuch legt fest, für welche Informatik-Projekte vom Anwender eine Gegenüberstellung von Kosten und Nutzen zu erstellen ist.
+<sup>1</sup> Bei Konflikten zwischen den an Informatikprojekten beteiligten Stellen entscheidet der Steuerungsausschuss Informatik.
 
-<sup>2</sup> …
+<sup>2</sup> Die Chefin oder der Chef der betroffenen Departemente und die Staatsschreiberin oder der Staatsschreiber können die Angelegenheit dem Regierungsrat zur abschliessenden Entscheidung vorlegen.
 
-#### § 21
+<sup>3</sup> Bei Konflikten im Rahmen von Projekten zur Umsetzung der Strategie Digitale Verwaltung entscheidet der Steuerungsausschuss Digitale Verwaltung abschliessend.
 
-**…**
-
-## 5. Schlussbestimmungen
-
-#### § 22
-
-**Auseinandersetzungen**
-
-<sup>1</sup> Bei Auseinandersetzungen zwischen Anwendern und Informatikorganen entscheidet der Chef des Departementes für Inneres und Volkswirtschaft nach Rücksprache mit dem Chef des Departementes, welchem der Anwender angehört.
-
-#### § 23–24
-
-**…**
-
-1/1992
+ABl. 50/2021
