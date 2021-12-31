@@ -4,13 +4,13 @@ number: "890.700"
 title: Gesetz über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen
 short: "Harmonisierungsgesetz Sozialleistungen, SoHaG"
 language: de
-version: 2015-07-01
-valid_until: 2021-12-31
-version_adopted: 2014-05-21
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2019-05-08
 adopted: 2008-06-25
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/890.700"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3725/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5347/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Harmonisierung von Sozialleistungen: Gesetz | Sozialhilfe / Sozialbeiträge
 
 (Harmonisierungsgesetz Sozialleistungen, SoHaG)
 
-Vom 25. Juni 2008 (Stand 1. Juli 2015)
+Vom 25. Juni 2008 (Stand 1. Januar 2022)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -37,13 +37,13 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Dieses Gesetz bezweckt die Harmonisierung und Koordination folgender kantonaler und kommunaler bedarfsabhängiger Sozialleistungen:
+<sup>1</sup> Dieses Gesetz regelt insbesondere die Grundsätze für
 
 - a) Alimentenbevorschussung[^1-1];
 - b) …
 - c) Mietzinsbeiträge[^1-2];
 - d) Prämienverbilligung[^1-3];
-- e) Betreuungsbeiträge/Tagesbetreuung[^1-4] Unterbringung von Kindern und Jugendlichen in Heimen und Pflegefamilien[^1-5] ;
+- e) Beiträge an die Tagesbetreuung[^1-4], Unterbringung von Kindern und Jugendlichen in Heimen und Pflegefamilien[^1-5] ;
 - f) Leistungen, für welche einkommensabhängige Vergünstigungen gewährt werden.
 
 <sup>2</sup> Die Sozialleistungen gemäss Abs. 1 lit. a bis e werden nachfolgend als Leistungen, jene nach Abs. 1 lit. f als Verbilligungen bezeichnet.
@@ -51,8 +51,8 @@ beschliesst:
 [^1-1]: Verordnung über das Inkasso und die Bevorschussung von Unterhaltsforderungen (Alimentenbevorschussungsverordnung, ABVV) vom 25. November 2008 (SG [212.200](https://www.gesetzessammlung.bs.ch/data/212.200/de)).
 [^1-2]: Gesetz über die Ausrichtung von Mietzinsbeiträgen an Familien mit Kindern (Mietbeitragsgesetz, MBG) vom 21. November 1990 (SG [890.500](https://www.gesetzessammlung.bs.ch/data/890.500/de)).
 [^1-3]: Gesetz über die Krankenversicherung im Kanton Basel-Stadt vom 15. November 1989 (SG [834.400](https://www.gesetzessammlung.bs.ch/data/834.400/de)).
-[^1-4]: Gesetz betreffend die Tagesbetreuung von Kindern vom 17. September 2003 (SG [815.100](https://www.gesetzessammlung.bs.ch/data/815.100/de)). Mit Änderung vom 17. 9. 2015 ist § 10 des Tagesbetreuungsgesetzes per 1. 1. 2016 aufgehoben worden. Diese Bestimmung war Grundlage für die Ausrichtung von Betreuungsbeiträgen, die somit seither nicht mehr ausgerichtet werden.
-[^1-5]: Verordnung über Beiträge an die Betreuung von Kindern und Jugendlichen in Heimen und Pflegefamilien vom 25. Oktober 1988 (SG [212.470](https://www.gesetzessammlung.bs.ch/data/212.470/de); Fussnote in der Fassung von § 27 Abs. 2 lit. q des Kindes- und Erwachsenenschutzgesetzes vom 12. 9. 2012 (wirksam seit 1. 1. 2013, SG 212.400; Geschäftsnr. [11.0811](http://www.grosserrat.bs.ch/?gnr=11.0811)).
+[^1-4]: Gesetz betreffend Tagesbetreuung von Kindern vom 8. Mai 2019 (SG [815.100](https://www.gesetzessammlung.bs.ch/data/815.100/de)).
+[^1-5]: Verordnung über die Beiträge der Kinder, Jugendlichen und Eltern an die Kosten der Unterbringung von Kindern und Jugendlichen in Heimen und in Pflegefamilien (Kinderbetreuungsbeitragsverordnung, KBBV) vom 6. Dezember 2016 (SG [212.470](https://www.gesetzessammlung.bs.ch/data/212.470/de))
 
 #### § 2
 
@@ -123,7 +123,7 @@ beschliesst:
   - dc) Ausbildungsbeiträge;
   - dd) Ergänzungsleistungen und Beihilfen;
   - de) Mietzinsbeiträge des Bundes.
-- e) für die Anspruchsermittlung auf Betreuungsbeiträge und Verbilligungen sowie zur Ermittlung der Elternbeiträge an die Tagesbetreuung und an die Unterbringung von Kindern und Jugendlichen in Heimen und Pflegefamilien gemäss § 1 Abs. 1 lit. e und f dieses Gesetzes
+- e) für die Anspruchsermittlung auf Beiträge an die Tagesbetreuung und Verbilligungen sowie an die Unterbringung von Kindern und Jugendlichen in Heimen und Pflegefamilien gemäss § 1 Abs. 1 lit. e und f dieses Gesetzes
   - ea) das anrechenbare Einkommen gemäss § 7 dieses Gesetzes;
   - eb) nach § 1 Abs. 1 lit. a bis d dieses Gesetzes bezogene Leistungen;
   - ec) Ausbildungsbeiträge;
