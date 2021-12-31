@@ -4,13 +4,13 @@ number: "850"
 title: Gesetz über die Sozial- und die Jugendhilfe
 short: "Sozialhilfegesetz, SHG"
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-11-19
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2020-12-16
 adopted: 2001-06-21
 in_force: 2002-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/850"
-pdf: "https://bl.clex.ch/api/de/versions/2916/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3091/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2916/pdf_file"
 
 (Sozialhilfegesetz, SHG)
 
-Vom 21.06.2001 (Stand 01.01.2021)
+Vom 21.06.2001 (Stand 01.01.2022)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -51,7 +51,7 @@ beschliesst:
 
 <sup>1</sup> Die Sozialhilfe hat zur Aufgabe, persönlicher Hilfsbedürftigkeit vorzubeugen, deren Folgen zu lindern oder zu beheben sowie die Selbständigkeit und die Selbsthilfe zu erhalten und zu fördern.
 
-<sup>2</sup> Die Jugendhilfe hat zur Aufgabe, die Unterbringung von Kindern und Jugendlichen, die nicht in ihren Familien leben können, zu gewährleisten.
+<sup>2</sup> Die Jugendhilfe hat zur Aufgabe, Kinder, Jugendliche und Familien bei Bedarf mit ambulanten erzieherischen Hilfen zu unterstützen sowie die Unterbringung von Kindern und Jugendlichen zu gewährleisten, die nicht in ihren Familien leben können.
 
 <sup>3</sup> …
 
@@ -417,11 +417,11 @@ beschliesst:
 
 ## 7 Jugendhilfe
 
-### 7.1 Heime, Pflegefamilien und Einrichtungen
+### 7.1 Angebote
 
 #### § 27
 
-**Kinder und Jugendliche**
+**Heime, Pflegefamilien und Einrichtungen**
 
 <sup>1</sup> Der Kanton sorgt dafür, dass die nötigen Wohnheime für Kinder und Jugendliche zur Verfügung stehen.
 
@@ -430,6 +430,12 @@ beschliesst:
 <sup>2</sup> …
 
 <sup>3</sup> Der Regierungsrat ist zum endgültigen Abschluss von Staatsverträgen über Wohnheime für Kinder und Jugendliche sowie über das Pflegekinderwesen ermächtigt.
+
+#### § 27a
+
+**Ambulante erzieherische Hilfen**
+
+<sup>1</sup> Der Kanton sorgt für ein Angebot ambulanter erzieherischer Hilfen für Kinder, Jugendliche und Familien.
 
 ### 7.2 Beiträge
 
@@ -440,11 +446,12 @@ beschliesst:
 <sup>1</sup> Der Kanton gewährt Beiträge:
 
 - a. an die Aufenthalts- und Betreuungskosten sowie an die Nachbetreuungskosten von Kindern und Jugendlichen in anerkannten, inländischen oder benachbarten ausländischen Wohnheimen;
-- b. an die Aufenthalts- und Betreuungskosten von Kindern und Jugendlichen in anerkannten, inländischen Pflegefamilien.
+- b. an die Aufenthalts- und Betreuungskosten von Kindern und Jugendlichen in anerkannten, inländischen Pflegefamilien;
+- c. an die Kosten für Leistungen der ambulanten erzieherischen Hilfen von anerkannten Anbietern.
 
-<sup>2</sup> Beiträge werden gewährt, wenn die Unterbringung fachlich indiziert oder jugendstrafrechtlich oder im Rahmen des Kindesschutzrechts angeordnet ist und das Kind oder der Jugendliche zivilrechtlichen Wohnsitz im Kanton hat.
+<sup>2</sup> Beiträge werden gewährt, wenn die Leistung fachlich indiziert oder jugendstrafrechtlich oder im Rahmen des Kindesschutzrechts angeordnet ist und das Kind bzw. die oder der Jugendliche zivilrechtlichen Wohnsitz im Kanton hat.
 
-<sup>3</sup> Beiträge werden bis zur Erreichung der Volljährigkeit gewährt. Bei wichtigen Gründen können sie darüber hinaus gewährt werden, sofern der Aufenthalt während der Minderjährigkeit begonnen hat.
+<sup>3</sup> Beiträge werden bis zur Erreichung der Volljährigkeit gewährt. Bei wichtigen Gründen können sie darüber hinaus gewährt werden, sofern eine Leistung während der Minderjährigkeit begonnen hat.
 
 #### § 28a
 
@@ -471,6 +478,8 @@ beschliesst:
 <sup>1</sup> Die Anerkennung eines Wohnheimes für Kinder und Jugendliche richtet sich nach dem Bedarf gemäss kantonaler und interkantonaler Bedarfsplanungen sowie nach der Fachlichkeit, dem Betrieb, dem Bau und der Wirtschaftlichkeit.
 
 <sup>2</sup> Die Anerkennung einer Pflegefamilie richtet sich nach einer abgestuften Fachlichkeit. Die Abstufungen sind massgebend für die Beitragshöhe.
+
+<sup>3</sup> Die Anerkennung eines Angebots der ambulanten erzieherischen Hilfen richtet sich nach dem Bedarf gemäss kantonaler und interkantonaler Bedarfsplanungen sowie nach der Fachlichkeit, dem Betrieb und der Wirtschaftlichkeit.
 
 #### § 30a
 
@@ -544,7 +553,7 @@ beschliesst:
 
 **Im Bereich der Jugendhilfe**
 
-<sup>1</sup> Der Kanton vollzieht die Bestimmungen über die Jugendhilfe und trägt die damit zusammenhängenden Kosten.
+<sup>1</sup> Der Kanton vollzieht die Bestimmungen über die Jugendhilfe.
 
 <sup>2</sup> ...
 
