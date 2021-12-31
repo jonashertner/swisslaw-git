@@ -4,13 +4,13 @@ number: "151.2"
 title: Gemeindegesetz
 short: GG
 language: de
-version: 2019-01-01
-corrected: 2019-01-25
-version_adopted: 2018-12-05
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-02-02
 adopted: 2009-04-21
 in_force: 2010-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/151.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2476/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3298/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2476/pdf_file"
 
 (GG)
 
-vom 21.04.2009 (Stand 01.01.2019)
+vom 21.04.2009 (Stand 01.01.2022)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -87,15 +87,25 @@ als Gesetz:[^ingress-2]
 
 **Amtliche Bekanntmachungen a) im Allgemeinen**
 
-<sup>1</sup> Eine vorgeschriebene oder aus schutzwürdigen Interessen gebotene amtliche Bekanntmachung erfolgt durch Veröffentlichung im amtlichen Publikationsorgan.
+<sup>1</sup> Eine vorgeschriebene oder aus schutzwürdigen Interessen gebotene amtliche Bekanntmachung erfolgt durch Veröffentlichung im amtlichen Publikationsorgan nach Art. 27 des Publikationsgesetzes vom 14. August 2018[^5-1].
 
-<sup>2</sup> Der Rat bestimmt als amtliches Publikationsorgan eine oder mehrere Zeitungen oder ein Mitteilungsblatt, das allen Haushalten zugestellt wird. Er kann amtliche Bekanntmachungen zusätzlich im Internet veröffentlichen.
+<sup>2</sup> …
+
+[^5-1]: sGS [140.3](https://www.gesetzessammlung.sg.ch/data/140.3/de).
 
 #### Art. 6
 
 **b) Rechtsetzung**
 
-<sup>1</sup> Referendumsfrist, Abstimmungsergebnis, Rechtsgültigkeit und Vollzugsbeginn von Gemeindeordnung, Reglementen und allgemein verbindlichen Vereinbarungen werden amtlich bekannt gemacht.
+<sup>1</sup> Referendumsfrist, Rechtsgültigkeit und Vollzugsbeginn von Gemeindeordnung, Reglementen und allgemein verbindlichen Vereinbarungen werden amtlich bekannt gemacht.
+
+#### Art. 6bis
+
+**b<sup>bis</sup>) Ergebnisse von Wahlen und Abstimmungen an der Urne**
+
+<sup>1</sup> Die Veröffentlichung der Ergebnisse von Wahlen und Abstimmungen an der Urne richtet sich nach Art. 104 Abs. 2, Art. 111 Abs. 2 und Art. 116 Abs. 2 des Gesetzes über Wahlen und Abstimmungen vom 5. Dezember 2018[^6bis-1].
+
+[^6bis-1]: sGS [125.3](https://www.gesetzessammlung.sg.ch/data/125.3/de).
 
 #### Art. 7
 
@@ -231,11 +241,19 @@ als Gesetz:[^ingress-2]
 
 #### Art. 22
 
-**Zuständigkeit gemäss Gesetz a) obligatorische Abstimmungen**
+**Zuständigkeit gemäss Gesetz a) obligatorische Wahlen und Abstimmungen**
 
 <sup>1</sup> Die Bürgerschaft wählt die Vorsitzende oder den Vorsitzenden und die Mitglieder des Rates sowie die Mitglieder der Geschäftsprüfungskommission.
 
 <sup>2</sup> Die Gemeindeordnung kann die Wahl der oder des Vorsitzenden eines Ressorts oder Departementes durch die Bürgerschaft vorsehen.
+
+<sup>2<sup>bis</sup></sup> In Gemeinden, in denen mehr als ein Mitglied des Rates hauptamtlich tätig ist, kann die Gemeindeordnung die Wahl der oder des Vorsitzenden des Rates aus dessen Mitte vorsehen.
+
+<sup>2<sup>ter</sup></sup> Sieht eine Gemeinde die Wahl aus der Mitte des Rates nach Abs. 2<sup>bis</sup> dieser Bestimmung vor:
+
+- a) werden auch die durch die Bürgerschaft zu wählenden Vorsitzenden eines Ressorts oder Departementes aus der Mitte des Rates gewählt;
+- b) wird das massgebende Mehr für die Mitglieder des Rates, den oder die Vorsitzende des Rates sowie die durch die Bürgerschaft zu wählenden Vorsitzenden eines Ressorts oder Departementes gesondert ermittelt;
+- c) gilt als Vorsitzende oder Vorsitzender des Rates oder eines Ressorts oder Departementes nur als gewählt, wer zugleich als Mitglied des Rates gewählt wird oder bei einer Ersatzwahl bereits Mitglied des Rates ist.
 
 <sup>3</sup> Die Bürgerschaft beschliesst über:
 
@@ -286,7 +304,7 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Die Bürgerschaft trifft ihre Beschlüsse offen an der Bürgerversammlung, soweit dieser Erlass kein anderes Abstimmungsverfahren vorsieht.
 
-<sup>2</sup> An der Urne werden Wahlen vorgenommen, die der Bürgerschaft nach Art. 22 Abs. 1 dieses Erlasses zustehen.
+<sup>2</sup> An der Urne werden Wahlen vorgenommen, die der Bürgerschaft nach Art. 22 Abs. 1 und 2 dieses Erlasses zustehen.
 
 <sup>3</sup> An der Urne werden Sachabstimmungen vorgenommen, wenn:
 
@@ -342,13 +360,13 @@ als Gesetz:[^ingress-2]
 
 <sup>2</sup> Bürgerschaft oder Rat können beschliessen, dass die Unterlagen vollständig oder auszugsweise jeder Stimmbürgerin und jedem Stimmbürger oder jeder Haushaltung oder auf Verlangen zugestellt werden. Werden sie den Haushaltungen zugestellt, kann jede Stimmbürgerin und jeder Stimmbürger die Unterlagen verlangen.
 
-<sup>3</sup> Der Stimmausweis wird den Stimmberechtigten spätestens acht Tage vor der Bürgerversammlung zugestellt.
+<sup>3</sup> Der Stimmrechtsausweis wird den Stimmberechtigten spätestens acht Tage vor der Bürgerversammlung zugestellt.
 
 #### Art. 31
 
 **Zutritt**
 
-<sup>1</sup> Zutritt zur Bürgerversammlung haben Stimmberechtigte, die den Stimmausweis vorweisen.
+<sup>1</sup> Zutritt zur Bürgerversammlung haben Stimmberechtigte, die den Stimmrechtsausweis vorweisen.
 
 <sup>2</sup> Nichtstimmberechtigte werden als Zuhörende zugelassen, wenn ihnen ein getrennter Platz zugewiesen werden kann. Sie beteiligen sich nicht an Verhandlungen und Abstimmungen.
 
@@ -561,8 +579,8 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Mit Busse wird bestraft:
 
-- a) wer für die Bürgerversammlung einen Stimmausweis fälscht, verfälscht oder unberechtigterweise gebraucht;
-- b) wer wissentlich einen gefälschten oder verfälschten Stimmausweis gebraucht oder einem anderen zum Gebrauch gibt;
+- a) wer für die Bürgerversammlung einen Stimmrechtsausweis fälscht, verfälscht oder unberechtigterweise gebraucht;
+- b) wer wissentlich einen gefälschten oder verfälschten Stimmrechtsausweis gebraucht oder einem anderen zum Gebrauch gibt;
 - c) wer Ruhe und Ordnung an einer Bürgerversammlung stört;
 - d) wer ohne Bewilligung mit technischen Hilfsmitteln die Verhandlungen einer Bürgerversammlung aufzeichnet.
 
@@ -645,7 +663,9 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Die Gemeindeordnung bestimmt die Zahl der Mitglieder des Parlamentes.
 
-<sup>2</sup> Das Parlament wird von der Bürgerschaft in sachgemässer Anwendung der Vorschriften über die Wahl des Kantonsrates gewählt. Die Gemeindeordnung kann für die Wahlvorbereitung andere Fristen vorsehen.
+<sup>2</sup> Das Parlament wird von der Bürgerschaft nach den Bestimmungen des Gesetzes über Wahlen und Abstimmungen vom 5. Dezember 2018[^58-1] gewählt.
+
+[^58-1]: sGS [125.3](https://www.gesetzessammlung.sg.ch/data/125.3/de).
 
 #### Art. 59
 
@@ -712,6 +732,14 @@ als Gesetz:[^ingress-2]
 - b) die Vorsitzende oder den Vorsitzenden und die Mitglieder des Rates.
 
 <sup>2</sup> Die Gemeindeordnung kann die Wahl der oder des Vorsitzenden eines Ressorts oder Departementes durch die Bürgerschaft vorsehen.
+
+<sup>2<sup>bis</sup></sup> In Gemeinden, in denen mehr als ein Mitglied des Rates hauptamtlich tätig ist, kann die Gemeindeordnung die Wahl der oder des Vorsitzenden des Rates aus dessen Mitte vorsehen.
+
+<sup>2<sup>ter</sup></sup> Sieht eine Gemeinde die Wahl aus der Mitte des Rates nach Abs. 2<sup>bis</sup> dieser Bestimmung vor:
+
+- a) werden auch die durch die Bürgerschaft zu wählenden Vorsitzenden eines Ressorts oder Departementes aus der Mitte des Rates gewählt;
+- b) wird das massgebende Mehr für die Mitglieder des Rates, den oder die Vorsitzende des Rates sowie die durch die Bürgerschaft zu wählenden Vorsitzenden eines Ressorts oder Departementes gesondert ermittelt;
+- c) gilt als Vorsitzende oder Vorsitzender des Rates oder eines Ressorts oder Departementes nur als gewählt, wer zugleich als Mitglied des Rates gewählt wird oder bei einer Ersatzwahl bereits Mitglied des Rates ist.
 
 <sup>3</sup> Die Bürgerschaft stimmt über Initiativbegehren aus ihrer Mitte ab.
 
@@ -781,11 +809,7 @@ als Gesetz:[^ingress-2]
 
 #### Art. 70
 
-**Stimmregister**
-
-<sup>1</sup> Die Gemeinde führt in sachgemässer Anwendung des Gesetzes über die Urnenabstimmungen ein Stimmregister.
-
-<sup>2</sup> Spezialgemeinden können verlangen, dass ihr Stimmregister gegen Entschädigung von der politischen Gemeinde geführt wird.
+**…**
 
 #### Art. 71
 
@@ -821,6 +845,16 @@ als Gesetz:[^ingress-2]
 <sup>1</sup> Referendumsbegehren über Jahresrechnung und Budget haben die beanstandeten Posten zu bezeichnen und anzugeben, warum und in welchem Umfang diese zu ändern sind.
 
 <sup>2</sup> Begehren auf Änderung des Steuerfusses haben einen bestimmten Steuerfuss vorzuschlagen. Wird Herabsetzung verlangt, sind gleichzeitig zahlenmässig bestimmte Anträge auf Änderung des Budgets zu stellen, damit ein Aufwandüberschuss vermieden werden kann.
+
+#### Art. 74a
+
+**c) Verfahren**
+
+<sup>1</sup> Das Verfahren richtet sich sachgemäss nach den Vorschriften des Gesetzes über Referendum und Initiative[^74a-1].
+
+<sup>2</sup> Die Gemeindeordnung kann andere Fristen vorsehen.
+
+[^74a-1]: sGS [125.1](https://www.gesetzessammlung.sg.ch/data/125.1/de).
 
 #### Art. 75
 
@@ -874,9 +908,12 @@ als Gesetz:[^ingress-2]
 
 #### Art. 81
 
-**Verfahren**
+**c) Verfahren**
 
-<sup>1</sup> Das Verfahren für Referendum und Initiative richtet sich sachgemäss nach den Vorschriften des Gesetzes über Referendum und Initiative.
+<sup>1</sup> Für das Verfahren werden sachgemäss angewendet:
+
+- a) bei Initiativbegehren in Form der einfachen Anregung die Vorschriften des Gesetzes über Referendum und Initiative über die Einheitsinitiative;
+- b) bei Initiativbegehren in Form des ausgearbeiteten Entwurfs die Vorschriften des Gesetzes über Referendum und Initiative über die Gesetzesinitiative.
 
 <sup>2</sup> Die Gemeindeordnung kann andere Fristen vorsehen.
 
@@ -918,15 +955,18 @@ als Gesetz:[^ingress-2]
 
 #### Art. 86
 
-**Wahl bei Vorliegen eines Ausschliessungsgrundes**
+**Verfahren bei Vorliegen eines Ausschliessungsgrundes**
 
-<sup>1</sup> Werden zur gleichen Zeit Personen, die sich ausschliessen, in dieselbe Behörde gewählt, übernimmt die mit der höchsten Stimmenzahl gewählte das Amt. Bei gleicher Stimmenzahl zieht die Ratsschreiberin oder der Ratsschreiber in Anwesenheit von zwei Mitgliedern des Stimmbüros das Los.
+<sup>1</sup> Das Verfahren bei Vorliegen eines Ausschliessungsgrundes nach Art. 34 der Kantonsverfassung vom 10. Juni 2001[^86-1] richtet sich nach dem Gesetz über Wahlen und Abstimmungen vom 5. Dezember 2018[^86-2].
 
-<sup>2</sup> Werden zur gleichen Zeit Personen, die sich ausschliessen, in verschiedene Behörden gewählt, übernimmt die in den Rat gewählte das Amt.
+<sup>2</sup> …
 
-<sup>3</sup> Wer nachträglich einen Ausschliessungsgrund herbeiführt, hat zurückzutreten.
+<sup>3</sup> …
 
-<sup>4</sup> Ein Ausschliessungsgrund kann durch Wahlablehnung oder Rücktritt behoben werden.
+<sup>4</sup> …
+
+[^86-1]: sGS [111.1](https://www.gesetzessammlung.sg.ch/data/111.1/de).
+[^86-2]: sGS [125.3](https://www.gesetzessammlung.sg.ch/data/125.3/de).
 
 #### Art. 87
 
@@ -1549,6 +1589,23 @@ als Gesetz:[^ingress-2]
 <sup>1</sup> Der Rat erstellt eine konsolidierte Sicht auf den Finanzhaushalt, wenn ohne Konsolidierung die Beurteilung der Vermögens-, Finanz- und Ertragslage sowie der finanziellen Risiken nicht möglich ist.
 
 <sup>2</sup> Er legt Form, Umfang und Methode der Konsolidierung fest und erstattet der Bürgerschaft Bericht.
+
+### 2<sup>bis</sup>. Veröffentlichung der Besoldung der von der Bürgerschaft gewählten Behördemitglieder
+
+#### Art. 123b
+
+**Form und Inhalt der Veröffentlichung**
+
+<sup>1</sup> Der Rat veröffentlicht die Besoldung der von der Bürgerschaft gewählten Behördemitglieder nach Ablauf des Rechnungsjahrs im Geschäftsbericht, soweit die Bürgerschaft nicht auf andere geeignete Weise informiert wird.
+
+<sup>2</sup> Je Behördemitglied werden wenigstens veröffentlicht:
+
+- a) Name;
+- b) Funktion in der Behörde;
+- c) Pensum in Prozent bei Personen, die für die Behördentätigkeit einen Monatslohn beziehen;
+- d) Bruttolohn für die Behördentätigkeit;
+- e) Spesenvergütungen für die Behördentätigkeit;
+- f) Entschädigungen über Fr. 500.–, die ein Behördemitglied für seine Tätigkeit in Organen juristischer Personen des öffentlichen oder privaten Rechts erhält, in die es von der Gemeinde direkt oder indirekt abgeordnet wurde, sofern die Entschädigung dem Behördemitglied und nicht der Gemeinde zufliesst.
 
 ### 3. Wirkungsorientierte Verwaltungsführung
 
