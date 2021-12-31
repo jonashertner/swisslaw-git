@@ -3,18 +3,18 @@ sr: "941.210.1"
 title: Ordonnance du DFJP du 24 septembre 2010 sur les instruments de mesure des émissions sonores
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/639"
 language: fr
-version: 2013-12-01
+version: 2022-01-01
 adopted: 2010-09-24
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/639/20131201/fr/xml/fedlex-data-admin-ch-eli-cc-2010-639-20131201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/639/20131201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/639/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-639-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/639/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFJP sur les instruments de mesure des émissions sonores
 
-du 24 septembre 2010 (Etat le 1<sup>er</sup> décembre 2013)
+du 24 septembre 2010 (État le 1<sup>er</sup> janvier 2022)
 
 Le Département fédéral de justice et police (DFJP),
 
@@ -43,14 +43,15 @@ Sont soumis à la présente ordonnance les instruments de mesure utilisés pour:
 
 - a. mesurer le niveau sonore selon l’ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers[^2-1];
 - b. mesurer les immissions de bruit selon l’ordonnance du 15 décembre 1986 sur la protection contre le bruit[^2-2];
-- c. mesurer les émissions sonores effectuées par les autorités d’exécution selon l’ordonnance son et laser du 28 février 2007[^2-3];
-- d.[^2-4] mesurer les émissions de bruit selon l’ordonnance du 25 avril 2012 sur les redevances aéroportuaires[^2-5].
+- c.[^2-3] mesurer les émissions sonores effectuées par les autorités d’exécution selon l’ordonnance du 27 février 2019 relative à la loi fédérale sur la protection contre les dangers liés au rayonnement non ionisant et au son[^2-4];
+- d.[^2-5] mesurer les émissions de bruit selon l’ordonnance du 25 avril 2012 sur les redevances aéroportuaires[^2-6].
 
 [^2-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^2-2]: [RS 814.41](https://fedlex.data.admin.ch/eli/cc/1987/338_338_338)
-[^2-3]: [RS 814.49](https://fedlex.data.admin.ch/eli/cc/2007/210)
-[^2-4]: Introduite par le ch. I de l’O du DFJP du 5 nov. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 4027](https://fedlex.data.admin.ch/eli/oc/2013/735)).
-[^2-5]: [RS 748.131.3](https://fedlex.data.admin.ch/eli/cc/2012/328)
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du DFJP du 16 août 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 505](https://fedlex.data.admin.ch/eli/oc/2021/505)).
+[^2-4]: [RS 814.711](https://fedlex.data.admin.ch/eli/cc/2019/183)
+[^2-5]: Introduite par le ch. I de l’O du DFJP du 5 nov. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 4027](https://fedlex.data.admin.ch/eli/oc/2013/735)).
+[^2-6]: [RS 748.131.3](https://fedlex.data.admin.ch/eli/cc/2012/328)
 
 #### Art. 3
 
@@ -98,35 +99,36 @@ Les instruments de mesure des émissions sonores sont soumis à une approbation 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2011.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 4)
 
 ## Exigences spécifiques applicables aux instruments de mesure des émissions sonores
 
-[^t-1]: Mise à jour selon le ch. I de l’O du DFJP du 10 fév. 2012 ([RO 2012 929](https://fedlex.data.admin.ch/eli/oc/2012/154)) et le ch. II de l’O du DFJP du 5 nov. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 4027](https://fedlex.data.admin.ch/eli/oc/2013/735)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du DFJP du 16 août 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 505](https://fedlex.data.admin.ch/eli/oc/2021/505)).
 
 \1. Les sonomètres doivent satisfaire aux exigences suivantes:
 
 - a. permettre de mesurer le niveau acoustique pondéré L<sub>A</sub>.
 - b. permettre de déterminer directement ou indirectement le niveau moyen L<sub>eq</sub>.
 
-\2. Les instruments de mesure des émissions sonores doivent satisfaire aux normes[^annexu1-lvlu1-1] suivantes:
+\2. Les instruments de mesure des émissions sonores doivent satisfaire aux normes suivantes[^annexu1-lvlu1-1]:
 
 Sonomètres
 
-- IEC 61672-1 edition 1.0, 2002, Electroacoustics – Sound level meters – Part 1: Specifications
-- IEC 61672-2 edition 1.0, 2003, Electroacoustics – Sound level meters – Part 2: Pattern evaluation tests
-- IEC 61672-3 edition 1.0, 2006, Electroacoustics – Sound level meters – Part 3: Periodic tests
+- IEC 61672-1 edition 2.0, 2013, Electroacoustics – Sound level meters – Part 1: Specifications
+- IEC 61672-2 edition 2.1, 2017, Electroacoustics – Sound level meters – Part 2: Pattern evaluation tests
+- IEC 61672-3 edition 2.0, 2013, Electroacoustics – Sound level meters – Part 3: Periodic tests
 
 Filtres
 
-- IEC 61260-1 edition 1.0, 1995-08, Electroacoustics – Octave-band and fractional-octave-band filters
-- IEC 61260-am1 edition 1.0, 2001-09, Amendment 1 – Electroacoustics –Octave-band and fractional-octave-band filters
+- IEC 61260-1 edition 1.0, 2014, Electroacoustics – Octave-band and fractional-octave-band filters – Part 1: Specifications
+- IEC 61260-2 edition 1.1, 2017, Electroacoustics – Octave-band and fractional-octave-band filters – Part 2: Pattern evaluation tests
+- IEC 61260-3 edition 1.0, 2016, Electroacoustics – Octave-band and fractional-octave-band filters – Part 3: Periodic tests
 
 Calibreurs
 
-- IEC 60942 edition 3.0, 2003, Electroacoustics – Sound calibrators
+- IEC 60942 edition 4.0, 2017, Electroacoustics – Sound calibrators
 
 \3. Les sonomètres doivent appartenir aux classes d’exactitude ci-après selon les normes correspondantes IEC fixées au ch. 2:
 
@@ -134,12 +136,12 @@ Calibreurs
 <tr><td>Champ d’application</td><td>Classe de précision</td></tr>
 <tr><td>Ordonnance du 19 juin 1995 sur les exigences techniques requises pour les véhicules routiers[^annexu1-lvlu1-2]</td><td>Classe 1</td></tr>
 <tr><td>Ordonnance du 15 décembre 1986 sur la protection contre le bruit[^annexu1-lvlu1-3]</td><td>Classe 1</td></tr>
-<tr><td>Ordonnance son et laser du 28 février 2007[^annexu1-lvlu1-4]</td><td>Classe 2</td></tr>
+<tr><td>Ordonnance du 27 février 2019 relative à la loi fédérale sur la protection contre les dangers liés au rayonnement non ionisant et au son[^annexu1-lvlu1-4]</td><td>Classe 2</td></tr>
 <tr><td>Ordonnance du 25 avril 2012 sur les redevances aéroportuaires[^annexu1-lvlu1-5]</td><td>Classe 1</td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: Les normes techniques mentionnées ci-dessus peuvent être commandées contre paiement auprès de Electrosuisse, Luppmenstrasse 1, 8320 Fehraltdorf ou à l’adresse www.electrosuisse.ch. Elles peuvent être consultées gratuitement auprès de l’Institut fédéral de métrologie (METAS), 3003 Berne.
+[^annexu1-lvlu1-1]: Les normes techniques mentionnées ci-dessous peuvent être commandées contre paiement auprès d’Electrosuisse, Luppmenstrasse 1, 8320 Fehraltdorf ou à l’adresse www.electrosuisse.ch. Elles peuvent être consultées gratuitement auprès de l’Institut fédéral de métrologie (METAS), 3003 Berne.
 [^annexu1-lvlu1-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^annexu1-lvlu1-3]: [RS 814.41](https://fedlex.data.admin.ch/eli/cc/1987/338_338_338)
-[^annexu1-lvlu1-4]: [RS 814.49](https://fedlex.data.admin.ch/eli/cc/2007/210)
+[^annexu1-lvlu1-4]: [RS 814.711](https://fedlex.data.admin.ch/eli/cc/2019/183)
 [^annexu1-lvlu1-5]: [RS 748.131.3](https://fedlex.data.admin.ch/eli/cc/2012/328)
