@@ -4,13 +4,13 @@ number: "135"
 title: Reglement der Luzerner Pensionskasse
 short: LUPK-Reglement
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-02
+version: 2022-01-01
+valid_until: 2022-06-30
+version_adopted: 2022-09-06
 adopted: 2013-12-12
 in_force: 2014-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/135"
-pdf: "https://srl.lu.ch/api/de/versions/3666/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3977/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3666/pdf_file"
 
 (LUPK-Reglement)
 
-vom 12.12.2013 (Stand 01.01.2021)
+vom 12.12.2013 (Stand 01.01.2022)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -181,7 +181,7 @@ vom 12.12.2013 (Stand 01.01.2021)
 
 <sup>2</sup> Der anrechenbare Jahresverdienst entspricht höchstens dem maximalen Lohn gemäss Besoldungsordnung für das Staatspersonal. Abweichende Vorschriften in Gesetzen oder Verordnungen bleiben im Rahmen des Maximalbetrags von Art. 79c BVG vorbehalten. Bei Arbeitsverhältnissen von unter zwölf Monaten Dauer gilt die entsprechende Jahresbesoldung als anrechenbarer Jahresverdienst.
 
-<sup>3</sup> Die LUPK setzt den anrechenbaren Jahresverdienst aufgrund der Arbeitgeber-meldung für ein Kalenderjahr zum Voraus fest. Fehlen genügende Anhaltspunkte über die Höhe des zukünftigen anrechenbaren Jahresverdienstes, entscheidet die Verwaltung nach Ermessen. Sie kann den Jahresverdienst pauschal nach dem Durchschnittsverdienst der jeweiligen Berufsgruppe festsetzen.
+<sup>3</sup> Die LUPK setzt den anrechenbaren Jahresverdienst aufgrund der Arbeitgebermeldung für ein Kalenderjahr zum Voraus fest. Fehlen genügende Anhaltspunkte über die Höhe des zukünftigen anrechenbaren Jahresverdienstes, entscheidet die Verwaltung. Sie kann den Jahresverdienst pauschal nach dem Durchschnittsverdienst der jeweiligen Berufsgruppe festsetzen.
 
 <sup>4</sup> Bei Lohnänderungen während des Kalenderjahres wird der anrechenbare Jahresverdienst jeweils auf den Beginn eines Monats wie folgt angepasst:
 
@@ -210,7 +210,7 @@ vom 12.12.2013 (Stand 01.01.2021)
 
 **Auskunfts- und Meldepflicht**
 
-<sup>1</sup> Anspruchsberechtigte oder bei deren Verhinderung ihre Angehörigen haben der LUPK oder deren Vertrauensarzt über alle Angelegenheiten, die das Versicherungsverhältnis berühren, wahrheitsgetreu Auskunft zu geben. Sie haben Veränderungen von sich aus zu melden und die LUPK zur Einsicht in die Akten anderer Sozialversicherungsträger zu ermächtigen. Bei einer Meldepflichtverletzung kann die LUPK unter den vom Bundesrecht vorgesehenen Voraussetzungen die Sistierung oder die Rückerstattung der Versicherungsleistungen anordnen.
+<sup>1</sup> Anspruchsberechtigte oder bei deren Verhinderung ihre gesetzlichen Vertreter haben der LUPK oder deren Vertrauensarzt über alle Angelegenheiten, die das Versicherungsverhältnis berühren, wahrheitsgetreu Auskunft zu geben. Sie haben Veränderungen von sich aus zu melden und die LUPK zur Einsicht in die Akten anderer Sozialversicherungsträger zu ermächtigen. Bei einer Meldepflichtverletzung kann die LUPK unter den vom Bundesrecht vorgesehenen Voraussetzungen die Sistierung oder die Rückerstattung der Versicherungsleistungen anordnen.
 
 <sup>2</sup> Die Arbeitgeber haben der LUPK alle versicherungspflichtigen Personen und die Daten zu melden, die zur Führung der Alterskonten, zur Berechnung von Beiträgen und Leistungen sowie zur Erfüllung der Informationspflichten gemäss FZG erforderlich sind.
 
@@ -554,16 +554,34 @@ vom 12.12.2013 (Stand 01.01.2021)
 
 **Anspruch auf Invalidenrente**
 
-<sup>1</sup> Versicherte, welche das ordentliche AHV-Rentenalter nicht vollendet haben, haben Anspruch
+<sup>1</sup> Versicherte, welche das ordentliche AHV-Rentenalter nicht vollendet haben, haben Anspruch auf eine Invalidenrente, wenn sie im Sinne der IV zu mindestens 40 Prozent invalid sind. Die Höhe des Anspruchs wird in prozentualen Anteilen an einer ganzen Rente festgelegt.
 
-- a. auf eine ganze Invalidenrente, wenn sie mindestens zu 70 Prozent invalid sind,
-- b. auf eine dreiviertel Invalidenrente, wenn sie mindestens zu 60 Prozent invalid sind,
-- c. auf eine halbe Invalidenrente, wenn sie mindestens zu 50 Prozent invalid sind,
-- d. auf eine viertel Invalidenrente, wenn sie mindestens zu 40 Prozent invalid sind.
+- a. Bei einem Invaliditätsgrad im Sinne der IV von 50–69 Prozent entspricht der prozentuale Anteil dem Invaliditätsgrad.
+- b. Bei einem Invaliditätsgrad im Sinne der IV ab 70 Prozent besteht Anspruch auf eine ganze Rente.
+- c. …
+- d. …
 
-<sup>2</sup> Invaliditätsgrad sowie Beginn und Veränderung des Anspruchs richten sich sinngemäss nach den Vorschriften des IVG. Der Anspruch erlischt mit dem Tod der anspruchsberechtigten Person oder mit dem Wegfall der Invalidität. Vorbehalten bleibt Art. 26a BVG.
+<sup>1<sup>bis</sup></sup> Bei einem Invaliditätsgrad im Sinne der IV von unter 50 Prozent gelten die folgenden prozentualen Anteile:
+
+<table>
+<tr><th>Invaliditätsgrad</th><th>Prozentualer Anteil</th></tr>
+<tr><td>49 Prozent</td><td>47,5 Prozent</td></tr>
+<tr><td>48 Prozent</td><td>45,0 Prozent</td></tr>
+<tr><td>47 Prozent</td><td>42,5 Prozent</td></tr>
+<tr><td>46 Prozent</td><td>40,0 Prozent</td></tr>
+<tr><td>45 Prozent</td><td>37,5 Prozent</td></tr>
+<tr><td>44 Prozent</td><td>35,0 Prozent</td></tr>
+<tr><td>43 Prozent</td><td>32,5 Prozent</td></tr>
+<tr><td>42 Prozent</td><td>30,0 Prozent</td></tr>
+<tr><td>41 Prozent</td><td>27,5 Prozent</td></tr>
+<tr><td>40 Prozent</td><td>25,0 Prozent</td></tr>
+</table>
+
+<sup>2</sup> Invaliditätsgrad sowie Beginn des Anspruchs richten sich sinngemäss nach den Vorschriften des IVG. Der Anspruch erlischt mit dem Tod der anspruchsberechtigten Person oder mit dem Wegfall der Invalidität. Vorbehalten bleibt Art. 26a BVG.
 
 <sup>3</sup> Der Anspruch auf Invalidenleistungen beginnt mit dem Anspruch auf Rentenleistungen der Invalidenversicherung, frühestens mit dem Ende der Lohnzahlung, der Lohnfortzahlung oder der Krankentaggeldzahlung in der Höhe von mindestens 80 Prozent des Lohnes. Die Taggeldversicherung muss vom Arbeitgeber mindestens zur Hälfte finanziert worden sein.
+
+<sup>4</sup> Eine einmal festgesetzte Invalidenrente wird nur dann erhöht, herabgesetzt oder aufgehoben, wenn sich der Invaliditätsgrad im Sinne der IV um mindestens fünf Prozentpunkte ändert.
 
 #### Art. 39
 
@@ -581,9 +599,9 @@ vom 12.12.2013 (Stand 01.01.2021)
 
 **Invaliden-Kinderrente**
 
-<sup>1</sup> Versicherte, die eine ganze Invalidenrente beziehen, haben für jedes Kind, das im Fall ihres Todes eine Waisenrente beanspruchen könnte, Anspruch auf eine Invaliden-Kinderrente in der Höhe der Waisenrente.
+<sup>1</sup> Versicherte, die eine Invalidenrente beziehen, haben für jedes Kind, das im Fall ihres Todes eine Waisenrente beanspruchen könnte, Anspruch auf eine Invaliden-Kinderrente.
 
-<sup>2</sup> Versicherte, die eine Teilinvalidenrente beziehen, haben unter den gleichen Voraussetzungen für jedes Kind Anspruch auf eine dreiviertel, auf eine halbe oder auf eine viertel Invaliden-Kinderrente.
+<sup>2</sup> Die Invaliden-Kinderrente beträgt 20 Prozent der Invalidenrente der versicherten Person.
 
 #### Art. 41
 
@@ -715,7 +733,7 @@ vom 12.12.2013 (Stand 01.01.2021)
 
 <sup>2</sup> Der Stichtag ist der 31. März jeden Jahres.
 
-<sup>3</sup> Die Sanierungsbeiträge werden zu gleichen Teilen von den Arbeitgebern und den aktiven Versicherten getragen. Der Vorstand kann festlegen, dass die aktiven Versicherten ihren Anteil ganz oder teilweise in Form einer Minderverzinsung der Altersguthaben gegenüber dem BVG-Mindestzinssatz leisten. Die Minderverzinsung hat keinen Einfluss auf die Schattenrechnung gemäss Art. 11. Ausgeschlossen ist eine Negativverzinsung.
+<sup>3</sup> Die Sanierungsbeiträge werden zu gleichen Teilen von den Arbeitgebern und den aktiven Versicherten getragen. Der Vorstand kann festlegen, dass die aktiven Versicherten ihren Anteil ganz oder teilweise in Form einer Minderverzinsung der umhüllenden Altersguthaben leisten. Eine Minderverzinsung der umhüllenden Altersguthaben liegt vor, wenn die Verzinsung der umhüllenden Altersguthaben zu einem Zinssatz erfolgt, der tiefer als der BVG-Mindestzinssatz ist. Die Minderverzinsung der umhüllenden Altersguthaben findet im Anrechnungsprinzip statt und hat keinen Einfluss auf die Schattenrechnung gemäss Art. 11. Ausgeschlossen ist eine Negativverzinsung der umhüllenden Altersguthaben.
 
 <sup>4</sup> Die vom Vorstand beschlossenen Sanierungsmassnahmen gelten für die Versicherten der freiwilligen Risikoversicherung gemäss Art. 6 im gleichen Ausmass wie für die aktiv Versicherten.
 
@@ -1037,6 +1055,21 @@ vom 12.12.2013 (Stand 01.01.2021)
 <sup>3</sup> Zur Partnerrente gemäss Art. 32 in der bis zum 31. Dezember 2020 gültig gewesenen Fassung: Art. 32 in der bisherigen Fassung findet Anwendung beim Tod von Personen, deren Anspruch auf eine ganze Alters- oder Invalidenrente bis zum 1. Januar 2021 entstanden ist. Beim Tod von Personen, welche eine Teilrente mit Anspruchsbeginn bis zum 1. Januar 2021 beziehen, wird das bisherige Recht nur auf diesem Rententeil angewendet.
 
 <sup>4</sup> Zum Todesfallkapital gemäss Art. 35: Das neue Recht findet keine Anwendung beim Tod von Personen, deren Anspruch auf eine ganze Invalidenrente bis zum 1. Januar 2021 entstanden ist. Beim Tod von Personen, welche eine Teilrente mit Anspruchsbeginn bis zum 1. Januar 2021 beziehen, wird das neue Recht nur auf dem aktiven Teil des Altersguthabens angewendet.
+
+#### Art. 70d
+
+**Übergangsbestimmungen zur Änderung von Art. 38 des LUPK-Reglements vom 12. Dezember 2013 per 1. Januar 2022**
+
+<sup>1</sup> Für Versicherte, deren Rentenanspruch auf eine Invalidenrente vor dem 1. Januar 2022 entstanden ist und die per 1. Januar 2022 das 55. Lebensjahr noch nicht vollendet haben, bleibt der bisherige Rentenanspruch bestehen, bis sich der Invaliditätsgrad nach Art. 38.4 ändert. Der bisherige Rentenanspruch bleibt auch nach einer Änderung des Invaliditätsgrades nach Art. 38.4 bestehen, wenn bei Anwendung von Art. 38.4 der bisherige Rentenanspruch
+
+- a. bei einer Erhöhung des Invaliditätsgrades sinkt oder
+- b. bei einem Sinken des Invaliditätsgrades ansteigt.
+
+<sup>2</sup> Für Versicherte, deren Rentenanspruch auf eine Invalidenrente vor dem 1. Januar 2022 entstanden ist und die per 1. Januar 2022 das 30. Lebensjahr noch nicht vollendet haben, wird der Rentenanspruch nach Art. 38.1 spätestens per 1. Januar 2032 angewendet. Falls der Rentenbetrag im Vergleich zum bisherigen Betrag sinkt, wird der versicherten Person der bisherige Betrag so lange ausgerichtet, bis sich der Invaliditätsgrad nach Art. 38.4 verändert.
+
+<sup>3</sup> Während der provisorischen Weiterversicherung nach Art. 26a BVG wird die Anwendung von Art. 38.1 aufgeschoben.
+
+<sup>4</sup> Für Versicherte, deren Rentenanspruch auf eine Invalidenrente vor dem 1. Januar 2022 entstanden ist und die per 1. Januar 2022 das 55. Lebensjahr vollendet haben, gilt das bisherige Recht.
 
 #### Art. 71
 
