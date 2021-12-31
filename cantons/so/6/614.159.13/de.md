@@ -3,20 +3,20 @@ canton: SO
 number: "614.159.13"
 title: "Steuerverordnung Nr. 13: Abzüge für Berufskosten"
 language: de
-version: 2016-01-01
-valid_until: 2021-12-31
-version_adopted: 2015-08-31
+version: 2022-01-01
+valid_until: 2025-12-31
+version_adopted: 2021-09-21
 adopted: 1987-05-19
 in_force: 1987-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.159.13"
-pdf: "https://bgs.so.ch/api/de/versions/4436/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5145/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuerverordnung Nr. 13: Abzüge für Berufskosten
 
-Vom 19.05.1987 (Stand 01.01.2016)
+Vom 19.05.1987 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -78,6 +78,10 @@ beschliesst:
 <sup>3</sup> Wenn der Steuerpflichtige das Motorrad oder das Privatauto zur Berufsausübung benützen muss, können die Kosten der beruflichen Fahrten nach den Ansätzen von Absatz 1 Buchstabe d abgezogen werden, soweit die Kosten nicht vom Arbeitgeber vergütet werden.
 
 <sup>4</sup> …
+
+<sup>5</sup> Nutzt die steuerpflichtige Person ein Geschäftsfahrzeug unentgeltlich für Fahrten zwischen Wohn- und Arbeitsstätte sowie für weitere private Zwecke, so kann anstelle der Abrechnung über die tatsächlichen Kosten der privaten Nutzung und des Fahrkostenabzugs eine pauschale Fahrkostenabrechnung vorgenommen werden.
+
+<sup>6</sup> Bei der pauschalen Fahrkostenabrechnung gelten 0.9 Prozent des Kaufpreises des Fahrzeugs als monatliches Einkommen aus dieser Nutzung, mindestens aber 150 Franken pro Monat.
 
 [^3-1]: Die Aufzählungen wurde gemäss RRB 2010/980 vom 1. Juni 2010 angepasst.
 
