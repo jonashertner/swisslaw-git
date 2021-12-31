@@ -4,21 +4,22 @@ number: "178.101"
 title: Règlement concernant la loi sur le notariat
 short: RLN
 language: fr
-version: 2017-01-01
-corrected: 2017-07-18
-version_adopted: 2016-06-22
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-01
 adopted: 2005-09-07
 in_force: 2006-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/178.101"
-pdf: "https://lex.vs.ch/api/fr/versions/622/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2992/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement concernant la loi sur le notariat
 
-du 7 septembre 2005
+(RLN)
+
+du 07.09.2005 (état 01.01.2022)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -30,21 +31,20 @@ sur la proposition du Département des finances, des institutions et de la sécu
 
 arrête:
 
-### Chapitre 1: Examens des candidats au notariat
+## 1 Examens des candidats au notariat
 
-### Section 1: Stage
+### 1.1 Stage
 
 #### Art. 1
 
-<sup>2</sup> Durée et modalités du stage
+**Durée et modalités du stage**
 
 <sup>1</sup> Le stage consiste en un travail assidu d'une durée minimale de douze mois.
 
 <sup>2</sup> Il s'effectue:
 
 - a) pendant six mois au moins en l'étude d'un ou, successivement, de plusieurs notaires du canton;
-
-- b) sans rémunération, pendant un mois au plus dans un office du registre du commerce et deux mois au plus dans un office du registre foncier.
+- b) sans rémunération, pendant 2 semaines au moins et 1 mois au plus dans un office du registre du commerce et 2 semaines au moins et 2 mois au plus dans un office du registre foncier.
 
 <sup>3</sup> Le stage s'effectue en principe à plein temps. Le département dont relèvent les notaires (département) peut autoriser une réduction du temps de travail pour de justes motifs. Cette réduction ne doit pas excéder 20 pour cent. En cas de réduction du temps de travail, la durée minimum du stage est prolongée en proportion.
 
@@ -54,15 +54,17 @@ arrête:
 
 #### Art. 2
 
-**Formation durant le stage - a) en général**
+**Formation durant le stage a) En général**
 
 <sup>1</sup> Les maîtres de stage du service public et les notaires maîtres de stage se concertent entre eux afin de coordonner au mieux l'engagement et la formation des stagiaires.
 
+<sup>1<sup>bis</sup></sup> Sont habilités à former des stagiaires les notaires autorisés à exercer depuis 2 années consécutives.
+
 <sup>2</sup> Le notaire maître de stage ne peut se charger, simultanément, que de la formation de deux stagiaires au maximum.
 
-#### Art. 3 b
+#### Art. 3
 
-**) formation du stagiaire**
+**b) Formation du stagiaire**
 
 <sup>1</sup> Le notaire maître de stage forme personnellement le stagiaire.
 
@@ -72,9 +74,9 @@ arrête:
 
 <sup>4</sup> Il lui accorde les facilités nécessaires pour lui permettre de suivre les cours et séminaires.
 
-#### Art. 4 c
+#### Art. 4
 
-**) attestations de stage**
+**c) Attestations de stage**
 
 <sup>1</sup> Le notaire maître de stage, sous sa responsabilité, remplit chaque semestre à l'intention du département une formule, délivrée par ce dernier, sur l'avancement du stage.
 
@@ -84,12 +86,10 @@ arrête:
 
 **Obligations du stagiaire**
 
-Durant son stage, le notaire stagiaire doit:
+<sup>1</sup> Durant son stage, le notaire stagiaire doit:
 
 - a) travailler régulièrement au service de son maître de stage;
-
 - b) suivre les cours et séminaires organisés pour sa formation, en particulier ceux organisés par l'Association des notaires;
-
 - c) effectuer un stage auprès d'un office du registre foncier et du registre du commerce.
 
 #### Art. 6
@@ -104,90 +104,85 @@ Durant son stage, le notaire stagiaire doit:
 
 <sup>4</sup> Les indications utiles concernant notamment la date et le lieu des cours obligatoires sont accessibles sur le site Internet de l'Etat du Valais.
 
-### Section 2: Examens
+### 1.2 Examens
 
 #### Art. 7
 
-**Dispositions générales - a) sessions**
+**Dispositions générales a) Sessions**
 
 <sup>1</sup> Il y a deux sessions d'examen par année, l'une au printemps et l'autre en automne.
 
-<sup>2</sup> L'examen écrit a lieu dans les premières quinzaines de mai et de novembre.
+<sup>2</sup> L'examen écrit est informatisé et a lieu dans les premières quinzaines de mai et de novembre.
 
 <sup>3</sup> La date des épreuves orales est fixée par la commission des examens; les candidats en sont avisés au moins une semaine à l'avance.
 
-[^7-1]: Modification du 18 juin 2014 BO No 26/2014 01.01.2015
-
 #### Art. 8
 
-**b) inscription à l'examen et émolument**[^7-1]
+**b) Inscription à l'examen et émolument**
 
 <sup>1</sup> Le département décide, en première instance de l'admission d'un candidat à l'examen.
 
-<sup>2</sup> Les demandes d'inscription à l'examen sont adressées par écrit au département au plus tard le 1er avril pour la session de printemps et le 1er octobre pour la session d'automne.
+<sup>2</sup> Les demandes d'inscription à l'examen sont adressées par écrit au département au plus tard le 15 mars pour la session de printemps et le 15 septembre pour la session d'automne.
 
-<sup>3</sup> Elles ne sont admises que moyennant vérification que les conditions sont remplies sur le vu des attestations de stages au sens de l'article 4 et versement d'un émolument de 1800 francs pour l'organisation des épreuves écrites et orales; en cas d'échec à l'examen écrit, la moitié de l'émolument d'inscription est restituée au candidat.[^8-1]
+<sup>3</sup> Elles ne sont admises que moyennant vérification que les conditions sont remplies sur le vu des attestations de stages au sens de l'article 4 et versement de l'émolument suivant:
 
-[^8-1]: Modification du 18 juin 2014 BO No 26/2014 01.01.2015
+- a) 800 francs pour les épreuves écrites;
+- b) 800 francs pour les épreuves orales.
 
 #### Art. 9
 
-<sup>4</sup> Commission des examens de notaire - a) composition
+**Commission des examens de notaire a) Composition**
 
-<sup>1</sup> La commission d'examen est nommée pour une période de quatre ans par le Conseil d'Etat, sur proposition de l'Association pour les représentants de la profession. Elle comprend un président et 14 membres.[^9-1]
+<sup>1</sup> La commission d'examen est nommée pour une période de 4 ans par le Conseil d'Etat, sur proposition:
 
-<sup>2</sup> Les deux langues officielles doivent être représentées. Les membres de la commission qui font passer et qui corrigent les examens doivent parler la même langue officielle que le candidat.[^9-2]
+- a) de l'Association pour les représentants de la profession;
+- b) de l'administration cantonale, pour les représentants des services ayant des activités en rapport direct avec l'activité ministérielle du notaire.
+
+<sup>1<sup>bis</sup></sup> Elle comprend un président et 14 membres.
+
+<sup>2</sup> Les deux langues officielles doivent être représentées. Les membres de la commission qui font passer et qui corrigent les examens doivent parler la même langue officielle que le candidat.
 
 <sup>3</sup> Ne peuvent fonctionner comme membres de la commission:
 
 - a) les parents ou alliés du candidat jusqu'au quatrième degré inclusivement;
-
 - b) les notaires auprès desquels le candidat a fait son stage.
 
-[^9-1]: Modification du 22 juin 2016 BO No 27/2016 01.01.2017
-[^9-2]: Modification du 18 juin 2014 BO No 26/2014 01.01.2015
+#### Art. 10
 
-#### Art. 10 b
-
-**) récusation**
+**b) Récusation**
 
 <sup>1</sup> Les dispositions de la loi sur la procédure et la juridiction administratives concernant la récusation s'appliquent aux membres de la commission.
 
 <sup>2</sup> En cas de récusation des membres ou de leurs suppléants, le Conseil d'Etat désigne les remplaçants; la composition de la commission doit rester celle prévue par le présent règlement.
 
-#### Art. 11 c
+#### Art. 11
 
-**) organisation**
+**c) Organisation**
 
 <sup>1</sup> La commission s'organise elle-même. Elle peut notamment:
 
 - a) se diviser en sous-commissions de trois membres;
-
 - b) confier à l'un de ses membres la préparation des thèmes d'examen;
-
 - c) désigner un membre rapporteur pour l'appréciation des épreuves écrites.
 
 <sup>2</sup> Le secrétariat de la commission est assuré par le département.
 
-#### Art. 12 d
+#### Art. 12
 
-**) rémunération**
+**d) Rémunération**
 
 <sup>1</sup> Les membres de la commission perçoivent les indemnités suivantes:
 
 - a) 300 francs pour la préparation des thèmes;
-
 - b) 150 francs par candidat, pour la correction des épreuves écrites;
-
 - c) 300 francs par candidat, pour les épreuves orales;
-
 - d) 150 francs pour la surveillance des épreuves écrites.
 
 <sup>2</sup> Pour le surplus, l'arrêté sur les indemnités de commissions est applicable.
 
 #### Art. 13
 
-**Déroulement de l'examen - a) principes**
+**Déroulement de l'examen a) Principes**
 
 <sup>1</sup> L'examen est subi en langue française ou allemande, au choix du candidat.
 
@@ -195,19 +190,21 @@ Durant son stage, le notaire stagiaire doit:
 
 <sup>3</sup> Pour le surplus, la commission fixe les modalités de l'examen et en informe les candidats.
 
-#### Art. 14 b
+#### Art. 14
 
-**) épreuves écrites**
+**b) Epreuves écrites**
 
 <sup>1</sup> Le candidat a quatre heures à sa disposition pour chaque épreuve écrite.
 
 <sup>2</sup> Chaque épreuve se déroule sans interruption, la surveillance étant organisée par la commission.
 
-<sup>3</sup> Le candidat dispose des textes légaux ainsi que de la documentation remise officiellement.
+<sup>3</sup> Il est mis à disposition de chaque candidat une donnée d’examen sur un support papier ainsi qu’un accès informatique limité aux législations fédérale et cantonale.
 
-#### Art. 15 c
+<sup>4</sup> Le candidat qui influe ou tente d'influer de manière illicite sur le résultat des examens, notamment en utilisant des moyens non autorisés, est exclu de la session et considéré comme y ayant échoué.
 
-**) épreuves orales**
+#### Art. 15
+
+**c) Epreuves orales**
 
 <sup>1</sup> L'examen oral se déroule devant la commission ou la sous-commission désignée à cet effet, successivement pour tous les candidats qui y sont admis, et dure deux heures.
 
@@ -225,20 +222,18 @@ Durant son stage, le notaire stagiaire doit:
 
 #### Art. 17
 
-**Résultat de l'examen - a) épreuves écrites**
+**Résultat de l'examen a) Epreuves écrites**
 
-Le candidat a réussi l'examen écrit si la moyenne de ses notes aux épreuves écrites atteint 4 et s'il n'a pas obtenu deux notes inférieures à 4.
+<sup>1</sup> Le candidat a réussi l'examen écrit si la moyenne de ses notes aux épreuves écrites atteint 4 et s'il n'a pas obtenu deux notes inférieures à 4.
 
-#### Art. 18 b
+#### Art. 18
 
-**) résultat final**
+**b) Résultat final**
 
 <sup>1</sup> L'examen est réussi si la moyenne des notes atteint 4 pour les épreuves écrites et 4 pour les épreuves orales. Cependant, le résultat est considéré comme insuffisant si le candidat a obtenu pour les épreuves écrites et orales ensemble:
 
 - a) trois fois la note 3.5 ou une note plus faible;
-
 - b) deux fois la note 2.5 ou une note plus faible;
-
 - c) une fois la note 1.
 
 <sup>2</sup> Le candidat qui, sans motif légitime, se retire de l'examen, ne se présente pas ou abandonne l'épreuve en cours, est censé avoir échoué. La commission décide si le motif est légitime.
@@ -252,7 +247,6 @@ Le candidat a réussi l'examen écrit si la moyenne de ses notes aux épreuves �
 <sup>1</sup> Dans les 15 jours qui suivent la fin de la session, la commission fait rapport au département en indiquant, pour chaque candidat:
 
 - a) le résultat de l'examen;
-
 - b) la note obtenue pour chaque épreuve; les notes insuffisantes doivent être motivées succinctement.
 
 <sup>2</sup> Le département communique à chaque candidat la décision de la commission portant sur l'appréciation de ses épreuves.
@@ -261,31 +255,29 @@ Le candidat a réussi l'examen écrit si la moyenne de ses notes aux épreuves �
 
 #### Art. 20
 
-<sup>1</sup> Recours
+**Recours**
 
-<sup>1</sup> Les décisions du département peuvent faire l'objet d'un recours auprès du Conseil d'Etat. Celles de la commission d'examen peuvent faire l'objet d'un recours auprès du Tribunal cantonal.[^20-1]
+<sup>1</sup> Les décisions du département peuvent faire l'objet d'un recours auprès du Conseil d'Etat. Celles de la commission d'examen peuvent faire l'objet d'un recours auprès du Tribunal cantonal.
 
-<sup>2</sup> Abrogé
+<sup>2</sup> …
 
 <sup>3</sup> Sous réserve de prescriptions particulières de la loi ou du présent règlement, la procédure est régie par la loi sur la procédure et la juridiction administratives.
 
 <sup>4</sup> Le candidat qui entend invoquer la violation d'une prescription légale ou réglementaire survenue avant ou pendant un examen doit, sous peine de déchéance, s'en prévaloir dès qu'il en a connaissance.
 
-[^20-1]: Modification du 4 décembre 2013 BO No 9/2014 01.03.2014
-
 #### Art. 21
 
-<sup>4</sup> Délivrance du brevet
+**Délivrance du brevet**
 
-La délivrance du brevet donne droit à la perception d'un émolument de 160 francs.
+<sup>1</sup> L’émolument d’examen au sens de l’article 8 alinéa 3 comprend la délivrance du brevet.
 
-### Chapitre 2: De la Chambre de surveillance
+## 2 De la Chambre de surveillance
 
 #### Art. 22
 
 **Compétences**
 
-La Chambre de surveillance prévient et réprime les atteintes à la dignité professionnelle en veillant au respect des règles professionnelles de l'Association (statuts, code de déontologie).
+<sup>1</sup> La Chambre de surveillance prévient et réprime les atteintes à la dignité professionnelle en veillant au respect des règles professionnelles de l'Association (statuts, code de déontologie).
 
 #### Art. 23
 
@@ -303,17 +295,17 @@ La Chambre de surveillance prévient et réprime les atteintes à la dignité pr
 
 <sup>6</sup> Pour le surplus, la Chambre s'organise elle-même.
 
-### Chapitre 3: Autorisation d'exercer
+## 3 Autorisation d'exercer
 
 #### Art. 24
 
 **Assermentation**
 
-L'autorisation d'exercer, qui emporte qualité d'officier public, est délivrée en séance du Conseil d'Etat au cours de laquelle le notaire prête, à son choix, le serment ou la promesse solennelle suivante, dont la lecture est faite par le président du Conseil d'Etat:
+<sup>1</sup> L'autorisation d'exercer, qui emporte qualité d'officier public, est délivrée en séance du Conseil d'Etat au cours de laquelle le notaire prête, à son choix, le serment ou la promesse solennelle suivante, dont la lecture est faite par le président du Conseil d'Etat:
 
-«Je jure par le nom de Dieu / Je promets sur mon honneur d'exercer en toute conscience la profession de notaire qui m'est confiée, d'observer fidèlement les lois et de respecter les devoirs de ma charge avec dignité, exactitude et honnêteté».
+"Je jure par le nom de Dieu/Je promets sur mon honneur d'exercer en toute conscience la profession de notaire qui m'est confiée, d'observer fidèlement les lois et de respecter les devoirs de ma charge avec dignité, exactitude et honnêteté."
 
-Cette lecture terminée, le notaire lève la main et prononce les mots: «Je le jure» ou «je le promets».
+<sup>2</sup> Cette lecture terminée, le notaire lève la main et prononce les mots: "Je le jure" ou "je le promets".
 
 #### Art. 25
 
@@ -361,7 +353,7 @@ Cette lecture terminée, le notaire lève la main et prononce les mots: «Je le 
 
 <sup>7</sup> L'acte reçu en l'étude secondaire doit être inscrit dans les répertoires de l'étude principale et selon les modalités prévues par la loi sur le notariat et le présent règlement.
 
-### Chapitre 4: Comptabilité
+## 4 Comptabilité
 
 #### Art. 29
 
@@ -371,7 +363,7 @@ Cette lecture terminée, le notaire lève la main et prononce les mots: «Je le 
 
 <sup>3</sup> Le notaire conservera, classés de manière appropriée et séparément, les pièces justificatives des comptes, les reçus concernant les papiers-valeurs, ainsi que les quittances ou récépissés séparés pour les montants en espèces versés.
 
-### Chapitre 5: Surveillance administrative
+## 5 Surveillance administrative
 
 #### Art. 30
 
@@ -393,19 +385,19 @@ Cette lecture terminée, le notaire lève la main et prononce les mots: «Je le 
 
 <sup>3</sup> Le notaire supporte les frais de l'inspection extraordinaire.
 
-### Chapitre 6: Authentification
+## 6 Authentification
 
 #### Art. 32
 
 **Indication de provenance de l'immeuble**
 
-Le notaire attestera dans l'acte la provenance de chaque immeuble par le numéro de pièces justificatives.
+<sup>1</sup> Le notaire attestera dans l'acte la provenance de chaque immeuble par le numéro de pièces justificatives.
 
 #### Art. 33
 
 **Hypothèques légales**
 
-Le notaire attestera dans l'acte qu'il a rendu les parties attentives à l'existence et à la portée des hypothèques légales éventuelles relatives à l'acte instrumenté.
+<sup>1</sup> Le notaire attestera dans l'acte qu'il a rendu les parties attentives à l'existence et à la portée des hypothèques légales éventuelles relatives à l'acte instrumenté.
 
 #### Art. 34
 
@@ -419,23 +411,23 @@ Le notaire attestera dans l'acte qu'il a rendu les parties attentives à l'exist
 
 **Droit de préemption**
 
-Il est du devoir du notaire d'aviser les ayants droit du cas de préemption légal ou conventionnel annoté, d'en recevoir avis d'exercice ou de renonciation.
+<sup>1</sup> Il est du devoir du notaire d'aviser les ayants droit du cas de préemption légal ou conventionnel annoté, d'en recevoir avis d'exercice ou de renonciation.
 
 #### Art. 36
 
 **Déclaration sous serment**
 
-La déclaration sous serment, prévue à l'article 91 de la loi sur le notariat, est rendue en la forme suivante:
+<sup>1</sup> La déclaration sous serment, prévue à l'article 91 de la loi sur le notariat, est rendue en la forme suivante:
 
-Le notaire dit au déclarant: «Vous jurez (ou vous promettez) que la déclaration que vous avez signée est entièrement conforme à la vérité, et vous reconnaissez avoir été rendu attentif aux conséquences civiles et pénales d'une déclaration fausse dans un titre».
+Le notaire dit au déclarant: "Vous jurez (ou vous promettez) que la déclaration que vous avez signée est entièrement conforme à la vérité, et vous reconnaissez avoir été rendu attentif aux conséquences civiles et pénales d'une déclaration fausse dans un titre."
 
-Sur quoi, le déclarant répond en levant la main droite: «Je le jure» ou «je le promets».
+<sup>3</sup> Sur quoi, le déclarant répond en levant la main droite: "Je le jure" ou "je le promets".
 
 #### Art. 37
 
 **Instrumentation à distance**
 
-L'instrumentation à distance est traitée dans un règlement spécial du Conseil d'Etat, soumis à l'approbation du Département fédéral de justice et police. Dans l'intervalle, le notaire ne peut procéder à une instrumentation à distance.
+<sup>1</sup> L'instrumentation à distance est traitée dans un règlement spécial du Conseil d'Etat, soumis à l'approbation du Département fédéral de justice et police. Dans l'intervalle, le notaire ne peut procéder à une instrumentation à distance.
 
 #### Art. 38
 
@@ -445,7 +437,7 @@ L'instrumentation à distance est traitée dans un règlement spécial du Consei
 
 <sup>2</sup> Il en va de même pour les copies des actes délivrés en brevet.
 
-### Chapitre 7: Répertoires
+## 7 Répertoires
 
 #### Art. 39
 
@@ -473,7 +465,7 @@ L'instrumentation à distance est traitée dans un règlement spécial du Consei
 
 <sup>3</sup> Le contenu des répertoires électroniques doit également être conservé sur un support papier séparé.
 
-### Chapitre 8: Conservation des actes
+## 8 Conservation des actes
 
 #### Art. 42
 
@@ -499,9 +491,9 @@ L'instrumentation à distance est traitée dans un règlement spécial du Consei
 
 <sup>3</sup> Si une minute déposée aux archives doit être déposée en justice, ou si un testateur veut retirer un testament, il est procédé conformément à l'article 105 de la loi sur le notariat.
 
-<sup>4</sup> Pour le surplus, le règlement du 17 novembre 1982 concernant les archives des organismes de l'Etat est réservé.
+<sup>4</sup> …
 
-### Chapitre 9: Actes pour cause de mort
+## 9 Actes pour cause de mort
 
 #### Art. 44
 
@@ -515,7 +507,7 @@ L'instrumentation à distance est traitée dans un règlement spécial du Consei
 
 #### Art. 45
 
-**Centrale valaisanne des testaments - a) généralités**
+**Centrale valaisanne des testaments a) Généralités**
 
 <sup>1</sup> Le service dont relève l'état civil communique immédiatement à la centrale valaisanne des testaments tout acte de décès établi par les officiers de l'Etat civil ou qui leur ont été communiqué.
 
@@ -525,21 +517,19 @@ L'instrumentation à distance est traitée dans un règlement spécial du Consei
 
 <sup>4</sup> Le service cantonal du registre foncier est responsable de la centrale valaisanne des testaments. Il peut émettre des directives en la matière.
 
-#### Art. 46 b
+#### Art. 46
 
-**) avis**
+**b) Avis**
 
-L'annonce faite par le notaire contient:
+<sup>1</sup> L'annonce faite par le notaire contient:
 
 - a) les nom, prénom, filiation, date de naissance, origine et domicile du testateur, et, si celui-ci est étranger, son lieu de naissance;
-
 - b) la date de l'instrumentation ou du dépôt, ainsi que le numéro du répertoire;
-
 - c) le nom du notaire et sa résidence.
 
-#### Art. 47 c
+#### Art. 47
 
-**) répertoire informatique**
+**c) Répertoire informatique**
 
 <sup>1</sup> Le préposé à cette centrale tient un répertoire informatique des testateurs et classe les avis par ordre chronologique.
 
@@ -547,13 +537,13 @@ L'annonce faite par le notaire contient:
 
 <sup>3</sup> En cas de retrait d'un testament, l'inscription est radiée et l'avis détruit.
 
-#### Art. 48 d
+#### Art. 48
 
-**) demande de renseignement**
+**d) Demande de renseignement**
 
-Les juges de commune, les notaires et toute personne justifiant d'un intérêt légitime peuvent, en présentant un acte de décès, s'adresser à cette centrale pour savoir si un testament a été annoncé.
+<sup>1</sup> Les juges de commune, les notaires et toute personne justifiant d'un intérêt légitime peuvent, en présentant un acte de décès, s'adresser à cette centrale pour savoir si un testament a été annoncé.
 
-### Chapitre 10: Dispositions finales et transitoires
+## 10 Dispositions finales et transitoires
 
 #### Art. 49
 
@@ -571,61 +561,28 @@ Les juges de commune, les notaires et toute personne justifiant d'un intérêt l
 
 **Abrogation et modification**
 
-<sup>1</sup> Sont abrogées toutes les dispositions contraires au présent règlement, en particulier le règlement d'exécution du 9 décembre 1942 de la loi sur le notariat.
+<sup>1</sup> Sont abrogées toutes les dispositions contraires au présent règlement, en particulier le règlement d'exécution de la loi sur le notariat du 9 décembre 1942.
 
-<sup>2</sup> Les articles 10 alinéa 3 et 12 du règlement du 20 février 2002 concernant la loi sur la profession d'avocat sont modifiés comme il suit:
+<sup>2</sup> Les articles 10 alinéa 3 et 12 du règlement concernant la loi sur la profession d'avocat du 20 février 2002 sont modifiés.
 
-#### Art. 10
-
-**al. 3**
-
-<sup>3</sup> Elles ne sont admises que moyennant vérification que les conditions sont remplies sur le vu des attestations de stages de l'article 6 et versement d'un émolument de 1'200 francs pour l'organisation des épreuves écrites et orales; en cas d'échec à l'examen écrit, la moitié de l'émolument d'inscription est restituée au candidat.
-
-#### Art. 12
-
-<sup>1</sup> Les membres de la commission d'examen perçoivent les indemnités suivantes:
-
-- a) 300 francs pour la préparation des thèmes;
-
-- b) 150 francs par candidat, pour la correction des épreuves écrites;
-
-- c) 300 francs par candidat, pour les épreuves orales;
-
-- d) 150 francs pour la surveillance des épreuves écrites.
-
-<sup>2</sup> Pour le surplus, l'arrêté sur les indemnités de commissions est applicable.
-
-<sup>3</sup> L'article 2 de l'ordonnance du 17 avril 1920 concernant la tenue du registre foncier cantonal est modifié comme suit:
-
-En conséquence, le canton est divisé en six arrondissements du registre foncier, comme suit:
-
-Ier arrondissement: comprenant les districts de Conches, Rarogne oriental, Brigue et Viège, avec siège à Brigue.
-
-IIe arrondissement: comprenant les districts de Loèche et Rarogne occidental, avec siège à Loèche.
-
-IIIe arrondissement: comprenant le district de Sierre, avec siège à Sierre. IVe arrondissement: comprenant les districts de Sion, d'Hérens et de Conthey, avec siège à Sion.
-
-Ve arrondissement: comprenant les districts de Martigny, d'Entremont, ainsi que les communes de Finhaut, de Salvan et de Vernayaz, avec siège à Martigny.
-
-VIe arrondissement: comprenant le district de Monthey et les autres communes du district de St-Maurice, avec siège à Monthey.
+<sup>3</sup> L'article 2 de l'ordonnance concernant la tenue du registre foncier cantonal du 17 avril 1920 est modifié.
 
 #### Art. 51
 
 **Entrée en vigueur**
 
-Le présent règlement entre en vigueur à la même date que la loi sur le notariat.
+<sup>1</sup> Le présent règlement entre en vigueur à la même date que la loi sur le notariat.
 
-Ainsi adopté en Conseil d'Etat à Sion, le 7 septembre 2005.
+## T1 Disposition transitoire de la modification du 16 octobre 2019
 
-Le président du Conseil d'Etat: Claude Roch Le chancelier d'Etat: Henri v. Roten Approuvé par le Département fédéral de justice et police le 28 octobre 2005.
+#### Art. T1-1
 
-**Entrée en**
+<sup>1</sup> Le présent acte législatif produit ses effets la première fois pour tous les candidats inscrits à la session d'examen du printemps 2020.
 
-### Intitulé et modifications Publication
+## T2 Disposition transitoire de la modification du 1<sup>er</sup> décembre 2021
 
-vigueur Règlement concernant la loi sur le notariat RO/VS 2005, 240 01.01.2006 du 7 septembre 2005
+#### Art. T2-1
 
-## Autres notes
+<sup>1</sup> Les notaires qui, au 1<sup>er</sup> janvier 2022, forment des stagiaires, peuvent en achever la formation même s’ils ne remplissent pas la condition prévue par l'article 2 alinéa 1<sup>bis</sup> relative à la durée de pratique.
 
-- [1] Modification du 10 décembre 2007 BO No 50/2007 01.01.2008
-- [2] Modification du 1er juin 2011 BO No 24/2011 17.06.2011
+RCV BO/Abl. 46/2005
