@@ -4,11 +4,11 @@ title: Loi fédérale du 6 octobre 2000 sur la partie générale du droit des as
 short: LPGA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/510"
 language: fr
-version: 2021-11-10
+version: 2022-01-01
 adopted: 2000-10-06
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20211110/fr/xml/fedlex-data-admin-ch-eli-cc-2002-510-20211110-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20211110/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-510-20220101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20211110/fr"
 
 (LPGA)
 
-du 6 octobre 2000 (Etat le 10 novembre 2021)
+du 6 octobre 2000 (État le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -186,9 +186,16 @@ Pour évaluer le taux d’invalidité, le revenu que l’assuré aurait pu obten
 
 **Révision de la rente d’invalidité et d’autres prestations durables**
 
-<sup>1</sup> Si le taux d’invalidité du bénéficiaire de la rente subit une modification notable, la rente est, d’office ou sur demande, révisée pour l’avenir, à savoir augmentée ou réduite en conséquence, ou encore supprimée.
+<sup>1</sup>
+
+La rente d’invalidité est, d’office ou sur demande, révisée pour l’avenir, à savoir augmentée, réduite ou supprimée, lorsque le taux d’invalidité de l’assuré:
+
+- a. subit une modification d’au moins 5 points de pourcentage, ou
+- b. atteint 100 %.[^17-1]
 
 <sup>2</sup> De même, toute prestation durable accordée en vertu d’une décision entrée en force est, d’office ou sur demande, augmentée ou réduite en conséquence, ou encore supprimée si les circonstances dont dépendait son octroi changent notablement.
+
+[^17-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 18
 
@@ -372,11 +379,14 @@ Les autorités administratives et judiciaires de la Confédération, des cantons
 
 <sup>2</sup> Les organes des assurances sociales se prêtent mutuellement assistance aux mêmes conditions.
 
-<sup>3</sup> Les organismes visés à l’art. 75*a* se communiquent les données nécessaires pour accomplir les tâches qui leur sont assignées en vertu de l’annexe II de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^32-2] (accord sur la libre circulation des personnes) et d’autres traités internationaux en matière de sécurité sociale.[^32-3]
+<sup>2bis</sup> Si les organes d’une assurance sociale ou les autorités administratives et judiciaires de la Confédération, des cantons, des districts, des arrondissements ou des communes apprennent dans l’exercice de leurs fonctions qu’un assuré perçoit des prestations indues, ils peuvent en informer les organes des assurances sociales concernées ainsi que ceux des institutions de prévoyance touchées.[^32-2]
+
+<sup>3</sup> Les organismes visés à l’art. 75*a* se communiquent les données nécessaires pour accomplir les tâches qui leur sont assignées en vertu de l’annexe II de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^32-3] (accord sur la libre circulation des personnes) et d’autres traités internationaux en matière de sécurité sociale.[^32-4]
 
 [^32-1]: Erratum de la CdR de l’Ass. féd. du 3 nov. 2021, publié le 10 nov. 2021, ne concerne que le texte italien ([RO 2021 658](https://fedlex.data.admin.ch/eli/oc/2021/658)).
-[^32-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^32-3]: Introduit par le ch. I de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+[^32-2]: Introduit par l’annexe ch. 1 de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^32-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^32-4]: Introduit par le ch. I de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 
 #### Art. 33
 
@@ -484,11 +494,14 @@ Les parties ont le droit d’être entendues. Il n’est pas nécessaire de les 
 
 <sup>1</sup> L’assureur examine les demandes, prend d’office les mesures d’instruction nécessaires et recueille les renseignements dont il a besoin. Les renseignements donnés oralement doivent être consignés par écrit.
 
+<sup>1bis</sup> L’assureur détermine la nature et l’étendue de l’instruction nécessaire.[^43-1]
+
 <sup>2</sup> L’assuré doit se soumettre à des examens médicaux ou techniques si ceux-ci sont nécessaires à l’appréciation du cas et qu’ils peuvent être raisonnablement exigés.
 
-<sup>3</sup> Si l’assuré ou d’autres requérants refusent de manière inexcusable de se conformer à leur obligation de renseigner ou de collaborer à l’instruction, l’assureur peut se prononcer en l’état du dossier ou clore l’instruction et[^43-1] décider de ne pas entrer en matière. Il doit leur avoir adressé une mise en demeure écrite les avertissant des conséquences juridiques et leur impartissant un délai de réflexion convenable.
+<sup>3</sup> Si l’assuré ou d’autres requérants refusent de manière inexcusable de se conformer à leur obligation de renseigner ou de collaborer à l’instruction, l’assureur peut se prononcer en l’état du dossier ou clore l’instruction et[^43-2] décider de ne pas entrer en matière. Il doit leur avoir adressé une mise en demeure écrite les avertissant des conséquences juridiques et leur impartissant un délai de réflexion convenable.
 
-[^43-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^43-1]: Introduit par l’annexe ch. 1 de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^43-2]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 
 #### Art. 43a
 
@@ -566,9 +579,35 @@ Le tribunal compétent est:
 
 #### Art. 44
 
-**Expertise**
+**Expertise**[^44-1]
 
-Si l’assureur doit recourir aux services d’un expert indépendant pour élucider les faits, il donne connaissance du nom de celui-ci aux parties. Celles-ci peuvent récuser l’expert pour des raisons pertinentes et présenter des contre-propositions.
+<sup>1</sup>
+
+Si l’assureur juge une expertise nécessaire dans le cadre de mesures d’instruction médicale, il en fixe le type selon les exigences requises; trois types sont possibles:
+
+- a. expertise monodisciplinaire;
+- b. expertise bidisciplinaire;
+- c. expertise pluridisciplinaire.
+
+<sup>2</sup> Si l’assureur doit recourir aux services d’un ou de plusieurs experts indépendants pour élucider les faits dans le cadre d’une expertise, il communique leur nom aux parties. Les parties peuvent récuser les experts pour les motifs indiqués à l’art. 36, al. 1, et présenter des contre-propositions dans un délai de dix jours.
+
+<sup>3</sup> Lorsqu’il communique le nom des experts, l’assureur soumet aussi aux parties les questions qu’il entend poser aux experts et leur signale qu’elles ont la possibilité de remettre par écrit des questions supplémentaires dans le même délai. L’assureur décide en dernier ressort des questions qui sont posées aux experts.
+
+<sup>4</sup> Si, malgré la demande de récusation, l’assureur maintient son choix du ou des experts pressentis, il en avise les parties par une décision incidente.
+
+<sup>5</sup> Les disciplines médicales sont déterminées à titre définitif par l’assureur pour les expertises visées à l’al. 1, let. a et b, et par le centre d’expertises pour les expertises visées à l’al. 1, let. c.
+
+<sup>6</sup> Sauf avis contraire de l’assuré, les entretiens entre l’assuré et l’expert font l’objet d’enregistrements sonores, lesquels sont conservés dans le dossier de l’assureur.
+
+<sup>7</sup>
+
+Le Conseil fédéral:
+
+- a. peut régler la nature de l’attribution du mandat à un centre d’expertises, pour les expertises visées à l’al. 1;
+- b. édicte des critères pour l’admission des experts médicaux et des experts en neuropsychologie, pour les expertises visées à l’al. 1;
+- c. crée une commission réunissant des représentants des différentes assurances sociales, des centres d’expertises, des médecins, des neuropsychologues, des milieux scientifiques, ainsi que des organisations d’aide aux patients et aux personnes en situation de handicap qui veille au contrôle de l’accréditation, du processus, et du résultat des expertises médicales. Elle émet des recommandations publiques.
+
+[^44-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 45
 
@@ -963,7 +1002,7 @@ Sont notamment des prestations de même nature:
 
 [^75-1]: Introduit par l’annexe ch. 2 de la LF du 6 oct. 2006 (5<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 4215](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 
-## Chapitre 5*a***** Exécution de traités internationaux en matière de sécurité sociale
+## Chapitre 5*a* Exécution de traités internationaux en matière de sécurité sociale
 
 [^chap5a-1]
 
@@ -1066,7 +1105,7 @@ Le Conseil fédéral est chargé de l’exécution de la présente loi. Il édic
 
 <sup>1</sup> Les dispositions matérielles de la présente loi ne sont pas applicables aux prestations en cours et aux créances fixées avant son entrée en vigueur. Sur demande, les rentes d’invalidité ou de survivants réduites ou refusées en raison d’une faute de l’assuré seront cependant réexaminées et, si nécessaire, fixées à nouveau conformément à l’art. 21, al. 1 et 2, au plus tôt à compter de l’entrée en vigueur de la présente loi.
 
-<sup>2</sup> ...[^82-1]
+<sup>2</sup> …[^82-1]
 
 [^82-1]: Abrogé par le ch. II 38 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
@@ -1076,7 +1115,7 @@ Le Conseil fédéral est chargé de l’exécution de la présente loi. Il édic
 
 Les recours pendants devant le tribunal de première instance à l’entrée en vigueur de la modification du 21 juin 2019 sont régis par l’ancien droit.
 
-[^82a-1]: Introduit par le ch. I de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)). Erratum de la CdR de l’Ass.féd. du 19 mai 2021, publié le 18 juin 2021 ([RO 2021 358](https://fedlex.data.admin.ch/eli/oc/2021/358)).
+[^82a-1]: Introduit par le ch. I de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)). Erratum de la CdR de l’Ass. féd. du 19 mai 2021, publié le 18 juin 2021 ([RO 2021 358](https://fedlex.data.admin.ch/eli/oc/2021/358)).
 
 #### Art. 83
 
@@ -1104,6 +1143,6 @@ Annexe
 
 ## Modification du droit en vigueur
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510)[3453](https://fedlex.data.admin.ch/eli/oc/2002/511)[3472](https://fedlex.data.admin.ch/eli/oc/2002/512)[3475](https://fedlex.data.admin.ch/eli/oc/2002/513).

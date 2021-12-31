@@ -4,11 +4,11 @@ title: Bundesgesetz vom 6. Oktober 2000 über den Allgemeinen Teil des Sozialver
 short: ATSG
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/510"
 language: de
-version: 2021-11-10
+version: 2022-01-01
 adopted: 2000-10-06
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20211110/de/xml/fedlex-data-admin-ch-eli-cc-2002-510-20211110-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20211110/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-510-20220101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20211110/de"
 
 (ATSG)
 
-vom 6. Oktober 2000 (Stand am 10. November 2021)
+vom 6. Oktober 2000 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -184,9 +184,16 @@ Für die Bestimmung des Invaliditätsgrades wird das Erwerbseinkommen, das die v
 
 **Revision der Invalidenrente und anderer Dauerleistungen**
 
-<sup>1</sup> Ändert sich der Invaliditätsgrad einer Rentenbezügerin oder eines Rentenbezügers erheblich, so wird die Rente von Amtes wegen oder auf Gesuch hin für die Zukunft entsprechend erhöht, herabgesetzt oder aufgehoben.
+<sup>1</sup>
+
+Die Invalidenrente wird von Amtes wegen oder auf Gesuch hin für die Zukunft erhöht, herabgesetzt oder aufgehoben, wenn der Invaliditätsgrad einer Rentenbezügerin oder eines Rentenbezügers sich:
+
+- a. um mindestens fünf Prozentpunkte ändert; oder
+- b. auf 100 Prozent erhöht.[^17-1]
 
 <sup>2</sup> Auch jede andere formell rechtskräftig zugesprochene Dauerleistung wird von Amtes wegen oder auf Gesuch hin erhöht, herabgesetzt oder aufgehoben, wenn sich der ihr zu Grunde liegende Sachverhalt nachträglich erheblich verändert hat.
+
+[^17-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 18
 
@@ -367,11 +374,14 @@ Die Verwaltungs- und Rechtspflegebehörden des Bundes, der Kantone, Bezirke, Kre
 
 <sup>2</sup> Unter den gleichen Bedingungen leisten die Organe der einzelnen Sozialversicherungen einander Verwaltungshilfe.
 
-<sup>3</sup> Die Stellen nach Artikel 75*a* geben sich gegenseitig diejenigen Daten bekannt, die zur Erfüllung ihrer Aufgaben nach Anhang II des Abkommens vom 21. Juni 1999[^32-2] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (Freizügigkeitsabkommen) sowie anderer internationaler Abkommen über die soziale Sicherheit notwendig sind.[^32-3]
+<sup>2bis</sup> Erfahren die Organe einer Sozialversicherung, die Verwaltungs- und Rechtspflegebehörden des Bundes, der Kantone, Bezirke, Kreise oder Gemeinden im Rahmen ihrer Funktionen, dass eine versicherte Person ungerechtfertigte Leistungen bezieht, so können sie die Organe der betroffenen Sozialversicherung sowie der betroffenen Vorsorgeeinrichtungen darüber informieren.[^32-2]
+
+<sup>3</sup> Die Stellen nach Artikel 75*a* geben sich gegenseitig diejenigen Daten bekannt, die zur Erfüllung ihrer Aufgaben nach Anhang II des Abkommens vom 21. Juni 1999[^32-3] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (Freizügigkeitsabkommen) sowie anderer internationaler Abkommen über die soziale Sicherheit notwendig sind.[^32-4]
 
 [^32-1]: Die Berichtigung der RedK der BVers vom 3. Nov. 2021, publiziert am 10. Nov. 2021 betrifft nur den italienischen Text ([AS 2021 658](https://fedlex.data.admin.ch/eli/oc/2021/658)).
-[^32-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^32-3]: Eingefügt durch Ziff. I des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+[^32-2]: Eingefügt durch Anhang Ziff. 1 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^32-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^32-4]: Eingefügt durch Ziff. I des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 
 #### Art. 33
 
@@ -479,9 +489,13 @@ Die Parteien haben Anspruch auf rechtliches Gehör. Sie müssen nicht angehört 
 
 <sup>1</sup> Der Versicherungsträger prüft die Begehren, nimmt die notwendigen Abklärungen von Amtes wegen vor und holt die erforderlichen Auskünfte ein. Mündlich erteilte Auskünfte sind schriftlich festzuhalten.
 
+<sup>1bis</sup> Der Versicherungsträger bestimmt die Art und den Umfang der notwendigen Abklärungen.[^43-1]
+
 <sup>2</sup> Soweit ärztliche oder fachliche Untersuchungen für die Beurteilung notwendig und zumutbar sind, hat sich die versicherte Person diesen zu unterziehen.
 
 <sup>3</sup> Kommen die versicherte Person oder andere Personen, die Leistungen beanspruchen, den Auskunfts- oder Mitwirkungspflichten in unentschuldbarer Weise nicht nach, so kann der Versicherungsträger auf Grund der Akten verfügen oder die Erhebungen einstellen und Nichteintreten beschliessen. Er muss diese Personen vorher schriftlich mahnen und auf die Rechtsfolgen hinweisen; ihnen ist eine angemessene Bedenkzeit einzuräumen.
+
+[^43-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 43a
 
@@ -559,9 +573,35 @@ Zuständiges Gericht ist:
 
 #### Art. 44
 
-**Gutachten**
+**Gutachten**[^44-1]
 
-Muss der Versicherungsträger zur Abklärung des Sachverhaltes ein Gutachten einer oder eines unabhängigen Sachverständigen einholen, so gibt er der Partei deren oder dessen Namen bekannt. Diese kann den Gutachter aus triftigen Gründen ablehnen und kann Gegenvorschläge machen.
+<sup>1</sup>
+
+Erachtet der Versicherungsträger im Rahmen von medizinischen Abklärungen ein Gutachten als notwendig, so legt er je nach Erfordernis eine der folgenden Arten fest:
+
+- a. monodisziplinäres Gutachten;
+- b. bidisziplinäres Gutachten;
+- c. polydisziplinäres Gutachten.
+
+<sup>2</sup> Muss der Versicherungsträger zur Abklärung des Sachverhaltes ein Gutachten bei einem oder mehreren unabhängigen Sachverständigen einholen, so gibt er der Partei deren Namen bekannt. Diese kann innert zehn Tagen aus den Gründen nach Artikel 36 Absatz 1 Sachverständige ablehnen und Gegenvorschläge machen.
+
+<sup>3</sup> Mit der Bekanntgabe der Namen stellt der Versicherungsträger der Partei auch die Fragen an den oder die Sachverständigen zu und weist sie auf die Möglichkeit hin, innert der gleichen Frist Zusatzfragen in schriftlicher Form einzureichen. Der Versicherungsträger entscheidet abschliessend über die Fragen an den oder die Sachverständigen.
+
+<sup>4</sup> Hält der Versicherungsträger trotz Ablehnungsantrag an den vorgesehenen Sachverständigen fest, so teilt er dies der Partei durch Zwischenverfügung mit.
+
+<sup>5</sup> Bei Gutachten nach Absatz 1 Buchstaben a und b werden die Fachdisziplinen vom Versicherungsträger, bei Gutachten nach Absatz 1 Buchstabe c von der Gutachterstelle abschliessend festgelegt.
+
+<sup>6</sup> Sofern die versicherte Person es nicht anders bestimmt, werden die Interviews in Form von Tonaufnahmen zwischen der versicherten Person und dem Sachverständigen erstellt und in die Akten des Versicherungsträgers aufgenommen.
+
+<sup>7</sup>
+
+Der Bundesrat:
+
+- a. kann für Gutachten nach Absatz 1 die Art der Vergabe des Auftrages an eine Gutachterstelle regeln;
+- b. erlässt Kriterien für die Zulassung von medizinischen und neuropsychologischen Sachverständigen für alle Gutachten nach Absatz 1;
+- c. schafft eine Kommission mit Vertreterinnen und Vertretern der verschiedenen Sozialversicherungen, der Gutachterstellen, der Ärzteschaft, der Neuropsychologinnen und Neuropsychologen, der Wissenschaft sowie der Patienten- und Behindertenorganisationen, welche die Zulassung als Gutachterstelle, das Verfahren zur Gutachtenerstellung und die Ergebnisse der medizinischen Gutachten überwacht. Die Kommission spricht öffentliche Empfehlungen aus.
+
+[^44-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 45
 
@@ -942,7 +982,7 @@ Leistungen gleicher Art sind namentlich:
 - h.[^74-3] Abklärungskosten und Kosten der Schadenermittlung.
 
 [^74-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
-[^74-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmepaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
+[^74-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 18. März 2011 (6. IV‑Revision, erstes Massnahmepaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^74-3]: Eingefügt durch Ziff. I des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 
 #### Art. 75
@@ -957,7 +997,7 @@ Leistungen gleicher Art sind namentlich:
 
 [^75-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 
-## 5*a*. Kapitel:**** Durchführung internationaler Sozialversicherungsabkommen
+## 5*a*. Kapitel: Durchführung internationaler Sozialversicherungsabkommen
 
 [^chap5a-1]
 
@@ -1060,7 +1100,7 @@ Der Bundesrat wird mit dem Vollzug beauftragt. Er erlässt die Ausführungsbesti
 
 <sup>1</sup> Materielle Bestimmungen dieses Gesetzes sind auf die bei seinem Inkrafttreten laufenden Leistungen und festgesetzten Forderungen nicht anwendbar. Wegen Selbstverschulden gekürzte oder verweigerte Invaliden- oder Hinterlassenenrenten werden jedoch auf Antrag überprüft und gegebenenfalls frühestens vom Inkrafttreten dieses Gesetzes an auf Grund von Artikel 21 Absatz 1 und 2 neu festgesetzt.
 
-<sup>2</sup> ...[^82-1]
+<sup>2</sup> …[^82-1]
 
 [^82-1]: Aufgehoben durch Ziff. II 38 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
@@ -1098,6 +1138,6 @@ Anhang
 
 ## Änderung bisherigen Rechts
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änd. können unter [AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511)[3472](https://fedlex.data.admin.ch/eli/oc/2002/512)[3475](https://fedlex.data.admin.ch/eli/oc/2002/513)[3371](https://fedlex.data.admin.ch/eli/oc/2002/510)konsultiert werden.

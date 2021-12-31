@@ -4,11 +4,11 @@ title: Legge federale del 6 ottobre 2000 sulla parte generale del diritto delle 
 short: LPGA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/510"
 language: it
-version: 2021-11-10
+version: 2022-01-01
 adopted: 2000-10-06
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20211110/it/xml/fedlex-data-admin-ch-eli-cc-2002-510-20211110-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20211110/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-510-20220101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20211110/it"
 
 (LPGA)
 
-del 6 ottobre 2000 (Stato 10 novembre 2021)
+del 6 ottobre 2000 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -185,9 +185,16 @@ Per valutare il grado d’invalidità, il reddito che l’assicurato invalido po
 
 **Revisione della rendita d’invalidità e di altre prestazioni durevoli**
 
-<sup>1</sup> Se il grado d’invalidità del beneficiario della rendita subisce una notevole modificazione, per il futuro la rendita è aumentata o ridotta proporzionalmente o soppressa, d’ufficio o su richiesta.
+<sup>1</sup>
+
+Per il futuro la rendita d’invalidità è aumentata, ridotta o soppressa, d’ufficio o su richiesta, se il grado d’invalidità del beneficiario della rendita:
+
+- a. subisce una modificazione di almeno cinque punti percentuali; o
+- b. aumenta al 100 per cento.[^17-1]
 
 <sup>2</sup> Ogni altra prestazione durevole accordata in virtù di una disposizione formalmente passata in giudicato è, d’ufficio o su richiesta, aumentata, diminuita o soppressa se le condizioni che l’hanno giustificata hanno subito una notevole modificazione.
+
+[^17-1]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 18
 
@@ -370,11 +377,14 @@ Le autorità amministrative e giudiziarie della Confederazione, dei Cantoni, dis
 
 <sup>2</sup> Alle stesse condizioni gli organi delle singole assicurazioni sociali si prestano reciprocamente assistenza.
 
-<sup>3</sup> Gli organi di cui all’articolo 75*a* si comunicano reciprocamente i dati necessari per l’adempimento dei loro compiti secondo l’allegato II dell’Accordo del 21 giugno 1999[^32-2] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (Accordo sulla libera circolazione delle persone) e secondo altre convenzioni internazionali in materia di sicurezza sociale.[^32-3]
+<sup>2bis</sup> Se nello svolgimento delle loro funzioni apprendono che un assicurato percepisce prestazioni indebite, gli organi di un’assicurazione sociale come pure le autorità amministrative e giudiziarie della Confederazione, dei Cantoni, distretti, circoli e Comuni possono informarne gli organi dell’assicurazione sociale e degli istituti di previdenza interessati.[^32-2]
+
+<sup>3</sup> Gli organi di cui all’articolo 75*a* si comunicano reciprocamente i dati necessari per l’adempimento dei loro compiti secondo l’allegato II dell’Accordo del 21 giugno 1999[^32-3] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (Accordo sulla libera circolazione delle persone) e secondo altre convenzioni internazionali in materia di sicurezza sociale.[^32-4]
 
 [^32-1]: Correzione della Commissione di redazione dell’AF del 3 nov. 2021, pubblicata il 10 nov. 2021 ([RU 2021 658](https://fedlex.data.admin.ch/eli/oc/2021/658)).
-[^32-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^32-3]: Introdotto dal n. I della LF del 21 giu. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1303](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+[^32-2]: Introdotto dall’all. n. 1 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^32-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^32-4]: Introdotto dal n. I della LF del 21 giu. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1303](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 
 #### Art. 33
 
@@ -482,11 +492,14 @@ Le parti hanno il diritto di essere sentite. Non devono obbligatoriamente essere
 
 <sup>1</sup> L’assicuratore esamina le domande, intraprende d’ufficio i necessari accertamenti e raccoglie le informazioni di cui ha bisogno. Le informazioni date oralmente devono essere messe per scritto.
 
+<sup>1bis</sup> L’assicuratore determina la natura e l’entità dei necessari accertamenti.[^43-1]
+
 <sup>2</sup> Se sono necessari e ragionevolmente esigibili esami medici o specialistici per la valutazione del caso, l’assicurato deve sottoporvisi.
 
-<sup>3</sup> Se l’assicurato o altre persone che pretendono prestazioni, nonostante un’ingiunzione, rifiutano in modo ingiustificato di compiere il loro dovere d’informare o di collaborare, l’assicuratore può, dopo diffida scritta e avvertimento delle conseguenze giuridiche e dopo aver impartito un adeguato termine di riflessione, decidere in base agli atti o chiudere l’inchiesta e decidere di non entrare in materia[^43-1].
+<sup>3</sup> Se l’assicurato o altre persone che pretendono prestazioni, nonostante un’ingiunzione, rifiutano in modo ingiustificato di compiere il loro dovere d’informare o di collaborare, l’assicuratore può, dopo diffida scritta e avvertimento delle conseguenze giuridiche e dopo aver impartito un adeguato termine di riflessione, decidere in base agli atti o chiudere l’inchiesta e decidere di non entrare in materia[^43-2].
 
-[^43-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 33 LRC; [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^43-1]: Introdotto dall’all. n. 1 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^43-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 33 LRC; [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 
 #### Art. 43a
 
@@ -564,9 +577,35 @@ Il tribunale competente è:
 
 #### Art. 44
 
-**Perizia**
+**Perizia**[^44-1]
 
-Se per chiarire i fatti l’assicuratore deve far ricorso ai servizi di un perito indipendente, ne comunica il nome alla parte. Essa può ricusare il perito per motivi fondati e presentare controproposte.
+<sup>1</sup>
+
+Se, nel quadro di accertamenti medici, ritiene necessaria una perizia, l’assicuratore sceglie il tipo di perizia adeguato alle esigenze del caso tra i tipi seguenti:
+
+- a. perizia monodisciplinare;
+- b. perizia bidisciplinare;
+- c. perizia pluridisciplinare.
+
+<sup>2</sup> Se per chiarire i fatti deve far ricorso ai servizi di uno o più periti indipendenti, l’assicuratore ne comunica il nome alla parte. Questa può, entro dieci giorni, ricusare un perito per i motivi di cui all’articolo 36 capoverso 1 e presentare controproposte.
+
+<sup>3</sup> Insieme al nome del perito, l’assicuratore comunica alla parte anche le domande rivolte allo stesso e segnala la possibilità di presentare domande supplementari in forma scritta entro lo stesso termine. L’assicuratore decide in via definitiva le domande da porre al perito.
+
+<sup>4</sup> L’assicuratore che, nonostante una richiesta di ricusazione, conferma il perito previsto lo comunica alla parte mediante una decisione incidentale.
+
+<sup>5</sup> Per le perizie di cui al capoverso 1 lettere a e b, le discipline sono stabilite in via definitiva dall’assicuratore, per le perizie di cui al capoverso 1 lettera c dal centro peritale.
+
+<sup>6</sup> Salvo che l’assicurato vi si opponga, i colloqui tra l’assicurato e il perito sono registrati su supporto audio; le registrazioni sono acquisite agli atti dell’assicuratore.
+
+<sup>7</sup>
+
+Il Consiglio federale:
+
+- a. può disciplinare le modalità di attribuzione dei mandati ai centri peritali, per le perizie di cui al capoverso 1;
+- b. emana criteri per l’abilitazione dei periti medici e neuropsicologi, per le perizie di cui al capoverso 1;
+- c. istituisce una commissione composta di rappresentanti delle assicurazioni sociali, dei centri peritali, dei medici, dei neuropsicologi, del mondo scientifico, nonché delle organizzazioni dei pazienti e di aiuto ai disabili, incaricata di sorvegliare l’abilitazione dei centri peritali, nonché la procedura e i risultati delle perizie mediche; la commissione pubblica raccomandazioni.
+
+[^44-1]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 45
 
@@ -971,7 +1010,7 @@ Sono segnatamente prestazioni di uguale natura:
 
 [^75-1]: Introdotto dall’all. n. 2 della LF del 6 ott. 2006 (5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 
-## Capitolo 5*a*:**** Esecuzione di convenzioni internazionali di sicurezza sociale
+## Capitolo 5*a*: Esecuzione di convenzioni internazionali di sicurezza sociale
 
 [^chap5a-1]
 
@@ -1074,7 +1113,7 @@ Il Consiglio federale è incaricato dell’esecuzione della presente legge. Eman
 
 <sup>1</sup> Le disposizioni materiali della presente legge non sono applicabili alle prestazioni correnti e alle esigenze fissate prima della sua entrata in vigore. Su richiesta le rendita d’invalidità o per superstiti ridotte o rifiutate in seguito a colpa dell’assicurato saranno tuttavia riesaminate e, se necessario, fissate nuovamente secondo l’articolo 21 capoversi 1 e 2, al più presto a partire dall’entrata in vigore della presente legge.
 
-<sup>2</sup> ...[^82-1]
+<sup>2</sup> …[^82-1]
 
 [^82-1]: Abrogato dal n. II 38 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
@@ -1108,7 +1147,7 @@ Data dell’entrata in vigore:[^84-1] 1° gennaio 2003 art. 83 cpv. 2: 1° marzo
 
 [^84-1]: DCF dell’11 set. 2002.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 ## Modifica del diritto vigente
 
