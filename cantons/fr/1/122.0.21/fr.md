@@ -4,13 +4,13 @@ number: "122.0.21"
 title: "Règlement sur l'élaboration des actes législatifs"
 short: REAL
 language: fr
-version: 2019-01-01
-valid_until: 2021-12-31
-version_adopted: 2018-11-27
+version: 2022-01-01
+valid_until: 2026-10-31
+version_adopted: 2022-01-31
 adopted: 2005-05-24
 in_force: 2006-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5840/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7104/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Elaboration des actes législatifs – R
 
 (REAL)
 
-du 24.05.2005 (version entrée en vigueur le 01.01.2019)
+du 24.05.2005 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -408,7 +408,7 @@ Arrête:
 
 <sup>2</sup> Les destinataires sont:
 
-- a) les Directions, la Chancellerie d'Etat, le Service de législation, le Bureau de l'égalité hommes-femmes et de la famille et l'Autorité cantonale de la transparence et de la protection des données;
+- a) les Directions, la Chancellerie d'Etat, le Service de législation, le Bureau de l'égalité hommes-femmes et de la famille et l'Autorité cantonale de la transparence, de la protection des données et de la médiation;
 - b) et, dans la mesure où le projet les concerne particulièrement, les autres services centraux, la Conférence des préfets et le Service des communes.
 
 <sup>3</sup> Les Directions et la Chancellerie d'Etat recueillent l'avis de leurs unités et commissions concernées par le projet.

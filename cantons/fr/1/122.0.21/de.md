@@ -4,13 +4,13 @@ number: "122.0.21"
 title: Reglement über die Ausarbeitung der Erlasse
 short: AER
 language: de
-version: 2019-01-01
-valid_until: 2021-12-31
-version_adopted: 2018-11-27
+version: 2022-01-01
+valid_until: 2026-10-31
+version_adopted: 2022-01-31
 adopted: 2005-05-24
 in_force: 2006-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/5840/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7104/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Ausarbeitung der Erlasse – R
 
 (AER)
 
-vom 24.05.2005 (Fassung in Kraft getreten am 01.01.2019)
+vom 24.05.2005 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -408,7 +408,7 @@ beschliesst:
 
 <sup>2</sup> Die Adressaten sind:
 
-- a) die Direktionen, die Staatskanzlei, das Amt für Gesetzgebung, das Büro für die Gleichstellung von Frau und Mann und für Familienfragen und die Kantonale Behörde für Öffentlichkeit und Datenschutz;
+- a) die Direktionen, die Staatskanzlei, das Amt für Gesetzgebung, das Büro für die Gleichstellung von Frau und Mann und für Familienfragen und die kantonale Behörde für Öffentlichkeit, Datenschutz und Mediation;
 - b) und – soweit der Entwurf sie besonders betrifft – die übrigen zentralen Dienste, die Oberamtmännerkonferenz und das Amt für Gemeinden.
 
 <sup>3</sup> Die Direktionen und die Staatskanzlei holen die Stellungnahme ihrer Verwaltungseinheiten und Kommissionen, die vom Entwurf betroffen werden, ein.
