@@ -3,18 +3,18 @@ sr: "946.231.127.6"
 title: "Ordonnance du 18 mai 2016 instituant des mesures à l'encontre de la République populaire démocratique de Corée"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/280"
 language: fr
-version: 2020-08-25
+version: 2022-01-01
 adopted: 2016-05-18
 in_force: 2016-05-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/280/20200825/fr/xml/fedlex-data-admin-ch-eli-cc-2016-280-20200825-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/280/20200825/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/280/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-280-20220101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/280/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République populaire démocratique de Corée
 
-du 18 mai 2016 (Etat le 25 août 2020)
+du 18 mai 2016 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -473,7 +473,7 @@ Il est interdit:
 
 <sup>2</sup> Le SEM surveille l’exécution des mesures prévues aux art. 2, 2*a* et 2*b*.[^16-4]
 
-<sup>3</sup> Le contrôle à la frontière incombe à l’Administration fédérale des douanes (AFD).
+<sup>3</sup> Le contrôle à la frontière incombe à l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^16-5].
 
 <sup>4</sup> Sur instructions du SECO, les autorités compétentes prennent les mesures nécessaires pour le gel des ressources économiques, telles que la mention d’un blocage du registre foncier ou la saisie ou la mise sous scellé d’articles de luxe.
 
@@ -481,12 +481,13 @@ Il est interdit:
 [^16-2]: Introduit par le ch. I de l’O du 22 fév. 2017 ([RO 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)). Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 25 avr. 2018 à 18h00 ([RO 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 [^16-3]: Introduit par le ch. I de l’O du 22 fév. 2017 ([RO 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)). Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 25 avr. 2018 à 18h00 ([RO 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 [^16-4]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 25 avr. 2018 à 18h00 ([RO 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^16-5]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 17
 
 **Contrôle de l’importation, de l’exportation et du transit**
 
-<sup>1</sup> L’AFD contrôle physiquement l’importation, l’exportation et le transit des biens en provenance et à destination de la République populaire démocratique de Corée. En cas de doute, elle procède au blocage des biens et en informe le SECO. Celui-ci décide de la suite à donner. Il peut saisir ou confisquer les biens bloqués.[^17-1]
+<sup>1</sup> L’OFDF contrôle physiquement l’importation, l’exportation et le transit des biens en provenance et à destination de la République populaire démocratique de Corée. En cas de doute, il procède au blocage des biens et en informe le SECO. Celui-ci décide de la suite à donner. Il peut saisir ou confisquer les biens bloqués.[^17-1]
 
 <sup>2</sup> La personne assujettie à l’obligation de déclarer au sens de l’art. 26 de la loi du 18 mars 2005 sur les douanes[^17-2] déclare par écrit au SECO les biens à exporter vers la République populaire démocratique de Corée au moins cinq jours ouvrés avant l’exportation prévue. Elle amène les biens pour contrôle à un bureau de douane conformément aux directives du SECO.
 
@@ -594,14 +595,14 @@ Annexe 1
 
 **Remarque**
 
-\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité de l’ONU ou par son comité compétent*[^annex1-lvlu1-1]*.
+\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité de l’ONU ou par son comité compétent[^annex1-lvlu1-1].
 
-\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies*[^annex1-lvlu1-2]*.
+\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annex1-lvlu1-2].
 
 [^annex1-lvlu1-1]: La liste peut être consultée sur www.un.org/en/sc/ &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 1718 (RPDC) &gt; Matériaux relatifs à la liste de sanctions.
 [^annex1-lvlu1-2]: La banque de données SESAM est librement accessible sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
 
-Annexe 2*[^t-1]*
+Annexe 2[^t-1]
 
 (art. 5, al. 1, let. a)
 
@@ -619,7 +620,7 @@ Annexe 2*[^t-1]*
 [^annex2-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
 [^annex2-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
 
-Annexe 2a*[^t-2]*
+Annexe 2a[^t-2]
 
 (art. 5*a,* al. 1)
 
@@ -648,7 +649,7 @@ Annexe 2a*[^t-2]*
 <tr><td>17. 89</td><td>Navires (navigation maritime ou fluviale)</td></tr>
 </table>
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 6, al. 1)
 
@@ -663,7 +664,7 @@ Annexe 3*[^t-3]*
 <tr><td>3.</td><td>2825.1000</td><td>Hydrazine, destinée à être utilisée comme carburant pour fusées</td></tr>
 </table>
 
-Annexe 4*[^t-4]*
+Annexe 4[^t-4]
 
 (art. 7, al. 1 et 4, let. a et c)
 
@@ -703,7 +704,7 @@ Annexe 4*[^t-4]*
 <tr><td>17.</td><td>44</td><td>Bois, charbon de bois et ouvrages en bois</td></tr>
 </table>
 
-Annexe 5*[^t-5]*
+Annexe 5[^t-5]
 
 (art. 8)
 
@@ -739,7 +740,7 @@ Annexe 5*[^t-5]*
 - 26\. Porcelaines dont le prix de vente est supérieur à 100 francs l’unité.
 - 27\. Armes de chasse et de sport, et leurs munitions.
 
-Annexe 6*[^t-6]*
+Annexe 6[^t-6]
 
 (art. 9, al. 1 et 2)
 
@@ -749,14 +750,14 @@ Annexe 6*[^t-6]*
 
 ### Remarque
 
-\1. La présente annexe correspond à la liste des navires désignés par le Conseil de sécurité de l’ONU ou par son comité compétent*[^annex6-lvlu1-lvlu1-1]*.
+\1. La présente annexe correspond à la liste des navires désignés par le Conseil de sécurité de l’ONU ou par son comité compétent[^annex6-lvlu1-lvlu1-1].
 
-\2. En règle générale, cette liste est saisie par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit sa communication par les Nations Unies*[^annex6-lvlu1-lvlu1-2]*.
+\2. En règle générale, cette liste est saisie par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit sa communication par les Nations Unies[^annex6-lvlu1-lvlu1-2].
 
 [^annex6-lvlu1-lvlu1-1]: La liste peut être consultée sur [www.un.org/fr/sc/](https://www.un.org/sc/suborg/fr/sanctions/1718/materials) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 1718 &gt; Matériaux relatifs à la liste de sanctions.
 [^annex6-lvlu1-lvlu1-2]: La banque de données SESAM est librement accessible sur [www.seco.admin.ch](https://www.seco.admin.ch/seco/fr/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Économie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
 
-Annexe 7*[^t-7]*
+Annexe 7[^t-7]
 
 (art. 7*b*, al. 1)
 
@@ -774,7 +775,7 @@ Annexe 7*[^t-7]*
 <tr><td>6.</td><td>12</td><td>Graines et fruits oléagineux; graines, semences et fruits divers; plantes industrielles ou médicinales; pailles et fourrages</td></tr>
 </table>
 
-Annexe 8*[^t-8]*
+Annexe 8[^t-8]
 
 (art. 7*c*)
 

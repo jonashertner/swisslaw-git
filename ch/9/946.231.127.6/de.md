@@ -3,18 +3,18 @@ sr: "946.231.127.6"
 title: Verordnung vom 18. Mai 2016 über Massnahmen gegenüber der Demokratischen Volksrepublik Korea
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/280"
 language: de
-version: 2020-08-25
+version: 2022-01-01
 adopted: 2016-05-18
 in_force: 2016-05-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/280/20200825/de/xml/fedlex-data-admin-ch-eli-cc-2016-280-20200825-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/280/20200825/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/280/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-280-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/280/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Demokratischen Volksrepublik Korea
 
-vom 18. Mai 2016 (Stand am 25. August 2020)
+vom 18. Mai 2016 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -165,9 +165,9 @@ Das Verbot nach Absatz 1 gilt nicht für Kohle mit Ursprung ausserhalb der Demok
 - a. die Ware ausschliesslich zur Ausfuhr aus dem Hafen von Rason durch die Demokratische Volksrepublik Korea befördert wurde; und
 - b. die Transaktion nicht mit der Erzielung von Einnahmen für die Nuklear- oder Raketenprogramme der Demokratischen Volksrepublik Korea oder mit anderen nach dieser Verordnung verbotenen Aktivitäten verbunden ist.[^7-1]
 
-<sup>2bis</sup> und <sup>2ter</sup> ...[^7-2]
+<sup>2bis</sup> und <sup>2ter</sup> …[^7-2]
 
-<sup>3</sup> ...[^7-3]
+<sup>3</sup> …[^7-3]
 
 <sup>4</sup>
 
@@ -209,7 +209,7 @@ Das Verbot nach Absatz 4 Buchstabe c gilt nicht, wenn:
 
 <sup>1</sup> Die Beschaffung, der Kauf, die Einfuhr, die Durchfuhr und der Transport von Statuen aus der Demokratischen Volksrepublik Korea sind verboten.
 
-<sup>2</sup> ...[^7a-3]
+<sup>2</sup> …[^7a-3]
 
 <sup>2bis</sup> Die Beschaffung, der Kauf, die Einfuhr, die Durchfuhr und der Transport von Textilien, einschliesslich Stoffe, halbfertige oder fertige Bekleidungsartikel, aus der Demokratischen Volksrepublik Korea sind verboten.[^7a-4]
 
@@ -467,7 +467,7 @@ Es ist verboten:
 
 <sup>2</sup> Das SEM überwacht den Vollzug der Massnahmen nach den Artikeln 2–2*b*.[^16-4]
 
-<sup>3</sup> Die Kontrolle an der Grenze obliegt der Eidgenössischen Zollverwaltung (EZV).
+<sup>3</sup> Die Kontrolle an der Grenze obliegt dem Bundesamt für Zoll und Grenzsicherheit (BAZG)[^16-5].
 
 <sup>4</sup> Die zuständigen Behörden ergreifen auf Anweisung des SECO die für die Sperrung wirtschaftlicher Ressourcen notwendigen Massnahmen wie die Anmerkung einer Verfügungssperre im Grundbuch oder die Pfändung oder Versiegelung von Luxusgütern.
 
@@ -475,12 +475,13 @@ Es ist verboten:
 [^16-2]: Eingefügt durch Ziff. I der V vom 22. Febr. 2017 ([AS 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)). Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 25. April 2018 um 18.00 Uhr ([AS 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 [^16-3]: Eingefügt durch Ziff. I der V vom 22. Febr. 2017 ([AS 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)). Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 25. April 2018 um 18.00 Uhr ([AS 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 [^16-4]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 25. April 2018 um 18.00 Uhr ([AS 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^16-5]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 17
 
 **Kontrolle der Ein-, Aus- und Durchfuhr**
 
-<sup>1</sup> Die EZV kontrolliert physisch die Einfuhr und die Durchfuhr von Gütern aus der Demokratischen Volksrepublik Korea sowie die Ausfuhr und die Durchfuhr von Gütern nach der Demokratischen Volksrepublik Korea. Bei Unklarheiten blockiert sie die Sendung und informiert das SECO. Das SECO entscheidet über das weitere Vorgehen. Es kann Güter beschlagnahmen oder einziehen.[^17-1]
+<sup>1</sup> Das BAZG kontrolliert physisch die Einfuhr und die Durchfuhr von Gütern aus der Demokratischen Volksrepublik Korea sowie die Ausfuhr und die Durchfuhr von Gütern nach der Demokratischen Volksrepublik Korea. Bei Unklarheiten blockiert es die Sendung und informiert das SECO. Das SECO entscheidet über das weitere Vorgehen. Es kann Güter beschlagnahmen oder einziehen.[^17-1]
 
 <sup>2</sup> Anmeldepflichtige Personen nach Artikel 26 des Zollgesetzes vom 18. März 2005[^17-2] melden dem SECO Güter, die nach der Demokratischen Volksrepublik Korea ausgeführt werden sollen, mindestens fünf Arbeitstage vor der geplanten Ausfuhr schriftlich an. Sie führen die Sendung nach den Weisungen des SECO zur Überprüfung einer Zollstelle zu.
 
@@ -540,7 +541,7 @@ Die Verordnung vom 25. Oktober 2006[^21-1] über Massnahmen gegenüber der Demok
 
 <sup>2</sup> Bestehende Beteiligungen und Beziehungen nach Artikel 11 Absatz 2 müssen bis am 2. Juni 2016 beendet werden.
 
-<sup>3</sup> ...[^22-1]
+<sup>3</sup> …[^22-1]
 
 <sup>4</sup> Bestehende Niederlassungen, Tochtergesellschaften und Vertretungen sowie Bankkonten von Schweizer Banken in der Demokratischen Volksrepublik Korea müssen bis am 31. März 2017 geschlossen werden.[^22-2]
 
@@ -588,14 +589,14 @@ Anhang 1
 
 **Anmerkung**
 
-\1. Dieser Anhang entspricht den Listen der vom UNO-Sicherheitsrat bzw. der vom zuständigen Komitee des UNO-Sicherheitsrats bezeichneten natürlichen Personen, Unternehmen und Organisationen*[^annex1-lvlu1-1]*.
+\1. Dieser Anhang entspricht den Listen der vom UNO-Sicherheitsrat bzw. der vom zuständigen Komitee des UNO-Sicherheitsrats bezeichneten natürlichen Personen, Unternehmen und Organisationen[^annex1-lvlu1-1].
 
-\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen*[^annex1-lvlu1-2]*.
+\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen[^annex1-lvlu1-2].
 
 [^annex1-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; 1718 Sanctions Committee (DPRK) &gt; Sanctions List Materials.
 [^annex1-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt;Aussenwirtschaft &Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden.
 
-Anhang 2*[^t-1]*
+Anhang 2[^t-1]
 
 (Art. 5 Abs. 1 Bst. a)
 
@@ -613,7 +614,7 @@ Anhang 2*[^t-1]*
 [^annex2-lvlu1-1]: [SR 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
 [^annex2-lvlu1-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
 
-Anhang 2a*[^t-2]*
+Anhang 2a[^t-2]
 
 (Art. 5*a* Abs. 1)
 
@@ -642,7 +643,7 @@ Anhang 2a*[^t-2]*
 <tr><td>17. 89</td><td>Wasserfahrzeuge</td></tr>
 </table>
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 6 Abs. 1)
 
@@ -657,7 +658,7 @@ Anhang 3*[^t-3]*
 <tr><td>3. 2825.1000</td><td>Hydrazin als Raketentreibstoff</td></tr>
 </table>
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 (Art. 7 Abs. 1 und 4 Bst. a und c)
 
@@ -686,7 +687,7 @@ Anhang 4*[^t-4]*
 <tr><td>17. 44</td><td>Holz, Holzkohle und Holzwaren</td></tr>
 </table>
 
-Anhang 5*[^t-5]*
+Anhang 5[^t-5]
 
 (Art. 8)
 
@@ -722,7 +723,7 @@ Anhang 5*[^t-5]*
 - 26\. Porzellanwaren mit einem Verkaufspreis von mehr als Fr. 100.–/Stück;
 - 27\. Jagd- und Sportwaffen mit dazugehöriger Munition.
 
-Anhang 6*[^t-6]*
+Anhang 6[^t-6]
 
 (Art. 9 Abs. 1 und 2)
 
@@ -732,14 +733,14 @@ Anhang 6*[^t-6]*
 
 ### Anmerkung
 
-\1. Dieser Anhang entspricht der Liste der vom UNO-Sicherheitsrat bzw. der vom zuständigen Komitee des UNO-Sicherheitsrats bezeichneten Schiffe*[^annex6-lvlu1-lvlu1-1]*.
+\1. Dieser Anhang entspricht der Liste der vom UNO-Sicherheitsrat bzw. der vom zuständigen Komitee des UNO-Sicherheitsrats bezeichneten Schiffe[^annex6-lvlu1-lvlu1-1].
 
-\2. Die Liste wird vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen*[^annex6-lvlu1-lvlu1-2]*.
+\2. Die Liste wird vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen[^annex6-lvlu1-lvlu1-2].
 
 [^annex6-lvlu1-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: [www.un.org/fr/sc/](https://www.un.org/sc/suborg/fr/sanctions/1718/materials) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 1718 &gt; Matériaux relatifs à la liste de sanctions.
 [^annex6-lvlu1-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: [www.seco.admin.ch](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt;Aussenwirtschaft &Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden.
 
-Anhang 7*[^t-7]*
+Anhang 7[^t-7]
 
 (Art. 7*b* Abs. 1)
 
@@ -757,7 +758,7 @@ Anhang 7*[^t-7]*
 <tr><td>6. 12</td><td>Ölsaaten und ölhaltige Früchte; verschiedene Samen und Früchte; Pflanzen zum Gewerbe- oder Heilgebrauch; Stroh und Futter</td></tr>
 </table>
 
-Anhang 8*[^t-8]*
+Anhang 8[^t-8]
 
 (Art. 7*c*)
 

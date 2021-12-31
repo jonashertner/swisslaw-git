@@ -3,18 +3,18 @@ sr: "946.231.127.6"
 title: Ordinanza del 18 maggio 2016 che istituisce provvedimenti nei confronti della Repubblica popolare democratica di Corea
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/280"
 language: it
-version: 2020-08-25
+version: 2022-01-01
 adopted: 2016-05-18
 in_force: 2016-05-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/280/20200825/it/xml/fedlex-data-admin-ch-eli-cc-2016-280-20200825-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/280/20200825/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/280/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-280-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/280/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica popolare democratica di Corea
 
-del 18 maggio 2016 (Stato 25 agosto 2020) (Stato 25 agosto 2020)
+del 18 maggio 2016 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -476,7 +476,7 @@ Il Consiglio federale può decidere la cancellazione delle navi iscritte nel reg
 
 <sup>2</sup> La SEM sorveglia l’esecuzione dei provvedimenti di cui agli articoli 2, 2*a* e 2*b*.[^16-4]
 
-<sup>3</sup> Il controllo al confine è di competenza dell’Amministrazione federale delle dogane (AFD).
+<sup>3</sup> Il controllo al confine è di competenza dell’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^16-5].
 
 <sup>4</sup> Su ordine della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, quali la menzione nel registro fondiario di un divieto di disporre dei beni oppure il pignoramento o il suggellamento di beni di lusso.
 
@@ -484,12 +484,13 @@ Il Consiglio federale può decidere la cancellazione delle navi iscritte nel reg
 [^16-2]: Introdotto dal n. I dell’O del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)). Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 [^16-3]: Introdotto dal n. I dell’O del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)). Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 [^16-4]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^16-5]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 17
 
 **Controlli dell’importazione, dell’esportazione e del transito**
 
-<sup>1</sup> L’AFD controlla materialmente l’importazione, l’esportazione e il transito di beni da e verso la Repubblica popolare democratica di Corea. In caso di dubbi l’AFD blocca la spedizione e informa la SECO che decide l’iter da seguire. La SECO può ritirare o confiscare i beni.[^17-1]
+<sup>1</sup> L’UDSC controlla materialmente l’importazione, l’esportazione e il transito di beni da e verso la Repubblica popolare democratica di Corea. In caso di dubbi l’UDSC blocca la spedizione e informa la SECO che decide l’iter da seguire. La SECO può ritirare o confiscare i beni.[^17-1]
 
 <sup>2</sup> La persona soggetta all’obbligo di dichiarazione ai sensi dell’articolo 26 della legge del 18 marzo 2005[^17-2] sulle dogane notifica per iscritto alla SECO i beni da esportare verso la Repubblica popolare democratica di Corea almeno cinque giorni lavorativi prima dell’esportazione prevista. Conformemente alle istruzioni della SECO trasmette la spedizione a un ufficio doganale ai fini di una verifica.
 
@@ -539,7 +540,7 @@ Il Consiglio federale può decidere la cancellazione delle navi iscritte nel reg
 
 L’ordinanza del 25 ottobre 2006[^21-1] che istituisce provvedimenti nei confronti della Repubblica popolare democratica di Corea è abrogata.
 
-[^21-1]: [[RU 2006 4237](https://fedlex.data.admin.ch/eli/oc/2006/640), [2009 3179](https://fedlex.data.admin.ch/eli/oc/2009/403), [2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)n. I 11 [2357](https://fedlex.data.admin.ch/eli/oc/2013/496), [2015 3119](https://fedlex.data.admin.ch/eli/oc/2015/581), [2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)n. I 9]
+[^21-1]: [[RU 2006 4237](https://fedlex.data.admin.ch/eli/oc/2006/640); [2009 3179](https://fedlex.data.admin.ch/eli/oc/2009/403); [2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)n. I 11, [2357](https://fedlex.data.admin.ch/eli/oc/2013/496); [2015 3119](https://fedlex.data.admin.ch/eli/oc/2015/581); [2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)n. I 9]
 
 #### Art. 22
 
@@ -597,14 +598,14 @@ Allegato 1
 
 **Nota**
 
-\1. Il presente allegato corrisponde alle liste delle persone fisiche, imprese e organizzazioni indicate dal Consiglio di sicurezza dell’ONU o dal comitato competente del Consiglio di sicurezza dell’ONU*[^annex1-lvlu1-1]*.
+\1. Il presente allegato corrisponde alle liste delle persone fisiche, imprese e organizzazioni indicate dal Consiglio di sicurezza dell’ONU o dal comitato competente del Consiglio di sicurezza dell’ONU[^annex1-lvlu1-1].
 
-\2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite*[^annex1-lvlu1-2]*.
+\2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite[^annex1-lvlu1-2].
 
 [^annex1-lvlu1-1]: La lista è consultabile sul sito www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; 1718 Sanctions Committee (DPRK) &gt; Sanctions List Materials.
 [^annex1-lvlu1-2]: La banca dati SESAM è liberamente accessibile sul sito www.seco.admin.ch &gt; Politica esterna & Cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. La versione cartacea della lista può essere ordinata presso la SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
 
-Allegato 2*[^t-1]*
+Allegato 2[^t-1]
 
 (art. 5 cpv. 1 lett. a)
 
@@ -622,7 +623,7 @@ Allegato 2*[^t-1]*
 [^annex2-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
 [^annex2-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
 
-Allegato 2a*[^t-2]*
+Allegato 2a[^t-2]
 
 (art. 5*a* cpv. 1)
 
@@ -653,7 +654,7 @@ Allegato 2a*[^t-2]*
 
 - [tab]
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 6 cpv. 1)
 
@@ -670,7 +671,7 @@ Allegato 3*[^t-3]*
 
 - [tab]
 
-Allegato 4*[^t-4]*
+Allegato 4[^t-4]
 
 (art. 7 cpv. 1 e 4 lett. a e c)
 
@@ -699,7 +700,7 @@ Allegato 4*[^t-4]*
 <tr><td>17. 44</td><td>Legno, carbone di legna e lavori di legno</td></tr>
 </table>
 
-Allegato 5*[^t-5]*
+Allegato 5[^t-5]
 
 (art. 8)
 
@@ -735,7 +736,7 @@ Allegato 5*[^t-5]*
 - 26\. articoli di porcellana il cui prezzo di vendita è superiore a fr. 100.–/pezzo;
 - 27\. armi da caccia, per il tiro sportivo e relative munizioni.
 
-Allegato 6*[^t-6]*
+Allegato 6[^t-6]
 
 (art. 9 cpv. 1 e 2)
 
@@ -745,14 +746,14 @@ Allegato 6*[^t-6]*
 
 ### Nota
 
-\1. Il presente allegato corrisponde alla lista delle navi designate dal Consiglio di sicurezza dell’ONU o dal comitato competente del Consiglio di sicurezza dell’ONU*[^annex6-lvlu1-lvlu1-1]*.
+\1. Il presente allegato corrisponde alla lista delle navi designate dal Consiglio di sicurezza dell’ONU o dal comitato competente del Consiglio di sicurezza dell’ONU[^annex6-lvlu1-lvlu1-1].
 
-\2. In generale, la SECO inserisce la lista nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite*[^annex6-lvlu1-lvlu1-2]*.
+\2. In generale, la SECO inserisce la lista nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite[^annex6-lvlu1-lvlu1-2].
 
 [^annex6-lvlu1-lvlu1-1]: La lista delle navi designate può essere consultata sul sito: www.un.org/fr/sc/ &gt; Organes subsidiaires &gt; Sanctions &gt; Comités des sanctions 1718 &gt; Matériaux relatifs à la liste de sanctions.
 [^annex6-lvlu1-lvlu1-2]: La banca dati SESAM è liberamente accessibile sul sito www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo rivolgendosi a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
 
-Allegato 7*[^t-7]*
+Allegato 7[^t-7]
 
 (art. 7*b* cpv. 1)
 
@@ -770,7 +771,7 @@ Allegato 7*[^t-7]*
 <tr><td>6. 12</td><td>Semi e frutti oleosi; semi, sementi e frutti diversi; piante industriali o medicinali; paglie e foraggi</td></tr>
 </table>
 
-Allegato 8*[^t-8]*
+Allegato 8[^t-8]
 
 (art. 7*c*)
 
