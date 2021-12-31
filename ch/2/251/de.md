@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 6. Oktober 1995 über Kartelle und andere Wettbewerbsbe
 short: KG
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/546_546_546"
 language: de
-version: 2014-12-01
+version: 2022-01-01
 adopted: 1995-10-06
 in_force: 1996-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/546_546_546/20141201/de/xml/fedlex-data-admin-ch-eli-cc-1996-546_546_546-20141201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/20141201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/546_546_546/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1996-546_546_546-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/20141201/de"
 
 (Kartellgesetz, KG)
 
-vom 6. Oktober 1995 (Stand am 1. Dezember 2014)
+vom 6. Oktober 1995 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -77,6 +77,8 @@ Vorbehalten sind Vorschriften, soweit sie auf einem Markt für bestimmte Waren o
 
 <sup>2</sup> Als marktbeherrschende Unternehmen gelten einzelne oder mehrere Unternehmen, die auf einem Markt als Anbieter oder Nachfrager in der Lage sind, sich von andern Marktteilnehmern (Mitbewerbern, Anbietern oder Nachfragern) in wesentlichem Umfang unabhängig zu verhalten.[^4-1]
 
+<sup>2bis</sup> Als relativ marktmächtiges Unternehmen gilt ein Unternehmen, von dem andere Unternehmen beim Angebot oder bei der Nachfrage einer Ware oder Leistung in einer Weise abhängig sind, dass keine ausreichenden und zumutbaren Möglichkeiten bestehen, auf andere Unternehmen auszuweichen.[^4-2]
+
 <sup>3</sup>
 
 Als Unternehmenszusammenschluss gilt:
@@ -85,6 +87,7 @@ Als Unternehmenszusammenschluss gilt:
 - b. jeder Vorgang, wie namentlich der Erwerb einer Beteiligung oder der Abschluss eines Vertrages, durch den ein oder mehrere Unternehmen unmittelbar oder mittelbar die Kontrolle über ein oder mehrere bisher unabhängige Unternehmen oder Teile von solchen erlangen.
 
 [^4-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. April 2004 ([AS 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [BBl 2002 2022](https://fedlex.data.admin.ch/eli/fga/2002/265)[5506](https://fedlex.data.admin.ch/eli/fga/2002/848)).
+[^4-2]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [BBl 2019 4877](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
 
 ## 2. Kapitel: Materiellrechtliche Bestimmungen
 
@@ -137,9 +140,9 @@ In Verordnungen oder allgemeinen Bekanntmachungen können die Voraussetzungen um
 
 #### Art. 7
 
-**Unzulässige Verhaltensweisen marktbeherrschender Unternehmen**
+**Unzulässige Verhaltensweisen marktbeherrschender und relativ marktmächtiger Unternehmen[^7-1]**
 
-<sup>1</sup> Marktbeherrschende Unternehmen verhalten sich unzulässig, wenn sie durch den Missbrauch ihrer Stellung auf dem Markt andere Unternehmen in der Aufnahme oder Ausübung des Wettbewerbs behindern oder die Marktgegenseite benachteiligen.
+<sup>1</sup> Marktbeherrschende und relativ marktmächtige Unternehmen verhalten sich unzulässig, wenn sie durch den Missbrauch ihrer Stellung auf dem Markt andere Unternehmen in der Aufnahme oder Ausübung des Wettbewerbs behindern oder die Marktgegenseite benachteiligen.[^7-2]
 
 <sup>2</sup>
 
@@ -150,7 +153,12 @@ Als solche Verhaltensweisen fallen insbesondere in Betracht:
 - c. die Erzwingung unangemessener Preise oder sonstiger unangemessener Geschäftsbedingungen;
 - d. die gegen bestimmte Wettbewerber gerichtete Unterbietung von Preisen oder sonstigen Geschäftsbedingungen;
 - e. die Einschränkung der Erzeugung, des Absatzes oder der technischen Entwicklung;
-- f. die an den Abschluss von Verträgen gekoppelte Bedingung, dass die Vertragspartner zusätzliche Leistungen annehmen oder erbringen.
+- f. die an den Abschluss von Verträgen gekoppelte Bedingung, dass die Vertragspartner zusätzliche Leistungen annehmen oder erbringen;
+- g.[^7-3] die Einschränkung der Möglichkeit der Nachfrager, Waren oder Leistungen, die in der Schweiz und im Ausland angeboten werden, im Ausland zu den dortigen Marktpreisen und den dortigen branchenüblichen Bedingungen zu beziehen.
+
+[^7-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [BBl 2019 4877](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
+[^7-2]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [BBl 2019 4877](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
+[^7-3]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [BBl 2019 4877](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
 
 #### Art. 8
 
@@ -639,7 +647,7 @@ Ihre Beteiligung an der Untersuchung einer Wettbewerbsbeschränkung können anme
 
 **Sanktion bei unzulässigen Wettbewerbsbeschränkungen**[^49a-1]
 
-<sup>1</sup> Ein Unternehmen, das an einer unzulässigen Abrede nach Artikel 5 Absätze 3 und 4 beteiligt ist oder sich nach Artikel 7 unzulässig verhält, wird mit einem Betrag bis zu 10 Prozent des in den letzten drei Geschäftsjahren in der Schweiz erzielten Umsatzes belastet. Artikel 9 Absatz 3 ist sinngemäss anwendbar. Der Betrag bemisst sich nach der Dauer und der Schwere des unzulässigen Verhaltens. Der mutmassliche Gewinn, den das Unternehmen dadurch erzielt hat, ist angemessen zu berücksichtigen.
+<sup>1</sup> Ein Unternehmen, das an einer unzulässigen Abrede nach Artikel 5 Absätze 3 und 4 beteiligt ist oder marktbeherrschend ist und sich nach Artikel 7 unzulässig verhält, wird mit einem Betrag bis zu 10 Prozent des in den letzten drei Geschäftsjahren in der Schweiz erzielten Umsatzes belastet.[^49a-2] Artikel 9 Absatz 3 ist sinngemäss anwendbar. Der Betrag bemisst sich nach der Dauer und der Schwere des unzulässigen Verhaltens. Der mutmassliche Gewinn, den das Unternehmen dadurch erzielt hat, ist angemessen zu berücksichtigen.
 
 <sup>2</sup> Wenn das Unternehmen an der Aufdeckung und der Beseitigung der Wettbewerbsbeschränkung mitwirkt, kann auf eine Belastung ganz oder teilweise verzichtet werden.
 
@@ -652,6 +660,7 @@ Die Belastung entfällt, wenn:
 - c. der Bundesrat eine Wettbewerbsbeschränkung nach Artikel 8 zugelassen hat.
 
 [^49a-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. April 2004 ([AS 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [BBl 2002 2022](https://fedlex.data.admin.ch/eli/fga/2002/265)[5506](https://fedlex.data.admin.ch/eli/fga/2002/848)). Siehe auch die SchlB am Ende dieses Erlasses.
+[^49a-2]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [BBl 2019 4877](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
 
 #### Art. 50
 

@@ -4,11 +4,11 @@ title: "Legge federale del 6 ottobre 1995 sui cartelli e altre limitazioni della
 short: LCart
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/546_546_546"
 language: it
-version: 2014-12-01
+version: 2022-01-01
 adopted: 1995-10-06
 in_force: 1996-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/546_546_546/20141201/it/xml/fedlex-data-admin-ch-eli-cc-1996-546_546_546-20141201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/20141201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/546_546_546/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1996-546_546_546-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/20141201/it"
 
 (Legge sui cartelli, LCart)
 
-del 6 ottobre 1995 (Stato 1° dicembre 2014)
+del 6 ottobre 1995 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -77,6 +77,8 @@ Sono fatte salve le prescrizioni che vietano la concorrenza per determinati beni
 
 <sup>2</sup> Per imprese che dominano il mercato si intendono una o più imprese che per il tramite dell’offerta o della domanda sono in grado di comportarsi in modo ampiamente indipendente sul mercato rispetto agli altri partecipanti (concorrenti, fornitori o compratori).[^4-1]
 
+<sup>2bis</sup> Per impresa che ha una posizione dominante relativa si intende un’impresa da cui, per la domanda o l’offerta di un bene o un servizio, altre imprese dipendono a tal punto da non avere possibilità sufficienti e ragionevolmente esigibili di rivolgersi a imprese terze.[^4-2]
+
 <sup>3</sup>
 
 Per concentrazioni di imprese si intendono:
@@ -85,6 +87,7 @@ Per concentrazioni di imprese si intendono:
 - b. ogni operazione mediante la quale una o più imprese assumono, in particolare con l’acquisto di una partecipazione al capitale o con la conclusione di un contratto, il controllo diretto o indiretto di una o più imprese fino allora indipendenti o di una parte di esse.
 
 [^4-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° apr. 2004 ([RU 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [FF 2002 1835](https://fedlex.data.admin.ch/eli/fga/2002/265)[4927](https://fedlex.data.admin.ch/eli/fga/2002/848)).
+[^4-2]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [FF 2019 4059](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
 
 ## Capitolo 2: Disposizioni di diritto materiale
 
@@ -137,9 +140,9 @@ Nelle ordinanze o nelle comunicazioni possono essere descritte le esigenze in vi
 
 #### Art. 7
 
-**Pratiche illecite di imprese che dominano il mercato**
+**Pratiche illecite di imprese che dominano il mercato o che hanno una posizione dominante relativa[^7-1]**
 
-<sup>1</sup> Le pratiche di imprese che dominano il mercato sono considerate illecite se, abusando della loro posizione sul mercato, tali imprese ostacolano l’accesso o l’esercizio della concorrenza delle altre imprese o svantaggiano i partner commerciali.
+<sup>1</sup> Le pratiche di imprese che dominano il mercato o che hanno una posizione dominante relativa sono considerate illecite se, abusando della loro posizione sul mercato, tali imprese ostacolano l’accesso o l’esercizio della concorrenza delle altre imprese o svantaggiano i partner commerciali.[^7-2]
 
 <sup>2</sup>
 
@@ -150,7 +153,12 @@ Costituiscono in particolare pratiche del genere:
 - c. l’imposizione di prezzi inadeguati o di altre condizioni commerciali inadeguate;
 - d. la vendita sotto prezzo o ad altre condizioni commerciali diretta contro determinati concorrenti;
 - e. la limitazione della produzione, dello smercio o dello sviluppo tecnico;
-- f. la subordinazione della conclusione di contratti all’assunzione o alla fornitura di ulteriori prestazioni da parte del partner.
+- f. la subordinazione della conclusione di contratti all’assunzione o alla fornitura di ulteriori prestazioni da parte del partner;
+- g.[^7-3] la limitazione della possibilità per i richiedenti di approvvigionarsi all’estero, ai prezzi e alle condizioni usuali del settore economico ivi praticati, di beni e servizi offerti in Svizzera e all’estero.
+
+[^7-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [FF 2019 4059](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
+[^7-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [FF 2019 4059](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
+[^7-3]: Introdotta dal n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [FF 2019 4059](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
 
 #### Art. 8
 
@@ -637,7 +645,7 @@ Possono annunciare la loro partecipazione all’inchiesta su una limitazione del
 
 **Sanzione in caso di limitazioni illecite della concorrenza**[^49a-1]
 
-<sup>1</sup> All’impresa che partecipa a un accordo illecito secondo l’articolo 5 capoversi 3 e 4 o attua una pratica illecita secondo l’articolo 7 è addossato un importo sino al 10 per cento della cifra d’affari realizzata in Svizzera negli ultimi tre esercizi. L’articolo 9 capoverso 3 è applicabile per analogia. L’importo è calcolato in funzione della durata e della gravità delle pratiche illecite. Nella determinazione dell’importo è tenuto adeguatamente conto del presunto guadagno che l’impresa ha conseguito con le pratiche illecite.
+<sup>1</sup> All’impresa che partecipa a un accordo illecito secondo l’articolo 5 capoversi 3 e 4 o domina il mercato e attua una pratica illecita secondo l’articolo 7 è addossato un importo sino al 10 per cento della cifra d’affari realizzata in Svizzera negli ultimi tre esercizi.[^49a-2] L’articolo 9 capoverso 3 è applicabile per analogia. L’importo è calcolato in funzione della durata e della gravità delle pratiche illecite. Nella determinazione dell’importo è tenuto adeguatamente conto del presunto guadagno che l’impresa ha conseguito con le pratiche illecite.
 
 <sup>2</sup> Se l’impresa collabora a rilevare e a eliminare la limitazione della concorrenza, si può rinunciare in tutto o in parte alla sanzione.
 
@@ -650,6 +658,7 @@ Non vi è sanzione se:
 - c. il Consiglio federale ha autorizzato una limitazione della concorrenza in virtù dell’articolo 8.
 
 [^49a-1]: Introdotto dal n. I della LF del 20 giu. 2003, in vigore dal 1° apr. 2004 ([RU 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [FF 2002 1835](https://fedlex.data.admin.ch/eli/fga/2002/265)[4927](https://fedlex.data.admin.ch/eli/fga/2002/848)). Vedi anche la disp. fin. di detta mod. alla fine del presente testo.
+[^49a-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [FF 2019 4059](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
 
 #### Art. 50
 

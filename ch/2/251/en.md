@@ -4,11 +4,11 @@ title: "Federal Act of 6 October 1995 on Cartels and other Restraints of Competi
 short: CartA
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/546_546_546"
 language: en
-version: 2014-12-01
+version: 2022-01-01
 adopted: 1995-10-06
 in_force: 1996-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/546_546_546/20141201/en/xml/fedlex-data-admin-ch-eli-cc-1996-546_546_546-20141201-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/20141201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/546_546_546/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1996-546_546_546-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Cartel Act, CartA)
 
-of 6 October 1995 (Status as of 1 December 2014)
+of 6 October 1995 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation
 
@@ -79,6 +79,8 @@ Statutory provisions that do not allow for competition in a market for certain g
 
 <sup>2</sup> Dominant undertakings are one or more undertakings in a specific market that are able, as suppliers or consumers, to behave to an appreciable extent independently of the other participants (competitors, suppliers or consumers) in the market.[^4-1]
 
+<sup>2bis</sup> An undertaking with relative market power is an undertaking on which other undertakings are dependent for the supply of or demand for goods or services in such a way that there are no adequate and reasonable opportunities for switching to other undertakings.[^4-2]
+
 <sup>3</sup>
 
 Concentration of undertakings are:
@@ -87,6 +89,7 @@ Concentration of undertakings are:
 - b. any transaction, in particular the acquisition of an equity interest or the conclusion of an agreement, by which one or more undertakings acquire direct or indirect control of one or more previously independent undertakings or parts thereof.
 
 [^4-1]: Amended by No I of the FA of 20 June 2003, in force since 1 April 2004 ([AS 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172)1390; [BBl 2002 2022](https://fedlex.data.admin.ch/eli/fga/2002/265)[5506](https://fedlex.data.admin.ch/eli/fga/2002/848)).
+[^4-2]: Inserted by No I of the FA of 19 March 2021, in force since 1 Jan. 2022 ([AS 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [BBl 2019 4877](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
 
 ## Chapter 2 Substantive Provisions
 
@@ -139,9 +142,9 @@ The conditions under which agreements affecting competition are as a general rul
 
 #### Art. 7
 
-**Unlawful practices by dominant undertakings**
+**Unlawful practices by dominant undertakings and undertakings with relative market power[^7-1]**
 
-<sup>1</sup> Dominant undertakings behave unlawfully if they, by abusing their position in the market, hinder other undertakings from starting or continuing to compete, or disadvantage trading partners.
+<sup>1</sup> Dominant undertakings and undertakings with relative market power behave unlawfully if, by abusing their position in the market, they hinder other undertakings from starting or continuing to compete, or disadvantage trading partners.[^7-2]
 
 <sup>2</sup>
 
@@ -152,7 +155,12 @@ The following behaviour is in particular considered unlawful:
 - c. any imposition of unfair prices or other unfair conditions of trade;
 - d. any under-cutting of prices or other conditions directed against a specific competitor;
 - e. any limitation of production, supply or technical development;
-- f. any conclusion of contracts on the condition that the other contracting party agrees to accept or deliver additional goods or services.
+- f. any conclusion of contracts on the condition that the other contracting party agrees to accept or deliver additional goods or services;
+- g.[^7-3] the restriction of the opportunity for buyers to purchase goods or services offered both in Switzerland and abroad at the market prices and conditions customary in the industry in the foreign country concerned.
+
+[^7-1]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2022 ([AS 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [BBl 2019 4877](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
+[^7-2]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2022 ([AS 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [BBl 2019 4877](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
+[^7-3]: Inserted by No I of the FA of 19 March 2021, in force since 1 Jan. 2022 ([AS 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [BBl 2019 4877](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
 
 #### Art. 8
 
@@ -552,7 +560,7 @@ Without the consent of the undertaking concerned, the competition authorities ma
 
 - a. the behaviour under investigation in the recipient state is also unlawful under Swiss law;
 - b. both competition authorities are investigating the same or related behaviour or transactions;
-- c. foreign competition authority uses the data only for the purpose of applying provisions of competition law or as evidence in relation to the subject matter of the investigation for which the competition authority requested the information;
+- c. foreign competition authority uses the data only for the purpose of applyingprovisions of competition law or as evidence in relation to the subject matter of the investigation for which the competition authority requested the information;
 - d. the data is not used in criminal or civil proceedings;
 - e. the foreign procedural law safeguards party rights and official secrecy; and
 - f. the confidential data is not disclosed to the foreign competition authority in the context of an amicable settlement (Art. 29) or when assisting in the discovery and elimination of the restraint of competition (Art. 49*a* para. 2).
@@ -641,7 +649,7 @@ The following may come forward in order to take part in an investigation concern
 
 **Sanction for unlawful restraints of competition**[^49a-1]
 
-<sup>1</sup> Any undertaking that participates in an unlawful agreement pursuant to Article 5 paragraphs 3 and 4 or that behaves unlawfully pursuant to Article 7 shall be charged up to 10 per cent of the turnover that it achieved in Switzerland in the preceding three financial years. Article 9 paragraph 3 applies by analogy. The amount is dependent on the duration and severity of the unlawful behaviour. Due account shall be taken of the likely profit that resulted from the unlawful behaviour.
+<sup>1</sup> Any undertaking that participates in an unlawful agreement pursuant to Article 5 paragraphs 3 and 4 or that is dominant and behaves unlawfully pursuant to Article 7 shall be charged up to 10 per cent of the turnover that it achieved in Switzerland in the preceding three financial years.[^49a-2] Article 9 paragraph 3 applies by analogy. The amount is dependent on the duration and severity of the unlawful behaviour. Due account shall be taken of the likely profit that resulted from the unlawful behaviour.
 
 <sup>2</sup> If the undertaking assists in the discovery and elimination of the restraint of competition, a charge may be waived in whole or in part.
 
@@ -654,6 +662,7 @@ The charge is waived if:
 - c. the Federal Council has authorised a restraint of competition under Article 8.
 
 [^49a-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 April 2004 ([AS 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172)1390; [BBl 2002 2022](https://fedlex.data.admin.ch/eli/fga/2002/265)[5506](https://fedlex.data.admin.ch/eli/fga/2002/848)). See also the Final Provisions at the end of this Act.
+[^49a-2]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2022 ([AS 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [BBl 2019 4877](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
 
 #### Art. 50
 
@@ -823,6 +832,6 @@ Annex
 
 ## Amendment of Federal Acts
 
-...[^annexu1-lvlu1-1]
+....[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: The amendments may be consulted under [AS 1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546).

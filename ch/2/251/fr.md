@@ -4,11 +4,11 @@ title: "Loi fédérale du 6 octobre 1995 sur les cartels et autres restrictions 
 short: LCart
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/546_546_546"
 language: fr
-version: 2014-12-01
+version: 2022-01-01
 adopted: 1995-10-06
 in_force: 1996-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/546_546_546/20141201/fr/xml/fedlex-data-admin-ch-eli-cc-1996-546_546_546-20141201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/20141201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/546_546_546/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-546_546_546-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/20141201/fr"
 
 (Loi sur les cartels, LCart)
 
-du 6 octobre 1995 (Etat le 1<sup>er</sup> décembre 2014)
+du 6 octobre 1995 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -77,6 +77,8 @@ Les prescriptions qui, sur un marché, excluent de la concurrence certains biens
 
 <sup>2</sup> Par entreprises dominant le marché, on entend une ou plusieurs entreprises qui sont à même, en matière d’offre ou de demande, de se comporter de manière essentiellement indépendante par rapport aux autres participants au marché (concurrents, fournisseurs ou acheteurs).[^4-1]
 
+<sup>2bis</sup> Par entreprise ayant un pouvoir de marché relatif, on entend une entreprise dont d’autres entreprises sont dépendantes en matière d’offre ou de demande d’un bien ou d’un service, faute de possibilité suffisante et raisonnable de se tourner vers d’autres entreprises.[^4-2]
+
 <sup>3</sup>
 
 Par concentration d’entreprises, on entend:
@@ -85,6 +87,7 @@ Par concentration d’entreprises, on entend:
 - b. toute opération par laquelle une ou plusieurs entreprises acquièrent, notamment par prise de participation au capital ou conclusion d’un contrat, le contrôle direct ou indirect d’une ou de plusieurs entreprises jusque-là indépendantes ou d’une partie de celles-ci.
 
 [^4-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [FF 2002 1911](https://fedlex.data.admin.ch/eli/fga/2002/265)[5128](https://fedlex.data.admin.ch/eli/fga/2002/848)).
+[^4-2]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [FF 2019 4665](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
 
 ## Chapitre 2 Dispositions de droit matériel
 
@@ -100,7 +103,7 @@ Par concentration d’entreprises, on entend:
 
 Un accord est réputé justifié par des motifs d’efficacité économique:
 
-- a. lorsqu’il est nécessaire pour réduire les coûts de production ou de distribution, pour améliorer des produits ou des procédés de fabrication, pour promouvoir la recherche ou la diffusion de connaissances techniques ou professionnelles, ou pour exploiter plus rationnellement des ressources; et
+- a. lorsqu’il est nécessaire pour réduire les coûts de production ou de distribution, pour améliorer des produits ou des procédés de fabrication, pour promouvoir la recherche ou la diffusion de connaissances techniques ou professionnelles, ou pour exploiter plus rationnellement des ressources, et
 - b. lorsque cet accord ne permettra en aucune façon aux entreprises concernées de supprimer une concurrence efficace.
 
 <sup>3</sup>
@@ -121,7 +124,7 @@ Sont présumés entraîner la suppression d’une concurrence efficace dans la m
 
 <sup>1</sup>
 
-Les conditions auxquelles des accords en matière de concurrence sont en règle générale réputés justifiés par des motifs d’efficacité économique peuvent être fixées par voie d’ordonnances ou de communications. A cet égard, seront notamment pris en considération:
+Les conditions auxquelles des accords en matière de concurrence sont en règle générale réputés justifiés par des motifs d’efficacité économique peuvent être fixées par voie d’ordonnances ou de communications. À cet égard, seront notamment pris en considération:
 
 - a. les accords de coopération en matière de recherche et de développement;
 - b. les accords de spécialisation et de rationalisation, y compris les accords y relatifs concernant l’utilisation de schémas de calcul;
@@ -137,9 +140,9 @@ Les conditions auxquelles des accords en matière de concurrence sont en règle 
 
 #### Art. 7
 
-**Pratiques illicites d’entreprises ayant une position dominante**
+**Pratiques illicites d’entreprises ayant une position dominante ou un pouvoir de marché relatif[^7-1]**
 
-<sup>1</sup> Les pratiques d’entreprises ayant une position dominante sont réputées illicites lorsque celles-ci abusent de leur position et entravent ainsi l’accès d’autres entreprises à la concurrence ou son exercice, ou désavantagent les partenaires commerciaux.
+<sup>1</sup> Les pratiques d’entreprises ayant une position dominante ou un pouvoir de marché relatif sont réputées illicites lorsque celles-ci abusent de leur position et entravent ainsi l’accès d’autres entreprises à la concurrence ou son exercice, ou désavantagent les partenaires commerciaux.[^7-2]
 
 <sup>2</sup>
 
@@ -150,7 +153,12 @@ Sont en particulier réputés illicites:
 - c. le fait d’imposer des prix ou d’autres conditions commerciales inéquitables;
 - d. la sous-enchère en matière de prix ou d’autres conditions commerciales, dirigée contre un concurrent déterminé;
 - e. la limitation de la production, des débouchés ou du développement technique;
-- f. le fait de subordonner la conclusion de contrats à la condition que les partenaires acceptent ou fournissent des prestations supplémentaires.
+- f. le fait de subordonner la conclusion de contrats à la condition que les partenaires acceptent ou fournissent des prestations supplémentaires;
+- g.[^7-3] la limitation de la possibilité des acheteurs de se procurer à l’étranger, aux prix du marché et aux conditions usuelles de la branche, des biens ou des services proposés en Suisse et à l’étranger.
+
+[^7-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [FF 2019 4665](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
+[^7-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [FF 2019 4665](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
+[^7-3]: Introduite par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [FF 2019 4665](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
 
 #### Art. 8
 
@@ -206,7 +214,7 @@ La Commission de la concurrence peut interdire la concentration ou l’autoriser
 <sup>4</sup> En évaluant les effets d’une concentration d’entreprises sur l’efficacité de la concurrence, la Commission de la concurrence tient aussi compte de l’évolution du marché ainsi que de la position des entreprises dans la concurrence internationale.
 
 [^10-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^10-2]: Nouvelle teneur selon le ch. 8 de l’annexe à la LF du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^10-2]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 11
 
@@ -247,7 +255,7 @@ Afin d’assurer la suppression ou la cessation de l’entrave à la concurrence
 
 [^14-1]
 
-[^14-1]: Abrogé par le ch. II 16 de l’annexe 1 au CPC du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^14-1]: Abrogé par l’annexe 1 ch. II 16 du CPC du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 #### Art. 15
 
@@ -261,7 +269,7 @@ Afin d’assurer la suppression ou la cessation de l’entrave à la concurrence
 
 [^1617-1]
 
-[^1617-1]: Abrogés par le ch. II 16 de l’annexe 1 au CPC du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^1617-1]: Abrogés par l’annexe 1 ch. II 16 du CPC du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ## Chapitre 4 Dispositions de procédure administrative
 
@@ -408,8 +416,8 @@ Afin d’assurer la suppression ou la cessation de l’entrave à la concurrence
 
 <sup>4</sup> Le Conseil fédéral peut, à la demande des intéressés, prolonger l’autorisation exceptionnelle lorsque les conditions de son octroi demeurent remplies.
 
-[^31-1]: Nouvelle teneur de la phrase selon le ch. 27 de l’annexe à la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^31-2]: Nouvelle teneur selon le ch. 27 de l’annexe à la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^31-1]: Nouvelle teneur de la phrase selon l’annexe ch. 27 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^31-2]: Nouvelle teneur selon l’annexe ch. 27 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Section 3 Examen des concentrations d’entreprises
 
@@ -417,7 +425,7 @@ Afin d’assurer la suppression ou la cessation de l’entrave à la concurrence
 
 **Ouverture de la procédure d’examen**
 
-<sup>1</sup> A la réception de la notification d’une concentration d’entreprises (art. 9), la commission décide s’il y a lieu de procéder à un examen de l’opération de concentration. La commission communique, dans le délai d’un mois à compter de la notification de l’opération de concentration, l’ouverture de l’examen de la concentration aux entreprises participantes. Faute de communication dans ce délai, la concentration peut être réalisée sans réserve.
+<sup>1</sup> À la réception de la notification d’une concentration d’entreprises (art. 9), la commission décide s’il y a lieu de procéder à un examen de l’opération de concentration. La commission communique, dans le délai d’un mois à compter de la notification de l’opération de concentration, l’ouverture de l’examen de la concentration aux entreprises participantes. Faute de communication dans ce délai, la concentration peut être réalisée sans réserve.
 
 <sup>2</sup> Les entreprises participantes s’abstiennent de réaliser la concentration pendant le délai d’un mois suivant sa notification, à moins que, à leur requête, la commission ne les ait autorisées à le faire pour des motifs importants.
 
@@ -453,8 +461,8 @@ Lorsqu’une concentration d’entreprises a été réalisée sans la notificati
 
 <sup>3</sup> Le Conseil fédéral prend sa décision si possible dans les quatre mois suivant la réception de la demande.
 
-[^36-1]: Nouvelle teneur de la phrase selon le ch. 27 de l’annexe à la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^36-2]: Nouvelle teneur selon le ch. 27 de l’annexe à la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^36-1]: Nouvelle teneur de la phrase selon l’annexe ch. 27 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^36-2]: Nouvelle teneur selon l’annexe ch. 27 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 37
 
@@ -546,11 +554,11 @@ Les services de la Confédération et des cantons sont tenus de coopérer aux re
 
 En l’absence du consentement des entreprises concernées, les autorités en matière de concurrence peuvent communiquer à une autorité étrangère en matière de concurrence des données confidentielles, notamment des secrets d’affaires, sur la base d’un accord international et uniquement lorsque:
 
-- a. les pratiques faisant l’objet d’une enquête dans l’Etat destinataire sont également illicites selon le droit suisse;
+- a. les pratiques faisant l’objet d’une enquête dans l’État destinataire sont également illicites selon le droit suisse;
 - b. les deux autorités en matière de concurrence enquêtent sur des pratiques ou actes juridiques identiques ou connexes;
 - c. les données sont utilisées par l’autorité étrangère uniquement en vue de l’application des dispositions du droit des cartels et à titre de moyens de preuve en ce qui concerne l’objet de l’enquête auquel se rapporte sa requête;
 - d. les données ne sont pas utilisées dans le cadre d’une procédure pénale ou civile;
-- e. les droits des parties et le secret de fonction sont garantis dans le droit de procédure étranger; et
+- e. les droits des parties et le secret de fonction sont garantis dans le droit de procédure étranger, et
 - f. les données confidentielles ne sont pas communiquées à l’autorité étrangère dans le cadre d’un accord amiable (art. 29) ou de la coopération à la mise au jour et à la suppression d'une restriction à la concurrence (art. 49*a*, al. 2).
 
 <sup>3</sup> Avant de transmettre les données à l'autorité étrangère, les autorités en matière de concurrence informent les entreprises concernées et les invitent à prendre position.
@@ -581,7 +589,7 @@ Peuvent s’annoncer afin de participer à l’enquête concernant une restricti
 
 [^44-1]
 
-[^44-1]: Abrogé par le ch. 27 de l’annexe à la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^44-1]: Abrogé par l’annexe ch. 27 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Section 5 Autres tâches et compétences des autorités en matière de concurrence
 
@@ -637,7 +645,7 @@ Peuvent s’annoncer afin de participer à l’enquête concernant une restricti
 
 **Sanction en cas de restrictions illicites à la concurrence**[^49a-1]
 
-<sup>1</sup> L’entreprise qui participe à un accord illicite aux termes de l’art. 5, al. 3 et 4, ou qui se livre à des pratiques illicites aux termes de l’art. 7, est tenue au paiement d’un montant pouvant aller jusqu’à 10 % du chiffre d’affaires réalisé en Suisse au cours des trois derniers exercices. L’art. 9, al. 3, est applicable par analogie. Le montant est calculé en fonction de la durée et de la gravité des pratiques illicites. Le profit présumé résultant des pratiques illicites de l’entreprise est dûment pris en compte pour le calcul de ce montant.
+<sup>1</sup> L’entreprise qui participe à un accord illicite aux termes de l’art. 5, al. 3 et 4, ou qui, ayant une position dominante, se livre à des pratiques illicites aux termes de l’art. 7, est tenue au paiement d’un montant pouvant aller jusqu’à 10 % du chiffre d’affaires réalisé en Suisse au cours des trois derniers exercices.[^49a-2] L’art. 9, al. 3, est applicable par analogie. Le montant est calculé en fonction de la durée et de la gravité des pratiques illicites. Le profit présumé résultant des pratiques illicites de l’entreprise est dûment pris en compte pour le calcul de ce montant.
 
 <sup>2</sup> Si l’entreprise coopère à la mise au jour et à la suppression de la restriction à la concurrence, il est possible de renoncer, en tout ou en partie, à une sanction.
 
@@ -645,12 +653,13 @@ Peuvent s’annoncer afin de participer à l’enquête concernant une restricti
 
 Aucune sanction n’est prise si:
 
-- a. l’entreprise annonce la restriction à la concurrence avant que celle-ci ne déploie ses effets; toutefois une sanction peut tout de même être prise si, dans un délai de cinq mois à compter de l’annonce, l’ouverture d’une procédure au sens des art. 26 à 30 est communiquée à l’entreprise et que celle-ci maintient la restriction[^49a-2];
+- a. l’entreprise annonce la restriction à la concurrence avant que celle-ci ne déploie ses effets; toutefois une sanction peut tout de même être prise si, dans un délai de cinq mois à compter de l’annonce, l’ouverture d’une procédure au sens des art. 26 à 30 est communiquée à l’entreprise et que celle-ci maintient la restriction[^49a-3];
 - b. la restriction à la concurrence a cessé de déployer ses effets plus de cinq ans avant l’ouverture de l’enquête;
 - c. le Conseil fédéral a autorisé une restriction à la concurrence en vertu de l’art. 8.
 
 [^49a-1]: Introduit par le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [FF 2002 1911](https://fedlex.data.admin.ch/eli/fga/2002/265)[5128](https://fedlex.data.admin.ch/eli/fga/2002/848)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
-[^49a-2]: Rectifié par la CdR de l’Ass. féd. (art. 58 al. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^49a-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [FF 2019 4665](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
+[^49a-3]: Rectifié par la CdR de l’Ass. féd. (art. 58 al. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
 #### Art. 50
 
@@ -682,10 +691,10 @@ L’entreprise qui n’aura pas exécuté son obligation de renseigner ou de pro
 
 <sup>2</sup> …[^53-2]
 
-[^53-1]: Nouvelle teneur selon le ch. 27 de l’annexe à la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^53-2]: Abrogé par le ch. 27 de l’annexe à la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^53-1]: Nouvelle teneur selon l’annexe ch. 27 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^53-2]: Abrogé par l’annexe ch. 27 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### Section 7**** Emoluments
+### Section 7**** Émoluments
 
 [^chap4-sec7-1]
 
@@ -741,7 +750,7 @@ Quiconque, intentionnellement, n’aura pas exécuté, ou ne l’aura fait qu’
 
 #### Art. 58
 
-**Etablissement des faits**
+**Établissement des faits**
 
 <sup>1</sup> Lorsqu’une partie à un accord international fait valoir qu’une restriction à la concurrence est incompatible avec l’accord, le DEFR peut charger le secrétariat de procéder à une enquête préalable.
 
@@ -755,7 +764,7 @@ Quiconque, intentionnellement, n’aura pas exécuté, ou ne l’aura fait qu’
 
 <sup>2</sup> Si un accord amiable ne peut être réalisé à temps et qu’une partie à l’accord international menace de prendre des mesures à l’encontre de la Suisse, le DEFR peut, d’entente avec le Département fédéral des affaires étrangères, ordonner les mesures nécessaires à la suppression de la restriction à la concurrence.
 
-## Chapitre 6*a***** Evaluation
+## Chapitre 6*a***** Évaluation
 
 [^chap6a-1]
 
