@@ -4,11 +4,11 @@ title: Verordnung vom 8. Dezember 2006 über die Koordination der Politik des Bu
 short: VKP-KMU
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/18"
 language: de
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2006-12-08
 in_force: 2007-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/18/20130101/de/xml/fedlex-data-admin-ch-eli-cc-2007-18-20130101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/18/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/18/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-18-20220101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/18/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/18/20130101/de"
 
 (VKP-KMU)
 
-vom 8. Dezember 2006 (Stand am 1. Januar 2013)
+vom 8. Dezember 2006 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -73,13 +73,14 @@ Das KP-KMU setzt sich aus dem Direktor, der Direktorin oder einem Mitglied der G
 - c. Bundesamt für Justiz (BJ);
 - d. Eidgenössisches Institut für Geistiges Eigentum (IGE);
 - e. Eidgenössische Steuerverwaltung (ESTV);
-- f. Eidgenössische Zollverwaltung (EZV);
+- f. Bundesamt für Zoll und Grenzsicherheit (BAZG)[^5-1];
 - g. SECO;
 - h. Bundesamt für Landwirtschaft (BLW);
-- i. Staatssekretariat für Bildung, Forschung und Innovation (SBFI)[^5-1];
+- i. Staatssekretariat für Bildung, Forschung und Innovation (SBFI)[^5-2];
 - j. Bundesamt für Umwelt (BAFU).
 
-[^5-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2013 angepasst.
+[^5-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst.
 
 #### Art. 6
 

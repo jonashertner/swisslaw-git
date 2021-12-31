@@ -4,11 +4,11 @@ title: Ordonnance du 8 décembre 2006 sur la coordination de la politique de la 
 short: OCPPME
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/18"
 language: fr
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2006-12-08
 in_force: 2007-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/18/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-18-20130101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/18/20130101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/18/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-18-20220101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/18/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/18/20130101/fr"
 
 (OCPPME)
 
-du 8 décembre 2006 (Etat le 1<sup>er</sup> janvier 2013)
+du 8 décembre 2006 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -35,14 +35,14 @@ arrête:
 
 La présente ordonnance vise:
 
-- a. à améliorer la coordination de la politique de la Confédération en faveur des petites et moyennes entreprises (PME); et
+- a. à améliorer la coordination de la politique de la Confédération en faveur des petites et moyennes entreprises (PME), et
 - b. à faciliter l’adoption et la mise en œuvre de mesures destinées à réduire la charge administrative des entreprises.
 
 #### Art. 2
 
 **Information**
 
-Les départements, les offices et les services de l’administration fédérale (unités administratives) informent les services compétents du Secrétariat d’Etat à l’économie (SECO) lorsque des projets ou des tâches de leur ressort sont susceptibles d’avoir un impact important sur les PME ou sur la charge administrative des entreprises en général.
+Les départements, les offices et les services de l’administration fédérale (unités administratives) informent les services compétents du Secrétariat d’État à l’économie (SECO) lorsque des projets ou des tâches de leur ressort sont susceptibles d’avoir un impact important sur les PME ou sur la charge administrative des entreprises en général.
 
 ## Section 2 Organe de coordination de la politique de la Confédération en faveur des PME
 
@@ -73,13 +73,14 @@ L’OCPME se compose du directeur ou d’un membre de la direction:
 - c. de l’Office fédéral de la justice (OFJ);
 - d. de l’Institut Fédéral de la Propriété Intellectuelle (IPI);
 - e. de l’Administration fédérale des contributions (AFC);
-- f. de l’Administration fédérale des douanes (AFD);
+- f. de l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^5-1];
 - g. du SECO;
 - h. de l’Office fédéral de l’agriculture (OFAG);
-- i. du Secrétariat d’Etat à la formation, à la recherche et à l’innovation (SEFRI)[^5-1]; et
+- i. du Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI)[^5-2], et
 - j. de l’Office fédéral de l’environnement (OFEV).
 
-[^5-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+[^5-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
 #### Art. 6
 
@@ -162,7 +163,7 @@ Le Forum PME se compose:
 
 <sup>2</sup> Ses membres se tiennent à la disposition des commissions parlementaires pour leur présenter les résultats de leurs travaux.
 
-## Section 4 Evaluation et rapport
+## Section 4 Évaluation et rapport
 
 #### Art. 14
 

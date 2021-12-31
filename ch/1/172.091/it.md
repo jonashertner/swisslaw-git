@@ -4,11 +4,11 @@ title: "Ordinanza dell' 8 dicembre 2006 sul coordinamento della politica della C
 short: OCPPMI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/18"
 language: it
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2006-12-08
 in_force: 2007-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/18/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2007-18-20130101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/18/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/18/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-18-20220101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/18/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/18/20130101/it"
 
 (OCPPMI)
 
-dell’8 dicembre 2006 (Stato 1° gennaio 2013)
+dell’8 dicembre 2006 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -73,13 +73,14 @@ L’OCPMI è composto del direttore o di un membro della direzione:
 - c. dell’Ufficio federale di giustizia (UFG);
 - d. dell’Istituto Federale della Proprietà Intellettuale (IPI);
 - e. dell’Amministrazione federale delle contribuzioni (AFC);
-- f. dell’Amministrazione federale delle dogane (AFD);
+- f. dell’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^5-1];
 - g. della SECO;
 - h. dell’Ufficio federale dell’agricoltura (UFAG);
-- i. della Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI)[^5-1]; e
+- i. della Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI)[^5-2]; e
 - j. dell’Ufficio federale dell’ambiente (UFAM).
 
-[^5-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2013.
+[^5-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
 
 #### Art. 6
 
@@ -174,7 +175,7 @@ Il Forum PMI si compone di:
 
 #### Art. 15
 
-…[^15-1]
+...[^15-1]
 
 [^15-1]: La mod. può essere consultata alla [RU 2007 73](https://fedlex.data.admin.ch/eli/oc/2007/18).
 
