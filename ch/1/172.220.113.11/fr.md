@@ -3,20 +3,20 @@ sr: "172.220.113.11"
 title: "Ordonnance du 16 septembre 2014 sur le personnel scientifique de l'École polytechnique fédérale de Zurich"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/656"
 language: fr
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2014-09-16
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/656/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-656-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/656/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/656/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-656-20220101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/656/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance sur le personnel scientifique de l’Ecole polytechnique fédérale de Zurich
+# Ordonnance sur le personnel scientifique de l’École polytechnique fédérale de Zurich
 
-du 16 septembre 2014 (Etat le 1<sup>er</sup> janvier 2018)
+du 16 septembre 2014 (État le 1<sup>er</sup> janvier 2022)
 
-La Direction de l’Ecole polytechnique fédérale de Zurich,
+La Direction de l’École polytechnique fédérale de Zurich,
 
 vu l’art. 3, al. 1, de l’ordonnance du 15 mars 2001 sur le personnel du domaine des EPF (OPers-EPF)[^ingress-1],
 
@@ -32,7 +32,7 @@ arrête:
 
 <sup>1</sup>
 
-La présente ordonnance régit les rapports de service du personnel scientifique de l’Ecole polytechnique fédérale de Zurich (EPF de Zurich). Celui-ci comprend:
+La présente ordonnance régit les rapports de service du personnel scientifique de l’École polytechnique fédérale de Zurich (EPF de Zurich). Celui-ci comprend:
 
 - a. les assistants et premiers assistants;
 - b. les collaborateurs scientifiques engagés pour une durée déterminée;
@@ -103,7 +103,7 @@ Sont engagés en qualité d’assistants:
 
 <sup>4</sup> Sont engagés en qualité de premiers assistants II les titulaires d’un diplôme universitaire qui possèdent un doctorat et au minimum cinq ans d’expérience professionnelle.
 
-[^6-1]: [RS 414.133.1](https://fedlex.data.admin.ch/eli/cc/2021/805)
+[^6-1]: [[RO 2008 6437](https://fedlex.data.admin.ch/eli/oc/2008/872); [2013 3369](https://fedlex.data.admin.ch/eli/oc/2013/640). [RO 2021 805](https://fedlex.data.admin.ch/eli/oc/2021/805)art. 58]. Voir actuellement l’O du 23 nov. 2021 sur le doctorat de l’EPF de Zurich ([RS 414.133.1](https://fedlex.data.admin.ch/eli/cc/2021/805)).
 
 #### Art. 7
 
@@ -270,7 +270,7 @@ Les art. 26 à 28 OPers-EPF s’appliquent à la détermination et à la progres
 
 **Abrogation d’un autre acte**
 
-L’ordonnance du 12 décembre 2005 sur le personnel scientifique de l’Ecole polytechnique fédérale de Zurich[^20-1] est abrogée.
+L’ordonnance du 12 décembre 2005 sur le personnel scientifique de l’École polytechnique fédérale de Zurich[^20-1] est abrogée.
 
 [^20-1]: [[RO 2006 3375](https://fedlex.data.admin.ch/eli/oc/2006/535), [2008 4297](https://fedlex.data.admin.ch/eli/oc/2008/607), [2014 161](https://fedlex.data.admin.ch/eli/oc/2014/22)]
 
@@ -289,7 +289,7 @@ Annexe 1
 ### 1 Engagement à durée déterminée
 
 <table>
-<tr><td>Fonction académique</td><td>Fonction dans un projet</td><td>Code</td><td>Echelon de fonction</td></tr>
+<tr><td>Fonction académique</td><td>Fonction dans un projet</td><td>Code</td><td>Échelon de fonction</td></tr>
 <tr><td>Candidat au doctorat</td><td>Assistant scientifique I</td><td>1011</td><td>06</td></tr>
 <tr><td>Postdoctorant</td><td>Assistant scientifique II</td><td>1022</td><td>08</td></tr>
 <tr><td>Premier assistant I</td><td>Collaborateur scientifique I</td><td>1023</td><td>09</td></tr>
@@ -299,7 +299,7 @@ Annexe 1
 ### 2 Engagement à durée indéterminée
 
 <table>
-<tr><td>Fonction</td><td>Code</td><td>Echelon de fonction</td></tr>
+<tr><td>Fonction</td><td>Code</td><td>Échelon de fonction</td></tr>
 <tr><td>Collaborateur scientifique supérieur I</td><td>1031</td><td>10</td></tr>
 <tr><td>Collaborateur scientifique supérieur II</td><td>1032</td><td>11</td></tr>
 <tr><td>Senior scientist I</td><td>1033</td><td>12</td></tr>
@@ -333,19 +333,19 @@ Annexe 2
 <tr><td></td><td>5</td><td>80 320</td></tr>
 </table>
 
-Annexe 3*[^t-1]*
+Annexe 3[^t-1]
 
 (art. 8, al. 1, let. b, et 13, let. a)
 
 ## Salaires des assistants scientifiques I et II et des postdoctorants
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPF de Zurich du 14 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2018 1273](https://fedlex.data.admin.ch/eli/oc/2018/210)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPF de Zurich du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 348](https://fedlex.data.admin.ch/eli/oc/2022/348)).
 
-**Salaires**
+### Salaires
 
 <table>
 <tr><td></td><td>1<sup>re</sup> année (en francs)</td><td>2<sup>e</sup> année (en francs)</td><td>3<sup>e</sup> année (en francs)</td></tr>
 <tr><td>Assistant scientifique I</td><td>70 300</td><td>75 300</td><td>80 320</td></tr>
-<tr><td>Assistant scientifique II</td><td>86 800</td><td>91 150</td><td>95 600</td></tr>
-<tr><td>Postdoctorant</td><td>86 800</td><td>91 150</td><td>95 600</td></tr>
+<tr><td>Assistant scientifique II</td><td>89 050</td><td>93 520</td><td>98 100</td></tr>
+<tr><td>Postdoctorant</td><td>89 050</td><td>93 520</td><td>98 100</td></tr>
 </table>

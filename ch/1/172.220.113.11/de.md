@@ -3,18 +3,18 @@ sr: "172.220.113.11"
 title: Verordnung vom 16. September 2014 über das wissenschaftliche Personal der Eidgenössischen Technischen Hochschule Zürich
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/656"
 language: de
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2014-09-16
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/656/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2014-656-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/656/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/656/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2014-656-20220101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/656/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über das wissenschaftliche Personal der Eidgenössischen Technischen Hochschule Zürich
 
-vom 16. September 2014 (Stand am 1. Januar 2018)
+vom 16. September 2014 (Stand am 1. Januar 2022)
 
 Die Schulleitung der Eidgenössischen Technischen Hochschule Zürich,
 
@@ -103,7 +103,7 @@ Als Assistentinnen und Assistenten werden angestellt:
 
 <sup>4</sup> Als Oberassistentinnen und Oberassistenten II werden Hochschulabsolventinnen und -absolventen mit Doktorat und mindestens fünf Jahren Berufserfahrung angestellt.
 
-[^6-1]: [SR 414.133.1](https://fedlex.data.admin.ch/eli/cc/2021/805)
+[^6-1]: [[AS 2008 6437](https://fedlex.data.admin.ch/eli/oc/2008/872); [2013 3369](https://fedlex.data.admin.ch/eli/oc/2013/640). [AS 2021 805](https://fedlex.data.admin.ch/eli/oc/2021/805)Art. 58]. Siehe heute: die V vom 23. Nov. 2021 ([SR 414.133.1](https://fedlex.data.admin.ch/eli/cc/2021/805)).
 
 #### Art. 7
 
@@ -272,7 +272,7 @@ Für die Lohnfestsetzung und die Lohnentwicklung sind die Artikel 26–28 PVO-ET
 
 Die Verordnung vom 12. Dezember 2005[^20-1] über das wissenschaftliche Personal der Eidgenössischen Technischen Hochschule Zürich wird aufgehoben.
 
-[^20-1]: [[AS 2006 3375](https://fedlex.data.admin.ch/eli/oc/2006/535), [2008 4297](https://fedlex.data.admin.ch/eli/oc/2008/607), [2014 161](https://fedlex.data.admin.ch/eli/oc/2014/22)]
+[^20-1]: [[AS 2006 3375](https://fedlex.data.admin.ch/eli/oc/2006/535); [2008 4297](https://fedlex.data.admin.ch/eli/oc/2008/607); [2014 161](https://fedlex.data.admin.ch/eli/oc/2014/22)]
 
 #### Art. 21
 
@@ -333,19 +333,19 @@ Anhang 2
 <tr><td></td><td>5</td><td>80 320</td></tr>
 </table>
 
-Anhang 3*[^t-1]*
+Anhang 3[^t-1]
 
 (Art. 8 Abs. 1 Bst. b und 13 Bst. a)
 
 ## Lohnansätze für wissenschaftliche Assistenz I und II und Postdoktorandinnen und Postdoktoranden
 
-[^t-1]: Fassung gemäss Ziff. I der V der Schulleitung ETHZ vom 14. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2018 1273](https://fedlex.data.admin.ch/eli/oc/2018/210)).
+[^t-1]: Fassung gemäss Ziff. I der V der Schulleitung ETHZ vom 3. Juni 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 348](https://fedlex.data.admin.ch/eli/oc/2022/348)).
 
 ### Lohnansätze
 
 <table>
 <tr><td></td><td>1. Jahr (Fr.)</td><td>2. Jahr (Fr.)</td><td>3. Jahr (Fr.)</td></tr>
 <tr><td>Wiss. Assistenz I</td><td>70 300</td><td>75 300</td><td>80 320</td></tr>
-<tr><td>Wiss. Assistenz II</td><td>86 800</td><td>91 150</td><td>95 600</td></tr>
-<tr><td>Postdoktorand/in</td><td>86 800</td><td>91 150</td><td>95 600</td></tr>
+<tr><td>Wiss. Assistenz II</td><td>89 050</td><td>93 520</td><td>98 100</td></tr>
+<tr><td>Postdoktorand/in</td><td>89 050</td><td>93 520</td><td>98 100</td></tr>
 </table>

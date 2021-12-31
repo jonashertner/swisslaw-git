@@ -3,18 +3,18 @@ sr: "172.220.113.11"
 title: Ordinanza del 16 settembre 2014 sul personale scientifico del Politecnico federale di Zurigo
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/656"
 language: it
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2014-09-16
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/656/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2014-656-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/656/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/656/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2014-656-20220101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/656/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul personale scientifico del Politecnico federale di Zurigo
 
-del 16 settembre 2014 (Stato 1° gennaio 2018)
+del 16 settembre 2014 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 La direzione del Politecnico federale di Zurigo,
 
@@ -103,7 +103,7 @@ Sono assunti come assistenti:
 
 <sup>4</sup> Sono assunti come assistenti in capo II i titolari di un dottorato con almeno cinque anni di esperienza professionale.
 
-[^6-1]: [RS 414.133.1](https://fedlex.data.admin.ch/eli/cc/2021/805)
+[^6-1]: [[RU 2008 6437](https://fedlex.data.admin.ch/eli/oc/2008/872); [2013 3369](https://fedlex.data.admin.ch/eli/oc/2013/640). [RU 2021 805](https://fedlex.data.admin.ch/eli/oc/2021/805)art. 58]. Vedi ora l’O del 23 nov. 2021 ([RS 414.133.1](https://fedlex.data.admin.ch/eli/cc/2021/805)**)**
 
 #### Art. 7
 
@@ -333,19 +333,19 @@ Allegato 2
 <tr><td></td><td>5</td><td>80 320</td></tr>
 </table>
 
-Allegato 3*[^t-1]*
+Allegato 3[^t-1]
 
 (art. 8 cpv. 1 lett. b e 13 lett. a)
 
 ## Aliquote salariali degli assistenti scientifici I e II e dei postdottorandi
 
-[^t-1]: Nuovo testo giusta il n. I dell’O della Direzione del Politecnico federale di Zurigo del 14 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2018 1273](https://fedlex.data.admin.ch/eli/oc/2018/210)).
+[^t-1]: Nuovo testo giusta il n. I dell’O della Direzione del PF di Zurigo del 3 giu. 2022, in vigore dal 1° gen. 2022 ([RU 2022 348](https://fedlex.data.admin.ch/eli/oc/2022/348)).
 
 ### Aliquote
 
 <table>
 <tr><td></td><td>1° anno (fr.)</td><td>2° anno (fr.)</td><td>3° anno (fr.)</td></tr>
 <tr><td>Assistente scientifico I</td><td>70 300</td><td>75 300</td><td>80 320</td></tr>
-<tr><td>Assistente scientifico II</td><td>86 800</td><td>91 150</td><td>95 600</td></tr>
-<tr><td>Postdottorando</td><td>86 800</td><td>91 150</td><td>95 600</td></tr>
+<tr><td>Assistente scientifico II</td><td>89 050</td><td>93 520</td><td>98 100</td></tr>
+<tr><td>Postdottorando</td><td>89 050</td><td>93 520</td><td>98'100</td></tr>
 </table>
