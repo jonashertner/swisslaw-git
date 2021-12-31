@@ -4,13 +4,13 @@ number: "220.3"
 title: Loi sur le Service du registre du commerce
 short: LSRC
 language: fr
-version: 2009-01-01
-valid_until: 2021-12-31
-version_adopted: 2008-10-09
+version: 2022-01-01
+valid_until: 2024-05-31
+version_adopted: 2021-10-06
 adopted: 2001-03-07
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/220.3"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6247/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7154/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Service du registre du commerce – L
 
 (LSRC)
 
-du 07.03.2001 (version entrée en vigueur le 01.01.2009)
+du 07.03.2001 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -49,7 +49,7 @@ Décrète:
 
 <sup>2</sup> La Direction est l'autorité cantonale de surveillance au sens de la législation fédérale.
 
-[^2-1]: Actuellement: Direction de l'économie et de l'emploi.
+[^2-1]: Actuellement: Direction de l'économie, de l'emploi et de la formation professionnelle.
 
 #### Art. 3
 
@@ -65,7 +65,7 @@ Décrète:
 
 <sup>1</sup> Le ou la préposé-e exerce toutes les attributions relevant de la tenue du registre du commerce qui, aux termes de la législation fédérale ou cantonale, ne sont pas du ressort d'une autre autorité.
 
-<sup>2</sup> Il ou elle inflige les amendes d'ordre conformément aux articles 943 CO et 2 ORC. Le recours à l'autorité de surveillance est réservé.
+<sup>2</sup> Il ou elle inflige les amendes conformément aux articles 943 CO et 2 ORC. Le recours à l'autorité de surveillance est réservé.
 
 #### Art. 5
 

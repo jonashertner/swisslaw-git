@@ -4,13 +4,13 @@ number: "220.3"
 title: Gesetz über das Handelsregisteramt
 short: HRAG
 language: de
-version: 2009-01-01
-valid_until: 2021-12-31
-version_adopted: 2008-10-09
+version: 2022-01-01
+valid_until: 2024-05-31
+version_adopted: 2021-10-06
 adopted: 2001-03-07
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/220.3"
-pdf: "https://bdlf.fr.ch/api/de/versions/6247/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7154/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Handelsregisteramt – G
 
 (HRAG)
 
-vom 07.03.2001 (Fassung in Kraft getreten am 01.01.2009)
+vom 07.03.2001 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -49,7 +49,7 @@ beschliesst:
 
 <sup>2</sup> Die Direktion ist Aufsichtsbehörde im Sinne der Bundesgesetzgebung.
 
-[^2-1]: Heute: Volkswirtschaftsdirektion.
+[^2-1]: Heute: Volkswirtschafts- und Berufsbildungsdirektion.
 
 #### Art. 3
 
@@ -65,7 +65,7 @@ beschliesst:
 
 <sup>1</sup> Die Registerführerin oder der Registerführer erfüllt alle Aufgaben, die mit der Führung des Handelsregisters zusammenhängen und die nicht durch die Bundes- oder die kantonale Gesetzgebung einer anderen Behörde übertragen werden.
 
-<sup>2</sup> Sie oder er spricht die Ordnungsbussen im Sinne der Artikel 943 OR und 2 HRegV aus. Die Beschwerde an die Aufsichtsbehörde bleibt vorbehalten.
+<sup>2</sup> Sie oder er spricht die Bussen im Sinne der Artikel 943 OR und 2 HRegV aus. Die Beschwerde an die Aufsichtsbehörde bleibt vorbehalten.
 
 #### Art. 5
 
