@@ -4,11 +4,11 @@ title: Ordinanza del 25 novembre 2015 sugli apparecchi e i sistemi di protezione
 short: OASAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/19"
 language: it
-version: 2017-02-14
+version: 2022-01-01
 adopted: 2015-11-25
 in_force: 2016-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/19/20170214/it/xml/fedlex-data-admin-ch-eli-cc-2016-19-20170214-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/19/20170214/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/19/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-19-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/19/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/19/20170214/it"
 
 (OASAE)
 
-del 25 novembre 2015 (Stato 14 febbraio 2017)
+del 25 novembre 2015 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -57,13 +57,27 @@ Nella presente ordinanza si intende per:
 
 - a. *messa a disposizione sul mercato*: la fornitura di un prodotto per la distribuzione, il consumo o l’uso sul mercato svizzero nel corso di un’attività commerciale, a titolo oneroso o gratuito;
 - b. *immissione sul mercato*: la prima messa a disposizione sul mercato svizzero di un prodotto;
-- c. *operatore economico:* il fabbricante, il rappresentante autorizzato, l’importatore e il distributore.
+- b<sup>bis</sup>.[^2-1] *fabbricante*: ogni persona fisica o giuridica che produce un prodotto, o lo fa progettare o produrre, e lo immette in commercio con il proprio nome o marchio;
+- b<sup>ter</sup>.[^2-2] *rappresentante autorizzato*: ogni persona fisica o giuridica domiciliata in Svizzera che ha ricevuto da un fabbricante un mandato scritto che la autorizza ad agire per suo conto in relazione a determinati compiti;
+- b<sup>quater</sup>.[^2-3] *importatore*: ogni persona fisica o giuridica domiciliata in Svizzera che immette in commercio un prodotto proveniente dall’estero;
+- b<sup>quinquies</sup>.[^2-4] *distributore*: ogni persona fisica o giuridica presente nella catena di fornitura, diversa dal fabbricante o dall’importatore, che mette un prodotto a disposizione sul mercato;
+- b<sup>sexies</sup>.[^2-5] *fornitore di servizi di logistica*: ogni persona fisica o giuridica che nel corso di un’attività commerciale fornisce almeno due dei seguenti servizi: immagazzinamento, imballaggio, indirizzamento e spedizione, senza essere proprietario dei prodotti interessati; sono esclusi i servizi postali di cui all’articolo 2 lettera a della legge del 17 dicembre 2010[^2-6] sulle poste e tutti gli altri servizi di trasporto merci;
+- b<sup>septies</sup>.[^2-7] *prestatore di servizi della società dell’informazione*: ogni persona fisica o giuridica che, normalmente dietro retribuzione, fornisce un servizio via Internet e a richiesta individuale di un destinatario di servizi;
+- c.[^2-8] *operatore economico*: il fabbricante, il rappresentante autorizzato, l’importatore, il distributore e il fornitore di servizi di logistica.
 
 <sup>2</sup> La messa in servizio di prodotti a scopi professionali nella propria impresa è equiparata alla messa a disposizione sul mercato in Svizzera se precedentemente non vi è stata alcuna messa a disposizione sul mercato.
 
-<sup>3</sup> Per il resto, si applicano le definizioni di cui all’articolo 2 e all’allegato I, in esso citato, della direttiva ATEX 2014/34/UE[^2-1]. Invece delle definizioni di cui all’articolo 2 numeri 18–20 della direttiva ATEX 2014/34/UE, si applicano le corrispondenti definizioni della legislazione in materia di sicurezza dei prodotti e di accreditamento. Inoltre si applicano le definizioni equivalenti di cui all’allegato della presente ordinanza.
+<sup>3</sup> Per il resto, si applicano le definizioni di cui all’articolo 2 e all’allegato I, in esso citato, della direttiva ATEX 2014/34/UE[^2-9]. Invece delle definizioni di cui all’articolo 2 numeri 18–20 della direttiva ATEX 2014/34/UE, si applicano le corrispondenti definizioni della legislazione in materia di sicurezza dei prodotti e di accreditamento. Inoltre si applicano le definizioni equivalenti di cui all’allegato della presente ordinanza.
 
-[^2-1]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 1.
+[^2-1]: Introdotta dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^2-2]: Introdotta dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^2-3]: Introdotta dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^2-4]: Introdotta dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^2-5]: Introdotta dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^2-6]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^2-7]: Introdotta dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^2-8]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^2-9]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 1.
 
 #### Art. 3
 
@@ -104,9 +118,12 @@ Sui prodotti stessi o, se ciò non dovesse essere possibile, sugli imballaggi o 
 - b. nome, denominazione commerciale registrata o marchio registrato del fabbricante ed eventualmente dell’importatore;
 - c. indirizzo della persona di cui alla lettera b;
 
+<sup>2bis</sup> Se il fabbricante non ha designato né un domicilio in Svizzera né un rappresentante autorizzato e non vi è alcun importatore, sul prodotto o, qualora ciò risulti impossibile, sul suo imballaggio o sulla documentazione allegata devono essere indicati anche il nome, la denominazione commerciale o il marchio registrato e l’indirizzo di contatto del fornitore di servizi di logistica.[^5-2]
+
 <sup>3</sup> Per i prodotti che non sono componenti devono essere riportate, nei medesimi posti, le altre indicazioni e informazioni ai sensi dell’allegato II numero 1.0.5 della direttiva ATEX 2014/34/UE.
 
 [^5-1]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 1.
+[^5-2]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
 
 #### Art. 6
 
@@ -124,6 +141,13 @@ Sui prodotti stessi o, se ciò non dovesse essere possibile, sugli imballaggi o 
 
 <sup>1</sup> Chi, in qualità di operatore economico, mette a disposizione sul mercato un prodotto ai sensi dell’articolo 1 deve essere in grado di presentare una dichiarazione di conformità dalla quale risulti che il prodotto è conforme ai requisiti essenziali e che le procedure di valutazione della conformità ai sensi dell’articolo 12 sono state eseguite.
 
+<sup>1bis</sup>
+
+Il fornitore di servizi di logistica è soggetto all’obbligo di cui al capoverso 1 quando:
+
+- a. il fabbricante non ha designato né un domicilio in Svizzera né un rappresentante autorizzato; e
+- b. non vi è alcun importatore.[^7-1]
+
 <sup>2</sup> Se il prodotto a bassa tensione è assoggettato a diverse regolamentazioni che esigono una dichiarazione di conformità, deve essere rilasciata una sola dichiarazione. Essa deve contenere tutte le informazioni determinanti relative alle regolamentazioni interessate.
 
 <sup>3</sup>
@@ -137,9 +161,13 @@ La dichiarazione di conformità deve essere redatta in una lingua ufficiale sviz
 - e. se del caso, nome e indirizzo dell’organo di controllo e di valutazione della conformità (organismo notificato), con indicazione della valutazione da esso effettuata e dell’attestato da esso emesso;
 - f. nome e indirizzo della persona che firma la dichiarazione di conformità per il fabbricante o per il suo rappresentante domiciliato in Svizzera.
 
-<sup>4</sup> Per i componenti ai sensi dell’articolo 2 numero 3 della direttiva ATEX 2014/34/UE[^7-1] è sufficiente un attestato scritto di conformità del fabbricante. Esso deve attestare che i componenti sono conformi alle prescrizioni della presente ordinanza. Deve inoltre indicare le caratteristiche dei componenti e le condizioni per il montaggio che permettono agli apparecchi o ai sistemi di protezione di soddisfare i requisiti essenziali.
+<sup>3bis</sup> Essa deve essere costantemente aggiornata.[^7-2]
 
-[^7-1]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 1.
+<sup>4</sup> Per i componenti ai sensi dell’articolo 2 numero 3 della direttiva ATEX 2014/34/UE[^7-3] è sufficiente un attestato scritto di conformità del fabbricante. Esso deve attestare che i componenti sono conformi alle prescrizioni della presente ordinanza. Deve inoltre indicare le caratteristiche dei componenti e le condizioni per il montaggio che permettono agli apparecchi o ai sistemi di protezione di soddisfare i requisiti essenziali.
+
+[^7-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^7-2]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^7-3]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 1.
 
 #### Art. 8
 
@@ -156,6 +184,15 @@ La dichiarazione di conformità o l’attestato di conformità del fabbricante d
 <sup>2</sup> Se tali norme non sono applicate o lo sono solo parzialmente, l’operatore economico deve poter provare che i requisiti essenziali sono adempiuti in altro modo.
 
 <sup>3</sup> L’operatore economico deve essere in grado di fornire la documentazione tecnica che permetta agli organi esecutivi ai sensi dell’articolo 17 di verificare la conformità con i requisiti essenziali.
+
+<sup>4</sup>
+
+Il fornitore di servizi di logistica è soggetto all’obbligo di cui al capoverso 3 quando:
+
+- a. il fabbricante non ha designato né un domicilio in Svizzera né un rappresentante autorizzato; e
+- b. non vi è alcun importatore.[^9-1]
+
+[^9-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
 
 #### Art. 10
 
@@ -290,11 +327,18 @@ Gli organi esecutivi sono:
 - a. per prodotti con fonti di ignizione elettriche come pure per installazioni elettriche in atmosfera potenzialmente esplosiva, l’organo di controllo di cui all’articolo 21 LIE;
 - b. per gli altri prodotti, gli organi di cui all’articolo 20 dell’ordinanza del 19 maggio 2010[^17-1] sulla sicurezza dei prodotti (OSPr).
 
-<sup>3</sup> Per un periodo definito gli organi esecutivi possono richiedere all’Amministrazione delle dogane informazioni sull’importazione di prodotti designati con precisione.
+<sup>3</sup> Per un periodo definito gli organi esecutivi possono richiedere all’Ufficio federale della dogana e della sicurezza dei confini[^17-2] informazioni sull’importazione di prodotti designati con precisione.
 
 <sup>4</sup> Gli operatori economici sono tenuti a mettere a disposizione degli organi esecutivi, entro un termine utile, tutte le informazioni necessarie ai fini della sorveglianza del mercato. In particolare sono tenuti, su richiesta, a indicare gli operatori economici dai quali hanno ricevuto o ai quali hanno ceduto un prodotto.
 
+<sup>5</sup> Gli operatori economici sono tenuti a cooperare con gli organi esecutivi nell’adozione di misure volte a eliminare o ridurre i rischi connessi ai prodotti da essi messi a disposizione sul mercato. Tale obbligo vige anche per il rappresentante autorizzato per i prodotti oggetto del suo mandato.[^17-3]
+
+<sup>6</sup> Su richiesta di un organo esecutivo, i fornitori di servizi della società dell’informazione sono tenuti a cooperare con l’organo esecutivo nell’adozione di misure volte a eliminare o ridurre i rischi connessi ai prodotti messi in vendita online attraverso i loro servizi.[^17-4]
+
 [^17-1]: [RS 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
+[^17-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^17-3]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^17-4]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
 
 #### Art. 18
 
@@ -305,6 +349,10 @@ Gli organi esecutivi sono:
 <sup>2</sup> Effettuano a questo scopo controlli per campionatura, procedono a una verifica se vi sono indizi fondati di non conformità alle prescrizioni di prodotti e li documentano all’attenzione degli organi esecutivi e degli altri operatori economici.
 
 <sup>3</sup> Se constatano che un prodotto non è conforme alle prescrizioni, adottano le misure necessarie e, se risulta necessario in considerazione dei rischi, informano senza indugio gli organi esecutivi in merito alle carenze riscontrate e alle misure adottate.
+
+<sup>4</sup> Se il fabbricante non ha designato né un domicilio in Svizzera né un rappresentante autorizzato e non vi è alcun importatore, il fornitore di servizi di logistica informa senza indugio l’organo esecutivo in merito alle carenze riscontrate e alle misure adottate, se ciò risulta necessario in considerazione dei rischi.[^18-1]
+
+[^18-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
 
 #### Art. 19
 
@@ -334,11 +382,25 @@ Gli organi esecutivi sono:
 
 <sup>4</sup> L’operatore economico sostiene inoltre i costi della verifica di cui al capoverso 1 lettera c se la documentazione non è stata presentata entro il termine o risulta incompleta, oppure se dalla verifica risulta che il prodotto non è conforme ai requisiti.
 
+<sup>5</sup> In assenza di altri mezzi efficaci per eliminare un grave rischio, l’organo esecutivo ha anche la facoltà di ordinare all’operatore economico o al prestatore di servizi della società dell’informazione di rimuovere contenuti relativi a un prodotto da un’interfaccia online.[^19-1]
+
+[^19-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+
 #### Art. 20
 
 **Misure**
 
 <sup>1</sup> Se dal controllo o dalla verifica risulta che le prescrizioni della presente ordinanza sono state violate, gli organi esecutivi dispongono misure secondo l’articolo 10 capoversi 2–5 LSPro.
+
+<sup>1bis</sup>
+
+Gli organi esecutivi possono informare la popolazione della non conformità tecnica di un prodotto, in particolare se non è possibile identificare tutti gli operatori economici o se il numero di questi ultimi è troppo elevato. In particolare, possono pubblicare le informazioni seguenti:
+
+- a. le informazioni che ne permettono l’identificazione, in particolare il fabbricante, il marchio e il tipo;
+- b. l’utilizzo a cui è destinato il prodotto;
+- c. le fotografie del prodotto e del suo imballaggio;
+- d. la data della decisione di non conformità;
+- e. le misure adottate.[^20-1]
 
 <sup>2</sup>
 
@@ -348,6 +410,11 @@ Conformemente alle disposizioni del regolamento applicabile, gli organi esecutiv
 - b. le decisioni emanate nell’ambito del controllo di prodotti destinati a essere utilizzati in atmosfera potenzialmente esplosiva.
 
 <sup>3</sup> Gli organi esecutivi hanno la competenza di accordare assistenza amministrativa internazionale conformemente all’articolo 22 LOTC.
+
+<sup>4</sup> Possono partecipare a banche dati internazionali per lo scambio di informazioni tra autorità di sorveglianza del mercato e registrarvi informazioni di cui al capoverso 1<sup>bis</sup>. [^20-2]
+
+[^20-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^20-2]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
 
 #### Art. 21
 

@@ -4,11 +4,11 @@ title: Ordonnance du 25 novembre 2015 sur les appareils et les systèmes de prot
 short: OSPEX
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/19"
 language: fr
-version: 2017-02-14
+version: 2022-01-01
 adopted: 2015-11-25
 in_force: 2016-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/19/20170214/fr/xml/fedlex-data-admin-ch-eli-cc-2016-19-20170214-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/19/20170214/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/19/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-19-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/19/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/19/20170214/fr"
 
 (OSPEX)
 
-du 25 novembre 2015 (Etat le 14 février 2017)
+du 25 novembre 2015 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -57,13 +57,27 @@ Dans la présente ordonnance, on entend par:
 
 - a. *mise à disposition sur le marché:* toute fourniture, à titre onéreux ou gratuit, d’un produit destiné à être distribué, consommé ou utilisé sur le marché suisse dans le cadre d’une activité commerciale;
 - b. *mise sur le marché:* la première mise à disposition d’un produit sur le marché suisse;
-- c. *opérateur économique:* le fabricant, le mandataire, l’importateur et le distributeur.
+- b<sup>bis</sup>.[^2-1] *fabricant:* toute personne physique ou morale qui fabrique ou fait concevoir ou fabriquer un produit et met sur le marché ce produit sous son propre nom ou sa propre marque;
+- b<sup>ter</sup>.[^2-2] *mandataire:* toute personne physique ou morale établie en Suisse ayant reçu mandat écrit du fabricant pour agir en son nom aux fins de l’accomplissement de tâches déterminées;
+- b<sup>quater</sup>.[^2-3] *importateur:* toute personne physique ou morale établie en Suisse qui effectue la mise sur le marché suisse d’un produit provenant de l’étranger;
+- b<sup>quinquies</sup>.[^2-4] *distributeur:* toute personne physique ou morale faisant partie de la chaîne d’approvisionnement, autre que le fabricant ou l’importateur, qui met un produit à disposition sur le marché;
+- b<sup>sexies</sup>.[^2-5] *prestataire de services d’exécution des commandes:* toute personne physique ou morale qui propose, dans le cadre d’une activité commerciale, au moins deux des services suivants: entreposage, conditionnement, étiquetage et expédition, sans être propriétaire des produits concernés, à l’exclusion des services postaux au sens de l’art. 2, let. a, de la loi du 17 décembre 2010 sur la poste[^2-6] et de tout autre service de transport de marchandises;
+- b<sup>septies</sup>.[^2-7] *prestataire de services de la société de l’information:* toute personne physique ou morale qui fournit, en général contre rémunération, un service sur Internet et à la demande individuelle d’un destinataire de services;
+- c.[^2-8] *opérateur économique:* le fabricant, le mandataire, l’importateur, le distributeur ou le prestataire de services d’exécution des commandes.
 
 <sup>2</sup> La mise en service de produits à des fins professionnelles dans l’entreprise est assimilée à une mise à disposition sur le marché suisse, si cette dernière n’a pas déjà eu lieu.
 
-<sup>3</sup> Au surplus, les définitions qui figurent à l’art. 2 de la directive UE «ATEX» et dans l’annexe I qui y est mentionnée sont applicables[^2-1]. Les définitions qui figurent à l’art. 2, aux numéros 18 à 20, de la directive UE «ATEX» sont remplacées par les définitions correspondantes de la législation sur la sécurité des produits et par celles relatives à l’accréditation. Les équivalences terminologiques répertoriées en annexe de la présente ordonnance sont également applicables.
+<sup>3</sup> Au surplus, les définitions qui figurent à l’art. 2 de la directive UE «ATEX» et dans l’annexe I qui y est mentionnée sont applicables[^2-9]. Les définitions qui figurent à l’art. 2, aux numéros 18 à 20, de la directive UE «ATEX» sont remplacées par les définitions correspondantes de la législation sur la sécurité des produits et par celles relatives à l’accréditation. Les équivalences terminologiques répertoriées en annexe de la présente ordonnance sont également applicables.
 
-[^2-1]: Voir note de bas de page concernant l’art. 1, al. 1.
+[^2-1]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^2-2]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^2-3]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^2-4]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^2-5]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^2-6]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^2-7]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^2-8]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^2-9]: Voir note de bas de page concernant l’art. 1, al. 1.
 
 #### Art. 3
 
@@ -104,9 +118,12 @@ Les informations suivantes doivent figurer sur les produits, voire sur l’embal
 - b. le nom, le nom commercial ou la marque déposée du fabricant et le cas échéant de l’importateur;
 - c. l’adresse de contact de la personne visée à la lettre b.
 
+<sup>2bis</sup> Si le fabricant n’est pas établi en Suisse, qu’il n’a pas désigné de mandataire et qu’il n’y a pas d’importateur, le nom, la raison sociale ou la marque déposée ainsi que les coordonnées du prestataire de services d’exécution des commandes doivent également figurer sur le produit, ou, si cela n’est pas possible, sur son emballage ou dans la documentation d’accompagnement.[^5-2]
+
 <sup>3</sup> Pour les produits qui ne sont pas des composants, les autres marques distinctives et informations visées à l’annexe II, numéro 1.0.5 de la directive UE «ATEX» doivent figurer sur les produits voire sur l’emballage ou dans les documents joints.
 
 [^5-1]: Voir note de bas de page concernant l’art. 1, al. 1.
+[^5-2]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
 
 #### Art. 6
 
@@ -114,7 +131,7 @@ Les informations suivantes doivent figurer sur les produits, voire sur l’embal
 
 <sup>1</sup> Les normes techniques appropriées[^6-1] pour concrétiser les exigences essentielles sont désignées conformément à l’art. 6 LSPro.
 
-<sup>2</sup> L’Office fédéral de l’énergie (OFEN) désigne les normes techniques appropriées, d’entente avec le Secrétariat d’Etat à l’économie (SECO).
+<sup>2</sup> L’Office fédéral de l’énergie (OFEN) désigne les normes techniques appropriées, d’entente avec le Secrétariat d’État à l’économie (SECO).
 
 [^6-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
 
@@ -123,6 +140,13 @@ Les informations suivantes doivent figurer sur les produits, voire sur l’embal
 **Déclaration de conformité**
 
 <sup>1</sup> Tout opérateur économique qui met à disposition sur le marché un produit en vertu de l’art. 1 doit pouvoir présenter une déclaration de conformité attestant que le produit répond aux exigences essentielles et que les procédures d’évaluation de la conformité visées à l’art. 12 ont été effectuées.
+
+<sup>1bis</sup>
+
+Le prestataire de services d’exécution des commandes est soumis à l’obligation visée à l’al. 1 si les conditions suivantes sont remplies:
+
+- a. le fabricant n’est pas établi en Suisse et n’a pas désigné de mandataire;
+- b. il n’y a pas d’importateur.[^7-1]
 
 <sup>2</sup> Il y a lieu d’établir une seule déclaration lorsque le produit relève de plusieurs réglementations exigeant une déclaration de conformité. Cette déclaration doit présenter toutes les informations déterminantes relatives aux réglementations concernées.
 
@@ -137,9 +161,13 @@ La déclaration de conformité doit être rédigée dans une des langues officie
 - e. le cas échéant, les nom et adresse de l’organe d’essai et d’attestation de conformité (organisme notifié) avec indication de l’évaluation effectuée et de l’attestation établie par ledit organisme;
 - f. les nom et adresse de la personne qui signe la déclaration de conformité pour le fabricant ou pour son représentant établi en Suisse.
 
-<sup>4</sup> Pour les composants selon l’art. 2, numéro 3 de la directive UE «ATEX»[^7-1], il suffit d’une attestation écrite de conformité du fabricant. Elle doit montrer que les composants sont conformes aux prescriptions de la présente ordonnance. Elle doit aussi indiquer les caractéristiques des composants ainsi que les conditions d’incorporation dans un appareil ou un système de protection qui contribuent à ce que ceux-ci répondent aux exigences essentielles.
+<sup>3bis</sup> Elle doit être mise à jour en continu.[^7-2]
 
-[^7-1]: Voir note de bas de page concernant l’art. 1, al. 1.
+<sup>4</sup> Pour les composants selon l’art. 2, numéro 3 de la directive UE «ATEX»[^7-3], il suffit d’une attestation écrite de conformité du fabricant. Elle doit montrer que les composants sont conformes aux prescriptions de la présente ordonnance. Elle doit aussi indiquer les caractéristiques des composants ainsi que les conditions d’incorporation dans un appareil ou un système de protection qui contribuent à ce que ceux-ci répondent aux exigences essentielles.
+
+[^7-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^7-2]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^7-3]: Voir note de bas de page concernant l’art. 1, al. 1.
 
 #### Art. 8
 
@@ -156,6 +184,15 @@ La déclaration de conformité et l’attestation de conformité du fabricant do
 <sup>2</sup> Si ces normes ne sont pas appliquées ou ne le sont que partiellement, l’opérateur économique doit pouvoir démontrer qu’ils répondent d’une autre façon aux exigences essentielles.
 
 <sup>3</sup> L’opérateur économique doit pouvoir présenter à l’organe d’exécution visé à l’art. 17 un dossier technique permettant à ce dernier de vérifier que les exigences essentielles sont respectées.
+
+<sup>4</sup>
+
+Le prestataire de services d’exécution des commandes est soumis aux obligations visées à l’al. 3 si les conditions suivantes sont remplies:
+
+- a. le fabricant n’est pas établi en Suisse et n’a pas désigné de mandataire;
+- b. il n’y a pas d’importateur.[^9-1]
+
+[^9-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
 
 #### Art. 10
 
@@ -281,7 +318,7 @@ Les produits qui ne répondent pas aux exigences requises pour la mise sur le ma
 
 **Surveillance du marché par l’organe de contrôle**
 
-<sup>1</sup> Les organes d’exécution s’assurent que les produits mis à disposition sur le marché répondent aux prescriptions de la présente ordonnance. A cet effet, ils procèdent par sondages et examinent les indices qui permettent raisonnablement de penser qu’un produit ne correspond pas aux prescriptions.
+<sup>1</sup> Les organes d’exécution s’assurent que les produits mis à disposition sur le marché répondent aux prescriptions de la présente ordonnance. À cet effet, ils procèdent par sondages et examinent les indices qui permettent raisonnablement de penser qu’un produit ne correspond pas aux prescriptions.
 
 <sup>2</sup>
 
@@ -290,11 +327,18 @@ Les organes d’exécution sont:
 - a. l’organe de contrôle selon l’art. 21 LIE pour les produits à allumage électrique ainsi que pour les installations électriques placées dans des zones à l’atmosphère explosible;
 - b. les organes au sens de l’art. 20 de l’ordonnance du 19 mai 2010 sur la sécurité des produits (OSPro)[^17-1].
 
-<sup>3</sup> Les organes d’exécution peuvent demander à l’Administration des douanes de leur fournir, pendant un temps déterminé, des renseignements sur les importations de produits clairement désignés.
+<sup>3</sup> Les organes d’exécution peuvent demander à l’Office fédéral de la douane et de la sécurité des frontières[^17-2] de leur fournir, pendant un temps déterminé, des renseignements sur les importations de produits clairement désignés.
 
 <sup>4</sup> Les opérateurs économiques sont tenus de mettre à disposition des organes d’exécution, dans les délais prescrits par ces derniers, toutes les informations nécessaires à l’exécution de la surveillance du marché. Ils doivent notamment désigner sur demande les opérateurs économiques auxquels ils ont acheté ou remis un produit.
 
+<sup>5</sup> Les opérateurs économiques ont l’obligation de coopérer avec les organes d’exécution dans la mise en œuvre de mesures destinées à éliminer ou à réduire les risques présentés par les produits que ces opérateurs ont mis à disposition sur le marché. Cette obligation incombe également au mandataire pour les produits relevant de son mandat.[^17-3]
+
+<sup>6</sup> Sur demande d’un organe d’exécution, les prestataires de services de la société de l’information ont l’obligation de coopérer avec lui dans la mise en œuvre de mesures destinées à éliminer ou à réduire les risques présentés par les produits qui ont ou ont été proposés à la vente en ligne par l’intermédiaire de leurs services.[^17-4]
+
 [^17-1]: [RS 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
+[^17-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^17-3]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^17-4]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
 
 #### Art. 18
 
@@ -305,6 +349,10 @@ Les organes d’exécution sont:
 <sup>2</sup> Ils procèdent le cas échéant par sondages, examinent les indices qui permettent raisonnablement de penser qu’un produit ne correspond pas aux prescriptions et documentent leurs démarches à l’intention des organes d’exécution et des autres opérateurs économiques.
 
 <sup>3</sup> Lorsqu’ils constatent qu’un produit ne répond aux prescriptions, ils prennent les mesures qui s’imposent et informent sans tarder les organes d’exécution des défauts constatés et des mesures prises, pour autant que les risques l’exigent.
+
+<sup>4</sup> Si le fabricant n’est pas établi en Suisse, qu’il n’a pas désigné de mandataire et qu’il n’y a pas d’importateur, le prestataire de services d’exécution des commandes informe sans tarder l’organe d’exécution des défauts constatés et des mesures prises, pour autant que les risques l’exigent.[^18-1]
+
+[^18-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
 
 #### Art. 19
 
@@ -336,11 +384,25 @@ Dans le cadre de la surveillance du marché, les organes d’exécution sont hab
 
 <sup>4</sup> Les frais occasionnés par les essais visés à l’al. 1, let. c, sont mis à la charge de l’opérateur économique si les documents ne sont pas remis dans le délai imparti, s’ils sont incomplets ou encore si l’essai révèle que le produit n’est pas conforme aux exigences requises.
 
+<sup>5</sup> Lorsqu’il n’existe pas d’autre moyen d’éliminer un risque grave, l’organe d’exécution est en outre habilité à ordonner à l’opérateur économique ou au prestataire de services de la société de l’information de retirer le contenu d’une interface en ligne qui mentionne le produit concerné.[^19-1]
+
+[^19-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+
 #### Art. 20
 
 **Mesures**
 
 <sup>1</sup> Si le contrôle ou l’essai révèle une violation des dispositions de la présente ordonnance, les organes d’exécution prennent des mesures conformément à l’art. 10, al. 2 à 5, LSPro.
+
+<sup>1bis</sup>
+
+Les organes d’exécution peuvent informer la population de la non-conformité technique d’un produit, notamment lorsqu’il n’est pas possible d’identifier tous les opérateurs économiques ou que ceux-ci sont trop nombreux. Ils peuvent publier en particulier les informations suivantes:
+
+- a. les informations permettant son identification, notamment le fabricant, la marque et le type;
+- b. l’usage auquel le produit est destiné;
+- c. des photographies du produit et de son emballage;
+- d. la date de la décision de non-conformité;
+- e. les mesures prises.[^20-1]
 
 <sup>2</sup>
 
@@ -350,6 +412,11 @@ Conformément aux dispositions du règlement des émoluments applicable, les org
 - b. pour les décisions prises dans le cadre du contrôle des produits destinés à être utilisés en atmosphères explosibles.
 
 <sup>3</sup> Les organes d’exécution sont compétents pour accorder l’entraide administrative internationale dans les limites de l’art. 22 LETC.
+
+<sup>4</sup> Ils peuvent participer à des bases de données internationales d’échanges d’informations entre autorités de surveillance du marché et y saisir les informations mentionnées à l’al. 1<sup>bis</sup>.[^20-2]
+
+[^20-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^20-2]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
 
 #### Art. 21
 
@@ -391,7 +458,7 @@ Annexe
 
 (art. 2)
 
-## Equivalences terminologiques
+## Équivalences terminologiques
 
 Pour interpréter correctement la directive UE «ATEX»[^annexu1-lvlu1-1], à laquelle renvoie la présente ordonnance, on appliquera les équivalences terminologiques suivantes:
 
@@ -412,7 +479,7 @@ Pour interpréter correctement la directive UE «ATEX»[^annexu1-lvlu1-1], à la
 
 <table>
 <tr><td>UE</td><td>Suisse</td></tr>
-<tr><td>Etat membre</td><td>Suisse</td></tr>
+<tr><td>État membre</td><td>Suisse</td></tr>
 <tr><td>national</td><td>suisse</td></tr>
 <tr><td>déclaration UE de conformité</td><td>déclaration de conformité</td></tr>
 <tr><td>attestation d’examen UE de type</td><td>attestation d’examen de type</td></tr>

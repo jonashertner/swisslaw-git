@@ -4,11 +4,11 @@ title: Verordnung vom 25. November 2015 über Geräte und Schutzsysteme zur Verw
 short: VGSEB
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/19"
 language: de
-version: 2017-02-14
+version: 2022-01-01
 adopted: 2015-11-25
 in_force: 2016-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/19/20170214/de/xml/fedlex-data-admin-ch-eli-cc-2016-19-20170214-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/19/20170214/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/19/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-19-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/19/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/19/20170214/de"
 
 (VGSEB)
 
-vom 25. November 2015 (Stand am 14. Februar 2017)
+vom 25. November 2015 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -57,13 +57,27 @@ In dieser Verordnung gelten als:
 
 - a. *Bereitstellung auf dem Markt:* jede entgeltliche oder unentgeltliche Abgabe eines Produkts zum Vertrieb, zum Verbrauch oder zur Verwendung auf dem Schweizer Markt im Rahmen einer Geschäftstätigkeit;
 - b. *Inverkehrbringen:* die erstmalige Bereitstellung eines Produkts auf dem Schweizer Markt;
-- c. *Wirtschaftsakteurin:* die Herstellerin, die Bevollmächtigte, die Importeurin und die Händlerin.
+- b<sup>bis</sup>.[^2-1] *Herstellerin:* jede natürliche oder juristische Person, die ein Produkt herstellt oder entwickeln oder herstellen lässt und dieses Produkt unter ihrem eigenen Namen oder ihrer eigenen Handelsmarke in Verkehr bringt;
+- b<sup>ter</sup>.[^2-2] *bevollmächtigte* *Person*: jede in der Schweiz niedergelassene natürliche oder juristische Person, die von einer Herstellerin schriftlich beauftragt wurde, in ihrem Namen bestimmte Aufgaben wahrzunehmen;
+- b<sup>quater</sup>.[^2-3] *Importeurin*: jede in der Schweiz niedergelassene natürliche oder juristische Person, die ein Produkt aus dem Ausland in Verkehr bringt;
+- b<sup>quinquies</sup>.[^2-4] *Händlerin*: jede natürliche oder juristische Person in der Lieferkette, die ein Produkt auf dem Markt bereitstellt, mit Ausnahme der Herstellerin oder der Importeurin;
+- b<sup>sexies</sup>.[^2-5] *Fulfilment-Dienstleisterin*: jede natürliche oder juristische Person, die im Rahmen einer Geschäftstätigkeit mindestens zwei der folgenden Dienstleistungen anbietet: Lagerhaltung, Verpackung, Adressierung und Versand von Produkten, ohne deren Eigentümerin zu sein; ausgenommen sind Postdienste nach Artikel 2 Buchstabe a des Postgesetzes vom 17. Dezember 2010[^2-6] und alle sonstigen Warenverkehrsdienstleistungen;
+- b<sup>septies</sup>.[^2-7] *Anbieterin von Dienstleistungen der Informationsgesellschaft*: jede natürliche oder juristische Person, die, in der Regel gegen Entgelt, über das Internet und auf individuelle Anforderung einer Empfängerin eine Dienstleistung erbringt;
+- c.[^2-8] Wirtschaftsakteurin*:* die Herstellerin, die bevollmächtigte Person, die Importeurin, die Händlerin und die Fulfilment-Dienstleisterin.
 
 <sup>2</sup> Dem Bereitstellen auf dem Schweizer Markt gleichgestellt ist die Inbetriebnahme von Produkten zu gewerblichen Zwecken im eigenen Betrieb, falls zuvor keine Bereitstellung auf dem Markt stattgefunden hat.
 
-<sup>3</sup> Im Übrigen gelten die Begriffe nach Artikel 2 und dem darin genannten Anhang I der EU-Ex-Geräte-Richtlinie[^2-1]. Anstelle der in Artikel 2 Ziffern 18–20 der EU-Ex-Geräte-Richtlinie genannten Begriffe gelten die entsprechenden Begriffe der Gesetzgebung über die Produktesicherheit und die Akkreditierung. Zudem gelten die Ausdrucksentsprechungen nach dem Anhang.
+<sup>3</sup> Im Übrigen gelten die Begriffe nach Artikel 2 und dem darin genannten Anhang I der EU-Ex-Geräte-Richtlinie[^2-9]. Anstelle der in Artikel 2 Ziffern 18–20 der EU-Ex-Geräte-Richtlinie genannten Begriffe gelten die entsprechenden Begriffe der Gesetzgebung über die Produktesicherheit und die Akkreditierung. Zudem gelten die Ausdrucksentsprechungen nach dem Anhang.
 
-[^2-1]: Siehe Fussnote zu Art. 1 Abs. 1.
+[^2-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^2-2]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^2-3]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^2-4]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^2-5]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^2-6]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^2-7]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^2-8]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^2-9]: Siehe Fussnote zu Art. 1 Abs. 1.
 
 #### Art. 3
 
@@ -104,9 +118,12 @@ Auf dem Produkt oder, wenn dies nicht möglich ist, auf der Verpackung oder in d
 - b. Name, Handelsname oder die eingetragene Handelsmarke der Herstellerin und gegebenenfalls der Importeurin;
 - c. die Kontaktadresse der Person nach Buchstabe b.
 
+<sup>2bis</sup> Hat die Herstellerin weder eine Niederlassung in der Schweiz noch eine bevollmächtigte Person bezeichnet und gibt es keine Importeurin, so müssen auf dem Produkt oder, wenn dies nicht möglich ist, auf seiner Verpackung oder in den beigefügten Unterlagen zusätzlich der Name, der Handelsname oder die eingetragene Handelsmarke sowie die Kontaktadresse der Fulfilment-Dienstleisterin angebracht werden.[^5-2]
+
 <sup>3</sup> Für Produkte, die keine Komponenten sind, müssen an der gleichen Stelle die weiteren Kennzeichnungen und Informationen nach Anhang II Nummer 1.0.5 der EU-Ex-Geräte-Richtlinie angebracht werden.
 
 [^5-1]: Siehe Fussnote zu Art. 1 Abs. 1.
+[^5-2]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
 
 #### Art. 6
 
@@ -124,6 +141,13 @@ Auf dem Produkt oder, wenn dies nicht möglich ist, auf der Verpackung oder in d
 
 <sup>1</sup> Wer als Wirtschaftsakteurin ein Produkt nach Artikel 1 auf dem Markt bereitstellt, muss eine Konformitätserklärung vorlegen können, aus der hervorgeht, dass das Produkt den grundlegenden Anforderungen entspricht und die Konformitätsbewertungsverfahren nach Artikel 12 durchgeführt worden sind.
 
+<sup>1bis</sup>
+
+Die Fulfilment-Dienstleisterin unterliegt der Pflicht nach Absatz 1, wenn:
+
+- a. die Herstellerin weder eine Niederlassung in der Schweiz noch eine bevollmächtigte Person bezeichnet hat; und
+- b. es keine Importeurin gibt.[^7-1]
+
 <sup>2</sup> Fällt das Produkt unter mehrere Regelungen, die eine Konformitätserklärung verlangen, so ist eine einzige Erklärung auszustellen. Diese muss alle massgebenden Informationen zu den betreffenden Regelungen enthalten.
 
 <sup>3</sup>
@@ -137,9 +161,13 @@ Die Konformitätserklärung muss in einer schweizerischen Amtssprache oder in En
 - e. gegebenenfalls Namen und Adresse der Prüf- und Konformitätsbewertungsstelle (notifizierte Stelle), mit Angabe der von ihr ausgeführten Bewertung und der von ihr ausgestellten Bescheinigung;
 - f. Namen und Adresse der Person, welche die Konformitätserklärung für die Herstellerin oder ihre in der Schweiz niedergelassene Vertretung unterzeichnet.
 
-<sup>4</sup> Für Komponenten nach Artikel 2 Nummer 3 der EU-Ex-Geräte-Richtlinie[^7-1] genügt eine schriftliche Konformitätsbescheinigung der Herstellerin. Darin muss dargelegt werden, dass die Komponenten den Vorschriften dieser Verordnung entsprechen. Ferner müssen die Merkmale der Komponenten sowie die Bedingungen für den Einbau angegeben werden, die dazu beitragen, dass die entsprechenden Geräte oder Schutzsysteme die grundlegenden Anforderungen erfüllen.
+<sup>3bis</sup> Sie muss laufend aktuell gehalten werden.[^7-2]
 
-[^7-1]: Siehe Fussnote zu Art. 1 Abs. 1.
+<sup>4</sup> Für Komponenten nach Artikel 2 Nummer 3 der EU-Ex-Geräte-Richtlinie[^7-3] genügt eine schriftliche Konformitätsbescheinigung der Herstellerin. Darin muss dargelegt werden, dass die Komponenten den Vorschriften dieser Verordnung entsprechen. Ferner müssen die Merkmale der Komponenten sowie die Bedingungen für den Einbau angegeben werden, die dazu beitragen, dass die entsprechenden Geräte oder Schutzsysteme die grundlegenden Anforderungen erfüllen.
+
+[^7-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^7-2]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^7-3]: Siehe Fussnote zu Art. 1 Abs. 1.
 
 #### Art. 8
 
@@ -156,6 +184,15 @@ Die Konformitätserklärung bzw. die Konformitätsbescheinigung der Herstellerin
 <sup>2</sup> Werden diese Normen nicht oder nur teilweise angewandt, so muss die Wirtschaftsakteurin nachweisen können, dass die grundlegenden Anforderungen auf andere Weise erfüllt werden.
 
 <sup>3</sup> Sie muss technische Unterlagen zur Verfügung halten, die es den Vollzugsorganen nach Artikel 17 erlauben, die Einhaltung der grundlegenden Anforderungen zu überprüfen.
+
+<sup>4</sup>
+
+Die Fulfilment-Dienstleisterin unterliegt der Pflicht nach Absatz 3, wenn:
+
+- a. die Herstellerin weder eine Niederlassung in der Schweiz noch eine bevollmächtigte Person bezeichnet hat; und
+- b. es keine Importeurin gibt.[^9-1]
+
+[^9-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
 
 #### Art. 10
 
@@ -290,11 +327,18 @@ Vollzugsorgane sind:
 - a. für Produkte mit elektrischen Zündquellen sowie für elektrische Installationen in explosionsgefährdeten Bereichen: die Kontrollstelle nach Artikel 21 EleG;
 - b. für die übrigen Produkte: die Organe nach Artikel 20 der Verordnung vom 19. Mai 2010[^17-1] über die Produktesicherheit (PrSV).
 
-<sup>3</sup> Sie können von der Zollverwaltung für eine festgesetzte Dauer Meldungen über die Einfuhr genau bezeichneter Produkte verlangen.
+<sup>3</sup> Sie können vom Bundesamt für Zoll und Grenzsicherheit[^17-2] für eine festgesetzte Dauer Meldungen über die Einfuhr genau bezeichneter Produkte verlangen.
 
 <sup>4</sup> Die Wirtschaftsakteurinnen sind verpflichtet, den Vollzugsorganen alle für den Vollzug der Marktüberwachung notwendigen Informationen innert einer von diesen festgesetzten Frist zur Verfügung zu stellen. Insbesondere sind sie verpflichtet auf Verlangen die Wirtschaftsakteurinnen zu nennen, von denen sie ein Produkt bezogen oder an die sie ein Produkt abgegeben haben.
 
+<sup>5</sup> Die Wirtschaftsakteurinnen sind verpflichtet, bei der Umsetzung von Massnahmen zur Vermeidung oder Minderung von Risiken im Zusammenhang mit Produkten, die von ihnen auf dem Markt bereitgestellt wurden, mit den Vollzugsorganen zusammenzuarbeiten. Diese Pflicht gilt auch für die bevollmächtigte Person für die Produkte, die von ihrem Auftrag erfasst werden.[^17-3]
+
+<sup>6</sup> Die Anbieterinnen von Dienstleistungen der Informationsgesellschaft sind auf Verlangen eines Vollzugsorgans verpflichtet, bei der Umsetzung von Massnahmen zur Vermeidung oder Minderung von Risiken im Zusammenhang mit Produkten, die über ihre Dienste online zum Verkauf angeboten wurden oder werden, mit dem Vollzugsorgan zusammenzuarbeiten.[^17-4]
+
 [^17-1]: [SR 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
+[^17-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^17-3]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^17-4]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
 
 #### Art. 18
 
@@ -305,6 +349,10 @@ Vollzugsorgane sind:
 <sup>2</sup> Sie erheben gegebenenfalls zu diesem Zweck Stichproben, verfolgen begründete Hinweise, wonach ein Produkt den Vorschriften nicht entspricht und dokumentieren diese zuhanden der Vollzugsorgane und der übrigen Wirtschaftsakteurinnen.
 
 <sup>3</sup> Stellen sie fest, dass ein Produkt den Vorschriften nicht entspricht, so treffen sie die notwendigen Massnahmen und informieren, soweit aufgrund der Risiken notwendig, unverzüglich die Vollzugsorgane über die festgestellten Mängel und die getroffenen Massnahmen.
+
+<sup>4</sup> Hat die Herstellerin weder eine Niederlassung in der Schweiz noch eine bevollmächtigte Person bezeichnet und gibt es keine Importeurin, so informiert die Fulfilment-Dienstleisterin, sofern dies aufgrund der Risiken notwendig ist, unverzüglich das Vollzugsorgan über die festgestellten Mängel und die getroffenen Massnahmen.[^18-1]
+
+[^18-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
 
 #### Art. 19
 
@@ -336,11 +384,25 @@ Im Rahmen der Marktüberwachung sind die Vollzugsorgane befugt:
 
 <sup>4</sup> Sie trägt zudem die Kosten der Prüfung nach Absatz 1 Buchstaben c, wenn die Unterlagen nicht fristgerecht oder unvollständig eingereicht wurden oder die Prüfung ergibt, dass das Produkt den Anforderungen nicht entspricht.
 
+<sup>5</sup> Sofern es keine anderen Möglichkeiten zur Beseitigung eines ernsten Risikos gibt, ist das Vollzugsorgan zudem befugt, gegenüber der Wirtschaftsakteurin oder der Anbieterin von Dienstleistungen der Informationsgesellschaft die Entfernung von Inhalten zu einem Produkt von einer Online-Schnittstelle anzuordnen.[^19-1]
+
+[^19-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+
 #### Art. 20
 
 **Massnahmen**
 
 <sup>1</sup> Ergibt die Kontrolle oder die Überprüfung, dass Vorschriften dieser Verordnung verletzt sind, so verfügen die Vollzugsorgane Massnahmen nach Artikel 10 Absätze 2–5 PrSG.
+
+<sup>1bis</sup>
+
+Die Vollzugsorgane können die Bevölkerung über die technische Nichtkonformität eines Produkts informieren, insbesondere wenn es nicht möglich ist, alle Wirtschaftsakteurinnen zu identifizieren oder wenn diese zu zahlreich sind. Sie können insbesondere folgende Informationen veröffentlichen:
+
+- a. die Informationen, die dessen Identifizierung erlauben, insbesondere Herstellerin, Marke und Typ;
+- b. den bestimmungsgemässen Gebrauch des Produkts;
+- c. Fotografien des Produkts und von dessen Verpackung;
+- d. das Datum der Verfügung betreffend Nichtkonformität;
+- e. die getroffenen Massnahmen.[^20-1]
 
 <sup>2</sup>
 
@@ -350,6 +412,11 @@ Die Vollzugsorgane erheben eine Gebühr und auferlegen den Betroffenen die erwac
 - b. Verfügungen im Zusammenhang mit der Kontrolle von Produkten zur Verwendung in explosionsgefährdeten Bereichen.
 
 <sup>3</sup> Die Vollzugsorgane sind zuständig für die Gewährung der internationalen Amtshilfe im Rahmen von Artikel 22 THG.
+
+<sup>4</sup> Sie können sich an internationalen Datenbanken für den Austausch von Informationen zwischen Marktüberwachungsbehörden beteiligen und darin Informationen gemäss Absatz 1<sup>bis</sup> erfassen.[^20-2]
+
+[^20-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^20-2]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
 
 #### Art. 21
 
