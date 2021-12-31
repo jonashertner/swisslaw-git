@@ -3,13 +3,13 @@ canton: BS
 number: "772.430"
 title: Gebührentarif der IWB Industrielle Werke Basel für die elektrische Energie
 language: de
-version: 2019-01-01
-valid_until: 2021-12-31
-version_adopted: 2018-06-20
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-10-22
 adopted: 2024-06-27
 in_force: 2025-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.430"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5272/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5390/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5272/pdf_file"
 
 Elektrische Energie: Gebührentarif | Energie- und Wasserversorgung[^t-1]
 
-Vom 4. Juli 2011 (Stand 1. Januar 2019)
+Vom 4. Juli 2011 (Stand 1. Januar 2022)
 
 Der Verwaltungsrat der IWB Industrielle Werke Basel,
 
@@ -173,7 +173,7 @@ beschliesst:
 
 **Tarif**
 
-<sup>1</sup> Der Tarif für die Ersatzbelieferung orientiert sich am Tarif small zuzüglich einem Zuschlag von 20% zur Deckung der Bearbeitungskosten.
+<sup>1</sup> Der Tarif für die Ersatzbelieferung entspricht dem Tarif small zuzüglich eines Zuschlags von 20 % zur Deckung der Bearbeitungskosten, fällt jedoch niemals unter den Mindesttarif für die Ersatzbelieferung. Der Mindesttarif für die Ersatzbelieferung basiert auf dem Preis für CH Base Monatskontrakte [EUR/MWh, umgerechnet in Rp./kWh] des Terminmarktberichts der Eidgenössischen Elektrizitätskommission (ElCom), zuzüglich eines Zuschlags von 30 % zur Bearbeitungskosten- und Risikodeckung. Einschlägig für die Preisbestimmung der CH Base Monatskontrakte ist jeweils der im dritten Terminmarktbericht desjenigen Monats, welcher der monatlichen Ersatzbelieferung vorangeht, publizierte Preis für den nächstfolgenden Monat (Frontmonat). Es gilt der Wechselkurs der Schweizerischen Nationalbank am Publikationstag des anwendbaren Terminmarktberichts.
 
 ## III. Übergangs- und Schlussbestimmungen
 
