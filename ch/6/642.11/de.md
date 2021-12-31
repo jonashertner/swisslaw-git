@@ -4,11 +4,11 @@ title: Bundesgesetz vom 14. Dezember 1990 über die direkte Bundessteuer (DBG)
 short: DBG
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184"
 language: de
-version: 2021-07-01
+version: 2022-01-01
 adopted: 1990-12-14
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20210701/de"
 
 (DBG)
 
-vom 14. Dezember 1990 (Stand am 1. Juli 2021)
+vom 14. Dezember 1990 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -499,7 +499,7 @@ Steuerbar sind auch:
 - b. einmalige oder wiederkehrende Zahlungen bei Tod sowie für bleibende körperliche oder gesundheitliche Nachteile;
 - c. Entschädigungen für die Aufgabe oder Nichtausübung einer Tätigkeit;
 - d. Entschädigungen für die Nichtausübung eines Rechtes;
-- e.[^23-1] ...
+- e.[^23-1] …
 - f. Unterhaltsbeiträge, die ein Steuerpflichtiger bei Scheidung, gerichtlicher oder tatsächlicher Trennung für sich erhält, sowie Unterhaltsbeiträge, die ein Elternteil für die unter seiner elterlichen Sorge stehenden Kinder erhält.
 
 [^23-1]: Aufgehoben durch Anhang Ziff. II 5 des Geldspielgesetzes vom 29. Sept. 2017, mit Wirkung seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
@@ -558,7 +558,7 @@ Als Berufskosten werden abgezogen:
 - a.[^26-1] die notwendigen Kosten bis zu einem Maximalbetrag von 3000 Franken für Fahrten zwischen Wohn- und Arbeitsstätte;
 - b. die notwendigen Mehrkosten für Verpflegung ausserhalb der Wohnstätte und bei Schichtarbeit;
 - c.[^26-2] die übrigen für die Ausübung des Berufes erforderlichen Kosten; Artikel 33 Absatz 1 Buchstabe j bleibt vorbehalten;
-- d.[^26-3] ...
+- d.[^26-3] …
 
 <sup>2</sup> Für die Berufskosten nach Absatz 1 Buchstaben b und c werden Pauschalansätze festgelegt; im Fall von Absatz 1 Buchstabe c steht der steuerpflichtigen Person der Nachweis höherer Kosten offen.[^26-4]
 
@@ -583,13 +583,30 @@ Dazu gehören insbesondere:
 - b. die eingetretenen und verbuchten Verluste auf Geschäftsvermögen;
 - c. die Zuwendungen an Vorsorgeeinrichtungen zugunsten des eigenen Personals, sofern jede zweckwidrige Verwendung ausgeschlossen ist;
 - d.[^27-1] Zinsen auf Geschäftsschulden sowie Zinsen, die auf Beteiligungen nach Artikel 18 Absatz 2 entfallen;
-- e.[^27-2] die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals.
+- e.[^27-2] die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals;
+- f.[^27-3] gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
-<sup>3</sup> Nicht abziehbar sind Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts an schweizerische oder fremde Amtsträger.[^27-3]
+<sup>3</sup>
+
+Nicht abziehbar sind insbesondere:
+
+- a. Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts;
+- b. Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
+- c. Bussen und Geldstrafen;
+- d. finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.[^27-4]
+
+<sup>4</sup>
+
+Sind Sanktionen nach Absatz 3 Buchstaben c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
+
+- a. die Sanktion gegen den schweizerischen Ordre public verstösst; oder
+- b. die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.[^27-5]
 
 [^27-1]: Eingefügt durch Ziff. I 5 des BG vom 19. März 1999 über das Stabilisierungsprogramm 1998, in Kraft seit 1. Jan. 2001 ([AS 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); BBl **1999** 4).
 [^27-2]: Eingefügt durch Ziff. I 1 des BG vom 27. Sept. 2013 über die steuerliche Behandlung der berufsorientierten Aus- und Weiterbildungskosten, in Kraft seit 1. Jan. 2016 ([AS 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [BBl 2011 2607](https://fedlex.data.admin.ch/eli/fga/2011/381)).
-[^27-3]: Eingefügt durch Ziff. I des BG vom 22. Dez. 1999 über die Unzulässigkeit steuerlicher Abzüge von Bestechungsgeldern, in Kraft seit 1. Jan. 2001 ([AS 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [BBl 1997 II 1037](https://fedlex.data.admin.ch/eli/fga/1997/2_1037__), IV 1336).
+[^27-3]: Eingefügt durch Ziff. I 1 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^27-4]: Eingefügt durch Ziff. I des BG vom 22. Dez. 1999 über die Unzulässigkeit steuerlicher Abzüge von Bestechungsgeldern ([AS 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [BBl 1997 II 1037](https://fedlex.data.admin.ch/eli/fga/1997/2_1037__), IV 1336). Fassung gemäss Ziff. I 1 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^27-5]: Eingefügt durch Ziff. I 1 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
 
 #### Art. 28
 
@@ -747,7 +764,7 @@ Von den Einkünften abgezogen werden auch die freiwilligen Leistungen von Geld u
 Nicht abziehbar sind die übrigen Kosten und Aufwendungen, insbesondere:
 
 - a. die Aufwendungen für den Unterhalt des Steuerpflichtigen und seiner Familie sowie der durch die berufliche Stellung des Steuerpflichtigen bedingte Privataufwand;
-- b.[^34-1] ...
+- b.[^34-1] …
 - c. die Aufwendungen für Schuldentilgung;
 - d. die Aufwendungen für die Anschaffung, Herstellung oder Wertvermehrung von Vermögensgegenständen;
 - e. Einkommens-, Grundstückgewinn- und Vermögenssteuern von Bund, Kantonen und Gemeinden und gleichartige ausländische Steuern.
@@ -912,7 +929,7 @@ Gehören zu den Einkünften Kapitalabfindungen für wiederkehrende Leistungen, s
 
 <sup>2</sup> Das EFD passt die Tarifstufen und die Abzüge jährlich an den Landesindex der Konsumentenpreise an. Massgebend ist der Indexstand am 30. Juni vor Beginn der Steuerperiode. Bei negativem Teuerungsverlauf ist eine Anpassung ausgeschlossen. Der auf eine negative Teuerung folgende Ausgleich erfolgt auf Basis des letzten Ausgleichs.[^39-1]
 
-<sup>3</sup> ...[^39-2]
+<sup>3</sup> …[^39-2]
 
 [^39-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 453](https://fedlex.data.admin.ch/eli/oc/2010/59); [BBl 2009 1657](https://fedlex.data.admin.ch/eli/fga/2009/362)).
 [^39-2]: Aufgehoben durch Ziff. I des BG vom 25. Sept. 2009, mit Wirkung seit 1. Jan. 2011 ([AS 2010 453](https://fedlex.data.admin.ch/eli/oc/2010/59); [BBl 2009 1657](https://fedlex.data.admin.ch/eli/fga/2009/362)).
@@ -1109,7 +1126,7 @@ Der steuerbare Reingewinn setzt sich zusammen aus:
   - – Einzahlungen auf das Eigenkapital aus Mitteln der juristischen Person, soweit sie nicht aus als Gewinn versteuerten Reserven erfolgen,
   - – offene und verdeckte Gewinnausschüttungen und geschäftsmässig nicht begründete Zuwendungen an Dritte;
 
-- [tab] c. den der Erfolgsrechnung nicht gutgeschriebenen Erträgen, mit Einschluss der Kapital-, Aufwertungs- und Liquidationsgewinne, vorbehältlich Artikel 64. ...[^58-1]
+- [tab] c. den der Erfolgsrechnung nicht gutgeschriebenen Erträgen, mit Einschluss der Kapital-, Aufwertungs- und Liquidationsgewinne, vorbehältlich Artikel 64. …[^58-1]
 
 <sup>2</sup> Der steuerbare Reingewinn juristischer Personen, die keine Erfolgsrechnung erstellen, bestimmt sich sinngemäss nach Absatz 1.
 
@@ -1125,17 +1142,35 @@ Der steuerbare Reingewinn setzt sich zusammen aus:
 
 Zum geschäftsmässig begründeten Aufwand gehören auch:
 
-- a. die eidgenössischen, kantonalen und kommunalen Steuern, nicht aber Steuerbussen;
+- a.[^59-1] die eidgenössischen, kantonalen und kommunalen Steuern;
 - b. die Zuwendungen an Vorsorgeeinrichtungen zugunsten des eigenen Personals, sofern jede zweckwidrige Verwendung ausgeschlossen ist;
-- c.[^59-1] die freiwilligen Leistungen von Geld und übrigen Vermögenswerten bis zu 20 Prozent des Reingewinns an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf ihre öffentlichen oder gemeinnützigen Zwecke von der Steuerpflicht befreit sind (Art. 56 Bst. g), sowie an Bund, Kantone, Gemeinden und deren Anstalten (Art. 56 Bst. a–c);
+- c.[^59-2] die freiwilligen Leistungen von Geld und übrigen Vermögenswerten bis zu 20 Prozent des Reingewinns an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf ihre öffentlichen oder gemeinnützigen Zwecke von der Steuerpflicht befreit sind (Art. 56 Bst. g), sowie an Bund, Kantone, Gemeinden und deren Anstalten (Art. 56 Bst. a–c);
 - d. die Rabatte, Skonti, Umsatzbonifikationen und Rückvergütungen auf dem Entgelt für Lieferungen und Leistungen sowie zur Verteilung an die Versicherten bestimmte Überschüsse von Versicherungsgesellschaften;
-- e.[^59-2] die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals.
+- e.[^59-3] die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals;
+- f.[^59-4] gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
-<sup>2</sup> Nicht zum geschäftsmässig begründeten Aufwand gehören Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts an schweizerische oder fremde Amtsträger.[^59-3]
+<sup>2</sup>
 
-[^59-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 8. Okt. 2004 (Stiftungsrecht), in Kraft seit 1. Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
-[^59-2]: Eingefügt durch Ziff. I 1 des BG vom 27. Sept. 2013 über die steuerliche Behandlung der berufsorientierten Aus- und Weiterbildungskosten, in Kraft seit 1. Jan. 2016 ([AS 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [BBl 2011 2607](https://fedlex.data.admin.ch/eli/fga/2011/381)).
-[^59-3]: Eingefügt durch Ziff. I des BG vom 22. Dez. über die Unzulässigkeit steuerlicher Abzüge von Bestechungsgeldern, in Kraft seit 1. Jan. 2001 ([AS 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [BBl 1997 II 1037](https://fedlex.data.admin.ch/eli/fga/1997/2_1037__), IV 1336).
+Nicht zum geschäftsmässig begründeten Aufwand gehören insbesondere:
+
+- a. Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts;
+- b. Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
+- c. Bussen;
+- d. finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.[^59-5]
+
+<sup>3</sup>
+
+Sind Sanktionen nach Absatz 2 Buchstaben c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
+
+- a. die Sanktion gegen den schweizerischen Ordre public verstösst; oder
+- b. die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.[^59-6]
+
+[^59-1]: Fassung gemäss Ziff. I 1 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^59-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 8. Okt. 2004 (Stiftungsrecht), in Kraft seit 1. Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^59-3]: Eingefügt durch Ziff. I 1 des BG vom 27. Sept. 2013 über die steuerliche Behandlung der berufsorientierten Aus- und Weiterbildungskosten, in Kraft seit 1. Jan. 2016 ([AS 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [BBl 2011 2607](https://fedlex.data.admin.ch/eli/fga/2011/381)).
+[^59-4]: Eingefügt durch Ziff. I 1 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^59-5]: Eingefügt durch Ziff. I des BG vom 22. Dez. 1999 über die Unzulässigkeit steuerlicher Abzüge von Bestechungsgeldern ([AS 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [BBl 1997 II 1037](https://fedlex.data.admin.ch/eli/fga/1997/2_1037__), IV 1336). Fassung gemäss Ziff. I 1 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^59-6]: Eingefügt durch Ziff. I 1 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
 
 #### Art. 60
 
@@ -1313,7 +1348,7 @@ Die Gewinnsteuer einer Kapitalgesellschaft oder Genossenschaft ermässigt sich i
 
 Keine Beteiligungserträge sind:
 
-- a.[^70-2] ...
+- a.[^70-2] …
 - b. Erträge, die bei der leistenden Kapitalgesellschaft oder Genossenschaft geschäftsmässig begründeten Aufwand darstellen;
 - c.[^70-3] Aufwertungsgewinne auf Beteiligungen.
 
@@ -1365,7 +1400,7 @@ Bei Konzernobergesellschaften von systemrelevanten Banken nach Artikel 7 Absatz 
 
 Die Gewinnsteuer der kollektiven Kapitalanlagen mit direktem Grundbesitz beträgt 4,25 Prozent des Reingewinnes.
 
-### Dritter Titel: ...
+### Dritter Titel: …
 
 #### Art. 73–78
 
@@ -1715,7 +1750,7 @@ Der Schuldner der steuerbaren Leistung ist verpflichtet:
 
 <sup>3</sup> Eidgenössische Beschwerdeinstanz ist das Bundesgericht.
 
-<sup>4</sup> ...[^102-2]
+<sup>4</sup> …[^102-2]
 
 [^102-1]: Ausdruck gemäss Ziff. I 2 des Steuererlassgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^102-2]: Aufgehoben durch Ziff. I 2 des Steuererlassgesetzes vom 20. Juni 2014, mit Wirkung seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
@@ -1903,7 +1938,7 @@ Wer beim Vollzug dieses Gesetzes in einer Sache zu entscheiden oder an einer Ver
 
 <sup>1</sup> Die ESTV betreibt zur Erfüllung der Aufgaben nach diesem Gesetz ein Informationssystem. Dieses kann besonders schützenswerte Personendaten über administrative und strafrechtliche Sanktionen enthalten, die steuerrechtlich wesentlich sind.
 
-<sup>1bis</sup> Die ESTV und die Behörden nach Artikel 111 sind berechtigt, die Versichertennummer der Alters- und Hinterlassenenversicherung nach den Bestimmungen des AHVG[^112a-2] für die Erfüllung ihrer gesetzlichen Aufgaben systematisch zu verwenden..[^112a-3]
+<sup>1bis</sup> …[^112a-2]
 
 <sup>2</sup> Die ESTV und die Behörden nach Artikel 111 geben einander die Daten weiter, die für die Erfüllung ihrer Aufgaben dienlich sein können. Die Behörden nach Artikel 112 geben den mit dem Vollzug dieses Gesetzes betrauten Behörden die Daten weiter, die für die Durchführung dieses Gesetzes von Bedeutung sein können.
 
@@ -1922,13 +1957,12 @@ Es sind alle diejenigen Daten von Steuerpflichtigen weiterzugeben, die zur Veran
 
 <sup>6</sup> Der Bundesrat kann Ausführungsbestimmungen erlassen, insbesondere über die Organisation und den Betrieb des Informationssystems, über die Kategorien der zu erfassenden Daten, über die Zugriffs- und Bearbeitungsberechtigung, über die Aufbewahrungsdauer sowie die Archivierung und Vernichtung der Daten.
 
-<sup>7</sup> Können sich Bundesämter über die Datenbekanntgabe nicht einigen, so entscheidet der Bundesrat endgültig. In allen andern Fällen entscheidet das Bundesgericht im Verfahren nach Artikel 120 des Bundesgerichtsgesetzes vom 17. Juni 2005[^112a-4].[^112a-5]
+<sup>7</sup> Können sich Bundesämter über die Datenbekanntgabe nicht einigen, so entscheidet der Bundesrat endgültig. In allen andern Fällen entscheidet das Bundesgericht im Verfahren nach Artikel 120 des Bundesgerichtsgesetzes vom 17. Juni 2005[^112a-3].[^112a-4]
 
 [^112a-1]: Eingefügt durch Ziff. VI 3 des BG vom 24. März 2000 über die Schaffung und die Anpassung gesetzlicher Grundlagen für die Bearbeitung von Personendaten, in Kraft seit 1. Sept. 2000 ([AS 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [BBl 1999 9005](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
-[^112a-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^112a-3]: Eingefügt durch Anhang Ziff. 5 des BG vom 23. Juni 2006 (Neue AHV-Versicherten-nummer) ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)). Fassung gemäss Ziff. I 1 des BG vom 16. Dez. 2016 über die Revision der Quellenbesteuerung des Erwerbseinkommens, in Kraft seit 1. Jan. 2021 ([AS 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [BBl 2015 657](https://fedlex.data.admin.ch/eli/fga/2015/56)).
-[^112a-4]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^112a-5]: Fassung zweiter Satz gemäss Anhang Ziff. 57 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^112a-2]: Eingefügt durch Anhang Ziff. 5 des BG vom 23. Juni 2006 (Neue AHV-Versicherten-nummer) ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)). Aufgehoben durch Anhang Ziff. 19 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), mit Wirkung seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^112a-3]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^112a-4]: Fassung zweiter Satz gemäss Anhang Ziff. 57 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### 2. Kapitel: Verfahrensrechtliche Stellung der Ehegatten
 
@@ -2567,7 +2601,7 @@ Die Steuer wird durch den Kanton bezogen, in dem die Veranlagung vorgenommen wor
 Mit der Zustellung der Veranlagungsverfügung werden fällig:
 
 - a. die Steuer auf Kapitalleistungen aus Vorsorge (Art. 38);
-- b.[^161-1] ...
+- b.[^161-1] …
 - c. die Nachsteuer (Art. 151).
 
 <sup>4</sup>
@@ -2966,7 +3000,7 @@ Die straflose Selbstanzeige kann auch eingereicht werden:
 
 <sup>1bis</sup> Beweismittel aus einem Nachsteuerverfahren dürfen in einem Strafverfahren wegen Steuerhinterziehung nur dann verwendet werden, wenn sie weder unter Androhung einer Veranlagung nach pflichtgemässem Ermessen (Art. 130 Abs. 2) mit Umkehr der Beweislast nach Artikel 132 Absatz 3 noch unter Androhung einer Busse wegen Verletzung von Verfahrenspflichten beschafft wurden.[^183-2]
 
-<sup>2</sup> Die ESTV kann die Verfolgung der Steuerhinterziehung verlangen. ...[^183-3]
+<sup>2</sup> Die ESTV kann die Verfolgung der Steuerhinterziehung verlangen. …[^183-3]
 
 <sup>3</sup> Die Straf- oder Einstellungsverfügung der kantonalen Behörde wird auch der ESTV eröffnet, wenn sie die Verfolgung verlangt hat oder am Verfahren beteiligt war.
 
@@ -3125,7 +3159,7 @@ Die Strafverfolgung verjährt:
 
 <sup>2</sup> Kommt die ESTV zum Schluss, es liege ein Steuervergehen vor, so erstattet sie bei der zuständigen kantonalen Strafverfolgungsbehörde Anzeige.
 
-<sup>3</sup> ...[^194-1]
+<sup>3</sup> …[^194-1]
 
 [^194-1]: Aufgehoben durch Anhang 1 Ziff. II 19 der Strafprozessordnung vom 5. Okt. 2007, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
@@ -3169,7 +3203,7 @@ Die Strafverfolgung verjährt:
 
 **Verteilung der kantonalen Anteile**
 
-<sup>1</sup> Der kantonale Anteil an den Steuerbeträgen, Bussen wegen Steuerhinterziehung oder Verletzung von Verfahrenspflichten sowie Zinsen, die von Steuerpflichtigen mit Steuerobjekten in mehreren Kantonen geschuldet sind, wird von den Kantonen unter sich nach den bundesrechtlichen Grundsätzen betreffend das Verbot der Doppelbesteuerung verteilt. ...[^197-1]
+<sup>1</sup> Der kantonale Anteil an den Steuerbeträgen, Bussen wegen Steuerhinterziehung oder Verletzung von Verfahrenspflichten sowie Zinsen, die von Steuerpflichtigen mit Steuerobjekten in mehreren Kantonen geschuldet sind, wird von den Kantonen unter sich nach den bundesrechtlichen Grundsätzen betreffend das Verbot der Doppelbesteuerung verteilt. …[^197-1]
 
 <sup>2</sup> Können sich die Kantone nicht einigen, so entscheidet das Bundesgericht als einzige Instanz.[^197-2]
 
@@ -3218,7 +3252,7 @@ Artikel 47 Absatz 2 des Bundesgesetzes vom 20. September 1949[^202-1] über die 
 
 **Änderung des AHVG**
 
-...[^203-1]
+…[^203-1]
 
 [^203-1]: Die Änderung kann unter [AS 1991 1184](https://fedlex.data.admin.ch/eli/oc/1991/1184_1184_1184)konsultiert werden.
 

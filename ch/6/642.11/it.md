@@ -4,11 +4,11 @@ title: "Legge federale del 14 dicembre 1990 sull'imposta federale diretta (LIFD)
 short: LIFD
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184"
 language: it
-version: 2021-07-01
+version: 2022-01-01
 adopted: 1990-12-14
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20210701/it"
 
 (LIFD)
 
-del 14 dicembre 1990 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
+del 14 dicembre 1990 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -390,7 +390,7 @@ Le riserve occulte di un’impresa di persone (impresa individuale, società di 
 
 <sup>3</sup> I capoversi 1 e 2 s’applicano per analogia alle imprese in mano comune.
 
-[^19-1]: Nuovo testo giusta l’all. v. 7 della LF del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+[^19-1]: Nuovo testo giusta l’all. n. 7 della LF del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 [^19-2]: Nuovo testo giusta l’all. n. 7 della LF del 16 dic. 2005 (diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^19-3]: Nuovo testo giusta l’all. n. 7 della LF del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 [^19-4]: Nuovo testo giusta l’all. n. 7 della LF del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
@@ -438,7 +438,7 @@ Il capoverso 4 non è applicabile alle riserve da apporti di capitale:
 [^20-4]: Nuovo testo giusta il n. I 1 della LF del 17 dic. 2010 sull’imposizione delle partecipazioni di collaboratore, in vigore dal 1° gen. 2013 ([RU 2011 3259](https://fedlex.data.admin.ch/eli/oc/2011/427); [FF 2005 495](https://fedlex.data.admin.ch/eli/fga/2005/88)).
 [^20-5]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
 [^20-6]: Nuovo testo giusta l’all. n. II 6 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^20-7]: Introdotto dal n. II 2 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)). Nuovo testo giusta il n. I 2 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^20-7]: Introdotto dal n. II 2 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)). Nuovo testo giusta il n. I 2 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1 ° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^20-8]: Introdotto dal n. II 2 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)). Nuovo testo giusta il n. I 2 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^20-9]: Introdotto dal n. I 2 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^20-10]: Introdotto dal n. I 2 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
@@ -585,13 +585,30 @@ Sono tali segnatamente:
 - b. le perdite effettive sul patrimonio aziendale, se sono state allibrate;
 - c. i versamenti a istituzioni previdenziali in favore del personale, a condizione che sia esclusa qualsiasi utilizzazione contraria allo scopo.
 - d.[^27-1] gli interessi su debiti commerciali come pure gli interessi versati sulle partecipazioni i sensi dell’articolo 18 capoverso 2;
-- e.[^27-2] le spese di formazione e formazione continua professionali del personale, comprese le spese di riqualificazione.
+- e.[^27-2] le spese di formazione e formazione continua professionali del personale, comprese le spese di riqualificazione;
+- f.[^27-3] le sanzioni finalizzate al prelievo dell’utile illecito, nella misura in cui non abbiano carattere penale.
 
-<sup>3</sup> Non sono deducibili i versamenti di retribuzioni corruttive ai sensi del diritto penale svizzero fatti a pubblici ufficiali svizzeri o stranieri.[^27-3]
+<sup>3</sup>
+
+Non sono deducibili segnatamente:
+
+- a. i versamenti di retribuzioni corruttive ai sensi del diritto penale svizzero;
+- b. le spese finalizzate a rendere possibili reati o che costituiscono la controprestazione per la commissione di reati;
+- c. le multe e le pene pecuniarie;
+- d. le sanzioni pecuniarie amministrative, nella misura in cui abbiano carattere penale.[^27-4]
+
+<sup>4</sup>
+
+Se pronunciate da autorità penali o amministrative estere, le sanzioni di cui al capoverso 3 lettere c e d sono deducibili se:
+
+- a. sono contrarie all’ordine pubblico svizzero; o
+- b. il contribuente dimostra in modo plausibile di aver intrapreso tutto quanto si poteva ragionevolmente pretendere per conformarsi alla legge.[^27-5]
 
 [^27-1]: Introdotto dal n. I 5 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 2001 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
 [^27-2]: Abrogata dal n. I 1 della LF del 27 set. 2013 sul trattamento fiscale delle spese di formazione e perfezionamento professionali, con effetto dal 1° gen. 2016 ([RU 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2365](https://fedlex.data.admin.ch/eli/fga/2011/381)).
-[^27-3]: Introdotto dal n. I della LF del 22 dic. 1999 sulla deducibilità fiscale delle retribuzioni corruttive, in vigore dal 1° gen. 2001 ([RU 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [FF 1997 II 852](https://fedlex.data.admin.ch/eli/fga/1997/2_1008_929_852), IV 1072).
+[^27-3]: Introdotta dal n. I 1 della LF del 19 giu. 2020 sul trattamento fiscale delle sanzioni pecuniarie, in vigore dal 1° gen. 2022 ([RU 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 7575](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^27-4]: Introdotto dal n. I della LF del 22 dic. 1999 sulla deducibilità fiscale delle retribuzioni corruttive, in vigore dal 1° gen. 2001 ([RU 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [FF 1997 II 852](https://fedlex.data.admin.ch/eli/fga/1997/2_1008_929_852), IV 1072). Nuovo testo giusta il n. I 1 della LF del 19 giu. 2020 sul trattamento fiscale delle sanzioni pecuniarie, in vigore dal 1° gen. 2022 ([RU 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 7575](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^27-5]: Introdotto dal n. I 1 della LF del 19 giu. 2020 sul trattamento fiscale delle sanzioni pecuniarie, in vigore dal 1° gen. 2022 ([RU 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 7575](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
 
 #### Art. 28
 
@@ -1125,17 +1142,35 @@ Costituiscono utile netto imponibile:
 
 Gli oneri giustificati dall’uso commerciale comprendono anche:
 
-- a. le imposte federali, cantonali e comunali, ma non le multe fiscali;
+- a.[^59-1] le imposte federali, cantonali e comunali;
 - b. i versamenti a istituzioni di previdenza in favore del personale, in quanto sia esclusa ogni utilizzazione contraria allo scopo;
-- c.[^59-1] le prestazioni volontarie in contanti e in altri beni, fino a concorrenza del 20 per cento dell’utile netto, a persone giuridiche con sede in Svizzera che sono esentate dall’imposta in virtù del loro scopo pubblico o di utilità pubblica (art. 56 lett. g) nonché alla Confederazione, ai Cantoni, ai Comuni e ai loro stabilimenti (art. 56 lett. a–c);
+- c.[^59-2] le prestazioni volontarie in contanti e in altri beni, fino a concorrenza del 20 per cento dell’utile netto, a persone giuridiche con sede in Svizzera che sono esentate dall’imposta in virtù del loro scopo pubblico o di utilità pubblica (art. 56 lett. g) nonché alla Confederazione, ai Cantoni, ai Comuni e ai loro stabilimenti (art. 56 lett. a–c);
 - d. i ribassi, gli sconti, gli abbuoni e i rimborsi sulla rimunerazione di forniture e prestazioni, nonché le eccedenze che le società d’assicurazione destinano alla distribuzione agli assicurati;
-- e.[^59-2] le spese di formazione e formazione continua professionali del personale, comprese le spese di riqualificazione.
+- e.[^59-3] le spese di formazione e formazione continua professionali del personale, comprese le spese di riqualificazione;
+- f.[^59-4] le sanzioni finalizzate al prelievo dell’utile illecito, nella misura in cui non abbiano carattere penale.
 
-<sup>2</sup> Gli oneri giustificati dall’uso commerciale non comprendono i versamenti di retribuzioni corruttive ai sensi del diritto penale svizzero fatti a pubblici ufficiali svizzeri o stranieri.[^59-3]
+<sup>2</sup>
 
-[^59-1]: Nuovo testo giusta l’all. n. 3 della LF dell’8 ott. 2004 (diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
-[^59-2]: Introdotta dal n. I 1 della LF del 27 set. 2013 sul trattamento fiscale delle spese di formazione e perfezionamento professionali, in vigore dal 1° gen. 2016 ([RU 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2365](https://fedlex.data.admin.ch/eli/fga/2011/381)).
-[^59-3]: Introdotto dal n. I della LF del 22 dic. 1999 sulla deducibilità fiscale delle retribuzioni corruttive, in vigore dal 1° gen. 2001 ([RU 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [FF 1997 II 852](https://fedlex.data.admin.ch/eli/fga/1997/2_1008_929_852), IV 1072).
+Gli oneri giustificati dall’uso commerciale non comprendono segnatamente:
+
+- a. i versamenti di retribuzioni corruttive ai sensi del diritto penale svizzero;
+- b. le spese finalizzate a rendere possibili reati o che costituiscono la controprestazione per la commissione di reati;
+- c. le multe;
+- d. le sanzioni pecuniarie amministrative, nella misura in cui abbiano carattere penale.[^59-5]
+
+<sup>3</sup>
+
+Se pronunciate da autorità penali o amministrative estere, le sanzioni di cui al capoverso 2 lettere c e d sono deducibili se:
+
+- a. sono contrarie all’ordine pubblico svizzero; o
+- b. il contribuente dimostra in modo plausibile di aver intrapreso tutto quanto si poteva ragionevolmente pretendere per conformarsi alla legge.[^59-6]
+
+[^59-1]: Nuovo testo giusta il n. I 1 della LF del 19 giu. 2020 sul trattamento fiscale delle sanzioni pecuniarie, in vigore dal 1° gen. 2022 ([RU 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 7575](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^59-2]: Nuovo testo giusta l’all. n. 3 della LF dell’8 ott. 2004 (diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^59-3]: Introdotta dal n. I 1 della LF del 27 set. 2013 sul trattamento fiscale delle spese di formazione e perfezionamento professionali, in vigore dal 1° gen. 2016 ([RU 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2365](https://fedlex.data.admin.ch/eli/fga/2011/381)).
+[^59-4]: Introdotta dal n. I 1 della LF del 19 giu. 2020 sul trattamento fiscale delle sanzioni pecuniarie, in vigore dal 1° gen. 2022 ([RU 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 7575](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^59-5]: Introdotto dal n. I della LF del 22 dic. 1999 sulla deducibilità fiscale delle retribuzioni corruttive ([RU 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [FF 1997 II 852](https://fedlex.data.admin.ch/eli/fga/1997/2_1008_929_852), IV 1072). Nuovo testo giusta il n. I 1 della LF del 19 giu. 2020 sul trattamento fiscale delle sanzioni pecuniarie, in vigore dal 1° gen. 2022 ([RU 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 7575](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^59-6]: Introdotto dal n. I 1 della LF del 19 giu. 2020 sul trattamento fiscale delle sanzioni pecuniarie, in vigore dal 1° gen. 2022 ([RU 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 7575](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
 
 #### Art. 60
 
@@ -1903,7 +1938,7 @@ Chiunque, nell’esecuzione della presente legge, deve prendere una decisione o 
 
 <sup>1</sup> L’AFC gestisce, per l’adempimento dei compiti in virtù della presente legge, un sistema d’informazione. Quest’ultimo può contenere dati personali degni di particolare protezione riguardanti sanzioni amministrative e penali rilevanti in materia fiscale.
 
-<sup>1bis</sup> Per adempiere i loro compiti legali, l’AFC e le autorità di cui all’articolo 111 sono autorizzate a utilizzare sistematicamente il numero d’assicurato dell’assicurazione per la vecchiaia e per i superstiti conformemente alle disposizioni della LAVS[^112a-2].[^112a-3]
+<sup>1bis</sup> …[^112a-2]
 
 <sup>2</sup> L’AFC e le autorità di cui all’articolo 111 si trasmettono i dati che possono essere utili per l’adempimento dei loro compiti. Le autorità di cui all’articolo 112 trasmettono alle autorità incaricate dell’esecuzione della presente legge i dati che possono essere importanti per l’esecuzione della presente legge.
 
@@ -1922,13 +1957,12 @@ Devono essere trasmessi tutti i dati dei contribuenti che possono servire alla t
 
 <sup>6</sup> Il Consiglio federale può emanare disposizioni d’esecuzione, concernenti in particolare l’organizzazione e la gestione del sistema d’informazione, le categorie dei dati da rilevare, il diritto d’accesso e di trattamento, la durata di conservazione, l’archiviazione e la distruzione dei dati.
 
-<sup>7</sup> Se gli uffici federali non si accordano in merito alla comunicazione dei dati, il Consiglio federale decide definitivamente. In tutti gli altri casi, decide il Tribunale federale conformemente alla procedura prevista dall’articolo 120 della legge del 17 giugno 2005[^112a-4] sul Tribunale federale.[^112a-5]
+<sup>7</sup> Se gli uffici federali non si accordano in merito alla comunicazione dei dati, il Consiglio federale decide definitivamente. In tutti gli altri casi, decide il Tribunale federale conformemente alla procedura prevista dall’articolo 120 della legge del 17 giugno 2005[^112a-3] sul Tribunale federale.[^112a-4]
 
 [^112a-1]: Introdotto dal n. VI 3 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
-[^112a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^112a-3]: Introdotto dall’all. n. 5 della LF del 23 giu. 2006 (nuovo numero d’assicurato dell’AVS) ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)). Nuovo testo giusta il n. I 1 della LF del 16 dic. 2016 sulla revisione dell’imposizione alla fonte del reddito da attività lucrativa, in vigore dal 1° gen. 2021 ([RU 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 603](https://fedlex.data.admin.ch/eli/fga/2015/56)).
-[^112a-4]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^112a-5]: Nuovo testo del per. giusta l’all. n. 57 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)1096; [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^112a-2]: Introdotto dall’all. n. 5 della LF del 23 giu. 2006 (nuovo numero d’assicurato dell’AVS) ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)). Abrogato dall’all. n. 19 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^112a-3]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^112a-4]: Nuovo testo del per. giusta l’all. n. 57 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)1096; [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Capitolo 2: Situazione procedurale dei coniugi
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 14 décembre 1990 sur l'impôt fédéral direct (LIFD)
 short: LIFD
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184"
 language: fr
-version: 2021-07-01
+version: 2022-01-01
 adopted: 1990-12-14
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20210701/fr"
 
 (LIFD)
 
-du 14 décembre 1990 (Etat le 1<sup>er</sup> juillet 2021)
+du 14 décembre 1990 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -520,7 +520,7 @@ Sont exonérés de l’impôt:
 - i.[^24-3] les gains provenant des jeux de casino exploités dans les maisons de jeu et autorisés par la loi fédérale du 29 septembre 2017 sur les jeux d’argents (LJAr)[^24-4], pour autant que ces gains ne soient pas issus d’une activité lucrative indépendante;
 - i<sup>bis</sup>.[^24-5] les gains unitaires jusqu’à concurrence d’un montant d’un million de francs provenant de la participation à un jeu de grande envergure autorisé par la LJAr et de la participation en ligne à des jeux de casino autorisés par la LJAr;
 - i<sup>ter</sup>.[^24-6] les gains provenant d’un jeu de petite envergure autorisé par la LJAr;
-- j.[^24-7] les gains unitaires jusqu’à concurrence de 1000 francs provenant d’un jeu d’adresse ou d’une loterie destinés à promouvoir les ventes qui ne sont pas soumis à la LJAr selon l’art. 1, al. 2, let. d et e de cette loi.
+- j.[^24-7] les gains unitaires jusqu’à concurrence de 1000 francs provenant d’un jeu d’adresse ou d’une loterie destinés à promouvoir les ventes qui ne sont pas soumis à la LJAr selon l’art. 1, al. 2, let. d et e de cette loi;
 - k.[^24-8] les revenus perçus en vertu de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés[^24-9].
 
 [^24-1]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> oct. 1996 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
@@ -581,13 +581,30 @@ Font notamment partie de ces frais:
 - b. les pertes effectives sur des éléments de la fortune commerciale, à condition qu’elles aient été comptabilisées;
 - c. les versements à des institutions de prévoyance en faveur du personnel de l’entreprise, à condition que toute utilisation contraire à leur but soit exclue;
 - d.[^27-1] les intérêts des dettes commerciales ainsi que les intérêts versés sur les participations visées à l’art. 18, al. 2;
-- e.[^27-2] les frais de formation et de formation continue à des fins professionnelles du personnel de l’entreprise, frais de reconversion compris.
+- e.[^27-2] les frais de formation et de formation continue à des fins professionnelles du personnel de l’entreprise, frais de reconversion compris;
+- f.[^27-3] les sanctions visant à réduire le bénéfice, dans la mesure où elles n’ont pas de caractère pénal.
 
-<sup>3</sup> Les commissions occultes, au sens du droit pénal suisse, versées à des agents publics suisses ou étrangers, ne sont pas déductibles.[^27-3]
+<sup>3</sup>
+
+Ne sont notamment pas déductibles:
+
+- a. les versements de commissions occultes au sens du droit pénal suisse;
+- b. les dépenses qui permettent la commission d’infractions ou qui constituent la contrepartie à la commission d’infractions;
+- c. les amendes et les peines pécuniaires;
+- d. les sanctions financières administratives, dans la mesure où elles ont un caractère pénal.[^27-4]
+
+<sup>4</sup>
+
+Si des sanctions au sens de l’al. 3, let. c et d, ont été prononcées par une autorité pénale ou administrative étrangère, elles sont déductibles si:
+
+- a. la sanction est contraire à l’ordre public suisse, ou si
+- b. le contribuable peut démontrer de manière crédible qu’il a entrepris tout ce qui est raisonnablement exigible pour se comporter conformément au droit.[^27-5]
 
 [^27-1]: Introduite par le ch. I 5 de la LF du 19 mars 1999 sur le programme de stabilisation 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
 [^27-2]: Introduite par le ch. I 1 de la LF du 27 sept. 2013 sur l’imposition des frais de formation et de perfectionnement à des fins professionnelles, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2429](https://fedlex.data.admin.ch/eli/fga/2011/381)).
-[^27-3]: Introduit par le ch. I de la LF du 22 déc. 1999 sur l’interdiction de déduire fiscalement les commissions occultes, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [FF 1997 II 929](https://fedlex.data.admin.ch/eli/fga/1997/2_1008_929_852), IV 1195).
+[^27-3]: Introduite par le ch. I 1 de la LF du 19 juin 2020 sur le traitement fiscal des sanctions financières, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 8253](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^27-4]: Introduit par le ch. I de la LF du 22 déc. 1999 sur l’interdiction de déduire fiscalement les commissions occultes ([RO 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [FF 1997 II 929](https://fedlex.data.admin.ch/eli/fga/1997/2_1008_929_852), IV 1195). Nouvelle teneur selon le ch. I 1 de la LF du 19 juin 2020 sur le traitement fiscal des sanctions financières, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 8253](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^27-5]: Introduit par le ch. I 1 de la LF du 19 juin 2020 sur le traitement fiscal des sanctions financières, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 8253](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
 
 #### Art. 28
 
@@ -914,7 +931,7 @@ Lorsque le revenu comprend des versements de capitaux remplaçant des prestation
 [^39-1]: Nouvelle teneur selon le ch. I de LF du 25 sept. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 453](https://fedlex.data.admin.ch/eli/oc/2010/59); [FF 2009 1415](https://fedlex.data.admin.ch/eli/fga/2009/362)).
 [^39-2]: Abrogé par le ch. I de LF du 25 sept. 2009, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 453](https://fedlex.data.admin.ch/eli/oc/2010/59); [FF 2009 1415](https://fedlex.data.admin.ch/eli/fga/2009/362)).
 
-### Titre 3 Imposition dans le temps
+### Titre 3**** Imposition dans le temps
 
 [^part2-tit3-1]
 
@@ -1122,17 +1139,35 @@ Le bénéfice net imposable comprend:
 
 Les charges justifiées par l’usage commercial comprennent également:
 
-- a. les impôts fédéraux, cantonaux et communaux, mais non les amendes fiscales;
+- a.[^59-1] les impôts fédéraux, cantonaux et communaux;
 - b. les versements à des institutions de prévoyance en faveur du personnel de l’entreprise, à condition que toute utilisation contraire à leur but soit exclue;
-- c.[^59-1] les dons en espèces et sous forme d’autres valeurs patrimoniales, jusqu’à concurrence de 20 % du bénéfice net, en faveur de personnes morales qui ont leur siège en Suisse et sont exonérées de l’impôt en raison de leurs buts de service public ou d’utilité publique (art. 56, let. g) ou en faveur de la Confédération, des cantons, des communes et de leurs établissements (art. 56, let. a à c);
+- c.[^59-2] les dons en espèces et sous forme d’autres valeurs patrimoniales, jusqu’à concurrence de 20 % du bénéfice net, en faveur de personnes morales qui ont leur siège en Suisse et sont exonérées de l’impôt en raison de leurs buts de service public ou d’utilité publique (art. 56, let. g) ou en faveur de la Confédération, des cantons, des communes et de leurs établissements (art. 56, let. a à c);
 - d. les rabais, escomptes, bonifications et ristournes accordés sur la contre-valeur de livraisons et de prestations, ainsi que les parts de bénéfice des compagnies d’assurances destinées à être réparties entre les assurés;
-- e.[^59-2] les frais de formation et de formation continue à des fins professionnelles du personnel de l’entreprise, frais de reconversion compris.
+- e.[^59-3] les frais de formation et de formation continue à des fins professionnelles du personnel de l’entreprise, frais de reconversion compris;
+- f.[^59-4] les sanctions visant à réduire le bénéfice, dans la mesure où elles n’ont pas de caractère pénal.
 
-<sup>2</sup> Les commissions occultes, au sens du droit pénal suisse, versées à des agents publics suisses ou étrangers, ne font pas partie des charges justifiées par l’usage commercial.[^59-3]
+<sup>2</sup>
 
-[^59-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 8 oct. 2004 (Droit des fondations), en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
-[^59-2]: Introduite par le ch. I 1 de la LF du 27 sept. 2013 sur l’imposition des frais de formation et de perfectionnement à des fins professionnelles, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2429](https://fedlex.data.admin.ch/eli/fga/2011/381)).
-[^59-3]: Introduit par le ch. I de la LF du 22 déc. 1999 sur l’interdiction de déduire fiscalement les commissions occultes, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [FF 1997 II 929](https://fedlex.data.admin.ch/eli/fga/1997/2_1008_929_852), IV 1195).
+Ne font notamment pas partie des charges justifiées par l’usage commercial:
+
+- a. les versements de commissions occultes au sens du droit pénal suisse;
+- b. les dépenses qui permettent la commission d’infractions ou qui constituent la contrepartie à la commission d’infractions;
+- c. les amendes;
+- d. les sanctions financières administratives, dans la mesure où elles ont un caractère pénal.[^59-5]
+
+<sup>3</sup>
+
+Si des sanctions au sens de l’al. 2, let. c et d, ont été prononcées par une autorité pénale ou administrative étrangère, elles sont déductibles si:
+
+- a. la sanction est contraire à l’ordre public suisse, ou si
+- b. le contribuable peut démontrer de manière crédible qu’il a entrepris tout ce qui est raisonnablement exigible pour se comporter conformément au droit.[^59-6]
+
+[^59-1]: Nouvelle teneur selon le ch. I 1 de la LF du 19 juin 2020 sur le traitement fiscal des sanctions financières, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 8253](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^59-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 8 oct. 2004 (Droit des fondations), en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^59-3]: Introduite par le ch. I 1 de la LF du 27 sept. 2013 sur l’imposition des frais de formation et de perfectionnement à des fins professionnelles, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2429](https://fedlex.data.admin.ch/eli/fga/2011/381)).
+[^59-4]: Introduite par le ch. I 1 de la LF du 19 juin 2020 sur le traitement fiscal des sanctions financières, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 8253](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^59-5]: Introduit par le ch. I de la LF du 22 déc. 1999 sur l’interdiction de déduire fiscalement les commissions occultes ([RO 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [FF 1997 II 929](https://fedlex.data.admin.ch/eli/fga/1997/2_1008_929_852), IV 1195). Nouvelle teneur selon le ch. I 1 de la LF du 19 juin 2020 sur le traitement fiscal des sanctions financières, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 8253](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^59-6]: Introduit par le ch. I 1 de la LF du 19 juin 2020 sur le traitement fiscal des sanctions financières, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 8253](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
 
 #### Art. 60
 
@@ -1353,7 +1388,7 @@ En ce qui concerne les sociétés mères de banques d’importance systémique a
 
 [^71-1]: Nouvelle teneur selon le ch. I 1 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 
-### Section 4 Placements collectifs de capitaux
+### Section 4**** Placements collectifs de capitaux
 
 [^part3-tit2-chap2-sec4-1]
 
@@ -1527,7 +1562,7 @@ Les personnes imposées à la source en vertu de l’art. 83, al. 1, sont soumis
 
 [^90-1]: Abrogé par le ch. I 1 de la LF du 16 déc. 2016 sur la révision de l’imposition à la source du revenu de l’activité lucrative, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 625](https://fedlex.data.admin.ch/eli/fga/2015/56)).
 
-### Titre 2 Personnes physiques qui ne sont ni domiciliées ni en séjour en Suisse au regard du droit fiscal et personnes morales qui n’ont ni leur siège ni leur administration effective en Suisse
+### Titre 2 Personnes physiques qui ne sont ni domiciliées ni en séjour en Suisse au regard du droit fiscal et personnes morales qui n’ont ni leur siège ni leur administration effective en Suisse****
 
 [^part4-tit2-1]
 
@@ -1737,7 +1772,7 @@ L’AFC peut notamment:
 
 ### Chapitre 2 Autorités cantonales
 
-### Section 1 Organisation et surveillance
+### Section 1 Organisation et surveillance****
 
 [^part5-tit1-chap2-sec1-1]
 
@@ -1900,7 +1935,7 @@ Toute personne appelée à prendre une décision ou à participer de manière d�
 
 <sup>1</sup> L’AFC gère, pour l’accomplissement des tâches qui lui incombent en vertu de la présente loi, un système d’information. Celui-ci peut contenir des données sensibles portant sur des sanctions administratives ou pénales importantes en matière fiscale.
 
-<sup>1bis</sup> L’AFC et les autorités visées à l’art. 111 sont habilitées à utiliser systématiquement le numéro d’assuré AVS pour l’accomplissement de leurs tâches légales, conformément à la LAVS[^112a-2].[^112a-3]
+<sup>1bis</sup> …[^112a-2]
 
 <sup>2</sup> L’AFC et les autorités citées à l’art. 111 échangent les données qui peuvent être utiles à l’accomplissement de leurs tâches. Les autorités citées à l’art. 112 communiquent aux autorités chargées de l’exécution de la présente loi les données qui peuvent être importantes pour son exécution.
 
@@ -1919,13 +1954,12 @@ Est obligatoire la communication de toutes les données qui peuvent servir à la
 
 <sup>6</sup> Le Conseil fédéral peut édicter des dispositions d’exécution portant notamment sur l’organisation et la gestion du système d’information, les catégories de données à saisir, l’accès aux données ainsi que les autorisations de traitement, la durée de conservation, l’archivage et la destruction des données.
 
-<sup>7</sup> Le Conseil fédéral statue définitivement sur les contestations entre les offices fédéraux portant sur la communication de données. Dans les autres cas, le Tribunal fédéral tranche conformément à l’art. 120 de la loi du 17 juin 2005 sur le Tribunal fédéral[^112a-4].[^112a-5]
+<sup>7</sup> Le Conseil fédéral statue définitivement sur les contestations entre les offices fédéraux portant sur la communication de données. Dans les autres cas, le Tribunal fédéral tranche conformément à l’art. 120 de la loi du 17 juin 2005 sur le Tribunal fédéral[^112a-3].[^112a-4]
 
 [^112a-1]: Introduit par le ch. VI 3 de la LF du 24 mars 2000 sur la création et l’adaptation de bases légales concernant le traitement de données personnelles, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 8381](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
-[^112a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^112a-3]: Introduit par l’annexe ch. 5 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS) ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)). Nouvelle teneur selon le ch. I 1 de la LF du 16 déc. 2016 sur la révision de l’imposition à la source du revenu de l’activité lucrative, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 625](https://fedlex.data.admin.ch/eli/fga/2015/56)).
-[^112a-4]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^112a-5]: Nouvelle teneur de la phrase selon l’annexe ch. 57 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1069](https://fedlex.data.admin.ch/eli/oc/2006/188)[2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^112a-2]: Introduit par l’annexe ch. 5 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS) ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)). Abrogé par l’annexe ch. 19 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^112a-3]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^112a-4]: Nouvelle teneur de la phrase selon l’annexe ch. 57 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1069](https://fedlex.data.admin.ch/eli/oc/2006/188)[2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Chapitre 2 Situation des époux dans la procédure
 
@@ -3221,7 +3255,7 @@ L’art. 47, al. 2, de la loi fédérale du 20 septembre 1949 sur l’assurance 
 
 **Modification de la LAVS**
 
-### …
+### …**
 
 [^203-subdiv-1]
 
@@ -3389,7 +3423,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> janvier 1995[^222-2]
 [^222-1]: Abrogé par le ch. I 1 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, avec effet au 1<sup>er</sup> janv. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 [^222-2]: ACF du 3 juin 1991
 
-## Dispositions finales de la modification du 8 octobre 2004
+## Dispositions finales de la modification du 8 octobre 2004****
 
 [^u1-1]
 
