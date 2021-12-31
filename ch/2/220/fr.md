@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 mars 1911 complétant le Code civil suisse (Livre c
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: fr
-version: 2021-07-01
+version: 2022-01-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20220101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210701/fr"
 
 (Livre cinquième: Droit des obligations)
 
-du 30 mars 1911 (Etat le 1<sup>er</sup> juillet 2021)
+du 30 mars 1911 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -440,13 +440,17 @@ Les dispositions ci-après sont applicables aux contrats portant sur des choses 
 - a. le fournisseur de biens ou de services a agi dans le cadre d’une activité professionnelle ou commerciale et que
 - b. la prestation de l’acquéreur dépasse 100 francs.
 
-<sup>2</sup> Ces dispositions ne sont applicables ni aux contrats d’assurance ni aux actes juridiques conclus par des établissements financiers ou par des banques dans le cadre de contrats de prestations financières existants au sens de la loi fédérale du 15 juin 2018 sur les services financiers[^40a-2].[^40a-3]
+<sup>2</sup> Ces dispositions ne sont pas applicables aux actes juridiques conclus par des établissements financiers ou par des banques dans le cadre de contrats de prestations financières existants au sens de la loi fédérale du 15 juin 2018 sur les services financiers[^40a-2].[^40a-3]
+
+<sup>2bis</sup> Pour les contrats d’assurance, les dispositions de la loi du 2 avril 1908 sur le contrat d’assurance[^40a-4] sont applicables.[^40a-5]
 
 <sup>3</sup> En cas de modification importante du pouvoir d’achat de la monnaie, le Conseil fédéral adapte en conséquence le montant indiqué à l’al. 1, let. b.
 
 [^40a-1]: Introduit par le ch. I de la LF du 5 oct. 1990, en vigueur depuis le 1<sup>er</sup> juil. 1991 ([RO 1991 846](https://fedlex.data.admin.ch/eli/oc/1991/846_846_846); [FF 1986 II 360](https://fedlex.data.admin.ch/eli/fga/1986/2_354_360_231)).
 [^40a-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^40a-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 15 juin 2018 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^40a-3]: Nouvelle teneur selon le ch. II de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); FF **20****1****7** 4767).
+[^40a-4]: RS **2****2****1.229.1**
+[^40a-5]: Introduit par le ch. II de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### II. Principe
 
@@ -14362,13 +14366,14 @@ L’inscription d’une raison de commerce au registre ne libère pas l’ayant 
 
 <sup>2</sup> Celui qui subit un préjudice du fait de l’usage indu d’une raison de commerce peut demander au juge d’y mettre fin et, s’il y a faute, réclamer des dommages-intérêts.
 
-### Titre trente-deuxième:**** De la comptabilité commerciale et de la présentation des comptes
+### Titre trente-deuxième:**** De la comptabilité commerciale, de la présentation des comptes, des autres devoirs de transparence et de diligence****
 
-[^part4-tit32-1]
+[^part4-tit32-1][^part4-tit32-2]
 
 [^part4-tit32-1]: Nouvelle teneur selon le ch. I 2 de la LF du 23 déc. 2011 (Droit comptable), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1407](https://fedlex.data.admin.ch/eli/fga/2008/416)). Voir aussi les disp. trans. à la fin du texte.
+[^part4-tit32-2]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Contre-projet indirect à l’initiative populaire «Entreprises responsables – pour protéger l’être humain et l’environnement»), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### Chapitre I: Dispositions générales
+### Chapitre 1: Dispositions générales
 
 ### A. Obligation de tenir une comptabilité et de présenter des comptes
 
@@ -14917,15 +14922,92 @@ Dans les cas suivants, l’entreprise reste tenue d’établir des comptes conso
 
 [^964-1]: Abrogé par le ch. I de la LF du 22 déc. 1999, avec effet au 1<sup>er</sup> juin 2002 ([RO 2002 949](https://fedlex.data.admin.ch/eli/oc/2002/170); [FF 1999 4753](https://fedlex.data.admin.ch/eli/fga/1999/1_5149_4753_4457)).
 
-### Chapitre VI:**** Transparence dans les entreprises de matières premières
+### Chapitre VI:**** Transparence sur les questions non financières
 
 [^part4-tit32-chap6-1]
 
-[^part4-tit32-chap6-1]: Introduit par le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)). Voir l’art. 7 des disp. trans. de cette mod. à la fin du texte.
+[^part4-tit32-chap6-1]: Introduit par les ch. I et III 1 de la LF du 19 juin 2020 (Contre-projet indirect à l’initiative populaire «Entreprises responsables – pour protéger l’être humain et l’environnement»), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 
 ### A. Principe
 
 #### Art. 964a
+
+<sup>1</sup>
+
+Les entreprises rédigent annuellement un rapport sur les questions non financières lorsqu’elles:
+
+- 1\. sont des sociétés d’intérêt public au sens de l’art. 2, let. c, de la loi du 16 décembre 2005 sur la surveillance de la révision[^964a-1];
+- 2\. atteignent au cours de deux exercices consécutifs, conjointement avec une ou plusieurs entreprises suisses ou étrangères qu’elles contrôlent, un effectif de 500 emplois à plein temps au moins en moyenne annuelle, et
+- 3\.
+
+  dépassent au cours de deux exercices consécutifs, conjointement avec une ou plusieurs entreprises suisses ou étrangères qu’elles contrôlent, au moins une des valeurs suivantes:
+
+  - a. total du bilan: 20 millions de francs,
+  - b. chiffre d’affaires: 40 millions de francs.
+
+<sup>2</sup>
+
+Sont libérées de cette obligation, les entreprises qui sont contrôlées par une autre entreprise:
+
+- 1\. à laquelle l’al. 1 est applicable, ou
+- 2\. qui doit établir un rapport équivalent en vertu du droit étranger.
+
+[^964a-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+
+### B. But et contenu du rapport
+
+#### Art. 964b
+
+<sup>1</sup> Le rapport sur les questions non financières rend compte des questions environnementales, notamment des objectifs en matière de CO<sub>2</sub>, des questions sociales, des questions de personnel, du respect des droits de l’homme et de la lutte contre la corruption. Le rapport contient les informations qui sont nécessaires pour comprendre l’évolution des affaires, la performance et la situation de l’entreprise ainsi que les incidences de son activité sur ces questions.
+
+<sup>2</sup>
+
+Ce rapport comprend notamment:
+
+- 1\. une description du modèle commercial de l’entreprise;
+- 2\. une description des concepts appliqués en ce qui concerne les questions mentionnées à l’al. 1, y compris les procédures de diligence mises en œuvre;
+- 3\. une description des mesures prises en application de ces concepts ainsi qu’une évaluation de l’efficacité de ces mesures;
+- 4\.
+
+  une description des principaux risques liés aux questions mentionnées à l’al. 1 et la manière dont l’entreprise gère ces risques; les risques déterminants sont:
+
+  - a. ceux qui découlent de l’activité propre de l’entreprise, et
+  - b. lorsque cela s’avère pertinent et proportionné, ceux qui découlent de ses relations d’affaires, de ses produits ou de ses services;
+
+- 5\. les indicateurs clés de performance dans les domaines mentionnés à l’al. 1, qui sont déterminants pour l’activité de l’entreprise.
+
+<sup>3</sup> Si le rapport se base sur des réglementations nationales, européennes ou internationales, comme les principes directeurs de l’Organisation de coopération et de développement économiques (OCDE), la réglementation applicable doit être mentionnée dans le rapport. En cas d’application d’une de ces réglementations, l’entreprise doit veiller à ce que les exigences du présent article soient remplies. Le cas échéant, elle doit rédiger un rapport supplémentaire.
+
+<sup>4</sup> Lorsqu’une entreprise contrôle, seule ou conjointement avec d’autres entreprises, une ou plusieurs entreprises suisses ou étrangères, le rapport s’étend à l’ensemble de ces entreprises.
+
+<sup>5</sup> Lorsque l’entreprise n’applique pas de concept en ce qui concerne une ou plusieurs des questions mentionnées à l’al. 1, elle intègre dans le rapport une explication claire et motivée des raisons le justifiant.
+
+<sup>6</sup> Le rapport est rédigé dans une langue nationale ou en anglais.
+
+### C. Approbation, publication, tenue et conservation
+
+#### Art. 964c
+
+<sup>1</sup> Le rapport sur les questions non financières doit être approuvé et signé par l’organe suprême de direction ou d’administration, et approuvé par l’organe compétent pour l’approbation des comptes annuels.
+
+<sup>2</sup>
+
+L’organe suprême de direction ou d’administration veille à ce que le rapport:
+
+- 1\. soit publié par voie électronique immédiatement après son approbation;
+- 2\. reste accessible au public pendant au moins dix ans.
+
+<sup>3</sup> L’art. 958*f* s’applique par analogie à la tenue et à la conservation des rapports.
+
+### Chapitre VII:**** Devoirs de diligence et de transparence en matière de minerais et de métaux provenant de zones de conflit et en matière de travail des enfants
+
+[^part4-tit32-chap7-1]
+
+[^part4-tit32-chap7-1]: Anciennement chap. VI, art. 964*a* à 964*f*. Introduit par le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)). Voir l’art. 7 des disp. trans. de cette mod. à la fin du texte.
+
+### A. Principe
+
+#### Art. 964d
 
 <sup>1</sup> Les entreprises que la loi soumet au contrôle ordinaire et qui sont, directement ou indirectement, actives dans la production de minerais, de pétrole ou de gaz naturel ou dans l’exploitation de forêts primaires, doivent établir chaque année un rapport sur les paiements effectués au profit de gouvernements.
 
@@ -14939,7 +15021,7 @@ Dans les cas suivants, l’entreprise reste tenue d’établir des comptes conso
 
 ### B. Types de prestations
 
-#### Art. 964b
+#### Art. 964e
 
 <sup>1</sup>
 
@@ -14957,7 +15039,7 @@ Les paiements effectués au profit de gouvernements peuvent l’être en espèce
 
 ### C. Forme et contenu du rapport
 
-#### Art. 964c
+#### Art. 964f
 
 <sup>1</sup> Le rapport sur les paiements effectués au profit de gouvernements ne rend compte que des paiements provenant des activités de production de minerais, de pétrole ou de gaz naturel ou d’exploitation de forêts primaires.
 
@@ -14969,7 +15051,7 @@ Les paiements effectués au profit de gouvernements peuvent l’être en espèce
 
 ### D. Publication
 
-#### Art. 964d
+#### Art. 964g
 
 <sup>1</sup> Le rapport sur les paiements effectués au profit de gouvernements est publié par voie électronique dans un délai de six mois à compter de la fin de l’exercice.
 
@@ -14979,15 +15061,75 @@ Les paiements effectués au profit de gouvernements peuvent l’être en espèce
 
 ### E. Tenue et conservation
 
-#### Art. 964e
+#### Art. 964h
 
 L’art. 958*f* s’applique par analogie à la tenue et à la conservation du rapport sur les paiements effectués au profit de gouvernements.
 
 ### F. Extension du champ d’application
 
-#### Art. 964f
+#### Art. 964i
 
-Le Conseil fédéral peut, dans le cadre d’une procédure harmonisée à l’échelle internationale, décider que les obligations visées aux art. 964*a* à 964*e* s’appliquent également aux entreprises actives dans le négoce de matières premières.
+Le Conseil fédéral peut, dans le cadre d’une procédure harmonisée à l’échelle internationale, décider que les obligations visées aux art. 964*d* à 964*h* s’appliquent également aux entreprises actives dans le négoce de matières premières.
+
+### Chapitre VIII:**** Devoirs de diligence et de transparence en matière de minerais et de métaux provenant de zones de conflit et en matière de travail des enfants
+
+[^part4-tit32-chap8-1]
+
+[^part4-tit32-chap8-1]: Introduit par les ch. I et III 1 de la LF du 19 juin 2020 (Contre-projet indirect à l’initiative populaire «Entreprises responsables – pour protéger l’être humain et l’environnement»), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+
+### A. Principe
+
+#### Art. 964j
+
+<sup>1</sup>
+
+Les entreprises, dont le siège, l’administration centrale ou l’établissement principal se trouve en Suisse, doivent respecter les devoirs de diligence dans la chaîne d’approvisionnement et en rendre compte dans un rapport, lorsqu’elles:
+
+- 1\. mettent en libre circulation en Suisse ou traitent en Suisse des minerais ou des métaux contenant de l’étain, du tantale, du tungstène ou de l’or, provenant de zones de conflit ou de zones à haut risque, ou
+- 2\. offrent des biens ou des services pour lesquels il existe un soupçon fondé de recours au travail des enfants.
+
+<sup>2</sup> Le Conseil fédéral détermine les volumes annuels d’importation de minerais et de métaux jusqu’auxquels les entreprises sont libérées des devoirs de diligence et de rapport.
+
+<sup>3</sup> Il détermine les conditions auxquelles les petites et moyennes entreprises et les entreprises qui présentent de faibles risques dans le domaine du travail des enfants ne sont pas tenues d’examiner s’il existe un soupçon fondé de recours au travail des enfants.
+
+<sup>4</sup> Il détermine les conditions auxquelles les entreprises sont exemptées des devoirs de diligence et de rapport pour autant qu’elles respectent une réglementation internationalement reconnue et équivalente, comme les principes directeurs de l’OCDE.
+
+### B. Devoirs de diligence
+
+#### Art. 964k
+
+<sup>1</sup>
+
+Les entreprises mettent en place un système de gestion et définissent les éléments suivants:
+
+- 1\. leur politique relative à la chaîne d’approvisionnement en minerais et en métaux provenant potentiellement de zones de conflit ou de zones à haut risque;
+- 2\. leur politique relative à la chaîne d’approvisionnement pour les produits ou services pour lesquels il existe un soupçon fondé de recours au travail des enfants;
+- 3\. un système qui permet d’établir une traçabilité de la chaîne d’approvisionnement.
+
+<sup>2</sup> Elles identifient et évaluent les risques d’effets néfastes dans leur chaîne d’approvisionnement. Elles élaborent un plan de gestion des risques et prennent des mesures en vue de réduire au minimum les risques constatés.
+
+<sup>3</sup> Le respect des devoirs de diligence en matière de minerais et de métaux fait l’objet d’une vérification par un expert indépendant.
+
+<sup>4</sup> Le Conseil fédéral édicte les prescriptions nécessaires; il tient compte des réglementations internationalement reconnues, comme les principes directeurs de l’OCDE.
+
+### C. Obligation de faire rapport
+
+#### Art. 964l
+
+<sup>1</sup> L’organe suprême de direction ou d’administration rapporte annuellement sur la mise en œuvre des devoirs de diligence.
+
+<sup>2</sup> Le rapport est rédigé dans une langue nationale ou en anglais.
+
+<sup>3</sup>
+
+L’organe suprême de direction ou d’administration veille à ce que le rapport:
+
+- 1\. soit publié par voie électronique dans les six mois suivant la fin de l’exercice;
+- 2\. reste accessible au public pendant au moins dix ans.
+
+<sup>4</sup> L’art. 958*f* s’applique par analogie à la tenue et à la conservation des rapports.
+
+<sup>5</sup> Les entreprises qui offrent des biens ou des services d’entreprises ayant établi un rapport ne sont pas tenues d’établir un rapport pour ces produits ou services.
 
 ## Cinquième partie: Des papiers-valeurs****
 
@@ -17682,7 +17824,7 @@ Le droit exclusif à la raison de commerce d’une société en nom collectif, d
 
 [^u8-1]
 
-[^u8-1]: Introduites par le ch. I 2 de la LF du 17 mars 2017 (Droit du registre du commerce), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 3255](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^u8-1]: [RO 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 3255](https://fedlex.data.admin.ch/eli/fga/2015/956)
 
 ### A. Règles générales
 
@@ -17787,7 +17929,7 @@ Les art. 4 à 8 s’appliquent aux sociétés qui n’ont pas de titres de parti
 
 [^u10-1]
 
-[^u10-1]: Introduites par le ch. III de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^u10-1]: [RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846)ch. III 1; [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)
 
 ### A. à C. ...
 
@@ -17817,25 +17959,33 @@ Les art. 4 à 8 s’appliquent aux sociétés qui n’ont pas de titres de parti
 
 #### Art. 7
 
-Les art. 964*a* à 964*e* sont applicables à compter de l’exercice qui commence une année après l’entrée en vigueur du nouveau droit.
+Les art. 964*d* à 964*h* sont applicables à compter de l’exercice qui commence une année après l’entrée en vigueur du nouveau droit.
 
-## Dispositions finales des titres huitième et huitième<sup>bis</sup> ****
+## Disposition transitoire de la modification du 19 juin 2020****
 
 [^u11-1]
 
-[^u11-1]: Introduites par le ch. II de la LF du 15 déc. 1989, en vigueur depuis le 1<sup>er</sup> juil. 1990 ([RO 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802): [FF 1985 I 1369](https://fedlex.data.admin.ch/eli/fga/1985/1_1389_1369_1201)).
+[^u11-1]: [RO 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)
+
+Les dispositions des chapitres VI et VIII du titre trente-deuxième sont applicables à compter de l’exercice qui commence une année après l’entrée en vigueur de la modification du 19 juin 2020.
+
+## Dispositions finales des titres huitième et huitième<sup>bis</sup> ****
+
+[^u12-1]
+
+[^u12-1]: Introduites par le ch. II de la LF du 15 déc. 1989, en vigueur depuis le 1<sup>er</sup> juil. 1990 ([RO 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802): [FF 1985 I 1369](https://fedlex.data.admin.ch/eli/fga/1985/1_1389_1369_1201)).
 
 #### Art. 1
 
-L’arrêté fédéral du 30 juin 1972[^u11-1-1] instituant des mesures contre les abus dans le secteur locatif est abrogé.
+L’arrêté fédéral du 30 juin 1972[^u12-1-1] instituant des mesures contre les abus dans le secteur locatif est abrogé.
 
-[^u11-1-1]: [[RO 1972 1531](https://fedlex.data.admin.ch/eli/oc/1972/1502_1531_1703), [1977 1269](https://fedlex.data.admin.ch/eli/oc/1977/1269_1269_1269), [1982 1234](https://fedlex.data.admin.ch/eli/oc/1982/1234_1234_1234), [1987 1189](https://fedlex.data.admin.ch/eli/oc/1987/1189_1189_1189)]
+[^u12-1-1]: [[RO 1972 1531](https://fedlex.data.admin.ch/eli/oc/1972/1502_1531_1703), [1977 1269](https://fedlex.data.admin.ch/eli/oc/1977/1269_1269_1269), [1982 1234](https://fedlex.data.admin.ch/eli/oc/1982/1234_1234_1234), [1987 1189](https://fedlex.data.admin.ch/eli/oc/1987/1189_1189_1189)]
 
 #### Art. 2 à 4
 
-...[^u11-24-1]
+...[^u12-24-1]
 
-[^u11-24-1]: Les mod. peuvent être consultées au [RO 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802).
+[^u12-24-1]: Les mod. peuvent être consultées au [RO 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802).
 
 #### Art. 5
 
@@ -17851,49 +18001,49 @@ L’arrêté fédéral du 30 juin 1972[^u11-1-1] instituant des mesures contre l
 
 ## Dispositions finales et transitoires du titre dixième****
 
-[^u12-1]
+[^u13-1]
 
-[^u12-1]: Introduites par le ch. II de la LF du 25 juin 1971, en vigueur depuis le 1<sup>er</sup> janv. 1972 ([RO 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1967 II 249](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)).
+[^u13-1]: Introduites par le ch. II de la LF du 25 juin 1971, en vigueur depuis le 1<sup>er</sup> janv. 1972 ([RO 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1967 II 249](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)).
 
 ### Modification du CO
 
 #### Art. 1
 
-...[^u12-1-1]
+...[^u13-1-1]
 
-[^u12-1-1]: Les mod. peuvent être consultées au [RO 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
+[^u13-1-1]: Les mod. peuvent être consultées au [RO 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
 
 ### Modification du CC
 
 #### Art. 2
 
-...[^u12-2-1]
+...[^u13-2-1]
 
-[^u12-2-1]: Les mod. peuvent être consultées au [RO 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
+[^u13-2-1]: Les mod. peuvent être consultées au [RO 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
 
 ### Modification de la loi sur le contrat d’assurance
 
 #### Art. 3
 
-...[^u12-3-1]
+...[^u13-3-1]
 
-[^u12-3-1]: Les mod. peuvent être consultées au [RO 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
+[^u13-3-1]: Les mod. peuvent être consultées au [RO 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
 
 ### Modification de la loi sur l’agriculture
 
 #### Art. 4
 
-...[^u12-4-1]
+...[^u13-4-1]
 
-[^u12-4-1]: Les mod. peuvent être consultées au [RO 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
+[^u13-4-1]: Les mod. peuvent être consultées au [RO 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
 
 ### Modification de la loi sur le travail
 
 #### Art. 5
 
-...[^u12-5-1]
+...[^u13-5-1]
 
-[^u12-5-1]: Les mod. peuvent être consultées au [RO 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
+[^u13-5-1]: Les mod. peuvent être consultées au [RO 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
 
 ### Abrogation de dispositions de droit fédéral
 
@@ -17902,29 +18052,29 @@ L’arrêté fédéral du 30 juin 1972[^u11-1-1] instituant des mesures contre l
 Sont abrogés dès l’entrée en vigueur de la présente loi:
 
 - 1\. les art. 159 et 463 du code des obligations;
-- 2\. l’art. 130 de la loi fédérale du 13 juin 1911 sur l’assurance en cas de maladie et d’accidents[^u12-6-1];
-- 3\. les art. 20 à 26, 28, 29 et 69, al. 2 et 5, de la loi fédérale du 18 juin 1914 sur le travail dans les fabriques[^u12-6-2];
-- 4\. les art. 4, 8, al. 1, 2 et 5, 9 et 19 de la loi fédérale du 12 décembre 1940 sur le travail à domicile[^u12-6-3];
-- 5\. la loi fédérale du 13 juin 1941 sur les conditions d’engagement des voyageurs de commerce[^u12-6-4];
-- 6\. la loi fédérale du 1<sup>e</sup><sup>r</sup> avril 1949 restreignant le droit de résilier un contrat de travail en cas de service militaire[^u12-6-5];
-- 7\. les art. 96 et 97 de la loi fédérale du 3 octobre 1951 sur l’amélioration de l’agriculture et le maintien de la population paysanne (loi sur l’agriculture)[^u12-6-6];
-- 8\. l’art. 32 de la loi fédérale du 25 septembre 1952 sur les allocations pour perte de gain en faveur des militaires et des personnes astreintes à servir dans l’organisation de la protection civile[^u12-6-7];
-- 9\. l’art. 19 de la loi fédérale du 28 septembre 1956 permettant d’étendre le champ d’application de la convention collective de travail[^u12-6-8];
-- 10\. l’art. 49 de la loi fédérale du 23 mars 1962 sur la protection civile[^u12-6-9];
-- 11\. les art. 20, al. 2, et 59 de la loi fédérale du 20 septembre 1963 sur la formation professionnelle[^u12-6-10];
-- 12\. les art. 64 et 72, al. 2, let. a*,* de la loi fédérale du 13 mars 1964 sur le travail dans l’industrie, l’artisanat et le commerce (loi sur le travail)[^u12-6-11].
+- 2\. l’art. 130 de la loi fédérale du 13 juin 1911 sur l’assurance en cas de maladie et d’accidents[^u13-6-1];
+- 3\. les art. 20 à 26, 28, 29 et 69, al. 2 et 5, de la loi fédérale du 18 juin 1914 sur le travail dans les fabriques[^u13-6-2];
+- 4\. les art. 4, 8, al. 1, 2 et 5, 9 et 19 de la loi fédérale du 12 décembre 1940 sur le travail à domicile[^u13-6-3];
+- 5\. la loi fédérale du 13 juin 1941 sur les conditions d’engagement des voyageurs de commerce[^u13-6-4];
+- 6\. la loi fédérale du 1<sup>e</sup><sup>r</sup> avril 1949 restreignant le droit de résilier un contrat de travail en cas de service militaire[^u13-6-5];
+- 7\. les art. 96 et 97 de la loi fédérale du 3 octobre 1951 sur l’amélioration de l’agriculture et le maintien de la population paysanne (loi sur l’agriculture)[^u13-6-6];
+- 8\. l’art. 32 de la loi fédérale du 25 septembre 1952 sur les allocations pour perte de gain en faveur des militaires et des personnes astreintes à servir dans l’organisation de la protection civile[^u13-6-7];
+- 9\. l’art. 19 de la loi fédérale du 28 septembre 1956 permettant d’étendre le champ d’application de la convention collective de travail[^u13-6-8];
+- 10\. l’art. 49 de la loi fédérale du 23 mars 1962 sur la protection civile[^u13-6-9];
+- 11\. les art. 20, al. 2, et 59 de la loi fédérale du 20 septembre 1963 sur la formation professionnelle[^u13-6-10];
+- 12\. les art. 64 et 72, al. 2, let. a*,* de la loi fédérale du 13 mars 1964 sur le travail dans l’industrie, l’artisanat et le commerce (loi sur le travail)[^u13-6-11].
 
-[^u12-6-1]: [RS **8** 283; [RO 1959 888](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876), [1964 961](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981), [1968 66](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 611, [1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)annexe ch. 4, [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196)[1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 1 [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114, [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091), [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 412, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 37, [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511). [RO 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)annexe ch. 1]
-[^u12-6-2]: [RS 821.41](https://fedlex.data.admin.ch/eli/cc/30/535_539_517)
-[^u12-6-3]: [RS **8** 231; [RO 1951 1239](https://fedlex.data.admin.ch/eli/oc/1951/1231_1239_1273)art. 14 al. 2, [1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)art. 68. [RO 1983 108](https://fedlex.data.admin.ch/eli/oc/1983/108_108_108)art. 21 ch. 3]
-[^u12-6-4]: [RS **2** 768; [RO 1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)art. 69]
-[^u12-6-5]: [RO **1949** II 1394]
-[^u12-6-6]: [[RO 1953 1095](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133), [1962 1185](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)art. 14, [1967 766](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760), [1968 92](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95), [1974 763](https://fedlex.data.admin.ch/eli/oc/1974/763_763_763), [1975 1088](https://fedlex.data.admin.ch/eli/oc/1975/1088_1088_1088),[1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 921 942 [931](https://fedlex.data.admin.ch/eli/oc/1977/931_931_931), [1979 2060](https://fedlex.data.admin.ch/eli/oc/1979/2058_2060_2060), [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 6, [1988 640](https://fedlex.data.admin.ch/eli/oc/1988/640_640_640),[1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 let. c,[1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 51 [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)appendice ch. 25 [2611](https://fedlex.data.admin.ch/eli/oc/1991/2611_2611_2611),[1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)art. 75 ch. 5 [1986](https://fedlex.data.admin.ch/eli/oc/1992/1986_1986_1986)art. 36 al. 1, [1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410)art. 92 ch. 4 [1571](https://fedlex.data.admin.ch/eli/oc/1993/1571_1571_1571)[2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)annexe ch. 11, [1994 28](https://fedlex.data.admin.ch/eli/oc/1994/28_28_28), [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)art. 59 ch. 3 [1837](https://fedlex.data.admin.ch/eli/oc/1995/1837_1837_1837)[3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)ch. I 2, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)annexe ch. 2,[1997 1187](https://fedlex.data.admin.ch/eli/oc/1997/1187_1187_1187)[1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190), [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 15; RS **2** 189 disp. fin. trans. tit. X, art. 6 ch. 7. [RO 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe let. c].
-[^u12-6-7]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050). Actuellement: LF sur les allocations pour perte de gain en cas de service et de maternité.
-[^u12-6-8]: [RS 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
-[^u12-6-9]: [[RO 1962 1127](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131), **1964** 423 art. 22 al. 2 let. b,[1968 81](https://fedlex.data.admin.ch/eli/oc/1968/81_81_83)[1065](https://fedlex.data.admin.ch/eli/oc/1968/1025_1065_981)art. 35, [1969 318](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319)ch. III, **1971** 751, [1978 50](https://fedlex.data.admin.ch/eli/oc/1978/50_50_50)[570](https://fedlex.data.admin.ch/eli/oc/1978/570_570_), [1985 1649](https://fedlex.data.admin.ch/eli/oc/1985/1649_1649_1649), [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)appendice ch. 7, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 22, [1993 3043](https://fedlex.data.admin.ch/eli/oc/1993/3043_3043_3043)annexe ch. 3. [RO 1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626)art. 71]
-[^u12-6-10]: [[RO 1965 325](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321), [1968 87](https://fedlex.data.admin.ch/eli/oc/1968/86_87_89), [1972 1709](https://fedlex.data.admin.ch/eli/oc/1972/1681_1709_1885), [1975 1078](https://fedlex.data.admin.ch/eli/oc/1975/1078_1078_1078)ch. III, [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 331. [RO 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687)art. 75]
-[^u12-6-11]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57). L’art. 64 a actuellement une nouvelle teneur.
+[^u13-6-1]: [RS **8** 283; [RO 1959 888](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876), [1964 961](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981), [1968 66](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 611, [1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)annexe ch. 4, [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196)[1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 1 [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114, [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091), [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 412, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 37, [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511). [RO 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)annexe ch. 1]
+[^u13-6-2]: [RS 821.41](https://fedlex.data.admin.ch/eli/cc/30/535_539_517)
+[^u13-6-3]: [RS **8** 231; [RO 1951 1239](https://fedlex.data.admin.ch/eli/oc/1951/1231_1239_1273)art. 14 al. 2, [1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)art. 68. [RO 1983 108](https://fedlex.data.admin.ch/eli/oc/1983/108_108_108)art. 21 ch. 3]
+[^u13-6-4]: [RS **2** 768; [RO 1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)art. 69]
+[^u13-6-5]: [RO **1949** II 1394]
+[^u13-6-6]: [[RO 1953 1095](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133), [1962 1185](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)art. 14, [1967 766](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760), [1968 92](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95), [1974 763](https://fedlex.data.admin.ch/eli/oc/1974/763_763_763), [1975 1088](https://fedlex.data.admin.ch/eli/oc/1975/1088_1088_1088),[1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 921 942 [931](https://fedlex.data.admin.ch/eli/oc/1977/931_931_931), [1979 2060](https://fedlex.data.admin.ch/eli/oc/1979/2058_2060_2060), [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 6, [1988 640](https://fedlex.data.admin.ch/eli/oc/1988/640_640_640),[1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 let. c,[1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 51 [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)appendice ch. 25 [2611](https://fedlex.data.admin.ch/eli/oc/1991/2611_2611_2611),[1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)art. 75 ch. 5 [1986](https://fedlex.data.admin.ch/eli/oc/1992/1986_1986_1986)art. 36 al. 1, [1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410)art. 92 ch. 4 [1571](https://fedlex.data.admin.ch/eli/oc/1993/1571_1571_1571)[2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)annexe ch. 11, [1994 28](https://fedlex.data.admin.ch/eli/oc/1994/28_28_28), [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)art. 59 ch. 3 [1837](https://fedlex.data.admin.ch/eli/oc/1995/1837_1837_1837)[3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)ch. I 2, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)annexe ch. 2,[1997 1187](https://fedlex.data.admin.ch/eli/oc/1997/1187_1187_1187)[1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190), [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 15; RS **2** 189 disp. fin. trans. tit. X, art. 6 ch. 7. [RO 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe let. c].
+[^u13-6-7]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050). Actuellement: LF sur les allocations pour perte de gain en cas de service et de maternité.
+[^u13-6-8]: [RS 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
+[^u13-6-9]: [[RO 1962 1127](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131), **1964** 423 art. 22 al. 2 let. b,[1968 81](https://fedlex.data.admin.ch/eli/oc/1968/81_81_83)[1065](https://fedlex.data.admin.ch/eli/oc/1968/1025_1065_981)art. 35, [1969 318](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319)ch. III, **1971** 751, [1978 50](https://fedlex.data.admin.ch/eli/oc/1978/50_50_50)[570](https://fedlex.data.admin.ch/eli/oc/1978/570_570_), [1985 1649](https://fedlex.data.admin.ch/eli/oc/1985/1649_1649_1649), [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)appendice ch. 7, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 22, [1993 3043](https://fedlex.data.admin.ch/eli/oc/1993/3043_3043_3043)annexe ch. 3. [RO 1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626)art. 71]
+[^u13-6-10]: [[RO 1965 325](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321), [1968 87](https://fedlex.data.admin.ch/eli/oc/1968/86_87_89), [1972 1709](https://fedlex.data.admin.ch/eli/oc/1972/1681_1709_1885), [1975 1078](https://fedlex.data.admin.ch/eli/oc/1975/1078_1078_1078)ch. III, [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 331. [RO 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687)art. 75]
+[^u13-6-11]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57). L’art. 64 a actuellement une nouvelle teneur.
 
 ### Adaptation des rapports juridiques nés sous l’empire de l’ancien droit
 
@@ -17932,10 +18082,10 @@ Sont abrogés dès l’entrée en vigueur de la présente loi:
 
 <sup>1</sup> Les contrats de travail (contrats individuels de travail, contrats-types de travail et conventions collectives de travail) existant au moment de l’entrée en vigueur de la présente loi doivent être adaptés à ses dispositions dans le délai d’une année; passé ce délai, la présente loi est applicable à tous les contrats de travail.
 
-<sup>2</sup> Les institutions de prévoyance en faveur du personnel qui existent au moment de l’entrée en vigueur[^u12-7-1] de la présente loi doivent, jusqu’au 1<sup>er</sup> janvier 1977, adapter leurs statuts ou règlements, en observant les prescriptions de forme prévues pour leur modification, aux art. 331*a*, 331*b* et 331*c*; ceux-ci s’appliquent dès le 1<sup>er</sup> janvier 1977 à toutes les institutions de prévoyance.[^u12-7-2]
+<sup>2</sup> Les institutions de prévoyance en faveur du personnel qui existent au moment de l’entrée en vigueur[^u13-7-1] de la présente loi doivent, jusqu’au 1<sup>er</sup> janvier 1977, adapter leurs statuts ou règlements, en observant les prescriptions de forme prévues pour leur modification, aux art. 331*a*, 331*b* et 331*c*; ceux-ci s’appliquent dès le 1<sup>er</sup> janvier 1977 à toutes les institutions de prévoyance.[^u13-7-2]
 
-[^u12-7-1]: 1<sup>er</sup> janv. 1972
-[^u12-7-2]: Nouvelle teneur selon le ch. I de la LF du 25 juin 1976, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 1972](https://fedlex.data.admin.ch/eli/oc/1976/1972_1972_1972); [FF 1976 I 1273](https://fedlex.data.admin.ch/eli/fga/1976/1_1269_1273_1245)).
+[^u13-7-1]: 1<sup>er</sup> janv. 1972
+[^u13-7-2]: Nouvelle teneur selon le ch. I de la LF du 25 juin 1976, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 1972](https://fedlex.data.admin.ch/eli/oc/1976/1972_1972_1972); [FF 1976 I 1273](https://fedlex.data.admin.ch/eli/fga/1976/1_1269_1273_1245)).
 
 ### Entrée en vigueur
 
@@ -17945,9 +18095,9 @@ Le Conseil fédéral fixe la date de l’entrée en vigueur de la présente loi.
 
 ## Dispositions finales du chapitre IV du titre treizième****
 
-[^u13-1]
+[^u14-1]
 
-[^u13-1]: Introduites par le ch. II de la LF du 4 fév. 1949, en vigueur depuis le 1<sup>er</sup> janv. 1950 (RO **1949** I 813; [FF 1947 III 681](https://fedlex.data.admin.ch/eli/fga/1947/3_661_681_)).
+[^u14-1]: Introduites par le ch. II de la LF du 4 fév. 1949, en vigueur depuis le 1<sup>er</sup> janv. 1950 (RO **1949** I 813; [FF 1947 III 681](https://fedlex.data.admin.ch/eli/fga/1947/3_661_681_)).
 
 ### A. Régime transitoire
 
@@ -17963,9 +18113,9 @@ Le Conseil fédéral fixe la date de l’entrée en vigueur de la présente loi.
 
 #### Art. 2
 
-...[^u13-2-1]
+...[^u14-2-1]
 
-[^u13-2-1]: Les mod. peuvent être consultées au RO **1949** I 813.
+[^u14-2-1]: Les mod. peuvent être consultées au RO **1949** I 813.
 
 ### C. Entrée en vigueur
 
@@ -17975,13 +18125,13 @@ Le Conseil fédéral fixe la date de l’entrée en vigueur de la présente loi.
 
 ## Dispositions transitoires du titre vingtième****
 
-[^u14-1]
+[^u15-1]
 
-[^u14-1]: Introduites par le ch. II de la LF du 10 déc. 1941, en vigueur depuis le 1<sup>er</sup> juil. 1942 ([RO 58 279](https://fedlex.data.admin.ch/eli/oc/58/279_279_303)290 [646](https://fedlex.data.admin.ch/eli/oc/58/644_646_748); [FF 1939 II 857](https://fedlex.data.admin.ch/eli/fga/1939/2_841_857_149)).
+[^u15-1]: Introduites par le ch. II de la LF du 10 déc. 1941, en vigueur depuis le 1<sup>er</sup> juil. 1942 ([RO 58 279](https://fedlex.data.admin.ch/eli/oc/58/279_279_303)290 [646](https://fedlex.data.admin.ch/eli/oc/58/644_646_748); [FF 1939 II 857](https://fedlex.data.admin.ch/eli/fga/1939/2_841_857_149)).
 
 <sup>1</sup> Les dispositions du droit nouveau sont applicables à tous les cautionnements donnés après l’entrée en vigueur de la présente loi.
 
-<sup>3</sup> Les art. 77 à 80 de la loi du 18 mars 2005 sur les douanes[^u14-2] sont réservées.[^u14-3]
+<sup>3</sup> Les art. 77 à 80 de la loi du 18 mars 2005 sur les douanes[^u15-2] sont réservées.[^u15-3]
 
 <sup>4</sup> Le Conseil fédéral fixe la date d’entrée en vigueur de la présente loi.
 
@@ -17994,22 +18144,22 @@ Le Conseil fédéral fixe la date de l’entrée en vigueur de la présente loi.
 - 5\. l’art. 505, al. 2, n’est applicable qu’aux faillites et sursis concordataires prononcés trois mois au moins après l’entrée en vigueur de la loi;
 - 6\. le délai indiqué à l’art. 509, al. 3, ne court que du jour de l’entrée en vigueur de la loi.
 
-[^u14-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^u14-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^u15-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^u15-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 ## Dispositions finales et transitoires des titres vingt‑quatrième à trente-troisième****
 
-[^u15-1]
+[^u16-1]
 
-[^u15-1]: Introduites par la LF du 18 déc. 1936 ([RO 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [FF 1928 I 233](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), [1932 I 217](https://fedlex.data.admin.ch/eli/fga/1932/1__217_)).
+[^u16-1]: Introduites par la LF du 18 déc. 1936 ([RO 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [FF 1928 I 233](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), [1932 I 217](https://fedlex.data.admin.ch/eli/fga/1932/1__217_)).
 
 ### A. Application du titre final
 
 #### Art. 1
 
-Les dispositions du titre final du code civil[^u15-1-1] sont applicables aux matières régies par la présente loi.
+Les dispositions du titre final du code civil[^u16-1-1] sont applicables aux matières régies par la présente loi.
 
-[^u15-1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u16-1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 ### B. Adaptation des sociétés de l’ancien droit au nouveau régime légal
 
@@ -18027,23 +18177,23 @@ Les dispositions du titre final du code civil[^u15-1-1] sont applicables aux mat
 
 ### II. Fonds de bienfaisance
 
-[^u15-lvlB-lvlII-1]
+[^u16-lvlB-lvlII-1]
 
-[^u15-lvlB-lvlII-1]: Actuellement: «de prévoyance» (LF du 21 mars 1958; [RO 1958 389](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393)).
+[^u16-lvlB-lvlII-1]: Actuellement: «de prévoyance» (LF du 21 mars 1958; [RO 1958 389](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393)).
 
 #### Art. 3
 
-Si des sociétés anonymes, sociétés en commandite par actions et sociétés coopératives ont, avant l’entrée en vigueur de la présente loi, affecté des biens d’une façon reconnaissable à la création et au soutien d’oeuvres de bienfaisance[^u15-3-1] au profit d’employés, d’ouvriers ou de sociétaires, elles sont tenues d’adapter ces fonds dans le délai de cinq ans aux dispositions des art. 673[^u15-3-2] et 862[^u15-3-3].
+Si des sociétés anonymes, sociétés en commandite par actions et sociétés coopératives ont, avant l’entrée en vigueur de la présente loi, affecté des biens d’une façon reconnaissable à la création et au soutien d’oeuvres de bienfaisance[^u16-3-1] au profit d’employés, d’ouvriers ou de sociétaires, elles sont tenues d’adapter ces fonds dans le délai de cinq ans aux dispositions des art. 673[^u16-3-2] et 862[^u16-3-3].
 
-[^u15-3-1]: Actuellement «de prévoyance» (LF du 21 mars 1958; [RO 1958 389](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393)).
-[^u15-3-2]: Cet article a actuellement une nouvelle teneur.
-[^u15-3-3]: Cet article a actuellement une nouvelle teneur.
+[^u16-3-1]: Actuellement «de prévoyance» (LF du 21 mars 1958; [RO 1958 389](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393)).
+[^u16-3-2]: Cet article a actuellement une nouvelle teneur.
+[^u16-3-3]: Cet article a actuellement une nouvelle teneur.
 
 #### Art. 4
 
-[^u15-4-1]
+[^u16-4-1]
 
-[^u15-4-1]: Abrogé par l’annexe ch. 2 de la LF du 3 oct. 2003 sur la fusion, avec effet au 1<sup>er</sup> juil. 2004 ([RO 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3995](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+[^u16-4-1]: Abrogé par l’annexe ch. 2 de la LF du 3 oct. 2003 sur la fusion, avec effet au 1<sup>er</sup> juil. 2004 ([RO 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3995](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 
 ### C. Règles concernant le bilan
 
@@ -18057,9 +18207,9 @@ Si des sociétés anonymes, sociétés en commandite par actions et sociétés c
 
 #### Art. 6
 
-[^u15-6-1]
+[^u16-6-1]
 
-[^u15-6-1]: Sans objet.
+[^u16-6-1]: Sans objet.
 
 ### D. Responsabilité des membres d’une société coopérative
 
@@ -18067,11 +18217,11 @@ Si des sociétés anonymes, sociétés en commandite par actions et sociétés c
 
 <sup>1</sup> Les modifications que subit, de par la présente loi, la responsabilité des membres de sociétés coopératives ne peuvent porter atteinte aux droits des créanciers existant lors de l’entrée en vigueur de la législation nouvelle.
 
-<sup>2</sup> Les sociétés coopératives dont les membres ne répondent personnellement des engagements sociaux qu’en vertu de l’art. 689 du code des obligations jusqu’ici en vigueur[^u15-7-1] demeurent pendant cinq ans soumises audit code.
+<sup>2</sup> Les sociétés coopératives dont les membres ne répondent personnellement des engagements sociaux qu’en vertu de l’art. 689 du code des obligations jusqu’ici en vigueur[^u16-7-1] demeurent pendant cinq ans soumises audit code.
 
 <sup>3</sup> Au cours de cette période, l’assemblée générale peut, à la majorité absolue des voix, exclure totalement ou partiellement ou constater expressément la responsabilité individuelle. La disposition de l’art. 889, al. 2, relative à la sortie n’est pas applicable.
 
-[^u15-7-1]: [RO 27 321](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)
+[^u16-7-1]: [RO 27 321](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)
 
 ### E. Raisons de commerce
 
@@ -18118,26 +18268,26 @@ Les lettres de change et les chèques créés avant l’entrée en vigueur de la
 
 #### Art. 13
 
-Les dispositions de l’ordonnance du 20 février 1918[^u15-13-1] sur la communauté des créanciers dans les emprunts par obligations, de même que les arrêtés complémentaires du Conseil fédéral[^u15-13-2], demeurent applicables aux cas qui ont été réglés sous leur empire.
+Les dispositions de l’ordonnance du 20 février 1918[^u16-13-1] sur la communauté des créanciers dans les emprunts par obligations, de même que les arrêtés complémentaires du Conseil fédéral[^u16-13-2], demeurent applicables aux cas qui ont été réglés sous leur empire.
 
-[^u15-13-1]: [[RO 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249), [35 301](https://fedlex.data.admin.ch/eli/oc/35/297_301_396), [36 637](https://fedlex.data.admin.ch/eli/oc/36/623_637_599)[913](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
-[^u15-13-2]: [[RO 51 684](https://fedlex.data.admin.ch/eli/oc/51/673_684_779), [53 454](https://fedlex.data.admin.ch/eli/oc/53/454_454_459), [57 1549](https://fedlex.data.admin.ch/eli/oc/57/1514_1549_1595), [58 936](https://fedlex.data.admin.ch/eli/oc/58/934_936_978), **62** 1072, [63 1343](https://fedlex.data.admin.ch/eli/oc/63/1342_1343_1348)]
+[^u16-13-1]: [[RO 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249), [35 301](https://fedlex.data.admin.ch/eli/oc/35/297_301_396), [36 637](https://fedlex.data.admin.ch/eli/oc/36/623_637_599)[913](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
+[^u16-13-2]: [[RO 51 684](https://fedlex.data.admin.ch/eli/oc/51/673_684_779), [53 454](https://fedlex.data.admin.ch/eli/oc/53/454_454_459), [57 1549](https://fedlex.data.admin.ch/eli/oc/57/1514_1549_1595), [58 936](https://fedlex.data.admin.ch/eli/oc/58/934_936_978), **62** 1072, [63 1343](https://fedlex.data.admin.ch/eli/oc/63/1342_1343_1348)]
 
 ### H. ...
 
 #### Art. 14
 
-[^u15-14-1]
+[^u16-14-1]
 
-[^u15-14-1]: Abrogé par l’annexe ch. I let. c de la LF du 18 déc. 1987 sur le droit international privé, avec effet au 1<sup>er</sup> janv. 1989 ([RO 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776); [FF 1983 I 255](https://fedlex.data.admin.ch/eli/fga/1983/1_263_255_239)).
+[^u16-14-1]: Abrogé par l’annexe ch. I let. c de la LF du 18 déc. 1987 sur le droit international privé, avec effet au 1<sup>er</sup> janv. 1989 ([RO 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776); [FF 1983 I 255](https://fedlex.data.admin.ch/eli/fga/1983/1_263_255_239)).
 
 ### J. Modification de la loi sur la poursuite pour dettes et la faillite
 
 #### Art. 15
 
-...[^u15-15-1]
+...[^u16-15-1]
 
-[^u15-15-1]: Les mod. peuvent être consultées au [RO 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
+[^u16-15-1]: Les mod. peuvent être consultées au [RO 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
 
 ### K. Rapport avec la loi sur les banques
 
@@ -18145,25 +18295,25 @@ Les dispositions de l’ordonnance du 20 février 1918[^u15-13-1] sur la communa
 
 #### Art. 16
 
-Demeurent réservées les prescriptions de la loi fédérale du 8 novembre 1934 sur les banques et les caisses d’épargne[^u15-16-1].
+Demeurent réservées les prescriptions de la loi fédérale du 8 novembre 1934 sur les banques et les caisses d’épargne[^u16-16-1].
 
-[^u15-16-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^u16-16-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 
 ### II. Modification de certaines prescriptions
 
 #### Art. 17
 
-...[^u15-17-1]
+...[^u16-17-1]
 
-[^u15-17-1]: Les mod. peuvent être consultées au [RO 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
+[^u16-17-1]: Les mod. peuvent être consultées au [RO 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
 
 ### L. Abrogation du droit civil fédéral
 
 #### Art. 18
 
-Sont abrogées, à compter de l’entrée en vigueur de la présente loi, toutes les dispositions contraires du droit civil fédéral, en particulier la troisième partie du code fédéral des obligations, du 14 juin 1881[^u15-18-1], intitulée: «Des sociétés commerciales, des papiers-valeurs et des raisons de commerce» (art. 552 à 715, 720 à 880).
+Sont abrogées, à compter de l’entrée en vigueur de la présente loi, toutes les dispositions contraires du droit civil fédéral, en particulier la troisième partie du code fédéral des obligations, du 14 juin 1881[^u16-18-1], intitulée: «Des sociétés commerciales, des papiers-valeurs et des raisons de commerce» (art. 552 à 715, 720 à 880).
 
-[^u15-18-1]: [[RO 5 577](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 449; RS **2** 776 art. 103 al. 1. RS **2** 3 tit. fin. art. 60 al. 2]
+[^u16-18-1]: [[RO 5 577](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 449; RS **2** 776 art. 103 al. 1. RS **2** 3 tit. fin. art. 60 al. 2]
 
 ### M. Entrée en vigueur de la présente loi
 
@@ -18171,25 +18321,25 @@ Sont abrogées, à compter de l’entrée en vigueur de la présente loi, toutes
 
 <sup>1</sup> La présente loi entre en vigueur le 1<sup>er</sup> juillet 1937.
 
-<sup>2</sup> Est excepté le chapitre concernant la communauté des créanciers dans les emprunts par obligations (art. 1157 à 1182), dont l’entrée en vigueur sera fixée par le Conseil fédéral.[^u15-19-1]
+<sup>2</sup> Est excepté le chapitre concernant la communauté des créanciers dans les emprunts par obligations (art. 1157 à 1182), dont l’entrée en vigueur sera fixée par le Conseil fédéral.[^u16-19-1]
 
 <sup>3</sup> Le Conseil fédéral est chargé d’assurer l’exécution de la présente loi.
 
-[^u15-19-1]: Ce chapitre a été mis en vigueur selon le texte du 1<sup>er</sup> avr. 1949 ([RO 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189)).
+[^u16-19-1]: Ce chapitre a été mis en vigueur selon le texte du 1<sup>er</sup> avr. 1949 ([RO 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189)).
 
 ## Dispositions finales du titre vingt-sixième****
 
-[^u16-1]
+[^u17-1]
 
-[^u16-1]: Introduites par le ch. III de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^u17-1]: Introduites par le ch. III de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 ### A. Titre final du code civil
 
 #### Art. 1
 
-Le titre final du code civil[^u16-1-1] est applicable à la présente loi.
+Le titre final du code civil[^u17-1-1] est applicable à la présente loi.
 
-[^u16-1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u17-1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 ### B. Adaptation au nouveau régime légal
 
@@ -18225,9 +18375,9 @@ En complément à l’art. 685d, al. 1, la société peut, en vertu d’une disp
 
 #### Art. 5
 
-Les sociétés qui, en application de l’art. 10 des dispositions finales et transitoires de la loi fédérale du 18 décembre 1936 sur la révision des titres vingt-quatrième à trente-troisième du code des obligations[^u16-5-1], ont maintenu des actions à droit de vote privilégié avec une valeur nominale inférieure à 10 francs ainsi que les sociétés dont les plus grandes actions ont une valeur nominale supérieure à dix fois celle des plus petites, n’ont pas l’obligation d’adapter leurs statuts à l’art. 693, al. 2, deuxième phrase. Toutefois, elles ne peuvent plus émettre de nouvelles actions dont la valeur nominale est supérieure à dix fois la valeur nominale des plus petites ou inférieure à 10 % de la valeur nominale des plus grandes.
+Les sociétés qui, en application de l’art. 10 des dispositions finales et transitoires de la loi fédérale du 18 décembre 1936 sur la révision des titres vingt-quatrième à trente-troisième du code des obligations[^u17-5-1], ont maintenu des actions à droit de vote privilégié avec une valeur nominale inférieure à 10 francs ainsi que les sociétés dont les plus grandes actions ont une valeur nominale supérieure à dix fois celle des plus petites, n’ont pas l’obligation d’adapter leurs statuts à l’art. 693, al. 2, deuxième phrase. Toutefois, elles ne peuvent plus émettre de nouvelles actions dont la valeur nominale est supérieure à dix fois la valeur nominale des plus petites ou inférieure à 10 % de la valeur nominale des plus grandes.
 
-[^u16-5-1]: Ci-devant.
+[^u17-5-1]: Ci-devant.
 
 ### 4. Majorités qualifiées
 
@@ -18239,9 +18389,9 @@ Si une société, en reproduisant simplement des dispositions de l’ancien droi
 
 #### Art. 7
 
-...[^u16-7-1]
+...[^u17-7-1]
 
-[^u16-7-1]: Les mod. peuvent être consultées au [RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733).
+[^u17-7-1]: Les mod. peuvent être consultées au [RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733).
 
 ### D. Référendum
 
@@ -18257,17 +18407,17 @@ Le Conseil fédéral fixe la date de l’entrée en vigueur.
 
 ## Dispositions finales du chapitre II du titre trente‑quatrième****
 
-[^u17-1]
+[^u18-1]
 
-[^u17-1]: Introduites par le ch. II de la LF du 1<sup>er</sup> avr. 1949, en vigueur depuis le 1<sup>er</sup> janv. 1950 (RO **1949** I 820; [FF 1947 III 905](https://fedlex.data.admin.ch/eli/fga/1947/3_869_905_)).
+[^u18-1]: Introduites par le ch. II de la LF du 1<sup>er</sup> avr. 1949, en vigueur depuis le 1<sup>er</sup> janv. 1950 (RO **1949** I 820; [FF 1947 III 905](https://fedlex.data.admin.ch/eli/fga/1947/3_869_905_)).
 
-- [tab] 1. et 2.[^u17-2]
+- [tab] 1. et 2.[^u18-2]
 - 3\. Les décisions de la communauté votées sous le régime de l’ancien droit demeurent valables sous celui du nouveau droit.
 - Les décisions votées après l’entrée en vigueur de la présente loi sont soumises aux prescriptions du nouveau droit.
 - Toutefois, lorsqu’un débiteur aura déjà bénéficié, en vertu de décisions de la communauté prises sous le régime de l’ancien droit, de facilités égales ou correspondantes à celles que prévoit l’art. 1170, il en sera tenu équitablement compte lors de l’application de cette disposition.
 - En outre les dispositions finales et transitoires de la loi fédérale du 18 décembre 1936 révisant les titres vingt-quatrième à trente-troisième du code des obligations sont applicables.
-- 4\. La présente loi abroge toutes les dispositions qui lui sont contraires, notamment l’ordonnance du Conseil fédéral du 20 février 1918[^u17-3] sur la communauté des créanciers dans les emprunts par obligations.
+- 4\. La présente loi abroge toutes les dispositions qui lui sont contraires, notamment l’ordonnance du Conseil fédéral du 20 février 1918[^u18-3] sur la communauté des créanciers dans les emprunts par obligations.
 - 5\. Le Conseil fédéral fixe la date de l’entrée en vigueur de la présente loi.
 
-[^u17-2]: Les mod. peuvent être consultées au RO **1949** I 820 ch. II ch. 2.
-[^u17-3]: [[RO 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249), [35 301](https://fedlex.data.admin.ch/eli/oc/35/297_301_396), [36 637](https://fedlex.data.admin.ch/eli/oc/36/623_637_599)[913](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
+[^u18-2]: Les mod. peuvent être consultées au RO **1949** I 820 ch. II ch. 2.
+[^u18-3]: [[RO 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249), [35 301](https://fedlex.data.admin.ch/eli/oc/35/297_301_396), [36 637](https://fedlex.data.admin.ch/eli/oc/36/623_637_599)[913](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]

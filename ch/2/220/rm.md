@@ -4,11 +4,11 @@ title: "Lescha federala dals 30 da mars 1911 davart la cumplettaziun dal cudesch
 short: DO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: rm
-version: 2021-07-01
+version: 2022-01-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210701/rm/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210701-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20220101-rm-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20220101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210701/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 30 da mars 1911 (versiun dal 1. da fanadur 2021)
+dals 30 da mars 1911 (versiun dal 1. da schaner 2022)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -440,13 +440,17 @@ Las suandantas disposiziuns èn applitgablas per contracts davart chaussas movib
 - a. l’offerent da la rauba u da las prestaziuns da servetsch ha agì en il rom d’ina activitad professiunala u commerziala; e
 - b. la prestaziun dal client surpassa 100 francs.
 
-<sup>2</sup> Questas disposiziuns na valan betg per contracts d’assicuranza e per acts giuridics che vegnan concludids tras instituts da finanzas e tras bancas en il rom da contracts da servetschs finanziars existents tenor la Lescha federala dals 15 da zercladur 2018[^40a-2] davart ils servetschs finanziars.[^40a-3]
+<sup>2</sup> Las disposiziuns na valan betg per acts giuridics che vegnan concludids tras instituts da finanzas e tras bancas en il rom da contracts da servetschs finanziars existents tenor la Lescha federala dals 15 da zercladur 2018[^40a-2] davart ils servetschs finanziars.[^40a-3]
+
+<sup>2bis</sup> Per ils contracts d’assicuranza valan las disposiziuns da la Lescha dals 2 d’avrigl 1908[^40a-4] davart il contract d’assicuranza.[^40a-5]
 
 <sup>3</sup> Sche la capacitad da cumpra dals daners sa mida en moda essenziala, adatta il Cussegl federal correspundentamain l’import che vegn numnà en l’alinea 1 litera b.
 
 [^40a-1]: Integrà tras la cifra I da la LF dals 5 d’oct. 1990, en vigur dapi il 1. da fan. 1991 ([AS 1991 846](https://fedlex.data.admin.ch/eli/oc/1991/846_846_846); BBl **1986** II354).
 [^40a-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^40a-3]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 15 da zer. 2018 davart ils servetschs finanziars, en vigur dapi il 1. da schan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^40a-3]: Versiun tenor la cifra II da la LF dals 19 da zer. 2020, en vigur dapi il 1. da schan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^40a-4]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^40a-5]: Integrà tras la cifra II da la LF dals 19 da zer. 2020, en vigur dapi il 1. da schan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### II. Princip
 
@@ -2774,7 +2778,7 @@ Sch’il donatur è s’obligà a prestaziuns periodicas, extingua questa obliga
 
 [^part2-tit8-1]
 
-[^part2-tit8-1]: Versiun tenor la cifra I da la LF dals 15 da dec. 1989, en vigur dapi il 1. da fan. 1990 ([AS 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802); BBl **1985** I1389). Guardar er l’art. 5 da las disposiziuns finalas dals titels VIII ed VIII<sup>bis</sup> a la fin dal DO.
+[^part2-tit8-1]: Versiun tenor la cifra I da la LF dals 15 da dec. 1989, en vigur dapi il 1. da fan. 1990 ([AS 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802); BBl **1985** I1389). Guardar er art. 5 da las disp. fin. dals titels VIII ed VIII<sup>bis</sup> a la fin dal DO.
 
 ### Emprim chapitel: Disposiziuns generalas
 
@@ -3597,7 +3601,7 @@ Sch’il locatari vul pretender che la relaziun da locaziun vegnia prolungada, s
 
 [^part2-tit8bis-1]
 
-[^part2-tit8bis-1]: Integrà tras la cifra I da la LF dals 15 da dec. 1989, en vigur dapi il 1. da fan. 1990 ([AS 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802); BBl **1985** I1389). Guardar er l’art. 5 da las disposiziuns finalas dals titels VIII ed VIII<sup>bis</sup> a la fin dal DO.
+[^part2-tit8bis-1]: Integrà tras la cifra I da la LF dals 15 da dec. 1989, en vigur dapi il 1. da fan. 1990 ([AS 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802); BBl **1985** I1389). Guardar er art. 5 da las disp. fin. dals titels VIII ed VIII<sup>bis</sup> a la fin dal DO.
 
 ### A. Noziun e champ d’applicaziun
 
@@ -4084,7 +4088,7 @@ Sch’il contract na fixescha ni ina tscherta data ni in termin da disditga e sc
 
 [^part2-tit10-1]
 
-[^part2-tit10-1]: Versiun tenor la cifra I da la LF dals 25 da zer. 1971, en vigur dapi il 1. da schan. 1972 ([AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [BBl 1967 II 241](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)). Guardar er l’art. 7 da las disposiziuns finalas e transitoricas dal titel X a la fin dal DO.
+[^part2-tit10-1]: Versiun tenor la cifra I da la LF dals 25 da zer. 1971, en vigur dapi il 1. da schan. 1972 ([AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [BBl 1967 II 241](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)). Guardar er art. 7 da las disp. fin. e trans. dal titel X a la fin dal DO.
 
 ### Emprim chapitel: Il contract individual da lavur
 
@@ -6566,7 +6570,7 @@ I resta resalvà als chantuns da far prescripziuns spezialas davart las activita
 
 [^part2-tit13-chap4-1]
 
-[^part2-tit13-chap4-1]: Integrà tras la cifra I da la LF dals 4 da favr. 1949, en vigur dapi il 1. da schan. 1950 (AS **1949** I 802 808; BBl **1947** III661). Guardar las disposiziuns finalas da quest chapitel (quart chapitel dal titel XIII) a la fin dal DO.
+[^part2-tit13-chap4-1]: Integrà tras la cifra I da la LF dals 4 da favr. 1949, en vigur dapi il 1. da schan. 1950 (AS **1949** I 802 808; BBl **1947** III661). Guardar disp. fin. da quest chapitel (quart chapitel dal titel XIII) a la fin dal DO.
 
 ### A. En general
 
@@ -7443,7 +7447,7 @@ Sche pliras persunas han deposità ina chaussa, da la quala las relaziuns giurid
 
 [^part2-tit20-1]
 
-[^part2-tit20-1]: Versiun tenor la cifra I da la LF dals 10 da dec. 1941, en vigur dapi il 1. da fan. 1942 ([AS 58 279](https://fedlex.data.admin.ch/eli/oc/58/279_279_303)290 [644](https://fedlex.data.admin.ch/eli/oc/58/644_646_748); [BBl 1939 II 841](https://fedlex.data.admin.ch/eli/fga/1939/2_841_857_149)). Guardar las disposiziuns transitoricas da quest titel a la fin dal DO.
+[^part2-tit20-1]: Versiun tenor la cifra I da la LF dals 10 da dec. 1941, en vigur dapi il 1. da fan. 1942 ([AS 58 279](https://fedlex.data.admin.ch/eli/oc/58/279_279_303)290 [644](https://fedlex.data.admin.ch/eli/oc/58/644_646_748); [BBl 1939 II 841](https://fedlex.data.admin.ch/eli/fga/1939/2_841_857_149)). Guardar disp. trans. da quest titel a la fin dal DO.
 
 ### A. Premissas
 
@@ -8121,7 +8125,7 @@ La dissoluziun da la societad na mida nagut vi da las obligaziuns ch’èn vegni
 
 [^part3-1]
 
-[^part3-1]: Versiun tenor la LF dals 18 da dec. 1936, en vigur dapi il 1. da fan. 1937 ([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), **1932** I217). Guardar las disposiziuns finalas e transitoricas dals titels XXIV–XXXIII a la fin dal DO.
+[^part3-1]: Versiun tenor la LF dals 18 da dec. 1936, en vigur dapi il 1. da fan. 1937 ([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), **1932** I217). Guardar disp. fin. e trans. dals titels XXIV–XXXIII a la fin dal DO.
 
 ### Ventgaquatteravel titel: La societad collectiva
 
@@ -8733,7 +8737,7 @@ En il concurs dal commanditari n’han ni ils crediturs da la societad ni la soc
 
 [^part3-tit26-1]
 
-[^part3-tit26-1]: Guardar er las disposiziuns finalas da quest titel a la fin dal DO.
+[^part3-tit26-1]: Guardar er disp. fin. da quest titel a la fin dal DO.
 
 ### Emprim chapitel: Disposiziuns generalas
 
@@ -11189,7 +11193,7 @@ Las suandantas societads ston laschar far in post da revisiun ina controlla ordi
 
 <sup>3</sup> Sche la lescha na pretenda betg ina revisiun ordinaria dal quint annual, pon ils statuts prevair u po la radunanza generala concluder ch’il quint annual vegnia suttamess ad ina controlla ordinaria.
 
-[^727-1]: Versiun tenor la cifra 1 da la LF dals 17 da zer. 2011 (dretg da revisiun), en vigur dapi il 1. da schan. 2012 ([AS 2011 5863](https://fedlex.data.admin.ch/eli/oc/2011/808); [BBl 2008 159](https://fedlex.data.admin.ch/eli/fga/2008/55)). Guardar er las disposiziuns transitoricas da questa midada.
+[^727-1]: Versiun tenor la cifra 1 da la LF dals 17 da zer. 2011 (dretg da revisiun), en vigur dapi il 1. da schan. 2012 ([AS 2011 5863](https://fedlex.data.admin.ch/eli/oc/2011/808); [BBl 2008 159](https://fedlex.data.admin.ch/eli/fga/2008/55)). Guardar er disp. trans. da questa midada.
 
 ### 2. Revisiun limitada
 
@@ -11520,7 +11524,7 @@ Sch’ina schlattaina n’è betg represchentada cun almain 30 pertschient en il
 - 1\. ils motivs, pertge che las schlattainas n’èn betg represchentadas sco previs; e
 - 2\. las mesiras per promover la schlattaina che n’è betg represchentada uschè bain.
 
-[^734f-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2021 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). Guardar er l’art. 4 da las disposiziuns transitoricas da questa midada a la fin dal text.
+[^734f-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2021 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). Guardar er art. 4 da las disp. trans. da questa midada a la fin dal text.
 
 ### E. Reducziun en cas d’ina bilantscha deficitara
 
@@ -13929,7 +13933,7 @@ Per ils commembers da l’associaziun participanta na dastga la participaziun ad
 
 [^part4-1]
 
-[^part4-1]: Versiun tenor la LF dals 18 da dec. 1936, en vigur dapi il 1. da fan. 1937 ([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), **1932** I217). Guardar las disposiziuns finalas e transitoricas dals titels XXIV–XXXIII a la fin dal DO.
+[^part4-1]: Versiun tenor la LF dals 18 da dec. 1936, en vigur dapi il 1. da fan. 1937 ([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), **1932** I217). Guardar disp. fin. e trans. dals titels XXIV–XXXIII a la fin dal DO.
 
 ### Trentavel titel:**** Il register da commerzi
 
@@ -13994,13 +13998,17 @@ Unitads giuridicas en il senn da questa lescha èn:
 
 <sup>4</sup> La Confederaziun è responsabla per la segirezza dals sistems d’infurmaziun e per la legalitad da l’elavuraziun da las datas.
 
-### D. Numer d’assicuranza da la AVS e numer persunal
+### D. Numer da la AVS e numer persunal
+
+[^part4-tit30-lvlD-1]
+
+[^part4-tit30-lvlD-1]: Expressiun tenor la cifra 3 da l’agiunta da la LF dals 18 da dec. 2020 (diever sistematic dal numer da la AVS tras las autoritads), en vigur dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Questa midada è vegnida fatga en las disposiziuns numnadas en la AS.
 
 #### Art. 928c
 
-<sup>1</sup> Las autoritads dal register da commerzi utiliseschan sistematicamain il numer d’assicuranza da la AVS per identifitgar persunas natiralas.
+<sup>1</sup> Las autoritads dal register da commerzi utiliseschan sistematicamain il numer da la AVS per identifitgar persunas natiralas.
 
-<sup>2</sup> Ellas communitgeschan il numer d’assicuranza da la AVS mo a posts ed ad instituziuns che basegnan quest numer per ademplir lur incumbensas legalas en connex cun il register da commerzi e ch’èn autorisads d’utilisar sistematicamain quest numer.
+<sup>2</sup> Ellas communitgeschan il numer da la AVS mo a posts ed ad instituziuns che basegnan quest numer per ademplir lur incumbensas legalas en connex cun il register da commerzi e ch’èn autorisads d’utilisar sistematicamain quest numer.
 
 <sup>3</sup> A las persunas natiralas registradas en la banca da datas centrala da las persunas vegn ultra da quai attribuì in numer persunal betg signifitgant.
 
@@ -14249,7 +14257,7 @@ Il Cussegl federal decretescha prescripziuns davart:
 
 [^947948-1]
 
-[^947948-1]: Abolì tras la cifra I da la LF dals 25 da sett. 2015 (dretg da firmas), cun effect dapi il 1. da fan. 2016 ([AS 2016 1507](https://fedlex.data.admin.ch/eli/oc/2016/289); [BBl 2014 9305](https://fedlex.data.admin.ch/eli/fga/2014/2039)). Guardar dentant la disposiziun transitorica da questa midada a la fin dal text.
+[^947948-1]: Abolì tras la cifra I da la LF dals 25 da sett. 2015 (dretg da firmas), cun effect dapi il 1. da fan. 2016 ([AS 2016 1507](https://fedlex.data.admin.ch/eli/oc/2016/289); [BBl 2014 9305](https://fedlex.data.admin.ch/eli/fga/2014/2039)). Guardar dentant disp. trans. da questa midada a la fin dal text.
 
 #### Art. 949
 
@@ -14279,7 +14287,7 @@ Il Cussegl federal decretescha prescripziuns davart:
 
 La firma d’ina societad commerziala u d’ina associaziun sto sa distinguer cleramain da tut las firmas da societads commerzialas u d’associaziuns ch’èn gia inscrittas en Svizra.
 
-[^951-1]: Versiun tenor la cifra I da la LF dals 25 da sett. 2015 (dretg da firmas), en vigur dapi il 1. da fan. 2016 ([AS 2016 1507](https://fedlex.data.admin.ch/eli/oc/2016/289); [BBl 2014 9305](https://fedlex.data.admin.ch/eli/fga/2014/2039)). Guardar dentant la disposiziun transitorica da questa midada a la fin dal text.
+[^951-1]: Versiun tenor la cifra I da la LF dals 25 da sett. 2015 (dretg da firmas), en vigur dapi il 1. da fan. 2016 ([AS 2016 1507](https://fedlex.data.admin.ch/eli/oc/2016/289); [BBl 2014 9305](https://fedlex.data.admin.ch/eli/fga/2014/2039)). Guardar dentant disp. trans. da questa midada a la fin dal text.
 
 ### IV. Filialas
 
@@ -14347,11 +14355,12 @@ Tras l’inscripziun d’ina firma na vegn la persuna autorisada betg deliberada
 
 <sup>2</sup> Tgi che vegn pregiuditgà tras l’utilisaziun nunautorisada d’ina firma, po dumandar dal derschader da metter ina fin a quest abus; en cas da culpa po el purtar plant per pretender ina indemnisaziun.
 
-### Trentadusavel titel:**** Contabilitad commerziala e rendaquint
+### Trentadusavel titel:**** Contabilitad commerziala, rendaquint, ulteriuras obligaziuns da transparenza e da diligenza****
 
-[^part4-tit32-1]
+[^part4-tit32-1][^part4-tit32-2]
 
-[^part4-tit32-1]: Versiun tenor la cifra I 2 da la LF dals 23 da dec. 2011 (dretg da rendaquint), en vigur dapi il 1. da schan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)). Guardar er las disposiziuns transitoricas da questa midada a la fin dal text.
+[^part4-tit32-1]: Versiun tenor la cifra I 2 da la LF dals 23 da dec. 2011 (dretg da rendaquint), en vigur dapi il 1. da schan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)). Guardar er disp. trans. da questa midada a la fin dal text.
+[^part4-tit32-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (cuntraproposta indirecta a l’iniziativa dal pievel «Per interpresas responsablas – per proteger ils umans e l’ambient»), en vigur dapi il 1. da schan. 2022 ([AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Emprim chapitel: Disposiziuns generalas
 
@@ -14900,15 +14909,92 @@ In quint dal concern sto tuttina vegnir fatg tenor in standard da rendaquint ren
 
 [^964-1]: Abolì tras la cifra I da la LF dals 22 da dec. 1999, cun effect dapi il 1. da zer. 2002 ([AS 2002 949](https://fedlex.data.admin.ch/eli/oc/2002/170); [BBl 1999 5149](https://fedlex.data.admin.ch/eli/fga/1999/1_5149_4753_4457)).
 
-### Sisavel chapitel:**** Transparenza d’interpresas dal sectur da materias primas
+### Sisavel chapitel:**** Transparenza davart dumondas betg finanzialas
 
 [^part4-tit32-chap6-1]
 
-[^part4-tit32-chap6-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2021 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). Guardar er l’art. 7 da las disposiziuns transitoricas da questa midada a la fin dal text.
+[^part4-tit32-chap6-1]: Integrà tras las cifras I e III 1 da la LF dals 19 da zer. 2020 (cuntraproposta indirecta a l’iniziativa dal pievel «Per interpresas responsablas – per proteger ils umans e l’ambient»), en vigur dapi il 1. da schan. 2022 ([AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). Guardar er disp. trans. da questa midada a la fin dal text.
 
 ### A. Princip
 
 #### Art. 964a
+
+<sup>1</sup>
+
+Las interpresas suttamettan mintga onn in rapport davart las dumondas betg finanzialas, sch’ellas:
+
+- 1\. èn societads d’interess public en il senn da l’artitgel 2 litera c da la Lescha dals 16 da december 2005[^964a-1] davart la surveglianza da la revisiun;
+- 2\. han durant dus onns da gestiun consecutivs – ensemen cun las interpresas svizras u estras ch’ellas controlleschan – almain 500 plazzas a temp cumplain en la media annuala; e
+- 3\.
+
+  surpassan durant dus onns da gestiun consecutivs – ensemen cun las interpresas svizras u estras ch’ellas controlleschan – almain ina da las suandantas grondezzas:
+
+  - a. ina summa da bilantscha da 20 milliuns francs,
+  - b. in retgav da la svieuta da 40 milliuns francs.
+
+<sup>2</sup>
+
+Deliberadas da questa obligaziun èn interpresas che vegnan controlladas d’ina autra interpresa:
+
+- 1\. per la quala l’alinea 1 è applitgabel; u
+- 2\. che sto far in rapport equivalent tenor il dretg ester.
+
+[^964a-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+
+### B. Intent e cuntegn dal rapport
+
+#### Art. 964b
+
+<sup>1</sup> Il rapport davart las dumondas betg finanzialas infurmescha davart dumondas da l’ambient, en spezial davart las finamiras da CO<sub>2</sub>, davart dumondas socialas, davart dumondas da persunal, davart il respect dals dretgs umans sco er davart il cumbat cunter la corrupziun. Il rapport cuntegna quellas indicaziuns ch’èn necessarias per chapir l’andament ed il resultat da las fatschentas, la situaziun da l’interpresa sco er las consequenzas da sia activitad sin quests aspects.
+
+<sup>2</sup>
+
+Il rapport cuntegna en spezial:
+
+- 1\. ina descripziun dal model da fatschenta;
+- 2\. ina descripziun dals concepts persequitads areguard las dumondas tenor l’alinea 1, inclusiv l’examinaziun da la diligenza che vegn applitgada;
+- 3\. ina preschentaziun da las mesiras prendidas per realisar quests concepts sco er ina valitaziun da l’efficacitad da questas mesiras;
+- 4\.
+
+  ina descripziun da las ristgas essenzialas en connex cun las dumondas tenor l’alinea 1 sco er dal management da questas ristgas tras l’interpresa; decisivas èn las ristgas:
+
+  - a. che resultan tras l’atgna activitad commerziala da l’interpresa, e
+  - b. che resultan – en cas che quai è relevant e commensurà – tras sias relaziuns commerzialas, tras ses products u tras ses servetschs;
+
+- 5\. ils indicaturs da prestaziuns ch’èn essenzials per las activitads da l’interpresa areguard las dumondas tenor l’alinea 1.
+
+<sup>3</sup> Sch’il rapport sa basa sin ovras reglamentaras naziunalas, europeicas u internaziunalas, sco en spezial las Directivas da l’Organisaziun da cooperaziun e svilup economic (OECD), sto l’ovra reglamentara applitgada vegnir numnada en il rapport. Sche talas ovras reglamentaras vegnan applitgadas, stoi vegnir garantì che tut las prescripziuns da quest artitgel èn ademplidas. En cas da basegn sto vegnir redigì in rapport cumplementar.
+
+<sup>4</sup> Sch’ina interpresa controllescha, suletta u ensemen cun autras interpresas, ina u pliras interpresas svizras u estras, cumpiglia il rapport tut questas interpresas.
+
+<sup>5</sup> Sche l’interpresa na persequitescha betg in concept areguard ina u pliras dumondas tenor l’alinea 1, sto ella explitgar e motivar quai cleramain en il rapport.
+
+<sup>6</sup> Il rapport sto vegnir redigì en ina lingua naziunala u en englais.
+
+### C. Approvaziun, publicaziun, gestiun e conservaziun
+
+#### Art. 964c
+
+<sup>1</sup> Il rapport davart las dumondas betg finanzialas sto vegnir approvà e suttascrit tras l’organ directiv u administrativ suprem sco er approvà tras l’organ ch’è responsabel per l’approvaziun dal quint annual.
+
+<sup>2</sup>
+
+L’organ directiv u administrativ suprem procura ch’il rapport:
+
+- 1\. vegnia publitgà sin via electronica immediatamain suenter l’approvaziun;
+- 2\. restia accessibel a la publicitad durant almain 10 onns.
+
+<sup>3</sup> Per manar e per conservar ils rapports vala l’artitgel 958*f* tenor il senn.
+
+### Settavel chapitel:**** Transparenza d’interpresas dal sectur da materias primas
+
+[^part4-tit32-chap7-1]
+
+[^part4-tit32-chap7-1]: Oriundamain: sisavel chapitel ed art. 964*a*–964*f*. Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2021 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). Guardar er art. 7 da las disp. trans. da questa midada a la fin dal text.
+
+### A. Princip
+
+#### Art. 964d
 
 <sup>1</sup> Interpresas ch’èn obligadas tras lescha da far ina revisiun ordinaria e ch’èn – sezzas u tras ina interpresa controllada dad ellas – activas en il sectur da l’explotaziun da minerals, da petroli u da gas natiral ubain dal tagl da laina en guauds primars, ston rediger mintga onn in rapport davart ils pajaments a posts statals.
 
@@ -14922,7 +15008,7 @@ In quint dal concern sto tuttina vegnir fatg tenor in standard da rendaquint ren
 
 ### B. Tips da prestaziuns
 
-#### Art. 964b
+#### Art. 964e
 
 <sup>1</sup>
 
@@ -14940,7 +15026,7 @@ Ils pajaments a posts statals pon consister da prestaziuns en daners u da presta
 
 ### C. Furma e cuntegn dal rapport
 
-#### Art. 964c
+#### Art. 964f
 
 <sup>1</sup> Il rapport davart ils pajaments a posts statals cumpiglia mo pajaments che resultan da l’activitad commerziala en l’industria ch’explotescha minerals, petroli u gas natiral u en il sectur dal tagl da laina en guauds primars.
 
@@ -14952,7 +15038,7 @@ Ils pajaments a posts statals pon consister da prestaziuns en daners u da presta
 
 ### D. Publicaziun
 
-#### Art. 964d
+#### Art. 964g
 
 <sup>1</sup> Il rapport davart ils pajaments a posts statals sto vegnir publitgà en furma electronica entaifer 6 mais suenter la fin da l’onn da gestiun.
 
@@ -14962,21 +15048,81 @@ Ils pajaments a posts statals pon consister da prestaziuns en daners u da presta
 
 ### E. Gestiun e conservaziun
 
-#### Art. 964e
+#### Art. 964h
 
 Per manar e per conservar il rapport davart ils pajaments a posts statals vala analogamain l’artitgel 958*f*.
 
 ### F. Extensiun dal champ d’applicaziun
 
-#### Art. 964f
+#### Art. 964i
 
-En il rom d’in proceder coordinà sin plaun internaziunal po il Cussegl federal fixar che las obligaziuns tenor ils artitgels 964*a*–964*e* valian er per interpresas che fan commerzi cun materias primas.
+En il rom d’in proceder coordinà sin plaun internaziunal po il Cussegl federal fixar che las obligaziuns tenor ils artitgels 964*d*–964*h* valian er per interpresas che fan commerzi cun materias primas.
+
+### Otgavel chapitel:**** Obligaziuns da diligenza e transparenza areguard minerals e metals che derivan da territoris da conflict ed areguard la lavur d’uffants
+
+[^part4-tit32-chap8-1]
+
+[^part4-tit32-chap8-1]: Integrà tras las cifras I e III 1 da la LF dals 19 da zer. 2020 (cuntraproposta indirecta a l’iniziativa dal pievel «Per interpresas responsablas – per proteger ils umans e l’ambient»), en vigur dapi il 1. da schan. 2022 ([AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). Guardar er disp. trans. da questa midada a la fin dal text.
+
+### A. Princip
+
+#### Art. 964j
+
+<sup>1</sup>
+
+Interpresas che han la sedia, l’administraziun principala u il domicil principal en Svizra ston observar obligaziuns da diligenza en la chadaina da furniziun e suttametter in rapport en chaussa, sch’ellas:
+
+- 1\. mettan en libra circulaziun en Svizra u elavuran en Svizra minerals u metals che cuntegnan zin, tantal, volfram u aur e che derivan da territoris da conflict u d’auta ristga; u
+- 2\. offran products u servetschs, per ils quals igl exista in suspect motivà ch’els sajan vegnids producids u furnids cun agid da lavur d’uffants.
+
+<sup>2</sup> Il Cussegl federal fixescha quantitads d’import annualas per minerals e per metals, fin a las qualas ina interpresa è deliberada da l’obligaziun da diligenza e da rapport.
+
+<sup>3</sup> El fixescha, sut tge premissas che interpresas pitschnas e mesaunas sco er interpresas cun pitschnas ristgas en il sectur da la lavur d’uffants èn deliberadas d’examinar, sch’igl exista in suspect motivà da lavur d’uffants.
+
+<sup>4</sup> El fixescha, sut tge premissas che las interpresas che observan in’ovra reglamentara equivalenta renconuschida sin plaun internaziunal, sco en spezial las Directivas da la OECD, èn deliberadas da las obligaziuns da diligenza e da rapport.
+
+### B. Obligaziuns da diligenza
+
+#### Art. 964k
+
+<sup>1</sup>
+
+Las interpresas mainan in sistem da management e fixeschan per quest intent il suandant:
+
+- 1\. la politica concernent la chadaina da furniziun per minerals e per metals che derivan eventualmain da territoris da conflict u d’auta ristga;
+- 2\. la politica concernent la chadaina da furniziun per products u per servetschs, per ils quals igl exista in suspect motivà da lavur d’uffants;
+- 3\. in sistem che permetta da repersequitar la chadaina da furniziun.
+
+<sup>2</sup> Las interpresas erueschan e giuditgeschan las ristgas da consequenzas nuschaivlas en lur chadaina da furniziun. Ellas elavuran in plan da management da las ristgas e prendan mesiras per minimar las ristgas constatadas.
+
+<sup>3</sup> Las interpresas laschan examinar ina persuna spezialisada independenta, sche las obligaziuns da diligenza areguard ils minerals ed ils metals vegnan observadas.
+
+<sup>4</sup> Il Cussegl federal decretescha las prescripziuns pli detagliadas; per quest intent resguarda el ovras reglamentaras renconuschidas sin plaun internaziunal, sco en spezial las Directivas da la OECD.
+
+### C. Rapport
+
+#### Art. 964l
+
+<sup>1</sup> L’organ directiv u administrativ suprem suttametta mintga onn in rapport davart l’adempliment da las obligaziuns da diligenza.
+
+<sup>2</sup> Il rapport sto vegnir redigì en ina lingua naziunala u en englais.
+
+<sup>3</sup>
+
+L’organ directiv u administrativ suprem procura ch’il rapport:
+
+- 1\. vegnia publitgà sin via electronica entaifer 6 mais suenter la fin da l’onn da gestiun;
+- 2\. restia accessibel a la publicitad durant almain 10 onns.
+
+<sup>4</sup> Per manar e per conservar ils rapports vala l’artitgel 958*f* tenor il senn.
+
+<sup>5</sup> Interpresas che offran products e servetschs d’interpresas che han fatg in rapport, na ston betg far in agen rapport per quests products e servetschs.
 
 ## Tschintgavla partiziun:**** Las vaglias
 
 [^part5-1]
 
-[^part5-1]: Versiun tenor la LF dals 18 da dec. 1936, en vigur dapi il 1. da fan. 1937 ([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), [1932 I 217](https://fedlex.data.admin.ch/eli/fga/1932/1_217__)). Guardar las disposiziuns finalas e transitoricas dals titels XXIV–XXXIII a la fin dal DO.
+[^part5-1]: Versiun tenor la LF dals 18 da dec. 1936, en vigur dapi il 1. da fan. 1937 ([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), [1932 I 217](https://fedlex.data.admin.ch/eli/fga/1932/1_217__)). Guardar disp. fin. e trans. dals titels XXIV–XXXIII a la fin dal DO.
 
 ### Trentatraisavel titel: Ils titels nominals, ils titels al possessur ed ils titels a l’ordra
 
@@ -17060,7 +17206,7 @@ Ils titels da martganzia che vegnan emess d’in possessur d’in magasin u d’
 
 [^part5-tit34-chap2-1]
 
-[^part5-tit34-chap2-1]: Versiun tenor la cifra I da la LF dal 1. d’avr. 1949, en vigur dapi il 1. da schan. 1950 (AS **1949** I 791 801; [BBl 1947 III 869](https://fedlex.data.admin.ch/eli/fga/1947/3_869_905_)). Guardar las disposiziuns finalas da quest chapitel (segund chapitel dal titel XXXIV) a la fin dal DO.
+[^part5-tit34-chap2-1]: Versiun tenor la cifra I da la LF dal 1. d’avr. 1949, en vigur dapi il 1. da schan. 1950 (AS **1949** I 791 801; [BBl 1947 III 869](https://fedlex.data.admin.ch/eli/fga/1947/3_869_905_)). Guardar disp. fin. da quest chapitel (segund chapitel dal titel XXXIV) a la fin dal DO.
 
 ### A. Premissas
 
@@ -17737,11 +17883,13 @@ Ils artitgels 4–8 valan per societads che n’han betg quotà titels da partic
 
 [^u10-1]: [AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)
 
-### A.–C. ...
+### A.–C.
 
 #### Art. 1–3
 
 [^u10-13-1]
+
+...
 
 [^u10-13-1]: Entran en vigur pli tard ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
@@ -17765,25 +17913,33 @@ Ils artitgels 4–8 valan per societads che n’han betg quotà titels da partic
 
 #### Art. 7
 
-Ils artitgels 964*a*–964*e* vegnan applitgads per l’emprima giada per l’onn da gestiun che cumenza 1 onn suenter l’entrada en vigur dal dretg nov.
+Ils artitgels 964*d*–964*h* vegnan applitgads per l’emprima giada per l’onn da gestiun che cumenza 1 onn suenter l’entrada en vigur dal dretg nov.
 
-## Disposiziuns finalas da l’otgavel titel e da l’otgavel titel<sup>bis</sup>****
+## Disposiziun transitorica da la midada dals 19 da zercladur 2020****
 
 [^u11-1]
 
-[^u11-1]: Integrà tras la cifra II da la LF dals 15 da dec. 1989, en vigur dapi il 1. da fan. 1990 ([AS 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802); BBl **1985** I1389).
+[^u11-1]: [AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)
+
+Las prescripziuns dal 6. chapitel e dal 8. chapitel dal 32. titel vegnan applitgadas per l’emprima giada per l’onn da gestiun che cumenza 1 onn suenter l’entrada en vigur da la midada dals 19 da zercladur 2020.
+
+## Disposiziuns finalas da l’otgavel titel e da l’otgavel titel<sup>bis</sup>****
+
+[^u12-1]
+
+[^u12-1]: Integrà tras la cifra II da la LF dals 15 da dec. 1989, en vigur dapi il 1. da fan. 1990 ([AS 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802); BBl **1985** I1389).
 
 #### Art. 1
 
-Il Conclus federal dals 30 da zercladur 1972[^u11-1-1] davart mesiras cunter l’abus en ils fatgs da locaziun vegn abolì.
+Il Conclus federal dals 30 da zercladur 1972[^u12-1-1] davart mesiras cunter l’abus en ils fatgs da locaziun vegn abolì.
 
-[^u11-1-1]: [[AS 1972 1502](https://fedlex.data.admin.ch/eli/oc/1972/1502_1531_1703), [1977 1269](https://fedlex.data.admin.ch/eli/oc/1977/1269_1269_1269), [1982 1234](https://fedlex.data.admin.ch/eli/oc/1982/1234_1234_1234), [1987 1189](https://fedlex.data.admin.ch/eli/oc/1987/1189_1189_1189)]
+[^u12-1-1]: [[AS 1972 1502](https://fedlex.data.admin.ch/eli/oc/1972/1502_1531_1703), [1977 1269](https://fedlex.data.admin.ch/eli/oc/1977/1269_1269_1269), [1982 1234](https://fedlex.data.admin.ch/eli/oc/1982/1234_1234_1234), [1987 1189](https://fedlex.data.admin.ch/eli/oc/1987/1189_1189_1189)]
 
 #### Art. 2–4
 
-...[^u11-24-1]
+...[^u12-24-1]
 
-[^u11-24-1]: Las modificaziuns pon vegnir consultadas en la [AS 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802).
+[^u12-24-1]: Las modificaziuns pon vegnir consultadas en la [AS 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802).
 
 #### Art. 5
 
@@ -17799,49 +17955,49 @@ Il Conclus federal dals 30 da zercladur 1972[^u11-1-1] davart mesiras cunter l�
 
 ## Disposiziuns finalas e transitoricas dal dieschavel titel****
 
-[^u12-1]
+[^u13-1]
 
-[^u12-1]: Integrà tras la cifra II da la LF dals 25 da zer. 1971, en vigur dapi il 1. da schan. 1972 ([AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [BBl 1967 II 241](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)).
+[^u13-1]: Integrà tras la cifra II da la LF dals 25 da zer. 1971, en vigur dapi il 1. da schan. 1972 ([AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [BBl 1967 II 241](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)).
 
 ### Midada dal DO
 
 #### Art. 1
 
-...*[^u12-1-1]*
+...*[^u13-1-1]*
 
-[^u12-1-1]: Las modificaziuns pon vegnir consultadas en la [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
+[^u13-1-1]: Las modificaziuns pon vegnir consultadas en la [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
 
 ### Midada dal CCS
 
 #### Art. 2
 
-...*[^u12-2-1]*
+...*[^u13-2-1]*
 
-[^u12-2-1]: Las modificaziuns pon vegnir consultadas en la [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
+[^u13-2-1]: Las modificaziuns pon vegnir consultadas en la [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
 
 ### Midada da la Lescha davart il contract d’assicuranza
 
 #### Art. 3
 
-...*[^u12-3-1]*
+...*[^u13-3-1]*
 
-[^u12-3-1]: Las modificaziuns pon vegnir consultadas en la [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
+[^u13-3-1]: Las modificaziuns pon vegnir consultadas en la [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
 
 ### Midada da la Lescha davart l’agricultura
 
 #### Art. 4
 
-...*[^u12-4-1]*
+...*[^u13-4-1]*
 
-[^u12-4-1]: Las modificaziuns pon vegnir consultadas en la [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
+[^u13-4-1]: Las modificaziuns pon vegnir consultadas en la [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
 
 ### Midada da la Lescha da lavur
 
 #### Art. 5
 
-...*[^u12-5-1]*
+...*[^u13-5-1]*
 
-[^u12-5-1]: Las modificaziuns pon vegnir consultadas en la [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
+[^u13-5-1]: Las modificaziuns pon vegnir consultadas en la [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
 
 ### Aboliziun da prescripziuns federalas
 
@@ -17850,30 +18006,30 @@ Il Conclus federal dals 30 da zercladur 1972[^u11-1-1] davart mesiras cunter l�
 Cun l’entrada en vigur da questa lescha vegnan abolids:
 
 - 1\. ils artitgels 159 e 463 dal Dretg d’obligaziuns;
-- 2\. l’artitgel 130 da la Lescha federala dals 13 da zercladur 1911[^u12-6-1] davart l’assicuranza da malsauns e davart l’assicuranza cunter accidents;
-- 3\. ils artitgels 20 fin 26, 28, 29 e 69 alineas 2 e 5 da la Lescha federala dals 18 da zercladur 1914[^u12-6-2] davart la lavur en las fabricas;
-- 4\. ils artitgels 4, 8 alineas 1, 2 e 5, 9 e 19 da la Lescha federala dals 12 da december 1940[^u12-6-3] davart la lavur a chasa;
-- 5\. la Lescha federala dals 13 da zercladur 1941[^u12-6-4] davart la relaziun d’engaschament da viagiaturs da commerzi;
-- 6\. la Lescha federala dal 1. d’avrigl 1949[^u12-6-5] davart la limitaziun da la disditga da relaziuns d’engaschament en cas da servetsch militar;
-- 7\. ils artitgels 96 e 97 da la Lescha federala dals 3 d’october 1951[^u12-6-6] davart l’agricultura;
-- 8\. l’artitgel 32 da la Lescha federala dals 25 da settember 1952[^u12-6-7] davart l’indemnisaziun da la perdita da gudogn a persunas ch’èn obligadas da far servetsch militar (urden da cumpensaziun dal gudogn);
-- 9\. l’artitgel 19 da la Lescha federala dals 28 da settember 1956[^u12-6-8] davart la decleranza impegnativa da contracts collectivs da lavur;
-- 10\. l’artitgel 49 da la Lescha federala davart la protecziun civila[^u12-6-9];
-- 11\. ils artitgels 20 alinea 2 e 59 da la Lescha federala dals 20 da settember 1963[^u12-6-10] davart la furmaziun professiunala;
-- 12\. ils artitgels 64[^u12-6-11] e 72 alinea 2 litera *a* da la Lescha federala dals 13 da mars 1964[^u12-6-12] davart la lavur en l’industria, en il mastergn ed en il commerzi.
+- 2\. l’artitgel 130 da la Lescha federala dals 13 da zercladur 1911[^u13-6-1] davart l’assicuranza da malsauns e davart l’assicuranza cunter accidents;
+- 3\. ils artitgels 20 fin 26, 28, 29 e 69 alineas 2 e 5 da la Lescha federala dals 18 da zercladur 1914[^u13-6-2] davart la lavur en las fabricas;
+- 4\. ils artitgels 4, 8 alineas 1, 2 e 5, 9 e 19 da la Lescha federala dals 12 da december 1940[^u13-6-3] davart la lavur a chasa;
+- 5\. la Lescha federala dals 13 da zercladur 1941[^u13-6-4] davart la relaziun d’engaschament da viagiaturs da commerzi;
+- 6\. la Lescha federala dal 1. d’avrigl 1949[^u13-6-5] davart la limitaziun da la disditga da relaziuns d’engaschament en cas da servetsch militar;
+- 7\. ils artitgels 96 e 97 da la Lescha federala dals 3 d’october 1951[^u13-6-6] davart l’agricultura;
+- 8\. l’artitgel 32 da la Lescha federala dals 25 da settember 1952[^u13-6-7] davart l’indemnisaziun da la perdita da gudogn a persunas ch’èn obligadas da far servetsch militar (urden da cumpensaziun dal gudogn);
+- 9\. l’artitgel 19 da la Lescha federala dals 28 da settember 1956[^u13-6-8] davart la decleranza impegnativa da contracts collectivs da lavur;
+- 10\. l’artitgel 49 da la Lescha federala davart la protecziun civila[^u13-6-9];
+- 11\. ils artitgels 20 alinea 2 e 59 da la Lescha federala dals 20 da settember 1963[^u13-6-10] davart la furmaziun professiunala;
+- 12\. ils artitgels 64[^u13-6-11] e 72 alinea 2 litera *a* da la Lescha federala dals 13 da mars 1964[^u13-6-12] davart la lavur en l’industria, en il mastergn ed en il commerzi.
 
-[^u12-6-1]: [BS **8** 281; [AS 1959 858](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876), [1964 965](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981)cifras I–III, **1968** 64, **1977** 2249 cifra I 611, **1978** 1836 agiunta cifra 4, **1982** 196 1676 agiunta cifra 1 2184 art. 114, **1990** 1091,**1991** 362 cifra II 412, **1992** 288 agiunta cifra 37 2350, **1995** 511. [AS 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)agiunta cifra 1]
-[^u12-6-2]: [SR 821.41](https://fedlex.data.admin.ch/eli/cc/30/535_539_517)
-[^u12-6-3]: [BS **8** 229; [AS 1951 1231](https://fedlex.data.admin.ch/eli/oc/1951/1231_1239_1273)art. 14 al. 2, [1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)art. 68. [AS 1983 108](https://fedlex.data.admin.ch/eli/oc/1983/108_108_108)art. 21 cifra 3]
-[^u12-6-4]: [BS **2** 776; [AS 1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)art. 69]
-[^u12-6-5]: [AS **1949** II 1293]
-[^u12-6-6]: [[AS 1953 1073](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133), [1954 1364](https://fedlex.data.admin.ch/eli/oc/1954/1364_1399_1426)art. 1, [1958 659](https://fedlex.data.admin.ch/eli/oc/1958/659_688_688), [1959 588](https://fedlex.data.admin.ch/eli/oc/1959/588_610_590), [1960 1279](https://fedlex.data.admin.ch/eli/oc/1960/1279_1334_1335), [1962 203](https://fedlex.data.admin.ch/eli/oc/1962/203_205_207)[1144](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)art. 14 [1412](https://fedlex.data.admin.ch/eli/oc/1962/1412_1463_1472), [1967 722](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760), [1968 92](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95), [1974 763](https://fedlex.data.admin.ch/eli/oc/1974/763_763_763), [1975 1088](https://fedlex.data.admin.ch/eli/oc/1975/1088_1088_1088), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I 921 942 [931](https://fedlex.data.admin.ch/eli/oc/1977/931_931_931),[1979 2058](https://fedlex.data.admin.ch/eli/oc/1979/2058_2060_2060), [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)agiunta cifra 6, [1988 640](https://fedlex.data.admin.ch/eli/oc/1988/640_640_640), [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 lit. c, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra II 51 [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)agiunta cifra 25 [2611](https://fedlex.data.admin.ch/eli/oc/1991/2611_2611_2611), [1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)art. 75 cifra 5 [1986](https://fedlex.data.admin.ch/eli/oc/1992/1986_1986_1986)art. 36 al. 1, [1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410)art. 92 cifra 4 [1571](https://fedlex.data.admin.ch/eli/oc/1993/1571_1571_1571)[2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)agiunta cifra 11, [1994 28](https://fedlex.data.admin.ch/eli/oc/1994/28_28_28), [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)art. 59 cifra 3 [1837](https://fedlex.data.admin.ch/eli/oc/1995/1837_1837_1837)[3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)cifra I 2, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)agiunta cifra 2 [2783](https://fedlex.data.admin.ch/eli/oc/1996/2783_2783_2783), [1997 1187](https://fedlex.data.admin.ch/eli/oc/1997/1187_1187_1187)[1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190), [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822). [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)agiunta lit. c]
-[^u12-6-7]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050). Ussa: LF davart l’urden da cumpensaziun dal gudogn per persunas che prestan servetsch ed en cas d’ina maternitad (L davart l’urden da cumpensaziun dal gudogn, LCG).
-[^u12-6-8]: [SR 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
-[^u12-6-9]: [[AS 1962 1089](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131), [1964 487](https://fedlex.data.admin.ch/eli/oc/1964/487_483_485)art. 22 al. 2 lit. b,[1968 1025](https://fedlex.data.admin.ch/eli/oc/1968/1025_1065_981)art. 35, [1969 310](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319)cifra III, **1971** 751, [1978 50](https://fedlex.data.admin.ch/eli/oc/1978/50_50_50)[570](https://fedlex.data.admin.ch/eli/oc/1978/570_570_), [1985 1649](https://fedlex.data.admin.ch/eli/oc/1985/1649_1649_1649), [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)agiunta cifra 7, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)agiunta cifra 22, **1993** 2043 agiunta cifra 3, [1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626)art. 71]
-[^u12-6-10]: [[AS 1965 321](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321), [1968 86](https://fedlex.data.admin.ch/eli/oc/1968/86_87_89), [1972 1681](https://fedlex.data.admin.ch/eli/oc/1972/1681_1709_1885), [1975 1078](https://fedlex.data.admin.ch/eli/oc/1975/1078_1078_1078)cifra III, [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I 331. [AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687)art. 75]
-[^u12-6-11]: Quest artitgel è ussa abolì.
-[^u12-6-12]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^u13-6-1]: [BS **8** 281; [AS 1959 858](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 965](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981)cifras I–II; **1968** 6; **1977** 2249 cifra I, 611; **1978** 1836 agiunta cifra 4; **1982** 196, 1676 agiunta cifra 1, 2184 art. 114; **1990** 1091; **1991** 362 cifra II 412; **1992** 288 agiunta cifra 37, 2350; **1995** 511. [AS 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)agiunta cifra 1]
+[^u13-6-2]: [SR 821.41](https://fedlex.data.admin.ch/eli/cc/30/535_539_517)
+[^u13-6-3]: [BS **8** 229; [AS 1951 1231](https://fedlex.data.admin.ch/eli/oc/1951/1231_1239_1273)art. 14 al. 2; [1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)art. 68. [AS 1983 108](https://fedlex.data.admin.ch/eli/oc/1983/108_108_108)art. 21 cifra 3]
+[^u13-6-4]: [BS **2** 776; [AS 1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)art. 69]
+[^u13-6-5]: [AS **1949** II 1293]
+[^u13-6-6]: [[AS 1953 1073](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133); [1954 1364](https://fedlex.data.admin.ch/eli/oc/1954/1364_1399_1426)art. 1; [1958 659](https://fedlex.data.admin.ch/eli/oc/1958/659_688_688); [1959 588](https://fedlex.data.admin.ch/eli/oc/1959/588_610_590); [1960 1279](https://fedlex.data.admin.ch/eli/oc/1960/1279_1334_1335); [1962 203](https://fedlex.data.admin.ch/eli/oc/1962/203_205_207), [1144](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)art. 14, [1412](https://fedlex.data.admin.ch/eli/oc/1962/1412_1463_1472); [1967 722](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760); [1968 92](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95); [1974 763](https://fedlex.data.admin.ch/eli/oc/1974/763_763_763); [1975 1088](https://fedlex.data.admin.ch/eli/oc/1975/1088_1088_1088); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I, 921, 942, [931](https://fedlex.data.admin.ch/eli/oc/1977/931_931_931); [1979 2058](https://fedlex.data.admin.ch/eli/oc/1979/2058_2060_2060); [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)agiunta cifra 6; [1988 640](https://fedlex.data.admin.ch/eli/oc/1988/640_640_640); [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 lit. c; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra II 51; [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)agiunta cifra 25; [2611](https://fedlex.data.admin.ch/eli/oc/1991/2611_2611_2611); [1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)art. 75 cifra 5, [1986](https://fedlex.data.admin.ch/eli/oc/1992/1986_1986_1986)art. 36 al. 1; [1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410)art. 92 cifra 4, [1571](https://fedlex.data.admin.ch/eli/oc/1993/1571_1571_1571), [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)agiunta cifra 11; [1994 28](https://fedlex.data.admin.ch/eli/oc/1994/28_28_28); [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)art. 59 cifra 3, [1837](https://fedlex.data.admin.ch/eli/oc/1995/1837_1837_1837), [3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)cifra I 2; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)agiunta cifra 2, [2783](https://fedlex.data.admin.ch/eli/oc/1996/2783_2783_2783); [1997 1187](https://fedlex.data.admin.ch/eli/oc/1997/1187_1187_1187), [1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190); [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822). [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)agiunta lit. c]
+[^u13-6-7]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050). Ussa: LF davart l’urden da cumpensaziun dal gudogn per persunas che prestan servetsch ed en cas d’ina maternitad (L davart l’urden da cumpensaziun dal gudogn, LCG).
+[^u13-6-8]: [SR 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
+[^u13-6-9]: [[AS 1962 1089](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131); [1964 487](https://fedlex.data.admin.ch/eli/oc/1964/487_483_485)art. 22 al. 2 lit. b;[1968 1025](https://fedlex.data.admin.ch/eli/oc/1968/1025_1065_981)art. 35; [1969 310](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319)cifra III; **1971** 751; [1978 50](https://fedlex.data.admin.ch/eli/oc/1978/50_50_50), [570](https://fedlex.data.admin.ch/eli/oc/1978/570_570_); [1985 1649](https://fedlex.data.admin.ch/eli/oc/1985/1649_1649_1649); [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)agiunta cifra 7; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)agiunta cifra 22; **1993** 2043 agiunta cifra 3; [1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626)art. 71]
+[^u13-6-10]: [[AS 1965 321](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321), [428](https://fedlex.data.admin.ch/eli/oc/1965/428__); [1968 86](https://fedlex.data.admin.ch/eli/oc/1968/86_87_89); [1972 1681](https://fedlex.data.admin.ch/eli/oc/1972/1681_1709_1885); [1975 1078](https://fedlex.data.admin.ch/eli/oc/1975/1078_1078_1078)cifra III; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I 331. [AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687)art. 75]
+[^u13-6-11]: Quest artitgel è ussa abolì.
+[^u13-6-12]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
 ### Adattaziun da relaziuns giuridicas ch’èn naschidas sut il dretg vegl
 
@@ -17881,10 +18037,10 @@ Cun l’entrada en vigur da questa lescha vegnan abolids:
 
 <sup>1</sup> Ils contracts da lavur (contracts individuals da lavur, contracts normals da lavur e contracts collectivs da lavur) ch’existan il mument che questa lescha entra en vigur ston vegnir adattads a sias prescripziuns entaifer in termin dad 1 onn; suenter la scadenza da quest termin èn sias prescripziuns applitgablas per tut ils contracts da lavur.
 
-<sup>2</sup> Las instituziuns da prevenziun per il persunal ch’existan il mument che questa lescha entra en vigur[^u12-7-1] han d’adattar fin il pli tard il 1. da schaner 1977 lur statuts u lur reglaments als artitgels 331*a*, 331*b* e 331*c*, resguardond las prescripziuns formalas che valan per la midada; a partir dal 1. da schaner 1977 èn questas disposiziuns applitgablas per tut las instituziuns da prevenziun per il persunal[^u12-7-2].
+<sup>2</sup> Las instituziuns da prevenziun per il persunal ch’existan il mument che questa lescha entra en vigur[^u13-7-1] han d’adattar fin il pli tard il 1. da schaner 1977 lur statuts u lur reglaments als artitgels 331*a*, 331*b* e 331*c*, resguardond las prescripziuns formalas che valan per la midada; a partir dal 1. da schaner 1977 èn questas disposiziuns applitgablas per tut las instituziuns da prevenziun per il persunal[^u13-7-2].
 
-[^u12-7-1]: Il 1. da schan. 1972
-[^u12-7-2]: Versiun tenor la cifra I da la LF dals 25 da zer. 1976, en vigur dapi il 1. da schan. 1977 ([AS 1976 1972](https://fedlex.data.admin.ch/eli/oc/1976/1972_1972_1972); [BBl 1976 I 1269](https://fedlex.data.admin.ch/eli/fga/1976/1_1269_1273_1245)).
+[^u13-7-1]: Il 1. da schan. 1972
+[^u13-7-2]: Versiun tenor la cifra I da la LF dals 25 da zer. 1976, en vigur dapi il 1. da schan. 1977 ([AS 1976 1972](https://fedlex.data.admin.ch/eli/oc/1976/1972_1972_1972); [BBl 1976 I 1269](https://fedlex.data.admin.ch/eli/fga/1976/1_1269_1273_1245)).
 
 ### Entrada en vigur da la lescha
 
@@ -17894,9 +18050,9 @@ Il Cussegl federal fixescha il termin che questa lescha entra en vigur.
 
 ## Disposiziuns finalas dal quart chapitel dal tredeschavel titel****
 
-[^u13-1]
+[^u14-1]
 
-[^u13-1]: Integrà tras la cifra II da la LF dals 4 da favr. 1949, en vigur dapi il 1. da schan. 1950 (AS **1949** I 802 808; BBl **1947** III661).
+[^u14-1]: Integrà tras la cifra II da la LF dals 4 da favr. 1949, en vigur dapi il 1. da schan. 1950 (AS **1949** I 802 808; BBl **1947** III661).
 
 ### A. Dretg transitoric
 
@@ -17912,9 +18068,9 @@ Il Cussegl federal fixescha il termin che questa lescha entra en vigur.
 
 #### Art. 2
 
-...[^u13-2-1]
+...[^u14-2-1]
 
-[^u13-2-1]: Las modificaziuns pon vegnir consultadas en la AS **1949** I 802.
+[^u14-2-1]: Las modificaziuns pon vegnir consultadas en la AS **1949** I 802.
 
 ### C. Entrada en vigur
 
@@ -17924,13 +18080,13 @@ Il Cussegl federal fixescha il termin che questa lescha entra en vigur.
 
 ## Disposiziuns transitoricas dal ventgavel titel****
 
-[^u14-1]
+[^u15-1]
 
-[^u14-1]: Integrà tras la cifra II da la LF dals 10 da dec. 1941, en vigur dapi il 1. da fan. 1942 ([AS 58 279](https://fedlex.data.admin.ch/eli/oc/58/279_279_303)290 [644](https://fedlex.data.admin.ch/eli/oc/58/644_646_748); [BBl 1939 II 841](https://fedlex.data.admin.ch/eli/fga/1939/2_841_857_149)).
+[^u15-1]: Integrà tras la cifra II da la LF dals 10 da dec. 1941, en vigur dapi il 1. da fan. 1942 ([AS 58 279](https://fedlex.data.admin.ch/eli/oc/58/279_279_303)290 [644](https://fedlex.data.admin.ch/eli/oc/58/644_646_748); [BBl 1939 II 841](https://fedlex.data.admin.ch/eli/fga/1939/2_841_857_149)).
 
 <sup>1</sup> Las disposiziuns dal nov dretg vegnan applitgadas per tut las garanzias ch’èn vegnidas surpigliadas suenter che questa lescha è entrada en vigur.
 
-<sup>3</sup> Las prescripziuns dals artitgels 77–80 da la Lescha da dazi dals 18 da mars 2005[^u14-2] restan resalvadas.[^u14-3]
+<sup>3</sup> Las prescripziuns dals artitgels 77–80 da la Lescha da dazi dals 18 da mars 2005[^u15-2] restan resalvadas.[^u15-3]
 
 <sup>4</sup> Il Cussegl federal fixescha il termin che questa lescha entra en vigur.
 
@@ -17943,22 +18099,22 @@ Il Cussegl federal fixescha il termin che questa lescha entra en vigur.
 - 5\. la disposiziun da l’artitgel 505 alinea 2 vegn applitgada mo per concurs ch’èn vegnids introducids almain 3 mais suenter l’entrada en vigur da la lescha, sco er sin moratoris ch’èn vegnids permess almain 3 mais suenter l’entrada en vigur da la lescha;
 - 6\. il termin che vegn numnà en l’artitgel 509 alinea 3 cumenza a currer per garanzias tenor il dretg vegl pir cun l’entrada en vigur da la lescha.
 
-[^u14-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^u14-3]: Versiun tenor la cifra 2 da l’agiunta da la L da dazi dals 18 da mars 2005, en vigur dapi il 1. da matg 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^u15-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^u15-3]: Versiun tenor la cifra 2 da l’agiunta da la L da dazi dals 18 da mars 2005, en vigur dapi il 1. da matg 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 ## Disposiziuns finalas e transitoricas dal ventgaquatteravel fin al trentatraisavel titel****
 
-[^u15-1]
+[^u16-1]
 
-[^u15-1]: Integrà tras la LF dals 18 da dec. 1936 ([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), **1932** I217).
+[^u16-1]: Integrà tras la LF dals 18 da dec. 1936 ([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), **1932** I217).
 
 ### A. Applitgabladad dal titel final
 
 #### Art. 1
 
-Las prescripziuns dal titel final dal Cudesch civil svizzer[^u15-1-1] vegnan er applitgadas per questa lescha.
+Las prescripziuns dal titel final dal Cudesch civil svizzer[^u16-1-1] vegnan er applitgadas per questa lescha.
 
-[^u15-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u16-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 ### B. Adattaziun da veglias societads al dretg nov
 
@@ -17978,16 +18134,16 @@ Las prescripziuns dal titel final dal Cudesch civil svizzer[^u15-1-1] vegnan er 
 
 #### Art. 3
 
-Sche societads anonimas, sche societads acziunaras commanditaras e sche associaziuns han – avant l’entrada en vigur da questa lescha – destinà en moda evidenta parts da lur facultad per fundar e per sustegnair instituziuns da prevenziun, han ellas d’adattar quests fonds entaifer 5 onns a las disposiziuns dals artitgels 673[^u15-3-1] ed 862[^u15-3-2].
+Sche societads anonimas, sche societads acziunaras commanditaras e sche associaziuns han – avant l’entrada en vigur da questa lescha – destinà en moda evidenta parts da lur facultad per fundar e per sustegnair instituziuns da prevenziun, han ellas d’adattar quests fonds entaifer 5 onns a las disposiziuns dals artitgels 673[^u16-3-1] ed 862[^u16-3-2].
 
-[^u15-3-1]: Quest artitgel ha ussa ina nova versiun.
-[^u15-3-2]: Quest artitgel ha ussa ina nova versiun.
+[^u16-3-1]: Quest artitgel ha ussa ina nova versiun.
+[^u16-3-2]: Quest artitgel ha ussa ina nova versiun.
 
 #### Art. 4
 
-[^u15-4-1]
+[^u16-4-1]
 
-[^u15-4-1]: Abolì tras la cifra 2 da l’agiunta da la L dals 3 d’oct. 2003 davart la fusiun, cun effect dapi il 1. da fan. 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+[^u16-4-1]: Abolì tras la cifra 2 da l’agiunta da la L dals 3 d’oct. 2003 davart la fusiun, cun effect dapi il 1. da fan. 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 
 ### C. Prescripziuns concernent la bilantscha
 
@@ -18003,9 +18159,9 @@ Sche societads anonimas, sche societads acziunaras commanditaras e sche associaz
 
 #### Art. 6
 
-[^u15-6-1]
+[^u16-6-1]
 
-[^u15-6-1]: Senza impurtanza.
+[^u16-6-1]: Senza impurtanza.
 
 ### D. Relaziuns da responsabladad dals associads
 
@@ -18013,11 +18169,11 @@ Sche societads anonimas, sche societads acziunaras commanditaras e sche associaz
 
 <sup>1</sup> Las midadas che las prescripziuns da questa lescha chaschunan per las relaziuns da responsabladad dals associads na pregiuditgeschan betg ils dretgs dals crediturs ch’existan il mument che la lescha entra en vigur.
 
-<sup>2</sup> Las associaziuns, da las qualas ils commembers stattan buns persunalmain per las obligaziuns da l’associaziun, e quai mo sin basa da la prescripziun da l’artitgel 689 dal Dretg d’obligaziuns vertent[^u15-7-1] èn suttamess per 5 onns a las disposiziuns dal dretg vertent.
+<sup>2</sup> Las associaziuns, da las qualas ils commembers stattan buns persunalmain per las obligaziuns da l’associaziun, e quai mo sin basa da la prescripziun da l’artitgel 689 dal Dretg d’obligaziuns vertent[^u16-7-1] èn suttamess per 5 onns a las disposiziuns dal dretg vertent.
 
 <sup>3</sup> Durant quest termin po la radunanza generala concluder cun la maioritad absoluta da las vuschs davart l’exclusiun totala u parziala da la responsabladad persunala u constatar expressivamain la responsabladad persunala. La prescripziun da l’artitgel 889 alinea 2 davart l’extrada na vegn betg applitgada.
 
-[^u15-7-1]: [AS 27 317](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)
+[^u16-7-1]: [AS 27 317](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)
 
 ### E. Firmas commerzialas
 
@@ -18064,26 +18220,26 @@ Cambialas e schecs ch’èn vegnids emess avant l’entrada en vigur da questa l
 
 #### Art. 13
 
-Las disposiziuns da l’Ordinaziun dals 20 da favrer 1918[^u15-13-1] davart la cuminanza da crediturs en cas d’obligaziuns d’emprest e dals conclus cumplettants dal Cussegl federal[^u15-13-2] restan vinavant en vigur per ils cas, per ils quals ellas vegnissan applitgadas.
+Las disposiziuns da l’Ordinaziun dals 20 da favrer 1918[^u16-13-1] davart la cuminanza da crediturs en cas d’obligaziuns d’emprest e dals conclus cumplettants dal Cussegl federal[^u16-13-2] restan vinavant en vigur per ils cas, per ils quals ellas vegnissan applitgadas.
 
-[^u15-13-1]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249), [35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396), [36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599)[893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
-[^u15-13-2]: [[AS 51 673](https://fedlex.data.admin.ch/eli/oc/51/673_684_779), [53 454](https://fedlex.data.admin.ch/eli/oc/53/454_454_459), [57 1514](https://fedlex.data.admin.ch/eli/oc/57/1514_1549_1595), [58 934](https://fedlex.data.admin.ch/eli/oc/58/934_936_978), **62** 1088, [63 1342](https://fedlex.data.admin.ch/eli/oc/63/1342_1343_1348)]
+[^u16-13-1]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249); [35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396); [36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599), [893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
+[^u16-13-2]: [[AS 51 673](https://fedlex.data.admin.ch/eli/oc/51/673_684_779); [53 454](https://fedlex.data.admin.ch/eli/oc/53/454_454_459); [57 1514](https://fedlex.data.admin.ch/eli/oc/57/1514_1549_1595); [58 934](https://fedlex.data.admin.ch/eli/oc/58/934_936_978); **62** 1088; [63 1342](https://fedlex.data.admin.ch/eli/oc/63/1342_1343_1348)]
 
 ### H. ...
 
 #### Art. 14
 
-[^u15-14-1]
+[^u16-14-1]
 
-[^u15-14-1]: Abolì tras la cifra I litera c da l’agiunta da la LF dals 18 da dec. 1987 davart il dretg internaziunal privat, cun effect dapi il 1. da schan. 1989 ([AS 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776); [BBl 1983 I 263](https://fedlex.data.admin.ch/eli/fga/1983/1_263_255_239)).
+[^u16-14-1]: Abolì tras la cifra I litera c da l’agiunta da la LF dals 18 da dec. 1987 davart il dretg internaziunal privat, cun effect dapi il 1. da schan. 1989 ([AS 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776); [BBl 1983 I 263](https://fedlex.data.admin.ch/eli/fga/1983/1_263_255_239)).
 
 ### J. Midada da la Lescha federala davart scussiun e concurs
 
 #### Art. 15
 
-...[^u15-15-1]
+...[^u16-15-1]
 
-[^u15-15-1]: Las modificaziuns pon vegnir consultadas en la [AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
+[^u16-15-1]: Las modificaziuns pon vegnir consultadas en la [AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
 
 ### K. Relaziun tar la Lescha da bancas
 
@@ -18091,25 +18247,25 @@ Las disposiziuns da l’Ordinaziun dals 20 da favrer 1918[^u15-13-1] davart la c
 
 #### Art. 16
 
-Las prescripziuns da la Lescha federala dals 8 da november 1934[^u15-16-1] davart las bancas e cassas da spargn restan resalvadas.
+Las prescripziuns da la Lescha federala dals 8 da november 1934[^u16-16-1] davart las bancas e cassas da spargn restan resalvadas.
 
-[^u15-16-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^u16-16-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 
 ### II. Midadas da singulas prescripziuns
 
 #### Art. 17
 
-...[^u15-17-1]
+...[^u16-17-1]
 
-[^u15-17-1]: Las modificaziuns pon vegnir consultadas en la [AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
+[^u16-17-1]: Las modificaziuns pon vegnir consultadas en la [AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
 
 ### L. Aboliziun dal dretg civil federal
 
 #### Art. 18
 
-Cun l’entrada en vigur da questa lescha vegnan abolidas las disposiziuns dal dretg civil da la Confederaziun che stattan en cuntradicziun cun quella, en spezial la terza partiziun dal Dretg d’obligaziuns che porta il titel: «Las societads commerzialas, vaglias e firmas commerzialas» (LF dals 14 da zercladur 1881[^u15-18-1] davart il Dretg d’obligaziuns, art. 552–715 e 720–880).
+Cun l’entrada en vigur da questa lescha vegnan abolidas las disposiziuns dal dretg civil da la Confederaziun che stattan en cuntradicziun cun quella, en spezial la terza partiziun dal Dretg d’obligaziuns che porta il titel: «Las societads commerzialas, vaglias e firmas commerzialas» (LF dals 14 da zercladur 1881[^u16-18-1] davart il Dretg d’obligaziuns, art. 552–715 e 720–880).
 
-[^u15-18-1]: [[AS 5 635](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 490; BS **2** 784 art. 103 al. 1; BS **2** 3 titel final art. 60 al. 2]
+[^u16-18-1]: [[AS 5 635](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 490; BS **2** 784 art. 103 al. 1; BS **2** 3 titel final art. 60 al. 2]
 
 ### M. Entrada en vigur da questa lescha
 
@@ -18117,25 +18273,25 @@ Cun l’entrada en vigur da questa lescha vegnan abolidas las disposiziuns dal d
 
 <sup>1</sup> Questa lescha entra en vigur il 1. da fanadur 1937.
 
-<sup>2</sup> Exceptà da quai è il chapitel davart la cuminanza da crediturs en cas d’obligaziuns d’emprest (art. 1157–1182); il Cussegl federal vegn a fixar l’entrada en vigur da quest chapitel.[^u15-19-1]
+<sup>2</sup> Exceptà da quai è il chapitel davart la cuminanza da crediturs en cas d’obligaziuns d’emprest (art. 1157–1182); il Cussegl federal vegn a fixar l’entrada en vigur da quest chapitel.[^u16-19-1]
 
 <sup>3</sup> Il Cussegl federal vegn incumbensà cun l’execuziun da questa lescha.
 
-[^u15-19-1]: Questa part è vegnida messa en vigur en la versiun da la LF dal 1. d’avr. 1949. Pertutgant il text da la versiun oriunda guardar [AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
+[^u16-19-1]: Questa part è vegnida messa en vigur en la versiun da la LF dal 1. d’avr. 1949. Pertutgant il text da la versiun oriunda guardar [AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
 
 ## Disposiziuns finalas dal ventgasisavel titel****
 
-[^u16-1]
+[^u17-1]
 
-[^u16-1]: Integrà tras la cifra III da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^u17-1]: Integrà tras la cifra III da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
 
 ### A. Titel final dal Cudesch civil svizzer
 
 #### Art. 1
 
-Il titel final dal Cudesch civil svizzer[^u16-1-1] vala per questa lescha.
+Il titel final dal Cudesch civil svizzer[^u17-1-1] vala per questa lescha.
 
-[^u16-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u17-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 ### B. Adattaziuns al dretg nov
 
@@ -18171,9 +18327,9 @@ En cumplettaziun da l’artitgel 685*d* alinea 1 po la societad – sin basa da 
 
 #### Art. 5
 
-Societads che han – applitgond l’artitgel 10 da las disposiziuns finalas e transitoricas da la Lescha federala dals 18 da december 1936 davart la revisiun dals titels 24–33 dal Dretg d’obligaziuns[^u16-5-1] – mantegnì aczias cun dretg da votar che han ina valur nominala sut 10 francs, sco er societads, tar las qualas la valur nominala da las aczias pli grondas importa dapli che diesch giadas la valur nominala da las aczias pli pitschnas, na ston betg adattar lur statuts a l’artitgel 693 alinea 2 segunda frasa. Ellas na dastgan dentant emetter naginas aczias novas pli, da las qualas la valur nominala importa dapli che diesch giadas la valur nominala da las aczias pli pitschnas u main che 10 pertschient da la valur nominala da las aczias pli grondas.
+Societads che han – applitgond l’artitgel 10 da las disposiziuns finalas e transitoricas da la Lescha federala dals 18 da december 1936 davart la revisiun dals titels 24–33 dal Dretg d’obligaziuns[^u17-5-1] – mantegnì aczias cun dretg da votar che han ina valur nominala sut 10 francs, sco er societads, tar las qualas la valur nominala da las aczias pli grondas importa dapli che diesch giadas la valur nominala da las aczias pli pitschnas, na ston betg adattar lur statuts a l’artitgel 693 alinea 2 segunda frasa. Ellas na dastgan dentant emetter naginas aczias novas pli, da las qualas la valur nominala importa dapli che diesch giadas la valur nominala da las aczias pli pitschnas u main che 10 pertschient da la valur nominala da las aczias pli grondas.
 
-[^u16-5-1]: Guardar l’annotaziun numnada survart.
+[^u17-5-1]: Guardar annotaziun numnada survart.
 
 ### 4. Maioritads qualifitgadas
 
@@ -18185,9 +18341,9 @@ Sch’ina societad ha integrà – e quai mo cun repeter disposiziuns dal dretg 
 
 #### Art. 7
 
-...[^u16-7-1]
+...[^u17-7-1]
 
-[^u16-7-1]: Las modificaziuns pon vegnir consultadas en la [AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733).
+[^u17-7-1]: Las modificaziuns pon vegnir consultadas en la [AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733).
 
 ### D. Referendum
 
@@ -18203,19 +18359,19 @@ Il Cussegl federal fixescha l’entrada en vigur.
 
 ## Disposiziuns finalas dal segund chapitel dal trentaquatteravel titel****
 
-[^u17-1]
+[^u18-1]
 
-[^u17-1]: Integrà tras la cifra II da la LF dal 1. d’avr. 1949, en vigur dapi il 1. da schan. 1950 (AS **1949** I 791 801; [BBl 1947 III 869](https://fedlex.data.admin.ch/eli/fga/1947/3_869_905_)).
+[^u18-1]: Integrà tras la cifra II da la LF dal 1. d’avr. 1949, en vigur dapi il 1. da schan. 1950 (AS **1949** I 791 801; [BBl 1947 III 869](https://fedlex.data.admin.ch/eli/fga/1947/3_869_905_)).
 
-- 1\. ...[^u17-2]
-- 2\. ...[^u17-3]
+- 1\. ...[^u18-2]
+- 2\. ...[^u18-3]
 - 3\. Ils conclus da la cuminanza ch’èn vegnids prendids sin basa dal dretg vertent restan valaivels sut il dretg nov.
 - Per conclus che vegnan prendids suenter l’entrada en vigur da questa lescha èn decisivas las prescripziuns dal dretg nov.
 - Sch’in debitur ha dentant survegnì gia sin basa dal dretg vertent e tras conclus da la cuminanza dals debiturs facilitaziuns ch’èn egualas u che correspundan a quellas ch’èn previsas en l’artitgel 1170, ston ellas vegnir resguardadas adequatamain tar l’applicaziun da questa prescripziun.
 - Dal rest èn applitgablas las disposiziuns finalas e transitoricas da la Lescha federala dals 18 da december 1936 davart la revisiun dal ventgaquatteravel fin al trentatraisavel titel dal Dretg d’obligaziuns.
-- 4\. Cun l’entrada en vigur da questa lescha vegnan abolidas las disposiziuns che cuntrafan a questa lescha, en spezial l’Ordinaziun dal Cussegl federal dals 20 da favrer 1918[^u17-4] davart la cuminanza da crediturs en cas d’obligaziuns d’emprest.
+- 4\. Cun l’entrada en vigur da questa lescha vegnan abolidas las disposiziuns che cuntrafan a questa lescha, en spezial l’Ordinaziun dal Cussegl federal dals 20 da favrer 1918[^u18-4] davart la cuminanza da crediturs en cas d’obligaziuns d’emprest.
 - 5\. Il Cussegl federal fixescha il termin che questa lescha entra en vigur.
 
-[^u17-2]: Las modificaziuns pon vegnir consultadas en la AS **1949** I 791.
-[^u17-3]: Las modificaziuns pon vegnir consultadas en la AS **1949** I 791.
-[^u17-4]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249), [35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396), [36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599)[893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
+[^u18-2]: Las modificaziuns pon vegnir consultadas en la AS **1949** I 791.
+[^u18-3]: Las modificaziuns pon vegnir consultadas en la AS **1949** I 791.
+[^u18-4]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249); [35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396); [36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599), [893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]

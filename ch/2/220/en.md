@@ -4,11 +4,11 @@ title: "Federal Act of 30 March 1911 on the Amendment of the Swiss Civil Code (P
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: en
-version: 2021-07-01
+version: 2022-01-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210701/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210701-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20220101/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20220101-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Part Five: The Code of Obligations)
 
-of 30 March 1911 (Status as of 1 July 2021)
+of 30 March 1911 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -442,13 +442,17 @@ The following provisions apply to contracts relating to goods and services inten
 - a. the supplier of the goods or services acted in a professional or commercial capacity; and
 - b. the consideration from the buyer exceeds 100 francs.
 
-<sup>2</sup> These provisions do not apply to insurance policies and to legal transactions that are entered into by financial institutions and banks within the framework of existing financial services contracts in accordance with the Federal Act of 15 June 2018[^40a-2].[^40a-3]
+<sup>2</sup> These provisions do not apply to legal transactions that are entered into by financial institutions and banks within the framework of existing financial services contracts in accordance with the Financial Services Act of 15 June 2018[^40a-2].[^40a-3]
+
+<sup>2bis</sup> For insurance policies, the provisions of the Insurance Policies Act of 2 April 1908[^40a-4] apply.[^40a-5]
 
 <sup>3</sup> In the event of significant change to the purchasing power of the national currency, the Federal Council shall adjust the sum indicated in para. 1 let. b accordingly.
 
 [^40a-1]: Inserted by No I of the FA of 5 Oct. 1990, in force since 1 July 1991 ([AS 1991 846](https://fedlex.data.admin.ch/eli/oc/1991/846_846_846); [BBl 1986 II 354](https://fedlex.data.admin.ch/eli/fga/1986/2_354_360_231)).
 [^40a-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^40a-3]: Amended by Annex No 1 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^40a-3]: Amended by No II of the FA of 19 June 2020, in force since 1 Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^40a-4]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^40a-5]: Inserted by No II of the FA of 19 June 2020, in force since 1 Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### II. General principle
 
@@ -11035,7 +11039,7 @@ The board of directors has the following non-transferable and inalienable duties
 
 <sup>1</sup> The persons with authority to represent the company may carry out any legal acts on behalf of the company that are consistent with the company’s objects.
 
-<sup>2</sup> A restriction of such authority has no effect as against bona fide third parties; any provisions governing exclusive representation of the head office or a branch office or governing joint representation of the company that are entered in the commercial register are exceptions to this rule.
+<sup>2</sup> A restriction of such authority has no effect as against bona fide third parties; any provisions governing exclusive representation of the principal place of business or a branch office or governing joint representation of the company that are entered in the commercial register are exceptions to this rule.
 
 [^718a-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
@@ -11045,7 +11049,7 @@ The board of directors has the following non-transferable and inalienable duties
 
 [^718b-1]
 
-If the company is represented in the conclusion of a contract by the person with whom it is concluding the contract, the contract must be done in writing. This requirement does not apply to contract relating to everyday business where the value of the company's goods or services does not exceed 1,000 francs.
+If the company is represented in the conclusion of a contract by the person with whom it is concluding the contract, the contract must be done in writing. This requirement does not apply to contracts relating to everyday business where the value of the company's goods or services does not exceed 1,000 francs.
 
 [^718b-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
@@ -13634,7 +13638,7 @@ The articles of association may delegate some of the duties and powers of the bo
 
 <sup>1</sup> The persons with authority to represent the cooperative may carry out in its name any transactions conducive to the achievement of the cooperative’s objects.
 
-<sup>2</sup> Any restriction of such authority has no effect in relation to bona fide third parties, subject to any provisions entered in the commercial register that govern exclusive representation of the head office or a branch office or joint management of the society.
+<sup>2</sup> Any restriction of such authority has no effect in relation to bona fide third parties, subject to any provisions entered in the commercial register that govern exclusive representation of the principal place of business or a branch office or joint management of the society.
 
 <sup>3</sup> The cooperative is liable for any damage resulting from unauthorised acts carried out in the exercise of his function by a person authorised to manage the cooperative’s business or to represent it.
 
@@ -13992,6 +13996,10 @@ Legal entities for the purpose of this Title are:
 
 ### D. OASI number and personal number
 
+[^part4-tit30-lvlD-1]
+
+[^part4-tit30-lvlD-1]: Term in accordance with Annex No 3 of the FA of 18 Dec. 2020 (Systematic Use of the OASI Number by Authorities), in force since 1 Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). This modification has been made in the provisions specified in the AS.
+
 #### Art. 928c
 
 <sup>1</sup> The commercial register authorities shall use the OASI number systematically to identify natural persons.
@@ -14066,7 +14074,7 @@ The legal entities recorded in the commercial register registered are assigned a
 
 <sup>1</sup> If a sole proprietorship no longer has a domicile, then if there is no response to a request published three times in the Swiss Official Commercial Gazette, it shall be deleted from the commercial register.
 
-<sup>2</sup> If a branch office with a head office in Switzerland no longer has a domicile, the branch office shall be deleted by the commercial register office if there is no response to a request made to the head office.
+<sup>2</sup> If a branch office with a principal place of business in Switzerland no longer has a domicile, the branch office shall be deleted by the commercial register office if there is no response to a request made to the principal place of business.
 
 ### VI. Reinstatement
 
@@ -14137,7 +14145,7 @@ The commercial register authorities shall verify whether the legal requirements 
 
 #### Art. 939
 
-<sup>1</sup> If the commercial register office identifies defects in the organisational aspects required by law of trading companies, cooperatives, associations, foundations not subject to supervision or branch offices with head office abroad that are recorded in the commercial register, it shall request the legal entity concerned to rectify the defect, and fix a deadline for doing so.
+<sup>1</sup> If the commercial register office identifies defects in the organisational aspects required by law of trading companies, cooperatives, associations, foundations not subject to supervision or branch offices with principal place of business abroad that are recorded in the commercial register, it shall request the legal entity concerned to rectify the defect, and fix a deadline for doing so.
 
 <sup>2</sup> If the defect is not rectified not within the deadline, the office shall refer the matter to the court. The court shall take the required measures.
 
@@ -14281,9 +14289,9 @@ The business names of a commercial enterprise or a cooperatives must be clearly 
 
 #### Art. 952
 
-<sup>1</sup> A branch office must have the same business name as the head office; however, it may append a special addition to its business name providing this applies only to that particular branch office.
+<sup>1</sup> A branch office must have the same business name as the principal place of business; however, it may append a special addition to its business name providing this applies only to that particular branch office.
 
-<sup>2</sup> The business name of the branch office of a company whose seat is outside Switzerland must also indicate the location of the head office, the location of the branch office and the express designation of branch office.
+<sup>2</sup> The business name of the branch office of a company whose seat is outside Switzerland must also indicate the location of the principal place of business, the location of the branch office and the express designation of branch office.
 
 ### V. ...
 
@@ -14343,11 +14351,12 @@ The registration of a business name does not relieve the persons entitled to use
 
 <sup>2</sup> A party whose interests are injured by the unauthorised use of a business name may apply for an injunction banning further abuse of the business name and sue for damages if the unauthorised user is at fault.
 
-### Title Thirty-Two:**** Commercial Accounting and Financial Reporting
+### Title Thirty-Two:**** Commercial Accounting, Financial Reporting, other Transparency and Due Diligence Obligations****
 
-[^part4-tit32-1]
+[^part4-tit32-1][^part4-tit32-2]
 
 [^part4-tit32-1]: Amended by No I 2 of the FA of 23 Dec. 2011 (Financial Reporting Law), in force since 1 Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)). See also the Transitional Provision to this Amendment, at the end of this Code.
+[^part4-tit32-2]: Amended by No I of the FA of 19 June 2020 (Indirect Counter-Proposal to the Popular Initiative "For responsible businesses – protecting human rights and the environment"), in force since 1 Jan. 2022 ([AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Section One: General Provisions
 
@@ -14896,15 +14905,92 @@ Consolidated accounts must nonetheless be prepared in accordance with a recognis
 
 [^964-1]: Repealed by No I of the FA of 22 Dec. 1999, with effect from 1 June 2002 ([AS 2002 949](https://fedlex.data.admin.ch/eli/oc/2002/170); [BBl 1999 5149](https://fedlex.data.admin.ch/eli/fga/1999/1_5149_4753_4457)).
 
-### Section Six**** Transparency in Raw Material Companies
+### Section Six****: Transparency on Non-Financial Matters
 
 [^part4-tit32-chap6-1]
 
-[^part4-tit32-chap6-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2021 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). See also Art. 7 of the Transitional Provision to this Amendment at the end of the text.
+[^part4-tit32-chap6-1]: Inserted by No I und III 1 of the FA of 19 June 2020 (Indirect Counter-Proposal to the Popular Initiative "For responsible businesses – protecting human rights and the environment"), in force since 1 Jan. 2022 ([AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). See also the transitional provision to this Amendment at the end of the text.
 
 ### A. Principle
 
 #### Art. 964a
+
+<sup>1</sup>
+
+Undertakings shall prepare a report on non-financial matters each year if:
+
+- 1\. they are companies of public interest as defined in Article 2 letter c of the Auditor Oversight Act of 16 December 2005[^964a-1];
+- 2\. together with the Swiss or foreign undertakings that they control, they have at least 500 full-time equivalent positions on annual average in two successive financial years; and
+- 3\.
+
+  together with the Swiss or foreign undertakings that they control, they exceed at least one of the following amounts in two successive financial years:
+
+  - a. a balance sheet total of 20 million francs,
+  - b. sales revenue of 40 million francs.
+
+<sup>2</sup>
+
+The foregoing requirement does not apply to undertakings that are controlled by another undertaking:
+
+- 1\. to which paragraph 1 applies; or
+- 2\. that must prepare an equivalent report under foreign law.
+
+[^964a-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+
+### B. Purpose and content of the report
+
+#### Art. 964b
+
+<sup>1</sup> The report on non-financial matters shall cover environmental matters, in particular the CO<sub>2</sub> goals, social issues, employee-related issues, respect for human rights and combating corruption. The report shall contain the information required to understand the business performance, the business result, the state of the undertaking and the effects of its activity on these non-financial matters.
+
+<sup>2</sup>
+
+The report shall include in particular:
+
+- 1\. a description of the business model;
+- 2\. a description of the policies adopted in relation to the matters referred to in paragraph 1, including the due diligence applied;
+- 3\. a presentation of the measures taken to implement these policies and an assessment of the effectiveness of these measures;
+- 4\.
+
+  a description of the main risks related to the matters referred to in paragraph 1 and how the undertaking is dealing with these risks; in particular it shall cover risks:
+
+  - a. that arise from the undertaking's own business operations, and
+  - b. provided this is relevant and proportionate, that arise from its business relationships, products or services;
+
+- 5\. the main performance indicators for the undertaking's activities in relation to the matters referred to in paragraph 1.
+
+<sup>3</sup> If the report is based on national, European or international regulations, such as the principles laid down by the Organisation for Economic Cooperation and Development (OECD) in particular, the regulations applied must be mentioned in the report. In applying such regulations, it must be ensured that all the requirements of this Article are met. If necessary, a supplementary report must be prepared.
+
+<sup>4</sup> If an undertaking has sole control or joint control with other company of one or more other Swiss or foreign undertakings, the report shall cover all these undertakings.
+
+<sup>5</sup> If the undertaking does not follow a policy with respect to one or more of the matters referred to in paragraph 1, it shall explain this clearly in the report, stating the reasons therefor.
+
+<sup>6</sup> The report shall be prepared in a national language or in English.
+
+### C. Approval, publication, keeping and retaining
+
+#### Art. 964c
+
+<sup>1</sup> The report on non-financial matters requires the approval and signature of the supreme management or governing body and the approval of the governing body responsible for approving the annual accounts.
+
+<sup>2</sup>
+
+The supreme management or governing body shall ensure that the report:
+
+- 1\. is published online immediately following approval;
+- 2\. remains publicly accessible for at least ten years.
+
+<sup>3</sup> Article 958*f* applies by analogy to keeping and retaining the reports.
+
+### Section Seven:**** Transparency in Raw Material Companies
+
+[^part4-tit32-chap7-1]
+
+[^part4-tit32-chap7-1]: Originally: Section Six and Art. 964*a*–964*f*. Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2021 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). See also Art. 7 of the transitional provision to this Amendment at the end of the text.
+
+### A. Principle
+
+#### Art. 964d
 
 <sup>1</sup> Companies that are required by law to undergo an ordinary audit and which and which are either themselves or through a company that they control involved in the extraction of minerals, oil or natural gas or in the harvesting of timber in primary forests must produce a report each year on the payments they have made to state bodies.
 
@@ -14918,7 +15004,7 @@ Consolidated accounts must nonetheless be prepared in accordance with a recognis
 
 ### B. Forms of payment
 
-#### Art. 964b
+#### Art. 964e
 
 <sup>1</sup>
 
@@ -14936,7 +15022,7 @@ The payments made to state bodies may comprise payments in cash or kind. They in
 
 ### C. Form and content of the report
 
-#### Art. 964c
+#### Art. 964f
 
 <sup>1</sup> The report on payments made to state bodies shall only cover payments related to business operations in the mineral, petroleum or natural gas extraction industry or to the harvesting of timber in primary forests.
 
@@ -14948,7 +15034,7 @@ The payments made to state bodies may comprise payments in cash or kind. They in
 
 ### D. Publication
 
-#### Art. 964d
+#### Art. 964g
 
 <sup>1</sup> The report on payments made to state bodies must be published online within six months of the end of the financial year.
 
@@ -14958,15 +15044,75 @@ The payments made to state bodies may comprise payments in cash or kind. They in
 
 ### E. Keeping and retaining the report
 
-#### Art. 964e
+#### Art. 964h
 
 Article 958*f* applies to keeping and retaining the report on payments made to state bodies.
 
 ### F. Extending the scope of application
 
-#### Art. 964f
+#### Art. 964i
 
 The Federal Council may stipulate as part of an internationally coordinated procedure that that the obligations in Articles 964*a*–964*e* shall also apply to companies trading in raw materials.
+
+### Section Eight:**** Due Diligence and Transparency in relation to Minerals and Metals from Conflict-Affected Areas and Child Labour
+
+[^part4-tit32-chap8-1]
+
+[^part4-tit32-chap8-1]: Inserted by No I und III 1 of the FA of 19 June 2020 (Indirect Counter-Proposal to the Popular Initiative "For responsible businesses – protecting human rights and the environment"), in force since 1 Jan. 2022 ([AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). See also the transitional provision to this Amendment at the end of the text.
+
+### A. Principle
+
+#### Art. 964j
+
+<sup>1</sup>
+
+Undertakings whose seat, head office or principal place of business is located in Switzerland must comply with obligations of due diligence in the supply chain and report thereon if:
+
+- 1\. they place in free circulation or process in Switzerland minerals containing tin, tantalum, tungsten or gold or metals from conflict-affected and high-risk areas; or
+- 2\. they offer products or services in relation to which there is a reasonable suspicion that they have been manufactured or provided using child labour.
+
+<sup>2</sup> The Federal Council shall specify annual import quantities of minerals and metals below which an undertaking is exempt from the due diligence and reporting obligation.
+
+<sup>3</sup> It shall specify the requirements by which small and medium-sized undertakings and undertakings with low child labour risks are not obliged to verify whether there is a reasonable suspicion of child labour.
+
+<sup>4</sup> It shall specify the requirements by which undertakings are exempt from the due diligence and reporting obligations if they comply with equivalent internationally recognised regulations, such as the principles laid down by the OECD in particular.
+
+### B. Due diligence
+
+#### Art. 964k
+
+<sup>1</sup>
+
+Undertakings shall maintain a management system and stipulate the following therein:
+
+- 1\. the supply chain policy for minerals and metals that potentially originate from conflict-affected and high-risk areas;
+- 2\. the supply chain policy for products or services in relation to which there is a reasonable suspicion of child labour;
+- 3\. a system by which the supply chain can be traced.
+
+<sup>2</sup> They shall identify and assess the risks of harmful impacts in their supply chain. They shall draw up a risk management plan and take measures to minimise the risks identified.
+
+<sup>3</sup> They shall have their compliance with the due diligence obligations in relation to the minerals and metals audited by an independent specialist.
+
+<sup>4</sup> The Federal Council shall issue the detailed regulations; it shall base them on internationally recognised regulations, such as the OECD principles in particular.
+
+### C. Reporting
+
+#### Art. 964l
+
+<sup>1</sup> The supreme management or governing body shall prepare a report each year on compliance with the due diligence obligations.
+
+<sup>2</sup> The report shall be prepared in a national language or in English.
+
+<sup>3</sup>
+
+The supreme management or governing body shall ensure that the report:
+
+- 1\. is published online within six months of the end of the financial year;
+- 2\. remains publicly accessible for at least ten years.
+
+<sup>4</sup> Article 958*f* applies by analogy to keeping and retaining the reports.
+
+<sup>5</sup> Undertakings that offer products and services from undertakings that have prepared a report are not themselves required to prepare a report for those products and services.
 
 ## Division Five:**** Negotiable Securities
 
@@ -15052,13 +15198,17 @@ In the case of all transferable securities, unless the content or nature of the 
 
 The special provisions governing negotiable securities, such as bills of exchange, cheques and mortgage bonds, are reserved.
 
+### G. Collective custody, global certificate and uncertificated securities
+
+[^part5-tit33-chap1-lvlG-1]
+
+[^part5-tit33-chap1-lvlG-1]: Amended by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
 ### I. Collective custody of negotiable securities
 
 #### Art. 973a
 
 [^973a-1]
-
-G. Collective custody, global certificate and uncertificated securities[^973a-2]
 
 <sup>1</sup> A bailee has the power to hold fungible negotiable securities from two or more bailors together in safe custody unless a bailor expressly requests that his securities be held separately.
 
@@ -15067,7 +15217,6 @@ G. Collective custody, global certificate and uncertificated securities[^973a-2]
 <sup>3</sup> A bailor has the right at any time, irrespective of the involvement or consent of the other bailors to withdraw negotiable securities from the collective holding to the extent of his share.
 
 [^973a-1]: Inserted by Annex No 3 of the Uncertificated Securities Act of 3 Oct. 2008, in force since 1 Jan. 2010 ([AS 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
-[^973a-2]: Amended by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### II. Global certificate
 
@@ -15083,9 +15232,9 @@ G. Collective custody, global certificate and uncertificated securities[^973a-2]
 
 ### III. Uncertificated securities
 
-[^part5-tit33-chap1-lvlF-lvlIII-1]
+[^part5-tit33-chap1-lvlG-lvlIII-1]
 
-[^part5-tit33-chap1-lvlF-lvlIII-1]: Amended by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^part5-tit33-chap1-lvlG-lvlIII-1]: Amended by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 973c
 
@@ -15158,7 +15307,7 @@ The obligor may raise against a claim deriving from a ledger-based security only
 
 [^973f-1]
 
-<sup>The transfer of the ledger-based security is subject to the provisions of the registration agreement.</sup>
+<sup>1</sup> The transfer of the ledger-based security is subject to the provisions of the registration agreement.
 
 <sup>2</sup> If the creditor of a ledger-based security is declared bankrupt, if his or her property is distrained or if a debt restructuring moratorium is authorised, the creditor's decisions regarding ledger-based securities are legally binding and effective against third parties, provided that they
 
@@ -16505,7 +16654,7 @@ A cheque contains:
 
 <sup>2</sup> Where no other specific place is mentioned, the place indicated together with the name of the drawee is deemed the place of payment. Where several places are indicated together with the name of the drawee, the cheque is payable at the place mentioned first.
 
-<sup>3</sup> A cheque containing no indication of place of issue is deemed payable at the place where the drawee has his head office.
+<sup>3</sup> A cheque containing no indication of place of issue is deemed payable at the place where the drawee has its principal place of business.
 
 <sup>4</sup> A cheque containing no indication of the place of issue is deemed issued at the place indicated together with the name of the issuer.
 
@@ -17756,7 +17905,7 @@ Articles 4–8 apply to companies that have no equity securities listed on a sto
 
 [^u10-1]
 
-[^u10-1]: [AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)
+[^u10-1]: [AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846)No III 1; [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)
 
 ### A.–C. ...
 
@@ -17786,25 +17935,33 @@ Articles 4–8 apply to companies that have no equity securities listed on a sto
 
 #### Art. 7
 
-Articles 964*a*–964*e* apply for the first time to the financial year that begins one year after the new law comes into force.
+Articles 964*d*–964*h* apply for the first time to the financial year that begins one year after the new law comes into force.
 
-## Final Provisions on Title Eight and Title Eight<sup>bis</sup> ****
+## Transitional provision to the Amendment of 19 June 2020****
 
 [^u11-1]
 
-[^u11-1]: Inserted by No II of the FA of 15 Dec. 1989, in force since 1 July 1990 ([AS 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802); [BBl 1985 I 1389](https://fedlex.data.admin.ch/eli/fga/1985/1_1389_1369_1201)).
+[^u11-1]: [AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846)No I; [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)
+
+The provisions of Section 6 and Section 8 of Title 32 apply for the first time to the financial year that begins one year after the Amendment of 19 June 2020 comes into force.
+
+## Final Provisions on Title Eight and Title Eight<sup>bis</sup> ****
+
+[^u12-1]
+
+[^u12-1]: Inserted by No II of the FA of 15 Dec. 1989, in force since 1 July 1990 ([AS 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802); [BBl 1985 I 1389](https://fedlex.data.admin.ch/eli/fga/1985/1_1389_1369_1201)).
 
 #### Art. 1
 
-The Federal Decree of 30 June 1972[^u11-1-1] on Measures against Abuses in Tenancy Law is repealed.
+The Federal Decree of 30 June 1972[^u12-1-1] on Measures against Abuses in Tenancy Law is repealed.
 
-[^u11-1-1]: [[AS 1972 1502](https://fedlex.data.admin.ch/eli/oc/1972/1502_1531_1703), [1977 1269](https://fedlex.data.admin.ch/eli/oc/1977/1269_1269_1269), [1982 1234](https://fedlex.data.admin.ch/eli/oc/1982/1234_1234_1234), [1987 1189](https://fedlex.data.admin.ch/eli/oc/1987/1189_1189_1189)]
+[^u12-1-1]: [[AS 1972 1502](https://fedlex.data.admin.ch/eli/oc/1972/1502_1531_1703), [1977 1269](https://fedlex.data.admin.ch/eli/oc/1977/1269_1269_1269), [1982 1234](https://fedlex.data.admin.ch/eli/oc/1982/1234_1234_1234), [1987 1189](https://fedlex.data.admin.ch/eli/oc/1987/1189_1189_1189)]
 
 #### Art. 2–4
 
-...[^u11-24-1]
+...[^u12-24-1]
 
-[^u11-24-1]: The amendments may be consulted under [AS 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802).
+[^u12-24-1]: The amendments may be consulted under [AS 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802).
 
 #### Art. 5
 
@@ -17820,49 +17977,49 @@ The Federal Decree of 30 June 1972[^u11-1-1] on Measures against Abuses in Tenan
 
 ## Final and Transitional Provisions on Title X****
 
-[^u12-1]
+[^u13-1]
 
-[^u12-1]: Inserted by No II of the FA of 25. June 1971, in force since 1 Jan. 1972 ([AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [BBl 1967 II 241](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)).
+[^u13-1]: Inserted by No II of the FA of 25. June 1971, in force since 1 Jan. 1972 ([AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [BBl 1967 II 241](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)).
 
 ### Amendment of the CO
 
 #### Art. 1
 
-...[^u12-1-1]
+...[^u13-1-1]
 
-[^u12-1-1]: The amendments may be consulted under [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
+[^u13-1-1]: The amendments may be consulted under [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
 
 ### Amendment of the CC
 
 #### Art. 2
 
-...[^u12-2-1]
+...[^u13-2-1]
 
-[^u12-2-1]: The amendments may be consulted under [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
+[^u13-2-1]: The amendments may be consulted under [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
 
 ### Amendment of the Insurance Contracts Act
 
 #### Art. 3
 
-...[^u12-3-1]
+...[^u13-3-1]
 
-[^u12-3-1]: The amendments may be consulted under [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
+[^u13-3-1]: The amendments may be consulted under [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
 
 ### Amendment of the Agriculture Act
 
 #### Art. 4
 
-...[^u12-4-1]
+...[^u13-4-1]
 
-[^u12-4-1]: The amendments may be consulted under [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
+[^u13-4-1]: The amendments may be consulted under [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
 
 ### Amendment of the Employment Act
 
 #### Art. 5
 
-...[^u12-5-1]
+...[^u13-5-1]
 
-[^u12-5-1]: The amendments may be consulted under [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
+[^u13-5-1]: The amendments may be consulted under [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
 
 ### Repeal of federal law provisions
 
@@ -17871,30 +18028,30 @@ The Federal Decree of 30 June 1972[^u11-1-1] on Measures against Abuses in Tenan
 The following provisions are repealed on the commencement of this Act:
 
 - 1\. Article 159 and 463 of the Code of Obligations,
-- 2\. Article 130 of the Federal Act of 13 June 1911[^u12-6-1] on Health and Accident Insurance,
-- 3\. Article 20 to 26, 28, 29 and 69 paragraphs 2 and 5 of the Federal Act of 18 June 1914[^u12-6-2] on Factory Employment,
-- 4\. Article 4, 8 paragraphs 1, 2 and 5, 9 and 19 of the Federal Act of 12 December 1940[^u12-6-3] on Homeworking,
-- 5\. the Federal Act of 13 June 1941[^u12-6-4] on Employment Terms for Commercial Travellers,
-- 6\. the Federal Act of 1 April 1949[^u12-6-5] on Restrictions on the Termination of Employment Contracts while on Military Service,
-- 7\. Articles 96 and 97 of the Agriculture Act of 3 October 1951[^u12-6-6],
-- 8\. Article 32 of the Federal Act of 25 September 1952[^u12-6-7] on the System of Compensation for Loss of Earnings for Persons on Military Service or Civil Protection Duty,
-- 9\. Article 19 of the Federal Act of 28. September 1956[^u12-6-8] on the Declaration of the General Application of Collective Employment Agreements,
-- 10\. Article 49 of the Civil Defence Act[^u12-6-9],
-- 11\. Art. 20 paragraph 2 and 59 of the Federal Act of 20 September 1963[^u12-6-10] on Vocational Education and Training,
-- 12\. Art. 64[^u12-6-11] and 72 paragraph 2 letter *a* of the Employment Act of 13 March 1964[^u12-6-12].
+- 2\. Article 130 of the Federal Act of 13 June 1911[^u13-6-1] on Health and Accident Insurance,
+- 3\. Article 20 to 26, 28, 29 and 69 paragraphs 2 and 5 of the Federal Act of 18 June 1914[^u13-6-2] on Factory Employment,
+- 4\. Article 4, 8 paragraphs 1, 2 and 5, 9 and 19 of the Federal Act of 12 December 1940[^u13-6-3] on Homeworking,
+- 5\. the Federal Act of 13 June 1941[^u13-6-4] on Employment Terms for Commercial Travellers,
+- 6\. the Federal Act of 1 April 1949[^u13-6-5] on Restrictions on the Termination of Employment Contracts while on Military Service,
+- 7\. Articles 96 and 97 of the Agriculture Act of 3 October 1951[^u13-6-6],
+- 8\. Article 32 of the Federal Act of 25 September 1952[^u13-6-7] on the System of Compensation for Loss of Earnings for Persons on Military Service or Civil Protection Duty,
+- 9\. Article 19 of the Federal Act of 28. September 1956[^u13-6-8] on the Declaration of the General Application of Collective Employment Agreements,
+- 10\. Article 49 of the Civil Defence Act[^u13-6-9],
+- 11\. Art. 20 paragraph 2 and 59 of the Federal Act of 20 September 1963[^u13-6-10] on Vocational Education and Training,
+- 12\. Art. 64[^u13-6-11] and 72 paragraph 2 letter *a* of the Employment Act of 13 March 1964[^u13-6-12].
 
-[^u12-6-1]: [BS **8** 281; [AS 1959 858](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876), [1964 965](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981)No I–III, **1968** 64, **1977** 2249 No I 611, **1978** 1836 Annex No 4, **1982** 196 1676 Annex No 1 2184 Art. 114, **1990** 1091, **1991** 362 No II 412, **1992** 288 Annex No 37 2350, **1995** 511. [AS 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)Annex No 1]
-[^u12-6-2]: [SR 821.41](https://fedlex.data.admin.ch/eli/cc/30/535_539_517)
-[^u12-6-3]: [BS **8** 229; [AS 1951 1231](https://fedlex.data.admin.ch/eli/oc/1951/1231_1239_1273)Art. 14 para. 2, [1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)Art. 68. [AS 1983 108](https://fedlex.data.admin.ch/eli/oc/1983/108_108_108)Art. 21 No 3]
-[^u12-6-4]: [BS **2** 776; [AS 1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)Art. 69]
-[^u12-6-5]: [AS **1949** II 1293]
-[^u12-6-6]: [[AS 1953 1073](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133), [1954 1364](https://fedlex.data.admin.ch/eli/oc/1954/1364_1399_1426)Art. 1, [1958 659](https://fedlex.data.admin.ch/eli/oc/1958/659_688_688), [1959 588](https://fedlex.data.admin.ch/eli/oc/1959/588_610_590), [1960 1279](https://fedlex.data.admin.ch/eli/oc/1960/1279_1334_1335), [1962 203](https://fedlex.data.admin.ch/eli/oc/1962/203_205_207)[1144](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)Art. 14 [1412](https://fedlex.data.admin.ch/eli/oc/1962/1412_1463_1472), [1967 722](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760), [1968 92](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95), [1974 763](https://fedlex.data.admin.ch/eli/oc/1974/763_763_763), [1975 1088](https://fedlex.data.admin.ch/eli/oc/1975/1088_1088_1088), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I 921 942 [931](https://fedlex.data.admin.ch/eli/oc/1977/931_931_931), [1979 2058](https://fedlex.data.admin.ch/eli/oc/1979/2058_2060_2060), [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Annex No 6, [1988 640](https://fedlex.data.admin.ch/eli/oc/1988/640_640_640), [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 No c, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No II 51 [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 25 [2611](https://fedlex.data.admin.ch/eli/oc/1991/2611_2611_2611), [1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)Art. 75 No 5 [1986](https://fedlex.data.admin.ch/eli/oc/1992/1986_1986_1986)Art. 36 para. 1, [1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410)Art. 92 No 4 [1571](https://fedlex.data.admin.ch/eli/oc/1993/1571_1571_1571)[2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)Annex No 11, [1994 28](https://fedlex.data.admin.ch/eli/oc/1994/28_28_28), [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)Art. 59 No 3 [1837](https://fedlex.data.admin.ch/eli/oc/1995/1837_1837_1837)[3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)No I 2, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Annex No 2 [2783](https://fedlex.data.admin.ch/eli/oc/1996/2783_2783_2783), [1997 1187](https://fedlex.data.admin.ch/eli/oc/1997/1187_1187_1187)[1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190), [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822). [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No c]
-[^u12-6-7]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050). Now: Federal Act on Compensation for Loss of Earnings for Persons on Military Service or Maternity Leave (Loss of Earnings Compensation Act, LECA).
-[^u12-6-8]: [SR 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
-[^u12-6-9]: [[AS 1962 1089](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131), [1964 487](https://fedlex.data.admin.ch/eli/oc/1964/487_483_485)Art. 22 para. 2 No b,[1968 1025](https://fedlex.data.admin.ch/eli/oc/1968/1025_1065_981)Art. 35, [1969 310](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319)No III, **1971** 751, [1978 50](https://fedlex.data.admin.ch/eli/oc/1978/50_50_50)[570](https://fedlex.data.admin.ch/eli/oc/1978/570_570_), [1985 1649](https://fedlex.data.admin.ch/eli/oc/1985/1649_1649_1649), [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)Annex No 7, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 22, **1993** 2043 Annex No 3, [1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626)Art. 71]
-[^u12-6-10]: [[AS 1965 321](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321)[428](https://fedlex.data.admin.ch/eli/oc/1965/428__), [1968 86](https://fedlex.data.admin.ch/eli/oc/1968/86_87_89), [1972 1681](https://fedlex.data.admin.ch/eli/oc/1972/1681_1709_1885), [1975 1078](https://fedlex.data.admin.ch/eli/oc/1975/1078_1078_1078)No III, [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I 331. [AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687)Art. 75]
-[^u12-6-11]: This Art. has now been repealed.
-[^u12-6-12]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^u13-6-1]: [BS **8** 281; [AS 1959 858](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876), [1964 965](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981)No I–III, **1968** 64, **1977** 2249 No I 611, **1978** 1836 Annex No 4, **1982** 196 1676 Annex No 1 2184 Art. 114, **1990** 1091, **1991** 362 No II 412, **1992** 288 Annex No 37 2350, **1995** 511. [AS 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)Annex No 1]
+[^u13-6-2]: [SR 821.41](https://fedlex.data.admin.ch/eli/cc/30/535_539_517)
+[^u13-6-3]: [BS **8** 229; [AS 1951 1231](https://fedlex.data.admin.ch/eli/oc/1951/1231_1239_1273)Art. 14 para. 2, [1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)Art. 68. [AS 1983 108](https://fedlex.data.admin.ch/eli/oc/1983/108_108_108)Art. 21 No 3]
+[^u13-6-4]: [BS **2** 776; [AS 1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)Art. 69]
+[^u13-6-5]: [AS **1949** II 1293]
+[^u13-6-6]: [[AS 1953 1073](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133), [1954 1364](https://fedlex.data.admin.ch/eli/oc/1954/1364_1399_1426)Art. 1, [1958 659](https://fedlex.data.admin.ch/eli/oc/1958/659_688_688), [1959 588](https://fedlex.data.admin.ch/eli/oc/1959/588_610_590), [1960 1279](https://fedlex.data.admin.ch/eli/oc/1960/1279_1334_1335), [1962 203](https://fedlex.data.admin.ch/eli/oc/1962/203_205_207)[1144](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)Art. 14 [1412](https://fedlex.data.admin.ch/eli/oc/1962/1412_1463_1472), [1967 722](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760), [1968 92](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95), [1974 763](https://fedlex.data.admin.ch/eli/oc/1974/763_763_763), [1975 1088](https://fedlex.data.admin.ch/eli/oc/1975/1088_1088_1088), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I 921 942 [931](https://fedlex.data.admin.ch/eli/oc/1977/931_931_931), [1979 2058](https://fedlex.data.admin.ch/eli/oc/1979/2058_2060_2060), [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Annex No 6, [1988 640](https://fedlex.data.admin.ch/eli/oc/1988/640_640_640), [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 No c, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No II 51 [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 25 [2611](https://fedlex.data.admin.ch/eli/oc/1991/2611_2611_2611), [1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)Art. 75 No 5 [1986](https://fedlex.data.admin.ch/eli/oc/1992/1986_1986_1986)Art. 36 para. 1, [1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410)Art. 92 No 4 [1571](https://fedlex.data.admin.ch/eli/oc/1993/1571_1571_1571)[2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)Annex No 11, [1994 28](https://fedlex.data.admin.ch/eli/oc/1994/28_28_28), [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)Art. 59 No 3 [1837](https://fedlex.data.admin.ch/eli/oc/1995/1837_1837_1837)[3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)No I 2, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Annex No 2 [2783](https://fedlex.data.admin.ch/eli/oc/1996/2783_2783_2783), [1997 1187](https://fedlex.data.admin.ch/eli/oc/1997/1187_1187_1187)[1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190), [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822). [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No c]
+[^u13-6-7]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050). Now: Federal Act on Compensation for Loss of Earnings for Persons on Military Service or Maternity Leave (Loss of Earnings Compensation Act, LECA).
+[^u13-6-8]: [SR 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
+[^u13-6-9]: [[AS 1962 1089](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131), [1964 487](https://fedlex.data.admin.ch/eli/oc/1964/487_483_485)Art. 22 para. 2 No b,[1968 1025](https://fedlex.data.admin.ch/eli/oc/1968/1025_1065_981)Art. 35, [1969 310](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319)No III, **1971** 751, [1978 50](https://fedlex.data.admin.ch/eli/oc/1978/50_50_50)[570](https://fedlex.data.admin.ch/eli/oc/1978/570_570_), [1985 1649](https://fedlex.data.admin.ch/eli/oc/1985/1649_1649_1649), [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)Annex No 7, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 22, **1993** 2043 Annex No 3, [1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626)Art. 71]
+[^u13-6-10]: [[AS 1965 321](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321)[428](https://fedlex.data.admin.ch/eli/oc/1965/428__), [1968 86](https://fedlex.data.admin.ch/eli/oc/1968/86_87_89), [1972 1681](https://fedlex.data.admin.ch/eli/oc/1972/1681_1709_1885), [1975 1078](https://fedlex.data.admin.ch/eli/oc/1975/1078_1078_1078)No III, [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I 331. [AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687)Art. 75]
+[^u13-6-11]: This Art. has now been repealed.
+[^u13-6-12]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
 ### Amendment of legal relations governed by the old law
 
@@ -17902,10 +18059,10 @@ The following provisions are repealed on the commencement of this Act:
 
 Contracts of employment in existence when this Act comes into force (individual contracts of employment, standard employment contracts and collective employment contracts) must be amended in accordance with the provisions hereof within one year; on expiry of this time limit, the provisions hereof apply to all contracts of employment.
 
-<sup>2</sup> Occupational benefits schemes in existence when this Act comes into force[^u12-7-1] must amend their articles of association or regulations by 1 January 1977 at the latest taking account of the formal requirements of Articles 331 *a*, 331 *b* and 331*c* applicable to the amendment; from 1 January 1977, these provisions apply to all occupational benefits schemes.[^u12-7-2]
+<sup>2</sup> Occupational benefits schemes in existence when this Act comes into force[^u13-7-1] must amend their articles of association or regulations by 1 January 1977 at the latest taking account of the formal requirements of Articles 331 *a*, 331 *b* and 331*c* applicable to the amendment; from 1 January 1977, these provisions apply to all occupational benefits schemes.[^u13-7-2]
 
-[^u12-7-1]: 1 Jan. 1972
-[^u12-7-2]: Amended by No I of the FA of 25. June 1976, in force since 1 Jan. 1977 ([AS 1976 1972](https://fedlex.data.admin.ch/eli/oc/1976/1972_1972_1972)1974; [BBl 1976 I 1269](https://fedlex.data.admin.ch/eli/fga/1976/1_1269_1273_1245)).
+[^u13-7-1]: 1 Jan. 1972
+[^u13-7-2]: Amended by No I of the FA of 25. June 1976, in force since 1 Jan. 1977 ([AS 1976 1972](https://fedlex.data.admin.ch/eli/oc/1976/1972_1972_1972)1974; [BBl 1976 I 1269](https://fedlex.data.admin.ch/eli/fga/1976/1_1269_1273_1245)).
 
 ### Commencement of the Act
 
@@ -17915,9 +18072,9 @@ The Federal Council shall determine the commencement date of this Act.
 
 ## Final Provisions on the Fourth Section of Title XIII****
 
-[^u13-1]
+[^u14-1]
 
-[^u13-1]: Inserted by No II of the FA of 4 Feb. 1949, in force since 1 Jan. 1950 (AS **1949** I 802; [BBl 1947 III 661](https://fedlex.data.admin.ch/eli/fga/1947/3_661_681_)).
+[^u14-1]: Inserted by No II of the FA of 4 Feb. 1949, in force since 1 Jan. 1950 (AS **1949** I 802; [BBl 1947 III 661](https://fedlex.data.admin.ch/eli/fga/1947/3_661_681_)).
 
 ### A. Transitional law
 
@@ -17933,9 +18090,9 @@ The Federal Council shall determine the commencement date of this Act.
 
 #### Art. 2
 
-...[^u13-2-1]
+...[^u14-2-1]
 
-[^u13-2-1]: The amendments may be consulted under AS **1949** I 802.
+[^u14-2-1]: The amendments may be consulted under AS **1949** I 802.
 
 ### C. Entry into force
 
@@ -17945,13 +18102,13 @@ The Federal Council determines the commencement date of this Act.
 
 ## Transitional provisions on Title XX****
 
-[^u14-1]
+[^u15-1]
 
-[^u14-1]: Inserted by No II of the FA of 10 Dec. 1941, in force since 1 July 1942 ([AS 58 279](https://fedlex.data.admin.ch/eli/oc/58/279_279_303)[644](https://fedlex.data.admin.ch/eli/oc/58/644_646_748); [BBl 1939 II 841](https://fedlex.data.admin.ch/eli/fga/1939/2_841_857_149)).
+[^u15-1]: Inserted by No II of the FA of 10 Dec. 1941, in force since 1 July 1942 ([AS 58 279](https://fedlex.data.admin.ch/eli/oc/58/279_279_303)[644](https://fedlex.data.admin.ch/eli/oc/58/644_646_748); [BBl 1939 II 841](https://fedlex.data.admin.ch/eli/fga/1939/2_841_857_149)).
 
 <sup>1</sup> The provisions of the new law apply to all contracts of surety entered into after this Act comes into force.
 
-<sup>3</sup> Articles 77–80 of the Customs Act of 18 March 2005[^u14-2] are reserved.[^u14-3]
+<sup>3</sup> Articles 77–80 of the Customs Act of 18 March 2005[^u15-2] are reserved.[^u15-3]
 
 <sup>4</sup> The Federal Council determines the commencement date of this Act.
 
@@ -17964,22 +18121,22 @@ The Federal Council determines the commencement date of this Act.
 - 5\. Article 505 paragraph 2 applies only to bankruptcy proceedings commenced at least three months after this Act comes into force, and to debt restructuring moratoriums approved at least three months after this Act comes into force.
 - 6\. The time limit mentioned in Article 509 paragraph 3 begins to run for contracts of surety under the old law when this Act comes into force.
 
-[^u14-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^u14-3]: Amended by Annex No 2 of the Customs Act of 18 March 2005, in force since 1 May 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^u15-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^u15-3]: Amended by Annex No 2 of the Customs Act of 18 March 2005, in force since 1 May 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 ## Final and Transitional Provisions on Titles XXIV‑XXXIII****
 
-[^u15-1]
+[^u16-1]
 
-[^u15-1]: Inserted by the Federal Act of 18 Dec. 1936, in force since 1 July 1937 ([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), [1932 I 217](https://fedlex.data.admin.ch/eli/fga/1932/1_217__)).
+[^u16-1]: Inserted by the Federal Act of 18 Dec. 1936, in force since 1 July 1937 ([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), [1932 I 217](https://fedlex.data.admin.ch/eli/fga/1932/1_217__)).
 
 ### A. Scope of application of the Final Title
 
 #### Art. 1
 
-The provisions of the Final Title of the Civil Code[^u15-1-1] also apply to this Act.
+The provisions of the Final Title of the Civil Code[^u16-1-1] also apply to this Act.
 
-[^u15-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u16-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 ### B. Adaptation of existing companies to the new law
 
@@ -17999,16 +18156,16 @@ The provisions of the Final Title of the Civil Code[^u15-1-1] also apply to this
 
 #### Art. 3
 
-Where companies limited by shares, partnerships limited by shares and cooperatives have prior to the entry into force of this Act clearly provided funds to establish and support welfare schemes for employees and for members, they must adapt these schemes within five years to the provisions of Articles 673[^u15-3-1] and 862[^u15-3-2].
+Where companies limited by shares, partnerships limited by shares and cooperatives have prior to the entry into force of this Act clearly provided funds to establish and support welfare schemes for employees and for members, they must adapt these schemes within five years to the provisions of Articles 673[^u16-3-1] and 862[^u16-3-2].
 
-[^u15-3-1]: This Art. has now been reworded.
-[^u15-3-2]: This Art. has now been reworded.
+[^u16-3-1]: This Art. has now been reworded.
+[^u16-3-2]: This Art. has now been reworded.
 
 #### Art. 4
 
-[^u15-4-1]
+[^u16-4-1]
 
-[^u15-4-1]: Repealed by Annex No 2 of the Mergers Act of 3 Oct. 2003, with effect from 1 July 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+[^u16-4-1]: Repealed by Annex No 2 of the Mergers Act of 3 Oct. 2003, with effect from 1 July 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 
 ### C. Balance sheet provisions
 
@@ -18024,9 +18181,9 @@ Where companies limited by shares, partnerships limited by shares and cooperativ
 
 #### Art. 6
 
-[^u15-6-1]
+[^u16-6-1]
 
-[^u15-6-1]: Art. no longer relevant.
+[^u16-6-1]: Art. no longer relevant.
 
 ### D. Conditions for liability of members
 
@@ -18034,11 +18191,11 @@ Where companies limited by shares, partnerships limited by shares and cooperativ
 
 <sup>1</sup> The rights of creditors existing when this Act comes into force are not adversely affected by changes to the provisions of this law relating to the conditions for liability of members.
 
-<sup>2</sup> Cooperatives, whose members are personally liable for the obligations of the cooperative only by virtue of Article 689 of the previous Code of Obligations[^u15-7-1], remain subject to the provisions of the previous law for five years.
+<sup>2</sup> Cooperatives, whose members are personally liable for the obligations of the cooperative only by virtue of Article 689 of the previous Code of Obligations[^u16-7-1], remain subject to the provisions of the previous law for five years.
 
 <sup>3</sup> During this period, resolutions on the full or partial exclusion of personal liability or an express finding of liability may be passed in the general meeting by an absolute majority of the votes cast. Article 889 paragraph 2 on departure does not apply.
 
-[^u15-7-1]: [AS 27 317](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)
+[^u16-7-1]: [AS 27 317](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)
 
 ### E. Business names
 
@@ -18085,26 +18242,26 @@ Bills of exchange and cheques issued before this Act comes into force are govern
 
 #### Art. 13
 
-The Ordinance of 20 February 1918[^u15-13-1] relating to the community of bond creditors and the provisions of the supplementary Federal Council Decrees[^u15-13-2] continue to apply to the cases to which they applied previously.
+The Ordinance of 20 February 1918[^u16-13-1] relating to the community of bond creditors and the provisions of the supplementary Federal Council Decrees[^u16-13-2] continue to apply to the cases to which they applied previously.
 
-[^u15-13-1]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249), [35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396), [36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599)[893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
-[^u15-13-2]: [[AS 51 673](https://fedlex.data.admin.ch/eli/oc/51/673_684_779), [53 454](https://fedlex.data.admin.ch/eli/oc/53/454_454_459), [57 1514](https://fedlex.data.admin.ch/eli/oc/57/1514_1549_1595), [58 934](https://fedlex.data.admin.ch/eli/oc/58/934_936_978), **62** 1088, [63 1342](https://fedlex.data.admin.ch/eli/oc/63/1342_1343_1348)]
+[^u16-13-1]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249), [35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396), [36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599)[893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
+[^u16-13-2]: [[AS 51 673](https://fedlex.data.admin.ch/eli/oc/51/673_684_779), [53 454](https://fedlex.data.admin.ch/eli/oc/53/454_454_459), [57 1514](https://fedlex.data.admin.ch/eli/oc/57/1514_1549_1595), [58 934](https://fedlex.data.admin.ch/eli/oc/58/934_936_978), **62** 1088, [63 1342](https://fedlex.data.admin.ch/eli/oc/63/1342_1343_1348)]
 
 ### H. ...
 
 #### Art. 14
 
-[^u15-14-1]
+[^u16-14-1]
 
-[^u15-14-1]: Repealed by No I No *c* of the Annex to the IPLA of 18 Dec. 1987, with effect from 1 Jan. 1989 ([AS 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776); [BBl 1983 I 263](https://fedlex.data.admin.ch/eli/fga/1983/1_263_255_239)).
+[^u16-14-1]: Repealed by No I No *c* of the Annex to the IPLA of 18 Dec. 1987, with effect from 1 Jan. 1989 ([AS 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776); [BBl 1983 I 263](https://fedlex.data.admin.ch/eli/fga/1983/1_263_255_239)).
 
 ### J. Amendment of the Debt Collection and Bankruptcy Act
 
 #### Art. 15
 
-...[^u15-15-1]
+...[^u16-15-1]
 
-[^u15-15-1]: The amendments may be consulted under [AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
+[^u16-15-1]: The amendments may be consulted under [AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
 
 ### K. Relationship to the Banking Act
 
@@ -18112,25 +18269,25 @@ The Ordinance of 20 February 1918[^u15-13-1] relating to the community of bond c
 
 #### Art. 16
 
-The provisions of the Banking Act of 8 November 1934[^u15-16-1] are reserved.
+The provisions of the Banking Act of 8 November 1934[^u16-16-1] are reserved.
 
-[^u15-16-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^u16-16-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 
 ### II. Amendment of individual provisions
 
 #### Art. 17
 
-...[^u15-17-1]
+...[^u16-17-1]
 
-[^u15-17-1]: The amendments may be consulted under [AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
+[^u16-17-1]: The amendments may be consulted under [AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
 
 ### L. Repeal of federal private law
 
 #### Art. 18
 
-On the entry into force of this Act, the federal private law provisions that are inconsistent herewith, and in particular, the Third Division of the Code of Obligations entitled "Commercial Enterprises, Securities and Business Names" (Federal Act of 14 June 1881[^u15-18-1] on the Code of Obligations, Art. 552–715 and 720–880) are repealed.
+On the entry into force of this Act, the federal private law provisions that are inconsistent herewith, and in particular, the Third Division of the Code of Obligations entitled "Commercial Enterprises, Securities and Business Names" (Federal Act of 14 June 1881[^u16-18-1] on the Code of Obligations, Art. 552–715 and 720–880) are repealed.
 
-[^u15-18-1]: [[AS 5 635](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 490; BS **2** 784 Art. 103 para. 1. BS **2** 3 Final Title Art. 60 para. 2]
+[^u16-18-1]: [[AS 5 635](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 490; BS **2** 784 Art. 103 para. 1. BS **2** 3 Final Title Art. 60 para. 2]
 
 ### M. Commencement of this Act
 
@@ -18138,25 +18295,25 @@ On the entry into force of this Act, the federal private law provisions that are
 
 <sup>1</sup> This Act comes into force on 1 July 1937.
 
-<sup>2</sup> Excepted from the foregoing is the Section on the community of bond creditors (Art. 1157–1182), the commencement date for which will be determined by the Federal Council.[^u15-19-1]
+<sup>2</sup> Excepted from the foregoing is the Section on the community of bond creditors (Art. 1157–1182), the commencement date for which will be determined by the Federal Council.[^u16-19-1]
 
 <sup>3</sup> The Federal Council is responsible for the implementation of this Act.
 
-[^u15-19-1]: This section was brought into force in the version contained in the Federal Act of 1 April 1949. For the original version of the text, see [AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
+[^u16-19-1]: This section was brought into force in the version contained in the Federal Act of 1 April 1949. For the original version of the text, see [AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
 
 ## Final Provisions to the XXVI Title****
 
-[^u16-1]
+[^u17-1]
 
-[^u16-1]: Inserted by No III of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^u17-1]: Inserted by No III of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 ### A. Final Title of the Civil Code
 
 #### Art. 1
 
-The Final Title of the Civil Code[^u16-1-1] applies to this Act.
+The Final Title of the Civil Code[^u17-1-1] applies to this Act.
 
-[^u16-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u17-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 ### B. Amendment in accordance with the new law
 
@@ -18192,9 +18349,9 @@ Further to Article 685*d* paragraph 1, the company may, on the basis of a provis
 
 #### Art. 5
 
-Companies that retain shares with preferential voting rights with a nominal value of under ten francs, in application of Article 10 of the Final and Transitional provisions of the Federal Act of 18 December 1936[^u16-5-1] on the Revision of Titles 24–33 of the Code of Obligations, as well as companies, where the nominal value the larger shares is more than ten times the nominal value of the smaller shares are not required to amend their articles of association in accordance with Article 693 paragraph 2 second sentence. However, they are not permitted to issue any new shares whose nominal value is more than ten times that of the smaller shares or less than ten per cent of the nominal value of the larger shares.
+Companies that retain shares with preferential voting rights with a nominal value of under ten francs, in application of Article 10 of the Final and Transitional provisions of the Federal Act of 18 December 1936[^u17-5-1] on the Revision of Titles 24–33 of the Code of Obligations, as well as companies, where the nominal value the larger shares is more than ten times the nominal value of the smaller shares are not required to amend their articles of association in accordance with Article 693 paragraph 2 second sentence. However, they are not permitted to issue any new shares whose nominal value is more than ten times that of the smaller shares or less than ten per cent of the nominal value of the larger shares.
 
-[^u16-5-1]: See above.
+[^u17-5-1]: See above.
 
 ### 4. Qualified majorities
 
@@ -18206,9 +18363,9 @@ Where a company has adopted provisions in its articles of association governing 
 
 #### Art. 7
 
-...[^u16-7-1]
+...[^u17-7-1]
 
-[^u16-7-1]: The amendments may be consulted under [AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733).
+[^u17-7-1]: The amendments may be consulted under [AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733).
 
 ### D. Referendum
 
@@ -18224,19 +18381,19 @@ The Federal Council determines the commencement date.
 
 ## Final Provisions on the Second Section of Title XXXIV****
 
-[^u17-1]
+[^u18-1]
 
-[^u17-1]: Inserted by No II of the FA of 1. April 1949, in force since 1 Jan. 1950 (AS **1949** I 791; [BBl 1947 III 869](https://fedlex.data.admin.ch/eli/fga/1947/3_869_905_)).
+[^u18-1]: Inserted by No II of the FA of 1. April 1949, in force since 1 Jan. 1950 (AS **1949** I 791; [BBl 1947 III 869](https://fedlex.data.admin.ch/eli/fga/1947/3_869_905_)).
 
-- 1\. ...[^u17-2]
-- 2\. ...[^u17-3]
+- 1\. ...[^u18-2]
+- 2\. ...[^u18-3]
 - 3\. The resolutions of the community of creditors passed under the previous law remain valid under the new law.
 - For resolutions passed after this Act comes into force, the provisions of the new law apply.
 - However, if a borrower has already been granted facilitations under the previous law by resolutions of the community of creditors that are equivalent or correspond to those provided for in Article 1170, appropriate account must be taken thereof in the application of this provision.
 - In all other respects, the Final and Transitional Provisions of the Federal Act of 18 December 1936 on the Revision of Titles XXIV–XXXIII of the Code of Obligations apply.
-- 4\. On commencement of this Act, contradictory provisions, and in particular the Ordinance of the Federal Council of 20 February 1918[^u17-4] on the Community of Bond Creditors, are repealed.
+- 4\. On commencement of this Act, contradictory provisions, and in particular the Ordinance of the Federal Council of 20 February 1918[^u18-4] on the Community of Bond Creditors, are repealed.
 - 5\. The Federal Council determines the commencement date of this Act.
 
-[^u17-2]: The amendments may be consulted under AS **1949** I 791.
-[^u17-3]: The amendments may be consulted under AS **1949** I 791.
-[^u17-4]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249), [35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396), [36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599)[893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
+[^u18-2]: The amendments may be consulted under AS **1949** I 791.
+[^u18-3]: The amendments may be consulted under AS **1949** I 791.
+[^u18-4]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249), [35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396), [36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599)[893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
