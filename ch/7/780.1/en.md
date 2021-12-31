@@ -4,11 +4,11 @@ title: Federal Act of 18 March 2016 on the Surveillance of Post and Telecommunic
 short: SPTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/31"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2016-03-18
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2018-31-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2018-31-20220101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (SPTA)
 
-of 18 March 2016 (Status as of 1 January 2021)
+of 18 March 2016 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -383,7 +383,9 @@ Providers of telecommunications services shall supply the Service with the follo
 
 <sup>2</sup> It shall regulate the form and retention of information requests.
 
-<sup>3</sup> It may provide that the data referred to in Articles 21 and 22 be made accessible online to the authorities referred to in Article 15 and that the data shall be supplied free of charge and around the clock.
+<sup>3</sup> It may provide that the data referred to in Articles 21 and 22 be made accessible online at all times to the authorities referred to in Article 15.[^23-1]
+
+[^23-1]: Amended by No I 9 of the FA of 19 March 2021 on Administrative Facilitations and a Relief of the Federal Budget, in force since 1 Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 24
 
@@ -569,22 +571,42 @@ A person is considered missing if the following conditions are met:
 
 [^37-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
-## Section 9 Costs and Fees
+## Section 9**** Costs
+
+[^sec9-1]
+
+[^sec9-1]: Amended by No I 9 of the FA of 19 March 2021 on Administrative Facilitations and a Relief of the Federal Budget, in force since 1 Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 38
 
-<sup>1</sup> The costs of the facilities required to fulfil the obligations under this Act shall be borne by the entities obliged to cooperate.
+**Principles**
 
-<sup>2</sup> The entities obliged to cooperate shall receive adequate compensation from the Service for the costs of the individual surveillance measure.
+<sup>1</sup> The entities obliged to cooperate shall bear the costs of the facilities required to fulfil their obligations under this Act.
 
-<sup>3</sup>
+<sup>2</sup> They shall receive adequate compensation from the Service for the costs that they incur in conducting surveillance and providing information pursuant to Articles 21 and 22.
 
-The ordering authority shall pay the Service a total fee consisting of:
+<sup>3</sup> The cantons shall contribute the costs incurred by the Service in providing its services and paying compensation to the entities obliged to cooperate.
 
-- a. a fee for the services provided by the Service;
-- b. compensation for the services provided by the entities obliged to cooperate.
+<sup>4</sup>
 
-<sup>4</sup> The Federal Council shall determine the compensation and the fees.
+The Federal Council may provide that:
+
+- a. the entities obliged to cooperate receive no compensation for providing any information or for providing certain information;
+- b. services provided by the Service in connection with the provision of any information or certain information are not taken into account in calculating the cantons' contribution to the costs.
+
+#### Art. 38a
+
+**Modalities**
+
+<sup>1</sup> The Federal Council shall regulate the calculation and disbursement of compensation and the calculation and collection of contributions to costs.
+
+<sup>2</sup> It may provide that the compensation and contributions to costs are calculated on an individual basis or at a flat rate.
+
+<sup>3</sup> It shall specify the tariffs for calculations made on an individual basis.
+
+<sup>4</sup> For calculations made on a flat-rate basis, it shall take account of the extent to which the costs may be attributed to the Confederation or to individual cantons according to the benefit of the information and the surveillance. If the cantons have agreed on the shares of the overall costs that they are each to bear, the allocation of costs shall be based on this agreement.
+
+<sup>5</sup> In the case of flat-rate compensation and contributions to costs, the Service shall provide statements on its services and those of the entities obliged to cooperate showing the amounts that would be incurred in the case of an individual assessment.
 
 ## Section 10 Criminal Provisions
 
@@ -711,5 +733,5 @@ The legislation below is amended as follows:
 
 …[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467), [2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417)No I 2, [2004 3693](https://fedlex.data.admin.ch/eli/oc/2004/511), [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)Annex No 3, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Annex 1 No. II 26 3267 Annex No II 14, **2017** 4095 Annex No II 12]
+[^annexu1-lvlu1-1]: [[AS 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); [2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417)No I 2; [2004 3693](https://fedlex.data.admin.ch/eli/oc/2004/511); [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)Annex No 3; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Annex 1 No II 26, [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)Annex No II 14; [2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)Annex No II 12]
 [^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31).

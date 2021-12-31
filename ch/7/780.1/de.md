@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. März 2016 betreffend die Überwachung des Post- und
 short: BÜPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/31"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2016-03-18
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2018-31-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2018-31-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20210101/de"
 
 (BÜPF)
 
-vom 18. März 2016 (Stand am 1. Januar 2021)
+vom 18. März 2016 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -381,7 +381,9 @@ Die Anbieterinnen von Fernmeldediensten liefern dem Dienst folgende Angaben übe
 
 <sup>2</sup> Er regelt die Form und die Aufbewahrung der Auskunftsbegehren.
 
-<sup>3</sup> Er kann vorsehen, dass die Daten nach den Artikeln 21 und 22 für die Behörden nach Artikel 15 im Abrufverfahren zugänglich sind und dass die Mitteilung der Daten kostenlos und rund um die Uhr zu erfolgen hat.
+<sup>3</sup> Er kann vorsehen, dass die Daten nach den Artikeln 21 und 22 den Behörden nach Artikel 15 jederzeit im Abrufverfahren zugänglich sein müssen.[^23-1]
+
+[^23-1]: Fassung gemäss Ziff. I 9 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 24
 
@@ -567,22 +569,42 @@ Als vermisst gilt eine Person:
 
 [^37-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
-## 9. Abschnitt: Kosten und Gebühren
+## 9. Abschnitt:**** Kosten
+
+[^sec9-1]
+
+[^sec9-1]: Fassung gemäss Ziff. I 9 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 38
 
-<sup>1</sup> Die Kosten der Einrichtungen, die für die Erfüllung der Pflichten nach diesem Gesetz benötigt werden, gehen zulasten der Mitwirkungspflichtigen.
+**Grundsätze**
 
-<sup>2</sup> Die Mitwirkungspflichtigen erhalten vom Dienst eine angemessene Entschädigung für die Kosten der einzelnen Überwachung.
+<sup>1</sup> Die Mitwirkungspflichtigen tragen die Kosten der Einrichtungen, die sie zur Erfüllung ihrer Pflichten nach diesem Gesetz benötigen.
 
-<sup>3</sup>
+<sup>2</sup> Sie erhalten vom Dienst eine angemessene Entschädigung für die Kosten, die ihnen durch die Durchführung der Überwachungen und die Erteilung der Auskünfte nach den Artikeln 21 und 22 entstehen.
 
-Die anordnende Behörde bezahlt dem Dienst eine Gesamtgebühr bestehend aus:
+<sup>3</sup> Die Kantone beteiligen sich an den Kosten, die dem Dienst durch seine Leistungen und durch die Entschädigungen an die Mitwirkungspflichtigen entstehen.
 
-- a. einer Gebühr für die Leistungen des Dienstes;
-- b. der Entschädigung für die Leistungen der Mitwirkungspflichtigen.
+<sup>4</sup>
 
-<sup>4</sup> Der Bundesrat setzt die Entschädigungen und die Gebühren fest.
+Der Bundesrat kann vorsehen, dass:
+
+- a. den Mitwirkungspflichtigen für die Erteilung aller oder eines Teils der Auskünfte keine Entschädigung ausgerichtet wird;
+- b. Leistungen des Dienstes im Zusammenhang mit der Erteilung aller oder eines Teils der Auskünfte bei der Bemessung der Kostenbeteiligung der Kantone nicht berücksichtigt werden.
+
+#### Art. 38a
+
+**Modalitäten**
+
+<sup>1</sup> Der Bundesrat regelt die Bemessung und Ausrichtung der Entschädigungen sowie die Bemessung und Erhebung der Kostenbeteiligungen.
+
+<sup>2</sup> Er kann vorsehen, dass die Entschädigungen und Kostenbeteiligungen einzelfallweise oder in Form von Pauschalen bemessen werden.
+
+<sup>3</sup> Für die einzelfallweise Bemessung legt er die Tarife fest.
+
+<sup>4</sup> Bei der Bemessung in Form von Pauschalen berücksichtigt er, inwieweit die Kosten dem Bund oder den einzelnen Kantonen nach dem Nutzen der Auskünfte und der Überwachungen zuzurechnen sind. Haben die Kantone eine Verteilung des von ihnen gesamthaft zu tragenden Kostenanteils vereinbart, so richtet sich die Verteilung nach dieser Vereinbarung.
+
+<sup>5</sup> Bei Entschädigungen und Kostenbeteiligungen in Form von Pauschalen erstellt der Dienst für seine Leistungen und diejenigen der Mitwirkungspflichtigen Abrechnungen über die Beträge, die bei einer einzelfallweisen Bemessung anfallen würden.
 
 ## 10. Abschnitt: Strafbestimmungen
 
@@ -709,5 +731,5 @@ Die nachstehenden Erlasse werden wie folgt geändert:
 
 ...**[^annexu1-lvlu1-2]**
 
-[^annexu1-lvlu1-1]: [[AS 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467), [2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417)Ziff. I 2, [2004 3693](https://fedlex.data.admin.ch/eli/oc/2004/511), [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)Anhang Ziff. 3, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Anhang 1 Ziff. II 26 [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)Anhang Ziff. II 14, [2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)Anhang Ziff. II 12]
+[^annexu1-lvlu1-1]: [[AS 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); [2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417)Ziff. I 2; [2004 3693](https://fedlex.data.admin.ch/eli/oc/2004/511); [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)Anhang Ziff. 3; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Anhang 1 Ziff. II 26, [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)Anhang Ziff. II 14; [2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)Anhang Ziff. II 12]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31)konsultiert werden.

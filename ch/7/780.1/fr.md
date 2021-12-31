@@ -4,11 +4,11 @@ title: Loi fédérale du 18 mars 2016 sur la surveillance de la correspondance p
 short: LSCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/31"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2016-03-18
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-31-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-31-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20210101/fr"
 
 (LSCPT)[^t-1]
 
-du 18 mars 2016 (Etat le 1<sup>er</sup> janvier 2021)
+du 18 mars 2016 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -383,7 +383,9 @@ Les fournisseurs de services de télécommunication livrent au Service les donn�
 
 <sup>2</sup> Il règle la forme et la conservation des demandes de renseignements.
 
-<sup>3</sup> Il peut prévoir que les données mentionnées aux art. 21 et 22 sont rendues accessibles en ligne aux autorités visées à l’art. 15 et que la communication des données a lieu gratuitement et 24 heures sur 24.
+<sup>3</sup> Il peut prévoir que les données visées aux art. 21 et 22 doivent être en permanence accessibles en ligne aux autorités visées à l’art. 15.[^23-1]
+
+[^23-1]: Nouvelle teneur selon le ch. I 9 de la LF du 19 mars 2021 sur des allégements administratifs et des mesures destinées à soulager les finances fédérales, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 24
 
@@ -569,22 +571,42 @@ Une personne est réputée disparue si les conditions suivantes sont réunies:
 
 [^37-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
-## Section 9 Frais et émoluments
+## Section 9**** Frais
+
+[^sec9-1]
+
+[^sec9-1]: Nouvelle teneur selon le ch. I 9 de la LF du 19 mars 2021 sur des allégements administratifs et des mesures destinées à soulager les finances fédérales, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 38
 
-<sup>1</sup> Les frais des équipements nécessaires à l’exécution des obligations découlant de la présente loi sont à la charge des personnes obligées de collaborer.
+**Principes**
 
-<sup>2</sup> Les personnes obligées de collaborer reçoivent du Service une indemnité équitable pour les frais occasionnés par chaque surveillance.
+<sup>1</sup> Les personnes obligées de collaborer assument les frais des équipements dont elles ont besoin pour remplir les obligations qui leur incombent en vertu de la présente loi.
 
-<sup>3</sup>
+<sup>2</sup> Elles reçoivent du Service une indemnité équitable pour les frais qui leur sont occasionnés par l’exécution des surveillances et par la fourniture des renseignements visés aux art. 21 et 22.
 
-L’autorité qui a ordonné la surveillance verse au Service un émolument global comprenant:
+<sup>3</sup> Les cantons participent aux frais du Service occasionnés par les prestations qu’il fournit et par les indemnités qu’il verse aux personnes obligées de collaborer.
 
-- a. un émolument pour les prestations du Service;
-- b. l’indemnité pour les prestations des personnes obligées de collaborer.
+<sup>4</sup>
 
-<sup>4</sup> Le Conseil fédéral fixe les indemnités et les émoluments.
+Le Conseil fédéral peut prévoir:
+
+- a. que les personnes obligées de collaborer ne sont pas indemnisées pour la fourniture de tout ou partie des renseignements;
+- b. que les prestations du Service en relation avec la fourniture de tout ou partie des renseignements ne sont pas prises en compte dans le calcul de la participation des cantons aux frais.
+
+#### Art. 38a
+
+**Modalités**
+
+<sup>1</sup> Le Conseil fédéral règle les modalités de calcul et de versement des indemnités ainsi que les modalités de calcul et de recouvrement des participations aux frais.
+
+<sup>2</sup> Il peut prévoir que les indemnités et participations aux frais sont calculées au cas par cas ou sous forme de forfaits.
+
+<sup>3</sup> En ce qui concerne le calcul au cas par cas, il fixe les tarifs.
+
+<sup>4</sup> En ce qui concerne le calcul sous forme de forfaits, il tient compte de la mesure dans laquelle les frais sont imputables à la Confédération ou aux cantons selon l’utilité des renseignements et des surveillances. Si les cantons ont convenu de la façon dont l’ensemble des frais qui leur incombent seront répartis, cette convention s’applique.
+
+<sup>5</sup> En ce qui concerne les indemnités et participations aux frais qui sont calculées sous forme de forfaits, le Service comptabilise pour ses prestations et celles des personnes obligées de collaborer les montants qui résulteraient d’un calcul au cas par cas.
 
 ## Section 10 Dispositions pénales
 

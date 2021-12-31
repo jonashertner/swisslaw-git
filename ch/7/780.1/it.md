@@ -4,18 +4,18 @@ title: Legge federale del 18 marzo 2016 sulla sorveglianza della corrispondenza 
 short: LSCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/31"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2016-03-18
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2018-31-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2018-31-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (LSCPT)
 
-del 18 marzo 2016 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 18 marzo 2016 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -377,7 +377,9 @@ I fornitori di servizi di telecomunicazione trasmettono al Servizio le indicazio
 
 <sup>2</sup> Stabilisce la forma e le modalità di conservazione delle domande di informazioni.
 
-<sup>3</sup> Può prevedere che le autorità di cui all’articolo 15 abbiano accesso mediante procedura di richiamo ai dati di cui agli articoli 21 e 22 e che la comunicazione dei dati avvenga gratuitamente e 24 ore su 24.
+<sup>3</sup> Può prevedere che le autorità di cui all’articolo 15 abbiano accesso in ogni momento mediante procedura di richiamo ai dati di cui agli articoli 21 e 22.[^23-1]
+
+[^23-1]: Nuovo testo giusta il n. I 9 della LF del 19 mar. 2021 concernente agevolazioni amministrative e misure di sgravio del bilancio della Confederazione, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 24
 
@@ -563,22 +565,42 @@ Una persona è considerata scomparsa se:
 
 [^37-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
-## Sezione 9: Spese ed emolumenti
+## Sezione 9:**** Spese
+
+[^sec9-1]
+
+[^sec9-1]: Nuovo testo giusta il n. I 9 della LF del 19 mar. 2021 concernente agevolazioni amministrative e misure di sgravio del bilancio della Confederazione, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 38
 
-<sup>1</sup> Le spese per le installazioni necessarie all’adempimento degli obblighi previsti dalla presente legge sono a carico delle persone obbligate a collaborare.
+**Principi**
 
-<sup>2</sup> Le persone obbligate a collaborare ricevono dal Servizio un’equa indennità per le spese cagionate da ciascuna sorveglianza.
+<sup>1</sup> Le persone obbligate a collaborare assumono le spese per le installazioni di cui necessitano per adempiere gli obblighi loro assegnati dalla presente legge.
 
-<sup>3</sup>
+<sup>2</sup> Le persone obbligate a collaborare ricevono dal Servizio un’equa indennità per le spese da esse sostenute per attuare le sorveglianze e per la fornitura delle informazioni di cui agli articoli 21 e 22.
 
-L’autorità che ha disposto la sorveglianza versa al Servizio un emolumento complessivo che comprende:
+<sup>3</sup> I Cantoni partecipano alle spese sostenute dal Servizio per le sue prestazioni e per le indennità versate alle persone obbligate a collaborare.
 
-- a. un emolumento per le prestazioni del Servizio;
-- b. un’indennità per le prestazioni delle persone obbligate a collaborare.
+<sup>4</sup>
 
-<sup>4</sup> Il Consiglio federale fissa le indennità e gli emolumenti.
+Il Consiglio federale può prevedere che:
+
+- a. alle persone obbligate a collaborare non venga versata alcuna indennità per la fornitura di tutte o di una parte delle informazioni;
+- b. le prestazioni del Servizio connesse alla fornitura di tutte o di una parte delle informazioni non vengano prese in considerazione nel calcolo della partecipazione dei Cantoni alle spese.
+
+#### Art. 38a
+
+**Modalità**
+
+<sup>1</sup> Il Consiglio federale disciplina il calcolo e il versamento delle indennità nonché il calcolo e la riscossione della partecipazione alle spese.
+
+<sup>2</sup> Può prevedere che le indennità e la partecipazione alle spese siano calcolate per singolo caso o sotto forma di importi forfettari.
+
+<sup>3</sup> Per il calcolo per singolo caso stabilisce le tariffe applicabili.
+
+<sup>4</sup> Per il calcolo sotto forma di importi forfettari tiene conto della misura in cui le spese sono imputabili alla Confederazione o ai singoli Cantoni in base all’utilità delle informazioni e delle sorveglianze. Se i Cantoni hanno convenuto una ripartizione della quota di partecipazione alle spese che devono sostenere complessivamente, la ripartizione avviene in base a questa convenzione.
+
+<sup>5</sup> In caso di indennità e partecipazione alle spese sotto forma di importi forfettari, per le prestazioni proprie e quelle delle persone obbligate a collaborare il Servizio appronta un conteggio degli importi che risulterebbero se si procedesse a un calcolo per singolo caso.
 
 ## Sezione 10: Disposizioni penali
 
