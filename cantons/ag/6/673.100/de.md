@@ -4,13 +4,12 @@ number: "673.100"
 title: Gesetz über die Gebäudeversicherung
 short: "Gebäudeversicherungsgesetz, GebVG"
 language: de
-version: 2021-09-01
-valid_until: 2021-12-31
-version_adopted: 2019-09-17
+version: 2022-01-01
+version_adopted: 2020-12-08
 adopted: 2006-09-19
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/673.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3014/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3770/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3014/pdf_file"
 
 (Gebäudeversicherungsgesetz, GebVG)
 
-Vom 19.09.2006 (Stand 01.09.2021)
+Vom 19.09.2006 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -442,34 +441,34 @@ beschliesst:
 
 <sup>1</sup> Die Gebäudeversicherung führt je einen Fonds zur
 
-- a) Verhütung und Bekämpfung von Feuerschäden,
-- b) Verhütung von Elementarschäden.
+- a) Verhütung von Feuer- und Elementarschäden (Präventionsfonds),
+- b) Bekämpfung von Feuer- und Elementarschäden (Interventionsfonds).
 
 <sup>2</sup> Der Verwaltungsrat legt die Präventionsabgaben, die in die beiden Fonds eingelegt werden, zusammen mit dem jährlichen Voranschlag fest.
 
-<sup>3</sup> Der Regierungsrat legt im Rahmen des Bundesrechts durch Verordnung die Beiträge fest, welche die Versicherungsunternehmen, die im Kanton Aargau Fahrhabe gegen Feuer versichern, als jährlichen Beitrag zu leisten haben.
+<sup>3</sup> Versicherungsunternehmen, die im Kanton Aargau Fahrhabe gegen Feuer versichern, haben im Rahmen des Bundesrechts als jährlichen Beitrag 0.05 ‰ ihres aargauischen Versicherungsbestandes zu leisten. Der Verwaltungsrat legt die Zuteilung der Beiträge auf die Fonds fest.
 
 #### § 38
 
 **Unterstützung des vorbeugenden Brandschutzes**
 
-<sup>1</sup> Beiträge aus dem Fonds zur Verhütung und Bekämpfung von Feuerschäden können geleistet werden an die Kosten von Massnahmen, die zu einer Verbesserung der Brandsicherheit führen, die über die gesetzlichen Anforderungen hinausgeht.
+<sup>1</sup> Beiträge aus dem Präventionsfonds können geleistet werden an die Kosten von Massnahmen, die zu einer Verbesserung der Brandsicherheit führen, die über die gesetzlichen Anforderungen hinausgeht.
 
 #### § 39
 
 **Unterstützung des bekämpfenden Brand- und Elementarschadenschutzes**
 
-<sup>1</sup> Beiträge aus dem Fonds zur Verhütung und Bekämpfung von Feuerschäden werden an die Kosten der Wasserversorgungsanlagen sowie der Ausrüstung, Ausbildung und Versicherung der Feuerwehren geleistet, sofern die unterstützten Massnahmen einem Bedürfnis entsprechen und zu einer Verbesserung der Einsatzbereitschaft führen.
+<sup>1</sup> Beiträge aus dem Interventionsfonds werden an die Kosten der Wasserversorgungsanlagen, Feuerwehrlokale sowie der Ausrüstung, Ausbildung und Versicherung der Feuerwehren geleistet, sofern die unterstützten Massnahmen einem Bedürfnis entsprechen und zu einer Verbesserung der Einsatzbereitschaft führen.
 
 <sup>2</sup> Bei der Festsetzung der Beiträge an die Ausrüstung der Feuerwehren sind die Möglichkeiten der Rationalisierung des Feuerwehrwesens angemessen zu berücksichtigen.
 
-<sup>3</sup> Die Beiträge können pauschal festgelegt werden, wenn dadurch der Beitragszweck nicht gefährdet wird.
+<sup>3</sup> Die Beiträge können pauschal festgelegt oder zur Finanzierung von zentralen Beschaffungen oder Beschaffungsmöglichkeiten eingesetzt werden, wenn dadurch der Beitragszweck nicht gefährdet wird.
 
 #### § 40
 
 **Unterstützung der Elementarschadenverhütung**
 
-<sup>1</sup> Beiträge aus dem Fonds zur Verhütung von Elementarschäden können ausgerichtet werden an die Kosten
+<sup>1</sup> Beiträge aus dem Präventionsfonds können ausgerichtet werden an die Kosten
 
 - a) der Erarbeitung von Grundlagen der Raumplanung, soweit sie dazu dienen, das Elementarrisiko für Gebäude zu verringern,
 - b) von baulichen Schutzmassnahmen für einzelne bestehende Gebäude, sofern sie konstruktiv einwandfrei und ordnungsgemäss unterhalten sind und durch die Massnahmen weitgehend vor drohenden Elementarschäden geschützt werden.
