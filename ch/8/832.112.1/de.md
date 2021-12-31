@@ -4,11 +4,11 @@ title: Verordnung vom 19. Oktober 2016 über den Risikoausgleich in der Krankenv
 short: VORA
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/674"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2016-10-19
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/674/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2016-674-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/674/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-674-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20210101/de"
 
 (VORA)
 
-vom 19. Oktober 2016 (Stand am 1. Januar 2021)
+vom 19. Oktober 2016 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -131,7 +131,7 @@ Eine versicherte Person erfüllt die Voraussetzungen für die Einteilung in eine
 Für die Gruppierung der Daten und die Berechnung des Risikoausgleichs muss der Versicherer der gemeinsamen Einrichtung nach deren Weisungen pro versicherte Person und für jede Deckungsperiode auf eigene Kosten folgende Daten liefern:
 
 - a. Wohnkanton;
-- b. Versichertennummer der AHV nach Artikel 83 KVG in pseudonymisierter Form;
+- b. AHV-Nummer[^6-1] in pseudonymisierter Form;
 - c. Geburtsjahr;
 - d. Geschlecht;
 - e. Aufenthalt in einem Spital oder Pflegeheim;
@@ -142,12 +142,13 @@ Für die Gruppierung der Daten und die Berechnung des Risikoausgleichs muss der 
 
 <sup>2</sup> Er gliedert die Daten in zwei Datensätze. Der erste Datensatz enthält die Daten für das Jahr vor der Datenlieferung, der zweite diejenigen für das vorletzte Jahr vor der Datenlieferung.
 
-<sup>3</sup> Die Versicherer müssen die Daten bis zum 31. März liefern.[^6-1]
+<sup>3</sup> Die Versicherer müssen die Daten bis zum 31. März liefern.[^6-2]
 
-<sup>4</sup> Für die Datenlieferung zu berücksichtigen sind die bis einen Monat vor Ablauf der Frist nach Absatz 3 abgerechneten Leistungen und erfassten Änderungen des Versichertenbestandes, die das für die Datenerhebung massgebliche Kalenderjahr betreffen.[^6-2]
+<sup>4</sup> Für die Datenlieferung zu berücksichtigen sind die bis einen Monat vor Ablauf der Frist nach Absatz 3 abgerechneten Leistungen und erfassten Änderungen des Versichertenbestandes, die das für die Datenerhebung massgebliche Kalenderjahr betreffen.[^6-3]
 
-[^6-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
+[^6-1]: Ausdruck gemäss Anhang Ziff. II 39 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^6-2]: Fassung gemäss Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
+[^6-3]: Fassung gemäss Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
 
 #### Art. 7
 
@@ -539,13 +540,13 @@ Das BAG führt eine begleitende wissenschaftliche Untersuchung durch. Zu untersu
 
 Die Verordnung vom 12. April 1995[^30-1] über den Risikoausgleich in der Krankenversicherung wird aufgehoben.
 
-[^30-1]: [[AS 1995 1371](https://fedlex.data.admin.ch/eli/oc/1995/1371_1371_1371), [1998 1841](https://fedlex.data.admin.ch/eli/oc/1998/1841_1841_1841), [2001 140](https://fedlex.data.admin.ch/eli/oc/2001/32), [2002 925](https://fedlex.data.admin.ch/eli/oc/2002/162), [2004 5079](https://fedlex.data.admin.ch/eli/oc/2004/785), [2005 5643](https://fedlex.data.admin.ch/eli/oc/2005/772), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 96 [4739](https://fedlex.data.admin.ch/eli/oc/2006/726)Ziff. I 6, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 52, [2009 4761](https://fedlex.data.admin.ch/eli/oc/2009/561), [2010 6163](https://fedlex.data.admin.ch/eli/oc/2010/880), [2011 5291](https://fedlex.data.admin.ch/eli/oc/2011/763), [2013 789](https://fedlex.data.admin.ch/eli/oc/2013/158), [2014 3481](https://fedlex.data.admin.ch/eli/oc/2014/606)]
+[^30-1]: [[AS 1995 1371](https://fedlex.data.admin.ch/eli/oc/1995/1371_1371_1371); [1998 1841](https://fedlex.data.admin.ch/eli/oc/1998/1841_1841_1841); [2001 140](https://fedlex.data.admin.ch/eli/oc/2001/32); [2002 925](https://fedlex.data.admin.ch/eli/oc/2002/162); [2004 5079](https://fedlex.data.admin.ch/eli/oc/2004/785); [2005 5643](https://fedlex.data.admin.ch/eli/oc/2005/772); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 96, [4739](https://fedlex.data.admin.ch/eli/oc/2006/726)Ziff. I 6; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 52; [2009 4761](https://fedlex.data.admin.ch/eli/oc/2009/561); [2010 6163](https://fedlex.data.admin.ch/eli/oc/2010/880); [2011 5291](https://fedlex.data.admin.ch/eli/oc/2011/763); [2013 789](https://fedlex.data.admin.ch/eli/oc/2013/158); [2014 3481](https://fedlex.data.admin.ch/eli/oc/2014/606)]
 
 #### Art. 31
 
 **Änderung eines anderen Erlasses**
 
-...[^31-1]
+…[^31-1]
 
 [^31-1]: Die Änderung kann unter [AS 2016 4059](https://fedlex.data.admin.ch/eli/oc/2016/674)konsultiert werden.
 

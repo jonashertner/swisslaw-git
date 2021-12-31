@@ -4,11 +4,11 @@ title: "Ordonnance du 19 octobre 2016 sur la compensation des risques dans l'ass
 short: OCoR
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/674"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2016-10-19
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/674/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-674-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/674/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-674-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20210101/fr"
 
 (OCoR)
 
-du 19 octobre 2016 (Etat le 1<sup>er</sup> janvier 2021)
+du 19 octobre 2016 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -131,7 +131,7 @@ Remplit les conditions d’attribution à un PCG l’assuré auquel a été remi
 Pour le regroupement des données et le calcul de la compensation des risques, l’assureur livre à ses frais à l’institution commune, conformément aux instructions de celle-ci, pour chaque assuré et pour chaque période de couverture, les données suivantes:
 
 - a. canton de domicile;
-- b. numéro d’assuré AVS visé à l’art. 83 LAMal, sous forme pseudonymisée;
+- b. numéro AVS[^6-1], sous forme pseudonymisée;
 - c. année de naissance;
 - d. sexe;
 - e. séjour dans un hôpital ou un établissement médico-social;
@@ -142,12 +142,13 @@ Pour le regroupement des données et le calcul de la compensation des risques, l
 
 <sup>2</sup> Il présente les données en deux ensembles de données. Le premier ensemble contient les données pour l’année qui précède la livraison, le deuxième, celles pour la dernière année avant l’année qui précède la livraison des données.
 
-<sup>3</sup> Les assureurs livrent les données le 31 mars au plus tard.[^6-1]
+<sup>3</sup> Les assureurs livrent les données le 31 mars au plus tard.[^6-2]
 
-<sup>4</sup> Sont pris en compte pour la livraison des données les prestations décomptées jusqu’à 1 mois avant la date prévue à l’al. 3 ainsi que les changements dans les effectifs d’assurés qui sont survenus jusqu’à 1 mois avant cette date, à condition que ces prestations et ces changements concernent l’année civile déterminante pour le relevé.[^6-2]
+<sup>4</sup> Sont pris en compte pour la livraison des données les prestations décomptées jusqu’à 1 mois avant la date prévue à l’al. 3 ainsi que les changements dans les effectifs d’assurés qui sont survenus jusqu’à 1 mois avant cette date, à condition que ces prestations et ces changements concernent l’année civile déterminante pour le relevé.[^6-3]
 
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
+[^6-1]: Nouvelle expression selon l’annexe ch. II 39 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^6-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
+[^6-3]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
 
 #### Art. 7
 

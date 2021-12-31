@@ -4,11 +4,11 @@ title: "Ordinanza del 19 ottobre 2016 sulla compensazione dei rischi nell'assicu
 short: OCoR
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/674"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2016-10-19
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/674/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2016-674-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/674/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-674-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20210101/it"
 
 (OCoR)
 
-del 19 ottobre 2016 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 19 ottobre 2016 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -131,7 +131,7 @@ Un assicurato soddisfa le condizioni per l’attribuzione a un PCG se nel corso 
 Per il raggruppamento dei dati e il calcolo della compensazione dei rischi, l’assicuratore deve fornire a proprie spese all’istituzione comune, secondo le direttive di quest’ultima, per assicurato e per ogni periodo di copertura, i seguenti dati:
 
 - a. Cantone di domicilio;
-- b. numero d’assicurato AVS secondo l’articolo 83 LAMal in forma pseudonimizzata;
+- b. numero AVS[^6-1];
 - c. anno di nascita;
 - d. sesso;
 - e. degenza in un ospedale o in una casa di cura;
@@ -142,12 +142,13 @@ Per il raggruppamento dei dati e il calcolo della compensazione dei rischi, l’
 
 <sup>2</sup> L’assicuratore suddivide i dati in due insiemi di dati. Il primo insieme contiene i dati riguardanti l’anno precedente la fornitura, mentre il secondo quelli riguardanti il penultimo anno precedente la fornitura.
 
-<sup>3</sup> Gli assicuratori devono fornire i dati entro il 31 marzo.[^6-1]
+<sup>3</sup> Gli assicuratori devono fornire i dati entro il 31 marzo.[^6-2]
 
-<sup>4</sup> La fornitura di dati deve prendere in considerazione le prestazioni fatturate e i cambiamenti registrati nell’effettivo degli assicurati fino a un mese prima della scadenza del termine di cui al capoverso 3 riguardanti l’anno civile determinante per il rilevamento dei dati.[^6-2]
+<sup>4</sup> La fornitura di dati deve prendere in considerazione le prestazioni fatturate e i cambiamenti registrati nell’effettivo degli assicurati fino a un mese prima della scadenza del termine di cui al capoverso 3 riguardanti l’anno civile determinante per il rilevamento dei dati.[^6-3]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
+[^6-1]: Nuova espr. giusta l’all. n. II 39 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^6-2]: Nuovo testo giusta il n. I dell’O dell’11 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
+[^6-3]: Nuovo testo giusta il n. I dell’O dell’11 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
 
 #### Art. 7
 
