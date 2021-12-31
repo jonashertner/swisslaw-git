@@ -1,23 +1,25 @@
 ---
 canton: AG
 number: "615.300"
-title: Gesetz über den Ausgleich der Aufgabenverschiebungsbilanz sowie über die Übergangsbeiträge (AVBiG)
+title: Gesetz über den Ausgleich der Aufgabenverschiebungsbilanz sowie über die Übergangsbeiträge
 short: AVBiG
 language: de
-version: 2017-12-31
-valid_until: 2021-12-31
-version_adopted: 2016-03-01
+version: 2022-01-01
+valid_until: 2023-12-30
+version_adopted: 2020-12-15
 adopted: 2016-03-01
 in_force: 2017-12-31
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/615.300"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2477/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3145/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über den Ausgleich der Aufgabenverschiebungsbilanz sowie über die Übergangsbeiträge (AVBiG)
+# Gesetz über den Ausgleich der Aufgabenverschiebungsbilanz sowie über die Übergangsbeiträge
 
-Vom 01.03.2016 (Stand 31.12.2017)
+(AVBiG)
+
+Vom 01.03.2016 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -44,7 +46,7 @@ beschliesst:
 - i) Steuerfussabtausch zwischen dem Kanton und den Gemeinden[^1-9].
 
 [^1-1]: Änderung von § 45 Abs. 1 des Einführungsgesetzes zur Schweizerischen Strafprozessordnung (EG StPO) vom 16. März 2010 (SAR [251.200](https://gesetzessammlungen.ag.ch/data/251.200/de))
-[^1-2]: Aufhebung von § 24 Abs. 1 lit. d) des Gesetzes über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen (Betreuungsgesetz) vom 2. Mai 2006 (SAR [428.500](https://gesetzessammlungen.ag.ch/data/428.500/de))
+[^1-2]: Aufhebung von § 24 Abs. 1 lit. d) des Gesetzes über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen (Betreuungsgesetz, BeG) vom 2. Mai 2006 (SAR [428.500](https://gesetzessammlungen.ag.ch/data/428.500/de))
 [^1-3]: Aufhebung des Gesetzes über den finanziellen Ausgleich der wegfallenden Gemeindebeiträge an die Spitalfinanzierung (Ausgleichsgesetz Spitalfinanzierung) vom 12. November 2013 (SAR [615.500](https://gesetzessammlungen.ag.ch/data/615.500/de))
 [^1-4]: § 28 des Gesetzes zum Bundesgesetz über die Krankenversicherung (KVGG) vom 15. Dezember 2015 (SAR [837.200](https://gesetzessammlungen.ag.ch/data/837.200/de))
 [^1-5]: Änderung der §§ 47 Abs. 3–6 und 48–50 des Gesetzes über die öffentliche Sozialhilfe und die soziale Prävention (Sozialhilfe- und Präventionsgesetz, SPG) vom 6. März 2001 (SAR [851.200](https://gesetzessammlungen.ag.ch/data/851.200/de))
