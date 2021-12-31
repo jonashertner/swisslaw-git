@@ -4,24 +4,24 @@ number: "271.1"
 title: Gesetz über die Zivil- und Strafrechtspflege
 short: ZSRG
 language: de
-version: 2016-06-01
-valid_until: 2021-12-31
-version_adopted: 2015-04-22
+version: 2022-01-01
+valid_until: 2025-09-30
+version_adopted: 2021-03-24
 adopted: 2009-06-17
 in_force: 2011-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/271.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1587/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2091/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Zivil- und Strafrechtspflege
 
-Zivil- und Strafrechtspflege (ZSRG)
+ZSRG
 
 (ZSRG)
 
-vom 17.06.2009 (Stand 01.06.2016)
+vom 17.06.2009 (Stand 01.01.2022)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -37,7 +37,7 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 <sup>1</sup> Das zuständige Departement führt die allgemeine Verwaltungsaufsicht über die in diesem Gesetz genannten Behörden mit Ausnahme der Schlichtungsbehörden in Mietsachen.
 
-<sup>2</sup> Das Konkursamt und Betreibungsinspektorat beaufsichtigt für das Departement die Betreibungsämter in administrativen Angelegenheiten.
+<sup>2</sup> Das Amt für Betreibungs- und Konkurswesen beaufsichtigt für das Departement die Betreibungsämter in administrativen und personellen Angelegenheiten.
 
 <sup>3</sup> Die Generalstaatsanwaltschaft beaufsichtigt die Staatsanwaltschaften und die Jugendanwaltschaft.
 
@@ -59,7 +59,13 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 **Nebenbeschäftigung**
 
-<sup>1</sup> Die Nebenbeschäftigung von Berufsrichterinnen und Berufsrichtern bedarf einer Bewilligung des Obergerichtes, wenn damit ein wesentlicher Nebenerwerb erzielt wird. Nebenbeschäftigungen dürfen die Aufgabenerfüllung nicht beeinträchtigen und keine Interessenkollision zur Folge haben.
+<sup>1</sup> Die Nebenbeschäftigung von Berufsrichterinnen und Berufsrichtern bedarf einer Bewilligung des Obergerichtes, wenn damit ein wesentlicher Nebenerwerb erzielt wird. Nebenbeschäftigungen dürfen die Aufgabenerfüllung nicht beeinträchtigen.
+
+#### § 4a
+
+**Richterliche Unabhängigkeit**
+
+<sup>1</sup> Nebenamtliche Tätigkeiten und Nebenbeschäftigungen von Richterinnen und Richtern dürfen die richterliche Unabhängigkeit nicht beeinträchtigen.
 
 #### § 5
 
@@ -103,7 +109,15 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 **Abschreibungsentscheide**
 
-<sup>1</sup> Ist für die Beurteilung ein Kollegialgericht zuständig, trifft die oder der Vorsitzende den prozesserledigenden Entscheid bei Rückzug oder Anerkennung der Klage, Vergleich der Parteien und Gegenstandslosigkeit des Verfahrens sowie bei Rückzug eines Rechtsmittels oder einer Einsprache.
+<sup>1</sup> Bei Kollegialgerichten ist die oder der Vorsitzende für Entscheide zuständig, mit denen das Verfahren erledigt wird zufolge:
+
+- 1\. Rückzug der Klage
+- 2\. Anerkennung der Klage
+- 3\. Vergleich
+- 4\. Gegenstandslosigkeit
+- 5\. Rückzug des Rechtsmittels oder einer Einsprache
+- 6\. Versäumung einer Frist zur Leistung eines Kostenvorschusses oder einer Sicherheit
+- 7\. Versäumung der Rechtsmittelfrist.
 
 #### § 10
 
@@ -169,15 +183,15 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 #### § 17
 
-**Schlichtungsbehörde in Mietsachen**
+**Schlichtungsbehörde in Miet- und Pachtsachen**
 
-<sup>1</sup> Die Politischen Gemeinden bezeichnen eine Schlichtungsbehörde im Sinne von Artikel 274a des Obligationenrechts (OR)[^17-1] und tragen deren Kosten. Mehrere Gemeinden innerhalb des Bezirks können sich zur Führung einer gemeinsamen Schlichtungsbehörde zusammenschliessen.
+<sup>1</sup> Die Politischen Gemeinden bezeichnen eine Schlichtungsbehörde im Sinne von Art. 200 Abs. 1 ZPO und tragen deren Kosten. Mehrere Gemeinden innerhalb des Bezirks können sich zur Führung einer gemeinsamen Schlichtungsbehörde zusammenschliessen.
 
 <sup>2</sup> Die Schlichtungsbehörde besteht aus einer Präsidentin oder einem Präsidenten, zwei weiteren Mitgliedern, zwei Ersatzmitgliedern und einer Aktuarin oder einem Aktuar, wobei auf eine paritätische Vertretung im Sinne der ZPO zu achten ist.
 
 <sup>3</sup> Die Schlichtungsbehörde steht unter der Aufsicht der Bezirksgerichtspräsidentin oder des Bezirksgerichtspräsidenten und der Oberaufsicht des Obergerichtes.
 
-<sup>4</sup> Das Obergericht regelt Organisation und Verfahren durch Verordnung. Der Regierungsrat bezeichnet das für die Formulargenehmigung im Sinne von Artikel 266l Absatz 2 und 269d Absatz 1 OR zuständige Departement.
+<sup>4</sup> Das Obergericht regelt Organisation und Verfahren durch Verordnung. Der Regierungsrat bezeichnet das für die Formulargenehmigung im Sinne von Art. 266l Abs. 2, Art. 269d Abs. 1 und Art. 298 Abs. 2 des Obligationenrechts (OR)[^17-1] zuständige Departement.
 
 [^17-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
@@ -213,15 +227,23 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 <sup>1</sup> Die Berufsrichterinnen oder Berufsrichter sind Einzelrichterinnen oder Einzelrichter nach Massgabe der ZPO.
 
-<sup>2</sup> In Zivilsachen beurteilen die Einzelrichterinnen oder Einzelrichter alle nach der ZPO im vereinfachten Verfahren zu erledigenden Streitigkeiten und sämtliche Mietrechtsstreitigkeiten. Sie urteilen bei Ehescheidungen, Ehetrennungen und Auflösungen eingetragener Partnerschaften auf gemeinsames Begehren bei umfassender Einigung. Die Einzelrichterinnen oder Einzelrichter wirken als Summarrichter und als Vollstreckungsrichter, entscheiden über vorsorgliche Massnahmen, leisten Rechtshilfe in Zivilsachen und beurteilen Aufsichtsbeschwerden gegen Friedensrichterinnen oder Friedensrichter und Schlichtungsbehörden im Miet- und Pachtrecht.
+<sup>2</sup> In Zivilsachen beurteilen die Einzelrichterinnen oder Einzelrichter alle nach der ZPO im vereinfachten Verfahren zu erledigenden Streitigkeiten. Sie urteilen bei Ehescheidungen, Ehetrennungen, Auflösungen eingetragener Partnerschaften, Änderungen und Ergänzungen von Scheidungsurteilen sowie bei Ungültigkeitserklärungen von Ehen und eingetragenen Partnerschaften auf gemeinsames Begehren bei umfassender Einigung.
+
+<sup>3</sup> Die Einzelrichterinnen oder Einzelrichter wirken als Summarrichter und als Vollstreckungsrichter, entscheiden über vorsorgliche Massnahmen, leisten Rechtshilfe in Zivilsachen und beurteilen Aufsichtsbeschwerden gegen Friedensrichterinnen oder Friedensrichter und Schlichtungsbehörden im Miet- und Pachtrecht.
+
+<sup>4</sup> Wo die kantonale Gesetzgebung in Angelegenheiten des ZGB und des OR die zuständige Behörde nicht bezeichnet, sind die Einzelrichterinnen und Einzelrichter zuständig.
+
+<sup>5</sup> Sie sind Vollstreckungsgericht gemäss dem Übereinkommen über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheiden in Zivil- und Handelssachen (Lugano-Übereinkommen, LugÜ)[^20-1] und vollziehen die ihnen vom Obergerichtspräsidium überwiesenen Rechtshilfesachen.
+
+[^20-1]: SR [0.275.12](https://db.clex.ch/link/Bund/0.275.12/de)
 
 #### § 21
 
 **Kollegialgericht**
 
-<sup>1</sup> Die Bezirksgerichte entscheiden in Fünferbesetzung in allen Strafsachen, in welchen die zuständige Staatsanwaltschaft eine Freiheitsstrafe von über drei Jahren, eine Verwahrung nach Artikel 64 StGB[^21-1], eine Behandlung nach Artikel 59 Absatz 3 StGB oder bei gleichzeitig zu widerrufenden bedingten Sanktionen einen Freiheitsentzug von mehr als drei Jahren beantragt.
+<sup>1</sup> Die Bezirksgerichte entscheiden in Fünferbesetzung in allen Strafsachen, in welchen die zuständige Staatsanwaltschaft eine Freiheitsstrafe von über drei Jahren, eine Verwahrung nach Art. 64 des Schweizerischen Strafgesetzbuches (StGB)[^21-1], eine Behandlung nach Art. 59 Abs. 3 StGB oder bei gleichzeitig zu widerrufenden bedingten Sanktionen einen Freiheitsentzug von mehr als drei Jahren beantragt.
 
-<sup>2</sup> In allen übrigen Fällen entscheiden die Bezirksgerichte in einer Dreierbesetzung. Sie sind Jugendgerichte im Sinne der Schweizerischen Jugendstrafprozessordnung (Jugendstrafprozessordnung, JStPO)[^21-2].
+<sup>2</sup> In allen übrigen Fällen entscheiden die Bezirksgerichte in einer Dreierbesetzung. Sie sind Jugendgerichte im Sinne der Schweizerischen Jugendstrafprozessordnung (JStPO)[^21-2].
 
 <sup>3</sup> Einsprachen gegen Strafbefehle beurteilen die Bezirksgerichte in Dreierbesetzung.
 
@@ -232,9 +254,16 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 #### § 22
 
-**Ersatzgericht**
+**Ersatzlösungen**
 
-<sup>1</sup> Muss die Gesamtheit oder müssen so viele Mitglieder eines Bezirksgerichtes den Ausstand wahren, dass eine genügende Besetzung auch unter Zuzug der Ersatzmitglieder nicht möglich ist, bezeichnet das Obergericht eine unbeteiligte Gerichtsbehörde als Ersatzgericht.
+<sup>1</sup> Muss die Gesamtheit oder müssen so viele Mitglieder eines Bezirksgerichtes den Ausstand wahren, dass eine genügende Besetzung auch unter Zuzug der Ersatzmitglieder nicht möglich ist, bezeichnet das Obergericht ein anderes Bezirksgericht als Ersatzgericht.
+
+<sup>2</sup> Ist bei einem Bezirksgericht ein ordentlicher Betrieb wegen längerer Abwesenheit von Berufsrichterinnen oder Berufsrichtern infolge Schwangerschaft und Mutterschaft, Erfüllung gesetzlicher Pflichten, Krankheit, Unfall oder wegen Überbelastung mit ausserordentlich aufwendigen Verfahren nicht mehr gewährleistet, kann das Obergericht:
+
+- 1\. die Pensen der Mitglieder und Mitarbeiterinnen oder Mitarbeiter des Bezirksgerichtes erhöhen und die befristete Anstellung ausserordentlicher Gerichtsschreiberinnen oder Gerichtsschreiber bewilligen
+- 2\. für einzelne Fälle ein anderes Bezirksgericht als Ersatzgericht bezeichnen.
+
+<sup>3</sup> Unter den Voraussetzungen von Abs. 2 kann der Grosse Rat auf Antrag des Obergerichtes für maximal zwei Jahre eine ausserordentliche Berufsrichterin oder einen ausserordentlichen Berufsrichter wählen.
 
 ### 2.3. Zwangsmassnahmengericht
 
@@ -256,11 +285,13 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 #### § 25
 
-**Zusammensetzung, Organisation**
+**Zusammensetzung, Ersatzgericht**
 
-<sup>1</sup> Das Obergericht besteht aus einer Berufsrichterin als Präsidentin oder einem Berufsrichter als Präsident, einer Berufsrichterin als Vizepräsidentin oder einem Berufsrichter als Vizepräsident und drei bis vier Berufsrichterinnen oder Berufsrichtern sowie drei bis vier Ersatzmitgliedern.
+<sup>1</sup> Das Obergericht besteht aus einer Berufsrichterin als Präsidentin oder einem Berufsrichter als Präsidenten, einer Berufsrichterin als Vizepräsidentin oder einem Berufsrichter als Vizepräsidenten und drei bis sechs Berufsrichterinnen oder Berufsrichtern sowie drei bis sechs Ersatzmitgliedern.
 
-<sup>2</sup> Müssen so viele Mitglieder oder Ersatzmitglieder den Ausstand wahren, dass eine genügende Besetzung des Gerichtes nicht mehr möglich ist, werden unbeteiligte Präsidentinnen oder Präsidenten oder Vizepräsidentinnen oder Vizepräsidenten der Bezirksgerichte zugezogen.
+<sup>1<sup>bis</sup></sup> Der Grosse Rat wählt die Obergerichtspräsidentin oder den Obergerichtspräsidenten aus der Mitte der Oberrichterinnen und Oberrichter für längstens zwei Amtsperioden. Erfolgt die Wahl während der laufenden Amtsperiode, sind zwei Wiederwahlen zulässig. Eine bisherige Präsidentin oder ein bisheriger Präsident ist nach einem Unterbruch wieder wählbar.
+
+<sup>2</sup> Müssen so viele Mitglieder oder Ersatzmitglieder den Ausstand wahren, dass eine genügende Besetzung des Gerichtes nicht mehr möglich ist, werden unbeteiligte Berufsrichterinnen oder Berufsrichter der Bezirksgerichte zugezogen.
 
 <sup>3</sup> Das Obergericht regelt in einer Geschäftsordnung die Aufgabenverteilung und die interne Organisation.
 
@@ -268,13 +299,17 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 **Zuständigkeit**
 
-<sup>1</sup> Das Obergericht ist Berufungs-, Beschwerde- und Revisionsinstanz gemäss der Zivil- und der Strafprozessordnung sowie Berufungs- und Beschwerdeinstanz gemäss der Jugendstrafprozessordnung. Es behandelt Aufsichtsbeschwerden gegen die Bezirksgerichte und deren Einzelrichterinnen oder Einzelrichter, gegen das Zwangsmassnahmengericht sowie gegen die Schlichtungsbehörde nach Gleichstellungsgesetz. Es ist zuständiges Gericht gemäss Artikel 356 Absatz 1 ZPO.
+<sup>1</sup> Das Obergericht ist Berufungs- und Beschwerdeinstanz gemäss der Zivil- und der Strafprozessordnung, Revisionsinstanz gemäss der Strafprozessordnung sowie Berufungs- und Beschwerdeinstanz gemäss der Jugendstrafprozessordnung. Es behandelt Aufsichtsbeschwerden gegen die Bezirksgerichte und deren Einzelrichterinnen oder Einzelrichter, gegen das Zwangsmassnahmengericht sowie gegen die Schlichtungsbehörde nach Gleichstellungsgesetz. Es ist zuständiges Gericht gemäss Art. 356 Abs. 1 ZPO.
 
-<sup>2</sup> Das Obergericht tagt in Dreierbesetzung. Es kann in Strafsachen durch Verordnung als Beschwerdeinstanz eine Einzelrichterin oder einen Einzelrichter einsetzen.
+<sup>2</sup> Das Obergericht tagt in Dreierbesetzung. Es kann in Strafsachen und für summarische Verfahren in Zivilsachen durch Verordnung als Beschwerdeinstanz eine Einzelrichterin oder einen Einzelrichter einsetzen.
 
-<sup>3</sup> Das Obergericht behandelt die Verfahren, in denen das Bundesrecht eine einzige kantonale Instanz vorschreibt. In diesen Fällen erlässt das Obergerichtspräsidium vorsorgliche Massnahmen und urteilt als Einzelrichterin oder Einzelrichter in Streitigkeiten bis zu einem Streitwert von Fr. 30 000.–.
+<sup>3</sup> Das Obergericht behandelt die Verfahren, in denen das Bundesrecht eine einzige kantonale Instanz vorschreibt. In diesen Fällen erlässt das Obergerichtspräsidium vorsorgliche Massnahmen und urteilt als Einzelrichterin oder Einzelrichter in Streitigkeiten bis zu einem Streitwert von Fr. 30'000.
 
-<sup>4</sup> Das Obergerichtspräsidium entscheidet in den Fällen von Artikel 356 Absatz 2 ZPO.
+<sup>3<sup>bis</sup></sup> Das Obergericht ist Zentralbehörde für die Rechtshilfe in Zivil- und Handelssachen. Zuständig ist das Obergerichtspräsidium.
+
+<sup>4</sup> Das Obergerichtspräsidium entscheidet in den Fällen von Art. 356 Abs. 2 ZPO.
+
+<sup>5</sup> Rechtsbehelfe im Sinne des LugÜ sind beim Obergericht einzureichen.
 
 ## 3. Strafverfolgungsbehörden
 
@@ -294,15 +329,15 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 <sup>2</sup> Die Generalstaatsanwaltschaft regelt die Vertretung, die Berechtigung zur Anklageerhebung und Anklagevertretung sowie die Zuständigkeit, Rechtsmittel einzureichen oder zurückzuziehen.
 
-<sup>3</sup> Die Generalstaatsanwaltschaft kann gegen Strafbefehle der Staatsanwaltschaften und Jugendanwaltschaft Einsprache erheben.
+<sup>3</sup> Die Generalstaatsanwaltschaft kann gegen Strafbefehle der Staatsanwaltschaften Einsprache erheben.
 
-<sup>4</sup> Der zuständigen Staatsanwaltschaft obliegt im Bereich der Strafrechtspflege das Inkasso und Rechnungswesen.
+<sup>4</sup> Der Staatsanwaltschaft obliegt im Bereich der Strafrechtspflege Inkasso und Rechnungswesen. Sie ist für die Stundung, die Herabsetzung oder den Erlass von Verfahrenskosten zuständig.
 
 #### § 29
 
 **Wahlbehörde**
 
-<sup>1</sup> Der Regierungsrat wählt eine Stellvertreterin oder einen Stellvertreter der Generalstaatsanwältin oder des Generalstaatsanwalts, die Oberstaatsanwältinnen oder Oberstaatsanwälte, die Staatsanwältinnen oder Staatsanwälte und die Jugendanwältinnen oder Jugendanwälte.
+<sup>1</sup> Der Regierungsrat wählt eine Stellvertreterin oder einen Stellvertreter der Generalstaatsanwältin oder des Generalstaatsanwalts, die Oberstaatsanwältinnen oder Oberstaatsanwälte, die Staatsanwältinnen oder Staatsanwälte, die leitende Jugendanwältin oder den leitenden Jugendanwalt und die Jugendanwältinnen oder Jugendanwälte.
 
 <sup>2</sup> Die Generalstaatsanwältin oder der Generalstaatsanwalt stellt in Absprache mit dem Personalamt die übrigen Mitarbeiterinnen oder Mitarbeiter an und regelt deren Funktionen.
 
@@ -316,7 +351,7 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 <sup>2</sup> Die Generalstaatsanwältin oder der Generalstaatsanwalt ist gegenüber den Staatsanwaltschaften und der Jugendanwaltschaft weisungsberechtigt, regelt Kompetenzkonflikte unter den Staatsanwaltschaften abschliessend und kann Änderungen in der Zuständigkeitsregelung vornehmen.
 
-<sup>3</sup> Die Generalstaatsanwältin oder der Generalstaatsanwalt sorgt für Einheitlichkeit in der Strafverfolgung und vertritt die Strafverfolgungsbehörden nach aussen.
+<sup>3</sup> Die Generalstaatsanwältin oder der Generalstaatsanwalt sorgt für Einheitlichkeit in der Strafverfolgung und vertritt die Staatsanwaltschaft nach aussen.
 
 #### § 31
 
@@ -324,7 +359,7 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 <sup>1</sup> Die Generalstaatsanwaltschaft behandelt interkantonale sowie internationale Gerichtsstandskonflikte. Sie ist zuständig für die internationale Rechtshilfe.
 
-<sup>2</sup> Die Generalstaatsanwaltschaft führt in der Regel die Strafuntersuchung bei Wirtschaftsstraftaten und organisierter Kriminalität.
+<sup>2</sup> …
 
 ### 3.3. Staatsanwaltschaften
 
@@ -342,9 +377,9 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 **Organisation, Zuständigkeit**
 
-<sup>1</sup> Die Jugendanwaltschaft wird durch eine Jugendanwältin oder einen Jugendanwalt geführt.
+<sup>1</sup> Die Jugendanwaltschaft wird durch eine leitende Jugendanwältin oder einen leitenden Jugendanwalt geführt.
 
-<sup>2</sup> Sie ist für die Strafverfolgung von Jugendlichen im ganzen Kanton zuständig.
+<sup>2</sup> Sie ist für die Strafverfolgung und den Vollzug von Schutzmassnahmen und Strafen bei Jugendlichen im ganzen Kanton zuständig.
 
 <sup>3</sup> Sie ist Untersuchungsbehörde im Sinne der JStPO und erhebt Anklage vor den Jugendgerichten.
 
@@ -370,7 +405,7 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 **Nachzahlung**
 
-<sup>1</sup> Eine besondere, der Finanzverwaltung angegliederte Stelle überprüft regelmässig, ob Parteien, denen die unentgeltliche Rechtspflege bewilligt worden ist, zur Nachzahlung im Sinne von Artikel 123 ZPO verpflichtet werden können. Die Zivilgerichte und die Kindes- und Erwachsenenschutzbehörden (KESB) teilen entsprechende rechtskräftige Entscheide dieser Stelle mit.
+<sup>1</sup> Eine besondere, der Finanzverwaltung angegliederte Stelle überprüft regelmässig, ob Parteien, denen die unentgeltliche Rechtspflege bewilligt worden ist, zur Nachzahlung im Sinne von Art. 123 ZPO verpflichtet werden können. Die Zivilgerichte und die Kindes- und Erwachsenenschutzbehörden (KESB) teilen entsprechende rechtskräftige Entscheide dieser Stelle mit.
 
 <sup>2</sup> Die Parteien haben ihre Einkommens- und Vermögensverhältnisse umfassend darzulegen. Die Steuerbehörden und die übrigen Behörden des Kantons und der Gemeinden sowie die öffentlich-rechtlichen Körperschaften und Anstalten, ausgenommen die Kantonalbank, sind zur unentgeltlichen Auskunftserteilung sowie Offenlegung von Unterlagen verpflichtet, soweit dies zum Vollzug dieser Bestimmung erforderlich ist.
 
@@ -380,7 +415,7 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 **Durchsetzung richterlicher Anordnungen**
 
-<sup>1</sup> Die Zivilgerichte oder die Berechtigten können für Zwangsmassnahmen und Ersatzvornahmen zur Urteilsvollstreckung sowie für die Durchsetzung von Beweisanordnungen und vorsorglichen Massnahmen die Hilfe der zuständigen Staatsanwaltschaft beanspruchen.
+<sup>1</sup> Die Schlichtungsbehörden, die Zivilgerichte oder die Berechtigten können für die Zustellung von Vorladungen und Entscheiden, für Zwangsmassnahmen und Ersatzvornahmen zur Urteilsvollstreckung sowie für die Durchsetzung von Beweisanordnungen und vorsorglichen Massnahmen die Hilfe der Kantonspolizei beanspruchen.
 
 <sup>2</sup> Geht es um Kinderbelange, kann das Gericht die Kindes- und Erwachsenenschutzbehörde am Aufenthaltsort der Kinder mit dem Vollzug beauftragen.
 
@@ -390,6 +425,19 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 <sup>1</sup> Bei Widerhandlungen gegen ein gerichtliches Verbot werden die Bussen durch die zuständige Staatsanwaltschaft verhängt.
 
+#### § 38a
+
+**Berufsmässige Vertretung**
+
+<sup>1</sup> Die berufsmässige Vertretung im Zivilprozess ist den nach dem Anwaltsgesetz des Bundes (BGFA)[^38a-1] zugelassenen Anwältinnen und Anwälten vorbehalten. Patentierte Sachwalterinnen und Sachwalter sowie Rechtsagentinnen und Rechtsagenten oder andere gewerbsmässige Vertreterinnen oder Vertreter sind nicht zugelassen.
+
+<sup>2</sup> Ausgenommen bleiben:
+
+- 1\. die Vertretung in arbeits- und mietrechtlichen Verfahren durch Mitarbeiterinnen oder Mitarbeiter einer Arbeitnehmerorganisation oder einer Organisation für Behinderte oder ähnlicher Institutionen mit weitgehend gemeinnütziger Ausrichtung
+- 2\. die Vertretung durch Liegenschaftenverwaltungen in Mieterausweisungsverfahren.
+
+[^38a-1]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de)
+
 ## 5. Besondere Bestimmungen für den Strafprozess
 
 #### § 39
@@ -398,33 +446,41 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 <sup>1</sup> Die Vorschriften der Strafprozessordnung, der Jugendstrafprozessordnung und dieses Gesetzes sind auch auf das kantonale Strafrecht anwendbar.
 
+#### § 39a
+
+**Zeugeneinvernahme durch die Kantonspolizei**
+
+<sup>1</sup> Angehörige der Kantonspolizei können in begründeten Einzelfällen und im Auftrag der Staatsanwaltschaft Zeuginnen und Zeugen einvernehmen.
+
 #### § 40
 
-**Anzeigepflichten**
+**Anzeigepflicht und Anzeigerecht**
 
-<sup>1</sup> Behörden und Mitarbeiterinnen oder Mitarbeiter, denen im Amt eine schwerwiegende Straftat bekannt wird, sind zur Anzeige verpflichtet. Bei Kindsmisshandlungen ist statt der Anzeige die Benachrichtigung der zuständigen Fachstelle zulässig. Diese entscheidet, ob und zu welchem Zeitpunkt Anzeige erstattet wird.
+<sup>1</sup> Behörden und Mitarbeiterinnen oder Mitarbeiter des Kantons und der Gemeinden, denen im Amt eine schwerwiegende Straftat bekannt wird, sind zur Anzeige verpflichtet. Die Anzeigepflicht entfällt für Personen, die nach Art. 113 Abs. 1, Art. 168, Art. 169 und Art. 180 Abs. 1 StPO zur Aussage- oder Zeugnisverweigerung berechtigt sind.
 
-<sup>2</sup> Die Angehörigen des Polizeikorps, mit Ausnahme jener, die in der Fachstelle für Häusliche Gewalt arbeiten, sind zur Anzeige aller Straftaten verpflichtet. Kindsmisshandlungen sind anzuzeigen oder der zuständigen Fachstelle zu melden.
+<sup>2</sup> Behörden und Mitarbeiterinnen oder Mitarbeiter des Kantons und der Gemeinden sind berechtigt, Anzeige zu erstatten, wenn sie Kenntnis von einer von Amtes wegen zu verfolgenden strafbaren Handlung erhalten.
 
-<sup>3</sup> Weitergehende Anzeigepflichten aufgrund anderer Gesetze bleiben vorbehalten.
+<sup>3</sup> Ärztinnen oder Ärzte, Zahnärztinnen oder Zahnärzte, Apothekerinnen oder Apotheker und Hebammen sind ohne Rücksicht auf die Bindung an das Berufsgeheimnis berechtigt, der Kantonspolizei oder der Staatsanwaltschaft Wahrnehmungen zu melden, die auf ein Verbrechen oder Vergehen gegen Leib und Leben, die sexuelle Integrität oder die öffentliche Gesundheit schliessen lassen.
 
-<sup>4</sup> Die Anzeigepflicht entfällt, wenn der Amtsperson im Strafverfahren gegen die Täterin oder den Täter gestützt auf die Schweizerische Strafprozessordnung (Strafprozessordnung, StPO)[^40-1] ein Zeugnisverweigerungsrecht zusteht.
-
-[^40-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+<sup>4</sup> …
 
 #### § 41
 
 **Antragsrecht der Behörden**
 
-<sup>1</sup> Beim Tatbestand der Vernachlässigung von Unterhaltspflichten nach Artikel 217 des Schweizerischen Strafgesetzbuches (StGB)[^41-1] steht das Antragsrecht auch den Kindes- und Erwachsenenschutzbehörden sowie den Fürsorgebehörden zu.
-
-[^41-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+<sup>1</sup> Beim Tatbestand der Vernachlässigung von Unterhaltspflichten nach Art. 217 StGB steht das Antragsrecht auch den Kindes- und Erwachsenenschutzbehörden sowie den Fürsorgebehörden zu.
 
 #### § 42
 
 **Mitteilung an eine Behörde**
 
-<sup>1</sup> Ergibt ein Strafverfahren, dass andere als strafrechtliche Massnahmen notwendig sind, ist den zuständigen Behörden Mitteilung zu machen.
+<sup>1</sup> Ergibt ein Strafverfahren, dass andere als strafrechtliche Massnahmen in Frage kommen, ist den zuständigen Behörden Mitteilung zu machen.
+
+#### § 42a
+
+**Beschwerderecht der kantonalen Behörden**
+
+<sup>1</sup> Kantonale Behörden, die in ihrem Zuständigkeitsbereich Strafanzeige erstattet haben, können gegen Nichtanhandnahme- und Einstellungsentscheide Beschwerde erheben. Das vorgesetzte Departement ist über die Beschwerdeerhebung umgehend zu informieren.
 
 #### § 43
 
@@ -432,10 +488,10 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 <sup>1</sup> Die Rechte und Pflichten einer inhaftierten Person richten sich nach den Vorschriften des Konkordates der ostschweizerischen Kantone über den Vollzug von Strafen und Massnahmen (Strafvollzugskonkordat)[^43-1], dem Einführungsgesetz zum Schweizerischen Strafrecht (EG StGB)[^43-2] und den Ausführungsbestimmungen über den Justizvollzug.
 
-<sup>2</sup> Der vorzeitige Straf- oder Massnahmenvollzug bedarf der Zustimmung der Strafvollzugsbehörden.
+<sup>2</sup> Der vorzeitige Massnahmenvollzug bedarf der Zustimmung der Strafvollzugsbehörden.
 
-[^43-1]: [341.1](https://www.rechtsbuch.tg.ch/data/341.1/de)
-[^43-2]: [311.1](https://www.rechtsbuch.tg.ch/data/311.1/de)
+[^43-1]: RB [341.1](https://www.rechtsbuch.tg.ch/data/341.1/de)
+[^43-2]: RB [311.1](https://www.rechtsbuch.tg.ch/data/311.1/de)
 
 #### § 44
 
@@ -447,21 +503,23 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 **Nachträgliche Entscheide**
 
-<sup>1</sup> Nachträgliche Entscheide, die nach der StPO nicht der urteilenden Instanz zustehen, werden nach Massgabe der Bestimmungen über den Justizvollzug gefällt.
+<sup>1</sup> Die Vollzugsbehörden beantragen spätere richterliche Vollzugsentscheide.
+
+<sup>2</sup> Anträge und Gesuche sind beim Gericht oder bei der Staatsanwaltschaft einzureichen, welches oder welche die erstinstanzliche Strafe oder Massnahme ausgesprochen hat. Die Vollzugsbehörden und die Staatsanwaltschaft haben im Verfahren Parteistellung mit vollen Parteirechten gemäss Art. 104 Abs. 2 StPO.
+
+<sup>3</sup> Nichtrichterliche Vollzugsentscheide werden durch die Vollzugsbehörden erlassen.
 
 #### § 46
 
 **Beschlagnahmte Gegenstände**
 
-<sup>1</sup> Die zuständige Staatsanwaltschaft verwaltet beschlagnahmte Gegenstände nach den Weisungen der Generalstaatsanwaltschaft.
+<sup>1</sup> Die Verwaltung beschlagnahmter Gegenstände erfolgt nach den Weisungen der Generalstaatsanwaltschaft.
 
 <sup>2</sup> Die Verwertung oder Vernichtung eingezogener Gegenstände erfolgt unter der Verantwortung der zuständigen Staatsanwaltschaft.
 
 #### § 47
 
-**Personenschutz**
-
-<sup>1</sup> Die Generalstaatsanwaltschaft trifft die notwendigen Massnahmen zum Schutz von Personen ausserhalb eines Verfahrens.
+**…**
 
 #### § 48
 
@@ -473,7 +531,7 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 **Rückerstattung von Entschädigungen**
 
-<sup>1</sup> Eine besondere, der Finanzverwaltung angegliederte Stelle überprüft regelmässig, ob Parteien, denen als beschuldigte Person die amtliche Verteidigung oder als Privatklägerschaft die unentgeltliche Rechtspflege bewilligt worden ist, zur Rückerstattung im Sinne von Artikel 135 Absatz 4 Buchstabe a und Artikel 138 Absatz 1 StPO verpflichtet werden können. Die Strafbehörden teilen entsprechende rechtskräftige Entscheide dieser Stelle mit.
+<sup>1</sup> Eine besondere, der Finanzverwaltung angegliederte Stelle überprüft regelmässig, ob Parteien, denen als beschuldigte Person die amtliche Verteidigung oder als Privatklägerschaft die unentgeltliche Rechtspflege bewilligt worden ist, zur Rückerstattung im Sinne von Art. 135 Abs. 4 lit. a und Art. 138 Abs. 1 StPO verpflichtet werden können. Die Strafbehörden teilen entsprechende rechtskräftige Entscheide dieser Stelle mit.
 
 <sup>2</sup> Die Parteien haben ihre Einkommens- und Vermögensverhältnisse umfassend darzulegen. Die Steuerbehörden und die übrigen Behörden des Kantons und der Gemeinden sowie die öffentlich-rechtlichen Körperschaften und Anstalten, ausgenommen die Kantonalbank, sind zur unentgeltlichen Auskunftserteilung sowie Offenlegung von Unterlagen verpflichtet, soweit dies zum Vollzug dieser Bestimmung erforderlich ist.
 
@@ -485,6 +543,14 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 <sup>1</sup> Über die Entschädigung einer oder eines Sachverständigen entscheidet jene Behörde, welche den Auftrag erteilt hat.
 
+#### § 50a
+
+**Kostenbeteiligung der Eltern**
+
+<sup>1</sup> Gegen die Festsetzung der Elternbeiträge an die Kosten der jugendstrafrechtlichen Schutzmassnahmen und Beobachtungen gemäss Art. 45 Abs. 5 und Abs. 6 JStPO kann innert 10 Tagen Einsprache bei der Jugendanwaltschaft erhoben werden.
+
+<sup>2</sup> Aufgrund einer Einsprache hat die Jugendanwaltschaft ihre Anordnungen zu überprüfen und neu darüber zu entscheiden. Hält sie an ihren Anordnungen fest, überweist sie die Akten als Beschwerde dem Obergericht zur gerichtlichen Entscheidung.
+
 #### § 51
 
 **Bussenerhebung durch die Polizei**
@@ -493,31 +559,31 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 <sup>2</sup> Das Verfahren richtet sich sinngemäss nach dem Ordnungsbussengesetz (OBG)[^51-1].
 
-[^51-1]: SR [741.03](https://db.clex.ch/link/Bund/741.03/de)
+[^51-1]: SR [314.1](https://db.clex.ch/link/Bund/314.1/de)
 
 ## 6. Opferhilfe
 
 #### § 52
 
-**Vertretung des Staates bei Opferhilfe**
-
-<sup>1</sup> Die Generalstaatsanwaltschaft vertritt unter Vorbehalt anderer Zuständigkeiten die Interessen des Staates nach Massgabe des Bundesgesetzes über die Hilfe an Opfer von Straftaten (Opferhilfegesetz, OHG)[^52-1]. Sie kann alle damit in Zusammenhang stehenden Anordnungen treffen und ihre Befugnisse delegieren.
-
-[^52-1]: SR [312.5](https://db.clex.ch/link/Bund/312.5/de)
+**…**
 
 #### § 53
 
 **Richterliche Zuständigkeit**
 
-<sup>1</sup> Das zuständige Strafgericht beurteilt Entschädigungs- und Genugtuungsansprüche gemäss Artikel 19 bis 23 OHG. Es ist zuständig für den Entscheid nach Artikel 73 Absatz 3 StGB. Ist in der Strafsache eine Staatsanwaltschaft oder die Jugendanwaltschaft zuständig, entscheidet die Einzelrichterin oder der Einzelrichter des Bezirksgerichtes.
+<sup>1</sup> Das zuständige Strafgericht entscheidet über Anträge nach Art. 73 StGB. Ist eine Zusprechung nicht schon im Strafurteil möglich, entscheidet die Einzelrichterin oder der Einzelrichter des Bezirksgerichtes nach den Bestimmungen über das summarische Verfahren gemäss ZPO.
 
-<sup>2</sup> Über Ansprüche nach Artikel 21 OHG entscheidet die Einzelrichterin oder der Einzelrichter des Bezirksgerichtes nach den Bestimmungen über das summarische Verfahren gemäss ZPO.
+<sup>2</sup> …
 
 #### § 54
 
 **Departementale Zuständigkeit**
 
-<sup>1</sup> Das zuständige Departement beurteilt Begehren um Soforthilfe und längerfristige Hilfe gemäss Artikel 13 OHG und entscheidet über die Geltendmachung von Rückgriffsforderungen gemäss Artikel 7 OHG.
+<sup>1</sup> Das zuständige Departement beurteilt Begehren um Soforthilfe und längerfristige Hilfe gemäss Art. 13 des Bundesgesetzes über die Hilfe an Opfer von Straftaten (Opferhilfegesetz, OHG)[^54-1] sowie Entschädigungs- und Genugtuungsansprüche gemäss Art. 19 bis Art. 23 OHG. Es entscheidet über die Geltendmachung von Rückgriffsforderungen gemäss Art. 7 OHG.
+
+<sup>2</sup> Das Departement kann mit auf Opferhilfe spezialisierten Beratungsstellen Leistungsvereinbarungen abschliessen.
+
+[^54-1]: SR [312.5](https://db.clex.ch/link/Bund/312.5/de)
 
 ## 7. Begnadigung
 
@@ -553,9 +619,9 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 #### § 58
 
-**Konkursamt, Betreibungsinspektorat**
+**Amt für Betreibungs- und Konkurswesen**
 
-<sup>1</sup> Das kantonale Konkursamt und Betreibungsinspektorat ist zuständig für die Durchführung der Konkurse. Die Amtsleiterin oder der Amtsleiter wird vom Regierungsrat nach Anhörung des Obergerichtes angestellt.
+<sup>1</sup> Das Amt für Betreibungs- und Konkurswesen ist zuständig für die Durchführung der Konkurse. Die Amtsleiterin oder der Amtsleiter wird vom Regierungsrat nach Anhörung des Obergerichtes angestellt.
 
 #### § 59
 
@@ -565,13 +631,19 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 <sup>2</sup> Das Obergericht ist Aufsichtsbehörde in Konkurssachen und obere Aufsichtsbehörde in Schuldbetreibungssachen.
 
+#### § 59a
+
+**Verfahren**
+
+<sup>1</sup> Für Beschwerden nach dem Bundesgesetz über Schuldbetreibung und Konkurs (SchKG)[^59a-1] gelten die Bestimmungen über die Beschwerde gemäss der ZPO sinngemäss, soweit nicht das Bundesrecht Verfahrensvorschriften aufstellt.
+
+[^59a-1]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
+
 #### § 60
 
 **Nachlassgericht**
 
-<sup>1</sup> Die Einzelrichterinnen oder Einzelrichter des Bezirksgerichtes sind unteres, das Obergericht oberes Nachlassgericht nach Artikel 293 bis 350 des Bundesgesetzes über Schuldbetreibung und Konkurs (SchKG)[^60-1].
-
-[^60-1]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
+<sup>1</sup> Die Einzelrichterinnen oder Einzelrichter des Bezirksgerichtes sind unteres, das Obergericht oberes Nachlassgericht nach Art. 293 bis Art. 350 SchKG.
 
 #### § 61
 
@@ -587,11 +659,13 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 <sup>1</sup> Die im Zeitpunkt des Inkrafttretens dieses Gesetzes bei den Bezirksämtern, dem Kantonalen Untersuchungsrichteramt und der Jugendanwaltschaft oder der Staatsanwaltschaft hängigen Verfahren werden von den nach diesem Gesetz zuständigen Behörden übernommen. Die Generalstaatsanwaltschaft regelt die Einzelheiten.
 
-<sup>2</sup> Die im Zeitpunkt des Inkrafttretens dieses Gesetzes beim Präsidium der Anklagekammer hängigen Verfahren werden vom Zwangsmassnahmengericht weitergeführt.
+<sup>2–4</sup> …
 
-<sup>3</sup> Die im Zeitpunkt des Inkrafttretens dieses Gesetzes bei der Anklagekammer hängigen Beschwerdeverfahren werden vom Obergericht weitergeführt.
+#### § 62a
 
-<sup>4</sup> Bei der Anklagekammer pendente Entschädigungsbegehren werden dem zuständigen Bezirksgericht zugewiesen.
+**Neue Zuständigkeiten im Bereich Opferhilfe**
+
+<sup>1</sup> Die im Zeitpunkt des Inkrafttretens dieses Gesetzes bei den Strafgerichten, der Staatsanwaltschaft oder der Jugendanwaltschaft hängigen Opferhilfeverfahren werden von den bisher zuständigen Behörden bis zum rechtskräftigen Abschluss erledigt.
 
 #### § 63
 
@@ -605,23 +679,9 @@ vom 17.06.2009 (Stand 01.06.2016)
 
 <sup>1</sup> Für nachträgliche Entscheide bei Urteilen des Kriminalgerichtes und der Kriminalkammer ist das Obergericht zuständig.
 
-#### § 65
+#### § 65–66
 
-**Ausnahmen vom Wohnsitzerfordernis**
-
-<sup>1</sup> Der Regierungsrat kann befristete Ausnahmen vom Wohnsitzerfordernis gemäss § 4 des Gesetzes über das Stimm- und Wahlrecht[^65-1] bis längstens 1. Januar 2016 bewilligen.
-
-[^65-1]: [161.1](https://www.rechtsbuch.tg.ch/data/161.1/de)
-
-#### § 66
-
-**Ausnahmen betreffend Führung eines Betreibungsamtes**
-
-<sup>1</sup> Wird ein Betreibungsamt im Zeitpunkt des Inkrafttretens dieses Gesetzes nicht von der Friedensrichterin oder vom Friedensrichter geführt, ernennt der Regierungsrat die Betreibungsbeamtin oder den Betreibungsbeamten.
-
-<sup>2</sup> Im Zeitpunkt des Inkrafttretens dieses Gesetzes bestehende Ausnahmen von § 57 Absatz 1 sind längstens bis 1. Januar 2016 befristet.
-
-<sup>3</sup> Bei Rücktritt einer Friedensrichterin oder eines Friedensrichters vor Ablauf der Übergangsfrist gemäss Absatz 2 bestimmt der Regierungsrat den Zeitpunkt der Übernahme der Führung des Betreibungsamtes.
+**…**
 
 #### § 67
 
