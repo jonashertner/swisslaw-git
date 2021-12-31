@@ -4,11 +4,11 @@ title: Ordonnance du 27 août 2014 sur les produits de construction (OPCo)
 short: OPCo
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/496"
 language: fr
-version: 2014-12-09
+version: 2022-01-01
 adopted: 2014-08-27
 in_force: 2014-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/496/20141209/fr/xml/fedlex-data-admin-ch-eli-cc-2014-496-20141209-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/496/20141209/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/496/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-496-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/496/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/496/20141209/fr"
 
 (OPCo)
 
-du 27 août 2014 (Etat le 9 décembre 2014)
+du 27 août 2014 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 35, al. 1, de la loi fédérale du 21 mars 2014 sur les produits de construction (LPCo)[^ingress-1], en exécution de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne relatif à la reconnaissance mutuelle en matière d’évaluation de la conformité[^ingress-2] (ARM[^ingress-3]), en exécution de l’annexe I de la Convention du 4 janvier 1960 instituant l’Association européenne de Libre-Echange[^ingress-4] (Convention AELE),
+vu l’art. 35, al. 1, de la loi fédérale du 21 mars 2014 sur les produits de construction (LPCo)[^ingress-1], en exécution de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne relatif à la reconnaissance mutuelle en matière d’évaluation de la conformité[^ingress-2] (ARM[^ingress-3]), en exécution de l’annexe I de la Convention du 4 janvier 1960 instituant l’Association européenne de Libre-Échange[^ingress-4] (Convention AELE),
 
 arrête:
 
@@ -48,7 +48,7 @@ Les exigences fondamentales applicables aux ouvrages de construction sont préci
 
 <sup>1</sup>
 
-Après consultation du Secrétariat d’Etat à l’économie (SECO) et de la Commission fédérale des produits de construction (art. 30 LPCo), l’Office fédéral des constructions et de la logistique (OFCL) désigne les actes de l’Union européenne (UE) qui:
+Après consultation du Secrétariat d’État à l’économie (SECO) et de la Commission fédérale des produits de construction (art. 30 LPCo), l’Office fédéral des constructions et de la logistique (OFCL) désigne les actes de l’Union européenne (UE) qui:
 
 - a. fixent les caractéristiques essentielles d’un produit de construction pour lesquelles le fabricant doit dans tous les cas déclarer les performances conformément à l’art. 8, al. 3, LPCo;
 - b. fixent les niveaux seuils visés à l’art. 8, al. 3, LPCo applicables aux performances des caractéristiques essentielles d’un produit de construction.
@@ -102,7 +102,7 @@ Le fabricant peut établir sa déclaration des performances sur la base de l’e
 
 - a. si son produit de construction est couvert par une spécification technique harmonisée désignée;
 - b. si ce produit de construction est un système constitué de composants que le fabricant a assemblés en suivant rigoureusement les instructions précises du fournisseur dudit système ou d’un de ses composants;
-- c. si le fournisseur dudit système ou d’un de ses composants a déjà soumis à des essais ce système ou composant en ce qui concerne une ou plusieurs de ses caractéristiques essentielles, conformément à la spécification technique harmonisée applicable; et
+- c. si le fournisseur dudit système ou d’un de ses composants a déjà soumis à des essais ce système ou composant en ce qui concerne une ou plusieurs de ses caractéristiques essentielles, conformément à la spécification technique harmonisée applicable, et
 - d. si le fabricant a obtenu du fournisseur l’autorisation d’utiliser les résultats de ces essais.
 
 <sup>5</sup> Dans le cas prévu à l’al. 4, le fournisseur continue de répondre de l’exactitude, de la fiabilité et de la stabilité des résultats des essais.
@@ -169,9 +169,9 @@ La déclaration des performances comprend en outre:
 - d. le cas échéant, les performances du produit de construction, exprimées par niveau ou par classe ou au moyen d’une description et, si nécessaire, sur la base d’un calcul, correspondant aux caractéristiques essentielles déterminées conformément à l’art. 2, al. 1, et
 - e. les lettres «NPD» («No Performance Determined» / performance non déterminée) pour les caractéristiques essentielles qui figurent sur la liste et pour lesquelles les performances ne sont pas déclarées.
 
-<sup>3</sup> Au surplus, la déclaration des performances indique les performances des caractéristiques essentielles du produit de construction relatives aux usages prévus pour lesquels les dispositions des organes compétents de la Confédération, des cantons ou des Etats partenaires parties à l’ARM et à la Convention-AELE doivent être respectées à l’endroit où le fabricant entend mettre le produit à disposition sur le marché.
+<sup>3</sup> Au surplus, la déclaration des performances indique les performances des caractéristiques essentielles du produit de construction relatives aux usages prévus pour lesquels les dispositions des organes compétents de la Confédération, des cantons ou des États partenaires parties à l’ARM et à la Convention-AELE doivent être respectées à l’endroit où le fabricant entend mettre le produit à disposition sur le marché.
 
-<sup>4</sup> Si une évaluation technique européenne (ETE) a été délivrée pour un produit de construction, les performances de toutes les caractéristiques essentielles de ce produit mentionnées dans l'ETE doivent être déclarées en les exprimant par niveau ou par classe ou au moyen d’une description.
+<sup>4</sup> Si une évaluation technique européenne (ETE) a été délivrée pour un produit de construction, les performances de toutes les caractéristiques essentielles de ce produit mentionnées dans l’ETE doivent être déclarées en les exprimant par niveau ou par classe ou au moyen d’une description.
 
 <sup>5</sup> La déclaration des performances est établie au moyen du modèle figurant à l’annexe 3.
 
@@ -431,11 +431,11 @@ Aux fins de l’évaluation des performances de certaines caractéristiques esse
 
 <sup>1</sup> L’OFCL désigne le titre et la source des DEE dans la Feuille fédérale et actualise régulièrement la liste.
 
-<sup>2</sup> A compter de la date de désignation des DEE, les OET établis en Suisse n’ont plus le droit de délivrer des agréments techniques nationaux ou des évaluations techniques comparables dans le domaine des DEE désignés.
+<sup>2</sup> À compter de la date de désignation des DEE, les OET établis en Suisse n’ont plus le droit de délivrer des agréments techniques nationaux ou des évaluations techniques comparables dans le domaine des DEE désignés.
 
 #### Art. 20
 
-**Evaluation technique européenne**
+**Évaluation technique européenne**
 
 ### (art. 13, al. 4, LPCo)
 
@@ -579,7 +579,7 @@ En cas de retrait, de restriction ou de suspension de la désignation ou lorsque
 
 <sup>1</sup>
 
-A la demande du fabricant et lorsque des raisons techniques, économiques ou logistiques le justifient, les organismes désignés peuvent décider d’effectuer les essais visés à l’annexe 2 pour les systèmes d’évaluation et de vérification de la constance des performances 1+, 1 et 3 ou de les faire effectuer sous leur supervision:
+À la demande du fabricant et lorsque des raisons techniques, économiques ou logistiques le justifient, les organismes désignés peuvent décider d’effectuer les essais visés à l’annexe 2 pour les systèmes d’évaluation et de vérification de la constance des performances 1+, 1 et 3 ou de les faire effectuer sous leur supervision:
 
 - a. dans les établissements de fabrication à l’aide des équipements d’essai du laboratoire interne du fabricant, ou
 - b. avec l’accord préalable du fabricant, dans un laboratoire externe, à l’aide des équipements d’essai de celui-ci.
@@ -704,7 +704,7 @@ Les OET suisses reçoivent une indemnité pour la défense des intérêts de la 
 
 <sup>1</sup>
 
-A la demande d’une autorité compétente d’un Etat membre de l’UE ou de l’AELE ou d’un agent économique, le point de contact produit pour la construction fournit des informations sur:
+À la demande d’une autorité compétente d’un État membre de l’UE ou de l’AELE ou d’un agent économique, le point de contact produit pour la construction fournit des informations sur:
 
 - a. les prescriptions techniques applicables à un produit de construction type donné;
 - b. les coordonnées des organes compétents pour l’exécution des prescriptions techniques;
@@ -741,9 +741,10 @@ A la demande d’une autorité compétente d’un Etat membre de l’UE ou de l�
 
 <sup>2</sup> Ils annoncent à l’OFCL et aux organes de surveillance cités à l’art. 37, al. 1, tout produit dont on sait ou suppose qu’il présente un défaut.
 
-<sup>3</sup> Les organes de surveillance peuvent demander à l’Administration fédérale des douanes de leur fournir, pendant une durée limitée, des informations sur l’importation de produits clairement désignés.
+<sup>3</sup> Les organes de surveillance peuvent demander à l’Office fédéral de la douane et de la sécurité des frontières[^38-2] de leur fournir, pendant une durée limitée, des informations sur l’importation de produits clairement désignés.
 
 [^38-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^38-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 39
 
@@ -790,7 +791,7 @@ L’OFCL coordonne les tâches d’exécution des organes de surveillance, notam
 
 #### Art. 42
 
-**Emoluments**
+**Émoluments**
 
 ### (art. 33 LPCo)
 
@@ -841,7 +842,7 @@ Les autorités et les organisations privées chargées de tâches de surveillanc
 
 ### (art. 33 LPCo)
 
-<sup>1</sup> A moins que la présente ordonnance n’en dispose autrement, l’ordonnance générale du 8 septembre 2004 sur les émoluments (OGEmol)[^45-1] est applicable.
+<sup>1</sup> À moins que la présente ordonnance n’en dispose autrement, l’ordonnance générale du 8 septembre 2004 sur les émoluments (OGEmol)[^45-1] est applicable.
 
 <sup>2</sup> Les art. 2 et 6 à 14 OGEmol s’appliquent par analogie aux contrôles et aux décisions des organes de surveillance cités à l’art. 37, al. 1.
 
@@ -914,7 +915,7 @@ Les ouvrages de construction doivent être conçus et construits de manière à 
 
 Les ouvrages de construction doivent être conçus et construits de manière à ce que le bruit perçu par les occupants ou par des personnes se trouvant à proximité soit maintenu à un niveau tel que leur santé ne soit pas menacée et qui leur permette de dormir, de se reposer et de travailler dans des conditions satisfaisantes.
 
-### 6. Economie d’énergie et isolation thermique
+### 6. Économie d’énergie et isolation thermique
 
 Les ouvrages de construction ainsi que leurs installations de chauffage, de refroidissement, d’éclairage et d’aération doivent être conçus et construits de manière à ce que la consommation d’énergie qu’ils requièrent pour leur utilisation reste modérée compte tenu des conditions climatiques locales, sans qu’il soit pour autant porté atteinte au confort thermique des occupants. Ils doivent également être efficaces sur le plan énergétique en utilisant le moins d’énergie possible au cours de leur montage et démontage.
 
@@ -991,7 +992,7 @@ Le fabricant établit la déclaration des performances et détermine le produit 
 ### 1.4 Système 3
 
 - a. Le fabricant effectue un contrôle de la production en usine.
-- b. Le laboratoire d'essais désigné ou reconnu conformément à l’art. 6, al. 2, let. b, LPCo évalue les performances du produit sur la base d’essais (reposant sur l’échantillonnage réalisé par le fabricant), de calculs, de valeurs issues de tableaux ou de la documentation descriptive du produit.
+- b. Le laboratoire d’essais désigné ou reconnu conformément à l’art. 6, al. 2, let. b, LPCo évalue les performances du produit sur la base d’essais (reposant sur l’échantillonnage réalisé par le fabricant), de calculs, de valeurs issues de tableaux ou de la documentation descriptive du produit.
 
 ### 1.5 Système 4
 
@@ -1014,7 +1015,7 @@ Pour ce qui est de la fonction des organismes désignés ou reconnus conforméme
 
 - 1\. l’organisme de certification du produit: organisme désigné conformément à la section 4 aux fins de la certification de la constance des performances ou reconnu pour cette activité conformément à l’art. 6, al. 2, let. b, LPCo;
 - 2\. l’organisme de certification du contrôle de la production en usine: organisme désigné conformément à la section 4 aux fins de la certification du contrôle de la production en usine ou reconnu pour cette activité conformément à l’art. 6, al. 2, let. b, LPCo;
-- 3\. le laboratoire d'essais: organisme désigné conformément à la section 4 ou reconnu conformément à l’art. 6, al. 2, let. b, LPCo qui mesure, examine, teste, calcule ou détermine de toute autre manière les performances des produits de construction.
+- 3\. le laboratoire d’essais: organisme désigné conformément à la section 4 ou reconnu conformément à l’art. 6, al. 2, let. b, LPCo qui mesure, examine, teste, calcule ou détermine de toute autre manière les performances des produits de construction.
 
 Annexe 3
 
@@ -1046,7 +1047,7 @@ N<sup>o</sup>
 - 6\. b) Document d’évaluation européen:
 -
 
-- Evaluation technique européenne:
+- Évaluation technique européenne:
 -
 
 - Organisme d’évaluation technique:
@@ -1063,7 +1064,7 @@ Signé par le fabricant et en son nom par:
 
 [nom]
 
-A [lieu de délivrance] , le [date de délivrance]
+À [lieu de délivrance] , le [date de délivrance]
 
 [signature]
 
@@ -1126,7 +1127,7 @@ Annexe 5
 <tr><th>Code du domaine</th><th>Domaine de produits</th></tr>
 <tr><td>1</td><td>Produits préfabriqués en béton de granulats courants, en béton de granulats légers ou en béton cellulaire autoclave aéré</td></tr>
 <tr><td>2</td><td>Portes, fenêtres, volets, portails et quincailleries associées</td></tr>
-<tr><td>3</td><td>Membranes, y compris kits sous forme de liquide appliqué (à des fins d’étanchéité ou de pare-vapeur)</td></tr>
+<tr><td>3</td><td>Membranes, y compris kits sous forme de liquide appliqué (à des fins d’étanchéité ou de pare‑vapeur)</td></tr>
 <tr><td>4</td><td>Produits d’isolation thermique</td></tr>
 <tr><td></td><td>Kits/systèmes mixtes pour isolation</td></tr>
 <tr><td>5</td><td>Appareils d’appui structuraux</td></tr>
@@ -1135,9 +1136,9 @@ Annexe 5
 <tr><td>7</td><td>Produits de gypse</td></tr>
 <tr><td>8</td><td>Géotextiles, géomembranes et produits connexes</td></tr>
 <tr><td>9</td><td>Murs-rideaux/revêtement mural extérieur/vitrages extérieurs collés</td></tr>
-<tr><td>10</td><td>Equipements fixes de lutte contre l’incendie (avertisseurs d’incendie, détecteurs d’incendie, équipements fixes de lutte contre l’incendie, produits de lutte contre l’incendie et la fumée et produits de protection en cas d’explosion)</td></tr>
+<tr><td>10</td><td>Équipements fixes de lutte contre l’incendie (avertisseurs d’incendie, détecteurs d’incendie, équipements fixes de lutte contre l’incendie, produits de lutte contre l’incendie et la fumée et produits de protection en cas d’explosion)</td></tr>
 <tr><td>11</td><td>Appareils sanitaires</td></tr>
-<tr><td>12</td><td>Equipements fixes de circulation: matériel routier</td></tr>
+<tr><td>12</td><td>Équipements fixes de circulation: matériel routier</td></tr>
 <tr><td>13</td><td>Produits/éléments de bois de charpente et produits connexes</td></tr>
 <tr><td>14</td><td>Panneaux et éléments à base de bois</td></tr>
 <tr><td>15</td><td>Ciments, chaux de construction et autres liants hydrauliques</td></tr>
@@ -1148,7 +1149,8 @@ Annexe 5
 <tr><td>18</td><td>Produits d’assainissement</td></tr>
 <tr><td>19</td><td>Revêtements de sols</td></tr>
 <tr><td>20</td><td>Produits de construction métallique et produits connexes</td></tr>
-<tr><td>21</td><td>Finitions intérieures et extérieures des murs et des plafonds Kits de cloisonnement intérieur</td></tr>
+<tr><td>21</td><td>Finitions intérieures et extérieures des murs et des plafonds</td></tr>
+<tr><td></td><td>Kits de cloisonnement intérieur</td></tr>
 <tr><td>22</td><td>Toitures, lanterneaux, lucarnes et produits connexes</td></tr>
 <tr><td></td><td>Kits de toiture</td></tr>
 <tr><td>23</td><td>Produits pour la construction de routes</td></tr>
@@ -1175,11 +1177,11 @@ Annexe 6
 ## Exigences applicables aux organismes d’évaluation technique (OET)
 
 <table>
-<tr><th>Compétence</th><th>Description de la compétence</th><th>Exigence</th></tr>
-<tr><td>1. Analyse des risques</td><td>Déterminer les risques et avantages possibles liés à l’utilisation de produits de construction innovants en l’absence d’informations techniques établies/ consolidées sur leurs performances, lorsqu’ils sont installés dans des ouvrages de construction.</td><td>Un OET doit avoir une personnalité juridique. Il doit être indépendant des parties concernées et de tout intérêt particulier. L’OET doit en outre disposer d’un personnel possédant: a) l’objectivité requise et un solide jugement technique; b) une connaissance approfondie des dispositions réglementaires et des autres exigences en vigueur dans les domaines de produits pour lesquels l’organisme d’évaluation technique doit être désigné; c) une compréhension générale des pratiques de construction et une connaissance technique approfondie dans les domaines de produits pour lesquels l’organisme d’évaluation technique doit être désigné; d) une connaissance approfondie des risques particuliers et des aspects techniques du processus de construction; e) une connaissance approfondie des normes harmonisées désignées et des méthodes d’essai en vigueur dans les domaines de produits pour lesquels l’organisme d’évaluation technique doit être désigné; f) des connaissances linguistiques appropriées. La rémunération du personnel de l’OET ne dépend pas du nombre d’évaluations effectuées ni des résultats de celles-ci.</td></tr>
-<tr><td>2. Fixation de critères techniques</td><td>Traduire le résultat de l’analyse des risques dans des critères techniques permettant d’évaluer le comportement et les performances des produits de construction du point de vue du respect des exigences applicables. Fournir les informations techniques nécessaires aux personnes qui participent au processus de construction en tant qu’utilisateurs potentiels des produits de construction (fabricants, concepteurs, entrepreneurs, installateurs).</td><td></td></tr>
-<tr><td>3. Définition des méthodes d’évaluation</td><td>Concevoir et valider des méthodes appropriées (essais ou calculs) pour évaluer les performances correspondant aux caractéristiques essentielles des produits de construction, compte tenu de l’état de la technique.</td><td></td></tr>
-<tr><td>4. Détermination du contrôle spécifique de la production en usine</td><td>Comprendre et évaluer le procédé de fabrication du produit concerné pour déterminer des mesures appropriées garantissant la constance du produit tout au long de ce procédé.</td><td>Un OET dispose de personnel possédant une connaissance appropriée de la relation qui existe entre les procédés de fabrication et les caractéristiques du produit du point de vue du contrôle de la production en usine.</td></tr>
-<tr><td>5. Evaluation du produit</td><td>Evaluer les performances correspondant aux caractéristiques essentielles des produits de construction sur la base de méthodes harmonisées et en fonction de critères harmonisés.</td><td>Outre les exigences énoncées aux points 1, 2 et 3, un OET a accès aux moyens et équipements nécessaires à l’évaluation des performances des produits de construction correspondant aux caractéristiques essentielles, dans les domaines de produits pour lesquels il doit être désigné.</td></tr>
-<tr><td>6. Gestion générale</td><td>Assurer la cohérence, la fiabilité, l’objectivité et la traçabilité par l’application constante de méthodes de gestion appropriées.</td><td>Un OET a: a) une tradition attestée de bon comportement administratif; b) une politique, reposant sur des procédures, de respect de la confidentialité des informations sensibles au sein de l’OET et chez tous ses partenaires; c) un système de gestion documentaire garantissant l’enregistrement, la traçabilité, la conservation et l’archivage de tous les documents pertinents; d) un mécanisme d’audit interne et de contrôle de la gestion permettant le contrôle régulier du respect des méthodes de gestion appropriées; e) une procédure permettant de traiter objectivement les recours et les plaintes.</td></tr>
+<tr><th>Compétence</th><th>Description de la compétence</th><th></th><th>Exigence</th></tr>
+<tr><td>1. Analyse des risques</td><td>Déterminer les risques et avantages possibles liés à l’utilisation de produits de construction innovants en l’absence d’informations techniques établies/consolidées sur leurs performances, lorsqu’ils sont installés dans des ouvrages de construction.</td><td></td><td>Un OET doit avoir une personnalité juridique. Il doit être indépendant des parties concernées et de tout intérêt particulier. L’OET doit en outre disposer d’un personnel possédant: a) l’objectivité requise et un solide jugement technique; b) une connaissance approfondie des dispositions réglementaires et des autres exigences en vigueur dans les domaines de produits pour lesquels l’organisme d’évaluation technique doit être désigné; c) une compréhension générale des pratiques de construction et une connaissance technique approfondie dans les domaines de produits pour lesquels l’organisme d’évaluation technique doit être désigné; d) une connaissance approfondie des risques particuliers et des aspects techniques du processus de construction; e) une connaissance approfondie des normes harmonisées désignées et des méthodes d’essai en vigueur dans les domaines de produits pour lesquels l’organisme d’évaluation technique doit être désigné; f) des connaissances linguistiques appropriées. La rémunération du personnel de l’OET ne dépend pas du nombre d’évaluations effectuées ni des résultats de celles-ci.</td></tr>
+<tr><td>2. Fixation de critères techniques</td><td>Traduire le résultat de l’analyse des risques dans des critères techniques permettant d’évaluer le comportement et les performances des produits de construction du point de vue du respect des exigences applicables. Fournir les informations techniques nécessaires aux personnes qui participent au processus de construction en tant qu’utilisateurs potentiels des produits de construction (fabricants, concepteurs, entrepreneurs, installateurs).</td><td></td><td></td></tr>
+<tr><td>3. Définition des méthodes d’évaluation</td><td>Concevoir et valider des méthodes appropriées (essais ou calculs) pour évaluer les performances correspondant aux caractéristiques essentielles des produits de construction, compte tenu de l’état de la technique.</td><td></td><td></td></tr>
+<tr><td>4. Détermination du contrôle spécifique de la production en usine</td><td>Comprendre et évaluer le procédé de fabrication du produit concerné pour déterminer des mesures appropriées garantissant la constance du produit tout au long de ce procédé.</td><td></td><td>Un OET dispose de personnel possédant une connaissance appropriée de la relation qui existe entre les procédés de fabrication et les caractéristiques du produit du point de vue du contrôle de la production en usine.</td></tr>
+<tr><td>5. Évaluation du produit</td><td>Évaluer les performances correspondant aux caractéristiques essentielles des produits de construction sur la base de méthodes harmonisées et en fonction de critères harmonisés.</td><td></td><td>Outre les exigences énoncées aux points 1, 2 et 3, un OET a accès aux moyens et équipements nécessaires à l’évaluation des performances des produits de construction correspondant aux caractéristiques essentielles, dans les domaines de produits pour lesquels il doit être désigné.</td></tr>
+<tr><td>6. Gestion générale</td><td>Assurer la cohérence, la fiabilité, l’objectivité et la traçabilité par l’application constante de méthodes de gestion appropriées.</td><td></td><td>Un OET a: a) une tradition attestée de bon comportement administratif; b) une politique, reposant sur des procédures, de respect de la confidentialité des informations sensibles au sein de l’OET et chez tous ses partenaires; c) un système de gestion documentaire garantissant l’enregistrement, la traçabilité, la conservation et l’archivage de tous les documents pertinents; d) un mécanisme d’audit interne et de contrôle de la gestion permettant le contrôle régulier du respect des méthodes de gestion appropriées; e) une procédure permettant de traiter objectivement les recours et les plaintes.</td></tr>
 </table>

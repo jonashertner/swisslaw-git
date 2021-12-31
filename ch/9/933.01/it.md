@@ -4,11 +4,11 @@ title: Ordinanza del 27 agosto 2014 sui prodotti da costruzione (OProdC)
 short: OProdC
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/496"
 language: it
-version: 2014-12-09
+version: 2022-01-01
 adopted: 2014-08-27
 in_force: 2014-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/496/20141209/it/xml/fedlex-data-admin-ch-eli-cc-2014-496-20141209-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/496/20141209/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/496/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2014-496-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/496/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/496/20141209/it"
 
 (OProdC)
 
-del 27 agosto 2014 (Stato 9 dicembre 2014)
+del 27 agosto 2014 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -737,9 +737,10 @@ Su richiesta di un’autorità competente di uno Stato membro dell’UE o dell�
 
 <sup>2</sup> Gli organi di esecuzione notificano all’UFCL e agli organi di vigilanza del mercato di cui all’articolo 37 capoverso 1 i prodotti che presentano o si presuppone presentino carenze in materia di sicurezza.
 
-<sup>3</sup> Gli organi di vigilanza del mercato possono chiedere all’Amministrazione federale delle dogane, per un periodo limitato, informazioni sull’importazione di prodotti designati con precisione.
+<sup>3</sup> Gli organi di vigilanza del mercato possono chiedere all’Ufficio federale della dogana e della sicurezza dei confini[^38-2], per un periodo limitato, informazioni sull’importazione di prodotti designati con precisione.
 
 [^38-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^38-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 39
 
@@ -851,7 +852,7 @@ Per i compiti di vigilanza del mercato svolti da autorità e organizzazioni priv
 
 L’ordinanza del 27 novembre 2000[^46-1] sui prodotti da costruzione è abrogata.
 
-[^46-1]: [[RU 2001 100](https://fedlex.data.admin.ch/eli/oc/2001/18), [2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)IV, **2010** 2631 all. n. 4]
+[^46-1]: [[RU 2001 100](https://fedlex.data.admin.ch/eli/oc/2001/18); [2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)IV; **2010** 2631 all. n. 4]
 
 #### Art. 47
 
@@ -1135,13 +1136,17 @@ Allegato 5
 <tr><td>13</td><td>Prodotti/elementi e accessori in legno per strutture</td></tr>
 <tr><td>14</td><td>Pannelli ed elementi a base di legno</td></tr>
 <tr><td>15</td><td>Cementi, calci e altri leganti idraulici</td></tr>
-<tr><td>16</td><td>Acciaio per calcestruzzo armato e precompresso (e accessori) sistemi per la post-tensione del calcestruzzo</td></tr>
-<tr><td>17</td><td>Muratura e prodotti connessi blocchi in muratura, malte e accessori</td></tr>
+<tr><td>16</td><td>Acciaio per calcestruzzo armato e precompresso (e accessori)</td></tr>
+<tr><td></td><td>Sistemi per la post-tensione del calcestruzzo</td></tr>
+<tr><td>17</td><td>Muratura e prodotti connessi</td></tr>
+<tr><td></td><td>Blocchi in muratura, malte e accessori</td></tr>
 <tr><td>18</td><td>Prodotti per reti fognarie</td></tr>
 <tr><td>19</td><td>Pavimentazioni</td></tr>
 <tr><td>20</td><td>Prodotti e accessori per strutture metalliche</td></tr>
-<tr><td>21</td><td>Finiture interne ed esterne di pareti e soffitti kit divisori interni</td></tr>
-<tr><td>22</td><td>Coperture, lucernari, finestre per tetti e accessori kit per coperture</td></tr>
+<tr><td>21</td><td>Finiture interne ed esterne di pareti e soffitti</td></tr>
+<tr><td></td><td>Kit divisori interni</td></tr>
+<tr><td>22</td><td>Coperture, lucernari, finestre per tetti e accessori</td></tr>
+<tr><td></td><td>Kit per coperture</td></tr>
 <tr><td>23</td><td>Prodotti per la costruzione di strade</td></tr>
 <tr><td>24</td><td>Aggregati</td></tr>
 <tr><td>25</td><td>Adesivi per costruzione</td></tr>
@@ -1154,7 +1159,8 @@ Allegato 5
 <tr><td>32</td><td>Mastici per giunti</td></tr>
 <tr><td>33</td><td>Fissaggi</td></tr>
 <tr><td>34</td><td>Kit per edifici, unità, elementi prefabbricati</td></tr>
-<tr><td>35</td><td>Dispositivi tagliafuoco, sigillanti e prodotti protettivi dal fuoco prodotti ignifughi</td></tr>
+<tr><td>35</td><td>Dispositivi tagliafuoco, sigillanti e prodotti protettivi dal fuoco</td></tr>
+<tr><td></td><td>Prodotti ignifughi</td></tr>
 <tr><td>36</td><td>Ulteriori/altri</td></tr>
 </table>
 
@@ -1165,11 +1171,11 @@ Allegato 6
 ## Requisiti degli organismi di valutazione tecnica
 
 <table>
-<tr><th>Competenza</th><th></th><th>Descrizione della competenza</th><th></th><th>Requisiti</th></tr>
-<tr><td>1. Analisi dei rischi</td><td></td><td>Individuare possibili rischi e benefici dell’uso di prodotti da costruzione innovativi in mancanza di informazioni tecniche confermate / consolidate riguardo alle loro prestazioni una volta installati nelle opere di costruzione.</td><td></td><td>Un organismo di valutazione tecnica ha personalità giuridica. Esso è indipendente dalle parti interessate e da ogni tipo di interesse particolare. Un organismo di valutazione tecnica dispone inoltre di personale con le seguenti caratteristiche: a) obiettività e solida capacità di giudizio tecnico; b) conoscenza approfondita della normativa vigente e degli altri requisiti in vigore nello Stato membro in cui è designato, riguardo alle aree di prodotto per le quali deve essere designato; c) comprensione generale della pratica costruttiva e conoscenza tecnica dettagliata nelle aree di prodotto per le quali deve essere designato; d) conoscenza approfondita degli aspetti tecnici del processo di costruzione e dei rischi specifici a esso connessi; e) conoscenza approfondita delle norme armonizzate designate e dei metodi di prova nelle aree di prodotto per le quali deve essere designato; f) adeguate competenze linguistiche. La retribuzione del personale dell’organismo di valutazione tecnica non dipende dal numero di valutazioni effettuate né dai risultanti di tali valutazioni.</td></tr>
-<tr><td>2. Determinazione dei criteri tecnici</td><td></td><td>Tradurre il risultato di analisi dei rischi in criteri tecnici per valutare il comportamento e la prestazione dei prodotti da costruzione rispetto al soddisfacimento delle normative applicabili; fornire l’informazione tecnica necessaria a coloro che partecipano al processo di costruzione come potenziali utilizzatori dei prodotti da costruzione (fabbricanti, progettisti, contraenti, installatori).</td><td></td><td></td></tr>
-<tr><td>3. Definizione dei metodi di valutazione</td><td></td><td>Concepire e convalidare metodi (prove o calcoli) atti a valutare la prestazione dei prodotti da costruzione in relazione alle caratteristiche essenziali, tenendo conto dell’attuale stato della tecnica.</td><td></td><td></td></tr>
-<tr><td>4. Determinazione del controllo specifico della produzione in fabbrica</td><td></td><td>Comprendere e valutare il processo di fabbricazione del prodotto specifico per individuare misure atte a garantire la costanza del prodotto durante il processo di fabbricazione.</td><td></td><td>Riguardo al controllo della produzione in fabbrica, un organismo di valutazione tecnica dispone di personale con adeguate conoscenze della relazione tra processi produttivi e caratteristiche del prodotto.</td></tr>
-<tr><td>5. Valutazione del prodotto</td><td></td><td>Riguardo alle caratteristiche essenziali dei prodotti da costruzione, valutarne le prestazioni in base a metodi e a criteri armonizzati.</td><td></td><td>Oltre ai requisiti di cui ai punti 1, 2 e 3, un organismo di valutazione tecnica dispone dei mezzi necessari e dell’attrezzatura per valutare le prestazioni in relazione alle caratteristiche essenziali dei prodotti da costruzione nell’ambito delle aree di prodotto per le quali deve essere designato.</td></tr>
-<tr><td>6. Gestione generale</td><td></td><td>Garantire coerenza, affidabilità, obiettività e tracciabilità applicando costantemente adeguati metodi gestionali.</td><td></td><td>Un organismo di valutazione tecnica: a) ha dato prova di rispettare i comportamenti amministrativi corretti; b) dispone di una politica e procedure di sostegno ai fini della riservatezza delle informazioni sensibili nell’ambito dell’organismo di valutazione tecnica e di tutti i suoi partner; c) dispone di un sistema di controllo dei documenti che garantisca registrazione, tracciabilità, manutenzione e archiviazione di tutti i documenti pertinenti; d) dispone di un meccanismo di audit interno e di analisi gestionale per il regolare controllo della conformità ad appropriati metodi di gestione; e) dispone di una procedura per trattare obiettivamente ricorsi e reclami.</td></tr>
+<tr><th>Competenza</th><th>Descrizione della competenza</th><th></th><th>Requisiti</th></tr>
+<tr><td>1. Analisi dei rischi</td><td>Individuare possibili rischi e benefici dell’uso di prodotti da costruzione innovativi in mancanza di informazioni tecniche confermate/consolidate riguardo alle loro prestazioni una volta installati nelle opere di costruzione.</td><td></td><td>Un organismo di valutazione tecnica ha personalità giuridica. Esso è indipendente dalle parti interessate e da ogni tipo di interesse particolare. Un organismo di valutazione tecnica dispone inoltre di personale con le seguenti caratteristiche: a) obiettività e solida capacità di giudizio tecnico; b) conoscenza approfondita della normativa vigente e degli altri requisiti in vigore nello Stato membro in cui è designato, riguardo alle aree di prodotto per le quali deve essere designato; c) comprensione generale della pratica costruttiva e conoscenza tecnica dettagliata nelle aree di prodotto per le quali deve essere designato; d) conoscenza approfondita degli aspetti tecnici del processo di costruzione e dei rischi specifici a esso connessi; e) conoscenza approfondita delle norme armonizzate designate e dei metodi di prova nelle aree di prodotto per le quali deve essere designato; f) adeguate competenze linguistiche. La retribuzione del personale dell’organismo di valutazione tecnica non dipende dal numero di valutazioni effettuate né dai risultanti di tali valutazioni.</td></tr>
+<tr><td>2. Determinazione dei criteri tecnici</td><td>Tradurre il risultato di analisi dei rischi in criteri tecnici per valutare il comportamento e la prestazione dei prodotti da costruzione rispetto al soddisfacimento delle normative applicabili; fornire l’informazione tecnica necessaria a coloro che partecipano al processo di costruzione come potenziali utilizzatori dei prodotti da costruzione (fabbricanti, progettisti, contraenti, installatori).</td><td></td><td></td></tr>
+<tr><td>3. Definizione dei metodi di valutazione</td><td>Concepire e convalidare metodi (prove o calcoli) atti a valutare la prestazione dei prodotti da costruzione in relazione alle caratteristiche essenziali, tenendo conto dell’attuale stato della tecnica.</td><td></td><td></td></tr>
+<tr><td>4. Determinazione del controllo specifico della produzione in fabbrica</td><td>Comprendere e valutare il processo di fabbricazione del prodotto specifico per individuare misure atte a garantire la costanza del prodotto durante il processo di fabbricazione.</td><td></td><td>Riguardo al controllo della produzione in fabbrica, un organismo di valutazione tecnica dispone di personale con adeguate conoscenze della relazione tra processi produttivi e caratteristiche del prodotto.</td></tr>
+<tr><td>5. Valutazione del prodotto</td><td>Riguardo alle caratteristiche essenziali dei prodotti da costruzione, valutarne le prestazioni in base a metodi e a criteri armonizzati.</td><td></td><td>Oltre ai requisiti di cui ai punti 1, 2 e 3, un organismo di valutazione tecnica dispone dei mezzi necessari e dell’attrezzatura per valutare le prestazioni in relazione alle caratteristiche essenziali dei prodotti da costruzione nell’ambito delle aree di prodotto per le quali deve essere designato.</td></tr>
+<tr><td>6. Gestione generale</td><td>Garantire coerenza, affidabilità, obiettività e tracciabilità applicando costantemente adeguati metodi gestionali.</td><td></td><td>Un organismo di valutazione tecnica: a) ha dato prova di rispettare i comportamenti amministrativi corretti; b) dispone di una politica e procedure di sostegno ai fini della riservatezza delle informazioni sensibili nell’ambito dell’organismo di valutazione tecnica e di tutti i suoi partner; c) dispone di un sistema di controllo dei documenti che garantisca registrazione, tracciabilità, manutenzione e archiviazione di tutti i documenti pertinenti; d) dispone di un meccanismo di audit interno e di analisi gestionale per il regolare controllo della conformità ad appropriati metodi di gestione; e) dispone di una procedura per trattare obiettivamente ricorsi e reclami.</td></tr>
 </table>

@@ -4,11 +4,11 @@ title: "Verordnung vom 27. August 2014 über Bauprodukte (Bauprodukteverordnung,
 short: BauPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/496"
 language: de
-version: 2014-12-09
+version: 2022-01-01
 adopted: 2014-08-27
 in_force: 2014-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/496/20141209/de/xml/fedlex-data-admin-ch-eli-cc-2014-496-20141209-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/496/20141209/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/496/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2014-496-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/496/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/496/20141209/de"
 
 (Bauprodukteverordnung, BauPV)
 
-vom 27. August 2014 (Stand am 9. Dezember 2014)
+vom 27. August 2014 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -167,7 +167,7 @@ Die Leistungserklärung enthält Folgendes:
 - b. eine Liste der wesentlichen Merkmale, die in diesen harmonisierten technischen Spezifikationen für die erklärten Verwendungszwecke festgelegt wurden;
 - c. die Leistung mindestens eines der wesentlichen Merkmale des Bauprodukts, die für die erklärten Verwendungszwecke relevant sind;
 - d. soweit zutreffend, die Leistung des Bauprodukts nach Stufen oder Klassen oder in einer Beschreibung und, falls erforderlich, aufgrund einer Berechnung in Bezug auf diejenigen wesentlichen Merkmale, die gemäss Artikel 2 Absatz 1 festgelegt worden sind; und
-- e. die Angabe der Buchstaben «NPD» (No Performance Determined/keine Leistung festgestellt) für die aufgelisteten wesentlichen Merkmale, für die keine Leistung erklärt wird.
+- e. die Angabe der Buchstaben «NPD» (No Performance Determined / keine Leistung festgestellt) für die aufgelisteten wesentlichen Merkmale, für die keine Leistung erklärt wird.
 
 <sup>3</sup> Überdies nennt die Leistungserklärung die Leistung derjenigen wesentlichen Merkmale des Bauprodukts, die sich auf die Verwendungszwecke beziehen, für die die Bestimmungen der zuständigen Organe des Bundes, der Kantone oder der Vertragspartner des MRA und des EFTA-Übereinkommens an dem Ort zu berücksichtigen sind, wo die Herstellerin eine Bereitstellung des Bauprodukts auf dem Markt beabsichtigt.
 
@@ -655,7 +655,7 @@ Das BBL stellt sicher, dass:
 
 ### (Art. 17 Abs. 7 BauPG)
 
-<sup>1</sup> Das Verfahren für die Benennung weiterer TBS richtet sich sinngemäss nach den Bezeichnungsvorschriften der Artikel 26-37 AkkBV[^33-1].
+<sup>1</sup> Das Verfahren für die Benennung weiterer TBS richtet sich sinngemäss nach den Bezeichnungsvorschriften der Artikel 26–37 AkkBV[^33-1].
 
 <sup>2</sup> Das BBL teilt dem SECO im Hinblick auf die Notifizierung den Namen und die Anschrift sowie die Produktebereiche mit, für welche die TBS benannt wurde.
 
@@ -739,9 +739,10 @@ Die Produktinformationsstelle für das Bauwesen stellt auf Anfrage einer zustän
 
 <sup>2</sup> Sie melden dem BBL und den Marktüberwachungsorganen nach Artikel 37 Absatz 1 jene Produkte, bei denen ein Mangel erkannt oder vermutet wird.
 
-<sup>3</sup> Die Marktüberwachungsorgane können von der Eidgenössischen Zollverwaltung für eine beschränkte Dauer Meldungen über die Einfuhr genau bezeichneter Produkte verlangen.
+<sup>3</sup> Die Marktüberwachungsorgane können vom Bundesamt für Zoll und Grenzsicherheit[^38-2] für eine beschränkte Dauer Meldungen über die Einfuhr genau bezeichneter Produkte verlangen.
 
 [^38-1]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^38-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 39
 
@@ -853,7 +854,7 @@ Mit Marktüberwachungsaufgaben betrauten Behörden und privaten Organisationen w
 
 Die Bauprodukteverordnung vom 27. November 2000[^46-1] wird aufgehoben.
 
-[^46-1]: [[AS 2001 100](https://fedlex.data.admin.ch/eli/oc/2001/18), [2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)Ziff. IV, [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Anhang Ziff. 4]
+[^46-1]: [[AS 2001 100](https://fedlex.data.admin.ch/eli/oc/2001/18); [2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)Ziff. IV; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Anhang Ziff. 4]
 
 #### Art. 47
 
@@ -1055,7 +1056,7 @@ Nr.
 - 8\. Angemessene Dokumentation für die Zwecke der Artikel 5–7:
 -
 
-Die Leistung des vorstehenden Produkts entspricht der erklärten Leistung/den erklärten Leistungen. Für die Erstellung der Leistungserklärung im Einklang mit den einschlägigen Rechtsvorschriften ist alleine die obengenannte Herstellerin verantwortlich.
+Die Leistung des vorstehenden Produkts entspricht der erklärten Leistung / den erklärten Leistungen. Für die Erstellung der Leistungserklärung im Einklang mit den einschlägigen Rechtsvorschriften ist alleine die obengenannte Herstellerin verantwortlich.
 
 Unterzeichnet für die Herstellerin und im Namen der Herstellerin von:
 
@@ -1083,7 +1084,7 @@ Eine Stelle, die einem Wirtschaftsverband oder einem Fachverband angehört und d
 
 \5. Eine bezeichnete Stelle muss gewährleisten, dass Tätigkeiten ihrer Geschäftsstellen oder Unterauftragnehmer die Vertraulichkeit, Objektivität und Unparteilichkeit ihrer Bewertungs- und/oder Überprüfungsarbeit nicht beeinträchtigen.
 
-\6. Eine bezeichnete Stelle und ihre Mitarbeitenden haben die Aufgaben eines unabhängigen Dritten zur Bewertung und Überprüfung der Leistungsbeständigkeit mit der grösstmöglichen professionellen Integrität und der erforderlichen fachlichen Kompetenz in dem betreffenden Bereich auszuführen; sie dürfen keinerlei Einflussnahme, insbesondere finanzieller Art, ausgesetzt sein, die sich auf ihre Beurteilung oder die Ergebnisse ihrer Bewertungs- und/ oder Überprüfungsarbeit auswirken könnte und speziell von Personen oder Personengruppen ausgeht, die ein Interesse am Ergebnis dieser Tätigkeiten haben.
+\6. Eine bezeichnete Stelle und ihre Mitarbeitenden haben die Aufgaben eines unabhängigen Dritten zur Bewertung und Überprüfung der Leistungsbeständigkeit mit der grösstmöglichen professionellen Integrität und der erforderlichen fachlichen Kompetenz in dem betreffenden Bereich auszuführen; sie dürfen keinerlei Einflussnahme, insbesondere finanzieller Art, ausgesetzt sein, die sich auf ihre Beurteilung oder die Ergebnisse ihrer Bewertungs- und/oder Überprüfungsarbeit auswirken könnte und speziell von Personen oder Personengruppen ausgeht, die ein Interesse am Ergebnis dieser Tätigkeiten haben.
 
 \7. Eine bezeichnete Stelle muss in der Lage sein, alle Aufgaben eines unabhängigen Dritten zur Bewertung und Überprüfung der Leistungsbeständigkeit auszuführen, die ihr gemäss Anhang 2 übertragen werden und für die sie bezeichnet wurde, gleichgültig, ob diese Aufgaben von der bezeichneten Stelle selbst, in ihrem Auftrag oder unter ihrer Verantwortung ausgeführt werden.
 
@@ -1173,11 +1174,11 @@ Anhang 6
 ## Anforderungen an die Technischen Bewertungsstellen (TBS)
 
 <table>
-<tr><th>Kompetenz</th><th></th><th>Beschreibung der Kompetenz</th><th></th><th>Anforderung</th></tr>
-<tr><td>1. Analyse der Risiken</td><td></td><td>Erkennen möglicher Risiken und Vorteile der Verwendung innovativer Bauprodukte bei Fehlen gesicherter/ konsolidierter technischer Informationen über ihre Leistung im Fall eines Einbaus in Bauwerke.</td><td></td><td>Eine TBS muss mit Rechtspersönlichkeit ausgestattet sein. Sie muss von Interessengruppen unabhängig und von Sonderinteressen frei sein. Zusätzlich müssen die Mitarbeitenden der TBS über Folgendes verfügen: a) Objektivität und soliden technischen Sachverstand; b) genaue Kenntnis der rechtlichen Bestimmungen und sonstigen Anforderungen, die für die Produktbereiche gelten, für die sie benannt werden soll; c) generelles Verständnis der Baupraxis und eingehende technische Sachkenntnis betreffend die Produktbereiche, für die die Stelle benannt werden soll; d) genaue Kenntnis der spezifischen Risiken und der technischen Aspekte des Bauprozesses; e) genaue Kenntnis der bezeichneten harmonisierten Normen und Prüfverfahren für die Produktbereiche, für die die Stelle benannt werden soll; f) geeignete Sprachkenntnisse. Die Vergütung des Personals der TBS darf sich nicht nach der Anzahl der durchgeführten Bewertungen oder deren Ergebnissen richten.</td></tr>
-<tr><td>2. Festlegung der technischen Kriterien</td><td></td><td>Umsetzung des Ergebnisses der Risikoanalyse in technische Kriterien für die Bewertung des Verhaltens und der Leistung von Bauprodukten in Bezug auf die Einhaltung der geltenden Vorschriften. Bereitstellen der technischen Informationen, die von den Beteiligten des Bauprozesses als potenzielle Verwendende von Bauprodukten (Herstellerin, Konstrukteure, Auftragnehmer, Installationsbetriebe) benötigt werden.</td><td></td><td></td></tr>
-<tr><td>3. Festlegung der Bewertungsverfahren</td><td></td><td>Entwicklung und Validierung geeigneter (Prüf- oder Berechnungs-) Verfahren zur Bewertung der Leistung in Bezug auf die wesentlichen Merkmale der Bauprodukte unter Berücksichtigung des Stands der Technik</td><td></td><td></td></tr>
-<tr><td>4. Bestimmung der spezifischen werkseigenen Produktionskontrolle</td><td></td><td>Verstehen und Evaluieren des Herstellungsprozesses eines konkreten Produkts zwecks Ermittlung geeigneter Massnahmen zur Gewährleistung der Produktbeständigkeit im Verlauf des betreffenden Herstellungsprozesses.</td><td></td><td>Mitarbeitende der TBS müssen über das entsprechende Wissen über den Zusammenhang zwischen Herstellungsprozessen und Produktmerkmalen in Bezug auf die werkseigene Produktionskontrolle verfügen.</td></tr>
-<tr><td>5. Bewertung des Produkts</td><td></td><td>Anhand harmonisierter Kriterien Bewertung der Leistung in Bezug auf die wesentlichen Merkmale von Bauprodukten auf der Grundlage harmonisierter Verfahren.</td><td></td><td>Neben den Anforderungen der Punkte 1, 2 und 3 muss eine TBS Zugang zur erforderlichen Infrastruktur für die Bewertung der Leistung in Bezug auf die wesentlichen Merkmale von Bauprodukten in den Produktbereichen verfügen, für die die Stelle benannt werden soll.</td></tr>
-<tr><td>6. Allgemeine Verwaltung</td><td></td><td>Gewährleistung von Einheitlichkeit, Zuverlässigkeit, Objektivität und Rückverfolgbarkeit durch die dauerhafte Anwendung zweckmässiger Verwaltungsverfahren</td><td></td><td>Die TBS muss Folgendes vorweisen beziehungsweise über Folgendes verfügen: a) nachweisliche Befolgung der guten Verwaltungspraxis; b) eine Strategie und einschlägige Verfahren für die Wahrung der Vertraulichkeit sensibler Informationen in der TBS und bei allen ihren Partnern; c) ein Dokumentenverwaltungssystem, das die Registrierung, Rückverfolgbarkeit, Pflege und Archivierung aller relevanten Dokumente sicherstellt; d) einen Mechanismus für interne Betriebsprüfung und Bewertung durch das Leitungspersonal zwecks regelmässiger Überwachung der Einhaltung zweckmässiger Verwaltungsverfahren; e) ein Verfahren für die objektive Bearbeitung von Beschwerden und Einsprüchen.</td></tr>
+<tr><th>Kompetenz</th><th>Beschreibung der Kompetenz</th><th></th><th>Anforderung</th></tr>
+<tr><td>1. Analyse der Risiken</td><td>Erkennen möglicher Risiken und Vorteile der Verwendung innovativer Bauprodukte bei Fehlen gesicherter/konsolidierter technischer Informationen über ihre Leistung im Fall eines Einbaus in Bauwerke.</td><td></td><td>Eine TBS muss mit Rechtspersönlichkeit ausgestattet sein. Sie muss von Interessengruppen unabhängig und von Sonderinteressen frei sein. Zusätzlich müssen die Mitarbeitenden der TBS über Folgendes verfügen: a) Objektivität und soliden technischen Sachverstand; b) genaue Kenntnis der rechtlichen Bestimmungen und sonstigen Anforderungen, die für die Produktbereiche gelten, für die sie benannt werden soll; c) generelles Verständnis der Baupraxis und eingehende technische Sachkenntnis betreffend die Produktbereiche, für die die Stelle benannt werden soll; d) genaue Kenntnis der spezifischen Risiken und der technischen Aspekte des Bauprozesses; e) genaue Kenntnis der bezeichneten harmonisierten Normen und Prüfverfahren für die Produktbereiche, für die die Stelle benannt werden soll; f) geeignete Sprachkenntnisse. Die Vergütung des Personals der TBS darf sich nicht nach der Anzahl der durchgeführten Bewertungen oder deren Ergebnissen richten.</td></tr>
+<tr><td>2. Festlegung der technischen Kriterien</td><td>Umsetzung des Ergebnisses der Risikoanalyse in technische Kriterien für die Bewertung des Verhaltens und der Leistung von Bauprodukten in Bezug auf die Einhaltung der geltenden Vorschriften. Bereitstellen der technischen Informationen, die von den Beteiligten des Bauprozesses als potenzielle Verwendende von Bauprodukten (Herstellerin, Konstrukteure, Auftragnehmer, Installationsbetriebe) benötigt werden.</td><td></td><td></td></tr>
+<tr><td>3. Festlegung der Bewertungsverfahren</td><td>Entwicklung und Validierung geeigneter (Prüf- oder Berechnungs-) Verfahren zur Bewertung der Leistung in Bezug auf die wesentlichen Merkmale der Bauprodukte unter Berücksichtigung des Stands der Technik</td><td></td><td></td></tr>
+<tr><td>4. Bestimmung der spezifischen werkseigenen Produktionskontrolle</td><td>Verstehen und Evaluieren des Herstellungsprozesses eines konkreten Produkts zwecks Ermittlung geeigneter Massnahmen zur Gewährleistung der Produktbeständigkeit im Verlauf des betreffenden Herstellungsprozesses.</td><td></td><td>Mitarbeitende der TBS müssen über das entsprechende Wissen über den Zusammenhang zwischen Herstellungsprozessen und Produktmerkmalen in Bezug auf die werkseigene Produktionskontrolle verfügen.</td></tr>
+<tr><td>5. Bewertung des Produkts</td><td>Anhand harmonisierter Kriterien Bewertung der Leistung in Bezug auf die wesentlichen Merkmale von Bauprodukten auf der Grundlage harmonisierter Verfahren.</td><td></td><td>Neben den Anforderungen der Punkte 1, 2 und 3 muss eine TBS Zugang zur erforderlichen Infrastruktur für die Bewertung der Leistung in Bezug auf die wesentlichen Merkmale von Bauprodukten in den Produktbereichen verfügen, für die die Stelle benannt werden soll.</td></tr>
+<tr><td>6. Allgemeine Verwaltung</td><td>Gewährleistung von Einheitlichkeit, Zuverlässigkeit, Objektivität und Rückverfolgbarkeit durch die dauerhafte Anwendung zweck mässiger Verwaltungsverfahren</td><td></td><td>Die TBS muss Folgendes vorweisen beziehungsweise über Folgendes verfügen: a) nachweisliche Befolgung der guten Verwaltungspraxis; b) eine Strategie und einschlägige Verfahren für die Wahrung der Vertraulichkeit sensibler Informationen in der TBS und bei allen ihren Partnern; c) ein Dokumentenverwaltungssystem, das die Registrierung, Rückverfolgbarkeit, Pflege und Archivierung aller relevanten Dokumente sicherstellt; d) einen Mechanismus für interne Betriebsprüfung und Bewertung durch das Leitungspersonal zwecks regelmässiger Überwachung der Einhaltung zweckmässiger Verwaltungsverfahren; e) ein Verfahren für die objektive Bearbeitung von Beschwerden und Einsprüchen.</td></tr>
 </table>
