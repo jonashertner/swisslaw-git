@@ -3,22 +3,22 @@ sr: "832.121.1"
 title: "Ordonnance de l'OFSP du 25 novembre 2015 sur l'établissement des comptes et la présentation des rapports dans le domaine de l'assurance-maladie sociale"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/841"
 language: fr
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/841/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-841-20170101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/841/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/841/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-841-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/841/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OFSP sur l’établissement des comptes et la présentation des rapports dans le domaine de l’assurance-maladie sociale
 
-du 25 novembre 2015 (Etat le 1<sup>er</sup> janvier 2017)
+du 25 novembre 2015 (État le 1<sup>er</sup> janvier 2022)
 
 L’Office fédéral de la santé publique (OFSP),
 
-vu les art. 49, al. 2, 50, al. 2, et 51, al. 1 et 2, de l’ordonnance du 18 novembre 2015 sur la surveillance de l’assurance-maladie sociale (OSAMal)[^ingress-1],
+vu les art. 49, al. 2, 50, al. 2, et 51, al. 1 et 2, de l’ordonnance du 18 novembre 2015 sur la surveillance de l’assurance‑maladie sociale (OSAMal)[^ingress-1],
 
 arrête:
 
@@ -26,12 +26,13 @@ arrête:
 
 #### Art. 1
 
-**Contenu du rapport de gestion**
+**Contenu du rapport de gestion**[^1-1]
 
-Le rapport de gestion doit contenir les états financiers individuels vérifiés, établis conformément aux dispositions de la Fondation pour les recommandations relatives à la présentation des comptes dans leur version du 10 décembre 2014[^1-1] (dispositions RPC); si le code des obligations[^1-2] le prévoit, il doit également contenir les états financiers consolidés vérifiés.
+Le rapport de gestion doit contenir les états financiers individuels vérifiés, établis conformément aux dispositions de la Fondation pour les recommandations relatives à la présentation des comptes dans leur version du 1<sup>er</sup> janvier 2020[^1-2] (dispositions RPC); si le code des obligations[^1-3] le prévoit, il doit également contenir les états financiers consolidés vérifiés.
 
-[^1-1]: Les recommandations peuvent être obtenues contre paiement auprès des Editions SKV, Hans-Huber-Strasse 4, 8002 Zurich (www.verlagskv.ch).
-[^1-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^1-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 29 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 667](https://fedlex.data.admin.ch/eli/oc/2021/667)).
+[^1-2]: Les recommandations peuvent être consultées gratuitement ou obtenues contre paiement auprès des Éditions SKV, Hans‑Huber-Strasse 4, 8002 Zurich; [www.verlagskv.ch](https://www.verlagskv.ch/).
+[^1-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 2
 
@@ -50,7 +51,7 @@ L’établissement des comptes annuels relevant du droit de la surveillance doit
 
 <sup>2</sup> Les différences entre les comptes annuels relevant du droit de la surveillance et les comptes annuels statutaires doivent être présentées dans un tableau de concordance.
 
-[^2-1]: Les recommandations peuvent être obtenues contre paiement auprès des Editions SKV, Hans-Huber-Strasse 4, 8002 Zurich (www.verlagskv.ch).
+[^2-1]: Les recommandations peuvent être obtenues contre paiement auprès des Editions SKV, Hans‑Huber-Strasse 4, 8002 Zurich ([www.verlagskv.ch](https://www.verlagskv.ch/)).
 
 #### Art. 3
 
@@ -64,12 +65,13 @@ Les comptes à utiliser dans le plan comptable sont fixés en annexe.
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2016.
 
-Annexe
+Annexe[^t-1]
 
 (art. 3)
 
-## Plan comptable****
+## Plan comptable
 
 [^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Ce plan comptable n’est pas publié au RO ([RO 2016 4649](https://fedlex.data.admin.ch/eli/oc/2016/751)). Commande: Office fédéral de la santé publique, Division Surveillance de l’assurance, 3003 Berne; téléchargement: www.ofsp.admin.ch &gt; Thèmes &gt; Assurances &gt; Assurance-maladie &gt; Assureurs et surveillance &gt; Reporting &gt; L’établissement des comptes et la présentation des rapports. La version du 1<sup>er</sup> janvier 2017 est applicable.
+[^t-1]: Nouvelle teneur selon le ch. II de l’O de l’OFSP du 29 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 667](https://fedlex.data.admin.ch/eli/oc/2021/667)).
+[^annexu1-lvlu1-1]: Le plan comptable n’est pas publié au RO. Il peut être obtenu auprès de l’Office fédéral de la santé publique, Division Surveillance de l’assurance, 3003 Berne ou consulté sur son site à l’adresse suivante: [www.ofsp.admin.ch](https://www.bag.admin.ch/bag/fr/home/versicherungen/krankenversicherung/krankenversicherung-versicherer-aufsicht/reporting/rechnungslegungundberichterstattung.html) &gt; Assurances &gt; Assurance-maladie &gt; Assureurs et surveillance &gt; Présentation des rapports &gt; Présentation des comptes et des rapports. La version du 1<sup>er</sup> janvier 2022 est applicable.
