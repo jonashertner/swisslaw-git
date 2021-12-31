@@ -4,11 +4,11 @@ title: Legge federale del 20 dicembre 2019 sulla protezione della popolazione e 
 short: LPPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/887"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2019-12-20
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-887-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-887-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20210101/it"
 
 (LPPC)
 
-del 20 dicembre 2019 (Stato 1° gennaio 2021)
+del 20 dicembre 2019 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1295,9 +1295,9 @@ Per organizzare i servizi d’istruzione, l’UFPP tratta i dati personali rigua
 
 <sup>4</sup> Dopo il proscioglimento dall’obbligo di prestare servizio di protezione civile, i dati di cui al capoverso 3 sono conservati per cinque anni e poi distrutti.
 
-<sup>5</sup> Per adempiere i loro compiti di controllo, l’UFPP e i Cantoni sono autorizzati a utilizzare sistematicamente il numero di assicurato di cui all’articolo 50*c* della legge federale del 20 dicembre 1946[^93-1] sull’assicurazione per la vecchiaia e per i superstiti delle persone di cui trattano i dati personali.
+<sup>5</sup> ...[^93-1]
 
-[^93-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^93-1]: Abrogato dall’all. n. 17 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 94
 

@@ -4,11 +4,11 @@ title: Loi fédérale du 20 décembre 2019 sur la protection de la population et
 short: LPPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/887"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2019-12-20
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-887-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-887-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20210101/fr"
 
 (LPPCi)
 
-du 20 décembre 2019 (Etat le 1<sup>er</sup> janvier 2021)
+du 20 décembre 2019 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1296,9 +1296,9 @@ Pour organiser les services de formation, l’OFPP traite les données personnel
 
 <sup>4</sup> Les données visées à l’al. 3 sont conservées durant cinq ans à compter de la libération de l’obligation de servir, puis détruites.
 
-<sup>5</sup> L’OFPP et les cantons sont autorisés à utiliser systématiquement le numéro d’assuré AVS au sens de l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^93-1] des personnes dont ils traitent des données pour exécuter les contrôles.
+<sup>5</sup> …[^93-1]
 
-[^93-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^93-1]: Abrogé par l’annexe ch. 17 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 94
 

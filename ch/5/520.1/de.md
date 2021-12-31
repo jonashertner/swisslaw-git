@@ -4,20 +4,20 @@ title: "Bundesgesetz vom 20. Dezember 2019 über den Bevölkerungsschutz und den
 short: BZG
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/887"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2019-12-20
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-887-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-887-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Bundesgesetzüber den Bevölkerungsschutz und den Zivilschutz
+# Bundesgesetz über den Bevölkerungsschutz und den Zivilschutz
 
 (Bevölkerungs- und Zivilschutzgesetz, BZG)
 
-vom 20. Dezember 2019 (Stand am 1. Januar 2021)
+vom 20. Dezember 2019 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1295,9 +1295,9 @@ Es bearbeitet die Personendaten der Kursteilnehmenden zur Durchführung der Ausb
 
 <sup>4</sup> Die Daten nach Absatz 3 werden nach der Entlassung aus der Schutzdienstpflicht während fünf Jahren aufbewahrt und dann vernichtet.
 
-<sup>5</sup> Das BABS und die Kantone sind berechtigt, zur Wahrnehmung ihrer Kontrollaufgaben die Versichertennummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^93-1] über die Alters- und Hinterlassenenversicherung der Personen, über die sie Daten bearbeiten, systematisch zu verwenden.
+<sup>5</sup> …[^93-1]
 
-[^93-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^93-1]: Aufgehoben durch Anhang Ziff. 17 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 94
 
@@ -1385,7 +1385,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)[4327](https://fedlex.data.admin.ch/eli/oc/2003/645), [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)Ziff. II Abs. 1 Bst. c, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 47, [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)Anhang Ziff. 3, [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)Anhang Ziff. 4, [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816), [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)Art. 23, [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24), [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)Anhang Ziff. 7, [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)Anhang Ziff. 7]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)konsultiert werden.

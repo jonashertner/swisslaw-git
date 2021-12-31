@@ -4,11 +4,11 @@ title: Lescha federala dals 20 da december 2019 davart la protecziun da la popul
 short: LPPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/887"
 language: rm
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2019-12-20
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-2020-887-20210101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20210101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-2020-887-20220101-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20220101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPPCi)
 
-dals 20 da december 2019 (versiun dal 1. da schaner 2021)
+dals 20 da december 2019 (versiun dal 1. da schaner 2022)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -1297,9 +1297,9 @@ Per organisar las instrucziuns elavura il UFPP las datas persunalas dals partici
 
 <sup>4</sup> Las datas tenor l’alinea 3 vegnan tegnidas en salv durant 5 onns suenter la relaschada da l’obligaziun da far servetsch da protecziun civila e vegnan lura destruidas.
 
-<sup>5</sup> Per ademplir lur incumbensas da controlla èn il UFPP ed ils chantuns autorisads da duvrar sistematicamain il numer d’assicuranza tenor l’artitgel 50*c* da la Lescha federala dals 20 da december 1946[^93-1] davart l’assicuranza per vegls e survivents da las persunas, da las qualas els elavuran datas.
+<sup>5</sup> …[^93-1]
 
-[^93-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^93-1]: Abolì tras la cifra 17 da l’agiunta da la LF dals 18 da dec. 2020 (Diever sistematic dal numer da la AVS tras las autoritads), cun effect dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 94
 
@@ -1389,5 +1389,5 @@ Ils decrets qua sutvart vegnan midads sco suonda:
 
 ...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)[4327](https://fedlex.data.admin.ch/eli/oc/2003/645), [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)cifra II al. 1 lit. c, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 47, [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)agiunta cifra 3, [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)agiunta cifra 4, [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816), [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23, [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24), [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)agiunta cifra 7, [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)agiunta cifra 7]
+[^annexu1-lvlu1-1]: [[AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)cifra II al. 1 lit. c; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)agiunta cifra 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)agiunta cifra 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)agiunta cifra 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)agiunta cifra 7]
 [^annexu1-lvlu1-2]: Las midadas pon vegnir consultadas en la [AS 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887).
