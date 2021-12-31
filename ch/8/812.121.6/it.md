@@ -4,11 +4,11 @@ title: "Ordinanza del 25 maggio 2011 sulla dipendenza da stupefacenti e sulle al
 short: ODStup
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/364"
 language: it
-version: 2020-09-28
+version: 2022-01-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/364/20200928/it/xml/fedlex-data-admin-ch-eli-cc-2011-364-20200928-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/364/20200928/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/364/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-364-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/364/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/364/20200928/it"
 
 (Ordinanza sulla dipendenza da stupefacenti, ODStup)
 
-del 25 maggio 2011 (Stato 28 settembre 2020)
+del 25 maggio 2011 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -208,21 +208,21 @@ Il medico responsabile stabilisce l’indicazione. In precedenza deve compiere u
 A un paziente considerato particolarmente a rischio a causa dell’epidemia di COVID-19 possono essere consegnate nell’istituzione o dispensate a casa dal medico competente o da una persona da esso incaricata fino a quattro dosi giornaliere, se sono adempite le seguenti condizioni:
 
 - a. il paziente ha seguito una cura basata sulla prescrizione di diacetilmorfina ininterrottamente per almeno sei mesi;
-- b. la salute e la situazione sociale del paziente sono sufficientemente stabilizzate;
+- b. la salute e la situazione sociale del paziente sono sufficientemente stabiliz­zate;
 - c. gli ultimi due prelievi di urina non hanno rilevato la presenza di stupefacenti eccetto la diacetilmorfina;
 - d. il pericolo di abuso è valutato come molto esiguo.[^13-2]
 
 <sup>4</sup> Ai pazienti che presentano fattori di rischio elevati quali la comorbilità, il medico curante può aumentare fino a sette il numero di dosi giornaliere consegnate o dispensate di cui al capoverso 3 e ridurre il periodo stabilito di cui al capoverso 3 lettera a.[^13-3]
 
-<sup>5</sup> In caso di consegna o dispensazione di cui ai capoversi 3 e 4, il medico competente o la persona da esso incaricata prende contatto almeno due volte alla settimana con il paziente per verificare se quest’ultimo assume le dosi conformemente alla prescrizione. In caso di dubbio rinuncia alle possibilità di cui ai capoversi 2–4.[^13-4]
+<sup>5</sup> In caso di consegna o dispensazione di cui ai capoversi 3 e 4, il medico competente o la persona da esso incaricata prende contatto almeno due volte alla settimana con il paziente per verificare se quest’ultimo assume le dosi conformemente alla prescrizione. In caso di dubbio rinuncia alle possibilità di cui ai capoversi 2–4. [^13-4]
 
 <sup>6</sup> Le istituzioni per le cure basate sulla prescrizione di diacetilmorfina presentano ogni trimestre all’UFSP un rapporto sulla consegna e sulla dispensazione di cui ai capoversi 3 e 4, la prima volta il 15 gennaio 2021.[^13-5]
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 25 set. 2020, in vigore dal 28 set. 2020 al 31 dic. 2021 ([RU 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709)).
-[^13-2]: Nuovo testo giusta il n. I dell’O del 25 set. 2020, in vigore dal 28 set. 2020 al 31 dic. 2021 ([RU 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709)).
-[^13-3]: Nuovo testo giusta il n. I dell’O del 25 set. 2020, in vigore dal 28 set. 2020 al 31 dic. 2021 ([RU 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709)).
-[^13-4]: Introdotto dal n. I dell’O del 25 set. 2020, in vigore dal 28 set. 2020 al 31 dic. 2021 ([RU 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709)).
-[^13-5]: Introdotto dal n. I dell’O del 25 set. 2020, in vigore dal 28 set. 2020 al 31 dic. 2021 ([RU 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709)).
+[^13-1]: Nuovo testo giusta il n. I dell’O del 25 set. 2020, in vigore dal 28 set. 2020 al 31 mar. 2023 ([RU 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
+[^13-2]: Nuovo testo giusta il n. I dell’O del 25 set. 2020, in vigore dal 28 set. 2020 al 31 mar. 2023 ([RU 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
+[^13-3]: Nuovo testo giusta il n. I dell’O del 25 set. 2020, in vigore dal 28 set. 2020 al 31 mar. 2023 ([RU 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
+[^13-4]: Introdotto dal n. I dell’O del 25 set. 2020, in vigore dal 28 set. 2020 al 31 mar. 2023 ([RU 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
+[^13-5]: Introdotto dal n. I dell’O del 25 set. 2020, in vigore dal 28 set. 2020 al 31 mar. 2023 ([RU 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
 
 #### Art. 14
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 25 mai 2011 relative à l'addiction aux stupéfiants et au
 short: OAStup
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/364"
 language: fr
-version: 2020-09-28
+version: 2022-01-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/364/20200928/fr/xml/fedlex-data-admin-ch-eli-cc-2011-364-20200928-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/364/20200928/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/364/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-364-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/364/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/364/20200928/fr"
 
 (Ordonnance relative à l’addiction aux stupéfiants, OAStup)
 
-du 25 mai 2011 (Etat le 28 septembre 2020)
+du 25 mai 2011 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -218,11 +218,11 @@ Un patient considéré comme particulièrement vulnérable en raison de l’épi
 
 <sup>6</sup> Les institutions chargées des traitements avec prescription de diacétylmorphine présentent chaque trimestre à l’OFSP un rapport sur les remises et les administrations visées aux al. 3 et 4, la première fois le 15 janvier 2021.[^13-5]
 
-[^13-1]: Nouvelle teneur selon le ch. I de l’O du 25 sept. 2020, en vigueur du 28 sept. 2020 au 31 déc. 2021 ([RO 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709)).
-[^13-2]: Nouvelle teneur selon le ch. I de l’O du 25 sept. 2020, en vigueur du 28 sept. 2020 au 31 déc. 2021 ([RO 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709)).
-[^13-3]: Nouvelle teneur selon le ch. I de l’O du 25 sept. 2020, en vigueur du 28 sept. 2020 au 31 déc. 2021 ([RO 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709)).
-[^13-4]: Introduit par le ch. I de l’O du 25 sept. 2020, en vigueur du 28 sept. 2020 au 31 déc. 2021 ([RO 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709)).
-[^13-5]: Introduit par le ch. I de l’O du 25 sept. 2020, en vigueur du 28 sept. 2020 au 31 déc. 2021 ([RO 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709)).
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 25 sept. 2020, en vigueur du 28 sept. 2020 au 31 mars 2023 ([RO 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du 25 sept. 2020, en vigueur du 28 sept. 2020 au 31 mars 2023 ([RO 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
+[^13-3]: Nouvelle teneur selon le ch. I de l’O du 25 sept. 2020, en vigueur du 28 sept. 2020 au 31 mars 2023 ([RO 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
+[^13-4]: Introduit par le ch. I de l’O du 25 sept. 2020, en vigueur du 28 sept. 2020 au 31 mars 2023 ([RO 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
+[^13-5]: Introduit par le ch. I de l’O du 25 sept. 2020, en vigueur du 28 sept. 2020 au 31 mars 2023 ([RO 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
 
 #### Art. 14
 

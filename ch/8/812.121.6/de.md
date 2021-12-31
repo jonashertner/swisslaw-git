@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Mai 2011 über Betäubungsmittelsucht und andere such
 short: BetmSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/364"
 language: de
-version: 2020-09-28
+version: 2022-01-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/364/20200928/de/xml/fedlex-data-admin-ch-eli-cc-2011-364-20200928-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/364/20200928/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/364/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-364-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/364/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/364/20200928/de"
 
 (Betäubungsmittelsuchtverordnung, BetmSV)
 
-vom 25. Mai 2011 (Stand am 28. September 2020)
+vom 25. Mai 2011 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -218,11 +218,11 @@ Einer Patientin oder einem Patienten, die oder der aufgrund der Covid-19-Epidemi
 
 <sup>6</sup> Die Institutionen für diacetylmorphingestützte Behandlungen erstatten dem BAG vierteljährlich Bericht über die Mit- und Abgabe nach den Absätzen 3 und 4, erstmals per 15. Januar 2021.[^13-5]
 
-[^13-1]: Fassung gemäss Ziff. I der V vom 25. Sept. 2020, in Kraft vom 28. Sept. 2020 bis zum 31. Dez. 2021 ([AS 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709)).
-[^13-2]: Fassung gemäss Ziff. I der V vom 25. Sept. 2020, in Kraft vom 28. Sept. 2020 bis zum 31. Dez. 2021 ([AS 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709)).
-[^13-3]: Fassung gemäss Ziff. I der V vom 25. Sept. 2020, in Kraft vom 28. Sept. 2020 bis zum 31. Dez. 2021 ([AS 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709)).
-[^13-4]: Eingefügt durch Ziff. I der V vom 25. Sept. 2020, in Kraft vom 28. Sept. 2020 bis zum 31. Dez. 2021 ([AS 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709)).
-[^13-5]: Eingefügt durch Ziff. I der V vom 25. Sept. 2020, in Kraft vom 28. Sept. 2020 bis zum 31. Dez. 2021 ([AS 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709)).
+[^13-1]: Fassung gemäss Ziff. I der V vom 25. Sept. 2020, in Kraft vom 28. Sept. 2020 bis zum 31. März 2023 ([AS 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
+[^13-2]: Fassung gemäss Ziff. I der V vom 25. Sept. 2020, in Kraft vom 28. Sept. 2020 bis zum 31. März 2023 ([AS 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
+[^13-3]: Fassung gemäss Ziff. I der V vom 25. Sept. 2020, in Kraft vom 28. Sept. 2020 bis zum 31. März 2023 ([AS 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
+[^13-4]: Eingefügt durch Ziff. I der V vom 25. Sept. 2020, in Kraft vom 28. Sept. 2020 bis zum 31. März 2023 ([AS 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
+[^13-5]: Eingefügt durch Ziff. I der V vom 25. Sept. 2020, in Kraft vom 28. Sept. 2020 bis zum 31. März 2023 ([AS 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
 
 #### Art. 14
 
@@ -589,7 +589,7 @@ Die folgenden Verordnungen werden aufgehoben:
 - 1\. die Verordnung vom 8. März 1999[^46-1] über die ärztliche Verschreibung von Heroin;
 - 2\. die Verordnung vom 23. Oktober 1978[^46-2] über Gebühren für das Betäubungsmittellaboratorium des Eidgenössischen Gesundheitsamtes.
 
-[^46-1]: [[AS 1999 1313](https://fedlex.data.admin.ch/eli/oc/1999/180), [2009 2641](https://fedlex.data.admin.ch/eli/oc/2009/353)]
+[^46-1]: [[AS 1999 1313](https://fedlex.data.admin.ch/eli/oc/1999/180); [2009 2641](https://fedlex.data.admin.ch/eli/oc/2009/353)]
 [^46-2]: [[AS 1978 1622](https://fedlex.data.admin.ch/eli/oc/1978/1622_1622_1622)]
 
 #### Art. 47
