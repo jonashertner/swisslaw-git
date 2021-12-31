@@ -3,13 +3,12 @@ canton: FR
 number: "942.11"
 title: Beschluss über die Preiskontrolle
 language: de
-version: 2011-01-01
-valid_until: 2021-12-31
-version_adopted: 2010-11-30
+version: 2022-01-01
+version_adopted: 2021-11-23
 adopted: 1996-09-23
 in_force: 1997-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/942.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6335/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6984/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6335/pdf_file"
 
 Preiskontrolle – B
 
-vom 23.09.1996 (Fassung in Kraft getreten am 01.01.2011)
+vom 23.09.1996 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -82,7 +81,7 @@ beschliesst:
 
 **Strafbestimmung**
 
-<sup>1</sup> Die in der Bundesgesetzgebung vorgesehenen Straftaten werden nach dem Justizgesetz verfolgt und beurteilt.
+<sup>1</sup> Die in der Bundesgesetzgebung vorgesehenen Straftaten werden nach dem Justizgesetz verfolgt und beurteilt. Die Ordnungsbussengesetzgebung bleibt vorbehalten.
 
 #### Art. 6
 

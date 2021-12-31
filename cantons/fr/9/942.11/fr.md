@@ -3,13 +3,12 @@ canton: FR
 number: "942.11"
 title: Arrêté sur le contrôle des prix
 language: fr
-version: 2011-01-01
-valid_until: 2021-12-31
-version_adopted: 2010-11-30
+version: 2022-01-01
+version_adopted: 2021-11-23
 adopted: 1996-09-23
 in_force: 1997-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/942.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6335/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6984/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6335/pdf_file"
 
 Contrôle des prix – A
 
-du 23.09.1996 (version entrée en vigueur le 01.01.2011)
+du 23.09.1996 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -82,7 +81,7 @@ Arrête:
 
 **Disposition pénale**
 
-<sup>1</sup> La poursuite et le jugement des infractions pénales prévues par la législation fédérale ont lieu conformément à la loi sur la justice.
+<sup>1</sup> La poursuite et le jugement des infractions pénales prévues par la législation fédérale ont lieu conformément à la loi sur la justice. La législation sur les amendes d'ordre demeure réservée.
 
 #### Art. 6
 
