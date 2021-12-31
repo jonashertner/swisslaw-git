@@ -4,11 +4,11 @@ title: "Ordonnance du 23 octobre 2013 sur les systèmes d'information dans le do
 short: OSIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/733"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/733/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-733-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/733/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-733-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20210101/fr"
 
 (OSIAgr)
 
-du 23 octobre 2013 (Etat le 1<sup>er</sup> janvier 2021)
+du 23 octobre 2013 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -115,12 +115,13 @@ Les données visées à l’art. 2 peuvent être transmises aux services suivant
 - a. Office fédéral de la statistique;
 - b. Office fédéral pour l’approvisionnement économique du pays;
 - c. Institut de virologie et d’immunologie;
-- d. Administration fédérale des douanes;
-- e.[^5-1] …
+- d. Office fédéral de la douane et de la sécurité des frontières[^5-1];
+- e.[^5-2] …
 - f. Institut suisse des produits thérapeutiques;
 - g. Service d’accréditation suisse.
 
-[^5-1]: Abrogée par l’annexe 2 ch. II 10 de l’O du 15 sept. 2017 sur l’alcool, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
+[^5-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5-2]: Abrogée par l’annexe 2 ch. II 10 de l’O du 15 sept. 2017 sur l’alcool, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
 
 #### Art. 5a
 

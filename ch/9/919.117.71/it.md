@@ -4,11 +4,11 @@ title: "Ordinanza del 23 ottobre 2013 sui sistemi d'informazione nel campo dell'
 short: OSIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/733"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/733/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2013-733-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/733/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2013-733-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20210101/it"
 
 (OSIAgr)
 
-del 23 ottobre 2013 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 23 ottobre 2013 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -115,10 +115,12 @@ I dati di cui all’articolo 2 possono essere comunicati ai servizi di seguito e
 - a. Ufficio federale di statistica;
 - b. Ufficio federale dell’approvvigionamento economico del Paese;
 - c. Istituto di virologia e immunologia;
-- d. Amministrazione federale delle dogane;
+- d. Ufficio federale della dogana e della sicurezza dei confini[^5-1];
 - e. Regia federale degli alcool;
 - f. Istituto svizzero per gli agenti terapeutici;
 - g. Servizio di accreditamento svizzero.
+
+[^5-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5a
 
@@ -475,7 +477,7 @@ Essi possono essere conservati al massimo per la durata sottoindicata:
 
 L’ordinanza del 7 dicembre 1998[^29-1] sui dati agricoli è abrogata.
 
-[^29-1]: [[RU 1999 540](https://fedlex.data.admin.ch/eli/oc/1999/70), [2000 1492](https://fedlex.data.admin.ch/eli/oc/2000/235), [2001 3554](https://fedlex.data.admin.ch/eli/oc/2001/531), [2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525)all. n. II 5 [4963](https://fedlex.data.admin.ch/eli/oc/2003/739), [2006 897](https://fedlex.data.admin.ch/eli/oc/2006/160), [2007 141](https://fedlex.data.admin.ch/eli/oc/2007/33)art. 12 [6443](https://fedlex.data.admin.ch/eli/oc/2007/844), **2****0****08** 3857, [2010 2551](https://fedlex.data.admin.ch/eli/oc/2010/346)[5885](https://fedlex.data.admin.ch/eli/oc/2010/843), **20**[1](https://fedlex.data.admin.ch/eli/oc/2010/1)**1** 5297 all. 2 n. 9 5453 all. 2 n. II 5, [2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)all. n. 3]
+[^29-1]: [[RU 1999 540](https://fedlex.data.admin.ch/eli/oc/1999/70); [2000 1492](https://fedlex.data.admin.ch/eli/oc/2000/235); [2001 3554](https://fedlex.data.admin.ch/eli/oc/2001/531); [2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525)all. n. II 5, [4963](https://fedlex.data.admin.ch/eli/oc/2003/739); [2006 897](https://fedlex.data.admin.ch/eli/oc/2006/160); [2007 141](https://fedlex.data.admin.ch/eli/oc/2007/33)art. 12, [6443](https://fedlex.data.admin.ch/eli/oc/2007/844), **2****0****08** 3857; [2010 2551](https://fedlex.data.admin.ch/eli/oc/2010/346), [5885](https://fedlex.data.admin.ch/eli/oc/2010/843); **20**[1](https://fedlex.data.admin.ch/eli/oc/2010/1)**1** 5297 all. 2 n. 9, 5453 all. 2 n. II 5; [2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)all. n. 3]
 
 #### Art. 30
 

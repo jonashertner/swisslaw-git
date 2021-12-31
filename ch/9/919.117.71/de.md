@@ -4,11 +4,11 @@ title: Verordnung vom 23. Oktober 2013 über Informationssysteme im Bereich der 
 short: ISLV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/733"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/733/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2013-733-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/733/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2013-733-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20210101/de"
 
 (ISLV)
 
-vom 23. Oktober 2013 (Stand am 1. Januar 2021)
+vom 23. Oktober 2013 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -115,12 +115,13 @@ Die Daten nach Artikel 2 können an folgende Stellen zur Erfüllung der ihnen ü
 - a. Bundesamt für Statistik;
 - b. Bundesamt für wirtschaftliche Landesversorgung;
 - c. Institut für Virologie und Immunologie;
-- d. Eidgenössische Zollverwaltung;
-- e.[^5-1] ...
+- d. Bundesamt für Zoll und Grenzsicherheit[^5-1];
+- e.[^5-2] …
 - f. Schweizerisches Heilmittelinstitut;
 - g. Schweizerische Akkreditierungsstelle.
 
-[^5-1]: Aufgehoben durch Anhang 2 Ziff. II 10 der Alkoholverordnung vom 15. Sept. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
+[^5-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5-2]: Aufgehoben durch Anhang 2 Ziff. II 10 der Alkoholverordnung vom 15. Sept. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
 
 #### Art. 5a
 
@@ -144,7 +145,7 @@ Das Informationssystem für Kontrolldaten (Acontrol) enthält folgende Daten:
 - c. Daten zur Anmeldung für Direktzahlungsarten nach Anhang 1 Ziffer 3.1;
 - d. Kontrollgrunddaten und Kontrollergebnisse nach Anhang 2 Ziffern 1 und 2;
 - e.[^6-1] Informationen zu Verwaltungsmassnahmen und Strafverfahren nach Anhang 2 Ziffer 3;
-- f.[^6-2] ...
+- f.[^6-2] …
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6157](https://fedlex.data.admin.ch/eli/oc/2017/682)).
 [^6-2]: Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6157](https://fedlex.data.admin.ch/eli/oc/2017/682)).
@@ -416,9 +417,9 @@ Das BLW erlässt in Absprache mit den involvierten Bundesämtern Weisungen über
 
 <sup>2</sup> Das BLW kann für Studien- und Forschungszwecke sowie für das Monitoring und die Evaluation nach Artikel 185 Absätze 1<sup>bis</sup> und 1<sup>ter</sup> LwG Daten gemäss den Artikeln 2, 6 Buchstaben a–d, 10 und 14 dieser Verordnung an inländische Hochschulen und ihre Forschungsanstalten weitergeben. An Dritte ist die Weitergabe möglich, wenn diese im Auftrag des BLW handeln.[^27-1]
 
-<sup>3</sup> ...[^27-2]
+<sup>3</sup> …[^27-2]
 
-<sup>4</sup> ...[^27-3]
+<sup>4</sup> …[^27-3]
 
 <sup>5</sup> Das BLW und das BLV können mit dem Einverständnis des Bewirtschafters oder der Bewirtschafterin Betriebs- und Strukturdaten nach Anhang 1 Ziffern 1 und 2, Kontrolldaten nach Anhang 2 Ziffern 2.1, 2.2 und 2.4 und Geodaten nach Anhang 3 für privatrechtliche Kontrollen zur Verfügung stellen.
 
@@ -473,7 +474,7 @@ Sie dürfen höchstens während folgender Dauer aufbewahrt werden:
 
 Die Landwirtschaftliche Datenverordnung vom 7. Dezember 1998[^29-1] wird aufgehoben.
 
-[^29-1]: [[AS 1999 540](https://fedlex.data.admin.ch/eli/oc/1999/70), [2000 1492](https://fedlex.data.admin.ch/eli/oc/2000/235), [2001 3554](https://fedlex.data.admin.ch/eli/oc/2001/531), [2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525)Anhang Ziff. II 5 [4963](https://fedlex.data.admin.ch/eli/oc/2003/739), [2006 897](https://fedlex.data.admin.ch/eli/oc/2006/160), [2007 141](https://fedlex.data.admin.ch/eli/oc/2007/33)Art. 12 [6443](https://fedlex.data.admin.ch/eli/oc/2007/844), **2****0****08** 3857, [2010 2551](https://fedlex.data.admin.ch/eli/oc/2010/346)[5885](https://fedlex.data.admin.ch/eli/oc/2010/843), **20**[1](https://fedlex.data.admin.ch/eli/oc/2010/1)**1** 5297 Anhang 2 Ziff. 9 5453 Anhang 2 Ziff. II 5, [2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)Anhang Ziff. 3]
+[^29-1]: [[AS 1999 540](https://fedlex.data.admin.ch/eli/oc/1999/70); [2000 1492](https://fedlex.data.admin.ch/eli/oc/2000/235); [2001 3554](https://fedlex.data.admin.ch/eli/oc/2001/531); [2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525)Anhang Ziff. II 5, [4963](https://fedlex.data.admin.ch/eli/oc/2003/739); [2006 897](https://fedlex.data.admin.ch/eli/oc/2006/160); [2007 141](https://fedlex.data.admin.ch/eli/oc/2007/33)Art. 12, [6443](https://fedlex.data.admin.ch/eli/oc/2007/844); **2****0****08** 3857; [2010 2551](https://fedlex.data.admin.ch/eli/oc/2010/346), [5885](https://fedlex.data.admin.ch/eli/oc/2010/843); **20**[1](https://fedlex.data.admin.ch/eli/oc/2010/1)**1** 5297 Anhang 2 Ziff. 9, 5453 Anhang 2 Ziff. II 5; [2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)Anhang Ziff. 3]
 
 #### Art. 30
 
@@ -481,7 +482,7 @@ Die Landwirtschaftliche Datenverordnung vom 7. Dezember 1998[^29-1] wird aufgeho
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^30-1]
+…[^30-1]
 
 [^30-1]: Die Änderungen können unter [AS 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)konsultiert werden.
 
@@ -642,7 +643,7 @@ Anhang 3*[^t-3]*
 - 2\.5 Biodiversitätsförderflächen Vernetzung (153.4)
 - 2\.6 Perimeter LN- und Sömmerungsflächen (153.5)
 - 2\.7 Bewirtschaftungseinheit (153.6)
-- 2\.8 ...
+- 2\.8 …
 - 2\.9 Elemente mit Landschaftsqualität (153.8)
 
 ### 3 Weitere Geodaten zur Unterstützung des Vollzugs des LwG
