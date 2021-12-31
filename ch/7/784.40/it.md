@@ -4,11 +4,11 @@ title: Legge federale del 24 marzo 2006 sulla radiotelevisione (LRTV)
 short: LRTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/150"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2006-03-24
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2007-150-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-150-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20210101/it"
 
 (LRTV)
 
-del 24 marzo 2006 (Stato 1° gennaio 2021)
+del 24 marzo 2006 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1189,7 +1189,7 @@ L’organo di riscossione acquisisce i dati relativi alle economie domestiche di
 
 <sup>5</sup>
 
-L’organo di riscossione può utilizzare sistematicamente il numero d’assicurato di cui all’articolo 50*c* della legge federale del 20 dicembre 1946[^69g-2] sull’assicurazione per la vecchiaia e per i superstiti (LAVS) per:
+L’organo di riscossione può utilizzare sistematicamente il numero AVS[^69g-2] di cui all’articolo 50*c* della legge federale del 20 dicembre 1946[^69g-3] sull’assicurazione per la vecchiaia e per i superstiti (LAVS) per:
 
 - a. adempiere i suoi compiti in relazione alla riscossione del canone;
 - b. ottenere precisazioni da Comuni e Cantoni riguardo ai dati forniti.
@@ -1197,7 +1197,8 @@ L’organo di riscossione può utilizzare sistematicamente il numero d’assicur
 <sup>6</sup> Il Consiglio federale determina quali dati l’organo di riscossione può acquisire conformemente al capoverso 1. Disciplina i dettagli concernenti il volume e la preparazione dei dati, la periodicità della loro fornitura, nonché i contributi ai Cantoni e ai Comuni di cui al capoverso 4.
 
 [^69g-1]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^69g-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^69g-2]: Nuova espr. giusta l’all. n. 16 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^69g-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ### Sezione 3: Canone per le imprese
 

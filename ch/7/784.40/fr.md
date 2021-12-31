@@ -4,11 +4,11 @@ title: Loi fédérale du 24 mars 2006 sur la radio et la télévision (LRTV)
 short: LRTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/150"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2006-03-24
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-150-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-150-20220101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20210101/fr"
 
 (LRTV)[^t-1]
 
-du 24 mars 2006 (Etat le 1<sup>er</sup> janvier 2021)
+du 24 mars 2006 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -890,7 +890,7 @@ Pour les fréquences ou les blocs de fréquences attribués à la diffusion de p
 <sup>4</sup> Les art. 11, 11*a* et 11*b* LTC[^56-1] sur la garantie de l’accès par les fournisseurs occupant une position dominante s’appliquent par analogie.[^56-2]
 
 [^56-1]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
-[^56-2]: voir art. 106 ch. 1, ci-après.
+[^56-2]: Voir art. 106 ch. 1, ci-après.
 
 #### Art. 57
 
@@ -1196,7 +1196,7 @@ L’organe de perception acquiert les données sur les ménages et leurs membres
 
 <sup>5</sup>
 
-L’organe de perception peut utiliser systématiquement les numéros d’assurés au sens de l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^69g-2]:
+L’organe de perception peut utiliser systématiquement le numéro AVS[^69g-2] au sens de l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^69g-3]:
 
 - a. pour remplir ses tâches en relation avec la perception de la redevance;
 - b. en cas de demandes de précision aux communes et aux cantons concernant les données fournies.
@@ -1204,7 +1204,8 @@ L’organe de perception peut utiliser systématiquement les numéros d’assur�
 <sup>6</sup> Le Conseil fédéral détermine quelles données l’organe de perception peut acquérir conformément à l’al. 1. Il réglemente les modalités concernant le volume et la préparation des données, la périodicité des livraisons ainsi que les contributions aux cantons et aux communes prévues à l’al. 4.
 
 [^69g-1]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^69g-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^69g-2]: Nouvelle expression selon l’annexe ch. 16 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^69g-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ### Section 3 Redevance des entreprises
 

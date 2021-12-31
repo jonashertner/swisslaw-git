@@ -4,11 +4,11 @@ title: Bundesgesetz vom 24. März 2006 über Radio und Fernsehen (RTVG)
 short: RTVG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/150"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2006-03-24
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2007-150-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-150-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20210101/de"
 
 (RTVG)
 
-vom 24. März 2006 (Stand am 1. Januar 2021)
+vom 24. März 2006 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1193,7 +1193,7 @@ Die Erhebungsstelle bezieht die zur Erhebung der Abgabe notwendigen Daten zu den
 
 <sup>5</sup>
 
-Die Erhebungsstelle kann die Versichertennummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^69g-2] über die Alters- und Hinterlassenenversicherung (AHVG) systematisch verwenden:
+Die Erhebungsstelle kann die AHV-Nummer[^69g-2] nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^69g-3] über die Alters- und Hinterlassenenversicherung (AHVG) systematisch verwenden:
 
 - a. zur Erfüllung ihrer Aufgaben in Zusammenhang mit der Erhebung der Abgabe;
 - b. bei Rückfragen an Gemeinden und Kantone zu gelieferten Daten.
@@ -1201,7 +1201,8 @@ Die Erhebungsstelle kann die Versichertennummer nach Artikel 50*c* des Bundesges
 <sup>6</sup> Der Bundesrat bestimmt, welche Daten die Erhebungsstelle nach Absatz 1 beziehen kann. Er regelt die Einzelheiten betreffend den Umfang und die Aufbereitung der Daten, die Periodizität der Datenlieferungen sowie die Beiträge an Kantone und Gemeinden nach Absatz 4.
 
 [^69g-1]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^69g-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^69g-2]: Ausdruck gemäss Anhang Ziff. 16 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^69g-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ### 3. Abschnitt: Unternehmensabgabe
 

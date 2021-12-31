@@ -4,11 +4,11 @@ title: Federal Act of 24 March 2006 on Radio and Television (RTVA)
 short: RTVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/150"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2006-03-24
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2007-150-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2007-150-20220101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (RTVA)
 
-of 24 March 2006 (Status as of 1 January 2021)
+of 24 March 2006 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -1196,7 +1196,7 @@ The collection agency shall obtain the data on households and their members requ
 
 <sup>5</sup>
 
-The collection agency may systematically use the insurance number in terms of Article 50*c* of the Federal Act of 20 December 1946[^69g-2] on Old-Age and Survivors’ Insurance (OASIA):
+The collection agency may systematically use the OASI number[^69g-2] in terms of Article 50*c* of the Federal Act of 20 December 1946[^69g-3] on Old-Age and Survivors’ Insurance (OASIA):
 
 - a. to fulfil its tasks in connection with collecting the fee;
 - b. in the case of queries to communes and cantons related to transmitted data.
@@ -1204,7 +1204,8 @@ The collection agency may systematically use the insurance number in terms of Ar
 <sup>6</sup> The Federal Council shall determine the data that the collection agency may obtain in accordance with paragraph 1. It shall regulate the details with regard to volume and format of the data, the regularity of data deliveries and the contributions to cantons and communes in accordance with paragraph 4.
 
 [^69g-1]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^69g-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^69g-2]: Term in accordance with Annex No 16 of the FA of 18 Dec. 2020 (Systematic Use of the OASI Number by Authorities), in force since 1 Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^69g-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ### Section 3 Corporate Fee
 

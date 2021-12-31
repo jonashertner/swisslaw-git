@@ -4,11 +4,11 @@ title: Lescha federala dals 24 da mars 2006 davart radio e televisiun (LRTV)
 short: LRTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/150"
 language: rm
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2006-03-24
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-2007-150-20210101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20210101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-2007-150-20220101-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20220101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LRTV)
 
-dals 24 da mars 2006 (versiun dal 1. da schaner 2021)
+dals 24 da mars 2006 (versiun dal 1. da schaner 2022)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -1195,7 +1195,7 @@ Las datas davart las chasadas e davart las persunas appartegnentas ch’èn nece
 
 <sup>5</sup>
 
-L’organ d’incassament po duvrar sistematicamain il numer d’assicuranza tenor l’artitgel 50*c* da la Lescha federala dals 20 da december 1946[^69g-2] davart l’assicuranza per vegls e survivents (LAVS):
+L’organ d’incassament po duvrar sistematicamain il numer da la AVS[^69g-2] tenor l’artitgel 50*c* da la Lescha federala dals 20 da december 1946[^69g-3] davart l’assicuranza per vegls e survivents (LAVS):
 
 - a. per ademplir sias incumbensas en connex cun l’incassament da la taxa;
 - b. per survegnir da las vischnancas e dals chantuns indicaziuns pli precisas davart las datas furnidas.
@@ -1203,7 +1203,8 @@ L’organ d’incassament po duvrar sistematicamain il numer d’assicuranza ten
 <sup>6</sup> Il Cussegl federal determinescha, tge datas che l’organ d’incassament po retrair tenor l’alinea 1. El regla ils detagls davart la dimensiun e l’elavuraziun da las datas, davart la periodicitad da las furniziuns da datas sco er davart las contribuziuns als chantuns ed a las vischnancas tenor l’alinea 4.
 
 [^69g-1]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^69g-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^69g-2]: Expressiun tenor la cifra 16 da l’agiunta da la LF dals 18 da dec. 2020 (diever sistematic dal numer da la AVS tras las autoritads), en vigur dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^69g-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ### 3. secziun Taxa d’interpresas
 
@@ -1858,7 +1859,7 @@ L’aboliziun e la midada dal dretg vertent vegnan regladas en l’agiunta.
 
 <sup>6</sup> Per las autras concessiuns che valan vinavant u ch’èn vegnidas prolungadas èn applitgablas tenor il senn las disposiziuns pertutgant concessiuns cun incarica da prestaziun tenor l’artitgel 22 sco er tenor ils artitgels 44–50.
 
-[^107-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)agiunta cifra 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)agiunta cifra 2, [2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 cifra 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
+[^107-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)agiunta cifra 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)agiunta cifra 2; [2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 cifra 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
 
 #### Art. 108
 
@@ -1866,7 +1867,7 @@ L’aboliziun e la midada dal dretg vertent vegnan regladas en l’agiunta.
 
 Il Cussegl federal po prolungar u – suenter avair tadlà la Cumissiun federala da communicaziun – midar las directivas per la planisaziun da rait d’emetturs tenor l’artitgel 8 alinea 1 LRTV 1991[^108-1] fin maximalmain 5 onns suenter l’entrada en vigur da questa lescha.
 
-[^108-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)agiunta cifra 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)agiunta cifra 2, [2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 cifra 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
+[^108-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)agiunta cifra 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)agiunta cifra 2; [2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 cifra 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
 
 #### Art. 109
 
@@ -1880,7 +1881,7 @@ Il Cussegl federal po prolungar u – suenter avair tadlà la Cumissiun federala
 
 <sup>4</sup> La regulaziun transitorica tenor l’alinea 1 finescha quel mument ch’i vegnan dadas las concessiuns cun dretg d’ina part da la taxa tenor ils artitgels 38–42, il pli tard dentant 5 onns suenter l’entrada en vigur da questa lescha.
 
-[^109-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)agiunta cifra 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)agiunta cifra 2, [2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 cifra 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
+[^109-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)agiunta cifra 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)agiunta cifra 2; [2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 cifra 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
 [^109-2]: [[AS 1997 2903](https://fedlex.data.admin.ch/eli/oc/1997/2903_2903_2903), [2004 4531](https://fedlex.data.admin.ch/eli/oc/2004/687), [2006 4395](https://fedlex.data.admin.ch/eli/oc/2006/666)]
 
 #### Art. 109a
@@ -1954,7 +1955,7 @@ Ils concessiunaris da lingias èn suttamess vinavant a:
 
 <sup>3</sup> Las obligaziuns d’in concessiunari da lingias tenor l’alinea 2 fineschan, uschespert che la diffusiun dals programs registrads là sur lingias (tenor ils art. 59 e 60) en la zona dal concessiunari è sclerida cun vigur legala, il pli tard dentant suenter 5 onns.
 
-[^110-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)agiunta cifra 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)agiunta cifra 2, [2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 cifra 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
+[^110-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)agiunta cifra 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)agiunta cifra 2; [2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 cifra 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
 [^110-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
 
 #### Art. 111
@@ -1963,7 +1964,7 @@ Ils concessiunaris da lingias èn suttamess vinavant a:
 
 Las concessiuns existentas per la diffusiun senza fil da programs da radio e televisiun tenor l’artitgel 43 LRTV 1991[^111-1] (concessiuns da rediffusiun) restan valaivlas fin che lur possessur survegn ina concessiun da radiocommunicaziun e da servetschs da telecommunicaziun tenor ils artitgels 4 ss. respectivamain tenor ils artitgels 22 ss. LTC[^111-2], il pli ditg dentant fin 2 onns suenter l’entrada en vigur da la lescha.
 
-[^111-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)agiunta cifra 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)agiunta cifra 2, [2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 cifra 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
+[^111-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)agiunta cifra 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)agiunta cifra 2; [2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 cifra 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
 [^111-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
 
 #### Art. 112
@@ -1980,7 +1981,7 @@ La SSR sto realisar la structura organisatorica (art. 31–33) per il mument da 
 
 <sup>2</sup> Sche fatgs tenor il dretg da surveglianza èn capitads avant l’entrada en vigur da questa lescha e sch’ina procedura è pendenta, è applitgabla la LRTV 1991. Sche fatgs duran suenter l’entrada en vigur e sch’ina procedura è pendenta, vegnan giuditgadas quellas cuntravenziuns ch’èn capitadas avant l’entrada en vigur da questa lescha tenor la LRTV 1991. Resalvada resta l’applicaziun da l’artitgel 2 alinea 2 dal Cudesch penal[^113-2].
 
-[^113-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)agiunta cifra 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)agiunta cifra 2, [2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 cifra 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
+[^113-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)agiunta cifra 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)agiunta cifra 2; [2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 cifra 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
 [^113-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 114
@@ -2011,5 +2012,5 @@ Las leschas federalas qua sutvart vegnan midadas sco suonda:
 
 ...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)agiunta cifra 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)agiunta cifra 2, [2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 cifra 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
+[^annexu1-lvlu1-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)agiunta cifra 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)agiunta cifra 2; [2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 cifra 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
 [^annexu1-lvlu1-2]: Las midadas pon vegnir consultadas en la [AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150).
