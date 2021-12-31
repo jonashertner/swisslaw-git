@@ -4,11 +4,11 @@ title: "Ordinanza del 10 gennaio 2001 sulla messa in commercio di concimi (Ordin
 short: OCon
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/105"
 language: it
-version: 2019-01-01
+version: 2022-01-01
 adopted: 2001-01-10
 in_force: 2001-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/105/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2001-105-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/105/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/105/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2001-105-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/105/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/105/20190101/it"
 
 (Ordinanza sui concimi, OCon)
 
-del 10 gennaio 2001 (Stato 1° gennaio 2019)
+del 10 gennaio 2001 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -56,7 +56,7 @@ L’ordinanza non si applica:
 [^1-3]: Introdotta dal n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681)).
 [^1-4]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 [^1-5]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
-[^1-6]: Nuovo testo giusta il n. 7 dell’all. 6 all’O del 5 giu. 2015 sui prodotti chimici, in vigore dal 1° lug. 2015 ([RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
+[^1-6]: Nuovo testo giusta l’all. 6 n. 7 dell’O del 5 giu. 2015 sui prodotti chimici, in vigore dal 1° lug. 2015 ([RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
 
 #### Art. 2
 
@@ -91,7 +91,7 @@ Un concime può essere omologato unicamente se:
 [^3-1]: Introdotta dal n. II 18 dell’O del 18 mag. 2005, in vigore dal 1° ago. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
 [^3-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 [^3-3]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
-[^3-4]: Introdotto dal n. 8 dell’all. all’O di Nagoya dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
+[^3-4]: Introdotto dall’all. n. 8 dell’O di Nagoya dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
 
 #### Art. 4
 
@@ -207,7 +207,7 @@ Nella presente ordinanza si intende per:
 - g. *imballaggio:* un involucro che può essere chiuso ermeticamente, utilizzato per contenere, proteggere, maneggiare e commercializzare concimi;
 - h. *fornitura sfusa:* fornitura di concimi senza imballaggio.[^5-12]
 
-[^5-1]: Nuovo testo giusta il n. 3 dell’all. all’O del 9 giu. 1986, in vigore dal 1° mag. 2003 ([RU 2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)).
+[^5-1]: Nuovo testo giusta l’all. n. 3 dell’O del 9 giu. 1986, in vigore dal 1° mag. 2003 ([RU 2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)).
 [^5-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724)).
 [^5-3]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 [^5-4]: Nuova espr. giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724)). Di detta mod. è tenuto conto in tutto il presente testo.
@@ -257,7 +257,7 @@ I concimi delle seguenti categorie possono essere messi in commercio se corrispo
 
 <sup>5</sup> L’UFAG può temporaneamente stabilire esigenze supplementari per un concime iscritto nella lista dei concimi o revocare l’omologazione per la sua messa in commercio, se nuove scoperte mostrano che, nonostante un’utilizzazione conforme alle prescrizioni, tale concime produce effetti secondari inaccettabili o costituisce un pericolo per l’ambiente o, indirettamente, per l’uomo, ovvero che non è garantito che a partire dai prodotti di base trattati con tale concime sono ottenuti derrate alimentari e oggetti d’uso che soddisfano le esigenze della legislazione sulle derrate alimentari.
 
-[^7-1]: Nuovo testo giusta il n. 3 dell’all. all’O del 9 giu. 1986, in vigore dal 1° mag. 2003 ([RU 2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)).
+[^7-1]: Nuovo testo giusta l’all. n. 3 dell’O del 9 giu. 1986, in vigore dal 1° mag. 2003 ([RU 2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)).
 [^7-2]: Introdotta dal n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 
 #### Art. 8
@@ -290,7 +290,7 @@ Un tipo di concime è iscritto nella lista dei concimi se:
 <sup>4</sup> Le disposizioni del presente articolo non pregiudicano l’applicazione delle norme del diritto della concorrenza e del diritto della proprietà immateriale.
 
 [^8-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724)).
-[^8-2]: Introdotta dal n. II 3 dell’all. 8 all’O del 25 mag. 2011 concernente l’eliminazione dei sottoprodotti di origine animale ([RU 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)). Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724)).
+[^8-2]: Introdotta dall’all. 8 n. II 3 dell’O del 25 mag. 2011 concernente l’eliminazione dei sottoprodotti di origine animale ([RU 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)). Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724)).
 
 #### Art. 9
 
@@ -359,7 +359,7 @@ L’UFAG può in ogni momento vincolare l’autorizzazione a condizioni e oneri 
 
 [^11-1]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 [^11-2]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^11-3]: Nuovo testo giusta il n. 12 dell’all. 5 all’O del 10 set. 2008 sull’emissione deliberata nell’ambiente, in vigore dal 1° ott. 2008 ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
+[^11-3]: Nuovo testo l’all. 5 n. 12 dell’O del 10 set. 2008 sull’emissione deliberata nell’ambiente, in vigore dal 1° ott. 2008 ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
 [^11-4]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 [^11-5]: Introdotto dal n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 
@@ -379,7 +379,7 @@ L’UFAG può concedere, prima della fine della procedura di autorizzazione e pe
 
 [^12-1]: Introdotta dal n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681)).
 [^12-2]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^12-3]: Nuovo testo giusta il n. 12 dell’all. 5 all’O del 10 set. 2008 sull’emissione deliberata nell’ambiente, in vigore dal 1° ott. 2008 ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
+[^12-3]: Nuovo testo giusta l’all. 5 n. 12 dell’O del 10 set. 2008 sull’emissione deliberata nell’ambiente, in vigore dal 1° ott. 2008 ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
 
 #### Art. 13
 
@@ -418,9 +418,9 @@ Sempreché non sia richiesto altrimenti, la documentazione relativa alla domanda
 - b. indicazioni complete sulle possibilità e le modalità di utilizzazione del tipo di concime;
 - c. indicazioni precise e complete sulle materie prime, la composizione e le proprietà del tipo di concime e sulla sua idoneità all’utilizzazione prevista;
 - d. la prova che il tipo di concime, se utilizzato nel modo previsto, non produce effetti secondari inaccettabili e non costituisce un pericolo per l’ambiente né, indirettamente, per l’uomo;
-- e.[^15-1] la classificazione e l’etichettatura del concime secondo gli articoli 6, 7 e 10–15 OPChim[^15-2].
+- e.[^15-1] la classificazione e l’etichettatura del concime secondo gli articoli 6, 7 e 10–15*a* OPChim[^15-2].
 
-[^15-1]: Introdotta dal n. II 18 dell’O del 18 mag. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)). Nuovo testo giusta il n. 7 dell’all. 6 all’O del 5 giu. 2015 sui prodotti chimici, in vigore dal 1° lug. 2015 ([RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
+[^15-1]: Introdotta dal n. II 18 dell’O del 18 mag. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)). Nuovo testo giusta l’all. n. 4 dell’O del 18 nov. 2020, in vigore dal 1° gen. 2022 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^15-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 16
@@ -438,7 +438,7 @@ Sempreché non sia richiesto altrimenti, la documentazione relativa alla domanda
 - e. indicazioni complete sulle possibilità e le modalità di utilizzazione del tipo di concime;
 - f. indicazioni precise e complete sulle materie prime, la composizione e le proprietà del tipo di concime e sulla sua idoneità all’utilizzazione prevista;
 - g. la prova che il tipo di concime, se utilizzato nel modo previsto, non produce effetti secondari inaccettabili e non costituisce un pericolo per l’ambiente né, indirettamente, per l’uomo;
-- h.[^16-1] la classificazione e l’etichettatura del concime secondo gli articoli 6,7 e 10–15 OPChim[^16-2].
+- h.[^16-1] la classificazione e l’etichettatura del concime secondo gli articoli 6, 7 e 10–15*a* OPChim[^16-2].
 
 <sup>2</sup> Trattandosi di additivi per concimi, agenti compostanti, ammendanti del suolo nonché altri prodotti di origine vegetale, animale, microbica o minerale, non è necessario fornire una documentazione che provi l’idoneità del prodotto all’utilizzazione prevista. L’autorità incaricata dell’omologazione è autorizzata a informare l’opinione pubblica del fatto che tale idoneità non è stata esaminata nell’ambito della procedura di autorizzazione.[^16-3]
 
@@ -452,11 +452,11 @@ Sempreché non sia richiesto altrimenti, la documentazione relativa alla domanda
 
 <sup>7</sup> Se la domanda non soddisfa le esigenze, l’UFAG assegna al richiedente un termine per completarla. Se le informazioni richieste non sono fornite entro tale termine, non si entra nel merito della domanda.
 
-[^16-1]: Introdotta dal n. II 18 dell’O del 18 mag. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)). Nuovo testo giusta il n. 7 dell’all. 6 all’O del 5 giu. 2015 sui prodotti chimici, in vigore dal 1° lug. 2015 ([RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
+[^16-1]: Introdotta dal n. II 18 dell’O del 18 mag. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)). Nuovo testo giusta l’all. n. 4 dell’O del 18 nov. 2020, in vigore dal 1° gen. 2022 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^16-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 [^16-3]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 [^16-4]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^16-5]: Nuovo testo giusta il n. 12 dell’all. 5 all’O del 10 set. 2008 sull’emissione deliberata nell’ambiente, in vigore dal 1° ott. 2008 ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
+[^16-5]: Nuovo testo giusta l’all. 5 n. 12 dell’O del 10 set. 2008 sull’emissione deliberata nell’ambiente, in vigore dal 1° ott. 2008 ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
 
 #### Art. 17
 
@@ -480,9 +480,9 @@ L’UFAG non esegue tali esperimenti e rilevazioni e si pronuncia in merito alla
 <sup>3</sup> Trattandosi di concimi composti da organismi geneticamente modificati o patogeni o che contengono questo tipo di organismi, l’UFAG effettua gli esperimenti in pieno campo eventualmente necessari per la concessione dell’autorizzazione unicamente se sono soddisfatti i requisiti dell’ordinanza del 10 settembre 2008[^18-3] sull’emissione deliberata nell’ambiente.[^18-4]
 
 [^18-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^18-2]: Nuovo testo giusta il n. 7 dell’all. 6 all’O del 5 giu. 2015 sui prodotti chimici, in vigore dal 1° lug. 2015 ([RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
+[^18-2]: Nuovo testo giusta l’all. 6 n. 7 dell’O del 5 giu. 2015 sui prodotti chimici, in vigore dal 1° lug. 2015 ([RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
 [^18-3]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^18-4]: Nuovo testo giusta il n. 12 dell’all. 5 all’O del 10 set. 2008 sull’emissione deliberata nell’ambiente, in vigore dal 1° ott. 2008 ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
+[^18-4]: Nuovo testo giusta l’all. 5 n. 12 dell’O del 10 set. 2008 sull’emissione deliberata nell’ambiente, in vigore dal 1° ott. 2008 ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
 
 ## Capitolo 3: Notifica
 
@@ -513,11 +513,11 @@ La notifica comprende le seguenti indicazioni:
 - d. le materie prime e la composizione;
 - e. le istruzioni per l’uso;
 - f. l’utilizzazione prevista;
-- g.[^20-3] la classificazione e l’etichettatura del concime secondo gli articoli 6, 7 e 10–15 OPChim[^20-4].
+- g.[^20-3] la classificazione e l’etichettatura del concime secondo gli articoli 6, 7 e 10–15*a* OPChim[^20-4].
 
 [^20-1]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 [^20-2]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
-[^20-3]: Introdotta dal n. II 18 dell’O del 18 mag. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)). Nuovo testo giusta il n. 7 dell’all. 6 all’O del 5 giu. 2015 sui prodotti chimici, in vigore dal 1° lug. 2015 ([RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
+[^20-3]: Introdotta dal n. II 18 dell’O del 18 mag. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)). Nuovo testo giusta l’all. n. 4 dell’O del 18 nov. 2020, in vigore dal 1° gen. 2022 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^20-4]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 21
@@ -563,7 +563,7 @@ La notifica comprende le seguenti indicazioni:
 
 <sup>3</sup> Oltre ad adempiere ai requisiti posti dalla presente ordinanza, le aziende autorizzate devono ottemperare alle disposizioni pertinenti dell’ordinanza del 25 maggio 2011[^21b-2] concernente l’eliminazione dei sottoprodotti di origine animale.
 
-[^21b-1]: Introdotto dal n. II 3 dell’all. 8 all’O del 25 mag. 2011 concernente l’eliminazione dei sottoprodotti di origine animale, in vigore dal 1° lug. 2011 ([RU 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)).
+[^21b-1]: Introdotto dall’all. 8 n. II 3 dell’O del 25 mag. 2011 concernente l’eliminazione dei sottoprodotti di origine animale, in vigore dal 1° lug. 2011 ([RU 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)).
 [^21b-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
 ## Capitolo 4: Importazione
@@ -623,10 +623,10 @@ Il nome e l’indirizzo della ditta responsabile per la messa in commercio o l�
 <sup>6</sup> Il DEFR disciplina le indicazioni supplementari specifiche per i singoli tipi di concime.
 
 [^23-1]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
-[^23-2]: Nuovo testo giusta il n. 7 dell’all. 6 all’O del 5 giu. 2015 sui prodotti chimici, in vigore dal 1° lug. 2015 ([RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
-[^23-3]: Nuovo testo giusta il n. 7 dell’all. 6 all’O del 5 giu. 2015 sui prodotti chimici, in vigore dal 1° lug. 2015 ([RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
+[^23-2]: Nuovo testo giusta l’all. 6 n. 7 dell’O del 5 giu. 2015 sui prodotti chimici, in vigore dal 1° lug. 2015 ([RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
+[^23-3]: Nuovo testo giusta l’all. 6 n. 7 dell’O del 5 giu. 2015 sui prodotti chimici, in vigore dal 1° lug. 2015 ([RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
 [^23-4]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^23-5]: Introdotto n. 3 dell’all. all’O del 19 mag. 2010 sull’immissione in commercio di prodotti conformi a prescrizioni tecniche estere, in vigore dal 1° lug. 2010 ([RU 2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)).
+[^23-5]: Introdotto dall’all. n. 3 dell’O del 19 mag. 2010 sull’immissione in commercio di prodotti conformi a prescrizioni tecniche estere, in vigore dal 1° lug. 2010 ([RU 2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)).
 [^23-6]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724)).
 
 #### Art. 24
@@ -724,7 +724,7 @@ Le istruzioni per l’uso non possono contenere indicazioni o avvertenze che:
 <sup>2</sup> Per i concimi che contengono, in quantità inferiore allo 0,1 per cento della massa, tracce involontarie di organismi geneticamente modificati autorizzati, l’UFAG, d’intesa con gli altri uffici coinvolti nella procedura di omologazione, può stabilire in casi particolari deroghe all’obbligo di etichettatura.[^25-2]
 
 [^25-1]: Nuovo testo giusta il n. I 7 dell’O del 19 nov. 2003 concernente la modifica di ordinanze in relazione con la legge sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)).
-[^25-2]: Nuovo testo giusta il n. 12 dell’all. 5 all’O del 10 set. 2008 sull’emissione deliberata nell’ambiente, in vigore dal 1° ott. 2008 ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
+[^25-2]: Nuovo testo giusta l’all. 5 n. 12 dell’O del 10 set. 2008 sull’emissione deliberata nell’ambiente, in vigore dal 1° ott. 2008 ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
 
 #### Art. 26
 
@@ -790,7 +790,7 @@ Ditte e persone che producono e/o mettono in commercio concimi sono tenute a for
 [^30-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^30-2]: Nuovo testo giusta il n. II 18 dell’O del 18 mag. 2005, in vigore dal 1° ago. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
 [^30-3]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^30-4]: Nuovo testo giusta il n. 12 dell’all. 5 all’O del 10 set. 2008 sull’emissione deliberata nell’ambiente, in vigore dal 1° ott. 2008 ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
+[^30-4]: Nuovo testo giusta l’all. 5 n. 12 dell’O del 10 set. 2008 sull’emissione deliberata nell’ambiente, in vigore dal 1° ott. 2008 ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
 [^30-5]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 [^30-6]: Introdotto dal n. II 18 dell’O del 18 mag. 2005, in vigore dal 1° ago. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
 
@@ -872,6 +872,19 @@ La modifica del diritto vigente è disciplinata nell’allegato.
 
 [^35-1]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 
+#### Art. 35a
+
+**Disposizione transitoria della modifica del 18 novembre 2020**[^35a-1]
+
+L’identificatore unico di formula (UFI) secondo l’articolo 15*a* OPChim[^35a-2] deve essere comunicato all’UFAG nella domanda di cui all’articolo 15, nella domanda di cui all’articolo 16 e nella notifica per l’immissione in commercio di cui all’articolo 20 entro i seguenti termini:
+
+- a. fino al 31 marzo 2022 per i concimi che disponevano di un UFI al 1° gennaio 2022;
+- b. fino al 31 dicembre 2025 per i concimi destinati a utilizzatori professionali e che non disponevano di un UFI al 1° gennaio 2022;
+- c. fino al 31 dicembre 2025 per i concimi destinati a utilizzatori privati e immessi sul mercato prima del 1° gennaio 2022 e che non disponevano di un UFI.
+
+[^35a-1]: Introdotto dall’all. n. 4 dell’O del 18 nov. 2020, in vigore dal 1° gen. 2022 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^35a-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+
 #### Art. 36
 
 **Entrata in vigore**
@@ -884,6 +897,6 @@ Allegato
 
 ## Diritto vigente: modifica
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105).

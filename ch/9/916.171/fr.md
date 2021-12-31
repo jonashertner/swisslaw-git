@@ -4,11 +4,11 @@ title: "Ordonnance du 10 janvier 2001 sur la mise en circulation des engrais (Or
 short: OEng
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/105"
 language: fr
-version: 2019-01-01
+version: 2022-01-01
 adopted: 2001-01-10
 in_force: 2001-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/105/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-105-20190101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/105/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/105/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-105-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/105/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/105/20190101/fr"
 
 (Ordonnance sur les engrais, OEng)
 
-du 10 janvier 2001 (Etat le 1<sup>er</sup> janvier 2019)
+du 10 janvier 2001 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -415,9 +415,9 @@ Sauf exigences spéciales, le dossier accompagnant la demande doit contenir au m
 - b. des indications exhaustives concernant les possibilités d’utilisation du type d’engrais et son mode d’emploi;
 - c. des renseignements précis et complets sur les matières premières, la composition et les propriétés du type d’engrais et sur sa conformité à l’usage prévu;
 - d. la preuve que le type d’engrais, s’il est utilisé conformément à l’usage prévu, ne produit pas d’effets secondaires intolérables ni ne présente de risque pour l’environnement et, partant, pour l’être humain;
-- e.[^15-1] la classification et l’étiquetage de l’engrais au sens des art. 6 et 7 et 10 à 15 OChim[^15-2].
+- e.[^15-1] la classification et l’étiquetage de l’engrais au sens des art. 6, 7 et 10 à 15*a* OChim[^15-2].
 
-[^15-1]: Introduite par le ch. II 18 de l’O du 18 mai 2005 ([RO 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)). Nouvelle teneur selon le ch. 7 de l’annexe 6 de l’O du 5 juin 2015 sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
+[^15-1]: Introduite par le ch. II 18 de l’O du 18 mai 2005 ([RO 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)). Nouvelle teneur selon l’annexe ch. 4 de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^15-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 16
@@ -435,7 +435,7 @@ Sauf exigences spéciales, le dossier accompagnant la demande doit contenir au m
 - e. des indications exhaustives concernant les possibilités d’utilisation de l’engrais et son mode d’emploi;
 - f. des renseignements précis et complets sur les matières premières, la composition et les propriétés de l’engrais et sur sa conformité à l’usage prévu;
 - g. la preuve que l’engrais, s’il est utilisé conformément à l’usage prévu, ne produit pas d’effets secondaires intolérables ni ne présente de risque pour l’environnement et, partant, pour l’être humain;
-- h.[^16-1] la classification et l’étiquetage de l’engrais au sens des art. 6 et 7 et 10 à 15 OChim[^16-2].
+- h.[^16-1] la classification et l’étiquetage de l’engrais au sens des art. 6, 7 et 10 à 15*a* OChim[^16-2].
 
 <sup>2</sup> Pour les additifs aux engrais, les agents de compostage, les amendements, et les autres produits d’origine végétale, animale, microbienne ou minérale, il n’est pas nécessaire de fournir de documents prouvant la conformité à l’usage prévu. L’autorité chargée de l’homologation est habilitée à faire savoir au public que la conformité à l’usage prévu n’a pas été examinée dans le cadre de la procédure d’homologation.[^16-3]
 
@@ -449,7 +449,7 @@ Sauf exigences spéciales, le dossier accompagnant la demande doit contenir au m
 
 <sup>7</sup> Si la demande ne satisfait pas aux exigences, l’OFAG impartit au requérant un délai pour la compléter. Si les indications requises ne sont pas fournies dans ce délai, la demande n’est pas examinée.
 
-[^16-1]: Introduite par le ch. II 18 de l’O du 18 mai 2005 ([RO 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)). Nouvelle teneur selon le ch. 7 de l’annexe 6 de l’O du 5 juin 2015 sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
+[^16-1]: Introduite par le ch. II 18 de l’O du 18 mai 2005 ([RO 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)). Nouvelle teneur selon l’annexe ch. 4 de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^16-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 [^16-3]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 [^16-4]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
@@ -510,11 +510,11 @@ L’annonce doit contenir les indications suivantes:
 - d. les matières premières et la composition;
 - e. le mode d’emploi;
 - f. l’usage prévu;
-- g.[^20-3] la classification et l’étiquetage de l’engrais au sens des art. 6 et 7 et 10 à 15 OChim[^20-4].
+- g.[^20-3] la classification et l’étiquetage de l’engrais au sens des art. 6, 7 et 10 à 15*a* OChim[^20-4].
 
 [^20-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 [^20-2]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
-[^20-3]: Introduite par le ch. II 18 de l’O du 18 mai 2005 ([RO 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)). Nouvelle teneur selon le ch. 7 de l’annexe 6 de l’O du 5 juin 2015 sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
+[^20-3]: Introduite par le ch. II 18 de l’O du 18 mai 2005 ([RO 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)). Nouvelle teneur selon l’annexe ch. 4 de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^20-4]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 21
@@ -868,6 +868,19 @@ La modification du droit en vigueur est réglée dans l’annexe.
 <sup>2</sup> Les autorisations délivrées avant l’entrée en vigueur de la modification du 14 novembre 2007 restent valables jusqu’au 31 décembre 2017.
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
+
+#### Art. 35a
+
+**Dispositions transitoires de la modification du 18 novembre 2020**[^35a-1]
+
+L’identifiant unique de formulation (UFI) au sens de l’art. 15*a* OChim[^35a-2] peut être transmis à l’OFAG dans la demande selon l’art. 15, dans la demande selon l’art. 16, dans l’annonce pour la mise en circulation selon l’art. 20:
+
+- a. jusqu’au 31 mars 2022 pour les engrais qui disposaient d’un UFI avant le 1<sup>er</sup> janvier 2022;
+- b. jusqu’au 31 décembre 2025 pour les engrais destinés aux utilisateurs professionnels et qui ne disposaient pas d’un UFI avant le 1<sup>er</sup> janvier 2022;
+- c. jusqu’au 31 décembre 2025 pour les engrais destinés aux utilisateurs privés et mis sur le marché avant le 1<sup>er</sup> janvier 2022 et qui ne disposaient pas d’un UFI.
+
+[^35a-1]: Introduit par l’annexe ch. 4 de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^35a-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 36
 

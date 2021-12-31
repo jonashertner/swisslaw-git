@@ -4,11 +4,11 @@ title: "Verordnung vom 10. Januar 2001 über das Inverkehrbringen von Düngern (
 short: DüV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/105"
 language: de
-version: 2019-01-01
+version: 2022-01-01
 adopted: 2001-01-10
 in_force: 2001-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/105/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2001-105-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/105/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/105/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2001-105-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/105/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/105/20190101/de"
 
 (Dünger-Verordnung, DüV)
 
-vom 10. Januar 2001 (Stand am 1. Januar 2019)
+vom 10. Januar 2001 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -316,7 +316,7 @@ Folgende Dünger bedürfen zur Zulassung einer Bewilligung des BLW:
   Dünger der folgenden Düngerkategorien:
 
   - 1\. Zusätze zu Düngern mit Ausnahme der Hofdüngerzusätze,
-  - 2\. …[^10-1]
+  - 2\. ...[^10-1]
   - 3\. Kulturen von Mikroorganismen zur Behandlung von Böden, Saatgut oder Pflanzen,
   - 4\. Mittel zur Beeinflussung biologischer Vorgänge im Boden,
   - 4<sup>bis</sup>.[^10-2] mineralische Recyclingdünger,
@@ -417,9 +417,9 @@ Wo keine speziellen Anforderungen gestellt werden, müssen die Gesuchsunterlagen
 - b. vollständige Angaben über die Verwendbarkeit und die Gebrauchsweise des Düngertyps;
 - c. genaue und vollständige Angaben über das Ausgangsmaterial, die Zusammensetzung und die Eigenschaften des Düngertyps und dessen Eignung zur vorgesehenen Verwendung;
 - d. den Nachweis, dass der Düngertyp bei vorgesehener Verwendung keine unannehmbaren Nebenwirkungen hat und weder die Umwelt noch mittelbar den Menschen gefährden kann;
-- e.[^15-1] die Einstufung und Kennzeichnung des Düngers nach den Artikeln 6 und 7 und 10–15 ChemV[^15-2].
+- e.[^15-1] die Einstufung und Kennzeichnung des Düngers nach den Artikeln 6 und 7 sowie 10–15*a* ChemV[^15-2].
 
-[^15-1]: Eingefügt durch Ziff. II 18 der V vom 18. Mai 2005 ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)). Fassung gemäss Anhang 6 Ziff. 7 der Chemikalienverordnung vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
+[^15-1]: Eingefügt durch Ziff. II 18 der V vom 18. Mai 2005 ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)). Fassung gemäss Anhang Ziff. 4 der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^15-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 16
@@ -437,7 +437,7 @@ Wo keine speziellen Anforderungen gestellt werden, müssen die Gesuchsunterlagen
 - e. vollständige Angaben über die Verwendbarkeit und die Gebrauchsweise des Düngers;
 - f. genaue und vollständige Angaben über das Ausgangsmaterial, die Zusammensetzung und die Eigenschaften des Düngers und dessen Eignung zur vorgesehenen Verwendung;
 - g. den Nachweis, dass der Dünger bei vorgesehener Verwendung keine unannehmbaren Nebenwirkungen hat und weder die Umwelt noch mittelbar den Menschen gefährden kann;
-- h.[^16-1] die Einstufung und Kennzeichnung des Düngers nach den Artikeln 6 und 7 und 10–15 ChemV[^16-2].
+- h.[^16-1] die Einstufung und Kennzeichnung des Düngers nach den Artikeln 6 und 7 sowie 10–15*a* ChemV[^16-2].
 
 <sup>2</sup> Für Zusätze zu Düngern, für Kompostierungsmittel, für Bodenverbesserungsmittel sowie für sonstige Erzeugnisse pflanzlichen, tierischen, mikrobiellen oder mineralischen Ursprungs müssen keine Unterlagen zum Nachweis der Eignung zur vorgesehenen Verwendung geliefert werden. Die Zulassungsbehörde ist befugt, die Öffentlichkeit darüber zu informieren, dass die Eignung im Rahmen des Bewilligungsverfahrens nicht geprüft wurde.[^16-3]
 
@@ -451,7 +451,7 @@ Wo keine speziellen Anforderungen gestellt werden, müssen die Gesuchsunterlagen
 
 <sup>7</sup> Genügt das Gesuch den Anforderungen nicht, so räumt das BLW dem Gesuchsteller eine Frist zur Ergänzung ein. Werden die erforderlichen Angaben innert dieser Frist nicht geliefert, wird auf das Gesuch nicht eingetreten.
 
-[^16-1]: Eingefügt durch Ziff. II 18 der V vom 18. Mai 2005 ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)). Fassung gemäss Anhang 6 Ziff. 7 der Chemikalienverordnung vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
+[^16-1]: Eingefügt durch Ziff. II 18 der V vom 18. Mai 2005 ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)). Fassung gemäss Anhang Ziff. 4 der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^16-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 [^16-3]: Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 [^16-4]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
@@ -495,7 +495,7 @@ Es führt keine solchen Versuche und Erhebungen durch und entscheidet über das 
 
 <sup>3</sup> Dünger, die mit einer Anmeldung in Verkehr gebracht worden sind, brauchen auf den nachfolgenden Handelsstufen keine Anmeldung.
 
-<sup>4</sup> …[^19-2]
+<sup>4</sup> ...[^19-2]
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 [^19-2]: Aufgehoben durch Ziff. II 18 der V vom 18. Mai 2005, mit Wirkung seit 1. Aug. 2005 ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
@@ -512,11 +512,11 @@ Die Anmeldung muss folgende Angaben enthalten:
 - d. das Ausgangsmaterial und die Zusammensetzung;
 - e. die Gebrauchsanweisung;
 - f. den Verwendungszweck;
-- g.[^20-3] die Einstufung und Kennzeichnung des Düngers nach den Artikeln 6 und 7 und 10–15 ChemV[^20-4].
+- g.[^20-3] die Einstufung und Kennzeichnung des Düngers nach den Artikeln 6 und 7 sowie 10–15*a* ChemV[^20-4].
 
 [^20-1]: Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 [^20-2]: Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
-[^20-3]: Eingefügt durch Ziff. II 18 der V vom 18. Mai 2005 ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)). Fassung gemäss Anhang 6 Ziff. 7 der Chemikalienverordnung vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
+[^20-3]: Eingefügt durch Ziff. II 18 der V vom 18. Mai 2005 ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)). Fassung gemäss Anhang Ziff. 4 der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^20-4]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 21
@@ -681,7 +681,7 @@ Die Gebrauchsanweisung darf keine Angaben oder Hinweise enthalten, die:
 
 <sup>4</sup> Wird Hofdünger in Säcken abgegeben, so muss die Gebrauchsanweisung die für den jeweiligen Abnehmer anwendbaren Düngungsempfehlungen berücksichtigen.
 
-<sup>5</sup> …[^24a-3]
+<sup>5</sup> ...[^24a-3]
 
 [^24a-1]: Eingefügt durch Ziff. II 18 der V vom 18. Mai 2005, in Kraft seit 1. Aug. 2005 ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)). Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 [^24a-2]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
@@ -871,6 +871,19 @@ Die Änderung bisherigen Rechts wird im Anhang geregelt.
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 
+#### Art. 35a
+
+**Übergangsbestimmungen zur Änderung vom 18. November 2020**[^35a-1]
+
+Der eindeutige Rezepturidentifikator (UFI) nach Artikel 15*a* ChemV[^35a-2] muss im Gesuch nach Artikel 15, im Gesuch nach Artikel 16 und in der Anmeldung für das Inverkehrbringen nach Artikel 20 dem BLW mitgeteilt werden:
+
+- a. bis zum 31. März 2022 für Dünger, die bereits vor dem 1. Januar 2022 über einen UFI verfügt haben;
+- b. bis zum 31. Dezember 2025 für Dünger, die für berufliche Verwenderinnen bestimmt sind und vor dem 1. Januar 2022 über keinen UFI verfügt haben;
+- c. bis zum 31. Dezember 2025 für Dünger, die für private Verwenderinnen bestimmt sind und die vor dem 1. Januar 2022 in Verkehr gebracht worden sind und über keinen UFI verfügt haben.
+
+[^35a-1]: Eingefügt durch Anhang Ziff. 4 der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^35a-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+
 #### Art. 36
 
 **Inkrafttreten**
@@ -883,6 +896,6 @@ Anhang
 
 ## Änderung bisherigen Rechts
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änd. können unter [AS 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)konsultiert werden.
