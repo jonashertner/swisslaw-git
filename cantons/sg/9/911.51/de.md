@@ -4,13 +4,13 @@ number: "911.51"
 title: Gesetz über Inkassohilfe und Vorschüsse für Unterhaltsbeiträge
 short: GIVU
 language: de
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-01-29
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-01-25
 adopted: 1979-06-28
 in_force: 1980-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/911.51"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2530/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3334/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2530/pdf_file"
 
 (GIVU)
 
-vom 28.06.1979 (Stand 01.04.2019)
+vom 28.06.1979 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -40,24 +40,53 @@ als Gesetz:[^ingress-4]
 
 #### Art. 1
 
-**Zuständigkeit**
+**Zuständigkeit a) innerstaatliche Inkassohilfe**
 
-<sup>1</sup> Die politische Gemeinde leistet Inkassohilfe zur Vollstreckung des Unterhaltsanspruchs:
+<sup>1</sup> Die politische Gemeinde bezeichnet die Fachstelle für innerstaatliche Inkassohilfe bei der Durchsetzung von Unterhaltsansprüchen nach Art. 3 Abs. 1 und 2 der eidgenössischen Verordnung über die Inkassohilfe bei familienrechtlichen Unterhaltsansprüchen vom 6. Dezember 2019[^1-1]. Die Fachstelle ist zuständig für Fälle, bei denen die verpflichtete und die berechtigte Person den zivilrechtlichen Wohnsitz in der Schweiz haben.
 
-- a) des Kindes;
-- b) der aus Scheidungs-, Trennungs- oder Auflösungsurteil berechtigten Person.
+- a) …
+- b) …
 
-<sup>2</sup> Zuständig ist die politische Gemeinde am zivilrechtlichen Wohnsitz[^1-1] des Kindes oder der berechtigten Person.
+<sup>2</sup> Zuständig ist die Fachstelle am zivilrechtlichen Wohnsitz[^1-2] des Kindes oder der berechtigten Person.
 
-<sup>3</sup> Die politischen Gemeinden können das Inkasso gemeinsam durchführen oder es öffentlichen oder privaten Beratungsstellen übertragen.
+<sup>3</sup> Die politischen Gemeinden können den Betrieb der Fachstelle durch Vereinbarung gemeinsam regeln oder die Aufgabe mit Leistungsvereinbarung einer privaten Organisation übertragen.
 
-[^1-1]: Art. 23 ff. des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907, SR [210](https://db.clex.ch/link/Bund/210/de).
+[^1-1]: SR [211.214.32](https://db.clex.ch/link/Bund/211.214.32/de).
+[^1-2]: Art. 23 ff. des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907, SR [210](https://db.clex.ch/link/Bund/210/de).
+
+#### Art. 1bis
+
+**b) grenzüberschreitende Inkassohilfe**
+
+<sup>1</sup> Die Regierung bezeichnet die Fachstelle für grenzüberschreitende Inkassohilfe. Diese ist zuständig für die Durchsetzung von Unterhaltsansprüchen nach Massgabe der anwendbaren Amtshilfeübereinkommen und Gegenseitigkeitserklärungen, wenn grenzüberschreitende Verhältnisse sowie anwendbare Amtshilfeübereinkommen oder Gegenseitigkeitserklärungen vorliegen.
+
+#### Art. 1ter
+
+**Anspruchsvoraussetzungen**
+
+<sup>1</sup> Die Fachstelle leistet Inkassohilfe bei nicht verjährten Unterhaltsansprüchen seit Wohnsitznahme in der Gemeinde, sowohl bei monatlichen als auch bei einmaligen ausstehenden Zahlungen.
+
+#### Art. 1quater
+
+**Unterstützende Massnahmen**
+
+<sup>1</sup> Die Regierung beauftragt für unterstützende Massnahmen eine Organisation. Diese:
+
+- a) erlässt Richtlinien zur Inkassohilfe;
+- b) bietet den Fachstellen Weiterbildungen in Fragen der Inkassohilfe an;
+- c) berät die Fachstellen in Einzelfällen.
+
+<sup>2</sup> Die Umsetzung der Inkassohilfe orientiert sich an den Richtlinien der von der Regierung beauftragten Organisation. Die Regierung erklärt diese Richtlinien für allgemeinverbindlich, wenn sie von der Vereinigung St.Galler Gemeindepräsidentinnen und Gemeindepräsidenten anerkannt sind und:
+
+- a) wenigstens zwei Drittel der Räte der politischen Gemeinden dies beantragen oder
+- b) die Räte von politischen Gemeinden, die zusammen wenigstens zwei Drittel der Wohnbevölkerung des Kantons umfassen, dies beantragen oder
+- c) wenigstens ein Zehntel der politischen Gemeinden die Richtlinien nicht anwendet.
 
 ## II. Vorschüsse
 
-[^1-2]
+[^1quater-1]
 
-[^1-2]: Art. 293 Abs. 2 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907, SR [210](https://db.clex.ch/link/Bund/210/de).
+[^1quater-1]: Art. 293 Abs. 2 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907, SR [210](https://db.clex.ch/link/Bund/210/de).
 
 #### Art. 2
 
@@ -66,7 +95,7 @@ als Gesetz:[^ingress-4]
 <sup>1</sup> Das Kind hat für die Dauer der Unterhaltspflicht der Eltern, längstens bis zum vollendeten 25. Altersjahr, Anspruch auf Vorschüsse für elterliche Unterhaltsbeiträge, wenn diese:
 
 - a) in einem vollstreckbaren Urteil nach Art. 285 des Schweizerischen Zivilgesetzbuches oder in einem Unterhaltsvertrag nach Art. 287 des Schweizerischen Zivilgesetzbuches festgesetzt sind. Der Unterhaltsbeitrag umfasst Bar- und Betreuungsunterhalt;
-- b) trotz angemessener Inkassoversuche nicht rechtzeitig eingehen.
+- b) nicht rechtzeitig eingehen.
 
 <sup>2</sup> Bevorschusst werden Unterhaltsbeiträge, die:
 
@@ -168,17 +197,17 @@ als Gesetz:[^ingress-4]
 
 #### Art. 6
 
-**Inkassovollmacht und Abtretung**
+**Inkasso- und Prozessvollmacht**
 
-<sup>1</sup> Die politische Gemeinde kann die Bevorschussung davon abhängig machen, dass der gesetzliche Vertreter des Kindes sie zum Inkasso der gesamten Unterhaltsbeiträge ermächtigt oder ihr die Unterhaltsbeiträge im Umfang der Vorschüsse abtritt.
+<sup>1</sup> Die gesetzliche Vertretung des Kindes reicht bei der politischen Gemeinde bei der Bevorschussung der Unterhaltsbeiträge eine Inkasso- und Prozessvollmacht ein.
 
 #### Art. 7
 
 **Rückerstattung**
 
-<sup>1</sup> Bezahlt der Schuldner bevorschusste Unterhaltsbeiträge, so sind die Vorschüsse zurückzuerstatten.
+<sup>1</sup> Bezahlt die verpflichtete Person der ehemals berechtigten Person bevorschusste Unterhaltsbeiträge, so sind die Vorschüsse der politischen Gemeinde zurückzuerstatten.
 
-<sup>2</sup> Solange sie nicht zurückerstattet sind, entfällt der Anspruch auf weitere Vorschüsse.
+<sup>2</sup> Solange sie nicht zurückerstattet sind, hat die politische Gemeinde das Recht, diese mit zukünftigen Bevorschussungen zu verrechnen.
 
 #### Art. 7bis
 
