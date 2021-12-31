@@ -3,20 +3,19 @@ canton: LU
 number: "8"
 title: Verordnung zum Einführungsgesetz zum Bundesgesetz über die Ausländerinnen und Ausländer und zum Asylgesetz
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-11-26
+version: 2022-01-01
+version_adopted: 2021-09-28
 adopted: 2009-11-27
 in_force: 2010-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/8"
-pdf: "https://srl.lu.ch/api/de/versions/3450/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3857/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zum Bundesgesetz über die Ausländerinnen und Ausländer und zum Asylgesetz
 
-vom 27.11.2009 (Stand 01.01.2020)
+vom 27.11.2009 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -136,6 +135,7 @@ beschliesst:
 - f. …
 - g. schriftliche Auskunftserteilungen und Stellungnahmen mit erheblichem Aufwand, wenn der Anfrager oder die Anfragerin ein wirtschaftliches Interesse an der Auskunft hat, nach Zeitaufwand, pro Stunde — Fr. 85.–
 - h. die Erledigterklärung infolge Rückzugs des Gesuchs — Fr. 100.–
+- i. das unentschuldigte Nichterscheinen zu einem Termin zwecks Datenerfassung — Fr .40.–
 
 <sup>3</sup> Die Gemeinde bezieht zudem für weitere Tätigkeiten die Gebühren nach der Verordnung über den Gebührenbezug der Gemeinden vom 23. November 2010[^10-1].
 
