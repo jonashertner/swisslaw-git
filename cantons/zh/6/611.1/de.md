@@ -4,11 +4,10 @@ number: "611.1"
 title: Rechnungslegungsverordnung (RLV)
 short: RLV
 language: de
-version: "2018-01-01"
-nachtrag: "99"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
 adopted: 2007-08-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-611_1-2007_08_29-2008_04_01-099.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-611_1-2007_08_29-2008_04_01-115.html"
 text: pdf
 ---
 
@@ -62,13 +61,13 @@ beschliesst:
 
 **1**
 
-- 1\. 1. 18 - 99 § 4. <sup>1</sup> Die wesentlichen Abweichungen von IPSAS gemäss § 46 Abs. 2 CRG und den Grundsätzen der Rechnungslegung gemäss § 45 CRG sind:
+- 1\. 1. 22 - 115 § 4. <sup>1</sup> Die wesentlichen Abweichungen von IPSAS gemäss § 46 Abs. 2 CRG und den Grundsätzen der Rechnungslegung gemäss § 45 CRG sind:
 
 **Abweichungen vom Regelwerk**
 
 - a. die Einschränkung des Kreises von Behörden und Organisationen, die in der konsolidierten Rechnung zu erfassen sind (§ 54 Abs. 1 CRG),
 
-- b. die Verbuchung von Einlagen und Entnahmen bei Fonds zur Vorfinanzierung von Investitionen, c.<sup>6</sup> die Bilanzierung der Vorsorgeverpflichtungen gemäss Swiss GAAP FER 16 sowie der Verzicht auf den gemäss IPSAS 25 geforderten Ausweis von anderen langfristig fälligen Leistungen an Arbeitnehmerinnen und Arbeitnehmer mit anwartschaftlichem Charakter, d.<sup>10</sup> die Bewertung von Beteiligungen des Verwaltungsvermögens zum Anschaffungswert oder, wenn tiefer liegend, zum Verkehrswert (§ 56 Abs. 2 CRG).
+- b. die Verbuchung von Einlagen und Entnahmen bei Fonds zur Vorfinanzierung von Investitionen, c.<sup>15</sup> die Bilanzierung der Vorsorgeverpflichtungen gemäss Swiss GAAP FER 16 sowie der Verzicht auf den gemäss IPSAS 39 geforderten Ausweis von anderen langfristig fälligen Leistungen an Arbeitnehmerinnen und Arbeitnehmer mit anwartschaftlichem Charakter, d.<sup>10</sup> die Bewertung von Beteiligungen des Verwaltungsvermögens zum Anschaffungswert oder, wenn tiefer liegend, zum Verkehrswert (§ 56 Abs. 2 CRG).
 
 <sup>2</sup> Der Anhang weist alle Abweichungen von IPSAS aus.
 
@@ -152,7 +151,7 @@ Kulturgüter sowie Bio- und Geotope gelten als Verwaltungsvermögen.
 
 **3**
 
-- 1\. 1. 18 - 99 § 14.<sup>8</sup>
+- 1\. 1. 22 - 115 § 14.<sup>8</sup>
 
 **Fonds**
 
@@ -238,11 +237,11 @@ Zur Ermittlung des Geldflusses aus betrieblicher Tätigkeit wird das Jahresergeb
 
 <sup>1</sup> Der die Investitionstätigkeit betreffende Teil der Geldflussrechnung enthält die Investitionsrechnung, die Korrekturen ihrer nicht geldwirksamen Transaktionen sowie Zu- und Abgänge der im Anlagevermögen bilanzierten Positionen des Finanzvermögens.
 
+<sup>2</sup> Die Investitionsrechnung enthält die Investitionsausgaben und -einnahmen.
+
 **5**
 
-- 1\. 1. 18 - 99
-
-<sup>2</sup> Die Investitionsrechnung enthält die Investitionsausgaben und -einnahmen.
+- 1\. 1. 22 - 115
 
 ### D. Anhang
 
@@ -356,7 +355,7 @@ Die Rechnungsperiode entspricht einem Kalenderjahr.
 
 **7**
 
-- 1\. 1. 18 - 99
+- 1\. 1. 22 - 115
 
 ### 3. Teil: Rechnungsführung
 
@@ -458,7 +457,7 @@ Die Finanzverwaltung ist insbesondere zuständig für die a. Erstellung der Jahr
 
 **Inkrafttreten**
 
-- 1\. 1. 18 - 99 § 44. Die Verordnung tritt nach der Genehmigung der §§ 3–5 durch den Kantonsrat[^h5TeilSchlussbest-2] zusammen mit dem Gesetz über Controlling und Rechnungslegung (CRG) in Kraft[^h5TeilSchlussbest-3].
+- 1\. 1. 22 - 115 § 44. Die Verordnung tritt nach der Genehmigung der §§ 3–5 durch den Kantonsrat[^h5TeilSchlussbest-2] zusammen mit dem Gesetz über Controlling und Rechnungslegung (CRG) in Kraft[^h5TeilSchlussbest-3].
 
 [^h5TeilSchlussbest-1]: Aufgehoben durch RRB vom 16. Februar 2011 (OS 66, 845; ABl 2011, 618). In Kraft seit 1. Januar 2012.
 [^h5TeilSchlussbest-2]: Vom Kantonsrat genehmigt am 10. März 2008.
@@ -466,10 +465,11 @@ Die Finanzverwaltung ist insbesondere zuständig für die a. Erstellung der Jahr
 [^h5TeilSchlussbest-4]: Fassung gemäss RRB vom 16. Februar 2011 (OS 66, 845; ABl 2011, 618). In Kraft seit 1. Januar 2012.
 [^h5TeilSchlussbest-5]: Fassung gemäss RRB vom 3. September 2013 (OS 69, 291; ABl 2013-09-13). In Kraft seit 1. Januar 2015.
 [^h5TeilSchlussbest-6]: Fassung gemäss RRB vom 13. September 2017 (OS 72, 485; ABl 2017-09-22). In Kraft seit 1. Januar 2018.
+[^h5TeilSchlussbest-7]: Fassung gemäss RRB vom 13. Januar 2021 (OS 76, 110; ABl 2021-01-22). In Kraft seit 1. Januar 2022.
 
-### Anhang,,
+### Anhang,,,
 
-[^h5TeilSchlussbest-4][^h5TeilSchlussbest-5][^h5TeilSchlussbest-6]
+[^h5TeilSchlussbest-4][^h5TeilSchlussbest-5][^h5TeilSchlussbest-6][^h5TeilSchlussbest-7]
 
 [^hAnhangh5TeilSchlus-1]: OS 63, 135; Begründung siehe ABl 2007, 1639.
 
@@ -513,7 +513,7 @@ Abweichung zu IPSAS 1, § 7: Einlagen in und Entnahmen aus Fonds zur Vorfinanzie
 
 **11**
 
-- 1\. 1. 18 - 99
+- 1\. 1. 22 - 115
 
 - 17\. IPSAS 21, Impairment of Non-Cash-Generating Assets (Wertminderung nicht zahlungsmittelgenerierender Vermögenswerte), Stand Dezember 2004.
 
@@ -521,57 +521,75 @@ Abweichung zu IPSAS 1, § 7: Einlagen in und Entnahmen aus Fonds zur Vorfinanzie
 
 - 19\. IPSAS 24, Presentation of Budget Information in Financial Statements (Darstellung von Budgetinformationen), Stand Dezember 2006.
 
-- 20\. IPSAS 25, Employee Benefits (Leistungen an Arbeitnehmer), Stand Februar 2008.
+- 20\. IPSAS 26, Impairment of Cash-Generating Assets (Wertminderung zahlungsmittelgenerierender Vermögenswerte), Stand Februar 2008.
 
-Allgemeine Abweichungen: Vorsorgeverpflichtungen werden nicht bilanziert, sondern im Anhang ausgewiesen. Die Bilanzierung erfolgt nach Swiss GAAP FER 16. Die Bestimmungen zum Ausweis von langfristig fälligen Leistungen an Arbeitnehmer mit anwartschaftlichem Charakter werden nicht angewendet.
+- 21\. IPSAS 27, Agriculture (Landwirtschaft), Stand Dezember 2009.
 
-- 21\. IPSAS 26, Impairment of Cash-Generating Assets (Wertminderung zahlungsmittelgenerierender Vermögenswerte), Stand Februar 2008.
+- 22\. IPSAS 28, Financial Instruments: Presentation (Finanzinstrumente: Darstellung), Stand Januar 2010.
 
-- 22\. IPSAS 27, Agriculture (Landwirtschaft), Stand Dezember 2009.
+- 23\. IPSAS 30, Financial Instruments: Disclosures (Finanzinstrumente: Angaben), Stand Januar 2010.
 
-- 23\. IPSAS 28, Financial Instruments: Presentation (Finanzinstrumente: Darstellung), Stand Januar 2010.
+- 24\. IPSAS 31, Intangible Assets (Immaterielle Vermögenswerte), Stand Januar 2010.
 
-- 24\. IPSAS 29, Financial Instruments: Recognition and Measurement (Finanzinstrumente: Bilanzierung und Bewertung), Stand Januar 2010.
+- 25\. IPSAS 32, Service Concession Arrangements: Grantor (Dienstleistungskonzessionsvereinbarungen: Konzessionsgeber), Stand Oktober 2011.
 
-Abweichung zu IPSAS 29, § 48: Die Bewertung von Beteiligungen des Verwaltungsvermögens erfolgt zum Anschaffungswert oder dem tieferen Verkehrswert.
+- 26\. IPSAS 33, First-time Adoption of Accrual Basis IPSASs (Erstmalige Anwendung der auf periodengerechter Abgrenzung basierenden IPSAS), Stand Januar 2015.
 
-- 25\. IPSAS 30, Financial Instruments: Disclosures (Finanzinstrumente: Angaben), Stand Januar 2010.
+- 27\. IPSAS 34, Separate Financial Statements (Einzelabschlüsse), Stand Januar 2015.
 
-- 26\. IPSAS 31, Intangible Assets (Immaterielle Vermögenswerte), Stand Januar 2010.
-
-- 27\. IPSAS 32, Service Concession Arrangements: Grantor (Dienstleistungskonzessionsvereinbarungen: Konzessionsgeber), Stand Oktober 2011.
-
-- 28\. IPSAS 33, First-time Adoption of Accrual Basis IPSASs (Erstmalige Anwendung der auf periodengerechter Abgrenzung basierenden IPSAS), Stand Januar 2015.
-
-- 29\. IPSAS 34, Separate Financial Statements (Einzelabschlüsse), Stand Januar 2015.
-
-- 30\. IPSAS 35, Consolidated Financial Statements (Konzernabschlüsse), Stand Januar 2015.
+- 28\. IPSAS 35, Consolidated Financial Statements (Konzernabschlüsse), Stand Januar 2015.
 
 Abweichung zu IPSAS 35, §§ 5 und 39: Die zu konsolidierenden Einheiten werden gemäss den Kriterien in § 54 CRG und § 28 dieser Verordnung festgelegt.
 
-- 31\. IPSAS 36, Investments in Associates and Joint Ventures (Anteile an assoziierten Einheiten und Gemeinschaftsunternehmen), Stand Januar 2015.
+- 29\. IPSAS 36, Investments in Associates and Joint Ventures (Anteile an assoziierten Einheiten und Gemeinschaftsunternehmen), Stand Januar 2015.
 
 Abweichung zu IPSAS 36, § 22: In der konsolidierten Rechnung erfolgt die Bewertung zu Anschaffungs- oder Marktwerten.
 
-- 32\. IPSAS 37, Joint Arrangements (Gemeinschaftliche Vereinbarungen), Stand Januar 2015.
+- 30\. IPSAS 37, Joint Arrangements (Gemeinschaftliche Vereinbarungen), Stand Januar 2015.
 
 Abweichung zu IPSAS 37, §§ 12 und 13: Es gelten sinngemäss die Kriterien gemäss § 54 CRG und § 28 dieser Verordnung.
 
-- 33\. IPSAS 38, Disclosure of Interests in Other Entities (Angaben zu Beteiligungen an anderen Einheiten), Stand Januar 2015.
+- 31\. IPSAS 38, Disclosure of Interests in Other Entities (Angaben zu Beteiligungen an anderen Einheiten), Stand Januar 2015.
 
-- 34\. FER 16, Swiss GAAP FER 16, Vorsorgeverpflichtungen, Stand 2011.
+- 32\. IPSAS 39 Employee Benefits (Leistungen an Arbeitnehmerinnen und Arbeitnehmer), Stand Juli 2016.
 
-- 35\. Improvements to IPSASs (Verbesserungen der IPSAS), Stand Januar 2010.
+Allgemeine Abweichungen: Vorsorgeverpflichtungen werden nicht bilanziert, sondern im Anhang ausgewiesen. Die Bilanzierung erfolgt nach Swiss GAAP FER 16. Die Bestimmungen zum Ausweis von langfristig fälligen Leistungen an Arbeitnehmerinnen und Arbeitnehmer mit anwartschaftlichem Charakter werden nicht angewendet.
 
-- 36\. Improvements to IPSASs 2010 (Verbesserungen der IPSAS 2010), Stand November 2010.
+- 33\. IPSAS 40 Public Sector Combinations (Zusammenschlüsse im öffentlichen Sektor), Stand Januar 2017.
 
-- 37\. Improvements to IPSASs 2011 (Verbesserungen der IPSAS 2011), Stand Oktober 2011.
+- 34\. IPSAS 41 Financial Instruments (Finanzinstrumente), Stand August 2018.
 
-- 38\. Improvements to IPSASs 2014 (Verbesserungen der IPSAS 2014), Stand Januar 2015.
+Abweichung zu IPSAS 41, § 43: Die Bewertung von Beteiligungen des Verwaltungsvermögens erfolgt zum Anschaffungswert oder zum tieferen Verkehrswert.
 
-- 39\. Improvements to IPSASs 2015 (Verbesserungen der IPSAS 2015), Stand April 2016.
+- 35\. IPSAS 42 Social Benefits (Sozialleistungen), Stand Januar 2019.
 
-[^hAListedermassgeb-1]: Die Standards können unter www.ifac.org/public-sector oder bei der Staatskanzlei eingesehen werden. 1. 1. 18 - 99 13
+- 36\. FER 16, Swiss GAAP FER 16, Vorsorgeverpflichtungen, Stand 2011.
+
+- 37\. Amendments to IPSAS 19 Collective and Individual Services (Änderung von IPSAS 19: Kollektivgüter und -dienstleistungen sowie Leistungen an Einzelne), Stand Januar 2020.
+
+- 38\. Amendments to IPSAS 36 Longterm Interests in Associates and Joint Ventures (Änderung von IPSAS 36: Langfristige Anteile an assoziierten Einheiten und Gemeinschaftsunternehmen), Stand Januar 2019.
+
+- 39\. Amendments to IPSAS 41 Prepayment Features with Negative Compensation (Änderung von IPSAS 41: Vorauszahlungen mit Negativausgleich), Stand Januar 2019.
+
+- 40\. Improvements to IPSASs (Verbesserungen der IPSAS), Stand Januar 2010.
+
+- 41\. Improvements to IPSASs 2010 (Verbesserungen der IPSAS 2010), Stand November 2010.
+
+- 42\. Improvements to IPSASs 2011 (Verbesserungen der IPSAS 2011), Stand Oktober 2011.
+
+- 43\. Improvements to IPSASs 2014 (Verbesserungen der IPSAS 2014), Stand Januar 2015.
+
+- 44\. Improvements to IPSASs 2015 (Verbesserungen der IPSAS 2015), Stand April 2016.
+
+**13**
+
+- 1\. 1. 22 - 115
+
+- 45\. Improvements to IPSAS 2018 (Verbesserungen der IPSAS 2018), Stand Oktober 2018.
+
+- 46\. Improvements to IPSAS 2019 (Verbesserungen der IPSAS 2019), Stand Januar 2020.
+
+[^hAListedermassgeb-1]: Die Standards können unter www.ifac.org/public-sector oder bei der Staatskanzlei eingesehen werden.
 
 ### B. Liste der nicht verwendeten Standards
 
