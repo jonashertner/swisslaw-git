@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. Dezember 1987 über das Internationale Privatrecht (
 short: IPRG
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776"
 language: de
-version: 2021-02-01
+version: 2022-01-01
 adopted: 1987-12-18
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20210201/de/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20210201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20210201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20210201/de"
 
 (IPRG)
 
-vom 18. Dezember 1987 (Stand am 1. Februar 2021)
+vom 18. Dezember 1987 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -341,7 +341,7 @@ Die Staatsangehörigkeit einer natürlichen Person bestimmt sich nach dem Recht 
 <sup>3</sup> Ist dieses Gesetz auf Staatenlose oder Flüchtlinge anzuwenden, so gilt der Wohnsitz an Stelle der Staatsangehörigkeit.
 
 [^24-1]: [SR 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
-[^24-2]: [[AS 1980 1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718), [1986 2062](https://fedlex.data.admin.ch/eli/oc/1986/2062_2062_2062), [1987 1674](https://fedlex.data.admin.ch/eli/oc/1987/1674_1674_1674), [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)[1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 1, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 8.1 [2876](https://fedlex.data.admin.ch/eli/oc/1994/2876_2876_2876), [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146)Ziff. II 1 [4356](https://fedlex.data.admin.ch/eli/oc/1995/4356_4356_4356), [1997 2372](https://fedlex.data.admin.ch/eli/oc/1997/2372_2372_2372)[2394](https://fedlex.data.admin.ch/eli/oc/1997/2394_2394_2394), [1998 1582](https://fedlex.data.admin.ch/eli/oc/1998/1582_1582_1582). [AS 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Art. 120 Bst. a]. Heute: BG vom 26. Juni 1998 ([SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)).
+[^24-2]: [[AS 1980 1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718); [1986 2062](https://fedlex.data.admin.ch/eli/oc/1986/2062_2062_2062); [1987 1674](https://fedlex.data.admin.ch/eli/oc/1987/1674_1674_1674); [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938), [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 1; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 8.1, [2876](https://fedlex.data.admin.ch/eli/oc/1994/2876_2876_2876), [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146)Ziff. II 1, [4356](https://fedlex.data.admin.ch/eli/oc/1995/4356_4356_4356); [1997 2372](https://fedlex.data.admin.ch/eli/oc/1997/2372_2372_2372), [2394](https://fedlex.data.admin.ch/eli/oc/1997/2394_2394_2394); [1998 1582](https://fedlex.data.admin.ch/eli/oc/1998/1582_1582_1582). [AS 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Art. 120 Bst. a]. Heute: BG vom 26. Juni 1998 ([SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)).
 
 ### 5. Abschnitt: Anerkennung und Vollstreckung ausländischer Entscheidungen
 
@@ -493,6 +493,16 @@ Eine im Ausland erfolgte Namensänderung wird in der Schweiz anerkannt, wenn sie
 #### Art. 40
 
 Der Name wird nach den schweizerischen Grundsätzen über die Registerführung in die Zivilstandsregister eingetragen.
+
+### IV*a*. Geschlecht
+
+#### Art. 40a
+
+[^40a-1]
+
+Die Artikel 37–40 sind sinngemäss auf das Geschlecht einer Person anwendbar.
+
+[^40a-1]: Eingefügt durch Ziff. II des BG vom 18. Dez. 2020 (Änderung des Geschlechts im Personenstandsregister), in Kraft seit 1. Jan. 2022 ([AS 2021 668](https://fedlex.data.admin.ch/eli/oc/2021/668); [BBl 2020 799](https://fedlex.data.admin.ch/eli/fga/2020/129)).
 
 ### V. Verschollenerklärung
 
@@ -1238,7 +1248,7 @@ Ausländische Entscheidungen über dingliche Rechte an beweglichen Sachen werden
 
 - a. wenn sie im Staat ergangen sind, in dem der Beklagte seinen Wohnsitz hat; oder
 - b. wenn sie im Staat, in dem die Sache liegt, ergangen sind, sofern der Beklagte dort seinen gewöhnlichen Aufenthalt hatte.
-- c.[^108-1] ...
+- c.[^108-1] …
 
 [^108-1]: Aufgehoben durch Art. 2 des BB vom 3. Okt. 2008 über die Genehmigung und die Umsetzung des Übereinkommens über die auf bestimmte Rechte an intermediärverwahrten Wertpapieren anzuwendende Rechtsordnung, mit Wirkung seit 1. Jan. 2010 ([AS 2009 6579](https://fedlex.data.admin.ch/eli/oc/2009/814); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 
@@ -1298,7 +1308,7 @@ Ausländische Entscheidungen über intermediärverwahrte Wertpapiere werden in d
 
 <sup>2bis</sup> Für Klagen betreffend gesetzliche Vergütungsansprüche für die rechtmässige Nutzung eines Immaterialguts gilt Absatz 2 sinngemäss.[^109-2]
 
-<sup>3</sup> ...[^109-3]
+<sup>3</sup> …[^109-3]
 
 [^109-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^109-2]: Eingefügt durch Anhang Ziff. 2 des BG vom 27. Sept. 2019, in Kraft seit 1. April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
@@ -1538,27 +1548,37 @@ Für Klagen aus ungerechtfertigter Bereicherung sind die schweizerischen Gericht
 
 <sup>1</sup> Für Klagen aus unerlaubter Handlung sind die schweizerischen Gerichte am Wohnsitz des Beklagten oder, wenn ein solcher fehlt, diejenigen an seinem gewöhnlichen Aufenthaltsort zuständig. Überdies sind die schweizerischen Gerichte am Handlungs- oder Erfolgsort sowie für Klagen aufgrund der Tätigkeit einer Niederlassung in der Schweiz die Gerichte am Ort der Niederlassung zuständig.
 
-<sup>2</sup> ...[^129-2]
+<sup>2</sup> …[^129-2]
 
 [^129-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^129-2]: Aufgehoben durch Art. 3 Ziff. 3 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), mit Wirkung seit 1. Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### 2. Im Besonderen
 
+### a. Nukleare Ereignisse
+
 #### Art. 130
 
-<sup>1</sup> Ist durch eine Kernanlage oder beim Transport von Kernmaterialien Schaden verursacht worden, so sind die schweizerischen Gerichte des Ortes zuständig, an dem das schädigende Ereignis eingetreten ist.
+[^130-1]
 
-<sup>2</sup>
+<sup>1</sup> Für die Zuständigkeit für Klagen aus nuklearen Ereignissen gilt das Übereinkommen vom 29. Juli 1960[^130-2] über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie in der Fassung des Zusatzprotokolls vom 28. Januar 1964, des Protokolls vom 16. November 1982 und des Protokolls vom 12. Februar 2004 (Pariser Übereinkommen).
 
-Kann dieser Ort nicht ermittelt werden, so sind:
+<sup>2</sup> Sind nach diesem Übereinkommen die schweizerischen Gerichte zuständig, so ist die Klage in dem Kanton einzureichen, auf dessen Gebiet das Ereignis eingetreten ist, oder, wenn der Ort des Ereignisses ausserhalb der Hoheitsgebiete der Vertragsparteien liegt oder nicht mit Sicherheit bestimmt werden kann, in demjenigen Kanton, auf dessen Gebiet sich die Kernanlage des haftpflichtigen Inhabers befindet. Bestehen nach diesen Regeln mehrere Gerichtsstände, so ist die Klage in demjenigen Kanton einzureichen, der im Sinne von Artikel 13 Absatz (f) Ziffer (ii) des Übereinkommens die engste Verbindung zum Ereignis aufweist und am meisten von seinen Auswirkungen betroffen ist.
 
-- a. wenn der Inhaber einer Kernanlage haftet, die schweizerischen Gerichte des Ortes zuständig, in dem die Kernanlage gelegen ist;
-- b. wenn der Inhaber einer Transportbewilligung haftet, die schweizerischen Gerichte des Ortes zuständig, an dem der Inhaber der Transportbewilligung seinen Wohnsitz oder sein Gerichtsdomizil hat.
+<sup>3</sup> Die Zuständigkeitsordnung nach Absatz 2 gilt sinngemäss auch für Klagen aus nuklearen Ereignissen, auf die das Übereinkommen nicht anwendbar ist. Befinden sich bei einer solchen Klage weder der Ort des Ereignisses noch die Kernanlage in der Schweiz, so kann auch in demjenigen Kanton geklagt werden, auf dessen Gebiet der geltend gemachte Schaden eingetreten ist. Ist in mehreren Kantonen ein Schaden eingetreten, ist derjenige Kanton zuständig, der am meisten von den Auswirkungen des Ereignisses betroffen ist.
 
-<sup>3</sup> Klagen zur Durchsetzung des Auskunftsrechts gegen den Inhaber einer Datensammlung können bei den in Artikel 129 genannten Gerichten oder bei den schweizerischen Gerichten am Ort, wo die Datensammlung geführt oder verwendet wird, eingereicht werden.[^130-1]
+[^130-1]: Fassung gemäss Anhang Ziff. II 3 des Kernenergiehaftpflichtgesetzes vom 13. Juni 2008, in Kraft seit 1. Jan. 2022, veröffentlicht am 27. Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^130-2]: [SR 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
 
-[^130-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 19. Juni 1992 über den Datenschutz, in Kraft seit 1. Juli 1993 ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
+### b. Auskunftsrecht im Zusammenhang mit Datensammlungen
+
+#### Art. 130a
+
+[^130a-1]
+
+Klagen zur Durchsetzung des Auskunftsrechts gegen den Inhaber einer Datensammlung können bei den in Artikel 129 genannten Gerichten oder bei den schweizerischen Gerichten am Ort, wo die Datensammlung geführt oder verwendet wird, eingereicht werden.
+
+[^130a-1]: Eingefügt durch Anhang Ziff. II 3 des Kernenergiehaftpflichtgesetzes vom 13. Juni 2008, in Kraft seit 1. Jan. 2022, veröffentlicht am 27. Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
 ### 3. Unmittelbares Forderungsrecht
 
@@ -1632,6 +1652,26 @@ Ansprüche aus Mängeln oder mangelhafter Beschreibung eines Produktes untersteh
 #### Art. 138
 
 Ansprüche aus schädigenden Einwirkungen, die von einem Grundstück ausgehen, unterstehen nach Wahl des Geschädigten dem Recht des Staates, in dem das Grundstück liegt, oder dem Recht des Staates, in dem der Erfolg einer Einwirkung eintritt.
+
+### e<sup>bis</sup>. Nukleare Ereignisse
+
+#### Art. 138a
+
+[^138a-1]
+
+<sup>1</sup> Ansprüche aus nuklearen Ereignissen unterstehen schweizerischem Recht.
+
+<sup>2</sup>
+
+Ist die Kernanlage des haftpflichtigen Inhabers in einem Vertragsstaat des Pariser Übereinkommens[^138a-2] gelegen, so bestimmt sich nach dem Recht dieses Vertragsstaates:
+
+- a. ob sich die Ersatzpflicht des Inhabers für nukleare Schäden über den in Artikel 2 Absatz (b) des Übereinkommens genannten Anwendungsbereich hinaus erstreckt;
+- b. ob und inwieweit ein nuklearer Schaden in den Fällen von Artikel 9 des Übereinkommens ersetzt wird.
+
+<sup>3</sup> Absatz 2 ist sinngemäss anwendbar auf den Inhaber einer Kernanlage, die nicht in einem Vertragsstaat des Pariser Übereinkommens gelegen ist, sofern dieser Staat der Schweiz gegenüber eine mindestens gleichwertige Regelung vorsieht.
+
+[^138a-1]: Eingefügt durch Anhang Ziff. II 3 des Kernenergiehaftpflichtgesetzes vom 13. Juni 2008, in Kraft seit 1. Jan. 2022, veröffentlicht am 27. Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^138a-2]: [SR 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
 
 ### f. Persönlichkeitsverletzung
 
@@ -1766,10 +1806,11 @@ Eine ausländische Entscheidung wird ferner anerkannt:
 - b. wenn sie Ansprüche aus Verträgen mit Konsumenten betrifft und am Wohnsitz oder am gewöhnlichen Aufenthalt des Konsumenten ergangen ist, und die Voraussetzungen von Artikel 120 Absatz 1 erfüllt sind;
 - c. wenn sie Ansprüche aus einem Arbeitsvertrag betrifft, am Arbeits- oder Betriebsort ergangen ist und der Arbeitnehmer seinen Wohnsitz nicht in der Schweiz hatte;
 - d. wenn sie Ansprüche aus dem Betrieb einer Niederlassung betrifft und am Sitz dieser Niederlassung ergangen ist;
-- e. wenn sie Ansprüche aus ungerechtfertigter Bereicherung betrifft, am Handlungs- oder am Erfolgsort ergangen ist und der Beklagte seinen Wohnsitz nicht in der Schweiz hatte, oder
-- f. wenn sie Ansprüche aus unerlaubter Handlung betrifft, am Handlungs- oder am Erfolgsort ergangen ist und der Beklagte seinen Wohnsitz nicht in der Schweiz hatte.
+- e. wenn sie Ansprüche aus ungerechtfertigter Bereicherung betrifft, am Handlungs- oder am Erfolgsort ergangen ist und der Beklagte seinen Wohnsitz nicht in der Schweiz hatte; oder
+- f.[^149-2] wenn sie Ansprüche aus unerlaubter Handlung betrifft, am Handlungs- oder am Erfolgsort oder, bei nuklearen Ereignissen, am Ort, an dem sich die Kernanlage des haftpflichtigen Inhabers befindet, ergangen ist und der Beklagte seinen Wohnsitz nicht in der Schweiz hatte.
 
 [^149-1]: Fassung gemäss Art. 3 Ziff. 3 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), in Kraft seit 1. Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
+[^149-2]: Fassung gemäss Anhang Ziff. II 3 des Kernenergiehaftpflichtgesetzes vom 13. Juni 2008, in Kraft seit 1. Jan. 2022, veröffentlicht am 27. Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
 ## 9*a.* Kapitel:**** Trusts
 
@@ -1866,7 +1907,7 @@ Ausländische Entscheidungen in trustrechtlichen Angelegenheiten werden in der S
 
 <sup>3</sup> Für Klagen aus Verantwortlichkeit infolge öffentlicher Ausgabe von Beteiligungspapieren und Anleihen sind ausserdem die schweizerischen Gerichte am Ausgabeort zuständig. Diese Zuständigkeit kann durch eine Gerichtsstandsvereinbarung nicht ausgeschlossen werden.
 
-<sup>4</sup> ...[^151-1]
+<sup>4</sup> …[^151-1]
 
 [^151-1]: Eingefügt durch Anhang 1 Ziff. II 18 der Zivilprozessordnung vom 19. Dez. 2008 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)). Aufgehoben durch Ziff. II 2 des BG vom 28. Sept. 2012, mit Wirkung seit 1. Mai 2013 ([AS 2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250); [BBl 2011 6873](https://fedlex.data.admin.ch/eli/fga/2011/1111)).
 
@@ -2383,7 +2424,7 @@ Ein Mitglied des Schiedsgerichts kann abgelehnt werden:[^180-1]
 
 <sup>2</sup> Eine Partei kann ein Mitglied des Schiedsgerichts, das sie ernannt hat oder an dessen Ernennung sie mitgewirkt hat, nur aus Gründen ablehnen, von denen sie trotz gehöriger Aufmerksamkeit erst nach dessen Ernennung Kenntnis erhalten hat.[^180-3]
 
-<sup>3</sup> ...[^180-4]
+<sup>3</sup> …[^180-4]
 
 [^180-1]: Fassung gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 [^180-2]: Fassung gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
@@ -2533,9 +2574,9 @@ Haben die Parteien nichts anderes vereinbart, so kann das Schiedsgericht Teilent
 
 <sup>1</sup> Der Entscheid ergeht nach dem Verfahren und in der Form, welche die Parteien vereinbart haben.
 
-<sup>2</sup> Fehlt eine solche Vereinbarung, so wird er mit Stimmenmehrheit gefällt oder, falls sich keine Stimmenmehrheit ergibt, durch den Präsidenten des Schiedsgerichts. Der Entscheid ist schriftlich abzufassen, zu begründen, zu datieren und zu unterzeichnen. Es genügt die Unterschrift der Präsidentin oder des Präsidenten[^189-1].
+<sup>2</sup> Fehlt eine solche Vereinbarung, so wird er mit Stimmenmehrheit gefällt oder, falls sich keine Stimmenmehrheit ergibt, durch die Präsidentin oder den Präsidenten des Schiedsgerichts[^189-1]. Der Entscheid ist schriftlich abzufassen, zu begründen, zu datieren und zu unterzeichnen. Es genügt die Unterschrift der Präsidentin oder des Präsidenten.
 
-[^189-1]: Ausdruck gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^189-1]: Ausdruck gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)). Diese Änd. wurde in der in der AS genannten Bestimmung vorgenommen.
 
 ### 4. Berichtigung, Erläuterung und Ergänzung
 
@@ -2711,15 +2752,15 @@ Es werden aufgehoben:
 - f. Artikel 14 Absatz 3 des Bundesgesetzes vom 30. März 1900[^annexu1-lvlu1-lvlI-5] betreffend die gewerblichen Muster und Modelle;
 - g. Artikel 41 Absatz 2 des Bundesgesetzes vom 20. März 1975[^annexu1-lvlu1-lvlI-6] über den Schutz von Pflanzenzüchtungen.
 
-[^annexu1-lvlu1-lvlI-1]: [BS **2** 737; [AS 1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653)Ziff. II 1, [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)Ziff. II 1, [1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)Ziff. II 1]
+[^annexu1-lvlu1-lvlI-1]: [BS **2** 737; [AS 1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653)Ziff. II 1; [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)Ziff. II 1; [1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)Ziff. II 1]
 [^annexu1-lvlu1-lvlI-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^annexu1-lvlu1-lvlI-3]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^annexu1-lvlu1-lvlI-4]: [BS **2** 845; [AS 1951 903](https://fedlex.data.admin.ch/eli/oc/1951/903_906_931)Art. 1, [1971 1617](https://fedlex.data.admin.ch/eli/oc/1971/1617_1617_1617), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 8. [AS 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)Art. 74]
-[^annexu1-lvlu1-lvlI-5]: [BS **2** 881; [AS 1962 459](https://fedlex.data.admin.ch/eli/oc/1962/459_465_479), [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Anhang Ziff. I Bst. f, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 9, [1995 1784](https://fedlex.data.admin.ch/eli/oc/1995/1784_1784_1784)[5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)Anhang Ziff. 3. [AS 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226)Anhang Ziff. 1]
+[^annexu1-lvlu1-lvlI-4]: [BS **2** 845; [AS 1951 903](https://fedlex.data.admin.ch/eli/oc/1951/903_906_931)Art. 1; [1971 1617](https://fedlex.data.admin.ch/eli/oc/1971/1617_1617_1617); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 8. [AS 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)Art. 74]
+[^annexu1-lvlu1-lvlI-5]: [BS **2** 881; [AS 1962 459](https://fedlex.data.admin.ch/eli/oc/1962/459_465_479); [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Anhang Ziff. I Bst. f; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 9; [1995 1784](https://fedlex.data.admin.ch/eli/oc/1995/1784_1784_1784), [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)Anhang Ziff. 3. [AS 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226)Anhang Ziff. 1]
 [^annexu1-lvlu1-lvlI-6]: [SR 232.16](https://fedlex.data.admin.ch/eli/cc/1977/862_862_862)
 
 ### II. Änderung des geltenden Bundesrechts
 
-...[^annexu1-lvlu1-lvlII-1]
+…[^annexu1-lvlu1-lvlII-1]
 
 [^annexu1-lvlu1-lvlII-1]: Die Änderungen können unter [AS 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)konsultiert werden.

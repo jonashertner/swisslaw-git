@@ -4,11 +4,11 @@ title: Legge federale del 18 dicembre 1987 sul diritto internazionale privato (L
 short: LDIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776"
 language: it
-version: 2021-02-01
+version: 2022-01-01
 adopted: 1987-12-18
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20210201/it/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20210201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20210201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20210201/it"
 
 (LDIP)
 
-del 18 dicembre 1987 (Stato 1° febbraio 2021)
+del 18 dicembre 1987 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -493,6 +493,16 @@ Il cambiamento del nome avvenuto all’estero è riconosciuto in Svizzera se val
 #### Art. 40
 
 Il nome è iscritto nei registri dello stato civile giusta i principi svizzeri sulla tenuta dei registri.
+
+### IV*a*. Sesso
+
+#### Art. 40a
+
+[^40a-1]
+
+Gli articoli 37‒40 si applicano per analogia al sesso di una persona.
+
+[^40a-1]: Introdotto dal n. II della LF del 18 dic. 2020 (Cambiamento del sesso nel registro dello stato civile), in vigore dal 1° gen. 2022 ([RU 2021 668](https://fedlex.data.admin.ch/eli/oc/2021/668); [FF 2020 737](https://fedlex.data.admin.ch/eli/fga/2020/129)).
 
 ### V. Dichiarazione di scomparsa
 
@@ -1540,20 +1550,30 @@ Per le azioni derivanti da indebito arricchimento sono competenti i tribunali sv
 
 ### 2. In particolare
 
+### a. Incidenti nucleari
+
 #### Art. 130
 
-<sup>1</sup> Per i danni causati da un impianto nucleare o dal trasporto di materiale nucleare sono competenti i tribunali svizzeri del luogo in cui si è prodotto l’evento dannoso.
+[^130-1]
 
-<sup>2</sup>
+<sup>1</sup> La competenza per le azioni in materia di incidenti nucleari è retta dalla Convenzione del 29 luglio 1960[^130-2] sulla responsabilità civile nel campo dell’energia nucleare, emendata dal Protocollo addizionale del 28 gennaio 1964, dal Protocollo del 16 novembre 1982 e dal protocollo del 12 febbraio 2004 (Convenzione di Parigi).
 
-Se questo luogo non può essere determinato, sono competenti:
+<sup>2</sup> Se secondo la Convenzione di Parigi sono competenti i tribunali svizzeri, l’azione deve essere promossa nel Cantone in cui si è prodotto l’incidente oppure, se il luogo dell’incidente si trova fuori dal territorio delle Parti contraenti o non può essere determinato con certezza, nel Cantone in cui è situato l’impianto nucleare dell’esercente civilmente responsabile. Se risultano competenti più fori, l’azione deve essere promossa nel Cantone che presenta il legame più stretto con l’incidente e ne subisce maggiormente le conseguenze ai sensi dell’articolo 13 paragrafo (f) capoverso (ii) della Convenzione di Parigi.
 
-- a. in caso di responsabilità dell’esercente dell’impianto nucleare, i tribunali svizzeri del luogo di situazione dell’impianto;
-- b. in caso di responsabilità del titolare del permesso di trasporto, i tribunali svizzeri del domicilio, anche elettivo, di costui.
+<sup>3</sup> L’ordinamento delle competenze di cui al capoverso 2 si applica per analogia anche alle azioni in materia di incidenti nucleari alle quali non è applicabile la Convenzione di Parigi. Se, in un siffatto caso, né il luogo del sinistro nucleare né l’impianto nucleare si trovano in Svizzera, l’azione può essere proposta nel Cantone in cui si è prodotto il danno. Se si sono prodotti danni in più di un Cantone, è competente il Cantone che subisce maggiormente le conseguenze dell’incidente.
 
-<sup>3</sup> Per le azioni intese a dare esecuzione al diritto d’accesso contro il titolare di una collezione di dati sono competenti i tribunali menzionati nell’articolo 129 oppure i tribunali svizzeri del luogo nel quale la collezione di dati è gestita o utilizzata.[^130-1]
+[^130-1]: Nuovo testo giusta l’all. n. II 3 della LF del 13 giu. 2008 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022, pubblicato il 27 gen. 2022 ([RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 4957](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^130-2]: [RS 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
 
-[^130-1]: Introdotto dall’all. n. 3 della LF del 19 giu. 1992 sulla protezione dei dati, in vigore dal 1° lug. 1993 ([RU 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [FF 1988 II 353](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
+### b. Diritto d’accesso in relazione a collezioni di dati
+
+#### Art. 130a
+
+[^130a-1]
+
+Per le azioni intese a dare esecuzione al diritto d’accesso nei confronti del titolare di una collezione di dati sono competenti i tribunali menzionati nell’articolo 129 oppure i tribunali svizzeri del luogo nel quale la collezione di dati è gestita o utilizzata.
+
+[^130a-1]: Introdotto dall’all. n. II 3 della LF del 13 giu. 2008 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022, pubblicato il 27 gen. 2022 ([RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 4957](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
 ### 3. Diritto di credito diretto
 
@@ -1627,6 +1647,26 @@ Le pretese derivanti da vizi o da una descrizione viziata di un prodotto sono re
 #### Art. 138
 
 Le pretese derivanti da immissioni nocive da un fondo sono regolate, a scelta del danneggiato, dal diritto dello Stato di situazione del fondo o dello Stato in cui si produce l’effetto.
+
+### e<sup>bis</sup>. Incidenti nucleari
+
+#### Art. 138a
+
+[^138a-1]
+
+<sup>1</sup> Le pretese derivanti da un incidente nucleare sottostanno al diritto svizzero.
+
+<sup>2</sup>
+
+Se l’impianto nucleare dell’esercente civilmente responsabile è situato nel territorio di una Parte contraente della Convenzione di Parigi[^138a-2], il diritto di tale Stato determina:
+
+- a. se il campo d’applicazione dell’obbligo di risarcimento dei danni nucleari dell’esercente è più ampio di quello di cui all’articolo 2 paragrafo (b) della Convenzione di Parigi;
+- b. se e in quale misura è risarcito un danno nucleare nei casi di cui all’articolo 9 della Convenzione di Parigi.
+
+<sup>3</sup> Il capoverso 2 si applica per analogia all’esercente di un impianto nucleare situato in uno Stato non Parte contraente della Convenzione di Parigi, in quanto tale Stato preveda una regolamentazione almeno equivalente a quella della Svizzera.
+
+[^138a-1]: Introdotto dall’all. n. II 3 della LF del 13 giu. 2008 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022, pubblicato il 27 gen. 2022 ([RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 4957](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^138a-2]: [RS 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
 
 ### f. Lesione della personalità
 
@@ -1761,10 +1801,11 @@ La decisione straniera è inoltre riconosciuta se:
 - b. concerne pretese derivanti da contratti con consumatori, è stata pronunciata nel domicilio o nella dimora abituale del consumatore e sono adempiute le condizioni di cui all’articolo 120 capoverso 1;
 - c. concerne pretese derivanti da un contratto di lavoro, è stata pronunciata nel luogo di lavoro o dell’azienda e il lavoratore non era domiciliato in Svizzera;
 - d. concerne pretese derivanti dall’esercizio di una stabile organizzazione ed è stata pronunciata nella sede della medesima;
-- e. concerne pretese derivanti da indebito arricchimento, è stata pronunciata nel luogo di commissione o di effetto dell’atto e il convenuto non era domiciliato in Svizzera o
-- f. concerne pretese derivanti da atto illecito, è stata pronunciata nel luogo di commissione o di effetto dell’atto e il convenuto non era domiciliato in Svizzera.
+- e. concerne pretese derivanti da indebito arricchimento, è stata pronunciata nel luogo di commissione o di effetto dell’atto e il convenuto non era domiciliato in Svizzera, o
+- f.[^149-2] concerne pretese derivanti da atto illecito, è stata pronunciata nel luogo di commissione o di effetto dell’atto oppure, in caso di incidente nucleare, nel luogo in cui è situato l’impianto nucleare dell’esercente civilmente responsabile e il convenuto non era domiciliato in Svizzera.
 
 [^149-1]: Nuovo testo giusta l’art. 3 n. 3 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
+[^149-2]: Nuovo testo giusta l’all. n. II 3 della LF del 13 giu. 2008 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022, pubblicato il 27 gen. 2022 ([RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 4957](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
 ## Capitolo 9*a*:**** Trust
 
@@ -1991,7 +2032,7 @@ Se gli affari di una società costituita giusta il diritto straniero sono gestit
 
 [^163-1]: Nuovo testo giusta l’all. n. 4 della LF del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 [^163-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
-[^163-3]: [[RU 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 24, [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018)[1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 1, [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 48, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. II 18, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)I 15. [RU 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308)all. 2 n. I]. Vedi ora la Legge del 17 giu. 2016 ([RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)).
+[^163-3]: [[RU 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 24; [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018), [1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 1; [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 48; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)I 15. [RU 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308)all. 2 n. I]. Vedi ora la Legge del 17 giu. 2016 ([RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)).
 
 ### 3. Fusione
 

@@ -4,11 +4,11 @@ title: Federal Act on Private International Law (PILA)
 short: PILA
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776"
 language: en
-version: 2021-02-01
+version: 2022-01-01
 adopted: 1987-12-18
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20210201/en/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20210201-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20210201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20220101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (PILA)
 
-of 18 December 1987 (Status as of 1 February 2021)
+of 18 December 1987 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -495,6 +495,16 @@ A change of name occurred abroad is recognised in Switzerland if it is valid in 
 #### Art. 40
 
 The name is entered in the Swiss civil status registers in accordance with Swiss registration principles.
+
+### IV*a*. Gender
+
+#### Art. 40a
+
+[^40a-1]
+
+Articles 37–40 apply by analogy to a person's gender.
+
+[^40a-1]: Inserted by No II of the FA of 18 Dec. 2020 (Gender Change in the Civil Register), in force since 1 Jan. 2022 ([AS 2021 668](https://fedlex.data.admin.ch/eli/oc/2021/668); [BBl 2020 799](https://fedlex.data.admin.ch/eli/fga/2020/129)).
 
 ### V. Declaration of presumed death
 

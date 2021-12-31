@@ -4,11 +4,11 @@ title: Loi fédérale du 18 décembre 1987 sur le droit international privé (LD
 short: LDIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776"
 language: fr
-version: 2021-02-01
+version: 2022-01-01
 adopted: 1987-12-18
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20210201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20210201/fr"
 
 (LDIP)
 
-du 18 décembre 1987 (Etat le 1<sup>er</sup> février 2021)
+du 18 décembre 1987 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -495,6 +495,16 @@ Un changement de nom intervenu à l’étranger est reconnu en Suisse s’il est
 #### Art. 40
 
 La transcription du nom dans les registres de l’état civil a lieu conformément aux principes suisses sur la tenue des registres.
+
+### IV*a*. Sexe
+
+#### Art. 40a
+
+[^40a-1]
+
+Les art. 37 à 40 s’appliquent par analogie au sexe d’une personne.
+
+[^40a-1]: Introduit par le ch. II de la LF du 18 déc. 2020 (Changement de sexe à l’état civil), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 668](https://fedlex.data.admin.ch/eli/oc/2021/668); [FF 2020 779](https://fedlex.data.admin.ch/eli/fga/2020/129)).
 
 ### V. Déclaration d’absence
 
@@ -1542,20 +1552,30 @@ Les tribunaux suisses du domicile ou, à défaut de domicile, ceux de la réside
 
 ### 2. En particulier
 
+### a. Accidents nucléaires
+
 #### Art. 130
 
-<sup>1</sup> Les tribunaux suisses du lieu où l’événement dommageable s’est produit sont compétents pour connaître des actions relatives aux dommages causés par une installation nucléaire ou le transport de substances nucléaires.
+[^130-1]
 
-<sup>2</sup>
+<sup>1</sup> La compétence pour connaître des actions relatives à des accidents nucléaires est régie par la Convention du 29 juillet 1960 sur la responsabilité civile dans le domaine de l’énergie nucléaire amendée par le protocole additionnel du 28 janvier 1964, par le protocole du 16 novembre 1982 et par le protocole du 12 février 2004 (Convention de Paris)[^130-2].
 
-Lorsque ce lieu ne peut pas être déterminé, l’action peut être portée:
+<sup>2</sup> Si les tribunaux suisses sont compétents aux termes de cette convention, l’action doit être intentée dans le canton sur le territoire duquel l’accident est survenu ou, si le lieu de l’accident se trouve en dehors du territoire des Etats parties à la convention ou ne peut être déterminé avec certitude, dans le canton sur le territoire duquel se trouve l’installation nucléaire de l’exploitant responsable. S’il existe plusieurs fors selon les règles qui précèdent, l’action doit être intentée dans le canton le plus étroitement lié à l’accident et le plus affecté par ses conséquences au sens de l’art. 13, par. (f), ch. (ii), de la Convention de Paris.
 
-- a. si la responsabilité incombe à l’exploitant d’une installation nucléaire, devant les tribunaux suisses du lieu où cette installation est située;
-- b. si la responsabilité incombe au détenteur d’une autorisation de transport, devant les tribunaux suisses du lieu où ce détenteur est domicilié ou a élu domicile.
+<sup>3</sup> Les règles de compétence prévues à l’al. 2 s’appliquent par analogie aux actions qui ne relèvent pas de la Convention de Paris. Dans un tel cas, si ni le lieu de l’accident ni l’installation nucléaire ne se situent en Suisse, l’action peut également être intentée dans le canton sur le territoire duquel le dommage est survenu. Si des dommages se sont produits dans différents cantons, le plus affecté par les conséquences de l’accident est compétent.
 
-<sup>3</sup> Les actions en exécution du droit d’accès dirigées contre le maître du fichier peuvent être intentées devant les tribunaux mentionnés à l’art. 129 ou devant les tribunaux suisses du lieu où le fichier est géré ou utilisé.[^130-1]
+[^130-1]: Nouvelle teneur selon l’annexe ch. II 3 de la LF du 13 juin 2008 sur la responsabilité civile en matière nucléaire, en vigueur depuis le 1<sup>er</sup> janv. 2022, publiée le 27 janv. 2022 ([RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 5125](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^130-2]: [RS 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
 
-[^130-1]: Introduit par l’annexe ch. 3 de la LF du 19 juin 1992 sur la protection des données, en vigueur depuis le 1<sup>er</sup> juil. 1993 ([RO 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [FF 1988 II 421](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
+### b. Droit d’accès à un fichier de données
+
+#### Art. 130a
+
+[^130a-1]
+
+Les actions en exécution du droit d’accès dirigées contre le maître du fichier peuvent être intentées devant les tribunaux mentionnés à l’art. 129 ou devant les tribunaux suisses du lieu où le fichier est géré ou utilisé.
+
+[^130a-1]: Introduit par l’annexe ch. II 3 de la LF du 13 juin 2008 sur la responsabilité civile en matière nucléaire, en vigueur depuis le 1<sup>er</sup> janv. 2022, publiée le 27 janv. 2022 ([RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 5125](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
 ### 3. Action directe contre l’assureur
 
@@ -1629,6 +1649,26 @@ Les prétentions fondées sur un défaut ou une description défectueuse d’un 
 #### Art. 138
 
 Les prétentions résultant des immissions dommageables provenant d’un immeuble sont régies, au choix du lésé, par le droit de l’État dans lequel l’immeuble est situé ou par le droit de l’État dans lequel le résultat s’est produit.
+
+### e<sup>bis</sup>. Accidents nucléaires
+
+#### Art. 138a
+
+[^138a-1]
+
+<sup>1</sup> Les droits découlant d’un accident nucléaire relèvent du droit suisse.
+
+<sup>2</sup>
+
+Lorsque l’installation nucléaire de l’exploitant responsable se trouve dans un Etat membre de la Convention de Paris[^138a-2], le droit de cet Etat détermine:
+
+- a. si le devoir de réparation des dommages nucléaires imposé à l’exploitant a un champ d’application plus large qu’indiqué à l’art. 2, par. (b), de la convention;
+- b. si et dans quelle mesure un dommage nucléaire fait l’objet d’une indemnité dans les cas visés à l’art. 9 de la convention.
+
+<sup>3</sup> L’al. 2 s’applique par analogie à l’exploitant d’une installation nucléaire se trouvant dans un Etat non membre de la Convention de Paris si cet Etat prévoit une réglementation au moins équivalente à l’égard de la Suisse.
+
+[^138a-1]: Introduit par l’annexe ch. II 3 de la LF du 13 juin 2008 sur la responsabilité civile en matière nucléaire, en vigueur depuis le 1<sup>er</sup> janv. 2022, publiée le 27 janv. 2022 ([RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 5125](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^138a-2]: [RS 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
 
 ### f. Atteinte à la personnalité
 
@@ -1764,9 +1804,10 @@ Elles sont en outre reconnues:
 - c. lorsque la décision porte sur une prétention relevant d’un contrat de travail et qu’elle a été rendue, soit au lieu de l’exploitation, soit au lieu de travail, et que le travailleur n’était pas domicilié en Suisse;
 - d. lorsque la décision porte sur une prétention résultant de l’exploitation d’un établissement et qu’elle a été rendue au siège de l’établissement;
 - e. lorsque la décision porte sur un enrichissement illégitime, qu’elle a été rendue au lieu de l’acte ou au lieu du résultat et que le défendeur n’était pas domicilié en Suisse, ou
-- f. lorsque la décision porte sur une obligation délictuelle, qu’elle a été rendue au lieu de l’acte ou au lieu du résultat et que le défendeur n’était pas domicilié en Suisse.
+- f.[^149-2] lorsque la décision porte sur une obligation délictuelle, qu’elle a été rendue au lieu de l’acte ou au lieu du résultat ou, en cas d’accident nucléaire, au lieu de situation de l’installation nucléaire de l’exploitant responsable et que le défendeur n’était pas domicilié en Suisse.
 
 [^149-1]: Nouvelle teneur selon l’art. 3 ch. 3 de l’AF du 11 déc. 2009 (Approbation et mise en oeuvre de la Conv. de Lugano), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1497](https://fedlex.data.admin.ch/eli/fga/2009/402)).
+[^149-2]: Nouvelle teneur selon l’annexe ch. II 3 de la LF du 13 juin 2008 sur la responsabilité civile en matière nucléaire, en vigueur depuis le 1<sup>er</sup> janv. 2022, publiée le 27 janv. 2022 ([RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 5125](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
 ## Chapitre 9*a***** Trusts
 
