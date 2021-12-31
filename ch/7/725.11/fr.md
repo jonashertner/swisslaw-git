@@ -4,11 +4,11 @@ title: Loi fédérale du 8 mars 1960 sur les routes nationales (LRN)
 short: LRN
 eli: "https://fedlex.data.admin.ch/eli/cc/1960/525_569_555"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1960-03-08
 in_force: 1960-06-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/525_569_555/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1960-525_569_555-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1960/525_569_555/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/525_569_555/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1960-525_569_555-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1960/525_569_555/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1960/525_569_555/20210101/fr"
 
 (LRN**[^t-1]**)
 
-du 8 mars 1960 (Etat le 1<sup>er</sup> janvier 2021)
+du 8 mars 1960 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Abréviation introduite par le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 
@@ -193,14 +193,14 @@ La planification sera établie par l’office compétent (office), en collaborat
 
 [^11a-1]
 
-<sup>1</sup> Les routes nationales sont aménagées progressivement dans le cadre d’un programme de développement stratégique. A cet égard, le Conseil fédéral tient compte en particulier des modules 1 à 4 du programme[^11a-2] d’élimination des goulets d’étranglement du réseau des routes nationales.
+<sup>1</sup> Les routes nationales sont aménagées progressivement dans le cadre d’un programme de développement stratégique. À cet égard, le Conseil fédéral tient compte en particulier des modules 1 à 4 du programme[^11a-2] d’élimination des goulets d’étranglement du réseau des routes nationales.
 
 <sup>2</sup> Tous les quatre ans, le Conseil fédéral présente à l’Assemblée fédérale un rapport sur l’avancement de l’aménagement, sur les adaptations requises du programme de développement stratégique et sur la prochaine étape d’aménagement prévue.
 
 [^11a-1]: Introduit par l’annexe ch. II 4 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 [^11a-2]: [FF 2014 2365](https://fedlex.data.admin.ch/eli/fga/2014/448)
 
-### I<sup>ter</sup>. Etapes d’aménagement du réseau des routes nationales
+### I<sup>ter</sup>. Étapes d’aménagement du réseau des routes nationales
 
 #### Art. 11b
 
@@ -212,7 +212,7 @@ La planification sera établie par l’office compétent (office), en collaborat
 
 [^11b-1]: Introduit par l’annexe ch. II 4 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
-### II. Etablissement des projets généraux
+### II. Établissement des projets généraux
 
 ### 1. Objet
 
@@ -230,7 +230,7 @@ Les projets généraux sont établis par l’office[^13-1], en collaboration ave
 
 ### 3. Libre disposition des terrains nécessaires à la construction
 
-### a. Etablissement des zones réservées
+### a. Établissement des zones réservées
 
 #### Art. 14
 
@@ -318,7 +318,7 @@ Les projets généraux sont établis par l’office[^13-1], en collaboration ave
 
 ### B. Projets définitifs
 
-### 1. Etablissement des projets définitifs
+### 1. Établissement des projets définitifs
 
 #### Art. 21
 
@@ -451,7 +451,7 @@ La demande d’approbation des plans doit être adressée au département avec l
 [^27b-1]: Introduit par le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 [^27b-2]: Abrogé par l’annexe ch. 9 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
-### d. Avis personnel
+### d. …
 
 #### Art. 27c
 
@@ -477,7 +477,7 @@ La demande d’approbation des plans doit être adressée au département avec l
 [^27d-4]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
 [^27d-5]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 19 juin 202, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
-### f. Elimination des divergences au sein de l’administration fédérale
+### f. Élimination des divergences au sein de l’administration fédérale
 
 #### Art. 27e
 
@@ -576,7 +576,7 @@ Les mesures à prendre dans la procédure de remembrement peuvent consister:
 
 ### 4. Prescriptions particulières concernant la procédure de remaniements parcellaires de bien-fonds et de forêts
 
-### a. Etablissement d’avant-projets de remembrement
+### a. Établissement d’avant-projets de remembrement
 
 #### Art. 33
 
@@ -662,7 +662,7 @@ Lorsque le terrain nécessaire à la construction de la route a été acquis de 
 
 [^chap2-lvlD-1]
 
-[^chap2-lvlD-1]: Anciennement avant l'art. 41. Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^chap2-lvlD-1]: Anciennement avant l’art. 41. Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 ### I. Compétences
 
@@ -962,7 +962,10 @@ L’office peut fournir des prestations commerciales à des tiers pour autant qu
 
 <sup>2</sup> Les prestations commerciales sont fournies à des prix permettant au moins de couvrir les coûts calculés sur la base d’une comptabilité analytique. Le département peut autoriser des dérogations pour certaines prestations à condition qu’elles n’entrent pas en concurrence avec le secteur privé.
 
-[^61b-1]: Introduit par l'annexe ch. 3 de la LF du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708)[5011](https://fedlex.data.admin.ch/eli/oc/2010/709); [FF 2009 6525](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+<sup>3</sup> Les revenus réalisés sont attribués au fonds pour les routes nationales et pour le trafic d’agglomération.[^61b-2]
+
+[^61b-1]: Introduit par l’annexe ch. 3 de la LF du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708)[5011](https://fedlex.data.admin.ch/eli/oc/2010/709); [FF 2009 6525](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+[^61b-2]: Introduit par l’annexe ch. 5 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ### II. Dispositions transitoires relatives à la modification du 18 juin 1999
 

@@ -4,11 +4,11 @@ title: "Legge federale dell'8 marzo 1960 sulle strade nazionali (LSN)"
 short: LSN
 eli: "https://fedlex.data.admin.ch/eli/cc/1960/525_569_555"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1960-03-08
 in_force: 1960-06-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/525_569_555/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1960-525_569_555-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1960/525_569_555/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/525_569_555/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1960-525_569_555-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1960/525_569_555/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1960/525_569_555/20210101/it"
 
 (LSN)**[^t-1]**
 
-dell’8 marzo 1960 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+dell’8 marzo 1960 (Stato 1° gennaio 2022)
 
 [^t-1]: Introdotto dal n. I 7 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
@@ -119,7 +119,7 @@ Fanno parte delle strade nazionali, oltre che il corpo stradale, tutti gli impia
 
 <sup>3</sup> La Confederazione definisce i principi applicabili alle aree di sosta.
 
-[^7a-1]: Introdotto dall’all. n. II 4 alla LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^7a-1]: Introdotto dall’all. n. II 4 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 ### IV. Sovranità e proprietà
 
@@ -198,7 +198,7 @@ La pianificazione è curata dall’Ufficio competente (Ufficio), con la collabor
 
 <sup>2</sup> Ogni quattro anni il Consiglio federale sottopone all’Assemblea federale un rapporto sullo stato di avanzamento dei lavori, sui necessari adeguamenti del programma di sviluppo strategico e sulla successiva fase di potenziamento prevista.
 
-[^11a-1]: Introdotto dall’all. n. II 4 alla LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^11a-1]: Introdotto dall’all. n. II 4 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 [^11a-2]: [FF 2014 2205](https://fedlex.data.admin.ch/eli/fga/2014/448)
 
 ### I<sup>ter</sup>. Fasi di potenziamento della rete delle strade nazionali
@@ -211,7 +211,7 @@ La pianificazione è curata dall’Ufficio competente (Ufficio), con la collabor
 
 <sup>2</sup> Nei messaggi relativi alle fasi di potenziamento il Consiglio federale illustra in particolare i costi successivi.
 
-[^11b-1]: Introdotto dall’all. n. II 4 alla LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^11b-1]: Introdotto dall’all. n. II 4 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 ### II. Progetti generali
 
@@ -246,7 +246,7 @@ I progetti generali sono elaborati dall’Ufficio[^13-1], con la collaborazione 
 [^14-1]: Nuova espr. giusta il n. I 7 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029). Di detta mod. è tenuto conto in tutto il presente testo.
 [^14-2]: Conformemente al DF del 21 giu. 1960 concernente la rete delle strade nazionali, nelle sue ultime versioni determinanti ([RU 1960 900](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118), [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) e all’art. 197 n. 3 della Costituzione federale ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 [^14-3]: Nuovo testo giusta il n. II 16 della LF del 6 ott. 2006 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^14-4]: Nuovo testo del per. giusta l’all. n. 68 alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^14-4]: Nuovo testo del per. giusta l’all. n. 68 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### b. Effetti
 
@@ -508,7 +508,7 @@ La procedura di eliminazione delle divergenze nell’Amministrazione federale è
 <sup>5</sup> ...[^28-2]
 
 [^28-1]: Nuovo testo giusta il n. I 7 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^28-2]: Abrogato dall’all. n. 68 alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^28-2]: Abrogato dall’all. n. 68 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### 6. Procedura semplificata
 
@@ -964,7 +964,10 @@ L’Ufficio può fornire a terzi prestazioni commerciali se queste:
 
 <sup>2</sup> Le prestazioni commerciali sono fornite sulla base di una contabilità analitica, a prezzi che consentano almeno di coprire i costi. Il Dipartimento può concedere deroghe per singole prestazioni, a condizione di non entrare in tal modo in concorrenza con l’economia privata.
 
+<sup>3</sup> I ricavi conseguiti sono destinati al Fondo per le strade nazionali e il traffico d’agglomerato.[^61b-2]
+
 [^61b-1]: Introdotto dall’all. n. 3 della LF del 18 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+[^61b-2]: Introdotto dall’all. n. 5 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ### II. Disposizioni transitorie relative alla modifica del 18 giugno 1999
 
@@ -1010,7 +1013,7 @@ L’Ufficio può fornire a terzi prestazioni commerciali se queste:
 
 In deroga all’articolo 28 capoverso 3, i permessi di costruire concer-nenti i progetti ripresi dalla Confederazione, vale a dire la tangenziale di Näfels della N17 Niederurnen–Glarus e le tangenziali di Le Locle e La Chaux-de-Fonds della N20 Le Locle (frontière)–La Chaux-de-Fonds–Tunnel de la Vue des Alpes–Neuchâtel e Thielle–Murten, sono da ritenersi validi anche nel caso in cui la loro durata di validità sia scaduta all’entrata in vigore del decreto federale del 10 dicembre 201221 concernente la rete delle strade nazionali.
 
-[^63-1]: Nuovo testo giusta l’all. n. II 4 alla LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^63-1]: Nuovo testo giusta l’all. n. II 4 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 ### III. Modificazioni
 
