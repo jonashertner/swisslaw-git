@@ -3,11 +3,11 @@ sr: "0.916.113.1"
 title: Internationales Zucker-Übereinkommen von 1992 vom 20. März 1992 (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1804_1804_1804"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1992-03-20
 in_force: 1993-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1804_1804_1804/20200101/de/xml/fedlex-data-admin-ch-eli-cc-1994-1804_1804_1804-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1804_1804_1804/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1804_1804_1804/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1994-1804_1804_1804-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1804_1804_1804/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 27. Januar 1994
 
 Endgültig in Kraft getreten für die Schweiz am 10. Dezember 1996
 
-(Stand am 1. Januar 2020)
+(Stand am 1. Januar 2022)
 
 [^t-1]: [AS 1994 1803](https://fedlex.data.admin.ch/eli/oc/1994/1803_1803_1803)
 
@@ -556,7 +556,7 @@ Die Regierungen aller Staaten können diesem Übereinkommen zu den vom Rat festg
 
 <sup>5.</sup> Der Rat notifiziert dem Depositar jede Massnahme nach Absatz 2 oder Absatz 3.
 
-[^45-1]: Verlängert vom Internationalen Zuckerrat bis 31. Dez. 1997 mit der Resolution vom 1. Dez. 1995 ([AS 1996 1116](https://fedlex.data.admin.ch/eli/oc/1996/1116_1116_1116)), bis 31. Dez. 1999 mit der Resolution vom 29. Mai 1997 ([AS 1997 2450](https://fedlex.data.admin.ch/eli/oc/1997/2450_2450_2450)), bis 31. Dez. 2001 mit der Resolution vom 27. Mai 1999 ([AS 1999 2513](https://fedlex.data.admin.ch/eli/oc/1999/395)), bis 31. Dez. 2003 mit der Resolution vom 30. Mai 2001 ([AS 2001 2746](https://fedlex.data.admin.ch/eli/oc/2001/416)), bis 31. Dez. 2005 mit der Resolution vom 29. Mai 2003 ([AS 2003 2451](https://fedlex.data.admin.ch/eli/oc/2003/357)), bis 31. Dez. 2007 mit der Resolution vom 26. Mai 2005 ([AS 2005 2643](https://fedlex.data.admin.ch/eli/oc/2005/458)), bis 31. Dez. 2011 mit der Resolution vom 28. Mai 2009 ([AS 2009 3435](https://fedlex.data.admin.ch/eli/oc/2009/418)), bis 31. Dez. 2013 mit der Resolution vom 2. Juni 2011 ([AS 2013 197](https://fedlex.data.admin.ch/eli/oc/2013/21)), bis 31. Dez. 2015 mit der Resolution vom 6. Juni 2013 ([AS 2013 2105](https://fedlex.data.admin.ch/eli/oc/2013/445)), bis 31. Dez. 2017 mit der Resolution vom 25. Juni 2015 ([AS 2015 2643](https://fedlex.data.admin.ch/eli/oc/2015/501)), bis 31. Dez. 2019 mit der Resolution vom 1. Dez. 2017 ([AS 2017 7767](https://fedlex.data.admin.ch/eli/oc/2017/884)) und bis 31. Dez. 2021 mit der Resolution vom 19. Juli 2019 ([AS 2019 2625](https://fedlex.data.admin.ch/eli/oc/2019/487)).
+[^45-1]: Verlängert vom Internationalen Zuckerrat bis 31. Dez. 1997 mit der Resolution vom 1. Dez. 1995 ([AS 1996 1116](https://fedlex.data.admin.ch/eli/oc/1996/1116_1116_1116)), bis 31. Dez. 1999 mit der Resolution vom 29. Mai 1997 ([AS 1997 2450](https://fedlex.data.admin.ch/eli/oc/1997/2450_2450_2450)), bis 31. Dez. 2001 mit der Resolution vom 27. Mai 1999 ([AS 1999 2513](https://fedlex.data.admin.ch/eli/oc/1999/395)), bis 31. Dez. 2003 mit der Resolution vom 30. Mai 2001 ([AS 2001 2746](https://fedlex.data.admin.ch/eli/oc/2001/416)), bis 31. Dez. 2005 mit der Resolution vom 29. Mai 2003 ([AS 2003 2451](https://fedlex.data.admin.ch/eli/oc/2003/357)), bis 31. Dez. 2007 mit der Resolution vom 26. Mai 2005 ([AS 2005 2643](https://fedlex.data.admin.ch/eli/oc/2005/458)), bis 31. Dez. 2011 mit der Resolution vom 28. Mai 2009 ([AS 2009 3435](https://fedlex.data.admin.ch/eli/oc/2009/418)), bis 31. Dez. 2013 mit der Resolution vom 2. Juni 2011 ([AS 2013 197](https://fedlex.data.admin.ch/eli/oc/2013/21)), bis 31. Dez. 2015 mit der Resolution vom 6. Juni 2013 ([AS 2013 2105](https://fedlex.data.admin.ch/eli/oc/2013/445)), bis 31. Dez. 2017 mit der Resolution vom 25. Juni 2015 ([AS 2015 2643](https://fedlex.data.admin.ch/eli/oc/2015/501)), bis 31. Dez. 2019 mit der Resolution vom 1. Dez. 2017 ([AS 2017 7767](https://fedlex.data.admin.ch/eli/oc/2017/884)), bis 31. Dez. 2021 mit der Resolution vom 19. Juli 2019 ([AS 2019 2625](https://fedlex.data.admin.ch/eli/oc/2019/487)) und bis 31. Dez. 2023 mit der Resolution vom 26. Nov. 2021 ([AS 2021 817](https://fedlex.data.admin.ch/eli/oc/2021/817)).
 
 #### Art. 46
 
@@ -568,9 +568,7 @@ Die Regierungen aller Staaten können diesem Übereinkommen zu den vom Rat festg
 
 [^46-1]: [[AS 1991 454](https://fedlex.data.admin.ch/eli/oc/1991/454_454_454)]
 
-*Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen an den neben ihrer Unterschrift vermerkten Tagen unterschrieben. Geschehen zu Genf am zwanzigsten März neunzehnhundertzweiundneunzig. Der arabische, englische, französische, russische und spanische Wortlaut dieses Übereinkommens ist gleichermassen verbindlich.
-
-(Es folgen die Unterschriften)
+*Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen an den neben ihrer Unterschrift vermerkten Tagen unterschrieben. Geschehen zu Genf am zwanzigsten März neunzehnhundertzweiundneunzig. Der arabische, englische, französische, russische und spanische Wortlaut dieses Übereinkommens ist gleichermassen verbindlich. (Es folgen die Unterschriften)
 
 Anhang
 
@@ -688,4 +686,4 @@ Panama
 
 Sudan
 
-[^t-2]: [AS 1994 1804](https://fedlex.data.admin.ch/eli/oc/1994/1804_1804_1804), [1999 1406](https://fedlex.data.admin.ch/eli/oc/1999/206), [2001 2746](https://fedlex.data.admin.ch/eli/oc/2001/416), [2003 2451](https://fedlex.data.admin.ch/eli/oc/2003/357), [2005 2643](https://fedlex.data.admin.ch/eli/oc/2005/458), [2007 3625](https://fedlex.data.admin.ch/eli/oc/2007/447), [2009 3435](https://fedlex.data.admin.ch/eli/oc/2009/418), [2013 197](https://fedlex.data.admin.ch/eli/oc/2013/21)und [2016 3533](https://fedlex.data.admin.ch/eli/oc/2016/592). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1994 1804](https://fedlex.data.admin.ch/eli/oc/1994/1804_1804_1804); [1999 1406](https://fedlex.data.admin.ch/eli/oc/1999/206); [2001 2746](https://fedlex.data.admin.ch/eli/oc/2001/416); [2003 2451](https://fedlex.data.admin.ch/eli/oc/2003/357); [2005 2643](https://fedlex.data.admin.ch/eli/oc/2005/458); [2007 3625](https://fedlex.data.admin.ch/eli/oc/2007/447); [2009 3435](https://fedlex.data.admin.ch/eli/oc/2009/418); [2013 197](https://fedlex.data.admin.ch/eli/oc/2013/21); [2016 3533](https://fedlex.data.admin.ch/eli/oc/2016/592). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite: https://www.fedlex.admin.ch/de/treaty.

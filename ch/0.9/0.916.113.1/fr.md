@@ -3,11 +3,11 @@ sr: "0.916.113.1"
 title: "Accord international de 1992 sur le sucre, du 20 mars 1992 (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1804_1804_1804"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1992-03-20
 in_force: 1993-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1804_1804_1804/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-1994-1804_1804_1804-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1804_1804_1804/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1804_1804_1804/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1994-1804_1804_1804-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1804_1804_1804/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 27 janvier 1994
 
 Entré en vigueur à titre définitif pour la Suisse le 10 décembre 1996
 
-(Etat le 1<sup>er</sup> janvier 2020)
+(Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: [RO 1994 1803](https://fedlex.data.admin.ch/eli/oc/1994/1803_1803_1803)
 
@@ -557,7 +557,7 @@ Les gouvernements de tous les États peuvent adhérer au présent Accord aux con
 
 <sup>5.</sup> Le Conseil notifie au dépositaire toute décision prise au titre du paragraphe 2 ou du paragraphe 3 du présent article.
 
-[^45-1]: Cet Ac. a été prorogé par les Résolutions du Conseil international du sucre du 1<sup>er</sup> déc. 1995 jusqu’au 31 déc. 1997 ([RO 1996 1116](https://fedlex.data.admin.ch/eli/oc/1996/1116_1116_1116)), du 29 mai 1997 jusqu’au 31 déc. 1999 ([RO 1997 2450](https://fedlex.data.admin.ch/eli/oc/1997/2450_2450_2450)), du 27 mai 1999 jusqu’au 31 déc. 2001 ([RO 1999 2513](https://fedlex.data.admin.ch/eli/oc/1999/395)), du 30 mai 2001 jusqu’au 31 déc. 2003 ([RO 2001 2746](https://fedlex.data.admin.ch/eli/oc/2001/416)), du 29 mai 2003 jusqu’au 31 déc. 2005 ([RO 2003 2451](https://fedlex.data.admin.ch/eli/oc/2003/357)), du 26 mai 2005 jusqu’au 31 déc. 2007 ([RO 2005 2643](https://fedlex.data.admin.ch/eli/oc/2005/458)), du 31 mai 2007 jusqu’au 31 déc. 2009 ([RO 2007 3625](https://fedlex.data.admin.ch/eli/oc/2007/447)), du 28 mai 2009 jusqu’au 31 déc. 2011 ([RO 2009 3435](https://fedlex.data.admin.ch/eli/oc/2009/418)), du 2 juin 2011 jusqu’au 31 déc. 2013 ([RO 2013 197](https://fedlex.data.admin.ch/eli/oc/2013/21)), du 6 juin 2013 jusqu’au 31 déc. 2015 ([RO 2013 2105](https://fedlex.data.admin.ch/eli/oc/2013/445)), du 25 juin 2015 jusqu’au 31 déc. 2017 ([RO 2015 2643](https://fedlex.data.admin.ch/eli/oc/2015/501)), du 1<sup>er</sup> déc. 2017 au 31 déc. 2019 ([RO 2017 7767](https://fedlex.data.admin.ch/eli/oc/2017/884)) et du 1<sup>er</sup> janv. 2020 au 31 déc. 2021 ([RO 2019 2625](https://fedlex.data.admin.ch/eli/oc/2019/487)).
+[^45-1]: Cet Ac. a été prorogé par les Résolutions du Conseil international du sucre du 1<sup>er</sup> déc. 1995 jusqu’au 31 déc. 1997 ([RO 1996 1116](https://fedlex.data.admin.ch/eli/oc/1996/1116_1116_1116)), du 29 mai 1997 jusqu’au 31 déc. 1999 ([RO 1997 2450](https://fedlex.data.admin.ch/eli/oc/1997/2450_2450_2450)), du 27 mai 1999 jusqu’au 31 déc. 2001 ([RO 1999 2513](https://fedlex.data.admin.ch/eli/oc/1999/395)), du 30 mai 2001 jusqu’au 31 déc. 2003 ([RO 2001 2746](https://fedlex.data.admin.ch/eli/oc/2001/416)), du 29 mai 2003 jusqu’au 31 déc. 2005 ([RO 2003 2451](https://fedlex.data.admin.ch/eli/oc/2003/357)), du 26 mai 2005 jusqu’au 31 déc. 2007 ([RO 2005 2643](https://fedlex.data.admin.ch/eli/oc/2005/458)), du 31 mai 2007 jusqu’au 31 déc. 2009 ([RO 2007 3625](https://fedlex.data.admin.ch/eli/oc/2007/447)), du 28 mai 2009 jusqu’au 31 déc. 2011 ([RO 2009 3435](https://fedlex.data.admin.ch/eli/oc/2009/418)), du 2 juin 2011 jusqu’au 31 déc. 2013 ([RO 2013 197](https://fedlex.data.admin.ch/eli/oc/2013/21)), du 6 juin 2013 jusqu’au 31 déc. 2015 ([RO 2013 2105](https://fedlex.data.admin.ch/eli/oc/2013/445)), du 25 juin 2015 jusqu’au 31 déc. 2017 ([RO 2015 2643](https://fedlex.data.admin.ch/eli/oc/2015/501)), du 1<sup>er</sup> déc. 2017 jusqu’au 31 déc. 2019 ([RO 2017 7767](https://fedlex.data.admin.ch/eli/oc/2017/884)), du 19 juil. 2019 jusqu’au 31 déc. 2021 ([RO 2019 2625](https://fedlex.data.admin.ch/eli/oc/2019/487)) et du 26 nov. 2021 jusqu’au 31 déc. 2023 ([RO 2021 817](https://fedlex.data.admin.ch/eli/oc/2021/817)).
 
 #### Art. 46
 
