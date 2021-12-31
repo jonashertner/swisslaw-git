@@ -4,20 +4,22 @@ number: "213.410"
 title: Ausführungsbestimmungen über das Grundbuch
 short: AB GB
 language: de
-version: 2017-06-01
-valid_until: 2021-12-31
-version_adopted: 2017-03-14
+version: 2022-01-01
+valid_until: 2025-12-31
+version_adopted: 2021-11-30
 adopted: 2017-03-14
 in_force: 2017-06-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/213.410"
-pdf: "http://gdb.ow.ch/api/de/versions/1212/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1672/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über das Grundbuch
 
-vom 14.03.2017 (Stand 01.06.2017)
+(AB GB)
+
+vom 14.03.2017 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -51,11 +53,12 @@ beschliesst:
 
 #### Art. 3
 
-**Grundbuchführung**
+**Informatisiertes Grundbuch**
 
-<sup>1</sup> Das Grundbuch wird mittels Informatik nach den Bestimmungen der Grundbuchverordnung[^3-1] geführt (informatisiertes Grundbuch).
+<sup>1</sup> Das Grundbuch wird mittels Informatik nach den Bestimmungen der Grundbuchverordnung[^3-1] und der Technischen Verordnung des EJPD und des VBS über das Grundbuch[^3-2] geführt.
 
 [^3-1]: SR [211.432.1](http://gdb.ow.ch/data/211.432.1/de)
+[^3-2]: SR [211.432.11](http://gdb.ow.ch/data/211.432.11/de)
 
 #### Art. 4
 
@@ -65,13 +68,7 @@ beschliesst:
 
 #### Art. 5
 
-**Datenübernahme**
-
-<sup>1</sup> Die Daten des Papiergrundbuchs werden laufend in das informatisierte Grundbuch übernommen und dort nachgeführt.
-
-<sup>2</sup> Neue Grundstücke des kantonalen Grundbuches sind in das informatisierte Grundbuch einzutragen. Das gilt auch für Übertragungen auf neue Blätter gemäss Art. 24 der Grundbuchverordnung[^5-1].
-
-[^5-1]: SR [211.432.1](http://gdb.ow.ch/data/211.432.1/de)
+**…**
 
 #### Art. 6
 
@@ -217,5 +214,9 @@ Aufgehobene Erlasse:
 \- Stichwortverzeichnis der Dienstbarkeiten, Grundlasten, Vormerkungen und Anmerkungen mit Erläuterungen vom 9. Dezember 1986 (ABl 1987, 141, OGS 2007, 26 und 35, OGS 2010, 86)
 
 \- Weisungen über die Errichtung und die Anmeldung von Schuldbriefen vom 05.Dezember 2006 (OGS 2006, 80)
+
+Geändert durch:
+
+\- Nachtrag vom 30. November 2021, in Kraft seit 1. Januar 2022 (OGS 2021, 45)
 
 OGS 2017, 28
