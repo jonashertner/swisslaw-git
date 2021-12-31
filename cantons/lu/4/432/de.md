@@ -3,20 +3,20 @@ canton: LU
 number: "432"
 title: Verordnung zum Gesetz über die Berufsbildung und die Weiterbildung
 language: de
-version: 2021-09-01
-valid_until: 2021-12-31
-version_adopted: 2021-08-23
+version: 2022-01-01
+valid_until: 2023-07-31
+version_adopted: 2021-11-09
 adopted: 2006-06-06
 in_force: 2006-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/432"
-pdf: "https://srl.lu.ch/api/de/versions/3812/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3845/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über die Berufsbildung und die Weiterbildung
 
-vom 06.06.2006 (Stand 01.09.2021)
+vom 06.06.2006 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -851,11 +851,9 @@ beschliesst:
 
 **Kosten**
 
-<sup>1</sup> Die Information und Beratung für Jugendliche und Erwachsene bis zum vollendeten 25. Altersjahr sowie die Information an Bildungseinrichtungen sind kostenlos.
+<sup>1</sup> Die Information und Beratung für Jugendliche und Erwachsene sowie die Information an Bildungseinrichtungen sind kostenlos.
 
-<sup>2</sup> Erwachsene ab dem vollendeten 25. Altersjahr haben für Angebote die vom Regierungsrat festgelegten Gebühren[^73-1] zu entrichten.
-
-[^73-1]: Beschluss des Regierungsrates über die Gebühren für die Angebote der Berufs-, Studien- und Laufbahnberatung vom 4. September 2018, SRL Nr. [426](https://srl.lu.ch/data/426/de).
+<sup>2</sup> …
 
 ### 7.2 Schulberatung (schulpsychologische Dienste)
 
