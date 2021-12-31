@@ -3,11 +3,11 @@ canton: ZH
 number: "101"
 title: Verfassung des Kantons Zürich
 language: de
-version: "2018-02-01"
-nachtrag: "103"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "116"
+valid_until: 2022-11-01
 adopted: 2005-02-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-101-2005_02_27-2006_01_01-103.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-101-2005_02_27-2006_01_01-116.html"
 text: pdf
 ---
 
@@ -70,7 +70,7 @@ Der Kanton arbeitet mit den Gemeinden, den anderen Kantonen, dem Bund und, in se
 
 **1**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 22 - 115
 
 #### Art. 5
 
@@ -202,7 +202,7 @@ ziele des Kantons und der Gemeinden.
 
 **3**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Kanton und Gemeinden setzen sich im Weiteren dafür ein, dass a. Eltern vor und nach der Geburt eines Kindes nicht in eine Notlage geraten;
 
@@ -302,7 +302,7 @@ ausgearbeiteter Entwurf eingereicht werden. Die Initiative auf Totalrevision der
 
 **5**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 22 - 115
 
 #### Art. 26
 
@@ -398,9 +398,7 @@ breitet:
 
 - d. Beschlüsse des Kantonsrates über:
 
-- 1\. neue einmalige Ausgaben von mehr als 6 Millionen Franken,
-
-- 2\. neue wiederkehrende Ausgaben von jährlich mehr als 600 000 Franken;
+1.[^33-1] neue einmalige Ausgaben von mehr als 4 Millionen Franken, 2.[^33-1] neue wiederkehrende Ausgaben von jährlich mehr als 400 000 Franken;
 
 - e. Beschlüsse des Kantonsrates von grundlegender Bedeutung, die langfristige Auswirkungen auf die allgemeinen Lebensgrundlagen haben;
 
@@ -416,11 +414,13 @@ breitet:
 
 **7**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 22 - 115
 
 <sup>3</sup> Die Volksabstimmung muss innert 60 Tagen nach der amtlichen Veröffentlichung des Kantonsratsbeschlusses schriftlich verlangt werden. Beim Kantonsratsreferendum beträgt die Frist 14 Tage ab Beschluss des Rates.
 
 <sup>4</sup> Die Gemeinden bestimmen, welches Organ das Gemeindereferendum ergreifen kann. Die Stadt Zürich und die Stadt Winterthur können nur mit Beschluss ihres Parlaments das Referendum alleine ergreifen.
+
+[^33-1]: Fassung gemäss Änderung vom 17. August 2020 (OS 76, 371; ABl 2019-05-03). In Kraft seit 1. Januar 2022. Vom Bund gewährleistet durch Bundesbeschluss vom 16. März 2022 (BBl 2022, 780). 1. 1. 22 - 115 29
 
 #### Art. 34
 
@@ -436,9 +436,11 @@ rat ausnahmsweise beschliessen:
 
 <sup>2</sup> Findet keine Volksabstimmung statt, so gilt die vom Kantonsrat verabschiedete Hauptvorlage.
 
+[^34-1]: Aufgehoben durch Änderung vom 23. April 2012 (OS 68, 131; ABl 2011, 3157). In Kraft seit 1. Mai 2013. Vom Bund gewährleistet durch Bundesbeschluss vom 24. September 2014 (BBl 2014, 7859).
+
 #### Art. 35
 
-<sup>6</sup>
+[^34-1]
 
 #### Art. 36
 
@@ -528,7 +530,7 @@ Jahre.
 
 **9**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 22 - 115
 
 #### Art. 42
 
@@ -672,9 +674,11 @@ staatlichen Tätigkeit Stellung. Er äussert sich insbesondere zu den Schwerpunk
 
 <sup>2</sup> Er beschliesst über die Grundzüge der räumlichen Entwicklung.
 
+[^55-1]: Fassung gemäss Änderung vom 17. August 2020 (OS 76, 371; ABl 2019-05-03). In Kraft seit 1. Januar 2022. Vom Bund gewährleistet durch Bundesbeschluss vom 16. März 2022 (BBl 2022, 780). 1. 1. 22 - 115 29
+
 #### Art. 56
 
-**Finanzbefugnisse**
+**Finanzbefugnisse**[^55-1]
 
 <sup>1</sup> Der Kantonsrat beschliesst mit einfachem Mehr über:
 
@@ -684,17 +688,17 @@ staatlichen Tätigkeit Stellung. Er äussert sich insbesondere zu den Schwerpunk
 
 - c. die Genehmigung der Staatsrechnung;
 
-- d. die Veräusserung von Vermögenswerten über 3 Millionen Franken, die öffentlichen Zwecken dienen.
+- d. die Veräusserung von Vermögenswerten über 4 Millionen Franken, die öffentlichen Zwecken dienen.
 
 **11**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Der Zustimmung der Mehrheit aller Mitglieder bedürfen:
 
-- a. neue einmalige Ausgaben von mehr als 3 Millionen Franken;
+- a. neue einmalige Ausgaben von mehr als 4 Millionen Franken;
 
-- b. neue wiederkehrende Ausgaben von jährlich mehr als 300 000 Franken;
+- b. neue wiederkehrende Ausgaben von jährlich mehr als 400 000 Franken;
 
 - c. Beschlüsse im Rahmen der Budgetberatung, die zu einer höheren Belastung des Kantons gegenüber dem Entwurf des Regierungsrates führen;
 
@@ -824,9 +828,11 @@ der Rechtsetzung. Er weist in seinen Berichten auf die langfristigen ökologisch
 
 <sup>2</sup> Er kann Verordnungen über den Vollzug von Gesetzen erlassen.
 
+[^67-1]: Fassung gemäss Änderung vom 17. August 2020 (OS 76, 371; ABl 2019-05-03). In Kraft seit 1. Januar 2022. Vom Bund gewährleistet durch Bundesbeschluss vom 16. März 2022 (BBl 2022, 780). 1. 1. 22 - 115 29
+
 #### Art. 68
 
-**Finanzbefugnisse**
+**Finanzbefugnisse**[^67-1]
 
 <sup>1</sup> Der Regierungsrat erarbeitet den Budgetentwurf und
 
@@ -834,17 +840,17 @@ die Staatsrechnung.
 
 **13**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Er beschliesst im Rahmen des Budgets über:
 
-- a. neue einmalige Ausgaben bis 3 Millionen Franken;
+- a. neue einmalige Ausgaben bis 4 Millionen Franken;
 
-- b. neue wiederkehrende Ausgaben bis jährlich 300 000 Franken;
+- b. neue wiederkehrende Ausgaben bis jährlich 400 000 Franken;
 
 - c. gebundene Ausgaben.
 
-<sup>3</sup> Er beschliesst über die Veräusserung von Vermögenswerten bis 3 Millionen Franken, die öffentlichen Zwecken dienen.
+<sup>3</sup> Er beschliesst über die Veräusserung von Vermögenswerten bis 4 Millionen Franken, die öffentlichen Zwecken dienen.
 
 #### Art. 69
 
@@ -962,7 +968,7 @@ gen sind, gewährleistet das Gesetz die wirksame Überprüfung durch eine Rekurs
 
 **15**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 22 - 115
 
 #### Art. 78
 
@@ -1084,7 +1090,7 @@ sieht insbesondere ein Initiativrecht, ein Referendumsrecht und ein Anfragerecht
 
 **17**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Die Stimmberechtigten entscheiden an der Urne über:
 
@@ -1208,7 +1214,7 @@ Kanton in Bezirke eingeteilt. Das Gesetz bezeichnet ihre Gebiete.
 
 **19**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 22 - 115
 
 #### Art. 97
 
@@ -1302,9 +1308,11 @@ schaftliche und umweltgerechte Ordnung des gesamten Verkehrs und für ein leistu
 
 <sup>2</sup> Der Kanton übt die Hoheit über die Staatsstrassen aus.
 
-<sup>2bis</sup> Der Kanton sorgt für ein leistungsfähiges Staatsstrassennetz für den motorisierten Privatverkehr. Eine Verminderung der Leistungsfähigkeit einzelner Abschnitte ist im umliegenden Strassennetz mindestens auszugleichen.<sup>7</sup>
+<sup>2bis</sup> Der Kanton sorgt für ein leistungsfähiges Staatsstrassennetz für den motorisierten Privatverkehr. Eine Verminderung der Leistungsfähigkeit einzelner Abschnitte ist im umliegenden Strassennetz mindestens auszugleichen.[^104-1]
 
 <sup>3</sup> Kanton und Gemeinden fördern den öffentlichen Personenverkehr im ganzen Kantonsgebiet.
+
+[^104-1]: Eingefügt durch Änderung vom 13. März 2017 (OS 73, 5; ABl 2016-02-05). In Kraft seit 1. Februar 2018. Vom Bund gewährleistet durch Bundesbeschluss vom 17. September 2018 (BBl 2018, 6287).
 
 #### Art. 105
 
@@ -1330,7 +1338,7 @@ eine ausreichende, umweltschonende, wirtschaftliche und sichere Energieversorgun
 
 **21**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 22 - 115
 
 #### Art. 107
 
@@ -1476,7 +1484,7 @@ Finanzhaushalt.
 
 **23**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 22 - 115
 
 #### Art. 123
 
@@ -1604,7 +1612,7 @@ ten des öffentlichen Rechts:
 
 **25**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 22 - 115
 
 - b. die Zuständigkeit für die Neubildung, den Zusammenschluss und die Auflösung von Kirchgemeinden.
 
@@ -1738,7 +1746,7 @@ Amtsdauer nach bisherigem Recht im Amt.
 
 **27**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Findet eine Erneuerungswahl innert zwei Jahren nach Inkrafttreten dieser Verfassung statt, erfolgt sie nach bisherigem Recht auf eine volle Amtsdauer.
 
@@ -1775,11 +1783,3 @@ tungen des Staates an die kirchlichen Körperschaften bleiben bis zur gesetzlich
 ### Übergangsbestimmung zur Änderung vom 23. April 2012 (OS 68, 131)
 
 Hat der Kantonsrat vor Inkraftsetzung dieser Verfassungsänderung eine Vorlage beschlossen, so gilt für das Referendum das bisherige Recht.
-
-<sup>6</sup> Aufgehoben durch Änderung vom 23. April 2012 (OS 68, 131; ABl 2011, 3157). In Kraft seit 1. Mai 2013. Vom Bund gewährleistet durch Bundesbeschluss vom 24. September 2014 (BBl 2014, 7859).
-
-<sup>7</sup> Eingefügt durch Änderung vom 13. März 2017 (OS 73, 5; ABl 2016-02-05). In Kraft seit 1. Februar 2018. Vom Bund gewährleistet durch Bundesbeschluss vom 17. September 2018 (BBl 2018, 6287).
-
-**29**
-
-- 1\. 1. 19 - 103
