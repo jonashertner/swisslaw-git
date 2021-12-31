@@ -4,11 +4,11 @@ title: Verordnung vom 26. August 2009 über die operative Zusammenarbeit mit den
 short: VZAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/538"
 language: de
-version: 2018-09-15
+version: 2022-01-01
 adopted: 2009-08-26
 in_force: 2009-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/538/20180915/de/xml/fedlex-data-admin-ch-eli-cc-2009-538-20180915-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/538/20180915/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/538/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2009-538-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/538/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/538/20180915/de"
 
 (VZAG)
 
-vom 26. August 2009 (Stand am 15. September 2018)
+vom 26. August 2009 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -36,25 +36,26 @@ verordnet:
 
 <sup>1</sup>
 
-Diese Verordnung regelt die Modalitäten der operativen Zusammenarbeit an den Aussengrenzen des Schengen-Raums zwischen der Eidgenössischen Zollverwaltung (EZV) einerseits und der für die Überwachung der Schengen-Aussengrenzen zuständigen Agentur der Europäischen Union (Agentur) und den anderen Schengen-Staaten andererseits im Sinne der folgenden EU-Verordnungen:
+Diese Verordnung regelt die Modalitäten der operativen Zusammenarbeit an den Aussengrenzen des Schengen-Raums zwischen dem Bundesamt für Zoll und Grenzsicherheit (BAZG)[^1-1] einerseits und der für die Überwachung der Schengen-Aussengrenzen zuständigen Agentur der Europäischen Union (Agentur) und den anderen Schengen-Staaten andererseits im Sinne der folgenden EU-Verordnungen:
 
-- a. Verordnung (EU) 2016/1624[^1-1];
-- b. Verordnung (EU) Nr. 1052/2013[^1-2] (EUROSUR-Verordnung).[^1-3]
+- a. Verordnung (EU) 2016/1624[^1-2];
+- b. Verordnung (EU) Nr. 1052/2013[^1-3] (EUROSUR-Verordnung).[^1-4]
 
-<sup>1bis</sup> Sie regelt überdies den Einsatz von Dokumentenberaterinnen und ‑beratern.[^1-4]
+<sup>1bis</sup> Sie regelt überdies den Einsatz von Dokumentenberaterinnen und ‑beratern.[^1-5]
 
 <sup>2</sup> Für das schweizerische Personal nach Artikel 2 Buchstabe a regelt diese Verordnung die Modalitäten des Einsatzes, soweit dafür nicht der Einsatzstaat zuständig ist, sowie die Besonderheiten im Arbeitsverhältnis.
 
 <sup>3</sup> Für das ausländische Personal nach Artikel 2 Buchstabe b regelt sie die Modalitäten des Einsatzes in der Schweiz.
 
-<sup>4</sup> Für die Zusammenarbeit bei internationalen Rückführungseinsätzen gelten die Artikel 15*b*–15*e*<sup>quater</sup> der Verordnung vom 11. August 1999[^1-5] über den Vollzug der Weg- und Ausweisung sowie der Landesverweisung von ausländischen Personen.[^1-6]
+<sup>4</sup> Für die Zusammenarbeit bei internationalen Rückführungseinsätzen gelten die Artikel 15*b*–15*e*<sup>quater</sup> der Verordnung vom 11. August 1999[^1-6] über den Vollzug der Weg- und Ausweisung sowie der Landesverweisung von ausländischen Personen.[^1-7]
 
-[^1-1]: Verordnung (EU) 2016/1624 des Europäischen Parlaments und des Rates vom 14. September 2016 über die Europäische Grenz- und Küstenwache und zur Änderung der Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates sowie zur Aufhebung der Verordnung (EG) Nr. 863/2007 des Europäischen Parlaments und des Rates, der Verordnung (EG) Nr. 2007/2004 des Rates und der Entscheidung des Rates 2005/267/EG, Fassung gemäss ABl. L 251 vom 16.9.2016, S. 1.
-[^1-2]: Verordnung (EU) Nr. 1052/2013 des Europäischen Parlaments und des Rates vom 22. Oktober 2013 zur Errichtung eines Europäischen Grenzüberwachungssystems (EUROSUR), Fassung gemäss ABl. L 295 vom 6.11.2013, S. 11.
-[^1-3]: Fassung gemäss Anhang der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^1-4]: Eingefügt durch Ziff. I der V vom 12. Aug. 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2749](https://fedlex.data.admin.ch/eli/oc/2015/520)).
-[^1-5]: [SR 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
-[^1-6]: Eingefügt durch Anhang der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+[^1-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^1-2]: Verordnung (EU) 2016/1624 des Europäischen Parlaments und des Rates vom 14. September 2016 über die Europäische Grenz- und Küstenwache und zur Änderung der Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates sowie zur Aufhebung der Verordnung (EG) Nr. 863/2007 des Europäischen Parlaments und des Rates, der Verordnung (EG) Nr. 2007/2004 des Rates und der Entscheidung des Rates 2005/267/EG, Fassung gemäss ABl. L 251 vom 16.9.2016, S. 1.
+[^1-3]: Verordnung (EU) Nr. 1052/2013 des Europäischen Parlaments und des Rates vom 22. Oktober 2013 zur Errichtung eines Europäischen Grenzüberwachungssystems (EUROSUR), Fassung gemäss ABl. L 295 vom 6.11.2013, S. 11.
+[^1-4]: Fassung gemäss Anhang der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+[^1-5]: Eingefügt durch Ziff. I der V vom 12. Aug. 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2749](https://fedlex.data.admin.ch/eli/oc/2015/520)).
+[^1-6]: [SR 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
+[^1-7]: Eingefügt durch Anhang der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 
 #### Art. 2
 
@@ -62,7 +63,7 @@ Diese Verordnung regelt die Modalitäten der operativen Zusammenarbeit an den Au
 
 Im Sinne dieser Verordnung gelten als:
 
-- a.[^2-1] *schweizerisches Personal:* Mitarbeiterinnen und Mitarbeiter schweizerischer Grenzschutzbehörden, die unter der Leitung der EZV zusammen mit ausländischem Personal bei Einsätzen zum Schutz der Aussengrenzen des Schengen-Raums mitwirken oder die als Dokumentenberaterinnen oder -berater tätig sind;
+- a.[^2-1] *schweizerisches Personal:* Mitarbeiterinnen und Mitarbeiter schweizerischer Grenzschutzbehörden, die unter der Leitung des BAZG zusammen mit ausländischem Personal bei Einsätzen zum Schutz der Aussengrenzen des Schengen-Raums mitwirken oder die als Dokumentenberaterinnen oder -berater tätig sind;
 - b. *ausländisches Personal:* Mitarbeiterinnen und Mitarbeiter ausländischer Grenzschutzbehörden, die zusammen mit schweizerischem Personal bei Einsätzen an den Aussengrenzen des Schengen-Raums in der Schweiz mitwirken;
 - c. *Schengen-Staaten:* die Staaten, die durch eines der Schengen-Assoziierungsabkommen nach Anhang 1 gebunden sind.
 
@@ -72,15 +73,15 @@ Im Sinne dieser Verordnung gelten als:
 
 **Zuständigkeiten**[^3-1]
 
-<sup>1</sup> Die EZV ist zuständig für die Zusammenarbeit mit der Agentur und die Umsetzung der Beschlüsse des Verwaltungsrates und der Exekutivdirektorin oder des Exekutivdirektors. Sie kann zu diesem Zweck Vereinbarungen mit der Agentur abschliessen.
+<sup>1</sup> Das BAZG ist zuständig für die Zusammenarbeit mit der Agentur und die Umsetzung der Beschlüsse des Verwaltungsrates und der Exekutivdirektorin oder des Exekutivdirektors. Es kann zu diesem Zweck Vereinbarungen mit der Agentur abschliessen.
 
-<sup>2</sup> Sie nimmt Einsitz im Verwaltungsrat der Agentur.
+<sup>2</sup> Es nimmt Einsitz im Verwaltungsrat der Agentur.
 
-<sup>3</sup> Sie ist die nationale Kontaktstelle im Sinne von Artikel 23 der Verordnung (EU) 2016/1624[^3-2].
+<sup>3</sup> Es ist die nationale Kontaktstelle im Sinne von Artikel 23 der Verordnung (EU) 2016/1624[^3-2].
 
 <sup>4</sup>
 
-Sie ist insbesondere zuständig für:
+Es ist insbesondere zuständig für:
 
 - a. die Zusammenarbeit mit den Verbindungsoffizierinnen und Verbindungsoffizieren der Agentur nach der Verordnung (EU) 2016/1624;
 - b. die Koordination der Schwachstellenbeurteilung nach der Verordnung (EU) 2016/1624;
@@ -97,7 +98,7 @@ Sie ist insbesondere zuständig für:
 
 **Einsatz in der Schweiz**[^3a-1]
 
-Bei einem Einsatz von ausländischem Personal in der Schweiz ist die EZV zuständig für:
+Bei einem Einsatz von ausländischem Personal in der Schweiz ist das BAZG zuständig für:
 
 - a. die Einreichung bei der Agentur von Gesuchen um Entsendung von europäischen Grenz- und Küstenwacheteams;
 - b. die Mitwirkung bei der Ausarbeitung der Einsatzpläne;
@@ -109,7 +110,7 @@ Bei einem Einsatz von ausländischem Personal in der Schweiz ist die EZV zustän
 
 **Einsatz im Ausland**[^3b-1]
 
-Bei einem gestützt auf die Verordnung (EU) 2016/1624[^3b-2] beschlossenen Einsatz von schweizerischem Personal im Ausland ist die EZV zuständig für:
+Bei einem gestützt auf die Verordnung (EU) 2016/1624[^3b-2] beschlossenen Einsatz von schweizerischem Personal im Ausland ist das BAZG zuständig für:
 
 - a. die Auswahl ihres Personals und die Dauer seiner Entsendung;
 - b. die Bereitstellung von Personal aus dem Soforteinsatzpool nach Anhang I der Verordnung (EU) 2016/1624;
@@ -122,11 +123,11 @@ Bei einem gestützt auf die Verordnung (EU) 2016/1624[^3b-2] beschlossenen Einsa
 
 **Informationsaustausch**[^3c-1]
 
-<sup>1</sup> Die EZV ist zuständig für den Informationsaustausch nach Artikel 10 der Verordnung (EU) 2016/1624[^3c-2].
+<sup>1</sup> Das BAZG ist zuständig für den Informationsaustausch nach Artikel 10 der Verordnung (EU) 2016/1624[^3c-2].
 
-<sup>2</sup> Die EZV darf der Agentur nur die Daten nach den Artikeln 47 und 48 Absatz 2 der Verordnung (EU) 2016/1624 zu den Zwecken nach den Artikeln 46 und 48 Absatz 1 der Verordnung (EU) 2016/1624 übermitteln.
+<sup>2</sup> Das BAZG darf der Agentur nur die Daten nach den Artikeln 47 und 48 Absatz 2 der Verordnung (EU) 2016/1624 zu den Zwecken nach den Artikeln 46 und 48 Absatz 1 der Verordnung (EU) 2016/1624 übermitteln.
 
-<sup>3</sup> In Absprache mit dem SEM übermittelt die EZV der Agentur die Informationen über internationale Rückführungseinsätze.
+<sup>3</sup> In Absprache mit dem SEM übermittelt das BAZG der Agentur die Informationen über internationale Rückführungseinsätze.
 
 [^3c-1]: Eingefügt durch Anhang der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 [^3c-2]: Siehe Fussnote zu Art. 1 Abs. 1 Bst. a.
@@ -135,7 +136,7 @@ Bei einem gestützt auf die Verordnung (EU) 2016/1624[^3b-2] beschlossenen Einsa
 
 **Zusammenarbeit im Rahmen von EUROSUR**[^3d-1]
 
-Die EZV ist zuständig für:
+Das BAZG ist zuständig für:
 
 - a. die Zusammenarbeit und den Informationsaustausch auf der Grundlage der EUROSUR-Verordnung[^3d-2];
 - b. den Aufbau und Betrieb des nationalen Koordinierungszentrums im Sinne von Artikel 5 der EUROSUR-Verordnung.
@@ -149,15 +150,14 @@ Die EZV ist zuständig für:
 
 **Einsatzpersonal**
 
-<sup>1</sup> Die EZV[^4-1] unterhält einen Mitarbeiterpool mit spezialisiertem Personal, das für Einsätze im Ausland speziell aus- und weitergebildet wird.
+<sup>1</sup> Das BAZG unterhält einen Mitarbeiterpool mit spezialisiertem Personal, das für Einsätze im Ausland speziell aus- und weitergebildet wird.
 
-<sup>2</sup> Die Teilnahme am Mitarbeiterpool ist freiwillig. Die Voraussetzungen für die Aus‑ und Weiterbildung sowie für den Austritt aus dem Pool werden von der EZV bestimmt.[^4-2]
+<sup>2</sup> Die Teilnahme am Mitarbeiterpool ist freiwillig. Die Voraussetzungen für die Aus‑ und Weiterbildung sowie für den Austritt aus dem Pool werden vom BAZG bestimmt.[^4-1]
 
-<sup>3</sup> Die Einsatzregeln für jede Mitarbeiterin und jeden Mitarbeiter des Pools werden von der EZV in einem Einsatzbefehl festgelegt. Für die Einsätze im Rahmen der Agentur richtet sich der Einsatzbefehl der EZV nach demjenigen der Agentur.[^4-3]
+<sup>3</sup> Die Einsatzregeln für jede Mitarbeiterin und jeden Mitarbeiter des Pools werden vom BAZG in einem Einsatzbefehl festgelegt. Für die Einsätze im Rahmen der Agentur richtet sich der Einsatzbefehl des BAZG nach demjenigen der Agentur.[^4-2]
 
-[^4-1]: Ausdruck gemäss Anhang der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^4-1]: Fassung gemäss Anhang der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 [^4-2]: Fassung gemäss Anhang der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^4-3]: Fassung gemäss Anhang der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 
 #### Art. 5
 
@@ -175,7 +175,7 @@ Die EZV ist zuständig für:
 
 **Ausrüstung und Bewaffnung**
 
-<sup>1</sup> Die EZV bestimmt die Ausrüstung des Einsatzpersonals und trägt die Kosten.
+<sup>1</sup> Das BAZG bestimmt die Ausrüstung des Einsatzpersonals und trägt die Kosten.
 
 <sup>2</sup> Das schweizerische Personal darf im Ausland Waffen und Ausrüstung nach Artikel 227 der Zollverordnung vom 1. November 2006[^6-1] (ZV) mitführen. Strengere Vorschriften des Einsatzstaats bleiben vorbehalten.
 
@@ -208,13 +208,13 @@ Andere Verwaltungseinheiten unterstützen die Einsätze von schweizerischem Pers
 
 <sup>1</sup> Die Arbeitszeit richtet sich nach den Bedürfnissen des Einsatzes.
 
-<sup>2</sup> Als Einsatzzeit gilt die Zeit, während deren sich die Mitarbeiterinnen und Mitarbeiter nicht im regulären Betrieb der EZV befinden. Dazu gehören insbesondere die Briefing-Tage, die Packtage, die zusätzlichen freien Tage nach Absatz 3 sowie die Zeit vom Beginn bis zum Ende des Einsatzes, zu der auch die notwendige Reisezeit gehört.
+<sup>2</sup> Als Einsatzzeit gilt die Zeit, während deren sich die Mitarbeiterinnen und Mitarbeiter nicht im regulären Betrieb des BAZG befinden. Dazu gehören insbesondere die Briefing-Tage, die Packtage, die zusätzlichen freien Tage nach Absatz 3 sowie die Zeit vom Beginn bis zum Ende des Einsatzes, zu der auch die notwendige Reisezeit gehört.
 
 <sup>2bis</sup> Das Personal hat am Beginn und am Ende eines Einsatzes je Anspruch auf höchstens zwei Packtage.[^9-2]
 
 <sup>3</sup> Für jeden vierwöchigen Einsatz besteht Anspruch auf einen freien Tag. Damit sind die Feiertage am Einsatzort abgegolten. Für gesamtschweizerische Feiertage, die auf einen Werktag fallen, werden zusätzliche freie Tage gewährt.
 
-<sup>4</sup> Freie Tage aus der Zeit des Einsatzes sind während dessen Dauer zu kompensieren und zu beziehen. Nicht kompensierte oder bezogene Guthaben gelten mit dem Ende des Einsatzes als verfallen und werden nicht durch Geldleistungen oder andere Vergünstigungen abgegolten. Die EZV kann in begründeten Fällen Ausnahmen bewilligen.[^9-3]
+<sup>4</sup> Freie Tage aus der Zeit des Einsatzes sind während dessen Dauer zu kompensieren und zu beziehen. Nicht kompensierte oder bezogene Guthaben gelten mit dem Ende des Einsatzes als verfallen und werden nicht durch Geldleistungen oder andere Vergünstigungen abgegolten. Das BAZG kann in begründeten Fällen Ausnahmen bewilligen.[^9-3]
 
 <sup>5</sup> Für Mehrarbeit, Überzeit oder Sonntags- und Nachtarbeit besteht nach dem Ende des Einsatzes kein Anspruch auf Zeitkompensation oder Vergütung.
 
@@ -230,19 +230,17 @@ Andere Verwaltungseinheiten unterstützen die Einsätze von schweizerischem Pers
 
 <sup>2</sup> Nicht bezogene Ferienreisen verfallen mit der Entstehung eines neuen Anrechts oder mit dem Ende des Einsatzes.
 
-<sup>3</sup> Die EZV[^10-1] übernimmt die Kosten der Ferienreise, höchstens jedoch den Betrag der direkten Reise zwischen dem Einsatzort und der Schweiz oder dem Wohnsitz im Ausland zum kostengünstigsten Arrangement in der Economy-Klasse. Vorbehalten bleibt Artikel 13 Absatz 2.
-
-[^10-1]: Ausdruck gemäss Anhang der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+<sup>3</sup> Das BAZG übernimmt die Kosten der Ferienreise, höchstens jedoch den Betrag der direkten Reise zwischen dem Einsatzort und der Schweiz oder dem Wohnsitz im Ausland zum kostengünstigsten Arrangement in der Economy-Klasse. Vorbehalten bleibt Artikel 13 Absatz 2.
 
 #### Art. 11
 
 **Urlaub und Urlaubsreisen**
 
-<sup>1</sup> …[^11-1]
+<sup>1</sup> ...[^11-1]
 
 <sup>2</sup> Bei Hochzeiten, Geburten und Todesfällen sowie bei Erkrankungen und Unfällen nach Artikel 40 Absatz 3 der Verordnung des EFD vom 6. Dezember 2001[^11-2] zur Bundespersonalverordnung (VBPV) kann der Urlaub für die Dauer der Reise, jedoch um höchstens vier Tage verlängert werden.
 
-<sup>3</sup> Die EZV kann die Reisekosten in den Fällen nach Artikel 40 Absatz 3 Buchstaben a–e und g VBPV übernehmen. Artikel 10 Absatz 3 gilt sinngemäss.
+<sup>3</sup> Das BAZG kann die Reisekosten in den Fällen nach Artikel 40 Absatz 3 Buchstaben a–e und g VBPV übernehmen. Artikel 10 Absatz 3 gilt sinngemäss.
 
 [^11-1]: Aufgehoben durch Anhang der V vom 15. Aug. 2018, mit Wirkung seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 [^11-2]: [SR 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
@@ -253,17 +251,17 @@ Andere Verwaltungseinheiten unterstützen die Einsätze von schweizerischem Pers
 
 **Reise- und Ausweispapiere**
 
-Die EZV beschafft in Zusammenarbeit mit dem Eidgenössischen Departement für auswärtige Angelegenheiten (EDA) die einsatzspezifischen Reise- und Ausweispapiere.
+Das BAZG beschafft in Zusammenarbeit mit dem Eidgenössischen Departement für auswärtige Angelegenheiten (EDA) die einsatzspezifischen Reise- und Ausweispapiere.
 
 #### Art. 13
 
 **Reisekosten**
 
-<sup>1</sup> Die EZV übernimmt die Reisekosten für den direkten Hin- und Rückweg. Diese werden nach den Artikeln 45, 46 und 47 Absatz 1 VBPV[^13-1] berechnet.
+<sup>1</sup> Das BAZG übernimmt die Reisekosten für den direkten Hin- und Rückweg. Diese werden nach den Artikeln 45, 46 und 47 Absatz 1 VBPV[^13-1] berechnet.
 
 <sup>2</sup> Die Reisekosten werden nicht übernommen, wenn eine kostenlose Transportmöglichkeit zur Verfügung steht.
 
-<sup>3</sup> Private Motorfahrzeuge dürfen nur nach vorgängiger Bewilligung der EZV verwendet werden.[^13-2]
+<sup>3</sup> Private Motorfahrzeuge dürfen nur nach vorgängiger Bewilligung des BAZG verwendet werden.[^13-2]
 
 [^13-1]: [SR 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
 [^13-2]: Fassung gemäss Anhang der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
@@ -274,7 +272,7 @@ Die EZV beschafft in Zusammenarbeit mit dem Eidgenössischen Departement für au
 
 <sup>1</sup> Persönliche Effekten können je nach Einsatzdauer und örtlichen Verhältnissen als begleitetes Gepäck, Übergepäck oder Fracht transportiert werden.
 
-<sup>2</sup> Die EZV organisiert den Transport und übernimmt die tatsächlichen Kosten des Transports der Effekten.
+<sup>2</sup> Das BAZG organisiert den Transport und übernimmt die tatsächlichen Kosten des Transports der Effekten.
 
 <sup>3</sup> Art und Umfang des Transports richten sich nach Anhang 2.
 
@@ -286,7 +284,7 @@ Die EZV beschafft in Zusammenarbeit mit dem Eidgenössischen Departement für au
 
 <sup>1</sup> Für jeden Einsatz wird eine Einsatzzulage von 60 Franken pro Tag gewährt. Sie dient der Abgeltung besonderer Einsatzbedingungen wie permanenter Verfügbarkeit, Entbehrungen und erhöhter Risiken sowie dem materiellen Ausgleich für die mit dem Einsatz direkt verbundenen Mehrkosten.
 
-<sup>2</sup> Mit der Einsatzzulage gelten die im regulären Betrieb der EZV entstehenden Ansprüche aus Sonntags-, Nacht- und Schichtarbeit sowie dem Pikettdienst als abgegolten.
+<sup>2</sup> Mit der Einsatzzulage gelten die im regulären Betrieb des BAZG entstehenden Ansprüche aus Sonntags-, Nacht- und Schichtarbeit sowie dem Pikettdienst als abgegolten.
 
 <sup>3</sup> Der Anspruch auf die Einsatzzulage besteht für die gesamte Dauer des Einsatzes.
 
@@ -296,9 +294,9 @@ Die EZV beschafft in Zusammenarbeit mit dem Eidgenössischen Departement für au
 
 <sup>1</sup> Die Vergütung für Mahlzeiten und Übernachtungen richtet sich sinngemäss nach den vom EDA gestützt auf Artikel 67 der Verordnung des EDA vom 20. September 2002[^16-1] zur Bundespersonalverordnung festgesetzten Vergütungen.
 
-<sup>2</sup> Die EZV kann für die Mahlzeiten ein Taggeld ausrichten, das den ortsüblichen Kosten entspricht. Sie kann es nach 60 Tagen Einsatz kürzen.
+<sup>2</sup> Das BAZG kann für die Mahlzeiten ein Taggeld ausrichten, das den ortsüblichen Kosten entspricht. Es kann es nach 60 Tagen Einsatz kürzen.
 
-<sup>3</sup> Sie kann die tatsächlichen Kosten für eine zweckmässige ortsübliche Unterkunft vergüten. Kosten für Hotelunterkünfte werden höchstens während der ersten 60 Tage des Einsatzes übernommen. Aus Gründen der Sicherheit oder wenn es die Verhältnisse gebieten, kann von dieser Frist abgewichen werden.
+<sup>3</sup> Es kann die tatsächlichen Kosten für eine zweckmässige ortsübliche Unterkunft vergüten. Kosten für Hotelunterkünfte werden höchstens während der ersten 60 Tage des Einsatzes übernommen. Aus Gründen der Sicherheit oder wenn es die Verhältnisse gebieten, kann von dieser Frist abgewichen werden.
 
 [^16-1]: [SR 172.220.111.343.3](https://fedlex.data.admin.ch/eli/cc/2002/427)
 
@@ -316,7 +314,7 @@ Die EZV beschafft in Zusammenarbeit mit dem Eidgenössischen Departement für au
 
 **Versicherung**
 
-Die EZV setzt im Einvernehmen mit der Eidgenössischen Finanzverwaltung allfällige angemessene Leistungen des Bundes fest für die Risiken Bergung, Repatriierung, Heilungskosten, Invalidität und Tod, die über diejenigen der Schweizerischen Unfallversicherungsanstalt sowie der Krankenversicherungen des Personals hinausgehen.
+Das BAZG setzt im Einvernehmen mit der Eidgenössischen Finanzverwaltung allfällige angemessene Leistungen des Bundes fest für die Risiken Bergung, Repatriierung, Heilungskosten, Invalidität und Tod, die über diejenigen der Schweizerischen Unfallversicherungsanstalt sowie der Krankenversicherungen des Personals hinausgehen.
 
 #### Art. 19
 
@@ -330,13 +328,13 @@ Die EZV setzt im Einvernehmen mit der Eidgenössischen Finanzverwaltung allfäll
 
 **Gesundheitsschutz**
 
-Die EZV trifft die Massnahmen, die notwendig sind, um den Gesundheitsschutz der Angehörigen des Mitarbeiterpools zu wahren und zu verbessern und um deren physische und psychische Gesundheit zu gewährleisten.
+Das BAZG trifft die Massnahmen, die notwendig sind, um den Gesundheitsschutz der Angehörigen des Mitarbeiterpools zu wahren und zu verbessern und um deren physische und psychische Gesundheit zu gewährleisten.
 
 #### Art. 21
 
 **Unterstützung in Verfahren**
 
-Wird das schweizerische Personal in Ausübung seiner dienstlichen Tätigkeit im Ausland in ein Zivil- oder ein Strafverfahren verwickelt, so kann die EZV in Ausnahmefällen rechtliche und finanzielle Unterstützung leisten. Sie unterstützt das betroffene Personal namentlich bei der Vermittlung einer anwaltlichen Vertretung im Ausland.
+Wird das schweizerische Personal in Ausübung seiner dienstlichen Tätigkeit im Ausland in ein Zivil- oder ein Strafverfahren verwickelt, so kann das BAZG in Ausnahmefällen rechtliche und finanzielle Unterstützung leisten. Es unterstützt das betroffene Personal namentlich bei der Vermittlung einer anwaltlichen Vertretung im Ausland.
 
 ## 5. Abschnitt: Ausländisches Personal in der Schweiz
 
@@ -346,13 +344,13 @@ Wird das schweizerische Personal in Ausübung seiner dienstlichen Tätigkeit im 
 
 <sup>1</sup> Das ausländische Personal ist während des Einsatzes in der Schweiz den zuständigen schweizerischen Behörden unterstellt.[^22-1]
 
-<sup>2</sup> Die EZV vereinbart die Mittel und Modalitäten des Einsatzes mit der Agentur und den anderen Schengen-Staaten.[^22-2]
+<sup>2</sup> Das BAZG vereinbart die Mittel und Modalitäten des Einsatzes mit der Agentur und den anderen Schengen-Staaten.[^22-2]
 
 <sup>3</sup> Das ausländische Personal ist nur unter der Einsatzleitung von schweizerischem Personal zur Vornahme hoheitlicher Tätigkeiten befugt.
 
 <sup>4</sup> Die Befugnisse können in begründeten Fällen entzogen werden*.*
 
-<sup>5</sup> Das ausländische Personal ist im Einsatz gekennzeichnet und trägt seine nationale Uniform. Die EZV kann Ausnahmen anordnen.
+<sup>5</sup> Das ausländische Personal ist im Einsatz gekennzeichnet und trägt seine nationale Uniform. Das BAZG kann Ausnahmen anordnen.
 
 [^22-1]: Fassung gemäss Anhang der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 [^22-2]: Fassung gemäss Anhang der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
@@ -369,7 +367,7 @@ Das ausländische Personal untersteht in Bezug auf das Arbeitsverhältnis sowie 
 
 <sup>1</sup> Das ausländische Personal darf Waffen und Ausrüstung nach Artikel 227 ZV[^24-1] mitführen.
 
-<sup>2</sup> Der Einsatz von Waffen und Zwangsmitteln richtet sich nach den Artikeln 229–232 ZV. Die EZV kann im Einzelfall Einschränkungen anordnen.
+<sup>2</sup> Der Einsatz von Waffen und Zwangsmitteln richtet sich nach den Artikeln 229–232 ZV. Das BAZG kann im Einzelfall Einschränkungen anordnen.
 
 [^24-1]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
 
@@ -377,11 +375,11 @@ Das ausländische Personal untersteht in Bezug auf das Arbeitsverhältnis sowie 
 
 **Informationssysteme und Datenschutz**
 
-<sup>1</sup> Das ausländische Personal verfügt über die gleichen Zugriffsrechte auf Informationssysteme der Zollverwaltung wie die Mitarbeiterinnen und Mitarbeiter der EZV.
+<sup>1</sup> Das ausländische Personal verfügt über die gleichen Zugriffsrechte auf Informationssysteme der Zollverwaltung wie die Mitarbeiterinnen und Mitarbeiter des BAZG.
 
-<sup>2</sup> Die Datenbearbeitungsverordnung für die EZV vom 23. August 2017[^25-1] ist anwendbar; der Zugriff auf die Informationssysteme darf nur unter der Leitung von schweizerischem Personal erfolgen.[^25-2]
+<sup>2</sup> Die Datenbearbeitungsverordnung für das BAZG vom 23. August 2017[^25-1] ist anwendbar; der Zugriff auf die Informationssysteme darf nur unter der Leitung von schweizerischem Personal erfolgen.[^25-2]
 
-<sup>3</sup> Die EZV kann die Zugriffsrechte im Einzelfall einschränken.
+<sup>3</sup> Das BAZG kann die Zugriffsrechte im Einzelfall einschränken.
 
 [^25-1]: [SR 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
 [^25-2]: Fassung gemäss Anhang der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
