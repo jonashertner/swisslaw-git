@@ -4,20 +4,22 @@ number: "810.1"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-06-28
+version: 2022-01-01
+valid_until: 2025-12-31
+version_adopted: 2021-06-25
 adopted: 2015-12-03
 in_force: 2016-02-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/810.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1377/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1847/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesundheitsgesetz
 
-vom 03.12.2015 (Stand 01.01.2020)
+(GesG)
+
+vom 03.12.2015 (Stand 01.01.2022)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -65,15 +67,15 @@ beschliesst:
 
 <sup>1</sup> Gemeinsame Aufgaben von Kanton und Einwohnergemeinden sind:
 
-- a. die Gesundheitsförderung und Prävention, wie namentlich die Drogenbekämpfung, die weitere Suchtmittelbekämpfung und die Impfungen;
-- b. die Bekämpfung übertragbarer Krankheiten;
+- a. die Gesundheitsförderung und Prävention, wie namentlich die Drogenbekämpfung und die weitere Suchtmittelbekämpfung;
+- b. die Bekämpfung übertragbarer Krankheiten des Menschen;
 - c. der koordinierte Sanitätsdienst.
 
 <sup>2</sup> Soweit die Gesetzgebung oder die vom Kantonsrat erlassenen Verordnungen nichts anderes bestimmen, tragen der Kanton und die Einwohnergemeinden die Kosten der gemeinsamen Aufgaben je zur Hälfte.
 
 <sup>3</sup> Die Beteiligung der Einwohnergemeinden erfolgt soweit als möglich anteilmässig nach Beanspruchung, in den übrigen Fällen nach der Einwohnerzahl gemäss Einwohnerkontrolle am 31. Dezember des Vorjahrs.
 
-<sup>4</sup> Der Kanton kann die Erfüllung der Aufgaben nach Absatz 1 durch Vereinbarung mit anderen Kantonen, öffentlichen oder privaten Institutionen und Organisationen sowie weiteren Personen sicherstellen. Zum Abschluss von Vereinbarungen ist der Kantonsrat nach Anhörung der Einwohnergemeinden abschliessend zuständig.
+<sup>4</sup> Der Kanton kann die Erfüllung der Aufgaben nach Absatz 1 durch Vereinbarung mit anderen Kantonen, öffentlichen oder privaten Institutionen und Organisationen sowie weiteren Personen sicherstellen. Zum Abschluss von Vereinbarungen ist der Regierungsrat nach Anhörung der Einwohnergemeinden im Rahmen des Budgets zuständig, sofern die für den Kanton damit verbundenen Ausgaben insgesamt nicht mehr als Fr. 500 000.– oder jährlich Fr. 100 000.– betragen. In allen anderen Fällen ist der Kantonsrat abschliessend zuständig.
 
 #### Art. 5
 
@@ -94,7 +96,7 @@ beschliesst:
 
 <sup>2</sup> Der Kanton kann zur Erfüllung der Aufgabe nach Absatz 1 Buchstabe b finanzielle Mittel einsetzen für Massnahmen im Bereich Aus-, Weiter- und Fortbildung von im Gesundheitswesen tätigen Personen, für integrierte Versorgungsstrukturen sowie für die Organisation des ambulanten Notfalldiensts.
 
-<sup>3</sup> Er kann die Erfüllung der Aufgaben nach Absatz 1 Buchstaben b, c, e, f, g, h, i und k durch Vereinbarung mit anderen Kantonen, öffentlichen oder privaten Institutionen und Organisationen sowie weiteren Personen sicherstellen. Zum Abschluss von Vereinbarungen ist der Regierungsrat im Rahmen des Budgets zuständig, sofern die damit verbundenen Ausgaben insgesamt nicht mehr als Fr. 500 000.– oder jährlich Fr. 100 000.– betragen. In allen anderen Fällen ist der Kantonsrat abschliessend zuständig.
+<sup>3</sup> Er kann die Erfüllung der Aufgaben nach Absatz 1 Buchstaben b, c, e, f, g, i und k durch Vereinbarung mit anderen Kantonen, öffentlichen oder privaten Institutionen und Organisationen sowie weiteren Personen sicherstellen. Zum Abschluss von Vereinbarungen ist der Regierungsrat im Rahmen des Budgets zuständig, sofern die damit verbundenen Ausgaben insgesamt nicht mehr als Fr. 500 000.– oder jährlich Fr. 100 000.– betragen. In allen anderen Fällen ist der Kantonsrat abschliessend zuständig.
 
 #### Art. 6
 
@@ -106,17 +108,19 @@ beschliesst:
 - b. die Sicherstellung einer bedarfsgerechten, qualitätsorientierten und effizienten Versorgung mit Dienstleistungen der Hilfe und Pflege zu Hause; anzubieten sind die ambulante Grundversorgung gemäss Krankenpflege-Leistungsverordnung[^6-1], hauswirtschaftliche Dienstleistungen und ein Mahlzeitendienst;
 - c. die Betagtenbetreuung sowie die Förderung von Betagtenheimen und anderer Betagten-Wohnformen;
 - d. die Sicherstellung der Betreuung von pflegebedürftigen Personen in Pflegeheimen und weiteren Einrichtungen mit stationärer Langzeitpflege gemäss Pflegeheimliste;
+- d1. die Sicherstellung der Restfinanzierung gemäss Art. 25a Abs. 5 des Bundesgesetzes über die Krankenversicherung[^6-2];
 - e. die Sicherstellung der Familienhilfe, der Mütterberatung sowie des Hebammendiensts;
 - f. die Sicherstellung der Bestattungen;
-- g. der Vollzug der Vorschriften gemäss dem Bundesgesetz zum Schutz vor Passivrauchen[^6-2].
+- g. der Vollzug der Vorschriften gemäss dem Bundesgesetz zum Schutz vor Passivrauchen[^6-3].
 
 <sup>2</sup> Die Einwohnergemeinden können die Erfüllung der Aufgaben nach Absatz 1 durch Vereinbarung öffentlichen oder privaten Institutionen und Organisationen sowie weiteren Personen übertragen. Sie können bestimmte Aufgaben gemeinsam wahrnehmen oder diese zusammen an öffentliche oder private Institutionen und Organisationen sowie weitere Personen übertragen.
 
-<sup>3</sup> Die Einwohnergemeinden schliessen für die Sicherstellung der spitalexternen Gesundheitspflege gemäss Krankenpflege-Leistungsverordnung[^6-3] und der Hilfe zu Hause gemäss Absatz 1 Buchstabe b gemeinsam eine Leistungsvereinbarung mit der kantonal anerkannten Spitexträgerorganisation ab.
+<sup>3</sup> Die Einwohnergemeinden schliessen für die Sicherstellung der spitalexternen Gesundheitspflege gemäss Krankenpflege-Leistungsverordnung[^6-4] und der Hilfe zu Hause gemäss Absatz 1 Buchstabe b gemeinsam eine Leistungsvereinbarung mit der kantonal anerkannten Spitexträgerorganisation ab.
 
 [^6-1]: SR [832.112.31](https://db.clex.ch/link/Bund/832.112.31/de)
-[^6-2]: SR [818.31](https://db.clex.ch/link/Bund/818.31/de)
-[^6-3]: SR [832.112.31](https://db.clex.ch/link/Bund/832.112.31/de)
+[^6-2]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
+[^6-3]: SR [818.31](https://db.clex.ch/link/Bund/818.31/de)
+[^6-4]: SR [832.112.31](https://db.clex.ch/link/Bund/832.112.31/de)
 
 ### 2.2. Organisation und Zuständigkeit
 
@@ -148,13 +152,13 @@ beschliesst:
 - i. die Anstellung des Kantonsarztes bzw. der Kantonsärztin, des Kantonszahnarztes bzw. der Kantonszahnärztin und des Kantonsapothekers bzw. der Kantonsapothekerin;
 - k. die Regelung des Wartegelds für Hebammen;
 - l. die Regelung der Gesundheitskontrollen, der Gesundheitsberatungen und der zahnprophylaktischen Massnahmen während der obligatorischen Schulzeit. Er kann in diesem Rahmen bestimmte Untersuchungen und Massnahmen als obligatorisch erklären, die Kostenverteilung regeln und, nach Anhörung der betreffenden Berufsorganisationen, die Tarife und Taxen für die entsprechenden Dienstleistungen festlegen;
-- m. den Erlass der kantonalen, nach Leistungsaufträgen in Kategorien gegliederten Spitalliste und der kantonalen Pflegeheimliste. Er kann mit den Listenspitälern Leistungsvereinbarungen abschliessen, in welchen insbesondere die Einzelheiten der Leistungsaufträge, die Qualitätssicherung, die Bereitstellung von Daten und Teilzahlungen und die Ausrichtung von Beiträgen für gemeinwirtschaftliche Leistungen im Rahmen des Budgets geregelt werden.
+- m. den Erlass der Ausführungsbestimmungen zum Vollzug der eidgenössischen Vorschriften über die Zulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung und über die Einschränkung der Zulassung; er legt in einem oder mehreren medizinischen Fachgebieten oder in bestimmten Regionen die Höchstzahlen für die im ambulanten Bereich tätigen Ärzte und Ärztinnen gemäss den bundesrechtlichen Vorgaben fest.
 
 <sup>2</sup> Bei Katastrophen und anderen besonderen Vorkommnissen trifft der Regierungsrat, unter sinngemässer Anwendung des Bevölkerungsschutzgesetzes[^8-1], des Zivilschutzgesetzes[^8-2] und des Bundesgesetzes über die Bekämpfung übertragbarer Krankheiten[^8-3], alle Massnahmen, die zur Sicherstellung der medizinischen Versorgung der Bevölkerung erforderlich sind. Er kann insbesondere:
 
 - a. die Angehörigen aller Berufe und aller Einrichtungen des Gesundheitswesens zum Einsatz verpflichten;
 - b. die freie Wahl der im Bereich des Gesundheitswesens tätigen Personen und Einrichtungen einschränken oder aufheben;
-- c. Impfungen obligatorisch erklären.
+- c. öffentliche Impfungen durchführen lassen und Impfungen für obligatorisch erklären.
 
 [^8-1]: GDB [540.1](http://gdb.ow.ch/data/540.1/de)
 [^8-2]: GDB [543.1](http://gdb.ow.ch/data/543.1/de)
@@ -162,29 +166,37 @@ beschliesst:
 
 #### Art. 9
 
-**c. Finanzdepartement**
+**c. Sicherheits- und Sozialdepartement[^9-1]**
 
-<sup>1</sup> Das Finanzdepartement vollzieht dieses Gesetz sowie die weiteren gesetzlichen Bestimmungen auf dem Gebiet des Gesundheitswesens und übt die Aufsicht über das öffentliche Gesundheitswesen aus, soweit diese Aufgaben nicht ausdrücklich anderen Instanzen übertragen sind. Es vollzieht internationale und interkantonale Vereinbarungen.
+<sup>1</sup> Das Sicherheits- und Sozialdepartement[^9-2] vollzieht dieses Gesetz sowie die weiteren gesetzlichen Bestimmungen auf dem Gebiet des Gesundheitswesens und übt die Aufsicht über das öffentliche Gesundheitswesen aus, soweit diese Aufgaben nicht ausdrücklich anderen Instanzen übertragen sind. Es vollzieht internationale und interkantonale Vereinbarungen.
 
 <sup>2</sup> Ihm obliegt insbesondere:
 
 - a. die Leitung und die Koordination der Massnahmen im Gesundheitswesen;
 - b. die Sicherstellung der Zusammenarbeit mit Einrichtungen, öffentlichen und privaten Institutionen und Organisationen sowie weiteren Personen des Gesundheitswesens auf kantonaler und interkantonaler Ebene;
+- b1. die Festlegung der Bedarfsermittlungsinstrumente für die im Bereich der ambulanten und stationären Versorgung von pflege- und betreuungsbedürftigen Personen tätigen Einrichtungen sowie der Anforderungen an das Qualitätsmanagement, soweit dies nicht abschliessend durch das übergeordnete Recht vorgegeben ist;
 - c. die Koordination und die Überwachung des ambulanten Notfalldiensts (Art. 42 f. dieses Gesetzes);
-- d. die Abwehr von Gesundheitsgefährdungen;
-- e. die Aufsicht über Personen, welche eine Tätigkeit im Bereich des Gesundheitswesens ausüben, über Einrichtungen des Gesundheitswesens und über Ausbildungsstätten für Berufe des Gesundheitswesens (Art. 31 ff. und Art. 74 ff. dieses Gesetzes);
-- f. die Erteilung und der Entzug von Bewilligungen im Bereich des Gesundheitswesens (Art. 31 ff., Art. 44 ff. und Art. 72 dieses Gesetzes);
-- g. die Erarbeitung des Leistungsauftrags an das Kantonsspital und des jährlichen leistungsbezogenen Kredits in Zusammenarbeit mit dem Spitalrat des Kantonsspitals;
+- d. die Abwehr von Gesundheitsgefährdungen, insbesondere die Bekämpfung übertragbarer Krankheiten des Menschen;
+- e. die Aufsicht über Personen und Einrichtungen, die Menschen behandeln oder pflegen (Art. 31 ff. und Art. 74 ff. dieses Gesetzes);
+- f. die Erteilung und der Entzug der betreffenden Berufsausübungs-, Assistenten- und Betriebsbewilligungen (Art. 31 ff., Art. 44 ff. und Art. 72 dieses Gesetzes);
+- g. die Erarbeitung des Leistungsauftrags an das Kantonsspital und des jährlichen leistungsbezogenen Kredits[^9-3] in Zusammenarbeit mit dem Spitalrat des Kantonsspitals;
 - h. die Organisation einer geeigneten Verwaltungssteuerung, um die Qualität, die Wirksamkeit und die Wirtschaftlichkeit des Kantonsspitals laufend zu überprüfen;
 - i. die Organisation und die Durchführung der Gesundheitskontrollen und Gesundheitsberatungen (Art. 5 Abs. 1 Bst. i dieses Gesetzes).
 
-<sup>3</sup> Das Finanzdepartement kann Befugnisse im Bereich der Medizinalgesetzgebung auf den Kantonsarzt bzw. die Kantonsärztin, den Kantonstierarzt bzw. die Kantonstierärztin und den Kantonszahnarzt bzw. die Kantonszahnärztin, Befugnisse im Bereich der Heilmittelgesetzgebung auf den Kantonsapotheker bzw. die Kantonsapothekerin und Befugnisse im Bereich der Chemikalien- und Lebensmittelgesetzgebung auf das Laboratorium der Urkantone übertragen.
+<sup>3</sup> Das Sicherheits- und Sozialdepartement[^9-4] kann Befugnisse auf den Kantonsarzt bzw. die Kantonsärztin, den Kantonsapotheker bzw. die Kantonsapothekerin und den Kantonszahnarzt bzw. die Kantonszahnärztin übertragen.
+
+[^9-1]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
+[^9-2]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
+[^9-3]: Die Erarbeitung des jährlichen leistungsbezogenen Kredits erfolgt durch das Finanzdepartement in Zusammenarbeit mit dem Spitalrat des Kantonsspitals (OGS 2022, 20)
+[^9-4]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
 
 #### Art. 10
 
-**d. Sicherheits- und Justizdepartement**
+**d. Sicherheits- und Sozialdepartement[^10-1]**
 
-<sup>1</sup> Das Sicherheits- und Justizdepartement initiiert, unterstützt und koordiniert Massnahmen und Projekte zur Gesundheitsförderung und Prävention (Art. 65 ff. dieses Gesetzes).
+<sup>1</sup> Das Sicherheits- und Sozialdepartement initiiert, unterstützt und koordiniert Massnahmen und Projekte zur Gesundheitsförderung und Prävention (Art. 65 ff. dieses Gesetzes).
+
+[^10-1]: Die Departementsbezeichnung wurde in Anwendung von Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) auf den 1. Juli 2022 (OGS 2022, 20) angepasst. Die Anpassung wurde im ganzen Erlass vorgenommen.
 
 #### Art. 11
 
@@ -256,7 +268,7 @@ beschliesst:
 - b. der Vollzug der durch die eidgenössische und die kantonale Gesetzgebung erforderlichen Massnahmen;
 - c. die Überwachung der Berufsausübung im Bereich des Gesundheitswesens;
 - d. die Aufsicht über die Gemeindeärzte und -ärztinnen;
-- e. die Ergreifung und Anordnung von Massnahmen gegen übertragbare Krankheiten;
+- e. die Ergreifung und Anordnung von Massnahmen gegen übertragbare Krankheiten des Menschen;
 - f. die Erfüllung von amtsärztlichen Aufgaben zugunsten der Strafverfolgungs-, Gerichts- und Verwaltungsbehörden;
 - g. die Gesundheitsförderung und die Prävention.
 
@@ -268,9 +280,10 @@ beschliesst:
 
 - a. die Beratung der Behörden in veterinärmedizinischen Fragen;
 - b. der Vollzug der durch die eidgenössische und die kantonale Gesetzgebung erforderlichen Massnahmen;
-- c. die Aufsicht über die Tierärzte und -ärztinnen;
-- d. die Aufsicht über sämtliche Personen und Einrichtungen, welche einen mit Tieren im Zusammenhang stehenden Gesundheitsberuf ausüben;
-- e. die Erteilung sowie der Entzug der betreffenden Berufsausübungs- und Betriebsbewilligungen.
+- c. …
+- d. die Aufsicht über sämtliche Personen und Einrichtungen, die beruflich Tiere behandeln oder pflegen;
+- e. die Erteilung sowie der Entzug der betreffenden Berufsausübungs-, Assistenten- und Betriebsbewilligungen;
+- f. die Wahrnehmung sämtlicher Aufgaben gemäss der Heilmittel- und Betäubungsmittelgesetzgebung bei mit der Behandlung oder Pflege von Tieren im Zusammenhang stehenden Tätigkeiten.
 
 <sup>2</sup> Die Aufgaben des Kantonstierarztes bzw. der Kantonstierärztin werden durch das Laboratorium der Urkantone wahrgenommen.
 
@@ -278,7 +291,7 @@ beschliesst:
 
 **l. Kantonsapotheker bzw. Kantonsapothekerin**
 
-<sup>1</sup> Dem Kantonsapotheker bzw. der Kantonsapothekerin obliegen insbesondere:
+<sup>1</sup> Dem Kantonsapotheker bzw. der Kantonsapothekerin obliegen, vorbehältlich der Aufgaben des Kantonstierarztes bzw. der Kantonstierärztin, insbesondere:
 
 - a. die Beratung der Behörden in Heilmittelfragen;
 - b. die Überwachung von Verkehr, Abgabe und Lagerung von Heilmitteln;
@@ -400,9 +413,9 @@ beschliesst:
 
 **Pflegeleistungen**
 
-<sup>1</sup> Den Einwohnergemeinden obliegt die Restfinanzierung gemäss Art. 25a des Bundesgesetzes über die Krankenversicherung[^28-1] für die Krankenpflege in den auf den kantonalen Pflegeheimlisten aufgeführten Pflegeheimen und für Aufenthalte im Akutspital bei fehlender Akutspitalbedürftigkeit.
+<sup>1</sup> Den Einwohnergemeinden obliegt die Restfinanzierung gemäss Art. 25a Abs. 5 des Bundesgesetzes über die Krankenversicherung[^28-1] für die Krankenpflege in den auf den kantonalen Pflegeheimlisten aufgeführten Pflegeheimen und für Aufenthalte im Akutspital bei fehlender Akutspitalbedürftigkeit.
 
-<sup>2</sup> Die Einwohnergemeinden regeln die Grundsätze der Bestimmung des Restfinanzierungsbeitrags in einem identischen Reglement.
+<sup>2</sup> Die Einwohnergemeinden regeln die Grundsätze der Bestimmung des Restfinanzierungsbeitrags in einem Reglement.
 
 [^28-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
 
@@ -441,74 +454,94 @@ beschliesst:
 
 **Bewilligungspflicht**
 
-<sup>1</sup> Eine Berufsausübungsbewilligung des Finanzdepartements benötigt, wer privatwirtschaftlich und in eigener fachlicher Verantwortung einen Beruf im Bereich des Gesundheitswesens ausübt, der:
+<sup>1</sup> Eine Berufsausübungsbewilligung benötigt, wer in eigener fachlicher Verantwortung einen Beruf im Bereich des Gesundheitswesens ausübt, der:
 
 - a. unter das Bundesgesetz über die universitären Medizinalberufe[^31-1] fällt;
 - b. unter das Bundesgesetz über die Psychologieberufe[^31-2] fällt;
+- b1. unter das Bundesgesetz über die Gesundheitsberufe[^31-3] fällt;
 - c. in der Krankenversicherungsgesetzgebung zur Gruppe der Leistungserbringer zählt;
-- d. gestützt auf die Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen[^31-3] im Nationalen Register der nicht-universitären Gesundheitsberufe (NAREG) erwähnt ist oder
+- d. gestützt auf die Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen[^31-4] im Nationalen Register der nicht-universitären Gesundheitsberufe (NAREG) erwähnt ist oder
 - e. gemäss übergeordnetem Recht als bewilligungspflichtig bezeichnet wird oder in einem entsprechenden Register aufgeführt ist.
 
-<sup>2</sup> Der Regierungsrat regelt die Anforderungen an die Gesuchsunterlagen, die Tätigkeit, welche unter der fachlichen Verantwortung und direkten Aufsicht einer Fachperson mit der entsprechenden Bewilligung ausgeübt wird, die Stellvertretung und die erforderlichen Fachkenntnisse in Ausführungbestimmungen.
+<sup>2</sup> Der Regierungsrat regelt die Anforderungen an die Gesuchsunterlagen, die Tätigkeit, welche unter der fachlichen Verantwortung und direkten Aufsicht einer Fachperson mit der entsprechenden Bewilligung ausgeübt wird, die Stellvertretung und die erforderlichen Fachkenntnisse in Ausführungsbestimmungen.
 
 <sup>3</sup> Er kann, sofern dies mit dem übergeordneten Recht in Einklang steht, weitere Tätigkeiten, welche geeignet sind, Leib und Leben zu gefährden, einer Bewilligungspflicht unterstellen oder gewisse Berufe im Bereich des Gesundheitswesens von der Bewilligungspflicht befreien.
 
 [^31-1]: SR [811.11](https://db.clex.ch/link/Bund/811.11/de)
 [^31-2]: SR [935.81](https://db.clex.ch/link/Bund/935.81/de)
-[^31-3]: GDB [410.4](http://gdb.ow.ch/data/410.4/de)
+[^31-3]: SR [811.21](https://db.clex.ch/link/Bund/811.21/de)
+[^31-4]: GDB [410.4](http://gdb.ow.ch/data/410.4/de)
 
 #### Art. 32
 
 **Ausnahmen von der Bewilligungspflicht**
 
-<sup>1</sup> Personen, welche eine bewilligungspflichtige Tätigkeit im Bereich des Gesundheitswesens ausüben und über eine Berufsausübungsbewilligung eines anderen Kantons verfügen, dürfen ihren Beruf während längstens 90 Tagen pro Kalenderjahr im Kanton Obwalden ausüben, ohne eine Berufsausübungsbewilligung einzuholen. Einschränkungen und Auflagen ihrer Bewilligung gelten auch für diese Tätigkeit. Diese Personen müssen sich vorgängig beim Finanzdepartement melden.
+<sup>1</sup> Personen, welche eine bewilligungspflichtige Tätigkeit im Bereich des Gesundheitswesens ausüben und über eine ausländische Berufsausübungsbewilligung oder eine Berufsausübungsbewilligung eines anderen Kantons verfügen, dürfen ihren Beruf gemäss den geltenden internationalen Abkommen und bundesrechtlichen Vorschriften während längstens 90 Arbeitstagen pro Kalenderjahr im Kanton Obwalden ausüben, ohne eine Berufsausübungsbewilligung einzuholen. Einschränkungen und Auflagen ihrer Bewilligung gelten auch für diese Tätigkeit. Diese Personen müssen sich vorgängig beim Sicherheits- und Sozialdepartement[^32-1] und bei mit der Behandlung oder Pflege von Tieren im Zusammenhang stehenden Tätigkeiten beim Kantonstierarzt bzw. bei der Kantonstierärztin melden.
 
-<sup>2</sup> Personen, die ihre Tätigkeit in eigener fachlicher Verantwortung im öffentlichen Dienst von Kanton und Gemeinden oder in stationären Einrichtungen ausüben, sind ohne Bewilligung zur Berufsausübung berechtigt. Personen, welche als gesamtverantwortliche Leitungsperson einer Einrichtung des Gesundheitswesens tätig sind, benötigen, ausser in Pflegeheimen und weiteren Einrichtungen mit stationärer Langzeitpflege sowie in Einrichtungen der spitalexternen Gesundheits- und Krankenpflege (Spitex), stets eine Berufsausübungsbewilligung.
+<sup>1a</sup> Die Voraussetzungen für die Aufnahme der Tätigkeit werden in einem beschleunigten, kostenlosen Verfahren geprüft. Der betreffenden Person wird im Anschluss mitgeteilt, ob sie die Tätigkeit aufnehmen darf.
 
-<sup>3</sup> Keiner Berufsausübungsbewilligung bedürfen fachlich ausgebildete Personen sowie Praktikanten, die unter der fachlichen Verantwortung und direkten Aufsicht einer Fachperson mit der entsprechenden Bewilligung stehen. Vorbehalten bleibt die Bewilligungspflicht für die betreffenden Personen, welche universitäre Medizinal- oder Psychologieberufe ausüben.
+<sup>2</sup> Auf Inhaber und Inhaberinnen ausserkantonaler Berufsausübungsbewilligungen gelangt das Verfahren gemäss Absatz 1 und 1a unabhängig von der Dauer der Berufsausübung sinngemäss zur Anwendung.
+
+<sup>3</sup> Keiner Berufsausübungsbewilligung bedürfen fachlich ausgebildete Personen im Angestelltenverhältnis, die unter der fachlichen Verantwortung und direkten Aufsicht einer Fachperson mit einer Berufsausübungsbewilligung der gleichen Berufsgattung stehen. Bei Ärzten und Ärztinnen muss die beaufsichtigende Fachperson über denselben Facharzttitel verfügen.
+
+<sup>4</sup> Für angestellte, unter der fachlichen Verantwortung einer Fachperson mit einer Berufsausübungsbewilligung der gleichen Berufsgattung stehende Personen, welche universitäre Medizinal- oder Psychologieberufe ausüben, ist eine Assistentenbewilligung durch die beaufsichtigende Fachperson einzuholen.
+
+[^32-1]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
 
 #### Art. 33
 
 **Auskunfts- und Meldepflicht bei bewilligungsfreien Tätigkeiten**
 
-<sup>1</sup> Tätigkeiten, die nicht unter die Bewilligungspflicht gemäss Art. 31 dieses Gesetzes fallen, unterstehen der Aufsicht des Finanzdepartements, sofern sie:
+<sup>1</sup> Tätigkeiten, die nicht unter die Bewilligungspflicht gemäss Art. 31 dieses Gesetzes fallen, unterstehen der Aufsicht des Sicherheits- und Sozialdepartements[^33-1] und bei mit der Behandlung oder Pflege von Tieren im Zusammenhang stehenden Tätigkeiten der Aufsicht des Kantonstierarztes bzw. der Kantonstierärztin, sofern sie:
 
 - a. gewerbsmässig ausgeübt werden;
 - b. der Beseitigung von gesundheitlichen Störungen oder der Verbesserung des Gesundheitszustands von Menschen und Tieren dienen.
 
-<sup>2</sup> Personen, die eine bewilligungsfreie Tätigkeit gemäss Absatz 1 ausüben, sind gegenüber dem Finanzdepartement und den übrigen für den Bereich des Gesundheitswesens zuständigen kantonalen Behörden auskunfts- und meldepflichtig. Der Regierungsrat regelt die weiteren Modalitäten der Auskunfts- und Meldepflicht bei bewilligungsfreien Tätigkeiten in Ausführungsbestimmungen.
+<sup>2</sup> Personen, die eine bewilligungsfreie Tätigkeit gemäss Absatz 1 ausüben, sind gegenüber dem Sicherheits- und Sozialdepartement[^33-2] oder dem Kantonstierarzt bzw. der Kantonstierärztin auskunfts- und meldepflichtig. Der Regierungsrat regelt die weiteren Modalitäten der Auskunfts- und Meldepflicht bei bewilligungsfreien Tätigkeiten in Ausführungsbestimmungen.
 
-<sup>3</sup> Entsteht im Bereich bewilligungsfreier Tätigkeiten eine Gesundheitsgefährdung, kann das Finanzdepartement den Verursachenden verbieten, diese Tätigkeiten und Handlungen auszuüben oder weiterhin im Bereich des Gesundheitswesens tätig zu sein. Es kann sich auch damit begnügen, die betreffende Tätigkeit einzuschränken oder deren Weiterführung an bestimmte Voraussetzungen zu knüpfen.
+<sup>3</sup> Entsteht im Bereich bewilligungsfreier Tätigkeiten eine Gesundheitsgefährdung, können das Sicherheits- und Sozialdepartement[^33-3] oder der Kantonstierarzt bzw. die Kantonstierärztin den Verursachenden verbieten, diese Tätigkeiten und Handlungen auszuüben oder weiterhin im Bereich des Gesundheitswesens tätig zu sein. Die betreffende Tätigkeit kann auch lediglich eingeschränkt oder an bestimmte Voraussetzungen geknüpft werden.
 
-<sup>4</sup> Die Verwaltungs- und Strafverfolgungsbehörden sowie die Gerichte teilen dem Finanzdepartement Wahrnehmungen mit, die für ein Verbot erheblich sein können.
+<sup>4</sup> Die Verwaltungs- und Strafverfolgungsbehörden sowie die Gerichte teilen dem Sicherheits- und Sozialdepartement[^33-4] oder dem Kantonstierarzt bzw. der Kantonstierärztin Wahrnehmungen mit, die für ein Verbot erheblich sein können.
+
+[^33-1]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
+[^33-2]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
+[^33-3]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
+[^33-4]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
 
 #### Art. 34
 
 **Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Die Bewilligungsvoraussetzungen für Personen, welche dem Bundesgesetz über die universitären Medizinalberufe[^34-1] oder dem Bundesgesetz über die Psychologieberufe[^34-2] unterstehen, richten sich nach Bundesrecht.
+<sup>1</sup> Die Bewilligungsvoraussetzungen für in eigener fachlicher Verantwortung tätige Personen, welche dem Bundesgesetz über die universitären Medizinalberufe[^34-1], dem Bundesgesetz über die Psychologieberufe[^34-2] oder dem Bundesgesetz über die Gesundheitsberufe[^34-3] unterstehen, richten sich nach Bundesrecht.
 
 <sup>2</sup> Die Bewilligung für die übrigen bewilligungspflichtigen Berufe im Gesundheitswesen wird, sofern das übergeordnete Recht keine abweichenden Vorschriften vorsieht, erteilt, wenn die gesuchstellende Person:
 
-- a. über entsprechende fachliche Qualifikationen verfügt;
+- a. über die gesetzlich vorgeschriebenen Qualifikationen verfügt;
 - b. handlungsfähig und beruflich vertrauenswürdig ist;
 - c. physisch und psychisch Gewähr für eine einwandfreie Berufsausübung bietet;
-- d. eine Berufshaftpflichtversicherung entsprechend der Art und des Umfangs der Risiken abgeschlossen hat.
+- c1. die deutsche Sprache beherrscht.
+- d. …
 
 <sup>3</sup> Die Bewilligung kann mit Einschränkungen fachlicher und zeitlicher Art verknüpft sowie mit weiteren Auflagen und Bedingungen verbunden werden.
 
-<sup>4</sup> Der Bewilligungsinhaber bzw. die Bewilligungsinhaberin hat Tatsachen sowie Änderungen, die den Bewilligungsinhalt betreffen, namentlich die Verlegung, die Wiedereröffnung, die Schliessung der Praxis oder des Betriebs sowie den Wegfall von Räumlichkeiten für die Berufsausübung, unverzüglich dem Finanzdepartement zu melden.
+<sup>4</sup> Der Bewilligungsinhaber bzw. die Bewilligungsinhaberin hat Tatsachen sowie Änderungen, die den Bewilligungsinhalt betreffen, namentlich die Verlegung, die Wiedereröffnung, die Schliessung der Praxis oder des Betriebs sowie den Wegfall von Räumlichkeiten für die Berufsausübung, unverzüglich dem Sicherheits- und Sozialdepartement[^34-4] und bei mit der Behandlung oder Pflege von Tieren im Zusammenhang stehenden Tätigkeiten dem Kantonstierarzt bzw. der Kantonstierärztin zu melden.
 
-<sup>5</sup> Zur Abklärung der Voraussetzungen kann das Finanzdepartement auch Auskünfte von anderen Bewilligungsbehörden und weiteren Stellen einholen und auf Kosten der gesuchstellenden Person Begutachtungen anordnen.
+<sup>4a</sup> Der Bewilligungsinhaber bzw. die Bewilligungsinhaberin ist verpflichtet, die Bewilligungsvoraussetzungen stets uneingeschränkt zu erfüllen. Das Sicherheits- und Sozialdepartement[^34-5] und der Kantonstierarzt bzw. die Kantonstierärztin können jederzeit einen entsprechenden Nachweis verlangen.
+
+<sup>5</sup> Zur Abklärung der Voraussetzungen kann das Sicherheits- und Sozialdepartement[^34-6] und der Kantonstierarzt bzw. die Kantonstierärztin auch Auskünfte von anderen Bewilligungsbehörden und weiteren Stellen einholen und auf Kosten der gesuchstellenden Person Begutachtungen anordnen.
 
 [^34-1]: SR [811.11](https://db.clex.ch/link/Bund/811.11/de)
 [^34-2]: SR [935.81](https://db.clex.ch/link/Bund/935.81/de)
+[^34-3]: SR [811.21](https://db.clex.ch/link/Bund/811.21/de)
+[^34-4]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
+[^34-5]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
+[^34-6]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
 
 #### Art. 35
 
 **Entzug der Bewilligung**
 
-<sup>1</sup> Die Bewilligung zur Berufsausübung wird entzogen:
+<sup>1</sup> Für durch das Bundesgesetz über die universitären Medizinalberufe[^35-1], das Bundesgesetz über die Psychologieberufe[^35-2] und durch das Bundesgesetz über die Gesundheitsberufe[^35-3] geregelte, in eigener fachlicher Verantwortung ausgeübte Tätigkeiten, richtet sich der Entzug der Bewilligung zur Berufsausübung abschliessend nach diesen Erlassen. Die Bewilligung zur Berufsausübung wird bei den übrigen Tätigkeiten im Bereich des Gesundheitswesens entzogen:
 
 - a. wenn die Voraussetzungen für deren Erteilung weggefallen sind;
 - b. falls nachträglich Tatsachen bekannt werden, aufgrund deren die Bewilligung hätte verweigert werden müssen;
@@ -520,7 +553,14 @@ beschliesst:
 
 <sup>3</sup> Die Kosten von Abklärungen und Expertisen in einem Verfahren gemäss dieser Bestimmung können der betroffenen Person auferlegt werden, sofern sich ergibt, dass ein Entzugsgrund gemäss Absatz 1 vorliegt. Erfolgte die Einleitung des Verfahrens aufgrund einer Anzeige von Drittpersonen oder Organisationen, so können diese zur Bezahlung eines angemessenen Teils der entsprechenden Kosten verhalten werden, sofern die Anzeige offensichtlich unbegründet war.
 
-<sup>4</sup> Die Verwaltungs- und Strafverfolgungsbehörden sowie die Gerichte teilen dem Finanzdepartement ihre Wahrnehmungen mit, die für einen Bewilligungsentzug erheblich sein können.
+<sup>4</sup> Die Verwaltungs- und Strafverfolgungsbehörden sowie die Gerichte teilen dem Sicherheits- und Sozialdepartement[^35-4] ihre Wahrnehmungen mit, die für einen Bewilligungsentzug erheblich sein können.
+
+<sup>5</sup> Sofern die Person mit einer Tätigkeit im Bereich des Gesundheitswesens, welcher die Bewilligung entzogen wird, auch eine Bewilligung eines anderen Kantons besitzt, ist die Aufsichtsbehörde des betreffenden Kantons zu informieren.
+
+[^35-1]: SR [811.11](https://db.clex.ch/link/Bund/811.11/de)
+[^35-2]: SR [935.81](https://db.clex.ch/link/Bund/935.81/de)
+[^35-3]: SR [811.21](https://db.clex.ch/link/Bund/811.21/de)
+[^35-4]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
 
 #### Art. 36
 
@@ -529,11 +569,15 @@ beschliesst:
 <sup>1</sup> Die Bewilligung erlischt:
 
 - a. mit dem Tod;
+- a1. aufgrund der Nichtaufnahme der Berufstätigkeit innert zwölf Monaten seit der Bewilligungserteilung;
 - b. mit dem dauerhaften und vollständigen Entzug;
-- c. mit der schriftlichen Verzichtserklärung gegenüber dem Finanzdepartement;
-- d. mit dem Erreichen der Altersgrenze von 70 Jahren. In diesem Fall kann die Bewilligung auf Gesuch hin jeweils um zwei Jahre verlängert werden, wenn die Voraussetzungen erfüllt sind;
+- c. mit der schriftlichen Verzichtserklärung gegenüber dem Sicherheits- und Sozialdepartement[^36-1];
+- d. mit dem Erreichen der Altersgrenze von 70 Jahren. In diesem Fall kann die Bewilligung auf Gesuch hin und unter Vorlage eines Arztzeugnisses jeweils um zwei Jahre verlängert werden, wenn die Voraussetzungen erfüllt sind;
+- d1. mit dem Ablauf einer Befristung;
 - e. wenn in einem durchgeführten Strafverfahren ein Berufsverbot ausgesprochen wird;
 - f. wenn die Berufstätigkeit aufgegeben wird. Wird die Berufstätigkeit nur vorübergehend eingestellt, erlischt die Bewilligung ohne Weiteres nach fünf Jahren seit der Berufsaufgabe.
+
+[^36-1]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
 
 #### Art. 37
 
@@ -560,7 +604,7 @@ beschliesst:
 
 **Einzelne Berufspflichten**
 
-<sup>1</sup> Die Berufspflichten der universitären Medizinalpersonen richten sich nach dem Bundesgesetz über die universitären Medizinalberufe[^39-1], jene der in einem Psychologieberuf tätigen Personen richten sich nach dem Bundesgesetz über die Psychologieberufe[^39-2].
+<sup>1</sup> Die Berufspflichten der in eigener fachlicher Verantwortung tätigen universitären Medizinalpersonen richten sich nach dem Bundesgesetz über die universitären Medizinalberufe[^39-1], jene der in einem Psychologieberuf in eigener fachlicher Verantwortung tätigen Personen richten sich nach dem Bundesgesetz über die Psychologieberufe[^39-2] und jene der in einem Gesundheitsberuf in eigener fachlicher Verantwortung tätigen Personen nach dem Bundesgesetz über die Gesundheitsberufe[^39-3].
 
 <sup>2</sup> Die Berufspflichten der übrigen Personen, welche eine Tätigkeit im Bereich des Gesundheitswesens ausüben, sind, unter Vorbehalt des übergeordneten Rechts, die Folgenden:
 
@@ -568,28 +612,52 @@ beschliesst:
 - b. Für die betreffende Tätigkeit müssen die geeigneten Räumlichkeiten, Einrichtungen und Arbeitsinstrumente vorhanden sein;
 - c. Bei der Berufsausübung sind die Rechte der Patienten und Patientinnen zu wahren;
 - d. In Notfällen ist im Rahmen der vorhandenen Fähigkeiten und Kenntnisse Beistand zu leisten. Darüber hinaus besteht keine Verpflichtung zur Annahme von Patienten und Patientinnen;
-- e. Sämtliche Personen, welche im Gesundheitswesen tätig sind, haben sich entsprechend den Anforderungen ihrer Tätigkeit fortzubilden. Soweit nötig, kann das Finanzdepartement einen entsprechenden Nachweis verlangen;
-- f. Sämtliche Personen und Einrichtungen, welche im Gesundheitswesen tätig sind, halten sich bei der Bekanntmachung der Berufstätigkeit, einschliesslich Werbung, an die Grundsätze der Objektivität. Sie muss dem öffentlichen Bedürfnis entsprechen und darf weder aufdringlich noch irreführend sein.
+- e. Sämtliche Personen, welche im Gesundheitswesen tätig sind, haben sich entsprechend den Anforderungen ihrer Tätigkeit fortzubilden. Soweit nötig, kann das Sicherheits- und Sozialdepartement[^39-4] einen entsprechenden Nachweis verlangen;
+- f. Sämtliche Personen welche im Gesundheitswesen tätig sind, halten sich bei der Bekanntmachung der Berufstätigkeit, einschliesslich Werbung, an die Grundsätze der Objektivität. Sie muss dem öffentlichen Bedürfnis entsprechen und darf weder aufdringlich noch irreführend sein;
+- g. Sämtliche Personen, welche im Gesundheitswesen tätig sind, haben eine Berufshaftpflichtversicherung nach Massgabe der Art und des Umfanges der Risiken, die mit ihrer Tätigkeit verbunden sind, abzuschliessen; ausgenommen sind dem Staatshaftungsrecht unterliegende Tätigkeiten.
 
 [^39-1]: SR [811.11](https://db.clex.ch/link/Bund/811.11/de)
 [^39-2]: SR [935.81](https://db.clex.ch/link/Bund/935.81/de)
+[^39-3]: SR [811.21](https://db.clex.ch/link/Bund/811.21/de)
+[^39-4]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
+
+#### Art. 39a
+
+**Berufsgeheimnis**
+
+<sup>1</sup> Personen, welche eine Tätigkeit im Bereich des Gesundheitswesens ausüben, und ihre Hilfspersonen haben über Geheimnisse, die ihnen im Rahmen ihrer Tätigkeit anvertraut worden sind, sowie über Wahrnehmungen, die sie in Ausübung ihrer Tätigkeit gemacht haben, zu schweigen. Hiervon ausgenommen sind im Zusammenhang mit der Behandlung und Pflege von Tieren stehende Tätigkeiten.
+
+<sup>2</sup> Personen gemäss Absatz 1 sind von Gesetzes wegen vom Berufsgeheimnis befreit:
+
+- a. sofern eine Einwilligung des Patienten bzw. der Patientin vorliegt;
+- b. bei schriftlicher Entbindung vom Berufsgeheimnis durch das Sicherheits- und Sozialdepartement[^39a-1];
+- c. sofern eine gesetzliche Meldepflicht oder ein gesetzliches Melderecht gemäss Art. 40 dieses Gesetzes besteht;
+- d. zur Durchsetzung von Honorarforderungen aus dem Behandlungsverhältnis gegenüber einer zur Eintreibung der Forderungen beauftragten Stelle und gegenüber den gesetzlich vorgesehenen Instanzen;
+- e. zur Verteidigung in zivil- und strafrechtlichen Verfahren sowie in medizinischen Staatshaftungsverfahren;
+- f. in Disziplinar- und Bewilligungsentzugsverfahren;
+- g. für die Unterstützung der Strafverfolgungsbehörden bei Legalinspektionen und Leichenschauen.
+
+<sup>3</sup> Die Befreiung vom Berufsgeheimnis beschränkt sich auf diejenigen Daten, welche im konkreten Fall von Bedeutung sind.
+
+[^39a-1]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
 
 #### Art. 40
 
 **Meldepflichten und -rechte**
 
-<sup>1</sup> Sämtliche Personen, welche eine Tätigkeit im Bereich des Gesundheitswesens ausüben, sind verpflichtet, aussergewöhnliche Todesfälle der Staatsanwaltschaft oder der Polizei sowie Wahrnehmungen und Angaben, die auf eine erhebliche Gefährdung der Bevölkerung, insbesondere auf Verbrechen oder Vergehen gegen die öffentliche Gesundheit hinweisen, unverzüglich dem Kantonsarzt bzw. der Kantonsärztin oder dem Kantonsapotheker bzw. der Kantonsapothekerin zu melden.
+<sup>1</sup> Sämtliche Personen, welche eine Tätigkeit im Bereich des Gesundheitswesens ausüben, sind verpflichtet, aussergewöhnliche Todesfälle sowie Wahrnehmungen und Angaben, die auf eine erhebliche Gefährdung der Bevölkerung, insbesondere auf Verbrechen oder Vergehen gegen die öffentliche Gesundheit hinweisen, unverzüglich der Staatsanwaltschaft oder der Polizei sowie dem Kantonsarzt bzw. der Kantonsärztin, dem Kantonstierarzt bzw. der Kantonstierärztin oder dem Kantonsapotheker bzw. der Kantonsapothekerin zu melden.
 
 <sup>2</sup> Die Pflicht bzw. die Berechtigung der auf dem Gebiet des Gesundheitswesens tätigen Personen, der Kindes- und Erwachsenenschutzbehörde über Gefährdungen des Kindeswohls, strafbare Handlungen gegenüber Minderjährigen sowie über die Hilflosigkeit von Erwachsenen Meldung zu erstatten, richtet sich nach den Vorschriften des Zivilgesetzbuches[^40-1], des Schweizerischen Strafgesetzbuches[^40-2] sowie nach den weiteren einschlägigen Vorschriften des eidgenössischen und des kantonalen Rechts.
 
-<sup>3</sup> Sämtliche Personen, welche eine Tätigkeit im Bereich des Gesundheitswesens ausüben, sind überdies berechtigt, die folgenden Wahrnehmungen und personenbezogenen Angaben zur Erreichung der folgenden Zwecke der Kindes- und Erwachsenenschutzbehörde oder allenfalls dem Kantonsarzt bzw. der Kantonsärztin zu melden:
+<sup>3</sup> Sämtliche Personen, welche eine Tätigkeit im Bereich des Gesundheitswesens ausüben, sind überdies berechtigt, die folgenden Wahrnehmungen und personenbezogenen Angaben zur Erreichung der folgenden Zwecke der Staatsanwaltschaft, der Polizei sowie dem Kantonsarzt bzw. der Kantonsärztin, dem Kantonstierarzt bzw. der Kantonstierärztin oder dem Kantonsapotheker bzw. der Kantonsapothekerin zu melden:
 
-- a. Verbrechen oder Vergehen gegen Leib und Leben oder die sexuelle Integrität von Personen über 18 Jahren oder
-- b. wenn ein gegenüber dem Geheimhaltungsinteresse des Patienten bzw. der Patientin offenkundig höherwertiges privates oder öffentliches Offenbarungsinteresse besteht wie namentlich bei Heilmittel- oder Betäubungsmittelmissbräuchen.
+- a. Verbrechen oder Vergehen gegen Leib und Leben oder die sexuelle Integrität;
+- a1. Gefährdungsmeldungen betreffend Personen, bei denen eine erhöhte, gegen Dritte gerichtete Gewaltbereitschaft vorliegen könnte oder
+- b. Heilmittel- oder Betäubungsmittelmissbräuche.
 
-<sup>4</sup> Des Weiteren sind sie berechtigt, Angaben, welche der Durchsetzung von Forderungen aus dem Behandlungsverhältnis dienen, gegenüber einer zur Eintreibung der Forderungen beauftragten Stelle und gegenüber den gesetzlich vorgesehenen Instanzen zu machen.
+<sup>4–5</sup> …
 
-<sup>5</sup> Für Meldungen und Auskünfte gemäss den Absätzen 1 bis 4 ist keine vorgängige Entbindung vom Berufs- oder Amtsgeheimnis erforderlich. In den übrigen Fällen können Personen mit einer Tätigkeit im Bereich des Gesundheitswesens durch die Patienten und Patientinnen und, sofern schutzwürdige Interessen im Spiel sind, durch das Finanzdepartement vom Berufs- oder Amtsgeheimnis entbunden werden.
+<sup>5a.</sup> Vorbehalten bleiben spezialgesetzliche Meldepflichten und -rechte.
 
 <sup>6</sup> Es sind die erforderlichen sicherheitstechnischen Massnahmen zu treffen, damit einzig die berechtigten Personen Zugriff auf die gemeldeten Daten erlangen können.
 
@@ -610,7 +678,9 @@ beschliesst:
 
 <sup>1</sup> Ärzte bzw. Ärztinnen, Zahnärzte bzw. -ärztinnen, Tierärzte bzw. -ärztinnen, die über eine Berufsausübungsbewilligung verfügen sowie ihre Stellvertreter bzw. Stellvertreterinnen haben sich an einem ambulanten Notfalldienst zu beteiligen und diesen einwandfrei zu gewährleisten.
 
-<sup>2</sup> Ärzte bzw. Ärztinnen, Zahnärzte bzw. -ärztinnen, Tierärzte bzw. -ärztinnen, welche unter der Verantwortung sowie der fachlichen Aufsicht einer Medizinalperson mit einer Berufsausübungsbewilligung tätig sind, werden in den ambulanten Notfalldienst in angemessener Weise miteinbezogen.
+<sup>1a</sup> Der Regierungsrat kann die Erfüllung der Aufgaben gemäss Absatz 1 sowie die Durchführung von Legalinspektionen durch Vereinbarung mit anderen Kantonen, öffentlichen oder privaten Institutionen und Organisationen sowie weiteren Personen sicherstellen.
+
+<sup>2</sup> Er legt die Tarife für solche Verrichtungen in Ausführungsbestimmungen kostendeckend fest. Er orientiert sich dabei an branchenüblichen, auf eine wirtschaftliche Leistungserbringung ausgerichteten Tarifen.
 
 <sup>3</sup> Von der Notfalldienstpflicht befreit sind der Kantonsarzt bzw. die Kantonsärztin, der Kantonstierarzt bzw. die Kantonstierärztin und der Kantonszahnarzt bzw. die Kantonszahnärztin.
 
@@ -623,17 +693,21 @@ beschliesst:
 
 <sup>5</sup> Die Höhe der Ersatzabgabe beträgt bis zu Fr. 6 000.– pro Jahr und hat sich an der Anzahl nicht geleisteter Dienste zu orientieren. Bei Personen, welche aus triftigen Gründen vom ambulanten Notfalldienst befreit worden sind oder deren Beteiligungspflicht am ambulanten Notfalldienst reduziert wurde, kann die Höhe der Ersatzabgabe angemessen herabgesetzt werden.
 
-<sup>6</sup> Bei Streitigkeiten zwischen den Berufsverbänden und notfalldienstpflichtigen Personen entscheidet das Finanzdepartement.
+<sup>6</sup> Bei Streitigkeiten zwischen den Berufsverbänden und notfalldienstpflichtigen Personen entscheidet das Sicherheits- und Sozialdepartement[^42-1].
 
 <sup>7</sup> Der Regierungsrat kann Ausführungsbestimmungen erlassen. Er kann zudem die betreffenden Berufsorganisationen mittels Beiträgen finanziell unterstützen.
+
+[^42-1]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
 
 #### Art. 43
 
 **Sicherstellung und Koordination des ambulanten Notfalldiensts**
 
-<sup>1</sup> Das Finanzdepartement kann verbindliche Weisungen erlassen und trifft, soweit erforderlich, die zur Sicherstellung eines zweckmässigen ambulanten Notfalldiensts und zur Koordination zwischen ambulanter und stationärer Notfallversorgung erforderlichen Massnahmen.
+<sup>1</sup> Das Sicherheits- und Sozialdepartement[^43-1] kann verbindliche Weisungen erlassen und trifft, soweit erforderlich, die zur Sicherstellung eines zweckmässigen ambulanten Notfalldiensts und zur Koordination zwischen ambulanter und stationärer Notfallversorgung erforderlichen Massnahmen.
 
 <sup>2</sup> Es kann Projekte fördern und unterstützen, die der Sicherstellung des Notfalldiensts oder der Koordination zwischen dem ambulanten Notfalldienst und jenem des Spitals dienen.
+
+[^43-1]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
 
 ## 5. Bewilligungspflichtige Einrichtungen
 
@@ -641,21 +715,21 @@ beschliesst:
 
 **Betriebsbewilligungspflicht**
 
-<sup>1</sup> Die Errichtung und der Betrieb von Einrichtungen des Gesundheitswesens bedürfen einer Bewilligung des Finanzdepartements.
+<sup>1</sup> Die Errichtung und der Betrieb von Einrichtungen des Gesundheitswesens bedürfen einer Bewilligung.
 
 <sup>2</sup> Es sind insbesondere folgende Betriebsformen zugelassen:
 
 - a. Spitäler und Kliniken;
-- b. Pflegeheime und weitere Einrichtungen mit stationärer Langzeitpflege;
+- b. Pflegeheime, Pflegegruppen, Pflegewohnungen, Sterbehospize und weitere Einrichtungen mit stationärer Langzeitpflege;
 - c. Einrichtungen der spitalexternen Gesundheits- und Krankenpflege (Spitex);
-- d. Einrichtungen, die der ambulanten Krankenpflege durch Ärzte bzw. Ärztinnen dienen;
+- d. Einrichtungen, die der ambulanten Krankenpflege durch Ärzte bzw. Ärztinnen, Zahnärzte bzw. -ärztinnen und Tierärzte bzw. -ärztinnen dienen;
 - e. Krankentransport- und Rettungsunternehmen;
-- f. weitere Einrichtungen, die nach dem Bundesgesetz über die Krankenversicherung[^44-1] eine kantonale Zulassung benötigen;
+- f. weitere Einrichtungen, die nach der Krankenversicherungsgesetzgebung, dem Bundesgesetz über die medizinisch unterstützte Fortpflanzung[^44-1] oder nach anderen bundesrechtlichen Vorschriften zur Gruppe der Leistungserbringer zählen oder eine kantonale Zulassung benötigen;
 - g. Einrichtungen, die nach dem Bundesgesetz über Arzneimittel und Medizinprodukte[^44-2] eine kantonale Bewilligung benötigen; die Bewilligung von Privat- und Spitalapotheken richtet sich nach Art. 72 dieses Gesetzes.
 
 <sup>3</sup> Der Regierungsrat kann in Ausführungsbestimmungen weitere Einrichtungen der Betriebsbewilligungspflicht unterstellen oder für diese spezielle Voraussetzungen zum Betrieb erlassen, sofern dies erforderlich und zweckmässig erscheint.
 
-[^44-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
+[^44-1]: SR [810.11](https://db.clex.ch/link/Bund/810.11/de)
 [^44-2]: SR [812.21](https://db.clex.ch/link/Bund/812.21/de)
 
 #### Art. 45
@@ -665,8 +739,8 @@ beschliesst:
 <sup>1</sup> Die Betriebsbewilligung wird erteilt, wenn:
 
 - a. eine gesamtverantwortliche Leitungsperson, die für die Einhaltung der gesundheitspolizeilichen Vorschriften verantwortlich ist, bezeichnet worden ist;
-- b. die gesamtverantwortliche Leitungsperson, ausser in Pflegeheimen und weiteren Einrichtungen mit stationärer Langzeitpflege sowie in Institutionen der spitalexternen Gesundheits- und Krankenpflege (Spitex), über eine Berufsausübungsbewilligung verfügt, die das Leistungsangebot des Betriebs fachlich abdeckt, und sie bei der Entscheidung von Fachfragen unabhängig ist. Das Finanzdepartement kann in begründeten Fällen weitere Ausnahmen vorsehen, sofern dies mit dem übergeordneten Recht im Einklang steht;
-- c. bei Abwesenheit der gesamtverantwortlichen Leitungsperson die Stellvertretung durch fachlich qualifizierte Personen sichergestellt ist;
+- b. die gesamtverantwortliche Leitungsperson über eine Berufsausübungsbewilligung verfügt, die das Leistungsangebot des Betriebs fachlich abdeckt, und sie bei der Entscheidung von Fachfragen unabhängig ist. Der Regierungsrat kann für begründete Fälle in Ausführungsbestimmungen Ausnahmen vorsehen, sofern dies mit dem übergeordneten Recht im Einklang steht;
+- c. bei Abwesenheit der gesamtverantwortlichen Leitungsperson die Stellvertretung durch eine fachlich qualifizierte Person, welche über eine Berufsausübungsbewilligung verfügt, sichergestellt ist;
 - d. die Einrichtung über die zweckentsprechende medizinische und betriebliche Infrastruktur und ein geeignetes Qualitätssicherungssystem verfügt;
 - e. auf den Zeitpunkt der Betriebsaufnahme eine Betriebshaftpflichtversicherung entsprechend der Art und des Umfangs der Risiken abgeschlossen worden ist;
 - f. die für die betreffende Einrichtung allfällig zusätzlich geltenden Voraussetzungen aufgrund des übergeordneten Rechts erfüllt sind.
@@ -677,11 +751,13 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat bezeichnet die zuständigen Bewilligungsinstanzen, die Anforderungen an die Gesuchsunterlagen sowie die weiteren Pflichten in Ausführungsbestimmungen.
 
-<sup>2</sup> Soweit erforderlich erlässt das Finanzdepartement für einzelne Betriebsformen Richtlinien.
+<sup>2</sup> Soweit erforderlich erlässt das Sicherheits- und Sozialdepartement[^46-1] und bei mit der Behandlung oder Pflege von Tieren im Zusammenhang stehenden Tätigkeiten der Kantonstierarzt bzw. die Kantonstierärztin für einzelne Betriebsformen Richtlinien.
 
-<sup>3</sup> Für die Beschäftigung von fachlich unselbstständigen Personen sowie für die Stellvertretung gelten die Vorschriften für die bewilligungspflichtigen Berufe im Bereich des Gesundheitswesens sinngemäss. Spitäler und Kliniken benötigen diesbezüglich keine Bewilligung.
+<sup>3</sup> Für die Beschäftigung von fachlich ausgebildeten Personen im Angestelltenverhältnis unter der fachlichen Verantwortung und direkten Aufsicht einer Fachperson mit einer Berufsausübungsbewilligung der gleichen Berufsgattung sowie für die Stellvertretung gelten die Vorschriften für die bewilligungspflichtigen Berufe im Bereich des Gesundheitswesens sinngemäss. Spitäler und Kliniken benötigen diesbezüglich keine Bewilligung.
 
 <sup>4</sup> Im Übrigen sind Art. 34 Abs. 3, 4 und 5, Art. 35 f. und Art. 38 f. dieses Gesetzes sinngemäss anwendbar.
+
+[^46-1]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
 
 ## 6. Rechte und Pflichten der Patienten und Patientinnen
 
@@ -737,55 +813,51 @@ beschliesst:
 
 <sup>4</sup> Sie ist vor Verlust, sowie unerlaubter Einsichtnahme und Veränderung zu schützen.
 
-<sup>5</sup> Sie ist während mindestens zehn Jahren nach Abschluss der letzten Behandlung aufzubewahren. Vorbehalten bleiben längere Aufbewahrungsfristen gemäss Bundesrecht. Einrichtungen mit öffentlichen Aufgaben bieten Patientendokumentationen nach Ablauf der Aufbewahrungsfrist dem Staatsarchiv zur Übernahme an.
+<sup>5</sup> Sie ist während mindestens zehn Jahren nach Abschluss der letzten Behandlung aufzubewahren. Vorbehalten bleiben längere Aufbewahrungsfristen gemäss Bundesrecht. Einrichtungen mit öffentlichen Aufgaben bieten Patientendokumentationen nach Ablauf der Aufbewahrungsfrist dem Staatsarchiv zur Übernahme an. Der Regierungsrat kann in begründeten Fällen in Ausführungsbestimmungen längere Aufbewahrungsfristen vorsehen, wobei er den Interessen der Patienten und Patientinnen angemessen Rechnung trägt.
 
-<sup>6</sup> Berufsausübende und Einrichtungen, welche die Tätigkeit vorübergehend oder endgültig einstellen, teilen dies den Patienten und Patientinnen auf geeignete Weise mit. Wenn ein Patient bzw. eine Patientin dies verlangt, ist die Patientendokumentation im Original kostenlos herauszugeben. Wird die Herausgabe der Akten nicht verlangt, stirbt die aufzeichnungspflichtige Person oder löst sich die betreffende Einrichtung auf, sind sie dem Nachfolger bzw. der Nachfolgerin oder dem Finanzdepartement zu übergeben, welches über das weitere Vorgehen entscheidet. Der Datenschutz und die Datensicherheit sind zu gewährleisten.
+<sup>6</sup> Bei einer vorübergehenden oder endgültigen Berufsaufgabe und nach dem Tod der behandelnden oder pflegenden Person ist sicherzustellen, dass die Patientendokumentation dem Patienten bzw. der Patientin, unter Wahrung des Berufsgeheimnisses, zugänglich bleibt. Der Datenschutz und die Datensicherheit sind zu gewährleisten.
 
 #### Art. 51
 
-**E-Health-Dienste**
+**Elektronisches Patientendossier**
 
-<sup>1</sup> Der Kanton kann zwecks Erprobung von elektronischen Gesundheitsdiensten (E-Health-Dienste) Modellversuche durchführen oder durch Dritte mit entsprechender Bewilligung durchführen lassen. Diese können eine erweiterte Nutzung der Versichertenkarte in der obligatorischen Krankenpflegeversicherung beinhalten, welche über den Zweck und die Nutzungsmöglichkeiten von Art. 42a Abs. 2 und 4 des Bundesgesetzes über die Krankenversicherung[^51-1] hinausgeht.
+<sup>1</sup> Der Kanton fördert durch geeignete Massnahmen zur Steuerung, Koordination und Förderung der Zusammenarbeit und zur Vernetzung der Gemeinschaften die Etablierung eines elektronischen Patientendossiers im Kanton.
 
-<sup>2</sup> Für Modellversuche darf die AHV-Versichertennummer systematisch verwendet werden.
+<sup>1a.</sup> Er gewährleistet, dass sich das Kantonsspital einer zertifizierten Gemeinschaft oder Stammgemeinschaft anschliesst und die erforderlichen Strukturen für die Führung eines elektronischen Patientendossiers schafft.
 
-<sup>3</sup> Der Regierungsrat regelt das Nähere in Ausführungsbestimmungen. Er erlässt insbesondere Vorschriften über:
+<sup>1b.</sup> Der Regierungsrat entscheidet, auf Antrag des Spitalrats hin, über das Vorgehen im Einzelnen. Er kann, soweit dies erforderlich ist;
 
-- a. den Rahmen, den Zweck und die zeitliche Befristung des Modellversuchs;
-- b. die für die Durchführung des Modellversuchs zuständige Behörde bzw. Stelle;
-- c. die Gewährleistung der freiwilligen Teilnahme der Versuchsteilnehmer bzw. Versuchsteilnehmerinnen;
-- d. die im Rahmen des Modellversuchs bearbeiteten Daten;
-- e. die Zugriffsrechte auf Personendaten;
-- f. die Sicherstellung der Evaluation des Modellversuchs.
+- a. Trägerschaften bilden und ausbauen oder sich mittels Vereinbarungen an Trägerschaften anderer Kantone, öffentlicher oder privater Institutionen und Organisationen sowie weiterer Personen beteiligen;
+- b. die Organisation und die Vernetzung von Gemeinschaften steuern, koordinieren und fördern;
 
-[^51-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
+<sup>2–3</sup> …
 
 #### Art. 52
 
 **Einsichtsrecht in die Patientendokumentation**
 
-<sup>1</sup> Patienten und Patientinnen bzw. ihre gesetzliche oder vertragliche Vertretung können Einsicht in die sie betreffende Patientendokumentation verlangen. Als medizinische Unterlagen gelten insbesondere:
+<sup>1</sup> Patienten und Patientinnen bzw. ihre gesetzliche oder vertragliche Vertretung können Einsicht in die sie betreffende Patientendokumentation nehmen, Kopien davon verlangen oder diese im Original ausgehändigt erhalten, sofern sie schriftlich auf die gesetzliche Aufbewahrungspflicht gemäss Art. 50 Abs. 5 dieses Gesetzes verzichten. Als medizinische Unterlagen gelten insbesondere:
 
 - a. Ergebnisse apparativer Untersuchungen, wie Röntgenbilder, Laborbefunde, EKG- und EEG-Befunde und dergleichen;
 - b. Aufzeichnungen über diagnostische und therapeutische Massnahmen;
-- c. klinischer Status;
+- c. Angaben zum klinischen Status;
 - d. krankheits- und diagnosespezifische Angaben (ohne subjektive Wertung);
 - e. Ergebnisse von Untersuchungen;
 - f. Operationsberichte.
 
-<sup>2</sup> Den mit der Führung des jeweils zuständigen Krebsregisters betrauten Behörden steht überdies für die zur ordnungsgemässen Führung des betreffenden Registers erforderlichen, medizinischen Unterlagen ein Einsichtsrecht zu. Die entsprechenden Akten können den zuständigen Stellen auch als kopierte Dokumente abgegeben werden. Der Regierungsrat kann Vorschriften über den Datenaustausch im Abrufverfahren erlassen. Der Datenzugriff ist in diesem Fall durch ein Rollen- und Berechtigungskonzept genau zu regeln. Vorbehalten bleiben die Bestimmungen des übergeordneten Rechts.
+<sup>2</sup> …
 
-<sup>3</sup> Die für die Kontrolle der Rechnungen der ausserkantonalen Spitäler zuständigen Behörden sind berechtigt, im Zusammenhang mit der Spitalfinanzierung stichprobenartig zu kontrollieren, ob Personen, die in einem ausserkantonalem Spital behandelt wurden, im Kanton Wohnsitz haben.
+<sup>3</sup> Die für die Kontrolle der Rechnungen der ausserkantonalen Spitäler zuständigen Behörden sind berechtigt, im Zusammenhang mit der Spitalfinanzierung zu kontrollieren, ob Personen, die in einem ausserkantonalen Spital behandelt wurden, im Kanton Wohnsitz haben.
 
-<sup>4</sup> Die Einsicht ist unentgeltlich. Für die Ausfertigung von Kopien kann eine kostendeckende Entschädigung verlangt werden.
+<sup>4</sup> Die Einsicht ist unentgeltlich. Für die Ausfertigung von Kopien kann ausnahmsweise eine kostendeckende Entschädigung von maximal 300 Franken verlangt werden. Die Bundesgesetzgebung über den Datenschutz ist sinngemäss anwendbar.
 
 #### Art. 53
 
-**Berufsgeheimnis und Auskunft an Dritte**
+**Auskunft an Dritte**
 
 <sup>1</sup> Dritten darf Auskunft über die behandelte Person grundsätzlich nur mit deren vorgängigem Einverständnis erteilt werden. Bei Minderjährigen mit fehlender Urteilsfähigkeit oder bei urteilsunfähigen Personen ist das Einverständnis der gesetzlichen Vertretung erforderlich.
 
-<sup>2</sup> Sofern die Umstände nicht auf einen Geheimhaltungswillen schliessen lassen, wird die Zustimmung für behandlungsrelevante Auskünfte an die vor- und nachbehandelnden Personen sowie an die nächsten Angehörigen vermutet.
+<sup>2</sup> Sofern die Umstände nicht auf einen Geheimhaltungswillen schliessen lassen, wird die Zustimmung für behandlungsrelevante Auskünfte zuweisende, vor-, mit- und nachbehandelnde Personen sowie an die nächsten Angehörigen und an den Lebenspartner bzw. die Lebenspartnerin vermutet.
 
 <sup>3</sup> Das Recht auf Auskunft steht überdies auch der gesetzlichen oder allenfalls der vertraglichen Vertretung zu.
 
@@ -885,9 +957,9 @@ beschliesst:
 
 <sup>1</sup> Die Zulässigkeit und das Verfahren von Transplantationen von Organen, Geweben oder Zellen menschlichen oder tierischen Ursprungs sowie daraus hergestellten Produkten (Transplantationsprodukte), die zur Transplantation auf den Menschen bestimmt sind, richten sich nach dem Bundesgesetz über die Transplantation von Organen, Geweben und Zellen[^61-1].
 
-<sup>2</sup> Die unabhängige Instanz nach Art. 13 Abs. 2 Bst. i des Bundesgesetzes über die Transplantation von Organen, Geweben und Zellen[^61-2] ist die Ethikkommission gemäss Art. 73 dieses Gesetzes.
+<sup>2</sup> Die unabhängige Instanz nach Art. 13 Abs. 2 Bst. i des Bundesgesetzes über die Transplantation von Organen, Geweben und Zellen[^61-2] ist die Ethikkommission gemäss Art. 73 dieses Gesetzes. Entsprechende Gesuche sind mitsamt dem Nachweis der Ausnahmevoraussetzungen an die Ethikkommission zu richten.
 
-<sup>3</sup> Der Regierungsrat kann in Ausführungsbestimmungen die Zuständigkeiten sowie die Organisation und Koordination im Zusammenhang mit Transplantationen regeln.
+<sup>3</sup> Dem Kantonsspital obliegen die Aufgaben der kantonalen Koordinationsstelle im Zusammenhang mit Transplantationen. Die fachlich verantwortliche Leitungsperson des Kantonsspitals legt die erforderlichen Fort- und Weiterbildungsprogramme fest.
 
 [^61-1]: SR [810.21](https://db.clex.ch/link/Bund/810.21/de)
 [^61-2]: SR [810.21](https://db.clex.ch/link/Bund/810.21/de)
@@ -941,9 +1013,11 @@ beschliesst:
 - b. fördern die Gesundheitskompetenz des Einzelnen;
 - c. schaffen Anreize zur Verbesserung des Gesundheitsverhaltens in allen Personengruppen.
 
-<sup>2</sup> Sie betreiben zudem eine angemessen Prävention, um die Gesundheitsgefährdung frühzeitig zu erkennen, das Eintreten von Krankheiten und Unfällen möglichst zu vermeiden und die Auswirkungen von deren Folgen zu verringern.
+<sup>2</sup> Sie betreiben zudem eine angemessene Prävention, um die Gesundheitsgefährdung frühzeitig zu erkennen, das Eintreten von Krankheiten und Unfällen möglichst zu vermeiden und die Auswirkungen von deren Folgen zu verringern.
 
-<sup>3</sup> Das Finanzdepartement und das Sicherheits- und Justizdepartement initiieren, unterstützen und koordinieren Massnahmen und Projekte zur Gesundheitsförderung und Prävention, wobei sie sich jeweils an den nationalen Zielen des Bundes orientieren und den Bedürfnissen des Kantons, der Einwohnergemeinden sowie den involvierten Partnern Rechnung tragen. Sie können eigene Massnahmen treffen oder Beiträge an die Kosten der Massnahmen Dritter leisten.
+<sup>3</sup> Das Finanzdepartement[^65-1] und das Sicherheits- und Sozialdepartement initiieren, unterstützen und koordinieren Massnahmen und Projekte zur Gesundheitsförderung und Prävention, wobei sie sich jeweils an den nationalen Zielen des Bundes orientieren und den Bedürfnissen des Kantons, der Einwohnergemeinden sowie den involvierten Partnern Rechnung tragen. Sie können eigene Massnahmen treffen oder Beiträge an die Kosten der Massnahmen Dritter leisten.
+
+[^65-1]: Auf den 1. Juli 2022 wurden die Aufgaben des Finanzdepartements dem Sicherheits- und Sozialdepartement übertragen (OGS 2022, 20)
 
 #### Art. 66
 
@@ -954,6 +1028,8 @@ beschliesst:
 - a. Suchtberatung (Alkohol, Drogen, Tabak, Verhaltenssucht usw.);
 - b. Jugendberatung;
 - c. Eltern-, Familien- und Schwangerschaftsberatung.
+
+<sup>2</sup> Der Kanton und die Einwohnergemeinden können gemeinsam oder durch die Vergabe von Leistungsaufträgen an Dritte bedarfsgerechte Informations- und Beratungsangebote für betreuungs- und pflegebedürftige Personen bereitstellen.
 
 #### Art. 67
 
@@ -972,11 +1048,20 @@ beschliesst:
 
 **Tabak- und Alkoholprävention**
 
-<sup>1</sup> Der Verkauf von alkoholischen Getränken an Kinder und Jugendliche unter 16 Jahren sowie der Verkauf von Tabakprodukten und Spirituosen an Kinder und Jugendliche unter 18 Jahren sind verboten.
+<sup>1</sup> Der Verkauf und die Abgabe von alkoholischen Getränken an Kinder und Jugendliche unter 16 Jahren sowie der Verkauf von Tabakprodukten, elektronischen Zigaretten und Spirituosen an Kinder und Jugendliche unter 18 Jahren sind verboten.
 
-<sup>2</sup> Der Verkauf von Tabakprodukten durch Automaten ist zulässig, wenn deren Betreiber bzw. Betreiberin durch geeignete Massnahmen den Verkauf an Kinder und Jugendliche unter 18 Jahren verunmöglicht.
+<sup>1a</sup> Als Tabakprodukte gelten:
 
-<sup>3</sup> Die Abgabe von alkoholischen Getränken an Kinder und Jugendliche unter 16 Jahren sowie die Abgabe von Tabakprodukten und Spirituosen an Kinder und Jugendliche unter 18 Jahren sind verboten.
+- a. Tabakprodukte zum Rauchen;
+- b. Tabakprodukte zum Erhitzen;
+- c. Tabakprodukte zum oralen Gebrauch;
+- d. pflanzliche Rauchprodukte.
+
+<sup>1b</sup> Bei elektronischen Zigaretten handelt es sich um Geräte, die ohne Tabak verwendet werden und mit denen die Emissionen einer mittels hinzugefügter Energie erhitzten Flüssigkeit mit oder ohne Nikotin inhaliert werden können, sowie um Nachfüllmaterial für diese Geräte.
+
+<sup>2</sup> Der Verkauf von Tabakprodukten und elektronischen Zigaretten durch Automaten ist zulässig, wenn deren Betreiber bzw. Betreiberin durch geeignete Massnahmen den Verkauf an Kinder und Jugendliche unter 18 Jahren verunmöglicht.
+
+<sup>3</sup> …
 
 #### Art. 69
 
@@ -994,22 +1079,113 @@ beschliesst:
 
 #### Art. 70
 
-**Plakatwerbeverbot für Tabakprodukte und alkoholische Getränke**
+**Plakatwerbeverbot für Tabakprodukte, elektronische Zigaretten und alkoholische Getränke**
 
-<sup>1</sup> Die Plakatwerbung für Tabakprodukte und Alkohol ist auf öffentlichem Grund verboten.
+<sup>1</sup> Die Plakatwerbung für Tabakprodukte, elektronische Zigaretten und Alkohol ist auf öffentlichem Grund verboten.
 
-## 9. Heilmittel
+#### Art. 70a
+
+**Krebsregister**
+
+<sup>1</sup> Der Kanton führt ein Krebsregister.
+
+<sup>2</sup> Der Regierungsrat bestimmt den Betreiber bzw. die Betreiberin des Krebsregisters. Er kann die Registerführung einer innerkantonalen öffentlich-rechtlichen oder privaten Institution, Organisation oder Einrichtung übertragen oder den Anschluss an ein ausserkantonales Krebsregister anordnen.
+
+<sup>3</sup> Führung, Finanzierung und Kontrolle des Krebsregisters werden in einer Vereinbarung zwischen dem Sicherheits- und Sozialdepartement[^70a-1] und dem Betreiber bzw. der Betreiberin des Krebsregisters geregelt.
+
+<sup>4</sup> Der Betreiber bzw. die Betreiberin des Krebsregisters ist berechtigt, im Einzelfall oder im Rahmen eines Abrufverfahrens eine Abgleichung der Daten mit dem Einwohnerregister vorzunehmen. Der Regierungsrat kann Vorschriften über den Datenaustausch im Abrufverfahren erlassen. Der Datenzugriff ist in diesem Fall durch ein Rollen- und Berechtigungskonzept genau zu regeln.
+
+<sup>5</sup> Der Betreiber bzw. die Betreiberin des Krebsregisters gibt den Früherkennungsprogrammen die für die Qualitätssicherung erforderlichen Daten zusammen mit der Versicherungsnummer gemäss der Bundesgesetzgebung über die Alters- und Hinterlassenenversicherung bekannt.
+
+[^70a-1]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
+
+## 8a. Bekämpfung übertragbarer Krankheiten des Menschen
+
+#### Art. 70b
+
+**Zuständigkeiten**
+
+<sup>1</sup> Das Sicherheits- und Sozialdepartement[^70b-1] vollzieht die Massnahmen gemäss der Bundesgesetzgebung über die Bekämpfung übertragbarer Krankheiten des Menschen, soweit diese Aufgaben nicht ausdrücklich anderen Instanzen übertragen sind.
+
+<sup>2</sup> Der Regierungsrat kann die Einwohnergemeinden, Personen, welche eine Tätigkeit im Bereich des Gesundheitswesens ausüben, Einrichtungen des Gesundheitswesens und weitere öffentliche oder private Institutionen und Organisationen mit epidemiologischem Fachwissen zur Mitwirkung bei der Verhütung und Bekämpfung von übertragbaren Krankheiten des Menschen verpflichten.
+
+<sup>3</sup> Der Kanton kann an die aufgrund der Mitwirkungspflicht gemäss Absatz 2 entstehenden Kosten Beiträge gewähren, soweit diese nicht anderweitig gedeckt sind.
+
+<sup>4</sup> Die Kostentragung richtet sich nach Art. 4 Abs. 2 und 3 dieses Gesetzes.
+
+[^70b-1]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
+
+#### Art. 70c
+
+**Datenbearbeitung und -bekanntgabe**
+
+<sup>1</sup> Den gemäss Art. 70b dieses Gesetzes mit dem Vollzug der Bundesgesetzgebung über die Bekämpfung übertragbarer Krankheiten des Menschen betrauten Behörden, Personen, Einrichtungen und weiteren öffentlichen oder privaten Institutionen und Organisationen stehen folgende Befugnisse zu:
+
+- a. Bearbeitung und Austausch der für die Erfüllung ihrer Aufgaben notwendigen Personen- und Gesundheitsdaten;
+- b. Übermittlung der notwendigen Personen- und Gesundheitsdaten an Einrichtungen mit einem hohen Übertragungsrisiko, wie insbesondere Kindergärten, Kinderkrippen, Schulen und Behinderteninstitutionen;
+- c. Aufforderung der Einrichtungen mit einem erhöhten Übertragungsrisiko zur Übermittlung der notwendigen Personen- und Gesundheitsdaten.
+
+<sup>2</sup> Bei Missachtung von verfügten Einschränkungen einer bestimmten Tätigkeit oder der Berufsausübung gemäss Art. 38 des Bundesgesetzes über die Übertragung übertragbarer Krankheiten[^70c-1] kann das Sicherheits- und Sozialdepartement[^70c-2] den Arbeitgeber bzw. die Arbeitgeberin der betreffenden Person oder die für sie verantwortlichen Stellen über die betreffenden Einschränkungen in Kenntnis setzen.
+
+[^70c-1]: SR [81.101](https://db.clex.ch/link/Bund/81.101/de)
+[^70c-2]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
+
+#### Art. 70d
+
+**Ausführungsrecht**
+
+<sup>1</sup> Der Regierungsrat kann das Nähere in Ausführungsbestimmungen regeln und insbesondere Vorschriften über die Aufgabenverteilung sowie die Datenbearbeitung und -bekanntgabe erlassen.
+
+## 9. Heilmittel und Betäubungsmittel
+
+#### Art. 70e
+
+**Zuständigkeiten**
+
+<sup>1</sup> Das Sicherheits- und Sozialdepartement[^70e-1] und bei mit der Behandlung oder Pflege von Tieren im Zusammenhang stehenden Tätigkeiten der Kantonstierarzt bzw. die Kantonstierärztin vollziehen die Massnahmen gemäss dem Bundesgesetz über die Arzneimittel und Medizinprodukte[^70e-2] und dem Bundesgesetz über die Betäubungsmittel und die psychotropen Stoffe[^70e-3], soweit diese Aufgaben nicht ausdrücklich anderen Instanzen übertragen sind.
+
+<sup>2</sup> Sie können bestimmte Kontrollbefugnisse speziellen Fachstellen übertragen oder solche beiziehen.
+
+[^70e-1]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
+[^70e-2]: SR [812.21](https://db.clex.ch/link/Bund/812.21/de)
+[^70e-3]: SR [812.121](https://db.clex.ch/link/Bund/812.121/de)
+
+#### Art. 70f
+
+**Datenbearbeitung und -bekanntgabe**
+
+<sup>1</sup> Das Sicherheits- und Sozialdepartement[^70f-1] und der Kantonstierarzt bzw. die Kantonstierärztin sind zwecks Bekämpfung des Missbrauchs mit gefälschten oder mehrfach beschafften Rezepten sowie des Missbrauchs von Betäubungsmitteln und psychotropen Stoffen zum Austausch folgender Daten betreffend die missbräuchlich handelnden sowie behandelnden Personen mit Apothekern bzw. Apothekerinnen sowie mit Ärzten bzw. Ärztinnen und Tierärzten bzw. -ärztinnen berechtigt:
+
+- a. Name und Vorname sowie Geburtsdatum und Geschlecht;
+- b. Adresse, Wohnort und Wohnkanton;
+- c. laufende oder abgeschlossene betäubungsmittel-gestützte Behandlung;
+- d. Kopie des gefälschten oder mehrfach beschafften Rezeptes.
+
+<sup>2</sup> Der Austausch der Daten ist im Rahmen eines Abrufverfahrens möglich.
+
+<sup>3</sup> Das Sicherheits- und Sozialdepartement[^70f-2] erlässt die erforderlichen Richtlinien betreffend:
+
+- a. die Zugriffsberechtigungen sowie die Sorgfaltspflichten;
+- b. die Befugnisse für Erteilung, Aktualisierung und Entzug der Zugriffsberechtigungen;
+- c. die für den Schutz vor unberechtigten Zugriffen erforderlichen technischen Massnahmen;
+- d. die Verantwortung für den technischen Betrieb der Plattform.
+
+[^70f-1]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
+[^70f-2]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
 
 #### Art. 71
 
 **Ausführungsrecht**
 
-<sup>1</sup> Der Umgang mit Heilmitteln (Arzneimittel und Medizinprodukte), namentlich die Herstellung und das Inverkehrbringen, richtet sich nach dem Bundesgesetz über die Arzneimittel und Medizinprodukte[^71-1].
+<sup>1</sup> …
 
-<sup>2</sup> Der Regierungsrat regelt das Nähere in Ausführungsbestimmungen. Er kann insbesondere Vorschriften erlassen über:
+<sup>2</sup> Der Regierungsrat erlässt die notwendigen Ausführungsbestimmungen. Er kann insbesondere Vorschriften erlassen über:
 
 - a. die Herstellung, die Verschreibung, die Anwendung und die Abgabe von Arzneimitteln;
 - b. die Einrichtungen im Heilmittelbereich.
+- c. die Bewilligungen und Massnahmen gemäss dem Bundesgesetz über die Betäubungsmittel und psychotropen Stoffe und die Behandlungen mit Betäubungsmitteln[^71-1].
+
+<sup>3</sup> Er kann mit anderen öffentlich-rechtlichen Körperschaften, öffentlichen oder privaten Institutionen sowie weiteren Personen zusammenarbeiten und entsprechende Vereinbarungen abschliessen.
 
 [^71-1]: SR [812.21](https://db.clex.ch/link/Bund/812.21/de)
 
@@ -1017,11 +1193,15 @@ beschliesst:
 
 **Privat- und Spitalapotheken**
 
-<sup>1</sup> Die Befugnis zur Führung einer Privatapotheke steht Ärzten bzw. Ärztinnen, Zahnärzten bzw. -ärztinnen sowie Tierärzten bzw. -ärztinnen zu, sofern sie Gewähr für fachgerechte Lagerung, Überwachung und Abgabe der Heilmittel bieten.
+<sup>1</sup> Die Befugnis zur Führung einer Privatapotheke steht Ärzten bzw. Ärztinnen, Zahnärzten bzw. -ärztinnen sowie Tierärzten bzw. -ärztinnen zu, sofern sie über eine Berufsausübungsbewilligung verfügen und Gewähr für fachgerechte Lagerung, Überwachung und Abgabe der Heilmittel bieten.
 
 <sup>2</sup> Spitäler und Kliniken, welche nicht über einen eigenen Apotheker bzw. eine eigene Apothekerin verfügen, dürfen eine Spitalapotheke führen, sofern deren angemessene Kontrolle sowie deren pharmazeutische Beratung durch einen Apotheker bzw. eine Apothekerin mit Berufsausübungsbewilligung vertraglich sichergestellt sind.
 
-<sup>3</sup> Die Führung von Privat- und Spitalapotheken bedarf einer Bewilligung durch das Finanzdepartement. Der Kantonsapotheker bzw. die Kantonsapothekerin nimmt zum betreffenden Gesuch vorgängig Stellung.
+<sup>3</sup> Die Führung von Privat- und Spitalapotheken bedarf einer Bewilligung durch das Sicherheits- und Sozialdepartement[^72-1] und bei mit der Behandlung oder Pflege von Tieren im Zusammenhang stehenden Tätigkeiten einer Bewilligung durch den Kantonstierarzt bzw. die Kantonstierärztin. Der Kantonsapotheker bzw. die Kantonsapothekerin nimmt zum betreffenden Gesuch vorgängig Stellung.
+
+<sup>4</sup> Für die unmittelbare Anwendung von Arzneimitteln an eigenen Patienten und Patientinnen sowie für die Abgabe in Notfällen und bei Hausbesuchen ist keine Bewilligung erforderlich.
+
+[^72-1]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
 
 #### Art. 73
 
@@ -1037,7 +1217,7 @@ beschliesst:
 
 **Aufsichtsbefugnisse**
 
-<sup>1</sup> Das Finanzdepartement und die Stellen gemäss Art. 9 Abs. 3 dieses Gesetzes gewährleisten eine zweckmässige Aufsicht über sämtliche Berufe und Einrichtungen des Gesundheitswesens und können Betriebskontrollen durchführen.
+<sup>1</sup> Das Sicherheits- und Sozialdepartement[^74-1], der Kantonstierarzt bzw. die Kantonstierärztin und die Stellen gemäss Art. 9 Abs. 3 dieses Gesetzes gewährleisten eine zweckmässige Aufsicht über sämtliche Berufe und Einrichtungen des Gesundheitswesens und können Betriebskontrollen durchführen.
 
 <sup>2</sup> Insbesondere können sie:
 
@@ -1045,11 +1225,13 @@ beschliesst:
 - b. Räumlichkeiten betreten;
 - c. Proben erheben und Gegenstände zu Abklärungszwecken beschlagnahmen.
 
+[^74-1]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
+
 #### Art. 75
 
 **Verwaltungsmassnahmen**
 
-<sup>1</sup> Das Finanzdepartement und die Stellen gemäss Art. 9 Abs. 3 dieses Gesetzes treffen die zur Erfüllung der ihnen gesetzlich übertragenen Aufgaben erforderlichen Massnahmen.
+<sup>1</sup> Das Sicherheits- und Sozialdepartement[^75-1], der Kantonstierarzt bzw. die Kantonstierärztin und die Stellen gemäss Art. 9 Abs. 3 dieses Gesetzes treffen die zur Erfüllung der ihnen gesetzlich übertragenen Aufgaben erforderlichen Massnahmen.
 
 <sup>2</sup> Insbesondere können sie:
 
@@ -1057,13 +1239,57 @@ beschliesst:
 - b. die Benützung von Räumen und Einrichtungen untersagen sowie Betriebe schliessen;
 - c. unzulässige Bekanntmachungen verbieten und beseitigen sowie hierzu verwendete Mittel beschlagnahmen.
 
+[^75-1]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
+
 #### Art. 76
 
 **Disziplinarmassnahmen**
 
-<sup>1</sup> Verletzen Personen, welche einen Beruf im Bereich des Gesundheitswesens ausüben, oder Einrichtungen des Gesundheitswesens Bestimmungen dieses Gesetzes oder darauf gestützter Erlasse, kann das Finanzdepartement von sich aus oder auf Antrag anderer Stellen gemäss Art. 9 Abs. 3 dieses Gesetzes Disziplinarmassnahmen anordnen.
+<sup>1</sup> Verletzen Personen, welche einen Beruf im Bereich des Gesundheitswesens ausüben, oder Einrichtungen des Gesundheitswesens Bestimmungen dieses Gesetzes oder darauf gestützter Erlasse, können das Sicherheits- und Sozialdepartement[^76-1] und der Kantonstierarzt bzw. die Kantonstierärztin von sich aus oder auf Antrag anderer Stellen gemäss Art. 9 Abs. 3 dieses Gesetzes Disziplinarmassnahmen anordnen.
 
-<sup>2</sup> Es können eine Verwarnung, ein Verweis oder eine Busse bis Fr. 20 000.– angeordnet werden.
+<sup>1a</sup> Die Disziplinarmassnahmen für Personen, welche dem Bundesgesetz über die universitären Medizinalberufe[^76-2], dem Bundesgesetz über die Psychologieberufe[^76-3] oder dem Bundesgesetz über die Gesundheitsberufe[^76-4] unterstehen und ihre Tätigkeit in eigener fachlicher Verantwortung ausüben, richten sich nach Bundesrecht.
+
+<sup>2</sup> Für die übrigen Tätigkeiten können folgende Disziplinarmassnahmen angeordnet werden.
+
+- a. eine Verwarnung;
+- b. ein Verweis;
+- c. eine Busse bis zu Fr. 20 000.–;
+- d. ein Verbot der Berufsausübung für längstens sechs Jahre;
+- e. ein definitives Verbot der Berufsausübung für das ganze oder einen Teil des Tätigkeitsspektrums.
+
+<sup>3</sup> Eine Busse kann zusätzlich zu einem Verbot der Berufsausübung verfügt werden.
+
+[^76-1]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
+[^76-2]: SR [811.11](https://db.clex.ch/link/Bund/811.11/de)
+[^76-3]: SR [935.81](https://db.clex.ch/link/Bund/935.81/de)
+[^76-4]: SR [811.21](https://db.clex.ch/link/Bund/811.21/de)
+
+#### Art. 76a
+
+**Verjährung**
+
+<sup>1</sup> Die disziplinarische Verfolgung verjährt zwei Jahre, nachdem das Sicherheits- und Sozialdepartement[^76a-1] vom beanstandeten Vorfall Kenntnis erhalten hat.
+
+<sup>2</sup> Die Frist wird durch jede Untersuchungs- oder Prozesshandlung über den beanstandeten Vorfall unterbrochen.
+
+<sup>3</sup> Die disziplinarische Verfolgung verjährt in jedem Fall 10 Jahre nach dem beanstandeten Vorfall.
+
+<sup>4</sup> Stellt die Verletzung der Berufspflichten eine strafbare Handlung dar, so gilt die vom Strafrecht vorgesehene längere Verjährungsfrist.
+
+<sup>5</sup> Wird gegen eine Person ein Disziplinarverfahren durchgeführt, so können das Sicherheits- und Sozialdepartement[^76a-2] und der Kantonstierarzt bzw. die Kantonstierärztin zur Beurteilung der von dieser Person ausgehenden Gefährdung der öffentlichen Gesundheit ebenfalls Sachverhalte berücksichtigen, die verjährt sind.
+
+[^76a-1]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
+[^76a-2]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
+
+#### Art. 76b
+
+**Meldungen**
+
+<sup>1</sup> Die Verwaltungs- und Strafverfolgungsbehörden sowie die Gerichte informieren das Sicherheits- und Sozialdepartement[^76b-1] und den Kantonstierarzt bzw. die Kantonstierärztin über sämtliche disziplinarrechtlich relevanten Vorfälle und Wahrnehmungen.
+
+<sup>2</sup> Bei Eröffnung eines Disziplinarverfahrens gegen eine Person oder eine Einrichtung, welche über eine Bewilligung eines anderen Kantons verfügt, ist die Aufsichtsbehörde des betreffenden Kantons zu informieren.
+
+[^76b-1]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
 
 ## 11. Strafbestimmungen und Rechtsschutz
 
@@ -1077,7 +1303,8 @@ beschliesst:
 - b. als Inhaber bzw. Inhaberin einer Bewilligung seine bzw. ihre Befugnisse erheblich überschreitet oder schwerwiegend gegen die beruflichen Pflichten verstösst;
 - c. seine Melde- und Auskunftspflicht schwerwiegend oder wiederholt verletzt;
 - d. eine bewilligungsfreie Tätigkeit im Bereich des Gesundheitswesens ausübt und dies unsachlich oder in einer Weise bekannt macht, die zu Täuschungen Anlass gibt;
-- e. Personen, die unter seiner fachlichen Verantwortung und direkten Aufsicht stehen, Verrichtungen überträgt, die deren berufliche Qualifikation erheblich übersteigen.
+- e. Personen, die unter seiner fachlichen Verantwortung und direkten Aufsicht stehen, Verrichtungen überträgt, die deren berufliche Qualifikation erheblich übersteigen;
+- f. die Vorschriften betreffend den Verkauf und die Abgabe von Tabakprodukten und elektronischen Zigaretten sowie betreffend das Plakatwerbeverbot für Tabakprodukte, elektronische Zigaretten und alkoholische Getränke missachtet.
 
 <sup>2</sup> Wer fahrlässig handelt wird mit Busse bis Fr. 5 000.– bestraft.
 
@@ -1085,18 +1312,21 @@ beschliesst:
 
 <sup>4</sup> In besonders leichten Fällen kann auf Bestrafung verzichtet werden.
 
-<sup>5</sup> Die Strafurteile, die in Anwendung der eidgenössischen und kantonalen Gesundheitsgesetzgebung ergehen, sind dem Finanzdepartement zuzustellen.
+<sup>5</sup> Die Strafurteile, die in Anwendung der eidgenössischen und kantonalen Gesundheitsgesetzgebung ergehen, sind nach Eintritt der Rechtskraft dem Sicherheits- und Sozialdepartement[^77-1] und bei mit der Behandlung oder Pflege von Tieren im Zusammenhang stehenden Tätigkeiten dem Kantonstierarzt bzw. der Kantonstierärztin zuzustellen.
+
+[^77-1]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
 
 #### Art. 78
 
 **Rechtsmittel im Allgemeinen**
 
-<sup>1</sup> Gegen Verfügungen und Entscheide der im Bereich des Gesundheitswesens zuständigen Behörden, wie namentlich der Gemeindeärzte bzw. -ärztinnen, des Kantonsarztes bzw. der Kantonsärztin, des Kantonstierarztes bzw. der Kantonstierärztin, des Kantonsapothekers bzw. der Kantonsapothekerin, kann innerhalb von 30 Tagen schriftlich und begründet Beschwerde beim Finanzdepartement erhoben werden.
+<sup>1</sup> Gegen Verfügungen und Entscheide der im Bereich des Gesundheitswesens zuständigen Behörden, wie namentlich der Gemeindeärzte bzw. -ärztinnen, des Kantonsarztes bzw. der Kantonsärztin und des Kantonsapothekers bzw. der Kantonsapothekerin, kann innerhalb von 30 Tagen schriftlich und begründet Beschwerde beim Sicherheits- und Sozialdepartement[^78-1] erhoben werden.
 
-<sup>2</sup> Im Übrigen richtet sich der Rechtsschutz nach den Bestimmungen der Kantonsverfassung[^78-1] und des Staatsverwaltungsgesetzes[^78-2].
+<sup>2</sup> Im Übrigen richtet sich der Rechtsschutz nach den Bestimmungen der Kantonsverfassung[^78-2] und des Staatsverwaltungsgesetzes[^78-3].
 
-[^78-1]: GDB [101.0](http://gdb.ow.ch/data/101.0/de)
-[^78-2]: GDB [130.1](http://gdb.ow.ch/data/130.1/de)
+[^78-1]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
+[^78-2]: GDB [101.0](http://gdb.ow.ch/data/101.0/de)
+[^78-3]: GDB [130.1](http://gdb.ow.ch/data/130.1/de)
 
 #### Art. 79
 
@@ -1132,7 +1362,7 @@ beschliesst:
 
 <sup>4</sup> Für neu der Bewilligungspflicht unterstellte Tätigkeiten und Einrichtungen ist innerhalb von sechs Monaten seit Inkrafttreten dieses Gesetzes ein Bewilligungsgesuch einzureichen; ansonsten ist die weitere Ausübung dieser Tätigkeit bzw. der Betrieb dieser Einrichtung untersagt.
 
-<sup>5</sup> Das Finanzdepartement kann Personen, die vor Inkrafttreten dieses Gesetzes während mindestens drei Jahren einen neu der Bewilligungspflicht unterstellten Beruf privatrechtlich und in eigener Verantwortung ausgeübt oder eine entsprechende Einrichtung betrieben haben, bei genügender Qualifikation die Berufsausübungsbewilligung für höchstens fünf Jahre erteilen, auch wenn die gesetzlich geforderten Voraussetzungen nicht erfüllt sind.
+<sup>5</sup> Personen, die vor Inkrafttreten dieses Gesetzes während mindestens drei Jahren einen neu der Bewilligungspflicht unterstellten Beruf in eigener Verantwortung ausgeübt oder eine entsprechende Einrichtung betrieben haben, kann bei genügender Qualifikation die Berufsausübungsbewilligung für höchstens fünf Jahre erteilt werden, auch wenn die gesetzlich geforderten Voraussetzungen nicht erfüllt sind.
 
 <sup>6</sup> Personen, die beim Inkrafttreten dieses Gesetzes eine bewilligungspflichtige Tätigkeit ausüben und über 70 Jahre alt sind, müssen innert dreier Monate nach Inkrafttreten dieses Gesetzes ein Gesuch um Verlängerung der Bewilligung einreichen.
 
@@ -1178,10 +1408,16 @@ Aufgehobene Erlasse:
 
 \- Verordnung über Patientenrechte vom 24. Oktober 1991; GDB 830.31 (OGS 1991, 82, OGS 2012, 29),
 
-\- Verordnung über die Förderung der Betagtenbetreuung vom 27. Juni 2008; GDB 830.42 (OGS 1008, 52)
+\- Verordnung über die Förderung der Betagtenbetreuung vom 27. Juni 2008; GDB 830.42 (OGS 1008, 52).
+
+Durch den Nachtrag vom 25. Juni 2021 aufgehobener Erlass:
+
+\- Verordnung zum Bundesgesetz über die Betäubungsmittel und die psychotropen Stoffe (Betäubungsmittelverordnung) vom 25. November 1952 (OGS 1958, 43, OGS 1980, 5, OGS 2005, 29, OGS 2007, 13, OGS 2010, 33)
 
 Geändert durch:
 
-\- Nachtrag vom 28. Juni 2019 (OGS 2019, 33), Botschaft und Vorlage des Regierungsrats vom 9. April 2019, Kantonsratssitzungen vom 23. Mai und 28.Juni 2019 (22.19.06), in Kraft seit 1. Januar 2020 (OGS 2019, 40)
+\- Nachtrag vom 28. Juni 2019 (OGS 2019, 33), Botschaft und Vorlage des Regierungsrats vom 9. April 2019, Kantonsratssitzungen vom 23. Mai und 28.Juni 2019 (22.19.06), in Kraft seit 1. Januar 2020 (OGS 2019, 40),
+
+\- Nachtrag vom 25. Juni 2021 (OGS 2021, 23), Botschaft und Vorlage des Regierungsrats vom 9. März 2021), Kantonsratssitzungen vom 27. Mai und 25. Juni 2021 (22.21.01), Volksabstimmung vom 28. November 2021 (ABl 2021, 1747), in Kraft seit 1. Januar 2022 (OGS 2021, 41)
 
 OGS 2015, 64
