@@ -4,13 +4,13 @@ number: "713.121"
 title: Bauverordnung
 short: BauV
 language: de
-version: 2021-11-01
-valid_until: 2021-12-31
-version_adopted: 2021-08-25
+version: 2022-01-01
+valid_until: 2022-06-30
+version_adopted: 2021-11-10
 adopted: 2011-05-25
 in_force: 2011-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/713.121"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3076/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3197/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3076/pdf_file"
 
 (BauV)
 
-Vom 25.05.2011 (Stand 01.11.2021)
+Vom 25.05.2011 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -636,7 +636,7 @@ AZ = ∑aGF / aGSF
 
 <sup>3</sup> Für Sichtzonen bei Einmündungen von Gemeinde- und Privatstrassen und von Privatausfahrten in Kantonsstrassen setzt die Gemeinde die dauernde Freihaltung durch. Für die Freihaltung von Sichtzonen bei Einmündungen und Kreuzungen von Kantonsstrassen unter sich ist der Kanton zuständig.
 
-[^42-1]: Das Merkblatt ist veröffentlicht unter www.ag.ch/verkehr &gt; Mobilität & Verkehr &gt; Strasseninfrastruktur &gt; Strassennetz &gt; Sicht an Knoten und Ausfahrten.
+[^42-1]: Das Merkblatt und Erläuterungen dazu sind veröffentlicht unter [www.ag.ch/tiefbau](https://www.ag.ch/tiefbau) &gt; Strasseninfrastruktur &gt; Integrales Management-System IMS &gt; Einstieg ins IMS &gt; 408 Verkehrstechnik/Verkehrssicherheit &gt; Merkblatt Sicht im Strassenraum [408.104](https://ag.scodi.net/web/viewer?id=EmbeddedDocument_xattEMWlEeWJi80s89zpuQ) / Erläuterungen Sicht im Strassenraum [408.105](https://ag.scodi.net/web/viewer?id=EmbeddedDocument_2iIK8ECdEeyu24fpMg0P5Q)
 
 #### § 43
 
@@ -716,14 +716,7 @@ AZ = ∑aGF / aGSF
 
 #### § 48
 
-**Winterdienst auf Kantonsstrassen (§§ 98, 99 BauG)**
-
-<sup>1</sup> Der Winterdienst auf den Kantonsstrassen obliegt
-
-- a) auf den Ausserortsstrecken für Radwege sowie Personenunter- und überführungen den Gemeinden, im Übrigen dem Kanton,
-- b) auf den Innerortsstrecken bezüglich der Schneeräumung und der Bekämpfung der Winterglätte auf den durchgehenden Fahrbahnen, eingeschlossen niveaugleiche Radstreifen sowie Bus- und Abbiegespuren, dem Kanton, im Übrigen den Gemeinden; sie besorgen auch die Schneeabfuhr innerorts, wenn diese an exponierten Stellen erforderlich ist.
-
-<sup>2</sup> Der Kanton kann den ihm obliegenden Winterdienst gegen Entschädigung den Gemeinden mit ihrer Zustimmung ganz oder teilweise übertragen.
+**…**
 
 ## 10. Befreiung von der Baubewilligungspflicht und vereinfachtes Verfahren
 
@@ -962,7 +955,7 @@ AZ = ∑aGF / aGSF
 <sup>2</sup> Ist eine Anpassung erfolgt und haben die Gemeinden nichts anderes festlegt, gelten für altrechtliche Sondernutzungspläne folgende Begriffsdefinitionen:
 
 - a) Die Gebäudehöhe entspricht neu der talseitig gemessenen (traufseitigen) Fassadenhöhe ohne Attikageschoss,
-- b) Die Firsthöhe entspricht neu der Gesamthöhe. Liegt der untere Messpunkt der Gesamthöhe höher als der tiefste Punk der talseitigen Fassadenlinie, verkürzt sich die zulässige Gesamthöhe um diese Höhendifferenz.
+- b) Die Firsthöhe entspricht neu der Gesamthöhe. Liegt der untere Messpunkt der Gesamthöhe höher als der tiefste Punkt der talseitigen Fassadenlinie, verkürzt sich die zulässige Gesamthöhe um diese Höhendifferenz.
 
 Aarau, 25. Mai 2011
 
