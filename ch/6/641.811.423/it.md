@@ -3,11 +3,11 @@ sr: "641.811.423"
 title: "Ordinanza del DFF dell' 11 febbraio 2020 concernente il coinvolgimento dei fornitori di carte-carburante nella riscossione della tassa sul traffico pesante commisurata alle prestazioni (Ordinanza del DFF sui fornitori di carte-carburante)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/83"
 language: it
-version: 2020-03-01
+version: 2022-01-01
 adopted: 2020-02-11
 in_force: 2020-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/83/20200301/it/xml/fedlex-data-admin-ch-eli-cc-2020-83-20200301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/83/20200301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/83/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-83-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/83/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/83/20200301/it"
 
 (Ordinanza del DFF sui fornitori di SET e sui fornitori di carte-carburante)
 
-dell’11 febbraio 2020 (Stato 1° marzo 2020)
+dell’11 febbraio 2020 (Stato 1° gennaio 2022)
 
 Il Dipartimento federale delle finanze (DFF),
 
@@ -38,7 +38,7 @@ Ai fini del coinvolgimento dei fornitori del SET e dei fornitori di carte-carbur
 
 - a. le prescrizioni tecniche e operative destinate ai fornitori del SET e ai fornitori di carte-carburante;
 - b. la procedura d’esame per il rilascio dell’autorizzazione quale fornitore del SET o fornitore di carte-carburante;
-- c. l’ammontare del compenso per le prestazioni che i fornitori del SET e i fornitori di carte-carburante forniscono all’Amministrazione federale delle dogane (AFD).
+- c. l’ammontare del compenso per le prestazioni che i fornitori del SET e i fornitori di carte-carburante forniscono all’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^1-1].
 
 <sup>2</sup>
 
@@ -47,11 +47,13 @@ Le prescrizioni tecniche e operative sono disciplinate:
 - a. nell’allegato 1 per i fornitori del SET;
 - b. nell’allegato 2 per i fornitori di carte-carburante.
 
+[^1-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+
 #### Art. 2
 
 **Autorizzazione**
 
-<sup>1</sup> Chi vuole ottenere dall’AFD l’autorizzazione quale fornitore del SET o fornitore di carte-carburante deve presentarle una domanda di autorizzazione per la prestazione che intende fornire.
+<sup>1</sup> Chi vuole ottenere dall’UDSC l’autorizzazione quale fornitore del SET o fornitore di carte-carburante deve presentarle una domanda di autorizzazione per la prestazione che intende fornire.
 
 <sup>2</sup> Nella procedura di autorizzazione il richiedente deve provare di soddisfare durevolmente le prescrizioni tecniche e operative per la prestazione che intende fornire.
 
@@ -82,25 +84,25 @@ La procedura di autorizzazione consiste in quattro fasi successive:
 
 **Riconoscimento degli esiti di test ottenuti nell’ambito di altre procedure di autorizzazione**
 
-L’AFD rinuncia a svolgere test se gli esiti dei test ottenuti nell’ambito di una procedura di autorizzazione svolta in uno Stato dello Spazio economico europeo provano che le prescrizioni tecniche e operative secondo l’allegato 1 sono soddisfatte.
+L’UDSC rinuncia a svolgere test se gli esiti dei test ottenuti nell’ambito di una procedura di autorizzazione svolta in uno Stato dello Spazio economico europeo provano che le prescrizioni tecniche e operative secondo l’allegato 1 sono soddisfatte.
 
 #### Art. 5
 
 **Decisione**
 
-<sup>1</sup> Se il fornitore del SET soddisfa le esigenze per le fasi 1–3, l’AFD stipula con lui un contratto di autorizzazione di diritto pubblico per il progetto pilota della fase 4.
+<sup>1</sup> Se il fornitore del SET soddisfa le esigenze per le fasi 1–3, l’UDSC stipula con lui un contratto di autorizzazione di diritto pubblico per il progetto pilota della fase 4.
 
-<sup>2</sup> Se il fornitore del SET soddisfa anche le esigenze del progetto pilota della fase 4, tramite decisione l’AFD gli rilascia l’autorizzazione per la riscossione elettronica della TTPCP mediante SET.
+<sup>2</sup> Se il fornitore del SET soddisfa anche le esigenze del progetto pilota della fase 4, tramite decisione l’UDSC gli rilascia l’autorizzazione per la riscossione elettronica della TTPCP mediante SET.
 
-<sup>3</sup> Se l’AFD rilascia l’autorizzazione, il contratto di autorizzazione di cui all’allegato 1 vale anche per l’esercizio regolare.
+<sup>3</sup> Se l’UDSC rilascia l’autorizzazione, il contratto di autorizzazione di cui all’allegato 1 vale anche per l’esercizio regolare.
 
-<sup>4</sup> Se l’AFD non rilascia l’autorizzazione, il contratto si annulla automaticamente e senza indennità. Ciò vale anche quando il richiedente presenta ricorso contro il rifiuto di rilasciare l’autorizzazione.
+<sup>4</sup> Se l’UDSC non rilascia l’autorizzazione, il contratto si annulla automaticamente e senza indennità. Ciò vale anche quando il richiedente presenta ricorso contro il rifiuto di rilasciare l’autorizzazione.
 
 #### Art. 6
 
 **Cambiamento della situazione**
 
-<sup>1</sup> L’AFD può ripetere la procedura di autorizzazione o singole fasi se la propria situazione o quella del fornitore del SET cambia radicalmente.
+<sup>1</sup> L’UDSC può ripetere la procedura di autorizzazione o singole fasi se la propria situazione o quella del fornitore del SET cambia radicalmente.
 
 <sup>2</sup> La ripetizione della procedura non dà al fornitore alcun diritto a un’indennità.
 
@@ -108,9 +110,9 @@ L’AFD rinuncia a svolgere test se gli esiti dei test ottenuti nell’ambito di
 
 **Condizioni per l’autorizzazione non più soddisfatte e violazione degli obblighi**
 
-<sup>1</sup> Se le condizioni per l’autorizzazione non sono più soddisfatte o se il fornitore del SET viola gli obblighi contrattuali o di carattere normativo, l’AFD adotta in primo luogo i provvedimenti previsti nel contratto di autorizzazione.
+<sup>1</sup> Se le condizioni per l’autorizzazione non sono più soddisfatte o se il fornitore del SET viola gli obblighi contrattuali o di carattere normativo, l’UDSC adotta in primo luogo i provvedimenti previsti nel contratto di autorizzazione.
 
-<sup>2</sup> Se questi provvedimenti risultano infruttuosi o adottarli sembra inutile, l’AFD sospende l’autorizzazione e fissa al fornitore del SET un termine entro il quale rimediare alle carenze, oppure revoca l’autorizzazione.
+<sup>2</sup> Se questi provvedimenti risultano infruttuosi o adottarli sembra inutile, l’UDSC sospende l’autorizzazione e fissa al fornitore del SET un termine entro il quale rimediare alle carenze, oppure revoca l’autorizzazione.
 
 ### Sezione 2: Obblighi dei fornitori del SET
 
@@ -151,7 +153,7 @@ Inoltre, egli registra i seguenti dati relativi agli autoveicoli impiegati dal d
 
 <sup>2</sup> Il blocco degli apparecchi di rilevazione spetta al fornitore del SET.
 
-<sup>3</sup> Il fornitore del SET può comunicare periodicamente all’AFD gli apparecchi di rilevazione che non possono più essere utilizzati.
+<sup>3</sup> Il fornitore del SET può comunicare periodicamente all’UDSC gli apparecchi di rilevazione che non possono più essere utilizzati.
 
 #### Art. 11
 
@@ -159,15 +161,15 @@ Inoltre, egli registra i seguenti dati relativi agli autoveicoli impiegati dal d
 
 <sup>1</sup> Il fornitore del SET rileva, conformemente alle prescrizioni tecniche, i dati necessari per la riscossione della TTPCP relativi alle corse assoggettate alla tassa effettuate dai suoi utenti del SET.
 
-<sup>2</sup> Entro 24 ore dall’inizio della corsa assoggettata alla tassa e conformemente alle prescrizioni tecniche egli trasmette spontaneamente all’AFD i dati della dichiarazione necessari alla riscossione della tassa relativi a tale corsa.
+<sup>2</sup> Entro 24 ore dall’inizio della corsa assoggettata alla tassa e conformemente alle prescrizioni tecniche egli trasmette spontaneamente all’UDSC i dati della dichiarazione necessari alla riscossione della tassa relativi a tale corsa.
 
-<sup>3</sup> Su richiesta, egli consente all’AFD di consultare tutti i dati e le informazioni necessari per la verifica della dichiarazione della corsa assoggettata alla tassa.
+<sup>3</sup> Su richiesta, egli consente all’UDSC di consultare tutti i dati e le informazioni necessari per la verifica della dichiarazione della corsa assoggettata alla tassa.
 
 #### Art. 12
 
 **Ricezione dell’imposizione della tassa**
 
-<sup>1</sup> Il fornitore del SET, in qualità di persona autorizzata a ricevere le notificazioni, riceve a nome della persona assoggettata alla tassa l’imposizione dell’AFD.
+<sup>1</sup> Il fornitore del SET, in qualità di persona autorizzata a ricevere le notificazioni, riceve a nome della persona assoggettata alla tassa l’imposizione dell’UDSC.
 
 <sup>2</sup> L’imposizione è inviata al fornitore del SET elettronicamente oppure in forma cartacea al suo recapito in Svizzera.
 
@@ -177,7 +179,7 @@ Inoltre, egli registra i seguenti dati relativi agli autoveicoli impiegati dal d
 
 **Pagamento della tassa**
 
-<sup>1</sup> Dopo aver ricevuto la fattura, il fornitore del SET deve pagare all’AFD la tassa dovuta entro 30 giorni dalla data di fatturazione.
+<sup>1</sup> Dopo aver ricevuto la fattura, il fornitore del SET deve pagare all’UDSC la tassa dovuta entro 30 giorni dalla data di fatturazione.
 
 <sup>2</sup> Egli si assume il rischio dell’incasso legato alla persona assoggettata.
 
@@ -185,26 +187,26 @@ Inoltre, egli registra i seguenti dati relativi agli autoveicoli impiegati dal d
 
 Se il fornitore del SET blocca un apparecchio di rilevazione, il suo obbligo di pagamento per la tassa dovuta dopo il blocco decade soltanto se:
 
-- a. egli ha comunicato il blocco all’AFD; e
+- a. egli ha comunicato il blocco all’UDSC; e
 - b. il blocco diventa efficace ai sensi delle prescrizioni tecniche quando l’utente del SET entra nel territorio di applicazione della TTPCP.
 
 #### Art. 14
 
 **Contestazione delle imposizioni**
 
-<sup>1</sup> Se una persona assoggettata alla tassa contesta un’imposizione presso il fornitore del SET, quest’ultimo esamina la contestazione e trasmette l’esito dell’esame all’AFD se non è in grado di trattare egli stesso la contestazione.
+<sup>1</sup> Se una persona assoggettata alla tassa contesta un’imposizione presso il fornitore del SET, quest’ultimo esamina la contestazione e trasmette l’esito dell’esame all’UDSC se non è in grado di trattare egli stesso la contestazione.
 
-<sup>2</sup> Se l’AFD ritiene motivata la contestazione, rettifica la relativa imposizione.
+<sup>2</sup> Se l’UDSC ritiene motivata la contestazione, rettifica la relativa imposizione.
 
 #### Art. 15
 
-**Informazione all’AFD**
+**Informazione all’UDSC**
 
-<sup>1</sup> Il fornitore del SET comunica in anticipo all’AFD eventuali cambiamenti al sistema che possono ripercuotersi sul soddisfacimento delle prescrizioni.
+<sup>1</sup> Il fornitore del SET comunica in anticipo all’UDSC eventuali cambiamenti al sistema che possono ripercuotersi sul soddisfacimento delle prescrizioni.
 
-<sup>2</sup> Egli informa immediatamente l’AFD se non soddisfa più le condizioni tecniche od operative dell’autorizzazione.
+<sup>2</sup> Egli informa immediatamente l’UDSC se non soddisfa più le condizioni tecniche od operative dell’autorizzazione.
 
-<sup>3</sup> Egli comunica in anticipo all’AFD l’intenzione di cessare la propria attività di fornitore del SET.
+<sup>3</sup> Egli comunica in anticipo all’UDSC l’intenzione di cessare la propria attività di fornitore del SET.
 
 #### Art. 16
 
@@ -212,21 +214,21 @@ Se il fornitore del SET blocca un apparecchio di rilevazione, il suo obbligo di 
 
 <sup>1</sup> Il fornitore del SET collabora alla misurazione degli indicatori relativi alle sue prestazioni.
 
-<sup>2</sup> Egli concorda con l’AFD eventuali miglioramenti necessari.
+<sup>2</sup> Egli concorda con l’UDSC eventuali miglioramenti necessari.
 
-<sup>3</sup> Egli collabora all’introduzione di innovazioni tecniche, a condizione che l’AFD le abbia annunciate in precedenza.
+<sup>3</sup> Egli collabora all’introduzione di innovazioni tecniche, a condizione che l’UDSC le abbia annunciate in precedenza.
 
 #### Art. 17
 
 **Altri obblighi contrattuali**
 
-Mediante contratto, l’AFD può concordare con il fornitore del SET altri obblighi in relazione al soddisfacimento delle prescrizioni tecniche od operative.
+Mediante contratto, l’UDSC può concordare con il fornitore del SET altri obblighi in relazione al soddisfacimento delle prescrizioni tecniche od operative.
 
 ### Sezione 3: Compenso
 
 #### Art. 18
 
-<sup>1</sup> Tutte le prestazioni che il fornitore del SET fornisce all’AFD in relazione alla riscossione elettronica della TTPCP mediante SET sono compensate con un importo forfetario.
+<sup>1</sup> Tutte le prestazioni che il fornitore del SET fornisce all’UDSC in relazione alla riscossione elettronica della TTPCP mediante SET sono compensate con un importo forfetario.
 
 <sup>2</sup> L’importo forfetario ammonta al 2,7 per cento dei tributi fatturati.
 
@@ -240,19 +242,19 @@ Mediante contratto, l’AFD può concordare con il fornitore del SET altri obbli
 
 **Esame**
 
-L’AFD esamina se la domanda di autorizzazione adempie le condizioni formali, se il contenuto è completo e se il richiedente soddisfa le prescrizioni tecniche e operative.
+L’UDSC esamina se la domanda di autorizzazione adempie le condizioni formali, se il contenuto è completo e se il richiedente soddisfa le prescrizioni tecniche e operative.
 
 #### Art. 20
 
 **Decisione**
 
-Se il fornitore di carte-carburante soddisfa le prescrizioni tecniche e operative, l’AFD stipula con lui un contratto di autorizzazione di diritto pubblico.
+Se il fornitore di carte-carburante soddisfa le prescrizioni tecniche e operative, l’UDSC stipula con lui un contratto di autorizzazione di diritto pubblico.
 
 #### Art. 21
 
 **Cambiamento della situazione**
 
-<sup>1</sup> L’AFD può ripetere la procedura di autorizzazione se la propria situazione o quella del fornitore di carte-carburante cambia radicalmente.
+<sup>1</sup> L’UDSC può ripetere la procedura di autorizzazione se la propria situazione o quella del fornitore di carte-carburante cambia radicalmente.
 
 <sup>2</sup> La ripetizione della procedura non dà al fornitore alcun diritto a un’indennità.
 
@@ -266,30 +268,30 @@ Se il fornitore di carte-carburante soddisfa le prescrizioni tecniche e operativ
 
 <sup>2</sup> Il blocco delle carte-carburante spetta al fornitore delle carte-carburante.
 
-<sup>3</sup> Il fornitore di carte-carburante può comunicare periodicamente all’AFD le proprie carte-carburante non più valide.
+<sup>3</sup> Il fornitore di carte-carburante può comunicare periodicamente all’UDSC le proprie carte-carburante non più valide.
 
 #### Art. 23
 
 **Accettazione delle transazioni effettuate con carte-carburante e pagamento**
 
-<sup>1</sup> Il fornitore di carte-carburante accetta le transazioni effettuate dai suoi clienti con carte valide in vista del pagamento della TTPCP e paga all’AFD la relativa fattura entro 30 giorni dalla data di fatturazione.
+<sup>1</sup> Il fornitore di carte-carburante accetta le transazioni effettuate dai suoi clienti con carte valide in vista del pagamento della TTPCP e paga all’UDSC la relativa fattura entro 30 giorni dalla data di fatturazione.
 
 <sup>2</sup>
 
 Se il fornitore di carte-carburante blocca una carta, il suo obbligo di pagamento per la tassa dovuta dopo il blocco decade soltanto se:
 
-- a. egli ha comunicato il blocco all’AFD; e
+- a. egli ha comunicato il blocco all’UDSC; e
 - b. il blocco diventa efficace ai sensi delle prescrizioni tecniche quando l’utente della carta-carburante entra nel territorio di applicazione della TTPCP.
 
 #### Art. 24
 
-**Informazione all’AFD**
+**Informazione all’UDSC**
 
-<sup>1</sup> Il fornitore di carte-carburante comunica in anticipo all’AFD eventuali cambiamenti al sistema che possono ripercuotersi sul soddisfacimento delle prescrizioni.
+<sup>1</sup> Il fornitore di carte-carburante comunica in anticipo all’UDSC eventuali cambiamenti al sistema che possono ripercuotersi sul soddisfacimento delle prescrizioni.
 
-<sup>2</sup> Egli informa immediatamente l’AFD se non soddisfa più le condizioni tecniche od operative dell’autorizzazione.
+<sup>2</sup> Egli informa immediatamente l’UDSC se non soddisfa più le condizioni tecniche od operative dell’autorizzazione.
 
-<sup>3</sup> Egli comunica in anticipo all’AFD l’intenzione di cessare la propria attività di fornitore di carte-carburante.
+<sup>3</sup> Egli comunica in anticipo all’UDSC l’intenzione di cessare la propria attività di fornitore di carte-carburante.
 
 #### Art. 25
 
@@ -297,21 +299,21 @@ Se il fornitore di carte-carburante blocca una carta, il suo obbligo di pagament
 
 <sup>1</sup> Il fornitore di carte-carburante collabora alla misurazione degli indicatori relativi alle proprie prestazioni.
 
-<sup>2</sup> Egli concorda con l’AFD eventuali miglioramenti necessari.
+<sup>2</sup> Egli concorda con l’UDSC eventuali miglioramenti necessari.
 
-<sup>3</sup> Egli collabora all’introduzione di innovazioni tecniche, a condizione che l’AFD le abbia annunciate in precedenza.
+<sup>3</sup> Egli collabora all’introduzione di innovazioni tecniche, a condizione che l’UDSC le abbia annunciate in precedenza.
 
 #### Art. 26
 
 **Altri obblighi contrattuali**
 
-Mediante contratto, l’AFD può concordare con il fornitore di carte-carburante altri obblighi in relazione al soddisfacimento delle prescrizioni tecniche od operative.
+Mediante contratto, l’UDSC può concordare con il fornitore di carte-carburante altri obblighi in relazione al soddisfacimento delle prescrizioni tecniche od operative.
 
 ### Sezione 3: Compenso
 
 #### Art. 27
 
-<sup>1</sup> Tutte le prestazioni che il fornitore di carte-carburante fornisce all’AFD in relazione all’utilizzo delle carte-carburante nel territorio svizzero sono compensate con un importo forfetario.
+<sup>1</sup> Tutte le prestazioni che il fornitore di carte-carburante fornisce all’UDSC in relazione all’utilizzo delle carte-carburante nel territorio svizzero sono compensate con un importo forfetario.
 
 <sup>2</sup> L’importo forfetario ammonta all’1,7 per cento dei tributi fatturati.
 
@@ -335,18 +337,18 @@ Allegato 1
 
 (art. 1 cpv. 2, 4 cpv. 3 e art 4*a*)
 
-## Prescrizioni tecniche e operative per i fornitori del SET****
+## Prescrizioni tecniche e operative per i fornitori del SET
 
 [^annex1-lvlu1-1]
 
-[^annex1-lvlu1-1]: Il testo del presente all. non è pubblicato nella RU. Può essere consultato gratuitamente all’indirizzo www.ezv.admin.ch &gt; Informazioni per ditte &gt; Tasse sul traffico stradale, veicoli, conducenti, documenti di viaggio &gt; Tasse sul traffico pesante (TTPCP e TFTP) &gt; TTPCP - In generale / Tariffe &gt; Fornitore SET.
+[^annex1-lvlu1-1]: Il testo del presente all. non è pubblicato nella RU. Può essere consultato gratuitamente all’indirizzo www.bazg.admin.ch &gt; Informazioni per ditte &gt; Tasse sul traffico stradale, veicoli, conducenti, documenti di viaggio &gt; Tasse sul traffico pesante (TTPCP e TFTP) &gt; TTPCP - In generale / Tariffe &gt; Fornitore SET.
 
 Allegato 2
 
 (art. 1 cpv. 3)
 
-## Prescrizioni tecniche e operative per i fornitori di carte-carburante****
+## Prescrizioni tecniche e operative per i fornitori di carte-carburante
 
 [^annex2-lvlu1-1]
 
-[^annex2-lvlu1-1]: Il testo del presente allegato non è pubblicato nella RU. Può essere consultato gratuitamente all’indirizzo www.ezv.admin.ch &gt; Informazioni per ditte &gt; Tasse sul traffico stradale, veicoli, conducenti, documenti di viaggio &gt; Tasse sul traffico pesante (TTPCP e TFTP) &gt; TTPCP - In generale / Tariffe &gt; Fornitori di carte-carburante.
+[^annex2-lvlu1-1]: Il testo del presente allegato non è pubblicato nella RU. Può essere consultato gratuitamente all’indirizzo www.bazg.admin.ch &gt; Informazioni per ditte &gt; Tasse sul traffico stradale, veicoli, conducenti, documenti di viaggio &gt; Tasse sul traffico pesante (TTPCP e TFTP) &gt; TTPCP - In generale / Tariffe &gt; Fornitori di carte-carburante.
