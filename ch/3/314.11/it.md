@@ -4,11 +4,11 @@ title: Ordinanza del 16 gennaio 2019 concernente le multe disciplinari (OMD)
 short: OMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: it
-version: 2021-12-20
+version: 2022-01-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20211220/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20211220-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20211220/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20211220/it"
 
 (OMD)
 
-del 16 gennaio 2019 (Stato 20 dicembre 2021)
+del 16 gennaio 2019 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -598,7 +598,7 @@ Allegato 2*[^t-2]*
 
 ## Elenco delle multe 2
 
-[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), dall’all. dell’O del 27 gen. 2021, in vigore fino al 31 dic. 2021 ([RU 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), dall’all. 2 n. 1 dell’O del COVID-19 del 27 gen. 2021 sui provvedimenti nel settore del traffico internazionale viaggiatori) ([RU 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)), dall’all. 3 n. 1 dell’O del 23 giu. 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare ([RU 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), dal n. III dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore fino al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), dall’all. n. 1 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. III dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)), dal n. III dell’O del 17 dic. 2021 (Obbligo della mascherina nelle scuole di livello secondario II, limitazioni dell’accesso alle persone con un certificato di vaccinazione o di guarigione, limitazioni per le manifestazioni private, obbligo di telelavoro, prescrizioni per il livello terziario e la formazione continua), in vigore fino al 24 gen. 2022 ([RU 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)) e del 17 dic. 2021, in vigore dal 20 dic. 2021 ([RU 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
+[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), dall’all. 3 n. 1 dell’O del 23 giu. 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare ([RU 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), dal n. III dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore fino al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), dall’all. n. 1 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. III dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)), dal n. III dell’O del 17 dic. 2021 (Obbligo della mascherina nelle scuole di livello secondario II, limitazioni dell’accesso alle persone con un certificato di vaccinazione o di guarigione, limitazioni per le manifestazioni private, obbligo di telelavoro, prescrizioni per il livello terziario e la formazione continua), in vigore fino al 24 gen. 2022 ([RU 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)) e del 17 dic. 2021, in vigore dal 20 dic. 2021 ([RU 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
 
 ### Contravvenzioni secondo gli altri atti normativi
 
@@ -734,7 +734,7 @@ Allegato 2*[^t-2]*
 <tr><td>16004. ...</td><td colspan="2">[tab]</td></tr>
 <tr><td>16005. Accesso illecito senza il certificato obbligatorio a un luogo o una manifestazione per i quali l’accesso delle persone a partire dai 16 anni è limitato alle persone con un determinato certificato (art. 28 lett. h dell’ordinanza COVID-19 situazione particolare)</td><td colspan="2">[tab] 100</td></tr>
 <tr><td>16006. Violazione, in qualità di ospite, dell’obbligo di stare seduti in strutture della ristorazione e bar (art. 28 lett. g in combinato disposto con l’art. 12 cpv. 1 lett. a dell’ordinanza COVID-19 situazione particolare)</td><td colspan="2">100</td></tr>
-<tr><td>16007. Accesso illecito senza il certificato obbligatorio a un luogo o una manifestazione per i quali l’accesso delle persone a partire dai 16 anni è limitato alle persone con un determinato certificato (art. 28 lett. h dell’ordinanza COVID-19 situazione particolare)</td><td colspan="2">200</td></tr>
+<tr><td>16007. Svolgimento di una manifestazione privata con più persone di quanto ammesso (art. 28 lett. c in combinato disposto con l’art. 14 cpv. 3 e 15 cpv. 3 dell’ordinanza COVID-19 situazione particolare)</td><td colspan="2">[tab] 200</td></tr>
 <tr><td>**XVII.** **Legge del 28 settembre 2012**[^annex2-lvlu1-lvlu1-26] **sulle epidemie (LEp) in combinato disposto con l’ordinanza COVID-19 traffico internazionale viaggiatori del 23 giugno 2021**[^annex2-lvlu1-lvlu1-27]</td><td colspan="2">[tab]</td></tr>
 <tr><td colspan="2">17001. Mancata attestazione di un’analisi di biologia molecolare per il SARS-CoV-2 o di un test rapido SARS-CoV-2 per uso professionale con risultato negativo all’entrata in Svizzera (art. 83 cpv. 1 lett. k LEp in combinato disposto con l’art. 8 cpv. 1 e 4 dell’ordinanza COVID-19 traffico internazionale viaggiatori)</td><td colspan="2">200</td></tr>
 <tr><td colspan="2">17002. Dati di contatto errati o mancanti all’entrata in Svizzera (art. 83 cpv. 1 lett. k LEp e art. 3 cpv. 1 dell’ordinanza COVID-19 traffico internazionale viaggiatori)</td><td colspan="2">100</td></tr>

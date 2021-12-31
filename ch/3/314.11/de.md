@@ -4,11 +4,11 @@ title: Ordnungsbussenverordnung vom 16. Januar 2019 (OBV)
 short: OBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: de
-version: 2021-12-20
+version: 2022-01-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20211220/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20211220-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20211220/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20211220/de"
 
 (OBV)
 
-vom 16. Januar 2019 (Stand am 20. Dezember 2021)
+vom 16. Januar 2019 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -601,7 +601,7 @@ Anhang 2*[^t-2]*
 
 ## Bussenliste 2
 
-[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang der V vom 27. Jan. 2021 (Erweiterung der Strafbestimmungen und Einführung des Ordnungsbussenverfahrens), in Kraft bis zum 31. Dez. 2021 ([AS 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), Anhang 2 Ziff. 1 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Jan. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)), Anhang 3 Ziff. 1 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), Ziff. III der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), Anhang Ziff. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Ziff. III der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)), Ziff. III der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)) und der V vom 17. Dez. 2021, in Kraft seit 20. Dez. 2021 ([AS 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
+[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang 3 Ziff. 1 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), Ziff. III der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), Anhang Ziff. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Ziff. III der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)), Ziff. III der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)) und der V vom 17. Dez. 2021, in Kraft seit 20. Dez. 2021 ([AS 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
 
 ### Übertretungen nach den übrigen Erlassen
 
@@ -737,7 +737,7 @@ Anhang 2*[^t-2]*
 <tr><td colspan="2">16001. …</td><td colspan="2">[tab]</td></tr>
 <tr><td colspan="2">16002. Unbefugtes Nichttragen einer Gesichtsmaske in geschlossenen Bereichen von Fahrzeugen des öffentlichen Verkehrs, in öffentlich zugänglichen Innenräumen von Einrichtungen und Betrieben oder an Veranstaltungen (Art. 28 Bst. e i.V.m. Art. 5 Abs. 1, 6 Abs. 1 oder 15 Abs. 2 Bst. b Covid-19-Verordnung besondere Lage)</td><td colspan="2">[tab] 100</td></tr>
 <tr><td colspan="2">16003. …</td><td colspan="2">[tab]</td></tr>
-<tr><td colspan="2">16004. …</td><td colspan="2">[tab] 100</td></tr>
+<tr><td colspan="2">16004. …</td><td colspan="2">[tab]</td></tr>
 <tr><td colspan="2">16005. Unberechtigter Zutritt ohne das erforderliche Zertifikat zu einer Örtlichkeit oder Veranstaltung, für den für Personen ab 16 Jahren ein bestimmtes Zertifikat verlangt wird (Art. 28 Bst. h Covid-19-Verordnung besondere Lage)</td><td colspan="2">100</td></tr>
 <tr><td>16006. Verstoss als Gast gegen die Sitzpflicht in Restaurations- und Barbetrieben (Art. 28 Bst. g i.V.m. Art. 12 Abs. 1 Bst. a Covid-19-Verordnung besondere Lage)</td><td colspan="2">[tab] 100</td></tr>
 <tr><td>16007. Durchführung einer privaten Veranstaltung mit mehr Personen, als zulässig sind (Art. 28 Bst. c i.V.m. Art. 14 Abs. 3 und 15 Abs. 3 Covid-19-Verordnung besondere Lage)</td><td colspan="2">200</td></tr>
