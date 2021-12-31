@@ -4,11 +4,11 @@ title: "Legge federale dell' 11 dicembre 2009 sulla promozione della cultura (Le
 short: LPCu
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/854"
 language: it
-version: 2021-02-01
+version: 2022-01-01
 adopted: 2009-12-11
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2011-854-20210201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20210201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-854-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20210201/it"
 
 (Legge sulla promozione della cultura, LPCu)
 
-dell’11 dicembre 2009 (Stato 1° febbraio 2021)
+dell’11 dicembre 2009 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -263,13 +263,13 @@ La Confederazione può prendere misure al fine di promuovere la cultura degli Je
 
 [^18-1]: Abrogato dal n. I della LF del 25 set. 2020, con effetto dal 1° feb. 2021 ([RU 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
-#### Art. 1
+#### Art. 19
 
-**Promozione della mediazione artistica[^1-3]**
+**Promozione della mediazione artistica[^19-1]**
 
 La Confederazione può prendere misure affinché un’opera o una produzione artistica sia resa più accessibile al pubblico.
 
-[^1-3]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^19-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
 #### Art. 20
 
@@ -324,13 +324,14 @@ Il Dipartimento federale dell’interno (DFI) e il Dipartimento federale degli a
 
 **Aiuti finanziari e altre forme di sostegno**
 
-<sup>1</sup> Gli aiuti finanziari sono versati, nei limiti dei crediti stanziati, in forma di contributi a fondo perso, garanzie di deficit, contributi in conto interessi, fideiussioni, prestazioni in natura o mutui rimborsabili condizionatamente.
+<sup>1</sup> Gli aiuti finanziari sono versati, nei limiti dei crediti stanziati, in forma di contributi a fondo perso, garanzie di deficit, contributi in conto interessi, prestazioni in natura o mutui rimborsabili condizionalmente.[^25-1]
 
 <sup>2</sup> Un sostegno può essere accordato anche in forma di consulenza o di raccomandazioni, nonché mediante l’assunzione di patronati o mediante altre prestazioni non finanziarie.
 
-<sup>3</sup> Gli aiuti finanziari possono essere accordati anche mediante un contratto di prestazioni ai sensi dell’articolo 16 capoverso 2 della legge del 5 ottobre 1990[^25-1] sui sussidi.
+<sup>3</sup> Gli aiuti finanziari possono essere accordati anche mediante un contratto di prestazioni ai sensi dell’articolo 16 capoverso 2 della legge del 5 ottobre 1990[^25-2] sui sussidi.
 
-[^25-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^25-1]: Nuovo testo giusta il n. I 1 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^25-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 #### Art. 26
 
@@ -356,10 +357,11 @@ L’Assemblea federale autorizza i seguenti limiti di spesa e crediti d’impegn
 
 - a.[^27-1] limiti di spesa rispettivamente per le misure di cui agli articoli 9*a*, 10, 12–15, 16 capoversi 1 e 2 lettera a, 17 e 18 nonché per le misure di cui agli articoli 11, 16 capoverso 2 lettera b e 19–21;
 - b. limiti di spesa per i settori della promozione disciplinati in leggi speciali;
-- c. un credito quadro secondo l’articolo 16*a* della legge federale del 1° luglio 1966[^27-2] sulla protezione della natura e del paesaggio per il settore della protezione del paesaggio e della conservazione dei monumenti storici.
+- c. un credito d’impegno[^27-2] secondo l’articolo 16*a* della legge federale del 1° luglio 1966[^27-3] sulla protezione della natura e del paesaggio per il settore della protezione del paesaggio e della conservazione dei monumenti storici.
 
 [^27-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
-[^27-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^27-2]: Nuova espr. giusta l’all. n. 2 della L del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^27-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 
 #### Art. 28
 

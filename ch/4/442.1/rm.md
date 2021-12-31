@@ -4,11 +4,11 @@ title: "Lescha federala dals 11 da december 2009 davart la promoziun da la cultu
 short: LPCu
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/854"
 language: rm
-version: 2021-02-01
+version: 2022-01-01
 adopted: 2009-12-11
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20210201/rm/xml/fedlex-data-admin-ch-eli-cc-2011-854-20210201-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20210201/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-2011-854-20220101-rm-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20220101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha per promover la cultura, LPCu)
 
-dals 11 da december 2009 (versiun dal 1. da favrer 2021)
+dals 11 da december 2009 (versiun dal 1. da schaner 2022)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -74,7 +74,7 @@ La promoziun da la cultura da la Confederaziun resta resalvada tenor las suandan
 
 [^2-1]: [SR 432.21](https://fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773)
 [^2-2]: [SR 432.30](https://fedlex.data.admin.ch/eli/cc/2009/598)
-[^2-3]: [[AS 1996 2280](https://fedlex.data.admin.ch/eli/oc/1996/2280_2280_2280)[2514](https://fedlex.data.admin.ch/eli/oc/1996/2514_2514_2514); [AS 2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)agiunta cifra I]
+[^2-3]: [[AS 1996 2280](https://fedlex.data.admin.ch/eli/oc/1996/2280_2280_2280), [2514](https://fedlex.data.admin.ch/eli/oc/1996/2514_2514_2514); [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)agiunta cifra I]
 [^2-4]: [SR 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
 [^2-5]: [SR 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
 [^2-6]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
@@ -154,7 +154,7 @@ La Confederaziun sustegna da preferenza projects che:
 
 <sup>1</sup>
 
-La Confederaziun e la fundaziun Pro Helvetia assegnan ina procentuala da lur subsidis per persunas che lavuran sin il champ cultural a:
+La Confederaziun e la fundaziun Pro Helvetia assegnan ina procentuala da lur agids finanzials per persunas che lavuran sin il champ cultural a:
 
 - a. la cassa da pensiun da quella persuna che survegn l’agid finanzial; u
 - b. in’autra furma da provediment tenor l’artitgel 82 alinea 2 da la Lescha federala dals 25 da zercladur 1982[^9-2] davart il provediment professiunal per vegls, survivents ed invaliditad da questa persuna.
@@ -176,7 +176,7 @@ La Confederaziun po sustegnair projects che han l’intent da rinforzar la parti
 
 **Mesiras per conservar il patrimoni cultural**
 
-<sup>1</sup> La Confederaziun po sustegnair museums, collecziuns e raits d’instituziuns independentas che servan a conservar il patrimoni cultural, e quai en spezial cun conceder subsidis vi dals custs da gestiun e da project. En cas d’exposiziuns d’impurtanza naziunala po ella pajar contribuziuns a las premias d’assicuranza per emprests.
+<sup>1</sup> La Confederaziun po sustegnair museums, collecziuns e raits d’instituziuns independentas che servan a conservar il patrimoni cultural, e quai en spezial cun conceder agids finanzials als custs da gestiun e da project. En cas d’exposiziuns d’impurtanza naziunala po ella pajar contribuziuns a las premias d’assicuranza per emprests.
 
 <sup>2</sup> La Confederaziun sustegna mo museums e collecziuns che han in concept da collecziun.
 
@@ -320,21 +320,22 @@ Il Departament federal da l’intern (DFI) ed il Departament federal d’affars 
 
 #### Art. 25
 
-**Subsidis finanzials ed autras furmas da sustegn**
+**Agids finanzials ed autras furmas da sustegn**
 
-<sup>1</sup> Subsidis finanzials vegnan pajads en il rom dals credits permess sco prestaziuns en daners betg rembursablas, sco garanzias da deficit, sco supplements da tschains, sco cauziuns, sco prestaziuns materialas u sco emprests da daners rembursabels tenor tschertas cundiziuns.
+<sup>1</sup> Agids finanzials vegnan pajads en il rom dals credits permess sco prestaziuns en daners betg rembursablas, sco garanzias da deficit, sco supplements da tschains, sco prestaziuns materialas u sco emprests da daners rembursabels tenor tschertas cundiziuns.[^25-1]
 
 <sup>2</sup> In sustegn po er vegnir dà cun cussegliar u cun far recumandaziuns sco er cun surpigliar patrunadis u tras autras prestaziuns betg monetaras.
 
-<sup>3</sup> Subsidis finanzials pon er vegnir concedids tras in contract da prestaziuns en il senn da l’artitgel 16 alinea 2 da la Lescha da subvenziuns dals 5 d’october 1990[^25-1].
+<sup>3</sup> Agids finanzials pon er vegnir concedids tras in contract da prestaziuns en il senn da l’artitgel 16 alinea 2 da la Lescha da subvenziuns dals 5 d’october 1990[^25-2].
 
-[^25-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^25-1]: Versiun tenor la cifra I 1 da la LF dals 19 da mars 2021 davart facilitaziuns administrativas e mesiras da distgargia da las finanzas federalas, en vigur dapi il 1. da schan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^25-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 #### Art. 26
 
 **Disposiziuns dal dretg processual**
 
-<sup>1</sup> La procedura per subsidis da passa 100 000 francs sa drizza – cun resalva da l’alinea 2 – tenor las disposiziuns generalas da l’organisaziun giudiziala. En cas da recurs cunter subsidis da fin e cun 100 000 francs vegn applitgada ina procedura simplifitgada e scursanida che chaschuna evidentamain damain custs administrativs e generals.
+<sup>1</sup> La procedura per agids finanzials da passa 100 000 francs sa drizza – cun resalva da l’alinea 2 – tenor las disposiziuns generalas da l’organisaziun giudiziala. En cas da recurs cunter agids finanzials da fin e cun 100 000 francs vegn applitgada ina procedura simplifitgada e scursanida che chaschuna evidentamain damain custs administrativs e generals.
 
 <sup>2</sup> La reprimanda da l’inadequatezza n’è betg admessa en proceduras da recurs.
 
@@ -354,10 +355,11 @@ L’Assamblea federala permetta las suandantas limitas d’expensas ed ils suand
 
 - a.[^27-1] mintgamai ina limita d’expensas per las mesiras tenor ils artitgels 9*a*, 10, 12–15, 16 alineas 1 e 2 litera a, 17 e 18 sco er per las mesiras tenor ils artitgels 11, 16 alinea 2 litera b e 19–21;
 - b. las limitas d’expensas per ils secturs da promoziun da dretg spezial;
-- c. in credit general tenor l’artitgel 16*a* da la Lescha federala dal 1. da fanadur 1966[^27-2] davart la protecziun da la natira e da la patria, per il sectur protecziun da la patria e tgira da monuments.
+- c. in credit d’impegn[^27-2] tenor l’artitgel 16*a* da la Lescha federala dal 1. da fanadur 1966[^27-3] davart la protecziun da la natira e da la patria, per il sectur protecziun da la patria e tgira da monuments.
 
 [^27-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2015, en vigur dapi il 1. da schan. 2016 ([AS 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
-[^27-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^27-2]: Expressiun tenor la cifra 2 da l’agiunta da la LF dals 19 da mars 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^27-3]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 
 #### Art. 28
 
@@ -449,7 +451,7 @@ Il cussegl da fundaziun ha las suandantas incumbensas:
 - h. Cun resalva da l’approvaziun dal Cussegl federal decretescha el las cundiziuns d’engaschament.
 - i. El fixescha l’urden da gestiun e l’ordinaziun da contribuziuns da la fundaziun.
 
-<sup>6</sup> L’artitgel 6*a* da la Lescha davart il persunal da la Confederaziun dals 24 da mars 2000[^34-1] (LPers) vala tenor il senn per l’onurari dals commembers dal cussegl da fundaziun e per ulteriuras cundiziuns contractualas ch’èn vegnidas fixadas cun questas persunas.
+<sup>6</sup> L’artitgel 6*a* da la Lescha dals 24 da mars 2000[^34-1] davart il persunal da la Confederaziun (LPers) vala tenor il senn per l’onurari dals commembers dal cussegl da fundaziun e per ulteriuras cundiziuns contractualas ch’èn vegnidas fixadas cun questas persunas.
 
 [^34-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
@@ -467,7 +469,7 @@ Il directur presidiescha la direcziun. El:
 
 - a. engascha il persunal da la fundaziun;
 - b. represchenta la fundaziun vers anora;
-- c. decida sin proposta da la cumissiun spezialisada davart subsidis finanzials considerabels e davart programs impurtants da la fundaziun; decisiuns che divergeschan da la proposta ston vegnir motivadas.
+- c. decida sin proposta da la cumissiun spezialisada davart agids finanzials considerabels e davart programs impurtants da la fundaziun; decisiuns che divergeschan da la proposta ston vegnir motivadas.
 
 <sup>4</sup> Ils detagls vegnan reglads en l’urden da gestiun.
 
@@ -493,7 +495,7 @@ Il directur presidiescha la direcziun. El:
 
 <sup>2</sup> Ils commembers da la cumissiun spezialisada vegnan elegids per 4 onns. Els pon vegnir reelegids ina giada.
 
-<sup>3</sup> La cumissiun spezialisada giuditgescha las dumondas da conceder subsidis finanzials considerabels ed examinescha ils programs impurtants da la fundaziun.
+<sup>3</sup> La cumissiun spezialisada giuditgescha las dumondas da conceder agids finanzials considerabels ed examinescha ils programs impurtants da la fundaziun.
 
 <sup>4</sup> L’organisaziun e la moda da lavurar da la cumissiun spezialisada vegnan fixadas en l’urden da gestiun da la fundaziun.
 
@@ -503,7 +505,7 @@ Il directur presidiescha la direcziun. El:
 
 <sup>1</sup> La fundaziun ha in secretariat en Svizra e filialas a l’exteriur.
 
-<sup>2</sup> Il secretariat decida senza proposta da la cumissiun spezialisada davart ils subsidis finanzials betg considerabels e davart ils programs da la fundaziun da pitschna impurtanza.
+<sup>2</sup> Il secretariat decida senza proposta da la cumissiun spezialisada davart ils agids finanzials betg considerabels e davart ils programs da la fundaziun da pitschna impurtanza.
 
 #### Art. 39
 
@@ -638,11 +640,11 @@ Ils decrets qua sutvart vegnan midads sco suonda:
 
 …[^annexu1-lvlu1-8]
 
-[^annexu1-lvlu1-1]: [[AS 2004 2077](https://fedlex.data.admin.ch/eli/oc/2004/236), [2008 319](https://fedlex.data.admin.ch/eli/oc/2008/80)]
+[^annexu1-lvlu1-1]: [[AS 2004 2077](https://fedlex.data.admin.ch/eli/oc/2004/236); [2008 319](https://fedlex.data.admin.ch/eli/oc/2008/80)]
 [^annexu1-lvlu1-2]: [[AS 2008 3517](https://fedlex.data.admin.ch/eli/oc/2008/454)]
 [^annexu1-lvlu1-3]: [[AS 2006 1255](https://fedlex.data.admin.ch/eli/oc/2006/219)]
 [^annexu1-lvlu1-4]: [BS **4** 199]
 [^annexu1-lvlu1-5]: [BS **4** 212; [AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)agiunta cifra 6]
-[^annexu1-lvlu1-6]: [[AS 1966 665](https://fedlex.data.admin.ch/eli/oc/1966/665_689_685), [1981 821](https://fedlex.data.admin.ch/eli/oc/1981/821_821_821), [1993 879](https://fedlex.data.admin.ch/eli/oc/1993/879_879_879)agiunta 3 cifra 10, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 42]
+[^annexu1-lvlu1-6]: [[AS 1966 665](https://fedlex.data.admin.ch/eli/oc/1966/665_689_685); [1981 821](https://fedlex.data.admin.ch/eli/oc/1981/821_821_821); [1993 879](https://fedlex.data.admin.ch/eli/oc/1993/879_879_879)agiunta 3 cifra 10; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 42]
 [^annexu1-lvlu1-7]: [[AS 1996 3040](https://fedlex.data.admin.ch/eli/oc/1996/3040_3040_3040)]
 [^annexu1-lvlu1-8]: Las midadas pon vegnir consultadas en la [AS 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854).

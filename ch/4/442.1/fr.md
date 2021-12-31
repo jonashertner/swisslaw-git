@@ -4,11 +4,11 @@ title: "Loi fédérale du 11 décembre 2009 sur l'encouragement de la culture (L
 short: LEC
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/854"
 language: fr
-version: 2021-02-01
+version: 2022-01-01
 adopted: 2009-12-11
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2011-854-20210201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-854-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20210201/fr"
 
 (Loi sur l’encouragement de la culture, LEC)[^t-1]
 
-du 11 décembre 2009 (Etat le 1<sup>er</sup> février 2021)
+du 11 décembre 2009 (État le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -322,13 +322,14 @@ Le Département fédéral de l’intérieur et le Département fédéral des aff
 
 **Aides financières et autres formes de soutien**
 
-<sup>1</sup> Dans le cadre des crédits alloués, les aides financières sont versées sous la forme de contributions à fonds perdu, de garanties de déficit, de bonifications d’intérêts, de cautionnements, de prestations en nature ou de prêts remboursables sous condition.
+<sup>1</sup> Dans le cadre des crédits alloués, les aides financières sont versées sous la forme de contributions à fonds perdu, de garanties de déficit, de bonifications d’intérêts, de prestations en nature ou de prêts remboursables sous condition.[^25-1]
 
 <sup>2</sup> Un soutien peut aussi être accordé sous la forme de conseils, de recommandations, de patronages ou d’autres prestations non monétaires.
 
-<sup>3</sup> Les aides financières peuvent aussi être accordées en vertu d’un contrat de prestations conformément à l’art. 16, al. 2, de la loi du 5 octobre 1990 sur les subventions[^25-1].
+<sup>3</sup> Les aides financières peuvent aussi être accordées en vertu d’un contrat de prestations conformément à l’art. 16, al. 2, de la loi du 5 octobre 1990 sur les subventions[^25-2].
 
-[^25-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^25-1]: Nouvelle teneur selon le ch. I 1 de la LF du 19 mars 2021 sur des allégements administratifs et des mesures destinées à soulager les finances fédérales, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^25-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 #### Art. 26
 
@@ -354,10 +355,11 @@ L’Assemblée fédérale approuve les plafonds de dépenses et les crédits d�
 
 - a.[^27-1] le plafond de dépenses pour les mesures visées aux art. 9*a*, 10, 12 à 15, 16, al. 1 et 2, let. a, 17 et 18, d’une part, et aux art. 11, 16, al. 2, let. b, et 19 à 21, d’autre part;
 - b. les plafonds de dépenses pour les domaines régis par des lois spéciales;
-- c. le crédit-cadre visé à l’art. 16*a* de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^27-2] pour le domaine de la protection du paysage et de la conservation des monuments historiques.
+- c. le crédit d’engagement[^27-2] visé à l’art. 16*a* de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^27-3] pour le domaine de la protection du paysage et de la conservation des monuments historiques.
 
 [^27-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 461](https://fedlex.data.admin.ch/eli/fga/2015/45)).
-[^27-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^27-2]: Nouvelle expression selon l’annexe ch. 2 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^27-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 
 #### Art. 28
 

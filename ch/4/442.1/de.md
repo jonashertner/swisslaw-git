@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 11. Dezember 2009 über die Kulturförderung (Kulturfö
 short: KFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/854"
 language: de
-version: 2021-02-01
+version: 2022-01-01
 adopted: 2009-12-11
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2011-854-20210201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20210201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-854-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20210201/de"
 
 (Kulturförderungsgesetz, KFG)
 
-vom 11. Dezember 2009 (Stand am 1. Februar 2021)
+vom 11. Dezember 2009 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -320,13 +320,14 @@ Das Eidgenössische Departement des Innern (EDI) und das Eidgenössische Departe
 
 **Finanzhilfen und andere Formen der Unterstützung**
 
-<sup>1</sup> Finanzhilfen werden im Rahmen der bewilligten Kredite als nicht rückzahlbare Geldleistungen, Defizitgarantien, Zinszuschüsse, Bürgschaften, Sachleistungen oder bedingt rückzahlbare Darlehen ausgerichtet.
+<sup>1</sup> Finanzhilfen werden im Rahmen der bewilligten Kredite als nicht rückzahlbare Geldleistungen, Defizitgarantien, Zinszuschüsse, Sachleistungen oder bedingt rückzahlbare Darlehen ausgerichtet.[^25-1]
 
 <sup>2</sup> Eine Unterstützung kann auch durch Beratung oder Abgabe von Empfehlungen sowie durch die Übernahme von Patronaten oder durch andere nicht geldwerte Leistungen erfolgen.
 
-<sup>3</sup> Finanzhilfen können auch durch einen Leistungsvertrag im Sinne von Artikel 16 Absatz 2 des Subventionsgesetzes vom 5. Oktober 1990[^25-1] gewährt werden.
+<sup>3</sup> Finanzhilfen können auch durch einen Leistungsvertrag im Sinne von Artikel 16 Absatz 2 des Subventionsgesetzes vom 5. Oktober 1990[^25-2] gewährt werden.
 
-[^25-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^25-1]: Fassung gemäss Ziff. I 1 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^25-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 #### Art. 26
 
@@ -352,10 +353,11 @@ Die Bundesversammlung bewilligt folgende Zahlungsrahmen und Verpflichtungskredit
 
 - a.[^27-1] je einen Zahlungsrahmen für die Massnahmen nach den Artikeln 9*a*, 10, 12–15, 16 Absätze 1 und 2 Buchstabe a, 17 und 18 sowie für die Massnahmen nach den Artikeln 11, 16 Absatz 2 Buchstabe b und 19–21;
 - b. die Zahlungsrahmen für die spezialgesetzlichen Förderungsbereiche;
-- c. einen Rahmenkredit nach Artikel 16*a* des Bundesgesetzes vom 1. Juli 1966[^27-2] über den Natur- und Heimatschutz für den Bereich Heimatschutz und Denkmalpflege.
+- c. einen Verpflichtungskredit[^27-2] nach Artikel 16*a* des Bundesgesetzes vom 1. Juli 1966[^27-3] über den Natur- und Heimatschutz für den Bereich Heimatschutz und Denkmalpflege.
 
 [^27-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
-[^27-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^27-2]: Ausdruck gemäss Anhang Ziff. 2 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^27-3]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 
 #### Art. 28
 
@@ -634,13 +636,13 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annexu1-lvlu1-8]
+…[^annexu1-lvlu1-8]
 
-[^annexu1-lvlu1-1]: [[AS 2004 2077](https://fedlex.data.admin.ch/eli/oc/2004/236), [2008 319](https://fedlex.data.admin.ch/eli/oc/2008/80)]
+[^annexu1-lvlu1-1]: [[AS 2004 2077](https://fedlex.data.admin.ch/eli/oc/2004/236); [2008 319](https://fedlex.data.admin.ch/eli/oc/2008/80)]
 [^annexu1-lvlu1-2]: [[AS 2008 3517](https://fedlex.data.admin.ch/eli/oc/2008/454)]
 [^annexu1-lvlu1-3]: [[AS 2006 1255](https://fedlex.data.admin.ch/eli/oc/2006/219)]
 [^annexu1-lvlu1-4]: [BS **4** 199]
 [^annexu1-lvlu1-5]: [BS **4** 212; [AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 6]
-[^annexu1-lvlu1-6]: [[AS 1966 665](https://fedlex.data.admin.ch/eli/oc/1966/665_689_685), [1981 821](https://fedlex.data.admin.ch/eli/oc/1981/821_821_821), [1993 879](https://fedlex.data.admin.ch/eli/oc/1993/879_879_879)Anhang 3 Ziff. 10, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 42]
+[^annexu1-lvlu1-6]: [[AS 1966 665](https://fedlex.data.admin.ch/eli/oc/1966/665_689_685); [1981 821](https://fedlex.data.admin.ch/eli/oc/1981/821_821_821); [1993 879](https://fedlex.data.admin.ch/eli/oc/1993/879_879_879)Anhang 3 Ziff. 10; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 42]
 [^annexu1-lvlu1-7]: [[AS 1996 3040](https://fedlex.data.admin.ch/eli/oc/1996/3040_3040_3040)]
 [^annexu1-lvlu1-8]: Die Änderungen können unter [AS 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854)konsultiert werden.
