@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2005 über das Bundesgericht (Bundesgerichtsge
 short: BGG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2006-218-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2006-218-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20210101/de"
 
 (Bundesgerichtsgesetz, BGG)
 
-vom 17. Juni 2005 (Stand am 1. Januar 2021)
+vom 17. Juni 2005 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -237,7 +237,7 @@ Die Verwaltungskommission trägt die Verantwortung für die Gerichtsverwaltung. 
 - g. die Wahrnehmung der Aufsicht über das Bundesstrafgericht und das Bundesverwaltungsgericht;
 - h. sämtliche weiteren Verwaltungsgeschäfte, die nicht in die Zuständigkeit des Gesamtgerichts oder der Präsidentenkonferenz fallen.
 
-[^17-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 20. Juni 2014 über die Weiterbildung, in Kraft seit 1. Jan. 2017 ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^17-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 20. Juni 2014 über die Weiterbildung, in Kraft seit 1. Jan. 2017 (AS **20****16** 689; [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 #### Art. 18
 
@@ -864,7 +864,7 @@ Sie sind hingegen nach folgenden Bestimmungen zu vollstrecken:
 - b. nach den Artikeln 74–78 BZP[^70-2]: wenn das Bundesgericht auf Klage hin entschieden hat;
 - c. nach den Artikeln 74 und 75 des Strafbehördenorganisationsgesetzes vom 19. März 2010[^70-3]: wenn das Bundesgericht in Strafsachen entschieden hat, die der Bundesgerichtsbarkeit unterstehen.[^70-4]
 
-<sup>3</sup> ...[^70-5]
+<sup>3</sup> …[^70-5]
 
 <sup>4</sup> Im Falle mangelhafter Vollstreckung kann beim Bundesrat Beschwerde geführt werden. Dieser trifft die erforderlichen Massnahmen.
 
@@ -907,7 +907,7 @@ Der Beschwerde in Zivilsachen unterliegen auch:
   - 4\. auf dem Gebiet der Aufsicht über die Stiftungen mit Ausnahme der Vorsorge- und Freizügigkeitseinrichtungen,
   - 5\.[^72-1] auf dem Gebiet der Aufsicht über die Willensvollstrecker und ‑vollstreckerinnen und andere erbrechtliche Vertreter und Vertreterinnen,
   - 6\.[^72-2] auf dem Gebiet des Kindes- und Erwachsenenschutzes,
-  - 7\.[^72-3] ...
+  - 7\.[^72-3] …
 
 [^72-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^72-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
@@ -1051,7 +1051,7 @@ Zur Beschwerde in Strafsachen ist berechtigt, wer:
   - 1\. die beschuldigte Person,
   - 2\. ihr gesetzlicher Vertreter oder ihre gesetzliche Vertreterin,
   - 3\. die Staatsanwaltschaft,
-  - 4\.[^81-1] ...
+  - 4\.[^81-1] …
   - 5\.[^81-2] die Privatklägerschaft, wenn der angefochtene Entscheid sich auf die Beurteilung ihrer Zivilansprüche auswirken kann,
   - 6\. die Person, die den Strafantrag stellt, soweit es um das Strafantragsrecht als solches geht,
   - 7\.[^81-3] die Staatsanwaltschaft des Bundes und die beteiligte Verwaltung in Verwaltungsstrafsachen nach dem Bundesgesetz vom 22. März 1974[^81-4] über das Verwaltungsstrafrecht.
@@ -1062,7 +1062,7 @@ Zur Beschwerde in Strafsachen ist berechtigt, wer:
 
 [^81-1]: Aufgehoben durch Anhang 1 Ziff. II 3 der Strafprozessordnung vom 5. Okt. 2007, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^81-2]: Fassung gemäss Anhang Ziff. II 5 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^81-3]: Eingefügt durch Ziff. II 8 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)). Fassung gemäss Anhang 1 Ziff. II 3 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); BBl **2****006** 1085).
+[^81-3]: Eingefügt durch Ziff. II 8 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)). Fassung gemäss Anhang 1 Ziff. II 3 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^81-4]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^81-5]: Fassung gemäss Anhang 1 Ziff. II 3 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
@@ -1149,14 +1149,15 @@ Die Beschwerde ist unzulässig gegen:
 
   Entscheide auf dem Gebiet der Landwirtschaft betreffend:
 
-  - 1\.[^83-18] ...
+  - 1\.[^83-18] …
   - 2\. die Abgrenzung der Zonen im Rahmen des Produktionskatasters;
 
 - t. Entscheide über das Ergebnis von Prüfungen und anderen Fähigkeitsbewertungen, namentlich auf den Gebieten der Schule, der Weiterbildung und der Berufsausübung;
 - u.[^83-19] Entscheide auf dem Gebiet der öffentlichen Kaufangebote (Art. 125‒141 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^83-20]);
 - v.[^83-21] Entscheide des Bundesverwaltungsgerichts über Meinungsverschiedenheiten zwischen Behörden in der innerstaatlichen Amts- und Rechtshilfe;
 - w.[^83-22] Entscheide auf dem Gebiet des Elektrizitätsrechts betreffend die Plangenehmigung von Starkstromanlagen und Schwachstromanlagen und die Entscheide auf diesem Gebiet betreffend Enteignung der für den Bau oder Betrieb solcher Anlagen notwendigen Rechte, wenn sich keine Rechtsfrage von grundsätzlicher Bedeutung stellt;
-- x.[^83-23] Entscheide betreffend die Gewährung von Solidaritätsbeiträgen nach dem Bundesgesetz vom 30. September 2016[^83-24] über die Aufarbeitung der fürsorgerischen Zwangsmassnahmen und Fremdplatzierungen vor 1981, ausser wenn sich eine Rechtsfrage von grundsätzlicher Bedeutung stellt oder aus anderen Gründen ein besonders bedeutender Fall vorliegt.
+- x.[^83-23] Entscheide betreffend die Gewährung von Solidaritätsbeiträgen nach dem Bundesgesetz vom 30. September 2016[^83-24] über die Aufarbeitung der fürsorgerischen Zwangsmassnahmen und Fremdplatzierungen vor 1981, ausser wenn sich eine Rechtsfrage von grundsätzlicher Bedeutung stellt oder aus anderen Gründen ein besonders bedeutender Fall vorliegt;
+- y.[^83-25] Entscheide des Bundesverwaltungsgerichts in Verständigungsverfahren zur Vermeidung einer den anwendbaren internationalen Abkommen im Steuerbereich nicht entsprechenden Besteuerung.
 
 [^83-1]: Fassung gemäss Ziff. I 1 der V der BVers vom 20. Dez. 2006 über die Anpassung von Erlassen an die Bestimmungen des Bundesgerichtsgesetzes und des Verwaltungsgerichtsgesetzes, in Kraft seit 1. Jan. 2008 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826)).
 [^83-2]: Eingefügt durch Ziff. I 1 der V der BVers vom 20. Dez. 2006 über die Anpassung von Erlassen an die Bestimmungen des Bundesgerichtsgesetzes und des Verwaltungsgerichtsgesetzes, in Kraft seit 1. Jan. 2008 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826)).
@@ -1170,7 +1171,7 @@ Die Beschwerde ist unzulässig gegen:
 [^83-10]: Fassung gemäss Ziff. I 1 des BG vom 20. Juni 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
 [^83-11]: Fassung gemäss Art. 106 Ziff. 3 des BG vom 24. März 2006 über Radio und Fernsehen, in Kraft seit 1. April 2007 ([AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [BBl 2003 1569](https://fedlex.data.admin.ch/eli/fga/2003/223)).
 [^83-12]: Fassung gemäss Anhang Ziff. II 1 des Postgesetzes vom 17. Dez. 2010, in Kraft seit 1. Okt. 2012 ([AS 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585); [BBl 2009 5181](https://fedlex.data.admin.ch/eli/fga/2009/917)).
-[^83-13]: SR **7****84.10**
+[^83-13]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
 [^83-14]: Eingefügt durch Anhang Ziff. II 1 des Postgesetzes vom 17. Dez. 2010, in Kraft seit 1. Okt. 2012 ([AS 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585); [BBl 2009 5181](https://fedlex.data.admin.ch/eli/fga/2009/917)).
 [^83-15]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
 [^83-16]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
@@ -1182,6 +1183,7 @@ Die Beschwerde ist unzulässig gegen:
 [^83-22]: Eingefügt durch Anhang Ziff. II 1 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^83-23]: Eingefügt durch Art. 21 Abs. 2 des BG vom 30. Sept. 2016 über die Aufarbeitung der fürsorgerischen Zwangsmassnahmen und Fremdplatzierungen vor 1981, in Kraft seit 1. April 2017 ([AS 2017 753](https://fedlex.data.admin.ch/eli/oc/2017/145); [BBl 2016 101](https://fedlex.data.admin.ch/eli/fga/2016/40)).
 [^83-24]: [SR 211.223.13](https://fedlex.data.admin.ch/eli/cc/2017/145)
+[^83-25]: Eingefügt durch Art. 36 Abs. 2 des BG vom 18. Juni 2021 über die Durchführung von internationalen Abkommen im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 703](https://fedlex.data.admin.ch/eli/oc/2021/703); [BBl 2020 9219](https://fedlex.data.admin.ch/eli/fga/2020/2501)).
 
 #### Art. 84
 
@@ -1398,7 +1400,7 @@ Die Beschwerdefrist beträgt fünf Tage:
 
 <sup>5</sup> Bei Beschwerden wegen interkantonaler Kompetenzkonflikte beginnt die Beschwerdefrist spätestens dann zu laufen, wenn in beiden Kantonen Entscheide getroffen worden sind, gegen welche beim Bundesgericht Beschwerde geführt werden kann.
 
-<sup>6</sup> ...[^100-7]
+<sup>6</sup> …[^100-7]
 
 <sup>7</sup> Gegen das unrechtmässige Verweigern oder Verzögern eines Entscheids kann jederzeit Beschwerde geführt werden.
 
@@ -1538,7 +1540,7 @@ Soweit die Kantone nach diesem Gesetz als letzte kantonale Instanz ein Gericht e
 
 <sup>2</sup> Bundesbehörden, die zur Beschwerde an das Bundesgericht berechtigt sind, können die Rechtsmittel des kantonalen Rechts ergreifen und sich vor jeder kantonalen Instanz am Verfahren beteiligen, wenn sie dies beantragen.
 
-<sup>3</sup> Die unmittelbare Vorinstanz des Bundesgerichts muss mindestens die Rügen nach den Artikeln 95–98 prüfen können. ...[^111-1]
+<sup>3</sup> Die unmittelbare Vorinstanz des Bundesgerichts muss mindestens die Rügen nach den Artikeln 95–98 prüfen können. …[^111-1]
 
 [^111-1]: Zweiter Satz aufgehoben durch Anhang 1 Ziff. II 2 der Zivilprozessordnung vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
@@ -1690,10 +1692,13 @@ Die Revision wegen Verletzung der Konvention zum Schutz der Menschenrechte und G
 Die Revision kann zudem verlangt werden:
 
 - a. in Zivilsachen und öffentlich-rechtlichen Angelegenheiten, wenn die ersuchende Partei nachträglich erhebliche Tatsachen erfährt oder entscheidende Beweismittel auffindet, die sie im früheren Verfahren nicht beibringen konnte, unter Ausschluss der Tatsachen und Beweismittel, die erst nach dem Entscheid entstanden sind;
-- b.[^123-1] in Strafsachen, wenn die Voraussetzungen von Artikel 410 Absätze 1 Buchstaben a und b sowie 2 StPO[^123-2] erfüllt sind.
+- b.[^123-1] in Strafsachen, wenn die Voraussetzungen von Artikel 410 Absätze 1 Buchstaben a und b sowie 2 StPO[^123-2] erfüllt sind;
+- c.[^123-3] in Sachen, die Ansprüche auf Ersatz von nuklearem Schaden betreffen, aus den in Artikel 5 Absatz 5 Kernenergiehaftpflichtgesetz vom 13. Juni 2008[^123-4] genannten Gründen.
 
 [^123-1]: Fassung gemäss Anhang 1 Ziff. II 3 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^123-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^123-3]: Eingefügt durch Anhang Ziff. II 1 des Kernenergiehaftpflichtgesetzes vom 13. Juni 2008, in Kraft seit 1. Jan. 2022, veröffentlicht am 27. Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^123-4]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
 
 #### Art. 124
 
@@ -1715,7 +1720,11 @@ Nach Ablauf von zehn Jahren nach der Ausfällung des Entscheids kann die Revisio
 - a. in Strafsachen aus den Gründen nach Artikel 123 Absatz 1 und 2 Buchstabe b;
 - b. in den übrigen Fällen aus dem Grund nach Artikel 123 Absatz 1.
 
+<sup>3</sup> Die besonderen Fristen nach Artikel 5 Absatz 5 Kernenergiehaftpflichtgesetz vom 13. Juni 2008[^124-2] bleiben vorbehalten.[^124-3]
+
 [^124-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^124-2]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^124-3]: Eingefügt durch Anhang Ziff. II 1 des Kernenergiehaftpflichtgesetzes vom 13. Juni 2008, in Kraft seit 1. Jan. 2022, veröffentlicht am 27. Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
 #### Art. 125
 
@@ -1784,7 +1793,7 @@ Soweit das Bundesgericht das Revisionsgesuch nicht als unzulässig oder unbegrü
 
 <sup>3</sup> Die Bundesversammlung kann diesem Gesetz widersprechende, aber formell nicht geänderte Bestimmungen in Bundesgesetzen durch eine Verordnung anpassen.
 
-[^131-1]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)Art. 86, [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)Art. 118, [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 737](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)Art. 80 Bst. *b* [767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)Ziff. II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)Art. 52 Ziff. 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)Ziff. III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 Ziff. 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)Ziff. IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)Art. 52 Ziff. 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)Art. 12 Abs. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)Art. 36 Ziff. 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)Art. 59 Ziff. 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)Ziff. II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)Ziff. II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Anhang Ziff. II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 Bst. *a*, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)Ziff. III Abs. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)Art. 75 Ziff. 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)Anhang Ziff. 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Anhang Ziff. 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)Art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)Art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)Anhang Ziff. 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Anhang Ziff. 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Anhang Ziff. 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Anhang Ziff. 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)Anhang Ziff. 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)Ziff. I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Anhang Ziff. 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)Ziff. I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)Ziff. I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)Ziff. I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 40 Ziff. 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)Art. 11 Abs. 2, **200****2** 863 Art. 35 1904 Art. 36 Ziff. 1 2767 Ziff. II 3988 Anhang Ziff. 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Anhang Ziff. II 4 Bst. *a* [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)Anhang Ziff. II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Anhang Ziff. II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 7]
+[^131-1]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)Art. 86; [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)Art. 118; [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921); [1969 737](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)Art. 80 Bst. *b*, [767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784); [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)Ziff. II 3, [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)Art. 52 Ziff. 2, [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)Ziff. III; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 Ziff. 3, [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450); [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42); [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)Ziff. IV, [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)Art. 52 Ziff. 2, [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)Art. 12 Abs. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 13; [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)Art. 36 Ziff. 1; [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)Art. 59 Ziff. 1; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)Ziff. II 1, [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)Ziff. II; [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Anhang Ziff. II 1; [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 Bst. *a*; [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)Ziff. III Abs. 5; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288);[1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)Art. 75 Ziff. 1, [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)Anhang Ziff. 1; [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Anhang Ziff. 3, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 4; [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)Art. 36, [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)Art. 17, [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)Anhang Ziff. 2, [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Anhang Ziff. 2; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Anhang Ziff. 6, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 5; [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Anhang Ziff. 3, [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 2; [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)Anhang Ziff. 1, [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)Ziff. I 2; [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Anhang Ziff. 6, [416](https://fedlex.data.admin.ch/eli/oc/2000/92)Ziff. I 2, [505](https://fedlex.data.admin.ch/eli/oc/2000/95)Ziff. I 1, [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 1, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)Ziff. I 4, [894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 40 Ziff. 3, [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)Art. 11 Abs. 2; [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)Art. 35, [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 1, [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)Ziff. II, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 1; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 7, [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Anhang Ziff. II 4 Bst. *a*, [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 1; [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)Anhang Ziff. II 1, [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Anhang Ziff. II 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 7]
 
 #### Art. 132
 
@@ -1792,7 +1801,7 @@ Soweit das Bundesgericht das Revisionsgesuch nicht als unzulässig oder unbegrü
 
 <sup>1</sup> Dieses Gesetz ist auf die nach seinem Inkrafttreten eingeleiteten Verfahren des Bundesgerichts anwendbar, auf ein Beschwerdeverfahren jedoch nur dann, wenn auch der angefochtene Entscheid nach dem Inkrafttreten dieses Gesetzes ergangen ist.
 
-<sup>2</sup> ...[^132-1]
+<sup>2</sup> …[^132-1]
 
 <sup>3</sup> Die Amtsdauer der ordentlichen und nebenamtlichen Bundesrichter und Bundesrichterinnen, die gestützt auf das Bundesrechtspflegegesetz vom 16. Dezember 1943[^132-2] oder den Bundesbeschluss vom 23. März 1984[^132-3] über die Erhöhung der Zahl der nebenamtlichen Richter des Bundesgerichts gewählt worden sind oder die in den Jahren 2007 und 2008 gewählt werden, endet am 31. Dezember 2008.[^132-4]
 
@@ -1832,6 +1841,6 @@ Anhang
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)konsultiert werden.

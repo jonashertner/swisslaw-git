@@ -4,11 +4,11 @@ title: Loi du 17 juin 2005 sur le Tribunal fédéral (LTF)
 short: LTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-218-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-218-20220101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20210101/fr"
 
 (LTF)[^t-1]
 
-du 17 juin 2005 (Etat le 1<sup>er</sup> janvier 2021)
+du 17 juin 2005 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -1157,7 +1157,8 @@ Le recours est irrecevable contre:
 - u.[^83-21] les décisions relatives aux offres publiques d’acquisition (art. 125 à 141 de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^83-22]);
 - v.[^83-23] les décisions du Tribunal administratif fédéral en cas de divergences d’opinion entre des autorités en matière d’entraide judiciaire ou d’assistance administrative au niveau national;
 - w.[^83-24] les décisions en matière de droit de l’électricité qui concernent l’approbation des plans des installations électriques à courant fort et à courant faible et l’expropriation de droits nécessaires à la construction ou à l’exploitation de telles installations, si elles ne soulèvent pas de question juridique de principe.
-- x.[^83-25] les décisions en matière d’octroi de contributions de solidarité au sens de la loi fédérale du 30 septembre 2016 sur les mesures de coercition à des fins d’assistance et les placements extrafamiliaux antérieurs à 1981[^83-26], sauf si la contestation soulève une question juridique de principe ou qu’il s’agit d’un cas particulièrement important pour d’autres motifs.
+- x.[^83-25] les décisions en matière d’octroi de contributions de solidarité au sens de la loi fédérale du 30 septembre 2016 sur les mesures de coercition à des fins d’assistance et les placements extrafamiliaux antérieurs à 1981[^83-26], sauf si la contestation soulève une question juridique de principe ou qu’il s’agit d’un cas particulièrement important pour d’autres motifs;
+- y.[^83-27] les décisions prises par le Tribunal administratif fédéral dans des procédures amiables visant à éviter une imposition non conforme à une convention internationale applicable dans le domaine fiscal.
 
 [^83-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 [^83-2]: Nouvelle teneur selon le ch. I 1 de l’O de l’Ass. féd. du 20 déc. 2006 concernant l’adaptation d’actes législatifs aux disp. de la loi sur le TF et de la loi sur TAF, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7351](https://fedlex.data.admin.ch/eli/fga/2006/974)).
@@ -1185,6 +1186,7 @@ Le recours est irrecevable contre:
 [^83-24]: Introduite par l’annexe ch. II 1 de la L du 30 sept, 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^83-25]: Introduite par l’art. 21 al. 2 de la LF du 30 sept. 2016 sur les mesures de coercition à des fins d’assistance et les placements extrafamiliaux antérieurs à 1981, en vigueur depuis le 1<sup>er</sup> avr. 2017 ([RO 2017 753](https://fedlex.data.admin.ch/eli/oc/2017/145); [FF 2016 87](https://fedlex.data.admin.ch/eli/fga/2016/40)).
 [^83-26]: [RS 211.223.13](https://fedlex.data.admin.ch/eli/cc/2017/145)
+[^83-27]: Introduit par l’art. 36, al. 2 de la LF du 18 juin 2021 relative à l’exécution des conventions internationales dans le domaine fiscal, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 703](https://fedlex.data.admin.ch/eli/oc/2021/703); [FF 2020 8913](https://fedlex.data.admin.ch/eli/fga/2020/2501)).
 
 #### Art. 84
 
@@ -1694,10 +1696,13 @@ La révision d’un arrêt du Tribunal fédéral pour violation de la Convention
 La révision peut en outre être demandée:
 
 - a. dans les affaires civiles et les affaires de droit public, si le requérant découvre après coup des faits pertinents ou des moyens de preuve concluants qu’il n’avait pas pu invoquer dans la procédure précédente, à l’exclusion des faits ou moyens de preuve postérieurs à l’arrêt;
-- b.[^123-1] dans les affaires pénales, si les conditions fixées à l’art. 410, al. 1, let. a et b, et 2 CPP[^123-2] sont remplies.
+- b.[^123-1] dans les affaires pénales, si les conditions fixées à l’art. 410, al. 1, let. a et b, et 2 CPP[^123-2] sont remplies;
+- c.[^123-3] en matière de réparation d’un dommage nucléaire, pour les motifs prévus à l’art. 5, al. 5, de la loi fédérale du 13 juin 2008 sur la responsabilité civile en matière nucléaire[^123-4].
 
 [^123-1]: Nouvelle teneur selon le ch. II 3 de l’annexe 1 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^123-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^123-3]: Introduite par l’annexe ch. II 1 de la LF du 13 juin 2008 sur la responsabilité civile en matière nucléaire, en vigueur depuis le 1<sup>er</sup> janv. 2022, publiée le 27 janv. 2022 ([RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 5125](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^123-4]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
 
 #### Art. 124
 
@@ -1719,7 +1724,11 @@ Après dix ans à compter de l’entrée en force de l’arrêt, la révision ne
 - a. dans les affaires pénales, pour les motifs visés à l’art. 123, al. 1 et 2, let. b;
 - b. dans les autres affaires, pour le motif visé à l’art. 123, al. 1.
 
+<sup>3</sup> Les délais particuliers prévus à l’art. 5, al. 5, de la loi fédérale du 13 juin 2008 sur la responsabilité civile en matière nucléaire[^124-2] sont réservés.[^124-3]
+
 [^124-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^124-2]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^124-3]: Introduit par l’annexe ch. II 1 de la LF du 13 juin 2008 sur la responsabilité civile en matière nucléaire, en vigueur depuis le 1<sup>er</sup> janv. 2022, publiée le 27 janv. 2022 ([RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 5125](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
 #### Art. 125
 

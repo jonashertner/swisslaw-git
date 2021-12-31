@@ -4,11 +4,11 @@ title: "Lescha federala dals 17 da zercladur 2005 davart il Tribunal federal (Le
 short: LTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: rm
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-2006-218-20210101-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20210101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-2006-218-20220101-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20220101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart il tribunal federal, LTF)
 
-dals 17 da zercladur 2005 (versiun dal 1. da schaner 2021)
+dals 17 da zercladur 2005 (versiun dal 1. da schaner 2022)
 
 [^t-1]: <sup>\*</sup> Las designaziuns da persunas, da funcziuns e da professiuns en questa lescha valan tant per persunas femininas sco er masculinas.
 
@@ -27,7 +27,7 @@ L’Assamblea federala da la Confederaziun svizra,
 
 sa basond sin ils artitgels 188–191*c* da la Constituziun federala[^ingress-1], suenter avair gì invista da la missiva dal Cussegl federal dals 28 da favrer 2001[^ingress-2],
 
-concluda:
+concluda:2022
 
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)
@@ -1160,7 +1160,8 @@ Il recurs è inadmissibel cunter:
 - u.[^83-19] decisiuns en il sectur da las offertas publicas d’acquisiziun (art. 125–141 da la L da las infrastructuras da finanzas dals 19 da zer. 2015[^83-20]);
 - v.[^83-21] decisiuns dal Tribunal administrativ federal davart divergenzas d’opiniun tranter las autoritads en il sectur da l’agid uffizial e da l’assistenza giudiziala sin plaun naziunal;
 - w.[^83-22] decisiuns en il sectur dal dretg d’electricitad concernent l’approvaziun dals plans d’implants electrics da current ferm e da current lev e concernent l’expropriaziun dals dretgs necessaris per construir e per manar tals implants, sch’i na sa tschentan naginas dumondas giuridicas d’impurtanza fundamentala;
-- x.[^83-23] decisiuns concernent la concessiun da contribuziuns da solidaritad tenor la Lescha federala dals 30 da settember 2016[^83-24] davart las mesiras repressivas preventivas ed ils plazzaments extrafamigliars avant 1981, nun ch’i sa tractia d’ina dumonda giuridica d’impurtanza fundamentala u ch’i saja avant maun per auters motivs in cas spezialmain impurtant.
+- x.[^83-23] decisiuns concernent la concessiun da contribuziuns da solidaritad tenor la Lescha federala dals 30 da settember 2016[^83-24] davart las mesiras repressivas preventivas ed ils plazzaments extrafamigliars avant 1981, nun ch’i sa tractia d’ina dumonda giuridica d’impurtanza fundamentala u ch’i saja avant maun per auters motivs in cas spezialmain impurtant;
+- y.[^83-25] decisiuns dal Tribunal administrativ federal en proceduras da mediaziun per evitar ina imposiziun da taglia che na correspunda betg a las cunvegnas internaziunalas applitgablas en il sectur fiscal.
 
 [^83-1]: Versiun tenor la cifra I 1 da l’O da l’AF dals 20 da dec. 2006 davart l’adattaziun da decrets a las disposiziuns da la LF davart il TF e da la LF davart il TAF, en vigur dapi il 1. da schan. 2008 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826)).
 [^83-2]: Integrà tras la cifra I 1 l’O da l’AF dals 20 da dec. 2006 davart l’adattaziun da decrets a las disposiziuns da la LF davart il TF e da la LF davart il TAF, en vigur dapi il 1. da schan. 2008 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826)).
@@ -1186,6 +1187,7 @@ Il recurs è inadmissibel cunter:
 [^83-22]: Integrà tras la cifra II 1 da l’agiunta da la L d’energia dals 30 da sett. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^83-23]: Integrà tras l’art. 21 al. 2 da la LF dals 30 da sett. 2016 davart las mesiras repressivas preventivas ed ils plazzaments extrafamigliars avant 1981, en vigur dapi il 1. d’avr. 2017 ([AS 2017 753](https://fedlex.data.admin.ch/eli/oc/2017/145); [BBl 2016 101](https://fedlex.data.admin.ch/eli/fga/2016/40)).
 [^83-24]: [SR 211.223.13](https://fedlex.data.admin.ch/eli/cc/2017/145)
+[^83-25]: Integrà tras l’art. 36 al. 2 da la LF dals 18 da zer. 2021 davart l’execuziun da las cunvegnas internaziunalas en il sectur fiscal, en vigur dapi il 1. da schan. 2022 ([AS 2021 703](https://fedlex.data.admin.ch/eli/oc/2021/703); [BBl 2020 9219](https://fedlex.data.admin.ch/eli/fga/2020/2501)).
 
 #### Art. 84
 
@@ -1694,10 +1696,13 @@ La revisiun pervia d’ina violaziun da la Convenziun dals 4 da november 1950[^1
 Plinavant po la revisiun vegnir dumandada:
 
 - a. en chaussas civilas ed en chaussas da dretg public, sche la partida petenta scuvra posteriuramain fatgs relevants u chatta meds da cumprova decisivs ch’ella n’ha betg pudì preschentar en la procedura precedenta; exclus èn fatgs e meds da cumprova ch’èn resultads pir suenter la decisiun;
-- b.[^123-1] en chaussas penalas, sche las premissas da l’artitgel 410 alinea 1 literas a e b ed alinea 2 CPP[^123-2] èn ademplidas.
+- b.[^123-1] en chaussas penalas, sche las premissas da l’artitgel 410 alinea 1 literas a e b ed alinea 2 CPP[^123-2] èn ademplidas;
+- c.[^123-3] en chaussas che pertutgan pretensiuns da reparaziun d’in donn nuclear, per ils motivs numnads en l’artitgel 5 alinea 5 da la Lescha federala dals 13 da zercladur 2008[^123-4] davart la responsabladad civila per l’energia nucleara.
 
 [^123-1]: Versiun tenor la cifra II 3 da l’agiunta 1 dal Cudesch da procedura penala dals 5 d’oct. 2007, en vigur dapi il 1. da schan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^123-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^123-3]: Integrà tras la cifra II 1 da l’agiunta da la LF dals 13 da zer. 2008 davart la responsabladad civila per l’energia nucleara, en vigur dapi il 1. da schan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^123-4]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
 
 #### Art. 124
 
@@ -1719,7 +1724,11 @@ Suenter la scadenza da 10 onns dapi che la decisiun è vegnida prendida, na po l
 - a. en chaussas penalas per ils motivs tenor l’artitgel 123 alineas 1 e 2 litera b;
 - b. en ils ulteriurs cas per il motiv tenor l’artitgel 123 alinea 1.
 
+<sup>3</sup> Ils termins spezials tenor l’artitgel 5 alinea 5 da la Lescha federala dals 13 da zercladur 2008[^124-2] davart la responsabladad civila per l’energia nucleara restan resalvads.[^124-3]
+
 [^124-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^124-2]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^124-3]: Integrà tras la cifra II 1 da l’agiunta da la LF dals 13 da zer. 2008 davart la responsabladad civila per l’energia nucleara, en vigur dapi il 1. da schan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
 #### Art. 125
 
@@ -1788,7 +1797,7 @@ Sch’il Tribunal federal n’è betg da l’avis che la dumonda da revisiun saj
 
 <sup>3</sup> L’Assamblea federala po adattar tras in’ordinaziun disposiziuns en leschas federalas che cuntrafan a questa lescha, ma che n’èn betg vegnidas midadas formalmain.
 
-[^131-1]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)art. 86, [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118, [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 737](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 lit. b [767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)cifra II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 cifra 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)cifra III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 cifra 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)cifra IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 cifra 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 al. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)agiunta cifra 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 cifra 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 cifra 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)cifra II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)cifra II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)agiunta cifra II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 lit. *a*, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)cifra III al. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 cifra 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)agiunta cifra 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)agiunta cifra 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)agiunta cifra 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)agiunta cifra 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)agiunta cifra 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)agiunta cifra 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)agiunta cifra 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)agiunta cifra 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)agiunta cifra 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)agiunta cifra 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)cifra I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)agiunta cifra 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)cifra I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)cifra I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)agiunta cifra 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)cifra I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 cifra 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 al. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)cifra II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)agiunta cifra 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)agiunta cifra 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)agiunta cifra II 4 lit. *a* [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)agiunta cifra II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)agiunta cifra II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)agiunta cifra II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)agiunta cifra 7]
+[^131-1]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)art. 86; [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118; [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921); [1969 737](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 lit. *b*, [767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784); [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)cifra II 3, [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 cifra 2, [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)cifra III; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 cifra 3, [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450); [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42); [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)cifra IV, [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 cifra 2, [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 al. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)agiunta cifra 13; [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 cifra 1; [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 cifra 1; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)cifra II 1, [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)cifra II; [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)agiunta cifra II 1; [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 lit. *a*; [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)cifra III al. 5; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 cifra 1, [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)agiunta cifra 1; [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)agiunta cifra 3, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)agiunta cifra 4; [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36, [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17, [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)agiunta cifra 2, [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)agiunta cifra 2; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)agiunta cifra 6, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)agiunta cifra 5; [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)agiunta cifra 3, [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)agiunta cifra 2; [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)agiunta cifra 1, [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)cifra I 2; [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)agiunta cifra 6, [416](https://fedlex.data.admin.ch/eli/oc/2000/92)cifra I 2, [505](https://fedlex.data.admin.ch/eli/oc/2000/95)cifra I 1, [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)agiunta cifra 1, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)cifra I 4, [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 cifra 3, [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 al. 2; [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35, [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 1, [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)cifra II, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)agiunta cifra 1; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)agiunta cifra 7, [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)agiunta cifra II 4 lit. *a*, [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)agiunta cifra II 1; [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)agiunta cifra II 1, [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)agiunta cifra II 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)agiunta cifra 7]
 
 #### Art. 132
 
