@@ -3,18 +3,18 @@ sr: "946.231.154.1"
 title: "Ordonnance du 22 novembre 2017 instituant des mesures à l'encontre de la République du Mali"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/683"
 language: fr
-version: 2020-08-25
+version: 2022-01-01
 adopted: 2017-11-22
 in_force: 2017-11-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/683/20200825/fr/xml/fedlex-data-admin-ch-eli-cc-2017-683-20200825-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/683/20200825/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/683/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-683-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/683/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République du Mali
 
-du 22 novembre 2017 (Etat le 25 août 2020)
+du 22 novembre 2017 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -84,9 +84,11 @@ Le Secrétariat d’État aux migrations (SEM) peut accorder des dérogations:
 
 <sup>2</sup> Le SEM surveille l’exécution de l’interdiction d’entrée et de transit prévue à l’art. 3.
 
-<sup>3</sup> Le contrôle à la frontière incombe à l’Administration fédérale des douanes.
+<sup>3</sup> Le contrôle à la frontière incombe à l’Office fédéral de la douane et de la sécurité des frontières[^4-1].
 
 <sup>4</sup> Sur instruction du SECO, les autorités compétentes prennent les mesures nécessaires pour le gel des ressources économiques, telles que la mention d’un blocage du registre foncier ou la saisie ou la mise sous scellé de biens de luxe.
+
+[^4-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 
@@ -131,5 +133,5 @@ Remarque
 - 1\. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité de l’ONU ou par son comité compétent[^annexu1-lvlu1-1].
 - 2\. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par l’ONU[^annexu1-lvlu1-2].
 
-[^annexu1-lvlu1-1]: La liste peut être consultée sur Internet, à l’adresse suivante: www.un.org/fr/sc &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions concernant le Mali &gt; Matériaux relatifs à la liste de sanctions.
-[^annexu1-lvlu1-2]: La banque de données SESAM est librement accessible sur Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
+[^annexu1-lvlu1-1]: La liste peut être consultée sur Internet, à l’adresse suivante: [www.un.org/fr/sc](https://www.un.org/securitycouncil/fr) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions concernant le Mali &gt; Matériaux relatifs à la liste de sanctions.
+[^annexu1-lvlu1-2]: La banque de données SESAM est librement accessible sur Internet: [www.seco.admin.ch](https://www.seco.admin.ch/) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.

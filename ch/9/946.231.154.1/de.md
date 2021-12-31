@@ -3,18 +3,18 @@ sr: "946.231.154.1"
 title: Verordnung vom 22. November 2017 über Massnahmen gegenüber der Republik Mali
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/683"
 language: de
-version: 2020-08-25
+version: 2022-01-01
 adopted: 2017-11-22
 in_force: 2017-11-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/683/20200825/de/xml/fedlex-data-admin-ch-eli-cc-2017-683-20200825-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/683/20200825/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/683/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-683-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/683/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Republik Mali
 
-vom 22. November 2017 (Stand am 25. August 2020)
+vom 22. November 2017 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -84,9 +84,11 @@ Das Staatssekretariat für Migration (SEM) kann Ausnahmen gewähren:
 
 <sup>2</sup> Das SEM überwacht den Vollzug des Ein- und Durchreiseverbots nach Artikel 3.
 
-<sup>3</sup> Die Kontrolle an der Grenze obliegt der Eidgenössischen Zollverwaltung.
+<sup>3</sup> Die Kontrolle an der Grenze obliegt dem Bundesamt für Zoll und Grenzsicherheit[^4-1].
 
 <sup>4</sup> Die zuständigen Behörden ergreifen auf Anweisung des SECO die für die Sperrung wirtschaftlicher Ressourcen notwendigen Massnahmen wie die Anmerkung einer Verfügungssperre im Grundbuch oder die Pfändung oder Versiegelung von Luxusgütern.
+
+[^4-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 
