@@ -4,7 +4,7 @@ number: "175.515"
 title: "DÉCRET du 15.06.2010 fixant les modalités d'application de la loi sur les péréquations intercommunales (DLPIC)"
 short: DLPIC
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/175.515?id=c35b76fc-b509-473f-a2f8-98338546c1dc"
 ---
 
@@ -156,15 +156,23 @@ décrète
 
 [^9b-1]: Modif. 4 du 18.12.2019: Introduction tArt; entrée en vigueur au 01.01.2020; Introduction Al. 1; entrée en vigueur au 01.01.2020; Introduction Art. 9c; entrée en vigueur au 01.01.2020
 
+#### Art. 9d
+
+**Dispositions transitoires du décret du 14 décembre 2021 [^9c-1]**
+
+<sup>1</sup> Pour les années 2022 et 2023, le plafond de l'effort prévu à l'article 5 du présent décret est maintenu à 48 points d'impôt communaux.
+
+[^9c-1]: Modif. 5 du 14.12.2021: Introduction Art. 9d; entrée en vigueur au 01.01.2022
+
 #### Art. 10
 
-**[^9c-1]**
+**[^9d-1]**
 
 <sup>1</sup> Le présent décret entre en vigueur le 1er janvier 2011.
 
 <sup>2</sup> …
 
-[^9c-1]: Modif. 2 du 13.09.2016: Modification Al. 1; entrée en vigueur au 01.01.2019; Abrogation Al. 2; entrée en vigueur au 01.01.2019
+[^9d-1]: Modif. 2 du 13.09.2016: Modification Al. 1; entrée en vigueur au 01.01.2019; Abrogation Al. 2; entrée en vigueur au 01.01.2019
 
 #### Art. 11
 
