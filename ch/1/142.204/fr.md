@@ -4,11 +4,11 @@ title: "Ordonnance du 15 août 2018 sur l'entrée et l'octroi de visas (OEV)"
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: fr
-version: 2021-09-15
+version: 2022-01-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20210915/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20210915-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20210915/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20210915/fr"
 
 (OEV)
 
-du 15 août 2018 (Etat le 15 septembre 2021)
+du 15 août 2018 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -61,9 +61,9 @@ L’ordonnance régit également la compétence de conclure des traités interna
 [^1-6]: Introduite par le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^1-7]: Règlement (UE) 2018/1240 du Parlement européen et du Conseil du 12 septembre 2018 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS) et modifiant les règlements (UE) n<sup>o</sup> 1077/2011, (UE) n<sup>o</sup> 515/2014, (UE) 2016/399, (UE) 2016/1624 et (UE) 2017/2226, version du JO L 236 du 19.9.2018, p. 1; modifié en dernier lieu par le règlement (UE) 2021/1152, JO L 249 du 14.7.2021, p. 15.
 [^1-8]: Règlement (CE) n<sup>o</sup> 810/2009 du Parlement européen et du Conseil du 13 juillet 2009 établissant un code communautaire des visas (code des visas), JO L 243 du 15.9.2009, p. 1; modifié en dernier lieu par le règlement (UE) 2019/1155, JO L 188 du 12.7.2019, p. 25.
-[^1-9]: Introduite par le ch. I de l’O du 13 mai 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-9]: Introduite par le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^1-10]: Règlement (UE) 2019/817 du Parlement européen et du Conseil du 20 mai 2019 portant établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE dans le domaine des frontières et des visas et modifiant les règlements (CE) n<sup>o</sup> 767/2008, (UE) 2016/399, (UE) 2017/2226, (UE) 2018/240, (UE) 2018/1726 et (UE) 2018/1861 du Parlement européen et du Conseil et les décisions 2004/512/CE et 2008/633/JAI du Conseil, JO L 135 du 22.5.2019, p. 27; modifié en dernier lieu par le règlement (UE) 2021/1152, JO L 249 du 14.7.2021, p. 15.
-[^1-11]: Introduite par le ch. I de l’O du 13 mai 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-11]: Introduite par le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^1-12]: Règlement (UE) 2019/818 du Parlement européen et du Conseil du 20 mai 2019 portant établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE dans le domaine de la coopération policière et judiciaire, de l’asile et de l’immigration et modifiant les règlements (UE) 2018/1726, (UE) 2018/1862 et (UE) 2019/816, JO L 135 du 22.5.2019, p. 85; modifié en dernier lieu par le règlement (UE) 2021/1150, JO L 249 du 14.7.2021, p. 1.
 [^1-13]: Introduite par le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
 [^1-14]: Règlement (CE) n° 1683/95 du Conseil du 29 mai 1995 établissant un modèle type de visa, JO L 164 du 14.7.1995, p. 1; modifié en dernier lieu par le règlement (UE) 2017/1370, JO L 198 du 28.7.2017, p. 24.
@@ -245,9 +245,9 @@ En dérogation à l’al. 3, les séjours en vue de l’exercice d’une activit
 
 <sup>1</sup> Pour un long séjour en Suisse, les ressortissants d’un État qui n’est membre ni de l’UE ni de l’AELE sont soumis à l’obligation de visa de long séjour.
 
-<sup>2</sup> Sont libérés de l’obligation de visa de long séjour, en dérogation à l’al. 1, les ressortissants des États suivants: Andorre, Brunei Darussalam, Cité du Vatican, Japon, Malaisie, Monaco, Nouvelle-Zélande, Royaume-Uni, Saint-Marin et Singapour.[^9-1]
+<sup>2</sup> Sont libérés de l’obligation de visa de long séjour, en dérogation à l’al. 1, les ressortissants des États suivants: Andorre, Australie, Brunei Darussalam, Cité du Vatican, Japon, Malaisie, Monaco, Nouvelle-Zélande, Royaume-Uni, Saint-Marin et Singapour.[^9-1]
 
-[^9-1]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 602](https://fedlex.data.admin.ch/eli/oc/2021/602)).
 
 #### Art. 10
 
@@ -529,13 +529,14 @@ L’entrée en Suisse et la sortie de Suisse sont régies par le code frontière
 
 **Frontières extérieures Schengen**
 
-<sup>1</sup> Le SEM fixe, après entente avec l’Administration fédérale des douanes, les autorités fédérales et cantonales habilitées à effectuer les vérifications sur les personnes et l’Office fédéral de l’aviation civile, les frontières extérieures Schengen en Suisse.
+<sup>1</sup> Le SEM fixe, après entente avec l’Office fédéral de la douane et de la sécurité des frontières[^29-1], les autorités fédérales et cantonales habilitées à effectuer les vérifications sur les personnes et l’Office fédéral de l’aviation civile, les frontières extérieures Schengen en Suisse.
 
-<sup>2</sup> Les contrôles d’identité aux frontières extérieures Schengen à l’entrée en Suisse et à la sortie de Suisse par les voies terrestre et aérienne sont régis par l’art. 8 et l’annexe VI, ch. 1 et 2, du code frontières Schengen[^29-1].
+<sup>2</sup> Les contrôles d’identité aux frontières extérieures Schengen à l’entrée en Suisse et à la sortie de Suisse par les voies terrestre et aérienne sont régis par l’art. 8 et l’annexe VI, ch. 1 et 2, du code frontières Schengen[^29-2].
 
 <sup>3</sup> L’entrée par un aérodrome qui n’est pas désigné comme frontière extérieure Schengen nécessite l’obtention préalable d’une autorisation octroyée par l’autorité habilitée à effectuer les vérifications sur les personnes à l’aérodrome concerné.
 
-[^29-1]: Cf. note de bas de page relative à l’art. 3, al. 1.
+[^29-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670); [RO 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022.
+[^29-2]: Cf. note de bas de page relative à l’art. 3, al. 1.
 
 #### Art. 30
 
@@ -1274,16 +1275,17 @@ Taïwan (Taipei chinois)
 
 Ukraine
 
-Annexe 3
+Annexe 3*[^t-2]*
 
 (art. 8, al. 4, let. b)
 
 ## États et collectivités territoriales dont les ressortissants sont soumis à l’obligation de visa dès le neuvième jour où ils exercent une activité lucrative ou dès le premier jour s’ils travaillent dans la construction, le génie civil, le second œuvre, l’hôtellerie, la restauration, le nettoyage industriel ou domestique, la surveillance, la sécurité, le commerce itinérant, l’industrie du sexe ou l’aménagement ou l’entretien paysager
 
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 602](https://fedlex.data.admin.ch/eli/oc/2021/602)).
+
 <table>
-<tr><td>Antigua-et-Barbuda</td><td>Macao</td></tr>
-<tr><td>Argentine</td><td>Maurice</td></tr>
-<tr><td>Australie</td><td>Mexique</td></tr>
+<tr><td>Antigua-et-Barbuda</td><td>Maurice</td></tr>
+<tr><td>Argentine</td><td>Mexique</td></tr>
 <tr><td>Bahamas</td><td>Micronésie</td></tr>
 <tr><td>Barbade</td><td>Nicaragua</td></tr>
 <tr><td>Brésil</td><td>Palaos</td></tr>
@@ -1303,6 +1305,7 @@ Annexe 3
 <tr><td>Îles Salomon</td><td>Uruguay</td></tr>
 <tr><td>Israël</td><td>Vanuatu</td></tr>
 <tr><td>Kiribati</td><td>Venezuela</td></tr>
+<tr><td>Macao</td><td></td></tr>
 </table>
 
 Annexe 4

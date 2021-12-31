@@ -4,11 +4,11 @@ title: Verordnung vom 15. August 2018 über die Einreise und die Visumerteilung 
 short: VEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: de
-version: 2021-09-15
+version: 2022-01-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20210915/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20210915-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20210915/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20210915/de"
 
 (VEV)
 
-vom 15. August 2018 (Stand am 15. September 2021)
+vom 15. August 2018 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -245,9 +245,9 @@ In Abweichung von Absatz 3 gelten bei Aufenthalten mit Erwerbstätigkeit folgend
 
 <sup>1</sup> Staatsangehörige von Nichtmitgliedstaaten der EU und der EFTA benötigen für einen längerfristigen Aufenthalt in der Schweiz ein entsprechendes Visum.
 
-<sup>2</sup> In Abweichung von Absatz 1 sind Staatsangehörige folgender Staaten von der Visumpflicht für längerfristige Aufenthalte befreit: Andorra, Brunei Darussalam, Japan, Malaysia, Monaco, Neuseeland, San Marino, Singapur, Vatikanstadt und Vereinigtes Königreich.[^9-1]
+<sup>2</sup> In Abweichung von Absatz 1 sind Staatsangehörige folgender Staaten von der Visumpflicht für längerfristige Aufenthalte befreit: Andorra, Australien, Brunei Darussalam, Japan, Malaysia, Monaco, Neuseeland, San Marino, Singapur, Vatikanstadt und Vereinigtes Königreich.[^9-1]
 
-[^9-1]: Fassung gemäss Ziff. I der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
+[^9-1]: Fassung gemäss Ziff. I der V vom 1. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 602](https://fedlex.data.admin.ch/eli/oc/2021/602)).
 
 #### Art. 10
 
@@ -529,13 +529,14 @@ Die Regelung der Ein- und der Ausreise richtet sich nach dem Schengener Grenzkod
 
 **Schengener Aussengrenzen**
 
-<sup>1</sup> Das SEM legt im Einvernehmen mit der Eidgenössischen Zollverwaltung und den für die Personenkontrollen zuständigen Behörden des Bundes und der Kantone sowie dem Bundesamt für Zivilluftfahrt die Schengener Aussengrenzen der Schweiz fest.
+<sup>1</sup> Das SEM legt im Einvernehmen mit dem Bundesamt für Zoll und Grenzsicherheit[^29-1] und den für die Personenkontrollen zuständigen Behörden des Bundes und der Kantone sowie dem Bundesamt für Zivilluftfahrt die Schengener Aussengrenzen der Schweiz fest.
 
-<sup>2</sup> Die Regelung der Personenkontrollen an den Schengener Aussengrenzen bei der Ein- und Ausreise auf dem Land- und Luftweg richtet sich nach Artikel 8 und Anhang VI Ziffern 1 und 2 des Schengener Grenzkodex[^29-1].
+<sup>2</sup> Die Regelung der Personenkontrollen an den Schengener Aussengrenzen bei der Ein- und Ausreise auf dem Land- und Luftweg richtet sich nach Artikel 8 und Anhang VI Ziffern 1 und 2 des Schengener Grenzkodex[^29-2].
 
 <sup>3</sup> Für Einreisen an Flugplätzen, die nicht zu den Schengener Aussengrenzen gehören, wird eine vorgängige Bewilligung der für die Personenkontrollen am Landeort zuständigen Behörde benötigt.
 
-[^29-1]: Siehe Fussnote zu Art. 3 Abs. 1.
+[^29-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst.
+[^29-2]: Siehe Fussnote zu Art. 3 Abs. 1.
 
 #### Art. 30
 
@@ -1274,16 +1275,17 @@ Taiwan (Chinesisches Taipei)
 
 Ukraine
 
-Anhang 3
+Anhang 3*[^t-2]*
 
 (Art. 8 Abs. 4 Bst. b)
 
 ## Staaten und Gebietskörperschaften, deren Angehörige ab dem neunten Tag der Erwerbstätigkeit oder ab dem ersten Tag der Erwerbstätigkeit im Bauhaupt- oder Baunebengewerbe, im Gastgewerbe, im Reinigungsgewerbe in Betrieben oder Haushalten, im Überwachungs- und Sicherheitsdienst, im Reisendengewerbe, im Erotikgewerbe oder im Garten- und Landschaftsbau der Visumpflicht für kurzfristige Aufenthalte unterstehen
 
+[^t-2]: Fassung gemäss Ziff. II der V vom 1. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 602](https://fedlex.data.admin.ch/eli/oc/2021/602)).
+
 <table>
-<tr><td>Antigua und Barbuda</td><td>Mikronesien</td></tr>
-<tr><td>Argentinien</td><td>Nicaragua</td></tr>
-<tr><td>Australien</td><td>Palau</td></tr>
+<tr><td>Antigua und Barbuda</td><td>Nicaragua</td></tr>
+<tr><td>Argentinien</td><td>Palau</td></tr>
 <tr><td>Bahamas</td><td>Panama</td></tr>
 <tr><td>Barbados</td><td>Paraguay</td></tr>
 <tr><td>Brasilien</td><td>Peru</td></tr>
@@ -1303,6 +1305,7 @@ Anhang 3
 <tr><td>Marshallinseln</td><td>Venezuela</td></tr>
 <tr><td>Mauritius</td><td>Vereinigte Arabische Emirate</td></tr>
 <tr><td>Mexiko</td><td>Vereinigte Staaten</td></tr>
+<tr><td>Mikronesien</td><td></td></tr>
 </table>
 
 Anhang 4

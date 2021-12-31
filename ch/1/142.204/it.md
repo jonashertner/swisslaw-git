@@ -4,11 +4,11 @@ title: "Ordinanza del 15 agosto 2018 concernente l'entrata e il rilascio del vis
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: it
-version: 2021-09-15
+version: 2022-01-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20210915/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20210915-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20210915/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20210915/it"
 
 (OEV)
 
-del 15 agosto 2018 (Stato 15 settembre 2021)
+del 15 agosto 2018 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -49,7 +49,7 @@ La presente ordinanza disciplina parimenti la competenza di concludere trattati 
 - b<sup>bis</sup>.[^1-3] regolamento (UE) 2017/2226[^1-4];
 - b<sup>ter</sup>.[^1-5] regolamento (UE) 2018/1240[^1-6];
 - c. regolamento (CE) n. 810/2009[^1-7] (codice dei visti);
-- [tab] d.[^1-8] regolamento (UE) 2019/817[^1-9];
+- d.[^1-8] regolamento (UE) 2019/817[^1-9];
 - e.[^1-10] regolamento (UE) 2019/818[^1-11];
 - f.[^1-12] regolamento (CE) n. 1683/95[^1-13];
 - g.[^1-14] regolamento (CE) n. 1030/2002[^1-15].[^1-16]
@@ -245,9 +245,9 @@ In deroga al capoverso 3, ai soggiorni con attività lucrativa si applicano le r
 
 <sup>1</sup> Per un soggiorno di lunga durata in Svizzera i cittadini di uno Stato non membro dell’UE o dell’AELS sono soggetti all’obbligo del visto pertinente.
 
-<sup>2</sup> In deroga al capoverso 1, i cittadini dei seguenti Stati sono esentati dall’obbligo del visto per soggiorni di lunga durata: Andorra, Brunei Darussalam, Città del Vaticano, Giappone, Malaysia, Monaco, Nuova Zelanda, Regno Unito, San Marino e Singapore.[^9-1]
+<sup>2</sup> In deroga al capoverso 1, i cittadini dei seguenti Stati sono esentati dall’obbligo del visto per soggiorni di lunga durata: Andorra, Australia, Brunei Darussalam, Città del Vaticano, Giappone, Malaysia, Monaco, Nuova Zelanda, Regno Unito, San Marino e Singapore.[^9-1]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
+[^9-1]: Nuovo testo giusta il n. I dell’O del 1° ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 602](https://fedlex.data.admin.ch/eli/oc/2021/602)).
 
 #### Art. 10
 
@@ -529,13 +529,14 @@ Le entrate e le partenze sono rette dal codice frontiere Schengen[^28-1]. Sono f
 
 **Frontiere esterne Schengen**
 
-<sup>1</sup> La SEM stabilisce le frontiere esterne Schengen della Svizzera d’intesa con l’Amministrazione federale delle dogane, le autorità federali e cantonali competenti per i controlli delle persone e l’Ufficio federale dell’aviazione civile.
+<sup>1</sup> La SEM stabilisce le frontiere esterne Schengen della Svizzera d’intesa con l’Ufficio federale della dogana e della sicurezza dei confini[^29-1], le autorità federali e cantonali competenti per i controlli delle persone e l’Ufficio federale dell’aviazione civile.
 
-<sup>2</sup> I controlli delle persone alle frontiere esterne Schengen al momento dell’entrata e della partenza per via terrestre e aerea sono rette dall’articolo 8 e dall’allegato VI numeri 1 e 2 del codice frontiere Schengen[^29-1].
+<sup>2</sup> I controlli delle persone alle frontiere esterne Schengen al momento dell’entrata e della partenza per via terrestre e aerea sono rette dall’articolo 8 e dall’allegato VI numeri 1 e 2 del codice frontiere Schengen[^29-2].
 
 <sup>3</sup> L’entrata attraverso aeroporti che non sono designati come frontiere esterne Schengen richiede la previa autorizzazione delle autorità competenti per i controlli delle persone nell’area d’atterraggio.
 
-[^29-1]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 1.
+[^29-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^29-2]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 1.
 
 #### Art. 30
 
@@ -642,7 +643,7 @@ Ha la competenza di concludere trattati internazionali in vista del recepimento 
 - d. le condizioni e le modalità del sistema di scambio elettronico dei dati e siano emanati i virtù dell’articolo 24 paragrafo 5 del regolamento (UE) n. 514/2014;
 - d<sup>bis</sup>.[^34-9] le condizioni minime per la designazione delle autorità responsabili con riguardo all’ambiente interno, alle attività di controllo, informazione e comunicazione, e al monitoraggio, oltre alle norme sulla procedura per procedere e porre fine alla designazione, e siano stati erogati in virtù dell’articolo 26 paragrafo 4 lettera a del regolamento (UE) n. 514/2014;
 - d<sup>ter</sup>.[^34-10] le norme relative alla vigilanza delle autorità responsabili e la procedura per il riesame della loro designazione e siano stati erogati in virtù dell’articolo 26 paragrafo 4 lettera b del regolamento (UE) n. 514/2014;
-- [tab] d<sup>quater</sup>.[^34-11] gli obblighi delle autorità responsabili in materia di intervento pubblico e di contenuto delle loro responsabilità di gestione e di controllo e siano stati erogati in virtù dell’articolo 26 paragrafo 4 lettera c del regolamento (UE) n. 514/2014;
+- d<sup>quater</sup>.[^34-11] gli obblighi delle autorità responsabili in materia di intervento pubblico e di contenuto delle loro responsabilità di gestione e di controllo e siano stati erogati in virtù dell’articolo 26 paragrafo 4 lettera c del regolamento (UE) n. 514/2014;
 - e. le procedure e le prescrizioni necessarie in vista di unificare i controlli svolti dalle autorità competenti e siano emanati in virtù dell’articolo 27 paragrafo 5 del regolamento (UE) n. 514/2014;
 - f. i modelli da utilizzare per presentare la richiesta di pagamento del saldo annuale e siano emanati in virtù dell’articolo 44 paragrafo 3 del regolamento (UE) n. 514/2014;
 - g. le modalità della procedura di liquidazione annuale dei conti e siano emanati in virtù dell’articolo 45 paragrafo 2 del regolamento (UE) n. 514/2014;
@@ -1274,55 +1275,38 @@ Taiwan (Taipei cinese)
 
 Ucraina
 
-Allegato 3
+Allegato 3*[^t-2]*
 
 (art. 8 cpv. 4 lett. b)
 
 ## Stati e collettività territoriali i cui cittadini sono soggetti all’obbligo del visto per un soggiorno di breve durata dal nono giorno di attività oppure dal primo giorno di attività se svolgono un’attività nell’edilizia, ivi compresi il genio civile o i rami edilizi accessori, nel settore alberghiero o nella ristorazione, nei lavori di pulizia in aziende o a domicilio, nei servizi di sorveglianza e di sicurezza, nel commercio ambulante, nel settore a luci rosse oppure nel giardinaggio o nella paesaggistica
 
-Antigua e Barbuda Maurizio
+[^t-2]: Nuovo testo giusta il n. II dell’O del 1° ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 602](https://fedlex.data.admin.ch/eli/oc/2021/602)).
 
-Argentina Messico
-
-Australia Micronesia
-
-Bahamas Nicaragua
-
-Barbados Palau
-
-Brasile Panama
-
-Canada Paraguay
-
-Cile Perù
-
-Colombia Repubblica di Corea
-
-Costa Rica Saint Kitts e Nevis
-
-Dominica Saint Lucia
-
-El Salvador Saint Vincent e Grenadine
-
-Emirati Arabi Uniti Samoa
-
-Grenada Seicelle
-
-Guatemala Stati Uniti d’America
-
-Honduras Timor-Leste
-
-Hongkong Tonga
-
-Isole Marshall Trinidad e Tobago
-
-Isole Salomon Tuvalu
-
-Israele Uruguay
-
-Kiribati Vanuatu
-
-Macao Venezuela
+<table>
+<tr><td>Antigua e Barbuda</td><td>Messico</td></tr>
+<tr><td>Argentina</td><td>Micronesia</td></tr>
+<tr><td>Bahamas</td><td>Nicaragua</td></tr>
+<tr><td>Barbados</td><td>Palau</td></tr>
+<tr><td>Brasile</td><td>Panama</td></tr>
+<tr><td>Canada</td><td>Paraguay</td></tr>
+<tr><td>Cile</td><td>Perù</td></tr>
+<tr><td>Colombia</td><td>Repubblica di Corea</td></tr>
+<tr><td>Costa Rica</td><td>Saint Kitts e Nevis</td></tr>
+<tr><td>Dominica</td><td>Saint Lucia</td></tr>
+<tr><td>El Salvador</td><td>Saint Vincent e Grenadine</td></tr>
+<tr><td>Emirati Arabi Uniti</td><td>Samoa</td></tr>
+<tr><td>Grenada</td><td>Seicelle</td></tr>
+<tr><td>Guatemala</td><td>Stati Uniti d’America</td></tr>
+<tr><td>Honduras</td><td>Timor-Leste</td></tr>
+<tr><td>Hongkong</td><td>Tonga</td></tr>
+<tr><td>Isole Marshall</td><td>Trinidad e Tobago</td></tr>
+<tr><td>Isole Salomon</td><td>Tuvalu</td></tr>
+<tr><td>Israele</td><td>Uruguay</td></tr>
+<tr><td>Kiribati</td><td>Vanuatu</td></tr>
+<tr><td>Macao</td><td>Venezuela</td></tr>
+<tr><td>Maurizio</td><td></td></tr>
+</table>
 
 Allegato 4
 
