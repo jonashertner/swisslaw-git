@@ -4,13 +4,12 @@ number: "114.22.1"
 title: "Loi d'application de la loi fédérale sur les étrangers"
 short: LALEI
 language: fr
-version: 2019-07-01
-valid_until: 2021-12-31
-version_adopted: 2019-06-26
+version: 2022-01-01
+version_adopted: 2021-10-06
 adopted: 2007-11-13
 in_force: 2008-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/114.22.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6077/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7170/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Etrangers – L
 
 (LALEI)
 
-du 13.11.2007 (version entrée en vigueur le 01.07.2019)
+du 13.11.2007 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -63,7 +62,7 @@ Décrète:
 
 <sup>3</sup> Sont réservées les tâches et compétences spéciales attribuées à d'autres organes, en particulier dans les domaines de l'intégration des migrants, de l'aide au retour et à la réintégration et des mesures de contrainte.
 
-[^3-1]: Actuellement: Direction de la sécurité et de la justice.
+[^3-1]: Actuellement: Direction de la sécurité, de la justice et du sport.
 [^3-2]: Actuellement: Service de la population et des migrants.
 
 #### Art. 4
@@ -107,7 +106,7 @@ Décrète:
 
 **Procédure – Infractions pénales**
 
-<sup>1</sup> La poursuite et le jugement des infractions ont lieu conformément à la loi sur la justice.
+<sup>1</sup> La poursuite et le jugement des infractions ont lieu conformément à la loi sur la justice. La législation cantonale et fédérale sur les amendes d'ordre demeure réservée.
 
 #### Art. 9
 

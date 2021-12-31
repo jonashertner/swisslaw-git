@@ -4,13 +4,12 @@ number: "114.22.1"
 title: Ausführungsgesetz zum Bundesgesetz über die Ausländerinnen und Ausländer und über die Integration
 short: AGAIG
 language: de
-version: 2019-07-01
-valid_until: 2021-12-31
-version_adopted: 2019-06-26
+version: 2022-01-01
+version_adopted: 2021-10-06
 adopted: 2007-11-13
 in_force: 2008-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/114.22.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6077/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7170/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Ausländerinnen und Ausländer – G
 
 (AGAIG)
 
-vom 13.11.2007 (Fassung in Kraft getreten am 01.07.2019)
+vom 13.11.2007 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -63,7 +62,7 @@ beschliesst:
 
 <sup>3</sup> Vorbehalten bleiben die besonderen Aufgaben und Zuständigkeiten, die einem anderen Organ zustehen, insbesondere in den Bereichen der Integration der Migrantinnen und Migranten, der Rückkehr- und Wiedereingliederungshilfe und der Zwangsmassnahmen.
 
-[^3-1]: Heute: Sicherheits- und Justizdirektion.
+[^3-1]: Heute: Sicherheits-, Justiz- und Sportdirektion.
 [^3-2]: Heute: Amt für Bevölkerung und Migration.
 
 #### Art. 4
@@ -107,7 +106,7 @@ beschliesst:
 
 **Verfahren – Strafverfahren**
 
-<sup>1</sup> Zuwiderhandlungen werden nach dem Justizgesetz verfolgt und beurteilt.
+<sup>1</sup> Zuwiderhandlungen werden nach dem Justizgesetz verfolgt und beurteilt. Die Ordnungsbussengesetzgebung von Kanton und Bund bleibt vorbehalten.
 
 #### Art. 9
 
