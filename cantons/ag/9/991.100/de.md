@@ -3,20 +3,20 @@ canton: AG
 number: "991.100"
 title: Gesetz über den Vollzug des Strassenverkehrsrechtes
 language: de
-version: 2009-01-01
-valid_until: 2021-12-31
-version_adopted: 2008-03-18
+version: 2022-01-01
+valid_until: 2024-06-30
+version_adopted: 2021-06-15
 adopted: 1984-03-06
 in_force: 1985-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/991.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/610/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3109/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über den Vollzug des Strassenverkehrsrechtes
 
-Vom 06.03.1984 (Stand 01.01.2009)
+Vom 06.03.1984 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -49,6 +49,8 @@ beschliesst:
 
 <sup>4</sup> …
 
+<sup>5</sup> Sind Verkehrsanordnungen, Signalisationen und Markierungen Teil eines Strassenbauprojekts, können sie gemäss den für das Strassenbauprojekt geltenden Verfahrensvorschriften beschlossen werden.
+
 #### § 3
 
 **Strassenreklamen**
@@ -73,7 +75,7 @@ beschliesst:
 
 <sup>3</sup> Die Aufsichtsbehörde hebt rechtswidrige Entscheide auf.
 
-<sup>4</sup> Gemeinden und Private können sich hinsichtlich Verkehrsanordnungen, Signalisationen, Markierungen und Strassenreklamen auf Gemeinde- und Privatstrassen vom Kanton beraten lassen. Der Kanton erhebt hierfür eine kostendeckende Gebühr.
+<sup>4</sup> Gemeinden und Private können sich hinsichtlich Verkehrsanordnungen, Signalisationen, Markierungen und Strassenreklamen auf Gemeinde- und Privatstrassen vom Kanton beraten lassen.
 
 #### § 5
 
