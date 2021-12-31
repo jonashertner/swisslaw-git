@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 septembre 2015 sur le transport de marchandises par
 short: LTM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/328"
 language: fr
-version: 2020-09-26
+version: 2022-01-01
 adopted: 2015-09-25
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/328/20200926/fr/xml/fedlex-data-admin-ch-eli-cc-2016-328-20200926-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/328/20200926/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/328/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-328-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/328/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/328/20200926/fr"
 
 (Loi sur le transport de marchandises, LTM)
 
-du 25 septembre 2015 (Etat le 26 septembre 2020)
+du 25 septembre 2015 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -156,7 +156,9 @@ La responsabilité extracontractuelle des entreprises est régie par les art. 40
 
 <sup>6</sup> La Confédération peut en outre allouer des contributions d’investissement à la construction d’installations portuaires pour le transbordement des marchandises en transport combiné. Ces contributions sont limitées à 50% des coûts imputables.
 
-<sup>7</sup> L’Assemblée fédérale décide par arrêté fédéral de l’allocation des crédits-cadres pluriannuels nécessaires aux contributions d’investissement.
+<sup>7</sup> L’Assemblée fédérale décide par arrêté fédéral de l’allocation des crédits d’engagement[^8-1] pluriannuels nécessaires aux contributions d’investissement.
+
+[^8-1]: Nouvelle expression selon l’annexe ch. 7 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 9
 
@@ -170,16 +172,19 @@ La responsabilité extracontractuelle des entreprises est régie par les art. 40
 
 **Contributions destinées à atténuer les effets de la crise du COVID-19**[^9a-1]
 
-<sup>1</sup> En 2020 et en 2021, la Confédération peut verser des contributions aux entreprises afin d’atténuer les effets de la crise du COVID-19 sur le transport ferroviaire de marchandises.
+<sup>1</sup> ...[^9a-2]
 
 <sup>2</sup>
 
 Les aides financières de la Confédération présupposent que:
 
-- a. les pertes financières dues au COVID-19 dépassent le bénéfice net généré par l’entreprise au cours des exercices 2017 à 2019, déduction faite de toutes les réserves;
-- b. l’entreprise ne verse pas de dividendes pour les exercices 2020 et 2021.
+- a.[^9a-3] ...
+- b.[^9a-4] l’entreprise ne verse pas de dividendes pour les exercices 2020, 2021 et 2022.
 
-[^9a-1]: Introduit par le ch. I 3 de la LF du 25 sept. 2020 sur le soutien des transports publics durant la crise du COVID-19, en vigueur du 26 sept. 2020 au 31 déc. 2021 ([RO 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 6493](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^9a-1]: Introduit par le ch. I 3 de la LF du 25 sept. 2020 sur le soutien des transports publics durant la crise du COVID-19, en vigueur depuis le 26 sept. 2020 ([RO 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 6493](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^9a-2]: En vigueur jusqu’au 31 déc. 2021 ([RO 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 6493](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^9a-3]: En vigueur jusqu’au 31 déc. 2021 ([RO 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 6493](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^9a-4]: Nouvelle teneur selon le ch. II de la LF du 17 déc. 2021 (Prolongation du soutien aux transports publics durant la crise du COVID-19), en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022 ([RO 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [FF 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
 
 #### Art. 10
 

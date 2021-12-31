@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. September 2015 über den Gütertransport durch Bahn
 short: GüTG
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/328"
 language: de
-version: 2020-09-26
+version: 2022-01-01
 adopted: 2015-09-25
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/328/20200926/de/xml/fedlex-data-admin-ch-eli-cc-2016-328-20200926-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/328/20200926/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/328/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-328-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/328/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/328/20200926/de"
 
 (Gütertransportgesetz, GüTG)
 
-vom 25. September 2015 (Stand am 26. September 2020)
+vom 25. September 2015 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -156,7 +156,9 @@ Für die ausservertragliche Haftung der Unternehmen gelten die Artikel 40*b*–4
 
 <sup>6</sup> Der Bund kann überdies Investitionsbeiträge an den Bau von Hafenanlagen für den Güterumschlag im kombinierten Verkehr leisten. Diese dürfen 50 Prozent der anrechenbaren Kosten nicht überschreiten.
 
-<sup>7</sup> Die Bundesversammlung bewilligt durch einfachen Bundesbeschluss die für die Investitionsbeiträge notwendigen mehrjährigen Rahmenkredite.
+<sup>7</sup> Die Bundesversammlung bewilligt durch einfachen Bundesbeschluss die für die Investitionsbeiträge notwendigen mehrjährigen Verpflichtungskredite[^8-1].
+
+[^8-1]: Ausdruck gemäss Anhang Ziff. 7 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 9
 
@@ -170,16 +172,19 @@ Für die ausservertragliche Haftung der Unternehmen gelten die Artikel 40*b*–4
 
 **Beiträge zur Milderung der Auswirkungen der Covid-19-Krise**[^9a-1]
 
-<sup>1</sup> Der Bund kann in den Jahren 2020 und 2021 Beiträge an die Unternehmen entrichten, um die Auswirkungen der Covid-19-Krise auf den Gütertransport auf der Schiene zu mildern.
+<sup>1</sup> …[^9a-2]
 
 <sup>2</sup>
 
 Finanzhilfen des Bundes setzen voraus, dass:
 
-- a. die COVID-19-bedingten finanziellen Ausfälle nach Abzug aller Reserven den in den Geschäftsjahren 2017–2019 erzielten Reingewinn des Unternehmens übersteigen;
-- b. das Unternehmen für die Geschäftsjahre 2020 und 2021 keine Dividenden ausschüttet.
+- a.[^9a-3] …
+- b.[^9a-4] das Unternehmen für die Geschäftsjahre 2020, 2021 und 2022 keine Dividenden ausschüttet.
 
-[^9a-1]: Eingefügt durch Ziff. I 3 des BG vom 25. Sept. 2020 über die Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise, in Kraft vom 26. Sept. 2020 bis zum 31. Dez. 2021 ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^9a-1]: Eingefügt durch Ziff. I 3 des BG vom 25. Sept. 2020 über die Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise, in Kraft seit 26. Sept. 2020 ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^9a-2]: In Kraft bis zum 31. Dez. 2021 ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^9a-3]: In Kraft bis zum 31. Dez. 2021 ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^9a-4]: Fassung gemäss Ziff. II des BG vom 17. Dez. 2021 (Verlängerung der Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise), in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [BBl 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
 
 #### Art. 10
 
@@ -424,13 +429,13 @@ Die folgenden Erlasse werden aufgehoben:
 - 1\. Gütertransportgesetz vom 19. Dezember 2008[^annexu1-lvlu1-lvlI-1];
 - 2\. Bundesgesetz vom 5. Oktober 1990[^annexu1-lvlu1-lvlI-2] über die Anschlussgleise.
 
-[^annexu1-lvlu1-lvlI-1]: [[AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)Ziff. II 23 [6019](https://fedlex.data.admin.ch/eli/oc/2009/737), [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)Ziff. I 5, [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375)einziger Art. Abs. 1 Bst. a]
-[^annexu1-lvlu1-lvlI-2]: [[AS 1992 565](https://fedlex.data.admin.ch/eli/oc/1992/565_565_565), [1995 3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)Ziff. I 13, [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 19, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 76, [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)Ziff. II 20, [2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)Ziff. II 16 [5973](https://fedlex.data.admin.ch/eli/oc/2009/731)Ziff. I 2]
+[^annexu1-lvlu1-lvlI-1]: [[AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)Ziff. II 23, [6019](https://fedlex.data.admin.ch/eli/oc/2009/737); [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)Ziff. I 5; [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375)einziger Art. Abs. 1 Bst. a]
+[^annexu1-lvlu1-lvlI-2]: [[AS 1992 565](https://fedlex.data.admin.ch/eli/oc/1992/565_565_565); [1995 3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)Ziff. I 13; [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 19; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 76; [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)Ziff. II 20; [2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)Ziff. II 16, [5973](https://fedlex.data.admin.ch/eli/oc/2009/731)Ziff. I 2]
 
 ### II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annexu1-lvlu1-lvlII-1]
+…[^annexu1-lvlu1-lvlII-1]
 
 [^annexu1-lvlu1-lvlII-1]: Die Änderungen können unter [AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)konsultiert werden.

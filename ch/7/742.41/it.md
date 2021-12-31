@@ -4,11 +4,11 @@ title: "Legge federale del 25 settembre 2015 sul trasporto di merci da parte di 
 short: LTM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/328"
 language: it
-version: 2020-09-26
+version: 2022-01-01
 adopted: 2015-09-25
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/328/20200926/it/xml/fedlex-data-admin-ch-eli-cc-2016-328-20200926-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/328/20200926/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/328/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-328-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/328/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/328/20200926/it"
 
 (Legge sul trasporto di merci, LTM)
 
-del 25 settembre 2015 (Stato 26 settembre 2020)
+del 25 settembre 2015 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -156,7 +156,9 @@ La responsabilità extracontrattuale delle imprese è retta dagli articoli 40*b*
 
 <sup>6</sup> La Confederazione può inoltre accordare contributi d’investimento per la costruzioni di impianti portuali per il trasbordo di merci nel traffico combinato. Tali contributi possono ammontare al massimo al 50 per cento dei costi computabili.
 
-<sup>7</sup> L’Assemblea federale stanzia mediante decreto federale i crediti quadro pluriennali necessari per i contributi d’investimento.
+<sup>7</sup> L’Assemblea federale stanzia mediante decreto federale i crediti d’impegno[^8-1] pluriennali necessari per i contributi d’investimento.
+
+[^8-1]: Nuova espr. giusta l’all. n. 7 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 9
 
@@ -170,16 +172,19 @@ La responsabilità extracontrattuale delle imprese è retta dagli articoli 40*b*
 
 **Contributi per mitigare le ripercussioni della crisi della COVID-19**[^9a-1]
 
-<sup>1</sup> Negli anni 2020 e 2021 la Confederazione può versare contributi alle imprese per mitigare le ripercussioni della crisi della COVID-19 sul trasporto di merci per ferrovia.
+<sup>1</sup> ...[^9a-2]
 
 <sup>2</sup>
 
 Gli aiuti finanziari della Confederazione sono versati soltanto se:
 
-- a. le perdite finanziarie dovute alla COVID-19 superano, previa deduzione di tutte le riserve, l’utile netto realizzato dall’impresa negli esercizi 2017–2019; e
-- b. l’impresa non distribuisce dividendi per gli esercizi 2020 e 2021.
+- a.[^9a-3] ...
+- b.[^9a-4] l’impresa non distribuisce dividendi per gli esercizi 2020, 2021 e 2022.
 
-[^9a-1]: Introdotto dal n. I 3 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19, in vigore dal 26 set. 2020 al 31 dic. 2021 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^9a-1]: Introdotto dal n. I 3 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19, in vigore dal 26 set. 2020 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^9a-2]: In vigore fino al 31 dic. 2021 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^9a-3]: In vigore fino al 31 dic. 2021 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^9a-4]: Nuovo testo giusta il n. II della LF del 17 dic. 2021 (Proroga del sostegno ai trasporti pubblici nella crisi della COVID-19), in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [FF 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
 
 #### Art. 10
 
@@ -430,6 +435,6 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annexu1-lvlu1-3]
 
-[^annexu1-lvlu1-1]: [[RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)n. II 23 [6019](https://fedlex.data.admin.ch/eli/oc/2009/737), [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)n. I 5, [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375)art. unico cpv. 1 lett. a]
-[^annexu1-lvlu1-2]: [[RU 1992 565](https://fedlex.data.admin.ch/eli/oc/1992/565_565_565), [1995 3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)n. I 13, [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)all. n. 19, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 76, [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)n. II 20, [2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)n. II 16 [5973](https://fedlex.data.admin.ch/eli/oc/2009/731)n. I 2]
+[^annexu1-lvlu1-1]: [[RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)n. II 23, [6019](https://fedlex.data.admin.ch/eli/oc/2009/737); [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)n. I 5; [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375)art. unico cpv. 1 lett. a]
+[^annexu1-lvlu1-2]: [[RU 1992 565](https://fedlex.data.admin.ch/eli/oc/1992/565_565_565); [1995 3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)n. I 13; [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)all. n. 19; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 76; [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)n. II 20; [2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)n. II 16, [5973](https://fedlex.data.admin.ch/eli/oc/2009/731)n. I 2]
 [^annexu1-lvlu1-3]: Le mod. possono essere consultate alla [RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328).
