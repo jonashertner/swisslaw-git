@@ -4,13 +4,13 @@ number: "812.11"
 title: Gewässerreglement
 short: GewR
 language: de
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-12-14
 adopted: 2011-06-21
 in_force: 2011-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/812.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5986/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7039/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Gewässerreglement
 
 (GewR)
 
-vom 21.06.2011 (Fassung in Kraft getreten am 01.04.2019)
+vom 21.06.2011 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -302,15 +302,15 @@ beschliesst:
 
 **Bodenbewirtschaftung**
 
-<sup>1</sup> Das Amt für Landwirtschaft (LwA) wird mit dem Vollzug der Bestimmungen über die Bodenbewirtschaftung (Art. 27 GSchG) beauftragt.
+<sup>1</sup> Grangeneuve wird mit dem Vollzug der Bestimmungen über die Bodenbewirtschaftung (Art. 27 GSchG) beauftragt.
 
 #### Art. 26
 
 **Lagerung von Hofdünger in Betrieben mit Nutztierhaltung – Richtlinien**
 
-<sup>1</sup> Die Lagerkapazität für Hofdünger und Abwasser wird gemäss den Richtlinien berechnet, die das AfU auf der Grundlage der Vorgaben des Bundes und in Abstimmung mit dem LwA und dem Landwirtschaftlichen Institut des Kantons Freiburg (LIG) aufstellt.
+<sup>1</sup> Die Lagerkapazität für Hofdünger und Abwasser wird gemäss den Richtlinien berechnet, die das AfU auf der Grundlage der Vorgaben des Bundes und in Abstimmung mit Grangeneuve aufstellt.
 
-<sup>2</sup> Das LIG wird mit der Düngerberatung (Art. 51 GSchG) beauftragt.
+<sup>2</sup> Grangeneuve wird mit der Düngerberatung (Art. 51 GSchG) beauftragt.
 
 #### Art. 27
 
@@ -364,7 +364,7 @@ beschliesst:
 
 <sup>1</sup> Die Inhaberinnen und Inhaber von Lagereinrichtungen für Hofdünger, für die eine Bewilligung erforderlich ist (Art. 19 Abs. 2 GSchG), müssen diese Einrichtungen gemäss Artikel 28 GSchV kontrollieren lassen. Das AfU sorgt mit Inspektionen für eine angemessene Kontrolle.
 
-<sup>2</sup> Die Inspektionen erfolgen gemäss der Verordnung des Bundes über die Koordination der Inspektionen auf Landwirtschaftsbetrieben (VKIL). Das AfU ist in der Koordinationsgruppe vertreten.
+<sup>2</sup> Die Inspektionen erfolgen gemäss der Verordnung des Bundes über die Koordination der Kontrollen auf Landwirtschaftsbetrieben (VKKL). Das AfU ist in der Koordinationsgruppe vertreten.
 
 ### 2.4 Planerischer Schutz
 
@@ -384,7 +384,7 @@ beschliesst:
 
 **Massnahmen der Landwirtschaft – Abschwemmung und Auswaschung von Stoffen**
 
-<sup>1</sup> Die Massnahmen, die nötig sind, um die Abschwemmung und Auswaschung von Stoffen zu verhindern, werden in einer Vereinbarung zwischen der Landwirtin oder dem Landwirt, der Inhaberin oder dem Inhaber der Wasserfassung und dem Staat, der durch das AfU und das LwA vertreten ist, festgelegt.
+<sup>1</sup> Die Massnahmen, die nötig sind, um die Abschwemmung und Auswaschung von Stoffen zu verhindern, werden in einer Vereinbarung zwischen der Landwirtin oder dem Landwirt, der Inhaberin oder dem Inhaber der Wasserfassung und dem Staat, der durch das AfU und Grangeneuve vertreten ist, festgelegt.
 
 <sup>2</sup> In der Vereinbarung werden namentlich die Abgeltung, die die Landwirtin oder der Landwirt für die Schutzmassnahmen erhält, die Dauer und die Folgen einer Nichteinhaltung der vereinbarten Massnahmen definiert.
 
@@ -396,9 +396,9 @@ beschliesst:
 
 **Massnahmen der Landwirtschaft – Studien, Abgeltungen und Kontrollen**
 
-<sup>1</sup> Das LIG führt vor Abschluss der Vereinbarung die agronomischen Studien durch und informiert das AfU sowie das LwA.
+<sup>1</sup> Grangeneuve führt vor Abschluss der Vereinbarung die agronomischen Studien durch und informiert das AfU.
 
-<sup>2</sup> Das LwA überweist die geschuldete Abgeltung und wacht darüber, dass die vereinbarten Massnahmen ausgeführt werden. Gegebenenfalls verhängt es die in der Vereinbarung vorgesehenen Strafen.
+<sup>2</sup> Es überweist die geschuldete Abgeltung und wacht darüber, dass die vereinbarten Massnahmen ausgeführt werden. Gegebenenfalls verhängt es die in der Vereinbarung vorgesehenen Strafen.
 
 ### 2.5 Wassergefährdende Stoffe (Art. 13 GewG)
 
@@ -802,7 +802,7 @@ beschliesst:
 
 - a) Die KGV übermittelt zum einen die Daten, die sie über die zum Lagern von wassergefährdenden Flüssigkeiten dienenden Anlagen besitzt und die für die Erstellung des in Artikel 35 vorgesehenen Katasters der Lageranlagen nötig sind (Brandversicherungsnummer, Name, Vorname und Adresse der Eigentümerin oder des Eigentümers), und zum anderen den Brandversicherungswert der Gebäude.
 - b) Das Amt für Strassenverkehr und Schifffahrt übermittelt die Daten zu den Berufsschildern, damit die Gefahren für die Umwelt beurteilt werden können (Art. 23 Abs. 2 der Verkehrsversicherungsverordnung des Bundes vom 20. November 1959, VVV).
-- c) Das LwA übermittelt die im GELAN-System (Gesamtlösung EDV Landwirtschaft) gespeicherten Daten, die für die Umsetzung der Gesetzgebung über die Gewässer nötig sind.
+- c) Grangeneuve übermittelt die im GELAN-System (Gesamtlösung EDV Landwirtschaft) gespeicherten Daten, die für die Umsetzung der Gesetzgebung über die Gewässer nötig sind.
 
 ## 6 Schlussbestimmungen
 

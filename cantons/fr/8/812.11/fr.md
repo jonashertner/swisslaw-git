@@ -4,13 +4,13 @@ number: "812.11"
 title: Règlement sur les eaux
 short: RCEaux
 language: fr
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-12-14
 adopted: 2011-06-21
 in_force: 2011-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/812.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5986/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7039/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Eaux – R
 
 (RCEaux)
 
-du 21.06.2011 (version entrée en vigueur le 01.04.2019)
+du 21.06.2011 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -302,15 +302,15 @@ Arrête:
 
 **Exploitation des sols**
 
-<sup>1</sup> Le Service de l'agriculture (ci-après: SAgri) est chargé de l'exécution des dispositions relatives à l'exploitation des sols (art. 27 LEaux).
+<sup>1</sup> Grangeneuve est chargé de l'exécution des dispositions relatives à l'exploitation des sols (art. 27 LEaux).
 
 #### Art. 26
 
 **Entreposage des engrais de ferme d'exploitations pratiquant la garde d'animaux de rente – Directives**
 
-<sup>1</sup> La quantité d'engrais de ferme et d'eaux usées à entreposer est calculée selon les directives établies par le SEn, en accord avec le SAgri et l'Institut agricole de l'Etat de Fribourg (ci-après: IAG) et sur la base des prescriptions de la Confédération.
+<sup>1</sup> La quantité d'engrais de ferme et d'eaux usées à entreposer est calculée selon les directives établies par le SEn, en accord avec Grangeneuve et sur la base des prescriptions de la Confédération.
 
-<sup>2</sup> L'IAG est chargé de la vulgarisation en matière d'engrais (art. 51 LEaux).
+<sup>2</sup> Grangeneuve est chargé de la vulgarisation en matière d'engrais (art. 51 LEaux).
 
 #### Art. 27
 
@@ -364,7 +364,7 @@ Arrête:
 
 <sup>1</sup> Le détenteur ou la détentrice d'une installation d'entreposage soumise à autorisation (art. 19 al. 2 LEaux) doit la faire contrôler conformément à l'article 28 OEaux. Le SEn veille au contrôle par des inspections.
 
-<sup>2</sup> Les inspections sont réalisées conformément à l'ordonnance fédérale sur la coordination des inspections dans les exploitations agricoles (OCI). Le SEn est représenté dans le groupe de coordination.
+<sup>2</sup> Les inspections sont réalisées conformément à l'ordonnance fédérale sur la coordination des contrôles dans les exploitations agricoles (OCCEA). Le SEn est représenté dans le groupe de coordination.
 
 ### 2.4 Mesures d'organisation du territoire
 
@@ -384,7 +384,7 @@ Arrête:
 
 **Mesures prises par l'agriculture – Ruissellement et lessivage de substances**
 
-<sup>1</sup> Les mesures nécessaires afin d'empêcher le ruissellement et le lessivage de substances sont fixées par convention passée entre l'exploitant ou l'exploitante agricole, le détenteur ou la détentrice du captage et l'Etat, représenté par le SEn et le SAgri.
+<sup>1</sup> Les mesures nécessaires afin d'empêcher le ruissellement et le lessivage de substances sont fixées par convention passée entre l'exploitant ou l'exploitante agricole, le détenteur ou la détentrice du captage et l'Etat, représenté par le SEn et Grangeneuve.
 
 <sup>2</sup> La convention fixe notamment l'indemnité due à l'exploitant ou à l'exploitante en contrepartie des mesures de protection, la durée et les conséquences en cas de non-respect des mesures convenues.
 
@@ -396,9 +396,9 @@ Arrête:
 
 **Mesures prises par l'agriculture – Etudes, indemnité et contrôle**
 
-<sup>1</sup> L'IAG procède aux études agronomiques préalables à la conclusion de la convention et en informe le SEn et le SAgri.
+<sup>1</sup> Grangeneuve procède aux études agronomiques préalables à la conclusion de la convention et en informe le SEn.
 
-<sup>2</sup> Le SAgri verse l'indemnité et veille au respect des mesures par l'exploitant ou l'exploitante. Le cas échéant, il applique les sanctions prévues par la convention.
+<sup>2</sup> Il verse l'indemnité et veille au respect des mesures par l'exploitant ou l'exploitante. Le cas échéant, il applique les sanctions prévues par la convention.
 
 ### 2.5 Substances de nature à polluer les eaux (art. 13 LCEaux)
 
@@ -802,7 +802,7 @@ Arrête:
 
 - a) par l'ECAB, d'une part, les données qu'il détient sur les installations d'entreposage de liquides pouvant polluer les eaux et qui sont nécessaires à l'établissement du registre des installations indiqué à l'article 35 (numéro d'assurance-incendie, nom, prénom et adresse du ou de la propriétaire) et, d'autre part, les données sur la valeur d'assurance-incendie des bâtiments;
 - b) par l'Office de la circulation et de la navigation, les données relatives aux immatriculations des véhicules des garagistes professionnels afin de vérifier les risques pour l'environnement (art. 23 al. 2 de l'ordonnance fédérale du 20 novembre 1959 sur l'assurance des véhicules, OAV);
-- c) par le SAgri, les données du système d'information GELAN (Gesamtlösung EDV Landwirtschaft) nécessaires à l'application de la législation sur les eaux.
+- c) par Grangeneuve, les données du système d'information GELAN (Gesamtlösung EDV Landwirtschaft) nécessaires à l'application de la législation sur les eaux.
 
 ## 6 Dispositions finales
 
