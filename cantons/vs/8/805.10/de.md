@@ -4,20 +4,20 @@ number: "805.10"
 title: Verordnung über die Planung und die Finanzierung der Langzeitpflege
 short: VPFL
 language: de
-version: 2019-04-01
-corrected: 2021-02-25
-version_adopted: 2019-04-03
+version: 2022-01-01
+valid_until: 2026-06-30
+version_adopted: 2021-11-24
 adopted: 2014-10-15
 in_force: 2015-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/805.10"
-pdf: "https://lex.vs.ch/api/de/versions/2528/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2982/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Planung und die Finanzierung der Langzeitpflege
 
-vom 15.10.2014 (Stand 01.04.2019)
+vom 15.10.2014 (Stand 01.01.2022)
 
 Der Staatsrat des Kantons Wallis,
 
@@ -206,6 +206,8 @@ verordnet:
 
 <sup>1</sup> Gemäss Artikel 19 des Langzeitpflegegesetzes ist das steuerbare Reinvermögen massgebend für die Bestimmung der Beteiligung der Versicherten an der Finanzierung von Pflegeleistungen in Pflegeheimen und in Wartebetten im Spital. Artikel 33 der vorliegenden Verordnung bleibt vorbehalten.
 
+<sup>2</sup> Für die Hospize für Palliative Care gibt es keine Beteiligung der versicherten Personen.
+
 #### Art. 16
 
 **Festlegung des massgebenden steuerbaren Reinvermögens für die Pflegefinanzierung**
@@ -243,6 +245,8 @@ verordnet:
 **Erhebliche Änderung des Vermögens**
 
 <sup>1</sup> Die versicherte Person oder ihr gesetzlicher Vertreter kann beim Leistungserbringer einen begründeten Antrag auf Neueinschätzung der Beteiligung stellen, falls sich das für den Beteiligungssatz massgebende Vermögen während dem Aufenthalt erheblich verändert. Unter einer erheblichen Änderung des Vermögens wird eine Abweichung von mehr als 20 Prozent des für die Beteiligung massgebenden Vermögens verstanden.
+
+Die versicherte Person hat ein Jahr nach dem Inkrafttreten der neuen Besteuerung Zeit, sein Recht geltend zu machen.
 
 <sup>2</sup> Die Bestimmung kann innerhalb 30 Tage nach dessen Bekanntgabe bei der Dienststelle für Gesundheitswesen beanstandet werden. Die Dienststelle für Gesundheitswesen entscheidet über die Beanstandung. Gegen diesen Entscheid kann innerhalb 30 nach dessen Bekanntgabe Tage beim Staatsrat Einsprache erhoben werden.
 

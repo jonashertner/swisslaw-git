@@ -4,20 +4,20 @@ number: "805.10"
 title: Ordonnance sur la planification et le financement des soins de longue durée
 short: OSLD
 language: fr
-version: 2019-04-01
-corrected: 2021-02-25
-version_adopted: 2019-04-03
+version: 2022-01-01
+valid_until: 2026-06-30
+version_adopted: 2021-11-24
 adopted: 2014-10-15
 in_force: 2015-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/805.10"
-pdf: "https://lex.vs.ch/api/fr/versions/2528/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2982/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur la planification et le financement des soins de longue durée
 
-du 15.10.2014 (état 01.04.2019)
+du 15.10.2014 (état 01.01.2022)
 
 Le Conseil d'Etat du canton du Valais,
 
@@ -206,6 +206,8 @@ ordonne:
 
 <sup>1</sup> La participation pour les soins dispensés en EMS et dans les lits d'attente hospitaliers est définie dans l'article 19 LSLD en tenant compte de la fortune nette imposable déterminante pour le financement des soins de l'assuré. L'article 33 de la présente ordonnance demeure réservé.
 
+<sup>2</sup> Pour les hospices de soins palliatifs, il n'y a pas de participation des assurés.
+
 #### Art. 16
 
 **Détermination de la fortune nette imposable déterminante pour le financement des soins**
@@ -243,6 +245,8 @@ ordonne:
 **Modification notable de la fortune**
 
 <sup>1</sup> En cas de modification notable de la fortune déterminant son taux de participation durant le séjour, une demande motivée de réévaluation de la participation peut être adressée au fournisseur de soins par l'assuré ou son représentant légal. On entend par modification notable un écart de plus de 20 pour cent de la fortune déterminant la participation.
+
+L'assuré dispose d'une année depuis l'entrée en force de la nouvelle taxation pour faire valoir son droit.
 
 <sup>2</sup> La détermination peut faire l'objet d'une réclamation dans les 30 jours dès sa notification auprès du Service de la santé publique. Le Service de la santé publique rend sa décision sur réclamation qui peut faire l'objet d'un recours auprès du Conseil d'Etat dans un délai de 30 jours dès sa notification.
 
