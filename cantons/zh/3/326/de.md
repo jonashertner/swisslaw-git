@@ -3,11 +3,10 @@ canton: ZH
 number: "326"
 title: Reglement für das Kriminalistische Institut des Kantons Zürich
 language: de
-version: "2011-01-01"
-nachtrag: "71"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
 adopted: 1961-03-16
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-326-1961_03_16-1961_04_07-071.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-326-1961_03_16-1961_04_07-115.html"
 text: pdf
 ---
 
@@ -47,7 +46,7 @@ B. Organisation des Institutes
 
 **1**
 
-- 1\. 1. 11 - 71
+- 1\. 1. 22 - 115
 
 - 6\. <sup>1</sup> Die Kommission erlässt über die Organisation und den Lehrplan des Institutes ein Reglement, das der Genehmigung der Direktion der Justiz und des Innern bedarf.[^t-4]
 
@@ -65,13 +64,13 @@ B. Organisation des Institutes
 
 C. Teilnahme an den Kursen
 
-- 9\. Zur Teilnahme an den Kursen des Institutes sind berechtigt: a.[^t-3] die zürcherischen Staats-, Jugend-, Oberstaats- und Oberjugendanwälte[^t-7] sowie die von der Direktion der Justiz und des Innern bezeichneten Funktionäre des Strafvollzuges, b.[^t-4] die von der Sicherheitsdirektion und den Polizeidepartementen der Städte Zürich und Winterthur bezeichneten Funktionäre ihrer Polizeikorps,
+- 9\. Zur Teilnahme an den Kursen des Institutes sind berechtigt: a.[^t-3] die zürcherischen Staats-, Jugend-, Oberstaats- und Oberjugendanwälte[^t-7] sowie die von der Direktion der Justiz und des Innern bezeichneten Funktionäre des Strafvollzuges, b.[^t-8] die von der Sicherheitsdirektion und den Sicherheitsdepartementen der Städte Zürich und Winterthur bezeichneten Funktionäre ihrer Polizeikorps sowie die Mitarbeitenden des Forensischen Instituts Zürich,
 
 - c. die zürcherischen Bezirks- und Oberrichter.
 
 - 10\. <sup>1</sup> Überdies kann der Institutsleiter als Teilnehmer zulassen:
 
-- a. Funktionäre der übrigen Gemeinden und anderer Kantone, welche im Sinne von Ziffer 9 lit. a–c tätig sind,
+- a. Funktionäre der übrigen Gemeinden und anderer Kantone, welche im Sinne von Ziff. 9 lit. a–c tätig sind,
 
 - b. Rechtsanwälte, Personen mit einem abgeschlossenen juristischen Studium und Studenten der Rechtswissenschaft, die sich über ein fachliches Interesse am Besuche der Kurse ausweisen.
 
@@ -85,4 +84,5 @@ C. Teilnahme an den Kursen
 [^t-4]: Fassung gemäss RRB vom 13. August 2008 (OS 63, 476; ABl 2008, 1419). In Kraft seit 1. Oktober 2008.
 [^t-5]: Fassung gemäss RRB vom 15. März 2006 (OS 61, 112; ABl 2006, 348). In Kraft seit 1. Mai 2006.
 [^t-6]: Eingefügt durch RRB vom 13. August 2008 (OS 63, 476; ABl 2008, 1419). In Kraft seit 1. Oktober 2008.
-[^t-7]: Fassung gemäss RRB vom 3. November 2010 (OS 65, 788; ABl 2010, 2429). In Kraft seit 1. Januar 2011. 1. 1. 11 - 71 3
+[^t-7]: Fassung gemäss RRB vom 3. November 2010 (OS 65, 788; ABl 2010, 2429). In Kraft seit 1. Januar 2011.
+[^t-8]: Fassung gemäss RRB vom 7. Juli 2021 (OS 76, 392; ABl 2021-07-16). In Kraft seit 1. Januar 2022. 1. 1. 22 - 115 3
