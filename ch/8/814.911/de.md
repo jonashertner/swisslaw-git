@@ -4,11 +4,11 @@ title: "Verordnung vom 10. September 2008 über den Umgang mit Organismen in der
 short: FrSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/614"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2008-09-10
 in_force: 2008-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/614/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2008-614-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/614/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-614-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20200101/de"
 
 (Freisetzungsverordnung, FrSV)
 
-vom 10. September 2008 (Stand am 1. Januar 2020)
+vom 10. September 2008 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -631,12 +631,12 @@ Die Bewilligung nach Artikel 25 wird, je nach Produkt, von einer der folgenden B
 <tr><td>b. Lebensmittel, Zusatzstoffe und Verarbeitungshilfsstoffe</td><td>Bundesamt für Lebensmittelsicherheit und Veterinär- wesen (BLV)[^26-2]</td><td>Lebensmittel- und Gebrauchsgegenständeverordnung vom 23. November 2005[^26-3]</td></tr>
 <tr><td>c. pflanzliches Vermehrungsmaterial für ausschliesslich forstwirtschaftliche Verwendungen</td><td>BAFU</td><td>Freisetzungsverordnung vom 10. September 2008</td></tr>
 <tr><td>d.[^26-4] pflanzliches Vermehrungsmaterial für alle übrigen Verwendungen</td><td>BLW</td><td>Vermehrungsmaterial-Verordnung vom 7. Dezember 1998[^26-5]</td></tr>
-<tr><td>e. Pflanzenschutzmittel</td><td>BLW</td><td>Pflanzenschutzmittelverordnung vom 18. Mai 2005[^26-6]</td></tr>
-<tr><td>f. Dünger</td><td>BLW</td><td>Dünger-Verordnung vom 10. Januar 2001[^26-7]</td></tr>
-<tr><td>g. Futtermittel</td><td>BLW</td><td>Futtermittel-Verordnung vom 26. Mai 1999[^26-8]</td></tr>
+<tr><td>e.[^26-6] Pflanzenschutzmittel</td><td>BLV</td><td>Pflanzenschutzmittelverordnung vom 12. Mai 2010[^26-7]</td></tr>
+<tr><td>f. Dünger</td><td>BLW</td><td>Dünger-Verordnung vom 10. Januar 2001[^26-8]</td></tr>
+<tr><td>g. Futtermittel</td><td>BLW</td><td>Futtermittel-Verordnung vom 26. Mai 1999[^26-9]</td></tr>
 <tr><td>h. immunologische Arzneimittel für den tierärztlichen Gebrauch</td><td>BLV</td><td>Arzneimittelverordnung vom 21. September 2018</td></tr>
-<tr><td>i.[^26-9] …</td><td></td><td></td></tr>
-<tr><td>j. Biozidprodukte</td><td>BAG</td><td>Biozidprodukteverordnung vom 18. Mai 2005[^26-10]</td></tr>
+<tr><td>i.[^26-10] …</td><td></td><td></td></tr>
+<tr><td>j. Biozidprodukte</td><td>BAG</td><td>Biozidprodukteverordnung vom 18. Mai 2005[^26-11]</td></tr>
 <tr><td>k. alle übrigen Produkte</td><td>BAFU</td><td>Freisetzungsverordnung vom 10. September 2008</td></tr>
 </table>
 
@@ -645,11 +645,12 @@ Die Bewilligung nach Artikel 25 wird, je nach Produkt, von einer der folgenden B
 [^26-3]: [[AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746), [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 47, [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 8 [5167](https://fedlex.data.admin.ch/eli/oc/2008/722)[6025](https://fedlex.data.admin.ch/eli/oc/2008/833), [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233), [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668), [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)Art. 37 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)Anhang 2 Ziff. II 3, [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572)[6809](https://fedlex.data.admin.ch/eli/oc/2012/824), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 7 [3669](https://fedlex.data.admin.ch/eli/oc/2013/684), [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 4 [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 3, [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Anhang Ziff. II 2, [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 5. [AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)Art. 94 Abs. 1]. Siehe heute die V vom 16. Dezember 2016 ([SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)).
 [^26-4]: Fassung gemäss Anhang 8 Ziff. 3 der Pflanzengesundheitsverordnung vom 31. Okt. 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 [^26-5]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^26-6]: [[AS 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481)[4097](https://fedlex.data.admin.ch/eli/oc/2005/541)[5211](https://fedlex.data.admin.ch/eli/oc/2005/719), [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)Ziff. III [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 54 [1843](https://fedlex.data.admin.ch/eli/oc/2007/268)[4541](https://fedlex.data.admin.ch/eli/oc/2007/641)[6291](https://fedlex.data.admin.ch/eli/oc/2007/834), [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 11 [5271](https://fedlex.data.admin.ch/eli/oc/2008/742), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)Anhang Ziff. 3 [2845](https://fedlex.data.admin.ch/eli/oc/2009/373), [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278)[3845](https://fedlex.data.admin.ch/eli/oc/2010/551). [AS 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)Art. 84]. Siehe heute: die V vom 12. Mai 2010 ([SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
-[^26-7]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^26-8]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Anhang 5 Ziff. 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 19 [5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. Siehe heute: die V vom 26. Okt. 2011 ([SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
-[^26-9]: Aufgehoben durch Anhang 8 Ziff. 3 der Pflanzengesundheitsverordnung vom 31. Okt. 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^26-10]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^26-6]: Fassung gemäss Anhang Ziff. 2 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^26-7]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^26-8]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^26-9]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Anhang 5 Ziff. 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 19 [5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. Siehe heute: die V vom 26. Okt. 2011 ([SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
+[^26-10]: Aufgehoben durch Anhang 8 Ziff. 3 der Pflanzengesundheitsverordnung vom 31. Okt. 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^26-11]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
 
 #### Art. 27
 
@@ -703,7 +704,7 @@ Das Gesuch muss insbesondere folgende Angaben enthalten:
 
 <sup>1</sup> Das Bewilligungsgesuch für das Inverkehrbringen pathogener Organismen, das im Rahmen des massgeblichen Bewilligungsverfahrens nach Artikel 26 einzureichen ist, muss alle erforderlichen Angaben enthalten, die belegen, dass durch den Umgang mit den Organismen die Anforderungen nach den Artikeln 12–14 nicht verletzt werden können.
 
-<sup>2</sup> h.[^29-1] für Organismen, die genutzte genetische Ressourcen sind oder deren Entwicklung auf genutzten genetischen Ressourcen oder auf sich darauf beziehendem traditionellem Wissen basiert, die Registernummer gemäss Artikel 4 Absatz 3 oder 8 Absatz 5 der Nagoya-Verordnung vom 11. Dezember 2015[^29-2].
+<sup>2</sup>
 
 Das Gesuch muss insbesondere folgende Angaben enthalten:
 
@@ -716,6 +717,7 @@ Das Gesuch muss insbesondere folgende Angaben enthalten:
 - 2\. Dauer und Häufigkeit der Überwachung;
 - f. einen Vorschlag für die Information der Abnehmerinnen und Abnehmer (Art. 5) sowie für die allfällige Verpackung der Organismen;
 - g. den Nachweis, dass die Sicherstellungspflichten erfüllt sind;
+- h.[^29-1] für Organismen, die genutzte genetische Ressourcen sind oder deren Entwicklung auf genutzten genetischen Ressourcen oder auf sich darauf beziehendem traditionellem Wissen basiert, die Registernummer gemäss Artikel 4 Absatz 3 oder 8 Absatz 5 der Nagoya-Verordnung vom 11. Dezember 2015[^29-2].
 
 <sup>3</sup> In der Dokumentation der Ergebnisse früherer Untersuchungen nach Absatz 2 Buchstabe b kann auf Daten oder Ergebnisse einer anderen Gesuchstellerin oder eines anderen Gesuchstellers verwiesen werden, sofern diese oder dieser schriftlich zugestimmt hat.
 
@@ -728,7 +730,7 @@ Das Gesuch muss insbesondere folgende Angaben enthalten:
 
 <sup>1</sup> Das Bewilligungsgesuch für das Inverkehrbringen gebietsfremder wirbelloser Kleintiere, das im Rahmen des massgeblichen Bewilligungsverfahrens nach Artikel 26 einzureichen ist, muss alle erforderlichen Angaben enthalten, die belegen, dass durch den Umgang mit den Organismen die Anforderungen nach den Artikeln 15 und 16 nicht verletzt werden können.
 
-<sup>2</sup> g.[^30-1] für Organismen, die genutzte genetische Ressourcen sind oder deren Entwicklung auf genutzten genetischen Ressourcen oder auf sich darauf beziehendem traditionellem Wissen basiert, die Registernummer gemäss Artikel 4 Absatz 3 oder 8 Absatz 5 der Nagoya-Verordnung vom 11. Dezember 2015[^30-2].
+<sup>2</sup>
 
 Das Gesuch muss insbesondere folgende Angaben enthalten:
 
@@ -740,6 +742,7 @@ Das Gesuch muss insbesondere folgende Angaben enthalten:
 - 1\. Art, Spezifität, Empfindlichkeit und Verlässlichkeit der Methoden,
 - 2\. Dauer und Häufigkeit der Überwachung;
 - f. einen Vorschlag für die Information der Abnehmerinnen und Abnehmer (Art. 5) sowie für die allfällige Verpackung der Organismen;
+- g.[^30-1] für Organismen, die genutzte genetische Ressourcen sind oder deren Entwicklung auf genutzten genetischen Ressourcen oder auf sich darauf beziehendem traditionellem Wissen basiert, die Registernummer gemäss Artikel 4 Absatz 3 oder 8 Absatz 5 der Nagoya-Verordnung vom 11. Dezember 2015[^30-2].
 
 <sup>3</sup> In der Dokumentation der Ergebnisse früherer Untersuchungen nach Absatz 2 Buchstabe b kann auf Daten oder Ergebnisse einer anderen Gesuchstellerin oder eines anderen Gesuchstellers verwiesen werden, sofern diese oder dieser schriftlich zugestimmt hat.
 
@@ -960,7 +963,7 @@ Die nach Artikel 26 zuständige Bewilligungsbehörde prüft das Gesuch. Sie unte
 
 **Erteilung der Bewilligung**
 
-<sup>1</sup> e.[^44-1] für Organismen, die genutzte genetische Ressourcen sind oder deren Entwicklung auf genutzten genetischen Ressourcen oder auf sich darauf beziehendem traditionellem Wissen basiert, die Meldepflicht gemäss Artikel 4 oder 8 Absatz 3 der Nagoya-Verordnung vom 11. Dezember 2015[^44-2] eingehalten worden ist.
+<sup>1</sup>
 
 Die Bewilligungsbehörde bewilligt das Inverkehrbringen unter Berücksichtigung der eingegangenen Stellungnahmen der Parteien und der Fachstellen, wenn die Beurteilung des Gesuchs ergibt, dass:
 
@@ -974,6 +977,7 @@ Die Bewilligungsbehörde bewilligt das Inverkehrbringen unter Berücksichtigung 
   - 2\. die Beurteilung des Gesuchs, insbesondere aufgrund der Interessenabwägung nach Artikel 8 GTG, ergibt, dass die Würde der Kreatur bei den verwendeten Tieren oder Pflanzen durch die gentechnische Veränderung nicht missachtet worden ist;
 
 - d. das Inverkehrbringen nach den vom BAG und vom BAFU sowie gegebenenfalls nach den vom BLV und vom BLW zu vollziehenden Gesetzen zulässig ist und diese Ämter deshalb dem Inverkehrbringen zustimmen;
+- e.[^44-1] für Organismen, die genutzte genetische Ressourcen sind oder deren Entwicklung auf genutzten genetischen Ressourcen oder auf sich darauf beziehendem traditionellem Wissen basiert, die Meldepflicht gemäss Artikel 4 oder 8 Absatz 3 der Nagoya-Verordnung vom 11. Dezember 2015[^44-2] eingehalten worden ist.
 
 <sup>2</sup>
 

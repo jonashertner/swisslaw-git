@@ -4,11 +4,11 @@ title: "Ordinanza del 10 settembre 2008 sull'utilizzazione di organismi nell'amb
 short: OEDA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/614"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2008-09-10
 in_force: 2008-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/614/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2008-614-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/614/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-614-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20200101/it"
 
 (Ordinanza sull’emissione deliberata nell’ambiente, OEDA)
 
-del 10 settembre 2008 (Stato 1° gennaio 2020)
+del 10 settembre 2008 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -68,13 +68,13 @@ La presente ordinanza non si applica all’utilizzazione di organismi:
 - c.[^2-8] stabiliti come organismi da quarantena potenziali nell’ordinanza emanata dall’Ufficio federale dell’agricoltura (UFAG) o dall’Ufficio federale dell’ambiente (UFAM) in virtù dell’articolo 5 capoverso 2 dell’ordinanza sulla salute dei vegetali.
 
 [^2-1]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
-[^2-2]: Nuovo testo giusta il n. 10 dell’all. 5 all’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^2-2]: Nuovo testo giusta l’all. 5 n. 10 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 [^2-3]: [RS 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
 [^2-4]: [[[RU 2005 3035](http://intranet.admin.ch/ch/i/as/2005/3035.pdf)](https://fedlex.data.admin.ch/eli/oc/2005/481)[4097](https://fedlex.data.admin.ch/eli/oc/2005/541)[5211](https://fedlex.data.admin.ch/eli/oc/2005/719), [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)n. III [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 54 [1843](https://fedlex.data.admin.ch/eli/oc/2007/268)[4541](https://fedlex.data.admin.ch/eli/oc/2007/641)[6291](https://fedlex.data.admin.ch/eli/oc/2007/834), [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 11 [5271](https://fedlex.data.admin.ch/eli/oc/2008/742), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)all. n. 3 [2845](https://fedlex.data.admin.ch/eli/oc/2009/373), [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278). [RU 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)art. 84]. Vedi ora l’O del 12 mag. 2010 ([RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
 [^2-5]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^2-6]: Nuovo testo giusta il n. 3 dell’all. 8 all’O del 31 ott. 2018 sulla salute dei vegetali, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^2-6]: Nuovo testo giusta l’all. 8 n. 3 dell’O del 31 ott. 2018 sulla salute dei vegetali, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 [^2-7]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
-[^2-8]: Introdotta dal n. 3 dell’all. 8 all’O del 31 ott. 2018 sulla salute dei vegetali, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^2-8]: Introdotta dall’all. 8 n. 3 dell’O del 31 ott. 2018 sulla salute dei vegetali, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 
 #### Art. 3
 
@@ -104,10 +104,10 @@ Ai sensi della presente ordinanza si intende per:
 
 <sup>2</sup> Non è considerata messa in commercio la fornitura di organismi ai fini dell’attuazione di emissioni sperimentali.
 
-[^3-1]: Nuovo testo giusta il n. 10 dell’all. 5 all’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
-[^3-2]: Nuovo testo giusta il n. 10 dell’all. 5 all’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
-[^3-3]: Nuovo testo giusta il n. 10 dell’all. 5 all’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
-[^3-4]: Abrogata dal n. 10 dell’all. 5 all’O del 9 mag. 2012 sull’impiego confinato, con effetto dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^3-1]: Nuovo testo giusta l’all. 5 n. 10 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^3-2]: Nuovo testo giusta l’all. 5 n. 10 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^3-3]: Nuovo testo giusta l’all. 5 n. 10 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^3-4]: Abrogata dall’all. 5 n. 10 dell’O del 9 mag. 2012 sull’impiego confinato, con effetto dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 
 ## Capitolo 2: Esigenze relative all’utilizzazione di organismi nell’ambiente
 
@@ -181,7 +181,7 @@ Gli organismi geneticamente modificati non possono essere utilizzati direttament
 - b. contengono geni di resistenza agli antibiotici inseriti mediante tecniche di ingegneria genetica e la cui utilizzazione è autorizzata nella medicina umana e veterinaria;
 - c. gli organismi riceventi impiegati per la modificazione genetica sono invasivi.
 
-[^7-1]: Nuovo testo giusta il n. 10 dell’all. 5 all’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^7-1]: Nuovo testo giusta l’all. 5 n. 10 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 [^7-2]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
 
 #### Art. 8
@@ -201,7 +201,7 @@ Sono considerati spazi vitali e paesaggi particolarmente sensibili o degni di pr
 - e. le zone protette secondo l’articolo 11 della legge del 20 giugno 1986[^8-2] sulla caccia;
 - f. le zone in cui il paesaggio è protetto in base al diritto federale o cantonale.
 
-[^8-1]: Nuovo testo giusta il n. 3 dell’all. all’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
+[^8-1]: Nuovo testo giusta l’all. n. 3 dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 [^8-2]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
 
 #### Art. 9
@@ -304,8 +304,8 @@ Sono esentati dall’obbligo di fornire garanzie:
 
 <sup>7</sup> La sospensione e la cessazione della garanzia, se quest’ultima non è stata previamente sostituita con un’altra garanzia, diventano effettive soltanto 60 giorni dopo il ricevimento della notifica da parte dell’autorità esecutiva competente.[^11-2]
 
-[^11-1]: Introdotto dal n. 10 dell’all. 5 all’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
-[^11-2]: Introdotto dal n. 10 dell’all. 5 all’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^11-1]: Introdotto dall’all. 5 n. 10 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^11-2]: Introdotto dall’all. 5 n. 10 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 
 ### Sezione 3: Esigenze relative all’utilizzazione di organismi patogeni
 
@@ -375,8 +375,8 @@ Sono esentati dall’obbligo di fornire garanzie:
 
 <sup>7</sup> La sospensione e la cessazione della garanzia, se quest’ultima non è stata previamente sostituita con un’altra garanzia, diventano effettive soltanto 60 giorni dopo il ricevimento della notifica da parte dell’autorità esecutiva competente.[^14-2]
 
-[^14-1]: Introdotto dal n. 10 dell’all. 5 all’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
-[^14-2]: Introdotto dal n. 10 dell’all. 5 all’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^14-1]: Introdotto dall’all. 5 n. 10 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^14-2]: Introdotto dall’all. 5 n. 10 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 
 ### Sezione 4: Esigenze relative all’utilizzazione di organismi alloctoni
 
@@ -401,9 +401,9 @@ L’utilizzazione nell’ambiente di organismi alloctoni deve avvenire in modo t
 
 <sup>4</sup> Sono fatte salve le disposizioni della legislazione sulle foreste, sulla caccia e sulla pesca.[^15-3]
 
-[^15-1]: Nuovo testo giusta il n. 3 dell’all. 8 all’O del 31 ott. 2018 sulla salute dei vegetali, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^15-2]: Nuovo testo giusta il n. 12 dell’all. 6 all’O del 4 dic. 2015 sui rifiuti, in vigore dal 1° gen. 2016 ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
-[^15-3]: Nuovo testo giusta il n. 10 dell’all. 5 all’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^15-1]: Nuovo testo giusta l’all. 8 n. 3 dell’O del 31 ott. 2018 sulla salute dei vegetali, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^15-2]: Nuovo testo giusta l’all. 6 n. 12 dell’O del 4 dic. 2015 sui rifiuti, in vigore dal 1° gen. 2016 ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
+[^15-3]: Nuovo testo giusta l’all. 5 n. 10 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 
 #### Art. 16
 
@@ -427,7 +427,7 @@ Necessita di un’autorizzazione dell’UFAM chi intende immettere nell’ambien
 - b. organismi patogeni;
 - c. piccoli invertebrati alloctoni destinati a un’utilizzazione diretta nell’ambiente e non come animali da compagnia.
 
-[^17-1]: Nuovo testo giusta il n. 10 dell’all. 5 all’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^17-1]: Nuovo testo giusta l’all. 5 n. 10 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 
 #### Art. 18
 
@@ -632,7 +632,7 @@ Necessita di un’autorizzazione chi intende mettere in commercio per la prima v
 - b. organismi patogeni;
 - c. piccoli invertebrati alloctoni destinati a un’utilizzazione diretta nell’ambiente e non come animali da compagnia.
 
-[^25-1]: Nuovo testo giusta il n. 10 dell’all. 5 all’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^25-1]: Nuovo testo giusta l’all. 5 n. 10 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 
 #### Art. 26
 
@@ -646,25 +646,26 @@ A seconda del prodotto, l’autorizzazione di cui all’articolo 25 è rilasciat
 <tr><td>b. Derrate alimentari, additivi e materie ausiliarie per la lavorazione</td><td>Ufficio federale della sicurezza alimentare e di veterinaria (USAV)[^26-2]</td><td>ordinanza del 23 novembre 2005[^26-3] sulle derrate alimentari e gli oggetti d’uso</td></tr>
 <tr><td>c. Materiale vegetale di moltiplicazione destinato a un impiego esclusivamente forestale</td><td>UFAM</td><td>ordinanza del 10 settembre 2008 sull’emissione deliberata nell’ambiente</td></tr>
 <tr><td>d.[^26-4] Materiale vegetale di moltiplicazione destinato a tutti gli altri impieghi</td><td>UFAG</td><td>ordinanza del 7 dicembre 1998[^26-5] sul materiale di moltiplicazione</td></tr>
-<tr><td>e. Prodotti fitosanitari</td><td>UFAG</td><td>ordinanza del 18 maggio 2005[^26-6] sui prodotti fitosanitari</td></tr>
-<tr><td>f. Concimi</td><td>UFAG</td><td>ordinanza del 10 gennaio 2001[^26-7] sui concimi</td></tr>
-<tr><td>g. Alimenti per animali</td><td>UFAG</td><td>ordinanza del 26 maggio 1999[^26-8] sugli alimenti per animali</td></tr>
+<tr><td>e.[^26-6] Prodotti fitosanitari</td><td>USAV</td><td>ordinanza del 12 maggio 2010[^26-7] sui prodotti fitosanitari</td></tr>
+<tr><td>f. Concimi</td><td>UFAG</td><td>ordinanza del 10 gennaio 2001[^26-8] sui concimi</td></tr>
+<tr><td>g. Alimenti per animali</td><td>UFAG</td><td>ordinanza del 26 maggio 1999[^26-9] sugli alimenti per animali</td></tr>
 <tr><td>h. Medicamenti immunologici per uso veterinario</td><td>USAV</td><td>ordinanza del 21 settembre 2018 sui medicamenti</td></tr>
-<tr><td>i.[^26-9] ...</td><td></td><td></td></tr>
-<tr><td>j. Biocidi</td><td>UFSP</td><td>ordinanza del 18 maggio 2005[^26-10] sui biocidi</td></tr>
+<tr><td>i.[^26-10] ...</td><td></td><td></td></tr>
+<tr><td>j. Biocidi</td><td>UFSP</td><td>ordinanza del 18 maggio 2005[^26-11] sui biocidi</td></tr>
 <tr><td>k. Tutti gli altri prodotti</td><td>UFAM</td><td>ordinanza del 10 settembre 2008 sull’emissione deliberata nell’ambiente</td></tr>
 </table>
 
-[^26-1]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sul-le pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) con effetto dal 1° gen. 2019. t Di detto adeguamento è tenuto conto in tutto il presente testo.
+[^26-1]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sul-le pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) con effetto dal 1° gen. 2019. Di detto adeguamento è tenuto conto in tutto il presente testo.
 [^26-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
 [^26-3]: [[RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746), [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 47, [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 8 [5167](https://fedlex.data.admin.ch/eli/oc/2008/722)[6025](https://fedlex.data.admin.ch/eli/oc/2008/833), [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233), [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668), [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)art. 37 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)all. 2 n. II 3, [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572)[6809](https://fedlex.data.admin.ch/eli/oc/2012/824), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 7 [3669](https://fedlex.data.admin.ch/eli/oc/2013/684), [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 4 [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)all. 11 n. 3, [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 2, [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 5. [RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)art. 94 ]. Vedi ora l’O del 16 dic. 2016 ([RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)).
-[^26-4]: Nuovo testo giusta il n. 3 dell’all. 8 all’O del 31 ott. 2018 sulla salute dei vegetali, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^26-4]: Nuovo testo giusta l’all. 8 n. 3 dell’O del 31 ott. 2018 sulla salute dei vegetali, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 [^26-5]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^26-6]: [[[RU 2005 3035](http://intranet.admin.ch/ch/i/as/2005/3035.pdf)](https://fedlex.data.admin.ch/eli/oc/2005/481)[4097](https://fedlex.data.admin.ch/eli/oc/2005/541)[5211](https://fedlex.data.admin.ch/eli/oc/2005/719), [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)n. III [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 54 [1843](https://fedlex.data.admin.ch/eli/oc/2007/268)[4541](https://fedlex.data.admin.ch/eli/oc/2007/641)[6291](https://fedlex.data.admin.ch/eli/oc/2007/834), [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 11 [5271](https://fedlex.data.admin.ch/eli/oc/2008/742), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)all. n. 3 [2845](https://fedlex.data.admin.ch/eli/oc/2009/373), [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278). [RU 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)art. 84]. Vedi ora l’O del 12 mag. 2010 ([RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
-[^26-7]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^26-8]: [[[RU 1999 1780](http://intranet.admin.ch/ch/i/as/1999/1780.pdf)](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)all. 5 n. 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II [19](https://fedlex.data.admin.ch/eli/oc/2005/7)[5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [RU 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)art. 77]. Vedi ora l’O del 26 ott. 2011 ([RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
-[^26-9]: Abrogata dal n. 3 dell’all. 8 all’O del 31 ott. 2018 sulla salute dei vegetali, con effetto dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^26-10]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^26-6]: Nuovo testo giusta l’all. n. 2 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^26-7]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^26-8]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^26-9]: [[[RU 1999 1780](http://intranet.admin.ch/ch/i/as/1999/1780.pdf)](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)all. 5 n. 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II [19](https://fedlex.data.admin.ch/eli/oc/2005/7)[5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [RU 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)art. 77]. Vedi ora l’O del 26 ott. 2011 ([RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
+[^26-10]: Abrogata dall’all. 8 n. 3 dell’O del 31 ott. 2018 sulla salute dei vegetali, con effetto dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^26-11]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
 
 #### Art. 27
 
@@ -709,7 +710,7 @@ La domanda deve comprendere in particolare i seguenti dati:
 <sup>3</sup> Nella documentazione relativa ai risultati di ricerche precedenti secondo il capoverso 2 lettera b è possibile fare riferimento a dati o a risultati di un altro richiedente, sempre che quest’ultimo abbia dato il proprio consenso scritto.
 
 [^28-1]: GU L 106 del 17 apr. 2001, pag. 1; il testo della direttiva è ottenibile presso l’UFAM, 3003 Berna.
-[^28-2]: Introdotta dal n. 4 dell’all. all’O di Nagoya dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
+[^28-2]: Introdotta dall’all. n. 4 dell’O di Nagoya dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
 [^28-3]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
 
 #### Art. 29
@@ -739,7 +740,7 @@ La domanda deve in particolare comprendere i seguenti dati:
 
 <sup>3</sup> Nella documentazione relativa ai risultati di esperimenti precedenti secondo il capoverso 2 lettera b è possibile fare riferimento a dati o a risultati di un altro richiedente, sempre che quest’ultimo abbia dato il proprio consenso scritto.
 
-[^29-1]: Introdotta dal n. 4 dell’all. all’O di Nagoya dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
+[^29-1]: Introdotta dall’all. n. 4 dell’O di Nagoya dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
 [^29-2]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
 
 #### Art. 30
@@ -768,7 +769,7 @@ La domanda deve in particolare comprendere i seguenti dati:
 
 <sup>3</sup> Nella documentazione relativa ai risultati di ricerche precedenti secondo il capoverso 2 lettera b è possibile fare riferimento a dati o a risultati di un altro richiedente, sempre che quest’ultimo abbia dato il proprio consenso scritto.
 
-[^30-1]: Introdotta dal n. 4 dell’all. all’O di Nagoya dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
+[^30-1]: Introdotta dall’all. n. 4 dell’O di Nagoya dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
 [^30-2]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
 
 #### Art. 31
@@ -1010,7 +1011,7 @@ L’autorità competente per il rilascio dell’autorizzazione può vincolare l�
 
 <sup>3</sup> L’autorizzazione è limitata a dieci anni al massimo. Di volta in volta, viene prorogata al massimo di dieci anni se l’autorità competente e i servizi specializzati, tenuto conto di eventuali nuove conoscenze, giungono alla conclusione che le esigenze di cui al capoverso 1 sono ancora soddisfatte.
 
-[^44-1]: Introdotta dal n. 4 dell’all. all’O di Nagoya dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
+[^44-1]: Introdotta dall’all. n. 4 dell’O di Nagoya dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
 [^44-2]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
 
 #### Art. 45
@@ -1080,7 +1081,7 @@ Il controllo successivo (sorveglianza del mercato) è effettuato:
 [^47-6]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
 [^47-7]: [[[RU 1999 1780](http://intranet.admin.ch/ch/i/as/1999/1780.pdf)](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)all. 5 n. 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II [19](https://fedlex.data.admin.ch/eli/oc/2005/7)[5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [RU 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)art. 77]. Vedi ora l’O del 26 ott. 2011 ([RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
 [^47-8]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^47-9]: Abrogata dal n. 3 dell’all. 8 all’O del 31 ott. 2018 sulla salute dei vegetali, con effetto dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^47-9]: Abrogata dall’all. 8 n. 3 dell’O del 31 ott. 2018 sulla salute dei vegetali, con effetto dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 [^47-10]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
 
 #### Art. 48
@@ -1154,7 +1155,7 @@ Se l’analisi dei dati e delle osservazioni indica la presenza di danni o pregi
 [^51-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 [^51-3]: [RS 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
 [^51-4]: [RS 919.118](https://fedlex.data.admin.ch/eli/cc/1999/58)
-[^51-5]: Nuovo testo giusta il n. 3 dell’all. 8 all’O del 31 ott. 2018 sulla salute dei vegetali, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^51-5]: Nuovo testo giusta l’all. 8 n. 3 dell’O del 31 ott. 2018 sulla salute dei vegetali, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 
 #### Art. 52
 

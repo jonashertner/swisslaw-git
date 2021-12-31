@@ -4,11 +4,11 @@ title: "Ordonnance du 10 septembre 2008 sur l'utilisation d'organismes dans l'en
 short: ODE
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/614"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2008-09-10
 in_force: 2008-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/614/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-614-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/614/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-614-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20200101/fr"
 
 (Ordonnance sur la dissémination dans l’environnement, ODE)
 
-du 10 septembre 2008 (Etat le 1<sup>er</sup> janvier 2020)
+du 10 septembre 2008 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -647,12 +647,12 @@ L’autorisation au sens de l’art. 25 est délivrée par l’un des services f
 <tr><td>b. denrées alimentaires, additifs et auxiliaires technologiques</td><td>Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV)[^26-2]</td><td>ordonnance du 23 novembre 2005 sur les denrées alimentaires et les objets usuels[^26-3]</td></tr>
 <tr><td>c. matériel végétal de multiplication pour emplois sylvicoles uniquement</td><td>OFEV</td><td>ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement[^26-4]</td></tr>
 <tr><td>d.[^26-5] matériel végétal de multiplication pour tout autre emploi</td><td>OFAG</td><td>ordonnance du 7 décembre 1998 sur le matériel de multiplication[^26-6]</td></tr>
-<tr><td>e. produits phytosanitaires</td><td>OFAG</td><td>ordonnance du 18 mai 2005 sur les produits phytosanitaires[^26-7]</td></tr>
-<tr><td>f. engrais</td><td>OFAG</td><td>ordonnance du 10 janvier 2001 sur les engrais[^26-8]</td></tr>
-<tr><td>g. aliments pour animaux</td><td>OFAG</td><td>ordonnance du 26 mai 1999 sur les aliments pour animaux[^26-9]</td></tr>
+<tr><td>e.[^26-7] produits phytosanitaires</td><td>OSAV</td><td>ordonnance du 12 mai 2010 sur les produits phytosanitaires[^26-8]</td></tr>
+<tr><td>f. engrais</td><td>OFAG</td><td>ordonnance du 10 janvier 2001 sur les engrais[^26-9]</td></tr>
+<tr><td>g. aliments pour animaux</td><td>OFAG</td><td>ordonnance du 26 mai 1999 sur les aliments pour animaux[^26-10]</td></tr>
 <tr><td>h. médicaments immunologiques à usage vétérinaire</td><td>OSAV</td><td>ordonnance du 21 septembre 2018 sur les médicaments</td></tr>
-<tr><td>i.[^26-10] *…*</td><td></td><td></td></tr>
-<tr><td>j. produits biocides [tab]</td><td>OFSP</td><td>ordonnance du 18 mai 2005 sur les produits biocides[^26-11]</td></tr>
+<tr><td>i.[^26-11] *…*</td><td></td><td></td></tr>
+<tr><td>j. produits biocides [tab]</td><td>OFSP</td><td>ordonnance du 18 mai 2005 sur les produits biocides[^26-12]</td></tr>
 <tr><td>k. autres produits</td><td>OFEV</td><td>ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement</td></tr>
 </table>
 
@@ -662,11 +662,12 @@ L’autorisation au sens de l’art. 25 est délivrée par l’un des services f
 [^26-4]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 [^26-5]: Nouvelle teneur selon l’annexe 8 ch. 3 de l’O du 31 oct. 2018 sur la santé des végétaux, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 [^26-6]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^26-7]: **[**[RO 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481)[4097](https://fedlex.data.admin.ch/eli/oc/2005/541)[4479](https://fedlex.data.admin.ch/eli/oc/2005/579)[5211](https://fedlex.data.admin.ch/eli/oc/2005/719), [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)ch. III [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 54 [4541](https://fedlex.data.admin.ch/eli/oc/2007/641)[6291](https://fedlex.data.admin.ch/eli/oc/2007/834), [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 11 [5271](https://fedlex.data.admin.ch/eli/oc/2008/742), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)annexe ch. 3 [2845](https://fedlex.data.admin.ch/eli/oc/2009/373). [RO 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)art. 84]. Voir actuellement l’O du 12 mai 2010 ([RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
-[^26-8]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^26-9]: **[**[RO 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)annexe 5 ch. 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)ch. II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)ch. II 19, [5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [RO 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)art. 77]. Voir actuellement l’O du 26 oct. 2011 ([RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
-[^26-10]: Abrogée par l’annexe 8 ch. 3 de l’O du 31 oct. 2018 sur la santé des végétaux, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^26-11]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^26-7]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^26-8]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^26-9]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^26-10]: **[**[RO 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)annexe 5 ch. 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)ch. II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)ch. II 19, [5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [RO 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)art. 77]. Voir actuellement l’O du 26 oct. 2011 ([RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
+[^26-11]: Abrogée par l’annexe 8 ch. 3 de l’O du 31 oct. 2018 sur la santé des végétaux, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^26-12]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
 
 #### Art. 27
 
