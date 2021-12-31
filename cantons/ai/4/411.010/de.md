@@ -4,59 +4,51 @@ number: "411.010"
 title: Schulverordnung
 short: SchV
 language: de
-version: 2017-10-23
-corrected: 2018-12-12
-version_adopted: 2017-10-23
+version: 2022-01-01
+valid_until: 2022-07-31
+version_adopted: 2021-10-25
 adopted: 2004-06-21
 in_force: 2004-08-01
 url: "https://ai.clex.ch/app/de/texts_of_law/411.010"
-pdf: "https://ai.clex.ch/api/de/versions/349/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/1992/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Schulverordnung (SchV)
+# Schulverordnung
 
-vom 21. Juni 20041
+(SchV)
+
+vom 21.06.2004 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Appenzell I.Rh.,
 
-gestützt auf Art. 71 des Schulgesetzes vom 25. April 2004 (SchG),2
+gestützt auf Art. 71 des Schulgesetzes vom 25. April 2004 (SchG),
 
 beschliesst:
 
-### I. Öffentliche Schulen
+## I. Öffentliche Schulen
 
-#### Art. 13
+#### Art. 1
 
 **Schulgemeinden**
 
 <sup>1</sup> Es bestehen folgende Schulgemeinden, deren Gebiete im Grossratsbeschluss über Grenzbeschriebe der Schulgemeinden des Kantons Appenzell I.Rh. umschrieben sind:
 
-- Appenzell
-
-- Brülisau
-
-- Eggerstanden
-
-- Gonten
-
-- Haslen
-
-- Meistersrüte
-
-- Oberegg
-
-- Schlatt
-
-- Schwende
-
-- Steinegg
+- a) Appenzell
+- b) Brülisau
+- c) Eggerstanden
+- d) Gonten
+- e)
+- f) Meistersrüte
+- g) Oberegg
+- h) Schlatt-Haslen
+- i) Schwende
+- j) Steinegg
 
 <sup>2</sup> Hat ein Bezirk eine Schulgemeinde nach Abs. 1 aufgenommen, übernimmt er die Stellung der Schulgemeinde und löst diese als Körperschaft ab.
 
-#### Art. 24
+#### Art. 2
 
 **Kostenbeteiligung**
 
@@ -64,69 +56,70 @@ beschliesst:
 
 <sup>2</sup> Die massgebenden Kosten setzen sich zusammen aus den Betriebskosten- und den Mietanteilen und werden für die Vorschulklassen, die Einführungsklassen, die Kleinklassen, die Realschule und die Sekundarschule separat ermittelt.
 
-<sup>3</sup> Die Schulgemeinden werden nur für jene Klassen kostenpflichtig, in welche sie Schüler\* entsandt haben. Ihre Kostenpflicht entspricht dem Anteil ihrer Schüler an der Gesamtheit der Schüler der entsprechenden Klassen.
+<sup>3</sup> Die Schulgemeinden werden nur für jene Klassen kostenpflichtig, in welche sie Schüler[^2-1] entsandt haben. Ihre Kostenpflicht entspricht dem Anteil ihrer Schüler an der Gesamtheit der Schüler der entsprechenden Klassen.
+
+<sup>4</sup> …
+
+[^2-1]: Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
 
 #### Art. 3
 
-Fakultative zehn- <sup>1</sup>Der Kanton sorgt für den freien Zugang der Schüler zu fakultativen zehnten Klaste Klassen sen im Sinne von Art. 11 SchG.
+**Fakultative zehnte Klassen**
+
+<sup>1</sup> Der Kanton sorgt für den freien Zugang der Schüler zu fakultativen zehnten Klassen im Sinne von Art. 11 SchG.
 
 <sup>2</sup> Zu diesem Zwecke kann der Kanton mit ausserkantonalen Institutionen sachdienliche Vereinbarungen abschliessen; er übernimmt ganz oder teilweise die von den Inhabern der elterlichen Sorge zu tragenden Schulgelder. Die Standeskommission regelt die Kostenbeteiligung des Kantons.
 
-### II. Rechtsstellung der Schüler
+## II. Rechtsstellung der Schüler
 
-#### Art. 41
+#### Art. 4
 
-Kindergarten- Kinder, die vor dem 1. April das 5. Altersjahr zurückgelegt haben, werden auf Be- und Schuleintritt, ginn des nächsten Schuljahres kindergartenpflichtig und im darauf folgenden Jahr Stichtag schulpflichtig.
+**Kindergarten- und Schuleintritt, Stichtag**
+
+<sup>1</sup> Kinder, die vor dem 1. April das 5. Altersjahr zurückgelegt haben, werden auf Beginn des nächsten Schuljahres kindergartenpflichtig und im darauf folgenden Jahr schulpflichtig.
 
 #### Art. 5
 
-Kindergarten- <sup>1</sup>Der Schulrat kann kindergarten- oder schulpflichtige Kinder mit mangelnder Kin- und Schuleintritt, dergarten- oder Schulreife oder gesundheitlichen Störungen auf Antrag der Eltern Ausnahmen zurückstellen. Die Eltern lassen sich durch die Lehrkräfte beraten. Eltern und Lehrkräfte können die Schuldienste beiziehen.
+**Kindergarten- und Schuleintritt, Ausnahmen**
+
+<sup>1</sup> Der Schulrat kann kindergarten- oder schulpflichtige Kinder mit mangelnder Kindergarten- oder Schulreife oder gesundheitlichen Störungen auf Antrag der Eltern zurückstellen. Die Eltern lassen sich durch die Lehrkräfte beraten. Eltern und Lehrkräfte können die Schuldienste beiziehen.
 
 <sup>2</sup> Im ersten Semester des ersten Kindergarten-, bzw. Schuljahres kann die Rückstellung auch durch die Lehrkraft beantragt werden.
 
 <sup>3</sup> Der Schulrat kann Kinder, die das 6. Altersjahr im Laufe des Kalenderjahres nach dem Stichtag vollenden, auf Gesuch der Eltern in die erste Primarklasse aufnehmen, sofern die Schulreife glaubhaft gemacht wird.
 
-#### Art. 61
+#### Art. 6
 
 **Disziplinarmassnahmen der Lehrkräfte**
 
 <sup>1</sup> Die Lehrkraft kann als Disziplinarmassnahmen verfügen:
 
 - a) zusätzliche Hausaufgaben oder Arbeit in der Schule ausserhalb der Unterrichtszeit;
-
 - b) Wegweisen aus der Lektion oder aus einer anderen schulischen Veranstaltung;
-
 - c) schriftliche Beanstandung an die Eltern mit Kopie an den Schulrat. Die Beanstandung kann im Zeugnis angemerkt werden.
-
 - d) Ausschluss von einer anderen schulischen Veranstaltung, die nicht länger als einen Tag dauert;
-
 - e) Ausschluss vom Unterricht für den laufenden Tag;
-
 - f) mit Zustimmung des Präsidenten des Schulrates Ausschluss vom Unterricht bis drei Tage, längstens bis zum Wochenende.
 
-<sup>2</sup> Ergreift die Lehrkraft eine Disziplinarmassnahme nach Abs. 1 lit. d - f dieses Artikels, erstattet sie dem Schulrat und den Eltern schriftlich Meldung.
+<sup>2</sup> Ergreift die Lehrkraft eine Disziplinarmassnahme nach Abs. 1 lit. d–f dieses Artikels, erstattet sie dem Schulrat und den Eltern schriftlich Meldung.
 
-<sup>3</sup> Ein Ausschluss nach Abs. 1 lit. d - f dieses Artikels ist durch sinnvolle Beschäftigungsmassnahmen zu begleiten.
+<sup>3</sup> Ein Ausschluss nach Abs. 1 lit. d–f dieses Artikels ist durch sinnvolle Beschäftigungsmassnahmen zu begleiten.
 
-#### Art. 72
+#### Art. 7
 
 **Disziplinarmassnahmen des Schulrates**
 
 <sup>1</sup> Der Schulrat kann als Disziplinarmassnahmen verfügen:
 
 - a) schriftliche Beanstandung an die Eltern auf Antrag des Lehrers. Er kann anordnen, dass die Beanstandung im Zeugnis angemerkt wird;
-
 - b) Ausschluss von einer mehrtägigen schulischen Veranstaltung;
-
 - c) Ausschluss vom Unterricht bis drei Wochen;
-
 - d) Androhung des Ausschlusses von der Schule;
-
 - e) Ausschluss von der Schule mit Benachrichtigung der Kindes- und Erwachsenenschutzbehörde.
 
 <sup>2</sup> Er muss einen Ausschluss gemäss Abs. 1 lit. b und c dieses Artikels mit sinnvollen Beschäftigungsmassnahmen begleiten.
 
-#### Art. 83
+#### Art. 8
 
 **Form der Eröffnung von Disziplinarmassnahmen**
 
@@ -136,23 +129,23 @@ Kindergarten- <sup>1</sup>Der Schulrat kann kindergarten- oder schulpflichtige K
 
 <sup>3</sup> Eine Disziplinarmassnahme nach Art. 6 Abs. 1 lit. f und Art. 7 dieser Verordnung wird den Eltern durch Verfügung eröffnet.
 
-### III. Rechtsstellung der Lehrkräfte
+## III. Rechtsstellung der Lehrkräfte
 
 #### Art. 9
 
-Lehrkräfte an <sup>1</sup>Für die Anstellung von Lehrkräften an Privatschulen gelten die gleichen Anstel-Privatschulen lungsvoraussetzungen wie für die Anstellung von Lehrern an öffentlichen Schulen. und Privatunter- Im Übrigen regeln die Privatschulen das Arbeitsverhältnis mit den Lehrkräften im richt Rahmen des Obligationenrechtes.
+**Lehrkräfte an Privatschulen und Privatunterricht**
+
+<sup>1</sup> Für die Anstellung von Lehrkräften an Privatschulen gelten die gleichen Anstellungsvoraussetzungen wie für die Anstellung von Lehrern an öffentlichen Schulen. Im Übrigen regeln die Privatschulen das Arbeitsverhältnis mit den Lehrkräften im Rahmen des Obligationenrechtes.
 
 <sup>2</sup> Wer Privatunterricht anstelle der öffentlichen Schulen erteilt, muss die Anstellungsvoraussetzungen von Art. 32 SchG erfüllen.
 
-#### Art. 101
+#### Art. 10
 
-Altersentlastung <sup>1</sup>Zur Abgeltung der dem Staatspersonal zustehenden zusätzlichen Ferienwoche ab dem 50. Altersjahr erhalten die Lehrer ab dem Semester, das dem vollendeten
+**Altersentlastung**
 
-- 57\. Altersjahr folgt, eine nicht lohnwirksame Altersentlastung.
+<sup>1</sup> Zur Abgeltung der dem Staatspersonal zustehenden zusätzlichen Ferienwoche ab dem 50. Altersjahr erhalten die Lehrer ab dem Semester, das dem vollendeten 57. Altersjahr folgt, eine nicht lohnwirksame Altersentlastung.
 
-<sup>2</sup> Die Altersentlastung umfasst bei einem Beschäftigungsgrad von 40% bis 69% eine
-
-Wochenlektion und von 70% bis 100% zwei Wochenlektionen.
+<sup>2</sup> Die Altersentlastung umfasst bei einem Beschäftigungsgrad von 40% bis 69% eine Wochenlektion und von 70% bis 100% zwei Wochenlektionen.
 
 <sup>3</sup> Bei einer Anstellung in mehreren Schulgemeinden im Kanton einigen sich diese untereinander über die Verteilung der Entlastung. Ergibt sich keine Einigung, entscheidet die Landesschulkommission.
 
@@ -160,11 +153,19 @@ Wochenlektion und von 70% bis 100% zwei Wochenlektionen.
 
 #### Art. 11
 
-Ferienanspruch Der Ferienanspruch der Lehrkräfte wird durch die Standeskommission festgelegt. der Lehrkräfte Art. 11a2 Besoldung <sup>1</sup>Die Schulrätekonferenz legt in der Regel auf den Beginn eines Schuljahres fest, ob und in welchem Umfang die Löhne der Teuerung und real angepasst werden.
+**Ferienanspruch der Lehrkräfte**
+
+<sup>1</sup> Der Ferienanspruch der Lehrkräfte wird durch die Standeskommission festgelegt.
+
+#### Art. 11a
+
+**Besoldung**
+
+<sup>1</sup> Die Schulrätekonferenz legt in der Regel auf den Beginn eines Schuljahres fest, ob und in welchem Umfang die Löhne der Teuerung und real angepasst werden.
 
 <sup>2</sup> Die Standeskommission regelt die Grundlagen der Besoldungen und die Einstufung.
 
-### IV. Schulbetrieb
+## IV. Schulbetrieb
 
 #### Art. 12
 
@@ -173,13 +174,9 @@ Ferienanspruch Der Ferienanspruch der Lehrkräfte wird durch die Standeskommissi
 <sup>1</sup> Die Schülerzahl einer Klasse beträgt auf Dauer:
 
 - a) im Kindergarten, in der Primarschule, in der Realschule sowie in der Sekundarschule mindestens 12 und höchstens 25 Schüler;
-
 - b) in Mehrklassenschulen mindestens 11 und höchstens 22 Schüler;
-
 - c) im Hauswirtschaftsunterricht höchstens 14 Schüler;
-
 - d) im Werkunterricht (textil/nichttextil) höchstens 14 Schüler;
-
 - e) in der Kleinklassenschule höchstens 14 Schüler.
 
 <sup>2</sup> Über Einzelheiten und Ausnahmen entscheidet die Landesschulkommission.
@@ -194,9 +191,9 @@ Ferienanspruch Der Ferienanspruch der Lehrkräfte wird durch die Standeskommissi
 
 <sup>3</sup> Für Schüler, die den ganzen Tag Unterricht haben und die Anspruch auf einen Transport hätten, kann die Schulgemeinde anstelle des Mittagstransportes eine Mittagsverpflegung anbieten, wenn dies kostengünstiger ist.
 
-### V. Subventionierung der baulichen Aufwendungen
+## V. Subventionierung der baulichen Aufwendungen
 
-#### Art. 141
+#### Art. 14
 
 **Beitragsberechtigte Baukosten**
 
@@ -206,19 +203,21 @@ Ferienanspruch Der Ferienanspruch der Lehrkräfte wird durch die Standeskommissi
 
 <sup>3</sup> Die für die Subventionierung zuständige Behörde legt den subventionsberechtigten Anteil wertvermehrender Umbauten oder nicht ausschliesslich schulischen Zwecken dienenden Neubauten und Anlagen fest.
 
-#### Art. 151
+#### Art. 15
 
-Zuständigkeit Zuständig für die Zusicherung des Kantonsbeitrages sind:
+**Zuständigkeit**
 
-- a) bis zu Fr. 125'000.— die Landesschulkommission;
+<sup>1</sup> Zuständig für die Zusicherung des Kantonsbeitrages sind:
 
-- b) über Fr. 125‘000.— bis zu Fr. 500‘000.— die Standeskommission;
+- a) bis zu Fr. 125'000.-- die Landesschulkommission;
+- b) über Fr. 125‘000 .-- bis zu Fr. 500‘000 .-- die Standeskommission;
+- c) über Fr. 500‘000 .-- der Grosse Rat.
 
-- c) über Fr. 500‘000.— der Grosse Rat.
+#### Art. 16
 
-#### Art. 162
+**Subventionsansätze**
 
-Subventionsan- <sup>1</sup>Grundlage für die Berechnung der Bausubvention ist die Steuerkraft pro Einwohner sätze der Schulgemeinde.
+<sup>1</sup> Grundlage für die Berechnung der Bausubvention ist die Steuerkraft pro Einwohner der Schulgemeinde.
 
 <sup>2</sup> Die Steuerkraft pro Einwohner im Sinne dieser Verordnung ergibt sich aus der Einkommens- und Vermögenssteuer für natürliche sowie der Gewinn- und Kapitalsteuer für juristische Personen (Steuer-Soll), umgerechnet auf 100 Steuerpunkte dividiert durch die Einwohnerzahl der Schulgemeinde. Für die Berechnung der Steuerkraft werden die Daten des um zwei Jahre zurückliegenden Steuerjahres verwendet. Der jeweilige Stichtag ist der 31. Dezember vor der Subventionsgutsprache. Massgebend für die Einwohnerzahl ist der 31. Dezember vor der Subventionsgutsprache.
 
@@ -228,17 +227,23 @@ Subventionsan- <sup>1</sup>Grundlage für die Berechnung der Bausubvention ist d
 
 #### Art. 17
 
-Beitragsgesuch <sup>1</sup>Die Beitragsgesuche sind mit ausführungsreifen Plänen, Kostenberechnungen und Baubeschrieb an das Erziehungsdepartement zu richten.
+**Beitragsgesuch**
+
+<sup>1</sup> Die Beitragsgesuche sind mit ausführungsreifen Plänen, Kostenberechnungen und Baubeschrieb an das Erziehungsdepartement zu richten.
 
 <sup>2</sup> Nachträgliche Projektänderungen, die nicht reine Detailsausführungen betreffen, sind der Subventionsbehörde zu melden. Bei Kostenüberschreitungen ist rechtzeitig eine neue Beitragszusicherung einzuholen.
 
 #### Art. 18
 
-Prüfung der Bei- Die Landesschulkommission prüft die Beitragsgesuche und leitet sie, sofern sie für tragsgesuche den Entscheid nicht zuständig ist, mit ihrem Antrag an die Standeskommission weiter.
+**Prüfung der Beitragsgesuche**
+
+<sup>1</sup> Die Landesschulkommission prüft die Beitragsgesuche und leitet sie, sofern sie für den Entscheid nicht zuständig ist, mit ihrem Antrag an die Standeskommission weiter.
 
 #### Art. 19
 
-Beitragszusiche- <sup>1</sup>Vor der Beitragszusicherung darf mit den Bauarbeiten nicht begonnen werden. Die rung Landesschulkommission kann den vorzeitigen Baubeginn bewilligen.
+**Beitragszusicherung**
+
+<sup>1</sup> Vor der Beitragszusicherung darf mit den Bauarbeiten nicht begonnen werden. Die Landesschulkommission kann den vorzeitigen Baubeginn bewilligen.
 
 <sup>2</sup> Verstreicht zwischen der Beitragszusicherung und dem Baubeginn mehr als ein Jahr, so kann die entsprechende Behörde auf ihren Beitragsbeschluss zurückkommen und ihn allfällig veränderten Verhältnissen anpassen.
 
@@ -254,26 +259,24 @@ Beitragszusiche- <sup>1</sup>Vor der Beitragszusicherung darf mit den Bauarbeite
 
 **Ausserkantonale Schulanlagen**
 
-Über Beiträge an ausserkantonale Schulanlagen im Sinne von Art. 61 SchG entscheiden auf Antrag der Landesschulkommission die Standeskommission bzw. der Grosse Rat. Die Schulgemeinden können zu angemessenen Beiträgen verpflichtet werden.
+<sup>1</sup> Über Beiträge an ausserkantonale Schulanlagen im Sinne von Art. 61 SchG entscheiden auf Antrag der Landesschulkommission die Standeskommission bzw. der Grosse Rat. Die Schulgemeinden können zu angemessenen Beiträgen verpflichtet werden.
 
-#### Art. 221
+#### Art. 22
 
-### VI. Übrige Beiträge
+**…**
 
-#### Art. 232
+## VI. Übrige Beiträge
+
+#### Art. 23
 
 **Ausweisen von Schulkosten**
 
 <sup>1</sup> Bestehen in einer Schulgemeinde nebst dem Kindergarten und der Primarschule noch andere Schultypen oder eine integrative Schulungsform, sind die Aufwände in der Rechnung getrennt auszuweisen für:
 
 - a) Vorschulklasse, Einführungsklasse und Kleinklasse;
-
 - b) Realschule;
-
 - c) Sekundarschule;
-
 - d) integrierte Oberstufe;
-
 - e) Zusatzleistungen für die integrative Schulungsform.
 
 <sup>2</sup> Hat ein Bezirk eine Schulgemeinde aufgenommen, sind die Aufwände und Erträge der Schule in der Rechnung getrennt auszuweisen.
@@ -288,32 +291,35 @@ Beitragszusiche- <sup>1</sup>Vor der Beitragszusicherung darf mit den Bauarbeite
 
 #### Art. 25
 
-Klassen- und Die Landesschulkommission kann Klassen- und Schülerbeiträge nach Art. 6 Abs. 2 Schülerbeiträge und 3 der Verordnung zum Finanzausgleichsgesetz vom 7. Oktober 2002 (FAV) streichen, wenn die Schulgemeinde auf Dauer (mehr als zwei Jahre) die Mindest-
+**Klassen- und Schülerbeiträge**
 
-klassengrösse nach Art. 12 dieser Verordnung unterschreitet.
+<sup>1</sup> Die Landesschulkommission kann Klassen- und Schülerbeiträge nach Art. 6 Abs. 2 und 3 der Verordnung zum Finanzausgleichsgesetz vom 7. Oktober 2002 (FAV) streichen, wenn die Schulgemeinde auf Dauer (mehr als zwei Jahre) die Mindestklassengrösse nach Art. 12 dieser Verordnung unterschreitet.
 
-#### Art. 261
+#### Art. 26
 
-Grundbeiträge <sup>1</sup>An die gesamten Kosten der Vorschul-, Einführungs- und Kleinklassen, der Real- und Sekundarschulen sowie der integrierten Oberstufe entrichtet der Kanton einen Grundbeitrag von 20%.
+**Grundbeiträge**
+
+<sup>1</sup> An die gesamten Kosten der Vorschul-, Einführungs- und Kleinklassen, der Real- und Sekundarschulen sowie der integrierten Oberstufe entrichtet der Kanton einen Grundbeitrag von 20%.
 
 <sup>2</sup> An die mit der integrativen Schulungsform entstehenden Zusatzkosten entrichtet der Kanton einen Grundbeitrag von 20%.
 
 #### Art. 27
 
-Ausserordentli- Die Standeskommission kann Schulgemeinden in ausserordentlichen Fällen zusätzche Beiträge liche Beiträge zu Lasten der Grundstückgewinnsteuer zusprechen. Diese können an Bedingungen (Rationalisierung usw.) geknüpft werden.
+**Ausserordentliche Beiträge**
 
-### VII. Behörden
+<sup>1</sup> Die Standeskommission kann Schulgemeinden in ausserordentlichen Fällen zusätzliche Beiträge zu Lasten der Grundstückgewinnsteuer zusprechen. Diese können an Bedingungen (Rationalisierung usw.) geknüpft werden.
 
-#### Art. 282
+## VII. Behörden
 
-Schulrat <sup>1</sup>Der Schulrat ist verpflichtet, nebst den in Gesetz und Verordnung genannten Meldungen, dem Erziehungsdepartement zuhanden der Landesschulkommission wie folgt Bericht zu erstatten:
+#### Art. 28
+
+**Schulrat**
+
+<sup>1</sup> Der Schulrat ist verpflichtet, nebst den in Gesetz und Verordnung genannten Meldungen, dem Erziehungsdepartement zuhanden der Landesschulkommission wie folgt Bericht zu erstatten:
 
 - a) innert zehn Tagen über die Beschlüsse und Wahlen der Schulgemeinde;
-
 - b) über die Jahresrechnung der Schulgemeinde bis 30. April;
-
 - c) über die Anstellung von Stellvertretern;
-
 - d) über die Verfügung von Disziplinarmassnahmen.
 
 <sup>2</sup> Der Schulrat sorgt dafür, dass die ihm unterstellten Schulklassen jährlich wenigstens einmal durch Mitglieder des Schulrates oder besonderer Kommissionen (Art. 66 Abs. 4 SchG) besucht werden.
@@ -322,7 +328,7 @@ Schulrat <sup>1</sup>Der Schulrat ist verpflichtet, nebst den in Gesetz und Vero
 
 <sup>4</sup> Der Schulrat kann vor Entscheidungen die Schuldienste beiziehen.
 
-Art. 28a1
+#### Art. 28a
 
 **Schulkommission**
 
@@ -332,42 +338,59 @@ Art. 28a1
 
 <sup>3</sup> Unter Berücksichtigung der Zuständigkeit anderer Organe können der Schulkommission in schulischen Belangen alle Führungskompetenzen übertragen werden, ausser dem Entscheid über die Durchführung einer Volksabstimmung, welcher dem Bezirksrat obliegt.
 
-### VIII. Schlussbestimmung
+## VIII. Schlussbestimmung
 
-#### Art. 292
+#### Art. 29
 
 **Inkrafttreten**
 
-Diese Verordnung tritt nach Annahme durch den Grossen Rat gleichzeitig mit dem Schulgesetz vom 25. April 2004 am 1. August 2004 in Kraft.
+<sup>1</sup> Diese Verordnung tritt nach Annahme durch den Grossen Rat gleichzeitig mit dem Schulgesetz vom 25. April 2004 am 1. August 2004 in Kraft.
 
-#### Art. 303
+#### Art. 30
 
-### Anhang zu Art. 16 Abs. 3
+## A1. Anhang zu Art. 16 Abs. 3
 
-### Errechneter Subventionssatz Kriteriensatz in Prozenten
+#### Art. A1-1
 
-150 0 146-149 1 142-145 2 138-141 3 134-137 4 130-133 5 128-129 6 126-127 7 124-125 8 122-123 9 120-121 10 118-119 11 116-117 12 114-115 13 112-113 14 110-111 15 109 16 108 17 107 18 106 19 105 20 104 21 103 23 102 25 101 27 100 29 99 31 98 34 97 37 96 40 95 43 94 46 93 48 92 49 ab 91 50
+<sup>1</sup>
 
-## Weitere Fussnoten
+<table>
+<tr><th>Errechneter Kriteriensatz</th><th>Subventionssatz in Prozenten</th></tr>
+<tr><td>150</td><td>0</td></tr>
+<tr><td>146-149</td><td>1</td></tr>
+<tr><td>142-145</td><td>2</td></tr>
+<tr><td>138-141</td><td>3</td></tr>
+<tr><td>134-137</td><td>4</td></tr>
+<tr><td>130-133</td><td>5</td></tr>
+<tr><td>128-129</td><td>6</td></tr>
+<tr><td>126-127</td><td>7</td></tr>
+<tr><td>124-125</td><td>8</td></tr>
+<tr><td>122-123</td><td>9</td></tr>
+<tr><td>120-121</td><td>10</td></tr>
+<tr><td>118-119</td><td>11</td></tr>
+<tr><td>116-117</td><td>12</td></tr>
+<tr><td>114-115</td><td>13</td></tr>
+<tr><td>112-113</td><td>14</td></tr>
+<tr><td>110-111</td><td>15</td></tr>
+<tr><td>109</td><td>16</td></tr>
+<tr><td>108</td><td>17</td></tr>
+<tr><td>107</td><td>18</td></tr>
+<tr><td>106</td><td>19</td></tr>
+<tr><td>105</td><td>20</td></tr>
+<tr><td>104</td><td>21</td></tr>
+<tr><td>103</td><td>23</td></tr>
+<tr><td>102</td><td>25</td></tr>
+<tr><td>101</td><td>27</td></tr>
+<tr><td>100</td><td>29</td></tr>
+<tr><td>99</td><td>31</td></tr>
+<tr><td>98</td><td>34</td></tr>
+<tr><td>97</td><td>37</td></tr>
+<tr><td>96</td><td>40</td></tr>
+<tr><td>95</td><td>43</td></tr>
+<tr><td>94</td><td>46</td></tr>
+<tr><td>93</td><td>48</td></tr>
+<tr><td>92</td><td>49</td></tr>
+<tr><td>ab 91</td><td>50</td></tr>
+</table>
 
-- [1] Mit Revisionen vom 8. Februar 2006, 23. Oktober 2006, 13. August 2007, 19. Oktober 2010, 22. Oktober 2012, 1. Dezember 2014, 30. November 2015 und 23. Oktober 2017.
-- [2] Ingress geändert durch GrRB vom 23. Oktober 2017.
-- [3] Abgeändert durch GrRB vom 19. Oktober 2010 (Inkrafttreten: 1. Januar 2010). Abgeändert durch GrRB vom 23. Oktober 2017.
-- [4] Abgeändert (Abs. 3 geändert und Abs. 4 aufgehoben) durch GrRB vom 22. Oktober 2012 (Inkrafttreten: 1. Januar 2013).
-- [*] Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
-- [1] Abgeändert durch GrRB vom 22. Oktober 2012 (Inkrafttreten: 1. Januar 2013).
-- [1] Ergänzt (Abs. 2 und 3) durch GrRB vom 23. Oktober 2006.
-- [2] Abgeändert (Abs. 2) durch GrRB vom 23. Oktober 2006. Abgeändert (Abs. 1 lit. e) durch GrRB vom 1. Dezember 2014.
-- [3] Ergänzt (Abs. 3) durch GrRB vom 23. Oktober 2006.
-- [1] Neue Fassung durch GrRB vom 22. Oktober 2012 (Inkrafttreten: 1. Januar 2013).
-- [2] Eingefügt durch GrRB vom 22. Oktober 2012 (Inkrafttreten: 1. Januar 2013).
-- [1] Abgeändert (Abs. 1) durch GrRB vom 1. Dezember 2014.
-- [1] Abgeändert (lit. b und c) durch GrRB vom 23. Oktober 2017.
-- [2] Ergänzt (Abs. 3) durch GrRB vom 23. Oktober 2006.
-- [1] Aufgehoben durch GrRB vom 30. November 2015 (Inkrafttreten: 1. Januar 2016).
-- [2] Abgeändert durch GrRB vom 23. Oktober 2017.
-- [1] Neue Fassung durch GrRB vom 22. Oktober 2012 (Inkrafttreten: 1. Januar 2013).
-- [2] Abgeändert (Abs. 1 lit. a) durch GrRB vom 23. Oktober 2006. Abgeändert (Verweise in Abs. 2 und 3) durch GrRB von 22. Oktober 2012 (Inkrafttreten: 1. Januar 2013).
-- [1] Eingefügt durch GrRB vom 23. Oktober 2017.
-- [2] Abgeändert durch StKB vom 8. Februar 2005 und 13. August 2007.
-- [3] Eingefügt durch GrRB vom 22. Oktober 2012 (Inkrafttreten: 1. Januar 2013). Nach Vollzug aufgehoben am 1. August 2013. Abgeändert und aufgehoben durch GrRB vom 23. Oktober 2017.
+cGS -
