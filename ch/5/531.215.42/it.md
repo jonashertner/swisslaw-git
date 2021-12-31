@@ -3,18 +3,18 @@ sr: "531.215.42"
 title: Ordinanza del 10 maggio 2017 concernente la costituzione di scorte obbligatorie di gas naturale
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/315"
 language: it
-version: 2017-06-01
+version: 2022-01-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/315/20170601/it/xml/fedlex-data-admin-ch-eli-cc-2017-315-20170601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/315/20170601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/315/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-315-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/315/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la costituzione di scorte obbligatorie di gas naturale
 
-del 10 maggio 2017 (Stato 1° giugno 2017)
+del 10 maggio 2017 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -22,7 +22,7 @@ visti gli articoli 7 capoverso 1, 8 capoverso 2, 57 capoverso 1 e 60 capoverso 2
 
 ordina:
 
-[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 #### Art. 1
 
@@ -42,7 +42,7 @@ Le merci menzionate in allegato sottostanno alla costituzione di scorte obbligat
 
 <sup>4</sup> L’obbligo di costituire scorte può essere adempiuto anche partecipando finanziariamente al deposito di olio da riscaldamento extra leggero in una scorta obbligatoria a titolo suppletivo.
 
-[^2-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^2-1]: [RS 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
 #### Art. 3
 
@@ -81,7 +81,9 @@ Dopo aver consultato le cerchie economiche interessate, il Dipartimento federale
 
 **Collaborazione tra le autorità**
 
-L’Amministrazione federale delle dogane informa l’UFAE in maniera adeguata sulla prima immissione in commercio di gas naturale.
+L’Ufficio federale della dogana e della sicurezza dei confini[^6-1] informa l’UFAE in maniera adeguata sulla prima immissione in commercio di gas naturale.
+
+[^6-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 7
 
@@ -132,16 +134,16 @@ Allegato
 ### 1. Tipi di gas naturale che sottostanno all’obbligo di costituire scorte
 
 <table>
-<tr><td>Voce di tariffa doganale[^annexu1-lvlu1-lvl1-1]</td><td>Designazione della merce</td></tr>
+<tr><th>Voce di tariffa doganale[^annexu1-lvlu1-lvl1-1]</th><th>Designazione della merce</th></tr>
 <tr><td>2711.1190</td><td>Gas naturale liquefatto</td></tr>
 <tr><td>2711.2190</td><td>Gas naturale allo stato gassoso</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), allegato
+[^annexu1-lvlu1-lvl1-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921), allegato
 
 ### 2. Quantitativi soglia per la conclusione di un contratto per la costituzione di scorte obbligatorie
 
 <table>
-<tr><td>Designazione della merce</td><td>Quantitativo</td></tr>
+<tr><th>Designazione della merce</th><th>Quantitativo</th></tr>
 <tr><td>Tipi di gas naturale secondo il numero 1</td><td>&lt; 100 tonnellate</td></tr>
 </table>

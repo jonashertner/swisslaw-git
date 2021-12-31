@@ -3,18 +3,18 @@ sr: "531.215.42"
 title: Ordonnance du 10 mai 2017 sur le stockage obligatoire de gaz naturel
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/315"
 language: fr
-version: 2017-06-01
+version: 2022-01-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/315/20170601/fr/xml/fedlex-data-admin-ch-eli-cc-2017-315-20170601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/315/20170601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/315/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-315-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/315/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le stockage obligatoire de gaz naturel
 
-du 10 mai 2017 (Etat le 1<sup>er</sup> juin 2017)
+du 10 mai 2017 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu les art. 7, al. 1, 8, al. 2, 57, al. 1, et 60, al. 2, de la loi du 17 juin 20
 
 arrête:
 
-[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 #### Art. 1
 
@@ -42,7 +42,7 @@ Pour assurer l’approvisionnement du pays en gaz naturel, les marchandises ment
 
 <sup>4</sup> L’obligation de stocker peut aussi être remplie dès lors que la personne participe financièrement au stockage de mazout extra-léger, effectué à titre supplétif.
 
-[^2-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^2-1]: [RS 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
 #### Art. 3
 
@@ -81,7 +81,9 @@ Après avoir consulté les milieux économiques concernés, le Département féd
 
 **Coopération entre autorités**
 
-L’Administration fédérale des douanes informe l’OFAE, sous une forme adaptée, de la première mise sur le marché de gaz naturel.
+L’Office fédéral de la douane et de la sécurité des frontières[^6-1] informe l’OFAE, sous une forme adaptée, de la première mise sur le marché de gaz naturel.
+
+[^6-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 7
 
@@ -132,16 +134,16 @@ Annexe
 ### 1 Types de gaz naturel soumis au stockage obligatoire
 
 <table>
-<tr><td>Numéro du tarif douanier[^annexu1-lvlu1-lvl1-1]</td><td>Désignation de la marchandise</td></tr>
+<tr><th>Numéro du tarif douanier[^annexu1-lvlu1-lvl1-1]</th><th>Désignation de la marchandise</th></tr>
 <tr><td>2711.1190</td><td>Gaz naturel liquéfié</td></tr>
 <tr><td>2711.2190</td><td>Gaz naturel à l’état gazeux</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), annexe
+[^annexu1-lvlu1-lvl1-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921), annexe
 
 ### 2 Quantité-seuil impliquant l’obligation de contracter
 
 <table>
-<tr><td>Désignation de la marchandise</td><td>Quantité</td></tr>
+<tr><th>Désignation de la marchandise</th><th>Quantité</th></tr>
 <tr><td>types de gaz naturel énumérés au ch. 1</td><td>&lt; 100 tonnes</td></tr>
 </table>

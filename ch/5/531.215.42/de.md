@@ -3,11 +3,11 @@ sr: "531.215.42"
 title: Verordnung vom 10. Mai 2017 über die Pflichtlagerhaltung von Erdgas (Erdgaspflichtlagerverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/315"
 language: de
-version: 2017-06-01
+version: 2022-01-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/315/20170601/de/xml/fedlex-data-admin-ch-eli-cc-2017-315-20170601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/315/20170601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/315/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-315-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/315/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/315/20170601/de"
 
 (Erdgaspflichtlagerverordnung)
 
-vom 10. Mai 2017 (Stand am 1. Juni 2017)
+vom 10. Mai 2017 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -24,7 +24,7 @@ gestützt auf die Artikel 7 Absatz 1, 8 Absatz 2, 57 Absatz 1 und 60 Absatz 2 de
 
 verordnet:
 
-[^ingress-1]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^ingress-1]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 #### Art. 1
 
@@ -44,7 +44,7 @@ Die im Anhang aufgeführten Waren sind zur Sicherstellung der Versorgung des Lan
 
 <sup>4</sup> Die Lagerpflicht kann auch durch eine finanzielle Beteiligung an der Lagerung von Heizöl extra-leicht in einem Ersatzpflichtlager erfüllt werden.
 
-[^2-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^2-1]: [SR 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
 #### Art. 3
 
@@ -83,7 +83,9 @@ Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF) bes
 
 **Zusammenarbeit der Behörden**
 
-Die Eidgenössische Zollverwaltung informiert das BWL in geeigneter Weise über das erste Inverkehrbringen von Erdgas.
+Das Bundesamt für Zoll und Grenzsicherheit[^6-1] informiert das BWL in geeigneter Weise über das erste Inverkehrbringen von Erdgas.
+
+[^6-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 7
 
@@ -134,16 +136,16 @@ Anhang
 ### 1 Erdgasarten, die der Pflichtlagerhaltung unterstellt sind
 
 <table>
-<tr><td>Zolltarifnummer[^annexu1-lvlu1-lvl1-1]</td><td>Warenbezeichnung</td></tr>
+<tr><th>Zolltarifnummer[^annexu1-lvlu1-lvl1-1]</th><th>Warenbezeichnung</th></tr>
 <tr><td>2711.1190</td><td>Erdgas verflüssigt</td></tr>
 <tr><td>2711.2190</td><td>Erdgas in gasförmigem Zustand</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
+[^annexu1-lvlu1-lvl1-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)Anhang
 
 ### 2 Grenzmenge für den Abschluss eines Pflichtlagervertrags
 
 <table>
-<tr><td>Warenbezeichnung</td><td colspan="2">Menge</td></tr>
-<tr><td>Erdgasarten nach Ziffer 1</td><td colspan="2">&lt; 100 Tonnen</td></tr>
+<tr><th>Warenbezeichnung</th><th>Menge</th></tr>
+<tr><td>Erdgasarten nach Ziffer 1</td><td>&lt; 100 Tonnen</td></tr>
 </table>
