@@ -3,18 +3,18 @@ sr: "946.201.1"
 title: "Ordonnance du 11 septembre 2002 sur la surveillance de l'importation de certains biens industriels"
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/477"
 language: fr
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2002-09-11
 in_force: 2002-09-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/477/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-477-20130101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/477/20130101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/477/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-477-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/477/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur la surveillance de l’importation de certains biens industriels
 
-du 11 septembre 2002 (Etat le 1<sup>er</sup> janvier 2013)
+du 11 septembre 2002 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -50,7 +50,7 @@ L’importation de certains biens industriels figurant aux chap. 72 et 73 du tar
 
 <sup>1</sup> Les permis d’importation sont délivrés sur demande aux personnes et aux entreprises qui ont respectivement leur domicile ou leur siège sur le territoire douanier suisse.
 
-<sup>2</sup> Les permis sont délivrés par le Secrétariat d’Etat à l’économie (SECO).
+<sup>2</sup> Les permis sont délivrés par le Secrétariat d’État à l’économie (SECO).
 
 <sup>3</sup> Le SECO délivre les permis pour les quantités demandées au plus tard dans les sept jours ouvrables suivant le dépôt de la demande d’importation dûment remplie. Il le fait gratuitement.
 
@@ -86,7 +86,9 @@ Si le prix unitaire auquel la transaction est effectuée diffère de moins de 5 
 
 **Exécution**
 
-L’Administration fédérale des douanes est chargée de l’exécution à la frontière.
+L’Office fédéral de la douane et de la sécurité des frontières[^6-1] est chargée de l’exécution à la frontière.
+
+[^6-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 7
 

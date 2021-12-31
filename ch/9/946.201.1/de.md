@@ -3,18 +3,18 @@ sr: "946.201.1"
 title: Verordnung vom 11. September 2002 über die Überwachung der Einfuhr bestimmter Industriegüter
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/477"
 language: de
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2002-09-11
 in_force: 2002-09-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/477/20130101/de/xml/fedlex-data-admin-ch-eli-cc-2002-477-20130101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/477/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/477/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-477-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/477/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Überwachung der Einfuhr bestimmter Industriegüter
 
-vom 11. September 2002 (Stand am 1. Januar 2013)
+vom 11. September 2002 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -86,7 +86,9 @@ Weicht der Preis pro Einheit, zu dem das Geschäft getätigt wird, um weniger al
 
 **Vollzug**
 
-Die Eidgenössische Zollverwaltung wird mit dem Vollzug an der Grenze beauftragt.
+Das Bundesamt für Zoll und Grenzsicherheit[^6-1] wird mit dem Vollzug an der Grenze beauftragt.
+
+[^6-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 7
 

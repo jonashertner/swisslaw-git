@@ -3,18 +3,18 @@ sr: "946.201.1"
 title: "Ordinanza dell' 11 settembre 2002 concernente la sorveglianza dell'importazione di determinati beni industriali"
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/477"
 language: it
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2002-09-11
 in_force: 2002-09-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/477/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2002-477-20130101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/477/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/477/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-477-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/477/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la sorveglianza dell’importazione di determinati beni industriali
 
-dell’11 settembre 2002 (Stato 1° gennaio 2013)
+dell’11 settembre 2002 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -86,7 +86,9 @@ Si procede allo sdoganamento anche se il prezzo unitario effettivo della transaz
 
 **Esecuzione**
 
-L’Amministrazione federale delle dogane è incaricata dell’esecuzione alla frontiera.
+L’ Ufficio federale della dogana e della sicurezza dei confini[^6-1] è incaricata dell’esecuzione alla frontiera.
+
+[^6-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 7
 
