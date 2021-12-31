@@ -4,11 +4,11 @@ title: "Legge federale del 12 giugno 1959 sulla tassa d'esenzione dall'obbligo m
 short: LTEO
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125"
 language: it
-version: 2019-01-01
+version: 2022-01-01
 adopted: 1959-06-12
 in_force: 1960-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125/20190101/it/xml/fedlex-data-admin-ch-eli-cc-1959-2035_2097_2125-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/2035_2097_2125/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1959-2035_2097_2125-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/2035_2097_2125/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/2035_2097_2125/20190101/it"
 
 (LTEO)**[^t-1]**
 
-del 12 giugno 1959 (Stato 1° gennaio 2019) (Stato 1° gennaio 2019)
+del 12 giugno 1959 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta il n. 9 dell’all. alla L del 6 ott. 1995 sul servizio civile, in vigore dal 1° gen. 1997 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 
@@ -368,13 +368,12 @@ Sono dedotti dal reddito netto:
 
 <sup>5</sup> Più Cantoni possono convenire di riscuotere la tassa in comune. Essi disciplinano la procedura e l’organizzazione della riscossione della tassa nonché la composizione della commissione di ricorso. In mancanza di un simile disciplinamento, è applicabile la procedura del Cantone competente ai sensi dell’articolo 23.[^22-3]
 
-<sup>6</sup> Per adempiere i loro compiti legali, le autorità incaricate dell’esecuzione della presente legge sono autorizzate a utilizzare sistematicamente il numero d’assicurato dell’assicurazione vecchiaia e superstiti conformemente alle disposizioni della legge federale del 20 dicembre 1946[^22-4] sull’assicurazione per la vecchiaia e per i superstiti.[^22-5]
+<sup>6</sup> …[^22-4]
 
 [^22-1]: Abrogato dal n. I della LF del 4 ott. 2003, con effetto dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 [^22-2]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
 [^22-3]: Introdotto dal n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^22-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^22-5]: Introdotto dal n. 7 dell’all. alla LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^22-4]: Introdotto dal n. 7 dell’all. alla LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS). Abrogato dall’all. n. 22 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 23
 

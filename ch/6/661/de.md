@@ -4,11 +4,11 @@ title: Bundesgesetz vom 12. Juni 1959 über die Wehrpflichtersatzabgabe (WPEG)
 short: WPEG
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125"
 language: de
-version: 2019-01-01
+version: 2022-01-01
 adopted: 1959-06-12
 in_force: 1960-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125/20190101/de/xml/fedlex-data-admin-ch-eli-cc-1959-2035_2097_2125-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/2035_2097_2125/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1959-2035_2097_2125-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/2035_2097_2125/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/2035_2097_2125/20190101/de"
 
 (WPEG)**[^t-1]**
 
-vom 12. Juni 1959 (Stand am 1. Januar 2019)
+vom 12. Juni 1959 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
@@ -361,13 +361,12 @@ Vom Reineinkommen werden abgezogen:
 
 <sup>5</sup> Mehrere Kantone können vereinbaren, die Abgabe gemeinsam zu erheben. Sie regeln Verfahren und Organisation der Abgabeerhebung sowie die Zusammensetzung der Rekurskommission. Fehlt eine solche Regelung, so gilt das Verfahren des Kantons, der nach Artikel 23 zuständig ist.[^22-3]
 
-<sup>6</sup> Die mit dem Vollzug dieses Gesetzes beauftragten Behörden sind berechtigt, die Versichertennummer der Alters- und Hinterlassenenversicherung nach den Bestimmungen des Bundesgesetzes vom 20. Dezember 1946[^22-4] über die Alters- und Hinterlassenenversicherung für die Erfüllung ihrer gesetzlichen Aufgaben systematisch zu verwenden.[^22-5]
+<sup>6</sup> ...[^22-4]
 
 [^22-1]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 2002, mit Wirkung seit 1. Jan. 2004 ([AS 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 [^22-2]: Fassung gemäss Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [BBl 2017 6191](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
 [^22-3]: Eingefügt durch Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^22-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^22-5]: Eingefügt durch Anhang Ziff. 7 des BG vom 23. Juni 2006 (Neue AHV-Versicherten-nummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^22-4]: Eingefügt durch Anhang Ziff. 7 des BG vom 23. Juni 2006 (Neue AHV-Versicherten-nummer) ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)). Aufgehoben durch Anhang Ziff. 22 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), mit Wirkung seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 23
 
@@ -849,7 +848,7 @@ Insbesondere sind aufgehoben:
 [^48-1]: [BS **5** 157]
 [^48-2]: [BS **5** 162]
 [^48-3]: [BS **5** 193]
-[^48-4]: [BS **5** 3; [AS 1948 425](https://fedlex.data.admin.ch/eli/oc/1948/425_417_365), [1949 1491](https://fedlex.data.admin.ch/eli/oc/1949/1491_1595_1525)Art. 1-3, 5 Bst. a-d, **1952** 331 338 Art. 2, **1961** 231, **1968** 73 Ziff. I, III, **1970** 43, **1972** 909 Art. 15 Ziff. 3, **1975** 11, **1979** 114 Art. 72 Bst. e, **1984** 1324, **1990** 1882, **1991** 857 Anhang Ziff. 10 1412, **1992** 288 Anhang Ziff. 20 2392 Ziff. I 2 2521 Art. 55 Ziff. 3, **1993** 501 Anhang Ziff. 5 3043 Anhang Ziff. 2, **1994** 1622 Art. 22 Abs. 2. [AS 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 7]
+[^48-4]: [BS **5** 3; [AS 1948 425](https://fedlex.data.admin.ch/eli/oc/1948/425_417_365); [1949 1491](https://fedlex.data.admin.ch/eli/oc/1949/1491_1595_1525)Art. 1-3, 5 Bst. a-d; **1952** 331, 338 Art. 2; **1961** 231; **1968** 73 Ziff. I, III; **1970** 43; **1972** 909 Art. 15 Ziff. 3; **1975** 11, **1979** 114 Art. 72 Bst. e; **1984** 1324; **1990** 1882; **1991** 857 Anhang Ziff. 10, 1412; **1992** 288 Anhang Ziff. 20, 2392 Ziff. I 2, 2521 Art. 55 Ziff. 3; **1993** 501 Anhang Ziff. 5, 3043 Anhang Ziff. 2; **1994** 1622 Art. 22 Abs. 2. [AS 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 7]
 
 #### Art. 49
 

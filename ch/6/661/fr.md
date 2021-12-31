@@ -4,11 +4,11 @@ title: "Loi fédérale du 12 juin 1959 sur la taxe d'exemption de l'obligation d
 short: LTEO
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125"
 language: fr
-version: 2019-01-01
+version: 2022-01-01
 adopted: 1959-06-12
 in_force: 1960-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-1959-2035_2097_2125-20190101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/2035_2097_2125/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1959-2035_2097_2125-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/2035_2097_2125/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/2035_2097_2125/20190101/fr"
 
 (LTEO)
 
-du 12 juin 1959 (Etat le 1<sup>er</sup> janvier 2019)
+du 12 juin 1959 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -37,7 +37,7 @@ arrête:
 
 Les citoyens suisses qui n’accomplissent pas ou n’accomplissent qu’en partie leur obligation de servir[^1-3] sous forme de service personnel (service militaire ou service civil) doivent fournir une compensation pécuniaire.
 
-[^1-1]: Nouvelle teneur selon le ch. 9 de l’annexe à la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^1-1]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 [^1-2]: Selon le ch. I de la LF du 22 juin 1979, en vigueur depuis le 1<sup>er</sup> janv. 1980 ([RO 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 933](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)), les titres marginaux ont été remplacés par des titres médians.
 [^1-3]: Nouvelle expression selon le ch. I de la LF du 16 mars 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5837](https://fedlex.data.admin.ch/eli/fga/2017/1770)). Il a été tenu compte de cette mod. dans les disp. mentionnées dans ce RO.
 
@@ -58,10 +58,10 @@ Sont assujettis à la taxe les hommes astreints au service qui sont domiciliés 
 <sup>2</sup> N’est pas assujetti à la taxe celui qui, au cours de l’année d’assujettissement, a accompli effectivement son service militaire[^2-7], bien qu’il n’ait pas été incorporé pendant l’année entière en tant qu’homme astreint au service.
 
 [^2-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 1979, en vigueur depuis le 1<sup>er</sup> janv. 1980 ([RO 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 933](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)). Selon la même disposition, les titres marginaux ont été remplacés par des titres médians.
-[^2-2]: Nouvelle teneur selon le ch. 9 de l’annexe à la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^2-2]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 [^2-3]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5837](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
 [^2-4]: Abrogée par le ch. 8 de l’appendice à la LF du 22 juin 1990, avec effet au 1<sup>er</sup> janv. 1991 ([RO 1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882); [FF 1989 II 1078](https://fedlex.data.admin.ch/eli/fga/1989/2_1194_1078_942)).
-[^2-5]: Nouvelle teneur selon le ch. 9 de l’annexe à la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^2-5]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 [^2-6]: Introduit par le ch. I de la LF du 16 mars 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5837](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
 [^2-7]: Actuellement «son service militaire ou son service civil».
 
@@ -104,15 +104,15 @@ Est exonéré de la taxe quiconque, au cours de l’année d’assujettissement:
 <sup>3</sup> Si l’assujetti décède, la taxe n’est pas perçue pour l’année du décès.[^4-11]
 
 [^4-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 1979, en vigueur depuis le 1<sup>er</sup> janv. 1980 ([RO 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 933](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
-[^4-2]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 21 mars 2003 (4<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [FF 2001 3045](https://fedlex.data.admin.ch/eli/fga/2001/617)).
-[^4-3]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 21 mars 2003 (4<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [FF 2001 3045](https://fedlex.data.admin.ch/eli/fga/2001/617)).
+[^4-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 21 mars 2003 (4<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [FF 2001 3045](https://fedlex.data.admin.ch/eli/fga/2001/617)).
+[^4-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 21 mars 2003 (4<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [FF 2001 3045](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 [^4-4]: Introduite par le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777)[2784](https://fedlex.data.admin.ch/eli/oc/1994/2784_2784_2784)art. 1; [FF 1993 II 708](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
 [^4-5]: Introduite par le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777)[2784](https://fedlex.data.admin.ch/eli/oc/1994/2784_2784_2784)art. 1; [FF 1993 II 708](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
-[^4-6]: Nouvelle teneur selon le ch. 9 de l’annexe à la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^4-6]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 [^4-7]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^4-8]: Abrogée par le ch. 5 de l’annexe à la LF du 19 mars 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^4-8]: Abrogée par l’annexe ch. 5 de la LF du 19 mars 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^4-9]: Nouvelle teneur selon le ch. I de la LF du 22 juin 1979, en vigueur depuis le 1<sup>er</sup> janv. 1980 ([RO 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 933](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
-[^4-10]: Introduit par le ch. I de la LF du 17 juin 1994 ([RO 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777); [FF 1993 II 708](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)). Nouvelle teneur selon le ch. 9 de l’annexe à la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^4-10]: Introduit par le ch. I de la LF du 17 juin 1994 ([RO 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777); [FF 1993 II 708](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)). Nouvelle teneur selon l’annexe ch. 9 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 [^4-11]: Introduit par le ch. I de la LF du 22 juin 1979, en vigueur depuis le 1<sup>er</sup> janv. 1980 ([RO 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 933](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
 
 #### Art. 4a
@@ -124,8 +124,8 @@ Est exonéré de la taxe quiconque, au cours de l’année d’assujettissement:
 Est exonéré de la taxe le Suisse de l’étranger qui, pendant au moins six mois au cours de l’année d’assujettissement, est domicilié à l’étranger si:[^4a-3]
 
 - a. au début de l’année d’assujettissement, il est domicilié à l’étranger sans interruption depuis plus de trois ans;
-- b.[^4a-4] au cours de l’année d’assujettissement, il doit accomplir un service militaire effectif ou un service civil dans l’Etat étranger où il est domicilié ou payer une taxe correspondant à la taxe d’exemption suisse;
-- c.[^4a-5] au cours de l’année d’assujettissement, en qualité de ressortissant de l’Etat étranger où il est domicilié, il est à la disposition de l’armée ou du service civil de cet Etat, après y avoir accompli les services réglementaires.
+- b.[^4a-4] au cours de l’année d’assujettissement, il doit accomplir un service militaire effectif ou un service civil dans l’État étranger où il est domicilié ou payer une taxe correspondant à la taxe d’exemption suisse;
+- c.[^4a-5] au cours de l’année d’assujettissement, en qualité de ressortissant de l’État étranger où il est domicilié, il est à la disposition de l’armée ou du service civil de cet État, après y avoir accompli les services réglementaires.
 
 <sup>2</sup> Si l’homme astreint à l’obligation de servir était domicilié antérieurement à l’étranger, ces séjours sont imputés sur la période de trois ans mentionnée à l’al. 1, let. a, pour autant que leur durée ait été à chaque fois de douze mois au moins.[^4a-6]
 
@@ -133,11 +133,11 @@ Est exonéré de la taxe le Suisse de l’étranger qui, pendant au moins six mo
 
 [^4a-1]: Introduit par le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777)[2784](https://fedlex.data.admin.ch/eli/oc/1994/2784_2784_2784)art. 1; [FF 1993 II 708](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
 [^4a-2]: Actuellement «la taxe d’exemption de l’obligation de servir».
-[^4a-3]: Nouvelle teneur selon le ch. 9 de l’annexe à la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
-[^4a-4]: Nouvelle teneur selon le ch. 9 de l’annexe à la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
-[^4a-5]: Nouvelle teneur selon le ch. 9 de l’annexe à la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^4a-3]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^4a-4]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^4a-5]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 [^4a-6]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^4a-7]: Nouvelle teneur selon le ch. 9 de l’annexe à la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^4a-7]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 
 #### Art. 5
 
@@ -176,11 +176,11 @@ Ne sont pas considérés comme service militaire ou service civil au sens de la 
 
 <sup>4</sup> Lorsqu’un homme a subi, en participant aux activités énumérées à l’al. 3, let. a, un accident ayant porté atteinte à sa santé, l’art. 4, al. 1, let. b, est applicable.
 
-[^7-1]: Nouvelle teneur selon le ch. 9 de l’annexe à la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^7-1]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 [^7-2]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5837](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
-[^7-3]: Introduit par le ch. 9 de l’annexe à la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^7-3]: Introduit par l’annexe ch. 9 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 [^7-4]: Abrogé par le ch. I de la LF du 4 oct. 2002, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527)3712; [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^7-5]: Nouvelle teneur selon le ch. 9 de l’annexe à la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^7-5]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 [^7-6]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5837](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
 [^7-7]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777)[2784](https://fedlex.data.admin.ch/eli/oc/1994/2784_2784_2784)art. 1 ; [FF 1993 II 708](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
 [^7-8]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)).
@@ -329,7 +329,7 @@ Sont déduites du revenu net:[^12-2]
 [^19-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 1979, en vigueur depuis le 1<sup>er</sup> janv. 1980 ([RO 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 933](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
 [^19-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 1085](https://fedlex.data.admin.ch/eli/oc/2009/170); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 [^19-3]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5837](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
-[^19-4]: Nouvelle teneur selon le ch. 9 de l’annexe à la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^19-4]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 
 #### Art. 20
 
@@ -346,7 +346,7 @@ Sont déduites du revenu net:[^12-2]
 <sup>2</sup> Si l’Assemblée fédérale fait usage de cette faculté, les personnes astreintes mentionnées à l’art. 4, al. 2, ne paient que le supplément de la taxe d’exemption.[^21-2]
 
 [^21-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777)[2784](https://fedlex.data.admin.ch/eli/oc/1994/2784_2784_2784)art. 1; [FF 1993 II 708](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
-[^21-2]: Nouvelle teneur selon le ch. 9 de l’annexe à la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^21-2]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 
 ## Chapitre 4 Autorités
 
@@ -364,13 +364,12 @@ Sont déduites du revenu net:[^12-2]
 
 <sup>5</sup> Plusieurs cantons peuvent décider de percevoir la taxe en commun. Ils règlent la procédure applicable, l’organisation de la perception ainsi que la composition de la commission de recours. Lorsqu’une telle réglementation fait défaut, la procédure du canton compétent en vertu de l’art. 23 est applicable.[^22-3]
 
-<sup>6</sup> Les autorités chargées d’appliquer la présente loi sont habilitées à utiliser systématiquement le numéro d’assuré AVS pour l’accomplissement de leurs tâches légales, conformément à la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^22-4].[^22-5]
+<sup>6</sup> …[^22-4]
 
 [^22-1]: Abrogé par le ch. I de la LF du 4 oct. 2002, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 [^22-2]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5837](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
 [^22-3]: Introduit par le ch. I de la LF du 4 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^22-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^22-5]: Introduit par le ch. 7 de l’annexe à la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^22-4]: Introduit par l’annexe ch. 7 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS) ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)). Abrogé par l’annexe ch. 22 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 23
 
@@ -458,7 +457,7 @@ La taxe est fixée chaque année:
 <sup>4</sup> La taxe des hommes astreints aux obligations militaires domiciliés à l’étranger est fixée lors de leur retour en Suisse. L’art. 38 est applicable.
 
 [^25-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777)[2784](https://fedlex.data.admin.ch/eli/oc/1994/2784_2784_2784)art. 1 ; [FF 1993 II 708](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
-[^25-2]: Nouvelle teneur selon le ch. 9 de l’annexe à la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^25-2]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 [^25-3]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5837](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
 
 #### Art. 26
@@ -559,7 +558,7 @@ Ne s’appliquent pas aux procédures de réclamation et de recours visées aux 
 
 #### Art. 32
 
-**Echéance**[^32-1]
+**Échéance**[^32-1]
 
 <sup>1</sup> En règle générale, la taxe est exigible[^32-2] le 1<sup>er</sup> mai de l’année civile qui suit l’année d’assujettissement (terme général d’échéance).
 
@@ -681,10 +680,10 @@ L’autorité chargée de la perception peut exiger des sûretés pour les taxes
 
 <sup>4</sup> Le recours contre les demandes de sûretés n’a pas d’effet suspensif.[^36-4]
 
-[^36-1]: Nouvelle teneur selon le ch. 9 de l’annexe à la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^36-1]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 [^36-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^36-3]: Nouvelle teneur selon le ch. 62 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^36-4]: Introduit par le ch. 62 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^36-3]: Nouvelle teneur selon l’annexe ch. 62 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^36-4]: Introduit par l’annexe ch. 62 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 37
 
@@ -705,7 +704,7 @@ L’autorité chargée de la perception peut exiger des sûretés pour les taxes
 
 <sup>2</sup> La prescription ne court pas et est suspendue pendant la durée d’une procédure de réclamation ou de recours et tant qu’aucune des personnes tenues au paiement n’est domiciliée en Suisse.
 
-<sup>3</sup> A chaque interruption, un nouveau délai de prescription commence à courir.
+<sup>3</sup> À chaque interruption, un nouveau délai de prescription commence à courir.
 
 La prescription est interrompue:
 
@@ -717,7 +716,7 @@ La prescription est interrompue:
 
 [^38-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 1979, en vigueur depuis le 1<sup>er</sup> janv. 1980 ([RO 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 933](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
 [^38-2]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5837](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
-[^38-3]: Nouvelle teneur selon le ch. 9 de l’annexe à la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^38-3]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 
 ## Chapitre 7**** Remboursement de la taxe
 
@@ -795,8 +794,8 @@ Celui qui, intentionnellement ou par négligence, ne se conforme pas, malgré so
 <sup>4</sup> Si le jugement d’un tribunal est demandé dans le délai légal, l’administration transmet le dossier au juge pénal. Si le jugement d’un tribunal n’est pas demandé dans le délai légal, le prononcé administratif est assimilé à un jugement passé en force.
 
 [^44-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^44-2]: Nouvelle teneur selon le ch. II 20 de l’annexe 1 au code de procédure pénale du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^44-3]: Nouvelle teneur selon le ch. 9 de l’annexe à la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^44-2]: Nouvelle teneur selon l’annexe 1 ch. II 20 du code de procédure pénale du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^44-3]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 
 ## Chapitre 9 Règlement de comptes avec la Confédération
 
@@ -826,13 +825,13 @@ L’emploi de documents dans une procédure concernant l’application de la pr�
 
 <sup>1</sup> Le Conseil fédéral édicte les dispositions d’exécution. Il fixe en particulier les règles relatives à la taxation et à la perception de la taxe des assujettis bénéficiant d’un congé pour l’étranger, ainsi que celles qui concernent la révision des décisions passées en force.[^47-2]
 
-<sup>2</sup> Le Conseil fédéral peut déclarer la présente loi applicable aux ressortissants d’Etats étrangers domiciliés en Suisse, si ces Etats astreignent les ressortissants suisses à effectuer en personne un service militaire ou un service civil, ou à verser une taxe d’exemption.[^47-3]
+<sup>2</sup> Le Conseil fédéral peut déclarer la présente loi applicable aux ressortissants d’États étrangers domiciliés en Suisse, si ces États astreignent les ressortissants suisses à effectuer en personne un service militaire ou un service civil, ou à verser une taxe d’exemption.[^47-3]
 
 <sup>3</sup> ...[^47-4]
 
 [^47-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 1979, en vigueur depuis le 1<sup>er</sup> janv. 1980 ([RO 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 933](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
 [^47-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777)[2784](https://fedlex.data.admin.ch/eli/oc/1994/2784_2784_2784)art. 1; [FF 1993 II 708](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
-[^47-3]: Nouvelle teneur selon le ch. 9 de l’annexe à la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^47-3]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 [^47-4]: Introduit par le ch. I de la LF du 22 juin 1979 ([RO 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 933](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)). Abrogé par le ch. I de la LF du 3 oct. 2008, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2009 1085](https://fedlex.data.admin.ch/eli/oc/2009/170); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 
 #### Art. 48
