@@ -4,13 +4,13 @@ number: "170.1"
 title: Gesetz über die Verwaltungsrechtspflege
 short: VRG
 language: de
-version: 2018-01-01
-valid_until: 2021-12-31
-version_adopted: 2017-12-06
+version: 2022-01-01
+valid_until: 2024-05-31
+version_adopted: 2021-03-24
 adopted: 1981-02-23
 in_force: 1984-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/170.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1890/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2691/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ VRG
 
 (VRG)
 
-vom 23.02.1981 (Stand 01.01.2018)
+vom 23.02.1981 (Stand 01.01.2022)
 
 ## 1. Abschnitt: Geltungsbereich und Begriffe
 
@@ -169,7 +169,7 @@ vom 23.02.1981 (Stand 01.01.2018)
 
 **Amtshilfe**
 
-<sup>1</sup> Die Behörden im Sinne von § 1 Absatz 1 Ziffern 1 und 3 sind zu gegenseitiger Amtshilfe verpflichtet, soweit nichts anderes bestimmt ist.
+<sup>1</sup> Die Behörden im Sinne von § 1 Abs. 1 Ziff. 1 und Ziff. 3 sind zu gegenseitiger Amtshilfe verpflichtet, soweit nichts anderes bestimmt ist.
 
 #### § 13
 
@@ -231,7 +231,7 @@ vom 23.02.1981 (Stand 01.01.2018)
 - 2\. die Tatsachen, Rechtssätze und Gründe, auf die er sich stützt;
 - 3\. das Erkenntnis;
 - 4\. die Kostenregelung;
-- 5\. den Hinweis auf das zulässige ordentliche Rechtsmittel mit Angabe von Frist und Instanz;
+- 5\. den Hinweis auf das zulässige ordentliche Rechtsmittel mit Angabe von Frist und Instanz sowie bei Beschwerden auf allfällige Ausnahmen von den Gerichtsferien;
 - 6\. die Bezeichnung der Adressaten;
 - 7\. die Daten des Entscheides und des Versandes;
 - 8\. die erforderlichen Unterschriften.
@@ -331,7 +331,7 @@ vom 23.02.1981 (Stand 01.01.2018)
 
 **Ordnungsbussen**
 
-<sup>1</sup> Wer ein Verfahren mutwillig einleitet oder im Verfahren Sitte und Anstand verletzt, kann mit einer Ordnungsbusse bis zu 1 000 Franken bestraft werden.
+<sup>1</sup> Wer ein Verfahren mutwillig einleitet oder im Verfahren Sitte und Anstand verletzt, kann mit einer Ordnungsbusse bis zu Fr. 1'000 bestraft werden.
 
 ## 3. Abschnitt: Rechtsschutz in Verwaltungsstreitsachen
 
@@ -367,7 +367,7 @@ vom 23.02.1981 (Stand 01.01.2018)
 
 <sup>4</sup> Das Verwaltungsgericht beaufsichtigt die Geschäftsführung der Rekurskommissionen sowie der Enteignungskommission. Es regelt deren Organisation und Geschäftsgang durch Verordnung[^29-1].
 
-[^29-1]: [173.31](https://www.rechtsbuch.tg.ch/data/173.31/de)
+[^29-1]: RB [173.31](https://www.rechtsbuch.tg.ch/data/173.31/de)
 
 #### § 30
 
@@ -393,11 +393,11 @@ vom 23.02.1981 (Stand 01.01.2018)
 
 <sup>1</sup> Der Grosse Rat wählt die Mitglieder des Verwaltungsgerichtes und aus deren Mitte den Präsidenten und den Vizepräsidenten sowie die ordentlichen Ersatzmitglieder.
 
-<sup>2</sup> Das Verwaltungsgericht stellt den Gerichtsschreiber und das Kanzleipersonal an. Die Verordnung des Regierungsrates über die Rechtsstellung des Staatspersonals[^32-1] findet sinngemäss Anwendung.
+<sup>2</sup> Das Verwaltungsgericht stellt den Gerichtsschreiber und das Kanzleipersonal an. Die Verordnung des Regierungsrates über die Rechtsstellung des Staatspersonals (RSV)[^32-1] findet sinngemäss Anwendung.
 
 <sup>3</sup> Personalrechtliche Streitigkeiten beurteilt das Obergericht als einzige Instanz im Beschwerdeverfahren.
 
-[^32-1]: [177.112](https://www.rechtsbuch.tg.ch/data/177.112/de)
+[^32-1]: RB [177.112](https://www.rechtsbuch.tg.ch/data/177.112/de)
 
 #### § 33
 
@@ -411,7 +411,7 @@ vom 23.02.1981 (Stand 01.01.2018)
 
 <sup>4</sup> Im übrigen regelt das Verwaltungsgericht Organisation und Geschäftsgang durch Verordnung[^33-1].
 
-[^33-1]: [173.21](https://www.rechtsbuch.tg.ch/data/173.21/de)
+[^33-1]: RB [173.21](https://www.rechtsbuch.tg.ch/data/173.21/de)
 
 #### § 34
 
@@ -528,7 +528,7 @@ vom 23.02.1981 (Stand 01.01.2018)
 
 **Frist und Form**
 
-<sup>1</sup> Die Rekursschrift ist innert 20 Tagen seit der Eröffnung des angefochtenen Entscheides unter Beilage oder genauer Bezeichnung desselben bei der Rekursinstanz unterzeichnet und im Doppel einzureichen. Der Rekurs muss einen Antrag und eine Begründung enthalten sowie die Beweismittel aufführen. Akten sind nummeriert und mit einem Aktenverzeichnis einzureichen.
+<sup>1</sup> Die Rekursschrift ist innert 30 Tagen seit der Eröffnung des angefochtenen Entscheides unter Beilage desselben bei der Rekursinstanz unterzeichnet in je einem Exemplar für die Rekursinstanz und die Beteiligten einzureichen. Der Rekurs muss einen Antrag und eine Begründung enthalten sowie die Beweismittel aufführen. Akten sind nummeriert und mit einem Aktenverzeichnis einzureichen.
 
 <sup>2</sup> Rechtsschriften dürfen nicht unleserlich, ungebührlich, unverständlich, übermässig weitschweifig oder in einer anderen Sprache als der Amtssprache verfasst sein.
 
@@ -616,9 +616,22 @@ vom 23.02.1981 (Stand 01.01.2018)
 
 **Verwaltungsgericht**
 
-<sup>1</sup> Unter Vorbehalt der Zuständigkeit des Grossen Rates und des Regierungsrates gemäss § 55 können alle Entscheide der für die Handelsregisterführung verantwortlichen Amtsstelle, der Rekursinstanzen, der Enteignungskommission und der Departemente mit Beschwerde beim Verwaltungsgericht angefochten werden, sofern nicht das Bundesrecht die Beschwerde an das Bundesgericht, das Bundesverwaltungsgericht oder eine andere Bundesbehörde zulässt, der Entscheid nicht aufgrund eines Gesetzes endgültig oder die Weiterzugsmöglichkeit ausdrücklich ausgeschlossen ist.
+<sup>1</sup> Mit Beschwerde beim Verwaltungsgericht können Entscheide der folgenden Behörden angefochten werden:
 
-<sup>2</sup> Personalrechtliche Entscheide des Regierungsrates und des Obergerichtes im Sinne von § 42 Absatz 1 können mit Beschwerde beim Verwaltungsgericht angefochten werden. § 42 Absatz 2 ist analog anwendbar.
+- 1\. Amtsstelle, die für die Handelsregisterführung verantwortlich ist
+- 2\. Zwangsmassnahmengericht im Bereich der ausländerrechtlichen Zwangsmassnahmen, wobei der Beschwerde keine aufschiebende Wirkung zukommt
+- 3\. Rekursinstanzen
+- 4\. Enteignungskommission
+- 5\. Departemente.
+
+<sup>1<sup>bis</sup></sup> Die Beschwerde ist ausgeschlossen, wenn
+
+- 1\. das Bundesrecht die direkte Beschwerde an das Bundesgericht, das Bundesverwaltungsgericht oder eine andere Bundesbehörde zulässt
+- 2\. der Entscheid endgültig ist
+- 3\. eine Beschwerde an den Regierungsrat gemäss § 55 erhoben werden kann
+- 4\. der Grosse Rat zuständig ist.
+
+<sup>2</sup> Personalrechtliche Entscheide des Regierungsrates und des Obergerichtes im Sinne von § 42 Abs. 1 können mit Beschwerde beim Verwaltungsgericht angefochten werden. § 42 Abs. 2 ist analog anwendbar.
 
 <sup>3</sup> Entscheide des Grossen Rates im Bereich der Bürgerrechtsgesetzgebung können mit Beschwerde beim Verwaltungsgericht angefochten werden.
 
@@ -628,7 +641,7 @@ vom 23.02.1981 (Stand 01.01.2018)
 
 <sup>1</sup> Soweit nicht das Bundesrecht die Beschwerde an das Bundesverwaltungsgericht oder eine andere Bundesbehörde vorsieht, können beim Regierungsrat mit Beschwerde angefochten werden:
 
-- 1\. Entscheide gemäss § 45 Absatz 2 Ziffern 2 und 3 des Gesetzes über das Stimm- und Wahlrecht[^55-1];
+- 1\. Entscheide gemäss § 45 Abs. 2 Ziff. 2 und Ziff. 3 des Gesetzes über das Stimm- und Wahlrecht (StWG)[^55-1];
 - 2\. Entscheide des Departementes gemäss dem Gesetz über die Kulturförderung und die Kulturpflege[^55-2];
 - 3\. Entscheide der Departemente über den Finanzausgleich und über Beiträge des Staates an Gemeinden und andere öffentlich-rechtliche Körperschaften;
 - 4\. Entscheide der Departemente über Beiträge an Private, auf die kein Rechtsanspruch besteht;
@@ -641,11 +654,11 @@ vom 23.02.1981 (Stand 01.01.2018)
 
 <sup>2</sup> Für das Verfahren gelten die Bestimmungen über den Rekurs.
 
-[^55-1]: [161.1](https://www.rechtsbuch.tg.ch/data/161.1/de)
-[^55-2]: [442.1](https://www.rechtsbuch.tg.ch/data/442.1/de)
-[^55-3]: Jetzt § 17 des Gesetzes über die Förderung des öffentlichen Verkehrs; [742.1](https://www.rechtsbuch.tg.ch/data/742.1/de).
-[^55-4]: [837.1](https://www.rechtsbuch.tg.ch/data/837.1/de)
-[^55-5]: [842.1](https://www.rechtsbuch.tg.ch/data/842.1/de)
+[^55-1]: RB [161.1](https://www.rechtsbuch.tg.ch/data/161.1/de)
+[^55-2]: RB [442.1](https://www.rechtsbuch.tg.ch/data/442.1/de)
+[^55-3]: Heute: § 17 des Gesetzes über die Förderung des öffentlichen Verkehrs (FöVG; RB [742.1](https://www.rechtsbuch.tg.ch/data/742.1/de))
+[^55-4]: RB [837.1](https://www.rechtsbuch.tg.ch/data/837.1/de)
+[^55-5]: RB [842.1](https://www.rechtsbuch.tg.ch/data/842.1/de)
 
 #### § 55a
 
@@ -674,7 +687,7 @@ vom 23.02.1981 (Stand 01.01.2018)
 
 **Frist und Form**
 
-<sup>1</sup> Die Beschwerdeschrift ist innert 20 Tagen seit der Eröffnung des angefochtenen Entscheides unter Beilage oder genauer Bezeichnung desselben bei der Beschwerdeinstanz unterzeichnet und im Doppel einzureichen. Die Beschwerde muss einen Antrag und eine Begründung enthalten sowie die Beweismittel aufführen. Akten sind nummeriert und mit einem Aktenverzeichnis einzureichen.
+<sup>1</sup> Die Beschwerdeschrift ist innert 30 Tagen seit der Eröffnung des angefochtenen Entscheides unter Beilage desselben bei der Beschwerdeinstanz unterzeichnet in je einem Exemplar für die Beschwerdeinstanz und die Beteiligten einzureichen. Die Beschwerde muss einen Antrag und eine Begründung enthalten sowie die Beweismittel aufführen. Akten sind nummeriert und mit einem Aktenverzeichnis einzureichen.
 
 <sup>2</sup> Rechtsschriften dürfen nicht unleserlich, ungebührlich, unverständlich, übermässig weitschweifig oder in einer anderen Sprache als der Amtssprache verfasst sein.
 
@@ -692,13 +705,11 @@ vom 23.02.1981 (Stand 01.01.2018)
 
 **Verfahrensleitung und Instruktion**
 
-<sup>1</sup> Der Präsident oder ein von ihm als Instruktionsrichter bestimmtes Mitglied des Verwaltungsgerichtes leitet das Vorverfahren und trifft die vorsorglichen Massnahmen.
+<sup>1</sup> Ein Mitglied des Verwaltungsgerichtes leitet das Vorverfahren und trifft die vorsorglichen Massnahmen.
 
 <sup>2</sup> Der Instruktionsrichter kann Beweise abnehmen, soweit nicht die Beweisabnahme durch das Gericht angezeigt ist.
 
-<sup>3</sup> Zeugeneinvernahmen und Parteibefragungen haben in der Regel vor dem Gericht zu erfolgen.
-
-<sup>4</sup> …
+<sup>3–4</sup> …
 
 #### § 60
 
@@ -736,9 +747,9 @@ vom 23.02.1981 (Stand 01.01.2018)
 
 <sup>3</sup> Gerichtssitzungen und Augenscheine können auch während der Gerichtsferien durchgeführt werden, sofern die zur Teilnahme Berechtigten zustimmen.
 
-<sup>4</sup> Die Gerichtsferien gelten nicht in Verfahren betreffend aufschiebende Wirkung und andere vorsorgliche Massnahmen, in Verfahren betreffend Erteilung oder Verweigerung einer Bewilligung für Bauten oder Anlagen, im Submissions- sowie im Steuerverfahren.
+<sup>4</sup> Die Gerichtsferien gelten nicht in Verfahren betreffend aufschiebende Wirkung und andere vorsorgliche Massnahmen, in Verfahren betreffend Erteilung oder Verweigerung einer Bewilligung für Bauten oder Anlagen, im Submissions-, im Steuer-, im Zwangsvollstreckungsverfahren sowie im Bereich der ausländerrechtlichen Zwangsmassnahmen. Fehlt in der Rechtsmittelbelehrung der Hinweis auf diese Bestimmung, gelten die Gerichtsferien.
 
-<sup>5</sup> In den Fällen vor Versicherungsgericht gilt Artikel 38 des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG)[^63-1].
+<sup>5</sup> In den Fällen vor Versicherungsgericht gilt Art. 38 des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG)[^63-1].
 
 [^63-1]: SR [830.1](https://db.clex.ch/link/Bund/830.1/de)
 
@@ -754,11 +765,13 @@ vom 23.02.1981 (Stand 01.01.2018)
 
 - 1\. Streitigkeiten aus öffentlichem Recht mit Ausnahme von solchen über Staatsbeiträge zwischen dem Staat Thurgau und Gemeinden, Gemeindezweckverbänden, öffentlich-rechtlichen Korporationen und selbständigen öffentlich-rechtlichen Anstalten sowie zwischen diesen untereinander;
 - 1a. Streitigkeiten aus verwaltungsrechtlichen Verträgen;
-- 2\. Streitigkeiten zwischen Verleihungsbehörde und Konzessionär, zwischen Konzessionären untereinander sowie zwischen Konzessionären und anderen Nutzungsberechtigten;
+- 2\. …
 - 3\. Entschädigungsansprüche aus der Änderung oder dem Widerruf einer Verwaltungsverfügung;
-- 3a. vermögensrechtliche Ansprüche eines Behördenmitgliedes aus dem Dienstverhältnis gegen Körperschaften des kantonalen öffentlichen Rechtes einschliesslich Schadenersatzforderungen;
-- 4\. Klagen gemäss § 12 Absatz 1 des Gesetzes über die Verantwortlichkeit sowie vermögensrechtliche Ansprüche gegen öffentliche Versicherungskassen;
+- 3a. …
+- 4\. Klagen gemäss § 12 Abs. 1 des Gesetzes über die Verantwortlichkeit[^64-1] sowie vermögensrechtliche Ansprüche gegen öffentliche Versicherungskassen;
 - 5\. Streitigkeiten aus öffentlichem Recht zwischen Familienausgleichskassen.
+
+[^64-1]: RB [170.3](https://www.rechtsbuch.tg.ch/data/170.3/de)
 
 ### 3.4.2. Das Verfahren
 
@@ -806,14 +819,14 @@ vom 23.02.1981 (Stand 01.01.2018)
 
 <sup>1</sup> Das Verwaltungsgericht beurteilt als einzige kantonale Instanz:
 
-- 1\. sämtliche Streitigkeiten gemäss Artikel 57 ATSG[^69a-1];
-- 2\. Klagen gemäss Artikel 73 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge[^69a-2];
+- 1\. sämtliche Streitigkeiten gemäss Art. 57 ATSG[^69a-1];
+- 2\. Klagen gemäss Art. 73 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge[^69a-2];
 - 3\. Streitigkeiten aus Zusatzversicherungen zur sozialen Krankenversicherung nach dem Bundesgesetz über die Krankenversicherung[^69a-3];
 - 4\. Streitigkeiten gemäss der Sozialversicherungsgesetzgebung des Kantons.
 
-<sup>2</sup> Das Verwaltungsgericht ist kantonales Schiedsgericht gemäss Artikel 27<sup>bis</sup> des Bundesgesetzes über die Invalidenversicherung[^69a-4], Artikel 89 des Bundesgesetzes über die Krankenversicherung und Artikel 57 des Bundesgesetzes über die Unfallversicherung[^69a-5]. Es führt eine Liste mit geeigneten Schiedsrichtern zur Vertretung der beteiligten Versicherer und Leistungserbringer.
+<sup>2</sup> Das Verwaltungsgericht ist kantonales Schiedsgericht gemäss Art. 27<sup>bis</sup> des Bundesgesetzes über die Invalidenversicherung[^69a-4], Art. 89 des Bundesgesetzes über die Krankenversicherung und Art. 57 des Bundesgesetzes über die Unfallversicherung[^69a-5]. Es führt eine Liste mit geeigneten Schiedsrichtern zur Vertretung der beteiligten Versicherer und Leistungserbringer.
 
-<sup>3</sup> In Fällen ohne grundsätzliche Bedeutung oder bei klarer Rechtslage beurteilt der Präsident des Verwaltungsgerichtes als Einzelrichter Streitigkeiten bis zu 8 000 Franken.
+<sup>3</sup> In Fällen ohne grundsätzliche Bedeutung oder bei klarer Rechtslage beurteilt ein Mitglied des Verwaltungsgerichtes als Einzelrichter Streitigkeiten bis zu Fr. 8'000.
 
 [^69a-1]: SR [830.1](https://db.clex.ch/link/Bund/830.1/de)
 [^69a-2]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
@@ -827,7 +840,7 @@ vom 23.02.1981 (Stand 01.01.2018)
 
 <sup>1</sup> Unter Vorbehalt der besonderen Verfahrensvorschriften des Bundes gelten sinngemäss die Bestimmungen über das Beschwerde- und Klageverfahren vor dem Verwaltungsgericht.
 
-<sup>2</sup> Die Artikel 34 bis 54 und 61 Buchstaben a bis c und e bis i ATSG[^69b-1] finden mit Ausnahme der Kostenlosigkeit auf alle Verfahren vor Versicherungsgericht sinngemäss Anwendung.
+<sup>2</sup> Art. 34 bis Art. 54 und Art. 61 lit. a bis lit. c und lit. e bis lit. i ATSG[^69b-1] finden mit Ausnahme der Kostenlosigkeit auf alle Verfahren vor Versicherungsgericht sinngemäss Anwendung.
 
 [^69b-1]: SR [830.1](https://db.clex.ch/link/Bund/830.1/de)
 
@@ -841,7 +854,7 @@ vom 23.02.1981 (Stand 01.01.2018)
 
 <sup>1</sup> Die Revision und die Erläuterung von Entscheiden sind zulässig. Die Bestimmungen der Zivilprozessordnung[^70-1] gelten sinngemäss.
 
-[^70-1]: Vom 6. Juli 1988; aufgehoben; jetzt SR [272](https://db.clex.ch/link/Bund/272/de).
+[^70-1]: Heute: Schweizerische Zivilprozessordnung (ZPO; SR [272](https://db.clex.ch/link/Bund/272/de))
 
 ### 4.2. Die Aufsichtsbeschwerde
 
@@ -939,7 +952,7 @@ vom 23.02.1981 (Stand 01.01.2018)
 
 <sup>2</sup> Stehen sich in einem Rekursverfahren Privatparteien gegenüber, hat die obsiegende Privatpartei in der Regel Anspruch auf Ersatz der ausseramtlichen Kosten durch die unterliegende Privatpartei. Im Übrigen wird Ersatz ausseramtlicher Kosten nur zugesprochen, wenn sich dies bei komplizierter Sachlage oder schwierigen Rechtsfragen rechtfertigt.
 
-<sup>3</sup> Wird Ersatz ausseramtlicher Kosten zugesprochen, sind die unterliegende Partei oder das unterliegende Gemeinwesen zur Bezahlung der Entschädigung verpflichtet. Artikel 106 ZPO[^80-1] wird sinngemäss angewendet.
+<sup>3</sup> Wird Ersatz ausseramtlicher Kosten zugesprochen, sind die unterliegende Partei oder das unterliegende Gemeinwesen zur Bezahlung der Entschädigung verpflichtet. Art. 106 ZPO[^80-1] wird sinngemäss angewendet.
 
 <sup>4</sup> In der Regel wird Gemeinwesen keine Parteientschädigung zugesprochen.
 
@@ -963,7 +976,7 @@ vom 23.02.1981 (Stand 01.01.2018)
 
 **Nachzahlung**
 
-<sup>1</sup> Eine besondere, der Finanzverwaltung angegliederte Stelle überprüft regelmässig, ob Beteiligte, denen die unentgeltliche Rechtspflege oder ein unentgeltlicher Anwalt bewilligt worden ist, zur Nachzahlung im Sinne von § 81 Absatz 3 verpflichtet werden können. Die Instanzen gemäss § 81 Absatz 3 teilen entsprechende rechtskräftige Entscheide dieser Stelle mit.
+<sup>1</sup> Eine besondere, der Finanzverwaltung angegliederte Stelle überprüft regelmässig, ob Beteiligte, denen die unentgeltliche Rechtspflege oder ein unentgeltlicher Anwalt bewilligt worden ist, zur Nachzahlung im Sinne von § 81 Abs. 3 verpflichtet werden können. Die Instanzen gemäss § 81 Abs. 3 teilen entsprechende rechtskräftige Entscheide dieser Stelle mit.
 
 <sup>2</sup> Die Beteiligten haben ihre Einkommens- und Vermögensverhältnisse umfassend darzulegen. Die Steuerbehörden und die übrigen Behörden des Kantons und der Gemeinden sowie die öffentlich-rechtlichen Körperschaften und Anstalten, ausgenommen die Kantonalbank, sind zur unentgeltlichen Auskunftserteilung sowie Offenlegung von Unterlagen verpflichtet, soweit dies zum Vollzug dieser Bestimmung erforderlich ist.
 
@@ -975,7 +988,7 @@ vom 23.02.1981 (Stand 01.01.2018)
 
 <sup>1</sup> Das Nähere regelt der Grosse Rat durch Verordnung[^82-1].
 
-[^82-1]: [631.1](https://www.rechtsbuch.tg.ch/data/631.1/de); [638.1](https://www.rechtsbuch.tg.ch/data/638.1/de)
+[^82-1]: RB [631.1](https://www.rechtsbuch.tg.ch/data/631.1/de); RB [638.1](https://www.rechtsbuch.tg.ch/data/638.1/de)
 
 ## 6. Abschnitt: Vollzug
 
@@ -1021,7 +1034,7 @@ vom 23.02.1981 (Stand 01.01.2018)
 
 <sup>1</sup> Neben den Zwangsmitteln gemäss § 86 kann die für den Fall des Ungehorsams vorgesehene Strafe angedroht werden.
 
-<sup>2</sup> Enthält der angewendete Erlass keine Strafbestimmung, kann die Bestrafung mit Busse gemäss Artikel 292 des Schweizerischen Strafgesetzbuches[^87-1] angedroht werden.
+<sup>2</sup> Enthält der angewendete Erlass keine Strafbestimmung, kann die Bestrafung mit Busse gemäss Art. 292 des Schweizerischen Strafgesetzbuches[^87-1] angedroht werden.
 
 [^87-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
@@ -1043,7 +1056,7 @@ vom 23.02.1981 (Stand 01.01.2018)
 
 **...[^90-1]**
 
-[^90-1]: Die ursprünglich in §§ 89 bis 128 festgehaltenen Aufhebungen, Änderungen und Ergänzungen bisherigen Rechtes in ABl. 1981, Seiten 874-889. § 90 wieder eingefügt; Änderung bisherigen Rechtes ABl. 2008 Seiten 2234-2236.
+[^90-1]: Die ursprünglich in § 89 bis § 128 festgehaltenen Aufhebungen, Änderungen und Ergänzungen bisherigen Rechtes in ABl. 1981, Seiten 874-889. § 90 wieder eingefügt; Änderung bisherigen Rechtes ABl. 2008 Seiten 2234-2236.
 
 ## 8. Abschnitt: Übergangs- und Schlussbestimmungen
 
