@@ -4,13 +4,13 @@ number: "833.151"
 title: Verordnung über die Pflegefinanzierung
 short: PFV
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-22
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-09-14
 adopted: 2016-12-20
 in_force: 2017-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/833.151"
-pdf: "https://ar.clex.ch/api/de/versions/1347/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1370/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1347/pdf_file"
 
 (PFV)
 
-vom 20.12.2016 (Stand 01.01.2021)
+vom 20.12.2016 (Stand 01.01.2022)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -57,17 +57,17 @@ verordnet:
 <table>
 <tr><th>Pflegestufe</th><th>Pflegebedarf in Minuten</th><th>Franken je Tag</th></tr>
 <tr><td>1</td><td>bis 20</td><td>13.60</td></tr>
-<tr><td>2</td><td>21 - 40</td><td>37.20</td></tr>
-<tr><td>3</td><td>41 - 60</td><td>61.60</td></tr>
-<tr><td>4</td><td>61 - 80</td><td>86.00</td></tr>
-<tr><td>5</td><td>81 - 100</td><td>110.40</td></tr>
-<tr><td>6</td><td>101 - 120</td><td>134.80</td></tr>
-<tr><td>7</td><td>121 - 140</td><td>159.20</td></tr>
-<tr><td>8</td><td>141 - 160</td><td>183.60</td></tr>
-<tr><td>9</td><td>161 - 180</td><td>208.00</td></tr>
-<tr><td>10</td><td>181 - 200</td><td>232.40</td></tr>
-<tr><td>11</td><td>201 - 220</td><td>256.80</td></tr>
-<tr><td>12</td><td>mehr als 220</td><td>281.20</td></tr>
+<tr><td>2</td><td>21 - 40</td><td>37.80</td></tr>
+<tr><td>3</td><td>41 - 60</td><td>62.70</td></tr>
+<tr><td>4</td><td>61 - 80</td><td>87.50</td></tr>
+<tr><td>5</td><td>81 - 100</td><td>112.30</td></tr>
+<tr><td>6</td><td>101 - 120</td><td>137.10</td></tr>
+<tr><td>7</td><td>121 - 140</td><td>161.90</td></tr>
+<tr><td>8</td><td>141 - 160</td><td>186.80</td></tr>
+<tr><td>9</td><td>161 - 180</td><td>211.60</td></tr>
+<tr><td>10</td><td>181 - 200</td><td>236.40</td></tr>
+<tr><td>11</td><td>201 - 220</td><td>261.20</td></tr>
+<tr><td>12</td><td>mehr als 220</td><td>286.00</td></tr>
 </table>
 
 #### Art. 4
@@ -79,17 +79,17 @@ verordnet:
 <table>
 <tr><th>Pflegestufe</th><th>Pflegebedarf in Minuten</th><th>Franken je Tag</th></tr>
 <tr><td>1</td><td>bis 20</td><td>14.30</td></tr>
-<tr><td>2</td><td>21 - 40</td><td>39.10</td></tr>
-<tr><td>3</td><td>41 - 60</td><td>64.70</td></tr>
-<tr><td>4</td><td>61 - 80</td><td>90.30</td></tr>
-<tr><td>5</td><td>81 - 100</td><td>115.90</td></tr>
-<tr><td>6</td><td>101 - 120</td><td>141.50</td></tr>
-<tr><td>7</td><td>121 - 140</td><td>167.20</td></tr>
-<tr><td>8</td><td>141 - 160</td><td>192.80</td></tr>
-<tr><td>9</td><td>161 - 180</td><td>218.40</td></tr>
-<tr><td>10</td><td>181 - 200</td><td>244.00</td></tr>
-<tr><td>11</td><td>201 - 220</td><td>269.60</td></tr>
-<tr><td>12</td><td>mehr als 220</td><td>295.30</td></tr>
+<tr><td>2</td><td>21 - 40</td><td>39.70</td></tr>
+<tr><td>3</td><td>41 - 60</td><td>65.80</td></tr>
+<tr><td>4</td><td>61 - 80</td><td>91.90</td></tr>
+<tr><td>5</td><td>81 - 100</td><td>117.90</td></tr>
+<tr><td>6</td><td>101 - 120</td><td>144.00</td></tr>
+<tr><td>7</td><td>121 - 140</td><td>170.00</td></tr>
+<tr><td>8</td><td>141 - 160</td><td>196.10</td></tr>
+<tr><td>9</td><td>161 - 180</td><td>222.20</td></tr>
+<tr><td>10</td><td>181 - 200</td><td>248.20</td></tr>
+<tr><td>11</td><td>201 - 220</td><td>274.30</td></tr>
+<tr><td>12</td><td>mehr als 220</td><td>300.30</td></tr>
 </table>
 
 #### Art. 5
