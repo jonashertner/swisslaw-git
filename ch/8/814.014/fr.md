@@ -4,20 +4,20 @@ title: "Ordonnance du 3 juin 2005 sur les émoluments de l'Office fédéral de l
 short: OEmol-OFEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/449"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2005-06-03
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/449/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-449-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/449/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/449/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-449-20220101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/449/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les émoluments de l’Office fédéral de l’environnement
 
-(Ordonnance sur les émoluments de l’OFEV, OEmol-OFEV)**[^t-1]**
+(Ordonnance sur les émoluments de l’OFEV, OEmol-OFEV)[^t-1]
 
-du 3 juin 2005 (Etat le 1<sup>er</sup> janvier 2020)
+du 3 juin 2005 (État le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon l’annexe 2 ch. 5 de l’O du 22 nov. 2006 sur les émoluments de l’OFEN, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)).
 
@@ -39,16 +39,17 @@ arrête:
 
 <sup>1</sup>
 
-La présente ordonnance régit les émoluments requis pour les prestations et les décisions (actes administratifs):
+La présente ordonnance régit les émoluments requis pour les prestations, les contrôles et les décisions (actes administratifs):[^1-1]
 
-- a. de l’Office fédéral de l’environnement (OFEV)[^1-1], et
+- a. de l’Office fédéral de l’environnement (OFEV)[^1-2], et
 - b. des organisations et personnes de droit public ou privé chargées par l’OFEV de l’exécution (autres organes d’exécution).
 
 <sup>2</sup> Les actes administratifs concernant l’octroi de subventions fédérales sont exclus.
 
 <sup>3</sup> Les dispositions spéciales sur les émoluments sont réservées.
 
-[^1-1]: Nouvelle expression selon l’annexe 2 ch. 5 de l’O du 22 nov. 2006 sur les émoluments de l’OFEN, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-1]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 12 mai 2021 sur le commerce de bois, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 306](https://fedlex.data.admin.ch/eli/oc/2021/306)).
+[^1-2]: Nouvelle expression selon l’annexe 2 ch. 5 de l’O du 22 nov. 2006 sur les émoluments de l’OFEN, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 2
 
@@ -112,7 +113,7 @@ Sont abrogées:
 - a. l’ordonnance du 29 novembre 1995 sur les émoluments de l’Office fédéral de l’environnement, des forêts et du paysage pour les prestations fournies et les décisions prises en relation avec l’ordonnance sur les substances[^7-1];
 - b. l’ordonnance du 15 octobre 2001 fixant les émoluments pour les prestations relevant de l’ordonnance sur la dissémination dans l’environnement[^7-2].
 
-[^7-1]: [[RO 1996 272](https://fedlex.data.admin.ch/eli/oc/1996/272_272_272), [2000 548](https://fedlex.data.admin.ch/eli/oc/2000/99)]
+[^7-1]: [[RO 1996 272](https://fedlex.data.admin.ch/eli/oc/1996/272_272_272); [2000 548](https://fedlex.data.admin.ch/eli/oc/2000/99)]
 [^7-2]: [[RO 2001 2877](https://fedlex.data.admin.ch/eli/oc/2001/425)]
 
 #### Art. 8
@@ -137,98 +138,115 @@ Les prestations qui ont été fournies avant l’entrée en vigueur de la modifi
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> août 2005.
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 (art. 4, al. 1, let. a et b)
 
 ## Taux d’émoluments fixes et tarif-cadre
 
-[^t-2]: Mise à jour par l’annexe 3 ch. II 3 de l’O du 22 juin 2005 sur les mouvements de déchets ([RO 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), l’annexe 2 ch. 5 de l’O du 22 nov. 2006 sur les émoluments de l’OFEN ([RO 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762), [2007 2267](https://fedlex.data.admin.ch/eli/oc/2007/318)), l’annexe 5 ch. 4 de l’O du 10 sept. 2008 sur la dissémination dans l’environnement ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)), l’annexe 5 ch. 8 de l’O du 9 mai 2012 ([RO 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)), l’annexe ch. II 1 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)), le ch. I 1 de l’O du 1<sup>er</sup> mai 2019 ([RO 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), le ch. I de l’O du 27 sept. 2019 ([RO 2019 3129](https://fedlex.data.admin.ch/eli/oc/2019/577)) et le ch. III de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^t-2]: Mise à jour par l’annexe 3 ch. II 3 de l’O du 22 juin 2005 sur les mouvements de déchets ([RO 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), l’annexe 2 ch. 5 de l’O du 22 nov. 2006 sur les émoluments de l’OFEN ([RO 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762), [2007 2267](https://fedlex.data.admin.ch/eli/oc/2007/318)), l’annexe 5 ch. 4 de l’O du 10 sept. 2008 sur la dissémination dans l’environnement ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)), l’annexe 5 ch. 8 de l’O du 9 mai 2012 ([RO 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)), l’annexe ch. II 1 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)), le ch. I 1 de l’O du 1<sup>er</sup> mai 2019 ([RO 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), le ch. I de l’O du 27 sept. 2019 ([RO 2019 3129](https://fedlex.data.admin.ch/eli/oc/2019/577)), le ch. III de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)) et l’annexe 3 ch. 1 de l’O du 12 mai 2021 sur le commerce de bois, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 306](https://fedlex.data.admin.ch/eli/oc/2021/306)).
 
 <table>
-<tr><th colspan="3"></th><th>francs</th></tr>
-<tr><td colspan="3">1. Prises de position en cas de consultations et approbations</td><td></td></tr>
-<tr><td colspan="3">Le tarif et le tarif-cadre des émoluments qui s’applique aux prises de position et aux approbations conformes aux actes législatifs énumérés ci-après sont les suivants:</td><td></td></tr>
-<tr><td colspan="3">a. prises de position nécessitant peu d’investissement</td><td>200</td></tr>
-<tr><td colspan="3">b. prises de position nécessitant un investissement important</td><td>2 000</td></tr>
-<tr><td colspan="3">c. prises de position nécessitant un investissement très important</td><td>selon l’investissement, mais au maximum 20 000</td></tr>
-<tr><td colspan="3">– loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^annexu1-lvlu1-1] (art. 3, al. 4)</td><td></td></tr>
-<tr><td colspan="3">– loi fédérale du 21 décembre 1948 sur l’aviation[^annexu1-lvlu1-2] (art. 42, al. 3)</td><td></td></tr>
-<tr><td colspan="3">– ordonnance du 14 novembre 1973 sur l’aviation[^annexu1-lvlu1-3] (art. 86, al. 1)</td><td></td></tr>
-<tr><td colspan="3">– loi fédérale du 7 octobre 1983 sur la protection de l’environnement (art. 41, al. 2)</td><td></td></tr>
-<tr><td colspan="3">– ordonnance du 19 octobre 1988 relative à l’étude de l’impact sur l’environnement[^annexu1-lvlu1-4] (art. 12, al. 2)</td><td></td></tr>
-<tr><td colspan="3">– loi fédérale du 24 janvier 1991 sur la protection des eaux (art. 35, al. 3 et 48, al. 1)</td><td></td></tr>
-<tr><td colspan="3">– loi fédérale du 21 mars 2003 sur le génie génétique (art. 21, al. 1)</td><td></td></tr>
-<tr><td colspan="3">– ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement[^annexu1-lvlu1-5] (art. 44, al. 1)</td><td></td></tr>
-<tr><td colspan="3">– ordonnance du 9 mai 2012 sur l’utilisation confinée[^annexu1-lvlu1-6] (art. 19, al. 1 et 2, art. 20, al. 1, et art. 21, al. 1)</td><td></td></tr>
-<tr><td colspan="3">– ordonnance du 18 mai 2005 sur les produits phytosanitaires[^annexu1-lvlu1-7] (art. 56, al. 1 à 4)</td><td></td></tr>
-<tr><td colspan="3">– ordonnance du 10 janvier 2001 sur les engrais[^annexu1-lvlu1-8] (art. 18, al. 3 et 30, al. 1 et 2)</td><td></td></tr>
-<tr><td colspan="3">– ordonnance du 26 mai 1999 sur les aliments pour animaux[^annexu1-lvlu1-9] (art. 26, al. 2 et 3)</td><td></td></tr>
-<tr><td colspan="3">– ordonnance du 27 juin 1995 sur les épizooties[^annexu1-lvlu1-10] (art. 279, al. 1)</td><td></td></tr>
-<tr><td colspan="3">– loi fédérale du 4 octobre 1991 sur les forêts[^annexu1-lvlu1-11] (art. 49, al. 2)</td><td></td></tr>
-<tr><td colspan="3">– loi fédérale du 21 juin 1991 sur la pêche[^annexu1-lvlu1-12] (art. 21, al. 4)</td><td></td></tr>
-<tr><td colspan="3">2. Révocation de décisions de subventionnement</td><td>500</td></tr>
-<tr><td colspan="3">2*a*. Actes administratifs selon l’ordonnance du 22 juin 2005 sur les mouvements de déchets[^annexu1-lvlu1-13]:</td><td></td></tr>
-<tr><td colspan="3">a. autorisation d’exporter des déchets</td><td>350 – 2 500</td></tr>
-<tr><td colspan="3">b. accord d’importer des déchets</td><td>350 – 2 500</td></tr>
-<tr><td colspan="3">c. fourniture de 50 documents de suivi électroniques ou plus par année civile, par document de suivi</td><td>0.40</td></tr>
-<tr><td colspan="3">3. Actes administratifs selon l’ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement:</td><td></td></tr>
-<tr><td colspan="3">a. autorisation de disséminations expérimentales</td><td>1 000 – 20 000</td></tr>
-<tr><td colspan="3">b. surveillance de disséminations expérimentales, par demi‑journée et par personne</td><td>600 – 900</td></tr>
-<tr><td colspan="3">c. autorisation de mise en circulation</td><td>2 000 – 40 000</td></tr>
-<tr><td colspan="3">d. décision relative à d’autres mesures</td><td>1 000 – 5 000</td></tr>
-<tr><td>3*a*.</td><td>Actes administratifs selon l’ordonnance du 31 octobre 2018 sur la santé des végétaux (OSaVé)[^annexu1-lvlu1-14]:</td><td colspan="2"></td></tr>
-<tr><td></td><td>a. Contrôles périodiques des conditions d’agrément pour le traitement ou le marquage de bois, de matériaux d’emballage en bois et d’autres objets en bois (art. 91, al. 1):</td><td colspan="2"></td></tr>
-<tr><td></td><td>1. forfait de déplacement</td><td colspan="2">100</td></tr>
-<tr><td></td><td>2. exécution des contrôles</td><td colspan="2">tarif horaire</td></tr>
-<tr><td></td><td>b. Contrôles dans le cadre d’une mesure de précaution (art. 10, al. 4) à l’occasion desquels une infraction aux dispositions de l’OSaVé a été constatée:</td><td colspan="2"></td></tr>
-<tr><td></td><td>1. forfait de déplacement</td><td colspan="2">100</td></tr>
-<tr><td></td><td>2. exécution des contrôles</td><td colspan="2">tarif horaire</td></tr>
-<tr><td></td><td>c. Contrôles de matériaux d’emballage en bois non traité soumis à l’obligation de déclaration (accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne relatif aux échanges de produits agricoles[^annexu1-lvlu1-15]):</td><td colspan="2"></td></tr>
-<tr><td></td><td>1. forfait de déplacement</td><td colspan="2">100</td></tr>
-<tr><td></td><td>2. émolument de base, par envoi</td><td colspan="2">50</td></tr>
-<tr><td></td><td>3. décision en cas de matériaux d’emballage non conformes</td><td colspan="2">200</td></tr>
-<tr><td></td><td>d. Contrôles par échantillonnage des exigences relatives aux matériaux d’emballage en bois non traité (art. 35) à l’occasion desquels une infraction aux dispositions de l’OSaVé a été constatée:</td><td colspan="2"></td></tr>
-<tr><td></td><td>1. forfait de déplacement</td><td colspan="2">100</td></tr>
-<tr><td></td><td>2. émolument de base, par envoi</td><td colspan="2">50</td></tr>
-<tr><td></td><td>3. décision en cas de matériaux d’emballage non conformes</td><td colspan="2">200</td></tr>
-<tr><td></td><td>e. Reconnaissance des stations de quarantaine et structures de confinement (art. 53):</td><td colspan="2"></td></tr>
-<tr><td></td><td>1. forfait de déplacement</td><td colspan="2">100</td></tr>
-<tr><td></td><td>2. émolument de base</td><td colspan="2">50</td></tr>
-<tr><td></td><td>3. Réception de la station de quarantaine, de la structure de confinement ou de l’entreprise du destinataire agréé</td><td colspan="2">tarif horaire</td></tr>
-<tr><td></td><td>f. Délivrance d’un certificat phytosanitaire d’exportation ou de réexportation ou d’un certificat de préexportation (art. 57 à 59):</td><td colspan="2"></td></tr>
-<tr><td></td><td>1. forfait de déplacement</td><td colspan="2">100</td></tr>
-<tr><td></td><td>2. émolument de base</td><td colspan="2">50</td></tr>
-<tr><td></td><td>3. examens supplémentaires administratifs et techniques afin de compléter la demande</td><td colspan="2">tarif horaire</td></tr>
-<tr><td></td><td>4. exécution des contrôles</td><td colspan="2">tarif horaire</td></tr>
-<tr><td></td><td>g. Délivrance d’une autorisation exceptionnelle:</td><td colspan="2"></td></tr>
-<tr><td></td><td>1. pour la manipulation d’organismes de quarantaine en dehors d’un milieu confiné (art. 7 et 27, al. 2)</td><td colspan="2">50</td></tr>
-<tr><td></td><td>2. pour l’importation de marchandises (art. 37)</td><td colspan="2">50</td></tr>
-<tr><td></td><td>3. pour le transfert d’une marchandise dans une zone protégée (art. 42)</td><td colspan="2">50</td></tr>
-<tr><td></td><td>4. pour les marchandises qui sont mises en circulation à des fins de recherche et de préservation de ressources (art. 62)</td><td colspan="2">50</td></tr>
-<tr><td></td><td>h. agrément pour les entreprises qui traitent ou marquent du bois, des matériaux d’emballage en bois et d’autres objets en bois (art. 89 et 90)</td><td colspan="2">50</td></tr>
-<tr><td></td><td>i. correspondance officielle relative aux exigences phytosanitaires</td><td colspan="2">50</td></tr>
-<tr><td colspan="3">4. Contrôle de la gestion du matériel forestier de reproduction selon l’ordonnance du 30 novembre 1992 sur les forêts[^annexu1-lvlu1-16]</td><td>200 – 1 000</td></tr>
-<tr><td colspan="3">5. Autorisations selon l’ordonnance du 29 février 1988 sur la chasse[^annexu1-lvlu1-17]</td><td>500</td></tr>
-<tr><td colspan="3">6. Autorisation pour l’introduction de poissons et d’écrevisses étrangers au pays ou à la région selon l’ordonnance du 24 novembre 1993 relative à la loi fédérale sur la pêche[^annexu1-lvlu1-18]</td><td>500</td></tr>
-<tr><td colspan="3">7. Séances d’information et de formation continue, par personne et par jour</td><td>200</td></tr>
-<tr><th colspan="3"></th><th>francs</th></tr>
-<tr><td colspan="3">8. Travaux administratifs dans le domaine de l’hydrologie (art. 57 de la LF du 24 janv. 1991 sur la protection des eaux[^annexu1-lvlu1-19], art. 13 de la LF du 21 juin 1991 sur l’aménagement des cours d’eau[^annexu1-lvlu1-20] et art. 26 de l’O du 2 nov. 1994 sur l’aménagement des cours d’eau[^annexu1-lvlu1-21]):</td><td></td></tr>
-<tr><td colspan="3">8.1 Fourniture de données directement de stations de mesure</td><td></td></tr>
-<tr><td colspan="3">8.1.1 Installation d’annonce en cas de crue (unique)</td><td></td></tr>
-<tr><td colspan="3">– lorsqu’un appareil d’annonce existe déjà</td><td>500</td></tr>
-<tr><td colspan="3">– lorsqu’un appareil d’annonce doit être installé</td><td>1500</td></tr>
-<tr><td colspan="3">8.1.2 Annonce en cas de crue: abonnement par station et par an (y c. administration de trois critères déclencheurs et de trois récepteurs d’annonce)</td><td>800</td></tr>
-<tr><td colspan="3">8.1.3 Utilisation en commun de stations de mesure avec matériel du client et fourniture du signal de mesure</td><td></td></tr>
-<tr><td colspan="3">– fourniture par station et par an pour un capteur</td><td>1100</td></tr>
-<tr><td colspan="3">– pour chaque capteur supplémentaire par station et par an</td><td>500</td></tr>
-<tr><td colspan="3">8.2 Jaugeages</td><td></td></tr>
-<tr><td colspan="3">8.2.1 Réalisation de jaugeages en fonction de la durée et supplément par jaugeage</td><td></td></tr>
-<tr><td colspan="3">– matériel de jaugeage, selon méthode</td><td>130–800</td></tr>
-<tr><td colspan="3">– évaluation et tableau des résultats, selon méthode</td><td>160–450</td></tr>
-<tr><td colspan="3">8.2.2 Supplément par jour</td><td></td></tr>
-<tr><td colspan="3">– remorque de jaugeage complète</td><td>200</td></tr>
-<tr><td colspan="3">9. Examen de la demande de cautionnement en vertu de l’ordonnance du 30 novembre 2012 sur le CO<sub>2</sub>[^annexu1-lvlu1-22]</td><td>3000</td></tr>
+<tr><th></th><th>francs</th></tr>
+<tr><td>1. Prises de position en cas de consultations et approbations</td><td></td></tr>
+<tr><td>Le tarif et le tarif-cadre des émoluments qui s’applique aux prises de position et aux approbations conformes aux actes législatifs énumérés ci-après sont les suivants:</td><td></td></tr>
+<tr><td>a. prises de position nécessitant peu d’investissement</td><td>200</td></tr>
+<tr><td>b. prises de position nécessitant un investissement important</td><td>2000</td></tr>
+<tr><td>c. prises de position nécessitant un investissement très important</td><td>selon l’investissement, mais au maximum 20 000</td></tr>
+<tr><td>– loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^annexu1-lvlu1-1] (art. 3, al. 4)</td><td></td></tr>
+<tr><td>– loi fédérale du 21 décembre 1948 sur l’aviation[^annexu1-lvlu1-2] (art. 42, al. 3)</td><td></td></tr>
+<tr><td>– ordonnance du 14 novembre 1973 sur l’aviation[^annexu1-lvlu1-3] (art. 86, al. 1)</td><td></td></tr>
+<tr><td>– loi fédérale du 7 octobre 1983 sur la protection de l’environnement (art. 41, al. 2)</td><td></td></tr>
+<tr><td>– ordonnance du 19 octobre 1988 relative à l’étude de l’impact sur l’environnement[^annexu1-lvlu1-4] (art. 12, al. 2)</td><td></td></tr>
+<tr><td>– loi fédérale du 24 janvier 1991 sur la protection des eaux (art. 35, al. 3 et 48, al. 1)</td><td></td></tr>
+<tr><td>– loi fédérale du 21 mars 2003 sur le génie génétique (art. 21, al. 1)</td><td></td></tr>
+<tr><td>– ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement[^annexu1-lvlu1-5] (art. 44, al. 1)</td><td></td></tr>
+<tr><td>– ordonnance du 9 mai 2012 sur l’utilisation confinée[^annexu1-lvlu1-6] (art. 19, al. 1 et 2, art. 20, al. 1, et art. 21, al. 1)</td><td></td></tr>
+<tr><td>– ordonnance du 18 mai 2005 sur les produits phytosanitaires[^annexu1-lvlu1-7] (art. 56, al. 1 à 4)</td><td></td></tr>
+<tr><td>– ordonnance du 10 janvier 2001 sur les engrais[^annexu1-lvlu1-8] (art. 18, al. 3 et 30, al. 1 et 2)</td><td></td></tr>
+<tr><td>– ordonnance du 26 mai 1999 sur les aliments pour animaux[^annexu1-lvlu1-9] (art. 26, al. 2 et 3)</td><td></td></tr>
+<tr><td>– ordonnance du 27 juin 1995 sur les épizooties[^annexu1-lvlu1-10] (art. 279, al. 1)</td><td></td></tr>
+<tr><td>– loi fédérale du 4 octobre 1991 sur les forêts[^annexu1-lvlu1-11] (art. 49, al. 2)</td><td></td></tr>
+<tr><td>– loi fédérale du 21 juin 1991 sur la pêche[^annexu1-lvlu1-12] (art. 21, al. 4)</td><td></td></tr>
+<tr><td>2. Révocation de décisions de subventionnement</td><td>500</td></tr>
+<tr><td>2*a*. Actes administratifs selon l’ordonnance du 22 juin 2005 sur les mouvements de déchets[^annexu1-lvlu1-13]:</td><td></td></tr>
+<tr><td>a. autorisation d’exporter des déchets</td><td>350–2500</td></tr>
+<tr><td>b. accord d’importer des déchets</td><td>350–2500</td></tr>
+<tr><td>c. fourniture de 50 documents de suivi électroniques ou plus par année civile, par document de suivi</td><td>0.40</td></tr>
+<tr><td>3. Actes administratifs selon l’ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement:</td><td></td></tr>
+<tr><td>a. autorisation de disséminations expérimentales</td><td>1000–20 000</td></tr>
+<tr><td>b. surveillance de disséminations expérimentales, par demi‑journée et par personne</td><td>600–900</td></tr>
+<tr><td>c. autorisation de mise en circulation</td><td>2000–40 000</td></tr>
+<tr><td>d. décision relative à d’autres mesures</td><td>1000–5000</td></tr>
+<tr><td>3*a*. Actes administratifs selon l’ordonnance du 31 octobre 2018 sur la santé des végétaux (OSaVé)[^annexu1-lvlu1-14]:</td><td></td></tr>
+<tr><td>a. Contrôles périodiques des conditions d’agrément pour le traitement ou le marquage de bois, de matériaux d’emballage en bois et d’autres objets en bois (art. 91, al. 1):</td><td></td></tr>
+<tr><td>1. forfait de déplacement</td><td>100</td></tr>
+<tr><td>2. exécution des contrôles</td><td>tarif horaire</td></tr>
+<tr><td>b. Contrôles dans le cadre d’une mesure de précaution (art. 10, al. 4) à l’occasion desquels une infraction aux dispositions de l’OSaVé a été constatée:</td><td></td></tr>
+<tr><td>1. forfait de déplacement</td><td>100</td></tr>
+<tr><td>2. exécution des contrôles</td><td>tarif horaire</td></tr>
+<tr><td>c. Contrôles de matériaux d’emballage en bois non traité soumis à l’obligation de déclaration (accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne relatif aux échanges de produits agricoles[^annexu1-lvlu1-15]):</td><td></td></tr>
+<tr><td>1. forfait de déplacement</td><td>100</td></tr>
+<tr><td>2. émolument de base, par envoi</td><td>50</td></tr>
+<tr><td>3. décision en cas de matériaux d’emballage non conformes</td><td>200</td></tr>
+<tr><td>d. Contrôles par échantillonnage des exigences relatives aux matériaux d’emballage en bois non traité (art. 35) à l’occasion desquels une infraction aux dispositions de l’OSaVé a été constatée:</td><td></td></tr>
+<tr><td>1. forfait de déplacement</td><td>100</td></tr>
+<tr><td>2. émolument de base, par envoi</td><td>50</td></tr>
+<tr><td>3. décision en cas de matériaux d’emballage non conformes</td><td>200</td></tr>
+<tr><td>e. Reconnaissance des stations de quarantaine et structures de confinement (art. 53):</td><td></td></tr>
+<tr><td>1. forfait de déplacement</td><td>100</td></tr>
+<tr><td>2. émolument de base</td><td>50</td></tr>
+<tr><td>3. Réception de la station de quarantaine, de la structure de confinement ou de l’entreprise du destinataire agréé</td><td>tarif horaire</td></tr>
+<tr><td>f. Délivrance d’un certificat phytosanitaire d’exportation ou de réexportation ou d’un certificat de préexportation (art. 57 à 59):</td><td></td></tr>
+<tr><td>1. forfait de déplacement</td><td>100</td></tr>
+<tr><td>2. émolument de base</td><td>50</td></tr>
+<tr><td>3. examens supplémentaires administratifs et techniques afin de compléter la demande</td><td>tarif horaire</td></tr>
+<tr><td>4. exécution des contrôles</td><td>tarif horaire</td></tr>
+<tr><td>g. Délivrance d’une autorisation exceptionnelle:</td><td></td></tr>
+<tr><td>1. pour la manipulation d’organismes de quarantaine en dehors d’un milieu confiné (art. 7 et 27, al. 2)</td><td>50</td></tr>
+<tr><td>2. pour l’importation de marchandises (art. 37)</td><td>50</td></tr>
+<tr><td>3. pour le transfert d’une marchandise dans une zone protégée (art. 42)</td><td>50</td></tr>
+<tr><td>4. pour les marchandises qui sont mises en circulation à des fins de recherche et de préservation de ressources (art. 62)</td><td>50</td></tr>
+<tr><td>h. agrément pour les entreprises qui traitent ou marquent du bois, des matériaux d’emballage en bois et d’autres objets en bois (art. 89 et 90)</td><td>50</td></tr>
+<tr><td>i. correspondance officielle relative aux exigences phytosanitaires</td><td>50</td></tr>
+<tr><td>4. Contrôle de la gestion du matériel forestier de reproduction selon l’ordonnance du 30 novembre 1992 sur les forêts[^annexu1-lvlu1-16]</td><td>200–1000</td></tr>
+<tr><td>5. Autorisations selon l’ordonnance du 29 février 1988 sur la chasse[^annexu1-lvlu1-17]</td><td>500</td></tr>
+<tr><td>6. Autorisation pour l’introduction de poissons et d’écrevisses étrangers au pays ou à la région selon l’ordonnance du 24 novembre 1993 relative à la loi fédérale sur la pêche[^annexu1-lvlu1-18]</td><td>500</td></tr>
+<tr><td>7. Séances d’information et de formation continue, par personne et par jour</td><td>200</td></tr>
+<tr><td>8. Travaux administratifs dans le domaine de l’hydrologie (art. 57 de la LF du 24 janv. 1991 sur la protection des eaux[^annexu1-lvlu1-19], art. 13 de la LF du 21 juin 1991 sur l’aménagement des cours d’eau[^annexu1-lvlu1-20] et art. 26 de l’O du 2 nov. 1994 sur l’aménagement des cours d’eau[^annexu1-lvlu1-21]):</td><td></td></tr>
+<tr><td>8.1 Fourniture de données directement de stations de mesure</td><td></td></tr>
+<tr><td>8.1.1 Installation d’annonce en cas de crue (unique)</td><td></td></tr>
+<tr><td>– lorsqu’un appareil d’annonce existe déjà</td><td>500</td></tr>
+<tr><td>– lorsqu’un appareil d’annonce doit être installé</td><td>1500</td></tr>
+<tr><td>8.1.2 Annonce en cas de crue: abonnement par station et par an (y c. administration de trois critères déclencheurs et de trois récepteurs d’annonce)</td><td>800</td></tr>
+<tr><td>8.1.3 Utilisation en commun de stations de mesure avec matériel du client et fourniture du signal de mesure</td><td></td></tr>
+<tr><td>– fourniture par station et par an pour un capteur</td><td>1100</td></tr>
+<tr><td>– pour chaque capteur supplémentaire par station et par an</td><td>500</td></tr>
+<tr><td>8.2 Jaugeages</td><td></td></tr>
+<tr><td>8.2.1 Réalisation de jaugeages en fonction de la durée et supplément par jaugeage</td><td></td></tr>
+<tr><td>– matériel de jaugeage, selon méthode</td><td>130–800</td></tr>
+<tr><td>– évaluation et tableau des résultats, selon méthode</td><td>160–450</td></tr>
+<tr><td>8.2.2 Supplément par jour</td><td></td></tr>
+<tr><td>– remorque de jaugeage complète</td><td>200</td></tr>
+<tr><td>9. Examen de la demande de cautionnement en vertu de l’ordonnance du 30 novembre 2012 sur le CO<sub>2</sub>[^annexu1-lvlu1-22]</td><td>3000</td></tr>
+<tr><td>10. Actes administratifs et contrôles selon l’ordonnance du 12 mai 2021 sur le commerce du bois (OCBo)[^annexu1-lvlu1-23]:</td><td></td></tr>
+<tr><td>a. Contrôles de l’utilisation du système de diligence par les opérateurs (art. 15, al. 2, OCBo):</td><td></td></tr>
+<tr><td>1. forfait de déplacement</td><td>100</td></tr>
+<tr><td>2. exécution des contrôles du système de diligence</td><td>tarif horaire</td></tr>
+<tr><td>3. investigations concernant le bois et les produits dérivés du bois</td><td>tarif horaire</td></tr>
+<tr><td>4. décision en cas de constat d’infraction</td><td>tarif horaire, mais au maximum 5000</td></tr>
+<tr><td>5. coûts d’entreposage et de transport en cas de saisie ou de confiscation</td><td>dépenses effectives</td></tr>
+<tr><td>b. Contrôles du respect par les commerçants de l’obligation de traçabilité (art. 15, al. 2, OCBo):</td><td></td></tr>
+<tr><td>1. forfait de déplacement</td><td>100</td></tr>
+<tr><td>2. investigations concernant les livraisons</td><td>tarif horaire</td></tr>
+<tr><td>3. décision en cas de constat d’infraction</td><td>tarif horaire, mais au maximum 2000</td></tr>
+<tr><td>c. Services d’inspection (art. 11 et 15, al. 2, OCBo)</td><td></td></tr>
+<tr><td>1. reconnaissance d’un service d’inspection</td><td>2000–15 000</td></tr>
+<tr><td>2. contrôle d’un service d’inspection reconnu</td><td></td></tr>
+<tr><td>– forfait de déplacement</td><td>100</td></tr>
+<tr><td>– exécution du contrôle</td><td>tarif horaire</td></tr>
+<tr><td>– décision en cas de constat d’infraction</td><td>tarif horaire, mais au maximum 2000</td></tr>
+<tr><td>3. retrait de la reconnaissance</td><td>tarif horaire, mais au maximum 2000</td></tr>
 </table>
 
 [^annexu1-lvlu1-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
@@ -237,9 +255,9 @@ Annexe*[^t-2]*
 [^annexu1-lvlu1-4]: [RS 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
 [^annexu1-lvlu1-5]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 [^annexu1-lvlu1-6]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
-[^annexu1-lvlu1-7]: **[**[RO 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481)[4097](https://fedlex.data.admin.ch/eli/oc/2005/541)[4479](https://fedlex.data.admin.ch/eli/oc/2005/579)[5211](https://fedlex.data.admin.ch/eli/oc/2005/719), [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)ch. III [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 54 [4541](https://fedlex.data.admin.ch/eli/oc/2007/641)[6291](https://fedlex.data.admin.ch/eli/oc/2007/834), [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 11 [5271](https://fedlex.data.admin.ch/eli/oc/2008/742), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)annexe ch. 3 [2845](https://fedlex.data.admin.ch/eli/oc/2009/373). [RO 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)art. 84]. Voir actuellement l’O du 12 mai 2010 ([RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
+[^annexu1-lvlu1-7]: **[**[RO 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481), [4097](https://fedlex.data.admin.ch/eli/oc/2005/541), [4479](https://fedlex.data.admin.ch/eli/oc/2005/579), [5211](https://fedlex.data.admin.ch/eli/oc/2005/719); [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)ch. III, [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 54, [4541](https://fedlex.data.admin.ch/eli/oc/2007/641), [6291](https://fedlex.data.admin.ch/eli/oc/2007/834); [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 11, [5271](https://fedlex.data.admin.ch/eli/oc/2008/742); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)annexe ch. 3, [2845](https://fedlex.data.admin.ch/eli/oc/2009/373). [RO 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)art. 84]. Voir actuellement l’O du 12 mai 2010 ([RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
 [^annexu1-lvlu1-8]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^annexu1-lvlu1-9]: [[RO 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)annexe 5 ch. 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)ch. II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)ch. II 19 [5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [RO 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)art. 77]. Voir actuellement l’O du 26 oct. 2011 ([RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772))
+[^annexu1-lvlu1-9]: [[RO 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)annexe 5 ch. 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)ch. II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)ch. II 19, [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [RO 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)art. 77]. Voir actuellement l’O du 26 oct. 2011 ([RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772))
 [^annexu1-lvlu1-10]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 [^annexu1-lvlu1-11]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
 [^annexu1-lvlu1-12]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
@@ -253,3 +271,4 @@ Annexe*[^t-2]*
 [^annexu1-lvlu1-20]: [RS 721.100](https://fedlex.data.admin.ch/eli/cc/1993/234_234_234)
 [^annexu1-lvlu1-21]: [RS 721.100.1](https://fedlex.data.admin.ch/eli/cc/1994/2502_2502_2502)
 [^annexu1-lvlu1-22]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^annexu1-lvlu1-23]: [RS 814.021](https://fedlex.data.admin.ch/eli/cc/2021/306)
