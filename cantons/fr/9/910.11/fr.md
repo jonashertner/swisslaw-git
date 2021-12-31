@@ -4,13 +4,13 @@ number: "910.11"
 title: "Règlement sur l'agriculture"
 short: RAgri
 language: fr
-version: 2020-05-01
-valid_until: 2021-12-31
-version_adopted: 2020-04-28
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-14
 adopted: 2007-03-27
 in_force: 2007-03-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/910.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6503/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7094/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Agriculture – R
 
 (RAgri)
 
-du 27.03.2007 (version entrée en vigueur le 01.05.2020)
+du 27.03.2007 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -54,19 +54,19 @@ Arrête:
 
 <sup>1</sup> Dans le présent règlement, sont dénommés:
 
-- a) AOP/IGP: l'ordonnance fédérale du 28 mai 1997 concernant la protection des appellations d'origine et des indications géographiques des produits agricoles et des produits agricoles transformés (ordonnance sur les AOP et les IGP)
+- a) AOP/IGP: l'ordonnance fédérale du 28 mai 1997 concernant la protection des appellations d'origine et des indications géographiques des produits agricoles, des produits agricoles transformés, des produits sylvicoles et des produits sylvicoles transformés (ordonnance sur les AOP et les IGP)
 - b) LAgr: la loi fédérale du 29 avril 1998 sur l'agriculture
 - c) LAgri: la loi du 3 octobre 2006 sur l'agriculture
-- d) LIAG: la loi du 23 juin 2006 sur l'Institut agricole de l'Etat de Fribourg
+- d) LGn: la loi du 23 juin 2006 sur Grangeneuve
 - e) OAS: l'ordonnance fédérale du 7 décembre 1998 sur les améliorations structurelles dans l'agriculture (ordonnance sur les améliorations structurelles)
 - f) OBB: l'ordonnance fédérale du 26 novembre 2003 sur les marchés du bétail de boucherie et de la viande (ordonnance sur le bétail de boucherie)
 - g) OMAS: l'ordonnance fédérale du 26 novembre 2003 sur les mesures d'accompagnement social dans l'agriculture
 - h) OPPr: l'ordonnance fédérale du 23 novembre 2005 sur la production primaire
-- i) OQL: l'ordonnance fédérale du 23 novembre 2005 sur la qualité du lait
+- i) OCL: l'ordonnance fédérale du 20 octobre 2010 sur le contrôle du lait
 - j) OTerm: l'ordonnance fédérale du 7 décembre 1998 sur la terminologie agricole et la reconnaissance des formes d'exploitation (ordonnance sur la terminologie agricole)
 - k) Direction: la Direction des institutions, de l'agriculture et des forêts
-- l) Service: le Service de l'agriculture
-- m) IAG: l'Institut agricole de l'Etat de Fribourg, à Grangeneuve
+- l) …
+- m) …
 - n) OFAG: l'Office fédéral de l'agriculture.
 
 #### Art. 3
@@ -85,9 +85,9 @@ Arrête:
 
 #### Art. 4
 
-**Assurance de la qualité (art. 11 LAgr et 12 OQL)**
+**Assurance de la qualité (art. 11 LAgr)**
 
-<sup>1</sup> Les tâches en relation avec l'assurance de la qualité sont en principe exécutées par l'IAG.
+<sup>1</sup> Les tâches en relation avec l'assurance de la qualité sont en principe exécutées par Grangeneuve.
 
 <sup>2</sup> Les contrôles du respect des règles d'hygiène dans les unités d'élevage et des exigences en matière de protection des animaux doivent être coordonnés avec les autres contrôles sur l'exploitation, conformément aux principes fixés à l'article 42.
 
@@ -129,9 +129,9 @@ Arrête:
 
 #### Art. 9
 
-**Oléagineux, légumineuses à graines et plantes à fibres (art. 56, 57 et 59 LAgr)**
+**Cultures particulières (art. 54 et 55 LAgr)**
 
-<sup>1</sup> Les demandes de contributions à la surface et à la transformation dans la culture des champs font l'objet de la procédure prévue en matière de paiements directs et de contributions, conformément aux articles 13 et suivants du présent règlement.
+<sup>1</sup> Les demandes de contributions à des cultures particulières et au supplément pour les céréales font l'objet de la procédure prévue en matière de paiements directs et de contributions, conformément aux articles 13 et suivants du présent règlement.
 
 ### 2.1.4 Economie vitivinicole (art. 60ss LAgr)
 
@@ -153,7 +153,7 @@ Arrête:
 
 **Autorités et compétences – Unité administrative**
 
-<sup>1</sup> Le Service exerce toutes les activités de nature administrative liées à l'exécution des tâches et des compétences attribuées à la Direction.
+<sup>1</sup> Grangeneuve exerce toutes les activités de nature administrative liées à l'exécution des tâches et des compétences attribuées à la Direction.
 
 <sup>2</sup> Il est responsable, en particulier, de la tenue et de la mise à jour des divers registres, notamment du cadastre viticole, de l'application des mesures fédérales d'aide en faveur de la viticulture ainsi que de l'organisation et de la surveillance des contrôles de la vendange.
 
@@ -165,7 +165,7 @@ Arrête:
 
 <sup>1</sup> Il est institué une Commission de viticulture composée de sept membres, nommés par le Conseil d'Etat, dont deux représentent les associations professionnelles des vignerons et encaveurs pour chacun des vignobles du Vully et de Cheyres/Font.
 
-<sup>2</sup> La Commission est présidée par le conseiller d'Etat ou la conseillère d'Etat en charge de la Direction. Le secrétariat est assuré par le Service.
+<sup>2</sup> La Commission est présidée par le conseiller d'Etat ou la conseillère d'Etat en charge de la Direction. Le secrétariat est assuré par Grangeneuve.
 
 <sup>3</sup> Les commissaires viticoles participent aux séances de la Commission avec voix consultative.
 
@@ -173,17 +173,19 @@ Arrête:
 
 <sup>5</sup> Pour le surplus, les dispositions de la législation sur la durée des fonctions publiques accessoires, de même que celles qui sont fixées dans le règlement sur l'organisation et le fonctionnement des commissions de l'Etat, sont applicables.
 
-### 2.2 Paiements directs et contributions (art. 56ss et 70ss LAgr et 7 LAgri)
+### 2.2 Paiements directs et contributions (art. 54ss et 70ss LAgr et 7 LAgri)
 
 #### Art. 13
 
 **Inscriptions et conditions**
 
-<sup>1</sup> Pour bénéficier des paiements directs et des contributions prévus par le droit fédéral, l'exploitant ou l'exploitante doit en faire la demande au Service au moyen des formules ad hoc, dûment remplies et signées.
+<sup>1</sup> Pour bénéficier des paiements directs et des contributions prévus par le droit fédéral et cantonal, l'exploitant ou l'exploitante doit en faire la demande à Grangeneuve au moyen des formules ad hoc, dûment remplies.
 
-<sup>2</sup> Le Service fixe les délais et modalités d'inscription pour les demandes de paiements directs et de contributions.
+<sup>2</sup> Grangeneuve fixe les délais et modalités d'inscription pour les demandes de paiements directs et de contributions.
 
 <sup>3</sup> Il détermine en outre, au besoin, les exigences laissées à la compétence du canton par le droit fédéral dans le cadre des paiements directs et des contributions.
+
+<sup>4</sup> Il octroie la participation cantonale exigée par le droit fédéral en matière de paiements directs et de contributions.
 
 #### Art. 14
 
@@ -199,11 +201,11 @@ Arrête:
 
 - a) des milieux de protection de la nature (deux membres);
 - b) des milieux agricoles (deux membres);
-- c) du Service (un membre);
+- c) …
 - d) du Service des forêts et de la nature (un membre);
-- e) de l'IAG (un membre).
+- e) de Grangeneuve (deux membres).
 
-<sup>2</sup> La Commission est présidée par le membre représentant l'IAG, qui en assure également le secrétariat.
+<sup>2</sup> La Commission est présidée par un membre représentant Grangeneuve, qui en assure également le secrétariat.
 
 <sup>3</sup> En sa qualité d'organe consultatif, la Commission est appelée à examiner et à préaviser les projets de mise en réseau.
 
@@ -213,21 +215,21 @@ Arrête:
 
 **Contributions à la biodiversité (art. 73 LAgr) – Approbation des projets de mise en réseau**
 
-<sup>1</sup> Les projets de mise en réseau font l'objet d'une approbation du Service, sur le préavis de la Commission.
+<sup>1</sup> Les projets de mise en réseau font l'objet d'une approbation de Grangeneuve, sur le préavis de la Commission.
 
-<sup>2</sup> Le refus d'approbation peut faire l'objet d'une réclamation auprès du Service, conformément à l'article 41 LAgri.
+<sup>2</sup> Le refus d'approbation peut faire l'objet d'une réclamation, conformément à l'article 41 LAgri.
 
 #### Art. 15
 
 **Contributions d'estivage (art. 77 al. 3 LAgr)**
 
-<sup>1</sup> Les contributions d'estivage ne sont versées qu'aux exploitants et exploitantes à titre personnel.
+<sup>1</sup> …
 
 #### Art. 16
 
 **Contrôles – Compétences**
 
-<sup>1</sup> Le Service est responsable de l'exécution des contrôles.
+<sup>1</sup> Grangeneuve est responsable de l'exécution des contrôles.
 
 <sup>2</sup> Il dispose des préposés locaux à l'agriculture et peut requérir l'appui des autres unités administratives de l'Etat pour assurer l'exécution de certains contrôles spécialisés.
 
@@ -243,17 +245,17 @@ Arrête:
 
 **Contrôles – Surveillance des contrôles**
 
-<sup>1</sup> Le Service surveille le bon déroulement des contrôles délégués, notamment en procédant par sondage à des contrôles subséquents sur les exploitations.
+<sup>1</sup> Grangeneuve surveille le bon déroulement des contrôles délégués, notamment en procédant par sondage à des contrôles subséquents sur les exploitations.
 
 #### Art. 19
 
-**Décision du Service**
+**Décision**
 
-<sup>1</sup> Le Service détermine si le requérant ou la requérante a droit aux paiements directs ou à la contribution requise et, le cas échéant, en fixe le montant.
+<sup>1</sup> Grangeneuve détermine si le requérant ou la requérante a droit aux paiements directs ou à la contribution requise et, le cas échéant, en fixe le montant.
 
 <sup>2</sup> …
 
-<sup>3</sup> En cas de demande abusive, ou lorsque le traitement de la demande a nécessité des démarches administratives particulières, du fait notamment d'indications inexactes ou incomplètes dans les formules ad hoc, ou de retard dans le dépôt de celles-ci, le Service peut percevoir un émolument allant jusqu'à 500 francs.
+<sup>3</sup> En cas de demande abusive, ou lorsque le traitement de la demande a nécessité des démarches administratives particulières, du fait notamment d'indications inexactes ou incomplètes dans les formules ad hoc, ou de retard dans le dépôt de celles-ci, un émolument allant jusqu'à 500 francs peut être perçu.
 
 ### 2.3 Mesures d'accompagnement social (art. 78ss LAgr et 39 LAgri)
 
@@ -263,28 +265,17 @@ Arrête:
 
 <sup>1</sup> L'aide aux exploitations paysannes prévue par la législation fédérale est allouée par la Direction.
 
-<sup>2</sup> La Direction peut déléguer au Service la compétence de statuer sur ces aides lorsque leur montant n'excède pas 50'000 francs.
+<sup>2</sup> La Direction peut déléguer à Grangeneuve la compétence de statuer sur ces aides lorsque leur montant n'excède pas 50'000 francs.
 
 #### Art. 21
 
 **Aide aux exploitations paysannes (art. 78ss LAgr et 39 al. 2 LAgri) – Procédure**
 
-<sup>1</sup> Les demandes d'aide sont adressées au Service, qui est chargé d'analyser toutes les questions en rapport avec ces aides, d'établir les faits et de formuler, le cas échéant, une proposition de décision à la Direction.
+<sup>1</sup> Les demandes d'aide sont adressées à Grangeneuve, qui est chargé d'analyser toutes les questions en rapport avec ces aides, d'établir les faits et de formuler, le cas échéant, une proposition de décision à la Direction.
 
 #### Art. 22
 
-**Aide fédérale à la reconversion professionnelle des agriculteurs (art. 86a LAgr et OMAS)**
-
-<sup>1</sup> Le Service reçoit et instruit les demandes des agriculteurs et agricultrices domiciliés dans le canton de Fribourg, effectue le suivi des dossiers en cours et communique les données utiles à l'OFAG.
-
-<sup>2</sup> Il est notamment compétent pour:
-
-- a) recevoir les demandes d'aide et adopter le préavis du canton à l'intention de l'OFAG;
-- b) procéder au versement des aides en faveur des bénéficiaires;
-- c) rendre une décision de réduction ou de refus du versement ainsi que de remboursement des aides;
-- d) requérir l'inscription de la mention au registre foncier;
-- e) contrôler la cession d'exploitation durant une période de vingt ans comme condition pour l'octroi des aides à la reconversion professionnelle;
-- f) le cas échéant, déduire de l'octroi des paiements directs le remboursement des aides.
+**…**
 
 ### 2.4 Amélioration des structures (art. 87ss LAgr)
 
@@ -302,17 +293,17 @@ Arrête:
 
 **Procédure – Demande**
 
-<sup>1</sup> Les demandes de crédits d'investissements sont adressées au Service de manière qu'elles puissent être examinées avant la mise en chantier (travaux) ou l'acquisition projetée.
+<sup>1</sup> Les demandes de crédits d'investissements sont adressées à Grangeneuve de manière qu'elles puissent être examinées avant la mise en chantier (travaux) ou l'acquisition projetée.
 
-<sup>2</sup> Le Service examine si les travaux envisagés ou l'acquisition envisagée sont susceptibles d'être mis au bénéfice d'un crédit d'investissements. Dans l'affirmative, il se fait produire un dossier dont il précise le contenu.
+<sup>2</sup> Grangeneuve examine si les travaux envisagés ou l'acquisition envisagée sont susceptibles d'être mis au bénéfice d'un crédit d'investissements. Dans l'affirmative, il se fait produire un dossier dont il précise le contenu.
 
-<sup>3</sup> Le Service informe le requérant ou la requérante si la demande de crédits d'investissements ne satisfait pas aux exigences légales.
+<sup>3</sup> Il informe le requérant ou la requérante si la demande de crédits d'investissements ne satisfait pas aux exigences légales.
 
 #### Art. 25
 
 **Procédure – Octroi des crédits d'investissements et début des travaux ou acquisition anticipés**
 
-<sup>1</sup> Il est interdit de commencer les travaux ou de faire des acquisitions avant la décision d'octroi des crédits d'investissements, sauf autorisation expresse du Service.
+<sup>1</sup> Il est interdit de commencer les travaux ou de faire des acquisitions avant la décision d'octroi des crédits d'investissements, sauf autorisation expresse de Grangeneuve.
 
 <sup>2</sup> Cette autorisation anticipée ne préjuge pas l'octroi des crédits d'investissements.
 
@@ -322,7 +313,7 @@ Arrête:
 
 <sup>1</sup> Les crédits d'investissements sont, si possible, consentis contre des garanties réelles.
 
-<sup>2</sup> Le Service peut accepter que les garanties de l'Etat soient placées à un rang inférieur à celui d'autres créances.
+<sup>2</sup> Grangeneuve peut accepter que les garanties de l'Etat soient placées à un rang inférieur à celui d'autres créances.
 
 #### Art. 27
 
@@ -342,7 +333,7 @@ Arrête:
 
 <sup>1</sup> Le Conseil d'Etat statue, conformément à l'article 3, sur l'octroi des crédits d'investissements dont le montant excède 500'000 francs.
 
-<sup>2</sup> La Direction statue sur les demandes portant sur des montants qui n'excèdent pas 500'000 francs. Elle peut déléguer au Service la compétence de statuer sur ces aides lorsque leur montant n'excède pas 50'000 francs.
+<sup>2</sup> La Direction statue sur les demandes portant sur des montants qui n'excèdent pas 500'000 francs. Elle peut déléguer à Grangeneuve la compétence de statuer sur ces aides lorsque leur montant n'excède pas 50'000 francs.
 
 <sup>3</sup> Si des hypothèques doivent être établies, la décision sert d'attestation pour la constitution de l'hypothèque au registre foncier, conformément à l'article 70 de la loi du 10 février 2012 d'application du code civil suisse pour le canton de Fribourg.
 
@@ -358,23 +349,21 @@ Arrête:
 
 **Limites de charge (art. 89 al. 1 let. d LAgr)**
 
-<sup>1</sup> En cas de besoin, le Service se fait produire la limite de charge. Il peut reconnaître les limites de charge calculées par la Chambre fribourgeoise d'agriculture.
+<sup>1</sup> En cas de besoin, Grangeneuve se fait produire la limite de charge. Il peut reconnaître les limites de charge calculées par la Chambre fribourgeoise d'agriculture.
 
 #### Art. 32
 
 **Surveillance (art. 92 LAgr)**
 
-<sup>1</sup> Le Service surveille la conformité de l'utilisation des aides versées pour l'amélioration des structures.
+<sup>1</sup> Grangeneuve surveille la conformité de l'utilisation des aides versées pour l'amélioration des structures.
 
 <sup>2</sup> Dans la mesure du possible, il coordonne ses inspections avec d'autres contrôles sur l'exploitation, conformément à l'article 42.
 
-### 2.5 Recherche et vulgarisation, encouragement de la sélection végétale et animale (art. 113ss LAgr)
+### 2.5
 
 #### Art. 33
 
-**Vulgarisation (art. 136 LAgr et 8 al. 2 LAgri)**
-
-<sup>1</sup> Les tâches en matière de vulgarisation sont exercées par l'IAG, conformément à la loi sur l'Institut agricole de l'Etat de Fribourg, à Grangeneuve.
+**…**
 
 ### 2.6 Protection des végétaux et moyens de production (art. 148ss LAgr)
 
@@ -402,24 +391,24 @@ Arrête:
 
 <sup>1</sup> La CPV est composée de neuf membres, dont une personne représentant:
 
-- a) le Service de l'agriculture;
+- a) Grangeneuve;
 - b) le Service de l'environnement;
 - c) le Service des forêts et de la nature;
 - d) le Service de la sécurité alimentaire et des affaires vétérinaires, par le ou la chimiste cantonal-e;
-- e) l'IAG;
+- e) …
 - f) les milieux agricoles.
 
-<sup>2</sup> La présidence de la CPV est assurée par le ou la chef-fe du Service de l'agriculture.
+<sup>2</sup> La présidence de la CPV est assurée par la personne représentant Grangeneuve.
 
-<sup>3</sup> Son secrétariat est assuré par l'IAG.
+<sup>3</sup> Son secrétariat est assuré par Grangeneuve.
 
 <sup>4</sup> Pour le surplus, son fonctionnement et son organisation sont régis par le règlement sur l'organisation et le fonctionnement des commissions de l'Etat.
 
 #### Art. 37
 
-**IAG**
+**Service phytosanitaire cantonal**
 
-<sup>1</sup> L'IAG fait office de Service phytosanitaire cantonal au sens de la législation fédérale.
+<sup>1</sup> Grangeneuve fait office de Service phytosanitaire cantonal au sens de la législation fédérale.
 
 <sup>2</sup> Il dispose notamment des attributions et compétences suivantes:
 
@@ -452,15 +441,15 @@ Arrête:
 
 **Procédure de reconnaissance**
 
-<sup>1</sup> Le Service est chargé de la reconnaissance des formes d'exploitation et de communautés.
+<sup>1</sup> Grangeneuve est chargé de la reconnaissance des formes d'exploitation et de communautés.
 
-<sup>2</sup> Les demandes sont adressées au Service, accompagnées de tous les documents requis. Elles doivent être motivées.
+<sup>2</sup> Les demandes lui sont adressées, accompagnées de tous les documents requis. Elles doivent être motivées.
 
 #### Art. 40
 
 **Vérification de la reconnaissance**
 
-<sup>1</sup> Le Service vérifie périodiquement si les exploitations et les communautés reconnues satisfont aux conditions posées par l'ordonnance fédérale sur la terminologie agricole et la reconnaissance des formes d'exploitation.
+<sup>1</sup> Grangeneuve vérifie périodiquement si les exploitations et les communautés reconnues satisfont aux conditions posées par l'ordonnance fédérale sur la terminologie agricole et la reconnaissance des formes d'exploitation.
 
 <sup>2</sup> Il vérifie sans délai la reconnaissance des communautés d'exploitation, notamment lorsque les circonstances laissent supposer:
 
@@ -470,11 +459,11 @@ Arrête:
 
 #### Art. 41
 
-**Décision du Service**
+**Décision**
 
-<sup>1</sup> Le Service décide si les exploitations ou les communautés satisfont aux conditions de reconnaissance posées par l'ordonnance fédérale sur la terminologie agricole et la reconnaissance des formes d'exploitation.
+<sup>1</sup> Grangeneuve décide si les exploitations ou les communautés satisfont aux conditions de reconnaissance posées par l'ordonnance fédérale sur la terminologie agricole et la reconnaissance des formes d'exploitation.
 
-<sup>2</sup> Si une exploitation ou une communauté reconnue ne satisfait plus aux conditions requises, le Service révoque la reconnaissance accordée formellement ou tacitement. Il fixe dans sa décision la date à laquelle la révocation prend effet.
+<sup>2</sup> Si une exploitation ou une communauté reconnue ne satisfait plus aux conditions requises, il révoque la reconnaissance accordée formellement ou tacitement. Il fixe dans sa décision la date à laquelle la révocation prend effet.
 
 ### 2.7.2 Exécution et coordination des contrôles (art. 181 al. 1 LAgr et 7 al. 2 LAgri)
 
@@ -482,9 +471,9 @@ Arrête:
 
 **Compétences**
 
-<sup>1</sup> Le Service est chargé de l'ensemble des contrôles qui doivent être effectués sur les exploitations agricoles.
+<sup>1</sup> Grangeneuve est chargé de l'ensemble des contrôles qui doivent être effectués sur les exploitations agricoles.
 
-<sup>2</sup> Si des contrôles exigent la présence de spécialistes, le Service coordonne leurs interventions sur l'exploitation agricole. A cet effet, ces unités spécialisées informent préalablement le Service de l'intervention programmée.
+<sup>2</sup> Si des contrôles exigent la présence de spécialistes, il coordonne leurs interventions sur l'exploitation agricole. A cet effet, ces unités spécialisées l'informent préalablement de l'intervention programmée.
 
 <sup>3</sup> Il en est de même lorsque les contrôles sont effectués par des organismes accrédités ou reconnus.
 
@@ -506,9 +495,9 @@ Arrête:
 
 **Conseil d'Etat (art. 5 et 6 LAgri)**
 
-<sup>1</sup> Les objectifs généraux de la politique agricole cantonale sont fixés en fonction du programme quadriennal de la politique agricole fédérale. Ils doivent être adoptés dans l'année qui suit la fixation par les Chambres fédérales de l'enveloppe financière quadriennale.
+<sup>1</sup> Les objectifs généraux de la politique agricole cantonale sont fixés en fonction du programme de la politique agricole fédérale.
 
-<sup>2</sup> Le programme quadriennal cantonal porte en particulier sur les éléments suivants:
+<sup>2</sup> Le programme quinquennal cantonal porte en particulier sur les éléments suivants:
 
 - a) un rapport de situation;
 - b) une synthèse de l'évolution de la politique agricole fédérale;
@@ -516,7 +505,7 @@ Arrête:
 - d) les perspectives d'évolution;
 - e) les buts à atteindre, les mesures à mettre en œuvre et les moyens y relatifs.
 
-<sup>3</sup> Les tâches mentionnées à l'alinéa 2 ci-dessus sont exécutées par l'IAG.
+<sup>3</sup> Les tâches mentionnées à l'alinéa 2 ci-dessus sont exécutées par Grangeneuve.
 
 #### Art. 45
 
@@ -546,17 +535,15 @@ Arrête:
 
 **Organisation et fonctionnement de la CAgri et de la CASA**
 
-<sup>1</sup> La CAgri et la CASA se réunissent aussi souvent que le traitement des affaires l'exige, sur convocation du Service ou de la présidence.
+<sup>1</sup> La CAgri et la CASA se réunissent aussi souvent que le traitement des affaires l'exige, sur convocation de Grangeneuve ou de la présidence.
 
-<sup>2</sup> Le secrétariat de la CAgri et de la CASA est assuré par le Service.
+<sup>2</sup> Le secrétariat de la CAgri et de la CASA est assuré par Grangeneuve.
 
 <sup>3</sup> Pour le surplus, le fonctionnement et l'organisation de la CAgri et de la CASA sont régis par le règlement sur l'organisation et le fonctionnement des commissions de l'Etat.
 
 #### Art. 48
 
-**Institut agricole de l'Etat de Fribourg (art. 8 et 15 LAgri)**
-
-<sup>1</sup> En plus des tâches qui lui sont confiées par la législation sur l'agriculture et les législations spéciales, l'IAG prête son concours à l'examen des questions techniques ou économiques dans les affaires qui exigent des connaissances particulières.
+**…**
 
 ### 3.2 Fonds rural (art. 16ss LAgri)
 
@@ -611,7 +598,7 @@ Arrête:
 
 **Fixation du taux d'intérêt (art. 16 et 19 al. 2 LAgri)**
 
-<sup>1</sup> Les prêts sont accordés avec un intérêt réduit compris entre un minimum de 1 % et un maximum de 3 %.
+<sup>1</sup> Les prêts sont accordés avec un intérêt réduit compris entre un minimum de 0,75 % et un maximum de 3 %.
 
 <sup>2</sup> Un intérêt réduit supérieur au minimum fixé à l'alinéa 1 est perçu pour:
 
@@ -631,13 +618,13 @@ Arrête:
 - b) un cautionnement, ou
 - c) un engagement solidaire.
 
-<sup>2</sup> Le Service peut accepter que les garanties de l'Etat soient placées à un rang inférieur à celui d'autres créances.
+<sup>2</sup> Grangeneuve peut accepter que les garanties de l'Etat soient placées à un rang inférieur à celui d'autres créances.
 
 #### Art. 56
 
 **Procédure (art. 22 LAgri)**
 
-<sup>1</sup> Les demandes de prêt doivent être adressées au Service.
+<sup>1</sup> Les demandes de prêt doivent être adressées à Grangeneuve.
 
 <sup>2</sup> Dans le dispositif de la décision, l'autorité compétente fixe en particulier:
 
@@ -657,13 +644,13 @@ Arrête:
 
 <sup>1</sup> Le Conseil d'Etat statue, conformément à l'article 3, sur l'octroi des prêts dont le montant excède 500'000 francs.
 
-<sup>2</sup> La Direction statue sur les demandes portant sur des montants qui n'excèdent pas 500'000 francs. Elle peut déléguer au Service la compétence de statuer sur ces aides lorsque leur montant n'excède pas 50'000 francs.
+<sup>2</sup> La Direction statue sur les demandes portant sur des montants qui n'excèdent pas 500'000 francs. Elle peut déléguer à Grangeneuve la compétence de statuer sur ces aides lorsque leur montant n'excède pas 50'000 francs.
 
 #### Art. 58
 
 **Contrôle**
 
-<sup>1</sup> Le Service peut procéder, pour vérifier l'affectation des prêts, à des contrôles sur l'exploitation. Il les coordonne avec d'autres contrôles, conformément aux principes fixés à l'article 42.
+<sup>1</sup> Grangeneuve peut procéder, pour vérifier l'affectation des prêts, à des contrôles sur l'exploitation. Il les coordonne avec d'autres contrôles, conformément aux principes fixés à l'article 42.
 
 #### Art. 59
 
@@ -746,7 +733,7 @@ Arrête:
 
 **Modalités procédurales – Demande**
 
-<sup>1</sup> La demande est adressée au Service.
+<sup>1</sup> La demande est adressée à Grangeneuve.
 
 <sup>2</sup> Elle est accompagnée d'un dossier complet justifiant les mesures de promotion requises.
 
@@ -775,7 +762,7 @@ Arrête:
 
 **Modalités procédurales – Analyse de la demande**
 
-<sup>1</sup> Le Service examine si les exigences sont remplies.
+<sup>1</sup> Grangeneuve examine si les exigences sont remplies.
 
 <sup>2</sup> En tenant compte des spécificités de chacun des domaines d'intervention, il examine chaque projet notamment sous l'angle:
 
@@ -797,15 +784,15 @@ Arrête:
 
 **Octroi**
 
-<sup>1</sup> Dans le cadre du programme quadriennal arrêté par le Conseil d'Etat, la Direction fixe le montant de l'aide ainsi que les modalités relatives à son octroi. Elle peut déléguer au Service la compétence de statuer sur ces aides lorsque leur montant n'excède pas 50'000 francs.
+<sup>1</sup> Dans le cadre du programme quinquennal arrêté par le Conseil d'Etat, la Direction fixe le montant de l'aide ainsi que les modalités relatives à son octroi. Elle peut déléguer à Grangeneuve la compétence de statuer sur ces aides lorsque leur montant n'excède pas 50'000 francs.
 
 #### Art. 72
 
 **Suivi et contrôle**
 
-<sup>1</sup> Le Service peut en tout temps se faire renseigner par le ou la bénéficiaire sur l'état de réalisation du projet. A ces fins, il peut prendre part aux opérations conduisant à sa réalisation.
+<sup>1</sup> Grangeneuve peut en tout temps se faire renseigner par le ou la bénéficiaire sur l'état de réalisation du projet. A ces fins, il peut prendre part aux opérations conduisant à sa réalisation.
 
-<sup>2</sup> Au terme du projet, le ou la bénéficiaire remet au Service un rapport sur la réalisation du projet et des objectifs annoncés dans la demande. Le Service peut aussi se faire produire les documents idoines et procéder lui-même à cette analyse.
+<sup>2</sup> Au terme du projet, le ou la bénéficiaire remet à Grangeneuve un rapport sur la réalisation du projet et des objectifs annoncés dans la demande. Grangeneuve peut aussi se faire produire les documents idoines et procéder lui-même à cette analyse.
 
 #### Art. 73
 
@@ -843,17 +830,17 @@ Arrête:
 
 **Renseignements et contrôles**
 
-<sup>1</sup> Toute personne qui souhaite bénéficier des contributions autorise le Service à obtenir les renseignements nécessaires, notamment auprès des organisations laitières compétentes.
+<sup>1</sup> Toute personne qui souhaite bénéficier des contributions autorise Grangeneuve à obtenir les renseignements nécessaires, notamment auprès des organisations laitières compétentes.
 
-<sup>2</sup> Le Service peut procéder à des contrôles sur l'exploitation, conformément à la procédure prévue en matière de paiements directs et de contributions.
+<sup>2</sup> Grangeneuve peut procéder à des contrôles sur l'exploitation, conformément à la procédure prévue en matière de paiements directs et de contributions.
 
 #### Art. 77
 
 **Procédure et octroi**
 
-<sup>1</sup> La demande est adressée au Service dans le cadre de la procédure en matière de paiements directs.
+<sup>1</sup> La demande est adressée à Grangeneuve dans le cadre de la procédure en matière de paiements directs.
 
-<sup>2</sup> La décision sur l'octroi est notifiée par le Service simultanément à la décision rendue en matière de paiements directs.
+<sup>2</sup> …
 
 ### 3.4.2 Innovation (art. 34 LAgri)
 
@@ -903,55 +890,56 @@ Arrête:
 
 <sup>2</sup> Si aucun projet ne présente un intérêt suffisant, le prix n'est pas attribué ou peut être réduit.
 
-### 3.4.3 Méthodes et techniques culturales (art. 35ss LAgri)
+### 3.4.3 Contributions à l'utilisation efficiente des ressources naturelles et à la biodiversité (art. 35ss LAgri)
 
 #### Art. 82
 
-**Méthodes culturales encouragées**
+**Contributions à la réduction des risques liés aux produits phytosanitaires**
 
-<sup>1</sup> Les méthodes culturales encouragées sont notamment:
+<sup>1</sup> Dans les limites des crédits alloués, des contributions peuvent être octroyées aux mesures énumérées ci-après, jusqu'à concurrence des montants forfaitaires et des taux suivants:
 
-- a) le semis direct;
-- b) le semis en bande fraisée;
-- c) le semis direct sous litière;
-- d) la mise en place et le maintien de la bande herbeuse, aussi longtemps qu'elle ne constitue pas un élément des paiements directs de la Confédération.
+- a) acquisition de buses antidérive à injection d'air: 5 francs par buse, maximum deux buses par mètre de largeur de la barre du pulvérisateur;
+- b) acquisition de machines de désherbage non chimique ou d'application sélective automatisée d'herbicides: 40 % des coûts d'acquisition, mais au maximum 4'000 francs par machine;
+- c) non-recours aux herbicides sur terres ouvertes: 200 francs par hectare et par an;
+- d) non-recours aux produits phytosanitaires de synthèse sur parcelles cultivées en vigne et parcelles de cultures fruitières de forme compacte: 1'500 francs par hectare et par an;
+- e) plantation de variétés résistantes de vignes et de cultures fruitières de forme compacte: 6'000 francs par hectare, à la plantation;
+- f) bandes herbeuses sur terres ouvertes d'une largeur de 3 mètres au minimum le long de routes et des chemins ou intra-parcellaires: 2 francs par mètre linéaire de bande herbeuse et par an.
+
+<sup>2</sup> Les surfaces bénéficiant de contributions fédérales à l'agriculture biologique ou de contributions fédérales pour le non-recours aux herbicides ou aux fongicides représentant un risque élevé sont exclues des contributions prévues à l'alinéa 1 let. d.
+
+<sup>3</sup> Les surfaces bénéficiant de contributions fédérales à la biodiversité sont exclues des contributions prévues à l'alinéa 1 let. f.
 
 #### Art. 83
 
-**Conditions d'octroi**
+**Procédure**
 
-<sup>1</sup> Les contributions peuvent être octroyées aux exploitants ou exploitantes ayant conclu avec le Service un contrat d'une durée minimale de cinq ans.
+<sup>1</sup> Les demandes de contributions doivent être déposées à Grangeneuve au moyen des formules ad hoc, dûment remplies. Elles doivent être accompagnées des annexes requises.
 
-<sup>2</sup> Par exploitant ou exploitante, on entend toute personne définie comme tel-le par l'ordonnance fédérale sur la terminologie agricole et la reconnaissance des formes d'exploitation.
+<sup>2</sup> Grangeneuve fixe les délais et les modalités pour le dépôt des demandes et statue sur l'octroi des contributions.
 
-<sup>3</sup> L'exploitant ou l'exploitante doit en particulier s'engager à appliquer des méthodes culturales préservant le sol agricole sur les surfaces minimales suivantes:
+<sup>3</sup> …
 
-- a) 1 hectare de semis direct, de semis en bande fraisée et/ou de semis direct sous litière;
-- b) 25 ares pour la bande herbeuse.
-
-<sup>4</sup> Les contributions concernent les parcelles sises en région de plaine au sens de la législation fédérale et dont les exploitants ou exploitantes sont au bénéfice des paiements directs.
+<sup>4</sup> …
 
 #### Art. 84
 
-**Fixation des montants**
+**Contrôles**
 
-<sup>1</sup> Le montant global des contributions est fixé par voie budgétaire dans le cadre du programme de politique agricole.
+<sup>1</sup> Grangeneuve procède aux contrôles, conformément à la procédure prévue en matière de paiements directs et de contributions.
 
-<sup>2</sup> Le montant des contributions est fixé en fonction de l'importance des surfaces concernées et de l'impact présumé des méthodes et techniques culturales convenues.
+<sup>2</sup> …
 
 #### Art. 85
 
-**Contrôles et octroi**
+**Révocation de la décision et restitution de la contribution**
 
-<sup>1</sup> Le Service procède aux contrôles sur l'exploitation, conformément à la procédure prévue en matière de paiements directs et de contributions.
+<sup>1</sup> Grangeneuve peut révoquer la décision d'octroi, réduire le montant de la contribution octroyée et/ou en exiger la restitution totale ou partielle conformément aux dispositions y relatives de la loi cantonale sur les subventions.
 
-<sup>2</sup> Les contributions sont versées par le Service, en principe simultanément aux paiements directs.
+<sup>2</sup> …
 
 #### Art. 86
 
-**Révocation de la décision, résiliation du contrat et restitution de la contribution**
-
-<sup>1</sup> Le Service peut révoquer la décision d'octroi, résilier le contrat de droit public, réduire le montant de la contribution octroyée et/ou en exiger la restitution totale ou partielle conformément aux dispositions y relatives de la loi cantonale sur les subventions.
+**…**
 
 ### 3.4.4 Aides aux exploitations paysannes en difficulté (art. 39 LAgri et 78ss LAgr)
 
@@ -973,9 +961,9 @@ Arrête:
 
 <sup>2</sup> La Cellule est composée d'un groupe de supervision hiérarchique (GSH) et d'un groupe de coordination opérationnelle (GCO).
 
-<sup>2a</sup> Le GSH est composé du directeur ou de la directrice de l'IAG, du ou de la chef‑fe du Service de l'agriculture, du ou de la chef‑fe du Service de l'action sociale et du ou de la chef‑fe du Service de la sécurité alimentaire et des affaires vétérinaires.
+<sup>2a</sup> Le GSH est composé du directeur ou de la directrice et du ou de la chef‑fe de la section en charge de l'agriculture de Grangeneuve, du ou de la chef‑fe du Service de l'action sociale et du ou de la chef‑fe du Service de la sécurité alimentaire et des affaires vétérinaires.
 
-<sup>2b</sup> Le GCO est composé d'une personne représentant l'IAG, d'une personne représentant le Service de l'agriculture, d'une personne représentant le Service de l'action sociale et d'une personne représentant le Service de la sécurité alimentaire et des affaires vétérinaires.
+<sup>2b</sup> Le GCO est composé de deux personnes représentant Grangeneuve, d'une personne représentant le Service de l'action sociale et d'une personne représentant le Service de la sécurité alimentaire et des affaires vétérinaires.
 
 <sup>3</sup> Pour ses activités de conseil et d'accompagnement, la Cellule peut requérir l'appui notamment:
 
@@ -990,7 +978,7 @@ Arrête:
 - i) de l'office des poursuites concerné et/ou
 - j) de l'Association fribourgeoise d'entraide et de dépannage en agriculture (SECADA).
 
-<sup>4</sup> L'IAG assure la présidence et le secrétariat de la Cellule, aussi bien pour le GSH et que pour le GCO.
+<sup>4</sup> Grangeneuve assure la présidence et le secrétariat de la Cellule, aussi bien pour le GSH et que pour le GCO.
 
 #### Art. 89
 
@@ -1028,23 +1016,31 @@ Arrête:
 
 #### Art. 91
 
-**Droit transitoire – Promotion de l'élevage**
-
-<sup>1</sup> La participation cantonale exigée par le droit fédéral en matière de promotion de l'élevage (art. 141ss LAgr) est versée par le Service jusqu'à l'entrée en vigueur des dispositions fédérales d'application de la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT).
+**…**
 
 #### Art. 92
 
-**Droit transitoire – Caisse autonome d'amortissement de la dette agricole et Office cantonal du crédit agricole**
+**Droit transitoire – Caisse autonome d'amortissement de la dette agricole, Office cantonal du crédit agricole et Service de l'agriculture**
 
-<sup>1</sup> L'ensemble des prêts conclus au nom de la Caisse autonome d'amortissement de la dette agricole (CADA) ou de l'Office cantonal du crédit agricole (OCAF) ainsi que les inscriptions faites au registre foncier en leur faveur avant l'entrée en vigueur du présent règlement ont l'intitulé suivant: Etat de Fribourg, Service de l'agriculture.
+<sup>1</sup> L'ensemble des prêts conclus au nom de la Caisse autonome d'amortissement de la dette agricole (CADA) ou de l'Office cantonal du crédit agricole (OCAF) ou de l'Etat de Fribourg, Service de l'agriculture, ainsi que les inscriptions faites au registre foncier en leur faveur avant l'entrée en vigueur du présent règlement et de la modification du 14 décembre 2021 ont l'intitulé suivant: Etat de Fribourg, Grangeneuve.
 
 <sup>2</sup> Les demandes d'aides financières en matière d'améliorations des structures et de mesures d'accompagnement social qui sont pendantes lors de l'entrée en vigueur du présent règlement sont soumises au nouveau droit.
 
+<sup>3</sup> Les demandes d'aides financières en matière d'améliorations des structures et de mesures d'accompagnement social qui sont pendantes lors de l'entrée en vigueur de la modification du 14 décembre 2021 sont soumises au nouveau droit.
+
 #### Art. 92a
 
-**Droit transitoire – Prêts octroyés par le Fonds rural**
+**Droit transitoire – Modification du 11 novembre 2013 – Prêts octroyés par le Fonds rural**
 
 <sup>1</sup> Les prêts octroyés par le Fonds rural avant l'entrée en vigueur de la modification du 11 novembre 2013 du présent règlement sont soumis à l'ancien droit jusqu'au terme du projet.
+
+<sup>2</sup> Les demandes de prêts pendantes lors de l'entrée en vigueur de cette modification sont soumises au nouveau droit.
+
+#### Art. 92b
+
+**Droit transitoire – Modification du 14 décembre 2021 – Prêts octroyés par le Fonds rural**
+
+<sup>1</sup> Les prêts octroyés par le Fonds rural avant l'entrée en vigueur de la présente modification sont soumis à l'ancien droit jusqu'au terme du projet.
 
 <sup>2</sup> Les demandes de prêts pendantes lors de l'entrée en vigueur de cette modification sont soumises au nouveau droit.
 

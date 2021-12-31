@@ -4,13 +4,13 @@ number: "910.11"
 title: Landwirtschaftsreglement
 short: LandwR
 language: de
-version: 2020-05-01
-valid_until: 2021-12-31
-version_adopted: 2020-04-28
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-14
 adopted: 2007-03-27
 in_force: 2007-03-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/910.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6503/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7094/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Landwirtschaftsreglement
 
 (LandwR)
 
-vom 27.03.2007 (Fassung in Kraft getreten am 01.05.2020)
+vom 27.03.2007 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -54,19 +54,19 @@ beschliesst:
 
 <sup>1</sup> In diesem Reglement bedeuten:
 
-- a) GUB/GGA: Verordnung des Bundes vom 28. Mai 1997 über den Schutz von Ursprungsbezeichnungen und geographischen Angaben für landwirtschaftliche Erzeugnisse und verarbeitete landwirtschaftliche Erzeugnisse;
+- a) GUB/GGA: Verordnung des Bundes vom 28. Mai 1997 über den Schutz von Ursprungsbezeichnungen und geografischen Angaben für landwirtschaftliche Erzeugnisse, verarbeitete landwirtschaftliche Erzeugnisse, waldwirtschaftliche Erzeugnisse und verarbeitete waldwirtschaftliche Erzeugnisse (GUB/GGA-Verordnung)
 - b) LandwG: Landwirtschaftsgesetz vom 3. Oktober 2006;
 - c) LwG: Bundesgesetz vom 29. April 1998 über die Landwirtschaft;
-- d) LIGG: Gesetz vom 23. Juni 2006 über das Landwirtschaftliche Institut des Kantons Freiburg;
+- d) GnG: Gesetz vom 23. Juni 2006 über Grangeneuve
 - e) MQV: Milchqualitätsverordnung des Bundes vom 23. November 2005;
 - f) LBV: Verordnung des Bundes vom 7. Dezember 1998 über landwirtschaftliche Begriffe und die Anerkennung von Betriebsformen (Landwirtschaftliche Begriffsverordnung)
 - g) SBMV: Verordnung des Bundes vom 26. November 2003 über die sozialen Begleitmassnahmen in der Landwirtschaft (SBMV)
 - h) SV: Verordnung des Bundes vom 26. November 2003 über den Schlachtvieh und Fleischmarkt (Schlachtviehverordnung)
-- i) SVV: Verordnung des Bundes vom 7. Dezember 1998 über die Strukturverbesserungen in der Landwirtschaft (Strukturverbesserungsverordnung)
+- i) MiPV: Milchprüfungsverordnung des Bundes vom 20. Oktober 2010
 - j) VPrP: Verordnung des Bundes vom 23. November 2005 über die Primärproduktion
 - k) Direktion: die Direktion der Institutionen und der Land und Forstwirtschaft;
-- l) Amt: das Amt für Landwirtschaft;
-- m) LIG: das Landwirtschaftliche Institut des Kantons Freiburg in Grangeneuve;
+- l) …
+- m) …
 - n) BLW: das Bundesamt für Landwirtschaft.
 
 #### Art. 3
@@ -85,9 +85,9 @@ beschliesst:
 
 #### Art. 4
 
-**Qualitätssicherung (Art. 11 LwG und 12 MQV)**
+**Qualitätssicherung (Art. 11 LwG)**
 
-<sup>1</sup> Die Aufgaben im Zusammenhang mit der Qualitätssicherung werden grundsätzlich vom LIG wahrgenommen.
+<sup>1</sup> Die Aufgaben im Zusammenhang mit der Qualitätssicherung werden grundsätzlich von Grangeneuve wahrgenommen.
 
 <sup>2</sup> Die Kontrollen der Hygienevorschriften und der Auflagen im Bereich Tierschutz in den Tierhaltungen müssen mit den übrigen Kontrollen auf dem Betrieb gemäss den Grundsätzen nach Artikel 42 koordiniert werden.
 
@@ -129,9 +129,9 @@ beschliesst:
 
 #### Art. 9
 
-**Ölsaaten, Körnerleguminosen und Faserpflanzen (Art. 56, 57 und 59 LwG)**
+**Einzelne Kulturen (Art. 54 und 55 LwG)**
 
-<sup>1</sup> Für Gesuche um Flächen- und Verarbeitungsbeiträge im Ackerbau wird das Verfahren für Direktzahlungen und Beiträge nach Artikel 13 ff. dieses Reglements angewendet.
+<sup>1</sup> Für Gesuche um Beiträge für einzelne Kulturen und die Zulage für Getreide wird das Verfahren für Direktzahlungen und Beiträge nach Artikel 13 ff. dieses Reglements angewendet.
 
 ### 2.1.4 Weinwirtschaft (Art. 60 ff. LwG)
 
@@ -153,7 +153,7 @@ beschliesst:
 
 **Behörden und Befugnisse – Amt**
 
-<sup>1</sup> Das Amt führt alle administrativen Tätigkeiten im Zusammenhang mit dem Vollzug der der Direktion übertragenen Aufgaben und Befugnissen aus.
+<sup>1</sup> Grangeneuve führt alle administrativen Tätigkeiten im Zusammenhang mit dem Vollzug der der Direktion übertragenen Aufgaben und Befugnisse aus.
 
 <sup>2</sup> Es ist insbesondere verantwortlich für die Führung und die Nachführung der verschiedenen Register, namentlich des Rebbaukatasters, für die Ergreifung von eidgenössischen Hilfsmassnahmen zugunsten der Weinwirtschaft sowie für die Organisation und die Beaufsichtigung der Weinlesekontrollen.
 
@@ -165,7 +165,7 @@ beschliesst:
 
 <sup>1</sup> Es wird eine Weinbaukommission mit 7 vom Staatsrat ernannten Mitgliedern eingesetzt. Die Berufsorganisationen für Weinbau und Einkellerung der beiden Rebberge Vully und Cheyres/Font sind mit je 2 Mitgliedern vertreten.
 
-<sup>2</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher führt den Vorsitz der Kommission. Das Amt besorgt das Sekretariat.
+<sup>2</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher führt den Vorsitz der Kommission. Grangeneuve besorgt das Sekretariat.
 
 <sup>3</sup> Die Weinbaukommissäre nehmen mit beratender Stimme an den Sitzungen der Kommission teil.
 
@@ -173,17 +173,19 @@ beschliesst:
 
 <sup>5</sup> Ausserdem gelten die Gesetzgebung über die Dauer der öffentlichen Nebenämter und das Reglement über die Organisation und die Arbeitsweise der Kommissionen des Staates.
 
-### 2.2 Direktzahlungen und Beiträge (Art. 56 ff. und 70 ff. LwG und 7 LandwG)
+### 2.2 Direktzahlungen und Beiträge (Art. 54 ff. und 70 ff. LwG und 7 LandwG)
 
 #### Art. 13
 
 **Anmeldung und Bedingungen**
 
-<sup>1</sup> Um die vom Bundesrecht vorgesehenen Direktzahlungen und Beiträge zu erhalten, muss die Bewirtschafterin oder der Bewirtschafter mittels einem vollständig ausgefüllten und unterzeichneten amtlichen Formular ein Gesuch an das Amt stellen.
+<sup>1</sup> Um die vom Bundesrecht und vom kantonalen Recht vorgesehenen Direktzahlungen und Beiträge zu erhalten, muss die Bewirtschafterin oder der Bewirtschafter mit einem vollständig ausgefüllten amtlichen Formular ein Gesuch an Grangeneuve stellen.
 
-<sup>2</sup> Das Amt legt die Fristen und die Anmeldungsmodalitäten für Direktzahlungs- und Beitragsgesuche fest.
+<sup>2</sup> Grangeneuve legt die Fristen und die Anmeldungsmodalitäten für Direktzahlungs‑ und Beitragsgesuche fest.
 
 <sup>3</sup> Es legt gegebenenfalls die Anforderungen im Zusammenhang mit Direktzahlungen und Beiträgen, die das Bundesrecht der Zuständigkeit der Kantone überträgt, fest.
+
+<sup>4</sup> Es gewährt die vom Bundesrecht im Bereich Direktzahlungen und Beiträge vorgeschriebene kantonale Beteiligung.
 
 #### Art. 14
 
@@ -199,11 +201,11 @@ beschliesst:
 
 - a) die Naturschutzorganisationen (zwei Vertreter/innen);
 - b) die Landwirtschaft (zwei Vertreter/innen);
-- c) das Amt (ein/e Vertreter/in);
+- c) …
 - d) das Amt für Wald und Natur (ein/e Vertreter/in);
-- e) das LIG (ein/e Verteter/in).
+- e) Grangeneuve (zwei Vertreter/innen).
 
-<sup>2</sup> Die Vertreterin oder der Vertreter des LIG präsidiert die Kommission und führt ihr Sekretariat.
+<sup>2</sup> Eine Vertreterin oder ein Vertreter von Grangeneuve präsidiert die Kommission und führt ihr Sekretariat.
 
 <sup>3</sup> Als beratendes Organ prüft und begutachtet die Kommission die Vernetzungsprojekte.
 
@@ -213,7 +215,7 @@ beschliesst:
 
 **Biodiversitätsbeiträge (Art. 73 LwG) – Genehmigung der Vernetzungsprojekte**
 
-<sup>1</sup> Die Vernetzungsprojekte werden unter Einbezug des Gutachtens der Kommission vom Amt genehmigt.
+<sup>1</sup> Die Vernetzungsprojekte werden unter Einbezug des Gutachtens der Kommission von Grangeneuve genehmigt.
 
 <sup>2</sup> Gegen einen ablehnenden Entscheid kann gemäss Artikel 41 LandwG Einsprache erhoben werden.
 
@@ -221,13 +223,13 @@ beschliesst:
 
 **Sömmerungsbeiträge (Art. 77 Abs. 3 LwG)**
 
-<sup>1</sup> Die Sömmerungsbeiträge werden nur an Selbstbewirtschafterinnen und Selbstbewirtschafter ausgerichtet.
+<sup>1</sup> …
 
 #### Art. 16
 
 **Kontrollen – Befugnisse**
 
-<sup>1</sup> Das Amt ist für den Vollzug der Kontrollen verantwortlich.
+<sup>1</sup> Grangeneuve ist für den Vollzug der Kontrollen verantwortlich.
 
 <sup>2</sup> Es verfügt dazu über örtliche Landwirtschaftsverantwortliche und kann für den Vollzug gewisser spezieller Kontrollen die Unterstützung anderer administrativer Einheiten des Staates anfordern.
 
@@ -243,17 +245,17 @@ beschliesst:
 
 **Kontrollen – Überwachung der Kontrollen**
 
-<sup>1</sup> Das Amt überwacht den reibungslosen Ablauf der übertragenen Kontrollen, indem es namentlich in den kontrollierten Betrieben stichprobenweise Nachkontrollen durchführt.
+<sup>1</sup> Grangeneuve überwacht den reibungslosen Ablauf der übertragenen Kontrollen, indem es namentlich in den kontrollierten Betrieben stichprobenweise Nachkontrollen durchführt.
 
 #### Art. 19
 
-**Entscheid des Amts**
+**Entscheid**
 
-<sup>1</sup> Das Amt entscheidet, ob die Gesuchstellerin oder der Gesuchsteller Anspruch auf eine Direktzahlung oder einen Beitrag hat, und legt gegebenenfalls den Betrag fest.
+<sup>1</sup> Grangeneuve entscheidet, ob die Gesuchstellerin oder der Gesuchsteller Anspruch auf eine Direktzahlung oder einen Beitrag hat, und legt gegebenenfalls den Betrag fest.
 
 <sup>2</sup> …
 
-<sup>3</sup> Ist ein Gesuch missbräuchlich oder macht die Bearbeitung des Gesuchs besondere administrative Schritte erforderlich, namentlich weil das amtliche Formular ungenaue oder unvollständige Angaben enthält oder zu spät eingereicht wird, so kann das Amt eine Gebühr von bis zu 500 Franken erheben.
+<sup>3</sup> Ist ein Gesuch missbräuchlich oder macht die Bearbeitung des Gesuchs besondere administrative Schritte erforderlich, namentlich weil das amtliche Formular ungenaue oder unvollständige Angaben enthält oder zu spät eingereicht wird, so kann eine Gebühr von bis zu 500 Franken erhoben werden.
 
 ### 2.3 Soziale Begleitmassnahmen (Art. 78 ff. LwG und 39 LandwG)
 
@@ -263,28 +265,17 @@ beschliesst:
 
 <sup>1</sup> Für die Gewährung der von der Bundesgesetzgebung vorgesehenen Betriebshilfe ist die Direktion zuständig.
 
-<sup>2</sup> Die Direktion kann die Befugnis, über Betriebshilfen zu entscheiden, dem Amt übertragen, wenn der Betrag nicht mehr als 50'000 Franken beträgt.
+<sup>2</sup> Die Direktion kann die Befugnis, über Betriebshilfen zu entscheiden, Grangeneuve übertragen, wenn der Betrag nicht mehr als 50'000 Franken beträgt.
 
 #### Art. 21
 
 **Betriebshilfe (Art. 78 ff. LwG und 39 Abs. 2 LandwG) – Verfahren**
 
-<sup>1</sup> Gesuche um Betriebshilfe werden an das Amt gerichtet, das alle Fragen im Zusammenhang mit den Betriebshilfen abklärt, den Sachverhalt festhält und gegebenenfalls einen Entscheidsentwurf für die Direktion formuliert.
+<sup>1</sup> Gesuche um Betriebshilfe werden an Grangeneuve gerichtet, das alle Fragen im Zusammenhang mit den Betriebshilfen abklärt, den Sachverhalt festhält und gegebenenfalls einen Entscheidentwurf für die Direktion formuliert.
 
 #### Art. 22
 
-**Umschulungsbeihilfe des Bundes für Landwirtinnen und Landwirte (Art. 86a LwG und SBMV)**
-
-<sup>1</sup> Das Amt nimmt die Gesuche der im Kanton Freiburg wohnhaften Landwirtinnen oder Landwirte entgegen und prüft sie, betreut die laufenden Dossier und teilt dem BLW die sachdienlichen Angaben mit.
-
-<sup>2</sup> Es ist namentlich befugt:
-
-- a) Gesuche um Umschulungsbeihilfe entgegenzunehmen und die Stellungnahme des Kantons zuhanden des BLW zu verabschieden;
-- b) die Beihilfen an die Empfänger auszuzahlen;
-- c) die Kürzung oder die Verweigerung der Auszahlung sowie die Rückerstattung der Beihilfen zu verfügen;
-- d) die Eintragung der Anmerkung im Grundbuch zu verlangen;
-- e) zu kontrollieren, ob die Voraussetzung für die Gewährung der Umschulungsbeihilfen, d.h. die Aufgabe des landwirtschaftlichen Betriebs in den kommenden 20 Jahren, eingehalten wird;
-- f) gegebenenfalls die Rückerstattung der Umschulungsbeihilfen von den Direktzahlungen abzuziehen.
+**…**
 
 ### 2.4 Strukturverbesserungen (Art. 87 ff. LwG)
 
@@ -302,17 +293,17 @@ beschliesst:
 
 **Verfahren – Gesuch**
 
-<sup>1</sup> Gesuche um Investitionskredite müssen rechtzeitig an das Amt gerichtet werden, so dass sie vor Baubeginn oder dem geplanten Erwerb geprüft werden können.
+<sup>1</sup> Gesuche um Investitionskredite müssen rechtzeitig an Grangeneuve gerichtet werden, so dass sie vor Baubeginn oder dem geplanten Erwerb geprüft werden können.
 
-<sup>2</sup> Das Amt prüft, ob für die geplanten Arbeiten oder den geplanten Erwerb ein Investitionskredit in Frage kommt. Wenn dies der Fall ist, lässt es ein Dossier erstellen und legt dessen Inhalt fest.
+<sup>2</sup> Grangeneuve prüft, ob für die geplanten Arbeiten oder den geplanten Erwerb ein Investitionskredit in Frage kommt. Wenn dies der Fall ist, lässt es ein Dossier erstellen und legt dessen Inhalt fest.
 
-<sup>3</sup> Das Amt informiert die Gesuch stellende Person, wenn das Gesuch um Investitionskredite den gesetzlichen Anforderungen nicht genügt.
+<sup>3</sup> Es informiert die Gesuch stellende Person, wenn das Gesuch um Investitionskredite den gesetzlichen Anforderungen nicht genügt.
 
 #### Art. 25
 
 **Verfahren – Gewährung des Investitionskredits und vorzeitiger Beginn der Arbeiten oder Erwerb**
 
-<sup>1</sup> Es ist verboten, mit den Arbeiten zu beginnen oder den Erwerb zu tätigen, bevor über die Gewährung des Investitionskredits entschieden wurde, ausser das Amt bewilligt dies ausdrücklich.
+<sup>1</sup> Es ist verboten, mit den Arbeiten zu beginnen oder den Erwerb zu tätigen, bevor über die Gewährung des Investitionskredits entschieden wurde, ausser Grangeneuve bewilligt dies ausdrücklich.
 
 <sup>2</sup> Diese vorzeitige Bewilligung begründet keinen Anspruch auf die Gewährung der Investitionskredite.
 
@@ -322,7 +313,7 @@ beschliesst:
 
 <sup>1</sup> Investitionskredite sind wenn möglich gegen Realsicherheiten zu gewähren.
 
-<sup>2</sup> Das Amt kann akzeptieren, dass die Staatsgarantien im Rang hinter die der anderen Gläubiger zurücktreten.
+<sup>2</sup> Grangeneuve kann akzeptieren, dass die Staatsgarantien im Rang hinter die der anderen Gläubiger zurücktreten.
 
 #### Art. 27
 
@@ -342,7 +333,7 @@ beschliesst:
 
 <sup>1</sup> Der Staatsrat entscheidet unter Berücksichtigung von Artikel 3 über die Gewährung von Investitionskrediten von über 500'000 Franken.
 
-<sup>2</sup> Die Direktion entscheidet über Gesuche um Beträge unter 500'000 Franken. Sie kann dem Amt die Befugnis übertragen, über Gesuche im Betrag von bis 50'000 Franken zu entscheiden.
+<sup>2</sup> Die Direktion entscheidet über Gesuche um Beträge unter 500'000 Franken. Sie kann Grangeneuve die Befugnis übertragen, über Gesuche im Betrag bis 50'000 Franken zu entscheiden.
 
 <sup>3</sup> Müssen Grundpfandverschreibungen errichtet werden, so gilt der Entscheid als Ausweis zur Eintragung der Grundpfandverschreibung im Grundbuch gemäss Artikel 70 des Einführungsgesetzes vom 10. Februar 2012 zum Schweizerischen Zivilgesetzbuch
 
@@ -358,23 +349,21 @@ beschliesst:
 
 **Belastungsgrenzen (Art. 89 Abs. 1 Bst. d LwG)**
 
-<sup>1</sup> Bei Bedarf lässt das Amt die Belastungsgrenze berechnen. Es kann von der Freiburgischen Landwirtschaftskammer berechnete Belastungsgrenzen anerkennen.
+<sup>1</sup> Bei Bedarf lässt Grangeneuve die Belastungsgrenze berechnen. Es kann von der Freiburgischen Landwirtschaftskammer berechnete Belastungsgrenzen anerkennen.
 
 #### Art. 32
 
 **Aufsicht (Art. 92 LwG)**
 
-<sup>1</sup> Das Amt beaufsichtigt die zweckentsprechende Verwendung der für Strukturverbesserungen bezahlten Hilfen.
+<sup>1</sup> Grangeneuve beaufsichtigt die zweckentsprechende Verwendung der für Strukturverbesserungen bezahlten Hilfen.
 
 <sup>2</sup> Soweit als möglich, koordiniert es die Inspektionen mit anderen Kontrollen auf dem Betrieb gemäss Artikel 42.
 
-### 2.5 Forschung und Beratung sowie Förderung der Pflanzen und Tierzucht (Art. 113 ff. LwG)
+### 2.5
 
 #### Art. 33
 
-**Beratung (Art. 136 LwG und 8 Abs. 2 LandwG)**
-
-<sup>1</sup> Die Aufgaben im Bereich Beratung werden vom LIG gemäss dem Gesetz über das Landwirtschaftliche Institut des Kantons Freiburg (LIGG) wahrgenommen.
+**…**
 
 ### 2.6 Pflanzenschutz und Produktionsmittel (Art. 148 ff. LwG)
 
@@ -402,24 +391,24 @@ beschliesst:
 
 <sup>1</sup> Die PSK setzt sich aus 9 Mitgliedern zusammen, und zwar aus einer Vertreterin oder einem Vertreter:
 
-- a) des Amts für Landwirtschaft;
+- a) von Grangeneuve;
 - b) des Amts für Umwelt;
 - c) des Amts für Wald und Natur;
 - d) des Amts für Lebensmittelsicherheit und Veterinärwesen / Kantonschemikerin oder Kantonschemiker;
-- e) des LIG;
+- e) …
 - f) der landwirtschaftlichen Kreise.
 
-<sup>2</sup> Die Vorsteherin oder der Vorsteher des Amts für Landwirtschaft hat das Präsidium der PSK inne.
+<sup>2</sup> Die Vertreterin oder der Vertreter von Grangeneuve hat das Präsidium der PSK inne.
 
-<sup>3</sup> Das Sekretariat der PSK wird vom LIG geführt.
+<sup>3</sup> Das Sekretariat der PSK wird von Grangeneuve geführt.
 
 <sup>4</sup> Im Übrigen richtet sich ihre Arbeitsweise und Organisation nach dem Reglement über die Organisation und die Arbeitsweise der Kommissionen des Staates.
 
 #### Art. 37
 
-**LIG**
+**Kantonaler Pflanzenschutzdienst**
 
-<sup>1</sup> Das LIG amtet als kantonaler Pflanzenschutzdienst im Sinne der Bundesgesetzgebung.
+<sup>1</sup> Grangeneuve amtet als kantonaler Pflanzenschutzdienst im Sinne der Bundesgesetzgebung.
 
 <sup>2</sup> Es hat namentlich die folgenden Zuständigkeiten und Befugnisse:
 
@@ -452,15 +441,15 @@ beschliesst:
 
 **Anerkennungsverfahren**
 
-<sup>1</sup> Das Amt ist für die Anerkennung der Betriebs- und Gemeinschaftsformen zuständig.
+<sup>1</sup> Grangeneuve ist für die Anerkennung der Betriebs‑ und Gemeinschaftsformen zuständig.
 
-<sup>2</sup> Die Gesuche müssen an das Amt gerichtet werden. Sie müssen die nötigen Unterlagen und eine Begründung enthalten.
+<sup>2</sup> Die Gesuche müssen an Grangeneuve gerichtet werden. Sie müssen die nötigen Unterlagen und eine Begründung enthalten.
 
 #### Art. 40
 
 **Überprüfung der Anerkennung**
 
-<sup>1</sup> Das Amt überprüft periodisch, ob die anerkannten Betriebe und Betriebsgemeinschaften die Voraussetzungen der Verordnung über landwirtschaftliche Begriffe und die Anerkennung von Betriebsformen noch erfüllen.
+<sup>1</sup> Grangeneuve überprüft periodisch, ob die anerkannten Betriebe und Betriebsgemeinschaften die Voraussetzungen der Verordnung über landwirtschaftliche Begriffe und die Anerkennung von Betriebsformen noch erfüllen.
 
 <sup>2</sup> Es überprüft unverzüglich die Anerkennung von Betriebsgemeinschaften, namentlich wenn die Umstände vermuten lassen, dass:
 
@@ -470,11 +459,11 @@ beschliesst:
 
 #### Art. 41
 
-**Entscheid des Amtes**
+**Entscheid**
 
-<sup>1</sup> Das Amt entscheidet, ob die Betriebe und Betriebsgemeinschaften die Voraussetzungen der Verordnung über landwirtschaftliche Begriffe und die Anerkennung von Betriebsformen erfüllen.
+<sup>1</sup> Grangeneuve entscheidet, ob die Betriebe und Betriebsgemeinschaften die Voraussetzungen der Verordnung über landwirtschaftliche Begriffe und die Anerkennung von Betriebsformen erfüllen.
 
-<sup>2</sup> Erfüllt ein Betrieb oder eine Betriebsgemeinschaft die Voraussetzungen nicht mehr, so widerruft das Amt die ausdrückliche oder stillschweigende Anerkennung. Es legt in seinem Entscheid fest, ab welchem Datum der Widerruf gilt.
+<sup>2</sup> Erfüllt ein Betrieb oder eine Betriebsgemeinschaft die Voraussetzungen nicht mehr, so widerruft es die ausdrückliche oder stillschweigende Anerkennung. Es legt in seinem Entscheid fest, ab welchem Datum der Widerruf gilt.
 
 ### 2.7.2 Ausführung und Koordination der Kontrollen (Art. 181 Abs. 1 LwG und 7 Abs. 2 LandwG)
 
@@ -482,9 +471,9 @@ beschliesst:
 
 **Befugnisse**
 
-<sup>1</sup> Das Amt ist für alle Kontrollen zuständig, die auf den Landwirtschaftsbetrieben durchgeführt werden müssen.
+<sup>1</sup> Grangeneuve ist für alle Kontrollen zuständig, die auf den Landwirtschaftsbetrieben durchgeführt werden müssen.
 
-<sup>2</sup> Ist für die Kontrollen die Anwesenheit von Fachpersonen erforderlich, so koordiniert das Amt ihre Einsätze auf dem Landwirtschaftsbetrieb. Zu diesem Zweck melden die Facheinheiten die geplanten Einsätze vorgängig dem Amt.
+<sup>2</sup> Ist für die Kontrollen die Anwesenheit von Fachpersonen erforderlich, so koordiniert es ihre Einsätze auf dem Landwirtschaftsbetrieb. Zu diesem Zweck melden ihm die Facheinheiten die geplanten Einsätze vorgängig.
 
 <sup>3</sup> Das gleiche gilt für Kontrollen, die von akkreditierten oder anerkannten Organisationen durchgeführt werden.
 
@@ -506,9 +495,9 @@ beschliesst:
 
 **Staatsrat (Art. 5 und 6 LandwG)**
 
-<sup>1</sup> Die allgemeinen Ziele der kantonalen Agrarpolitik werden aufgrund des Vierjahresprogramms der Agrarpolitik des Bundes festgelegt. Sie müssen innerhalb eines Jahres nach der Festlegung des 4-Jahres-Finanzrahmens durch die eidgenössischen Räte verabschiedet werden.
+<sup>1</sup> Die allgemeinen Ziele der kantonalen Agrarpolitik werden aufgrund des Programms der Agrarpolitik des Bundes festgelegt.
 
-<sup>2</sup> Das kantonale Vierjahresprogramm enthält insbesondere die folgenden Elemente:
+<sup>2</sup> Das kantonale Fünfjahresprogramm enthält insbesondere die folgenden Elemente:
 
 - a) einen Lagebericht;
 - b) einen Überblick über die Entwicklung der Agrarpolitik des Bundes;
@@ -516,7 +505,7 @@ beschliesst:
 - d) die Entwicklungsperspektiven;
 - e) die Zielsetzungen, die Massnahmen, die ergriffen werden müssen, und die dafür notwendigen Mittel.
 
-<sup>3</sup> Die Aufgaben nach Absatz 2 werden vom LIG ausgeführt.
+<sup>3</sup> Die Aufgaben nach Absatz 2 werden von Grangeneuve ausgeführt.
 
 #### Art. 45
 
@@ -546,17 +535,15 @@ beschliesst:
 
 **Organisation und Arbeitsweise der LandwK und der KSL**
 
-<sup>1</sup> Die LandwK und die KSL treten so oft zusammen, wie es die Geschäfte erfordern. Die Sitzungen werden vom Amt oder vom Vorstand einberufen.
+<sup>1</sup> Die LandwK und die KSL treten so oft zusammen, wie es die Geschäfte erfordern. Die Sitzungen werden von Grangeneuve oder vom Vorstand einberufen.
 
-<sup>2</sup> Das Amt führt das Sekretariat der LandwK und der KSL.
+<sup>2</sup> Grangeneuve führt das Sekretariat der LandwK und der KSL.
 
 <sup>3</sup> Im Übrigen richtet sich die Arbeitsweise und die Organisation der LandwK und der KSL nach dem Reglement über die Organisation und die Arbeitsweise der Kommissionen des Staates.
 
 #### Art. 48
 
-**Landwirtschaftliches Institut des Kantons Freiburg (Art. 8 und 15 LandwG)**
-
-<sup>1</sup> Nebst den Aufgaben, die ihm durch die Landwirtschaftsgesetzgebung und die Spezialgesetzgebung übertragen werden, wirkt das LIG auch bei der Prüfung technischer oder wirtschaftlicher Fragen, die besondere Kenntnisse erfordern, mit.
+**…**
 
 ### 3.2 Landwirtschaftsfonds (Art. 16 ff. LandwG)
 
@@ -611,7 +598,7 @@ beschliesst:
 
 **Festlegung des Zinssatzes (Art. 16 und 19 Abs. 2 LandwG)**
 
-<sup>1</sup> Die Darlehen werden mit einem reduzierten Zinssatz von mindestens 1 % bis höchstens 3 % gewährt.
+<sup>1</sup> Die Darlehen werden mit einem reduzierten Zinssatz von mindestens 0,75 % bis höchstens 3 % gewährt.
 
 <sup>2</sup> Ein über dem Mindestzins nach Absatz 1 liegender reduzierter Zins wird erhoben für:
 
@@ -631,13 +618,13 @@ beschliesst:
 - b) einer Bürgschaft oder
 - c) einer solidarischen Verpflichtung.
 
-<sup>2</sup> Das Amt kann akzeptieren, dass die Staatsgarantien im Rang hinter die der anderen Gläubiger zurücktreten.
+<sup>2</sup> Grangeneuve kann akzeptieren, dass die Staatsgarantien im Rang hinter die der anderen Gläubiger zurücktreten.
 
 #### Art. 56
 
 **Verfahren (Art. 22 LandwG)**
 
-<sup>1</sup> Die Darlehensgesuche müssen an das Amt gerichtet werden.
+<sup>1</sup> Die Darlehensgesuche müssen an Grangeneuve gerichtet werden.
 
 <sup>2</sup> Im Entscheid legt die zuständige Behörde insbesondere fest:
 
@@ -657,13 +644,13 @@ beschliesst:
 
 <sup>1</sup> Der Staatsrat entscheidet unter Berücksichtigung von Artikel 3 über die Gewährung von Darlehen über 500'000 Franken.
 
-<sup>2</sup> Die Direktion entscheidet über Beträge unter 500'000 Franken. Sie kann dem Amt die Befugnis übertragen, über Beträge bis 50'000 Franken zu entscheiden.
+<sup>2</sup> Die Direktion entscheidet über Beträge unter 500'000 Franken. Sie kann Grangeneuve die Befugnis übertragen, über Beträge bis 50'000 Franken zu entscheiden.
 
 #### Art. 58
 
 **Kontrolle**
 
-<sup>1</sup> Das Amt kann Kontrollen auf dem Betrieb vornehmen, um die Verwendung der Darlehen zu überprüfen. Es koordiniert diese Tätigkeiten mit anderen Kontrollen gemäss den Grundsätzen nach Artikel 42.
+<sup>1</sup> Grangeneuve kann Kontrollen auf dem Betrieb vornehmen, um die Verwendung der Darlehen zu überprüfen. Es koordiniert diese Tätigkeiten mit anderen Kontrollen gemäss den Grundsätzen nach Artikel 42.
 
 #### Art. 59
 
@@ -746,7 +733,7 @@ beschliesst:
 
 **Verfahren – Gesuch**
 
-<sup>1</sup> Das Gesuch wird an das Amt gerichtet.
+<sup>1</sup> Das Gesuch wird an Grangeneuve gerichtet.
 
 <sup>2</sup> Ein vollständiges Dossier zur Begründung der beantragten Förderungsmassnahmen muss beigelegt werden.
 
@@ -775,7 +762,7 @@ beschliesst:
 
 **Verfahren – Prüfung des Gesuchs**
 
-<sup>1</sup> Das Amt prüft, ob die Anforderungen erfüllt sind.
+<sup>1</sup> Grangeneuve prüft, ob die Anforderungen erfüllt sind.
 
 <sup>2</sup> Unter Berücksichtigung der Besonderheiten jedes Interventionsbereiches prüft es jedes Projekt namentlich im Hinblick auf:
 
@@ -797,15 +784,15 @@ beschliesst:
 
 **Gewährung**
 
-<sup>1</sup> Im Rahmen des vom Staatsrat beschlossenen Vierjahresprogramms legt die Direktion den Betrag für die Finanzhilfe sowie die Einzelheiten für die Gewährung fest. Sie kann dem Amt die Befugnis übertragen, über Gesuche im Betrag bis 50'000 Franken zu entscheiden.
+<sup>1</sup> Im Rahmen des vom Staatsrat beschlossenen Fünfjahresprogramms legt die Direktion den Betrag für die Finanzhilfe sowie die Einzelheiten für die Gewährung fest. Sie kann Grangeneuve die Befugnis übertragen, über Gesuche im Betrag bis 50'000 Franken zu entscheiden.
 
 #### Art. 72
 
 **Kontrolle**
 
-<sup>1</sup> Das Amt kann sich jederzeit bei der Empfängerin oder dem Empfänger der Hilfe nach dem Stand des Projekts erkundigen. Zu diesem Zweck kann es am Umsetzungsprozess des Projekts mitwirken.
+<sup>1</sup> Grangeneuve kann sich jederzeit bei der Empfängerin oder dem Empfänger der Hilfe nach dem Stand des Projekts erkundigen. Zu diesem Zweck kann es am Umsetzungsprozess des Projekts mitwirken.
 
-<sup>2</sup> Nach Abschluss des Projekts legt die Empfängerin oder der Empfänger dem Amt einen Bericht über die Verwirklichung des Projekts und der im Gesuch angekündigten Zielsetzungen vor. Das Amt kann auch sachdienliche Unterlagen verlangen, um diese Untersuchung selbst vorzunehmen.
+<sup>2</sup> Nach Abschluss des Projekts legt die Empfängerin oder der Empfänger Grangeneuve einen Bericht über die Verwirklichung des Projekts und der im Gesuch angekündigten Zielsetzungen vor. Grangeneuve kann auch sachdienliche Unterlagen verlangen, um diese Untersuchung selbst vorzunehmen.
 
 #### Art. 73
 
@@ -843,17 +830,17 @@ beschliesst:
 
 **Auskünfte und Kontrollen**
 
-<sup>1</sup> Wer Beiträge erhalten möchte, ermächtigt das Amt, insbesondere bei den zuständigen milchwirtschaftlichen Organisationen die nötigen Auskünfte einzuholen.
+<sup>1</sup> Wer Beiträge erhalten möchte, ermächtigt Grangeneuve, insbesondere bei den zuständigen milchwirtschaftlichen Organisationen die nötigen Auskünfte einzuholen.
 
-<sup>2</sup> Das Amt kann gemäss dem für Direktzahlungen und Beiträge vorgesehenen Verfahren Kontrollen auf dem Betrieb durchführen.
+<sup>2</sup> Grangeneuve kann gemäss dem für Direktzahlungen und Beiträge vorgesehenen Verfahren Kontrollen auf dem Betrieb durchführen.
 
 #### Art. 77
 
 **Verfahren und Gewährung**
 
-<sup>1</sup> Das Gesuch wird im Rahmen des Verfahrens für die Direktzahlungen an das Amt gerichtet.
+<sup>1</sup> Das Gesuch wird im Rahmen des Verfahrens für die Direktzahlungen an Grangeneuve gerichtet.
 
-<sup>2</sup> Das Amt teilt den Entscheid über die Gewährung gleichzeitig mit dem Entscheid über die Direktzahlungen mit.
+<sup>2</sup> …
 
 ### 3.4.2 Innovation (Art. 34 LandwG)
 
@@ -903,55 +890,56 @@ beschliesst:
 
 <sup>2</sup> Ist kein Projekt genügend interessant, so kann der Preis nicht verliehen oder gekürzt werden.
 
-### 3.4.3 Anbaumethoden und techniken (Art. 35 ff. LandwG)
+### 3.4.3 Beiträge an die effiziente Nutzung natürlicher Ressourcen und an die Biodiversität (Art. 35 ff. LandwG)
 
 #### Art. 82
 
-**Geförderte Anbaumethoden**
+**Beiträge an die Reduktion der Risiken von Pflanzenschutzmitteln**
 
-<sup>1</sup> Es werden namentlich die folgenden Anbaumethoden gefördert:
+<sup>1</sup> Im Rahmen der gewährten Kredite können Beiträge bis zu den folgenden Pauschalbeträgen und Höchstsätzen an die im Folgenden aufgelisteten Massnahmen gewährt werden:
 
-- a) die Direktsaat;
-- b) die Streifenfrässaat;
-- c) die Mulchsaat;
-- d) das Anlegen und Belassen von Grasstreifen, solange sie nicht mit Direktzahlungen des Bundes abgegolten werden;
+- a) Erwerb von Antidrift-Luftinjektordüsen: 5 Franken pro Düse, höchstens zwei Düsen pro Meter Breite des Spritzbalkens;
+- b) Erwerb von Maschinen zur nicht-chemischen Unkrautbekämpfung oder zur Unkrautbekämpfung mit automatischem und selektivem Einsatz von Herbiziden: 40 % der Beschaffungskosten, höchstens aber 4'000 Franken pro Maschine;
+- c) Herbizidverzicht auf offenen Ackerflächen: 200 Franken pro Hektare und Jahr;
+- d) Verzicht auf synthetische Pflanzenschutzmittel auf Rebflächen und Obstkulturen in geschlossenen Anlagen: 1'500 Franken pro Hektare und Jahr;
+- e) Anpflanzung resistenter Sorten auf Rebflächen und Obstkulturen in geschlossenen Anlagen: 6'000 Franken pro Hektare, bei der Anpflanzung;
+- f) Mindestens 3 Meter breite Grünstreifen im offenen Ackerland entlang von Strassen und Wegen oder Grünstreifen zwischen Parzellen: 2 Franken pro Laufmeter Grünstreifen und Jahr.
+
+<sup>2</sup> Flächen, für die Bundesbeiträge für biologische Landwirtschaft oder Bundesbeiträge für den Herbizidverzicht oder den Verzicht auf Fungizide mit besonderem Risikopotenzial ausgerichtet werden, sind von den Beträgen nach Absatz 1 Bst. d ausgenommen.
+
+<sup>3</sup> Flächen, für die Biodiversitätsbeiträge des Bundes ausgerichtet werden, sind von den Beträgen nach Absatz 1 Bst. f ausgenommen.
 
 #### Art. 83
 
-**Bedingungen**
+**Verfahren**
 
-<sup>1</sup> Beiträge können den Bewirtschafterinnen und Bewirtschaftern gewährt werden, die mit dem Amt einen Vertrag für mindestens 5 Jahre abgeschlossen haben.
+<sup>1</sup> Die Beitragsgesuche müssen mit einem vollständig ausgefüllten amtlichen Formular bei Grangeneuve eingereicht werden. Sie müssen zusammen mit den erforderlichen Anhängen eingereicht werden.
 
-<sup>2</sup> Als Bewirtschafterin oder Bewirtschafter gelten Personen, die der Definition der Bundesverordnung über landwirtschaftliche Begriffe und die Anerkennung von Betriebsformen entsprechen.
+<sup>2</sup> Grangeneuve legt die Fristen und die Modalitäten für die Einreichung der Gesuche fest und entscheidet über die Gewährung der Beiträge.
 
-<sup>3</sup> Die Bewirtschafterin oder der Bewirtschafter muss sich insbesondere verpflichten, Anbaumethoden zum Schutz landwirtschaftlicher Böden auf Flächen von mindestens folgendem Ausmass anzuwenden:
+<sup>3</sup> …
 
-- a) 1 Hektare bei Direktsaat, Streifenfrässaat und/oder Mulchsaat;
-- b) 25 Aren bei Grasstreifen.
-
-<sup>4</sup> Die Beiträge werden für Parzellen im Talgebiet im Sinn der Bundesgesetzgebung gewährt, deren Bewirtschafterinnen und Bewirtschafter Anrecht auf Direktzahlungen haben.
+<sup>4</sup> …
 
 #### Art. 84
 
-**Festlegung der Beträge**
+**Kontrollen**
 
-<sup>1</sup> Der Gesamtbetrag der Beiträge wird im Voranschlag im Rahmen der agrarpolitischen Richtlinien festgelegt.
+<sup>1</sup> Grangeneuve nimmt gemäss dem für Direktzahlungen und Beiträge vorgesehenen Verfahren Kontrollen vor.
 
-<sup>2</sup> Die Höhe der Beiträge wird aufgrund des Umfangs der betreffenden Flächen und der voraussichtlichen Auswirkungen der vereinbarten Anbaumethoden und Techniken festgelegt.
+<sup>2</sup> …
 
 #### Art. 85
 
-**Kontrollen und Gewährung**
+**Widerruf des Entscheids und Rückzahlung des Beitrags**
 
-<sup>1</sup> Das Amt nimmt gemäss dem für Direktzahlungen und Beiträge vorgesehenen Verfahren Kontrollen auf dem Betrieb vor.
+<sup>1</sup> Grangeneuve kann gemäss den entsprechenden Bestimmungen des kantonalen Subventionsgesetzes den Entscheid über die Gewährung widerrufen, den gewährten Beitrag kürzen oder verlangen, dass der Beitrag ganz oder teilweise zurückerstattet wird.
 
-<sup>2</sup> Das Amt zahlt die Beiträge grundsätzlich zusammen mit den Direktzahlungen aus.
+<sup>2</sup> …
 
 #### Art. 86
 
-**Widerruf des Entscheids, Kündigung des Vertrags und Rückzahlung des Beitrags**
-
-<sup>1</sup> Das Amt kann gemäss den entsprechenden Bestimmungen des kantonalen Subventionsgesetzes den Entscheid über die Gewährung des Vertrags widerrufen, den öffentlich-rechtlichen Vertrag kündigen, den gewährten Beitrag kürzen oder verlangen, dass der Beitrag ganz oder teilweise zurückerstattet wird.
+**…**
 
 ### 3.4.4 Betriebshilfen für Betriebe in Schwierigkeiten (Art. 39 LandwG und 78 ff LwG)
 
@@ -973,9 +961,9 @@ beschliesst:
 
 <sup>2</sup> Die Anlaufstelle setzt sich aus einem Aufsichtsorgan (AO) und einer operativen Koordinationsgruppe (OKG) zusammen.
 
-<sup>2a</sup> Dem AO gehören die Direktorin oder der Direktor des LIG, die Vorsteherin oder der Vorsteher des Amts für Landwirtschaft, die Vorsteherin oder der Vorsteher des Sozialamts und die Vorsteherin oder der Vorsteher des Amts für Lebensmittelsicherheit und Veterinärwesen an.
+<sup>2a</sup> Dem AO gehören die Direktorin oder der Direktor und die Leiterin oder der Leiter der für die Landwirtschaft zuständigen Sektion von Grangeneuve, die Vorsteherin oder der Vorsteher des Sozialamts und die Vorsteherin oder der Vorsteher des Amts für Lebensmittelsicherheit und Veterinärwesen an.
 
-<sup>2b</sup> Der OKG gehören je eine Vertreterin oder ein Vertreter des LIG, des Amts für Landwirtschaft, des Sozialamts und des Amts für Lebensmittelsicherheit und Veterinärwesen an.
+<sup>2b</sup> Der OKG gehören zwei Vertreterinnen oder Vertreter von Grangeneuve und je eine Vertreterin oder ein Vertreter des Sozialamts und des Amts für Lebensmittelsicherheit und Veterinärwesen an.
 
 <sup>3</sup> Im Rahmen ihrer Beratung und Begleitung kann die Anlaufstelle Unterstützung anfordern insbesondere:
 
@@ -990,7 +978,7 @@ beschliesst:
 - i) vom betreffenden Betreibungsamt und/oder
 - j) von der Freiburgischen Vereinigung für den landwirtschaftlichen Betriebshelferdienst (SECADA).
 
-<sup>4</sup> Das LIG übernimmt das Präsidium und führt das Sekretariat der Anlaufstelle, sowohl für das AO als auch für die OKG.
+<sup>4</sup> Grangeneuve übernimmt das Präsidium und führt das Sekretariat der Anlaufstelle, sowohl für das AO als auch für die OKG.
 
 #### Art. 89
 
@@ -1028,23 +1016,31 @@ beschliesst:
 
 #### Art. 91
 
-**Übergangsrecht – Zuchtförderung**
-
-<sup>1</sup> Die vom Bundesgesetz vorgeschriebene kantonale Beteiligung im Bereich der Zuchtförderung (Art. 141 ff. LwG) wird vom Amt ausgezahlt, bis die Ausführungsbestimmungen des Bundes zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA) in Kraft sind.
+**…**
 
 #### Art. 92
 
-**Übergangsrecht – Autonome Landwirtschaftliche Amortisationskasse und Kantonale Zentralstelle für Agrarkredite**
+**Übergangsrecht – Autonome Landwirtschaftliche Amortisationskasse, Kantonale Zentralstelle für Agrarkredite und Amt für Landwirtschaft**
 
-<sup>1</sup> Alle im Namen der Autonomen Landwirtschaftlichen Amortisationskasse (ALAK) und der Kantonalen Zentralstelle für Agrarkredite (ZAKF) vor Inkrafttreten dieses Reglements gewährten Darlehen sowie Eintragungen im Grundbuch zu ihren Gunsten tragen die folgende Überschrift: Staat Freiburg, Amt für Landwirtschaft.
+<sup>1</sup> Alle im Namen der Autonomen Landwirtschaftlichen Amortisationskasse (ALAK) und der Kantonalen Zentralstelle für Agrarkredite (ZAKF) und des Staates Freiburg, Amt für Landwirtschaft, vor Inkrafttreten dieses Reglements und der Änderung vom xxxxxx gewährten Darlehen sowie Eintragungen im Grundbuch zu ihren Gunsten tragen die folgende Überschrift: Staat Freiburg, Grangeneuve.
 
 <sup>2</sup> Für Finanzhilfegesuche in den Bereichen Strukturverbesserungen und soziale Begleitmassnahmen, die zum Zeitpunkt des Inkrafttretens dieses Reglements noch hängig sind, gilt das neue Recht.
 
+<sup>3</sup> Für Finanzhilfegesuche in den Bereichen Strukturverbesserungen und soziale Begleitmassnahmen, die zum Zeitpunkt des Inkrafttretens der Änderung vom xxxxxx noch hängig sind, gilt das neue Recht.
+
 #### Art. 92a
 
-**Übergangsrecht – Darlehen aus dem Landwirtschaftsfonds**
+**Übergangsrecht - Änderung vom 11. November 2013 - Darlehen aus dem Landwirtschaftsfonds**
 
 <sup>1</sup> Die vor dem Inkrafttreten der Änderung vom 11. November 2013 dieses Reglements gewährten Darlehen aus dem Landwirtschaftsfonds unterstehen bis zum Abschluss des Projekts dem bisherigen Recht.
+
+<sup>2</sup> Darlehensgesuche, die beim Inkrafttreten dieser Änderung hängig sind, unterstehen dem neuen Recht.
+
+#### Art. 92b
+
+**Übergangsrecht - Änderung vom XXXXXXXXX - Darlehen aus dem Landwirtschaftsfonds**
+
+<sup>1</sup> Die vor dem Inkrafttreten dieser Änderung gewährten Darlehen aus dem Landwirtschaftsfonds unterstehen bis zum Abschluss des Projekts dem bisherigen Recht.
 
 <sup>2</sup> Darlehensgesuche, die beim Inkrafttreten dieser Änderung hängig sind, unterstehen dem neuen Recht.
 
