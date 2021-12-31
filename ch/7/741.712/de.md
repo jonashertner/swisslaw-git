@@ -3,18 +3,18 @@ sr: "741.712"
 title: Verordnung des EFD vom 30. Oktober 2011 über die Aufwandsentschädigung im Zusammenhang mit der Erhebung der Nationalstrassenabgabe
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/735"
 language: de
-version: 2011-12-01
+version: 2022-01-01
 adopted: 2011-10-30
 in_force: 2011-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/735/20111201/de/xml/fedlex-data-admin-ch-eli-cc-2011-735-20111201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/735/20111201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/735/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-735-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/735/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EFD über die Aufwandsentschädigung im Zusammenhang mit der Erhebung der Nationalstrassenabgabe
 
-vom 30. Oktober 2011 (Stand am 1. Dezember 2011)
+vom 30. Oktober 2011 (Stand am 1. Januar 2022)
 
 Das Eidgenössische Finanzdepartement (EFD),
 
@@ -37,16 +37,18 @@ verordnet:
 
 #### Art. 2
 
-**Aufwandsentschädigung der Eidgenössischen Zollverwaltung**
+**Aufwandsentschädigung des BAZG**
 
-<sup>1</sup> Die Aufwandsentschädigung der Eidgenössischen Zollverwaltung beträgt 2,5 Prozent der Einnahmen aus dem Verkauf aller Vignetten (Bruttoeinnahmen).
+<sup>1</sup> Die Aufwandsentschädigung des Bundesamts für Zoll und Grenzsicherheit (BAZG)[^2-1] beträgt 2,5 Prozent der Einnahmen aus dem Verkauf aller Vignetten (Bruttoeinnahmen).
 
 <sup>2</sup>
 
-Die Eidgenössische Zollverwaltung wird zudem entschädigt für die Kosten, die ihr durch die Übertragung der folgenden Aufgaben an Dritte entstehen:
+Das BAZG wird zudem entschädigt für die Kosten, die ihm durch die Übertragung der folgenden Aufgaben an Dritte entstehen:
 
 - a. der Kontrolle und der Strafverfolgung im vereinfachten Verfahren nach Artikel 18 Absatz 3 NSAG; und
 - b. des Verkaufs der Vignette an der Grenze.
+
+[^2-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 3
 
@@ -54,7 +56,7 @@ Die Eidgenössische Zollverwaltung wird zudem entschädigt für die Kosten, die 
 
 Die Verordnung vom 7. November 1994[^3-1] über die Aufwandentschädigung für den Verkauf der «Autobahn-Vignette» zur Benützung der Nationalstrassen wird aufgehoben.
 
-[^3-1]: [[AS 1994 3009](https://fedlex.data.admin.ch/eli/oc/1994/3009_3009_3009), [2000 2743](https://fedlex.data.admin.ch/eli/oc/2000/459)]
+[^3-1]: [[AS 1994 3009](https://fedlex.data.admin.ch/eli/oc/1994/3009_3009_3009); [2000 2743](https://fedlex.data.admin.ch/eli/oc/2000/459)]
 
 #### Art. 4
 

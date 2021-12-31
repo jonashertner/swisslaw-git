@@ -3,18 +3,18 @@ sr: "741.712"
 title: "Ordinanza del DFF del 30 ottobre 2011 concernente il compenso per prestazioni relative alla riscossione della tassa per l'utilizzazione delle strade nazionali"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/735"
 language: it
-version: 2011-12-01
+version: 2022-01-01
 adopted: 2011-10-30
 in_force: 2011-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/735/20111201/it/xml/fedlex-data-admin-ch-eli-cc-2011-735-20111201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/735/20111201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/735/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-735-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/735/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFF concernente il compenso per prestazioni relative alla riscossione della tassa per l’utilizzazione delle strade nazionali
 
-del 30 ottobre 2011 (Stato 1° dicembre 2011)
+del 30 ottobre 2011 (Stato 1° gennaio 2022)
 
 Il Dipartimento federale delle finanze (DFF),
 
@@ -37,16 +37,18 @@ ordina:
 
 #### Art. 2
 
-**Compenso per prestazioni fornite dall’Amministrazione federale delle dogane**
+**Compenso per prestazioni fornite dall’UDSC**
 
-<sup>1</sup> Il compenso per prestazioni fornite dall’Amministrazione federale delle dogane ammonta al 2,5 per cento delle entrate provenienti dalla vendita di tutti i contrassegni (entrate lorde).
+<sup>1</sup> Il compenso per prestazioni fornite dall’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^2-1] ammonta al 2,5 per cento delle entrate provenienti dalla vendita di tutti i contrassegni (entrate lorde).
 
 <sup>2</sup>
 
-All’Amministrazione federale delle dogane spetta inoltre un compenso per i costi che le derivano dalla delega dei seguenti compiti a terzi:
+All’UDSC spetta inoltre un compenso per i costi che le derivano dalla delega dei seguenti compiti a terzi:
 
 - a. controllo e perseguimento penale in procedura semplificata ai sensi dell’articolo 18 capoverso 3 LUSN; e
 - b. vendita del contrassegno al confine.
+
+[^2-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 3
 
