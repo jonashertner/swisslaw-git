@@ -3,20 +3,19 @@ canton: OW
 number: "817.11"
 title: Verordnung über Friedhöfe und Bestattungen
 language: de
-version: 2016-02-01
-valid_until: 2021-12-31
-version_adopted: 2015-12-03
+version: 2022-01-01
+version_adopted: 2021-06-25
 adopted: 1991-10-24
 in_force: 1992-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/817.11"
-pdf: "http://gdb.ow.ch/api/de/versions/1037/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1550/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über Friedhöfe und Bestattungen
 
-vom 24.10.1991 (Stand 01.02.2016)
+vom 24.10.1991 (Stand 01.01.2022)
 
 Der Kantonsrat des Kantons Obwalden erlässt,
 
@@ -120,7 +119,7 @@ als Verordnung:
 
 **Ausserordentliche Todesfälle**
 
-<sup>1</sup> Ist der Tod gewaltsam durch Verbrechen, Selbsttötung, Unglücksfall oder ohne sichtbare Ursache eingetreten, so meldet der Arzt den Fall der Staatsanwaltschaft oder der Polizei.
+<sup>1</sup> …
 
 <sup>2</sup> Bei ausserordentlichen Todesfällen darf die Bestattung erst nach Zustimmung der Staatsanwaltschaft erfolgen.
 
@@ -239,6 +238,8 @@ geändert durch
 
 \- das Gesetz über die Justizreform vom 21. Mai 2010, in Kraft seit 1. Januar 2011 (OGS 2010, 33),
 
-\- Gesundheitsgesetz vom 3. Dezember 2015 (OGS 2015, 64), in Kraft seit 1. Februar 2016 (OGS 2016, 1); Botschaft und Antrag des Regierungsrats vom 16. Juni 2015, Sitzungen des Kantonsrats vom 22. Oktober und 3. Dezember 2015 (22.15.03)
+\- Gesundheitsgesetz vom 3. Dezember 2015 (OGS 2015, 64), in Kraft seit 1. Februar 2016 (OGS 2016, 1); Botschaft und Antrag des Regierungsrats vom 16. Juni 2015, Sitzungen des Kantonsrats vom 22. Oktober und 3. Dezember 2015 (22.15.03),
+
+\- Nachtrag zum Gesundheitsgesetz vom 25. Juni 2021 (OGS 2021, 23), Botschaft und Vorlage des Regierungsrats vom 9. März 2021), Kantonsratssitzungen vom 27. Mai und 25. Juni 2021 (22.21.01), Volksabstimmung vom 28. November 2021 (ABl 2021, 1747), in Kraft seit 1. Januar 2022 (OGS 2021, 41)
 
 OGS 1991, 83
