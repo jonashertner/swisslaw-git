@@ -4,21 +4,22 @@ number: "911.1"
 title: Gesetz über das Polizeiwesen
 short: "Polizeigesetz, PolG"
 language: de
-version: 2016-01-01
-corrected: 2021-10-26
-version_adopted: 2015-05-27
+version: 2022-01-01
+valid_until: 2025-02-28
+version_adopted: 2021-09-29
 adopted: 2014-06-11
 in_force: 2014-11-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/911.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/412/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/961/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über das Polizeiwesen (Polizeigesetz, PolG)
+# Gesetz über das Polizeiwesen
 
-vom 11. Juni 2014[^t-1]
+(Polizeigesetz, PolG)
+
+vom 11.06.2014 (Stand 01.01.2022)
 
 Der Landrat von Nidwalden,
 
@@ -26,9 +27,7 @@ gestützt auf Art. 60 der Kantonsverfassung,
 
 beschliesst:
 
-[^t-1]: A 2014, 1085, 1578; in Kraft seit 1. November 2014
-
-### I. ALLGEMEINE BESTIMMUNGEN
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -37,11 +36,8 @@ beschliesst:
 <sup>1</sup> Dieses Gesetz regelt:
 
 - 1\. die Organisation des Polizeiwesens;
-
 - 2\. die Aufgaben der Polizei (Kantonspolizei) und die Art und Weise ihrer Aufgabenerfüllung;
-
 - 3\. die dienstrechtlichen Bestimmungen der Polizei; und
-
 - 4\. das Erbringen von privaten Sicherheitsdienstleistungen.
 
 <sup>2</sup> Es gilt soweit nicht die Schweizerische Strafprozessordnung (StPO)[^1-1], die Schweizerische Jugendstrafprozessordnung (JStPO)[^1-2] oder weitere Erlasse oder Vereinbarungen zur Anwendung gelangen.
@@ -51,9 +47,7 @@ beschliesst:
 
 #### Art. 2
 
-**Organisation**
-
-- 1\. Direktion
+**Organisation 1. Direktion**
 
 <sup>1</sup> Die Direktion übt die Aufsicht über das Polizeiwesen aus.
 
@@ -70,22 +64,18 @@ beschliesst:
 <sup>3</sup> Sie hat folgende Aufgaben:
 
 - 1\. Aufrechterhaltung der öffentlichen Sicherheit und Ordnung;
-
 - 2\. Abwehr unmittelbar drohender Gefahren für Mensch, Tier und Umwelt;
-
 - 3\. Beseitigung eingetretener Störungen;
-
 - 4\. Verhinderung, Verfolgung und Aufklärung von Straftaten und Mitwirkung bei der Strafuntersuchung;
-
 - 5\. Amts- und Vollzugshilfe für Verwaltung und Justiz;
-
 - 6\. Betrieb der kantonalen Alarmstelle sowie Hilfeleistung bei Not und im Katastrophenfall;
-
 - 7\. Wahrnehmung der Aufgaben der Bewilligungsbehörde im Sinne des Konkordates über private Sicherheitsdienstleistungen[^3-1];
-
 - 8\. Erfüllung der weiteren ihr durch die Gesetzgebung übertragenen Aufgaben.
 
+<sup>4</sup> Sie ist die für die Fälle häuslicher Gewalt zuständige kantonale Stelle gemäss Art. 55a Abs. 2 StGB[^3-2].
+
 [^3-1]: NG 911.2
+[^3-2]: SR 311.0
 
 #### Art. 4
 
@@ -113,23 +103,19 @@ beschliesst:
 
 #### Art. 7
 
-**Grenzüberschreitende Polizeieinsätze und polizeiliche**
-
-### Handlungen 1. Grundsätze
+**Grenzüberschreitende Polizeieinsätze und polizeiliche Handlungen 1. Grundsätze**
 
 <sup>1</sup> Die Direktion kann andere Kantone und den Bund um den Einsatz von Polizeikräften im Kanton ersuchen oder den Einsatz der Nidwaldner Polizei ausserhalb des Kantons anordnen.
 
 <sup>2</sup> In Fällen von hoher zeitlicher Dringlichkeit oder untergeordneter Bedeutung ist die Kommandantin oder der Kommandant zuständig.
 
-<sup>3</sup> Nacheile zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung sowie zur Gefahrenabwehr oder -beseitigung ist zulässig, soweit der betreffende Kanton Gegenrecht gewährt. Die örtliche Polizei ist so bald als möglich zu informieren und der Einsatz zu übergeben.
+<sup>3</sup> Nacheile zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung sowie zur Gefahrenabwehr oder ‑beseitigung ist zulässig, soweit der betreffende Kanton Gegenrecht gewährt. Die örtliche Polizei ist so bald als möglich zu informieren und der Einsatz zu übergeben.
 
 <sup>4</sup> Abweichende Bestimmungen interkantonaler Vereinbarungen bleiben vorbehalten.
 
 #### Art. 8
 
-**2. rechtliche Stellung der auswärtigen**
-
-### Polizeiangehörigen
+**2. rechtliche Stellung der auswärtigen Polizeiangehörigen**
 
 <sup>1</sup> Polizeiangehörige anderer Kantone, die im Kanton Nidwalden eingesetzt werden, haben die gleichen Rechte und Pflichten wie die Polizeiangehörigen des Kantons Nidwalden.
 
@@ -137,9 +123,7 @@ beschliesst:
 
 #### Art. 9
 
-**3. rechtliche Stellung der Nidwaldner Polizei-**
-
-angehörigen ausserhalb des Kantons Nidwalden
+**3. rechtliche Stellung der Nidwaldner Polizei- angehörigen ausserhalb des Kantons Nidwalden**
 
 <sup>1</sup> Die Rechte und Pflichten der Polizeiangehörigen des Kantons Nidwalden richten sich bei Einsätzen in anderen Kantonen nach der Rechtsordnung am Einsatzort.
 
@@ -149,15 +133,15 @@ angehörigen ausserhalb des Kantons Nidwalden
 
 [^9-1]: NG 161.2
 
-### II. POLIZEILICHES HANDELN
+## 2 Polizeiliches Handeln
 
-### A. Allgemeine Grundsätze
+### 2.1 Allgemeine Grundsätze
 
 #### Art. 10
 
 **Polizeiliche Generalklausel**
 
-Die Polizei trifft im Einzelfall auch ohne besondere gesetzliche Grundlage jene unaufschiebbaren Massnahmen, die zur Abwehr unmittelbar drohender, erheblicher Gefahren für die öffentliche Sicherheit und Ordnung oder zur Beseitigung eingetretener, erheblicher Störungen notwendig sind.
+<sup>1</sup> Die Polizei trifft im Einzelfall auch ohne besondere gesetzliche Grundlage jene unaufschiebbaren Massnahmen, die zur Abwehr unmittelbar drohender, erheblicher Gefahren für die öffentliche Sicherheit und Ordnung oder zur Beseitigung eingetretener, erheblicher Störungen notwendig sind.
 
 #### Art. 11
 
@@ -173,9 +157,7 @@ Die Polizei trifft im Einzelfall auch ohne besondere gesetzliche Grundlage jene 
 
 #### Art. 12
 
-**Adressaten des polizeilichen Handelns**
-
-### 1. Störer
+**Adressaten des polizeilichen Handelns 1. Störer**
 
 <sup>1</sup> Das polizeiliche Handeln richtet sich in erster Linie gegen die Person, welche die öffentliche Sicherheit und Ordnung unmittelbar stört oder gefährdet oder die für das entsprechende Verhalten einer dritten Person verantwortlich ist.
 
@@ -185,19 +167,18 @@ Die Polizei trifft im Einzelfall auch ohne besondere gesetzliche Grundlage jene 
 
 **2. andere Personen**
 
-Das polizeiliche Handeln darf sich gegen eine andere Person richten, wenn:
+<sup>1</sup> Das polizeiliche Handeln darf sich gegen eine andere Person richten, wenn:
 
 - 1\. das Gesetz es vorsieht; oder
-
 - 2\. eine unmittelbar drohende oder eingetretene schwere Störung oder Gefährdung der öffentlichen Sicherheit und Ordnung nicht anders abgewehrt oder beseitigt werden kann.
 
-### B. Handlungsweise der Polizei
+### 2.2 Handlungsweise der Polizei
 
 #### Art. 14
 
 **Benachrichtigung bei Gewahrsam**
 
-Nimmt die Polizei eine minderjährige oder umfassend verbeiständete Person in Gewahrsam, benachrichtigt die Polizei ohne Verzug die Inhaberin oder den Inhaber der elterlichen Sorge oder Obhut, die Kindes- und Erwachsenenschutzbehörde oder eine andere zuständige Stelle.
+<sup>1</sup> Nimmt die Polizei eine minderjährige oder umfassend verbeiständete Person in Gewahrsam, benachrichtigt die Polizei ohne Verzug die Inhaberin oder den Inhaber der elterlichen Sorge oder Obhut, die Kindes- und Erwachsenenschutzbehörde oder eine andere zuständige Stelle.
 
 #### Art. 15
 
@@ -211,12 +192,10 @@ Nimmt die Polizei eine minderjährige oder umfassend verbeiständete Person in G
 
 **Schutz privater Rechte**
 
-Die Polizei kann zum Schutz privater Rechte ausnahmsweise tätig werden, wenn:
+<sup>1</sup> Die Polizei kann zum Schutz privater Rechte ausnahmsweise tätig werden, wenn:
 
 - 1\. es die Gesetzgebung vorsieht oder der Bestand der privaten Rechte glaubhaft gemacht wird;
-
 - 2\. der Schutz durch ein Gericht oder eine Verwaltungsbehörde nicht rechtzeitig zu erlangen ist; und
-
 - 3\. die Gefährdung oder Störung erheblich ist.
 
 #### Art. 17
@@ -231,7 +210,7 @@ Die Polizei kann zum Schutz privater Rechte ausnahmsweise tätig werden, wenn:
 
 **Information der Öffentlichkeit**
 
-Die Polizei informiert die Öffentlichkeit, soweit keine schützenswerten, übergeordneten Interessen oder gesetzliche Bestimmungen entgegenstehen.
+<sup>1</sup> Die Polizei informiert die Öffentlichkeit, soweit keine schützenswerten, übergeordneten Interessen oder gesetzliche Bestimmungen entgegenstehen.
 
 #### Art. 19
 
@@ -241,19 +220,19 @@ Die Polizei informiert die Öffentlichkeit, soweit keine schützenswerten, über
 
 <sup>2</sup> Sie vernichtet unverzüglich sämtliche vom Staatsarchiv als nicht archivwürdig bezeichneten Daten.
 
-### C. Polizeilicher Zwang
+### 2.3 Polizeilicher Zwang
 
 #### Art. 20
 
 **Grundsatz**
 
-Die Polizei kann zur Erfüllung ihrer Aufgaben im Rahmen der Verhältnismässigkeit unmittelbaren Zwang gegen Personen, Tiere oder Sachen anwenden und geeignete Hilfsmittel, Waffen und Munitionstypen einsetzen.
+<sup>1</sup> Die Polizei kann zur Erfüllung ihrer Aufgaben im Rahmen der Verhältnismässigkeit unmittelbaren Zwang gegen Personen, Tiere oder Sachen anwenden und geeignete Hilfsmittel, Waffen und Munitionstypen einsetzen.
 
 #### Art. 21
 
 **Androhung**
 
-Die Anwendung unmittelbaren Zwangs ist anzudrohen, sofern es die Umstände zulassen.
+<sup>1</sup> Die Anwendung unmittelbaren Zwangs ist anzudrohen, sofern es die Umstände zulassen.
 
 #### Art. 22
 
@@ -262,9 +241,7 @@ Die Anwendung unmittelbaren Zwangs ist anzudrohen, sofern es die Umstände zulas
 <sup>1</sup> Die Polizei darf eine Person mit Fesseln sichern, wenn konkrete Anhaltspunkte bestehen, sie werde:
 
 - 1\. Menschen angreifen, Widerstand gegen polizeiliche Anordnungen leisten, Tiere verletzen, Sachen beschädigen oder solche einer Sicherstellung entziehen;
-
 - 2\. fliehen, andere befreien oder selbst befreit werden; oder
-
 - 3\. sich töten oder verletzen.
 
 <sup>2</sup> Bei Transporten dürfen Personen aus Sicherheitsgründen gefesselt werden.
@@ -278,13 +255,9 @@ Die Anwendung unmittelbaren Zwangs ist anzudrohen, sofern es die Umstände zulas
 <sup>2</sup> Der Gebrauch der Schusswaffe kann insbesondere gerechtfertigt sein:
 
 - 1\. wenn Polizeiangehörige oder andere Personen in gefährlicher Weise angegriffen oder mit einem gefährlichen Angriff unmittelbar bedroht werden;
-
 - 2\. wenn eine Person ein schweres Verbrechen oder ein schweres Vergehen begangen hat oder eines solchen dringend verdächtigt wird und sie fliehen will;
-
 - 3\. wenn eine Person für andere eine unmittelbar drohende Gefahr an Leib und Leben darstellt und sich der Festnahme zu entziehen versucht;
-
 - 4\. zur Befreiung von Geiseln; oder
-
 - 5\. zur Verhinderung eines unmittelbar drohenden Verbrechens oder schweren Vergehens an Einrichtungen, die der Allgemeinheit dienen und die für die Allgemeinheit wegen ihrer Verletzlichkeit eine besondere Gefahr bilden.
 
 <sup>3</sup> Dem Schusswaffengebrauch hat ein deutlicher Warnruf vorauszugehen, sofern der Zweck und die Umstände es zulassen.
@@ -297,11 +270,11 @@ Die Anwendung unmittelbaren Zwangs ist anzudrohen, sofern es die Umstände zulas
 
 **Hilfeleistung**
 
-Wird unmittelbar Zwang angewendet, muss Verletzten, soweit die Umstände es zulassen, Beistand geleistet und ärztliche Hilfe verschafft werden.
+<sup>1</sup> Wird unmittelbar Zwang angewendet, muss Verletzten, soweit die Umstände es zulassen, Beistand geleistet und ärztliche Hilfe verschafft werden.
 
-### III. POLIZEILICHE MASSNAHMEN
+## 3 Polizeiliche Massnahmen
 
-### A. Informationsbericht zur Person und Personennachforschung
+### 3.1 Informationsbericht zur Person und Personennachforschung
 
 #### Art. 25
 
@@ -310,9 +283,7 @@ Wird unmittelbar Zwang angewendet, muss Verletzten, soweit die Umstände es zula
 <sup>1</sup> Die Polizei erstellt für die Verwaltungs- und für die Strafverfolgungsbehörden sowie für zivile und militärische Stellen auf deren Gesuch hin einen Informationsbericht zur Person, sofern:
 
 - 1\. das Gesetz dies ausdrücklich vorsieht;
-
 - 2\. es für die Erfüllung einer in der Gesetzgebung umschriebenen Aufgabe der Gesuchstellenden unentbehrlich ist; oder
-
 - 3\. die betroffene Person im Einzelfall ausdrücklich eingewilligt oder ihre Daten allgemein zugänglich gemacht hat.
 
 <sup>2</sup> Das Gesuch hat den Zweck des Informationsberichts zur Person, die gesetzliche Grundlage und die Art der verlangten Information zu enthalten.
@@ -330,22 +301,17 @@ Wird unmittelbar Zwang angewendet, muss Verletzten, soweit die Umstände es zula
 <sup>1</sup> Die Polizei forscht mit geeigneten Mitteln nach einer Person, wenn:
 
 - 1\. mindestens eine der Voraussetzungen für den polizeilichen Gewahrsam gegeben ist;
-
 - 2\. Anhaltspunkte bestehen, sie könnte verunfallt oder Opfer eines Verbrechens oder Vergehens geworden sein;
-
 - 3\. diese der Polizei sachdienliche Informationen zu einer vermissten oder gesuchten Person geben könnte; oder
-
 - 4\. die Gesetzgebung dies vorsieht.
 
 <sup>2</sup> Erfolgt die Personennachforschung mittels Ausschreibung, wird diese widerrufen, sobald der Grund entfällt.
 
-<sup>3</sup> Für die erfolgreiche Mitwirkung Privater bei der Personennachforschung kann die Polizei eine Belohnung aussetzen. Soll die Belohnung höher als Fr. 10‘000.– ausfallen, bedarf ihre Aussetzung der Genehmigung des Regierungsrates.
+<sup>3</sup> Für die erfolgreiche Mitwirkung Privater bei der Personennachforschung kann die Polizei eine Belohnung aussetzen. Soll die Belohnung höher als Fr. 10'000.– ausfallen, bedarf ihre Aussetzung der Genehmigung des Regierungsrates.
 
 <sup>4</sup> Gegen den Entscheid, der Helferin oder dem Helfer eine Belohnung zu gewähren, kann nicht Beschwerde geführt werden.
 
-### B. Personenkontrollen, Identitätsfeststellung und erkennungs-
-
-dienstliche Behandlung
+### 3.2 Personenkontrollen, Identitätsfeststellung und erkennungsdienstliche Behandlung
 
 #### Art. 27
 
@@ -364,18 +330,14 @@ dienstliche Behandlung
 <sup>1</sup> Die Polizei kann, sofern die Feststellung der Identität einer Person mit anderen vorhandenen Mitteln nicht oder nur mit erheblichen Schwierigkeiten erfolgen kann, ausserhalb eines Strafverfahrens:
 
 - 1\. visuelle Aufnahmen machen;
-
 - 2\. Körpermerkmale einer Person feststellen;
-
 - 3\. Abdrücke von Körperteilen nehmen;
-
 - 4\. Handschriften- oder Sprachproben nehmen; oder
-
 - 5\. DNA-Analysen erstellen.
 
 <sup>2</sup> Vorbehältlich besonderer gesetzlicher Regelungen sind erkennungsdienstlich erhobene Daten zu vernichten, sobald die Identität der Person festgestellt wurde oder der Grund für die Erhebung der Daten weggefallen ist.
 
-### C. Polizeiliches Aufgebot und Befragung
+### 3.3 Polizeiliches Aufgebot und Befragung
 
 #### Art. 29
 
@@ -389,9 +351,9 @@ dienstliche Behandlung
 
 **Befragung**
 
-Die Polizei kann eine Person ohne Beachtung besonderer Formvorschriften zu Sachverhalten befragen.
+<sup>1</sup> Die Polizei kann eine Person ohne Beachtung besonderer Formvorschriften zu Sachverhalten befragen.
 
-### D. Wegweisung und Fernhaltung
+### 3.4 Wegweisung und Fernhaltung
 
 #### Art. 31
 
@@ -400,39 +362,31 @@ Die Polizei kann eine Person ohne Beachtung besonderer Formvorschriften zu Sachv
 <sup>1</sup> Die Polizei kann eine Person von einem öffentlichen Ort wegweisen oder für längstens 24 Stunden fernhalten, wenn:
 
 - 1\. die Person oder eine Ansammlung von Personen, der sie angehört, die öffentliche Sicherheit und Ordnung stört oder gefährdet;
-
 - 2\. die Person oder eine Ansammlung von Personen, der sie angehört, Dritte erheblich belästigt, gefährdet oder unberechtigterweise an der bestimmungsgemässen Nutzung des öffentlich zugänglichen Raumes hindert;
-
 - 3\. Einsatzkräfte wie Polizei, Feuerwehr oder Rettungskräfte behindert oder gefährdet werden;
-
 - 4\. die Person selber ernsthaft und unmittelbar gefährdet ist; oder
-
 - 5\. die Wahrung der Rechte von Personen dies erfordert.
 
 <sup>2</sup> In besonderen Fällen, insbesondere bei Ausführungs-, Fortsetzungs- oder Wiederholungsgefahr der Gefährdung oder Störung, kann die Polizei das Verbot unter Androhung der Straffolgen von Art. 292 Strafgesetzbuch (StGB)[^31-1] für höchstens 14 Tage verfügen.
 
 [^31-1]: SR 311.0
 
-### E. Zu- und Rückführung
+### 3.5 Zu- und Rückführung
 
 #### Art. 32
 
 **Zuführung**
 
-Auf Ersuchen der zuständigen Stelle führt die Polizei eine Person dieser Stelle oder einer anderen Stelle zu.
+<sup>1</sup> Auf Ersuchen der zuständigen Stelle führt die Polizei eine Person dieser Stelle oder einer anderen Stelle zu.
 
 #### Art. 33
 
-**Zuführung von minderjährigen oder umfassend**
-
-verbeiständeten Personen
+**Zuführung von minderjährigen oder umfassend verbeiständeten Personen**
 
 <sup>1</sup> Die Polizei kann eine minderjährige oder umfassend verbeiständete Person in ihre Obhut nehmen, wenn die Person:
 
 - 1\. sich der elterlichen oder der kindes- und erwachsenenschutzrechtlichen Aufsicht entzieht;
-
 - 2\. sich an Orten aufhält, wo ihr eine Gefahr für ihre körperliche, sexuelle oder psychische Integrität droht; oder
-
 - 3\. Anzeichen von Alkohol-, Betäubungsmittel-, oder sonstigem Suchtmittelmissbrauch aufweist.
 
 <sup>2</sup> Die Polizei führt die Person ohne Verzug der Inhaberin oder dem Inhaber der elterlichen Sorge oder Obhut, der Kindes- und Erwachsenenschutzbehörde oder einer anderen zuständigen Stelle zu.
@@ -443,26 +397,21 @@ verbeiständeten Personen
 
 **Rückführung von ausreisepflichtigen Personen**
 
-Die Polizei vollzieht die in die Zuständigkeit des Kantons Nidwalden fallenden Rückführungen von ausreisepflichtigen Ausländerinnen und Ausländern.
+<sup>1</sup> Die Polizei vollzieht die in die Zuständigkeit des Kantons Nidwalden fallenden Rückführungen von ausreisepflichtigen Ausländerinnen und Ausländern.
 
-### F. Polizeilicher Gewahrsam
+### 3.6 Polizeilicher Gewahrsam
 
 #### Art. 35
 
 **Voraussetzungen**
 
-Die Polizei kann eine Person für höchstens 24 Stunden in Gewahrsam nehmen, wenn:
+<sup>1</sup> Die Polizei kann eine Person für höchstens 24 Stunden in Gewahrsam nehmen, wenn:
 
 - 1\. sie sich selber, andere Personen, Tiere oder Sachen ernsthaft und unmittelbar gefährdet;
-
 - 2\. sie sich in einem die freie Willensbildung beeinträchtigenden Zustand befindet;
-
 - 3\. dadurch weitere Störungen der öffentlichen Sicherheit und Ordnung vermieden werden können;
-
 - 4\. voraussichtlich eine fürsorgerische Unterbringung anzuordnen ist;
-
 - 5\. sie sich einer Freiheitsstrafe oder einer freiheitsentziehenden Massnahme durch Flucht entzogen hat; oder
-
 - 6\. dies zur Sicherstellung einer Zu- oder Rückführung notwendig ist.
 
 #### Art. 36
@@ -481,7 +430,7 @@ Die Polizei kann eine Person für höchstens 24 Stunden in Gewahrsam nehmen, wen
 
 <sup>2</sup> Zuständig ist das Verwaltungsgericht als Einzelgericht.
 
-### G. Durchsuchungen
+### 3.7 Durchsuchungen
 
 #### Art. 38
 
@@ -490,18 +439,14 @@ Die Polizei kann eine Person für höchstens 24 Stunden in Gewahrsam nehmen, wen
 <sup>1</sup> Die Polizei kann in oder an der Kleidung einer Person, an der Körperoberfläche oder in den ohne Hilfsmittel einsehbaren Körperöffnungen und Körperhöhlen nach Sachen oder Spuren suchen, wenn:
 
 - 1\. dies zum Schutz von Polizeiangehörigen oder anderer Personen oder von Sachen von namhaftem Wert erforderlich ist;
-
 - 2\. ein Grund für einen polizeilichen Gewahrsam dieser Person gegeben ist;
-
 - 3\. konkrete Anhaltspunkte bestehen, dass sie sicherzustellende Sachen bei sich hat;
-
 - 4\. es zur Feststellung ihrer Identität erforderlich ist; oder
-
 - 5\. sie sich in einem die freie Willensbildung ausschliessenden Zustand oder in hilfloser Lage befindet und die Durchsuchung zu ihrem Schutz erforderlich ist.
 
 <sup>2</sup> Die Durchsuchung wird von einer Person gleichen Geschlechts vorgenommen, es sei denn, die Massnahme ertrage keinen Aufschub.
 
-<sup>3</sup> Weitergehende körperliche Untersuchungen, insbesondere im Intimbereich, sind unter den Voraussetzungen gemäss Abs. 1 Ziff. 1-5 zulässig. Die Polizei beauftragt damit eine Ärztin oder einen Arzt.
+<sup>3</sup> Weitergehende körperliche Untersuchungen, insbesondere im Intimbereich, sind unter den Voraussetzungen gemäss Abs. 1 Ziff. 1–5 zulässig. Die Polizei beauftragt damit eine Ärztin oder einen Arzt.
 
 #### Art. 39
 
@@ -510,11 +455,8 @@ Die Polizei kann eine Person für höchstens 24 Stunden in Gewahrsam nehmen, wen
 <sup>1</sup> Die Polizei kann Fahrzeuge, Behältnisse und andere Sachen öffnen und durchsuchen, wenn:
 
 - 1\. dies zum Schutz der Polizeiangehörigen oder anderen Personen erforderlich ist;
-
 - 2\. Anhaltspunkte bestehen, dass sich Personen darin befinden, die in Gewahrsam genommen werden können oder die hilflos sind;
-
 - 3\. konkrete Anhaltspunkte bestehen, dass sich sicherzustellende Tiere oder Sachen darin befinden; oder
-
 - 4\. dies zur Ermittlung der Berechtigung an Tieren sowie Fahrzeugen oder anderen Sachen erforderlich ist.
 
 <sup>2</sup> Die Durchsuchung erfolgt nach Möglichkeit in Gegenwart der Person, welche die Sachherrschaft ausübt.
@@ -526,27 +468,23 @@ Die Polizei kann eine Person für höchstens 24 Stunden in Gewahrsam nehmen, wen
 <sup>1</sup> Die Polizei kann Räume durchsuchen, wenn die Umstände ein sofortiges Handeln nötig machen, um:
 
 - 1\. eine gegenwärtige erhebliche Gefahr für Leib und Leben oder die Freiheit einer Person abzuwehren;
-
 - 2\. Tiere oder Sachen von namhaftem Wert zu schützen; oder
-
 - 3\. eine Person in Gewahrsam zu nehmen, wenn konkrete Anhaltspunkte bestehen, dass sie sich in den zu durchsuchenden Räumen befindet.
 
 <sup>2</sup> Soweit es die Umstände zulassen, zieht die Polizei für die Durchsuchung des Raumes die Besitzerin oder den Besitzer bei.
 
 <sup>3</sup> Ist die Besitzerin oder der Besitzer abwesend, zieht die Polizei eine volljährige, nicht umfassend verbeiständete Angehörige oder Mitbewohnerin, einen volljährigen, nicht umfassend verbeiständeten Angehörigen oder Mitbewohner oder eine Urkundsperson bei.
 
-### H. Sicherstellung von Tieren und Sachen
+### 3.8 Sicherstellung von Tieren und Sachen
 
 #### Art. 41
 
 **Voraussetzungen**
 
-Die Polizei kann Tiere und Sachen sicherstellen:
+<sup>1</sup> Die Polizei kann Tiere und Sachen sicherstellen:
 
 - 1\. um eine erhebliche Gefahr abzuwehren;
-
 - 2\. zum Schutz privater Rechte gemäss Art. 16; oder
-
 - 3\. um zu verhindern, dass eine in Gewahrsam genommene Person sie missbräuchlich verwendet.
 
 #### Art. 42
@@ -573,21 +511,19 @@ Die Polizei kann Tiere und Sachen sicherstellen:
 
 **Wegschaffung, Fernhaltung**
 
-Die Polizei darf Tiere sowie Fahrzeuge und andere Sachen von einem Ort fernhalten, wegschaffen oder wegschaffen lassen, wenn sie:
+<sup>1</sup> Die Polizei darf Tiere sowie Fahrzeuge und andere Sachen von einem Ort fernhalten, wegschaffen oder wegschaffen lassen, wenn sie:
 
 - 1\. vorschriftswidrig auf öffentlichem Grund abgestellt sind;
-
 - 2\. öffentliche Arbeiten oder die bestimmungsgemässe Nutzung des öffentlich zugänglichen Raumes behindern oder gefährden; oder
-
 - 3\. eine erhebliche Gefährdung für Personen, Tiere oder Sachen von namhaftem Wert darstellen.
 
 #### Art. 45
 
 **Androhung**
 
-Die Massnahmen gemäss Art. 43 und Art. 44 werden der betroffenen Person angedroht. In dringenden Fällen kann von der Androhung abgesehen werden.
+<sup>1</sup> Die Massnahmen gemäss Art. 43 und Art. 44 werden der betroffenen Person angedroht. In dringenden Fällen kann von der Androhung abgesehen werden.
 
-### I. Überwachung und Informationsbeschaffung
+### 3.9 Überwachung und Informationsbeschaffung
 
 #### Art. 46
 
@@ -598,9 +534,7 @@ Die Massnahmen gemäss Art. 43 und Art. 44 werden der betroffenen Person angedro
 <sup>2</sup> Sie kann dazu mit technischen Geräten offen oder verdeckt Bild- und Tonaufnahmen machen oder Daten speichern, wenn:
 
 - 1\. konkrete Anhaltspunkte bestehen, dass es zu Verbrechen oder Vergehen kommen könnte und es sich zur Abwehr drohender Gefahren als geeignet und erforderlich erweist;
-
 - 2\. eine gesetzliche Grundlage dies vorsieht; oder
-
 - 3\. es sich um einen polizeilichen Sondereinsatz handelt.
 
 <sup>3</sup> Eine missbräuchliche Verwendung von Aufzeichnungen, die Personenidentifikationen zulassen, ist durch geeignete technische und organisatorische Massnahmen auszuschliessen.
@@ -614,7 +548,6 @@ Die Massnahmen gemäss Art. 43 und Art. 44 werden der betroffenen Person angedro
 <sup>2</sup> Die verdeckte Fahndung ist nur zulässig, wenn:
 
 - 1\. konkrete Anhaltspunkte bestehen, dass es zu Verbrechen oder Vergehen kommen könnte und es sich zur Abwehr drohender Gefahren als geeignet und erforderlich erweist; oder
-
 - 2\. eine gesetzliche Grundlage dies vorsieht.
 
 <sup>3</sup> Sie kann auch in elektronischen Medien erfolgen.
@@ -628,9 +561,7 @@ Die Massnahmen gemäss Art. 43 und Art. 44 werden der betroffenen Person angedro
 <sup>1</sup> Die Polizei kann ausserhalb von Strafverfahren zur Erkennung und Verhinderung von strafbaren Handlungen eine Person mit einer Legende ausstatten, um sie durch aktives, zielgerichtetes Verhalten für längere Zeit in einen auffälligen Personenkreis einzuschleusen, wenn:
 
 - 1\. konkrete Anhaltspunkte bestehen, dass es zu Verbrechen oder schweren Vergehen kommen könnte;
-
 - 2\. die besondere Schwere oder Eigenart der in Betracht fallenden Straftat den Eingriff rechtfertigt; und
-
 - 3\. andere Massnahmen erfolglos geblieben sind, aussichtslos oder unverhältnismässig erschwert sind.
 
 <sup>2</sup> Als verdeckt Vorermittelnde können Polizeiangehörige eines schweizerischen oder ausländischen Polizeikorps oder vorübergehend mit polizeilichen Aufgaben beauftragte Personen eingesetzt werden.
@@ -647,7 +578,7 @@ Die Massnahmen gemäss Art. 43 und Art. 44 werden der betroffenen Person angedro
 
 **Verdeckte Registrierung**
 
-Die Polizei kann zur Abwehr von Gefahren für die öffentliche Sicherheit Personen und Fahrzeuge gemäss Art. 36 ff. des EU-Beschlusses über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems der zweiten Generation (SIS II)[^49-1] verdeckt registrieren lassen.
+<sup>1</sup> Die Polizei kann zur Abwehr von Gefahren für die öffentliche Sicherheit Personen und Fahrzeuge gemäss Art. 36 ff. des EU-Beschlusses über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems der zweiten Generation (SIS II)[^49-1] verdeckt registrieren lassen.
 
 [^49-1]: Beschluss 2007/533/JI vom 12. Juni 2007, Amtsblatt der EU Nr. L 205/63 vom 7.8.2007
 
@@ -655,7 +586,7 @@ Die Polizei kann zur Abwehr von Gefahren für die öffentliche Sicherheit Person
 
 **Vertrauliche Quellen**
 
-Zum Zweck der Informationsbeschaffung kann die Polizei unter Zusicherung der Vertraulichkeit von Informantinnen beziehungsweise Informanten oder Vertrauenspersonen einzelfallweise Hinweise entgegennehmen, die der polizeilichen Aufgabenerfüllung dienen.
+<sup>1</sup> Zum Zweck der Informationsbeschaffung kann die Polizei unter Zusicherung der Vertraulichkeit von Informantinnen beziehungsweise Informanten oder Vertrauenspersonen einzelfallweise Hinweise entgegennehmen, die der polizeilichen Aufgabenerfüllung dienen.
 
 #### Art. 51
 
@@ -669,7 +600,7 @@ Zum Zweck der Informationsbeschaffung kann die Polizei unter Zusicherung der Ver
 
 [^51-1]: SR 780.1
 
-### IV. DIENSTRECHT
+## 4 Dienstrecht
 
 #### Art. 52
 
@@ -685,44 +616,39 @@ Zum Zweck der Informationsbeschaffung kann die Polizei unter Zusicherung der Ver
 
 **Bewaffnete Dienstausübung**
 
-Polizeiangehörige üben ihren Dienst in der Regel bewaffnet aus.
+<sup>1</sup> Polizeiangehörige üben ihren Dienst in der Regel bewaffnet aus.
 
 #### Art. 54
 
 **Handeln in dienstfreier Zeit**
 
-Stellen Polizeiangehörige in der dienstfreien Zeit ein Verbrechen oder Vergehen oder eine erhebliche Gefährdung von Rechtsgütern fest, leiten sie deren Ahndung beziehungsweise Beseitigung in die Wege.
+<sup>1</sup> Stellen Polizeiangehörige in der dienstfreien Zeit ein Verbrechen oder Vergehen oder eine erhebliche Gefährdung von Rechtsgütern fest, leiten sie deren Ahndung beziehungsweise Beseitigung in die Wege.
 
 #### Art. 55
 
 **Ergänzende Bestimmungen**
 
-Der Regierungsrat erlässt in einer Verordnung insbesondere Vorschriften über die Organisation, die Bekleidung, die Ausrüstung und die Bewaffnung.
+<sup>1</sup> Der Regierungsrat erlässt in einer Verordnung insbesondere Vorschriften über die Organisation, die Bekleidung, die Ausrüstung und die Bewaffnung.
 
-### V. DATENSCHUTZ
+## 5 Datenschutz
 
 #### Art. 56
 
 **Grundsatz**
 
-Soweit dieses Gesetz nichts anderes regelt, gelten die Bestimmungen des Gesetzes über den Datenschutz (Kantonales Datenschutzgesetz, kDSG)[^56-1].
+<sup>1</sup> Soweit dieses Gesetz nichts anderes regelt, gelten die Bestimmungen des Gesetzes über den Datenschutz (Kantonales Datenschutzgesetz, kDSG)[^56-1].
 
 [^56-1]: NG 232.1
 
 #### Art. 57
 
-**Datenbeschaffung und –bearbeitung,**
+**Datenbeschaffung und ‑bearbeitung, Datenbearbeitungssysteme**
 
-### Datenbearbeitungssysteme
-
-Die Polizei kann zur Erfüllung ihrer Aufgaben:
+<sup>1</sup> Die Polizei kann zur Erfüllung ihrer Aufgaben:
 
 - 1\. Daten beschaffen, bearbeiten sowie geeignete Datenbearbeitungssysteme aufbauen und betreiben;
-
 - 2\. besonders schützenswerte Personendaten und Persönlichkeitsprofile bearbeiten, soweit es zur Verhinderung und Erkennung von Verbrechen und Vergehen unentbehrlich ist;
-
 - 3\. nicht verifizierte Daten und Daten über Anhaltspunkte bearbeiten; oder
-
 - 4\. betroffenen Personen die Einsichtnahme in Daten verweigern, soweit dies für die Erfüllung ihrer Aufgabe notwendig ist.
 
 #### Art. 58
@@ -732,9 +658,7 @@ Die Polizei kann zur Erfüllung ihrer Aufgaben:
 <sup>1</sup> Die Polizei kann Daten anderen Strafverfolgungsbehörden und weiteren Behörden bekannt geben, wenn dies:
 
 - 1\. gesetzlich vorgesehen ist;
-
 - 2\. zur Erfüllung der jeweiligen öffentlichen Aufgabe zwingend notwendig ist; oder
-
 - 3\. für den Schutz der Empfängerinnen und Empfänger notwendig ist.
 
 <sup>2</sup> Behörden und Amtsstellen liefern der Polizei unter Beachtung der Entbindung vom Amtsgeheimnis beziehungsweise der Schweigepflicht jene Daten, die unentbehrlich sind, um die polizeilichen Aufgaben zu erfüllen.
@@ -752,14 +676,11 @@ Die Polizei kann zur Erfüllung ihrer Aufgaben:
 
 **Datenaustausch im Abrufverfahren**
 
-Die Weitergabe von Personendaten an ein Drittsystem für ein Abrufverfahren unterliegt folgenden Voraussetzungen:
+<sup>1</sup> Die Weitergabe von Personendaten an ein Drittsystem für ein Abrufverfahren unterliegt folgenden Voraussetzungen:
 
 - 1\. der Zugriff auf das Drittsystem ist den Strafverfolgungsbehörden vorbehalten;
-
 - 2\. das Drittsystem gewährleistet den Datenschutz;
-
 - 3\. die Einwilligung eines allfälligen Opfers zur Erfassung seiner Personalien liegt vor; und
-
 - 4\. die Weitergabe der Daten wird protokolliert.
 
 #### Art. 60
@@ -769,18 +690,15 @@ Die Weitergabe von Personendaten an ein Drittsystem für ein Abrufverfahren unte
 <sup>1</sup> Personendaten sind von Amtes wegen zu löschen:
 
 - 1\. spätestens nach 100 Tagen bei Bild- und Tonaufzeichnungen von Überwachungsgeräten, sofern die Aufzeichnungen nicht zum Zweck eines Strafverfahrens verwendet werden;
-
 - 2\. spätestens nach 100 Tagen bei Aufzeichnungen der Gespräche mit der Einsatzzentrale der Polizei, sofern die Aufzeichnung nicht zur Beweisführung oder zu Fahndungszwecken sichergestellt worden sind;
-
 - 3\. spätestens ein Jahr nach der Erstellung von Bild- und Tonaufnahmen bei polizeilichen Sondereinsätzen, sofern die Aufnahmen nicht zu Beweiszwecken in Straf-, Staatshaftungs- oder Aufsichtsbeschwerdeverfahren dienen; oder
-
 - 4\. spätestens 5 Jahren nach deren Erhebung, wenn die Polizei die Daten von sich aus erhoben hat.
 
 <sup>2</sup> Besteht berechtigter Grund zur Annahme, dass eine Löschung die schutzwürdigen Interessen der betroffenen Person beeinträchtigen würde, werden die personenbezogenen Daten nicht gelöscht, sondern lediglich gesperrt. Gesperrte Daten dürfen nur zu dem Zweck verarbeitet werden, der ihrer Löschung entgegenstand.
 
 <sup>3</sup> Anonymisierte Aufnahmen dürfen unbefristet zu Schulungs- und Ausbildungszwecken sowie Öffentlichkeitsarbeit verwendet werden.
 
-### VI. KOSTEN UND HAFTUNG
+## 6 Kosten und Haftung
 
 #### Art. 61
 
@@ -791,11 +709,8 @@ Die Weitergabe von Personendaten an ein Drittsystem für ein Abrufverfahren unte
 <sup>2</sup> Die Bezahlung der amtlichen Kosten wird insbesondere verlangt von:
 
 - 1\. Verursacherinnen oder Verursachern einer polizeilichen Leistung;
-
 - 2\. Verursacherinnen oder Verursachern einer Drittleistung, welche die Polizei in Auftrag gegeben hat;
-
 - 3\. Veranstalterinnen und Veranstalter kommerzieller Anlässe wie Ausstellungen, Sportveranstaltungen oder kulturellen Veranstaltungen, die einen aufwendigen Ordnungs- oder Verkehrsdienst erforderlich machen; oder
-
 - 4\. der Betreiberin oder vom Betreiber einer Alarmanlage für das Ausrücken bei Fehlalarm.
 
 <sup>3</sup> Bei bewilligten Veranstaltungen, die der Ausübung des verfassungsmässig garantierten Demonstrationsrechts dienen, werden den Veranstaltern keine Kosten auferlegt, sofern sie nicht grobfahrlässig gegen Auflagen der Bewilligung verstossen haben.
@@ -809,7 +724,6 @@ Die Weitergabe von Personendaten an ein Drittsystem für ein Abrufverfahren unte
 <sup>1</sup> Fallen bei Sicherstellung, Fernhaltung, Wegschaffung, Aufbewahrung, Vorkehrungen zur Werterhaltung, Verwertung oder Vernichtung Kosten an, können sie der Person auferlegt werden, die:
 
 - 1\. am Tier, am Fahrzeug oder an der Sache berechtigt ist; oder
-
 - 2\. die polizeiliche Massnahme verursacht hat.
 
 <sup>2</sup> Die Rückgabe von sichergestellten Tieren, Fahrzeugen und Sachen kann von der Zahlung der Kosten abhängig gemacht werden.
@@ -818,25 +732,23 @@ Die Weitergabe von Personendaten an ein Drittsystem für ein Abrufverfahren unte
 
 **Haftung**
 
-Die Haftung richtet sich nach den Bestimmungen des Haftungsgesetzes[^63-1].
+<sup>1</sup> Die Haftung richtet sich nach den Bestimmungen des Haftungsgesetzes[^63-1].
 
 [^63-1]: NG 161.2
 
-### VII. ALARMANLAGEN
+## 7 Alarmanlagen
 
 #### Art. 64
 
 **Private Alarmanlagen**
 
-Private Alarmanlagen, mit denen die Polizei direkt alarmiert werden kann, bedürfen einer Bewilligung der Polizei.
+<sup>1</sup> Private Alarmanlagen, mit denen die Polizei direkt alarmiert werden kann, bedürfen einer Bewilligung der Polizei.
 
-### VIII. RECHTSSCHUTZ
-
-[^hVIIIRECHTSSCHUTZ-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+## 8 Rechtsschutz
 
 #### Art. 65
 
-**Beschwerdeverfahren[^hVIIIRECHTSSCHUTZ-1]**
+**Beschwerdeverfahren**
 
 <sup>1</sup> Beschwerden gegen Verfügungen oder Entscheide, die in Anwendung dieses Erlasses ergehen, haben keine aufschiebende Wirkung.
 
@@ -844,35 +756,33 @@ Private Alarmanlagen, mit denen die Polizei direkt alarmiert werden kann, bedür
 
 [^65-1]: NG 265.1
 
-### IX. VOLLZUGS-, ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
+## 9 Vollzugs-, Übergangs- und Schlussbestimmungen
 
 #### Art. 66
 
 **Vollzug**
 
-Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen in einer Verordnung.
+<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen in einer Verordnung.
 
 #### Art. 67
 
 **Übergangsbestimmung**
 
-Für die Tiere, Fahrzeuge und Sachen, welche vor dem Inkrafttreten dieses Gesetzes sichergestellt wurden, gelangt Art. 62 nicht zur Anwendung.
+<sup>1</sup> Für die Tiere, Fahrzeuge und Sachen, welche vor dem Inkrafttreten dieses Gesetzes sichergestellt wurden, gelangt Art. 62 nicht zur Anwendung.
 
 #### Art. 68
 
-**Änderung bisherigen Rechts**
+**Änderung bisherigen Rechts 1. Einführungsgesetz zum Zivilgesetzbuch**
 
-### 1. Einführungsgesetz zum Zivilgesetzbuch
+<sup>1</sup> Das Gesetz vom 24. April 1988 über die Einführung des Schweizerischen Zivilgesetzbuches (Einführungsgesetz zum Zivilgesetzbuch, EG ZGB)[^68-1] wird wie folgt geändert: …
 
-Das Gesetz vom 24. April 1988 über die Einführung des Schweizerischen Zivilgesetzbuches (Einführungsgesetz zum Zivilgesetzbuch, EG ZGB)[^h1Einführungsgesetz-1] wird wie folgt geändert: …
-
-[^h1Einführungsgesetz-1]: NG 211.1
+[^68-1]: NG 211.1
 
 #### Art. 69
 
 **2. Gerichtsgesetz**
 
-Das Gesetz vom 9. Juni 2010 über die Gerichte und die Justizbehörden (Gerichtsgesetz, GerG)[^69-1] wird wie folgt geändert: …
+<sup>1</sup> Das Gesetz vom 9. Juni 2010 über die Gerichte und die Justizbehörden (Gerichtsgesetz, GerG)[^69-1] wird wie folgt geändert: …
 
 [^69-1]: NG 261.1
 
@@ -880,7 +790,7 @@ Das Gesetz vom 9. Juni 2010 über die Gerichte und die Justizbehörden (Gerichts
 
 **3. Verwaltungsrechtspflegeverordnung**
 
-Die Verordnung über das Verfahren und die Verwaltungsrechtspflege vom 8. Februar 1985 (Verwaltungsrechtspflegeverordnung)[^70-1] wird wie folgt geändert: ...
+<sup>1</sup> Die Verordnung über das Verfahren und die Verwaltungsrechtspflege vom 8. Februar 1985 (Verwaltungsrechtspflegeverordnung)[^70-1] wird wie folgt geändert: …
 
 [^70-1]: NG 265.1
 
@@ -888,7 +798,7 @@ Die Verordnung über das Verfahren und die Verwaltungsrechtspflege vom 8. Februa
 
 **4. Zivilschutzgesetz**
 
-Das Einführungsgesetz vom 22. Oktober 2003 zur Bundesgesetzgebung über den Zivilschutz (Zivilschutzgesetz)[^71-1] wird wie folgt geändert: …
+<sup>1</sup> Das Einführungsgesetz vom 22. Oktober 2003 zur Bundesgesetzgebung über den Zivilschutz (Zivilschutzgesetz)[^71-1] wird wie folgt geändert: …
 
 [^71-1]: NG 421.1
 
@@ -896,7 +806,7 @@ Das Einführungsgesetz vom 22. Oktober 2003 zur Bundesgesetzgebung über den Ziv
 
 **5. Kantonales Strassenverkehrsgesetz**
 
-Das Einführungsgesetz vom 22. Oktober 2008 zur Bundesgesetzgebung über den Strassenverkehr (Kantonales Strassenverkehrsgesetz)[^72-1] wird wie folgt geändert: …
+<sup>1</sup> Das Einführungsgesetz vom 22. Oktober 2008 zur Bundesgesetzgebung über den Strassenverkehr (Kantonales Strassenverkehrsgesetz)[^72-1] wird wie folgt geändert: …
 
 [^72-1]: NG 651.1
 
@@ -904,7 +814,7 @@ Das Einführungsgesetz vom 22. Oktober 2008 zur Bundesgesetzgebung über den Str
 
 **6. Sozialhilfegesetz**
 
-Das Gesetz vom 29. Januar 1997 über die Sozialhilfe (Sozialhilfegesetz)[^73-1] wird wie folgt geändert: …
+<sup>1</sup> Das Gesetz vom 29. Januar 1997 über die Sozialhilfe (Sozialhilfegesetz)[^73-1] wird wie folgt geändert: …
 
 [^73-1]: NG 761.1
 
@@ -912,7 +822,7 @@ Das Gesetz vom 29. Januar 1997 über die Sozialhilfe (Sozialhilfegesetz)[^73-1] 
 
 **7. Polizeigesetz**
 
-Das Gesetz vom 26. April 1987 über das Polizeiwesen (Polizeigesetz)[^74-1] wird wie folgt geändert: …
+<sup>1</sup> Das Gesetz vom 26. April 1987 über das Polizeiwesen (Polizeigesetz)[^74-1] wird wie folgt geändert: …
 
 [^74-1]: NG 911.1
 
@@ -920,7 +830,7 @@ Das Gesetz vom 26. April 1987 über das Polizeiwesen (Polizeigesetz)[^74-1] wird
 
 **Aufhebung bisherigen Rechts**
 
-Die Vollziehungsverordnung vom 28. Oktober 1987 zum Gesetz über das Polizeiwesen (Polizeiverordnung, PolV)[^75-1] wird aufgehoben. …
+<sup>1</sup> Die Vollziehungsverordnung vom 28. Oktober 1987 zum Gesetz über das Polizeiwesen (Polizeiverordnung, PolV)[^75-1] wird aufgehoben. …
 
 [^75-1]: NG 911.11
 
@@ -930,4 +840,8 @@ Die Vollziehungsverordnung vom 28. Oktober 1987 zum Gesetz über das Polizeiwese
 
 <sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest.
+<sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest[^76-1].
+
+[^76-1]: In Kraft seit 1. November 2014
+
+A 2014, 1085, 1578
