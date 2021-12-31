@@ -3,11 +3,11 @@ sr: "172.220.11"
 title: Ordinanza quadro del 20 dicembre 2000 relativa alla legge sul personale federale (Ordinanza quadro LPers)
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/124"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2000-12-20
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/124/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2001-124-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/124/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/124/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2001-124-20220101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/124/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/124/20210101/it"
 
 (Ordinanza quadro LPers)
 
-del 20 dicembre 2000 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 20 dicembre 2000 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -66,9 +66,9 @@ ordina:
 [^2-2]: Nuovo testo giusta il n. I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4289](https://fedlex.data.admin.ch/eli/oc/2009/526)).
 [^2-3]: Abrogato dal n. I dell’O del 1° mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
 [^2-4]: Introdotto dall’all. n. 2 all’O del 14 set. 2005 sull’IUFFP ([RU 2005 4607](https://fedlex.data.admin.ch/eli/oc/2005/600)). Nuovo testo giusta l’all n. 3 dell’O del 2 mag. 2007 concernente l’organo paritetico della cassa di previdenza della Confederazione, in vigore dal 1° mag. 2007 ([RU 2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312)).
-[^2-5]: Introdotto dall’all. n. 3 all’O del 2 mag. 2007 concernente l’organo paritetico della cassa di previdenza della Confederazione, in vigore dal 1° mag. 2007 ([RU 2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312)).
-[^2-6]: Introdotto dall’all. n. 3 all’O del 2 mag. 2007 concernente l’organo paritetico della cassa di previdenza della Confederazione, in vigore dal 1° mag. 2007 ([RU 2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312)).
-[^2-7]: Introdotto dall’all. n. 3 all’O del 2 mag. 2007 concernente l’organo paritetico della cassa di previdenza della Confederazione ([RU 2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312)). Abrogato dall n. II dell’O del 27 gen. 2016, con effetto dal 1° mar. 2016 ([RU 2016 575](https://fedlex.data.admin.ch/eli/oc/2016/108)).
+[^2-5]: Introdotto dall’all. n. 3 dell’O del 2 mag. 2007 concernente l’organo paritetico della cassa di previdenza della Confederazione, in vigore dal 1° mag. 2007 ([RU 2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312)).
+[^2-6]: Introdotto dall’all. n. 3 dell’O del 2 mag. 2007 concernente l’organo paritetico della cassa di previdenza della Confederazione, in vigore dal 1° mag. 2007 ([RU 2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312)).
+[^2-7]: Introdotto dall’all. n. 3 dell’O del 2 mag. 2007 concernente l’organo paritetico della cassa di previdenza della Confederazione ([RU 2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312)). Abrogato dall n. II dell’O del 27 gen. 2016, con effetto dal 1° mar. 2016 ([RU 2016 575](https://fedlex.data.admin.ch/eli/oc/2016/108)).
 
 #### Art. 2a
 
@@ -162,37 +162,33 @@ Fanno rapporto:
 
 ### (art. 6 cpv. 5 e 6 LPers)
 
-<sup>1</sup> I datori di lavoro possono sottoporre il loro personale ausiliario, i loro stagisti nonché i loro lavoratori a domicilio al Codice delle obbligazioni (CO)[^5-1].
+<sup>1</sup> I datori di lavoro possono sottoporre i loro stagisti, i loro dottorandi, i loro postdottorandi, il loro personale ausiliario nonché i loro lavoratori a domicilio al Codice delle obbligazioni (CO)[^5-1].[^5-2]
 
-<sup>2</sup> ...[^5-2]
+<sup>2</sup> ...[^5-3]
 
-<sup>3</sup> Le FFS convengono con le associazioni del personale gli standard minimi in materia sociale e di diritto del lavoro per il personale sottoposto al CO. Ne sono esclusi i quadri superiori. Il Consiglio dei PF disciplina gli standard minimi nelle sue disposizioni di esecuzione conformemente all’articolo 2 capoversi 2 e 3. Il rendiconto è disciplinato nell’articolo 4.[^5-3]
+<sup>3</sup> Le FFS convengono con le associazioni del personale gli standard minimi in materia sociale e di diritto del lavoro per il personale sottoposto al CO. Ne sono esclusi i quadri superiori. Il Consiglio dei PF disciplina gli standard minimi nelle sue disposizioni di esecuzione conformemente all’articolo 2 capoversi 2 e 3. Il rendiconto è disciplinato nell’articolo 4.[^5-4]
 
 <sup>3bis</sup>
 
-Le FFS possono sottoporre in particolare il personale seguente al CO:[^5-4]
+Le FFS possono sottoporre in particolare il personale seguente al CO:[^5-5]
 
 - a. i quadri superiori;
 - b. i quadri di livello alto;
 - c. i quadri di livello medio, per quanto giustificato dall’incidenza sul risultato finanziario, dalla responsabilità gestionale e dalla responsabilità specialistica;
-- d. le persone che devono soddisfare requisiti speciali, segnatamente nel campo dell’informatica e in settori chiave.[^5-5]
+- d. le persone che devono soddisfare requisiti speciali, segnatamente nel campo dell’informatica e in settori chiave.[^5-6]
 
-<sup>3ter</sup> La Posta e le FFS disciplinano le condizioni di assunzione di tale personale tenendo conto del mercato del lavoro. Coinvolgono le associazioni del personale che rappresentano gli impiegati di cui al capoverso 3<sup>bis</sup> lettere b, c e d nell’elaborazione delle condizioni di assunzione di tali categorie di personale.[^5-6]
+<sup>3ter</sup> La Posta e le FFS disciplinano le condizioni di assunzione di tale personale tenendo conto del mercato del lavoro. Coinvolgono le associazioni del personale che rappresentano gli impiegati di cui al capoverso 3<sup>bis</sup> lettere b, c e d nell’elaborazione delle condizioni di assunzione di tali categorie di personale.[^5-7]
 
-<sup>4</sup>
-
-L’Istituto universitario federale per la formazione professionale può sottoporre il personale seguente al CO:
-
-- a. dottorandi che occupano un posto di promozione scientifica;
-- b. postdottorandi che occupano un posto finanziato con fondi di terzi.[^5-7]
+<sup>4</sup> ...[^5-8]
 
 [^5-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^5-2]: Abrogato dal n. I dell’O del 1° mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
-[^5-3]: Nuovo testo giusta l’all. n. 1 dell’O del 24 ott. 2012 sull’organizzazione della Posta Svizzera, in vigore dal 1° dic. 2012 ([RU 2012 6089](https://fedlex.data.admin.ch/eli/oc/2012/721)).
+[^5-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 842](https://fedlex.data.admin.ch/eli/oc/2021/842)).
+[^5-3]: Abrogato dal n. I dell’O del 1° mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
 [^5-4]: Nuovo testo giusta l’all. n. 1 dell’O del 24 ott. 2012 sull’organizzazione della Posta Svizzera, in vigore dal 1° dic. 2012 ([RU 2012 6089](https://fedlex.data.admin.ch/eli/oc/2012/721)).
-[^5-5]: Introdotto dal n. I dell’O del 18 dic. 2002 ([RU 2003 240](https://fedlex.data.admin.ch/eli/oc/2003/37)). Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2209](https://fedlex.data.admin.ch/eli/oc/2010/312)).
-[^5-6]: Introdotto dal n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2209](https://fedlex.data.admin.ch/eli/oc/2010/312)).
-[^5-7]: Nuovo testo giusta il n. II dell’O del 27 gen. 2016, in vigore dal 1° mar. 2016 ([RU 2016 575](https://fedlex.data.admin.ch/eli/oc/2016/108)).
+[^5-5]: Nuovo testo giusta l’all. n. 1 dell’O del 24 ott. 2012 sull’organizzazione della Posta Svizzera, in vigore dal 1° dic. 2012 ([RU 2012 6089](https://fedlex.data.admin.ch/eli/oc/2012/721)).
+[^5-6]: Introdotto dal n. I dell’O del 18 dic. 2002 ([RU 2003 240](https://fedlex.data.admin.ch/eli/oc/2003/37)). Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2209](https://fedlex.data.admin.ch/eli/oc/2010/312)).
+[^5-7]: Introdotto dal n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2209](https://fedlex.data.admin.ch/eli/oc/2010/312)).
+[^5-8]: Abrogato dall’art 5 cpv. 2 dell’O del 18 giu. 2021 sulla SUFFP, con effetto dal 1° gen. 2022 ([RU 2021 405](https://fedlex.data.admin.ch/eli/oc/2021/405)).
 
 #### Art. 6
 

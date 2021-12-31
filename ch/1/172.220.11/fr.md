@@ -3,11 +3,11 @@ sr: "172.220.11"
 title: Ordonnance-cadre du 20 décembre 2000 relative à la loi sur le personnel de la Confédération (Ordonnance-cadre LPers)
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/124"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2000-12-20
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/124/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-124-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/124/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/124/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-124-20220101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/124/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/124/20210101/fr"
 
 (Ordonnance-cadre LPers)
 
-du 20 décembre 2000 (Etat le 1<sup>er</sup> janvier 2021)
+du 20 décembre 2000 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -162,37 +162,33 @@ Le rapport est adressé aux autorités suivantes:
 
 ### (art. 6, al. 5 et 6, LPers)
 
-<sup>1</sup> Les employeurs peuvent soumettre leur personnel auxiliaire, leurs stagiaires et leurs travailleurs à domicile au droit des obligations[^5-1].
+<sup>1</sup> Les employeurs peuvent soumettre leurs stagiaires, leurs doctorants, leurs post-doctorants, leur personnel auxiliaire et leurs travailleurs à domicile au droit des obligations[^5-1].[^5-2]
 
-<sup>2</sup> …[^5-2]
+<sup>2</sup> …[^5-3]
 
-<sup>3</sup> Pour le personnel soumis au droit des obligations, les CFF conviennent avec les associations du personnel des exigences minimales à respecter en matière de règles sociales et de droit du travail. Ces exigences ne s’appliquent pas aux cadres du plus haut niveau hiérarchique. Le Conseil des EPF, quant à lui, fixe ces exigences minimales dans les dispositions d’exécution visées à l’art. 2, al. 2 et 3. Le reporting est régi par l’art. 4.[^5-3]
+<sup>3</sup> Pour le personnel soumis au droit des obligations, les CFF conviennent avec les associations du personnel des exigences minimales à respecter en matière de règles sociales et de droit du travail. Ces exigences ne s’appliquent pas aux cadres du plus haut niveau hiérarchique. Le Conseil des EPF, quant à lui, fixe ces exigences minimales dans les dispositions d’exécution visées à l’art. 2, al. 2 et 3. Le reporting est régi par l’art. 4.[^5-4]
 
 <sup>3bis</sup>
 
-Les CFF peuvent notamment soumettre le personnel suivant au code des obligations:[^5-4]
+Les CFF peuvent notamment soumettre le personnel suivant au code des obligations:[^5-5]
 
 - a. cadres du plus haut niveau hiérarchique;
 - b. cadres supérieurs;
 - c. cadres moyens pour autant que cela se justifie dans l’optique de l’influence sur le résultat financier, de la responsabilité de gestion et de la responsabilité technique;
-- d. personnes appelées à satisfaire à des exigences spéciales, notamment dans l’informatique et dans d’autres secteurs clés.[^5-5]
+- d. personnes appelées à satisfaire à des exigences spéciales, notamment dans l’informatique et dans d’autres secteurs clés.[^5-6]
 
-<sup>3ter</sup> Ils définissent les conditions d’engagement de ce personnel en tenant compte du marché de l’emploi. Ils impliquent les associations du personnel représentant les employés visés à l’al. 3<sup>bis</sup>, let. b, c et d, dans la définition des conditions d’engagement de ces catégories de personnel.[^5-6]
+<sup>3ter</sup> Ils définissent les conditions d’engagement de ce personnel en tenant compte du marché de l’emploi. Ils impliquent les associations du personnel représentant les employés visés à l’al. 3<sup>bis</sup>, let. b, c et d, dans la définition des conditions d’engagement de ces catégories de personnel.[^5-7]
 
-<sup>4</sup>
-
-L’Institut fédéral des hautes études en formation professionnelle peut soumettre le personnel suivant au code des obligations:
-
-- a. doctorants à des postes de promotion scientifique;
-- b. post-doctorants à des postes financés par des fonds de tiers.[^5-7]
+<sup>4</sup> ...[^5-8]
 
 [^5-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^5-2]: Abrogé par le ch. I de l’O du 1<sup>er</sup> mai 2013, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
-[^5-3]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 24 oct. 2012 relative à la loi sur l’organisation de la Poste, en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 6089](https://fedlex.data.admin.ch/eli/oc/2012/721)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 842](https://fedlex.data.admin.ch/eli/oc/2021/842)).
+[^5-3]: Abrogé par le ch. I de l’O du 1<sup>er</sup> mai 2013, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
 [^5-4]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 24 oct. 2012 relative à la loi sur l’organisation de la Poste, en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 6089](https://fedlex.data.admin.ch/eli/oc/2012/721)).
-[^5-5]: Introduit par le ch. I de l’O du 18 déc. 2002 ([RO 2003 240](https://fedlex.data.admin.ch/eli/oc/2003/37)). Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2209](https://fedlex.data.admin.ch/eli/oc/2010/312)).
-[^5-6]: Introduit par le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2209](https://fedlex.data.admin.ch/eli/oc/2010/312)).
-[^5-7]: Nouvelle teneur selon le ch. II de l’O du 27 janv. 2016, en vigueur depuis le 1<sup>er</sup> mars 2016 ([RO 2016 575](https://fedlex.data.admin.ch/eli/oc/2016/108)).
+[^5-5]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 24 oct. 2012 relative à la loi sur l’organisation de la Poste, en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 6089](https://fedlex.data.admin.ch/eli/oc/2012/721)).
+[^5-6]: Introduit par le ch. I de l’O du 18 déc. 2002 ([RO 2003 240](https://fedlex.data.admin.ch/eli/oc/2003/37)). Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2209](https://fedlex.data.admin.ch/eli/oc/2010/312)).
+[^5-7]: Introduit par le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2209](https://fedlex.data.admin.ch/eli/oc/2010/312)).
+[^5-8]: Abrogé par l’art. 5 al. 2 de l’O sur la HEFP du 18 juin 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 405](https://fedlex.data.admin.ch/eli/oc/2021/405)).
 
 #### Art. 6
 

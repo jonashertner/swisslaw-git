@@ -3,11 +3,11 @@ sr: "172.220.11"
 title: Rahmenverordnung vom 20. Dezember 2000 zum Bundespersonalgesetz (Rahmenverordnung BPG)
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/124"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2000-12-20
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/124/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2001-124-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/124/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/124/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2001-124-20220101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/124/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/124/20210101/de"
 
 (Rahmenverordnung BPG)
 
-vom 20. Dezember 2000 (Stand am 1. Januar 2021)
+vom 20. Dezember 2000 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -52,7 +52,7 @@ verordnet:
 
 <sup>2</sup> Der ETH-Rat regelt die für das Personal des ETH-Bereichs erforderlichen sozialen und arbeitsrechtlichen Mindeststandards in Ausführungsbestimmungen. Er kann die Regelung von Einzelheiten den Leitungen der ETH und der Forschungsanstalten übertragen.
 
-<sup>3</sup> ...[^2-3]
+<sup>3</sup> …[^2-3]
 
 <sup>4</sup> Der ETH-Rat regelt die Zusammensetzung und das Wahlverfahren sowie die Organisation des paritätischen Organs für das Vorsorgewerk des ETH-Bereichs. Bei gemeinschaftlichen Vorsorgewerken legen die Arbeitgeber ihre Regelungen gemeinsam fest.[^2-4]
 
@@ -60,7 +60,7 @@ verordnet:
 
 <sup>6</sup> Die Entschädigungen an die Mitglieder des paritätischen Organs werden von der Kassenkommission von PUBLICA festgelegt.[^2-6]
 
-<sup>7</sup> ...[^2-7]
+<sup>7</sup> …[^2-7]
 
 [^2-1]: Fassung gemäss Ziff. II der V vom 27. Jan. 2016, in Kraft seit 1. März 2016 ([AS 2016 575](https://fedlex.data.admin.ch/eli/oc/2016/108)).
 [^2-2]: Fassung gemäss Ziff. I der V vom 19. Aug. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 4289](https://fedlex.data.admin.ch/eli/oc/2009/526)).
@@ -145,7 +145,7 @@ Bericht erstatten:
 - a.[^4-1] die Schweizerischen Bundesbahnen (SBB) dem Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK);
 - b. der ETH-Rat dem Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)[^4-2];
 - c. die Einheiten der zentralen und der dezentralen Bundesverwaltung dem Departement, dem sie zugeordnet sind, beziehungsweise der Bundeskanzlei;
-- d.[^4-3] ...
+- d.[^4-3] …
 
 <sup>5</sup> Die Departemente und die Bundeskanzlei liefern dem Eidgenössischen Personalamt die für das Reporting nötigen Angaben. Das Personalamt wertet die Angaben strategieorientiert aus und schafft Bezüge zur Entwicklung in Wirtschaft und Gesellschaft, damit der Bundesrat eine vorausschauende Personalpolitik betreiben kann.
 
@@ -162,37 +162,33 @@ Bericht erstatten:
 
 ### (Art. 6 Abs. 5 und 6 BPG)
 
-<sup>1</sup> Die Arbeitgeber können ihr Aushilfspersonal, ihre Praktikantinnen und Praktikanten sowie ihre Heimarbeiterinnen und Heimarbeiter dem Obligationenrecht[^5-1] unterstellen.
+<sup>1</sup> Die Arbeitgeber können ihre Praktikantinnen und Praktikanten, ihre Doktorandinnen und Doktoranden, ihre Postdoktorandinnen und Postdoktoranden, ihr Aushilfspersonal sowie ihre Heimarbeiterinnen und Heimarbeiter dem Obligationenrecht[^5-1] unterstellen.[^5-2]
 
-<sup>2</sup> ...[^5-2]
+<sup>2</sup> …[^5-3]
 
-<sup>3</sup> Die SBB vereinbaren die sozialen und arbeitsrechtlichen Mindeststandards für das dem Obligationenrecht unterstehende Personal mit den Personalverbänden. Ausgenommen ist das oberste Kader. Der ETH-Rat regelt diese Mindeststandards in seinen Ausführungsbestimmungen nach Artikel 2 Absätze 2 und 3. Das Reporting richtet sich nach Artikel 4.[^5-3]
+<sup>3</sup> Die SBB vereinbaren die sozialen und arbeitsrechtlichen Mindeststandards für das dem Obligationenrecht unterstehende Personal mit den Personalverbänden. Ausgenommen ist das oberste Kader. Der ETH-Rat regelt diese Mindeststandards in seinen Ausführungsbestimmungen nach Artikel 2 Absätze 2 und 3. Das Reporting richtet sich nach Artikel 4.[^5-4]
 
 <sup>3bis</sup>
 
-Die SBB können insbesondere das folgende Personal dem Obligationenrecht unterstellen:[^5-4]
+Die SBB können insbesondere das folgende Personal dem Obligationenrecht unterstellen:[^5-5]
 
 - a. oberstes Kader;
 - b. oberes Kader;
 - c. mittleres Kader, soweit dies vom Einfluss auf den finanziellen Erfolg sowie von der Führungs- und Fachverantwortung her gerechtfertigt ist;
-- d. Personen, an die spezielle Anforderungen gestellt werden, namentlich in der Informatik und in Schlüsselbereichen.[^5-5]
+- d. Personen, an die spezielle Anforderungen gestellt werden, namentlich in der Informatik und in Schlüsselbereichen.[^5-6]
 
-<sup>3ter</sup> Sie regeln die Anstellungsbedingungen dieses Personals unter Berücksichtigung des Arbeitsmarktes. Sie beteiligen die Personalverbände, die Angestellte nach Absatz 3<sup>bis</sup> Buchstabe b, c oder d vertreten, an der Erarbeitung der Anstellungsbedingungen dieser Personalkategorien.[^5-6]
+<sup>3ter</sup> Sie regeln die Anstellungsbedingungen dieses Personals unter Berücksichtigung des Arbeitsmarktes. Sie beteiligen die Personalverbände, die Angestellte nach Absatz 3<sup>bis</sup> Buchstabe b, c oder d vertreten, an der Erarbeitung der Anstellungsbedingungen dieser Personalkategorien.[^5-7]
 
-<sup>4</sup>
-
-Das Eidgenössische Hochschulinstitut für Berufsbildung kann folgendes Personal dem Obligationenrecht unterstellen:
-
-- a. Doktorandinnen und Doktoranden auf wissenschaftlichen Förderstellen;
-- b. Postdoktorandinnen und Postdoktoranden auf drittmittelfinanzierten Stellen.[^5-7]
+<sup>4</sup> …[^5-8]
 
 [^5-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^5-2]: Aufgehoben durch Ziff. I der V vom 1. Mai 2013, mit Wirkung seit 1. Juli 2013 ([AS 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
-[^5-3]: Fassung gemäss Anhang Ziff. 1 der Postorganisationsverordnung vom 24. Okt. 2012, in Kraft seit 1. Dez. 2012 ([AS 2012 6089](https://fedlex.data.admin.ch/eli/oc/2012/721)).
+[^5-2]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 842](https://fedlex.data.admin.ch/eli/oc/2021/842)).
+[^5-3]: Aufgehoben durch Ziff. I der V vom 1. Mai 2013, mit Wirkung seit 1. Juli 2013 ([AS 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
 [^5-4]: Fassung gemäss Anhang Ziff. 1 der Postorganisationsverordnung vom 24. Okt. 2012, in Kraft seit 1. Dez. 2012 ([AS 2012 6089](https://fedlex.data.admin.ch/eli/oc/2012/721)).
-[^5-5]: Eingefügt durch Ziff. I der V vom 18. Dez. 2002 ([AS 2003 240](https://fedlex.data.admin.ch/eli/oc/2003/37)). Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2209](https://fedlex.data.admin.ch/eli/oc/2010/312)).
-[^5-6]: Eingefügt durch Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2209](https://fedlex.data.admin.ch/eli/oc/2010/312)).
-[^5-7]: Fassung gemäss Ziff. II der V vom 27. Jan. 2016, in Kraft seit 1. März 2016 ([AS 2016 575](https://fedlex.data.admin.ch/eli/oc/2016/108)).
+[^5-5]: Fassung gemäss Anhang Ziff. 1 der Postorganisationsverordnung vom 24. Okt. 2012, in Kraft seit 1. Dez. 2012 ([AS 2012 6089](https://fedlex.data.admin.ch/eli/oc/2012/721)).
+[^5-6]: Eingefügt durch Ziff. I der V vom 18. Dez. 2002 ([AS 2003 240](https://fedlex.data.admin.ch/eli/oc/2003/37)). Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2209](https://fedlex.data.admin.ch/eli/oc/2010/312)).
+[^5-7]: Eingefügt durch Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2209](https://fedlex.data.admin.ch/eli/oc/2010/312)).
+[^5-8]: Aufgehoben durch Art. 5 Abs. 2 der EHB-Verordnung vom 18. Juni 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 405](https://fedlex.data.admin.ch/eli/oc/2021/405)).
 
 #### Art. 6
 
