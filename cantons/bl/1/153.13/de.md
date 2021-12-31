@@ -3,20 +3,19 @@ canton: BL
 number: "153.13"
 title: Verordnung über den Elternurlaub
 language: de
-version: 2021-07-01
-valid_until: 2021-12-31
+version: 2022-01-01
 version_adopted: 2021-11-16
 adopted: 2011-01-11
 in_force: 2011-05-01
 url: "https://bl.clex.ch/app/de/texts_of_law/153.13"
-pdf: "https://bl.clex.ch/api/de/versions/3131/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3132/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Elternurlaub
 
-Vom 11.01.2011 (Stand 01.07.2021)
+Vom 11.01.2011 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -95,7 +94,7 @@ beschliesst:
 
 <sup>3</sup> Wird das Arbeitsverhältnis auf Wunsch der Mitarbeiterin nach Beendigung des bezahlten bzw. unbezahlten Mutterschaftsurlaubs nicht für mindestens 3 Monate fortgesetzt, hat sie einen Anspruch auf 80 % des nach § 7 berechneten Lohnes.
 
-<sup>4</sup> Wird der Beschäftigungsgrad auf Wunsch der Mitarbeiterin auf einen Zeitpunkt innerhalb von 3 Monaten nach Beendigung des bezahlten bzw. unbezahlten Mutterschaftsurlaubs reduziert, besteht ein Lohnanspruch von 80 % des nach § 7 berechneten Lohnes, mindestens aber in Höhe des Lohnes nach Reduktion des Beschäftigungsgrades.
+<sup>4</sup> …
 
 #### § 7
 
@@ -130,6 +129,20 @@ beschliesst:
 <sup>2</sup> Nach Ablauf des unbezahlten Mutterschaftsurlaubs erhält die Mitarbeiterin im Rahmen der betrieblichen Möglichkeiten die gleiche oder eine ähnliche Funktion zugewiesen.
 
 <sup>3</sup> Es besteht kein Anspruch auf Weiterbeschäftigung nach Reduktion des Beschäftigungsgrades; eine Weiterbeschäftigung erfolgt im Rahmen der betrieblichen Möglichkeiten.
+
+#### § 10a
+
+**Bezahlte Stillzeit**
+
+<sup>1</sup> Stillenden Müttern ist während des 1. Lebensjahres des Kindes die erforderliche Zeit für das Stillen freizugeben. Davon wird als Arbeitszeit angerechnet:
+
+- a. bei einer täglichen Arbeitszeit von bis zu 4,2 Stunden maximal 30 Minuten pro Tag;
+- b. bei einer täglichen Arbeitszeit von mehr als 4,2 Stunden maximal 60 Minuten pro Tag;
+- c. bei einer täglichen Arbeitszeit von mehr als 7 Stunden maximal 90 Minuten pro Tag.
+
+<sup>2</sup> Die Anrechnung der Arbeitszeit erfolgt unabhängig davon, ob die Mitarbeiterin am Arbeitsplatz stillt oder diesen zum Stillen verlässt.
+
+<sup>3</sup> Das Abpumpen der Muttermilch wird dem Stillen gleichgestellt.
 
 #### § 11
 
