@@ -4,10 +4,10 @@ number: "212.812"
 title: "Verordnung über die Gebühren, Kosten und Entschädigungen vor dem Sozialversicherungsgericht (GebV SVGer)"
 short: GebV SVGer
 language: de
-nachtrag: "75"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
 adopted: 2011-04-12
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-212_812-2011_04_12-2011_07_01-075.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-212_812-2011_04_12-2011_07_01-115.html"
 text: pdf
 ---
 
@@ -25,7 +25,7 @@ beschliesst:
 
 [^t-1]: OS 66, 829; Begründung siehe ABl 2011, 1428. Vom Kantonsrat genehmigt am 24. Oktober 2011.
 [^t-2]: Inkrafttreten: 1. Juli 2011.
-[^t-3]: LS 212.81. 1. 1. 12 - 75 3
+[^t-3]: LS 212.81.
 
 #### § 1
 
@@ -69,24 +69,23 @@ Diese Verordnung regelt die vom Sozialversicherungsgericht festzusetzenden Gebü
 
 **1**
 
-- 1\. 1. 12 - 75
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Die Entschädigung von Zeuginnen und Zeugen, Auskunftspersonen und Sachverständigen richtet sich nach der Entschädigungsverordnung der obersten kantonalen Gerichte vom 11. Juni 2002[^4-1].
 
-<sup>3</sup> Die Entschädigung der Übersetzerinnen und Übersetzer richtet sich nach der Dolmetscherverordnung vom 26./27. November 2003[^4-2].
-
-[^4-1]: LS 211.12.
-[^4-2]: LS 211.17.
-
-#### § 5
+<sup>3</sup> Die Entschädigung der Übersetzerinnen und Übersetzer richtet sich nach der Sprachdienstleistungsverordnung vom 19. Dezember 2018 / 7. Januar 2019[^4-2].[^4-3]
 
 **b. Ausserhalb hängiger Verfahren**
 
-<sup>1</sup> Die Gebühr für die Zustellung einer Kopie eines Entscheids beträgt in der Regel Fr. 30.
+§ 5. <sup>1</sup> Die Gebühr für die Zustellung einer Kopie eines Entscheids beträgt in der Regel Fr. 30.
 
 <sup>2</sup> Bescheinigungen, die durch Stempel auf der Ausfertigung eines Entscheids angebracht oder im Formular einer Amtsstelle eingesetzt werden können, sind einschliesslich Zustellungen kostenlos.
 
 <sup>3</sup> Für andere Tätigkeiten des Gerichts ausserhalb hängiger Verfahren kann es die ihm entstandenen Kosten in Rechnung stellen.
+
+[^4-1]: LS 211.12.
+[^4-2]: LS 211.17.
+[^4-3]: Fassung gemäss B vom 15. Dezember 2020 (OS 76, 551; ABl 2021-01-15). In Kraft seit 1. Januar 2022. 1. 1. 22 - 115 3
 
 #### § 6
 
