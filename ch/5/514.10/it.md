@@ -3,11 +3,11 @@ sr: "514.10"
 title: "Ordinanza del 21 novembre 2018 sull'equipaggiamento personale dei militari (OEPM)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/732"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/732/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2018-732-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/732/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2018-732-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20210101/it"
 
 (OEPM)
 
-del 21 novembre 2018 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 21 novembre 2018 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -441,7 +441,7 @@ Quando lasciano l’esercito, i militari ricevono in proprietà una pistola, sen
 In caso di cessione in proprietà del fucile d’assalto o della pistola, la BLEs rileva i seguenti dati:
 
 - a. cognome e nome dell’avente diritto;
-- b. numero d’assicurato AVS;
+- b. numero AVS[^31-1];
 - c. indirizzo;
 - d. numero dell’arma; e
 - e. anno della cessione.
@@ -449,6 +449,8 @@ In caso di cessione in proprietà del fucile d’assalto o della pistola, la BLE
 <sup>2</sup> I dati sono conservati per almeno venti anni.
 
 <sup>3</sup> L’arma è contrassegnata come proprietà privata mediante una «P».
+
+[^31-1]: Nuova espr. giusta l’all. n. II 20 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 32
 

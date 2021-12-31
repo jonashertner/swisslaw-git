@@ -3,11 +3,11 @@ sr: "514.10"
 title: Verordnung vom 21. November 2018 über die persönliche Ausrüstung der Armeeangehörigen (VPAA)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/732"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/732/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2018-732-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/732/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2018-732-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20210101/de"
 
 (VPAA)
 
-vom 21. November 2018 (Stand am 1. Januar 2021)
+vom 21. November 2018 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -441,7 +441,7 @@ Angehörige der Armee erhalten beim Ausscheiden aus der Armee eine Pistole ohne 
 Die LBA erfasst bei der Überlassung des Sturmgewehres oder der Pistole zu Eigentum:
 
 - a. den Namen und den Vornamen des oder der Berechtigten;
-- b. die AHV-Versichertennummer;
+- b. die AHV-Nummer[^31-1];
 - c. die Adresse;
 - d. die Waffennummer; und
 - e. das Überlassungsjahr.
@@ -449,6 +449,8 @@ Die LBA erfasst bei der Überlassung des Sturmgewehres oder der Pistole zu Eigen
 <sup>2</sup> Die Daten sind während mindestens zwanzig Jahren aufzubewahren.
 
 <sup>3</sup> Die Waffe wird mit einem «P» als Privateigentum gekennzeichnet.
+
+[^31-1]: Ausdruck gemäss Anhang Ziff. II 20 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 32
 
@@ -500,8 +502,8 @@ Die folgenden Erlasse werden aufgehoben:
 - 1\. Die Verordnung vom 5. Dezember 2003[^37-1] über die persönliche Ausrüstung der Armeeangehörigen;
 - 2\. Die Verordnung des VBS vom 9. Dezember 2003[^37-2] über die persönliche Ausrüstung der Armeeangehörigen.
 
-[^37-1]: [[AS 2003 5137](https://fedlex.data.admin.ch/eli/oc/2003/755), [2005 1413](https://fedlex.data.admin.ch/eli/oc/2005/209), [2006 4791](https://fedlex.data.admin.ch/eli/oc/2006/733), [2009 6503](https://fedlex.data.admin.ch/eli/oc/2009/796), [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)Ziff. I 12, [2014 4493](https://fedlex.data.admin.ch/eli/oc/2014/748), [2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)Anhang 7 Ziff. II 5]
-[^37-2]: [[AS 2004 69](https://fedlex.data.admin.ch/eli/oc/2004/4), [2005 1479](https://fedlex.data.admin.ch/eli/oc/2005/224), [2006 4795](https://fedlex.data.admin.ch/eli/oc/2006/734), [2007 6801](https://fedlex.data.admin.ch/eli/oc/2007/873)Art. 36, [2008 69](https://fedlex.data.admin.ch/eli/oc/2008/28), [2009 6735](https://fedlex.data.admin.ch/eli/oc/2009/826), [2014 4495](https://fedlex.data.admin.ch/eli/oc/2014/749)]
+[^37-1]: [[AS 2003 5137](https://fedlex.data.admin.ch/eli/oc/2003/755); [2005 1413](https://fedlex.data.admin.ch/eli/oc/2005/209); [2006 4791](https://fedlex.data.admin.ch/eli/oc/2006/733); [2009 6503](https://fedlex.data.admin.ch/eli/oc/2009/796); [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)Ziff. I 12; [2014 4493](https://fedlex.data.admin.ch/eli/oc/2014/748); [2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)Anhang 7 Ziff. II 5]
+[^37-2]: [[AS 2004 69](https://fedlex.data.admin.ch/eli/oc/2004/4); [2005 1479](https://fedlex.data.admin.ch/eli/oc/2005/224); [2006 4795](https://fedlex.data.admin.ch/eli/oc/2006/734); [2007 6801](https://fedlex.data.admin.ch/eli/oc/2007/873)Art. 36; [2008 69](https://fedlex.data.admin.ch/eli/oc/2008/28); [2009 6735](https://fedlex.data.admin.ch/eli/oc/2009/826); [2014 4495](https://fedlex.data.admin.ch/eli/oc/2014/749)]
 
 #### Art. 38
 

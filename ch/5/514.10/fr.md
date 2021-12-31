@@ -3,11 +3,11 @@ sr: "514.10"
 title: "Ordonnance du 21 novembre 2018 concernant l'équipement personnel des militaires (OEPM)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/732"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/732/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-732-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/732/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-732-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20210101/fr"
 
 (OEPM)
 
-du 21 novembre 2018 (Etat le 1<sup>er</sup> janvier 2021)
+du 21 novembre 2018 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 110, al. 3 et 4, 114, al. 3, et 150, al. 1, de la loi du 3 février 
 arrête:
 
 [^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^ingress-2]: [[RO 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)ch. I al. 1 let. c; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)annexe ch. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)annexe ch. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2012 335](https://fedlex.data.admin.ch/eli/oc/2012/20); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)annexe ch. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)annexe ch. 7. [RO 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)annexe ch. I]. Voir actuellement la LF du 20 déc. 2019 ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -183,7 +183,7 @@ L’inspection des armes est assurée par la troupe:
 
 #### Art. 13
 
-**Mie en consignation de l’arme personnelle**
+**Mise en consignation de l’arme personnelle**
 
 <sup>1</sup> L’arme personnelle peut être mise en consignation gratuitement et sans indication de motifs auprès d’un magasin de rétablissement.
 
@@ -441,7 +441,7 @@ Les militaires qui quittent l’armée reçoivent le pistolet en toute propriét
 Lors de la cession en toute propriété du fusil d’assaut ou du pistolet, la BLA enregistre:
 
 - a. le nom et le prénom de l’ayant droit;
-- b. son numéro d’assuré AVS;
+- b. son numéro AVS[^31-1];
 - c. son adresse;
 - d. le numéro de l’arme, et
 - e. l’année de la cession.
@@ -449,6 +449,8 @@ Lors de la cession en toute propriété du fusil d’assaut ou du pistolet, la B
 <sup>2</sup> Les données doivent être conservées pendant au moins vingt ans.
 
 <sup>3</sup> L’arme est marquée d’un «P», la désignant comme arme privée.
+
+[^31-1]: Nouvelle expression selon l’annexe ch. II 20 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 32
 
@@ -500,8 +502,8 @@ Sont abrogées:
 - 1\. l’ordonnance du 5 décembre 2003 concernant l’équipement personnel des militaires[^37-1];
 - 2\. l’ordonnance du DDPS du 9 décembre 2003 concernant l’équipement personnel des militaires[^37-2].
 
-[^37-1]: [[RO 2003 5137](https://fedlex.data.admin.ch/eli/oc/2003/755), [2005 1413](https://fedlex.data.admin.ch/eli/oc/2005/209), [2006 4791](https://fedlex.data.admin.ch/eli/oc/2006/733), [2009 6503](https://fedlex.data.admin.ch/eli/oc/2009/796), [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)ch. I 12, [2014 4493](https://fedlex.data.admin.ch/eli/oc/2014/748), [2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)annexe 7 ch. II 5]
-[^37-2]: [[RO 2004 69](https://fedlex.data.admin.ch/eli/oc/2004/4), [2005 1479](https://fedlex.data.admin.ch/eli/oc/2005/224), [2006 4795](https://fedlex.data.admin.ch/eli/oc/2006/734), [2007 6801](https://fedlex.data.admin.ch/eli/oc/2007/873)art. 36, [2008 69](https://fedlex.data.admin.ch/eli/oc/2008/28), [2009 6735](https://fedlex.data.admin.ch/eli/oc/2009/826), [2014 4495](https://fedlex.data.admin.ch/eli/oc/2014/749)]
+[^37-1]: [[RO 2003 5137](https://fedlex.data.admin.ch/eli/oc/2003/755); [2005 1413](https://fedlex.data.admin.ch/eli/oc/2005/209); [2006 4791](https://fedlex.data.admin.ch/eli/oc/2006/733); [2009 6503](https://fedlex.data.admin.ch/eli/oc/2009/796); [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)ch. I 12; [2014 4493](https://fedlex.data.admin.ch/eli/oc/2014/748); [2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)annexe 7 ch. II 5]
+[^37-2]: [[RO 2004 69](https://fedlex.data.admin.ch/eli/oc/2004/4); [2005 1479](https://fedlex.data.admin.ch/eli/oc/2005/224); [2006 4795](https://fedlex.data.admin.ch/eli/oc/2006/734); [2007 6801](https://fedlex.data.admin.ch/eli/oc/2007/873)art. 36; [2008 69](https://fedlex.data.admin.ch/eli/oc/2008/28); [2009 6735](https://fedlex.data.admin.ch/eli/oc/2009/826); [2014 4495](https://fedlex.data.admin.ch/eli/oc/2014/749)]
 
 #### Art. 38
 
