@@ -4,11 +4,11 @@ title: Verordnung vom 9. März 2007 über Fernmeldedienste (FDV)
 short: FDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: de
-version: 2021-09-01
+version: 2022-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20210901/de/xml/fedlex-data-admin-ch-eli-cc-2007-166-20210901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-166-20220101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210901/de"
 
 (FDV)
 
-vom 9. März 2007 (Stand am 1. September 2021)
+vom 9. März 2007 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -123,7 +123,7 @@ Der Dienst Überwachung Post- und Fernmeldeverkehr stellt dem BAKOM kostenlos di
 Für Anbieterinnen, die zur Erbringung ihrer Fernmeldedienste das Funkfrequenzspektrum nutzen, gilt die Verordnung vom 18. November 2020[^8-2] über die Nutzung des Funkfrequenzspektrums.
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^8-2]: [SR 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^8-2]: SR **784****.****102.1**
 
 #### Art. 9
 
@@ -648,7 +648,7 @@ Die Anbieterinnen des öffentlichen Telefondienstes müssen die Leitweglenkung d
 
 [^29a-1]
 
-[^29a-1]: Tritt am 1. Jan. 2022 in Kraft ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^29a-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Juli 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
 
 #### Art. 29b
 
@@ -660,12 +660,11 @@ Die Anbieterinnen des öffentlichen Telefondienstes müssen die Leitweglenkung d
 
 <sup>3</sup> Die Anbieterinnen des öffentlichen Telefondienstes tragen die Investitions- und Betriebskosten für das Anbieten des Standortidentifikationsdienstes.
 
-<sup>4</sup> ...[^29b-2]
+<sup>4</sup> Die wiederkehrenden Kosten der Leistungsbereitstellung sind zwischen den Anbieterinnen des öffentlichen Telefondienstes auf Vorleistungsstufe über die Anzahl der jährlich zu erwartenden Notrufe abzugelten.
 
 <sup>5</sup> Die Alarmzentralen tragen lediglich die Kosten für die Inanspruchnahme des Standortidentifikationsdienstes.
 
-[^29b-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^29b-2]: Tritt am 1. Jan. 2022 in Kraft ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^29b-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021, mit Ausnahme von Abs. 4, in Kraft seit 1. Jan. 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
 
 #### Art. 30
 
@@ -789,7 +788,7 @@ Die Anbieterinnen von Fernmeldediensten, die verpflichtet sind, die Nummernporta
 
 [^34e-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-## 4*b**.* Kapitel: Freie Wahl der Anbieterin für nationale und internationale Verbindungen
+## 4*b**.* Kapitel:**** Freie Wahl der Anbieterin für nationale und internationale Verbindungen
 
 [^chap4b-1]
 
@@ -1200,7 +1199,7 @@ Andere Anbieterinnen können von der marktbeherrschenden Anbieterin die vom BAKO
 - b. technisch realisierbar sind; und
 - c. für die Erbringung von Diensten einen beachtlichen wirtschaftlichen Vorteil darstellen.
 
-[^55-1]: Fassung gemäss Ziff. I der V vom 14. März 2014, in Kraft seit 1. Juli 2014 ([AS 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^55-1]: Fassung gemäss Ziff. I der V vom 14. März 2014, in Kraft seit 1. Juli 2014 (AS **201****4** 729).
 
 #### Art. 56
 

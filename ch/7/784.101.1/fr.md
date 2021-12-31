@@ -4,11 +4,11 @@ title: Ordonnance du 9 mars 2007 sur les services de télécommunication (OST)
 short: OST
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: fr
-version: 2021-09-01
+version: 2022-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20210901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-166-20210901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-166-20220101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210901/fr"
 
 (OST)
 
-du 9 mars 2007 (Etat le 1<sup>er</sup> septembre 2021)
+du 9 mars 2007 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -582,7 +582,7 @@ Les prix plafonds suivants (taxe sur la valeur ajoutée non comprise) sont appli
 
 <sup>3</sup> Les frais imputables à la gestion du mécanisme de financement sont couverts par les redevances destinées au financement du service universel.
 
-## Chapitre 4 Obligations découlant de la fourniture de services spécifiques
+## Chapitre 4**** Obligations découlant de la fourniture de services spécifiques
 
 [^chap4-1]
 
@@ -647,7 +647,7 @@ Les fournisseurs du service téléphonique public doivent garantir l’acheminem
 
 [^29a-1]
 
-[^29a-1]: Entre en vigueur le 1<sup>er</sup> janv. 2022 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^29a-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
 
 #### Art. 29b
 
@@ -659,12 +659,11 @@ Les fournisseurs du service téléphonique public doivent garantir l’acheminem
 
 <sup>3</sup> Les fournisseurs du service téléphonique public supportent les coûts d’investissement et d’exploitation engendrés par la mise à disposition du service de localisation.
 
-<sup>4</sup> ...[^29b-2]
+<sup>4</sup> Les coûts récurrents engendrés par la fourniture du service doivent être indemnisés entre les fournisseurs du service téléphonique public au niveau du marché de gros en fonction du nombre d’appels d’urgence attendus par année.
 
 <sup>5</sup> Les centrales d’alarme supportent uniquement les coûts de l’utilisation du service de localisation.
 
-[^29b-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021, sous réserve de l’al. 4, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^29b-2]: Entre en vigueur le 1<sup>er</sup> janv. 2022 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^29b-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021, sous réserve de l’al. 4, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
 
 #### Art. 30
 
@@ -717,7 +716,7 @@ Les fournisseurs du service téléphonique public doivent assurer aux utilisateu
 
 <sup>2</sup> Les prix des communications facturés aux malentendants, aux malvoyants et aux personnes à mobilité réduite dans le cadre de ces services doivent être non discriminatoires par rapport aux autres tarifs.
 
-## Chapitre 4*a* Portabilité des numéros
+## Chapitre 4*a* Portabilité des numéros****
 
 [^chap4a-1]
 
@@ -794,7 +793,7 @@ Les fournisseurs de services de télécommunication ayant l’obligation d’ass
 
 [^34e-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-## Chapitre 4*b* Libre choix du fournisseur des liaisons nationales et internationales
+## Chapitre 4*b***** Libre choix du fournisseur des liaisons nationales et internationales
 
 [^chap4b-1]
 
@@ -1463,7 +1462,7 @@ Dans le cadre de l’instruction, l’OFCOM peut mener des négociations en vue 
 
 <sup>3</sup> Lorsque le fournisseur occupant une position dominante ne peut prouver qu’il respecte le principe de l’alignement sur les coûts, la ComCom décide sur la base de valeurs comparables conformes aux usages du marché et du secteur en question. Elle peut également fixer les prix sur la base de ses propres modélisations des prix et des coûts ou d’autres méthodes appropriées, en particulier lorsqu’aucune valeur comparable n’est disponible.
 
-## Chapitre 8 Utilisation de terrains du domaine public, autres raccordements et co-utilisation
+## Chapitre 8 Utilisation de terrains du domaine public, autres raccordements et co-utilisation****
 
 [^chap8-1]
 
@@ -1562,7 +1561,7 @@ Est réputée dédommagement approprié pour la co-utilisation d’installations
 
 [^79-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-## Chapitre 9 Secret des télécommunications, protection des données et protection des enfants et des jeunes
+## Chapitre 9 Secret des télécommunications, protection des données et protection des enfants et des jeunes****
 
 [^chap9-1]
 
@@ -1718,7 +1717,7 @@ Les fournisseurs d’accès à Internet informent leurs clients des possibilité
 
 ## Chapitre 10 Intérêts nationaux importants
 
-### Section 1 Prestations de sécurité
+### Section 1 Prestations de sécurité****
 
 [^chap10-sec1-1]
 
@@ -1802,7 +1801,7 @@ Les fournisseurs de services de télécommunication peuvent être amenés à off
 
 [^95-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-### Section 3 Sécurité
+### Section 3 Sécurité****
 
 [^chap10-sec3-1]
 

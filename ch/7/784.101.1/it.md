@@ -4,11 +4,11 @@ title: Ordinanza del 9 marzo 2007 sui servizi di telecomunicazione (OST)
 short: OST
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: it
-version: 2021-09-01
+version: 2022-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20210901/it/xml/fedlex-data-admin-ch-eli-cc-2007-166-20210901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-166-20220101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210901/it"
 
 (OST)
 
-del 9 marzo 2007 (Stato 1° settembre 2021) (Stato 1° settembre 2021)
+del 9 marzo 2007 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -274,7 +274,7 @@ I fornitori di servizi di telecomunicazione devono:
 Per ciascuno dei servizi offerti devono almeno:
 
 - a. misurare e pubblicare la velocità effettiva di trasmissione dei dati, la latenza, e per i collegamenti di radiocomunicazione mobile la potenza del segnale;
-- b. misurare e pubblicare la velocità di trasmissione dei dati stipulata per contratto, le variazioni nella latenza e la perdita di pacchetti di dati durante la trasmissione. [^10e-2]
+- b. misurare e pubblicare la velocità di trasmissione dei dati stipulata per contratto, le variazioni nella latenza e la perdita di pacchetti di dati durante la trasmissione.[^10e-2]
 
 <sup>3</sup> Le informazioni sulla qualità devono consentire confronti tra le offerte dei vari fornitori. Devono essere pubblicate sotto forma di carte geografiche.
 
@@ -285,7 +285,7 @@ Per ciascuno dei servizi offerti devono almeno:
 <sup>6</sup> Le informazioni ai sensi del presente articolo devono essere pubblicate su un sito Internet liberamente accessibile. L’UFCOM può prevedere che le pubblicazioni debbano essere effettuate sullo stesso sito Internet.
 
 [^10e-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^10e-2]: In vigore il 1° set. 2021, ma le informazioni devono essere pubblicate soltanto dal 1° gennaio 2022 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10e-2]: Nuovo testo giusta dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)). Il tenore del cpv. 2 lett. a deve essere pubblicate soltanto il 1° gen. 2022 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 10f
 
@@ -601,7 +601,7 @@ Vigono i seguenti limiti massimi di prezzo (IVA esclusa):
 
 <sup>3</sup> I costi imputabili alla gestione del meccanismo di finanziamento sono coperti dalle tasse destinate al finanziamento del servizio universale.
 
-## Capitolo 4: Obblighi derivanti dalla fornitura di servizi specifici
+## Capitolo 4:**** Obblighi derivanti dalla fornitura di servizi specifici
 
 [^chap4-1]
 
@@ -666,7 +666,7 @@ I fornitori del servizio telefonico pubblico devono garantire l’istradamento d
 
 [^29a-1]
 
-[^29a-1]: In vigore il 1° gen. 2022 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^29a-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2022 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
 
 #### Art. 29b
 
@@ -678,12 +678,11 @@ I fornitori del servizio telefonico pubblico devono garantire l’istradamento d
 
 <sup>3</sup> I fornitori del servizio telefonico pubblico assumono i costi di investimento e d’esercizio del servizio di localizzazione.
 
-<sup>4</sup> ...[^29b-2]
+<sup>4</sup> I costi ricorrenti per la messa a disposizione del servizio vanno compensati tra i fornitori del servizio telefonico pubblico a livello di mercato all’ingrosso in funzione del numero di chiamate d’emergenza previste annualmente.
 
 <sup>5</sup> Le centrali d’allarme assumono unicamente i costi per l’utilizzazione del servizio di localizzazione.
 
-[^29b-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^29b-2]: In vigore il 1° gen. 2022 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^29b-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021, il cpv. 4 dal 1° gen. 2022 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
 
 #### Art. 30
 
@@ -736,7 +735,7 @@ I fornitori del servizio telefonico pubblico devono garantire la capacità di co
 
 <sup>2</sup> Le tariffe di collegamento fatturate ad audiolesi, ipovedenti e persone con difficoltà motorie per questi servizi non devono essere discriminatorie rispetto alle altre tariffe.
 
-## Capitolo 4*a*: Portabilità dei numeri
+## Capitolo 4*a*: Portabilità dei numeri****
 
 [^chap4a-1]
 
@@ -807,7 +806,7 @@ I fornitori di servizi di telecomunicazione che hanno l’obbligo di assicurare 
 
 [^34e-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-## Capitolo 4*b*: Libera scelta dei fornitori per i collegamenti nazionali e internazionali
+## Capitolo 4*b*:**** Libera scelta dei fornitori per i collegamenti nazionali e internazionali
 
 [^chap4b-1]
 

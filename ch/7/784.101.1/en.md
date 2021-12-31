@@ -4,11 +4,11 @@ title: Ordinance of 9 March 2007 on Telecommunications Services (OTS)
 short: OTS
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: en
-version: 2021-09-01
+version: 2022-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20210901/en/xml/fedlex-data-admin-ch-eli-cc-2007-166-20210901-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2007-166-20220101-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OTS)
 
-of 9 March 2007 (Status as of 1 September 2021)
+of 9 March 2007 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
@@ -652,7 +652,7 @@ Providers of the public telephony service must assure the routing of emergency c
 
 [^29a-1]
 
-[^29a-1]: Comes into force on 1 Jan. 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^29a-1]: Inserted by No I of the O of 18 Nov. 2020, in force from 1 July 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
 
 #### Art. 29b
 
@@ -664,12 +664,11 @@ Providers of the public telephony service must assure the routing of emergency c
 
 <sup>3</sup> The providers of the public telephony service shall bear the investment and operating costs for providing caller location.
 
-<sup>4</sup> ...[^29b-2]
+<sup>4</sup> The recurring costs of providing the service shall be settled among the public telephony service providers at wholesale level based on the number of emergency calls to be expected annually.
 
 <sup>5</sup> The alarm centres shall bear only the costs of using the caller location service.
 
-[^29b-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^29b-2]: Comes into force on 1 Jan. 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^29b-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021, with the exception of para. 4, in force since 1 Jan. 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
 
 #### Art. 30
 
@@ -1930,7 +1929,7 @@ The persons entrusted with carrying out statistical work are subject to professi
 
 The Ordinance on Telecommunications Services of 31 October 2001[^106-1] is repealed.
 
-[^106-1]: [[AS 2001 2759](https://fedlex.data.admin.ch/eli/oc/2001/421), [2002 158](https://fedlex.data.admin.ch/eli/oc/2002/27)[271](https://fedlex.data.admin.ch/eli/oc/2002/58), [2003 544](https://fedlex.data.admin.ch/eli/oc/2003/117)[4767](https://fedlex.data.admin.ch/eli/oc/2003/693), [2005 669](https://fedlex.data.admin.ch/eli/oc/2005/70)[3555](https://fedlex.data.admin.ch/eli/oc/2005/510), [2006 3939](https://fedlex.data.admin.ch/eli/oc/2006/592)]
+[^106-1]: [[AS 2001 2759](https://fedlex.data.admin.ch/eli/oc/2001/421); [2002 158](https://fedlex.data.admin.ch/eli/oc/2002/27), [271](https://fedlex.data.admin.ch/eli/oc/2002/58), [2003 544](https://fedlex.data.admin.ch/eli/oc/2003/117), [4767](https://fedlex.data.admin.ch/eli/oc/2003/693), [2005 669](https://fedlex.data.admin.ch/eli/oc/2005/70), [3555](https://fedlex.data.admin.ch/eli/oc/2005/510), [2006 3939](https://fedlex.data.admin.ch/eli/oc/2006/592)]
 
 #### Art. 106a
 
