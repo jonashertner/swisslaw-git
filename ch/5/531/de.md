@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2016 über die wirtschaftliche Landesversorgun
 short: LVG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2017-308-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-308-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20200101/de"
 
 (Landesversorgungsgesetz, LVG)
 
-vom 17. Juni 2016 (Stand am 1. Januar 2020)
+vom 17. Juni 2016 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -656,9 +656,12 @@ Wer in Zeiten einer unmittelbar drohenden oder bereits bestehenden schweren Mang
 
 <sup>1</sup> Widerhandlungen gegen dieses Gesetz werden von den Kantonen verfolgt und beurteilt.
 
-<sup>2</sup> Widerhandlungen gegen die Vorschriften dieses Gesetzes über die Einfuhrbewilligungspflicht (Art. 7 Abs. 3) und über die Beschränkung der Ausfuhr (Art. 31 Abs. 2 Bst. i) werden von der Eidgenössischen Zollverwaltung (EZV) verfolgt und beurteilt.
+<sup>2</sup> Widerhandlungen gegen die Vorschriften dieses Gesetzes über die Einfuhrbewilligungspflicht (Art. 7 Abs. 3) und über die Beschränkung der Ausfuhr (Art. 31 Abs. 2 Bst. i) werden vom Bundesamt für Zoll und Grenzsicherheit (BAZG) verfolgt und beurteilt.[^55-1]
 
-<sup>3</sup> Stellt eine Widerhandlung gleichzeitig eine nach Absatz 2 und eine durch die EZV zu verfolgende Widerhandlung dar, so wird die für die schwerste Widerhandlung angedrohte Strafe angewendet. Die EZV kann die Strafe angemessen erhöhen.
+<sup>3</sup> Stellt eine Widerhandlung gleichzeitig eine nach Absatz 2 und eine durch das BAZG zu verfolgende Widerhandlung dar, so wird die für die schwerste Widerhandlung angedrohte Strafe angewendet. Das BAZG kann die Strafe angemessen erhöhen.[^55-2]
+
+[^55-1]: Fassung gemäss Ziff. I 14 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^55-2]: Fassung gemäss Ziff. I 14 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 56
 
@@ -752,9 +755,10 @@ Wer beim Vollzug des Gesetzes mitwirkt, ist zur Verschwiegenheit verpflichtet.
 
 <sup>2</sup> Artikel 169 der Strafprozessordnung[^64-1] gilt sinngemäss.
 
-<sup>3</sup> Ungeachtet der Geheimhaltungspflicht stellt die EZV dem BWL, den Fachbereichen, den die Garantiefonds verwaltenden Trägerschaften und den Organisationen der Wirtschaft Belege und Daten zur Verfügung, soweit dies für den Vollzug dieses Gesetzes unerlässlich ist.
+<sup>3</sup> Ungeachtet der Geheimhaltungspflicht stellt das BAZG dem BWL, den Fachbereichen, den die Garantiefonds verwaltenden Trägerschaften und den Organisationen der Wirtschaft Belege und Daten zur Verfügung, soweit dies für den Vollzug dieses Gesetzes unerlässlich ist.[^64-2]
 
 [^64-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^64-2]: Fassung gemäss Ziff. I 14 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## 9. Kapitel: Schlussbestimmungen
 
@@ -802,7 +806,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-…[^annex2-lvlu1-2]
+...[^annex2-lvlu1-2]
 
 [^annex2-lvlu1-1]: [[AS 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 24, [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018)[1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 1, [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 48, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Anhang 1 Ziff. II 18, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 15]
 [^annex2-lvlu1-2]: Die Änderung kann unter [AS 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308)konsultiert werden.

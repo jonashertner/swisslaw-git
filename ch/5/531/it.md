@@ -4,11 +4,11 @@ title: "Legge federale del 17 giugno 2016 sull'approvvigionamento economico del 
 short: LAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2017-308-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-308-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20200101/it"
 
 (Legge sull’approvvigionamento del Paese, LAP)
 
-del 17 giugno 2016 (Stato 1° gennaio 2020)
+del 17 giugno 2016 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -656,9 +656,12 @@ Chiunque, in una situazione di grave penuria già sopraggiunta o imminente, espr
 
 <sup>1</sup> I Cantoni perseguono e giudicano le infrazioni alla presente legge.
 
-<sup>2</sup> L’Amministrazione federale delle dogane (AFD) persegue e giudica le infrazioni alle prescrizioni della presente legge concernenti l’obbligo di autorizzazione per l’importazione (art. 7 cpv. 3) e la limitazione delle importazioni (art. 31 cpv. 2 lett. i).
+<sup>2</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC) persegue e giudica le infrazioni alle prescrizioni della presente legge concernenti l’obbligo di autorizzazione per l’importazione (art. 7 cpv. 3) e la limitazione delle importazioni (art. 31 cpv. 2 lett. i).[^55-1]
 
-<sup>3</sup> Se un’infrazione costituisce simultaneamente un’infrazione secondo il capoverso 2 e un’infrazione perseguibile dall’AFD, si applica la pena comminata per l’infrazione più grave. L’AFD può aumentare adeguatamente la pena.
+<sup>3</sup> Se un’infrazione costituisce simultaneamente un’infrazione secondo il capoverso 2 e un’infrazione perseguibile dall’UDSC, si applica la pena comminata per l’infrazione più grave. L’UDSC può aumentare adeguatamente la pena.[^55-2]
+
+[^55-1]: Nuovo testo giusta il n. I 14 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^55-2]: Nuovo testo giusta il n. I 14 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 56
 
@@ -752,9 +755,10 @@ Chi collabora all’esecuzione della presente legge è tenuto al segreto.
 
 <sup>2</sup> L’articolo 169 del Codice di procedura penale[^64-1] si applica per analogia.
 
-<sup>3</sup> Nonostante l’obbligo del segreto, l’AFD mette gli atti e i dati a disposizione dell’UFAE, dei settori specializzati, degli enti incaricati di amministrare i fondi di garanzia e delle organizzazioni dell’economia, nella misura indispensabile per l’esecuzione della presente legge.
+<sup>3</sup> Nonostante l’obbligo del segreto, l’UDSC mette gli atti e i dati a disposizione dell’UFAE, dei settori specializzati, degli enti incaricati di amministrare i fondi di garanzia e delle organizzazioni dell’economia, nella misura indispensabile per l’esecuzione della presente legge.[^64-2]
 
 [^64-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^64-2]: Nuovo testo giusta il n. I 14 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Capitolo 9: Disposizioni finali
 

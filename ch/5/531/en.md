@@ -4,11 +4,11 @@ title: "Federal Act of 8 October 1982 on the National Economic Supply (National 
 short: NESA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: en
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20200101/en/xml/fedlex-data-admin-ch-eli-cc-2017-308-20200101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20200101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2017-308-20220101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (National Economic Supply Act, NESA)
 
-of 17 June 2016 (Status as of 1 January 2020)
+of 17 June 2016 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -657,9 +657,12 @@ Any person who in times of impending threat or existing severe shortages knowing
 
 <sup>1</sup> The cantons prosecute and judge offences under this Act.
 
-<sup>2</sup> Offences against the provisions of this Act relating to authorisation requirements for the import of goods (Art. 7 para. 3) and on restricting exports (Art. 31 para. 2 let. i) are prosecuted and judged by the Federal Customs Administration (FCA).
+<sup>2</sup> Offences against the provisions of this Act relating to authorisation requirements for the import of goods (Art. 7 para. 3) and on restricting exports (Art. 31 para. 2 let. i) are prosecuted and judged by the Federal Office for Customs and Border Security (FOCBS).[^55-1]
 
-<sup>3</sup> If an offence both contravenes paragraph 2 and constitutes an offence prosecuted by the FCA, the penalty for the more serious offence applies. The FCA may increase the penalty appropriately.
+<sup>3</sup> If an offence both contravenes paragraph 2 and constitutes an offence prosecuted by the FOCBS, the penalty for the more serious offence applies. The FOCBS may increase the penalty appropriately.[^55-2]
+
+[^55-1]: Amended by No I 14 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change in the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^55-2]: Amended by No I 14 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change in the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 56
 
@@ -753,9 +756,10 @@ Any person involved in the implementation of this Act is required to preserve pr
 
 <sup>2</sup> Article 169 of the Criminal Procedure Code[^64-1] applies by analogy.
 
-<sup>3</sup> Irrespective of any duty of confidentiality, the FCA shall provide the FONES, the specialist divisions, the private entities managing the guarantee funds and the private-sector organisations with receipts and data, insofar as these are essential for the implementation of the Act.
+<sup>3</sup> Irrespective of any duty of confidentiality, the FOCBS shall provide the FONES, the specialist divisions, the private entities managing the guarantee funds and the private-sector organisations with receipts and data, insofar as these are essential for the implementation of the Act.[^64-2]
 
 [^64-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^64-2]: Amended by No I 14 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change in the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Chapter 9 Final provisions
 

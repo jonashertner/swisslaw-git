@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 juin 2016 sur l'approvisionnement économique du pa
 short: LAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-308-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-308-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20200101/fr"
 
 (Loi sur l’approvisionnement du pays, LAP)
 
-du 17 juin 2016 (Etat le 1<sup>er</sup> janvier 2020)
+du 17 juin 2016 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -656,9 +656,12 @@ Quiconque, en cas de pénurie grave, déclarée ou imminente, avance ou propage 
 
 <sup>1</sup> Les cantons poursuivent et jugent les infractions à la présente loi.
 
-<sup>2</sup> L’Administration fédérale des douanes (AFD) poursuit et juge les infractions aux prescriptions concernant le régime des permis d’importation (art. 7, al. 3) et concernant les restrictions des exportations (art. 31, al. 2, let. i).
+<sup>2</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF) poursuit et juge les infractions aux prescriptions concernant le régime des permis d’importation (art. 7, al. 3) et les restrictions des exportations (art. 31, al. 2, let. i).[^55-1]
 
-<sup>3</sup> Si un acte constitue à la fois une infraction visée à l’al. 2 et une infraction poursuivie par l’AFD, la peine prévue pour l’infraction la plus grave est appliquée. L’AFD peut augmenter cette peine de manière appropriée.
+<sup>3</sup> Si un acte constitue à la fois une infraction visée à l’al. 2 et une infraction poursuivie par l’OFDF, la peine prévue pour l’infraction la plus grave est appliquée. L’OFDF peut augmenter cette peine de manière appropriée.[^55-2]
+
+[^55-1]: Nouvelle teneur selon le ch. I 14 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^55-2]: Nouvelle teneur selon le ch. I 14 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 56
 
@@ -752,9 +755,10 @@ Quiconque concourt à l’exécution de la présente loi est tenu de garder le s
 
 <sup>2</sup> L’art. 169 du code de procédure pénale[^64-1] s’applique par analogie.
 
-<sup>3</sup> Indépendamment de l’obligation de garder le secret, l’AFD met les justificatifs et les données à la disposition de l’OFAE, des domaines, des organismes chargés de gérer les fonds de garantie et des organisations des milieux économiques, pour autant qu’ils soient indispensables à l’exécution la présente loi.
+<sup>3</sup> Indépendamment de l’obligation de garder le secret, l’OFDF met les justificatifs et les données à la disposition de l’OFAE, des domaines, des organismes chargés de gérer les fonds de garantie et des organisations des milieux économiques, pour autant qu’ils soient indispensables à l’exécution la présente loi.[^64-2]
 
 [^64-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^64-2]: Nouvelle teneur selon le ch. I 14 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Chapitre 9 Dispositions finales
 
@@ -802,7 +806,7 @@ II
 
 Les actes ci-après sont modifiés comme suit:
 
-…[^annex2-lvlu1-2]
+...[^annex2-lvlu1-2]
 
 [^annex2-lvlu1-1]: [[RO 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 24, [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018)[1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 1, [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 48, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)annexe 1 ch. II 18, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 15]
 [^annex2-lvlu1-2]: Les mod. peuvent être consultées au [RO 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308).
