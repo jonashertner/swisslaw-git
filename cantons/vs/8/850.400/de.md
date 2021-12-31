@@ -4,53 +4,54 @@ number: "850.400"
 title: Verordnung betreffend verschiedene Einrichtungen für die Jugend
 short: VJ
 language: de
-version: 2016-12-15
-corrected: 2017-10-11
-version_adopted: 2016-11-02
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-24
 adopted: 2001-05-09
 in_force: 2001-06-01
 url: "https://lex.vs.ch/app/de/texts_of_law/850.400"
-pdf: "https://lex.vs.ch/api/de/versions/154/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2981/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung betreffend verschiedene Einrichtungen für die Jugend
 
-vom 9. Mai 2001
+(VJ)
+
+vom 09.05.2001 (Stand 01.01.2022)
 
 Der Staatsrat des Kantons Wallis
 
 eingesehen die Artikel 5, 11, 25, 31, 33, 34, 36, 41, 43, 45, 47 und 52 des Jugendgesetzes vom 11. Mai 2000 (JG);
 
-auf Antrag des Departements für Erziehung, Kultur und Sport,
+auf Antrag des für die Bildung zuständigen Departements,
 
 verordnet:
 
-### 1. Kapitel: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
-### 1. Abschnitt: Zweck und zuständiges Departement
+### 1.1 Zweck und zuständiges Departement
 
 #### Art. 1
 
 **Ziel**
 
-Diese Verordnung hat zum Ziel, diejenigen Ausführungen zu vervollständigen, bei denen der Staatsrat ermächtigt wurde Präzisierungen zum Jugendgesetz vorzunehmen.
+<sup>1</sup> Diese Verordnung hat zum Ziel, diejenigen Ausführungen zu vervollständigen, bei denen der Staatsrat ermächtigt wurde Präzisierungen zum Jugendgesetz vorzunehmen.
 
 #### Art. 2
 
 **Gleichstellungsprinzip**
 
-Alle Bezeichnungen von Personen, Rechtsstellungen, Funktionen oder Berufen, welche in dieser Verordnung verwendet werden, finden unabhängig auf Frauen und Männer Anwendung.
+<sup>1</sup> Alle Bezeichnungen von Personen, Rechtsstellungen, Funktionen oder Berufen, welche in dieser Verordnung verwendet werden, finden unabhängig auf Frauen und Männer Anwendung.
 
 #### Art. 3
 
 **Zuständigkeit**
 
-Das zuständige Departement ist jenes, welches sich mit der Förderung, der Unterstützung, dem Schutz und der Hilfe für Kinder und junge Menschen befasst (Departement). Es kann die Zusammenarbeit anderer staatlicher Dienststellen sowie diejenige von Privaten verlangen.
+<sup>1</sup> Das zuständige Departement ist jenes, welches sich mit der Förderung, der Unterstützung, dem Schutz und der Hilfe für Kinder und junge Menschen befasst (Departement). Es kann die Zusammenarbeit anderer staatlicher Dienststellen sowie diejenige von Privaten verlangen.
 
-### 2. Abschnitt: Zuständige Dienststelle (Art. 5 JG)
+### 1.2 Zuständige Dienststelle (Art. 5 JG)
 
 #### Art. 4
 
@@ -61,49 +62,31 @@ Das zuständige Departement ist jenes, welches sich mit der Förderung, der Unte
 <sup>2</sup> Die Dienststelle erfüllt namentlich folgende öffentlichrechtliche Aufgaben:
 
 - a) Förderung einer Politik zugunsten der Jugend;
-
 - b) Projekte von Jugendorganisationen und Organisationen, welche sich mit der Jugend befassen, fördern und unterstützen;
-
 - c) Präventionsprogramme, welche die sozialen Kompetenzen der jungen Menschen stärken, beschliessen und zu deren Verwirklichung unterstützen;
-
 - d) die Entwicklung der Kinder und der jungen Menschen durch Gesundheitserziehung und -förderung zu fördern;
-
 - e) die Sicherheit der Kinder und der jungen Menschen, deren körperliche, geistige oder soziale Entwicklung gefährdet ist, zu gewährleisten;
-
 - f) den Kindern, jungen Menschen und ihren Familien spezialisierte ambulante Leistungen in Form von Erziehungsberatung, von schulpsychologischer, therapeutischer, kinderpsychiatrischer Beratung sowie heilpädagogischer Früherziehung anzubieten;
-
 - g) die verschiedenen Kinderschutzmassnahmen planen und evaluieren;
-
 - h) die Qualität der Leistungen und die gute Betriebsführung der sozialpädagogischen Einrichtungen überwachen, namentlich durch eine differenzierte Planung und durch Einführung von Leistungsaufträgen;
-
 - i) Forschungsprojekte über jugendspezifische Anliegen durchführen.
 
 #### Art. 5
 
 **Partner**
 
-Ausser den Eltern und den jungen Menschen sind die Partner der Dienststelle:
+<sup>1</sup> Ausser den Eltern und den jungen Menschen sind die Partner der Dienststelle:
 
 - a) die kommunalen und kantonalen Verwaltungsbehörden;
-
 - b) die Schulbehörden und die Lehrerschaft;
-
 - c) die Vereine der Kinderhilfe;
-
 - d) die Jugendorganisationen;
-
 - e) die Elternvereine und die soziokulturellen und sportlichen Vereine;
-
 - f) die Amtsstellen für Studien- und Berufsberatung;
-
 - g) die Sozialmedizinischen Regionalzentren;
-
-- h) die Vormundschaftsbehörden und die Amtsvormünder;
-
+- h) die Kindes- und Erwachsenenschutzbehörden und die Berufsbeistandschaften;
 - i) die Gerichtsbehörden;
-
 - j) die Gesundheitsfachleute, die Spitäler, die Institutionen für psychische Gesundheit;
-
 - k) die übrigen spezialisierten, privaten und öffentlichen Dienste.
 
 #### Art. 6
@@ -115,13 +98,9 @@ Ausser den Eltern und den jungen Menschen sind die Partner der Dienststelle:
 <sup>2</sup> Die Dienststelle setzt sich namentlich aus folgenden Personen, Sektionen und Amtsstellen zusammen:
 
 - a) einer Verwaltungssektion;
-
 - b) einem Jugenddelegierten;
-
 - c) einer Amtsstelle für den Kindesschutz;
-
-- d) einer Amtsstelle, die mit der Erziehungsberatung, der Schulpsychologie und der ambulanten Kinder- und Jugendpsychiatrie beauftragt ist;
-
+- d) einer Amtsstelle, die mit der Erziehungsberatung, der Schulpsychologie, der Kinder- und Jugendpsychologie, der Logopädie und der Psychomotorik beauftragt ist;
 - e) einer Amtsstelle für heilpädagogische Frühberatung.
 
 <sup>3</sup> Die obgenannten Personen, Sektionen und Amtsstellen sind mit besonderen Aufgaben betraut. Sie gewährleisten eine koordinierte Arbeit und kooperieren in ihrer Tätigkeit.
@@ -142,15 +121,13 @@ Ausser den Eltern und den jungen Menschen sind die Partner der Dienststelle:
 
 <sup>3</sup> Interne Weisungen regeln die Fort- und Weiterbildung im Rahmen der Dienststelle.
 
-### 2. Kapitel: Die Nutzungskriterien für die zugesprochenen Beträge zur Unterstützung der Organisationen, die
-
-sich mit jungen Menschen beschäftigen (Art. 11 JG)
+## 2 Die Nutzungskriterien für die zugesprochenen Beträge zur Unterstützung der Organisationen, die sich mit jungen Menschen beschäftigen (Art. 11 JG)
 
 #### Art. 8
 
 **Begünstigte**
 
-Das Departement kann den Jugendorganisationen oder solchen, welche sich mit jungen Menschen befassen, und ihren Sitz im Wallis haben, Finanzhilfen für spezifische Jugendprojekte zusprechen.
+<sup>1</sup> Das Departement kann den Jugendorganisationen oder solchen, welche sich mit jungen Menschen befassen, und ihren Sitz im Wallis haben, Finanzhilfen für spezifische Jugendprojekte zusprechen.
 
 #### Art. 9
 
@@ -159,15 +136,10 @@ Das Departement kann den Jugendorganisationen oder solchen, welche sich mit jung
 <sup>1</sup> Diese Hilfen dienen namentlich zur Finanzierung:
 
 - a) der Durchführung von Aktivitäten sowie die Realisierung des Jugendlichenaustausches zwischen den verschiedenen Regionen des Kantons, der Schweiz und auf internationaler Ebene;
-
 - b) von Massnahmen, zur Verbesserung der Koordination zwischen den verschiedenen Jugendorganisationen und Stellen, die sich mit jungen Menschen befassen;
-
 - c) interregionaler Zusammenarbeit zwischen den Jugendorganisationen;
-
 - d) der Information- und der Unterlagensammlung über Fragen, die junge Menschen interessieren;
-
 - e) der Aus- und Weiterbildung junger Menschen und Erwachsener, die Betreuungsfunktionen und/oder Leitungsfunktionen innehaben;
-
 - f) zusätzliche Projekte, welche für junge Menschen von Interesse sind.
 
 <sup>2</sup> Eine Beteiligung an Funktionskosten ist nicht vorgesehen.
@@ -178,14 +150,11 @@ Das Departement kann den Jugendorganisationen oder solchen, welche sich mit jung
 
 **Hilfebetrag**
 
-Die Beträge werden gesprochen in Berücksichtigung:
+<sup>1</sup> Die Beträge werden gesprochen in Berücksichtigung:
 
 - a) der Natur und der Bedeutung des Projekts;
-
 - b) der erbrachten Selbstfinanzierung durch die betreffende Stelle und der zugesicherten Hilfe durch Dritte;
-
 - c) der Anzahl der begünstigten Personen;
-
 - d) der Angemessenheit des Projekts mit den in Artikel 9 aufgezählten Zielen.
 
 #### Art. 11
@@ -198,7 +167,76 @@ Die Beträge werden gesprochen in Berücksichtigung:
 
 <sup>3</sup> Die Ausführungen des Gesetzes über die Geschäftsführung und der Finanzhaushalt des Kantons und deren Kontrolle vom 24. Juni 1980 bleiben vorbehalten.
 
-### 3. Kapitel: Ambulante sozialpädagogischen Leistungen, Erziehungshilfe (Art. 307 Abs. 3 ZGB) und Erziehungsbeistandschaft (Art. 308 Abs. 1 und 2 ZGB) (Art. 21 und 25 JG)
+## 2a Finanzielle Unterstützung für innovative ausserschulische Projekte im Interesse der Jugend (Art. 8 KJFG)
+
+#### Art. 11a
+
+**Definition und Ziel**
+
+<sup>1</sup> Als innovative ausserschulische Jugendprojekte werden alle Projekte im Zusammenhang mit Bildungs- und Betreuungsaktivitäten in offenem Umfeld verstanden, die Modellcharakter haben oder die Beteiligung von Kindern und Jugendlichen fördern und auf kommunaler oder regionaler Ebene zur Entwicklung einer nachhaltigen Politik oder Massnahme zugunsten von Kindern und Jugendlichen beitragen, wobei ein nachgewiesener Bedarf bestehen und der Wissenstransfer im Sinne des Bundesgesetzes über die Förderung der ausserschulischen Arbeit mit Kindern und Jugendlichen (KJFG) gewährleistet sein muss.
+
+<sup>2</sup> Diese Projekte richten sich an alle im Wallis wohnhaften Kinder und Jugendlichen ab dem Kindergartenalter bis zum vollendeten 25. Altersjahr.
+
+<sup>3</sup> Nicht berücksichtigt werden Projekte mit wirtschaftlichen Zielen oder solche, die von Organisationen angeboten werden, die ein derartiges Ziel verfolgen. Ebenfalls ausgeschlossen sind Projekte, die vor der Gesuchstellung begonnen wurden.
+
+#### Art. 11b
+
+**Umfang und Verteilung der Hilfen**
+
+<sup>1</sup> Innovative ausserschulische Projekte im Interesse der Jugend werden zu mindestens 50 Prozent von den öffentlich-rechtlichen Gebietskörperschaften, dem Verein oder der Stiftung und zu höchstens 50 Prozent vom Kanton finanziert.
+
+<sup>2</sup> Die Obergrenze für die kantonale Hilfe, die für die einzelnen innovativen ausserschulische Projekte im Interesse der Jugend gewährt wird, darf 50'000 Franken pro Jahr nicht überschreiten.
+
+<sup>3</sup> Der maximale Zeitraum der Subventionen beträgt drei Jahre.
+
+#### Art. 11c
+
+**Kompetenzen**
+
+<sup>1</sup> Die Gewährung von Finanzhilfen zugunsten von innovativen ausserschulischen Projekten im Interesse der Jugend liegt in der Kompetenz des Departementsvorstehers, welcher vorgängig die Vormeinung des Jugenddelegierten einholt und diese Kompetenz an den Vorsteher der Dienststelle delegieren kann.
+
+<sup>2</sup> Die innovativen ausserschulischen Projekte im Interesse der Jugend werden von der Dienststelle überwacht und evaluiert.
+
+<sup>3</sup> Der jährlich für innovative ausserschulische Projekte im Interesse der Jugend gewährte Betrag wird durch einen Entscheid des Departements festgelegt.
+
+#### Art. 11d
+
+**Gesuch**
+
+<sup>1</sup> Öffentlich-rechtliche Gebietskörperschaften, Vereine oder Stiftungen, die eine finanzielle Unterstützung für ihr Projekt anstreben, müssen bis spätestens Ende April ein Gesuch bei der Dienststelle einreichen.
+
+<sup>2</sup> Das Gesuch muss insbesondere die folgenden Angaben über das geplante Projekt enthalten:
+
+- a) Art und Bedeutung;
+- b) Ziel und Nutzen;
+- c) innovativer Charakter oder Eignung zur Förderung der Beteiligung;
+- d) teilnehmende Personen und Organisationen;
+- e) Beginn der geplanten Aktivitäten;
+- f) Finanzierung und Budget.
+
+<sup>3</sup> Die Modalitäten für die Einreichung des Gesuchs und seiner Anhänge sowie die Bedingungen und das Verfahren für die Gewährung der Hilfe werden in einer Weisung des Departements näher beschrieben.
+
+#### Art. 11e
+
+**Prüfung und Entscheidung**
+
+<sup>1</sup> Das Gesuch wird von der Dienststelle geprüft. Falls es unvollständig ist, sendet sie es zur Vervollständigung an die ersuchende Organisation zurück.
+
+<sup>2</sup> Die Projekte müssen spätestens drei Monate nach Erhalt des Finanzierungsentscheids beginnen.
+
+<sup>3</sup> Die Zusammenarbeit, die Projektüberwachung und die Finanzierungsmodalitäten werden in einem Vertrag zwischen der Dienststelle und der ersuchenden Organisation geregelt.
+
+#### Art. 11f
+
+**Rückforderung**
+
+<sup>1</sup> Die Dienststelle fordert die Hilfe zurück, wenn sie auf der Grundlage falscher oder irreführender Angaben gewährt wurde oder nicht zur Finanzierung ausserschulischer Aktivitäten verwendet wurde, oder wenn die Bestimmungen des Vertrags nicht eingehalten wurden.
+
+<sup>2</sup> Löst sich eine private Organisation im Jahresverlauf auf, so verlangt die Dienststelle die gewährte Finanzhilfe anteilsmässig für das laufende Jahr zurück.
+
+<sup>3</sup> Der Empfänger der Hilfe muss die Dienststelle umgehend schriftlich über jegliche Einstellung der Aktivitäten informieren.
+
+## 3 Ambulante sozialpädagogischen Leistungen, Erziehungshilfe (Art. 307 Abs. 3 ZGB) und Erziehungsbeistandschaft (Art. 308 Abs. 1 und 2 ZGB) (Art. 21 und 25 JG)
 
 #### Art. 12
 
@@ -208,7 +246,7 @@ Die Beträge werden gesprochen in Berücksichtigung:
 
 <sup>3</sup> Grundsätzlich sind diese Leistungen für Situationen vorbehalten, für welche eine andersartige ambulante Hilfe (Erziehungsberatung, Psychotherapie, heilpädagogische Frühberatung, Erziehungsbeistand, usw.) sich als wirkungslos oder unzulänglich erweist.
 
-### 1. Abschnitt: Juristisches Statut und Bewilligung
+### 3.1 Juristisches Statut und Bewilligung
 
 #### Art. 13
 
@@ -216,7 +254,7 @@ Die Beträge werden gesprochen in Berücksichtigung:
 
 <sup>1</sup> Die ambulanten sozialpädagogischen Leistungen können sowohl einem öffentlichen Dienst obliegen als auch an eine private Stelle delegiert werden.
 
-<sup>2</sup> Wenn diese an eine private Stelle delegiert werden, muss die Stelle die Rechtsform eines Vereins gemäss Artikel 60ff ZGB aufweisen, welcher die Verantwortung bezüglich den erbrachten Leistungen übernimmt.
+<sup>2</sup> Wenn diese an eine private Stelle delegiert werden, muss die Stelle die Rechtsform eines Vereins gemäss Artikel 60 und folgende ZGB aufweisen, welcher die Verantwortung bezüglich den erbrachten Leistungen übernimmt.
 
 <sup>3</sup> Die Bewilligung für die private Berufsausübung wird durch das Departement erteilt.
 
@@ -227,38 +265,31 @@ Die Beträge werden gesprochen in Berücksichtigung:
 <sup>1</sup> Folgende Personen, Instanzen oder Dienste können ambulante sozialpädagogische Leistungen beanspruchen:
 
 - a) die Eltern oder ihre Vertreter;
-
-- b) die Vormundschaftsbehörden und Amtsvormünder;
-
+- b) die Kindes- und Erwachsenenschutzbehörden und die Berufsbeistandschaften;
 - c) das Jugendgericht;
-
 - d) die kommunalen und regionalen Sozialdienste;
-
 - e) die spezialisierten Dienste;
-
 - f) die Dienststelle.
 
 <sup>2</sup> Sie können diese Leistungen ohne vorgängige Bewilligung der Dienststelle erhalten. Vorbehalten bleibt die Finanzierungsfrage.
 
-### 2. Abschnitt: Verpflichtungen
+### 3.2 Verpflichtungen
 
 #### Art. 15
 
 **Leistungen**
 
-Die beauftragte Stelle zur Erbringung ambulanter sozialpädagogischer Leistungen verpflichtet sich:
+<sup>1</sup> Die beauftragte Stelle zur Erbringung ambulanter sozialpädagogischer Leistungen verpflichtet sich:
 
 - a) das Kind unter Berücksichtigung seiner familiären, schulischen, beruflichen und sozialen Integration zu fördern und gleichzeitig die Entwicklung zur Selbstständigkeit zu unterstützen;
-
 - b) im Rahmen des Möglichen, den familiären und familienexternen Kontext des Kindes zu mobilisieren, damit innerhalb kürzester Frist die ambulante sozialpädagogische Betreuung abgelöst werden kann;
-
 - c) ihren Auftrag in enger Absprache und Zusammenarbeit mit allen Partnern, welche im selben Tätigkeitsbereich wirken, wahrzunehmen.
 
 #### Art. 16
 
 **Ausbildung**
 
-Die Fachleute, die beauftragt sind, ambulante sozialpädagogische Leistungen zu erbringen, müssen im Besitze einer angemessenen, nachgewiesenen Ausbildung sein, namentlich ein Diplom in Sozialarbeit, in Sozialpädagogik oder in einem vom Departement als gleichwertig anerkannten Bereich. Sie haben die Pflicht, sich über die theoretische und praktische Entwicklung in ihrem Beruf auf dem Laufenden zu halten.
+<sup>1</sup> Die Fachleute, die beauftragt sind, ambulante sozialpädagogische Leistungen zu erbringen, müssen im Besitze einer angemessenen, nachgewiesenen Ausbildung sein, namentlich ein Diplom in Sozialarbeit, in Sozialpädagogik oder in einem vom Departement als gleichwertig anerkannten Bereich. Sie haben die Pflicht, sich über die theoretische und praktische Entwicklung in ihrem Beruf auf dem Laufenden zu halten.
 
 #### Art. 17
 
@@ -268,9 +299,7 @@ Die Fachleute, die beauftragt sind, ambulante sozialpädagogische Leistungen zu 
 
 <sup>2</sup> Die Mitarbeiter einer privaten Stelle sind verpflichtet, die erhaltenen Informationen im Rahmen der Ausübung ihrer Tätigkeit vertraulich zu behandeln, ausgenommen im Falle der Entbindung der Geheimhaltungspflicht durch die betroffene Person oder ihren gesetzlichen Vertreter. Diese Verpflichtung gilt ebenfalls nach Abschluss des Arbeitsverhältnisses.
 
-<sup>3</sup> Die Beteiligung des Mitarbeiters an der Erstellung des Sachverhaltes in einem Zivil- oder Strafverfahren unterliegt nicht den Absätzen 1 und 2 des vorliegenden Artikels. Seine Rechte und Pflichten ergeben sich aus der Schweizerischen Zivilprozessordnung oder aus der Schweizerischen Strafprozessordnung.[^17-1]
-
-[^17-1]: Fassung gemäss Art. 10 Ziff. 16 des Abl. Nr. 26/2010 1.01.2011 Einführungsgesetzes zur Schweizerischen Zivilprozessordnung (EGZPO) vom 11.02.2009
+<sup>3</sup> Die Beteiligung des Mitarbeiters an der Erstellung des Sachverhaltes in einem Zivil- oder Strafverfahren unterliegt nicht den Absätzen 1 und 2 des vorliegenden Artikels. Seine Rechte und Pflichten ergeben sich aus der Schweizerischen Zivilprozessordnung oder aus der Schweizerischen Strafprozessordnung.
 
 #### Art. 18
 
@@ -280,7 +309,7 @@ Die Fachleute, die beauftragt sind, ambulante sozialpädagogische Leistungen zu 
 
 <sup>2</sup> Wenn ein Mitarbeiter Kenntnis erlangt von einer von Amtes wegen zu verfolgenden Rechtsverletzung den Kindesschutz betreffend, hat er die Pflicht, sich an den Vorgesetzten zu wenden, im gegebenen Falle an den Vorstand, welcher die Feststellungen beim Strafuntersuchungsrichter anzeigt.
 
-<sup>3</sup> Der Artikel 54 des Jugendgesetzes findet Anwendung.
+<sup>3</sup> Der Artikel 54 des JG findet Anwendung.
 
 #### Art. 19
 
@@ -290,7 +319,7 @@ Die Fachleute, die beauftragt sind, ambulante sozialpädagogische Leistungen zu 
 
 <sup>2</sup> Die Akte lautend auf den Namen des jungen Menschen wird bis zum Zeitpunkt seiner Volljährigkeit aufbewahrt. In jedem Fall müssen zehn Jahre zwischen dem letzten Eintrag und der Vernichtung der Akte verstrichen sein.
 
-### 3. Abschnitt: Finanzierung
+### 3.3 Finanzierung
 
 #### Art. 20
 
@@ -304,47 +333,39 @@ Die Fachleute, die beauftragt sind, ambulante sozialpädagogische Leistungen zu 
 
 **Hilfe der öffentlichen Hand**
 
-Wenn ein Hilfegesuch an die Dienststelle gerichtet wird, tritt diese unter folgenden Voraussetzungen darauf ein, wenn:
+<sup>1</sup> Wenn ein Hilfegesuch an die Dienststelle gerichtet wird, tritt diese unter folgenden Voraussetzungen darauf ein, wenn:
 
 - a) ein schriftlicher Bericht die Notwendigkeit der ambulanten sozialpädagogischen Leistungen aufzeigt;
-
 - b) die Bedingungen gemäss Artikel 12 Absatz 3 eingehalten sind;
-
 - c) die Dienststelle über keine eigenen Mittel verfügt, um selber zu intervenieren;
-
 - d) die finanziellen Möglichkeiten der Dienststelle dies erlauben;
-
 - e) die betroffene Gemeinde eine Finanzgarantie für den Kostenanteil, der nicht dem Kanton obliegt, zugesichert hat.
 
 #### Art. 22
 
 **Aufträge der Dienststelle**
 
-<sup>1</sup> Die Aufträge der Dienststelle oder des Jugendgerichtes an eine anerkannte private Stelle werden im Maximum zu 65 Prozent durch die Dienststelle und der verbleibende Anteil durch das Kind oder seine Eltern, subsidiär durch die verantwortlichen Körperschaften gemäss Artikel 17 des Gesetzes über die Eingliederung und die Sozialhilfe übernommen.
+<sup>1</sup> Die Aufträge der Dienststelle oder des Jugendgerichtes an eine anerkannte private Stelle werden im Maximum zu 65 Prozent durch die Dienststelle und der verbleibende Anteil durch das Kind oder seine Eltern, subsidiär durch die verantwortlichen Körperschaften, gemäss dem Gesetz über die Eingliederung und die Sozialhilfe, übernommen.
 
 <sup>2</sup> Die Zusammenarbeit und die Finanzierungsmodalitäten werden in einem Vertrag zwischen dem Staatsrat und der anerkannten privaten Stelle geregelt.
 
-### 4. Abschnitt: Erziehungshilfe und Erziehungsbeistandschaft
+### 3.4 Erziehungshilfe und Erziehungsbeistandschaft
 
-[^h4AbschnittErzieh-1]: Änderung vom 21.12.2011 Abl. Nr. 52/2011 1.01.2012
+#### Art. 22a
 
-#### Art. 22bis
+**Grundsätze und Finanzierungsmodus**
 
-**, <sup>7</sup> Grundsätze und Finanzierungsmodus**[^h4AbschnittErzieh-1]
+<sup>1</sup> Erteilt die Kinder- und Erwachsenenschutzbehörde (KESB) der zuständigen Stelle ein Mandat für Erziehungshilfe oder Erziehungsbeistandschaft, so wird der Wohnsitzgemeinde des Kindes jährlich eine Pauschale von monatlich 300 Franken pro Kind oder mehrere Kinder der gleichen Familie in Rechnung gestellt.
 
-<sup>1</sup> Erteilt die Kinder- und Erwachsenenschutzbehörde (KESB) der zuständigen Stelle ein Mandat für Erziehungshilfe oder Erziehungsbeistandschaft, so wird der Wohnsitzgemeinde des Kindes jährlich eine Pauschale von monatlich 300 Franken pro Kind oder mehrere Kinder der gleichen Familie in Rechnung gestellt.[^22bis-1]
+<sup>2</sup> Bei Wohnsitzwechsel des Kindes im Laufe des Jahres bleibt die alte Wohnsitzgemeinde für die Kosten der Massnahme bis zum Ende des Kalenderjahres zuständig. Die neue Wohnsitzgemeinde übernimmt die Kosten der Massnahme ab dem 1. Januar des folgenden Jahres.
 
-<sup>2</sup> Bei Wohnsitzwechsel des Kindes im Laufe des Jahres bleibt die alte Wohnsitzgemeinde für die Kosten der Massnahme bis zum Ende des Kalenderjahres zuständig. Die neue Wohnsitzgemeinde übernimmt die Kosten der Massnahme ab dem 1. Januar des folgenden Jahres.[^22bis-1]
+<sup>3</sup> Die Fakturierung des Pauschalbetrages beginnt mit der Einreichung des Mandates durch die KESB bei der zuständigen Stelle. Die Fakturierung endet nach Bekanntgabe der Entscheidung über die Aufhebung der Massnahme durch die KESB bei der zuständigen Stelle.
 
-<sup>3</sup> Die Fakturierung des Pauschalbetrages beginnt mit der Einreichung des Mandates durch die KESB bei der zuständigen Stelle. Die Fakturierung endet nach Bekanntgabe der Entscheidung über die Aufhebung der Massnahme durch die KESB bei der zuständigen Stelle.[^22bis-1]
+<sup>4</sup> Die Kosten des Mandats, das der zuständigen Stelle erteilt wird, werden im Prinzip vollständig durch die Wohnsitzgemeinde des Kindes getragen, wenn es sich um Erziehungshilfe im Sinne des Artikels 307 Absatz 3 des Schweizerischen Zivilgesetzbuches und Erziehungsbeistandschaft im Sinne des Artikels 308 Absatz 1 des Schweizerischen Zivilgesetzbuches handelt.
 
-<sup>4</sup> Die Kosten des Mandats, das der zuständigen Stelle erteilt wird, werden im Prinzip vollständig durch die Wohnsitzgemeinde des Kindes getragen, wenn es sich um Erziehungshilfe im Sinne des Artikels 307 Abs. 3 des Schweizerischen Zivilgesetzbuches und Erziehungsbeistandschaft im Sinne des Artikels 308 Abs. 1 des Schweizerischen Zivilgesetzbuches handelt.[^22bis-1]
+<sup>5</sup> Wenn die KESB einen Beistand für die Überwachung des persönlichen Verkehrs im Sinne des Artikels 308 Absatz 2 des Schweizerischen Zivilgesetzbuches beantragt und diese Massnahme insbesondere in Anbetracht des bestehenden Konfliktes zwischen den Eltern beantragt werden muss, kann die KESB eine Beteiligung des Elternteils oder der Eltern an den Kosten der Massnahme festlegen. Diese darf im Prinzip aber den Betrag von 100 Franken pro Monat nicht überschreiten.
 
-<sup>5</sup> Wenn die KESB einen Beistand für die Überwachung des persönlichen Verkehrs im Sinne des Artikels 308 Abs. 2 des Schweizerischen Zivilgesetzbuches beantragt und diese Massnahme insbesondere in Anbetracht des bestehenden Konfliktes zwischen den Eltern beantragt werden muss, kann die KESB eine Beteiligung des Elternteils oder der Eltern an den Kosten der Massnahme festlegen. Diese darf im Prinzip aber den Betrag von 100 Franken pro Monat nicht überschreiten.[^22bis-1]
-
-[^22bis-1]: Änderung vom 14. Januar 2015 Abl. Nr. 4/2015 01.01.2015
-
-### 4. Kapitel: Besuchsrecht unter Aufsicht
+## 4 Besuchsrecht unter Aufsicht
 
 #### Art. 23
 
@@ -353,12 +374,11 @@ Wenn ein Hilfegesuch an die Dienststelle gerichtet wird, tritt diese unter folge
 <sup>1</sup> Ein Besuchsrecht unter Aufsicht kann für denjenigen Elternteil, dem die elterliche Obhut nicht zuerkannt wurde, unter nachfolgenden Bedingungen erlassen werden:
 
 - a) wenn ein schwerer Konflikt zwischen den Eltern besteht;
-
 - b) wenn das Kindswohl gefährdet ist (Gewalt, Alkoholismus, Drogenabhängigkeit, sexuelle Ausbeutung, Kindsentführung).
 
 <sup>2</sup> Eine anerkannte private Stelle kann mit der Organisation und Überwachung des beaufsichtigten Besuchsrechts beauftragt werden.
 
-<sup>3</sup> Wenn dieser Auftrag an eine private Stelle delegiert wird, muss diese die Rechtsform eines Vereins gemäss Artikel 60ff ZGB aufweisen, welcher die Verantwortung bezüglich der erbrachten Leistungen übernimmt.
+<sup>3</sup> Wenn dieser Auftrag an eine private Stelle delegiert wird, muss diese die Rechtsform eines Vereins gemäss Artikel 60 und folgende ZGB aufweisen, welcher die Verantwortung bezüglich der erbrachten Leistungen übernimmt.
 
 <sup>4</sup> Die Bewilligung wird durch das Departement erteilt.
 
@@ -368,81 +388,74 @@ Wenn ein Hilfegesuch an die Dienststelle gerichtet wird, tritt diese unter folge
 
 **Leistungen**
 
-Die zur Erbringung dieser Leistungen beauftragte Stelle verpflichtet sich:
+<sup>1</sup> Die zur Erbringung dieser Leistungen beauftragte Stelle verpflichtet sich:
 
 - a) die Sicherheit des Kindes zu gewährleisten;
-
 - b) für die Wiederaufnahme oder die Erhaltung von Kontakten und/oder persönlichen Beziehungen zwischen dem Elternteil, dem die elterliche Obhut nicht zuerkannt wurde, und dem Kind Hilfe und Unterstützung;
-
 - c) die Wiederaufnahme von selbstständigen persönlichen Beziehungen fördern;
-
 - d) ihren Auftrag in enger Absprache und Zusammenarbeit mit allen Partnern, welche im selben Tätigkeitsbereich wirken, wahrzunehmen.
 
 #### Art. 25
 
 **Ausbildung**
 
-Die mit der Aufsicht des Besuchsrechts beauftragten Fachleute, müssen im Besitze einer angemessenen, nachgewiesenen Ausbildung sein, namentlich ein Diplom in Sozialpädagogik oder in einem vom Departement als gleichwertig anerkannten Bereich. Sie haben die Pflicht, sich über die theoretische und praktische Entwicklung in ihrem Beruf auf dem Laufenden zu halten.
+<sup>1</sup> Die mit der Aufsicht des Besuchsrechts beauftragten Fachleute, müssen im Besitze einer angemessenen, nachgewiesenen Ausbildung sein, namentlich ein Diplom in Sozialpädagogik oder in einem vom Departement als gleichwertig anerkannten Bereich. Sie haben die Pflicht, sich über die theoretische und praktische Entwicklung in ihrem Beruf auf dem Laufenden zu halten.
 
 #### Art. 26
 
 **Pflicht zur Verschwiegenheit, Meldepflicht und Akten**
 
-Die Artikel 17, 18 und 19 sind anwendbar.
+<sup>1</sup> Die Artikel 17, 18 und 19 sind anwendbar.
 
 #### Art. 27
 
 **Finanzierung**
 
-<sup>1</sup> Bei einer richterlichen oder waisenamtlichen Entscheidung für die Durchführung des Besuchsrechts unter Aufsicht, kann die Dienststelle bis 65 Prozent der vom Departement anerkannten Kosten übernehmen. Der verbleibende Teil wird durch das Kind oder seine Eltern übernommen. Im gegenteiligen Falle wird dies durch die verantwortlichen Körperschaften gemäss Artikel 17 des Gesetzes über die Eingliederung und die Sozialhilfe übernommen.
+<sup>1</sup> Bei einer richterlichen oder waisenamtlichen Entscheidung für die Durchführung des Besuchsrechts unter Aufsicht kann die Dienststelle bis 65 Prozent der vom Departement anerkannten Kosten von Aufträgen an eine private Stelle übernehmen. Der verbleibende Teil wird durch das Kind oder seine Eltern übernommen. Im gegenteiligen Falle wird dies durch die verantwortlichen Körperschaften gemäss dem Gesetz über die Eingliederung und die Sozialhilfe übernommen.
 
 <sup>2</sup> Die Personen, Instanzen oder Dienste, die Leistungen dieser Stelle in Anspruch nehmen, übernehmen selbst die Kosten, welche in einer Vereinbarung mit den Partnern festgelegt sind.
 
 <sup>3</sup> Ein Leistungsvertrag kann zwischen der privaten Stelle und dem Departement abgeschlossen werden.
 
-### 5. Kapitel: Tagesplatzierung von Kindern (Art. 31 und 33 JG)
+## 5 Tagesplatzierung von Kindern (Art. 31 und 33 JG)
 
-### 1. Abschnitt: Definition der Betreuungsstrukturen
+### 5.1 Definition der Betreuungsstrukturen
 
 #### Art. 28
 
-Definition der Betreuungsstrukturen mit erweiterten Öffnungszeiten
+**Definition der Betreuungsstrukturen mit erweiterten Öffnungszeiten**
 
 <sup>1</sup> Die Bezeichnung "Betreuungsstrukturen mit erweiterten Öffnungszeiten" ist eine Angabe, wonach dieser Ort im Allgemeinen mindestens während 4 Stunden in der Folge und höchstens 12 Stunden am Tag geöffnet ist.
 
 <sup>2</sup> Es handelt sich um folgende Betreuungsstrukturen:
 
 - a) die Säuglingskrippe: Aufnahme von Kleinkindern im Alter von 1 bis 18 Monaten;
-
 - b) die Kinderkrippe: Aufnahme von Kindern im Alter von 18 Monaten bis 6 Jahren;
-
 - c) der Kinderhort: Aufnahme von Kindern im Alter von 18 Monaten bis 6 Jahren;
-
 - d) die ausserschulischen Betreuungseinrichtungen für Schüler (ABES): Aufnahme von Kindergarten- und Primarschülern.
 
 #### Art. 29
 
-Definition der Betreuungsstrukturen mit eingeschränkten Öffnungszeiten
+**Definition der Betreuungsstrukturen mit eingeschränkten Öffnungszeiten**
 
 <sup>1</sup> Die Bezeichnung "Betreuungsstrukturen mit eingeschränkten Öffnungszeiten" ist eine Angabe, wonach dieser Ort im Allgemeinen höchstens während 4 Stunden in der Folge am Tag und höchstens 12 Stunden in der Woche geöffnet ist.
 
 <sup>2</sup> Es handelt sich um folgende Betreuungsstrukturen:
 
-- a) der Kinderspielgruppe : Aufnahme der Kinder ab dem Alter von 3 Jahren bis zum Alter der obligatorischen Schulpflicht;
-
-- b) der Kurzzeit-Kinderhort : Aufnahme von Kindern zwischen 2 bis 8 Jahren.
+- a) der Kinderspielgruppe: Aufnahme der Kinder ab dem Alter von 3 Jahren bis zum Alter der obligatorischen Schulpflicht;
+- b) der Kurzzeit-Kinderhort: Aufnahme von Kindern zwischen 2 bis 8 Jahren.
 
 #### Art. 30
 
 **Integration von behinderten Kindern**
 
-Das Departement kann die Integration von behinderten Kindern in Strukturen, welche in den Artikeln 25 und 26 aufgeführt sind, unterstützen.
+<sup>1</sup> Das Departement kann die Integration von behinderten Kindern in Strukturen, welche in den Artikeln 25 und 26 aufgeführt sind, unterstützen.
 
-### 2. Abschnitt: Bewilligung und Aufsicht
+### 5.2 Bewilligung und Aufsicht
 
 #### Art. 31
 
-Bewilligungskriterien für Betreuungsstrukturen mit erweiterten und eingeschränkten Öffnungszeiten
+**Bewilligungskriterien für Betreuungsstrukturen mit erweiterten und eingeschränkten Öffnungszeiten**
 
 <sup>1</sup> Diese Einrichtungen bedürfen bezüglich Betreuung und Aufenthaltsdauer über ausgebildetes Personal und angemessene Einrichtungen.
 
@@ -450,7 +463,7 @@ Bewilligungskriterien für Betreuungsstrukturen mit erweiterten und eingeschrän
 
 #### Art. 32
 
-Bewilligungskriterien für die Betreuungsstrukturen in Tourismusregionen
+**Bewilligungskriterien für die Betreuungsstrukturen in Tourismusregionen**
 
 <sup>1</sup> Die Einrichtungen in Tourismusregionen bedürfen bezüglich Betreuung und Aufenthaltsdauer über ausreichend ausgebildetes Personal und angemessene Einrichtungen.
 
@@ -458,9 +471,7 @@ Bewilligungskriterien für die Betreuungsstrukturen in Tourismusregionen
 
 #### Art. 33
 
-**Bewilligungskriterien für Betreuungsstrukturen, die mit**
-
-kulturellen oder kommerziellen Tätigkeiten verbunden sind
+**Bewilligungskriterien für Betreuungsstrukturen, die mit kulturellen oder kommerziellen Tätigkeiten verbunden sind**
 
 <sup>1</sup> Die Betreuungsstrukturen, namentlich verbunden mit einer kulturellen Aktivität (Messe, Ausstellung oder anderes) sowie die Kurzzeit-Kinderhorte eines Sport- oder Freizeitzentrums müssen über eine ausreichende Anzahl von Betreuungspersonen und einer angemessenen materiellen Einrichtung hinsichtlich der jeweiligen Betreuungsstruktur verfügen.
 
@@ -470,53 +481,36 @@ kulturellen oder kommerziellen Tätigkeiten verbunden sind
 
 #### Art. 34
 
-Bewilligungsverfahren für eine Betreuungsstruktur mit erweiterter Öffnungszeit
+**Bewilligungsverfahren für eine Betreuungsstruktur mit erweiterter Öffnungszeit**
 
 <sup>1</sup> Jedem Bewilligungsgesuch für den Betrieb einer Betreuungsstruktur mit erweiterter Öffnungszeit müssen folgende Dokumente beigelegt sein:
 
 - a) die schriftliche Gesuchsbegründung mit einer Bedarfsstudie;
-
 - b) der Name des Betriebsführers der Betreuungsstruktur, sofern es sich um eine natürliche Person handelt, oder der Name des Präsidenten vom Direktionsorgan, die Liste der Vorstandsmitglieder und die Statuten, sofern es sich um eine juristische Person handelt;
-
 - c) der Name, die Ziele der Einrichtung und seine Öffnungszeiten;
-
 - d) die Anzahl und das Alter der Kinder;
-
 - e) das pädagogische Leitbild;
-
 - f) das oder die Diplome der Verantwortlichen;
-
 - g) der Bestand und die Ausbildung des Personals sowie eine Kopie der Diplome;
-
 - h) die finanzielle Organisation: das Investitionsbudget, das voraussichtliche Betriebsbudget und die Tarife;
-
 - i) der Plan der Räumlichkeiten und deren Einrichtung, sowie die Baubewilligung;
-
 - j) die positive Vormeinung der kantonalen Dienststellen, welche auf dem Gesuchsformular für die Bewilligung aufgeführt sind;
-
-- k) ein Strafregisterauszug jeder Person, die eine Tätigkeit mit regelmässigen Kontakt zu Minderjährigen ausübt.[^34-1]
+- k) für jede Person, die eine Tätigkeit mit regelmässigem Kontakt zu Minderjährigen ausübt, ein Strafregisterauszug, der nicht mehr als sechs Monate vor der Gesuchstellung ausgestellt wurde.
 
 <sup>2</sup> Die Betreuungsstruktur muss namentlich die Vorschriften im Bereiche der Baupolizei, der Feuerpolizei, der Hygiene und der Lebensmittel einhalten.
 
-[^34-1]: Änderung vom 2. November 2016 Abl. Nr. 46/2016 15.12.2016
-
 #### Art. 35
 
-Bewilligungsverfahren für eine Betreuungsstruktur mit eingeschränkter Öffnungszeit
+**Bewilligungsverfahren für eine Betreuungsstruktur mit eingeschränkter Öffnungszeit**
 
 <sup>1</sup> Jedem Bewilligungsgesuch für den Betrieb einer Betreuungsstruktur mit eingeschränkter Öffnungszeit müssen folgende Dokumente beigelegt sein:
 
 - a) der Name des Betriebsführers der Betreuungsstruktur, sofern es sich um eine natürliche Person handelt, oder der Name des Präsidenten vom Direktionsorgan, die Liste der Vorstandsmitglieder und die Statuten, sofern es sich um eine juristische Person handelt;
-
 - b) der Plan der Räumlichkeiten und ihre Einrichtung;
-
 - c) die Anzahl und das Alter der Kinder;
-
 - d) der Name, die Ziele der Einrichtung und ihre Öffnungszeiten;
-
 - e) die positiven Vormeinungen der kantonalen Dienststellen, welche auf dem Gesuchsformular für die Bewilligung aufgeführt sind;
-
-- f) ein Strafregisterauszug und ein Leumundszeugnis des Betriebsführers.
+- f) für jede Person, die eine Tätigkeit mit regelmässigem Kontakt zu Minderjährigen ausübt, ein Strafregisterauszug, der nicht mehr als sechs Monate vor der Gesuchstellung ausgestellt wurde.
 
 <sup>2</sup> Die Einrichtung muss namentlich die Vorschriften im Bereiche der Baupolizei, der Feuerpolizei, der Hygiene und der Lebensmittel einhalten.
 
@@ -534,13 +528,13 @@ Bewilligungsverfahren für eine Betreuungsstruktur mit eingeschränkter Öffnung
 
 **Bewilligungsdauer**
 
-Grundsätzlich wird die Bewilligung für eine Dauer von fünf Jahren erteilt. Die Bewilligung kann erneuert werden, wenn die Bewilligungsvoraussetzungen noch erfüllt sind.
+<sup>1</sup> Grundsätzlich wird die Bewilligung für eine Dauer von fünf Jahren erteilt. Die Bewilligung kann erneuert werden, wenn die Bewilligungsvoraussetzungen noch erfüllt sind.
 
 #### Art. 38
 
 **Meldepflicht**
 
-Jede Änderung bezüglich der Voraussetzungen zur Bewilligungserteilung muss umgehend dem Departement mitgeteilt werden.
+<sup>1</sup> Jede Änderung bezüglich der Voraussetzungen zur Bewilligungserteilung muss umgehend dem Departement mitgeteilt werden.
 
 #### Art. 39
 
@@ -549,59 +543,46 @@ Jede Änderung bezüglich der Voraussetzungen zur Bewilligungserteilung muss umg
 <sup>1</sup> Die Dienststelle ist mit der Aufsicht beauftragt. Diese betrifft:
 
 - a) die Kontrolle der Grundvoraussetzungen für die Bewilligung;
-
 - b) die Qualität der pädagogischen Betreuung der Kinder.
 
 <sup>2</sup> Das Departement kann die Kontrolle der Grundvoraussetzungen für die Bewilligung an die Gemeinden delegieren.
 
 <sup>3</sup> Eine Weisung des Departements legt die Kontrollkriterien genauer fest.
 
-### 3. Abschnitt: Betreuungsstrukturen im privaten Wohnbereich
+### 5.3 Betreuungsstrukturen im privaten Wohnbereich
 
 #### Art. 40
 
 **Definition der Tagesbetreuung im privaten Wohnbereich**
 
-Die Tagesbetreuung im privaten Wohnbereich ist eine Aufnahme, die zu Hause angeboten wird. Sie kann wahrgenommen werden durch:
+<sup>1</sup> Die Tagesbetreuung im privaten Wohnbereich ist eine Aufnahme, die zu Hause angeboten wird. Sie kann wahrgenommen werden durch:
 
 - a) Tageseltern;
-
 - b) diplomierte Kleinkindererzieherin (Säuglingskrippe, Kinderkrippe zu Hause, Kinderhort zu Hause);
-
 - c) diplomierte Fachperson im Bereiche der Sozialpädagogik, der Pädagogik oder einer Fachperson mit einer vom Departement als gleichwertig anerkannten Ausbildung (Ausserschulische Betreuungseinrichtungen für Schüler).
 
 #### Art. 41
 
-<sup>7</sup> Bewilligung und Aufsicht
+**Bewilligung und Aufsicht**
 
-<sup>1</sup> Tageseltern, die ein oder mehrere Kinder während des Tages aufzunehmen wünschen, müssen über eine Bewilligung des Kantons oder einer durch letzteren anerkannte Organisation verfügen.[^41-1]
+<sup>1</sup> Tageseltern, die ein oder mehrere Kinder während des Tages aufzunehmen wünschen, müssen über eine Bewilligung des Kantons oder einer durch letzteren anerkannte Organisation verfügen.
 
-<sup>2</sup> Das Departement kann eine Vereinbarung oder einen Leistungsvertrag mit einem Dachverband, der aus den verschiedenen anerkannten Vereinigungen besteht, abschliessen. Die Tageseltern müssen wiederum bei einer anerkannten Vereinigung angestellt sein.[^41-1]
+<sup>2</sup> Das Departement kann eine Vereinbarung oder einen Leistungsvertrag mit einem Dachverband, der aus den verschiedenen anerkannten Vereinigungen besteht, abschliessen. Die Tageseltern müssen wiederum bei einer anerkannten Vereinigung angestellt sein.
 
 <sup>3</sup> Eine Weisung des Departements legt die zu erfüllenden Bedingungen für diese Aufnahmeart fest.
 
-[^41-1]: Änderung vom 14. Januar 2015 Abl. Nr. 4/2015 01.01.2015
-
-### 4. Abschnitt: Kantonale Beteiligung an der Finanzierung
-
-der familienexternen Tagesbetreuung von
-
-### Kindern (Art. 33 JG)
+### 5.4 Kantonale Beteiligung an der Finanzierung der familienexternen Tagesbetreuung von Kindern (Art. 33 JG)
 
 #### Art. 42
 
-<sup>1</sup> Grundsätze
+**Grundsätze**
 
 <sup>1</sup> Der Kanton beteiligt sich an der Finanzierung der familienexternen Tagesbetreuung von Kindern seit ihrer Geburt bis zur Beendigung der Primarschule, wenn:
 
 - a) die Betreuungsstrukturen den Kriterien für Einrichtungen von erweiterten Öffnungszeiten, wie sie in den diesbezüglichen Weisungen festgelegt sind, entsprechen;
-
 - b) das Betreuungsangebot durch die Dienststelle bewilligt worden ist;
-
 - c) ein Leistungsvertrag zwischen dem Anbieter der Tagesbetreuung und dem Kanton abgeschlossen worden ist;
-
 - d) das Betreuungsangebot dem Bedürfnisnachweis der Gemeinde oder des Gemeindeverbandes entspricht;
-
 - e) das Betreuungsangebot in der Regel als juristische Person organisiert und nicht gewinnorientiert ist, oder von der öffentlichen Hand getragen wird.
 
 <sup>2</sup> Die Finanzhilfen des Kantons werden nur ausgerichtet, wenn die örtlichen öffentlichrechtlichen Körperschaften, die Arbeitgeber, oder andere Dritte mit Ausnahme der Eltern sich angemessen finanziell beteiligen.
@@ -610,21 +591,25 @@ der familienexternen Tagesbetreuung von
 
 **Beteiligung an den Gehältern**
 
-<sup>1</sup> Der Kanton beteiligt sich zu 30 Prozent an der Finanzierung der Gehälter des Erziehungspersonals.
+<sup>1</sup> Der Kanton beteiligt sich zu 30 bis 35 Prozent an der Finanzierung der Gehälter des Erziehungspersonals und der für die Betreuungsstruktur verantwortlichen Person, sofern diese ebenfalls Erziehungsaufgaben übernimmt.
 
-<sup>2</sup> Der Kanton beteiligt sich zu 30 Prozent am Gehalt der für die Betreuungsstruktur verantwortlichen Person, sofern diese ebenfalls Erziehungsaufgaben übernimmt.
+<sup>2</sup> Der Staatsrat legt die in Absatz 1 dieses Artikels genannten Subventionssätze per Entscheid genau fest.
 
-<sup>3</sup> Ein Staatsratsentscheid, welcher im Amtsblatt veröffentlicht wird, legt die Ausbildungen, die Liste der öffentlichen, halböffentlichen und anerkannten privaten Schulen sowie die berücksichtigte Gehaltsliste für die Berechnung der Beteiligung des Kantons fest.
+<sup>2<sup>bis</sup></sup> Arbeitgeber, die die Subventionstabelle der Weisungen nicht für die externe Tagesbetreuung von Kindern seit deren Geburt bis zur Beendigung der Primarschule anwenden, werden maximal zu 30 Prozent subventioniert. Ein Satz von über 30 Prozent wird ausschliesslich an Arbeitgeber ausbezahlt, die diese Subventionstabelle für das gesamte Erziehungspersonal anwenden.
+
+<sup>3</sup> Ein Staatsratentscheid, der im Amtsblatt veröffentlicht wird, legt die Ausbildungen, die Liste der öffentlichen, halböffentlichen und anerkannten privaten Schulen, die Lohntabelle sowie den Satz über 30 Prozent für die Berechnung der Beteiligung des Kantons fest.
+
+#### Art. 43a
+
+**…**
 
 #### Art. 44
 
-<sup>4</sup> Beteiligung am Erziehungsmaterial
+**Beteiligung am Erziehungsmaterial**
 
-<sup>1</sup> Für den Kauf und die Erneuerung des anerkannten Erziehungsmaterials leistet der Kanton eine Pauschale von 30 Franken pro Betreuungsplatz. Dieser Pauschalbetrag wird an die Entwicklung der Lebenshaltungskosten angepasst.[^44-1]
+<sup>1</sup> Für den Kauf und die Erneuerung des anerkannten Erziehungsmaterials leistet der Kanton eine Pauschale von 30 Franken pro Betreuungsplatz. Dieser Pauschalbetrag wird an die Entwicklung der Lebenshaltungskosten angepasst.
 
 <sup>2</sup> Der Kanton kann Kontrollen durchführen, um sich zu vergewissern, dass die entsprechende Pauschale effektiv zum Kauf von Erziehungsmaterial verwendet wird.
-
-[^44-1]: Änderung vom 16. April 2014 Abl. Nr. 17/2014 01.01.2014
 
 #### Art. 45
 
@@ -640,13 +625,11 @@ der familienexternen Tagesbetreuung von
 
 <sup>5</sup> Ein Staatsratsentscheid, welcher im Amtsblatt veröffentlicht wird, legt die Stundenansätze, die anerkannten Ausbildungen, die Gehaltsstufe der Koordinatorinnen, welche für die Berechnung der Beteiligung des Kantons berücksichtigt wird, sowie die Finanzierungsmodalitäten, fest.
 
-<sup>6</sup> Für den Kauf und die Erneuerung des anerkannten Erziehungsmaterials leistet der Kanton eine Pauschale von 25 Franken pro Jahr und Tageseltern. Dieser Pauschalbetrag wird an die Entwicklung der Lebenshaltungskosten angepasst und wird dem Walliser Dachverband für Tageseltern überwiesen.[^45-1]
+<sup>6</sup> Für den Kauf und die Erneuerung des anerkannten Erziehungsmaterials leistet der Kanton eine Pauschale von 25 Franken pro Jahr und Tageseltern. Dieser Pauschalbetrag wird an die Entwicklung der Lebenshaltungskosten angepasst und wird dem Walliser Dachverband für Tageseltern überwiesen.
 
-<sup>7</sup> Der Kanton kann Kontrollen durchführen, um sich zu vergewissern, dass die entsprechende Pauschale effektiv zum Kauf von Erziehungsmaterial verwendet wird.[^45-1]
+<sup>7</sup> Der Kanton kann Kontrollen durchführen, um sich zu vergewissern, dass die entsprechende Pauschale effektiv zum Kauf von Erziehungsmaterial verwendet wird.
 
-[^45-1]: Änderung vom 2. November 2016 Abl. Nr. 46/2016 15.12.2016
-
-### 6. Kapitel: Platzierung mit Unterbringung bei Pflegeeltern (Art. 34 JG)
+## 6 Platzierung mit Unterbringung bei Pflegeeltern (Art. 34 JG)
 
 #### Art. 46
 
@@ -658,97 +641,101 @@ der familienexternen Tagesbetreuung von
 
 <sup>3</sup> Für Platzierungen, welche nicht von einer richterlichen oder einer vormundschaftlichen Behörde angeordnet worden sind, ist vorerst eine Kostengutsprache der Wohnortsgemeinde des Kindes einzuholen. Vorbehalten bleiben Notfälle.
 
-#### Art. 46bis
+#### Art. 46a
 
-<sup>7</sup> Bedingungen für die Dienstleistungsangebote im Bereich der
+**Bedingungen für die Dienstleistungsangebote im Bereich der Platzierung mit Unterbringung bei Pflegeeltern**
 
-Platzierung mit Unterbringung bei Pflegeeltern
+<sup>1</sup> Jede juristische Person, die entgeltlich oder unentgeltlich Dienstleistungen in der Familienpflege anbietet (Anbieterin oder Anbieter), ist gegenüber der Dienststelle oder der zentralen kantonalen Behörde, wo sich der Hauptsitz befindet, meldepflichtig und deren Aufsicht unterstellt, insbesondere:
 
-<sup>1</sup> Jede juristische Person, die entgeltlich oder unentgeltlich Dienstleistungen in der Familienpflege anbietet (Anbieterin oder Anbieter), ist gegenüber der Dienststelle oder der zentralen kantonalen Behörde, wo sich der Hauptsitz befindet, meldepflichtig und deren Aufsicht unterstellt, insbesondere:[^46bis-1] a) wenn sie Pflegeplätze für Minderjährige bei Pflegeeltern vermittelt;[^46bis-1]
+- a) wenn sie Pflegeplätze für Minderjährige bei Pflegeeltern vermittelt;
+- b) wenn sie das Pflegeverhältnis sozialpädagogisch begleitet;
+- c) Pflegeeltern aus- und weiterbildet, oder
+- d) Beratungen und Therapien für Pflegekinder durchführt.
 
-- b) wenn sie das Pflegeverhältnis sozialpädagogisch begleitet;[^46bis-1]
+<sup>2</sup> Die Meldung der Anbieterin oder des Anbieters muss mindestens die Angaben und Belege gemäss Artikel 20b der Verordnung vom 19. Oktober 1977 über die Aufnahme von Pflegekindern enthalten (Bundesverordnung).
 
-- c) Pflegeeltern aus- und weiterbildet oder[^46bis-1]
+<sup>3</sup> Die Anbieterinnen und Anbieter müssen wesentliche Änderungen der Tätigkeit, insbesondere solche, die Gegenstand der Meldepflicht waren, der Dienststelle oder der zentralen kantonalen Behörde, wo sich der Hauptsitz befindet, unverzüglich und unaufgefordert melden.
 
-- d) Beratungen und Therapien für Pflegekinder durchführt.[^46bis-1]
+<sup>4</sup> Die Anbieterinnen und Anbieter müssen mindestens eine Vertretung im Kanton Wallis haben, um innert einer Stunde intervenieren zu können um so den im Wallis wohnhaften Pflegefamilien eine ausreichende Unterstützung zu gewähren.
 
-<sup>2</sup> Die Meldung der Anbieterin oder des Anbieters muss mindestens die Angaben und Belege gemäss Artikel 20b der Verordnung vom 19. Oktober 1977 über die Aufnahme von Pflegekindern enthalten (Bundesverordnung).[^46bis-1]
+<sup>5</sup> Die Anbieterinnen und Anbieter müssen jährlich Verzeichnisse führen über die Pflegeeltern, mit denen sie zusammenarbeiten und bei denen sie Pflegeplätze vermitteln sowie über die Kinder, für die sie Pflegeplätze vermittelt haben. Die Verzeichnisse müssen mindestens die Angaben gemäss Artikel 20d der Bundesverordnung enthalten.
 
-<sup>3</sup> Die Anbieterinnen und Anbieter müssen wesentliche Änderungen der Tätigkeit, insbesondere solche, die Gegenstand der Meldepflicht waren, der Dienststelle oder der zentralen kantonalen Behörde, wo sich der Hauptsitz befindet, unverzüglich und unaufgefordert melden.[^46bis-1]
-
-<sup>4</sup> Die Anbieterinnen und Anbieter müssen mindestens eine Vertretung im Kanton Wallis haben, um innert einer Stunde intervenieren zu können um so den im Wallis wohnhaften Pflegefamilien eine ausreichende Unterstützung zu gewähren.[^46bis-1]
-
-<sup>5</sup> Die Anbieterinnen und Anbieter müssen jährlich Verzeichnisse führen über die Pflegeeltern, mit denen sie zusammenarbeiten und bei denen sie Pflegeplätze vermitteln sowie über die Kinder, für die sie Pflegeplätze vermittelt haben. Die Verzeichnisse müssen mindestens die Angaben gemäss Artikel 20d der Bundesverordnung enthalten.[^46bis-1]
-
-<sup>6</sup> Die Anbieterinnen und Anbieter bilden Gegenstand einer Aufsicht durch die Dienststelle oder der zentralen kantonalen Behörde, wo sich der Hauptsitz befindet.[^46bis-1]
-
-[^46bis-1]: Änderung vom 14. Januar 2015 Abl. Nr. 4/2015 01.01.2015
+<sup>6</sup> Die Anbieterinnen und Anbieter bilden Gegenstand einer Aufsicht durch die Dienststelle oder der zentralen kantonalen Behörde, wo sich der Hauptsitz befindet.
 
 #### Art. 47
 
-<sup>7</sup> Bewilligung für die Platzierung
+**Bewilligung für die Platzierung**
 
-<sup>1</sup> Jede vorgenommene Platzierung bei Pflegeeltern oder bei professionellen Pflegeeltern muss innert spätestens 10 Tagen durch die Dienststelle schriftlich bewilligt werden.[^47-1]
+<sup>1</sup> Jede vorgenommene Platzierung bei Pflegeeltern oder bei professionellen Pflegeeltern muss innert spätestens 10 Tagen durch die Dienststelle schriftlich bewilligt werden.
 
 <sup>2</sup> Die Bewilligung enthält den Namen und Vornamen des Kindes, die Vaterschaft, den legalen Wohnsitz, die Identität und die Adresse der Pflegeeltern, das Datum des Beginns der Platzierung sowie deren wahrscheinliche Dauer und die verantwortlichen Personen/Instanzen für die Bezahlung der Rechnungen.
 
-<sup>3</sup> Bei Kindern, die ihren Wohnort nicht im Kanton Wallis haben, sind Platzierungen in einer Familie in Ausnahmesituationen gestattet, wenn es eine enge Familienbeziehung oder eine dauerhafte vorher existierende Beziehung oder bei einer Platzierung im Hinblick auf eine Adoption gibt.[^47-1]
+<sup>3</sup> Bei Kindern, die ihren Wohnort nicht im Kanton Wallis haben, sind Platzierungen in einer Familie in Ausnahmesituationen gestattet, wenn es eine enge Familienbeziehung oder eine dauerhafte vorher existierende Beziehung oder bei einer Platzierung im Hinblick auf eine Adoption gibt.
 
-<sup>4</sup> Pflegeeltern und professionelle Pflegeeltern müssen der Dienststelle ebenfalls unverzüglich mitteilen, wenn Kinder mit Wohnsitz ausserhalb des Kantons Wallis aufgenommen werden.[^47-1]
+<sup>4</sup> Pflegeeltern und professionelle Pflegeeltern müssen der Dienststelle ebenfalls unverzüglich mitteilen, wenn Kinder mit Wohnsitz ausserhalb des Kantons Wallis aufgenommen werden.
 
-[^47-1]: Änderung vom 14. Januar 2015 Abl. Nr. 4/2015 01.01.2015
-
-### 1. Abschnitt: Die Pflegeeltern
+### 6.1 Die Pflegeeltern
 
 #### Art. 48
 
-<sup>7</sup> Definition
+**Definition**
 
-Als Pflegeeltern gilt jede Familie, deren Elternteil oder Eltern in ihrem Haushalt höchstens zwei Kinder aufnimmt, deren Entwicklung gestört oder gefährdet ist. Wenn es sich um Geschwister handelt, kann die Anzahl ausnahmsweise überschritten werden.
+<sup>1</sup> Als Pflegeeltern gilt jede Familie, deren Elternteil oder Eltern in ihrem Haushalt höchstens zwei Kinder aufnimmt, deren Entwicklung gestört oder gefährdet ist. Wenn es sich um Geschwister handelt, kann die Anzahl ausnahmsweise überschritten werden.
 
 #### Art. 49
 
-<sup>7</sup> Bewilligung und Aufsicht
+**Bewilligung und Aufsicht**
 
-<sup>1</sup> Die Pflegeeltern müssen im Besitz einer Aufnahmebewilligung sein, welche von der Dienststelle erteilt wird.[^49-1]
+<sup>1</sup> Die Pflegeeltern müssen im Besitz einer Aufnahmebewilligung sein, welche von der Dienststelle erteilt wird.
 
-<sup>2</sup> Die Bewilligung ist drei Jahre gültig und wird erteilt nach Prüfung der Persönlichkeit, der erzieherischen Eignung, der wirtschaftlichen Situation, der Gesundheit sowie der Wohnverhältnisse der Pflegeeltern und deren Mitbewohner.[^49-1]
+<sup>2</sup> Die Bewilligung ist drei Jahre gültig und wird erteilt nach Prüfung der Persönlichkeit, der erzieherischen Eignung, der wirtschaftlichen Situation, der Gesundheit sowie der Wohnverhältnisse der Pflegeeltern und deren Mitbewohner. Die Prüfung oben erwähnter Bedingungen muss eine gute Pflege, Erziehung und Ausbildung des Kindes sowie das Wohl anderer in der Pflegefamilie lebender Kinder gewährleisten. Zu diesem Zweck verlangt unter anderem die Dienststelle von den Pflegeeltern folgende Unterlagen:
 
-Die Prüfung oben erwähnter Bedingungen muss eine gute Pflege, Erziehung und Ausbildung des Kindes sowie das Wohl anderer in der Pflegefamilie lebender Kinder gewährleisten.[^49-1]
-
-Zu diesem Zweck verlangt unter anderem die Dienststelle von den Pflegeeltern folgende Unterlagen:[^49-1] a) ein Arztzeugnis;[^49-1] b) ein Auszug aus dem Strafregister, inklusive der volljährigen Mitbewohner;[^49-1] c) die letzte Steuerveranlagung;[^49-1] d) eine schriftliche Einwilligung zur Einholung von Auskünften bei Personen, Behörden und Dienststellen, die Informationen liefern können, welche für die Prüfung der oben erwähnten Bedingungen nützlich sind.[^49-1]
+- a) ein Arztzeugnis, aus dem hervorgeht, dass die Mitglieder der Pflegefamilie und jede in ihrem Haushalt lebende Person nicht an einer körperlichen oder geistigen Erkrankung leiden, aus der sich ungünstige Bedingungen für die Pflege des Kindes ergeben können;
+- b) ein Privatauszug aus dem Strafregister, inklusive der volljährigen Mitbewohner. Das Verlangen eines Sonderprivatauszugs aus dem Strafregister bleibt vorbehalten;
+- c) die letzte Steuerveranlagung;
+- d) eine schriftliche Einwilligung zur Einholung von Auskünften bei Personen, Behörden und Dienststellen, die Informationen liefern können, welche für die Prüfung der oben erwähnten Bedingungen nützlich sind.
 
 <sup>3</sup> Sie werden von der Dienststelle beaufsichtigt.
-
-[^49-1]: Änderung vom 14. Januar 2015 Abl. Nr. 4/2015 01.01.2015
 
 #### Art. 50
 
 **Bewilligungsentzug**
 
-Wenn festgestellt wird, dass die Pflegeeltern nicht mehr den Bewilligungskriterien entsprechen und dies nachdem erfahrene Personen beauftragt wurden, sie zu beraten und bei ihnen zu intervenieren, kann die Dienststelle die Bewilligung zurückziehen.
+<sup>1</sup> Wenn festgestellt wird, dass die Pflegeeltern nicht mehr den Bewilligungskriterien entsprechen und dies nachdem erfahrene Personen beauftragt wurden, sie zu beraten und bei ihnen zu intervenieren, kann die Dienststelle die Bewilligung zurückziehen.
 
-### 2. Abschnitt: Professionelle Pflegeeltern
+### 6.2 Professionelle Pflegeeltern
 
 #### Art. 51
 
 **Definition**
 
-Als professionelle Pflegeeltern gilt jede Familie, dessen Elternteil oder Eltern hauptberuflich in ihrem Haushalt mindestens drei und jedoch höchstens sechs Kinder aufnimmt, deren Entwicklung gestört oder gefährdet ist, und einer speziellen Betreuung bedürfen.
+<sup>1</sup> Als professionelle Pflegeeltern gilt jede Familie, dessen Elternteil oder Eltern hauptberuflich in ihrem Haushalt mindestens drei und jedoch höchstens sechs Kinder aufnimmt, deren Entwicklung gestört oder gefährdet ist, und einer speziellen Betreuung bedürfen.
 
 #### Art. 52
 
-<sup>7</sup> Bewilligung und Aufsicht
+**Bewilligung und Aufsicht**
 
 <sup>1</sup> Die professionellen Pflegeeltern müssen im Besitze einer Aufnahmebewilligung sein, welche durch die Dienststelle erteilt wird und eine Haftpflichtversicherung abgeschlossen haben.
 
-<sup>2</sup> Die Bewilligung ist drei Jahre gültig und wird erteilt, sobald:[^52-1] a) das Erziehungskonzept genehmigt worden ist;[^52-1] b) die persönlichen Qualitäten, der Gesundheitszustand, die erzieherischen Eignungen und die Ausbildung der verantwortlichen Person als angemessen beurteilt wurden;[^52-1] c) die wirtschaftliche Situation als gewährleistet angesehen wird;[^52-1] d) die Unterkunft den hygienischen Anforderungen und dem Feuerschutz entspricht;[^52-1] e) die Aufnahme und Übernahme während des ganzen Jahres gewährleistet ist;[^52-1] f) das Kind über eine gute Pflege, Erziehung und Ausbildung verfügt;[^52-1] gh)) das Wohl anderer in der Pflegefamilie lebender Kinder gewährleistet ist;[^52-1] die Gewissheit besteht, dass kein Personal für erzieherische Aufgaben angestellt wird.[^52-1]
+<sup>2</sup> Die Bewilligung ist drei Jahre gültig und wird erteilt, sobald:
 
-<sup>3</sup> Hierfür verlangt die Dienststelle von den Pflegeeltern folgende Unterlagen:[^52-1] a) ein Arztzeugnis;[^52-1] b) ein Auszug aus dem Strafregister, inklusive der volljährigen Mitbewohner;[^52-1] c) die letzte Steuerveranlagung;[^52-1] d) eine schriftliche Einwilligung zur Einholung von Auskünften bei Personen, Behörden und Dienststellen, die Informationen liefern können, welche für die Prüfung der oben erwähnten Bedingungen nützlich sind.[^52-1]
+- a) das Erziehungskonzept genehmigt worden ist;
+- b) die persönlichen Qualitäten, der Gesundheitszustand, die erzieherischen Eignungen und die Ausbildung der verantwortlichen Person als angemessen beurteilt wurden;
+- c) die wirtschaftliche Situation als gewährleistet angesehen wird;
+- d) die Unterkunft den hygienischen Anforderungen und dem Feuerschutz entspricht;
+- e) die Aufnahme und Übernahme während des ganzen Jahres gewährleistet ist;
+- f) das Kind über eine gute Pflege, Erziehung und Ausbildung verfügt;
+- g) das Wohl anderer in der Pflegefamilie lebender Kinder gewährleistet ist;
+- h) die Gewissheit besteht, dass kein Personal für erzieherische Aufgaben angestellt wird.
+
+<sup>3</sup> Hierfür verlangt die Dienststelle von den Pflegeeltern folgende Unterlagen:
+
+- a) ein Arztzeugnis, aus dem hervorgeht, dass die Mitglieder der Pflegefamilie und jede in ihrem Haushalt lebende Person nicht an einer körperlichen oder geistigen Erkrankung leiden, aus der sich ungünstige Bedingungen für die Pflege des Kindes ergeben können;
+- b) ein Privatauszug aus dem Strafregister, inklusive der volljährigen Mitbewohner. Das Verlangen eines Sonderprivatauszugs aus dem Strafregister bleibt vorbehalten;
+- c) die letzte Steuerveranlagung;
+- d) eine schriftliche Einwilligung zur Einholung von Auskünften bei Personen, Behörden und Dienststellen, die Informationen liefern können, welche für die Prüfung der oben erwähnten Bedingungen nützlich sind.
 
 <sup>4</sup> Die professionellen Pflegeeltern werden von der Dienststelle beaufsichtigt.
-
-[^52-1]: Änderung vom 14. Januar 2015 Abl. Nr. 4/2015 01.01.2015
 
 #### Art. 53
 
@@ -758,7 +745,7 @@ Als professionelle Pflegeeltern gilt jede Familie, dessen Elternteil oder Eltern
 
 <sup>2</sup> Wenn diese Massnahmen nicht die erhoffte Wirkung zeigen, kann die Dienststelle die erteilte Bewilligung entziehen.
 
-### 3. Abschnitt: Bezahlung und Kostenverteilung bei der Platzierung von Kindern bei Pflegeeltern (Art. 36 JG)
+### 6.3 Bezahlung und Kostenverteilung bei der Platzierung von Kindern bei Pflegeeltern (Art. 36 JG)
 
 #### Art. 54
 
@@ -766,7 +753,7 @@ Als professionelle Pflegeeltern gilt jede Familie, dessen Elternteil oder Eltern
 
 <sup>1</sup> Der Monats- und Tagestarif für die Platzierung eines Kindes durch die Dienststelle bei Pflegeeltern, die im Besitze einer Bewilligung sind, wird durch einen Staatsratsentscheid, welcher im Amtsblatt veröffentlicht wird, festgelegt.
 
-<sup>2</sup> Die Platzierungskosten entsprechen den Beherbergungskosten sowie dem persönlichen Budget, welche primär durch das Kind oder seinen Eltern zu tragen sind. Im gegenteiligen Falle wird dies durch die verantwortlichen Körperschaften gemäss Artikel 17 des Gesetzes über die Eingliederung und die Sozialhilfe übernommen.
+<sup>2</sup> Die Platzierungskosten entsprechen den Beherbergungskosten sowie dem persönlichen Budget, welche primär durch das Kind oder seine Eltern zu tragen sind. Im gegenteiligen Falle wird dies durch die verantwortlichen Körperschaften gemäss dem Gesetz über die Eingliederung und die Sozialhilfe übernommen.
 
 #### Art. 55
 
@@ -774,27 +761,25 @@ Als professionelle Pflegeeltern gilt jede Familie, dessen Elternteil oder Eltern
 
 <sup>1</sup> Der Monats- und Tagestarif für die Platzierung eines Kindes bei professionellen Pflegeeltern, die im Besitze einer Bewilligung durch die Dienststelle sind, wird durch einen Staatsratsentscheid, welcher im Amtsblatt veröffentlicht wird, festgelegt.
 
-<sup>2</sup> Die Platzierungskosten entsprechen den Beherbergungskosten sowie dem persönlichen Budget, welche primär durch das Kind oder seine Eltern zu tragen sind. Im gegenteiligen Falle wird dies durch die verantwortlichen Körperschaften gemäss Artikel 17 des Gesetzes über die Eingliederung und die Sozialhilfe übernommen.
+<sup>2</sup> Die Platzierungskosten entsprechen den Beherbergungskosten sowie dem persönlichen Budget, welche primär durch das Kind oder seine Eltern zu tragen sind. Im gegenteiligen Falle wird dies durch die verantwortlichen Körperschaften gemäss dem Gesetz über die Eingliederung und die Sozialhilfe übernommen.
 
-#### Art. 55bis
+#### Art. 55a
 
-<sup>7</sup> Ausserkantonale Pflegeeltern
+**Ausserkantonale Pflegeeltern**
 
-<sup>1</sup> Die Finanzierung der durch die Dienststelle bewilligten Platzierungen wird durch den Kanton sichergestellt.[^55bis-1]
+<sup>1</sup> Die Finanzierung der durch die Dienststelle bewilligten Platzierungen wird durch den Kanton sichergestellt.
 
-<sup>2</sup> Die Platzierungskosten, welche einem Beherbergungsbeitrag und dem persönlichen Budget entsprechen, werden in erster Linie durch das Kind oder seine Eltern getragen und erst subsidiär durch die verantwortliche Körperschaft gemäss den kantonalen Bestimmungen über die Eingliederung und die Sozialhilfe übernommen.[^55bis-1]
+<sup>2</sup> Die Platzierungskosten, welche einem Beherbergungsbeitrag und dem persönlichen Budget entsprechen, werden in erster Linie durch das Kind oder seine Eltern getragen und erst subsidiär durch die verantwortliche Körperschaft gemäss den kantonalen Bestimmungen über die Eingliederung und die Sozialhilfe übernommen.
 
-<sup>3</sup> Der Betrag zu Lasten des Kindes oder seiner Eltern wird durch einen Beschluss des Staatsrates, welcher im Amtsblatt veröffentlicht wird, festgelegt.[^55bis-1]
-
-[^55bis-1]: Änderung vom 14. Januar 2015 Abl. Nr. 4/2015 01.01.2015
+<sup>3</sup> Der Betrag zu Lasten des Kindes oder seiner Eltern wird durch einen Beschluss des Staatsrates, welcher im Amtsblatt veröffentlicht wird, festgelegt.
 
 #### Art. 56
 
 **Persönliches Budget**
 
-Das persönliche Budget eines platzierten Kindes wird gemäss den internen Weisungen der Dienststelle erstellt und dieser zur Genehmigung unterbreitet.
+<sup>1</sup> Das persönliche Budget eines platzierten Kindes wird gemäss den internen Weisungen der Dienststelle erstellt und dieser zur Genehmigung unterbreitet.
 
-### 7. Kapitel: Ferienkolonien, Ferienlager (Art. 39 JG)
+## 7 Ferienkolonien, Ferienlager (Art. 39 JG)
 
 #### Art. 57
 
@@ -802,29 +787,25 @@ Das persönliche Budget eines platzierten Kindes wird gemäss den internen Weisu
 
 <sup>2</sup> Als Lager gilt jeder Aufenthalt der Kinder von mehr als drei Tagen, welcher für Walliser Kinder angeboten wird.
 
-### 1. Abschnitt: Bewilligung
+### 7.1 Bewilligung
 
 #### Art. 58
 
-Bewilligungsverfahren zum Betrieb einer Ferienkolonie oder Ferienhauses
+**Bewilligungsverfahren zum Betrieb einer Ferienkolonie oder Ferienhauses**
 
 <sup>1</sup> Das Bewilligungsgesuch muss Folgendes enthalten:
 
 - a) den Namen des Eigentümers der Wohnstruktur, wenn es sich um eine natürliche Person handelt, oder die Statuten und den Namen des Präsidenten des Direktionsorgans, wenn es sich um eine juristische Person handelt;
-
-- b) einen Strafregisterauszug und ein Leumundszeugnis des Betriebsführers;
-
+- b) für den Betriebsführer einen Privatauszug und Sonderprivatauszug aus dem Strafregister, die nicht mehr als sechs Monate vor der Gesuchstellung ausgestellt wurden;
 - c) die Anzahl der Kinder, welche in der Unterkunft aufgenommen werden können;
-
 - d) den Plan der Räumlichkeiten und Einrichtungen;
-
 - e) die positiven Vormeinungen der kantonalen Dienststellen, welche auf dem Gesuchsformular für die Bewilligung aufgeführt sind.
 
 <sup>2</sup> Die Wohnstruktur muss namentlich die Vorschriften im Bereiche der Baupolizei, Feuerpolizei, Hygiene und Lebensmittel erfüllen.
 
 #### Art. 59
 
-<sup>2</sup> Betriebsbewilligung
+**Betriebsbewilligung**
 
 <sup>1</sup> Die Betriebsbewilligung für diese Art von Wohnstruktur wird durch die Dienststelle erteilt.
 
@@ -834,7 +815,7 @@ Bewilligungsverfahren zum Betrieb einer Ferienkolonie oder Ferienhauses
 
 #### Art. 60
 
-<sup>2</sup> Erneuerung der Bewilligung
+**Erneuerung der Bewilligung**
 
 <sup>1</sup> Die Gemeinde ist zuständig für die Erneuerung der Betriebsbewilligung.
 
@@ -846,7 +827,9 @@ Bewilligungsverfahren zum Betrieb einer Ferienkolonie oder Ferienhauses
 
 <sup>5</sup> Sie kann eine Gebühr für die Bewilligungserneuerung und die Jahreskontrollen von 50 bis 300 Franken erheben.
 
-### 2. Abschnitt: Betreuungspersonal
+<sup>6</sup> …
+
+### 7.2 Betreuungspersonal
 
 #### Art. 61
 
@@ -860,7 +843,7 @@ Bewilligungsverfahren zum Betrieb einer Ferienkolonie oder Ferienhauses
 
 #### Art. 62
 
-<sup>2</sup> Anzahl
+**Anzahl**
 
 <sup>1</sup> Die zuständigen Verantwortlichen für die Organisation und Durchführung von Ferienkolonien und Ferienlager sind verpflichtet dafür zu sorgen, dass die betreuten Kinder eine ihren Bedürfnissen und ihrem Alter entsprechende, sowie den jeweiligen Situationen angemessene Betreuung erhalten.
 
@@ -874,49 +857,44 @@ Bewilligungsverfahren zum Betrieb einer Ferienkolonie oder Ferienhauses
 
 **Funktion des Lagerleiters**
 
-Der Lagerleiter muss namentlich:
+<sup>1</sup> Der Lagerleiter muss namentlich:
 
 - a) den guten Ablauf des Aufenthalts in Übereinstimmung mit dem pädagogischen Leitbild garantieren;
-
 - b) die Gesamtheit der Aktivitäten und Aufgaben der Animationsgruppe koordinieren;
-
 - c) die Integrität, die Würde und die Sicherheit der Teilnehmer in allen Situationen garantieren;
-
 - d) dafür besorgt sein, dass ein Mitglied der Gruppenleitung mit der ersten Hilfeleistung für harmlose Krankheiten und leichte Unfälle beauftragt ist.
 
 #### Art. 64
 
-<sup>2</sup> Ausbildung
+**Ausbildung**
 
 <sup>1</sup> Es wird empfohlen, dass die verantwortlichen Personen für die Betreuung der Kinder sowie die Gruppenhilfsleiter im Besitz einer spezifischen Grundausbildung sind, welche durch eine vom Kanton anerkannte Stelle erteilt wird.
 
 <sup>2</sup> Anerkannte Ausbildungen sind:
 
 - a) Studenten der Psychologie, Erziehungswissenschaften, Pädagogik oder ähnliches;
-
 - b) Studenten der Fachhochschulen für Soziales und der pädagogischen Hochschulen;
-
 - c) Lehrpersonen, welche die pädagogische Hochschule oder das Lehrerseminar besucht haben.
 
 <sup>3</sup> Der Kanton kann durch konkrete Massnahmen Grundausbildungs- und Weiterbildungskurse fördern.
 
-[^64-1]: Änderung vom 28.06.2006 GS/VS 2006, 125 1.07.2006
+<sup>4</sup> …
 
 #### Art. 65
 
-**Aufgehoben**[^64-1]
+**…**
 
-### 3. Abschnitt: Technische Einrichtungen und Sicherheit
+### 7.3 Technische Einrichtungen und Sicherheit
 
 #### Art. 66
 
-<sup>2</sup> Erholungsräume in Ferienkolonien und Ferienhäusern
+**Erholungsräume in Ferienkolonien und Ferienhäusern**
 
-<sup>1</sup> Die Räume, die zur Erholung dienen, müssen der Mindestnorm von 10 m3 pro Kind entsprechen.
+<sup>1</sup> Die Räume, die zur Erholung dienen, müssen der Mindestnorm von 10 m³ pro Kind entsprechen.
 
-<sup>2</sup> In Gebäuden die vor 1976 erbaut worden sind, kann eine Mindestnorm von 8 m3 anerkannt werden.
+<sup>2</sup> In Gebäuden die vor 1976 erbaut worden sind, kann eine Mindestnorm von 8 m³ anerkannt werden.
 
-<sup>3</sup> Während der Sommerzeit und wenn zusätzlich der Aufenthalt der Gruppen nicht länger als eine Woche dauert, kann das Volumen von 6 m3 pro Kind zugelassen werden.
+<sup>3</sup> Während der Sommerzeit und wenn zusätzlich der Aufenthalt der Gruppen nicht länger als eine Woche dauert, kann das Volumen von 6 m³ pro Kind zugelassen werden.
 
 <sup>4</sup> Diese Volumen umfassen nicht die Gänge und die sanitären Einrichtungen.
 
@@ -928,12 +906,10 @@ Der Lagerleiter muss namentlich:
 
 **Sanitärinstallationen**
 
-Die Sanitärinstallationen müssen nachfolgenden Minimalnormen entsprechen:
+<sup>1</sup> Die Sanitärinstallationen müssen nachfolgenden Minimalnormen entsprechen:
 
 - a) ein Lavabo oder ein Wasserhahn mit Waschbecken pro 4 Kinder;
-
 - b) ein WC für 8 Kinder (im Minimum 2 WC falls Knaben und Mädchen Teilnehmer sind);
-
 - c) eine Dusche für 10 Kinder; die Möglichkeit muss bestehen, individuell duschen zu können.
 
 #### Art. 68
@@ -960,11 +936,11 @@ Die Sanitärinstallationen müssen nachfolgenden Minimalnormen entsprechen:
 
 <sup>2</sup> Die Türen müssen sich nach aussen öffnen und müssen vor Schneeanhäufungen geschützt sein (für die Gebäude, welche vor 1976 gebaut wurden, können Ausnahmen gewährt werden).
 
-<sup>3</sup> Die Zugänge zu den Haupttreppen müssen direkt nach aussen führen und eine Minimalbreite von 1,20 m aufweisen.
+<sup>3</sup> Die Zugänge zu den Haupttreppen müssen direkt nach aussen führen und eine Minimalbreite von 1.20 Metern aufweisen.
 
 <sup>4</sup> Die Notausgänge müssen mit einer Vorrichtung ausgerüstet sein, die vor dem Aufkommen von Panik schützt und gemäss den Instruktionen der hierfür zuständigen Dienststelle gekennzeichnet sein.
 
-<sup>5</sup> Das Gebäude muss so eingerichtet sein, dass die Bekämpfung des Feuers im Haus (Feuerlöscher) und ausserhalb durch eine Feuerbekämpfungseinrichtung möglich ist und es muss ein Hydrant vorhanden sein, welcher höchstens 50 m vom Gebäude entfernt sein darf.
+<sup>5</sup> Das Gebäude muss so eingerichtet sein, dass die Bekämpfung des Feuers im Haus (Feuerlöscher) und ausserhalb durch eine Feuerbekämpfungseinrichtung möglich ist und es muss ein Hydrant vorhanden sein, welcher höchstens 50 Metern vom Gebäude entfernt sein darf.
 
 <sup>6</sup> Das Gebäude muss mit einem Blitzableiter, einer automatischen Sicherheitsbeleuchtung und mit Feuermelder versehen sein.
 
@@ -974,15 +950,15 @@ Die Sanitärinstallationen müssen nachfolgenden Minimalnormen entsprechen:
 
 **Ausnahme**
 
-Ausnahmen bezüglich den technischen und Sicherheitsvorschriften können für Gebäude, die sich im Mittel- oder Hochgebirge befinden, wenn diese Orte nicht mit Strom und fliessendem Wasser erschlossen sind, mit der Zustimmung der betreffenden technischen Dienststellen gewährt werden.
+<sup>1</sup> Ausnahmen bezüglich den technischen und Sicherheitsvorschriften können für Gebäude, die sich im Mittel- oder Hochgebirge befinden, wenn diese Orte nicht mit Strom und fliessendem Wasser erschlossen sind, mit der Zustimmung der betreffenden technischen Dienststellen gewährt werden.
 
 #### Art. 72
 
 **Vorbehalt**
 
-Vorbehalten bleiben die kantonalen und kommunalen Bauvorschriften und die Bestimmungen bezüglich des Abwassers.
+<sup>1</sup> Vorbehalten bleiben die kantonalen und kommunalen Bauvorschriften und die Bestimmungen bezüglich des Abwassers.
 
-### 4. Abschnitt: Qualitätscharta
+### 7.4 Qualitätscharta
 
 #### Art. 73
 
@@ -990,17 +966,15 @@ Vorbehalten bleiben die kantonalen und kommunalen Bauvorschriften und die Bestim
 
 <sup>2</sup> Diese Charta strebt an, die psychische und körperliche Sicherheit der Teilnehmer und die Berücksichtigung ihrer Bedürfnisse zu garantieren.
 
-<sup>3</sup> Die Stellen, welche den Kriterien der Charta entsprechen, können eine Zertifizierung erhalten, welche durch das Departement auf Vormeinung der Kommission zur Förderung und zum Schutz der Jugend erteilt wird.
+<sup>3</sup> Organisationen, die den Kriterien dieser Charta entsprechen, können eine Zertifizierung erhalten, welche durch das Departement auf Vormeinung des Jugenddelegierten erteilt wird.
 
-### 8. Kapitel: Heime und Internate, die keine sozialpädagogischen Leistungen anbieten (Art. 40ff JG)
+## 8 Heime und Internate, die keine sozialpädagogischen Leistungen anbieten (Art. 40ff JG)
 
 #### Art. 74
 
-Als Internate und Kinderheime muss man Betriebe (Schulinternate/ Internat / Studienlager) verstehen, die sich auf dem Territorium des Kantons Wallis befinden, über ihr eigenes Betreuungspersonal verfügen und die Möglichkeit haben, mittel- und langfristig Kinder aufzunehmen, für sie zu sorgen und ihnen eine Ausbildung zukommen zu lassen, ohne jedoch sozialpädagogische Leistungen anzubieten.
+<sup>1</sup> Als Internate und Kinderheime muss man Betriebe (Schulinternate/Internat/Studienlager) verstehen, die sich auf dem Territorium des Kantons Wallis befinden, über ihr eigenes Betreuungspersonal verfügen und die Möglichkeit haben, mittel- und langfristig Kinder aufzunehmen, für sie zu sorgen und ihnen eine Ausbildung zukommen zu lassen, ohne jedoch sozialpädagogische Leistungen anzubieten.
 
-### 1. Abschnitt: Bewilligung ein Internat oder ein Kinderheim
-
-zu betreiben
+### 8.1 Bewilligung ein Internat oder ein Kinderheim zu betreiben
 
 #### Art. 75
 
@@ -1009,14 +983,10 @@ zu betreiben
 <sup>1</sup> Das Bewilligungsgesuch muss Folgendes enthalten:
 
 - a) den Namen des Eigentümers der Einrichtung, wenn es sich um eine natürliche Person handelt, oder die Statuten und den Namen des Präsidenten des Direktionsorgans, wenn es sich um eine juristische Person handelt;
-
 - b) die Anzahl der Kinder, welche in der Unterkunft aufgenommen werden können;
-
 - c) den Plan der Räumlichkeiten und Einrichtungen;
-
 - d) die positiven Vormeinungen der kantonalen Dienststellen, welche auf dem Gesuchsformular für die Bewilligung aufgeführt sind;
-
-- e) einen Auszug aus dem Strafregister und ein Leumundszeugnis des Betriebsführers.
+- e) für den Betriebsführer einen Privatauszug und Sonderprivatauszug aus dem Strafregister, die nicht mehr als sechs Monate vor der Gesuchstellung ausgestellt wurden.
 
 <sup>2</sup> Die Einrichtung muss namentlich die Vorschriften im Bereiche der Baupolizei, Feuerpolizei, Hygiene und Lebensmittel erfüllen.
 
@@ -1030,7 +1000,7 @@ zu betreiben
 
 <sup>3</sup> Die Gültigkeitsdauer einer Bewilligung beträgt fünf Jahre.
 
-### 2. Abschnitt: Betreuungspersonal
+### 8.2 Betreuungspersonal
 
 #### Art. 77
 
@@ -1048,7 +1018,7 @@ zu betreiben
 
 <sup>2</sup> Die persönlichen Qualitäten, die erzieherischen Eignungen des Betriebsleiters und seiner Mitarbeiter müssen es ihnen erlauben, ihre Aufgaben wahrzunehmen.
 
-### 3. Abschnitt: Technische Einrichtungen und Sicherheit
+### 8.3 Technische Einrichtungen und Sicherheit
 
 #### Art. 79
 
@@ -1056,9 +1026,8 @@ zu betreiben
 
 <sup>1</sup> Die Räume, welche der Erholung dienen, müssen folgenden Mindestnormen entsprechen:
 
-- a) für Zimmer mit mehreren Betten: 10 m3 pro Kind bis zum erfüllten 14. Lebensjahr und 12 m3 für ältere Kinder. Für Gebäude, die vor 1976 erbaut wurden, können, unabhängig des Alters der Kinder, 10 m3 pro Kind zugelassen werden;
-
-- b) für Zimmer mit einem Bett: 14 m3 im Minimum pro Kind.
+- a) für Zimmer mit mehreren Betten: 10 Kubikmeter pro Kind bis zum erfüllten 14. Lebensjahr und 12 Kubikmeter für ältere Kinder. Für Gebäude, die vor 1976 erbaut wurden, können, unabhängig des Alters der Kinder, 10 Kubikmeter pro Kind zugelassen werden;
+- b) für Zimmer mit einem Bett: 14 Kubikmeter im Minimum pro Kind.
 
 <sup>2</sup> Die Fensteroberfläche muss 10 Prozent der Zimmerfläche entsprechen.
 
@@ -1068,19 +1037,17 @@ zu betreiben
 
 **Sanitärinstallationen**
 
-Die Sanitärinstallationen müssen nachfolgenden Minimalnormen entsprechen.
+<sup>1</sup> Die Sanitärinstallationen müssen nachfolgenden Minimalnormen entsprechen:
 
 - a) ein Lavabo oder ein Wasserhahn mit Waschbecken pro Kind;
-
 - b) ein WC für 5 Kinder (im Minimum 2 WC falls Knaben und Mädchen Teilnehmer sind);
-
 - c) eine Dusche für 5 Kinder, welche die Möglichkeit bietet, individuell duschen zu können (im Minimum 2 Duschen, falls Knaben und Mädchen Teilnehmer sind).
 
 #### Art. 81
 
-**Speisesaal, Esszimmer, Freizeiträume**
+**Speisesaal - Esszimmer - Freizeiträume**
 
-<sup>1</sup> Der Betrieb muss über einen Speisesaal (Minimum 1,5 m2 pro Kind) und/oder gemeinsame Räume wie ein Freizeitraum (Minimum 2 m2 pro Kind) verfügen.
+<sup>1</sup> Der Betrieb muss über einen Speisesaal (Minimum 1.5 Quadratmeter pro Kind) und/oder gemeinsame Räume wie ein Freizeitraum (Minimum 2 Quadratmeter pro Kind) verfügen.
 
 <sup>2</sup> Diese Räume müssen über eine gute natürliche Beleuchtung verfügen.
 
@@ -1096,7 +1063,7 @@ Die Sanitärinstallationen müssen nachfolgenden Minimalnormen entsprechen.
 
 <sup>4</sup> Die Notausgänge müssen mit einer Vorrichtung ausgerüstet sein, die vor dem Aufkommen von Panik schützt und müssen gemäss den Instruktionen der hierfür zuständigen Dienststelle gekennzeichnet sein.
 
-<sup>5</sup> Das Gebäude muss so eingerichtet sein, dass die Bekämpfung des Feuers im Haus (Feuerlöscher) und ausserhalb durch eine Feuerbekämpfungseinrichtung möglich ist und es muss ein Hydrant vorhanden sein, welcher höchstens 50 m vom Gebäude entfernt sein darf.
+<sup>5</sup> Das Gebäude muss so eingerichtet sein, dass die Bekämpfung des Feuers im Haus (Feuerlöscher) und ausserhalb durch eine Feuerbekämpfungseinrichtung möglich ist und es muss ein Hydrant vorhanden sein, welcher höchstens 50 Meter vom Gebäude entfernt sein darf.
 
 <sup>6</sup> Das Gebäude muss mit einem Blitzableiter versehen sein, einer automatischen Sicherheitsbeleuchtung und mit Feuermelder.
 
@@ -1106,9 +1073,9 @@ Die Sanitärinstallationen müssen nachfolgenden Minimalnormen entsprechen.
 
 **Vorbehalt**
 
-Vorbehalten bleiben die kantonalen und kommunalen Bauvorschriften und die Bestimmungen bezüglich des Abwassers.
+<sup>1</sup> Vorbehalten bleiben die kantonalen und kommunalen Bauvorschriften und die Bestimmungen bezüglich des Abwassers.
 
-### 9. Kapitel: Platzierung von Kindern in sozialpädagogische Einrichtungen (Art. 43ff JG)
+## 9 Platzierung von Kindern in sozialpädagogische Einrichtungen (Art. 43ff JG)
 
 #### Art. 84
 
@@ -1120,33 +1087,32 @@ Vorbehalten bleiben die kantonalen und kommunalen Bauvorschriften und die Bestim
 
 <sup>4</sup> Der Staatrat kann diese Aufgaben einer privaten Organisation anvertrauen.
 
-### 1. Abschnitt: Sozialpädagogische Einrichtungen
+### 9.1 Sozialpädagogische Einrichtungen
 
 #### Art. 85
 
 **Definition**
 
-Als sozialpädagogische Einrichtungen gelten alle Betriebe, welche sich mit Kindern befassen, deren Entwicklung oder deren soziales Verhalten in schwerer Weise gestört ist oder die Gefahr dazu besteht, namentlich:[^85-1] a) Einrichtungen, die Kinder zwischen 0 und 12 Jahren aufnehmen, welche ausserhalb der Einrichtung die Schule besuchen oder einer beruflichen Ausbildung nachgehen;[^85-1] b) Einrichtungen (Tagesheime), die Kinder ab 7 Jahren aufnehmen, welche ausserhalb der Einrichtung die Schule besuchen oder einer beruflichen Ausbildung nachgehen;[^85-1] c) Einrichtungen, die Kinder ab 7 Jahren aufnehmen, welche innerhalb der Institution die Schule besuchen;[^85-1] d) Einrichtungen, welche Jugendliche zwecks beruflicher Orientierung, Berufsvorbereitung, Berufsausbildung oder einer Betätigung innerhalb der Institution aufnehmen;[^85-1] e) spezialisierte Einrichtungen für Kinder, wie[^85-1]
+<sup>1</sup> Als sozialpädagogische Einrichtungen gelten alle Betriebe, welche sich mit Kindern befassen, deren Entwicklung oder deren soziales Verhalten in schwerer Weise gestört ist oder die Gefahr dazu besteht, namentlich:
 
-- Therapieheime und Anstalten für Nacherziehung (gemäss JStG);[^85-1]
+- a) Einrichtungen, die Kinder zwischen 0 und 12 Jahren aufnehmen, welche ausserhalb der Einrichtung die Schule besuchen oder einer beruflichen Ausbildung nachgehen;
+- b) Einrichtungen (Tagesheime), die Kinder ab 7 Jahren aufnehmen, welche ausserhalb der Einrichtung die Schule besuchen oder einer beruflichen Ausbildung nachgehen;
+- c) Einrichtungen, die Kinder ab 7 Jahren aufnehmen, welche innerhalb der Institution die Schule besuchen;
+- d) Einrichtungen, welche Jugendliche zwecks beruflicher Orientierung, Berufsvorbereitung, Berufsausbildung oder einer Betätigung innerhalb der Institution aufnehmen;
+- e) spezialisierte Einrichtungen für Kinder, wie;
+  - 1\. …
+  - 2\. …
+  - 3\. Durchgangsheime und solche für Notaufnahmen.
+  - 4\. …
+  - 5\. …
 
-- Arbeitserziehungsanstalten (gemäss Art. 61 und weitere StGB);[^85-1]
-
-- Durchgangsheime und solche für Notaufnahmen;[^85-1]
-
-- Haftanstalten für Kinder;[^85-1]
-
-- Heime für Suchtabhängige.[^85-1]
-
-[^85-1]: Änderung vom 14. Januar 2015 Abl. Nr. 4/2015 01.01.2015
-
-### 2. Abschnitt: Bewilligung, Aufsicht und Anerkennung (Art. 43 JG)
+### 9.2 Bewilligung, Aufsicht und Anerkennung (Art. 43 JG)
 
 #### Art. 86
 
 **Bewilligung und Aufsicht**
 
-<sup>1</sup> Alle sozialpädagogischen Einrichtungen, die sich auf dem Territorium des Kantons Wallis befinden, sind bewilligungspflichtig. Die Bewilligung wird durch den Staatsrat gemäss Art. 12 bis 20 der Verordnung vom 19. Oktober 1977 über die Aufnahme von Pflegekindern (SR 211.222. 338) (Bundesverordnung) erteilt.
+<sup>1</sup> Alle sozialpädagogischen Einrichtungen, die sich auf dem Territorium des Kantons Wallis befinden, sind bewilligungspflichtig. Die Bewilligung wird durch den Staatsrat gemäss Artikel 12 bis 20 der Verordnung über die Aufnahme von Pflegekindern vom 19. Oktober 1977 (Pflegekinderverordnung, PAVO; Bundesverordnung) erteilt.
 
 <sup>2</sup> Das Bewilligungsgesuch muss die diversen Elemente, wie sie in Artikel 14 der Bundesverordnung aufgeführt sind, beinhalten.
 
@@ -1163,24 +1129,17 @@ Als sozialpädagogische Einrichtungen gelten alle Betriebe, welche sich mit Kind
 <sup>1</sup> Der Staatsrat kann eine Institution als sozialpädagogische Einrichtung anerkennen und mit ihr eine Vereinbarung treffen, wenn :
 
 - a) der Bedarfsnachweis gemäss der kantonalen Planung der sozialpädagogischen Einrichtungen für Kinder offensichtlich ist;
-
 - b) die Bedingungen gemäss Artikel 15 der Bundesverordnung erfüllt sind;
-
 - c) die Einrichtung von einer juristischen Person abhängig ist;
-
 - d) das Organigramm des Erziehungspersonals, der Werklehrer, der Sozialpädagogen und anderer Fachleute, die sich um Kinder kümmern, genehmigt worden ist.
 
 #### Art. 88
 
 **Bewilligungsentzug**
 
-Die Bewilligung kann jederzeit entzogen werden, wenn die Einrichtung die Bewilligungsvoraussetzungen gemäss Artikel 20 der Bundesverordnung nicht mehr erfüllt.
+<sup>1</sup> Die Bewilligung kann jederzeit entzogen werden, wenn die Einrichtung die Bewilligungsvoraussetzungen gemäss Artikel 20 der Bundesverordnung nicht mehr erfüllt.
 
-### 3. Abschnitt: Bedingungen für die Bewilligung und Aufsicht
-
-der Platzierung in sozialpädagogische
-
-### Einrichtungen (Art. 45 JG)
+### 9.3 Bedingungen für die Bewilligung und Aufsicht der Platzierung in sozialpädagogische Einrichtungen (Art. 45 JG)
 
 #### Art. 89
 
@@ -1192,34 +1151,27 @@ der Platzierung in sozialpädagogische
 
 <sup>4</sup> Die Platzierung bildet Gegenstand einer Aufsicht durch die Dienststelle.
 
-### 4. Abschnitt: Kostenverteilung für die Platzierung der Kinder in sozialpädagogische Einrichtungen (Art. 47 JG)
+### 9.4 Kostenverteilung für die Platzierung der Kinder in sozialpädagogische Einrichtungen (Art. 47 JG)
 
 #### Art. 90
 
-Sozialpädagogische Einrichtungen anerkannt durch den Kanton und das Bundesamt für Justiz oder nur durch den Kanton anerkannt
+**Sozialpädagogische Einrichtungen anerkannt durch den Kanton und das Bundesamt für Justiz oder nur durch den Kanton anerkannt**
 
 <sup>1</sup> Wenn ein Kind in eine sozialpädagogische Einrichtung, die durch den Kanton anerkannt ist, platziert wird, werden die Platzierungskosten, welche einem Beherbergungsbeitrag und dem persönlichen Budget entsprechen, in erster Linie durch das Kind oder seine Eltern getragen und erst subsidiär durch die verantwortliche Körperschaft gemäss den kantonalen Bestimmungen über die Eingliederung und die Sozialhilfe übernommen.
 
-<sup>2</sup> Der Betrag zu Lasten des Kindes oder seiner Eltern wird durch einen Beschluss des Staatsrates, welcher im Amtsblatt veröffentlicht wird, festgelegt.[^90-1]
-
-[^90-1]: Änderung vom 21.12.2011 Abl. Nr. 52/2011 1.01.2012
+<sup>2</sup> Der Betrag zu Lasten des Kindes oder seiner Eltern wird durch einen Beschluss des Staatsrates, welcher im Amtsblatt veröffentlicht wird, festgelegt.
 
 #### Art. 91
 
-**, <sup>7</sup> Ausserkantonale sozialpädagogische Einrichtungen die durch**[^90-1]
+**Ausserkantonale sozialpädagogische Einrichtungen die durch das Bundesamt für Justiz anerkannt sind**
 
-das Bundesamt für Justiz anerkannt sind
+<sup>1</sup> Wenn ein Kind in eine ausserkantonale vom Bundesamt für Justiz anerkannte sozialpädagogische Einrichtung platziert wird, werden die Platzierungskosten durch den Kanton übernommen.
 
-<sup>1</sup> Wenn ein Kind in eine ausserkantonale vom Bundesamt für Justiz anerkannte sozialpädagogische Einrichtung platziert wird, werden die Platzierungskosten durch den Kanton übernommen.[^91-1]
+<sup>2</sup> Die Platzierungskosten, welche einem Beherbergungsbeitrag und dem persönlichen Budget entsprechen, werden in erster Linie durch das Kind oder seine Eltern getragen und erst subsidiär durch die verantwortliche Körperschaft gemäss den kantonalen Bestimmungen über die Eingliederung und die Sozialhilfe übernommen.
 
-<sup>2</sup> Die Platzierungskosten, welche einem Beherbergungsbeitrag und dem persönlichen Budget entsprechen, werden in erster Linie durch das Kind oder seine Eltern getragen und erst subsidiär durch die verantwortliche Körperschaft gemäss den kantonalen Bestimmungen über die Eingliederung und die Sozialhilfe übernommen.[^91-2],[^91-1]
+<sup>3</sup> …
 
-<sup>3</sup> Aufgehoben[^91-2]
-
-[^91-1]: Änderung vom 14. Januar 2015 Abl. Nr. 4/2015 01.01.2015
-[^91-2]: Änderung vom 21.12.2011 Abl. Nr. 52/2011 1.01.2012
-
-### 5. Abschnitt: Spezialkosten (Art. 47 JG)
+### 9.5 Spezialkosten (Art. 47 JG)
 
 #### Art. 92
 
@@ -1229,44 +1181,33 @@ das Bundesamt für Justiz anerkannt sind
 
 <sup>3</sup> Der Betrag zu Lasten des Kindes oder seiner Eltern sowie das persönliche Budget wird durch einen Staatsratsentscheid, welcher im Amtsblatt veröffentlicht wird, festgelegt.
 
-### 6. Abschnitt: Die Modalitäten der Teilnahme des Kantons
-
-an den Betriebs- und Baukosten einer sozialpädagogischen Einrichtung (Art. 47 JG)
+### 9.6 Die Modalitäten der Teilnahme des Kantons an den Betriebs- und Baukosten einer sozialpädagogischen Einrichtung (Art. 47 JG)
 
 #### Art. 93
 
-<sup>7</sup> Beitrag an die Betriebskosten der anerkannten
+**Beitrag an die Betriebskosten der anerkannten sozialpädagogischen Einrichtungen**
 
-sozialpädagogischen Einrichtungen
+<sup>1</sup> Der Staat beteiligt sich an den Betriebskosten mit einer Betriebssubvention, welche höchstens 75 Prozent der anerkannten Betriebskosten betragen darf. Die Subventionierung stützt sich auf die Anzahl Tage der platzierten und im Wallis wohnhaften Kinder. Diese Betriebssubvention kann nicht 100 Prozent der Kosten der anerkannten Leistungen überschreiten.
 
-<sup>1</sup> Der Staat beteiligt sich an den Betriebskosten mit einer Betriebssubvention, welche höchstens 75 Prozent der anerkannten Betriebskosten betragen darf. Die Subventionierung stützt sich auf die Anzahl Tage der platzierten und im Wallis wohnhaften Kinder. Diese Betriebssubvention kann nicht 100 Prozent der Kosten der anerkannten Leistungen überschreiten.[^93-1]
-
-<sup>2</sup> Aufgehoben[^93-2]
+<sup>2</sup> …
 
 <sup>3</sup> Der Staatsrat kann einen Leistungsvertrag mit den sozialpädagogischen Einrichtungen abschliessen. Dieser Vertrag beinhaltet die zu erbringenden Leistungen, die Einführung von Qualitätsstandards, das erforderliche Personal und ein Globalbudget.
 
-[^93-1]: Änderung vom 21.11.2012 Abl. Nr. 48/2012 1.01.2013
-[^93-2]: Änderung vom 14. Januar 2015 Abl. Nr. 4/2015 01.01.2015
+#### Art. 93a
 
-#### Art. 93bis
+**Beitrag an die Betriebskosten der sozialpädagogischen Einrichtungen anerkannt nur durch den Kanton**
 
-<sup>7</sup> Beitrag an die Betriebskosten der sozialpädagogischen
+<sup>1</sup> Der Staat beteiligt sich an den anerkannten Betriebskosten. Die Subventionierung stützt sich auf die Anzahl Tage der platzierten und im Wallis wohnhaften Kinder. Diese Betriebssubvention kann nicht 100 Prozent der Kosten der anerkannten Leistungen überschreiten.
 
-Einrichtungen anerkannt nur durch den Kanton
+<sup>2</sup> Die Platzierungskosten, welche einem Beherbergungsbeitrag und dem persönlichen Budget entsprechen, werden in erster Linie durch das Kind oder seine Eltern getragen und erst subsidiär durch die verantwortliche Körperschaft gemäss den kantonalen Bestimmungen über die Eingliederung und die Sozialhilfe übernommen.
 
-Der Staat beteiligt sich monatlich an den Betriebskosten mittels einer Tagespauschale pro Kind. Dieser Betrag wird durch einen Beschluss des Staatsrates, welcher im Amtsblatt veröffentlicht wird, festgelegt.[^93bis-1]
+<sup>3</sup> Der Betrag zu Lasten des Kindes oder seiner Eltern wird durch einen Beschluss des Staatsrates, welcher im Amtsblatt veröffentlicht wird, festgelegt.
 
-Die Platzierungskosten, welche einem Beherbergungsbeitrag und dem persönlichen Budget entsprechen, werden in erster Linie durch das Kind oder seine Eltern getragen und erst subsidiär durch die verantwortliche Körperschaft gemäss den kantonalen Bestimmungen über die Eingliederung und die Sozialhilfe übernommen.[^93bis-1]
-
-Der Betrag zu Lasten des Kindes oder seiner Eltern wird durch einen Beschluss des Staatsrates, welcher im Amtsblatt veröffentlicht wird, festgelegt.[^93bis-1]
-
-Der Staatsrat kann einen Leistungsvertrag mit den sozialpädagogischen Einrichtungen abschliessen. Dieser Vertrag beinhaltet die zu erbringenden Leistungen, die Einführung von Qualitätsstandards und das erforderliche Personal.[^93bis-1]
-
-[^93bis-1]: Änderung vom 14. Januar 2015 Abl. Nr. 4/2015 01.01.2015
+<sup>4</sup> Der Staatsrat kann einen Leistungsvertrag mit den sozialpädagogischen Einrichtungen abschliessen. Dieser Vertrag beinhaltet die zu erbringenden Leistungen, die Einführung von Qualitätsstandards und das erforderliche Personal.
 
 #### Art. 94
 
-Bedingung für die Gewährung einer Subvention an die Betriebskosten
+**Bedingung für die Gewährung einer Subvention an die Betriebskosten**
 
 <sup>1</sup> Die sozialpädagogischen Einrichtungen, die einen Anspruch auf eine Betriebssubvention geltend machen, müssen ihr Budget der Dienststelle vorlegen, welches als Einreichung eines Gesuches gilt.
 
@@ -1276,11 +1217,9 @@ Bedingung für die Gewährung einer Subvention an die Betriebskosten
 
 <sup>4</sup> Jede Auszahlung von Subventionen wird bis zur Genehmigung dieser Dokumente durch das Departement sistiert.
 
-[^94-1]: Änderung vom 14. Januar 2015 Abl. Nr. 4/2015 01.01.2015
-
 #### Art. 95
 
-Subventionierung von Investitionen der sozialpädagogischen Einrichtungen anerkannt durch den Kanton und das Bundesamt für Justiz[^94-1]
+**Subventionierung von Investitionen der sozialpädagogischen Einrichtungen anerkannt durch den Kanton und das Bundesamt für Justiz 7**
 
 <sup>1</sup> Der Staat kann an die Bau-, Erweiterungs- und Renovationskosten der in Artikel 85 aufgeführten Betriebe eine Investitionssubvention von 10 bis 55 Prozent der zugelassenen Ausgaben beisteuern.
 
@@ -1290,7 +1229,7 @@ Subventionierung von Investitionen der sozialpädagogischen Einrichtungen anerka
 
 #### Art. 96
 
-Bedingungen für die Erteilung einer Subvention an die Investitionskosten
+**Bedingungen für die Erteilung einer Subvention an die Investitionskosten**
 
 <sup>1</sup> Um eine Subvention an die Investitionskosten zu erhalten, müssen die sozialpädagogischen Einrichtungen ihr Gesuch dem Departement unterbreiten, welches die Angaben im Antrag prüft und die betroffenen Departemente konsultiert. Die Antragsteller liefern alle notwendigen Informationen zur Prüfung des Gesuchs.
 
@@ -1322,11 +1261,11 @@ Bedingungen für die Erteilung einer Subvention an die Investitionskosten
 
 <sup>2</sup> Das Departement kann jederzeit von seinem Einsichtsrecht in den Betrieb, die Geschäftsbücher, die Belege und die Akten der begünstigten Einrichtung Gebrauch machen.
 
-### 7. Abschnitt: Freiheitsbeschränkende Massnahme für Minderjährige und Bedingungen bezüglich Einrichtung geschlossener Zimmer (47bis, 47ter, 47quater)
+### 9.7 Freiheitsbeschränkende Massnahme für Minderjährige und Bedingungen bezüglich Einrichtung geschlossener Zimmer (47a, 47b und 47c JG)
 
 #### Art. 98a
 
-<sup>5</sup> Ziele und Grundsätze der freiheitsbeschränkenden Massnahmen
+**Ziele und Grundsätze der freiheitsbeschränkenden Massnahmen**
 
 <sup>1</sup> Als freiheitsbeschränkende Massnahmen gelten disziplinarische Sanktionen, Sicherheitsmassnahmen sowie Zwangsmittel.
 
@@ -1350,26 +1289,19 @@ Bedingungen für die Erteilung einer Subvention an die Investitionskosten
 
 #### Art. 98b
 
-<sup>5</sup> Disziplinartatbestände
+**Disziplinartatbestände**
 
 <sup>1</sup> Disziplinarische Sanktionen können Minderjährigen auferlegt werden, die schuldhaft einer Vorschrift, welche das Zusammenleben in der Einrichtung regelt, oder einer Anordnungen der Direktion, des Personals der Einrichtung oder der einweisenden Behörde zuwiderhandeln.
 
 <sup>2</sup> Als Disziplinartatbestände gelten:
 
 - a) körperliche, sexuelle oder verbale Gewalt gegenüber dem Personal, anderen Bewohnern oder Drittpersonen, die in der Einrichtung zugegen sind;
-
 - b) der Handel, Besitz und Konsum von Alkohol oder Betäubungsmitteln sowie der Missbrauch von Medikamenten;
-
 - c) das Weglaufen oder jegliche diesbezügliche Vorbereitung;
-
 - d) rechtswidrige Eingriffe in fremde Vermögenswerte;
-
 - e) Störung des Erziehungsprogramms, der Arbeit oder der Kurse;
-
 - f) die missbräuchliche Nutzung von elektronischen Kommunikationsgeräten oder Unterhaltungselektronik, Software und Hardware;
-
 - g) der Besitz von unerlaubten Gegenständen;
-
 - h) jede andere Handlung, die vom Strafgesetz geahndet wird.
 
 <sup>3</sup> Die Einrichtungen können weitere Disziplinartatbestände in ihrem Reglement vorsehen, das von der zuständigen Aufsichtsbehörde genehmigt wird.
@@ -1380,26 +1312,18 @@ Bedingungen für die Erteilung einer Subvention an die Investitionskosten
 
 #### Art. 98c
 
-<sup>5</sup> Disziplinarische Sanktionen
+**Disziplinarische Sanktionen**
 
 <sup>1</sup> Disziplinarische Sanktionen sind:
 
 - a) der Verweis;
-
 - b) die schriftliche Verwarnung;
-
 - c) die Reduktion des Taschengeldes;
-
 - d) die Einschränkung der Teilnahme an Freizeitveranstaltungen;
-
 - e) der Entzug oder die Einschränkung des Urlaubsrechts;
-
 - f) der Entzug oder die Einschränkung des Besitzes von elektronischen Kommunikationsgeräten oder Unterhaltungselektronik, Software und elektronischen Speichermedien;
-
 - g) das Einschliessen im Zimmer;
-
 - h) die Platzierung in einem geschlossenen Zimmer;
-
 - i) die disziplinarischen Massnahmen ausserhalb der Einrichtung.
 
 <sup>2</sup> Beim Zimmereinschluss verbringt der Minderjährige die Ruhe- und Freizeit in seinem Zimmer.
@@ -1416,7 +1340,7 @@ Bedingungen für die Erteilung einer Subvention an die Investitionskosten
 
 #### Art. 98d
 
-<sup>5</sup> Zuständiges Organ und Ausmass der Sanktion
+**Zuständiges Organ und Ausmass der Sanktion**
 
 <sup>1</sup> Die disziplinarischen Sanktionen werden durch die Leitung der Institution schriftlich verfügt; diese sorgt dafür, dass dem Empfänger deren Sinn erläutert wird.
 
@@ -1432,9 +1356,7 @@ Bedingungen für die Erteilung einer Subvention an die Investitionskosten
 
 #### Art. 98e
 
-<sup>5</sup> Bestimmungen bezüglich die Schaffung eines geschlossenen
-
-Zimmers
+**Bestimmungen bezüglich die Schaffung eines geschlossenen Zimmers**
 
 <sup>1</sup> Das geschlossene Zimmer muss mit einer ausreichenden Frischluftzufuhr versehen werden und Tageslicht einlassen. Es stehen angemessene sanitäre Einrichtungen zur Verfügung.
 
@@ -1444,7 +1366,7 @@ Zimmers
 
 #### Art. 98f
 
-<sup>5</sup> Bedingungen für die Benutzung eines geschlossenen Zimmers
+**Bedingungen für die Benutzung eines geschlossenen Zimmers**
 
 <sup>1</sup> Institutionen, die ein geschlossenes Zimmer nutzen, haben dies vorab ausdrücklich in ihrem Konzept vorzusehen. Diese Massnahme darf nur bei Kindern angewandt werden, die ihr 15. Lebensjahr abgeschlossen haben.
 
@@ -1456,19 +1378,15 @@ Zimmers
 
 #### Art. 98g
 
-<sup>5</sup> Sicherheitsmassnahmen
+**Sicherheitsmassnahmen**
 
 <sup>1</sup> Die Direktion der Institution oder das von ihr bezeichnete Personal kann folgende Massnahmen anordnen:
 
 - a) die Kontrolle von persönlichen Gegenständen und des Zimmers; diese findet grundsätzlich in Anwesenheit des Minderjährigen statt;
-
 - b) oberflächliche Leibesvisitation, wobei die Bekleidung belassen wird;
-
 - c) oberflächliche Leibesvisitation, wobei sich die untersuchte Person der Bekleidung entledigt, sofern es die Umstände erfordern;
-
 - d) invasive Leibesvisitation;
-
-- e) körperliche Untersuchungen (Atem, Blut, Urin, usw.).
+- e) körperliche Untersuchungen (Atem, Blut, Urin usw.).
 
 <sup>2</sup> Die oberflächliche Leibesvisitation mit Bekleidung wird durch eine Person gleichen Geschlechts durchgeführt.
 
@@ -1478,13 +1396,13 @@ Zimmers
 
 #### Art. 98h
 
-<sup>5</sup> Zwangsmittel
+**Zwangsmittel**
 
-Die Direktion der Institution oder das von ihr bezeichnete Personal können bei unmittelbarer Gefahr für den Minderjährigen, für Dritte oder Sachen sowie bei Weglaufen oder einem entsprechenden Versuch körperliche Zwangsmittel einsetzen, sofern keine andere Möglichkeit besteht, die Gefährdung abzuwenden.
+<sup>1</sup> Die Direktion der Institution oder das von ihr bezeichnete Personal können bei unmittelbarer Gefahr für den Minderjährigen, für Dritte oder Sachen sowie bei Weglaufen oder einem entsprechenden Versuch körperliche Zwangsmittel einsetzen, sofern keine andere Möglichkeit besteht, die Gefährdung abzuwenden.
 
 #### Art. 98i
 
-<sup>5</sup> Gütliche Einigung
+**Gütliche Einigung**
 
 <sup>1</sup> Bei Beschwerden gegen eine Verfügung über freiheitsbeschränkende Massnahmen entscheidet das Departement. Das Departement kann die zuständige Dienststelle beauftragen, zu versuchen, eine gütliche Einigung zu erzielen.
 
@@ -1492,7 +1410,7 @@ Die Direktion der Institution oder das von ihr bezeichnete Personal können bei 
 
 <sup>3</sup> Kann innerhalb von 30 Tagen nach Eingang der Beschwerde keine gütliche Einigung getroffen werden, nimmt das Verfahren im Sinne der Verfügung seinen Lauf.
 
-### 10. Kapitel: Heilpädagogische Frühberatung (Art. 51ff JG)
+## 10 Heilpädagogische Frühberatung (Art. 51ff JG)
 
 #### Art. 99
 
@@ -1502,7 +1420,7 @@ Die Direktion der Institution oder das von ihr bezeichnete Personal können bei 
 
 <sup>3</sup> Ihr Hauptziel verfolgt die Ermöglichung und/oder Erleichterung der schulischen Integration des Kindes.
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+### 10.1 Allgemeine Bestimmungen
 
 #### Art. 100
 
@@ -1521,7 +1439,6 @@ Die Direktion der Institution oder das von ihr bezeichnete Personal können bei 
 <sup>1</sup> Um Leistungen der heilpädagogischen Frühberatung erbringen zu können, muss die Fachperson nachfolgende Bedingungen erfüllen:
 
 - a) sie muss Inhaber eines heilpädagogischen Diploms, eines Diploms als Hilfs- und Sonderschullehrer oder im Besitze eines Titels sein, welcher vom Departement als gleichwertig beurteilt wird;
-
 - b) sie muss eine Zusatzausbildung in heilpädagogischer Früherziehung erworben haben (oder sich dazu verpflichten).
 
 <sup>2</sup> Die Fachperson der heilpädagogischen Frühberatung hat die Pflicht, sich über die theoretische und praktische Berufsentwicklung auf dem Laufenden zu halten. Interne Weisungen regeln die Weiterbildung und Fortbildung im Rahmen des AHF.
@@ -1558,23 +1475,25 @@ Die Direktion der Institution oder das von ihr bezeichnete Personal können bei 
 
 <sup>2</sup> Wenn ein Mitarbeiter Kenntnis erlangt von einer von Amts wegen zu verfolgenden Rechtsverletzung (namentlich Situationen der Kindsmisshandlung), hat er die Pflicht, sich an den Dienstchef oder an seinen Vorgesetzen zu wenden, wenn die Fachperson im Rahmen eines Privatvereins tätig ist, gegebenenfalls an den Vorstand, welcher den Sachverhalt beim Strafuntersuchungsrichter anzeigt.
 
-<sup>3</sup> Der Artikel 54 des Jugendgesetzes findet Anwendung.
+<sup>3</sup> Der Artikel 54 des JG findet Anwendung.
 
-### 2. Abschnitt: Finanzierung
+### 10.2 Finanzierung
 
 #### Art. 106
 
-Kostenübernahme der Massnahmen durch die Invalidenversicherung Die Finanzierung der heilpädagogischen Massnahmen von Kindern, die durch die Invalidenversicherung anerkannt sind, ist in den Vereinbarungen mit dem Bundesamt für Sozialversicherungen geregelt.
+**Kostenübernahme der Massnahmen durch die Invalidenversicherung**
+
+<sup>1</sup> Die Finanzierung der heilpädagogischen Massnahmen von Kindern, die durch die Invalidenversicherung anerkannt sind, ist in den Vereinbarungen mit dem Bundesamt für Sozialversicherungen geregelt.
 
 #### Art. 107
 
-Massnahmen, die von der Invalidenversicherung nicht übernommen werden
+**Massnahmen, die von der Invalidenversicherung nicht übernommen werden**
 
 <sup>1</sup> Wenn die Leistungen der heilpädagogischen Frühberatung finanziell durch die eidgenössische Invalidenversicherung nicht übernommen werden (ausländische Kinder zwecks Adoption, nicht anerkannte Behinderung usw.), können diese durch den öffentlichen Dienst im Rahmen seiner finanziellen Möglichkeiten übernommen werden. Wenn die Massnahme von der Dienststelle einer privaten Vereinigung übertragen wird, sind die Tarife der eidgenössischen Invalidenversicherung anwendbar.
 
 <sup>2</sup> Die Ausführungen des Gesetzes über die Geschäftsführung und der Finanzhaushalt des Kantons und deren Kontrolle vom 24. Juni 1980 bleiben vorbehalten.
 
-### 11. Kapitel: Übergangsbestimmungen
+## 11 Übergangsbestimmungen
 
 #### Art. 108
 
@@ -1586,23 +1505,23 @@ Massnahmen, die von der Invalidenversicherung nicht übernommen werden
 
 #### Art. 109
 
-Kantonale Beteiligung an der Finanzierung der familienexternen Tagesbetreuung von Kindern (Art. 42 bis 45) Die Beteiligung des Kantons an der Finanzierung der familienexternen Tagesbetreuung von Kindern seit ihrer Geburt bis zur Beendigung der Primarschule, tritt rückwirkend auf den 1. Januar 2001 in Kraft, wenn nachfolgende Bedingungen erfüllt sind :
+**Kantonale Beteiligung an der Finanzierung der familienexternen Tagesbetreuung von Kindern (Art. 42 bis 45 VJ)**
+
+<sup>1</sup> Die Beteiligung des Kantons an der Finanzierung der familienexternen Tagesbetreuung von Kindern seit ihrer Geburt bis zur Beendigung der Primarschule, tritt rückwirkend auf den 1. Januar 2001 in Kraft, wenn nachfolgende Bedingungen erfüllt sind:
 
 - a) die Einrichtungen entsprechen den diesbezüglichen kantonalen Weisungen und sind im Besitze einer Betriebsbewilligung;
-
 - b) die Einrichtung entspricht einem nachweisbaren Bedürfnis und wird von der kommunalen oder regionalen Planung genehmigt;
-
 - c) ein Leistungsvertrag oder eine Vereinbarung zwischen der Dienststelle und der Betreuungsstruktur wurde unterzeichnet.
 
 #### Art. 110
 
 **Ferienkolonien und Lager (Art. 56 bis 62 JG)**
 
-Die Bewilligungsgesuche, welche zur Zeit bearbeitet werden und vor dem Inkrafttreten des neuen JG eingereicht wurden, werden nach den neuen Bestimmungen geregelt.
+<sup>1</sup> Die Bewilligungsgesuche, welche zur Zeit bearbeitet werden und vor dem Inkrafttreten des neuen JG eingereicht wurden, werden nach den neuen Bestimmungen geregelt.
 
 #### Art. 111
 
-**Betreuungspersonal (Art. 61 bis 65)**
+**Betreuungspersonal (Art. 61 bis 65 VJ)**
 
 <sup>1</sup> Die Verpflichtung für das verantwortliche Betreuungspersonal betreffend Alter, Anzahl und Funktion tritt am 1. Januar 2002 in Kraft.
 
@@ -1610,44 +1529,30 @@ Die Bewilligungsgesuche, welche zur Zeit bearbeitet werden und vor dem Inkrafttr
 
 #### Art. 112
 
-Platzierung von Kindern in anerkannten ausserkantonalen sozialpädagogischen Einrichtungen (Art. 91) Die Neuaufteilung der Platzierungskosten von Kindern in einer anerkannten ausserkantonalen sozialpädagogischen Einrichtung tritt am 1. Januar 2002 in Kraft.
+**Platzierung von Kindern in anerkannten ausserkantonalen sozialpädagogischen Einrichtungen (Art. 91 VJ)**
+
+<sup>1</sup> Die Neuaufteilung der Platzierungskosten von Kindern in einer anerkannten ausserkantonalen sozialpädagogischen Einrichtung tritt am 1. Januar 2002 in Kraft.
 
 #### Art. 113
 
 **Aufhebung bisherigen Rechts**
 
-Die im Widerspruch zu dieser Verordnung stehenden Bestimmungen sind aufgehoben. Es handelt sich namentlich um :
+<sup>1</sup> Die im Widerspruch zu dieser Verordnung stehenden Bestimmungen sind aufgehoben. Es handelt sich namentlich um:
 
-- a) das Reglement vom 27. September 1972 betreffend die Aufsicht über Pflegekinder und über Institutionen für Kinder und Jugendliche;
-
+- a) das Reglement betreffend die Aufsicht über Pflegekinder und über Institutionen für Kinder und Jugendliche vom 27. September 1972;
 - b) Buchstabe a von Artikel 29 und Artikel 31 des Gesetzes über die Hilfs- und Sonderschulen vom 25. Juni 1986;
-
-- c) Buchstabe a von Artikel 27 und Absatz 1 von Artikel 28, Artikel 29 des Ausführungsreglements zum Gesetz über die Hilfs- und Sonderschulen vom 25. Februar 1987.
+- c) Buchstabe a von Artikel 27 und Absatz 1 von Artikel 28 und Artikel 29 des Ausführungsreglements zum Gesetz über die Hilfs- und Sonderschulen vom 25. Februar 1987.
 
 #### Art. 114
 
 **Vollzug**
 
-Das Departement ist mit dem Vollzug dieser Verordnung beauftragt.
+<sup>1</sup> Das Departement ist mit dem Vollzug dieser Verordnung beauftragt.
 
 #### Art. 115
 
 **Veröffentlichung und Inkrafttreten**
 
-Die vorliegende Verordnung wird im Amtsblatt veröffentlicht und tritt am 1. Januar 2015 in Kraft.[^115-1]
+<sup>1</sup> Die vorliegende Verordnung wird im Amtsblatt veröffentlicht und tritt am 1. Januar 2015 in Kraft.
 
-So beschlossen im Staatsrat zu Sitten, den 14. Januar 2015.
-
-Der Präsident des Staatsrates: Jean-Michel Cina Der Staatskanzler: Philipp Spörri
-
-[^115-1]: Änderung vom 14. Januar 2015 Abl. Nr. 4/2015 01.01.2015
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-**1.06.2001**
-
-GS/VS 2001, 335
-
-## Weitere Fussnoten
-
-- [1] Änderung vom 4.06.2003 GS/VS 2003, 150 1.06.2003
+CSW BO/Abl. 20/2001

@@ -4,155 +4,130 @@ number: "850.400"
 title: Ordonnance sur les différentes structures en faveur de la jeunesse
 short: OJe
 language: fr
-version: 2016-12-15
-corrected: 2017-10-11
-version_adopted: 2016-11-02
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-24
 adopted: 2001-05-09
 in_force: 2001-06-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/850.400"
-pdf: "https://lex.vs.ch/api/fr/versions/154/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2981/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur les différentes structures en faveur de la jeunesse
 
-du 9 mai 2001
+(OJe)
+
+du 09.05.2001 (état 01.01.2022)
 
 Le Conseil d'Etat du canton du Valais
 
-vu les art. 5, 11, 25, 31, 33, 34, 36, 41, 43, 45, 47 et 52 de la loi en faveur de la jeunesse du 11 mai 2000 (LJe);
+vu les articles 5, 11, 25, 31, 33, 34, 36, 41, 43, 45, 47 et 52 de la loi en faveur de la jeunesse du 11 mai 2000 (LJe);
 
-sur proposition du département de l'éducation, de la culture et du sport,
+sur proposition du département en charge de la formation,
 
 ordonne:
 
-### Chapitre 1: Dispositions générales
+## 1 Dispositions générales
 
-### Section 1: But et Département compétent
+### 1.1 But et département compétent
 
-#### Article premier
+#### Art. 1
 
 **But**
 
-La présente ordonnance a pour but de compléter les dispositions où le Conseil d'Etat a reçu une délégation et de préciser les dispositions nécessaires à l'application de la LJe.
+<sup>1</sup> La présente ordonnance a pour but de compléter les dispositions où le Conseil d'Etat a reçu une délégation et de préciser les dispositions nécessaires à l'application de la LJe.
 
 #### Art. 2
 
 **Principe d'égalité**
 
-Toute désignation de personne, de statut, de fonction ou de profession utilisée dans la présente ordonnance s'applique indifféremment aux femmes et aux hommes.
+<sup>1</sup> Toute désignation de personne, de statut, de fonction ou de profession utilisée dans la présente ordonnance s'applique indifféremment aux femmes et aux hommes.
 
 #### Art. 3
 
 **Compétences**
 
-Le Département compétent est celui dont relèvent la promotion, le soutien, la prévention, la protection ainsi que l'offre de prestations spécialisées à l'intention des enfants et des jeunes (ci-après le Département). Il peut faire appel à la collaboration d'autres services de l'Etat ainsi qu'à des privés.
+<sup>1</sup> Le département compétent est celui dont relèvent la promotion, le soutien, la prévention, la protection ainsi que l'offre de prestations spécialisées à l'intention des enfants et des jeunes (ci-après: le département). Il peut faire appel à la collaboration d'autres services de l'Etat ainsi qu'à des privés.
 
-### Section 2: Service compétent (art. 5 LJe)
+### 1.2 Service compétent (art. 5 LJe)
 
 #### Art. 4
 
 **Service compétent**
 
-<sup>1</sup> Le service compétent est le Service cantonal de la jeunesse (ci-après le Service).
+<sup>1</sup> Le service compétent est le Service cantonal de la jeunesse (ci-après: le service).
 
-<sup>2</sup> Le Service assume les tâches relevant du service public. Sa mission est notamment:
+<sup>2</sup> Le service assume les tâches relevant du service public. Sa mission est notamment:
 
 - a) de contribuer à la promotion d'une politique en faveur de la jeunesse;
-
 - b) de promouvoir et de soutenir les projets des organisations de jeunesse ou s'occupant de la jeunesse;
-
 - c) d'arrêter et d'encourager des programmes de prévention renforçant les compétences sociales des jeunes;
-
 - d) de promouvoir le développement des enfants et des jeunes par l'éducation et la promotion de la santé;
-
 - e) d'assurer la sécurité des enfants et des jeunes lorsque leur développement physique, psychique ou social est menacé;
-
 - f) de fournir aux enfants, aux jeunes et à leur famille des prestations ambulatoires spécialisées sous la forme de conseil éducatif, de psychologie scolaire, de thérapie, de psychiatrie, ainsi que des mesures d'éducation précoce spécialisée;
-
 - g) d'évaluer et de planifier les différentes mesures de protection des enfants;
-
 - h) de veiller à la qualité des prestations et à la bonne gestion des institutions d'éducation spécialisées, notamment par une planification différenciée et par l'introduction de mandats de prestations;
-
 - i) de mener des recherches sur des questions particulières concernant la jeunesse.
 
 #### Art. 5
 
 **Partenaires**
 
-Outre les parents et les jeunes, les partenaires du Service sont:
+<sup>1</sup> Outre les parents et les jeunes, les partenaires du service sont:
 
 - a) les autorités administratives communales et cantonales;
-
 - b) les autorités scolaires et le corps enseignant;
-
 - c) les associations d'aide à l'enfance;
-
 - d) les organisations de jeunesse;
-
 - e) les associations de parents, les associations socioculturelles et sportives;
-
 - f) les offices d'orientation scolaire et professionnelle;
-
 - g) les centres médico-sociaux régionaux;
-
-- h) les autorités tutélaires et les tuteurs généraux;
-
+- h) les autorités de protection de l'enfant et de l'adulte et les services de curatelle officielle;
 - i) les autorités judiciaires;
-
 - j) les professionnels de la santé, les hôpitaux, les institutions de santé mentale;
-
 - k) les autres services spécialisés, privés ou publics.
 
 #### Art. 6
 
 **Organisation**
 
-<sup>1</sup> Le Service est placé sous la direction d'un chef de service.
+<sup>1</sup> Le service est placé sous la direction d'un chef de service.
 
-<sup>2</sup> Le Service est composé notamment des personnes, des sections et des offices suivants:
+<sup>2</sup> Le service est composé notamment des personnes, des sections et des offices suivants:
 
 - a) une section administrative;
-
-- b) un délégué à la jeunesse.
-
+- b) un délégué à la jeunesse;
 - c) un office pour la protection de l'enfant;
-
-- d) un office chargé du conseil éducatif, de la psychologie scolaire et de la psychiatrie pour enfants et adolescents;
-
-- e) un office éducatif itinérant;
+- d) un office chargé du conseil éducatif, de la psychologie scolaire, de la psychologie de l'enfance et de l'adolescence, de la logopédie et de la psychomotricité;
+- e) un office éducatif itinérant.
 
 <sup>3</sup> Les personnes, les sections et les offices susmentionnés sont chargés de tâches spécifiques. Ils fonctionnent de manière coordonnée et coopèrent dans le cadre de leur action.
 
-<sup>4</sup> Le Service est composé de centres régionaux.
+<sup>4</sup> Le service est composé de centres régionaux.
 
 <sup>5</sup> Les centres régionaux se trouvent à Monthey, Martigny, Sion, Sierre, Viège et Brigue. Si les circonstances l'exigent, cette localisation peut se modifier.
 
-<sup>6</sup> Le fonctionnement du Service fait l'objet d'un règlement interne.
+<sup>6</sup> Le fonctionnement du service fait l'objet d'un règlement interne.
 
 #### Art. 7
 
 **Qualifications professionnelles**
 
-<sup>1</sup> Outre les collaborateurs administratifs, le Service occupe notamment des spécialistes de l'éducation précoce spécialisée, du travail social, de la logopédie, de la psychologie, de la psychomotricité et de la psychiatrie pour enfants et adolescents.
+<sup>1</sup> Outre les collaborateurs administratifs, le service occupe notamment des spécialistes de l'éducation précoce spécialisée, du travail social, de la logopédie, de la psychologie, de la psychomotricité et de la psychiatrie pour enfants et adolescents.
 
 <sup>2</sup> Ils doivent posséder une formation théorique et pratique correspondant à leur fonction.
 
-<sup>3</sup> Des directives internes règlent le perfectionnement et la formation continue au sein du Service.
+<sup>3</sup> Des directives internes règlent le perfectionnement et la formation continue au sein du service.
 
-### Chapitre 2: Critères d'utilisation du montant alloué au soutien
-
-des organisations s'occupant de la jeunesse (art. 11
-
-### LJe)
+## 2 Critères d'utilisation du montant alloué au soutien des organisations s'occupant de la jeunesse (art. 11 LJe)
 
 #### Art. 8
 
 **Bénéficiaires**
 
-Le Département peut allouer aux organisations de jeunesse ou s'occupant de la jeunesse, ayant leur domicile en Valais, des aides financières pour des projets spécifiques concernant la jeunesse.
+<sup>1</sup> Le département peut allouer aux organisations de jeunesse ou s'occupant de la jeunesse, ayant leur domicile en Valais, des aides financières pour des projets spécifiques concernant la jeunesse.
 
 #### Art. 9
 
@@ -161,15 +136,10 @@ Le Département peut allouer aux organisations de jeunesse ou s'occupant de la j
 <sup>1</sup> Ces aides serviront à financer notamment:
 
 - a) l'organisation d'activités ainsi que d'échanges de jeunes entre les différentes régions du canton, de la Suisse ainsi que sur le plan international;
-
 - b) des mesures afin d'améliorer la coordination entre les différentes organisations de jeunesse ou s'occupant de la jeunesse;
-
 - c) la collaboration interrégionale entre les organisations de jeunesse;
-
 - d) l'information et la documentation sur les questions intéressant les jeunes;
-
 - e) la formation et le perfectionnement des jeunes et des adultes exerçant des fonctions d'encadrement et/ou de direction;
-
 - f) tout autre projet susceptible d'intéresser la jeunesse.
 
 <sup>2</sup> Aucune participation aux frais de fonctionnement n'est attribuée.
@@ -180,31 +150,93 @@ Le Département peut allouer aux organisations de jeunesse ou s'occupant de la j
 
 **Montant de l'aide**
 
-Les montants sont alloués en fonction:
+<sup>1</sup> Les montants sont alloués en fonction:
 
 - a) de la nature et de l'importance du projet;
-
 - b) de l'autofinancement apporté par l'organisation concernée et du soutien accordé par des tiers;
-
 - c) du nombre de personnes bénéficiaires;
-
-- d) de l'adéquation du projet avec les buts énumérés à l'art. 9.
+- d) de l'adéquation du projet avec les buts énumérés à l'article 9.
 
 #### Art. 11
 
 **Compétences**
 
-<sup>1</sup> L'attribution des aides financières en faveur des projets intéressant la jeunesse relève de la compétence du chef du Département sur préavis de la Commission consultative des jeunes et, dans les situations où il n'est pas possible de la réunir, du délégué à la jeunesse.
+<sup>1</sup> L'attribution des aides financières en faveur des projets intéressant la jeunesse relève de la compétence du chef du département sur préavis de la Commission consultative des jeunes et, dans les situations où il n'est pas possible de la réunir, du délégué à la jeunesse.
 
-<sup>2</sup> Le chef du Département peut déléguer la compétence d'attribution au chef du service.
+<sup>2</sup> Le chef du département peut déléguer la compétence d'attribution au chef du service.
 
 <sup>3</sup> Les dispositions de la loi sur la gestion et le contrôle administratif et financier du canton du 24 juin 1980 demeurent réservées.
 
-### Chapitre 3: Prestations éducatives en milieu ouvert, assistance
+## 2a Soutien financier aux projets extrascolaires à caractère novateur intéressant la jeunesse (art. 8 LEEJ)
 
-éducative (art. 307 al. 3 CCS) et curatelle éducative
+#### Art. 11a
 
-### (art. 308 al. 1 et 2 CCS) (art. 21 et 25 LJe)
+**Définition et but**
+
+<sup>1</sup> Par projet extrascolaire à caractère novateur intéressant la jeunesse, on entend tout projet lié à des activités éducatives et d’animation en milieu ouvert pouvant servir de modèle ou encourageant la participation des enfants et des jeunes et permettant le développement au niveau communal ou régional d’une politique ou action durable en faveur de l’enfance et de la jeunesse, pour lequel il existe un besoin avéré et pour lequel le transfert des connaissances est garanti au sens de la loi fédérale sur l’encouragement des activités extrascolaires des enfants et des jeunes (LEEJ).
+
+<sup>2</sup> Ces projets ont pour cible tous les enfants et les jeunes domiciliés en Valais, de l’âge d’entrée à l’école enfantine à l’âge de 25 ans.
+
+<sup>3</sup> Ne peuvent pas être pris en compte les projets ayant un but commercial ou proposés par des organismes poursuivant un tel but. Sont également exclus, les projets ayant démarré avant le dépôt de la demande.
+
+#### Art. 11b
+
+**Montant de l'aide et répartition**
+
+<sup>1</sup> Les projets extrascolaires à caractère novateur intéressant la jeunesse sont financés à raison d’une clé de répartition de 50 pour cent au minimum à la charge des collectivités locales de droit public, de l’association ou de la fondation et 50 pour cent au maximum à la charge du canton.
+
+<sup>2</sup> Le plafond de l’aide cantonale octroyée à chaque projet extrascolaire à caractère novateur intéressant la jeunesse ne peut dépasser 50'000 francs par an.
+
+<sup>3</sup> La durée maximale des subventions est de trois ans.
+
+#### Art. 11c
+
+**Compétences**
+
+<sup>1</sup> L’attribution des aides financières en faveur des projets extrascolaires à caractère novateur intéressant la jeunesse relève de la compétence du chef de département, sur préavis du délégué à la jeunesse, qui peut déléguer la compétence d’attribution au chef du service.
+
+<sup>2</sup> Le service assure le suivi des projets extrascolaires à caractère novateur intéressant la jeunesse et leur évaluation.
+
+<sup>3</sup> Une décision du département fixe le montant alloué chaque année aux projets extrascolaires à caractère novateur intéressant la jeunesse.
+
+#### Art. 11d
+
+**Demande**
+
+<sup>1</sup> Les collectivités locales de droit public, les associations ou les fondations qui sollicitent un soutien financier à leur projet doivent présenter une demande au service jusqu’à fin avril au plus tard.
+
+<sup>2</sup> La demande doit contenir notamment les indications suivantes sur le projet prévu:
+
+- a) nature et importance;
+- b) objectif et utilité;
+- c) caractère novateur ou capacité d’encouragement à la participation;
+- d) personnes et organisations participantes;
+- e) début des activités envisagées;
+- f) financement et budget.
+
+<sup>3</sup> Une directive du département précise les modalités de dépôt de la demande et ses annexes, ainsi que les conditions et le processus d’attribution de l’aide.
+
+#### Art. 11e
+
+**Examen et décision**
+
+<sup>1</sup> Le service examine la demande. Si elle est incomplète, il la retourne à l’organisation requérante afin qu’elle la complète.
+
+<sup>2</sup> Le démarrage des projets doit avoir lieu au plus tard trois mois après réception de la décision de financement.
+
+<sup>3</sup> La collaboration, le suivi du projet et les modalités de financement sont réglées par une convention entre le service et l’organisme requérant.
+
+#### Art. 11f
+
+**Demande de restitution**
+
+<sup>1</sup> Le service demande la restitution de l’aide si elle a été octroyée sur la base d’indications erronée ou trompeuses ou n’a pas été affectée au financement d’activités extrascolaires ou encore si les termes de la convention n’ont pas été respectés.
+
+<sup>2</sup> Lorsqu’un organisme privé est dissous au cours de l’année, le service exige la restitution pro rata temporis de l’aide financière qu’il lui a accordée.
+
+<sup>3</sup> Le destinataire de l’aide doit informer sans tarder et par écrit le service de tout arrêt d’activités.
+
+## 3 Prestations éducatives en milieu ouvert, assistance éducative (art. 307 al. 3 CC) et curatelle éducative (art. 308 al. 1 et 2 CC) (art. 21 et 25 LJe)
 
 #### Art. 12
 
@@ -214,7 +246,7 @@ Les montants sont alloués en fonction:
 
 <sup>3</sup> En principe, ces prestations sont réservées à des situations pour lesquelles une aide ambulatoire d'une autre nature (conseil éducatif, psychothérapie, éducation précoce spécialisée, curatelle éducative, etc.) s'avère inopérante ou n'est pas accessible.
 
-### Section 1: Statut juridique et autorisation
+### 3.1 Statut juridique et autorisation
 
 #### Art. 13
 
@@ -222,9 +254,9 @@ Les montants sont alloués en fonction:
 
 <sup>1</sup> Les prestations éducatives en milieu ouvert peuvent aussi bien relever du service public qu'être déléguées à un organisme privé.
 
-<sup>2</sup> Lorsqu'elles sont déléguées à un organisme privé, celui-ci doit prendre la forme d'une association constituée selon les art. 60 et suivants du CCS, laquelle assume les risques inhérents à son activité.
+<sup>2</sup> Lorsqu'elles sont déléguées à un organisme privé, celui-ci doit prendre la forme d'une association constituée selon les articles 60 et suivants CC, laquelle assume les risques inhérents à son activité.
 
-<sup>3</sup> L'autorisation d'exercer en privé est donnée par le Département.
+<sup>3</sup> L'autorisation d'exercer en privé est donnée par le département.
 
 #### Art. 14
 
@@ -233,38 +265,31 @@ Les montants sont alloués en fonction:
 <sup>1</sup> Les personnes, les instances ou les services qui demandent des prestations éducatives en milieu ouvert peuvent être:
 
 - a) les parents ou leurs substituts;
-
-- b) les chambres pupillaires et les tutelles officielles;
-
+- b) les autorités de protection de l'enfant et de l'adulte et les services de curatelle officielle;
 - c) le Tribunal des mineurs;
-
 - d) les services sociaux communaux et régionaux;
-
 - e) les services spécialisés;
+- f) le service.
 
-- f) le Service.
+<sup>2</sup> Ils peuvent obtenir ces prestations sans autorisation préalable du service. Demeure réservée la question du financement.
 
-<sup>2</sup> Ils peuvent obtenir ces prestations sans autorisation préalable du Service. Demeure réservée la question du financement.
-
-### Section 2: Obligations
+### 3.2 Obligations
 
 #### Art. 15
 
 **Prestations**
 
-L'organisme chargé de fournir des prestations éducatives en milieu ouvert s'engage:
+<sup>1</sup> L'organisme chargé de fournir des prestations éducatives en milieu ouvert s'engage:
 
 - a) à suivre l'enfant dans la perspective de favoriser son intégration familiale, scolaire, professionnelle ou sociale, tout en développant son autonomie;
-
 - b) à mobiliser, dans la mesure du possible, l'entourage familial proche et/ou élargi de l'enfant afin que dans les meilleurs délais un relais naturel fiable puisse succéder au suivi spécialisé;
-
 - c) à travailler en étroite concertation et collaboration avec tous les partenaires qui oeuvrent dans le même champ d'activité.
 
 #### Art. 16
 
 **Formation**
 
-Les professionnels chargés de fournir des prestations éducatives en milieu ouvert doivent être au bénéfice d'une formation appropriée, attestée notamment par un diplôme en travail social, en éducation spécialisée ou dans un domaine jugé équivalent par le Département. Ils ont l'obligation de se tenir au courant de l'évolution théorique et pratique de la profession.
+<sup>1</sup> Les professionnels chargés de fournir des prestations éducatives en milieu ouvert doivent être au bénéfice d'une formation appropriée, attestée notamment par un diplôme en travail social, en éducation spécialisée ou dans un domaine jugé équivalent par le département. Ils ont l'obligation de se tenir au courant de l'évolution théorique et pratique de la profession.
 
 #### Art. 17
 
@@ -274,9 +299,7 @@ Les professionnels chargés de fournir des prestations éducatives en milieu ouv
 
 <sup>2</sup> Les collaborateurs dépendant d'un organisme privé sont tenus de garder confidentielles les informations obtenues dans l'exercice de leur activité, à l'exception des cas où les personnes concernées les en délient. Cette obligation vaut également après la fin des rapports de travail.
 
-<sup>3</sup> La participation du collaborateur à l'établissement des faits dans une procédure civile ou pénale n'est pas soumise aux alinéas 1 et 2 du présent article. Ses droits et obligations relèvent du code de procédure civile suisse ou du code de procédure pénale suisse.[^17-1]
-
-[^17-1]: Nouvelle teneur selon l'art. 10 ch. 16 de la loi BO No 26/2010 1.01.2011 d'application du code de procédure civile suisse (LACPC) du 11.02.2009
+<sup>3</sup> La participation du collaborateur à l'établissement des faits dans une procédure civile ou pénale n'est pas soumise aux alinéas 1 et 2 du présent article. Ses droits et obligations relèvent du code de procédure civile suisse ou du code de procédure pénale suisse.
 
 #### Art. 18
 
@@ -296,7 +319,7 @@ Les professionnels chargés de fournir des prestations éducatives en milieu ouv
 
 <sup>2</sup> Le dossier au nom de l'enfant ou du jeune est conservé jusqu'au moment où il a atteint sa majorité. Dans tous les cas, il doit s'être écoulé au moins dix ans entre la dernière intervention et la destruction du dossier.
 
-### Section 3: Financement
+### 3.3 Financement
 
 #### Art. 20
 
@@ -310,47 +333,39 @@ Les professionnels chargés de fournir des prestations éducatives en milieu ouv
 
 **Aide des pouvoirs publics**
 
-Lorsque la demande d'aide est adressée au Service celui-ci accepte d'entrer en matière aux conditions suivantes:
+<sup>1</sup> Lorsque la demande d'aide est adressée au service celui-ci accepte d'entrer en matière aux conditions suivantes:
 
 - a) un rapport écrit démontre la nécessité de prestations éducatives en milieu ouvert;
-
-- b) les conditions de l'art. 12 al. 3 sont respectées;
-
-- c) le Service ne dispose pas des ressources pour intervenir lui-même;
-
-- d) les disponibilités budgétaires du Service le permettent;
-
+- b) les conditions de l'article 12 alinéa 3 sont respectées;
+- c) le service ne dispose pas des ressources pour intervenir lui-même;
+- d) les disponibilités budgétaires du service le permettent;
 - e) la commune concernée a accordé la garantie financière pour les frais qui n'incombent pas au canton.
 
 #### Art. 22
 
-**Mandats du Service**
+**Mandats du service**
 
-<sup>1</sup> Les coûts des mandats confiés par le Service ou le Tribunal des mineurs à l'organisme privé autorisé sont pris en charge jusqu'à hauteur de 65 pour cent par le Service et le solde par l'enfant ou ses parents. A défaut, ces montants sont pris en charge par les corporations responsables selon l'art. 17 de la loi sur l'intégration et l'aide sociale.
+<sup>1</sup> Les coûts des mandats confiés par le service ou le Tribunal des mineurs à l'organisme privé autorisé sont pris en charge jusqu'à hauteur de 65 pour cent par le service et le solde par l'enfant ou ses parents. A défaut, ces montants sont pris en charge par les corporations responsables selon la loi sur l'intégration et l'aide sociale.
 
 <sup>2</sup> La collaboration et les modalités de financement sont réglées par une convention entre le Conseil d'Etat et l'organisme privé autorisé.
 
-### Section 4: Assistance éducative et curatelle éducative
+### 3.4 Assistance éducative et curatelle éducative
 
-[^hSection4Assistanc-1]: Modification du 21.12.2011 BO No 52/2011 1.01.2012
+#### Art. 22a
 
-#### Art. 22bis
+**Principes et mode de financement**
 
-**, <sup>7</sup> Principes et mode de financement**[^hSection4Assistanc-1]
+<sup>1</sup> Lorsqu'un mandat d'assistance éducative ou curatelle éducative est confié à l'office compétent par l'autorité de protection de l'enfant et de l'adulte (APEA), un forfait de 300 francs mensuel par enfant ou fratrie est facturé une fois par année par l'office compétent à la commune de domicile de l'enfant.
 
-<sup>1</sup> Lorsqu'un mandat d'assistance éducative ou curatelle éducative est confié à l'office compétent par l'autorité de protection de l'enfant et de l'adulte (APEA), un forfait de 300 francs mensuel par enfant ou fratrie est facturé une fois par année par l'office compétent à la commune de domicile de l'enfant.[^22bis-1]
+<sup>2</sup> En cas de changement de domicile de l'enfant dans le courant de l'année, l'ancienne commune de domicile demeure responsable du coût de la mesure jusqu'au terme de l'année civile. La nouvelle commune de domicile est responsable du coût de la mesure dès le 1<sup>er</sup> janvier de l'année suivante.
 
-<sup>2</sup> En cas de changement de domicile de l'enfant dans le courant de l'année, l'ancienne commune de domicile demeure responsable du coût de la mesure jusqu'au terme de l'année civile. La nouvelle commune de domicile est responsable du coût de la mesure dès le 1er janvier de l'année suivante.[^22bis-1]
+<sup>3</sup> La facturation du forfait débute dès la réception du mandat à l'Office compétent transmis par l'APEA. La date de la notification de la décision de levée de la mesure par l'APEA à l'office compétent détermine la fin de la facturation.
 
-<sup>3</sup> La facturation du forfait débute dès la réception du mandat à l'Office compétent transmis par l'APEA. La date de la notification de la décision de levée de la mesure par l'APEA à l'office compétent détermine la fin de la facturation.[^22bis-1]
+<sup>4</sup> Le coût du mandat confié à l'office compétent est supporté en principe dans sa totalité par la commune de domicile de l'enfant lorsqu'il s'agit d'une mesure d'assistance éducative au sens de l'article 307 alinéa 3 CC et d'une curatelle éducative au sens de l'article 308 alinéa 1 CC.
 
-<sup>4</sup> Le coût du mandat confié à l'office compétent est supporté en principe dans sa totalité par la commune de domicile de l'enfant lorsqu'il s'agit d'une mesure d'assistance éducative au sens de l'article 307 al. 3 du Code civil Suisse et d'une curatelle éducative au sens de l'article 308 al. 1 du Code civil Suisse.[^22bis-1]
+<sup>5</sup> Lorsque l'APEA ordonne une curatelle de surveillance des relations personnelles aux sens de l'article 308 alinéa 2 CC et que cette mesure doit être ordonnée notamment en raison du conflit existant entre les parents, l'APEA peut fixer une participation du ou des parent(s) aux frais de la mesure qui ne peut pas excéder en principe 100 francs par mois.
 
-<sup>5</sup> Lorsque l'APEA ordonne une curatelle de surveillance des relations personnelles aux sens de l'article 308 al. 2 du Code civil Suisse et que cette mesure doit être ordonnée notamment en raison du conflit existant entre les parents, l'APEA peut fixer une participation du ou des parent(s) aux frais de la mesure qui ne peut pas excéder en principe 100 francs par mois.[^22bis-1]
-
-[^22bis-1]: Modification du 14 janvier 2015 BO No 4/2015 01.01.2015
-
-### Chapitre 4: Exercice des relations personnelles surveillées
+## 4 Exercice des relations personnelles surveillées
 
 #### Art. 23
 
@@ -359,14 +374,13 @@ Lorsque la demande d'aide est adressée au Service celui-ci accepte d'entrer en 
 <sup>1</sup> Un droit de visite surveillé peut être organisé pour le parent non gardien lorsque notamment:
 
 - a) il existe un conflit important entre les parents;
-
 - b) lorsque la situation peut faire craindre des risques pour l'enfant (violence, alcoolisme, toxicomanie, abus sexuels, risques d'enlèvement).
 
 <sup>2</sup> Un organisme privé reconnu peut être chargé d'organiser les relations personnelles surveillées.
 
-<sup>3</sup> Lorsque ce mandat est délégué à un organisme privé, celui-ci doit prendre la forme d'une association constituée selon les art. 60 et suivants du CCS, laquelle assume les risques inhérents à son activité.
+<sup>3</sup> Lorsque ce mandat est délégué à un organisme privé, celui-ci doit prendre la forme d'une association constituée selon les articles 60 et suivants CC, laquelle assume les risques inhérents à son activité.
 
-<sup>4</sup> L'autorisation d'assumer ce type de mandat est donnée par le Département.
+<sup>4</sup> L'autorisation d'assumer ce type de mandat est donnée par le département.
 
 <sup>5</sup> L'autorisation ne peut être délivrée que si la reconnaissance d'un besoin est mise en évidence.
 
@@ -374,153 +388,129 @@ Lorsque la demande d'aide est adressée au Service celui-ci accepte d'entrer en 
 
 **Prestations**
 
-L'organisme chargé d'organiser des relations personnelles surveillées s'engage:
+<sup>1</sup> L'organisme chargé d'organiser des relations personnelles surveillées s'engage:
 
 - a) à assurer la sécurité des visites;
-
 - b) à mettre en oeuvre un soutien et une aide dans la reprise de contact et/ou le maintien des relations personnelles entre le parent non gardien et son enfant;
-
 - c) à favoriser la reprise autonome des relations personnelles;
-
 - d) à travailler en étroite concertation et collaboration avec tous les partenaires qui oeuvrent dans le même champ d'activité.
 
 #### Art. 25
 
 **Formation**
 
-Les professionnels en charge d'organiser des relations personnelles surveillées doivent être au bénéfice d'une formation appropriée, attestée notamment par un diplôme en éducation spécialisée ou dans un domaine jugé équivalent par le Département. Ils ont l'obligation de se tenir au courant de l'évolution théorique et pratique de la profession.
+<sup>1</sup> Les professionnels en charge d'organiser des relations personnelles surveillées doivent être au bénéfice d'une formation appropriée, attestée notamment par un diplôme en éducation spécialisée ou dans un domaine jugé équivalent par le département. Ils ont l'obligation de se tenir au courant de l'évolution théorique et pratique de la profession.
 
 #### Art. 26
 
 **Devoir de discrétion, devoir de signalement et dossiers**
 
-Les articles 17, 18 et 19 s'appliquent.
+<sup>1</sup> Les articles 17, 18 et 19 s'appliquent.
 
 #### Art. 27
 
 **Financement**
 
-<sup>1</sup> Lors d'une décision judiciaire ou tutélaire d'instaurer un droit de visite surveillé, les coûts reconnus par le Département des mandats confiés à un organisme privé peuvent être pris en charge jusqu'à hauteur de 65 pour cent par le Service. Le solde est pris en charge par l'enfant ou ses parents, à défaut ces montants sont pris en charge par les corporations responsables, selon l'art. 17 de la loi sur l'intégration et l'aide sociale.
+<sup>1</sup> Lors d'une décision judiciaire ou tutélaire d'instaurer un droit de visite surveillé, les coûts reconnus par le département des mandats confiés à un organisme privé peuvent être pris en charge jusqu'à hauteur de 65 pour cent par le service. Le solde est pris en charge par l'enfant ou ses parents, à défaut ces montants sont pris en charge par les corporations responsables, selon la loi sur l'intégration et l'aide sociale.
 
 <sup>2</sup> Les personnes, les instances et les services qui recourent aux prestations de cet organisme en assument eux-mêmes les coûts, lesquels sont fixés selon entente avec les partenaires.
 
-<sup>3</sup> Un contrat de prestations peut être passé avec l'organisme privé et le Département.
+<sup>3</sup> Un contrat de prestations peut être passé avec l'organisme privé et le département.
 
-### Chapitre 5: Placements d'enfants à la journée (art. 31 et 33 LJe)
+## 5 Placements d'enfants à la journée (art. 31 et 33 LJe)
 
-### Section 1: Définition des structures d'accueil
+### 5.1 Définition des structures d'accueil
 
 #### Art. 28
 
 **Définition des structures d'accueil à temps d'ouverture élargi**
 
-<sup>1</sup> La dénomination « structure d'accueil à temps d'ouverture élargi » indique que ce lieu est ouvert généralement un minimum de 4 heures consécutives à 12 heures maximum par jour.
+<sup>1</sup> La dénomination "structure d'accueil à temps d'ouverture élargi" indique que ce lieu est ouvert généralement un minimum de 4 heures consécutives à 12 heures maximum par jour.
 
 <sup>2</sup> Il s'agit des structures d'accueil suivantes:
 
-- a) la nursery : accueil des bébés de 1 à 18 mois;
-
-- b) la crèche : accueil des enfants de 18 mois à 6 ans;
-
-- c) la garderie : accueil des enfants de 18 mois à 6 ans;
-
-- d) l'unité d'accueil pour écoliers (UAPE) : accueil des écoliers de l'école enfantine et primaire.
+- a) la nursery: accueil des bébés de 1 à 18 mois;
+- b) la crèche: accueil des enfants de 18 mois à 6 ans;
+- c) la garderie: accueil des enfants de 18 mois à 6 ans;
+- d) l'unité d'accueil pour écoliers (UAPE): accueil des écoliers de l'école enfantine et primaire.
 
 #### Art. 29
 
 **Définition des structures d'accueil à temps d'ouverture restreint**
 
-<sup>1</sup> La dénomination « structure d'accueil à temps d'ouverture restreint » indique que ce lieu est ouvert généralement un maximum de 4 heures consécutives par jour et un maximum de 12 heures par semaine.
+<sup>1</sup> La dénomination "structure d'accueil à temps d'ouverture restreint" indique que ce lieu est ouvert généralement un maximum de 4 heures consécutives par jour et un maximum de 12 heures par semaine.
 
 <sup>2</sup> Il s'agit des structures d'accueil suivantes:
 
-- a) le jardin d'enfants : accueil des enfants de 3 ans jusqu'à l'âge de la scolarité obligatoire;
-
-- b) la halte-garderie ou halte-jeux : accueil des enfants de 2 à 8 ans.
+- a) le jardin d'enfants: accueil des enfants de 3 ans jusqu'à l'âge de la scolarité obligatoire;
+- b) la halte-garderie ou halte-jeux: accueil des enfants de 2 à 8 ans.
 
 #### Art. 30
 
 **Intégration d'enfants présentant un handicap**
 
-Le Département peut soutenir l'intégration dans les structures définies aux art. 25 et 26 d'enfants présentant un handicap.
+<sup>1</sup> Le département peut soutenir l'intégration dans les structures définies aux art. 25 et 26 d'enfants présentant un handicap.
 
-### Section 2: Autorisation et surveillance
+### 5.2 Autorisation et surveillance
 
 #### Art. 31
 
-Critères d'autorisation pour les structures d'accueil à temps d'ouverture élargi et restreint
+**Critères d'autorisation pour les structures d'accueil à temps d'ouverture élargi et restreint**
 
 <sup>1</sup> Ces structures d'accueil doivent disposer, en fonction de l'offre de garde proposée et de la durée de séjour, d'un personnel et d'un équipement matériel adéquats.
 
-<sup>2</sup> Une directive du Département définit le nombre de postes requis pour l'encadrement ainsi que l'équipement et le matériel nécessaires.
+<sup>2</sup> Une directive du département définit le nombre de postes requis pour l'encadrement ainsi que l'équipement et le matériel nécessaires.
 
 #### Art. 32
 
-Critères d'autorisation pour les structures d'accueil en région touristique
+**Critères d'autorisation pour les structures d'accueil en région touristique**
 
 <sup>1</sup> Les structures d'accueil exploitées dans des régions touristiques doivent disposer, en fonction de l'offre de garde proposée et de leur temps d'ouverture, d'un nombre suffisant de personnes pour l'encadrement et d'un équipement matériel adéquat.
 
-<sup>2</sup> Une directive du Département définit le nombre de postes requis pour l'encadrement ainsi que l'équipement et le matériel nécessaires.
+<sup>2</sup> Une directive du département définit le nombre de postes requis pour l'encadrement ainsi que l'équipement et le matériel nécessaires.
 
 #### Art. 33
 
-Critères d'autorisation pour les structures d'accueil liées à une activité culturelle ou commerciale
+**Critères d'autorisation pour les structures d'accueil liées à une activité culturelle ou commerciale**
 
 <sup>1</sup> Les structures notamment liées à une activité culturelle (foire, exposition ou autre) ainsi que la halte-garderie ou halte-jeux d'un centre sportif ou de loisirs doivent disposer d'un nombre suffisant de personnes pour l'encadrement et d'un équipement matériel adéquat en fonction du type d'accueil proposé.
 
 <sup>2</sup> Les haltes-garderies des centres commerciaux ouvertes durant la journée sont soumises aux mêmes critères d'autorisation que les garderies à temps d'ouverture élargi.
 
-<sup>3</sup> Une directive du Département définit le nombre de postes requis pour l'encadrement ainsi que l'équipement et le matériel nécessaires.
+<sup>3</sup> Une directive du département définit le nombre de postes requis pour l'encadrement ainsi que l'équipement et le matériel nécessaires.
 
 #### Art. 34
 
-Procédure d'autorisation d'une structure d'accueil à temps d'ouverture élargi
+**Procédure d'autorisation d'une structure d'accueil à temps d'ouverture élargi**
 
 <sup>1</sup> Toute demande d'autorisation d'exploiter une structure d'accueil à temps d'ouverture élargi doit être accompagnée des documents suivants:
 
 - a) la motivation écrite de la demande avec étude des besoins;
-
 - b) le nom de l'exploitant de la structure s'il s'agit d'une personne physique ou le nom du président de l'organe de direction, la liste des membres du comité et les statuts s'il s'agit d'une personne morale;
-
 - c) le nom, les buts de l'institution et ses heures d'ouverture;
-
 - d) le nombre et l'âge des enfants;
-
 - e) le projet pédagogique;
-
 - f) le ou les diplômes des responsables;
-
 - g) l'effectif et la formation du personnel ainsi qu'une copie des diplômes;
-
 - h) l'organisation financière: le budget d'investissement, le budget prévisionnel de fonctionnement, les tarifs;
-
 - i) le plan des locaux et leur aménagement ainsi que l'autorisation de construction;
-
 - j) le préavis positif de la part des services cantonaux tel que prévu dans le formulaire de demande d'autorisation;
-
-- k) un extrait du casier judiciaire de toute personne exerçant une activité impliquant un contact régulier avec des mineurs.[^34-1]
+- k) un extrait du casier judiciaire de toute personne exerçant une activité impliquant un contact régulier avec des mineurs établi six mois au plus avant le dépôt de la demande.
 
 <sup>2</sup> La structure doit notamment respecter les prescriptions en matière de police des constructions, du feu, d'hygiène, des denrées alimentaires.
 
-[^34-1]: Modification du 2 novembre 2016 BO No 46/2016 15.12.2016
-
 #### Art. 35
 
-Procédure d'autorisation pour une structure d'accueil à temps d'ouverture restreint
+**Procédure d'autorisation pour une structure d'accueil à temps d'ouverture restreint**
 
 <sup>1</sup> Toute demande d'autorisation d'exploiter une structure d'accueil à temps d'ouverture restreint doit être accompagnée des documents suivants:
 
 - a) le nom de l'exploitant de la structure s'il s'agit d'une personne physique ou le nom du président de l'organe de direction, la liste des membres du comité et les statuts s'il s'agit d'une personne morale;
-
 - b) le plan des locaux et leur l'aménagement;
-
 - c) le nombre et l'âge des enfants;
-
 - d) le nom, les buts de l'institution et ses heures d'ouverture;
-
 - e) le préavis positif de la part des services cantonaux tel que prévu dans le formulaire de demande d'autorisation;
-
-- f) un extrait du casier judiciaire et une attestation de bonnes moeurs de l'exploitant.
+- f) un extrait du casier judiciaire de toute personne exerçant une activité impliquant un contact régulier avec des mineurs établi six mois au plus avant le dépôt de la demande.
 
 <sup>2</sup> La structure doit notamment respecter les prescriptions en matière de police des constructions, du feu, d'hygiène et des denrées alimentaires.
 
@@ -528,7 +518,7 @@ Procédure d'autorisation pour une structure d'accueil à temps d'ouverture rest
 
 **Autorisation**
 
-<sup>1</sup> L'autorisation d'exploiter une structure d'accueil à temps d'ouverture élargi ou à temps d'ouverture restreint est délivrée par le Service.
+<sup>1</sup> L'autorisation d'exploiter une structure d'accueil à temps d'ouverture élargi ou à temps d'ouverture restreint est délivrée par le service.
 
 <sup>2</sup> Elle peut être délivrée à titre d'essai (autorisation provisoire), limitée dans le temps ou assortie de conditions.
 
@@ -538,72 +528,61 @@ Procédure d'autorisation pour une structure d'accueil à temps d'ouverture rest
 
 **Durée de l'autorisation**
 
-En principe, l'autorisation est délivrée pour une durée de cinq ans. L'autorisation peut être renouvelée si les conditions de son octroi sont toujours remplies.
+<sup>1</sup> En principe, l'autorisation est délivrée pour une durée de cinq ans. L'autorisation peut être renouvelée si les conditions de son octroi sont toujours remplies.
 
 #### Art. 38
 
 **Devoir d'information**
 
-Toute modification relative aux conditions d'octroi de l'autorisation doit être communiquée sans retard au Département.
+<sup>1</sup> Toute modification relative aux conditions d'octroi de l'autorisation doit être communiquée sans retard au département.
 
 #### Art. 39
 
 **Surveillance**
 
-<sup>1</sup> Le Service est chargé de la surveillance. Celle-ci concerne:
+<sup>1</sup> Le service est chargé de la surveillance. Celle-ci concerne:
 
 - a) le contrôle des conditions de base de l'autorisation;
-
 - b) la qualité de l'encadrement éducatif.
 
-<sup>2</sup> Le Département peut déléguer aux communes le contrôle des conditions de base de l'autorisation.
+<sup>2</sup> Le département peut déléguer aux communes le contrôle des conditions de base de l'autorisation.
 
-<sup>3</sup> Une directive du Département précise les critères soumis au contrôle.
+<sup>3</sup> Une directive du département précise les critères soumis au contrôle.
 
-### Section 3: Accueil familial à la journée
+### 5.3 Accueil familial à la journée
 
 #### Art. 40
 
 **Définition de l'accueil familial à la journée**
 
-L'accueil familial à la journée est un accueil qui s'effectue à domicile soit:
+<sup>1</sup> L'accueil familial à la journée est un accueil qui s'effectue à domicile soit:
 
 - a) par un parent d'accueil;
-
 - b) par un professionnel diplômé de la petite enfance (nursery à domicile, garderie à domicile, crèche à domicile);
-
-- c) par un professionnel diplômé dans le domaine éducatif ou pédagogique ou d'une formation jugée équivalente par le Département (unité d'accueil pour écoliers à domicile).
+- c) par un professionnel diplômé dans le domaine éducatif ou pédagogique ou d'une formation jugée équivalente par le département (unité d'accueil pour écoliers à domicile).
 
 #### Art. 41
 
-<sup>7</sup> Autorisation et surveillance
+**Autorisation et surveillance**
 
-<sup>1</sup> Les parents désirant accueillir un ou plusieurs enfants à la journée doivent être au bénéfice d'une autorisation d'accueil délivré par le canton ou par un organisme reconnu par celui-ci.[^41-1]
+<sup>1</sup> Les parents désirant accueillir un ou plusieurs enfants à la journée doivent être au bénéfice d'une autorisation d'accueil délivré par le canton ou par un organisme reconnu par celui-ci.
 
-<sup>2</sup> Le Département peut passer une convention ou un contrat de prestations avec la fédération qui regroupe l'ensemble des associations reconnues auprès desquelles les parents d'accueil à la journée doivent être engagés.[^41-1]
+<sup>2</sup> Le département peut passer une convention ou un contrat de prestations avec la fédération qui regroupe l'ensemble des associations reconnues auprès desquelles les parents d'accueil à la journée doivent être engagés.
 
-<sup>3</sup> Une directive du Département définit les conditions à remplir pour ce type d'accueil.
+<sup>3</sup> Une directive du département définit les conditions à remplir pour ce type d'accueil.
 
-[^41-1]: Modification du 14 janvier 2015 BO No 4/2015 01.01.2015
-
-### Section 4: Participation cantonale au financement des réseaux
-
-d'accueil à la journée (art. 33 LJe)
+### 5.4 Participation cantonale au financement des réseaux d'accueil à la journée (art. 33 LJe)
 
 #### Art. 42
 
-<sup>1</sup> Principes
+**Principes**
 
 <sup>1</sup> Le canton participe au financement des réseaux d'accueil extra-familial pour les enfants de la naissance jusqu'à la fin de la scolarité primaire lorsque:
 
 - a) la structure répond aux critères des structures à temps d'ouverture élargi fixés dans les directives en la matière;
-
-- b) le réseau d'accueil a été autorisé par le Service;
-
+- b) le réseau d'accueil a été autorisé par le service;
 - c) un contrat de prestations a été passé entre le réseau d'accueil et le canton;
-
 - d) le réseau d'accueil répond aux besoins d'accueil de la commune ou du groupement de communes;
-
 - e) le réseau d'accueil est en principe constitué sous la forme de personnes morales et ne poursuit aucun but lucratif ou est géré par des collectivités publiques.
 
 <sup>2</sup> L'aide financière cantonale n'est allouée que si les collectivités locales de droit public, des employeurs ou des tiers autres que les parents fournissent une participation financière appropriée.
@@ -612,27 +591,31 @@ d'accueil à la journée (art. 33 LJe)
 
 **Participation aux salaires**
 
-<sup>1</sup> Le canton participe financièrement à 30 pour cent des salaires du personnel éducatif.
+<sup>1</sup> Le canton participe financièrement entre 30 et 35 pour cent des salaires du personnel éducatif ainsi que du salaire de la personne responsable de la structure, pour autant que cette dernière assume également des tâches éducatives.
 
-<sup>2</sup> Le canton participe à raison de 30 pour cent au salaire de la personne responsable de la structure, pour autant que celle-ci assume également des tâches éducatives.
+<sup>2</sup> Le Conseil d’Etat arrête par décision les taux exacts de subventionnement mentionnés à l'alinéa 1 du présent article.
 
-<sup>3</sup> Une décision du Conseil d'Etat publiée dans le Bulletin officiel précise les formations, la liste des écoles publiques, semi-publiques et privées reconnues ainsi que l'échelle salariale prise en compte pour le calcul de la participation du canton.
+<sup>2<sup>bis</sup></sup> Les employeurs qui n’appliquent pas la grille de subventionnement des directives pour l'accueil à la journée des enfants de la naissance jusqu'à la fin de la scolarité primaire bénéficient d’un subventionnement de 30 pour cent maximum, le taux excédant ces 30 pour cent est versé uniquement aux employeurs qui utilisent cette grille de subventionnement, pour l’ensemble du personnel éducatif.
+
+<sup>3</sup> Une décision du Conseil d'Etat publiée dans le Bulletin officiel précise les formations, la liste des écoles publiques, semi-publiques et privées reconnues, l'échelle salariale ainsi que le taux excédant les 30 pour cent pris en compte pour le calcul de la participation du canton.
+
+#### Art. 43a
+
+**…**
 
 #### Art. 44
 
-<sup>4</sup> Participation au matériel éducatif
+**Participation au matériel éducatif**
 
-<sup>1</sup> Le canton prend en charge un forfait de 30 francs par place d’accueil pour l’achat et renouvellement du matériel éducatif reconnu. Ce montant forfaitaire sera adapté à l’évolution du coût de la vie.[^44-1]
+<sup>1</sup> Le canton prend en charge un forfait de 30 francs par place d’accueil pour l’achat et renouvellement du matériel éducatif reconnu. Ce montant forfaitaire sera adapté à l’évolution du coût de la vie.
 
 <sup>2</sup> Le canton pourra effectuer des contrôles afin de s’assurer que le forfait en question soit alloué à l’achat de matériel éducatif.
-
-[^44-1]: Modification du 16 avril 2014 BO No 17/2014 01.01.2014
 
 #### Art. 45
 
 **Réseaux d'accueil familial à la journée**
 
-<sup>1</sup> Le Département peut passer une convention ou un contrat de prestations avec une fédération valaisanne d'accueil familial à la journée afin de lui déléguer la surveillance et l'évaluation des familles d'accueil.
+<sup>1</sup> Le département peut passer une convention ou un contrat de prestations avec une fédération valaisanne d'accueil familial à la journée afin de lui déléguer la surveillance et l'évaluation des familles d'accueil.
 
 <sup>2</sup> Le canton prend en charge le 30 pour cent du salaire des personnes exerçant l'activité de parent d'accueil à la journée.
 
@@ -642,15 +625,11 @@ d'accueil à la journée (art. 33 LJe)
 
 <sup>5</sup> Une décision du Conseil d'Etat publiée au Bulletin officiel précise les salaires horaires, les formations reconnues, l'échelle salariale des coordinateurs prise en compte pour le calcul de la participation du canton, ainsi que les modalités de financement.
 
-<sup>6</sup> Le canton prend en charge un forfait de 25 francs par année et par parent d'accueil pour l'achat et renouvellement du matériel éducatif reconnu. Ce montant forfaitaire sera adapté à l'évolution du coût de la vie et sera versé à la Fédération valaisanne de l'accueil familial de jour.[^45-1]
+<sup>6</sup> Le canton prend en charge un forfait de 25 francs par année et par parent d'accueil pour l'achat et renouvellement du matériel éducatif reconnu. Ce montant forfaitaire sera adapté à l'évolution du coût de la vie et sera versé à la Fédération valaisanne de l'accueil familial de jour.
 
-<sup>7</sup> Le canton pourra effectuer des contrôles afin de s'assurer que le forfait en question soit alloué à l'achat de matériel éducatif.[^45-1]
+<sup>7</sup> Le canton pourra effectuer des contrôles afin de s'assurer que le forfait en question soit alloué à l'achat de matériel éducatif.
 
-[^45-1]: Modification du 2 novembre 2016 BO No 46/2016 15.12.2016
-
-### Chapitre 6: Placements avec hébergement auprès de familles
-
-d'accueil (art. 34 LJe)
+## 6 Placements avec hébergement auprès de familles d'accueil (art. 34 LJe)
 
 #### Art. 46
 
@@ -658,143 +637,149 @@ d'accueil (art. 34 LJe)
 
 <sup>1</sup> Lorsque le développement d'un enfant est entravé ou en danger de l'être et qu'il n'est pas possible de le protéger et de lui venir en aide par d'autres mesures, notamment par des mesures ambulatoires, il peut être placé dans une famille d'accueil ou dans une famille d'accueil professionnelle.
 
-<sup>2</sup> Le Service peut procurer à ces familles un soutien notamment sous la forme d'une formation de vase et d'un perfectionnement.
+<sup>2</sup> Le service peut procurer à ces familles un soutien notamment sous la forme d'une formation de base et d'un perfectionnement.
 
 <sup>3</sup> Pour les placements non décidés par une autorité judiciaire ou tutélaire, une garantie financière préalable commune de domicile de l'enfant doit être requise. Demeurent réservés les cas d'urgence.
 
-#### Art. 46 bis
+#### Art. 46a
 
-<sup>7</sup> Conditions pour les prestations fournies dans le cadre du
+**Conditions pour les prestations fournies dans le cadre du placement chez les familles d'accueil**
 
-placement chez les familles d'accueil
+<sup>1</sup> Est tenue de s'annoncer auprès du service ou de l'autorité cantonale, où se trouve le siège principal, et de se soumettre à la surveillance de celui-ci, toute personne morale qui fournit des prestations dans le cadre du placement d'enfant auprès de familles d'accueil (prestataire), contre rémunération ou non, et notamment:
 
-<sup>1</sup> Est tenue de s'annoncer auprès du Service ou de l'autorité cantonale, où se trouve le siège principal, et de se soumettre à la surveillance de celui-ci, toute personne morale qui fournit des prestations dans le cadre du placement d'enfant auprès de familles d'accueil (prestataire), contre rémunération ou non, et notamment:[^46bis-1] a) place des enfants dans des familles d'accueil;[^46bis-1] b) assure un suivi socio-pédagogique du lien nourricier[^46bis-1] c) donne une formation de base et une formation complémentaire aux familles d'accueil ou[^46bis-1] d) dispense conseils et thérapies aux enfants placés.[^46bis-1]
+- a) place des enfants dans des familles d'accueil;
+- b) assure un suivi socio-pédagogique du lien nourricier;
+- c) donne une formation de base et une formation complémentaire aux familles d'accueil, ou
+- d) dispense conseils et thérapies aux enfants placés.
 
-<sup>2</sup> L'annonce doit être accompagnée au minimum des indications et des justificatifs mentionnés à l'art. 20b de l'Ordonnance fédérale du 19 octobre 1977 réglant le placement d'enfants (ci-après Ordonnance fédérale).[^46bis-1]
+<sup>2</sup> L'annonce doit être accompagnée au minimum des indications et des justificatifs mentionnés à l'article 20b de l'ordonnance fédérale réglant le placement d'enfants du 19 octobre 1977 (OPE; ci-après: ordonnance fédérale).
 
-<sup>3</sup> Le prestataire communique en temps utile et de sa propre initiative au Service et de l'autorité cantonale, où se trouve le siège principal, toute modification importante de son activité, et notamment des éléments relevant de son obligation de s'annoncer.[^46bis-1]
+<sup>3</sup> Le prestataire communique en temps utile et de sa propre initiative au service et de l'autorité cantonale, où se trouve le siège principal, toute modification importante de son activité, et notamment des éléments relevant de son obligation de s'annoncer.
 
-<sup>4</sup> Le prestataire doit avoir au moins un représentant présent dans le canton du Valais afin de pouvoir intervenir dans l'heure et apporter un soutien suffisant aux familles d'accueil domiciliées en Valais.[^46bis-1]
+<sup>4</sup> Le prestataire doit avoir au moins un représentant présent dans le canton du Valais afin de pouvoir intervenir dans l'heure et apporter un soutien suffisant aux familles d'accueil domiciliées en Valais.
 
-<sup>5</sup> Il fournit annuellement au Service une liste des familles d'accueil avec lesquelles il collabore ainsi que des enfants qui y sont placés. La liste contient au minimum les informations mentionnées à l'art. 20d de l'Ordonnance fédérale.[^46bis-1]
+<sup>5</sup> Il fournit annuellement au service une liste des familles d'accueil avec lesquelles il collabore ainsi que des enfants qui y sont placés. La liste contient au minimum les informations mentionnées à l'art. 20d de l'ordonnance fédérale.
 
-<sup>6</sup> Le prestataire fait l'objet d'une surveillance par le Service ou de l'autorité cantonale, où se trouve le siège principal.[^46bis-1]
-
-[^46bis-1]: Modification du 14 janvier 2015 BO No 4/2015 01.01.2015
+<sup>6</sup> Le prestataire fait l'objet d'une surveillance par le service ou de l'autorité cantonale, où se trouve le siège principal.
 
 #### Art. 47
 
-<sup>7</sup> Autorisation de placement
+**Autorisation de placement**
 
-<sup>1</sup> Tout placement effectué auprès d'une famille d'accueil ou d'une famille d'accueil professionnelle doit être autorisé dans les 10 jours au plus tard par écrit par le Service.[^47-1]
+<sup>1</sup> Tout placement effectué auprès d'une famille d'accueil ou d'une famille d'accueil professionnelle doit être autorisé dans les 10 jours au plus tard par écrit par le service.
 
 <sup>2</sup> L'autorisation mentionne le nom et le prénom de l'enfant, la filiation, le domicile légal, l'identité et l'adresse de la famille d'accueil, la date du début du placement ainsi que sa durée probable, la ou les personnes/instances responsables du paiement des factures.
 
-<sup>3</sup> Les placements sous la forme d'un accueil familial peuvent exceptionnellement être autorisés pour des enfants domiciliés hors du territoire cantonal, lorsqu'il existe un lien familial proche ou un lien préexistant durable ou lors d'un placement en vue d'une adoption.[^47-1]
+<sup>3</sup> Les placements sous la forme d'un accueil familial peuvent exceptionnellement être autorisés pour des enfants domiciliés hors du territoire cantonal, lorsqu'il existe un lien familial proche ou un lien préexistant durable ou lors d'un placement en vue d'une adoption.
 
-<sup>4</sup> Les familles d'accueil ou familles d'accueil professionnelles sont également tenues d'annoncer au Service en temps utile l'accueil d'enfant domicilié dans un autre canton.[^47-1]
+<sup>4</sup> Les familles d'accueil ou familles d'accueil professionnelles sont également tenues d'annoncer au service en temps utile l'accueil d'enfant domicilié dans un autre canton.
 
-[^47-1]: Modification du 14 janvier 2015 BO No 4/2015 01.01.2015
-
-### Section 1: Familles d'accueil
+### 6.1 Familles d'accueil
 
 #### Art. 48
 
-<sup>7</sup> Définition
+**Définition**
 
-Par famille d'accueil, il faut entendre toute famille dont le ou les parent(s) accueille(nt) dans son (leur) foyer au maximum deux enfants dont le développement est entravé ou en danger de l'être, exceptionnellement le nombre d'enfants peut être dépassé en cas de fratrie.
+<sup>1</sup> Par famille d'accueil, il faut entendre toute famille dont le ou les parent(s) accueille(nt) dans son(leur) foyer au maximum deux enfants dont le développement est entravé ou en danger de l'être, exceptionnellement le nombre d'enfants peut être dépassé en cas de fratrie.
 
 #### Art. 49
 
-<sup>7</sup> Autorisation et surveillance
+**Autorisation et surveillance**
 
-<sup>1</sup> Les familles d'accueil doivent être au bénéfice d'une autorisation d'accueil délivrée par le Service.[^49-1]
+<sup>1</sup> Les familles d'accueil doivent être au bénéfice d'une autorisation d'accueil délivrée par le service.
 
-<sup>2</sup> L'autorisation est valable trois ans et délivrée après examen des qualités personnelles, des aptitudes éducatives, de la situation économique, de l'état de santé et des conditions de logement de toutes les personnes constituant la famille d'accueil et/ou faisant ménage commun avec ces dernières.
+<sup>2</sup> L'autorisation est valable trois ans et délivrée après examen des qualités personnelles, des aptitudes éducatives, de la situation économique, de l'état de santé et des conditions de logement de toutes les personnes constituant la famille d'accueil et/ou faisant ménage commun avec ces dernières. L'examen des conditions ci-avant doit offrir toutes les garanties que l'enfant placé bénéficiera de soins, d'une éducation et d'une formation adéquats et que le bien-être des autres enfants vivant dans la famille est sauvegardé. Dans ce but le service exige notamment les documents suivants des familles d'accueil:
 
-L'examen des conditions ci-avant doit offrir toutes les garanties que l'enfant placé bénéficiera de soins, d'une éducation et d'une formation adéquats et que le bien-être des autres enfants vivant dans la famille est sauvegardé.
+- a) un certificat médical attestant que les personnes constituant la famille d’accueil et chaque personne vivant dans leur ménage ne souffrent d’aucune affection physique et psychique pouvant constituer des conditions défavorables à l’accueil de l’enfant;
+- b) un extrait ordinaire du casier judiciaire, y compris les autres personnes majeures vivant dans leur ménage. La demande d'un extrait spécial du casier judiciaire demeure réservée;
+- c) la dernière taxation d'impôt;
+- d) une autorisation écrite de prise de renseignements auprès de personnes, autorités et services susceptibles de fournir des informations utiles à l'examen des conditions précités.
 
-Dans ce but le Service exige notamment les documents suivants des familles d'accueil:[^49-1] a) un certificat médical;[^49-1] b) un extrait du casier judiciaire, y compris les autres personnes majeures vivant dans leur ménage;[^49-1] c) la dernière taxation d'impôt;[^49-1] d) une autorisation écrite de prise de renseignements auprès de personnes, autorités et services susceptibles de fournir des informations utiles à l'examen des conditions précités.[^49-1]
-
-<sup>3</sup> Elles sont soumises à la surveillance du Service.
-
-[^49-1]: Modification du 14 janvier 2015 BO No 4/2015 01.01.2015
+<sup>3</sup> Elles sont soumises à la surveillance du service.
 
 #### Art. 50
 
 **Retrait de l'autorisation**
 
-Lorsqu'il est constaté que la famille d'accueil ne répond plus aux critères de l'autorisation, même après avoir chargé des personnes expérimentées de donner des conseils et d'intervenir, le Service peut retirer l'autorisation.
+<sup>1</sup> Lorsqu'il est constaté que la famille d'accueil ne répond plus aux critères de l'autorisation, même après avoir chargé des personnes expérimentées de donner des conseils et d'intervenir, le service peut retirer l'autorisation.
 
-### Section 2: Familles d'accueil professionnelles
+### 6.2 Familles d'accueil professionnelles
 
 #### Art. 51
 
 **Définition**
 
-Par famille d'accueil professionnelle, il faut entendre toute famille dont le ou les parent(s) accueille(nt) à titre principal dans son (leur) foyer au moins trois enfants et au maximum six enfants dont le développement est entravé ou en danger de l'être et qui nécessitent un encadrement particulier.
+<sup>1</sup> Par famille d'accueil professionnelle, il faut entendre toute famille dont le ou les parent(s) accueille(nt) à titre principal dans son(leur) foyer au moins trois enfants et au maximum six enfants dont le développement est entravé ou en danger de l'être et qui nécessitent un encadrement particulier.
 
 #### Art. 52
 
-<sup>7</sup> Autorisation et surveillance
+**Autorisation et surveillance**
 
-<sup>1</sup> Les familles d'accueil professionnelles doivent être au bénéfice d'une autorisation d'accueil délivrée par le Service et avoir contracté une assurance en responsabilité civile.
+<sup>1</sup> Les familles d'accueil professionnelles doivent être au bénéfice d'une autorisation d'accueil délivrée par le service et avoir contracté une assurance en responsabilité civile.
 
-<sup>2</sup> L'autorisation est valable trois ans et délivrée si[^52-1] a) le projet éducatif est approuvé;[^52-1] b) les qualités personnelles, l'état de santé, les aptitudes éducatives et la formation de la personne responsable sont jugées adéquates;[^52-1] c) la situation économique est assurée;[^52-1] d) le logement satisfait aux exigences de l'hygiène et de la protection contre l'incendie;[^52-1] e) l'accueil et la prise en charge sont effectués durant toute l'année;[^52-1] f) l'enfant placé bénéficie de soins, d'une éducation et d'une formation adéquates;[^52-1] g) le bien-être des autres enfants vivant dans la famille est sauvegardé;[^52-1] h) la famille s'engage à ne pas recourir à du personnel pour les tâches éducatives.[^52-1]
+<sup>2</sup> L'autorisation est valable trois ans et délivrée si:
 
-<sup>3</sup> Dans ce but le Service exige notamment les documents suivants des familles d'accueil:[^52-1] a) un certificat médical;[^52-1] b) un extrait du casier judiciaire, y compris les autres personnes majeures vivant dans leur ménage;[^52-1] c) la dernière taxation d'impôt;[^52-1] d) une autorisation écrite de prise de renseignements auprès de personnes, autorités et services susceptibles de fournir des informations utiles à l'examen des conditions précités.[^52-1]
+- a) le projet éducatif est approuvé;
+- b) les qualités personnelles, l'état de santé, les aptitudes éducatives et la formation de la personne responsable sont jugées adéquates;
+- c) la situation économique est assurée;
+- d) le logement satisfait aux exigences de l'hygiène et de la protection contre l'incendie;
+- e) l'accueil et la prise en charge sont effectués durant toute l'année;
+- f) l'enfant placé bénéficie de soins, d'une éducation et d'une formation adéquates;
+- g) le bien-être des autres enfants vivant dans la famille est sauvegardé;
+- h) la famille s'engage à ne pas recourir à du personnel pour les tâches éducatives.
 
-<sup>4</sup> Les familles d'accueil professionnelles sont soumises à la surveillance du Service.
+<sup>3</sup> Dans ce but le service exige notamment les documents suivants des familles d'accueil:
 
-[^52-1]: Modification du 14 janvier 2015 BO No 4/2015 01.01.2015
+- a) un certificat médical attestant que les personnes constituant la famille d’accueil et chaque personne vivant dans leur ménage ne souffrent d’aucune affection physique et psychique pouvant constituer des conditions défavorables à l’accueil de l’enfant;
+- b) un extrait ordinaire du casier judiciaire, y compris les autres personnes majeures vivant dans leur ménage. La demande d'un extrait spécial du casier judiciaire demeure réservée;
+- c) la dernière taxation d'impôt;
+- d) une autorisation écrite de prise de renseignements auprès de personnes, autorités et services susceptibles de fournir des informations utiles à l'examen des conditions précités.
+
+<sup>4</sup> Les familles d'accueil professionnelles sont soumises à la surveillance du service.
 
 #### Art. 53
 
 **Retrait de l'autorisation**
 
-<sup>1</sup> Lorsque les conditions requises dans l'autorisation ne sont plus remplies, le Service met en demeure la famille d'accueil professionnelle de prendre sans retard les mesures nécessaires pour remédier au manque constaté.
+<sup>1</sup> Lorsque les conditions requises dans l'autorisation ne sont plus remplies, le service met en demeure la famille d'accueil professionnelle de prendre sans retard les mesures nécessaires pour remédier au manque constaté.
 
-<sup>2</sup> Si ces mesures n'ont pas l'effet escompté, le Service peut retirer l'autorisation délivrée.
+<sup>2</sup> Si ces mesures n'ont pas l'effet escompté, le service peut retirer l'autorisation délivrée.
 
-### Section 3: Rémunération et répartition des frais de placement
-
-des enfants auprès de familles d'accueil (art. 36 LJe)
+### 6.3 Rémunération et répartition des frais de placement des enfants auprès de familles d'accueil (art. 36 LJe)
 
 #### Art. 54
 
 **Familles d'accueil**
 
-<sup>1</sup> Le tarif mensuel et journalier du placement d'un enfant dans une famille d'accueil autorisée par le Service est fixé par une décision du Conseil d'Etat publiée au Bulletin officiel.
+<sup>1</sup> Le tarif mensuel et journalier du placement d'un enfant dans une famille d'accueil autorisée par le service est fixé par une décision du Conseil d'Etat publiée au Bulletin officiel.
 
-<sup>2</sup> Les frais de placement correspondant aux frais d'hébergement ainsi qu'au budget personnel sont supportés en premier lieu par l'enfant ou par ses parents, à défaut ces montants sont pris en charge par les corporations responsables selon l'art. 17 de la loi sur l'intégration et l'aide sociale.
+<sup>2</sup> Les frais de placement correspondant aux frais d'hébergement ainsi qu'au budget personnel sont supportés en premier lieu par l'enfant ou par ses parents, à défaut ces montants sont pris en charge par les corporations responsables selon la loi sur l'intégration et l'aide sociale.
 
 #### Art. 55
 
 **Familles d'accueil professionnelles**
 
-<sup>1</sup> Le tarif mensuel et journalier du placement d'un enfant dans une famille d'accueil professionnelle autorisée par le Service est fixé par une décision du Conseil d'Etat publiée au Bulletin officiel.
+<sup>1</sup> Le tarif mensuel et journalier du placement d'un enfant dans une famille d'accueil professionnelle autorisée par le service est fixé par une décision du Conseil d'Etat publiée au Bulletin officiel.
 
-<sup>2</sup> Les frais de placement correspondant aux frais d'hébergement ainsi qu'au budget personnel sont supportés en premier lieu par l'enfant ou par ses parents, à défaut ces montants sont pris en charge par les corporations responsables selon l'art. 17 de la loi sur l'intégration et l'aide sociale.
+<sup>2</sup> Les frais de placement correspondant aux frais d'hébergement ainsi qu'au budget personnel sont supportés en premier lieu par l'enfant ou par ses parents, à défaut ces montants sont pris en charge par les corporations responsables selon la loi sur l'intégration et l'aide sociale.
 
-#### Art. 55 bis
+#### Art. 55a
 
-<sup>7</sup> Familles d'accueil hors-canton
+**Familles d'accueil hors-canton**
 
-<sup>1</sup> Le financement des placements autorisés par le Service est pris en charge par le canton.[^55bis-1]
+<sup>1</sup> Le financement des placements autorisés par le service est pris en charge par le canton.
 
-<sup>2</sup> Les frais de placement correspondant à une participation aux frais d'hébergement ainsi qu'au budget personnel sont supportés en premier lieu par l'enfant ou ses parents, subsidiairement par les corporations responsables selon les dispositions cantonales réglant l'intégration et l'aide sociale.[^55bis-1]
+<sup>2</sup> Les frais de placement correspondant à une participation aux frais d'hébergement ainsi qu'au budget personnel sont supportés en premier lieu par l'enfant ou ses parents, subsidiairement par les corporations responsables selon les dispositions cantonales réglant l'intégration et l'aide sociale.
 
-<sup>3</sup> Le montant à la charge de l'enfant ou de ses parents est fixé par un arrêté du Conseil d'Etat publié dans le Bulletin officiel.[^55bis-1]
-
-[^55bis-1]: Modification du 14 janvier 2015 BO No 4/2015 01.01.2015
+<sup>3</sup> Le montant à la charge de l'enfant ou de ses parents est fixé par un arrêté du Conseil d'Etat publié dans le Bulletin officiel.
 
 #### Art. 56
 
 **Budget personnel**
 
-Le budget personnel d'un enfant placé est établi conformément aux directives internes du Service et soumis à l'approbation de celui-ci.
+<sup>1</sup> Le budget personnel d'un enfant placé est établi conformément aux directives internes du service et soumis à l'approbation de celui-ci.
 
-### Chapitre 7: Colonies, camps de vacances (art. 39 LJe)
+## 7 Colonies, camps de vacances (art. 39 LJe)
 
 #### Art. 57
 
@@ -802,31 +787,27 @@ Le budget personnel d'un enfant placé est établi conformément aux directives 
 
 <sup>2</sup> Par camp, il faut entendre tout séjour de plus de trois jours offert à des enfants valaisans.
 
-### Section 1: Autorisation
+### 7.1 Autorisation
 
 #### Art. 58
 
-Procédure d'autorisation d'exploiter une colonie ou maison de vacances
+**Procédure d'autorisation d'exploiter une colonie ou maison de vacances**
 
 <sup>1</sup> La demande d'autorisation doit contenir:
 
 - a) le nom du propriétaire de la structure s'il s'agit d'une personne physique, ou les statuts et le nom du président de l'organe de direction s'il s'agit d'une personne morale;
-
-- b) un extrait du casier judiciaire et une attestation de bonnes moeurs de l'exploitant;
-
+- b) un extrait ordinaire et spécial du casier judiciaire de l'exploitant établis six mois au plus avant le dépôt de la demande;
 - c) le nombre des enfants pouvant être accueillis dans l'établissement;
-
 - d) le plan des locaux et des équipements;
-
 - e) le préavis positif de la part des services cantonaux tel que prévu dans le formulaire de demande d'autorisation.
 
 <sup>2</sup> La structure doit notamment respecter les prescriptions en matière de police des constructions, du feu, d'hygiène, des denrées alimentaires.
 
 #### Art. 59
 
-<sup>2</sup> Autorisation d'exploiter
+**Autorisation d'exploiter**
 
-<sup>1</sup> L'autorisation d'exploiter ce type de structures d'accueil est délivrée par le Service.
+<sup>1</sup> L'autorisation d'exploiter ce type de structures d'accueil est délivrée par le service.
 
 <sup>2</sup> L'autorisation fixe en outre le nombre maximum d'enfants pouvant être accueillis en même temps et peut être délivrée à titre d'essai (autorisation provisoire), limitée dans le temps ou assortie de conditions.
 
@@ -834,7 +815,7 @@ Procédure d'autorisation d'exploiter une colonie ou maison de vacances
 
 #### Art. 60
 
-<sup>2</sup> Renouvellement de l'autorisation
+**Renouvellement de l'autorisation**
 
 <sup>1</sup> La commune est compétente pour le renouvellement de l'autorisation d'exploitation.
 
@@ -846,7 +827,9 @@ Procédure d'autorisation d'exploiter une colonie ou maison de vacances
 
 <sup>5</sup> Elle peut percevoir un émolument de 50 à 300 francs pour le renouvellement de l'autorisation et pour le contrôle annuel.
 
-### Section 2: Personnel d'encadrement
+<sup>6</sup> …
+
+### 7.2 Personnel d'encadrement
 
 #### Art. 61
 
@@ -860,11 +843,11 @@ Procédure d'autorisation d'exploiter une colonie ou maison de vacances
 
 #### Art. 62
 
-<sup>2</sup> Nombre
+**Nombre**
 
 <sup>1</sup> Les responsables de l'organisation de séjours en colonies ou camps de vacances ont l'obligation de veiller à ce que les mineurs accueillis bénéficient d'un encadrement et de soins adéquats en relation à leurs besoins, en tenant compte de leur âge et de leur capacité de discernement.
 
-<sup>2</sup> Le nombre minimum d'accompagnants recommandés est d'un moniteur pour huit enfants en âge de scolarité obligatoire (responsable du camp, moniteur, aide-moniteur, infirmier, cuisinier, intervenant pour des activités spécifiques).
+<sup>2</sup> Le nombre minimum d'accompagnants recommandés est d'un moniteur pour huit enfants en âge de scolarité obligatoire (responsable du camp, moniteur, aide-moniteur, infirmier, cuisinier et intervenant pour des activités spécifiques).
 
 <sup>3</sup> Sur l'ensemble des postes nécessaires, il est recommandé que 2/3 des postes soient couverts par des moniteurs et 1/3 couverts par des aide-moniteurs.
 
@@ -874,51 +857,44 @@ Procédure d'autorisation d'exploiter une colonie ou maison de vacances
 
 **Rôle du responsable**
 
-Le responsable doit notamment:
+<sup>1</sup> Le responsable doit notamment:
 
 - a) garantir le bon déroulement du séjour en accord avec le projet pédagogique;
-
 - b) coordonner l'ensemble des activités et des tâches de l'équipe d'animation;
-
 - c) garantir l'intégrité, la dignité et la sécurité des participants en toutes circonstances;
-
 - d) veiller à ce qu'un membre de l'équipe soit chargé d'assurer les premiers soins en cas de maladie bénigne ou d'accident de faible gravité.
 
 #### Art. 64
 
-<sup>2</sup> Formation
+**Formation**
 
 <sup>1</sup> Il est recommandé que les personnes responsables de l'encadrement des enfants, ainsi que les aide-moniteurs, soient au bénéfice d'une formation spécifique de base dispensée par un organisme reconnu par le canton.
 
 <sup>2</sup> Sont notamment reconnus comme personnes formées les:
 
 - a) étudiants en psychologie, sciences de l'éducation, pédagogie ou assimilés;
-
 - b) étudiants des hautes écoles spécialisées du domaine social et des hautes écoles pédagogiques;
-
 - c) enseignants ayant suivi leur formation à la Haute école pédagogique ou à l'Ecole normale.
 
 <sup>3</sup> Le canton peut encourager par des mesures concrètes l'organisation de cours de formation de base ou de perfectionnement.
 
-[^64-1]: Modification du 28.06.2006 RO/VS 2006, 121 1.07.2006
+<sup>4</sup> …
 
 #### Art. 65
 
-**Abrogé**[^64-1]
+**…**
 
-### Section 3: Aménagement technique et sécurité
+### 7.3 Aménagement technique et sécurité
 
 #### Art. 66
 
-<sup>2</sup> Locaux servant au repos dans les colonies et les maisons de
+**Locaux servant au repos dans les colonies et les maisons de vacances**
 
-vacances
+<sup>1</sup> Les locaux servant au repos doivent répondre à la norme minimale de 10 mètres cubes par enfant.
 
-<sup>1</sup> Les locaux servant au repos doivent répondre à la norme minimale de 10 m3 par enfant.
+<sup>2</sup> Dans les bâtiments construits avant 1976, il peut être toléré 8 mètres cubes par enfant.
 
-<sup>2</sup> Dans les bâtiments construits avant 1976, il peut être toléré 8 m3 par enfant.
-
-<sup>3</sup> Pour les périodes estivales, si les camps durent moins d'une semaine, le volume de 6 m3 peut être admis.
+<sup>3</sup> Pour les périodes estivales, si les camps durent moins d'une semaine, le volume de 6 mètres cubes peut être admis.
 
 <sup>4</sup> Ces volumes ne comprennent pas les couloirs et les sanitaires.
 
@@ -930,12 +906,10 @@ vacances
 
 **Installations sanitaires**
 
-Les installations sanitaires doivent répondre aux normes minimales suivantes:
+<sup>1</sup> Les installations sanitaires doivent répondre aux normes minimales suivantes:
 
 - a) un lavabo ou un robinet installé sur un bassin pour quatre enfants;
-
 - b) un WC pour huit enfants (au minimum deux en cas de mixité);
-
 - c) une douche pour dix enfants; la possibilité doit exister de se doucher individuellement.
 
 #### Art. 68
@@ -962,7 +936,7 @@ Les installations sanitaires doivent répondre aux normes minimales suivantes:
 
 <sup>2</sup> Les portes doivent s'ouvrir vers l'extérieur et être protégées des accumulations de neige (les constructions antérieures à 1976 peuvent faire l'objet de dérogations sur ce point).
 
-<sup>3</sup> Les voies d'accès aux escaliers principaux doivent déboucher directement sur l'extérieur et avoir une largeur minimale de 1,20 mètre.
+<sup>3</sup> Les voies d'accès aux escaliers principaux doivent déboucher directement sur l'extérieur et avoir une largeur minimale de 1.20 mètre.
 
 <sup>4</sup> Les sorties de secours sont dotées d'un dispositif anti-panique et clairement indiquées selon les instructions du service compétent.
 
@@ -976,35 +950,31 @@ Les installations sanitaires doivent répondre aux normes minimales suivantes:
 
 **Dérogation**
 
-Des dérogations concernant des prescriptions techniques et de sécurité peuvent être octroyées pour des constructions situées dans des zones de moyenne montagne ainsi qu'en haute montagne, lorsque ces lieux ne sont pas desservis par l'électricité et l'eau courante, ce d'entente avec les services techniques concernés.
+<sup>1</sup> Des dérogations concernant des prescriptions techniques et de sécurité peuvent être octroyées pour des constructions situées dans des zones de moyenne montagne ainsi qu'en haute montagne, lorsque ces lieux ne sont pas desservis par l'électricité et l'eau courante, ce d'entente avec les services techniques concernés.
 
 #### Art. 72
 
 **Réserve**
 
-Sont réservées les dispositions cantonales et communales de la construction et celles relatives à l'évacuation des eaux usées.
+<sup>1</sup> Sont réservées les dispositions cantonales et communales de la construction et celles relatives à l'évacuation des eaux usées.
 
-### Section 4: Charte de qualité
+### 7.4 Charte de qualité
 
 #### Art. 73
 
-<sup>1</sup> Le Département contribue à l'élaboration d'une charte de qualité en collaboration avec les différentes organisations actives dans l'organisation de camps dans un délai de deux ans dès la mise en vigueur de la présente ordonnance.
+<sup>1</sup> Le département contribue à l'élaboration d'une charte de qualité en collaboration avec les différentes organisations actives dans l'organisation de camps dans un délai de deux ans dès la mise en vigueur de la présente ordonnance.
 
 <sup>2</sup> Cette charte vise à garantir la sécurité physique et psychologique des participants et la prise en compte de leurs besoins.
 
-<sup>3</sup> Les organisations répondant aux critères de cette charte peuvent obtenir une certification délivrée par le Département sur préavis de la commission pour la promotion et la protection de la jeunesse.
+<sup>3</sup> Les organisations répondant aux critères de cette charte peuvent obtenir une certification délivrée par le département sur préavis du délégué à la jeunesse.
 
-### Chapitre 8: Homes et internats ne dispensant pas de prestations
-
-d'éducation spécialisée (art. 40 et ss LJe)
+## 8 Homes et internats ne dispensant pas de prestations d'éducation spécialisée (art. 40 ss LJe)
 
 #### Art. 74
 
-Par internats et homes d'enfants, il faut entendre tout établissement (internats scolaires / internat / camp d'étude) situé sur le territoire du canton du Valais disposant de son propre personnel d'encadrement et pouvant accueillir des enfants à moyen et long terme aux fins de prendre soin d'eux et/ou de leur donner une formation sans toutefois dispenser des prestations d'éducation spécialisée.
+<sup>1</sup> Par internats et homes d'enfants, il faut entendre tout établissement (internats scolaires/internat/camp d'étude) situé sur le territoire du canton du Valais disposant de son propre personnel d'encadrement et pouvant accueillir des enfants à moyen et long terme aux fins de prendre soin d'eux et/ou de leur donner une formation sans toutefois dispenser des prestations d'éducation spécialisée.
 
-### Section 1: Autorisation d'exploiter un internat ou home
-
-d'enfants
+### 8.1 Autorisation d'exploiter un internat ou home d'enfants
 
 #### Art. 75
 
@@ -1013,14 +983,10 @@ d'enfants
 <sup>1</sup> La demande d'autorisation doit contenir:
 
 - a) le nom du propriétaire de la structure s'il s'agit d'une personne physique ou les statuts et le nom du président de l'organe de direction s'il s'agit d'une personne morale;
-
 - b) le nombre des enfants pouvant être accueillis dans l'établissement;
-
 - c) le plan des locaux et des équipements;
-
-- d) le préavis positif de la part des services cantonaux tel que prévu dans le formulaire de demande d'autorisation.
-
-- e) un extrait du casier judiciaire et une attestation de bonnes moeurs de l'exploitant.
+- d) le préavis positif de la part des services cantonaux tel que prévu dans le formulaire de demande d'autorisation;
+- e) un extrait ordinaire et spécial du casier judiciaire de l'exploitant établis six mois au plus avant le dépôt de la demande.
 
 <sup>2</sup> La structure doit notamment respecter les prescriptions en matière de police des constructions, du feu, d'hygiène et des denrées alimentaires.
 
@@ -1028,13 +994,13 @@ d'enfants
 
 **Autorisation d'exploiter**
 
-<sup>1</sup> L'autorisation d'exploiter ce type de structures d'accueil est délivrée par le Service.
+<sup>1</sup> L'autorisation d'exploiter ce type de structures d'accueil est délivrée par le service.
 
 <sup>2</sup> L'autorisation fixe en outre le nombre maximum de pensionnaires et peut être délivrée à titre d'essai (autorisation provisoire), limitée dans le temps ou assortie de conditions.
 
 <sup>3</sup> La durée de validité de l'autorisation est de cinq ans.
 
-### Section 2: Personnel d'encadrement
+### 8.2 Personnel d'encadrement
 
 #### Art. 77
 
@@ -1052,7 +1018,7 @@ d'enfants
 
 <sup>2</sup> Les qualités personnelles, les aptitudes éducatives du directeur de l'établissement et de ses collaborateurs doivent leur permettre d'assumer leurs tâches.
 
-### Section 3: Aménagement technique et sécurité
+### 8.3 Aménagement technique et sécurité
 
 #### Art. 79
 
@@ -1060,9 +1026,8 @@ d'enfants
 
 <sup>1</sup> Les locaux servant au repos doivent répondre aux normes minimales suivantes:
 
-- a) pour les chambres à plusieurs lits: 10 m3 par enfant jusqu'à 14 ans révolus et 12 m3 au-dessus; dans les bâtiments construits avant 1976, il peut être toléré 10 m3 par enfant indépendamment de l'âge;
-
-- b) pour les chambres à un lit : 14 m3 au minimum par enfant.
+- a) pour les chambres à plusieurs lits: 10 mètres cubes par enfant jusqu'à 14 ans révolus et 12 mètres cubes au-dessus; dans les bâtiments construits avant 1976, il peut être toléré 10 mètres cubes par enfant indépendamment de l'âge;
+- b) pour les chambres à un lit: 14 mètres cubes au minimum par enfant.
 
 <sup>2</sup> La surface des fenêtres doit représenter le 10 pour cent de la chambre.
 
@@ -1072,19 +1037,17 @@ d'enfants
 
 **Installations sanitaires**
 
-Les installations sanitaires doivent répondre aux normes minimales suivantes:
+<sup>1</sup> Les installations sanitaires doivent répondre aux normes minimales suivantes:
 
 - a) un lavabo ou un robinet installé sur un bassin par enfant;
-
 - b) un WC pour cinq enfants (au minimum deux en cas de mixité);
-
 - c) une cabine douche pour cinq enfants permettant de se doucher individuellement (au minimum deux en cas de mixité).
 
 #### Art. 81
 
-**Réfectoires, salles à manger, salles de loisirs**
+**Réfectoires - Salles à manger - Salles de loisirs**
 
-<sup>1</sup> L'établissement devra disposer d'un réfectoire (minimum 1,5 m2 par enfant) et/ou de locaux communs tels qu'une salle pour les loisirs (minimum 2 m2 par enfant).
+<sup>1</sup> L'établissement devra disposer d'un réfectoire (minimum 1.5 mètres carrés par enfant) et/ou de locaux communs tels qu'une salle pour les loisirs (minimum 2 mètres carrés par enfant).
 
 <sup>2</sup> Ces locaux devront jouir d'un bon éclairage naturel.
 
@@ -1096,7 +1059,7 @@ Les installations sanitaires doivent répondre aux normes minimales suivantes:
 
 <sup>2</sup> Les portes doivent s'ouvrir vers l'extérieur et être protégées des accumulations de neige (les constructions antérieures à 1976 peuvent faire l'objet de dérogations sur ce point).
 
-<sup>3</sup> Les voies d'accès aux escaliers principaux doivent déboucher directement sur l'extérieur et avoir une largeur minimale de 1,20 mètre.
+<sup>3</sup> Les voies d'accès aux escaliers principaux doivent déboucher directement sur l'extérieur et avoir une largeur minimale de 1.20 mètre.
 
 <sup>4</sup> Les sorties de secours sont dotées d'un dispositif anti-panique et clairement indiquées selon les instructions du service compétent.
 
@@ -1110,55 +1073,52 @@ Les installations sanitaires doivent répondre aux normes minimales suivantes:
 
 **Réserve**
 
-Sont réservés les règlements cantonaux et communaux de la construction et les dispositions relatives à l'évacuation des eaux usées.
+<sup>1</sup> Sont réservés les règlements cantonaux et communaux de la construction et les dispositions relatives à l'évacuation des eaux usées.
 
-### Chapitre 9: Placements d'enfants auprès d'institutions
-
-d'éducation spécialisée (art. 43 et ss LJe)
+## 9 Placements d'enfants auprès d'institutions d'éducation spécialisée (art. 43 ss LJe)
 
 #### Art. 84
 
 <sup>1</sup> Lorsque le développement d'un enfant est entravé ou en danger de l'être et qu'il n'est pas possible de le protéger ou de lui venir en aide par d'autres mesures, notamment par des mesures ambulatoires, il peut être placé dans une institution d'éducation spécialisée.
 
-<sup>2</sup> Le placement peut poursuivre plusieurs objectifs : l'observation, la prise en charge socio-éducative et la formation professionnelle.
+<sup>2</sup> Le placement peut poursuivre plusieurs objectifs: l'observation, la prise en charge socio-éducative et la formation professionnelle.
 
 <sup>3</sup> Pour les placements non décidés par une autorité judiciaire ou tutélaire, une garantie financière préalable de la commune de domicile de l'enfant doit être requise. Demeurent réservés les cas d'urgence.
 
 <sup>4</sup> Le Conseil d'Etat peut confier cette tâche à des organisations privées.
 
-### Section 1: Institutions d'éducation spécialisée
+### 9.1 Institutions d'éducation spécialisée
 
 #### Art. 85
 
-<sup>7</sup> Définition
+**Définition**
 
-Par institution d'éducation spécialisée, il faut entendre tout établissement s'occupant d'enfants dont le développement ou le comportement social est gravement perturbé ou en danger de l'être, notamment:[^85-1] a) les établissements accueillant des enfants de 0 à 12 ans qui effectuent leur scolarité ou leur formation professionnelle à l'extérieur de l'institution;[^85-1] b) les établissements (homes, foyers) accueillant des enfants dès 7 ans qui effectuent leur scolarité ou leur formation professionnelle à l'extérieur de l'institution;[^85-1] c) les établissements accueillant des enfants dès 7 ans qui effectuent leur scolarité à l'intérieur de l'institution;[^85-1] d) les établissements accueillant des adolescents qui effectuent une orientation professionnelle, une préformation, une formation professionnelle ou qui proposent une période de mise au travail à l'intérieur de l'institution;[^85-1] e) les établissements spéciaux pour enfants, tels que:[^85-1]
+<sup>1</sup> Par institution d'éducation spécialisée, il faut entendre tout établissement s'occupant d'enfants dont le développement ou le comportement social est gravement perturbé ou en danger de l'être, notamment:
 
-- les maisons de thérapie et les maisons de rééducation (au sens du DPmin);[^85-1]
+- a) les établissements accueillant des enfants de 0 à 12 ans qui effectuent leur scolarité ou leur formation professionnelle à l'extérieur de l'institution;
+- b) les établissements (homes, foyers) accueillant des enfants dès 7 ans qui effectuent leur scolarité ou leur formation professionnelle à l'extérieur de l'institution;
+- c) les établissements accueillant des enfants dès 7 ans qui effectuent leur scolarité à l'intérieur de l'institution;
+- d) les établissements accueillant des adolescents qui effectuent une orientation professionnelle, une préformation, une formation professionnelle ou qui proposent une période de mise au travail à l'intérieur de l'institution;
+- e) les établissements spéciaux pour enfants, tels que:
+  - 1\. …
+  - 2\. …
+  - 3\. les centres de transition ou d'accueil d'urgence.
+  - 4\. …
+  - 5\. …
 
-- les maisons d'éducation au travail (art. 61 et suivants du CPS);[^85-1]
-
-- les centres de transition ou d'accueil d'urgence;[^85-1]
-
-- les centres de détention pour enfants;[^85-1]
-
-- les centres pour toxicomanes.[^85-1]
-
-[^85-1]: Modification du 14 janvier 2015 BO No 4/2015 01.01.2015
-
-### Section 2: Autorisation, surveillance et reconnaissance(art. 43 LJe)
+### 9.2 Autorisation, surveillance et reconnaissance (art. 43 LJe)
 
 #### Art. 86
 
 **Autorisation et surveillance**
 
-<sup>1</sup> Toutes les institutions d'éducation spécialisée situées sur le territoire du canton du Valais sont soumises à une autorisation du Conseil d'Etat, conformément aux art. 12 à 20 de l'Ordonnance fédérale du 19 octobre 1977 réglant le placement d'enfants (RS 211.222.338) (ci-après Ordonnance fédérale).
+<sup>1</sup> Toutes les institutions d'éducation spécialisée situées sur le territoire du canton du Valais sont soumises à une autorisation du Conseil d'Etat, conformément aux art. 12 à 20 de l'ordonnance fédérale.
 
-<sup>2</sup> La demande d'autorisation doit contenir les divers éléments mentionnés à l'art. 14 de l'Ordonnance fédérale.
+<sup>2</sup> La demande d'autorisation doit contenir les divers éléments mentionnés à l'art. 14 de l'ordonnance fédérale.
 
 <sup>3</sup> La structure d'accueil doit répondre aux normes de la présente ordonnance concernant l'hygiène, la sécurité et l'aménagement pour l'exploitation d'un internat ou d'un home d'enfants.
 
-<sup>4</sup> Les institutions d'éducation spécialisée sont soumises à la surveillance du Service, conformément à l'art. 19 de l'Ordonnance fédérale.
+<sup>4</sup> Les institutions d'éducation spécialisée sont soumises à la surveillance du service, conformément à l'art. 19 de l'ordonnance fédérale.
 
 <sup>5</sup> Demeurent réservées les différentes dispositions fédérales en la matière.
 
@@ -1166,129 +1126,100 @@ Par institution d'éducation spécialisée, il faut entendre tout établissement
 
 **Reconnaissance des institutions d'éducation spécialisée**
 
-Le Conseil d'Etat peut reconnaître à un établissement la qualité d'institution d'éducation spécialisée et passer avec celui-ci une convention lorsque:
+<sup>1</sup> Le Conseil d'Etat peut reconnaître à un établissement la qualité d'institution d'éducation spécialisée et passer avec celui-ci une convention lorsque:
 
 - a) la reconnaissance d'un besoin est mise en évidence par la planification cantonale des institutions d'éducation spécialisée pour enfants;
-
-- b) les conditions prévues à l'art. 15 de l'Ordonnance fédérale réglant le placement d'enfants sont réunies;
-
+- b) les conditions prévues à l'art. 15 de l'ordonnance fédérale réglant le placement d'enfants sont réunies;
 - c) l'institution dépend d'une personne morale;
-
 - d) l'organigramme du personnel éducatif, des maîtres socioprofessionnels, des enseignants spécialisés et des autres spécialistes s'occupant des enfants a été approuvé.
 
 #### Art. 88
 
 **Retrait de l'autorisation**
 
-L'autorisation peut en tout temps être retirée si l'institution ne remplit plus les conditions d'autorisation, selon la procédure prévue à l'art. 20 de l'Ordonnance fédérale réglant le placement d'enfants.
+<sup>1</sup> L'autorisation peut en tout temps être retirée si l'institution ne remplit plus les conditions d'autorisation, selon la procédure prévue à l'art. 20 de l'ordonnance fédérale.
 
-### Section 3: Conditions de l'autorisation et surveillance des
-
-placements auprès d'institutions d'éducation spécialisée (art. 45 LJe)
+### 9.3 Conditions de l'autorisation et surveillance des placements auprès d'institutions d'éducation spécialisée (art. 45 LJe)
 
 #### Art. 89
 
-<sup>1</sup> Tout placement effectué dans un des établissements mentionnés à l'article 85 doit être préalablement autorisé par écrit par le Service.
+<sup>1</sup> Tout placement effectué dans un des établissements mentionnés à l'article 85 doit être préalablement autorisé par écrit par le service.
 
 <sup>2</sup> L'autorisation doit mentionner les nom et prénom du mineur, la filiation, le domicile légal, le nom et l'adresse de l'institution, la date du début du placement ainsi que sa durée probable, le ou les personnes/instances responsables du paiement des factures.
 
 <sup>3</sup> Les placements ordonnés par les autorités judiciaires demeurent réservés.
 
-<sup>4</sup> Le placement fait l'objet d'une surveillance de la part du Service.
+<sup>4</sup> Le placement fait l'objet d'une surveillance de la part du service.
 
-### Section 4: Répartition des frais de placement des enfants
-
-auprès d'institutions d'éducation spécialisée (art. 47
-
-### LJe)
+### 9.4 Répartition des frais de placement des enfants auprès d'institutions d'éducation spécialisée (art. 47 LJe)
 
 #### Art. 90
 
-Institutions d’éducation spécialisée reconnue par le canton et l’Office fédéral de la justice ainsi que celles reconnues uniquement par le canton
+**Institutions d'éducation spécialisée reconnue par le canton et l'Office fédéral de la justice ainsi que celles reconnues uniquement par le canton**
 
 <sup>1</sup> Lorsqu'un enfant est placé dans une institution d'éducation spécialisée reconnue par le canton, les frais de placement correspondant à une participation aux frais d'hébergement ainsi qu'au budget personnel sont supportés en premier lieu par l'enfant ou ses parents, subsidiairement par les corporations responsables selon les dispositions cantonales réglant l'intégration et l'aide sociale.
 
-<sup>2</sup> Le montant à la charge de l’enfant ou de ses parents est fixé par un arrêté du Conseil d’Etat publié dans le Bulletin officiel.[^90-1]
-
-[^90-1]: Modification du 21.12.2011 BO No 52/2011 1.01.2012
+<sup>2</sup> Le montant à la charge de l’enfant ou de ses parents est fixé par un arrêté du Conseil d’Etat publié dans le Bulletin officiel.
 
 #### Art. 91
 
-<sup>4,7</sup> Institutions d’éducation spécialisée hors canton reconnues par
+**Institutions d'éducation spécialisée hors canton reconnues par l'Office fédéral de la justice**
 
-l’Office fédéral de la justice
+<sup>1</sup> Lorsqu'un enfant est placé dans une institution d'éducation spécialisée hors canton reconnue par l'Office fédéral de la justice, les frais de placement sont pris en charge par le canton.
 
-<sup>1</sup> Lorsqu'un enfant est placé dans une institution d'éducation spécialisée hors canton reconnue par l'Office fédéral de la justice, les frais de placement sont pris en charge par le canton.[^91-1]
+<sup>2</sup> Les frais de placement correspondant à une participation aux frais d'hébergement ainsi qu'au budget personnel sont supportés en premier lieu par l'enfant ou ses parents, subsidiairement par les corporations responsables selon les dispositions cantonales réglant l'intégration et l'aide sociale.
 
-<sup>2</sup> Les frais de placement correspondant à une participation aux frais d'hébergement ainsi qu'au budget personnel sont supportés en premier lieu par l'enfant ou ses parents, subsidiairement par les corporations responsables selon les dispositions cantonales réglant l'intégration et l'aide sociale.[^91-2],[^91-1]
+<sup>3</sup> …
 
-<sup>3</sup> Abrogé[^91-2]
-
-[^91-1]: Modification du 14 janvier 2015 BO No 4/2015 01.01.2015
-[^91-2]: Modification du 21.12.2011 BO No 52/2011 1.01.2012
-
-### Section 5: Frais spéciaux (art. 47 LJe)
+### 9.5 Frais spéciaux (art. 47 LJe)
 
 #### Art. 92
 
-<sup>1</sup> La prise en charge éducative d'un enfant (PCE) après sa sortie d'une institution d'éducation spécialisée est réglée par une directive du Service. Les demandes pour cette prestation sont soumises à l'approbation du Service et de la commune de domicile.
+<sup>1</sup> La prise en charge éducative d'un enfant (PCE) après sa sortie d'une institution d'éducation spécialisée est réglée par une directive du service. Les demandes pour cette prestation sont soumises à l'approbation du service et de la commune de domicile.
 
 <sup>2</sup> Les frais de prise en charge extérieure ainsi que le budget personnel sont supportés en premier lieu par l'enfant ou ses parents, subsidiairement par les corporations responsables selon les dispositions cantonales réglant l'intégration et l'aide sociale.
 
 <sup>3</sup> Le montant à la charge de l'enfant ou de ses parents, ainsi que le budget personnel sont fixés par une décision du Conseil d'Etat publiée dans le Bulletin officiel.
 
-### Section 6: Modalités de participation du canton aux frais
-
-d'exploitation et de construction des institutions d'éducation spécialisée (art. 47 LJe)
-
-[^hSection6Modalités-1]: Modification du 21.11.2012 BO No 48/2012 1.01.2013
+### 9.6 Modalités de participation du canton aux frais d'exploitation et de construction des institutions d'éducation spécialisée (art. 47 LJe)
 
 #### Art. 93
 
-**, <sup>7</sup> Contribution aux frais d'exploitation des institutions**[^hSection6Modalités-1]
+**Contribution aux frais d'exploitation des institutions d'éducation spécialisée reconnues**
 
-d'éducation spécialisée reconnues
+<sup>1</sup> L’Etat participe aux frais d’exploitation par une subvention pouvant atteindre au maximum 75 pour cent des charges d’exploitation reconnues du nombre de journées concernant les enfants placés qui sont domiciliés en Valais. Cette subvention ne peut cependant pas excéder 100 pour cent du coût des prestations reconnues.
 
-<sup>1</sup> L’Etat participe aux frais d’exploitation par une subvention pouvant atteindre au maximum 75 pour cent des charges d’exploitation reconnues du nombre de journées concernant les enfants placés qui sont domiciliés en Valais. Cette subvention ne peut cependant pas excéder 100 pour cent du coût des prestations reconnues.[^93-1]
-
-<sup>2</sup> Abrogé[^93-2]
+<sup>2</sup> …
 
 <sup>3</sup> Le Conseil d'Etat peut passer un contrat de prestations avec les institutions d'éducation spécialisée. Ce dernier prévoit notamment les prestations à fournir, l'introduction de standards de qualité, le personnel nécessaire et le montant de l'enveloppe budgétaire à disposition.
 
-[^93-1]: Modification du 21.11.2012 BO No 48/2012 1.01.2013
-[^93-2]: Modification du 14 janvier 2015 BO No 4/2015 01.01.2015
+#### Art. 93a
 
-#### Art. 93bis
+**Contribution aux frais d'exploitation des institutions d'éducation spécialisée reconnues uniquement par le canton**
 
-<sup>7</sup> Contribution aux frais d'exploitation des institu- tions
+<sup>1</sup> L’Etat participe aux frais d’exploitation sur la base des charges d’exploitation reconnues du nombre de journées concernant les enfants placés qui sont domiciliés en Valais. Cette subvention ne peut cependant pas excéder 100 pour cent du coût des prestations reconnues.
 
-d'éducation spécialisée reconnues unique- ment par le canton
+<sup>2</sup> Les frais de placement correspondant à une participation aux frais d'hébergement ainsi qu'au budget personnel sont supportés en premier lieu par l'enfant ou ses parents, subsidiairement par les corporations responsables selon les dispositions cantonales réglant l'intégration et l'aide sociale.
 
-<sup>1</sup> L'Etat prend en charge mensuellement les frais d'exploitation par un montant forfaitaire à la journée par enfant. Ce montant est fixé par un arrêté du Conseil d'Etat publié dans le Bulletin officiel.[^93bis-1]
+<sup>3</sup> Le montant à la charge de l'enfant ou de ses parents est fixé par un arrêté du Conseil d'Etat publié dans le Bulletin officiel.
 
-<sup>2</sup> Les frais de placement correspondant à une participation aux frais d'hébergement ainsi qu'au budget personnel sont supportés en premier lieu par l'enfant ou ses parents, subsidiairement par les corporations responsables selon les dispositions cantonales réglant l'intégration et l'aide sociale.[^93bis-1]
-
-<sup>3</sup> Le montant à la charge de l'enfant ou de ses parents est fixé par un arrêté du Conseil d'Etat publié dans le Bulletin officiel.[^93bis-1]
-
-<sup>4</sup> Le Conseil d'Etat peut passer un contrat de prestations avec les institutions d'éducation spécialisée. Ce dernier prévoit notamment les prestations à fournir, l'introduction de standards de qualité et le personnel nécessaire.[^93bis-1]
-
-[^93bis-1]: Modification du 14 janvier 2015 BO No 4/2015 01.01.2015
+<sup>4</sup> Le Conseil d'Etat peut passer un contrat de prestations avec les institutions d'éducation spécialisée. Ce dernier prévoit notamment les prestations à fournir, l'introduction de standards de qualité et le personnel nécessaire.
 
 #### Art. 94
 
-Conditions pour l'octroi d'un subventionnement aux frais d'exploitation
+**Conditions pour l'octroi d'un subventionnement aux frais d'exploitation**
 
-<sup>1</sup> Les institutions d'éducation spécialisée ayant droit à une subvention d'exploitation doivent présenter leur budget au Service, ce qui fait office de demande.
+<sup>1</sup> Les institutions d'éducation spécialisée ayant droit à une subvention d'exploitation doivent présenter leur budget au service, ce qui fait office de demande.
 
-<sup>2</sup> Des acomptes peuvent être accordés sur la base du budget approuvé par le Département.
+<sup>2</sup> Des acomptes peuvent être accordés sur la base du budget approuvé par le département.
 
 <sup>3</sup> Les établissements ayant bénéficié d'une subvention d'exploitation doivent présenter en fin de chaque exercice les comptes, le rapport annuel et le rapport de l'organe de contrôle.
 
-<sup>4</sup> Tout versement de subvention est suspendu jusqu'à l'approbation de ces documents par le Département.
+<sup>4</sup> Tout versement de subvention est suspendu jusqu'à l'approbation de ces documents par le département.
 
 #### Art. 95
 
-Subvention d'investissement des institutions d'éducation spécialisée reconnues par le canton et l'Office fédéral de la justice 7
+**Subvention d'investissement des institutions d'éducation spécialisée reconnues par le canton et l'Office fédéral de la justice**
 
 <sup>1</sup> L'Etat peut contribuer aux frais de construction, d'agrandissement et de rénovation des établissements mentionnés à l'article 85 par une subvention d'investissement allant de 10 pour cent à 55 pour cent de la dépense admise.
 
@@ -1298,13 +1229,13 @@ Subvention d'investissement des institutions d'éducation spécialisée reconnue
 
 #### Art. 96
 
-Conditions pour l'octroi d'un subventionnement aux frais d'investissement
+**Conditions pour l'octroi d'un subventionnement aux frais d'investissement**
 
-<sup>1</sup> Pour l'obtention d'une subvention aux frais d'investissement, les institutions d'éducation spécialisée doivent présenter leur demande au Département qui examine les indications figurant dans la requête et consulte les départements concernés. Les requérants fournissent tous les renseignements nécessaires à l'examen de la demande.
+<sup>1</sup> Pour l'obtention d'une subvention aux frais d'investissement, les institutions d'éducation spécialisée doivent présenter leur demande au département qui examine les indications figurant dans la requête et consulte les départements concernés. Les requérants fournissent tous les renseignements nécessaires à l'examen de la demande.
 
 <sup>2</sup> Des acomptes peuvent être accordés sur la base du devis définitif approuvé par le Conseil d'Etat.
 
-<sup>3</sup> A la fin des travaux, un décompte détaillé, accompagné des pièces justificatives, est remis au Département.
+<sup>3</sup> A la fin des travaux, un décompte détaillé, accompagné des pièces justificatives, est remis au département.
 
 <sup>4</sup> Un décompte final est établi et doit être approuvé par le Conseil d'Etat.
 
@@ -1326,19 +1257,15 @@ Conditions pour l'octroi d'un subventionnement aux frais d'investissement
 
 **Plan comptable et contrôle administratif**
 
-<sup>1</sup> Les institutions subventionnées présentent leur comptabilité selon un plan comptable agréé par le Département.
+<sup>1</sup> Les institutions subventionnées présentent leur comptabilité selon un plan comptable agréé par le département.
 
-<sup>2</sup> Le Département a en tout temps un droit de regard dans l'exploitation, les livres, les justificatifs et les dossiers des institutions bénéficiaires.
+<sup>2</sup> Le département a en tout temps un droit de regard dans l'exploitation, les livres, les justificatifs et les dossiers des institutions bénéficiaires.
 
-### Section 7: Mesures restreignant la liberté des mineurs et
-
-conditions pour la création de chambres d’isolement
-
-### (47bis, 47ter, 47quater)
+### 9.7 Mesures restreignant la liberté des mineurs et conditions pour la création de chambres d'isolement (47a, 47b et 47c LJe)
 
 #### Art. 98a
 
-<sup>5</sup> Buts et principes des mesures restreignant la liberté
+**Buts et principes des mesures restreignant la liberté**
 
 <sup>1</sup> Sont considérés comme des mesures restreignant la liberté, les sanctions disciplinaires, les mesures de sûreté ainsi que les moyens de contrainte.
 
@@ -1360,26 +1287,21 @@ conditions pour la création de chambres d’isolement
 
 <sup>10</sup> Lorsque le motif du moyen de contrainte et/ou de la mesure de sûreté a disparu, ceux-ci sont immédiatement interrompus.
 
-98b <sup>5</sup> Éléments constitutifs d’une infraction disciplinaire
+#### Art. 98b
+
+**Éléments constitutifs d'une infraction disciplinaire**
 
 <sup>1</sup> Peuvent faire l'objet de sanctions disciplinaires, les mineurs qui contreviennent de façon fautive à une prescription réglant la vie commune au sein de l'institution ou à un ordre de la direction, du personnel de l'institution ou de l'autorité de placement.
 
 <sup>2</sup> Sont notamment considérés comme éléments constitutifs d'une infraction disciplinaire:
 
-- a) la violence physique, sexuelle ou verbale contre le personnel, d'autres résidents ou des tiers présents au sein de l’institution;
-
+- a) la violence physique, sexuelle ou verbale contre le personnel, d'autres résidents ou des tiers présents au sein de l'institution;
 - b) le commerce d'alcool ou de stupéfiants, leur possession et leur consommation ainsi que l'usage abusif de médicaments;
-
 - c) la fugue ou tout acte préparatoire;
-
 - d) les atteintes illicites au patrimoine d'autrui;
-
 - e) la perturbation du programme éducatif, du travail ou des cours;
-
 - f) l'utilisation abusive d'appareils électroniques de communication ou de divertissement, de logiciels et d'équipement informatique;
-
 - g) la possession d'objets interdits;
-
 - h) tout autre acte tombant sur le coup de la loi pénale.
 
 <sup>3</sup> Les institutions peuvent prévoir d'autres éléments constitutifs d'infractions disciplinaires dans leur règlement, approuvé par l'autorité de surveillance.
@@ -1390,27 +1312,19 @@ conditions pour la création de chambres d’isolement
 
 #### Art. 98c
 
-<sup>5</sup> Sanctions disciplinaires
+**Sanctions disciplinaires**
 
 <sup>1</sup> Les sanctions disciplinaires sont:
 
 - a) le blâme;
-
 - b) l'avertissement écrit;
-
-- c) une retenue sur l’argent de poche;
-
+- c) une retenue sur l'argent de poche;
 - d) la restriction du droit de participer à des manifestations récréatives;
-
 - e) le retrait ou la restriction du droit à effectuer des séjours hors du cadre institutionnel;
-
 - f) le retrait ou la restriction de l'autorisation de posséder des appareils électroniques de communication ou de divertissement, des logiciels informatiques, des supports de données munis d'équipement informatique;
-
 - g) le maintien en chambre;
-
-- h) le placement en chambre d’isolement;
-
-- i) les arrêts disciplinaires effectués hors de l’institution.
+- h) le placement en chambre d'isolement;
+- i) les arrêts disciplinaires effectués hors de l'institution.
 
 <sup>2</sup> Lors du maintien en chambre, le mineur passe son temps libre et de repos dans sa chambre.
 
@@ -1426,7 +1340,7 @@ conditions pour la création de chambres d’isolement
 
 #### Art. 98d
 
-<sup>5</sup> Organe compétent et quotité de la sanction
+**Organe compétent et quotité de la sanction**
 
 <sup>1</sup> Les sanctions disciplinaires sont prononcées par écrit par la direction de l'institution qui veille à ce que le sens en soit explicité à son destinataire.
 
@@ -1442,7 +1356,7 @@ conditions pour la création de chambres d’isolement
 
 #### Art. 98e
 
-<sup>5</sup> Modalités de création d’une chambre d’isolement
+**Modalités de création d'une chambre d'isolement**
 
 <sup>1</sup> La chambre d'isolement est pourvue d'un apport en air frais suffisant et d'un éclairage naturel pendant la journée. Elle comporte des installations sanitaires adéquates.
 
@@ -1452,7 +1366,7 @@ conditions pour la création de chambres d’isolement
 
 #### Art. 98f
 
-<sup>5</sup> Conditions d’utilisation d’une chambre d’isolement
+**Conditions d'utilisation d'une chambre d'isolement**
 
 <sup>1</sup> Les institutions exploitant une chambre d’isolement doivent le prévoir expressément dans leur concept. De plus, cette mesure ne peut s’appliquer qu’aux enfants âgés de 15 ans révolus.
 
@@ -1464,18 +1378,14 @@ conditions pour la création de chambres d’isolement
 
 #### Art. 98g
 
-<sup>5</sup> Mesures de sûreté
+**Mesures de sûreté**
 
 <sup>1</sup> La direction de l'institution ou le personnel désigné par ses soins peut ordonner les mesures suivantes:
 
 - a) contrôle des objets personnels et de la chambre qui doit se faire, en principe, en présence du mineur;
-
 - b) fouille corporelle superficielle sans déshabillage;
-
-- c) fouille corporelle superficielle avec déshabillage lorsque la situation l’impose;
-
+- c) fouille corporelle superficielle avec déshabillage lorsque la situation l'impose;
 - d) fouille corporelle invasive;
-
 - e) examen corporel (haleine, analyse du sang, urine, etc.).
 
 <sup>2</sup> La fouille corporelle superficielle sans déshabillage est effectuée par une personne du même sexe.
@@ -1486,21 +1396,21 @@ conditions pour la création de chambres d’isolement
 
 #### Art. 98h
 
-<sup>5</sup> Moyens de contrainte
+**Moyens de contrainte**
 
-La direction de l'institution ou le personnel désigné par ses soins peut recourir à des moyens de contrainte physique en cas de risque immédiat pour le mineur, pour des tiers ou pour des objets ainsi que dans les cas de fugue ou de tentative de fugue, dans la mesure où il n'existe aucun autre moyen propre à éviter ces dangers.
+<sup>1</sup> La direction de l'institution ou le personnel désigné par ses soins peut recourir à des moyens de contrainte physique en cas de risque immédiat pour le mineur, pour des tiers ou pour des objets ainsi que dans les cas de fugue ou de tentative de fugue, dans la mesure où il n'existe aucun autre moyen propre à éviter ces dangers.
 
 #### Art. 98i
 
-<sup>5</sup> Accord à l’amiable
+**Accord à l'amiable**
 
-<sup>1</sup> En cas de recours contre une décision portant sur des mesures restreignant la liberté, le Département statue. Il peut mandater le service compétent pour tenter d’obtenir un accord à l'amiable.
+<sup>1</sup> En cas de recours contre une décision portant sur des mesures restreignant la liberté, le département statue. Il peut mandater le service compétent pour tenter d’obtenir un accord à l'amiable.
 
 <sup>2</sup> L'institution devra prendre position. Le mineur doit être entendu.
 
 <sup>3</sup> Si aucun accord à l'amiable n’intervient dans un délai de trente jours à compter du dépôt du recours, la procédure suit son cours en vue du prononcé d'une décision.
 
-### Chapitre 10: Education précoce spécialisée (art. 51 et ss LJe)
+## 10 Education précoce spécialisée (art. 51 ss LJe)
 
 #### Art. 99
 
@@ -1510,17 +1420,17 @@ La direction de l'institution ou le personnel désigné par ses soins peut recou
 
 <sup>3</sup> Son but principal est de rendre possible et/ou de faciliter l'intégration de l'enfant dans les structures scolaires.
 
-### Section 1: Dispositions générales
+### 10.1 Dispositions générales
 
 #### Art. 100
 
 **Organisation**
 
-<sup>1</sup> Le Département assure l'organisation de l'éducation précoce spécialisée sur l'ensemble du canton.
+<sup>1</sup> Le département assure l'organisation de l'éducation précoce spécialisée sur l'ensemble du canton.
 
-<sup>2</sup> L'office compétent désigné pour fournir les prestations d'éducation précoce spécialisée est l'Office éducatif itinérant (ci-après OEI).
+<sup>2</sup> L'office compétent désigné pour fournir les prestations d'éducation précoce spécialisée est l'Office éducatif itinérant (ci-après: OEI).
 
-<sup>3</sup> Le Département peut passer une convention ou un contrat de prestation avec une association privée susceptible de fournir ce type de prestation.
+<sup>3</sup> Le département peut passer une convention ou un contrat de prestation avec une association privée susceptible de fournir ce type de prestation.
 
 #### Art. 101
 
@@ -1528,8 +1438,7 @@ La direction de l'institution ou le personnel désigné par ses soins peut recou
 
 <sup>1</sup> Pour être autorisé à fournir des prestations d'éducation précoce spécialisée, le praticien doit remplir les conditions suivantes:
 
-- a) être porteur soit d'un diplôme en pédagogie spécialisée ou en pédagogie curative, soit d'un titre attestant d'une formation jugée équivalente par le Département;
-
+- a) être porteur soit d'un diplôme en pédagogie spécialisée ou en pédagogie curative, soit d'un titre attestant d'une formation jugée équivalente par le département;
 - b) avoir acquis (ou s'engager à le faire) une formation complémentaire pour pédagogue en éducation précoce spécialisée.
 
 <sup>2</sup> Le praticien en éducation précoce spécialisée a l'obligation de se tenir au courant de l'évolution théorique et pratique de la profession. Des directives internes règlent la formation continue et le perfectionnement au sein de l'OEI.
@@ -1566,25 +1475,25 @@ La direction de l'institution ou le personnel désigné par ses soins peut recou
 
 <sup>2</sup> Lorsqu'un collaborateur a connaissance d'une infraction se poursuivant d'office (notamment les situations de maltraitance infantile), il a l'obligation d'en référer au chef de service ou à son supérieur si le praticien exerce dans le cadre d'une association privée, le cas échéant à son comité, qui dénonce les faits au juge d'instruction pénale.
 
-<sup>3</sup> L'article 54 de la loi en faveur de la jeunesse s'applique.
+<sup>3</sup> L'article 54 LJE s'applique.
 
-### Section 2: Financement
+### 10.2 Financement
 
 #### Art. 106
 
-**Prise en charge de la mesure par l'Assurance invalidité**
+**Prise en charge de la mesure par l'assurance-invalidité**
 
-Lorsque la prise en charge financière de la prestation d'éducation précoce spécialisée est assumée par l'Assurance invalidité le financement est réglé par les conventions passées avec l'Office fédéral des assurances sociales.
+<sup>1</sup> Lorsque la prise en charge financière de la prestation d'éducation précoce spécialisée est assumée par l'assurance-invalidité le financement est réglé par les conventions passées avec l'Office fédéral des assurances sociales.
 
 #### Art. 107
 
-Mesures non prises en charge par l'Assurance invalidité.
+**Mesures non prises en charge par l'assurance-invalidité.**
 
-<sup>1</sup> Lorsque la prise en charge financière de la prestation d'éducation précoce spécialisée n'est pas assumée par l'Assurance invalidité (enfants étrangers en voie d'adoption, handicap non reconnu, etc.) celle-ci peut être prise en charge par le service public dans les limites de ses disponibilités budgétaires. Lorsque la mesure est confiée par le Service à une association privée, le tarif de l'Assurance invalidité est appliqué.
+<sup>1</sup> Lorsque la prise en charge financière de la prestation d'éducation précoce spécialisée n'est pas assumée par l'assurance-invalidité (enfants étrangers en voie d'adoption, handicap non reconnu, etc.) celle-ci peut être prise en charge par le service public dans les limites de ses disponibilités budgétaires. Lorsque la mesure est confiée par le service à une association privée, le tarif de l'assurance-invalidité est appliqué.
 
-<sup>2</sup> Les dispositions de la loi sur la gestion et le contrôle administratif et financier du canton du 24 juin 1980 demeurent réservées.
+<sup>2</sup> Les dispositions de la loi sur la gestion et le contrôle administratif et financier du canton demeurent réservées.
 
-### Chapitre 11: Dispositions transitoires
+## 11 Dispositions transitoires
 
 #### Art. 108
 
@@ -1596,70 +1505,54 @@ Mesures non prises en charge par l'Assurance invalidité.
 
 #### Art. 109
 
-Participation du canton aux réseaux d'accueil à la journée (art. 42 à 45) La participation financière du canton au financement des réseaux d'accueil extra-familial pour les enfants de la naissance jusqu'à la fin de la scolarité primaire entre en vigueur de manière rétroactive au 1er janvier 2001, pour autant que les conditions suivantes soient remplies:
+**Participation du canton aux réseaux d'accueil à la journée (art. 42 à 45 OJe)**
+
+<sup>1</sup> La participation financière du canton au financement des réseaux d'accueil extra-familial pour les enfants de la naissance jusqu'à la fin de la scolarité primaire entre en vigueur de manière rétroactive au 1<sup>er</sup> janvier 2001, pour autant que les conditions suivantes soient remplies:
 
 - a) les structures remplissent les critères définis par les directives cantonales et sont au bénéfice d'une autorisation;
-
 - b) ces structures correspondent à un besoin démontré et approuvé par la planification communale ou régionale;
-
-- c) un contrat de prestations ou une convention a été passé entre le Service et la structure d'accueil.
+- c) un contrat de prestations ou une convention a été passé entre le service et la structure d'accueil.
 
 #### Art. 110
 
 **Colonies et camps de vacances (art. 56 à 58 LJe)**
 
-Les demandes d'autorisation actuellement en cours de traitement et introduites avant l'entrée en vigueur de la LJe sont régies par les nouvelles dispositions.
+<sup>1</sup> Les demandes d'autorisation actuellement en cours de traitement et introduites avant l'entrée en vigueur de la LJe sont régies par les nouvelles dispositions.
 
 #### Art. 111
 
-**Personnel d'encadrement (art. 61 à 65)**
+**Personnel d'encadrement (art. 61 à 65 OJe)**
 
-<sup>1</sup> Les prescriptions concernant le personnel d'encadrement pour ce qui concerne leur âge, leur nombre et leur rôle entrent en vigueur au 1er janvier 2002.
+<sup>1</sup> Les prescriptions concernant le personnel d'encadrement pour ce qui concerne leur âge, leur nombre et leur rôle entrent en vigueur au 1<sup>er</sup> janvier 2002.
 
-<sup>2</sup> L'obligation pour les personnes responsables de l'encadrement des enfants ainsi que les aides-moniteurs d'être au bénéfice d'une formation spécifique de base dispensée par un organisme reconnu par le canton entre en vigueur au 1er janvier 2002.
+<sup>2</sup> L'obligation pour les personnes responsables de l'encadrement des enfants ainsi que les aides-moniteurs d'être au bénéfice d'une formation spécifique de base dispensée par un organisme reconnu par le canton entre en vigueur au 1<sup>er</sup> janvier 2002.
 
 #### Art. 112
 
-Placement de mineurs hors canton dans des institutions d'éducation spécialisées reconnues (art. 91) La nouvelle répartition des frais de placement concernant des mineurs placés dans des institutions reconnues hors canton prend effet au 1er janvier 2002.
+**Placement de mineurs hors canton dans des institutions d'éducation spécialisées reconnues (art. 91 OJe)**
+
+<sup>1</sup> La nouvelle répartition des frais de placement concernant des mineurs placés dans des institutions reconnues hors canton prend effet au 1<sup>er</sup> janvier 2002.
 
 #### Art. 113
 
 **Abrogation**
 
-Toutes dispositions contraires à la présente ordonnance sont abrogées, notamment:
+<sup>1</sup> Toutes dispositions contraires à la présente ordonnance sont abrogées, notamment:
 
-- a) le règlement du 27 septembre 1972 concernant la surveillance des enfants et des adolescents placés ainsi que le contrôle des établissements recevant des mineurs;
-
+- a) le règlement concernant la surveillance des enfants et des adolescents placés ainsi que le contrôle des établissements recevant des mineurs du 27 septembre 1972;
 - b) lettre a de l'article 29 et l'article 31 de la loi sur l'enseignement spécialisé du 25 juin 1986;
-
-- c) lettre a de l'article 27, l'alinéa 1 de l'article 28, l'article 29 du règlement d'exécution de la loi sur l'enseignement spécialisé du 25 février 1987.
+- c) lettre a de l'article 27, l'alinéa 1 de l'article 28 et l'article 29 du règlement d'exécution de la loi sur l'enseignement spécialisé du 25 février 1987.
 
 #### Art. 114
 
 **Exécution**
 
-L'exécution de la présente ordonnance est confiée au Département.
+<sup>1</sup> L'exécution de la présente ordonnance est confiée au département.
 
 #### Art. 115
 
 **Publication et entrée en vigueur**
 
-La présente ordonnance est publiée dans le Bulletin officiel et entre en vigueur le 1er janvier 2015[^115-1]
+<sup>1</sup> La présente ordonnance est publiée dans le Bulletin officiel et entre en vigueur le 1<sup>er</sup> janvier 2015
 
-Ainsi adopté en Conseil d'Etat, à Sion, le 14 janvier 2015.
-
-Le président du Conseil d'Etat: Jean-Michel Cina Le chancelier d'Etat: Philipp Spörri
-
-**Entrée en**
-
-[^115-1]: Modification du 14 janvier 2015 BO No 4/2015 01.01.2015
-
-### Intitulé et modifications Publication
-
-**1.06.2001**
-
-vigueur RO/VS 2001, 331
-
-## Autres notes
-
-- [1] Modification du 4.06.2003 RO/VS 2003, 142 1.06.2003
+RCV BO/Abl. 20/2001
