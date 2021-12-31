@@ -4,11 +4,11 @@ title: Reglement vom 20. November 2006 für das Bundesgericht (BGerR)
 short: BGerR
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
 language: de
-version: 2021-07-01
+version: 2022-01-01
 adopted: 2006-11-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2006-834-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2006-834-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20210701/de"
 
 (BGerR)
 
-vom 20. November 2006 (Stand am 1. Juli 2021)
+vom 20. November 2006 (Stand am 1. Januar 2022)
 
 Das Bundesgericht,
 
@@ -63,7 +63,7 @@ Der Vizepräsident oder die Vizepräsidentin vertritt und unterstützt den Präs
 
 <sup>1</sup> Das Gesamtgericht nimmt die Aufgaben gemäss Artikel 15 Absatz 1 BGG wahr.
 
-<sup>2</sup> ...[^3-1]
+<sup>2</sup> …[^3-1]
 
 <sup>3</sup> Es wählt das dritte Mitglied der Verwaltungskommission.
 
@@ -447,7 +447,7 @@ Die Erste öffentlich-rechtliche Abteilung behandelt die Beschwerden in öffentl
 - d. internationale Rechtshilfe in Strafsachen;
 - e. Strassenverkehr;
 - f. Bürgerrecht.
-- g.[^29-1] ...
+- g.[^29-1] …
 
 <sup>2</sup>
 
@@ -651,7 +651,7 @@ Die Zweite sozialrechtliche Abteilung behandelt die Beschwerden in öffentlichre
 
 <sup>3</sup> Bei Meinungsverschiedenheit zwischen Abteilungen entscheidet der Präsident oder die Präsidentin des Bundesgerichts.
 
-<sup>4</sup> ...[^36-1]
+<sup>4</sup> …[^36-1]
 
 [^36-1]: Aufgehoben durch Ziff. I der V des BGer vom 24. Nov. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
 
@@ -933,7 +933,7 @@ Der Generalsekretär oder die Generalsekretärin und die leitenden Angestellten 
 
 <sup>1</sup> Die Rekurskommission besteht aus drei ordentlichen Richtern oder Richterinnen.
 
-<sup>2</sup> ...[^54-2]
+<sup>2</sup> …[^54-2]
 
 <sup>3</sup> Den Vorsitz führt der Richter oder die Richterin mit dem höchsten Amtsalter.
 
@@ -953,7 +953,8 @@ Die Rekurskommission beurteilt Streitigkeiten nach folgenden Bestimmungen:
 - a.[^55-2] Artikel 10 Absatz 2 zweiter Satz des Reglements vom 31. März 2006[^55-3] über die Verwaltungsgebühren des Bundesgerichts; sie beurteilt auch Streitigkeiten betreffend andere Verfügungen des Generalsekretariats über den Kosteneinzug;
 - b. Artikel 28 BGG und Artikel 64 dieses Reglements betreffend das Öffentlichkeitsprinzip in der Verwaltung;
 - c. Artikel 16 der Verordnung des Bundesgerichts vom 27. September 1997[^55-4] zum Archivierungsgesetz;
-- d. Artikel 15[^55-5] der Richtlinien vom 6. November 2006[^55-6] betreffend die Gerichtsberichterstattung am Bundesgericht.
+- d. Artikel 15[^55-5] der Richtlinien vom 6. November 2006[^55-6] betreffend die Gerichtsberichterstattung am Bundesgericht;
+- e.[^55-7] Art. 52 Abs. 4 des Bundesgesetzes vom 21. Juni 2019[^55-8] über das öffentliche Beschaffungswesen.
 
 [^55-1]: Fassung gemäss Ziff. I der V des BGer vom 24. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
 [^55-2]: Fassung gemäss Ziff. I der V des BGer vom 24. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
@@ -961,6 +962,8 @@ Die Rekurskommission beurteilt Streitigkeiten nach folgenden Bestimmungen:
 [^55-4]: [SR 152.21](https://fedlex.data.admin.ch/eli/cc/1999/460)
 [^55-5]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 der Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
 [^55-6]: [SR 173.110.133](https://fedlex.data.admin.ch/eli/cc/2006/836)
+[^55-7]: Eingefügt durch Ziff. I der V des BGer vom 26. Aug. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 799](https://fedlex.data.admin.ch/eli/oc/2021/799)).
+[^55-8]: [SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
 
 #### Art. 56
 
@@ -1098,8 +1101,8 @@ Folgende Reglemente werden aufgehoben:
 - 3\. Reglement vom 22. Februar 1993[^65-3] über die Nebenbeschäftigungen der Mitglieder des Bundesgerichts;
 - 4\. Reglement vom 16. März 1993[^65-4] über die Nebenbeschäftigungen der Mitglieder des Eidgenössischen Versicherungsgerichts.
 
-[^65-1]: [[AS 1979 46](https://fedlex.data.admin.ch/eli/oc/1979/46_46_46), [1991 378](https://fedlex.data.admin.ch/eli/oc/1991/378_378_378), [1993 3165](https://fedlex.data.admin.ch/eli/oc/1993/3165_3165_3165), [1994 294](https://fedlex.data.admin.ch/eli/oc/1994/294_294_294), [2000 2191](https://fedlex.data.admin.ch/eli/oc/2000/339), [2001 3258](https://fedlex.data.admin.ch/eli/oc/2001/487)Art. 88 Ziff. 1, [2004 2343](https://fedlex.data.admin.ch/eli/oc/2004/273), [2005 483](https://fedlex.data.admin.ch/eli/oc/2005/57)]
-[^65-2]: [[AS 1999 3019](https://fedlex.data.admin.ch/eli/oc/1999/462), [2001 965](https://fedlex.data.admin.ch/eli/oc/2001/130)[3287](https://fedlex.data.admin.ch/eli/oc/2001/488)Art. 13]
+[^65-1]: [[AS 1979 46](https://fedlex.data.admin.ch/eli/oc/1979/46_46_46); [1991 378](https://fedlex.data.admin.ch/eli/oc/1991/378_378_378); [1993 3165](https://fedlex.data.admin.ch/eli/oc/1993/3165_3165_3165); [1994 294](https://fedlex.data.admin.ch/eli/oc/1994/294_294_294); [2000 2191](https://fedlex.data.admin.ch/eli/oc/2000/339); [2001 3258](https://fedlex.data.admin.ch/eli/oc/2001/487)Art. 88 Ziff. 1; [2004 2343](https://fedlex.data.admin.ch/eli/oc/2004/273); [2005 483](https://fedlex.data.admin.ch/eli/oc/2005/57)]
+[^65-2]: [[AS 1999 3019](https://fedlex.data.admin.ch/eli/oc/1999/462); [2001 965](https://fedlex.data.admin.ch/eli/oc/2001/130), [3287](https://fedlex.data.admin.ch/eli/oc/2001/488)Art. 13]
 [^65-3]: [[AS 1993 1352](https://fedlex.data.admin.ch/eli/oc/1993/1352_1352_1352)]
 [^65-4]: [[AS 1993 1355](https://fedlex.data.admin.ch/eli/oc/1993/1355_1355_1355)]
 

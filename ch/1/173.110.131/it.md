@@ -4,11 +4,11 @@ title: Regolamento del 20 novembre 2006 del Tribunale federale (RTF)
 short: RTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
 language: it
-version: 2021-07-01
+version: 2022-01-01
 adopted: 2006-11-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2006-834-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2006-834-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20210701/it"
 
 (RTF)
 
-del 20 novembre 2006 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
+del 20 novembre 2006 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Tribunale federale,
 
@@ -951,14 +951,17 @@ La Commissione di ricorso decide sulle controversie previste dalle seguenti norm
 - a.[^55-2] articolo 10 capoverso 2 secondo periodo del regolamento del 31 marzo 2006[^55-3] sulle tasse amministrative del Tribunale federale; essa decide anche sulle controversie concernenti altre decisioni del segretariato generale in materia di riscossione delle spese;
 - b. articolo 28 LTF e articolo 64 di questo regolamento concernenti il principio della trasparenza nell’amministrazione;
 - c. articolo 16 dell’ordinanza del Tribunale federale del 27 settembre 1997[^55-4] relativa all’applicazione della legge sull’archiviazione;
-- d. articolo 15[^55-5] delle direttive del 6 novembre 2006[^55-6] concernenti la cronaca giudiziaria presso il Tribunale federale.
+- d. articolo 15[^55-5] delle direttive del 6 novembre 2006[^55-6] concernenti la cronaca giudiziaria presso il Tribunale federale;
+- e.[^55-7] articolo 52 capoverso 4 della legge federale del 21 giugno 2019[^55-8] sugli appalti pubblici.
 
 [^55-1]: Nuovo testo giusta il n. I del R del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
 [^55-2]: Nuovo testo giusta il n. I del R del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
 [^55-3]: [RS 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
 [^55-4]: [RS 152.21](https://fedlex.data.admin.ch/eli/cc/1999/460)
-[^55-5]: Il rimando è stata adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+[^55-5]: Il rimando è stata adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali (RO **2004** 4937).
 [^55-6]: [RS 173.110.133](https://fedlex.data.admin.ch/eli/cc/2006/836)
+[^55-7]: Introdotta dal n. I del R del TF del 26 ago. 2021, in vigore dal 1° gen. 2022 ([RU 2021 799](https://fedlex.data.admin.ch/eli/oc/2021/799)).
+[^55-8]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
 
 #### Art. 56
 

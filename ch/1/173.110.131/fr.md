@@ -4,11 +4,11 @@ title: Règlement du 20 novembre 2006 du Tribunal fédéral (RTF)
 short: RTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
 language: fr
-version: 2021-07-01
+version: 2022-01-01
 adopted: 2006-11-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2006-834-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-834-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20210701/fr"
 
 (RTF)
 
-du 20 novembre 2006 (Etat le 1<sup>er</sup> juillet 2021)
+du 20 novembre 2006 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Tribunal fédéral,
 
@@ -953,7 +953,8 @@ La Commission de recours statue sur les litiges prévus aux dispositions suivant
 - a.[^55-2] art. 10, al. 2, 2<sup>e</sup> phrase du règlement du 31 mars 2006 sur les émoluments administratifs du Tribunal fédéral[^55-3] et contre les autres décisions du Secrétariat général en matière de recouvrement.
 - b. art. 28 LTF et art. 64 du présent règlement relatif à la transparence dans l’administration;
 - c. art. 16 de l’ordonnance du 27 septembre 1997 du Tribunal fédéral portant application de la loi fédérale sur l’archivage[^55-4];
-- d. art. 15[^55-5] des directives du 6 novembre 2006 concernant la chronique de l’activité judiciaire du Tribunal fédéral[^55-6].
+- d. art. 15[^55-5] des directives du 6 novembre 2006 concernant la chronique de l’activité judiciaire du Tribunal fédéral[^55-6];
+- e.[^55-7] art. 52, al. 4, de la loi fédérale du 21 juin 2019 sur les marchés publics[^55-8].
 
 [^55-1]: Nouvelle teneur selon le ch. I de l’O du TF du 24 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
 [^55-2]: Nouvelle teneur selon le ch. I de l’O du TF du 24 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
@@ -961,6 +962,8 @@ La Commission de recours statue sur les litiges prévus aux dispositions suivant
 [^55-4]: [RS 152.21](https://fedlex.data.admin.ch/eli/cc/1999/460)
 [^55-5]: Le renvoi a été adapté en application de l’art. 12 al. 2 de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 [^55-6]: [RS 173.110.133](https://fedlex.data.admin.ch/eli/cc/2006/836)
+[^55-7]: Introduite par le ch. I de l’O du TF du 26 août 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 799](https://fedlex.data.admin.ch/eli/oc/2021/799)).
+[^55-8]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
 
 #### Art. 56
 
