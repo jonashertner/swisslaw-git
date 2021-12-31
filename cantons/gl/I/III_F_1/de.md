@@ -4,13 +4,13 @@ number: III F/1
 title: Einführungsgesetz zur Schweizerischen Strafprozessordnung und zur Schweizerischen Jugendstrafprozessordnung
 short: EG StPO
 language: de
-version: 2018-07-01
-valid_until: 2021-12-31
-version_adopted: 2017-05-07
+version: 2022-01-01
+valid_until: 2022-06-30
+version_adopted: 2021-09-05
 adopted: 2010-05-02
 in_force: 2011-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-F.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2128/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2256/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2128/pdf_file"
 
 (EG StPO)
 
-Vom 02.05.2010 (Stand 01.07.2018)
+Vom 02.05.2010 (Stand 01.01.2022)
 
 (Erlassen von der Landsgemeinde am 2. Mai 2010)
 
@@ -136,6 +136,12 @@ Vom 02.05.2010 (Stand 01.07.2018)
 - f. teilt die Fälle zu und beaufsichtigt deren Bearbeitung, wobei zu einzelnen Verfahren konkrete Anweisungen erteilt werden können, insbesondere über die Einleitung, den Abschluss sowie über die Ergreifung von Rechtsmitteln;
 - g. kann jederzeit Verfahren an sich ziehen oder umteilen;
 - h. regelt die Orientierung der Öffentlichkeit zu hängigen Verfahren.
+
+<sup>1a</sup> Er bezeichnet innerhalb der Staats- und Jugendanwaltschaft eine für die Datenschutzberatung zuständige Person mit folgenden Aufgaben:
+
+- a. sie berät und unterstützt mit Ausnahme der Kantonspolizei die Strafverfolgungsbehörden bei der Bearbeitung von Personendaten;
+- b. sie nimmt Datenschutz-Folgenabschätzungen gemäss dem kantonalen Datenschutzrecht vor;
+- c. sie ist Ansprechperson der oder des Beauftragten für den Datenschutz und arbeitet mit dieser oder diesem zusammen.
 
 <sup>2</sup> Sodann nimmt der Erste Staatsanwalt diejenigen Aufgaben wahr, die nicht einer anderen Stelle zukommen. Er führt zudem eigene Fälle.
 
@@ -273,6 +279,12 @@ Vom 02.05.2010 (Stand 01.07.2018)
 <sup>2</sup> Die Höchstgrenze der Ordnungsbussen beträgt 1000 Franken.
 
 <sup>3</sup> Der Regierungsrat erlässt zu den Übertretungen des kantonalen Rechts, die durch Ordnungsbussen zu ahnden sind, eine Verordnung, bestimmt darin den Bussenbetrag und regelt das Verfahren.
+
+#### Art. 28a
+
+**Register über Datenbearbeitungstätigkeiten**
+
+<sup>1</sup> Die Staats- und Jugendanwaltschaft führt ein Register über die Datenbearbeitungstätigkeiten in ihrem Zuständigkeitsbereich.
 
 ### 4.2. Verfahren bei Jugendlichen im Besonderen
 
