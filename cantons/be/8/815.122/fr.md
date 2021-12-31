@@ -4,13 +4,13 @@ number: "815.122"
 title: Ordonnance portant introduction de la législation fédérale sur les épidémies
 short: OiLEp
 language: fr
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2021-06-30
+version: 2022-01-01
+valid_until: 2022-06-30
+version_adopted: 2021-11-03
 adopted: 2015-12-09
 in_force: 2016-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.122"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2322/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2505/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2322/pdf_file"
 
 (OiLEp)
 
-du 09.12.2015 (état au 01.08.2021)
+du 09.12.2015 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -94,7 +94,7 @@ arrête:
 
 **Autorisation pour le transport international de cadavres**
 
-<sup>1</sup> Les communes sont compétentes pour établir l’autorisation internationale de transport des cadavres (laissez-passer pour cadavre).
+<sup>1</sup> La commune du lieu de la pose des scellés sur le cercueil est compétente pour établir l’autorisation internationale de transport des cadavres (laissez-passer pour cadavre).
 
 #### Art. 11
 

@@ -4,13 +4,13 @@ number: "815.122"
 title: Einführungsverordnung zur eidgenössischen Epidemiengesetzgebung
 short: EV EpG
 language: de
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2021-06-30
+version: 2022-01-01
+valid_until: 2022-06-30
+version_adopted: 2021-11-03
 adopted: 2015-12-09
 in_force: 2016-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.122"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2322/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2505/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2322/pdf_file"
 
 (EV EpG)
 
-vom 09.12.2015 (Stand 01.08.2021)
+vom 09.12.2015 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -94,7 +94,7 @@ beschliesst:
 
 **Bewilligung für internationale Leichentransporte**
 
-<sup>1</sup> Die Gemeinden sind zuständig für die Ausstellung der Bewilligung für internationale Leichentransporte (Leichenpass).
+<sup>1</sup> Die Gemeinde am Versiegelungsort des Sargs ist zuständig für die Ausstellung der Bewilligung für internationale Leichentransporte (Leichenpass).
 
 #### Art. 11
 
