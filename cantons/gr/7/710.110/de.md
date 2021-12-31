@@ -4,13 +4,13 @@ number: "710.110"
 title: Verordnung über den kantonalen Finanzhaushalt
 short: FHV
 language: de
-version: 2019-12-31
-corrected: 2020-02-27
-version_adopted: 2020-02-25
+version: 2020-09-01
+corrected: 2022-01-01
+version_adopted: 2020-08-11
 adopted: 2012-09-25
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/710.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3013/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3070/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3013/pdf_file"
 
 (FHV)
 
-Vom 25.09.2012 (Stand 31.12.2019)
+Vom 25.09.2012 (Stand 01.09.2020)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -58,7 +58,7 @@ von der Regierung erlassen am 25. September 2012
 
 **Mittelfristiges Haushaltsgleichgewicht**
 
-<sup>1</sup> Für die Beurteilung des Haushaltsgleichgewichts massgebend ist das operative Ergebnis der ersten Stufe unter Einbezug von Auflösungen von gebildeten Vorfinanzierungen in der dritten Stufe.
+<sup>1</sup> Für die Beurteilung des Haushaltsgleichgewichts massgebend ist das operative Ergebnis der ersten Stufe unter Einbezug von Auflösungen von gebildeten Vorfinanzierungen in der zweiten Stufe.
 
 <sup>2</sup> Ein mittelfristiger Ausgleich erfasst einen Konjunkturzyklus über die Dauer von vier bis acht Jahren.
 
@@ -75,7 +75,7 @@ von der Regierung erlassen am 25. September 2012
 <sup>3</sup> Das frei verfügbare Eigenkapital steht zur Deckung von Aufwandüberschüssen der Erfolgsrechnung gemäss Artikel 2a Absatz 1 und für die Bildung von Vorfinanzierungen von Grossprojekten gemäss Artikel 24 zur Verfügung. Es entspricht dem Bilanzüberschuss abzüglich:
 
 - a) des Verwaltungsvermögens ohne die bundesfinanzierten Darlehen, nämlich Darlehen gemäss Neuer Regionalpolitik, Darlehen an die Landwirtschaftliche Kreditgenossenschaft Graubünden sowie Darlehen aus forstwirtschaftlichen Investitionskrediten;
-- b) der Aktien im Finanzvermögen, welche aus politischem Interesse gehalten werden.
+- b) der Aktien und Anteilscheine im Finanzvermögen, welche aus politischem Interesse gehalten werden.
 
 #### Art. 3
 
@@ -347,7 +347,7 @@ von der Regierung erlassen am 25. September 2012
 
 - a) flüssige Mittel zu Nominalwerten;
 - b) Forderungen zu Nominalwerten;
-- c) Wertschriften mit Kurswert zum durchschnittlichen Kurswert am Jahresende;
+- c) Wertschriften mit Kurswert zum durchschnittlichen Kurswert am Jahresende, bei eingeschränkter Realisierbarkeit aufgrund von relativ geringem Handelsvolumen unter Vornahme eines pauschalen Abschlags von 20 Prozent;
 - d) Wertschriften ohne Kurswert zum Anschaffungswert;
 - e) Fremdwährungen zum Kurswert;
 - f) aktive Rechnungsabgrenzungen zu Nominalwerten;

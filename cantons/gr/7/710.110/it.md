@@ -4,13 +4,13 @@ number: "710.110"
 title: Ordinanza sulla gestione finanziaria cantonale
 short: OGFC
 language: it
-version: 2019-12-31
-corrected: 2020-02-27
-version_adopted: 2020-02-25
+version: 2020-09-01
+corrected: 2022-01-01
+version_adopted: 2020-08-11
 adopted: 2012-09-25
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/710.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3013/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3070/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3013/pdf_file"
 
 (OGFC)
 
-del 25.09.2012 (stato 31.12.2019)
+del 25.09.2012 (stato 01.09.2020)
 
 emanata dal Governo il 25 settembre 2012
 
@@ -58,7 +58,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 
 **Equilibrio di bilancio a medio termine**
 
-<sup>1</sup> Per valutare l'equilibrio di bilancio risulta determinante il risultato operativo al primo livello tenendo conto degli scioglimenti di prefinanziamenti costituiti al terzo livello.
+<sup>1</sup> Per valutare l'equilibrio di bilancio risulta determinante il risultato operativo al primo livello tenendo conto degli scioglimenti di prefinanziamenti costituiti al secondo livello.
 
 <sup>2</sup> Ai fini dell'equilibrio di bilancio a medio termine si prende a riferimento un ciclo congiunturale di durata compresa tra quattro e otto anni.
 
@@ -75,7 +75,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 <sup>3</sup> Il capitale proprio liberamente disponibile è a disposizione per la copertura di eccedenze di spesa nel conto economico conformemente all'articolo 2a capoverso 1 e per la costituzione di prefinanziamenti di grandi progetti conformemente all'articolo 24. Esso corrisponde all'eccedenza di bilancio al netto:
 
 - a) dei beni amministrativi senza i mutui finanziati dalla Confederazione, ossia mutui conformemente alla nuova politica regionale, mutui alla Cooperativa grigionese di credito agrario nonché mutui da crediti di investimento forestali;
-- b) delle azioni nei beni patrimoniali detenute per ragioni di interesse politico.
+- b) delle azioni e delle quote di partecipazione nei beni patrimoniali detenute per ragioni di interesse politico.
 
 #### Art. 3
 
@@ -347,7 +347,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 
 - a) attivi liquidi ai valori nominali;
 - b) crediti ai valori nominali;
-- c) titoli con valore di borsa al valore di borsa medio alla fine dell'anno;
+- c) titoli con valore di borsa al valore di borsa medio alla fine dell'anno, in caso di realizzabilità limitata a causa di volumi relativamente bassi degli scambi si procede a una riduzione forfetaria del 20 per cento;
 - d) titoli senza valore di borsa al valore d'acquisto;
 - e) valute estere al valore del corso;
 - f) delimitazioni contabili attive ai valori nominali;

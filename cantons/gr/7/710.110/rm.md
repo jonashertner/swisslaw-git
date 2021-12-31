@@ -4,13 +4,13 @@ number: "710.110"
 title: Ordinaziun da finanzas dal chantun Grischun
 short: OFC
 language: rm
-version: 2019-12-31
-corrected: 2020-02-27
-version_adopted: 2020-02-25
+version: 2020-09-01
+corrected: 2022-01-01
+version_adopted: 2020-08-11
 adopted: 2012-09-25
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/710.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3013/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3070/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3013/pdf_file"
 
 (OFC)
 
-dals 25-09-2012 (versiun dals 31-12-2019)
+dals 25-09-2012 (versiun dals 01-09-2020)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1],
 
@@ -58,7 +58,7 @@ relaschada da la regenza ils 25 da settember 2012
 
 **Equiliber da las finanzas a vista mesauna**
 
-<sup>1</sup> Per giuditgar l'equiliber da las finanzas è decisiv il resultat operativ da l'emprim stgalim integrond las liquidaziuns da las prefinanziaziuns furmadas en il terz stgalim.
+<sup>1</sup> Per giuditgar l'equiliber da las finanzas è decisiv il resultat operativ da l'emprim stgalim integrond las liquidaziuns da las prefinanziaziuns furmadas en il segund stgalim.
 
 <sup>2</sup> Ina gulivaziun a vista mesauna cumpiglia in ciclus da conjunctura sur la durada da 4 fin 8 onns.
 
@@ -75,7 +75,7 @@ relaschada da la regenza ils 25 da settember 2012
 <sup>3</sup> L'agen chapital libramain disponibel stat a disposiziun per cuvrir ils surplis d'expensas dal quint economic tenor l'artitgel 2a alinea 1 e per furmar las prefinanziaziuns da projects gronds tenor l'artitgel 24. El correspunda al surpli da bilantscha minus:
 
 - a) la facultad administrativa senza ils emprests finanziads da la confederaziun, numnadamain ils emprests tenor la nova politica regiunala, ils emprests a l'associaziun grischuna per credits a l'agricultura sco er ils emprests or dals credits d'investiziun da l'economia forestala;
-- b) las aczias en la facultad finanziala, che vegnan segnadas per interess politic.
+- b) las aczias ed ils certificats da participaziun en la facultad finanziala, che vegnan segnads per interess politic.
 
 #### Art. 3
 
@@ -347,7 +347,7 @@ relaschada da la regenza ils 25 da settember 2012
 
 - a) meds finanzials liquids a la valur nominala;
 - b) pretensiuns a la valur nominala;
-- c) vaglias cun valur da bursa a la valur da bursa media a la fin da l'onn;
+- c) vaglias cun valur da bursa a la valur da bursa media a la fin da l'onn, en cas d'ina realisabladad reducida pervia d'in volumen da commerzi relativamain pitschen faschond ina reducziun pauschala da 20 pertschient;
 - d) vaglias senza valur da bursa a la valur d'acquisiziun;
 - e) valutas estras a la valur da bursa;
 - f) posiziuns transitoricas activas a la valur nominala;
