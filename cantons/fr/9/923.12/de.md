@@ -1,42 +1,47 @@
 ---
 canton: FR
 number: "923.12"
-title: "Reglement über die Ausübung der Patentfischerei in den Jahren 2019, 2020 und 2021"
+title: "Reglement über die Ausübung der Patentfischerei in den Jahren 2022, 2023 und 2024"
 short: FischR
 language: de
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-11-23
 adopted: 2024-10-01
 in_force: 2025-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/923.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/6186/pdf_file"
-text: pdf
+pdf: "https://bdlf.fr.ch/api/de/versions/7545/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement über die Ausübung der Patentfischerei in den Jahren 2019, 2020 und 2021 (FischR)
+# Reglement über die Ausübung der Patentfischerei in den Jahren 2022, 2023 und 2024
 
-vom 13.11.2018 (Fassung in Kraft getreten am 01.04.2019)
+Ausübung der Patentfischerei – R
 
-## Der Staatsrat des Kantons Freiburg
+(FischR)
 
-gestützt auf das Bundesgesetz vom 21. Juni 1991 über die Fischerei und die dazugehörige Verordnung vom 24. November 1993;
+vom 23.11.2021 (Fassung in Kraft getreten am 01.01.2022)
 
-gestützt auf die eidgenössische Tierschutzverordnung vom 23. April 2008; gestützt auf das Gesetz vom 15. Mai 1979 über die Fischerei;
+Der Staatsrat des Kantons Freiburg
 
-gestützt auf das Gesetz vom 4. Februar 1972 über die öffentlichen Sachen; gestützt auf die Vereinbarung vom 2. Juni und 18. Juni 2009 zwischen den Kantonen Bern und Freiburg betreffend die Fischerei in den Grenzgewässern der Sense und der Saane;
+gestützt auf das Bundesgesetz vom 21. Juni 1991 über die Fischerei (BGF) und die dazugehörige Verordnung vom 24. November 1993 (VBGF);
+
+gestützt auf die eidgenössische Tierschutzverordnung vom 23. April 2008 (TSchV);
+
+gestützt auf das Gesetz vom 15. Mai 1979 über die Fischerei (FischG);
+
+gestützt auf das Gesetz vom 4. Februar 1972 über die öffentlichen Sachen (ÖSG);
+
+gestützt auf die Vereinbarung vom 2. Juni und 18. Juni 2009 zwischen den Kantonen Bern und Freiburg betreffend die Fischerei in den Grenzgewässern der Sense und der Saane;
 
 gestützt auf das Konkordat vom 24. April 1968 über die Ausübung der Fischerei;
 
 auf Antrag der Direktion der Institutionen und der Land- und Forstwirtschaft,
 
-## beschliesst:
+beschliesst:
 
-- 1\. KAPITEL
-
-### Geltungsbereich
+## 1 Geltungsbereich
 
 #### Art. 1
 
@@ -46,125 +51,65 @@ auf Antrag der Direktion der Institutionen und der Land- und Forstwirtschaft,
 
 <sup>2</sup> In ihm wird ebenfalls der Fang von Köderfischen und von Krebsen in diesen Gewässern geregelt.
 
-<sup>3</sup> Die für die Fischerei namentlich aus Gründen der öffentlichen Gesundheit nicht offenen Gewässer gelten als nicht für die Fischerei bestimmte Gewässer. Die Nutzung dieser Gewässer untersteht insbesondere dem Gesetz über die öffentlichen Sachen.
+<sup>3</sup> Die für die Fischerei aus Gründen der öffentlichen Gesundheit nicht offenen Gewässer gelten als nicht für die Fischerei bestimmte Gewässer. Die Nutzung dieser Gewässer untersteht insbesondere dem Gesetz über die öffentlichen Sachen.
 
-- 2\. KAPITEL
-
-### Verleihung des Fischereirechts
+## 2 Verleihung des Fischereirechts
 
 #### Art. 2
-
-**Fischerei ohne Patent**
-
-<sup>1</sup> Die Fischerei ohne Patent ist in den für die Patentfischerei offenen Gewässern erlaubt:
-
-- a) im Pérolles-See unter folgenden Bedingungen:
-
-- für Erwachsene und Minderjährige;
-
-- vom 1. Sonntag im März bis 1. Sonntag im Oktober;
-
-- vom Ufer aus; nur in den folgenden (mit Schildern gekennzeichneten) Sektoren:
-
-&gt; am rechten Ufer, von Les Rittes (Koord.: 2 578 997 / 1 182 251) bis zur Pérolles-Brücke &gt; am linken Ufer, vom künstlichen Kanal am Ende des Wegs, der vom Sentier Schoch her kommt (Koord.: 2 579 111 / 1 182 488) bis zur Lichtung beim südlichen Ende der Galerie des Sentier Schoch (Koord.: 2 578 925 / 1 182 253); dann vom Ende des grossen Schilfgürtels (Koord.: 2 578 918 / 1 182 116) bis zur Pérolles-Brücke;
-
-- mit den nach Kapitel 8 dieses Reglements für diesen See zugelassenen Fanggeräten, ausser für Personen ab dem vollendeten
-
-- 16\. Altersjahr, die nur mit einer einfachen, beschwerten, schwimmenden Handangel, die mit einem Schwimmer und einem einfachen Angelhaken mit natürlichen Ködern (Fische, Fischeier oder Amphibienlaich ausgeschlossen) versehen ist, fischen dürfen;
-
-- b) in den übrigen für die Patentfischerei offenen Gewässern unter folgenden Bedingungen:
-
-- für die Minderjährigen unter 16 Jahren unter der Aufsicht einer Person, welche die elterliche Sorge hat und Inhaberin eines Fischereipatents ist, oder einer anderen volljährigen
-
-Aufsichtsperson, die ebenfalls ein Fischereipatent besitzt;
-
-- ausserhalb der Zeiten nach Kapitel 6 dieses Reglements;
-
-- vom Ufer oder von einem Wasserfahrzeug aus;
-
-- mit den nach Kapitel 8 dieses Reglements zugelassenen Fanggeräten.
-
-- Die oder der Erwachsene darf gleichzeitig nicht mehr als drei
-
-Minderjährige unter 16 Jahren unter seiner Aufsicht haben.
-
-- Die Minderjährigen und ihre Aufsichtsperson dürfen zusammen pro Tag nicht mehr Fische fangen als eine einzige Fischerin oder einziger Fischer (Art. 24 dieses Reglements).
-
-- Die Minderjährigen und ihre Aufsichtsperson dürfen nur mit der Anzahl Fanggeräte fischen, für welche die Patentinhaberin oder der Patentinhaber am Ort, wo sie fischen, eine Zulassung hat, jedoch mit höchstens drei Angeln; eine Ausnahme bilden die Fliessgewässer, in denen die Minderjährigen und ihre
-
-Aufsichtsperson mit höchstens zwei Angeln fischen dürfen.
-
-- Für die Fischerei mit der Gambe dürfen die Minderjährigen und ihre Aufsichtsperson höchstens 3 Gamben verwenden, wobei pro Person nicht mehr als eine Gambe verwendet werden darf.
-
-<sup>2</sup> Im Übrigen bleiben die Bestimmungen des 6., des 7. und des 9. Kapitels dieses Reglements vorbehalten.
-
-<sup>3</sup> Personen, die vom Fischereirecht ausgeschlossen sind, werden auch von dieser Angelfischerei ohne Patent ausgeschlossen.
-
-#### Art. 3
 
 **Patentfischerei**
 
 <sup>1</sup> Die allgemeinen Fischereipatente sind:
 
-- Patent A, berechtigt zur Angelfischerei in den Wasserläufen
-
-und vom Ufer von Seen aus;
-
-- Patent B, berechtigt zur Angelfischerei in den Wasserläufen;
-
-- Patent C, berechtigt zur Angelfischerei nur vom Ufer von Seen aus.
+- a) Patent A, berechtigt zur Angelfischerei in den Wasserläufen und vom Ufer von Seen aus;
+- b) Patent B, berechtigt zur Angelfischerei in den Wasserläufen;
+- c) Patent C, berechtigt zur Angelfischerei nur vom Ufer von Seen aus.
 
 <sup>2</sup> Die speziellen Fischereipatente sind:
 
-- Patent D, berechtigt die Inhaberin oder den Inhaber des Patents A oder C, mit der Schleppangel und mit der Angel von einem absichtlich oder nicht absichtlich getriebenen Wasserfahrzeug aus im Greyerzer-, im Montsalvens-, im Schiffenen- und
+- a) Patent D, berechtigt die Inhaberin oder den Inhaber des Patents A oder C von einem Wasserfahrzeug aus zu fischen (Zusatzpatent);
+- b) Patent F, berechtigt nur zur Angelfischerei vom Ufer aus, und zwar im Grossen Kanal (Bibera) sowie im Broyekanal;
+- c) Patent G, das Zusatzpatent für Gastfischerinnen und Gastfischer, berechtigt die volljährige Inhaberin oder den volljährigen Inhaber eines Jahrespatents A, B oder C nach den folgenden Modalitäten mit jeweils einem Gast zu fischen:
+  - 1\. Pro Jahr darf nur ein Zusatzpatent für Gastfischerinnen und Gastfischer gelöst werden.
+  - 2\. Die Gastfischerin oder der Gastfischer darf die gleiche Anzahl und Art Geräte nach Kapitel 9 dieses Reglements verwenden wie die Patentinhaberin oder der Patentinhaber. Die Schleppangel ist ausgenommen; der Gast darf jedoch die Schleppangeln der Patentinhaberin oder des Patentinhabers, die oder den er begleitet, bedienen.
+  - 3\. In Wasserläufen dürfen die Patentinhaberin oder der Patentinhaber und der Gast höchstens mit je einer Angelrute fischen.
+  - 4\. Die Gastfischerin oder der Gastfischer kann die erlaubten Geräte frei wählen.
+  - 5\. Für die Ausübung der Fischerei in einem Fliessgewässer oder von einem Seeufer aus müssen sich die Patentinhaberin oder der Patentinhaber und der Gast in Rufnähe voneinander aufhalten.
+  - 6\. Beim Fischen von einem Wasserfahrzeug aus muss der Gast vom selben Wasserfahrzeug aus wie die Inhaberin oder der Inhaber des Fischereipatents fischen.
+  - 7\. Die Patentinhaberin oder der Patentinhaber und der Gast dürfen pro Jahr und pro Tag nicht mehr Fische fangen, als die Patentinhaberin oder der Patentinhaber selber behalten darf.
+- d) Kollektivpatente werden vom Amt für Wald und Natur (das Amt) ausgestellt.
 
-im Schwarzsee zu fischen;
+#### Art. 3
 
-- Patent E, berechtigt die Inhaberin oder den Inhaber des Patents A oder C, mit der Angel von einem nicht absichtlich getriebenen Wasserfahrzeug aus im Greyerzer-, im Montsalvens-, im Schiffenen- und
+**Minderjährige - Fischerei ohne Patent**
 
-im Schwarzsee zu fischen;
+<sup>1</sup> Das Recht auf freie Fischerei für begleitete Minderjährige unter 14 Jahren nach Artikel 11 FischG wird nach den folgenden Modalitäten ausgeübt:
 
-**– Patent F,**
+- a) Die Minderjährigen und die erwachsene Person, die ein Fischereirecht innehat (die Gruppe), dürfen zusammen pro Tag nicht mehr Fische fangen als die erwachsene Person alleine.
+- b) Diese Gruppe darf nur mit der Anzahl Fanggeräte fischen, für welche die Patentinhaberin oder der Patentinhaber am Ort, wo sie fischen, eine Zulassung hat, jedoch mit höchstens drei Angelruten in den Seen und höchstens zwei Angelruten in Wasserläufen.
+- c) Für die Fischerei mit der Gambe darf die Gruppe höchstens drei Gamben verwenden, wobei pro Person nicht mehr als eine Gambe verwendet werden darf.
 
-berechtigt nur zur Angelfischerei vom Ufer aus, und zwar im unteren Lauf der Bibera flussabwärts von der Brücke der Kantonsstrasse Sugiez–Ins und im Broyekanal auf der Strecke zwischen La Monnaie und dem Murtensee;
-
-**– Patent G,**
-
-das Zusatzpatent für Gastfischerinnen und Gastfischer, berechtigt die volljährige Inhaberin oder den volljährigen Inhaber eines Jahrespatents A, B oder C, mit jeweils einem Gast zu fischen; pro Jahr darf nur ein Zusatzpatent für Gastfischerinnen und Gastfischer gelöst werden. Die Gastfischerin oder der Gastfischer darf die gleiche Anzahl und Art Geräte nach Kapitel 8 dieses Reglements verwenden wie die Patentinhaberin oder der Patentinhaber. Die Schleppangel ist ausgenommen; der Gast darf jedoch die Schleppangeln der Patentinhaberin oder des Patentinhabers, die oder den er begleitet, bedienen.
-
-In Wasserläufen dürfen die Patentinhaberin oder der Patentinhaber und der Gast höchstens mit je einer Angel fischen.
-
-Die Gastfischerin oder der Gastfischer kann die erlaubten Geräte frei wählen.
-
-Für die Ausübung der Fischerei in einem Fliessgewässer oder von einem Seeufer aus müssen sich die Patentinhaberin oder der Patentinhaber und der Gast in Rufnähe aufhalten. Beim Fischen von einem Wasserfahrzeug aus muss der Gast vom selben Wasserfahrzeug aus wie die Inhaberin oder der Inhaber des Fischereipatents fischen.
-
-Die Patentinhaberin oder der Patentinhaber und der Gast dürfen pro Jahr und pro Tag nicht mehr Fische fangen, als die Patentinhaberin oder der Patentinhaber selber behalten darf (Art. 24 dieses Reglements).
-
-**– Kollektivpatente**
-
-Kollektivpatente werden vom Amt für Wald und Natur ausgestellt.
+<sup>2</sup> Personen, die vom Fischereirecht ausgeschlossen sind, werden auch von dieser Fischerei ohne Patent ausgeschlossen.
 
 #### Art. 4
 
-**Dauer und Gültigkeit der Patente**
+**Gültigkeitsdauer der Patente**
 
 <sup>1</sup> Das Jahrespatent ist für die Fischfangperioden des laufenden Kalenderjahres gültig.
 
-<sup>2</sup> Die Halbjahrespatente gelten 6 Monate. Das erste Halbjahrespatent ist vom 1. Januar bis 30. Juni gültig. Das zweite Halbjahrespatent ist vom 1. Juli bis 31. Dezember gültig.
+<sup>2</sup> Die Halbjahrespatente gelten 6 Monate. Das erste Halbjahrespatent ist für die Fischfangperioden vom 1. Januar bis 30. Juni gültig. Das zweite Halbjahrespatent ist für die Fischfangperioden vom 1. Juli bis 31. Dezember gültig.
 
-<sup>3</sup> Ein Wochenpatent ist ein Patent A mit Gültigkeit während 7 aufeinanderfolgender Tage in der Zeit vom 16. Juni bis 30. September.
+<sup>3</sup> Das Wochenpatent ist ein Patent A oder D mit Gültigkeit während 7 aufeinanderfolgender Tage in der Zeit vom 16. Juni bis 30. September.
 
-<sup>4</sup> Das Tagespatent ist ein Patent A, D oder E, dessen Dauer auf einen Tag beschränkt ist. Für die ersten 14 Tage der Fangzeiten der Forelle (Bach- und Seeforelle) und der Äsche kann es nicht ausgestellt werden.
+<sup>4</sup> Das Tagespatent ist ein Patent A oder D, dessen Dauer auf einen Tag beschränkt ist.
 
 #### Art. 5
 
 **Sachkundenachweis (SaNa)**
 
-<sup>1</sup> Alle Bezügerinnen und Bezüger eines Jahres- oder Halbjahrespatents müssen gemäss den Bestimmungen von Artikel 5a der Bundesverordnung vom 24. November 1993 zum Bundesgesetz über die Fischerei (VBGF) ausreichende Kenntnisse über Fische und Krebse und die tierschutzgerechte Ausübung der Fischerei haben.
+<sup>1</sup> Bezügerinnen und Bezüger eines Jahres- oder Halbjahrespatents müssen über einen Sachkundenachweis (SaNa) verfügen.
 
-<sup>2</sup> Der Nachweis dieser Kenntnisse wird durch den Sachkundenachweis (SaNa) erbracht, der nach dem Besuch eines Ausbildungskurses erteilt wird.
-
-<sup>3</sup> Inhaberinnen und Inhaber eines Wochen- oder Tagespatents, Gastfischerinnen und Gastfischer und Personen, welche die Fischerei ohne Patent ausüben, sind nicht zum Sachkundenachweis verpflichtet. Den Inhaberinnen und Inhabern eines Wochen- oder Tagespatents wird zusammen mit dem Fischereipatent ein Faltblatt über ein tierschutzgerechtes Verhalten beim Fischen abgegeben. Der Besuch eines Ausbildungskurses wird dennoch empfohlen.
+<sup>2</sup> Inhaberinnen und Inhaber eines Wochen- oder Tagespatents, Gastfischerinnen und Gastfischer und Personen, welche die Fischerei ohne Patent ausüben, sind nicht zum Sachkundenachweis verpflichtet.
 
 #### Art. 6
 
@@ -172,7 +117,7 @@ Kollektivpatente werden vom Amt für Wald und Natur ausgestellt.
 
 <sup>1</sup> Die Patentpreise für im Kanton Freiburg wohnhafte Fischerinnen und Fischer werden in Anhang 1 festgehalten. Dasselbe gilt für im Kanton Waadt wohnhafte Fischerinnen und Fischer.
 
-<sup>2</sup> Personen, die am Tag, an dem sie das Patent lösen, eine AHV-Rente oder eine volle IV-Rente beziehen und im Kanton Freiburg oder im Kanton Waadt wohnen, erhalten das Patent A, B oder C zum halben Preis unter der Bedingung, dass sie die Zusatzpatente D oder E nicht lösen. Die entsprechenden Preise werden in Anhang 2 festgehalten.
+<sup>2</sup> Personen, die am Tag, an dem sie das Patent lösen, eine AHV-Rente oder eine volle IV-Rente beziehen und im Kanton Freiburg oder im Kanton Waadt wohnen, erhalten das Patent A, B oder C zum halben Preis unter der Bedingung, dass sie das Zusatzpatent D nicht lösen. Die entsprechenden Preise werden in Anhang 2 festgehalten.
 
 <sup>3</sup> Für ausserhalb des Kantons wohnhafte Fischerinnen und Fischer, mit Ausnahme der Fischerinnen und Fischer, die im Kanton Waadt wohnen, wird der Preis bestimmter Patente verdoppelt. Die entsprechenden Preise werden in Anhang 3 festgehalten.
 
@@ -180,645 +125,469 @@ Kollektivpatente werden vom Amt für Wald und Natur ausgestellt.
 
 #### Art. 7
 
-**Wiederbevölkerungstaxe – Gegenstand**
+**Wiederbevölkerungstaxe**
 
-Die Wiederbevölkerungstaxe wird für die Finanzierung der Wiederbevölkerung, die Überwachung der Fischbestände und die Verbesserung der Biotope verwendet.
+<sup>1</sup> Die Wiederbevölkerungstaxe wird für die Finanzierung der Wiederbevölkerung, die Überwachung der Fischbestände und die Verbesserung der Biotope verwendet.
+
+<sup>2</sup> Wer ein Patent A, B, C oder F löst, muss zusätzlich zum Patentpreis eine Wiederbevölkerungstaxe nach Anhang 4 bezahlen.
+
+<sup>3</sup> Von der Zahlung der Wiederbevölkerungstaxe ausgenommen sind:
+
+- a) Personen, die ein Tagespatent lösen;
+- b) Personen, die am Tag, an dem sie das Patent lösen, minderjährig sind;
+- c) bei Jahres- und Halbjahrespatenten die Personen, die für das laufende Jahr nachweisen können, Mitglied eines Vereins zu sein, der bei der Bewirtschaftung der kantonalen Fischgewässer mitwirkt.
+
+<sup>4</sup> Wer mehrere Patente löst, bezahlt die Wiederbevölkerungstaxe nur einmal.
 
 #### Art. 8
 
-**Wiederbevölkerungstaxe – Erhebung**
-
-<sup>1</sup> Wer ein Jahres- oder Halbjahrespatent A, B, C oder F löst, aber für das laufende Jahr nicht nachweisen kann, dass er Mitglied eines Vereins ist, der bei der Bewirtschaftung der kantonalen Fischgewässer mitwirkt, muss zum Patentpreis zusätzlich eine Wiederbevölkerungstaxe nach Anhang 4 bezahlen.
-
-<sup>2</sup> Wer ein Wochenpatent A löst, muss zusätzlich zum Patentpreis eine Wiederbevölkerungstaxe nach Anhang 4 bezahlen.
-
-<sup>3</sup> Wer mehrere Patente löst, bezahlt die Wiederbevölkerungstaxe nur einmal.
-
-<sup>4</sup> Die Wiederbevölkerungstaxe wird nicht erhoben für die Patente D, E und G.
-
-<sup>5</sup> Jugendliche, die am Tag, an dem sie das Patent lösen, minderjährig sind, bezahlen die Wiederbevölkerungstaxe nicht.
-
-<sup>6</sup> Personen, die eine AHV-Rente oder eine volle IV-Rente beziehen, bezahlen die ganze Taxe, sofern diese erforderlich ist.
-
-#### Art. 9
-
 **Kontrolle und Fangstatistik**
 
-<sup>1</sup> Alle Bezügerinnen und Bezüger eines Patents erhalten ein Exemplar dieses Reglements in Papierform oder elektronischer Form.
+<sup>1</sup> Wer ein Patent bezieht, erhält ein Exemplar dieses Reglements in Papierform oder elektronischer Form.
 
-<sup>2</sup> Alle Bezügerinnen und Bezüger eines Jahres- oder Halbjahrespatents A, B oder C erhalten ein Kontrollheft gegen Hinterlegung eines Depots von 50 Franken.
+<sup>2</sup> Wer ein Jahres- oder Halbjahrespatent A, B oder C bezieht, erhält gegen Hinterlegung eines Depots von 100 Franken ein Kontrollheft.
 
 <sup>3</sup> Dieses Depotgeld wird zurückerstattet, wenn die Fischerin oder der Fischer das Kontrollheft vorschriftsgemäss ausgefüllt dem Amt, welches das Patent ausgestellt hat, spätestens bis 31. März des folgenden Jahres zurückgibt.
 
-<sup>4</sup> Die Bezügerinnen und Bezüger eines Tages- oder Wochenpatents A sowie die Bezügerinnen und Bezüger eines Patents F erhalten kein Kontrollheft. Sie sind aber verpflichtet, ihre Fänge in den Statistikbogen einzutragen.
+<sup>4</sup> Wer ein Tages- oder Wochenpatent A oder ein Patent F bezieht, erhält kein Kontrollheft, ist jedoch verpflichtet, seine Fänge in den Statistikbogen einzutragen. Der Statistikbogen ist jeweils bis zum 31. März des Folgejahres einzureichen.
 
-#### Art. 10
+#### Art. 9
 
 **Ausstellung der Patente**
 
-<sup>1</sup> Die Patente A, B, C, D, E und G werden von den Oberämtern ausgestellt.
+<sup>1</sup> Die Patente A, B, C, D und G werden von den Oberämtern ausgestellt.
 
 <sup>2</sup> Das Patent F wird vom Oberamt des Seebezirks ausgestellt.
 
-<sup>3</sup> Die Oberämter können die Ausstellung von Tages- und Wochenpatenten und des Patents F an anderen Orten organisieren.
+<sup>3</sup> Die Tages- und Wochenpatente A, D und F können auch über den virtuellen Schalter des Kantons Freiburg (https://egov.fr.ch) bezogen werden. Die elektronisch bezogenen Patente müssen zwingend auf Papier ausgedruckt werden.
 
-<sup>4</sup> Das Amt für Wald und Natur (das Amt) ist für die Ausstellung von Kollektivpatenten zuständig. Diese sind an besondere Bedingungen geknüpft.
+<sup>4</sup> Die Oberämter können die Ausstellung von Tages- und Wochenpatenten und des Patents F an anderen Orten organisieren.
 
-### 3. KAPITEL Für die Patentfischerei offene Wasserläufe
+<sup>5</sup> Das Amt ist für die Ausstellung von Kollektivpatenten zuständig. Diese sind an besondere, vom Amt festgelegte Bedingungen geknüpft.
+
+## 3 Ausübung der Fischerei
+
+#### Art. 10
+
+**Ausübung der Fischerei**
+
+<sup>1</sup> Für die Ausübung der Fischerei muss die Inhaberin oder der Inhaber eines Fischereirechts das Patent und das Kontrollheft oder den Statisktikbogen auf sich tragen. Inhaberinnen und Inhaber eines Wochen- oder Tagespatents, die mit einem Widerhaken oder lebenden Köderfischen fischen, müssen ausserdem ihren Sachkundenachweis (SaNa) auf sich tragen.
+
+<sup>2</sup> Die Inhaberin oder der Inhaber des Kontrollhefts oder des Statistikbogens ist verpflichtet:
+
+- a) jeden gefangenen Fisch sofort einzutragen;
+- b) vom ersten Fang an das Datum und den Wasserlauf oder den See, in dem sie oder er fischt, einzutragen;
+- c) vor Verlassen des Wasserlaufes oder des Sees, in dem die Fische gefangen wurden, die Gesamtzahl pro Fischart einzutragen;
+- d) den Fischereiertrag der Minderjährigen, die unter ihrer oder seiner Aufsicht fischen, oder ihres oder seines Gasts einzutragen;
+- e) dieses Heft oder den Statistikbogen auf Verlangen jederzeit den mit der Fischereiaufsicht beauftragten Personen vorzuweisen.
+
+<sup>3</sup> Die Eintragungen müssen unauslöschlich und gemäss den Vorschriften im Kontrollheft oder dem Statistikbogen ausgeführt werden.
+
+<sup>4</sup> Die Inhaberin oder der Inhaber eines Fischereipatents muss einen amtlichen Identitätsausweis mit Foto sowie einen Massstab auf sich tragen.
+
+<sup>5</sup> Bei Verlust des Kontrollhefts kann ein Duplikat gegen Bezahlung einer Gebühr von 50 Franken bezogen werden. Das neue Kontrollheft trägt den Aufdruck «Duplikat».
+
+<sup>6</sup> Ist das Kontrollheft voll, so kann die Inhaberin oder der Inhaber beim Amt, welches das Heft ausgestellt hat, gegen Abgabe des alten Kontrollhefts ein neues beziehen. Die Abgabe des neuen Kontrollhefts wird auf dem Heft vermerkt.
 
 #### Art. 11
+
+**Fischereiwettbewerbe**
+
+<sup>1</sup> Fischereiwettbewerbe sind verboten, mit Ausnahme von internen Wettbewerben örtlicher Fischereivereine. Artikel 29 FischG bleibt vorbehalten.
+
+<sup>2</sup> Das Amt legt die besonderen Bedingungen für die Durchführung dieser Wettbewerbe fest.
+
+## 4 Für die Patentfischerei offene Wasserläufe
+
+#### Art. 12
 
 **Wasserläufe auf Freiburger Boden**
 
 <sup>1</sup> Die Patente A und B berechtigen die Inhaberin oder den Inhaber zur Angelfischerei in folgenden Wasserläufen oder Abschnitten von Wasserläufen, die sich vollständig auf Freiburger Boden befinden. Ohne ausdrücklichen Vermerk sind die aufgeführten Wasserläufe ohne ihre Zuflüsse gemeint:
 
-- a) Broyekanal zwischen La Monnaie und dem Murtensee;
-
-- b) Bibera von der Einmündung in den Broyekanal bis zur Brücke der Kantonsstrasse Sugiez–Ins flussabwärts;
-
-- c) Broye im Broyebezirk, mit Ausnahme einer Strecke von jeweils 20 m flussaufwärts und flussabwärts von der Einmündung des Boulex-Baches in Fétigny; im Glane- und im Vivisbachbezirk (flussabwärts von der Brücke der Kantonsstrasse Vaulruz– Semsales);
-
-- d) Kleine Glane von der Kantonsgrenze bei Nuvilly bis zur Kantonsgrenze bei der Strasse Payerne– Grandcour;
-
-- e) Arbogne von der Einmündung des Creux-de-la-Chetta-Bachs bis 120 m flussabwärts ab dem Zusammenfluss mit dem Pelons-Bach;
-
-- f) Parimbot von der Einmündung in die Broye bis zur
-
-Kantonsgrenze;
-
-- g) Tatrel von der Einmündung in die Broye bis Châtel-
-
-Saint-Denis;
-
-- h) Corjon von der Nationalstrasse Semsales–Châtel-Saint-Denis flussabwärts;
-
-- i) Dâ Zufluss der Broye zwischen Semsales und
-
-Châtel-Saint-Denis;
-
-- j) Rio de la Cibe Zuflüsse der Broye in Semsales;
-
-und Rio Vésenand k) Kanal Les Rogigues Zufluss der Broye zwischen Semsales und Progens;
-
-- l) Mortivue Zufluss der Broye in Semsales;
-
-- m) Châtel-Vivisbach mit seinen Zuflüssen, ohne die Gouilles de Rathvel;
-
-- n) Saane – flussabwärts vom Wasserkraftwerk Schiffenen, unter Vorbehalt von Artikel 18 Bst. b dieses Reglements,
-
-- flussaufwärts von der Neiglen-Hängebrücke bis unterhalb des Absturzes der Schleusen des Stauwehrs der Magerau am linken Ufer und bis zum Tennisplatz der Magerau am rechten
-
-Ufer,
-
-- von der Pérolles-Brücke bis zum Auffangbecken am Fusse der Staumauer von Rossens (mit Schildern gekennzeichnet), unter Vorbehalt von Artikel 18 Bst. b dieses Reglements, mit Ausnahme des Schilfgürtels im Naturschutzgebiet des Pérolles-Sees, das bis zum «Creux-du-Loup» reicht, in den mit Schildern markierten Gebieten auf der rechten Uferseite ab dem Fuss der Felswand (Koord.: 2 578 245/ 1 181 950) und der grossen Insel (Koord.: 2 577 800 / 1 182 160),
-
-- flussaufwärts von der Brücke von Morlon bis zum Auffangbecken unter der Staumauer des Lessoc-Sees (Montbovon-See), Artikel 18 Bst. b dieses Reglements bleibt vorbehalten,
-
-**vom Lessoc-See**
-
-- flussaufwärts
-
-(Montbovon-See) bis zur Kantonsgrenze bei Montbovon, unter Vorbehalt von Artikel 20 Abs. 2 dieses Reglements;
-
-- o) Sonnaz von der Brücke der Kantonsstrasse Freiburg– Murten in Pensier bis zur Brücke der Strasse
-
-Belfaux–Lossy;
-
-- p) Glane vom Stauwehr von Matelec (Sainte-Apolline) bis zur Raffour-Brücke in Prez-vers-Siviriez,
-
-ohne ihre Zuflüsse;
-
-- q) Neirigue von der Einmündung in die Glane bis zur Brücke bei der Mühle Affamaz (Berlens), die Zuflüsse ausgenommen;
-
-- r) Glâney von der Einmündung in die Glane bis Villaranon, ohne ihre Zuflüsse;
-
-- s) Ärgera von der Einmündung in die Saane in Marly bis zur Roggelibrücke in Plasselb, mit Ausnahme ihrer Zuflüsse und der Kanäle;
-
-- t) Sionge von der letzten Brücke (Vuippens) vor der Einmündung in den Greyerzersee bis zur Einmündung des Diron in Vuadens;
-
-- u) Trême von der Einmündung in die Saane bis zu ihren Quellen mitsamt ihren Zuflüssen, mit Ausnahme der Albeuve und des sogenannten «Ruisseau du Monte-Pente» zwischen dem ehemaligen Kloster Part-Dieu und Bulle;
-
-- v) Hongrin von der Einmündung in den Lessoc-See (Montbovon-See) bis zur Brücke flussabwärts von Allières;
-
-- w) Jaunbach – von der Brücke, die zum Wasserkraftwerk in Broc führt, flussabwärts bis zum Auffangbecken des Stauwehrs des Montsalvens-Sees, unter Vorbehalt von Artikel 18 Bst. b dieses
-
-Reglements,
-
-**Kantonsgrenze**
-
-- vom Montsalvens-See flussaufwärts bis zur bernischen einschliesslich seiner Zuflüsse, mit Ausnahme des Rio-du-Petit-Mont, des Rio-du-Gros-Mont, des sogenannten «Pisciculture»-Bachs vom Pont-du-Roc flussabwärts, des Eichbachs, unter Vorbehalt der Artikel 15 Bst. e und 18 Bst. b dieses Reglements;
-
-- x) Javroz von der Einmündung in den Montsalvens-See bis zum alten Steg, der das Kartäuserkloster La Valsainte über den Bauernhof Grosse-Grange mit dem Bauernhof des Rocs verbindet, unter Vorbehalt der Artikel 15 Bst. e und 20 Abs. 2 Bst. a dieses Reglements;
-
-- y) Warme Sense vom Zusammenfluss mit der Kalten Sense in Zollhaus bis zum Schwarzsee.
-
-<sup>2</sup> Das Patent F berechtigt die Inhaberin oder den Inhaber, in folgenden Wasserläufen auf Freiburger Boden ausschliesslich vom Ufer aus zu fischen:
-
-- a) Broyekanal zwischen La Monnaie und dem Murtensee;
-
-- b) Bibera von der Einmündung in den Broyekanal bis zur Brücke der Strasse Sugiez–Ins.
-
-#### Art. 12
-
-**Grenzflüsse mit dem Kanton Bern**
-
-Die Patente A und B berechtigen die Inhaberin oder den Inhaber, von beiden Ufern aus in folgenden Flussabschnitten zu fischen:
-
-- a) Saane von der Einmündung der Sense bis zur Kantonsgrenze in Niederbösingen;
-
-- b) Sense von der Einmündung in die Saane bei Laupen bis zum Zusammenfluss der Warmen und der Kalten Sense in Zollhaus, einschliesslich des Abschnitts auf dem Gebiet der Berner
-
-Gemeinde Albligen;
-
-- c) Kalte Sense von der Einmündung in die Sense bei Zollhaus bis zum Zusammenfluss mit der Muscherensense in Sangernboden.
+<table>
+<tr><th>Wasserlauf</th><th>Begrenzung</th></tr>
+<tr><td>obere Arbogne</td><td>vom Zusammenfluss mit dem Pelons-Bach (2566192/1184054) bis zum Zusammenfluss mit dem Creux-de-la-Chetta-Bach (2564805/1185847)</td></tr>
+<tr><td>obere Broye</td><td>im Vivisbachbezirk, flussabwärts von der Brücke der Kantonsstrasse Vaulruz–Semsales (2560771/1159018) bis zur Kantonsgrenze bei La Rougève (2558855/1156795)</td></tr>
+<tr><td>mittlere Broye</td><td>im Glanebezirk, auf der ganzen Strecke auf Freiburger Boden, von Fouâche (2552130/1159567) bis zur Kantonsgrenze (2551371/1166135)</td></tr>
+<tr><td>Broyekanal</td><td>zwischen La Monnaie (2574142/1202379) und dem Murtensee (2575662/1200763)</td></tr>
+<tr><td>Kanal Les Rogigues</td><td>Zufluss der oberen Broye, von seiner Quelle (2560970/1160472) bis zu seinem Zusammenfluss mit der Broye</td></tr>
+<tr><td>Corjon und Dâ</td><td>Zuflüsse der oberen Broye, der Dâ von seinen Quellen bis zu seinem Zusammenfluss mit dem Corjon und der Corjon von der Autobahn A12 (2559849/1155407) bis zu seinem Zusammenfluss mit der Broye</td></tr>
+<tr><td>obere Ärgera</td><td>von der Roggelibrücke bei Plasselb (2585224/1174412) bis zum letzten Absturz flussaufwärts der Tennisanlage in Marly (2579630/1179670)</td></tr>
+<tr><td>mittlere Ärgera</td><td>vom letzten Absturz flussaufwärts der Tennisanlage in Marly (2579630/1179670) bis zum Zusammenfluss mit dem Copy-Bach (2577278/1180548)</td></tr>
+<tr><td>untere Ärgera</td><td>von ihrem Zusammenfluss mit dem Copy-Bach (2577278/1180548) bis zu ihrer Einmündung in die Saane</td></tr>
+<tr><td>obere Glane</td><td>von der Raffour-Brücke in Prez-vers-Siviriez (2556616/1163696) bis zur Kantonsstrasse flussaufwärts von Romont bei Beauregard (2559349/1168905)</td></tr>
+<tr><td>mittlere Glane</td><td>von der Brücke der Kantonsstrasse flussaufwärts von Romont bei Beauregard (2559349/1168905) bis zur Einmündung der Neirigue (2567177/1175677)</td></tr>
+<tr><td>untere Glane</td><td>von der Einmündung der Neirigue (2567177/1175677) bis zum Stauwehr Matelec (2575130/1181700)</td></tr>
+<tr><td>Glâney</td><td>von Villaranon (2557359/1168999) bis zu seiner Einmündung in die Glane</td></tr>
+<tr><td>Gorges de la Jogne</td><td>flussabwärts vom Auffangbecken des Stauwehrs des Montsalvens-Sees (2576467/1162424) bis zur Brücke, die zum Wasserkraftwerk in Broc führt (2574590/1162092)</td></tr>
+<tr><td>Grosser Kanal (Bibera)</td><td>von der Brücke der Kantonsstrasse Sugiez–Ins (2575812/1202489) bis zu ihrer Einmündung in den Broyekanal</td></tr>
+<tr><td>Hongrin</td><td>von der Brücke flussabwärts von Allières (2567716/1147608) bis zu seiner Einmündung in den Lessoc-See (Montbovon-See)</td></tr>
+<tr><td>Javro</td><td>von der alten Brücke, die das Kartäuserkloster La Valsainte mit dem Bauernhof Les Rocs verbindet (2580725/1165924), bis zur Brücke der Kantonsstrasse Crésuz-Charmey (2577882/1163405)</td></tr>
+<tr><td>Jaunbach</td><td>von der bernischen Kantonsgrenze (2589313/1158659) bis zum Montsalvens-See (2578879/1162589), einschliesslich seiner Zuflüsse, mit Ausnahme des Rio-du-Petit-Mont, des Rio-du-Gros-Mont, des sogenannten «Pisciculture»-Bachs vom Pont-du-Roc flussabwärts sowie des Eichbachs</td></tr>
+<tr><td>Mortivue</td><td>Zufluss der oberen Broye, von seinen Quellen bis zu seinem Zusammenfluss mit der Broye</td></tr>
+<tr><td>Neirigue</td><td>von der Brücke bei der Mühle Affamaz in Berlens (2563796/1171503) bis zu ihrer Einmündung in die Glane</td></tr>
+<tr><td>Parimbot</td><td>Zufluss der mittleren Broye, von der Kantonsgrenze (2551147/1160349) bis zur Einmündung in die Broye</td></tr>
+<tr><td>Rio de la Cibe und Rio Vésenand</td><td>Zuflüsse der oberen Broye, von ihren Quellen bis zu ihrem Zusammenfluss mit der Broye</td></tr>
+<tr><td>Saane 5</td><td>von der Kantonsgrenze bei Montbovon (2569341/1147138) bis flussaufwärts des Lessoc-Sees (2569974/1148553)</td></tr>
+<tr><td>Saane 4</td><td>flussabwärts vom Auffangbecken unter der Staumauer des Lessoc-Sees (2570469/1150637) bis flussaufwärts der Morlon-Brücke (2573691/1162660)</td></tr>
+<tr><td>Saane 3 (Kleine Saane)</td><td>flussabwärts des Auffangbeckens am Fusse der Staumauer von Rossens (2575130/1174380) bis zum Absturz gegenüber des Wasserkraftwerks Hauterive (2576143/1179865)</td></tr>
+<tr><td>Saane 2</td><td>vom Absturz gegenüber des Wasserkraftwerks Hauterive (2576143/1179865) bis flussabwärts der Pérolles-Brücke (2578417/1181972) mit Ausnahme des Schilfgürtels im Naturschutzgebiet des Pérolles-Sees, das bis zum «Creux-du-Loup» reicht, in den mit Schildern markierten Gebieten auf der rechten Uferseite ab dem Fuss der Felswand (2578245/1181950) bis zum «Creux-du-Loup» (2577800/1182160), einschliesslich von der grossen Insel aus</td></tr>
+<tr><td>Saane 1</td><td>flussabwärts des Absturzes der Schleusen des Stauwehrs der Magerau am linken Ufer und bis zum Tennisplatz der Magerau am rechten Ufer (2578961/1183100) bis flussaufwärts der Neiglen-Hängebrücke (2578778/1184554)</td></tr>
+<tr><td>Saane 0</td><td>flussabwärts vom Wasserkraftwerk Schiffenen (2581527/1192199) bis zur Kantonsgrenze bei Niederbösingen (2583154/1194051)</td></tr>
+<tr><td>Warme Sense</td><td>vom Ausfluss des Schwarzsees unter der Kantonsstrasse (2588424/1168818) bis zu ihrem Zusammenfluss mit der Kalten Sense in Zollhaus (2590002/1173967)</td></tr>
+<tr><td>Sionge</td><td>von der Einmündung des Diron in Vuadens (2567419/1163780) bis zur letzten Brücke (Vuippens) vor der Einmündung in den Greyerzersee (2572339/1167667)</td></tr>
+<tr><td>Sonnaz</td><td>von der Brücke der Strasse Belfaux–Lossy (2575210/1186547) bis zur Brücke der Kantonsstrasse Freiburg–Murten in Pensier (2576997/1187825)</td></tr>
+<tr><td>Tatrel</td><td>von Châtel-Saint-Denis (2558489/1153000) bis zur Einmündung in die Broye</td></tr>
+<tr><td>obere Trême</td><td>von ihren Quellen bis zur Brücke von Moulin de la Trême auf der Höhe von Carry (2568805/1161831) mitsamt ihren Zuflüssen</td></tr>
+<tr><td>untere Trême</td><td>von der Brücke von Moulin de le Trême auf der Höhe von Carry (2568805/1161831) bis zu ihrer Einmündung in die Saane</td></tr>
+<tr><td>Châtel-Vivisbach</td><td>von seinen Zuflüssen bis zur Kantonsgrenze in Châtel-St-Denis (2558492/1152227), ohne die Gouilles de Rathvel</td></tr>
+</table>
 
 #### Art. 13
 
-**Grenzflüsse mit dem Kanton Waadt**
+**Grenzwasserläufe mit dem Kanton Bern**
 
-Die Patente A und B berechtigen die Inhaberin oder den Inhaber, von beiden Ufern aus in folgenden Flussabschnitten zu fischen:
+<sup>1</sup> Die Patente A und B berechtigen die Inhaberin oder den Inhaber, von beiden Ufern aus in folgenden Abschnitten der Wasserläufe zu fischen:
 
-- a) Chandon – von der Kantonsgrenze ungefähr 500 Meter flussabwärts von der Brücke der Strasse Faoug–Chandossel bei «Bayse» bis zur genannten Brücke der Strasse Faoug–Chandossel,
-
-- von der Kantonsgrenze zwischen Villarepos und der Brücke der Strasse Donatyre–Misery bis zur Kantonsgrenze zwischen La Vossaine und Malforin;
-
-- b) Broye – von der Brücke der Strasse Palézieux-Gare–Ecoteaux–Semsales bis zur Kantonsgrenze in La Rougève,
-
-- auf der Grenzstrecke in Auboranges, zwischen Fouâche und Les Bures,
-
-- von der Brücke der Strasse Avenches– Villars-le-Grand bis zur Eisenbahnbrücke in Treize-Cantons, mit Ausnahme des Schongebiets in Payerne;
-
-- c) Kleine Glane von der Brücke der Strasse Avenches– Villars-le-Grand bis zur Kantonsgrenze der Exklave Vuissens in «Vers-le-Moulin»;
-
-- d) Arbogne von der Brücke der Strasse Avenches– Villars-le-Grand bis zur Einmündung des Creux-de-la-Chetta-Baches (Kantonsgrenze), mit Ausnahme des Abschnitts zwischen der Brücke von Vuaz-Seguin und der Brücke der Strasse Payerne–Dompierre in Corcelles-
-
-près-Payerne;
-
-- e) Parimbot auf der Grenzstrecke in Auboranges;
-
-- f) Flon auf der Grenzstrecke in Oron;
-
-- g) Biordaz vom Zusammenfluss mit dem Corbéron bis zur Strassenbrücke Granges–Palézieux-Village;
-
-- h) Corbéron auf der Grenzstrecke in Granges;
-
-- i) Châtel-Vivisbach auf der Grenzstrecke;
-
-- j) Fégire-Vivisbach auf der Grenzstrecke.
+<table>
+<tr><th>Wasserlauf</th><th>Begrenzung</th></tr>
+<tr><td>Saane 0</td><td>von der Kantonsgrenze (2583154/1194051) bis zur Einmündung der Sense (2584385/1195044)</td></tr>
+<tr><td>Kalte Sense</td><td>vom Zusammenfluss mit der Muscherensense in Sangernboden (2593168/1173463) bis zu ihrer Einmündung in die Sense bei Zollhaus (2590002/1173967)</td></tr>
+<tr><td>obere Sense</td><td>vom Zusammenfluss der Warmen und der Kalten Sense in Zollhaus (2590002/1173967) bis zur Guggersbach-Brücke (2589577/1178839)</td></tr>
+<tr><td>mittlere Sense</td><td>von der zur Guggersbach-Brücke (2589577/1178839) bis zur Autobahn A12 (2592834/1193224), einschliesslich des Abschnitts auf dem Gebiet der Berner Gemeinde Albligen</td></tr>
+<tr><td>untere Sense</td><td>von der Autobahn A12 (2592834/1193224) bis zur Einmündung in die Saane bei Laupen (2584385/1195044)</td></tr>
+</table>
 
 #### Art. 14
 
-Bei der Fischerei in den Grenzflüssen mit dem Kanton Waadt und dem Kanton Bern anwendbares Recht
+**Grenzwasserläufe mit dem Kanton Waadt**
 
-<sup>1</sup> Wer in einem Grenzfluss zwischen den Kantonen Freiburg und Waadt oder Freiburg und Bern fischt, ist den gesetzlichen Vorschriften und Reglementen desjenigen Kantons unterstellt, der ihm das Patent ausgestellt hat.
+<sup>1</sup> Die Patente A und B berechtigen die Inhaberin oder den Inhaber, von beiden Ufern aus in folgenden Abschnitten der Wasserläufe zu fischen:
 
-<sup>2</sup> Diese Regelung ist anwendbar, unabhängig davon, von welchem Ufer aus gefischt wird.
+<table>
+<tr><th>Wasserlauf</th><th>Begrenzung</th></tr>
+<tr><td>obere Arbogne</td><td>vom Zusammenfluss mit dem Creux-de-la-Chetta-Bach (2564805/1185847) bis zur grossen Brücke der Strasse Payerne–Dompierre (2563861/1186460)</td></tr>
+<tr><td>untere Arbogne</td><td>von der Brücke von Vuaz-Seguin in Corcelles-près-Payerne (2563721/1187036) bis zur Brücke der Strasse Avenches–Villars-le-Grand (2567816/1193165)</td></tr>
+<tr><td>Biorde</td><td>von der Brücke der Strasse Granges–Palézieux-Village (2553488/1154197) bis zu ihrem Zusammenfluss mit dem Corbéron (2552958/1154873)</td></tr>
+<tr><td>obere Broye</td><td>im Vivisbachbezirk von der Kantonsgrenze in La Rougève (2558855/1156795) bis zur Brücke der Strasse Palézieux-Gare – Ecoteaux (2554497/1155049)</td></tr>
+<tr><td>mittlere Broye</td><td>im Glanebezirk, auf der Grenzstrecke in Auboranges zwischen Les Bures (2552057/1158746) und Fouâche (2552130/1159567)</td></tr>
+<tr><td>untere Broye</td><td>im Broyebezirk, von der Eisenbahnbrücke in Treize-Cantons (2555646/1175121) bis zur Brücke der Strasse Avenches–Villars-le-Grand (2567268/1193217)</td></tr>
+<tr><td>oberer Chandon</td><td>Zufluss des Murtensees, von der Kantonsgrenze zwischen La Vossaine und Malforin (2570386/1189342) bis zur Kantonsgrenze zwischen Villarepos und der Brücke der Strasse Donatyre–Misery (2571870/1191208)</td></tr>
+<tr><td>unterer Chandon</td><td>Zufluss des Murtensees, von der Brücke der Strasse Faoug–Chandossel (2572586/1193916) bis zur Kantonsgrenze (2572242/1193862)</td></tr>
+<tr><td>Corbéron</td><td>Zufluss der Broye in Granges, auf der Grenzstrecke zwischen (2551832/1152841) und (2552958/1154873)</td></tr>
+<tr><td>Flon</td><td>Zufluss der mittleren Broye in Oron, auf der Grenzstrecke zwischen (2554803/1159254) und (2553711/1158408)</td></tr>
+<tr><td>Parimbot</td><td>Zufluss der mittleren Broye in Auboranges, auf der Grenzstrecke zwischen (2550643/1158441) und (2551147/1160349)</td></tr>
+<tr><td>obere Kleine Glane</td><td>von der Kantonsgrenze der Exklave Vuissens in Vers-le-Moulin (2549989/1177392) bis zur Autobahn A1 (2558140/1186176)</td></tr>
+<tr><td>untere Kleine Glane</td><td>von der Autobahn A1 (2558140/1186176) bis zur Brücke der Strasse Avenches–Villars-le-Grand (2566307/1194182)</td></tr>
+<tr><td>Châtel-Vivisbach</td><td>auf der Grenzstrecke von Châtel-St-Denis (2558492/1152227) bis zu seinem Zusammenfluss mit dem Fégire-Vivisbach (2558322/1150844)</td></tr>
+<tr><td>Fégire-Vivisbach</td><td>auf der Grenzstrecke von den Koordinaten (2564401/1147678) bis zu seinem Zusammenfluss mit dem Châtel-Vivisbach (2558322/1150844)</td></tr>
+</table>
 
-- 4\. KAPITEL
-
-### Für die Patentfischerei offene Freiburger Seen
+## 5 Für die Patentfischerei offene Freiburger Seen
 
 #### Art. 15
 
 **Seen**
 
-Folgende Freiburger Seen stehen den Inhaberinnen und Inhabern eines Patents A, C, D oder E für die Angelfischerei offen:
+<sup>1</sup> Folgende Freiburger Seen stehen den Inhaberinnen und Inhabern eines Patents A, C oder D für die Angelfischerei offen:
 
-- a) Schiffenensee unterhalb der Neiglen-Hängebrücke;
-
-- b) Pérolles-See unterhalb der Pérolles-Brücke, bis zu einem Abstand von 5 m von den Gittern des Stauwehrs der Magerau, ausschliesslich vom Ufer und nur in folgenden (mit Schildern gekennzeichneten) Sektoren:
-
-- am rechten Ufer, von Les Rittes (Koord.: 2 578 997 / 1 182 251) bis zur Pérolles-
-
-Brücke,
-
-- am linken Ufer: vom künstlichen Kanal am Ende des Wegs, der vom Sentier Schoch her kommt (Koord.: 2 579 111 / 1 182 488), bis zur Lichtung beim südlichen Ende der Galerie des Sentier Schoch (Koord.: 2 578 925 / 1 182 253). Dann vom Ende des grossen Schilfgürtels (Koord.: 2 578 918 / 1 182 116) bis zur Pérolles-Brücke;
-
-- c) Greyerzersee – unterhalb der Brücke von Morlon und unterhalb der Brücke, die zum Wasserkraftwerk in Broc führt,
-
-- unterhalb der letzten Brücke über die Sionge in Vuippens;
-
-für die übrigen Zuflüsse: bis zum höchsten
-
-Pegelstand des Sees;
-
-- d) Lessoc-See ausschliesslich vom Ufer aus;
-
-(Montbovon-See) e) Montsalvens-See als See an seinem höchsten Pegelstand; Anschlagtafeln signalisieren die Stelle, ab der die Bestimmungen für Fliessgewässer gelten.
-
-- f) Schwarzsee;
-
-- g) Lussy-See nur vom Ufer aus, an den bezeichneten Stellen.
+<table>
+<tr><th>See</th><th>Begrenzung</th></tr>
+<tr><td>Greyerzersee</td><td>unterhalb der Brücke von Morlon (2573691/1162660) und unterhalb der Brücke, die zum Wasserkraftwerk in Broc führt (2574590/1162092); unterhalb der letzten Brücke über die Sionge in Vuippens (2572339/1167667); für die übrigen Zuflüsse: bis zum höchsten Pegelstand des Sees</td></tr>
+<tr><td>Lessoc-See (Montbovon-See)</td><td>ab der Brücke des Wasserkraftwerks (2569974/1148553)</td></tr>
+<tr><td>Lussy-See</td><td>nur ab Bootsanlegestelle Seite Jura (2558625/1154825)</td></tr>
+<tr><td>Montsalvens-See</td><td>als See an seinem höchsten Pegelstand; Anschlagtafeln signalisieren die Stelle, ab der die Bestimmungen für Wasserläufe gelten.</td></tr>
+<tr><td>Schwarzsee</td><td></td></tr>
+<tr><td>Pérolles-See</td><td>flussabwärts der Pérolles-Brücke, nur in den folgenden (mit Schildern gekennzeichneten) Sektoren: am rechten Ufer, ab der Pérolles-Brücke bis zu den Koordinaten (2578997/1182251); am linken Ufer, ab der Pérolles-Brücke bis zum Beginn des grossen Schilfgürtels (2578918/1182116), dann, ab der Lichtung beim südlichen Ende der Galerie des Sentier Schoch (2578925/1182253) bis zum Ende des Wegs, der vom Sentier Schoch her kommt (2579111/1182488)</td></tr>
+<tr><td>Schiffenensee</td><td>flussabwärts der Neiglen-Hängebrücke (2578778/1184554)</td></tr>
+</table>
 
 #### Art. 16
 
-**Das Fischen vom Boot aus**
+**Fischen von einem Wasserfahrzeug aus**
 
-<sup>1</sup> Inhaberinnen und Inhaber des Zusatzpatents D (Schleppangel und Fischen von einem absichtlich oder nicht absichtlich getriebenen Wasserfahrzeug aus) und E (Fischen von einem nicht absichtlich getriebenen Wasserfahrzeug aus) sind berechtigt, in folgenden Seen von einem Wasserfahrzeug aus zu fischen:
+<sup>1</sup> Inhaberinnen und Inhaber des Zusatzpatents D sind berechtigt, ausschliesslich in folgenden Seen von einem Wasserfahrzeug aus zu fischen:
 
 - a) Schiffenensee;
-
 - b) Greyerzersee;
-
 - c) Montsalvens-See;
-
 - d) Schwarzsee.
 
-<sup>2</sup> Inhaberinnen und Inhabern des Zusatzpatents D (Schleppangel) sind in Anwendung der Bestimmungen von Artikel 53 Abs. 2 der Bundesverordnung vom 8. November 1978 über die Schifffahrt auf schweizerischen Gewässern (Binnenschifffahrtsverordnung, BSV) berechtigt, in der inneren Uferzone mit einem vorschriftsgemäss bezeichneten Wasserfahrzeug (weisser Ballon) parallel zum Ufer zu fahren, jedoch nur für die Ausübung der Fischerei mit der Schleppangel. Die Höchstgeschwindigkeit ist auf 10 km/h beschränkt.
+<sup>2</sup> Inhaberinnen und Inhabern des Zusatzpatents D, die mit der Schleppangel fischen (nicht in der Hand gehaltene Angel, die hinter einem absichtlich getriebenen Wasserfahrzeugaus hergezogen wird) sind in Anwendung der Bestimmungen von Artikel 53 Abs. 2 der Bundesverordnung vom 8. November 1978 über die Schifffahrt auf schweizerischen Gewässern (Binnenschifffahrtsverordnung, BSV) berechtigt, in der inneren Uferzone parallel zum Ufer zu fahren. Ein Wasserfahrzeug, von dem aus mit der Schleppangel gefischt wird, muss vorschriftsgemäss, also mit einem weissen Ballon, bezeichnet sein (BSV Art. 31 Abs. 2).
 
-<sup>3</sup> Im Lessoc- (Montbovon-), im Lussy- und im Pérolles-See ist jegliche Fischerei vom Wasserfahrzeug aus verboten.
+<sup>3</sup> Das Fischen von einem Strandboot aus wird dem Fischen von einem Wasserfahrzeug aus gleichgesetzt. Als «Strandboot» gelten namentlich Belly Boat, Float Tube, Luftmatratzen und weitere Schwimmhilfen nach Artikel 2 BSV.
 
-<sup>4</sup> Das Fischen von einem Strandboot aus wird dem Fischen von einem Wasserfahrzeug aus gleichgesetzt. Als «Strandboot» gelten namentlich Belly Boat, Float Tube, Luftmatratzen und weitere Schwimmhilfen nach Artikel 2 BSV.
+## 6 Fischereiverbot und Schongebiete
 
 #### Art. 17
 
-**Verbot bei vereisten Seen**
+**Fischereiverbot**
 
-Es ist verboten, sich zum Fischen auf die vereisten Seen zu begeben und Löcher ins Eis zu schlagen.
+<sup>1</sup> Die Fischerei ist verboten:
 
-- 5\. KAPITEL
-
-### Fischereiverbot und Schongebiete
+- a) von Brücken und Hängebrücken aus;
+- b) von den Staumauern von Lessoc, von Montsalvens, von Rossens, der Magerau und von Schiffenen sowie von den jeweils dazugehörigen Bauten und Anlagen aus, insbesondere im betonierten Teil des Unterwasserkanals unter der Staumauer und in den Auffangbecken; im Auffangbecken am Fusse der Staumauer von Rossens ist der für die Fischerei offene Bereich mit Schildern gekennzeichnet;
+- c) in den Kanälen, mit Ausnahme derjenigen, die gemäss Artikel 12 dieses Reglements der Patentfischerei offenstehen;
+- d) in den Geschiebesammlern und den Turbinenkammern der Elektrizitätswerke, den Bauten zur Sanierung der Wasserkraft und von den jeweils dazugehörigen Bauten und Anlagen aus, insbesondere im betonierten Teil des Unterwasserkanals;
+- e) bei Fischleitern und anderen Bauwerken, die mit einer Anschlagtafel versehen sind, zur Überwindung von Hindernissen durch ein Wasserkraftwerk, von beiden Ufern aus bis 20 m flussaufwärts und flussabwärts;
+- f) von den Anlagen der Bootshäfen aus oder innerhalb der Bootshäfen;
+- g) vom linken Saaneufer aus am Fusse der Deponie La Pila in Hauterive.
 
 #### Art. 18
 
-**Fischereiverbot**
+**Schongebiet**
 
-Die Fischerei ist verboten:
+<sup>1</sup> Jegliche Fischerei ist verboten in der Glane vom Stauwehr von Matelec (2575127/1181696) bis zur Einmündung in die Saane.
 
-- a) von Brücken und Stegen aus;
-
-- b) von den Staumauern von Lessoc, von Montsalvens, von Rossens, der Magerau und von Schiffenen sowie von den jeweils dazugehörigen Bauten und Anlagen aus, insbesondere im betonierten Teil des Unterwasserkanals unter der Staumauer und in den Auffangbecken; im Auffangbecken am Fusse der Staumauer von Rossens ist der für die Fischerei offene Bereich mit Schildern gekennzeichnet;
-
-- c) in den Kanälen, mit Ausnahme derjenigen, die gemäss Artikel 11 dieses Reglements der Patentfischerei offenstehen;
-
-- d) in den Geschiebesammlern und den Turbinenkammern der Elektrizitätswerke;
-
-- e) bei Fischleitern und anderen Bauwerken, die mit einer Anschlagtafel versehen sind, zur Überwindung von Hindernissen durch ein Wasserkraftwerk, von beiden Ufern aus bis 20 m flussaufwärts und flussabwärts;
-
-- f) von den Anlagen der Bootshäfen aus oder innerhalb der Bootshäfen;
-
-- g) vom linken Saaneufer aus am Fusse der Deponie La Pila in Hauterive.
+<sup>2</sup> Jegliche Fischerei kann in den Wasserläufen verboten werden, die Gegenstand von Renaturierungsmassnahmen (im Sinne von Art. 4 Bst. m oder Art. 38a, 43a und 80 GSchG) sind, während der Arbeiten und während maximal 5 Jahren nach der Ausführung der Massnahmen.
 
 #### Art. 19
 
-**Schongebiet**
+**Teilschongebiete**
 
-Jegliche Fischerei ist verboten in der Glane von der Einmündung in die Saane bis zum Stauwehr von Matelec (Sainte-Apolline).
+<sup>1</sup> Jegliche Fischerei ist verboten:
+
+- a) im Greyerzer- und im Schiffenensee:
+  - 1\. während der Schonzeit des Zanders und des Hechts, abgesehen vom Fischen mit einer Angelrute, die mit einem Schwimmer und einem einfachen Angelhaken mit natürlichen Ködern versehen ist, und dem Trockenfliegenfischen zum Fang von Köderfischen;
+  - 2\. in einem Umkreis von 20 m um Zonen mit künstlichen Laichplätzen, die mit Bojen gekennzeichnet sind.
+- b) im Lessoc-See (Montbovon-See): vom Montag nach dem 1. Sonntag im Oktober bis zum Samstag vor dem 1. Sonntag im März, mit Ausnahme des Fangs von Elritzen, der jeweils ab 1. Februar gestattet ist, wobei vom 1. Februar bis zur Eröffnung der Fischerei der Fang von Elritzen mit Angeln nicht erlaubt ist;
+- c) im Pérolles-See: vom Montag nach dem 1. Sonntag im Oktober bis zum Samstag vor dem 1. Sonntag im März;
+- d) in den freiburgischen Wasserläufen mit Ausnahme des Broyekanals: vom Montag nach dem 1. Sonntag im Oktober bis zum Samstag vor dem 1. Sonntag im März, mit Ausnahme des Fangs von Elritzen, der jeweils ab 1. Februar gestattet ist, wobei vom 1. Februar bis zur Eröffnung der Fischerei der Fang von Elritzen mit Angeln nicht erlaubt ist;
+- e) in den Grenzwasserläufen mit dem Kanton Waadt gemäss Artikel 14 dieses Reglements: vom Montag nach dem 1. Sonntag im Oktober bis zum Samstag vor dem 1. Sonntag im März;
+- f) in den Grenzwasserläufen mit dem Kanton Bern gemäss Artikel 13 dieses Reglements mit Ausnahme der Saane 0: vom 1. Oktober bis 15. März.
+
+<sup>2</sup> Jegliche Fischerei ist in den folgenden zeitweiligen Schongebieten ab dem Ende der Flussfischerei Anfang Oktober bis am 31. Mai des Folgejahres verboten:
+
+- a) Javro: auf der ganzen für die Patentfischerei offenen Strecke;
+- b) Saane 5: auf der ganzen für die Patentfischerei offenen Strecke.
+
+<sup>3</sup> In der Saane vom Stauwehr der Magerau bis zur Mottabrücke ist es von der Eröffnung der Flussfischerei bis zum Ende der Schonzeit für die Äsche verboten, für den Fischfang im Wasser zu waten.
+
+## 7 Schonzeiten und Fischfangzeiten
 
 #### Art. 20
 
-**Teilschongebiete**
-
-<sup>1</sup> Jegliche Fischerei in den folgenden Gebieten ist verboten:
-
-- a) Lessoc-See vom Montag nach dem 1. Sonntag im (Montbovon-See) Oktober bis zum Samstag vor dem
-
-- 1\. Sonntag im März, mit Ausnahme des Fangs von Elritzen, der jeweils ab 1. Februar gestattet ist, wobei vom 1. Februar bis zur Eröffnung der Fischerei der Fang von Elritzen mit Angeln nicht erlaubt ist;
-
-- b) freiburgische vom Montag nach dem 1. Sonntag im Wasserläufe mit Oktober bis zum Samstag vor dem Ausnahme des 1. Sonntag im März, mit Ausnahme des Broyekanals Fangs von Elritzen, der jeweils ab 1. Februar gestattet ist, wobei vom 1. Februar bis zur Eröffnung der Fischerei der Fang von Elritzen mit Angeln nicht erlaubt ist;
-
-- c) Grenzflüsse mit dem vom Montag nach dem 1. Sonntag im Kanton Waadt gemäss Oktober bis zum Samstag vor dem Artikel 13 dieses 1. Sonntag im März;
-
-Reglements d) Kalte Sense und vom 1. Januar bis 15. März und vom Abschnitt der Sense, 1. Oktober bis 31. Dezember.
-
-der an den Kanton Bern grenzt
-
-<sup>2</sup> Jegliche Fischerei ist in den folgenden zeitweiligen Schongebieten vom 1. Januar bis 31. Mai und ab dem Ende der Flussfischerei Anfang Oktober bis 31. Dezember verboten:
-
-- a) Javroz auf der ganzen für die Patentfischerei offenen Strecke;
-
-- b) Saane von der Einmündung in den Lessoc-See (Montbovon-See) bis zur Grenze zum Kanton
-
-Waadt in Montbovon.
-
-<sup>3</sup> In der Saane von der Mottabrücke bis zum Stauwehr der Magerau ist es von der Eröffnung der Flussfischerei bis zum Ende der Schonzeit für die Äsche verboten, für den Fischfang im Wasser zu waten.
-
-<sup>4</sup> Jegliche Fischerei kann in den Wasserläufen verboten werden, die Gegenstand von Renaturierungsmassnahmen (im Sinne von Art. 4 Bst. m oder Art. 38a, 43a und 80 GSchG) sind, während der Arbeiten und während maximal 5 Jahren nach der Ausführung der Massnahmen.
-
-### 6. KAPITEL Schonzeiten und Fischfangzeiten
-
-#### Art. 21
-
 **Schonzeiten**
 
-Es gelten folgende Schonzeiten:
+<sup>1</sup> Forelle:
 
-- a) Forelle in den Wasserläufen und Seen, mit Ausnahme des Schiffenen- und des Greyerzersees: vom Montag nach dem 1. Sonntag im Oktober bis Samstag vor dem 1. Sonntag im März, d. h.:
+- a) in den Wasserläufen und Seen, mit Ausnahme des Schiffenen- und des Greyerzersees:
+  - 1\. vom 1. Januar 2022 bis 5. März 2022,
+  - 2\. vom 3. Oktober 2022 bis 4. März 2023,
+  - 3\. vom 2. Oktober 2023 bis 2. März 2024,
+  - 4\. vom 7. Oktober 2024 bis 31. Dezember 2024;
+- b) im Schiffenen- und im Greyerzersee:
+  - 1\. vom 1. Januar 2022 bis 15. Januar 2022,
+  - 2\. vom 3. Oktober 2022 bis 15. Januar 2023,
+  - 3\. vom 2. Oktober 2023 bis 15. Januar 2024,
+  - 4\. vom 7. Oktober 2024 bis 31. Dezember 2024;
+- c) in den Grenzwasserläufen mit dem Kanton Bern: jedes Jahr vom 1. Oktober bis 15. März.
 
-- vom 1. Januar 2019 bis 2. März 2019,
+<sup>2</sup> Äsche:
 
-- vom 7. Oktober 2019 bis 29. Februar 2020,
+- a) in der Saane:
+  - 1\. vom 1. Januar 2022 bis 31. Mai 2022,
+  - 2\. vom 3. Oktober 2022 bis 31. Mai 2023,
+  - 3\. vom 2. Oktober 2023 bis 31. Mai 2024,
+  - 4\. vom 7. Oktober 2024 bis 31. Dezember 2024;
+- b) in den Grenzwasserläufen mit dem Kanton Bern: jedes Jahr vom 1. Januar bis 15. Mai.
 
-- vom 5. Oktober 2020 bis 6. März 2021,
+<sup>3</sup> Hecht:
 
-- vom 4. Oktober 2021 bis 31. Dezember 2021;
+- a) im Greyerzer-, im Lussy- und im Schwarzsee: jedes Jahr vom 1. April bis 31. Mai;
+- b) im Schiffenensee: jedes Jahr vom 15. März bis 15. Mai;
+- c) im Broyekanal und in den an den Kanton Waadt angrenzenden Abschnitten der Broye: jedes Jahr vom 15. März bis 15. April.
 
-Forelle im Schiffenen- und im Greyerzersee: vom Montag nach dem 1. Sonntag im Oktober bis 15. Januar, d. h.:
+<sup>4</sup> Zander:
 
-- vom 1. Januar 2019 bis 15. Januar 2019,
+- a) im Greyerzersee: jedes Jahr vom 1. April bis 31. Mai;
+- b) im Schiffenensee: jedes Jahr vom 15. März bis 15. Mai.
 
-- vom 7. Oktober 2019 bis 15. Januar 2020,
+<sup>5</sup> Flussbarsch (Egli):
 
-- vom 5. Oktober 2020 bis 15. Januar 2021,
+- a) im Greyerzer- und im Schwarzsee: jedes Jahr vom 1. April bis 31. Mai;
+- b) im Schiffenensee und im Broyekanal: jedes Jahr vom 15. März bis 15. Mai.
 
-- vom 4. Oktober 2021 bis 31. Dezember 2021, mit Ausnahme
+<sup>6</sup> Barbe in den freiburgischen und an den Kanton Waadt grenzenden Seen und Wasserläufen: jedes Jahr vom 1. Mai bis 31. Juli.
 
-- des an den Kanton Bern angrenzenden Abschnitts der Saane, der Kalten Sense und des an den Kanton Bern angrenzenden Abschnitts der Sense: jedes Jahr vom 1. Oktober bis 15. März;
+<sup>7</sup> Elritze in den freiburgischen Seen und Wasserläufen: jedes Jahr vom 15. April bis 15. Juni.
 
-- b) Äsche: vom Montag nach dem 1. Sonntag im Oktober bis 31. Mai, d. h.:
+<sup>8</sup> Wels im Broyekanal: jedes Jahr vom 15. Mai bis 15. Juni.
 
-- vom 1. Januar 2019 bis 31. Mai 2019,
-
-- vom 7. Oktober 2019 bis 31. Mai 2020,
-
-- vom 5. Oktober 2020 bis 31. Mai 2021,
-
-- vom 4. Oktober 2021 bis 31. Dezember 2021, mit Ausnahme
-
-- der an den Kanton Bern angrenzenden Gewässer: jedes Jahr vom 1. Januar bis 15. Mai,
-
-- der an den Kanton Waadt angrenzenden Gewässer:
-
-vom 1. Januar 2019 bis 18. Mai 2019, vom 7. Oktober 2019 bis 16. Mai 2020, vom 5. Oktober 2020 bis 15. Mai 2021, vom 4. Oktober 2021 bis 31. Dezember 2021, mit Ausnahme der Broye, wo der Fang von Äschen das ganze Jahr verboten ist;
-
-- c) Hecht:
-
-- im Greyerzer-, im Lussy- und im Schwarzsee: jedes Jahr vom 1. April bis 31. Mai,
-
-- im Schiffenensee: jedes Jahr vom 15. März bis 15. Mai,
-
-- im Broyekanal und in den an den Kanton Waadt angrenzenden Abschnitten der Broye: jedes Jahr vom 15. März bis 15. April;
-
-- d) Zander:
-
-- im Greyerzersee: jedes Jahr vom 1. April bis 31. Mai,
-
-- im Schiffenensee: jedes Jahr vom 15. März bis 15. Mai;
-
-- e) Barsch (Egli):
-
-- im Greyerzer- und im Schwarzsee: jedes Jahr vom 1. April bis 31. Mai,
-
-- im Schiffenensee und im Broyekanal: jedes Jahr vom 15. März bis 15. Mai;
-
-- f) Barbe: jedes Jahr vom 1. Mai bis 31. Juli, mit Ausnahme
-
-- der Kalten Sense und der an den Kanton Bern angrenzenden Abschnitte der Sense und der Saane;
-
-- g) Elritze: jedes Jahr vom 15. April bis 15. Juni, mit Ausnahme
-
-- der Kalten Sense und der an den Kanton Bern angrenzenden Abschnitte der Sense und der Saane,
-
-- der Grenzflüsse mit dem Kanton Waadt;
-
-- h) Wels im Broyekanal: jedes Jahr vom 15. Mai bis 15. Juni.
-
-#### Art. 22
+#### Art. 21
 
 **Fangzeiten**
 
 <sup>1</sup> Das Fischen ist während der folgenden Tageszeiten gestattet:
 
-- im Januar: von 08.00 Uhr bis 17.30 Uhr
+<table>
+<tr><th>Monat</th><th>Sommerzeit</th><th>Winterzeit</th></tr>
+<tr><td>Januar</td><td></td><td>von 08.00 Uhr bis 17.30 Uhr</td></tr>
+<tr><td>Februar</td><td></td><td>von 07.00 Uhr bis 18.30 Uhr</td></tr>
+<tr><td>März</td><td>von 08.00 Uhr bis 20.00 Uhr</td><td>von 07.00 Uhr bis 19.00 Uhr</td></tr>
+<tr><td>April</td><td>von 06.30 Uhr bis 21.00 Uhr</td><td></td></tr>
+<tr><td>Mai</td><td>von 06.00 Uhr bis 21.30 Uhr</td><td></td></tr>
+<tr><td>Juni</td><td>von 05.00 Uhr bis 22.00 Uhr</td><td></td></tr>
+<tr><td>Juli</td><td>von 05.00 Uhr bis 22.00 Uhr</td><td></td></tr>
+<tr><td>August</td><td>von 06.00 Uhr bis 21.30 Uhr</td><td></td></tr>
+<tr><td>September</td><td>von 07.00 Uhr bis 21.00 Uhr</td><td></td></tr>
+<tr><td>Oktober</td><td>von 08.00 Uhr bis 19.30 Uhr</td><td>von 07.00 Uhr bis 18.30 Uhr</td></tr>
+<tr><td>November</td><td></td><td>von 07.30 Uhr bis 17.30 Uhr</td></tr>
+<tr><td>Dezember</td><td></td><td>von 08.00 Uhr bis 17.00 Uhr</td></tr>
+</table>
 
-- im Februar: von 07.00 Uhr bis 18.30 Uhr
-
-- im März: von 07.00 Uhr bis 19.00 Uhr (Winterzeit) von 08.00 Uhr bis 20.00 Uhr (Sommerzeit)
-
-- im April: von 06.30 Uhr bis 21.00 Uhr
-
-- im Mai: von 06.00 Uhr bis 21.30 Uhr
-
-- im Juni: von 05.00 Uhr bis 22.00 Uhr
-
-- im Juli: von 05.00 Uhr bis 22.00 Uhr
-
-- im August: von 06.00 Uhr bis 21.30 Uhr
-
-- im September: von 07.00 Uhr bis 21.00 Uhr
-
-- im Oktober: von 08.00 Uhr bis 19.30 Uhr (Sommerzeit) von 07.00 Uhr bis 18.30 Uhr (Winterzeit)
-
-- im November: von 07.30 Uhr bis 17.30 Uhr
-
-- im Dezember: von 08.00 Uhr bis 17.00 Uhr.
-
-<sup>2</sup> Im Schiffenensee, im Greyerzersee, im Broyekanal, im Abschnitt der Saane, der an den Kanton Bern grenzt, in der Kalten Sense und im Abschnitt der Sense, der an den Kanton Bern grenzt, ist das Fischen während der folgenden Tageszeiten gestattet:
+<sup>2</sup> Im Schiffenensee, im Greyerzersee, im Broyekanal sowie in den Wasserläufen, die an den Kanton Bern grenzen, ist das Fischen während der folgenden Tageszeiten gestattet:
 
 - a) während der Sommerzeit: von 5 bis 24 Uhr;
-
 - b) während der Winterzeit: von 6 bis 20 Uhr.
 
-<sup>3</sup> Eine halbe Stunde nach Ende bis eine halbe Stunde vor Beginn der Fischfangzeiten ist es verboten, Fanggeräte auf dem Wasserfahrzeug oder am Ufer montiert zu haben.
+<sup>3</sup> Eine halbe Stunde nach Ende bis eine halbe Stunde vor Beginn der Fischfangzeiten ist es verboten, Fanggeräte am Ufer montiert zu haben.
 
-- 7\. KAPITEL
+## 8 Fangmasse und Höchstfangzahl
 
-### Fangmasse und Höchstfangzahl
-
-#### Art. 23
+#### Art. 22
 
 **Fangmasse**
 
-Die Fische dürfen nur behalten werden, sofern sie von der Kopfspitze bis zur Spitze der natürlich ausgebreiteten Schwanzflosse gemessen, folgende Fangmasse erreichen:
+<sup>1</sup> Die Fische dürfen nur behalten werden, sofern sie von der Kopfspitze bis zur Spitze der natürlich ausgebreiteten Schwanzflosse gemessen, die vorgeschriebenen Fangmasse erreichen.
 
-Forelle: 24 cm, ausgenommen:
+<sup>2</sup> Forelle: Das Fangmass beträgt 24 cm. In Spezialfällen gelten jedoch unterschiedliche Fangmasse:
 
-- Bereich zwischen in der Saane von der Neiglen-Hängebrücke 24 und 32 cm flussaufwärts bis unterhalb des Absturzes der Schleusen des Stauwehrs der Magerau am linken Ufer und bis zum Tennisplatz der Magerau am rechten Ufer;
+- a) Bereich zwischen 30 und 36 cm und über 60 cm
+  - 1\. Pérolles-See:
+  - 2\. Saane 2 und 3;
+- b) Bereich zwischen 26 und 32 cm und über 45 cm
+  - 1\. mittlere Broye;
+  - 2\. untere Ärgera;
+  - 3\. untere, mittlere und obere Glane;
+  - 4\. Gorges de la Jogne;
+  - 5\. Lessoc-See;
+  - 6\. Neirigue;
+  - 7\. Saane 1, 4 und 5;
+- c) Das Fangmindestmass beträgt 45 cm:
+  - 1\. Broyekanal;
+  - 2\. Grosser Kanal (Bibera);
+  - 3\. Greyerzersee;
+  - 4\. Schiffenensee.
 
-in der Saane von der Pérolles-Brücke flussaufwärts bis zum Auffangbecken unterhalb
+<sup>3</sup> Äsche:
 
-der Staumauer von Rossens;
+- a) 38 cm in der Saane auf Freiburger Boden;
+- b) 36 cm in den Grenzwasserläufen mit dem Kanton Bern.
 
-in der Glane, vom Stauwehr von Matelec (Sainte-Apolline) bis zur Raffour-Brücke in Prez-vers-
+<sup>4</sup> Hecht: 60 cm in den Seen. In Spezialfällen gelten jedoch unterschiedliche Fangmasse:
 
-Siviriez, ohne ihre Zuflüsse;
+- a) 45 cm im Broyekanal.
 
-in der Neirigue, von der Einmündung in die Glane bis zur Brücke bei der Mühle Affamaz (Berlens), die Zuflüsse ausgenommen;
+<sup>5</sup> Zander: 40 cm im Greyerzer- und im Schiffenensee.
 
-in der Ärgera von der Einmündung in die Saane bis zum Zusammenfluss mit dem «Ruisseau du Copy» in Marly;
+<sup>6</sup> Wels: 45 cm im Broyekanal.
 
-- 45 cm im Greyerzersee;
+<sup>7</sup> Karpfen: 40 cm.
 
-im Schiffenensee;
-
-im Pérolles-See;
-
-im Broyekanal;
-
-in der Bibera.
-
-Äsche: in den Wasserläufen auf Freiburger Boden und in den an den Kanton Waadt angrenzenden Abschnitten der Broye ist der Fang von Äschen das ganze Jahr verboten, ausser:
-
-- 38 cm in der Saane auf Freiburger Boden;
-
-- 36 cm in der Kalten Sense;
-
-in dem an den Kanton Bern angrenzenden Abschnitt der Saane;
-
-in dem an den Kanton Bern angrenzenden Abschnitt der Sense.
-
-Hecht: 50 cm in den Seen;
-
-- 45 cm im Broyekanal;
-
-in den an den Kanton Waadt angrenzenden
-
-Abschnitten der Broye;
-
-in den übrigen Wasserläufen können Hechte aller Grössen gefangen werden; die in diesen Wasserläufen gefangenen Hechte müssen jedoch behalten werden und dürfen auf keinen Fall wieder ins Wasser ausgesetzt werden.
-
-Zander: 40 cm im Greyerzer- und im Schiffenensee;
-
-in den übrigen Wasserläufen und Seen können Zander aller Grössen gefangen werden; die in den Wasserläufen und Seen gefangenen Zander müssen jedoch behalten werden und dürfen auf keinen Fall wieder ins Wasser ausgesetzt werden, mit Ausnahme der im Greyerzer- und im Schiffenensee gefangenen Zander.
-
-Barsch (Egli): Kein Fangmindestmass;
-
-in den kantonalen Wasserläufen und Seen dürfen pro Tag und Person bis zu 80 Barsche (Egli) gefangen werden.
-
-Karpfen: 40 cm.
-
-Wels: 50 cm.
-
-#### Art. 24
+#### Art. 23
 
 **Begrenzung der Fangzahl und Fangverbot**
 
 <sup>1</sup> Eine Person darf pro Tag nicht mehr als insgesamt 6 Fische der folgenden Arten fangen: Forelle, Äsche, Hecht und Zander. Sie darf jedoch nicht mehr als 1 Äsche pro Tag fangen.
 
-<sup>2</sup> Im Unterlauf der Glane, zwischen dem Stauwehr von Matelec (Sainte-Apolline) bis zur Einmündung der Neirigue und in der Neirigue ist es verboten, mehr als 2 Forellen pro Tag zu fangen.
+<sup>2</sup> In der Neirigue und in der unteren Glane ist es verboten, mehr als 2 Forellen pro Tag zu fangen.
 
-<sup>3</sup> In der Kalten Sense und in dem an den Kanton Bern angrenzenden Abschnitt der Sense und der Saane darf eine Person nicht mehr als 6 Edelfische (Bachforellen und Äschen) pro Tag fangen.
+<sup>3</sup> Eine Person darf pro Tag höchstens 80 Flussbarsche (Egli) fangen.
 
-<sup>4</sup> Eine Person darf pro Tag höchstens 80 Barsche (Egli) fangen.
+<sup>4</sup> Eine Person darf pro Tag insgesamt höchstens 50 Elritzen, Brachsmen, Lauben, Hasel, Rotaugen, Rotfedern, Alet und Schleien fangen. Diese sind nur für den Eigengebrauch bestimmt.
 
-<sup>5</sup> Eine Person darf pro Tag höchstens 30 Elritzen, Brachsmen, Lauben, Hasel, Rotaugen, Rotfedern, Alet und Schleien fangen. Diese sind nur für den Eigengebrauch bestimmt.
+<sup>5</sup> Eine Person darf pro Jahr nicht mehr als insgesamt 150 Fische der folgenden Arten fangen: Forelle, Äsche, Hecht und Zander in den Seen; in Wasserläufen ist die Fangzahl auf 75 Fische pro Jahr beschränkt. Sie darf jedoch nicht mehr als 5 Äschen pro Jahr fangen. Inhaberinnen und Inhaber eines Halbjahrespatents dürfen insgesamt 75 Fische (Forelle, Äsche, Hecht und Zander) in Seen und 40 Fische in Wasserläufen fangen. Sie dürfen jedoch höchsten 2 Äschen fangen.
 
-<sup>6</sup> Eine Person darf pro Jahr nicht mehr als insgesamt 150 Fische der folgenden Arten fangen: Forelle, Äsche, Hecht und Zander. Pro Jahr dürfen jedoch höchstens 5 Äschen gefangen werden. Inhaberinnen und Inhaber eines Halbjahrespatents dürfen insgesamt 75 Fische (Forelle, Äsche, Hecht und Zander), davon jedoch höchstens 2 Äschen, fangen.
+<sup>6</sup> Der Fang sämtlicher Krebsarten ist verboten.
 
-<sup>7</sup> Der Fang von Nasen ist verboten.
+<sup>7</sup> Der Fang von Äschen ist in allen Freiburger Wasserläufen und Seen sowie in den Grenzwasserläufen mit dem Kanton Waadt verboten, mit Ausnahme der Grenzwasserläufe mit dem Kanton Bern sowie der Saane.
 
-<sup>8</sup> Der Fang von Krebsen ist verboten.
+## 9 Fanggeräte, Fischereimethoden, Köder
 
-<sup>9</sup> Der Fang von Äschen in dem an den Kanton Waadt angrenzenden Abschnitt der Broye ist verboten.
-
-- 8\. KAPITEL
-
-### Fanggeräte, Fischereimethoden, Köder
-
-#### Art. 25
+#### Art. 24
 
 **Verbotene Fanggeräte und Fischereimethoden**
 
 <sup>1</sup> Zur Ausübung der Fischerei ist es verboten:
 
 - a) Fische mit im Wasser verteilten Substanzen anzulocken (Ködern), unter Vorbehalt von Sonderbewilligungen, die vom Amt ausgestellt werden;
-
 - b) Fische mit einer Lampe oder einem Scheinwerfer anzulocken, unter Vorbehalt von Sonderbewilligungen, die vom Amt ausgestellt werden;
-
-- c) Fische anders als mithilfe einer Angel zu fangen (ausgenommen für den Fang von Köderfischen);
-
+- c) Fische anders als mithilfe einer Angel zu fangen (ausgenommen für den Fang von Ködern);
 - d) ferngesteuerte Geräte zu verwenden;
-
-- e) Fische zu fangen, indem sie mit der Angel absichtlich an einer anderen Körperstelle als im Mund festgehalten werden;
-
+- e) Fische zu fangen, indem sie mit einem Angelhaken absichtlich an einer anderen Körperstelle als im Mund festgehalten werden;
 - f) Stoffe, welche die Fische betäuben, Sprengstoff oder andere schädliche Stoffe sowie Elektrizität zu verwenden; das Amt ist jedoch befugt, Bewilligungen für die Elektrofischerei auszustellen;
-
 - g) durch das Aufstellen von Hindernissen die Fortbewegung der Fische zu beeinträchtigen oder zu verhindern;
-
 - h) den Wasserhaushalt, den Zustand der Ufer oder des Flussbetts zu verändern.
 
 <sup>2</sup> Das Amt kann Laichfischfänge, Abfischungen zum Schutz der Fische und Fischfänge zu wissenschaftlichen Zwecken organisieren.
 
-#### Art. 26
+#### Art. 25
 
 **Angeln**
 
-<sup>1</sup> Einzig die Fischerei mit einer Angel ist erlaubt, unter Vorbehalt der Verwendung anderer Geräte zum Fang von Köderfischen (Art. 33 dieses Reglements).
+<sup>1</sup> Folgende Angeln sind erlaubt:
 
-<sup>2</sup> Folgende Angeln sind erlaubt:
-
-- a) die Schwebangel mit oder ohne Schwimmer und Beschwerung, inklusive die Angel zum Fang mit der Fliege;
-
+- a) die Schwebangel mit oder ohne Schwimmer und Beschwerung, inklusive die Angelrute zum Fliegenfischen;
 - b) die Senkangel mit Beschwerung, ohne Schwimmer oder mit einem Laufzapfen;
-
 - c) die Gambe, d. h. eine Senkangel, die von Hand auf und ab bewegt wird;
-
 - d) die Setzangel, d. h. eine beschwerte Angel, deren Beschwerung auf dem Grund aufliegt;
-
 - e) die Wurfangel, d. h. eine beschwerte Angel mit oder ohne Laufzapfen, deren Köder ausgeworfen und dann von der Fischerin oder vom Fischer zurückgezogen wird;
+- f) die Schleppangel, d. h. eine von einem absichtlich getriebenen Wasserfahrzeug passiv gezogene Angel, die nicht in der Hand gehalten wird.
 
-- f) die Schleppangel, d. h. eine durch ein absichtlich getriebenes Wasserfahrzeug gezogene Angel.
+<sup>2</sup> Die Verwendung aller übrigen Angeln ist verboten.
 
-<sup>3</sup> Die Verwendung aller übrigen Angeln ist verboten.
-
-#### Art. 27
+#### Art. 26
 
 **Erlaubte Angeln in den Flüssen**
 
-<sup>1</sup> In den Flüssen darf die Inhaberin oder der Inhaber des Patents A, B oder F nur eine einzige Angel (Schweb-, Senk-, Setz- oder Wurfangel, mit Ausnahme der Gambe), die von Hand gehalten oder in der Nähe der Fischerin oder des Fischers aufgestellt wird, gebrauchen. Die Angel darf mit einem einzigen Haken (einfach, doppelt oder dreifach) ohne Widerhaken, der unter der eventuell vorhandenen Beschwerung angebracht ist, versehen sein.
+<sup>1</sup> In den Flüssen darf die Inhaberin oder der Inhaber des Patents A, B oder F nur eine einzige Angel (Schweb-, Senk-, Setz- oder Wurfangel, mit Ausnahme der Gambe), die von Hand gehalten oder in der Nähe der Fischerin oder des Fischers aufgestellt wird, gebrauchen. Die Angelrute darf mit einem einzigen einfachen Angelhaken versehen sein.
 
 <sup>2</sup> Kein Angelhaken darf einen Widerhaken aufweisen.
 
-<sup>3</sup> Beim Fischen mit toten Köderfischen («Dandinette») können einfache, doppelte oder dreifache Haken mit insgesamt höchstens drei Schenkeln verwendet werden.
+<sup>3</sup> Beim Fischen mit toten Köderfischen («Dandinette») sowie Gummiködern dürfen höchstens drei einfache Angelhaken verwendet werden.
 
-<sup>4</sup> Im Abschnitt der Saane, der an den Kanton Bern grenzt, darf die Fischerin oder der Fischer zwei nach den Absätzen 1 und 2 dieses Artikels zusammengesetzte Angeln verwenden.
+<sup>4</sup> Im Broyekanal sind die Vorschriften über die Angelfischerei dieselben wie für die Fischerei im See (Art. 27 dieses Reglements), ausser dass die Fischerei mit der Gambe vom 15. April bis 31. Mai und vom 15. Oktober bis 31. Dezember verboten ist.
 
-<sup>5</sup> Im Broyekanal sind die Vorschriften über die Angelfischerei dieselben wie für die Fischerei im See (Art. 28 dieses Reglements), mit Ausnahme der folgenden Bestimmungen:
-
-- a) Die Verwendung von lebenden Köderfischen ist gestattet.
-
-- b) Die Fischerei mit der Gambe ist vom 15. April bis 31. Mai und vom 15. Oktober bis 31. Dezember verboten.
-
-#### Art. 28
+#### Art. 27
 
 **Erlaubte Angeln im See**
 
-In den kantonalen Seen und im Broyekanal darf jede Inhaberin und jeder Inhaber des Patents A, C oder F sowie des Patents D oder E unter Vorbehalt von Artikel 16 Abs. 3 dieses Reglements für die Fischerei von einem Wasserfahrzeug aus folgende Geräte gebrauchen:
+<sup>1</sup> In den kantonalen Seen und im Broyekanal darf jede Inhaberin und jeder Inhaber des Patents A, C oder F sowie des Patents D für die Fischerei von einem Wasserfahrzeug aus in den Seen, in denen dieses Vorgehen erlaubt ist, folgende Geräte gebrauchen:
 
-- a) vom Ufer oder von einem nicht absichtlich getriebenen Wasserfahrzeug aus (mit Ausnahme des Broyekanals, in dem die Fischerei von einem Wasserfahrzeug aus verboten ist): drei einfache Angeln (Schweb-, Senk-, Setz- oder Wurfangel mit Ausnahme der Gambe), die mit der Hand gehalten oder in der Nähe der Fischerin oder des Fischers aufgestellt werden und je mit höchstens drei einfachen, doppelten oder dreifachen Angelhaken versehen sind;
+- a) Für das Angeln mit Schweb-, Senk-, Setz- oder Wurfangel vom Ufer oder von einem nicht absichtlich getriebenen Wasserfahrzeug aus:
+  - 1\. drei einfache Angelruten (mit Ausnahme der Gambe), die mit der Hand gehalten oder in der Nähe der Fischerin oder des Fischers aufgestellt werden und je mit höchstens drei einfachen, doppelten oder dreifachen Angelhaken versehen sind; ausgenommen ist der Pérolles-See, wo nur mit einer einzigen Angelrute, die mit einem einzigen einfachen, doppelten oder dreifachen Angelhaken versehen ist, gefischt werden darf;
+  - 2\. eine einzige Gambe mit höchstens fünf einfachen Angelhaken; die Person, die mit der Gambe fischt, hat das Recht, zusätzlich zwei weitere Angelruten zu gebrauchen (Schweb-, Senk- oder Setzangel); ausgenommen ist der Pérolles-See, wo das Fischen mit der Gambe verboten ist;
+  - 3\. für den Fischfang mit Köderfischen oder Fischteilen drei Schweb-, Setz- oder Senkangeln mit je einem Köderfisch; ausgenommen ist der Pérolles-See, wo nur mit einer Angelrute, die mit einem einzigen toten Köderfisch versehen ist, gefischt werden darf;
+  - 4\. höchstens sechs Angelruten, wenn mehrere Personen, Gastfischerinnen und Gastfischer inbegriffen, vom selben Wasserfahrzeug aus fischen;
+- b) für das Fischen mit der Schleppangel (von einem absichtlich getriebenen Wasserfahrzeug gezogene Angel, die nicht in der Hand gehalten wird):
+  - 1\. die Schleppangel ist vom 1. Dezember bis am 15. Januar verboten;
+  - 2\. für das Fischen mit der Schleppangel: fünf Köder pro Wasserfahrzeug, mit Ausnahme des Montsalvens-Sees und des Schwarzsees, wo nur zwei Köder pro Boot gestattet sind; jeder Köder darf höchstens mit drei einfachen, doppelten oder dreifachen Angelhaken versehen sein (nach der Beendigung des Fischens mit der Schleppangel muss die Kennzeichnung – weisser Ballon – eingezogen werden).
 
-ausgenommen ist der Pérolles-See, wo nur mit einer einzigen Angel, die mit einem einzigen einfachen, doppelten oder dreifachen Angelhaken versehen ist, gefischt werden darf;
-
-- b) vom Ufer oder von einem nicht absichtlich getriebenen Wasserfahrzeug aus: eine einzige Gambe mit höchstens fünf einfachen Angelhaken; die Person, die mit der Gambe fischt, hat das Recht, zusätzlich zwei weitere Angeln zu gebrauchen (Schweb-, Senk- oder Setzangel);
-
-ausgenommen ist der Pérolles-See, wo die Person, die mit der Gambe fischt, nicht zusätzlich zwei weitere Angeln gebrauchen darf (Schweb-, Senk- oder Setzangel);
-
-- c) für den Fischfang mit Köderfischen oder Fischteilen vom Ufer oder von einem nicht absichtlich getriebenen Wasserfahrzeug aus: drei Schweb-, Setz- oder Senkangeln mit je einem Köder;
-
-ausgenommen ist der Pérolles-See, wo nur mit einer Angel, die mit einem einzigen Köder versehen ist, gefischt werden darf;
-
-- d) höchstens sechs Angeln, wenn mehrere Personen, Gastfischerinnen und Gastfischer inbegriffen, vom selben nicht absichtlich getriebenen Wasserfahrzeug aus fischen;
-
-- e) die Schleppangel, ausgenommen vom 1. Januar bis 15. Januar und vom 1. Dezember bis 31. Dezember;
-
-- f) für das Fischen mit der Schleppangel: fünf Köder pro Wasserfahrzeug, mit Ausnahme des Montsalvens-Sees und des Schwarzsees, wo nur zwei Köder pro Boot gestattet sind; jeder Köderfisch darf höchstens mit drei einfachen, doppelten oder dreifachen Angelhaken versehen sein; nach der Beendigung des Fischens mit der Schleppangel muss die Kennzeichnung (weisser Ballon oder ähnliche Vorrichtung) eingezogen werden;
-
-- g) im Greyerzer- und im Schiffenensee ist während der Schonzeit des Zanders und des Hechts jegliches Fischen verboten, abgesehen vom Fischen mit einer Angel, die mit einem Schwimmer und einem einfachen Angelhaken mit natürlichen Ködern (Fische, Fischeier oder Amphibienlaich ausgeschlossen) versehen ist, und dem Trockenfliegenfischen zum Fang von Köderfischen.
-
-#### Art. 29
+#### Art. 28
 
 **Angeln mit Widerhaken**
 
-Die Verwendung von Angeln mit Widerhaken ist ausschliesslich für die Fischerei in den Seen sowie im Broyekanal erlaubt, unter der Voraussetzung, dass die Fischerin oder der Fischer über einen Sachkundenachweis (SaNa) verfügt.
+<sup>1</sup> Die Verwendung von Angelhaken mit Widerhaken ist ausschliesslich für die Fischerei in den Seen sowie im Broyekanal erlaubt, unter der Voraussetzung, dass die Fischerin oder der Fischer über einen Sachkundenachweis (SaNa) verfügt.
 
-#### Art. 30
+#### Art. 29
 
 **Hilfsgerät**
 
-Nur der Feumer oder Kescher darf als Hilfsgerät für die Fischerei gebraucht werden.
+<sup>1</sup> Nur der Feumer oder Kescher darf als Hilfsgerät für die Fischerei gebraucht werden.
 
-#### Art. 31
+#### Art. 30
 
 **Köder – Allgemeines**
 
-<sup>1</sup> Es dürfen nur kleine einheimische Fischarten (kleine Weissfische, Elritzen) als Köderfische verwendet werden, mit Ausnahme der Fische, deren Gefährdungsstatus 1, 2, 3 oder 4 gemäss Anhang 5 beträgt.
+<sup>1</sup> Als Köder dürfen nur folgende Fischarten eingesetzt werden: Laube, Blicke, Alet, Rotauge, Gründling, Flussbarsch, Rotfeder, Schleie, Elritze und Hasel.
 
-<sup>2</sup> Barsche, die als Köderfische verwendet werden, müssen vor Ort gefangen worden sein.
+<sup>2</sup> Flussbarsche, die als Köderfische verwendet werden, müssen vor Ort gefangen worden sein.
 
-<sup>3</sup> Es ist verboten, ausländische Fischarten, insbesondere Karauschen, Goldfische und Sonnenbarsche, sowie echte und künstliche Fisch- oder Amphibieneier als Köder zu verwenden.
+<sup>3</sup> Es ist verboten, echte und künstliche Fisch- oder Amphibieneier als Köder zu verwenden.
 
-#### Art. 32
+#### Art. 31
 
 **Köder – Lebende Köder**
 
@@ -826,157 +595,95 @@ Nur der Feumer oder Kescher darf als Hilfsgerät für die Fischerei gebraucht we
 
 <sup>2</sup> Die Verwendung von lebenden Köderfischen ist nur im Broyekanal, im Schiffenen-, im Greyerzer-, im Lussy- und im Schwarzsee erlaubt:
 
-- a) Im Schiffenen- und im Greyerzersee ist die Verwendung von lebenden Köderfischen ab Ende der Schonzeit des Hechts und des Zanders bis 30. November gestattet.
-
-- b) Im Schwarz- und im Lussy-See ist die Verwendung von lebenden Köderfischen ab Ende der Schonzeit des Hechts bis 30. November gestattet.
-
-- c) Im Broyekanal ist die Verwendung von lebenden Köderfischen das ganze Jahr zugelassen.
+- a) Im Greyerzer-, im Lussy-, im Schiffenen- und im Schwarzsee ist die Verwendung von lebenden Köderfischen ab Ende der Schonzeit des Hechts bis 30. November gestattet.
+- b) Im Broyekanal ist die Verwendung von lebenden Köderfischen das ganze Jahr zugelassen.
 
 <sup>3</sup> Lebende Köder können nur verwendet werden:
 
 - a) mit einer Schweb-, Senk- oder Setzangel;
-
-- b) von einem Ufer oder von einem nicht absichtlich getriebenen Wasserfahrzeug aus;
-
+- b) von einem Ufer oder von einem nicht absichtlich und ohne Verwendung eines Elektromotors getriebenen Wasserfahrzeug aus;
 - c) wenn sie am Oberkiefer befestigt werden.
 
-#### Art. 33
+#### Art. 32
 
 **Köderfischfang**
 
-<sup>1</sup> Inhaberinnen und Inhaber der Patente A, B, C oder F sind berechtigt, Köderfische in den Gewässern zu fangen, in denen das Fischen und der Köderfischfang erlaubt sind. Sie müssen über einen Sachkundenachweis (SaNa) verfügen.
+<sup>1</sup> Der Fang von Köderfischen ist nur Fischerinnen und Fischern gestattet, die über einen Sachkundenachweis (SaNa) verfügen.
 
 <sup>2</sup> Köderfische können mit einer Falle gefangen werden.
 
 <sup>3</sup> Fallen müssen mit dem Namen und dem Vornamen der Eigentümerin oder des Eigentümers versehen sein.
 
-<sup>4</sup> Jede Fischerin und jeder Fischer darf nur eine Köderfischfalle verwenden.
+<sup>4</sup> Eine Fischerin oder ein Fischer darf nur eine Köderfischfalle verwenden.
 
 <sup>5</sup> Die Köderfischfalle kann:
 
 - a) eine durchsichtige Flasche mit durchbohrtem Boden sein, deren Inhalt 3 l nicht überschreitet;
-
 - b) oder eine kleine Reuse von höchstens 50 cm Länge und höchstens 25 cm Höhe und Breite oder Durchmesser.
 
 <sup>6</sup> Im Greyerzer- und im Schiffenensee sowie im Broyekanal ist der Gebrauch einer Köderfischsenke (quadratisches Netz, das durch zwei gekreuzte und am Scheitel verbundene Bogen gespannt wird) mit Seiten von höchstens 1 m Länge gestattet.
 
-<sup>7</sup> Köderfischsenken dürfen in höchstens 1 m Tiefe gesetzt werden.
+## 10 Behandlung der Fische
 
-- 9\. KAPITEL
-
-### Behandlung der Fische
-
-#### Art. 34
+#### Art. 33
 
 **Gefangene Fische**
 
 <sup>1</sup> Fische müssen schonend gefangen werden.
 
-<sup>2</sup> Zum Verzehr bestimmte Fische müssen unverzüglich getötet werden. Fischerinnen und Fischer, die über einen Sachkundenachweis (SaNa) gemäss Artikel 5a VBGF verfügen, dürfen lebende Fische kurzfristig hältern; die Fische dürfen durch die Hälterung nicht leiden.
+<sup>2</sup> Zum Verzehr bestimmte Fische müssen unverzüglich getötet werden. Fischerinnen und Fischer, die über einen Sachkundenachweis (SaNa) verfügen, dürfen lebende Fische bis am Ende des Fischereiausflugs hältern; die Fische dürfen durch die Hälterung nicht leiden.
 
-<sup>3</sup> Als kurzfristig gilt grundsätzlich bis am Ende des Fangtags. Ausnahmen können bei Fischen (Karpfen, Rotauge, Schleie) gemacht werden, die vor dem Verzehr in frischem Wasser gehältert werden müssen.
+<sup>3</sup> Gehälterte Fische dürfen nicht wieder ins Wasser ausgesetzt werden.
 
-<sup>4</sup> Gehälterte Fische dürfen nicht wieder ins Wasser ausgesetzt werden.
+<sup>4</sup> Die Bestimmungen der Absätze 2 und 3 dieses Artikels gelten nicht für lebende Köderfische. Diese dürfen durch die Hälterung jedoch nicht leiden.
 
-<sup>5</sup> Die Bestimmungen der Absätze 2–4 dieses Artikels gelten nicht für lebende Köderfische. Diese dürfen durch die Hälterung jedoch nicht leiden.
+<sup>5</sup> Fische müssen gemäss den Anforderungen der eidgenössischen Tierschutzverordnung (Art. 177 ff. TSchV) getötet werden. Die übliche Methode ist die schnellstmögliche Betäubung des Fisches durch einen Schlag auf den Kopf oder Genickbruch und die anschliessende Tötung durch Entbluten (durch Anstechen der Kiemen) oder schnellstmögliches Ausnehmen.
 
-<sup>6</sup> Fische müssen gemäss den Anforderungen der eidgenössischen Tierschutzverordnung vom 23. April 2008 (TSchV) (Art. 177 ff.) getötet werden.
+<sup>6</sup> Die gefangenen Fische dürfen vor dem Ende des Fischereiausflugs nicht so verstümmelt werden, dass ihre Grösse und Anzahl nicht mehr ermittelt werden kann.
 
-<sup>7</sup> Der gemeinsame Gebrauch von tragbaren Behältern (Körbe, Melchtern usw.) zur Aufbewahrung der Fänge auf dem Fangplatz durch zwei oder mehrere Fischerinnen und Fischer ist verboten. Die gemeinsame Verwendung eines Fischkastens ist jedoch für die Fischerei vom Wasserfahrzeug aus gestattet, sofern die Fischerinnen und Fischer vom selben Wasserfahrzeug aus fischen.
+<sup>7</sup> Es ist verboten, Fische, die nicht in Anhang 5 aufgeführt sind, wieder ins Wasser auszusetzen. Bei einem Fang sind diese Fische unverzüglich zu töten und der Wildhüterin-Fischereiaufseherin oder dem Wildhüter-Fischereiaufseher zu melden. Für die folgenden Arten gelten jedoch besondere Regeln:
 
-<sup>8</sup> Die von einem Wasserfahrzeug aus gefangenen Fische dürfen, solange sie sich darauf befinden, nicht so verstümmelt werden, dass ihre Grösse und Anzahl nicht mehr ermittelt werden kann. Dasselbe gilt für vom Ufer aus gefangene Fische. Diese dürfen vor dem Ende des Fischereiausflugs nicht so verstümmelt werden, dass ihre Grösse und Anzahl nicht mehr ermittelt werden kann.
+- a) Hecht: Nur in den Seen sowie im Broyekanal gefangene Fische dürfen wieder ins Wasser ausgesetzt werden;
+- b) Zander: Nur im Greyerzer- und im Schiffenensee gefangene Fische dürfen wieder ins Wasser ausgesetzt werden; es ist im Übrigen nicht erforderlich, den Fang von Zandern der Wildhüterin-Fischereiaufseherin oder dem Wildhüter-Fischereiaufseher zu melden.
 
-#### Art. 35
+#### Art. 34
 
 **Fische, die wieder ins Wasser ausgesetzt werden**
 
-<sup>1</sup> Fische und Krebse, die den Schonbestimmungen nicht entsprechen und von den Fischerinnen und Fischern als nicht mehr lebensfähig beurteilt werden, müssen sofort getötet und wieder ins Wasser ausgesetzt werden. Werden sie als lebensfähig beurteilt, so dürfen sie nicht getötet werden und müssen ebenfalls sofort wieder ins Wasser ausgesetzt werden.
+<sup>1</sup> Fische und Krebse, die während der Schonzeit versehentlich gefangen werden, deren Fang verboten ist oder welche ihr Fangmindestmass nicht erreicht haben, müssen unverzüglich wieder ins Wasser ausgesetzt werden:
+
+- a) Wird der gefangene Fisch als lebensfähig beurteilt, ist er sorgfältig wieder ins Wasser auszusetzen, wenn nicht, ist er vor dem Aussetzen zu erlegen;
+- b) Ist das Entfernen des Angelhakens nicht mehr gut möglich, so ist die Fischerin oder der Fischer verpflichtet, die Angelschnur in der Nähe des Mauls abzuschneiden, bevor der Fisch sorgfältig wieder ins Wasser ausgesetzt wird.
 
 <sup>2</sup> Verletzte Fische dürfen nicht lebend gehältert werden.
 
-<sup>3</sup> Ist das Entfernen des Angelhakens nicht mehr gut möglich, so ist die Fischerin oder der Fischer verpflichtet, die Angelschnur in der Nähe des Mauls abzuschneiden.
+## 11 Strafbestimmungen
 
-- 10\. KAPITEL
+#### Art. 35
 
-### Ausübung der Fischerei
+**Ordnungsbussen**
+
+<sup>1</sup> Verstösse gegen Bestimmungen, die gemäss kantonaler Ordnungsbussengesetzgebung mit Ordnungsbusse bestraft werden, bleiben vorbehalten.
 
 #### Art. 36
 
-**Patent und Kontrollheft**
+**Bei der Fischerei in den Grenzwasserläufen mit dem Kanton Waadt und dem Kanton Bern anwendbares Recht**
 
-<sup>1</sup> Für die Ausübung der Fischerei muss die Inhaberin oder der Inhaber eines Fischereirechts das Patent und das Kontrollheft auf sich tragen. Inhaberinnen und Inhaber eines Wochen- oder Tagespatents, die mit einem Widerhaken oder lebenden Köderfischen fischen, müssen ausserdem ihren Sachkundenachweis (SaNa) auf sich tragen.
+<sup>1</sup> Wer in einem Grenzwasserlauf zwischen den Kantonen Freiburg und Waadt oder Freiburg und Bern fischt, ist den gesetzlichen Vorschriften und Reglementen desjenigen Kantons unterstellt, der ihm das Patent ausgestellt hat.
 
-<sup>2</sup> Die Inhaberin oder der Inhaber des Kontrollhefts ist verpflichtet:
-
-- a) jeden gefangenen Fisch sofort ins Heft einzutragen;
-
-- b) vom ersten Fang an das Datum und den Wasserlauf, in dem sie oder er fischt, einzutragen;
-
-- c) vor Verlassen des Wasserlaufes oder des Sees, in dem die Fische gefangen wurden, die Gesamtzahl pro Fischart einzutragen;
-
-- d) den Fischereiertrag der Minderjährigen, die unter ihrer oder seiner Aufsicht fischen, oder ihres oder seines Gasts ins Heft einzutragen;
-
-- e) dieses Heft auf Verlangen jederzeit den mit der Fischereiaufsicht beauftragten Personen vorzuweisen.
-
-<sup>3</sup> Die Eintragungen müssen unauslöschlich und gemäss den Vorschriften im Kontrollheft ausgeführt werden.
-
-<sup>4</sup> Bei Verlust des Kontrollhefts kann ein Duplikat gegen Bezahlung einer Gebühr von 50 Franken bezogen werden. Das neue Kontrollheft trägt den Aufdruck «Duplikat».
-
-<sup>5</sup> Ist das Kontrollheft voll, so kann die Inhaberin oder der Inhaber beim Amt, welches das Heft ausgestellt hat, gegen Abgabe des alten Kontrollhefts ein neues beziehen. Die Abgabe des neuen Kontrollhefts wird auf dem Heft vermerkt.
+<sup>2</sup> Diese Regelung ist anwendbar, unabhängig davon, von welchem Ufer aus gefischt wird.
 
 #### Art. 37
 
-**Fischereiwettbewerbe**
+**Übermittlung der Strafbefehle und Urteile**
 
-<sup>1</sup> Fischereiwettbewerbe sind verboten, mit Ausnahme von internen Wettbewerben örtlicher Fischervereine. Artikel 29 des Gesetzes vom 15. Mai 1979 über die Fischerei (FischG) bleibt vorbehalten.
+<sup>1</sup> Die zuständige Strafbehörde übermittelt dem Amt eine Kopie des Strafbefehls oder Strafurteils.
 
-<sup>2</sup> Das Amt legt die besonderen Bedingungen für die Durchführung dieser Wettbewerbe fest.
+## 12 Delegation der Rechtsetzung
 
 #### Art. 38
 
-**Identitätsausweis**
-
-Die Inhaberin oder der Inhaber eines Fischereipatents muss bei der Ausübung der Fischerei einen amtlichen Identitätsausweis mit Foto auf sich tragen.
-
-#### Art. 39
-
-**Massstab mit Skala**
-
-Jede Fischerin und jeder Fischer ist verpflichtet, einen Massstab mit einer Skala, der mindestens in Zentimeter unterteilt ist, auf sich zu tragen.
-
-- 11\. KAPITEL
-
-### Ordnungsbussen
-
-#### Art. 40
-
-**Ordnungsbussen (Art. 45b FischG)**
-
-Widerhandlungen gegen die Bestimmungen der Artikel 16–36, 38 und 39 dieses Reglements und gegen die Bestimmungen der Artikel 15 Abs. 2, 24, 27 Abs. 2, 34 und 35 FischG werden mit einer Ordnungsbusse im Sinne von Artikel 45b FischG bestraft.
-
-#### Art. 41
-
-**Pauschalbetrag der Ordnungsbussen**
-
-Die Pauschalbeträge der Ordnungsbussen werden in Anhang 6 aufgeführt.
-
-- 12\. KAPITEL
-
-### Strafurteile
-
-#### Art. 42
-
-**Übermittlung der Strafbefehle und Urteile**
-
-Die zuständige Strafbehörde übermittelt dem Amt eine Kopie des Strafbefehls oder Strafurteils.
-
-- 13\. KAPITEL
-
-### Delegation der Rechtsetzung
-
-#### Art. 43
-
-Erneute Zulassung der Fischerei auf gewissen Abschnitten von Wasserläufen und Seen
+**Erneute Zulassung der Fischerei auf gewissen Abschnitten von Wasserläufen und Seen**
 
 <sup>1</sup> Wenn für die öffentliche Gesundheit keine Gefahr mehr besteht und der Stand der Sanierungsarbeiten der ehemaligen Deponie «La Pila» es erlaubt, kann die Direktion der Institutionen und der Land- und Forstwirtschaft anordnen, dass die Fischerei vom linken Saaneufer aus am Fusse der Deponie La Pila in Hauterive wieder zugelassen wird.
 
@@ -984,440 +691,34 @@ Erneute Zulassung der Fischerei auf gewissen Abschnitten von Wasserläufen und S
 
 <sup>3</sup> Bevor sie die Fischerei wieder zulässt, holt sie die Stellungnahme der Direktion für Gesundheit und Soziales ein.
 
-- 14\. KAPITEL
+## 13 Schlussbestimmungen
 
-### Schlussbestimmungen
-
-#### Art. 44
+#### Art. 39
 
 **Übergangsbestimmungen**
 
-Wer zwischen 2004 und 2008 ein Jahres- oder ein Halbjahrespatent erworben hat, wird im Sinne einer Übergangslösung als Fischerin oder Fischer mit ausreichenden Kenntnissen (SaNa) im Sinne von Artikel 5a VBGF anerkannt.
+<sup>1</sup> Wer zwischen 2004 und 2008 ein Jahres- oder ein Halbjahrespatent erworben hat, wird im Sinne einer Übergangslösung als Fischerin oder Fischer mit ausreichenden Kenntnissen (SaNa) im Sinne von Artikel 5a VBGF anerkannt. Das Ende dieser Übergangsbestimmung ist auf den 31. Dezember 2024 festgelegt.
 
-#### Art. 45
+#### Art. 40
 
-**Belastung mit PCB (Polychlorierten Biphenylen)**
+**Belastung mit PCB (Polychloriertes Biphenylen)**
 
 <sup>1</sup> Die Richtlinien und Empfehlungen der Direktion für Gesundheit und Soziales und der Direktion der Institutionen und der Land- und Forstwirtschaft zur Abgabe von Fischen an Dritte und zum Verzehr von Fischen bleiben für Fische, die in den folgenden Gewässern gefangen wurden, vorbehalten:
 
-- in der Saane vom Schiffenensee flussabwärts,
-
-- in der Saane von der Neiglen-Hängebrücke flussaufwärts bis unterhalb des Absturzes der Schleusen des Stauwehrs der Magerau am linken Ufer und bis zum Tennisplatz der Magerau am rechten Ufer,
-
-- in der Saane von der Pérolles-Brücke bis zum Auffangbecken unter der Staumauer von Rossens,
-
-- in der Glane zwischen dem Stauwehr von Matelec (Sainte-Apolline) und der Brücke der Kantonsstrasse von Romont bei Beauregard flussaufwärts,
-
-- in der Ärgera von ihrer Einmündung in die Saane in Marly bis zum Zusammenfluss mit dem «Ruisseau de Copy» in Marly,
-
-- im Schiffenensee,
-
-- im Pérolles-See.
+- a) untere Ärgera;
+- b) mittlere und untere Glane;
+- c) Saane 0, 1, 2 und 3;
+- d) Pérolles-See;
+- e) Schiffenensee.
 
 <sup>2</sup> Sie werden allen Personen, die ein Patent beziehen, beim Erwerb des Patents abgegeben.
 
 <sup>3</sup> Die Weisungen und Empfehlungen zu gewissen Abschnitten von Wasserläufen oder Seen können in gegenseitigem Einverständnis der Direktion der Institutionen und der Land- und Forstwirtschaft und der Direktion für Gesundheit und Soziales aufgehoben oder geändert werden.
 
-#### Art. 46
+**Genehmigung des Bundes**
 
-**Inkrafttreten**
+–
 
-Dieses Reglement tritt am 1. Januar 2019 in Kraft.
+Die Artikel 20 bis 34 diesem Reglement sind vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) am 20.12.2021 genehmigt worden ([ASF INFO 2021-52](https://bdlf.fr.ch/app/de/change_documents/3570)).
 
-## Genehmigung
-
-Die Artikel 21 bis 35 dieses Reglements sind vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation am 19.12.2018 genehmigt worden.
-
-**ANHANG 1**
-
-### Personen, die in den Kantonen Freiburg oder Waadt wohnen (Art. 6 Abs. 1)
-
-**TAGESPATENT**
-
-**FISCHEREI-PATENT**
-
-### JAHRESPATENT HALBJAHRESPATENT WOCHENPATENT
-
-**Fr. Fr. Fr.**
-
-### Erwachsene Minderjährige Erwachsene Minderjährige Erwachsene Minderjährige Erwachsene Minderjährige Fr. Fr. Fr. Fr. Fr.
-
-**A (Seen und**
-
-**23.– 17.– 8.50**
-
-**Wasserläufe)**
-
-160.– 80.– 80.– 40.– 46.–
-
-**B (Wasserläufe)**
-
-140.– 70.– 70.– 35.–
-
-**C (Seen)**
-
-116.– 58.– 58.– 29.–
-
-**D (Schleppangel)**
-
-**36.– 11.– 11.–**
-
-124.– 124.– 62.– 62.– 36.–
-
-**E (nicht absichtlich getriebenes**
-
-**20.– 6.– 6.–**
-
-**Wasserfahrzeug)**
-
-70.– 70.– 35.– 35.– 20.–
-
-**F (Bibera und**
-
-**6.– 6.–**
-
-**Broyekanal)**
-
-44.– 22.– 22.– 11.–
-
-**G (Gast)**
-
-55.– (Ausgeschlos sen)
-
-**ANHANG 2**
-
-**(Art. 6 Abs. 2 und 4)**
-
-### Personen, die im Kanton Freiburg oder Waadt wohnen und eine AHV-Rente oder eine volle IV-Rente beziehen
-
-**WOCHENPATENT TAGESPATENT**
-
-**FISCHEREI-PATENT**
-
-### JAHRESPATENT HALBJAHRESPATENT
-
-**Erwachsene Erwachsene Erwachsene Fr. Fr. Fr.**
-
-### Erwachsene Fr.
-
-**A (Seen und**
-
-**40.– 23.– 8.50**
-
-**Wasserläufe)**
-
-80.–
-
-**B (Wasserläufe)**
-
-**35.–**
-
-70.–
-
-**C (Seen)**
-
-**29.–**
-
-58.–
-
-**D (Schleppangel)**
-
-**(Ausgeschlossen) (Ausgeschlossen) (Ausgeschlossen)**
-
-(Ausgeschlossen)
-
-**E (nicht absichtlich getriebenes**
-
-**(Ausgeschlossen) (Ausgeschlossen) (Ausgeschlossen)**
-
-**Wasserfahrzeug)**
-
-(Ausgeschlossen)
-
-**F (Bibera und**
-
-**11.– 6.–**
-
-**Broyekanal)**
-
-22.–
-
-**G (Gast)**
-
-55.–
-
-**ANHANG 3**
-
-**(Art. 6 Abs. 3 und 4)**
-
-### Personen, die nicht im Kanton wohnen (mit Ausnahme der Personen, die im Kanton Waadt wohnen)
-
-**TAGESPATENT**
-
-**FISCHEREI-PATENT**
-
-### JAHRESPATENT HALBJAHRESPATENT WOCHENPATENT
-
-**Fr. Fr. Fr.**
-
-### Erwachsene Minderjährige Erwachsene Minderjährige Erwachsene Minderjährige Erwachsene Minderjährige Fr. Fr. Fr. Fr. Fr.
-
-**A (Seen und**
-
-**46.– 34.– 17.–**
-
-**Wasserläufe)**
-
-320.– 160.– 160.– 80.– 92.–
-
-**B (Wasserläufe)**
-
-280.– 140.– 140.– 70.–
-
-**C (Seen)**
-
-232.– 116.– 116.– 58.–
-
-**D (Schleppangel)**
-
-**72.– 22.– 22.–**
-
-248.– 248.– 124.– 124.– 72.–
-
-**E (nicht absichtlich getriebenes**
-
-**40.– 12.– 12.–**
-
-**Wasserfahrzeug)**
-
-140.– 140.– 70.– 70.– 40.–
-
-**F (Bibera und**
-
-**6.– 6.–**
-
-**Broyekanal)**
-
-88.– 44.– 44.– 22.–
-
-**G (Gast)**
-
-110.– (Ausgeschlos sen)
-
-## ANHANG 4
-
-### Wiederbevölkerungstaxe (Art. 8 Abs. 1)
-
-**Wiederbevölkerungstaxe**
-
-### FISCHEREIPATENT Fr.
-
-**40.–**
-
-### Jahrespatente A, B oder C
-
-**20.–**
-
-### Halbjahrespatente A, B oder C
-
-**10.–**
-
-### Wochenpatent A
-
-**10.–**
-
-### Jahrespatent F
-
-**5.–**
-
-### Halbjahrespatent F
-
-## ANHANG 5
-
-### Im Kanton Freiburg heimische Arten von Fischen und Krebsen
-
-[^hImKantonFreiburgh-1]: = vom Aussterben bedroht
-
-### Gebräuchlicher Name deutsch/ Wissenschaftlicher Gefährdungsstatus Name/ lokal lokal Name
-
-[^hImKantonFreiburgh-1]
-
-### Anguillidae
-
-**1**
-
-Anguille Aal Anguilla anguilla
-
-### Cobitidae
-
-**3, E**
-
-Loche de Dorngrundel Cobitis taenia rivière
-
-### Coregonidae
-
-**4, E**
-
-Corégones Felchen Coregonus spp.
-
-### Cottidae
-
-**4**
-
-Chabot Groppe Cottus gobio
-
-### Cyprinidae
-
-**NG 3, E**
-
-Brème Brachsmen Abramis brama Spirlin Schneider Alburnoides bipunctatus Ablette Laube Alburnus alburnus Barbeau Barbe Barbus barbus Brème Blicke Blicca bjoerkna bordelière Nase Nase Chondrostoma nasus Carpe Karpfen Cyprinus carpio Goujon Gründling Gobio gobio Able de Moderlieschen Leucaspius delineatus Stymphale Vandoise Hasel Leuciscus leuciscus Vairon Elritze Phoxinus phoxinus
-
-[^hCyprinidae-1]: = vom Aussterben bedroht
-
-### Gebräuchlicher Name deutsch/ Wissenschaftlicher Gefährdungsstatus Name/ lokal lokal Name
-
-[^hCyprinidae-1]
-
-**2, E NG**
-
-Bouvière Bitterling Rhodeus amarus Gardon, Rotauge Rutilus rutilus Vengeron Rotengle Rotfeder Scardinius erythrophthalmus Chevaine Alet Squalius cephalus Blageon Strömer Telestes souffia Tanche Schleie Tinca tinca
-
-**NG**
-
-**NG 3, E NG**
-
-### Esocidae
-
-**NG**
-
-Brochet Hecht Esox lucius
-
-### Gadidae
-
-**NG**
-
-Lotte Trüsche Lota lota
-
-### Gasterosteidae
-
-**4**
-
-Epinoche Stichling Gasterosteus gymnurus
-
-### Nemacheilidae
-
-**NG 4 4**
-
-**NG**
-
-Loche franche Schmerle, Barbatula barbatula Bartgrundel
-
-### Percidae
-
-**1, E 4 NG 3, E**
-
-**NG**
-
-Grémille Kaulbarsch Gymnocephalus cernua Perche Flussbarsch, Perca fluviatilis Egli
-
-**NG**
-
-### Petromyzontidae
-
-**NG NG**
-
-**2, E**
-
-Petite lamproie Bachneunauge Lampetra planeri
-
-[^hPetromyzontidae-1]: = vom Aussterben bedroht
-
-### Gebräuchlicher Name deutsch/ Wissenschaftlicher Gefährdungsstatus Name/ lokal lokal Name
-
-[^hPetromyzontidae-1]
-
-### Salmonidae
-
-**4**
-
-Truite Bachforelle Salmo trutta atlantique, Truite de rivière Truite Seeforelle Salmo trutta atlantique, Truite lacustre Omble- Seesaibling Salvelinus umbla chevalier Ombre de Äsche Thymallus thymallus rivière
-
-**2**
-
-**3**
-
-**2, E**
-
-### Siluridae
-
-**NG, E**
-
-Silure glâne Wels Silurus glanis
-
-### Astacidae
-
-**3, E**
-
-Ecrevisse Edelkrebs Astacus astacus à pattes rouges Ecrevisse Dohlenkrebs Austropotamobius à pattes pallipes blanches
-
-## ANHANG 6
-
-### Ordnungsbussen (Art. 41)
-
-**Pauschalbetrag**
-
-### Nr. Widerhandlungen
-
-### Fr.
-
-**100.–**
-
-FR 301 Fischen vom Boot aus und bei vereisten Seen (Art. 16 und 17 FischR) FR 302 Fischen an verbotenen Stellen (Art. 18, 19 und 20 FischR) FR 303 Fischen in Schonzeiten (Art. 21 FischR) FR 304 Fischen ausserhalb der erlaubten Zeiten (Art. 22 FischR) FR 305 Fangmasse (Art. 23 FischR) FR 306 Überschreiten der Fangzahl und Übertreten des Fangverbots (Art. 24 FischR) FR 307 Verbotene Fanggeräte, Fischereimethoden
-
-**200.–**
-
-**200.–**
-
-**200.–**
-
-**200.–**
-
-**200.–**
-
-**150.–**
-
-und Köder (Art. 24 FischG / Art. 25–33 FischR)
-
-**2, E**
-
-**100.–**
-
-FR 308 Behandlung der Fische (Art. 34 und 35 FischR) FR 309 Patent und Kontrollheft (Art. 15 Abs. 2, Art. 27 Abs. 2 FischG/ Art. 36 FischR) FR 310 Identitätsausweis (Art. 38 FischR) FR 311 Massstab mit Skala (Art. 39 FischR) FR 312 Verkehr oder Aufenthalt in Regalgewässern (Art. 34 FischG) FR 313 Freies Herumlaufen von Haustieren in Regalgewässern (Art. 35 FischG)
-
-### Änderungstabelle – Nach Beschlussdatum
-
-### Beschluss Berührtes Element Änderungstyp Inkrafttreten Quelle (ASF seit 2002)
-
-13.11.2018 Erlass Grunderlass 01.01.2019 2018\_098 07.12.2018 Art.20 geändert 01.01.2019 2018\_098a 02.04.2019 Art.3 geändert 01.04.2019 2019\_023 02.04.2019 Art.10 geändert 01.04.2019 2019\_023
-
-### Änderungstabelle – Nach Artikel
-
-### Berührtes Element Änderungstyp Beschluss Inkrafttreten Quelle (ASF seit 2002)
-
-**100.–**
-
-**50.–**
-
-**50.–**
-
-**200.–**
-
-**150.–**
-
-Erlass Grunderlass 13.11.2018 01.01.2019 2018\_098 Art.3 geändert 02.04.2019 01.04.2019 2019\_023 Art.10 geändert 02.04.2019 01.04.2019 2019\_023 Art.20 geändert 07.12.2018 01.01.2019 2018\_098a
-
-## Weitere Fussnoten
-
-- [2] = stark gefährdet
-- [3] = gefährdet
-- [4] = potenziell gefährdet NG = nicht gefährdet E = europäisch geschützt nach Berner Konvention. Nach Anhang 1 der Verordnung vom 24. November 1993 zum Bundesgesetz über die Fischerei.
+2021\_152
