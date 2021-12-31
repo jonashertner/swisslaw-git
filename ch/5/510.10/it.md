@@ -4,11 +4,11 @@ title: "Legge federale del 3 febbraio 1995 sull'esercito e sull'amministrazione 
 short: LM
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1995-02-03
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20210101/it"
 
 (Legge militare, LM)
 
-del 3 febbraio 1995 (Stato 1° gennaio 2021)
+del 3 febbraio 1995 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -240,30 +240,31 @@ Nell’ambito del reclutamento delle persone soggette all’obbligo di leva sono
 
 **Competenza e ripartizione dei costi**
 
-<sup>1</sup> I Comuni di domicilio notificano gratuitamente ogni anno alle autorità militari cantonali cognome, nome, indirizzo e numero d’assicurato dell’AVS delle persone soggette all’obbligo di leva secondo il loro registro degli abitanti.[^11-1]
+<sup>1</sup> I Comuni di domicilio notificano gratuitamente ogni anno alle autorità militari cantonali cognome, nome, indirizzo e numero AVS[^11-1] delle persone soggette all’obbligo di leva secondo il loro registro degli abitanti.[^11-2]
 
 <sup>2</sup>
 
 I Cantoni hanno i compiti seguenti:
 
 - a. registrano nel controllo militare le persone soggette all’obbligo di leva;
-- b.[^11-2] organizzano la manifestazione informativa;
-- c.[^11-3] consegnano durante la manifestazione informativa l’attestato di adempimento dell’obbligo di prestare servizio militare.
+- b.[^11-3] organizzano la manifestazione informativa;
+- c.[^11-4] consegnano durante la manifestazione informativa l’attestato di adempimento dell’obbligo di prestare servizio militare.
 - d. collaborano al reclutamento;
-- e.[^11-4] invitano le donne alla manifestazione informativa.
+- e.[^11-5] invitano le donne alla manifestazione informativa.
 
-<sup>2bis</sup> Il Consiglio federale stabilisce gli obiettivi della manifestazione informativa, le informazioni da comunicare e i dati da rilevare. Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS) disciplina i dettagli.[^11-5]
+<sup>2bis</sup> Il Consiglio federale stabilisce gli obiettivi della manifestazione informativa, le informazioni da comunicare e i dati da rilevare. Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS) disciplina i dettagli.[^11-6]
 
 <sup>3</sup> La Confederazione esegue il reclutamento. Assiste i Cantoni nella rilevazione degli Svizzeri all’estero soggetti all’obbligo di leva.
 
-<sup>4</sup> La Confederazione assume i costi del reclutamento. I Cantoni assumono i costi della manifestazione informativa.[^11-6]
+<sup>4</sup> La Confederazione assume i costi del reclutamento. I Cantoni assumono i costi della manifestazione informativa.[^11-7]
 
-[^11-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^11-1]: Nuova espressione giusta l’all. n. 13 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 [^11-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^11-3]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^11-4]: Introdotto dal n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^11-5]: Introdotto dal n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^11-6]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^11-4]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^11-5]: Introdotto dal n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^11-6]: Introdotto dal n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^11-7]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 ### Sezione 2: Servizio militare****
 
@@ -1403,7 +1404,7 @@ Il servizio attivo è prestato per:
 [^77-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 [^77-2]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 [^77-3]: Nuovo testo del per. giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^77-4]: Abrogato dal n. I della LF del 4 ott. 2002, con effetto dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^77-4]: Abrogato dal n. I della LF del 4 ott. 2002, con effetto dal 1° gen. 2004 [RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 #### Art. 78
 

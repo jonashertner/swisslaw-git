@@ -4,11 +4,11 @@ title: "Loi fédérale du 3 février 1995 sur l'armée et l'administration milit
 short: LAAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1995-02-03
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20210101/fr"
 
 (Loi sur l’armée, LAAM)**[^t-1]**
 
-du 3 février 1995 (Etat le 1<sup>er</sup> janvier 2021)
+du 3 février 1995 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
@@ -232,32 +232,33 @@ Le recrutement des conscrits consiste à traiter, au moyen d’examens, de tests
 
 **Compétences, répartition des frais**
 
-<sup>1</sup> Chaque année, les communes annoncent gratuitement aux autorités militaires cantonales le nom, les prénoms, l’adresse et le numéro d’assuré AVS des futurs conscrits qui figurent dans leur registre des habitants.[^11-1]
+<sup>1</sup> Chaque année, les communes annoncent gratuitement aux autorités militaires cantonales le nom, les prénoms, l’adresse et le numéro AVS[^11-1] des futurs conscrits qui figurent dans leur registre des habitants.[^11-2]
 
 <sup>2</sup>
 
 Les tâches suivantes incombent aux cantons:
 
-- a.[^11-2] inscrire les futurs conscrits aux rôles militaires;
-- b.[^11-3] organiser la séance d’information;
-- c.[^11-4] délivrer aux conscrits lors de la séance d’information le document dans lequel l’accomplissement de leurs obligations militaires sera attesté;
+- a.[^11-3] inscrire les futurs conscrits aux rôles militaires;
+- b.[^11-4] organiser la séance d’information;
+- c.[^11-5] délivrer aux conscrits lors de la séance d’information le document dans lequel l’accomplissement de leurs obligations militaires sera attesté;
 - d. ils apportent leur concours lors du recrutement;
-- e.[^11-5] ils invitent les femmes à la séance d’information.
+- e.[^11-6] ils invitent les femmes à la séance d’information.
 
-<sup>2bis</sup> Le Conseil fédéral fixe les objectifs de la séance d’information, les informations à transmettre et les données à recueillir. Le Département fédéral de la défense, de la protection de la population et des sports (DDPS) règle les modalités.[^11-6]
+<sup>2bis</sup> Le Conseil fédéral fixe les objectifs de la séance d’information, les informations à transmettre et les données à recueillir. Le Département fédéral de la défense, de la protection de la population et des sports (DDPS) règle les modalités.[^11-7]
 
-<sup>3</sup> La Confédération organise le recrutement. Elle assiste les cantons pour ce qui est des Suisses de l’étranger astreints à l’obligation de servir dans l’armée[^11-7].
+<sup>3</sup> La Confédération organise le recrutement. Elle assiste les cantons pour ce qui est des Suisses de l’étranger astreints à l’obligation de servir dans l’armée[^11-8].
 
-<sup>4</sup> Les frais du recrutement sont à la charge de la Confédération. Les cantons prennent à leur charge les frais de la séance d’information.[^11-8]
+<sup>4</sup> Les frais du recrutement sont à la charge de la Confédération. Les cantons prennent à leur charge les frais de la séance d’information.[^11-9]
 
-[^11-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^11-1]: Nouvelle expression selon l’annexe ch. 13 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 [^11-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^11-3]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^11-4]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^11-5]: Introduite par le ch. I de la LF du 4 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^11-6]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^11-7]: Nouvelle expression selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Il a été tenu compte de cette mod. aux disp. mentionnées dans le [RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714).
-[^11-8]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^11-5]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^11-6]: Introduite par le ch. I de la LF du 4 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^11-7]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^11-8]: Nouvelle expression selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Il a été tenu compte de cette mod. aux disp. mentionnées dans le [RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714).
+[^11-9]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 ### Section 2**** Service militaire
 

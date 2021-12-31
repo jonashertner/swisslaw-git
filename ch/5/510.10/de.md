@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 3. Februar 1995 über die Armee und die Militärverwalt
 short: MG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1995-02-03
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20210101/de"
 
 (Militärgesetz, MG)
 
-vom 3. Februar 1995 (Stand am 1. Januar 2021)
+vom 3. Februar 1995 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -240,30 +240,31 @@ Bei der Rekrutierung der Stellungspflichtigen werden mittels Untersuchungen, Tes
 
 **Zuständigkeit und Aufteilung der Kosten**
 
-<sup>1</sup> Die Einwohnergemeinden melden den kantonalen Militärbehörden jährlich und unentgeltlich Namen, Vornamen, Wohnadresse und AHV-Versichertennummer der Stellungspflichtigen nach ihrem Einwohnerregister.[^11-1]
+<sup>1</sup> Die Einwohnergemeinden melden den kantonalen Militärbehörden jährlich und unentgeltlich Namen, Vornamen, Wohnadresse und AHV-Nummer[^11-1] der Stellungspflichtigen nach ihrem Einwohnerregister.[^11-2]
 
 <sup>2</sup>
 
 Die Kantone haben folgende Aufgaben:
 
 - a. Sie nehmen die Stellungspflichtigen in die Militärkontrolle auf.
-- b.[^11-2] Sie führen die Orientierungsveranstaltung durch.
-- c.[^11-3] Sie geben an der Orientierungsveranstaltung den Ausweis über die Erfüllung der Militärdienstpflicht ab.
+- b.[^11-3] Sie führen die Orientierungsveranstaltung durch.
+- c.[^11-4] Sie geben an der Orientierungsveranstaltung den Ausweis über die Erfüllung der Militärdienstpflicht ab.
 - d. Sie wirken bei der Rekrutierung mit.
-- e.[^11-4] Sie laden die Frauen zur Orientierungsveranstaltung ein.
+- e.[^11-5] Sie laden die Frauen zur Orientierungsveranstaltung ein.
 
-<sup>2bis</sup> Der Bundesrat legt die Ziele der Orientierungsveranstaltung, die zu vermittelnden Informationen und die zu erhebenden Daten fest. Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) regelt die Einzelheiten.[^11-5]
+<sup>2bis</sup> Der Bundesrat legt die Ziele der Orientierungsveranstaltung, die zu vermittelnden Informationen und die zu erhebenden Daten fest. Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) regelt die Einzelheiten.[^11-6]
 
 <sup>3</sup> Der Bund führt die Rekrutierung durch. Er unterstützt die Kantone bei der Erfassung der stellungspflichtigen Auslandschweizer.
 
-<sup>4</sup> Der Bund trägt die Kosten für die Rekrutierung. Die Kantone tragen die Kosten für die Orientierungsveranstaltung.[^11-6]
+<sup>4</sup> Der Bund trägt die Kosten für die Rekrutierung. Die Kantone tragen die Kosten für die Orientierungsveranstaltung.[^11-7]
 
-[^11-1]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^11-1]: Ausdruck gemäss Anhang Ziff. 13 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 [^11-2]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^11-3]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^11-4]: Eingefügt durch Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^11-5]: Eingefügt durch Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^11-6]: Fassung gemäss Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^11-4]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^11-5]: Eingefügt durch Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^11-6]: Eingefügt durch Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^11-7]: Fassung gemäss Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 ### 2. Abschnitt: Militärdienst****
 
@@ -2695,7 +2696,7 @@ Anhang
 
 [^annexu1-lvlu1-lvl7-1]
 
-[^annexu1-lvlu1-lvl7-1]: [BS **5** 3; [AS 1948 425](https://fedlex.data.admin.ch/eli/oc/1948/425_417_365), [1949 1491](https://fedlex.data.admin.ch/eli/oc/1949/1491_1595_1525)Art. 1–3, 5 Bst. a–d, **1952** 331 338 Art. 2, **1959** 2035 Art. 48 Abs. 2 Bst. d, **1961** 231, **1968** 73 Ziff. I, III, **1970** 43, **1972** 897 Art. 15 Ziff. 3, **1975** 11, **1979** 114 Art. 72 Bst. e, **1984** 1324, **1990** 1882, **1991** 857 Anhang Ziff. 10 1412, **1992** 288 Anhang Ziff. 20 2521 Art. 55 Ziff. 3 2392 Ziff. I 2, **1993** 901 Anhang Ziff. 5 3043 Anhang Ziff. 2, **1994** 1622 Art. 22 Abs. 2]
+[^annexu1-lvlu1-lvl7-1]: [BS **5** 3; [AS 1948 425](https://fedlex.data.admin.ch/eli/oc/1948/425_417_365); [1949 1491](https://fedlex.data.admin.ch/eli/oc/1949/1491_1595_1525)Art. 1–3, 5 Bst. a–d; **1952** 331 338 Art. 2; **1959** 2035 Art. 48 Abs. 2 Bst. d; **1961** 231; **1968** 73 Ziff. I, III; **1970** 43; **1972** 897 Art. 15 Ziff. 3; **1975** 11; **1979** 114 Art. 72 Bst. e; **1984** 1324; **1990** 1882; **1991** 857 Anhang Ziff. 10 1412; **1992** 288 Anhang Ziff. 20, 2521 Art. 55 Ziff. 3, 2392 Ziff. I 2; **1993** 901 Anhang Ziff. 5, 3043 Anhang Ziff. 2; **1994** 1622 Art. 22 Abs. 2]
 
 Aufgehoben
 
@@ -2733,7 +2734,7 @@ Aufgehoben
 
 [^annexu1-lvlu1-lvl12-1]
 
-[^annexu1-lvlu1-lvl12-1]: [[AS 1961 1151](https://fedlex.data.admin.ch/eli/oc/1961/1151_1173_1198), [1986 696](https://fedlex.data.admin.ch/eli/oc/1986/696_696_696), [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)Anhang Ziff. 6]
+[^annexu1-lvlu1-lvl12-1]: [[AS 1961 1151](https://fedlex.data.admin.ch/eli/oc/1961/1151_1173_1198); [1986 696](https://fedlex.data.admin.ch/eli/oc/1986/696_696_696); [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)Anhang Ziff. 6]
 
 Aufgehoben
 
