@@ -4,11 +4,11 @@ title: Verordnung vom 11. Februar 2004 über den militärischen Strassenverkehr 
 short: VMSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/108"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2004-02-11
 in_force: 2004-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/108/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2004-108-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/108/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/108/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2004-108-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/108/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/108/20210101/de"
 
 (VMSV)
 
-vom 11. Februar 2004 (Stand am 1. Januar 2021)
+vom 11. Februar 2004 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -84,7 +84,7 @@ Es gelten folgende Definitionen:
 - a.[^4-1] Militärfahrzeuge sind Fahrzeuge, die für die Armee gekauft, gemietet, geleast, geliehen oder requiriert werden;
 - b. Fahrzeugführer oder Fahrzeugführerin ist, wer im Besitz einer militärischen Fahrberechtigung ist.
 - c. Militärdienst ist der besoldete Truppendienst.
-- d.[^4-2] ...
+- d.[^4-2] …
 - e. Werkinterner Verkehr ist der Fahrverkehr auf militärischen Arealen oder auf öffentlichen Strassen zwischen benachbarten Teilen der militärischen Areale.
 - f. Militärische Areale sind Immobilien oder Gelände, die als solche gekennzeichnet sind oder mit baulichen Massnahmen (Schranken, Zäune etc.) abgesperrt oder absperrbar sind.
 - g. Verkehrsmassnahmen sind Verkehrsbeschränkungen, Anordnungen zur Regulierung oder Sicherung des Verkehrs und weitere Vorkehrungen, die sich auf den Verkehr auswirken.
@@ -272,39 +272,40 @@ Militärisches Personal sowie Fachlehrer und Fachlehrerinnen, die in ihrer beruf
 Keine militärische Fahrberechtigung benötigen:
 
 - a. militärisches Personal, wenn es im Militärdienst oder während seiner ausserdienstlichen militärischen Tätigkeit Militärfahrzeuge mit einem zivilen Führerausweis der entsprechenden Ausweiskategorie führt;
-- b. aktive Angehörige der Polizei, der Feuerwehr, der Sanität und der Zollverwaltung, wenn sie während ihrer ausserdienstlichen militärischen Tätigkeit Militärfahrzeuge mit einem zivilen Führerausweis der entsprechenden Ausweiskategorie führen;
-- c.[^18-2] Angehörige der Armee, wenn sie im Militärdienst ihr ziviles Fahrzeug mit einer Bewilligung nach Artikel 106 VVA[^18-3] dienstlich verwenden;
-- d.[^18-4] in Flugplatz- oder Logistikformationen eingeteiltes ziviles Personal der Gruppe Verteidigung, wenn es im Militärdienst die gleichen Fahrzeugtypen wie in seiner beruflichen Tätigkeit mit einem zivilen Führerausweis der entsprechenden Ausweiskategorie führt;
-- e.[^18-5]
+- b. aktive Angehörige der Polizei, der Feuerwehr, der Sanität und des Bundesamts für Zoll und Grenzsicherheit[^18-2], wenn sie während ihrer ausserdienstlichen militärischen Tätigkeit Militärfahrzeuge mit einem zivilen Führerausweis der entsprechenden Ausweiskategorie führen;
+- c.[^18-3] Angehörige der Armee, wenn sie im Militärdienst ihr ziviles Fahrzeug mit einer Bewilligung nach Artikel 106 VVA[^18-4] dienstlich verwenden;
+- d.[^18-5] in Flugplatz- oder Logistikformationen eingeteiltes ziviles Personal der Gruppe Verteidigung, wenn es im Militärdienst die gleichen Fahrzeugtypen wie in seiner beruflichen Tätigkeit mit einem zivilen Führerausweis der entsprechenden Ausweiskategorie führt;
+- e.[^18-6]
 
   aktives und ehemaliges ziviles Personal der Gruppe Verteidigung sowieehemaliges militärisches Personal, wenn:
 
   - 1\. es anlässlich einer medizinischen Beurteilung seiner Militärdiensttauglichkeit nicht den Tauglichkeitsentscheid «Militärdiensttauglich, kein Führen von militärischen Motorfahrzeugen» erhalten hat,
   - 2\. ihm die militärische Fahrberechtigung nicht nach Artikel 38 entzogen wurde,
-  - 3\. es nach Artikel 8 VATV[^18-6] berechtigt ist, an freiwilligen ausserdienstlichen Tätigkeiten teilzunehmen,
+  - 3\. es nach Artikel 8 VATV[^18-7] berechtigt ist, an freiwilligen ausserdienstlichen Tätigkeiten teilzunehmen,
   - 4\. es während der freiwilligen ausserdienstlichen Tätigkeit Militärfahrzeuge mit einem zivilen Führerausweis der entsprechenden Ausweiskategorie führt, und
   - 5\. es nachweislich eine Einführung durch den durchführenden militärischen Verein auf den zu führenden Militärfahrzeugen gemäss den Vorgaben des LVb Log erhalten hat.
 
-<sup>4</sup> Wer Militärfahrzeuge mit einem Ausweis nach Absatz 1, 2 oder 3 Buchstabe a, b oder c führt, ist auch dann zum Personen- und Sachtransport berechtigt, wenn der zivile Führerausweis diese Berechtigung nicht umfasst.[^18-7]
+<sup>4</sup> Wer Militärfahrzeuge mit einem Ausweis nach Absatz 1, 2 oder 3 Buchstabe a, b oder c führt, ist auch dann zum Personen- und Sachtransport berechtigt, wenn der zivile Führerausweis diese Berechtigung nicht umfasst.[^18-8]
 
 <sup>5</sup>
 
 Wer als ziviles Personal der Gruppe Verteidigung während eines militärischen Einsatzes nach Artikel 65*c* MG den gleichen Fahrzeugtyp wie in seiner beruflichen Tätigkeit führt, benötigt:
 
 - a. einen zivilen Führerausweis der entsprechenden Ausweiskategorie; oder
-- b. einen zivilen Führerausweis mit der entsprechenden militärischen Fahrberechtigung.[^18-8]
+- b. einen zivilen Führerausweis mit der entsprechenden militärischen Fahrberechtigung.[^18-9]
 
-<sup>6</sup> Das zivile Personal der Gruppe Verteidigung ist während eines militärischen Einsatzes nach Artikel 65*c* MG zu Personen- und Sachtransporten berechtigt, wenn der zivile Führerausweis diese Berechtigung umfasst.[^18-9]
+<sup>6</sup> Das zivile Personal der Gruppe Verteidigung ist während eines militärischen Einsatzes nach Artikel 65*c* MG zu Personen- und Sachtransporten berechtigt, wenn der zivile Führerausweis diese Berechtigung umfasst.[^18-10]
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 14. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1801](https://fedlex.data.admin.ch/eli/oc/2013/407)).
-[^18-2]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016 ([AS 2016 4423](https://fedlex.data.admin.ch/eli/oc/2016/728)). Fassung gemäss Ziff. I der V vom 13. Febr. 2019, in Kraft seit 15. März 2019 ([AS 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
-[^18-3]: [SR 510.301](https://fedlex.data.admin.ch/eli/cc/2018/161)
-[^18-4]: Eingefügt durch Ziff. I der V vom 13. Febr. 2019, in Kraft seit 15. März 2019 ([AS 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
-[^18-5]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6015](https://fedlex.data.admin.ch/eli/oc/2020/1005)).
-[^18-6]: [SR 512.30](https://fedlex.data.admin.ch/eli/cc/2003/683)
-[^18-7]: Fassung gemäss Ziff. I der V vom 13. Febr. 2019, in Kraft seit 15. März 2019 ([AS 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
-[^18-8]: Eingefügt durch Ziff. I der V vom 13. Febr. 2019, in Kraft seit 15. März 2019 ([AS 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
+[^18-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^18-3]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016 ([AS 2016 4423](https://fedlex.data.admin.ch/eli/oc/2016/728)). Fassung gemäss Ziff. I der V vom 13. Febr. 2019, in Kraft seit 15. März 2019 ([AS 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
+[^18-4]: [SR 510.301](https://fedlex.data.admin.ch/eli/cc/2018/161)
+[^18-5]: Eingefügt durch Ziff. I der V vom 13. Febr. 2019, in Kraft seit 15. März 2019 ([AS 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
+[^18-6]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6015](https://fedlex.data.admin.ch/eli/oc/2020/1005)).
+[^18-7]: [SR 512.30](https://fedlex.data.admin.ch/eli/cc/2003/683)
+[^18-8]: Fassung gemäss Ziff. I der V vom 13. Febr. 2019, in Kraft seit 15. März 2019 ([AS 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
 [^18-9]: Eingefügt durch Ziff. I der V vom 13. Febr. 2019, in Kraft seit 15. März 2019 ([AS 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
+[^18-10]: Eingefügt durch Ziff. I der V vom 13. Febr. 2019, in Kraft seit 15. März 2019 ([AS 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
 
 #### Art. 19
 
@@ -453,13 +454,14 @@ Der LVb Log trägt die Aus- und Weiterbildungsverantwortung für das im Bereich 
 
 <sup>1bis</sup> Das SVSAA ist Aufsichtsbehörde für die ausschliesslich in der Armee und der Gruppe Verteidigung eingesetzten Fahrlehrer und Fahrlehrerinnen. Es regelt die Berufsausübung und Weiterbildung.[^27-2]
 
-<sup>1ter</sup> Die für die Anstellung der Fahrlehrer und Fahrlehrerinnen zuständigen Stellen der Gruppe Verteidigung melden dem SVSAA die zur Erfüllung seiner Kontrollaufgaben erforderlichen Daten über die Fahrlehrer und Fahrlehrerinnen, namentlich Name, Vorname, Adresse, AHV-Versichertennummer, Beschäftigungsgrad und Arbeitsort.[^27-3]
+<sup>1ter</sup> Die für die Anstellung der Fahrlehrer und Fahrlehrerinnen zuständigen Stellen der Gruppe Verteidigung melden dem SVSAA die zur Erfüllung seiner Kontrollaufgaben erforderlichen Daten über die Fahrlehrer und Fahrlehrerinnen, namentlich Name, Vorname, Adresse, AHV-Nummer[^27-3], Beschäftigungsgrad und Arbeitsort.[^27-4]
 
 <sup>2</sup> Die für die Fahrausbildung eingesetzten Begleiter oder Begleiterinnen müssen die militärische Fahrberechtigung oder den zivilen Führerausweis der entsprechenden Kategorie besitzen und eine entsprechende Ausbildung absolviert haben.
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 12. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5653](https://fedlex.data.admin.ch/eli/oc/2008/787)).
 [^27-2]: Eingefügt durch Ziff. I der V vom 12. Nov. 2008 ([AS 2008 5653](https://fedlex.data.admin.ch/eli/oc/2008/787)). Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6015](https://fedlex.data.admin.ch/eli/oc/2020/1005)).
-[^27-3]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6015](https://fedlex.data.admin.ch/eli/oc/2020/1005)).
+[^27-3]: Ausdruck gemäss Anhang Ziff. II 17 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^27-4]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6015](https://fedlex.data.admin.ch/eli/oc/2020/1005)).
 
 #### Art. 28
 
@@ -735,7 +737,7 @@ In Militärfahrzeugen dürfen keine Zivilpersonen mitgeführt werden. Ausgenomme
 - d. aus anderen dienstlichen oder militärischen Gründen mitfahren müssen;
 - e. in Notfällen oder zur Hilfeleistung mitgeführt werden.[^47-3]
 
-<sup>3</sup> ...[^47-4]
+<sup>3</sup> …[^47-4]
 
 [^47-1]: Fassung gemäss Ziff. II der V vom 13. Jan. 2016, in Kraft seit 15. Febr. 2016 ([AS 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
 [^47-2]: [SR 513.74](https://fedlex.data.admin.ch/eli/cc/2013/568)
@@ -771,11 +773,11 @@ Die private Verwendung ziviler Fahrzeuge im Militärdienst ist nur zum Einrücke
 
 <sup>3</sup> Mitfahrende dürfen nicht durch mitgeführte Gegenstände oder Stoffe gefährdet werden.
 
-<sup>4</sup> ...[^50-2]
+<sup>4</sup> …[^50-2]
 
 <sup>5</sup> Das Mitführen von Personen auf dem Oberbau gepanzerter Rad- und Raupenfahrzeuge ist verboten. Auf den übrigen Ausnahme- und Arbeitsfahrzeugen dürfen sich Mitfahrende nötigenfalls während der Fahrt ausserhalb der Führerkabine aufhalten. Sie müssen sich genügend festhalten können.
 
-<sup>6</sup> ...[^50-3]
+<sup>6</sup> …[^50-3]
 
 <sup>7</sup> Angehörige der Armee dürfen zum Abrollen und Einziehen von Feuerwehrschläuchen auf dem Fahrzeug auch stehend mitfahren, sofern sie sich festhalten können und nicht schneller als 30 km/h gefahren wird.
 
@@ -834,7 +836,7 @@ Fahrten mit gepanzerten Radfahrzeugen und militärischen Ausnahmefahrzeugen sowi
 - a. eine Länge von 30 m;
 - b. ein Ladungsüberhang von 3 m nach vorn, gemessen von der Mitte der Lenkvorrichtung, oder 5 m nach hinten, gemessen ab Mitte der Hinterachse oder ab dem Drehpunkt der Hinterachsen;
 - c. eine Breite von 3 m;
-- d. ...[^54-2]
+- d. …[^54-2]
 - e. eine Höhe von 4 m;
 - f.[^54-3] ein Betriebsgewicht von 44 t;
 - g.[^54-4] eine Achsbelastung von 12 t bei Einzelachsen, von 20 t bei Doppelachsen und von 30 t bei Dreifachachsen.
@@ -1027,7 +1029,7 @@ Wer ein Motorfahrzeug im Militärdienst führt, muss eine Einsatzzeitkontrolle �
 
 <sup>1</sup> Das SVSAA kann die zulässige Geschwindigkeit für einzelne Fahrzeugtypen und Fahrzeugkombinationen beschränken. Es trägt die Beschränkung im Fahrzeugausweis als Auflage ein.
 
-<sup>2</sup> ...[^65-2]
+<sup>2</sup> …[^65-2]
 
 <sup>3</sup> Auf Autostrassen und Autobahnen können Raupenfahrzeuge unter Berücksichtigung der Strassen-, Verkehrs- und Sichtverhältnisse mit der betrieblichen Höchstgeschwindigkeit gefahren werden.
 
@@ -1319,7 +1321,7 @@ Die Verordnung vom 17. August 1994[^89-1] über den militärischen Strassenverke
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^90-1]
+…[^90-1]
 
 [^90-1]: Die Änderungen können unter [AS 2004 945](https://fedlex.data.admin.ch/eli/oc/2004/108)konsultiert werden.
 
@@ -1329,7 +1331,7 @@ Die nachstehenden Verordnungen werden wie folgt geändert:
 
 <sup>1</sup> Der militärische eosinrote Führerausweis behält seine Gültigkeit.
 
-<sup>2–4</sup> ...[^91-1]
+<sup>2–4</sup> …[^91-1]
 
 <sup>5</sup> Vor dem 1. Januar 1995 im Verkehr gesetzte Militäranhänger werden nicht mit einem Unterlegkeil ausgerüstet.
 
@@ -1347,7 +1349,7 @@ Die nachstehenden Verordnungen werden wie folgt geändert:
 
 <sup>2</sup> Militärfahrzeuge, die vor dem 1. Januar 2000 in Verkehr gesetzt wurden, benötigen für Gefahrguttransporte im Stückgutverkehr keine Zulassungsbescheinigung gemäss ADR[^91a-2].
 
-<sup>3</sup> ...[^91a-3]
+<sup>3</sup> …[^91a-3]
 
 <sup>4</sup> Personenwagen 8 Plätze PUCH/MBG sowie Militärfahrzeuge der Klasse N2, die vor dem 1. März 2006 in Verkehr gesetzt wurden und mit quer zur Fahrtrichtung angeordneten Sitzbänken ausgerüstet sind, müssen nicht mit Beckengurten nachgerüstet werden.
 
@@ -1785,7 +1787,469 @@ Anhang 2*[^t-2]*
 
 [^t-2]: Fassung gemäss Ziff. II Abs. 2 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6015](https://fedlex.data.admin.ch/eli/oc/2020/1005)).
 
-Klasse 1 – Explosive Stoffe und Gegenstände mit Explosivstoff
+## Klasse 1 – Explosive Stoffe und Gegenstände mit Explosivstoff
+
+Zeichenerklärung:
+
+<table>
+<tr><td>[F0EA] Beförderung gemäss den Bestimmungen des Sicherungsorgans und in Abhängigkeit von der aktuellen Gefährdungslage.</td></tr>
+<tr><td>**[F058]** Bahntransport verboten</td></tr>
+</table>
+
+<table>
+<tr><th colspan="6">Gefahrgutdaten</th><th colspan="3">Freigrenzenberechnung</th><th>Tunnel</th><th>Wasserschutz</th></tr>
+<tr><th>ALN</th><th>UN-Nr.</th><th>Name und Beschreibung</th><th>Klasse</th><th>Klassifizierungscode</th><th>Gefahrzettel</th><th>Freigrenze bei Alleingut (kg)</th><th>Multiplikator</th><th>NEM pro Schuss oder Stück in kg</th><th>Tunnelbeschränkungscode</th><th colspan="2">Fahrverbot bei geschützten Gewässern</th></tr>
+<tr><th>(1)</th><th>(2)</th><th>(3)</th><th>(4)</th><th>(5)</th><th>(6)</th><th>(7)</th><th>(8)</th><th>(9)</th><th>(10)</th><th colspan="2">(11)</th></tr>
+<tr><td>590-0440</td><td>0012</td><td>5,6MM MATCH TRAININGS PAT</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0016</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>590-0501</td><td>0012</td><td>6MM BR NORMA</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>590-0509</td><td>0012</td><td>7,5MM MATCH TRAINING 11,3G</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0033</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>590-0655</td><td>0012</td><td>7,65MM PARA FMJ</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0003</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>590-0760</td><td>0012</td><td>10,4X33MM GW PAT ZU G 150</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0033</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>590-0853</td><td>0475</td><td>SORT MIL SPRST</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>7.3404</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>590-0854</td><td>0475</td><td>SORT ZIV SPRST</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>10.6200</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>590-0856</td><td>0475</td><td>SORT SPUERHUNDE, ZIV SPRST IN KISTE</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>3.6500</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>590-0863</td><td>0414</td><td>12CM MW TEIL LADG ENTS</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>35.0000</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>590-0927</td><td>0303</td><td>TGW 73 NB G</td><td>1</td><td>1.4G</td><td>1.4 + 8</td><td>333</td><td>3</td><td>0.1300</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>590-0948</td><td>0006</td><td>12CM WG 68 MVZ 68 LADG 0-6 LAW ABSCH</td><td>1</td><td>1.1E</td><td>1</td><td>20</td><td>50</td><td>3.7200</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-0235</td><td>0408</td><td>AMZ M9327A1 (8,1CM MW WG 94 AMZ LADG 0-6)</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>0.0085</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-1050</td><td>0012</td><td>5,6MM GW PAT 90</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0016</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1051</td><td>0012</td><td>5,6MM GW PAT 90 (GEGURTET)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0016</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1055</td><td>0012</td><td>5,6MM GW LSP PAT 90</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0019</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1065</td><td>0012</td><td>5,6MM GW PAT 90 U LSP PAT 90 (3:1)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0016</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1070</td><td>0012</td><td>5,6MM GW PAT 19 EXP</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0017</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1100</td><td>0012</td><td>7,5MM GP 11</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0033</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1108</td><td>0012</td><td>7,5MM LSP PAT 11</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0038</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1120</td><td>0012</td><td>7.62MM GW PAT 12</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0029</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1125</td><td>0012</td><td>7,62MM HK PAT 12</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0029</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1235</td><td>0012</td><td>8,6MM GW PAT 04</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0057</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1236</td><td>0012</td><td>8,6MM GW PAT 05 HK</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0058</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1237</td><td>0012</td><td>8,6MM GW PAT 06 TC</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0058</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1240</td><td>0012</td><td>9MM PIST PAT 41</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1241</td><td>0012</td><td>9MM PIST PAT 14</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1242</td><td>0012</td><td>9MM PIST PAT S</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1243</td><td>0012</td><td>9MM PIST PAT HK</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0005</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1244</td><td>0012</td><td>9MM PIST PAT A 4</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0005</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1255</td><td>0012</td><td>MZ GW 91 FLINTENLAUF PAT</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0023</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1275</td><td>0009</td><td>12,7MM MG 64 PZ SPR PAT 92</td><td>1</td><td>1.2G</td><td>1</td><td>20</td><td>50</td><td>0.0180</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-1276</td><td>0300</td><td>12,7MM MG 64 PZ SPR PAT 93 LSP</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0260</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1280</td><td>0300</td><td>12,7MM MG 64 PZ SPR PAT 92 + PZ SPR PAT</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0260</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1430</td><td>0339</td><td>20MM FLZ KANN 92 MZWK PAT</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0400</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1450</td><td>0012</td><td>MZGW 91 SCHROT PAT 04</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0021</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1451</td><td>0301</td><td>MZGW 91 RS PAT LANG</td><td>1</td><td>1.4G</td><td>1.4 + 6.1 + 8</td><td>333</td><td>3</td><td>0.0010</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1452</td><td>0301</td><td>MZGW 91 RS PAT KURZ</td><td>1</td><td>1.4G</td><td>1.4 + 6.1 + 8</td><td>333</td><td>3</td><td>0.0015</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1453</td><td>0012</td><td>MZGW 91 TUEROE PAT</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0013</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1500</td><td>0328</td><td>30MM SPZ KAN 00 PFEIL PAT LSP</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>0.1860</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-1505</td><td>0328</td><td>30MM SPZ KAN 00 MZWK PAT LSP</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>0.1820</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-1545</td><td>0321</td><td>35MM FLAB KAN 63/90 MI BR PAT 93 BOZ</td><td>1</td><td>1.2E</td><td>1</td><td>20</td><td>50</td><td>0.4450</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-1546</td><td>0321</td><td>35MM FLAB KAN 63/90 MI BR PAT 93 MZ LSP</td><td>1</td><td>1.2E</td><td>1</td><td>20</td><td>50</td><td>0.4450</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-1555</td><td>0049</td><td>40MM GW BS PAT 08</td><td>1</td><td>1.1G</td><td>1</td><td>20</td><td>50</td><td>0.0033</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-1560</td><td>0321</td><td>40MM GW SPLI PAT 97 MZ</td><td>1</td><td>1.2E</td><td>1</td><td>20</td><td>50</td><td>0.0411</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-1561</td><td>0301</td><td>40MM MZW 10 RS PAT</td><td>1</td><td>1.4G</td><td>1.4 + 6.1 + 8</td><td>333</td><td>3</td><td>0.0660</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1563</td><td>0339</td><td>40MM MZW 10 E PAT M</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1564</td><td>0312</td><td>40MM MZW 10 SIG PAT</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0160</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1565</td><td>0012</td><td>40MM MZW 10 GS PAT</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0005</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1566</td><td>0006</td><td>40MM GW SPR PAT 15</td><td>1</td><td>1.1E</td><td>1</td><td>20</td><td>50</td><td>0.0563</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-1567</td><td>0012</td><td>40MM GW RS PAT 15</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0100</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-1570</td><td>0171</td><td>6CM W BEL G 87 ZZ</td><td>1</td><td>1.2G</td><td>1</td><td>20</td><td>50</td><td>0.2528</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-1823</td><td>0321</td><td>8,1CM MW WG 66 + MVZ 55</td><td>1</td><td>1.2E</td><td>1</td><td>20</td><td>50</td><td>0.5640</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-1831</td><td>0171</td><td>8,1CM MW BEL G 73 ZZ LADG 0-6</td><td>1</td><td>1.2G</td><td>1</td><td>20</td><td>50</td><td>0.7260</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-1837</td><td>0015</td><td>8,1CM MW NB WG 68 LADG 0-6</td><td>1</td><td>1.2G</td><td>1</td><td>20</td><td>50</td><td>2.1200</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-1842</td><td>0321</td><td>8,1CM MW WG 94 AMZ LADG 0-6</td><td>1</td><td>1.2E</td><td>1</td><td>20</td><td>50</td><td>0.8760</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-1844</td><td>0321</td><td>8,1CM MW WG 12 MVZ LADG 0-6</td><td>1</td><td>1.2E</td><td>1</td><td>20</td><td>50</td><td>0.8760</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-2252</td><td>0171</td><td>12CM MW BEL G 74 ZZ LADG 0-7</td><td>1</td><td>1.2G</td><td>1</td><td>20</td><td>50</td><td>2.6070</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-2256</td><td>0321</td><td>12CM MW WG 88 AMZ LADG 0-7</td><td>1</td><td>1.2E</td><td>1</td><td>20</td><td>50</td><td>3.8200</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-2258</td><td>0321</td><td>12CM MW WG 93 MVZ LADG 0-7</td><td>1</td><td>1.2E</td><td>1</td><td>20</td><td>50</td><td>3.8250</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-2260</td><td>0006</td><td>12CM MW INT G 96 STRIX [F0EA]**[F058]**</td><td>1</td><td>1.1E</td><td>1</td><td>20</td><td>50</td><td>2.5000</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-2261</td><td>0279</td><td>12CM MW LADG TRG 96 STRIX</td><td>1</td><td>1.1C</td><td>1</td><td>20</td><td>50</td><td>0.6500</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-2262</td><td>0281</td><td>12CM MW ZU ANTR 96 STRIX</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>0.9230</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-2272</td><td>0328</td><td>12CM PZ KAN PFEIL PAT 98 LSP</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>9.5770</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-2500</td><td>0168</td><td>15,5CM HB 66 ST G OZ</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>6.7400</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-2501</td><td>0171</td><td>15,5CM HB 66 BEL G OZ</td><td>1</td><td>1.2G</td><td>1</td><td>20</td><td>50</td><td>2.8930</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-2505</td><td>0320</td><td>15,5CM HB 66 ZUE PAT</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-2509</td><td>0242</td><td>15,5CM HB 66 U 74 LADG 3-7</td><td>1</td><td>1.3C</td><td>1</td><td>20</td><td>50</td><td>5.6000</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>591-2510</td><td>0414</td><td>15,5CM HB CONT LADG 3-7 GRUNDMODUL</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>3.3500</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-2511</td><td>0414</td><td>15,5CM HB CONT LADG 3-7 MODULE</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>1.3500</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-2512</td><td>0409</td><td>MVZ 67</td><td>1</td><td>1.2D</td><td>1</td><td>20</td><td>50</td><td>0.0200</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-2513</td><td>0409</td><td>MZZ 68</td><td>1</td><td>1.2D</td><td>1</td><td>20</td><td>50</td><td>0.0150</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-2518</td><td>0410</td><td>MZZ 88</td><td>1</td><td>1.4D</td><td>1.4</td><td>333</td><td>3</td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-2529</td><td>0414</td><td>15,5CM HB66 U 74 LADG 3-4</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>2.1000</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-2531</td><td>0414</td><td>15,5CM KAN LADG 10</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>14.0000</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-2535</td><td>0414</td><td>15,5CM KAN CONT LADG 7-9</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>11.7000</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-2545</td><td>0168</td><td>15,5CM KANN INT G 01 SMART</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>4.4850</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-2550</td><td>0409</td><td>AMZ 91</td><td>1</td><td>1.2D</td><td>1</td><td>20</td><td>50</td><td>0.0200</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-3151</td><td>0181</td><td>PZF HL PAT 95</td><td>1</td><td>1.1E</td><td>1</td><td>20</td><td>50</td><td>1.6420</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-3160</td><td>0321</td><td>RGW 90 HH PAT 16 SMW</td><td>1</td><td>1.2E</td><td>1</td><td>20</td><td>50</td><td>0.88750</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-3170</td><td>0181</td><td>M72 MK2 PAT 16SMW</td><td>1</td><td>1.1E</td><td>1</td><td>20</td><td>50</td><td>0.4510</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-3210</td><td>0182</td><td>FLAB LWF BL 84 RAPIER [F0EA]**[F058]**</td><td>1</td><td>1.2E</td><td>1</td><td>20</td><td>50</td><td>17.5700</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-3211</td><td>0182</td><td>FLAB LWF BL 01 RAPIER [F0EA]**[F058]**</td><td>1</td><td>1.2E</td><td>1</td><td>20</td><td>50</td><td>19.2720</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-3220</td><td>0181</td><td>L FLAB LWF BL 94 STINGER [F0EA]**[F058]**</td><td>1</td><td>1.1E</td><td>1</td><td>20</td><td>50</td><td>4.9800</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-3235</td><td>inert</td><td>FLZ LWF LL 63 STABIFL</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>591-3240</td><td>0181</td><td>FLZ LWF LL 63/91 GEBRAUCHSBEREIT [F0EA]**[F058]**</td><td>1</td><td>1.1E</td><td>1</td><td>20</td><td>50</td><td>24.7200</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-3241</td><td>0276</td><td>FLZ LWF LL 63/91 STEKO [F0EA]**[F058]**</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.3500</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-3242</td><td>0286</td><td>FLZ LWF LL 63/80 SPRK</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>4.7500</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-3243</td><td>0409</td><td>FLZ LWF LL 63/80 AZ 63/93 [F0EA]**[F058]**</td><td>1</td><td>1.2D</td><td>1</td><td>20</td><td>50</td><td>0.0360</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-3244</td><td>0281</td><td>FLZ LWF LL 63/80 RAK ANTR [F0EA]**[F058]**</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>19.8000</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-3245</td><td>inert</td><td>FLZ LWF LL 63/80 STABIFL</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>591-3246</td><td>inert</td><td>FLZ LWF LL 63/90 STEUERFL</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>591-3250</td><td>0182</td><td>FLZ LWF LL 97 AMRAAM [F0EA]**[F058]**</td><td>1</td><td>1.2E</td><td>1</td><td>20</td><td>50</td><td>54.3000</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-3252</td><td>0182</td><td>FLZ LWF LL AMRAAM 120C-7 [F0EA]**[F058]**</td><td>1</td><td>1.2E</td><td>1</td><td>20</td><td>50</td><td>61.3508</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-3255</td><td>0181</td><td>LWF LL AIM-9X [F0EA]**[F058]**</td><td>1</td><td>1.1E</td><td>1</td><td>20</td><td>50</td><td>30.8000</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-3303</td><td>0182</td><td>TOW HL LWF 96 PIP [F0EA]**[F058]**</td><td>1</td><td>1.2E</td><td>1</td><td>20</td><td>50</td><td>6.9500</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-3310</td><td>0182</td><td>NLAW PAT 16 SMW</td><td>1</td><td>1.2E</td><td>1</td><td>20</td><td>50</td><td>1.7300</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-3470</td><td>0285</td><td>HG 85</td><td>1</td><td>1.2D</td><td>1</td><td>20</td><td>50</td><td>0.1668</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-3800</td><td>0137</td><td>RI LADG 96 L KOMPL</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>1.5000</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-3810</td><td>0137</td><td>RI LADG 96 SCH KOMPL</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>9.6000</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-3825</td><td>0463</td><td>TRI SPR LADG 88 KOMPL</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>41.0000</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4010</td><td>0048</td><td>200G SPR PAT, 3 ZUE LOECHER</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>0.2030</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4020</td><td>0084</td><td>1KG SPR PAT, PLASTIT</td><td>1</td><td>1.1D</td><td>1</td><td>50</td><td>20</td><td>1.0000</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4030</td><td>0084</td><td>100G BOHR-PAT, PLASTIT</td><td>1</td><td>1.1D</td><td>1</td><td>50</td><td>20</td><td>0.1000</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4091</td><td>0059</td><td>5KG V-LADG 66</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>5.8500</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4093</td><td>0059</td><td>10KG V-LADG 66</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>11.3000</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4095</td><td>0059</td><td>20KG V-LADG 66</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>22.4000</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4098</td><td>0048</td><td>SPR ROHR</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>3.3200</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4160</td><td>0048</td><td>SPRK 75</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>0.5250</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4181</td><td>0048</td><td>SPRST SORT (AUSB)</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>13.120</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4200</td><td>0463</td><td>KMB SORT 95</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>0.8900</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4201</td><td>0059</td><td>33MM KMB LADG 95</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>0.0570</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4202</td><td>0059</td><td>67MM KMB LADG 95</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>0.4450</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4204</td><td>0441</td><td>20MM KMB LADG 99</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0115</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4210</td><td>0467</td><td>KMB SORT 99 (UW SPRENG)</td><td>1</td><td>1.2D</td><td>1</td><td>20</td><td>50</td><td>0.0580</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4212</td><td>0500</td><td>ZUE SCHLAUCH 100M + SV (UW SPRENG)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0010</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4213</td><td>0500</td><td>ZUE SCHLAUCH 10M ZUE KAP TRG (UW SPRENG)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0010</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4214</td><td>0361</td><td>ZUE SCHLAUCH SORT (UW SRPENG)</td><td>1</td><td>1.4B</td><td>1.4</td><td>333</td><td>3</td><td>0.0100</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4405</td><td>0283</td><td>DETO 82</td><td>1</td><td>1.2D</td><td>1</td><td>20</td><td>50</td><td>0.0012</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4409</td><td>0255</td><td>ELEKTRON SPR KAP 16 ESK3, 3M</td><td>1</td><td>1.4B</td><td>1.4</td><td>333</td><td>3</td><td>0.0024</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4410</td><td>0029</td><td>SPR KAP 8</td><td>1</td><td>1.1B</td><td>1</td><td>20</td><td>50</td><td>0.0016</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4411</td><td>0255</td><td>ELEKTRON SPR KAP 16 ESK3, 20M</td><td>1</td><td>1.4B</td><td>1.4</td><td>333</td><td>3</td><td>0.0024</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4412</td><td>0255</td><td>EL ANZUENDPILLE</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0006</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4415</td><td>0361</td><td>ZUE VOR 90 (SPR ROHR)</td><td>1</td><td>1.4B</td><td>1.4</td><td>333</td><td>3</td><td>0.0021</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4435</td><td>0350</td><td>ZUE SORT (PYRO)</td><td>1</td><td>1.4B</td><td>1.4</td><td>333</td><td>3</td><td>0.5410</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4437</td><td>0255</td><td>ZUE SORT B (EL HU)</td><td>1</td><td>1.4B</td><td>1.4</td><td>333</td><td>3</td><td>0.2100</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4441</td><td>0361</td><td>SCHL Z SYST PZ SAP SORT E</td><td>1</td><td>1.4B</td><td>1.4</td><td>333</td><td>3</td><td>0.0509</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4442</td><td>0361</td><td>SCHL Z SYST G/RTTG SORT C</td><td>1</td><td>1.4B</td><td>1.4</td><td>333</td><td>3</td><td>0.1504</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4443</td><td>0361</td><td>SCHL Z SYST G/RTTG SORT D</td><td>1</td><td>1.4B</td><td>1.4</td><td>333</td><td>3</td><td>0.0213</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4444</td><td>0065</td><td>SPR SCHNUR 74</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>0.0120/m</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4445</td><td>0065</td><td>SPR SCHNUR 96, 5G</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>0.0050/m</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4446</td><td>0361</td><td>ZZUE SCHNUR, 150,3M, KONFEKT SPR KAP 8</td><td>1</td><td>1.4B</td><td>1.4</td><td>333</td><td>3</td><td>0.0185</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4447</td><td>0361</td><td>ZZUE SCHNUR,150,2M, KONFEKT SPRKAP 8+SZ83</td><td>1</td><td>1.4B</td><td>1.4</td><td>333</td><td>3</td><td>0.0135</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4448</td><td>0500</td><td>STARTER SL 0, 15M</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4450</td><td>0255</td><td>ESPR KAP 66 HU, 0/30</td><td>1</td><td>1.4B</td><td>1.4</td><td>333</td><td>3</td><td>0.0007</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4453</td><td>0255</td><td>ESPR KAP 66 HU, 3/30</td><td>1</td><td>1.4B</td><td>1.4</td><td>333</td><td>3</td><td>0.0007</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4456</td><td>0255</td><td>ESPR KAP 66 HU, 6/30</td><td>1</td><td>1.4B</td><td>1.4</td><td>333</td><td>3</td><td>0.0007</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4459</td><td>0255</td><td>ESPR KAP 66 HU, 9/30</td><td>1</td><td>1.4B</td><td>1.4</td><td>333</td><td>3</td><td>0.0007</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4462</td><td>0255</td><td>ESPR KAP 66 HU, 12/30</td><td>1</td><td>1.4B</td><td>1.4</td><td>333</td><td>3</td><td>0.0007</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4464</td><td>0500</td><td>ZUE SCHLAUCH 65M + MECH SV 09</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4467</td><td>0500</td><td>ZUE SCHLAUCH 5M + MECH SV 09</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4468</td><td>0500</td><td>ZUE SCHLAUCH 20M + MECH SV 09</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4469</td><td>0500</td><td>ZUE SCHLAUCH 10M + MECH SV 09</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4476</td><td>0255</td><td>ZUE SORT B (AUSB)</td><td>1</td><td>1.4B</td><td>1.4</td><td>333</td><td>3</td><td>0.1500</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4500</td><td>inert</td><td>ZUE SCHLAUCH, 750M</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>591-4510</td><td>0500</td><td>ZUE SCHLAUCH 15M + KZUE 15</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4511</td><td>0257</td><td>ZUE SCHLAUCH 30M + SZUE 15</td><td>1</td><td>1.4B</td><td>1.4</td><td>333</td><td>3</td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4512</td><td>0257</td><td>ZUE SCHLAUCH 30M DOPPELT + KZUE 15</td><td>1</td><td>1.4B</td><td>1.4</td><td>333</td><td>3</td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4513</td><td>0500</td><td>ZUE SCHLAUCH 100M + SZUE 15</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4651</td><td>0048</td><td>REAKT SCHUTZ ELE 15,5CM FEST KAN 93</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>0.3520</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4652</td><td>0048</td><td>REAKT SCHUTZ ELE R OBEN 15,5CM FEST KAN</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>0.5900</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4653</td><td>0048</td><td>REAKT SCHUTZ ELE L OBEN 15,5CM FEST KAN</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>0.5900</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4670</td><td>0475</td><td>BLT SPRST C2, ROLLE 9 KG</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>9.0000</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4671</td><td>0475</td><td>BLT SPRST C2, STREIFEN 20 MM</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>0.7690</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4672</td><td>0475</td><td>BLT SPRST C3, STREIFEN 20 MM</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>0.8200</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4673</td><td>0475</td><td>BLT SPRST C5, ROLLE 9 KG</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>9.0000</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4680</td><td>0288</td><td>SCHNEID LDG 13, 125 G/M</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>0.1275</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4681</td><td>0288</td><td>SCHNEID LDG 13, 250 G/M</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>0.2550</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4682</td><td>0288</td><td>SCHNEID LDG 13, 500 G/M</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>0.5100</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4683</td><td>0288</td><td>SCHNEID LDG 13, 1150 G/M</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>1.1500</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4684</td><td>0042</td><td>ZUE VERST 20 G</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>0.0200</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4686</td><td>0288</td><td>SCHNEID LADG 20, 10MM</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>0.0700</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4687</td><td>0288</td><td>SCHNEID LADG 20, 15MM</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>0.1550</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4688</td><td>0288</td><td>SCHNEID LADG 20, 25M</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>0.4300</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4689</td><td>0288</td><td>SCHNEID LADG 20, 40MM</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>1.1000</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>591-4690</td><td>inert</td><td>K-SCHNEIDER 16</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>591-4710</td><td>1950</td><td>RSG 2000</td><td>2</td><td colspan="8">siehe UN 1950 DRUCKGASPACKUNGEN, entzündbar, 2.1</td></tr>
+<tr><td>591-4800</td><td>0500</td><td>KZ MS STUFE 03 75MS, 6M</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0009</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4801</td><td>0500</td><td>KZ MS STUFE 04 100MS, 6M</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0009</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4802</td><td>0500</td><td>KZ MS STUFE 05 125MS, 6M</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0009</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4803</td><td>0500</td><td>KZ MS STUFE 06 150MS, 6M</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0009</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4819</td><td>0500</td><td>VZ 0MS, 7,8M</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>591-4822</td><td>0500</td><td>VZ 25MS, 4,8M</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>592-5052</td><td>0012</td><td>5,6MM RFPAT</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0001</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>592-5053</td><td>0012</td><td>5,6MM FARB PAT ROT STGW 90</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0001</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>592-5054</td><td>0012</td><td>5,6MM FARB PAT BLAU STGW 90</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0001</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>592-5055</td><td>0012</td><td>5,6MM FARB PAT ROT LMG 05</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0001</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>592-5056</td><td>0012</td><td>5,6MM FARB PAT BLAU LMG 05</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0001</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>592-5080</td><td>0012</td><td>7,5MM UPAT 92 LSP (PZF EI-LAUF)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0005</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>592-5090</td><td>0012</td><td>7,62MM UPAT 16 LSP (EI LAUF RGW 90)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0010</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>592-5120</td><td>0012</td><td>9MM FARB PAT ROT PIST</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0001</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>592-5121</td><td>0012</td><td>9MM FARB PAT BLAU PIST</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0001</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>592-5143</td><td>0339</td><td>12,7MM MG 64 UPAT 04 + UPAT 05 LSP (3:1)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0157</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>592-5144</td><td>0339</td><td>12,7MM MG 64 UPAT 04 (GEGURTET)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0150</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>592-5155</td><td>0339</td><td>12,7MM MG 64 UPAT 05 LSP (GEGURTET)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0170</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>592-5165</td><td>0012</td><td>MZGW 91 U RS PAT LANG</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0012</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>592-5166</td><td>0012</td><td>MZGW 91 U RS PAT KURZ</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0013</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>592-5198</td><td>0339</td><td>20MM FLZ KAN 92 UPAT 97</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0380</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>592-5200</td><td>0183</td><td>21MM UPAT 16 LSP (EI LAUF SYST M72 MK2)</td><td>1</td><td>1.3C</td><td>1</td><td>20</td><td>50</td><td>0.0215</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>592-5220</td><td>0328</td><td>27MM UPAT 90 LSP (PZ KAN EI LAEUFE)</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>0.1620</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>592-5221</td><td>0328</td><td>30MM SPZ KAN 00 UPAT LSP</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>0.1820</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>592-5270</td><td>0328</td><td>35MM FLAB KAN 63 UG O LSP</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>0.3400</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>592-5272</td><td>0328</td><td>35MM FLAB KAN 63 UG LSP</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>0.3540</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>592-5281</td><td>0012</td><td>40MM GW UPAT 08</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0005</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>592-5282</td><td>0197</td><td>40MM MZW 10 U RS PAT</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0690</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>592-5355</td><td>0303</td><td>7,6CM UNB PAT 97 EL ZUE</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0895</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>592-5363</td><td>0321</td><td>8,1CM MW EUG 66 + MVZ 55</td><td>1</td><td>1.2E</td><td>1</td><td>20</td><td>50</td><td>0.0197</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>592-5365</td><td>0321</td><td>8,1CM MW EUG 91 MVZ LADG 0-6</td><td>1</td><td>1.2E</td><td>1</td><td>20</td><td>50</td><td>0.1983</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>592-5366</td><td>0321</td><td>8,1CM MW EUG 04 MVZ LADG 0-6</td><td>1</td><td>1.2E</td><td>1</td><td>20</td><td>50</td><td>0.1983</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>592-5367</td><td>0321</td><td>8,1CM MW EUG 12 MVZ LADG 0-6</td><td>1</td><td>1.2E</td><td>1</td><td>20</td><td>50</td><td>0.1870</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>592-5368</td><td>0321</td><td>8,1CM MW EUG 16 MVZ LADG 0-6</td><td>1</td><td>1.2E</td><td>1</td><td>20</td><td>50</td><td>0.2020</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>592-5459</td><td>0321</td><td>12CM MW EUG 93 MVZ LADG 0-7</td><td>1</td><td>1.2E</td><td>1</td><td>20</td><td>50</td><td>1.2350</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>592-5460</td><td>0328</td><td>12CM PZ KAN UHL PAT 87 LSP</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>6.2160</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>592-5463</td><td>0328</td><td>12CM PZ KAN UPFEIL PAT 10 LSP</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>6.3420</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>592-5485</td><td>0169</td><td>15,5CM HB 74 EUG OZ</td><td>1</td><td>1.2D</td><td>1</td><td>20</td><td>50</td><td>0.5230</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>592-5489</td><td>0414</td><td>15,5CM HB ULADG 2 / L47</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>1.2000</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>592-5551</td><td>0502</td><td>PZF UPAT 95</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>0.2560</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>592-5630</td><td>0281</td><td>TOW U LWF [F0EA]**[F058]**</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>3.7400</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>592-5656</td><td>0285</td><td>EUHG 11</td><td>1</td><td>1.2D</td><td>1</td><td>20</td><td>50</td><td>0.0830</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>592-5870</td><td>0255</td><td>ELEKTRON SPR KAP 18 ESK3, UEB</td><td>1</td><td>1.4B</td><td>1.4</td><td>333</td><td>3</td><td>0.0001</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6021</td><td>0014</td><td>PLATZ PAT 6MM</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0001</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6062</td><td>0054</td><td>40MM GW BEL PAT 15 (WL)</td><td>1</td><td>1.3G</td><td>1</td><td>20</td><td>50</td><td>0.0690</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>593-6063</td><td>0054</td><td>40MM GW BEL PAT 15 (IR)</td><td>1</td><td>1.3G</td><td>1</td><td>20</td><td>50</td><td>0.0634</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>593-6067</td><td>0016</td><td>7,6CM NB PAT 95 EL ZUE</td><td>1</td><td>1.3G</td><td>1 + 8</td><td>20</td><td>50</td><td>0.3050</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>593-6152</td><td>0238</td><td>LEINENW AUSR 90, 250M (4 PACK)</td><td>1</td><td>1.2G</td><td>1</td><td>20</td><td>50</td><td>0.4000</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>593-6153</td><td>0238</td><td>LEINENW AUSR 90, 400M (4 PACK)</td><td>1</td><td>1.2G</td><td>1</td><td>20</td><td>50</td><td>0.9840</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>593-6155</td><td>0238</td><td>PACK LEINENW RAK 90, LEINE 250M</td><td>1</td><td>1.2G</td><td>1</td><td>20</td><td>50</td><td>0.1000</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>593-6156</td><td>0238</td><td>PACK LEINENW RAK 90, LEINE 400M</td><td>1</td><td>1.2G</td><td>1</td><td>20</td><td>50</td><td>0.2460</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>593-6404</td><td>0430</td><td>BR PLATTE RSZ</td><td>1</td><td>1.3G</td><td>1</td><td>20</td><td>50</td><td>0.2200</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>593-6405</td><td>0430</td><td>BR BLATT</td><td>1</td><td>1.3G</td><td>1</td><td>20</td><td>50</td><td>0.0200</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>593-6406</td><td>0131</td><td>SPEZ RSZ 78</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6413</td><td>0131</td><td>SZ 83</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6414</td><td>0105</td><td>ZZUE SCHNUR, 150</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0051/m</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6420</td><td>inert</td><td>MECH ZUENDPISTOLE 10</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>593-6421</td><td>inert</td><td>EL ZUENDMASCHINE 10</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>593-6435</td><td>0325</td><td>PYRO ZUE 74</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0229</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6440</td><td>0323</td><td>12,7MM EL IMPULS KART (EOD GT)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0105</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6470</td><td>0054</td><td>15MM PYRO-KPAT</td><td>1</td><td>1.3G</td><td>1</td><td>20</td><td>50</td><td>0.0039</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>593-6471</td><td>0312</td><td>15MM PYRO-PFPAT</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0035</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6540</td><td>0312</td><td>26,5MM RAKP 78 SIG PAT ROT</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0207</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6542</td><td>0312</td><td>26,5MM RAKP 78 SIG PAT GRUEN</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0210</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6544</td><td>0312</td><td>26,5MM RAKP 78 SIG PAT ROT (PISTENWART)</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0510</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6548</td><td>0054</td><td>26,5MM RAKP 78 LE PAT GELB (FSCH, 300M)</td><td>1</td><td>1.3G</td><td>1</td><td>20</td><td>50</td><td>0.0400</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>593-6550</td><td>0312</td><td>26,5MM RAKP 78 LE PAT GELB</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0215</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6553</td><td>0312</td><td>SIG PAT 04</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0379</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6555</td><td>0431</td><td>SIG RAK ROT FSCH (HAND)</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0610</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6557</td><td>0191</td><td>SIG FACKEL ROT NACHT (HAND)</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0730</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6558</td><td>0191</td><td>SIG FACKEL TAG/NACHT (HAND)</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0900</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6559</td><td>0323</td><td>AUTOMATISCHE AUSLOESUNG FLU-8B/P, 0,11KG</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6560</td><td>0191</td><td>SIG RAK ROT FSCH (HAND)</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0920</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6610</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 03)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6611</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 07)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0010</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6612</td><td>0367</td><td>F/A18 C SMDC (DODIC MH 32)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0003</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6613</td><td>0367</td><td>F/A18 C SMDC (DODIC MH 33)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0005</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6614</td><td>0367</td><td>F/A18 C SMDC (DODIC MH 34)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6615</td><td>0367</td><td>F/A18 C SMDC (DODIC MH 35)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6616</td><td>0367</td><td>F/A18 C SMDC (DODIC MH 36)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0003</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6617</td><td>0367</td><td>F/A18 C SMDC (DODIC MH 37)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0006</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6618</td><td>0367</td><td>F/A18 C SMDC (DODIC MH 38)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0005</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6619</td><td>0367</td><td>F/A18 C SMDC (DODIC MH 39)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6620</td><td>0367</td><td>F/A18 C SMDC (DODIC MH 41)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6621</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 23)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6622</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 24)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6623</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 25)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6624</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 26)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6625</td><td>0367</td><td>F/A18 C SMDC (DODIC MH 42)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0006</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6626</td><td>0367</td><td>F/A18 D SMDC (DODIC MG 83)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6627</td><td>0367</td><td>F/A18 D SMDC (DODIC MG 84)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6628</td><td>0367</td><td>F/A18 D SMDC (DODIC MG 85)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0001</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6629</td><td>0367</td><td>F/A18 D SMDC (DODIC MG 87)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6630</td><td>0367</td><td>F/A18 D SMDC (DODIC MG 92)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6631</td><td>0367</td><td>F/A18 D SMDC (DODIC MG 93)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6632</td><td>0367</td><td>F/A18 D SMDC (DODIC MG 94)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0001</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6633</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 71)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6634</td><td>0367</td><td>F/A18 D SMDC (DODIC MG 95)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0005</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6635</td><td>0367</td><td>F/A18 D SMDC (DODIC MG 98)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6636</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 04)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0005</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6637</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 08)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6638</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 10)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6639</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 11)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6640</td><td>0367</td><td>F/A18 D SMDC (DODIC MG 96)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0003</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6641</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 30)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0006</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6642</td><td>0367</td><td>F/A18 D SMDC (DODIC MG 97)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6643</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 12)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6644</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 13)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0003</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6645</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 14)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0003</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6646</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 15)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0005</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6647</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 19)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0006</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6648</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 20)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0008</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6649</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 22)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6650</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 28)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6651</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 21)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0003</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6652</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 06)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0010</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6653</td><td>0367</td><td>F/A18 D SMDC (DODIC MH 29)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6654</td><td>0367</td><td>F/A18 D SMDC (DODIC MS 71)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0006</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6655</td><td>0367</td><td>F/A18 C/D SMDC (DODIC MS 73)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0007</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6657</td><td>0367</td><td>F/A18 D SMDC (DODIC MU 50)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0005</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6658</td><td>0367</td><td>F/A18 D SMDC (DODIC MU 51)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0006</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6659</td><td>0367</td><td>F/A18 D SMDC (DODIC MU 55)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6660</td><td>0367</td><td>F/A18 D SMDC (DODIC MU 52)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6661</td><td>0367</td><td>F/A18 D SMDC (DODIC MU 53)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0007</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6662</td><td>0367</td><td>F/A18 D SMDC (DODIC MU 54)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0006</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6663</td><td>0367</td><td>F/A18 D SMDC (DODIC MU 56)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0003</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6664</td><td>0367</td><td>F/A18 D SMDC (DODIC MU 57)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0003</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6665</td><td>0367</td><td>F/A18 C SMDC (DODIC MU 59)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6666</td><td>0367</td><td>F/A18 D SMDC (DODIC MU 68)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0003</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6667</td><td>0367</td><td>F/A18 D SMDC (DODIC MU 70)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0003</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6668</td><td>0367</td><td>F/A18 D SMDC (DODIC MU 71)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0003</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6669</td><td>0367</td><td>F/A18 D SMDC (DODIC MU 72)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0003</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6670</td><td>0367</td><td>F/A18 D SMDC (DODIC MU 61)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0006</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6671</td><td>0367</td><td>F/A18 D SMDC (DODIC MU 62)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0003</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6672</td><td>0367</td><td>F/A18 D SMDC (DODIC MU 63)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6673</td><td>0367</td><td>F/A18 D SMDC (DODIC MU 64)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0006</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6674</td><td>0367</td><td>F/A18 D SMDC (DODIC MU 65)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0005</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6675</td><td>0367</td><td>F/A18 D SMDC (DODIC MU 66)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6676</td><td>0367</td><td>F/A18 D SMDC (DODIC MU 67)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6708</td><td>0431</td><td>IRRITATIONSKOERPER 2 KNALL</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0050</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6709</td><td>0431</td><td>IRRITATIONSKOERPER 9 KNALL</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0100</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6710</td><td>0431</td><td>IRRITATIONSKOERPER, 1 KNALL 14</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0080</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6711</td><td>0431</td><td>IRRITATIONSKOERPER 6 KNALL 20</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0110</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6716</td><td>0301</td><td>TGW 73 CS G</td><td>1</td><td>1.4G</td><td>1.4 + 6.1 + 8</td><td>333</td><td>3</td><td>0.1300</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6721</td><td>0301</td><td>TRAENENGAS-VK, 1 G CS</td><td>1</td><td>1.4G</td><td>1.4 + 6.1 + 8</td><td>333</td><td>3</td><td>0.0045</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6726</td><td>0368</td><td>KZUE 05 Z CS G U NB G</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0019</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6728</td><td>0431</td><td>CS HG 20</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.1220</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6741</td><td>0303</td><td>NBK 09</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.1160</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6742</td><td>0303</td><td>2KG NBK</td><td>1</td><td>1.4G</td><td>1.4 + 8</td><td>333</td><td>3</td><td>1.9300</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6750</td><td>0303</td><td>NB HG 06 (SPIRCO)</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.2130</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6755</td><td>0431</td><td>BK HG 20</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0118</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6760</td><td>0507</td><td>RK 12 GELB</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0500</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6761</td><td>0507</td><td>RK 12 GRUEN</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0590</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6762</td><td>0507</td><td>RK 12 ROT</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0550</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6801</td><td>0276</td><td>F/A18 C/D INIT JAU-27/A (DODIC MF 72)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6802</td><td>0276</td><td>F/A18 C/D INIT JAU-25/A (DODIC XW 52)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6803</td><td>0173</td><td>F/A18 C/D CART ACT INIT (DODIC MJ 98))</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0001</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6806</td><td>0276</td><td>F/A18 C CART CCU-71/A (DODIC XW 57)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0026</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6807</td><td>0276</td><td>F/A18 D CART CCU-72/A (DODIC XW 58)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0028</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6808</td><td>0410</td><td>F/A18 D EXPL SEQ DCU-241/A (DODIC XW 53)</td><td>1</td><td>1.4D</td><td>1.4</td><td>333</td><td>3</td><td>0.0007</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6809</td><td>0276</td><td>F/A18 D EXPL INIT JAU-24/A (DODIC XW 55)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0003</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6810</td><td>0276</td><td>F/A18 D EXPL INIT JAU-23/A (DODIC XW 54)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0003</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6811</td><td>0367</td><td>F/A18 C DET CORD RAU-2/A (DODIC SN 97)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6812</td><td>0367</td><td>F/A18 D DET CORD RAU-2/A (DODIC SN 98)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0005</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6818</td><td>0323</td><td>F/A18 C/D FIRE EXT CART (DODIC JL 43)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6819</td><td>0323</td><td>F/A18 C/D FIRE EXT CART (DODIC JL 44)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6820</td><td>0186</td><td>F/A18 C/D ROCK MK109 MOD 1 (DODIC SS 67)</td><td>1</td><td>1.3C</td><td>1</td><td>20</td><td>50</td><td>0.4536</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>593-6824</td><td>0367</td><td>F/A18 C/D FIRE EXT CART (DODIC JL 42)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6831</td><td>0276</td><td>F/A18 C/D CART CCU-99/A (DODIC MT 97)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0034</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6832</td><td>0276</td><td>F/A18 C/D CART CCU-118/A (DODIC MT 13)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0062</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6833</td><td>0276</td><td>F/A18 C/D CART CCU-105/A (DODIC MT 91)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0077</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6835</td><td>0276</td><td>F/A18 C/D CART CCU-102/A (DODIC MT 98)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0081</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6836</td><td>0276</td><td>F/A18 C/D CART CCU-101/A (DODIC MT 89)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0248</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6837</td><td>0276</td><td>F/A18 C/D CART CCU-100/A (DODIC MT 88)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0728</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6839</td><td>0276</td><td>F/A18 C/D INIT 0.3 SEC DEL (DODIC MC 50)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0022</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6840</td><td>0276</td><td>F/A18 C/D INIT JAU-56/A (DODIC MT 07)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0415</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6841</td><td>0276</td><td>F/A18 D INIT JAU-66/A (DODIC MT 16)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0068</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6843</td><td>inert</td><td>F/A18 C/D BATT MXU-792A/A (DODIC CWDR)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>593-6844</td><td>0186</td><td>F/A18 C/D ROCK MK124 MOD 0 (DODIC MT 31)</td><td>1</td><td>1.3C</td><td>1</td><td>20</td><td>50</td><td>3.0969</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>593-6845</td><td>0186</td><td>F/A18 C/D ROCK MK122 MOD 0 (DODIC MT 29)</td><td>1</td><td>1.3C</td><td>1</td><td>20</td><td>50</td><td>0.2110</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>593-6846</td><td>0186</td><td>F/A18 D ROCK MK123 MOD 0 (DODIC MT 30)</td><td>1</td><td>1.3C</td><td>1</td><td>20</td><td>50</td><td>3.0969</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>593-6848</td><td>0276</td><td>F/A18 C/D T DELAY JAU-76/A (DODIC WB 55)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6849</td><td>0276</td><td>F/A18 D T DELAY JAU-77/A (DODIC WB 56)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6851</td><td>0367</td><td>F/A18 C/D CART CCU-132/A (DODIC SR 94)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6852</td><td>0173</td><td>F/A18 C/D INIT CCU-133/A (DODIC SQ 03)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6853</td><td>0367</td><td>F/A18 C/D DET CORD RAU-2/A (DODIC SP 14)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6854</td><td>0367</td><td>F/A18 C/D DET CORD RAU-2/A (DODIC SP 12)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6855</td><td>0367</td><td>F/A18 C/D DET CORD RAU-2/A (DODIC SP 11)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6856</td><td>0367</td><td>F/A18 C/D DET CORD RAU-2/A (DODIC SP 07)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6857</td><td>0367</td><td>F/A18 C/D DET CORD RAU-2/A (DODIC SP 10)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6858</td><td>0367</td><td>F/A18 C/D DET CORD RAU-2/A (DODIC SP 08)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6859</td><td>0367</td><td>F/A18 C/D DET CORD RAU-2/A (DODIC SP 17)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6860</td><td>0367</td><td>F/A18 C/D DET CORD RAU-2/A (DODIC SP 16)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6861</td><td>0367</td><td>F/A18 C/D DET CORD RAU-2/A (DODIC SP 15)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6862</td><td>0367</td><td>F/A18 C DET CORD RAU-2/A (DODIC SP 18)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6863</td><td>0367</td><td>F/A18 C DET CORD RAU-2/A (DODIC SP 06)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6864</td><td>0367</td><td>F/A18 C DET CORD RAU-2/A (DODIC SP 19)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6865</td><td>0367</td><td>F/A18 C DET CORD RAU-2/A (DODIC SP 09)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6866</td><td>0367</td><td>F/A18 C DET CORD RAU-2/A (DODIC SP 05)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6867</td><td>0367</td><td>F/A18 C DET CORD RAU-2/A (DODIC SP 04)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6869</td><td>0237</td><td>F/A18 C/D CUTTER BBU-57/A (DODIC SR 95)</td><td>1</td><td>1.4D</td><td>1.4</td><td>333</td><td>3</td><td>0.0159</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6870</td><td>0173</td><td>F/A18 C/D CUTTER BBU-58/A (DODIC SQ 04)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6885</td><td>0276</td><td>F/A18 C/D CART CCU-136A/A</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0003</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6886</td><td>0093</td><td>F/A18 C/D FLARE (MJU-38A/B)</td><td>1</td><td>1.3G</td><td>1</td><td>20</td><td>50</td><td>0.1512</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>593-6887</td><td>1383</td><td>F/A18 C/D FLARE (MJU-49/B)</td><td>4.2</td><td colspan="8">siehe UN 1383 PYROPHORES METALL, N.A.G. oder PYROPHORE LEGIERUNG, N.A.G.</td></tr>
+<tr><td>593-6891</td><td>0276</td><td>F/A18 C/D CART MK 19 MOD 0 (DODIC MO 12)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6892</td><td>0276</td><td>F/A18 C/D CART CCU-45/B (DODIC MD 65)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0088</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6893</td><td>0276</td><td>F/A18 C/D INIT JAU-74/A (DODIC WB 15)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0410</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6894</td><td>0276</td><td>F/A18 C/D CART CCU-146/A (DODIC WB 16)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0395</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6901</td><td>0323</td><td>EKAPP PAT 07 (HELI)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0007</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6902</td><td>0323</td><td>KAPP-PAT EL ZUE (TAA 76 LLS)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6903</td><td>0323</td><td>EC635 EKAPP-PAT 05</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0002</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6910</td><td>0276</td><td>LASTENABSCH PAT 78 EL ZUE (DODIC M 189)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0043</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6911</td><td>0276</td><td>LASTENABSCH PAT 79 EL ZUE (MAU-50,TIGER)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0152</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6914</td><td>1383</td><td>IR-PAT 12 (1"X1" FLZ)</td><td>4.2</td><td colspan="8">siehe UN 1383 PYROPHORES METALL, N.A.G. oder PYROPHORE LEGIERUNG, N.A.G.</td></tr>
+<tr><td>593-6915</td><td>0093</td><td>IR-PAT 10 EL ZUE (1"X1" FLZ)</td><td>1</td><td>1.3G</td><td>1</td><td>20</td><td>50</td><td>0.0710</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>593-6917</td><td>0093</td><td>IR-PAT 06 EL ZUE (1"X1" FLZ)</td><td>1</td><td>1.3G</td><td>1</td><td>20</td><td>50</td><td>0.1100</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>593-6920</td><td>0240</td><td>ADS 95 EJECTION ROCKET</td><td>1</td><td>1.3G</td><td>1</td><td>20</td><td>50</td><td>0.0850</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>593-6921</td><td>0070</td><td>PARACHUTE COVER CUTTER</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0001</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6923</td><td>0093</td><td>IR-PAT 22 EL ZUE (1"x1" FLZ)</td><td>1</td><td>1.3G</td><td>1</td><td>20</td><td>50</td><td>0.1050</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>593-6926</td><td>0323</td><td>ABSCH PAT 12 EL ZUE (CCU-145/A))</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0003</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6927</td><td>0323</td><td>ABSCH PAT 16 EL ZUE (CCM 11 MK1))</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0005</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6951</td><td>0276</td><td>FLOESCHPAT 89 EL ZUE(861-345, HINTEN)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0007</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6952</td><td>0276</td><td>FLOESCHPAT 89 EL ZUE (861-355, VORNE)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0007</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6953</td><td>0276</td><td>FLOESCHPAT VORNE EL ZUE, EC635</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6954</td><td>0276</td><td>FLOESCHPAT HINTEN EL ZUE, EC635</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6955</td><td>0276</td><td>SATZ SS PAT (MK CH11A PC9, VORN U HINT)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.1562</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6956</td><td>0276</td><td>SATZ KDO SYST AUSL PAT (SS MK CH11A PC9)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0065</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6982</td><td>0276</td><td>SS F-5 E/F MANN/SITZ TRENN PAT</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0030</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6983</td><td>0276</td><td>SS F-5 E/F TREIB PAT (DODIC MT 84)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6984</td><td>0276</td><td>SS F-5 E/F VERST PAT (PIL SCHIRMAUSZPAT)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0001</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6985</td><td>0276</td><td>SS F-5 E/F HANDAUSL PAT (DODIC M 700)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0035</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6986</td><td>0276</td><td>SS F-5 F HANDAUSL PAT (DODIC MF 69)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0031</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6987</td><td>0276</td><td>SS F-5 E/F SITZAUSL PAT (DODIC M 710)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0027</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6988</td><td>0276</td><td>SS F-5 E/F SITZAUFRICHT PAT</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0040</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6989</td><td>0276</td><td>SS F-5 E/F STABISCHIRM AUSZIEH PAT</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0035</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6990</td><td>0186</td><td>SS F-5 E/F SITZABSCH PAT (CKU-7A/A)</td><td>1</td><td>1.3C</td><td>1</td><td>20</td><td>50</td><td>3.2330</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>593-6992</td><td>0276</td><td>SS F-5 F ROLLGURTEN PAT (DODIC SP 97)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0081</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6993</td><td>0276</td><td>SS F-5 F TREIB PAT VORNE (DODIC MF 70)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0031</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6994</td><td>0276</td><td>SS F-5 F TREIB PAT HINTEN (DODIC MF 71)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0052</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6995</td><td>0276</td><td>SS F-5 F DACHABWURF VPAT (DODIC M 703)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0045</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6996</td><td>0276</td><td>SS F-5 F VORDERSITZAUSL VPAT</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0045</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6997</td><td>0276</td><td>SS F-5 E/F DACHABWURF PAT (DODIC M 897)</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0068</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6998</td><td>0276</td><td>SS F-5 E/F PILOTENSCHIRM AUSZIEH PAT</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0009</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>593-6999</td><td>0276</td><td>SS F-5 E ROLLGURTEN PAT</td><td>1</td><td>1.4C</td><td>1.4</td><td>333</td><td>3</td><td>0.0081</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>594-7005</td><td>0014</td><td>5,6MM GW MARK PAT 90</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>594-7006</td><td>0014</td><td>5,6MM GW MARK PAT 90 (gegurtet)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>594-7036</td><td>0014</td><td>7,5MM MARK PAT MG 51</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0007</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>594-7040</td><td>0014</td><td>8,6MM GW MARK PAT 10</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0022</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>594-7055</td><td>0014</td><td>9MM PIST MARK PAT 77</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0003</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>594-7061</td><td>0014</td><td>9MM REV KPAT 05</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0003</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>594-7070</td><td>0413</td><td>35MM FLAB KAN 63 MARK PAT</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>0.3035</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>594-7110</td><td>0413</td><td>7,5CM FKAN MARK PAT</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>0.1350</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>594-7350</td><td>0312</td><td>ABSCH MARK PAT 93 (SIM SYST PZF)</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0060</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>594-7360</td><td>0281</td><td>ABSCH MARK PAT 94 (ABSCH SIM STINGER)</td><td>1</td><td>1.2C</td><td>1</td><td>20</td><td>50</td><td>0.2000</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>594-7425</td><td>inert</td><td>MARK HG 85</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>594-7426</td><td>inert</td><td>Z KOMPL (MARK HG 85)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>594-7427</td><td>0373</td><td>KPAT (MARK HG 85)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0010</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>594-7428</td><td>0373</td><td>KPAT MARK HG 85, (153 DB)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0020</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>594-7710</td><td>inert</td><td>MARK SPR ROHR</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>594-7770</td><td>0373</td><td>MARK ZUE VOR 90 (MARK SPR ROHR)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0004</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>594-7812</td><td>0054</td><td>26,5MM RAKP 78 KPAT</td><td>1</td><td>1.3G</td><td>1</td><td>20</td><td>50</td><td>0.0115</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>594-7817</td><td>0431</td><td>U IRRITATIONSKOERPER 14</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0050</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>594-7845</td><td>0405</td><td>ABSCH MARK PAT 83, 6 SCHUSS (SIM SYST 81)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0216</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>594-7847</td><td>0405</td><td>TREFFER MARK PAT 87, ORANGE (SIM SYST 81)</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>0.0685</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>594-7848</td><td>0431</td><td>MARK PAT 03, WEISS (SIMUG),</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0240</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>594-7850</td><td>0487</td><td>HEULPET ROT</td><td>1</td><td>1.3G</td><td>1</td><td>20</td><td>50</td><td>0.0380</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>594-7851</td><td>0487</td><td>HEULPET BLAU</td><td>1</td><td>1.3G</td><td>1</td><td>20</td><td>50</td><td>0.0380</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>594-7852</td><td>0487</td><td>HEULPET GELB</td><td>1</td><td>1.3G</td><td>1</td><td>20</td><td>50</td><td>0.0380</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>594-7857</td><td>0487</td><td>KPET ROT</td><td>1</td><td>1.3G</td><td>1</td><td>20</td><td>50</td><td>0.0270</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>594-7858</td><td>0487</td><td>KPET BLAU</td><td>1</td><td>1.3G</td><td>1</td><td>20</td><td>50</td><td>0.0270</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>594-7859</td><td>0487</td><td>KPET GELB</td><td>1</td><td>1.3G</td><td>1</td><td>20</td><td>50</td><td>0.0270</td><td>C5000D</td><td colspan="2"></td></tr>
+<tr><td>594-7875</td><td>0197</td><td>MARK PAT SIK, ORANGE</td><td>1</td><td>1.4G</td><td>1.4</td><td>333</td><td>3</td><td>0.0105</td><td>E</td><td colspan="2"></td></tr>
+<tr><td>594-7900</td><td>1950</td><td>MARK SPRAY MARK RSG 2000</td><td>2</td><td colspan="8">siehe UN 1950 DRUCKGASPACKUNGEN, entzündbar, 2.1</td></tr>
+<tr><td>594-7910</td><td>1950</td><td>MARK RSG 2000</td><td>2</td><td colspan="8">siehe UN 1950 DRUCKGASPACKUNGEN, entzündbar, 2.1</td></tr>
+<tr><td>595-8444</td><td>3363</td><td>LWF LL AIM-9X CATM</td><td>9</td><td colspan="8">siehe UN 3363 GEFÄHRLICHE GÜTER IN GERÄTEN</td></tr>
+<tr><td>Zivil</td><td>0027</td><td>SCHWARZPULVER, gekörnt oder in Mehlform</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>verschieden</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>Zivil</td><td>0081</td><td>SPRENGSTOFF, TYP A</td><td>1</td><td>1.1D</td><td>1</td><td>50</td><td>20</td><td>verschieden</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>Zivil</td><td>0082</td><td>SPRENGSTOFF, TYP B</td><td>1</td><td>1.1D</td><td>1</td><td>50</td><td>20</td><td>verschieden</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>Zivil</td><td>0083</td><td>SPRENGSTOFF, TYP C</td><td>1</td><td>1.1D</td><td>1</td><td>20</td><td>50</td><td>verschieden</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>Zivil</td><td>0084</td><td>SPRENGSTOFF, TYP D</td><td>1</td><td>1.1D</td><td>1</td><td>50</td><td>20</td><td>verschieden</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>Zivil</td><td>0241</td><td>SPRENGSTOFF, TYP E</td><td>1</td><td>1.1D</td><td>1</td><td>50</td><td>20</td><td>verschieden</td><td>B1000C</td><td colspan="2"></td></tr>
+<tr><td>Zivil</td><td>0456</td><td>SPRENGKAPSELN, ELEKTRISCH</td><td>1</td><td>1.4S</td><td>1.4</td><td>unbegrenzt</td><td></td><td>verschieden</td><td>E</td><td colspan="2"></td></tr>
+</table>
 
 ### Übrige Klassen
 

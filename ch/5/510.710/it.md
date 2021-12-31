@@ -4,11 +4,11 @@ title: "Ordinanza dell' 11 febbraio 2004 sulla circolazione stradale militare (O
 short: OCSM
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/108"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2004-02-11
 in_force: 2004-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/108/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2004-108-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/108/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/108/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2004-108-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/108/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/108/20210101/it"
 
 (OCSM)
 
-dell’11 febbraio 2004 (Stato 1° gennaio 2021)
+dell’11 febbraio 2004 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -270,39 +270,40 @@ Il personale militare e gli insegnanti specialisti che conducono veicoli militar
 Non necessitano di un’autorizzazione a condurre militare:
 
 - a. il personale militare se, durante il servizio militare o durante un’attività militare fuori del servizio, conduce veicoli militari con una licenza di condurre civile della pertinente categoria di licenza;
-- b. i membri attivi della polizia, dei pompieri, del servizio sanitario e dell’Amministrazione delle dogane se, durante un’attività militare fuori del servizio, conducono veicoli militari con una licenza di condurre civile della pertinente categoria di licenza;
-- c.[^18-2] i militari se durante il servizio militare utilizzano per motivi di servizio il proprio veicolo civile previa autorizzazione secondo l’articolo 106 OAE[^18-3];
-- d.[^18-4] il personale civile dell’Aggruppamento Difesa incorporato in formazioni d’aerodromo o logistiche, se durante il servizio militare conduce i medesimi tipi di veicoli che conduce nell’ambito della propria attività professionale con una licenza di condurre civile della pertinente categoria di licenza;
-- e.[^18-5]
+- b. i membri attivi della polizia, dei pompieri, del servizio sanitario e dell’Ufficio federale della dogana e della sicurezza dei confini[^18-2] se, durante un’attività militare fuori del servizio, conducono veicoli militari con una licenza di condurre civile della pertinente categoria di licenza;
+- c.[^18-3] i militari se durante il servizio militare utilizzano per motivi di servizio il proprio veicolo civile previa autorizzazione secondo l’articolo 106 OAE[^18-4];
+- d.[^18-5] il personale civile dell’Aggruppamento Difesa incorporato in formazioni d’aerodromo o logistiche, se durante il servizio militare conduce i medesimi tipi di veicoli che conduce nell’ambito della propria attività professionale con una licenza di condurre civile della pertinente categoria di licenza;
+- e.[^18-6]
 
   il personale civile attivo e l’ex personale civile dell’Aggruppamento Difesa nonché l’ex personale militare, se:
 
   - 1\. la corrispondente decisione relativa all’idoneità, emanata in occasione di un apprezzamento medico dell’idoneità al servizio militare, non reca la menzione «abile al servizio militare, non può condurre veicoli a motore militari»,
   - 2\. la corrispondente autorizzazione a condurre militare non è stata revocata secondo l’articolo 38,
-  - 3\. è autorizzato a partecipare ad attività volontarie fuori del servizio secondo l’articolo 8 OASAM[^18-6],
+  - 3\. è autorizzato a partecipare ad attività volontarie fuori del servizio secondo l’articolo 8 OASAM[^18-7],
   - 4\. durante l’attività volontaria fuori del servizio conduce veicoli militari con una licenza di condurre civile della pertinente categoria di licenza, e
   - 5\. è comprovato che la persona interessata ha ricevuto da parte della società militare organizzatrice un’introduzione ai veicoli a motore militari da condurre, conformemente alle direttive della FOA log.
 
-<sup>4</sup> Chi conduce veicoli militari con una licenza secondo i capoversi 1, 2 o 3 lettere a, b o c è autorizzato a trasportare persone e cose anche qualora la licenza di condurre civile non comprenda tale autorizzazione.[^18-7]
+<sup>4</sup> Chi conduce veicoli militari con una licenza secondo i capoversi 1, 2 o 3 lettere a, b o c è autorizzato a trasportare persone e cose anche qualora la licenza di condurre civile non comprenda tale autorizzazione.[^18-8]
 
 <sup>5</sup>
 
 Il personale civile dell’Aggruppamento Difesa che, durante un impiego militare secondo l’articolo 65*c* LM, conduce il medesimo tipo di veicolo che conduce nell’ambito della propria attività professionale deve essere titolare:
 
 - a. di una licenza di condurre civile della pertinente categoria di licenza; o
-- b. di una licenza di condurre civile e della pertinente autorizzazione a condurre militare.[^18-8]
+- b. di una licenza di condurre civile e della pertinente autorizzazione a condurre militare.[^18-9]
 
-<sup>6</sup> Durante un impiego militare secondo l’articolo 65*c* LM il personale civile dell’Aggruppamento Difesa è autorizzato a trasportare persone o cose se la licenza di condurre civile comprende tale autorizzazione.[^18-9]
+<sup>6</sup> Durante un impiego militare secondo l’articolo 65*c* LM il personale civile dell’Aggruppamento Difesa è autorizzato a trasportare persone o cose se la licenza di condurre civile comprende tale autorizzazione.[^18-10]
 
 [^18-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1801](https://fedlex.data.admin.ch/eli/oc/2013/407)).
-[^18-2]: Introdotta dal n. I dell’O del 16 nov. 2016 ([RU 2016 4423](https://fedlex.data.admin.ch/eli/oc/2016/728)). Nuovo testo giusta il n. I dell’O del 13 feb. 2019, in vigore dal 15 mar. 2019 ([RU 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
-[^18-3]: [RS 510.301](https://fedlex.data.admin.ch/eli/cc/2018/161)
-[^18-4]: Introdotta dal n. I dell’O del 13 feb. 2019, in vigore dal 15 mar. 2019 ([RU 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
-[^18-5]: Introdotta dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6015](https://fedlex.data.admin.ch/eli/oc/2020/1005)).
-[^18-6]: [RS 512.30](https://fedlex.data.admin.ch/eli/cc/2003/683)
-[^18-7]: Nuovo testo giusta il n. I dell’O del 13 feb. 2019, in vigore dal 15 mar. 2019 ([RU 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
-[^18-8]: Introdotto dal n. I dell’O del 13 feb. 2019, in vigore dal 15 mar. 2019 ([RU 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
+[^18-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^18-3]: Introdotta dal n. I dell’O del 16 nov. 2016 ([RU 2016 4423](https://fedlex.data.admin.ch/eli/oc/2016/728)). Nuovo testo giusta il n. I dell’O del 13 feb. 2019, in vigore dal 15 mar. 2019 ([RU 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
+[^18-4]: [RS 510.301](https://fedlex.data.admin.ch/eli/cc/2018/161)
+[^18-5]: Introdotta dal n. I dell’O del 13 feb. 2019, in vigore dal 15 mar. 2019 ([RU 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
+[^18-6]: Introdotta dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6015](https://fedlex.data.admin.ch/eli/oc/2020/1005)).
+[^18-7]: [RS 512.30](https://fedlex.data.admin.ch/eli/cc/2003/683)
+[^18-8]: Nuovo testo giusta il n. I dell’O del 13 feb. 2019, in vigore dal 15 mar. 2019 ([RU 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
 [^18-9]: Introdotto dal n. I dell’O del 13 feb. 2019, in vigore dal 15 mar. 2019 ([RU 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
+[^18-10]: Introdotto dal n. I dell’O del 13 feb. 2019, in vigore dal 15 mar. 2019 ([RU 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
 
 #### Art. 19
 
@@ -452,13 +453,14 @@ La FOA log è responsabile dell’istruzione e del perfezionamento del personale
 
 <sup>1bis</sup> L’UCNEs è l’autorità di vigilanza per i maestri conducenti impiegati esclusivamente nell’esercito e nell’Aggruppamento Difesa. Esso disciplina l’esercizio della professione e il perfezionamento professionale.[^27-2]
 
-<sup>1ter</sup> I servizi dell’Aggruppamento Difesa competenti per l’assunzione dei maestri conducenti notificano all’UCNEs i dati di quest’ultimi necessari per l’adempimento dei suoi compiti di controllo, segnatamente il cognome, il nome, l’indirizzo, il numero d’assicurato AVS, il tasso di occupazione e il luogo di lavoro.[^27-3]
+<sup>1ter</sup> I servizi dell’Aggruppamento Difesa competenti per l’assunzione dei maestri conducenti notificano all’UCNEs i dati di quest’ultimi necessari per l’adempimento dei suoi compiti di controllo, segnatamente il cognome, il nome, l’indirizzo, il numero AVS[^27-3], il tasso di occupazione e il luogo di lavoro.[^27-4]
 
 <sup>2</sup> Gli accompagnatori impiegati per l’istruzione alla guida devono essere titolari dell’autorizzazione a condurre militare o della licenza di condurre civile della pertinente categoria e aver assolto un’istruzione adeguata.
 
 [^27-1]: Nuovo testo giusta il n. I dell’O del 12 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5653](https://fedlex.data.admin.ch/eli/oc/2008/787)).
 [^27-2]: Introdotto dal n. I dell’O del 12 nov. 2008 ([RU 2008 5653](https://fedlex.data.admin.ch/eli/oc/2008/787)). Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6015](https://fedlex.data.admin.ch/eli/oc/2020/1005)).
-[^27-3]: Introdotto dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6015](https://fedlex.data.admin.ch/eli/oc/2020/1005)).
+[^27-3]: Nuova espr. giusta l’all. n. II 17 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^27-4]: Introdotto dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6015](https://fedlex.data.admin.ch/eli/oc/2020/1005)).
 
 #### Art. 28
 
@@ -1394,12 +1396,12 @@ Allegato 1*[^t-1]*
 
 ### 1100 Campo d’applicazione e applicabilità
 
-- 1101 La classificazione e il trasporto di merci pericolose si fondano in linea di principio sull’ordinanza del 29 novembre 2002[^annex2-lvlu1-lvlu2-lvl1100-1] concernente il trasporto di merci pericolose su strada (SDR).
+- 1101 La classificazione e il trasporto di merci pericolose si fondano in linea di principio sull’ordinanza del 29 novembre 2002[^annex2-lvlu1-lvlu1-lvl1100-1] concernente il trasporto di merci pericolose su strada (SDR).
 - 1102
 
   Gli allegati 1 e 2 della presente ordinanza sono applicabili:
 
-  - a. alla truppa in servizio militare, se essa interviene ai sensi del capitolo 1.4 ADR[^annex2-lvlu1-lvlu2-lvl1100-2] in qualità di mittente, trasportatore, destinatario, caricatore, imballatore o scaricatore di merci pericolose;
+  - a. alla truppa in servizio militare, se essa interviene ai sensi del capitolo 1.4 ADR[^annex2-lvlu1-lvlu1-lvl1100-2] in qualità di mittente, trasportatore, destinatario, caricatore, imballatore o scaricatore di merci pericolose;
   - b. al personale militare e agli insegnanti specialisti che durante la loro attività professionale trasportano merci pericolose con veicoli militari;
   - c. al personale civile dell’Aggruppamento Difesa che nell’adempimento dei suoi compiti trasporta merci pericolose con veicoli della Confederazione.
 
@@ -1411,15 +1413,15 @@ Allegato 1*[^t-1]*
   - b. ai trasporti eseguiti da fornitori civili di prestazioni;
   - c. nel quadro di attività fuori del servizio;
   - d. se sono trasportate merci pericolose non menzionate nell’allegato 2, fatta eccezione per le munizioni di nuovo acquisto;
-  - e. ai trasporti di rifiuti, segnatamente di rifiuti speciali e di altri rifiuti soggetti a controllo, a destinazione di imprese civili di smaltimento ai sensi dell’ordinanza del 22 giugno 2005[^annex2-lvlu1-lvlu2-lvl1100-3] sul traffico di rifiuti.
+  - e. ai trasporti di rifiuti, segnatamente di rifiuti speciali e di altri rifiuti soggetti a controllo, a destinazione di imprese civili di smaltimento ai sensi dell’ordinanza del 22 giugno 2005[^annex2-lvlu1-lvlu1-lvl1100-3] sul traffico di rifiuti.
 
 - 1104 Di regola, i trasporti di merci pericolose che non rientrano nel campo d’applicazione degli allegati 1 e 2 sottostanno alle prescrizioni civili in materia di trasporto. Tali prescrizioni possono essere eventualmente completate con disposizioni nazionali o internazionali, per esempio con memorandum d’intesa (MOU), regole di impiego e di comportamento (ROE/ROB), accordi multilaterali o decisioni e autorizzazioni eccezionali di durata limitata rilasciate dalle autorità nazionali competenti.
 - 1105 I veicoli militari con cisterne fisse (veicoli cisterna), cisterne smontabili, container-cisterna, casse mobili cisterna, cisterne mobili nonché veicoli batteria e container per gas a elementi multipli (CGEM) nonché i loro conducenti sono soggetti alla SDR/ADR.
 - 1106 L’UCNEs può, con il consenso dell’USTRA, autorizzare deroghe, segnatamente alle prescrizioni concernenti le modalità di trasporto della merce, i veicoli da utilizzare e la marcatura dei colli, dei container, dei veicoli e dei gruppi elettrogeni.
 
-[^annex2-lvlu1-lvlu2-lvl1100-1]: [RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
-[^annex2-lvlu1-lvlu2-lvl1100-2]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^annex2-lvlu1-lvlu2-lvl1100-3]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+[^annex2-lvlu1-lvlu1-lvl1100-1]: [RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
+[^annex2-lvlu1-lvlu1-lvl1100-2]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^annex2-lvlu1-lvlu1-lvl1100-3]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
 
 ### 1200 Esenzioni relative alla natura dell’operazione di trasporto
 
@@ -1483,18 +1485,18 @@ Allegato 1*[^t-1]*
 
 ### 1700 Restrizioni al trasporto emanate dalle autorità competenti
 
-- 1701 Nelle gallerie contrassegnate con il segnale «Galleria» (art. 45 cpv. 3 e all. 2 n. 4.07 dell’O del 5 set. 1979[^annex2-lvlu1-lvlu2-lvl1700-1] sulla segnaletica stradale, OSStr), i veicoli che trasportano merci pericolose oltre il limite libero possono circolare soltanto sulla corsia di destra.
+- 1701 Nelle gallerie contrassegnate con il segnale «Galleria» (art. 45 cpv. 3 e all. 2 n. 4.07 dell’O del 5 set. 1979[^annex2-lvlu1-lvlu1-lvl1700-1] sulla segnaletica stradale, OSStr), i veicoli che trasportano merci pericolose oltre il limite libero possono circolare soltanto sulla corsia di destra.
 - 1702 Ai veicoli che trasportano merci pericolose è vietato, o autorizzato con restrizioni, circolare sui tratti stradali indicati con gli appositi segnali (all. 2 n. 2.10.1 – segnale «Divieto di circolazione per i veicoli che trasportano merci pericolose» –, 2.11 – segnale «Divieto di circolazione per i veicoli il cui carico può inquinare le acque» – e art. 19 cpv. 1 OSStr). Tali tratti e le relative restrizioni figurano nella parte 10, tabelle 10A e 10B, nonché nell’allegato 2 della presente ordinanza.
 - 1703 In particolari casi di rigore e d’intesa con le autorità civili competenti, l’UCNEs può rilasciare un’autorizzazione unica per il passaggio nelle gallerie indicate nella parte 10, tabella 10B, con merci pericolose che eccedono i limiti prescritti. Al riguardo possono essere ordinate misure d’esercizio specifiche (tra l’altro, passaggio in determinate ore del giorno, passaggio in convogli scortati da veicoli di accompagnamento o impiego di particolari dispositivi di avvertimento).
 
-[^annex2-lvlu1-lvlu2-lvl1700-1]: [RS 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
+[^annex2-lvlu1-lvlu1-lvl1700-1]: [RS 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
 
 ### 1800 Trasporti di materiale radioattivo
 
-- 1801 Il materiale dell’esercito con materiale radioattivo che conformemente alla SDR/ADR può essere trasportato come collo esente e gli oggetti ammessi dall’Ufficio federale della sanità pubblica (UFSP) in virtù dell’articolo 15 dell’ordinanza del 26 aprile 2017[^annex2-lvlu1-lvlu2-lvl1800-1] sulla radioprotezione non sottostanno alle prescrizioni in materia di trasporti della SDR/ADR concernenti la classe 7.
+- 1801 Il materiale dell’esercito con materiale radioattivo che conformemente alla SDR/ADR può essere trasportato come collo esente e gli oggetti ammessi dall’Ufficio federale della sanità pubblica (UFSP) in virtù dell’articolo 15 dell’ordinanza del 26 aprile 2017[^annex2-lvlu1-lvlu1-lvl1800-1] sulla radioprotezione non sottostanno alle prescrizioni in materia di trasporti della SDR/ADR concernenti la classe 7.
 - 1802 In tutti gli altri casi, segnatamente se il materiale è menzionato con la specificazione dei nuclidi in una licenza per l’impiego di radiazioni ionizzanti dell’UFSP, devono imperativamente essere osservate le disposizioni della SDR/ADR concernenti la classe 7. I trasporti di tale natura devono essere annunciati all’UCNEs con almeno dieci giorni di anticipo.
 
-[^annex2-lvlu1-lvlu2-lvl1800-1]: RS**814.501**
+[^annex2-lvlu1-lvlu1-lvl1800-1]: RS**814.501**
 
 ### 1900 Regolamentazione delle autorizzazioni per trasporti secondo i numeri1703–1802 e controlli
 

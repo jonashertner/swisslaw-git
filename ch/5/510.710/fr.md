@@ -4,11 +4,11 @@ title: Ordonnance du 11 février 2004 sur la circulation militaire (OCM)
 short: OCM
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/108"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2004-02-11
 in_force: 2004-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/108/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-108-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/108/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/108/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-108-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/108/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/108/20210101/fr"
 
 (OCM)
 
-du 11 février 2004 (Etat le 1<sup>er</sup> janvier 2021)
+du 11 février 2004 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -272,39 +272,40 @@ Le personnel militaire et les enseignants spécialisés, qui conduisent des véh
 Une autorisation de conduire militaire n’est pas nécessaire:
 
 - a. pour le personnel militaire qui conduit des véhicules militaires avec un permis de conduire civil de la catégorie de permis correspondante pendant le service militaire ou lors de ses activités militaires hors du service;
-- b. pour les membres actifs de la police, des sapeurs-pompiers, des services sanitaires et de l’administration des douanes lorsqu’ils conduisent des véhicules militaires durant leurs activités hors du service avec un permis de conduire civil de la catégorie de permis correspondante;
-- c.[^18-2] pour les militaires munis d’une autorisation visée à l’art. 106 OAA[^18-3], qui conduisent leur véhicule civil pendant le service militaire à des fins de service;
-- d.[^18-4] pour le personnel civil du Groupement Défense incorporé dans des formations logistiques ou de bases aériennes qui conduit pendant le service militaire les mêmes types de véhicules que dans son activité professionnelle civile avec un permis de conduire civil des catégories correspondantes;
-- e.[^18-5]
+- b. pour les membres actifs de la police, des sapeurs-pompiers, des services sanitaires et de l’Office fédéral de la douane et de la sécurité des frontières[^18-2] lorsqu’ils conduisent des véhicules militaires durant leurs activités hors du service avec un permis de conduire civil de la catégorie de permis correspondante;
+- c.[^18-3] pour les militaires munis d’une autorisation visée à l’art. 106 OAA[^18-4], qui conduisent leur véhicule civil pendant le service militaire à des fins de service;
+- d.[^18-5] pour le personnel civil du Groupement Défense incorporé dans des formations logistiques ou de bases aériennes qui conduit pendant le service militaire les mêmes types de véhicules que dans son activité professionnelle civile avec un permis de conduire civil des catégories correspondantes;
+- e.[^18-6]
 
   pour les membres et anciens membres du personnel civil du Groupement Défense ainsi que les anciens membres du personnel militaire:
 
   - 1\. qui, lors d’une appréciation médicale de l’aptitude au service militaire, n’ont pas obtenu une décision d’aptitude énonçant «apte au service militaire, interdiction de conduire des véhicules à moteur militaires»,
   - 2\. qui ne se sont pas vu retirer l’autorisation de conduire militaire en application de l’art. 38,
-  - 3\. qui peuvent participer à l’activité volontaire hors du service conformément à l’art. 8 OAAFM[^18-6],
+  - 3\. qui peuvent participer à l’activité volontaire hors du service conformément à l’art. 8 OAAFM[^18-7],
   - 4\. qui, lors de l’activité volontaire hors du service, conduisent des véhicules militaires avec un permis de conduire civil des catégories correspondantes, et
   - 5\. qui sont au bénéfice d’un document établi par l’association militaire organisatrice attestant qu’ils ont été formés à la conduite des véhicules militaires concernés selon les directives de la FOAP log.
 
-<sup>4</sup> Toute personne qui conduit des véhicules militaires munie d’une pièce visée aux al. 1, 2 ou 3, let. a, b ou c, est habilitée à transporter des personnes et des marchandises, même si le permis de conduire civil n’englobe pas une telle autorisation.[^18-7]
+<sup>4</sup> Toute personne qui conduit des véhicules militaires munie d’une pièce visée aux al. 1, 2 ou 3, let. a, b ou c, est habilitée à transporter des personnes et des marchandises, même si le permis de conduire civil n’englobe pas une telle autorisation.[^18-8]
 
 <sup>5</sup>
 
 Tout membre du personnel civil du Groupement Défense qui conduit pendant un engagement militaire au sens de l’art 65*c* LAAM le même type de véhicule que dans son activité professionnelle civile doit être détenteur:
 
 - a. d’un permis de conduire civil de la catégorie de permis correspondante, ou
-- b. d’un permis de conduire civil avec l’autorisation de conduire militaire correspondante.[^18-8]
+- b. d’un permis de conduire civil avec l’autorisation de conduire militaire correspondante.[^18-9]
 
-<sup>6</sup> Le personnel civil du Groupement Défense est habilité à transporter des personnes et des marchandises pendant un engagement militaire au sens de l’art. 65*c* LAAM, pour autant que le permis de conduire civil englobe une telle autorisation.[^18-9]
+<sup>6</sup> Le personnel civil du Groupement Défense est habilité à transporter des personnes et des marchandises pendant un engagement militaire au sens de l’art. 65*c* LAAM, pour autant que le permis de conduire civil englobe une telle autorisation.[^18-10]
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1801](https://fedlex.data.admin.ch/eli/oc/2013/407)).
-[^18-2]: Introduite par le ch. I de l’O du 16 nov. 2016 ([RO 2016 4423](https://fedlex.data.admin.ch/eli/oc/2016/728)). Nouvelle teneur selon le ch. I de l’O du 13 fév. 2019, en vigueur depuis le 15 mars 2019 ([RO 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
-[^18-3]: [RS 510.301](https://fedlex.data.admin.ch/eli/cc/2018/161)
-[^18-4]: Introduite par le ch. I de l’O du 13 fév. 2019, en vigueur depuis le 15 mars 2019 ([RO 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
-[^18-5]: Introduite par le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6015](https://fedlex.data.admin.ch/eli/oc/2020/1005)).
-[^18-6]: [RS 512.30](https://fedlex.data.admin.ch/eli/cc/2003/683)
-[^18-7]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2019, en vigueur depuis le 15 mars 2019 ([RO 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
-[^18-8]: Introduit par le ch. I de l’O du 13 fév. 2019, en vigueur depuis le 15 mars 2019 ([RO 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
+[^18-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^18-3]: Introduite par le ch. I de l’O du 16 nov. 2016 ([RO 2016 4423](https://fedlex.data.admin.ch/eli/oc/2016/728)). Nouvelle teneur selon le ch. I de l’O du 13 fév. 2019, en vigueur depuis le 15 mars 2019 ([RO 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
+[^18-4]: [RS 510.301](https://fedlex.data.admin.ch/eli/cc/2018/161)
+[^18-5]: Introduite par le ch. I de l’O du 13 fév. 2019, en vigueur depuis le 15 mars 2019 ([RO 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
+[^18-6]: Introduite par le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6015](https://fedlex.data.admin.ch/eli/oc/2020/1005)).
+[^18-7]: [RS 512.30](https://fedlex.data.admin.ch/eli/cc/2003/683)
+[^18-8]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2019, en vigueur depuis le 15 mars 2019 ([RO 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
 [^18-9]: Introduit par le ch. I de l’O du 13 fév. 2019, en vigueur depuis le 15 mars 2019 ([RO 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
+[^18-10]: Introduit par le ch. I de l’O du 13 fév. 2019, en vigueur depuis le 15 mars 2019 ([RO 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
 
 #### Art. 19
 
@@ -455,13 +456,14 @@ La FOAP log est responsable de l’instruction de base et du perfectionnement du
 
 <sup>1bis</sup> L’OCRNA est l’autorité de surveillance des moniteurs de conduite qui sont exclusivement engagés dans l’armée et le Groupement Défense. Il règle l’exercice de leur profession et leur perfectionnement.[^27-2]
 
-<sup>1ter</sup> Les services du Groupement Défense chargés du l’engagement des moniteurs de conduite communiquent à l’OCRNA les données concernant lesdits moniteurs dont il a besoin pour pouvoir accomplir ses tâches de contrôle, telles que le nom, le prénom, l’adresse, le numéro d’assuré AVS, le taux d’occupation ou le lieu de travail.[^27-3]
+<sup>1ter</sup> Les services du Groupement Défense chargés du l’engagement des moniteurs de conduite communiquent à l’OCRNA les données concernant lesdits moniteurs dont il a besoin pour pouvoir accomplir ses tâches de contrôle, telles que le nom, le prénom, l’adresse, le numéro AVS[^27-3], le taux d’occupation ou le lieu de travail.[^27-4]
 
 <sup>2</sup> Les accompagnateurs engagés dans l’instruction à la conduite doivent être détenteurs de l’autorisation de conduire militaire ou du permis de conduire civil de la catégorie correspondante et avoir suivi une formation appropriée.
 
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du 12 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5653](https://fedlex.data.admin.ch/eli/oc/2008/787)).
 [^27-2]: Introduit par le ch. I de l’O du 12 nov. 2008 ([RO 2008 5653](https://fedlex.data.admin.ch/eli/oc/2008/787)). Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6015](https://fedlex.data.admin.ch/eli/oc/2020/1005)).
-[^27-3]: Introduit par le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6015](https://fedlex.data.admin.ch/eli/oc/2020/1005)).
+[^27-3]: Nouvelle expression selon l’annexe ch. II 17 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^27-4]: Introduit par le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6015](https://fedlex.data.admin.ch/eli/oc/2020/1005)).
 
 #### Art. 28
 
