@@ -3,13 +3,13 @@ canton: FR
 number: "813.11"
 title: Ausführungsbeschluss zur Bundesgesetzgebung über die Luftreinhaltung
 language: de
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-12-14
 adopted: 1992-06-23
 in_force: 1992-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/813.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5987/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7040/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5987/pdf_file"
 
 Luftreinhaltung – B
 
-vom 23.06.1992 (Fassung in Kraft getreten am 01.04.2019)
+vom 23.06.1992 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -40,7 +40,7 @@ beschliesst:
 - b) die Raumplanungs-, Umwelt- und Baudirektion (die Direktion),
 - c) das Amt für Umwelt (das Amt),
 - c<sup>bis</sup> ) das Amt für Wald und Natur,
-- c<sup>ter</sup> ) das Landwirtschaftliche Institut des Kantons Freiburg (LIG),
+- c<sup>ter</sup> ) Grangeneuve,
 - d) die Gemeinden.
 
 <sup>2</sup> Der Vollzug durch die im Beschluss betreffend die obligatorische Kontrolle gewisser Heizungs- und Warmwasseraufbereitungsanlagen vorgesehenen Organe bleibt vorbehalten.
@@ -73,7 +73,7 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Wald und Natur ist die zuständige Behörde für das Verbrennen von Waldabfällen. Es stellt die entsprechenden Kontrollen sicher und kann im Einzelfall Bewilligungen nach Artikel 26b LRV erteilen.
 
-<sup>2</sup> Als kantonaler Pflanzenschutzdienst im Sinne der Bundesgesetzgebung ordnet das LIG die Verbrennung von Feld- und Gartenabfällen an, wenn diese Abfälle aus Sicht des Pflanzenschutzes nicht anders beseitigt werden können (Art. 26b Abs. 2 LRV).
+<sup>2</sup> Als kantonaler Pflanzenschutzdienst im Sinne der Bundesgesetzgebung ordnet Grangeneuve die Verbrennung von Feld- und Gartenabfällen an, wenn diese Abfälle aus Sicht des Pflanzenschutzes nicht anders beseitigt werden können (Art. 26b Abs. 2 LRV).
 
 #### Art. 5
 
@@ -82,6 +82,8 @@ beschliesst:
 #### Art. 6
 
 <sup>1</sup> Die in Anwendung dieses Beschlusses getroffenen Entscheide sind mit Beschwerde gemäss dem Gesetz über die Verwaltungsrechtspflege anfechtbar.
+
+<sup>2</sup> Die in der Spezialgesetzgebung, unter anderem dem Gesetz über Grangeneuve, vorgesehenen Rechtsmittel bleiben vorbehalten.
 
 #### Art. 7
 

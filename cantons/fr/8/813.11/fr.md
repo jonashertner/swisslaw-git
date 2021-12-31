@@ -3,13 +3,13 @@ canton: FR
 number: "813.11"
 title: "Arrêté d'exécution de dispositions fédérales sur la protection de l'air"
 language: fr
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-12-14
 adopted: 1992-06-23
 in_force: 1992-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/813.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5987/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7040/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5987/pdf_file"
 
 Protection de l'air – A
 
-du 23.06.1992 (version entrée en vigueur le 01.04.2019)
+du 23.06.1992 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -40,7 +40,7 @@ Arrête:
 - b) la Direction de l'aménagement, de l'environnement et des constructions (ci-après: la Direction),
 - c) le Service de l'environnement (ci-après: le Service),
 - c<sup>bis</sup> ) le Service des forêts et de la nature,
-- c<sup>ter</sup> ) l'Institut agricole de l´Etat de Fribourg (IAG),
+- c<sup>ter</sup> ) Grangeneuve,
 - d) les communes.
 
 <sup>2</sup> Sont réservées les compétences des organes d'exécution prévues par l'arrêté concernant le contrôle obligatoire de certaines installations de chauffage et de préparation d'eau chaude.
@@ -73,7 +73,7 @@ Arrête:
 
 <sup>1</sup> Le Service des forêts et de la nature est compétent pour ce qui a trait à l'incinération de déchets naturels provenant des forêts. Il en assure le contrôle et peut délivrer des autorisations au sens de l'article 26b OPair.
 
-<sup>2</sup> L'IAG, qui fait office de service phytosanitaire cantonal au sens de la législation fédérale, ordonne l'incinération de déchets naturels provenant des champs et jardins lorsque aucun autre mode d'élimination n'est admissible d'un point de vue phytosanitaire (art. 26b al. 2 OPair).
+<sup>2</sup> Grangeneuve, qui fait office de service phytosanitaire cantonal au sens de la législation fédérale, ordonne l'incinération de déchets naturels provenant des champs et jardins lorsque aucun autre mode d'élimination n'est admissible d'un point de vue phytosanitaire (art. 26b al. 2 OPair).
 
 #### Art. 5
 
@@ -82,6 +82,8 @@ Arrête:
 #### Art. 6
 
 <sup>1</sup> Les décisions prises en application du présent arrêté sont sujettes à recours, conformément au code de procédure et de juridiction administrative.
+
+<sup>2</sup> Les voies de recours prévues par la législation spéciale, dont la loi sur Grangeneuve, demeurent réservées.
 
 #### Art. 7
 
