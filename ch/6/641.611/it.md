@@ -4,11 +4,11 @@ title: "Ordinanza del 20 novembre 1996 sull'imposizione degli oli minerali (OIOm
 short: OIOm
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1996-11-20
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20210101/it"
 
 (OIOm)
 
-del 20 novembre 1996 (Stato 1° gennaio 2021)
+del 20 novembre 1996 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -210,10 +210,11 @@ Nelle dichiarazioni fiscali e nei rapporti periodici:
 
 <sup>3</sup> Essa può elaborare e pubblicare statistiche speciali e rilevamenti speciali.
 
-<sup>4</sup> Per le statistiche speciali e i rilevamenti speciali sono riscossi emolumenti secondo l’appendice all’ordinanza del 4 aprile 2007[^17-1] sugli emolumenti dell’Amministra-zione federale delle dogane.[^17-2]
+<sup>4</sup> Per le statistiche speciali e i rilevamenti speciali sono riscossi emolumenti secondo l’appendice all’ordinanza del 4 aprile 2007[^17-1] sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini[^17-2].[^17-3]
 
 [^17-1]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
-[^17-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^17-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^17-3]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 ## Capitolo 2: Tariffe
 
@@ -1801,7 +1802,7 @@ La procedura secondo il capoverso 1:
 
 #### Art. 106a
 
-<sup>1</sup> A contare dal momento del pagamento, l’Amministrazione delle dogane corrisponde gli interessi sugli importi indebitamente riscossi o indebitamente non restituiti.
+<sup>1</sup> A contare dal momento del pagamento, l’Ufficio federale della dogana e della sicurezza dei confini corrisponde gli interessi sugli importi indebitamente riscossi o indebitamente non restituiti.
 
 <sup>2</sup> Il DFF fissa i tassi d’interesse e stabilisce l’importo fino al quale non viene versato alcun interesse rimunerativo.
 
@@ -1868,7 +1869,7 @@ Allegato 2*[^t-1]*
 
 ## Tariffa d’imposta per biocarburanti
 
-[^t-1]: Introdotto dal n. II dell’O del 30 gen. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Nuovo testo giusta il n. II dell’O del 4 mag. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)). Aggiornato dall’all. 3 n. 9 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), e dal n. II dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^t-1]: Introdotto dal n. II dell’O del 30 gen. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Nuovo testo giusta il n. II dell’O del 4 mag. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)). Aggiornato dall’all. 3 n. 9 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) e dal n. II dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
 
 <table>
 <tr><th>Voce di tariffa</th><th colspan="2">Designazione della merce</th><th>Aliquota d’imposta</th><th>Supplemento fiscale</th></tr>

@@ -4,11 +4,11 @@ title: "Ordonnance du 20 novembre 1996 sur l'imposition des huiles minérales (O
 short: Oimpmin
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1996-11-20
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20210101/fr"
 
 (Oimpmin)
 
-du 20 novembre 1996 (Etat le 1<sup>er</sup> janvier 2021)
+du 20 novembre 1996 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -208,10 +208,11 @@ La statistique sera établie sur la base des déclarations fiscales et des rappo
 
 <sup>3</sup> Elle peut établir et publier des statistiques particulières et des relevés spéciaux.
 
-<sup>4</sup> Les statistiques particulières et les relevés spéciaux donnent lieu à la perception d’émoluments conformément à l’ordonnance du 4 avril 2007 sur les émoluments de l’Administration fédérale des douanes[^17-1].[^17-2]
+<sup>4</sup> Les statistiques particulières et les relevés spéciaux donnent lieu à la perception d’émoluments conformément à l’ordonnance du 4 avril 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières[^17-1] [^17-2].[^17-3]
 
-[^17-1]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
-[^17-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^17-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^17-2]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+[^17-3]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 ## Chapitre 2 Tarifs
 
@@ -1469,7 +1470,7 @@ Les rapports doivent:
 <sup>3</sup> L’autorité fiscale peut autoriser, dans des cas dûment motivés, que les rapports ne soient ni établis ni transmis par voie informatique.
 
 [^82-1]: Nouvelle teneur selon le ch. I de l’O du 12 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3133](https://fedlex.data.admin.ch/eli/oc/2014/528)).
-[^82-2]: [[RO 1983 1007](https://fedlex.data.admin.ch/eli/oc/1983/1007_1007_1007)[1180](https://fedlex.data.admin.ch/eli/oc/1983/1180_1180_1180), [1987 2321](https://fedlex.data.admin.ch/eli/oc/1987/2321_2321_2321), [1995 4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)art. 3 ch. 5, [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)annexe ch. 3, [2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)annexe ch. 6, [2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)annexe 4 ch. II 4, [2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)annexe 3 ch. 5, [2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)annexe 3 ch. 3. [RO 2017 3183](https://fedlex.data.admin.ch/eli/oc/2017/314)art. 12]. Voir actuellement l’O du 10 mai 2017 sur le stockage obligatoire de carburants et combustibles liquides ([RS 531.215.41](https://fedlex.data.admin.ch/eli/cc/2017/314)).
+[^82-2]: [[RO 1983 1007](https://fedlex.data.admin.ch/eli/oc/1983/1007_1007_1007), [1180](https://fedlex.data.admin.ch/eli/oc/1983/1180_1180_1180); [1987 2321](https://fedlex.data.admin.ch/eli/oc/1987/2321_2321_2321); [1995 4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)art. 3 ch. 5; [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)annexe ch. 3; [2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)annexe ch. 6; [2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)annexe 4 ch. II 4; [2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)annexe 3 ch. 5; [2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)annexe 3 ch. 3. [RO 2017 3183](https://fedlex.data.admin.ch/eli/oc/2017/314)art. 12]. Voir actuellement l’O du 10 mai 2017 sur le stockage obligatoire de carburants et combustibles liquides ([RS 531.215.41](https://fedlex.data.admin.ch/eli/cc/2017/314)).
 
 #### Art. 83
 
@@ -1858,8 +1859,8 @@ Annexe 1*[^t-1]*
 
 \2. à 6. …[^annex1-lvlu1-3]
 
-[^annex1-lvlu1-1]: [[RO 1972 3037](https://fedlex.data.admin.ch/eli/oc/1972/2982_3037_2817), **1987** 2346]
-[^annex1-lvlu1-2]: [[RO 1972 1712](https://fedlex.data.admin.ch/eli/oc/1972/1684_1712_1888), [1975 1711](https://fedlex.data.admin.ch/eli/oc/1975/1711_1711_1711), [1985 826](https://fedlex.data.admin.ch/eli/oc/1985/826_826_826), [1986 350](https://fedlex.data.admin.ch/eli/oc/1986/350_350_350), **1987** 2366]
+[^annex1-lvlu1-1]: [[RO 1972 3037](https://fedlex.data.admin.ch/eli/oc/1972/2982_3037_2817); **1987** 2346]
+[^annex1-lvlu1-2]: [[RO 1972 1712](https://fedlex.data.admin.ch/eli/oc/1972/1684_1712_1888); [1975 1711](https://fedlex.data.admin.ch/eli/oc/1975/1711_1711_1711); [1985 826](https://fedlex.data.admin.ch/eli/oc/1985/826_826_826); [1986 350](https://fedlex.data.admin.ch/eli/oc/1986/350_350_350); **1987** 2366]
 [^annex1-lvlu1-3]: Les mod. peuvent être consultées au [RO 1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393).
 
 Annexe 2*[^t-2]*

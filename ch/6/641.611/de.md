@@ -4,11 +4,11 @@ title: Mineralölsteuerverordnung vom 20. November 1996 (MinöStV)
 short: MinöStV
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1996-11-20
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20210101/de"
 
 (MinöStV)
 
-vom 20. November 1996 (Stand am 1. Januar 2021)
+vom 20. November 1996 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -210,10 +210,11 @@ In den Steueranmeldungen und den periodischen Meldungen müssen:
 
 <sup>3</sup> Sie kann Spezialstatistiken und Sondererhebungen erstellen und veröffentlichen.
 
-<sup>4</sup> Für Spezialstatistiken und Sondererhebungen werden Gebühren nach dem Anhang der Verordnung vom 4. April 2007[^17-1] über die Gebühren der Zollverwaltung erhoben.[^17-2]
+<sup>4</sup> Für Spezialstatistiken und Sondererhebungen werden Gebühren nach dem Anhang der Verordnung vom 4. April 2007[^17-1] über die Gebühren des Bundesamts für Zoll und Grenzsicherheit[^17-2] erhoben.[^17-3]
 
 [^17-1]: [SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
-[^17-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^17-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^17-3]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 ## 2. Kapitel: Tarife
 
@@ -1478,7 +1479,7 @@ Die Meldungen müssen:
 <sup>3</sup> Die Steuerbehörde kann in begründeten Fällen gestatten, dass die Meldungen ohne EDV erstellt und übermittelt werden.
 
 [^82-1]: Fassung gemäss Ziff. I der V vom 12. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3133](https://fedlex.data.admin.ch/eli/oc/2014/528)).
-[^82-2]: [[AS 1983 1007](https://fedlex.data.admin.ch/eli/oc/1983/1007_1007_1007)[1180](https://fedlex.data.admin.ch/eli/oc/1983/1180_1180_1180), [1987 2321](https://fedlex.data.admin.ch/eli/oc/1987/2321_2321_2321), [1995 4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)Art. 3 Ziff. 5, [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)Anhang Ziff. 3, [2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)Anhang Ziff. 6, [2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)Anhang 4 Ziff. II 4, [2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)Anhang 3 Ziff. 5, [2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)Anhang 3 Ziff. 3. [AS 2017 3183](https://fedlex.data.admin.ch/eli/oc/2017/314)Art. 12]. Siehe heute: die Mineralölpflichtlagerverordnung vom 10. Mai 2017 ([SR 531.215.41](https://fedlex.data.admin.ch/eli/cc/2017/314)).
+[^82-2]: [[AS 1983 1007](https://fedlex.data.admin.ch/eli/oc/1983/1007_1007_1007), [1180](https://fedlex.data.admin.ch/eli/oc/1983/1180_1180_1180); [1987 2321](https://fedlex.data.admin.ch/eli/oc/1987/2321_2321_2321); [1995 4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)Art. 3 Ziff. 5; [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)Anhang Ziff. 3; [2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)Anhang Ziff. 6; [2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)Anhang 4 Ziff. II 4; [2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)Anhang 3 Ziff. 5; [2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)Anhang 3 Ziff. 3. [AS 2017 3183](https://fedlex.data.admin.ch/eli/oc/2017/314)Art. 12]. Siehe heute: die Mineralölpflichtlagerverordnung vom 10. Mai 2017 ([SR 531.215.41](https://fedlex.data.admin.ch/eli/cc/2017/314)).
 
 #### Art. 83
 
@@ -1811,7 +1812,7 @@ Das Verfahren nach Absatz 1:
 
 #### Art. 106a
 
-<sup>1</sup> Zu Unrecht erhobene oder zu Unrecht nicht zurückerstattete Beträge werden von der Zollverwaltung vom Zeitpunkt der Zahlung an verzinst.
+<sup>1</sup> Zu Unrecht erhobene oder zu Unrecht nicht zurückerstattete Beträge werden vom Bundesamt für Zoll und Grenzsicherheit vom Zeitpunkt der Zahlung an verzinst.
 
 <sup>2</sup> Das EFD legt die Zinssätze fest und regelt, bis zu welchem Betrag kein Vergütungszins ausgerichtet wird.
 
@@ -1868,8 +1869,8 @@ Anhang 1
 
 2.–6. ...[^annex1-lvlu1-3]
 
-[^annex1-lvlu1-1]: [[AS 1972 2982](https://fedlex.data.admin.ch/eli/oc/1972/2982_3037_2817), **1987** 2347]
-[^annex1-lvlu1-2]: [[AS 1972 1684](https://fedlex.data.admin.ch/eli/oc/1972/1684_1712_1888), [1975 1711](https://fedlex.data.admin.ch/eli/oc/1975/1711_1711_1711), [1985 826](https://fedlex.data.admin.ch/eli/oc/1985/826_826_826),[1986 350](https://fedlex.data.admin.ch/eli/oc/1986/350_350_350),**1987** 2364]
+[^annex1-lvlu1-1]: [[AS 1972 2982](https://fedlex.data.admin.ch/eli/oc/1972/2982_3037_2817); **1987** 2347]
+[^annex1-lvlu1-2]: [[AS 1972 1684](https://fedlex.data.admin.ch/eli/oc/1972/1684_1712_1888); [1975 1711](https://fedlex.data.admin.ch/eli/oc/1975/1711_1711_1711); [1985 826](https://fedlex.data.admin.ch/eli/oc/1985/826_826_826);[1986 350](https://fedlex.data.admin.ch/eli/oc/1986/350_350_350);**1987** 2364]
 [^annex1-lvlu1-3]: Die Änderungen können unter [AS 1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)konsultiert werden.
 
 Anhang 2*[^t-1]*
