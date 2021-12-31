@@ -4,13 +4,13 @@ number: "211.1"
 title: "Loi sur l'introduction du Code civil suisse *"
 short: LiCCS
 language: fr
-version: 2021-12-01
-valid_until: 2021-12-31
-version_adopted: 2021-03-08
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-03-09
 adopted: 1911-05-28
 in_force: 1912-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/211.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2410/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2469/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2410/pdf_file"
 
 (LiCCS)
 
-du 28.05.1911 (état au 01.12.2021)
+du 28.05.1911 (état au 01.01.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -258,9 +258,10 @@ décrète:
 
 <sup>2</sup> Il peut soit créer ses propres offices de consultation, soit amener, par voie contractuelle ou par le biais de subventions, des responsables des communes ou des Eglises ou des responsables privés à remplir cette tâche cantonale.
 
-<sup>3</sup> Les offices de consultation selon l’alinéa 2 sont considérés comme des prestations de l’aide sociale institutionnelle au sens de la loi du 11 juin 2001 sur l’aide sociale (LASoc)[^20b-1]. Les dépenses du canton pour les centres de consultation sont admises à la compensation des charges conformément à la loi sur l’aide sociale.
+<sup>3</sup> Les offices de consultation selon l’alinéa 2 sont considérés comme des programmes d’action sociale au sens de la loi du 9 mars 2021 sur les programmes d’action sociale (LPASoc)[^20b-1]. Les dépenses du canton pour les centres de consultation sont admises à la compensation des charges conformément à la loi du 11 juin 2001 sur l’aide sociale (LASoc)[^20b-2].
 
-[^20b-1]: RSB 860.1
+[^20b-1]: RSB [860.2](https://www.belex.sites.be.ch/data/860.2/fr)
+[^20b-2]: RSB [860.1](https://www.belex.sites.be.ch/data/860.1/fr)
 
 #### Art. 21
 
@@ -272,59 +273,13 @@ décrète:
 
 <sup>3</sup> Le droit de consulter le registre des régimes matrimoniaux demeure garanti.
 
-#### Art. 21a–25
-
-**…**
-
-#### Art. 26
-
-**3 Placement d'enfants 3.1 Régime de l'autorisation; autorités concédantes en matière de placement chez des parents nourriciers et de placement dans des institutions**
-
-<sup>1</sup> Les autorités cantonales et l’autorité bourgeoisiale de protection de l’enfant et de l’adulte délivrent les autorisations d’accueillir des enfants domiciliés en Suisse qui ne sont pas placés en vue de leur adoption. Le Conseil-exécutif peut déléguer par voie d’ordonnance la compétence en matière d’autorisation à des autorités cantonales ou communales appropriées. Dans ce cas, les tâches de surveillance énoncées à l’article 26a sont également transférées à ces autorités.
-
-<sup>2</sup> Le service compétent de la Direction de l’intérieur et de la justice délivre l'autorisation de prendre en pension des enfants de nationalité étrangère ayant vécu jusqu'alors à l'étranger.
-
-<sup>3</sup> Le service compétent de la Direction de l’intérieur et de la justice délivre l’autorisation d’accueillir un enfant en vue de son adoption.
-
-<sup>4</sup> Le service compétent de la Direction de l’intérieur et de la justice délivre l'autorisation pour l'exploitation d'une institution conformément à l'article 316 CCS et aux dispositions d'exécution.
-
-#### Art. 26a
-
-**3.2 Surveillance 3.2.1 exercée par les autorités de protection de l’enfant et de l’adulte**
-
-<sup>1</sup> Les autorités cantonales de protection de l’enfant et de l’adulte exercent la surveillance sur tous les parents de jour et parents nourriciers domiciliés dans leur territoire de compétence. Elles peuvent déléguer l’exercice de tâches de surveillance déterminées aux services sociaux ou à des personnes privées qualifiées. Si des tâches sont déléguées durablement à des personnes privées, un contrat de prestations est conclu avec ces dernières, qui fixe la nature, l’ampleur et la qualité des prestations ainsi que leur rétribution et les exigences en matière d’assurance-qualité. Le contrat de prestations est soumis à l’approbation du directoire des autorités de protection de l’enfant et de l’adulte. Il doit être porté à la connaissance de la Direction de l’intérieur et de la justice.
-
-<sup>2</sup> L’autorité bourgeoisiale de protection de l’enfant et de l’adulte exerce la surveillance sur tous les parents de jour et parents nourriciers ressortissants d’une commune bourgeoise pour laquelle elle est compétente, ainsi que sur les institutions et les structures de coordination pour les parents de jour et pour les familles d’accueil exploitées ou mandatées par une telle commune.
-
-<sup>3</sup> Les autorités de protection de l’enfant et de l’adulte ont le droit de présenter au service compétent de la Direction de l’intérieur et de la justice des propositions concernant des enfants de nationalité étrangère placés chez des parents nourriciers et des enfants placés en institution.
-
-<sup>4</sup> Elles prennent les mesures nécessaires en collaboration avec le ou la titulaire du droit de garde de l’enfant placé.
-
-#### Art. 26b
-
-**3.2.2 exercée par le service compétent de la Direction de l’intérieur et de la justice**
-
-<sup>1</sup> Le service compétent de la Direction de l’intérieur et de la justice est chargé de surveiller le placement d'enfants dans des institutions.
-
-<sup>2</sup> Il est en outre l'autorité de haute surveillance pour tout le domaine du placement d'enfants conformément à l'article 316 CCS et aux dispositions d'exécution en la matière.
-
-#### Art. 26c
-
-**3.3 Procédure et voies de droit**
-
-<sup>1</sup> Les décisions des autorités cantonales et de l’autorité bourgeoisiale de protection de l’enfant et de l’adulte relatives au placement d’enfants domiciliés en Suisse à des fins autres que l’adoption (art. 26, al. 1) sont susceptibles de recours devant le Tribunal de la protection de l’enfant et de l’adulte.
-
-<sup>2</sup> Les décisions relatives au placement d’enfants de nationalité étrangère ayant vécu jusqu’alors à l’étranger (art. 26, al. 2 LiCCS) et au placement d’enfants en vue de leur adoption (art. 26, al. 3 LiCCS) sont susceptibles de recours devant la Direction de l’intérieur et de la justice. Les décisions rendues par cette dernière peuvent à leur tour faire l’objet d’un recours devant le Tribunal de la protection de l’enfant et de l’adulte.
-
-<sup>3</sup> Les procédures sont régies par les dispositions de la loi sur la procédure et la juridiction administratives.
-
-#### Art. 26d
+#### Art. 21a–26d
 
 **…**
 
 #### Art. 26e
 
-**4 Voies de droit en matière d’adoption**
+**Voies de droit en matière d’adoption**
 
 <sup>1</sup> Les décisions et décisions sur recours rendues par la Direction de l’intérieur et de la justice en matière d’adoption peuvent faire l’objet d’un recours, dans un délai de 30 jours, devant le Tribunal de la protection de l’enfant et de l’adulte.
 
@@ -833,7 +788,7 @@ décrète:
 <sup>1</sup> Il existe une hypothèque légale, indépendamment de toute inscription au registre foncier, en faveur
 
 - a de l’Assurance immobilière Berne, sur le bâtiment assuré, afin de garantir les créances de primes dues pour ce bâtiment, pour l’année au cours de laquelle la déclaration de faillite du ou de la propriétaire ou la réquisition de vente est intervenue ainsi que pour les deux années précédentes;
-- b de l’organisme responsable du service social, sur les immeubles des propriétaires fonciers ayant bénéficié de l’aide matérielle octroyée en vertu de l’article 34, alinéa 1 LASoc, pour assurer le remboursement dû à la réalisation de la valeur d’un immeuble ou au moment où une telle réalisation devient possible au sens de l’article 40, alinéa 2 LASoc;
+- b …
 - c de l’organisme responsable d’un projet collectif, sur l’immeuble concerné, pour garantir les parts aux frais lors d’améliorations foncières et forestières conformément à la loi du 16 juin 1997 sur la procédure des améliorations foncières et forestières (LPAF)[^109b-1];
 - d du syndicat de remaniement, pour garantir ses créances à l’égard des propriétaires fonciers participants, conformément au décret édicté par le Grand Conseil sur la base de l’article 143, alinéa 1, lettre d LC.
 
@@ -849,12 +804,12 @@ décrète:
 
 **3.5 Effet**
 
-<sup>1</sup> A l’exception du droit de gage immobilier prévu par l’article 109b, lettre a, les hypothèques légales s’éteignent si elles n’ont pas été inscrites au registre foncier dans un délai de six mois. Le délai commence à courir
+<sup>1</sup> A l’exception du droit de gage immobilier prévu par l’article 109b, alinéa 1, lettre a, les hypothèques légales s’éteignent si elles n’ont pas été inscrites au registre foncier dans un délai de six mois. Le délai commence à courir
 
-- a dès l’entrée en force de la taxation ou de la décision pour un droit de gage immobilier au sens des articles 109, 109a et 109b, lettres b et c,
+- a dès l’entrée en force de la taxation ou de la décision pour un droit de gage immobilier au sens des articles 109, 109a et 109b, alinéa 1, lettre c,
 - b dès l’entrée en force du jugement sur la créance de compensation des charges pour un droit de gage immobilier au sens de l’article 109c.
 
-<sup>2</sup> L’hypothèque légale au sens de l’article 109b, lettre a s’éteint si elle n’est pas inscrite au registre foncier dans un délai de douze mois à compter de l’entrée en force de la décision levant l’opposition.
+<sup>2</sup> L’hypothèque légale au sens de l’article 109b, alinéa 1, lettre a s’éteint si elle n’est pas inscrite au registre foncier dans un délai de douze mois à compter de l’entrée en force de la décision levant l’opposition.
 
 <sup>3</sup> Lorsqu’un sursis au paiement ou un échelonnement de celui-ci est accordé, le délai d’inscription est reporté d’autant.
 

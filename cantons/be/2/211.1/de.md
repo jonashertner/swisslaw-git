@@ -4,13 +4,13 @@ number: "211.1"
 title: Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches
 short: EG ZGB
 language: de
-version: 2021-12-01
-valid_until: 2021-12-31
-version_adopted: 2021-03-08
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-03-09
 adopted: 1911-05-28
 in_force: 1912-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/211.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2410/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2469/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2410/pdf_file"
 
 (EG ZGB)
 
-vom 28.05.1911 (Stand 01.12.2021)
+vom 28.05.1911 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -256,9 +256,10 @@ beschliesst:
 
 <sup>2</sup> Er kann entweder eigene Beratungsstellen schaffen oder kommunale, kirchliche oder private Träger durch Verträge und finanzielle Unterstützung dazu veranlassen, diese kantonale Aufgabe wahrzunehmen.
 
-<sup>3</sup> Partnerschaftsberatungsstellen gemäss Absatz 2 gelten als institutionelle Leistungsangebote nach dem Gesetz vom 11. Juni 2001 über die öffentliche Sozialhilfe (Sozialhilfegesetz, SHG)[^20b-1]. Die Aufwendungen des Kantons für die Beratungsstellen unterliegen dem Lastenausgleich nach Sozialhilfegesetz.
+<sup>3</sup> Partnerschaftsberatungsstellen gemäss Absatz 2 gelten als soziale Leistungsangebote nach dem Gesetz vom 9. März 2021 über die sozialen Leistungsangebote (SLG)[^20b-1]. Die Aufwendungen des Kantons für die Beratungsstellen unterliegen dem Lastenausgleich nach dem Gesetz vom 11. Juni 2001 über die öffentliche Sozialhilfe (Sozialhilfegesetz, SHG)[^20b-2].
 
-[^20b-1]: BSG 860.1
+[^20b-1]: BSG [860.2](https://www.belex.sites.be.ch/data/860.2/de)
+[^20b-2]: BSG [860.1](https://www.belex.sites.be.ch/data/860.1/de)
 
 #### Art. 21
 
@@ -270,59 +271,13 @@ beschliesst:
 
 <sup>3</sup> Das Recht, in das Güterrechtsregister Einsicht zu nehmen, bleibt gewahrt.
 
-#### Art. 21a–25
-
-**…**
-
-#### Art. 26
-
-**3 Pflegekinderwesen 3.1 Bewilligungspflicht; Bewilligungsbehörden für die Familien- und Heimpflege**
-
-<sup>1</sup> Die kantonalen Kindes- und Erwachsenenschutzbehörden und die burgerliche Kindes- und Erwachsenenschutzbehörde erteilen die Bewilligungen zur Aufnahme von inländischen Pflegekindern, die nicht zum Zweck der späteren Adoption aufgenommen werden. Der Regierungsrat kann durch Verordnung die Bewilligungskompetenz an geeignete kantonale oder kommunale Behörden übertragen. In diesem Fall gehen auch die Aufsichtsaufgaben nach Artikel 26a auf diese Behörden über.
-
-<sup>2</sup> Die zuständige Stelle der Direktion für Inneres und Justiz erteilt die Bewilligung zur Aufnahme von ausländischen Pflegekindern, die bisher im Ausland gelebt haben.
-
-<sup>3</sup> Die zuständige Stelle der Direktion für Inneres und Justiz erteilt die Bewilligung zur Aufnahme eines Kindes zur späteren Adoption.
-
-<sup>4</sup> Die zuständige Stelle der Direktion für Inneres und Justiz erteilt die Bewilligung zur Führung eines Heimpflegebetriebes gemäss Artikel 316 ZGB und den entsprechenden Ausführungsbestimmungen.
-
-#### Art. 26a
-
-**3.2 Aufsicht 3.2.1 durch die Kindes- und Erwachsenenschutzbehörde**
-
-<sup>1</sup> Die kantonalen Kindes- und Erwachsenenschutzbehörden führen die Aufsicht über alle Tages- und Pflegeeltern, die den Wohnsitz in ihrem Zuständigkeitsgebiet haben. Sie können einzelne Aufsichtsaufgaben an die Sozialdienste oder an geeignete Private zur Erledigung übertragen. Für die dauerhafte Aufgabenübertragung an Private ist ein Leistungsvertrag abzuschliessen, in dem Art, Menge und Qualität der Leistungen, deren Abgeltung und die Qualitätssicherung geregelt werden. Der Leistungsvertrag bedarf der Zustimmung durch die Geschäftsleitung der Kindes- und Erwachsenenschutzbehörden. Er ist der Direktion für Inneres und Justiz zur Kenntnis zu bringen.
-
-<sup>2</sup> Die burgerliche Kindes- und Erwachsenenschutzbehörde führt die Aufsicht über Tages- und Pflegeeltern, die einer Burgergemeinde angehören, für welche die Kindes- und Erwachsenenschutzbehörde zuständig ist, sowie über Einrichtungen und Tageseltern- und Pflegeelterndienste, die von einer solchen Burgergemeinde betrieben werden oder in ihrem Auftrag tätig sind.
-
-<sup>3</sup> Die Kindes- und Erwachsenenschutzbehörde ist berechtigt, bei der zuständigen Stelle der Direktion für Inneres und Justiz Anträge für ausländische Kinder in Familienpflege und für Kinder in Heimpflege zu stellen.
-
-<sup>4</sup> Notwendige Massnahmen trifft sie in Zusammenarbeit mit der Inhaberin oder dem Inhaber der Obhut über das Pflegekind.
-
-#### Art. 26b
-
-**3.2.2 durch die zuständige Stelle der Direktion für Inneres und Justiz**
-
-<sup>1</sup> Die zuständige Stelle der Direktion für Inneres und Justiz übt die Aufsicht über die Heimpflegebetriebe aus.
-
-<sup>2</sup> Ihr obliegt zudem die Oberaufsicht über das gesamte Pflegekinderwesen gemäss Artikel 316 ZGB und den entsprechenden Ausführungsbestimmungen.
-
-#### Art. 26c
-
-**3.3 Verfahren und Rechtspflege**
-
-<sup>1</sup> Gegen Verfügungen der kantonalen Kindes- und Erwachsenenschutzbehörden und der burgerlichen Kindes- und Erwachsenenschutzbehörde betreffend die Aufnahme von inländischen Pflegekindern, die nicht zum Zweck der späteren Adoption aufgenommen werden (Art. 26 Abs. 1), kann Beschwerde an das Kindes- und Erwachsenenschutzgericht geführt werden.
-
-<sup>2</sup> Gegen Verfügungen betreffend die Aufnahme von ausländischen Pflegekindern (Art. 26 Abs. 2 EG ZGB) und die Aufnahme eines Kindes zur späteren Adoption (Art. 26 Abs. 3 EG ZGB) kann bei der Direktion für Inneres und Justiz Beschwerde erhoben werden. Deren Entscheide unterliegen der Beschwerde an das Kindes- und Erwachsenenschutzgericht.
-
-<sup>3</sup> Die Verfahren richten sich nach dem VRPG.
-
-#### Art. 26d
+#### Art. 21a–26d
 
 **…**
 
 #### Art. 26e
 
-**4 Rechtspflege in Adoptionssachen**
+**Rechtspflege in Adoptionssachen**
 
 <sup>1</sup> Gegen Verfügungen und Entscheide der Direktion für Inneres und Justiz in Adoptionssachen kann innert 30 Tagen Beschwerde beim Kindes- und Erwachsenenschutzgericht geführt werden.
 
@@ -829,12 +784,11 @@ beschliesst:
 <sup>1</sup> Ein gesetzliches Grundpfandrecht besteht ohne Eintragung in das Grundbuch zu Gunsten
 
 - a der Gebäudeversicherung Bern zur Sicherung der Prämienforderungen, die für das versicherte Gebäude für das Jahr geschuldet sind, in dem der Konkurs über die Hauseigentümerin oder den Hauseigentümer eröffnet oder das Verwertungsbegehren gestellt wird, sowie für die zwei vorausgegangenen Jahre am versicherten Gebäude,
-- b der Trägerschaft des Sozialdienstes zur Sicherung eines durch die Realisierbarkeit oder Realisierung des Werts eines Grundstücks entstehenden Rückforderungsanspruchs nach Artikel 40 Absatz 2 SHG[^109b-1] für die der Grundeigentümerin oder dem Grundeigentümer aufgrund von Artikel 34 Absatz 1 SHG gewährte wirtschaftliche Hilfe an den Grundstücken der Hilfeempfängerin oder des Hilfeempfängers,
-- c der Trägerschaft eines gemeinschaftlichen Unternehmens zur Sicherung der Kostenanteile bei Boden- und Waldverbesserungen nach dem Gesetz vom 16. Juni 1997 über das Verfahren bei Boden- und Waldverbesserungen (VBWG)[^109b-2] am betreffenden Grundstück,
+- b …
+- c der Trägerschaft eines gemeinschaftlichen Unternehmens zur Sicherung der Kostenanteile bei Boden- und Waldverbesserungen nach dem Gesetz vom 16. Juni 1997 über das Verfahren bei Boden- und Waldverbesserungen (VBWG)[^109b-1] am betreffenden Grundstück,
 - d der Umlegungsgenossenschaft zur Sicherung ihrer Forderungen gegen beteiligte Grundeigentümerinnen und Grundeigentümer nach dem vom Grossen Rat gestützt auf Artikel 143 Absatz 1 Buchstabe d BauG erlassenen Dekret.
 
-[^109b-1]: BSG 860.1
-[^109b-2]: BSG 913.1
+[^109b-1]: BSG 913.1
 
 #### Art. 109c
 
@@ -846,12 +800,12 @@ beschliesst:
 
 **3.5 Wirksamkeit**
 
-<sup>1</sup> Mit Ausnahme des Grundpfandrechts nach Artikel 109b Buchstabe a erlöschen die gesetzlichen Grundpfandrechte, wenn sie nicht innerhalb von sechs Monaten im Grundbuch eingetragen werden. Die Frist beginnt zu laufen
+<sup>1</sup> Mit Ausnahme des Grundpfandrechts nach Artikel 109b Absatz 1 Buchstabe a erlöschen die gesetzlichen Grundpfandrechte, wenn sie nicht innerhalb von sechs Monaten im Grundbuch eingetragen werden. Die Frist beginnt zu laufen
 
-- a bei einem Grundpfandrecht nach den Artikeln 109, 109a und 109b Buchstabe b und c mit dem Eintritt der Rechtskraft der Veranlagung oder Verfügung,
+- a bei einem Grundpfandrecht nach den Artikeln 109, 109a und 109b Absatz 1 Buchstabe c mit dem Eintritt der Rechtskraft der Veranlagung oder Verfügung,
 - b bei einem Grundpfandrecht nach Artikel 109c mit dem Eintritt der Rechtskraft des Urteils über die Lastenausgleichsforderung.
 
-<sup>2</sup> Das gesetzliche Grundpfandrecht nach Artikel 109b Buchstabe a erlischt, wenn es nicht innerhalb von zwölf Monaten seit Rechtskraft der den Rechtsvorschlag aufhebenden Verfügung eingetragen wird.
+<sup>2</sup> Das gesetzliche Grundpfandrecht nach Artikel 109b Absatz 1 Buchstabe a erlischt, wenn es nicht innerhalb von zwölf Monaten seit Rechtskraft der den Rechtsvorschlag aufhebenden Verfügung eingetragen wird.
 
 <sup>3</sup> Bei einem Zahlungsaufschub in Form einer Stundung oder Gewährung von Teilzahlungen verschiebt sich die Frist zur Eintragung um dessen Dauer.
 
