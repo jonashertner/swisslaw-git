@@ -3,20 +3,19 @@ canton: FR
 number: "122.70.18"
 title: Ordonnance relative à la contribution de soutien en faveur des associations de personnel
 language: fr
-version: 2007-01-01
-valid_until: 2021-12-31
-version_adopted: 2006-12-12
+version: 2022-01-01
+version_adopted: 2021-11-30
 adopted: 2006-12-12
 in_force: 2007-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.70.18"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5022/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7013/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance relative à la contribution de soutien en faveur des associations de personnel
 
-du 12.12.2006 (version entrée en vigueur le 01.01.2007)
+du 12.12.2006 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -36,7 +35,7 @@ Arrête:
 
 **Montant de la contribution de soutien facultative**
 
-<sup>1</sup> Le montant de la contribution de soutien facultative (ci-après: la contribution) s'élève à 2 francs par mois (24 francs par an).
+<sup>1</sup> Le montant de la contribution de soutien facultative (ci-après: la contribution) s'élève à 2,50 francs par mois (30 francs par an).
 
 <sup>2</sup> Il n'est pas fractionné en fonction du taux d'activité.
 

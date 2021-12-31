@@ -3,20 +3,19 @@ canton: FR
 number: "122.70.18"
 title: Verordnung über den Unterstützungsbeitrag an die Personalverbände
 language: de
-version: 2007-01-01
-valid_until: 2021-12-31
-version_adopted: 2006-12-12
+version: 2022-01-01
+version_adopted: 2021-11-30
 adopted: 2006-12-12
 in_force: 2007-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.70.18"
-pdf: "https://bdlf.fr.ch/api/de/versions/5022/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7013/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Unterstützungsbeitrag an die Personalverbände
 
-vom 12.12.2006 (Fassung in Kraft getreten am 01.01.2007)
+vom 12.12.2006 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -36,7 +35,7 @@ beschliesst:
 
 **Höhe des freiwilligen Unterstützungsbeitrags**
 
-<sup>1</sup> Der freiwillige Unterstützungsbeitrag (der Unterstützungsbeitrag) beträgt zwei Franken pro Monat (24 Franken pro Jahr).
+<sup>1</sup> Der freiwillige Unterstützungsbeitrag (der Unterstützungsbeitrag) beträgt Fr. 2.50 pro Monat (30 Franken pro Jahr).
 
 <sup>2</sup> Er wird nicht im Verhältnis zum Beschäftigungsgrad erhoben.
 
