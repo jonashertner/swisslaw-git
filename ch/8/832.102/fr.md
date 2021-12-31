@@ -4,11 +4,11 @@ title: "Ordonnance du 27 juin 1995 sur l'assurance-maladie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: fr
-version: 2021-10-01
+version: 2022-01-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20211001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20211001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20211001/fr"
 
 (OAMal)
 
-du 27 juin 1995 (Etat le 1<sup>er</sup> octobre 2021)
+du 27 juin 1995 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -78,48 +78,49 @@ Sont en outre tenus de s’assurer:
 
 Sont exceptés de l’obligation de s’assurer:
 
-- a.[^2-1] les agents de la Confédération, en exercice ou retraités, qui sont soumis à l’assurance militaire en vertu de l’art. 1*a*, al. 1, let. b, ch. 1 à 7, et de l’art. 2 de la loi fédérale du 19 juin 1992 sur l’assurance militaire (LAM)[^2-2];
+- a.[^2-1] les agents de la Confédération, en exercice ou retraités, qui sont soumis à l’assurance militaire en vertu de l’art. 1*a*, al. 1, let. b, ch. 1 à 7[^2-2], et de l’art. 2 de la loi fédérale du 19 juin 1992 sur l’assurance militaire (LAM)[^2-3];
 - b. les personnes qui séjournent en Suisse dans le seul but de suivre un traitement médical ou une cure;
-- c.[^2-3] les personnes qui, en vertu de l’Accord sur la libre circulation des personnes[^2-4] et de son annexe II, de l’Accord AELE[^2-5], de son annexe K et de l’appendice 2 de l’annexe K ou d’une convention sur la sécurité sociale, sont soumises aux dispositions légales d’un autre État parce qu’elles exercent une activité lucrative dans cet État;
-- d.[^2-6] les personnes qui, parce qu’elles perçoivent une prestation d’une assurance-chômage étrangère en vertu de l’Accord sur la libre circulation des personnes et de son annexe II ou de l’Accord AELE, de son annexe K et de l’appendice 2 de l’annexe K, sont assujetties aux dispositions légales d’un autre État;
-- e.[^2-7] les personnes qui n’ont pas droit à une rente suisse, mais qui, en vertu de l’Accord sur la libre circulation des personnes et de son annexe II, ont droit à une rente d’un État membre de l’Union européenne ou qui, en vertu de l’Accord AELE, de son annexe K et de l’appendice 2 de l’annexe K, ont droit à une rente islandaise ou norvégienne;
-- f.[^2-8] les personnes qui sont assurées en tant que membres de la famille des personnes mentionnées aux let. c, d ou e, auprès de l’assurance-maladie étrangère de ces dernières et qui soit ont droit à l’entraide en matière de prestations, soit bénéficient d’une couverture équivalente pour les traitements en Suisse;
-- g.[^2-9] les personnes qui sont assurées en tant que membres de la famille de personnes auprès de l’assurance-maladie étrangère de ces dernières et qui ont droit à l’entraide en matière de prestations.
+- c.[^2-4] les personnes qui, en vertu de l’Accord sur la libre circulation des personnes[^2-5] et de son annexe II, de l’Accord AELE[^2-6], de son annexe K et de l’appendice 2 de l’annexe K ou d’une convention sur la sécurité sociale, sont soumises aux dispositions légales d’un autre État parce qu’elles exercent une activité lucrative dans cet État;
+- d.[^2-7] les personnes qui, parce qu’elles perçoivent une prestation d’une assurance-chômage étrangère en vertu de l’Accord sur la libre circulation des personnes et de son annexe II ou de l’Accord AELE, de son annexe K et de l’appendice 2 de l’annexe K, sont assujetties aux dispositions légales d’un autre État;
+- e.[^2-8] les personnes qui n’ont pas droit à une rente suisse, mais qui, en vertu de l’Accord sur la libre circulation des personnes et de son annexe II, ont droit à une rente d’un État membre de l’Union européenne ou qui, en vertu de l’Accord AELE, de son annexe K et de l’appendice 2 de l’annexe K, ont droit à une rente islandaise ou norvégienne;
+- f.[^2-9] les personnes qui sont assurées en tant que membres de la famille des personnes mentionnées aux let. c, d ou e, auprès de l’assurance-maladie étrangère de ces dernières et qui soit ont droit à l’entraide en matière de prestations, soit bénéficient d’une couverture équivalente pour les traitements en Suisse;
+- g.[^2-10] les personnes qui sont assurées en tant que membres de la famille de personnes auprès de l’assurance-maladie étrangère de ces dernières et qui ont droit à l’entraide en matière de prestations.
 
-<sup>2</sup> Sont exceptées sur requête les personnes qui sont obligatoirement assurées contre la maladie en vertu du droit d’un État avec lequel il n’existe pas de réglementation sur la délimitation de l’obligation de s’assurer, dans la mesure où l’assujettissement à l’assurance suisse signifierait une double charge et pour autant qu’elles bénéficient d’une couverture d’assurance équivalente pour les traitements en Suisse. La requête doit être accompagnée d’une attestation écrite de l’organisme étranger compétent donnant tous les renseignements nécessaires.[^2-10]
+<sup>2</sup> Sont exceptées sur requête les personnes qui sont obligatoirement assurées contre la maladie en vertu du droit d’un État avec lequel il n’existe pas de réglementation sur la délimitation de l’obligation de s’assurer, dans la mesure où l’assujettissement à l’assurance suisse signifierait une double charge et pour autant qu’elles bénéficient d’une couverture d’assurance équivalente pour les traitements en Suisse. La requête doit être accompagnée d’une attestation écrite de l’organisme étranger compétent donnant tous les renseignements nécessaires.[^2-11]
 
-<sup>3</sup> ...[^2-11]
+<sup>3</sup> …[^2-12]
 
-<sup>4</sup> Sont exceptées sur requête les personnes qui séjournent en Suisse dans le cadre d’une formation ou d’un perfectionnement, telles que les étudiants, les écoliers et les stagiaires, ainsi que les membres de leur famille au sens de l’art. 3, al. 2, qui les accompagnent, pour autant que, pendant toute la durée de validité de l’exception, ils bénéficient d’une couverture d’assurance équivalente pour les traitements en Suisse.[^2-12] La requête doit être accompagnée d’une attestation écrite de l’organisme étranger compétent donnant tous les renseignements nécessaires. L’autorité cantonale compétente peut excepter ces personnes de l’obligation de s’assurer pour trois années au plus. Sur requête, l’exception peut être prolongée pour trois autres années au plus. L’intéressé ne peut revenir sur l’exception ou la renonciation à une exception sans raisons particulières.[^2-13]
+<sup>4</sup> Sont exceptées sur requête les personnes qui séjournent en Suisse dans le cadre d’une formation ou d’un perfectionnement, telles que les étudiants, les écoliers et les stagiaires, ainsi que les membres de leur famille au sens de l’art. 3, al. 2, qui les accompagnent, pour autant que, pendant toute la durée de validité de l’exception, ils bénéficient d’une couverture d’assurance équivalente pour les traitements en Suisse.[^2-13] La requête doit être accompagnée d’une attestation écrite de l’organisme étranger compétent donnant tous les renseignements nécessaires. L’autorité cantonale compétente peut excepter ces personnes de l’obligation de s’assurer pour trois années au plus. Sur requête, l’exception peut être prolongée pour trois autres années au plus. L’intéressé ne peut revenir sur l’exception ou la renonciation à une exception sans raisons particulières.[^2-14]
 
-<sup>4bis</sup> ...[^2-14]
+<sup>4bis</sup> …[^2-15]
 
-<sup>5</sup> Sont exceptés sur requête les travailleurs détachés en Suisse qui sont exemptés de l’obligation de payer les cotisations de l’assurance-vieillesse, survivants et invalidité suisse (AVS/AI) en vertu d’une convention internationale de sécurité sociale, ainsi que les membres de leur famille au sens de l’art. 3, al. 2, lorsque leur employeur s’engage à ce que, pendant toute la durée de validité de l’exception, au moins les prestations prévues par la LAMal soient assurées pour les traitements en Suisse. Cette disposition est applicable par analogie aux autres personnes exemptées de l’obligation de payer des cotisations de l’AVS/AI par une autorisation exceptionnelle prévue dans une convention internationale en cas de séjour temporaire en Suisse. L’intéressé ou son employeur ne peut revenir sur l’exception ou la renonciation à une exception.[^2-15]
+<sup>5</sup> Sont exceptés sur requête les travailleurs détachés en Suisse qui sont exemptés de l’obligation de payer les cotisations de l’assurance-vieillesse, survivants et invalidité suisse (AVS/AI) en vertu d’une convention internationale de sécurité sociale, ainsi que les membres de leur famille au sens de l’art. 3, al. 2, lorsque leur employeur s’engage à ce que, pendant toute la durée de validité de l’exception, au moins les prestations prévues par la LAMal soient assurées pour les traitements en Suisse. Cette disposition est applicable par analogie aux autres personnes exemptées de l’obligation de payer des cotisations de l’AVS/AI par une autorisation exceptionnelle prévue dans une convention internationale en cas de séjour temporaire en Suisse. L’intéressé ou son employeur ne peut revenir sur l’exception ou la renonciation à une exception.[^2-16]
 
-<sup>6</sup> Sont exceptées sur requête les personnes qui résident dans un État membre de l’Union européenne, pour autant qu’elles puissent être exceptées de l’obligation de s’assurer en vertu de l’Accord sur la libre circulation des personnes et de son annexe II et qu’elles prouvent qu’elles bénéficient dans l’État de résidence et lors d’un séjour dans un autre État membre de l’Union européenne et en Suisse d’une couverture en cas de maladie.[^2-16]
+<sup>6</sup> Sont exceptées sur requête les personnes qui résident dans un État membre de l’Union européenne, pour autant qu’elles puissent être exceptées de l’obligation de s’assurer en vertu de l’Accord sur la libre circulation des personnes et de son annexe II et qu’elles prouvent qu’elles bénéficient dans l’État de résidence et lors d’un séjour dans un autre État membre de l’Union européenne et en Suisse d’une couverture en cas de maladie.[^2-17]
 
-<sup>7</sup> Sont exceptées sur requête les personnes qui disposent d’une autorisation de séjour pour personnes sans activité lucrative conformément à l’Accord sur la libre circulation des personnes et à l’Accord AELE, pour autant que, pendant toute la durée de validité de l’exception, elles bénéficient d’une couverture d’assurance équivalente pour les traitements en Suisse. La requête doit être accompagnée d’une attestation écrite de l’organisme étranger compétent donnant tous les renseignements nécessaires. L’intéressé ne peut revenir sur l’exception ou la renonciation à une exception sans raisons particulières.[^2-17]
+<sup>7</sup> Sont exceptées sur requête les personnes qui disposent d’une autorisation de séjour pour personnes sans activité lucrative conformément à l’Accord sur la libre circulation des personnes et à l’Accord AELE, pour autant que, pendant toute la durée de validité de l’exception, elles bénéficient d’une couverture d’assurance équivalente pour les traitements en Suisse. La requête doit être accompagnée d’une attestation écrite de l’organisme étranger compétent donnant tous les renseignements nécessaires. L’intéressé ne peut revenir sur l’exception ou la renonciation à une exception sans raisons particulières.[^2-18]
 
-<sup>8</sup> Sont exceptées sur requête les personnes dont l’adhésion à l’assurance suisse engendrerait une nette dégradation de la protection d’assurance ou de la couverture des frais et qui, en raison de leur âge et/ou de leur état de santé, ne pourraient pas conclure une assurance complémentaire ayant la même étendue ou ne pourraient le faire qu’à des conditions difficilement acceptables. La requête doit être accompagnée d’une attestation écrite de l’organisme étranger compétent donnant tous les renseignements nécessaires. L’intéressé ne peut revenir sur l’exception ou la renonciation à une exception sans raisons particulières.[^2-18]
+<sup>8</sup> Sont exceptées sur requête les personnes dont l’adhésion à l’assurance suisse engendrerait une nette dégradation de la protection d’assurance ou de la couverture des frais et qui, en raison de leur âge et/ou de leur état de santé, ne pourraient pas conclure une assurance complémentaire ayant la même étendue ou ne pourraient le faire qu’à des conditions difficilement acceptables. La requête doit être accompagnée d’une attestation écrite de l’organisme étranger compétent donnant tous les renseignements nécessaires. L’intéressé ne peut revenir sur l’exception ou la renonciation à une exception sans raisons particulières.[^2-19]
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
-[^2-2]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^2-3]: Introduite par le ch. I de l’O du 22 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^2-4]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^2-5]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^2-6]: Introduite par le ch. I de l’O du 22 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^2-7]: Introduite par le ch. I de l’O du 22 mai 2002 ([RO 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Nouvelle teneur selon le ch. I de l’O du 2 nov. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
-[^2-8]: Introduite par le ch. I de l’O du 22 mai 2002 ([RO 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Nouvelle teneur selon le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^2-9]: Introduite par le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^2-10]: Nouvelle teneur selon le ch. I de l’O du 22 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^2-11]: Abrogé par le ch. I de l’O du 22 mai 2002, avec effet 1<sup>er</sup> juin 2002 ([RO 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^2-12]: Nouvelle teneur selon le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^2-13]: Introduit par le ch. I de l’O du 25 nov. 1996 ([RO 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Nouvelle teneur selon le ch. I de l’O du 3 juil. 2001, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
-[^2-14]: Introduit par le ch. I de l’O du 3 juil. 2001, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Abrogé par le ch. I de l’O du 29 nov. 2013, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
-[^2-15]: Introduit par le ch. I de l’O du 25 nov. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
-[^2-16]: Introduit par le ch. I de l’O du 3 juil. 2001 ([RO 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nouvelle teneur selon le ch. I de l’O du 2 nov. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
-[^2-17]: Introduit par le ch. I de l’O du 3 juil. 2001 ([RO 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nouvelle teneur selon le ch. I de l’O du 22 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^2-18]: Introduit par le ch. I de l’O du 3 juil. 2001, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^2-2]: Actuellement: art. 1*a* al. 1 let. b ch. 1 à 6
+[^2-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^2-4]: Introduite par le ch. I de l’O du 22 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^2-5]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^2-6]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^2-7]: Introduite par le ch. I de l’O du 22 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^2-8]: Introduite par le ch. I de l’O du 22 mai 2002 ([RO 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Nouvelle teneur selon le ch. I de l’O du 2 nov. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^2-9]: Introduite par le ch. I de l’O du 22 mai 2002 ([RO 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Nouvelle teneur selon le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^2-10]: Introduite par le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^2-11]: Nouvelle teneur selon le ch. I de l’O du 22 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^2-12]: Abrogé par le ch. I de l’O du 22 mai 2002, avec effet 1<sup>er</sup> juin 2002 ([RO 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^2-13]: Nouvelle teneur selon le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^2-14]: Introduit par le ch. I de l’O du 25 nov. 1996 ([RO 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Nouvelle teneur selon le ch. I de l’O du 3 juil. 2001, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^2-15]: Introduit par le ch. I de l’O du 3 juil. 2001, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Abrogé par le ch. I de l’O du 29 nov. 2013, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^2-16]: Introduit par le ch. I de l’O du 25 nov. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
+[^2-17]: Introduit par le ch. I de l’O du 3 juil. 2001 ([RO 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nouvelle teneur selon le ch. I de l’O du 2 nov. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^2-18]: Introduit par le ch. I de l’O du 3 juil. 2001 ([RO 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nouvelle teneur selon le ch. I de l’O du 22 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^2-19]: Introduit par le ch. I de l’O du 3 juil. 2001, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
 #### Art. 3
 
@@ -331,7 +332,7 @@ Les assureurs renseignent par écrit les assurés mentionnés à l’art. 6*a*, 
 
 ### Titre 2 Organisation
 
-### Chapitre 1 ...
+### Chapitre 1 …
 
 #### Art. 12 à 15
 
@@ -345,7 +346,7 @@ Les assureurs renseignent par écrit les assurés mentionnés à l’art. 6*a*, 
 
 [^15a-1]: Introduit par le ch. I de l’O du 3 juil. 2001 ([RO 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Abrogé par l’annexe ch. 3 de l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
-### Chapitre 2 ...
+### Chapitre 2 …
 
 #### Art. 16 à 18
 
@@ -451,7 +452,7 @@ L’institution commune tranche sous la forme d’une décision au sens de l’a
 
 ### Chapitre 5 Surveillance
 
-### Section 1 ...
+### Section 1 …
 
 #### Art. 24 à 26
 
@@ -639,17 +640,18 @@ Les fournisseurs de prestations communiquent à l’Office fédéral de la stati
 
 L’OFS transmet aux destinataires suivants les données ci-après:
 
-- a.[^30b-2] à l’OFSP: les données visées à l’art. 30, pour autant qu’elles soient nécessaires à l’évaluation des tarifs (art. 43, 46, al. 4, et 47 LAMal), pour les comparaisons entre hôpitaux (art. 49, al. 8, LAMal), pour le contrôle du caractère économique et de la qualité des prestations (art. 32, 58, 58*h* et 59 LAMal) et pour la publication des données (art. 59*a*, al. 3, LAMal);
+- a.[^30b-2] à l’OFSP: les données visées à l’art. 30, pour autant qu’elles soient nécessaires pour évaluer les tarifs (art. 43, 46, al. 4, et 47 LAMal), procéder aux comparaisons entre hôpitaux (art. 49, al. 8, LAMal), contrôler le caractère économique et la qualité des prestations (art. 32, 58 et 59 LAMal), définir les critères et les principes méthodologiques à appliquer pour fixer les nombres maximaux (art. 55*a*, al. 2, LAMal) ou publier des données (art. 59*a*, al. 3, LAMal);
 - a<sup>bis</sup>.[^30b-3] à la Commission fédérale pour la qualité: les données nécessaires pour remplir les tâches visées à l’art. 58*c* LAMal;
 - b.
 
   aux autorités cantonales compétentes:
 
   - 1\. les données visées à l’art. 30, pour autant qu’elles soient nécessaires pour la planification des hôpitaux, des maisons de naissance et des établissements médico-sociaux (art. 39 LAMal),
-  - 2\. les données visées à l’art. 30, let. a, d et e, pour autant qu’elles soient nécessaires pour l’évaluation des tarifs (art. 43, 46, al. 4, et 47 LAMal);
+  - 2\. les données visées à l’art. 30, let. a, d et e, pour autant qu’elles soient nécessaires pour l’évaluation des tarifs (art. 43, 46, al. 4, et 47 LAMal),
+  - 3\.[^30b-4] les données visées à l’art. 30, pour autant qu’elles soient nécessaires pour fixer les nombres maximaux (art. 55*a* LAMal);
 
 - c. aux assureurs: les données visées à l’art. 30, let. a, c, d et e, pour autant qu’elles soient nécessaires pour appliquer les dispositions relatives au contrôle du caractère économique des prestations prises en charge par l’assurance obligatoire des soins;
-- d. au Surveillant des prix: les données visées à l’art. 30, pour autant qu’elles soient nécessaires pour l’examen des prix et des tarifs dans le système de santé au sens de l’art. 14 de la loi fédérale du 20 décembre 1985 concernant la surveillance des prix[^30b-4].
+- d. au Surveillant des prix: les données visées à l’art. 30, pour autant qu’elles soient nécessaires pour l’examen des prix et des tarifs dans le système de santé au sens de l’art. 14 de la loi fédérale du 20 décembre 1985 concernant la surveillance des prix[^30b-5].
 
 <sup>2</sup> Il garantit l’anonymat du personnel au sens de l’art. 30, let. b, et celui des patients au sens de l’art. 30, let. c, lors de la transmission des données personnelles.
 
@@ -661,9 +663,10 @@ Les données visées à l’art. 30 sont en principe transmises sous forme agré
 - b. aux autorités cantonales compétentes pour la planification des hôpitaux, des maisons de naissance et des établissements médico-sociaux.
 
 [^30b-1]: Introduit par le ch. I de l’O du 29 juin 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
-[^30b-2]: Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^30b-2]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^30b-3]: Introduite par le ch. I de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
-[^30b-4]: [RS 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
+[^30b-4]: Introduit par le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^30b-5]: [RS 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
 
 #### Art. 30c
 
@@ -749,9 +752,11 @@ Les listes désignées à l’art. 52, al. 1, let. a, ch. 1 (liste des analyses)
 
 #### Art. 35
 
-**Mesures thérapeutiques en cas d’infirmité congénitale**
+**Infirmité congénitale**[^35-1]
 
-Les mesures thérapeutiques prodiguées en cas d’infirmité congénitale (art. 52, al. 2, LAMal) doivent être prises en charge par l’assurance obligatoire des soins, dès que l’assuré atteint l’âge auquel cesse le droit aux prestations de l’assurance-invalidité.
+Le DFI veille à ce que les mesures médicales prodiguées en cas d’infirmité congénitale soient prises en charge par l’assurance obligatoire des soins dès que l’assuré atteint l’âge auquel cesse le droit aux prestations de l’assurance-invalidité, en tenant compte des conditions énoncées aux art. 32 à 34 et 43 à 52*a* de la loi.
+
+[^35-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 35a
 
@@ -970,30 +975,48 @@ Elle se compose de 16 membres, à savoir:[^37f-3]
 
 ### Chapitre 1 Admission
 
-### Section 1**** Médecins
+### Section 1**** Médecins et institutions de soins ambulatoires dispensés par des médecins
 
 [^part1-tit4-chap1-sec1-1]
 
-[^part1-tit4-chap1-sec1-1]: Nouvelle teneur selon l’art. 17 de l’O du 27 juin 2007 concernant les diplômes, la formation universitaire, la formation postgrade et l’exercice des professions médicales universitaires, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 4055](https://fedlex.data.admin.ch/eli/oc/2007/538)).
+[^part1-tit4-chap1-sec1-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 38
 
-**Formation postgrade**
+**Médecins**
 
-Les médecins doivent prouver qu’ils détiennent un titre postgrade au sens de l’art. 20 de la loi fédérale du 23 juin 2006 sur les professions médicales (LPMéd)[^38-1].
+<sup>1</sup>
+
+Les médecins sont admis s’ils remplissent les conditions suivantes, outre celles prévues à l’art. 37, al. 1 et 3, LAMal:
+
+- a. disposer d’une autorisation cantonale d’exercer la profession de médecin conformément à l’art. 34 de la loi fédérale du 23 juin 2006 sur les professions médicales (LPMéd)[^38-1];
+- b. être titulaires d’un titre postgrade fédéral dans le domaine de spécialité au sens de la LPMéd faisant l’objet de la demande d’admission;
+- c. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g*.
+
+<sup>2</sup> Les limitations cantonales du nombre de médecins admis (art. 55*a* LAMal) sont réservées.
+
+<sup>3</sup>
+
+Sont réputés disposer des compétences linguistiques nécessaires au sens de l’art. 37, al. 1, LAMal les médecins qui sont en mesure, dans la langue de la région dans laquelle ils exercent leur profession:
+
+- a. de comprendre les points essentiels de textes complexes consacrés à des sujets concrets ou abstraits et d’en saisir les significations implicites;
+- b. de s’exprimer spontanément et couramment, sans trop chercher leurs mots;
+- c. d’utiliser la langue de façon efficace et souple et de s’exprimer sur des sujets complexes de façon claire et structurée.
 
 [^38-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 #### Art. 39
 
-**Certificats scientifiques équivalents**
+**Institutions de soins ambulatoires dispensés par des médecins**
 
-<sup>1</sup> Les médecins titulaires d’un diplôme étranger reconnu au sens de l’art. 15 LPMéd[^39-1], ont les mêmes droits que les médecins titulaires d’un diplôme fédéral correspondant.
+<sup>1</sup>
 
-<sup>2</sup> Les médecins titulaires d’un titre postgrade étranger reconnu au sens de l’art. 21 LPMéd ou d’une autorisation cantonale de pratiquer conformément à l’art. 36, al. 3, LPMéd, ont les mêmes droits que les médecins titulaires d’un titre postgrade fédéral correspondant.[^39-2]
+Les institutions qui offrent des soins ambulatoires dispensés par des médecins sont admises si elles remplissent les conditions suivantes, outre celles prévues à l’art. 37, al. 2 et 3, LAMal:
 
-[^39-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^39-2]: Nouvelle teneur selon le ch. III de l’O du 5 avr. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
+- a. fournir leurs prestations en ayant recours à des médecins qui remplissent les conditions de l’art. 38, al. 1, let. a et b;
+- b. prouver qu’elles remplissent les exigences de qualité définies à l’art. 58*g*.
+
+<sup>2</sup> Les limitations cantonales du nombre de médecins admis (art. 55*a* LAMal) sont réservées.
 
 ### Section 2**** Pharmaciens
 
@@ -1003,23 +1026,25 @@ Les médecins doivent prouver qu’ils détiennent un titre postgrade au sens de
 
 #### Art. 40
 
-**Formation postgrade**[^40-1]
+[^40-1]
 
-Les pharmaciens doivent prouver qu’ils détiennent un titre postgrade au sens de l’art. 20 LPMéd[^40-2].
+<sup>1</sup>
 
-[^40-1]: Nouvelle teneur selon le ch. III de l’O du 5 avr. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
+Les pharmaciens sont admis s’ils remplissent les conditions suivantes:
+
+- a. disposer d’une autorisation cantonale d’exercer la profession de pharmacien conformément à l’art. 34 LPMéd[^40-2];
+- b. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g*.
+
+<sup>2</sup> Les cantons fixent les conditions auxquelles les médecins autorisés à tenir une pharmacie sont assimilés aux pharmaciens admis. Ils tiennent compte en particulier des possibilités d’accès des patients à une pharmacie.
+
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^40-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 #### Art. 41
 
-**Certificats scientifiques équivalents**[^41-1]
+[^41-1]
 
-<sup>1</sup> Les pharmaciens titulaires d’un diplôme étranger reconnu au sens de l’art. 15 LPMéd[^41-2] ont les mêmes droits que les pharmaciens titulaires d’un diplôme fédéral correspondant.
-
-<sup>2</sup> Les pharmaciens titulaires d’un titre postgrade étranger reconnu au sens de l’art. 21 LPMéd ou d’une autorisation cantonale de pratiquer conformément à l’art. 36, al. 3, LPMéd, ont les mêmes droits que les pharmaciens titulaires d’un titre postgrade fédéral correspondant*.*
-
-[^41-1]: Nouvelle teneur selon le ch. III de l’O du 5 avr. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
-[^41-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^41-1]: Abrogé par le ch. I de l’O du 23 juin 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 ### Section 3**** Dentistes
 
@@ -1029,291 +1054,369 @@ Les pharmaciens doivent prouver qu’ils détiennent un titre postgrade au sens 
 
 #### Art. 42
 
-**Admission**
+[^42-1]
 
-Sont admis les dentistes titulaires d’un diplôme fédéral et pouvant justifier d’une formation pratique de deux ans dans un cabinet de dentiste ou dans un institut dentaire.
+Les dentistes sont admis pour les prestations visées à l’art. 31 LAMal s’ils remplissent les conditions suivantes:
+
+- a. disposer d’une autorisation cantonale d’exercer la profession de dentiste conformément à l’art. 34 LPMéd[^42-2];
+- b. avoir exercé pendant trois ans une activité pratique dans un cabinet de dentiste ou dans un institut dentaire;
+- c. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g*.
+
+[^42-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^42-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 #### Art. 43
 
-**Certificats scientifiques équivalents**[^43-1]
+[^43-1]
 
-Les dentistes titulaires d’un diplôme étranger reconnu au sens de l’art. 15 LPMéd[^43-2] ou d’une autorisation cantonale de pratiquer conformément à l’art. 36, al. 3, LPMéd, ont les mêmes droits que les dentistes titulaires d’un diplôme fédéral correspondant.
+[^43-1]: Abrogé par le ch. I de l’O du 23 juin 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-[^43-1]: Nouvelle teneur selon le ch. III de l’O du 5 avr. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
-[^43-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+### Section 4 Chiropraticiens et organisations de chiropraticiens****
 
-### Section 4 Chiropraticiens
+[^part1-tit4-chap1-sec4-1]
+
+[^part1-tit4-chap1-sec4-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 44
 
+**Chiropraticiens[^44-1]**
+
 <sup>1</sup>
 
-Les chiropraticiens doivent prouver:
+Les chiropraticiens sont admis s’ils remplissent les conditions suivantes:
 
-- a. qu’ils ont suivi avec succès une formation au sens des art. 14 et 33 LPMéd[^44-1];
-- b. qu’ils ont suivi avec succès une formation postgrade au sens des art. 17 à 19 LPMéd.[^44-2]
+- a. disposer d’une autorisation cantonale d’exercer la profession de chiropraticien conformément à l’art. 34 LPMéd[^44-2];
+- b. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g*.[^44-3]
 
-<sup>2</sup> ...[^44-3]
+<sup>2</sup> …[^44-4]
 
-<sup>3</sup> Sont réservées les dispositions relatives à l’utilisation des radiations ionisantes en chiropratique, notamment l’art. 182, al. 1, let. d de l’ordonnance du 26 avril 2017 sur la radioprotection[^44-4] ainsi que ses dispositions d’application émises par le Département fédéral de l’intérieur.[^44-5]
+<sup>3</sup> Sont réservées les dispositions relatives à l’utilisation des radiations ionisantes en chiropratique, notamment l’art. 182, al. 1, let. d de l’ordonnance du 26 avril 2017 sur la radioprotection[^44-5] ainsi que ses dispositions d’application émises par le Département fédéral de l’intérieur.[^44-6]
 
-[^44-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^44-2]: Nouvelle teneur selon le ch. III de l’O du 5 avr. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
-[^44-3]: Abrogé par l’art. 17 de l’O du 27 juin 2007 concernant les diplômes, la formation universitaire, la formation postgrade et l’exercice des professions médicales universitaires, avec effet au 1<sup>er</sup> sept. 2007 ([RO 2007 4055](https://fedlex.data.admin.ch/eli/oc/2007/538)).
-[^44-4]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
-[^44-5]: Nouvelle teneur selon l’annexe 11 ch. 7 de l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
+[^44-1]: Introduit par le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^44-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^44-3]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^44-4]: Abrogé par l’art. 17 de l’O du 27 juin 2007 concernant les diplômes, la formation universitaire, la formation postgrade et l’exercice des professions médicales universitaires, avec effet au 1<sup>er</sup> sept. 2007 ([RO 2007 4055](https://fedlex.data.admin.ch/eli/oc/2007/538)).
+[^44-5]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^44-6]: Nouvelle teneur selon l’annexe 11 ch. 7 de l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 
-### Section 5 Sages-femmes
+#### Art. 44a
+
+**Organisations de chiropraticiens**[^44a-1]
+
+Les organisations de chiropraticiens sont admises si elles remplissent les conditions suivantes:
+
+- a. être admises en vertu de la législation du canton dans lequel elles exercent leur activité;
+- b. avoir délimité leur champ d’activité quant au lieu et à l’horaire de leurs interventions, quant aux prestations qu’elles fournissent et quant aux patients auxquels elles fournissent leurs prestations;
+- c. fournir leurs prestations en ayant recours à des personnes qui remplissent les conditions de l’art. 44, al. 1, let. a;
+- d. disposer des équipements nécessaires aux prestations qu’elles fournissent;
+- e. prouver qu’elles remplissent les exigences de qualité définies à l’art. 58*g*.
+
+[^44a-1]: Introduit par le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+
+### Section 5**** Sages-femmes et organisations de sages-femmes
+
+[^part1-tit4-chap1-sec5-1]
+
+[^part1-tit4-chap1-sec5-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 45
 
-**Admission[^45-2]**[^45-1]
+**Sages-femmes**
 
-<sup>1</sup>
+Les sages-femmes sont admises si elles remplissent les conditions suivantes:
 
-Les sages-femmes doivent:
-
-- a.[^45-3] être titulaires du diplôme d’une école de sages-femmes reconnu ou reconnu équivalent par l’organisme désigné en commun par les cantons, ou d’un diplôme reconnu selon la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^45-4];
-- b.[^45-5]
+- a. disposer d’une autorisation cantonale d’exercer la profession de sage-femme octroyée conformément à l’art. 11 de la loi fédérale du 30 septembre 2016 sur les professions de la santé (LPSan)[^45-1] ou reconnue conformément à l’art. 34, al. 1, LPSan;
+- b.
 
   avoir exercé pendant deux ans une activité pratique:
 
   - 1\. auprès d’une sage-femme admise en vertu de la présente ordonnance,
-  - 2\. dans la division d’obstétrique d’un hôpital,
-  - 3\. dans un cabinet médical spécialisé, ou
-  - 4\. dans une organisation de sages-femmes sous la direction d’une sage-femme;
+  - 2\. dans la division d’obstétrique d’un hôpital, sous la direction d’une sage-femme qui remplit les conditions d’admission de la présente ordonnance, ou
+  - 3\. dans une organisation de sages-femmes, sous la direction d’une sage-femme qui remplit les conditions d’admission de la présente ordonnance;
 
-- c. être admises en vertu du droit cantonal.
+- c. prouver qu’elles remplissent les exigences de qualité définies à l’art. 58*g*.
 
-<sup>2</sup> ...[^45-6]
-
-[^45-1]: Voir aussi les disp. fin. mod. 3 déc. 2004, à la fin du texte.
-[^45-2]: Introduit par le ch. I de l’O du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
-[^45-3]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
-[^45-4]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^45-5]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
-[^45-6]: Abrogé par le ch. I de l’O du 3 déc. 2004, avec effet au 1<sup>er</sup> janv. 2005 ([RO 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
+[^45-1]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
 
 #### Art. 45a
 
-**Organisations de sages-femmes**[^45a-1]
+**Organisations de sages-femmes**
 
-Les organisations de sages-femmes sont admises lorsqu’elles:
+Les organisations de sages-femmes sont admises si elles remplissent les conditions suivantes:
 
-- a. sont admises en vertu de la législation du canton dans lequel elles exercent leur activité;
-- b. ont délimité leur champ d’activité quant au lieu, à l’horaire de leurs interventions, aux soins et aux patients auxquels elles fournissent leurs prestations;
-- c. fournissent leurs prestations au travers de personnes remplissant les conditions énoncées à l’art. 45;
-- d. disposent des équipements nécessaires en raison de leur champ d’activité;
-- e.[^45a-2] ...
-
-[^45a-1]: Introduit par le ch. I de l’O du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
-[^45a-2]: Abrogée par le ch. I de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+- a. être admises en vertu de la législation du canton dans lequel elles exercent leur activité;
+- b. avoir délimité leur champ d’activité quant au lieu et à l’horaire de leurs interventions, quant aux prestations qu’elles fournissent et quant aux patients auxquels elles fournissent leurs prestations;
+- c. fournir leurs prestations en ayant recours à des personnes qui remplissent les conditions de l’art. 45, let. a et b;
+- d. disposer des équipements nécessaires aux prestations qu’elles fournissent;
+- e. prouver qu’elles remplissent les exigences de qualité définies à l’art. 58*g*.
 
 ### Section 6 Personnes prodiguant des soins sur prescription médicale et organisations qui les emploient
 
 #### Art. 46
 
-**En général**
+[^46-1]
 
-<sup>1</sup>
-
-Sont admises en tant que personnes prodiguant des soins sur prescription médicale les personnes suivantes qui exercent à titre indépendant et à leur compte:
-
-- a. physiothérapeutes;
-- b. ergothérapeutes;
-- c. infirmières et infirmiers;
-- d. logopédistes/orthophonistes;
-- e.[^46-1] diététiciens;
-- f.[^46-2] neuropsychologues.
-
-<sup>2</sup> Ces personnes doivent être admises en vertu du droit cantonal et remplir les autres conditions d’admission fixées dans la présente ordonnance.
-
-[^46-1]: Introduite par le ch. I de l’O du 25 nov. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
-[^46-2]: Introduite par le ch. I de l’O du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
+[^46-1]: Abrogé par le ch. I de l’O du 23 juin 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 47
 
 **Physiothérapeutes**[^47-1]
 
-<sup>1</sup>
+Les physiothérapeutes sont admis s’ils remplissent les conditions suivantes:
 
-Les physiothérapeutes doivent:
+- a. disposer d’une autorisation cantonale d’exercer la profession de physiothérapeute octroyée conformément à l’art. 11 LPSan[^47-2] ou reconnue conformément à l’art. 34, al. 1, LPSan;
+- b.
 
-- a.[^47-2] être titulaires du diplôme d’une école de physiothérapie reconnu ou reconnu équivalent par l’organisme désigné en commun par les cantons, ou d’un diplôme reconnu selon la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^47-3];
-- b.[^47-4] avoir exercé pendant deux ans leur activité auprès d’un physiothérapeute ou d’une organisation de physiothérapie admis en vertu de la présente ordonnance, dans un service hospitalier spécialisé en physiothérapie ou dans un cabinet médical spécialisé sous la direction d’un physiothérapeute qui remplit les conditions de la présente ordonnance.
+  avoir exercé pendant deux ans une activité pratique:
 
-<sup>2</sup> ...[^47-5]
+  - 1\. auprès d’un physiothérapeute admis en vertu de la présente ordonnance,
+  - 2\. dans un service hospitalier spécialisé en physiothérapie, sous la direction d’un physiothérapeute qui remplit les conditions d’admission de la présente ordonnance, ou
+  - 3\. au sein d’une organisation de physiothérapeutes, sous la direction d’un physiothérapeute qui remplit les conditions d’admission de la présente ordonnance;
 
-[^47-1]: Voir aussi les disp. fin. mod. 3 déc. 2004, à la fin du texte.
-[^47-2]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
-[^47-3]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^47-4]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> août 2009 ([RO 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)).
-[^47-5]: Abrogé par le ch. I de l’O du 3 déc. 2004, avec effet au 1<sup>er</sup> janv. 2005 ([RO 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
+- c. exercer à titre indépendant et à leur compte;
+- d. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g*.
+
+[^47-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^47-2]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
 
 #### Art. 48
 
-**Ergothérapeutes**
+**Ergothérapeutes**[^48-1]
 
-<sup>1</sup>
+Les ergothérapeutes sont admis s’ils remplissent les conditions suivantes :
 
-Les ergothérapeutes doivent:
+- a. disposer d’une autorisation cantonale d’exercer la profession d’ergothérapeute octroyée conformément à l’art. 11 LPSan[^48-2] ou reconnue conformément à l’art. 34, al. 1, LPSan;
+- b.
 
-- a.[^48-1] être titulaires du diplôme d’une école d’ergothérapie reconnu ou reconnu équivalent par l’organisme désigné en commun par les cantons, ou d’un diplôme reconnu selon la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^48-2];
-- b. avoir exercé pendant deux ans leur activité auprès d’un ergothérapeute admis en vertu de la présente ordonnance ou dans un cabinet médical, un hôpital ou une organisation d’ergothérapie sous la direction d’un ergothérapeute qui remplit les conditions d’admission de la présente ordonnance.
+  avoir exercé pendant deux ans une activité pratique:
 
-<sup>2</sup> ...[^48-3]
+  - 1\. auprès d’un ergothérapeute admis en vertu de la présente ordonnance,
+  - 2\. dans un hôpital sous la direction d’un ergothérapeute qui remplit les conditions d’admission de la présente ordonnance, ou
+  - 3\. au sein d’une organisation d’ergothérapeutes, sous la direction d’un ergothérapeute qui remplit les conditions d’admission de la présente ordonnance;
 
-[^48-1]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
-[^48-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^48-3]: Abrogé par le ch. I de l’O du 3 déc. 2004, avec effet au 1<sup>er</sup> janv. 2005 ([RO 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
+- c. exercer à titre indépendant et à leur compte;
+- d. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g*.
+
+[^48-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^48-2]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
 
 #### Art. 49
 
-**Infirmières et infirmiers**[^49-1]
+**Infirmiers**[^49-1]
 
-Les infirmières et les infirmiers doivent:
+Les infirmiers sont admis s’ils remplissent les conditions suivantes:
 
-- a. être titulaires du diplôme d’une école de soins infirmiers reconnu ou reconnu équivalent par l’organisme désigné en commun par les cantons, ou d’un diplôme reconnu selon la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^49-2];
-- b. avoir exercé pendant deux ans leur activité auprès d’une infirmière ou d’un infirmier admis en vertu de la présente ordonnance, ou dans un hôpital ou dans une organisation de soins et d’aide à domicile sous la direction d’une infirmière ou d’un infirmier qui remplissent les conditions d’admission de la présente ordonnance.
+- a. disposer d’une autorisation cantonale d’exercer la profession d’infirmier octroyée conformément à l’art. 11 LPSan[^49-2] ou reconnue conformément à l’art. 34, al. 1, LPSan;
+- b.
 
-[^49-1]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
-[^49-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+  avoir exercé pendant deux ans une activité pratique:
+
+  - 1\. auprès d’un infirmier admis en vertu de la présente ordonnance,
+  - 2\. dans un hôpital ou un établissement médico-social, sous la direction d’un infirmier qui remplit les conditions d’admission de la présente ordonnance, ou
+  - 3\. au sein d’une organisation de soins et d’aide à domicile, sous la direction d’un infirmier qui remplit les conditions d’admission de la présente ordonnance.
+
+- c. exercer à titre indépendant et à leur compte;
+- d. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g*.
+
+[^49-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^49-2]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
 
 #### Art. 50
 
-**Logopédistes/orthophonistes**
+**Logopédistes-orthophonistes**[^50-1]
 
-Les logopédistes/orthophonistes doivent:
+Les logopédistes-orthophonistes sont admis s’ils remplissent les conditions suivantes:
 
-- a.
+- a. être autorisés conformément au droit cantonal à exercer la profession de logopédiste-orthophoniste;
+- b.
 
-  avoir reçu une formation professionnelle théorique et pratique de trois ans, reconnue par le canton, et avoir subi avec succès l’examen portant sur les branches suivantes:
+  avoir reçu une formation professionnelle théorique et pratique de trois ans de logopédiste-orthophoniste, reconnue par le canton, et avoir subi avec succès l’examen portant sur les branches suivantes:
 
   - 1\. linguistique (linguistique, phonétique, psycholinguistique),
-  - 2\. logopédie/orthophonie (méthode de thérapie logopédique/orthophonique [conseil, examen logopédique/orthophonique, traitement], pédagogie et psychologie pour les personnes ayant des difficultés de langage et psychologie pour les personnes ayant des difficultés de langage, pathologie du langage),
+  - 2\. logopédie-orthophonie (méthode de thérapie logopédique-orthophonique [conseil, examen logopédique-orthophonique, traitement], pédagogie et psychologie pour les personnes ayant des difficultés de langage, pathologie du langage),
   - 3\. médecine (neurologie, oto-rhino-laryngologie, phoniatrie, psychiatrie, stomatologie),
   - 4\. pédagogie (pédagogie, pédagogie spécialisée, pédagogie curative),
   - 5\. psychologie (psychologie du développement, psychologie clinique, psychologie pédagogique, y compris la psychologie de l’apprentissage, psychologie sociale),
   - 6\. droit (législation sociale);
 
-- b.[^50-1]
+- c. avoir exercé pendant deux ans une activité pratique en logopédie-orthophonie clinique, essentiellement dans le traitement des adultes, dont au moins une année dans un hôpital, sous la direction d’un médecin spécialisé (oto-rhino-laryngologue, psychiatre, pédopsychiatre, phoniatre ou neurologue) et en présence d’un logopédiste-orthophoniste qui remplit les conditions d’admission de la présente ordonnance; une année peut avoir été accomplie dans le cabinet d’un médecin spécialisé ou dans une organisation de logopédistes-orthophonistes admise en vertu de la présente ordonnance, sous la direction du médecin spécialisé et en compagnie d’un logopédiste-orthophoniste qui remplit les conditions d’admission de la présente ordonnance;
+- d. exercer à titre indépendant et à leur compte;
+- e. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g*.
 
-  avoir exercé pendant deux ans une activité pratique en logopédie/orthophonie clinique comportant essentiellement une expérience dans le traitement des adultes, dont:
-
-  - 1\. au moins une année dans un hôpital, sous la direction d’un médecin spécialisé (oto-rhino-laryngologue, psychiatre, pédopsychiatre, phoniatre ou neurologue) et en compagnie d’un logopédiste/orthophoniste qui remplit les conditions d’admission de la présente ordonnance,
-  - 2\. une année peut avoir été accomplie dans le cabinet d’un médecin spécialisé ou dans une organisation de logopédistes/orthophonistes admise en vertu de la présente ordonnance, sous la direction du médecin spécialisé et en compagnie d’un logopédiste/orthophoniste qui remplit les conditions d’admission de la présente ordonnance.
-
-[^50-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
+[^50-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 50a
 
 **Diététiciens**[^50a-1]
 
-<sup>1</sup>
+Les diététiciens sont admis s’ils remplissent les conditions suivantes:
 
-Les diététiciens doivent:
+- a. disposer d’une autorisation cantonale d’exercer la profession de diététicien octroyée conformément à l’art. 11 LPSan[^50a-2] ou reconnue conformément à l’art. 34, al. 1, LPSan;
+- b.
 
-- a.[^50a-2] être titulaires du diplôme d’une école de diététique reconnu ou reconnu équivalent par l’organisme désigné en commun par les cantons, ou d’un diplôme reconnu selon la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^50a-3];
-- b.[^50a-4] avoir exercé pendant deux ans leur activité auprès d’un diététicien ou d’une organisation de diététique admis en vertu de la présente ordonnance, ou dans un cabinet médical, un hôpital ou une organisation privée ou publique sous la direction d’un diététicien qui remplit les conditions d’admission de la présente ordonnance.
+  avoir exercé pendant deux ans une activité pratique:
 
-<sup>2</sup> ...[^50a-5]
+  - 1\. auprès d’un diététicien admis en vertu de la présente ordonnance,
+  - 2\. dans un hôpital, sous la direction d’un diététicien qui remplit les conditions d’admission de la présente ordonnance, ou
+  - 3\. au sein d’une organisation de diététique, sous la direction d’un diététicien qui remplit les conditions d’admission de la présente ordonnance.
 
-[^50a-1]: Introduit par le ch. I de l’O du 25 nov. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
-[^50a-2]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
-[^50a-3]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^50a-4]: Nouvelle teneur selon le ch. I de l’O du 4 juil. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
-[^50a-5]: Abrogé par le ch. I de l’O du 3 déc. 2004, avec effet au 1<sup>er</sup> janv. 2005 ([RO 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
+- c. exercer à titre indépendant et à leur compte;
+- d. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g*.
+
+[^50a-1]: Introduit par le ch. I de l’O du 25 nov. 1996 ([RO 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^50a-2]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
 
 #### Art. 50b
 
 **Neuropsychologues**[^50b-1]
 
-Les neuropsychologues doivent:
+Les neuropsychologues sont admis s’ils remplissent les conditions suivantes:
 
-- a. être titulaires d’un diplôme en psychologie reconnu et d’un titre postgrade fédéral en neuropsychologie ou reconnu équivalent selon la loi du 18 mars 2011 sur les professions de la psychologie (LPsy)[^50b-2], ou
-- b. être titulaires d’un diplôme en psychologie reconnu selon la LPsy et d’un titre de spécialisation en neuropsychologie de la Fédération suisse des psychologues.
+- a. être autorisés conformément au droit cantonal à exercer la profession de neuropsychologue;
+- b.
 
-[^50b-1]: Introduit par le ch. I de l’O du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
+  être titulaires:
+
+  - 1\. d’un diplôme en psychologie reconnu et d’un titre postgrade fédéral en neuropsychologie ou reconnu équivalent selon la loi du 18 mars 2011 sur les professions de la psychologie (LPsy)[^50b-2], ou
+  - 2\. d’un diplôme en psychologie reconnu selon la LPsy et d’un titre de spécialisation en neuropsychologie de la Fédération suisse des psychologues;
+
+- c. exercer à titre indépendant et à leur compte;
+- d. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g*.
+
+[^50b-1]: Introduit par le ch. I de l’O du 9 déc. 2016 ([RO 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)). Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^50b-2]: [RS 935.81](https://fedlex.data.admin.ch/eli/cc/2012/268)
+
+#### Art. 50c
+
+[^50c-1]
+
+[^50c-1]: Entre en vigueur le 1<sup>er</sup> juil.2022 ([RO 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188), [439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+
+#### Art. 50d
+
+**Podologues**[^50d-1]
+
+Les podologues sont admis s’ils remplissent les conditions suivantes:
+
+- a. être autorisés conformément au droit cantonal à exercer la profession de podologue;
+- b. disposer d’un diplôme d’une école supérieure selon le plan d’études cadre Podologie du 12 novembre 2010[^50d-2], dans la version du 12 décembre 2014, ou d’une formation reconnue équivalente selon le ch. 7.1 du plan d’études cadre;
+- c.
+
+  avoir exercé pendant deux ans une activité pratique après avoir obtenu leur diplôme:
+
+  - 1\. auprès d’un podologue admis en vertu de la présente ordonnance,
+  - 2\. auprès d’une organisation de podologie admise en vertu de la présente ordonnance, ou
+  - 3\. dans un hôpital, dans une organisation de soins et d’aide à domicile ou dans un établissement médico-social, sous la direction d’un podologue qui remplit les conditions d’admission de la présente ordonnance.
+
+- d. exercer à titre indépendant et à leur compte;
+- e. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g.*
+
+[^50d-1]: Introduit par le ch. I de l’O du 26 mai 2021 ([RO 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323)). Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
+[^50d-2]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
 
 #### Art. 51
 
-**Organisations de soins et d’aide à domicile**
+**Organisations de soins et d’aide à domicile**[^51-1]
 
-Les organisations qui dispensent des soins et de l’aide à domicile sont admises lorsqu’elles:
+Les organisations de soins et d’aide à domicile sont admises si elles remplissent les conditions suivantes:
 
-- a. sont admises en vertu de la législation du canton dans lequel elles exercent leur activité;
-- b.[^51-1] ont délimité leur champ d’activité quant au lieu, à l’horaire de leurs interventions, aux soins et aux patients auxquels elles fournissent leurs prestations;
-- c.[^51-2] disposent du personnel spécialisé nécessaire ayant une formation qui correspond à leur champ d’activité;
-- d.[^51-3] disposent des équipements nécessaires en raison de leur champ d’activité;
-- e.[^51-4] ...
+- a. être admises en vertu de la législation du canton dans lequel elles exercent leur activité;
+- b. avoir délimité leur champ d’activité quant au lieu et à l’horaire de leurs interventions, quant aux prestations qu’elles fournissent et quant aux patients auxquels elles fournissent leurs prestations;
+- c. disposer du personnel spécialisé nécessaire ayant une formation qui correspond à leur champ d’activité;
+- d. disposer des équipements nécessaires aux prestations qu’elles fournissent;
+- e. prouver qu’elles remplissent les exigences de qualité définies à l’art. 58*g*.
 
-[^51-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
-[^51-2]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
-[^51-3]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
-[^51-4]: Abrogée par le ch. I de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^51-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 52
 
-**Organisations d’ergothérapie**
+**Organisations de physiothérapie**[^52-1]
 
-Les organisations d’ergothérapie sont admises lorsqu’elles:
+Les organisations de physiothérapie sont admises si elles remplissent les conditions suivantes:
 
-- a. sont admises en vertu de la législation du canton dans lequel elles exercent leur activité;
-- b.[^52-1] ont délimité leur champ d’activité quant au lieu, à l’horaire de leurs interventions, aux soins et aux patients auxquels elles fournissent leurs prestations;
-- c.[^52-2] disposent du personnel spécialisé nécessaire ayant une formation qui correspond à leur champ d’activité;
-- d.[^52-3] disposent des équipements nécessaires en raison de leur champ d’activité;
-- e.[^52-4] ...
+- a. être admises en vertu de la législation du canton dans lequel elles exercent leur activité;
+- b. avoir délimité leur champ d’activité quant au lieu et à l’horaire de leurs interventions, quant aux prestations qu’elles fournissent et quant aux patients auxquels elles fournissent leurs prestations;
+- c. fournir leurs prestations en ayant recours à des personnes qui remplissent les conditions de l’art. 47, let. a et b;
+- d. disposer des équipements nécessaires aux prestations qu’elles fournissent;
+- e. prouver qu’elles remplissent les exigences de qualité définies à l’art. 58*g.*
 
-[^52-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
-[^52-2]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
-[^52-3]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
-[^52-4]: Abrogée par le ch. I de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^52-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 52a
 
-**Organisations de physiothérapie**[^52a-1]
+**Organisations d’ergothérapie**[^52a-1]
 
-Les organisations de physiothérapie sont admises lorsqu’elles:
+Les organisations d’ergothérapie sont admises si elles remplissent les conditions suivantes:
 
-- a. sont admises en vertu de la législation du canton dans lequel elles exercent leur activité;
-- b. ont délimité leur champ d’activité quant au lieu, à l’horaire de leurs interventions, aux soins et aux patients auxquels elles fournissent leurs prestations;
-- c. fournissent leurs prestations au travers de personnes remplissant les conditions énoncées à l’art. 47;
-- d. disposent des équipements nécessaires en raison de leur champ d’activité;
-- e.[^52a-2] ...
+- a. être admises en vertu de la législation du canton dans lequel elles exercent leur activité;
+- b. avoir délimité leur champ d’activité quant au lieu et à l’horaire de leurs interventions, quant aux prestations qu’elles fournissent et quant aux patients auxquels elles fournissent leurs prestations;
+- c. fournir leurs prestations en ayant recours à des personnes qui remplissent les conditions de l’art. 48, let. a et b;
+- d. disposer des équipements nécessaires aux prestations qu’elles fournissent;
+- e. prouver qu’elles remplissent les exigences de qualité définies à l’art. 58*g.*
 
-[^52a-1]: Introduit par le ch. I de l’O du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> août 2009 ([RO 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)).
-[^52a-2]: Abrogée par le ch. I de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^52a-1]: Introduit par le ch. I de l’O du 24 juin 2009 ([RO 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)). Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 52b
 
-**Organisations de diététique**[^52b-1]
+**Organisations de logopédistes-orthophonistes**[^52b-1]
 
-Les organisations de diététique sont admises lorsqu’elles:
+Les organisations de logopédistes-orthophonistes sont admises si elles remplissent les conditions suivantes:
 
-- a. sont admises en vertu de la législation du canton dans lequel elles exercent leur activité;
-- b. ont délimité leur champ d’activité quant au lieu, à l’horaire de leurs interventions, aux soins et aux patients auxquels elles fournissent leurs prestations;
-- c. fournissent leurs prestations au travers de personnes remplissant les conditions énoncées à l’art. 50*a*;
-- d. disposent des équipements nécessaires en raison de leur champ d’activité;
-- e.[^52b-2] ...
+- a. être admises en vertu de la législation du canton dans lequel elles exercent leur activité;
+- b. avoir délimité leur champ d’activité quant au lieu et à l’horaire de leurs interventions, quant aux prestations qu’elles fournissent et quant aux patients auxquels elles fournissent leurs prestations;
+- c. fournir leurs prestations en ayant recours à des personnes qui remplissent les conditions de l’art. 50, let. a à c;
+- d. disposer des équipements nécessaires aux prestations qu’elles fournissent;
+- e. prouver qu’elles remplissent les exigences de qualité définies à l’art. 58*g*
 
-[^52b-1]: Introduit par le ch. I de l’O du 4 juil. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
-[^52b-2]: Abrogée par le ch. I de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^52b-1]: Introduit par le ch. I de l’O du 4 juil. 2012 ([RO 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 52c
 
-**Organisations de logopédistes/orthophonistes**[^52c-1]
+**Organisations de diététique**[^52c-1]
 
-Les organisations de logopédistes/orthophonistes sont admises lorsqu’elles:
+Les organisations de diététique sont admises si elles remplissent les conditions suivantes:
 
-- a. sont admises en vertu de la législation du canton dans lequel elles exercent leur activité;
-- b. ont délimité leur champ d’activité quant au lieu, à l’horaire de leurs interventions, aux soins et aux patients auxquels elles fournissent leurs prestations;
-- c. fournissent leurs prestations au travers de personnes remplissant les conditions énoncées à l’art. 50;
-- d. disposent des équipements nécessaires en raison de leur champ d’activité;
-- e.[^52c-2] ...
+- a. être admises en vertu de la législation du canton dans lequel elles exercent leur activité;
+- b. avoir délimité leur champ d’activité quant au lieu et à l’horaire de leurs interventions, quant aux prestations qu’elles fournissent et quant aux patients auxquels elles fournissent leurs prestations;
+- c. fournir leurs prestations en ayant recours à des personnes qui remplissent les conditions de l’art. 50*a*, let. a et b;
+- d. disposer des équipements nécessaires aux prestations qu’elles fournissent;
+- e. prouver qu’elles remplissent les exigences de qualité définies à l’art. 58*g.*
 
-[^52c-1]: Introduit par le ch. I de l’O du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
-[^52c-2]: Abrogée par le ch. I de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^52c-1]: Introduit par le ch. I de l’O du 9 déc. 2016 ([RO 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)). Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+
+#### Art. 52d
+
+**Organisations de neuropsychologues**[^52d-1]
+
+Les organisations de neuropsychologues sont admises si elles remplissent les conditions suivantes:
+
+- a. être admises en vertu de la législation du canton dans lequel elles exercent leur activité;
+- b. avoir délimité leur champ d’activité quant au lieu et à l’horaire de leurs interventions, quant aux prestations qu’elles fournissent et quant aux patients auxquels elles fournissent leurs prestations;
+- c. fournir leurs prestations en ayant recours à des personnes qui remplissent les conditions de l’art. 50*b*, let. a et b;
+- d. disposer des équipements nécessaires aux prestations qu’elles fournissent;
+- e. prouver qu’elles remplissent les exigences de qualité définies à l’art. 58*g.*
+
+[^52d-1]: Introduit par le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+
+#### Art. 52e
+
+[^52e-1]
+
+[^52e-1]: En vigueur le 1<sup>er</sup> juil. 2022 ([RO 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323), [439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+
+#### Art. 52f
+
+**Organisations de podologie**[^52f-1]
+
+Les organisations de podologie sont admises si elles remplissent les conditions suivantes:
+
+- a. être admises en vertu de la législation du canton dans lequel elles exercent leur activité;
+- b. avoir délimité leur champ d’activité quant au lieu et à l’horaire de leurs interventions, quant aux prestations qu’elles fournissent et quant aux patients auxquels elles fournissent leurs prestations;
+- c. fournir leurs prestations en ayant recours à des personnes qui remplissent les conditions de l’art. 50*d*, let. a à c;
+- d. disposer des équipements nécessaires aux prestations qu’elles fournissent;
+- e. prouver qu’elles remplissent les exigences de qualité définies à l’art. 58*g.*
+
+[^52f-1]: Introduit par le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323)). Nouvelle teneur le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 ### Section 7 Laboratoires
 
@@ -1325,7 +1428,7 @@ Sont admis comme laboratoires les établissements qui:
 
 - a. effectuent des analyses médicales;
 - b. sont admis en vertu du droit cantonal;
-- c.[^53-1] ...
+- c.[^53-1] …
 - d. répondent aux autres exigences posées aux laboratoires par la législation fédérale ou cantonale;
 - e.[^53-2] sont autorisés par l’Institut suisse des produits thérapeutiques Swissmedic (institut), lorsqu’ils effectuent des analyses visant à dépister les maladies transmissibles;
 - [tab] e<sup>bis</sup>.[^53-3] sont autorisés par l’OFSP, lorsqu’ils effectuent des analyses cytogénétiques ou moléculaires humaines;
@@ -1338,11 +1441,11 @@ Sont admis comme laboratoires les établissements qui:
 
 #### Art. 54
 
-**Conditions d’admission**
+**Conditions[^54-1]**
 
 <sup>1</sup>
 
-Sont admis sans autres conditions comme laboratoires médicaux:
+Sont admis comme laboratoires médicaux:[^54-2]
 
 - a.
 
@@ -1351,10 +1454,10 @@ Sont admis sans autres conditions comme laboratoires médicaux:
   - 1\. si les analyses sont effectuées dans le cadre des soins de base d’après l’art. 62, al. 1, let. a, pour les besoins du médecin,
   - 2\. si le résultat des analyses est en principe disponible au cours de la consultation (diagnostic en présence du patient),
   - 3\. si le laboratoire de cabinet médical fait partie intégrante du cabinet du médecin traitant, au plan juridique et au plan des locaux,
-  - 4\.[^54-1] si les analyses sont effectuées dans le laboratoire de cabinet médical ou, pour les analyses visées au ch. 1 qui sont désignées séparément, à l’occasion d’une consultation à domicile;
+  - 4\.[^54-3] si les analyses sont effectuées dans le laboratoire de cabinet médical ou, pour les analyses visées au ch. 1 qui sont désignées séparément, à l’occasion d’une consultation à domicile;
 
 - b. les laboratoires d’hôpitaux pour les analyses qui sont effectuées dans le cadre des soins de base (art. 62, al. 1, let. a) pour les besoins de l’hôpital;
-- c. les officines de pharmaciens et les laboratoires d’hôpitaux pour les analyses qui sont effectuées dans le cadre des soins de base (art. 62, al. 1, let. a) sur prescription d’un autre fournisseur de prestations.[^54-2]
+- c. les officines de pharmaciens et les laboratoires d’hôpitaux pour les analyses qui sont effectuées dans le cadre des soins de base (art. 62, al. 1, let. a) sur prescription d’un autre fournisseur de prestations.[^54-4]
 
 <sup>2</sup> Les laboratoires d’hôpitaux qui effectuent des analyses uniquement pour les besoins de l’hôpital sont admis s’ils sont placés sous la direction d’un médecin, d’un pharmacien ou d’un responsable ayant une formation universitaire en sciences naturelles reconnue par le DFI ou une formation supérieure convenant à la pratique des analyses reconnue par le DFI.
 
@@ -1363,17 +1466,22 @@ Sont admis sans autres conditions comme laboratoires médicaux:
 Les laboratoires mandatés par un autre fournisseur de prestations admis et qui font d’autres analyses que celles qui sont effectuées dans le cadre des soins de base sont admis lorsque:
 
 - a. ils sont placés sous la direction d’un médecin, d’un pharmacien ou d’un responsable ayant une formation universitaire en sciences naturelles reconnue par le DFI;
-- b.[^54-3] la personne qui les dirige en vertu de la let. a est titulaire d’un titre postgrade en médecine de laboratoire délivré par l’association Les laboratoires médicaux de Suisse (FAMH) ou d’un titre reconnu équivalent.
+- b.[^54-5] la personne qui les dirige en vertu de la let. a est titulaire d’un titre postgrade en médecine de laboratoire délivré par l’association Les laboratoires médicaux de Suisse (FAMH) ou d’un titre reconnu équivalent.
 
-<sup>4</sup> Le DFI peut prévoir pour l’exécution de certaines analyses des exigences supplémentaires quant aux installations, à la qualification et à la formation postgrade de la direction et du personnel de laboratoire. Il peut en outre désigner certains établissements pour effectuer des analyses déterminées et les charger de tenir des registres d’évaluation.[^54-4]
+<sup>4</sup> Le DFI peut prévoir pour l’exécution de certaines analyses des exigences supplémentaires quant aux installations, à la qualification et à la formation postgrade de la direction et du personnel de laboratoire. Il peut en outre désigner certains établissements pour effectuer des analyses déterminées et les charger de tenir des registres d’évaluation.[^54-6]
 
-<sup>5</sup> Le DFI peut édicter des dispositions d’exécution pour l’al. 1, let. a.[^54-5]
+<sup>4bis</sup> Pour être admis conformément aux al. 1 à 3, les laboratoires doivent prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g*.[^54-7]
 
-[^54-1]: Introduit par le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)).
-[^54-2]: Nouvelle teneur selon le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^54-3]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
-[^54-4]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
-[^54-5]: Introduit par le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+<sup>5</sup> Le DFI peut édicter des dispositions d’exécution pour l’al. 1, let. a.[^54-8]
+
+[^54-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^54-2]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^54-3]: Introduit par le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)).
+[^54-4]: Nouvelle teneur selon le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^54-5]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
+[^54-6]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
+[^54-7]: Introduit par le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^54-8]: Introduit par le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 
 #### Art. 54a
 
@@ -1398,7 +1506,15 @@ Les laboratoires mandatés par un autre fournisseur de prestations admis et qui 
 
 #### Art. 55
 
-Celui qui est admis en vertu du droit cantonal et qui conclut un contrat sur la remise de moyens et d’appareils diagnostiques ou thérapeutiques avec un assureur-maladie est autorisé à exercer son activité à la charge de cet assureur.
+[^55-1]
+
+Les centres de remise de moyens et d’appareils diagnostiques ou thérapeutiques sont admis s’ils remplissent les conditions suivantes:
+
+- a. être admis en vertu de la législation du canton dans lequel ils exercent leur activité;
+- b. avoir conclu un contrat sur la remise de moyens et d’appareils diagnostiques et thérapeutiques avec les assureurs à la charge desquels ils entendent exercer;
+- c. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g*.
+
+[^55-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 ### Section 8*a***** Maisons de naissance
 
@@ -1408,18 +1524,30 @@ Celui qui est admis en vertu du droit cantonal et qui conclut un contrat sur la 
 
 #### Art. 55a
 
-Les maisons de naissance sont admises lorsqu’elles:
+[^55a-1]
 
-- a. répondent aux conditions fixées à l’art. 39, al. 1, let. b à e, de la loi;
-- b. ont défini leur champ d’activité conformément à l’art. 29 de la loi;
-- c. garantissent une assistance médicale suffisante par une sage-femme;
-- d. ont pris des mesures pour faire face aux situations d’urgence médicale.
+Les maisons de naissances sont admises si elles remplissent les conditions suivantes:
+
+- a. remplir les conditions de l’art. 39, al. 1, let. b à f, LAMal;
+- b. avoir défini leur champ d’activité conformément à l’art. 29 LAMal;
+- c. garantir une assistance médicale suffisante par une sage-femme;
+- d. avoir pris des mesures pour faire face aux situations d’urgence médicale.
+
+[^55a-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 ### Section 9 Entreprises de transport et de sauvetage
 
 #### Art. 56
 
-Celui qui est admis en vertu du droit cantonal et qui conclut un contrat sur les transports et le sauvetage avec un assureur-maladie est autorisé à exercer son activité à la charge de cet assureur.
+[^56-1]
+
+Les entreprises de transports et de sauvetage sont admises si elles remplissent les conditions suivantes:
+
+- a. être admises en vertu de la législation du canton dans lequel elles exercent leur activité;
+- b. avoir conclu un contrat sur les transports et le sauvetage avec les assureurs à la charge desquels elles entendent exercer;
+- c. prouver qu’elles remplissent les exigences de qualité définies à l’art. 58*g*.
+
+[^56-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 ### Section 10 Établissements de cure balnéaire
 
@@ -1451,33 +1579,29 @@ Celui qui est admis en vertu du droit cantonal et qui conclut un contrat sur les
 
 <sup>1</sup> La planification en vue de couvrir les besoins en soins (art. 39, al. 1, let. d, LAMal) garantit aux habitants des cantons qui l’établissent le traitement hospitalier à l’hôpital ou dans une maison de naissance ainsi que le traitement dans un établissement médico-social.
 
-<sup>2</sup> Les cantons réexaminent périodiquement leurs planifications.
+<sup>2</sup> Elle est réexaminée périodiquement.[^58a-1]
+
+[^58a-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 58b
 
-**Planification des besoins en soins**
+**Planification des besoins en soins**[^58b-1]
 
-<sup>1</sup> Les cantons déterminent les besoins selon une démarche vérifiable. Ils se fondent notamment sur des données statistiquement justifiées et sur des comparaisons.
+<sup>1</sup> Les cantons déterminent les besoins en soins selon une démarche vérifiable. Ils se fondent notamment sur des données statistiquement justifiées et sur des comparaisons et prennent en compte notamment les facteurs d’influence pertinents pour la prévision des besoins.
 
-<sup>2</sup> Ils déterminent l’offre utilisée dans des établissements qui ne figurent pas sur la liste qu’ils ont arrêtée.
+<sup>2</sup> Ils déterminent l’offre utilisée dans les établissements qui ne figurent pas sur la liste visée à l’art. 39, al. 1, let. e, LAMal qu’ils ont arrêtée.
 
-<sup>3</sup> Ils déterminent l’offre qui doit être garantie par l’inscription d’établissements cantonaux et extra-cantonaux sur la liste visée à l’art. 58*e* afin que la couverture des besoins soit assurée. Cette offre correspond aux besoins déterminés conformément à l’al. 1, déduction faite de l’offre déterminée conformément à l’al. 2.
+<sup>3</sup> Ils déterminent l’offre qui doit être garantie par l’inscription sur la liste d’établissements situés dans le canton et d’établissements situés hors du canton afin d’assurer la couverture des besoins. Ils déduisent à cet effet l’offre déterminée conformément à l’al. 2 des besoins déterminés conformément à l’al. 1.
 
 <sup>4</sup>
 
-Lors de l’évaluation et du choix de l’offre qui doit être garantie par la liste, les cantons prennent notamment en compte:
+Afin de déterminer l’offre qui doit être garantie par la liste, les cantons prennent notamment en compte:
 
-- a. le caractère économique et la qualité de la fourniture de prestations;
+- a. le caractère économique et la qualité de la fourniture des prestations;
 - b. l’accès des patients au traitement dans un délai utile;
-- c. la disponibilité et la capacité de l’établissement à remplir le mandat de prestation selon l’art. 58*e*.
+- c. la disponibilité et la capacité de l’établissement à remplir le mandat de prestations.
 
-<sup>5</sup>
-
-Lors de l’examen du caractère économique et de la qualité, les cantons prennent notamment en considération:
-
-- a. l’efficience de la fourniture de prestations;
-- b. la justification de la qualité nécessaire;
-- c. dans le domaine hospitalier, le nombre minimum de cas et l’exploitation des synergies.
+[^58b-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 58c
 
@@ -1491,22 +1615,98 @@ La planification s’effectue de la manière suivante:
 
 #### Art. 58d
 
-**Coordination intercantonale des planifications**
+**Évaluation du caractère économique et de la qualité**[^58d-1]
 
-Dans le cadre de l’obligation de coordination intercantonale des planifications, visée à l’art. 39, al. 2, de la loi, les cantons doivent notamment:
+<sup>1</sup> L’évaluation du caractère économique des hôpitaux et des maisons de naissance s’effectue notamment grâce à des comparaisons des coûts ajustés selon le degré de gravité des cas traités. Pour les établissements médico-sociaux, le caractère économique des prestations fournies doit être pris en considération de manière appropriée.
 
-- a. exploiter les informations pertinentes concernant les flux de patients et les échanger avec les cantons concernés;
-- b. coordonner les mesures de planification avec les cantons concernés par celles-ci dans la couverture de leurs besoins.
+<sup>2</sup>
+
+L’évaluation de la qualité des établissements consiste notamment à examiner si l’ensemble de l’établissement remplit les exigences suivantes:
+
+- a. disposer du personnel nécessaire qualifié;
+- b. disposer d’un système de gestion de la qualité approprié;
+- c. disposer d’un système interne de rapports et d’apprentissage approprié et avoir adhéré à un réseau de déclaration des événements indésirables uniforme à l’ensemble de la Suisse, pour autant qu’un tel réseau existe;
+- d. disposer des équipements permettant de participer aux mesures nationales de la qualité;
+- e. disposer de l’équipement garantissant la sécurité de la médication, notamment grâce à l’enregistrement électronique des médicaments prescrits et délivrés.
+
+<sup>3</sup> Les résultats des mesures de la qualité réalisées à l’échelle nationale peuvent être utilisés comme critères de sélection des établissements.
+
+<sup>4</sup> L’évaluation des hôpitaux doit porter en particulier sur la mise à profit des synergies, sur les nombres minimums de cas et sur le potentiel de concentration des prestations pour le renforcement du caractère économique et de la qualité des soins.
+
+<sup>5</sup> L’évaluation du caractère économique et de la qualité peut se fonder sur des évaluations réalisées par d’autres cantons, pour autant qu’elles ne soient pas dépassées.
+
+[^58d-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 58e
 
-**Listes et mandats de prestations**
+**Coordination intercantonale des planifications**[^58e-1]
 
-<sup>1</sup> Les cantons inscrivent sur leur liste visée à l’art. 39, al. 1, let. e de la loi, les établissements cantonaux et extra-cantonaux nécessaires pour garantir l’offre déterminée conformément à l’art. 58*b*, al. 3.
+<sup>1</sup>
 
-<sup>2</sup> Les listes mentionnent pour chaque hôpital l’éventail de prestations correspondant au mandat de prestations.
+Pour coordonner leurs planifications conformément à l’art. 39, al. 2, LAMal, les cantons doivent notamment:
 
-<sup>3</sup> Les cantons attribuent à chaque établissement sur leur liste un mandat de prestations au sens de l’art. 39, al. 1, let. e de la loi. Celui-ci peut contenir notamment l’obligation de disposer d’un service d’urgence.
+- a. exploiter les informations nécessaires concernant les flux de patients et échanger ces informations avec les cantons concernés;
+- b. prendre en compte le potentiel de coordination avec d’autres cantons pour le renforcement du caractère économique et de la qualité des prestations fournies à l’hôpital;
+
+<sup>2</sup> Chaque canton se coordonne notamment:
+
+- 1\. avec les cantons dans lesquels sont situés un ou plusieurs établissements qui figurent sur sa liste ou qu’il prévoit d’y faire figurer,
+- 2\. avec les cantons qui ont inscrit sur leur liste ou qui prévoient d’inscrire sur leur liste un ou plusieurs établissements situés sur son territoire,
+- 3\. avec les cantons où sont situés des établissements dans lesquels un nombre important d’assurés provenant de son territoire se font traiter ou se feront vraisemblablement traiter,
+- 4\. avec les cantons dont un nombre important d’assurés se font traiter ou se feront vraisemblablement traiter dans des établissements situés sur son territoire,
+- 5\. avec d’autres cantons, si cette coordination permet de renforcer le caractère économique et la qualité des prestations fournies à l’hôpital.
+
+[^58e-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+
+#### Art. 58f
+
+**Listes et mandats de prestations**[^58f-1]
+
+<sup>1</sup> La liste visée à l’art. 39, al. 1, let. e, LAMal répertorie les établissements situés dans le canton et les établissements situés hors du canton qui sont nécessaires pour garantir l’offre de soins déterminée conformément à l’art. 58*b*, al. 3.
+
+<sup>2</sup> Un mandat de prestations au sens de l’art. 39, al. 1, let. e, LAMal est attribué à chaque établissement figurant sur la liste. Si l’établissement a plusieurs sites, le mandat de prestations précise le site.
+
+<sup>3</sup> Les listes spécifient pour chaque hôpital les groupes de prestations correspondant au mandat de prestations.
+
+<sup>4</sup>
+
+Les cantons déterminent les charges que les mandats de prestations attribués aux hôpitaux et aux maisons de naissance doivent contenir. Pour les hôpitaux de soins somatiques aigus, ils peuvent notamment prévoir les charges suivantes:
+
+- a. la disponibilité d’une offre de base en médecine interne et en chirurgie;
+- b. la disponibilité et la qualification des médecins spécialistes;
+- c. la disponibilité du service des urgences et le niveau d’exigences auquel il doit satisfaire;
+- d. la disponibilité de l’unité de soins intensifs ou du service de surveillance et le niveau d’exigences auquel il doit satisfaire;
+- e. les groupes de prestations liés en interne ou en coopération avec d’autres hôpitaux;
+- f. les nombres minimums de cas.
+
+<sup>5</sup> Ils peuvent prévoir que les mandats de prestations des établissements médico-sociaux contiennent des charges à remplir.
+
+<sup>6</sup>
+
+Ils peuvent prévoir que les mandats de prestations contiennent notamment les charges suivantes, pour autant qu’elles ne figent pas les structures et qu’elles n’empêchent pas toute concurrence:
+
+- a. pour les hôpitaux de soins somatiques aigus, un budget global au sens de l’art. 51 LAMal ou les volumes de prestations maximaux;
+- b. pour les hôpitaux psychiatriques et les hôpitaux de réadaptation, un budget global au sens de l’art. 51 LAMal, les volumes de prestations maximaux ou les capacités maximales;
+- c. pour les établissements médico-sociaux, un budget global au sens de l’art. 51 LAMal ou les capacités maximales.
+
+<sup>7</sup> Ils prévoient que les mandats de prestations des hôpitaux contiennent à titre de charge l’interdiction des systèmes d’incitations économiques entraînant une augmentation du volume des prestations médicalement injustifiées à la charge de l’assurance obligatoire des soins ou permettant le contournement de l’obligation d’admission au sens de l’art. 41*a* LAMal.
+
+[^58f-1]: Introduit par le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+
+### Section 12**** Exigences de qualité
+
+[^part1-tit4-chap1-sec12-1]
+
+[^part1-tit4-chap1-sec12-1]: Introduite par le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+
+#### Art. 58g
+
+Les fournisseurs de prestations doivent remplir les exigences de qualité suivantes:
+
+- a. disposer du personnel nécessaire qualifié;
+- b. disposer d’un système de gestion de la qualité approprié;
+- c. disposer d’un système interne de rapports et d’apprentissage approprié et avoir adhéré à un réseau de déclaration des événements indésirables uniforme à l’ensemble de la Suisse, pour autant qu’un tel réseau existe
+- d. disposer des équipements permettant de participer aux mesures nationales de la qualité.
 
 ### Chapitre 2 Facturation
 
@@ -1522,17 +1722,18 @@ Les fournisseurs de prestations doivent inscrire sur leurs factures toutes les i
 - b. les prestations fournies, détaillées comme le prévoit le tarif qui leur est applicable;
 - c. les diagnostics et les procédures qui sont nécessaires au calcul du tarif applicable;
 - d. le numéro d’identification de la carte d’assuré visé à l’art. 3, al. 1, let. f, de l’ordonnance du 14 février 2007 sur la carte d’assuré pour l’assurance obligatoire des soins[^59-2];
-- e. le numéro d’assuré visé dans la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^59-3].
+- e. le numéro AVS[^59-3].
 
 <sup>2</sup> Le fournisseur de prestations doit établir deux factures séparées, l’une pour les prestations prises en charge par l’assurance obligatoire des soins et l’autre pour les autres prestations.
 
 <sup>3</sup> Pour les analyses, la facture remise au débiteur de la rémunération est établie exclusivement par le laboratoire qui a effectué les analyses. Les tarifs forfaitaires d’après l’art. 49 de la loi sont réservés.
 
-<sup>4</sup> Si les assureurs et les fournisseurs de prestations ont convenu que l’assureur est le débiteur de la rémunération (système du tiers payant), le fournisseur de prestations doit remettre à l’assuré la copie de la facture prévue à l’art. 42, al. 3, de la loi. Il peut convenir avec l’assureur que ce dernier transmettra la copie de la facture.
+<sup>4</sup> …[^59-4]
 
 [^59-1]: Nouvelle teneur selon le ch. I de l’O du 4 juil. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
 [^59-2]: [RS 832.105](https://fedlex.data.admin.ch/eli/cc/2007/101)
-[^59-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^59-3]: Nouvelle expression selon l’annexe ch. II 36 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Il a été tenu compte de cette mod. dans tout le texte.
+[^59-4]: Abrogé par le ch. I de l’O du 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 838](https://fedlex.data.admin.ch/eli/oc/2021/838)).
 
 #### Art. 59a
 
@@ -1558,11 +1759,11 @@ Les fournisseurs de prestations doivent inscrire sur leurs factures toutes les i
 
 #### Art. 59a<sup>bis</sup>
 
-**Facturation dans le domaine ambulatoire et le domaine de la réadaptation**[^59abis-1]
+**Facturation dans le domaine ambulatoire**[^59abis-1]
 
-Pour le domaine ambulatoire et le domaine de la réadaptation, le DFI édicte des dispositions détaillées sur la collecte, le traitement et la transmission des diagnostics et des procédures, dans le respect du principe de la proportionnalité. Il y fixe les classifications pour le codage applicables dans toute la Suisse.
+Pour le domaine ambulatoire le DFI édicte des dispositions détaillées sur la collecte, le traitement et la transmission des diagnostics et des procédures, dans le respect du principe de la proportionnalité. Il y fixe les classifications pour le codage applicables dans toute la Suisse.
 
-[^59abis-1]: Introduit par le ch. I de l’O du 4 juil. 2012 ([RO 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Nouvelle teneur selon le ch. I de l’O du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6339](https://fedlex.data.admin.ch/eli/oc/2017/703)). Voir aussi les disp. trans. de la mod. du 4 juil. 2012 à la fin du texte.
+[^59abis-1]: Introduit par le ch. I de l’O du 4 juil. 2012 ([RO 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 838](https://fedlex.data.admin.ch/eli/oc/2021/838)).
 
 #### Art. 59a<sup>ter</sup>
 
@@ -1727,24 +1928,28 @@ Le DFI désigne les analyses qui:
 
 <sup>1</sup> Un médicament peut être admis dans la liste des spécialités s’il dispose d’une autorisation valable de l’institut.
 
-<sup>2</sup> Les médicaments qui font l’objet d’une publicité destinée au public, au sens de l’art. 2, let. b, de l’ordonnance du 17 octobre 2001 sur la publicité pour les médicaments[^65-3], ne sont pas admis dans la liste des spécialités.
+<sup>1bis</sup> Si un médicament remplit les conditions fixées à l’art. 3<sup>sexies</sup> du règlement du 17 janvier 1961 sur l’assurance-invalidité (RAI)[^65-3] pour l’admission dans la liste des spécialités en matière d’infirmités congénitales, il n’est pas admis dans la liste des spécialités.[^65-4]
+
+<sup>2</sup> Les médicaments qui font l’objet d’une publicité destinée au public, au sens de l’art. 2, let. b, de l’ordonnance du 17 octobre 2001 sur la publicité pour les médicaments[^65-5], ne sont pas admis dans la liste des spécialités.
 
 <sup>3</sup> Les médicaments doivent être efficaces, appropriés et économiques.
 
-<sup>4</sup> Le titulaire de l’autorisation de mise sur le marché d’une préparation originale doit remettre à l’OFSP, avec la demande d’admission dans la liste des spécialités, le numéro des brevets, celui des certificats complémentaires de protection et leur date d’expiration.[^65-4]
+<sup>4</sup> Le titulaire de l’autorisation de mise sur le marché d’une préparation originale doit remettre à l’OFSP, avec la demande d’admission dans la liste des spécialités, le numéro des brevets, celui des certificats complémentaires de protection et leur date d’expiration.[^65-6]
 
 <sup>5</sup>
 
 L’OFSP peut assortir l’admission de conditions et de charges, notamment:
 
 - a. admettre pour une durée limitée un médicament dont l’efficacité, l’adéquation ou le caractère économique sont en cours d’évaluation lorsqu’il n’y a pas d’alternative thérapeutique ou que le médicament promet une plus grande efficacité par rapport aux traitements existants;
-- b. faire obligation au titulaire de l’autorisation d’informer l’OFSP lorsque le médicament dépasse un certain chiffre d’affaires sur une période donnée.[^65-5]
+- b. faire obligation au titulaire de l’autorisation d’informer l’OFSP lorsque le médicament dépasse un certain chiffre d’affaires sur une période donnée.[^65-7]
 
 [^65-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2009, en vigueur depuis le 1<sup>er</sup> oct. 2009 ([RO 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
 [^65-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^65-3]: [RS 812.212.5](https://fedlex.data.admin.ch/eli/cc/2001/519)
-[^65-4]: Nouvelle teneur selon le ch. I de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
-[^65-5]: Nouvelle teneur selon le ch. I de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
+[^65-3]: [RS 832.201](https://fedlex.data.admin.ch/eli/cc/1982/1724_1724_1724)
+[^65-4]: Introduit par l’annexe ch. 4 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^65-5]: [RS 812.212.5](https://fedlex.data.admin.ch/eli/cc/2001/519)
+[^65-6]: Nouvelle teneur selon le ch. I de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
+[^65-7]: Nouvelle teneur selon le ch. I de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
 
 #### Art. 65a
 
@@ -1936,13 +2141,13 @@ Les prix fixés dans la liste des spécialités ne peuvent être augmentés que 
 - a. le médicament remplit encore les conditions d’admission;
 - b. deux années au moins se sont écoulées depuis l’admission du médicament dans la liste des spécialités ou depuis la dernière augmentation du prix.[^67-6]
 
-<sup>2bis</sup> ...[^67-7]
+<sup>2bis</sup> …[^67-7]
 
-<sup>2ter</sup> ...[^67-8]
+<sup>2ter</sup> …[^67-8]
 
-<sup>3</sup> ...[^67-9]
+<sup>3</sup> …[^67-9]
 
-<sup>4</sup> ...[^67-10]
+<sup>4</sup> …[^67-10]
 
 [^67-1]: Voir la disp. fin. mod. 2 oct. 2000, à la fin du texte.
 [^67-2]: Nouvelle teneur selon le ch. I de l’O du 2 oct. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2835](https://fedlex.data.admin.ch/eli/oc/2000/481)).
@@ -2097,7 +2302,7 @@ L’assurance obligatoire des soins prend en charge les coûts d’un médicamen
 
 <sup>2</sup> L’assureur détermine le montant de la prise en charge après avoir consulté le titulaire de l’autorisation. Ce montant doit être inférieur au prix maximum figurant dans la liste des spécialités.[^71a-2]
 
-<sup>3</sup> ...[^71a-3]
+<sup>3</sup> …[^71a-3]
 
 [^71a-1]: Introduit par le ch. I de l’O du 2 fév. 2011, en vigueur depuis le 1<sup>er</sup> mars 2011 ([RO 2011 653](https://fedlex.data.admin.ch/eli/oc/2011/104)).
 [^71a-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
@@ -2141,10 +2346,12 @@ L’assurance obligatoire des soins prend en charge les coûts d’un médicamen
 
 **Prise en charge des coûts des médicaments visant à traiter le COVID-19**[^71e-1]
 
-Les art. 71*a* à 71*d* ne s’appliquent pas à la prise en charge des coûts de médicaments qui sont utilisés pour traiter des patients atteints du COVID-19 et qui contiennent des substances actives énumérées à l’annexe 5 de l’ordonnance 3 COVID-19 du 19 juin 2020[^71e-2].
+Les art. 71*a* à 71*d* ne s’appliquent pas à la prise en charge des coûts dans les cas suivants:
 
-[^71e-1]: Introduit par le ch. III de l’O du 12 mai 2021, en vigueur du 1<sup>er</sup> mai 2021 au 31 déc. 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^71e-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+- a. médicaments qui sont utilisés pour traiter des patients atteints du COVID-19 et qui contiennent des substances actives énumérées à l’annexe 5 de l’ordonnance 3 COVID-19 du 19 juin 20202;
+- b. médicaments qui disposent d’une autorisation valable de l’institut avec une indication pour le traitement du COVID-19.
+
+[^71e-1]: Introduit par le ch. III de l’O du 12 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022 ([RO 2021 892](https://fedlex.data.admin.ch/eli/oc/2021/892)).
 
 ### Section 5 Dispositions communes pour la Liste des analyses, la Liste des médicaments avec tarif et la Liste des spécialités****
 
@@ -2425,7 +2632,7 @@ Le DFI désigne, après avoir consulté la commission compétente, les mesures p
 
 ### Titre 5 Financement
 
-### Chapitre 1 ...
+### Chapitre 1 …
 
 #### Art. 78
 
@@ -2550,7 +2757,7 @@ Les primes doivent être payées à l’avance et en principe tous les mois.
 
 **Réduction de primes en cas d’assujettissement à une autre assurance**[^91a-1]
 
-<sup>1</sup> ...[^91a-2]
+<sup>1</sup> …[^91a-2]
 
 <sup>2</sup> Les assureurs réduisent les primes de l’assurance obligatoire des soins des personnes qui ont conclu une assurance à titre obligatoire selon la LAA[^91a-3], et ce, pendant la durée de la couverture des accidents.[^91a-4]
 
@@ -2673,11 +2880,11 @@ La suspension de l’échéance des primes prend fin sans paiement rétroactif d
 
 <sup>1bis</sup> Les assureurs fixent le montant dont ils réduisent la prime selon les exigences d’assurance. Ils respectent les réductions de primes maximales prescrites à l’al. 2<sup>bis</sup> et à l’art. 90*c*.[^95-1]
 
-<sup>2</sup> ...[^95-2]
+<sup>2</sup> …[^95-2]
 
 <sup>2bis</sup> La réduction de primes par année civile ne doit pas être plus importante que 70 % du risque de participer aux coûts assumé par les assurés ayant choisi une franchise plus élevée.[^95-3]
 
-<sup>3</sup> ...[^95-4]
+<sup>3</sup> …[^95-4]
 
 [^95-1]: Introduit par le ch. I de l’O du 23 fév. 2000 ([RO 2000 889](https://fedlex.data.admin.ch/eli/oc/2000/137)). Nouvelle teneur selon le ch. I de l’O du 26 avr. 2006, en vigueur depuis le 10 mai 2006 ([RO 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
 [^95-2]: Abrogé par le ch. I de l’O du 26 avr. 2006, en vigueur depuis le 10 mai 2006 ([RO 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
@@ -2820,16 +3027,24 @@ Les assurés résidant dans un État membre de l’Union européenne, en Islande
 
 <sup>1</sup> La contribution journalière aux frais de séjour hospitalier prévue à l’art. 64, al. 5, de la loi se monte à 15 francs.
 
+<sup>1bis</sup>
+
+Elle n’est pas due:
+
+- a. pour le jour de sortie;
+- b. pour les jours de congé, calculés selon les règles de la structure tarifaire applicable visée à l’art. 49, al. 1, LAMal, telles qu’approuvées ou fixées par le Conseil fédéral.[^104-2]
+
 <sup>2</sup>
 
 Sont exemptés de cette contribution:
 
 - a. les enfants au sens de l’art. 61, al. 3, de la loi;
 - b. les jeunes adultes, au sens de l’art. 61, al. 3, de la loi, qui sont en formation;
-- c.[^104-2] les femmes exemptées de la participation aux coûts en vertu de l’art. 64, al. 7, de la loi.
+- c.[^104-3] les femmes exemptées de la participation aux coûts en vertu de l’art. 64, al. 7, de la loi.
 
 [^104-1]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6161](https://fedlex.data.admin.ch/eli/oc/2010/879)).
-[^104-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)). Voir aussi les disp, trans. de cette mod. à la fin du texte.
+[^104-2]: Introduit par le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323)).
+[^104-3]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)). Voir aussi les disp, trans. de cette mod. à la fin du texte.
 
 #### Art. 104a
 
@@ -2942,7 +3157,7 @@ Lors de l’annonce selon l’art. 64*a*, al. 3, de la loi, l’assureur fournit
 - b. le sexe;
 - c. la date de naissance;
 - d. le domicile;
-- e. le numéro d’assuré AVS.
+- e. le numéro AVS.
 
 [^105g-1]: Introduit par le ch. I de l’O du 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 
@@ -3289,7 +3504,7 @@ Il y a surindemnisation dans la mesure où les prestations respectives des assur
 
 [^122-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
-### Titre 2 ...
+### Titre 2 …
 
 #### Art. 123 à 126
 
@@ -3478,9 +3693,9 @@ Les procédures pendantes à l’entrée en vigueur de la présente modification
 
 <sup>3</sup> Les art. 65 à 65*c* ainsi que 66*a* s’appliquent aux médicaments qui ont été admis sur la liste des spécialités avant l’entrée en vigueur de la présente modification.
 
-<sup>4</sup> ...[^u10-3]
+<sup>4</sup> …[^u10-3]
 
-<sup>5</sup> ...[^u10-4]
+<sup>5</sup> …[^u10-4]
 
 [^u10-2]: [RO 2001 138](https://fedlex.data.admin.ch/eli/oc/2001/31)
 [^u10-3]: Abrogé par le ch. I de l’O du 27 juin 2007, avec effet au 1<sup>er</sup> août. 2007 ([RO 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
@@ -3620,7 +3835,7 @@ Lorsqu’un assureur reçoit une demande de prise en charge de prestations par u
 
 [^u20-1]: [RO 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)
 
-L’ancien droit reste applicable à l’Islande, au Liechtenstein et à la Norvège jusqu’à l’entrée en vigueur de la modification du ...[^u20-2] de l’annexe K de l’Accord AELE.[^u20-3]
+L’ancien droit reste applicable à l’Islande, au Liechtenstein et à la Norvège jusqu’à l’entrée en vigueur de la modification du …[^u20-2] de l’annexe K de l’Accord AELE.[^u20-3]
 
 [^u20-2]: RO ...
 [^u20-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
@@ -3705,6 +3920,53 @@ Les demandes en reconnaissance de l’équivalence d’un titre postgrade en mé
 
 [^u27-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
+## Disposition transitoire de la modification du 26 mai 2021****
+
+[^u28-1]
+
+[^u28-1]: [RO 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323). Abrogée par le ch. I de l’O du 23 juin 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+
+## Dispositions transitoires de la modification du 23 juin 2021****
+
+[^u29-1]
+
+[^u29-1]: [RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)
+
+<sup>1</sup> Les assureurs doivent fournir aux cantons, dans un délai de six mois à compter de l’entrée en vigueur de la modification du 23 juin 2021, les données concernant les fournisseurs de prestations admis sur leur territoire avant l’entrée en vigueur de la modification du 19 juin 2020 de la LAMal[^u29-2].
+
+<sup>2</sup> Les listes des hôpitaux de soins somatiques aigus et des maisons de naissance doivent se conformer aux critères de planification prévus par la présente ordonnance dans un délai de quatre ans à compter de l’entrée en vigueur de la modification du 23 juin 2021.
+
+<sup>3</sup> Les listes des hôpitaux psychiatriques et des hôpitaux de réadaptation doivent se conformer aux critères de planification prévus par la présente ordonnance dans un délai de six ans à compter de l’entrée en vigueur de la modification du 23 juin 2021.
+
+<sup>4</sup> Les listes des établissements médico-sociaux doivent se conformer aux critères de planification prévus par la présente ordonnance dans un délai de cinq ans à compter de l’entrée en vigueur de la modification du 23 juin 2021.
+
+<sup>5</sup> ...[^u29-3]
+
+<sup>7</sup> Lorsqu’un podologue dispose d’un titre visé à l’art. 50*d*, let. b, ou à l’al. 6 à l’entrée en vigueur de la modification du 23 juin 2021 ou obtient un diplôme visé à l’art. 50*d*, let. b, dans les deux ans qui suivent, toute activité pratique qu’il exerce après l’obtention du diplôme en tant que podologue avant l’entrée en vigueur de la modification et pendant les quatre années suivantes est prise en compte dans l’évaluation du respect de l’exigence de deux ans d’activité pratique visée à l’art. 50*d*, let. c, même si l’activité ne remplit pas les conditions énoncées à l’art. 50*d*, let. c.
+
+<sup>6</sup> Les podologues qui disposent, à l’entrée en vigueur de la modification du 23 juin 2021, d’une autorisation cantonale pour le traitement des personnes à risque sous leur propre responsabilité sont admis s’ils sont titulaires de l’un des titres suivants:
+
+- a. certificat de capacité de podologue délivré par l’Association Suisse des Podologues (ASP);
+- b. certificat de capacité de podologue délivré par l’Association Professionnelle <sup>Suisse des Podologues (APSP);</sup>
+- c. diplôme de podologue délivré par le canton du Tessin, complété par l’attestation de réussite du cours relatif au pied diabétique du centre de formation professionnelle socio-sanitaire (CPS) de Lugano en collaboration avec l’Union des podologues de la Suisse italienne (UPSI).
+
+[^u29-2]: [RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413)
+[^u29-3]: Entre en vigueur le 1<sup>er</sup> juil.2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+
+## Dispositions transitoires de la modification du 3 novembre 2021****
+
+[^u30-1]
+
+[^u30-1]: [RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)
+
+<sup>1</sup> L’art. 65, al. 1<sup>bis</sup>, s’applique aussi aux demandes d’admission dans la liste des spécialités qui sont encore pendantes auprès de l’OFSP au moment de l’entrée en vigueur de la modification du 3 novembre 2021.
+
+<sup>2</sup> En application de l’art. 65, al. 1<sup>bis</sup>, les médicaments figurant sur la liste des spécialités qui remplissent les conditions fixées à l’art. 3<sup>sexies</sup> RAI[^u30-2] pour l’admission dans la liste des spécialités en matière d’infirmités congénitales sont transférés dans cette dernière dans le cadre du réexamen prévu à l’art. 65*d*.
+
+<sup>3</sup> Dans le cadre du réexamen prévu à l’art. 65*d*, les médicaments figurant sur la liste des médicaments en matière d’infirmités congénitales, qui fait partie de la liste des spécialités, sont transférés dans la liste des spécialités en matière d’infirmités congénitales au sens de l’art. 3<sup>sexies</sup> RAI ou dans la liste des spécialités au sens de l’art. 52, al. 1, de la loi.
+
+[^u30-2]: [RS 832.201](https://fedlex.data.admin.ch/eli/cc/1982/1724_1724_1724)
+
 Annexe 1*[^t-1]*
 
 (art. 70*b*)
@@ -3758,6 +4020,6 @@ Sont abrogées:
 
 ### 2. à 10.
 
-...[^annex2-lvlu1-lvl2-1]
+…[^annex2-lvlu1-lvl2-1]
 
 [^annex2-lvlu1-lvl2-1]: Les mod. peuvent être consultées au [RO 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867).

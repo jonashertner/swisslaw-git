@@ -4,11 +4,11 @@ title: Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV)
 short: KVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: de
-version: 2021-10-01
+version: 2022-01-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20211001/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20211001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20211001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20211001/de"
 
 (KVV)
 
-vom 27. Juni 1995 (Stand am 1. Oktober 2021)
+vom 27. Juni 1995 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -78,48 +78,49 @@ Versicherungspflichtig sind zudem:
 
 Es unterstehen nicht der Versicherungspflicht:
 
-- a.[^2-1] aktive und pensionierte Bundesbedienstete, die nach Artikel 1*a* Absatz 1 Buchstabe b Ziffern 1–7 und Artikel 2 des Bundesgesetzes vom 19. Juni 1992[^2-2] über die Militärversicherung (MVG) der Militärversicherung unterstellt sind;
+- a.[^2-1] aktive und pensionierte Bundesbedienstete, die nach Artikel 1*a* Absatz 1 Buchstabe b Ziffern 1–7[^2-2] und Artikel 2 des Bundesgesetzes vom 19. Juni 1992[^2-3] über die Militärversicherung (MVG) der Militärversicherung unterstellt sind;
 - b. Personen, die sich ausschliesslich zur ärztlichen Behandlung oder zur Kur in der Schweiz aufhalten;
-- c.[^2-3] Personen, die nach dem Freizügigkeitsabkommen[^2-4] sowie seinem Anhang II, dem EFTA-Abkommen[^2-5], seinem Anhang K und Anlage 2 zu Anhang K oder einem Abkommen über Soziale Sicherheit wegen ihrer Erwerbstätigkeit in einem anderen Staat den Rechtsvorschriften dieses Staates unterstellt sind;
-- d.[^2-6] Personen, die wegen des Bezugs einer Leistung einer ausländischen Arbeitslosenversicherung nach dem Freizügigkeitsabkommen sowie seinem Anhang II oder dem EFTA-Abkommen, seinem Anhang K und Anlage 2 zu Anhang K den Rechtsvorschriften eines anderen Staates unterstellt sind;
-- e.[^2-7] Personen, die keinen Anspruch auf eine schweizerische Rente haben, aber nach dem Freizügigkeitsabkommen sowie seinem Anhang II Anspruch auf eine Rente eines Mitgliedstaates der Europäischen Union oder nach dem EFTA-Abkommen, seinem Anhang K und Anlage 2 zu Anhang K Anspruch auf eine isländische oder norwegische Rente haben;
-- f.[^2-8] Personen, die als Familienangehörige einer unter den Buchstaben c, d oder e erwähnten Person in deren ausländischen Krankenversicherung mitversichert sind und entweder Anspruch auf Leistungsaushilfe haben oder für Behandlungen in der Schweiz über einen gleichwertigen Versicherungsschutz verfügen;
-- g.[^2-9] Personen, die als Familienangehörige einer Person in deren ausländischen Krankenversicherung mitversichert sind und Anspruch auf Leistungsaushilfe haben.
+- c.[^2-4] Personen, die nach dem Freizügigkeitsabkommen[^2-5] sowie seinem Anhang II, dem EFTA-Abkommen[^2-6], seinem Anhang K und Anlage 2 zu Anhang K oder einem Abkommen über Soziale Sicherheit wegen ihrer Erwerbstätigkeit in einem anderen Staat den Rechtsvorschriften dieses Staates unterstellt sind;
+- d.[^2-7] Personen, die wegen des Bezugs einer Leistung einer ausländischen Arbeitslosenversicherung nach dem Freizügigkeitsabkommen sowie seinem Anhang II oder dem EFTA-Abkommen, seinem Anhang K und Anlage 2 zu Anhang K den Rechtsvorschriften eines anderen Staates unterstellt sind;
+- e.[^2-8] Personen, die keinen Anspruch auf eine schweizerische Rente haben, aber nach dem Freizügigkeitsabkommen sowie seinem Anhang II Anspruch auf eine Rente eines Mitgliedstaates der Europäischen Union oder nach dem EFTA-Abkommen, seinem Anhang K und Anlage 2 zu Anhang K Anspruch auf eine isländische oder norwegische Rente haben;
+- f.[^2-9] Personen, die als Familienangehörige einer unter den Buchstaben c, d oder e erwähnten Person in deren ausländischen Krankenversicherung mitversichert sind und entweder Anspruch auf Leistungsaushilfe haben oder für Behandlungen in der Schweiz über einen gleichwertigen Versicherungsschutz verfügen;
+- g.[^2-10] Personen, die als Familienangehörige einer Person in deren ausländischen Krankenversicherung mitversichert sind und Anspruch auf Leistungsaushilfe haben.
 
-<sup>2</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind Personen, die nach dem Recht eines Staates, mit dem keine Regelung über die Abgrenzung der Versicherungspflicht besteht, obligatorisch krankenversichert sind, sofern der Einbezug in die schweizerische Versicherung für sie eine Doppelbelastung bedeuten würde und sie für Behandlungen in der Schweiz über einen gleichwertigen Versicherungsschutz verfügen. Dem Gesuch ist eine schriftliche Bestätigung der zuständigen ausländischen Stelle mit allen erforderlichen Angaben beizulegen.[^2-10]
+<sup>2</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind Personen, die nach dem Recht eines Staates, mit dem keine Regelung über die Abgrenzung der Versicherungspflicht besteht, obligatorisch krankenversichert sind, sofern der Einbezug in die schweizerische Versicherung für sie eine Doppelbelastung bedeuten würde und sie für Behandlungen in der Schweiz über einen gleichwertigen Versicherungsschutz verfügen. Dem Gesuch ist eine schriftliche Bestätigung der zuständigen ausländischen Stelle mit allen erforderlichen Angaben beizulegen.[^2-11]
 
-<sup>3</sup> ...[^2-11]
+<sup>3</sup> …[^2-12]
 
-<sup>4</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind Personen, die sich im Rahmen einer Aus- oder Weiterbildung in der Schweiz aufhalten, wie namentlich Studierende, Schüler und Schülerinnen, Praktikanten und Praktikantinnen sowie Stagiaires, sowie die sie begleitenden Familienangehörigen im Sinne von Artikel 3 Absatz 2, sofern sie während der gesamten Geltungsdauer der Befreiung für Behandlungen in der Schweiz über einen gleichwertigen Versicherungsschutz verfügen.[^2-12] Dem Gesuch ist eine schriftliche Bestätigung der zuständigen ausländischen Stelle mit allen erforderlichen Angaben beizulegen. Die zuständige kantonale Behörde kann die betreffende Person höchstens für drei Jahre von der Versicherungspflicht befreien. Auf Gesuch hin kann die Befreiung um höchstens drei weitere Jahre verlängert werden. Die betreffende Person kann die Befreiung oder einen Verzicht auf die Befreiung ohne besonderen Grund nicht widerrufen.[^2-13]
+<sup>4</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind Personen, die sich im Rahmen einer Aus- oder Weiterbildung in der Schweiz aufhalten, wie namentlich Studierende, Schüler und Schülerinnen, Praktikanten und Praktikantinnen sowie Stagiaires, sowie die sie begleitenden Familienangehörigen im Sinne von Artikel 3 Absatz 2, sofern sie während der gesamten Geltungsdauer der Befreiung für Behandlungen in der Schweiz über einen gleichwertigen Versicherungsschutz verfügen.[^2-13] Dem Gesuch ist eine schriftliche Bestätigung der zuständigen ausländischen Stelle mit allen erforderlichen Angaben beizulegen. Die zuständige kantonale Behörde kann die betreffende Person höchstens für drei Jahre von der Versicherungspflicht befreien. Auf Gesuch hin kann die Befreiung um höchstens drei weitere Jahre verlängert werden. Die betreffende Person kann die Befreiung oder einen Verzicht auf die Befreiung ohne besonderen Grund nicht widerrufen.[^2-14]
 
-<sup>4bis</sup> ...[^2-14]
+<sup>4bis</sup> …[^2-15]
 
-<sup>5</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind in die Schweiz entsandte Arbeitnehmer und Arbeitnehmerinnen, welche gestützt auf eine zwischenstaatliche Vereinbarung über soziale Sicherheit von der Beitragspflicht in der schweizerischen Alters-, Hinterlassenen- und Invalidenversicherung (AHV/IV) befreit sind, sowie die sie begleitenden Familienangehörigen im Sinne von Artikel 3 Absatz 2, wenn der Arbeitgeber oder die Arbeitgeberin sich verpflichtet, dafür zu sorgen, dass während der gesamten Geltungsdauer der Befreiung für Behandlungen in der Schweiz mindestens die Leistungen nach KVG versichert sind. Diese Regelung gilt sinngemäss auch für andere Personen, die gestützt auf eine zwischenstaatliche Vereinbarung durch eine Ausnahmebewilligung während eines vorübergehenden Aufenthaltes in der Schweiz von der Beitragspflicht in der AHV/IV befreit sind. Die betreffende Person und der Arbeitgeber oder die Arbeitgeberin können die Befreiung oder einen Verzicht auf die Befreiung nicht widerrufen.[^2-15]
+<sup>5</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind in die Schweiz entsandte Arbeitnehmer und Arbeitnehmerinnen, welche gestützt auf eine zwischenstaatliche Vereinbarung über soziale Sicherheit von der Beitragspflicht in der schweizerischen Alters-, Hinterlassenen- und Invalidenversicherung (AHV/IV) befreit sind, sowie die sie begleitenden Familienangehörigen im Sinne von Artikel 3 Absatz 2, wenn der Arbeitgeber oder die Arbeitgeberin sich verpflichtet, dafür zu sorgen, dass während der gesamten Geltungsdauer der Befreiung für Behandlungen in der Schweiz mindestens die Leistungen nach KVG versichert sind. Diese Regelung gilt sinngemäss auch für andere Personen, die gestützt auf eine zwischenstaatliche Vereinbarung durch eine Ausnahmebewilligung während eines vorübergehenden Aufenthaltes in der Schweiz von der Beitragspflicht in der AHV/IV befreit sind. Die betreffende Person und der Arbeitgeber oder die Arbeitgeberin können die Befreiung oder einen Verzicht auf die Befreiung nicht widerrufen.[^2-16]
 
-<sup>6</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind Personen, die in einem Mitgliedstaat der Europäischen Union wohnen, sofern sie nach dem Freizügigkeitsabkommen sowie seinem Anhang II von der Versicherungspflicht befreit werden können und nachweisen, dass sie im Wohnstaat und während eines Aufenthalts in einem anderen Mitgliedstaat der Europäischen Union und in der Schweiz für den Krankheitsfall gedeckt sind.[^2-16]
+<sup>6</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind Personen, die in einem Mitgliedstaat der Europäischen Union wohnen, sofern sie nach dem Freizügigkeitsabkommen sowie seinem Anhang II von der Versicherungspflicht befreit werden können und nachweisen, dass sie im Wohnstaat und während eines Aufenthalts in einem anderen Mitgliedstaat der Europäischen Union und in der Schweiz für den Krankheitsfall gedeckt sind.[^2-17]
 
-<sup>7</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind Personen, die über eine Aufenthaltsbewilligung für Personen ohne Erwerbstätigkeit nach dem Freizügigkeitsabkommen oder dem EFTA-Abkommen verfügen, sofern sie während der gesamten Geltungsdauer der Befreiung für Behandlungen in der Schweiz über einen gleichwertigen Versicherungsschutz verfügen. Dem Gesuch ist eine schriftliche Bestätigung der zuständigen ausländischen Stelle mit allen erforderlichen Angaben beizulegen. Die betreffende Person kann die Befreiung oder einen Verzicht auf die Befreiung ohne besonderen Grund nicht widerrufen.[^2-17]
+<sup>7</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind Personen, die über eine Aufenthaltsbewilligung für Personen ohne Erwerbstätigkeit nach dem Freizügigkeitsabkommen oder dem EFTA-Abkommen verfügen, sofern sie während der gesamten Geltungsdauer der Befreiung für Behandlungen in der Schweiz über einen gleichwertigen Versicherungsschutz verfügen. Dem Gesuch ist eine schriftliche Bestätigung der zuständigen ausländischen Stelle mit allen erforderlichen Angaben beizulegen. Die betreffende Person kann die Befreiung oder einen Verzicht auf die Befreiung ohne besonderen Grund nicht widerrufen.[^2-18]
 
-<sup>8</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind Personen, für welche eine Unterstellung unter die schweizerische Versicherung eine klare Verschlechterung des bisherigen Versicherungsschutzes oder der bisherigen Kostendeckung zur Folge hätte und die sich auf Grund ihres Alters und/oder ihres Gesundheitszustandes nicht oder nur zu kaum tragbaren Bedingungen im bisherigen Umfang zusatzversichern könnten. Dem Gesuch ist eine schriftliche Bestätigung der zuständigen ausländischen Stelle mit allen erforderlichen Angaben beizulegen. Die betreffende Person kann die Befreiung oder einen Verzicht auf die Befreiung ohne besonderen Grund nicht widerrufen.[^2-18]
+<sup>8</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind Personen, für welche eine Unterstellung unter die schweizerische Versicherung eine klare Verschlechterung des bisherigen Versicherungsschutzes oder der bisherigen Kostendeckung zur Folge hätte und die sich auf Grund ihres Alters und/oder ihres Gesundheitszustandes nicht oder nur zu kaum tragbaren Bedingungen im bisherigen Umfang zusatzversichern könnten. Dem Gesuch ist eine schriftliche Bestätigung der zuständigen ausländischen Stelle mit allen erforderlichen Angaben beizulegen. Die betreffende Person kann die Befreiung oder einen Verzicht auf die Befreiung ohne besonderen Grund nicht widerrufen.[^2-19]
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
-[^2-2]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^2-3]: Eingefügt durch Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^2-4]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^2-5]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^2-6]: Eingefügt durch Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^2-7]: Eingefügt durch Ziff. I der V vom 22. Mai 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
-[^2-8]: Eingefügt durch Ziff. I der V vom 22. Mai 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^2-9]: Eingefügt durch Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^2-10]: Fassung gemäss Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^2-11]: Aufgehoben durch Ziff. I der V vom 22. Mai 2002, mit Wirkung seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^2-12]: Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^2-13]: Eingefügt durch Ziff. I der V vom 25. Nov. 1996 ([AS 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Fassung gemäss Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
-[^2-14]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Aufgehoben durch Ziff. I der V vom 29. Nov. 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)). Siehe auch die UeB dieser Änd. am Ende des Textes.
-[^2-15]: Eingefügt durch Ziff. I der V vom 25. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
-[^2-16]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
-[^2-17]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^2-18]: Eingefügt durch Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^2-2]: Siehe: nach Art. 1*a* Abs. 1 Bst. b Ziff. 1-6
+[^2-3]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^2-4]: Eingefügt durch Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^2-5]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^2-6]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^2-7]: Eingefügt durch Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^2-8]: Eingefügt durch Ziff. I der V vom 22. Mai 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^2-9]: Eingefügt durch Ziff. I der V vom 22. Mai 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^2-10]: Eingefügt durch Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^2-11]: Fassung gemäss Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^2-12]: Aufgehoben durch Ziff. I der V vom 22. Mai 2002, mit Wirkung seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^2-13]: Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^2-14]: Eingefügt durch Ziff. I der V vom 25. Nov. 1996 ([AS 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Fassung gemäss Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^2-15]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Aufgehoben durch Ziff. I der V vom 29. Nov. 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)). Siehe auch die UeB dieser Änd. am Ende des Textes.
+[^2-16]: Eingefügt durch Ziff. I der V vom 25. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
+[^2-17]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^2-18]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^2-19]: Eingefügt durch Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
 #### Art. 3
 
@@ -333,7 +334,7 @@ Die Versicherer informieren die Versicherten nach Artikel 6*a* Absatz 1 des Gese
 
 ### 2. Titel: Organisation
 
-### 1. Kapitel: ...
+### 1. Kapitel: …
 
 #### Art. 12–15
 
@@ -347,7 +348,7 @@ Die Versicherer informieren die Versicherten nach Artikel 6*a* Absatz 1 des Gese
 
 [^15a-1]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Aufgehoben durch Anhang Ziff. 3 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
-### 2. Kapitel: ...
+### 2. Kapitel: …
 
 #### Art. 16–18
 
@@ -450,7 +451,7 @@ Die gemeinsame Einrichtung entscheidet bei Streitigkeiten zwischen ihr und einem
 
 ### 5. Kapitel: Aufsicht
 
-### 1. Abschnitt: ...
+### 1. Abschnitt: …
 
 #### Art. 24–26
 
@@ -501,7 +502,7 @@ Die Versicherer müssen dem BAG jährlich pro versicherte Person namentlich folg
 - e. die jeweiligen Erbringer der Leistungen;
 - f. die Höhe der erhobenen Kostenbeteiligung.
 
-<sup>3bis</sup> ...[^28-7]
+<sup>3bis</sup> …[^28-7]
 
 <sup>4</sup> Sie müssen dem BAG die Daten nach Absatz 3 auf elektronischen Datenträgern zur Verfügung stellen. Das BAG kann sie davon auf Gesuch hin für eine befristete Zeit befreien, wenn ihnen die Lieferung mangels technischer Voraussetzungen nicht möglich ist.
 
@@ -638,17 +639,18 @@ Die Leistungserbringer geben dem Bundesamt für Statistik (BFS) folgende Daten n
 
 Das BFS gibt folgenden Datenempfängern folgende Daten weiter:
 
-- a.[^30b-2] dem BAG: die Daten nach Artikel 30, sofern diese zur Beurteilung der Tarife (Art. 43, 46 Abs. 4 und 47 KVG), für die Betriebsvergleiche zwischen Spitälern (Art. 49 Abs. 8 KVG), zur Kontrolle der Wirtschaftlichkeit und Qualität der Leistungen (Art. 32, 58, 58*h* und 59 KVG) und für die Veröffentlichung der Daten (Art. 59*a* Abs. 3 KVG) erforderlich sind;
+- a.[^30b-2] dem BAG: die Daten nach Artikel 30, sofern sie erforderlich sind zur Beurteilung der Tarife (Art. 43, 46 Abs. 4 und 47 KVG), für die Betriebsvergleiche zwischen Spitälern (Art. 49 Abs. 8 KVG), für die Kontrolle der Wirtschaftlichkeit und der Qualität der Leistungen (Art. 32, 58 und 59 KVG), zur Festlegung der Kriterien und der methodischen Grundsätze für die Festlegung der Höchstzahlen (Art. 55*a* Abs. 2 KVG) und für die Veröffentlichung von Daten (Art. 59*a* Abs. 3 KVG);
 - a<sup>bis</sup>.[^30b-3] der Eidgenössischen Qualitätskommission: die zur Erfüllung der Aufgaben nach Artikel 58*c* KVG erforderlichen Daten;
 - b.
 
   den zuständigen Behörden der Kantone:
 
   - 1\. die Daten nach Artikel 30, sofern diese für die Planung der Spitäler, Geburtshäuser und Pflegeheime (Art. 39 KVG) erforderlich sind,
-  - 2\. die Daten nach Artikel 30 Buchstaben a, d und e, sofern diese für die Beurteilung der Tarife (Art. 43, 46 Abs. 4 und 47 KVG) erforderlich sind;
+  - 2\. die Daten nach Artikel 30 Buchstaben a, d und e, sofern diese für die Beurteilung der Tarife (Art. 43, 46 Abs. 4 und 47 KVG) erforderlich sind,
+  - 3\.[^30b-4] die Daten nach Artikel 30, sofern sie für die Festlegung der Höchstzahlen notwendig sind (Art. 55*a* KVG);
 
 - c. den Versicherern: die Daten nach Artikel 30 Buchstaben a, c, d und e, sofern diese für den Vollzug der Bestimmungen zur Kontrolle der Wirtschaftlichkeit der Leistungen, die von der obligatorischen Krankenpflegeversicherung übernommen werden, erforderlich sind;
-- d. dem Preisüberwacher: die Daten nach Artikel 30, sofern diese zur Prüfung von Preisen und Tarifen im Gesundheitswesen im Rahmen von Artikel 14 des Preisüberwachungsgesetzes vom 20. Dezember 1985[^30b-4] erforderlich sind.
+- d. dem Preisüberwacher: die Daten nach Artikel 30, sofern diese zur Prüfung von Preisen und Tarifen im Gesundheitswesen im Rahmen von Artikel 14 des Preisüberwachungsgesetzes vom 20. Dezember 1985[^30b-5] erforderlich sind.
 
 <sup>2</sup> Es stellt die Anonymität des Personals nach Artikel 30 Buchstabe b und der Patientinnen und Patienten nach Artikel 30 Buchstabe c bei der Weitergabe der personenbezogenen Daten sicher.
 
@@ -660,9 +662,10 @@ Die Daten nach Artikel 30 werden grundsätzlich auf Betriebsebene aggregiert wei
 - b. den zuständigen Behörden der Kantone für die Planung der Spitäler, Geburtshäuser und Pflegeheime.
 
 [^30b-1]: Eingefügt durch Ziff. I der V vom 29. Juni 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
-[^30b-2]: Fassung gemäss Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^30b-2]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^30b-3]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
-[^30b-4]: [SR 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
+[^30b-4]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^30b-5]: [SR 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
 
 #### Art. 30c
 
@@ -747,9 +750,11 @@ Die Listen nach Artikel 52 Absatz 1 Buchstabe a Ziffern 1 (Analysenliste) und 2 
 
 #### Art. 35
 
-**Therapeutische Massnahmen bei Geburtsgebrechen**
+**Geburtsgebrechen**[^35-1]
 
-Die bis zum Erreichen der gesetzlich vorgeschriebenen Altersgrenze von der Invalidenversicherung für Geburtsgebrechen erbrachten therapeutischen Massnahmen nach Artikel 52 Absatz 2 des Gesetzes sind anschliessend von der obligatorischen Krankenpflegeversicherung zu übernehmen.
+Das EDI sorgt dafür, dass die bis zum Erreichen der gesetzlichen Altersgrenze von der Invalidenversicherung für Geburtsgebrechen erbrachten medizinischen Massnahmen von der obligatorischen Krankenpflegeversicherung nach Massgabe der Voraussetzungen der Artikel 32–34 und 43–52*a* des Gesetzes vergütet werden.
+
+[^35-1]: Fassung gemäss Anhang Ziff. 4 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 35a
 
@@ -821,7 +826,7 @@ Bei Personen, die in einem Mitgliedstaat der Europäischen Union, in Island, in 
 
 [^37-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
-### 3. Kapitel: Kommissionen
+### 3. Kapitel:**** Kommissionen
 
 [^part1-tit3-chap3-1]
 
@@ -969,32 +974,50 @@ Sie besteht aus 16 Mitgliedern; davon vertreten:[^37f-3]
 
 ### 1. Kapitel: Zulassung
 
-### 1. Abschnitt: Ärzte und Ärztinnen
+### 1. Abschnitt:**** Ärzte und Ärztinnen sowie Einrichtungen, die der ambulanten Krankenpflege durch Ärzte und Ärztinnen dienen
 
 [^part1-tit4-chap1-sec1-1]
 
-[^part1-tit4-chap1-sec1-1]: Fassung gemäss Art. 17 der V vom 27. Juni 2007 über Diplome, Ausbildung, Weiterbildung und Berufsausübung in den universitären Medizinalberufen, in Kraft seit 1. Sept. 2007 ([AS 2007 4055](https://fedlex.data.admin.ch/eli/oc/2007/538)).
+[^part1-tit4-chap1-sec1-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 38
 
-**Weiterbildung**
+**Ärzte und Ärztinnen**
 
-Ärztinnen und Ärzte haben sich über einen Weiterbildungstitel nach Artikel 20 des Medizinalberufegesetzes vom 23. Juni 2006[^38-1] (MedBG) auszuweisen.
+<sup>1</sup>
+
+Ärzte und Ärztinnen werden zugelassen, wenn sie zusätzlich zu den Voraussetzungen nach Artikel 37 Absätze 1 und 3 KVG die folgenden Voraussetzungen erfüllen:
+
+- a. Sie verfügen über eine kantonale Bewilligung für die Berufsausübung als Arzt oder Ärztin nach Artikel 34 des Medizinalberufegesetzes vom 23. Juni 2006[^38-1] (MedBG).
+- b. Sie verfügen über einen eidgenössischen Weiterbildungstitel im Fachgebiet nach dem MedBG, für das die Zulassung beantragt wird.
+- c. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
+
+<sup>2</sup> Die Beschränkungen der Anzahl zugelassener Ärzte und Ärztinnen (Art. 55*a* KVG) durch die Kantone bleiben vorbehalten.
+
+<sup>3</sup>
+
+Ärzte und Ärztinnen verfügen über die notwendige Sprachkompetenz im Sinne von Artikel 37 Absatz 1 KVG, wenn sie in der Lage sind, in der Sprache ihrer Tätigkeitsregion:
+
+- a. die Hauptinhalte komplexer Texte zu konkreten oder abstrakten Themen zu verstehen und deren implizite Bedeutungen zu erfassen;
+- b. sich spontan und fliessend auszudrücken, ohne öfter nach Worten zu suchen;
+- c. die Sprache wirksam und flexibel zu gebrauchen und sich klar und strukturiert zu komplexen Sachverhalten zu äussern.
 
 [^38-1]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 #### Art. 39
 
-**Gleichwertigkeit wissenschaftlicher Befähigungsausweise**
+**Einrichtungen, die der ambulanten Krankenpflege durch Ärzte und Ärztinnen dienen**
 
-<sup>1</sup> Ärztinnen und Ärzten mit eidgenössischem Diplom gleichgestellt sind Ärztinnen und Ärzte, die über ein nach Artikel 15 des MedBG[^39-1] anerkanntes ausländisches Diplom verfügen.
+<sup>1</sup>
 
-<sup>2</sup> Ärztinnen und Ärzten mit eidgenössischem Weiterbildungstitel gleichgestellt sind Ärztinnen und Ärzte, die über einen nach Artikel 21 des MedBG anerkannten ausländischen Weiterbildungstitel oder über eine kantonale Bewilligung zur Berufsausübung nach Artikel 36 Absatz 3 MedBG verfügen.[^39-2]
+Einrichtungen, die der ambulanten Krankenpflege durch Ärzte und Ärztinnen dienen, werden zugelassen, wenn sie zusätzlich zu den Voraussetzungen nach Artikel 37 Absätze 2 und 3 KVG die folgenden Voraussetzungen erfüllen:
 
-[^39-1]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^39-2]: Fassung gemäss Ziff. III der V vom 5. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
+- a. Sie erbringen ihre Leistungen durch Ärzte und Ärztinnen, welche die Voraussetzungen nach Artikel 38 Absatz 1 Buchstaben a und b erfüllen.
+- b. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
 
-### 2. Abschnitt: Apotheker und Apothekerinnen
+<sup>2</sup> Die Beschränkungen der Anzahl zugelassener Ärzte und Ärztinnen (Art. 55*a* KVG) durch die Kantone bleiben vorbehalten.
+
+### 2. Abschnitt:**** Apotheker und Apothekerinnen
 
 [^part1-tit4-chap1-sec2-1]
 
@@ -1002,25 +1025,27 @@ Sie besteht aus 16 Mitgliedern; davon vertreten:[^37f-3]
 
 #### Art. 40
 
-**Weiterbildung**[^40-1]
+[^40-1]
 
-Apothekerinnen und Apotheker haben sich über einen Weiterbildungstitel nach Artikel 20 MedBG[^40-2] auszuweisen.
+<sup>1</sup>
 
-[^40-1]: Fassung gemäss Ziff. III der V vom 5. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
+Apotheker und Apothekerinnen werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
+
+- a. Sie verfügen über eine kantonale Bewilligung für die Berufsausübung als Apotheker und Apothekerin nach Artikel 34 MedBG[^40-2];
+- b. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
+
+<sup>2</sup> Die Kantone legen die Voraussetzungen fest, unter denen Ärzte und Ärztinnen mit einer Bewilligung zur Führung einer Apotheke den zugelassenen Apothekern und Apothekerinnen gleichgestellt sind. Sie berücksichtigen dabei insbesondere die Zugangsmöglichkeiten der Patienten und Patientinnen zu einer Apotheke.
+
+[^40-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^40-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 #### Art. 41
 
-**Gleichwertigkeit wissenschaftlicher Befähigungsausweise**[^41-1]
+[^41-1]
 
-<sup>1</sup> Apothekerinnen und Apothekern mit eidgenössischem Diplom gleichgestellt sind Apothekerinnen und Apotheker, die über ein nach Artikel 15 MedBG[^41-2] anerkanntes ausländisches Diplom verfügen.
+[^41-1]: Aufgehoben durch Ziff. I der V vom 23. Juni 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-<sup>2</sup> Apothekerinnen und Apothekern mit eidgenössischem Weiterbildungstitel gleichgestellt sind Apothekerinnen und Apotheker, die über einen nach Artikel 21 MedBG anerkannten ausländischen Weiterbildungstitel oder über eine kantonale Bewilligung zur Berufsausübung nach Artikel 36 Absatz 3 MedBG verfügen.
-
-[^41-1]: Fassung gemäss Ziff. III der V vom 5. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
-[^41-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-
-### 3. Abschnitt: Zahnärzte und Zahnärztinnen
+### 3. Abschnitt:**** Zahnärzte und Zahnärztinnen
 
 [^part1-tit4-chap1-sec3-1]
 
@@ -1028,290 +1053,369 @@ Apothekerinnen und Apotheker haben sich über einen Weiterbildungstitel nach Art
 
 #### Art. 42
 
-**Zulassung**
+[^42-1]
 
-Zugelassen sind Zahnärztinnen und Zahnärzte, die über ein eidgenössisches Diplom verfügen und sich über eine zweijährige praktische Weiterbildung in einer zahnärztlichen Praxis oder einem zahnärztlichen Institut ausweisen.
+Zahnärzte und Zahnärztinnen werden für Leistungen nach Artikel 31 KVG zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
+
+- a. Sie verfügen über eine kantonale Bewilligung für die Berufsausübung als Zahnarzt oder Zahnärztin nach Artikel 34 MedBG[^42-2].
+- b. Sie haben während drei Jahren eine praktische Tätigkeit in einer zahnärztlichen Praxis oder einem zahnärztlichen Institut ausgeübt.
+- c. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
+
+[^42-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^42-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 #### Art. 43
 
-**Gleichwertigkeit wissenschaftlicher Befähigungsausweise**[^43-1]
+[^43-1]
 
-Zahnärztinnen und Zahnärzten mit eidgenössischem Diplom gleichgestellt sind Zahnärztinnen und Zahnärzte, die über ein nach Artikel 15 MedBG[^43-2] anerkanntes ausländisches Diplom oder über eine kantonale Bewilligung zur Berufsausübung nach Artikel 36 Absatz 3 MedBG verfügen.
+[^43-1]: Aufgehoben durch Ziff. I der V vom 23. Juni 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-[^43-1]: Fassung gemäss Ziff. III der V vom 5. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
-[^43-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+### 4. Abschnitt: Chiropraktoren und Chiropraktorinnen sowie Organisationen der Chiropraktik****
 
-### 4. Abschnitt: Chiropraktoren und Chiropraktorinnen
+[^part1-tit4-chap1-sec4-1]
+
+[^part1-tit4-chap1-sec4-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 44
 
+**Chiropraktoren und Chiropraktorinnen[^44-1]**
+
 <sup>1</sup>
 
-Chiropraktorinnen und Chiropraktoren haben nachzuweisen, dass:
+Chiropraktoren und Chiropraktorinnen werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
 
-- a. sie eine Ausbildung nach den Artikeln 14 und 33 des MedBG[^44-1] erfolgreich abgeschlossen haben;
-- b. sie eine Weiterbildung nach den Artikeln 17–19 des MedBG erfolgreich abgeschlossen haben.[^44-2]
+- a. Sie verfügen über eine kantonale Bewilligung für die Berufsausübung als Chiropraktor oder Chiropraktorin nach Artikel 34 MedBG[^44-2].
+- b. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen*.*[^44-3]
 
-<sup>2</sup> ...[^44-3]
+<sup>2</sup> …[^44-4]
 
-<sup>3</sup> Vorbehalten bleiben die Bestimmungen über die Anwendung von ionisierenden Strahlen zu chiropraktischen Zwecken, insbesondere Artikel 182 Absatz 1 Buchstabe d der Strahlenschutzverordnung vom 26. April 2017[^44-4] sowie die entsprechenden Ausführungsbestimmungen des Eidgenössischen Departements für Inneres.[^44-5]
+<sup>3</sup> Vorbehalten bleiben die Bestimmungen über die Anwendung von ionisierenden Strahlen zu chiropraktischen Zwecken, insbesondere Artikel 182 Absatz 1 Buchstabe d der Strahlenschutzverordnung vom 26. April 2017[^44-5] sowie die entsprechenden Ausführungsbestimmungen des Eidgenössischen Departements für Inneres.[^44-6]
 
-[^44-1]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^44-2]: Fassung gemäss Art. 17 der V vom 27. Juni 2007 über Diplome, Ausbildung, Weiterbildung und Berufsausübung in den universitären Medizinalberufen, in Kraft seit 1. Sept. 2007 ([AS 2007 4055](https://fedlex.data.admin.ch/eli/oc/2007/538)).
-[^44-3]: Aufgehoben durch Art. 17 der V vom 27. Juni 2007 über Diplome, Ausbildung, Weiterbildung und Berufsausübung in den universitären Medizinalberufen, mit Wirkung seit 1. Sept. 2007 ([AS 2007 4055](https://fedlex.data.admin.ch/eli/oc/2007/538)).
-[^44-4]: [<sup>SR</sup> <sup>814.501</sup>](https://fedlex.data.admin.ch/eli/cc/2017/502)
-[^44-5]: Fassung gemäss Anhang 11 Ziff. 7 der Strahlenschutzverordnung vom 26. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
+[^44-1]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^44-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^44-3]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^44-4]: Aufgehoben durch Art. 17 der V vom 27. Juni 2007 über Diplome, Ausbildung, Weiterbildung und Berufsausübung in den universitären Medizinalberufen, mit Wirkung seit 1. Sept. 2007 ([AS 2007 4055](https://fedlex.data.admin.ch/eli/oc/2007/538)).
+[^44-5]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^44-6]: Fassung gemäss Anhang 11 Ziff. 7 der Strahlenschutzverordnung vom 26. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 
-### 5. Abschnitt: Hebammen
+#### Art. 44a
+
+**Organisationen der Chiropraktik**[^44a-1]
+
+Organisationen der Chiropraktik werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
+
+- a. Sie sind nach der Gesetzgebung des Kantons, in dem sie tätig sind, zugelassen.
+- b. Sie haben ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt.
+- c. Sie erbringen ihre Leistungen durch Personen, welche die Voraussetzungen nach Artikel 44 Absatz 1 Buchstabe a erfüllen.
+- d. Sie verfügen über die für die Leistungserbringung notwendigen Einrichtungen.
+- e. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
+
+[^44a-1]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+
+### 5. Abschnitt:**** Hebammen und Organisationen der Hebammen
+
+[^part1-tit4-chap1-sec5-1]
+
+[^part1-tit4-chap1-sec5-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 45
 
-**Zulassung[^45-1]**
+**Hebammen**
 
-<sup>1</sup>
+Hebammen werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
 
-Die Hebammen haben nachzuweisen:
+- a. Sie verfügen über eine kantonale Bewilligung für die Berufsausübung als Hebamme nach Artikel 11 des Gesundheitsberufegesetzes vom 30. September 2016[^45-1] (GesBG) oder eine nach Artikel 34 Absatz 1 GesBG anerkannte Bewilligung.
+- b.
 
-- a.[^45-2] das Diplom einer Schule für Hebammen, das von einer von den Kantonen gemeinsam bezeichneten Stelle anerkannt oder als gleichwertig anerkannt worden ist, oder ein nach dem Bundesgesetz vom 13. Dezember 2002[^45-3] über die Berufsbildung anerkanntes Diplom;
-- b.[^45-4]
+  Sie haben während zwei Jahren eine praktische Tätigkeit ausgeübt:
 
-  eine zweijährige praktische Tätigkeit:
+  - 1\. bei einer nach dieser Verordnung zugelassenen Hebamme;
+  - 2\. in der geburtshilflichen Abteilung eines Spitals, unter der Leitung einer Hebamme, welche die Zulassungsvoraussetzungen dieser Verordnung erfüllt; oder
+  - 3\. in einer Organisation der Hebammen, unter der Leitung einer Hebamme, welche die Zulassungsvoraussetzungen dieser Verordnung erfüllt.
 
-  - 1\. bei einer nach dieser Verordnung zugelassenen Hebamme,
-  - 2\. in der geburtshilflichen Abteilung eines Spitals,
-  - 3\. in einer fachärztlichen Praxis, oder
-  - 4\. in einer Organisation der Hebammen unter Leitung einer Hebamme;
+- c. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
 
-- c. eine Zulassung nach kantonalem Recht.
-
-<sup>2</sup> ...[^45-5]
-
-[^45-1]: Eingefügt durch Ziff. I der V vom 9. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
-[^45-2]: Fassung gemäss Ziff. I der V vom 3. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)). Siehe auch die SchlB dieser Änd. am Ende dieser Verordnung.
-[^45-3]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^45-4]: Fassung gemäss Ziff. I der V vom 9. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
-[^45-5]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
+[^45-1]: [SR 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
 
 #### Art. 45a
 
-**Organisationen der Hebammen**[^45a-1]
+**Organisationen der Hebammen**
 
-Organisationen der Hebammen werden zugelassen, wenn sie:
+Organisationen der Hebammen werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
 
-- a. nach der Gesetzgebung des Kantons, in dem sie tätig sind, zugelassen sind;
-- b. ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt haben;
-- c. ihre Leistungen durch Personen erbringen, welche die Voraussetzungen nach Artikel 45 erfüllen;
-- d. über Einrichtungen verfügen, die dem Tätigkeitsbereich entsprechen;
-- e.[^45a-2] ...
-
-[^45a-1]: Eingefügt durch Ziff. I der V vom 9. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
-[^45a-2]: Aufgehoben durch Ziff. I der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+- a. Sie sind nach der Gesetzgebung des Kantons, in dem sie tätig sind, zugelassen.
+- b. Sie haben ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt.
+- c. Sie erbringen ihre Leistungen durch Personen, welche die Voraussetzungen nach Artikel 45 Buchstaben a und b erfüllen.
+- d. Sie verfügen über die für die Leistungserbringung notwendigen Einrichtungen.
+- e. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
 
 ### 6. Abschnitt: Personen, die auf ärztliche Anordnung hin Leistungen erbringen, und Organisationen, die solche Personen beschäftigen
 
 #### Art. 46
 
-**Im Allgemeinen**
+[^46-1]
 
-<sup>1</sup>
-
-Als Personen, die auf ärztliche Anordnung hin Leistungen erbringen, werden Personen zugelassen, die einen der folgenden Berufe selbständig und auf eigene Rechnung ausüben:
-
-- a. Physiotherapeut oder Physiotherapeutin;
-- b. Ergotherapeut oder Ergotherapeutin;
-- c.[^46-1] Pflegefachfrau oder Pflegefachmann;
-- d. Logopäde oder Logopädin;
-- e.[^46-2] Ernährungsberater oder Ernährungsberaterin;
-- f.[^46-3] Neuropsychologe oder Neuropsychologin.
-
-<sup>2</sup> Diese Personen müssen nach kantonalem Recht zugelassen sein und die übrigen Zulassungsvoraussetzungen erfüllen, welche in dieser Verordnung festgelegt sind.
-
-[^46-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
-[^46-2]: Eingefügt durch Ziff. I der V vom 25. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
-[^46-3]: Eingefügt durch Ziff. I der V vom 9. Dez. 2016, in Kraft seit 1. Juli 2017 ([AS 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
+[^46-1]: Aufgehoben durch Ziff. I der V vom 23. Juni 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 47
 
-**Physiotherapeuten und Physiotherapeutinnen**
+**Physiotherapeuten und Physiotherapeutinnen**[^47-1]
 
-<sup>1</sup>
+Physiotherapeuten und Physiotherapeutinnen werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
 
-Die Physiotherapeuten und Physiotherapeutinnen haben nachzuweisen:
+- a. Sie verfügen über eine kantonale Bewilligung für die Berufsausübung als Physiotherapeut oder Physiotherapeutin nach Artikel 11 GesBG[^47-2] oder eine nach Artikel 34 Absatz 1 GesBG anerkannte Bewilligung.
+- b.
 
-- a.[^47-1] das Diplom einer Schule für Physiotherapie, das von einer von den Kantonen gemeinsam bezeichneten Stelle anerkannt oder als gleichwertig anerkannt worden ist, oder ein nach dem Bundesgesetz vom 13. Dezember 2002[^47-2] über die Berufsbildung anerkanntes Diplom;
-- b.[^47-3] eine zweijährige praktische Tätigkeit bei einem Physiotherapeuten, einer Physiotherapeutin oder in einer Organisation der Physiotherapie, die nach dieser Verordnung zugelassen sind, in einer physikalisch-therapeutischen Spezialabteilung eines Spitals oder in einer fachärztlichen Praxis unter der Leitung eines Physiotherapeuten oder einer Physiotherapeutin, welche die Zulassungsvoraussetzungen dieser Verordnung erfüllen.
+  Sie haben während zwei Jahren eine praktische Tätigkeit ausgeübt:
 
-<sup>2</sup> ...[^47-4]
+  - 1\. bei einem Physiotherapeuten oder einer Physiotherapeutin, der oder die nach dieser Verordnung zugelassen ist;
+  - 2\. in einer physiotherapeutischen Spezialabteilung eines Spitals, unter der Leitung eines Physiotherapeuten oder einer Physiotherapeutin, der oder die die Zulassungsvoraussetzungen dieser Verordnung erfüllt; oder
+  - 3\. in einer Organisation der Physiotherapie, unter der Leitung eines Physiotherapeuten oder einer Physiotherapeutin, der oder die die Zulassungsvoraussetzungen dieser Verordnung erfüllt.
 
-[^47-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)). Siehe auch die SchlB dieser Änd. am Ende dieser Verordnung.
-[^47-2]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^47-3]: Fassung gemäss Ziff. I der V vom 24. Juni 2009, in Kraft seit 1. Aug. 2009 ([AS 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)).
-[^47-4]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
+- c. Sie üben ihren Beruf selbstständig und auf eigene Rechnung aus.
+- d. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
+
+[^47-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^47-2]: [SR 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
 
 #### Art. 48
 
-**Ergotherapeuten und Ergotherapeutinnen**
+**Ergotherapeuten und Ergotherapeutinnen**[^48-1]
 
-<sup>1</sup>
+Ergotherapeuten und Ergotherapeutinnen werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
 
-Die Ergotherapeuten und Ergotherapeutinnen haben nachzuweisen:
+- a. Sie verfügen über eine kantonale Bewilligung für die Berufsausübung als Ergotherapeut oder Ergotherapeutin nach Artikel 11 GesBG[^48-2] oder eine nach Artikel 34 Absatz 1 GesBG anerkannte Bewilligung.
+- b.
 
-- a.[^48-1] das Diplom einer Schule für Ergotherapie, das von einer von den Kantonen gemeinsam bezeichneten Stelle anerkannt oder als gleichwertig anerkannt worden ist, oder ein nach dem Bundesgesetz vom 13. Dezember 2002[^48-2] über die Berufsbildung anerkanntes Diplom;
-- b. eine zweijährige praktische Tätigkeit bei einem Ergotherapeuten oder einer Ergotherapeutin, die nach dieser Verordnung zugelassen sind, oder in einer Arztpraxis, einem Spital oder einer Organisation der Ergotherapie unter der Leitung eines Ergotherapeuten oder einer Ergotherapeutin, welche die Zulassungsvoraussetzungen dieser Verordnung erfüllen.
+  Sie haben während zwei Jahren eine praktische Tätigkeit ausgeübt:
 
-<sup>2</sup> ...[^48-3]
+  - 1\. bei einem Ergotherapeuten oder einer Ergotherapeutin, der oder die nach dieser Verordnung zugelassen ist;
+  - 2\. in einem Spital, unter der Leitung eines Ergotherapeuten oder einer Ergotherapeutin, der oder die die Zulassungsvoraussetzungen dieser Verordnung erfüllt; oder
+  - 3\. in einer Organisation der Ergotherapie, unter der Leitung eines Ergotherapeuten oder einer Ergotherapeutin, der oder die die Zulassungsvoraussetzungen dieser Verordnung erfüllt.
 
-[^48-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)). Siehe auch die SchlB dieser Änd. am Ende dieser Verordnung.
-[^48-2]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^48-3]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
+- c. Sie üben ihren Beruf selbstständig und auf eigene Rechnung aus.
+- d. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
+
+[^48-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^48-2]: [SR 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
 
 #### Art. 49
 
-**Pflegefachfrau und Pflegefachmann**[^49-1]
+**Pflegefachmänner und Pflegefachfrauen**[^49-1]
 
-Die Pflegefachfrauen und Pflegefachmänner haben nachzuweisen:
+Pflegefachmänner und Pflegefachfrauen werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
 
-- a. das Diplom einer Schule für Gesundheits- und Krankenpflege, das von einer von den Kantonen gemeinsam bezeichneten Stelle anerkannt oder als gleichwertig anerkannt worden ist, oder ein nach dem Bundesgesetz vom 13. Dezember 2002[^49-2] über die Berufsbildung anerkanntes Diplom;
-- b. eine zweijährige praktische Tätigkeit bei einer Pflegefachfrau oder einem Pflegefachmann, die oder der nach dieser Verordnung zugelassen ist, oder in einem Spital oder einer Organisation der Krankenpflege und Hilfe zu Hause unter der Leitung einer Pflegefachfrau oder eines Pflegefachmanns, die oder der die Zulassungsvoraussetzungen dieser Verordnung erfüllt.
+- a. Sie verfügen über eine kantonale Bewilligung für die Berufsausübung als Pflegefachmann oder Pflegefachfrau nach Artikel 11 GesBG[^49-2] oder eine nach Artikel 34 Absatz 1 GesBG anerkannte Bewilligung.
+- b.
 
-[^49-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)). Siehe auch die SchlB dieser Änd. am Ende dieser Verordnung.
-[^49-2]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+  Sie haben während zwei Jahren eine praktische Tätigkeit ausgeübt:
+
+  - 1\. bei einem Pflegefachmann oder einer Pflegefachfrau, der oder die nach dieser Verordnung zugelassen ist;
+  - 2\. in einem Spital oder in einem Pflegeheim, unter der Leitung eines Pflegefachmanns oder einer Pflegefachfrau, der oder die die Zulassungsvoraussetzungen dieser Verordnung erfüllt; oder
+  - 3\. in einer Organisation der Krankenpflege und Hilfe zu Hause, unter der Leitung eines Pflegefachmanns oder einer Pflegefachfrau, der oder die die Zulassungsvoraussetzungen dieser Verordnung erfüllt.
+
+- c. Sie üben ihren Beruf selbstständig und auf eigene Rechnung aus.
+- d. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
+
+[^49-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^49-2]: [SR 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
 
 #### Art. 50
 
-**Logopäden und Logopädinnen**
+**Logopäden und Logopädinnen**[^50-1]
 
-Die Logopäden und Logopädinnen haben nachzuweisen:
+Die Logopäden und Logopädinnen werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
 
-- a.
+- a. Sie sind nach kantonalem Recht zur Berufsausübung als Logopäde oder Logopädin berechtigt.
+- b.
 
-  eine vom Kanton anerkannte dreijährige theoretische und praktische Fachausbildung mit erfolgreich abgelegter Prüfung in folgenden Fächern:
+  Sie verfügen über eine vom Kanton anerkannte dreijährige theoretische und praktische Fachausbildung als Logopäde oder Logopädin mit erfolgreich abgelegter Prüfung in folgenden Fächern:
 
-  - 1\. Linguistik (Linguistik, Phonetik, Psycholinguistik),
-  - 2\. Logopädie (Logopädische Methodenlehre [Beratung, Abklärung, Behandlung], Sprachbehindertenpädagogik, Sprachbehindertenpsychologie, Sprachpathologie),
-  - 3\. Medizin (Neurologie, Otorhinolaryngologie, Phoniatrie, Psychiatrie, Stomatologie),
-  - 4\. Pädagogik (Pädagogik, Sonderpädagogik/Heilpädagogik),
-  - 5\. Psychologie (Entwicklungspsychologie, klinische Psychologie, pädagogische Psychologie einschliesslich Lernpsychologie, Sozialpsychologie),
-  - 6\. Recht (Sozialgesetzgebung);
+  - 1\. Linguistik (Linguistik, Phonetik, Psycholinguistik);
+  - 2\. Logopädie (logopädische Methodenlehre [Beratung, Abklärung, Behandlung], Sprachbehindertenpädagogik, Sprachbehindertenpsychologie, Sprachpathologie);
+  - 3\. Medizin (Neurologie, Oto-Rhino-Laryngologie, Phoniatrie, Psychiatrie, Stomatologie);
+  - 4\. Pädagogik (Pädagogik, Sonderpädagogik, Heilpädagogik);
+  - 5\. Psychologie (Entwicklungspsychologie, klinische Psychologie, pädagogische Psychologie einschliesslich Lernpsychologie, Sozialpsychologie);
+  - 6\. Recht (Sozialgesetzgebung).
 
-- b.[^50-1]
+- c. Sie haben während zwei Jahren eine praktische Tätigkeit in klinischer Logopädie, überwiegend im Erwachsenenbereich, ausgeübt, davon mindestens ein Jahr in einem Spital unter fachärztlicher Leitung (Oto-Rhino-Laryngologie, Psychiatrie, Kinderpsychiatrie, Phoniatrie oder Neurologie) und im Beisein eines Logopäden oder einer Logopädin, der oder die die Zulassungsvoraussetzungen dieser Verordnung erfüllt; ein Jahr kann unter entsprechender fachärztlicher Leitung und in Begleitung eines Logopäden oder einer Logopädin, der oder die die Zulassungsvoraussetzungen dieser Verordnung erfüllt, in einer Facharztpraxis oder in einer Organisation der Logopädie, die nach dieser Verordnung zugelassen ist, absolviert werden.
+- d. Sie üben ihren Beruf selbstständig und auf eigene Rechnung aus.
+- e. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
 
-  eine zweijährige praktische Tätigkeit in klinischer Logopädie mit überwiegender Erfahrung im Erwachsenenbereich; davon:
-
-  - 1\. muss mindestens ein Jahr in einem Spital unter fachärztlicher Leitung (Oto-Rhino-Laryngologie, Psychiatrie, Kinderpsychiatrie, Phoniatrie oder Neurologie) und in Begleitung eines Logopäden oder einer Logopädin, welcher oder welche die Zulassungsvoraussetzungen dieser Verordnung erfüllt, absolviert werden,
-  - 2\. kann ein Jahr unter entsprechender fachärztlicher Leitung und in Begleitung eines Logopäden oder einer Logopädin, welcher oder welche die Zulassungsvoraussetzungen dieser Verordnung erfüllt, in einer Facharztpraxis oder in einer Organisation der Logopädie, die nach dieser Verordnung zugelassen ist, absolviert werden.
-
-[^50-1]: Fassung gemäss Ziff. I der V vom 9. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
+[^50-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 50a
 
 **Ernährungsberater und Ernährungsberaterinnen**[^50a-1]
 
-<sup>1</sup>
+Ernährungsberater und Ernährungsberaterinnen werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
 
-Die Ernährungsberater und Ernährungsberaterinnen haben nachzuweisen:
+- a. Sie verfügen über eine kantonale Bewilligung für die Berufsausübung als Ernährungsberater oder Ernährungsberaterin nach Artikel 11 GesBG[^50a-2] oder eine nach Artikel 34 Absatz 1 GesBG anerkannte Bewilligung.
+- b.
 
-- a.[^50a-2] das Diplom einer Schule für Ernährungsberatung, das von einer von den Kantonen gemeinsam bezeichneten Stelle anerkannt oder als gleichwertig anerkannt worden ist, oder ein nach dem Bundesgesetz vom 13. Dezember 2002[^50a-3] über die Berufsbildung anerkanntes Diplom;
-- b.[^50a-4] eine zweijährige praktische Tätigkeit bei einem Ernährungsberater oder einer Ernährungsberaterin, der oder die nach dieser Verordnung zugelassen ist, in einer Organisation der Ernährungsberatung, die nach dieser Verordnung zugelassen ist, oder in einem Spital, einer Arztpraxis oder einer anderen privaten oder öffentlichen Organisation unter der Leitung eines Ernährungsberaters oder einer Ernährungsberaterin, welche die Zulassungsvoraussetzungen dieser Verordnung erfüllen.
+  Sie haben während zwei Jahren eine praktische Tätigkeit ausgeübt:
 
-<sup>2</sup> ...[^50a-5]
+  - 1\. bei einem Ernährungsberater oder einer Ernährungsberaterin, der oder die nach dieser Verordnung zugelassen ist;
+  - 2\. in einem Spital, unter der Leitung eines Ernährungsberaters oder einer Ernährungsberaterin, der oder die die Zulassungsvoraussetzungen dieser Verordnung erfüllt; oder
+  - 3\. in einer Organisation der Ernährungsberatung, unter der Leitung eines Ernährungsberaters oder einer Ernährungsberaterin, der oder die die Zulassungsvoraussetzungen dieser Verordnung erfüllt.
 
-[^50a-1]: Eingefügt durch Ziff. I der V vom 25. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
-[^50a-2]: Fassung gemäss Ziff. I der V vom 3. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)). Siehe auch die SchlB dieser Änd. am Ende dieser Verordnung.
-[^50a-3]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^50a-4]: Fassung gemäss Ziff. I der V vom 4. Juli 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
-[^50a-5]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
+- c. Sie üben ihren Beruf selbstständig und auf eigene Rechnung aus.
+- d. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
+
+[^50a-1]: Eingefügt durch Ziff. I der V vom 25. Nov. 1996 ([AS 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^50a-2]: [SR 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
 
 #### Art. 50b
 
 **Neuropsychologen und Neuropsychologinnen**[^50b-1]
 
-Die Neuropsychologen und Neuropsychologinnen haben nachzuweisen:
+Neuropsychologen und Neuropsychologinnen werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
 
-- a. einen anerkannten Abschluss in Psychologie und einen eidgenössischen oder als gleichwertig anerkannten Weiterbildungstitel in Neuropsychologie nach dem Psychologieberufegesetz vom 18. März 2011[^50b-2] (PsyG); oder
-- b. einen anerkannten Abschluss in Psychologie nach dem PsyG und einen Fachtitel Neuropsychologie der Föderation der Schweizer Psychologinnen und Psychologen.
+- a. Sie sind nach kantonalem Recht zur Berufsausübung als Neuropsychologe oder Neuropsychologin berechtigt.
+- b.
 
-[^50b-1]: Eingefügt durch Ziff. I der V vom 9. Dez. 2016, in Kraft seit 1. Juli 2017 ([AS 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
+  Sie verfügen über:
+
+  - 1\. einen anerkannten Abschluss in Psychologie und einen eidgenössischen oder als gleichwertig anerkannten Weiterbildungstitel in Neuropsychologie nach dem Psychologieberufegesetz vom 18. März 2011[^50b-2] (PsyG); oder
+  - 2\. einen anerkannten Abschluss in Psychologie nach dem PsyG und einen Fachtitel Neuropsychologie der Föderation der Schweizer Psychologinnen und Psychologen.
+
+- c. Sie üben ihren Beruf selbstständig und auf eigene Rechnung aus.
+- d. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
+
+[^50b-1]: Eingefügt durch Ziff. I der V vom 9. Dez. 2016 ([AS 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)). Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^50b-2]: [SR 935.81](https://fedlex.data.admin.ch/eli/cc/2012/268)
+
+#### Art. 50c
+
+[^50c-1]
+
+[^50c-1]: Tritt am 1. Juli 2022 in Kraft ([AS 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188), [439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+
+#### Art. 50d
+
+**Podologen und Podologinnen**[^50d-1]
+
+Podologen und Podologinnen werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
+
+- a. Sie sind nach kantonalem Recht zur Berufsausübung als Podologe oder Podologin berechtigt.
+- b. Sie verfügen über ein Diplom einer höheren Fachschule gemäss Rahmenlehrplan Podologie vom 12. November 2010[^50d-2] in der Fassung vom 12. Dezember 2014 oder eine gleichwertige Ausbildung gemäss Ziffer 7.1 des Rahmenlehrplans.
+- c.
+
+  Sie haben nach Erhalt ihres Diploms während zwei Jahren eine praktische Tätigkeit ausgeübt:
+
+  - 1\. bei einem Podologen oder einer Podologin, der oder die nach dieser Verordnung zugelassen ist;
+  - 2\. in einer Organisation der Podologie, die nach dieser Verordnung zugelassen ist; oder
+  - 3\. in einem Spital, in einer Organisation der Krankenpflege und Hilfe zu Hause oder in einem Pflegeheim, unter der Leitung eines Podologen oder einer Podologin, der oder die die Zulassungsvoraussetzungen dieser Verordnung erfüllt.
+
+- d. Sie üben ihren Beruf selbstständig und auf eigene Rechnung aus.
+- e. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
+
+[^50d-1]: Eingefügt durch Ziff. I der V vom 26. Mai 2021 ([AS 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323)). Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^50d-2]: Das Dokument kann auf der folgenden Adresse eingesehen werden: www.ofsp.admin.ch/ref.
 
 #### Art. 51
 
-**Organisationen der Krankenpflege und Hilfe zu Hause**
+**Organisationen der Krankenpflege und Hilfe zu Hause**[^51-1]
 
-Organisationen der Krankenpflege und Hilfe zu Hause werden zugelassen, wenn sie:
+Organisationen der Krankenpflege und Hilfe zu Hause werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
 
-- a. nach der Gesetzgebung des Kantons, in dem sie tätig sind, zugelassen sind;
-- b.[^51-1] ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt haben;
-- c.[^51-2] über das erforderliche Fachpersonal verfügen, das eine dem Tätigkeitsbereich entsprechende Ausbildung hat;
-- d.[^51-3] über Einrichtungen verfügen, die dem Tätigkeitsbereich entsprechen;
-- e.[^51-4] ...
+- a. Sie sind nach der Gesetzgebung des Kantons, in dem sie tätig sind, zugelassen.
+- b. Sie haben ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt.
+- c. Sie verfügen über das erforderliche Fachpersonal, das eine dem Tätigkeitsbereich entsprechende Ausbildung hat.
+- d. Sie verfügen über die für die Leistungserbringung notwendigen Einrichtungen.
+- e. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
 
-[^51-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
-[^51-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
-[^51-3]: Fassung gemäss Ziff. I der V vom 17. Sept. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
-[^51-4]: Aufgehoben durch Ziff. I der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^51-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 52
 
-**Organisationen der Ergotherapie**
+**Organisationen der Physiotherapie**[^52-1]
 
-Organisationen der Ergotherapie werden zugelassen, wenn sie:
+Organisationen der Physiotherapie werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
 
-- a. nach der Gesetzgebung des Kantons, in dem sie tätig sind, zugelassen sind;
-- b.[^52-1] ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt haben;
-- c.[^52-2] über das erforderliche Fachpersonal verfügen, das eine dem Tätigkeitsbereich entsprechende Ausbildung hat;
-- d.[^52-3] über Einrichtungen verfügen, die dem Tätigkeitsbereich entsprechen;
-- e.[^52-4] ...
+- a. Sie sind nach der Gesetzgebung des Kantons, in dem sie tätig sind, zugelassen.
+- b. Sie haben ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt.
+- c. Sie erbringen ihre Leistungen durch Personen, welche die Voraussetzungen nach Artikel 47 Buchstaben a und b erfüllen.
+- d. Sie verfügen über die für die Leistungserbringung notwendigen Einrichtungen.
+- e. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen*.*
 
-[^52-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
-[^52-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
-[^52-3]: Fassung gemäss Ziff. I der V vom 17. Sept. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
-[^52-4]: Aufgehoben durch Ziff. I der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^52-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 52a
 
-**Organisationen der Physiotherapie**[^52a-1]
+**Organisationen der Ergotherapie**[^52a-1]
 
-Organisationen der Physiotherapie werden zugelassen, wenn sie:
+Organisationen der Ergotherapie werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
 
-- a. nach der Gesetzgebung des Kantons, in dem sie tätig sind, zugelassen sind;
-- b. ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt haben;
-- c. ihre Leistungen durch Personen erbringen, welche die Voraussetzungen nach Artikel 47 erfüllen;
-- d. über Einrichtungen verfügen, die dem Tätigkeitsbereich entsprechen;
-- e.[^52a-2] ...
+- a. Sie sind nach der Gesetzgebung des Kantons, in dem sie tätig sind, zugelassen.
+- b. Sie haben ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt.
+- c. Sie erbringen ihre Leistungen durch Personen, welche die Voraussetzungen nach Artikel 48 Buchstaben a und b erfüllen.
+- d. Sie verfügen über die für die Leistungserbringung notwendigen Einrichtungen.
+- e. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen*.*
 
-[^52a-1]: Eingefügt durch Ziff. I der V vom 24. Juni 2009, in Kraft seit 1. Aug. 2009 ([AS 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)).
-[^52a-2]: Aufgehoben durch Ziff. I der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^52a-1]: Eingefügt durch Ziff. I der V vom 24. Juni 2009 ([AS 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)). Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 52b
 
-**Organisationen der Ernährungsberatung**[^52b-1]
+**Organisationen der Logopädie**[^52b-1]
 
-Organisationen der Ernährungsberatung werden zugelassen, wenn sie:
+Organisationen der Logopädie werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
 
-- a. nach der Gesetzgebung des Kantons, in dem sie tätig sind, zugelassen sind;
-- b. ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt haben;
-- c. ihre Leistungen durch Personen erbringen, welche die Voraussetzungen nach Artikel 50*a* erfüllen;
-- d. über Einrichtungen verfügen, die dem Tätigkeitsbereich entsprechen;
-- e.[^52b-2] ...
+- a. Sie sind nach der Gesetzgebung des Kantons zugelassen, in dem sie ihre Tätigkeit ausüben.
+- b. Sie haben ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt.
+- c. Sie erbringen ihre Leistungen durch Personen, welche die Voraussetzungen nach Artikel 50 Buchstaben a–c erfüllen.
+- d. Sie verfügen über die für die Leistungserbringung notwendigen Einrichtungen.
+- e. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen*.*
 
-[^52b-1]: Eingefügt durch Ziff. I der V vom 4. Juli 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
-[^52b-2]: Aufgehoben durch Ziff. I der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^52b-1]: Eingefügt durch Ziff. I der V vom 4. Juli 2012 ([AS 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 52c
 
-**Organisationen der Logopädie**[^52c-1]
+**Organisationen der Ernährungsberatung**[^52c-1]
 
-Organisationen der Logopädie werden zugelassen, wenn sie:
+Organisationen der Ernährungsberatung werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
 
-- a. nach der Gesetzgebung des Kantons, in dem sie tätig sind, zugelassen sind;
-- b. ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt haben;
-- c. ihre Leistungen durch Personen erbringen, welche die Voraussetzungen nach Artikel 50 erfüllen;
-- d. über Einrichtungen verfügen, die dem Tätigkeitsbereich entsprechen;
-- e.[^52c-2] ...
+- a. Sie sind nach der Gesetzgebung des Kantons, in dem sie tätig sind, zugelassen.
+- b. Sie haben ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt.
+- c. Sie erbringen ihre Leistungen durch Personen, welche die Voraussetzungen nach Artikel 50*a* Buchstaben a und b erfüllen.
+- d. Sie verfügen über die für die Leistungserbringung notwendigen Einrichtungen.
+- e. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen*.*
 
-[^52c-1]: Eingefügt durch Ziff. I der V vom 9. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
-[^52c-2]: Aufgehoben durch Ziff. I der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^52c-1]: Eingefügt durch Ziff. I der V vom 9. Dez. 2016 ([AS 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)). Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+
+#### Art. 52d
+
+**Organisationen der Neuropsychologie**[^52d-1]
+
+Organisationen der Neuropsychologie werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
+
+- a. Sie sind nach der Gesetzgebung des Kantons, in dem sie tätig sind, zugelassen.
+- b. Sie haben ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt.
+- c. Sie erbringen ihre Leistungen durch Personen, welche die Voraussetzungen nach Artikel 50*b* Buchstaben a und b erfüllen.
+- d. Sie verfügen über die für die Leistungserbringung notwendigen Einrichtungen.
+- e. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen*.*
+
+[^52d-1]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+
+#### Art. 52e
+
+[^52e-1]
+
+[^52e-1]: Tritt am 1. Juli 2022 in Kraft ([AS 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188), [439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+
+#### Art. 52f
+
+**Organisationen der Podologie**[^52f-1]
+
+Organisationen der Podologie werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
+
+- a. Sie sind nach der Gesetzgebung des Kantons, in dem sie tätig sind, zugelassen.
+- b. Sie haben ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt.
+- c. Sie erbringen ihre Leistungen durch Personen, welche die Voraussetzungen nach Artikel 50*d* Buchstaben a–c erfüllen.
+- d. Sie verfügen über die für die Leistungserbringung notwendigen Einrichtungen.
+- e. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen*.*
+
+[^52f-1]: Eingefügt durch Ziff. I der V vom 26. Mai 2021 ([AS 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323)). Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 ### 7. Abschnitt: Laboratorien
 
@@ -1323,7 +1427,7 @@ Als Laboratorien werden Einrichtungen zugelassen, die:
 
 - a. medizinische Analysen durchführen;
 - b. nach kantonalem Recht zugelassen sind;
-- c.[^53-1] ...
+- c.[^53-1] …
 - d. den übrigen von der Gesetzgebung des Bundes oder des Kantons festgesetzten Anforderungen an Laboratorien entsprechen;
 - e.[^53-2] über eine entsprechende Bewilligung des Schweizerischen Heilmittelinstituts Swissmedic (Institut) verfügen, wenn sie Untersuchungen zur Erkennung übertragbarer Krankheiten durchführen;
 - [tab] e<sup>bis</sup>.[^53-3] über eine entsprechende Bewilligung des BAG verfügen, wenn sie zyto- oder molekulargenetische Untersuchungen durchführen;
@@ -1336,11 +1440,11 @@ Als Laboratorien werden Einrichtungen zugelassen, die:
 
 #### Art. 54
 
-**Zulassungsbedingungen**
+**Voraussetzungen[^54-1]**
 
 <sup>1</sup>
 
-Als Laboratorium ist ohne weitere Bedingungen zugelassen:
+Als Laboratorien sind zugelassen:[^54-2]
 
 - a.
 
@@ -1349,10 +1453,10 @@ Als Laboratorium ist ohne weitere Bedingungen zugelassen:
   - 1\. Analysen im Rahmen der Grundversorgung nach Artikel 62 Absatz 1 Buchstabe a für den Eigenbedarf des Arztes oder der Ärztin durchgeführt werden,
   - 2\. das Ergebnis der Analysen grundsätzlich im Verlauf der Konsultation vorliegt (Präsenzdiagnostik),
   - 3\. das Praxislaboratorium räumlich und rechtlich Teil der Praxis des behandelnden Arztes oder der behandelnden Ärztin ist,
-  - 4\.[^54-1] die Analysen im Praxislaboratorium oder, für separat bezeichnete Analysen nach Ziffer 1, im Rahmen eines Hausbesuches durchgeführt werden;
+  - 4\.[^54-3] die Analysen im Praxislaboratorium oder, für separat bezeichnete Analysen nach Ziffer 1, im Rahmen eines Hausbesuches durchgeführt werden;
 
 - b. das Spitallaboratorium für Analysen, die nach Artikel 62 Absatz 1 Buchstabe a im Rahmen der Grundversorgung für den Eigenbedarf durchgeführt werden;
-- c. die Offizin eines Apothekers oder einer Apothekerin sowie das Spitallaboratorium für Analysen nach Artikel 62 Absatz 1 Buchstabe a im Rahmen der Grundversorgung, die von einem anderen Leistungserbringer angeordnet sind.[^54-2]
+- c. die Offizin eines Apothekers oder einer Apothekerin sowie das Spitallaboratorium für Analysen nach Artikel 62 Absatz 1 Buchstabe a im Rahmen der Grundversorgung, die von einem anderen Leistungserbringer angeordnet sind.[^54-4]
 
 <sup>2</sup> Spitallaboratorien, die für den Eigenbedarf des Spitals Analysen durchführen, sind zugelassen, wenn sie unter der Leitung eines Arztes oder einer Ärztin, eines Apothekers oder einer Apothekerin oder eines Leiters oder einer Leiterin mit einer vom EDI anerkannten Hochschulausbildung naturwissenschaftlicher Richtung oder einer vom EDI anerkannten, für die Durchführung der Analysen geeigneten höheren Fachausbildung stehen.
 
@@ -1361,16 +1465,21 @@ Als Laboratorium ist ohne weitere Bedingungen zugelassen:
 Laboratorien, die im Auftrage eines anderen zugelassenen Leistungserbringers neben den Analysen der Grundversorgung weitere Analysen durchführen, sind zugelassen, wenn:
 
 - a. sie unter der Leitung eines Arztes oder einer Ärztin, eines Apothekers oder einer Apothekerin oder eines Leiters oder einer Leiterin mit einer vom EDI anerkannten Hochschulausbildung naturwissenschaftlicher Richtung stehen;
-- b.[^54-3] die leitende Person nach Buchstabe a über einen Weiterbildungstitel in Labormedizin verfügt, der durch den Schweizerischen Verband «Die medizinischen Laboratorien der Schweiz» (FAMH) erteilt wurde oder als mit einem solchen Weiterbildungstitel gleichwertig anerkannt wurde.
+- b.[^54-5] die leitende Person nach Buchstabe a über einen Weiterbildungstitel in Labormedizin verfügt, der durch den Schweizerischen Verband «Die medizinischen Laboratorien der Schweiz» (FAMH) erteilt wurde oder als mit einem solchen Weiterbildungstitel gleichwertig anerkannt wurde.
 
 <sup>4</sup> Das EDI kann für die Vornahme von bestimmten Analysen weitergehende Anforderungen an Einrichtungen sowie Qualifikation und Weiterbildung von Laborleitung und Laborpersonal vorsehen. Es kann im Weiteren für die Durchführung bestimmter Analysen einzelne Zentren bestimmen und sie mit der Führung von Evaluationsregistern beauftragen.
 
-<sup>5</sup> Das EDI kann Ausführungsbestimmungen zu Absatz 1 Buchstabe a erlassen.[^54-4]
+<sup>4bis</sup> Um nach den Absätzen 1–3 zugelassen zu werden, müssen die Laboratorien nachweisen, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.[^54-6]
 
-[^54-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)).
-[^54-2]: Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^54-3]: Fassung gemäss Ziff. I der V vom 9. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
-[^54-4]: Eingefügt durch Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+<sup>5</sup> Das EDI kann Ausführungsbestimmungen zu Absatz 1 Buchstabe a erlassen.[^54-7]
+
+[^54-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^54-2]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^54-3]: Eingefügt durch Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)).
+[^54-4]: Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^54-5]: Fassung gemäss Ziff. I der V vom 9. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
+[^54-6]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^54-7]: Eingefügt durch Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 
 #### Art. 54a
 
@@ -1395,9 +1504,17 @@ Laboratorien, die im Auftrage eines anderen zugelassenen Leistungserbringers neb
 
 #### Art. 55
 
-Wer nach kantonalem Recht zugelassen ist und mit einem Krankenversicherer einen Vertrag über die Abgabe von der Untersuchung oder Behandlung dienenden Mitteln und Gegenständen abschliesst, darf zu Lasten dieses Versicherers tätig sein.
+[^55-1]
 
-### 8*a*. Abschnitt: Geburtshäuser
+Abgabestellen für Mittel und Gegenstände, die der Untersuchung oder Behandlung dienen, werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
+
+- a. Sie sind nach der Gesetzgebung des Kantons, in dem sie tätig sind, zugelassen.
+- b. Sie haben mit den Versicherern, zulasten deren sie tätig sein möchten, einen Vertrag über die Abgabe von Mitteln und Gegenständen, die der Untersuchung oder Behandlung dienen, abgeschlossen.
+- c. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
+
+[^55-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+
+### 8*a*. Abschnitt:**** Geburtshäuser
 
 [^part1-tit4-chap1-sec8a-1]
 
@@ -1405,18 +1522,30 @@ Wer nach kantonalem Recht zugelassen ist und mit einem Krankenversicherer einen 
 
 #### Art. 55a
 
-Die Geburtshäuser sind zugelassen, wenn sie:
+[^55a-1]
 
-- a. den Anforderungen nach Artikel 39 Absatz 1 Buchstaben b–e des Gesetzes entsprechen;
-- b. ihren sachlichen Tätigkeitsbereich nach Artikel 29 des Gesetzes festgelegt haben;
-- c. eine ausreichende medizinische Betreuung durch eine Hebamme sicherstellen;
-- d. Vorkehrungen zur Einleitung von Massnahmen im medizinischen Notfall getroffen haben.
+Geburtshäuser werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
+
+- a. Sie erfüllen die Anforderungen nach Artikel 39 Absatz 1 Buchstaben b–f KVG.
+- b. Sie haben ihren sachlichen Tätigkeitsbereich nach Artikel 29 KVG festgelegt.
+- c. Sie stellen eine ausreichende medizinische Betreuung durch eine Hebamme sicher.
+- d. Sie haben Vorkehrungen zur Einleitung von Massnahmen im medizinischen Notfall getroffen.
+
+[^55a-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 ### 9. Abschnitt: Transport- und Rettungsunternehmen
 
 #### Art. 56
 
-Wer nach kantonalem Recht zugelassen ist und mit einem Krankenversicherer einen Vertrag über die Durchführung von Transporten und Rettungen abschliesst, darf zu Lasten dieses Versicherers tätig sein.
+[^56-1]
+
+Transport- und Rettungsunternehmen werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
+
+- a. Sie sind nach der Gesetzgebung des Kantons, in dem sie tätig sind, zugelassen.
+- b. Sie haben mit den Versicherern, zulasten deren sie tätig möchten, einen Vertrag über die Durchführung von Transporten und Rettungen, abgeschlossen.
+- c. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
+
+[^56-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 ### 10. Abschnitt: Heilbäder
 
@@ -1436,7 +1565,7 @@ Wer nach kantonalem Recht zugelassen ist und mit einem Krankenversicherer einen 
 
 <sup>2</sup> Die chemischen oder physikalischen Eigenschaften sind durch Heilwasseranalysen gutachtlich nachzuweisen und alle drei Jahre durch eine Kontrollanalyse durch die zuständige kantonale Instanz zu überprüfen.
 
-### 11. Abschnitt: Planungskriterien
+### 11. Abschnitt:**** Planungskriterien
 
 [^part1-tit4-chap1-sec11-1]
 
@@ -1448,33 +1577,29 @@ Wer nach kantonalem Recht zugelassen ist und mit einem Krankenversicherer einen 
 
 <sup>1</sup> Die Planung für eine bedarfsgerechte Versorgung nach Artikel 39 Absatz 1 Buchstabe d des Gesetzes umfasst die Sicherstellung der stationären Behandlung im Spital oder in einem Geburtshaus sowie der Behandlung in einem Pflegeheim für die Einwohnerinnen und Einwohner der Kantone, die die Planung erstellen.
 
-<sup>2</sup> Die Kantone überprüfen ihre Planung periodisch.
+<sup>2</sup> Sie wird periodisch überprüft.[^58a-1]
+
+[^58a-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 58b
 
-**Versorgungsplanung**
+**Versorgungsplanung**[^58b-1]
 
-<sup>1</sup> Die Kantone ermitteln den Bedarf in nachvollziehbaren Schritten. Sie stützen sich namentlich auf statistisch ausgewiesene Daten und Vergleiche.
+<sup>1</sup> Die Kantone ermitteln den Bedarf in nachvollziehbaren Schritten. Sie stützen sich namentlich auf statistisch ausgewiesene Daten und Vergleiche und berücksichtigen namentlich die für die Prognose des Bedarfs relevanten Einflussfaktoren.
 
-<sup>2</sup> Sie ermitteln das Angebot, das in Einrichtungen beansprucht wird, die nicht auf der von ihnen erlassenen Liste aufgeführt sind.
+<sup>2</sup> Sie ermitteln das Angebot, das in Einrichtungen beansprucht wird, die nicht auf der von ihnen erlassenen Liste nach Artikel 39 Absatz 1 Buchstabe e KVG aufgeführt sind.
 
-<sup>3</sup> Sie bestimmen das Angebot, das durch die Aufführung von inner- und ausserkantonalen Einrichtungen auf der Liste nach Artikel 58*e* zu sichern ist, damit die Versorgung gewährleistet ist. Dieses Angebot entspricht dem nach Absatz 1 ermittelten Versorgungsbedarf abzüglich des nach Absatz 2 ermittelten Angebots.
+<sup>3</sup> Sie bestimmen das Angebot, das durch die Aufführung von inner- und ausserkantonalen Einrichtungen auf der Liste zu sichern ist, damit die Versorgung gewährleistet ist. Das zu sichernde Angebot entspricht dem nach Absatz 1 ermittelten Versorgungsbedarf abzüglich des nach Absatz 2 ermittelten Angebots.
 
 <sup>4</sup>
 
-Bei der Beurteilung und Auswahl des auf der Liste zu sichernden Angebotes berücksichtigen die Kantone insbesondere:
+Bei der Bestimmung des auf der Liste zu sichernden Angebots berücksichtigen die Kantone insbesondere:
 
-- a. die Wirtschaftlichkeit und Qualität der Leistungserbringung;
+- a. die Wirtschaftlichkeit und die Qualität der Leistungserbringung;
 - b. den Zugang der Patientinnen und Patienten zur Behandlung innert nützlicher Frist;
-- c. die Bereitschaft und Fähigkeit der Einrichtung zur Erfüllung des Leistungsauftrages nach Artikel 58*e*.
+- c. die Bereitschaft und Fähigkeit der Einrichtung zur Erfüllung des Leistungsauftrags.
 
-<sup>5</sup>
-
-Bei der Prüfung der Wirtschaftlichkeit und Qualität beachten die Kantone insbesondere:
-
-- a. die Effizienz der Leistungserbringung;
-- b. den Nachweis der notwendigen Qualität;
-- c. im Spitalbereich die Mindestfallzahlen und die Nutzung von Synergien.
+[^58b-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 58c
 
@@ -1488,22 +1613,100 @@ Die Planung erfolgt:
 
 #### Art. 58d
 
-**Interkantonale Koordination der Planungen**
+**Beurteilung der Wirtschaftlichkeit und der Qualität**[^58d-1]
 
-Im Rahmen der Verpflichtung zur interkantonalen Koordination der Planungen nach Artikel 39 Absatz 2 des Gesetzes müssen die Kantone insbesondere:
+<sup>1</sup> Die Beurteilung der Wirtschaftlichkeit der Spitäler und Geburtshäuser erfolgt namentlich durch Vergleiche der schweregradbereinigten Kosten. Bei Pflegeheimen ist die Wirtschaftlichkeit der Leistungserbringung in angemessener Weise zu berücksichtigen.
 
-- a. die nötigen Informationen über die Patientenströme auswerten und diese mit den betroffenen Kantonen austauschen;
-- b. die Planungsmassnahmen mit den davon in ihrer Versorgungssituation betroffenen Kantonen koordinieren.
+<sup>2</sup>
+
+Bei der Beurteilung der Qualität der Einrichtungen ist insbesondere zu prüfen, ob die gesamte Einrichtung folgende Anforderungen erfüllt:
+
+- a. Sie verfügt über das erforderliche qualifizierte Personal.
+- b. Sie verfügt über ein geeignetes Qualitätsmanagementsystem.
+- c. Sie verfügt über ein geeignetes internes Berichts- und Lernsystem und hat sich, wo ein solches besteht, einem gesamtschweizerisch einheitlichen Netzwerk zur Meldung von unerwünschten Ereignissen angeschlossen.
+- d. Sie verfügt über die Ausstattung, die erforderlich ist, um an nationalen Qualitätsmessungen teilzunehmen.
+- e. Sie verfügt über die Ausstattung zur Gewährleistung der Medikationssicherheit, insbesondere durch die elektronische Erfassung der verordneten und abgegebenen Arzneimittel.
+
+<sup>3</sup> Die Ergebnisse national durchgeführter Qualitätsmessungen können als Kriterien für die Auswahl der Einrichtungen berücksichtigt werden.
+
+<sup>4</sup> Bei der Beurteilung der Spitäler ist insbesondere auf die Nutzung von Synergien, auf die Mindestfallzahlen und auf das Potenzial der Konzentration von Leistungen für die Stärkung der Wirtschaftlichkeit und der Qualität der Versorgung zu achten.
+
+<sup>5</sup> Die Beurteilung der Wirtschaftlichkeit und der Qualität kann sich auf aktuelle Beurteilungen anderer Kantone stützen.
+
+[^58d-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 58e
 
-**Listen und Leistungsaufträge**
+**Interkantonale Koordination der Planungen**[^58e-1]
 
-<sup>1</sup> Die Kantone führen auf ihrer Liste nach Artikel 39 Absatz 1 Buchstabe e des Gesetzes die inner- und ausserkantonalen Einrichtungen auf, die notwendig sind, um das nach Artikel 58*b* Absatz 3 bestimmte Angebot sicherzustellen.
+<sup>1</sup>
 
-<sup>2</sup> Auf den Listen wird für jedes Spital das dem Leistungsauftrag entsprechende Leistungsspektrum aufgeführt.
+Zur Koordination ihrer Planungen nach Artikel 39 Absatz 2 KVG müssen die Kantone namentlich:
 
-<sup>3</sup> Die Kantone erteilen jeder Einrichtung auf ihrer Liste einen Leistungsauftrag nach Artikel 39 Absatz 1 Buchstabe e des Gesetzes. Dieser kann insbesondere die Pflicht zum Notfalldienst beinhalten.
+- a. die nötigen Informationen über die Patientenströme auswerten und diese Informationen mit den betroffenen Kantonen austauschen;
+- b. das Potenzial der Koordination mit anderen Kantonen für die Stärkung der Wirtschaftlichkeit und der Qualität der Leistungserbringung im Spital berücksichtigen.
+
+<sup>2</sup>
+
+Jeder Kanton koordiniert sich namentlich mit:
+
+- 1\. den Kantonen, in denen eine oder mehrere auf seiner Liste aufgeführte oder für seine Liste vorgesehene Einrichtungen ihren Standort haben;
+- 2\. den Kantonen, auf deren Liste eine oder mehrere Einrichtungen aufgeführt sind, die ihren Standort auf seinem Gebiet haben, oder für deren Liste solche Einrichtungen vorgesehen sind;
+- 3\. den Kantonen, die Standort von Einrichtungen sind, in denen sich eine bedeutende Anzahl Versicherte aus seinem Gebiet behandeln lassen oder voraussichtlich behandeln lassen werden;
+- 4\. den Kantonen, aus denen sich eine bedeutende Anzahl Versicherte in Einrichtungen, die ihren Standort auf seinem Gebiet haben, behandeln lassen oder voraussichtlich behandeln lassen werden;
+- 5\. anderen Kantonen, wenn die Koordination zu einer Stärkung der Wirtschaftlichkeit und der Qualität der Leistungserbringung im Spital führen kann.
+
+[^58e-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+
+#### Art. 58f
+
+**Listen und Leistungsaufträge**[^58f-1]
+
+<sup>1</sup> Auf der Liste nach Artikel 39 Absatz 1 Buchstabe e KVG sind die inner- und ausserkantonalen Einrichtungen aufzuführen, die notwendig sind, um das nach Artikel 58*b* Absatz 3 bestimmte Angebot sicherzustellen.
+
+<sup>2</sup> Jeder Einrichtung auf der Liste wird ein Leistungsauftrag nach Artikel 39 Absatz 1 Buchstabe e KVG erteilt. Hat die Einrichtung mehrere Standorte, so hält der Leistungsauftrag fest, für welchen Standort er gilt.
+
+<sup>3</sup> Die Listen halten für jedes Spital die dem Leistungsauftrag entsprechenden Leistungsgruppen fest.
+
+<sup>4</sup>
+
+Die Kantone bestimmen die Auflagen, die die Leistungsaufträge für Spitäler und Geburtshäuser enthalten müssen. Für akutsomatische Spitäler können sie namentlich folgende Auflagen vorsehen:
+
+- a. Verfügbarkeit eines Grundangebots in den Fachgebieten Innere Medizin und Chirurgie;
+- b. Verfügbarkeit und Qualifikation der Fachärzte und Fachärztinnen;
+- c. Verfügbarkeit und Anforderungsstufe der Notfallstation;
+- d. Verfügbarkeit und Anforderungsstufe der Intensiv- oder Überwachungsstation;
+- e. verknüpfte Leistungsgruppen innerhalb des Spitals oder in Kooperation mit anderen Spitälern;
+- f. Mindestfallzahlen.
+
+<sup>5</sup> Sie können vorsehen, dass die Leistungsaufträge für Pflegeheime Auflagen enthalten.
+
+<sup>6</sup>
+
+Sie können vorsehen, dass die Leistungsaufträge namentlich folgende Auflagen enthalten, sofern diese weder strukturerhaltend sind noch jeglichen Wettbewerb verhindern:
+
+- a. für akutsomatische Spitäler: ein Globalbudget nach Artikel 51 KVG oder die maximalen Leistungsmengen;
+- b. für Spitäler in den Bereichen Psychiatrie und Rehabilitation: ein Globalbudget nach Artikel 51 KVG, die maximalen Leistungsmengen oder die maximalen Kapazitäten;
+- c. für Pflegeheime: ein Globalbudget nach Artikel 51 KVG oder die maximalen Kapazitäten.
+
+<sup>7</sup> Sie sehen vor, dass die Leistungsaufträge für Spitäler als Auflage das Verbot ökonomischer Anreizsysteme enthalten, die zu einer medizinisch nicht gerechtfertigten Mengenausweitung zulasten der obligatorischen Krankenpflegeversicherung oder zur Umgehung der Aufnahmepflicht nach Artikel 41*a* KVG führen.
+
+[^58f-1]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+
+### 12. Abschnitt:**** Qualitätsanforderungen
+
+[^part1-tit4-chap1-sec12-1]
+
+[^part1-tit4-chap1-sec12-1]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+
+#### Art. 58g
+
+Die Leistungserbringer müssen die folgenden Qualitätsanforderungen erfüllen:
+
+- a. Sie verfügen über das erforderliche qualifizierte Personal.
+- b. Sie verfügen über ein geeignetes Qualitätsmanagementsystem.
+- c. Sie verfügen über ein geeignetes internes Berichts- und Lernsystem und haben sich, sofern ein solches besteht, einem gesamtschweizerisch einheitlichen Netzwerk zur Meldung von unerwünschten Ereignissen angeschlossen.
+- d. Sie verfügen über die Ausstattung, die erforderlich ist, um an nationalen Qualitätsmessungen teilzunehmen.
 
 ### 2. Kapitel: Rechnungstellung
 
@@ -1519,17 +1722,18 @@ Die Leistungserbringer haben in ihren Rechnungen alle administrativen und medizi
 - b. erbrachte Leistungen im Detaillierungsgrad, den der massgebliche Tarif vorsieht;
 - c. Diagnosen und Prozeduren, die zur Berechnung des anwendbaren Tarifs notwendig sind;
 - d. Kennnummer der Versichertenkarte nach Artikel 3 Absatz 1 Buchstabe f der Verordnung vom 14. Februar 2007[^59-2] über die Versichertenkarte für die obligatorische Krankenpflegeversicherung;
-- e. Versichertennummer nach dem Bundesgesetz vom 20. Dezember 1946[^59-3] über die Alters- und Hinterlassenenversicherung.
+- e. AHV-Nummer[^59-3].
 
 <sup>2</sup> Der Leistungserbringer muss für die von der obligatorischen Krankenpflegeversicherung übernommenen Leistungen und die anderen Leistungen zwei getrennte Rechnungen erstellen.
 
 <sup>3</sup> Bei Analysen erfolgt die Rechnungsstellung an den Schuldner der Vergütung ausschliesslich durch das Laboratorium, das die Analyse durchgeführt hat. Pauschaltarife nach Artikel 49 des Gesetzes bleiben vorbehalten.
 
-<sup>4</sup> Haben Versicherer und Leistungserbringer vereinbart, dass der Versicherer die Vergütung schuldet (System des *Tiers payant*), so hat der Leistungserbringer der versicherten Person die Kopie der Rechnung nach Artikel 42 Absatz 3 des Gesetzes zukommen zu lassen. Er kann mit dem Versicherer vereinbaren, dass dieser die Rechnungskopie zustellt.
+<sup>4</sup> …[^59-4]
 
 [^59-1]: Fassung gemäss Ziff. I der V vom 4. Juli 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
 [^59-2]: [SR 832.105](https://fedlex.data.admin.ch/eli/cc/2007/101)
-[^59-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^59-3]: Ausdruck gemäss Anhang Ziff. II 36 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^59-4]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 838](https://fedlex.data.admin.ch/eli/oc/2021/838)).
 
 #### Art. 59a
 
@@ -1555,11 +1759,11 @@ Die Leistungserbringer haben in ihren Rechnungen alle administrativen und medizi
 
 #### Art. 59a<sup>bis</sup>
 
-**Rechnungsstellung im ambulanten Bereich und im Bereich Rehabilitation**[^59abis-1]
+**Rechnungsstellung im ambulanten Bereich**[^59abis-1]
 
-Für den ambulanten Bereich und den Bereich Rehabilitation erlässt das EDI ausführende Bestimmungen zur Erhebung, Bearbeitung und Weitergabe der Diagnosen und Prozeduren unter Wahrung des Verhältnismässigkeitsprinzips. Darin legt es die für die Codierung schweizweit anwendbaren Klassifikationen fest.
+Für den ambulanten Bereich erlässt das EDI ausführende Bestimmungen zur Erhebung, Bearbeitung und Weitergabe der Diagnosen und Prozeduren unter Wahrung des Verhältnismässigkeitsprinzips. Darin legt es die für die Codierung schweizweit anwendbaren Klassifikationen fest.
 
-[^59abis-1]: Eingefügt durch Ziff. I der V vom 4. Juli 2012 ([AS 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Fassung gemäss Ziff. I der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6339](https://fedlex.data.admin.ch/eli/oc/2017/703)). Siehe auch die UeB der Änd. 4.7.2012 am Ende dieses Textes.
+[^59abis-1]: Eingefügt durch Ziff. I der V vom 4. Juli 2012 ([AS 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 838](https://fedlex.data.admin.ch/eli/oc/2021/838)).
 
 #### Art. 59a<sup>ter</sup>
 
@@ -1572,13 +1776,13 @@ Für den ambulanten Bereich und den Bereich Rehabilitation erlässt das EDI ausf
 [^59ater-1]: Eingefügt durch Ziff. I der V vom 4. Juli 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
 [^59ater-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
-### 3. Kapitel: Tarife und Preise
+### 3. Kapitel: Tarife und Preise****
 
 [^part1-tit4-chap3-1]
 
 [^part1-tit4-chap3-1]: Ursprünglich vor Art. 59*a*. Fassung gemäss Ziff. I der V vom 17. Sept. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
 
-### 1. Abschnitt: Grundsätze
+### 1. Abschnitt: Grundsätze****
 
 [^part1-tit4-chap3-sec1-1]
 
@@ -1640,7 +1844,7 @@ Die Tarifpartner müssen dem Bundesrat nach den Artikeln 46 Absatz 4 und 49 Absa
 
 [^59e-1]: Eingefügt durch Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Siehe auch die SchlB dieser Änd. am Ende dieses Textes.
 
-### 2. Abschnitt: Analysenliste
+### 2. Abschnitt:**** Analysenliste
 
 [^part1-tit4-chap3-sec2-1]
 
@@ -1676,12 +1880,12 @@ Das EDI bezeichnet diejenigen Analysen, die:
 - b. von Chiropraktoren und Chiropraktorinnen gestützt auf Artikel 25 Absatz 2 Buchstabe b des Gesetzes veranlasst werden können;
 - c. von Hebammen gestützt auf Artikel 29 Absatz 2 Buchstabe a des Gesetzes veranlasst werden können.
 
-<sup>2</sup> ...[^62-2]
+<sup>2</sup> …[^62-2]
 
 [^62-1]: Fassung gemäss Ziff. I der V vom 23. Febr. 2000, in Kraft seit 1. April 2000 ([AS 2000 889](https://fedlex.data.admin.ch/eli/oc/2000/137)).
 [^62-2]: Aufgehoben durch Ziff. I der V vom 4. Juni 2021, mit Wirkung seit 1. Okt. 2021 ([AS 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
 
-### 3. Abschnitt: Arzneimittelliste mit Tarif
+### 3. Abschnitt:**** Arzneimittelliste mit Tarif
 
 [^part1-tit4-chap3-sec3-1]
 
@@ -1693,7 +1897,7 @@ Das EDI bezeichnet diejenigen Analysen, die:
 
 <sup>2</sup> Für die Aufnahme eines Arzneimittels in die Arzneimittelliste mit Tarif finden die Bestimmungen über die Spezialitätenliste sinngemäss Anwendung.
 
-### 4. Abschnitt: Spezialitätenliste
+### 4. Abschnitt:**** Spezialitätenliste
 
 [^part1-tit4-chap3-sec4-1]
 
@@ -1723,24 +1927,28 @@ Das EDI bezeichnet diejenigen Analysen, die:
 
 <sup>1</sup> Ein Arzneimittel kann in die Spezialitätenliste aufgenommen werden, wenn es über eine gültige Zulassung des Instituts verfügt.
 
-<sup>2</sup> Arzneimittel, für die Publikumswerbung nach Artikel 2 Buchstabe b der Arzneimittel-Werbeverordnung vom 17. Oktober 2001[^65-3] betrieben wird, werden nicht in die Spezialitätenliste aufgenommen.
+<sup>1bis</sup> Erfüllt ein Arzneimittel die Voraussetzungen für eine Aufnahme in die Geburtsgebrechen-Spezialitätenliste nach Artikel 3<sup>sexies</sup> der Verordnung vom 17. Januar 1961[^65-3] über die Invalidenversicherung (IVV), so wird es nicht in die Spezialitätenliste aufgenommen.[^65-4]
+
+<sup>2</sup> Arzneimittel, für die Publikumswerbung nach Artikel 2 Buchstabe b der Arzneimittel-Werbeverordnung vom 17. Oktober 2001[^65-5] betrieben wird, werden nicht in die Spezialitätenliste aufgenommen.
 
 <sup>3</sup> Arzneimittel müssen wirksam, zweckmässig und wirtschaftlich sein.
 
-<sup>4</sup> Die Inhaberin der Zulassung für ein Originalpräparat muss dem BAG die Nummern der Patente und der ergänzenden Schutzzertifikate sowie deren Ablaufdatum mit dem Gesuch um Aufnahme in die Spezialitätenliste angeben.[^65-4]
+<sup>4</sup> Die Inhaberin der Zulassung für ein Originalpräparat muss dem BAG die Nummern der Patente und der ergänzenden Schutzzertifikate sowie deren Ablaufdatum mit dem Gesuch um Aufnahme in die Spezialitätenliste angeben.[^65-6]
 
 <sup>5</sup>
 
 Das BAG kann die Aufnahme mit Bedingungen und Auflagen verbinden, insbesondere:
 
 - a. die Aufnahme eines Arzneimittels, dessen Wirksamkeit, Zweckmässigkeit oder Wirtschaftlichkeit sich in Abklärung befindet, befristen, wenn therapeutische Alternativen fehlen oder eine bessere Wirksamkeit im Vergleich zu bestehenden Therapien erwartet wird;
-- b. die Aufnahme mit der Auflage verbinden, dass die Zulassungsinhaberin dem BAG meldet, wenn sie mit dem Arzneimittel über einen bestimmten Zeitraum einen Umsatz in einer festgelegten Höhe überschreitet.[^65-5]
+- b. die Aufnahme mit der Auflage verbinden, dass die Zulassungsinhaberin dem BAG meldet, wenn sie mit dem Arzneimittel über einen bestimmten Zeitraum einen Umsatz in einer festgelegten Höhe überschreitet.[^65-7]
 
 [^65-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2009, in Kraft seit 1. Okt. 2009 ([AS 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
 [^65-2]: Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^65-3]: [SR 812.212.5](https://fedlex.data.admin.ch/eli/cc/2001/519)
-[^65-4]: Fassung gemäss Ziff. I der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
-[^65-5]: Fassung gemäss Ziff. I der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
+[^65-3]: [SR 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^65-4]: Eingefügt durch Anhang Ziff. 4 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^65-5]: [SR 812.212.5](https://fedlex.data.admin.ch/eli/cc/2001/519)
+[^65-6]: Fassung gemäss Ziff. I der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
+[^65-7]: Fassung gemäss Ziff. I der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
 
 #### Art. 65a
 
@@ -1933,13 +2141,13 @@ Für die Erhöhung der in der Spezialitätenliste festgesetzten Preise bedarf es
 - a. das Arzneimittel die Aufnahmebedingungen noch erfüllt; und
 - b. seit der Aufnahme oder der letzten Preiserhöhung mindestens zwei Jahre verstrichen sind.[^67-6]
 
-<sup>2bis</sup> ...[^67-7]
+<sup>2bis</sup> …[^67-7]
 
-<sup>2ter</sup> ...[^67-8]
+<sup>2ter</sup> …[^67-8]
 
-<sup>3</sup> ...[^67-9]
+<sup>3</sup> …[^67-9]
 
-<sup>4</sup> ...[^67-10]
+<sup>4</sup> …[^67-10]
 
 [^67-1]: Siehe die SchlB der Änd. vom 2. Okt. 2000 am Ende dieser Verordnung.
 [^67-2]: Fassung gemäss Ziff. I der V vom 2. Okt. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2835](https://fedlex.data.admin.ch/eli/oc/2000/481)).
@@ -2075,7 +2283,7 @@ Das EDI erlässt nähere Vorschriften:
 [^71-3]: Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
 [^71-4]: Die Dokumente können abgerufen werden unter: www.bag.admin.ch &gt; Themen &gt; Krankenversicherung &gt; Tarife und Preise &gt; Spezialitätenliste
 
-### 4*a*. Abschnitt: Vergütung von Arzneimitteln im Einzelfall
+### 4*a*. Abschnitt: Vergütung von Arzneimitteln im Einzelfall****
 
 [^part1-tit4-chap3-sec4a-1]
 
@@ -2094,7 +2302,7 @@ Die obligatorische Krankenpflegeversicherung übernimmt die Kosten eines in die 
 
 <sup>2</sup> Der Versicherer bestimmt nach Absprache mit der Zulassungsinhaberin die Höhe der Vergütung. Der zu vergütende Preis muss unter dem Höchstpreis der Spezialitätenliste liegen.[^71a-2]
 
-<sup>3</sup> ...[^71a-3]
+<sup>3</sup> …[^71a-3]
 
 [^71a-1]: Eingefügt durch Ziff. I der V vom 2. Febr. 2011, in Kraft seit 1. März 2011 ([AS 2011 653](https://fedlex.data.admin.ch/eli/oc/2011/104)).
 [^71a-2]: Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
@@ -2138,12 +2346,15 @@ Die obligatorische Krankenpflegeversicherung übernimmt die Kosten eines in die 
 
 **Übernahme der Kosten von Arzneimitteln zur Behandlung von Covid-19**[^71e-1]
 
-Die Artikel 71*a*–71*d* finden für die Übernahme der Kosten von Arzneimitteln, die zur Behandlung von Covid-19 eingesetzt werden und Wirkstoffe enthalten, die in Anhang 5 der Covid-19-Verordnung 3 vom 19. Juni 2020[^71e-2] aufgeführt sind, keine Anwendung.
+Die Artikel 71*a*–71*d* finden für die Übernahme der Kosten in folgenden Fällen keine Anwendung:
 
-[^71e-1]: Eingefügt durch Ziff. III der V vom 12. Mai 2021, in Kraft vom 1. Mai 2021 bis zum 31. Dez. 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+- a. Arzneimittel, die zur Behandlung von Covid-19 eingesetzt werden und Wirkstoffe enthalten, die in Anhang 5 der Covid-19-Verordnung 3 vom 19. Juni 2020[^71e-2] aufgeführt sind;
+- b. Arzneimittel, die über eine gültige Zulassung des Instituts mit einer Indikation für die Behandlung von Covid-19 verfügen.
+
+[^71e-1]: Eingefügt durch Ziff. III der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 892](https://fedlex.data.admin.ch/eli/oc/2021/892)).
 [^71e-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
-### 5. Abschnitt: Gemeinsame Bestimmungen für die Analysenliste, die Arzneimittelliste mit Tarif und die Spezialitätenliste
+### 5. Abschnitt:**** Gemeinsame Bestimmungen für die Analysenliste, die Arzneimittelliste mit Tarif und die Spezialitätenliste****
 
 [^part1-tit4-chap3-sec5-1][^part1-tit4-chap3-sec5-2]
 
@@ -2425,7 +2636,7 @@ Das EDI setzt nach Anhören der zuständigen Kommission die Massnahmen nach Arti
 
 ### 5. Titel: Finanzierung
 
-### 1. Kapitel: ...
+### 1. Kapitel: …
 
 #### Art. 78
 
@@ -2457,7 +2668,7 @@ Das EDI setzt nach Anhören der zuständigen Kommission die Massnahmen nach Arti
 
 [^80a80i-1]: Eingefügt durch Ziff. I der V vom 3. Dez. 2010 ([AS 2010 6155](https://fedlex.data.admin.ch/eli/oc/2010/878)). Aufgehoben durch Anhang Ziff. 3 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
-#### Art. 81 –85
+#### Art. 81–85
 
 [^8185-1]
 
@@ -2550,7 +2761,7 @@ Die Prämien sind im Voraus und in der Regel monatlich zu bezahlen.
 
 **Prämienreduktion bei anderweitiger Versicherung**[^91a-1]
 
-<sup>1</sup> ...[^91a-2]
+<sup>1</sup> …[^91a-2]
 
 <sup>2</sup> Die Versicherer müssen die Prämien der Krankenpflegeversicherung derjenigen Personen, die eine obligatorische Versicherung nach dem UVG[^91a-3] abgeschlossen haben, während der Dauer der Unfalldeckung reduzieren.[^91a-4]
 
@@ -2583,7 +2794,7 @@ Die Prämien sind im Voraus und in der Regel monatlich zu bezahlen.
 
 [^92-1]: Aufgehoben durch Anhang Ziff. 3 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
-### 1*a*. Abschnitt: Prämien der Versicherten mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island oder Norwegen
+### 1*a*. Abschnitt:**** Prämien der Versicherten mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island oder Norwegen
 
 [^part1-tit5-chap2-sec1a-1][^part1-tit5-chap2-sec1a-2]
 
@@ -2602,7 +2813,7 @@ Wohnt die versicherte Person im Ausland, so erhebt der Versicherer die Prämien 
 
 [^92b92c-1]: Aufgehoben durch Anhang Ziff. 3 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
-### 1*b*. Abschnitt: Prämien von nothilfeberechtigten Personen nach Artikel 82 AsylG
+### 1*b*. Abschnitt:**** Prämien von nothilfeberechtigten Personen nach Artikel 82 AsylG
 
 [^part1-tit5-chap2-sec1b-1][^part1-tit5-chap2-sec1b-2]
 
@@ -2674,11 +2885,11 @@ Die Sistierung der Fälligkeit der Prämien wird ohne rückwirkende Bezahlung de
 
 <sup>1bis</sup> Die Versicherer legen den Betrag, um den sie eine Prämie herabsetzen, aufgrund versicherungsmässiger Erfordernisse fest. Sie halten die in Absatz 2<sup>bis</sup> und Artikel 90*c* vorgeschriebenen maximalen Prämienreduktionen ein.[^95-1]
 
-<sup>2</sup> ...[^95-2]
+<sup>2</sup> …[^95-2]
 
 <sup>2bis</sup> Die Prämienreduktion je Kalenderjahr darf nicht höher sein als 70 Prozent des von den Versicherten mit der Wahl der höheren Franchise übernommenen Risikos, sich an den Kosten zu beteiligen.[^95-3]
 
-<sup>3</sup> ...[^95-4]
+<sup>3</sup> …[^95-4]
 
 [^95-1]: Eingefügt durch Ziff. I der V vom 23. Febr. 2000 ([AS 2000 889](https://fedlex.data.admin.ch/eli/oc/2000/137)). Fassung gemäss Ziff. I der V vom 26. April 2006, in Kraft seit 10. Mai 2006 ([AS 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
 [^95-2]: Aufgehoben durch Ziff. I der V vom 26. April 2006, mit Wirkung seit 10. Mai 2006 ([AS 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
@@ -2821,16 +3032,24 @@ Die besonderen Versicherungsformen nach den Artikeln 93–101 stehen nicht offen
 
 <sup>1</sup> Der tägliche Beitrag an die Kosten des Aufenthalts im Spital nach Artikel 64 Absatz 5 des Gesetzes beträgt 15 Franken.
 
+<sup>1bis</sup>
+
+Er ist nicht zu leisten:
+
+- a. für den Austrittstag;
+- b. für Urlaubstage, wobei diese nach den Regeln der anwendbaren Tarifstruktur nach Artikel 49 Absatz 1 KVG, wie sie vom Bundesrat genehmigt oder festgelegt wurden, berechnet werden.[^104-2]
+
 <sup>2</sup>
 
 Keinen Beitrag haben zu entrichten:
 
 - a. Kinder nach Artikel 61 Absatz 3 des Gesetzes;
 - b. junge Erwachsene nach Artikel 61 Absatz 3 des Gesetzes, die in Ausbildung sind;
-- c.[^104-2] Frauen, bei denen die Kostenbeteiligung nach Artikel 64 Absatz 7 des Gesetzes entfällt.
+- c.[^104-3] Frauen, bei denen die Kostenbeteiligung nach Artikel 64 Absatz 7 des Gesetzes entfällt.
 
 [^104-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6161](https://fedlex.data.admin.ch/eli/oc/2010/879)).
-[^104-2]: Fassung gemäss Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. März 2014 ([AS 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^104-2]: Eingefügt durch Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323)).
+[^104-3]: Fassung gemäss Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. März 2014 ([AS 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 104a
 
@@ -2870,7 +3089,7 @@ Das EDI bezeichnet die Leistungen, für die nach Artikel 64 Absatz 6 Buchstabe a
 
 [^105-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. März 2014 ([AS 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)).
 
-### 3*a*. Kapitel: Nichtbezahlung von Prämien und Kostenbeteiligungen
+### 3*a*. Kapitel:**** Nichtbezahlung von Prämien und Kostenbeteiligungen
 
 [^part1-tit5-chap3a-1]
 
@@ -2943,7 +3162,7 @@ Bei der Bekanntgabe nach Artikel 64*a* Absatz 3 des Gesetzes muss der Versichere
 - b. das Geschlecht;
 - c. das Geburtsdatum;
 - d. den Wohnsitz;
-- e. die AHV-Versichertennummer.
+- e. die AHV-Nummer.
 
 [^105g-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 
@@ -3039,13 +3258,13 @@ Ist es nach dem Recht eines Mitgliedstaats der Europäischen Union, Islands oder
 
 [^105m-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 
-### 4. Kapitel: Prämienverbilligung durch die Kantone
+### 4. Kapitel:**** Prämienverbilligung durch die Kantone
 
 [^part1-tit5-chap4-1]
 
 [^part1-tit5-chap4-1]: Fassung gemäss Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
-### 1. Abschnitt: Anspruchsberechtigte
+### 1. Abschnitt: Anspruchsberechtigte****
 
 [^part1-tit5-chap4-sec1-1]
 
@@ -3076,7 +3295,7 @@ Die Prämienverbilligung richtet sich nach Artikel 65*a* des Gesetzes:
 [^106a-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 [^106a-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 
-### 2. Abschnitt: Durchführung der Prämienverbilligung
+### 2. Abschnitt:**** Durchführung der Prämienverbilligung
 
 [^part1-tit5-chap4-sec2-1]
 
@@ -3257,7 +3476,7 @@ Der vorleistende Krankenversicherer macht die versicherte Person auf die Rücker
 
 <sup>2</sup> Hat der rückvergütungsberechtigte Versicherer mehr erstattet, als aufgrund der für den rückvergütungspflichtigen Versicherer geltenden Tarife geschuldet gewesen wäre, müssen die Leistungserbringer dem rückvergütungsberechtigten Versicherer die Differenz zurückerstatten.
 
-### 4. Abschnitt: Informationspflicht der Versicherer
+### 4. Abschnitt:**** Informationspflicht der Versicherer
 
 [^part3-tit1-chap1-sec4-1]
 
@@ -3288,7 +3507,7 @@ Eine Überentschädigung bei Sachleistungen liegt in dem Masse vor, als die jewe
 
 [^122-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
-### 2. Titel: ...
+### 2. Titel: …
 
 #### Art. 123–126
 
@@ -3296,7 +3515,7 @@ Eine Überentschädigung bei Sachleistungen liegt in dem Masse vor, als die jewe
 
 [^123126-1]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
-## 4. Teil: Verfügung, Kosten der Bekanntgabe und Publikation von Daten
+## 4. Teil: Verfügung, Kosten der Bekanntgabe und Publikation von Daten****
 
 [^part4-1]
 
@@ -3399,19 +3618,19 @@ Laboratorien, die bereits nach den Artikeln 53 und 54 als Leistungserbringer fü
 
 Diese Verordnung tritt am 1. Januar 1996 in Kraft.
 
-## Schlussbestimmungen der Änderung vom 17. September 1997
+## Schlussbestimmungen der Änderung vom 17. September 1997****
 
 [^u1-1]
 
 [^u1-1]: [AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272). Aufgehoben durch Ziff. IV 51 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Schlussbestimmungen der Änderung vom 23. Februar 2000
+## Schlussbestimmungen der Änderung vom 23. Februar 2000****
 
 [^u2-1]
 
 [^u2-1]: [AS 2000 889](https://fedlex.data.admin.ch/eli/oc/2000/137). Aufgehoben durch Ziff. IV 51 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Schlussbestimmungen der Änderung vom 2. Oktober 2000
+## Schlussbestimmungen der Änderung vom 2. Oktober 2000****
 
 [^u3-1]
 
@@ -3419,13 +3638,13 @@ Diese Verordnung tritt am 1. Januar 1996 in Kraft.
 
 Das BAG kann für bestimmte Arzneimittelgruppen während höchstens fünf Jahren auf die Anpassung der Preise an die in Artikel 67 vorgesehene Preisstruktur verzichten oder eine gestaffelte Anpassung vorsehen.
 
-## Schlussbestimmungen der Änderung vom 22. Mai 2002
+## Schlussbestimmungen der Änderung vom 22. Mai 2002****
 
 [^u4-1]
 
 [^u4-1]: [AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251). Aufgehoben durch Ziff. IV 51 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Schlussbestimmungen der Änderung vom 26. Juni 2002
+## Schlussbestimmungen der Änderung vom 26. Juni 2002****
 
 [^u5-1]
 
@@ -3433,13 +3652,13 @@ Das BAG kann für bestimmte Arzneimittelgruppen während höchstens fünf Jahren
 
 Für die im Zeitpunkt des Inkrafttretens dieser Änderung hängigen Verfahren gilt das neue Recht.
 
-## Schlussbestimmungen der Änderung vom 6. Juni 2003
+## Schlussbestimmungen der Änderung vom 6. Juni 2003****
 
 [^u6-1]
 
 [^u6-1]: [AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445). Aufgehoben durch Ziff. IV 51 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Schlussbestimmungen der Änderung vom 26. Mai 2004
+## Schlussbestimmungen der Änderung vom 26. Mai 2004****
 
 [^u7-1]
 
@@ -3449,7 +3668,7 @@ Für die im Zeitpunkt des Inkrafttretens dieser Änderung hängigen Verfahren gi
 
 <sup>2</sup> Für die mit einer wählbaren Franchise versicherten Personen gilt ab dem 1. Januar 2005 die von ihrem Versicherer angebotene wählbare Franchise, die ihrer bisherigen Franchise entspricht oder die dieser am nächsten ist. Haben die nächstliegende höhere Franchise und die nächstliegende tiefere Franchise den gleichen Abstand zur bisherigen Franchise, so gilt die höhere. Die mit einer wählbaren Franchise versicherten Personen können jedoch eine andere Franchise wählen oder in die ordentliche Versicherung wechseln, wenn sie dies dem Versicherer bis spätestens am 30. November 2004 schriftlich mitteilen.
 
-## Schlussbestimmungen der Änderung vom 3. Dezember 2004
+## Schlussbestimmungen der Änderung vom 3. Dezember 2004****
 
 [^u8-1]
 
@@ -3459,13 +3678,13 @@ Für die im Zeitpunkt des Inkrafttretens dieser Änderung hängigen Verfahren gi
 
 <sup>2</sup> Für Versicherungsverhältnisse, die vor Inkrafttreten dieser Änderung von Artikel 103 Absatz 5 abgeschlossen worden sind, gilt die bisherige Regelung für die vereinbarte Vertragsdauer, höchstens aber bis zum 31. Dezember 2005.
 
-## Schlussbestimmungen der Änderung vom 9. November 2005
+## Schlussbestimmungen der Änderung vom 9. November 2005****
 
 [^u9-1]
 
 [^u9-1]: [AS 2005 5639](https://fedlex.data.admin.ch/eli/oc/2005/771). Aufgehoben durch Ziff. IV 51 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Schlussbestimmungen der Änderung vom 26. April 2006
+## Schlussbestimmungen der Änderung vom 26. April 2006****
 
 [^u10-1]
 
@@ -3477,15 +3696,15 @@ Für die im Zeitpunkt des Inkrafttretens dieser Änderung hängigen Verfahren gi
 
 <sup>3</sup> Die Artikel 65–65*c* sowie 66*a* gelten für die Arzneimittel, die vor dem Inkrafttreten dieser Änderung in die Spezialitätenliste aufgenommen worden sind.
 
-<sup>4</sup> ...[^u10-3]
+<sup>4</sup> …[^u10-3]
 
-<sup>5</sup> ...[^u10-4]
+<sup>5</sup> …[^u10-4]
 
 [^u10-2]: [AS 2001 138](https://fedlex.data.admin.ch/eli/oc/2001/31)
 [^u10-3]: Aufgehoben durch Ziff. I der V vom 27. Juni 2007, mit Wirkung seit 1. Aug. 2007 ([AS 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
 [^u10-4]: Aufgehoben durch Ziff. I der V vom 22. Juni 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 3449](https://fedlex.data.admin.ch/eli/oc/2011/462)).
 
-## Schlussbestimmungen der Änderung vom 27. Juni 2007
+## Schlussbestimmungen der Änderung vom 27. Juni 2007****
 
 [^u11-1]
 
@@ -3505,7 +3724,7 @@ Für die im Zeitpunkt des Inkrafttretens dieser Änderung hängigen Verfahren gi
 
 [^u11-2]: [AS 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)
 
-## Schlussbestimmungen der Änderung vom 22. August 2007
+## Schlussbestimmungen der Änderung vom 22. August 2007****
 
 [^u12-1]
 
@@ -3513,7 +3732,7 @@ Für die im Zeitpunkt des Inkrafttretens dieser Änderung hängigen Verfahren gi
 
 Die Bestimmungen dieser Verordnung zur Revisionsstelle gelten vom ersten Geschäftsjahr an, das mit Inkrafttreten dieser Änderung oder danach beginnt.
 
-## Schlussbestimmungen der Änderung vom 22. Oktober 2008
+## Schlussbestimmungen der Änderung vom 22. Oktober 2008****
 
 [^u13-1]
 
@@ -3537,7 +3756,7 @@ Die Bestimmungen dieser Verordnung zur Revisionsstelle gelten vom ersten Geschä
 [^u13-5]: [SR 832.104](https://fedlex.data.admin.ch/eli/cc/2002/418)
 [^u13-6]: Eingefügt durch Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. Dez. 2011 ([AS 2011 5037](https://fedlex.data.admin.ch/eli/oc/2011/738)).
 
-## Schlussbestimmungen der Änderung vom 13. März 2009
+## Schlussbestimmungen der Änderung vom 13. März 2009****
 
 [^u14-1]
 
@@ -3547,7 +3766,7 @@ Die gemeinsame Einrichtung informiert in Zusammenarbeit mit dem BAG, den rentena
 
 [^u14-2]: [SR 0.142.112.681.1](https://fedlex.data.admin.ch/eli/cc/2009/297)
 
-## Übergangsbestimmungen der Änderung vom 24. Juni 2009
+## Übergangsbestimmungen der Änderung vom 24. Juni 2009****
 
 [^u15-1]
 
@@ -3555,7 +3774,7 @@ Die gemeinsame Einrichtung informiert in Zusammenarbeit mit dem BAG, den rentena
 
 Für Pilotprojekte nach Artikel 36*a*, die vor dem Inkrafttreten der Änderung vom 24. Juni 2009 genehmigt wurden, wird die Projektdauer von vier Jahren um die im Zeitpunkt des Inkrafttretens dieser Änderung bereits abgelaufene Zeit gekürzt.
 
-## Übergangsbestimmungen zur Änderung vom 1. Juli 2009
+## Übergangsbestimmungen zur Änderung vom 1. Juli 2009****
 
 [^u16-1]
 
@@ -3580,7 +3799,7 @@ Für Pilotprojekte nach Artikel 36*a*, die vor dem Inkrafttreten der Änderung v
 
 [^u16-2]: Fassung gemäss Ziff. I der V vom 11. Sept. 2009, in Kraft seit 1. Okt. 2009 ([AS 2009 4759](https://fedlex.data.admin.ch/eli/oc/2009/560)).
 
-## Übergangsbestimmungen zur Änderung vom 3. Dezember 2010
+## Übergangsbestimmungen zur Änderung vom 3. Dezember 2010****
 
 [^u17-1]
 
@@ -3592,7 +3811,7 @@ Für Pilotprojekte nach Artikel 36*a*, die vor dem Inkrafttreten der Änderung v
 
 <sup>3</sup> Die Versicherer müssen Anlagen nach Artikel 80*d* Absatz 1 Buchstabe e, die bei Inkrafttreten der Änderung vom 3. Dezember 2010 bestehen, dem BAG innerhalb eines Jahres zur Genehmigung unterbreiten.
 
-## Übergangsbestimmungen zur Änderung vom 22. Juni 2011
+## Übergangsbestimmungen zur Änderung vom 22. Juni 2011****
 
 [^u18-1]
 
@@ -3605,7 +3824,7 @@ Für Pilotprojekte nach Artikel 36*a*, die vor dem Inkrafttreten der Änderung v
 - a. über die Sicherheitsreserven nach Artikel 78 Absatz 4 des bisherigen Rechts verfügen; und
 - b. sofern bei ihnen weniger als 50 000 Personen in der obligatorischen Krankenpflegeversicherung versichert sind, über eine Rückversicherung verfügen.
 
-## Übergangsbestimmung zur Änderung vom 6. Juli 2011
+## Übergangsbestimmung zur Änderung vom 6. Juli 2011****
 
 [^u19-1]
 
@@ -3613,18 +3832,18 @@ Für Pilotprojekte nach Artikel 36*a*, die vor dem Inkrafttreten der Änderung v
 
 Erhält ein Versicherer ein Gesuch um Kostenübernahme von einer nothilfeberechtigten Person, deren Asylentscheid vor dem Inkrafttreten dieser Änderung rechtskräftig wurde, so sind die Prämien und der Aufschlag nach dieser Änderung rückwirkend ab dem Inkrafttreten dieser Änderung geschuldet.
 
-## Übergangsbestimmung zur Änderung vom 2. November 2011
+## Übergangsbestimmung zur Änderung vom 2. November 2011****
 
 [^u20-1]
 
 [^u20-1]: [AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)
 
-In Bezug auf Island, Liechtenstein und Norwegen gilt bis zum Inkrafttreten der Änderung vom ...[^u20-2] von Anhang K zum EFTA-Abkommen[^u20-3] das bisherige Recht.
+In Bezug auf Island, Liechtenstein und Norwegen gilt bis zum Inkrafttreten der Änderung vom …[^u20-2] von Anhang K zum EFTA-Abkommen[^u20-3] das bisherige Recht.
 
-[^u20-2]: AS ...
+[^u20-2]: AS …
 [^u20-3]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-## Übergangsbestimmung zur Änderung vom 4. Juli 2012
+## Übergangsbestimmung zur Änderung vom 4. Juli 2012****
 
 [^u21-1]
 
@@ -3636,7 +3855,7 @@ In Bezug auf Island, Liechtenstein und Norwegen gilt bis zum Inkrafttreten der �
 
 [^u21-2]: Fassung gemäss Ziff. II der V vom 19. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4391](https://fedlex.data.admin.ch/eli/oc/2014/723), [2015 1177](https://fedlex.data.admin.ch/eli/oc/2015/236)).
 
-## Übergangsbestimmung zur Änderung vom 8. Mai 2013
+## Übergangsbestimmung zur Änderung vom 8. Mai 2013****
 
 [^u22-1]
 
@@ -3644,7 +3863,7 @@ In Bezug auf Island, Liechtenstein und Norwegen gilt bis zum Inkrafttreten der �
 
 Artikel 65*f* gilt auch für Gesuche um Indikationserweiterung oder um Änderung oder Aufhebung einer Limitierung, welche beim Inkrafttreten dieser Änderung noch beim BAG hängig sind.
 
-## Übergangsbestimmungen zur Änderung vom 29. November 2013
+## Übergangsbestimmungen zur Änderung vom 29. November 2013****
 
 [^u23-1]
 
@@ -3656,7 +3875,7 @@ Artikel 65*f* gilt auch für Gesuche um Indikationserweiterung oder um Änderung
 
 [^u23-2]: [AS 2010 6161](https://fedlex.data.admin.ch/eli/oc/2010/879)
 
-## Übergangsbestimmungen zur Änderung vom 29. April 2015
+## Übergangsbestimmungen zur Änderung vom 29. April 2015****
 
 [^u24-1]
 
@@ -3674,7 +3893,7 @@ Artikel 65*f* gilt auch für Gesuche um Indikationserweiterung oder um Änderung
 
 [^u24-2]: Fassung gemäss Ziff. I der V vom 23. März 2016, in Kraft seit 1. Mai 2016 ([AS 2016 1175](https://fedlex.data.admin.ch/eli/oc/2016/219)).
 
-## Übergangsbestimmung zur Änderung vom 9. Dezember 2016
+## Übergangsbestimmung zur Änderung vom 9. Dezember 2016****
 
 [^u25-1]
 
@@ -3682,7 +3901,7 @@ Artikel 65*f* gilt auch für Gesuche um Indikationserweiterung oder um Änderung
 
 Für Gesuche um Anerkennung der Gleichwertigkeit von Weiterbildungstiteln in Labormedizin nach Artikel 54*a*, die vor dem Inkrafttreten der Änderung vom 9. Dezember 2016 eingereicht wurden, gilt das bisherige Recht.
 
-## Übergangsbestimmungen zur Änderung vom 1. Februar 2017
+## Übergangsbestimmungen zur Änderung vom 1. Februar 2017****
 
 [^u26-1]
 
@@ -3692,7 +3911,7 @@ Für Gesuche um Anerkennung der Gleichwertigkeit von Weiterbildungstiteln in Lab
 
 <sup>2</sup> Die erste Überprüfung der Aufnahmebedingungen nach Artikel 65*d* wird im Jahr 2017 durchgeführt.
 
-## Übergangsbestimmung zur Änderung vom 5. April 2017
+## Übergangsbestimmung zur Änderung vom 5. April 2017****
 
 [^u27-1]
 
@@ -3703,6 +3922,53 @@ Für Gesuche um Anerkennung der Gleichwertigkeit von Weiterbildungstiteln in Lab
 <sup>2</sup> Apothekerinnen und Apothekern, die bei Inkrafttreten der Änderung vom 5. April 2017 bereits zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung zugelassen sind, bleiben zugelassen.
 
 [^u27-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+
+## Übergangsbestimmung zur Änderung vom 26. Mai 2021****
+
+[^u28-1]
+
+[^u28-1]: [AS 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323). Aufgehoben durch Ziff. I der V vom 23. Juni 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+
+## Übergangsbestimmungen zur Änderung vom 23. Juni 2021****
+
+[^u29-1]
+
+[^u29-1]: [AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)
+
+<sup>1</sup> Die Versicherer müssen den Kantonen innert sechs Monaten nach Inkrafttreten der Änderung vom 23. Juni 2021 die Daten zu den vor Inkrafttreten der Änderung des KVG vom 19. Juni 2020[^u29-2] auf ihrem Gebiet zugelassenen Leistungserbringern zukommen lassen.
+
+<sup>2</sup> Die Listen der akutsomatischen Spitäler und der Geburtshäuser müssen innert vier Jahren nach Inkrafttreten der Änderung vom 23. Juni 2021 den Planungskriterien nach dieser Verordnung entsprechen.
+
+<sup>3</sup> Die Listen der Spitäler in den Bereichen Psychiatrie und Rehabilitation müssen innert sechs Jahren nach Inkrafttreten der Änderung vom 23. Juni 2021 den Planungskriterien nach dieser Verordnung entsprechen.
+
+<sup>4</sup> Die Listen der Pflegeheime müssen innert fünf Jahren nach Inkrafttreten der Änderung vom 23. Juni 2021 den Planungskriterien nach dieser Verordnung entsprechen.
+
+<sup>5</sup> ...[^u29-3]
+
+<sup>7</sup> Bei Podologen und Podologinnen, die beim Inkrafttreten der Änderung vom 23. Juni 2021 einen Abschluss nach Artikel 50*d* Buchstabe b oder nach Absatz 6 besitzen oder innerhalb von zwei Jahren ein Diplom nach Artikel 50*d* Buchstabe b erwerben, wird jede praktische Tätigkeit nach dem Erwerb des Diploms als Podologe oder Podologin vor dem Inkrafttreten der Änderung und während vier Jahren danach für die Beurteilung der Erfüllung des Erfordernisses der zweijährigen praktischen Tätigkeit nach Artikel 50*d* Buchstabe c angerechnet, auch wenn die Tätigkeit die Voraussetzungen nach Artikel 50*d* Buchstabe c nicht erfüllt.
+
+<sup>6</sup> Podologen und Podologinnen, die beim Inkrafttreten der Änderung vom 23. Juni 2021 über eine kantonale Bewilligung zur Behandlung von Risikopersonen in eigener fachlicher Verantwortung verfügen, sind zugelassen, wenn sie Inhaber oder Inhaberinnen einer der folgenden Abschlüsse sind:
+
+- a. Fähigkeitszeugnis als Podologe oder Podologin des Schweizerischen Podologen-Verbandes (SPV);
+- b. Fähigkeitszeugnis des Fachverbandes Schweizerischer Podologen (FSP);
+- c. Diplom als Podologe oder Podologin des Kantons Tessin ergänzt mit dem bestandenen Kurs über den diabetischen Fuss des Centro professionale sociosanitario (CPS) Lugano in Zusammenarbeit mit der Unione dei podologi della Svizzera italiana (UPSI).
+
+[^u29-2]: [AS 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413)
+[^u29-3]: Tritt am 1. Juli 2022 in Kraft ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+
+## Übergangsbestimmungen zur Änderung vom 3. November 2021****
+
+[^u30-1]
+
+[^u30-1]: [AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)
+
+<sup>1</sup> Artikel 65 Absatz 1<sup>bis</sup> gilt auch für Gesuche um Aufnahme in die Spezialitätenliste, die beim Inkrafttreten der Änderung vom 3. November 2021 beim BAG hängig sind.
+
+<sup>2</sup> Arzneimittel, die die Voraussetzungen für eine Aufnahme in die Geburtsgebrechen-Spezialitätenliste nach Artikel 3<sup>sexies</sup> IVV[^u30-2] erfüllen und in der Spezialitätenliste aufgeführt sind, werden in Umsetzung von Artikel 65 Absatz 1<sup>bis</sup> im Rahmen der Überprüfung nach Artikel 65*d* in die Geburtsgebrechen-Spezialitätenliste überführt.
+
+<sup>3</sup> Arzneimittel, die in der Geburtsgebrechenmedikamentenliste der Spezialitätenliste aufgeführt sind, werden im Rahmen der Überprüfung nach Artikel 65*d* in die Geburtsgebrechen-Spezialitätenliste nach Artikel 3<sup>sexies</sup> IVV oder die Spezialitätenliste nach Artikel 52 Absatz 1 Buchstabe b des Gesetzes überführt.
+
+[^u30-2]: [SR 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
 
 Anhang 1[^t-1]
 
@@ -3745,18 +4011,18 @@ Es werden aufgehoben:
 - h. die Verordnung VIII vom 30. Oktober 1968[^annex2-lvlu1-lvl1-8] über die Krankenversicherung betreffend die Auswahl von Arzneimitteln und Analysen;
 - i die Verordnung vom 22. November 1989[^annex2-lvlu1-lvl1-9] über den Betrieb anderer Versicherungsarten durch anerkannte Krankenkassen.
 
-[^annex2-lvlu1-lvl1-1]: [[AS 1964 1289](https://fedlex.data.admin.ch/eli/oc/1964/1289_1296_1329), [1974 978](https://fedlex.data.admin.ch/eli/oc/1974/978_978_978), [1986 685](https://fedlex.data.admin.ch/eli/oc/1986/685_685_685), [1990 1675](https://fedlex.data.admin.ch/eli/oc/1990/1675_1675_1675), [1991 609](https://fedlex.data.admin.ch/eli/oc/1991/609_609_609)[2547](https://fedlex.data.admin.ch/eli/oc/1991/2547_2547_2547), [1992 1738](https://fedlex.data.admin.ch/eli/oc/1992/1738_1738_1738)Art. 18]
-[^annex2-lvlu1-lvl1-2]: [[AS 1965 31](https://fedlex.data.admin.ch/eli/oc/1965/31_32_33), [1984 1481](https://fedlex.data.admin.ch/eli/oc/1984/1481_1481_1481), [1990 1674](https://fedlex.data.admin.ch/eli/oc/1990/1674_1674_1674), [1991 606](https://fedlex.data.admin.ch/eli/oc/1991/606_606_606)[2546](https://fedlex.data.admin.ch/eli/oc/1991/2546_2546_2546)]
-[^annex2-lvlu1-lvl1-3]: [[AS 1965 41](https://fedlex.data.admin.ch/eli/oc/1965/41_45_45), [1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)Ziff. V [1068](https://fedlex.data.admin.ch/eli/oc/1968/1068_1107_1024), [1969 1126](https://fedlex.data.admin.ch/eli/oc/1969/1126_1147_1149)Ziff. II, [1974 978](https://fedlex.data.admin.ch/eli/oc/1974/978_978_978)Ziff. II, [1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38)Art. 142, [1984 1485](https://fedlex.data.admin.ch/eli/oc/1984/1485_1485_1485), [1986 85](https://fedlex.data.admin.ch/eli/oc/1986/85_85_85)]
+[^annex2-lvlu1-lvl1-1]: [[AS 1964 1289](https://fedlex.data.admin.ch/eli/oc/1964/1289_1296_1329); [1974 978](https://fedlex.data.admin.ch/eli/oc/1974/978_978_978); [1986 685](https://fedlex.data.admin.ch/eli/oc/1986/685_685_685); [1990 1675](https://fedlex.data.admin.ch/eli/oc/1990/1675_1675_1675); [1991 609](https://fedlex.data.admin.ch/eli/oc/1991/609_609_609), [2547](https://fedlex.data.admin.ch/eli/oc/1991/2547_2547_2547); [1992 1738](https://fedlex.data.admin.ch/eli/oc/1992/1738_1738_1738)Art. 18]
+[^annex2-lvlu1-lvl1-2]: [[AS 1965 31](https://fedlex.data.admin.ch/eli/oc/1965/31_32_33); [1984 1481](https://fedlex.data.admin.ch/eli/oc/1984/1481_1481_1481); [1990 1674](https://fedlex.data.admin.ch/eli/oc/1990/1674_1674_1674); [1991 606](https://fedlex.data.admin.ch/eli/oc/1991/606_606_606), [2546](https://fedlex.data.admin.ch/eli/oc/1991/2546_2546_2546)]
+[^annex2-lvlu1-lvl1-3]: [[AS 1965 41](https://fedlex.data.admin.ch/eli/oc/1965/41_45_45); [1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)Ziff. V, [1068](https://fedlex.data.admin.ch/eli/oc/1968/1068_1107_1024); [1969 1126](https://fedlex.data.admin.ch/eli/oc/1969/1126_1147_1149)Ziff. II; [1974 978](https://fedlex.data.admin.ch/eli/oc/1974/978_978_978)Ziff. II; [1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38)Art. 142; [1984 1485](https://fedlex.data.admin.ch/eli/oc/1984/1485_1485_1485); [1986 85](https://fedlex.data.admin.ch/eli/oc/1986/85_85_85)]
 [^annex2-lvlu1-lvl1-4]: [[AS 1965 55](https://fedlex.data.admin.ch/eli/oc/1965/55_59_60)]
-[^annex2-lvlu1-lvl1-5]: [[AS 1965 90](https://fedlex.data.admin.ch/eli/oc/1965/90_94_93), [1969 77](https://fedlex.data.admin.ch/eli/oc/1969/77_81_81)Ziff. II Bst. B Ziff. 3 1220, **1970** 1644, **1984** 1479, **1986** 80 1706, **1990** 21 2039, **1991** 370 Anhang Ziff. 18]
-[^annex2-lvlu1-lvl1-6]: [[AS 1966 499](https://fedlex.data.admin.ch/eli/oc/1966/499_519_515), [1971 1185](https://fedlex.data.admin.ch/eli/oc/1971/1185_1186_1186)]
+[^annex2-lvlu1-lvl1-5]: [[AS 1965 90](https://fedlex.data.admin.ch/eli/oc/1965/90_94_93); [1969 77](https://fedlex.data.admin.ch/eli/oc/1969/77_81_81)Ziff. II Bst. B Ziff. 3, 1220; **1970** 1644; **1984** 1479; **1986** 80 1706; **1990** 21 2039; **1991** 370 Anhang Ziff. 18]
+[^annex2-lvlu1-lvl1-6]: [[AS 1966 499](https://fedlex.data.admin.ch/eli/oc/1966/499_519_515); [1971 1185](https://fedlex.data.admin.ch/eli/oc/1971/1185_1186_1186)]
 [^annex2-lvlu1-lvl1-7]: [[AS 1966 570](https://fedlex.data.admin.ch/eli/oc/1966/570_590_586)]
-[^annex2-lvlu1-lvl1-8]: [[AS 1968 1318](https://fedlex.data.admin.ch/eli/oc/1968/1318_1366_1282), [1982 2178](https://fedlex.data.admin.ch/eli/oc/1982/2178_2178_2178), [1984 1486](https://fedlex.data.admin.ch/eli/oc/1984/1486_1486_1486), [1986 89](https://fedlex.data.admin.ch/eli/oc/1986/89_89_89), [1988 1563](https://fedlex.data.admin.ch/eli/oc/1988/1563_1563_1563)]
+[^annex2-lvlu1-lvl1-8]: [[AS 1968 1318](https://fedlex.data.admin.ch/eli/oc/1968/1318_1366_1282); [1982 2178](https://fedlex.data.admin.ch/eli/oc/1982/2178_2178_2178); [1984 1486](https://fedlex.data.admin.ch/eli/oc/1984/1486_1486_1486); [1986 89](https://fedlex.data.admin.ch/eli/oc/1986/89_89_89); [1988 1563](https://fedlex.data.admin.ch/eli/oc/1988/1563_1563_1563)]
 [^annex2-lvlu1-lvl1-9]: [[AS 1989 2430](https://fedlex.data.admin.ch/eli/oc/1989/2430_2430_2430)]
 
 ### 2.‒10.
 
-...[^annex2-lvlu1-lvl2-1]
+…[^annex2-lvlu1-lvl2-1]
 
 [^annex2-lvlu1-lvl2-1]: Die Änderungen können unter [AS 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)konsultiert werden.
