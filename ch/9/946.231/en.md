@@ -4,11 +4,11 @@ title: "Federal Act of 22 March 2002 on the Implementation of International Sanc
 short: EmbA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/564"
 language: en
-version: 2004-08-01
+version: 2022-01-01
 adopted: 2002-03-22
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/564/20040801/en/xml/fedlex-data-admin-ch-eli-cc-2002-564-20040801-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/564/20040801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/564/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2002-564-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/564/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,11 +19,11 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Embargo Act, EmbA)
 
-of 22 March 2002 (Status as of 1 August 2004)
+of 22 March 2002 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
-on the basis of Article 54 paragraph 1, 122 paragraph 1 and 123 paragraph 1 of the Federal Constitution[^ingress-1], and having considered a report of the Federal Council dated 20 December 2000[^ingress-2]
+on the basis of Articles 54 paragraph 1, 122 paragraph 1 and 123 paragraph 1 of the Federal Constitution[^ingress-1], and having considered a report of the Federal Council dated 20 December 2000[^ingress-2],
 
 decrees:
 
@@ -71,9 +71,11 @@ Anyone who is directly or indirectly affected by measures in accordance with thi
 
 <sup>1</sup> The supervisory authorities have the right to enter and to inspect the business premises of persons who are subject to a duty of disclosure without prior notice during normal working hours, as well as to examine relevant documentation. They shall seize any incriminating material.
 
-<sup>2</sup> They may call upon the assistance of the cantonal or communal police as well as investigating officers from the Customs administration.
+<sup>2</sup> They may call upon the assistance of the cantonal or communal police as well as investigating officers from the Federal Office for Customs and Border Security.[^4-1]
 
 <sup>3</sup> The supervisory authorities and any other authorities called upon for assistance are obliged to preserve official secrecy and take such precautionary measures within the scope of their activities as may be required to prevent industrial espionage.
+
+[^4-1]: Amended by No I 39 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Section 3 Data Protection and Cooperation between Authorities
 
@@ -134,7 +136,11 @@ The federal authorities may disclose data in terms of paragraph 2 above on their
 
 The appeal procedure in respect of rulings made under this Act is governed by the general provisions on the administration of justice at federal level.
 
-## Section 5 Criminal Provisions and Measures
+## Section 5 Criminal Provisions and Measures****
+
+[^sec5-1]
+
+[^sec5-1]: From 1 Jan. 2007, the penalties and time limits must be interpreted or recalculated in application of Art. 333 para. 2–6 of the Swiss Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in its version contained in the FA of 13 Dec. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
 
 #### Art. 9
 
@@ -193,13 +199,13 @@ Article 6 of the Federal Act of 22 March 1974[^12-1] on Administrative Criminal 
 <sup>2</sup> Forfeited property and assets, together with any revenues from their sale shall become the property of the Confederation subject to the provisions of the Federal Act of 19 March 2004[^13-1] on the Division of Forfeited Assets.[^13-2]
 
 [^13-1]: [SR 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
-[^13-2]: Amended by No. 7 of the Annex to the Federal Act of 19 March 2004 on the Division of Forfeited Assets, in force since 1 Aug. 2004 ([AS 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468))
+[^13-2]: Amended by No 7 of the Annex to the Federal Act of 19 March 2004 on the Division of Forfeited Assets, in force since 1 Aug. 2004 ([AS 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468)).
 
 #### Art. 14
 
 **Jurisdiction**
 
-<sup>1</sup> The Federal Act of 22 March 1974 on Administrative Criminal Law[^14-1] applies.
+<sup>1</sup> The Federal Act of 22 March 1974[^14-1] on Administrative Criminal Lawapplies.
 
 <sup>2</sup> In the event that the criminal provisions of this Act apply, the Office of the Attorney General of Switzerland may at the request of the relevant administrative unit initiate an investigation provided that this is justified by the seriousness of the offence. The initiation of an investigation by the Office of the Attorney General of Switzerland establishes federal jurisdiction.
 
@@ -219,7 +225,7 @@ The Federal Council shall inform the Federal Assembly of matters relating to the
 
 The relevant department[^16-1] may add annexes to ordinances issued in terms of Article 2 paragraph 3.
 
-[^16-1]: Currently the Federal Department of Economic Affairs Education and Research.
+[^16-1]: Currently the Federal Department of Economic Affairs, Education and Research.
 
 #### Art. 17
 
@@ -241,4 +247,4 @@ The federal acts below are amended as follows:
 
 Commencement date: 1 January 2003[^18-1]
 
-[^18-1]: Federal Council Decree of 30 Oct. 2002.
+[^18-1]: FCD 30 Oct. 2002.

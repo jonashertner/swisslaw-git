@@ -4,11 +4,11 @@ title: "Loi fédérale du 22 mars 2002 sur l'application de sanctions internatio
 short: LEmb
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/564"
 language: fr
-version: 2004-08-01
+version: 2022-01-01
 adopted: 2002-03-22
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/564/20040801/fr/xml/fedlex-data-admin-ch-eli-cc-2002-564-20040801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/564/20040801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/564/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-564-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/564/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/564/20040801/fr"
 
 (Loi sur les embargos, LEmb)
 
-du 22 mars 2002 (Etat le 1<sup>er</sup> août 2004)
+du 22 mars 2002 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -69,9 +69,11 @@ Quiconque est visé, directement ou indirectement, par des mesures découlant de
 
 <sup>1</sup> Les organes de contrôle sont autorisés, sans préavis, à pénétrer dans les locaux commerciaux des personnes soumises à l’obligation de fournir des renseignements et à les visiter pendant les heures habituelles de travail; ils sont également habilités à consulter tous documents utiles. Ils séquestrent les pièces à conviction.
 
-<sup>2</sup> Ils peuvent faire appel aux organes de police des cantons et des communes ainsi qu’aux organes d’enquête de l’administration des douanes.
+<sup>2</sup> Ils peuvent faire appel aux organes de police des cantons et des communes ainsi qu’aux organes d’enquête de l’Office fédéral de la douane et de la sécurité des frontières.[^4-1]
 
 <sup>3</sup> Les organes de contrôle et les autorités auxquelles il a été fait appel sont soumis au secret de fonction et prennent, dans les limites de leurs compétences, toutes les précautions propres à empêcher l’espionnage économique.
+
+[^4-1]: Nouvelle teneur selon le ch. I 39 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Section 3 Protection des données et collaboration entre autorités
 

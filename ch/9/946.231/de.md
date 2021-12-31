@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 22. März 2002 über die Durchsetzung von international
 short: EmbG
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/564"
 language: de
-version: 2004-08-01
+version: 2022-01-01
 adopted: 2002-03-22
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/564/20040801/de/xml/fedlex-data-admin-ch-eli-cc-2002-564-20040801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/564/20040801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/564/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-564-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/564/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/564/20040801/de"
 
 (Embargogesetz, EmbG)
 
-vom 22. März 2002 (Stand am 1. August 2004)
+vom 22. März 2002 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -69,9 +69,11 @@ Wer von Massnahmen nach diesem Gesetz unmittelbar oder mittelbar betroffen ist, 
 
 <sup>1</sup> Die Kontrollorgane sind befugt, die Geschäftsräume der auskunftspflichtigen Personen während der üblichen Arbeitszeit ohne Voranmeldung zu betreten und zu besichtigen sowie die einschlägigen Unterlagen einzusehen. Sie stellen belastendes Material sicher.
 
-<sup>2</sup> Sie können die Polizei der Kantone und Gemeinden sowie die Untersuchungs-organe der Zollverwaltung beiziehen.
+<sup>2</sup> Sie können die Polizei der Kantone und Gemeinden sowie die Untersuchungs-organe des Bundesamtes für Zoll und Grenzsicherheit beiziehen.[^4-1]
 
 <sup>3</sup> Die Kontrollorgane sowie die beigezogenen Behörden sind zur Wahrung des Amtsgeheimnisses verpflichtet und treffen in ihrem Bereich die Vorsichtsmassnahmen, die zur Verhinderung von Wirtschaftsspionage erforderlich sind.
+
+[^4-1]: Fassung gemäss Ziff. I 39 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## 3. Abschnitt: Datenschutz und Zusammenarbeit von Behörden
 
@@ -136,7 +138,7 @@ Das Verfahren für Beschwerden gegen Verfügungen nach diesem Gesetz richtet sic
 
 [^sec5-1]
 
-[^sec5-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2-6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)) zu interpretieren beziehungsweise umzurechnen.
+[^sec5-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)) zu interpretieren beziehungsweise umzurechnen.
 
 #### Art. 9
 

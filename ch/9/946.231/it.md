@@ -4,18 +4,18 @@ title: "Legge federale del 22 marzo 2002 sull'applicazione di sanzioni internazi
 short: LEmb
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/564"
 language: it
-version: 2004-08-01
+version: 2022-01-01
 adopted: 2002-03-22
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/564/20040801/it/xml/fedlex-data-admin-ch-eli-cc-2002-564-20040801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/564/20040801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/564/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-564-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/564/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sull’applicazione di sanzioni internazionali (Legge sugli embarghi, LEmb)
 
-del 22 marzo 2002 (Stato 1° agosto 2004)
+del 22 marzo 2002 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -67,9 +67,11 @@ Chiunque è interessato, direttamente o indirettamente, da misure previste dalla
 
 <sup>1</sup> Gli organi di controllo sono autorizzati ad accedere, senza preavviso e durante l’orario di lavoro usuale, ai locali commerciali delle persone tenute a fornire informazioni, a ispezionarli e a consultare i documenti pertinenti. Assicurano le prove a carico.
 
-<sup>2</sup> Essi possono avvalersi delle polizie dei Cantoni e dei Comuni e degli organi istruttori dell’Amministrazione delle dogane.
+<sup>2</sup> Essi possono avvalersi delle polizie dei Cantoni e dei Comuni e degli organi istruttori dell’Ufficio federale della dogana e della sicurezza dei confini.[^4-1]
 
 <sup>3</sup> Gli organi di controllo e le autorità di cui essi si avvalgono sono tenuti al segreto d’ufficio e prendono, nel proprio campo, le precauzioni necessarie per impedire lo spionaggio economico.
+
+[^4-1]: Nuovo testo giusta il n. I 39 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Sezione 3: Protezione dei dati e collaborazione fra autorità
 
@@ -134,7 +136,7 @@ La procedura per i ricorsi contro le decisioni adottate in virtù della presente
 
 [^sec5-1]
 
-[^sec5-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell'art. 333 cpv. 2 - 6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+[^sec5-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell'art. 333 cpv. 2 – 6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
 
 #### Art. 9
 
@@ -219,7 +221,7 @@ Il Consiglio federale informa l’Assemblea federale sull’applicazione della p
 
 Il Dipartimento competente[^16-1] può aggiornare gli allegati delle ordinanze di cui all’articolo 2 capoverso 3.
 
-[^16-1]: Attualmente il Dipartimento federale dell’economia, della formazione e della ricerca.
+[^16-1]: Attualmente: l’Dipartimento federale dell’economia, della formazione e della ricerca.
 
 #### Art. 17
 
@@ -227,7 +229,7 @@ Il Dipartimento competente[^16-1] può aggiornare gli allegati delle ordinanze d
 
 Le seguenti leggi federali sono modificate come segue:
 
-…[^17-1]
+...[^17-1]
 
 [^17-1]: Le mod. possono essere consultate alla [RU 2002 3673](https://fedlex.data.admin.ch/eli/oc/2002/564).
 
@@ -241,4 +243,4 @@ Le seguenti leggi federali sono modificate come segue:
 
 Data dell’entrata in vigore: 1° gen. 2003[^18-1]
 
-[^18-1]: DCF del 30 ott. 2002
+[^18-1]: DCF del 30 ott. 2002.
