@@ -4,13 +4,13 @@ number: "761.111"
 title: Ordonnance cantonale sur la circulation routière
 short: OCCR
 language: fr
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-24
+version: 2022-01-01
+valid_until: 2023-02-28
+version_adopted: 2021-11-24
 adopted: 2004-10-20
 in_force: 2005-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/761.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2235/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2445/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2235/pdf_file"
 
 (OCCR)
 
-du 20.10.2004 (état au 01.04.2021)
+du 20.10.2004 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -113,7 +113,7 @@ arrête:
 
 **Examen théorique de conduite**
 
-<sup>1</sup> L’examen théorique de conduite a lieu en principe sur ordinateur ou par écrit. L’autorité compétente en matière de circulation routière peut, tout à fait exceptionnellement, prévoir un examen oral.
+<sup>1</sup> L’examen théorique de conduite a lieu en principe par écrit, sur support papier ou électronique. L’autorité compétente en matière de circulation routière peut, tout à fait exceptionnellement, prévoir un examen oral.
 
 <sup>2</sup> L’autorité compétente en matière de circulation routière détermine les langues usitées pour l’examen théorique de conduite. Cet examen doit, au moins, se dérouler dans les deux langues officielles du canton.
 
@@ -243,6 +243,8 @@ arrête:
 
 <sup>2</sup> Ils sont tenus d’annoncer à l’autorité compétente en matière de circulation routière les changements survenant à court terme dans leur offre. L’annonce se fait selon les exigences de l’autorité compétente en matière de circulation routière.
 
+<sup>2a</sup> L'autorité compétente en matière de circulation routière peut rendre obligatoire l'utilisation d'une plate-forme électronique pour les annonces et les communications effectuées dans le cadre de l'obligation de collaborer et pour l'échange d'informations.
+
 <sup>3</sup> Les coûts et émoluments liés à la surveillance et aux contrôles sont également dus lorsque les détenteurs et détentrices d’écoles de conduite ou les moniteurs et monitrices de conduite n’ont pas, ou pas de manière suffisante, rempli leurs obligations d’annonce et de collaboration.
 
 #### Art. 15
@@ -345,11 +347,15 @@ arrête:
 
 **2. Procédure d’attribution d’un numéro d’immatriculation déterminé**
 
-<sup>1</sup> Le détenteur ou la détentrice d’un véhicule peut demander que lui soient attribuées des plaques de contrôle portant un numéro d’immatriculation déterminé. La demande doit être adressée, par écrit et à l’aide du formulaire officiel, à l’autorité compétente en matière de circulation routière. Les formulaires qui ne sont pas remplis correctement ou qui ne sont pas annexés des documents nécessaires ne sont pas admis.
+<sup>1</sup> Le détenteur ou la détentrice d’un véhicule peut demander que lui soient attribuées des plaques de contrôle portant un numéro d’immatriculation déterminé. La demande doit être adressée à l’autorité compétente en matière de circulation routière par écrit à l’aide du formulaire prévu à cet effet, au format papier ou électronique. Les formulaires qui ne sont pas remplis correctement ou qui ne sont pas accompagnés des documents requis ne sont pas admis.
 
 <sup>2</sup> En cas d’attribution d’un numéro d’immatriculation déterminé, une taxe supplémentaire est perçue pour une attribution particulière au sens de l’article 11, alinéa 3 LCCR[^26-1], outre l’émolument prévu pour la délivrance d’un permis de circulation et des plaques de contrôle.
 
-<sup>3</sup> Par l’apposition de sa signature sur le formulaire de demande ou l’acceptation des conditions de la procédure de vente aux enchères, le requérant ou la requérante déclare accepter la perception de l’émolument ordinaire ainsi que de la taxe supplémentaire prévue à l’alinéa 2.
+<sup>3</sup> Le requérant ou la requérante déclare accepter la perception de l’émolument ordinaire et de la taxe supplémentaire prévue à l’alinéa 2
+
+- a en apposant sa signature sur le formulaire,
+- b en envoyant les documents requis par voie électronique ou
+- c en acceptant les conditions de la procédure de vente aux enchères.
 
 <sup>4</sup> Un nouveau numéro d’immatriculation est attribué lorsque des plaques de contrôle ont été déposées ou demeurent retirées durant plus d’une année. Le numéro d’immatriculation devenu libre peut être attribué à un nouveau détenteur ou à une nouvelle détentrice de véhicule.
 
@@ -385,7 +391,7 @@ arrête:
 
 **4. Retrait d’un numéro d’immatriculation pour nouvelle attribution illimitée**
 
-<sup>1</sup> L’autorité compétente en matière de circulation routière peut retirer des plaques de contrôle pour effectuer une nouvelle attribution illimitée et échanger gratuitement ces plaques contre des plaques portant un autre numéro. Le retrait de plaques de contrôle pour nouvelle attribution peut être indemnisé par un montant maximal de 2000 francs. La condition en est qu’il y ait entente sur les conditions du retrait et que le détenteur ou la détentrice renonce à ses plaques par écrit.
+<sup>1</sup> L’autorité compétente en matière de circulation routière peut retirer des plaques de contrôle pour effectuer une nouvelle attribution illimitée et échanger gratuitement ces plaques contre des plaques portant un autre numéro. Le retrait de plaques de contrôle pour nouvelle attribution peut être indemnisé par un montant maximal de 2000 francs. La condition en est qu’il y ait entente sur les conditions du retrait et que le détenteur ou la détentrice remette une déclaration de renonciation par écrit, au format papier ou électronique.
 
 #### Art. 27
 
@@ -409,13 +415,13 @@ arrête:
 
 **3. Procédure**
 
-<sup>1</sup> La déclaration de renonciation doit être présentée, par écrit et à l’aide du formulaire officiel, à l’autorité compétente en matière de circulation routière. Les formulaires qui ne sont pas remplis correctement ou qui ne sont pas annexés de tous les documents nécessaires ne sont pas admis.
+<sup>1</sup> La déclaration de renonciation doit être présentée à l’autorité compétente en matière de circulation routière par écrit à l’aide du formulaire prévu à cet effet, au format papier ou électronique. Les formulaires qui ne sont pas remplis correctement ou qui ne sont pas accompagnés de tous les documents requis ne sont pas admis.
 
 <sup>2</sup> Le transfert peut avoir lieu sitôt qu’il a été autorisé.
 
 <sup>3</sup> La compensation d'un montant au crédit de l’ancien détenteur ou de l’ancienne détentrice avec des factures du nouveau détenteur ou de la nouvelle détentrice est exclue, à l’exception d’un transfert effectué à la suite du décès de l’ancien détenteur ou de l’ancienne détentrice.
 
-<sup>4</sup> En plus des émoluments ordinaires dus pour l’établissement du permis de circulation, la remise des plaques de contrôle et le transfert administratif du numéro d’immatriculation, une taxe supplémentaire est perçue selon l’article 29a pour le transfert d’un numéro d’immatriculation particulier. Par l’apposition de sa signature sur le formulaire de demande, le requérant ou la requérante déclare accepter la perception de l’émolument ordinaire ainsi que de la taxe supplémentaire.
+<sup>4</sup> En plus des émoluments ordinaires dus pour l’établissement du permis de circulation, la remise des plaques de contrôle et le transfert administratif du numéro d’immatriculation, une taxe supplémentaire est perçue selon l’article 29a pour le transfert d’un numéro d’immatriculation particulier. Le requérant ou la requérante déclare accepter la perception de l’émolument ordinaire et de la taxe supplémentaire en apposant sa signature sur le formulaire ou en envoyant les documents requis par voie électronique.
 
 #### Art. 29a
 
@@ -456,13 +462,15 @@ arrête:
 
 <sup>2</sup> La demande doit être déposée impérativement sur la plate-forme informatique mise à disposition par l'autorité compétente en matière de circulation routière, accompagnée de l'ensemble des données nécessaires à l'autorisation.
 
+<sup>3</sup> L'autorité compétente en matière de circulation routière peut renoncer à exiger la remise du permis de circulation du véhicule à remplacer et la restitution de l'autorisation. L'autorisation délivrée par voie électronique doit être emportée lors de chaque course à des fins de contrôle.
+
 ## 9. Cyclomoteurs
 
 #### Art. 32
 
 **Assurance-responsabilité civile**
 
-<sup>1</sup> Le canton contracte une assurance-responsabilité civile collective pour les cyclomoteurs.
+<sup>1</sup> Le canton contracte une assurance-responsabilité civile collective pour les cyclomoteurs. L'autorité compétente en matière de circulation routière veille à l'exécution des prescriptions fédérales et règle la remise des vignettes d'assurance.
 
 <sup>2</sup> Toute personne peut adhérer à l’assurance-responsabilité civile collective contre versement des primes annuelles, des émoluments et autres taxes.
 
@@ -470,29 +478,7 @@ arrête:
 
 <sup>4</sup> La totalité de la prime d’assurance, des émoluments et des autres taxes doit être payée pour les véhicules qui sont mis en circulation après le 31 mai.
 
-#### Art. 33
-
-**Distribution des marques de contrôle pour cyclomoteurs**
-
-<sup>1</sup> L’autorité compétente en matière de circulation routière peut conclure des contrats avec des tiers pour l’exécution des prescriptions fédérales, notamment en ce qui concerne l’organisation de la distribution à grande échelle des marques de contrôle pour cyclomoteurs.
-
-<sup>2</sup> La commune propose les points de distribution prévus sur son territoire pour la délivrance des marques de contrôle pour cyclomoteurs.
-
-<sup>3</sup> L’autorité compétente en matière de circulation routière désigne les points de distribution des marques de contrôle pour cyclomoteurs.
-
-<sup>4</sup> Les points de distribution doivent être en mesure d’assurer la sécurité de l’argent et des marques de contrôle pour cyclomoteurs qui leur sont confiés. L’autorité compétente en matière de circulation routière peut faire dépendre la désignation ou le maintien d’un point de distribution de garanties appropriées, du versement de sûretés et d’un système de décompte ordonné.
-
-<sup>5</sup> Il n’existe aucun droit à la désignation ou au maintien d’un point de distribution.
-
-#### Art. 34
-
-**Indemnisation**
-
-<sup>1</sup> Une indemnité est allouée aux points de distribution chargés de la délivrance des marques de contrôle pour cyclomoteurs ainsi que du décompte.
-
-<sup>2</sup> L’autorité compétente en matière de circulation routière fixe le montant de l’indemnité.
-
-#### Art. 35–36
+#### Art. 33–36
 
 **…**
 
@@ -596,11 +582,11 @@ arrête:
 
 <sup>1</sup> Les véhicules tractés par un seul animal doivent être pourvus d’un brancard. Ceux tractés par plusieurs animaux doivent être équipés d’un timon.
 
-<sup>2</sup> Les animaux qui compromettent la sécurité routière ne peuvent pas être affectés à la traction de véhicules. Les animaux qui mordent doivent porter une muselière ou un autre dispositif du même genre.
+<sup>2</sup> Les animaux qui compromettent la sécurité routière ne peuvent pas être affectés à la traction de véhicules.
 
 <sup>3</sup> La conduite d’un véhicule tracté par un seul animal est effectuée à l’aide d’une longe et à l’aide d’un guide lorsque le véhicule est tracté par plusieurs animaux. Une longe suffit pour conduire un véhicule tracté par deux animaux s'il s’agit de routes à faible trafic et si les animaux sont habitués à l’attelage.
 
-<sup>4</sup> Lorsque la voie est enneigée, le harnais doit être muni de clochettes ou de grelots.
+<sup>4</sup> Lorsque la voie est enneigée, le harnais des traîneaux doit être muni de clochettes ou de grelots.
 
 #### Art. 44
 
@@ -622,7 +608,9 @@ arrête:
 
 <sup>1</sup> Les manifestations de sport motorisé et de sport cycliste sont soumises à autorisation, qu’elles soient organisées sur la voie publique ou hors de la voie publique. Une autorisation est aussi requise pour les manifestations de course à pied ou de marche si elles ont lieu sur la voie publique.
 
-<sup>2</sup> Les autorisations sont délivrées par l’autorité compétente en matière de circulation routière qui détermine aussi les conditions et les charges après consultation d’autres autorités intéressées.
+<sup>2</sup> Les autorisations sont délivrées par l’autorité compétente en matière de circulation routière, qui détermine aussi les conditions et les charges après consultation d’autres autorités intéressées.
+
+<sup>2a</sup> Les requérants et requérantes peuvent être tenus d'utiliser la voie électronique pour échanger les documents requis et des informations complémentaires avec l'autorité compétente en matière de circulation routière en vue de l'octroi de l'autorisation.
 
 <sup>3</sup> L’approbation des communes concernées est requise lorsque les manifestations ou compétitions sportives se déroulent sur des routes communales.
 
@@ -655,22 +643,16 @@ arrête:
 
 <sup>1</sup> L’autorité délivrant les autorisations tient compte, outre les conditions prévues à l’article 52, alinéa 3 de la loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)[^47-1], notamment des intérêts de la protection de la nature, de l’environnement, du patrimoine et de la santé publique.
 
-<sup>2</sup> La procédure d’autorisation pour les manifestations de sport motorisé, cyclistes, de course à pied ou de marche est régie par l’article 95 de l’ordonnance du 13 novembre 1962 sur les règles de la circulation routière (OCR)[^47-2] et les directives intercantonales.
+<sup>2</sup> La procédure d’autorisation pour les manifestations de sport motorisé, cyclistes, de course à pied ou de marche est régie par l’article 95 de l’ordonnance fédérale du 13 novembre 1962 sur les règles de la circulation routière (OCR)[^47-2].
+
+<sup>3</sup> Les manifestations présentant un risque démesuré ou un caractère destructif ne sont pas autorisées.
 
 [^47-1]: RS 741.01
-[^47-2]: RS 741.11
+[^47-2]: RS [741.11](https://db.clex.ch/link/Bund/741.11/fr)
 
 #### Art. 48
 
-**Manifestations de sport motorisé**
-
-<sup>1</sup> Une manifestation de sport motorisé ne peut être autorisée que si elle présente un caractère traditionnel ou si elle a pour objet la sécurité ou l’éducation routières.
-
-<sup>2</sup> Une manifestation présente un caractère traditionnel lorsqu’elle a été organisée régulièrement sur plusieurs années.
-
-<sup>3</sup> Si, une année, une manifestation à caractère traditionnel n’est pas organisée, une autre manifestation peut être autorisée à sa place si la durée de celle-ci est comparable à celle de la manifestation qu'elle remplace.
-
-<sup>4</sup> Les manifestations à grand risque ou qui présentent un caractère destructif ne sont pas autorisées.
+**…**
 
 #### Art. 49
 

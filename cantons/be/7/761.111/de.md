@@ -4,13 +4,13 @@ number: "761.111"
 title: Strassenverkehrsverordnung
 short: StrVV
 language: de
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-24
+version: 2022-01-01
+valid_until: 2023-02-28
+version_adopted: 2021-11-24
 adopted: 2004-10-20
 in_force: 2005-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/761.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2235/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2445/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2235/pdf_file"
 
 (StrVV)
 
-vom 20.10.2004 (Stand 01.04.2021)
+vom 20.10.2004 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -113,7 +113,7 @@ beschliesst:
 
 **Theoretische Führerprüfung**
 
-<sup>1</sup> Die theoretische Führerprüfung wird in der Regel elektronisch oder schriftlich abgenommen. In besonderen Ausnahmefällen legt die Strassenverkehrsbehörde die mündliche Abnahme einer Prüfung fest.
+<sup>1</sup> Die theoretische Führerprüfung wird in der Regel in Papierform oder in elektronischer Form schriftlich abgenommen. In besonderen Ausnahmefällen legt die Strassenverkehrsbehörde die mündliche Abnahme einer Prüfung fest.
 
 <sup>2</sup> Die Strassenverkehrsbehörde legt die Sprachen fest, in welchen die Theorieprüfungen abgenommen werden. Die Prüfungsabnahme erfolgt mindestens in den Amtssprachen des Kantons.
 
@@ -241,7 +241,9 @@ beschliesst:
 
 <sup>1</sup> Die Inhaberinnen und Inhaber von Fahrschulen sowie die Fahrlehrerinnen und Fahrlehrer können durch die Strassenverkehrsbehörde verpflichtet werden, die von ihnen angebotenen Lektionen für den Verkehrskundeunterricht sowie die praktische Grundschulung zur Planung und Durchführung der Überprüfungsmassnahmen zu melden.
 
-<sup>2</sup> Die Inhaberinnen und Inhaber von Fahrschulen sowie die Fahrlehrerinnen und Fahrlehrer sind verpflichtet, kurzfristige Änderungen im Kursangebot der Strassenverkehrsbehörde mitzuteilen. Die Mitteilung erfolgt gemäss den Vorgaben der Strassenverkehrsbehörde.
+<sup>2</sup> Sie sind verpflichtet, kurzfristige Änderungen im Kursangebot der Strassenverkehrsbehörde mitzuteilen. Die Mitteilung erfolgt gemäss den Vorgaben der Strassenverkehrsbehörde.
+
+<sup>2a</sup> Für Meldungen und Mitteilungen im Rahmen der Mitwirkungspflichten sowie den Informationsaustausch kann die Strassenverkehrsbehörde die Nutzung einer elektronischen Plattform verbindlich erklären.
 
 <sup>3</sup> Die mit der Aufsicht und der Überprüfungstätigkeit verbundenen Kosten und Gebühren sind auch dann geschuldet, wenn die Inhaberinnen und Inhaber von Fahrschulen oder die Fahrlehrerinnen und Fahrlehrer ihren Mitwirkungs- und Meldepflichten nicht oder ungenügend nachkommen.
 
@@ -345,11 +347,15 @@ beschliesst:
 
 **2. Verfahren zur Zuteilung einer bestimmten Kontrollschildnummer**
 
-<sup>1</sup> Die Fahrzeughalterin oder der Fahrzeughalter kann die Zuteilung einer bestimmten Kontrollschildnummer beantragen. Das Gesuch ist schriftlich auf amtlichem Formular bei der Strassenverkehrsbehörde einzureichen. Unvollständig ausgefüllte Formulare oder solche mit fehlenden Unterlagen werden zurückgewiesen.
+<sup>1</sup> Die Fahrzeughalterin oder der Fahrzeughalter kann die Zuteilung einer bestimmten Kontrollschildnummer beantragen. Das Gesuch ist in Papierform oder in elektronischer Form schriftlich auf dem dafür vorgesehenen Formular bei der Strassenverkehrsbehörde einzureichen. Unvollständig ausgefüllte Formulare oder solche mit fehlenden Unterlagen werden zurückgewiesen.
 
 <sup>2</sup> Bei der Zuteilung einer bestimmten Kontrollschildnummer wird neben den ordentlichen Gebühren für die Erstellung eines Fahrzeugausweises und die Ausgabe der Kontrollschilder eine Sonderabgabe für die Zuteilung einer Kontrollschildnummer auf besonderen Wunsch (Art. 11 Abs. 3 KSVG) geschuldet.
 
-<sup>3</sup> Die Gesuchstellerin oder der Gesuchsteller anerkennt mit ihrer oder seiner Unterschrift auf dem Formular oder der Zustimmung zu den Geschäftsbedingungen des Versteigerungsverfahrens ausdrücklich die ordentlichen Gebühren und die Sonderabgabe nach Absatz 2.
+<sup>3</sup> Die Gesuchstellerin oder der Gesuchsteller anerkennt mit folgenden Handlungen ausdrücklich die ordentlichen Gebühren und die Sonderabgabe nach Absatz 2:
+
+- a Unterschrift auf dem Formular,
+- b elektronische Übermittlung der Gesuchsunterlagen oder
+- c Zustimmung zu den Geschäftsbedingungen des Versteigerungsverfahrens.
 
 <sup>4</sup> Wenn die Kontrollschilder länger als ein Jahr hinterlegt oder entzogen worden sind, wird eine andere Nummer zugeteilt. Die freiwerdende Kontrollschildnummer kann einer neuen Fahrzeughalterin oder einem neuen Fahrzeughalter zugeteilt werden.
 
@@ -383,7 +389,7 @@ beschliesst:
 
 **4. Rücknahme einer Kontrollschildnummer zur unbeschränkten Neuzuteilung**
 
-<sup>1</sup> Die Strassenverkehrsbehörde kann eine Kontrollschildnummer zur unbeschränkten Neuzuteilung zurücknehmen und die Kontrollschilder kostenlos gegen solche mit anderer Nummer austauschen. Für die Rücknahme zur unbeschränkten Neuzuteilung kann sie zudem eine Entschädigung bis maximal 2000 Franken ausrichten. Voraussetzung ist die gegenseitige Einigung über die Bedingungen der Rücknahme sowie eine schriftliche Verzichtserklärung der Fahrzeughalterin oder des Fahrzeughalters.
+<sup>1</sup> Die Strassenverkehrsbehörde kann eine Kontrollschildnummer zur unbeschränkten Neuzuteilung zurücknehmen und die Kontrollschilder kostenlos gegen solche mit anderer Nummer austauschen. Für die Rücknahme zur unbeschränkten Neuzuteilung kann sie zudem eine Entschädigung bis maximal 2000 Franken ausrichten. Voraussetzung ist die gegenseitige Einigung über die Bedingungen der Rücknahme sowie eine in Papierform oder in elektronischer Form schriftlich eingereichte Verzichtserklärung der Fahrzeughalterin oder des Fahrzeughalters.
 
 #### Art. 27
 
@@ -407,13 +413,13 @@ beschliesst:
 
 **3. Verfahren**
 
-<sup>1</sup> Die Verzichtserklärung ist schriftlich auf amtlichem Formular bei der Strassenverkehrsbehörde einzureichen. Unvollständig ausgefüllte Formulare oder solche mit fehlenden Unterlagen werden zurückgewiesen.
+<sup>1</sup> Die Verzichtserklärung ist in Papierform oder in elektronischer Form schriftlich auf dem dafür vorgesehenen Formular bei der Strassenverkehrsbehörde einzureichen. Unvollständig ausgefüllte Formulare oder solche mit fehlenden Unterlagen werden zurückgewiesen.
 
 <sup>2</sup> Sobald die Übertragung bewilligt worden ist, kann sie vollzogen werden.
 
 <sup>3</sup> Die Verrechnung von Gutschriften der früheren Fahrzeughalterin oder des früheren Fahrzeughalters mit Rechnungen der neuen Fahrzeughalterin oder des neuen Fahrzeughalters ist mit Ausnahme der Übertragung zufolge Tod der bisherigen Fahrzeughalterin oder des bisherigen Fahrzeughalters ausgeschlossen.
 
-<sup>4</sup> Neben den ordentlichen Gebühren für die Erstellung eines Fahrzeugausweises, die Ausgabe der Kontrollschilder sowie die administrative Übertragung der Kontrollschildnummer wird bei besonderen Kontrollschildnummern zusätzlich eine Sonderabgabe nach Artikel 29a für die Übertragung einer bestimmten Kontrollschildnummer geschuldet. Die Gesuchstellerin oder der Gesuchsteller anerkennt mit ihrer oder seiner Unterschrift auf dem Formular ausdrücklich diese ordentlichen Gebühren und die Sonderabgabe.
+<sup>4</sup> Neben den ordentlichen Gebühren für die Erstellung eines Fahrzeugausweises, die Ausgabe der Kontrollschilder sowie die administrative Übertragung der Kontrollschildnummer wird bei besonderen Kontrollschildnummern zusätzlich eine Sonderabgabe nach Artikel 29a für die Übertragung einer bestimmten Kontrollschildnummer geschuldet. Die Gesuchstellerin oder der Gesuchsteller anerkennt mit Unterschrift auf dem Formular oder elektronischer Übermittlung der Gesuchsunterlagen ausdrücklich diese ordentlichen Gebühren und die Sonderabgabe.
 
 #### Art. 29a
 
@@ -450,9 +456,11 @@ beschliesst:
 
 **Ersatzfahrzeugbewilligung**
 
-<sup>1</sup> Die Zulassung eines Ersatzfahrzeugs während 72 Stunden kann Inhaberinnen und Inhabern eines Händlerschilds auf dem elektronischen Weg bewilligt werden.
+<sup>1</sup> Die Zulassung eines Ersatzfahrzeugs während 72 Stunden kann Inhaberinnen und Inhabern eines Händlerschilds in elektronischer Form bewilligt werden.
 
 <sup>2</sup> Das Gesuch ist zwingend auf der von der Strassenverkehrsbehörde zur Verfügung gestellten Informatikplattform mit allen für die Bewilligung erforderlichen Angaben einzureichen.
+
+<sup>3</sup> Auf eine Hinterlegung des Ausweises des Originalfahrzeugs sowie auf eine Rückgabe der Bewilligung kann verzichtet werden. Die elektronisch erteilte Bewilligung ist auf der Fahrt für Kontrollzwecke mitzuführen.
 
 ## 9. Motorfahrräder
 
@@ -460,7 +468,7 @@ beschliesst:
 
 **Haftpflichtversicherung**
 
-<sup>1</sup> Der Kanton schliesst für Motorfahrräder eine Kollektivhaftpflichtversicherung ab.
+<sup>1</sup> Der Kanton schliesst für Motorfahrräder eine Kollektivhaftpflichtversicherung ab. Die Strassenverkehrsbehörde sorgt für den Vollzug der eidgenössischen Vorschriften und regelt die Abgabe der Versicherungsvignetten.
 
 <sup>2</sup> Der Kollektivhaftpflichtversicherung kann jedermann gegen Bezahlung der jährlichen Prämien, Gebühren und übrigen Kosten beitreten.
 
@@ -468,29 +476,7 @@ beschliesst:
 
 <sup>4</sup> Für Fahrzeuge, die nach dem 31. Mai in Verkehr gesetzt werden, sind Versicherungsprämien, Gebühren und übrige Kosten voll zu bezahlen.
 
-#### Art. 33
-
-**Ausgabe von Kontrollmarken**
-
-<sup>1</sup> Die Strassenverkehrsbehörde kann mit Dritten Verträge zum Vollzug der eidgenössischen Vorschriften, namentlich zur Organisation der flächendeckenden Ausgabe von Kontrollmarken für Motorfahrräder, abschliessen.
-
-<sup>2</sup> Die Gemeinde beantragt die in ihrem Gemeindegebiet zur Ausgabe von Motorfahrradkontrollmarken vorgesehenen Stellen.
-
-<sup>3</sup> Die Strassenverkehrsbehörde bezeichnet die Ausgabestellen für die Motorfahrradkontrollmarken.
-
-<sup>4</sup> Die Ausgabestellen müssen für die Sicherheit der anvertrauten Gelder und Motorfahrradkontrollmarken ausreichende Gewähr bieten. Die Strassenverkehrsbehörde kann die Bezeichnung oder Beibehaltung einer Ausgabestelle von entsprechenden Garantien, finanziellen Sicherstellungen und einem geordneten Abrechnungswesen abhängig machen.
-
-<sup>5</sup> Auf die Bezeichnung als Ausgabestelle oder die Beibehaltung einer Ausgabestelle besteht kein Anspruch.
-
-#### Art. 34
-
-**Entschädigung**
-
-<sup>1</sup> Den mit der Ausgabe der Motorfahrradkontrollmarken sowie mit der Abrechnung betrauten Stellen wird eine Entschädigung ausgerichtet.
-
-<sup>2</sup> Die Strassenverkehrsbehörde legt die Höhe der Entschädigung fest.
-
-#### Art. 35–36
+#### Art. 33–36
 
 **…**
 
@@ -500,7 +486,7 @@ beschliesst:
 
 **Datenbearbeitung und Datenweitergabe**
 
-<sup>1</sup> Die Bearbeitung und Weitergabe von Daten aus den Registern des Strassenverkehrs an Dritte richtet sich nach den eidgenössischen Vorschriften über den Strassenverkehr sowie der kantonale Datenschutzgesetzgebung. Die Datenweitergabe zu kommerziellen Zwecken, namentlich für die Werbung, ist ausgeschlossen.
+<sup>1</sup> Die Bearbeitung und Weitergabe von Daten aus den Registern des Strassenverkehrs an Dritte richtet sich nach den eidgenössischen Vorschriften über den Strassenverkehr sowie der kantonalen Datenschutzgesetzgebung. Die Datenweitergabe zu kommerziellen Zwecken, namentlich für die Werbung, ist ausgeschlossen.
 
 #### Art. 38
 
@@ -592,11 +578,11 @@ beschliesst:
 
 <sup>1</sup> Einspännige Tierfuhrwerke müssen mit einer Gabel, mehrspännige mit einer Deichsel ausgerüstet sein.
 
-<sup>2</sup> Die Verkehrssicherheit gefährdende Tiere dürfen nicht bespannt werden. Bissige Tiere sind mit Maulkorb oder ähnlichen Vorrichtungen zu versehen.
+<sup>2</sup> Die Verkehrssicherheit gefährdende Tiere dürfen nicht bespannt werden.
 
 <sup>3</sup> Zur Lenkung der Zugtiere vom Wagen aus muss bei einspännigen Fuhrwerken ein Leitseil, bei mehrspännigen ein Kreuzzügel verwendet werden. Bei zweispännigen Fuhrwerken genügt auf schwach befahrenen Strassen ein Leitseil, wenn es sich um zuggewohnte Tiere handelt.
 
-<sup>4</sup> Bei schneebedeckter Fahrbahn ist die Beschirrung mit Glocken oder Schellen zu versehen.
+<sup>4</sup> Bei schneebedeckter Fahrbahn ist für Schlittenfuhrwerke die Beschirrung mit Glocken oder Schellen zu versehen.
 
 #### Art. 44
 
@@ -619,6 +605,8 @@ beschliesst:
 <sup>1</sup> Motor- oder radsportliche Veranstaltungen auf öffentlichen oder ausserhalb öffentlicher Strassen unterliegen der Bewilligungspflicht. Eine Bewilligung ist auch erforderlich für lauf- und marschsportliche Veranstaltungen auf öffentlichen Strassen.
 
 <sup>2</sup> Die Bewilligungen werden durch die Strassenverkehrsbehörde erteilt. Diese legt nach Anhörung weiterer interessierter Behörden die erforderlichen Bedingungen und Auflagen fest.
+
+<sup>2a</sup> Die Gesuchstellerinnen und Gesuchsteller können verpflichtet werden, alle Gesuchsunterlagen und weiterführenden Informationen im Zusammenhang mit der Bewilligungserteilung in elektronischer Form mit der Strassenverkehrsbehörde auszutauschen.
 
 <sup>3</sup> Sind Gemeindestrassen durch Veranstaltungen und Wettkämpfe betroffen, ist von der Organisatorin oder dem Organisator die Zustimmung der betroffenen Gemeinden beizubringen.
 
@@ -649,24 +637,18 @@ beschliesst:
 
 **Beurteilungskriterien und Bewilligungsverfahren**
 
-<sup>1</sup> Die Bewilligungsbehörde berücksichtigt neben den in Artikel 52 Absatz 3 des Bundesgesetzes über den Strassenverkehr (SVG[^47-1]) genannten Voraussetzungen bei der Bewilligungserteilung namentlich die Belange des Natur-, Umwelt- und Heimatschutzes sowie der Gesundheit der Menschen.
+<sup>1</sup> Die Bewilligungsbehörde berücksichtigt neben den in Artikel 52 Absatz 3 des Bundesgesetzes über den Strassenverkehr (SVG)[^47-1] genannten Voraussetzungen bei der Bewilligungserteilung namentlich die Belange des Natur-, Umwelt- und Heimatschutzes sowie der Gesundheit der Menschen.
 
-<sup>2</sup> Das Bewilligungsverfahren für motor-, rad-, lauf- und marschsportliche Veranstaltungen richtet sich nach Artikel 95 der Verkehrsregelnverordnung vom 13. November 1962 (VRV[^47-2]) und orientiert sich an den interkantonalen Richtlinien.
+<sup>2</sup> Das Bewilligungsverfahren für motor-, rad-, lauf- und marschsportliche Veranstaltungen richtet sich nach Artikel 95 der Verkehrsregelnverordnung vom 13. November 1962 (VRV)[^47-2].
+
+<sup>3</sup> Übermässig risikobehaftete oder auf Destruktion ausgerichtete Veranstaltungen werden nicht bewilligt.
 
 [^47-1]: SR 741.01
-[^47-2]: SR 741.11
+[^47-2]: SR [741.11](https://db.clex.ch/link/Bund/741.11/de)
 
 #### Art. 48
 
-**Motorsportliche Veranstaltungen**
-
-<sup>1</sup> Eine motorsportliche Veranstaltung wird nur bewilligt, wenn sie einen traditionellen Charakter aufweist oder die Verkehrssicherheit oder die Verkehrserziehung zum Inhalt hat.
-
-<sup>2</sup> Als traditionell gilt eine Veranstaltung, wenn sie während mehrerer Jahre periodisch durchgeführt worden ist.
-
-<sup>3</sup> Wird in einem Jahr eine traditionelle Veranstaltung nicht durchgeführt, kann an deren Stelle eine andere Veranstaltung bewilligt werden, wenn diese in der Dauer mit der traditionellen Veranstaltung vergleichbar ist.
-
-<sup>4</sup> Übermässig risikobehaftete oder auf Destruktion ausgerichtete Veranstaltungen werden nicht bewilligt.
+**…**
 
 #### Art. 49
 
