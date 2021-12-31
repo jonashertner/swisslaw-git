@@ -4,13 +4,13 @@ number: "161.7"
 title: Verordnung über die Kosten in der Zivil- und Strafrechtspflege
 short: "Kostenverordnung Obergericht, KoV OG"
 language: de
-version: 2016-11-12
-valid_until: 2021-12-31
-version_adopted: 2016-09-07
+version: 2022-01-01
+valid_until: 2025-12-31
+version_adopted: 2021-11-04
 adopted: 2011-12-15
 in_force: 2012-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/161.7"
-pdf: "https://bgs.zg.ch/api/de/versions/1572/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2284/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/1572/pdf_file"
 
 (Kostenverordnung Obergericht, KoV OG)
 
-Vom 15. Dezember 2011 (Stand 12. November 2016)
+Vom 15. Dezember 2011 (Stand 1. Januar 2022)
 
 Das Obergericht des Kantons Zug,
 
-gestützt auf Art. 96 der Schweizerischen Zivilprozessordnung (Zivilprozessordnung, ZPO) vom 19. Dezember 2008[^ingress-1], Art. 424 der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO) vom 5. Oktober 2007[^ingress-2] und §§ 62 f. des Gesetzes über die Organisation der Zivil- und Strafrechtspflege (Gerichtsorganisationsgesetz, GOG) vom 26. August 2010[^ingress-3] sowie § 24 Abs. 2 des Einführungsgesetzes zum Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte (EG BGFA) vom 25. April 2002[^ingress-4],
+gestützt auf Art. 96 der Schweizerischen Zivilprozessordnung (Zivilprozessordnung, ZPO) vom 19. Dezember 2008[^ingress-1], Art. 424 der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO) vom 5. Oktober 2007[^ingress-2], §§ 62 f. des Gesetzes über die Organisation der Zivil- und Strafrechtspflege (Gerichtsorganisationsgesetz, GOG) vom 26. August 2010[^ingress-3] sowie § 24 Abs. 2 des Einführungsgesetzes zum Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte (EG BGFA) vom 25. April 2002[^ingress-4] und § 5 der Einführungsverordnung zur Verordnung des Bundes über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen (E-EÖBV) vom 16. November 2021{fn|BGS [223.11](https://bgs.zg.ch/data/223.11/de)}},
 
 beschliesst:
 
@@ -299,7 +299,7 @@ beschliesst:
 - b) Beurkundungsprüfung ohne Wiederholungen: 1’000.–;
 - c) Wiederholung der schriftlichen Prüfung pro Fach: 500.–;
 - d) Wiederholung der mündlichen Prüfung pro Sitzung: 500.–;
-- d1) Eintragung oder Löschung im Anwaltsregister und in der öffentlichen Liste: 300.– bis 600.–;
+- d1) Eintragung oder Löschung im Anwaltsregister und in der öffentlichen Liste: 100.– bis 600.–;
 - e) Erteilung der Ermächtigung zur öffentlichen Beurkundung: 300.–;
 - f) Erteilung, Verlängerung und Entzug der Substitutionsbewilligung: 200.– bis 500.–;
 - g) Ausstellen eines Disziplinarzeugnisses und andere Bescheinigungen: 50.– bis 100.–;
@@ -309,6 +309,12 @@ beschliesst:
 - k) Disziplinar- und administratives Löschungsverfahren: 200.– bis 5’000.–;
 - l) Beschwerdeverfahren: 200.– bis 5’000.–;
 - m) Wiederaufnahmeverfahren: 200.– bis 2’000.–.
+
+#### § 26bis
+
+**Kosten für Amtshandlungen nach E-EÖBV**
+
+<sup>1</sup> Für die Genehmigung des UPReg-Eintrags und dessen Löschung beläuft sich die Gebühr auf Franken 100.– bis 300.–.
 
 #### § 27
 
