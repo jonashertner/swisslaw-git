@@ -4,13 +4,13 @@ number: "112.51"
 title: Verordnung über die Namen der Gemeinden und deren Zugehörigkeit zu den Verwaltungsbezirken
 short: NGBV
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-08-17
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-06-28
 adopted: 2015-11-24
 in_force: 2016-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/112.51"
-pdf: "https://bdlf.fr.ch/api/de/versions/6735/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6880/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Namen der Gemeinden – V
 
 (NGBV)
 
-vom 24.11.2015 (Fassung in Kraft getreten am 01.01.2021)
+vom 24.11.2015 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -91,9 +91,9 @@ Bas-Intyamon, Botterens, Broc, Bulle, Châtel-sur-Montsalvens, Corbières, Crés
 
 **Seebezirk**
 
-<sup>1</sup> Der Seebezirk besteht aus folgenden siebzehn Gemeinden:
+<sup>1</sup> Der Seebezirk besteht aus folgenden fünfzehn Gemeinden:
 
-Courgevaux, Courtepin, Cressier (FR), Fräschels, Galmiz, Gempenach, Greng, Gurmels, Kerzers, Kleinbösingen, Meyriez, Misery-Courtion, Mont-Vully, Muntelier, Murten, Ried bei Kerzers, Ulmiz.
+Courgevaux, Courtepin, Cressier (FR), Fräschels, Greng, Gurmels, Kerzers, Kleinbösingen, Meyriez, Misery-Courtion, Mont-Vully, Muntelier, Murten, Ried bei Kerzers, Ulmiz.
 
 #### Art. 7
 
@@ -200,7 +200,7 @@ Attalens, Bossonnens, Châtel-Saint-Denis, Le Flon, Granges (Vivisbach), Remaufe
 
 **Gebietsaufteilung von Gemeinden**
 
-<sup>1</sup> Die Gebietsaufteilung von Gemeinden hat folgende Mutation zur Folge:
+<sup>1</sup> Die Gebietsaufteilung von Gemeinden hat folgende Mutation bewirkt:
 
 <table>
 <tr><th>Name der früheren Gemeinde</th><th>Name der neuen Gemeinden</th><th>Inkrafttreten</th><th>Genehmigung des Grossen Rats – Form</th><th>Genehmigung des Grossen Rats – Datum</th></tr>
@@ -211,10 +211,10 @@ Attalens, Bossonnens, Châtel-Saint-Denis, Le Flon, Granges (Vivisbach), Remaufe
 
 **Gemeindezusammenschlüsse**
 
-<sup>1</sup> Die Gemeindzusammenschlüsse haben folgende Mutationen zur Folge:
+<sup>1</sup> Die Gemeindezusammenschlüsse haben folgende Mutationen bewirkt:
 
 <table>
-<tr><th>Name der früheren Gemeinde</th><th>Name der neuen Gemeinde</th><th>Inkrafttreten</th><th>Genehmigung des Grossen Rats – Form</th><th>Genehmigung des Grossen Rats – Datum</th></tr>
+<tr><th>Name der früheren Gemeinde</th><th>Name der neuen Gemeinde</th><th>Inkrafttreten</th><th>Genehmigung des Grossen Rats - Form</th><th>Genehmigung des Grossen Rats - Datum</th></tr>
 <tr><td>Chavannes-sous-Orsonnens, Granges-la-Battiaz</td><td>Chavannes-sous-Orsonnens</td><td>13.09.1866</td><td>Beschluss</td><td>07.09.1866</td></tr>
 <tr><td>Arruffens, Romont</td><td>Romont (FR)</td><td></td><td>Dekret</td><td>20.05.1868</td></tr>
 <tr><td>La Rougève, Semsales</td><td>Semsales</td><td>01.01.1968</td><td>Dekret</td><td>22.09.1967</td></tr>
@@ -311,19 +311,32 @@ Attalens, Bossonnens, Châtel-Saint-Denis, Le Flon, Granges (Vivisbach), Remaufe
 <tr><td>Alterswil, St. Antoni, Tafers</td><td>Tafers</td><td>01.01.2021</td><td>Dekret</td><td>17.12.2019</td></tr>
 <tr><td>Arconciel, Ependes, Senèdes</td><td>Bois-d'Amont</td><td>01.01.2021</td><td>Dekret</td><td>27.05.2020</td></tr>
 <tr><td>Cheiry, Surpierre</td><td>Surpierre</td><td>01.01.2021</td><td>Dekret</td><td>27.05.2020</td></tr>
+<tr><td>Clavaleyres, Murten</td><td>Murten</td><td>01.01.2022</td><td>Dekret</td><td>24.05.2019</td></tr>
+<tr><td>Galmiz, Gempenach, Murten</td><td>Murten</td><td>01.01.2022</td><td>Dekret</td><td>23.03.2021</td></tr>
 </table>
 
 #### Art. A1-3
 
 **Namensänderungen von Gemeinden**
 
-<sup>1</sup> Die Namensänderungen von Gemeinden haben folgende Mutationen zur Folge:
+<sup>1</sup> Die Namensänderungen von Gemeinden haben folgende Mutationen bewirkt:
 
 <table>
 <tr><th>Früherer Name der Gemeinde</th><th>Neuer Name der Gemeinde</th><th>Inkrafttreten</th><th>Genehmigung des Staatsrats – Form</th><th>Genehmigung des Staatsrats – Datum</th></tr>
 <tr><td>Wünnewil</td><td>Wünnewil-Flamatt</td><td></td><td>Beschluss</td><td>26.12.1973</td></tr>
 <tr><td>Vully-le-Bas</td><td>Bas-Vully</td><td></td><td>Beschluss</td><td>24.05.1977</td></tr>
 <tr><td>Vully-le-Haut</td><td>Haut-Vully</td><td></td><td>Beschluss</td><td>24.05.1977</td></tr>
+</table>
+
+#### Art. A1-4
+
+**Zugang von Gebiet**
+
+<sup>1</sup> Der Zugang eines neuen Gebiets zum Kanton Freiburg hat folgende Mutation bewirkt:
+
+<table>
+<tr><th>Name der Gemeinde</th><th>Vormals Teil des Gebiets des Kantons</th><th>Interkantonale Abkommen</th><th>Genehmigung des Bundes</th><th>Inkrafttreten</th></tr>
+<tr><td>Clavaleyres</td><td>Bern</td><td>Gebietsänderungskonkordat vom 12.03.2019 (SGF 112.8) und Vereinbarung vom 26.05.2021 (SGF 112.9)</td><td>Bundesbeschluss vom 18.12.2020 (AS 2021 243)</td><td>01.01.2022</td></tr>
 </table>
 
 2015\_119

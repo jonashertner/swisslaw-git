@@ -4,13 +4,13 @@ number: "112.51"
 title: Ordonnance indiquant les noms des communes et leur rattachement aux districts administratifs
 short: ONCD
 language: fr
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-08-17
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-06-28
 adopted: 2015-11-24
 in_force: 2016-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/112.51"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6735/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6880/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Noms des communes – O
 
 (ONCD)
 
-du 24.11.2015 (version entrée en vigueur le 01.01.2021)
+du 24.11.2015 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -89,9 +89,9 @@ Bas-Intyamon, Botterens, Broc, Bulle, Châtel-sur-Montsalvens, Corbières, Crés
 
 **District du Lac**
 
-<sup>1</sup> Le district du Lac est composé des dix-sept communes suivantes:
+<sup>1</sup> Le district du Lac est composé des quinze communes suivantes:
 
-Courgevaux, Courtepin, Cressier (FR), Fräschels, Galmiz, Gempenach, Greng, Gurmels, Kerzers, Kleinbösingen, Meyriez, Misery-Courtion, Mont-Vully, Morat[^6-1], Muntelier, Ried bei Kerzers, Ulmiz.
+Courgevaux, Courtepin, Cressier (FR), Fräschels, Greng, Gurmels, Kerzers, Kleinbösingen, Meyriez, Misery-Courtion, Mont-Vully, Morat[^6-1], Muntelier, Ried bei Kerzers, Ulmiz.
 
 [^6-1]: Note d'auteur: Usage selon l'article 10 al.1; dans le répertoire fédéral, le nom est Murten.
 
@@ -311,6 +311,8 @@ Attalens, Bossonnens, Châtel-Saint-Denis, Le Flon, Granges (Veveyse), Remaufens
 <tr><td>Alterswil, St. Antoni, Tafers</td><td>Tafers</td><td>01.01.2021</td><td>Décret</td><td>17.12.2019</td></tr>
 <tr><td>Arconciel, Ependes, Senèdes</td><td>Bois-d'Amont</td><td>01.01.2021</td><td>Décret</td><td>27.05.2020</td></tr>
 <tr><td>Cheiry, Surpierre</td><td>Surpierre</td><td>01.01.2021</td><td>Décret</td><td>27.05.2020</td></tr>
+<tr><td>Clavaleyres, Morat</td><td>Morat</td><td>01.01.2022</td><td>Décret</td><td>24.05.2019</td></tr>
+<tr><td>Galmiz, Gempenach, Morat</td><td>Morat</td><td>01.01.2022</td><td>Décret</td><td>23.03.2021</td></tr>
 </table>
 
 #### Art. A1-3
@@ -324,6 +326,17 @@ Attalens, Bossonnens, Châtel-Saint-Denis, Le Flon, Granges (Veveyse), Remaufens
 <tr><td>Wünnewil</td><td>Wünnewil-Flamatt</td><td></td><td>Arrêté</td><td>26.12.1973</td></tr>
 <tr><td>Vully-le-Bas</td><td>Bas-Vully</td><td></td><td>Arrêté</td><td>24.05.1977</td></tr>
 <tr><td>Vully-le-Haut</td><td>Haut-Vully</td><td></td><td>Arrêté</td><td>24.05.1977</td></tr>
+</table>
+
+#### Art. A1-4
+
+**Accession de territoire**
+
+<sup>1</sup> L'accession d'un nouveau territoire au canton de Fribourg a entraîné la mutation suivante:
+
+<table>
+<tr><th>Nom de la commune</th><th>Anciennement partie du territoire du canton de</th><th>Accords intercantonaux</th><th>Approbation fédérale</th><th>Entrée en vigueur</th></tr>
+<tr><td>Clavaleyres</td><td>Berne</td><td>Concordat du 12.03.2019 (RSF 112.8) et convention d'exécution du 26.05.2021 (RSF 112.9)</td><td>Arrêté fédéral du 18.12.2020 (RO 2021 243)</td><td>01.01.2022</td></tr>
 </table>
 
 2015\_119
