@@ -4,11 +4,10 @@ number: "212.811"
 title: Verordnung über die Organisation und den Geschäftsgang des Sozialversicherungsgerichts (OrgV SVGer)
 short: OrgV SVGer
 language: de
-version: "2011-07-01"
-nachtrag: "75"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
 adopted: 2004-10-26
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-212_811-2004_10_26-2005_04_01-075.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-212_811-2004_10_26-2005_04_01-115.html"
 text: pdf
 ---
 
@@ -54,7 +53,7 @@ beschliesst:
 
 **1**
 
-- 1\. 1. 12 - 75
+- 1\. 1. 22 - 115
 
 - b. Geschäfte, die dem Plenum von der Geschäftsleitung oder auf Antrag einer Kammerleitung zur Behandlung überwiesen werden,
 
@@ -109,13 +108,13 @@ beschliesst:
 
 - c. die Sicherstellung der Koordination und der Qualität der Rechtsprechung am Gericht,
 
-- d. die Publikation von Entscheiden des Gerichts,
-
-- e. die Anstellung und Beförderung des Personals des Sekretariats und der Kanzlei auf Antrag der Kammern bzw. der Generalsekretärin oder des Generalsekretärs,
+- d. die Publikation von Entscheiden des Gerichts, e.[^5-1] die Anstellung und Beförderung des juristischen und administrativen Personals auf Antrag der Kammern bzw. der Generalsekretärin oder des Generalsekretärs,
 
 - f. die Weiterbildung des Personals,
 
 - g. die Information der Mitarbeitenden des Gerichts.
+
+[^5-1]: Fassung gemäss B vom 15. Dezember 2020 (OS 76, 548; ABl 2021-01-15). In Kraft seit 1. Januar 2022.
 
 #### § 6
 
@@ -139,7 +138,7 @@ beschliesst:
 
 **3**
 
-- 1\. 1. 12 - 75
+- 1\. 1. 22 - 115
 
 ### D. Generalsekretärin oder Generalsekretär
 
@@ -177,31 +176,31 @@ beschliesst:
 
 <sup>1</sup> Das Sozialversicherungsgericht gliedert sich in mindestens zwei Kammern.
 
-<sup>2</sup> Jede Kammer besteht aus mindestens drei Mitgliedern, den ihr zugeteilten Ersatzmitgliedern, einer Kammersekretärin oder einem Kammersekretär und den Gerichtssekretärinnen und Gerichtssekretären.
+<sup>2</sup> Jede Kammer besteht aus mindestens drei Mitgliedern, den ihr zugeteilten Ersatzmitgliedern, einer Leitenden Gerichtsschreiberin oder einem Leitenden Gerichtsschreiber sowie den Gerichtsschreiberinnen und Gerichtsschreibern.[^10-1]
 
 <sup>3</sup> Bei Bedarf wirken Mitglieder und Ersatzmitglieder einer andern Kammer mit.
+
+[^10-1]: Fassung gemäss B vom 15. Dezember 2020 (OS 76, 548; ABl 2021-01-15). In Kraft seit 1. Januar 2022.
 
 #### § 11
 
 **Kammerleitung**
 
-<sup>1</sup> Die Kammerleitung besteht aus den voll- und teilamtlichen Mitgliedern. In der Regel wirken einzelne Ersatzmitglieder sowie die Kammersekretärin oder der Kammersekretär mit beratender Stimme mit.
+<sup>1</sup> Die Kammerleitung besteht aus den voll- und teilamtlichen Mitgliedern. In der Regel wirken einzelne Ersatzmitglieder sowie die Leitende Gerichtsschreiberin oder der Leitende Gerichtsschreiber mit beratender Stimme mit.[^10-1]
 
 <sup>2</sup> Die Kammerleitung plant und überwacht den Geschäftsgang in der Kammer.
 
 <sup>3</sup> Sie stellt der Geschäftsleitung Antrag auf Einstellung und Beförderung von Personal.
 
-<sup>4</sup> Sie kann dem Plenum die Behandlung eines Geschäfts beantragen.
-
-#### § 12
+<sup>4</sup> Sie kann dem Plenum die Behandlung eines Geschäfts beantragen. § 12.[^11-1] <sup>1</sup> Jede Kammer wird von der Präsidentin, vom Präsidenten oder von einer Vizepräsidentin oder einem Vizepräsidenten des Gerichts geleitet.
 
 **Vorsitz**
 
-<sup>1</sup> Jede Kammer wird von der Präsidentin, vom Präsidenten oder von einer Vizepräsidentin oder einem Vizepräsidenten des Gerichts geleitet.
+<sup>2</sup> Die oder der Kammervorsitzende überwacht innerhalb der Kammer die Pflichterfüllung der Mitglieder, der Ersatzmitglieder sowie der Gerichtsschreiberinnen und Gerichtsschreiber.
 
-<sup>2</sup> Die oder der Kammervorsitzende überwacht innerhalb der Kammer die Pflichterfüllung der Mitglieder, der Ersatzmitglieder sowie der Mitarbeitenden des Sekretariats.
+<sup>3</sup> Sie oder er ist unmittelbarer Vorgesetzter der Leitenden Gerichtsschreiberin oder des Leitenden Gerichtsschreibers sowie der Gerichtsschreiberinnen und der Gerichtsschreiber der Kammer.
 
-<sup>3</sup> Sie oder er ist unmittelbarer Vorgesetzter der Kammersekretärin oder des Kammersekretärs sowie der Gerichtssekretärinnen und der Gerichtssekretäre der Kammer.
+[^11-1]: Fassung gemäss B vom 15. Dezember 2020 (OS 76, 548; ABl 2021-01-15). In Kraft seit 1. Januar 2022.
 
 #### § 13
 
@@ -213,19 +212,19 @@ beschliesst:
 
 <sup>3</sup> Die Mitglieder und Ersatzmitglieder sorgen für eine fachkundige sowie speditive Erledigung der ihnen zugeteilten Streitsachen.
 
-#### § 14
+**Leitende Gerichtsschreiberin oder Leitender Gerichtsschreiber**
 
-**Kammersekretärin oder -sekretär**
+§ 14.[^13-1] <sup>1</sup> Die Leitende Gerichtsschreiberin oder der Leitende Gerichtsschreiber bereitet die Geschäfte der oder des Kammervorsitzenden vor und unterstützt diese oder diesen bei der Vorbereitung der Kammerleitungsgeschäfte.
 
-<sup>1</sup> Die Kammersekretärin oder der Kammersekretär bereitet die Geschäfte der oder des Kammervorsitzenden vor und unterstützt diese oder diesen bei der Vorbereitung der Kammerleitungsgeschäfte.
+<sup>2</sup> Sie oder er erfüllt die Aufgaben einer Gerichtsschreiberin oder eines Gerichtsschreibers und die weiteren, im Stellenbeschrieb festgelegten Aufgaben.
 
-<sup>2</sup> Sie oder er erfüllt die Aufgaben einer Gerichtssekretärin oder eines Gerichtssekretärs und die weiteren, im Stellenbeschrieb festgelegten Aufgaben.
+[^13-1]: Fassung gemäss B vom 15. Dezember 2020 (OS 76, 548; ABl 2021-01-15). In Kraft seit 1. Januar 2022.
 
 #### § 15
 
-**Gerichtssekretärinnen und -sekretäre**
+**Gerichtsschreiberinnen oder Gerichtsschreiber**
 
-<sup>1</sup> Die Gerichtssekretärinnen und Gerichtssekretäre arbeiten Urteilsentwürfe aus.
+<sup>1</sup> Die Gerichtsschreiberinnen und Gerichtsschreiber arbeiten Urteilsentwürfe aus.[^13-1]
 
 <sup>2</sup> Sie wirken zudem bei der Prozessleitung mit, führen die Protokolle der Sitzungen und redigieren die Entscheide des Gerichts. Sie erfüllen weitere ihnen vom Gericht übertragene Aufgaben.
 
@@ -241,11 +240,11 @@ Die zentralen Dienste besorgen die nichtjuristischen Geschäfte des Gerichts, so
 
 - b. Kanzleigeschäfte,
 
-- c. Rechnungswesen,
-
 **5**
 
-- 1\. 1. 12 - 75
+- 1\. 1. 22 - 115
+
+- c. Rechnungswesen,
 
 - d. Voranschlag, Rechnungslegung, Controlling, Geschäftsbericht und Statistik,
 
