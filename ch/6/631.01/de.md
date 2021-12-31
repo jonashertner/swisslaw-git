@@ -4,11 +4,11 @@ title: Zollverordnung vom 1. November 2006 (ZV)
 short: ZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/250"
 language: de
-version: 2019-01-01
+version: 2022-01-01
 adopted: 2006-11-01
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2007-250-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-250-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20190101/de"
 
 (ZV)
 
-vom 1. November 2006 (Stand am 1. Januar 2019)
+vom 1. November 2006 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -51,16 +51,16 @@ verordnet:
 
 <sup>1</sup>
 
-Die Zollverwaltung (EZV) darf im Zollausschlussgebiet namentlich:[^2-1]
+Das Bundesamt für Zoll und Grenzsicherheit (BAZG) darf im Zollausschlussgebiet namentlich:[^2-1]
 
 - a. den Warenverkehr überwachen (Art. 23 ZG);
 - b. sicherheitspolizeiliche Aufgaben erfüllen (Art. 96 ZG);
-- c. die nichtzollrechtlichen Erlasse des Bundes vollziehen und Widerhandlungen gegen solche Erlasse verfolgen, soweit sie dafür zuständig ist;
+- c. die nichtzollrechtlichen Erlasse des Bundes vollziehen und Widerhandlungen gegen solche Erlasse verfolgen, soweit es dafür zuständig ist;
 - d. Zollwiderhandlungen verfolgen.
 
 <sup>2</sup> Die Zuständigkeiten anderer Bundesbehörden und kantonaler Behörden beim Vollzug nichtzollrechtlicher Erlasse des Bundes bleiben vorbehalten.
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^2-1]: Fassung gemäss Ziff. II 2 der V vom 12. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)).
 
 #### Art. 3
 
@@ -68,13 +68,13 @@ Die Zollverwaltung (EZV) darf im Zollausschlussgebiet namentlich:[^2-1]
 
 ### (Art. 4 Abs. 2 ZG)
 
-<sup>1</sup> Die Baubewilligungsbehörde der Gemeinde holt für Bauvorhaben nach Artikel 4 Absatz 2 ZG die Bewilligung der EZV[^3-1] ein. Sie fügt dem Gesuch die Pläne und Beschreibungen des Bauvorhabens bei.
+<sup>1</sup> Die Baubewilligungsbehörde der Gemeinde holt für Bauvorhaben nach Artikel 4 Absatz 2 ZG die Bewilligung des BAZG[^3-1] ein. Sie fügt dem Gesuch die Pläne und Beschreibungen des Bauvorhabens bei.
 
-<sup>2</sup> Die EZV legt in der Bewilligung fest, welche Einrichtungen erstellt und wie diese unterhalten werden müssen. Sie regelt das Durchgangsrecht für das Personal der EZV.
+<sup>2</sup> Das BAZG legt in der Bewilligung fest, welche Einrichtungen erstellt und wie diese unterhalten werden müssen. Es regelt das Durchgangsrecht für das Personal des BAZG.
 
-<sup>3</sup> Sie kann in der Bewilligung einen Beitrag der Grundeigentümerin oder des Grundeigentümers an die Mehrkosten für die Überwachung der Zollgrenze festsetzen, die durch die Bauten oder Anlagen entstehen.
+<sup>3</sup> Es kann in der Bewilligung einen Beitrag der Grundeigentümerin oder des Grundeigentümers an die Mehrkosten für die Überwachung der Zollgrenze festsetzen, die durch die Bauten oder Anlagen entstehen.
 
-[^3-1]: Ausdruck gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)). Diese Änd. wurde im ganzen Erlass berücksichtig.
+[^3-1]: Ausdruck gemäss Ziff. II 2 der V vom 12. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 4
 
@@ -368,7 +368,7 @@ Gegenstände für Unterricht und Forschung sind zollfrei, wenn sie ausschliessli
 
 <sup>4</sup> Das Gesuch um Zollbefreiung muss vor der Einfuhr bei der Zollkreisdirektion eingereicht werden.[^19-1]
 
-<sup>5</sup> Sollen zollfrei eingeführte Gegenstände im Zollgebiet weitergegeben werden, so ist vorgängig eine Bewilligung der EZV einzuholen. Diese entscheidet über die Nachentrichtung der Zollabgaben. Die Zollschuld entsteht zum Zeitpunkt der Weitergabe.
+<sup>5</sup> Sollen zollfrei eingeführte Gegenstände im Zollgebiet weitergegeben werden, so ist vorgängig eine Bewilligung des BAZG einzuholen. Dieses entscheidet über die Nachentrichtung der Zollabgaben. Die Zollschuld entsteht zum Zeitpunkt der Weitergabe.
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 22. April 2009, in Kraft seit 1. Juni 2009 ([AS 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
@@ -390,7 +390,7 @@ Solche Gegenstände sind ebenfalls zollfrei, wenn sie ausgestellt werden:
 
 <sup>3</sup> Das Gesuch um Zollbefreiung muss vor der Einfuhr bei der Zollkreisdirektion eingereicht werden.[^20-1]
 
-<sup>4</sup> Sollen zollfrei eingeführte Kunst- und Ausstellungsgegenstände zu anderen Zwecken verwendet werden, so ist vorgängig eine Bewilligung der EZV einzuholen. Diese entscheidet über die Nachentrichtung der Zollabgaben. Die Zollschuld entsteht zum Zeitpunkt der Änderung der Verwendung.
+<sup>4</sup> Sollen zollfrei eingeführte Kunst- und Ausstellungsgegenstände zu anderen Zwecken verwendet werden, so ist vorgängig eine Bewilligung des BAZG einzuholen. Dieses entscheidet über die Nachentrichtung der Zollabgaben. Die Zollschuld entsteht zum Zeitpunkt der Änderung der Verwendung.
 
 [^20-1]: Fassung gemäss Ziff. I der V vom 22. April 2009, in Kraft seit 1. Juni 2009 ([AS 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
@@ -404,7 +404,7 @@ Solche Gegenstände sind ebenfalls zollfrei, wenn sie ausgestellt werden:
 
 <sup>2</sup> Das Gesuch um Zollbefreiung muss vor der Einfuhr bei der Zollkreisdirektion eingereicht werden.[^21-1]
 
-<sup>3</sup> Sollen zollfrei eingeführte Instrumente und Apparate im Zollgebiet weitergegeben werden, so ist vorgängig eine Bewilligung der EZV einzuholen. Diese entscheidet über die Nachentrichtung der Zollabgaben. Die Zollschuld entsteht zum Zeitpunkt der Weitergabe.
+<sup>3</sup> Sollen zollfrei eingeführte Instrumente und Apparate im Zollgebiet weitergegeben werden, so ist vorgängig eine Bewilligung des BAZG einzuholen. Dieses entscheidet über die Nachentrichtung der Zollabgaben. Die Zollschuld entsteht zum Zeitpunkt der Weitergabe.
 
 [^21-1]: Fassung gemäss Ziff. I der V vom 22. April 2009, in Kraft seit 1. Juni 2009 ([AS 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
@@ -503,7 +503,7 @@ Zollpflichtig ist die Einfuhr von Trauben und Wein, die über die in Absatz 1 fe
 Waren des Marktverkehrs bis zu einer Gesamtmenge von 100 Kilogramm brutto pro Tag und Person sind zollfrei, wenn sie:
 
 - a. aus der ausländischen Grenzzone stammen;
-- b. über die von der EZV bezeichneten Zollstellen eingeführt werden; und
+- b. über die vom BAZG bezeichneten Zollstellen eingeführt werden; und
 - c. innerhalb der inländischen Grenzzone an natürliche Personen für deren eigenen Bedarf verkauft werden.
 
 <sup>2</sup> Als Waren des Marktverkehrs gelten Gemüse, frische Fische, Krebse, Frösche, Schnecken und Schnittblumen.
@@ -585,11 +585,11 @@ Waren zur vorübergehenden Verwendung im Zollgebiet sind zollfrei, wenn:
 
 <sup>2</sup> Waren, deren vorübergehende Verwendung länger als zwei Jahre dauert, dürfen unter teilweiser Befreiung von den Zollabgaben noch höchstens drei Jahre weiterverwendet werden. Die Zollabgaben werden für jeden ganzen oder angefangenen Monat auf drei Prozent des Betrages festgesetzt, der bei einer Überführung der Waren in den zollrechtlich freien Verkehr erhoben worden wäre, höchstens aber auf die Höhe dieses Betrags.
 
-<sup>3</sup> Die EZV kann die Frist nach Absatz 1 Buchstabe c in besonderen Fällen verkürzen. Sie legt die Frist fest, in der die Waren wieder ausgeführt oder in ein anderes Zollverfahren überführt werden müssen.
+<sup>3</sup> Das BAZG kann die Frist nach Absatz 1 Buchstabe c in besonderen Fällen verkürzen. Es legt die Frist fest, in der die Waren wieder ausgeführt oder in ein anderes Zollverfahren überführt werden müssen.
 
 <sup>4</sup> Sind die Voraussetzungen nach Absatz 1 erfüllt, so gilt das Verfahren der vorübergehenden Verwendung als bewilligt.
 
-<sup>5</sup> Liegen wichtige Gründe vor, die eine Überwachung des Verfahrens der vorübergehenden Verwendung erforderlich machen, so kann die EZV dieses Verfahren von einer ausdrücklichen Bewilligung abhängig machen.
+<sup>5</sup> Liegen wichtige Gründe vor, die eine Überwachung des Verfahrens der vorübergehenden Verwendung erforderlich machen, so kann das BAZG dieses Verfahren von einer ausdrücklichen Bewilligung abhängig machen.
 
 [^30-1]: Fassung gemäss Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
@@ -607,7 +607,7 @@ Waren aus dem zollrechtlich freien Verkehr zur vorübergehenden Verwendung im Zo
 - b. die Verwendung höchstens zwei Jahre dauert; und
 - c. sie in unverändertem Zustand wieder eingeführt werden, wobei der Gebrauch nicht als Veränderung gilt.
 
-<sup>2</sup> Die EZV kann die Frist nach Absatz 1 Buchstabe b aus wichtigen Gründen um bis zu drei Jahre verlängern.
+<sup>2</sup> Das BAZG kann die Frist nach Absatz 1 Buchstabe b aus wichtigen Gründen um bis zu drei Jahre verlängern.
 
 #### Art. 32
 
@@ -615,7 +615,7 @@ Waren aus dem zollrechtlich freien Verkehr zur vorübergehenden Verwendung im Zo
 
 ### (Art. 9 Abs. 2 ZG)
 
-Die EZV kann das Verfahren der vorübergehenden Verwendung aus wichtigen Gründen auch dann bewilligen, wenn nicht alle Voraussetzungen erfüllt sind.
+Das BAZG kann das Verfahren der vorübergehenden Verwendung aus wichtigen Gründen auch dann bewilligen, wenn nicht alle Voraussetzungen erfüllt sind.
 
 #### Art. 33
 
@@ -623,7 +623,7 @@ Die EZV kann das Verfahren der vorübergehenden Verwendung aus wichtigen Gründe
 
 ### (Art. 9 Abs. 2 und 3 ZG)
 
-Die EZV kann das Verfahren der vorübergehenden Verwendung ausschliessen:
+Das BAZG kann das Verfahren der vorübergehenden Verwendung ausschliessen:
 
 - a. für Waren zur Lagerung;
 - b. für Waren aus Staaten, die nicht Gegenrecht halten; oder
@@ -639,7 +639,7 @@ Die EZV kann das Verfahren der vorübergehenden Verwendung ausschliessen:
 
 <sup>2</sup>
 
-Die EZV kann Personen mit Sitz oder Wohnsitz im Zollgebiet die zollfreie vorübergehende Verwendung eines ausländischen Beförderungsmittels für grenzüberschreitende Beförderungen zu gewerblichen Zwecken bewilligen, wenn:
+Das BAZG kann Personen mit Sitz oder Wohnsitz im Zollgebiet die zollfreie vorübergehende Verwendung eines ausländischen Beförderungsmittels für grenzüberschreitende Beförderungen zu gewerblichen Zwecken bewilligen, wenn:
 
 - a. die Person innerhalb eines Jahres höchstens zwölf Beförderungen durchführt; und
 - b. das Beförderungsmittel jeweils nach Beendigung der Beförderung wieder ausgeführt wird.
@@ -648,7 +648,7 @@ Die EZV kann Personen mit Sitz oder Wohnsitz im Zollgebiet die zollfreie vorübe
 
 <sup>4</sup>
 
-Die EZV kann für Binnentransporte die zollfreie vorübergehende Verwendung von ausländischen Beförderungsmitteln im Zollgebiet bewilligen, namentlich wenn die Gesuchstellerin oder der Gesuchsteller nachweist, dass:
+Das BAZG kann für Binnentransporte die zollfreie vorübergehende Verwendung von ausländischen Beförderungsmitteln im Zollgebiet bewilligen, namentlich wenn die Gesuchstellerin oder der Gesuchsteller nachweist, dass:
 
 - a. keine entsprechenden inländischen Beförderungsmittel zur Verfügung stehen und die ausländischen Beförderungsmittel nur für eine kurze Dauer benützt werden sollen; oder
 - b. die ausländischen Beförderungsmittel zu Testzwecken eingeführt werden.
@@ -668,11 +668,11 @@ Ausländische Eisenbahnfahrzeuge dürfen für den Transport von Personen und War
 
 ### (Art. 9 Abs. 2 ZG)
 
-<sup>1</sup> Die EZV bewilligt Personen mit Wohnsitz ausserhalb des Zollgebiets, die zur Arbeitsaufnahme, Aus- oder Weiterbildung oder aus ähnlichen Gründen einreisen, die vorübergehende Verwendung eines ausländischen Beförderungsmittels für den eigenen Gebrauch.
+<sup>1</sup> Das BAZG bewilligt Personen mit Wohnsitz ausserhalb des Zollgebiets, die zur Arbeitsaufnahme, Aus- oder Weiterbildung oder aus ähnlichen Gründen einreisen, die vorübergehende Verwendung eines ausländischen Beförderungsmittels für den eigenen Gebrauch.
 
 <sup>2</sup>
 
-Sie kann Personen mit Wohnsitz im Zollgebiet die vorübergehende Verwendung eines ausländischen Beförderungsmittels für den eigenen Gebrauch bewilligen, wenn:
+Es kann Personen mit Wohnsitz im Zollgebiet die vorübergehende Verwendung eines ausländischen Beförderungsmittels für den eigenen Gebrauch bewilligen, wenn:
 
 - a. diese bei einer Person mit Sitz oder Wohnsitz ausserhalb des Zollgebiets angestellt sind und das ihnen zur Verfügung gestellte ausländische Beförderungsmittel ausschliesslich für grenzüberschreitende Beförderungen im dienstlichen Auftrag und für solche zwischen Wohnort und ausländischem Arbeitsort benützen;
 - b. diese innerhalb eines Jahres höchstens 12 grenzüberschreitende Beförderungen durchführen und die Wiederausfuhr jeweils nach drei Tagen erfolgt;
@@ -685,7 +685,7 @@ Sie kann Personen mit Wohnsitz im Zollgebiet die vorübergehende Verwendung eine
 
 ### (Art. 9 Abs. 2 ZG)
 
-<sup>1</sup> Die EZV bewilligt Personen mit Wohnsitz im Zollgebiet die vorübergehende Verwendung von ausländischen Beförderungsmitteln zum eigenen Gebrauch, die im Rahmen eines schriftlichen Vertrags gelegentlich bei einem im Zollausland ansässigen Vermietungsunternehmen gemietet werden.
+<sup>1</sup> Das BAZG bewilligt Personen mit Wohnsitz im Zollgebiet die vorübergehende Verwendung von ausländischen Beförderungsmitteln zum eigenen Gebrauch, die im Rahmen eines schriftlichen Vertrags gelegentlich bei einem im Zollausland ansässigen Vermietungsunternehmen gemietet werden.
 
 <sup>2</sup> Diese Beförderungsmittel müssen innerhalb von acht Tagen nach dem Wirksamwerden des Vertrags wieder ausgeführt oder an das im Zollgebiet ansässige Vermietungsunternehmen zurückgegeben werden.
 
@@ -693,7 +693,7 @@ Sie kann Personen mit Wohnsitz im Zollgebiet die vorübergehende Verwendung eine
 
 <sup>4</sup>
 
-Die EZV kann im Zollgebiet ansässigen Vermietungsunternehmen die Vermietung von ausländischen Beförderungsmitteln bewilligen, wenn:
+Das BAZG kann im Zollgebiet ansässigen Vermietungsunternehmen die Vermietung von ausländischen Beförderungsmitteln bewilligen, wenn:
 
 - a. diese innerhalb von drei Tagen ausgeführt werden; oder
 - b. diese für mehr als acht Tage an Personen mit Wohnsitz ausserhalb des Zollgebiets für den Gebrauch im grenzüberschreitenden Verkehr vermietet werden.
@@ -760,7 +760,7 @@ Der Äquivalenzverkehr wird angewandt, wenn:
 - b. keine Einfuhrregelungen des Bundes umgangen werden können; und
 - c. ihm kein anderes überwiegendes öffentliches Interesse entgegensteht.
 
-<sup>3</sup> Die inländischen Waren können von dem Tag an als Veredelungserzeugnisse ausgeführt werden, an dem die EZV die aktive Veredelung bewilligt hat.
+<sup>3</sup> Die inländischen Waren können von dem Tag an als Veredelungserzeugnisse ausgeführt werden, an dem das BAZG die aktive Veredelung bewilligt hat.
 
 #### Art. 42
 
@@ -772,9 +772,9 @@ Der Äquivalenzverkehr wird angewandt, wenn:
 
 <sup>2</sup> Der Nämlichkeitsverkehr wird auf Gesuch der zollpflichtigen Person angewandt.
 
-<sup>3</sup> Die EZV schreibt den Nämlichkeitsverkehr vor, wenn die Voraussetzungen für den Äquivalenzverkehr nicht erfüllt sind.
+<sup>3</sup> Das BAZG schreibt den Nämlichkeitsverkehr vor, wenn die Voraussetzungen für den Äquivalenzverkehr nicht erfüllt sind.
 
-<sup>4</sup> Im Nämlichkeitsverkehr legt die EZV in der Bewilligung für die aktive Veredelung Auflagen zur Kontrolle fest. Sie kann namentlich die getrennte Lagerung und Verarbeitung der ins Zollgebiet verbrachten Waren vorschreiben.
+<sup>4</sup> Im Nämlichkeitsverkehr legt das BAZG in der Bewilligung für die aktive Veredelung Auflagen zur Kontrolle fest. Es kann namentlich die getrennte Lagerung und Verarbeitung der ins Zollgebiet verbrachten Waren vorschreiben.
 
 #### Art. 43
 
@@ -797,14 +797,14 @@ Der Äquivalenzverkehr wird angewandt, wenn:
 
 <sup>1</sup>
 
-Für Waren, die im Zollgebiet vernichtet werden sollen, gewährt die EZV:
+Für Waren, die im Zollgebiet vernichtet werden sollen, gewährt das BAZG:
 
 - a. Zollrückerstattung, wenn die Waren nach dem Rückerstattungsverfahren veranlagt worden sind;
 - b. Zollbefreiung, wenn die Waren nach dem Nichterhebungsverfahren veranlagt worden sind.
 
-<sup>2</sup> Die EZV kann vorschreiben, dass die Vernichtung durch eine Zollstelle überwacht wird.
+<sup>2</sup> Das BAZG kann vorschreiben, dass die Vernichtung durch eine Zollstelle überwacht wird.
 
-<sup>3</sup> Bei Waren, die nicht unbedingt vernichtet werden müssen, kann die zollpflichtige Person beantragen, dass die Waren im Zollgebiet zur Tierfütterung, zur Düngung oder zu ähnlichen Zwecken verwendet werden. In diesen Fällen gewährt die EZV Zollermässigung. Im Gesuch muss die Verwendung der Ware nachgewiesen werden.
+<sup>3</sup> Bei Waren, die nicht unbedingt vernichtet werden müssen, kann die zollpflichtige Person beantragen, dass die Waren im Zollgebiet zur Tierfütterung, zur Düngung oder zu ähnlichen Zwecken verwendet werden. In diesen Fällen gewährt das BAZG Zollermässigung. Im Gesuch muss die Verwendung der Ware nachgewiesen werden.
 
 <sup>4</sup> Das Gesuch um Zollrückerstattung, Zollbefreiung oder Zollermässigung muss innerhalb der festgesetzten Frist für die Wiederausfuhr der Waren und vor der Vernichtung oder der Verwendung der Waren im Zollgebiet, die zur Vernichtung vorgesehen waren, bei der Oberzolldirektion oder einer von dieser bezeichneten Zollstelle eingereicht werden.
 
@@ -833,7 +833,7 @@ Der Äquivalenzverkehr wird angewandt, wenn:
 - a. die gleiche Beschaffenheit und Qualität der Ware nachgewiesen wird;
 - b. keine überwiegenden öffentlichen Interessen entgegenstehen.
 
-<sup>3</sup> Die ausländischen Waren können von dem Tag an als Veredelungserzeugnisse ins Zollgebiet verbracht werden, an dem die EZV die passive Veredelung bewilligt hat.
+<sup>3</sup> Die ausländischen Waren können von dem Tag an als Veredelungserzeugnisse ins Zollgebiet verbracht werden, an dem das BAZG die passive Veredelung bewilligt hat.
 
 #### Art. 47
 
@@ -845,9 +845,9 @@ Der Äquivalenzverkehr wird angewandt, wenn:
 
 <sup>2</sup> Der Nämlichkeitsverkehr wird auf Gesuch der zollpflichtigen Person angewandt.
 
-<sup>3</sup> Die EZV schreibt den Nämlichkeitsverkehr vor, wenn die Voraussetzungen für den Äquivalenzverkehr nicht erfüllt sind.
+<sup>3</sup> Das BAZG schreibt den Nämlichkeitsverkehr vor, wenn die Voraussetzungen für den Äquivalenzverkehr nicht erfüllt sind.
 
-<sup>4</sup> Im Nämlichkeitsverkehr kann die EZV die Erteilung einer Bewilligung für die passive Veredelung davon abhängig machen, dass die ausländische Auftragnehmerin oder der ausländische Auftragnehmer über eine Bewilligung der ausländischen Zollbehörde für eine aktive Veredelung im Nämlichkeitsverkehr verfügt.
+<sup>4</sup> Im Nämlichkeitsverkehr kann das BAZG die Erteilung einer Bewilligung für die passive Veredelung davon abhängig machen, dass die ausländische Auftragnehmerin oder der ausländische Auftragnehmer über eine Bewilligung der ausländischen Zollbehörde für eine aktive Veredelung im Nämlichkeitsverkehr verfügt.
 
 #### Art. 48
 
@@ -855,7 +855,7 @@ Der Äquivalenzverkehr wird angewandt, wenn:
 
 ### (Art. 13 Abs. 1 und 2 ZG)
 
-Die EZV gewährt für die ins Zollgebiet verbrachten Veredelungserzeugnisse Zollbefreiung.
+Das BAZG gewährt für die ins Zollgebiet verbrachten Veredelungserzeugnisse Zollbefreiung.
 
 #### Art. 49
 
@@ -863,13 +863,13 @@ Die EZV gewährt für die ins Zollgebiet verbrachten Veredelungserzeugnisse Zoll
 
 ### (Art. 13 Abs. 3 ZG)
 
-<sup>1</sup> Für das durch die Veredelung entstandene Mehrgewicht erhebt die EZV die Zollabgaben. Die Abgaben bemessen sich nach der zolltarifarischen Einreihung des ins Zollgebiet verbrachten Veredelungserzeugnisses.
+<sup>1</sup> Für das durch die Veredelung entstandene Mehrgewicht erhebt das BAZG die Zollabgaben. Die Abgaben bemessen sich nach der zolltarifarischen Einreihung des ins Zollgebiet verbrachten Veredelungserzeugnisses.
 
-<sup>2</sup> Kann der Veredelungsmehrwert nicht durch das Mehrgewicht erfasst werden oder sind die Zollabgaben für das Mehrgewicht nach Absatz 1 unverhältnismässig, so kann die EZV Zollermässigung oder Zollbefreiung gewähren.
+<sup>2</sup> Kann der Veredelungsmehrwert nicht durch das Mehrgewicht erfasst werden oder sind die Zollabgaben für das Mehrgewicht nach Absatz 1 unverhältnismässig, so kann das BAZG Zollermässigung oder Zollbefreiung gewähren.
 
 <sup>3</sup>
 
-Die EZV berechnet den ermässigten Zollansatz nach derjenigen der folgenden Methoden, die den Veredelungsmehrwert am besten zu erfassen vermag:
+Das BAZG berechnet den ermässigten Zollansatz nach derjenigen der folgenden Methoden, die den Veredelungsmehrwert am besten zu erfassen vermag:
 
 - a. Differenz zwischen der Zollbelastung auf dem ins Zollgebiet verbrachten Veredelungserzeugnis und der fiktiven Zollbelastung auf der zur Herstellung des Veredelungserzeugnisses benötigten Menge an ausgeführten Waren;
 - b. Differenz zwischen den inländischen und den ausländischen Veredelungskosten; oder
@@ -972,7 +972,7 @@ Wer über nach Artikel 7 der Verordnung vom 7. Dezember 1998[^55-1] über die Ei
 
 <sup>1</sup> Mit der Zollanmeldung muss zusätzlich eine Übersicht über die einzelnen Lagerorte der zu Beginn der Bewirtschaftungsperiode nach Artikel 7 VEAGOG[^57-1] auf Handelsstufe noch vorhandenen landwirtschaftlichen Erzeugnisse mit genauer Ortsangabe, Warenbezeichnung, Zolltarifnummer und Eigenmasse eingereicht werden.
 
-<sup>2</sup> …[^57-2]
+<sup>2</sup> ...[^57-2]
 
 [^57-1]: [SR 916.121.10](https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244)
 [^57-2]: Aufgehoben durch Ziff. II der V vom 14. Nov. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 6265](https://fedlex.data.admin.ch/eli/oc/2007/832)).
@@ -983,7 +983,7 @@ Wer über nach Artikel 7 der Verordnung vom 7. Dezember 1998[^55-1] über die Ei
 
 ### (Art. 15 Abs. 2 ZG)
 
-<sup>1</sup> Die Inhaberin oder der Inhaber einer GEB muss der EZV auf Verlangen alle an Dritte gelieferten landwirtschaftlichen Erzeugnisse auflisten, die sie oder er innerhalb der freien Periode vor dem entsprechenden Zeitpunkt nach Artikel 7 Absatz 1 VEAGOG[^58-1] eingeführt hat.
+<sup>1</sup> Die Inhaberin oder der Inhaber einer GEB muss dem BAZG auf Verlangen alle an Dritte gelieferten landwirtschaftlichen Erzeugnisse auflisten, die sie oder er innerhalb der freien Periode vor dem entsprechenden Zeitpunkt nach Artikel 7 Absatz 1 VEAGOG[^58-1] eingeführt hat.
 
 <sup>2</sup>
 
@@ -1031,11 +1031,11 @@ Wer landwirtschaftliche Erzeugnisse, die in der freien Periode eingeführt worde
 
 ### (Art. 15 Abs. 2 ZG)
 
-<sup>1</sup> Die EZV kann für Kontrollen am Domizil von anmeldepflichtigen Personen nach Artikel 55 das Bundesamt für Landwirtschaft beiziehen.
+<sup>1</sup> Das BAZG kann für Kontrollen am Domizil von anmeldepflichtigen Personen nach Artikel 55 das Bundesamt für Landwirtschaft beiziehen.
 
 <sup>2</sup> Das Bundesamt für Landwirtschaft kann dabei die physische Kontrolle der Art, der Menge und der Beschaffenheit von landwirtschaftlichen Erzeugnissen vornehmen, alle erforderlichen Auskünfte verlangen sowie Daten und Dokumente, Systeme und Informationen überprüfen, die für den Vollzug von Artikel 15 ZG von Bedeutung sein können.
 
-<sup>3</sup> Es übermittelt die Ergebnisse der Kontrolle der EZV zum Vollzug.
+<sup>3</sup> Es übermittelt die Ergebnisse der Kontrolle dem BAZG zum Vollzug.
 
 ### 8. Abschnitt: Reiseverkehr
 
@@ -1054,7 +1054,7 @@ Zollfrei sind persönliche Gebrauchsgegenstände nach Anhang 1, die in angemesse
 
 <sup>2</sup> Zollfrei sind auch persönliche Gebrauchsgegenstände, die sich Personen nach Absatz 1 voraussenden oder nachsenden lassen.
 
-<sup>3</sup> Die EZV kann für neue oder für hohen Einfuhrabgaben unterliegende Gegenstände das Transitverfahren oder das Verfahren der vorübergehenden Verwendung verlangen.
+<sup>3</sup> Das BAZG kann für neue oder für hohen Einfuhrabgaben unterliegende Gegenstände das Transitverfahren oder das Verfahren der vorübergehenden Verwendung verlangen.
 
 #### Art. 64
 
@@ -1178,7 +1178,7 @@ Als Vorräte für Bordbuffetdienste gelten:
 
 <sup>1</sup> Grundlage für die zolltarifarische Einreihung ist Anhang 1 des Zolltarifgesetzes vom 9. Oktober 1986[^71-1] (ZTG).
 
-<sup>2</sup> Zur Auslegung von Anhang 1 ZTG werden die von der EZV veröffentlichten Erläuterungen zum Zolltarif und Entscheide über Warentarifierungen herangezogen.
+<sup>2</sup> Zur Auslegung von Anhang 1 ZTG werden die vom BAZG veröffentlichten Erläuterungen zum Zolltarif und Entscheide über Warentarifierungen herangezogen.
 
 [^71-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
 
@@ -1223,11 +1223,11 @@ Für eine Ursprungsauskunft muss die Anfrage zusätzlich folgende Angaben enthal
 
 <sup>3</sup> Erforderliche Muster, Proben, Fotos, Pläne, Kataloge und Fachliteratur sind beizulegen.
 
-<sup>4</sup> Die EZV fordert die anfragende Person bei ungenügend dokumentierten Anfragen auf, diese innerhalb einer angemessenen Frist nachzubessern. Ist die Anfrage trotz Aufforderung unvollständig, so kann die EZV auf die Zolltarif- oder Ursprungsauskunft verzichten.
+<sup>4</sup> Das BAZG fordert die anfragende Person bei ungenügend dokumentierten Anfragen auf, diese innerhalb einer angemessenen Frist nachzubessern. Ist die Anfrage trotz Aufforderung unvollständig, so kann das BAZG auf die Zolltarif- oder Ursprungsauskunft verzichten.
 
-<sup>4bis</sup> Die EZV erteilt die Zolltarif- oder Ursprungsauskunft spätestens 40 Tage nach Erhalt der vollständigen Unterlagen.[^73-1]
+<sup>4bis</sup> Das BAZG erteilt die Zolltarif- oder Ursprungsauskunft spätestens 40 Tage nach Erhalt der vollständigen Unterlagen.[^73-1]
 
-<sup>5</sup> Sie kann eingereichte Dokumentationen ohne Entschädigungspflicht zurückbehalten.
+<sup>5</sup> Es kann eingereichte Dokumentationen ohne Entschädigungspflicht zurückbehalten.
 
 [^73-1]: Eingefügt durch Ziff. I 6 der V vom 6. Juni 2014 über die Ordnungsfristen im Zuständigkeitsbereich der Eidgenössischen Zollverwaltung, in Kraft seit 1. Sept. 2014 ([AS 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
 
@@ -1237,7 +1237,7 @@ Für eine Ursprungsauskunft muss die Anfrage zusätzlich folgende Angaben enthal
 
 ### (Art. 20 Abs. 5 ZG)
 
-<sup>1</sup> Eine schriftliche Auskunft über die zolltarifarische Einreihung, die von der EZV vor Ablauf der Gültigkeit widerrufen wird, kann von der berechtigten Person noch drei Monate nach der Veröffentlichung oder Inkenntnissetzung verwendet werden, wenn die Person nachweist, dass sie vor dem Widerruf einen rechtsverbindlichen Vertrag über die betreffenden Waren abgeschlossen hat.
+<sup>1</sup> Eine schriftliche Auskunft über die zolltarifarische Einreihung, die vom BAZG vor Ablauf der Gültigkeit widerrufen wird, kann von der berechtigten Person noch drei Monate nach der Veröffentlichung oder Inkenntnissetzung verwendet werden, wenn die Person nachweist, dass sie vor dem Widerruf einen rechtsverbindlichen Vertrag über die betreffenden Waren abgeschlossen hat.
 
 <sup>2</sup> Absatz 1 findet keine Anwendung bei Rechtsänderungen.
 
@@ -1270,11 +1270,11 @@ Reisende, die keine Waren ins Zollgebiet verbringen, sind von der Benützung der
 
 #### Art. 77
 
-**Behandlung von Waren im Gewahrsam der EZV**
+**Behandlung von Waren im Gewahrsam des BAZG**
 
 ### (Art. 24 Abs. 3 ZG)
 
-<sup>1</sup> Waren, die im Gewahrsam der EZV stehen, dürfen in ihrer Art, Menge und Beschaffenheit nicht verändert werden.
+<sup>1</sup> Waren, die im Gewahrsam des BAZG stehen, dürfen in ihrer Art, Menge und Beschaffenheit nicht verändert werden.
 
 <sup>2</sup>
 
@@ -1285,11 +1285,11 @@ Mit Bewilligung der Zollstelle sind zulässig:
 
 #### Art. 78
 
-**Dauer des Gewahrsams der EZV**
+**Dauer des Gewahrsams des BAZG**
 
 ### (Art. 24 Abs. 3 ZG)
 
-Der Gewahrsam der EZV endet mit der Freigabe der gestellten Waren durch die Zollstelle.
+Der Gewahrsam des BAZG endet mit der Freigabe der gestellten Waren durch die Zollstelle.
 
 #### Art. 79
 
@@ -1318,7 +1318,7 @@ Die anmeldepflichtige Person muss in der Zollanmeldung zusätzlich zu den sonsti
 
 <sup>1</sup> Als Begleitdokumente gelten Unterlagen, die für die Zollveranlagung von Bedeutung sind, namentlich Bewilligungen, Frachtdokumente, Handelsrechnungen, Lieferscheine, Ladelisten, Gewichtsausweise, Ursprungsnachweise, Veranlagungsinstruktionen, Analysenzertifikate, Zeugnisse und amtliche Bestätigungen.
 
-<sup>2</sup> Reicht die anmeldepflichtige Person innerhalb der von der EZV festgesetzten Frist die erforderlichen Begleitdokumente nicht ein, so veranlagt die Zollstelle die Waren, für die eine Zollermässigung, Zollbefreiung oder Zollerleichterung beantragt wird, zum höchsten Zollansatz, der nach ihrer Art anwendbar ist, definitiv.
+<sup>2</sup> Reicht die anmeldepflichtige Person innerhalb der vom BAZG festgesetzten Frist die erforderlichen Begleitdokumente nicht ein, so veranlagt die Zollstelle die Waren, für die eine Zollermässigung, Zollbefreiung oder Zollerleichterung beantragt wird, zum höchsten Zollansatz, der nach ihrer Art anwendbar ist, definitiv.
 
 #### Art. 80a
 
@@ -1326,7 +1326,7 @@ Die anmeldepflichtige Person muss in der Zollanmeldung zusätzlich zu den sonsti
 
 <sup>1</sup>
 
-Für Ursprungserzeugnisse gewährt die EZV die präferenzielle Veranlagung nach einem Freihandelsabkommen nach Anhang 1 der Freihandelsverordnung 1 vom 18. Juni 2008[^80a-2] oder Anhang 1 der Freihandelsverordnung 2 vom 27. Juni 1995[^80a-3] ohne Vorlage eines Ursprungsnachweises, wenn:
+Für Ursprungserzeugnisse gewährt das BAZG die präferenzielle Veranlagung nach einem Freihandelsabkommen nach Anhang 1 der Freihandelsverordnung 1 vom 18. Juni 2008[^80a-2] oder Anhang 1 der Freihandelsverordnung 2 vom 27. Juni 1995[^80a-3] ohne Vorlage eines Ursprungsnachweises, wenn:
 
 - a. es sich um eine Sendung von Privatperson an Privatperson handelt;
 - b. der Gesamtwert der in der Sendung enthaltenen Ursprungserzeugnisse nicht mehr als 1000 Franken beträgt;
@@ -1360,7 +1360,7 @@ Die anmeldepflichtige Person hat das Recht:
 
 ### (Art. 27 Bst. d ZG)
 
-<sup>1</sup> Die anmeldepflichtige Person muss die Vernichtung oder Zerstörung der Waren innerhalb der von der EZV festgesetzten Frist vornehmen oder vornehmen lassen.
+<sup>1</sup> Die anmeldepflichtige Person muss die Vernichtung oder Zerstörung der Waren innerhalb der vom BAZGfestgesetzten Frist vornehmen oder vornehmen lassen.
 
 <sup>2</sup> Kommt die anmeldepflichtige Person dieser Verpflichtung nicht nach, so kann die Zollstelle die Vernichtung oder Zerstörung auf Kosten dieser Person anordnen.
 
@@ -1372,11 +1372,11 @@ Die anmeldepflichtige Person hat das Recht:
 
 ### (Art. 27 Bst. e ZG)
 
-<sup>1</sup> Die Aufgabe von Waren zu Gunsten der Bundeskasse ist nur mit Bewilligung der EZV zulässig.
+<sup>1</sup> Die Aufgabe von Waren zu Gunsten der Bundeskasse ist nur mit Bewilligung des BAZG zulässig.
 
-<sup>2</sup> Die Waren werden von der EZV verwertet. Allfällige Kosten, die durch die Aufgabe der Ware entstehen, müssen von der anmeldepflichtigen Person getragen werden.
+<sup>2</sup> Die Waren werden vom BAZG verwertet. Allfällige Kosten, die durch die Aufgabe der Ware entstehen, müssen von der anmeldepflichtigen Person getragen werden.
 
-<sup>3</sup> Anstelle des Freihandverkaufs kann die EZV die Waren an anerkannte gemeinnützige Organisationen und Hilfswerke oder an bedürftige Personen abgeben.
+<sup>3</sup> Anstelle des Freihandverkaufs kann das BAZG die Waren an anerkannte gemeinnützige Organisationen und Hilfswerke oder an bedürftige Personen abgeben.
 
 ### 2. Kapitel: Veranlagung
 
@@ -1388,7 +1388,7 @@ Die anmeldepflichtige Person hat das Recht:
 
 Die summarische Prüfung umfasst:
 
-- a. eine Prüfung der Plausibilität der von der anmeldepflichtigen Person übermittelten Zollanmeldung durch das elektronische Datenverarbeitungssystem der EZV;
+- a. eine Prüfung der Plausibilität der von der anmeldepflichtigen Person übermittelten Zollanmeldung durch das elektronische Datenverarbeitungssystem des BAZG;
 - b. die automatische Zurückweisung der Zollanmeldung, wenn das Datenverarbeitungssystem Fehler feststellt.
 
 #### Art. 85
@@ -1413,7 +1413,7 @@ Die Berichtigung darf sich nur auf die ursprünglich angemeldeten Waren beziehen
 
 ### (Art. 34 Abs. 2 ZG)
 
-<sup>1</sup> Die anmeldepflichtige Person kann ein Gesuch um Berichtigung der angenommenen Zollanmeldung für Waren einreichen, die den Gewahrsam der EZV bereits verlassen haben.
+<sup>1</sup> Die anmeldepflichtige Person kann ein Gesuch um Berichtigung der angenommenen Zollanmeldung für Waren einreichen, die den Gewahrsam des BAZG bereits verlassen haben.
 
 <sup>2</sup>
 
@@ -1485,7 +1485,7 @@ Die Zollstelle eröffnet der anmeldepflichtigen Person die Veranlagungsverfügun
 
 <sup>1</sup>
 
-Die EZV kann bei folgenden Zollverfahren provisorisch veranlagen:
+Das BAZG kann bei folgenden Zollverfahren provisorisch veranlagen:
 
 - a. Überführung in den zollrechtlich freien Verkehr;
 - b. Verfahren der vorübergehenden Verwendung;
@@ -1508,7 +1508,7 @@ Gründe für eine provisorische Veranlagung können namentlich vorliegen, wenn:
 Die anmeldepflichtige Person kann keine provisorische Veranlagung beantragen, wenn:
 
 - a. die Absicht besteht, ein Gesuch um Herabsetzung von Zollansätzen für bestimmte Verwendungen nach Artikel 14 Absatz 2 ZG zu stellen oder wenn ein solches Gesuch hängig ist;
-- b. die Ware nicht mehr im Gewahrsam der EZV steht.
+- b. die Ware nicht mehr im Gewahrsam des BAZG steht.
 
 [^93-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
 
@@ -1551,7 +1551,7 @@ Folgende Personen müssen die Daten und Dokumente nach Artikel 94 aufbewahren:
 
 Es müssen aufbewahrt werden:
 
-- a. im elektronischen Verkehr an die EZV übermittelte Daten: während mindestens dreier Monate ab der erfolgreichen Übermittlung;
+- a. im elektronischen Verkehr an das BAZG übermittelte Daten: während mindestens dreier Monate ab der erfolgreichen Übermittlung;
 - b. Daten und Dokumente im Zusammenhang mit Waren des Reiseverkehrs: während mindestens eines Jahres;
 - c.[^96-1] Belege zu Ursprungsnachweisen: während mindestens drei Jahren;
 - d.[^96-2] Daten und Dokumente in den übrigen Fällen, namentlich die Warenbuchhaltung sowie die Fabrikationsunterlagen über den Veredelungsverkehr und über Waren mit Zollerleichterungen je nach Verwendungszweck: während mindestens fünf Jahren.
@@ -1599,7 +1599,7 @@ Die aufbewahrungspflichtige Person muss:
 
 ### (Art. 41 ZG)
 
-Führt die EZV während der Aufbewahrungsdauer (Art. 96) eine Kontrolle durch, so kann sie die Veranlagungsverfügung entsprechend dem zum Zeitpunkt der damaligen Veranlagung höchsten Zollansatz, der nach der Art der betroffenen Ware anwendbar ist, korrigieren und die Zollabgaben nachfordern, wenn:
+Führt das BAZG während der Aufbewahrungsdauer (Art. 96) eine Kontrolle durch, so kann es die Veranlagungsverfügung entsprechend dem zum Zeitpunkt der damaligen Veranlagung höchsten Zollansatz, der nach der Art der betroffenen Ware anwendbar ist, korrigieren und die Zollabgaben nachfordern, wenn:
 
 - a. die aufbewahrungspflichtige Person nicht in der Lage ist, die erforderlichen Daten und Dokumente, die eine Zollermässigung, Zollbefreiung oder Zollerleichterung nachweisen, in der verlangten Weise vorzulegen; und
 - b. aus den gesamten Umständen geschlossen werden muss, dass die Veranlagung falsch ist, und dies zum Zeitpunkt der Veranlagung nicht ohne Weiteres erkennbar war.
@@ -1614,7 +1614,7 @@ Führt die EZV während der Aufbewahrungsdauer (Art. 96) eine Kontrolle durch, s
 
 ### (Art. 42 Abs. 1 Bst. a und d ZG)
 
-Eine zugelassene Versenderin oder ein zugelassener Versender ist eine Person, die von der EZV ermächtigt ist, Waren direkt von ihrem Domizil oder von zugelassenen Orten aus zu versenden, ohne dass die Waren der Abgangszollstelle zugeführt werden müssen.
+Eine zugelassene Versenderin oder ein zugelassener Versender ist eine Person, die vom BAZG ermächtigt ist, Waren direkt von ihrem Domizil oder von zugelassenen Orten aus zu versenden, ohne dass die Waren der Abgangszollstelle zugeführt werden müssen.
 
 #### Art. 101
 
@@ -1622,7 +1622,7 @@ Eine zugelassene Versenderin oder ein zugelassener Versender ist eine Person, di
 
 ### (Art. 42 Abs. 1 Bst. a und d ZG)
 
-Eine zugelassene Empfängerin oder ein zugelassener Empfänger ist eine Person, die von der EZV ermächtigt ist, Waren direkt an ihrem Domizil oder an zugelassenen Orten zu empfangen, ohne dass die Waren der Bestimmungszollstelle zugeführt werden müssen.
+Eine zugelassene Empfängerin oder ein zugelassener Empfänger ist eine Person, die vom BAZGermächtigt ist, Waren direkt an ihrem Domizil oder an zugelassenen Orten zu empfangen, ohne dass die Waren der Bestimmungszollstelle zugeführt werden müssen.
 
 #### Art. 102
 
@@ -1630,7 +1630,7 @@ Eine zugelassene Empfängerin oder ein zugelassener Empfänger ist eine Person, 
 
 ### (Art. 42 Abs. 1 Bst. a und d ZG)
 
-Zugelassene Orte sind die durch die EZV bezeichneten Orte:
+Zugelassene Orte sind die durch das BAZG bezeichneten Orte:
 
 - a. denen eine zugelassene Empfängerin oder ein zugelassener Empfänger die zu empfangenden Waren zuführen darf;
 - b. von denen eine zugelassene Versenderin oder ein zugelassener Versender die zu versendenden Waren abtransportieren darf.
@@ -1643,7 +1643,7 @@ Zugelassene Orte sind die durch die EZV bezeichneten Orte:
 
 <sup>1</sup>
 
-Die EZV kann einer anmeldepflichtigen Person eine Bewilligung als zugelassene Versenderin oder zugelassener Versender oder als zugelassene Empfängerin oder zugelassener Empfänger erteilen, wenn folgende Voraussetzungen erfüllt sind:
+Das BAZG kann einer anmeldepflichtigen Person eine Bewilligung als zugelassene Versenderin oder zugelassener Versender oder als zugelassene Empfängerin oder zugelassener Empfänger erteilen, wenn folgende Voraussetzungen erfüllt sind:
 
 - a. Die Person versendet oder empfängt laufend Waren.
 - b. Die Person gibt ihr Domizil und die Orte, die zugelassen werden sollen, an.
@@ -1651,20 +1651,20 @@ Die EZV kann einer anmeldepflichtigen Person eine Bewilligung als zugelassene Ve
 - d. Die Person organisiert Verwaltung und Betrieb so, dass der Lauf einer Sendung und der Zollstatus der Waren jederzeit lückenlos nachgeprüft werden können.
 - e. Das Domizil der Person und die Orte, die zugelassen werden sollen, befinden sich im Zollgebiet und so nahe bei einer Zollstelle, dass Kontrollen mit einem verhältnismässigen Verwaltungsaufwand möglich sind.
 
-<sup>2</sup> In der Bewilligung werden die Bedingungen und Auflagen für das Verfahren festgelegt. Die EZV kann bestimmte Waren vom Verfahren ausschliessen.
+<sup>2</sup> In der Bewilligung werden die Bedingungen und Auflagen für das Verfahren festgelegt. Das BAZG kann bestimmte Waren vom Verfahren ausschliessen.
 
 <sup>3</sup> Die Bewilligung legt die zuständige Abgangs- oder Bestimmungszollstelle (Kontrollzollstelle) fest.
 
 <sup>4</sup>
 
-Die EZV verweigert die Bewilligung, wenn die gesuchstellende Person:
+Das BAZG verweigert die Bewilligung, wenn die gesuchstellende Person:
 
 - a. keine Gewähr für einen ordnungsgemässen Ablauf des Verfahrens bietet; oder
-- b. eine schwere Widerhandlung oder wiederholt Widerhandlungen gegen Bundesrecht begangen hat, soweit dessen Vollzug der EZV obliegt.[^103-1]
+- b. eine schwere Widerhandlung oder wiederholt Widerhandlungen gegen Bundesrecht begangen hat, soweit dessen Vollzug dem BAZG obliegt.[^103-1]
 
-<sup>5</sup> Sie entscheidet spätestens 60 Tage nach Erhalt der vollständigen Unterlagen über die Bewilligung.[^103-2]
+<sup>5</sup> Es entscheidet spätestens 60 Tage nach Erhalt der vollständigen Unterlagen über die Bewilligung.[^103-2]
 
-<sup>6</sup> Die Bewilligungsinhaberin oder der Bewilligungsinhaber muss der EZV alle Änderungen mitteilen, die die Voraussetzungen für die Bewilligung betreffen.[^103-3]
+<sup>6</sup> Die Bewilligungsinhaberin oder der Bewilligungsinhaber muss dem BAZG alle Änderungen mitteilen, die die Voraussetzungen für die Bewilligung betreffen.[^103-3]
 
 [^103-1]: Fassung gemäss Ziff. I 6 der V vom 6. Juni 2014 über die Ordnungsfristen im Zuständigkeitsbereich der Eidgenössischen Zollverwaltung, in Kraft seit 1. Sept. 2014 ([AS 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
 [^103-2]: Fassung gemäss Ziff. I 6 der V vom 6. Juni 2014 über die Ordnungsfristen im Zuständigkeitsbereich der Eidgenössischen Zollverwaltung, in Kraft seit 1. Sept. 2014 ([AS 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
@@ -1676,11 +1676,11 @@ Die EZV verweigert die Bewilligung, wenn die gesuchstellende Person:
 
 ### (Art. 42 Abs. 1 Bst. a und d ZG)
 
-Die EZV entzieht die Bewilligung, wenn die Bewilligungsinhaberin oder der Bewilligungsinhaber:
+Das BAZG entzieht die Bewilligung, wenn die Bewilligungsinhaberin oder der Bewilligungsinhaber:
 
 - a. die Voraussetzungen für die Erteilung der Bewilligung nicht mehr erfüllt;
 - b. die in der Bewilligung festgelegten Bedingungen und Auflagen nicht einhält; oder
-- c. wiederholt Widerhandlungen gegen Bundesrecht begeht, soweit dessen Vollzug der EZV obliegt.
+- c. wiederholt Widerhandlungen gegen Bundesrecht begeht, soweit dessen Vollzug dem BAZG obliegt.
 
 #### Art. 105
 
@@ -1722,7 +1722,7 @@ Für eine Sendung können mehrere Zollanmeldungen eingereicht werden, sofern dad
 - a. keine Abgabenschmälerung erreicht wird; und
 - b. keine nichtzollrechtlichen Erlasse umgangen werden.
 
-<sup>4</sup> Die EZV kann die Bewilligung für die Anwendung der vereinfachten Zollanmeldung verweigern oder entziehen, wenn die Abgabenerhebung oder die Einhaltung nichtzollrechtlicher Erlasse gefährdet ist oder wenn die in der Bewilligung nach Artikel 103 festgelegten Bedingungen und Auflagen nicht eingehalten werden.
+<sup>4</sup> Das BAZG kann die Bewilligung für die Anwendung der vereinfachten Zollanmeldung verweigern oder entziehen, wenn die Abgabenerhebung oder die Einhaltung nichtzollrechtlicher Erlasse gefährdet ist oder wenn die in der Bewilligung nach Artikel 103 festgelegten Bedingungen und Auflagen nicht eingehalten werden.
 
 [^105a-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
@@ -1732,10 +1732,10 @@ Für eine Sendung können mehrere Zollanmeldungen eingereicht werden, sofern dad
 
 ### (Art. 42 Abs. 1 Bst. a und d ZG)
 
-Die EZV verpflichtet die zugelassene Empfängerin oder den zugelassenen Empfänger, die vereinfachte Zollanmeldung anzuwenden, wenn die Preisüberwachung:
+Das BAZG verpflichtet die zugelassene Empfängerin oder den zugelassenen Empfänger, die vereinfachte Zollanmeldung anzuwenden, wenn die Preisüberwachung:
 
 - a. feststellt, dass die zugelassene Empfängerin oder der zugelassene Empfänger ein im Vergleich zu anderen Anbieterinnen und Anbietern unverhältnismässig hohes Entgelt für die Verzollung verlangt; und
-- b. der EZV einen entsprechenden Antrag stellt.
+- b. dem BAZG einen entsprechenden Antrag stellt.
 
 [^105b-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
@@ -1745,7 +1745,7 @@ Die EZV verpflichtet die zugelassene Empfängerin oder den zugelassenen Empfäng
 
 ### (Art. 38 und 42 ZG)
 
-Die EZV kann in der Bewilligung nach Artikel 103 festlegen, dass für Sendungen nach Artikel 105*a* Absatz 2 keine Veranlagungsverfügung ausgestellt wird.
+Das BAZG kann in der Bewilligung nach Artikel 103 festlegen, dass für Sendungen nach Artikel 105*a* Absatz 2 keine Veranlagungsverfügung ausgestellt wird.
 
 [^105c-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
@@ -1842,7 +1842,7 @@ Das Verfahren des zugelassenen Empfangs findet Anwendung auf Waren, die im Trans
 
 ### (Art. 42*a* ZG)
 
-<sup>1</sup> Der Status des zugelassenen Wirtschaftsbeteiligten («Authorised Economic Operator», AEO) wird von der EZV erteilt.
+<sup>1</sup> Der Status des zugelassenen Wirtschaftsbeteiligten («Authorised Economic Operator», AEO) wird vom BAZG erteilt.
 
 <sup>2</sup> Ein AEO gilt hinsichtlich der Sicherheit der internationalen Lieferkette als zuverlässig.
 
@@ -1889,7 +1889,7 @@ Personen erhalten auf Antrag den AEO-Status, wenn sie die Kriterien nach den Art
 
 ### (Art. 42*a* ZG)
 
-Die Zollvorschriften gelten als eingehalten, wenn die folgenden Personen in den drei Jahren vor der Antragstellung weder eine schwere strafrechtliche Widerhandlung noch wiederholte strafrechtliche Widerhandlungen gegen Bundesrecht, dessen Vollzug der EZV obliegt, begangen haben:
+Die Zollvorschriften gelten als eingehalten, wenn die folgenden Personen in den drei Jahren vor der Antragstellung weder eine schwere strafrechtliche Widerhandlung noch wiederholte strafrechtliche Widerhandlungen gegen Bundesrecht, dessen Vollzug dem BAZG obliegt, begangen haben:
 
 - a. die antragstellende Person;
 - b. die Personen, die für das antragstellende Unternehmen verantwortlich sind oder die Kontrolle über dessen Leitung ausüben;
@@ -1912,7 +1912,7 @@ Das System zur Führung der Geschäftsbücher und gegebenenfalls der Beförderun
 - d. über eine der Art und Grösse des Unternehmens entsprechende und für die Verwaltung der Warenbewegungen geeignete Verwaltungsorganisation sowie über ein internes Kontrollsystem verfügt, das ermöglicht, Fehler zu verhindern, zu erkennen und zu korrigieren sowie illegale oder nicht ordnungsgemässe Geschäfte zu erkennen;
 - e. gegebenenfalls über Abläufe für die Verwaltung von Einfuhr- und Ausfuhrbeschränkungen im Zusammenhang mit nichtzollrechtlichen Erlassen verfügt, die es ermöglichen, Waren, die solchen Beschränkungen unterworfen sind, von anderen Waren zu unterscheiden;
 - f. über Abläufe für die Archivierung der Daten und Dokumente des Unternehmens und für den Schutz vor Verlust verfügt;
-- g. sicherstellt, dass die EZV informiert wird, wenn im Unternehmen Unsicherheit darüber besteht, wie eine Vorschrift anzuwenden ist;
+- g. sicherstellt, dass das BAZG informiert wird, wenn im Unternehmen Unsicherheit darüber besteht, wie eine Vorschrift anzuwenden ist;
 - h. informationstechnische Schutzmassnahmen ergriffen hat, mit denen das Computersystem des Unternehmens vor unbefugtem Eindringen geschützt und dessen Daten gesichert werden.
 
 [^112e-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
@@ -1978,16 +1978,16 @@ Die Sicherheitsstandards gelten als geeignet, wenn die antragstellende Person na
 
 [^112i-1]
 
-<sup>1</sup> Der Antrag auf Verleihung des AEO-Status muss mit dem offiziellen Formular bei der EZV eingereicht werden.
+<sup>1</sup> Der Antrag auf Verleihung des AEO-Status muss mit dem offiziellen Formular beim BAZG eingereicht werden.
 
 <sup>2</sup>
 
 Dem Antrag müssen folgende Dokumente beigelegt werden:
 
-- a. der vollständig ausgefüllte Fragebogen der EZV;
-- b. weitere Unterlagen, welche die EZV für die Prüfung des Antrags als notwendig erachtet.
+- a. der vollständig ausgefüllte Fragebogen des BAZG;
+- b. weitere Unterlagen, welche das BAZG für die Prüfung des Antrags als notwendig erachtet.
 
-<sup>3</sup> Die EZV veröffentlicht die Liste der erforderlichen Unterlagen nach Absatz 2 Buchstabe b in geeigneter Weise.
+<sup>3</sup> Das BAZG veröffentlicht die Liste der erforderlichen Unterlagen nach Absatz 2 Buchstabe b in geeigneter Weise.
 
 [^112i-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
@@ -2001,12 +2001,12 @@ Dem Antrag müssen folgende Dokumente beigelegt werden:
 
 <sup>1</sup>
 
-Die EZV prüft innerhalb von 30 Tagen nach Erhalt der Unterlagen, ob:
+Das BAZG prüft innerhalb von 30 Tagen nach Erhalt der Unterlagen, ob:
 
 - a. die formellen Voraussetzungen nach Artikel 112*b* erfüllt sind; und
 - b. die erforderlichen Unterlagen nach Artikel 112*i* eingereicht wurden.[^112j-2]
 
-<sup>2</sup> Erfüllt die antragstellende Person die Voraussetzungen nicht, so eröffnet die EZV ihr dies mit einem Nichteintretensentscheid.
+<sup>2</sup> Erfüllt die antragstellende Person die Voraussetzungen nicht, so eröffnet das BAZG ihr dies mit einem Nichteintretensentscheid.
 
 <sup>3</sup> Gegen den Nichteintretensentscheid kann Beschwerde nach Artikel 116 ZG geführt werden.
 
@@ -2021,19 +2021,19 @@ Die EZV prüft innerhalb von 30 Tagen nach Erhalt der Unterlagen, ob:
 
 [^112k-1]
 
-<sup>1</sup> Die EZV prüft die Einhaltung der Kriterien nach den Artikeln 112*c*–112*h*. Die Prüfung erfolgt aufgrund der eingereichten Unterlagen sowie von Kontrollen am Domizil der antragstellenden Person.
+<sup>1</sup> Das BAZG prüft die Einhaltung der Kriterien nach den Artikeln 112*c*–112*h*. Die Prüfung erfolgt aufgrund der eingereichten Unterlagen sowie von Kontrollen am Domizil der antragstellenden Person.
 
-<sup>2</sup> Die EZV berücksichtigt dabei die besonderen Merkmale des Geschäftsbetriebs der antragstellenden Person wie Art, Grösse und Geschäftsfeld.
+<sup>2</sup> Das BAZG berücksichtigt dabei die besonderen Merkmale des Geschäftsbetriebs der antragstellenden Person wie Art, Grösse und Geschäftsfeld.
 
-<sup>3</sup> Sie kann weitere Unterlagen und Informationen verlangen, wenn sie dies für die Prüfung des Antrags als notwendig erachtet.
+<sup>3</sup> Es kann weitere Unterlagen und Informationen verlangen, wenn sie dies für die Prüfung des Antrags als notwendig erachtet.
 
-<sup>4</sup> Sie dokumentiert den Prüfungsvorgang und dessen Ergebnis.
+<sup>4</sup> Es dokumentiert den Prüfungsvorgang und dessen Ergebnis.
 
-<sup>5</sup> Wenn das Ergebnis der Prüfung zur Ablehnung des Antrags führt, gibt die EZV der antragstellenden Person Gelegenheit, innerhalb einer festgesetzten Frist Stellung zu nehmen und korrigierende Massnahmen zu ergreifen.
+<sup>5</sup> Wenn das Ergebnis der Prüfung zur Ablehnung des Antrags führt, gibt das BAZG der antragstellenden Person Gelegenheit, innerhalb einer festgesetzten Frist Stellung zu nehmen und korrigierende Massnahmen zu ergreifen.
 
-<sup>6</sup> Die EZV entscheidet innerhalb von 180 Tagen nach der formellen Prüfung des Antrags nach Artikel 112*j* über die Verleihung des AEO-Status.[^112k-2]
+<sup>6</sup> Das BAZG entscheidet innerhalb von 180 Tagen nach der formellen Prüfung des Antrags nach Artikel 112*j* über die Verleihung des AEO-Status.[^112k-2]
 
-<sup>7</sup> Ist gegen eine Person nach Artikel 112*d* ein Strafverfahren wegen einer schweren Widerhandlung oder wegen wiederholter Widerhandlungen im Sinne von Artikel 112*d* oder 112*g* Buchstabe a hängig und ist der Ausgang des Verfahrens relevant für die Beurteilung, ob die Voraussetzungen für die Erteilung des AEO-Status erfüllt sind, so sistiert die EZV die materielle Prüfung des Antrags.[^112k-3]
+<sup>7</sup> Ist gegen eine Person nach Artikel 112*d* ein Strafverfahren wegen einer schweren Widerhandlung oder wegen wiederholter Widerhandlungen im Sinne von Artikel 112*d* oder 112*g* Buchstabe a hängig und ist der Ausgang des Verfahrens relevant für die Beurteilung, ob die Voraussetzungen für die Erteilung des AEO-Status erfüllt sind, so sistiert das BAZG die materielle Prüfung des Antrags.[^112k-3]
 
 [^112k-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 [^112k-2]: Eingefügt durch Ziff. I 6 der V vom 6. Juni 2014 über die Ordnungsfristen im Zuständigkeitsbereich der Eidgenössischen Zollverwaltung, in Kraft seit 1. Sept. 2014 ([AS 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
@@ -2051,7 +2051,7 @@ Die EZV prüft innerhalb von 30 Tagen nach Erhalt der Unterlagen, ob:
 
 <sup>2</sup>
 
-Die EZV anerkennt folgende Nachweise:[^112l-3]
+Das BAZG anerkennt folgende Nachweise:[^112l-3]
 
 - a. ein auf der Grundlage einer internationalen Übereinkunft ausgestelltes international anerkanntes Sicherheitszeugnis;
 - b. ein auf der Grundlage des Gemeinschaftsrechts ausgestelltes europäisches Sicherheitszeugnis;
@@ -2085,7 +2085,7 @@ Die EZV anerkennt folgende Nachweise:[^112l-3]
 
 [^112n-1]
 
-Lehnt die EZV den Antrag ab, so teilt sie dies der antragstellenden Person mit Verfügung mit.
+Lehnt das BAZG den Antrag ab, so teilt es dies der antragstellenden Person mit Verfügung mit.
 
 [^112n-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
@@ -2097,9 +2097,9 @@ Lehnt die EZV den Antrag ab, so teilt sie dies der antragstellenden Person mit V
 
 [^112o-1]
 
-<sup>1</sup> Der AEO muss die EZV umgehend über Änderungen informieren, die sich in dem vom AEO-Status erfassten Bereich ergeben oder seine Aufrechterhaltung gefährden könnten.
+<sup>1</sup> Der AEO muss das BAZG umgehend über Änderungen informieren, die sich in dem vom AEO-Status erfassten Bereich ergeben oder seine Aufrechterhaltung gefährden könnten.
 
-<sup>2</sup> Er muss der EZV auf Verlangen alle Auskünfte erteilen und alle Unterlagen vorlegen, die für den Vollzug der Vorschriften von Bedeutung sein können.
+<sup>2</sup> Er muss dem BAZG auf Verlangen alle Auskünfte erteilen und alle Unterlagen vorlegen, die für den Vollzug der Vorschriften von Bedeutung sein können.
 
 [^112o-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
@@ -2111,7 +2111,7 @@ Lehnt die EZV den Antrag ab, so teilt sie dies der antragstellenden Person mit V
 
 [^112p-1]
 
-<sup>1</sup> Die EZV kann Kontrollen des Geschäftsbetriebs der antragstellenden Person beziehungsweise des AEO vornehmen.
+<sup>1</sup> Das BAZG kann Kontrollen des Geschäftsbetriebs der antragstellenden Person beziehungsweise des AEO vornehmen.
 
 <sup>2</sup> Sie kann Bauten und Anlagen kontrollieren, Auskünfte verlangen, Daten und Dokumente sowie Systeme und Informationen überprüfen, die für den Vollzug der Vorschriften von Bedeutung sein können.
 
@@ -2125,16 +2125,16 @@ Lehnt die EZV den Antrag ab, so teilt sie dies der antragstellenden Person mit V
 
 [^112q-1]
 
-<sup>1</sup> Die EZV ist befugt zu kontrollieren, ob der AEO die Voraussetzungen und Kriterien weiterhin erfüllt.
+<sup>1</sup> Das BAZG ist befugt zu kontrollieren, ob der AEO die Voraussetzungen und Kriterien weiterhin erfüllt.
 
 <sup>2</sup>
 
-Sie nimmt eine erneute Überprüfung insbesondere dann vor, wenn:
+Es nimmt eine erneute Überprüfung insbesondere dann vor, wenn:
 
 - a. sich die Rechtsgrundlagen massgebend ändern; oder
 - b. ein begründeter Verdacht vorliegt, dass der AEO die Voraussetzungen und Kriterien nicht mehr erfüllt.
 
-<sup>3</sup> …[^112q-2]
+<sup>3</sup> ...[^112q-2]
 
 [^112q-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 [^112q-2]: Aufgehoben durch Ziff. I der V vom 18. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
@@ -2147,7 +2147,7 @@ Sie nimmt eine erneute Überprüfung insbesondere dann vor, wenn:
 
 <sup>1</sup>
 
-Die EZV sistiert den AEO-Status, wenn sie feststellt oder hinreichenden Grund zur Annahme hat, dass:
+Das BAZG sistiert den AEO-Status, wenn es feststellt oder hinreichenden Grund zur Annahme hat, dass:
 
 - a. die Voraussetzungen nach den Artikeln 112*b*, 112*e* und 112*g* Buchstaben b–h nicht mehr erfüllt sind;
 - b. eine Person nach Artikel 112*d* einer schweren strafrechtlichen Widerhandlung oder wiederholter strafrechtlicher Widerhandlungen im Sinne von Artikel 112*d* oder 112*g* Buchstabe a dringend verdächtigt wird;
@@ -2159,15 +2159,15 @@ Die EZV sistiert den AEO-Status, wenn sie feststellt oder hinreichenden Grund zu
   - 2\. ein Gesuch um einen Nachlassvertrag im Sinne von Artikel 293 SchKG gestellt hat oder gegen ihn ein Konkursbegehren im Sinne von Artikel 166 und 190–193 SchKG gestellt worden ist, oder
   - 3\. geschuldete Zölle oder andere geschuldete Steuern, Abgaben und Gebühren nicht entrichtet hat.
 
-<sup>2</sup> Sie sistiert den AEO-Status zudem, wenn der AEO darum ersucht.
+<sup>2</sup> Es sistiert den AEO-Status zudem, wenn der AEO darum ersucht.
 
 <sup>3</sup> Die Sistierung erfolgt mit sofortiger Wirkung, wenn die Sicherheit und die Gesundheit der Bevölkerung oder die Umwelt dies erfordert.
 
 <sup>4</sup> Die Sistierung hat keine Auswirkung auf Zollveranlagungsverfahren, die bereits vor dem Zeitpunkt der Sistierung eingeleitet wurden.
 
-<sup>5</sup> Die EZV setzt die Dauer der Sistierung angemessen fest.
+<sup>5</sup> Das BAZG setzt die Dauer der Sistierung angemessen fest.
 
-<sup>6</sup> Erfüllt der AEO die Voraussetzungen erneut, so hebt die EZV die Sistierung auf.
+<sup>6</sup> Erfüllt der AEO die Voraussetzungen erneut, so hebt das BAZG die Sistierung auf.
 
 [^112r-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
@@ -2179,12 +2179,12 @@ Die EZV sistiert den AEO-Status, wenn sie feststellt oder hinreichenden Grund zu
 
 <sup>1</sup>
 
-Die EZV widerruft den AEO-Status, wenn eine Person nach Artikel 112*d*:
+Das BAZG widerruft den AEO-Status, wenn eine Person nach Artikel 112*d*:
 
 - a. eine schwere strafrechtliche Widerhandlung oder wiederholte strafrechtliche Widerhandlungen im Sinne von Artikel 112*d* oder 112*g* Buchstabe a begangen hat und der strafrechtliche Entscheid rechtskräftig ist; oder
 - b. während der Dauer der Sistierung nicht die erforderlichen Massnahmen getroffen hat.
 
-<sup>2</sup> Sie widerruft den AEO-Status zudem, wenn der AEO darum ersucht.
+<sup>2</sup> Es widerruft den AEO-Status zudem, wenn der AEO darum ersucht.
 
 [^112s-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
@@ -2216,7 +2216,7 @@ Sieht ein internationaler Vertrag eine summarische Ein- und Ausgangsanmeldung zu
 Für Waren des Reiseverkehrs erfolgt die Zollanmeldung:
 
 - a. mündlich; oder
-- b. durch eine andere von der EZV zugelassene Form der Willensäusserung.
+- b. durch eine andere vom BAZG zugelassene Form der Willensäusserung.
 
 <sup>2</sup> Bestehen zwischen der anmeldepflichtigen Person und der Zollstelle Verständigungsschwierigkeiten, so kann die Zollanmeldung nach Beschau erfolgen.
 
@@ -2238,7 +2238,7 @@ Die Zollstelle stellt im Reiseverkehr die Veranlagungsverfügung nur für abgabe
 
 ### 5. Abschnitt: Periodische Sammelanmeldung
 
-### …
+### ...
 
 [^tit2-chap3-sec5-1]
 
@@ -2252,14 +2252,14 @@ Die Zollstelle stellt im Reiseverkehr die Veranlagungsverfügung nur für abgabe
 
 <sup>1</sup>
 
-Die EZV kann im Regionalverkehr für Ladungen einheitlicher Warengattungen wie Asphalt, Kies, Mörtel, Sägemehl, Stammholz und Tonerde auf schriftliches Gesuch hin die periodische Sammelanmeldung bewilligen, wenn:
+Das BAZG kann im Regionalverkehr für Ladungen einheitlicher Warengattungen wie Asphalt, Kies, Mörtel, Sägemehl, Stammholz und Tonerde auf schriftliches Gesuch hin die periodische Sammelanmeldung bewilligen, wenn:
 
 - a. die Ein- oder Ausfuhr regelmässig und über die gleiche Zollstelle erfolgt; und
 - b. es die betrieblichen Verhältnisse der Zollstelle erlauben.
 
-<sup>1bis</sup> Sie entscheidet spätestens 30 Tage nach Erhalt der vollständigen Unterlagen über die Bewilligung.[^116-2]
+<sup>1bis</sup> Es entscheidet spätestens 30 Tage nach Erhalt der vollständigen Unterlagen über die Bewilligung.[^116-2]
 
-<sup>2</sup> Sie bezeichnet in der Bewilligung die Waren, auf welche die periodische Sammelanmeldung anwendbar ist.
+<sup>2</sup> Es bezeichnet in der Bewilligung die Waren, auf welche die periodische Sammelanmeldung anwendbar ist.
 
 <sup>3</sup>
 
@@ -2268,7 +2268,7 @@ Von der periodischen Sammelanmeldung sind namentlich Waren ausgeschlossen:
 - a. die einer Bewilligungspflicht unterliegen;
 - b. für die Zollkontingente bestehen.
 
-<sup>4</sup> Die Bewilligungsinhaberin oder der Bewilligungsinhaber muss der EZV für die voraussichtlich je Abrechnungsperiode geschuldeten Abgaben eine Sicherheit leisten.
+<sup>4</sup> Die Bewilligungsinhaberin oder der Bewilligungsinhaber muss dem BAZG für die voraussichtlich je Abrechnungsperiode geschuldeten Abgaben eine Sicherheit leisten.
 
 [^tit2-chap3-sec5-1]: Referenz aufgehoben durch Ziff. I 6 der V vom 6. Juni 2014 über die Ordnungsfristen im Zuständigkeitsbereich der Eidgenössischen Zollverwaltung, mit Wirkung seit 1. Sept. 2014 ([AS 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
 [^116-1]: Eingefügt durch Ziff. I 6 der V vom 6. Juni 2014 über die Ordnungsfristen im Zuständigkeitsbereich der Eidgenössischen Zollverwaltung, in Kraft seit 1. Sept. 2014 ([AS 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
@@ -2280,11 +2280,11 @@ Von der periodischen Sammelanmeldung sind namentlich Waren ausgeschlossen:
 
 ### (Art. 42 Abs. 1 Bst. c ZG)
 
-Die EZV entzieht die Bewilligung, wenn die Bewilligungsinhaberin oder der Bewilligungsinhaber:
+Das BAZG entzieht die Bewilligung, wenn die Bewilligungsinhaberin oder der Bewilligungsinhaber:
 
 - a. die Voraussetzungen für die Erteilung der Bewilligung nicht mehr erfüllt;
 - b. die in der Bewilligung festgelegten Bedingungen und Auflagen nicht einhält; oder
-- c. wiederholt Widerhandlungen gegen Bundesrecht begeht, soweit dessen Vollzug der EZV obliegt.
+- c. wiederholt Widerhandlungen gegen Bundesrecht begeht, soweit dessen Vollzug dem BAZG obliegt.
 
 ### 6. Abschnitt: Grenzzonenverkehr
 
@@ -2305,7 +2305,7 @@ Die bewirtschaftende Person, die für rohe Bodenerzeugnisse, Trauben und Wein Zo
 
 <sup>3</sup> Der Ertragsausweis ist nur für das laufende Jahr und für die darin angegebenen Erzeugnisse und Mengen gültig.
 
-<sup>4</sup> Die bewirtschaftende Person muss jede Einfuhr von Waren in der von der EZV vorgeschriebenen Form anmelden.[^118-1]
+<sup>4</sup> Die bewirtschaftende Person muss jede Einfuhr von Waren in der vom BAZG vorgeschriebenen Form anmelden.[^118-1]
 
 [^118-1]: Eingefügt durch Ziff. I der V vom 22. April 2009, in Kraft seit 1. Juni 2009 ([AS 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
@@ -2327,7 +2327,7 @@ Die bewirtschaftende Person, die für rohe Bodenerzeugnisse, Trauben und Wein Zo
 
 ### (Art. 43 Abs. 4 ZG)
 
-<sup>1</sup> Die EZV kann die Zollüberwachung der Bewirtschaftung von Grundstücken, die von der Zollgrenze durchschnitten werden, erleichtern.
+<sup>1</sup> Das BAZG kann die Zollüberwachung der Bewirtschaftung von Grundstücken, die von der Zollgrenze durchschnitten werden, erleichtern.
 
 <sup>2</sup> Landwirtschaftliche Produktionsmittel zur Bewirtschaftung von Grundstücken, die von der Zollgrenze durchschnitten werden, können formlos aus- und wiedereingeführt werden.
 
@@ -2347,7 +2347,7 @@ Dieser Abschnitt gilt für den grenzüberschreitenden Verkehr von Personen und W
 
 ### (Art. 44 Abs. 1 ZG)
 
-Die Eisenbahnverkehrsunternehmen müssen das Personal der EZV, das in Zügen seine Aufgaben vollzieht, unentgeltlich befördern.
+Die Eisenbahnverkehrsunternehmen müssen das Personal des BAZG, das in Zügen seine Aufgaben vollzieht, unentgeltlich befördern.
 
 #### Art. 123
 
@@ -2355,11 +2355,11 @@ Die Eisenbahnverkehrsunternehmen müssen das Personal der EZV, das in Zügen sei
 
 ### (Art. 44 Abs. 1 ZG)
 
-<sup>1</sup> Die Infrastrukturbetreiberin muss der EZV den voraussichtlichen Fahrplan des grenzüberschreitenden Güterverkehrs zur Kenntnis bringen.
+<sup>1</sup> Die Infrastrukturbetreiberin muss dem BAZG den voraussichtlichen Fahrplan des grenzüberschreitenden Güterverkehrs zur Kenntnis bringen.
 
-<sup>2</sup> Sie muss der EZV die tatsächlichen Fahrten des grenzüberschreitenden Güter- und Personenverkehrs im Voraus melden.
+<sup>2</sup> Sie muss dem BAZG die tatsächlichen Fahrten des grenzüberschreitenden Güter- und Personenverkehrs im Voraus melden.
 
-<sup>3</sup> Die EZV vereinbart mit der Infrastrukturbetreiberin Form, Inhalt und Zeitpunkt der Meldungen.
+<sup>3</sup> Das BAZG vereinbart mit der Infrastrukturbetreiberin Form, Inhalt und Zeitpunkt der Meldungen.
 
 #### Art. 124
 
@@ -2367,7 +2367,7 @@ Die Eisenbahnverkehrsunternehmen müssen das Personal der EZV, das in Zügen sei
 
 ### (Art. 44 Abs. 1 ZG)
 
-Das für die Eisenbahnverkehrsunternehmen tätige Personal muss das Personal der EZV in der von diesem verlangten Weise beim Aufgabenvollzug unterstützen.
+Das für die Eisenbahnverkehrsunternehmen tätige Personal muss das Personal des BAZG in der von diesem verlangten Weise beim Aufgabenvollzug unterstützen.
 
 #### Art. 125
 
@@ -2379,7 +2379,7 @@ Das für die Eisenbahnverkehrsunternehmen tätige Personal muss das Personal der
 
 <sup>2</sup> Es muss die Daten unentgeltlich in der von der Infrastrukturbetreiberin publizierten Form (Netzzugangsbedingungen) übermitteln.
 
-<sup>3</sup> Die Infrastrukturbetreiberin muss die summarische Anmeldung in der festgelegten Form umgehend an die EZV weiterleiten.
+<sup>3</sup> Die Infrastrukturbetreiberin muss die summarische Anmeldung in der festgelegten Form umgehend an das BAZG weiterleiten.
 
 <sup>4</sup> Eisenbahnverkehrsunternehmen, die Strecken mit Schmalspur benützen, sind von der summarischen Anmeldung befreit.
 
@@ -2407,7 +2407,7 @@ Dieser Abschnitt gilt für den grenzüberschreitenden Verkehr von Personen und W
 
 ### (Art. 44 Abs. 1 ZG)
 
-Die Tram- und Busunternehmen müssen das Personal der EZV, das in Trams und Bussen seine Aufgaben vollzieht, unentgeltlich befördern.
+Die Tram- und Busunternehmen müssen das Personal des BAZG, das in Trams und Bussen seine Aufgaben vollzieht, unentgeltlich befördern.
 
 #### Art. 129
 
@@ -2415,11 +2415,11 @@ Die Tram- und Busunternehmen müssen das Personal der EZV, das in Trams und Buss
 
 ### (Art. 44 Abs. 1 ZG)
 
-<sup>1</sup> Im grenzüberschreitenden Personenverkehr muss das Tram- oder Busunternehmen der EZV die nicht regelmässigen Fahrten spätestens am Tag vor der Durchführung der Fahrt melden.
+<sup>1</sup> Im grenzüberschreitenden Personenverkehr muss das Tram- oder Busunternehmen dem BAZG die nicht regelmässigen Fahrten spätestens am Tag vor der Durchführung der Fahrt melden.
 
-<sup>2</sup> Die EZV vereinbart mit dem Tram- oder Busunternehmen die Form und den Inhalt der Meldung.
+<sup>2</sup> Das BAZG vereinbart mit dem Tram- oder Busunternehmen die Form und den Inhalt der Meldung.
 
-<sup>3</sup> Das Tram- oder Busunternehmen muss der EZV umgehend melden, wenn eine gemeldete Fahrt nicht durchgeführt wird.
+<sup>3</sup> Das Tram- oder Busunternehmen muss dem BAZG umgehend melden, wenn eine gemeldete Fahrt nicht durchgeführt wird.
 
 ### 9. Abschnitt: Schiffsverkehr
 
@@ -2437,7 +2437,7 @@ Dieser Abschnitt gilt für alle Schiffe, die zu Wasser aus dem Zollausland komme
 
 ### (Art. 44 Abs. 1 ZG)
 
-Die Schifffahrtsunternehmen müssen das Personal der EZV, das in Schiffen seine Aufgaben vollzieht, unentgeltlich befördern.
+Die Schifffahrtsunternehmen müssen das Personal des BAZG, das in Schiffen seine Aufgaben vollzieht, unentgeltlich befördern.
 
 #### Art. 132
 
@@ -2445,13 +2445,13 @@ Die Schifffahrtsunternehmen müssen das Personal der EZV, das in Schiffen seine 
 
 ### (Art. 44 Abs. 1 ZG)
 
-<sup>1</sup> Das Schifffahrtsunternehmen muss der EZV die nicht regelmässigen Fahrten im grenzüberschreitenden Personenverkehr spätestens am Tag vor der Durchführung der Fahrt melden.
+<sup>1</sup> Das Schifffahrtsunternehmen muss dem BAZG die nicht regelmässigen Fahrten im grenzüberschreitenden Personenverkehr spätestens am Tag vor der Durchführung der Fahrt melden.
 
 <sup>2</sup> Als grenzüberschreitend gilt jeder Personenverkehr, bei dem das Schiff im Zollausland anlegt.
 
-<sup>3</sup> Das Schifffahrtsunternehmen muss der EZV umgehend melden, wenn eine gemeldete Fahrt nicht durchgeführt wird.
+<sup>3</sup> Das Schifffahrtsunternehmen muss dem BAZG umgehend melden, wenn eine gemeldete Fahrt nicht durchgeführt wird.
 
-<sup>4</sup> Die EZV vereinbart mit dem Schifffahrtsunternehmen die Form und den Inhalt der Meldung.
+<sup>4</sup> Das BAZG vereinbart mit dem Schifffahrtsunternehmen die Form und den Inhalt der Meldung.
 
 #### Art. 133
 
@@ -2471,7 +2471,7 @@ Die Schifffahrtsunternehmen müssen das Personal der EZV, das in Schiffen seine 
 
 ### (Art. 44 Abs. 1 ZG)
 
-Das auf Schiffen tätige Personal muss das Personal der EZV beim Aufgabenvollzug in der von diesem verlangten Weise unterstützen.
+Das auf Schiffen tätige Personal muss das Personal des BAZG beim Aufgabenvollzug in der von diesem verlangten Weise unterstützen.
 
 #### Art. 135
 
@@ -2528,7 +2528,7 @@ Dieser Abschnitt gilt für alle aus dem Zollausland eintreffenden oder ins Zolla
 
 <sup>1</sup> Bei Neu- und Umbauten sowie dem Betrieb von Zollflugplätzen ist den Bedürfnissen der Zollüberwachung und der Zollprüfung Rechnung zu tragen.
 
-<sup>2</sup> Projekte, die das Zollveranlagungsverfahren und die Zollgrenze berühren, sind vorgängig der EZV zur Genehmigung zu unterbreiten.
+<sup>2</sup> Projekte, die das Zollveranlagungsverfahren und die Zollgrenze berühren, sind vorgängig dem BAZG zur Genehmigung zu unterbreiten.
 
 #### Art. 140
 
@@ -2544,7 +2544,7 @@ Die Flugplatzhalterin oder der Flugplatzhalter muss namentlich dafür sorgen, da
 - b. die Zollverfahren für Personen und Waren ausreichend getrennt sind;
 - c. alle beteiligten Personen ausreichend informiert werden.
 
-<sup>2</sup> Die EZV legt für jeden Zollflugplatz die Pflichten fest, die sich aus Absatz 1 ergeben.
+<sup>2</sup> Das BAZG legt für jeden Zollflugplatz die Pflichten fest, die sich aus Absatz 1 ergeben.
 
 #### Art. 141
 
@@ -2552,7 +2552,7 @@ Die Flugplatzhalterin oder der Flugplatzhalter muss namentlich dafür sorgen, da
 
 ### (Art. 44 Abs. 1 ZG)
 
-Das auf Zollflugplätzen tätige Personal muss das Personal der EZV in der von diesem verlangten Weise beim Aufgabenvollzug unterstützen.
+Das auf Zollflugplätzen tätige Personal muss das Personal des BAZG in der von diesem verlangten Weise beim Aufgabenvollzug unterstützen.
 
 #### Art. 142
 
@@ -2560,7 +2560,7 @@ Das auf Zollflugplätzen tätige Personal muss das Personal der EZV in der von d
 
 ### (Art. 44 Abs. 1 ZG)
 
-<sup>1</sup> Landung und Abflug dürfen im grenzüberschreitenden Luftverkehr nur auf Zollflugplätzen erfolgen. Flüge in ein oder aus einem Zollausschlussgebiet gelten als grenzüberschreitende Flüge. Die EZV kann Landungen und Abflüge auch ausserhalb von Zollflugplätzen bewilligen. Sie legt in der Bewilligung die Bedingungen fest.[^142-1]
+<sup>1</sup> Landung und Abflug dürfen im grenzüberschreitenden Luftverkehr nur auf Zollflugplätzen erfolgen. Flüge in ein oder aus einem Zollausschlussgebiet gelten als grenzüberschreitende Flüge. Das BAZG kann Landungen und Abflüge auch ausserhalb von Zollflugplätzen bewilligen. Es legt in der Bewilligung die Bedingungen fest.[^142-1]
 
 <sup>2</sup> Muss ein Luftfahrzeug auf einem Flugplatz landen, der kein Zollflugplatz ist, so muss die Flugplatzleitung oder in deren Abwesenheit die Kommandantin oder der Kommandant die nächste Zollstelle benachrichtigen und deren Weisungen befolgen.
 
@@ -2615,7 +2615,7 @@ Im Linienluftverkehr kann die Anmeldung zum Transitverfahren im Zollgebiet auf G
 
 <sup>1</sup>
 
-Für die Überwachung und die Kontrolle des Personen- und Warenverkehrs über die Zollgrenze, für die Bekämpfung und Verfolgung von Zollwiderhandlungen sowie für den Vollzug nichtzollrechtlicher Erlasse des Bundes müssen auf Verlangen der EZV zur Verfügung stellen:
+Für die Überwachung und die Kontrolle des Personen- und Warenverkehrs über die Zollgrenze, für die Bekämpfung und Verfolgung von Zollwiderhandlungen sowie für den Vollzug nichtzollrechtlicher Erlasse des Bundes müssen auf Verlangen dem BAZG zur Verfügung stellen:
 
 - a.[^151-1] die Unternehmen, die im Eisenbahnverkehr, im Busverkehr, im Schiffsverkehr sowie im Flugverkehr grenzüberschreitend Personen oder Waren befördern: Passagier- und Warenlisten, soweit diese überhaupt geführt werden;
 - b. die Flugplatzhalterin oder der Flugplatzhalter: Passagier- und Warenlisten, soweit diese überhaupt geführt werden.
@@ -2630,7 +2630,7 @@ Es müssen folgende Daten zur Verfügung gestellt werden:
 
 <sup>3</sup> Die Pflicht, die Passagier- und Warenlisten zur Verfügung zu stellen, endet sechs Monate nach Durchführung der Beförderung.
 
-<sup>4</sup> Die EZV vernichtet die zur Verfügung gestellten Daten 72 Stunden nach Erhalt.
+<sup>4</sup> Das BAZG vernichtet die zur Verfügung gestellten Daten 72 Stunden nach Erhalt.
 
 [^151-1]: Fassung gemäss Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
@@ -2652,11 +2652,11 @@ Internationale Transitverfahren, die für die Schweiz auf Grund eines völkerrec
 
 ### (Art. 49 Abs. 2 ZG)
 
-<sup>1</sup> Die Identität der Waren wird durch Verschluss gesichert. Zugelassen sind nur Verschlüsse, die die EZV als zweckdienlich erachtet.
+<sup>1</sup> Die Identität der Waren wird durch Verschluss gesichert. Zugelassen sind nur Verschlüsse, die das BAZG als zweckdienlich erachtet.
 
 <sup>2</sup> Die anmeldepflichtige Person muss Art und Anzahl der Verschlüsse in der Zollanmeldung vermerken.
 
-<sup>3</sup> Die EZV kann vom Verschluss absehen, wenn die Identität der Waren durch deren Beschreibung oder andere geeignete Massnahmen gesichert wird.
+<sup>3</sup> Das BAZG kann vom Verschluss absehen, wenn die Identität der Waren durch deren Beschreibung oder andere geeignete Massnahmen gesichert wird.
 
 #### Art. 154
 
@@ -2666,7 +2666,7 @@ Internationale Transitverfahren, die für die Schweiz auf Grund eines völkerrec
 
 <sup>1</sup> Die Transitfrist wird auf die für den Transit erforderliche Zeit festgesetzt.
 
-<sup>2</sup> Aus wichtigen Gründen kann die EZV die Gültigkeitsfrist verlängern.
+<sup>2</sup> Aus wichtigen Gründen kann das BAZG die Gültigkeitsfrist verlängern.
 
 #### Art. 155
 
@@ -2676,7 +2676,7 @@ Internationale Transitverfahren, die für die Schweiz auf Grund eines völkerrec
 
 <sup>1</sup> Der Abschluss des Transitverfahrens muss innerhalb der Gültigkeitsfrist des Transitdokuments bei der Bestimmungszollstelle beantragt werden.
 
-<sup>2</sup> Stellt die EZV Unregelmässigkeiten fest, so verweigert sie den Abschluss des Transitverfahrens und hält die Sicherheit zurück, bisdie mit bedingter Zahlungspflicht veranlagten Einfuhrzollabgaben bezahlt sind.
+<sup>2</sup> Stellt das BAZG Unregelmässigkeiten fest, so verweigert es den Abschluss des Transitverfahrens und hält die Sicherheit zurück, bisdie mit bedingter Zahlungspflicht veranlagten Einfuhrzollabgaben bezahlt sind.
 
 ### 2. Abschnitt: Zolllagerverfahren
 
@@ -2698,12 +2698,12 @@ Lagert die Lagerhalterin oder der Lagerhalter Waren auf eigene Rechnung, so gilt
 
 <sup>2</sup>
 
-Kann die Ware nicht innerhalb von sechs Monaten nach Annahme der Zollanmeldung ausgeführt werden, so kann die Einlagererin oder der Einlagerer bei der EZV beantragen, die Ausfuhrfrist zu verlängern. Die EZV genehmigt das Gesuch, wenn die folgenden Voraussetzungen erfüllt sind:
+Kann die Ware nicht innerhalb von sechs Monaten nach Annahme der Zollanmeldung ausgeführt werden, so kann die Einlagererin oder der Einlagerer beim BAZG beantragen, die Ausfuhrfrist zu verlängern. Das BAZG genehmigt das Gesuch, wenn die folgenden Voraussetzungen erfüllt sind:
 
 - a. Die Erwerberin oder der Erwerber der Ware hat ihren oder seinen Sitz oder Wohnsitz zum Zeitpunkt des Gesuchs ausserhalb des Zollgebiets.
 - b. Die Ware kann aus zureichenden Gründen wie Verzögerungen in der Logistikkette, einem nicht zustandegekommenen Vertrag oder aus Gründen nach Absatz 4 nicht innerhalb von sechs Monaten nach Annahme der Zollanmeldung ausgeführt werden.
 
-<sup>3</sup> Die EZV kann die Frist auf Gesuch hin höchstens dreimal um jeweils höchstens sechs Monate verlängern.
+<sup>3</sup> Das BAZG kann die Frist auf Gesuch hin höchstens dreimal um jeweils höchstens sechs Monate verlängern.
 
 <sup>4</sup> Ist die Einlagererin oder der Einlagerer unverschuldeterweise davon abgehalten worden, namentlich wegen Konkurs der Endempfängerin oder des Endempfängers im Ausland, wegen Naturkatastrophen, wegen Massnahmen zur Durchsetzung internationaler Sanktionen oder wegen kriegerischer Ereignisse im Bestimmungsland, die Ware innerhalb der nach Absatz 3 verlängerten Fristen auszuführen, so kann sie oder er bei der Oberzolldirektion beantragen, die Ausfuhrfrist zu verlängern.
 
@@ -2719,7 +2719,7 @@ Kann die Ware nicht innerhalb von sechs Monaten nach Annahme der Zollanmeldung a
 
 ### (Art. 54 Abs. 2 ZG)
 
-Der ordnungsgemässe Betrieb ist namentlich nicht gewährt, wenn die Gesuchstellerin oder der Gesuchsteller eine schwere Widerhandlung oder wiederholt Widerhandlungen gegen Bundesrecht begangen hat, soweit dessen Vollzug der EZV obliegt.
+Der ordnungsgemässe Betrieb ist namentlich nicht gewährt, wenn die Gesuchstellerin oder der Gesuchsteller eine schwere Widerhandlung oder wiederholt Widerhandlungen gegen Bundesrecht begangen hat, soweit dessen Vollzug dem BAZG obliegt.
 
 #### Art. 159
 
@@ -2727,11 +2727,11 @@ Der ordnungsgemässe Betrieb ist namentlich nicht gewährt, wenn die Gesuchstell
 
 ### (Art. 54 ZG)
 
-Die EZV entzieht die Bewilligung, wenn die Lagerhalterin oder der Lagerhalter:
+Das BAZG entzieht die Bewilligung, wenn die Lagerhalterin oder der Lagerhalter:
 
 - a. die Voraussetzungen nach Artikel 54 Absatz 2 ZG nicht mehr erfüllt;
 - b. in der Bewilligungen festgelegten Bedingungen und Auflagen nicht einhält; oder
-- c. wiederholt Widerhandlungen gegen Bundesrecht begeht, soweit dessen Vollzug der EZV obliegt.
+- c. wiederholt Widerhandlungen gegen Bundesrecht begeht, soweit dessen Vollzug dem BAZG obliegt.
 
 #### Art. 160
 
@@ -2756,7 +2756,7 @@ Nicht zulässig sind Bearbeitungen, die:
 - a. eine Täuschungsgefahr schaffen; oder
 - b. zu einer Abgabenschmälerung oder zu einer Umgehung der nichtzollrechtlichen Erlasse des Bundes führen können.
 
-<sup>2</sup> Die EZV kann die Bearbeitung von Waren, welche die ordnungsgemässe Zollveranlagung im In- und Ausland gefährden könnte, verbieten.
+<sup>2</sup> Das BAZG kann die Bearbeitung von Waren, welche die ordnungsgemässe Zollveranlagung im In- und Ausland gefährden könnte, verbieten.
 
 ### 3. Abschnitt: Verfahren der vorübergehenden Verwendung
 
@@ -2770,11 +2770,11 @@ Nicht zulässig sind Bearbeitungen, die:
 
 <sup>2</sup> Ändert der Verwendungszweck oder die Verwenderin oder der Verwender, oder wird das Eigentum der Ware übertragen, so muss die anmeldepflichtige Person eine neue Zollanmeldung einreichen. Sie muss allfällige weitere anmeldepflichtigen Personen auf ihre Pflichten als anmeldepflichtige Person hinweisen.
 
-<sup>3</sup> Die neue Zollanmeldung nach Absatz 2 ist vor der Änderung des Verwendungszwecks, der Verwenderin oder des Verwenders oder der Eigentumsübertragung einzureichen. Die EZV kann die Zollanmeldung namentlich bei Waren zum ungewissen Verkauf zu einem späteren Zeitpunkt vorsehen.
+<sup>3</sup> Die neue Zollanmeldung nach Absatz 2 ist vor der Änderung des Verwendungszwecks, der Verwenderin oder des Verwenders oder der Eigentumsübertragung einzureichen. Das BAZG kann die Zollanmeldung namentlich bei Waren zum ungewissen Verkauf zu einem späteren Zeitpunkt vorsehen.
 
 <sup>4</sup> Wird keine neue Zollanmeldung nach Absatz 2 eingereicht, so entsteht die Zollschuld im Zeitpunkt, in dem die neue Zollanmeldung hätte eingereicht werden müssen.
 
-<sup>5</sup> Das Verfahren der vorübergehenden Verwendung gilt für einen Grenzübertritt mit anschliessender Wiedereinfuhr oder Wiederausfuhr der Ware. Die EZV kann für bestimmte Waren wiederholte Grenzübertritte bewilligen.
+<sup>5</sup> Das Verfahren der vorübergehenden Verwendung gilt für einen Grenzübertritt mit anschliessender Wiedereinfuhr oder Wiederausfuhr der Ware. Das BAZG kann für bestimmte Waren wiederholte Grenzübertritte bewilligen.
 
 [^162-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
@@ -2784,7 +2784,7 @@ Nicht zulässig sind Bearbeitungen, die:
 
 ### (Art. 58 Abs. 2 Bst. b ZG)
 
-<sup>1</sup> Die EZV entscheidet über die geeigneten Massnahmen zur Identitätssicherung.
+<sup>1</sup> Das BAZG entscheidet über die geeigneten Massnahmen zur Identitätssicherung.
 
 <sup>2</sup> Die Identitätssicherung muss in der Zollanmeldung vermerkt werden.
 
@@ -2794,11 +2794,11 @@ Nicht zulässig sind Bearbeitungen, die:
 
 ### (Art. 58 Abs. 1 ZG)
 
-<sup>1</sup> Die Bewilligung zur vorübergehenden Verwendung eines ausländischen Beförderungsmittels zu gewerblichen Zwecken im Zollgebiet nach Artikel 34 muss vor der ersten Einfuhr bei der EZV beantragt werden.
+<sup>1</sup> Die Bewilligung zur vorübergehenden Verwendung eines ausländischen Beförderungsmittels zu gewerblichen Zwecken im Zollgebiet nach Artikel 34 muss vor der ersten Einfuhr beim BAZG beantragt werden.
 
-<sup>2</sup> Die Bewilligung zur vorübergehenden Verwendung eines ausländischen Beförderungsmittels zum eigenen Gebrauch im Zollgebiet nach Artikel 35 muss bei der ersten Einfuhr oder beim Erwerb im Inland bei der EZV beantragt werden.
+<sup>2</sup> Die Bewilligung zur vorübergehenden Verwendung eines ausländischen Beförderungsmittels zum eigenen Gebrauch im Zollgebiet nach Artikel 35 muss bei der ersten Einfuhr oder beim Erwerb im Inland beim BAZG beantragt werden.
 
-<sup>3</sup> Die EZV kann Bewilligungen nach Artikel 35 Absätze 1 und 2 Buchstabe a erneuern.
+<sup>3</sup> Das BAZG kann Bewilligungen nach Artikel 35 Absätze 1 und 2 Buchstabe a erneuern.
 
 ### 4. Abschnitt: Verfahren der aktiven Veredelung
 
@@ -2895,7 +2895,7 @@ Die Bewilligungsinhaberin oder der Bewilligungsinhaber muss bei der in der Bewil
 
 <sup>1</sup> Abfälle oder Nebenprodukte, die im Veredelungsprozess anfallen und im Zollgebiet verbleiben, müssen beim Abschluss des Verfahrens der aktiven Veredelung bei der überwachenden Stelle zur Überführung in den zollrechtlich freien Verkehr angemeldet werden.
 
-<sup>2</sup> Die Erhebung der Zollabgaben für die Abfälle und Nebenprodukte richtet sich nach der zolltarifarischen Einreihung der zur Veredelung ins Zollgebiet verbrachten Ware. Die EZV kann Zollermässigung oder Zollbefreiung gewähren.
+<sup>2</sup> Die Erhebung der Zollabgaben für die Abfälle und Nebenprodukte richtet sich nach der zolltarifarischen Einreihung der zur Veredelung ins Zollgebiet verbrachten Ware. Das BAZG kann Zollermässigung oder Zollbefreiung gewähren.
 
 #### Art. 170
 
@@ -3001,7 +3001,7 @@ Wird das Ausfuhrverfahren nicht ordnungsgemäss abgeschlossen, so muss die anmel
 
 <sup>1</sup> Zollfreilager sind durch bauliche Massnahmen vom übrigen Zollgebiet so zu trennen, dass keine Waren der Zollüberwachung entzogen werden können.
 
-<sup>2</sup> Die EZV legt die Art der baulichen Massnahmen in der Bewilligung für den Betrieb des Zollfreilagers fest.
+<sup>2</sup> Das BAZG legt die Art der baulichen Massnahmen in der Bewilligung für den Betrieb des Zollfreilagers fest.
 
 #### Art. 176
 
@@ -3017,7 +3017,7 @@ Lagert die Lagerhalterin oder der Lagerhalter Waren auf eigene Rechnung, so gilt
 
 ### (Art. 64 Abs. 2 ZG)
 
-Der ordnungsgemässe Betrieb ist namentlich nicht gewährt, wenn die Gesuchstellerin oder der Gesuchsteller eine schwere Widerhandlung oder wiederholt Widerhandlungen gegen Bundesrecht begangen hat, soweit dessen Vollzug der EZV obliegt.
+Der ordnungsgemässe Betrieb ist namentlich nicht gewährt, wenn die Gesuchstellerin oder der Gesuchsteller eine schwere Widerhandlung oder wiederholt Widerhandlungen gegen Bundesrecht begangen hat, soweit dessen Vollzug dem BAZG obliegt.
 
 #### Art. 178
 
@@ -3025,11 +3025,11 @@ Der ordnungsgemässe Betrieb ist namentlich nicht gewährt, wenn die Gesuchstell
 
 ### (Art. 64 Abs. 1 ZG)
 
-Die EZV entzieht die Bewilligung, wenn die Lagerhalterin oder der Lagerhalter:
+Das BAZG entzieht die Bewilligung, wenn die Lagerhalterin oder der Lagerhalter:
 
 - a. die Voraussetzungen nach Artikel 64 Absatz 2 ZG nicht mehr erfüllt;
 - b. die in der Bewilligung festgelegten Bedingungen und Auflagen nicht einhält; oder
-- c. wiederholt Widerhandlungen gegen Bundesrecht begeht, soweit dessen Vollzug der EZV obliegt.
+- c. wiederholt Widerhandlungen gegen Bundesrecht begeht, soweit dessen Vollzug dem BAZG obliegt.
 
 #### Art. 178a
 
@@ -3078,7 +3078,7 @@ Nicht zulässig sind Bearbeitungen, die:
 - a. eine Täuschungsgefahr schaffen; oder
 - b. zu einer Abgabenschmälerung oder zu einer Umgehung der nichtzollrechtlichen Erlasse des Bundes führen können.
 
-<sup>2</sup> Die EZV kann die Bearbeitung und Ausbesserung von Waren, welche die ordnungsgemässe Zollveranlagung im In- und Ausland gefährden könnten, verbieten.
+<sup>2</sup> Das BAZG kann die Bearbeitung und Ausbesserung von Waren, welche die ordnungsgemässe Zollveranlagung im In- und Ausland gefährden könnten, verbieten.
 
 #### Art. 182
 
@@ -3110,7 +3110,7 @@ Das Verzeichnis muss folgende Angaben enthalten:[^183-2]
 
 <sup>1bis</sup> Es muss elektronisch geführt werden.[^183-4]
 
-<sup>2</sup> Auf Verlangen muss die Lagerhalterin oder der Lagerhalter der EZV das Verzeichnis unverzüglich in elektronischer Form einreichen. Die EZV bezeichnet den Minimalstandard für das Dateiformat.[^183-5]
+<sup>2</sup> Auf Verlangen muss die Lagerhalterin oder der Lagerhalter dem BAZG das Verzeichnis unverzüglich in elektronischer Form einreichen. Das BAZG bezeichnet den Minimalstandard für das Dateiformat.[^183-5]
 
 [^183-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 [^183-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
@@ -3138,7 +3138,7 @@ Die Bestandesaufzeichnung muss folgende Angaben enthalten:
 - h. Wert der eingelagerten Ware;
 - i. Art des nachfolgenden Zolldokuments mit dem Datum der Annahme, der ausstellenden Zollstelle und der Nummer;
 - j. Zeichen, Nummern, Anzahl der Verpackungsstücke;
-- k.[^184-2] Rohmasse und Eigenmasse; die EZV kann auf Gesuch hin die Lagerhalterin oder den Lagerhalter von der Pflicht entbinden, die Rohmasse oder die Eigenmasse zu erfassen;
+- k.[^184-2] Rohmasse und Eigenmasse; das BAZG kann auf Gesuch hin die Lagerhalterin oder den Lagerhalter von der Pflicht entbinden, die Rohmasse oder die Eigenmasse zu erfassen;
 - l. vorangegangener Ursprungsnachweis;
 - m. gegebenenfalls Gemeinschaftscharakter T-2 im Sinne des Übereinkommens vom 20. Mai 1987[^184-3] über ein gemeinsames Versandverfahren;
 - n. Behandlungen, denen die Waren unterzogen werden;
@@ -3148,9 +3148,9 @@ Die Bestandesaufzeichnung muss folgende Angaben enthalten:
 
 <sup>2</sup> Sie muss elektronisch geführt werden.[^184-5]
 
-<sup>3</sup> Aus der Bestandesaufzeichnung muss jederzeit der gegenwärtige Bestand der im Zollfreilager befindlichen sensiblen Waren ersichtlich sein. Auf Verlangen der EZV muss die Lagerhalterin oder der Lagerhalter die Bestandesaufzeichnung unverzüglich vorlegen.
+<sup>3</sup> Aus der Bestandesaufzeichnung muss jederzeit der gegenwärtige Bestand der im Zollfreilager befindlichen sensiblen Waren ersichtlich sein. Auf Verlangen des BAZG muss die Lagerhalterin oder der Lagerhalter die Bestandesaufzeichnung unverzüglich vorlegen.
 
-<sup>3bis</sup> Auf Verlangen muss die Lagerhalterin oder der Lagerhalter der EZV die Bestandesaufzeichnung einreichen. Die EZV bezeichnet die Form und den Minimalstandard für das Dateiformat.[^184-6]
+<sup>3bis</sup> Auf Verlangen muss die Lagerhalterin oder der Lagerhalter dem BAZG die Bestandesaufzeichnung einreichen. Das BAZG bezeichnet die Form und den Minimalstandard für das Dateiformat.[^184-6]
 
 <sup>4</sup> Führt die Lagerhalterin oder der Lagerhalter die Bestandesaufzeichnungen nicht oder nicht ordnungsgemäss oder kann sie oder er die Bestandesaufzeichnung nicht unverzüglich vorlegen, so werden die Räumlichkeiten unter Verschluss gelegt und weitere Ein- oder Auslagerungen bis zum Vorliegen einer ordnungsgemäss geführten Bestandesaufzeichnung untersagt.
 
@@ -3187,7 +3187,7 @@ Die Bestandesaufzeichnung für sensible Waren ist je Einlagererin oder je Einlag
 
 Die Verzugszinspflicht beginnt:
 
-- a. bei der Bezahlung über das zentralisierte Abrechnungsverfahren der EZV (ZAZ): mit dem Ablauf einer allenfalls eingeräumten Zahlungsfrist;
+- a. bei der Bezahlung über das zentralisierte Abrechnungsverfahren des BAZG (ZAZ): mit dem Ablauf einer allenfalls eingeräumten Zahlungsfrist;
 - b. bei bedingt festgesetzten Zollforderungen, die endgültig geschuldet und nicht durch Barhinterlage sichergestellt worden sind: ab dem Zeitpunkt der Annahme der ersten Zollanmeldung;
 - c. bei der nachträglichen Erhebung einer zu Unrecht erwirkten Rückerstattung von Zollabgaben: mit dem Datum der Rückerstattung;
 - d. in den übrigen Fällen: ab dem massgebenden Zeitpunkt nach Artikel 69 ZG.
@@ -3202,7 +3202,7 @@ Die Verzugszinspflicht beginnt:
 
 <sup>1</sup> Das EFD regelt, bis zu welchem Betrag kein Verzugszins erhoben wird.
 
-<sup>2</sup> Die EZV kann auf Gesuch hin auf die Erhebung des Verzugszinses verzichten, wenn die Zahlung auf Grund der Verhältnisse der Zollschuldnerin oder des Zollschuldners zu erheblichen wirtschaftlichen oder sozialen Schwierigkeiten führen würde.
+<sup>2</sup> Das BAZG kann auf Gesuch hin auf die Erhebung des Verzugszinses verzichten, wenn die Zahlung auf Grund der Verhältnisse der Zollschuldnerin oder des Zollschuldners zu erheblichen wirtschaftlichen oder sozialen Schwierigkeiten führen würde.
 
 #### Art. 188
 
@@ -3228,7 +3228,7 @@ Kein Vergütungszins wird ausbezahlt:
   - 2\. Zolllagerverfahren bei Lagern für Massengüter,
   - 3\. Verfahren der vorübergehenden Verwendung;
 
-- d. bei der Rückerstattung von Barhinterlagen, ausgenommen solcher bei provisorischen Veranlagungen von Amtes wegen durch die EZV.
+- d. bei der Rückerstattung von Barhinterlagen, ausgenommen solcher bei provisorischen Veranlagungen von Amtes wegen durch das BAZG.
 
 ### 2. Kapitel: Sicherstellung von Zollforderungen
 
@@ -3250,7 +3250,7 @@ Soweit die nachfolgenden Bestimmungen keine abweichenden Vorschriften enthalten,
 
 <sup>1</sup> Die Barhinterlage erfolgt in der Regel in Schweizerfranken.
 
-<sup>2</sup> Die EZV kann ausländische Währungen als Barhinterlage entgegennehmen. Sie legt die Voraussetzungen dafür fest.
+<sup>2</sup> Das BAZG kann ausländische Währungen als Barhinterlage entgegennehmen. Es legt die Voraussetzungen dafür fest.
 
 #### Art. 191
 
@@ -3260,7 +3260,7 @@ Soweit die nachfolgenden Bestimmungen keine abweichenden Vorschriften enthalten,
 
 <sup>1</sup>
 
-Die EZV kann folgende Wertpapiere als Sicherheit anerkennen:
+Das BAZG kann folgende Wertpapiere als Sicherheit anerkennen:
 
 - a. Anleihen des Bundes;
 - b. Kassenobligationen von Schweizer Banken;
@@ -3270,7 +3270,7 @@ Die EZV kann folgende Wertpapiere als Sicherheit anerkennen:
 
 <sup>3</sup> Die hinterlegende Person bleibt verpflichtet, die hinterlegten Wertpapiere hinsichtlich Verfall, Auslosung oder Rückzahlung zu überwachen und alle erforderlichen Massnahmen zur Werterhaltung und zur Einkassierung verfallener Beträge zu treffen. Müssen ihr zu diesem Zweck die hinterlegten Wertpapiere herausgegeben werden, so ist eine neue Sicherheit zu leisten.
 
-<sup>4</sup> Die EZV überprüft periodisch, ob die hinterlegten Wertpapiere noch der Höhe der erforderlichen Sicherheit entsprechen. Verlieren die hinterlegten Wertpapiere während der Aufbewahrungsfrist an Wert, so setzt sie eine Frist zur Leistung einer neuen Sicherheit. Wird keine neue Sicherheit geleistet, so werden die Wertpapiere verwertet.
+<sup>4</sup> Das BAZG überprüft periodisch, ob die hinterlegten Wertpapiere noch der Höhe der erforderlichen Sicherheit entsprechen. Verlieren die hinterlegten Wertpapiere während der Aufbewahrungsfrist an Wert, so setzt sie eine Frist zur Leistung einer neuen Sicherheit. Wird keine neue Sicherheit geleistet, so werden die Wertpapiere verwertet.
 
 #### Art. 192
 
@@ -3318,7 +3318,7 @@ Die Sicherheit beträgt:
 
 <sup>1</sup> Keine Sicherheitsleistung ist erforderlich im Verfahren der vorübergehenden Verwendung nach Artikel 34 Absatz 2<sup>bis</sup> [^195-1], im Nichterhebungsverfahren im Verfahren der aktiven Veredelung und im Verfahren der passiven Veredelung.[^195-2]
 
-<sup>2</sup> Die EZV entscheidet, ob in weiteren Fällen auf die Sicherstellung verzichtet werden kann.
+<sup>2</sup> Das BAZG entscheidet, ob in weiteren Fällen auf die Sicherstellung verzichtet werden kann.
 
 [^195-1]: Heute: nach Art. 34 Abs. 3.
 [^195-2]: Fassung gemäss Ziff. I der V vom 22. April 2009, in Kraft seit 1. Juni 2009 ([AS 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
@@ -3329,7 +3329,7 @@ Die Sicherheit beträgt:
 
 ### (Art. 76 ZG)
 
-<sup>1</sup> Wird die durch Hinterlegung von Wertpapieren sichergestellte Zollschuld fällig, so kann die EZV der Zollschuldnerin oder dem Zollschuldner unter genauer Angabe des Forderungsbetrages eine Zahlungsfrist einräumen.
+<sup>1</sup> Wird die durch Hinterlegung von Wertpapieren sichergestellte Zollschuld fällig, so kann das BAZG der Zollschuldnerin oder dem Zollschuldner unter genauer Angabe des Forderungsbetrages eine Zahlungsfrist einräumen.
 
 <sup>2</sup> Bezahlt die Zollschuldnerin oder der Zollschuldner innerhalb dieser Frist, so werden ihr oder ihm die hinterlegten Wertpapiere zurückgegeben.
 
@@ -3350,9 +3350,9 @@ Als General- oder Einzelbürgin oder -bürge kann anerkannt werden:
 - a. eine unter der Aufsicht der Eidgenössischen Finanzmarktaufsicht[^197-1] stehende Bank mit Sitz in der Schweiz; oder
 - b. eine unter Bundesaufsicht stehende Versicherung mit Sitz in der Schweiz.
 
-<sup>2</sup> Die EZV kann als Einzelbürgin oder Einzelbürgen eine juristische Person mit Sitz in der Schweiz oder ausnahmsweise eine natürliche Person mit Wohnsitz in der Schweiz anerkennen, die erwiesenermassen in der Lage ist, für eine einzelne Zollforderung zu haften.
+<sup>2</sup> Das BAZG kann als Einzelbürgin oder Einzelbürgen eine juristische Person mit Sitz in der Schweiz oder ausnahmsweise eine natürliche Person mit Wohnsitz in der Schweiz anerkennen, die erwiesenermassen in der Lage ist, für eine einzelne Zollforderung zu haften.
 
-<sup>3</sup> Sie kann verlangen, dass die Zollbürgschaft durch mehrere Personen geleistet wird.
+<sup>3</sup> Es kann verlangen, dass die Zollbürgschaft durch mehrere Personen geleistet wird.
 
 [^197-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
 
@@ -3362,7 +3362,7 @@ Als General- oder Einzelbürgin oder -bürge kann anerkannt werden:
 
 ### (Art. 77 Abs. 2 ZG)
 
-Die EZV setzt den Höchstbetrag der Haftung (Bürgschaftssumme) fest.
+Das BAZG setzt den Höchstbetrag der Haftung (Bürgschaftssumme) fest.
 
 #### Art. 199
 
@@ -3393,13 +3393,13 @@ Die Bürgin oder der Bürge haftet für:
 
 ### (Art. 77 ZG)
 
-<sup>1</sup> Die EZV überwacht die finanzielle Situation der Bürgin oder des Bürgen.
+<sup>1</sup> Das BAZG überwacht die finanzielle Situation der Bürgin oder des Bürgen.
 
-<sup>2</sup> Sie trifft die erforderlichen Massnahmen, wenn Anzeichen bestehen, dass die Bürgin oder der Bürge nicht in der Lage ist, der eingegangenen finanziellen Verpflichtung nachzukommen.
+<sup>2</sup> Es trifft die erforderlichen Massnahmen, wenn Anzeichen bestehen, dass die Bürgin oder der Bürge nicht in der Lage ist, der eingegangenen finanziellen Verpflichtung nachzukommen.
 
 <sup>3</sup>
 
-Sie kann die Zollschuldnerin oder den Zollschuldner auffordern, die Bürgschaftssumme zu erhöhen, wenn:
+Es kann die Zollschuldnerin oder den Zollschuldner auffordern, die Bürgschaftssumme zu erhöhen, wenn:
 
 - a. die Bürgschaftssumme die gesamten Forderungen nach Artikel 200 nicht deckt; oder
 - b. die verbleibende Bürgschaftssumme als ungenügend erscheint.
@@ -3424,12 +3424,12 @@ Die Bescheinigung gibt den bezahlten Betrag und die Zollforderung an, auf welche
 
 <sup>1</sup>
 
-Die EZV meldet die Zollforderungen der Konkursverwaltung an, wenn:
+Das BAZG meldet die Zollforderungen der Konkursverwaltung an, wenn:
 
 - a. gegenüber der Zollschuldnerin oder dem Zollschuldner der Konkurs eröffnet wird; oder
 - b. gegenüber der Bürgin oder dem Bürgen der Konkurs eröffnet wird und gegenüber dieser Person Zollforderungen bestehen.
 
-<sup>2</sup> Verzichtet die EZV auf die Anmeldung nach Absatz 1 Buchstabe a, so verlangt sie von der Bürgin oder vom Bürgen die vollständige Bezahlung der Zollschuld. Sie stellt der Bürgin oder dem Bürgen eine entsprechende Bescheinigung aus, die als Forderungstitel im Konkursverfahren dient.
+<sup>2</sup> Verzichtet das BAZG auf die Anmeldung nach Absatz 1 Buchstabe a, so verlangt es von der Bürgin oder vom Bürgen die vollständige Bezahlung der Zollschuld. Es stellt der Bürgin oder dem Bürgen eine entsprechende Bescheinigung aus, die als Forderungstitel im Konkursverfahren dient.
 
 <sup>3</sup> Bei Konkurs der Zollschuldnerin oder des Zollschuldners endet die Bürgschaft nicht.
 
@@ -3439,9 +3439,9 @@ Die EZV meldet die Zollforderungen der Konkursverwaltung an, wenn:
 
 ### (Art. 78 ZG)
 
-<sup>1</sup> Stirbt die Zollschuldnerin oder der Zollschuldner, so fordert die EZV die Bürgin oder den Bürgen zur Zahlung der Forderung nach Artikel 200 Buchstaben a, b und d auf und meldet die Forderung bei der Errichtung des Erbschaftsinventars an.
+<sup>1</sup> Stirbt die Zollschuldnerin oder der Zollschuldner, so fordert das BAZG die Bürgin oder den Bürgen zur Zahlung der Forderung nach Artikel 200 Buchstaben a, b und d auf und meldet die Forderung bei der Errichtung des Erbschaftsinventars an.
 
-<sup>2</sup> Stirbt die Bürgin oder der Bürge, so geht die Bürgschaftsverpflichtung auf die Erben über. Die EZV meldet die Forderung nach Artikel 200 Buchstaben a, b und d bei der Errichtung des Erbschaftsinventars an.
+<sup>2</sup> Stirbt die Bürgin oder der Bürge, so geht die Bürgschaftsverpflichtung auf die Erben über. Das BAZG meldet die Forderung nach Artikel 200 Buchstaben a, b und d bei der Errichtung des Erbschaftsinventars an.
 
 #### Art. 205
 
@@ -3449,7 +3449,7 @@ Die EZV meldet die Zollforderungen der Konkursverwaltung an, wenn:
 
 ### (Art. 79 Abs. 2 ZG)
 
-Wird eine Generalbürgschaft gekündigt, so orientiert die EZV die Zollschuldnerin oder den Zollschuldner darüber und fordert sie oder ihn auf, innerhalb einer bestimmten Frist eine neue Sicherheit zu leisten.
+Wird eine Generalbürgschaft gekündigt, so orientiert das BAZG die Zollschuldnerin oder den Zollschuldner darüber und fordert sie oder ihn auf, innerhalb einer bestimmten Frist eine neue Sicherheit zu leisten.
 
 #### Art. 206
 
@@ -3473,16 +3473,16 @@ Eine Einzelbürgschaft endet mit:
 
 <sup>1</sup>
 
-Die EZV hebt eine General- oder eine Einzelbürgschaft namentlich auf, wenn:
+Das BAZG hebt eine General- oder eine Einzelbürgschaft namentlich auf, wenn:
 
 - a. die Bürgin oder der Bürge die für das Eingehen der Bürgschaft erforderliche Eigenschaft verliert;
 - b. die Bürgin oder der Bürge den Sitz oder Wohnsitz ins Ausland verlegt;
 - c. die Bürgin oder der Bürge nicht in der Lage ist, den finanziellen Verpflichtungen nachzukommen, oder wenn gegenüber ihr oder ihm der Konkurs eröffnet worden ist; oder
 - d. die Erben der Bürgin oder des Bürgen nicht in der Lage sind, den finanziellen Verpflichtungen nachzukommen.
 
-<sup>2</sup> Sie fordert die Zollschuldnerin oder den Zollschuldner auf, innerhalb einer bestimmten Frist eine neue Sicherheit zu leisten.
+<sup>2</sup> Es fordert die Zollschuldnerin oder den Zollschuldner auf, innerhalb einer bestimmten Frist eine neue Sicherheit zu leisten.
 
-<sup>3</sup> Wird innerhalb der gesetzten Frist keine Sicherheit geleistet, so erlässt die EZV gegenüber der Zollschuldnerin oder dem Zollschuldner eine Sicherstellungsverfügung oder leitet die Schuldbetreibung ein.
+<sup>3</sup> Wird innerhalb der gesetzten Frist keine Sicherheit geleistet, so erlässt das BAZG gegenüber der Zollschuldnerin oder dem Zollschuldner eine Sicherstellungsverfügung oder leitet die Schuldbetreibung ein.
 
 ### 3. Abschnitt: Sicherstellungsverfügung
 
@@ -3509,7 +3509,7 @@ Einer noch nicht fälligen Zollforderung gleichgestellt sind:
 
 Die Sicherstellungsverfügung muss enthalten:
 
-- a. Angabe, dass die Schweizerische Eidgenossenschaft, vertreten durch die EZV, die Gläubigerin ist;
+- a. Angabe, dass die Schweizerische Eidgenossenschaft, vertreten durch das BAZG, die Gläubigerin ist;
 - b. Name und Adresse der Zollschuldnerin oder des Zollschuldners;
 - c. Forderung, für welche die Sicherstellung verlangt und gegebenenfalls der Arrest gelegt wird, sowie deren Höhe;
 - d. Rechtsgrund der Sicherstellung;
@@ -3517,7 +3517,7 @@ Die Sicherstellungsverfügung muss enthalten:
 - f. genaue Bezeichnung der mit Arrest zu belegenden Gegenstände und des Orts, an dem sich diese befinden (Arrestort);
 - g. Frist zur Leistung der Sicherheit;
 - h. für die Entgegennahme der Sicherheit zuständige Stelle;
-- i. Hinweis, dass sich die Voraussetzungen der Schadenersatzpflicht der EZV nach den Bestimmungen des Verantwortlichkeitsgesetzes vom 14. März 1958[^209-1] richten;
+- i. Hinweis, dass sich die Voraussetzungen der Schadenersatzpflicht des BAZG nach den Bestimmungen des Verantwortlichkeitsgesetzes vom 14. März 1958[^209-1] richten;
 - j. Rechtsmittelbelehrung.
 
 [^209-1]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
@@ -3537,7 +3537,7 @@ Die Sicherstellungsverfügung richtet sich an:
 
 <sup>2</sup> Die Sicherstellungsverfügung ist sofort vollstreckbar.
 
-<sup>3</sup> Die EZV stellt innerhalb von zehn Tagen nach Zustellung der Arresturkunde beim zuständigen Betreibungsamt am Arrestort ein Betreibungsbegehren.
+<sup>3</sup> Das BAZG stellt innerhalb von zehn Tagen nach Zustellung der Arresturkunde beim zuständigen Betreibungsamt am Arrestort ein Betreibungsbegehren.
 
 <sup>4</sup> Die entsprechenden Bestimmungen des SchKG[^210-1] sind anwendbar.
 
@@ -3551,7 +3551,7 @@ Die Sicherstellungsverfügung richtet sich an:
 
 ### (Art. 81 ZG)
 
-<sup>1</sup> Die EZV hebt die Sicherstellungsverfügung und einen allfälligen Arrest auf, wenn die erforderliche Sicherheit geleistet worden ist. Sie informiert das zuständige Betreibungsamt am Arrestort über die Aufhebung.
+<sup>1</sup> Das BAZG hebt die Sicherstellungsverfügung und einen allfälligen Arrest auf, wenn die erforderliche Sicherheit geleistet worden ist. Es informiert das zuständige Betreibungsamt am Arrestort über die Aufhebung.
 
 <sup>2</sup> Wird eine gegen die Sicherstellungsverfügung eingereichte Beschwerde gutgeheissen, so fallen Arrest und Betreibung dahin.
 
@@ -3591,7 +3591,7 @@ Die Beschlagnahme kann auch erfolgen für Waren oder Sachen:
 - a. für die Eigentums- oder Pfandansprüche Dritter bestehen; oder
 - b. die nach Massgabe des Schuldbetreibungsrechtes gepfändet, mit Arrest belegt oder in eine Konkursmasse einbezogen wurden.
 
-<sup>2</sup> Sind die Dritten bekannt, so setzt die EZV sie von der Beschlagnahme in Kenntnis.
+<sup>2</sup> Sind die Dritten bekannt, so setzt das BAZG sie von der Beschlagnahme in Kenntnis.
 
 #### Art. 215
 
@@ -3599,7 +3599,7 @@ Die Beschlagnahme kann auch erfolgen für Waren oder Sachen:
 
 ### (Art. 83 ZG)
 
-Die EZV protokolliert und verfügt die Beschlagnahme eines Zollpfands. Einer dagegen erhobenen Beschwerde kommt keine aufschiebende Wirkung zu.
+Das BAZG protokolliert und verfügt die Beschlagnahme eines Zollpfands. Einer dagegen erhobenen Beschwerde kommt keine aufschiebende Wirkung zu.
 
 #### Art. 216
 
@@ -3617,7 +3617,7 @@ Adressatin oder Adressat der Beschlagnahmeverfügung ist die Person, in deren Be
 
 <sup>1</sup> Die Eigentümerin oder der Eigentümer einer gefundenen und beschlagnahmten Ware gilt als berechtigte Person.
 
-<sup>2</sup> Die EZV ermittelt die berechtigte Person durch sachdienliche Nachforschungen.
+<sup>2</sup> Das BAZG ermittelt die berechtigte Person durch sachdienliche Nachforschungen.
 
 <sup>3</sup> Kann die berechtigte Person nicht ermittelt werden, so erfolgt eine öffentliche Bekanntmachung. Darin wird die berechtigte Person aufgefordert, innerhalb einer bestimmten Frist ihren Rechtsanspruch geltend zu machen.
 
@@ -3633,11 +3633,11 @@ Adressatin oder Adressat der Beschlagnahmeverfügung ist die Person, in deren Be
 
 <sup>1</sup> Die berechtigte Person einer gefundenen und beschlagnahmten Ware muss ihr Recht daran nachweisen.
 
-<sup>2</sup> Hält die EZV den Nachweis nicht für erbracht, so setzt sie der berechtigten Person eine angemessene Frist zur Geltendmachung des Rechts mit einer Klage beim zuständigen Zivilgericht.
+<sup>2</sup> Hält das BAZG den Nachweis nicht für erbracht, so setzt es der berechtigten Person eine angemessene Frist zur Geltendmachung des Rechts mit einer Klage beim zuständigen Zivilgericht.
 
-<sup>3</sup> Ist streitig, welcher von mehreren berechtigten Personen die Ware zurückzugeben sei, kann sich die EZV durch gerichtliche Hinterlegung befreien.
+<sup>3</sup> Ist streitig, welcher von mehreren berechtigten Personen die Ware zurückzugeben sei, kann sich das BAZG durch gerichtliche Hinterlegung befreien.
 
-<sup>4</sup> Die oder der von der EZV anerkannte Eigentümerin oder Eigentümer übernimmt die alleinige Verantwortung gegenüber einer allfällig besser berechtigten Person. Die Ware wird ihr oder ihm nur gegen Ausstellung einer entsprechenden Verpflichtung ausgehändigt.
+<sup>4</sup> Die oder der vom BAZG anerkannte Eigentümerin oder Eigentümer übernimmt die alleinige Verantwortung gegenüber einer allfällig besser berechtigten Person. Die Ware wird ihr oder ihm nur gegen Ausstellung einer entsprechenden Verpflichtung ausgehändigt.
 
 <sup>5</sup> Die berechtigte Person einer gefundenen und beschlagnahmten Ware kann innerhalb von 30 Tagen nach Abschluss der Ermittlung oder Veröffentlichung der Bekanntmachung Beschwerde gegen die Beschlagnahmeverfügung einreichen.
 
@@ -3651,7 +3651,7 @@ Adressatin oder Adressat der Beschlagnahmeverfügung ist die Person, in deren Be
 
 <sup>1</sup> Durch die Freigabe wird die Beschlagnahme des Zollpfands aufgehoben. Dieses wird der Adressatin oder dem Adressaten der Beschlagnahmeverfügung übergeben. Im Streitfall wird nach Massgabe von Artikel 218 Absatz 3 vorgegangen.
 
-<sup>2</sup> Ist gegen die Beschlagnahme eine Beschwerde hängig, so teilt die EZV der Beschwerdeinstanz die Freigabe der Ware oder Sache mit.
+<sup>2</sup> Ist gegen die Beschlagnahme eine Beschwerde hängig, so teilt das BAZG der Beschwerdeinstanz die Freigabe der Ware oder Sache mit.
 
 ### 3. Kapitel: Erlass von Zollabgaben bei Vernichtung der Waren
 
@@ -3661,13 +3661,13 @@ Adressatin oder Adressat der Beschlagnahmeverfügung ist die Person, in deren Be
 
 Der Nachweis der vollständigen oder teilweisen Vernichtung kann erbracht werden durch eine Bescheinigung:
 
-- a. eines Organs der EZV;
+- a. eines Organs des BAZG;
 - b. einer Behörde des Bundes, der Kantone oder der Gemeinden; oder
 - c. einer mit öffentlich-rechtlichen Aufgaben betrauten Person oder Organisation.
 
 ### 4. Kapitel: Zollpfandverwertung und Verwertung von Wertpapieren
 
-### …
+### ...
 
 [^tit3-chap4-1]
 
@@ -3679,7 +3679,7 @@ Der Nachweis der vollständigen oder teilweisen Vernichtung kann erbracht werden
 
 <sup>1</sup> Eine Sofortverwertung ist möglich, auch wenn die Zollforderung noch nicht vollstreckbar ist.
 
-<sup>2</sup> Die EZV holt vor der Sofortverwertung drei unabhängige Offerten ein. Erfolgen diese nicht schriftlich, so werden die entsprechenden Angaben in den Akten protokolliert.
+<sup>2</sup> Das BAZG holt vor der Sofortverwertung drei unabhängige Offerten ein. Erfolgen diese nicht schriftlich, so werden die entsprechenden Angaben in den Akten protokolliert.
 
 <sup>3</sup> Auf das Einholen von Offerten kann verzichtet werden, wenn das Zollpfand den Wert von 1000 Franken nicht übersteigt.
 
@@ -3696,7 +3696,7 @@ Der Nachweis der vollständigen oder teilweisen Vernichtung kann erbracht werden
 
 <sup>1</sup>
 
-Die EZV kann anstelle der Versteigerung den Freihandverkauf eines Zollpfands durchführen:
+Das BAZG kann anstelle der Versteigerung den Freihandverkauf eines Zollpfands durchführen:
 
 - a. mit dem Einverständnis der Eigentümerin oder des Eigentümers;
 - b. ohne das Einverständnis der Eigentümerin oder des Eigentümers, wenn das Zollpfand bei der Versteigerung nicht verkauft wird;
@@ -3704,11 +3704,11 @@ Die EZV kann anstelle der Versteigerung den Freihandverkauf eines Zollpfands dur
 
 <sup>2</sup> Das Einverständnis der Eigentümerin oder des Eigentümers ist unwiderruflich. Es muss schriftlich erfolgen und darf nicht an Bedingungen geknüpft oder mit Auflagen versehen sein.
 
-<sup>3</sup> Die EZV holt vor dem Freihandverkauf drei unabhängige Offerten ein. Erfolgen diese nicht schriftlich, so werden die entsprechenden Angaben in den Akten protokolliert.
+<sup>3</sup> Das BAZG holt vor dem Freihandverkauf drei unabhängige Offerten ein. Erfolgen diese nicht schriftlich, so werden die entsprechenden Angaben in den Akten protokolliert.
 
 <sup>4</sup> Die Ware oder Sache wird der meistbietenden Person gegen sofortige Bezahlung des gesamten Kaufpreises ausgehändigt.
 
-<sup>5</sup> Die EZV führt ein Protokoll über den Freihandverkauf.
+<sup>5</sup> Das BAZG führt ein Protokoll über den Freihandverkauf.
 
 [^221a-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 [^221a-2]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2443](https://fedlex.data.admin.ch/eli/oc/2016/392)).
@@ -3721,7 +3721,7 @@ Die EZV kann anstelle der Versteigerung den Freihandverkauf eines Zollpfands dur
 
 <sup>1</sup> Der Erlös aus der Verwertung eines Zollpfands oder von Wertpapieren dient zunächst der Deckung der Kosten für die Aufbewahrung und die Verwertung des Zollpfands und der Wertpapiere. Der Rest dient zur Befriedigung der Zollschuld.
 
-<sup>2</sup> Die EZV setzt der Zollschuldnerin oder dem Zollschuldner eine angemessene Frist, damit sie oder er erklären kann, welche Schulden getilgt werden sollen. Dabei wird entweder die von der Zollschuldnerin oder dem Zollschuldner angegebene Reihenfolge oder, sofern keine entsprechende Erklärung der Zollschuldnerin oder des Zollschuldners vorliegt, die in Artikel 200 genannte Reihenfolge angewendet.
+<sup>2</sup> Das BAZG setzt der Zollschuldnerin oder dem Zollschuldner eine angemessene Frist, damit sie oder er erklären kann, welche Schulden getilgt werden sollen. Dabei wird entweder die von der Zollschuldnerin oder dem Zollschuldner angegebene Reihenfolge oder, sofern keine entsprechende Erklärung der Zollschuldnerin oder des Zollschuldners vorliegt, die in Artikel 200 genannte Reihenfolge angewendet.
 
 <sup>3</sup>
 
@@ -3730,7 +3730,7 @@ Ein allfälliger Überschuss des Erlöses:
 - a. wird der berechtigten Person zur Verfügung gestellt; oder
 - b. fällt in die Bundeskasse, wenn die berechtigte Person nicht feststeht.
 
-<sup>4</sup> Die EZV erstellt über die Verwendung des Erlöses eine schriftliche Abrechnung.
+<sup>4</sup> Das BAZG erstellt über die Verwendung des Erlöses eine schriftliche Abrechnung.
 
 [^221b-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
@@ -3740,7 +3740,7 @@ Ein allfälliger Überschuss des Erlöses:
 
 ### (Art. 87 ZG)
 
-Die EZV kann auf die Verwertung eines Zollpfands verzichten und die Ware oder Sache an anerkannte gemeinnützige Organisationen und Hilfswerke oder an bedürftige Personen abgeben, wenn:
+Das BAZG kann auf die Verwertung eines Zollpfands verzichten und die Ware oder Sache an anerkannte gemeinnützige Organisationen und Hilfswerke oder an bedürftige Personen abgeben, wenn:
 
 - a. deren Wert 1000 Franken nicht übersteigt; und
 - b. deren Eigentümerin oder Eigentümer nicht feststeht.
@@ -3757,7 +3757,7 @@ Das EFD regelt das Verfahren der Versteigerung von Zollpfändern und der Verwert
 
 [^221d-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
-## 4. Titel: EZV
+## 4. Titel: BAZG
 
 #### Art. 221e
 
@@ -3781,13 +3781,13 @@ Das EFD regelt das Verfahren der Versteigerung von Zollpfändern und der Verwert
 
 <sup>1</sup>
 
-Die EZV kann im Ausland eigene Verbindungsleute einsetzen und mit folgenden Aufgaben betrauen:
+Das BAZG kann im Ausland eigene Verbindungsleute einsetzen und mit folgenden Aufgaben betrauen:
 
 - a. dem Sammeln strategischer und taktischer Informationen, die die Zollverwaltung für die Erfüllung ihrer gesetzlichen Aufgaben benötigt;
 - b. dem Austausch dieser Informationen mit den Partnerbehörden im Empfangsstaat sowie weiteren Behörden;
 - c. der Förderung der polizeilichen und justiziellen Zusammenarbeit.
 
-<sup>2</sup> Sie kann im Einvernehmen mit dem Bundesamt für Polizei (fedpol) Aufgaben ihrer Verbindungsleute an die Polizeiverbindungsleute von fedpol delegieren. Die Polizeiverbindungsleute sind im Rahmen der von der EZV übertragenen Aufgaben den Verbindungsleuten der EZV bezüglich des Zugriffs auf die Informationssysteme und der Berechtigung zur Datenbearbeitung gleichgestellt, soweit dies für die Aufgabenerfüllung erforderlich ist.
+<sup>2</sup> Es kann im Einvernehmen mit dem Bundesamt für Polizei (fedpol) Aufgaben ihrer Verbindungsleute an die Polizeiverbindungsleute von fedpol delegieren. Die Polizeiverbindungsleute sind im Rahmen der vom BAZG übertragenen Aufgaben den Verbindungsleuten des BAZG bezüglich des Zugriffs auf die Informationssysteme und der Berechtigung zur Datenbearbeitung gleichgestellt, soweit dies für die Aufgabenerfüllung erforderlich ist.
 
 [^221f-1]: Eingefügt durch Ziff. I 3 der V vom 23. Nov. 2016 über die gegenseitige Wahrnehmung von Aufgaben durch Polizeiverbindungsleute und Verbindungsleute der Eidgenössischen Zollverwaltung, in Kraft seit 1. Jan. 2017 ([AS 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
 
@@ -3797,7 +3797,7 @@ Die EZV kann im Ausland eigene Verbindungsleute einsetzen und mit folgenden Aufg
 
 ### (Art. 100 Abs. 1 Bst. a-c ZG)
 
-Zur Erfüllung der ihm übertragenen Aufgaben kann das Personal der EZV im Rahmen der Kontrollen, die es durchführt, Fahrzeuge und Behältnisse durchsuchen.
+Zur Erfüllung der ihm übertragenen Aufgaben kann das Personal des BAZG im Rahmen der Kontrollen, die es durchführt, Fahrzeuge und Behältnisse durchsuchen.
 
 #### Art. 223
 
@@ -3805,7 +3805,7 @@ Zur Erfüllung der ihm übertragenen Aufgaben kann das Personal der EZV im Rahme
 
 ### (Art. 101 Abs. 2 Bst. a ZG)
 
-Die EZV stellt bei ihren Kontrollen entdeckte Gegenstände sicher, wenn diese:
+Das BAZG stellt bei seinen Kontrollen entdeckte Gegenstände sicher, wenn diese:
 
 - a. eine Gefahr für die Sicherheit von Personen oder für die öffentliche Ordnung darstellen;
 - b. voraussichtlich illegaler Herkunft sind; oder
@@ -3858,20 +3858,20 @@ Die angehaltene Person kann auf eine Zollstelle oder eine andere geeignete Diens
 
 ### (Art. 100 Abs. 1 Bst. a Ziff. 1 und 103 Abs. 2 ZG)
 
-<sup>1</sup> Die EZV kontrolliert die Identität einer Person anhand der in Ausweisen wie Pass, Identitätskarte oder anderen anerkannten Dokumenten beschriebenen oder gespeicherten Merkmale.
+<sup>1</sup> Das BAZG kontrolliert die Identität einer Person anhand der in Ausweisen wie Pass, Identitätskarte oder anderen anerkannten Dokumenten beschriebenen oder gespeicherten Merkmale.
 
 <sup>2</sup>
 
-Sie kann die Personalien und die Identität der Person mit Gesichtsbild, Augenfarbe, Körpergrösse, Haarfarbe, Zwei-Finger-Abdruck und weiteren persönlichen Merkmalen feststellen, wenn:
+Es kann die Personalien und die Identität der Person mit Gesichtsbild, Augenfarbe, Körpergrösse, Haarfarbe, Zwei-Finger-Abdruck und weiteren persönlichen Merkmalen feststellen, wenn:
 
 - a. eine Person sich nicht nach Absatz 1 ausweisen kann; oder
-- b. die der EZV übertragenen Aufgaben dies erfordern.
+- b. die dem BAZG übertragenen Aufgaben dies erfordern.
 
 <sup>2bis</sup> Die Zwei-Finger-Abdrücke nach Absatz 2 können in das automatisierte Fingerabdruck-Identifikationssystem (AFIS) des Bundesamtes für Polizei aufgenommen werden. Sie werden gelöscht, sobald die Identität festgestellt ist, spätestens aber zwei Jahre nach der erkennungsdienstlichen Erfassung.[^226-1]
 
 <sup>3</sup>
 
-Sie kann die Daten über die Identität einer Person durch Abnahme biometrischer Daten festhalten oder ergänzen:
+Es kann die Daten über die Identität einer Person durch Abnahme biometrischer Daten festhalten oder ergänzen:
 
 - a.[^226-2] in den Fällen von Artikel 103 Absatz 1 Buchstaben a und b ZG durch daktyloskopische Daten; die Bearbeitung der Daten richtet sich nach der Verordnung vom 6. Dezember 2013[^226-3] über die Bearbeitung biometrischer erkennungsdienstlicher Daten;
 - b.
@@ -3883,7 +3883,7 @@ Sie kann die Daten über die Identität einer Person durch Abnahme biometrischer
 
 <sup>4</sup> Sie muss die erhobenen Daten löschen, sobald die Daten in der entsprechenden Datenbank nach Absatz 3 gespeichert worden sind.[^226-7]
 
-<sup>5</sup> Erhebt die EZV biometrische Daten nach Absatz 3, ohne ermittelnde Behörde zu sein, ist sie verpflichtet, die Löschungsanträge für diese Daten zu stellen, sobald dies nach den massgeblichen nichtzollrechtlichen Erlassen erforderlich ist.
+<sup>5</sup> Erhebt das BAZG biometrische Daten nach Absatz 3, ohne ermittelnde Behörde zu sein, ist es verpflichtet, die Löschungsanträge für diese Daten zu stellen, sobald dies nach den massgeblichen nichtzollrechtlichen Erlassen erforderlich ist.
 
 [^226-1]: Eingefügt durch Anhang Ziff. 3 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^226-2]: Fassung gemäss Anhang Ziff. 3 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
@@ -3924,11 +3924,11 @@ Als Selbstverteidigungs- und Zwangsmittel dürfen namentlich eingesetzt werden:
 
 #### Art. 228
 
-**Personal der EZV ausserhalb des Grenzwachtkorps**
+**Personal des BAZG ausserhalb des Grenzwachtkorps**
 
 ### (Art. 106 Abs. 2 Bst. a und b ZG)
 
-Folgendes Personal der EZV ausserhalb des Grenzwachtkorps darf Waffen, andere Selbstverteidigungs- und Zwangsmittel einsetzen:
+Folgendes Personal des BAZG ausserhalb des Grenzwachtkorps darf Waffen, andere Selbstverteidigungs- und Zwangsmittel einsetzen:
 
 - a.[^228-1] das Personal der Hauptabteilung Zollfahndung;
 - b. das im Reiseverkehr eingesetzte Personal;
@@ -4010,7 +4010,7 @@ Das Personal des Grenzwachtkorps kann im Sinne von Artikel 106 Absatz 1 Buchstab
 - c. das notwendige Fachwissen hat; und
 - d. Gewähr bietet für die korrekte gewerbsmässige Vertretung im Zollveranlagungsverfahren (Art. 26 ZG).
 
-<sup>2</sup> Die EZV kann in Ausnahmefällen eine minderjährige Person ermächtigen, Zollanmeldungen auszustellen.
+<sup>2</sup> Das BAZG kann in Ausnahmefällen eine minderjährige Person ermächtigen, Zollanmeldungen auszustellen.
 
 #### Art. 234
 
@@ -4018,7 +4018,7 @@ Das Personal des Grenzwachtkorps kann im Sinne von Artikel 106 Absatz 1 Buchstab
 
 ### (Art. 115 Abs. 2 ZG)
 
-Weigert sich eine Person, auf die sich ein Ersuchen einer ausländischen Behörde um Amtshilfe bezieht, mitzuwirken, so erlässt die EZV eine Verfügung über die Mitwirkungs- und Editionspflicht im Sinne von Artikel 115 Absatz 4 ZG.
+Weigert sich eine Person, auf die sich ein Ersuchen einer ausländischen Behörde um Amtshilfe bezieht, mitzuwirken, so erlässt das BAZG eine Verfügung über die Mitwirkungs- und Editionspflicht im Sinne von Artikel 115 Absatz 4 ZG.
 
 #### Art. 235
 
@@ -4026,9 +4026,9 @@ Weigert sich eine Person, auf die sich ein Ersuchen einer ausländischen Behörd
 
 ### (Art. 130 ZG und Art. 37 Abs. 3 BPG)
 
-<sup>1</sup> Die Oberzolldirektion gilt für die höhere Berufsbildung für das Personal der EZV als Organisation der Arbeitswelt im Sinne von Artikel 28 Absatz 2 des Berufsbildungsgesetzes vom 13. Dezember 2002[^235-1].
+<sup>1</sup> Die Oberzolldirektion gilt für die höhere Berufsbildung für das Personal des BAZG als Organisation der Arbeitswelt im Sinne von Artikel 28 Absatz 2 des Berufsbildungsgesetzes vom 13. Dezember 2002[^235-1].
 
-<sup>2</sup> Sie ist zuständig für den Erlass entsprechender Bestimmungen und regelt namentlich hinsichtlich der eidgenössischen Berufsprüfungen und der eidgenössischen höheren Fachprüfungen für das Personal der EZV die Zulassungsbedingungen, Lerninhalte, Qualifikationsverfahren, Ausweise und Titel.
+<sup>2</sup> Sie ist zuständig für den Erlass entsprechender Bestimmungen und regelt namentlich hinsichtlich der eidgenössischen Berufsprüfungen und der eidgenössischen höheren Fachprüfungen für das Personal des BAZG die Zulassungsbedingungen, Lerninhalte, Qualifikationsverfahren, Ausweise und Titel.
 
 [^235-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 
@@ -4038,7 +4038,7 @@ Weigert sich eine Person, auf die sich ein Ersuchen einer ausländischen Behörd
 
 ### (Art. 127 Abs. 2 und 130 ZG)
 
-Das Fotografieren oder Filmen des Personals der EZV während der Ausübung seiner Tätigkeit ist ohne Bewilligung verboten. Die Nichteinhaltung dieses Verbots stellt eine Ordnungswidrigkeit nach Artikel 127 Absatz 2 ZG dar.
+Das Fotografieren oder Filmen des Personals des BAZG während der Ausübung seiner Tätigkeit ist ohne Bewilligung verboten. Die Nichteinhaltung dieses Verbots stellt eine Ordnungswidrigkeit nach Artikel 127 Absatz 2 ZG dar.
 
 ## 5. Titel: Strafbestimmungen
 
@@ -4092,10 +4092,10 @@ Sofern nicht der Tatbestand einer Zollwiderhandlung erfüllt ist, wird nach Arti
 
 - a. zollfreie Waren beim Verbringen in das Zollgebiet oder aus dem Zollgebiet nicht oder unrichtig anmeldet oder nicht über die vorgesehenen Zollstrassen, Schiffszolllandestellen oder Zollflugplätze über die Zollgrenze verbringt;
 - b. zollpflichtige Waren mit einer falschen Tarifnummer anmeldet, wenn die richtige Tarifnummer zu einer gleichen oder tieferen Zollabgabe führt;
-- c. im grenzüberschreitenden Luftverkehr einen Flugplatz benutzt, für dessen Benutzung die EZV keine Bewilligung ausgestellt hat;
-- d. mit einem Fahrzeug die Zollgrenze nicht über eine von der EZV für diese Fahrt als zulässig bezeichnete Zollstrasse überquert;
+- c. im grenzüberschreitenden Luftverkehr einen Flugplatz benutzt, für dessen Benutzung das BAZG keine Bewilligung ausgestellt hat;
+- d. mit einem Fahrzeug die Zollgrenze nicht über eine vom BAZG für diese Fahrt als zulässig bezeichnete Zollstrasse überquert;
 - e. die Vorschriften der Artikel 5–12 der Verordnung vom 12. Oktober 2011[^240a-2] über die Statistik des Aussenhandels missachtet;
-- f. die von der EZV gesetzten Fristen nicht einhält;
+- f. die vom BAZG gesetzten Fristen nicht einhält;
 - g. die Hinweispflicht nach Artikel 61 missachtet;
 - h. die Aufbewahrungsvorschriften für Daten und Dokumente nach den Artikeln 94–98 nicht einhält;
 - i. Waren in offenen Zolllagern oder Zollfreilagern in unzulässiger Weise bearbeitet (Art. 161 und 181);
@@ -4112,7 +4112,7 @@ Sofern nicht der Tatbestand einer Zollwiderhandlung erfüllt ist, wird nach Arti
 
 <sup>1</sup> Zuständig für die Strafverfolgung ist die Hauptabteilung Zollfahndung.
 
-<sup>2</sup> Jede Dienststelle der EZV ist in ihrem Aufgabenbereich zuständig für den Erlass von Strafbescheiden im abgekürzten Verfahren nach Artikel 65 Absatz 1 VStrR[^240b-2].
+<sup>2</sup> Jede Dienststelle des BAZG ist in ihrem Aufgabenbereich zuständig für den Erlass von Strafbescheiden im abgekürzten Verfahren nach Artikel 65 Absatz 1 VStrR[^240b-2].
 
 [^240b-1]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4671](https://fedlex.data.admin.ch/eli/oc/2018/735)).
 [^240b-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
@@ -4189,7 +4189,7 @@ Das EFD ist ermächtigt, Vollzugsbestimmungen zu dieser Verordnung zu erlassen.
 
 ### (Art. 130 ZG)
 
-Bei Einfuhren landwirtschaftlicher Erzeugnisse, für die Kontingentszollansätze festgelegt sind und die widerrechtlich zum Kontingentszollansatz oder einem reduzierten Ansatz eingeführt wurden, kann das Bundesamt für Landwirtschaft die Abgabendifferenz im Auftrag der EZV in Rechnung stellen. Das Bundesamt für Landwirtschaft informiert die EZV darüber.
+Bei Einfuhren landwirtschaftlicher Erzeugnisse, für die Kontingentszollansätze festgelegt sind und die widerrechtlich zum Kontingentszollansatz oder einem reduzierten Ansatz eingeführt wurden, kann das Bundesamt für Landwirtschaft die Abgabendifferenz im Auftrag des BAZG in Rechnung stellen. Das Bundesamt für Landwirtschaft informiert das BAZG darüber.
 
 #### Art. 244
 
@@ -4294,7 +4294,7 @@ Anhang 2*[^t-1]*
 
 Als sensible Waren gelten:
 
-- 1\. …
+- 1\. ...
 - 2\. Tiere und Pflanzen, Teile solcher Tiere und Pflanzen sowie Erzeugnisse, die daraus hergestellt sind, nach Artikel 1 der Verordnung vom 4. September 2013[^annex2-lvlu1-1] über den Verkehr mit Tieren und Pflanzen geschützter Arten
 - 3\. Kriegsmaterial nach Artikel 5 des Kriegsmaterialgesetzes vom 13. Dezember 1996[^annex2-lvlu1-2]
 - 4\. Waffen, Waffenzubehör und Munition nach Artikel 4 des Waffengesetzes vom 20. Juni 1997[^annex2-lvlu1-3]
@@ -4394,7 +4394,7 @@ Anhang 4
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-…[^annex4-lvlu1-1]
+...[^annex4-lvlu1-1]
 
 [^annex4-lvlu1-1]: Die Änderungen können unter [AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)konsultiert werden.
 

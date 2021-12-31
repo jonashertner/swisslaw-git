@@ -4,11 +4,11 @@ title: Ordinanza del 1° novembre 2006 sulle dogane (OD)
 short: OD
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/250"
 language: it
-version: 2019-01-01
+version: 2022-01-01
 adopted: 2006-11-01
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2007-250-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-250-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20190101/it"
 
 (OD)
 
-del 1° novembre 2006 (Stato 1° gennaio 2019)
+del 1° novembre 2006 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -51,7 +51,7 @@ ordina:
 
 <sup>1</sup>
 
-Nell’enclave doganale, l’Amministrazione delle dogane (AFD) può svolgere segnatamente i seguenti compiti:[^2-1]
+Nell’enclave doganale, l’Ufficio federale della dogana e della sicurezza dei confini (UDSC) può svolgere segnatamente i seguenti compiti:[^2-1]
 
 - a. sorvegliare il traffico merci (art. 23 LD);
 - b. svolgere compiti di polizia di sicurezza (art. 96 LD);
@@ -60,7 +60,7 @@ Nell’enclave doganale, l’Amministrazione delle dogane (AFD) può svolgere se
 
 <sup>2</sup> Sono fatte salve le competenze di altre autorità della Confederazione e autorità cantonali nell’esecuzione di disposti federali di natura non doganale.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^2-1]: Nuovo testo giusta il n. II 2 dell’O del 12 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)).
 
 #### Art. 3
 
@@ -68,13 +68,13 @@ Nell’enclave doganale, l’Amministrazione delle dogane (AFD) può svolgere se
 
 ### (art. 4 cpv. 2 LD)
 
-<sup>1</sup> L’autorità comunale preposta al rilascio del permesso di costruzione richiede per progetti di cui all’articolo 4 capoverso 2 LD l’autorizzazione dell’AFD[^3-1]. Essa allega alla domanda i piani e le descrizioni del progetto di costruzione.
+<sup>1</sup> L’autorità comunale preposta al rilascio del permesso di costruzione richiede per progetti di cui all’articolo 4 capoverso 2 LD l’autorizzazione dell’UDSC[^3-1]. Essa allega alla domanda i piani e le descrizioni del progetto di costruzione.
 
-<sup>2</sup> L’AFD stabilisce nell’autorizzazione quali installazioni debbano essere costruite e come debbano essere mantenute. Essa disciplina il diritto di passaggio per il personale dell’AFD.
+<sup>2</sup> L’UDSC stabilisce nell’autorizzazione quali installazioni debbano essere costruite e come debbano essere mantenute. Disciplina il diritto di passaggio per il personale dell’UDSC.
 
 <sup>3</sup> Essa può fissare nell’autorizzazione un contributo del proprietario ai maggiori costi per la sorveglianza del confine doganale e che insorgono in relazione alle costruzioni o agli impianti.
 
-[^3-1]: Nuova espr. giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^3-1]: Nuova espr. giusta il n. II 2 dell’O del 12 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 4
 
@@ -367,7 +367,7 @@ Oggetti per l’insegnamento e la ricerca sono esenti da dazio, se:
 
 <sup>4</sup> La domanda per la concessione della franchigia doganale dev’essere inviata alla direzione di circondario prima dell’importazione.[^19-1]
 
-<sup>5</sup> Qualora gli oggetti importati in esenzione di dazio siano consegnati nel territorio doganale, occorre richiedere preliminarmente un’autorizzazione all’AFD. Quest’ultima decide circa il versamento successivo dei tributi doganali. L’obbligazione doganale sorge nel momento della consegna.
+<sup>5</sup> Qualora gli oggetti importati in esenzione di dazio siano consegnati nel territorio doganale, occorre richiedere preliminarmente un’autorizzazione all’UDSC. Quest’ultima decide circa il versamento successivo dei tributi doganali. L’obbligazione doganale sorge nel momento della consegna.
 
 [^19-1]: Nuovo testo giusta il n. I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
@@ -389,7 +389,7 @@ Simili oggetti sono pure esenti da dazio, se sono esposti in:
 
 <sup>3</sup> La domanda per la concessione della franchigia doganale dev’essere inviata alla direzione di circondario prima dell’importazione.[^20-1]
 
-<sup>4</sup> Qualora gli oggetti d’arte e d’esposizione importati in esenzione di dazio siano utilizzati per scopi diversi, occorre richiedere preliminarmente un’autorizzazione all’AFD. Quest’ultima decide circa il versamento successivo dei tributi doganali. L’obbligazione doganale sorge nel momento del cambiamento d’utilizzazione.
+<sup>4</sup> Qualora gli oggetti d’arte e d’esposizione importati in esenzione di dazio siano utilizzati per scopi diversi, occorre richiedere preliminarmente un’autorizzazione all’UDSC. Quest’ultima decide circa il versamento successivo dei tributi doganali. L’obbligazione doganale sorge nel momento del cambiamento d’utilizzazione.
 
 [^20-1]: Nuovo testo giusta il n. I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
@@ -403,7 +403,7 @@ Simili oggetti sono pure esenti da dazio, se sono esposti in:
 
 <sup>2</sup> La domanda per la concessione della franchigia doganale dev’essere inviata alla direzione di circondario prima dell’importazione.[^21-1]
 
-<sup>3</sup> Qualora gli strumenti e gli apparecchi importati in esenzione di dazio siano consegnati ad altri nel territorio doganale, occorre richiedere preliminarmente un’autorizzazione all’AFD. Quest’ultima decide circa il versamento successivo dei tributi doganali. L’obbligazione doganale sorge nel momento della consegna.
+<sup>3</sup> Qualora gli strumenti e gli apparecchi importati in esenzione di dazio siano consegnati ad altri nel territorio doganale, occorre richiedere preliminarmente un’autorizzazione all’UDSC. Quest’ultimo decide circa il versamento successivo dei tributi doganali. L’obbligazione doganale sorge nel momento della consegna.
 
 [^21-1]: Nuovo testo giusta il n. I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
@@ -502,7 +502,7 @@ La franchigia doganale è concessa solo a persone che:
 Merci del traffico di mercato sino a un quantitativo complessivo di 100 kg lordi per giorno e persona sono esenti da dazio, se:
 
 - a. provengono dalla zona di confine estera;
-- b. sono importate per il tramite degli uffici doganali designati dall’AFD; e
+- b. sono importate per il tramite degli uffici doganali designati dall’UDSC; e
 - c. sono vendute all’interno della zona di confine nazionale a persone fisiche per uso proprio.
 
 <sup>2</sup> Per merci del traffico di mercato s’intendono verdure, pesci freschi, granchi, rane, lumache e fiori recisi.[^25-1]
@@ -586,11 +586,11 @@ Le merci destinate all’ammissione temporanea in territorio doganale sono esent
 
 <sup>2</sup> Le merci, la cui ammissione temporanea si protrae per un periodo superiore ai due anni, possono essere ammesse ulteriormente in esenzione parziale dai tributi doganali per al massimo tre anni. I tributi doganali sono fissati per ogni mese intero o iniziato al tre per cento dell’importo che sarebbe riscosso in caso d’immissione delle merci in libera pratica secondo il diritto doganale, ma al massimo sino a concorrenza di tale importo.
 
-<sup>3</sup> L’AFD può ridurre il termine di cui al capoverso 1 lettera c in casi particolari. Essa fissa il termine entro il quale le merci dovranno essere riesportate o immesse in un altro regime doganale.
+<sup>3</sup> L’UDSC può ridurre il termine di cui al capoverso 1 lettera c in casi particolari. Fissa il termine entro il quale le merci dovranno essere riesportate o immesse in un altro regime doganale.
 
 <sup>4</sup> Se le condizioni di cui al capoverso 1 sono adempiute, il regime dell’ammissione temporanea è considerato autorizzato.
 
-<sup>5</sup> In presenza di importanti motivi che rendono necessaria una sorveglianza del regime dell’ammissione temporanea, l’AFD può subordinare questo regime a un’esplicita autorizzazione.
+<sup>5</sup> In presenza di importanti motivi che rendono necessaria una sorveglianza del regime dell’ammissione temporanea, l’UDSC può subordinare questo regime a un’esplicita autorizzazione.
 
 [^30-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
@@ -608,7 +608,7 @@ Le merci in libera pratica secondo il diritto doganale destinate all’ammission
 - b. l’ammissione dura al massimo due anni; e
 - c. sono reimportate senza modifiche. L’uso non è inteso come modifica.
 
-<sup>2</sup> Per importanti motivi, l’AFD può prorogare il termine di cui al capoverso 1 lettera b di altri tre anni al massimo.
+<sup>2</sup> Per importanti motivi, l’UDSC può prorogare il termine di cui al capoverso 1 lettera b di altri tre anni al massimo.
 
 #### Art. 32
 
@@ -616,7 +616,7 @@ Le merci in libera pratica secondo il diritto doganale destinate all’ammission
 
 ### (art. 9 cpv. 2 LD)
 
-Per importanti motivi, l’AFD può autorizzare il regime dell’ammissione temporanea anche se non sono adempiute tutte le condizioni.
+Per importanti motivi, l’UDSC può autorizzare il regime dell’ammissione temporanea anche se non sono adempiute tutte le condizioni.
 
 #### Art. 33
 
@@ -624,7 +624,7 @@ Per importanti motivi, l’AFD può autorizzare il regime dell’ammissione temp
 
 ### (art. 9 cpv. 2 e 3 LD)
 
-L’AFD può escludere il regime dell’ammissione temporanea:
+L’UDSC può escludere il regime dell’ammissione temporanea:
 
 - a. per merci destinate al deposito;
 - b. per merci provenienti da Stati che non concedono la reciprocità; o
@@ -640,7 +640,7 @@ L’AFD può escludere il regime dell’ammissione temporanea:
 
 <sup>2</sup>
 
-Per trasporti transfrontalieri a scopi commerciali, l’AFD può autorizzare persone con sede o domicilio nel territorio doganale all’ammissione temporanea in franchigia di dazio di un mezzo di trasporto estero se:
+Per trasporti transfrontalieri a scopi commerciali, l’UDSC può autorizzare persone con sede o domicilio nel territorio doganale all’ammissione temporanea in franchigia di dazio di un mezzo di trasporto estero se:
 
 - a. nell’arco di un anno la persona effettua al massimo dodici trasporti; e
 - b. il mezzo di trasporto è riesportato di volta in volta al termine del trasporto.
@@ -649,7 +649,7 @@ Per trasporti transfrontalieri a scopi commerciali, l’AFD può autorizzare per
 
 <sup>4</sup>
 
-Per trasporti interni, l’AFD può autorizzare l’ammissione temporanea in franchigia di dazio di mezzi di trasporto esteri nel territorio doganale, segnatamente se il richiedente prova che:
+Per trasporti interni, l’UDSC può autorizzare l’ammissione temporanea in franchigia di dazio di mezzi di trasporto esteri nel territorio doganale, segnatamente se il richiedente prova che:
 
 - a. non sono disponibili corrispondenti mezzi di trasporto indigeni e i mezzi di trasporto esteri saranno utilizzati solo per una breve durata; o
 - b. i mezzi di trasporto esteri sono importati per scopi sperimentali.
@@ -669,7 +669,7 @@ Veicoli ferroviari esteri possono beneficiare dell’ammissione temporanea in fr
 
 ### (art. 9 cpv. 2 LD)
 
-<sup>1</sup> L’AFD autorizza persone con domicilio al di fuori del territorio doganale, che vi si recano per motivi di lavoro, di formazione o perfezionamento o per motivi analoghi, all’ammissione temporanea di un mezzo di trasporto estero per uso proprio.
+<sup>1</sup> L’UDSC autorizza persone con domicilio al di fuori del territorio doganale, che vi si recano per motivi di lavoro, di formazione o perfezionamento o per motivi analoghi, all’ammissione temporanea di un mezzo di trasporto estero per uso proprio.
 
 <sup>2</sup>
 
@@ -686,7 +686,7 @@ Essa può autorizzare persone con domicilio nel territorio doganale all’ammiss
 
 ### (art. 9 cpv. 2 LD)
 
-<sup>1</sup> L’AFD autorizza persone con domicilio nel territorio doganale all’ammissione temporanea di mezzi di trasporto esteri per uso proprio che sono noleggiati occasionalmente mediante un contratto scritto con un’impresa di noleggio residente nel territorio doganale estero.
+<sup>1</sup> L’UDSC autorizza persone con domicilio nel territorio doganale all’ammissione temporanea di mezzi di trasporto esteri per uso proprio che sono noleggiati occasionalmente mediante un contratto scritto con un’impresa di noleggio residente nel territorio doganale estero.
 
 <sup>2</sup> Questi mezzi di trasporto devono essere riesportati entro otto giorni dal momento in cui il contratto ha effetto o restituiti alle imprese di noleggio residenti in territorio doganale.
 
@@ -694,7 +694,7 @@ Essa può autorizzare persone con domicilio nel territorio doganale all’ammiss
 
 <sup>4</sup>
 
-L’AFD può autorizzare le imprese di noleggio residenti in territorio doganale al noleggio di mezzi di trasporto esteri, se questi ultimi:
+L’UDSC può autorizzare le imprese di noleggio residenti in territorio doganale al noleggio di mezzi di trasporto esteri, se questi ultimi:
 
 - a. sono esportati entro tre giorni; o
 - b. sono noleggiati per più di otto giorni a persone con domicilio al di fuori del territorio doganale per essere utilizzati nel traffico transfrontaliero.
@@ -761,7 +761,7 @@ Il regime d’equivalenza è applicato quando:
 - b. non possono essere aggirate le norme d’importazione della Confederazione; e
 - c. non è contrario ad alcun altro interesse pubblico preponderante.
 
-<sup>3</sup> Le merci indigene possono essere esportate quali prodotti perfezionati a partire dal giorno in cui l’AFD ha autorizzato il perfezionamento attivo.
+<sup>3</sup> Le merci indigene possono essere esportate quali prodotti perfezionati a partire dal giorno in cui l’UDSC ha autorizzato il perfezionamento attivo.
 
 #### Art. 42
 
@@ -773,9 +773,9 @@ Il regime d’equivalenza è applicato quando:
 
 <sup>2</sup> Il regime d’identità è applicato su richiesta della persona soggetta all’obbligo doganale.
 
-<sup>3</sup> L’AFD prescrive il regime d’identità quando le condizioni per il regime d’equivalenza non sono adempiute.
+<sup>3</sup> L’UDSC prescrive il regime d’identità quando le condizioni per il regime d’equivalenza non sono adempiute.
 
-<sup>4</sup> Nel regime d’identità, l’AFD fissa nell’autorizzazione per il perfezionamento attivo oneri per il controllo. Essa può prescrivere segnatamente la separazione fra deposito e trasformazione delle merci trasferite in territorio doganale.
+<sup>4</sup> Nel regime d’identità, l’UDSC fissa nell’autorizzazione per il perfezionamento attivo oneri per il controllo. Può prescrivere segnatamente la separazione fra deposito e trasformazione delle merci trasferite in territorio doganale.
 
 #### Art. 43
 
@@ -798,14 +798,14 @@ Il regime d’equivalenza è applicato quando:
 
 <sup>1</sup>
 
-Per merci destinate a essere distrutte nel territorio doganale l’AFD accorda:
+Per merci destinate a essere distrutte nel territorio doganale l’UDSC accorda:
 
 - a. la restituzione dei tributi doganali, se le merci sono state tassate secondo il regime di restituzione;
 - b. la franchigia doganale, se le merci sono state tassate secondo il regime di non riscossione.
 
-<sup>2</sup> L’AFD può prescrivere che la distruzione sia sorvegliata da un ufficio doganale.
+<sup>2</sup> L’UDSC può prescrivere che la distruzione sia sorvegliata da un ufficio doganale.
 
-<sup>3</sup> Per merci che non devono essere necessariamente distrutte, la persona soggetta all’obbligo doganale può chiedere che le merci siano ammesse nel territorio doganale segnatamente come foraggio animale, fertilizzante o per scopi simili. In questi casi l’AFD accorda una riduzione doganale. Nella domanda dev’essere comprovato l’impiego della merce.
+<sup>3</sup> Per merci che non devono essere necessariamente distrutte, la persona soggetta all’obbligo doganale può chiedere che le merci siano ammesse nel territorio doganale segnatamente come foraggio animale, fertilizzante o per scopi simili. In questi casi l’UDSC accorda una riduzione doganale. Nella domanda dev’essere comprovato l’impiego della merce.
 
 <sup>4</sup> La domanda di restituzione o riduzione dei tributi doganali o per la concessione della franchigia doganale dev’essere inoltrata alla Direzione generale delle dogane o a un ufficio doganale da essa designato entro il termine fissato per la riesportazione delle merci e prima della distruzione o ammissione nel territorio doganale delle merci, che erano previste per la distruzione.
 
@@ -834,7 +834,7 @@ Il regime d’equivalenza è applicato se:
 - a. è comprovata la stessa qualità e natura della merce;
 - b. non vi si oppongono interessi pubblici preponderanti.
 
-<sup>3</sup> Le merci estere possono essere trasferite nel territorio doganale quali prodotti perfezionati a partire dal giorno in cui l’AFD ha autorizzato il perfezionamento passivo.
+<sup>3</sup> Le merci estere possono essere trasferite nel territorio doganale quali prodotti perfezionati a partire dal giorno in cui l’UDSC ha autorizzato il perfezionamento passivo.
 
 #### Art. 47
 
@@ -846,9 +846,9 @@ Il regime d’equivalenza è applicato se:
 
 <sup>2</sup> Il regime d’identità è applicato su richiesta della persona soggetta all’obbligo doganale.
 
-<sup>3</sup> L’AFD prescrive il regime d’identità quando le condizioni per il regime d’equivalenza non sono adempiute.
+<sup>3</sup> L’UDSC prescrive il regime d’identità quando le condizioni per il regime d’equivalenza non sono adempiute.
 
-<sup>4</sup> Nel regime d’identità, l’AFD può subordinare il rilascio di un’autorizzazione per il perfezionamento passivo alla condizione che il mandatario estero disponga di un’autorizzazione delle autorità doganali estere per il perfezionamento attivo nel regime d’identità.
+<sup>4</sup> Nel regime d’identità, l’UDSC può subordinare il rilascio di un’autorizzazione per il perfezionamento passivo alla condizione che il mandatario estero disponga di un’autorizzazione delle autorità doganali estere per il perfezionamento attivo nel regime d’identità.
 
 #### Art. 48
 
@@ -856,7 +856,7 @@ Il regime d’equivalenza è applicato se:
 
 ### (art. 13 cpv. 1 e 2 LD)
 
-L’AFD accorda la franchigia doganale per i prodotti perfezionati trasferiti nel territorio doganale.
+L’UDSC accorda la franchigia doganale per i prodotti perfezionati trasferiti nel territorio doganale.
 
 #### Art. 49
 
@@ -864,13 +864,13 @@ L’AFD accorda la franchigia doganale per i prodotti perfezionati trasferiti ne
 
 ### (art. 13 cpv. 3 LD)
 
-<sup>1</sup> L’AFD riscuote i tributi doganali per l’eccedenza di peso prodotta con il perfezionamento. I tributi sono determinati in funzione della classificazione nella tariffa doganale del prodotto di perfezionamento trasferito nel territorio doganale.
+<sup>1</sup> L’UDSC riscuote i tributi doganali per l’eccedenza di peso prodotta con il perfezionamento. I tributi sono determinati in funzione della classificazione nella tariffa doganale del prodotto di perfezionamento trasferito nel territorio doganale.
 
-<sup>2</sup> Qualora il valore aggiunto del perfezionamento non possa essere determinato mediante l’eccedenza di peso o i tributi doganali per l’eccedenza di peso di cui al capoverso 1 siano sproporzionati, l’AFD può accordare una riduzione dei tributi o la franchigia doganale.
+<sup>2</sup> Qualora il valore aggiunto del perfezionamento non possa essere determinato mediante l’eccedenza di peso o i tributi doganali per l’eccedenza di peso di cui al capoverso 1 siano sproporzionati, l’UDSC può accordare una riduzione dei tributi o la franchigia doganale.
 
 <sup>3</sup>
 
-L’AFD calcola l’aliquota di dazio ridotta secondo uno dei seguenti metodi, che meglio si addice per determinare il valore aggiunto del perfezionamento:
+L’UDSC calcola l’aliquota di dazio ridotta secondo uno dei seguenti metodi, che meglio si addice per determinare il valore aggiunto del perfezionamento:
 
 - a. differenza tra l’aggravio doganale sul prodotto perfezionato trasferito nel territorio doganale e l’aggravio doganale fittizio sulla quantità di merce esportata, necessaria per ottenere il prodotto perfezionato;
 - b. differenza tra i costi di perfezionamento indigeni ed esteri; o
@@ -972,7 +972,7 @@ Chi possiede prodotti agricoli ancora in commercio conformemente all’articolo 
 
 <sup>1</sup> Con la dichiarazione doganale dev’essere pure presentato un riepilogo dei luoghi di deposito dei prodotti agricoli ancora disponibili in commercio all’inizio del periodo amministrato secondo l’articolo 7 OIEVFF[^57-1], con l’indicazione precisa del luogo, la designazione della merce, la voce di tariffa e la massa propria.
 
-<sup>2</sup> …[^57-2]
+<sup>2</sup> ...[^57-2]
 
 [^57-1]: [RS 916.121.10](https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244)
 [^57-2]: Abrogato dal n. II dell’O del 14 nov. 2007, con effetto dal 1° gen. 2008 ([RU 2007 6265](https://fedlex.data.admin.ch/eli/oc/2007/832)).
@@ -983,7 +983,7 @@ Chi possiede prodotti agricoli ancora in commercio conformemente all’articolo 
 
 ### (art. 15 cpv. 2 LD)
 
-<sup>1</sup> Il titolare di un PGI deve elencare all’AFD, su richiesta, tutti i prodotti agricoli forniti a terzi e da esso importati nel periodo libero prima della data corrispondente di cui all’articolo 7 capoverso 1 OIEVFF[^58-1].
+<sup>1</sup> Il titolare di un PGI deve elencare all’UDSC, su richiesta, tutti i prodotti agricoli forniti a terzi e da esso importati nel periodo libero prima della data corrispondente di cui all’articolo 7 capoverso 1 OIEVFF[^58-1].
 
 <sup>2</sup>
 
@@ -1027,11 +1027,11 @@ Chi consegna a un terzo prodotti agricoli importati nel periodo libero deve info
 
 ### (art. 15 cpv. 2 LD)
 
-<sup>1</sup> L’AFD può coinvolgere l’Ufficio federale dell’agricoltura per controlli domiciliari delle persone soggette all’obbligo di dichiarazione conformemente all’articolo 55.
+<sup>1</sup> L’UDSC può coinvolgere l’Ufficio federale dell’agricoltura per controlli domiciliari delle persone soggette all’obbligo di dichiarazione conformemente all’articolo 55.
 
 <sup>2</sup> Al riguardo, l’Ufficio federale dell’agricoltura può procedere a controlli fisici del genere, della quantità e della natura dei prodotti agricoli, richiedere tutte le informazioni necessarie nonché verificare dati e documenti, sistemi e informazioni, che possono rivestire importanza ai fini dell’esecuzione dell’articolo 15 LD.
 
-<sup>3</sup> Esso trasmette i risultati dei controlli all’AFD per l’esecuzione.
+<sup>3</sup> Esso trasmette i risultati dei controlli all’UDSC per l’esecuzione.
 
 ### Sezione 8: Traffico turistico
 
@@ -1050,7 +1050,7 @@ Sono esenti da dazio gli oggetti d’uso personale secondo l’allegato 1, che s
 
 <sup>2</sup> Sono inoltre esenti da dazio gli oggetti d’uso personale, che le persone di cui al capoverso 1 si fanno inviare anticipatamente o successivamente.
 
-<sup>3</sup> Per oggetti che soggiacciono a dazi d’importazione nuovi o elevati, l’AFD può chiedere l’applicazione del regime di transito o dell’ammissione temporanea.
+<sup>3</sup> Per oggetti che soggiacciono a dazi d’importazione nuovi o elevati, l’UDSC può chiedere l’applicazione del regime di transito o dell’ammissione temporanea.
 
 #### Art. 64
 
@@ -1170,7 +1170,7 @@ Per scorte destinate ai ristoranti di bordo s’intendono:
 
 <sup>1</sup> Base della classificazione nella tariffa doganale è l’allegato 1 della legge del 9 ottobre 1986[^71-1] sulla tariffa delle dogane.
 
-<sup>2</sup> Per l’interpretazione dell’allegato 1 della legge 9 ottobre 1986 sulla tariffa delle dogane ci si riferisce alle spiegazioni relative alla tariffa doganale e alle decisioni sulla tariffazione delle merci pubblicate dall’AFD.
+<sup>2</sup> Per l’interpretazione dell’allegato 1 della legge 9 ottobre 1986 sulla tariffa delle dogane ci si riferisce alle spiegazioni relative alla tariffa doganale e alle decisioni sulla tariffazione delle merci pubblicate dall’UDSC.
 
 [^71-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
 
@@ -1213,8 +1213,8 @@ Ai fini di un’informazione in materia di origine, la richiesta deve contenere 
 - b. prezzo franco fabbrica delle merci da esportare;
 - c. descrizione del trattamento o della lavorazione avvenuti, materie impiegate e loro origine, classificazione tariffale e valore, nonché altre informazioni necessarie per la determinazione dell’origine.
 - [tab] <sup>3</sup> I modelli, le prove, le foto, i piani, i cataloghi e la bibliografia specializzata necessari devono essere allegati.
-- [tab] <sup>4</sup> In caso di richieste insufficientemente documentate, l’AFD invita il richiedente a porvi rimedio entro un adeguato termine. Se, nonostante tale esortazione, la richiesta è ancora incompleta, l’AFD può rinunciare a rilasciare l’informazione in materia di tariffa e di origine.
-- [tab] 4<sup>bis</sup> L’AFD fornisce l’informazione in materia di tariffa e di origine al più tardi entro 40 giorni dalla ricezione della documentazione completa.[^73-1]
+- [tab] <sup>4</sup> In caso di richieste insufficientemente documentate, l’UDSC invita il richiedente a porvi rimedio entro un adeguato termine. Se, nonostante tale esortazione, la richiesta è ancora incompleta, l’UDSC può rinunciare a rilasciare l’informazione in materia di tariffa e di origine.
+- [tab] 4<sup>bis</sup> L’UDSC fornisce l’informazione in materia di tariffa e di origine al più tardi entro 40 giorni dalla ricezione della documentazione completa.[^73-1]
 - [tab] <sup>5</sup> Essa può trattenere la documentazione inoltrata senza obbligo d’indennità.
 
 [^73-1]: Introdotto dal n. I 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
@@ -1225,7 +1225,7 @@ Ai fini di un’informazione in materia di origine, la richiesta deve contenere 
 
 ### (art. 20 cpv. 5 LD)
 
-<sup>1</sup> Un’informazione scritta sulla classificazione tariffale, che viene revocata dall’AFD prima della scadenza della validità, può essere utilizzata dalla persona avente diritto ancora per tre mesi dopo la pubblicazione o la conoscenza di causa, se la persona prova di aver concluso, prima della revoca, un contratto giuridicamente vincolante riguardante le merci interessate.
+<sup>1</sup> Un’informazione scritta sulla classificazione tariffale, che viene revocata dall’UDSC prima della scadenza della validità, può essere utilizzata dalla persona avente diritto ancora per tre mesi dopo la pubblicazione o la conoscenza di causa, se la persona prova di aver concluso, prima della revoca, un contratto giuridicamente vincolante riguardante le merci interessate.
 
 <sup>2</sup> Il capoverso 1 non si applica in caso di modifiche legislative.
 
@@ -1262,7 +1262,7 @@ I viaggiatori, che non introducono merci nel territorio doganale, sono esonerati
 
 ### (art. 24 cpv. 3 LD)
 
-<sup>1</sup> Le merci, che sono poste sotto la custodia dell’AFD, non possono essere modificate quanto al tipo, al quantitativo e alla loro natura.
+<sup>1</sup> Le merci, che sono poste sotto la custodia dell’UDSC, non possono essere modificate quanto al tipo, al quantitativo e alla loro natura.
 
 <sup>2</sup>
 
@@ -1273,11 +1273,11 @@ Con il permesso dell’ufficio doganale è ammesso:
 
 #### Art. 78
 
-**Durata della custodia presso l’AFD**
+**Durata della custodia presso l’UDSC**
 
 ### (art. 24 cpv. 3 LD)
 
-La custodia presso l’AFD termina con la liberazione della merce da parte dell’ufficio doganale.
+La custodia presso l’UDSC termina con la liberazione della merce da parte dell’ufficio doganale.
 
 #### Art. 79
 
@@ -1305,7 +1305,7 @@ Oltre alle indicazioni usuali prescritte, nella dichiarazione doganale la person
 
 <sup>1</sup> Per documenti di scorta s’intendono documenti importanti per l’imposizione doganale, segnatamente i permessi, i documenti cargo, le fatture commerciali, i bollettini di consegna, le liste di carico, i certificati di peso, le prove d’origine, le istruzioni d’imposizione, i certificati di analisi, gli attestati e le conferme ufficiali.
 
-<sup>2</sup> Se una persona soggetta all’obbligo di dichiarazione non inoltra entro il termine fissato dall’AFD i necessari documenti di scorta, l’ufficio doganale procede all’imposizione definitiva delle merci, per le quali è chiesta la riduzione dei tributi, la franchigia doganale o l’agevolazione doganale all’aliquota di dazio massima applicabile in funzione della loro natura.
+<sup>2</sup> Se una persona soggetta all’obbligo di dichiarazione non inoltra entro il termine fissato dall’UDSC i necessari documenti di scorta, l’ufficio doganale procede all’imposizione definitiva delle merci, per le quali è chiesta la riduzione dei tributi, la franchigia doganale o l’agevolazione doganale all’aliquota di dazio massima applicabile in funzione della loro natura.
 
 #### Art. 80a
 
@@ -1313,7 +1313,7 @@ Oltre alle indicazioni usuali prescritte, nella dichiarazione doganale la person
 
 <sup>1</sup>
 
-Per prodotti originari, l’AFD concede l’imposizione all’aliquota preferenziale, conformemente a uno degli accordi di libero scambio di cui all’allegato 1 dell’ordinanza del 18 giugno 2008[^80a-2] sul libero scambio 1 o all’allegato 1 dell’ordinanza del 27 giugno 1995[^80a-3] sul libero scambio 2, senza la presentazione di una prova dell’origine se:
+Per prodotti originari, l’UDSC concede l’imposizione all’aliquota preferenziale, conformemente a uno degli accordi di libero scambio di cui all’allegato 1 dell’ordinanza del 18 giugno 2008[^80a-2] sul libero scambio 1 o all’allegato 1 dell’ordinanza del 27 giugno 1995[^80a-3] sul libero scambio 2, senza la presentazione di una prova dell’origine se:
 
 - a. si tratta di un invio da privato a privato;
 - b. il valore complessivo dei prodotti originari contenuti nell’invio non supera 1000 franchi;
@@ -1347,7 +1347,7 @@ La persona soggetta all’obbligo di dichiarazione ha il diritto di:
 
 ### (art. 27 lett. d LD)
 
-<sup>1</sup> La persona soggetta all’obbligo di dichiarazione deve eliminare o distruggere o far eliminare o distruggere le merci entro il termine fissato dall’AFD.
+<sup>1</sup> La persona soggetta all’obbligo di dichiarazione deve eliminare o distruggere o far eliminare o distruggere le merci entro il termine fissato dall’UDSC.
 
 <sup>2</sup> Se la persona soggetta all’obbligo di dichiarazione non ossequia questo impegno, l’ufficio doganale può predisporre l’eliminazione o la distruzione delle merci a spese della stessa.
 
@@ -1359,11 +1359,11 @@ La persona soggetta all’obbligo di dichiarazione ha il diritto di:
 
 ### (art. 27 lett. e LD)
 
-<sup>1</sup> L’abbandono di merci a favore della Cassa federale è ammesso solo con l’autorizzazione dell’AFD.
+<sup>1</sup> L’abbandono di merci a favore della Cassa federale è ammesso solo con l’autorizzazione dell’UDSC.
 
-<sup>2</sup> Le merci sono valorizzate dall’AFD. Eventuali costi, che risultano dall’abbandono delle merci, devono essere assunti dalla persona soggetta all’obbligo di dichiarazione.
+<sup>2</sup> Le merci sono valorizzate dall’UDSC. Eventuali costi, che risultano dall’abbandono delle merci, devono essere assunti dalla persona soggetta all’obbligo di dichiarazione.
 
-<sup>3</sup> Invece della vendita a trattativa privata, l’AFD può consegnare le merci a organizzazioni riconosciute di utilità pubblica e opere assistenziali o a persone nel bisogno.
+<sup>3</sup> Invece della vendita a trattativa privata, l’UDSC può consegnare le merci a organizzazioni riconosciute di utilità pubblica e opere assistenziali o a persone nel bisogno.
 
 ### Capitolo 2: Imposizione
 
@@ -1375,7 +1375,7 @@ La persona soggetta all’obbligo di dichiarazione ha il diritto di:
 
 L’esame sommario comprende:
 
-- a. un esame della plausibilità della dichiarazione doganale trasmessa dalla persona soggetta all’obbligo di dichiarazione mediante il sistema di elaborazione elettronica dei dati dell’AFD;
+- a. un esame della plausibilità della dichiarazione doganale trasmessa dalla persona soggetta all’obbligo di dichiarazione mediante il sistema di elaborazione elettronica dei dati dell’UDSC;
 - b. il rifiuto automatico della dichiarazione doganale, se il sistema di elaborazione dei dati constata errori.
 
 #### Art. 85
@@ -1400,7 +1400,7 @@ La rettifica può riferirsi unicamente alle merci dichiarate inizialmente.
 
 ### (art. 34 cpv. 2 LD)
 
-<sup>1</sup> La persona soggetta all’obbligo di dichiarazione può presentare una domanda di rettifica della dichiarazione doganale accettata per merci che hanno già lasciato la custodia dell’AFD.
+<sup>1</sup> La persona soggetta all’obbligo di dichiarazione può presentare una domanda di rettifica della dichiarazione doganale accettata per merci che hanno già lasciato la custodia dell’UDSC.
 
 <sup>2</sup>
 
@@ -1472,7 +1472,7 @@ L’ufficio doganale notifica alla persona soggetta all’obbligo di dichiarazio
 
 <sup>1</sup>
 
-Nei seguenti regimi doganali, l’AFD può applicare l’imposizione provvisoria:
+Nei seguenti regimi doganali, l’UDSC può applicare l’imposizione provvisoria:
 
 - a. immissione in libera pratica;
 - b. regime di ammissione temporanea;
@@ -1495,7 +1495,7 @@ Possono essere dati motivi per un’imposizione provvisoria, segnatamente quando
 La persona soggetta all’obbligo di dichiarazione non può richiedere un’imposizione provvisoria, se:
 
 - a. vi è l’intenzione di presentare una domanda di riduzione delle aliquote doganali per determinati impieghi secondo l’articolo 14 capoverso 2 LD o se è pendente una simile domanda;
-- b. la merce non è più sotto la custodia dell’AFD.
+- b. la merce non è più sotto la custodia dell’UDSC.
 
 [^93-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
 
@@ -1538,7 +1538,7 @@ Le seguenti persone devono conservare dati e documenti di cui all’articolo 94:
 
 Occorre conservare:
 
-- a. i dati trasmessi all’AFD per via elettronica: durante almeno tre mesi dall’avvenuta trasmissione;
+- a. i dati trasmessi all’UDSC per via elettronica: durante almeno tre mesi dall’avvenuta trasmissione;
 - b. i dati e documenti in relazione a merci del traffico turistico: durante almeno un anno;
 - c.[^96-1] i documenti giustificativi relativi alle prove dell’origine: durante almeno tre anni;
 - d.[^96-2] i dati e documenti negli altri casi, segnatamente la contabilità delle merci e i documenti di fabbricazione concernenti il traffico di perfezionamento e le merci con agevolazioni doganali in funzione dello scopo d’impiego: durante almeno cinque anni.
@@ -1586,7 +1586,7 @@ La persona soggetta all’obbligo di conservazione deve:
 
 ### (art. 41 LD)
 
-Se, durante il periodo di conservazione (art. 96), l’AFD esegue un controllo, essa può correggere la decisione d’imposizione in base all’aliquota doganale massima adottata al momento della precedente imposizione applicabile secondo il genere di merce, e riscuotere posticipatamente i tributi doganali se:
+Se, durante il periodo di conservazione (art. 96), l’UDSC esegue un controllo, essa può correggere la decisione d’imposizione in base all’aliquota doganale massima adottata al momento della precedente imposizione applicabile secondo il genere di merce, e riscuotere posticipatamente i tributi doganali se:
 
 - a. la persona soggetta all’obbligo di conservazione non è in grado di presentare i dati e documenti necessari che comprovano una riduzione dei tributi doganali, una franchigia doganale o un’agevolazione doganale nella maniera richiesta;
 - b. dal contesto generale va dedotto che l’imposizione è errata e ciò non era necessariamente evidente al momento dell’imposizione.
@@ -1601,7 +1601,7 @@ Se, durante il periodo di conservazione (art. 96), l’AFD esegue un controllo, 
 
 ### (art. 42 cpv. 1 lett. a e d LD)
 
-Lo speditore autorizzato è una persona autorizzata dall’AFD a spedire merci direttamente dal proprio domicilio o da luoghi autorizzati, senza che queste merci debbano essere portate all’ufficio doganale di partenza.
+Lo speditore autorizzato è una persona autorizzata dall’UDSC a spedire merci direttamente dal proprio domicilio o da luoghi autorizzati, senza che queste merci debbano essere portate all’ufficio doganale di partenza.
 
 #### Art. 101
 
@@ -1609,7 +1609,7 @@ Lo speditore autorizzato è una persona autorizzata dall’AFD a spedire merci d
 
 ### (art. 42 cpv. 1 lett. a e d LD)
 
-Il destinatario autorizzato è una persona autorizzata dall’AFD a ricevere merci direttamente al proprio domicilio o in luoghi autorizzati, senza che queste merci debbano essere portate all’ufficio doganale di destinazione.
+Il destinatario autorizzato è una persona autorizzata dall’UDSC a ricevere merci direttamente al proprio domicilio o in luoghi autorizzati, senza che queste merci debbano essere portate all’ufficio doganale di destinazione.
 
 #### Art. 102
 
@@ -1617,7 +1617,7 @@ Il destinatario autorizzato è una persona autorizzata dall’AFD a ricevere mer
 
 ### (art. 42 cpv. 1 lett. a e d LD)
 
-I luoghi autorizzati sono quelli designati dall’AFD:
+I luoghi autorizzati sono quelli designati dall’UDSC:
 
 - a. nei quali un destinatario autorizzato può portare le merci da ricevere;
 - b. dai quali uno speditore autorizzato può prelevare le merci da spedire.
@@ -1630,7 +1630,7 @@ I luoghi autorizzati sono quelli designati dall’AFD:
 
 <sup>1</sup>
 
-L’AFD può rilasciare a una persona soggetta all’obbligo di dichiarazione un’autorizzazione quale speditore autorizzato o destinatario autorizzato, se i seguenti requisiti sono adempiuti:
+L’UDSC può rilasciare a una persona soggetta all’obbligo di dichiarazione un’autorizzazione quale speditore autorizzato o destinatario autorizzato, se i seguenti requisiti sono adempiuti:
 
 - a. la persona spedisce o riceve regolarmente merci;
 - b. la persona indica il suo domicilio o i luoghi, che saranno autorizzati;
@@ -1638,20 +1638,20 @@ L’AFD può rilasciare a una persona soggetta all’obbligo di dichiarazione un
 - d. la persona organizza l’amministrazione e l’esercizio in modo tale che il corso della spedizione e lo statuto doganale delle merci possano essere verificati successivamente in ogni momento senza lacune;
 - e. il domicilio della persona e i luoghi, che saranno autorizzati, si trovano nel territorio doganale e così vicino a un ufficio doganale che i controlli sono possibili con un onere amministrativo adeguato.
 
-<sup>2</sup> Nell’autorizzazione sono fissati condizioni e oneri per la procedura. L’AFD può escludere determinate merci dalla procedura.
+<sup>2</sup> Nell’autorizzazione sono fissati condizioni e oneri per la procedura. L’UDSC può escludere determinate merci dalla procedura.
 
 <sup>3</sup> L’autorizzazione stabilisce l’ufficio doganale competente di partenza o destinazione (ufficio doganale di controllo).
 
 <sup>4</sup>
 
-L’AFD rifiuta l’autorizzazione se il richiedente:
+L’UDSC rifiuta l’autorizzazione se il richiedente:
 
 - a. non offre garanzie per uno svolgimento regolare della procedura; o
-- b. ha commesso una grave infrazione o ripetute infrazioni contro il diritto federale, sempre che la relativa esecuzione spetti all’AFD.[^103-1]
+- b. ha commesso una grave infrazione o ripetute infrazioni contro il diritto federale, sempre che la relativa esecuzione spetti all’UDSC.[^103-1]
 
-<sup>5</sup> L’AFD decide in merito all’autorizzazione al più tardi entro 60 giorni dalla ricezione della documentazione completa.[^103-2]
+<sup>5</sup> L’UDSC decide in merito all’autorizzazione al più tardi entro 60 giorni dalla ricezione della documentazione completa.[^103-2]
 
-<sup>6</sup> Il titolare dell’autorizzazione deve comunicare all’AFD tutte le modifiche che riguardano i requisiti per l’autorizzazione.[^103-3]
+<sup>6</sup> Il titolare dell’autorizzazione deve comunicare all’UDSC tutte le modifiche che riguardano i requisiti per l’autorizzazione.[^103-3]
 
 [^103-1]: Nuovo testo giusta il n. I 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
 [^103-2]: Nuovo testo giusta il n. I 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
@@ -1663,11 +1663,11 @@ L’AFD rifiuta l’autorizzazione se il richiedente:
 
 ### (art. 42 cpv. 1 lett. a e d LD)
 
-L’AFD revoca l’autorizzazione se il titolare della stessa:
+L’UDSC revoca l’autorizzazione se il titolare della stessa:
 
 - a. non soddisfa più i requisiti per il rilascio dell’autorizzazione;
 - b. non rispetta le condizioni e gli oneri fissati nell’autorizzazione; o
-- c. commette ripetutamente infrazioni contro il diritto federale, sempre che la relativa esecuzione spetti all’AFD.
+- c. commette ripetutamente infrazioni contro il diritto federale, sempre che la relativa esecuzione spetti all’UDSC.
 
 #### Art. 105
 
@@ -1709,7 +1709,7 @@ Per un invio è possibile presentare più dichiarazioni doganali purché:
 - a. ciò non comporti una riduzione dei tributi; e
 - b. non siano elusi disposti di natura non doganale.
 
-<sup>4</sup> L’AFD può negare o ritirare l’autorizzazione ad avvalersi della dichiarazione doganale semplificata qualora vengano pregiudicati la riscossione dei tributi o l’osservanza di disposti di natura non doganale oppure non siano rispettate le condizioni e gli oneri fissati nell’autorizzazione di cui all’articolo 103.
+<sup>4</sup> L’UDSC può negare o ritirare l’autorizzazione ad avvalersi della dichiarazione doganale semplificata qualora vengano pregiudicati la riscossione dei tributi o l’osservanza di disposti di natura non doganale oppure non siano rispettate le condizioni e gli oneri fissati nell’autorizzazione di cui all’articolo 103.
 
 [^105a-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
@@ -1719,10 +1719,10 @@ Per un invio è possibile presentare più dichiarazioni doganali purché:
 
 ### (art. 42 cpv. 1 lett. a e d LD)
 
-L’AFD obbliga il destinatario autorizzato ad avvalersi della dichiarazione doganale semplificata se la Sorveglianza dei prezzi:
+L’UDSC obbliga il destinatario autorizzato ad avvalersi della dichiarazione doganale semplificata se la Sorveglianza dei prezzi:
 
 - a. constata che il destinatario autorizzato richiede per lo sdoganamento una controprestazione sproporzionatamente alta rispetto ad altri offerenti; e
-- b. presenta una relativa domanda all’AFD.
+- b. presenta una relativa domanda all’UDSC.
 
 [^105b-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
@@ -1732,7 +1732,7 @@ L’AFD obbliga il destinatario autorizzato ad avvalersi della dichiarazione dog
 
 ### (art. 38 e 42 LD)
 
-Nell’autorizzazione ai sensi dell’articolo 103 l’AFD può stabilire che per gli invii di cui all’articolo 105*a* capoverso 2 non venga emessa alcuna decisione d’imposizione.
+Nell’autorizzazione ai sensi dell’articolo 103 l’UDSC può stabilire che per gli invii di cui all’articolo 105*a* capoverso 2 non venga emessa alcuna decisione d’imposizione.
 
 [^105c-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
@@ -1829,7 +1829,7 @@ La procedura della ricezione autorizzata si applica a merci che sono portate al 
 
 ### (art. 42*a* LD)
 
-<sup>1</sup> La qualifica di operatore economico autorizzato («Authorised Economic Operator», AEO) è concessa dall’AFD.
+<sup>1</sup> La qualifica di operatore economico autorizzato («Authorised Economic Operator», AEO) è concessa dall’UDSC.
 
 <sup>2</sup> Un AEO è ritenuto affidabile per quanto concerne la sicurezza nella catena internazionale di fornitura.
 
@@ -1876,7 +1876,7 @@ La qualifica di AEO è concessa, su richiesta, alle persone che soddisfano i cri
 
 ### (art. 42*a* LD)
 
-Le prescrizioni doganali sono considerate rispettate se, nei tre anni precedenti la presentazione della domanda, le seguenti persone non hanno commesso né un’infrazione penale grave né infrazioni penali ripetute contro il diritto federale, la cui esecuzione spetta all’AFD:
+Le prescrizioni doganali sono considerate rispettate se, nei tre anni precedenti la presentazione della domanda, le seguenti persone non hanno commesso né un’infrazione penale grave né infrazioni penali ripetute contro il diritto federale, la cui esecuzione spetta all’UDSC:
 
 - a. il richiedente;
 - b. le persone responsabili dell’impresa richiedente o che ne esercitano il controllo della gestione;
@@ -1899,7 +1899,7 @@ Il sistema di tenuta dei libri contabili e, se del caso, dei documenti relativi 
 - d. dispone di un’organizzazione amministrativa che corrisponde al tipo e alla dimensione dell’impresa e che è adatta alla gestione dei movimenti di merci nonché di un sistema di controllo interno che permette di evitare, riconoscere e correggere gli errori e di individuare le operazioni illegali o irregolari;
 - e. dispone eventualmente di procedure per la gestione delle restrizioni all’importazione e all’esportazione in relazione con disposti di natura non doganale che permettono di distinguere le merci che soggiacciono a tali restrizioni dalle altre merci;
 - f. dispone di procedure per l’archiviazione di dati e documenti dell’impresa e per la protezione contro la perdita;
-- g. garantisce che l’AFD venga informata se l’impresa ha dubbi sull’applicazione di una prescrizione;
+- g. garantisce che l’UDSC venga informato se l’impresa ha dubbi sull’applicazione di una prescrizione;
 - h. ha adottato misure di sicurezza di tecnologia dell’informazione al fine di tutelare il sistema informatico dell’impresa da intrusioni non autorizzate e proteggere i dati.
 
 [^112e-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
@@ -1965,16 +1965,16 @@ Gli standard di sicurezza sono considerati adeguati se il richiedente comprova c
 
 [^112i-1]
 
-<sup>1</sup> La domanda per la concessione della qualifica di AEO deve essere presentata all’AFD tramite modulo ufficiale.
+<sup>1</sup> La domanda per la concessione della qualifica di AEO deve essere presentata all’UDSC tramite modulo ufficiale.
 
 <sup>2</sup>
 
 Alla domanda devono essere allegati i seguenti documenti:
 
-- a. il questionario dell’AFD debitamente compilato;
-- b. altra documentazione ritenuta necessaria dall’AFD ai fini dell’esame della domanda.
+- a. il questionario dell’UDSC debitamente compilato;
+- b. altra documentazione ritenuta necessaria dall’UDSC ai fini dell’esame della domanda.
 
-<sup>3</sup> L’AFD pubblica in modo adeguato la lista della documentazione richiesta di cui al capoverso 2 lettera b.
+<sup>3</sup> L’UDSC pubblica in modo adeguato la lista della documentazione richiesta di cui al capoverso 2 lettera b.
 
 [^112i-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
@@ -1988,12 +1988,12 @@ Alla domanda devono essere allegati i seguenti documenti:
 
 <sup>1</sup>
 
-Al più tardi entro 30 giorni dalla ricezione della documentazione, l’AFD verifica se:
+Al più tardi entro 30 giorni dalla ricezione della documentazione, l’UDSC verifica se:
 
 - a. le condizioni formali di cui all’articolo 112*b* sono adempiute; e
 - b. la documentazione richiesta di cui all’articolo 112*i* è stata presentata.[^112j-2]
 
-<sup>2</sup> Se il richiedente non adempie le condizioni, l’AFD lo informa con una decisione di non entrata nel merito.
+<sup>2</sup> Se il richiedente non adempie le condizioni, l’UDSC lo informa con una decisione di non entrata nel merito.
 
 <sup>3</sup> La decisione di non entrata nel merito può essere impugnata mediante ricorso amministrativo conformemente all’articolo 116 LD.
 
@@ -2008,19 +2008,19 @@ Al più tardi entro 30 giorni dalla ricezione della documentazione, l’AFD veri
 
 [^112k-1]
 
-<sup>1</sup> L’AFD verifica l’osservanza dei criteri di cui agli articoli 112*c*–112*h*. L’esame avviene in base alla documentazione inviata e ai controlli eseguiti al domicilio del richiedente.
+<sup>1</sup> L’UDSC verifica l’osservanza dei criteri di cui agli articoli 112*c*–112*h*. L’esame avviene in base alla documentazione inviata e ai controlli eseguiti al domicilio del richiedente.
 
-<sup>2</sup> A questo scopo, l’AFD tiene conto delle particolari caratteristiche dell’impresa del richiedente quali tipo, dimensioni e campo di attività.
+<sup>2</sup> A questo scopo, l’UDSC tiene conto delle particolari caratteristiche dell’impresa del richiedente quali tipo, dimensioni e campo di attività.
 
 <sup>3</sup> Essa può richiedere ulteriori documenti e informazioni se lo ritiene necessario ai fini dell’esame della domanda.
 
 <sup>4</sup> Essa documenta lo svolgimento dell’esame e il relativo risultato.
 
-<sup>5</sup> Se il risultato dell’esame comporta la reiezione della domanda, l’AFD accorda al richiedente la facoltà di prendere posizione in merito entro un termine fissato e di adottare misure correttive.
+<sup>5</sup> Se il risultato dell’esame comporta la reiezione della domanda, l’UDSC accorda al richiedente la facoltà di prendere posizione in merito entro un termine fissato e di adottare misure correttive.
 
-<sup>6</sup> L’AFD decide in merito alla concessione della qualifica di AEO al più tardi entro 180 giorni dall’esame formale della domanda ai sensi dell’articolo 112j.[^112k-2]
+<sup>6</sup> L’UDSC decide in merito alla concessione della qualifica di AEO al più tardi entro 180 giorni dall’esame formale della domanda ai sensi dell’articolo 112j.[^112k-2]
 
-<sup>7</sup> Se contro una persona di cui all’articolo 112*d* è pendente un procedimento penale per un’infrazione grave o per infrazioni ripetute ai sensi dell’articolo 112*d* o 112*g* lettera a e l’esito del procedimento è importante per valutare se le condizioni per la concessione della qualifica di AEO sono adempiute, l’AFD sospende l’esame materiale della domanda.[^112k-3]
+<sup>7</sup> Se contro una persona di cui all’articolo 112*d* è pendente un procedimento penale per un’infrazione grave o per infrazioni ripetute ai sensi dell’articolo 112*d* o 112*g* lettera a e l’esito del procedimento è importante per valutare se le condizioni per la concessione della qualifica di AEO sono adempiute, l’UDSC sospende l’esame materiale della domanda.[^112k-3]
 
 [^112k-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 [^112k-2]: Introdotto dal n. I 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
@@ -2038,7 +2038,7 @@ Al più tardi entro 30 giorni dalla ricezione della documentazione, l’AFD veri
 
 <sup>2</sup>
 
-L’AFD riconosce le seguenti prove:[^112l-3]
+L’UDSC riconosce le seguenti prove:[^112l-3]
 
 - a. un certificato di sicurezza riconosciuto su scala mondiale, rilasciato sulla base di una convenzione internazionale;
 - b. un certificato di sicurezza europeo, rilasciato sulla base della normativa comunitaria;
@@ -2072,7 +2072,7 @@ L’AFD riconosce le seguenti prove:[^112l-3]
 
 [^112n-1]
 
-Se respinge la domanda, l’AFD ne dà comunicazione al richiedente mediante decisione.
+Se respinge la domanda, l’UDSC ne dà comunicazione al richiedente mediante decisione.
 
 [^112n-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
@@ -2084,9 +2084,9 @@ Se respinge la domanda, l’AFD ne dà comunicazione al richiedente mediante dec
 
 [^112o-1]
 
-<sup>1</sup> L’AEO è tenuto a informare immediatamente l’AFD in merito a modifiche verificatesi nell’ambito della qualifica di AEO o che potrebbero compromettere il mantenimento di tale qualifica.
+<sup>1</sup> L’AEO è tenuto a informare immediatamente l’UDSC in merito a modifiche verificatesi nell’ambito della qualifica di AEO o che potrebbero compromettere il mantenimento di tale qualifica.
 
-<sup>2</sup> Su richiesta dell’AFD, l’AEO deve fornire tutte le informazioni e i documenti che possono essere rilevanti ai fini dell’esecuzione delle prescrizioni.
+<sup>2</sup> Su richiesta dell’UDSC, l’AEO deve fornire tutte le informazioni e i documenti che possono essere rilevanti ai fini dell’esecuzione delle prescrizioni.
 
 [^112o-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
@@ -2098,7 +2098,7 @@ Se respinge la domanda, l’AFD ne dà comunicazione al richiedente mediante dec
 
 [^112p-1]
 
-<sup>1</sup> L’AFD può effettuare controlli dell’impresa del richiedente o dell’AEO.
+<sup>1</sup> L’UDSC può effettuare controlli dell’impresa del richiedente o dell’AEO.
 
 <sup>2</sup> Essa può controllare costruzioni e impianti, richiedere informazioni, esaminare dati e documenti nonché sistemi e informazioni che possono essere rilevanti ai fini dell’esecuzione delle prescrizioni.
 
@@ -2112,7 +2112,7 @@ Se respinge la domanda, l’AFD ne dà comunicazione al richiedente mediante dec
 
 [^112q-1]
 
-<sup>1</sup> L’AFD è autorizzata a controllare che le condizioni e i criteri relativi alla qualifica di AEO continuino a essere adempiuti.
+<sup>1</sup> L’UDSC è autorizzata a controllare che le condizioni e i criteri relativi alla qualifica di AEO continuino a essere adempiuti.
 
 <sup>2</sup>
 
@@ -2134,7 +2134,7 @@ Essa procede a un riesame delle condizioni e dei criteri in particolare se:
 
 <sup>1</sup>
 
-L’AFD sospende la qualifica di AEO se constata o ha sufficienti motivi di ritenere che:
+L’UDSC sospende la qualifica di AEO se constata o ha sufficienti motivi di ritenere che:
 
 - a. le condizioni di cui agli articoli 112*b*, 112*e* nonché 112*g* lettere b–h non sono più adempiute;
 - b. una persona di cui all’articolo 112*d* è fortemente sospettata di aver commesso un’infrazione penale grave o infrazioni penali ripetute ai sensi dell’articolo 112*d* o 112*g* lettera a;
@@ -2152,9 +2152,9 @@ L’AFD sospende la qualifica di AEO se constata o ha sufficienti motivi di rite
 
 <sup>4</sup> La sospensione non ha effetto sulle procedure d’imposizione doganali avviate prima della sospensione.
 
-<sup>5</sup> L’AFD fissa la durata della sospensione in modo adeguato.
+<sup>5</sup> L’UDSC fissa la durata della sospensione in modo adeguato.
 
-<sup>6</sup> Se l’AEO adempie nuovamente le condizioni, l’AFD revoca la sospensione.
+<sup>6</sup> Se l’AEO adempie nuovamente le condizioni, l’UDSC revoca la sospensione.
 
 [^112r-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
@@ -2166,7 +2166,7 @@ L’AFD sospende la qualifica di AEO se constata o ha sufficienti motivi di rite
 
 <sup>1</sup>
 
-L’AFD revoca la qualifica di AEO se una persona di cui all’articolo 112*d*:
+L’UDSC revoca la qualifica di AEO se una persona di cui all’articolo 112*d*:
 
 - a. ha commesso un’infrazione penale grave o infrazioni penali ripetute ai sensi dell’articolo 112*d* o 112*g* lettera a e la decisione penale è passata in giudicato; oppure
 - b. durante il periodo della sospensione non ha adottato le misure necessarie.
@@ -2203,7 +2203,7 @@ Qualora un trattato internazionale preveda una dichiarazione sommaria di entrata
 Per merci del traffico turistico, la dichiarazione doganale ha luogo:
 
 - a. verbalmente; o
-- b. in un’altra forma di manifestazione della volontà ammessa dall’AFD.
+- b. in un’altra forma di manifestazione della volontà ammessa dall’UDSC.
 
 <sup>2</sup> Se fra la persona soggetta all’obbligo di dichiarazione e l’ufficio doganale esistono difficoltà di comprensione, la dichiarazione doganale può aver luogo sulla base della visita.
 
@@ -2237,9 +2237,9 @@ Nel traffico turistico, l’ufficio doganale emette la decisione d’imposizione
 
 [^116-1]
 
-<sup>1</sup> 1<sup>bis</sup> L’AFD decide in merito all’autorizzazione al più tardi entro 30 giorni dalla ricezione della documentazione completa.[^116-2]
+<sup>1</sup> 1<sup>bis</sup> L’UDSC decide in merito all’autorizzazione al più tardi entro 30 giorni dalla ricezione della documentazione completa.[^116-2]
 
-Nel traffico regionale, l’AFD può autorizzare, su richiesta scritta, per carichi di merci di genere unitario come asfalto, ghiaia, malta, segatura, legname in tronchi e allumina la dichiarazione collettiva periodica, se:
+Nel traffico regionale, l’UDSC può autorizzare, su richiesta scritta, per carichi di merci di genere unitario come asfalto, ghiaia, malta, segatura, legname in tronchi e allumina la dichiarazione collettiva periodica, se:
 
 - a. l’importazione o l’esportazione ha luogo regolarmente e attraverso lo stesso ufficio doganale; e
 - b. la gestione degli affari dell’ufficio doganale la consentono.
@@ -2253,7 +2253,7 @@ Dalla dichiarazione collettiva periodica sono escluse segnatamente merci:
 - a. che sottostanno a un obbligo d’autorizzazione;
 - b. per le quali esistono contingenti doganali.
 
-<sup>4</sup> Il titolare dell’autorizzazione deve prestare all’AFD una garanzia per i tributi presumibilmente dovuti per ciascun periodo di conteggio.
+<sup>4</sup> Il titolare dell’autorizzazione deve prestare all’UDSC una garanzia per i tributi presumibilmente dovuti per ciascun periodo di conteggio.
 
 [^tit2-chap3-sec5-1]: Referenza abrogata dal n. I 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, con effetto dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
 [^116-1]: Introdotta dal n. I 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
@@ -2265,11 +2265,11 @@ Dalla dichiarazione collettiva periodica sono escluse segnatamente merci:
 
 ### (art. 42 cpv. 1 lett. c LD)
 
-L’AFD revoca l’autorizzazione se il titolare:
+L’UDSC revoca l’autorizzazione se il titolare:
 
 - a. non adempie più i requisiti per il rilascio dell’autorizzazione;
 - b. non rispetta le condizioni e gli oneri fissati nell’autorizzazione; o
-- c. commette ripetute infrazioni contro il diritto federale, sempre che la relativa esecuzione spetti all’AFD.
+- c. commette ripetute infrazioni contro il diritto federale, sempre che la relativa esecuzione spetti all’UDSC.
 
 ### Sezione 6: Traffico nella zona di confine
 
@@ -2290,7 +2290,7 @@ Il gestore che intende sollecitare la franchigia doganale o la riduzione dei tri
 
 <sup>3</sup> Il certificato di reddito è valido solo per l’anno corrente e per i prodotti e i quantitativi ivi indicati.
 
-<sup>4</sup> Il gestore deve dichiarare ogni importazione di merci secondo la forma prescritta dall’AFD.[^118-1]
+<sup>4</sup> Il gestore deve dichiarare ogni importazione di merci secondo la forma prescritta dall’UDSC.[^118-1]
 
 [^118-1]: Introdotto dal n. I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
@@ -2312,7 +2312,7 @@ Il gestore che intende sollecitare la franchigia doganale o la riduzione dei tri
 
 ### (art. 43 cpv. 4 LD)
 
-<sup>1</sup> L’AFD può agevolare la vigilanza doganale sulla gestione di fondi che sono tagliati dal confine doganale.
+<sup>1</sup> L’UDSC può agevolare la vigilanza doganale sulla gestione di fondi che sono tagliati dal confine doganale.
 
 <sup>2</sup> I mezzi di produzione agricoli per lo sfruttamento di fondi, che sono tagliati dal confine doganale, possono essere esportati e reimportati senza formalità.
 
@@ -2332,7 +2332,7 @@ La presente sezione si applica al traffico transfrontaliero di persone e merci c
 
 ### (art. 44 cpv. 1 LD)
 
-Le imprese di trasporto ferroviario devono trasportare gratuitamente il personale dell’AFD che esegue i suoi compiti nei treni.
+Le imprese di trasporto ferroviario devono trasportare gratuitamente il personale dell’UDSC che esegue i suoi compiti nei treni.
 
 #### Art. 123
 
@@ -2340,11 +2340,11 @@ Le imprese di trasporto ferroviario devono trasportare gratuitamente il personal
 
 ### (art. 44 cpv. 1 LD)
 
-<sup>1</sup> Il gestore dell’infrastruttura deve portare a conoscenza dell’AFD l’orario prevedibile del traffico merci transfrontaliero.
+<sup>1</sup> Il gestore dell’infrastruttura deve portare a conoscenza dell’UDSC l’orario prevedibile del traffico merci transfrontaliero.
 
-<sup>2</sup> Esso deve annunciare anticipatamente all’AFD i viaggi effettivi del traffico merci e passeggeri transfrontaliero.
+<sup>2</sup> Esso deve annunciare anticipatamente all’UDSC i viaggi effettivi del traffico merci e passeggeri transfrontaliero.
 
-<sup>3</sup> L’AFD conviene con il gestore dell’infrastruttura la forma, il contenuto e il momento delle notifiche.
+<sup>3</sup> L’UDSC conviene con il gestore dell’infrastruttura la forma, il contenuto e il momento delle notifiche.
 
 #### Art. 124
 
@@ -2352,7 +2352,7 @@ Le imprese di trasporto ferroviario devono trasportare gratuitamente il personal
 
 ### (art. 44 cpv. 1 LD)
 
-Il personale attivo nelle imprese di trasporto ferroviario deve sostenere il personale dell’AFD nell’esecuzione dei compiti nel modo da esso richiesto.
+Il personale attivo nelle imprese di trasporto ferroviario deve sostenere il personale dell’UDSC nell’esecuzione dei compiti nel modo da esso richiesto.
 
 #### Art. 125
 
@@ -2364,7 +2364,7 @@ Il personale attivo nelle imprese di trasporto ferroviario deve sostenere il per
 
 <sup>2</sup> Essa deve trasmettere i dati gratuitamente nella forma pubblicata dal gestore dell’infrastruttura (condizioni di accesso alla rete).
 
-<sup>3</sup> Il gestore dell’infrastruttura deve trasmettere senza indugio la dichiarazione sommaria all’AFD nella forma fissata.
+<sup>3</sup> Il gestore dell’infrastruttura deve trasmettere senza indugio la dichiarazione sommaria all’UDSC nella forma fissata.
 
 <sup>4</sup> Le imprese di trasporto ferroviario, che utilizzano tratti a scartamento ridotto, sono esonerate dalla dichiarazione sommaria.
 
@@ -2392,7 +2392,7 @@ La presente sezione si applica al traffico transfrontaliero di persone e merci c
 
 ### (art. 44 cpv. 1 LD)
 
-Le imprese di tram e di autobus devono trasportare gratuitamente il personale dell’AFD che esegue i suoi compiti in tram e autobus.
+Le imprese di tram e di autobus devono trasportare gratuitamente il personale dell’UDSC che esegue i suoi compiti in tram e autobus.
 
 #### Art. 129
 
@@ -2400,11 +2400,11 @@ Le imprese di tram e di autobus devono trasportare gratuitamente il personale de
 
 ### (art. 44 cpv. 1 LD)
 
-<sup>1</sup> Nel traffico transfrontaliero delle persone, l’impresa di tram o autobus deve notificare all’AFD i viaggi non regolari al più tardi il giorno precedente l’esecuzione del viaggio.
+<sup>1</sup> Nel traffico transfrontaliero delle persone, l’impresa di tram o autobus deve notificare all’UDSC i viaggi non regolari al più tardi il giorno precedente l’esecuzione del viaggio.
 
-<sup>2</sup> L’AFD conviene con l’impresa di tram o autobus la forma e il contenuto della notifica.
+<sup>2</sup> L’UDSC conviene con l’impresa di tram o autobus la forma e il contenuto della notifica.
 
-<sup>3</sup> L’impresa di tram o autobus deve notificare senza indugio all’AFD quando un viaggio notificato non è eseguito.
+<sup>3</sup> L’impresa di tram o autobus deve notificare senza indugio all’UDSC quando un viaggio notificato non è eseguito.
 
 ### Sezione 9: Traffico per via d’acqua
 
@@ -2422,7 +2422,7 @@ La presente sezione si applica a tutti i battelli che, per via d’acqua, giungo
 
 ### (art. 44 cpv. 1 LD)
 
-Le imprese di navigazione devono trasportare gratuitamente il personale dell’AFD che esegue i suoi compiti sui battelli.
+Le imprese di navigazione devono trasportare gratuitamente il personale dell’UDSC che esegue i suoi compiti sui battelli.
 
 #### Art. 132
 
@@ -2430,13 +2430,13 @@ Le imprese di navigazione devono trasportare gratuitamente il personale dell’A
 
 ### (art. 44 cpv. 1 LD)
 
-<sup>1</sup> L’impresa di navigazione deve notificare all’AFD i viaggi non regolari nel traffico transfrontaliero delle persone al più tardi il giorno precedente l’esecuzione del viaggio.
+<sup>1</sup> L’impresa di navigazione deve notificare all’UDSC i viaggi non regolari nel traffico transfrontaliero delle persone al più tardi il giorno precedente l’esecuzione del viaggio.
 
 <sup>2</sup> È considerato transfrontaliero ogni traffico delle persone in cui il battello approda in territorio doganale estero.
 
-<sup>3</sup> L’impresa di navigazione deve notificare senza indugio all’AFD quando un viaggio notificato non è eseguito.
+<sup>3</sup> L’impresa di navigazione deve notificare senza indugio all’UDSC quando un viaggio notificato non è eseguito.
 
-<sup>4</sup> L’AFD conviene con l’impresa di navigazione la forma e il contenuto della notifica.
+<sup>4</sup> L’UDSC conviene con l’impresa di navigazione la forma e il contenuto della notifica.
 
 #### Art. 133
 
@@ -2456,7 +2456,7 @@ Le imprese di navigazione devono trasportare gratuitamente il personale dell’A
 
 ### (art. 44 cpv. 1 LD)
 
-Il personale attivo sui battelli deve sostenere il personale dell’AFD nell’esecuzione dei compiti nel modo da esso richiesto.
+Il personale attivo sui battelli deve sostenere il personale dell’UDSC nell’esecuzione dei compiti nel modo da esso richiesto.
 
 #### Art. 135
 
@@ -2508,7 +2508,7 @@ La presente sezione si applica a tutti gli aerei in arrivo dal territorio dogana
 
 <sup>1</sup> Nell’allestimento e nella ristrutturazione come pure nell’esercizio di aerodromi doganali occorre tener conto delle esigenze della vigilanza doganale e del controllo doganale.
 
-<sup>2</sup> I progetti, che riguardano la procedura d’imposizione doganale e il confine doganale, devono essere sottoposti preliminarmente per approvazione all’AFD.
+<sup>2</sup> I progetti, che riguardano la procedura d’imposizione doganale e il confine doganale, devono essere sottoposti preliminarmente per approvazione all’UDSC.
 
 #### Art. 140
 
@@ -2524,7 +2524,7 @@ L’esercente dell’aerodromo deve provvedere segnatamente affinché:
 - b. le procedure doganali per persone e merci siano sufficientemente separate;
 - c. tutte le persone interessate siano sufficientemente informate.
 
-<sup>2</sup> L’AFD fissa per ogni aerodromo doganale gli obblighi risultanti dal capoverso 1.
+<sup>2</sup> L’UDSC fissa per ogni aerodromo doganale gli obblighi risultanti dal capoverso 1.
 
 #### Art. 141
 
@@ -2532,7 +2532,7 @@ L’esercente dell’aerodromo deve provvedere segnatamente affinché:
 
 ### (art. 44 cpv. 1 LD)
 
-Il personale attivo in aerodromi doganali deve sostenere il personale dell’AFD nell’esecuzione dei compiti nel modo da esso richiesto.
+Il personale attivo in aerodromi doganali deve sostenere il personale dell’UDSC nell’esecuzione dei compiti nel modo da esso richiesto.
 
 #### Art. 142
 
@@ -2540,7 +2540,7 @@ Il personale attivo in aerodromi doganali deve sostenere il personale dell’AFD
 
 ### (art. 44 cpv. 1 LD)
 
-<sup>1</sup> Atterraggio e decollo possono aver luogo nel traffico aereo transfrontaliero solo su aerodromi doganali. I voli a destinazione di o in partenza da un’enclave doganale sono considerati voli transfrontalieri. L’AFD può autorizzare atterraggi e decolli anche al di fuori degli aerodromi doganali. Essa fissa le condizioni nell’autorizzazione.[^142-1]
+<sup>1</sup> Atterraggio e decollo possono aver luogo nel traffico aereo transfrontaliero solo su aerodromi doganali. I voli a destinazione di o in partenza da un’enclave doganale sono considerati voli transfrontalieri. L’UDSC può autorizzare atterraggi e decolli anche al di fuori degli aerodromi doganali. Essa fissa le condizioni nell’autorizzazione.[^142-1]
 
 <sup>2</sup> Qualora un aeromobile debba atterrare in un aerodromo che non è un aerodromo doganale, la direzione dell’aerodromo o, in sua assenza, il comandante deve informare l’ufficio doganale più vicino e seguire le istruzioni di quest’ultimo.
 
@@ -2595,7 +2595,7 @@ Nel traffico aereo di linea, la dichiarazione per il regime di transito nel terr
 
 <sup>1</sup> devono mettere a disposizione liste di passeggeri e di merci, sempre che vengano tenute.
 
-Ai fini della sorveglianza e del controllo del traffico delle persone e delle merci attraverso il confine doganale, ai fini della lotta e del perseguimento di infrazioni doganali come pure ai fini dell’esecuzione di disposti federali di natura non doganale, su richiesta dell’AFD:
+Ai fini della sorveglianza e del controllo del traffico delle persone e delle merci attraverso il confine doganale, ai fini della lotta e del perseguimento di infrazioni doganali come pure ai fini dell’esecuzione di disposti federali di natura non doganale, su richiesta dell’UDSC:
 
 - a.[^151-1] le imprese che trasportano persone o merci nel traffico transfrontaliero per ferrovia, autobus, battello e per via aerea; e
 - b. gli esercenti di aerodromi
@@ -2610,7 +2610,7 @@ I seguenti dati devono essere messi a disposizione:
 
 <sup>3</sup> L’obbligo di mettere a disposizione liste di passeggeri e di merci termina sei mesi dopo l’esecuzione del trasporto.
 
-<sup>4</sup> I dati messi a disposizione dell’AFD sono distrutti da quest’ultima 72 ore dopo il loro ricevimento.
+<sup>4</sup> I dati messi a disposizione dell’UDSC sono distrutti da quest’ultima 72 ore dopo il loro ricevimento.
 
 [^151-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
@@ -2632,11 +2632,11 @@ I regimi internazionali di transito, che si applicano alla Svizzera sulla base d
 
 ### (art. 49 cpv. 2 LD)
 
-<sup>1</sup> L’identità delle merci è garantita in linea di massima mediante sigillo. Sono ammessi unicamente sigilli che l’AFD ritiene confacenti allo scopo.
+<sup>1</sup> L’identità delle merci è garantita in linea di massima mediante sigillo. Sono ammessi unicamente sigilli che l’UDSC ritiene confacenti allo scopo.
 
 <sup>2</sup> La persona soggetta all’obbligo di dichiarazione deve indicare il genere e il numero di sigilli nella dichiarazione doganale.
 
-<sup>3</sup> L’AFD può prescindere dal sigillo, se l’identità delle merci può essere garantita dalla relativa descrizione o da altre misure adeguate.
+<sup>3</sup> L’UDSC può prescindere dal sigillo, se l’identità delle merci può essere garantita dalla relativa descrizione o da altre misure adeguate.
 
 #### Art. 154
 
@@ -2646,7 +2646,7 @@ I regimi internazionali di transito, che si applicano alla Svizzera sulla base d
 
 <sup>1</sup> Il termine di transito coincide con il periodo di tempo necessario al transito.
 
-<sup>2</sup> Per importanti motivi, l’AFD può prorogare il termine di validità.
+<sup>2</sup> Per importanti motivi, l’UDSC può prorogare il termine di validità.
 
 #### Art. 155
 
@@ -2656,7 +2656,7 @@ I regimi internazionali di transito, che si applicano alla Svizzera sulla base d
 
 <sup>1</sup> La conclusione del regime di transito dev’essere richiesta all’ufficio doganale di destinazione entro il termine di validità indicato nel documento di transito.
 
-<sup>2</sup> Se l’AFD constata irregolarità, rifiuta la conclusione del regime di transito e trattiene la garanzia finché sono pagati i tributi doganali all’importazione stabiliti con obbligo di pagamento condizionato.
+<sup>2</sup> Se l’UDSC constata irregolarità, rifiuta la conclusione del regime di transito e trattiene la garanzia finché sono pagati i tributi doganali all’importazione stabiliti con obbligo di pagamento condizionato.
 
 ### Sezione 2: Regime di deposito doganale
 
@@ -2678,12 +2678,12 @@ Se il depositario deposita merci per proprio conto, è considerato depositante.
 
 <sup>2</sup>
 
-Se le merci non possono essere esportate entro sei mesi dall’accettazione della dichiarazione doganale, il depositante può chiedere all’AFD una proroga del termine d’esportazione. L’AFD accoglie la richiesta se le seguenti condizioni sono adempiute:
+Se le merci non possono essere esportate entro sei mesi dall’accettazione della dichiarazione doganale, il depositante può chiedere all’UDSC una proroga del termine d’esportazione. L’UDSC accoglie la richiesta se le seguenti condizioni sono adempiute:
 
 - a. al momento della richiesta l’acquirente della merce ha la propria sede o il proprio domicilio fuori dal territorio doganale;
 - b. le merci non possono essere esportate entro sei mesi dall’accettazione della dichiarazione doganale per motivi sufficienti, come ritardi nella catena logistica, un contratto non concluso oppure per motivi di cui al capoverso 4.
 
-<sup>3</sup> L’AFD può, su richiesta, prorogare il termine al massimo tre volte e ogni volta al massimo di sei mesi.
+<sup>3</sup> L’UDSC può, su richiesta, prorogare il termine al massimo tre volte e ogni volta al massimo di sei mesi.
 
 <sup>4</sup> Se, senza sua colpa, segnatamente a causa di fallimento del destinatario finale all’estero, catastrofi naturali, misure per applicare sanzioni internazionali o eventi bellici nel Paese di destinazione, il depositante è stato impedito di esportare le merci entro i termini prorogati ai sensi del capoverso 3, egli può richiedere una proroga del termine d’esportazione alla Direzione generale delle dogane.
 
@@ -2699,7 +2699,7 @@ Se le merci non possono essere esportate entro sei mesi dall’accettazione dell
 
 ### (art. 54 cpv. 2 LD)
 
-La gestione regolare non è garantita segnatamente quando il richiedente ha commesso una grave infrazione o ripetute infrazioni contro il diritto federale, sempre che la relativa esecuzione spetti all’AFD.
+La gestione regolare non è garantita segnatamente quando il richiedente ha commesso una grave infrazione o ripetute infrazioni contro il diritto federale, sempre che la relativa esecuzione spetti all’UDSC.
 
 #### Art. 159
 
@@ -2707,11 +2707,11 @@ La gestione regolare non è garantita segnatamente quando il richiedente ha comm
 
 ### (art. 54 LD)
 
-L’AFD revoca l’autorizzazione, se il titolare del deposito:
+L’UDSC revoca l’autorizzazione, se il titolare del deposito:
 
 - a. non adempie più i requisiti di cui all’articolo 54 capoverso 2 LD;
 - b. non rispetta le condizioni e gli oneri fissati nelle autorizzazioni; o
-- c. commette ripetutamente infrazioni contro il diritto federale, sempre che la relativa esecuzione spetti all’AFD.
+- c. commette ripetutamente infrazioni contro il diritto federale, sempre che la relativa esecuzione spetti all’UDSC.
 
 #### Art. 160
 
@@ -2736,7 +2736,7 @@ Non sono ammesse lavorazioni che:
 - a. comportano il rischio di contraffazione; o
 - b. possono comportare una riduzione dei tributi o l’aggiramento di disposti federali di natura non doganale.
 
-<sup>2</sup> L’AFD può vietare la lavorazione di merci che potrebbe pregiudicare l’imposizione doganale regolare in Svizzera e all’estero.
+<sup>2</sup> L’UDSC può vietare la lavorazione di merci che potrebbe pregiudicare l’imposizione doganale regolare in Svizzera e all’estero.
 
 ### Sezione 3: Regime di ammissione temporanea
 
@@ -2750,11 +2750,11 @@ Non sono ammesse lavorazioni che:
 
 <sup>2</sup> Se cambia lo scopo d’impiego o l’utilizzatore oppure se vi è un trasferimento di proprietà delle merci, la persona soggetta all’obbligo di dichiarazione deve presentare una nuova dichiarazione doganale. Essa deve informare le altre persone soggette all’obbligo di dichiarazione in merito ai loro obblighi quali persone soggette all’obbligo di dichiarazione.
 
-<sup>3</sup> La nuova dichiarazione doganale ai sensi del capoverso 2 deve essere presentata prima che cambi lo scopo d’impiego o l’utilizzatore oppure che vi sia il trasferimento di proprietà. L’AFD può prevedere che la dichiarazione doganale sia presentata in un secondo momento, in particolare in caso di merci importate per la vendita incerta.
+<sup>3</sup> La nuova dichiarazione doganale ai sensi del capoverso 2 deve essere presentata prima che cambi lo scopo d’impiego o l’utilizzatore oppure che vi sia il trasferimento di proprietà. L’UDSC può prevedere che la dichiarazione doganale sia presentata in un secondo momento, in particolare in caso di merci importate per la vendita incerta.
 
 <sup>4</sup> Se non viene presentata una nuova dichiarazione doganale ai sensi del capoverso 2, l’obbligazione doganale sorge nel momento in cui avrebbe dovuto essere presentata la nuova dichiarazione doganale.
 
-<sup>5</sup> Il regime di ammissione temporanea si applica a un passaggio di confine con successiva reimportazione o riesportazione delle merci. Per determinate merci l’AFD può autorizzare ripetuti passaggi di confine.
+<sup>5</sup> Il regime di ammissione temporanea si applica a un passaggio di confine con successiva reimportazione o riesportazione delle merci. Per determinate merci l’UDSC può autorizzare ripetuti passaggi di confine.
 
 [^162-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
@@ -2764,7 +2764,7 @@ Non sono ammesse lavorazioni che:
 
 ### (art. 58 cpv. 2 lett. b LD)
 
-<sup>1</sup> L’AFD decide l’adozione di adeguate misure volte a garantire l’identità.
+<sup>1</sup> L’UDSC decide l’adozione di adeguate misure volte a garantire l’identità.
 
 <sup>2</sup> La garanzia dell’identità dev’essere indicata nella dichiarazione doganale.
 
@@ -2774,11 +2774,11 @@ Non sono ammesse lavorazioni che:
 
 ### (art. 58 cpv. 1 LD)
 
-<sup>1</sup> L’autorizzazione per l’ammissione temporanea a fini commerciali di un mezzo di trasporto estero in territorio doganale conformemente all’articolo 34 dev’essere richiesta, prima della prima importazione, all’AFD.
+<sup>1</sup> L’autorizzazione per l’ammissione temporanea a fini commerciali di un mezzo di trasporto estero in territorio doganale conformemente all’articolo 34 dev’essere richiesta, prima della prima importazione, all’UDSC.
 
-<sup>2</sup> L’autorizzazione per l’ammissione temporanea per uso proprio di un mezzo di trasporto estero in territorio doganale conformemente all’articolo 35 dev’essere richiesta, prima della prima importazione o al momento dell’acquisto in Svizzera, all’AFD.
+<sup>2</sup> L’autorizzazione per l’ammissione temporanea per uso proprio di un mezzo di trasporto estero in territorio doganale conformemente all’articolo 35 dev’essere richiesta, prima della prima importazione o al momento dell’acquisto in Svizzera, all’UDSC.
 
-<sup>3</sup> L’AFD può rinnovare le autorizzazioni conformemente all’articolo 35 capoversi 1 e 2 lettera a.
+<sup>3</sup> L’UDSC può rinnovare le autorizzazioni conformemente all’articolo 35 capoversi 1 e 2 lettera a.
 
 ### Sezione 4: Regime del perfezionamento attivo
 
@@ -2875,7 +2875,7 @@ All’organo di sorveglianza designato nell’autorizzazione il titolare dell’
 
 <sup>1</sup> Gli scarti o i prodotti secondari, che risultano nel processo di perfezionamento e che rimangono nel territorio doganale, devono essere dichiarati, per il trasporto in libera pratica secondo il diritto doganale, all’organo di sorveglianza al momento della conclusione del regime del perfezionamento attivo.
 
-<sup>2</sup> La riscossione dei tributi doganali per gli scarti e i prodotti secondari è disciplinata conformemente alla classificazione tariffale delle merci trasportate in territorio doganale per esservi perfezionate. L’AFD può accordare la riduzione dei tributi doganali o la franchigia doganale.
+<sup>2</sup> La riscossione dei tributi doganali per gli scarti e i prodotti secondari è disciplinata conformemente alla classificazione tariffale delle merci trasportate in territorio doganale per esservi perfezionate. L’UDSC può accordare la riduzione dei tributi doganali o la franchigia doganale.
 
 #### Art. 170
 
@@ -2981,7 +2981,7 @@ Se il regime d’esportazione non è concluso regolarmente, la persona soggetta 
 
 <sup>1</sup> I depositi franchi doganali devono essere separati mediante misure edilizie dal resto del territorio doganale in modo che nessuna merce possa essere sottratta alla vigilanza doganale.
 
-<sup>2</sup> L’AFD fissa il genere di misure edilizie nell’autorizzazione per l’esercizio del deposito franco doganale.
+<sup>2</sup> L’UDSC fissa il genere di misure edilizie nell’autorizzazione per l’esercizio del deposito franco doganale.
 
 #### Art. 176
 
@@ -2997,7 +2997,7 @@ Se il depositario deposita merci per proprio conto, è considerato anche deposit
 
 ### (art. 64 cpv. 2 LD)
 
-La gestione regolare non è garantita segnatamente quando il richiedente ha commesso una grave infrazione o ripetute infrazioni contro il diritto federale, sempre che la relativa esecuzione spetti all’AFD.
+La gestione regolare non è garantita segnatamente quando il richiedente ha commesso una grave infrazione o ripetute infrazioni contro il diritto federale, sempre che la relativa esecuzione spetti all’UDSC.
 
 #### Art. 178
 
@@ -3005,11 +3005,11 @@ La gestione regolare non è garantita segnatamente quando il richiedente ha comm
 
 ### (art. 64 cpv. 1 LD)
 
-L’AFD revoca l’autorizzazione, se il titolare del deposito:
+L’UDSC revoca l’autorizzazione, se il titolare del deposito:
 
 - a. non adempie più i requisiti di cui all’articolo 64 capoverso 2 LD;
 - b. non rispetta le condizioni e gli oneri fissati nell’autorizzazione; o
-- c. commette ripetutamente infrazioni contro il diritto federale, sempre che la relativa esecuzione spetti all’AFD.
+- c. commette ripetutamente infrazioni contro il diritto federale, sempre che la relativa esecuzione spetti all’UDSC.
 
 #### Art. 178a
 
@@ -3058,7 +3058,7 @@ Non sono ammesse lavorazioni che:
 - a. comportano il rischio di contraffazione; o
 - b. possono comportare una riduzione dei tributi o l’aggiramento di disposti federali di natura non doganale.
 
-<sup>2</sup> L’AFD può vietare la lavorazione e il miglioramento di merci che potrebbero pregiudicare l’imposizione doganale regolare in Svizzera e all’estero.
+<sup>2</sup> L’UDSC può vietare la lavorazione e il miglioramento di merci che potrebbero pregiudicare l’imposizione doganale regolare in Svizzera e all’estero.
 
 #### Art. 182
 
@@ -3088,7 +3088,7 @@ c.[^183-3] nome e indirizzo della persona che tiene l’inventario.
 
 <sup>1bis</sup> L’elenco deve essere tenuto elettronicamente.[^183-4]
 
-<sup>2</sup> Su richiesta, il depositario deve presentare senza indugio l’elenco all’AFD per via elettronica. L’AFD definisce lo standard minimo per il formato dei file.[^183-5]
+<sup>2</sup> Su richiesta, il depositario deve presentare senza indugio l’elenco all’UDSC per via elettronica. L’UDSC definisce lo standard minimo per il formato dei file.[^183-5]
 
 [^183-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 [^183-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
@@ -3116,7 +3116,7 @@ L’inventario deve contenere le seguenti indicazioni:
 - h. valore della merce depositata;
 - i. genere del documento doganale successivo con la data dell’accettazione, l’ufficio doganale che lo ha rilasciato e il numero;
 - j. segni, numeri, quantità di pezzi d’imballaggio;
-- k.[^184-2] massa lorda e massa netta; l’AFD può, su richiesta, dispensare il depositario dall’obbligo di rilevare la massa lorda o la massa netta;
+- k.[^184-2] massa lorda e massa netta; l’UDSC può, su richiesta, dispensare il depositario dall’obbligo di rilevare la massa lorda o la massa netta;
 - l. precedente prova dell’origine;
 - m. eventualmente carattere comune T-2 ai sensi della Convenzione del 20 maggio 1987[^184-3] relativa ad un regime comune di transito;
 - n. trattamenti ai quali è sottoposta la merce;
@@ -3126,9 +3126,9 @@ L’inventario deve contenere le seguenti indicazioni:
 
 <sup>2</sup> L’inventario deve essere tenuto elettronicamente.[^184-5]
 
-<sup>3</sup> Dall’inventario deve poter essere accertato in ogni momento l’attuale effettivo di merci sensibili che si trovano nel deposito franco doganale. Su richiesta dell’AFD, il depositario deve presentare l’inventario senza indugio.
+<sup>3</sup> Dall’inventario deve poter essere accertato in ogni momento l’attuale effettivo di merci sensibili che si trovano nel deposito franco doganale. Su richiesta dell’UDSC, il depositario deve presentare l’inventario senza indugio.
 
-<sup>3bis</sup> Su richiesta, il depositario deve presentare l’inventario all’AFD. L’AFD definisce la forma e lo standard minimo per il formato dei file.[^184-6]
+<sup>3bis</sup> Su richiesta, il depositario deve presentare l’inventario all’UDSC. L’UDSC definisce la forma e lo standard minimo per il formato dei file.[^184-6]
 
 <sup>4</sup> Se il depositario non tiene o non tiene in maniera regolare gli inventari oppure non può presentare l’inventario senza indugio, i locali sono posti sotto sigillo e ulteriori immissioni o uscite di merci sono vietate sino al momento in cui è presentato un inventario tenuto in maniera regolare.
 
@@ -3165,7 +3165,7 @@ Deve essere tenuto un inventario per merci sensibili per ciascun depositante. Se
 
 L’obbligo di pagare l’interesse di mora inizia in caso di:
 
-- a. pagamento mediante la procedura accentrata di conteggio dell’AFD (PCD): allo scadere di un eventuale termine di pagamento accordato;
+- a. pagamento mediante la procedura accentrata di conteggio dell’UDSC (PCD): allo scadere di un eventuale termine di pagamento accordato;
 - b. crediti doganali fissati condizionatamente, che sono dovuti in maniera definitiva e che non sono stati garantiti da depositi in contanti: a partire dal momento dell’accettazione della prima dichiarazione doganale;
 - c. recupero di tributi doganali la cui restituzione è stata ottenuta indebitamente: a partire dalla data della restituzione;
 - d. negli altri casi: dal momento determinante di cui all’articolo 69 LD.
@@ -3206,7 +3206,7 @@ Non è versato alcun interesse rimunerativo per:
   - 2\. regime di deposito doganale per depositi destinati a merci di gran consumo,
   - 3\. regime di ammissione temporanea;
 
-- d. la restituzione di depositi in contanti, ad eccezione di quelli nell’ambito di imposizioni provvisorie allestite d’ufficio dall’AFD.
+- d. la restituzione di depositi in contanti, ad eccezione di quelli nell’ambito di imposizioni provvisorie allestite d’ufficio dall’UDSC.
 
 ### Capitolo 2: Garanzia dei crediti doganali
 
@@ -3228,7 +3228,7 @@ Per quanto le disposizioni seguenti non contengano prescrizioni deroganti, è ap
 
 <sup>1</sup> Il deposito in contanti avviene di regola in franchi svizzeri.
 
-<sup>2</sup> L’AFD può accettare valute estere quali depositi in contanti. Essa fissa le condizioni al riguardo.
+<sup>2</sup> L’UDSC può accettare valute estere quali depositi in contanti. Essa fissa le condizioni al riguardo.
 
 #### Art. 191
 
@@ -3238,7 +3238,7 @@ Per quanto le disposizioni seguenti non contengano prescrizioni deroganti, è ap
 
 <sup>1</sup>
 
-L’AFD può riconoscere i seguenti titoli come garanzia:
+L’UDSC può riconoscere i seguenti titoli come garanzia:
 
 - a. prestiti della Confederazione;
 - b. obbligazioni di cassa di banche svizzere;
@@ -3248,7 +3248,7 @@ L’AFD può riconoscere i seguenti titoli come garanzia:
 
 <sup>3</sup> La persona che deposita i titoli è tenuta a controllare i titoli depositati per quanto riguarda scadenza, sorteggio o rimborso e a prendere tutte le misure necessarie per conservare il loro valore e per incassare le somme scadute. Se, a tale scopo, deve farsi emettere i titoli depositati, occorre fornire una nuova garanzia.
 
-<sup>4</sup> L’AFD verifica periodicamente se i titoli depositati corrispondono ancora all’ammontare della garanzia necessaria. Se i titoli depositati perdono valore durante il termine di conservazione, essa fissa un termine per una nuova garanzia. Se non viene fornita una nuova garanzia, i titoli sono realizzati.
+<sup>4</sup> L’UDSC verifica periodicamente se i titoli depositati corrispondono ancora all’ammontare della garanzia necessaria. Se i titoli depositati perdono valore durante il termine di conservazione, essa fissa un termine per una nuova garanzia. Se non viene fornita una nuova garanzia, i titoli sono realizzati.
 
 #### Art. 192
 
@@ -3295,7 +3295,7 @@ La garanzia ammonta:
 
 <sup>1</sup> Non è necessaria una garanzia nel regime dell’ammissione temporanea secondo l’articolo 34 capoverso 2<sup>bis</sup> [^195-1], nella procedura di non riscossione nel regime del perfezionamento attivo e nel regime del perfezionamento passivo.[^195-2]
 
-<sup>2</sup> L’AFD decide se, in altri casi, si può rinunciare alla garanzia.
+<sup>2</sup> L’UDSC decide se, in altri casi, si può rinunciare alla garanzia.
 
 [^195-1]: Ora: secondo l’art. 34 cpv. 3.
 [^195-2]: Nuovo testo giusta il n. I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
@@ -3306,7 +3306,7 @@ La garanzia ammonta:
 
 ### (art. 76 LD)
 
-<sup>1</sup> Se l’obbligazione doganale garantita da deposito di titoli diviene esigibile, l’AFD può assegnare al debitore doganale un termine di pagamento con l’esatta indicazione dell’importo del credito.
+<sup>1</sup> Se l’obbligazione doganale garantita da deposito di titoli diviene esigibile, l’UDSC può assegnare al debitore doganale un termine di pagamento con l’esatta indicazione dell’importo del credito.
 
 <sup>2</sup> Se il debitore paga entro questo termine, gli vengono restituiti i titoli da esso depositati.
 
@@ -3327,7 +3327,7 @@ Quale fideiussore generale o fideiussore singolo può essere riconosciuta:
 - a. una banca con sede in Svizzera, sottoposta alla vigilanza dell’Autorità di vigilanza dei mercati finanziari[^197-1]; o
 - b. un’assicurazione con sede in Svizzera, sottoposta alla vigilanza della Confederazione.
 
-<sup>2</sup> L’AFD può riconoscere quale fideiussore singolo una persona giuridica con sede in Svizzera o, eccezionalmente, una persona fisica con domicilio in Svizzera, che prova di essere in grado di rispondere per un singolo credito doganale.
+<sup>2</sup> L’UDSC può riconoscere quale fideiussore singolo una persona giuridica con sede in Svizzera o, eccezionalmente, una persona fisica con domicilio in Svizzera, che prova di essere in grado di rispondere per un singolo credito doganale.
 
 <sup>3</sup> Essa può esigere che la fideiussione doganale sia prestata da più persone.
 
@@ -3339,7 +3339,7 @@ Quale fideiussore generale o fideiussore singolo può essere riconosciuta:
 
 ### (art. 77 cpv. 2 LD)
 
-L’AFD fissa l’importo massimo garantito (somma della fideiussione).
+L’UDSC fissa l’importo massimo garantito (somma della fideiussione).
 
 #### Art. 199
 
@@ -3370,7 +3370,7 @@ Il fideiussore risponde:
 
 ### (art. 77 LD)
 
-<sup>1</sup> L’AFD sorveglia la situazione finanziaria del fideiussore.
+<sup>1</sup> L’UDSC sorveglia la situazione finanziaria del fideiussore.
 
 <sup>2</sup> Essa adotta le misure necessarie se esistono indizi che il fideiussore non è in grado di adempiere gli obblighi finanziari contratti.
 
@@ -3401,12 +3401,12 @@ Nell’attestazione è indicato l’importo pagato e il credito doganale a cui s
 
 <sup>1</sup>
 
-L’AFD dichiara all’amministrazione del fallimento i crediti doganali, se:
+L’UDSC dichiara all’amministrazione del fallimento i crediti doganali, se:
 
 - a. è avviata una procedura di fallimento nei confronti del debitore doganale; o
 - b. è avviata una procedura di fallimento nei confronti del fideiussore ed esistono crediti doganali nei confronti di questa persona.
 
-<sup>2</sup> Se l’AFD rinuncia alla dichiarazione di cui al capoverso 1 lettera a, essa esige dal fideiussore il pagamento completo dell’obbligazione doganale. Essa rilascia al fideiussore una corrispondente attestazione, che serve quale titolo di credito nella procedura di fallimento.
+<sup>2</sup> Se l’UDSC rinuncia alla dichiarazione di cui al capoverso 1 lettera a, essa esige dal fideiussore il pagamento completo dell’obbligazione doganale. Rilascia al fideiussore una corrispondente attestazione, che serve quale titolo di credito nella procedura di fallimento.
 
 <sup>3</sup> In caso di fallimento del debitore doganale, la fideiussione rimane valida.
 
@@ -3416,9 +3416,9 @@ L’AFD dichiara all’amministrazione del fallimento i crediti doganali, se:
 
 ### (art. 78 LD)
 
-<sup>1</sup> Se il debitore doganale muore, l’AFD invita il fideiussore al pagamento del credito conformemente all’articolo 200 lettere a, b e d e dichiara il credito al momento dell’allestimento dell’inventario dell’eredità.
+<sup>1</sup> Se il debitore doganale muore, l’UDSC invita il fideiussore al pagamento del credito conformemente all’articolo 200 lettere a, b e d e dichiara il credito al momento dell’allestimento dell’inventario dell’eredità.
 
-<sup>2</sup> Se il fideiussore muore, l’obbligo derivante dalla fideiussione passa agli eredi. L’AFD dichiara il credito di cui all’articolo 200 lettere a, b e d al momento dell’allestimento dell’inventario dell’eredità.
+<sup>2</sup> Se il fideiussore muore, l’obbligo derivante dalla fideiussione passa agli eredi. L’UDSC dichiara il credito di cui all’articolo 200 lettere a, b e d al momento dell’allestimento dell’inventario dell’eredità.
 
 #### Art. 205
 
@@ -3426,7 +3426,7 @@ L’AFD dichiara all’amministrazione del fallimento i crediti doganali, se:
 
 ### (art. 79 cpv. 2 LD)
 
-Se è annunciata una garanzia generale, l’AFD ne informa il debitore doganale e lo invita a prestare una nuova garanzia entro un termine dato.
+Se è annunciata una garanzia generale, l’UDSC ne informa il debitore doganale e lo invita a prestare una nuova garanzia entro un termine dato.
 
 #### Art. 206
 
@@ -3450,7 +3450,7 @@ Una garanzia singola termina con:
 
 <sup>1</sup>
 
-L’AFD annulla una garanzia generale o singola, segnatamente se:
+L’UDSC annulla una garanzia generale o singola, segnatamente se:
 
 - a. il fideiussore perde la qualità necessaria per la costituzione della fideiussione;
 - b. il fideiussore trasferisce la sede o il domicilio all’estero;
@@ -3459,7 +3459,7 @@ L’AFD annulla una garanzia generale o singola, segnatamente se:
 
 <sup>2</sup> Essa invita il debitore a prestare una nuova garanzia entro un determinato termine.
 
-<sup>3</sup> Se, entro il termine dato, non è prestata alcuna garanzia, l’AFD emette nei confronti del debitore doganale un ordine di prestare garanzia o avvia una procedura d’esecuzione per debiti.
+<sup>3</sup> Se, entro il termine dato, non è prestata alcuna garanzia, l’UDSC emette nei confronti del debitore doganale un ordine di prestare garanzia o avvia una procedura d’esecuzione per debiti.
 
 ### Sezione 3: Ordine di prestare garanzia
 
@@ -3486,7 +3486,7 @@ Sono equiparati a un credito doganale non ancora esigibile:
 
 L’ordine di prestare garanzia deve contenere quanto segue:
 
-- a. indicazione che la Confederazione Svizzera, rappresentata dall’AFD, è la creditrice;
+- a. indicazione che la Confederazione Svizzera, rappresentata dall’UDSC, è la creditrice;
 - b. nome e indirizzo del debitore doganale;
 - c. credito per il quale è richiesta la garanzia ed eventualmente predisposto il sequestro, come pure il relativo ammontare;
 - d. motivo giuridico della garanzia;
@@ -3494,7 +3494,7 @@ L’ordine di prestare garanzia deve contenere quanto segue:
 - f. designazione esatta degli oggetti da sequestrare e del luogo in cui si trovano (luogo del sequestro);
 - g. termine per prestare la garanzia;
 - h. ufficio competente di ricezione della garanzia;
-- i. indicazione che le condizioni dell’obbligo di risarcimento dell’AFD sono rette dalle disposizioni della legge del 14 marzo 1958[^209-1] sulla responsabilità;
+- i. indicazione che le condizioni dell’obbligo di risarcimento dell’UDSC sono rette dalle disposizioni della legge del 14 marzo 1958[^209-1] sulla responsabilità;
 - j. rimedi giuridici.
 
 [^209-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
@@ -3514,7 +3514,7 @@ L’ordine di prestare garanzia è rivolto:
 
 <sup>2</sup> L’ordine di prestare garanzia è immediatamente eseguibile.
 
-<sup>3</sup> L’AFD presenta entro dieci giorni dalla consegna del verbale di sequestro una domanda di esecuzione all’ufficio d’esecuzione competente nel luogo di sequestro.[^210-1]
+<sup>3</sup> L’UDSC presenta entro dieci giorni dalla consegna del verbale di sequestro una domanda di esecuzione all’ufficio d’esecuzione competente nel luogo di sequestro.[^210-1]
 
 <sup>4</sup> Sono applicabili le corrispondenti disposizioni della LEF[^210-2].
 
@@ -3529,7 +3529,7 @@ L’ordine di prestare garanzia è rivolto:
 
 ### (art. 81 LD)
 
-<sup>1</sup> L’AFD annulla l’ordine di prestare garanzia e un eventuale sequestro, se la garanzia necessaria è stata prestata. Essa informa dell’annullamento l’ufficio d’esecuzione competente nel luogo di sequestro.
+<sup>1</sup> L’UDSC annulla l’ordine di prestare garanzia e un eventuale sequestro, se la garanzia necessaria è stata prestata. Informa dell’annullamento l’ufficio d’esecuzione competente nel luogo di sequestro.
 
 <sup>2</sup> Se un ricorso inoltrato contro un ordine di prestare garanzia è accolto, il sequestro e l’esecuzione divengono privi di oggetto.
 
@@ -3569,7 +3569,7 @@ Il sequestro può riguardare anche merci o cose:
 - a. sulle quali esistono diritti di proprietà o di pegno di terzi; o
 - b. che sono state costituite in pegno conformemente al diritto in materia di esecuzione per debiti, che sono oggetto di sequestro o sono state inserite in una massa fallimentare.
 
-<sup>2</sup> Se i terzi sono noti, l’AFD comunica loro il sequestro.
+<sup>2</sup> Se i terzi sono noti, l’UDSC comunica loro il sequestro.
 
 #### Art. 215
 
@@ -3577,7 +3577,7 @@ Il sequestro può riguardare anche merci o cose:
 
 ### (art. 83 LD)
 
-L’AFD verbalizza e decide il sequestro di un pegno doganale. Un ricorso interposto contro questa decisione non ha effetto sospensivo.
+L’UDSC verbalizza e decide il sequestro di un pegno doganale. Un ricorso interposto contro questa decisione non ha effetto sospensivo.
 
 #### Art. 216
 
@@ -3595,7 +3595,7 @@ Il destinatario della decisione di sequestro è la persona che possiede o custod
 
 <sup>1</sup> Il proprietario di una merce trovata e sequestrata è considerato persona autorizzata.
 
-<sup>2</sup> L’AFD identifica la persona autorizzata mediante pertinenti ricerche.
+<sup>2</sup> L’UDSC identifica la persona autorizzata mediante pertinenti ricerche.
 
 <sup>3</sup> Se la persona autorizzata non può essere identificata, ha luogo un annuncio pubblico. In quest’ultimo la persona autorizzata è invitata a far valere entro un determinato termine il suo diritto.
 
@@ -3611,11 +3611,11 @@ Il destinatario della decisione di sequestro è la persona che possiede o custod
 
 <sup>1</sup> La persona autorizzata di una merce trovata e sequestrata deve comprovare il suo diritto sulla stessa.
 
-<sup>2</sup> Se l’AFD ritiene che la prova non sia stata fornita, assegna alla persona autorizzata un termine adeguato per far valere il suo diritto mediante un’azione presso il competente tribunale civile.
+<sup>2</sup> Se l’UDSC ritiene che la prova non sia stata fornita, assegna alla persona autorizzata un termine adeguato per far valere il suo diritto mediante un’azione presso il competente tribunale civile.
 
-<sup>3</sup> Se, in caso di più persone autorizzate, è oggetto di controversia stabilire a quale di queste debba essere restituita la merce, l’AFD può liberarsi mediante deposito giudiziale.
+<sup>3</sup> Se, in caso di più persone autorizzate, è oggetto di controversia stabilire a quale di queste debba essere restituita la merce, l’UDSC può liberarsi mediante deposito giudiziale.
 
-<sup>4</sup> Il proprietario riconosciuto dall’AFD assume la responsabilità esclusiva nei confronti di un’eventuale persona meglio autorizzata. La merce gli viene consegnata solo dietro presentazione di un corrispondente impegno.
+<sup>4</sup> Il proprietario riconosciuto dall’UDSC assume la responsabilità esclusiva nei confronti di un’eventuale persona meglio autorizzata. La merce gli viene consegnata solo dietro presentazione di un corrispondente impegno.
 
 <sup>5</sup> La persona autorizzata di una merce trovata e sequestrata può, entro 30 giorni dopo la conclusione dell’identificazione o dopo la pubblicazione dell’annuncio, interporre ricorso contro la decisione di sequestro.
 
@@ -3629,7 +3629,7 @@ Il destinatario della decisione di sequestro è la persona che possiede o custod
 
 <sup>1</sup> Con la liberazione, il sequestro del pegno doganale è annullato. Questo passa al destinatario della decisione di sequestro. In caso di controversia, si procede secondo l’articolo 218 capoverso 3.
 
-<sup>2</sup> Se è pendente un ricorso contro un sequestro, l’AFD comunica all’istanza di ricorso la liberazione della merce o della cosa.
+<sup>2</sup> Se è pendente un ricorso contro un sequestro, l’UDSC comunica all’istanza di ricorso la liberazione della merce o della cosa.
 
 ### Capitolo 3: Condono di tributi doganali in caso di distruzione delle merci
 
@@ -3639,13 +3639,13 @@ Il destinatario della decisione di sequestro è la persona che possiede o custod
 
 La prova della distruzione totale o parziale può essere fornita mediante l’attestazione di:
 
-- a. un organo dell’AFD;
+- a. un organo dell’UDSC;
 - b. un’autorità federale, cantonale o comunale; o
 - c. una persona od organizzazione incaricata di compiti di diritto pubblico.
 
 ### Capitolo 4: Realizzazione del pegno doganale e vendita di titoli
 
-### …
+### ...
 
 [^tit3-chap4-1]
 
@@ -3657,7 +3657,7 @@ La prova della distruzione totale o parziale può essere fornita mediante l’at
 
 <sup>1</sup> Una realizzazione immediata è possibile anche se il credito doganale non è ancora esigibile.
 
-<sup>2</sup> Prima della realizzazione immediata l’AFD chiede tre offerte indipendenti. Se esse non pervengono per scritto, le relative informazioni vengono messe agli atti.
+<sup>2</sup> Prima della realizzazione immediata l’UDSC chiede tre offerte indipendenti. Se esse non pervengono per scritto, le relative informazioni vengono messe agli atti.
 
 <sup>3</sup> È possibile rinunciare alla richiesta di offerte se il pegno doganale non supera 1000 franchi.
 
@@ -3674,7 +3674,7 @@ La prova della distruzione totale o parziale può essere fornita mediante l’at
 
 <sup>1</sup>
 
-Invece dell’incanto l’AFD può procedere alla vendita a trattativa privata di un pegno doganale:
+Invece dell’incanto l’UDSC può procedere alla vendita a trattativa privata di un pegno doganale:
 
 - a. con il consenso del proprietario;
 - b. senza il consenso del proprietario se il pegno doganale non viene venduto in occasione dell’incanto;
@@ -3682,11 +3682,11 @@ Invece dell’incanto l’AFD può procedere alla vendita a trattativa privata d
 
 <sup>2</sup> Il consenso del proprietario è irrevocabile. Esso deve essere dato per scritto e non può essere vincolato a condizioni od oneri.
 
-<sup>3</sup> Prima della vendita a trattativa privata l’AFD chiede tre offerte indipendenti. Se esse non pervengono per scritto, le relative informazioni vengono messe agli atti.
+<sup>3</sup> Prima della vendita a trattativa privata l’UDSC chiede tre offerte indipendenti. Se esse non pervengono per scritto, le relative informazioni vengono messe agli atti.
 
 <sup>4</sup> La merce o la cosa è consegnata al maggior offerente dietro pagamento immediato dell’intero prezzo d’acquisto.
 
-<sup>5</sup> L’AFD redige un verbale della vendita a trattativa privata.
+<sup>5</sup> L’UDSC redige un verbale della vendita a trattativa privata.
 
 [^221a-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 [^221a-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2443](https://fedlex.data.admin.ch/eli/oc/2016/392)).
@@ -3699,7 +3699,7 @@ Invece dell’incanto l’AFD può procedere alla vendita a trattativa privata d
 
 <sup>1</sup> Il ricavato della realizzazione di un pegno doganale o della vendita di titoli serve innanzitutto a coprire i costi per la conservazione nonché per la realizzazione del pegno doganale e la vendita dei titoli. La parte rimanente serve a soddisfare l’obbligazione doganale.
 
-<sup>2</sup> L’AFD fissa un congruo termine affinché il debitore doganale possa dichiarare quali sono i debiti da estinguere. Al riguardo è applicata la successione indicata dal debitore doganale o, qualora non esista una corrispondente dichiarazione del debitore doganale, la successione menzionata nell’articolo 200.
+<sup>2</sup> L’UDSC fissa un congruo termine affinché il debitore doganale possa dichiarare quali sono i debiti da estinguere. Al riguardo è applicata la successione indicata dal debitore doganale o, qualora non esista una corrispondente dichiarazione del debitore doganale, la successione menzionata nell’articolo 200.
 
 <sup>3</sup>
 
@@ -3708,7 +3708,7 @@ Un’eventuale eccedenza del ricavato:
 - a. è messa a disposizione della persona avente diritto; o
 - b. confluisce nella Cassa federale, qualora la persona avente diritto non sia conosciuta.
 
-<sup>4</sup> L’AFD allestisce un conto finale scritto circa l’impiego del ricavato.
+<sup>4</sup> L’UDSC allestisce un conto finale scritto circa l’impiego del ricavato.
 
 [^221b-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
@@ -3718,7 +3718,7 @@ Un’eventuale eccedenza del ricavato:
 
 ### (art. 87 LD)
 
-L’AFD può rinunciare alla realizzazione di un pegno doganale e consegnare la merce o la cosa a organizzazioni riconosciute di utilità pubblica, opere assistenziali o persone nel bisogno se:
+L’UDSC può rinunciare alla realizzazione di un pegno doganale e consegnare la merce o la cosa a organizzazioni riconosciute di utilità pubblica, opere assistenziali o persone nel bisogno se:
 
 - a. il suo valore non supera 1000 franchi; e
 - b. il suo proprietario non è conosciuto.
@@ -3735,7 +3735,7 @@ Il DEFR disciplina la procedura dell’incanto di pegni doganali e della vendita
 
 [^221d-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
-## Titolo 4: AFD
+## Titolo 4: UDSC
 
 #### Art. 221e
 
@@ -3745,9 +3745,9 @@ Il DEFR disciplina la procedura dell’incanto di pegni doganali e della vendita
 
 <sup>1</sup> Il territorio svizzero è suddiviso in circondari doganali e regioni guardie di confine.
 
-<sup>2</sup> Il DEFR determina i circondari doganali e le regioni guardie di confine.
+<sup>2</sup> Il DFF determina i circondari doganali e le regioni guardie di confine.
 
-<sup>3</sup> Il DEFR disciplina le funzioni e i gradi del Corpo delle guardie di confine.
+<sup>3</sup> Il DFF disciplina le funzioni e i gradi del Corpo delle guardie di confine.
 
 [^221e-1]: Originario art. 221*a*. Introdotto dal n. 3 dell’all. all’O del 17 feb. 2010 sull’organizzazione del Dipartimento federale delle finanze, in vigore dal 1° mar. 2010 ([RU 2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)).
 
@@ -3759,13 +3759,13 @@ Il DEFR disciplina la procedura dell’incanto di pegni doganali e della vendita
 
 <sup>1</sup>
 
-L’AFD può impiegare all’estero i propri agenti di collegamento e assegnare loro i seguenti compiti:
+L’UDSC può impiegare all’estero i propri agenti di collegamento e assegnare loro i seguenti compiti:
 
-- a. la raccolta di informazioni strategiche e tattiche necessarie all’AFD per l’adempimento dei propri compiti legali;
+- a. la raccolta di informazioni strategiche e tattiche necessarie all’UDSC per l’adempimento dei propri compiti legali;
 - b. lo scambio di queste informazioni con le autorità partner nello Stato ospitante e con altre autorità;
 - c. la promozione della cooperazione giudiziaria e di polizia.
 
-<sup>2</sup> D’intesa con l’Ufficio federale di polizia (fedpol), essa può delegare compiti dei propri agenti di collegamento agli agenti di collegamento di fedpol. Nel quadro dei compiti attribuiti dall’AFD, gli agenti di collegamento di fedpol sono equiparati a quelli dell’AFD per quanto riguarda l’accesso ai sistemi d’informazione e il diritto di trattare dati, sempre che ciò sia necessario all’adempimento dei compiti.
+<sup>2</sup> D’intesa con l’Ufficio federale di polizia (fedpol), essa può delegare compiti dei propri agenti di collegamento agli agenti di collegamento di fedpol. Nel quadro dei compiti attribuiti dall’UDSC, gli agenti di collegamento di fedpol sono equiparati a quelli dell’UDSC per quanto riguarda l’accesso ai sistemi d’informazione e il diritto di trattare dati, sempre che ciò sia necessario all’adempimento dei compiti.
 
 [^221f-1]: Introdotto n. I 3 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
 
@@ -3857,7 +3857,7 @@ Essa può accertare o completare i dati sull’identità di una persona mediante
   nei casi previsti dall’articolo 103 capoverso 1 lettera a LD mediante:
 
   - 1\. un profilo del DNA: il trattamento dei dati è disciplinato dalla legge del 20 giugno 2003[^226-5] sui profili del DNA,
-  - 2\.[^226-6] le immagini del viso: il trattamento è disciplinato dall’ordinanza del 4 aprile 2007[^226-7] sul trattamento dei dati AFD.
+  - 2\.[^226-6] le immagini del viso: il trattamento è disciplinato dall’ordinanza del 4 aprile 2007[^226-7] sul trattamento dei dati UDSC.
 
 - [tab] <sup>4</sup> Essa deve cancellare i dati rilevati non appena sono stati memorizzati nella corrispondente banca dati conformemente al capoverso 3.[^226-8]
 - [tab] <sup>5</sup> Se l’Amministrazione delle dogane rileva dati biometrici conformemente al capoverso 3, senza essere un’autorità preposta all’accertamento, è tenuta a presentare le domande di cancellazione di questi dati, non appena ciò si renda necessario secondo i pertinenti disposti di natura non doganale.
@@ -3910,7 +3910,7 @@ Quali mezzi di autodifesa e coattivi possono essere impiegati segnatamente:
 
 ### (art. 106 cpv. 2 lett. a e b LD)
 
-Il seguente personale dell’AFD al di fuori del Corpo delle guardie di confine può impiegare armi e altri mezzi di autodifesa e coattivi:
+Il seguente personale dell’UDSC al di fuori del Corpo delle guardie di confine può impiegare armi e altri mezzi di autodifesa e coattivi:
 
 - a.[^228-1] il personale della divisione principale Antifrode doganale;
 - b. il personale impiegato nel traffico turistico;
@@ -3992,7 +3992,7 @@ Circa l’idoneità necessaria decide chi:
 - c. possiede le conoscenze necessarie; e
 - d. offre garanzie per una rappresentanza commerciale corretta nella procedura d’imposizione doganale (art. 26 LD).
 
-<sup>2</sup> In casi eccezionali, l’AFD può autorizzare una persona minorenne ad allestire dichiarazioni doganali.
+<sup>2</sup> In casi eccezionali, l’UDSC può autorizzare una persona minorenne ad allestire dichiarazioni doganali.
 
 #### Art. 234
 
@@ -4000,7 +4000,7 @@ Circa l’idoneità necessaria decide chi:
 
 ### (art. 115 cpv. 2 LD)
 
-Se una persona, alla quale si riferisce la richiesta di assistenza amministrativa di un’autorità estera, si rifiuta di collaborare, l’AFD emana una decisione sull’obbligo di collaborare e di edizione conformemente all’articolo 115 capoverso 4 LD.
+Se una persona, alla quale si riferisce la richiesta di assistenza amministrativa di un’autorità estera, si rifiuta di collaborare, l’UDSC emana una decisione sull’obbligo di collaborare e di edizione conformemente all’articolo 115 capoverso 4 LD.
 
 #### Art. 235
 
@@ -4008,9 +4008,9 @@ Se una persona, alla quale si riferisce la richiesta di assistenza amministrativ
 
 ### (art. 130 LD e art. 37 cpv. 3 LPers)
 
-<sup>1</sup> La Direzione generale delle dogane è considerata per la formazione professionale superiore del personale dell’AFD quale organizzazione del mondo del lavoro ai sensi dell’articolo 28 capoverso 2 della legge del 13 dicembre 2002[^235-1] sulla formazione professionale.
+<sup>1</sup> La Direzione generale delle dogane è considerata per la formazione professionale superiore del personale dell’UDSC quale organizzazione del mondo del lavoro ai sensi dell’articolo 28 capoverso 2 della legge del 13 dicembre 2002[^235-1] sulla formazione professionale.
 
-<sup>2</sup> Essa è competente per l’emanazione di corrispondenti disposizioni e disciplina, segnatamente per quanto riguarda gli esami federali di professione e gli esami professionali federali superiori per il personale dell’AFD, le condizioni d’ammissione, i contenuti, le procedure di qualifica, gli attestati e i titoli.
+<sup>2</sup> Essa è competente per l’emanazione di corrispondenti disposizioni e disciplina, segnatamente per quanto riguarda gli esami federali di professione e gli esami professionali federali superiori per il personale dell’UDSC, le condizioni d’ammissione, i contenuti, le procedure di qualifica, gli attestati e i titoli.
 
 [^235-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 
@@ -4020,7 +4020,7 @@ Se una persona, alla quale si riferisce la richiesta di assistenza amministrativ
 
 ### art. 127 cpv. 2 e 130 LD)
 
-Fotografare o filmare il personale dell’AFD durante l’esercizio della sua attività è vietato senza autorizzazione. Il mancato rispetto di questo divieto rappresenta un’inosservanza di prescrizioni d’ordine di cui all’articolo 127 capoverso 2 LD.
+Fotografare o filmare il personale dell’UDSC durante l’esercizio della sua attività è vietato senza autorizzazione. Il mancato rispetto di questo divieto rappresenta un’inosservanza di prescrizioni d’ordine di cui all’articolo 127 capoverso 2 LD.
 
 ## Titolo 5: Disposizioni penali
 
@@ -4074,10 +4074,10 @@ Sempre che non sia adempiuta la fattispecie legale di un’infrazione doganale, 
 
 - a. omette di dichiarare o dichiara in modo errato merci in franchigia di dazio all’atto dell’introduzione nel territorio doganale o dell’asportazione dallo stesso oppure le trasporta attraverso il confine doganale senza passare per strade doganali, punti d’approdo doganali o aerodromi doganali previsti a questo scopo;
 - b. dichiara merci soggette a dazio a voci di tariffa errate, se la corretta voce di tariffa comporta tributi doganali per importi uguali o inferiori;
-- c. nel traffico aereo transfrontaliero impiega un aerodromo per il cui utilizzo l’AFD non ha rilasciato alcuna autorizzazione;
-- d. attraversa il confine doganale con un veicolo senza utilizzare una strada doganale autorizzata per tale corsa dall’AFD;
+- c. nel traffico aereo transfrontaliero impiega un aerodromo per il cui utilizzo l’UDSC non ha rilasciato alcuna autorizzazione;
+- d. attraversa il confine doganale con un veicolo senza utilizzare una strada doganale autorizzata per tale corsa dall’UDSC;
 - e. non osserva le prescrizioni di cui agli articoli 5–12 dell’ordinanza del 12 ottobre 2011[^240a-2] sulla statistica del commercio esterno;
-- f. non rispetta i termini stabiliti dall’AFD;
+- f. non rispetta i termini stabiliti dall’UDSC;
 - g. non osserva l’obbligo di menzione di cui all’articolo 61;
 - h. non rispetta le prescrizioni relative alla conservazione di dati e documenti di cui agli articoli 94–98;
 - i. esegue lavorazioni non ammesse di merci in depositi doganali aperti o depositi franchi doganali (art. 161 e 181);
@@ -4094,7 +4094,7 @@ Sempre che non sia adempiuta la fattispecie legale di un’infrazione doganale, 
 
 <sup>1</sup> La divisione principale Antifrode doganale è competente per il perseguimento penale.
 
-<sup>2</sup> Ogni servizio dell’AFD è responsabile, nel proprio settore di compiti, di emanare decreti penali nella procedura abbreviata secondo l’articolo 65 capoverso 1 DPA[^240b-2].
+<sup>2</sup> Ogni servizio dell’UDSC è responsabile, nel proprio settore di compiti, di emanare decreti penali nella procedura abbreviata secondo l’articolo 65 capoverso 1 DPA[^240b-2].
 
 [^240b-1]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4671](https://fedlex.data.admin.ch/eli/oc/2018/735)).
 [^240b-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
@@ -4171,7 +4171,7 @@ Il DEFR è autorizzato a emanare disposizioni d’esecuzione della presente ordi
 
 ### (art. 130 LD)
 
-In caso di importazioni di prodotti agricoli, per i quali sono fissate aliquote di contingenti doganali e che sono importati illecitamente all’aliquota del contingente doganale o a un’aliquota ridotta, l’Ufficio federale dell’agricoltura può fatturare la differenza di dazio per conto dell’AFD. L’Ufficio federale dell’agricoltura ne informa l’AFD.
+In caso di importazioni di prodotti agricoli, per i quali sono fissate aliquote di contingenti doganali e che sono importati illecitamente all’aliquota del contingente doganale o a un’aliquota ridotta, l’Ufficio federale dell’agricoltura può fatturare la differenza di dazio per conto dell’UDSC. L’Ufficio federale dell’agricoltura ne informa l’UDSC.
 
 #### Art. 244
 
@@ -4344,7 +4344,7 @@ I seguenti atti sono abrogati:
 - 14\. Decreto del Consiglio federale del 26 agosto 1958[^annex3-lvlu1-16] concernente l’importazione di gas illuminante nella zona economica svizzera
 - 15\. Decreto del Consiglio federale del 21 febbraio 1968[^annex3-lvlu1-17] concernente il deposito in transito di merci, esente da interesse, nei porti renani
 - 16\. Ordinanza del 9 maggio 1990[^annex3-lvlu1-18] sulle semplificazioni nelle operazioni doganali
-- 17\. Ordinanza del 18 maggio 2005[^annex3-lvlu1-19] concernente la competenza della Direzione generale delle dogane nel campo della formazione professionale superiore per il personale dell’AFD
+- 17\. Ordinanza del 18 maggio 2005[^annex3-lvlu1-19] concernente la competenza della Direzione generale delle dogane nel campo della formazione professionale superiore per il personale dell’UDSC
 - 18\. Decreto del Consiglio federale del 31 maggio 1966[^annex3-lvlu1-20] concernente l’esenzione dal dazio sui carburanti impiegati per compiere voli non professionali a destinazione dell’estero.
 
 [^annex3-lvlu1-1]: [CS **6** 523; [RU 1957 1040](https://fedlex.data.admin.ch/eli/oc/1957/1002_1016_1040), [1960 267](https://fedlex.data.admin.ch/eli/oc/1960/261_272_267), [1961 1226](https://fedlex.data.admin.ch/eli/oc/1961/1178_1200_1226), [1965 917](https://fedlex.data.admin.ch/eli/oc/1965/915_923_917), [1972 160](https://fedlex.data.admin.ch/eli/oc/1972/156_160_160), [1973 651](https://fedlex.data.admin.ch/eli/oc/1973/651_650_651), [1974 1949](https://fedlex.data.admin.ch/eli/oc/1974/1949_1949_1949), [1975 1209](https://fedlex.data.admin.ch/eli/oc/1975/1209_1209_1209), [1993 1054](https://fedlex.data.admin.ch/eli/oc/1993/1054_1054_1054), [1995 1818](https://fedlex.data.admin.ch/eli/oc/1995/1818_1818_1818), [1997 1630](https://fedlex.data.admin.ch/eli/oc/1997/1630_1630_1630)[2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)n. II 35, [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)n. II 15, [2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56)art. 33 n. 3, [2002 326](https://fedlex.data.admin.ch/eli/oc/2002/70)[328](https://fedlex.data.admin.ch/eli/oc/2002/72)all. 2 n. 1]
@@ -4376,7 +4376,7 @@ Allegato 4
 
 Le seguenti ordinanze sono modificate come segue:
 
-…[^annex4-lvlu1-1]
+...[^annex4-lvlu1-1]
 
 [^annex4-lvlu1-1]: Le mod. possono essere consultate alla [RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250).
 

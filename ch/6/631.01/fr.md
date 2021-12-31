@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes (OD)"
 short: OD
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/250"
 language: fr
-version: 2019-01-01
+version: 2022-01-01
 adopted: 2006-11-01
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-250-20190101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-250-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20190101/fr"
 
 (OD)
 
-du 1<sup>er</sup> novembre 2006 (Etat le 1<sup>er</sup> janvier 2019)
+du 1<sup>er</sup> novembre 2006 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -51,16 +51,16 @@ arrête:
 
 <sup>1</sup>
 
-Dans l’enclave douanière suisse, l’Administration des douanes (AFD) peut notamment:[^2-1]
+Dans l’enclave douanière suisse, l’Office fédéral de la douane et de la sécurité des frontières (OFDF) peut notamment:[^2-1]
 
 - a. exercer la surveillance douanière du trafic des marchandises (art. 23 LD);
 - b. remplir des tâches de police de sécurité (art. 96 LD);
-- c. exécuter les actes législatifs de la Confédération autres que douaniers et poursuivre les infractions à ces actes législatifs dans la mesure où elle en a la compétence;
+- c. exécuter les actes législatifs de la Confédération autres que douaniers et poursuivre les infractions à ces actes législatifs dans la mesure où il en a la compétence;
 - d. poursuivre les infractions douanières.
 
 <sup>2</sup> La compétence des autres autorités fédérales et des autorités cantonales dans l’exécution d’actes législatifs de la Confédération autres que douaniers est réservée.
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^2-1]: Nouvelle teneur selon le ch. II 2 de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)).
 
 #### Art. 3
 
@@ -68,13 +68,13 @@ Dans l’enclave douanière suisse, l’Administration des douanes (AFD) peut no
 
 ### (art. 4, al. 2, LD)
 
-<sup>1</sup> L’autorité communale chargée de délivrer les permis de construire requiert l’autorisation de l’AFD[^3-1] pour les projets de construction mentionnés à l’art. 4, al. 2, LD. Elle joint à sa demande les plans et les descriptions du projet de construction.
+<sup>1</sup> L’autorité communale chargée de délivrer les permis de construire requiert l’autorisation de l’OFDF[^3-1] pour les projets de construction mentionnés à l’art. 4, al. 2, LD. Elle joint à sa demande les plans et les descriptions du projet de construction.
 
-<sup>2</sup> Dans l’autorisation, l’AFD détermine les aménagements qui doivent être réalisés et la manière dont ils doivent être entretenus. Elle règle le droit de passage du personnel de l’AFD.
+<sup>2</sup> Dans l’autorisation, l’OFDF détermine les aménagements qui doivent être réalisés et la manière dont ils doivent être entretenus. Il règle le droit de passage du personnel de l’OFDF.
 
-<sup>3</sup> Elle peut fixer dans l’autorisation une contribution du propriétaire du bien-fonds aux coûts supplémentaires de surveillance de la frontière douanière causés par les constructions ou les installations.
+<sup>3</sup> Il peut fixer dans l’autorisation une contribution du propriétaire du bien-fonds aux coûts supplémentaires de surveillance de la frontière douanière causés par les constructions ou les installations.
 
-[^3-1]: Nouvelle expression selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)). Il a été tenu compte de cette mod. dans tout le texte.
+[^3-1]: Nouvelle expression selon le ch. II 2 de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 4
 
@@ -101,22 +101,22 @@ Au sens de l’art. 5, al. 2, LD, on entend par tiers:
 
 ### (art. 8, al. 2, let. a, LD)
 
-Les exonérations accordées en vertu d’usages internationaux peuvent être restreintes ou suspendues temporairement ou durablement pour les marchandises provenant d’Etats qui n’accordent pas la réciprocité.
+Les exonérations accordées en vertu d’usages internationaux peuvent être restreintes ou suspendues temporairement ou durablement pour les marchandises provenant d’États qui n’accordent pas la réciprocité.
 
 #### Art. 6
 
-**Marchandises destinées à des chefs d’Etat ainsi qu’à des services diplomatiques, consulaires ou internationaux et à leurs membres**
+**Marchandises destinées à des chefs d’État ainsi qu’à des services diplomatiques, consulaires ou internationaux et à leurs membres**
 
 ### (art. 8, al. 2, let. a, LD)
 
-<sup>1</sup> Les marchandises destinées à l’usage personnel de chefs d’Etat étrangers et aux membres de leur famille vivant dans leur ménage sont admises en franchise de droits.
+<sup>1</sup> Les marchandises destinées à l’usage personnel de chefs d’État étrangers et aux membres de leur famille vivant dans leur ménage sont admises en franchise de droits.
 
 <sup>2</sup>
 
-L’exonération des droits pour les marchandises destinées aux bénéficiaires institutionnels et aux personnes bénéficiaires de privilèges, d’immunités et de facilités visés à l’art. 2 de la loi du 22 juin 2007 sur l’Etat hôte[^6-1] est régie par:
+L’exonération des droits pour les marchandises destinées aux bénéficiaires institutionnels et aux personnes bénéficiaires de privilèges, d’immunités et de facilités visés à l’art. 2 de la loi du 22 juin 2007 sur l’État hôte[^6-1] est régie par:
 
 - a. l’ordonnance du 23 août 1989 concernant les privilèges douaniers des missions diplomatiques à Berne et des postes consulaires en Suisse[^6-2];
-- b. l’ordonnance du 13 novembre 1985 concernant les privilèges douaniers des organisations internationales, des Etats dans leurs relations avec ces organisations et des Missions spéciales d’Etats étrangers[^6-3].[^6-4]
+- b. l’ordonnance du 13 novembre 1985 concernant les privilèges douaniers des organisations internationales, des États dans leurs relations avec ces organisations et des Missions spéciales d’États étrangers[^6-3].[^6-4]
 
 [^6-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^6-2]: [RS 631.144.0](https://fedlex.data.admin.ch/eli/cc/1989/1781_1781_1781)
@@ -161,7 +161,7 @@ Sont admis en franchise:
 Les biens d’investissement et les objets d’équipement des entreprises étrangères qui transfèrent leur activité sur le territoire douanier sont admis en franchise:
 
 - a. s’ils ont été utilisés durant six mois sur le territoire douanier étranger;
-- b. s’ils sont importés globalement au moment du transfert d’activité; et
+- b. s’ils sont importés globalement au moment du transfert d’activité, et
 - c. si les entreprises concernées les importent pour continuer de les utiliser en propre sur le territoire douanier.
 
 <sup>2</sup>
@@ -181,7 +181,7 @@ Sont soumises aux droits de douane:
 Les réserves se trouvant à bord des wagons-restaurants des trains internationaux sont admises en franchise:
 
 - a. si elles proviennent de la libre pratique d’un pays traversé par le train;
-- b. si elles sont transportées dans les quantités nécessaires à un ravitaillement normal à l’aller et au retour sur l’ensemble du trajet; et
+- b. si elles sont transportées dans les quantités nécessaires à un ravitaillement normal à l’aller et au retour sur l’ensemble du trajet, et
 - c. si elles sont consommées dans le train.
 
 #### Art. 11
@@ -195,7 +195,7 @@ Les réserves se trouvant à bord des wagons-restaurants des trains internationa
 Les réserves se trouvant à bord des bateaux à marchandises et des bateaux du trafic de ligne sont admises en franchise:
 
 - a. si elles sont destinées à être utilisées à bord;
-- b. si elles ne sont pas amenées à terre; et
+- b. si elles ne sont pas amenées à terre, et
 - c. si les bateaux ne restent que temporairement sur le territoire douanier.
 
 <sup>2</sup> Les réserves se trouvant à bord d’autres bateaux sont admises en franchise si les bateaux n’accostent pas dans des ports, à des embarcadères ou à des bouées situés sur le territoire douanier.
@@ -296,7 +296,7 @@ Sont réputés trousseau de mariage:
 
 Les effets de succession sont admis en franchise:
 
-- a. s’ils ont été la propriété d’un testateur dont le dernier domicile se trouvait sur le territoire douanier étranger et s’ils ont été utilisés par ce dernier; et
+- a. s’ils ont été la propriété d’un testateur dont le dernier domicile se trouvait sur le territoire douanier étranger et s’ils ont été utilisés par ce dernier, et
 - b. si le domicile de l’héritier ou du légataire se trouve sur le territoire douanier au moment du décès du testateur et de l’importation des effets de succession.
 
 <sup>2</sup>
@@ -340,7 +340,7 @@ Sont réputés effets de succession:
 
 Sont admis en franchise les véhicules à moteur pour les invalides:
 
-- a. qui reçoivent de l’assurance-invalidité ou de l’assurance militaire des contributions pour l’entretien de leur véhicule à moteur ou pour sa modification rendue nécessaire par l’invalidité; ou
+- a. qui reçoivent de l’assurance-invalidité ou de l’assurance militaire des contributions pour l’entretien de leur véhicule à moteur ou pour sa modification rendue nécessaire par l’invalidité, ou
 - b. qui reçoivent une allocation pour impotent au sens de l’art. 42<sup>bis</sup> de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^18-1].
 
 <sup>2</sup> Sont en outre admis en franchise les véhicules à moteur que des organisations d’utilité publique reconnues utilisent pour exploiter un service de transport pour personnes handicapées.
@@ -359,7 +359,7 @@ Sont admis en franchise les véhicules à moteur pour les invalides:
 
 Les objets pour l’enseignement et la recherche sont admis en franchise uniquement:
 
-- a. s’ils sont utilisés dans des établissements ou institutions d’enseignement publics ou d’utilité publique reconnus qui dispensent un enseignement régulier; et
+- a. s’ils sont utilisés dans des établissements ou institutions d’enseignement publics ou d’utilité publique reconnus qui dispensent un enseignement régulier, et
 - b. s’ils sont importés par les établissements ou institutions d’enseignement eux-mêmes ou directement pour eux.
 
 <sup>2</sup> Les matériaux d’origine humaine, animale ou végétale sont admis en franchise s’ils sont importés par des institutions médicales ou des hôpitaux reconnus ou directement pour ces derniers à des fins médicales ou de recherche.
@@ -368,7 +368,7 @@ Les objets pour l’enseignement et la recherche sont admis en franchise uniquem
 
 <sup>4</sup> La demande d’admission en franchise doit être présentée à la direction d’arrondissement des douanes avant l’importation.[^19-1]
 
-<sup>5</sup> Si des objets importés en franchise doivent être remis à des tiers sur le territoire douanier, une autorisation doit être demandée au préalable à l’AFD. Cette dernière décide du paiement subséquent des droits de douane. La dette douanière naît au moment de la remise.
+<sup>5</sup> Si des objets importés en franchise doivent être remis à des tiers sur le territoire douanier, une autorisation doit être demandée au préalable à l’OFDF. Ce dernier décide du paiement subséquent des droits de douane. La dette douanière naît au moment de la remise.
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 22 avr. 2009, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
@@ -390,7 +390,7 @@ De tels objets sont également admis en franchise s’ils sont exposés:
 
 <sup>3</sup> La demande d’admission en franchise doit être présentée à la direction d’arrondissement des douanes avant l’importation.[^20-1]
 
-<sup>4</sup> Si des objets d’art et d’exposition importés en franchise doivent être utilisés à d’autres fins, une autorisation doit être demandée au préalable à l’AFD. Cette dernière décide du paiement subséquent des droits de douane. La dette douanière naît au moment du changement d’utilisation.
+<sup>4</sup> Si des objets d’art et d’exposition importés en franchise doivent être utilisés à d’autres fins, une autorisation doit être demandée au préalable à l’OFDF. Ce dernier décide du paiement subséquent des droits de douane. La dette douanière naît au moment du changement d’utilisation.
 
 [^20-1]: Nouvelle teneur selon le ch. I de l’O du 22 avr. 2009, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
@@ -404,13 +404,13 @@ De tels objets sont également admis en franchise s’ils sont exposés:
 
 <sup>2</sup> La demande d’admission en franchise doit être présentée à la direction d’arrondissement des douanes avant l’importation.[^21-1]
 
-<sup>3</sup> Si des instruments et des appareils importés en franchise doivent être remis à des tiers sur le territoire douanier, une autorisation doit être demandée au préalable à l’AFD. Cette dernière décide du paiement subséquent des droits de douane. La dette douanière naît au moment de la remise.
+<sup>3</sup> Si des instruments et des appareils importés en franchise doivent être remis à des tiers sur le territoire douanier, une autorisation doit être demandée au préalable à l’OFDF. Ce dernier décide du paiement subséquent des droits de douane. La dette douanière naît au moment de la remise.
 
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 22 avr. 2009, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
 #### Art. 22
 
-**Etudes et oeuvres d’artistes suisses séjournant temporairement à l’étranger pour leurs études**
+**Études et oeuvres d’artistes suisses séjournant temporairement à l’étranger pour leurs études**
 
 ### (art. 8, al. 2, let. i, LD)
 
@@ -421,7 +421,7 @@ De tels objets sont également admis en franchise s’ils sont exposés:
 Par séjour d’études, on entend notamment la formation ou le perfectionnement:
 
 - a. dans une école;
-- b. soutenu par des institutions publiques ou privées de promotion de la culture; ou
+- b. soutenu par des institutions publiques ou privées de promotion de la culture, ou
 - c. sous la forme d’une collaboration avec d’autres artistes ou institutions dans le but d’apprendre ou d’approfondir des techniques et des capacités artistiques.
 
 <sup>3</sup> La demande d’admission en franchise doit être présentée à la direction d’arrondissement des douanes avant l’importation.[^22-1]
@@ -459,7 +459,7 @@ Pour les personnes domiciliées dans la zone frontière étrangère, sont admis 
 L’admission en franchise n’est accordée qu’aux personnes:
 
 - a. qui exploitent le bien-fonds;
-- b. qui sont propriétaires, usufruitiers ou fermiers du bien-fonds; et
+- b. qui sont propriétaires, usufruitiers ou fermiers du bien-fonds, et
 - c. qui importent elles-mêmes les produits ou les font importer par des employés.
 
 #### Art. 24
@@ -503,7 +503,7 @@ Les raisins et le vin importés qui dépassent la quantité fixée à l’al. 1 
 Les marchandises du trafic de marché sont admises en franchise jusqu’à une quantité totale de 100 kilogrammes brut par jour et par personne:
 
 - a. si elles proviennent de la zone frontière étrangère;
-- b. si elles sont importées par un bureau de douane désigné par l’AFD; et
+- b. si elles sont importées par un bureau de douane désigné par l’OFDF, et
 - c. si elles sont vendues à l’intérieur de la zone frontière suisse à des personnes physiques pour leurs propres besoins.
 
 <sup>2</sup> Sont réputés marchandises du trafic de marché les légumes, les poissons frais, les crustacés, les grenouilles, les escargots et les fleurs coupées.
@@ -520,12 +520,12 @@ Les marchandises du trafic de marché sont admises en franchise jusqu’à une q
 
 Les poissons frais pêchés dans les eaux frontières sont admis en franchise:
 
-- a. s’ils sont pêchés par des personnes habilitées à pêcher en Suisse; et
+- a. s’ils sont pêchés par des personnes habilitées à pêcher en Suisse, et
 - b. si les prescriptions régissant la pêche sont observées.
 
 #### Art. 27
 
-**Echantillons et spécimens de marchandises**
+**Échantillons et spécimens de marchandises**
 
 ### (art. 8, al. 2, let. k, LD)
 
@@ -580,16 +580,16 @@ Les marchandises pour admission temporaire sur le territoire douanier sont admis
 
 - a. si elles sont la propriété d’une personne ayant son siège ou son domicile en dehors du territoire douanier et si elles sont utilisées par une telle personne;
 - b. si elles peuvent être identifiées avec certitude;
-- c. si l’admission dure au maximum deux ans; et
+- c. si l’admission dure au maximum deux ans, et
 - d. si elles sont réexportées en l’état; l’usage n’est pas réputé modification.
 
 <sup>2</sup> Les marchandises dont l’admission temporaire dure plus de deux ans peuvent continuer à être utilisées en exonération partielle des droits de douane pendant trois ans supplémentaires au plus. Les droits de douane sont fixés, pour chaque mois entier ou entamé, à 3 % du montant qui aurait été perçu lors d’une mise en libre pratique des marchandises, mais au maximum à ce montant.
 
-<sup>3</sup> Dans des cas particuliers, l’AFD peut raccourcir le délai prévu à l’al. 1, let. c. Elle fixe le délai dans lequel les marchandises doivent être réexportées ou placées sous un autre régime douanier.
+<sup>3</sup> Dans des cas particuliers, l’OFDF peut raccourcir le délai prévu à l’al. 1, let. c. Il fixe le délai dans lequel les marchandises doivent être réexportées ou placées sous un autre régime douanier.
 
 <sup>4</sup> Si les conditions énumérées à l’al. 1 sont remplies, le régime de l’admission temporaire est réputé autorisé.
 
-<sup>5</sup> S’il existe d’importants motifs rendant nécessaire la surveillance du régime de l’admission temporaire, l’AFD peut soumettre ce régime à autorisation expresse.
+<sup>5</sup> S’il existe d’importants motifs rendant nécessaire la surveillance du régime de l’admission temporaire, l’OFDF peut soumettre ce régime à autorisation expresse.
 
 [^30-1]: Nouvelle teneur selon le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
@@ -604,10 +604,10 @@ Les marchandises pour admission temporaire sur le territoire douanier sont admis
 Les marchandises provenant de la libre pratique destinées à l’admission temporaire sur le territoire douanier étranger sont admises en franchise lors de leur réimportation:
 
 - a. si elles peuvent être identifiées avec certitude;
-- b. si l’admission dure au maximum deux ans; et
+- b. si l’admission dure au maximum deux ans, et
 - c. si elles sont réimportées en l’état; l’usage n’est pas réputé modification.
 
-<sup>2</sup> Pour des motifs importants, l’AFD peut proroger de trois ans au maximum le délai prévu à l’al. 1, let. b.
+<sup>2</sup> Pour des motifs importants, l’OFDF peut proroger de trois ans au maximum le délai prévu à l’al. 1, let. b.
 
 #### Art. 32
 
@@ -615,7 +615,7 @@ Les marchandises provenant de la libre pratique destinées à l’admission temp
 
 ### (art. 9, al. 2, LD)
 
-Pour des motifs importants, l’AFD peut autoriser le régime de l’admission temporaire même si toutes les conditions ne sont pas remplies.
+Pour des motifs importants, l’OFDF peut autoriser le régime de l’admission temporaire même si toutes les conditions ne sont pas remplies.
 
 #### Art. 33
 
@@ -623,10 +623,10 @@ Pour des motifs importants, l’AFD peut autoriser le régime de l’admission t
 
 ### (art. 9, al. 2 et 3, LD)
 
-L’AFD peut exclure le régime de l’admission temporaire:
+L’OFDF peut exclure le régime de l’admission temporaire:
 
 - a. pour des marchandises destinées à l’entreposage;
-- b. pour des marchandises en provenance d’Etats qui n’accordent pas la réciprocité; ou
+- b. pour des marchandises en provenance d’États qui n’accordent pas la réciprocité, ou
 - c. si, de ce fait, les conditions de concurrence sont fondamentalement compromises.
 
 #### Art. 34
@@ -639,25 +639,25 @@ L’AFD peut exclure le régime de l’admission temporaire:
 
 <sup>2</sup>
 
-L’AFD peut autoriser des personnes ayant leur siège ou leur domicile sur le territoire douanier à bénéficier de l’admission temporaire en franchise d’un moyen de transport étranger pour des transports transfrontaliers effectués à des fins commerciales:
+L’OFDF peut autoriser des personnes ayant leur siège ou leur domicile sur le territoire douanier à bénéficier de l’admission temporaire en franchise d’un moyen de transport étranger pour des transports transfrontaliers effectués à des fins commerciales:
 
-- a. si la personne effectue douze transports au maximum sur une période d’une année; et
+- a. si la personne effectue douze transports au maximum sur une période d’une année, et
 - b. si le moyen de transport est réexporté à la fin de chaque transport.
 
 <sup>3</sup> Une remorque étrangère affectée au transport de choses, introduite sur le territoire douanier à des fins commerciales et tractée par un véhicule indigène, peut bénéficier de lʼadmission temporaire en franchise pour des transports transfrontaliers. Elle doit être réexportée à lʼissue du transport pour lequel elle a été importée.
 
 <sup>4</sup>
 
-LʼAFD peut, pour les transports internes, autoriser lʼadmission temporaire en franchise de moyens de transport étrangers sur le territoire douanier, notamment lorsque le requérant prouve:
+LʼOFDF peut, pour les transports internes, autoriser lʼadmission temporaire en franchise de moyens de transport étrangers sur le territoire douanier, notamment lorsque le requérant prouve:
 
-- a. quʼaucun moyen de transport indigène approprié nʼest disponible et que les moyens de transport étrangers ne sont utilisés que pour une courte durée; ou
+- a. quʼaucun moyen de transport indigène approprié nʼest disponible et que les moyens de transport étrangers ne sont utilisés que pour une courte durée, ou
 - b. que les moyens de transport étrangers sont importés pour effectuer des tests.
 
 <sup>5</sup>
 
 Des véhicules de chemins de fer étrangers peuvent être admis temporairement en franchise sur le territoire douanier pour servir au transport de personnes et de marchandises:
 
-- a. sʼil sʼagit dʼun transport transfrontalier; et
+- a. sʼil sʼagit dʼun transport transfrontalier, et
 - b. si ces véhicules sont réexportés à lʼissue du transport pour lequel ils ont été importés.
 
 [^34-1]: Nouvelle teneur selon le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
@@ -668,15 +668,15 @@ Des véhicules de chemins de fer étrangers peuvent être admis temporairement e
 
 ### (art. 9, al. 2, LD)
 
-<sup>1</sup> L’AFD autorise l’admission temporaire d’un moyen de transport étranger pour un usage personnel pour des personnes domiciliées hors du territoire douanier qui entrent en Suisse pour prendre un emploi, se former ou se perfectionner, ou pour des motifs analogues.
+<sup>1</sup> L’OFDF autorise l’admission temporaire d’un moyen de transport étranger pour un usage personnel pour des personnes domiciliées hors du territoire douanier qui entrent en Suisse pour prendre un emploi, se former ou se perfectionner, ou pour des motifs analogues.
 
 <sup>2</sup>
 
-Elle peut autoriser l’admission temporaire d’un moyen de transport étranger pour un usage personnel pour des personnes ayant leur domicile sur le territoire douanier:
+Il peut autoriser l’admission temporaire d’un moyen de transport étranger pour un usage personnel pour des personnes ayant leur domicile sur le territoire douanier:
 
 - a. si elles sont employées chez une personne ayant son siège ou son domicile en dehors du territoire douanier et si elles utilisent le moyen de transport étranger mis à leur disposition exclusivement pour des transports transfrontaliers sur ordre de service et pour des transports entre le domicile et le lieu de travail à l’étranger;
 - b. si elles effectuent au cours d’une année douze transports transfrontaliers au maximum et si la réexportation a lieu chaque fois après trois jours;
-- c. si elles transfèrent leur domicile en un lieu en dehors du territoire douanier et si l’admission temporaire dure au maximum trois mois; ou
+- c. si elles transfèrent leur domicile en un lieu en dehors du territoire douanier et si l’admission temporaire dure au maximum trois mois, ou
 - d. si aucun moyen de transport indigène approprié n’est disponible et si les moyens de transport étrangers ne seront utilisés que pour une courte durée.
 
 #### Art. 36
@@ -685,7 +685,7 @@ Elle peut autoriser l’admission temporaire d’un moyen de transport étranger
 
 ### (art. 9, al. 2, LD)
 
-<sup>1</sup> L’AFD autorise, pour des personnes ayant leur domicile sur le territoire douanier, l’admission temporaire, pour un usage personnel, de moyens de transport étrangers qui sont loués occasionnellement, dans le cadre d’un contrat écrit, auprès d’une entreprise de location située sur le territoire douanier étranger.
+<sup>1</sup> L’OFDF autorise, pour des personnes ayant leur domicile sur le territoire douanier, l’admission temporaire, pour un usage personnel, de moyens de transport étrangers qui sont loués occasionnellement, dans le cadre d’un contrat écrit, auprès d’une entreprise de location située sur le territoire douanier étranger.
 
 <sup>2</sup> Ces moyens de transport doivent être réexportés ou restitués à l’entreprise de location sise sur le territoire douanier dans les huit jours à compter de l’entrée en vigueur du contrat.
 
@@ -693,9 +693,9 @@ Elle peut autoriser l’admission temporaire d’un moyen de transport étranger
 
 <sup>4</sup>
 
-L’AFD peut autoriser des entreprises de location sises sur le territoire douanier à mettre en location des moyens de transport étrangers si ces moyens de transport sont:
+L’OFDF peut autoriser des entreprises de location sises sur le territoire douanier à mettre en location des moyens de transport étrangers si ces moyens de transport sont:
 
-- a. réexportés dans les trois jours; ou
+- a. réexportés dans les trois jours, ou
 - b. loués pour plus de huit jours à des personnes domiciliées en dehors du territoire douanier pour une utilisation dans le trafic transfrontalier.
 
 #### Art. 37
@@ -704,7 +704,7 @@ L’AFD peut autoriser des entreprises de location sises sur le territoire douan
 
 ### (art. 9, al. 3, LD)
 
-A l’issue d’une utilisation transfrontalière, les conteneurs au sens de la Convention douanière du 2 décembre 1972 relative aux conteneurs 1972[^37-1] peuvent être utilisés pour un transport unique à l’intérieur du territoire douanier (art. 9, par. 1, et annexe 3 de la convention douanière).
+À l’issue d’une utilisation transfrontalière, les conteneurs au sens de la Convention douanière du 2 décembre 1972 relative aux conteneurs 1972[^37-1] peuvent être utilisés pour un transport unique à l’intérieur du territoire douanier (art. 9, par. 1, et annexe 3 de la convention douanière).
 
 [^37-1]: [RS 0.631.250.112](https://fedlex.data.admin.ch/eli/cc/1977/647_647_647)
 
@@ -757,10 +757,10 @@ Pour le trafic de perfectionnement actif, on entend par:
 Le trafic fondé sur l’équivalence est appliqué:
 
 - a. s’il est prouvé que la marchandise est de même état et de même qualité;
-- b. si aucune réglementation d’importation de la Confédération ne peut être éludée; et
+- b. si aucune réglementation d’importation de la Confédération ne peut être éludée, et
 - c. si aucun autre intérêt public prépondérant ne s’y oppose.
 
-<sup>3</sup> Les marchandises indigènes peuvent être exportées en tant que produits compensateurs à compter du jour auquel l’AFD a accordé l’autorisation de perfectionnement actif.
+<sup>3</sup> Les marchandises indigènes peuvent être exportées en tant que produits compensateurs à compter du jour auquel l’OFDF a accordé l’autorisation de perfectionnement actif.
 
 #### Art. 42
 
@@ -772,9 +772,9 @@ Le trafic fondé sur l’équivalence est appliqué:
 
 <sup>2</sup> Le trafic fondé sur l’identité est appliqué si la personne assujettie en fait la demande.
 
-<sup>3</sup> L’AFD prescrit le trafic fondé sur l’identité si les conditions applicables au trafic fondé sur l’équivalence ne sont pas remplies.
+<sup>3</sup> L’OFDF prescrit le trafic fondé sur l’identité si les conditions applicables au trafic fondé sur l’équivalence ne sont pas remplies.
 
-<sup>4</sup> Dans le trafic fondé sur l’identité, l’AFD fixe des charges relatives au contrôle dans l’autorisation de perfectionnement actif. Elle peut notamment prescrire l’entreposage et la transformation séparés des marchandises introduites sur le territoire douanier.
+<sup>4</sup> Dans le trafic fondé sur l’identité, l’OFDF fixe des charges relatives au contrôle dans l’autorisation de perfectionnement actif. Il peut notamment prescrire l’entreposage et la transformation séparés des marchandises introduites sur le territoire douanier.
 
 #### Art. 43
 
@@ -797,14 +797,14 @@ Le trafic fondé sur l’équivalence est appliqué:
 
 <sup>1</sup>
 
-Pour les marchandises qui doivent être détruites sur le territoire douanier, l’AFD accorde:
+Pour les marchandises qui doivent être détruites sur le territoire douanier, l’OFDF accorde:
 
 - a. le remboursement des droits de douane si les marchandises ont été taxées conformément à la procédure de remboursement;
 - b. l’exonération des droits de douane si les marchandises ont été taxées conformément au système de la suspension.
 
-<sup>2</sup> L’AFD peut prescrire que la destruction soit surveillée par un bureau de douane.
+<sup>2</sup> L’OFDF peut prescrire que la destruction soit surveillée par un bureau de douane.
 
-<sup>3</sup> Pour les marchandises qui ne doivent pas obligatoirement être détruites, la personne assujettie peut demander qu’elles soient utilisées sur le territoire douanier pour l’affouragement, en qualité d’engrais ou à des fins analogues. Dans ces cas, l’AFD accorde une réduction des droits de douane. L’utilisation de la marchandise doit être prouvée dans la demande.
+<sup>3</sup> Pour les marchandises qui ne doivent pas obligatoirement être détruites, la personne assujettie peut demander qu’elles soient utilisées sur le territoire douanier pour l’affouragement, en qualité d’engrais ou à des fins analogues. Dans ces cas, l’OFDF accorde une réduction des droits de douane. L’utilisation de la marchandise doit être prouvée dans la demande.
 
 <sup>4</sup> La demande de remboursement, d’exonération ou de réduction des droits de douane doit être présentée à la Direction générale des douanes ou à un bureau de douane désigné par celle-ci dans le délai fixé pour la réexportation des marchandises et avant la destruction ou l’utilisation, sur le territoire douanier, des marchandises initialement destinées à être détruites.
 
@@ -833,7 +833,7 @@ Le trafic fondé sur l’équivalence est appliqué:
 - a. s’il est prouvé que la marchandise est de même état et de même qualité;
 - b. si aucun intérêt public prépondérant ne s’y oppose.
 
-<sup>3</sup> Les marchandises étrangères peuvent être introduites sur le territoire douanier en tant que produits compensateurs à compter du jour auquel l’AFD a accordé l’autorisation de perfectionnement passif.
+<sup>3</sup> Les marchandises étrangères peuvent être introduites sur le territoire douanier en tant que produits compensateurs à compter du jour auquel l’OFDF a accordé l’autorisation de perfectionnement passif.
 
 #### Art. 47
 
@@ -845,9 +845,9 @@ Le trafic fondé sur l’équivalence est appliqué:
 
 <sup>2</sup> Le trafic fondé sur l’identité est appliqué si la personne assujettie en fait la demande.
 
-<sup>3</sup> L’AFD prescrit le trafic fondé sur l’identité si les conditions applicables au trafic fondé sur l’équivalence ne sont pas remplies.
+<sup>3</sup> L’OFDF prescrit le trafic fondé sur l’identité si les conditions applicables au trafic fondé sur l’équivalence ne sont pas remplies.
 
-<sup>4</sup> Dans le trafic fondé sur l’identité, l’AFD peut subordonner l’octroi d’une autorisation de perfectionnement passif à la condition que le mandataire étranger dispose d’une autorisation des autorités douanières étrangères pour le perfectionnement actif dans le trafic fondé sur l’identité.
+<sup>4</sup> Dans le trafic fondé sur l’identité, l’OFDF peut subordonner l’octroi d’une autorisation de perfectionnement passif à la condition que le mandataire étranger dispose d’une autorisation des autorités douanières étrangères pour le perfectionnement actif dans le trafic fondé sur l’identité.
 
 #### Art. 48
 
@@ -855,7 +855,7 @@ Le trafic fondé sur l’équivalence est appliqué:
 
 ### (art. 13, al. 1 et 2, LD)
 
-L’AFD octroie l’exonération des droits de douane pour les produits compensateurs introduits sur le territoire douanier.
+L’OFDF octroie l’exonération des droits de douane pour les produits compensateurs introduits sur le territoire douanier.
 
 #### Art. 49
 
@@ -863,16 +863,16 @@ L’AFD octroie l’exonération des droits de douane pour les produits compensa
 
 ### (art. 13, al. 3, LD)
 
-<sup>1</sup> L’AFD perçoit les droits de douane pour le surplus de poids résultant du perfectionnement. Ces droits se calculent selon le classement tarifaire du produit compensateur introduit sur le territoire douanier.
+<sup>1</sup> L’OFDF perçoit les droits de douane pour le surplus de poids résultant du perfectionnement. Ces droits se calculent selon le classement tarifaire du produit compensateur introduit sur le territoire douanier.
 
-<sup>2</sup> Si la valeur ajoutée résultant du perfectionnement ne peut pas être saisie sur la base du surplus de poids ou si les droits de douane pour le surplus de poids visés à l’al. 1 sont disproportionnés, l’AFD peut octroyer une réduction ou l’exonération des droits de douane.
+<sup>2</sup> Si la valeur ajoutée résultant du perfectionnement ne peut pas être saisie sur la base du surplus de poids ou si les droits de douane pour le surplus de poids visés à l’al. 1 sont disproportionnés, l’OFDF peut octroyer une réduction ou l’exonération des droits de douane.
 
 <sup>3</sup>
 
-L’AFD calcule le droit de douane réduit en appliquant la méthode qui, parmi celles qui suivent, permet de saisir au mieux la valeur ajoutée résultant du perfectionnement:
+L’OFDF calcule le droit de douane réduit en appliquant la méthode qui, parmi celles qui suivent, permet de saisir au mieux la valeur ajoutée résultant du perfectionnement:
 
 - a. différence entre la charge douanière grevant le produit compensateur introduit sur le territoire douanier et la charge douanière fictive grevant les quantités de marchandises exportées nécessaires à la fabrication du produit compensateur;
-- b. différence entre les coûts de perfectionnement indigènes et étrangers; ou
+- b. différence entre les coûts de perfectionnement indigènes et étrangers, ou
 - c. application au produit compensateur introduit sur le territoire douanier d’un pourcentage du taux du droit normal correspondant à l’augmentation de valeur obtenue à l’étranger.
 
 <sup>4</sup> Le taux du droit réduit est fixé dans les charges inhérentes à l’autorisation de perfectionnement passif.
@@ -887,7 +887,7 @@ L’AFD calcule le droit de douane réduit en appliquant la méthode qui, parmi 
 
 Il y a nécessité économique au sens de l’art. 14, al. 2, LD:
 
-- a. si les répercussions économiques de l’allégement douanier se révèlent suffisamment importantes; et
+- a. si les répercussions économiques de l’allégement douanier se révèlent suffisamment importantes, et
 - b. si la charge douanière *ad valorem* grevant le produit brut introduit en Suisse est disproportionnée par rapport à la valeur du produit fini.
 
 #### Art. 51
@@ -912,7 +912,7 @@ Il y a nécessité économique au sens de l’art. 14, al. 2, LD:
 
 La personne assujettie à l’obligation de déclarer doit, dans la déclaration en douane:
 
-- a. demander l’application d’un taux réduit; et
+- a. demander l’application d’un taux réduit, et
 - b. indiquer le numéro d’engagement de la personne chez qui la marchandise sera amenée directement après la mise en libre pratique.
 
 <sup>2</sup> La Direction générale des douanes peut autoriser l’indication du numéro d’engagement d’une autre personne lorsque des conditions logistiques ou commerciales particulières l’exigent.
@@ -927,7 +927,7 @@ La personne assujettie à l’obligation de déclarer doit, dans la déclaration
 
 Les marchandises taxées à un taux réduit en vue d’un emploi déterminé doivent être utilisées:
 
-- a. par la personne qui a déposé l’engagement d’emploi conformément à l’emploi cité dans ce dernier; ou
+- a. par la personne qui a déposé l’engagement d’emploi conformément à l’emploi cité dans ce dernier, ou
 - b. par un tiers sur mandat de la personne qui a déposé l’engagement d’emploi conformément à l’emploi cité dans ce dernier.
 
 <sup>2</sup> Elles peuvent être remises en l’état à un tiers pour un emploi conforme à l’engagement d’emploi correspondant. Dans ce cas, la personne qui remet les marchandises doit informer le tiers sur leur emploi.
@@ -972,7 +972,7 @@ Quiconque dispose encore, dans le circuit de commercialisation, de produits agri
 
 <sup>1</sup> La déclaration en douane doit être accompagnée d’un aperçu des divers lieux d’entreposage des produits agricoles encore disponibles dans le circuit de commercialisation au début de la période administrée au sens de l’art. 7 OIELFP[^57-1]; cet aperçu doit comporter l’indication exacte du lieu, la désignation de la marchandise, le numéro du tarif douanier et la masse nette.
 
-<sup>2</sup> …[^57-2]
+<sup>2</sup> ...[^57-2]
 
 [^57-1]: [RS 916.121.10](https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244)
 [^57-2]: Abrogé par le ch. II de l’O du 14 nov. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 6265](https://fedlex.data.admin.ch/eli/oc/2007/832)).
@@ -983,7 +983,7 @@ Quiconque dispose encore, dans le circuit de commercialisation, de produits agri
 
 ### (art. 15, al. 2, LD)
 
-<sup>1</sup> Sur demande de l’AFD, le titulaire d’un PGI doit lui remettre une liste de tous les produits agricoles livrés à des tiers qu’il a importés pendant la période non administrée, avant l’échéance définie à l’art. 7, al. 1, OIELFP[^58-1].
+<sup>1</sup> Sur demande de l’OFDF, le titulaire d’un PGI doit lui remettre une liste de tous les produits agricoles livrés à des tiers qu’il a importés pendant la période non administrée, avant l’échéance définie à l’art. 7, al. 1, OIELFP[^58-1].
 
 <sup>2</sup>
 
@@ -1031,11 +1031,11 @@ Quiconque remet à un tiers des produits agricoles importés pendant la période
 
 ### (art. 15, al. 2, LD)
 
-<sup>1</sup> L’AFD peut faire appel à l’Office fédéral de l’agriculture pour les contrôles au sens de l’art. 55 effectués au domicile des personnes assujetties à l’obligation de déclarer.
+<sup>1</sup> L’OFDF peut faire appel à l’Office fédéral de l’agriculture pour les contrôles au sens de l’art. 55 effectués au domicile des personnes assujetties à l’obligation de déclarer.
 
 <sup>2</sup> L’Office fédéral de l’agriculture peut en l’occurrence procéder au contrôle matériel du genre, de la quantité et de l’état des produits agricoles, réclamer tous les renseignements nécessaires et vérifier les données, les documents, les systèmes et les informations pouvant revêtir de l’importance pour l’exécution de l’art. 15 LD.
 
-<sup>3</sup> Il transmet les résultats du contrôle à l’AFD en vue de l’exécution.
+<sup>3</sup> Il transmet les résultats du contrôle à l’OFDF en vue de l’exécution.
 
 ### Section 8 Trafic touristique
 
@@ -1049,12 +1049,12 @@ Quiconque remet à un tiers des produits agricoles importés pendant la période
 
 Sont admis en franchise les effets personnels énumérés à l’annexe 1 qui sont importés en quantité raisonnable:
 
-- a. par des personnes domiciliées sur le territoire douanier, pour autant qu’elles aient emporté ces effets lors de leur sortie du pays ou aient dû les acheter et les utiliser à l’étranger par suite de circonstances imprévisibles; ou
+- a. par des personnes domiciliées sur le territoire douanier, pour autant qu’elles aient emporté ces effets lors de leur sortie du pays ou aient dû les acheter et les utiliser à l’étranger par suite de circonstances imprévisibles, ou
 - b. par des personnes domiciliées en dehors du territoire douanier si elles se proposent de réexporter ces effets après leur séjour sur le territoire douanier.
 
 <sup>2</sup> Sont également admis en franchise les effets personnels que les personnes visées à l’al. 1 expédient préalablement ou se font envoyer après coup.
 
-<sup>3</sup> L’AFD peut exiger le placement des objets neufs ou passibles de redevances d’entrée élevées sous le régime du transit ou sous celui de l’admission temporaire.
+<sup>3</sup> L’OFDF peut exiger le placement des objets neufs ou passibles de redevances d’entrée élevées sous le régime du transit ou sous celui de l’admission temporaire.
 
 #### Art. 64
 
@@ -1173,7 +1173,7 @@ Sont réputées réserves de marchandises pour les buffets de bord:
 
 <sup>1</sup> Le classement tarifaire se fonde sur l’annexe 1 de la loi du 9 octobre 1986 sur le tarif des douanes (LTaD)[^71-1].
 
-<sup>2</sup> L’interprétation de l’annexe 1 de la loi du 9 octobre 1986 sur le tarif des douanes doit se faire sur la base des notes explicatives du tarif des douanes et des décisions de classement des marchandises publiées par l’AFD.
+<sup>2</sup> L’interprétation de l’annexe 1 de la loi du 9 octobre 1986 sur le tarif des douanes doit se faire sur la base des notes explicatives du tarif des douanes et des décisions de classement des marchandises publiées par l’OFDF.
 
 [^71-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
 
@@ -1205,7 +1205,7 @@ La détermination de l’origine préférentielle se fonde sur:
 La demande d’octroi d’un renseignement contraignant en matière de tarif ou d’origine doit contenir les indications suivantes:
 
 - a. les nom et adresse du requérant;
-- b. la composition, le procédé de fabrication, la construction et la fonction de la marchandise lorsque cela est nécessaire pour le classement tarifaire; et
+- b. la composition, le procédé de fabrication, la construction et la fonction de la marchandise lorsque cela est nécessaire pour le classement tarifaire, et
 - c. le classement tarifaire devant être pris en considération pour la marchandise.
 
 <sup>2</sup>
@@ -1218,11 +1218,11 @@ Pour l’obtention d’un renseignement en matière d’origine, les données su
 
 <sup>3</sup> Il convient de joindre les échantillons, photos, plans, catalogues et ouvrages spécialisés nécessaires.
 
-<sup>4</sup> L’AFD exige du requérant qu’il complète la demande dans un délai approprié si elle est insuffisamment documentée. Elle peut refuser de fournir le renseignement en matière de tarif ou d’origine si la demande reste incomplète malgré la mise en demeure.
+<sup>4</sup> L’OFDF exige du requérant qu’il complète la demande dans un délai approprié si elle est insuffisamment documentée. Il peut refuser de fournir le renseignement en matière de tarif ou d’origine si la demande reste incomplète malgré la mise en demeure.
 
-<sup>4bis</sup> L’AFD fournit le renseignement en matière de tarif ou d’origine au plus tard 40 jours après réception de l’intégralité des pièces justificatives.[^73-1]
+<sup>4bis</sup> L’OFDF fournit le renseignement en matière de tarif ou d’origine au plus tard 40 jours après réception de l’intégralité des pièces justificatives.[^73-1]
 
-<sup>5</sup> Elle peut conserver la documentation fournie sans obligation de dédommagement.
+<sup>5</sup> Il peut conserver la documentation fournie sans obligation de dédommagement.
 
 [^73-1]: Introduit par le ch. I 6 de l’O du 6 juin 2014 sur la fixation de délais d’ordre dans le domaine de l’AFD, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
 
@@ -1232,7 +1232,7 @@ Pour l’obtention d’un renseignement en matière d’origine, les données su
 
 ### (art. 20, al. 5, LD)
 
-<sup>1</sup> Un renseignement écrit au sujet du classement tarifaire qui est révoqué par l’AFD avant l’échéance de sa validité peut encore être utilisé par l’ayant droit pendant trois mois à compter de la publication ou de la communication si ce dernier prouve que, avant la révocation, il a conclu un contrat juridiquement contraignant portant sur les marchandises en question.
+<sup>1</sup> Un renseignement écrit au sujet du classement tarifaire qui est révoqué par l’OFDF avant l’échéance de sa validité peut encore être utilisé par l’ayant droit pendant trois mois à compter de la publication ou de la communication si ce dernier prouve que, avant la révocation, il a conclu un contrat juridiquement contraignant portant sur les marchandises en question.
 
 <sup>2</sup> L’al. 1 n’est pas applicable en cas de modifications du droit.
 
@@ -1265,11 +1265,11 @@ Les voyageurs qui n’introduisent aucune marchandise sur le territoire douanier
 
 #### Art. 77
 
-**Traitement de marchandises sous la garde de l’AFD**
+**Traitement de marchandises sous la garde de l’OFDF**
 
 ### (art. 24, al. 3, LD)
 
-<sup>1</sup> Les marchandises sous la garde de l’AFD ne doivent pas être modifiées en genre, en quantité et en état.
+<sup>1</sup> Les marchandises sous la garde de l’OFDF ne doivent pas être modifiées en genre, en quantité et en état.
 
 <sup>2</sup>
 
@@ -1280,11 +1280,11 @@ Sont admis, avec l’autorisation du bureau de douane:
 
 #### Art. 78
 
-**Durée de la garde de l’AFD**
+**Durée de la garde de l’OFDF**
 
 ### (art. 24, al. 3, LD)
 
-La garde de l’AFD s’achève par la libération, par le bureau de douane, des marchandises présentées.
+La garde de l’OFDF s’achève par la libération, par le bureau de douane, des marchandises présentées.
 
 #### Art. 79
 
@@ -1312,7 +1312,7 @@ Dans la déclaration en douane, la personne assujettie à l’obligation de déc
 
 <sup>1</sup> Sont réputés documents d’accompagnement les justificatifs ayant une importance pour le placement sous régime douanier, notamment les autorisations, les documents de transport, les factures, les bulletins de livraison, les listes de chargement, les justificatifs de poids, les preuves d’origine, les instructions de taxation, les certificats d’analyse, les autres certificats et les attestations officielles.
 
-<sup>2</sup> Si la personne assujettie à l’obligation de déclarer ne présente pas les documents d’accompagnement nécessaires dans le délai fixé par l’AFD, le bureau de douane taxe définitivement, au taux le plus élevé applicable à leur genre, les marchandises pour lesquelles une réduction ou une exonération des droits de douane ou un allégement douanier est demandé.
+<sup>2</sup> Si la personne assujettie à l’obligation de déclarer ne présente pas les documents d’accompagnement nécessaires dans le délai fixé par l’OFDF, le bureau de douane taxe définitivement, au taux le plus élevé applicable à leur genre, les marchandises pour lesquelles une réduction ou une exonération des droits de douane ou un allégement douanier est demandé.
 
 #### Art. 80a
 
@@ -1320,12 +1320,12 @@ Dans la déclaration en douane, la personne assujettie à l’obligation de déc
 
 <sup>1</sup>
 
-LʼAFD accorde à des produits originaires, sans présentation de preuves d’origine, la taxation préférentielle au sens d’un des accords de libre-échange cités à lʼannexe 1 à lʼordonnance du 18 juin 2008 sur le libre-échange 1[^80a-2] ou à lʼannexe 1 à lʼordonnance du 27 juin 1995 sur le libre-échange 2[^80a-3]:
+LʼOFDF accorde à des produits originaires, sans présentation de preuves d’origine, la taxation préférentielle au sens d’un des accords de libre-échange cités à lʼannexe 1 à lʼordonnance du 18 juin 2008 sur le libre-échange 1[^80a-2] ou à lʼannexe 1 à lʼordonnance du 27 juin 1995 sur le libre-échange 2[^80a-3]:
 
 - a. s’il s’agit d’un envoi de particulier à particulier;
 - b. si la valeur totale des produits originaires faisant partie de lʼenvoi n’excède pas 1000 francs;
 - c. si l’envoi nʼest pas de nature commerciale;
-- d. si la personne assujettie à lʼobligation de déclarer affirme que les conditions de l’octroi de préférences tarifaires sont réunies et qu’il n’existe aucun doute quant à la véracité de cette déclaration; et
+- d. si la personne assujettie à lʼobligation de déclarer affirme que les conditions de l’octroi de préférences tarifaires sont réunies et qu’il n’existe aucun doute quant à la véracité de cette déclaration, et
 - e. si l’accord de libre-échange concerné n’en dispose pas autrement.
 
 <sup>2</sup> La renonciation à la présentation dʼune preuve dʼorigine pour les produits originaires dʼun des pays ou des territoires cités à lʼannexe 1 à lʼordonnance du 16 mars 2007 sur les préférences tarifaires[^80a-4] est régie par lʼordonnance du 30 mars 2011 relative aux règles dʼorigine[^80a-5].
@@ -1354,7 +1354,7 @@ La personne assujettie à l’obligation de déclarer a le droit:
 
 ### (art. 27, let. d, LD)
 
-<sup>1</sup> La personne assujettie à l’obligation de déclarer doit procéder ou faire procéder à la destruction des marchandises dans le délai imparti par l’AFD.
+<sup>1</sup> La personne assujettie à l’obligation de déclarer doit procéder ou faire procéder à la destruction des marchandises dans le délai imparti par l’OFDF.
 
 <sup>2</sup> Si la personne assujettie à l’obligation de déclarer ne donne pas suite à cette obligation, le bureau de douane peut ordonner la destruction aux frais de cette personne.
 
@@ -1366,11 +1366,11 @@ La personne assujettie à l’obligation de déclarer a le droit:
 
 ### (art. 27, let. e, LD)
 
-<sup>1</sup> L’abandon de marchandises au profit de la Caisse fédérale n’est admis qu’avec l’autorisation de l’AFD.
+<sup>1</sup> L’abandon de marchandises au profit de la Caisse fédérale n’est admis qu’avec l’autorisation de l’OFDF.
 
-<sup>2</sup> Les marchandises sont réalisées par l’AFD. Les coûts éventuels découlant de l’abandon de la marchandise sont supportés par la personne assujettie à l’obligation de déclarer.
+<sup>2</sup> Les marchandises sont réalisées par l’OFDF. Les coûts éventuels découlant de l’abandon de la marchandise sont supportés par la personne assujettie à l’obligation de déclarer.
 
-<sup>3</sup> Au lieu de procéder à leur vente de gré à gré, l’AFD peut remettre les marchandises à des organisations ou œuvres d’entraide d’utilité publique reconnues ou à des indigents.
+<sup>3</sup> Au lieu de procéder à leur vente de gré à gré, l’OFDF peut remettre les marchandises à des organisations ou œuvres d’entraide d’utilité publique reconnues ou à des indigents.
 
 ### Chapitre 2 Taxation
 
@@ -1382,7 +1382,7 @@ La personne assujettie à l’obligation de déclarer a le droit:
 
 Le contrôle sommaire comprend:
 
-- a. un contrôle de plausibilité de la déclaration en douane transmise par la personne assujettie à l’obligation de déclarer, lequel est effectué par le système électronique de traitement des données de l’AFD;
+- a. un contrôle de plausibilité de la déclaration en douane transmise par la personne assujettie à l’obligation de déclarer, lequel est effectué par le système électronique de traitement des données de l’OFDF;
 - b. le rejet automatique de la déclaration en douane lorsque le système de traitement des données constate des erreurs.
 
 #### Art. 85
@@ -1407,13 +1407,13 @@ La rectification ne peut porter que sur les marchandises déclarées initialemen
 
 ### (art. 34, al. 2, LD)
 
-<sup>1</sup> La personne assujettie à l’obligation de déclarer peut présenter une demande de rectification de la déclaration en douane acceptée pour des marchandises qui ne sont plus sous la garde de l’AFD.
+<sup>1</sup> La personne assujettie à l’obligation de déclarer peut présenter une demande de rectification de la déclaration en douane acceptée pour des marchandises qui ne sont plus sous la garde de l’OFDF.
 
 <sup>2</sup>
 
 Le bureau de douane accepte la demande:
 
-- a. tant qu’il n’a pas constaté que les indications figurant dans la déclaration en douane ou les documents d’accompagnement sont fausses; et
+- a. tant qu’il n’a pas constaté que les indications figurant dans la déclaration en douane ou les documents d’accompagnement sont fausses, et
 - b. tant qu’il n’a pas établi de décision de taxation.
 
 #### Art. 88
@@ -1424,7 +1424,7 @@ Le bureau de douane accepte la demande:
 
 Une erreur peut être invoquée pour autant:
 
-- a. qu’il eût été possible de la déceler au moment de la déclaration en douane initiale sur la base des documents d’accompagnement présentés avec celle-ci; ou
+- a. qu’il eût été possible de la déceler au moment de la déclaration en douane initiale sur la base des documents d’accompagnement présentés avec celle-ci, ou
 - b. que les autorisations nécessaires pour le nouveau régime douanier aient déjà été délivrées à ce moment-là.
 
 #### Art. 89
@@ -1460,7 +1460,7 @@ Sur ordre du bureau de douane, la personne assujettie à l’obligation de décl
 - d. déballer les marchandises;
 - e. les peser;
 - f. les réemballer;
-- g. les préparer pour l’expédition; et
+- g. les préparer pour l’expédition, et
 - h. procéder à leur enlèvement.
 
 #### Art. 92
@@ -1479,7 +1479,7 @@ Le bureau de douane notifie la décision de taxation sur support papier ou par v
 
 <sup>1</sup>
 
-L’AFD peut effectuer une taxation provisoire dans les régimes douaniers suivants:
+L’OFDF peut effectuer une taxation provisoire dans les régimes douaniers suivants:
 
 - a. la mise en libre pratique;
 - b. le régime de l’admission temporaire;
@@ -1502,7 +1502,7 @@ Une taxation provisoire est notamment justifiée:
 La personne assujettie à l’obligation de déclarer ne peut pas demander de taxation provisoire:
 
 - a. si son intention est de présenter une demande de réduction de taux pour certains emplois au sens de l’art. 14, al. 2, LD ou si une telle demande est en suspens;
-- b. si la marchandise ne se trouve plus sous la garde de l’AFD.
+- b. si la marchandise ne se trouve plus sous la garde de l’OFDF.
 
 [^93-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
 
@@ -1545,7 +1545,7 @@ Les personnes suivantes doivent conserver les données et les documents énumér
 
 Les durées de conservation sont:
 
-- a. de trois mois au moins, à compter de la transmission réussie, pour les données transmises à l’AFD par voie électronique;
+- a. de trois mois au moins, à compter de la transmission réussie, pour les données transmises à l’OFDF par voie électronique;
 - b. d’un an au moins pour les données et les documents en rapport avec les marchandises dans le trafic touristique;
 - c.[^96-1] de trois ans au moins pour les justificatifs relatifs aux preuves d’origine;
 - d.[^96-2] de cinq ans au moins dans les autres cas pour les données et les documents, notamment pour la comptabilité-matières et les documents de fabrication relatifs au trafic de perfectionnement et aux marchandises bénéficiant d’allégements douaniers selon l’emploi.
@@ -1592,9 +1592,9 @@ La personne assujettie à l’obligation de conserver doit:
 
 ### (art. 41 LD)
 
-Si l’AFD effectue un contrôle pendant la durée de conservation (art. 96), elle peut corriger la décision de taxation des marchandises sur la base du taux le plus élevé qui était applicable à leur genre au moment de la taxation et procéder à la perception subséquente des droits de douane:
+Si l’OFDF effectue un contrôle pendant la durée de conservation (art. 96), il peut corriger la décision de taxation des marchandises sur la base du taux le plus élevé qui était applicable à leur genre au moment de la taxation et procéder à la perception subséquente des droits de douane:
 
-- a. si la personne assujettie à l’obligation de conserver n’est pas en mesure de présenter de la manière exigée les données et documents justifiant une réduction ou une exonération des droits de douane ou un allégement douanier; et
+- a. si la personne assujettie à l’obligation de conserver n’est pas en mesure de présenter de la manière exigée les données et documents justifiant une réduction ou une exonération des droits de douane ou un allégement douanier, et
 - b. si l’ensemble des circonstances oblige à conclure que la taxation est fausse, ce fait n’ayant cependant pas été décelable d’emblée au moment de la taxation.
 
 ### Chapitre 3 Dispositions spéciales de procédure
@@ -1607,7 +1607,7 @@ Si l’AFD effectue un contrôle pendant la durée de conservation (art. 96), el
 
 ### (art. 42, al. 1, let. a et d, LD)
 
-Un expéditeur agréé est une personne habilitée par l’AFD à expédier des marchandises directement de son domicile ou de lieux agréés sans devoir les conduire à un bureau de douane de départ.
+Un expéditeur agréé est une personne habilitée par l’OFDF à expédier des marchandises directement de son domicile ou de lieux agréés sans devoir les conduire à un bureau de douane de départ.
 
 #### Art. 101
 
@@ -1615,7 +1615,7 @@ Un expéditeur agréé est une personne habilitée par l’AFD à expédier des 
 
 ### (art. 42, al. 1, let. a et d, LD)
 
-Un destinataire agréé est une personne habilitée par l’AFD à recevoir des marchandises directement à son domicile ou dans des lieux agréés sans devoir les conduire à un bureau de douane de destination.
+Un destinataire agréé est une personne habilitée par l’OFDF à recevoir des marchandises directement à son domicile ou dans des lieux agréés sans devoir les conduire à un bureau de douane de destination.
 
 #### Art. 102
 
@@ -1623,7 +1623,7 @@ Un destinataire agréé est une personne habilitée par l’AFD à recevoir des 
 
 ### (art. 42, al. 1, let. a et d, LD)
 
-Un lieu agréé est un lieu désigné par l’AFD:
+Un lieu agréé est un lieu désigné par l’OFDF:
 
 - a. dans lequel un destinataire agréé est autorisé à conduire les marchandises à réceptionner;
 - b. à partir duquel un expéditeur agréé est autorisé à transporter les marchandises à expédier.
@@ -1636,7 +1636,7 @@ Un lieu agréé est un lieu désigné par l’AFD:
 
 <sup>1</sup>
 
-L’AFD peut accorder à une personne assujettie à l’obligation de déclarer une autorisation en tant qu’expéditeur agréé ou que destinataire agréé si les conditions suivantes sont remplies:
+L’OFDF peut accorder à une personne assujettie à l’obligation de déclarer une autorisation en tant qu’expéditeur agréé ou que destinataire agréé si les conditions suivantes sont remplies:
 
 - a. la personne expédie ou reçoit en permanence des marchandises;
 - b. la personne indique son domicile et les lieux qu’elle veut faire agréer;
@@ -1644,20 +1644,20 @@ L’AFD peut accorder à une personne assujettie à l’obligation de déclarer 
 - d. la personne organise l’administration et l’exploitation de telle manière que le parcours d’un envoi et le statut douanier des marchandises puissent être contrôlés sans faille à tout moment;
 - e. le domicile de la personne et les lieux qu’elle veut faire agréer se trouvent sur le territoire douanier et suffisamment près d’un bureau de douane pour que les contrôles soient possibles sans charge administrative disproportionnée.
 
-<sup>2</sup> Les conditions et les charges régissant la procédure sont fixées dans l’autorisation. L’AFD peut exclure de cette procédure des marchandises déterminées.
+<sup>2</sup> Les conditions et les charges régissant la procédure sont fixées dans l’autorisation. L’OFDF peut exclure de cette procédure des marchandises déterminées.
 
 <sup>3</sup> Le bureau de départ ou de destination compétent (bureau de contrôle) est fixé dans l’autorisation.
 
 <sup>4</sup>
 
-L’AFD refuse l’autorisation:
+L’OFDF refuse l’autorisation:
 
-- a. si le requérant n’offre pas la garantie d’un déroulement réglementaire de la procédure; ou
-- b. s’il a commis une infraction grave ou des infractions répétées au droit fédéral, dans la mesure où son exécution incombe à l’AFD.[^103-1]
+- a. si le requérant n’offre pas la garantie d’un déroulement réglementaire de la procédure, ou
+- b. s’il a commis une infraction grave ou des infractions répétées au droit fédéral, dans la mesure où son exécution incombe à l’OFDF.[^103-1]
 
-<sup>5</sup> Elle rend sa décision sur l’autorisation au plus tard 60 jours après réception de l’intégralité des pièces justificatives.[^103-2]
+<sup>5</sup> Il rend sa décision sur l’autorisation au plus tard 60 jours après réception de l’intégralité des pièces justificatives.[^103-2]
 
-<sup>6</sup> Le titulaire de l’autorisation doit communiquer à l’AFD toutes les modifications des conditions sur lesquelles se fonde l’autorisation.[^103-3]
+<sup>6</sup> Le titulaire de l’autorisation doit communiquer à l’OFDF toutes les modifications des conditions sur lesquelles se fonde l’autorisation.[^103-3]
 
 [^103-1]: Nouvelle teneur selon le ch. I 6 de l’O du 6 juin 2014 sur la fixation de délais d’ordre dans le domaine de l’AFD, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
 [^103-2]: Nouvelle teneur selon le ch. I 6 de l’O du 6 juin 2014 sur la fixation de délais d’ordre dans le domaine de l’AFD, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
@@ -1669,11 +1669,11 @@ L’AFD refuse l’autorisation:
 
 ### (art. 42, al. 1, let. a et d, LD)
 
-L’AFD retire l’autorisation si son titulaire:
+L’OFDF retire l’autorisation si son titulaire:
 
 - a. ne remplit plus les conditions d’octroi de l’autorisation;
-- b. n’observe pas les conditions et les charges fixées dans l’autorisation; ou
-- c. commet des infractions répétées au droit fédéral, dans la mesure où son exécution incombe à l’AFD.
+- b. n’observe pas les conditions et les charges fixées dans l’autorisation, ou
+- c. commet des infractions répétées au droit fédéral, dans la mesure où son exécution incombe à l’OFDF.
 
 #### Art. 105
 
@@ -1703,7 +1703,7 @@ Le destinataire agréé peut remettre une déclaration en douane simplifiée en 
 
 - c. dont la valeur TVA n’excède pas 1000 francs et dont la masse brute n’excède pas 1000 kilogrammes;
 - d. qui ne sont pas soumises à un acte législatif autre que douanier;
-- e. qui ne sont pas assujetties à un permis; et
+- e. qui ne sont pas assujetties à un permis, et
 - f. pour lesquelles aucune autre redevance que la taxe sur la valeur ajoutée n’est due.
 
 <sup>2</sup> Pour un envoi au sens de l’al. 1 non soumis à la TVA, le destinataire agréé peut remettre la déclaration en douane sous forme écrite ou sous une autre forme d’expression de la volonté.
@@ -1715,7 +1715,7 @@ Plusieurs déclarations en douane peuvent être remises pour un envoi aux condit
 - a. cela ne conduit pas à une diminution des redevances;
 - b. cela ne permet d’éluder des actes législatifs autres que douaniers.
 
-<sup>4</sup> L’AFD peut refuser lʼautorisation de recourir à la déclaration en douane simplifiée, ou retirer lʼautorisation en ce sens, lorsque la perception des redevances ou l’observation d’actes législatifs autres que douaniers est en péril ou lorsque les conditions et les charges fixées dans l’autorisation visée à l’art. 103 ne sont pas observées.
+<sup>4</sup> L’OFDF peut refuser lʼautorisation de recourir à la déclaration en douane simplifiée, ou retirer lʼautorisation en ce sens, lorsque la perception des redevances ou l’observation d’actes législatifs autres que douaniers est en péril ou lorsque les conditions et les charges fixées dans l’autorisation visée à l’art. 103 ne sont pas observées.
 
 [^105a-1]: Introduit par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
@@ -1725,10 +1725,10 @@ Plusieurs déclarations en douane peuvent être remises pour un envoi aux condit
 
 ### (art. 42, al. 1, let. a et d, LD)
 
-LʼAFD oblige le destinataire agréé à utiliser la déclaration en douane simplifiée si le Surveillant des prix:
+LʼOFDF oblige le destinataire agréé à utiliser la déclaration en douane simplifiée si le Surveillant des prix:
 
-- a. constate que le destinataire agréé exige, pour le dédouanement, une contre-prestation disproportionnée par rapport aux autres prestataires; et
-- b. dépose une demande en ce sens à lʼAFD.
+- a. constate que le destinataire agréé exige, pour le dédouanement, une contre-prestation disproportionnée par rapport aux autres prestataires, et
+- b. dépose une demande en ce sens à lʼOFDF.
 
 [^105b-1]: Introduit par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
@@ -1738,7 +1738,7 @@ LʼAFD oblige le destinataire agréé à utiliser la déclaration en douane simp
 
 ### (art. 38 et 42 LD)
 
-L’AFD peut préciser, dans l’autorisation au sens de l’art. 103, qu’aucune décision de taxation n’est établie pour les envois visés à l’art. 105*a*, al. 2.
+L’OFDF peut préciser, dans l’autorisation au sens de l’art. 103, qu’aucune décision de taxation n’est établie pour les envois visés à l’art. 105*a*, al. 2.
 
 [^105c-1]: Introduit par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
@@ -1835,7 +1835,7 @@ La procédure du destinataire agréé est applicable aux marchandises qui sont c
 
 ### (art. 42*a* LD)
 
-<sup>1</sup> L’AFD décide de l’octroi du statut d’opérateur économique agréé (*Authorised Economic Operator*, AEO).
+<sup>1</sup> L’OFDF décide de l’octroi du statut d’opérateur économique agréé (*Authorised Economic Operator*, AEO).
 
 <sup>2</sup> Un AEO est considéré comme fiable en ce qui concerne la sécurité de la chaîne logistique internationale.
 
@@ -1882,7 +1882,7 @@ Les personnes obtiennent sur demande le statut d’AEO si elles remplissent les 
 
 ### (art. 42*a* LD)
 
-Les exigences douanières sont réputées respectées lorsque, au cours des trois années précédant la présentation de la demande, les personnes suivantes n’ont commis ni infraction grave poursuivie pénalement ni infractions répétées poursuivies pénalement au droit fédéral, dans la mesure où l’exécution incombe à l’AFD:
+Les exigences douanières sont réputées respectées lorsque, au cours des trois années précédant la présentation de la demande, les personnes suivantes n’ont commis ni infraction grave poursuivie pénalement ni infractions répétées poursuivies pénalement au droit fédéral, dans la mesure où l’exécution incombe à l’OFDF:
 
 - a. le requérant;
 - b. les personnes responsables de l’entreprise requérante ou exerçant le contrôle sur sa gestion;
@@ -1905,7 +1905,7 @@ Le système de gestion des écritures commerciales et, le cas échéant, des éc
 - d. dispose d’une organisation administrative correspondant au type et à la taille de l’entreprise et adaptée à la gestion des flux de marchandises, ainsi que d’un système de contrôle interne permettant d’empêcher les erreurs, de les déceler et de les corriger, ainsi que de déceler les transactions illégales ou irrégulières;
 - e. dispose le cas échéant de processus de gestion des restrictions d’importation et d’exportation en relation avec des actes législatifs autres que douaniers, permettant de distinguer les marchandises soumises à de telles restrictions des autres marchandises;
 - f. dispose de processus d’archivage des données et des documents de l’entreprise et de protection contre la perte;
-- g. s’assure que l’AFD est informée lorsque la manière d’appliquer une prescription est source d’incertitude au sein de l’entreprise;
+- g. s’assure que l’OFDF est informé lorsque la manière d’appliquer une prescription est source d’incertitude au sein de l’entreprise;
 - h. a pris des mesures de sécurité des technologies de l’information protégeant son système informatique contre toute intrusion non autorisée et sécurisant les données de ce dernier.
 
 [^112e-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
@@ -1971,16 +1971,16 @@ Les normes de sécurité et de sûreté sont réputées appropriées lorsque le 
 
 [^112i-1]
 
-<sup>1</sup> La demande d’octroi du statut d’AEO doit être présentée à l’AFD au moyen du formulaire officiel.
+<sup>1</sup> La demande d’octroi du statut d’AEO doit être présentée à l’OFDF au moyen du formulaire officiel.
 
 <sup>2</sup>
 
 Les documents suivants doivent être joints à la demande:
 
-- a. le questionnaire de l’AFD, dûment rempli;
-- b. toute pièce que l’AFD considère comme nécessaire à l’examen de la demande.
+- a. le questionnaire de l’OFDF, dûment rempli;
+- b. toute pièce que l’OFDF considère comme nécessaire à l’examen de la demande.
 
-<sup>3</sup> L’AFD publie de manière appropriée la liste des pièces visées à l’al. 2, let. b.
+<sup>3</sup> L’OFDF publie de manière appropriée la liste des pièces visées à l’al. 2, let. b.
 
 [^112i-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
@@ -1994,12 +1994,12 @@ Les documents suivants doivent être joints à la demande:
 
 <sup>1</sup>
 
-L’AFD examine dans un délai de 30 jours à compter de la réception des pièces justificatives:
+L’OFDF examine dans un délai de 30 jours à compter de la réception des pièces justificatives:
 
-- a. si les conditions formelles énumérées à l’art. 112*b* sont remplies; et
+- a. si les conditions formelles énumérées à l’art. 112*b* sont remplies, et
 - b. si les pièces justificatives nécessaires pour le traitement de la demande énumérées à l’art. 112*i* ont été présentées.[^112j-2]
 
-<sup>2</sup> Si le requérant ne remplit pas ces conditions, l’AFD le lui notifie au moyen d’une décision de non-entrée en matière.
+<sup>2</sup> Si le requérant ne remplit pas ces conditions, l’OFDF le lui notifie au moyen d’une décision de non-entrée en matière.
 
 <sup>3</sup> La décision de non-entrée en matière peut faire l’objet d’un recours au sens de l’art. 116 LD.
 
@@ -2014,19 +2014,19 @@ L’AFD examine dans un délai de 30 jours à compter de la réception des pièc
 
 [^112k-1]
 
-<sup>1</sup> L’AFD examine le respect des critères énoncés aux art. 112*c* à 112*h*. L’examen a lieu sur la base des pièces fournies et de contrôles effectués au domicile du requérant.
+<sup>1</sup> L’OFDF examine le respect des critères énoncés aux art. 112*c* à 112*h*. L’examen a lieu sur la base des pièces fournies et de contrôles effectués au domicile du requérant.
 
-<sup>2</sup> L’AFD tient compte en l’occurrence des caractéristiques particulières de l’exploitation commerciale du requérant, telles que le type, la taille et le champ d’activité.
+<sup>2</sup> L’OFDF tient compte en l’occurrence des caractéristiques particulières de l’exploitation commerciale du requérant, telles que le type, la taille et le champ d’activité.
 
-<sup>3</sup> Elle peut réclamer d’autres pièces justificatives et d’autres informations si elle le juge nécessaire à l’examen de la demande.
+<sup>3</sup> Il peut réclamer d’autres pièces justificatives et d’autres informations si il le juge nécessaire à l’examen de la demande.
 
-<sup>4</sup> Elle documente le processus d’examen et son résultat.
+<sup>4</sup> Il documente le processus d’examen et son résultat.
 
-<sup>5</sup> Si le résultat de l’examen conduit à un rejet de la demande, l’AFD donne au requérant l’occasion de s’exprimer et de prendre des mesures correctives dans un délai déterminé.
+<sup>5</sup> Si le résultat de l’examen conduit à un rejet de la demande, l’OFDF donne au requérant l’occasion de s’exprimer et de prendre des mesures correctives dans un délai déterminé.
 
-<sup>6</sup> L’AFD décide de l’octroi du statut d’AEO dans un délai de 180 jours à compter de l’examen formel de la demande visé à l’art. 112*j*.[^112k-2]
+<sup>6</sup> L’OFDF décide de l’octroi du statut d’AEO dans un délai de 180 jours à compter de l’examen formel de la demande visé à l’art. 112*j*.[^112k-2]
 
-<sup>7</sup> Si une procédure pénale due à une infraction grave ou à des infractions répétées au sens de l’art. 112*d* ou 112*g*, let. a, est en suspens à l’encontre d’une personne visée à l’art. 112*d* et si l’issue de cette procédure est déterminante pour juger si les conditions d’octroi du statut d’AEO sont remplies, l’AFD suspend l’examen matériel de la demande.[^112k-3]
+<sup>7</sup> Si une procédure pénale due à une infraction grave ou à des infractions répétées au sens de l’art. 112*d* ou 112*g*, let. a, est en suspens à l’encontre d’une personne visée à l’art. 112*d* et si l’issue de cette procédure est déterminante pour juger si les conditions d’octroi du statut d’AEO sont remplies, l’OFDF suspend l’examen matériel de la demande.[^112k-3]
 
 [^112k-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 [^112k-2]: Introduit par le ch. I 1 de l’O du 6 juin 2014 sur la fixation de délais d’ordre dans le domaine de l’AFD, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
@@ -2044,7 +2044,7 @@ L’AFD examine dans un délai de 30 jours à compter de la réception des pièc
 
 <sup>2</sup>
 
-L’AFD reconnaît les preuves suivantes:[^112l-3]
+L’OFDF reconnaît les preuves suivantes:[^112l-3]
 
 - a. un certificat de sécurité ou de sûreté reconnu au niveau international, délivré sur la base d’une convention internationale;
 - b. un certificat de sécurité ou de sûreté européen, délivré sur la base de la législation communautaire;
@@ -2078,7 +2078,7 @@ L’AFD reconnaît les preuves suivantes:[^112l-3]
 
 [^112n-1]
 
-Si la demande est rejetée, l’AFD en informe le requérant par voie de décision.
+Si la demande est rejetée, l’OFDF en informe le requérant par voie de décision.
 
 [^112n-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
@@ -2090,9 +2090,9 @@ Si la demande est rejetée, l’AFD en informe le requérant par voie de décisi
 
 [^112o-1]
 
-<sup>1</sup> L’AEO signale immédiatement à l’AFD tout changement qui survient dans le domaine touché par le statut d’AEO ou qui pourrait compromettre le maintien de ce statut.
+<sup>1</sup> L’AEO signale immédiatement à l’OFDF tout changement qui survient dans le domaine touché par le statut d’AEO ou qui pourrait compromettre le maintien de ce statut.
 
-<sup>2</sup> Il fournit à l’AFD, sur demande de cette dernière, tous les renseignements et toutes les pièces justificatives susceptibles de revêtir de l’importance pour l’exécution des prescriptions.
+<sup>2</sup> Il fournit à l’OFDF, sur demande de ce dernier, tous les renseignements et toutes les pièces justificatives susceptibles de revêtir de l’importance pour l’exécution des prescriptions.
 
 [^112o-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
@@ -2104,9 +2104,9 @@ Si la demande est rejetée, l’AFD en informe le requérant par voie de décisi
 
 [^112p-1]
 
-<sup>1</sup> L’AFD peut procéder à des contrôles de l’exploitation commerciale du requérant ou de l’AEO.
+<sup>1</sup> L’OFDF peut procéder à des contrôles de l’exploitation commerciale du requérant ou de l’AEO.
 
-<sup>2</sup> Elle peut contrôler les constructions et installations, exiger des renseignements et vérifier les données, les documents, les systèmes et les informations susceptibles de revêtir de l’importance pour l’exécution des prescriptions.
+<sup>2</sup> Il peut contrôler les constructions et installations, exiger des renseignements et vérifier les données, les documents, les systèmes et les informations susceptibles de revêtir de l’importance pour l’exécution des prescriptions.
 
 [^112p-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
@@ -2118,16 +2118,16 @@ Si la demande est rejetée, l’AFD en informe le requérant par voie de décisi
 
 [^112q-1]
 
-<sup>1</sup> L’AFD est habilitée à contrôler si l’AEO continue de remplir les conditions et les critères rattachés au statut d’AEO.
+<sup>1</sup> L’OFDF est habilité à contrôler si l’AEO continue de remplir les conditions et les critères rattachés au statut d’AEO.
 
 <sup>2</sup>
 
-Elle procède notamment à un réexamen:
+Il procède notamment à un réexamen:
 
-- a. si les bases juridiques changent de façon déterminante; ou
+- a. si les bases juridiques changent de façon déterminante, ou
 - b. s’il existe un soupçon fondé que l’AEO ne remplit plus les conditions et les critères.
 
-<sup>3</sup> …[^112q-2]
+<sup>3</sup> ...[^112q-2]
 
 [^112q-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 [^112q-2]: Abrogé par le ch. I de l’O du 18 nov. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
@@ -2140,24 +2140,24 @@ Elle procède notamment à un réexamen:
 
 <sup>1</sup>
 
-L’AFD suspend le statut d’AEO lorsqu’elle constate ou a des motifs suffisants de penser:
+L’OFDF suspend le statut d’AEO lorsqu’il constate ou a des motifs suffisants de penser:
 
 - a. que les conditions visées aux art. 112*b*, 112*e* et 112*g*, let. b à h, ne sont plus remplies;
-- b. qu’une personne visée à l’art. 112*d* est fortement soupçonnée d’une infraction grave poursuivie pénalement ou d’infractions répétées poursuivies pénalement au droit fédéral au sens de l’art. 112*d* ou 112*g*, let. a, dans la mesure où l’exécution incombe à l’AFD;
+- b. qu’une personne visée à l’art. 112*d* est fortement soupçonnée d’une infraction grave poursuivie pénalement ou d’infractions répétées poursuivies pénalement au droit fédéral au sens de l’art. 112*d* ou 112*g*, let. a, dans la mesure où l’exécution incombe à l’OFDF;
 - c. que l’AEO:
 - 1\. ne peut plus justifier d’une situation financière saine lui permettant de remplir les obligations prises en charge, compte tenu du type d’activité commerciale,
 - 2\. a présenté une demande de concordat au sens de l’art. 293 LP ou a fait l’objet d’une réquisition de faillite au sens des art. 166 et 190 à 193 LP, ou qu’il
 - 3\. ne s’est pas acquitté des droits de douane dus et de tous les autres impôts, redevances et émoluments dus.
 
-<sup>2</sup> Elle suspend en outre le statut d’AEO lorsque l’AEO le demande.
+<sup>2</sup> Il suspend en outre le statut d’AEO lorsque l’AEO le demande.
 
 <sup>3</sup> La suspension prend effet immédiatement lorsque la sécurité, la sûreté et la santé des citoyens ou la préservation de l’environnement l’exigent.
 
 <sup>4</sup> La suspension n’a pas d’incidence sur les procédures douanières entamées avant la date de suspension.
 
-<sup>5</sup> L’AFD fixe la durée de la suspension de façon appropriée.
+<sup>5</sup> L’OFDF fixe la durée de la suspension de façon appropriée.
 
-<sup>6</sup> Lorsque l’AEO remplit de nouveau les conditions, l’AFD annule la suspension.
+<sup>6</sup> Lorsque l’AEO remplit de nouveau les conditions, l’OFDF annule la suspension.
 
 [^112r-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
@@ -2169,12 +2169,12 @@ L’AFD suspend le statut d’AEO lorsqu’elle constate ou a des motifs suffisa
 
 <sup>1</sup>
 
-L’AFD révoque le statut d’AEO lorsqu’une personne visée à l’art. 112*d*:
+L’OFDF révoque le statut d’AEO lorsqu’une personne visée à l’art. 112*d*:
 
 - a. a commis une infraction grave poursuivie pénalement ou des infractions répétées poursuivies pénalement au sens de l’art. 112*d* ou 112*g*, let. a et que la décision pénale est entrée en force;
 - b. n’a pas pris les mesures nécessaires pendant la durée de la suspension.
 
-<sup>2</sup> Elle révoque en outre le statut d’AEO lorsque l’AEO en a fait la demande.
+<sup>2</sup> Il révoque en outre le statut d’AEO lorsque l’AEO en a fait la demande.
 
 [^112s-1]: Introduit par le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
@@ -2205,8 +2205,8 @@ Si un traité international prévoit une déclaration sommaire dʼentrée et de 
 
 Pour les marchandises du trafic touristique, la déclaration en douane a lieu:
 
-- a. verbalement; ou
-- b. sous une autre forme d’expression de la volonté admise par l’AFD.
+- a. verbalement, ou
+- b. sous une autre forme d’expression de la volonté admise par l’OFDF.
 
 <sup>2</sup> S’il existe des difficultés de compréhension entre la personne assujettie à l’obligation de déclarer et le bureau de douane, la déclaration en douane peut s’effectuer par vérification.
 
@@ -2228,7 +2228,7 @@ Dans le trafic touristique, le bureau de douane n’établit de décision de tax
 
 ### Section 5 Déclaration collective périodique
 
-### …
+### ...
 
 [^tit2-chap3-sec5-1]
 
@@ -2242,14 +2242,14 @@ Dans le trafic touristique, le bureau de douane n’établit de décision de tax
 
 <sup>1</sup>
 
-Dans le trafic régional, l’AFD peut, sur demande écrite, autoriser une déclaration collective périodique pour des chargements de marchandises de nature uniforme telles que l’asphalte, le gravier, le mortier, la sciure, le bois en grumes et l’alumine:
+Dans le trafic régional, l’OFDF peut, sur demande écrite, autoriser une déclaration collective périodique pour des chargements de marchandises de nature uniforme telles que l’asphalte, le gravier, le mortier, la sciure, le bois en grumes et l’alumine:
 
-- a. si l’importation ou l’exportation ont lieu régulièrement et par le même bureau de douane; et
+- a. si l’importation ou l’exportation ont lieu régulièrement et par le même bureau de douane, et
 - b. si les conditions d’exploitation du bureau de douane le permettent.
 
-<sup>1bis</sup> Elle rend sa décision sur l’autorisation au plus tard 30 jours après réception de l’intégralité des pièces justificatives.[^116-2]
+<sup>1bis</sup> Il rend sa décision sur l’autorisation au plus tard 30 jours après réception de l’intégralité des pièces justificatives.[^116-2]
 
-<sup>2</sup> Elle désigne dans l’autorisation les marchandises pour lesquelles la déclaration collective périodique est applicable.
+<sup>2</sup> Il désigne dans l’autorisation les marchandises pour lesquelles la déclaration collective périodique est applicable.
 
 <sup>3</sup>
 
@@ -2258,7 +2258,7 @@ Sont notamment exclues de la déclaration collective périodique les marchandise
 - a. qui sont assujetties à un permis;
 - b. pour lesquelles existent des contingents tarifaires.
 
-<sup>4</sup> Le titulaire de l’autorisation doit fournir à l’AFD une sûreté pour les redevances présumées dues pour la période de décompte.
+<sup>4</sup> Le titulaire de l’autorisation doit fournir à l’OFDF une sûreté pour les redevances présumées dues pour la période de décompte.
 
 [^tit2-chap3-sec5-1]: Référence abrogée par le ch. I 6 de l’O du 6 juin 2014 sur la fixation de délais d’ordre dans le domaine de l’AFD, avec effet au 1<sup>er</sup> sept. 2014 ([RO 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
 [^116-1]: Introduit par le ch. I 6 de l’O du 6 juin 2014 sur la fixation de délais d’ordre dans le domaine de l’AFD, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
@@ -2270,11 +2270,11 @@ Sont notamment exclues de la déclaration collective périodique les marchandise
 
 ### (art. 42, al. 1, let. c, LD)
 
-L’AFD retire l’autorisation si son titulaire:
+L’OFDF retire l’autorisation si son titulaire:
 
 - a. ne remplit plus les conditions d’octroi de l’autorisation;
-- b. n’observe pas les conditions et les charges fixées dans l’autorisation; ou
-- c. commet des infractions répétées au droit fédéral, dans la mesure où son exécution incombe à l’AFD.
+- b. n’observe pas les conditions et les charges fixées dans l’autorisation, ou
+- c. commet des infractions répétées au droit fédéral, dans la mesure où son exécution incombe à l’OFDF.
 
 ### Section 6 Trafic dans la zone frontière
 
@@ -2288,14 +2288,14 @@ L’AFD retire l’autorisation si son titulaire:
 
 L’exploitant qui demande l’exonération ou la réduction des droits de douane pour des produits bruts du sol, des raisins et du vin doit présenter les documents suivants au bureau de douane compétent pour la fin avril de l’année en cours:
 
-- a. une attestation de propriété, d’usufruit ou de fermage pour le bien-fonds concerné; et
+- a. une attestation de propriété, d’usufruit ou de fermage pour le bien-fonds concerné, et
 - b. une pièce justificative comportant la déclaration de la récolte présumée des diverses cultures.
 
 <sup>2</sup> Il doit indiquer dans la pièce justificative le lieu de franchissement de la frontière par lequel auront lieu les importations.
 
 <sup>3</sup> La pièce justificative n’est valable que pour l’année en cours et que pour les produits et les quantités qui y sont indiqués.
 
-<sup>4</sup> L’exploitant doit annoncer toute importation de marchandises sous la forme prescrite par l’AFD. [^118-1]
+<sup>4</sup> L’exploitant doit annoncer toute importation de marchandises sous la forme prescrite par l’OFDF. [^118-1]
 
 [^118-1]: Introduit par le ch. I de l’O du 22 avril 2009, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
@@ -2317,7 +2317,7 @@ L’exploitant qui demande l’exonération ou la réduction des droits de douan
 
 ### (art. 43, al. 4, LD)
 
-<sup>1</sup> L’AFD peut alléger la surveillance douanière de l’exploitation de biens-fonds traversés par la frontière douanière.
+<sup>1</sup> L’OFDF peut alléger la surveillance douanière de l’exploitation de biens-fonds traversés par la frontière douanière.
 
 <sup>2</sup> Les moyens de production agricoles servant à l’exploitation de biens-fonds traversés par la frontière douanière peuvent être exportés et réimportés sans formalités.
 
@@ -2337,7 +2337,7 @@ La présente section s’applique au trafic transfrontalier des personnes et des
 
 ### (art. 44, al. 1, LD)
 
-Les entreprises de transport ferroviaire doivent transporter gratuitement le personnel de l’AFD qui exécute les tâches qui lui sont confiées dans les trains.
+Les entreprises de transport ferroviaire doivent transporter gratuitement le personnel de l’OFDF qui exécute les tâches qui lui sont confiées dans les trains.
 
 #### Art. 123
 
@@ -2345,11 +2345,11 @@ Les entreprises de transport ferroviaire doivent transporter gratuitement le per
 
 ### (art. 44, al. 1, LD)
 
-<sup>1</sup> Le gestionnaire de l’infrastructure porte à la connaissance de l’AFD l’horaire prévisible du trafic transfrontalier des marchandises.
+<sup>1</sup> Le gestionnaire de l’infrastructure porte à la connaissance de l’OFDF l’horaire prévisible du trafic transfrontalier des marchandises.
 
-<sup>2</sup> Il annonce à l’avance à l’AFD les courses effectives du trafic transfrontalier des personnes et des marchandises.
+<sup>2</sup> Il annonce à l’avance à l’OFDF les courses effectives du trafic transfrontalier des personnes et des marchandises.
 
-<sup>3</sup> L’AFD convient de la forme, du contenu et du moment des annonces avec le gestionnaire de l’infrastructure.
+<sup>3</sup> L’OFDF convient de la forme, du contenu et du moment des annonces avec le gestionnaire de l’infrastructure.
 
 #### Art. 124
 
@@ -2357,7 +2357,7 @@ Les entreprises de transport ferroviaire doivent transporter gratuitement le per
 
 ### (art. 44, al. 1, LD)
 
-Le personnel des entreprises de transport ferroviaire est tenu de prêter son concours au personnel de l’AFD dans l’exercice de ses tâches, de la manière exigée par celui-ci.
+Le personnel des entreprises de transport ferroviaire est tenu de prêter son concours au personnel de l’OFDF dans l’exercice de ses tâches, de la manière exigée par celui-ci.
 
 #### Art. 125
 
@@ -2369,7 +2369,7 @@ Le personnel des entreprises de transport ferroviaire est tenu de prêter son co
 
 <sup>2</sup> Elle transmet les données gratuitement, sous la forme publiée par le gestionnaire de l’infrastructure (conditions d’accès au réseau).
 
-<sup>3</sup> Le gestionnaire de l’infrastructure transmet immédiatement la déclaration sommaire à l’AFD sous la forme fixée.
+<sup>3</sup> Le gestionnaire de l’infrastructure transmet immédiatement la déclaration sommaire à l’OFDF sous la forme fixée.
 
 <sup>4</sup> Les entreprises de transport ferroviaire qui utilisent des tronçons à voie étroite sont dispensées d’effectuer la déclaration sommaire.
 
@@ -2397,7 +2397,7 @@ La présente section s’applique au trafic transfrontalier des personnes et des
 
 ### (art. 44, al. 1, LD)
 
-Les entreprises de transport par tramway ou par bus doivent transporter gratuitement le personnel de l’AFD qui exécute les tâches qui lui sont confiées dans les tramways et les bus.
+Les entreprises de transport par tramway ou par bus doivent transporter gratuitement le personnel de l’OFDF qui exécute les tâches qui lui sont confiées dans les tramways et les bus.
 
 #### Art. 129
 
@@ -2405,11 +2405,11 @@ Les entreprises de transport par tramway ou par bus doivent transporter gratuite
 
 ### (art. 44, al. 1, LD)
 
-<sup>1</sup> Dans le trafic transfrontalier des personnes, l’entreprise de transport par tramway ou par bus annonce à l’AFD les courses non régulières au plus tard le jour précédant l’exécution de la course.
+<sup>1</sup> Dans le trafic transfrontalier des personnes, l’entreprise de transport par tramway ou par bus annonce à l’OFDF les courses non régulières au plus tard le jour précédant l’exécution de la course.
 
-<sup>2</sup> L’AFD convient de la forme et du contenu des annonces avec l’entreprise de transport par tramway ou par bus.
+<sup>2</sup> L’OFDF convient de la forme et du contenu des annonces avec l’entreprise de transport par tramway ou par bus.
 
-<sup>3</sup> Si une course annoncée n’est pas effectuée, l’entreprise de transport par tramway ou par bus l’annonce immédiatement à l’AFD.
+<sup>3</sup> Si une course annoncée n’est pas effectuée, l’entreprise de transport par tramway ou par bus l’annonce immédiatement à l’OFDF.
 
 ### Section 9 Trafic par bateau
 
@@ -2427,7 +2427,7 @@ La présente section s’applique à tous les bateaux qui viennent du territoire
 
 ### (art. 44, al. 1, LD)
 
-Les entreprises de navigation doivent transporter gratuitement le personnel de l’AFD qui exécute les tâches qui lui sont confiées dans les bateaux.
+Les entreprises de navigation doivent transporter gratuitement le personnel de l’OFDF qui exécute les tâches qui lui sont confiées dans les bateaux.
 
 #### Art. 132
 
@@ -2435,13 +2435,13 @@ Les entreprises de navigation doivent transporter gratuitement le personnel de l
 
 ### (art. 44, al. 1, LD)
 
-<sup>1</sup> Dans le trafic transfrontalier des personnes, l’entreprise de navigation annonce à l’AFD les courses non régulières au plus tard le jour précédant l’exécution de la course.
+<sup>1</sup> Dans le trafic transfrontalier des personnes, l’entreprise de navigation annonce à l’OFDF les courses non régulières au plus tard le jour précédant l’exécution de la course.
 
 <sup>2</sup> Par trafic transfrontalier, on entend toute course au cours de laquelle le bateau accoste sur le territoire douanier étranger.
 
-<sup>3</sup> Si une course annoncée n’est pas effectuée, l’entreprise de navigation l’annonce immédiatement à l’AFD.
+<sup>3</sup> Si une course annoncée n’est pas effectuée, l’entreprise de navigation l’annonce immédiatement à l’OFDF.
 
-<sup>4</sup> L’AFD convient de la forme et du contenu des annonces avec l’entreprise de navigation.
+<sup>4</sup> L’OFDF convient de la forme et du contenu des annonces avec l’entreprise de navigation.
 
 #### Art. 133
 
@@ -2461,7 +2461,7 @@ Les entreprises de navigation doivent transporter gratuitement le personnel de l
 
 ### (art. 44, al. 1, LD)
 
-Le personnel des bateaux est tenu de prêter son concours au personnel de l’AFD dans l’exercice de ses tâches, de la manière exigée par celui-ci.
+Le personnel des bateaux est tenu de prêter son concours au personnel de l’OFDF dans l’exercice de ses tâches, de la manière exigée par celui-ci.
 
 #### Art. 135
 
@@ -2518,7 +2518,7 @@ La présente section s’applique à tous les aéronefs en provenance ou à dest
 
 <sup>1</sup> Lors de la construction, de la transformation ou de l’exploitation d’aérodromes douaniers, les besoins en termes de surveillance douanière et de contrôle douanier doivent être pris en considération.
 
-<sup>2</sup> Les projets touchant à la procédure douanière et à la frontière douanière doivent être soumis préalablement à l’AFD pour approbation.
+<sup>2</sup> Les projets touchant à la procédure douanière et à la frontière douanière doivent être soumis préalablement à l’OFDF pour approbation.
 
 #### Art. 140
 
@@ -2534,7 +2534,7 @@ L’exploitant d’un aérodrome veille notamment:
 - b. à ce qu’une séparation suffisante des régimes douaniers soit garantie pour les personnes et les marchandises;
 - c. à ce que toutes les personnes concernées soient suffisamment informées.
 
-<sup>2</sup> L’AFD fixe pour chaque aérodrome douanier les obligations découlant de l’al. 1.
+<sup>2</sup> L’OFDF fixe pour chaque aérodrome douanier les obligations découlant de l’al. 1.
 
 #### Art. 141
 
@@ -2542,7 +2542,7 @@ L’exploitant d’un aérodrome veille notamment:
 
 ### (art. 44, al. 1, LD)
 
-Le personnel des aérodromes douaniers est tenu de prêter son concours au personnel de l’AFD dans l’exercice de ses tâches, de la manière exigée par celui-ci.
+Le personnel des aérodromes douaniers est tenu de prêter son concours au personnel de l’OFDF dans l’exercice de ses tâches, de la manière exigée par celui-ci.
 
 #### Art. 142
 
@@ -2550,7 +2550,7 @@ Le personnel des aérodromes douaniers est tenu de prêter son concours au perso
 
 ### (art. 44, al. 1, LD)
 
-<sup>1</sup> Dans le trafic aérien transfrontalier, l’atterrissage et le décollage ne peuvent avoir lieu que sur des aérodromes douaniers. Les vols à destination ou au départ d’une enclave douanière suisse sont réputés vols transfrontaliers. L’AFD peut également autoriser les atterrissages et les décollages en dehors des aérodromes douaniers. Elle fixe les conditions dans l’autorisation.[^142-1]
+<sup>1</sup> Dans le trafic aérien transfrontalier, l’atterrissage et le décollage ne peuvent avoir lieu que sur des aérodromes douaniers. Les vols à destination ou au départ d’une enclave douanière suisse sont réputés vols transfrontaliers. L’OFDF peut également autoriser les atterrissages et les décollages en dehors des aérodromes douaniers. Il fixe les conditions dans l’autorisation.[^142-1]
 
 <sup>2</sup> Si un aéronef doit atterrir sur un aérodrome qui n’est pas un aérodrome douanier, la direction de l’aérodrome ou, en son absence, le commandant doit en informer le bureau de douane le plus proche et suivre ses instructions.
 
@@ -2570,7 +2570,7 @@ Le personnel des aérodromes douaniers est tenu de prêter son concours au perso
 
 Les aéronefs et les marchandises transportées ne doivent être ni présentés ni déclarés:
 
-- a. s’ils survolent le territoire douanier sans atterrissage intermédiaire; ou
+- a. s’ils survolent le territoire douanier sans atterrissage intermédiaire, ou
 - b. s’ils effectuent, sans atterrissage sur le territoire douanier étranger, un vol circulaire à partir d’un aérodrome suisse ou un vol d’un aérodrome suisse à un autre aérodrome suisse.
 
 <sup>2</sup> Les marchandises transportées par aéronef doivent être présentées mais non déclarées si elles quittent le territoire douanier en l’état après un seul atterrissage de l’aéronef.[^143-1]
@@ -2605,7 +2605,7 @@ Dans le trafic aérien de ligne, la déclaration pour le régime du transit sur 
 
 <sup>1</sup>
 
-Afin que l’AFD puisse surveiller et contrôler le trafic des personnes et des marchandises à travers la frontière douanière, lutter contre les infractions douanières, poursuivre ces dernières et exécuter les actes législatifs de la Confédération autres que douaniers, des listes de passagers et de marchandises doivent lui être remises sur demande:
+Afin que l’OFDF puisse surveiller et contrôler le trafic des personnes et des marchandises à travers la frontière douanière, lutter contre les infractions douanières, poursuivre ces dernières et exécuter les actes législatifs de la Confédération autres que douaniers, des listes de passagers et de marchandises doivent lui être remises sur demande:
 
 - a.[^151-1] par les entreprises qui effectuent des transports transfrontaliers de personnes ou de marchandises dans le trafic par rail, le trafic par bus, le trafic par bateau et le trafic par air, pour autant qu’elles établissent de telles listes;
 - b. par l’exploitant d’un aérodrome, pour autant qu’il établisse de telles listes.
@@ -2620,7 +2620,7 @@ Les données suivantes doivent être remises:
 
 <sup>3</sup> L’obligation de remise des listes de passagers et de marchandises expire six mois après l’exécution du transport.
 
-<sup>4</sup> L’AFD détruit les données qui lui ont été remises 72 heures après leur réception.
+<sup>4</sup> L’OFDF détruit les données qui lui ont été remises 72 heures après leur réception.
 
 [^151-1]: Nouvelle teneur selon le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
@@ -2642,11 +2642,11 @@ Les régimes de transit internationaux applicables à la Suisse en vertu d’un 
 
 ### (art. 49, al. 2, LD)
 
-<sup>1</sup> L’identité des marchandises est garantie par un scellement. Ne sont admis que les scellements considérés comme adéquats par l’AFD.
+<sup>1</sup> L’identité des marchandises est garantie par un scellement. Ne sont admis que les scellements considérés comme adéquats par l’OFDF.
 
 <sup>2</sup> La personne assujettie à l’obligation de déclarer indique le genre et le nombre de scellements dans la déclaration en douane.
 
-<sup>3</sup> L’AFD peut renoncer au scellement si l’identité des marchandises est garantie par leur description ou d’autres mesures appropriées.
+<sup>3</sup> L’OFDF peut renoncer au scellement si l’identité des marchandises est garantie par leur description ou d’autres mesures appropriées.
 
 #### Art. 154
 
@@ -2656,7 +2656,7 @@ Les régimes de transit internationaux applicables à la Suisse en vertu d’un 
 
 <sup>1</sup> Le délai de transit est limité au temps nécessaire au transit.
 
-<sup>2</sup> Pour des motifs importants, l’AFD peut prolonger le délai de validité.
+<sup>2</sup> Pour des motifs importants, l’OFDF peut prolonger le délai de validité.
 
 #### Art. 155
 
@@ -2666,7 +2666,7 @@ Les régimes de transit internationaux applicables à la Suisse en vertu d’un 
 
 <sup>1</sup> L’apurement du régime du transit doit être demandé au bureau de destination dans le délai de validité du document de transit.
 
-<sup>2</sup> Si l’AFD constate des irrégularités, elle refuse d’apurer le régime du transit et retient la sûreté jusqu’au paiement des droits à l’importation qui étaient assortis d’une obligation de paiement conditionnelle.
+<sup>2</sup> Si l’OFDF constate des irrégularités, il refuse d’apurer le régime du transit et retient la sûreté jusqu’au paiement des droits à l’importation qui étaient assortis d’une obligation de paiement conditionnelle.
 
 ### Section 2 Régime de l’entrepôt douanier
 
@@ -2688,12 +2688,12 @@ Si l’entreposeur entrepose des marchandises pour son propre compte, il est ré
 
 <sup>2</sup>
 
-Si la marchandise ne peut pas être exportée dans un délai de six mois à compter de l’acceptation de la déclaration en douane, l’entrepositaire peut demander à l’AFD de prolonger le délai d’exportation. L’AFD accepte la demande lorsque les conditions suivantes sont remplies:
+Si la marchandise ne peut pas être exportée dans un délai de six mois à compter de l’acceptation de la déclaration en douane, l’entrepositaire peut demander à l’OFDF de prolonger le délai d’exportation. L’OFDF accepte la demande lorsque les conditions suivantes sont remplies:
 
 - a. l’acquéreur de la marchandise a son siège ou son domicile en dehors du territoire douanier au moment de la demande;
 - b. la marchandise ne peut pas être exportée dans un délai de six mois à compter de l’acceptation en douane pour des motifs suffisants, tels que des retards dans la chaîne logistique, la non-conclusion d’un contrat ou l’un des motifs visés à l’al. 4.
 
-<sup>3</sup> L’AFD peut sur demande prolonger le délai à trois reprises au maximum de périodes supplémentaires ne dépassant pas six mois chacune.
+<sup>3</sup> L’OFDF peut sur demande prolonger le délai à trois reprises au maximum de périodes supplémentaires ne dépassant pas six mois chacune.
 
 <sup>4</sup> Si l’entrepositaire a été empêché sans sa faute, notamment en cas de faillite du destinataire final à l’étranger, de catastrophes naturelles, de mesures visant l’application de sanctions internationales ou d’événements de guerre dans le pays de destination, d’exporter la marchandise pendant les délais prolongés conformément aux dispositions de l’al. 3, il peut demander à la Direction générale des douanes de prolonger le délai d’exportation.
 
@@ -2709,7 +2709,7 @@ Si la marchandise ne peut pas être exportée dans un délai de six mois à comp
 
 ### (art. 54, al. 2, LD)
 
-La condition d’exploitation conforme n’est pas remplie notamment si le requérant a commis une infraction grave ou des infractions répétées au droit fédéral, dans la mesure où son exécution incombe à l’AFD.
+La condition d’exploitation conforme n’est pas remplie notamment si le requérant a commis une infraction grave ou des infractions répétées au droit fédéral, dans la mesure où son exécution incombe à l’OFDF.
 
 #### Art. 159
 
@@ -2717,11 +2717,11 @@ La condition d’exploitation conforme n’est pas remplie notamment si le requ�
 
 ### (art. 54 LD)
 
-L’AFD retire l’autorisation si l’entreposeur:
+L’OFDF retire l’autorisation si l’entreposeur:
 
 - a. ne remplit plus les conditions prévues à l’art. 54, al. 2, LD;
-- b. n’observe pas les conditions et les charges fixées dans l’autorisation; ou
-- c. commet des infractions répétées au droit fédéral, dans la mesure où son exécution incombe à l’AFD.
+- b. n’observe pas les conditions et les charges fixées dans l’autorisation, ou
+- c. commet des infractions répétées au droit fédéral, dans la mesure où son exécution incombe à l’OFDF.
 
 #### Art. 160
 
@@ -2743,10 +2743,10 @@ L’AFD retire l’autorisation si l’entreposeur:
 
 Ne sont pas admises les ouvraisons:
 
-- a. qui créent un risque de tromperie; ou
+- a. qui créent un risque de tromperie, ou
 - b. qui peuvent conduire à une diminution des redevances ou à un contournement des actes législatifs de la Confédération autres que douaniers.
 
-<sup>2</sup> L’AFD peut interdire l’ouvraison de marchandises si cette opération est susceptible de mettre en péril le bon déroulement du placement sous régime douanier en Suisse ou à l’étranger.
+<sup>2</sup> L’OFDF peut interdire l’ouvraison de marchandises si cette opération est susceptible de mettre en péril le bon déroulement du placement sous régime douanier en Suisse ou à l’étranger.
 
 ### Section 3 Régime de l’admission temporaire
 
@@ -2760,11 +2760,11 @@ Ne sont pas admises les ouvraisons:
 
 <sup>2</sup> En cas de modification de l’emploi de la marchandise ou de l’utilisateur, ou en cas de transfert de propriété de la marchandise, la personne assujettie à l’obligation de déclarer doit présenter une nouvelle déclaration en douane. Elle doit le cas échéant attirer l’attention des autres personnes assujetties à l’obligation de déclarer sur les obligations qui leur incombent à ce titre.
 
-<sup>3</sup> La nouvelle déclaration en douane visée à l’al. 2 doit être présentée avant la modification de l’emploi de la marchandise ou de l’utilisateur ainsi qu’avant le transfert de propriété. L'AFD peut prévoir que la déclaration en douane soit effectuée ultérieurement, notamment dans le cas de marchandises importées pour vente incertaine.
+<sup>3</sup> La nouvelle déclaration en douane visée à l’al. 2 doit être présentée avant la modification de l’emploi de la marchandise ou de l’utilisateur ainsi qu’avant le transfert de propriété. L’OFDF peut prévoir que la déclaration en douane soit effectuée ultérieurement, notamment dans le cas de marchandises importées pour vente incertaine.
 
 <sup>4</sup> Si aucune nouvelle déclaration en douane visée à l’al. 2 n’est présentée, la dette douanière prend naissance au moment où la nouvelle déclaration en douane aurait dû être présentée.
 
-<sup>5</sup> Le régime de l’admission temporaire s’applique pour un seul franchissement de la frontière avec réimportation ou réexportation ultérieure de la marchandise. L’AFD peut autoriser des franchissements répétés pour certaines marchandises.
+<sup>5</sup> Le régime de l’admission temporaire s’applique pour un seul franchissement de la frontière avec réimportation ou réexportation ultérieure de la marchandise. L’OFDF peut autoriser des franchissements répétés pour certaines marchandises.
 
 [^162-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
@@ -2774,7 +2774,7 @@ Ne sont pas admises les ouvraisons:
 
 ### (art. 58, al. 2, let. b, LD)
 
-<sup>1</sup> L’AFD décide des mesures propres à garantir l’identité.
+<sup>1</sup> L’OFDF décide des mesures propres à garantir l’identité.
 
 <sup>2</sup> La garantie de l’identité doit être mentionnée dans la déclaration en douane.
 
@@ -2784,11 +2784,11 @@ Ne sont pas admises les ouvraisons:
 
 ### (art. 58, al. 1, LD)
 
-<sup>1</sup> L’autorisation pour l’admission temporaire d’un moyen de transport étranger à des fins commerciales sur le territoire douanier au sens de l’art. 34 doit être demandée à l’AFD avant la première importation.
+<sup>1</sup> L’autorisation pour l’admission temporaire d’un moyen de transport étranger à des fins commerciales sur le territoire douanier au sens de l’art. 34 doit être demandée à l’OFDF avant la première importation.
 
-<sup>2</sup> L’autorisation pour l’admission temporaire d’un moyen de transport étranger pour un usage personnel sur le territoire douanier au sens de l’art. 35 doit être demandée à l’AFD lors de la première importation ou lors de l’acquisition en Suisse.
+<sup>2</sup> L’autorisation pour l’admission temporaire d’un moyen de transport étranger pour un usage personnel sur le territoire douanier au sens de l’art. 35 doit être demandée à l’OFDF lors de la première importation ou lors de l’acquisition en Suisse.
 
-<sup>3</sup> L’AFD peut renouveler les autorisations prévues à l’art. 35, al. 1 et 2, let. a.
+<sup>3</sup> L’OFDF peut renouveler les autorisations prévues à l’art. 35, al. 1 et 2, let. a.
 
 ### Section 4 Régime du perfectionnement actif
 
@@ -2803,7 +2803,7 @@ Ne sont pas admises les ouvraisons:
 Une autorisation pour le trafic de perfectionnement actif est accordée aux personnes:
 
 - a. qui ont leur siège ou leur domicile sur le territoire douanier;
-- b. qui exécutent elles-mêmes le perfectionnement ou qui le font exécuter par des tiers; et
+- b. qui exécutent elles-mêmes le perfectionnement ou qui le font exécuter par des tiers, et
 - c. qui offrent les garanties d’un déroulement réglementaire de la procédure.
 
 <sup>2</sup> Lorsque plusieurs personnes effectuent des perfectionnements sur la même marchandise, l’autorisation peut également être accordée à des communautés de personnes.
@@ -2872,7 +2872,7 @@ L’autorisation de la Direction générale des douanes doit contenir notamment:
 Le titulaire de l’autorisation doit:
 
 - a. présenter à l’office de surveillance désigné dans l’autorisation, dans le délai prescrit, la demande de réduction ou d’exonération définitive des droits de douane;
-- b. prouver à cet office, sous la forme prescrite, que les marchandises introduites sur le territoire douanier ou les marchandises indigènes utilisées dans le trafic fondé sur l’équivalence ont été réexportées en tant que produits compensateurs dans le délai prescrit; et
+- b. prouver à cet office, sous la forme prescrite, que les marchandises introduites sur le territoire douanier ou les marchandises indigènes utilisées dans le trafic fondé sur l’équivalence ont été réexportées en tant que produits compensateurs dans le délai prescrit, et
 - c. lui prouver la quantité de marchandises perfectionnées et de déchets ou de sous-produits en lui présentant des recettes, des rapports de fabrication ou des documents similaires.
 
 <sup>3</sup> Le DFF peut prévoir des facilités de procédure.
@@ -2885,7 +2885,7 @@ Le titulaire de l’autorisation doit:
 
 <sup>1</sup> Les déchets et les sous-produits résultant du processus de perfectionnement qui restent sur le territoire douanier doivent être déclarés, lors de l’apurement du régime du perfectionnement actif, à l’office de surveillance en vue de la mise en libre pratique.
 
-<sup>2</sup> La perception des droits de douane pour les déchets et les sous-produits est régie par le classement tarifaire de la marchandise introduite sur le territoire douanier pour être perfectionnée. L’AFD peut accorder une réduction ou une exonération des droits de douane.
+<sup>2</sup> La perception des droits de douane pour les déchets et les sous-produits est régie par le classement tarifaire de la marchandise introduite sur le territoire douanier pour être perfectionnée. L’OFDF peut accorder une réduction ou une exonération des droits de douane.
 
 #### Art. 170
 
@@ -2911,7 +2911,7 @@ Le titulaire de l’autorisation doit:
 
 Une autorisation pour le trafic de perfectionnement passif est accordée aux personnes:
 
-- a. qui ont leur siège ou leur domicile sur le territoire douanier; et
+- a. qui ont leur siège ou leur domicile sur le territoire douanier, et
 - b. qui offrent les garanties d’un déroulement réglementaire de la procédure.
 
 <sup>2</sup> L’autorisation est accordée sur demande par la Direction générale des douanes ou par les bureaux de douane habilités par cette dernière au plus tard 30 jours après réception de l’intégralité des pièces justificatives.[^171-1]
@@ -2948,7 +2948,7 @@ L’autorisation de la Direction générale des douanes doit contenir notamment:
 Le titulaire de l’autorisation doit:
 
 - a. présenter à l’office de surveillance désigné dans l’autorisation, dans le délai prescrit, la demande de réduction ou d’exonération définitive des droits de douane;
-- b. prouver à cet office, sous la forme prescrite, que les marchandises exportées pour perfectionnement passif ou les marchandises étrangères utilisées dans le trafic fondé sur l’équivalence ont été réintroduites sur le territoire douanier en tant que produits compensateurs dans le délai prescrit; et
+- b. prouver à cet office, sous la forme prescrite, que les marchandises exportées pour perfectionnement passif ou les marchandises étrangères utilisées dans le trafic fondé sur l’équivalence ont été réintroduites sur le territoire douanier en tant que produits compensateurs dans le délai prescrit, et
 - c. lui prouver la quantité de marchandises perfectionnées et de déchets ou de sous-produits en lui présentant des recettes, des rapports de fabrication ou des documents similaires.
 
 <sup>3</sup> Le DFF peut prévoir des facilités de procédure.
@@ -2991,7 +2991,7 @@ Si le régime de l’exportation n’est pas apuré, la personne assujettie à l
 
 <sup>1</sup> Les dépôts francs sous douane doivent être séparés du reste du territoire douanier par des mesures en matière de construction de telle sorte qu’aucune marchandise ne puisse être soustraite à la surveillance douanière.
 
-<sup>2</sup> L’AFD fixe le genre de mesures en matière de construction dans l’autorisation régissant l’exploitation du dépôt franc sous douane.
+<sup>2</sup> L’OFDF fixe le genre de mesures en matière de construction dans l’autorisation régissant l’exploitation du dépôt franc sous douane.
 
 #### Art. 176
 
@@ -3007,7 +3007,7 @@ Si l’entreposeur entrepose des marchandises pour son propre compte, il est ré
 
 ### (art. 64, al. 2, LD)
 
-La condition d’exploitation conforme n’est pas remplie notamment si le requérant a commis une infraction grave ou des infractions répétées au droit fédéral, dans la mesure où son exécution incombe à l’AFD.
+La condition d’exploitation conforme n’est pas remplie notamment si le requérant a commis une infraction grave ou des infractions répétées au droit fédéral, dans la mesure où son exécution incombe à l’OFDF.
 
 #### Art. 178
 
@@ -3015,11 +3015,11 @@ La condition d’exploitation conforme n’est pas remplie notamment si le requ�
 
 ### (art. 64, al. 1, LD)
 
-L’AFD retire l’autorisation si l’entreposeur:
+L’OFDF retire l’autorisation si l’entreposeur:
 
 - a. ne remplit plus les conditions prévues à l’art. 64, al. 2, LD;
-- b. n’observe pas les conditions et les charges fixées dans l’autorisation; ou
-- c. commet des infractions répétées au droit fédéral, dans la mesure où son exécution incombe à l’AFD.
+- b. n’observe pas les conditions et les charges fixées dans l’autorisation, ou
+- c. commet des infractions répétées au droit fédéral, dans la mesure où son exécution incombe à l’OFDF.
 
 [^178-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
@@ -3067,10 +3067,10 @@ Les délais d’exportation sont régis par l’art. 157.
 
 Ne sont pas admises les ouvraisons:
 
-- a. qui créent un risque de tromperie; ou
+- a. qui créent un risque de tromperie, ou
 - b. qui peuvent conduire à une diminution des redevances ou à un contournement des actes législatifs de la Confédération autres que douaniers.
 
-<sup>2</sup> L’AFD peut interdire l’ouvraison et la réparation de marchandises si ces opérations sont susceptibles de mettre en péril le bon déroulement du placement sous régime douanier en Suisse ou à l’étranger.
+<sup>2</sup> L’OFDF peut interdire l’ouvraison et la réparation de marchandises si ces opérations sont susceptibles de mettre en péril le bon déroulement du placement sous régime douanier en Suisse ou à l’étranger.
 
 #### Art. 182
 
@@ -3100,7 +3100,7 @@ La liste doit contenir les indications suivantes:[^183-2]
 
 <sup>1bis</sup> Elle doit être tenue sous forme électronique.[^183-4]
 
-<sup>2</sup> Sur demande, l’entreposeur doit immédiatement présenter la liste sous forme électronique à l’AFD. L’AFD désigne la norme minimale pour le format de fichier.[^183-5]
+<sup>2</sup> Sur demande, l’entreposeur doit immédiatement présenter la liste sous forme électronique à l’OFDF. L’OFDF désigne la norme minimale pour le format de fichier.[^183-5]
 
 [^183-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 [^183-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
@@ -3128,7 +3128,7 @@ L’inventaire doit contenir les indications suivantes:
 - h. la valeur de la marchandise entreposée;
 - i. le genre du document douanier suivant, avec la date d’acceptation, le bureau de douane émetteur et le numéro;
 - j. les marques, les numéros et le nombre de colis;
-- k.[^184-2] la masse brute et la masse nette; sur demande, l’AFD peut dispenser l’entrepositaire de l’obligation de saisir la masse brute ou la masse nette;
+- k.[^184-2] la masse brute et la masse nette; sur demande, l’OFDF peut dispenser l’entrepositaire de l’obligation de saisir la masse brute ou la masse nette;
 - l. la preuve d’origine précédente;
 - m. le cas échéant, le caractère communautaire T2 au sens de la Convention du 20 mai 1987 relative à un régime de transit commun[^184-3];
 - n. les traitements auxquels les marchandises sont soumises;
@@ -3138,9 +3138,9 @@ L’inventaire doit contenir les indications suivantes:
 
 <sup>2</sup> Il doit être tenu sous forme électronique.[^184-5]
 
-<sup>3</sup> Le stock des marchandises sensibles se trouvant dans le dépôt franc sous douane doit ressortir à tout moment de l’inventaire. Sur demande de l’AFD, l’entreposeur doit immédiatement présenter l’inventaire.
+<sup>3</sup> Le stock des marchandises sensibles se trouvant dans le dépôt franc sous douane doit ressortir à tout moment de l’inventaire. Sur demande de l’OFDF, l’entreposeur doit immédiatement présenter l’inventaire.
 
-<sup>3bis</sup> Sur demande, l’entrepositaire doit présenter l’inventaire à l’AFD. L’AFD désigne la forme de présentation et la norme minimale pour le format de fichier.[^184-6]
+<sup>3bis</sup> Sur demande, l’entrepositaire doit présenter l’inventaire à l’OFDF. L’OFDF désigne la forme de présentation et la norme minimale pour le format de fichier.[^184-6]
 
 <sup>4</sup> Si l’entreposeur ne tient pas d’inventaire, s’il le tient d’une façon non réglementaire ou s’il n’est pas en mesure de le présenter immédiatement, les locaux sont placés sous scellements, et tout nouveau mouvement d’entreposage ou de sortie de l’entrepôt est interdit jusqu’à ce qu’un inventaire tenu de façon réglementaire soit disponible.
 
@@ -3177,7 +3177,7 @@ L’inventaire des marchandises sensibles doit être tenu pour chaque entreposit
 
 L’assujettissement à l’intérêt moratoire commence:
 
-- a. en cas de paiement par la procédure centralisée de décompte de l’AFD (PCD): à l’expiration du délai de paiement éventuellement accordé;
+- a. en cas de paiement par la procédure centralisée de décompte de l’OFDF (PCD): à l’expiration du délai de paiement éventuellement accordé;
 - b. pour les créances douanières fixées conditionnellement qui sont dues définitivement: au moment de l’acceptation de la première déclaration en douane;
 - c. lors de la perception subséquente d’un remboursement de droits de douane obtenu indûment: à la date du remboursement;
 - d. dans les autres cas: au moment déterminant au sens de l’art. 69 LD.
@@ -3192,7 +3192,7 @@ L’assujettissement à l’intérêt moratoire commence:
 
 <sup>1</sup> Le DFF détermine le montant jusqu’à concurrence duquel aucun intérêt moratoire n’est perçu.
 
-<sup>2</sup> Sur demande, l’AFD peut renoncer à la perception de l’intérêt moratoire lorsque le paiement conduirait, compte tenu de la situation du débiteur, à des difficultés économiques ou sociales notables.
+<sup>2</sup> Sur demande, l’OFDF peut renoncer à la perception de l’intérêt moratoire lorsque le paiement conduirait, compte tenu de la situation du débiteur, à des difficultés économiques ou sociales notables.
 
 #### Art. 188
 
@@ -3218,7 +3218,7 @@ Aucun intérêt rémunératoire n’est versé:
   - 2\. le régime de l’entrepôt douanier pour les marchandises de grande consommation,
   - 3\. le régime de l’admission temporaire;
 
-- d. en cas de remboursement de dépôts d’espèces, sauf pour les dépôts en cas de taxation provisoire d’office par l’AFD.
+- d. en cas de remboursement de dépôts d’espèces, sauf pour les dépôts en cas de taxation provisoire d’office par l’OFDF.
 
 ### Chapitre 2 Garantie de la créance douanière
 
@@ -3240,7 +3240,7 @@ L’art. 49 de l’ordonnance du 5 avril 2006 sur les finances de la Confédéra
 
 <sup>1</sup> Le dépôt d’espèces a lieu en règle générale en francs suisses.
 
-<sup>2</sup> L’AFD peut accepter des monnaies étrangères en tant que dépôt d’espèces. Elle fixe les conditions en la matière.
+<sup>2</sup> L’OFDF peut accepter des monnaies étrangères en tant que dépôt d’espèces. Il fixe les conditions en la matière.
 
 #### Art. 191
 
@@ -3250,7 +3250,7 @@ L’art. 49 de l’ordonnance du 5 avril 2006 sur les finances de la Confédéra
 
 <sup>1</sup>
 
-L’AFD peut reconnaître en tant que garantie les titres ci‑après:
+L’OFDF peut reconnaître en tant que garantie les titres ci‑après:
 
 - a. les emprunts de la Confédération;
 - b. les obligations de caisse de banques suisses;
@@ -3260,7 +3260,7 @@ L’AFD peut reconnaître en tant que garantie les titres ci‑après:
 
 <sup>3</sup> Le déposant reste tenu de surveiller les titres consignés quant à leur échéance, leur tirage au sort ou leur remboursement et de prendre toutes les mesures nécessaires au maintien de la valeur et à l’encaissement des montants échus. Si les titres consignés doivent lui être remis à cet effet, il faut alors déposer une nouvelle sûreté.
 
-<sup>4</sup> L’AFD vérifie périodiquement si les titres consignés correspondent encore au niveau de sûreté nécessaire. Si les titres consignés perdent de la valeur durant le délai de consignation, elle fixe un délai pour fournir une nouvelle sûreté. Si aucune nouvelle sûreté n’est fournie, les titres sont réalisés.
+<sup>4</sup> L’OFDF vérifie périodiquement si les titres consignés correspondent encore au niveau de sûreté nécessaire. Si les titres consignés perdent de la valeur durant le délai de consignation, il fixe un délai pour fournir une nouvelle sûreté. Si aucune nouvelle sûreté n’est fournie, les titres sont réalisés.
 
 #### Art. 192
 
@@ -3308,7 +3308,7 @@ Le montant de la sûreté s’élève:
 
 <sup>1</sup> La fourniture d’une sûreté n’est pas nécessaire dans le régime de l’admission temporaire selon l’art. 34, al. 2<sup>bis</sup> [^195-1], ni dans le système de la suspension pour les régimes du perfectionnement actif et du perfectionnement passif. [^195-2]
 
-<sup>2</sup> L’AFD décide si, dans d’autres cas, il peut être renoncé à la fourniture d’une sûreté.
+<sup>2</sup> L’OFDF décide si, dans d’autres cas, il peut être renoncé à la fourniture d’une sûreté.
 
 [^195-1]: Actuellement «selon l’art. 34, al. 3».
 [^195-2]: Nouvelle teneur selon le ch. I de l’O du 22 avril 2009, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
@@ -3319,7 +3319,7 @@ Le montant de la sûreté s’élève:
 
 ### (art. 76 LD)
 
-<sup>1</sup> Si la dette douanière garantie par consignation de titres devient exigible, l’AFD peut accorder un délai de paiement au débiteur en lui indiquant précisément le montant de la créance.
+<sup>1</sup> Si la dette douanière garantie par consignation de titres devient exigible, l’OFDF peut accorder un délai de paiement au débiteur en lui indiquant précisément le montant de la créance.
 
 <sup>2</sup> Si le débiteur de la dette douanière paie dans ce délai, les titres consignés lui sont restitués.
 
@@ -3337,12 +3337,12 @@ Le montant de la sûreté s’élève:
 
 Peut être reconnue comme caution générale ou individuelle:
 
-- a. une banque sous surveillance de l’Autorité fédérale de surveillance des marchés financiers[^197-1] ayant son siège en Suisse; ou
+- a. une banque sous surveillance de l’Autorité fédérale de surveillance des marchés financiers[^197-1] ayant son siège en Suisse, ou
 - b. une compagnie d’assurances sous surveillance de la Confédération ayant son siège en Suisse.
 
-<sup>2</sup> L’AFD peut reconnaître comme caution individuelle une personne morale ayant son siège en Suisse ou, exceptionnellement, une personne physique ayant son domicile en Suisse dont il est prouvé qu’elle est en mesure de répondre d’une créance douanière individuelle.
+<sup>2</sup> L’OFDF peut reconnaître comme caution individuelle une personne morale ayant son siège en Suisse ou, exceptionnellement, une personne physique ayant son domicile en Suisse dont il est prouvé qu’elle est en mesure de répondre d’une créance douanière individuelle.
 
-<sup>3</sup> Elle peut exiger que le cautionnement soit fourni par plusieurs personnes.
+<sup>3</sup> Il peut exiger que le cautionnement soit fourni par plusieurs personnes.
 
 [^197-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
@@ -3352,7 +3352,7 @@ Peut être reconnue comme caution générale ou individuelle:
 
 ### (art. 77, al. 2, LD)
 
-L’AFD fixe le montant maximal de la responsabilité (montant du cautionnement).
+L’OFDF fixe le montant maximal de la responsabilité (montant du cautionnement).
 
 #### Art. 199
 
@@ -3366,7 +3366,7 @@ L’AFD fixe le montant maximal de la responsabilité (montant du cautionnement)
 
 #### Art. 200
 
-**Etendue du cautionnement**
+**Étendue du cautionnement**
 
 ### (art. 77 LD)
 
@@ -3383,15 +3383,15 @@ La caution répond:
 
 ### (art. 77 LD)
 
-<sup>1</sup> L’AFD surveille la situation financière de la caution.
+<sup>1</sup> L’OFDF surveille la situation financière de la caution.
 
-<sup>2</sup> Elle prend les mesures nécessaires lorsqu’il existe des indices selon lesquels la caution n’est pas en mesure de satisfaire aux engagements financiers pris.
+<sup>2</sup> Il prend les mesures nécessaires lorsqu’il existe des indices selon lesquels la caution n’est pas en mesure de satisfaire aux engagements financiers pris.
 
 <sup>3</sup>
 
-Elle peut exiger du débiteur de la dette douanière le relèvement du montant du cautionnement:
+Il peut exiger du débiteur de la dette douanière le relèvement du montant du cautionnement:
 
-- a. si ce dernier ne couvre par la totalité des créances visées à l’art. 200; ou
+- a. si ce dernier ne couvre par la totalité des créances visées à l’art. 200, ou
 - b. si le montant du cautionnement restant paraît insuffisant.
 
 <sup>4</sup> En lieu et place d’un relèvement du montant du cautionnement, le débiteur de la dette douanière peut fournir une autre sûreté admise.
@@ -3414,12 +3414,12 @@ Le récépissé indique le montant payé et la créance douanière à laquelle l
 
 <sup>1</sup>
 
-L’AFD annonce les créances douanières à l’administration de la faillite si la faillite est prononcée:
+L’OFDF annonce les créances douanières à l’administration de la faillite si la faillite est prononcée:
 
-- a. à l’encontre du débiteur de la dette douanière; ou
+- a. à l’encontre du débiteur de la dette douanière, ou
 - b. à l’encontre de la caution et si des créances douanières existent à l’encontre de cette personne.
 
-<sup>2</sup> Si l’AFD renonce à l’annonce prescrite à l’al. 1, let. a, elle exige de la caution le paiement intégral de la dette douanière. Elle établit à l’intention de la caution un récépissé qui sert de titre de créance dans la procédure de faillite.
+<sup>2</sup> Si l’OFDF renonce à l’annonce prescrite à l’al. 1, let. a, il exige de la caution le paiement intégral de la dette douanière. Il établit à l’intention de la caution un récépissé qui sert de titre de créance dans la procédure de faillite.
 
 <sup>3</sup> Le cautionnement ne prend pas fin avec la faillite du débiteur de la dette douanière.
 
@@ -3429,9 +3429,9 @@ L’AFD annonce les créances douanières à l’administration de la faillite s
 
 ### (art. 78 LD)
 
-<sup>1</sup> Si le débiteur de la dette douanière décède, l’AFD exige de la caution le paiement de la créance au sens de l’art. 200, let. a, b et d, et annonce la créance lorsque l’inventaire de l’héritage est dressé.
+<sup>1</sup> Si le débiteur de la dette douanière décède, l’OFDF exige de la caution le paiement de la créance au sens de l’art. 200, let. a, b et d, et annonce la créance lorsque l’inventaire de l’héritage est dressé.
 
-<sup>2</sup> En cas de décès de la caution, ses obligations passent aux héritiers. L’AFD annonce la créance au sens de l’art. 200, let. a, b et d, lorsque l’inventaire de l’héritage est dressé.
+<sup>2</sup> En cas de décès de la caution, ses obligations passent aux héritiers. L’OFDF annonce la créance au sens de l’art. 200, let. a, b et d, lorsque l’inventaire de l’héritage est dressé.
 
 #### Art. 205
 
@@ -3439,7 +3439,7 @@ L’AFD annonce les créances douanières à l’administration de la faillite s
 
 ### (art. 79, al. 2, LD)
 
-Quand un cautionnement général est résilié, l’AFD en informe le débiteur de la dette douanière et exige de lui qu’il fournisse une nouvelle sûreté dans un délai déterminé.
+Quand un cautionnement général est résilié, l’OFDF en informe le débiteur de la dette douanière et exige de lui qu’il fournisse une nouvelle sûreté dans un délai déterminé.
 
 #### Art. 206
 
@@ -3463,16 +3463,16 @@ Un cautionnement individuel prend fin par:
 
 <sup>1</sup>
 
-L’AFD annule un cautionnement général ou un cautionnement individuel notamment:
+L’OFDF annule un cautionnement général ou un cautionnement individuel notamment:
 
 - a. si la caution perd la capacité nécessaire pour s’engager;
 - b. si la caution transfère son siège ou son domicile à l’étranger;
-- c. si la caution n’est pas en mesure de remplir les obligations financières ou si la faillite a été prononcée à son encontre; ou
+- c. si la caution n’est pas en mesure de remplir les obligations financières ou si la faillite a été prononcée à son encontre, ou
 - d. si les héritiers de la caution ne sont pas en mesure de remplir les obligations financières.
 
-<sup>2</sup> Elle exige du débiteur qu’il fournisse une nouvelle sûreté dans un délai déterminé.
+<sup>2</sup> Il exige du débiteur qu’il fournisse une nouvelle sûreté dans un délai déterminé.
 
-<sup>3</sup> Si aucune sûreté n’est fournie dans le délai imparti, l’AFD rend à l’encontre du débiteur de la dette douanière une décision de réquisition de sûretés ou engage la poursuite pour dettes.
+<sup>3</sup> Si aucune sûreté n’est fournie dans le délai imparti, l’OFDF rend à l’encontre du débiteur de la dette douanière une décision de réquisition de sûretés ou engage la poursuite pour dettes.
 
 ### Section 3 Décision de réquisition de sûretés
 
@@ -3499,7 +3499,7 @@ Sont assimilées à une créance douanière non encore exigible:
 
 La décision de réquisition de sûretés doit contenir:
 
-- a. l’indication que la Confédération suisse, représentée par l’AFD, est la créancière;
+- a. l’indication que la Confédération suisse, représentée par l’OFDF, est la créancière;
 - b. les nom et adresse du débiteur de la dette douanière;
 - c. la créance pour laquelle la sûreté est requise et, le cas échéant, pour laquelle la mise sous séquestre est prononcée ainsi que le montant de cette créance;
 - d. le motif juridique de la réquisition de sûretés;
@@ -3507,7 +3507,7 @@ La décision de réquisition de sûretés doit contenir:
 - f. la désignation exacte des objets mis sous séquestre et du lieu où ils se trouvent (lieu du séquestre);
 - g. le délai pour fournir la sûreté;
 - h. l’office compétent pour la réception de la sûreté;
-- i. l’indication que les conditions d’assujettissement de l’AFD au versement de dommages-intérêts sont régies par les dispositions de la loi du 14 mars 1958 sur la responsabilité[^209-1];
+- i. l’indication que les conditions d’assujettissement de l’OFDF au versement de dommages-intérêts sont régies par les dispositions de la loi du 14 mars 1958 sur la responsabilité[^209-1];
 - j. l’indication des voies de droit.
 
 [^209-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
@@ -3527,7 +3527,7 @@ La décision de réquisition de sûretés s’adresse:
 
 <sup>2</sup> La décision de réquisition de sûretés est exécutable immédiatement.
 
-<sup>3</sup> L’AFD présente une réquisition de poursuite à l’office des poursuites du lieu du séquestre dans les dix jours suivant la notification du procès-verbal de séquestre.[^210-1]
+<sup>3</sup> L’OFDF présente une réquisition de poursuite à l’office des poursuites du lieu du séquestre dans les dix jours suivant la notification du procès-verbal de séquestre.[^210-1]
 
 <sup>4</sup> Les dispositions pertinentes de la LP[^210-2] sont applicables.
 
@@ -3542,7 +3542,7 @@ La décision de réquisition de sûretés s’adresse:
 
 ### (art. 81 LD)
 
-<sup>1</sup> L’AFD abroge la décision de réquisition de sûretés et lève un éventuel séquestre lorsque la sûreté nécessaire a été fournie. Elle en informe l’office des poursuites compétent du lieu du séquestre.
+<sup>1</sup> L’OFDF abroge la décision de réquisition de sûretés et lève un éventuel séquestre lorsque la sûreté nécessaire a été fournie. Il en informe l’office des poursuites compétent du lieu du séquestre.
 
 <sup>2</sup> Si un recours déposé contre une décision de réquisition de sûretés est admis, le séquestre et la poursuite deviennent sans objet.
 
@@ -3579,10 +3579,10 @@ Sont assimilées à une créance douanière non encore exigible:
 
 Le séquestre peut aussi porter sur des marchandises ou des choses:
 
-- a. sur lesquelles des tiers ont des droits de propriété ou de gage; ou
+- a. sur lesquelles des tiers ont des droits de propriété ou de gage, ou
 - b. qui sont mises en gage en vertu du droit des poursuites, séquestrées ou intégrées dans une masse de faillite.
 
-<sup>2</sup> Si les tiers sont connus, l’AFD les informe du séquestre.
+<sup>2</sup> Si les tiers sont connus, l’OFDF les informe du séquestre.
 
 #### Art. 215
 
@@ -3590,7 +3590,7 @@ Le séquestre peut aussi porter sur des marchandises ou des choses:
 
 ### (art. 83 LD)
 
-L’AFD dresse un procès-verbal du séquestre d’un gage douanier et rend une décision en la matière. Un recours contre ce séquestre n’a pas d’effet suspensif.
+L’OFDF dresse un procès-verbal du séquestre d’un gage douanier et rend une décision en la matière. Un recours contre ce séquestre n’a pas d’effet suspensif.
 
 #### Art. 216
 
@@ -3608,7 +3608,7 @@ Le destinataire de la décision de séquestre est la personne chez laquelle se t
 
 <sup>1</sup> Le propriétaire d’une marchandise trouvée et séquestrée est réputé ayant droit.
 
-<sup>2</sup> L’AFD effectue les démarches nécessaires pour rechercher l’ayant droit.
+<sup>2</sup> L’OFDF effectue les démarches nécessaires pour rechercher l’ayant droit.
 
 <sup>3</sup> Si l’ayant droit ne peut pas être déterminé, un avis officiel est publié. Cet avis contient une invitation de l’ayant droit à faire valoir ses droits légaux dans un délai déterminé.
 
@@ -3624,11 +3624,11 @@ Le destinataire de la décision de séquestre est la personne chez laquelle se t
 
 <sup>1</sup> La personne ayant droit à une marchandise trouvée et séquestrée doit prouver son droit.
 
-<sup>2</sup> Si l’AFD considère que cette preuve n’est pas fournie, elle fixe à l’ayant droit un délai convenable pour faire valoir son droit par une action auprès du tribunal civil compétent.
+<sup>2</sup> Si l’OFDF considère que cette preuve n’est pas fournie, il fixe à l’ayant droit un délai convenable pour faire valoir son droit par une action auprès du tribunal civil compétent.
 
-<sup>3</sup> S’il y a plusieurs ayants droit et qu’il en résulte un litige quant à la personne à laquelle la marchandise doit être restituée, l’AFD peut se libérer par consignation de la marchandise en justice.
+<sup>3</sup> S’il y a plusieurs ayants droit et qu’il en résulte un litige quant à la personne à laquelle la marchandise doit être restituée, l’OFDF peut se libérer par consignation de la marchandise en justice.
 
-<sup>4</sup> Le propriétaire reconnu par l’AFD assume l’entière responsabilité à l’égard d’une personne ayant le cas échéant un meilleur droit. L’AFD ne lui remet la marchandise que s’il souscrit un engagement à cet égard.
+<sup>4</sup> Le propriétaire reconnu par l’OFDF assume l’entière responsabilité à l’égard d’une personne ayant le cas échéant un meilleur droit. L’OFDF ne lui remet la marchandise que s’il souscrit un engagement à cet égard.
 
 <sup>5</sup> L’ayant droit à une marchandise trouvée et séquestrée peut déposer un recours contre la décision de séquestre dans les 30 jours à compter de l’aboutissement de la recherche ou de la publication de l’avis officiel.
 
@@ -3642,7 +3642,7 @@ Le destinataire de la décision de séquestre est la personne chez laquelle se t
 
 <sup>1</sup> La restitution met fin au séquestre du gage douanier. Ce gage est remis au destinataire de la décision de séquestre. En cas de litige, la procédure se déroule conformément à l’art. 218, al. 3.
 
-<sup>2</sup> Si un recours contre le séquestre est pendant, l’AFD fait part à l’autorité de recours de la restitution de la marchandise ou de la chose.
+<sup>2</sup> Si un recours contre le séquestre est pendant, l’OFDF fait part à l’autorité de recours de la restitution de la marchandise ou de la chose.
 
 ### Chapitre 3 Remise de droits de douane en cas de destruction des marchandises
 
@@ -3652,13 +3652,13 @@ Le destinataire de la décision de séquestre est la personne chez laquelle se t
 
 La preuve de la destruction totale ou partielle peut être apportée par une attestation établie:
 
-- a. par un organe de l’AFD;
-- b. par une autorité fédérale, cantonale ou communale; ou
+- a. par un organe de l’OFDF;
+- b. par une autorité fédérale, cantonale ou communale, ou
 - c. par une personne ou une organisation chargée de tâches de droit public.
 
 ### Chapitre 4 Réalisation du gage douanier et vente des titres
 
-### …
+### ...
 
 [^tit3-chap4-1]
 
@@ -3670,9 +3670,9 @@ La preuve de la destruction totale ou partielle peut être apportée par une att
 
 <sup>1</sup> Une réalisation immédiate est possible même si la créance douanière n’est pas encore exécutoire.
 
-<sup>2</sup> Avant de procéder à une réalisation immédiate, l’AFD se procure trois offres indépendantes. Si ces dernières ne sont pas déposées par écrit, les indications y afférentes seront versées au dossier.
+<sup>2</sup> Avant de procéder à une réalisation immédiate, l’OFDF se procure trois offres indépendantes. Si ces dernières ne sont pas déposées par écrit, les indications y afférentes seront versées au dossier.
 
-<sup>3</sup> L’AFD peut renoncer à un appel d’offres lorsque la valeur du gage douanier n’excède pas 1000 francs.
+<sup>3</sup> L’OFDF peut renoncer à un appel d’offres lorsque la valeur du gage douanier n’excède pas 1000 francs.
 
 <sup>4</sup> La marchandise ou la chose est délivrée au plus offrant contre paiement immédiat de l’intégralité du prix d’achat.
 
@@ -3687,19 +3687,19 @@ La preuve de la destruction totale ou partielle peut être apportée par une att
 
 <sup>1</sup>
 
-L’AFD peut vendre de gré à gré un gage douanier au lieu de le mettre aux enchères:
+L’OFDF peut vendre de gré à gré un gage douanier au lieu de le mettre aux enchères:
 
 - a. avec l’accord du propriétaire;
 - b. sans l’accord du propriétaire lorsque le gage douanier n’est pas vendu à l’issue des enchères;
-- c.[^221a-2] pour des marchandises ou des choses dont la valeur n'excède pas 5000 francs et dont la propriété n'est pas attribuée.
+- c.[^221a-2] pour des marchandises ou des choses dont la valeur n’excède pas 5000 francs et dont la propriété n'est pas attribuée.
 
 <sup>2</sup> L’accord du propriétaire est irrévocable. Il doit être donné par écrit et ne peut être assorti de conditions et de charges.
 
-<sup>3</sup> Avant de procéder à une vente de gré à gré, l’AFD se procure trois offres indépendantes. Si ces dernières ne sont pas déposées par écrit, les indications y afférentes seront versées au dossier.
+<sup>3</sup> Avant de procéder à une vente de gré à gré, l’OFDF se procure trois offres indépendantes. Si ces dernières ne sont pas déposées par écrit, les indications y afférentes seront versées au dossier.
 
 <sup>4</sup> La marchandise ou la chose est délivrée au plus offrant contre paiement immédiat de l’intégralité du prix d’achat.
 
-<sup>5</sup> L’AFD dresse un procès-verbal de la vente de gré à gré.
+<sup>5</sup> L’OFDF dresse un procès-verbal de la vente de gré à gré.
 
 [^221a-1]: Introduit par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 [^221a-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2443](https://fedlex.data.admin.ch/eli/oc/2016/392)).
@@ -3712,16 +3712,16 @@ L’AFD peut vendre de gré à gré un gage douanier au lieu de le mettre aux en
 
 <sup>1</sup> Le produit de la réalisation du gage douanier ou de la vente des titres sert en priorité à la couverture des coûts de conservation et de réalisation du gage douanier ou de la vente des titres. Le solde sert à l’extinction de la dette douanière.
 
-<sup>2</sup> L’AFD impartit au débiteur un délai approprié pour qu’il désigne les dettes qui doivent être réglées. Le règlement intervient dans l’ordre indiqué par le débiteur, et en l’absence d’une déclaration du débiteur à cet égard, dans l’ordre fixé à l’art. 200.
+<sup>2</sup> L’OFDF impartit au débiteur un délai approprié pour qu’il désigne les dettes qui doivent être réglées. Le règlement intervient dans l’ordre indiqué par le débiteur, et en l’absence d’une déclaration du débiteur à cet égard, dans l’ordre fixé à l’art. 200.
 
 <sup>3</sup>
 
 Un excédent éventuel à l’issue de la réalisation:
 
-- a. est mis à la disposition de l’ayant droit; ou
+- a. est mis à la disposition de l’ayant droit, ou
 - b. est reversé à la caisse de la Confédération lorsque l’ayant droit n’est pas connu.
 
-<sup>4</sup> L’AFD établit un décompte écrit de l’utilisation du produit de la réalisation.
+<sup>4</sup> L’OFDF établit un décompte écrit de l’utilisation du produit de la réalisation.
 
 [^221b-1]: Introduit par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
@@ -3731,9 +3731,9 @@ Un excédent éventuel à l’issue de la réalisation:
 
 ### (art. 87 LD)
 
-L’AFD peut renoncer à réaliser un gage douanier et remettre la marchandise ou la chose à des organisations ou œuvres d’entraide d’utilité publique reconnues ou à des indigents lorsque:
+L’OFDF peut renoncer à réaliser un gage douanier et remettre la marchandise ou la chose à des organisations ou œuvres d’entraide d’utilité publique reconnues ou à des indigents lorsque:
 
-- a. leur valeur n’excède pas 1000 francs; et que
+- a. leur valeur n’excède pas 1000 francs, et que
 - b. leur propriétaire n’est pas connu.
 
 [^221c-1]: Introduit par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
@@ -3748,7 +3748,7 @@ Le DFF règle la procédure de mise aux enchères de gages douaniers et de vente
 
 [^221d-1]: Introduit par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
-## Titre 4 AFD
+## Titre 4 OFDF
 
 #### Art. 221e
 
@@ -3772,13 +3772,13 @@ Le DFF règle la procédure de mise aux enchères de gages douaniers et de vente
 
 <sup>1</sup>
 
-A l’étranger, l’AFD peut recourir à ses propres agents de liaison et leur confier les tâches suivantes:
+À l’étranger, l’OFDF peut recourir à ses propres agents de liaison et leur confier les tâches suivantes:
 
-- a. collecter les informations stratégiques et tactiques dont l’AFD a besoin pour accomplir ses tâches légales;
-- b. échanger ces informations avec les autorités partenaires de l’Etat accréditaire et avec d’autres autorités;
+- a. collecter les informations stratégiques et tactiques dont l’OFDF a besoin pour accomplir ses tâches légales;
+- b. échanger ces informations avec les autorités partenaires de l’État accréditaire et avec d’autres autorités;
 - c. favoriser la coopération policière et judiciaire.
 
-<sup>2</sup> D’entente avec l’Office fédéral de la police (fedpol), elle peut déléguer des tâches de ses propres agents de liaison aux agents de liaison de fedpol. Dans le cadre des tâches confiées par l’AFD, les agents de liaison de fedpol possèdent les mêmes droits que les agents de liaison de l’AFD quant à l’accès aux systèmes d’information et au traitement des données, dans la mesure où cela est nécessaire à l’accomplissement de leurs tâches.
+<sup>2</sup> D’entente avec l’Office fédéral de la police (fedpol), il peut déléguer des tâches de ses propres agents de liaison aux agents de liaison de fedpol. Dans le cadre des tâches confiées par l’OFDF, les agents de liaison de fedpol possèdent les mêmes droits que les agents de liaison de l’OFDF quant à l’accès aux systèmes d’information et au traitement des données, dans la mesure où cela est nécessaire à l’accomplissement de leurs tâches.
 
 [^221f-1]: Introduit par le ch. I 3 de l’O du 23 nov. 2016 concernant l’exécution mutuelle de tâches par des agents de liaison de fedpol d’une part, par des agents de liaison de l’AFD d’autre part, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
 
@@ -3788,7 +3788,7 @@ A l’étranger, l’AFD peut recourir à ses propres agents de liaison et leur 
 
 ### (art. 100, al. 1, let. a à c, LD)
 
-Pour accomplir les tâches qui lui sont confiées, le personnel de l’AFD peut fouiller des véhicules et des contenants dans le cadre des contrôles qu’il exécute.
+Pour accomplir les tâches qui lui sont confiées, le personnel de l’OFDF peut fouiller des véhicules et des contenants dans le cadre des contrôles qu’il exécute.
 
 #### Art. 223
 
@@ -3796,10 +3796,10 @@ Pour accomplir les tâches qui lui sont confiées, le personnel de l’AFD peut 
 
 ### (art. 101, al. 2, let. a, LD)
 
-L’AFD met en sûreté les objets découverts lors de ses contrôles si ceux-ci:
+L’OFDF met en sûreté les objets découverts lors de ses contrôles si ceux-ci:
 
 - a. représentent un danger pour la sécurité des personnes ou pour l’ordre public;
-- b. sont probablement de provenance illégale; ou
+- b. sont probablement de provenance illégale, ou
 - c. ont été utilisés ou sont probablement utilisés pour commettre des actes illicites.
 
 #### Art. 223a
@@ -3826,7 +3826,7 @@ La personne appréhendée doit, sur demande:
 
 La personne appréhendée peut être amenée à un bureau de douane ou à un autre office approprié:
 
-- a. si son identité ne peut pas être établie avec certitude sur place; ou
+- a. si son identité ne peut pas être établie avec certitude sur place, ou
 - b. si des doutes existent au sujet de l’exactitude des indications qu’elle a fournies, de l’authenticité de ses documents d’identité ou de la légalité de la possession de véhicules ou d’autres choses.
 
 #### Art. 225
@@ -3849,20 +3849,20 @@ La personne appréhendée peut être amenée à un bureau de douane ou à un aut
 
 ### (art. 100, al. 1, let. a, ch. 1, et 103, al. 2, LD)
 
-<sup>1</sup> L’AFD contrôle l’identité d’une personne sur la base des caractéristiques décrites ou enregistrées dans des documents d’identité tels que des passeports et des cartes d’identité ou dans d’autres documents reconnus.
+<sup>1</sup> L’OFDF contrôle l’identité d’une personne sur la base des caractéristiques décrites ou enregistrées dans des documents d’identité tels que des passeports et des cartes d’identité ou dans d’autres documents reconnus.
 
 <sup>2</sup>
 
-Elle peut constater l’identité de la personne en se fondant sur la physionomie, la couleur des yeux, la taille, la couleur des cheveux, l’empreinte des deux doigts et d’autres caractéristiques personnelles:
+Il peut constater l’identité de la personne en se fondant sur la physionomie, la couleur des yeux, la taille, la couleur des cheveux, l’empreinte des deux doigts et d’autres caractéristiques personnelles:
 
-- a. si une personne ne peut justifier de son identité conformément à l’al. 1; ou
-- b. si les tâches confiées à l’AFD le requièrent.
+- a. si une personne ne peut justifier de son identité conformément à l’al. 1, ou
+- b. si les tâches confiées à l’OFDF le requièrent.
 
 <sup>2bis</sup> Les empreintes des deux doigts mentionnées à l’al. 2 peuvent être enregistrées dans le système automatique d’identification des empreintes digitales (AFIS) de l’Office fédéral de la police. Elles sont effacées dès que l’identité a été établie, mais au plus tard deux ans après la saisie signalétique.[^226-1]
 
 <sup>3</sup>
 
-Elle peut consigner ou compléter les données relatives à l’identité d’une personne en recueillant des données biométriques:
+Il peut consigner ou compléter les données relatives à l’identité d’une personne en recueillant des données biométriques:
 
 - a. dans les cas visés à l’art. 103, al. 1, let. a et b, LD, au moyen des données dactyloscopiques; le traitement des données est régi par l’ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques[^226-2];[^226-3]
 - b.
@@ -3870,11 +3870,11 @@ Elle peut consigner ou compléter les données relatives à l’identité d’un
   dans les cas visés à l’art. 103, al. 1, let. a, LD, au moyen:
 
   - 1\. d’un profil d’ADN: le traitement des données est régi par la loi du 20 juin 2003 sur les profils d’ADN[^226-4],
-  - 2\.[^226-5] d’images du visage: le traitement des données est régi par l’ordonnance du 4 avril 2007 sur le traitement des données AFD[^226-6].
+  - 2\.[^226-5] d’images du visage: le traitement des données est régi par l’ordonnance du 4 avril 2007 sur le traitement des données OFDF[^226-6].
 
-<sup>4</sup> Elle doit effacer les données recueillies dès que les données ont été sauvegardées dans les banques de données visées à l’al. 3.[^226-7]
+<sup>4</sup> Il doit effacer les données recueillies dès que les données ont été sauvegardées dans les banques de données visées à l’al. 3.[^226-7]
 
-<sup>5</sup> Si l’AFD recueille des données biométriques visées à l’al. 3 sans être autorité d’enquête, elle est tenue de présenter les demandes d’effacement de ces données si cela est nécessaire au sens des actes législatifs autres que douaniers déterminants.
+<sup>5</sup> Si l’OFDF recueille des données biométriques visées à l’al. 3 sans être autorité d’enquête, il est tenu de présenter les demandes d’effacement de ces données si cela est nécessaire au sens des actes législatifs autres que douaniers déterminants.
 
 [^226-1]: Introduit par le ch. 3 de l’annexe à l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^226-2]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
@@ -3915,11 +3915,11 @@ Peuvent notamment être utilisés comme moyens d’autodéfense ou de contrainte
 
 #### Art. 228
 
-**Personnel de l’AFD autre que celui du Corps des gardes-frontière**
+**Personnel de l’OFDF autre que celui du Corps des gardes-frontière**
 
 ### (art. 106, al. 2, let. a et b, LD)
 
-Le personnel suivant de l’AFD autre que celui du Corps des gardes-frontière peut faire usage d’armes et d’autres moyens d’autodéfense ou de contrainte:
+Le personnel suivant de l’OFDF autre que celui du Corps des gardes-frontière peut faire usage d’armes et d’autres moyens d’autodéfense ou de contrainte:
 
 - a.[^228-1] le personnel de la division principale Antifraude douanière;
 - b. le personnel engagé dans le trafic touristique;
@@ -3998,10 +3998,10 @@ Dispose des aptitudes requises quiconque:
 
 - a. a 18 ans révolus;
 - b. n’est pas interdit;
-- c. a les connaissances nécessaires; et
+- c. a les connaissances nécessaires, et
 - d. offre la garantie d’une représentation professionnelle correcte dans la procédure douanière (art. 26 LD).
 
-<sup>2</sup> Dans des cas exceptionnels, l’AFD peut autoriser une personne mineure à établir des déclarations en douane.
+<sup>2</sup> Dans des cas exceptionnels, l’OFDF peut autoriser une personne mineure à établir des déclarations en douane.
 
 #### Art. 234
 
@@ -4009,7 +4009,7 @@ Dispose des aptitudes requises quiconque:
 
 ### (art. 115, al. 2, LD)
 
-Si une personne sur laquelle porte une demande d’assistance administrative présentée par une autorité étrangère refuse de coopérer, l’AFD rend une décision sur l’obligation de coopérer et de produire des données et des documents au sens de l’art. 115, al. 4, LD.
+Si une personne sur laquelle porte une demande d’assistance administrative présentée par une autorité étrangère refuse de coopérer, l’OFDF rend une décision sur l’obligation de coopérer et de produire des données et des documents au sens de l’art. 115, al. 4, LD.
 
 #### Art. 235
 
@@ -4017,9 +4017,9 @@ Si une personne sur laquelle porte une demande d’assistance administrative pr�
 
 ### (art. 130 LD et art. 37, al. 3, LPers)
 
-<sup>1</sup> En ce qui concerne la formation professionnelle supérieure du personnel de l’AFD, la Direction générale des douanes est réputée organisation du monde du travail au sens de l’art. 28, al. 2, de la loi du 13 décembre 2002 sur la formation professionnelle[^235-1].
+<sup>1</sup> En ce qui concerne la formation professionnelle supérieure du personnel de l’OFDF, la Direction générale des douanes est réputée organisation du monde du travail au sens de l’art. 28, al. 2, de la loi du 13 décembre 2002 sur la formation professionnelle[^235-1].
 
-<sup>2</sup> Elle est compétente pour l’édiction des dispositions correspondantes et elle définit notamment les conditions d’admission, le niveau exigé, les procédures de qualification, les certificats délivrés et les titres décernés en ce qui concerne les examens professionnels fédéraux et les examens professionnels fédéraux supérieurs pour le personnel de l’AFD.
+<sup>2</sup> Elle est compétente pour l’édiction des dispositions correspondantes et elle définit notamment les conditions d’admission, le niveau exigé, les procédures de qualification, les certificats délivrés et les titres décernés en ce qui concerne les examens professionnels fédéraux et les examens professionnels fédéraux supérieurs pour le personnel de l’OFDF.
 
 [^235-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 
@@ -4029,7 +4029,7 @@ Si une personne sur laquelle porte une demande d’assistance administrative pr�
 
 ### (art. 127, al. 2, et 130 LD)
 
-Il est interdit de photographier ou de filmer sans autorisation le personnel de l’AFD pendant l’exercice de ses activités. Le non-respect de cette interdiction constitue une inobservation des prescriptions d’ordre au sens de l’art. 127, al. 2, LD.
+Il est interdit de photographier ou de filmer sans autorisation le personnel de l’OFDF pendant l’exercice de ses activités. Le non-respect de cette interdiction constitue une inobservation des prescriptions d’ordre au sens de l’art. 127, al. 2, LD.
 
 ## Titre 5 Dispositions pénales
 
@@ -4083,10 +4083,10 @@ Pour autant que le fait constitutif d’une infraction douanière ne soit pas r�
 
 - a. ne déclare pas ou déclare inexactement des marchandises en franchise à l’entrée ou à la sortie du territoire douanier, ou ne les transporte pas à travers la frontière douanière par les routes douanières, débarcadères douaniers ou aérodromes douaniers prévus;
 - b. déclare des marchandises soumises aux droits de douane sous un faux numéro de tarif, lorsque le numéro correct conduit à un droit de douane égal ou inférieur;
-- c. utilise dans le trafic aérien transfrontalier un aérodrome pour lequel l’AFD n’a pas délivré d’autorisation;
-- d. traverse la frontière douanière avec un véhicule sans emprunter une route douanière désignée comme autorisée pour cette course par l’AFD;
+- c. utilise dans le trafic aérien transfrontalier un aérodrome pour lequel l’OFDF n’a pas délivré d’autorisation;
+- d. traverse la frontière douanière avec un véhicule sans emprunter une route douanière désignée comme autorisée pour cette course par l’OFDF;
 - e. contrevient aux dispositions des art. 5 à 12 de l’ordonnance du 12 octobre 2011 sur la statistique du commerce extérieur[^240a-2];
-- f. n’observe pas les délais fixés par l’AFD;
+- f. n’observe pas les délais fixés par l’OFDF;
 - g. omet de mentionner l’obligation de présenter une nouvelle déclaration en douane au sens de l’art. 61;
 - h. ne respecte pas les dispositions en matière de conservation de données et de documents au sens des art. 94 à 98;
 - i. procède à l’ouvraison non admise de marchandises dans des entrepôts douaniers ouverts ou dans des dépôts francs sous douane (art. 161 et 181);
@@ -4103,7 +4103,7 @@ Pour autant que le fait constitutif d’une infraction douanière ne soit pas r�
 
 <sup>1</sup> La division principale Antifraude douanière est compétente pour la poursuite pénale.
 
-<sup>2</sup> Chaque service de l’AFD est compétent, dans le cadre de ses activités, pour décerner les mandats de répression en procédure simplifiée selon l’art. 65, al. 1, DPA[^240b-2].
+<sup>2</sup> Chaque service de l’OFDF est compétent, dans le cadre de ses activités, pour décerner les mandats de répression en procédure simplifiée selon l’art. 65, al. 1, DPA[^240b-2].
 
 [^240b-1]: Introduit par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4671](https://fedlex.data.admin.ch/eli/oc/2018/735)).
 [^240b-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
@@ -4180,7 +4180,7 @@ Le DFF est habilité à édicter les dispositions d’exécution de la présente
 
 ### (art. 130 LD)
 
-Lorsque des produits agricoles pour lesquels des taux du contingent tarifaire sont fixés ont été importés de manière illicite au taux du contingent tarifaire ou à un taux réduit, l’Office fédéral de l’agriculture peut facturer la différence de droits sur mandat de l’AFD. Il informe l’AFD à ce sujet.
+Lorsque des produits agricoles pour lesquels des taux du contingent tarifaire sont fixés ont été importés de manière illicite au taux du contingent tarifaire ou à un taux réduit, l’Office fédéral de l’agriculture peut facturer la différence de droits sur mandat de l’OFDF. Il informe l’OFDF à ce sujet.
 
 #### Art. 244
 
@@ -4285,7 +4285,7 @@ Annexe 2*[^t-1]*
 
 Sont réputés marchandises sensibles:
 
-- 1\. …
+- 1\. ...
 - 2\. les animaux et les plantes, leurs parties et les produits obtenus à partir de ces animaux et de ces plantes, au sens de l’art. 1 de l’ordonnance du 4 septembre 2013 sur la circulation des espèces de faune et de flore protégées[^annex2-lvlu1-1].
 - 3\. le matériel de guerre défini à l’art. 5 de la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^annex2-lvlu1-2];
 - 4\. les armes**,** les accessoires d’armes et les munitions définis à l’art. 4 de la loi fédérale du 20 juin 1997 sur les armes[^annex2-lvlu1-3];
@@ -4353,7 +4353,7 @@ Sont abrogés:
 - 14\. l’arrêté du Conseil fédéral du 26 août 1958 concernant l’importation de gaz d’éclairage dans la zone limitrophe suisse[^annex3-lvlu1-16];
 - 15\. l’arrêté du Conseil fédéral du 21 février 1968 concernant l’entreposage en transit, exempt d’intérêt, de marchandises dans les entrepôts des ports rhénans[^annex3-lvlu1-17];
 - 16\. l’ordonnance du 9 mai 1990 instituant des simplifications dans les opérations douanières[^annex3-lvlu1-18];
-- 17\. l’ordonnance du 18 mai 2005 sur la compétence de la Direction générale des douanes dans le domaine de la formation professionnelle supérieure pour le personnel de l’AFD[^annex3-lvlu1-19];
+- 17\. l’ordonnance du 18 mai 2005 sur la compétence de la Direction générale des douanes dans le domaine de la formation professionnelle supérieure pour le personnel de l’OFDF[^annex3-lvlu1-19];
 - 18\. l’arrêté du Conseil fédéral du 31 mai 1966 concernant l’exonération des droits d’entrée grevant les carburants pour les aéronefs qui exécutent des vols non professionnels à destination de l’étranger[^annex3-lvlu1-20].
 
 [^annex3-lvlu1-1]: [RS **6** 517; [RO 1957 1016](https://fedlex.data.admin.ch/eli/oc/1957/1002_1016_1040), [1960 272](https://fedlex.data.admin.ch/eli/oc/1960/261_272_267), [1961 1200](https://fedlex.data.admin.ch/eli/oc/1961/1178_1200_1226), [1965 923](https://fedlex.data.admin.ch/eli/oc/1965/915_923_917), [1972 160](https://fedlex.data.admin.ch/eli/oc/1972/156_160_160), [1973 650](https://fedlex.data.admin.ch/eli/oc/1973/651_650_651), [1974 1949](https://fedlex.data.admin.ch/eli/oc/1974/1949_1949_1949), [1976 2086](https://fedlex.data.admin.ch/eli/oc/1976/_2086_), [1993 1054](https://fedlex.data.admin.ch/eli/oc/1993/1054_1054_1054), [1995 1818](https://fedlex.data.admin.ch/eli/oc/1995/1818_1818_1818), [1997 1630](https://fedlex.data.admin.ch/eli/oc/1997/1630_1630_1630)[2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)ch. II 35, [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)ch. II 15, [2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56)art. 33 ch. 3, [2002 326](https://fedlex.data.admin.ch/eli/oc/2002/70)[328](https://fedlex.data.admin.ch/eli/oc/2002/72)annexe 2 ch. 1]
@@ -4385,7 +4385,7 @@ Annexe 4
 
 Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
-…[^annex4-lvlu1-1]
+...[^annex4-lvlu1-1]
 
 [^annex4-lvlu1-1]: Les mod. peuvent être consultées au [RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250).
 
