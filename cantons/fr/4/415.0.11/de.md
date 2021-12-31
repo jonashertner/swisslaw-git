@@ -4,13 +4,13 @@ number: "415.0.11"
 title: "Reglement für das Lehrpersonal, das der Direktion für Erziehung, Kultur und Sport untersteht"
 short: LPR
 language: de
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2021-05-26
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-11-30
 adopted: 2016-03-14
 in_force: 2016-03-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/415.0.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6845/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6993/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Lehrpersonal – R
 
 (LPR)
 
-vom 14.03.2016 (Fassung in Kraft getreten am 01.08.2021)
+vom 14.03.2016 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -173,12 +173,12 @@ beschliesst:
 - a) einen Monat bei einer Anstellung von weniger als vier Monaten;
 - b) zwei Monate bei einer Anstellung von weniger als sechs Monaten;
 - c) vier Monate bei einer Anstellung von weniger als zwölf Monaten;
-- d) sechs Monate bei einer Anstellung von einem Jahr;
-- e) ein Jahr bei einer Anstellung von mehr als einem Jahr oder bei einer unbefristeten Anstellung.
+- d) …
+- e) sechs Monate bei einer Anstellung von einem Jahr oder mehr und bei unbefristeter Anstellung.
 
 <sup>2</sup> Während der Probezeit kann das Dienstverhältnis von beiden Seiten per Einschreiben frei aufgelöst werden.
 
-<sup>3</sup> Während der ersten drei Monate der Probezeit kann das Dienstverhältnis von beiden Seiten eine Woche im Voraus auf Ende Woche aufgelöst werden. Ab dem vierten Monat kann das Dienstverhältnis einen Monat im Voraus auf Ende Monat aufgelöst werden.
+<sup>3</sup> In den ersten zwei Monaten der Probezeit kann das Dienstverhältnis von beiden Seiten mit einer Kündigungsfrist von einer Woche auf das Ende einer Woche gekündigt werden. Ab dem dritten Monat kann das Dienstverhältnis einen Monat im Voraus auf Ende Monat aufgelöst werden.
 
 <sup>4</sup> Die Direktion kann bei der Anstellung oder während der Probezeit auf einen Teil oder die gesamte Probezeit verzichten, sofern die Person die betreffende Funktion bereits früher ausgeübt hat. Ebenso kann die Direktion einer Lehrperson eine Probezeit vorschreiben, wenn sich der Beschäftigungsgrad während der Anstellung wesentlich erhöht.
 

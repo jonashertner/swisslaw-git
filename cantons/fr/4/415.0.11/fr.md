@@ -4,13 +4,13 @@ number: "415.0.11"
 title: "Règlement relatif au personnel enseignant de la Direction de l'instruction publique, de la culture et du sport"
 short: RPEns
 language: fr
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2021-05-26
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-11-30
 adopted: 2016-03-14
 in_force: 2016-03-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/415.0.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6845/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6993/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Personnel enseignant – R
 
 (RPEns)
 
-du 14.03.2016 (version entrée en vigueur le 01.08.2021)
+du 14.03.2016 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -173,12 +173,12 @@ Arrête:
 - a) un mois pour un engagement inférieur à quatre mois;
 - b) deux mois pour un engagement inférieur à six mois;
 - c) quatre mois pour un engagement inférieur à douze mois;
-- d) six mois pour un engagement d'un an;
-- e) un an pour un engagement de plus d'un an ou de durée indéterminée.
+- d) …
+- e) six mois pour un engagement d'un an ou plus ainsi que pour un engagement de durée indéterminée.
 
 <sup>2</sup> Durant la période probatoire, les rapports de service peuvent être résiliés librement de part et d'autre, par lettre recommandée.
 
-<sup>3</sup> Durant les trois premiers mois de la période probatoire, les rapports de service peuvent être résiliés de part et d'autre une semaine d'avance pour la fin d'une semaine. Dès le quatrième mois, le délai de résiliation est d'un mois d'avance pour la fin d'un mois.
+<sup>3</sup> Durant les deux premiers mois de la période probatoire, les rapports de service peuvent être résiliés de part et d'autre une semaine d'avance pour la fin d'une semaine. Dès le troisième mois, le délai de résiliation est d'un mois d'avance pour la fin d'un mois.
 
 <sup>4</sup> La Direction peut renoncer, dès l'engagement, à tout ou partie de la période probatoire, lorsque l'enseignant ou l'enseignante a déjà exercé antérieurement la fonction concernée. De même, la Direction peut imposer une période probatoire à l'enseignant ou à l'enseignante qui, en cours d'emploi, augmente son taux d'activité de manière significative.
 
