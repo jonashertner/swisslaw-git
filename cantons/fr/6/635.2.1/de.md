@@ -4,13 +4,12 @@ number: "635.2.1"
 title: Gesetz über die Erbschafts- und Schenkungssteuer
 short: ESchG
 language: de
-version: 2019-01-01
-valid_until: 2021-12-31
-version_adopted: 2018-11-07
+version: 2022-01-01
+version_adopted: 2021-11-05
 adopted: 2007-09-14
 in_force: 2008-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/635.2.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6361/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8685/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Erbschafts- und Schenkungssteuer – G
 
 (ESchG)
 
-vom 14.09.2007 (Fassung in Kraft getreten am 01.01.2019)
+vom 14.09.2007 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -119,13 +118,13 @@ beschliesst:
 
 <sup>2</sup> Ebenfalls nicht erbschafts- und schenkungssteuerpflichtig sind:
 
-- a) die juristischen Personen, die nach Artikel 97 Abs. 1 Bst. g und h des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern (DStG) aufgrund der öffentlichen, gemeinnützigen oder Kultuszwecke, die sie verfolgen, von der Steuer befreit sind;
-- b) die Einrichtungen der beruflichen Vorsorge nach Artikel 80 Abs. 2 des Bundesgesetzes vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG);
-- c) Personenunternehmungen und juristische Personen für den Vermögenserwerb bei Umstrukturierung im Sinne der Artikel 8 Abs. 3 und 24 Abs. 3 und 3<sup>quater</sup> des Bundesgesetzes vom 14. Dezember 1990 über die Harmonisierung der direkten Steuern der Kantone und Gemeinden (StHG);
+- a) die juristischen Personen, die nach Artikel 97 Abs. 1 Bst. g und h des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern (DStG)[^8-1] aufgrund der öffentlichen, gemeinnützigen oder Kultuszwecke, die sie verfolgen, von der Steuer befreit sind;
+- b) die Einrichtungen der beruflichen Vorsorge nach Artikel 80 Abs. 2 des Bundesgesetzes vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^8-2];
+- c) Personenunternehmungen und juristische Personen für den Vermögenserwerb bei Umstrukturierung im Sinne der Artikel 8 Abs. 3 und 24 Abs. 3 und 3<sup>quater</sup> des Bundesgesetzes vom 14. Dezember 1990 über die Harmonisierung der direkten Steuern der Kantone und Gemeinden (StHG)[^8-3];
 - d) Verwandte für den Vermögenserwerb, der einer vollständigen oder teilweisen Teilung gleichkommt oder deren Folge ist, sofern Vermögenswerte aus gerader Linie übertragen werden. Die Ehegattin oder der Ehegatte und die eingetragene Partnerin oder der eingetragene Partner sind ebenfalls von der Steuerpflicht befreit, wenn sie an solchen Rechtsgeschäften beteiligt sind;
 - e) die geschiedene Ehegattin oder der geschiedene Ehegatte und die Partnerin oder der Partner nach Auflösung der eingetragenen Partnerschaft, wenn Vermögenswerte im Sinne von Buchstabe d auf der Grundlage eines Scheidungs- oder Auflösungsurteils erworben werden;
 - f) die Inhaberinnen und Inhaber von Beteiligungsrechten, denen die Eigenschaft von natürlichen Personen zukommt, für den Erwerb von Grundstücken einer Immobiliengesellschaft im Verhältnis ihrer Rechte und im Falle der vollständigen Auflösung der Gesellschaft;
-- g) die Begünstigten bei Grundstücksübertragungen im Zusammenhang mit Bodenverbesserungen, die von dem für die Meliorationen zuständigen Amt[^8-1] oder dem für Wald, Wild und Fischerei zuständigen Amt[^8-2] visiert wurden, oder bei Grundstücksübertragungen im Zusammenhang mit katastertechnisch begründeten Grenzbereinigungen von geringer Bedeutung;
+- g) die Begünstigten bei Grundstücksübertragungen im Zusammenhang mit Bodenverbesserungen, die vom Amt, das nach der Gesetzgebung über die Bodenverbesserungen in diesem Bereich zuständig ist[^8-4], visiert wurden, oder bei Grundstücksübertragungen im Zusammenhang mit katastertechnisch begründeten Grenzbereinigungen von geringer Bedeutung;
 - h) die Begünstigten von Baurechten in Form einer Dienstbarkeit, die von einem Gemeinwesen für eine sportliche, kulturelle oder soziale Tätigkeit abgetreten werden und Subventionen gleichgesetzt werden können;
 - i) die Begünstigten in den Fällen, die in anderen gesetzlichen Bestimmungen vorgesehen sind.
 
@@ -135,8 +134,10 @@ beschliesst:
 
 <sup>5</sup> Die Kantonale Steuerverwaltung veröffentlicht ein Verzeichnis der juristischen Personen mit Sitz im Kanton Freiburg, die wegen Verfolgung öffentlicher oder gemeinnütziger Zwecke gemäss Absatz 2 Bst. a von der Steuerpflicht befreit sind. Jede betroffene juristische Person kann mit einem Schreiben an die Kantonale Steuerverwaltung verlangen, nicht in diesem Verzeichnis aufgeführt zu werden.
 
-[^8-1]: Heute: Amt für Landwirtschaft.
-[^8-2]: Heute: Amt für Wald und Natur.
+[^8-1]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
+[^8-2]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
+[^8-3]: RS [642.14](https://db.clex.ch/link/Bund/642.14/de)
+[^8-4]: Heute: Grangeneuve oder Amt für Wald und Natur.
 
 #### Art. 9
 
@@ -151,7 +152,7 @@ beschliesst:
 <sup>4</sup> Das Gesuch hemmt den Lauf der Einsprachefrist nicht.
 
 [^9-1]: Heute: Finanzdirektion.
-[^9-2]: Heute: Volkswirtschaftsdirektion.
+[^9-2]: Heute: Volkswirtschafts- und Berufsbildungsdirektion.
 
 #### Art. 10
 
@@ -179,7 +180,9 @@ beschliesst:
 
 **Im Besonderen – Grundstücke**
 
-<sup>1</sup> Für Grundstücke gilt als Bemessungsgrundlage der Steuerwert, der in Anwendung des Gesetzes über die direkten Kantonssteuern nach dem Wert des Grundstücks am Ende der letzten Steuerperiode festgesetzt wurde. Vorbehalten bleibt der Mehrwert ab Beginn der laufenden Steuerperiode bis zum Zeitpunkt, in dem der Steueranspruch entsteht.
+<sup>1</sup> Für Grundstücke gilt als Bemessungsgrundlage der Steuerwert, der in Anwendung des Gesetzes über die direkten Kantonssteuern[^12-1] nach dem Wert des Grundstücks am Ende der letzten Steuerperiode festgesetzt wurde. Vorbehalten bleibt der Mehrwert ab Beginn der laufenden Steuerperiode bis zum Zeitpunkt, in dem der Steueranspruch entsteht.
+
+[^12-1]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
 
 #### Art. 13
 
@@ -259,8 +262,8 @@ beschliesst:
 
 <sup>1</sup> Von der Erbschaft können für die Steuerberechnung abgezogen werden:
 
-- a) Erbschaftsschulden einschliesslich Hypothekarschulden und die angemessene Entschädigung nach den Artikeln 334 und 334<sup>bis</sup> des Schweizerischen Zivilgesetzbuchs (ZGB);
-- b) Erbgangsschulden wie die Beerdigungskosten bis zu einem vom Staatsrat festgesetzten Höchstbetrag, die Erbgangskosten, die Unterhaltsansprüche nach Artikel 606 ZGB und die Erziehungskosten nach Artikel 631 Abs. 2 ZGB. Davon ausgeschlossen sind die Kosten in Zusammenhang mit der Erbteilung;
+- a) Erbschaftsschulden einschliesslich Hypothekarschulden und die angemessene Entschädigung nach den Artikeln 334 und 334<sup>bis</sup> des Schweizerischen Zivilgesetzbuchs (ZGB)[^22-1];
+- b) Erbgangsschulden wie die Beerdigungskosten bis zu einem vom Staatsrat festgesetzten Höchstbetrag, die Erbgangskosten, die Unterhaltsansprüche nach Artikel 606 ZGB[^22-2] und die Erziehungskosten nach Artikel 631 Abs. 2 ZGB[^22-3]. Davon ausgeschlossen sind die Kosten in Zusammenhang mit der Erbteilung;
 - c) Vermächtnisse.
 
 <sup>2</sup> Von der Zuwendung können die der Vermächtnisnehmerin oder dem Vermächtnisnehmer und der beschenkten Person auferlegten Schulden abgezogen werden.
@@ -268,6 +271,10 @@ beschliesst:
 <sup>3</sup> Lastet auf den übertragenen Vermögenswerten eine Nutzniessung, ein Wohn- oder Baurecht oder ist mit ihnen die Pflicht verbunden, periodische Leistungen auszurichten, so kann der kapitalisierte Wert dieser Lasten abgezogen werden. Ebenfalls abgezogen werden kann der wirtschaftliche Wert der Lasten und Auflagen, die die Bereicherung der Empfängerin oder des Empfängers einer Zuwendung unter Lebenden oder von Todes wegen schmälern.
 
 <sup>4</sup> Wird bei der Übertragung der belasteten Vermögenswerte eine Nutzniessung, ein Wohn- oder Baurecht errichtet, so kann der kapitalisierte Wert dieser Lasten vom Vermögenswert abgezogen werden.
+
+[^22-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+[^22-2]: SR [210](https://db.clex.ch/link/Bund/210/de)
+[^22-3]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
 #### Art. 23
 
@@ -296,18 +303,18 @@ beschliesst:
 <sup>1</sup> Die Steuer bemisst sich nach den folgenden Sätzen:
 
 - a) Begünstigte des zweiten Stammes:
-  - 1\. Geschwister: 5,25 %
-  - 2\. Neffen und Nichten: 8,25 %
-  - 3\. Grossneffen und Grossnichten: 10,50 %
-  - 4\. Nachkommen von Grossneffen und Grossnichten: 12,75 %
+  - 1\. Geschwister: — 5,25 %
+  - 2\. Neffen und Nichten: — 8,25 %
+  - 3\. Grossneffen und Grossnichten: — 10,50 %
+  - 4\. Nachkommen von Grossneffen und Grossnichten: — 12,75 %
 - b) Begünstigte des dritten Stammes:
-  - 1\. Onkel und Tanten: 8,25 %
-  - 2\. Cousins und Cousinen: 12,75 %
-  - 3\. Nachkommen von Cousins und Cousinen: 17,25 %
+  - 1\. Onkel und Tanten: — 8,25 %
+  - 2\. Cousins und Cousinen: — 12,75 %
+  - 3\. Nachkommen von Cousins und Cousinen: — 17,25 %
 - c) übrige verwandte oder nicht verwandte Begünstige:
-  - 1\. Stiefkinder oder Kinder der eingetragenen Partnerin oder des eingetragenen Partners, Pflegekinder und ihre Nachkommen: 7,75 %
-  - 2\. Personen, die seit mindestens zehn Jahren in Wohngemeinschaft mit gleichem steuerrechtlichen Wohnsitz gelebt haben: 8,25 %
-  - 3\. Andere verwandte oder nicht verwandte Begünstigte: 22,00 %
+  - 1\. Stiefkinder oder Kinder der eingetragenen Partnerin oder des eingetragenen Partners, Pflegekinder und ihre Nachkommen: — 7,75 %
+  - 2\. Personen, die seit mindestens zehn Jahren in Wohngemeinschaft mit gleichem steuerrechtlichen Wohnsitz gelebt haben: — 8,25 %
+  - 3\. Andere verwandte oder nicht verwandte Begünstigte: — 22,00 %
 
 <sup>2</sup> Bei Personen, die in Wohngemeinschaft mit gleichem steuerrechtlichen Wohnsitz leben, muss die Lebensgemeinschaft mindestens 10 Jahre ohne Unterbruch gedauert haben und zum Zeitpunkt, in dem der Steueranspruch entsteht, noch andauern. Die Begünstigten müssen den Nachweis der Dauer der Wohngemeinschaft erbringen.
 
@@ -498,7 +505,9 @@ beschliesst:
 
 **Beschwerde – Verfahren**
 
-<sup>1</sup> Das Beschwerdeverfahren richtet sich nach dem Gesetz über die Verwaltungsrechtspflege; die folgenden Bestimmungen bleiben vorbehalten.
+<sup>1</sup> Das Beschwerdeverfahren richtet sich nach dem Gesetz über die Verwaltungsrechtspflege[^46-1]; die folgenden Bestimmungen bleiben vorbehalten.
+
+[^46-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 #### Art. 47
 
@@ -610,11 +619,13 @@ beschliesst:
 - b) die Parteien bei Zuwendungen unter Lebenden das der Steuerpflicht unterliegende Geschäft rückgängig gemacht haben und die Schuldnerin oder der Schuldner den Nachweis erbringt, dass die Voraussetzungen für einen gesetzlichen Nichtigkeits- oder Aufhebungsgrund erfüllt sind;
 - c) der Entscheid, auf Grund dessen die Zahlung erfolgt ist, infolge einer Einsprache, einer Beschwerde oder einer Revision aufgehoben oder abgeändert wird;
 - d) sie oder er irrtümlicherweise einen nicht geschuldeten Betrag oder mehr als den geschuldeten Betrag bezahlt hat;
-- e) die Voraussetzungen nach Artikel 86 des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs erfüllt sind.
+- e) die Voraussetzungen nach Artikel 86 des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs[^58-1] erfüllt sind.
 
 <sup>2</sup> Eine Rückerstattung wird nicht gewährt, wenn sich herausstellt, dass im Rahmen des der Steuer unterliegenden Geschäfts vorsätzlich Steuern hinterzogen wurden.
 
 <sup>3</sup> Zuviel bezahlte Steuerbeträge werden mit einem Vergütungszins zu den von der Direktion festgelegten Bedingungen zurückerstattet, der ab dem Zeitpunkt der Bezahlung zu laufen beginnt.
+
+[^58-1]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
 
 #### Art. 59
 
@@ -718,7 +729,10 @@ beschliesst:
 
 <sup>1</sup> Für die strafbare Handlung nach Artikel 68 Abs. 1 ist die ordentliche Strafrichterin oder der ordentliche Strafrichter zuständig.
 
-<sup>2</sup> Die allgemeinen Bestimmungen des Schweizerischen Strafgesetzbuches und das Justizgesetz gelten unter Vorbehalt der besonderen Bestimmungen in den Artikeln 75 und 76.
+<sup>2</sup> Die allgemeinen Bestimmungen des Schweizerischen Strafgesetzbuches[^69-1] und das Justizgesetz[^69-2] gelten unter Vorbehalt der besonderen Bestimmungen in den Artikeln 75 und 76.
+
+[^69-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+[^69-2]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
 
 ## 9 Verjährung und Verwirkung
 

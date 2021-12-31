@@ -4,13 +4,12 @@ number: "635.2.1"
 title: "Loi sur l'impôt sur les successions et les donations"
 short: LISD
 language: fr
-version: 2019-01-01
-valid_until: 2021-12-31
-version_adopted: 2018-11-07
+version: 2022-01-01
+version_adopted: 2021-11-05
 adopted: 2007-09-14
 in_force: 2008-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/635.2.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6361/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8685/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Impôt sur les successions et les donations – L
 
 (LISD)
 
-du 14.09.2007 (version entrée en vigueur le 01.01.2019)
+du 14.09.2007 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -119,13 +118,13 @@ Décrète:
 
 <sup>2</sup> Sont également exonérés de l'impôt sur les successions et les donations:
 
-- a) les personnes morales qui bénéficient de l'exonération fiscale selon l'article 97 al. 1 let. g et h de la loi du 6 juin 2000 sur les impôts cantonaux directs (LICD) en raison des buts de service public, d'utilité publique ou cultuel qu'elles poursuivent;
-- b) les institutions de prévoyance professionnelle aux conditions prévues par l'article 80 al. 2 de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP);
-- c) les entreprises de personnes et les personnes morales pour les acquisitions de fortune en cas de restructuration au sens des articles 8 al. 3 et 24 al. 3 et 3<sup>quater</sup> de la loi fédérale du 14 décembre 1990 sur l'harmonisation des impôts directs des cantons et des communes;
+- a) les personnes morales qui bénéficient de l'exonération fiscale selon l'article 97 al. 1 let. g et h de la loi du 6 juin 2000 sur les impôts cantonaux directs (LICD)[^8-1] en raison des buts de service public, d'utilité publique ou cultuel qu'elles poursuivent;
+- b) les institutions de prévoyance professionnelle aux conditions prévues par l'article 80 al. 2 de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^8-2];
+- c) les entreprises de personnes et les personnes morales pour les acquisitions de fortune en cas de restructuration au sens des articles 8 al. 3 et 24 al. 3 et 3<sup>quater</sup> de la loi fédérale du 14 décembre 1990 sur l'harmonisation des impôts directs des cantons et des communes[^8-3];
 - d) les parents pour les acquisitions de fortune tenant lieu de partage total ou partiel, ou consécutives à de telles opérations, lorsqu'elles portent sur des objets provenant de ligne directe. Le conjoint ou la conjointe survivant-e ou le ou la partenaire enregistré-e survivant-e est également exonéré-e lorsqu'il ou elle participe à ces opérations;
 - e) le conjoint ou la conjointe divorcé-e et le ou la partenaire lors de la dissolution du partenariat enregistré si les acquisitions de fortune au sens de la lettre d portent sur des objets acquis sur la base d'un jugement de divorce ou de dissolution du partenariat enregistré;
 - f) le détenteur ou la détentrice de droits de participation revêtant la qualité de personne physique pour les acquisitions d'immeubles d'une société immobilière, en proportion de ses droits et en cas de liquidation totale de la société;
-- g) les bénéficiaires lors de transferts immobiliers déterminés par des opérations d'améliorations foncières et visés par le service chargé des améliorations foncières[^8-1] ou le service chargé des forêts et de la faune[^8-2] ou lors de transferts immobiliers réalisés en vue d'une régularisation peu importante de limites dictée par des raisons cadastrales;
+- g) les bénéficiaires lors de transferts immobiliers déterminés par des opérations d'améliorations foncières et visés par le service qui, selon la législation sur les améliorations foncières, est compétent en la matière[^8-4] ou lors de transferts immobiliers réalisés en vue d'une régularisation peu importante de limites dictée par des raisons cadastrales;
 - h) les bénéficiaires de droits de superficie sous forme de servitude concédés par une collectivité publique en vue d'une activité sportive, culturelle ou sociale et pouvant être assimilés à des subventions;
 - i) les bénéficiaires dans les cas prévus par d'autres dispositions légales.
 
@@ -135,8 +134,10 @@ Décrète:
 
 <sup>5</sup> Le Service cantonal des contributions publie une liste des personnes morales qui ont leur siège dans le canton de Fribourg et qui sont exonérées de l'impôt en raison de leurs buts de service public ou d'utilité publique en vertu de l'alinéa 2 let. a. Toute personne morale concernée peut demander à ne pas y figurer en adressant un courrier au Service cantonal des contributions.
 
-[^8-1]: Actuellement: Service de l'agriculture.
-[^8-2]: Actuellement: Service des forêts et de la nature.
+[^8-1]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
+[^8-2]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
+[^8-3]: RS [642.14](https://db.clex.ch/link/Bund/642.14/fr)
+[^8-4]: Actuellement: Grangeneuve ou Service des forêts et de la nature.
 
 #### Art. 9
 
@@ -151,7 +152,7 @@ Décrète:
 <sup>4</sup> La demande ne suspend pas le délai de réclamation.
 
 [^9-1]: Actuellement: Direction des finances.
-[^9-2]: Actuellement: Direction de l'économie et de l'emploi.
+[^9-2]: Actuellement: Direction de l'économie, de l'emploi et de la formation professionnelle.
 
 #### Art. 10
 
@@ -179,7 +180,9 @@ Décrète:
 
 **En particulier – Immeubles**
 
-<sup>1</sup> Pour les immeubles, la base de calcul est donnée par la valeur fiscale fixée en application de la loi sur les impôts cantonaux directs d'après l'état de l'immeuble à la fin de la dernière période fiscale. Est réservée la plus-value depuis le début de la période fiscale en cours jusqu'au moment où naît le droit de taxer.
+<sup>1</sup> Pour les immeubles, la base de calcul est donnée par la valeur fiscale fixée en application de la loi sur les impôts cantonaux directs[^12-1] d'après l'état de l'immeuble à la fin de la dernière période fiscale. Est réservée la plus-value depuis le début de la période fiscale en cours jusqu'au moment où naît le droit de taxer.
+
+[^12-1]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
 
 #### Art. 13
 
@@ -259,8 +262,8 @@ Décrète:
 
 <sup>1</sup> Sont déduits de la succession, pour le calcul de l'impôt:
 
-- a) les dettes du défunt ou de la défunte, y compris les dettes hypothécaires et l'indemnité équitable prévue aux articles 334 et 334<sup>bis</sup> du code civil suisse (CC);
-- b) les dettes de la succession, tels les frais funéraires jusqu'à un maximum fixé par le Conseil d'Etat, les frais de la dévolution, les frais d'entretien au sens de l'article 606 CC et les frais d'éducation au sens de l'article 631 al. 2 CC. Sont exclus les frais en relation avec le partage;
+- a) les dettes du défunt ou de la défunte, y compris les dettes hypothécaires et l'indemnité équitable prévue aux articles 334 et 334<sup>bis</sup> du code civil suisse (CC)[^22-1];
+- b) les dettes de la succession, tels les frais funéraires jusqu'à un maximum fixé par le Conseil d'Etat, les frais de la dévolution, les frais d'entretien au sens de l'article 606 CC[^22-2] et les frais d'éducation au sens de l'article 631 al. 2 CC[^22-3]. Sont exclus les frais en relation avec le partage;
 - c) les legs.
 
 <sup>2</sup> Sont déduites de la libéralité les dettes mises à la charge du ou de la légataire et du ou de la donataire.
@@ -268,6 +271,10 @@ Décrète:
 <sup>3</sup> Si les biens dévolus ou transférés sont grevés d'un droit d'usufruit, d'habitation, de superficie ou liés à l'obligation de verser des prestations périodiques, la valeur capitalisée de la charge est déduite. Il en est de même de la valeur économique des charges et des conditions qui diminuent l'enrichissement du ou de la bénéficiaire d'une libéralité entre vifs ou pour cause de mort.
 
 <sup>4</sup> Si un droit d'usufruit, d'habitation ou de superficie est constitué en même temps que la dévolution ou le transfert du bien grevé, la valeur capitalisée de la charge est déduite de la valeur du bien.
+
+[^22-1]: RS [210](https://db.clex.ch/link/Bund/210/fr)
+[^22-2]: RS [210](https://db.clex.ch/link/Bund/210/fr)
+[^22-3]: RS [210](https://db.clex.ch/link/Bund/210/fr)
 
 #### Art. 23
 
@@ -296,18 +303,18 @@ Décrète:
 <sup>1</sup> L'impôt dû à l'Etat est calculé aux taux d'imposition suivants:
 
 - a) pour les bénéficiaires issus de la deuxième parentèle:
-  - 1\. Frères et sœurs: 5,25 %
-  - 2\. Neveux et nièces: 8,25 %
-  - 3\. Petits-neveux et petites-nièces: 10,50 %
-  - 4\. Descendants des petits-neveux et petites-nièces: 12,75 %
+  - 1\. Frères et sœurs: — 5,25 %
+  - 2\. Neveux et nièces: — 8,25 %
+  - 3\. Petits-neveux et petites-nièces: — 10,50 %
+  - 4\. Descendants des petits-neveux et petites-nièces: — 12,75 %
 - b) pour les bénéficiaires issus de la troisième parentèle:
-  - 1\. Oncles et tantes: 8,25 %
-  - 2\. Cousins et cousines: 12,75 %
-  - 3\. Descendants des cousins et cousines: 17,25 %
+  - 1\. Oncles et tantes: — 8,25 %
+  - 2\. Cousins et cousines: — 12,75 %
+  - 3\. Descendants des cousins et cousines: — 17,25 %
 - c) pour les autres bénéficiaires avec ou sans degré de parenté:
-  - 1\. Enfants du ou de la conjoint-e ou partenaire enregistré-e, enfants placés ou recueillis, et leurs descendants: 7,75 %
-  - 2\. Personnes faisant ménage commun depuis dix ans au moins et ayant le même domicile fiscal: 8,25 %
-  - 3\. Autres bénéficiaires avec ou sans degré de parenté: 22,00 %
+  - 1\. Enfants du ou de la conjoint-e ou partenaire enregistré-e, enfants placés ou recueillis, et leurs descendants: — 7,75 %
+  - 2\. Personnes faisant ménage commun depuis dix ans au moins et ayant le même domicile fiscal: — 8,25 %
+  - 3\. Autres bénéficiaires avec ou sans degré de parenté: — 22,00 %
 
 <sup>2</sup> Pour les personnes faisant ménage commun et ayant le même domicile fiscal, la communauté de vie doit avoir duré pendant dix ans au moins sans discontinuité et exister au moment où naît le droit de taxer. La preuve de la durée du ménage commun incombe aux bénéficiaires.
 
@@ -498,7 +505,9 @@ Décrète:
 
 **Recours – Procédure**
 
-<sup>1</sup> La procédure de recours est régie par le code de procédure et de juridiction administrative, sous réserve des dispositions qui suivent.
+<sup>1</sup> La procédure de recours est régie par le code de procédure et de juridiction administrative[^46-1], sous réserve des dispositions qui suivent.
+
+[^46-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 #### Art. 47
 
@@ -610,11 +619,13 @@ Décrète:
 - b) lorsque, en cas de libéralité entre vifs, les parties ont annulé l'opération soumise à prélèvement et que la personne débitrice apporte la preuve que les conditions d'une cause légale de nullité ou d'annulabilité sont réunies;
 - c) lorsque la décision en vertu de laquelle elle a payé est annulée ou modifiée par suite de réclamation, de recours ou de révision;
 - d) lorsque, par erreur, elle a payé ce qu'elle ne devait pas ou plus qu'elle ne devait;
-- e) lorsque les conditions posées par l'article 86 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite sont remplies.
+- e) lorsque les conditions posées par l'article 86 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^58-1] sont remplies.
 
 <sup>2</sup> La restitution n'a pas lieu lorsqu'il se révèle que l'opération ayant fondé le prélèvement comprend une soustraction commise intentionnellement.
 
 <sup>3</sup> Les montants qui sont restitués portent intérêts rémunératoires dès le jour du paiement aux conditions fixées par la Direction.
+
+[^58-1]: RS [281.1](https://db.clex.ch/link/Bund/281.1/fr)
 
 #### Art. 59
 
@@ -718,7 +729,10 @@ Décrète:
 
 <sup>1</sup> L'infraction visée à l'article 68 al. 1 est de la compétence du ou de la juge pénal-e ordinaire.
 
-<sup>2</sup> Les dispositions générales du code pénal suisse et la loi sur la justice sont applicables, sous réserve des règles spéciales figurant aux articles 75 et 76.
+<sup>2</sup> Les dispositions générales du code pénal suisse[^69-1] et la loi sur la justice[^69-2] sont applicables, sous réserve des règles spéciales figurant aux articles 75 et 76.
+
+[^69-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
+[^69-2]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
 
 ## 9 Prescription et péremption
 
