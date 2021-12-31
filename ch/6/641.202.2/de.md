@@ -3,18 +3,18 @@ sr: "641.202.2"
 title: Verordnung des EFD vom 24. März 2011 über die Steuerbefreiung von Inlandlieferungen von Gegenständen zwecks Ausfuhr im Reiseverkehr
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/186"
 language: de
-version: 2020-08-01
+version: 2022-01-01
 adopted: 2011-03-24
 in_force: 2011-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/186/20200801/de/xml/fedlex-data-admin-ch-eli-cc-2011-186-20200801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/186/20200801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/186/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-186-20220101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/186/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EFD über die Steuerbefreiung von Inlandlieferungen von Gegenständen zwecks Ausfuhr im Reiseverkehr
 
-vom 24. März 2011 (Stand am 1. August 2020)
+vom 24. März 2011 (Stand am 1. Januar 2022)
 
 Das Eidgenössische Finanzdepartement (EFD),
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 23 Absatz 5 des Mehrwertsteuergesetzes vom 12. Juni 2009[^
 
 verordnet:
 
-[^ingress-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^ingress-1]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 
 #### Art. 1
 
@@ -70,13 +70,15 @@ Das Ausfuhrdokument muss enthalten:
 
 #### Art. 4
 
-**Bestätigung durch die Eidgenössische Zollverwaltung bei der Ausfuhr**
+**Bestätigung durch das Bundesamt für Zoll und Grenzsicherheit[^4-1] bei der Ausfuhr**
 
 <sup>1</sup> Werden die im Ausfuhrdokument aufgeführten Gegenstände über eine besetzte Zollstelle ins Zollausland verbracht, so muss der Abnehmer oder die Abnehmerin sie unter Vorlage des Ausfuhrdokuments bei der Zollstelle mündlich anmelden.
 
 <sup>2</sup> Die Zollstelle bestätigt die Ausfuhr auf dem Ausfuhrdokument.
 
 <sup>3</sup> Der Abnehmer oder die Abnehmerin ist für die Zustellung des bestätigten Ausfuhrdokuments an den Lieferanten oder die Lieferantin verantwortlich.
+
+[^4-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 

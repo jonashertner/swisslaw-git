@@ -3,18 +3,18 @@ sr: "641.202.2"
 title: "Ordonnance du DFF du 24 mars 2011 régissant l'exonération fiscale de livraisons de biens sur le territoire suisse en vue de l'exportation dans le trafic touristique"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/186"
 language: fr
-version: 2020-08-01
+version: 2022-01-01
 adopted: 2011-03-24
 in_force: 2011-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/186/20200801/fr/xml/fedlex-data-admin-ch-eli-cc-2011-186-20200801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/186/20200801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/186/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-186-20220101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/186/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFF régissant l’exonération fiscale de livraisons de biens sur le territoire suisse en vue de l’exportation dans le trafic touristique
 
-du 24 mars 2011 (Etat le 1<sup>er</sup> août 2020)
+du 24 mars 2011 (État le 1<sup>er</sup> janvier 2022)
 
 Le Département fédéral des finances (DFF),
 
@@ -22,7 +22,7 @@ vu l’art. 23, al. 5, de la loi du 12 juin 2009 sur la TVA[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^ingress-1]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 
 #### Art. 1
 
@@ -54,6 +54,8 @@ Les conditions fixées à l’art. 1 sont considérées remplies si le fournisse
 
 **Document d’exportation**
 
+<sup>1</sup>
+
 Le document d’exportation doit contenir:
 
 - a. la mention «Document d’exportation dans le cadre du trafic touristique»;
@@ -68,13 +70,15 @@ Le document d’exportation doit contenir:
 
 #### Art. 4
 
-**Attestation de l’Administration fédérale des douanes lors de l’exportation**
+**Attestation de l’Office fédéral de la douane et de la sécurité des frontières[^4-1] lors de l’exportation**
 
 <sup>1</sup> Si les biens indiqués sur le document d’exportation sont acheminés vers le territoire douanier étranger par un bureau de douane occupé, l’acquéreur doit les déclarer verbalement auprès du bureau de douane tout en présentant le document d’exportation.
 
 <sup>2</sup> Le bureau de douane atteste l’exportation sur le document d’exportation.
 
 <sup>3</sup> L’acquéreur est responsable de la remise du document d’exportation comportant l’attestation au fournisseur.
+
+[^4-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 
