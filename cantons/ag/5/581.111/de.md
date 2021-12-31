@@ -4,13 +4,12 @@ number: "581.111"
 title: Verordnung zum Feuerwehrgesetz
 short: "Feuerwehrverordnung, FwV"
 language: de
-version: 2015-01-01
-valid_until: 2021-12-31
-version_adopted: 2014-11-05
+version: 2022-01-01
+version_adopted: 2021-09-22
 adopted: 1996-12-04
 in_force: 1997-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/581.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2046/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3753/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2046/pdf_file"
 
 (Feuerwehrverordnung, FwV)
 
-Vom 04.12.1996 (Stand 01.01.2015)
+Vom 04.12.1996 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -79,19 +78,19 @@ beschliesst:
 
 #### § 6
 
-**Betriebsfeuerwehren und Löschgruppen (§ 20 FwG)**
+**Betriebsfeuerwehren und Betriebslöschgruppen (§ 20 FwG)**
 
-<sup>1</sup> Die Betriebsfeuerwehren und Löschgruppen werden gemäss Personenbelegung, Brandbelastung, Aktivierungsgefahr und Versicherungswert der Betriebe nach den Richtlinien der Aargauischen Gebäudeversicherung in Grössenklassen eingeteilt, nach denen sich Organisation und Ausrüstung richten.
+<sup>1</sup> Die Betriebsfeuerwehren und Betriebslöschgruppen werden gemäss Personenbelegung, Brandbelastung, Aktivierungsgefahr und Versicherungswert der Betriebe gemäss den Richtlinien der Aargauischen Gebäudeversicherung in Grössenklassen eingeteilt, nach denen sich Organisation und Ausrüstung richten.
 
 <sup>2</sup> Die in einer aargauischen Betriebsfeuerwehr eingeteilten Feuerwehrpflichtigen sind vom Pflichtersatz in der Wohngemeinde befreit.
 
-<sup>3</sup> Die Betriebsfeuerwehr wird aus den zum Feuerwehrdienst geeigneten Betriebsangehörigen rekrutiert. In erster Linie sind diejenigen einzuteilen, die in der näheren Umgebung des Betriebes Wohnsitz haben. In Ausnahmefällen können auch Betriebsangehörige aus umliegenden Gemeinden eingeteilt werden. Deren Einteilung erfolgt im Einvernehmen mit den zuständigen Feuerwehrkommissionen ihrer Wohngemeinden.
+<sup>3</sup> Die Betriebsfeuerwehr wird aus den zum Feuerwehrdienst geeigneten Betriebsangehörigen rekrutiert. In erster Linie sind diejenigen einzuteilen, die in der näheren Umgebung des Betriebes Wohnsitz haben.
 
 <sup>4</sup> Betriebsfeuerwehrleute können zusätzlich in der Feuerwehr ihrer Wohngemeinde Dienst leisten. Der Einsatz soll nach Möglichkeit entsprechend ihrer Ausbildung erfolgen. Von gewissen Schulübungen können sie dispensiert werden.
 
-<sup>5</sup> Für Anschaffung und Einsatzbereitschaft der erforderlichen Geräte und Ausrüstungsgegenstände ist der Betrieb auf seine Kosten verantwortlich. Desgleichen ist die Entschädigung der Betriebsfeuerwehren und Löschgruppen bei Übungen und Ernstfalleinsätzen inner- und ausserhalb des Betriebes seine Sache.
+<sup>5</sup> Für Anschaffung und Einsatzbereitschaft der erforderlichen Geräte und Ausrüstungsgegenstände ist der Betrieb auf seine Kosten verantwortlich. Desgleichen ist die Entschädigung der Betriebsfeuerwehren und Betriebslöschgruppen bei Übungen und Ernstfalleinsätzen inner- und ausserhalb des Betriebes seine Sache.
 
-<sup>6</sup> Die Löschgruppen sind der Ortsfeuerwehr unterstellt.
+<sup>6</sup> Die Betriebslöschgruppen sind der Ortsfeuerwehr unterstellt.
 
 <sup>7</sup> Liegt ein Betrieb auf verschiedenen Gemeindegebieten, entscheidet die Aargauische Gebäudeversicherung, welche Gemeinde für das Feuerwehrwesen des gesamten Betriebes zuständig ist.
 
@@ -145,15 +144,17 @@ beschliesst:
 
 <sup>2</sup> Die Gemeinden haben dafür zu sorgen, dass ständig genügend Wasser für Feuerlöschzwecke zur Verfügung steht. Sie bestätigen dies der Aargauischen Gebäudeversicherung in einer schriftlichen Löschreserveverpflichtung.
 
-<sup>3</sup> Die Grösse der Löschreserve wird durch die Aargauische Gebäudeversicherung festgelegt. Sie richtet sich grundsätzlich nach Gebäudezahl, vorherrschender Bauweise und besonderen Risiken, muss jedoch mindestens 100 m³ betragen. Ausreichend ist ein dynamischer Druck (Fliessdruck) am Hydranten von 3,5 bar bei der massgebenden Löschwasserbezugsmenge. Sofern die Feuerwehr über Druckverstärkungseinrichtungen wie Tanklöschfahrzeuge oder Motorspritzen verfügt, genügt ein dynamischer Druck von 2 bar. Für die Löschwasserbezugsmenge und die Löschwasserbezugsdauer wird auf die Richtlinie «Leitfaden für die Versorgung mit Löschwasser», Ausgabe 2003, des Schweizerischen Feuerwehrverbandes verwiesen.
+<sup>3</sup> Die Grösse der Löschreserve wird durch die Aargauische Gebäudeversicherung festgelegt. Sie richtet sich grundsätzlich nach Gebäudezahl, vorherrschender Bauweise und besonderen Risiken, muss jedoch mindestens 100 m³ betragen. Ausreichend ist ein dynamischer Druck (Fliessdruck) am Hydranten von 3,5 bar bei der massgebenden Löschwasserbezugsmenge. Sofern die Feuerwehr über Druckverstärkungseinrichtungen wie Tanklöschfahrzeuge oder Motorspritzen verfügt, genügt ein dynamischer Druck von 2 bar. Für die Löschwasserbezugsmenge und die Löschwasserbezugsdauer ist die Richtlinie «Versorgung mit Löschwasser», Ausgabe 2019, der Feuerwehr Koordination Schweiz FKS[^11-1] beizuziehen.
 
 <sup>4</sup> Entsprechend der im Einzelfall benötigten Wassermenge müssen in genügender Zahl Wasserbezugsorte (Überflurhydranten) vorhanden sein.
 
-<sup>5</sup> Jede Gemeinde hat nach den Richtlinien der Aargauischen Gebäudeversicherung einen Hydrantenplan anzulegen und nachzuführen, der der Feuerwehr in genügender Anzahl zur Verfügung zu stellen ist.
+<sup>5</sup> Jede Gemeinde hat gemäss den Richtlinien der Aargauischen Gebäudeversicherung einen Hydrantenplan anzulegen und nachzuführen, welcher der Feuerwehr in genügender Anzahl zur Verfügung zu stellen ist.
 
 <sup>6</sup> Die Aargauische Gebäudeversicherung kann die Normierung oder Typenprüfung von Lösch- oder Rettungseinrichtungen und Geräten verlangen. Sie ist auch berechtigt, alle Neuanschaffungen einer fachmännischen Kontrolle zu unterziehen.
 
 <sup>7</sup> Bei Gefahr von Bränden, die nicht mit Wasser gelöscht werden können, sind die erforderlichen Geräte und Speziallöschmittel von Gemeinden oder Betrieben auf ihre Kosten bereitzustellen.
+
+[^11-1]: www.feukos.ch
 
 #### § 12
 
@@ -171,11 +172,9 @@ beschliesst:
 
 <sup>1</sup> Die Brandschutzgesetzgebung legt fest, welche Betriebe als feuergefährlich gelten sowie welche Bauten und Räume zur Aufnahme einer grösseren Zahl von Personen dienen.
 
-<sup>2</sup> Die Kontrolle der Funktionsbereitschaft der besonderen Löscheinrichtungen, wie insbesondere von Löschposten und Handfeuerlöschern, hat nach der Brandschutzrichtlinie «Löscheinrichtungen»[^13-1], 01.01.2015/18-15de, der Vereinigung Kantonaler Feuerversicherungen (VKF) zu erfolgen.
+<sup>2</sup> Die Kontrolle der Funktionsbereitschaft der besonderen Löscheinrichtungen, wie insbesondere von Löschposten und Handfeuerlöschern, hat gemäss den geltenden Vorschriften des Brandschutzes zu erfolgen.
 
 <sup>3</sup> Landwirtschaftliche Siedlungsbetriebe sind gewerblichen Betrieben gleichgestellt.
-
-[^13-1]: Anhang 10 zur Brandschutzverordnung (BSV) vom 23. März 2005 (SAR [585.113](https://gesetzessammlungen.ag.ch/data/585.113/de))
 
 ## 5. Ausbildung der Feuerwehr und Gradzuteilung
 
@@ -185,33 +184,33 @@ beschliesst:
 
 <sup>1</sup> Die Aargauische Gebäudeversicherung legt die einheitlichen Anforderungen an die Ausbildung fest.
 
-<sup>2</sup> Zur Ausbildung von Neueingeteilten, ferner zur Ausbildung und Weiterbildung von Chargierten und Spezialisten bzw. Spezialistinnen finden periodisch Kurse statt, die durch die Aargauische Gebäudeversicherung oder Fachstellen (Schweizerischer oder Aargauischer Feuerwehrverband, Bezirksfeuerwehrverbände usw.) bzw. unter deren Beizug durchgeführt werden.
+<sup>2</sup> Zur Aus- und Weiterbildung von Angehörigen der Feuerwehr finden periodisch Kurse statt, die durch die Aargauische Gebäudeversicherung durchgeführt werden. Sie kann hierfür Fachverbände beiziehen.
 
 <sup>3</sup> Der Besuch kantonaler Ausbildungskurse setzt eine genügende feuerwehrtechnische Vorbildung voraus.
 
-<sup>4</sup> Gemeinden und Betriebe mit Betriebsfeuerwehren oder Löschgruppen haben für den Besuch der Ausbildungs- und Weiterbildungskurse zu sorgen.
+<sup>4</sup> Gemeinden und Betriebe mit Betriebsfeuerwehren oder Betriebslöschgruppen haben für den Besuch der Aus- und Weiterbildungskurse zu sorgen.
 
 #### § 15
 
-**Ernennung von Chargierten (§ 6 Ziff. 5 lit. e FwG)**
+**Ernennung von Funktionsträgern (§ 22 Abs. 1 FwG)**
 
-<sup>1</sup> Die Ernennung von Chargierten darf nur erfolgen, wenn die vorgeschriebenen Kurse mit Erfolg bestanden wurden. In Ausnahmefällen können Chargen oder Kommandos vorübergehend ohne Verleihung des Grades übertragen werden. In diesen Fällen bestimmt die Aargauische Gebäudeversicherung, innert welcher Frist fehlende Kurse nachzuholen sind.
+<sup>1</sup> Die Ernennung von Funktionsträgern darf nur erfolgen, wenn die vorgeschriebenen Kurse mit Erfolg bestanden wurden. In Ausnahmefällen können Funktionen vorübergehend ohne Verleihung des Grades übertragen werden. In diesen Fällen bestimmt die Aargauische Gebäudeversicherung, innert welcher Frist fehlende Kurse nachzuholen sind.
 
 <sup>2</sup> Es haben zu bestehen:
 
 - a) Gruppenführer und Gruppenführerinnen (Unteroffiziere und Unteroffizierinnen) mindestens einen Gruppenführerkurs,
 - b) Kommandanten und Kommandantinnen, Stellvertreter und Stellvertreterinnen, Offiziere und Offizierinnen mindestens den Offizierskurs nach bestandenem Gruppenführerkurs,
-- c) Chargierte, soweit möglich, den Atemschutztruppführerkurs und den Maschinistenkurs,
+- c) Funktionsträger die für die Ausübung ihrer Funktion notwendigen Kurse,
 - d) Spezialisten und Spezialistinnen die entsprechenden Kurse.
 
 #### § 16
 
-**Dienstgrade (§ 6 Ziff. 5 lit. e FwG)**
+**Dienstgrade (§ 6 Abs. 1 Ziff. 5 lit. e FwG)**
 
 <sup>1</sup> Es gelten folgende Dienstgrade:
 
 <table>
-<tr><th>Dienstgrad</th><th>Chef/Chefin</th><th>Stellvertretung</th></tr>
+<tr><th>Funktion</th><th>Dienstgrad</th><th>Stellvertretung</th></tr>
 <tr><td>Chef / Chefin in der Abteilung Feuerwehrwesen der Aargauischen Gebäudeversicherung</td><td>Oberst / Oberstleutnant</td><td>Oberstleutnant / Major</td></tr>
 <tr><td>Kommandant / Kommandantin Stützpunktfeuerwehr A</td><td>Major</td><td>Hauptmann (Hptm)</td></tr>
 <tr><td>Kommandant / Kommandantin Stützpunktfeuerwehr B und Gemeindefeuerwehr</td><td>Hptm</td><td>Oberleutnant (Oblt)</td></tr>
@@ -228,15 +227,15 @@ beschliesst:
 
 #### § 17
 
-**Beförderung (§ 6 Ziff. 5 lit. e FwG)**
+**Beförderung (§ 6 Abs. 1 Ziff. 5 lit. e FwG)**
 
 <sup>1</sup> Die Beförderung setzt Bewährung im Feuerwehrdienst sowie ausreichende Ausbildung und Erfahrung voraus. Die Aargauische Gebäudeversicherung erlässt Richtlinien.
 
 #### § 18
 
-**Altersgrenze für Chargierte**
+**Altersgrenze für Angehörige der Feuerwehr**
 
-<sup>1</sup> Chargierte sind nach Vollendung des 60. Altersjahres aus dem aktiven Feuerwehrdienst zu entlassen.
+<sup>1</sup> Angehörige der Feuerwehr sind spätestens nach Vollendung des 60. Altersjahres aus dem aktiven Feuerwehrdienst zu entlassen.
 
 <sup>2</sup> Ausnahmen sind möglich, wenn die berufliche Stellung direkt mit der Funktion in der Feuerwehr verbunden ist.
 
@@ -284,7 +283,7 @@ beschliesst:
 
 **Versicherung (§ 12 FwG)**
 
-<sup>1</sup> Die Versicherung der Instruktoren und Instruktorinnen beim Schweizerischen Feuerwehrverband ist grundsätzlich Sache der Wohngemeinde.
+<sup>1</sup> Die Versicherung der Instruktoren und Instruktorinnen ist grundsätzlich Sache der Wohngemeinde.
 
 #### § 24
 
@@ -316,7 +315,7 @@ beschliesst:
 
 <sup>4</sup> Der Grad in der Feuerwehr erfährt durch die Ernennung keine Änderung.
 
-## 7. Brand- und Wehrdienste
+## 7. Einsatzdienst
 
 #### § 26
 
@@ -334,7 +333,7 @@ beschliesst:
 
 **Kommandoverhältnisse auf dem Schadenplatz (§ 28 FwG)**
 
-<sup>1</sup> Der Feuerwehrkommandant bzw. die Feuerwehrkommandantin des Schadenortes leitet den Einsatz der Feuerwehr, bei seiner bzw. ihrer Abwesenheit der bzw. die höchste anwesende Chargierte.
+<sup>1</sup> Der Feuerwehrkommandant beziehungsweise die Feuerwehrkommandantin des Schadenortes leitet den Einsatz der Feuerwehr, bei seiner beziehungsweise ihrer Abwesenheit der höchste anwesende Funktionsträger beziehungsweise die höchste anwesende Funktionsträgerin.
 
 <sup>2</sup> Ereignet sich in einem Betrieb mit eigener Feuerwehr ein Schaden, führt der Kommandant bzw. die Kommandantin der Betriebsfeuerwehr den Befehl. Hilfeleistende haben sich zu unterstellen.
 
@@ -342,7 +341,7 @@ beschliesst:
 
 <sup>4</sup> Ist mehr als eine Stützpunktfeuerwehr A am Einsatz beteiligt, obliegt die Einsatzleitung dem zuerst eintreffenden Stützpunkt.
 
-<sup>5</sup> Löschgruppen unterstellen sich dem Kommando der zuständigen Ortsfeuerwehr.
+<sup>5</sup> Betriebslöschgruppen unterstellen sich dem Kommando der zuständigen Ortsfeuerwehr.
 
 <sup>6</sup> Ist das Schadenereignis zur Hauptsache bewältigt, ordnet die Einsatzleitung die sukzessive Entlassung der Feuerwehrleute an.
 
@@ -354,7 +353,7 @@ beschliesst:
 
 <sup>1</sup> Betriebsfeuerwehren sind in der Gemeinde zur Hilfeleistung verpflichtet. Soweit es die Verhältnisse im Betrieb erlauben, gilt dies auch für nachbarliche Hilfeleistung.
 
-<sup>2</sup> Bei Brand- und Wehrdiensten kann von der Einsatzleitung grundsätzlich innerhalb eines Umkreises von 6 km Hilfeleistung verlangt werden.
+<sup>2</sup> Bei Einsatzdiensten kann von der Einsatzleitung grundsätzlich innerhalb eines Umkreises von 6 km Hilfeleistung verlangt werden.
 
 <sup>3</sup> Gemeinden können mit Zustimmung der Aargauischen Gebäudeversicherung auch Vereinbarungen über ausserkantonale Hilfeleistung treffen.
 
@@ -374,7 +373,7 @@ beschliesst:
 
 **Aufgebot der Stützpunktfeuerwehr A (§ 35 FwG)**
 
-<sup>1</sup> Bei Brand- und Wehrdiensten kann die Einsatzleitung den Stützpunkt A der Region alarmieren. Sonderregelungen mit Nachbarstützpunkten sind möglich.
+<sup>1</sup> Bei Einsatzdiensten kann die Einsatzleitung den Stützpunkt A der Region alarmieren. Sonderregelungen mit Nachbarstützpunkten sind möglich.
 
 <sup>2</sup> Das Aufgebot von Stützpunktfeuerwehren A ausserhalb der eigenen Region kann durch die Einsatzleitung des zuständigen Stützpunktes A, die Aargauische Gebäudeversicherung oder den kantonalen Führungsstab erfolgen.
 
