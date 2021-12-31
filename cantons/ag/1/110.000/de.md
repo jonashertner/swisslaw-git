@@ -4,20 +4,20 @@ number: "110.000"
 title: Verfassung des Kantons Aargau
 short: "Kantonsverfassung, KV"
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-06-30
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2019-12-10
 adopted: 1980-06-25
 in_force: 1982-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/110.000"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2904/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3031/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Aargau
 
-Vom 25.06.1980 (Stand 01.01.2021)
+Vom 25.06.1980 (Stand 01.01.2022)
 
 Das Aargauer Volk,
 
@@ -309,7 +309,7 @@ gibt sich nachstehende Verfassung:
 <sup>1</sup> Durch Gesetz werden festgelegt:
 
 - a) die Entscheidungsbefugnisse des Erziehungsrates und seine Zuständigkeiten als vorberatendes Organ des Regierungsrates,
-- b) die Zuständigkeiten der Bezirksschulräte und der Schulpflegen.
+- b) die Zuständigkeiten der Bezirksschulräte und der Gemeinderäte.
 
 #### § 32
 
