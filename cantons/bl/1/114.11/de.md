@@ -4,13 +4,13 @@ number: "114.11"
 title: Verordnung zum Integrationsgesetz
 short: Integrationsverordnung
 language: de
-version: 2019-01-01
-valid_until: 2021-12-31
-version_adopted: 2018-06-05
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-12-14
 adopted: 2007-12-18
 in_force: 2008-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/114.11"
-pdf: "https://bl.clex.ch/api/de/versions/2243/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3175/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2243/pdf_file"
 
 (Integrationsverordnung)
 
-Vom 18.12.2007 (Stand 01.01.2019)
+Vom 18.12.2007 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -106,11 +106,11 @@ beschliesst:
 
 **Kursanbietende**
 
-<sup>1</sup> Die Information, welche Sprach- und Integrationskurse sowie deren Zertifikate im Sinne von § 6 Absatz 3 Buchstaben a und b anerkennungswürdig sind und den kantonalen Qualitätsanforderungen entsprechen, ist bei der Bildungs-, Kultur- und Sportdirektion, Fachstelle Erwachsenenbildung, einzuholen.
+<sup>1</sup> Die Information, welche Sprach- und Integrationskurse sowie deren Zertifikate im Sinne von § 6 Abs. 3 Bst. a und b anerkennungswürdig sind und den kantonalen Qualitätsanforderungen entsprechen, ist bei der Bildungs-, Kultur- und Sportdirektion, Dienststelle Berufsbildung, Mittelschulen und Hochschulen, einzuholen.
 
 <sup>2</sup> Die Sicherheitsdirektion sorgt für die Bekanntmachung der anerkannten Kursanbietenden sowie der anerkannten Kurse und Zertifikate.
 
-<sup>3</sup> Die Anerkennung der Kursanbietenden und deren Kurse sowie Zertifikate wird von der Bildungs-, Kultur- und Sportdirektion, Fachstelle Erwachsenenbildung, regelmässig überprüft.
+<sup>3</sup> Die Anerkennung der Kursanbietenden und deren Kurse sowie Zertifikate wird von der Bildungs-, Kultur- und Sportdirektion, Dienststelle Berufsbildung, Mittelschulen und Hochschulen, regelmässig überprüft.
 
 #### § 8
 
