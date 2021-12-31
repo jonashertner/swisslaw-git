@@ -4,13 +4,13 @@ number: "935.211"
 title: Verordnung zum Fischereigesetz des Kantons Aargau
 short: "Aargauische Fischereiverordnung, AFV"
 language: de
-version: 2019-06-30
-valid_until: 2021-12-31
-version_adopted: 2019-05-29
+version: 2022-01-01
+valid_until: 2024-06-30
+version_adopted: 2021-10-27
 adopted: 2012-12-12
 in_force: 2013-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/935.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2744/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3121/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2744/pdf_file"
 
 (Aargauische Fischereiverordnung, AFV)
 
-Vom 12.12.2012 (Stand 30.06.2019)
+Vom 12.12.2012 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -70,7 +70,7 @@ beschliesst:
 
 **Voraussetzungen für die Ausübung der Fischerei (§ 11 AFG)**
 
-<sup>1</sup> Das Mindestalter für den Bezug einer Fischereikarte beträgt 12 Jahre.
+<sup>1</sup> Das Mindestalter für den Bezug einer Fischereikarte beträgt 12 Jahre; am Hallwilersee ist eine Fischereikarte ab einem Alter von 10 Jahren erhältlich.
 
 <sup>2</sup> Bei Fischereikarten ohne Foto der fischereiberechtigten Person ist ein amtlicher Personalausweis mitzuführen.
 
@@ -144,8 +144,8 @@ beschliesst:
 <sup>1</sup> Erlaubt sind
 
 - a) die Angelfischerei mit einer Angelrute beziehungsweise mit einer Schnur mit höchstens fünf Angeln (einfache Angel oder Dreiangel),
-- b) die Verwendung von höchstens zwei Angelruten beziehungsweise von Schnüren mit je höchstens fünf Angeln (einfache Angel oder Dreiangel) vom 1. März bis 30. September in Rhein, Aare, Reuss und Limmat sowie im Hallwilersee,
-- c) die Verwendung von höchstens zwei Hauptschnüren mit je höchstens fünf Anbissstellen für die Schleppfischerei im Hallwilersee,
+- b) die Verwendung von höchstens zwei Angelruten beziehungsweise von zwei Schnüren mit je höchstens fünf Angeln (einfache Angel oder Dreiangel) vom 1. März bis 30. September in Rhein, Aare, Reuss und Limmat,
+- c) die Verwendung von zwei Angelruten sowie höchstens zwei Hauptschnüren mit je höchstens fünf Anbissstellen für die Schleppfischerei ganzjährig im Hallwilersee,
 - d) die Verwendung von Angeln mit Widerhaken für die Hegenen- und Schleppangelfischerei,
 - e) der Fischfang von Brücken und von anderen erhöhten Standorten aus mit einem der Höhendifferenz zur Wasseroberfläche angepassten Fischlandegerät,
 - f) der Fang von Krebsen mit Krebstellern und Krebsreusen oder von Hand.
@@ -177,7 +177,7 @@ beschliesst:
 <sup>1</sup> Die Verwendung lebender Köderfische ist nur erlaubt
 
 - a) in Weihern und Kleinseen mit einer Fläche bis 30 Hektaren,
-- b) im Hallwilersee in verkrauteten Bereichen der Uferzone (150 m) vom 1. Mai bis 31. Januar.
+- b) …
 
 <sup>2</sup> Es dürfen nur im Einzugsgebiet heimische Köderfische verwendet werden.
 
@@ -197,7 +197,7 @@ beschliesst:
 
 **f) Netze und Reusen**
 
-<sup>1</sup> Der Fischfang mit Netzen und Reusen ist Pächterinnen und Pächtern staatlicher Fischereireviere sowie Eigentümerinnen und Eigentümern bestehender privater Fischereirechte im Hallwilersee erlaubt.
+<sup>1</sup> Der Fischfang mit Netzen und Reusen ist Pächterinnen und Pächtern staatlicher Fischereireviere sowie Eigentümerinnen und Eigentümern bestehender privater Fischereirechte im Hallwilersee mit einem Netzfischereipatent erlaubt.
 
 <sup>2</sup> Die Verwendung von Netzen, Handnetzen, Reusen und Fischergalgen in Rhein, Aare, Reuss und Limmat richtet sich gemäss dem Pachtvertrag oder dem Inhalt der privaten Fischereirechte.
 
@@ -223,13 +223,21 @@ beschliesst:
 
 <sup>3</sup> Mit Bewilligung der Fachstelle dürfen Fische während ihrer Schonzeit zur Gewinnung des für die Fischzucht erforderlichen Brutmaterials gefangen werden. Die Bewilligung nennt die erlaubten Fanggeräte.
 
+<sup>4</sup> Für den Hallwilersee und die Aare, soweit sie die Grenze zwischen den Kantonen Aargau und Solothurn bildet, legen die beiden folgenden interkantonalen Verträge die Schonzeiten fest:
+
+- a) Übereinkunft über den Fischfang im Hallwilersee vom 27. Oktober 2021[^15-1],
+- b) Übereinkunft betreffend die Ausübung der Fischerei in der Aare, soweit diese die Grenze zwischen den Kantonen Aargau und Solothurn bildet, vom 3. Dezember 2008 / 16. Dezember 2008[^15-2].
+
+[^15-1]: SAR [935.040](https://gesetzessammlungen.ag.ch/data/935.040/de)
+[^15-2]: SAR [935.030](https://gesetzessammlungen.ag.ch/data/935.030/de)
+
 #### § 16
 
 **b) Fangmindestmasse**
 
 <sup>1</sup> Es gelten folgende Fangmindestmasse:
 
-- a) Aal — 50 cm,
+- a) …
 - b) Äsche — 32 cm,
 - c) Barbe im Bach — 30 cm,
 - d) Barbe in Rhein, Aare, Reuss und Limmat — 35 cm,
@@ -237,7 +245,7 @@ beschliesst:
 - f) Felchen — 25 cm,
 - g) Forelle im Bach und Weiher — 22 cm,
 - h) Forelle in Rhein, Aare, Reuss und Limmat — 28 cm,
-- i) Forelle im See — 35 cm,
+- i) …
 - j) Hecht — 50 cm,
 - k) Karpfen — 30 cm,
 - l) Schleie — 25 cm,
@@ -246,11 +254,15 @@ beschliesst:
 
 <sup>2</sup> Fische und Krebse, die das festgesetzte Fangmindestmass nicht erreichen, sind sofort und mit aller Sorgfalt ins Gewässer zurückzuversetzen. Die Angel ist von der Schnur abzuschneiden, wenn sie sich nicht ohne Verletzung des gefangenen Fisches entfernen lässt.
 
+<sup>3</sup> Für den Hallwilersee und die Aare, soweit sie die Grenze zwischen den Kantonen Aargau und Solothurn bildet, legen die beiden interkantonalen Verträge (§ 15 Abs. 4) die Fangmindestmasse fest.
+
 #### § 17
 
 **c) Fangbeschränkungen**
 
-<sup>1</sup> In Rhein, Aare, Reuss, Limmat und im Hallwilersee dürfen Fischereiberechtigte gesamthaft pro Tag höchstens sechs Fische der Arten Forelle, Äsche und Hecht fangen.
+<sup>1</sup> In Rhein, Aare, Reuss und Limmat dürfen Fischereiberechtigte gesamthaft pro Tag höchstens sechs Fische der Arten Forelle, Äsche und Hecht fangen.
+
+<sup>1<sup>bis</sup></sup> Für den Hallwilersee und die Aare, soweit sie die Grenze zwischen den Kantonen Aargau und Solothurn bildet, legen die beiden interkantonalen Verträge (§ 15 Abs. 4) die Fangbeschränkungen fest.
 
 <sup>2</sup> Pächterinnen und Pächter staatlicher Fischereireviere sowie Eigentümerinnen und Eigentümer bestehender privater Fischereirechte dürfen in ihrem Revier beziehungsweise Gewässerabschnitt Krebse fangen. Alle anderen Fischereiberechtigten dürfen den Krebsfang nur mit deren Einverständnis und mit Bewilligung der Fachstelle ausüben.
 
