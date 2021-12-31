@@ -3,18 +3,18 @@ sr: "681.41"
 title: Verordnung vom 5. Juni 1989 über die Übernahme gebrannter Wasser durch das Bundesamt für Zoll und Grenzsicherheit
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/1186_1186_1186"
 language: de
-version: 2018-01-01
+version: 2022-01-01
 adopted: 1989-06-05
 in_force: 1989-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1186_1186_1186/20180101/de/xml/fedlex-data-admin-ch-eli-cc-1989-1186_1186_1186-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/1186_1186_1186/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1186_1186_1186/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1989-1186_1186_1186-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/1186_1186_1186/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über die Übernahme gebrannter Wasser durch die Eidgenössische Zollverwaltung****
+# Verordnung über die Übernahme gebrannter Wasser durch das Bundesamt für Zoll und Grenzsicherheit
 
-vom 5. Juni 1989 (Stand am 1. Januar 2018)[^t-1]
+vom 5. Juni 1989 (Stand am 1. Januar 2022)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5195](https://fedlex.data.admin.ch/eli/oc/2017/570)).
 
@@ -30,9 +30,10 @@ verordnet:
 
 **Kernobstbrand zum Wiederverkauf**[^1-1]
 
-Die Eidgenössische Zollverwaltung (EZV) kann das Destillat aus gegorenen Äpfeln oder Birnen, aus gegorenen Teilen dieser Früchte oder aus Apfel- oder Birnenwein (Kernobstbrand) zum Wiederverkauf übernehmen.
+Das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^1-2] kann das Destillat aus gegorenen Äpfeln oder Birnen, aus gegorenen Teilen dieser Früchte oder aus Apfel- oder Birnenwein (Kernobstbrand) zum Wiederverkauf übernehmen.
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5195](https://fedlex.data.admin.ch/eli/oc/2017/570)).
+[^1-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 2
 
@@ -76,16 +77,15 @@ Die Übernahmepreise für Kernobstbrand zum Wiederverkauf werden im Anhang 1 der
 
 **Andere ablieferungsberechtigte gebrannte Wasser[^6-1]**
 
-Die Anforderungen an gebrannte Wasser der Industriebrennereien, Rektifikationsanstalten und Alkoholfabriken werden für jeden einzelnen Betrieb durch die EZV[^6-2] festgesetzt und sind Bestandteil der Konzession.
+Die Anforderungen an gebrannte Wasser der Industriebrennereien, Rektifikationsanstalten und Alkoholfabriken werden für jeden einzelnen Betrieb durch das BAZG festgesetzt und sind Bestandteil der Konzession.
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 1997, in Kraft seit 1. Febr. 1997 ([AS 1997 412](https://fedlex.data.admin.ch/eli/oc/1997/412_412_412)).
-[^6-2]: Ausdruck gemäss Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5195](https://fedlex.data.admin.ch/eli/oc/2017/570)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 7
 
 **Vollzug**
 
-Die EZV wird mit dem Vollzug beauftragt.
+Das BAZG wird mit dem Vollzug beauftragt.
 
 #### Art. 8
 

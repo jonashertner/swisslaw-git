@@ -3,18 +3,18 @@ sr: "681.41"
 title: Ordinanza del 5 giugno 1989 concernente la presa in consegna di bevande distillate da parte dell’Ufficio federale della dogana e della sicurezza dei confini
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/1186_1186_1186"
 language: it
-version: 2018-01-01
+version: 2022-01-01
 adopted: 1989-06-05
 in_force: 1989-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1186_1186_1186/20180101/it/xml/fedlex-data-admin-ch-eli-cc-1989-1186_1186_1186-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/1186_1186_1186/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1186_1186_1186/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1989-1186_1186_1186-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/1186_1186_1186/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza concernente la presa in consegna di bevande distillate da parte dell’Amministrazione federale delle dogane****
+# Ordinanza concernente la presa in consegna di bevande distillate da parte dell’Ufficio federale della dogana e della sicurezza dei confini
 
-del 5 giugno 1989 (Stato 1° gennaio 2018) (Stato 1° gennaio 2018)[^t-1]
+del 5 giugno 1989 (Stato 1° gennaio 2022)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5195](https://fedlex.data.admin.ch/eli/oc/2017/570)).
 
@@ -30,15 +30,16 @@ ordina:
 
 **Acquavite di frutta a granelli destinata alla rivendita**[^1-1]
 
-L’Amministrazione federale delle dogane (AFD) può prendere in consegna il prodotto della distillazione di mele o di pere fermentate, di parti fermentate di questa frutta oppure di sidro di mele o di pere (acquavite di frutta a granelli) destinato alla rivendita.
+L’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^1-2] può prendere in consegna il prodotto della distillazione di mele o di pere fermentate, di parti fermentate di questa frutta oppure di sidro di mele o di pere (acquavite di frutta a granelli) destinato alla rivendita.
 
 [^1-1]: Nuovo testo giusta il n. I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5195](https://fedlex.data.admin.ch/eli/oc/2017/570)).
+[^1-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 2
 
 [^2-1]
 
-[^2-1]: Abrogato dal n. I dell’O del 15 set. 1993, 1993, con effetto dal 1° ott. 1993 ([RU 1993 2596](https://fedlex.data.admin.ch/eli/oc/1993/2596_2596_2596)).
+[^2-1]: Abrogato dal n. I dell’O del 15 set. 1993, con effetto dal 1° ott. 1993 ([RU 1993 2596](https://fedlex.data.admin.ch/eli/oc/1993/2596_2596_2596)).
 
 #### Art. 3
 
@@ -76,16 +77,15 @@ I prezzi di presa in consegna dell’acquavite di frutta a granelli destinata al
 
 **Altre bevande distillate che possono essere prese in consegna[^6-1]**
 
-I requisiti dei prodotti delle distillerie industriali, degli stabilimenti di rettificazione e delle fabbriche di alcole sono fissati per ogni singola azienda dall’AFD[^6-2] e sono parte integrante della concessione.
+I requisiti dei prodotti delle distillerie industriali, degli stabilimenti di rettificazione e delle fabbriche di alcole sono fissati per ogni singola azienda dall’UDSC e sono parte integrante della concessione.
 
 [^6-1]: Nuovo testo giusta il n. I. dell’O del 15 gen. 1997, in vigore dal 1° feb. 1997 ([RU 1997 412](https://fedlex.data.admin.ch/eli/oc/1997/412_412_412)).
-[^6-2]: Nuova espr. giusta il n. I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5195](https://fedlex.data.admin.ch/eli/oc/2017/570)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 7
 
 **Esecuzione**
 
-L’AFD è incaricata dell’esecuzione della presente ordinanza.
+L’UDSC è incaricata dell’esecuzione della presente ordinanza.
 
 #### Art. 8
 
