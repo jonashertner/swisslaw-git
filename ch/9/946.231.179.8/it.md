@@ -3,18 +3,18 @@ sr: "946.231.179.8"
 title: Ordinanza del 5 dicembre 2014 che istituisce provvedimenti nei confronti dello Yemen
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/761"
 language: it
-version: 2020-08-25
+version: 2022-01-01
 adopted: 2014-12-05
 in_force: 2014-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/761/20200825/it/xml/fedlex-data-admin-ch-eli-cc-2014-761-20200825-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/761/20200825/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/761/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2014-761-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/761/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti dello Yemen
 
-del 5 dicembre 2014 (Stato 25 agosto 2020) (Stato 25 agosto 2020)
+del 5 dicembre 2014 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -125,11 +125,12 @@ La Segreteria di Stato della migrazione (SEM)[^3-1] può concedere deroghe:
 
 <sup>2</sup> La SEM sorveglia l’esecuzione del divieto di entrata e di transito di cui all’articolo 3.
 
-<sup>3</sup> Il controllo al confine è di competenza dell’Amministrazione federale delle dogane.
+<sup>3</sup> Il controllo al confine è di competenza dell’Ufficio federale della dogana e della sicurezza dei confini[^4-2].
 
 <sup>4</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 2071](https://fedlex.data.admin.ch/eli/oc/2020/405)).
+[^4-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 
@@ -153,7 +154,7 @@ La Segreteria di Stato della migrazione (SEM)[^3-1] può concedere deroghe:
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 12 giu. 2015, in vigore dal 12 giu. 2015 ([RU 2015 2031](https://fedlex.data.admin.ch/eli/oc/2015/375)).
 
-## Sezione 3: Recepimento automatico di liste ed entrata in vigore****
+## Sezione 3: Recepimento automatico di liste ed entrata in vigore
 
 [^sec3-1]
 
@@ -173,7 +174,7 @@ Le liste delle persone fisiche e giuridiche, gruppi e organizzazioni, emanate o 
 
 La presente ordinanza entra in vigore il 5 dicembre 2014 alle ore 18.00.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 1 cpv. 1 lett. a, 1*a* cpv. 1 lett. a, 3 cpv. 1 e 7)
 
@@ -183,9 +184,9 @@ Allegato*[^t-1]*
 
 **Nota bene**
 
-\1. Il presente allegato corrisponde alle liste delle persone fisiche e giuridiche, gruppi e organizzazioni indicate dal Consiglio di sicurezza delle Nazioni Unite o dal comitato competente del Consiglio di sicurezza delle Nazioni Unite*[^annexu1-lvlu1-1]*.
+\1. Il presente allegato corrisponde alle liste delle persone fisiche e giuridiche, gruppi e organizzazioni indicate dal Consiglio di sicurezza delle Nazioni Unite o dal comitato competente del Consiglio di sicurezza delle Nazioni Unite[^annexu1-lvlu1-1].
 
-\2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite*[^annexu1-lvlu1-2]*.
+\2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite[^annexu1-lvlu1-2].
 
 [^annexu1-lvlu1-1]: La lista è consultabile ai seguenti indirizzi Internet: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; 2140 Sanctions Committee (Yemen) &gt; Sanctions List Materials.
 [^annexu1-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet: www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.

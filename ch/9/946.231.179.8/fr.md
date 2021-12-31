@@ -3,18 +3,18 @@ sr: "946.231.179.8"
 title: "Ordonnance du 5 décembre 2014 instituant des mesures à l'encontre du Yémen"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/761"
 language: fr
-version: 2020-08-25
+version: 2022-01-01
 adopted: 2014-12-05
 in_force: 2014-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/761/20200825/fr/xml/fedlex-data-admin-ch-eli-cc-2014-761-20200825-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/761/20200825/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/761/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-761-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/761/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Yémen
 
-du 5 décembre 2014 (Etat le 25 août 2020)
+du 5 décembre 2014 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -23,7 +23,7 @@ vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1], en 
 arrête:
 
 [^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^ingress-2]: Les textes des résolutions du Conseil de sécurité des Nations unies sont accessibles en ligne à l’adresse: www.un.org/fr &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions.
+[^ingress-2]: Les textes des résolutions du Conseil de sécurité des Nations unies sont accessibles en ligne à l’adresse: [www.un.org](https://www.un.org/) &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions.
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 2071](https://fedlex.data.admin.ch/eli/oc/2020/405)).
 
 ## Section 1 Mesures de coercition
@@ -125,11 +125,12 @@ Le Secrétariat d’État aux migrations (SEM)[^3-1] peut accorder des dérogati
 
 <sup>2</sup> Le SEM surveille l’exécution de l’interdiction d’entrée et de transit prévue à l’art. 3.
 
-<sup>3</sup> Le contrôle à la frontière incombe à l’Administration fédérale des douanes.
+<sup>3</sup> Le contrôle à la frontière incombe à l’Office fédéral de la douane et de la sécurité des frontières[^4-2].
 
 <sup>4</sup> Sur instruction du SECO, les autorités compétentes prennent les mesures nécessaires pour le gel des ressources économiques, par exemple la mention d’un blocage du registre foncier ou la saisie ou la mise sous scellé de biens de luxe.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 2071](https://fedlex.data.admin.ch/eli/oc/2020/405)).
+[^4-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 
@@ -153,7 +154,7 @@ Le Secrétariat d’État aux migrations (SEM)[^3-1] peut accorder des dérogati
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 12 juin 2015 ([RO 2015 2031](https://fedlex.data.admin.ch/eli/oc/2015/375)).
 
-## Section 3 Reprise automatique de listes et entrée en vigueur****
+## Section 3 Reprise automatique de listes et entrée en vigueur
 
 [^sec3-1]
 
@@ -173,7 +174,7 @@ Les listes relatives à des personnes physiques ou morales, groupes et entités 
 
 La présente ordonnance entre en vigueur le 5 décembre 2014 à 18 heures.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 1, al. 1, let. a, 1*a*, al. 1, let. a, 3, al. 1, et 7)
 
@@ -183,9 +184,9 @@ Annexe*[^t-1]*
 
 **Remarque**
 
-\1. La présente annexe correspond aux listes des personnes physiques ou morales, entreprises et entités désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent*[^annexu1-lvlu1-1]*.
+\1. La présente annexe correspond aux listes des personnes physiques ou morales, entreprises et entités désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent[^annexu1-lvlu1-1].
 
-\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies*[^annexu1-lvlu1-2]*.
+\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annexu1-lvlu1-2].
 
-[^annexu1-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: www.un.org/fr/sc &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 2140 (Yemen) &gt; Matériaux relatifs à la liste de sanctions.
-[^annexu1-lvlu1-2]: La banque de données SESAM est librement accessible Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
+[^annexu1-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: [www.un.org/fr/sc](https://www.un.org/securitycouncil/fr) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 2140 (Yemen) &gt; Matériaux relatifs à la liste de sanctions.
+[^annexu1-lvlu1-2]: La banque de données SESAM est librement accessible Internet: [www.seco.admin.ch](https://www.seco.admin.ch/) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.

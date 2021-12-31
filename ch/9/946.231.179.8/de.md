@@ -3,18 +3,18 @@ sr: "946.231.179.8"
 title: Verordnung vom 5. Dezember 2014 über Massnahmen gegenüber Jemen
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/761"
 language: de
-version: 2020-08-25
+version: 2022-01-01
 adopted: 2014-12-05
 in_force: 2014-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/761/20200825/de/xml/fedlex-data-admin-ch-eli-cc-2014-761-20200825-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/761/20200825/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/761/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2014-761-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/761/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Jemen
 
-vom 5. Dezember 2014 (Stand am 25. August 2020)
+vom 5. Dezember 2014 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -125,11 +125,12 @@ Das Staatssekretariat für Migration (SEM)[^3-1] kann Ausnahmen gewähren:
 
 <sup>2</sup> Das SEM überwacht den Vollzug des Ein- und Durchreiseverbots nach Artikel 3.
 
-<sup>3</sup> Die Kontrolle an der Grenze obliegt der Eidgenössischen Zollverwaltung.
+<sup>3</sup> Die Kontrolle an der Grenze obliegt dem Bundesamt für Zoll und Grenzsicherheit[^4-2].
 
 <sup>4</sup> Die zuständigen Behörden ergreifen auf Anweisung des SECO die für die Sperrung wirtschaftlicher Ressourcen notwendigen Massnahmen, zum Beispiel die Anmerkung einer Verfügungssperre im Grundbuch oder die Pfändung oder Versiegelung von Luxusgütern.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 15. Juni 2020 ([AS 2020 2071](https://fedlex.data.admin.ch/eli/oc/2020/405)).
+[^4-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 
@@ -153,7 +154,7 @@ Das Staatssekretariat für Migration (SEM)[^3-1] kann Ausnahmen gewähren:
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 12. Juni 2015, in Kraft seit 12. Juni 2015 ([AS 2015 2031](https://fedlex.data.admin.ch/eli/oc/2015/375)).
 
-## 3. Abschnitt: Automatische Übernahme von Listen und Inkrafttreten****
+## 3. Abschnitt: Automatische Übernahme von Listen und Inkrafttreten
 
 [^sec3-1]
 
@@ -173,7 +174,7 @@ Die Listen, die der Sicherheitsrat der Vereinten Nationen bzw. das zuständige K
 
 Diese Verordnung tritt am 5. Dezember 2014 um 18.00 Uhr in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 1 Abs. 1 Bst. a, 1*a* Abs. 1 Bst. a, 3 Abs. 1 sowie Art. 7)
 
@@ -183,9 +184,9 @@ Anhang*[^t-1]*
 
 **Anmerkung**
 
-\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bzw. der vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichneten natürlichen und juristischen Personen, Gruppen und Organisationen.*[^annexu1-lvlu1-1]*
+\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bzw. der vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichneten natürlichen und juristischen Personen, Gruppen und Organisationen.[^annexu1-lvlu1-1]
 
-\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.*[^annexu1-lvlu1-2]*
+\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; 2140 Sanctions Committee (Yemen) &gt; Sanctions List Materials.
 [^annexu1-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden.
