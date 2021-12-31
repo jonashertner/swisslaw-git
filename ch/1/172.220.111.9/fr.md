@@ -4,11 +4,11 @@ title: "Ordonnance du 2 décembre 2005 sur le personnel affecté à la promotion
 short: OPers-PDHH
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/764"
 language: fr
-version: 2021-10-01
+version: 2022-01-01
 adopted: 2005-12-02
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/764/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2005-764-20211001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20211001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/764/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-764-20220101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20211001/fr"
 
 (OPers-PDHH)
 
-du 2 décembre 2005 (Etat le 1<sup>er</sup> octobre 2021)
+du 2 décembre 2005 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -80,13 +80,14 @@ Les départements suivants désignent les autorités compétentes pour prendre l
 - a.[^4-1] le Département fédéral des affaires étrangères (DFAE): pour les engagements civils, y inclus les engagements de personnel policier, et la partie civile des engagements civilo-militaires;
 - b. le Département fédéral de la défense, de la protection de la population et des sports (DDPS): pour les engagements militaires et la partie militaire des engagements civilo-militaires, à l’exception des membres de l’armée engagés dans le service de promotion de la paix au sens de l’art. 65*a*, al. 1, de la loi fédérale du 3 février 1995 sur l’armée et l’administration militaire;
 - c.[^4-2] ...
-- d.[^4-3] le Département fédéral des finances (DFF), en accord avec le DFAE: pour les engagements du personnel de l’Administration fédérale des douanes.
+- d.[^4-3] le Département fédéral des finances (DFF), en accord avec le DFAE: pour les engagements du personnel de l’Office fédéral de la douane et de la sécurité des frontières[^4-4].
 
 <sup>2</sup> Le DFAE coordonne, pour chaque engagement, les aspects relevant de la politique extérieure et aide à traiter les questions relatives au droit international et au contexte international.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 15 juil. 2010 ([RO 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
 [^4-2]: Abrogée par le ch. I de l’O du 30 juin 2010, avec effet au 15 juil. 2010 ([RO 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
 [^4-3]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^4-4]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 5
 
@@ -98,23 +99,25 @@ Le DFAE peut déléguer à des personnes morales de droit privé ou de droit pub
 
 **Conclusion de traités internationaux**
 
-<sup>1</sup> Le DFAE est habilité à conclure avec des États ou des organisations internationales des traités internationaux relatifs à la participation de la Suisse à des missions civiles de promotion de la paix, à l’envoi d’experts et à l’utilisation des fonds prélevés sur les crédits-cadres.
+<sup>1</sup> Le DFAE est habilité à conclure avec des États ou des organisations internationales des traités internationaux relatifs à la participation de la Suisse à des missions civiles de promotion de la paix, à l’envoi d’experts et à l’utilisation des fonds prélevés sur les crédits d’engagement.[^6-1]
 
 <sup>2</sup>
 
 Les offices suivants peuvent, chacun dans son domaine, conclure des traités internationaux portant sur des détails techniques et administratifs:
 
-- a.[^6-1] la Direction politique du DFAE: dans les domaines de la promotion civile de la paix et du renforcement des droits de l’homme, y inclus l’envoi de spécialistes dans le cadre d’engagements internationaux de police;
-- b. la Direction du développement et de la coopération (DDC): en vertu de l’art. 21 de l’ordonnance du 12 décembre 1977 concernant la coopération au développement et l’aide humanitaire internationales[^6-2] et de l’art. 11 de l’arrêté fédéral du 24 décembre 1995 concernant la coopération avec les États d’Europe de l’Est;
-- c.[^6-3] le Groupement Défense et le domaine Politique de sécurité du DDPS: dans leurs domaines respectifs;
-- d.[^6-4] l’Administration fédérale des douanes du DFF: pour les engagements de son personnel;
-- e.[^6-5] ...
+- a.[^6-2] le Secrétariat d’État du DFAE[^6-3]: dans les domaines de la promotion civile de la paix et du renforcement des droits de l’homme, y inclus l’envoi de spécialistes dans le cadre d’engagements internationaux de police;
+- b. la Direction du développement et de la coopération (DDC): en vertu de l’art. 21 de l’ordonnance du 12 décembre 1977 concernant la coopération au développement et l’aide humanitaire internationales[^6-4] et de l’art. 11 de l’arrêté fédéral du 24 décembre 1995 concernant la coopération avec les États d’Europe de l’Est;
+- c.[^6-5] le Groupement Défense et le domaine Politique de sécurité du DDPS: dans leurs domaines respectifs;
+- d.[^6-6] l’Office fédéral de la douane et de la sécurité des frontières du DFF: pour les engagements de son personnel;
+- e.[^6-7] ...
 
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 15 juil. 2010 ([RO 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
-[^6-2]: [RS 974.01](https://fedlex.data.admin.ch/eli/cc/1978/25_25_25)
-[^6-3]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^6-4]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^6-5]: Abrogée par le ch. I de l’O du 30 juin 2010, avec effet au 15 juil. 2010 ([RO 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
+[^6-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 15 juil. 2010 ([RO 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
+[^6-3]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2021 en application de l’art. 20, al. 2, de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+[^6-4]: [RS 974.01](https://fedlex.data.admin.ch/eli/cc/1978/25_25_25)
+[^6-5]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^6-6]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^6-7]: Abrogée par le ch. I de l’O du 30 juin 2010, avec effet au 15 juil. 2010 ([RO 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
 
 ## Chapitre 2 Politique du personnel
 
@@ -473,7 +476,7 @@ Le remboursement des frais des voyages de service du personnel qui ont été ord
 
 **Frais de formation des enfants**
 
-- [tab] <sup>1</sup> L’autorité compétente assume les frais effectifs de la formation des enfants jusqu’à un montant maximal de 24 000 francs par année et par enfant à condition que le contrat de travail mentionne expressément le regroupement familial et qu’une allocation familiale selon l’art. 51 OPers[^33-1] soit versée.[^33-2]
+<sup>1</sup> L’autorité compétente assume les frais effectifs de la formation des enfants jusqu’à un montant maximal de 24 000 francs par année et par enfant à condition que le contrat de travail mentionne expressément le regroupement familial et qu’une allocation familiale selon l’art. 51 OPers[^33-1] soit versée.[^33-2]
 
 <sup>2</sup> Les art. 128 et 129 de l’ordonnance du DFAE du 20 septembre 2002 concernant l’ordonnance sur le personnel de la Confédération (OPers-DFAE)[^33-3] sont applicables par analogie.
 
@@ -567,7 +570,7 @@ L’ordonnance du 24 avril 1996 sur l’engagement de personnel dans des actions
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2006.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 28, al. 2, et art. 30, al. 3)
 
@@ -601,9 +604,8 @@ Annexe 1*[^t-1]*
 - \*\* Il est possible de faire valoir le droit au transport pour le pays d’origine ou le pays de domicile; une répartition n’est pas envisageable.
 - \*\*\* C’est la durée effective de l’engagement à l’étranger et non la durée des rapports de travail qui est prise en compte pour le calcul du droit au fret.
 - \*\*\*\* Un conteneur de 20 pieds maximum par famille.
+- \*\*\*\*\* Transportés dans le conteneur de 20 pieds de la famille.
 
-\*\*\*\*\* Transportés dans le conteneur de 20 pieds de la famille.
-
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 [^t-2]: Abrogée par le ch. II al. 2 de l’O du 26 août 2020, avec effet au 1<sup>er</sup> oct. 2021 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).

@@ -4,11 +4,11 @@ title: "Ordinanza del 2 dicembre 2005 sul personale impiegato per la promozione 
 short: OPers-PRA
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/764"
 language: it
-version: 2021-10-01
+version: 2022-01-01
 adopted: 2005-12-02
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/764/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2005-764-20211001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20211001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/764/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2005-764-20220101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20211001/it"
 
 (OPers-PRA)
 
-del 2 dicembre 2005 (Stato 1° ottobre 2021) (Stato 1° ottobre 2021)
+del 2 dicembre 2005 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -80,13 +80,14 @@ I servizi competenti per decidere in qualità di datori di lavoro e assistere le
 - a.[^4-1] il Dipartimento federale degli affari esteri (DFAE) per gli impieghi civili, inclusi gli impieghi di personale di polizia, e per la parte civile degli impieghi civili-militari;
 - b. il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DPPS) per gli impieghi militari e per la parte militare degli impieghi civili-militari; alla presente ordinanza non sono soggetti i militari che prestano servizio di promovimento della pace in base all’articolo 65*a* capoverso 1 della legge militare del 3 febbraio 1995;
 - c.[^4-2] ...
-- d.[^4-3] il Dipartimento federale delle finanze (DFF), d’intesa con il DFAE, per gli impieghi del personale dell’Amministrazione federale delle dogane.
+- d.[^4-3] il Dipartimento federale delle finanze (DFF), d’intesa con il DFAE, per gli impieghi del personale dell’Ufficio federale della dogana e della sicurezza dei confini[^4-4].
 
 <sup>2</sup> Il DFAE coordina le questioni di politica estera connesse con gli impieghi e partecipa al trattamento delle questioni relative alla situazione internazionale e al diritto internazionale.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 15 lug. 2010 ([RU 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
 [^4-2]: Abrogata dal n. I dell’O del 30 giu. 2010, con effetto dal 15 lug. 2010 ([RU 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
 [^4-3]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^4-4]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 5
 
@@ -98,23 +99,27 @@ Il DFAE può delegare a persone giuridiche del diritto privato o pubblico o a pe
 
 **Conclusione di trattati internazionali**
 
-<sup>1</sup> Il DFAE è autorizzato a concludere con Stati o organizzazioni internazionali trattati internazionali in merito alla partecipazione della Svizzera a missioni di promozione civile della pace, all’invio di esperti e all’impiego dei fondi provenienti dai crediti quadro.
+<sup>1</sup> Il DFAE è autorizzato a concludere con Stati o organizzazioni internazionali trattati internazionali in merito alla partecipazione della Svizzera a missioni di promozione civile della pace, all’invio di esperti e all’impiego dei fondi provenienti dai crediti d’impegno.[^6-1]
 
 <sup>2</sup>
 
 I seguenti uffici sono autorizzati a concludere trattati internazionali in merito a questioni tecniche e amministrative inerenti al proprio settore di attività:
 
-- a.[^6-1] la Direzione politica del DFAE nell’ambito della promozione civile della pace e del rafforzamento dei diritti dell’uomo, incluso l’invio di specialisti nell’ambito degli impieghi di polizia a carattere internazionale;
-- b. la Direzione dello sviluppo e della cooperazione del DFAE in virtù dell’articolo 21 dell’ordinanza del 12 dicembre 1977[^6-2] sulla cooperazione allo sviluppo e l’aiuto umanitario internazionali e dell’articolo 11 del decreto federale del 24 dicembre 1995 concernente la cooperazione con gli Stati dell’Europa dell’Est;
-- c.[^6-3] l’Aggruppamento Difesa e il Settore politica di sicurezza del DDPS nell’ambito dei rispettivi compiti;
-- d.[^6-4] l’Amministrazione federale delle dogane del DFF per l’impiego del proprio personale;
-- e.[^6-5] ...
+- a.[^6-2] la Segreteria di Stato del DFAE[^6-3] nell’ambito della promozione civile della pace e del rafforzamento dei diritti dell’uomo, incluso l’invio di specialisti nell’ambito degli impieghi di polizia a carattere internazionale;
+- b. la Direzione dello sviluppo e della cooperazione del DFAE in virtù dell’articolo 21 dell’ordinanza del 12 dicembre 1977[^6-4] sulla cooperazione allo sviluppo e l’aiuto umanitario internazionali e dell’articolo 11 del decreto federale del 24 dicembre 1995 concernente la cooperazione con gli Stati dell’Europa dell’Est;
+- c.[^6-5] l’Aggruppamento Difesa e il Settore politica di sicurezza del DDPS nell’ambito dei rispettivi compiti;
+- d.[^6-6] l’l’Ufficio federale della dogana e della sicurezza dei confini del DFF per l’impiego del proprio personale;
+- e.[^6-7] ...
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 15 lug. 2010 ([RU 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
-[^6-2]: [RS 974.01](https://fedlex.data.admin.ch/eli/cc/1978/25_25_25)
-[^6-3]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^6-4]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^6-5]: Abrogata dal n. I dell’O del 30 giu. 2010, con effetto dal 15 lug. 2010 ([RU 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
+[^6-1]: Nuovo testo giusta l’all. n. 5 dell’O del 10 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^6-2]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 15 lug. 2010 ([RU 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
+[^6-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2021.
+[^6-4]: [RS 974.01](https://fedlex.data.admin.ch/eli/cc/1978/25_25_25)
+[^6-5]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^6-6]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^6-7]: Abrogata dal n. I dell’O del 30 giu. 2010, con effetto dal 15 lug. 2010 ([RU 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
+
+## Capitolo 2: Politica del personale
 
 #### Art. 6a
 
@@ -125,8 +130,6 @@ I seguenti uffici sono autorizzati a concludere trattati internazionali in merit
 <sup>2</sup> Può svolgere esami dell’idoneità.
 
 [^6a-1]: Introdotto dal n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-
-## Capitolo 2: Politica del personale
 
 #### Art. 7
 
@@ -566,7 +569,7 @@ L’ordinanza del 24 aprile 1996[^41-1] sull’impiego di personale in azioni di
 
 La presente ordinanza entra in vigore il 1° gennaio 2006.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 28 cpv. 2 e 30 cpv. 3)
 
@@ -602,6 +605,6 @@ Allegato 1*[^t-1]*
 - \*\*\*\* Massimo un container da 20 piedi per famiglia.
 - \*\*\*\*\* Contenuto nel container da 20 piedi della famiglia.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 [^t-2]: Abrogato dal n. II cpv. 2 dell’O del 26 ago. 2020, con effetto dal 1° ott. 2021 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).

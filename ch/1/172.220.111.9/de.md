@@ -4,11 +4,11 @@ title: "Verordnung vom 2. Dezember 2005 über das Personal für die Friedensför
 short: PVFMH
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/764"
 language: de
-version: 2021-10-01
+version: 2022-01-01
 adopted: 2005-12-02
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/764/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2005-764-20211001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20211001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/764/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2005-764-20220101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20211001/de"
 
 (PVFMH)
 
-vom 2. Dezember 2005 (Stand am 1. Oktober 2021)
+vom 2. Dezember 2005 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -79,14 +79,15 @@ Die folgenden Departemente bezeichnen die zuständigen Stellen für die Arbeitge
 
 - a.[^4-1] das Eidgenössische Departement für auswärtige Angelegenheiten (EDA) für zivile Einsätze, einschliesslich Einsätze von Polizeipersonal, und für den zivilen Teil bei zivil-militärischen Einsätzen;
 - b. das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) für militärische Einsätze und den militärischen Teil bei zivil-militärischen Einsätzen; ausgenommen sind die Angehörigen der Armee, die Friedensförderungsdienst nach Artikel 65*a* Absatz 1 des Militärgesetzes vom 3. Februar 1995 leisten;
-- c.[^4-2] ...
-- d.[^4-3] das Eidgenössische Finanzdepartement (EFD), im Einvernehmen mit dem EDA, für die Einsätze des Personals der Eidgenössischen Zollverwaltung.
+- c.[^4-2] …
+- d.[^4-3] das Eidgenössische Finanzdepartement (EFD), im Einvernehmen mit dem EDA, für die Einsätze des Personals des Bundesamts für Zoll und Grenzsicherheit[^4-4].
 
 <sup>2</sup> Das EDA koordiniert die aussenpolitischen Belange sämtlicher Einsätze und wirkt bei der Behandlung der Fragen des Völkerrechts und der internationalen Rahmenbedingungen mit.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 15. Juli 2010 ([AS 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
 [^4-2]: Aufgehoben durch Ziff. I der V vom 30. Juni 2010, mit Wirkung seit 15. Juli 2010 ([AS 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
 [^4-3]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^4-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 5
 
@@ -98,23 +99,25 @@ Das EDA kann Ausführungsaufgaben im Zusammenhang mit zivilen Einsätzen an juri
 
 **Abschluss von völkerrechtlichen Verträgen**
 
-<sup>1</sup> Das EDA wird ermächtigt, mit Staaten oder internationalen Organisationen völkerrechtliche Verträge über die Beteiligung der Schweiz an zivilen friedensfördernden Missionen, die Entsendung von Experten und Expertinnen und die Verwendung von Geldern aus den Rahmenkrediten abzuschliessen.
+<sup>1</sup> Das EDA wird ermächtigt, mit Staaten oder internationalen Organisationen völkerrechtliche Verträge über die Beteiligung der Schweiz an zivilen friedensfördernden Missionen, die Entsendung von Experten und Expertinnen und die Verwendung von Geldern aus den Verpflichtungskrediten abzuschliessen.[^6-1]
 
 <sup>2</sup>
 
 Die folgenden Ämter können je in ihren Bereichen über technische und administrative Einzelheiten völkerrechtliche Verträge abschliessen:
 
-- a.[^6-1] die Politische Direktion des EDA für die zivile Friedensförderung und die Stärkung der Menschenrechte, einschliesslich der Entsendung von Spezialisten und Spezialistinnen bei internationalen Polizeieinsätzen;
-- b. die Direktion für Entwicklung und Zusammenarbeit des EDA nach Artikel 21 der Verordnung vom 12. Dezember 1977[^6-2] über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe und nach Artikel 11 des Bundesbeschlusses vom 24. Dezember 1995 über die Zusammenarbeit mit den Staaten Osteuropas;
-- c.[^6-3] die Gruppe Verteidigung und der Bereich für Sicherheitspolitik des VBS in ihren Aufgabenbereichen;
-- d.[^6-4] die Eidgenössische Zollverwaltung des EFD für die Einsätze ihres Personals;
-- e.[^6-5] ...
+- a.[^6-2] das Staatssekretariat EDA[^6-3] für die zivile Friedensförderung und die Stärkung der Menschenrechte, einschliesslich der Entsendung von Spezialisten und Spezialistinnen bei internationalen Polizeieinsätzen;
+- b. die Direktion für Entwicklung und Zusammenarbeit des EDA nach Artikel 21 der Verordnung vom 12. Dezember 1977[^6-4] über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe und nach Artikel 11 des Bundesbeschlusses vom 24. Dezember 1995 über die Zusammenarbeit mit den Staaten Osteuropas;
+- c.[^6-5] die Gruppe Verteidigung und der Bereich für Sicherheitspolitik des VBS in ihren Aufgabenbereichen;
+- d.[^6-6] das Bundesamt für Zoll und Grenzsicherheit des EFD für die Einsätze seines Personals;
+- e.[^6-7] …
 
-[^6-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 15. Juli 2010 ([AS 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
-[^6-2]: [SR 974.01](https://fedlex.data.admin.ch/eli/cc/1978/25_25_25)
-[^6-3]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^6-4]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^6-5]: Aufgehoben durch Ziff. I der V vom 30. Juni 2010, mit Wirkung seit 15. Juli 2010 ([AS 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
+[^6-1]: Fassung gemäss Anhang Ziff. 5 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^6-2]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 15. Juli 2010 ([AS 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
+[^6-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2021 angepasst.
+[^6-4]: [SR 974.01](https://fedlex.data.admin.ch/eli/cc/1978/25_25_25)
+[^6-5]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^6-6]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^6-7]: Aufgehoben durch Ziff. I der V vom 30. Juni 2010, mit Wirkung seit 15. Juli 2010 ([AS 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
 
 ## 2. Kapitel: Personalpolitik
 
@@ -207,7 +210,7 @@ Eine anzustellende Person muss ein medizinisches Frageblatt ausfüllen. Sie muss
 
 <sup>2</sup> Jede Funktion wird durch das zuständige Departement einer Lohnklasse zugewiesen. Für Bewertungen der Lohnklassen 32 und höher ist die Zustimmung des EFD erforderlich.[^14-1]
 
-<sup>3</sup> ...[^14-2]
+<sup>3</sup> …[^14-2]
 
 <sup>4</sup> Für Personen, die befristet und zu Ausbildungszwecken eingesetzt werden, gelten die einschlägigen Ausführungsbestimmungen des EFD für Praktikantinnen und Praktikanten.
 
@@ -258,7 +261,7 @@ Eine anzustellende Person muss ein medizinisches Frageblatt ausfüllen. Sie muss
 
 <sup>3</sup> Das zuständige Departement setzt nach Koordination mit den anderen Departementen die Höhe der Einsatzzulage fest. Diese beträgt monatlich höchstens 900 Franken.[^18-1]
 
-<sup>4</sup> ...[^18-2]
+<sup>4</sup> …[^18-2]
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 [^18-2]: Aufgehoben durch Ziff. I der V vom 26. Aug. 2020, mit Wirkung seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
@@ -271,7 +274,7 @@ Eine anzustellende Person muss ein medizinisches Frageblatt ausfüllen. Sie muss
 
 <sup>2</sup> Das zuständige Departement setzt nach Koordination mit den anderen Departementen die Höhe der Gefahrenzulage fest. Diese beträgt monatlich höchstens 900 Franken.[^19-1]
 
-<sup>3</sup> ...[^19-2]
+<sup>3</sup> …[^19-2]
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 [^19-2]: Aufgehoben durch Ziff. I der V vom 26. Aug. 2020, mit Wirkung seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
@@ -474,7 +477,7 @@ Für die Übernahme der Kosten von angeordneten Dienstreisen des Personals gelte
 
 **Ausbildungskosten der Kinder**
 
-- [tab] <sup>1</sup> Die zuständige Stelle übernimmt die tatsächlichen Kosten für die Ausbildung der Kinder bis zum Höchstbetrag von 24 000 Franken pro Jahr und Kind, sofern der Familiennachzug an den Einsatzort ausdrücklich im Arbeitsvertrag erwähnt ist und eine Familienzulage nach Artikel 51 BPV[^33-1] ausgerichtet wird.[^33-2]
+<sup>1</sup> Die zuständige Stelle übernimmt die tatsächlichen Kosten für die Ausbildung der Kinder bis zum Höchstbetrag von 24 000 Franken pro Jahr und Kind, sofern der Familiennachzug an den Einsatzort ausdrücklich im Arbeitsvertrag erwähnt ist und eine Familienzulage nach Artikel 51 BPV[^33-1] ausgerichtet wird.[^33-2]
 
 <sup>2</sup> Die Artikel 128 und 129 der Verordnung des EDA vom 20. September 2002[^33-3] zur Bundespersonalverordnung (VBPV-EDA) gelten sinngemäss.
 
@@ -494,7 +497,7 @@ Die zuständige Stelle kann Nebenkosten bis zum Höchstbetrag von 450 Franken pr
 
 <sup>1</sup> Wird im Einsatz persönliches Eigentum einer angestellten Person ohne ihr Verschulden beschädigt, gestohlen oder geht es verloren, so kann die zuständige Stelle eine Entschädigung bis zu 5000 Franken ausrichten, sofern nicht die Militärversicherung, eine private Versicherung oder eine haftpflichtige Drittperson für den Schaden aufkommt.
 
-<sup>2</sup> ...[^35-1]
+<sup>2</sup> …[^35-1]
 
 <sup>3</sup> Die zuständige Stelle kann Selbstständigerwerbenden während des Einsatzes weiterlaufende, nachgewiesene Büro- oder Praxiskosten auf Antrag vergüten. Sie bestimmt im Einzelfall den monatlichen Betrag. Dieser darf 6000 Franken nicht übersteigen und wird höchstens während eines Jahres gewährt.[^35-2]
 
@@ -546,7 +549,7 @@ Die Departemente erlassen für ihren Bereich Ausführungsbestimmungen und vollzi
 
 Die Verordnung vom 24. April 1996[^41-1] über den Einsatz von Personal bei friedenserhaltenden Aktionen und Guten Diensten wird aufgehoben.
 
-[^41-1]: [[AS 1996 1343](https://fedlex.data.admin.ch/eli/oc/1996/1343_1343_1343), [1999 2449](https://fedlex.data.admin.ch/eli/oc/1999/374), [2001 121](https://fedlex.data.admin.ch/eli/oc/2001/23)]
+[^41-1]: [[AS 1996 1343](https://fedlex.data.admin.ch/eli/oc/1996/1343_1343_1343); [1999 2449](https://fedlex.data.admin.ch/eli/oc/1999/374); [2001 121](https://fedlex.data.admin.ch/eli/oc/2001/23)]
 
 #### Art. 42
 
@@ -554,7 +557,7 @@ Die Verordnung vom 24. April 1996[^41-1] über den Einsatz von Personal bei frie
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^42-1]
+…[^42-1]
 
 [^42-1]: Die Änderungen können unter [AS 2005 5607](https://fedlex.data.admin.ch/eli/oc/2005/764)konsultiert werden.
 
@@ -570,7 +573,7 @@ Die nachstehenden Verordnungen werden wie folgt geändert:
 
 Diese Verordnung tritt am 1. Januar 2006 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 28 Abs. 2 und 30 Abs. 3)
 
@@ -606,6 +609,6 @@ Anhang 1*[^t-1]*
 - \*\*\*\* Maximal ein 20 Fuss-Container je Familie.
 - \*\*\*\*\* Enthalten in 20 Fuss-Container der Familie.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 [^t-2]: Aufgehoben durch Ziff. II Abs. 2 der V vom 26. Aug. 2020, mit Wirkung seit 1. Okt. 2021 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
