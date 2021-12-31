@@ -3,20 +3,20 @@ canton: FR
 number: "121.2"
 title: Parlamentsverordnung über die Stellvertretung in der Einbürgerungskommission
 language: de
-version: 2016-12-16
-valid_until: 2021-12-30
-version_adopted: 2017-02-07
+version: 2022-01-01
+valid_until: 2023-02-28
+version_adopted: 2022-02-02
 adopted: 2022-02-02
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/121.2"
-pdf: "https://bdlf.fr.ch/api/de/versions/4989/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7159/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Parlamentsverordnung über die Stellvertretung in der Einbürgerungskommission
 
-vom 20.11.2014 (Fassung in Kraft getreten am 16.12.2016)
+vom 02.02.2022 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -26,7 +26,7 @@ in Erwägung:
 
 Mit dieser Verordnung soll das Problem im Zusammenhang mit der bedeutenden Zunahme der Zahl der Einbürgerungsgesuche und mit der Arbeitsüberlastung der Einbürgerungskommission geregelt werden.
 
-Auf Antrag des Büros vom 7. November 2014,
+Auf Antrag des Büros vom 21. Januar 2022,
 
 beschliesst:
 
@@ -46,7 +46,7 @@ beschliesst:
 
 <sup>1</sup> Jede Fraktion bezeichnet ein stellvertretendes Mitglied.
 
-<sup>2</sup> Das bezeichnete Mitglied muss vorher sein Einverständnis gegeben haben; es kann einer anderen Fraktion angehören [wenn die betreffende Fraktion kein Mitglied mehr hat, das noch nicht in einer ständigen Kommission ist].
+<sup>2</sup> Das bezeichnete Mitglied muss vorher sein Einverständnis gegeben haben; es kann einer anderen Fraktion angehören, wenn die betreffende Fraktion kein Mitglied mehr hat, das noch nicht in einer ständigen Kommission ist.
 
 <sup>3</sup> Die Bezeichnung wird rechtskräftig, sobald das Büro informiert wurde.
 
@@ -62,8 +62,8 @@ beschliesst:
 
 #### Art. 4
 
-**Inkrafttreten**
+**Geltungsdauer**
 
-<sup>1</sup> Diese Verordnung tritt am 20. November 2014 in Kraft und gilt bis zum Ende der Legislaturperiode 2017–2021.
+<sup>1</sup> Diese Verordnung gilt bis zum Ende der Legislaturperiode 2022-2026.
 
-2014\_088
+2022\_015
