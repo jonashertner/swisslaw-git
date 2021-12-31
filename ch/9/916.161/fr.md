@@ -4,11 +4,11 @@ title: "Ordonnance du 12 mai 2010 sur la mise en circulation des produits phytos
 short: OPPh
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: fr
-version: 2021-07-01
+version: 2022-01-01
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-340-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-340-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20210701/fr"
 
 (Ordonnance sur les produits phytosanitaires, OPPh)
 
-du 12 mai 2010 (Etat le 1<sup>er</sup> juillet 2021)
+du 12 mai 2010 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -44,7 +44,7 @@ arrête:
 Elle règle, pour les produits phytosanitaires présentés sous leur forme commerciale:
 
 - a. l’homologation;
-- b. la mise en circulation et l’utilisation;
+- b.[^1-1] l’importation, la mise en circulation et l’utilisation;
 - c. le contrôle.
 
 <sup>3</sup>
@@ -55,6 +55,8 @@ Elle fixe les règles applicables:
 - b. aux coformulants.
 
 <sup>4</sup> Les dispositions de la présente ordonnance se basent sur le principe de précaution afin d’éviter que des substances actives ou des produits mis sur le marché portent atteinte à la santé humaine et animale ou à l’environnement.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 685](https://fedlex.data.admin.ch/eli/oc/2021/685)).
 
 #### Art. 2
 
@@ -158,11 +160,11 @@ Au sens de la présente ordonnance, on entend par:
 
 #### Art. 3a
 
-**Prescriptions de l’Office fédéral de l’agriculture quand il y a nécessité d’agir rapidement**[^3a-1]
+**Prescriptions du service d’homologation[^3a-2] quand il y a nécessité d’agir rapidement**[^3a-1]
 
-<sup>1</sup> Dans des situations qui demandent d’agir rapidement, l’Office fédéral de l’agriculture (OFAG) peut, en accord avec les services concernés, interdire l’importation, la mise en circulation et l’utilisation de produits phytosanitaires qui mettent en danger la santé des êtres humains et des animaux ou qui présentent un risque pour l’environnement.
+<sup>1</sup> Dans des situations qui demandent d’agir rapidement, le service d’homologation peut, en accord avec les services concernés, interdire l’importation, la mise en circulation et l’utilisation de produits phytosanitaires qui mettent en danger la santé des êtres humains et des animaux ou qui présentent un risque pour l’environnement.[^3a-3]
 
-<sup>2</sup> Il peut fixer pour ces produits phytosanitaires des valeurs maximales qui ne doivent pas être dépassées. Les valeurs maximales se fondent sur des valeurs standard internationales , sur les valeurs maximales en vigueur dans le pays exportateur ou sont scientifiquement fondées
+<sup>2</sup> Il peut fixer pour ces produits phytosanitaires des valeurs maximales qui ne doivent pas être dépassées. Les valeurs maximales se fondent sur des valeurs standard internationales , sur les valeurs maximales en vigueur dans le pays exportateur ou sont scientifiquement fondées.
 
 <sup>3</sup> Il peut fixer quels produits phytosanitaires doivent être importés ou mis en circulation uniquement accompagnés d’une déclaration des autorités compétentes du pays exportateur ou d’un service accrédité.
 
@@ -171,6 +173,8 @@ Au sens de la présente ordonnance, on entend par:
 <sup>5</sup> Les lots pour lesquels les documents visés à l’al. 4 ne peuvent pas être présentés lors de l’importation sont refoulés ou détruits s’ils présentent un risque.
 
 [^3a-1]: Introduit par le ch. I de l’O du 25 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2401](https://fedlex.data.admin.ch/eli/oc/2011/347)).
+[^3a-2]: Nouvelle expression selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)). Il a été tenu compte de cette mod. dans tout le texte, sous réserve de l’art. 75.
+[^3a-3]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 ## Chapitre 2 Substances actives, substances de base, phytoprotecteurs, synergistes et coformulants****
 
@@ -232,11 +236,11 @@ Un produit phytosanitaire, dans des conditions d’application conformes aux bon
 
 **Liste des substances actives**
 
-<sup>1</sup> Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^5-1] inscrit une nouvelle substance active sur la liste des substances actives approuvées (annexe 1) lorsqu’elle a été examinée dans le cadre d’une demande d’autorisation de mise en circulation d’un produit phytosanitaire et qu’elle remplit les critères visés à l’art. 4.[^5-2]
+<sup>1</sup> Le Département fédéral de l’intérieur (DFI) inscrit une nouvelle substance active sur la liste des substances actives approuvées figurant à l’annexe 1 lorsqu’elle a été examinée dans le cadre d’une demande d’autorisation de mise en circulation d’un produit phytosanitaire et qu’elle remplit les critères visés à l’art. 4.[^5-1]
 
 <sup>2</sup>
 
-Concernant les substances actives, l’OFAG peut fixer les conditions et restrictions suivantes:[^5-3]
+Concernant les substances actives, le service d’homologation peut fixer les conditions et restrictions suivantes:[^5-2]
 
 - a. le degré de pureté minimal de la substance active;
 - b. la teneur maximale en certaines impuretés et la nature de celles-ci;
@@ -249,20 +253,21 @@ Concernant les substances actives, l’OFAG peut fixer les conditions et restric
 - i. la nécessité d’imposer des mesures d’atténuation des risques et une surveillance consécutive à l’utilisation;
 - j. toute autre condition particulière résultant de l’évaluation des informations fournies dans le contexte du présent règlement.
 
-<sup>3</sup> Si une substance active satisfait à un ou plusieurs critères supplémentaires définis à l’annexe 2, ch. 4, le DEFR l’inscrit dans l’annexe 1, partie E, comme substance dont on envisage la substitution.[^5-4]
+<sup>3</sup> Si une substance active satisfait à un ou plusieurs critères supplémentaires définis à l’annexe 2, ch. 4, le DFI[^5-3] l’inscrit dans l’annexe 1, partie E, comme substance dont on envisage la substitution.[^5-4]
 
 <sup>4</sup>
 
-Les substances actives désignées comme substances actives à faible risque selon l’art. 22 du règlement CE/1107/2009[^5-5] sont désignées comme telles dans l’annexe 1. L’OFAG peut désigner d’autres substances actives à faible risque:
+Les substances actives désignées comme substances actives à faible risque selon l’art. 22 du règlement CE/1107/2009[^5-5] sont désignées comme telles dans l’annexe 1. Le DFI peut désigner d’autres substances actives à faible risque:[^5-6]
 
 - a. s’il est prévisible que les produits phytosanitaires contenant ces substances actives ne présenteront qu’un faible risque pour la santé humaine, la santé animale et l’environnement conformément à l’art. 32, et
 - b. si ces substances actives ne doivent pas être classées dans l’une des catégories fixées à l’annexe 2, ch. 5.
 
-[^5-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^5-2]: Nouvelle teneur selon le ch. I de l’O du 23 mai 2012, en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)).
-[^5-3]: Nouvelle teneur selon le ch. I de l’O du 25 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2401](https://fedlex.data.admin.ch/eli/oc/2011/347)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du 25 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2401](https://fedlex.data.admin.ch/eli/oc/2011/347)).
+[^5-3]: Nouvelle expression selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)). Il a été tenu compte de cette mod. dans tout le texte.
 [^5-4]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)).
-[^5-5]: Voir note relative à l’art. 3, al. 2.
+[^5-5]: Cf. note de bas de page relative à l’art. 3, al. 2.
+[^5-6]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 6
 
@@ -295,9 +300,9 @@ Le dossier récapitulatif comprend les éléments suivants:
 
 <sup>2</sup> Le dossier complet contient le texte intégral des différents rapports d’essais et d’études concernant l’ensemble des informations visées à l’al. 1, let. b et c. Il ne contient pas de rapports d’essais ou d’études impliquant l’administration volontaire de la substance active ou du produit phytosanitaire à des êtres humains.
 
-<sup>3</sup> L’OFAG peut définir la structure du dossier récapitulatif et du dossier complet.
+<sup>3</sup> Le service d’homologation peut définir la structure du dossier récapitulatif et du dossier complet.
 
-<sup>4</sup> Les exigences en matière de données visées aux al. 1 et 2 comprennent les conditions que doivent remplir les substances actives et les produits phytosanitaires énoncées aux annexes 5 et 6. Le DEFR peut adapter ces annexes en tenant compte des exigences internationales en la matière et notamment celles de l’Union européenne (UE).
+<sup>4</sup> Les exigences en matière de données visées aux al. 1 et 2 comprennent les conditions que doivent remplir les substances actives et les produits phytosanitaires énoncées aux annexes 5 et 6. Le DFI peut adapter ces annexes en tenant compte des exigences internationales en la matière et notamment celles de l’Union européenne (UE).
 
 <sup>5</sup> L’auteur de la demande joint au dossier la documentation scientifique accessible, validée par la communauté scientifique et publiée au cours des dix dernières années ayant précédé la date de soumission du dossier, concernant les effets secondaires sur la santé, sur l’environnement et sur les espèces non visées de la substance active et de ses métabolites pertinents.
 
@@ -311,9 +316,10 @@ Le dossier récapitulatif comprend les éléments suivants:
 
 <sup>2</sup> Si le service d’homologation estime, compte tenu des nouvelles connaissances scientifiques et techniques, qu’il y a des raisons de penser que la substance ne satisfait plus aux critères d’approbation prévus à l’art. 4 ou que des informations supplémentaires requises en application de l’art. 5, al. 2, let. f, n’ont pas été communiquées, il en informe le producteur de la substance active et accorde à ce dernier un délai pour lui permettre de présenter ses observations.
 
-<sup>3</sup> Si le service d’homologation arrive à la conclusion qu’il n’est plus satisfait aux critères d’approbation prévus à l’art. 4 ou que des informations supplémentaires requises en application de l’art. 5, al. 2, let. f, n’ont pas été communiquées, il propose au DEFR de retirer l’approbation de la substance active ou à l’OFAG de modifier les conditions et restrictions visées à l’art. 5, al. 2.
+<sup>3</sup> Si le service d’homologation arrive à la conclusion que les critères d’approbation prévus à l’art. 4 ne sont plus remplis ou que des informations supplémentaires requises en application de l’art. 5, al. 2, let. f, n’ont pas été communiquées, il propose au DFI de retirer l’approbation de la substance active ou modifie les conditions et restrictions visées à l’art. 5, al. 2.[^8-2]
 
 [^8-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 9
 
@@ -325,12 +331,14 @@ Le dossier récapitulatif comprend les éléments suivants:
 
 **Radiation de substances actives**
 
-<sup>1</sup> Le DEFR radie une substance active de l’annexe 1 lorsque la substance est radiée dans l’UE du règlement d’exécution (UE) n<sup>o</sup> 540/2011[^10-1]. Il fixe, pour la mise en circulation des stocks existants de produits phytosanitaires qui contiennent cette substance active et pour leur utilisation, des délais identiques à ceux fixés dans l’UE.[^10-2]
+<sup>1</sup> Le DFI radie une substance active de l’annexe 1 lorsque la substance est radiée dans l’UE du règlement d’exécution (UE) n<sup>o</sup> 540/2011[^10-1]. Il fixe, pour la mise en circulation des stocks existants de produits phytosanitaires qui contiennent cette substance active et pour leur utilisation, des délais identiques à ceux fixés dans l’UE.[^10-2]
 
-<sup>2</sup> Le DEFR peut renoncer à radier une substance active de l’annexe 1 lorsque, pour un usage, il n’existe pas d’autre solution pour lutter contre un organisme nuisible et pour autant qu’il n’y ait pas d’effet nocif sur la santé humaine lors d’une utilisation conforme aux prescriptions. L’utilisation de cette substance est alors limitée à cet usage. L’approbation des substances concernées est réexaminée de manière régulière.
+<sup>2</sup> Sur demande du Département fédéral de l’économie, de la formation et de la recherche (DEFR), il peut renoncer à radier une substance active de l’annexe 1 lorsque, pour un usage, il n’existe pas d’autre solution pour lutter contre un organisme nuisible et pour autant qu’il n’y ait pas d’effet nocif sur la santé humaine lors d’une utilisation conforme aux prescriptions. L’utilisation de cette substance est dans ce cas limitée à cet usage. L’approbation des substances concernées est réexaminée de manière régulière. Les art. 62*a* et 62*b* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration (LOGA)[^10-3] s’appliquent à la collaboration des départements.[^10-4]
 
 [^10-1]: Règlement d’exécution (UE) n<sup>o</sup> 540/2011 de la Commission du 25 mai 2011 portant application du règlement (CE) n<sup>o</sup> 1107/2009 du Parlement européen et du Conseil, en ce qui concerne la liste des substances actives approuvées, JO L 153 du 11.6.2011, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2020/1293, JO L 302 du 16.9.2020, p. 24.
 [^10-2]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5563](https://fedlex.data.admin.ch/eli/oc/2020/962)).
+[^10-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^10-4]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 ### Section 1*a***** Critères et procédure d’approbation des substances de base
 
@@ -351,17 +359,18 @@ Une substance de base est approuvée si:
 - c. sa destination principale n’est pas d’être utilisée à des fins phytosanitaires, mais qu’elle est néanmoins utile à la protection phytosanitaire, soit directement, soit dans un produit constitué par la substance de base et un simple diluant et
 - d. elle n’a pas d’effet nocif immédiat ou différé sur la santé humaine ou animale, ni d’effet inacceptable sur l’environnement.
 
-<sup>2</sup> Concernant les substances de base, l’OFAG peut fixer par analogie les conditions et restrictions visées à l’art. 5, al. 2.
+<sup>2</sup> Concernant les substances de base, le service d’homologation peut fixer par analogie les conditions et restrictions visées à l’art. 5, al. 2.
 
-<sup>3</sup> Les macro-organismes qui sont considérés comme exotiques au sens de l’art. 3, al. 1, let. f, de l’ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement[^10a-1] et les micro-organismes ne peuvent pas être approuvés en tant que substances de base.
+<sup>3</sup> Les macro-organismes qui sont considérés comme exotiques au sens de l’art. 3, al. 1, let. f, de l’ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement (ODE)[^10a-1] et les micro-organismes ne peuvent pas être approuvés en tant que substances de base.[^10a-2]
 
 [^10a-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^10a-2]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 10b
 
 **Liste des substances de base**
 
-<sup>1</sup> Le DEFR inscrit une nouvelle substance de base sur la liste des substances de base approuvées (annexe 1, partie D) lorsqu’elle a été examinée et qu’elle remplit les critères visés à l’art. 10*a*.
+<sup>1</sup> Le DFI inscrit une nouvelle substance de base sur la liste des substances de base approuvées (annexe 1, partie D) lorsqu’elle a été examinée et qu’elle remplit les critères visés à l’art. 10*a*.
 
 <sup>2</sup> Il peut inscrire comme substances de base les substances admises comme telles dans l’annexe du règlement d’exécution (UE) n<sup>o</sup> 540/2011[^10b-1] sans qu’un examen des conditions visées à l’art. 10*a*, al. 1, ne soit effectué.[^10b-2]
 
@@ -395,7 +404,7 @@ Elle doit y joindre les documents suivants:
 
 **Radiation d’une substance de base**
 
-<sup>1</sup> Le DEFR radie une substance de base de l’annexe 1, partie D, lorsqu’elle ne remplit plus les critères visés à l’art. 10*a*.
+<sup>1</sup> Le DFI radie une substance de base de l’annexe 1, partie D, lorsqu’elle ne remplit plus les critères visés à l’art. 10*a*.
 
 <sup>2</sup> Il peut renoncer à radier une substance de base de l’annexe 1 lorsque, pour un usage, il n’existe pas d’autre solution pour lutter contre un organisme nuisible et pour autant qu’il n’y ait pas d’effet nocif sur la santé humaine lors d’une utilisation conforme aux prescriptions. L’utilisation de cette substance est alors limitée à cet usage. L’approbation des substances concernées est réexaminée de manière régulière.[^10e-1]
 
@@ -411,19 +420,19 @@ Elle doit y joindre les documents suivants:
 
 <sup>2</sup> Les art. 5 à 10 sont applicables par analogie.
 
-<sup>3</sup> Le DEFR peut fixer, dans les annexes 5 et 6, des exigences spécifiques relatives au dossier devant accompagner une demande d’approbation d’un phytoprotecteur ou d’un synergiste.
+<sup>3</sup> Le DFI peut fixer, dans les annexes 5 et 6, des exigences spécifiques relatives au dossier devant accompagner une demande d’approbation d’un phytoprotecteur ou d’un synergiste.
 
 #### Art. 12
 
 **Phytoprotecteurs et synergistes déjà mis en circulation**
 
-Le DEFR peut fixer un programme de réexamen progressif des synergistes et des phytoprotecteurs mis en circulation avant la date d’entrée en vigueur du présent article. Il tient compte à cet effet du programme de réévaluation de l’UE.
+Le DFI peut fixer un programme de réexamen progressif des synergistes et des phytoprotecteurs mis en circulation avant la date d’entrée en vigueur du présent article. Il tient compte à cet effet du programme de réévaluation de l’UE.
 
 ### Section 3 Coformulants
 
 #### Art. 13
 
-Les coformulants qui ne peuvent pas être introduits dans un produit phytosanitaire sont inscrits à l’annexe 3 par le DEFR. Il tient compte des décisions en la matière de l’Union européenne.
+Les coformulants qui ne peuvent pas être introduits dans un produit phytosanitaire sont inscrits à l’annexe 3 par le DFI. Il tient compte des décisions en la matière de l’Union européenne.
 
 ## Chapitre 3 Produits phytosanitaires
 
@@ -441,7 +450,7 @@ Les coformulants qui ne peuvent pas être introduits dans un produit phytosanita
 
 En dérogation à l’al. 1, aucune homologation n’est requise dans les cas suivants:
 
-- a.[^14-3] mise en circulation et utilisation de produits phytosanitaires à des fins de recherche ou de développement, conformément à l’art. 41; si les produits phytosanitaires sont des organismes ou contiennent des organismes, les dispositions de l’ordonnance du 9 mai 2012 sur l’utilisation confinée (OUC)[^14-4] et de l’ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement (ODE)[^14-5] sont réservées;
+- a.[^14-3] mise en circulation et utilisation de produits phytosanitaires à des fins de recherche ou de développement, conformément à l’art. 41; si les produits phytosanitaires sont des organismes ou contiennent des organismes, les dispositions de l’ordonnance du 9 mai 2012 sur l’utilisation confinée[^14-4] et de l’ODE[^14-5] sont réservées;
 - b. production, stockage ou mise en circulation d’un produit phytosanitaire destiné à être utilisé dans un pays tiers;
 
 <sup>3</sup>
@@ -455,7 +464,7 @@ L’homologation est valable pour un produit phytosanitaire:
 
 [^14-1]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
 [^14-2]: Introduit par l’annexe ch. 7 de l’O de Nagoya du 11 déc. 2015, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
-[^14-3]: Nouvelle teneur selon le ch. 12 de l’annexe 5 à l’O du 9 mai 2012 sur l’utilisation confinée, en vigueur depuis le 1<sup>er</sup> juin 2012 ([RO 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^14-3]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 [^14-4]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
 [^14-5]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 
@@ -510,9 +519,9 @@ Sous réserve de l’art. 34, un produit phytosanitaire ne peut être autorisé 
 
 <sup>3</sup> Le respect des exigences énumérées à l’al. 1, let. b et d à h, est assuré par des essais et des analyses officiels ou officiellement reconnus, dans des conditions agricoles, phytosanitaires et environnementales correspondant à l’emploi du produit phytosanitaire en question et représentatives des conditions d’utilisation.
 
-<sup>4</sup> L’OFAG peut, en ce qui concerne l’al. 1, let. f, définir des méthodes harmonisées; il tient compte pour se faire des méthodes arrêtées par l’UE.
+<sup>4</sup> Le service d’homologation peut, en ce qui concerne l’al. 1, let. f, définir des méthodes harmonisées; il tient compte pour se faire des méthodes arrêtées par l’UE.
 
-<sup>5</sup> Les principes uniformes d’évaluation et d’autorisation des produits phytosanitaires sont fixés à l’annexe 9; ils précisent les exigences visées à l’al. 1. Le DEFR peut adapter l’annexe 9.
+<sup>5</sup> Les principes uniformes d’évaluation et d’autorisation des produits phytosanitaires sont fixés à l’annexe 9; ils précisent les exigences visées à l’al. 1. Le DFI peut adapter l’annexe 9, en accord avec le DEFR et le Département fédéral de l’environnement, des transports, de l’énergie et de la communication. Les art. 62*a* et 62*b* LOGA[^17-6] s’appliquent à la collaboration des départements.[^17-7]
 
 <sup>6</sup> L’interaction entre la substance active, les phytoprotecteurs, les synergistes et les coformulants doit être prise en compte lors de l’évaluation des produits phytosanitaires.
 
@@ -520,7 +529,7 @@ Sous réserve de l’art. 34, un produit phytosanitaire ne peut être autorisé 
 
 Un produit phytosanitaire n’est autorisé en outre que:
 
-- a. s’il ne contient pas d’organismes considérés comme des organismes exotiques envahissants au sens de l’art. 3, let. h, ODE[^17-6] ou figurant à l’annexe 2 de l’ODE;
+- a. s’il ne contient pas d’organismes considérés comme des organismes exotiques envahissants au sens de l’art. 3, let. h, ODE[^17-8] ou figurant à l’annexe 2 de l’ODE;
 - b. si l’identité et les caractéristiques biologiques des micro-organismes et des macro-organismes qu’il contient sont suffisamment connues;
 - c. s’il ne contient pas de mélange de substances actives destinées à lutter contre des groupes différents d’organismes nuisibles tels que des insectes, des champignons ou des mauvaises herbes.
 
@@ -528,7 +537,7 @@ Un produit phytosanitaire n’est autorisé en outre que:
 
 <sup>9</sup> Les produits phytosanitaires consistant en des organismes génétiquement modifiés ou contenant de tels organismes ne sont autorisés que s’ils satisfont aux exigences de l’ODE.
 
-<sup>10</sup> L’OFAG peut refuser d’octroyer une autorisation, ou assortir cette autorisation de charges ou de conditions, s’il apparaît que des mesures de précaution sont applicables en vertu de l’art. 148*a* LAgr.
+<sup>10</sup> Le service d’homologation peut refuser d’octroyer une autorisation, ou assortir cette autorisation de charges ou de conditions, s’il apparaît que des mesures de précaution sont applicables en vertu de l’art. 148*a* LAgr.
 
 <sup>11</sup> Le service d’homologation peut autoriser, pour une durée de deux ans au maximum et à l’exception des produits phytosanitaires qui consistent en des organismes pathogènes ou qui contiennent de tels organismes, un produit phytosanitaire dont la substance active ne figure pas encore à l’annexe 1, si le produit en question répond aux exigences mentionnées aux al. 1, let. b à i, 5 et 9. Il transmet préalablement à l’Office fédéral de l’environnement (OFEV) les documents pertinents et le résultat de son examen pour avis.
 
@@ -537,7 +546,9 @@ Un produit phytosanitaire n’est autorisé en outre que:
 [^17-3]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
 [^17-4]: Cf. note de bas de page relative à l’art. 10, al. 1.
 [^17-5]: Introduit par le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5563](https://fedlex.data.admin.ch/eli/oc/2020/962)).
-[^17-6]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^17-6]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^17-7]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^17-8]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 
 #### Art. 18
 
@@ -868,7 +879,7 @@ L’évaluation comparative visée aux al. 1 et 2 n’est pas réalisée dans le
 
 <sup>5</sup> Sauf indication contraire, l’ensemble des dispositions relatives aux autorisations contenues dans la présente ordonnance sont applicables.
 
-<sup>6</sup> Le DEFR peut adapter la procédure pour l’évaluation comparative d’un produit phytosanitaire fixée à l’annexe 4 afin de prendre en considération l’évolution de cette procédure sur le plan international.
+<sup>6</sup> Le DFI peut adapter la procédure pour l’évaluation comparative d’un produit phytosanitaire fixée à l’annexe 4 afin de prendre en considération l’évolution de cette procédure sur le plan international.
 
 [^34-1]: Nouvelle teneur selon le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4199](https://fedlex.data.admin.ch/eli/oc/2018/680)).
 [^34-2]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)).
@@ -1329,7 +1340,7 @@ Les produits phytosanitaires qui sont homologués selon l’art. 36 doivent êtr
 
 <sup>6</sup> Les produits phytosanitaires importés peuvent déroger aux prescriptions concernant l’étiquetage avant leur première remise à des tiers en Suisse.
 
-<sup>7</sup> Le DEFR peut adapter les annexes 7, 8 et 11 en tenant compte des prescriptions internationales, notamment celles de l’UE.[^55-11]
+<sup>7</sup> Le DFI peut adapter les annexes 7, 8 et 11 en tenant compte des prescriptions internationales, notamment celles de l’UE.[^55-11]
 
 [^55-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 [^55-2]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1781](https://fedlex.data.admin.ch/eli/oc/2015/349)).
@@ -1446,9 +1457,11 @@ Les étiquettes des produits phytosanitaires qui contiennent exclusivement des s
 
 <sup>1</sup> Les producteurs, fournisseurs, distributeurs, importateurs et exportateurs de produits phytosanitaires tiennent des registres des produits phytosanitaires qu’ils produisent, importent, exportent, stockent, utilisent ou mettent sur le marché pendant cinq ans au moins. Les utilisateurs professionnels de produits phytosanitaires tiennent des registres des produits phytosanitaires qu’ils utilisent, contenant le nom du produit phytosanitaire, le moment de l’utilisation, la dose utilisée, la surface et la culture où le produit phytosanitaire a été utilisé, pendant trois ans au moins. Sur demande, ils communiquent les informations contenues dans ces registres à l’autorité compétente.
 
-<sup>2</sup> Les titulaires d’autorisations et les personnes qui importent les produits figurant dans la liste visée à l’art. 36 en vue de leur revente communiquent annuellement au service d’homologation toutes les données nécessaires concernant le volume des ventes de produits phytosanitaires.
+<sup>2</sup> Les titulaires d’autorisations et les personnes qui importent les produits figurant dans la liste visée à l’art. 36 en vue de leur revente communiquent annuellement à l’Office fédéral de l’agriculture (OFAG) toutes les données nécessaires concernant le volume des ventes de produits phytosanitaires.[^62-1]
 
 <sup>3</sup> Les données visées à l’al. 2 doivent être comparables à celles requises dans le cadre de systèmes internationaux d’informations notamment à ceux de l’UE (Eurostat).
+
+[^62-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 63
 
@@ -1489,7 +1502,7 @@ L’art. 67 OChim[^65-2] s’applique au vol, à la perte ou à la mise sur le m
 
 **Prescriptions générales d’utilisation**
 
-L’OFAG peut édicter des prescriptions générales d’utilisation comme les formules permettant de calculer les quantités utilisables, les distances à respecter ou l’utilisation de certains appareils.
+Le service d’homologation peut édicter des prescriptions générales d’utilisation comme les formules permettant de calculer les quantités utilisables, les distances à respecter ou l’utilisation de certains appareils.
 
 #### Art. 67
 
@@ -1505,7 +1518,7 @@ Si l’effet dangereux potentiel d’un produit phytosanitaire est jugé inaccep
 
 <sup>2</sup> Le service d’homologation fixe une charge y relative lorsque l’examen du dossier montre qu’il faut s’attendre, dans les eaux souterraines, à ce que la concentration maximale du produit phytosanitaire fixée pour l’eau potable dans l’ordonnance du DFI du 16 décembre 2016 sur l’eau potable et l’eau des installations de baignade et de douche accessibles au public[^68-2] puisse être atteinte.[^68-3]
 
-<sup>3</sup> L’OFAG publie et tient à jour une liste des produits phytosanitaires qu’il est interdit d’utiliser dans les zones S2 et S<sub>h</sub> de protection des eaux souterraines.[^68-4]
+<sup>3</sup> Le service d’homologation publie et tient à jour une liste des produits phytosanitaires qu’il est interdit d’utiliser dans les zones S2 et S<sub>h</sub> de protection des eaux souterraines.[^68-4]
 
 <sup>4</sup> L’utilisation de produits phytosanitaires dont l’étiquetage mentionne un des éléments listés à l’annexe 5, ch. 1.1 ou ch. 1.2, let. a ou b, ou ch. 2.1 ou ch. 2.2, let. a ou b, OChim[^68-5] est interdite dans les zones urbanisées sur des surfaces telles que parcs, jardins, terrains de sports et de loisirs, cours de récréation et terrains de jeux ainsi qu’à proximité immédiate d’infrastructures de santé. L’utilisation de produits phytosanitaires sur des surfaces de production agricoles à l’intérieur de zones urbanisées n’est pas soumise à cette interdiction.[^68-6]
 
@@ -1549,9 +1562,9 @@ Si l’effet dangereux potentiel d’un produit phytosanitaire est jugé inaccep
 
 **Service d’homologation et comité de pilotage**
 
-<sup>1</sup> L’OFAG est le service d’homologation des produits phytosanitaires.
+<sup>1</sup> Le service d’homologation des produits phytosanitaires est rattaché à l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV).[^71-1]
 
-<sup>2</sup> Un comité de pilotage est institué pour le service d’homologation. Sa composition est réglée à l’art. 77 OChim[^71-1].[^71-2]
+<sup>2</sup> Un comité de pilotage est institué pour le service d’homologation. Sa composition est réglée à l’art. 77 OChim[^71-2].[^71-3]
 
 <sup>3</sup>
 
@@ -1562,50 +1575,84 @@ Le comité de pilotage a les tâches et les compétences suivantes:
 
 <sup>4</sup> Le comité de pilotage prend ses décisions d’un commun accord.
 
-[^71-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^71-2]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 18 nov. 2020, en vigueur depuis le 15 déc. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^71-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^71-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^71-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 18 nov. 2020, en vigueur depuis le 15 déc. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
 #### Art. 72
 
-**Services d’évaluation**
+**Services d’évaluation**[^72-1]
 
 <sup>1</sup>
 
 Les services d’évaluation sont:
 
-- a. l’OFAG;
+- a. l’OFEV;
 - b. l’OSAV;
-- c. l’OFEV;
+- c. l’OFAG;
 - d. le SECO.
 
-<sup>2</sup>
+<sup>2</sup> Les services d’évaluation tiennent compte des documents techniques et autres documents d’orientation adoptés par l’UE pour l’évaluation des produits phytosanitaires.
 
-L’OFAG s’assure, en collaboration avec ses stations de recherches agronomiques et avec l’Institut fédéral de recherches sur la forêt, la neige et le paysage (FNP), que le produit phytosanitaire:
+[^72-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
-- a. se prête suffisamment à l’usage prévu et ne produit pas des effets secondaires inacceptables sur les plantes et les récoltes lorsqu’il est utilisé conformément aux prescriptions;
-- b. n’a pas d’effets secondaires inacceptables sur la santé de l’être humain et des animaux ni sur l’environnement lorsqu’il est utilisé conformément aux prescriptions.
+#### Art. 72a
 
-<sup>3</sup>
+**Tâches de l’OFEV**[^72a-1]
 
-L’OSAV a les tâches suivantes:
+<sup>1</sup>
 
-- a. il s’assure qu’un produit phytosanitaire, lorsqu’il est utilisé conformément aux prescriptions, ne présente pas de risques pour la santé de l’être humain;
-- b. il s’assure qu’un produit phytosanitaire, lorsqu’il est utilisé conformément aux prescriptions, n’a pas d’effets secondaires inacceptables, en ce qui concerne d’éventuels résidus dans ou sur les denrées alimentaires;
-- c.[^72-1] il détermine l’étiquetage et la classification du produit phytosanitaire en fonction des exigences de la protection de la santé.
+L’OFEV évalue:
 
-<sup>4</sup> L’OFEV détermine l’étiquetage et la classification du produit phytosanitaire en fonction de la menace qu’il présente pour l’environnement.
+- a. l’étiquetage et la classification des produits phytosanitaires en fonction du danger qu’ils représentent pour l’environnement et en fonction des dangers physico-chimiques;
+- b. le sort et la diffusion des produits phytosanitaires dans l’environnement;
+- c. l’impact des produits phytosanitaires sur les oiseaux et autres vertébrés terrestres, sur les organismes aquatiques et, en dehors de la zone agricole traitée, sur d’autres espèces non cibles.
 
-<sup>5</sup> Avant d’inscrire dans l’annexe 1 une substance active contenue dans un produit phytosanitaire soumis à autorisation ou lorsqu’une substance active est réévaluée, le service d’homologation fournit à l’OFEV, pour avis, les documents pertinents ainsi que les conclusions de son évaluation. La collaboration de l’OFEV est régie par les art. 62*a* et 62*b* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^72-2].
+<sup>2</sup> Si le produit phytosanitaire consiste en des organismes génétiquement modifiés ou contient de tels organismes, les tâches de l’OFEV sont régies par l’ODE[^72a-2].
 
-<sup>6</sup> Si le produit phytosanitaire consiste en des organismes génétiquement modifiés ou contient de tels organismes, les tâches de l’OFEV sont régies par l’ODE[^72-3].
+[^72a-1]: Introduit par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^72a-2]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 
-<sup>7</sup> Le SECO évalue les produits phytosanitaires en fonction des exigences de la santé et de la sécurité des utilisateurs lorsque les produits sont utilisés à des fins professionnelles ou commerciales. Pour ce faire, il se fonde sur l’appréciation toxicologique du produit phytosanitaire effectuée par l’OSAV et sur les données relatives à l’exposition, en se servant si possible de modèles reconnus.
+#### Art. 72b
 
-<sup>8</sup> Les services d’évaluation tiennent compte des documents techniques et autres documents d’orientation adoptés par l’UE pour l’évaluation des produits phytosanitaires.
+**Tâches de l’OSAV**[^72b-1]
 
-[^72-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)).
-[^72-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^72-3]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+L’OSAV évalue:
+
+- a. l’étiquetage et la classification des produits phytosanitaires en fonction des risques pour la santé;
+- b. la toxicité des produits phytosanitaires pour l’homme;
+- c.
+
+  les effets des produits phytosanitaires sur:
+
+  - 1\. la santé des utilisateurs non professionnels, des riverains et des personnes présentes,
+  - 2\. les vertébrés à combattre;
+
+- <sup>d.</sup> les effets sur la santé humaine d’éventuels résidus des produits phytosanitaires dans ou sur les aliments.
+
+[^72b-1]: Introduit par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+
+#### Art. 72c
+
+**Tâches de l’OFAG**[^72c-1]
+
+L’OFAG, avec sa station fédérale de recherches agronomiques (Agroscope) et avec l’Institut fédéral de recherches sur la forêt, la neige et le paysage (FNP), évalue:
+
+- a. l’efficacité des produits phytosanitaires contre les organismes nuisibles et les effets sur les plantes et les produits végétaux;
+- b. les effets des produits phytosanitaires sur les espèces non-cibles, la fertilité du sol et les abeilles dans les surfaces agricoles traitées;
+- c. les conséquences de la radiation d’une substance active de l’annexe 1 (art. 10) ou du retrait ou de la modification d’une autorisation (art. 29 et 29*a*) sur la production agricole, les demandes d’autorisation pour les utilisations mineures (art. 35) et les demandes d’homologation en cas de situation d’urgence (art. 40);
+- d. le comportement des résidus de produits phytosanitaires sur les plantes cultivées et les produits récoltés;
+- e. l’identité et les propriétés physico-chimiques des produits phytosanitaires.
+
+[^72c-1]: Introduit par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+
+#### Art. 72d
+
+**Tâches du SECO**[^72d-1]
+
+Le SECO évalue les effets des produits phytosanitaires sur la santé des utilisateurs professionnels ainsi que des travailleurs qui y sont exposés après leur utilisation. Pour ce faire, il se fonde sur l’évaluation toxicologique du produit phytosanitaire effectuée par l’OSAV.
+
+[^72d-1]: Introduit par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 73
 
@@ -1617,11 +1664,11 @@ Le service d’homologation a les tâches suivantes:
 
 - a. il coordonne la collaboration des services d’évaluation;
 - b. il sollicite l’appréciation et l’avis des services d’évaluation compétents;
-- c. il statue, après entente avec les services d’évaluation et dans la mesure où leur domaine de compétence est concerné, sur les demandes d’autorisation de produits phytosanitaires.
+- c.[^73-1] il statue, d’entente avec les services d’évaluation, sur les demandes d’autorisation de produits phytosanitaires.
 
 <sup>2</sup> Avant d’inscrire un produit phytosanitaire sur la liste visée à l’art. 36 ou d’homologuer un produit phytosanitaire en vue de maîtriser une situation d’urgence relevant de l’art. 40, le service d’homologation requiert l’avis des services d’évaluation dont le domaine de compétence est concerné.
 
-<sup>3</sup> Il dirige et coordonne la procédure d’homologation des produits phytosanitaires consistant en des organismes génétiquement modifiés ou contenant de tels organismes en tenant compte de l’ODE[^73-1]. Si des essais sur le terrain doivent être effectués pour la délivrance de l’autorisation, il ne procède à ces essais que si les exigences de l’ODE sont remplies.
+<sup>3</sup> Il dirige et coordonne la procédure d’homologation des produits phytosanitaires consistant en des organismes génétiquement modifiés ou contenant de tels organismes en tenant compte de l’ODE[^73-2]. Si des essais sur le terrain doivent être effectués pour la délivrance de l’autorisation, il ne procède à ces essais que si les exigences de l’ODE sont remplies.
 
 <sup>4</sup>
 
@@ -1634,7 +1681,12 @@ Il statue sur la modification ou le retrait d’une autorisation:
 
 <sup>6</sup> Le service d’homologation peut organiser, avec les autorités cantonales d’exécution, des contrôles de la mise en circulation ou de l’utilisation de produits phytosanitaires déterminés.
 
-[^73-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+<sup>7</sup> La collaboration des services d’évaluation est régie par les art. 62*a* et 62*b* LOGA[^73-3].[^73-4]
+
+[^73-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^73-2]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^73-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^73-4]: Introduit par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 74
 
@@ -1662,7 +1714,7 @@ Le service d’homologation peut faire appel à des experts pour l’exécution 
 
 **Importation et permis général d’importation**
 
-<sup>1</sup> L’importation de produits phytosanitaires à titre professionnel ou commercial requiert un permis général d’importation (PGI). Celui-ci est délivré par le service d’homologation.
+<sup>1</sup> L’importation de produits phytosanitaires à titre professionnel ou commercial requiert un permis général d’importation (PGI). Celui-ci est délivré par l’OFAG.[^77-1]
 
 <sup>2</sup> Le PGI est délivré aux personnes qui en ont fait la demande par écrit et qui ont leur domicile, leur siège social ou une succursale en Suisse, ou qui sont ressortissantes d’un État avec lequel la Suisse a conclu un accord prévoyant que les deux pays renoncent à ces exigences.
 
@@ -1671,6 +1723,11 @@ Le service d’homologation peut faire appel à des experts pour l’exécution 
 <sup>4</sup> La personne assujettie à l’obligation de déclarer doit indiquer le numéro du PGI de l’importateur dans la déclaration en douane.
 
 <sup>5</sup> Le service d’homologation informe les autorités cantonales des titulaires d’un PGI qui ont leur domicile ou ont leur siège sur le territoire de leur canton.
+
+<sup>6</sup> Un produit phytosanitaire ne peut être importé que s’il a été homologué conformément à la présente ordonnance ou qu’il ne requiert aucune homologation conformément à l’art. 14, al. 2.[^77-2]
+
+[^77-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^77-2]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 685](https://fedlex.data.admin.ch/eli/oc/2021/685)).
 
 #### Art. 78
 
@@ -1683,17 +1740,23 @@ Le service d’homologation peut faire appel à des experts pour l’exécution 
 
 #### Art. 79
 
-**Émoluments**
+**Émoluments**[^79-1]
 
-Les émoluments perçus pour les actes administratifs relevant de la présente ordonnance et le mode de calcul sont régis par l’ordonnance du 7 décembre 1998 sur les émoluments perçus par l’Office fédéral de l’agriculture[^79-1].
+Les émoluments perçus pour les actes administratifs relevant de la présente ordonnance et le mode de calcul sont régis par l’ordonnance du 30 octobre 1985 sur les émoluments de l’OSAV[^79-2].
 
-[^79-1]: [[RO 1998 3088](https://fedlex.data.admin.ch/eli/oc/1998/3088_3088_3088). [RO 2000 2698](https://fedlex.data.admin.ch/eli/oc/2000/446)art. 14 al. 2]. Voir actuellement l’O du 16 juin 2006 ([RS 910.11](https://fedlex.data.admin.ch/eli/cc/2006/415)).
+[^79-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^79-2]: [RS 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
 
 ### Section 2 Cantons
 
 #### Art. 80
 
-<sup>1</sup> Les cantons sont chargés de surveiller le marché des produits phytosanitaires et de veiller à ce que ces derniers soient utilisés conformément aux prescriptions. L’OFAG n’exécute ces tâches qu’à titre subsidiaire.
+<sup>1</sup>
+
+Les cantons sont chargés de surveiller le marché des produits phytosanitaires et de veiller à ce que ces derniers soient utilisés conformément aux prescriptions. Les tâches ci-après sont assumées à titre subsidiaire par les services suivants:
+
+- a. la surveillance du marché des produits phytosanitaires, par le service d’homologation, en collaboration avec l’OFAG;
+- b. le contrôle de l’utilisation conforme aux prescriptions des produits phytosanitaires dans l’agriculture, par l’OFAG.[^80-1]
 
 <sup>2</sup>
 
@@ -1701,11 +1764,12 @@ Les cantons contrôlent notamment le respect:
 
 - a. des décisions rendues en vertu des art. 18 et 37;
 - b. des prescriptions concernant l’emballage, l’étiquetage, la fiche de données de sécurité et la publicité (art. 54 à 60);
-- c.[^80-1] des prescriptions concernant le devoir de diligence (art. 61), la conservation (art. 63), la remise (art. 64), le vol, la perte et la mise en circulation par erreur (art. 65), les restrictions d’utilisation (art. 68) et l’obligation de reprendre (art. 70).
+- c.[^80-2] des prescriptions concernant le devoir de diligence (art. 61), la conservation (art. 63), la remise (art. 64), le vol, la perte et la mise en circulation par erreur (art. 65), les restrictions d’utilisation (art. 68) et l’obligation de reprendre (art. 70).
 
 <sup>3</sup> Ils veillent à ce que les interdictions d’utilisation visées à l’art. 67 soient exécutées.
 
-[^80-1]: Nouvelle teneur selon le ch. I de l’O du 23 mai 2012, en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)).
+[^80-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^80-2]: Nouvelle teneur selon le ch. I de l’O du 23 mai 2012, en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)).
 
 ### Section 3 Saisie et confiscation
 
@@ -1782,7 +1846,7 @@ Les conditions d’inscription des substances actives dans l’annexe 1 selon l�
 
 <sup>3</sup> Les produits phytosanitaires qui ont été étiquetés et emballés selon le droit en vigueur avant le 1<sup>er</sup> août 2005 peuvent être utilisés jusqu’au 31 juillet 2011.
 
-<sup>4</sup> Le DEFR peut prolonger les délais visés à l’al. 1 lorsqu’une prolongation de ces délais a été décidée dans l’UE.
+<sup>4</sup> Le DFI peut prolonger les délais visés à l’al. 1 lorsqu’une prolongation de ces délais a été décidée dans l’UE.
 
 <sup>5</sup> Les phytoprotecteurs et les synergistes déjà en circulation avant l’entrée en vigueur de la présente ordonnance doivent être annoncés auprès du service d’homologation dans les douze mois qui suivent l’entrée en vigueur de la présente ordonnance.
 
@@ -1875,6 +1939,24 @@ Les produits phytosanitaires qui contiennent une substance active qui sera biff�
 
 [^86f-1]: Introduit par le ch. I de l’O du DEFR du 17 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321)).
 
+#### Art. 86g
+
+**Disposition transitoire relative à la modification du 30 novembre 2021**[^86g-1]
+
+Les produits phytosanitaires contenant une substance active qui sera biffée de l’annexe 1 au moment de l’entrée en vigueur de la présente modification du 30 novembre 2021 peuvent être mis en circulation et utilisés jusqu’aux dates suivantes:
+
+<table>
+<tr><th>Nom commun, numéro d’identification de la substance active</th><th>Délai pour la mise en circulation des produits phytosanitaires contenant la substance active</th><th>Délai d’utilisation des produits phytosanitaires contenant la substance active</th></tr>
+<tr><td>alpha-Cypermethrin</td><td>30.06.2022</td><td>30.06.2023</td></tr>
+<tr><td>Cyproconazole</td><td>30.06.2022</td><td>30.06.2023</td></tr>
+<tr><td>Diflubenzuron</td><td>30.06.2022</td><td>30.06.2023</td></tr>
+<tr><td>Famoxadone</td><td>30.06.2022</td><td>31.12.2022</td></tr>
+<tr><td>Prochloraz</td><td>30.06.2022</td><td>30.06.2023</td></tr>
+<tr><td>Triazoxide</td><td>30.06.2022</td><td>30.06.2023</td></tr>
+</table>
+
+[^86g-1]: Introduit par le ch. I de l’O du DEFR du 30 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 795](https://fedlex.data.admin.ch/eli/oc/2021/795)).
+
 ### Section 3 Entrée en vigueur
 
 #### Art. 87
@@ -1887,7 +1969,7 @@ Annexe 1*[^t-1]*
 
 ## Substances actives approuvées dont l’incorporation est autorisée dans les produits phytosanitaires
 
-[^t-1]: Mise à jour selon le ch. I al. 1 de l’O du DEFR du 17 juin 2011 ([RO 2011 2927](https://fedlex.data.admin.ch/eli/oc/2011/381)), le ch. II de l’O du 23 mai 2012 ([RO 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), le ch. I des O du DEFR du 11 déc. 2012 ([RO 2013 249](https://fedlex.data.admin.ch/eli/oc/2013/34)), du 12 nov. 2014 ([RO 2014 4215](https://fedlex.data.admin.ch/eli/oc/2014/703)), le ch. II de l’O du 28 oct. 2015 ([RO 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)), le ch. II de l’O du DEFR du 28 oct. 2015 ([RO 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)), le ch. I al. 1 de l’O du DEFR du 16 sept. 2016 ([RO 2016 3345](https://fedlex.data.admin.ch/eli/oc/2016/568)), le ch. I des O du DEFR du 9 juin 2017 ([RO 2017 3501](https://fedlex.data.admin.ch/eli/oc/2017/381)), du 28 mai 2018 ([RO 2018 2377](https://fedlex.data.admin.ch/eli/oc/2018/341)), du 31 oct. 2018 ([RO 2018 4421](https://fedlex.data.admin.ch/eli/oc/2018/705)), du 25 juin 2019 ([RO 2019 2091](https://fedlex.data.admin.ch/eli/oc/2019/383)), du 12 nov. 2019 ([RO 2019 4263](https://fedlex.data.admin.ch/eli/oc/2019/734)) et du 2 juin 2020 ([RO 2020 2165](https://fedlex.data.admin.ch/eli/oc/2020/427)) et le ch. II de l’O du DEFR du 17 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321)).
+[^t-1]: Mise à jour par le ch. I al. 1 de l’O du DEFR du 17 juin 2011 ([RO 2011 2927](https://fedlex.data.admin.ch/eli/oc/2011/381)), le ch. II de l’O du 23 mai 2012 ([RO 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), le ch. I des O du DEFR du 11 déc. 2012 ([RO 2013 249](https://fedlex.data.admin.ch/eli/oc/2013/34)), du 12 nov. 2014 ([RO 2014 4215](https://fedlex.data.admin.ch/eli/oc/2014/703)), le ch. II de l’O du 28 oct. 2015 ([RO 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)), le ch. II de l’O du DEFR du 28 oct. 2015 ([RO 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)), le ch. I al. 1 de l’O du DEFR du 16 sept. 2016 ([RO 2016 3345](https://fedlex.data.admin.ch/eli/oc/2016/568)), le ch. I des O du DEFR du 9 juin 2017 ([RO 2017 3501](https://fedlex.data.admin.ch/eli/oc/2017/381)), du 28 mai 2018 ([RO 2018 2377](https://fedlex.data.admin.ch/eli/oc/2018/341)), du 31 oct. 2018 ([RO 2018 4421](https://fedlex.data.admin.ch/eli/oc/2018/705)), du 25 juin 2019 ([RO 2019 2091](https://fedlex.data.admin.ch/eli/oc/2019/383)), du 12 nov. 2019 ([RO 2019 4263](https://fedlex.data.admin.ch/eli/oc/2019/734)) et du 2 juin 2020 ([RO 2020 2165](https://fedlex.data.admin.ch/eli/oc/2020/427)) et le ch. II des O du DEFR du 17 mai 2021 ([RO 2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321)) et du 30 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 795](https://fedlex.data.admin.ch/eli/oc/2021/795)).
 
 ### Partie A: Substances chimiques
 
@@ -1921,7 +2003,6 @@ Annexe 1*[^t-1]*
 <tr><td>(et les sels de sodium et de potassium de ces acides)</td><td colspan="4"></td><td></td><td></td><td></td></tr>
 <tr><td>Acides octanoïques (sous forme de sels de Na et de Fe)</td><td colspan="4">octanoic acid</td><td>124-07-2</td><td>–</td><td>produit cicatrisant</td></tr>
 <tr><td>Aclonifène</td><td colspan="4">2-chloro-6-nitro-3-phenoxyaniline</td><td>74070-46-5</td><td>498</td><td>herbicide</td></tr>
-<tr><td>alpha-Cypermethrin</td><td colspan="4">A racemate comprising (S)-α-cyano-3-phenoxybenzyl (1R,3R)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate and (R)-α-cyano-3-phenoxybenzyl (1S,3S)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate</td><td>67375-30-8</td><td>454</td><td>insecticide</td></tr>
 <tr><td>alpha-Pinen</td><td colspan="4">2,6,6-Trimethylbicyclo[3.1.1]hept-2-en</td><td>2437-95-8</td><td>–</td><td>phéromone</td></tr>
 <tr><td>Ametoctradin</td><td colspan="4">5-éthyl-6-octyl [1,2,4]triazolo[1,5-a] pyrimidin-7-amine</td><td>865318-97-4</td><td>818</td><td>fongicide</td></tr>
 <tr><td>Amidosulfuron</td><td colspan="4">1-(4,6-dimethoxypyrimidin-2-yl)-3-mesyl(methyl)sulfamoylurea</td><td>120923-37-7</td><td>515</td><td>herbicide</td></tr>
@@ -1978,7 +2059,6 @@ Annexe 1*[^t-1]*
 <tr><td>Cymoxanil</td><td colspan="4">1-(2-cyano-2-methoxyiminoacetyl)-3-ethylurea</td><td>57966-95-7</td><td>419</td><td>fongicide</td></tr>
 <tr><td>Cyperméthrine</td><td colspan="4">(RS)-α-cyano-3-phenoxybenzyl (1RS,3RS;1RS,3SR)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate</td><td>52315-07-8</td><td>332</td><td>insecticide</td></tr>
 <tr><td>Cyperméthrine high-cis</td><td colspan="4">(RS)-α-yano-3-phenoxybenzyl (1RS)-cis,trans(&gt;80 %:&lt;20 %)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate</td><td>52315-07-8</td><td>–</td><td>insecticide</td></tr>
-<tr><td>Cyproconazole</td><td colspan="4">(2RS,3RS;2RS,3SR)-2-(4-chlorophenyl)-3-cyclopropyl-1-(1H-1,2,4-triazol-1-yl)butan-2-ol</td><td>94361-06-5</td><td>600</td><td>fongicide</td></tr>
 <tr><td>Cyprodinil</td><td colspan="4">4-cyclopropyl-6-methyl-N-phenylpyrimidin-2-amine</td><td>121552-61-2</td><td>511</td><td>fongicide</td></tr>
 <tr><td>Daminozide</td><td colspan="4">N-dimethylaminosuccinamic acid</td><td>1596-84-5</td><td>330</td><td>phytorégulateur</td></tr>
 <tr><td>Dazomet (DMTT)</td><td colspan="4">3,5-dimethyl-1,3,5-thiadiazinane-2-thione</td><td>533-74-4</td><td>146</td><td>nématicide, fongicide, herbicide, insecticide</td></tr>
@@ -1987,7 +2067,6 @@ Annexe 1*[^t-1]*
 <tr><td>Dicamba</td><td colspan="4">3,6-dichloro-o-anisic acid</td><td>1918-00-9</td><td>85</td><td>herbicide</td></tr>
 <tr><td>Dichlorprop-P</td><td colspan="4">(R)-2-(2,4-dichlorophenoxy)propionic acid</td><td>15165-67-0</td><td>476</td><td>herbicide</td></tr>
 <tr><td>Difenoconazole</td><td colspan="4">cis,trans-3-chloro-4-[4-methyl-2-(1H-1,2,4-triazol-1-ylmethyl)-1,3-dioxolan-2-yl]phenyl 4-chlorophenyl ether</td><td>119446-68-3</td><td>687</td><td>fongicide</td></tr>
-<tr><td>Diflubenzuron</td><td colspan="4">1-(4-chlorophenyl)-3-(2,6-difluorobenzoyl)urea</td><td>35367-38-5</td><td>339</td><td>insecticide</td></tr>
 <tr><td>Diflufenican</td><td colspan="4">2,4-difluoro-2-(α,α,α-trifluoro-m-tolyloxy)nicotinanilide</td><td>83164-33-4</td><td>462</td><td>herbicide</td></tr>
 <tr><td>Dimethachlore</td><td colspan="4">2-chloro-N-(2-methoxyethyl)aceto-2,6-xylidide</td><td>50563-36-5</td><td>688</td><td>herbicide</td></tr>
 <tr><td>Diméthenamide-P</td><td colspan="4">S-2-chloro-N-(2,4-dimethyl-3-thienyl)-N- (2-methoxy-1-methylethyl)-acetamide</td><td>163515-14-8</td><td>638</td><td>herbicide</td></tr>
@@ -2010,7 +2089,6 @@ Annexe 1*[^t-1]*
 <tr><td>Étoxazole</td><td colspan="4">(*RS*)-5-*tert*-butyl-2-[2-(2,6-difluorophenyl)-4,5-dihydro-1,3-oxazol-4-yl]phenetole</td><td>153233-91-1</td><td>623</td><td>acaricide</td></tr>
 <tr><td>Extrait de prèle</td><td colspan="4"></td><td></td><td>–</td><td>fongicide, bactéricide</td></tr>
 <tr><td>Extrait de quassia</td><td colspan="4"></td><td></td><td>–</td><td>insecticide</td></tr>
-<tr><td>Famoxadone</td><td colspan="4">3-anilino-5-methyl-5-(4-phenoxyphenyl)-1,3-oxazolidine-2,4-dione</td><td>131807-57-3</td><td>594</td><td>fongicide</td></tr>
 <tr><td>Farine de cornes</td><td colspan="4">–</td><td></td><td>–</td><td>répulsive du gibier</td></tr>
 <tr><td>Farine de corps d’animaux</td><td colspan="4"></td><td></td><td>–</td><td>répulsive du gibier</td></tr>
 <tr><td>Farine de moutarde jaune</td><td colspan="4"></td><td></td><td>–</td><td>fongicide</td></tr>
@@ -2061,7 +2139,7 @@ Annexe 1*[^t-1]*
 <tr><td>Imazalil</td><td colspan="4">(±)-1-(β-allyloxy-2,4-dichlorophenylethyl)imidazole</td><td>35554-44-0</td><td>335</td><td>fongicide</td></tr>
 <tr><td>Imazamox</td><td colspan="4">(RS)-2-(4-isopropyl-4-methyl-5-oxo-2-imidazolin-2-yl)-5-methoxymethylnicotinic acid</td><td>114311-32-9</td><td>619</td><td>herbicide</td></tr>
 <tr><td>Indoxacarb</td><td colspan="4">(S)-methyl 7-chloro-2,5-dihydro-2[[(methoxy-carbonyl) [4-(trifluoro-methoxy)phenyl]amino]carbonyl]-indeno[1,2-e][1,3,4]oxadiazine-4a (3H)-carboxylate</td><td>173584-44-6</td><td>612</td><td>insecticide</td></tr>
-<tr><td>Iodosulfuron</td><td colspan="4">methyl 4-iodo-2-[3-(4-methoxy-6-methyl-1,2,5-triazin-2‑yl)ureidosulfonyl]benzoate, sodium salt</td><td>144550-36-7</td><td>634</td><td>herbicide</td></tr>
+<tr><td>Iodosulfuron</td><td colspan="4">4-iodo-2-[(4- methoxy-6-methyl- 1,3,5-triazin-2-yl) carbamoylsulfamoyl]benzoic acid *Variante:* iodosulfuron- methyl-sodium</td><td>185119-76-0 144550-36-7</td><td>634 634.501</td><td>herbicide</td></tr>
 <tr><td>Iprovalicarb</td><td colspan="4">{2-Methyl-1-[1-(4-methylphenyl)-ethylcarbonyl]-propyl}-carbamic acid isopropyl ester</td><td>140923-17-7</td><td>620</td><td>fongicide</td></tr>
 <tr><td>Ipsdienol</td><td colspan="4">(S)-2-methyl-6-methyleneocta-2,7-dien-4-ol</td><td>35628-00-3</td><td>–</td><td>phéromone</td></tr>
 <tr><td>Isoxadifen-éthyle</td><td colspan="4">Ethyl 5,5-diphenyl-2-isoxazoline-3-carboxylate</td><td>163520-33-0</td><td>666.202</td><td>herbicide «safener»</td></tr>
@@ -2070,7 +2148,7 @@ Annexe 1*[^t-1]*
 <tr><td>Kaolin</td><td colspan="4">Kaolin (dénomination CA)</td><td>1332-58-7</td><td>–</td><td>insecticide</td></tr>
 <tr><td>Kresoxim-méthyle</td><td colspan="4">methyl (E)-2-methoxyimino-[2-(o-tolyloxymethyl)phenyl]acÉtate</td><td>143390-89-0</td><td>568</td><td>fongicide</td></tr>
 <tr><td>Lambda-Cyhalothrin</td><td colspan="4">(S)-α-cyano-3-phenoxybenzyl (Z)-(1R,3R)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate and (R)-α-cyano-3-phenoxybenzyl (Z)-(1S,3S)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate</td><td>91465-08-6</td><td>463</td><td>insecticide</td></tr>
-<tr><td>Laminarine</td><td colspan="4">(1-3)-13-D-glucan</td><td>9008-22-4</td><td>671</td><td>stimulateur des défenses naturelles, substance à faible risque</td></tr>
+<tr><td>Laminarine</td><td colspan="4">(1→3)-β-D-glucan</td><td>9008-22-4</td><td>671</td><td>stimulateur des défenses naturelles, substance à faible risque</td></tr>
 <tr><td>Lécithine</td><td colspan="4">L-α-Phosphatidyl choline</td><td>8002-43-5</td><td>–</td><td>fongicide</td></tr>
 <tr><td>Lenacile</td><td colspan="4">3-cyclohexyl-1,5,6,7-tetrahydrocyclopentapyrimidine-2,4(3H)-dione</td><td>2164-08-1</td><td>163</td><td>herbicide</td></tr>
 <tr><td>Limonen</td><td colspan="4">4-isopropenyl-1-metyhlcyclohexene</td><td>5989-27-5</td><td>–</td><td>phéromone</td></tr>
@@ -2128,12 +2206,11 @@ Annexe 1*[^t-1]*
 <tr><td>Pirimicarb</td><td colspan="4">2-dimethylamino-5,6-dimethylpyrimidin-4-yl dimethylcarbamate</td><td>23103-98-2</td><td>231</td><td>insecticide</td></tr>
 <tr><td>Pirimiphos-méthyl</td><td colspan="4">O,O-dimethyl O-2-diethylamino-6-methylpyrimidin-4-yl phosphorothioate</td><td>29232-93-7</td><td>239</td><td>insecticide, acaricide</td></tr>
 <tr><td>Polysulfure de calcium</td><td colspan="4">Calcium polysulfide</td><td>1344-81-6</td><td>17</td><td>Fongicide</td></tr>
-<tr><td>Prochloraz</td><td colspan="4">N-propyl-N-[2-(2,4,6-trichlorophenoxy)ethyl]imidazole-1-carboxamide</td><td>67747-09-5</td><td>407</td><td>fongicide</td></tr>
 <tr><td>Prohexadione-calcium</td><td colspan="4">calcium 3-oxido-5-oxo-4-propionylcyclohex-3-enecarboxylate</td><td>127277-53-6</td><td>567.020</td><td>phytorégulateur</td></tr>
 <tr><td>Propamocarb</td><td colspan="4">propyl 3-(dimethylamino)propylcarbamate</td><td>24579-73-5</td><td>399</td><td>fongicide</td></tr>
 <tr><td></td><td colspan="4">*Variante*: propamocarb hydrochloride</td><td>25606-41-1</td><td>399.601</td><td></td></tr>
 <tr><td>Propaquizafop</td><td colspan="4">2-isopropylideneamino-oxyethyl (R)-2-[4-(6-chloroquinoxalin-2-yloxy)phenoxy]propionate</td><td>111479-05-1</td><td>713</td><td>herbicide</td></tr>
-<tr><td>Propoxycarbazone-sodium</td><td colspan="4">methyl 2-(4,5-dihydro-4-methyl-5-oxo-3-propoxy-1H-1,2,4-triazol-1-yl)carboxamidosulfonylbenzoate, sodium salt</td><td>181274-15-7</td><td>655.011</td><td>herbicide</td></tr>
+<tr><td>Propoxycarbazone</td><td colspan="4">methyl 2-[(4,5- dihydro-4-methyl-5- oxo-3-propoxy-1H- 1,2,4-triazole-1-carboxamido)sulfonyl]benzoate *Variante:* propoxycarbazone-sodium</td><td>145026-81-9 181274-15-7</td><td>655 655.011</td><td>herbicide</td></tr>
 <tr><td>Propyzamide</td><td colspan="4">3,5-dichloro-N-(1,1-dimethylpropynyl)benzamide</td><td>23950-58-5</td><td>315</td><td>herbicide</td></tr>
 <tr><td>Proquinazid</td><td colspan="4">6-iodo-2-propoxy-3-propylquinazolin-4(3H)-one</td><td>189278-12-4</td><td>764</td><td>fongicide</td></tr>
 <tr><td>Prosulfocarb</td><td colspan="4">S-benzyl dipropylthiocarbamate</td><td>52888-80-9</td><td>539</td><td>herbicide</td></tr>
@@ -2178,7 +2255,6 @@ Annexe 1*[^t-1]*
 <tr><td>Thiencarbazone</td><td colspan="4">methyl 4-[(4,5-dihydro-3-methoxy-4-methyl-5-oxo-1 H‑1,2,4-triazol-1 -yl)carbonylsulfamoyl]-5-methylthiophene-3-carboxylate</td><td>317815-83-1</td><td>797</td><td>herbicide</td></tr>
 <tr><td>Thifensulfuron-méthyl</td><td colspan="4">3-(4-methoxy-6-methyl-1,3,5-triazin-2-ylcarbamoylsulamoyl)thiophen-2-carboxylic acid</td><td>79277-27-3</td><td>452.201</td><td>herbicide</td></tr>
 <tr><td>Tolclofos-methyl</td><td colspan="4">O-2,6-dichloro-p-tolyl O,O-dimethyl phosphorothioate</td><td>57018-04-9</td><td>479</td><td>fongicide</td></tr>
-<tr><td>Triazoxide</td><td colspan="4">7-chloro-3-imidazol-1-yl-1,2,4-benzotriazine 1-oxide</td><td>72459-58-6</td><td>729</td><td>fongicide</td></tr>
 <tr><td>Tribenuron</td><td colspan="4">2-[4-methoxy-6-methyl-1,3,5-triazin-2-yl(methyl)carbamoylsulfamoyl]benzoic acid</td><td>106040-48-6</td><td>546</td><td>herbicide</td></tr>
 <tr><td>Tribenuron-méthyl</td><td colspan="4">methyl ester of 2-[4-methoxy-6-methyl-1,3,5-triazin-2‑yl(methyl)carbamoylsulfamoyl]benzoic acid</td><td>101200-48-0</td><td>546.201</td><td>herbicide</td></tr>
 <tr><td>Triclopyr</td><td colspan="4">3,5,6-trichloro-2-pyridyloxyacetic acid</td><td>55335-06-3</td><td>376</td><td>herbicide</td></tr>
@@ -2226,6 +2302,7 @@ Annexe 1*[^t-1]*
 <tr><td>Photorhabdus luminescens – souche ATCC 29999</td><td>Bactéries enthomopathogènes</td><td>Bactéries</td><td>insecticide</td></tr>
 <tr><td>Pseudomonas chlororaphis – souche MA342</td><td>Bactéries antagonistes</td><td>Bactéries</td><td>désinfectant des semences</td></tr>
 <tr><td>Pseudomonas sp. – souche DSMZ 13134</td><td>Bactéries antagonistes</td><td>Bactéries</td><td>fongicide</td></tr>
+<tr><td>Saccharomyces cerevisiae – souche LAS02</td><td>Champignon antagoniste</td><td>Champignon</td><td>fongicide, substance à faible risque</td></tr>
 <tr><td>Streptomyces griseoviridis – souche K61</td><td>Bactéries antagonistes</td><td>Bactéries</td><td>fongicide</td></tr>
 <tr><td>Trichoderma asperellum – souche ICC 012</td><td>Champignon antagoniste</td><td>Champignon</td><td>fongicide</td></tr>
 <tr><td>Trichoderma gamsii – souche ICC 080</td><td>Champignon antagoniste</td><td>Champignon</td><td>fongicide</td></tr>
@@ -2253,6 +2330,7 @@ Annexe 1*[^t-1]*
 <tr><td>Aphidoletes aphidimyza</td><td>Diptères prédateurs</td><td>Insectes</td><td>insecticide</td></tr>
 <tr><td>Aphytis melinus</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
 <tr><td>Chrysoperla carnea</td><td>Névroptères prédateurs</td><td>Insectes</td><td>insecticide</td></tr>
+<tr><td>Coccophagus scutellaris</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
 <tr><td>Cryptolaemus montrouzieri</td><td>Coléoptères prédateurs</td><td>Insectes</td><td>insecticide</td></tr>
 <tr><td>Dacnusa sibirica</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
 <tr><td>Diglyphus isaea</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
@@ -2261,6 +2339,7 @@ Annexe 1*[^t-1]*
 <tr><td>Ephedrus cerasicola</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
 <tr><td>Eretmocerus eremicus</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
 <tr><td>Eretmocerus mundus</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
+<tr><td>Eupeodes corollae</td><td>Diptères prédateurs</td><td>Insectes</td><td>insecticide</td></tr>
 <tr><td>Feltiella acarisuga</td><td>Cécidomyies prédatrices</td><td>Insectes</td><td>insecticide</td></tr>
 <tr><td>Habrobracon hebetor</td><td>Hymenoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
 <tr><td>Heterorhabditis bacteriophora</td><td>Nématodes entomoparasitiques</td><td>Nématodes</td><td>insecticide</td></tr>
@@ -2286,7 +2365,7 @@ Annexe 1*[^t-1]*
 <tr><td>Steinernema carpocapsae all strain</td><td>Nématodes entomoparasitiques</td><td>Nématodes</td><td>insecticide</td></tr>
 <tr><td>Steinernema feltiae</td><td>Nématodes entomoparasitiques</td><td>Nématodes</td><td>insecticide</td></tr>
 <tr><td>Stratiolaelaps scimitus</td><td>Acariens prédateurs</td><td>Acariens</td><td>insecticide</td></tr>
-<tr><td>Transeius montdorensis</td><td>Acariens prédateurs</td><td>Acariens</td><td>insecticide</td></tr>
+<tr><td>Transeius montdorensis (synonymes: Amblyseius montdorensis et Typhlodromips montdorensis)</td><td>Acariens prédateurs</td><td>Acariens</td><td>insecticide, acaricide</td></tr>
 <tr><td>Trichogramma brassicae Bezdenko</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
 <tr><td>Trichogramma cacoeciae</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
 <tr><td>Trichogramma evanescens</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
@@ -2299,7 +2378,7 @@ Annexe 1*[^t-1]*
 <tr><th>Nom commun</th><th>Spécification</th><th>Type d’action exercée/ Conditions et restrictions</th></tr>
 <tr><td>Bière N<sup>o</sup> CAS: 8029-31-0</td><td>Denrée alimentaire au sens de la législation sur les denrées alimentaires</td><td>Utilisation comme attractif pour le piégeage</td></tr>
 <tr><td>Charbon argileux – N<sup>o</sup> CAS: 7440-44-0 (charbon actif) – N<sup>o</sup> CAS: 1333-86-4 (noir de carbone) – N<sup>o</sup> CAS: 1302-78-9 (bentonite)</td><td>Mélange de charbon de bois et de bentonite. Charbon de bois: pureté requise par le règlement d’exécution (UE) n<sup>o</sup> 231/2012[^annex1-lvlu1-partD-1] Bentonite: pureté requise par le règlement d’exécution (UE) n<sup>o</sup> 1060/2013[^annex1-lvlu1-partD-2]</td><td>Utilisation pour la lutte contre l’esca de la vigne par incorporation dans le sol; dose max. 500 kg/ha</td></tr>
-<tr><td>Chlorhydrate de chitosane N<sup>o</sup> CAS: 9012-76-4</td><td>Pureté conforme aux spécifications de la pharmacopée européenne. Teneur maximale en métaux lourds: 40 ppm</td><td>Utilisation comme fongicide et bactéricide pour le traitement des semences ou pour application foliaire; dose max. 800 g a.i/ha</td></tr>
+<tr><td>Chlorhydrate de chitosane N<sup>o</sup> CAS: 70694-72-3</td><td>Pureté conforme aux spécifications de la pharmacopée européenne. Teneur maximale en métaux lourds: 40 ppm</td><td>Utilisation comme fongicide et bactéricide pour le traitement des semences et des plants ou pour application foliaire; dose max. 800 g a.i/ha.</td></tr>
 <tr><td>Chlorure de sodium N<sup>o</sup> CAS: 7647-14-5</td><td>Pureté 970 g/kg Denrée alimentaire au sens de la législation sur les denrées alimentaires</td><td>Utilisation comme fongicide contre l’oïdium de la vigne, stades BBCH 10 à 57; dose max. 6 kg a.i./ha et par année; délai d’attente 30 jours. Utilisation dans la vigne comme insecticide contre les vers de la grappe, stade BBCH 55 à 91; dose max. 3,6 kg a.i./ha et par année; délai d’attente 30 jours. Utilisation contre les maladies fongiques dans les champignons comestibles; max. 0,03 g a.i./kg substrat.</td></tr>
 <tr><td>Equisetum arvense L.</td><td>Pureté conforme aux spécifications de la pharmacopée européenne</td><td>Extraction, par décoction dans de l’eau chaude, de tiges aériennes stériles séchées</td></tr>
 <tr><td>Extrait d’ortie</td><td>100 % d’extrait d’ortie</td><td>Extraction par fermentation dans de l’eau puis filtration</td></tr>
@@ -2318,7 +2397,8 @@ Annexe 1*[^t-1]*
 <tr><td>Saccharose N<sup>o</sup> CAS: 57-50-1</td><td>Denrée alimentaire au sens de la législation sur les denrées alimentaires</td><td>Utilisation comme attractif pour le piégeage de masse. Renforcement des défenses naturelles des plantes pour les indications suivantes: – pommier, carpocapse, stades BBCH 6 à 89; dose max. 1 kg a.i./ha et par année; – maïs, pyrale du maïs, stades BBC 12 à 89; dose max. 80 g a.i./ha et par année; – vigne, cicadelles de la vigne (Scaphoideus titanus), stade BBCH 17 à 57; dose max. 45 g a.i./ha et par année; – vigne, mildiou, stade BBCH 10 à 57, dose max. 240 g a.i./ha et par année.</td></tr>
 <tr><td>Talc E553B N<sup>o</sup> CAS: 14807-96-6</td><td>Denrée alimentaire au sens de la législation sur les denrées alimentaires &lt; 0,1% de silice cristalline alvéolaire</td><td>Utilisation comme insectifuge et comme fongifuge sur les arbres fruitiers à partir du stade BBCH 41; dose max. 20 kg a.i/ha. Utilisation comme insectifuge et comme fongifuge en viticulture à partir du stade BBCH 20; dose max. 12,75 kg a.i/ha.</td></tr>
 <tr><td>Vin</td><td>Denrée alimentaire au sens de la législation sur les denrées alimentaires</td><td>Utilisation seulement comme attractif pour le piégeage de masse</td></tr>
-<tr><td>Vinaigre N<sup>o</sup> CAS: 90132-02-8</td><td>Denrée alimentaire au sens de la législation sur les denrées alimentaires max 10 % d’acide acétique</td><td>Utilisation comme attractif pour le piégeage de masse, pour la désinfection des semences, pour la désinfection des instruments de taille. Utilisation comme herbicide en prélevée; risque de phytotoxicité sur jeunes plantes.</td></tr>
+<tr><td>Vinaigre N<sup>o</sup> CAS: 90132-02-8</td><td>Denrée alimentaire au sens de la législation sur les denrées alimentaires max 10 % d’acide acétique</td><td>Utilisation comme attractif pour le piégeage de masse, pour la désinfection des semences, pour la désinfection des instruments de taille. Utilisation comme herbicide en prélevée et pour le traitement plante par plante; risque de phytotoxicité.</td></tr>
+<tr><td>Extrait de bulbe d’Allium cepa L.</td><td>Les bulbes d’oignon utilisés pour préparer les extraits doivent être de qualité alimentaire.</td><td>Faire bouillir 500 g d’oignons hachés dans 10 l d’eau pendant 10 minutes, laisser infuser pendant 15 minutes et filtrer avec une passoire métallique. Utiliser l’extrait dans les 24 heures. Utilisation par pulvérisation pour les indications suivantes: – Alternaria solani dans les pommes de terre, stade BBCH 21-85, max. 5 traitements à intervalles de 7 jours, max. 0,5 kg oignons/ha; – Phytophtora infestans dans les tomates, stade BBCH 21-75, max. 5 traitements à intervalles de 3 à 4 jours, max. 0,75 kg oignons/ha; – Botrytis cinerea dans les cornichons, stade BBCH 21-75, max. 5 traitements à intervalles de 7 jours, max. 0,75 kg oignons/ha.</td></tr>
 </table>
 
 [^annex1-lvlu1-partD-1]: Règlement (UE) n° 231/2012 de la Commission du 9 mars 2012 établissant les spécifications des additifs alimentaires énumérés aux annexes II et III du règlement (CE) n° 1333/2008 du Parlement européen et du Conseil, version du JO L 83 du 22.3.2012, p. 1.
@@ -2332,18 +2412,15 @@ Annexe 1*[^t-1]*
 <table>
 <tr><th>Nom commun, numéro d’identification</th><th>n<sup>o</sup> CAS</th></tr>
 <tr><td>Aclonifène</td><td>74070-46-5</td></tr>
-<tr><td>alpha-Cypermethrin</td><td>67375-30-8</td></tr>
 <tr><td>Benzovindiflupyr</td><td>1072957-71-1</td></tr>
 <tr><td>Bromuconazole</td><td>116255-48-2</td></tr>
 <tr><td>Chlortoluron</td><td>15545-48-9</td></tr>
-<tr><td>Cyproconazole</td><td>94361-06-5</td></tr>
 <tr><td>Cyprodinil</td><td>121552-61-2</td></tr>
 <tr><td>Difenoconazole</td><td>119446-68-3</td></tr>
 <tr><td>Diflufenican</td><td>83164-33-4</td></tr>
 <tr><td>Emamectin benzoate</td><td>155569-91-8</td></tr>
 <tr><td>Étofenprox</td><td>80844-07-1</td></tr>
 <tr><td>Étoxazole</td><td>153233-91-1</td></tr>
-<tr><td>Famoxadone</td><td>131807-57-3</td></tr>
 <tr><td>Fludioxonil</td><td>131341-86-1</td></tr>
 <tr><td>Flufenacet</td><td>142459-58-3</td></tr>
 <tr><td>Flumioxazin</td><td>103361-09-7</td></tr>
@@ -2371,13 +2448,11 @@ Annexe 1*[^t-1]*
 <tr><td>Paclobutrazol</td><td>76738-62-0</td></tr>
 <tr><td>Pendimethaline</td><td>40487-42-1</td></tr>
 <tr><td>Pirimicarb</td><td>23103-98-2</td></tr>
-<tr><td>Prochloraz</td><td>67747-09-5</td></tr>
 <tr><td>Prosulfuron</td><td>94125-34-5</td></tr>
 <tr><td>Sulcotrione</td><td>99105-77-8</td></tr>
 <tr><td>Tebuconazole</td><td>107534-96-3</td></tr>
 <tr><td>Tebufenpyrad</td><td>119168-77-3</td></tr>
 <tr><td>Tembotrion</td><td>335104-84-2</td></tr>
-<tr><td>Triazoxide</td><td>72459-58-6</td></tr>
 <tr><td>Ziram</td><td>137-30-4</td></tr>
 </table>
 
@@ -2387,7 +2462,7 @@ Annexe 2*[^t-2]*
 
 ## Évaluation et critères d’approbation des substances actives, des phytoprotecteurs et des synergistes
 
-[^t-2]: Mise à jour selon le ch. II de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4199](https://fedlex.data.admin.ch/eli/oc/2018/680)).
+[^t-2]: Mise à jour par le ch. II de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4199](https://fedlex.data.admin.ch/eli/oc/2018/680)).
 
 ### 1. Évaluation
 
@@ -2487,7 +2562,7 @@ Annexe 5*[^t-4]*
 
 ## Conditions que doivent remplir les dossiers de demande pour l’inscription d’une substance active dans l’annexe 1
 
-[^t-4]: Mise à jour selon le ch. II al. 1 de l’O du 23 mai 2012 ([RO 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), le ch. II de l’O du 20 mai 2015 ([RO 2015 1781](https://fedlex.data.admin.ch/eli/oc/2015/349)), le ch. II de l’O du DEFR du 28 oct. 2015 ([RO 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)) et le ch. I de l’O du DEFR du 9 juin 2017, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3501](https://fedlex.data.admin.ch/eli/oc/2017/381)).
+[^t-4]: Mise à jour par le ch. II al. 1 de l’O du 23 mai 2012 ([RO 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), le ch. II de l’O du 20 mai 2015 ([RO 2015 1781](https://fedlex.data.admin.ch/eli/oc/2015/349)), le ch. II de l’O du DEFR du 28 oct. 2015 ([RO 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)) et le ch. I de l’O du DEFR du 9 juin 2017, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3501](https://fedlex.data.admin.ch/eli/oc/2017/381)).
 
 ### 1. Introduction
 
@@ -2557,7 +2632,7 @@ Annexe 6*[^t-5]*
 
 ## Conditions que doivent remplir les dossiers de demande pour l’autorisation d’un produit phytosanitaire
 
-[^t-5]: Mise à jour selon le ch. II al. 1 de l’O du 23 mai 2012 ([RO 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), le ch. II de l’O du 20 mai 2015 ([RO 2015 1781](https://fedlex.data.admin.ch/eli/oc/2015/349)) et le ch. II de l’O du DEFR du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)).
+[^t-5]: Mise à jour par le ch. II al. 1 de l’O du 23 mai 2012 ([RO 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), le ch. II de l’O du 20 mai 2015 ([RO 2015 1781](https://fedlex.data.admin.ch/eli/oc/2015/349)) et le ch. II de l’O du DEFR du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)).
 
 ### 1. Introduction
 
@@ -2635,7 +2710,7 @@ Annexe 7*[^t-6]*
 
 ## Phrases types indiquant les risques particuliers pour l’homme ou l’environnement
 
-[^t-6]: Mise à jour selon le ch. II al. 1 de l’O du 23 mai 2012 ([RO 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), l’annexe ch. 4 de l’O du 7 nov. 2012 ([RO 2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)), le ch. II de l’O du 20 mai 2015 ([RO 2015 1781](https://fedlex.data.admin.ch/eli/oc/2015/349)) et le ch. I al. 1 de l’O du DEFR du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> nov. 2016 ([RO 2016 3345](https://fedlex.data.admin.ch/eli/oc/2016/568)).
+[^t-6]: Mise à jour par le ch. II al. 1 de l’O du 23 mai 2012 ([RO 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), l’annexe ch. 4 de l’O du 7 nov. 2012 ([RO 2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)), le ch. II de l’O du 20 mai 2015 ([RO 2015 1781](https://fedlex.data.admin.ch/eli/oc/2015/349)) et le ch. I al. 1 de l’O du DEFR du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> nov. 2016 ([RO 2016 3345](https://fedlex.data.admin.ch/eli/oc/2016/568)).
 
 ### Introduction
 
@@ -2664,7 +2739,7 @@ Annexe 8*[^t-7]*
 
 ## Phrases types indiquant les précautions à prendre pour la protection de l’homme ou de l’environnement
 
-[^t-7]: Mise à jour selon le ch. II de l’O du 20 mai 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1781](https://fedlex.data.admin.ch/eli/oc/2015/349)).
+[^t-7]: Mise à jour par le ch. II de l’O du 20 mai 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1781](https://fedlex.data.admin.ch/eli/oc/2015/349)).
 
 ### Introduction
 
@@ -2974,9 +3049,9 @@ Les services d’évaluation évaluent, en tenant compte des modèles statistiqu
 
 ### 9BI-2.4.2.4Résidus dans les produits d’origine animale
 
-Les services d’évaluation évaluent les teneurs en résidus observées dans les produits d’origine animale en tenant compte des éléments d’information prévus à l’annexe II, partie A, ch. 8.4, de la directive 91/414/CEE[^annex9-partI-lvlu2-lvld4e197-lvlu22-1] et des résidus provenant d’autres utilisations.
+Les services d’évaluation évaluent les teneurs en résidus observées dans les produits d’origine animale en tenant compte des éléments d’information prévus à l’annexe II, partie A, ch. 8.4, de la directive 91/414/CEE[^annex9-partI-lvlu2-lvld4e202-lvlu22-1] et des résidus provenant d’autres utilisations.
 
-[^annex9-partI-lvlu2-lvld4e197-lvlu22-1]: Voir note relative à l’art. 86, al. 1, let. a
+[^annex9-partI-lvlu2-lvld4e202-lvlu22-1]: Voir note relative à l’art. 86, al. 1, let. a
 
 ### 9BI-2.4.2.5Risque d’exposition des consommateurs dans le cadre de leur alimentation
 
@@ -2994,7 +3069,7 @@ Lors de l’évaluation du sort et de la diffusion du produit phytosanitaire dan
 
 ### 9BI-2.5.1.1Sort et diffusion dans le sol
 
-<sup>1</sup> Les services d’évaluation apprécient la possibilité que le produit phytosanitaire atteigne le sol dans les conditions d’utilisation proposées; si cette possibilité est réelle, ils évaluent la vitesse et les voies de dégradation dans le sol, la mobilité dans le sol et l’évolution de la concentration totale (extractible et non extractible[^annex9-partI-lvlu2-lvld4e197-lvlu27-1]) de la substance active, des métabolites et des produits de dégradation et de réaction qui devrait se produire dans le sol de la zone d’utilisation envisagée après l’application du produit phytosanitaire selon les conditions proposées.
+<sup>1</sup> Les services d’évaluation apprécient la possibilité que le produit phytosanitaire atteigne le sol dans les conditions d’utilisation proposées; si cette possibilité est réelle, ils évaluent la vitesse et les voies de dégradation dans le sol, la mobilité dans le sol et l’évolution de la concentration totale (extractible et non extractible[^annex9-partI-lvlu2-lvld4e202-lvlu27-1]) de la substance active, des métabolites et des produits de dégradation et de réaction qui devrait se produire dans le sol de la zone d’utilisation envisagée après l’application du produit phytosanitaire selon les conditions proposées.
 
 <sup>2</sup> Cette évaluation s’appuie sur les éléments d’information suivants:
 
@@ -3015,7 +3090,7 @@ Lors de l’évaluation du sort et de la diffusion du produit phytosanitaire dan
 - c. tous les éléments d’information sur le produit phytosanitaire qui sont prévus à l’annexe 6, ch. 2, y compris ceux relatifs à la diffusion et à la dégradation dans le sol;
 - d. le cas échéant, les autres utilisations autorisées, dans la zone d’utilisation proposée, de produits phytosanitaires contenant la même substance active ou produisant les mêmes résidus.
 
-[^annex9-partI-lvlu2-lvld4e197-lvlu27-1]: Les résidus non extractibles présents dans les végétaux et dans les sols se définissent comme étant des espèces chimiques provenant de pesticides utilisés selon la bonne pratique agricole, qu’il n’est pas possible d’extraire par des méthodes qui ne modifient pas sensiblement la nature chimique desdits résidus. Ces résidus non extractibles sont réputés exclure tous fragments par transformation métabolique en produits naturels.
+[^annex9-partI-lvlu2-lvld4e202-lvlu27-1]: Les résidus non extractibles présents dans les végétaux et dans les sols se définissent comme étant des espèces chimiques provenant de pesticides utilisés selon la bonne pratique agricole, qu’il n’est pas possible d’extraire par des méthodes qui ne modifient pas sensiblement la nature chimique desdits résidus. Ces résidus non extractibles sont réputés exclure tous fragments par transformation métabolique en produits naturels.
 
 ### 9BI-2.5.1.2Sort et diffusion dans les eaux souterraines
 
@@ -3298,14 +3373,14 @@ Les services d’évaluation évaluent le contenu réel en substance active du p
 <sup>1</sup> Les services d’évaluation évaluent les propriétés physiques et chimiques du produit phytosanitaire, et notamment:
 
 - a. lorsqu’il existe une norme FAO adéquate, les propriétés physiques et chimiques visées dans cette norme;
-- b. lorsqu’il n’existe pas de norme FAO adéquate, toutes les propriétés physiques et chimiques pertinentes pour la formulation, telles qu’elles sont exposées dans le *«Manuel pour le développement et l’utilisation des normes FAO pour les produits de protection des plantes»**[^annex9-partI-lvlu2-lvld4e197-lvlu44-1]*.
+- b. lorsqu’il n’existe pas de norme FAO adéquate, toutes les propriétés physiques et chimiques pertinentes pour la formulation, telles qu’elles sont exposées dans le *«Manuel pour le développement et l’utilisation des normes FAO pour les produits de protection des plantes»**[^annex9-partI-lvlu2-lvld4e202-lvlu44-1]*.
 
 <sup>2</sup> Cette évaluation s’appuie sur les éléments d’information suivants:
 
 - a. les données relatives aux propriétés physiques et chimiques de la substance active prévues à l’annexe 5, ch. 2, et les résultats de leur évaluation;
 - b. les données relatives aux propriétés physiques et chimiques du produit phytosanitaire prévues à l’annexe 6, ch. 2.
 
-[^annex9-partI-lvlu2-lvld4e197-lvlu44-1]: Manual on Development and Use of FAO Specifications for Plant Protection Products. Fifth Edition, prepared by the Group on Specifications of the FAO panel of Experts on Pesticide Specifications, Registration Requirements and Application Standards and Prior Informed Consent, January 1999.
+[^annex9-partI-lvlu2-lvld4e202-lvlu44-1]: Manual on Development and Use of FAO Specifications for Plant Protection Products. Fifth Edition, prepared by the Group on Specifications of the FAO panel of Experts on Pesticide Specifications, Registration Requirements and Application Standards and Prior Informed Consent, January 1999.
 
 ### 9BI-2.7.3Mélange
 
@@ -3421,9 +3496,9 @@ Les instructions proposées pour le nettoyage du matériel d’application doive
 
 <sup>1</sup> Il n’est pas accordé d’autorisation si le niveau d’exposition de l’opérateur pendant la manipulation et l’application du produit phytosanitaire dans les conditions d’utilisation proposées (et notamment le dosage et le mode d’application) dépasse le NAEO.
 
-<sup>2</sup> En outre, la délivrance de l’autorisation est subordonnée au respect de la concentration maximale établie pour la substance active et/ou les composants toxiques du produit en application de l’ordonnance du DFI du 16 décembre 2016 sur les limites maximales applicables aux résidus de pesticides présents dans ou sur les produits d’origine végétale ou animale[^annex9-partI-lvlu3-lvld4e249-lvlu19-1].
+<sup>2</sup> En outre, la délivrance de l’autorisation est subordonnée au respect de la concentration maximale établie pour la substance active et/ou les composants toxiques du produit en application de l’ordonnance du DFI du 16 décembre 2016 sur les limites maximales applicables aux résidus de pesticides présents dans ou sur les produits d’origine végétale ou animale[^annex9-partI-lvlu3-lvld4e255-lvlu19-1].
 
-[^annex9-partI-lvlu3-lvld4e249-lvlu19-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+[^annex9-partI-lvlu3-lvld4e255-lvlu19-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
 
 ### 9CI-2.4.1.2Vêtement ou équipement de protection
 
@@ -3455,9 +3530,9 @@ Les autorisations doivent assurer que les résidus proviennent des quantités de
 
 <sup>1</sup> Lorsqu’il n’existe pas de concentration maximale, les services d’évaluation établissent une concentration maximale provisoire. Les conclusions relatives aux niveaux fixés doivent être applicables dans toutes les conditions de nature à influencer les niveaux de résidus qui subsistent dans les cultures, telles que le calendrier, la dose, la fréquence et le mode d’application.
 
-<sup>2</sup> Se fondant sur l’évaluation de la teneur potentielle en résidus dans et sur les parties de végétaux et les produits végétaux comestibles établie par les services d’évaluation compétents et sur l’OPOVA[^annex9-partI-lvlu3-lvld4e249-lvlu27-1], l’OSAV établit la teneur maximale en substances actives.
+<sup>2</sup> Se fondant sur l’évaluation de la teneur potentielle en résidus dans et sur les parties de végétaux et les produits végétaux comestibles établie par les services d’évaluation compétents et sur l’OPOVA[^annex9-partI-lvlu3-lvld4e255-lvlu27-1], l’OSAV établit la teneur maximale en substances actives.
 
-[^annex9-partI-lvlu3-lvld4e249-lvlu27-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+[^annex9-partI-lvlu3-lvld4e255-lvlu27-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
 
 ### 9CI-2.4.2.3DJA
 
@@ -3488,9 +3563,9 @@ Lorsque les végétaux ou produits végétaux traités sont destinés à l’ali
 
 ### 9CI-2.5.1.2Sort et comportement dans les eaux souterraines
 
-Il n’est pas accordé d’autorisation lorsque la concentration prévisible de la substance active ou des métabolites pertinents et produits de dégradation ou de réaction dans les eaux souterraines utilisées comme eau de boisson ou destinées à l’être ne satisfait pas aux exigences de l’annexe 2, ch. 22, OEaux[^annex9-partI-lvlu3-lvld4e249-lvlu34-1].
+Il n’est pas accordé d’autorisation lorsque la concentration prévisible de la substance active ou des métabolites pertinents et produits de dégradation ou de réaction dans les eaux souterraines utilisées comme eau de boisson ou destinées à l’être ne satisfait pas aux exigences de l’annexe 2, ch. 22, OEaux[^annex9-partI-lvlu3-lvld4e255-lvlu34-1].
 
-[^annex9-partI-lvlu3-lvld4e249-lvlu34-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex9-partI-lvlu3-lvld4e255-lvlu34-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
 
 ### 9CI-2.5.1.3Sort et comportement dans les eaux superficielles
 
@@ -4114,11 +4189,11 @@ Il convient de traiter les différents stades de développement/cycles de vie du
 
 <sup>2</sup> Les informations sur l’origine et les propriétés (par ex. spécificité) du micro-organisme et de ses métabolites/toxines résiduels, ainsi que sur les utilisations prévues du micro-organisme, constituent la base de l’évaluation du devenir et du comportement dans l’environnement. Il importe de tenir compte du mode d’action du micro-organisme.
 
-<sup>3</sup> Une évaluation est faite sur le devenir et le comportement de tout métabolite pertinent connu qui est produit par le micro-organisme. L’évaluation est effectuée pour chaque compartiment de l’environnement et est déclenchée sur la base des critères spécifiés dans la section 7, point iv), de l’annexe II B de la directive 91/414[^annex9-partII-lvlu2-lvld4e309-lvlu44-1].
+<sup>3</sup> Une évaluation est faite sur le devenir et le comportement de tout métabolite pertinent connu qui est produit par le micro-organisme. L’évaluation est effectuée pour chaque compartiment de l’environnement et est déclenchée sur la base des critères spécifiés dans la section 7, point iv), de l’annexe II B de la directive 91/414[^annex9-partII-lvlu2-lvld4e315-lvlu44-1].
 
 <sup>4</sup> Lors de l’évaluation du devenir et du comportement dans l’environnement du produit phytosanitaire, les services d’évaluation considèrent tous les aspects de l’environnement, y compris les biotas. La possibilité de persistance et de multiplication des micro-organismes doit être évaluée dans tous les milieux environnementaux, sauf s’il peut être justifié que des micro-organismes particuliers n’atteindront pas un milieu spécifique. La mobilité des micro-organismes et de leurs métabolites/toxines résiduels doit être prise en considération.
 
-[^annex9-partII-lvlu2-lvld4e309-lvlu44-1]: Voir note relative à l’art. 86, al. 1, let a
+[^annex9-partII-lvlu2-lvld4e315-lvlu44-1]: Voir note relative à l’art. 86, al. 1, let a
 
 ### 9BII-2.7.1Risque pour les eaux
 
@@ -4343,9 +4418,9 @@ Le service d’homologation informe les demandeurs de toute mesure visée aux le
 
 <sup>10</sup> L’autorisation n’est pas accordée si des métabolites/toxines pertinents (c’est-à-dire ceux susceptibles d’affecter la santé humaine et/ou l’environnement) que l’on sait être produits par le micro-organisme et/ou par des contaminants microbiens sont présents dans le produit phytosanitaire, sauf s’il peut être démontré que la quantité présente reste à un niveau acceptable, avant et après l’utilisation prévue.
 
-<sup>11</sup> Le service d’homologation fait en sorte que des mesures de contrôle qualité adéquates soient mises en œuvre afin de garantir l’identité du micro-organisme et le contenu du produit phytosanitaire. Ces mesures de contrôle qualité doivent comprendre un système d’analyse des risques et maîtrise des points critiques (HACCP[^annex9-partII-lvlu3-lvld4e387-1]) ou un système équivalent.
+<sup>11</sup> Le service d’homologation fait en sorte que des mesures de contrôle qualité adéquates soient mises en œuvre afin de garantir l’identité du micro-organisme et le contenu du produit phytosanitaire. Ces mesures de contrôle qualité doivent comprendre un système d’analyse des risques et maîtrise des points critiques (HACCP[^annex9-partII-lvlu3-lvld4e392-1]) ou un système équivalent.
 
-[^annex9-partII-lvlu3-lvld4e387-1]: FAO & WHO. 2003. Recommended international codex of practice. General principles of food hygiene, CAC/RCP 1 - 1969, Rev. 4-2003, including «Annex on Hazard Analysis Critical Control Point (HACCP) System and Guidelines for its Application»
+[^annex9-partII-lvlu3-lvld4e392-1]: FAO & WHO. 2003. Recommended international codex of practice. General principles of food hygiene, CAC/RCP 1 - 1969, Rev. 4-2003, including «Annex on Hazard Analysis Critical Control Point (HACCP) System and Guidelines for its Application»
 
 ### 9CII-2 Principes spécifiques
 
@@ -4359,9 +4434,9 @@ Pour chaque autorisation octroyée, le service d’homologation fait en sorte qu
 
 ### 9CII-2.2.1 Teneur minimale et maximale de micro-organismes
 
-Des informations suffisantes doivent être fournies pour permettre d’estimer la teneur minimale et maximale de micro-organismes dans le matériau utilisé pour la fabrication des produits phytosanitaires, ainsi que dans le produit phytosanitaire. La teneur en autres composants et formulants du produit phytosanitaire et en micro-organismes contaminants issus du processus de production doit, dans la mesure du possible, être suffisamment définie. Le service d’homologation fait en sorte que le niveau des organismes contaminants soit contrôlé à un niveau acceptable. En outre, il y a lieu de préciser la nature et l’état physiques du produit phytosanitaire, de préférence conformément au «Catalogue des types de formulation de pesticides et système de code international[^annex9-partII-lvlu3-lvld4e388-lvlu3-1].
+Des informations suffisantes doivent être fournies pour permettre d’estimer la teneur minimale et maximale de micro-organismes dans le matériau utilisé pour la fabrication des produits phytosanitaires, ainsi que dans le produit phytosanitaire. La teneur en autres composants et formulants du produit phytosanitaire et en micro-organismes contaminants issus du processus de production doit, dans la mesure du possible, être suffisamment définie. Le service d’homologation fait en sorte que le niveau des organismes contaminants soit contrôlé à un niveau acceptable. En outre, il y a lieu de préciser la nature et l’état physiques du produit phytosanitaire, de préférence conformément au «Catalogue des types de formulation de pesticides et système de code international[^annex9-partII-lvlu3-lvld4e393-lvlu3-1].
 
-[^annex9-partII-lvlu3-lvld4e388-lvlu3-1]: Monographie technique internationale CropLife no 2, 5<sup>e</sup> édition, 2002
+[^annex9-partII-lvlu3-lvld4e393-lvlu3-1]: Monographie technique internationale CropLife no 2, 5<sup>e</sup> édition, 2002
 
 ### 9CII-2.2.2Résistances
 
@@ -4496,12 +4571,12 @@ Les périodes de sécurité d’attente et de réentrée et autres précautions 
 
 ### 9CII-2.6.1.9Conditions de l’autorisation
 
-Les conditions de l’autorisation doivent être en conformité avec la directive 98/24/CE[^annex9-partII-lvlu3-lvld4e388-lvlu37-1] et avec la directive 2000/54/CE[^annex9-partII-lvlu3-lvld4e388-lvlu37-2]. Les données expérimentales et les informations fournies en ce qui concerne la reconnaissance des symptômes d’infection ou de pathogénicité et l’efficacité des premiers soins et des mesures thérapeutiques doivent être examinées. Les conditions de l’autorisation seront également en conformité avec la directive 2004/37/CE[^annex9-partII-lvlu3-lvld4e388-lvlu37-3]. Les conditions de l’autorisation doivent également être en conformité avec la directive 89/656/CEE[^annex9-partII-lvlu3-lvld4e388-lvlu37-4].
+Les conditions de l’autorisation doivent être en conformité avec la directive 98/24/CE[^annex9-partII-lvlu3-lvld4e393-lvlu37-1] et avec la directive 2000/54/CE[^annex9-partII-lvlu3-lvld4e393-lvlu37-2]. Les données expérimentales et les informations fournies en ce qui concerne la reconnaissance des symptômes d’infection ou de pathogénicité et l’efficacité des premiers soins et des mesures thérapeutiques doivent être examinées. Les conditions de l’autorisation seront également en conformité avec la directive 2004/37/CE[^annex9-partII-lvlu3-lvld4e393-lvlu37-3]. Les conditions de l’autorisation doivent également être en conformité avec la directive 89/656/CEE[^annex9-partII-lvlu3-lvld4e393-lvlu37-4].
 
-[^annex9-partII-lvlu3-lvld4e388-lvlu37-1]: Directive 98/24/CE du Conseil du 7 avril 1998 concernant la protection de la santé et de la sécurité des travailleurs contre les risques liés à des agents chimiques sur le lieu de travail, JO L 131 du 5.5.1998, p. 11; modifiée en dernier lieu par la directive 2007/30/CE, JO L 165 du 27.6.2007, p. 21.
-[^annex9-partII-lvlu3-lvld4e388-lvlu37-2]: Directive 2000/54/CE du Parlement européen et du Conseil du 18 sept. 2000 concernant la protection des travailleurs contre les risques liés à l’exposition à des agents biologiques au travail dans la version du JO L 262 du 17.10.2000, p. 21.
-[^annex9-partII-lvlu3-lvld4e388-lvlu37-3]: Directive 2004/37/CE du Parlement européen et du Conseil du 29 avril 2004 concernant la protection des travailleurs contre les risques liés à l’exposition à des agents cancérigènes ou mutagènes au travail dans la version du JO L 204 du 4.8.2007, p. 28.
-[^annex9-partII-lvlu3-lvld4e388-lvlu37-4]: Directive 89/656/CEE du Conseil du 30 nov. 1989 concernant les prescriptions minimales de sécurité et de santé pour l’utilisation par les travailleurs au travail d’équipements de protection individuelle, JO L 393 du 30.12.1989, p. 18; modifiée en dernier lieu par la directive 2007/30/CE, JO L 165 du 27.6.2007, p. 21.
+[^annex9-partII-lvlu3-lvld4e393-lvlu37-1]: Directive 98/24/CE du Conseil du 7 avril 1998 concernant la protection de la santé et de la sécurité des travailleurs contre les risques liés à des agents chimiques sur le lieu de travail, JO L 131 du 5.5.1998, p. 11; modifiée en dernier lieu par la directive 2007/30/CE, JO L 165 du 27.6.2007, p. 21.
+[^annex9-partII-lvlu3-lvld4e393-lvlu37-2]: Directive 2000/54/CE du Parlement européen et du Conseil du 18 sept. 2000 concernant la protection des travailleurs contre les risques liés à l’exposition à des agents biologiques au travail dans la version du JO L 262 du 17.10.2000, p. 21.
+[^annex9-partII-lvlu3-lvld4e393-lvlu37-3]: Directive 2004/37/CE du Parlement européen et du Conseil du 29 avril 2004 concernant la protection des travailleurs contre les risques liés à l’exposition à des agents cancérigènes ou mutagènes au travail dans la version du JO L 204 du 4.8.2007, p. 28.
+[^annex9-partII-lvlu3-lvld4e393-lvlu37-4]: Directive 89/656/CEE du Conseil du 30 nov. 1989 concernant les prescriptions minimales de sécurité et de santé pour l’utilisation par les travailleurs au travail d’équipements de protection individuelle, JO L 393 du 30.12.1989, p. 18; modifiée en dernier lieu par la directive 2007/30/CE, JO L 165 du 27.6.2007, p. 21.
 
 ### 9CII-2.6.2Effets sur la santé humaine ou animale découlant des résidus
 

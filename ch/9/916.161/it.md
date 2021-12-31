@@ -4,11 +4,11 @@ title: "Ordinanza del 12 maggio 2010 concernente l'immissione sul mercato di pro
 short: OPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: it
-version: 2021-07-01
+version: 2022-01-01
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2010-340-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2010-340-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20210701/it"
 
 (Ordinanza sui prodotti fitosanitari, OPF)
 
-del 12 maggio 2010 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
+del 12 maggio 2010 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -44,7 +44,7 @@ ordina:
 La presente ordinanza disciplina per i prodotti fitosanitari presentati in forma commerciale:
 
 - a. l’omologazione;
-- b. l’immissione sul mercato e l’uso;
+- b.[^1-1] l’importazione, l’immissione sul mercato e l’uso;
 - c. il controllo.
 
 <sup>3</sup>
@@ -55,6 +55,8 @@ La presente ordinanza stabilisce le norme applicabili:
 - b. ai coformulanti.
 
 <sup>4</sup> Le disposizioni della presente ordinanza si basano sul principio di precauzione per evitare che principi attivi o prodotti immessi sul mercato nuocciano alla salute umana e animale e all’ambiente.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 685](https://fedlex.data.admin.ch/eli/oc/2021/685)).
 
 #### Art. 2
 
@@ -155,9 +157,9 @@ Ai fini della presente ordinanza si intende per:
 
 #### Art. 3a
 
-**Prescrizioni dell’Ufficio federale dell’agricoltura, in caso di celere intervento**[^3a-1]
+**Prescrizioni del servizio d’omologazione[^3a-2], in caso di celere intervento**[^3a-1]
 
-<sup>1</sup> In situazioni che impongono un intervento celere, l’Ufficio federale dell’agricoltura (UFAG) può vietare l’importazione, l’immissione sul mercato e l’impiego di prodotti fitosanitari che costituiscono un pericolo per la salute dell’uomo, degli animali o dell’ambiente.
+<sup>1</sup> In situazioni che impongono un intervento celere, d’intesa con i servizi interessati il servizio d’omologazione può vietare l’importazione, l’immissione sul mercato e l’impiego di prodotti fitosanitari che costituiscono un pericolo per la salute dell’uomo, degli animali o dell’ambiente.[^3a-3]
 
 <sup>2</sup> Può fissare, per tali prodotti fitosanitari, valori massimi che non devono essere superati.
 
@@ -168,6 +170,8 @@ Ai fini della presente ordinanza si intende per:
 <sup>5</sup> Le partite per le quali all’atto dell’importazione non possono essere prodotti i documenti di cui al capoverso 4 vengono respinte o, se sussiste un pericolo, distrutte.
 
 [^3a-1]: Introdotto dal n. I dell’O del 25 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2401](https://fedlex.data.admin.ch/eli/oc/2011/347)).
+[^3a-2]: Nuova espressione giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)). Di detta mod. è tenuto conto in tutto il testo, eccettuato nell’art. 75.
+[^3a-3]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 ## Capitolo 2: Principi attivi, sostanze di base, fitoprotettori, sinergizzanti e coformulanti****
 
@@ -229,11 +233,11 @@ Un prodotto fitosanitario, in condizioni d’uso conformi alle buone pratiche fi
 
 **Elenco dei principi attivi**
 
-<sup>1</sup> Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^5-1] iscrive nell’elenco i nuovi principi attivi approvati (allegato 1), esaminati nel contesto di una domanda di autorizzazione d’immissione sul mercato di un prodotto fitosanitario che adempiono i criteri di cui all’articolo 4.
+<sup>1</sup> Il Dipartimento federale dell’interno (DFI) iscrive un nuovo principio attivo nell’elenco dei principi attivi approvati di cui all’allegato 1, se il principio attivo è stato esaminato nel quadro di una domanda di autorizzazione di un prodotto fitosanitario e adempie i criteri di cui all’articolo 4.[^5-1]
 
 <sup>2</sup>
 
-L’UFAG può fissare, per i principi attivi, le seguenti condizioni e limitazioni:[^5-2]
+Il servizio d’omologazione può fissare, per i principi attivi, le seguenti condizioni e limitazioni:[^5-2]
 
 - a. il livello minimo di purezza del principio attivo;
 - b. la natura e il tenore massimo di certe impurezze;
@@ -246,19 +250,21 @@ L’UFAG può fissare, per i principi attivi, le seguenti condizioni e limitazio
 - i. la necessità d’imporre misure di riduzione del rischio e il monitoraggio dopo l’uso;
 - j. qualsiasi altra condizione particolare, che scaturisca dalla valutazione d’informazioni rese disponibili nel contesto della presente ordinanza.
 
-<sup>3</sup> Se un principio attivo soddisfa uno o più dei criteri supplementari di cui al numero 4 dell’allegato 2, il DEFR lo include come sostanza candidata alla sostituzione nell’allegato 1 parte E.[^5-3]
+<sup>3</sup> Se un principio attivo soddisfa uno o più dei criteri supplementari di cui al numero 4 dell’allegato 2, il DFI[^5-3] lo include come sostanza candidata alla sostituzione nell’allegato 1 parte E.[^5-4]
 
 <sup>4</sup>
 
-I principi attivi designati come principi attivi a basso rischio secondo l’articolo 22 del regolamento CE/1107/2009[^5-4] sono designati come tali nell’allegato 1. L’UFAG può designare altri principi attivi come principi attivi a basso rischio se:
+I principi attivi designati come principi attivi a basso rischio secondo l’articolo 22 del regolamento (CE) n. 1107/2009[^5-5] sono designati come tali nell’allegato 1. Il DFI può designare altri principi attivi come principi attivi a basso rischio se:[^5-6]
 
 - a. è prevedibile che i prodotti fitosanitari che contengono questi principi attivi presenteranno un basso rischio per la salute umana o degli animali o per l’ambiente conformemente all'articolo 32; e
 - b. questi principi attivi non sono classificati in una delle categorie di cui all’allegato 2 numero 5.
 
-[^5-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
+[^5-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 [^5-2]: Nuovo testo giusta il n. I dell’O del 25 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2401](https://fedlex.data.admin.ch/eli/oc/2011/347)).
-[^5-3]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)).
-[^5-4]: Cfr. nota ad art. 3 cpv. 2.
+[^5-3]: Nuova espressione giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)). Di detta mod. è tenuto conto in tutto il testo.
+[^5-4]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)).
+[^5-5]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 2.
+[^5-6]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 6
 
@@ -291,9 +297,9 @@ Il fascicolo sintetico include quanto segue:
 
 <sup>2</sup> Il fascicolo completo contiene il testo integrale delle singole relazioni dei test e degli studi che coprono tutte le informazioni di cui al capoverso 1 lettere b e c. Non contiene alcuna relazione di test o studi implicanti la somministrazione intenzionale del principio attivo o del prodotto fitosanitario a esseri umani.
 
-<sup>3</sup> L’UFAG può stabilire la struttura del fascicolo sintetico e del fascicolo completo.
+<sup>3</sup> Il servizio d’omologazione può stabilire la struttura del fascicolo sintetico e del fascicolo completo.
 
-<sup>4</sup> I requisiti relativi ai dati di cui ai capoversi 1 e 2 contengono le condizioni relative ai principi attivi e ai prodotti fitosanitari di cui agli allegati 5 e 6. Il DEFR può adattare detti allegati tenendo conto dei relativi requisiti internazionali, in particolare di quelli dell’Unione europea (UE).
+<sup>4</sup> I requisiti relativi ai dati di cui ai capoversi 1 e 2 contengono le condizioni relative ai principi attivi e ai prodotti fitosanitari di cui agli allegati 5 e 6. Il DFI può adattare detti allegati tenendo conto dei relativi requisiti internazionali, in particolare di quelli dell’Unione europea (UE).
 
 <sup>5</sup> L’autore della domanda correda il fascicolo con la documentazione scientifica accessibile, convalidata dalla comunità scientifica e pubblicata nei dieci anni precedenti la data di presentazione del fascicolo, concernente gli effetti collaterali sulla salute, sull’ambiente e sulle specie non bersaglio del principio attivo e dei relativi metaboliti.
 
@@ -307,9 +313,10 @@ Il fascicolo sintetico include quanto segue:
 
 <sup>2</sup> Se il servizio d’omologazione ha motivo di ritenere, alla luce di nuove conoscenze scientifiche e tecniche, che il principio attivo non soddisfi più i criteri di approvazione previsti dall’articolo 4 o che non siano state fornite le informazioni ulteriori di cui all’articolo 5 capoverso 2 lettera f, il servizio d’omologazione informa il fabbricante del principio attivo e gli concede un termine per la presentazione di osservazioni.
 
-<sup>3</sup> Se il servizio d’omologazione conclude che non sono più soddisfatti i criteri di approvazione previsti dall’articolo 4 o che non sono state fornite le informazioni ulteriori di cui all’articolo 5 capoverso 2 lettera f, propone al DEFR di revocare l’approvazione o all’UFAG di modificare le condizioni o le restrizioni di cui all’articolo 5 capoverso 2.
+<sup>3</sup> Se il servizio d’omologazione conclude che non sono più soddisfatti i criteri di approvazione previsti dall’articolo 4 o che non sono state fornite le informazioni ulteriori di cui all’articolo 5 capoverso 2 lettera f, propone al DFI di revocare l’approvazione del principio attivo oppure modifica le condizioni o le restrizioni di cui all’articolo 5 capoverso 2.[^8-2]
 
 [^8-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^8-2]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 9
 
@@ -321,12 +328,14 @@ Il fascicolo sintetico include quanto segue:
 
 **Stralcio di principi attivi**
 
-<sup>1</sup> Il DEFR stralcia un principio attivo dall’allegato 1 se nell’UE il principio è stralciato dal regolamento di esecuzione (UE) n. 540/2011[^10-1]. Concede termini identici a quelli concessi nell’UE per l’immissione sul mercato delle scorte esistenti di prodotti fitosanitari contenenti questo principio attivo e per l’utilizzo di questi ultimi.[^10-2]
+<sup>1</sup> Il DFI stralcia un principio attivo dall’allegato 1 se nell’UE il principio è stralciato dal regolamento di esecuzione (UE) n. 540/2011[^10-1]. Concede termini identici a quelli concessi nell’UE per l’immissione sul mercato delle scorte esistenti di prodotti fitosanitari contenenti questo principio attivo e per l’utilizzo di questi ultimi.[^10-2]
 
-<sup>2</sup> Il DEFR può rinunciare allo stralcio di un principio attivo dall’allegato 1 qualora non esista un’alternativa alla sua utilizzazione per lottare contro un organismo nocivo e a condizione che, in condizioni d’uso conformi alle prescrizioni, non abbia alcun effetto nocivo sulla saluta umana. In tal caso l’impiego di tale principio attivo sarà limitato a tale uso. L’approvazione dei principi attivi in questione è regolarmente riesaminata.
+<sup>2</sup> Può, su proposta del Dipartimento federale dell’economia, della formazione e della ricerca (DEFR), rinunciare allo stralcio di un principio attivo dall’allegato 1, qualora non esista un’alternativa alla sua utilizzazione per lottare contro un organismo nocivo e a condizione che, mediante un uso conforme alle prescrizioni, non abbia alcun effetto nocivo sulla salute umana. In tal caso l’impiego di tale principio attivo sarà limitato a tale uso. L’approvazione dei principi attivi in questione è regolarmente riesaminata. Per quanto riguarda la partecipazione dei dipartimenti si applicano gli articoli 62*a* e 62*b* della legge del 21 marzo 1997[^10-3] sull’organizzazione del Governo e dell’Amministrazione (LOGA).[^10-4]
 
 [^10-1]: Regolamento di esecuzione (UE) n. 540/2011 della Commissione del 25 maggio 2011 recante disposizioni di attuazione del regolamento (CE) n. 1107/2009 del Parlamento europeo e del Consiglio per quanto riguarda l’elenco delle sostanze attive approvate, GU L 153 dell’11.6.2011, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2020/1293, GU L 302 del 16.9.2020, pag. 24.
 [^10-2]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5563](https://fedlex.data.admin.ch/eli/oc/2020/962)).
+[^10-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^10-4]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 ### Sezione 1*a*:**** Criteri e procedura di approvazione delle sostanze di base
 
@@ -347,17 +356,18 @@ Una sostanza di base è approvata se:
 - c. non è utilizzata principalmente per scopi fitosanitari, ma è nondimeno utile a tal fine, direttamente o in un prodotto costituito dalla sostanza di base e da un semplice agente diluente; e
 - d. non ha alcun effetto nocivo immediato o ritardato sulla salute umana o degli animali né un effetto inaccettabile sull’ambiente.
 
-<sup>2</sup> Per le sostanze di base l’UFAG può fissare per analogia le condizioni e limitazioni di cui all’articolo 5 capoverso 2.
+<sup>2</sup> Per le sostanze di base il servizio d’omologazione può fissare per analogia le condizioni e limitazioni di cui all’articolo 5 capoverso 2.
 
-<sup>3</sup> I macrorganismi considerati organismi alloctoni secondo l’articolo 3 capoverso 1 lettera f dell’ordinanza del 10 settembre 2008[^10a-1] sull’emissione deliberata nell’ambiente e i microrganismi non possono essere approvati quali sostanze di base.
+<sup>3</sup> I macrorganismi considerati organismi alloctoni secondo l’articolo 3 capoverso 1 lettera f dell’ordinanza del 10 settembre 2008[^10a-1] sull’emissione deliberata nell’ambiente (OEDA) e i microrganismi non possono essere approvati quali sostanze di base.[^10a-2]
 
 [^10a-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^10a-2]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 10b
 
 **Elenco delle sostanze di base**
 
-<sup>1</sup> Il DEFR iscrive una nuova sostanza di base nell’elenco delle sostanze di base approvate di cui all’allegato 1 parte D, se la sostanza di base è stata esaminata e adempie i criteri di cui all’articolo 10*a*.
+<sup>1</sup> Il DFI iscrive una nuova sostanza di base nell’elenco delle sostanze di base approvate di cui all’allegato 1 parte D, se la sostanza di base è stata esaminata e adempie i criteri di cui all’articolo 10*a*.
 
 <sup>2</sup> Può iscrivere come sostanze di base le sostanze ammesse come tali nell’allegato del regolamento d’esecuzione (UE) n. 540/2011[^10b-1] senza esaminare le condizioni di cui all’articolo 10*a* capoverso 1.[^10b-2]
 
@@ -391,7 +401,7 @@ La richiesta deve contenere i documenti seguenti:
 
 **Stralcio di sostanze di base**
 
-<sup>1</sup> Il DEFR stralcia una sostanza di base dall’allegato 1 parte D se questa non adempie più le esigenze di cui all’articolo 10*a*.
+<sup>1</sup> Il DFI stralcia una sostanza di base dall’allegato 1 parte D se questa non adempie più le esigenze di cui all’articolo 10*a*.
 
 <sup>2</sup> Può rinunciare allo stralcio di una sostanza di base dall’allegato 1 qualora non esista un’alternativa alla sua utilizzazione per lottare contro un organismo nocivo e a condizione che, in condizioni d’uso conformi alle prescrizioni, non abbia alcun effetto nocivo sulla saluta umana. In tal caso l’impiego di tale sostanza di base sarà limitato a tale uso. L’approvazione delle sostanze di base in questione è regolarmente riesaminata.[^10e-1]
 
@@ -407,19 +417,19 @@ La richiesta deve contenere i documenti seguenti:
 
 <sup>2</sup> Gli articoli 5–10 si applicano per analogia.
 
-<sup>3</sup> Il DEFR può stabilire, negli allegati 5 e 6, criteri specifici concernenti il fascicolo da allegare alla domanda di approvazione di un fitoprotettore o di un sinergizzante.
+<sup>3</sup> Il DFI può stabilire, negli allegati 5 e 6, criteri specifici concernenti il fascicolo da allegare alla domanda di approvazione di un fitoprotettore o di un sinergizzante.
 
 #### Art. 12
 
 **Fitoprotettori e sinergizzanti già immessi sul mercato**
 
-Il DEFR può fissare un programma di riesame progressivo dei sinergizzanti e dei fitoprotettori già immessi sul mercato prima dell’entrata in vigore della presente ordinanza. A tale scopo tiene conto del programma di rivalutazione dell’UE.
+Il DFI può fissare un programma di riesame progressivo dei sinergizzanti e dei fitoprotettori già immessi sul mercato prima dell’entrata in vigore della presente ordinanza. A tale scopo tiene conto del programma di rivalutazione dell’UE.
 
 ### Sezione 3: Coformulanti
 
 #### Art. 13
 
-Il DEFR include nell’allegato 3 i coformulanti che non possono essere introdotti in un prodotto fitosanitario. A tale scopo tiene conto delle relative decisioni dell’UE.
+Il DFI include nell’allegato 3 i coformulanti che non possono essere introdotti in un prodotto fitosanitario. A tale scopo tiene conto delle relative decisioni dell’UE.
 
 ## Capitolo 3: Prodotti fitosanitari
 
@@ -437,7 +447,7 @@ Il DEFR include nell’allegato 3 i coformulanti che non possono essere introdot
 
 In deroga al capoverso 1, non è richiesta un’omologazione nei casi seguenti:
 
-- a.[^14-3] immissione sul mercato e uso di prodotti fitosanitari a fini di ricerca o sviluppo conformemente all’articolo 41; se i prodotti fitosanitari sono o contengono organismi, sono fatte salve le disposizioni dell’ordinanza del 9 maggio 2012[^14-4] sull’impiego confinato e dell’ordinanza del 10 settembre 2008[^14-5] sull’emissione deliberata nell’ambiente;
+- a. [^14-3] immissione sul mercato e uso di prodotti fitosanitari a fini di ricerca o sviluppo conformemente all’articolo 41; se i prodotti fitosanitari sono o contengono organismi, sono fatte salve le disposizioni dell’ordinanza del 9 maggio 2012[^14-4] sull’impiego confinato e dell’OEDA[^14-5];
 - b. produzione, stoccaggio o immissione sul mercato di prodotti fitosanitari destinati a essere utilizzati in uno Paese terzo.
 
 <sup>3</sup>
@@ -451,7 +461,7 @@ L’omologazione vale per i prodotti fitosanitari:
 
 [^14-1]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
 [^14-2]: Introdotto dall’all. n. 7 dell’O di Nagoya dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
-[^14-3]: Nuovo testo giusta l’all. 5 n. 12 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^14-3]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 [^14-4]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
 [^14-5]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 
@@ -506,9 +516,9 @@ Fatto salvo l’articolo 34, un prodotto fitosanitario è autorizzato soltanto s
 
 <sup>3</sup> Il rispetto dei requisiti di cui al capoverso 1 lettera b e lettere d–h, è stabilito mediante test e analisi ufficiali, o ufficialmente riconosciuti, effettuati in condizioni agricole, fitosanitarie e ambientali pertinenti rispetto all’impiego del prodotto fitosanitario in questione e rappresentative delle condizioni d’uso.
 
-<sup>4</sup> Riguardo al capoverso 1 lettera f, l’UFAG può definire metodi armonizzati tenendo conto, a tal fine, di quelli adottati dall’UE.
+<sup>4</sup> Riguardo al capoverso 1 lettera f, l il servizio d’omologazione può definire metodi armonizzati tenendo conto, a tal fine, di quelli adottati dall’UE.
 
-<sup>5</sup> I principi uniformi di valutazione e autorizzazione dei prodotti fitosanitari sono fissati nell’allegato 9 e precisano i criteri di cui al capoverso 1. Il DEFR può adattare l’allegato 9.
+<sup>5</sup> I principi uniformi di valutazione e autorizzazione dei prodotti fitosanitari sono fissati nell’allegato 9 e precisano i criteri di cui al capoverso 1. D’intesa con il DEFR e il Dipartimento federale dellʼambiente, dei trasporti, dellʼenergia e delle comunicazioni, il DFI può adattare l’allegato 9. Per quanto riguarda la partecipazione dei dipartimenti si applicano gli articoli 62*a* e 62*b* LOGA[^17-6].[^17-7]
 
 <sup>6</sup> In fase di valutazione dei prodotti fitosanitari bisogna considerare l’interazione tra il principio attivo, i fitoprotettori, i sinergizzanti e i coformulanti.
 
@@ -516,7 +526,7 @@ Fatto salvo l’articolo 34, un prodotto fitosanitario è autorizzato soltanto s
 
 Un prodotto fitosanitario, inoltre, è autorizzato solo se:
 
-- a. non contiene organismi considerati organismi alloctoni invasivi ai sensi dell’articolo 3 lettera h OEDA[^17-6] o che figurano nell’allegato 2 OEDA;
+- a. non contiene organismi considerati organismi alloctoni invasivi ai sensi dell’articolo 3 lettera h OEDA[^17-8] o che figurano nell’allegato 2 OEDA;
 - b. l’identità e le proprietà biologiche dei microrganismi e macrorganismi in esso contenuti sono sufficientemente conosciuti;
 - c. non contiene una miscela di principi attivi per combattere gruppi diversi di organismi nocivi, quali insetti, funghi o malerbe.
 
@@ -524,7 +534,7 @@ Un prodotto fitosanitario, inoltre, è autorizzato solo se:
 
 <sup>9</sup> I prodotti fitosanitari contenenti o costituiti da organismi geneticamente modificati sono autorizzati soltanto se adempiono i requisiti dell’OEDA.
 
-<sup>10</sup> L’UFAG può negare l’autorizzazione o vincolarla a oneri o a condizioni se risulta necessario adottare le misure preventive secondo l’articolo 148*a* LAgr.
+<sup>10</sup> Il servizio d’omologazione può negare l’autorizzazione o vincolarla a oneri o a condizioni se risulta necessario adottare le misure preventive secondo l’articolo 148*a* LAgr.
 
 <sup>11</sup> Il servizio d’omologazione può autorizzare per due anni al massimo un prodotto fitosanitario contenente un principio attivo che non figura ancora nell’allegato 1, se tale prodotto adempie i requisiti dei capoversi 1 lettere b–i, 5 e 9; sono esclusi i prodotti fitosanitari contenenti o costituiti da organismi patogeni. Esso fornisce previamente all’Ufficio federale dell’ambiente (UFAM), per parere, i documenti pertinenti nonché le conclusioni della sua valutazione.
 
@@ -533,7 +543,9 @@ Un prodotto fitosanitario, inoltre, è autorizzato solo se:
 [^17-3]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
 [^17-4]: Cfr. nota ad art. 10 cpv. 1.
 [^17-5]: Introdotto dal n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5563](https://fedlex.data.admin.ch/eli/oc/2020/962)).
-[^17-6]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^17-6]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^17-7]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^17-8]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 
 #### Art. 18
 
@@ -748,7 +760,7 @@ Il servizio d’omologazione revoca o modifica l’autorizzazione, a seconda dei
 - e. il titolare dell’autorizzazione non adempie gli obblighi derivanti dalla presente ordinanza;
 - f. sono soddisfatte le condizioni per adottare misure preventive ai sensi dell’articolo 148*a* LAgr.
 
-<sup>4</sup> e <sup>5</sup> ... [^29-2]
+<sup>4</sup> e <sup>5</sup> ...[^29-2]
 
 [^29-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
 [^29-2]: Abrogati dal n. I dell’O del 31 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4199](https://fedlex.data.admin.ch/eli/oc/2018/680)).
@@ -864,7 +876,7 @@ La valutazione comparativa di cui ai capoversi 1 e 2 non viene eseguita nei casi
 
 <sup>5</sup> Salvo se altrimenti specificato, si applicano tutte le disposizioni della presente ordinanza concernenti le autorizzazioni.
 
-<sup>6</sup> Il DEFR può adattare la procedura di valutazione comparativa di un prodotto fitosanitario prevista nell’allegato 4 per prendere in considerazione la sua evoluzione a livello internazionale.
+<sup>6</sup> Il DFI può adattare la procedura di valutazione comparativa di un prodotto fitosanitario prevista nell’allegato 4 per prendere in considerazione la sua evoluzione a livello internazionale.
 
 [^34-1]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4199](https://fedlex.data.admin.ch/eli/oc/2018/680)).
 [^34-2]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)).
@@ -1325,7 +1337,7 @@ I prodotti fitosanitari omologati secondo l’articolo 36 devono essere etichett
 
 <sup>6</sup> Per i prodotti fitosanitari importati si può derogare alle prescrizioni in materia di etichettatura fino alla prima fornitura a terzi in Svizzera.
 
-<sup>7</sup> Il DEFR può adeguare gli allegati 7, 8 e 11 tenendo conto delle pertinenti norme internazionali, in particolare di quelle dell’UE.[^55-11]
+<sup>7</sup> Il DFI può adeguare gli allegati 7, 8 e 11 tenendo conto delle pertinenti norme internazionali, in particolare di quelle dell’UE.[^55-11]
 
 [^55-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 [^55-2]: Nuovo testo giusta il n. I dell’O del 20 mag. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1781](https://fedlex.data.admin.ch/eli/oc/2015/349)).
@@ -1442,9 +1454,11 @@ L’etichetta dei prodotti fitosanitari contenenti esclusivamente sostanze di ba
 
 <sup>1</sup> I fabbricanti, i fornitori, i distributori, gli importatori e gli esportatori di prodotti fitosanitari tengono, per almeno cinque anni, registri sui prodotti fitosanitari che fabbricano, importano, esportano, immagazzinano, utilizzano o immettono sul mercato. Gli utilizzatori professionali di prodotti fitosanitari tengono, per almeno tre anni, registri sui prodotti fitosanitari che utilizzano, nei quali figurano la denominazione del prodotto fitosanitario, la data e la dose dell’applicazione e la superficie e la coltura sulle quali esso è stato utilizzato. Su richiesta, mettono le informazioni pertinenti contenute in tali registri a disposizione dell’autorità competente.
 
-<sup>2</sup> I titolari di autorizzazioni e gli importatori di prodotti fitosanitari che figurano sull’elenco di cui all’articolo 36 e che sono destinati a essere rivenduti comunicano annualmente al servizio d’omologazione tutti i dati necessari concernenti il volume di vendite di prodotti fitosanitari.
+<sup>2</sup> I titolari di autorizzazioni e gli importatori di prodotti fitosanitari che figurano nell’elenco di cui all’articolo 36 e che sono destinati a essere rivenduti comunicano annualmente all’Ufficio federale dell’agricoltura (UFAG) tutti i dati necessari concernenti il volume delle vendite di prodotti fitosanitari.[^62-1]
 
 <sup>3</sup> I dati di cui al capoverso 2 devono essere comparabili a quelli richiesti nell’ambito di sistemi internazionali d’informazioni, in particolare a quelli dell’UE.
+
+[^62-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 63
 
@@ -1485,7 +1499,7 @@ In caso di furto, perdita o erronea immissione sul mercato di prodotti fitosanit
 
 **Condizioni d’uso generali**
 
-L’UFAG può emanare condizioni d’uso generali, come formule per calcolare le quantità di prodotto da utilizzare, le distanze da rispettare o la modalità d’uso di determinati dispositivi.
+Il servizio d’omologazione può emanare condizioni d’uso generali, come formule per calcolare le quantità di prodotto da utilizzare, le distanze da rispettare o la modalità d’uso di determinati dispositivi.
 
 #### Art. 67
 
@@ -1501,7 +1515,7 @@ Se il servizio d’omologazione o un servizio di valutazione ritiene che il pote
 
 <sup>2</sup> Il servizio d’omologazione decide un onere corrispondente se dall’esame del fascicolo risulta che per un prodotto fitosanitario ci si debba attendere il possibile raggiungimento della concentrazione massima fissata per l’acqua potabile nell’ordinanza del DFI del 16 dicembre 2016[^68-2] sull’acqua potabile e sull’acqua per piscine e docce accessibili al pubblico.[^68-3]
 
-<sup>3</sup> L’UFAG pubblica e tiene aggiornato l’elenco dei prodotti fitosanitari che non possono essere impiegati nelle zone S2 e S<sub>h</sub> di protezione delle acque sotterranee.[^68-4]
+<sup>3</sup> Il servizio d’omologazione pubblica e tiene aggiornato l’elenco dei prodotti fitosanitari che non possono essere impiegati nelle zone S2 e S<sub>h</sub> di protezione delle acque sotterranee.[^68-4]
 
 <sup>4</sup> L’uso di prodotti fitosanitari la cui etichettatura contiene un elemento di cui all’allegato 5 numero 1.1 o numero 1.2 lettera a o b oppure numero 2.1 o numero 2.2 lettera a o b OPChim[^68-5] è vietato nelle zone d’insediamento su superfici quali parchi, giardini, impianti sportivi e per il tempo libero, cortili delle scuole o parchi giochi, nonché nelle immediate vicinanze di infrastrutture sanitarie. Il divieto non si applica all’uso su superfici di produzione agricola in zone d’insediamento.[^68-6]
 
@@ -1545,9 +1559,9 @@ Se il servizio d’omologazione o un servizio di valutazione ritiene che il pote
 
 **Servizio d’omologazione e comitato di direzione**
 
-<sup>1</sup> L’UFAG è il servizio d’omologazione per i prodotti fitosanitari.
+<sup>1</sup> <sup>1</sup> Il servizio d’omologazione per i prodotti fitosanitari è aggregato all’Ufficio federale della sicurezza alimentare e di veterinaria (USAV).[^71-1]
 
-<sup>2</sup> Per il servizio d’omologazione viene istituito un comitato di direzione. La sua composizione si basa sull’articolo 77 OPChim[^71-1].[^71-2]
+<sup>2</sup> Per il servizio d’omologazione viene istituito un comitato di direzione. La sua composizione si basa sull’articolo 77 OPChim[^71-2].[^71-3]
 
 <sup>3</sup>
 
@@ -1558,50 +1572,84 @@ Il comitato di direzione ha i compiti e le competenze seguenti:
 
 <sup>4</sup> Il comitato di direzione decide all’unanimità.
 
-[^71-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^71-2]: Nuovo testo giusta l’all. n. 3 dell’O del 18 nov. 2020, in vigore dal 15 dic. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^71-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^71-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^71-3]: Nuovo testo giusta l’all. n. 3 dell’O del 18 nov. 2020, in vigore dal 15 dic. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
 #### Art. 72
 
-**Servizi di valutazione**
+**Servizi di valutazione**[^72-1]
 
 <sup>1</sup>
 
 Sono servizi di valutazione:
 
-- a. l’UFAG;
+- a. l’UFAM;
 - b. l’USAV;
-- c. l’UFAM;
+- c. l’UFAG;
 - d. la SECO.
 
-<sup>2</sup>
+<sup>2</sup> Per la valutazione dei prodotti fitosanitari i servizi di valutazione tengono conto dei documenti tecnici e di altre linee guida relative ai prodotti fitosanitari in questione adottate dall’UE.
 
-L’UFAG, unitamente alle sue Stazioni federali di ricerche agronomiche e all’Istituto federale di ricerca per la foresta, la neve e il paesaggio (FNP) si accerta che un prodotto fitosanitario:
+[^72-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
-- a. se usato in modo conforme alle prescrizioni, sia sufficientemente efficace e non abbia effetti collaterali inaccettabili sulle piante e i raccolti;
-- b. se utilizzato in modo conforme alle prescrizioni, non abbia effetti collaterali inaccettabili sugli esseri umani, gli animali e l’ambiente.
+#### Art. 72a
 
-<sup>3</sup>
+**Compiti dell’UFAM**[^72a-1]
 
-L’USAV ha i compiti seguenti:
+<sup>1</sup>
 
-- a. si accerta che, se impiegato in modo conforme alle prescrizioni, un prodotto fitosanitario non metta in pericolo gli esseri umani;
-- b. si accerta che, se impiegato in modo conforme alle prescrizioni, un prodotto fitosanitario non abbia effetti collaterali inaccettabili in merito a eventuali residui in o su derrate alimentari;
-- c.[^72-1] stabilisce l’etichettatura e la classificazione di un prodotto fitosanitario in relazione alla protezione della salute.
+L’UFAM valuta:
 
-<sup>4</sup> L’UFAM stabilisce l’etichettatura e la classificazione di un prodotto fitosanitario in funzione della sua pericolosità per l’ambiente.
+- a. l’etichettatura e la classificazione dei prodotti fitosanitari in relazione alla pericolosità per l’ambiente e ai pericoli fisico-chimici;
+- b. la durata di permanenza e la distribuzione dei prodotti fitosanitari nell’ambiente;
+- c. gli effetti dei prodotti fitosanitari sugli uccelli e su altri vertebrati terrestri, sugli organismi acquatici e su altre specie non bersaglio al di fuori della superficie agricola trattata.
 
-<sup>5</sup> Prima di iscrivere nell’allegato 1 un principio attivo che viene esaminato come parte integrante di un prodotto fitosanitario sottoposto ad autorizzazione o in caso di una nuova valutazione di un principio attivo, il servizio d’omologazione sottopone per parere all’UFAM i documenti determinanti e il risultato del loro esame. Per quanto riguarda la collaborazione dell’UFAM, si applicano gli articoli 62*a* e 62*b* della legge del 21 marzo 1997[^72-2] sull’organizzazione del Governo e dell’Amministrazione.
+<sup>2</sup> In caso di prodotti fitosanitari costituiti da o contenenti organismi geneticamente modificati, i compiti dell’UFAM sono retti dalle disposizioni dell’OEDA[^72a-2].
 
-<sup>6</sup> In caso di prodotti fitosanitari costituiti da o contenenti organismi geneticamente modificati, i compiti dell’UFAM sono retti dalle disposizioni dell’OEDA[^72-3].
+[^72a-1]: Introdotto dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^72a-2]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 
-<sup>7</sup> La SECO valuta i prodotti fitosanitari in relazione alla salute e alla sicurezza degli utilizzatori, sempre che i prodotti fitosanitari siano impiegati a titolo professionale o commerciale. A tal fine, si basa sulla valutazione tossicologica del prodotto fitosanitario effettuata dall’USAV e sui dati dell’esposizione; per quanto possibile impiega modelli riconosciuti.
+#### Art. 72b
 
-<sup>8</sup> I servizi di valutazione utilizzano i documenti tecnici e altri documenti d’orientamento adottati dalla Comunità europea per la valutazione dei prodotti fitosanitari.
+**Compiti dell’USAV**[^72b-1]
 
-[^72-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)).
-[^72-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^72-3]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+L’USAV valuta:
+
+- a. l’etichettatura e la classificazione dei prodotti fitosanitari in relazione ai pericoli per la salute;
+- b. la tossicità dei prodotti fitosanitari per l’uomo;
+- c.
+
+  gli effetti dei prodotti fitosanitari:
+
+  - 1\. sulla salute degli utilizzatori non professionali, dei residenti e degli astanti,
+  - 2\. sui vertebrati da combattere;
+
+- d. gli effetti sulla salute dell’uomo di eventuali residui di prodotti fitosanitari in o su derrate alimentari.
+
+[^72b-1]: Introdotto dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+
+#### Art. 72c
+
+**Compiti dell’UFAG**[^72c-1]
+
+L’UFAG, unitamente alle sue Stazioni federali di ricerche agronomiche (Agroscope) e all’Istituto federale di ricerca per la foresta, la neve e il paesaggio (WSL), valuta:
+
+- a. l’efficacia dei prodotti fitosanitari contro gli organismi nocivi e gli effetti su piante e prodotti vegetali;
+- b. gli effetti dei prodotti fitosanitari su specie non bersaglio, sulla fertilità del suolo e sulle api nelle superfici agricole trattate;
+- c. gli effetti dello stralcio di un principio attivo dall’allegato 1 (art. 10) oppure della modifica o della revoca di un’autorizzazione (art. 29 e 29*a*) sulla produzione agricola, le domande d’autorizzazione per un uso minore (art. 35) e le domande d’omologazione in situazione d’emergenza (art. 40);
+- d. il comportamento di residui di prodotti fitosanitari su piante utili e raccolti;
+- e. l’identità e le proprietà fisico-chimiche dei prodotti fitosanitari.
+
+[^72c-1]: Introdotto dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+
+#### Art. 72d
+
+**Compiti della SECO**[^72d-1]
+
+La SECO valuta gli effetti dei prodotti fitosanitari sulla salute degli utilizzatori professionali e sui lavoratori i quali, dopo l’utilizzazione di un prodotto fitosanitario, sono esposti a un carico. A tal fine, si basa sulla valutazione tossicologica del prodotto fitosanitario effettuata dall’USAV.
+
+[^72d-1]: Introdotto dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 73
 
@@ -1613,11 +1661,11 @@ Il servizio d’omologazione svolge i compiti seguenti:
 
 - a. coordina la collaborazione con i servizi di valutazione;
 - b. chiede valutazioni e pareri ai servizi di valutazione competenti;
-- c. decide, d’intesa con i servizi di valutazione, sempre che le loro sfere di competenze siano interessate, in merito alle domande di autorizzazione di un prodotto fitosanitario.
+- c.[^73-1] decide, d’intesa con i servizi di valutazione, in merito alle domande di autorizzazione di un prodotto fitosanitario.
 
 <sup>2</sup> Prima di iscrivere un prodotto fitosanitario nell’elenco secondo l’articolo 36 e di omologare un prodotto fitosanitario per far fronte a una situazione d’emergenza secondo l’articolo 40, il servizio d’omologazione chiede il parere dei servizi di valutazione le cui sfere di competenza sono interessate.
 
-<sup>3</sup> Il servizio d’omologazione dirige e coordina la procedura d’omologazione dei prodotti fitosanitari costituiti da o contenenti organismi geneticamente modificati, tenendo conto dell’OEDA[^73-1]. Effettua gli esperimenti in pieno campo eventualmente necessari per il rilascio dell’autorizzazione soltanto se sono soddisfatti i requisiti dell’OEDA.
+<sup>3</sup> Il servizio d’omologazione dirige e coordina la procedura d’omologazione dei prodotti fitosanitari costituiti da o contenenti organismi geneticamente modificati, tenendo conto dell’OEDA[^73-2]. Effettua gli esperimenti in pieno campo eventualmente necessari per il rilascio dell’autorizzazione soltanto se sono soddisfatti i requisiti dell’OEDA.
 
 <sup>4</sup>
 
@@ -1630,7 +1678,12 @@ Il servizio d’omologazione decide della modifica o della revoca di autorizzazi
 
 <sup>6</sup> Il servizio d’omologazione può, in collaborazione con le autorità esecutive cantonali, organizzare controlli relativi all’immissione sul mercato o all’impiego di determinati prodotti fitosanitari.
 
-[^73-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+<sup>7</sup> Per quanto riguarda la partecipazione dei servizi di valutazione si applicano gli articoli 62*a* e 62*b* LOGA[^73-3].[^73-4]
+
+[^73-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^73-2]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^73-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^73-4]: Introdotto dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 74
 
@@ -1658,7 +1711,7 @@ Il servizio d’omologazione può avvalersi della consulenza di esperti per l’
 
 **Importazione e permesso generale d’importazione**
 
-<sup>1</sup> Per l’importazione di prodotti fitosanitari occorre un permesso generale d’importazione (PGI), rilasciato dal servizio d’omologazione.
+<sup>1</sup> Per l’importazione di prodotti fitosanitari per scopi professionali o commerciali occorre un permesso generale d’importazione (PGI). Quest’ultimo è rilasciato dall’UFAG.[^77-1]
 
 <sup>2</sup> Il PGI è rilasciato, su domanda scritta, alle persone che hanno il domicilio, la sede sociale o una succursale in Svizzera o sono cittadini di uno Stato con cui la Svizzera ha concluso un accordo che stabilisce la rinuncia a tale requisito.
 
@@ -1667,6 +1720,11 @@ Il servizio d’omologazione può avvalersi della consulenza di esperti per l’
 <sup>4</sup> La persona soggetta all’obbligo di dichiarazione deve indicare nella dichiarazione doganale il numero del PGI dell’importatore.
 
 <sup>5</sup> Il servizio d’omologazione informa le autorità cantonali sui titolari di un PGI residenti nel loro territorio.
+
+<sup>6</sup> Un prodotto fitosanitario può essere importato solo se è stato omologato conformemente alla presente ordinanza o se non è richiesta alcuna omologazione conformemente all’articolo 14 capoverso 2.[^77-2]
+
+[^77-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^77-2]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 685](https://fedlex.data.admin.ch/eli/oc/2021/685)).
 
 #### Art. 78
 
@@ -1679,17 +1737,23 @@ Gli uffici doganali controllano, su richiesta del servizio d’omologazione, se 
 
 #### Art. 79
 
-**Emolumenti**
+**Emolumenti**[^79-1]
 
-L’obbligo di pagare emolumenti per atti amministrativi secondo la presente ordinanza e il calcolo degli stessi sono retti dall’ordinanza del 7 dicembre 1998[^79-1] concernente le tasse dell’Ufficio federale dell’agricoltura.
+L’obbligo di pagare emolumenti per atti amministrativi secondo la presente ordinanza e il calcolo degli stessi sono retti dall’ordinanza del 30 ottobre 1985[^79-2] sulle tasse dell’USAV.
 
-[^79-1]: [[RU 1998 3088](https://fedlex.data.admin.ch/eli/oc/1998/3088_3088_3088). [RU 2000 2698](https://fedlex.data.admin.ch/eli/oc/2000/446)art. 14 cpv. 2]. Vedi ora l’O del 16 juin 2006 ([RS 910.11](https://fedlex.data.admin.ch/eli/cc/2006/415)).
+[^79-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^79-2]: [RS 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
 
 ### Sezione 2: Cantoni
 
 #### Art. 80
 
-<sup>1</sup> Il controllo del mercato e dell’uso conforme alle prescrizioni dei prodotti fitosanitari spetta ai Cantoni. In via sussidiaria, l’UFAG assume tali compiti.
+<sup>1</sup>
+
+I Cantoni sono responsabili della sorveglianza del mercato dei prodotti fitosanitari e del controllo dell’uso conforme alle prescrizioni dei prodotti fitosanitari. In via sussidiaria, i compiti sono assunti dai seguenti servizi:
+
+- a. il compito della sorveglianza del mercato dei prodotti fitosanitari: dal servizio d’omologazione, in collaborazione con l’UFAG;
+- b. i compiti del controllo dell’uso conforme alle prescrizioni dei prodotti fitosanitari nell’agricoltura: dall’UFAG. [^80-1]
 
 <sup>2</sup>
 
@@ -1697,11 +1761,12 @@ I Cantoni controllano segnatamente il rispetto:
 
 - a. delle decisioni prese in virtù degli articoli 18 e 37;
 - b. delle prescrizioni relative a imballaggio, etichettatura e scheda di dati di sicurezza (art. 54–60);
-- c.[^80-1] delle prescrizioni relative all’obbligo di diligenza (art. 61), alla conservazione (art. 63), alla fornitura (art. 64), al furto, alla perdita e all’immissione per errore sul mercato (art. 65), alle restrizioni d’uso (art. 68) e all’obbligo di ripresa (art. 70).
+- c.[^80-2] delle prescrizioni relative all’obbligo di diligenza (art. 61), alla conservazione (art. 63), alla fornitura (art. 64), al furto, alla perdita e all’immissione per errore sul mercato (art. 65), alle restrizioni d’uso (art. 68) e all’obbligo di ripresa (art. 70).
 
 <sup>3</sup> I Cantoni assicurano l’esecuzione dei divieti d’impiego di cui all’articolo 67.
 
-[^80-1]: Nuovo testo giusta il n. I dell’O del 23 mag. 2012, in vigore dal 1° dic. 2012 ([RU 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)).
+[^80-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^80-2]: Nuovo testo giusta il n. I dell’O del 23 mag. 2012, in vigore dal 1° dic. 2012 ([RU 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)).
 
 ### Sezione 3: Sequestro e confisca
 
@@ -1780,7 +1845,7 @@ Le condizioni per l’iscrizione dei principi attivi di cui all’allegato 1 vig
 
 <sup>3</sup> I prodotti fitosanitari che sono stati etichettati e imballati secondo il diritto vigente prima del 1° agosto 2005 possono essere utilizzati fino al 31 luglio 2011.
 
-<sup>4</sup> Il DEFR può prorogare i termini di cui al capoverso 1 se una proroga di questi termini è stata decisa nell’UE.
+<sup>4</sup> Il DFI può prorogare i termini di cui al capoverso 1 se una proroga di questi termini è stata decisa nell’UE.
 
 <sup>5</sup> I fitoprotettori e i sinergizzanti già immessi sul mercato prima dell’entrata in vigore della presente ordinanza devono essere notificati al servizio d’omologazione entro 12 mesi dall’entrata in vigore della presente ordinanza.
 
@@ -1873,6 +1938,24 @@ I prodotti fitosanitari contenenti principi attivi stralciati dall’allegato 1 
 
 [^86f-1]: Introdotto dal n. I dell’O del 17 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321)).
 
+#### Art. 86g
+
+**Disposizione transitoria relativa alla modifica del 30 novembre 2021**[^86g-1]
+
+I prodotti fitosanitari contenenti principi attivi stralciati dall’allegato 1 con la modifica del 30 novembre 2021 possono essere immessi sul mercato e utilizzati fino alle date seguenti:
+
+<table>
+<tr><th>Nome comune, numero d’identificazione del principio attivo</th><th>Termine per l’immissione sul mercato dei prodotti fitosanitari contenenti il principio attivo</th><th>Termine per l’utilizzo dei prodotti fitosanitari contenenti il principio attivo</th></tr>
+<tr><td>alfa-Cipermetrina</td><td>30.06.2022</td><td>30.06.2023</td></tr>
+<tr><td>Ciproconazolo</td><td>30.06.2022</td><td>30.06.2023</td></tr>
+<tr><td>Diflubenzuron</td><td>30.06.2022</td><td>30.06.2023</td></tr>
+<tr><td>Famoxadone</td><td>30.06.2022</td><td>31.12.2022</td></tr>
+<tr><td>Procloraz</td><td>30.06.2022</td><td>30.06.2023</td></tr>
+<tr><td>Triazoxide</td><td>30.06.2022</td><td>30.06.2023</td></tr>
+</table>
+
+[^86g-1]: Introdotto dal n. I dell’O del DEFR del 30 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 795](https://fedlex.data.admin.ch/eli/oc/2021/795)).
+
 ### Sezione 3: Entrata in vigore
 
 #### Art. 87
@@ -1885,7 +1968,7 @@ Allegato 1*[^t-1]*
 
 ## Principi attivi approvati, la cui incorporazione nei prodotti fitosanitari è autorizzata
 
-[^t-1]: Aggiornato dal n. I dell’O del DEFR del 17 giu. 2011 ([RU 2011 2927](https://fedlex.data.admin.ch/eli/oc/2011/381)), dal n. II cpv. 1 dell’O del 23 mag. 2012 ([RU 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), dai n. I delle O del DEFR dell’11 dic. 2012 ([RU 2013 249](https://fedlex.data.admin.ch/eli/oc/2013/34)), del 12 nov. 2014 ([RU 2014 4215](https://fedlex.data.admin.ch/eli/oc/2014/703)), dal n. II delle O del DEFR 28 ott. 2015 ([RU 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)), del 28 ott. 2015 ([RU 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)), dal n. I cpv. 1 dell’O del DEFR del 16 set. 2016 ([RU 2016 3345](https://fedlex.data.admin.ch/eli/oc/2016/568)), dai n. I delle O del DEFR del 9 giu. 2017 ([RU 2017 3501](https://fedlex.data.admin.ch/eli/oc/2017/381)), del 28 mag. 2018 ([RU 2018 2377](https://fedlex.data.admin.ch/eli/oc/2018/341)), del 31 ott. 2018 ([RU 2018 4421](https://fedlex.data.admin.ch/eli/oc/2018/705)), del 25 giu. 2019 ([RU 2019 2091](https://fedlex.data.admin.ch/eli/oc/2019/383)), del 12 nov. 2019 ([RU 2019 4263](https://fedlex.data.admin.ch/eli/oc/2019/734)), del 2 giu. 2020 ([RU 2020 2165](https://fedlex.data.admin.ch/eli/oc/2020/427)) e dal n. II dell’O DEFR del 17 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321)).
+[^t-1]: Aggiornato dal n. I dell’O del DEFR del 17 giu. 2011 ([RU 2011 2927](https://fedlex.data.admin.ch/eli/oc/2011/381)), dal n. II cpv. 1 dell’O del 23 mag. 2012 ([RU 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), dai n. I delle O del DEFR dell’11 dic. 2012 ([RU 2013 249](https://fedlex.data.admin.ch/eli/oc/2013/34)), del 12 nov. 2014 ([RU 2014 4215](https://fedlex.data.admin.ch/eli/oc/2014/703)), dal n. II delle O del DEFR 28 ott. 2015 ([RU 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)), del 28 ott. 2015 ([RU 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)), dal n. I cpv. 1 dell’O del DEFR del 16 set. 2016 ([RU 2016 3345](https://fedlex.data.admin.ch/eli/oc/2016/568)), dai n. I delle O del DEFR del 9 giu. 2017 ([RU 2017 3501](https://fedlex.data.admin.ch/eli/oc/2017/381)), del 28 mag. 2018 ([RU 2018 2377](https://fedlex.data.admin.ch/eli/oc/2018/341)), del 31 ott. 2018 ([RU 2018 4421](https://fedlex.data.admin.ch/eli/oc/2018/705)), del 25 giu. 2019 ([RU 2019 2091](https://fedlex.data.admin.ch/eli/oc/2019/383)), del 12 nov. 2019 ([RU 2019 4263](https://fedlex.data.admin.ch/eli/oc/2019/734)), del 2 giu. 2020 ([RU 2020 2165](https://fedlex.data.admin.ch/eli/oc/2020/427)) e dal n. II dell’O DEFR del 17 mag. 2021 ([RU 2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321)) e del 30 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 795](https://fedlex.data.admin.ch/eli/oc/2021/795)).
 
 ### Parte A: Sostanze chimiche
 
@@ -1918,7 +2001,6 @@ Allegato 1*[^t-1]*
 <tr><td>Acido gibberellico</td><td>(3S,3aS,4S,4aS,7S,9aR,9bR,12S)-7,12-dihydroxy-3-methyl-6-methylene-2-oxoperhydro-4a,7-methano- 9b,3-propeno[1,2-b]furan-4-carboxylic acid</td><td>77-06-5</td><td>307</td><td>fitoregolatore</td></tr>
 <tr><td>Acido ottanoico (sotto forma di sali di Na e Fe)</td><td>octanoic acid</td><td>124-07-2</td><td>‑</td><td>pasta cicatrizzante</td></tr>
 <tr><td>Aclonifen</td><td>2-chloro-6-nitro-3-phenoxyaniline</td><td>74070-46-5</td><td>498</td><td>erbicida</td></tr>
-<tr><td>alfa-Cipermetrina</td><td>A racemate comprising (S)-α-cyano-3-phenoxybenzyl (1R,3R)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate and (R)-α-cyano-3-phenoxybenzyl (1S,3S)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate</td><td>67375-30-8</td><td>454</td><td>insetticida</td></tr>
 <tr><td>alfa-Pinene</td><td>2,6,6-Trimethylbicyclo[3.1.1]hept-2-en</td><td>2437-95-8</td><td>‑</td><td>feromone</td></tr>
 <tr><td>Alluminio fosfuro</td><td>aluminium phosphide</td><td>20859-73-8</td><td>227</td><td>rodenticida</td></tr>
 <tr><td>Ametoctradin</td><td>5-ethyl-6-octyl [1,2,4]triazolo[1,5-a] pyrimidin-7-amine</td><td>865318-97-4</td><td>818</td><td>fungicida</td></tr>
@@ -1955,7 +2037,6 @@ Allegato 1*[^t-1]*
 <tr><td>Cimoxanil</td><td>1-(2-cyano-2-methoxyiminoacetyl)-3-ethylurea</td><td>57966-95-7</td><td>419</td><td>fungicida</td></tr>
 <tr><td>Cipermetrina</td><td>(RS)-α-cyano-3-phenoxybenzyl (1RS,3RS;1RS,3SR)- 3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate</td><td>52315-07-8</td><td>332</td><td>insetticida</td></tr>
 <tr><td>Cipermetrina high-cis</td><td>(RS)-α-yano-3-phenoxybenzyl (1RS)-cis,trans (&gt; 80 %: &lt; 20 %)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate</td><td>52315-07-8</td><td>‑</td><td>insetticida</td></tr>
-<tr><td>Ciproconazolo</td><td>(2RS,3RS;2RS,3SR)-2-(4-chlorophenyl)-3- cyclopropyl-1-(1H-1,2,4-triazol-1-yl)butan-2-ol</td><td>94361-06-5</td><td>600</td><td>fungicida</td></tr>
 <tr><td>Ciprodinil</td><td>4-cyclopropyl-6-methyl-N-phenylpyrimidin-2-amine</td><td>121552-61-2</td><td>511</td><td>fungicida</td></tr>
 <tr><td>Cletodim</td><td>(±)-2-[(E)-1-[(E)-3-chloroallyloxyimino]propyl]-5- [2-(ethylthio)propyl]-3-hydroxycyclohex-2-enone</td><td>99129-21-2</td><td>508</td><td>erbicida</td></tr>
 <tr><td>Clodinafop-propargyl</td><td>prop-2-ynyl (R)-2-[4-(5-chloro-3-fluoropyridin- 2-yloxy)phenoxy]propionate</td><td>105512-06-9</td><td>683.225</td><td>erbicida</td></tr>
@@ -1980,7 +2061,6 @@ Allegato 1*[^t-1]*
 <tr><td>Dicamba</td><td>3,6-dichloro-o-anisic acid</td><td>1918-00-9</td><td>85</td><td>erbicida</td></tr>
 <tr><td>Diclorprop-P</td><td>(R)-2-(2,4-dichlorophenoxy)propionic acid</td><td>15165-67-0</td><td>476</td><td>erbicida</td></tr>
 <tr><td>Difenoconazolo</td><td>cis,trans-3-chloro-4-[4-methyl-2-(1H-1,2,4-triazol-1-ylmethyl)-1,3-dioxolan-2-yl]phenyl 4-chlorophenyl ether</td><td>119446-68-3</td><td>687</td><td>fungicida</td></tr>
-<tr><td>Diflubenzuron</td><td>1-(4-chlorophenyl)-3-(2,6-difluorobenzoyl)urea</td><td>35367-38-5</td><td>339</td><td>insetticida</td></tr>
 <tr><td>Diflufenican</td><td>2’,4’-difluoro-2-(α,α,α-trifluoro-m-tolyloxy)nicotinanilide</td><td>83164-33-4</td><td>462</td><td>erbicida</td></tr>
 <tr><td>Dimethachlor</td><td>2-chloro-N-(2-methoxyethyl)aceto-2’,6’-xylidide</td><td>50563-36-5</td><td>688</td><td>erbicida</td></tr>
 <tr><td>Dimethenamid-P</td><td>S-2-chloro-N-(2,4-dimethyl-3-thienyl)-N-(2- methoxy-1-methylethyl)-acetamide</td><td>163515-14-8</td><td>638</td><td>erbicida</td></tr>
@@ -2003,7 +2083,6 @@ Allegato 1*[^t-1]*
 <tr><td>Etofenprox</td><td>2-(4-ethoxyphenyl)-2-methylpropyl 3-phenoxybenzyl ether</td><td>80844-07-1</td><td>471</td><td>insetticida</td></tr>
 <tr><td>Etofumesate</td><td>(±)-2-ethoxy-2,3-dihydro-3,3-dimethylbenzofuran- 5-yl methanesufonate</td><td>26225-79-6</td><td>233</td><td>erbicida</td></tr>
 <tr><td>Etoxazol</td><td>(*RS*)-5-*tert*-butyl-2-[2-(2,6-difluorophenyl)- 4,5-dihydro-1,3-oxazol-4-yl]phenetole</td><td>153233-91-1</td><td>623</td><td>acaricida</td></tr>
-<tr><td>Famoxadone</td><td>3-anilino-5-methyl-5-(4-phenoxyphenyl)-1,3-oxazolidine-2,4-dione</td><td>131807-57-3</td><td>594</td><td>fungicida</td></tr>
 <tr><td>Farina di senapa</td><td></td><td></td><td>‑</td><td>fungicida</td></tr>
 <tr><td>Farine animali</td><td></td><td></td><td>‑</td><td>repellente antiselvaggina</td></tr>
 <tr><td>Fenazaquin</td><td>4-tert-butylphenethyl quinazolin-4-yl ether</td><td>120928-09-8</td><td>693</td><td>acaricida</td></tr>
@@ -2118,7 +2197,6 @@ Allegato 1*[^t-1]*
 <tr><td>Pirimifos-metile</td><td>O,O-dimethyl O-2-diethylamino-6-methylpyrimidin- 4-yl phosphorothioate</td><td>29232-93-7</td><td>239</td><td>insetticida; acaricida</td></tr>
 <tr><td>Polimeri di esteri vinilici</td><td>Vinylesterpolymere</td><td></td><td>‑</td><td>repellente antiselvaggina</td></tr>
 <tr><td>Potassio fosfato bibasico anidro</td><td>KH2PO3 e K2HPO3</td><td></td><td>756</td><td>fungicida</td></tr>
-<tr><td>Procloraz</td><td>N-propyl-N-[2-(2,4,6-trichlorophenoxy)ethyl]imidazole-1-carboxamide</td><td>67747-09-5</td><td>407</td><td>fungicida</td></tr>
 <tr><td>Propamocarb</td><td>propyl 3-(dimethylamino)propylcarbamate *Variante*: propamocarb hydrochloride</td><td>24579-73-5 25606-41-1</td><td>399 399.601</td><td>fungicida</td></tr>
 <tr><td>Propaquizafop</td><td>2-isopropylideneamino-oxyethyl (R)-2-[4-(6-chloroquinoxalin-2-yloxy)phenoxy]propionate</td><td>111479-05-1</td><td>713</td><td>erbicida</td></tr>
 <tr><td>Propizamide</td><td>3,5-dichloro-N-(1,1-dimethylpropynyl)benzamide</td><td>23950-58-5</td><td>315</td><td>erbicida</td></tr>
@@ -2164,7 +2242,6 @@ Allegato 1*[^t-1]*
 <tr><td>Tiencarbazone</td><td>methyl 4-[(4,5-dihydro-3-methoxy-4-methyl-5-oxo-1 H-1,2,4-triazol-1 -yl)carbonylsulfamoyl]-5- methylthiophene-3-carboxylate</td><td>317815-83-1</td><td>797</td><td>erbicida</td></tr>
 <tr><td>Tifensulfuron-metile</td><td>3-(4-methoxy-6-methyl-1,3,5-triazin-2-ylcarbamoylsulamoyl)thiophen-2-carboxylic acid</td><td>79277-27-3</td><td>452.201</td><td>erbicida</td></tr>
 <tr><td>Tolclofos-metile</td><td>O-2,6-dichloro-p-tolyl O,O-dimethyl phosphorothioate</td><td>57018-04-9</td><td>479</td><td>fungicida</td></tr>
-<tr><td>Triazoxide</td><td>7-chloro-3-imidazol-1-yl-1,2,4-benzotriazine 1-oxide</td><td>72459-58-6</td><td>729</td><td>fungicida</td></tr>
 <tr><td>Tribenuron</td><td>2-[4-methoxy-6-methyl-1,3,5-triazin-2-yl(methyl)carbamoylsulfamoyl]benzoic acid</td><td>106040-48-6</td><td>546</td><td>erbicida</td></tr>
 <tr><td>Tribenuron-metile</td><td>methyl ester of 2-[4-methoxy-6-methyl-1,3,5-triazin- 2-yl(methyl)carbamoylsulfamoyl]benzoic acid</td><td>101200-48-0</td><td>546.201</td><td>erbicida</td></tr>
 <tr><td>Triclopir</td><td>3,5,6-trichloro-2-pyridyloxyacetic acid</td><td>55335-06-3</td><td>376</td><td>erbicida</td></tr>
@@ -2951,9 +3028,9 @@ I servizi di valutazione valutano, tenendo conto dei modelli statistici appropri
 
 ### 9BI-2.4.2.4Residui presenti nei prodotti di origine animale
 
-I servizi di valutazione valutano le concentrazioni di residui nei prodotti di origine animale tenendo in considerazione le informazioni di cui all’allegato III parte A numero 8.4 della direttiva 91/414/CEE[^annex10-partI-lvlu2-lvld4e1100-lvlu22-1] e i residui originati da altri usi.
+I servizi di valutazione valutano le concentrazioni di residui nei prodotti di origine animale tenendo in considerazione le informazioni di cui all’allegato III parte A numero 8.4 della direttiva 91/414/CEE[^annex10-partI-lvlu2-lvld4e1115-lvlu22-1] e i residui originati da altri usi.
 
-[^annex10-partI-lvlu2-lvld4e1100-lvlu22-1]: Cfr. nota ad art. 86 cpv. 1 lett. a.
+[^annex10-partI-lvlu2-lvld4e1115-lvlu22-1]: Cfr. nota ad art. 86 cpv. 1 lett. a.
 
 ### 9BI-2.4.2.5Potenziale esposizione dei consumatori attraverso la dieta
 
@@ -2971,7 +3048,7 @@ Nella valutazione del destino e della distribuzione del prodotto fitosanitario n
 
 ### 9BI-2.5.1.1Destino e distribuzione nel suolo
 
-<sup>1</sup> I servizi di valutazione vagliano la possibilità che il prodotto fitosanitario nelle condizioni d’uso proposte raggiunga il suolo; se esiste questa possibilità, essi valutano il tasso e il meccanismo di degradazione nel suolo, la mobilità nel suolo e la variazione della concentrazione totale del principio attivo (residui estraibili e non estraibili[^annex10-partI-lvlu2-lvld4e1100-lvlu27-1]), dei metaboliti e dei prodotti di degradazione e di reazione prevedibili nel suolo nella zona d’uso prevista dopo l’impiego del prodotto fitosanitario secondo le modalità proposte.
+<sup>1</sup> I servizi di valutazione vagliano la possibilità che il prodotto fitosanitario nelle condizioni d’uso proposte raggiunga il suolo; se esiste questa possibilità, essi valutano il tasso e il meccanismo di degradazione nel suolo, la mobilità nel suolo e la variazione della concentrazione totale del principio attivo (residui estraibili e non estraibili[^annex10-partI-lvlu2-lvld4e1115-lvlu27-1]), dei metaboliti e dei prodotti di degradazione e di reazione prevedibili nel suolo nella zona d’uso prevista dopo l’impiego del prodotto fitosanitario secondo le modalità proposte.
 
 <sup>2</sup> Questa valutazione prende in considerazione quanto segue:
 
@@ -2992,7 +3069,7 @@ Nella valutazione del destino e della distribuzione del prodotto fitosanitario n
 - c. tutte le informazioni riguardanti il prodotto fitosanitario di cui all’allegato 6 numero 2, incluse quelle sulla distribuzione e dissipazione nel suolo;
 - d. se del caso, altri usi autorizzati nella zona di applicazione proposta per prodotti fitosanitari contenenti lo stesso principio attivo o che danno origine agli stessi residui.
 
-[^annex10-partI-lvlu2-lvld4e1100-lvlu27-1]: I residui non estraibili nei vegetali e nei suoli sono quei prodotti chimici originati dagli antiparassitari usati secondo la buona pratica agricola, che non possono essere estratti senza che ne risulti significativamente alterata la natura chimica. Ai residui di questo tipo non appartengono i metaboliti che vengono trasformati in prodotti naturali.
+[^annex10-partI-lvlu2-lvld4e1115-lvlu27-1]: I residui non estraibili nei vegetali e nei suoli sono quei prodotti chimici originati dagli antiparassitari usati secondo la buona pratica agricola, che non possono essere estratti senza che ne risulti significativamente alterata la natura chimica. Ai residui di questo tipo non appartengono i metaboliti che vengono trasformati in prodotti naturali.
 
 ### 9BI-2.5.1.2Destino e distribuzione nelle acque sotterranee
 
@@ -3275,14 +3352,14 @@ I servizi di valutazione valutano l’effettivo tenore di principio attivo del p
 <sup>1</sup> I servizi di valutazione valutano le proprietà fisiche e chimiche del prodotto fitosanitario e in particolare:
 
 - a. se esiste una specifica FAO appropriata, le proprietà fisiche e chimiche indicate nella stessa;
-- b. se non esistono specifiche FAO appropriate, tutte le proprietà fisiche e chimiche pertinenti per la formulazione citata nel «*Manual on the development and use of FAO specifications for plant protection products»*[^annex10-partI-lvlu2-lvld4e1100-lvlu44-1].
+- b. se non esistono specifiche FAO appropriate, tutte le proprietà fisiche e chimiche pertinenti per la formulazione citata nel «*Manual on the development and use of FAO specifications for plant protection products»*[^annex10-partI-lvlu2-lvld4e1115-lvlu44-1].
 
 <sup>2</sup> Questa valutazione prende in considerazione quanto segue:
 
 - a. i dati relativi alle proprietà fisiche e chimiche del principio attivo di cui all’allegato 5 numero 2 e i risultati della loro valutazione;
 - b. i dati relativi a proprietà fisiche e chimiche del prodotto fitosanitario di cui all’allegato 6 numero 2.
 
-[^annex10-partI-lvlu2-lvld4e1100-lvlu44-1]: Manual on Development and Use of FAO Specifications for Plant Protection Products. Fifth Edition, prepared by the Group on Specifications of the FAO panel of Experts on Pesticide Specifications, Registration Requirements and Application Standards and Prior Informed Consent, January 1999.
+[^annex10-partI-lvlu2-lvld4e1115-lvlu44-1]: Manual on Development and Use of FAO Specifications for Plant Protection Products. Fifth Edition, prepared by the Group on Specifications of the FAO panel of Experts on Pesticide Specifications, Registration Requirements and Application Standards and Prior Informed Consent, January 1999.
 
 ### 9BI-2.7.3Miscela estemporanea
 
@@ -3398,9 +3475,9 @@ Le istruzioni proposte per la pulizia delle attrezzature per l’applicazione de
 
 <sup>1</sup> L’autorizzazione non viene concessa se il grado di esposizione dell’operatore nella manipolazione e nell’impiego del prodotto fitosanitario secondo le modalità proposte, ivi compresi le dosi e il metodo di applicazione, supera il livello di AOEL.
 
-<sup>2</sup> Inoltre, la concessione dell’autorizzazione è subordinata al rispetto del valore limite stabilito per il principio attivo e/o per i componenti tossici presenti nel prodotto in applicazione dell’ordinanza del DFI del 16 dicembre 2016[^annex10-partI-lvlu3-lvld4e1152-lvlu19-1] concernente i livelli massimi per i residui di antiparassitari nei o sui prodotti di origine vegetale e animale.
+<sup>2</sup> Inoltre, la concessione dell’autorizzazione è subordinata al rispetto del valore limite stabilito per il principio attivo e/o per i componenti tossici presenti nel prodotto in applicazione dell’ordinanza del DFI del 16 dicembre 2016[^annex10-partI-lvlu3-lvld4e1168-lvlu19-1] concernente i livelli massimi per i residui di antiparassitari nei o sui prodotti di origine vegetale e animale.
 
-[^annex10-partI-lvlu3-lvld4e1152-lvlu19-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+[^annex10-partI-lvlu3-lvld4e1168-lvlu19-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
 
 ### 9CI-2.4.1.2Indumenti o dispositivi di protezione
 
@@ -3432,9 +3509,9 @@ Le autorizzazioni devono assicurare che i residui provengano dalle quantità min
 
 <sup>1</sup> I servizi di valutazione, nel caso non esista una concentrazione massima di residui (LMR), ne stabiliscono una provvisoria. Le conclusioni relative ai livelli fissati devono essere valide per tutte le circostanze che possono influenzare la concentrazione di residui nella coltura, come i tempi e le dosi di applicazione, la frequenza e la modalità d’uso.
 
-<sup>2</sup> Basandosi sulla valutazione di potenziali residui in e su parti commestibili di vegetali e prodotti vegetali a opera del servizio di valutazione responsabile e sull’OAOVA[^annex10-partI-lvlu3-lvld4e1152-lvlu27-1], l’USAV stabilisce le concentrazioni massime di principi attivi.
+<sup>2</sup> Basandosi sulla valutazione di potenziali residui in e su parti commestibili di vegetali e prodotti vegetali a opera del servizio di valutazione responsabile e sull’OAOVA[^annex10-partI-lvlu3-lvld4e1168-lvlu27-1], l’USAV stabilisce le concentrazioni massime di principi attivi.
 
-[^annex10-partI-lvlu3-lvld4e1152-lvlu27-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+[^annex10-partI-lvlu3-lvld4e1168-lvlu27-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
 
 ### 9CI-2.4.2.3Dose giornaliera ammissibile (DGA)
 
@@ -3465,9 +3542,9 @@ Quando i vegetali o i prodotti vegetali trattati sono destinati all’alimentazi
 
 ### 9CI-2.5.1.2Destino e comportamento nelle acque sotterranee
 
-L’autorizzazione non viene concessa se si può prevedere che, in seguito all’uso del prodotto fitosanitario nelle condizioni proposte, la concentrazione del principio attivo o dei pertinenti metaboliti, prodotti di degradazione o di reazione nelle acque sotterranee utilizzate come acqua potabile o previste a tal fine, non risponda ai requisiti dell’allegato 2 numero 22 OPAc[^annex10-partI-lvlu3-lvld4e1152-lvlu34-1].
+L’autorizzazione non viene concessa se si può prevedere che, in seguito all’uso del prodotto fitosanitario nelle condizioni proposte, la concentrazione del principio attivo o dei pertinenti metaboliti, prodotti di degradazione o di reazione nelle acque sotterranee utilizzate come acqua potabile o previste a tal fine, non risponda ai requisiti dell’allegato 2 numero 22 OPAc[^annex10-partI-lvlu3-lvld4e1168-lvlu34-1].
 
-[^annex10-partI-lvlu3-lvld4e1152-lvlu34-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex10-partI-lvlu3-lvld4e1168-lvlu34-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
 
 ### 9CI-2.5.1.3Destino e comportamento nelle acque superficiali
 
@@ -4091,11 +4168,11 @@ Occorre tener conto dei vari stadi di sviluppo/del ciclo di vita del microrganis
 
 <sup>2</sup> La base di una valutazione del destino e del comportamento ambientale è costituita da informazioni sull’origine e le proprietà (p. es. la specificità) del microrganismo/dei metaboliti/tossine residui e sull’impiego previsto. Il meccanismo d’azione del microrganismo va preso in considerazione.
 
-<sup>3</sup> Si deve procedere a una valutazione del destino e del comportamento dei metaboliti rilevanti noti che sono prodotti dal microrganismo. La valutazione, prevista per ciascun comparto ambientale, è effettuata in base ai criteri di cui alla sezione 7, punto iv), dell’allegato IIB della direttiva 91/414/CEE[^annex10-partII-lvlu2-lvld4e1212-lvlu44-1].
+<sup>3</sup> Si deve procedere a una valutazione del destino e del comportamento dei metaboliti rilevanti noti che sono prodotti dal microrganismo. La valutazione, prevista per ciascun comparto ambientale, è effettuata in base ai criteri di cui alla sezione 7, punto iv), dell’allegato IIB della direttiva 91/414/CEE[^annex10-partII-lvlu2-lvld4e1228-lvlu44-1].
 
 <sup>4</sup> Nella valutazione del destino e del comportamento ambientale del prodotto fitosanitario, i servizi di valutazione considerano tutti gli aspetti ambientali, inclusi flora e fauna. Il potenziale di persistenza e di moltiplicazione del microrganismo deve essere valutato in tutti i comparti ambientali, tranne qualora si possa dimostrare che un particolare microrganismo non raggiungerà un determinato comparto. La mobilità dei microrganismi e dei loro metaboliti/tossine residui deve essere presa in considerazione.
 
-[^annex10-partII-lvlu2-lvld4e1212-lvlu44-1]: Cfr. nota ad art. 86 cpv. 1 lett. a.
+[^annex10-partII-lvlu2-lvld4e1228-lvlu44-1]: Cfr. nota ad art. 86 cpv. 1 lett. a.
 
 ### 9BII-2.7.1Rischio per le acque
 
@@ -4320,9 +4397,9 @@ Il servizio d’omologazione informa i richiedenti circa le misure precisate all
 
 <sup>10</sup> Nessuna autorizzazione viene concessa se nel prodotto fitosanitario sono presenti metaboliti/tossine rilevanti (ossia che comportano un rischio per la salute umana e/o per l’ambiente) che si sa essere formati dal microrganismo e/o dai contaminanti microbici, tranne qualora si possa dimostrare che la quantità presente rimane a un livello accettabile prima e dopo l’uso proposto.
 
-<sup>11</sup> Il servizio d’omologazione provvede affinché siano applicate misure adeguate di controllo della qualità allo scopo di accertare l’identità del microrganismo e il contenuto del prodotto fitosanitario. Tali misure devono includere l’analisi dei rischi e dei punti critici di controllo (HACCP)[^annex10-partII-lvlu3-lvld4e1290-1] o un sistema equivalente.
+<sup>11</sup> Il servizio d’omologazione provvede affinché siano applicate misure adeguate di controllo della qualità allo scopo di accertare l’identità del microrganismo e il contenuto del prodotto fitosanitario. Tali misure devono includere l’analisi dei rischi e dei punti critici di controllo (HACCP)[^annex10-partII-lvlu3-lvld4e1305-1] o un sistema equivalente.
 
-[^annex10-partII-lvlu3-lvld4e1290-1]: FAO & WHO. 2003. *Recommended international codex of practice. General principles of food hygiene*, CAC/RCP 1 - 1969, Rev. 4-2003, *including «Annex on Hazard Analysis Critical Control Point* (HACCP) *System and Guidelines for its Application*
+[^annex10-partII-lvlu3-lvld4e1305-1]: FAO & WHO. 2003. *Recommended international codex of practice. General principles of food hygiene*, CAC/RCP 1 - 1969, Rev. 4-2003, *including «Annex on Hazard Analysis Critical Control Point* (HACCP) *System and Guidelines for its Application*
 
 ### 9CII-2 Principi specifici
 
@@ -4336,9 +4413,9 @@ Ai fini della concessione di un’autorizzazione, il servizio d’omologazione d
 
 ### 9CII-2.2.1Tenore minimo e massimo dei microrganismi
 
-Occorre disporre di informazioni sufficienti per permettere la valutazione del tenore minimo e massimo del microrganismo nel materiale utilizzato per la fabbricazione del prodotto fitosanitario e nel prodotto fitosanitario stesso. Il tenore di altri componenti e formulanti del prodotto fitosanitario e i microrganismi contaminanti derivati dal processo di produzione devono essere per quanto possibile definiti. Il servizio d’omologazione provvede affinché il livello di organismi contaminanti sia mantenuto entro limiti accettabili. Occorre inoltre indicare lo stato fisico e la natura del prodotto fitosanitario, di preferenza secondo il *«**Catalogue of pesticide formulation types and international coding system**»*[^annex10-partII-lvlu3-lvld4e1291-lvlu3-1].
+Occorre disporre di informazioni sufficienti per permettere la valutazione del tenore minimo e massimo del microrganismo nel materiale utilizzato per la fabbricazione del prodotto fitosanitario e nel prodotto fitosanitario stesso. Il tenore di altri componenti e formulanti del prodotto fitosanitario e i microrganismi contaminanti derivati dal processo di produzione devono essere per quanto possibile definiti. Il servizio d’omologazione provvede affinché il livello di organismi contaminanti sia mantenuto entro limiti accettabili. Occorre inoltre indicare lo stato fisico e la natura del prodotto fitosanitario, di preferenza secondo il *«**Catalogue of pesticide formulation types and international coding system**»*[^annex10-partII-lvlu3-lvld4e1306-lvlu3-1].
 
-[^annex10-partII-lvlu3-lvld4e1291-lvlu3-1]: CropLife International: Technical Monograf No. 2, 5<sup>th</sup> Edition, 2002
+[^annex10-partII-lvlu3-lvld4e1306-lvlu3-1]: CropLife International: Technical Monograf No. 2, 5<sup>th</sup> Edition, 2002
 
 ### 9CII-2.2.2Resistenza
 
@@ -4473,12 +4550,12 @@ I tempi di rientro e i periodi di attesa o altre precauzioni volte ad escludere 
 
 ### 9CII-2.6.1.9Condizioni di autorizzazione
 
-Le condizioni di autorizzazione devono essere conformi alla direttiva 98/24/CE[^annex10-partII-lvlu3-lvld4e1291-lvlu37-1], e alla direttiva 2000/54/CE[^annex10-partII-lvlu3-lvld4e1291-lvlu37-2]. Devono essere esaminati i dati sperimentali e le informazioni pertinenti per il riconoscimento dei sintomi di infezione o patogenicità e relative all’efficacia delle previste misure di pronto soccorso e terapeutiche. Le condizioni di autorizzazione devono essere inoltre conformi alla direttiva 2004/37/CE[^annex10-partII-lvlu3-lvld4e1291-lvlu37-3]. Le condizioni di autorizzazione devono essere inoltre conformi alla direttiva 89/656/CEE[^annex10-partII-lvlu3-lvld4e1291-lvlu37-4].
+Le condizioni di autorizzazione devono essere conformi alla direttiva 98/24/CE[^annex10-partII-lvlu3-lvld4e1306-lvlu37-1], e alla direttiva 2000/54/CE[^annex10-partII-lvlu3-lvld4e1306-lvlu37-2]. Devono essere esaminati i dati sperimentali e le informazioni pertinenti per il riconoscimento dei sintomi di infezione o patogenicità e relative all’efficacia delle previste misure di pronto soccorso e terapeutiche. Le condizioni di autorizzazione devono essere inoltre conformi alla direttiva 2004/37/CE[^annex10-partII-lvlu3-lvld4e1306-lvlu37-3]. Le condizioni di autorizzazione devono essere inoltre conformi alla direttiva 89/656/CEE[^annex10-partII-lvlu3-lvld4e1306-lvlu37-4].
 
-[^annex10-partII-lvlu3-lvld4e1291-lvlu37-1]: Direttiva 98/24/CE del Consiglio del 7 apr. 1998 sulla protezione della salute e della sicurezza dei lavoratori contro i rischi derivanti da agenti chimici durante il lavoro, GU L 131 del 5 mag. 1998, pag. 11, modificata da ultimo dalla direttiva 2007/30/CE, GU L 165 del 27 giu. 2007, pag. 21.
-[^annex10-partII-lvlu3-lvld4e1291-lvlu37-2]: Direttiva 2000/54/CE del Parlamento europeo e del Consiglio del 18 set. 2000 relativa alla protezione dei lavoratori contro i rischi derivanti da un’esposizione ad agenti biologici durante il lavoro, versione GU L 262 del 17 ott. 2000, pag. 21.
-[^annex10-partII-lvlu3-lvld4e1291-lvlu37-3]: Direttiva 2004/37/CE del Parlamento europeo e del Consiglio del 29 apr. 2004 sulla protezione dei lavoratori contro i rischi derivanti da un’esposizione ad agenti cancerogeni o mutageni durante il lavoro, versione GU L 204 del 4 ago. 2007, pag. 28.
-[^annex10-partII-lvlu3-lvld4e1291-lvlu37-4]: Direttiva 89/656/CEE del Consiglio del 30 nov. 1989 relativa alle prescrizioni minime in materia di sicurezza e salute per l’uso da parte dei lavoratori di attrezzature di protezione individuale durante il lavoro, GU L 393 del 30 dic. 1989, pag. 18, modificata da ultimo dalla direttiva 2007/30/CE, GU L 165 del 27 giu. 2007, pag. 21.
+[^annex10-partII-lvlu3-lvld4e1306-lvlu37-1]: Direttiva 98/24/CE del Consiglio del 7 apr. 1998 sulla protezione della salute e della sicurezza dei lavoratori contro i rischi derivanti da agenti chimici durante il lavoro, GU L 131 del 5 mag. 1998, pag. 11, modificata da ultimo dalla direttiva 2007/30/CE, GU L 165 del 27 giu. 2007, pag. 21.
+[^annex10-partII-lvlu3-lvld4e1306-lvlu37-2]: Direttiva 2000/54/CE del Parlamento europeo e del Consiglio del 18 set. 2000 relativa alla protezione dei lavoratori contro i rischi derivanti da un’esposizione ad agenti biologici durante il lavoro, versione GU L 262 del 17 ott. 2000, pag. 21.
+[^annex10-partII-lvlu3-lvld4e1306-lvlu37-3]: Direttiva 2004/37/CE del Parlamento europeo e del Consiglio del 29 apr. 2004 sulla protezione dei lavoratori contro i rischi derivanti da un’esposizione ad agenti cancerogeni o mutageni durante il lavoro, versione GU L 204 del 4 ago. 2007, pag. 28.
+[^annex10-partII-lvlu3-lvld4e1306-lvlu37-4]: Direttiva 89/656/CEE del Consiglio del 30 nov. 1989 relativa alle prescrizioni minime in materia di sicurezza e salute per l’uso da parte dei lavoratori di attrezzature di protezione individuale durante il lavoro, GU L 393 del 30 dic. 1989, pag. 18, modificata da ultimo dalla direttiva 2007/30/CE, GU L 165 del 27 giu. 2007, pag. 21.
 
 ### 9CII-2.6.2Impatto sulla salute dell’uomo e degli animali dovuto ai residui
 
@@ -4624,7 +4701,7 @@ Ogni imballaggio di un prodotto fitosanitario deve recare in modo chiaramente le
 - 17\. le istruzioni per lo stoccaggio adeguato nonché lo smaltimento sicuro del prodotto fitosanitario e dell’imballaggio;
 - 18\. la data di scadenza, se il prodotto fitosanitario si conserva per un periodo inferiore a due anni in condizioni di stoccaggio conformi alle prescrizioni;
 - 19\. l’indicazione del divieto di riutilizzo dell’imballaggio;
-- 20\. i pittogrammi di pericolo, le avvertenze, le frasi di rischio e i consigli di prudenza necessari in base alla classificazione secondo l’articolo 18 capoverso 4;
+- 20\. i pittogrammi di pericolo, le avvertenze, le frasi di rischio e i consigli di prudenza necessari in base alla classificazione secondo l’articolo 18 cpv. 4;
 - 21\. se del caso, le categorie di utilizzatori autorizzati a utilizzare il prodotto fitosanitario.
 
 [^annex11-lvlu1-1]: Le norme IUPAC possono essere scaricate dal sito Internet dell’Unione internazionale di chimica pura e applicata: www.iupac.org
