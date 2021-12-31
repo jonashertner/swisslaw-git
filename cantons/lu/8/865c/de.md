@@ -2,71 +2,89 @@
 canton: LU
 number: 865c
 title: Verordnung über die Zulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung
-short: Kantonale Zulassungsverordnung
+short: "Kantonale Zulassungsverordnung, VZL"
 language: de
-version: 2013-07-15
-valid_until: 2021-12-31
-version_adopted: 2013-07-05
+version: 2022-01-01
+valid_until: 2022-06-30
+version_adopted: 2021-11-30
 adopted: 2021-11-30
 in_force: 2022-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/865c"
-pdf: "https://srl.lu.ch/api/de/versions/2415/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3872/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Zulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung
 
-(Kantonale Zulassungsverordnung)
+(Kantonale Zulassungsverordnung, VZL)
 
-vom 05.07.2013 (Stand 15.07.2013)
+vom 30.11.2021 (Stand 01.01.2022)
 
-Der Regierungsrat des Kantons Luzern,
+Der Regierunsrat des Kantons Luzern,
 
-gestützt auf die Artikel 3 und 4 der Verordnung über die Einschränkung der Zulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung vom 3. Juli 2013[^ingress-1],
+gestützt auf die Artikel 36, 38 Absätze 1 und 2 und 40d des Bundesgesetzes über die Krankenversicherung (KVG) vom 18. März 1994[^ingress-1],
 
 auf Antrag des Gesundheits- und Sozialdepartementes,
 
 beschliesst:
 
-[^ingress-1]: SR [832.103](https://db.clex.ch/link/Bund/832.103/de)
+[^ingress-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
+
+## 1 Allgemeine Bestimmungen
 
 #### § 1
 
-**Grundsatz**
+**Geltungsbereich**
 
-<sup>1</sup> Ärztinnen und Ärzte nach Artikel 36 des Bundesgesetzes über die Krankenversicherung (KVG) vom 18. März 1994[^1-1] und in Einrichtungen nach Artikel 36a KVG tätige Ärztinnen und Ärzte sind nur zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung zugelassen, wenn im entsprechenden Fachgebiet die in Anhang 1 der Verordnung über die Einschränkung der Zulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung (VEZL) vom 3. Juli 2013[^1-2] festgelegte Höchstzahl nicht erreicht ist.
+<sup>1</sup> Diese Verordnung regelt die Zulassung von ambulanten Leistungserbringern gemäss Artikel 35 Absatz 2a–g, m und n des Bundesgesetzes über die Krankenversicherung (KVG) vom 18. März 1994[^1-1] zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung.
 
-<sup>2</sup> Von der Beschränkung nach Absatz 1 ausgenommen sind Ärztinnen und Ärzte,
-
-- a. die mindestens drei Jahre an einer anerkannten schweizerischen Weiterbildungsstätte gearbeitet haben oder
-- b. die vor dem 1. Juli 2013 nach Artikel 36 KVG zugelassen wurden und in eigener Praxis zulasten der obligatorischen Krankenpflegeversicherung tätig waren.
+<sup>2</sup> Die Einzelheiten über die Berufsausübungs- und die Betriebsbewilligung der Leistungserbringer sind in der Medizinalberufeverordnung vom 28. April 2009[^1-2] und der Gesundheitsberufeverordnung vom 28. April 2009[^1-3] geregelt.
 
 [^1-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
-[^1-2]: SR [832.103](https://db.clex.ch/link/Bund/832.103/de). Auf diese Verordnung wird im Folgenden nicht mehr hingewiesen.
+[^1-2]: SRL Nr. [805](https://srl.lu.ch/data/805/de)
+[^1-3]: SRL Nr. [806](https://srl.lu.ch/data/806/de)
 
 #### § 2
 
-**Ausnahmezulassungen**
+**Dienststelle Gesundheit und Sport**
 
-<sup>1</sup> Das Gesundheits- und Sozialdepartement entscheidet über Ausnahmezulassungen nach Artikel 4 VEZL. Es hört den massgebenden kantonalen Berufsverband an.
+<sup>1</sup> Die Dienststelle Gesundheit und Sport
+
+- a. ist zuständig für Entscheide im Zusammenhang mit der Zulassung der Leistungserbringer zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung,
+- b. beaufsichtigt die zugelassenen Leistungserbringer und trifft die für die Einhaltung der Zulassungsvoraussetzungen notwendigen Massnahmen,
+- c. meldet Entscheide im Zusammenhang mit der Zulassung und von ihr angeordnete Massnahmen der mit der Führung des Registers der zugelassenen Leistungserbringer betrauten Stelle.
+
+## 2 Zulassung von Leistungserbringern
 
 #### § 3
 
-**Verweigerung der Zulassung bei hoher Versorgungsdichte**
+**Zulassungsvoraussetzungen**
 
-<sup>1</sup> Das Gesundheits- und Sozialdepartement kann die Erteilung einer Zulassung auch bei Unterschreitung der in Anhang 1 VEZL festgelegten Höchstzahl verweigern, sofern die Versorgungsdichte nach Anhang 2 VEZL im Kanton höher ist als jene in der Zentralschweiz oder höher ist als in der ganzen Schweiz.
+<sup>1</sup> Als Leistungserbringer zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung zugelassen wird, wer die geltenden Zulassungsvoraussetzungen gemäss dem Krankenversicherungsrecht des Bundes erfüllt.
 
 #### § 4
 
-**Meldung an die Versicherer**
+**Zulassungsgesuch**
 
-<sup>1</sup> Das Gesundheits- und Sozialdepartement meldet dem Zahlstellenregister der Krankenversicherer alle Erteilungen und Ablehnungen von Zulassungen.
+<sup>1</sup> Das Zulassungsgesuch ist der Dienststelle Gesundheit und Sport einzureichen.
+
+<sup>2</sup> Dem Gesuch beizufügen sind die Nachweise über das Erfüllen der Zulassungsvoraussetzungen.
 
 #### § 5
 
-**Inkrafttreten**
+**Einschränkung der Zulassung und Auflagen**
 
-<sup>1</sup> Die Verordnung tritt am 15. Juli 2013 in Kraft. Sie ist zu veröffentlichen.
+<sup>1</sup> Die Zulassung kann mit Einschränkungen fachlicher, zeitlicher oder räumlicher Art oder mit Auflagen verbunden werden, soweit dies für die Gewährleistung einer wirtschaftlichen, zweckmässigen und wirksamen sowie qualitativ hochstehenden Leistungserbringung erforderlich ist.
 
-G 2013 307
+#### § 6
+
+**Erlöschen der Zulassung**
+
+<sup>1</sup> Die Zulassung erlischt mit
+
+- a. dem Tod des Inhabers oder der Inhaberin,
+- b. dem Entzug oder
+- c. der schriftlichen Verzichtserklärung des Inhabers oder der Inhaberin.
+
+G 2021-084
