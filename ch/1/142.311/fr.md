@@ -4,11 +4,11 @@ title: "Ordonnance 1 du 11 août 1999 sur l'asile relative à la procédure (Ord
 short: OA 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: fr
-version: 2021-05-01
+version: 2022-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-1999-359-20210501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20210501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-359-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20210501/fr"
 
 (Ordonnance 1 sur l’asile, OA 1)
 
-du 11 août 1999 (Etat le 1<sup>er</sup> mai 2021)
+du 11 août 1999 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -1250,7 +1250,7 @@ Annexe 2*[^t-2]*
 
 (art. 2)
 
-## Etats d’origine ou de provenance exempts de persécutions
+## États d’origine ou de provenance exempts de persécutions
 
 [^t-2]: Introduite par le ch. II de l’O du 12 juin 2015 ([RO 2015 1873](https://fedlex.data.admin.ch/eli/oc/2015/361)). Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 205](https://fedlex.data.admin.ch/eli/oc/2021/205)).
 
@@ -1290,21 +1290,21 @@ Annexe 3*[^t-3]*
 
 ## Clé d’attribution proportionnelle à la population
 
-[^t-3]: Introduite par le ch. II de l’O du 8 juin 2018 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)). Nouvelle teneur selon le ch. I de l’O du DFJP du 28 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4937](https://fedlex.data.admin.ch/eli/oc/2020/880)).
+[^t-3]: Introduite par le ch. II de l’O du 8 juin 2018 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)). Nouvelle teneur selon le ch. I de l’O du DFJP du 29 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 676](https://fedlex.data.admin.ch/eli/oc/2021/676)).
 
 <table>
 <tr><td></td><td>En pourcentage</td><td></td><td>En pourcentage</td></tr>
-<tr><td>Argovie</td><td>8,0</td><td>Nidwald</td><td>0,5</td></tr>
+<tr><td>Argovie</td><td>8,0</td><td>Nidwalden</td><td>0,5</td></tr>
 <tr><td>Appenzell Rhodes-Extérieures</td><td>0,6</td><td>Obwald</td><td>0,4</td></tr>
 <tr><td>Appenzell Rhodes-Intérieures</td><td>0,2</td><td>Schaffhouse</td><td>1,0</td></tr>
 <tr><td>Bâle-Campagne</td><td>3,4</td><td>Schwyz</td><td>1,9</td></tr>
 <tr><td>Bâle-Ville</td><td>2,3</td><td>Soleure</td><td>3,2</td></tr>
-<tr><td>Berne</td><td>12,1</td><td>Saint-Gall</td><td>5,9</td></tr>
-<tr><td>Fribourg</td><td>3,7</td><td>Tessin</td><td>4,1</td></tr>
-<tr><td>Genève</td><td>5,9</td><td>Thurgovie</td><td>3,2</td></tr>
+<tr><td>Berne</td><td>12,0</td><td>Saint-Gall</td><td>5,9</td></tr>
+<tr><td>Fribourg</td><td>3,8</td><td>Tessin</td><td>4,0</td></tr>
+<tr><td>Genève</td><td>5,8</td><td>Thurgovie</td><td>3,3</td></tr>
 <tr><td>Glaris</td><td>0,5</td><td>Uri</td><td>0,4</td></tr>
 <tr><td>Grisons</td><td>2,3</td><td>Vaud</td><td>9,4</td></tr>
-<tr><td>Jura</td><td>0,8</td><td>Valais</td><td>4,0</td></tr>
+<tr><td>Jura</td><td>0,9</td><td>Valais</td><td>4,0</td></tr>
 <tr><td>Lucerne</td><td>4,8</td><td>Zoug</td><td>1,5</td></tr>
 <tr><td>Neuchâtel</td><td>2,0</td><td>Zurich</td><td>17,9</td></tr>
 </table>
