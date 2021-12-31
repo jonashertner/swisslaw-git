@@ -4,11 +4,11 @@ title: "Loi fédérale du 19 décembre 1997 concernant une redevance sur le traf
 short: LRPL
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/24"
 language: fr
-version: 2018-01-01
+version: 2022-01-01
 adopted: 1997-12-19
 in_force: 2000-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-24-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-24-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20180101/fr"
 
 (Loi relative à une redevance sur le trafic des poids lourds, LRPL)
 
-du 19 décembre 1997 (Etat le 1<sup>er</sup> janvier 2018)
+du 19 décembre 1997 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -148,7 +148,7 @@ Pour l’introduction de la redevance et l’adaptation des tarifs, le Conseil f
 
 #### Art. 11
 
-**Etablissement du kilométrage**
+**Établissement du kilométrage**
 
 <sup>1</sup> L’assujetti est tenu de collaborer à l’établissement du kilométrage.
 
@@ -181,7 +181,7 @@ La redevance est perçue au moins une fois par année.
 <sup>3</sup> Les décisions entrées en force concernant la créance fiscale sont assimilées à des jugements exécutoires au sens des art. 80 ss de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^14-3].
 
 [^14-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^14-2]: Nouvelle teneur selon le ch. 11 de l’annexe à la loi du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^14-2]: Nouvelle teneur selon l’annexe ch. 11 de la loi du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 [^14-3]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
 #### Art. 14a
@@ -257,7 +257,7 @@ Lors de la répartition des contributions entre les cantons conformément à l�
 - c. la population des cantons;
 - d. l’imposition des véhicules à moteur.
 
-[^19-1]: Introduit par le ch. II 3 de l’annexe à la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^19-1]: Introduit par l’annexe ch. II 3 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 [^19-2]: [RS **1** 3; RO **1999** 742]. Actuellement: art. 196 ch. 12 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 
 #### Art. 19a
@@ -266,7 +266,7 @@ Lors de la répartition des contributions entre les cantons conformément à l�
 
 Les cantons utilisent les moyens supplémentaires qui leur reviennent à la suite de l’augmentation de la redevance depuis 2008 pour l’allocation de contributions pour le maintien de la qualité des routes principales dans les régions de montagne et les régions périphériques conformément à l’art. 14 de la loi fédérale du 22 mars 1985 concernant l’utilisation de l’impôt sur les huiles minérales à affectation obligatoire et des autres moyens affectés à la circulation routière et au trafic aérien[^19a-2].
 
-[^19a-1]: Introduit par le ch. II 3 de l’annexe à la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^19a-1]: Introduit par l’annexe ch. II 3 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 [^19a-2]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
 
 ## Section 6 Dispositions pénales et voies de droit
@@ -281,12 +281,13 @@ Les cantons utilisent les moyens supplémentaires qui leur reviennent à la suit
 
 <sup>3</sup> La tentative et la complicité sont punissables.
 
-<sup>4</sup> Si un acte constitue à la fois une mise en péril ou une soustraction de la redevance et une infraction à d’autres dispositions fédérales régissant des redevances poursuivies par l’Administration des douanes ou une infraction douanière, c’est la peine applicable à l’infraction la plus grave qui est prononcée; celle-ci sera aggravée proportionnellement.
+<sup>4</sup> Si un acte constitue à la fois une mise en péril ou une soustraction de la redevance et une infraction à d’autres dispositions fédérales régissant des redevances poursuivies par l’Office fédéral de la douane et de la sécurité des frontières (OFDF) ou une infraction douanière, c’est la peine applicable à l’infraction la plus grave qui est prononcée; celle-ci est augmentée de manière appropriée.[^20-2]
 
-<sup>5</sup> Celui qui, par négligence, n’introduit pas les données relatives à sa remorque dans l’instrument de mesure de son véhicule tracteur n’est pas punissable si cet instrument fonctionne dûment.[^20-2]
+<sup>5</sup> Celui qui, par négligence, n’introduit pas les données relatives à sa remorque dans l’instrument de mesure de son véhicule tracteur n’est pas punissable si cet instrument fonctionne dûment.[^20-3]
 
 [^20-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^20-2]: Introduit par le ch. I de la LF du 5 oct. 2007 sur des mesures visant à améliorer les procédures liées à une redevance sur le trafic des poids lourds liée aux prestations, en vigueur depuis le 1<sup>er</sup> avr. 2008 ([RO 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 9029](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
+[^20-2]: Nouvelle teneur selon le ch. I 24 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^20-3]: Introduit par le ch. I de la LF du 5 oct. 2007 sur des mesures visant à améliorer les procédures liées à une redevance sur le trafic des poids lourds liée aux prestations, en vigueur depuis le 1<sup>er</sup> avr. 2008 ([RO 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 9029](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
 
 #### Art. 21
 
@@ -296,11 +297,11 @@ Les cantons utilisent les moyens supplémentaires qui leur reviennent à la suit
 
 #### Art. 22
 
-**Poursuite pénale**[^22-1]
+**Poursuite pénale par l’OFDF**[^22-1]
 
-L’Administration fédérale des douanes poursuit et juge les infractions conformément à la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^22-2].
+L’OFDF poursuit et juge les infractions conformément à la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^22-2].
 
-[^22-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 2007 sur des mesures visant à améliorer les procédures liées à une redevance sur le trafic des poids lourds liée aux prestations, en vigueur depuis le 1<sup>er</sup> avr. 2008 ([RO 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 9029](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
+[^22-1]: Nouvelle teneur selon le ch. I 24 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^22-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 23
@@ -316,7 +317,7 @@ L’Administration fédérale des douanes poursuit et juge les infractions confo
 <sup>4</sup> Au surplus, les voies de droit sont régies par les dispositions générales de la procédure fédérale*.*[^23-2]
 
 [^23-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 2007 sur des mesures visant à améliorer les procédures liées à une redevance sur le trafic des poids lourds liée aux prestations, en vigueur depuis le 1<sup>er</sup> avr. 2008 ([RO 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 9029](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
-[^23-2]: Nouvelle teneur selon le ch. 56 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^23-2]: Nouvelle teneur selon l’annexe ch. 56 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## Section 7 Dispositions finales
 

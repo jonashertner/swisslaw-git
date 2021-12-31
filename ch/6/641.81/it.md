@@ -4,18 +4,18 @@ title: "Legge federale del 19 dicembre 1997 concernente una tassa sul traffico p
 short: LTTP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/24"
 language: it
-version: 2018-01-01
+version: 2022-01-01
 adopted: 1997-12-19
 in_force: 2000-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2000-24-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2000-24-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale concernente una tassa sul traffico pesante commisurata alle prestazioni (Legge sul traffico pesante, LTTP)
 
-del 19 dicembre 1997 (Stato 1° gennaio 2018) (Stato 1° gennaio 2018)
+del 19 dicembre 1997 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -279,12 +279,13 @@ I mezzi supplementari che dal 2008 spettano ai Cantoni in seguito all’aumento 
 
 <sup>3</sup> Il tentativo e la complicità sono punibili.
 
-<sup>4</sup> Se un atto costituisce contemporaneamente una sottrazione o messa in pericolo della tassa e un’infrazione ad altre disposizioni federali sulle tasse perseguibile da parte dell’Amministrazione federale delle dogane oppure un’infrazione doganale, si applica la pena corrispondente all’infrazione più grave; la pena è adeguatamente aumentata.
+<sup>4</sup> Se un atto costituisce contemporaneamente una sottrazione o messa in pericolo della tassa e un’infrazione ad altre disposizioni federali sulle tasse perseguibile da parte dell’Ufficio federale della dogana e della sicurezza dei confini (UDSC) oppure un’infrazione doganale, si applica la pena corrispondente all’infrazione più grave; la pena è adeguatamente aumentata.[^20-2]
 
-<sup>5</sup> Il fatto di omettere per negligenza di dichiarare il rimorchio a un apparecchio di rilevazione che funziona correttamente è esente da pena.[^20-2]
+<sup>5</sup> Il fatto di omettere per negligenza di dichiarare il rimorchio a un apparecchio di rilevazione che funziona correttamente è esente da pena.[^20-3]
 
 [^20-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^20-2]: Introdotto dal n. I della LF del 5 ott. 2007 concernente misure atte a migliorare le procedure nell’ambito della tassa sul traffico pesante commisurata alle prestazioni, in vigore dal 1° apr. 2008 ([RU 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 8743](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
+[^20-2]: Nuovo testo giusta il n. I 24 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^20-3]: Introdotto dal n. I della LF del 5 ott. 2007 concernente misure atte a migliorare le procedure nell’ambito della tassa sul traffico pesante commisurata alle prestazioni, in vigore dal 1° apr. 2008 ([RU 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 8743](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
 
 #### Art. 21
 
@@ -294,11 +295,11 @@ I mezzi supplementari che dal 2008 spettano ai Cantoni in seguito all’aumento 
 
 #### Art. 22
 
-**Perseguimento penale da parte dell’Amministrazione delle dogane**[^22-1]
+**Perseguimento penale da parte dell’UDSC**[^22-1]
 
-L’Amministrazione federale delle dogane persegue e giudica le infrazioni conformemente alla legge federale del 22 marzo 1974[^22-2] sul diritto penale amministrativo.
+L’UDSC persegue e giudica le infrazioni conformemente alla legge federale del 22 marzo 1974[^22-2] sul diritto penale amministrativo..
 
-[^22-1]: Nuovo testo giusta il n. I della LF del 5 ott. 2007 concernente misure atte a migliorare le procedure nell’ambito della tassa sul traffico pesante commisurata alle prestazioni, in vigore dal 1° apr. 2008 ([RU 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 8743](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
+[^22-1]: Nuovo testo giusta il n. I 24 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^22-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 23

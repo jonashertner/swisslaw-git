@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 19. Dezember 1997 über eine leistungsabhängige Schwer
 short: SVAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/24"
 language: de
-version: 2018-01-01
+version: 2022-01-01
 adopted: 1997-12-19
 in_force: 2000-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2000-24-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2000-24-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20180101/de"
 
 (Schwerverkehrsabgabegesetz, SVAG)
 
-vom 19. Dezember 1997 (Stand am 1. Januar 2018)
+vom 19. Dezember 1997 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -283,12 +283,13 @@ Die Mittel, die den Kantonen aus der Erhöhung der Abgabe ab 2008 zusätzlich zu
 
 <sup>3</sup> Versuch und Gehilfenschaft sind strafbar.
 
-<sup>4</sup> Erfüllt eine Handlung gleichzeitig den Tatbestand einer Gefährdung oder Hinterziehung der Abgabe und einer durch die Eidgenössische Zollverwaltung zu verfolgenden Widerhandlung gegen andere Abgabenerlasse des Bundes oder einer Zollwiderhandlung, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese ist angemessen zu erhöhen.
+<sup>4</sup> Erfüllt eine Handlung gleichzeitig den Tatbestand einer Gefährdung oder Hinterziehung der Abgabe und einer durch das Bundesamt für Zoll und Grenzsicherheit (BAZG) zu verfolgenden Widerhandlung gegen andere Abgabenerlasse des Bundes oder einer Zollwiderhandlung, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese ist angemessen zu erhöhen.[^20-2]
 
-<sup>5</sup> Nicht bestraft wird, wer den Anhänger am ordnungsgemäss funktionierenden Erfassungsgerät des Zugfahrzeugs fahrlässig nicht deklariert.[^20-2]
+<sup>5</sup> Nicht bestraft wird, wer den Anhänger am ordnungsgemäss funktionierenden Erfassungsgerät des Zugfahrzeugs fahrlässig nicht deklariert.[^20-3]
 
 [^20-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^20-2]: Eingefügt durch Ziff. I des BG vom 5. Okt. 2007 über Massnahmen zur Verbesserung der Verfahren im Bereich der leistungsabhängigen Schwerverkehrsabgabe, in Kraft seit 1. April 2008 ([AS 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [BBl 2006 9539](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
+[^20-2]: Fassung gemäss Ziff. I 24 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^20-3]: Eingefügt durch Ziff. I des BG vom 5. Okt. 2007 über Massnahmen zur Verbesserung der Verfahren im Bereich der leistungsabhängigen Schwerverkehrsabgabe, in Kraft seit 1. April 2008 ([AS 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [BBl 2006 9539](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
 
 #### Art. 21
 
@@ -298,11 +299,11 @@ Die Mittel, die den Kantonen aus der Erhöhung der Abgabe ab 2008 zusätzlich zu
 
 #### Art. 22
 
-**Strafverfolgung durch die Zollverwaltung**[^22-1]
+**Strafverfolgung durch das BAZG**[^22-1]
 
-Widerhandlungen werden nach dem Bundesgesetz vom 22. März 1974[^22-2] über das Verwaltungsstrafrecht durch die Eidgenössische Zollverwaltung verfolgt und beurteilt.
+Widerhandlungen werden nach dem Bundesgesetz vom 22. März 1974[^22-2] über das Verwaltungsstrafrecht durch das BAZG verfolgt und beurteilt.
 
-[^22-1]: Fassung gemäss Ziff. I des BG vom 5. Okt. 2007 über Massnahmen zur Verbesserung der Verfahren im Bereich der leistungsabhängigen Schwerverkehrsabgabe, in Kraft seit 1. April 2008 ([AS 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [BBl 2006 9539](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
+[^22-1]: Fassung gemäss Ziff. I 24 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^22-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 23
