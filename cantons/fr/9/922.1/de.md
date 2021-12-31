@@ -4,13 +4,12 @@ number: "922.1"
 title: Gesetz über die Jagd sowie den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume
 short: JaG
 language: de
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+version_adopted: 2021-10-06
 adopted: 1996-11-14
 in_force: 1997-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/922.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6344/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6950/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Jagd – G
 
 (JaG)
 
-vom 14.11.1996 (Fassung in Kraft getreten am 01.04.2019)
+vom 14.11.1996 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -587,54 +586,40 @@ beschliesst:
 
 **Übertretungen**
 
-<sup>1</sup> Mit Busse bis zu 3000 Franken wird bestraft, wer vorsätzlich oder fahrlässig:
+<sup>1</sup> Mit Busse bis zu 3000 Franken wird bestraft, wer:
 
 - a) gegen die Bestimmungen der Artikel 9, 11, 14 und 18 dieses Gesetzes verstösst;
 - b) gegen die Bestimmungen der Ausführungsgesetzgebung verstösst.
 
 <sup>2</sup> Fällt der fragliche Sachverhalt jedoch unter die Strafbestimmungen des Bundesgesetzes, so sind diese anwendbar.
 
-<sup>3</sup> Versuch und Gehilfenschaft sind strafbar.
+<sup>2a</sup> Verstösse gegen Bestimmungen dieses Gesetzes und seiner Ausführungsbestimmungen, die gemäss kantonaler Ordnungsbussengesetzgebung mit Ordnungsbusse bestraft werden, bleiben vorbehalten.
 
-<sup>4</sup> Übertretungen, auf die das Ordnungsbussenverfahren anwendbar ist, bleiben vorbehalten.
+<sup>3</sup> Versuch und Gehilfenschaft sind strafbar; ausgenommen sind Widerhandlungen, die gemäss kantonaler Ordnungsbussengesetzgebung mit Ordnungsbusse bestraft werden.
+
+<sup>4</sup> …
 
 #### Art. 54a
 
-**Ordnungsbussen – Grundsatz**
-
-<sup>1</sup> Der Staatsrat bestimmt, in welchen Fällen geringfügige Übertretungen mit Ordnungsbussen geahndet werden können, und setzt den Pauschalbetrag dieser Bussen fest.
-
-<sup>2</sup> Der Höchstbetrag dieser Ordnungsbussen entspricht demjenigen des Ordnungsbussengesetzes des Bundes.
+**…**
 
 #### Art. 54b
 
-**Ordnungsbussen – Zusammentreffen mehrerer Übertretungen**
-
-<sup>1</sup> Werden durch eine oder mehrere Übertretungen mehrere Ordnungsbussentatbestände erfüllt, so werden die Bussen zusammengezählt, und es wird eine Gesamtbusse auferlegt.
+**…**
 
 #### Art. 54c
 
-**Ordnungsbussen – Zuständigkeit und Art der Strafe**
-
-<sup>1</sup> Das Aufsichtspersonal des Amts stellt die Übertretungen fest.
-
-<sup>2</sup> Gegebenenfalls verhängt es Ordnungsbussen mit offiziellem Formular.
+**…**
 
 #### Art. 54d
 
-**Ordnungsbussen – Bezahlung oder Anzeige**
-
-<sup>1</sup> Die Person, welche die Übertretung begangen hat, muss die Ordnungsbusse sofort oder innert 30 Tagen bezahlen.
-
-<sup>2</sup> Bei sofortiger Bezahlung wird eine Quittung ausgestellt.
-
-<sup>3</sup> Wird die Busse weder sofort noch während der folgenden 30 Tage bezahlt, so wird die Widerhandlung dem Oberamtmann angezeigt, der gemäss dem Justizgesetz entscheidet.
+**…**
 
 #### Art. 55
 
 **Verfahren**
 
-<sup>1</sup> Widerhandlungen werden nach diesem Gesetz und nach dem Justizgesetz verfolgt und beurteilt.
+<sup>1</sup> Widerhandlungen werden nach dem Justizgesetz verfolgt und beurteilt. Die Ordnungsbussengesetzgebung von Kanton und Bund bleibt vorbehalten.
 
 <sup>2</sup> Jeder Entscheid, den eine Strafbehörde in Anwendung dieses Gesetzes oder der Ausführungsbestimmungen gefällt hat, wird dem Amt mitgeteilt, sobald er vollstreckbar ist.
 

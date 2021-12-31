@@ -4,13 +4,12 @@ number: "922.1"
 title: "Loi sur la chasse et la protection des mammifères, des oiseaux sauvages et de leurs biotopes"
 short: LCha
 language: fr
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+version_adopted: 2021-10-06
 adopted: 1996-11-14
 in_force: 1997-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/922.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6344/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6950/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Chasse – L
 
 (LCha)
 
-du 14.11.1996 (version entrée en vigueur le 01.04.2019)
+du 14.11.1996 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -589,54 +588,40 @@ Décrète:
 
 **Contraventions**
 
-<sup>1</sup> Est passible d'une amende de 3000 francs au plus celui qui, intentionnellement ou par négligence, aura enfreint:
+<sup>1</sup> Est passible d'une amende de 3000 francs au plus quiconque aura enfreint:
 
 - a) les dispositions des articles 9, 11, 14 et 18 de la présente loi;
 - b) les dispositions énumérées par la réglementation d'exécution.
 
 <sup>2</sup> Toutefois, si les faits reprochés tombent sous le coup des dispositions pénales de la loi fédérale, celles-ci sont seules applicables.
 
-<sup>3</sup> La tentative et la complicité sont punissables.
+<sup>2a</sup> Les infractions aux dispositions de la présente loi et à celles de sa réglementation d'exécution que la législation cantonale sur les amendes d'ordre sanctionne par l'amende d'ordre demeurent réservées.
 
-<sup>4</sup> Les contraventions sujettes à la procédure d'amendes d'ordre demeurent réservées.
+<sup>3</sup> La tentative et la complicité sont punissables, excepté pour les infractions que la législation cantonale sur les amendes d'ordre sanctionne par l'amende d'ordre.
+
+<sup>4</sup> …
 
 #### Art. 54a
 
-**Amendes d'ordre – Principes**
-
-<sup>1</sup> Le Conseil d'Etat fixe les cas dans lesquels des contraventions de peu d'importance peuvent être sanctionnées par des amendes d'ordre et détermine le montant forfaitaire de ces amendes.
-
-<sup>2</sup> La limite supérieure du montant des amendes d'ordre correspond à celle qui est prévue par la loi fédérale sur les amendes d'ordre.
+**…**
 
 #### Art. 54b
 
-**Amendes d'ordre – Concours de plusieurs contraventions**
-
-<sup>1</sup> En cas de contraventions à une ou plusieurs dispositions réprimées par plusieurs amendes d'ordre, celles-ci sont cumulées pour constituer une amende globale.
+**…**
 
 #### Art. 54c
 
-**Amendes d'ordre – Compétence et mode de sanction**
-
-<sup>1</sup> Le personnel de surveillance du Service constate les contraventions.
-
-<sup>2</sup> Le cas échéant, il inflige les amendes d'ordre au moyen de formules officielles.
+**…**
 
 #### Art. 54d
 
-**Amendes d'ordre – Paiement ou dénonciation**
-
-<sup>1</sup> Le contrevenant peut payer l'amende d'ordre immédiatement ou dans les trente jours.
-
-<sup>2</sup> En cas de paiement immédiat, une quittance est établie.
-
-<sup>3</sup> A défaut de paiement immédiat ou dans les trente jours qui suivent, l'infraction est dénoncée au préfet, qui statue conformément à la loi sur la justice.
+**…**
 
 #### Art. 55
 
 **Procédure**
 
-<sup>1</sup> La poursuite et le jugement des infractions ont lieu conformément à la présente loi et à la loi sur la justice.
+<sup>1</sup> La poursuite et le jugement des infractions ont lieu conformément à la loi sur la justice. La législation cantonale et fédérale sur les amendes d'ordre demeure réservée.
 
 <sup>2</sup> Toute décision prise par une autorité pénale en application de la présente loi ou de ses dispositions d'exécution est communiquée au Service dès qu'elle est exécutoire.
 
