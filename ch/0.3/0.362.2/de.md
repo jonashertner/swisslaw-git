@@ -3,11 +3,11 @@ sr: "0.362.2"
 title: Abkommen vom 24. September 2004 zwischen der Schweizerischen Eidgenossenschaft und dem Europäischen Polizeiamt (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/181"
 language: de
-version: 2011-06-29
+version: 2022-01-01
 adopted: 2004-09-24
 in_force: 2006-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/181/20110629/de/xml/fedlex-data-admin-ch-eli-cc-2006-181-20110629-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/181/20110629/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/181/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2006-181-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/181/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,11 +24,11 @@ Von der Bundesversammlung genehmigt am 7. Oktober 2005[^t-1]
 
 In Kraft getreten durch Notenaustausch am 1. März 2006
 
-(Stand am 29. Juni 2011)
+(Stand am 1. Januar 2022)
 
 [^t-1]: [AS 2006 1017](https://fedlex.data.admin.ch/eli/oc/2006/180)
 
-Präambel
+*Präambel*
 
 Die Schweizerische Eidgenossenschaft,
 
@@ -384,10 +384,11 @@ Die nach innerstaatlichem Recht für die Verhütung und Bekämpfung von unter Ar
 
 - – die Polizei-, Strafverfolgungs- und Ausländerbehörden der Schweizerischen Eidgenossenschaft;
 - – die Polizei-, Strafverfolgungs- und Ausländerbehörden der Kantone;
-- – die Eidgenössische Zollverwaltung;
-- – die Verwaltungseinheiten[^annexII-lvlu1-1] des Nachrichtendienstes des Bundes (NDB), die mit den Aufgaben des ehemaligen Dienstes für Analyse und Prävention (DAP) betraut sind.
+- – die Eidgenössische Zollverwaltung[^annexII-lvlu1-1];
+- – die Verwaltungseinheiten[^annexII-lvlu1-2] des Nachrichtendienstes des Bundes (NDB), die mit den Aufgaben des ehemaligen Dienstes für Analyse und Prävention (DAP) betraut sind.
 
-[^annexII-lvlu1-1]: Beschaffung Inland (NDBB-I), Direktionsberiech Auswertung (NDBA), Direktionsbereich Steuerung und Lage (NDBS), Ausländerdienst einschliesslich OIC MELANI (NDBI).
+[^annexII-lvlu1-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^annexII-lvlu1-2]: Beschaffung Inland (NDBB-I), Direktionsberiech Auswertung (NDBA), Direktionsbereich Steuerung und Lage (NDBS), Ausländerdienst einschliesslich OIC MELANI (NDBI).
 
 Anhang III
 

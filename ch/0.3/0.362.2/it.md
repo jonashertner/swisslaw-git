@@ -3,11 +3,11 @@ sr: "0.362.2"
 title: "Accordo del 24 settembre 2004 tra la Confederazione svizzera e l'Ufficio europeo di polizia (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/181"
 language: it
-version: 2011-06-29
+version: 2022-01-01
 adopted: 2004-09-24
 in_force: 2006-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/181/20110629/it/xml/fedlex-data-admin-ch-eli-cc-2006-181-20110629-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/181/20110629/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/181/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2006-181-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/181/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,13 +18,9 @@ RU **2006** 1019; FF **2005** 859
 
 Traduzione
 
-Concluso il 24 settembre 2004
+Concluso il 24 settembre 2004 Approvato dall’Assemblea federale il 7 ottobre 2005[^t-1] Entrato in vigore con scambio di note il 1° marzo 2006
 
-Approvato dall’Assemblea federale il 7 ottobre 2005[^t-1]
-
-Entrato in vigore con scambio di note il 1° marzo 2006
-
-(Stato 29 giugno 2011)
+(Stato 1° gennaio 2022)
 
 [^t-1]: [RU 2006 1017](https://fedlex.data.admin.ch/eli/oc/2006/180)
 
@@ -378,10 +374,11 @@ Le autorità della Svizzera preposte, secondo la legislazione nazionale, alla pr
 
 - – le autorità di polizia, quelle preposte al perseguimento penale nonché le autorità competenti in materia degli stranieri della Confederazione Svizzera;
 - – le autorità di polizia, quelle preposte al perseguimento penale nonché le autorità competenti in materia degli stranieri dei Cantoni svizzeri;
-- – l’amministrazione doganale svizzera;
-- – le unità amministrative[^annexII-lvlu1-1] del Servizio delle attività informative della Confederazione (SIC) che svolgono le funzioni precedentemente assegnate al Servizio di analisi e prevenzione (SAP).
+- – l’amministrazione doganale svizzera[^annexII-lvlu1-1];
+- – le unità amministrative[^annexII-lvlu1-2] del Servizio delle attività informative della Confederazione (SIC) che svolgono le funzioni precedentemente assegnate al Servizio di analisi e prevenzione (SAP).
 
-[^annexII-lvlu1-1]: Ricerca interno (NDBB-I), Settore di direzione Analisi (NDBA), Settore di direzione Coordinazione e Situazione (NDBS), Servizio degli stranieri, compreso OIC MELANI (NDBI).
+[^annexII-lvlu1-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^annexII-lvlu1-2]: Ricerca interno (NDBB-I), Settore di direzione Analisi (NDBA), Settore di direzione Coordinazione e Situazione (NDBS), Servizio degli stranieri, compreso OIC MELANI (NDBI).
 
 Allegato III
 

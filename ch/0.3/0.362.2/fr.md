@@ -3,11 +3,11 @@ sr: "0.362.2"
 title: "Accord du 24 septembre 2004 entre la Confédération suisse et l'Office européen de police (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/181"
 language: fr
-version: 2011-06-29
+version: 2022-01-01
 adopted: 2004-09-24
 in_force: 2006-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/181/20110629/fr/xml/fedlex-data-admin-ch-eli-cc-2006-181-20110629-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/181/20110629/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/181/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-181-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/181/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,13 +18,11 @@ RO **2006** 1019; FF **2005** 895
 
 Texte original
 
-Conclu le 24 septembre 2004
-
-Approuvé par l’Assemblée fédérale le 7 octobre 2005[^t-1]
+Conclu le 24 septembre 2004 Approuvé par l’Assemblée fédérale le 7 octobre 2005[^t-1]
 
 Entré en vigueur par échange de notes le 1<sup>er</sup> mars 2006
 
-(Etat le 29 juin 2011)
+(Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: [RO 2006 1017](https://fedlex.data.admin.ch/eli/oc/2006/180)
 
@@ -57,7 +55,7 @@ Aux fins du présent Accord, on entend par:
 
 #### Art. 2
 
-Le présent Accord a pour objectif de renforcer la coopération des Etats membres de l’Union européenne, agissant par le biais d’Europol, et la Suisse dans la lutte contre toute forme sérieuse de criminalité internationale dans les domaines visés à l’art. 3 du présent Accord, notamment par l’échange d’informations tant stratégiques qu’opérationnelles et des contacts réguliers entre Europol et la Suisse à tous les niveaux adéquats.
+Le présent Accord a pour objectif de renforcer la coopération des États membres de l’Union européenne, agissant par le biais d’Europol, et la Suisse dans la lutte contre toute forme sérieuse de criminalité internationale dans les domaines visés à l’art. 3 du présent Accord, notamment par l’échange d’informations tant stratégiques qu’opérationnelles et des contacts réguliers entre Europol et la Suisse à tous les niveaux adéquats.
 
 ## Titre III Applicabilité
 
@@ -109,7 +107,7 @@ La coopération peut s’étendre – outre à l’échange d’informations op�
 
 <sup>2.</sup> Par le biais de l’Office fédéral de la police, la Suisse fournit à Europol, à sa demande, toutes les informations concernant l’organisation interne, les tâches ainsi que le régime de protection des données des autorités visées par le présent article.
 
-## Titre V Echange d’informations
+## Titre V Échange d’informations
 
 #### Art. 7
 
@@ -148,12 +146,12 @@ La coopération peut s’étendre – outre à l’échange d’informations op�
 La Suisse doit se conformer aux conditions suivantes pour toute transmission de données à caractère personnel par Europol à la Suisse:
 
 - a) après réception, la Suisse doit déterminer le plus rapidement possible si, et dans quelle mesure, les données qui ont été fournies sont nécessaires aux fins pour lesquelles elles ont été fournies;
-- b) les données ne seront pas communiquées par la Suisse à des Etats ou instances tiers;
+- b) les données ne seront pas communiquées par la Suisse à des États ou instances tiers;
 - c) les données ne seront fournies qu’à l’Office fédéral de la police;
 - d) la transmission ultérieure de données par le premier destinataire est limitée aux autorités visées à l’art. 6 et a lieu dans les mêmes conditions que celles qui sont applicables à la transmission initiale;
 - e) la fourniture ad hoc de données doit être nécessaire aux fins de prévention des infractions visées à l’art. 3 ou de la lutte contre celles-ci;
-- f) si les données ont été communiquées à Europol par un Etat membre de l’Union européenne, elles ne peuvent être transmises qu’avec l’accord de celui-ci;
-- g) toute condition relative à l’utilisation de données spécifiée par Europol doit être respectée; si les données ont été communiquées à Europol par un Etat membre de l’Union européenne et que cet Etat a fixé des conditions d’utilisation relatives à ces données, celles-ci doivent être respectées;
+- f) si les données ont été communiquées à Europol par un État membre de l’Union européenne, elles ne peuvent être transmises qu’avec l’accord de celui-ci;
+- g) toute condition relative à l’utilisation de données spécifiée par Europol doit être respectée; si les données ont été communiquées à Europol par un État membre de l’Union européenne et que cet État a fixé des conditions d’utilisation relatives à ces données, celles-ci doivent être respectées;
 - h) lorsque les données sont fournies sur demande, la demande d’informations doit préciser la finalité et le motif de la demande;
 - i) les données ne peuvent être utilisées qu’aux fins auxquelles elles ont été communiquées; cette disposition ne s’applique pas à la communication de données requises dans le cadre d’une enquête d’Europol;
 - j) les données seront rectifiées et effacées par la Suisse s’il ressort qu’elles sont incorrectes, inexactes ou qu’elles ne sont plus d’actualité ou qu’elles n’auraient pas dû être transmises;
@@ -177,7 +175,7 @@ La Suisse doit se conformer aux conditions suivantes pour toute transmission de 
 
 #### Art. 10
 
-**Evaluation de la source et des informations**
+**Évaluation de la source et des informations**
 
 <sup>1.</sup>
 
@@ -221,13 +219,13 @@ Lorsque les informations sont fournies par Europol conformément au présent Acc
 
 **Confidentialité des informations d’Europol**
 
-<sup>1.</sup> Toutes les informations traitées par Europol ou par son intermédiaire, à l’exception des informations spécifiquement marquées ou facilement identifiables comme étant accessibles au public, sont assorties d’un niveau de sécurité minimum au sein des différents organes d’Europol ainsi que dans les Etats membres. Pour les informations faisant l’objet d’un niveau de sécurité minimum seulement, il n’est pas nécessaire d’indiquer un niveau de sécurité Europol, mais elles doivent être désignées comme informations Europol.
+<sup>1.</sup> Toutes les informations traitées par Europol ou par son intermédiaire, à l’exception des informations spécifiquement marquées ou facilement identifiables comme étant accessibles au public, sont assorties d’un niveau de sécurité minimum au sein des différents organes d’Europol ainsi que dans les États membres. Pour les informations faisant l’objet d’un niveau de sécurité minimum seulement, il n’est pas nécessaire d’indiquer un niveau de sécurité Europol, mais elles doivent être désignées comme informations Europol.
 
 <sup>2.</sup> La Suisse veille à ce que le niveau de protection minimum visé au par. 1 soit assuré pour toutes les informations fournies par Europol, par toute une série de mesures conformes à la législation et à la réglementation nationales, parmi lesquelles l’obligation de réserve et de confidentialité, la restriction de l’accès aux informations aux personnes autorisées, des exigences en matière de protection des informations pour les données à caractère personnel et des mesures générales techniques et de procédure pour préserver la sécurité des informations.
 
 <sup>3.</sup> Les informations qui requièrent des mesures de sécurité supplémentaires sont assorties d’un niveau de sécurité Europol, qui est indiqué par un marquage spécial. Les informations ne sont assorties d’un tel niveau de sécurité qu’en cas de stricte nécessité et pour la durée nécessaire.
 
-<sup>4.</sup> Les niveaux de sécurité Europol sont désignés comme «niveau Europol 1 à 3» et correspondent à un ensemble de mesures de sécurité spécifiques appliquées au sein des différents organes d’Europol. Les ensembles de mesures de sécurité offrent des niveaux de protection qui diffèrent selon le contenu des informations et tiennent compte des conséquences négatives que pourraient avoir, pour les intérêts des Etats membres ou d’Europol, l’accès non autorisé aux informations, leur diffusion ou leur utilisation.
+<sup>4.</sup> Les niveaux de sécurité Europol sont désignés comme «niveau Europol 1 à 3» et correspondent à un ensemble de mesures de sécurité spécifiques appliquées au sein des différents organes d’Europol. Les ensembles de mesures de sécurité offrent des niveaux de protection qui diffèrent selon le contenu des informations et tiennent compte des conséquences négatives que pourraient avoir, pour les intérêts des États membres ou d’Europol, l’accès non autorisé aux informations, leur diffusion ou leur utilisation.
 
 <sup>5.</sup> La Suisse a pris note du règlement sur la confidentialité et de ses modalités d’exécution[^12-1] et s’engage à assurer, sur son territoire, pour toutes les informations qui lui ont été fournies par Europol marquées «niveau Europol 1 à 3», un niveau de protection équivalent à celui qui est spécifié pour ces niveaux dans le règlement sur la confidentialité et ses modalités d’exécution. Si besoin est, Europol informera la Suisse des mesures de protection associées aux niveaux de sécurité et aux ensembles de mesures de sécurité d’Europol.
 
@@ -251,7 +249,7 @@ Lorsque les informations sont fournies par Europol conformément au présent Acc
 
 <sup>5.</sup> L’Office fédéral de la police peut indiquer la période pendant laquelle le choix du niveau de sécurité est applicable et toute modification éventuelle du niveau de sécurité après cette période.
 
-<sup>6.</sup> Lorsque des informations, dont le niveau de sécurité est modifié conformément au présent article, ont été fournies à un ou plusieurs Etat(s) membre(s) de l’Union européenne, Europol, à la demande de l’Office fédéral de la police, informe les destinataires du changement du niveau de sécurité.
+<sup>6.</sup> Lorsque des informations, dont le niveau de sécurité est modifié conformément au présent article, ont été fournies à un ou plusieurs État(s) membre(s) de l’Union européenne, Europol, à la demande de l’Office fédéral de la police, informe les destinataires du changement du niveau de sécurité.
 
 ## Titre VII Officiers de liaison
 
@@ -291,9 +289,9 @@ Lorsque les informations sont fournies par Europol conformément au présent Acc
 
 <sup>1.</sup> La Suisse est responsable, conformément à sa législation nationale, de tout dommage causé à une personne résultant de données entachées d’erreurs de droit ou de fait, échangées avec Europol. La Suisse ne peut invoquer le fait qu’Europol ait transmis des données incorrectes pour se décharger de la responsabilité qui lui incombe à l’égard d’une personne lésée, conformément à sa législation nationale.
 
-<sup>2.</sup> Si ces erreurs de droit ou de fait résultent de la communication erronée de données ou d’un manquement à ses obligations de la part d’Europol, d’un Etat membre de l’Union européenne, d’un autre Etat tiers ou d’un organisme tiers, Europol doit rembourser sur demande les montants versés au titre des compensations mentionnées au par. 1 ci-dessus, sauf si ces données ont été utilisées en violation du présent Accord.
+<sup>2.</sup> Si ces erreurs de droit ou de fait résultent de la communication erronée de données ou d’un manquement à ses obligations de la part d’Europol, d’un État membre de l’Union européenne, d’un autre État tiers ou d’un organisme tiers, Europol doit rembourser sur demande les montants versés au titre des compensations mentionnées au par. 1 ci-dessus, sauf si ces données ont été utilisées en violation du présent Accord.
 
-<sup>3.</sup> Au cas où Europol est tenu de verser aux Etats membres de l’Union européenne, à un autre Etat tiers ou à un organisme tiers des montants dus à titre de compensation pour des dommages accordés à une partie lésée et que les dommages ont été causés par la Suisse en raison d’un manquement à ses obligations fixées par le présent Accord, la Suisse doit rembourser, sur demande, les montants versés par Europol à un Etat membre, à un autre Etat tiers ou à un organisme tiers pour compenser les montants versés à titre de compensation.
+<sup>3.</sup> Au cas où Europol est tenu de verser aux États membres de l’Union européenne, à un autre État tiers ou à un organisme tiers des montants dus à titre de compensation pour des dommages accordés à une partie lésée et que les dommages ont été causés par la Suisse en raison d’un manquement à ses obligations fixées par le présent Accord, la Suisse doit rembourser, sur demande, les montants versés par Europol à un État membre, à un autre État tiers ou à un organisme tiers pour compenser les montants versés à titre de compensation.
 
 <sup>4.</sup> La Suisse et Europol ne peuvent exiger l’un de l’autre le remboursement des dommages visés aux par. 2 et 3 ci-dessus si la compensation des dommages avait pour objet des dommages-intérêts punitifs, majorés ou autres formes non-compen-satoires de dommages-intérêts.
 
@@ -349,7 +347,7 @@ En ce qui concerne les formes de criminalité énumérées à l’art. 3, par. 1
 
 - – «trafic illicite de stupéfiants», les infractions telles qu’énumérées à l’art. 3, par. 1, de la convention des Nations Unies du 20 décembre 1988 sur le trafic illicite de stupéfiants et de substances psychotropes[^annexI-lvlu1-1] ainsi que dans les dispositions modifiant ou remplaçant cette convention;
 - – «criminalité liée aux matières nucléaires et radioactives», les infractions telles qu’énumérées à l’art. 7, par. 1, de la convention sur la protection physique des matières nucléaires[^annexI-lvlu1-2], signée à Vienne et à New York le 3 mars 1980, et concernant les matières nucléaires et/ou radioactives définies respectivement dans l’art. 197 du traité Euratom et dans la directive 80/836 Euratom du 15 juillet 1980;
-- – «filière d’immigration clandestine», les actions visant à faciliter délibérément, dans un but lucratif, l’entrée, le séjour ou la mise au travail sur le territoire des Etats membres de l’Union européenne et en Suisse, contrairement aux réglementations et aux conditions applicables dans leurs territoires;
+- – «filière d’immigration clandestine», les actions visant à faciliter délibérément, dans un but lucratif, l’entrée, le séjour ou la mise au travail sur le territoire des États membres de l’Union européenne et en Suisse, contrairement aux réglementations et aux conditions applicables dans leurs territoires;
 - – «traite des êtres humains», le fait de soumettre une personne au pouvoir réel et illégal d’autres personnes en usant de violences ou de menaces ou en abusant d’un rapport d’autorité ou de manœuvres en vue notamment de se livrer à l’exploitation de la prostitution d’autrui, à des formes d’exploitation et de violences sexuelles à l’égard des mineurs ou au commerce lié à l’abandon d’enfant; ces formes d’exploitation comprennent également les activités de production, de vente ou de distribution de matériel pédopornographique;
 - – «criminalité liée au trafic de véhicules volés», le vol ou le détournement d’automobiles, camions, semi-remorques, cargaisons des camions ou semi-remorques, autobus, motocyclettes, caravanes, véhicules agricoles, véhicules de chantier, et pièces détachées de véhicules ainsi que le recel de ces objets;
 - – «faux monnayage et falsification des moyens de paiement», les actes définis à l’art. 3 de la convention de Genève du 20 avril 1929 pour la répression du faux monnayage[^annexI-lvlu1-3], qui s’applique à la fois aux liquidités et à d’autres moyens de paiement;
@@ -372,10 +370,11 @@ Les autorités chargées en Suisse, en vertu du droit national, de la préventio
 
 - – les autorités de police, de poursuite pénale et des étrangers de la Confédération;
 - – les autorités de police, de poursuite pénale et des étrangers des Cantons;
-- – l’administration suisse des douanes;
-- – les unités administratives[^annexII-lvlu1-1] du Service de renseignement de la Confédération (SRC) chargées des tâches précédemment assignées au Service d’analyse et de prévention (SAP).
+- – l’administration suisse des douanes[^annexII-lvlu1-1];
+- – les unités administratives[^annexII-lvlu1-2] du Service de renseignement de la Confédération (SRC) chargées des tâches précédemment assignées au Service d’analyse et de prévention (SAP).
 
-[^annexII-lvlu1-1]: Opérations intérieures (NDBB-I), Domaine de direction Analyse (NDBA), Domaine de direction Coordination et Situation (NDBS), Service des étrangers y compris COI MELANI (NDBI).
+[^annexII-lvlu1-1]: Actuellement: Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^annexII-lvlu1-2]: Opérations intérieures (NDBB-I), Domaine de direction Analyse (NDBA), Domaine de direction Coordination et Situation (NDBS), Service des étrangers y compris COI MELANI (NDBI).
 
 Annexe III
 
