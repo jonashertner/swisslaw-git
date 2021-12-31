@@ -4,13 +4,13 @@ number: "172.311"
 title: Standeskommissionsbeschluss zur Personalverordnung
 short: StKB PeV
 language: de
-version: 2019-01-01
-corrected: 2019-01-09
-version_adopted: 2018-12-18
+version: 2022-01-01
+valid_until: 2022-03-31
+version_adopted: 2021-12-21
 adopted: 1999-04-13
 in_force: 1999-04-13
 url: "https://ai.clex.ch/app/de/texts_of_law/172.311"
-pdf: "https://ai.clex.ch/api/de/versions/1591/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/1990/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1591/pdf_file"
 
 (StKB PeV)
 
-vom 13.04.1999 (Stand 01.01.2019)
+vom 13.04.1999 (Stand 01.01.2022)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -38,6 +38,32 @@ beschliesst:
 <sup>1</sup> Die Standeskommission ist als Anstellungsbehörde Vertragspartei bei Arbeitsverträgen, soweit die kantonale Gesetzgebung keine Ausnahmen vorsieht.
 
 #### Art. 2
+
+**Kompetenzdelegation an Anstellungsorgan**
+
+<sup>1</sup> Ist gesetzlich ein anderes Organ als die Standeskommission für eine Anstellung zuständig, nimmt dieses unter Vorbehalt abweichender Regelungen in anderen Erlassen hinsichtlich der von ihm angestellten Mitarbeitenden anstelle der Standeskommission folgende Kompetenzen wahr:
+
+- a) Vornahme Ausschreibungen oder allfälliger Verzicht auf Ausschreibung;
+- b) Abschluss Arbeitsvertrag;
+- c) Genehmigung Lohn;
+- d) Abmachung Stundenlohn;
+- e) Gesundheitsprüfung;
+- f) Gewährung von bezahltem oder unbezahltem Urlaub;
+- g) Zuweisung anderer Arbeiten;
+- h) Verpflichtung zu oder Vereinbarung über Wohnsitznahme;
+- i) Bewilligung von Nebenbeschäftigungen;
+- j) Anordnungen bei Nebenbeschäftigung, öffentlichem Amt oder Amtszwang.
+
+<sup>2</sup> Für Gerichtsschreiber und Verwaltungspersonal der Gerichtskanzlei gehen die für sie geltenden gesetzlichen Abweichungen vor.
+
+<sup>3</sup> Soweit das Personalrecht des Staatspersonals für die Lehrpersonen des Gymnasiums zur Anwendung gelangt, nimmt die Landesschulkommission mit Ausnahme folgender Punkte die Personalkompetenzen der Standeskommission wahr:
+
+- a) Rechtssetzungsbefugnisse;
+- b) Erlass Stellenplan;
+- c) Festlegung Mitarbeiteranteil an Prämien der Krankentaggeldversicherung;
+- d) Einlagen in Versicherungskasse;
+- e) Abschluss von Vereinbarungen in Abweichung zum Personalrecht;
+- f) Delegation von Personalkompetenzen.
 
 #### Art. 3
 
@@ -73,9 +99,17 @@ beschliesst:
 
 <sup>4</sup> Für juristische Praktikanten mit einem Masterabschluss gelten bei Facheinsätzen auf dem Gericht, bei der Staatsanwaltschaft oder in der Verwaltung die Lohnbestimmungen für den Kanton St.Gallen. Der Anteil für das 13. Monatsgehalt ist in den festgelegten monatlichen Ansätzen enthalten.
 
+#### Art. 4b
+
+**Kursleitende Integration**
+
+<sup>1</sup> Für die Anstellung der Kursleitenden von Integrationskursen ist der Landesfähnrich zuständig.
+
+<sup>2</sup> Er informiert die Standeskommission vorgängig.
+
 #### Art. 5
 
-**Teilzeit-angestellte**
+**Teilzeitangestellte**
 
 <sup>1</sup> Teilzeitangestellte sind den Vollzeitangestellten grundsätzlich gleichgestellt.
 
@@ -88,6 +122,8 @@ beschliesst:
 <sup>1</sup> Das Personalamt stellt für die Verwaltung jährlich mindestens drei Lernende an. Die Ausbildungsplätze werden in Zusammenarbeit mit dem Ratschreiber und den Departementssekretären festgelegt.
 
 <sup>2</sup> Das Personalamt legt im Rahmen der Personalgesetzgebung Inhalt und Ablauf der Ausbildung fest.
+
+<sup>3</sup> Es ist für allfällige Auflösungen von Lehrverhältnissen zuständig.
 
 ### I.B. Stellenausschreibung
 
@@ -107,7 +143,7 @@ beschliesst:
 
 #### Art. 8
 
-**Bewerbungs-gespräche**
+**Bewerbungsgespräche**
 
 <sup>1</sup> Die Bewerbungsgespräche werden im Regelfall unter Beizug des Personalamtes durchgeführt.
 
@@ -217,97 +253,134 @@ beschliesst:
 
 <sup>1</sup> Die Stellenbeschreibungen enthalten insbesondere die Bezeichnung der vorgesetzten Stelle, die Stellvertretungsregelung sowie die Umschreibung der Hauptaufgaben, Kompetenzen und Verantwortung.
 
-## III. Funktionsbewertung
+## III. Funktionsstufen
 
 #### Art. 21
 
-**Zweck**
+**Funktionsstufen**
 
-<sup>1</sup> Die Funktionsbewertung bildet den Rahmen für die lohnmässige Einstufung.
+<sup>1</sup> Das Lohnsystem umfasst die 16 Funktionsstufen gemäss Anhang.
+
+<sup>2</sup> Jede Funktionsstufe enthält ein Lohnminimum und ein Lohnmaximum.
 
 #### Art. 22
 
-**Neubewertung**
+**Stellenzuweisung**
 
-<sup>1</sup> Neue oder wesentlich geänderte Stellen werden von der Standeskommission neu bewertet.
+<sup>1</sup> Jede Stelle wird einer Funktionsstufe zugewiesen.
 
-<sup>2</sup> Das Departement bereitet die Bewertung unter Beizug des Personalamtes vor und stellt Antrag.
+<sup>2</sup> Der Wechsel einer Stelle in eine andere Funktionsstufe setzt voraus, dass sich die Anforderungen, Aufgaben, Kompetenzen oder Verantwortungen wesentlich geändert haben.
+
+#### Art. 22a
+
+**Zuweisungsverfahren**
+
+<sup>1</sup> Die Standeskommission beschliesst über Zuweisungen und Neuzuweisungen von Stellen. Das betroffene Departement stellt Antrag, das Personalamt nimmt Stellung.
+
+<sup>2</sup> Die Zuweisung wird anhand folgender Kriterien vorgenommen:
+
+- a) verlangte Aus- oder Weiterbildung;
+- b) aufgabenbezogene Erfahrung;
+- c) Komplexität der Aufgabe;
+- d) Entscheidkompetenzen;
+- e) Budgetverantwortung;
+- f) Führungsverantwortung.
+
+<sup>3</sup> Beurteilungsgrundlage für die Sachkriterien bilden in erster Linie die Stellenbeschriebe.
 
 ## IV. Lohn
 
-### IV.A. Lohnsystem
+### IV.A. Lohnfestlegung
 
 #### Art. 23
 
-**Lohnrahmen**
+**Individuelle Lohnfestlegung**
 
-<sup>1</sup> Die Standeskommission legt für jede Funktionsstufe den minimalen und den maximalen Lohn fest.
+<sup>1</sup> Die Festlegung des Anfangslohns oder des Lohns nach einer Neueinstufung wird im Regelfall aufgrund der bestehenden Aus- und Weiterbildung, der individuellen Fähigkeiten und der aufgabenbezogenen Erfahrung vorgenommen.
 
-<sup>2</sup> Der Gesamtlohnrahmen ist zweigeteilt, einerseits in den Funktionslohnrahmen und andererseits in den Leistungslohnrahmen.
+<sup>2</sup> Weitere Kriterien wie die Marktverhältnisse oder bei Neueinstufungen das bisherige Lohnniveau sind möglich.
 
-<sup>3</sup> Der Leistungslohnrahmen ergänzt den Funktionslohnrahmen und wird durch den höchstmöglichen Lohn begrenzt.
+<sup>3</sup> Der Anfangslohn wird im Anstellungsvertrag aufgeführt.
 
-<sup>4</sup> Der Leistungslohnrahmen ist für den internen Gebrauch und ist vertraulich zu behandeln.
+<sup>4</sup> …
 
 #### Art. 24
 
-**Begriffe**
+**Abweichung**
 
-<sup>1</sup> Der Funktionslohnrahmen beinhaltet die Entlöhnung bei durchschnittlicher Leistung. Im Funktionslohn ist auch die Erfahrung berücksichtigt.
+<sup>1</sup> Das Lohnminimum einer Funktionsstufe darf unterschritten werden, wenn die Voraussetzungen für die Funktion noch nicht oder nicht vollständig erfüllt sind.
 
-<sup>2</sup> Der Leistungslohnrahmen beinhaltet die Entlöhnung für überdurchschnittliche Leistungen. Der Leistungslohn kann jährlich überprüft werden.
+<sup>2</sup> Das Lohnmaximum einer Funktionsstufe darf überschritten werden, wenn die Marktbedingungen dies verlangen.
 
-### IV.B. Lohnfestsetzung
+<sup>3</sup> Beim Ratschreiber darf das Maximum der Funktionsstufe um bis zu 20% überschritten werden.
+
+### IV.B.
 
 #### Art. 25
 
-**Lohnverein-barung bei der Anstellung**
+**Überprüfung**
 
-<sup>1</sup> Bei der Anstellung wird der Lohn aufgrund der Funktionsstufe, der Ausbildung, der Erfahrung und des Arbeitsmarktes vereinbart.
+<sup>1</sup> Der Lohn und die Stellenzuweisung zu einer Funktionsstufe werden periodisch überprüft.
 
-<sup>2</sup> Der Lohn wird vom Vorsteher des Finanzdepartementes zusammen mit dem zuständigen Departementsvorsteher festgelegt und mit der Bewerberin bzw. dem Bewerber vereinbart.
+<sup>2</sup> …
 
-<sup>3</sup> Die Standeskommission als Anstellungsbehörde genehmigt den Lohn, sofern nicht eine andere Instanz für die Anstellung als zuständig erklärt wird.
+<sup>3</sup> …
+
+### IV. B. Lohnerhöhungen
 
 #### Art. 26
 
-**Überprüfung des Lohnes**
+**Rahmen für Lohnerhöhungen**
 
-<sup>1</sup> Der Lohn wird jeweils auf den 1. Januar für das folgende Kalenderjahr überprüft.
+<sup>1</sup> Der Rahmen für die Gewährung von Lohnerhöhungen bildet der Budgetentscheid des Grossen Rates.
+
+<sup>2</sup> Die Budgetbeschlüsse des Grossen Rates beziehen sich auf Summen für generelle Lohnerhöhungen, individuelle Lohnerhöhungen oder ausserordentliche Lohnanpassungen.
 
 #### Art. 27
 
-**Lohnanpassungen beim Funktionslohn**
+**Generelle Lohnerhöhungen**
 
-<sup>1</sup> Beim bestehenden Arbeitsverhältnis sind ordentliche Anpassungen des Funktionslohnes möglich aufgrund
+<sup>1</sup> Generelle Lohnerhöhungen werden grundsätzlich allen Mitarbeitenden gewährt. Über Ausnahmen entscheidet der Departementsvorsteher.
 
-- a) der Erfahrung und deren Umsetzung
-- b) der Aus- und Weiterbildung.
+- a) …
+- b) …
 
-<sup>2</sup> Die Anpassung erfolgt aufgrund der Mitarbeiterbeurteilung, welche auch über die Erfahrung und die Aus- und Weiterbildung Auskunft gibt.
+<sup>2</sup> Generelle Lohnerhöhungen werden bei den Lohnminima und -maxima der Funktionsstufen aufgerechnet.
 
-<sup>3</sup> Bei einer Änderung der Funktionsstufe wird der Lohn neu vereinbart wie bei einer Neuanstellung.
+<sup>3</sup> …
 
 #### Art. 28
 
-**Lohnanpassungen beim Leistungslohn**
+**Individuelle Lohnerhöhungen**
 
-<sup>1</sup> Das erstmalige Gewähren sowie Lohnanpassungen im Leistungslohn erfolgen aufgrund überdurchschnittlicher Leistungen. Die Mitarbeiterbeurteilung bildet die Grundlage dazu.
+<sup>1</sup> Für individuelle Lohnerhöhungen sind in erster Linie die Leistungs- und Verhaltensbeurteilungen gemäss den Mitarbeitergesprächen massgeblich.
 
-<sup>2</sup> Die Standeskommission kann in begründeten Ausnahmefällen vom Leistungslohnrahmen abweichen.
+<sup>2</sup> Weitere Gründe für Lohnerhöhungen können sein:
+
+- a) zusätzliche oder erweiterte Aufgaben, Kompetenzen oder Verantwortung;
+- b) zusätzliche Aus- oder Weiterbildungen.
+
+<sup>3</sup> Hinsichtlich der Lohnerhöhungen begrenzend oder fördernd können sich auswirken:
+
+- a) Quervergleich mit ähnlichen Funktionen in der Verwaltung;
+- b) Stand in der Lohnentwicklung.
+
+<sup>4</sup> Keine individuelle Lohnerhöhung erhalten Mitarbeitende, deren Lohn über dem Lohnmaximum ihres Funktionsstufe liegt. Ausgenommen ist der Ratschreiber im Rahmen der zusätzlichen Bandbreite nach Art. 24 Abs. 3.
+
+<sup>5</sup> Für die Vornahme der individuellen Lohnerhöhungen sind die Departementsvorsteher verantwortlich.
 
 #### Art. 29
 
 **Ausserordentliche Lohnanpassungen**
 
-<sup>1</sup> Ausserordentliche Lohnanpassungen liegen vor, wenn sich der Gesamtlohn (Funktionslohn plus Leistungslohn) um mehr als einen jährlich von der Standeskommission festzulegenden Prozentsatz des bisherigen Lohnes verändert.
+<sup>1</sup> Ausserordentliche Lohnanpassungen sind zur Beseitigung struktureller Differenzen möglich.
 
-<sup>2</sup> Beim bestehenden Arbeitsverhältnis sind ausserordentliche Lohnanpassungen möglich aufgrund
+<sup>2</sup> Über ausserordentliche Lohnanpassungen entscheidet die Standeskommission.
 
-- a) der Leistung
-- b) der Erfahrung
-- c) der Aus- und Weiterbildung
-- d) Übernahme von zusätzlichen Aufgaben.
+- a) …
+- b) …
+- c) …
+- d) …
 
 #### Art. 30
 
@@ -319,9 +392,7 @@ beschliesst:
 
 #### Art. 31
 
-**Zuständigkeit und Verfahren bei Lohnanpassungen**
-
-<sup>1</sup> Über Lohnanpassungen und das anzuwendende Verfahren entscheidet die Standeskommission.
+**…**
 
 ### IV.C. Lohnauszahlung
 
@@ -339,9 +410,9 @@ beschliesst:
 
 <sup>1</sup> Bei Ein- oder Austritt während des Jahres sowie bei unbezahltem Urlaub wird der 13. Monatslohn pro rata temporis ausgerichtet.
 
-<sup>2</sup> Während der Lohnfortzahlung infolge Krankheit, Unfall, Schwangerschaft oder Militärdienst erfolgt keine pro-rata-Kürzung des 13. Monatslohnes.
+<sup>2</sup> Während der Lohnfortzahlung infolge Krankheit, Unfall, Schwangerschaft oder Militärdienst erfolgt keine Pro-rata-Kürzung des 13. Monatslohnes.
 
-<sup>3</sup> Bei einem Austritt während der Probezeit entfällt der Anspruch auf eine pro-rata-Zahlung des 13. Monatslohnes.
+<sup>3</sup> Bei einem Austritt während der Probezeit entfällt der Anspruch auf eine Pro-rata-Zahlung des 13. Monatslohnes.
 
 #### Art. 33a
 
@@ -475,7 +546,7 @@ beschliesst:
 
 <sup>2</sup> Die Mitarbeitenden haben keinen Anspruch, während der Arbeitszeit oder auf Kosten des Kantons eine von ihnen gewünschte Aus- oder Weiterbildung zu besuchen.
 
-<sup>3</sup> Aus dem Besuch einer Aus- oder Weiterbildung entsteht kein Anspruch auf Änderung der Funktion oder auf eine Lohnerhöhung.
+<sup>3</sup> Aus dem Besuch einer Aus- oder Weiterbildung entsteht kein Anspruch auf Änderung der Funktion, der Stellenzuweisung zu einer Funktionsstufe oder auf eine Lohnerhöhung.
 
 #### Art. 41
 
@@ -671,7 +742,7 @@ beschliesst:
 
 **Bandbreitenmodell**
 
-<sup>1</sup> Die Mitarbeitenden der Funktionsstufen 1 bis 10 können als Sollarbeitszeit 43.5 oder 44.5 Stunden pro Woche wählen. Bei der Erhöhung der wöchentlichen Sollarbeitszeit um eine Stunde erhalten die Mitarbeitenden eine Entschädigung in Form einer Barvergütung pro Kalenderjahr von 1% des Jahreslohnes; die Entschädigung beträgt bei zwei zusätzlichen Stunden zur wöchentlichen Sollarbeitszeit 2% des Jahreslohnes.
+<sup>1</sup> Die Mitarbeitenden der Funktionsstufen 1 bis 14 können als Sollarbeitszeit 43.5 oder 44.5 Stunden pro Woche wählen. Bei der Erhöhung der wöchentlichen Sollarbeitszeit um eine Stunde erhalten die Mitarbeitenden eine Entschädigung in Form einer Barvergütung pro Kalenderjahr von 1% des Jahreslohns; die Entschädigung beträgt bei zwei zusätzlichen Stunden zur wöchentlichen Sollarbeitszeit 2% des Jahreslohns.
 
 <sup>2</sup> Das gewählte Modell ist bis Ende März für das folgende Jahr festzulegen und kann während des Jahres nicht abgeändert werden.
 
@@ -683,11 +754,11 @@ beschliesst:
 
 <sup>1</sup> Mitarbeitende mit Vertrauensarbeitszeit sind von der Erfassung der Arbeitszeit befreit. Sie können Überstunden und Gleitzeit weder generieren noch kompensieren.
 
-<sup>2</sup> Mitarbeitende der Funktionsstufen 11 und 12 haben Vertrauensarbeitszeit.
+<sup>2</sup> Mitarbeitende der Funktionsstufen 15 und 16 haben Vertrauensarbeitszeit.
 
 <sup>3</sup> Amtsleiter können jährlich bis Ende März für das folgende Jahr Vertrauensarbeitszeit wählen. Der Departementsvorsteher bewilligt die Vertrauensarbeitszeit im Einzelfall, es besteht kein Anspruch auf eine Bewilligung. Die Vertrauensarbeitszeit ist während eines Kalenderjahres beizubehalten. Wird das Modell der Vertrauensarbeit gewählt, steht das Bandbreitenmodell nicht zur Verfügung.
 
-<sup>4</sup> Anstelle der Kompensationsmöglichkeit für Überstunden und Gleitzeit kann Mitarbeitenden mit Vertrauensarbeitszeit, ausser solchen der Funktionsstufen 11 und 12, eine Entschädigung in Form einer jährlichen Barvergütung von 3% des Jahreslohnes entrichtet werden. Die Standeskommission entscheidet im Einzelfall über die Entschädigung.
+<sup>4</sup> Anstelle der Kompensationsmöglichkeit für Überstunden und Gleitzeit kann Mitarbeitenden mit Vertrauensarbeitszeit, ausser solchen der Funktionsstufen 15 und 16, eine Entschädigung in Form einer jährlichen Barvergütung von 3% des Jahreslohns entrichtet werden.
 
 #### Art. 55
 
@@ -803,9 +874,9 @@ beschliesst:
 
 <sup>1</sup> Es können höchstens folgende Zeitguthaben auf das nächste Jahr übertragen werden:
 
-- a) Mitarbeitende der Funktionsstufen 1 bis 3 höchstens 25 Stunden,
-- b) Mitarbeitende der Funktionsstufen 4 bis 6 höchstens 50 Stunden und
-- c) Mitarbeitende ab der Funktionsstufe 7 höchstens 75 Stunden.
+- a) Mitarbeitende der Funktionsstufen 1 bis 5 höchstens 25 Stunden,
+- b) Mitarbeitende der Funktionsstufen 6 bis 8 höchstens 50 Stunden und
+- c) Mitarbeitende ab der Funktionsstufe 9 höchstens 75 Stunden.
 
 <sup>2</sup> Die Departementsvorsteher können für Ämter oder Dienststellen mit saisonalen Schwankungen im Arbeitsanfall für die Übertragung einen anderen Zeitpunkt als den Anfang eines Kalenderjahres festlegen.
 
@@ -896,6 +967,18 @@ beschliesst:
 <sup>1</sup> Die Mitarbeitenden erhalten die Treueprämien noch bis Ende 2018 nach der bisherigen Regelung von Art. 33d Abs. 1.
 
 <sup>2</sup> Die Standeskommission kann für Mitarbeitende ausnahmsweise einen Plan zum Abbau von Überstunden und Zeitguthaben gemäss ausgewiesenem Saldo per Ende 2016 bewilligen. Der Plan darf jeweils höchstens den Zeitraum bis Ende 2019 umfassen.
+
+#### Art. 73a
+
+**Übergang Besoldungsrevision**
+
+<sup>1</sup> Im Rahmen der Besoldungsrevision vom 3. November 2020 werden die Stellen unter Beibehaltung der bisherigen Löhne in die Struktur mit 16 Funktionsstufen überführt. Vorbehalten bleiben allfällige Lohnerhöhungen für das Jahr 2021.
+
+<sup>2</sup> Mitarbeitende, die mit der Zuweisung ihrer Stelle nicht einverstanden sind, können beim Departementsvorsteher ein begründetes Wiedererwägungsgesuch stellen. Der Departementsvorsteher holt eine schriftliche Stellungnahme des Personalamts ein und bespricht die Sache im Bedarfsfall mit dem Gesuchsteller. Der Departementsvorsteher stellt der Standeskommission Antrag.
+
+<sup>3</sup> Mitarbeitende, deren Löhne über dem Maximum der jeweiligen Funktionsstufe liegen, geniessen eine Besitzstandswahrung.
+
+<sup>4</sup> Löhne, die unter dem Minimum der jeweiligen Funktionsstufe liegen, werden auf das Minimum angehoben, ausser die Voraussetzungen für die Funktion sind noch nicht oder nicht vollständig erfüllt.
 
 #### Art. 74
 
