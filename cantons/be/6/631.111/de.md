@@ -4,13 +4,13 @@ number: "631.111"
 title: Verordnung über den Finanz- und Lastenausgleich
 short: FILAV
 language: de
-version: 2021-05-01
-valid_until: 2021-12-31
-version_adopted: 2021-03-10
+version: 2022-01-01
+valid_until: 2023-02-28
+version_adopted: 2021-11-10
 adopted: 2001-08-22
 in_force: 2001-10-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/631.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2255/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2478/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2255/pdf_file"
 
 (FILAV)
 
-vom 22.08.2001 (Stand 01.05.2021)
+vom 22.08.2001 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -230,11 +230,11 @@ beschliesst:
 
 <sup>1</sup> Die Aufwendungen nach Artikel 24 Absatz 4 FILAG werden nach Massgabe der Schülerzahlen auf die Gemeinden verteilt. Kinder, die eine Privatschule besuchen, werden nicht berücksichtigt.
 
-<sup>2</sup> Die Verteilung erfolgt für alle Schulstufen gesondert nach den Aufwendungen für den Regelunterricht und nach den Aufwendungen für die besonderen Massnahmen.
+<sup>2</sup> Die Verteilung erfolgt für alle Schulstufen gesondert nach den Aufwendungen für den Regelschulunterricht und nach den Aufwendungen für die einfachen sonderpädagogischen und unterstützenden Massnahmen.
 
-<sup>3</sup> 50 Prozent der Aufwendungen für den Regelunterricht werden nach der mit dem Schullastenindex gewichteten Schülerzahl, die übrigen Aufwendungen nach der ungewichteten Schülerzahl verteilt.
+<sup>3</sup> 50 Prozent der Aufwendungen für den Regelschulunterricht werden nach der mit dem Schullastenindex gewichteten Schülerzahl, die übrigen Aufwendungen nach der ungewichteten Schülerzahl verteilt.
 
-<sup>4</sup> 75 Prozent der Aufwendungen für die besonderen Massnahmen werden nach der mit dem Schulsozialindex gewichteten Schülerzahl, die übrigen Aufwendungen nach der ungewichteten Schülerzahl verteilt.
+<sup>4</sup> 75 Prozent der Aufwendungen für die einfachen sonderpädagogischen und unterstützenden Massnahmen werden nach der mit dem Schulsozialindex gewichteten Schülerzahl, die übrigen Aufwendungen nach der ungewichteten Schülerzahl verteilt.
 
 <sup>5</sup> Die Berechnung erfolgt gemäss der im Anhang wiedergegebenen Formel D.
 
@@ -256,9 +256,9 @@ beschliesst:
 
 **3. Schulsozialindex**
 
-<sup>1</sup> Der Schulsozialindex entspricht demjenigen nach Anhang 3 der Verordnung vom 19. September 2007 über die besonderen Massnahmen im Kindergarten und in der Volksschule (BMV[^17c-1]).
+<sup>1</sup> Der Schulsozialindex entspricht demjenigen nach Anhang 3 der Verordnung vom 19. September 2007 über die einfachen sonderpädagogischen und unterstützenden Massnahmen im Regelschulangebot (VMR)[^17c-1].
 
-[^17c-1]: BSG 432.271.1
+[^17c-1]: BSG [432.271.1](https://www.belex.sites.be.ch/data/432.271.1/de)
 
 #### Art. 17d
 

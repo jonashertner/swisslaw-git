@@ -4,13 +4,13 @@ number: "631.111"
 title: Ordonnance sur la péréquation financière et la compensation des charges
 short: OPFC
 language: fr
-version: 2021-05-01
-valid_until: 2021-12-31
-version_adopted: 2021-03-10
+version: 2022-01-01
+valid_until: 2023-02-28
+version_adopted: 2021-11-10
 adopted: 2001-08-22
 in_force: 2001-10-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/631.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2255/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2478/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2255/pdf_file"
 
 (OPFC)
 
-du 22.08.2001 (état au 01.05.2021)
+du 22.08.2001 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -230,11 +230,11 @@ arrête:
 
 <sup>1</sup> Les coûts visés à l’article 24, alinéa 4 LPFC sont répartis entre les communes en fonction du nombre d’élèves. Les enfants fréquentant un établissement privé ne sont pas pris en compte.
 
-<sup>2</sup> La répartition s’effectue pour chaque degré scolaire en distinguant les coûts de l’enseignement régulier et les coûts des mesures pédagogiques particulières.
+<sup>2</sup> La répartition s’effectue pour chaque degré scolaire en distinguant les coûts de l’enseignement ordinaire et les coûts des mesures de pédagogie spécialisée ordinaires et des mesures de soutien.
 
-<sup>3</sup> 50 pour cent des coûts afférents à l’enseignement régulier sont répartis en fonction du nombre d’élèves pondéré selon l’indice géo-démographique et le solde en fonction du nombre d’élèves non pondéré.
+<sup>3</sup> 50 pour cent des coûts afférents à l’enseignement ordinaire sont répartis en fonction du nombre d’élèves pondéré selon l’indice géo-démographique et le solde en fonction du nombre d’élèves non pondéré.
 
-<sup>4</sup> 75 pour cent des coûts afférents aux mesures pédagogiques particulières sont répartis en fonction du nombre d’élèves pondéré selon l’indice social scolaire et le solde en fonction du nombre d’élèves non pondéré.
+<sup>4</sup> 75 pour cent des coûts afférents aux mesures de pédagogie spécialisée ordinaires et aux mesures de soutien sont répartis en fonction du nombre d’élèves pondéré selon l’indice social scolaire et le solde en fonction du nombre d’élèves non pondéré.
 
 <sup>5</sup> Le calcul est réalisé selon la formule D présentée en annexe.
 
@@ -256,9 +256,9 @@ arrête:
 
 **c Indice social scolaire**
 
-<sup>1</sup> L’indice social scolaire correspond à celui défini à l’annexe 3 de l’ordonnance du 19 septembre 2007 régissant les mesures pédagogiques particulières à l’école enfantine et à l’école obligatoire (OMPP)[^17c-1].
+<sup>1</sup> L’indice social scolaire correspond à celui défini à l’annexe 3 de l’ordonnance du 19 septembre 2007 régissant les mesures de pédagogie spécialisée ordinaires et les mesures de soutien relevant de l’offre ordinaire de l’école obligatoire (OMO)[^17c-1].
 
-[^17c-1]: RSB 432.271.1
+[^17c-1]: RSB [432.271.1](https://www.belex.sites.be.ch/data/432.271.1/fr)
 
 #### Art. 17d
 
