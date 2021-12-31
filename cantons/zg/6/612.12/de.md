@@ -4,13 +4,12 @@ number: "612.12"
 title: Verordnung zur Bewilligung des Kredits für die kantonale Verwaltung und die Gerichte zur Bewältigung der Auswirkungen des Coronavirus
 short: COVID-19-Kreditverordnung
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2021-01-12
+version: 2022-01-01
+version_adopted: 2022-01-11
 adopted: 2020-04-07
 in_force: 2020-03-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/612.12"
-pdf: "https://bgs.zg.ch/api/de/versions/2205/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2303/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2205/pdf_file"
 
 (COVID-19-Kreditverordnung)
 
-Vom 7. April 2020 (Stand 1. Januar 2021)
+Vom 7. April 2020 (Stand 1. Januar 2022)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -44,13 +43,15 @@ beschliesst:
 
 <sup>2</sup> Im Budget 2021 stellt er dafür maximal 2,5 Millionen Franken zur Verfügung.
 
+<sup>3</sup> Im Budget 2022 stellt er dafür maximal 2,5 Millionen Franken zur Verfügung.
+
 #### § 3
 
 **Verwendung des Kredits**
 
 <sup>1</sup> Die vom Regierungsrat zusätzlich zur Verfügung gestellten Mittel sind primär für die Deckung des Sachaufwands vorgesehen.
 
-<sup>2</sup> Der zusätzlich anfallende Personalaufwand wird in den ordentlichen Rechnungen 2020 und 2021 der Dienststellen verbucht. Wesentliche Abweichungen gegenüber den Budgets sind zu kommentieren.
+<sup>2</sup> Der zusätzlich anfallende Personalaufwand wird in den ordentlichen Rechnungen 2020, 2021 und 2022 der Dienststellen verbucht. Wesentliche Abweichungen gegenüber den Budgets sind zu kommentieren.
 
 #### § 4
 
@@ -67,6 +68,6 @@ beschliesst:
 
 **Geltungsdauer**
 
-<sup>1</sup> Diese Verordnung gilt bis am 31. Dezember 2021.
+<sup>1</sup> Diese Verordnung gilt bis am 31. Dezember 2022.
 
 GS 2020/013
