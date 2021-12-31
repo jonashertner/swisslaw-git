@@ -4,13 +4,13 @@ number: "210.300"
 title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: EG ZGB
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-11-19
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-03-23
 adopted: 2017-06-27
 in_force: 2018-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/210.300"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2795/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3049/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2795/pdf_file"
 
 (EG ZGB)
 
-Vom 27.06.2017 (Stand 01.01.2020)
+Vom 27.06.2017 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -68,6 +68,26 @@ beschliesst:
 <sup>1</sup> Die Polizei ist für die sofortige Ausweisung aus der gemeinsamen Wohnung zuständig (Art. 28b Abs. 4 ZGB).
 
 <sup>2</sup> Das Verfahren richtet sich nach den Bestimmungen des kantonalen Polizeirechts über die Wegweisung und Fernhaltung.
+
+#### § 4a
+
+**Elektronische Überwachung**
+
+<sup>1</sup> Das Amt für Justizvollzug ist für den Vollzug einer gerichtlich angeordneten elektronischen Überwachung zuständig (Art. 28c Abs. 1 ZGB).
+
+<sup>2</sup> Vor Anordnung der elektronischen Überwachung prüft das zuständige Gericht zusammen mit dem Amt für Justizvollzug deren Vollziehbarkeit. Den als vollstreckbar erklärten Anordnungsentscheid stellt es dem Amt für Justizvollzug umgehend zu.
+
+<sup>3</sup> Das Amt für Justizvollzug kann für die Prüfung der Vollziehbarkeit sowie für die Einrichtung und den Unterhalt der elektronischen Überwachung die Polizei beiziehen.
+
+<sup>4</sup> Das Amt für Justizvollzug teilt der zuständigen Staatsanwaltschaft festgestellte Verstösse gegen die angeordneten Verbote gemäss Art. 28b ZGB beziehungsweise gegen die angeordnete Überwachungsmassnahme umgehend mit, sofern die Strafandrohung gemäss Art. 292 des Schweizerischen Strafgesetzbuchs (StGB) vom 21. Dezember 1937[^4a-1] ausgesprochen wurde.
+
+<sup>5</sup> Das Amt für Justizvollzug erstattet dem die elektronische Überwachung anordnenden Gericht einen Monat vor Ablauf der angeordneten Überwachungsmassnahme Bericht über die Mitwirkung und die Einhaltung der Vollzugsregeln durch die überwachte Person.
+
+<sup>6</sup> Die aufgezeichneten Daten über die beteiligten Personen dürfen nur zur Durchsetzung der angeordneten Verbote gemäss Art. 28b ZGB verwendet werden. Das Amt für Justizvollzug stellt sicher, dass die Daten spätestens zwölf Monate nach Abschluss der angeordneten Überwachungsmassnahme gelöscht werden.
+
+<sup>7</sup> Der Regierungsrat regelt die Höhe der gemäss gerichtlichen Auflage von der überwachten Person zu tragenden Kosten durch Verordnung.
+
+[^4a-1]: SR [311](https://db.clex.ch/link/Bund/311/de)
 
 #### § 5
 
@@ -252,7 +272,7 @@ beschliesst:
 - n) Auskunftsbegehren (Art. 451 Abs. 2 ZGB),
 - o) Vollstreckungen (Art. 450g ZGB),
 - p) Antragstellung auf Anordnung eines Erbschaftsinventars (Art. 553 ZGB),
-- q) Erhebung des Strafantrags (Art. 30 Abs. 2 des Schweizerischen Strafgesetzbuchs [StGB] vom 21. Dezember 1937[^24-2]).
+- q) Erhebung des Strafantrags (Art. 30 Abs. 2 StGB).
 
 <sup>2</sup> In die Einzelzuständigkeit der Bezirksgerichtspräsidentin oder des Bezirksgerichtspräsidenten fallen zudem folgende Geschäfte des Kindesschutzes:
 
@@ -269,7 +289,7 @@ beschliesst:
 - k) Entgegennahme des Kindesvermögensinventars nach Tod eines Elternteils (Art. 318 Abs. 2 ZGB),
 - l) Bewilligung zur Anzehrung des Kindesvermögens (Art. 320 Abs. 2 ZGB),
 - m) Anordnung einer Vertretungsbeistandschaft für das ungeborene Kind zur Wahrung erbrechtlicher Ansprüche (Art. 544 Abs. 1<sup>bis</sup> ZGB),
-- n) Regelung über die Anrechnung der Erziehungsgutschriften (Art. 52f<sup>bis</sup> der Verordnung über die Alters- und Hinterlassenenversicherung [AHVV] vom 31. Oktober 1947[^24-3]).
+- n) Regelung über die Anrechnung der Erziehungsgutschriften (Art. 52f<sup>bis</sup> der Verordnung über die Alters- und Hinterlassenenversicherung [AHVV] vom 31. Oktober 1947[^24-2]).
 
 <sup>3</sup> In die Einzelzuständigkeit der Bezirksgerichtspräsidentin oder des Bezirksgerichtspräsidenten fallen zudem folgende Geschäfte des Erwachsenenschutzes:
 
@@ -283,8 +303,7 @@ beschliesst:
 <sup>4</sup> Angelegenheiten gemäss den Absätzen 1–3 können durch die Kindes- und Erwachsenenschutzbehörde als Kollegium entschieden werden, wenn prozessökonomische Gründe oder die Wichtigkeit beziehungsweise Komplexität der rechtlichen oder tatbeständlichen Verhältnisse dies verlangen.
 
 [^24-1]: SR [211.223.11](https://db.clex.ch/link/Bund/211.223.11/de)
-[^24-2]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
-[^24-3]: SR [831.101](https://db.clex.ch/link/Bund/831.101/de)
+[^24-2]: SR [831.101](https://db.clex.ch/link/Bund/831.101/de)
 
 #### § 25
 
@@ -342,7 +361,7 @@ beschliesst:
 - a) Gemeinden,
 - b) Drittpersonen mit Auftrag zu Sachverhaltsabklärungen,
 - c) Beiständinnen und Beiständen,
-- d) Schulleitungen, Schulpflegen, Lehrpersonen und Schulsozialarbeitenden,
+- d) Schulleitungen, Lehrpersonen und Schulsozialarbeitenden,
 - e) Beratungsstellen für Kinder, Jugendliche und Erwachsene,
 - f) Betreuungs- und Klinikeinrichtungen sowie Fachleuten des Gesundheitswesens,
 - g) Betreibungs- und Konkursämtern,
@@ -1028,9 +1047,9 @@ beschliesst:
 
 **Handelsregisteramt**
 
-<sup>1</sup> Das Handelsregisteramt des Kantons Aargau führt das Handelsregister (Art. 927 OR).
+<sup>1</sup> Das Handelsregisteramt des Kantons Aargau führt das Handelsregister (Art. 928 OR).
 
-<sup>2</sup> Das zuständige Departement ist die kantonale Aufsichtsbehörde über das Handelsregisteramt (Art. 927 Abs. 3 OR).
+<sup>2</sup> …
 
 #### § 104
 
