@@ -3,27 +3,28 @@ sr: "672.959.81"
 title: Ordinanza del 19 ottobre 2005 concernente la convenzione svizzero-norvegese di doppia imposizione
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/662"
 language: it
-version: 2007-01-01
+version: 2022-01-01
 adopted: 2005-10-19
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/662/20070101/it/xml/fedlex-data-admin-ch-eli-cc-2005-662-20070101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/662/20070101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/662/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2005-662-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/662/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la convenzione svizzero-norvegese di doppia imposizione
 
-del 19 ottobre 2005 (Stato 1° gennaio 2007)
+del 19 ottobre 2005 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero
 
-visto il decretofederale 22 giugno 1951[^ingress-1] concernente l’esecuzione delle convenzioni internazionali conchiuse dalla Confederazione per evitare i casi di doppia imposizione; in esecuzione della Convenzione del 7 settembre 1987[^ingress-2] tra la Confederazione Svizzera e il Regno di Norvegia intesa a evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio (Convenzione),
+visto l’articolo 35 capoverso 1 della legge federale del 18 giugno 2021[^ingress-1] concernente l’esecuzione delle convenzioni internazionali in ambito fiscale; in esecuzione della Convenzione del 7 settembre 1987[^ingress-2] tra la Confederazione Svizzera e il Regno di Norvegia per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio (Convenzione),[^ingress-3]
 
 ordina:
 
-[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
-[^ingress-2]: [RS 0.672.959.81](https://fedlex.data.admin.ch/eli/cc/1989/1356_1356_1356)
+[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8245)
+[^ingress-2]: [RS 0.672.959.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2645)
+[^ingress-3]: Nuovo testo giusta il n. II 13 dell’O del 10 nov. 2021 concernente l’adeguamento del diritto federale nell’ambito dell’esecuzione delle convenzioni internazionali in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 ## Sezione 1: Scambio di informazioni generale
 
@@ -91,7 +92,7 @@ ordina:
 
 <sup>2</sup> L’esecuzione della perquisizione è disciplinata dall’articolo 49 della legge federale del 22 marzo 1974[^6-1] sul diritto penale amministrativo.
 
-[^6-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^6-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 7
 
@@ -145,19 +146,19 @@ ordina:
 
 A partire dall’entrata in vigore della legge del 17 giugno 2005[^11-subdivu1-1] sul Tribunale amministrativo federale gli articoli 1 capoverso 3 e 10 capoversi 1, 3 e 4 hanno il tenore seguente:
 
-[^11-subdivu1-1]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352). In vigore dal 1° gen. 2007.
+[^11-subdivu1-1]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621). In vigore dal 1° gen. 2007.
 
-### Art. 1cpv 3**
+### Art. 1cpv 3
 
 [^11-subdivu2-1]
 
 [^11-subdivu2-1]: Questa disposizione ha attualmente un nuovo tenore.
 
-...
+…
 
 ### Art. 10 cpv. 1, 3 e 4
 
-...[^11-subdivu3-1]
+…[^11-subdivu3-1]
 
 <sup>4</sup> *Abrogato*
 

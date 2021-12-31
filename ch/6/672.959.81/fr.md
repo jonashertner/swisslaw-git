@@ -3,29 +3,30 @@ sr: "672.959.81"
 title: Ordonnance du 19 octobre 2005 relative à la convention de double imposition conclue entre la Suisse et la Norvège
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/662"
 language: fr
-version: 2007-01-01
+version: 2022-01-01
 adopted: 2005-10-19
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/662/20070101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-662-20070101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/662/20070101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/662/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-662-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/662/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance relative à la convention de double imposition conclue entre la Suisse et la Norvège
 
-du 19 octobre 2005 (Etat le 1<sup>er</sup> janvier 2007)
+du 19 octobre 2005 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
-vu l’arrêté fédéral du 22 juin 1951 concernant l’exécution des conventions internationales conclues par la Confédération en vue d’éviter les doubles impositions[^ingress-1], en application de la Convention du 7 septembre 1987 entre la Confédération suisse et le Royaume de Norvège en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune (Convention)[^ingress-2],
+vu l’art. 35, al. 1, de la loi fédérale du 18 juin 2021 relative à l’exécution des conventions internationales dans le domaine fiscal[^ingress-1], en application de la Convention du 7 septembre 1987 entre la Confédération suisse et le Royaume de Norvège en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune (Convention)[^ingress-2],[^ingress-3]
 
 arrête:
 
-[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
-[^ingress-2]: [RS 0.672.959.81](https://fedlex.data.admin.ch/eli/cc/1989/1356_1356_1356)
+[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8245)
+[^ingress-2]: [RS 0.672.959.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2645)
+[^ingress-3]: Nouvelle teneur selon le ch. II 13 de l’O du 10 nov. 2021 modifiant le droit fédéral dans le domaine de l’exécution des conventions internationales dans le domaine fiscal, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
-## Section 1 Echange de renseignements en général
+## Section 1 Échange de renseignements en général
 
 #### Art. 1
 
@@ -37,7 +38,7 @@ arrête:
 
 [^1-1]: Nouvelle teneur selon le ch. II 55 de l’O du 8 nov. 2006 portant adaptation d’O du CF à la révision totale de la procédure fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
-## Section 2 Echange de renseignements en cas de fraude fiscale
+## Section 2 Échange de renseignements en cas de fraude fiscale
 
 #### Art. 2
 
@@ -91,7 +92,7 @@ arrête:
 
 <sup>2</sup> La perquisition est régie par l’art. 49 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^6-1].
 
-[^6-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^6-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 7
 
@@ -145,19 +146,19 @@ arrête:
 
 Dès l’entrée en vigueur de la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^11-subdivu1-1], les art. 1, al. 3, et 10, al. 1, 3 et 4, sont modifiés comme suit:
 
-[^11-subdivu1-1]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352). En vigueur depuis le 1<sup>er</sup> janv. 2007.
+[^11-subdivu1-1]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621). En vigueur depuis le 1<sup>er</sup> janv. 2007.
 
-### Art. 1, al. 3**
+### Art. 1, al. 3
 
 [^11-subdivu2-1]
 
 [^11-subdivu2-1]: Cette disp. a actuellement une nouvelle teneur.
 
-...
+…
 
 ### Art. 10, al. 1, 3 et 4
 
-... [^11-subdivu3-1]
+…[^11-subdivu3-1]
 
 <sup>4</sup> *Abrogé*
 

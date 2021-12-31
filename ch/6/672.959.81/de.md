@@ -3,27 +3,28 @@ sr: "672.959.81"
 title: Verordnung vom 19. Oktober 2005 zum schweizerisch-norwegischen Doppelbesteuerungsabkommen
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/662"
 language: de
-version: 2007-01-01
+version: 2022-01-01
 adopted: 2005-10-19
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/662/20070101/de/xml/fedlex-data-admin-ch-eli-cc-2005-662-20070101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/662/20070101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/662/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2005-662-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/662/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung zum schweizerisch-norwegischen Doppelbesteuerungsabkommen
 
-vom 19. Oktober 2005 (Stand am 1. Januar 2007)
+vom 19. Oktober 2005 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf den Bundesbeschluss vom 22. Juni 1951[^ingress-1] über die Durchführung von zwischenstaatlichen Abkommen des Bundes zur Vermeidung der Doppelbesteuerung, in Ausführung des Abkommens vom 7. September 1987[^ingress-2] zwischen der Schweizerischen Eidgenossenschaft und dem Königreich Norwegen zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen (Abkommen),
+gestützt auf Artikel 35 Absatz 1 des Bundesgesetzes vom 18. Juni 2021[^ingress-1] über die Durchführung von internationalen Abkommen im Steuerbereich, in Ausführung des Abkommens vom 7. September 1987[^ingress-2] zwischen der Schweizerischen Eidgenossenschaft und dem Königreich Norwegen zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen (Abkommen),[^ingress-3]
 
 verordnet:
 
-[^ingress-1]: [SR 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
-[^ingress-2]: [SR 0.672.959.81](https://fedlex.data.admin.ch/eli/cc/1989/1356_1356_1356)
+[^ingress-1]: [SR 672.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8245)
+[^ingress-2]: [SR 0.672.959.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2645)
+[^ingress-3]: Fassung gemäss Ziff. II 13 der V vom 10. Nov. 2021 über Anpassungen des Bundesrechts im Bereich der Durchführung von internationalen Abkommen im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 ## 1. Abschnitt: Allgemeiner Informationsaustausch
 
@@ -91,7 +92,7 @@ verordnet:
 
 <sup>2</sup> Die Durchführung richtet sich nach Artikel 49 des Bundesgesetzes vom 22. März 1974[^6-1] über das Verwaltungsstrafrecht.
 
-[^6-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^6-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 7
 
@@ -135,7 +136,7 @@ verordnet:
 
 <sup>3</sup> Jede der Schlussverfügung vorangehende Verfügung, einschliesslich einer Verfügung über Zwangsmassnahmen, ist sofort vollstreckbar und kann nur zusammen mit der Schlussverfügung angefochten werden.
 
-<sup>4</sup> ...
+<sup>4</sup> …
 
 ## 3. Abschnitt: Schlussbestimmungen
 
@@ -143,25 +144,9 @@ verordnet:
 
 **Koordination mit dem Verwaltungsgerichtsgesetz**
 
-Ab Inkrafttreten des Verwaltungsgerichtsgesetzes vom 17. Juni 2005[^11-subdivu1-1] lauten die Artikel 1 Absatz 3 und 10 Absätze 1, 3 und 4 wie folgt:
+…[^11-1]
 
-[^11-subdivu1-1]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352). In Kraft seit 1. Jan. 2007.
-
-### Art. 1 Abs. 3**
-
-[^11-subdivu2-1]
-
-[^11-subdivu2-1]: Diese Bestimmung hat heute eine neue Fassung.
-
-...
-
-### Art. 10 Abs. 1, 3 und 4
-
-... [^11-subdivu3-1]
-
-<sup>4</sup> *Aufgehoben*
-
-[^11-subdivu3-1]: Die hiernach aufgeführten Änd. sind eingefügt in der vorliegenden V.
+[^11-1]: Die Koordinationsbestimmungen können unter [AS 2005 4915](https://fedlex.data.admin.ch/eli/oc/2005/662)konsultiert werden.
 
 #### Art. 12
 
