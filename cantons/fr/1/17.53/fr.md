@@ -4,13 +4,13 @@ number: "17.53"
 title: "Règlement du Tribunal cantonal sur l'information du public en matière judiciaire"
 short: RTCInf
 language: fr
-version: 2018-03-01
-valid_until: 2021-12-31
-version_adopted: 2018-02-07
+version: 2022-01-01
+valid_until: 2025-12-31
+version_adopted: 2021-11-18
 adopted: 2025-11-13
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/17.53"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6240/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7463/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Information du public en matière judiciaire – R
 
 (RTCInf)
 
-du 21.06.2012 (version entrée en vigueur le 01.03.2018)
+du 21.06.2012 (version entrée en vigueur le 01.01.2022)
 
 Le Tribunal cantonal de l'Etat de Fribourg
 
@@ -97,7 +97,7 @@ Adopte ce qui suit:
 
 - a) la mise des arrêts à la disposition du public;
 - b) la publication sur Internet;
-- c) la publication dans la Revue fribourgeoise de jurisprudence et dans d'autres publications spécialisées;
+- c) la publication dans d'autres publications spécialisées;
 - d) le travail avec les médias;
 - e) les rapports d'activité annuels;
 - f) l'accès aux documents officiels.
@@ -226,7 +226,7 @@ Adopte ce qui suit:
 - a) par le Tribunal cantonal: tous les arrêts finaux et partiels rendus sur le fond et, exceptionnellement, les décisions préjudicielles ou incidentes ainsi que les radiations du rôle désignées par le président ou la présidente de la cour compétente; une directive interne assure la préparation et la mise en ligne uniformes des décisions;
 - b) par les autres autorités judiciaires: les jugements et autres décisions mettant fin à l'instance qui présentent un intérêt public ou juridique particulier.
 
-<sup>3</sup> Les principaux arrêts et les décisions de principe du Tribunal cantonal ainsi que les décisions des autres autorités judiciaires qui présentent un intérêt juridique particulier sont publiés dans la Revue fribourgeoise de jurisprudence et, sur demande, mis à la disposition de revues ou banques de données spécialisées.
+<sup>3</sup> …
 
 #### Art. 17
 
@@ -258,9 +258,9 @@ Adopte ce qui suit:
 
 #### Art. 20
 
-<sup>1</sup> Les décisions rendues en application des articles 14 et 18 al. 2 sont sujettes à recours, dans les trente jours, directement auprès du Tribunal cantonal.
+<sup>1</sup> Les décisions rendues en application des articles 14 et 18 al. 2, y compris celles rendues en première instance par l'organe compétent du Tribunal cantonal, sont sujettes à recours dans les trente jours, auprès du Tribunal cantonal.
 
-<sup>2</sup> Les décisions rendues en première instance par l'organe compétent du Tribunal cantonal peuvent faire l'objet d'un recours, dans les trente jours, auprès du Tribunal plénier.
+<sup>2</sup> …
 
 ## 6 Dispositions finales
 

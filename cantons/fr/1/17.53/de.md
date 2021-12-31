@@ -4,13 +4,13 @@ number: "17.53"
 title: Reglement des Kantonsgerichts über die Information der Öffentlichkeit in Gerichtssachen
 short: InfoRKG
 language: de
-version: 2018-03-01
-valid_until: 2021-12-31
-version_adopted: 2018-02-07
+version: 2022-01-01
+valid_until: 2025-12-31
+version_adopted: 2021-11-18
 adopted: 2025-11-13
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/17.53"
-pdf: "https://bdlf.fr.ch/api/de/versions/6240/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7463/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Information der Öffentlichkeit in Gerichtssachen – R
 
 (InfoRKG)
 
-vom 21.06.2012 (Fassung in Kraft getreten am 01.03.2018)
+vom 21.06.2012 (Fassung in Kraft getreten am 01.01.2022)
 
 Das Kantonsgericht des Staates Freiburg
 
@@ -97,7 +97,7 @@ beschliesst:
 
 - a) öffentliche Auflage der Urteile;
 - b) Veröffentlichung im Internet;
-- c) Veröffentlichung in der Freiburger Zeitschrift für Rechtsprechung sowie in anderen Fachpublikationen;
+- c) Veröffentlichung in anderen Fachpublikationen;
 - d) Medienarbeit;
 - e) jährliche Tätigkeitsberichte;
 - f) Zugang zu amtlichen Dokumenten.
@@ -226,7 +226,7 @@ beschliesst:
 - a) vom Kantonsgericht: Alle materiellen End- und Teilentscheide; ausnahmsweise auch die von der Präsidentin oder vom Präsidenten des zuständigen Hofs bezeichneten Vor- und Zwischenentscheide sowie Abschreibungsverfügungen; die einheitliche Vorbereitung und Aufschaltung der Entscheide bildet Gegenstand einer internen Weisung;
 - b) von den übrigen Gerichtsbehörden: Urteile und weitere verfahrensabschliessende Entscheide, die von besonderem öffentlichen oder rechtlichen Interesse sind.
 
-<sup>3</sup> Die wichtigsten Urteile und Grundsatzentscheide des Kantonsgerichts sowie die Entscheide der anderen Gerichtsbehörden, die von besonderem rechtlichen Interesse sind, werden in der Freiburger Zeitschrift für Rechtsprechung veröffentlicht und, auf Anfrage, anderen Fachzeitschriften oder spezialisierten Datenbanken zur Verfügung gestellt.
+<sup>3</sup> …
 
 #### Art. 17
 
@@ -258,9 +258,9 @@ beschliesst:
 
 #### Art. 20
 
-<sup>1</sup> Entscheide, die in Anwendung der Artikel 14 und 18 Abs. 2 gefällt worden sind, können innert 30 Tagen unmittelbar beim Kantonsgericht angefochten werden.
+<sup>1</sup> Entscheide, die in Anwendung der Artikel 14 und 18 Abs. 2 gefällt worden sind, einschliesslich derjenigen, die erstinstanzlich von der zuständigen Stelle des Kantonsgerichts gefällt worden sind, können innert 30 Tagen beim Kantonsgericht angefochten werden.
 
-<sup>2</sup> Entscheide, die erstinstanzlich von der zuständigen Stelle des Kantonsgerichts gefällt worden sind, können innert 30 Tagen beim Gesamtgericht angefochten werden.
+<sup>2</sup> …
 
 ## 6 Schlussbestimmungen
 
