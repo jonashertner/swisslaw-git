@@ -3,18 +3,16 @@ sr: "0.631.112.136.2"
 title: Abkommen vom 7. Dezember 2004 zwischen dem Schweizerischen Bundesrat und der Regierung der Bundesrepublik Deutschland zum Vertrag vom 23. November 1964 über die Einbeziehung der Gemeinde Büsingen am Hochrhein in das schweizerische Zollgebiet über die Erhebung und die Ausrichtung eines Anteils der von der Schweiz in ihrem Staatsgebiet und im Gebiet der Gemeinde Büsingen am Hochrhein erhobenen leistungsabhängigen Schwerverkehrsabgabe (LSVA-Abkommen Büsingen) (mit Anlage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/33"
 language: de
-version: 2008-11-19
+version: 2022-01-01
 adopted: 2004-12-07
 in_force: 2008-11-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/33/20081119/de/xml/fedlex-data-admin-ch-eli-cc-2009-33-20081119-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/33/20081119/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/33/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2009-33-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/33/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Abkommen zwischen dem Schweizerischen Bundesrat und der Regierung der Bundesrepublik Deutschland zum Vertrag vom 23. November 1964 über die Einbeziehung der Gemeinde Büsingen am Hochrhein in das schweizerische Zollgebiet über die Erhebung und die Ausrichtung eines Anteils der von der Schweiz in ihrem Staatsgebiet und im Gebiet der Gemeinde Büsingen am Hochrhein erhobenen leistungsabhängigen Schwerverkehrsabgabe
-
-0.631.112.136.2 (Stand am 19. November 2008)
 
 AS **2009** 203
 
@@ -26,7 +24,7 @@ Abgeschlossen am 7. Dezember 2004
 
 In Kraft getreten durch Notenaustausch am 19. November 2008
 
-(Stand am 19. November 2008)
+(Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat und die Regierung der Bundesrepublik Deutschland
 
@@ -56,7 +54,9 @@ sind wie folgt übereingekommen:
 
 **Elektronisches Erfassungsgerät**
 
-In Büsingen amtlich zugelassene Motorfahrzeuge, die der Schwerverkehrsabgabe unterliegen, sowie leichte Sattelschlepper, die zum Ziehen von Transportanhängern zugelassen sind, die der Schwerverkehrsabgabe unterliegen, sind nach den schweizerischen Bestimmungen mit einem von der Eidgenössischen Zollverwaltung zugelassenen elektronischen Gerät zur Erfassung der Fahrleistung auszurüsten.
+In Büsingen amtlich zugelassene Motorfahrzeuge, die der Schwerverkehrsabgabe unterliegen, sowie leichte Sattelschlepper, die zum Ziehen von Transportanhängern zugelassen sind, die der Schwerverkehrsabgabe unterliegen, sind nach den schweizerischen Bestimmungen mit einem von der Eidgenössischen Zollverwaltung[^2-1] zugelassenen elektronischen Gerät zur Erfassung der Fahrleistung auszurüsten.
+
+[^2-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 3
 
@@ -121,6 +121,5 @@ Dieses Abkommen tritt in Kraft, sobald die Vertragsparteien einander notifiziert
 Geschehen zu Bern am 7. Dezember 2004 in zwei Urschriften in deutscher Sprache.
 
 <table>
-<tr><td>Für den Schweizerischen Bundesrat:</td><td>Für die Regierung der Bundesrepublik Deutschland:</td></tr>
-<tr><td>Christoph Bubb</td><td>Frank Elbe</td></tr>
+<tr><td>Für den Schweizerischen Bundesrat: Christoph Bubb</td><td>Für die Regierung der Bundesrepublik Deutschland: Frank Elbe</td></tr>
 </table>

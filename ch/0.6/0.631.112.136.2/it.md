@@ -3,32 +3,26 @@ sr: "0.631.112.136.2"
 title: "Accordo del 7 dicembre 2004 tra il Consiglio federale svizzero e il Governo della Repubblica federale di Germania relativo al Trattato del 23 novembre 1964 sull'inclusione del Comune di Büsingen am Hochrhein nel territorio doganale svizzero, concernente la riscossione e il versamento di una quota parte della tassa sul traffico pesante commisurata alle prestazioni riscossa dalla Svizzera sul suo territorio nazionale e su quello del Comune di Büsingen am Hochrhein (Accordo TTPCP-Büsingen) (con allegato)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/33"
 language: it
-version: 2008-11-19
+version: 2022-01-01
 adopted: 2004-12-07
 in_force: 2008-11-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/33/20081119/it/xml/fedlex-data-admin-ch-eli-cc-2009-33-20081119-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/33/20081119/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/33/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-33-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/33/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Accordo tra il Consiglio federale svizzero e il Governo della Repubblica federale di Germania relativo al Trattato del 23 novembre 1964 sull’inclusione del Comune di Büsingen am Hochrhein nel territorio doganale svizzero, concernente la riscossione e il versamento di una quota parte della tassa sul traffico pesante commisurata alle prestazioni riscossa dalla Svizzera sul suo territorio nazionale e su quello del Comune di Büsingen am Hochrhein
 
-0.631.112.136.2 (Stato 19 novembre 2008)
-
 RU **2009** 203
 
-Traduzione*[^t-1]*
+Traduzione
 
 (Accordo TTPCP-Büsingen)
 
-Concluso il 7 dicembre 2004
+Concluso il 7 dicembre 2004 Entrato in vigore mediante scambio di note il 19 novembre 2008
 
-Entrato in vigore mediante scambio di note il 19 novembre 2008
-
-(Stato 19 novembre 2008)
-
-[^t-1]: Il testo originale ted. è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
+(Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero e il Governo della Repubblica federale di Germania
 
@@ -58,7 +52,9 @@ hanno convenuto quanto segue:
 
 **Apparecchio elettronico di rilevazione**
 
-Per quanto siano assoggettati alla TTPCP o utilizzati per trainare rimorchi di trasporto assoggettati alla TTPCP, i veicoli a motore e i trattori a sella leggeri immatricolati a Büsingen devono essere equipaggiati con un apparecchio elettronico per la rilevazione del chilometraggio riconosciuto dall’Amministrazione federale delle dogane conformemente alle disposizioni svizzere.
+Per quanto siano assoggettati alla TTPCP o utilizzati per trainare rimorchi di trasporto assoggettati alla TTPCP, i veicoli a motore e i trattori a sella leggeri immatricolati a Büsingen devono essere equipaggiati con un apparecchio elettronico per la rilevazione del chilometraggio riconosciuto dall’Amministrazione federale delle dogane[^2-1] conformemente alle disposizioni svizzere.
+
+[^2-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 3
 
@@ -123,8 +119,7 @@ Il presente Accordo entra in vigore non appena entrambe le Parti contraenti si s
 Fatto a Berna in due esemplari in lingua tedesca, il 7 dicembre 2004.
 
 <table>
-<tr><td>Per il Consiglio federale svizzero:</td><td>Per il Governo della Repubblica federale di Germania:</td></tr>
-<tr><td>Christoph Bubb</td><td>Frank Elbe</td></tr>
+<tr><td>Per il Consiglio federale svizzero: Christoph Bubb</td><td>Per il Governo della Repubblica federale di Germania: Frank Elbe</td></tr>
 </table>
 
 Allegato
@@ -146,21 +141,21 @@ Chiave di ripartizione
 
 <table>
 <tr><td>Spese di manutenzione della rete viaria</td><td></td><td></td></tr>
-<tr><td>Svizzera (secondo l’Ufficio federale di statistica)[^t-2] in CHF</td><td>2 215 337 000</td><td></td></tr>
-<tr><td>Büsingen (secondo l’Amministrazione statale delle strade di Costanza)[^t-3] in CHF</td><td>150 200</td><td></td></tr>
+<tr><td>Svizzera (secondo l’Ufficio federale di statistica)[^t-1] in CHF</td><td>2 215 337 000</td><td></td></tr>
+<tr><td>Büsingen (secondo l’Amministrazione statale delle strade di Costanza)[^t-2] in CHF</td><td>150 200</td><td></td></tr>
 <tr><td>Somma di entrambi i Paesi</td><td>2 215 487 200</td><td></td></tr>
 <tr><td>Quota parte di Büsingen</td><td>150 200: 2 215 487 200 × 100</td><td>0,0067795 %</td></tr>
 </table>
 
 <table>
 <tr><td>Prestazioni chilometriche nel traffico interno, di transito, all’importazione e all’esportazione</td><td></td><td></td></tr>
-<tr><td>Svizzera (secondo il rapporto del Servizio per lo studio dei trasporti)[^t-4] in tkm</td><td>14 876 400 000</td><td></td></tr>
-<tr><td>Büsingen (secondo l’indagine sul traffico)[^t-5] in tkm</td><td>1 217 662</td><td></td></tr>
+<tr><td>Svizzera (secondo il rapporto del Servizio per lo studio dei trasporti)[^t-3] in tkm</td><td>14 876 400 000</td><td></td></tr>
+<tr><td>Büsingen (secondo l’indagine sul traffico)[^t-4] in tkm</td><td>1 217 662</td><td></td></tr>
 <tr><td>Somma di entrambi i Paesi</td><td>14 877 617 662</td><td></td></tr>
 <tr><td>Quota parte di Büsingen</td><td>1 217 662: 14 877 617 662 × 100</td><td>0,0081845 %</td></tr>
 </table>
 
-[^t-2]: Calcolo globale dell’Ufficio federale di statistica (UST) delle spese per la manutenzione della rete viaria 1988–1997: Tabella 4: *Kosten der Kapitalrechnung* *1997*.
-[^t-3]: Dati forniti dall’Amministrazione statale delle strade di Costanza, IV/3951: *Kostenrich**t**werte für Unterhaltung von Landesstrassen, Staatshaushalt, Strassenbau*, cap. 1004, pag. 125, per l’anno 2001.
-[^t-4]: SG–DATEC, Servizio per lo studio dei trasporti, Rapporto 2/99: *Die verkehrlichen Auswirkungen des bilateralen Landverkehrsabkommens zwischen der Schweiz und der Europäischen Gemeinschaft auf den Strassen- und Schienengüterverkehr*, Tabella A-3 *Grundszenario 2001*.
-[^t-5]: Volume di traffico a Büsingen nel 2000: conteggi effettuati nel 1995 dal Land Baden-Württemberg sulla strada nazionale e nel 1992 dalla Città di Sciaffusa sulla Rheinhaldenstrasse, diversi conteggi effettuati dalla Divisione delle costruzioni di Sciaffusa; sulla base di questi conteggi è stato stimato il volume di traffico nel 2000.
+[^t-1]: Calcolo globale dell’Ufficio federale di statistica (UST) delle spese per la manutenzione della rete viaria 1988–1997: Tabella 4: *Kosten der Kapitalrechnung* *1997*.
+[^t-2]: Dati forniti dall’Amministrazione statale delle strade di Costanza, IV/3951: *Kostenrich**t**werte für Unterhaltung von Landesstrassen, Staatshaushalt, Strassenbau*, cap. 1004, pag. 125, per l’anno 2001.
+[^t-3]: SG–DATEC, Servizio per lo studio dei trasporti, Rapporto 2/99: *Die verkehrlichen Auswirkungen des bilateralen Landverkehrsabkommens zwischen der Schweiz und der Europäischen Gemeinschaft auf den Strassen- und Schienengüterverkehr*, Tabella A-3 *Grundszenario 2001*.
+[^t-4]: Volume di traffico a Büsingen nel 2000: conteggi effettuati nel 1995 dal Land Baden-Württemberg sulla strada nazionale e nel 1992 dalla Città di Sciaffusa sulla Rheinhaldenstrasse, diversi conteggi effettuati dalla Divisione delle costruzioni di Sciaffusa; sulla base di questi conteggi è stato stimato il volume di traffico nel 2000.

@@ -3,32 +3,26 @@ sr: "0.631.112.136.2"
 title: "Accord du 7 décembre 2004 entre le Conseil fédéral suisse et le Gouvernement de la République fédérale d'Allemagne relatif au Traité du 23 novembre 1964 sur l'inclusion de la commune de Büsingen am Hochrhein dans le territoire douanier suisse concernant la perception et la rétrocession d'une part de la redevance sur le trafic des poids lourds liée aux prestations que la Suisse perçoit sur son territoire national ainsi que sur celui de la commune de Büsingen am Hochrhein (Accord RPLP Büsingen) (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/33"
 language: fr
-version: 2008-11-19
+version: 2022-01-01
 adopted: 2004-12-07
 in_force: 2008-11-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/33/20081119/fr/xml/fedlex-data-admin-ch-eli-cc-2009-33-20081119-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/33/20081119/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/33/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-33-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/33/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Accord entre le Conseil fédéral suisse et le Gouvernement de la République fédérale d’Allemagne relatif au Traité du 23 novembre 1964 sur l’inclusion de la commune de Büsingen am Hochrhein dans le territoire douanier suisse concernant la perception et la rétrocession d’une part de la redevance sur le trafic des poids lourds liée aux prestations que la Suisse perçoit sur son territoire national ainsi que sur celui de la commune de Büsingen am Hochrhein
 
-0.631.112.136.2 (Etat le 19 novembre 2008)
-
 RO **2009** 203
 
-Traduction*[^t-1]*
+Traduction
 
 (Accord RPLP Büsingen)
 
-Conclu le 7 décembre 2004
+Conclu le 7 décembre 2004 Entré en vigueur par échange de notes le 19 novembre 2008
 
-Entré en vigueur par échange de notes le 19 novembre 2008
-
-(Etat le 19 novembre 2008)
-
-[^t-1]: Le texte original allemand est publié, sous le même chiffre, dans l'édition allemande du présent recueil.
+(Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse et le Gouvernement de la République fédérale d’Allemagne
 
@@ -58,7 +52,9 @@ sont convenus des dispositions suivantes:
 
 **Appareil électronique de saisie**
 
-Les véhicules à moteur officiellement admis à la circulation à Büsingen, qui sont passibles de la redevance sur le trafic des poids lourds, ainsi que les tracteurs à sellette légers admis à tirer des remorques de transport, qui sont passibles de la redevance sur le trafic des poids lourds, doivent être équipés, conformément aux dispositions suisses, d’un appareil électronique de saisie du kilométrage approuvé par l’Administration fédérale des douanes.
+Les véhicules à moteur officiellement admis à la circulation à Büsingen, qui sont passibles de la redevance sur le trafic des poids lourds, ainsi que les tracteurs à sellette légers admis à tirer des remorques de transport, qui sont passibles de la redevance sur le trafic des poids lourds, doivent être équipés, conformément aux dispositions suisses, d’un appareil électronique de saisie du kilométrage approuvé par l’Administration fédérale des douanes[^2-1].
+
+[^2-1]: Actuellement: Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 3
 
@@ -84,7 +80,7 @@ Le calcul du montant revenant à la commune de Büsingen s’effectue annuelleme
 
 #### Art. 6
 
-**Echéances**
+**Échéances**
 
 <sup>1.</sup> Le paiement à la commune de Büsingen des montants calculés conformément au présent Accord a lieu la première fois pour l’année 2001 et intervient chaque fois le 30 juin de l’année suivante.
 
@@ -98,7 +94,7 @@ Le calcul du montant revenant à la commune de Büsingen s’effectue annuelleme
 
 <sup>2.</sup> Si un différend ne peut être réglé de cette manière, chaque partie contractante peut exiger qu’il soit soumis à un tribunal arbitral pour décision.
 
-<sup>3.</sup> Le tribunal arbitral est composé de cas en cas; chaque partie contractante désigne un membre et ces deux personnes se mettent d’accord sur un représentant d’un Etat tiers comme président, lequel sera désigné par les gouvernements des deux parties contractantes. Les membres doivent être désignés dans les deux mois et le président doit l’être dans les trois mois après que l’une des parties contractantes a communiqué à l’autre qu’elle entend soumettre le différend à un tribunal arbitral.
+<sup>3.</sup> Le tribunal arbitral est composé de cas en cas; chaque partie contractante désigne un membre et ces deux personnes se mettent d’accord sur un représentant d’un État tiers comme président, lequel sera désigné par les gouvernements des deux parties contractantes. Les membres doivent être désignés dans les deux mois et le président doit l’être dans les trois mois après que l’une des parties contractantes a communiqué à l’autre qu’elle entend soumettre le différend à un tribunal arbitral.
 
 <sup>4.</sup> Si les délais mentionnés à l’al. 3 ne sont pas respectés, chacune des parties contractantes peut, si rien d’autre n’a été convenu, demander au président de la Cour internationale de justice de procéder aux nominations nécessaires. Si ce dernier est de la nationalité de l’une des deux parties contractantes ou s’il est empêché pour un tout autre motif, il incombe au vice-président de procéder aux nominations. Si celui-ci est lui aussi de la nationalité de l’une des deux parties contractantes ou s’il est lui aussi empêché, il appartient au membre de la Cour de rang directement inférieur et dont la nationalité ne relève pas de celle de l’une des deux parties contractantes de procéder aux nominations.
 
@@ -123,8 +119,7 @@ Le présent Accord entre en vigueur dès que les parties contractantes se sont m
 Fait à Berne, le 7 décembre 2004, en deux exemplaires en langue allemande.
 
 <table>
-<tr><td>Pour le Conseil fédéral suisse:</td><td>Pour le Gouvernement de la République fédérale d’Allemagne:</td></tr>
-<tr><td>Christoph Bubb</td><td>Frank Elbe</td></tr>
+<tr><td>Pour le Conseil fédéral suisse: Christoph Bubb</td><td>Pour le Gouvernement de la République fédérale d’Allemagne: Frank Elbe</td></tr>
 </table>
 
 Annexe
@@ -149,21 +144,21 @@ Clé de répartition
 
 <table>
 <tr><td>Coûts de l’entretien des routes</td><td></td><td></td></tr>
-<tr><td>Suisse (selon Office fédéral de la statistique)[^t-2] en CHF</td><td>2 215 337 000</td><td></td></tr>
-<tr><td>Büsingen (selon Strassenbauamt Konstanz)[^t-3] en CHF</td><td>150 200</td><td></td></tr>
+<tr><td>Suisse (selon Office fédéral de la statistique)[^t-1] en CHF</td><td>2 215 337 000</td><td></td></tr>
+<tr><td>Büsingen (selon Strassenbauamt Konstanz)[^t-2] en CHF</td><td>150 200</td><td></td></tr>
 <tr><td>Somme des deux pays</td><td>2 215 487 200</td><td></td></tr>
 <tr><td>Part Büsingen</td><td>150 200: 2 215 487 200 × 100</td><td>0,0067795 %</td></tr>
 </table>
 
 <table>
 <tr><td>Prestations de transport en trafic intérieur, de transit, d’importation et d’exportation</td><td></td><td></td></tr>
-<tr><td>Suisse (selon rapport SET)[^t-4] en tkm</td><td>14 876 400 000</td><td></td></tr>
-<tr><td>Büsingen (selon relevéde trafic)[^t-5] en tkm</td><td>1 217 662</td><td></td></tr>
+<tr><td>Suisse (selon rapport SET)[^t-3] en tkm</td><td>14 876 400 000</td><td></td></tr>
+<tr><td>Büsingen (selon relevéde trafic)[^t-4] en tkm</td><td>1 217 662</td><td></td></tr>
 <tr><td>Somme des deux pays</td><td>14 877 617 662</td><td></td></tr>
 <tr><td>Part Büsingen</td><td>1 217 662: 14 877 617 662 × 100</td><td>0,0081845 %</td></tr>
 </table>
 
-[^t-2]: Compte global de l’Office fédéral de la statistique (OFS) 1988–1997 des dépenses routières: tableau 4: coûts du compte capital 1997.
-[^t-3]: Indications du Strassenbauamt Konstanz, IV/3951: Kostenrichtwerte für Unterhaltung von Landesstrassen, Staatshaushalt, Strassenbau Kapitel 1004, Seite 125, für das Jahr 2001.
-[^t-4]: Die verkehrlichen Auswirkungen des bilateralen Landverkehrsabkommens zwischen der Schweiz und der Europäischen Gemeinschaft auf den Strassen- und Schienengüterverkehr, SG DETEC Service d’étude des transports, rapport 2/99, tableau A-3 scénario de base 2001.
-[^t-5]: Prestations de trafic à Büsingen pour l’année 2000: relevé par le Land de Bade-Württemberg 1995 à la route du Land et par la ville de Schaffhouse 1992 à la route Rheinhalden, divers relevés par le Tiefbauamt Schaffhausen, tous extrapolés à l’année 2000.
+[^t-1]: Compte global de l’Office fédéral de la statistique (OFS) 1988–1997 des dépenses routières: tableau 4: coûts du compte capital 1997.
+[^t-2]: Indications du Strassenbauamt Konstanz, IV/3951: Kostenrichtwerte für Unterhaltung von Landesstrassen, Staatshaushalt, Strassenbau Kapitel 1004, Seite 125, für das Jahr 2001.
+[^t-3]: Die verkehrlichen Auswirkungen des bilateralen Landverkehrsabkommens zwischen der Schweiz und der Europäischen Gemeinschaft auf den Strassen- und Schienengüterverkehr, SG DETEC Service d’étude des transports, rapport 2/99, tableau A-3 scénario de base 2001.
+[^t-4]: Prestations de trafic à Büsingen pour l’année 2000: relevé par le Land de Bade-Württemberg 1995 à la route du Land et par la ville de Schaffhouse 1992 à la route Rheinhalden, divers relevés par le Tiefbauamt Schaffhausen, tous extrapolés à l’année 2000.
