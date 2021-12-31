@@ -4,13 +4,13 @@ number: "411.210"
 title: Dekret über die Löhne der Lehrpersonen
 short: "Lohndekret Lehrpersonen, LDLP"
 language: de
-version: 2017-08-01
-valid_until: 2021-12-31
-version_adopted: 2016-09-13
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-11-09
 adopted: 2004-08-24
 in_force: 2005-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/411.210"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2415/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3124/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2415/pdf_file"
 
 (Lohndekret Lehrpersonen, LDLP)
 
-Vom 24.08.2004 (Stand 01.08.2017)
+Vom 24.08.2004 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -74,51 +74,50 @@ beschliesst:
 
 **Positionsanteil**
 
-<sup>1</sup> Der Positionsanteil entspricht dem Minimum der jeweiligen Lohnstufe gemäss dem Lohnstufenplan (Anhang I) und ergibt sich für jede Funktion aus dem Einreihungsplan (Anhang II).
+<sup>1</sup> Der Positionsanteil basiert auf einer nach einheitlichen Kriterien vorgenommenen Funktionsbewertung, entspricht dem Minimum der jeweiligen Lohnstufe gemäss dem Lohnstufenplan (Anhang 1) und ergibt sich für jede Funktion aus der Funktionsstruktur (Anhang 2).
 
-<sup>2</sup> Bei der Schaffung neuer Funktionen wird der Positionslohn aufgrund des bestehenden Lohngefüges, einer Marktanalyse unter Einbezug eines Vergleichs mit Referenzkantonen sowie aufgrund einer nach einheitlichen Kriterien vorgenommenen Bewertung der Arbeitsplätze im Sinne von § 5 Abs. 2 des Dekrets über die Löhne des kantonalen Personals (Lohndekret) vom 30. November 1999[^5-1] ermittelt.
+<sup>2</sup> Die Funktionsbewertung berücksichtigt die für die jeweilige Funktion erforderlichen Fach-, Sozial-, Selbst- und Führungskompetenzen sowie die mit der Funktion verbundenen üblichen Beanspruchungen und Arbeitsbedingungen.
 
-<sup>2<sup>bis</sup></sup> Der Positionsanteil für die Schulleitung an der Volksschule orientiert sich am Positionsanteil derjenigen Lehrpersonen, die von der Schulleitung geführt werden. Die individuelle Einreihung in die entsprechende Lohnstufe erfolgt aufgrund der in Anhang II C festgelegten Kriterien.
+<sup>2<sup>bis</sup></sup> …
 
-<sup>3</sup> Der Regierungsrat ordnet eine periodische Überprüfung des Gesamtgefüges nach Massgabe der in Absatz 2 erwähnten Kriterien an. Ergeben sich daraus Änderungen des Lohnstufen- oder Einreihungsplans, ist dem Grossen Rat eine entsprechende Vorlage zu unterbreiten.
-
-[^5-1]: SAR [165.130](https://gesetzessammlungen.ag.ch/data/165.130/de)
+<sup>3</sup> Der Regierungsrat ordnet eine periodische Überprüfung des Gesamtgefüges nach Massgabe der in Absatz 2 erwähnten Kriterien und unter Berücksichtigung der Arbeitsmarktsituation an. Ergeben sich daraus Änderungen der Funktionsstruktur oder des Lohnstufenplans, ist dem Grossen Rat eine entsprechende Vorlage zu unterbreiten.
 
 #### § 6
 
 **Erfahrungsanteil**
 
-<sup>1</sup> Der Erfahrungsanteil folgt grundsätzlich soweit möglich einer gemäss Absatz 2 für jede Funktion einzeln definierten Normalkurve und beträgt bis zu 60 % des Positionsanteils.
+<sup>1</sup> Der Erfahrungsanteil folgt einem Normverlauf über insgesamt 32 Erfahrungsstufen bis zu einem Maximum von 54.6 % des Positionsanteils.
 
-<sup>2</sup> Die Form der Normalkurve wird durch folgende Entwicklungsphasen bestimmt:
+<sup>2</sup> Die Form der Normalkurve wird durch folgende Zonen bestimmt:
 
 <table>
-<tr><th>Entwicklungsphase</th><th>Praxis- bzw. Altersjahr</th><th>Punkte pro Praxisjahr</th></tr>
-<tr><td>I</td><td>1. Praxisjahr</td><td>0</td></tr>
-<tr><td>II</td><td>2. bis 11. Praxisjahr</td><td>2</td></tr>
-<tr><td>III</td><td>12. bis 15. Praxisjahr</td><td>1.5</td></tr>
-<tr><td>IV</td><td>16. Praxisjahr bis 60. Altersjahr</td><td>1</td></tr>
+<tr><th>Zone</th><th>Erfahrungsstufe</th><th>Erhöhung gegenüber dem Positionslohn</th></tr>
+<tr><td>I</td><td>0 bis 7</td><td>3.0 Prozentpunkte</td></tr>
+<tr><td>II</td><td>8 bis 14</td><td>2.3 Prozentpunkte</td></tr>
+<tr><td>III</td><td>15 bis 23</td><td>1.3 Prozentpunkte</td></tr>
+<tr><td>IV</td><td>24 bis 32</td><td>0.644 Prozentpunkte</td></tr>
+<tr><td>V</td><td>ab 32</td><td>0 Prozentpunkte</td></tr>
 </table>
 
-<sup>3</sup> Das zuständige Departement errechnet jährlich aufgrund der gemäss § 12 Abs. 1 und 2 zur Verfügung stehenden finanziellen Mittel die individuellen Erhöhungen unter folgenden Vorgaben:
+<sup>3</sup> Die Erhöhung des Erfahrungsanteils wird vorbehältlich der vorhandenen finanziellen Mittel gemäss § 12 Abs. 1 sowie vorbehältlich eines individuellen Lohnstopps gemäss Absatz 6 jeweils grundsätzlich in Form einer ganzen Erfahrungsstufe auf den 1. Januar gewährt.
 
-- a) Der Erfahrungsanteil wird individuell so angehoben, dass der Lohn entsprechend dem Lebensalter möglichst dem der Normalkurve, unter Berücksichtigung der seither erfolgten Änderungen des Lohnstufenplans, entspricht.
-- b) Stehen mehr finanzielle Mittel zur Verfügung als für das Erreichen der Normalkurve erforderlich sind, werden die Punkte für die zweite und dritte Entwicklungsphase gemäss Absatz 2 entsprechend angehoben und unter dieser Kurve liegende Löhne auf diese Kurve erhöht.
-- c) Stehen weniger finanzielle Mittel zur Verfügung als für das Erreichen der Normalkurve erforderlich sind, werden unter dieser Kurve liegende Löhne anteilsmässig erhöht.
+- a) …
+- b) …
+- c) …
 
 <sup>4</sup> …
 
 <sup>5</sup> …
 
-<sup>6</sup> Der Regierungsrat regelt, in welchen besonderen Fällen die Anstellungsbehörde individuell auf die Gewährung eines Erfahrungsanteils verzichten kann.
+<sup>6</sup> Der Regierungsrat regelt durch Verordnung, in welchen besonderen Fällen die Anstellungsbehörde individuell auf die Gewährung einer Erfahrungsstufe verzichten kann.
 
 #### § 7
 
-**Praxisjahr**
+**Minimalalter**
 
-<sup>1</sup> Das massgebliche Praxisjahr ergibt sich aus der Differenz zwischen dem individuellen Alter der Lehrperson und dem Lebensalter, in welchem gemäss Anhang III durchschnittlich die für die jeweilige Funktion erforderliche Ausbildung abgeschlossen werden kann.
+<sup>1</sup> Die in Anhang 3 festgelegten funktionsbezogenen Minimalalter nach Ausbildungsabschluss bilden den Ausgangspunkt für die Lohnentwicklung und sind massgebend für die Berechnung der potenziellen Erfahrungsjahre.
 
-<sup>2</sup> Das 1. Praxisjahr dauert vom Zeitpunkt, in dem gemäss Anhang III durchschnittlich die für die jeweilige Funktion erforderliche Ausbildung abgeschlossen werden kann, bis zum Ende des darauf folgenden Kalenderjahrs. Alle weiteren Praxisjahre richten sich nach dem jeweiligen Kalenderjahr.
+<sup>2</sup> …
 
 #### § 8
 
@@ -130,9 +129,9 @@ beschliesst:
 
 **Anfangslohn**
 
-<sup>1</sup> Bei der Festlegung des Anfangslohns werden die anrechenbaren Praxisjahre im Erfahrungsanteil berücksichtigt.
+<sup>1</sup> Bei der Festlegung des Anfangslohns werden die für die vorgesehene Arbeit bedeutsame Unterrichts- beziehungsweise Berufserfahrung sowie die übrigen Erfahrungen im Erfahrungsanteil berücksichtigt.
 
-<sup>2</sup> Der Regierungsrat legt fest, in welchen Fällen bei der Festlegung des Anfangslohns wegen Ungleichwertigkeit der Erfahrungen ausnahmsweise weniger Praxisjahre angerechnet werden können.
+<sup>2</sup> Der Regierungsrat legt die anrechenbaren Unterrichts- beziehungsweise Berufserfahrungen sowie die übrigen anrechenbaren Erfahrungen und deren Gewichtung durch Verordnung fest.
 
 <sup>3</sup> Für Lehrpersonen, die nicht über eine für die Funktion massgebende Qualifikation verfügen, erfolgt für eine befristete Übergangszeit von 5 Jahren ein Lohnabzug von 5 %.
 
@@ -152,7 +151,7 @@ beschliesst:
 
 **Lohnentwicklung**
 
-<sup>1</sup> Die Lohnentwicklung beim Kanton hält langfristig mit der allgemeinen Lohnentwicklung in der Volkswirtschaft Schritt. Beim Entscheid über die durchschnittliche Lohnentwicklung sind namentlich folgende Gesichtpunkte zu berücksichtigen:
+<sup>1</sup> Die Lohnentwicklung beim Kanton hält langfristig mit der allgemeinen Lohnentwicklung in der Volkswirtschaft Schritt. Beim Entscheid über die durchschnittliche Lohnentwicklung sind namentlich folgende Gesichtspunkte zu berücksichtigen:
 
 - a) die Finanzlage des Kantons;
 - b) die allgemeinen wirtschaftlichen Rahmenbedingungen;
@@ -170,9 +169,9 @@ beschliesst:
 
 <sup>3</sup> Die Löhne der Lehrpersonen und des dem Gesetz über die Grundzüge des Personalrechts (Personalgesetz, PersG) vom 16. Mai 2000[^12-2] unterstellten Staatspersonals sind in der durchschnittlichen Lohnentwicklung auf die Dauer gleich zu behandeln.
 
-<sup>4</sup> Reduktionen der Minima der Lohnstufen gemäss Anhang I sind 4 Monate vor ihrem Inkrafttreten zu publizieren.
+<sup>4</sup> Reduktionen der Minima der Lohnstufen gemäss Anhang 1 sind 4 Monate vor ihrem Inkrafttreten zu publizieren.
 
-<sup>5</sup> Erhöhungen der Minima der Lohnstufen sind nachzuführen und mit periodischen Revisionen in Anhang I aufzunehmen.
+<sup>5</sup> Erhöhungen der Minima der Lohnstufen sind nachzuführen und mit periodischen Revisionen in Anhang 1 aufzunehmen.
 
 <sup>6</sup> Die Bestimmungen dieses Dekrets können keine bindenden Ausgaben entfalten, die über den Entscheid des Grossen Rats gemäss Absatz 1 hinausgehen.
 
@@ -351,7 +350,7 @@ beschliesst:
 
 <sup>3</sup> Die Prämien für die Nichtbetriebsunfallversicherung werden von den Lehrpersonen getragen.
 
-<sup>4</sup> Der Kanton versichert Pensionierte auf eigenen Antrag gegen Unfallfolgen, sofern sie die ganze Prämie bezahlen.
+<sup>4</sup> …
 
 [^29-1]: SR [832.20](https://db.clex.ch/link/Bund/832.20/de)
 
@@ -500,11 +499,7 @@ beschliesst:
 
 #### § 41
 
-**Übergangsrecht**
-
-<sup>1</sup> …
-
-<sup>2</sup> In den Überführungsbestimmungen in Anhang IV sind die Staffelung der Einführung des neuen Lohnsystems sowie die Höhe und maximale Dauer von allfälligen Übergangszahlungen (Differenzzahlungen) geregelt.
+**…**
 
 #### § 41a
 
@@ -516,23 +511,43 @@ beschliesst:
 
 #### § 41c
 
-**Besitzstand**
-
-<sup>1</sup> Lehrpersonen mit einem Oberstufenlehrdiplom, die mit dem Inkrafttreten des Strukturwechsels 6/3 an eine tiefere Schulstufe wechseln müssen, wird längstens während sechs Jahren ein statischer Besitzstand auf deren bisherigen Lohn gewährt.
-
-<sup>2</sup> Lehrpersonen ohne Oberstufenlehrdiplom, die mit dem Inkrafttreten des Strukturwechsels 6/3 an eine tiefere Schulstufe wechseln müssen, wird längstens während sechs Jahren ein statischer Besitzstand auf deren bisherigen Lohn gewährt, wenn sie vor dem Inkrafttreten der neuen Schulstruktur 6/3 während mindestens fünf Jahren ununterbrochen an der Oberstufe unterrichtet haben.
-
-<sup>3</sup> Der Besitzstand wird auch auf spätere Erhöhungen im Beschäftigungsgrad gewährt.
+**…**
 
 #### § 41d
 
-**Überführung Löhne Kindergartenlehrpersonen**
+**…**
 
-<sup>1</sup> Die Anpassung der Lohneinstufung der Kindergartenlehrpersonen gemäss Einreihungsplan von Lohnstufe 2 auf Lohnstufe 5 (Anhang II A) wird in folgenden drei Schritten vollzogen:
+#### § 41e
 
-- a) per 1. Januar 2016 auf Lohnstufe 3,
-- b) per 1. Januar 2017 auf Lohnstufe 4,
-- c) per 1. Januar 2018 auf Lohnstufe 5.
+**Übergangsrecht**
+
+<sup>1</sup> Die bisherigen Löhne werden nach Massgabe der individuell zutreffenden Erfahrungsstufe per 1. Januar 2022 überführt.
+
+<sup>2</sup> Zur Berechnung der individuell massgebenden Erfahrungsstufe wird vom aktuellen Lebensjahr das je nach ausgeübter Funktion gemäss Anhang 3 definierte Mindestalter abgezogen.
+
+<sup>3</sup> Der verbleibende Rest an Jahren wird wie folgt in Erfahrungsstufen umgerechnet:
+
+<table>
+<tr><th>Zone</th><th>Potenzielle Erfahrungsjahre</th><th>Erfahrungsstufen</th></tr>
+<tr><td>I</td><td>0 bis 6</td><td>0 bis 6</td></tr>
+<tr><td>II</td><td>7 bis 12</td><td>6 bis 11</td></tr>
+<tr><td>III</td><td>13 bis 18</td><td>11 bis 16</td></tr>
+<tr><td>IV</td><td>19 bis 23</td><td>16 bis 20</td></tr>
+<tr><td>V</td><td>24 bis 28</td><td>20 bis 24</td></tr>
+<tr><td>VI</td><td>29 bis 32</td><td>24 bis 27</td></tr>
+<tr><td>VII</td><td>33 bis 38</td><td>27 bis 32</td></tr>
+<tr><td>VIII</td><td>ab 38</td><td>32</td></tr>
+</table>
+
+#### § 41f
+
+**Besitzstand**
+
+<sup>1</sup> Liegt bei einer Lehrperson der bisherige Bruttolohn über dem aus der Überführung resultierenden Bruttolohn, wird auf deren bisherigem Lohn längstens bis zum Ende des Schulhalbjahrs, in dem die Lehrperson das 65. Altersjahr vollendet, ein statischer Besitzstand gewährt, sofern die Lehrperson vor dem Inkrafttreten der Änderung des Lehrerlohndekrets mindestens fünf Jahre ununterbrochen im Kanton Aargau an der entsprechenden Schule unterrichtet hat.
+
+<sup>2</sup> Generelle Lohnerhöhungen werden nicht auf Besitzstandslöhnen gewährt.
+
+<sup>3</sup> Der Besitzstand wird auch bei einem nahtlosen Wechsel des Arbeitgebers innerhalb des Kantons sowie auf spätere Erhöhungen im Beschäftigungsgrad gewährt.
 
 #### § 42
 
