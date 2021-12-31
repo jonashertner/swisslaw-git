@@ -4,13 +4,13 @@ number: "261"
 title: Gesetz über den Vollzug von Strafen und Massnahmen
 short: "Strafvollzugsgesetz, StVG"
 language: de
-version: 2019-11-01
-valid_until: 2021-12-31
-version_adopted: 2019-06-06
+version: 2022-01-01
+valid_until: 2022-03-31
+version_adopted: 2021-01-14
 adopted: 2005-04-21
 in_force: 2007-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/261"
-pdf: "https://bl.clex.ch/api/de/versions/2495/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3149/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2495/pdf_file"
 
 (Strafvollzugsgesetz, StVG)
 
-Vom 21.04.2005 (Stand 01.11.2019)
+Vom 21.04.2005 (Stand 01.01.2022)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -47,11 +47,25 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat erlässt ergänzende Bestimmungen über Zuständigkeiten, Verfahren und Vollzugsmodalitäten in Strafvollzugssachen.
 
+#### § 2a
+
+**Datenschutzberatung**
+
+<sup>1</sup> Das Amt für Justizvollzug bezeichnet eine Datenschutzberaterin oder einen Datenschutzberater.
+
+<sup>2</sup> Sie oder er:
+
+- a. berät und unterstützt bei der Bearbeitung von Personendaten,
+- b. nimmt Datenschutz-Folgenabschätzungen vor (§ 11a Informations- und Datenschutzgesetz, IDG[^2a-1]) und
+- c. arbeitet mit der Aufsichtsstelle Datenschutz (§ 35 IDG) zusammen.
+
+[^2a-1]: [SGS 162](https://bl.clex.ch/data/162/de/art11a)
+
 ## 2 Ausführung der Bestimmungen des Schweizerischen Strafgesetzbuches (StGB)
 
-[^2-1]
+[^2a-2]
 
-[^2-1]: Die Reihenfolge der nachfolgenden Bestimmungen richtet sich nach der Systematik des StGB (SR [311.0](https://db.clex.ch/link/Bund/311.0/de)).
+[^2a-2]: Die Reihenfolge der nachfolgenden Bestimmungen richtet sich nach der Systematik des StGB (SR [311.0](https://db.clex.ch/link/Bund/311.0/de)).
 
 #### § 3
 
