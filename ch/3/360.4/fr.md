@@ -3,11 +3,11 @@ sr: "360.4"
 title: "Convention du 2 avril 2014 relative à l'exploitation nationale des centres communs de coopération policière et douanière (CCPD) de Genève et de Chiasso"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/333"
 language: fr
-version: 2014-08-01
+version: 2022-01-01
 adopted: 2014-04-02
 in_force: 2014-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/333/20140801/fr/xml/fedlex-data-admin-ch-eli-cc-2014-333-20140801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/333/20140801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/333/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-333-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/333/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,7 +18,7 @@ Approuvée par l’assemblée plénière de la Conférence des directrices et di
 
 Adoptée par le Conseil fédéral le 2 avril 2014
 
-(Etat le 1<sup>er</sup> août 2014)
+(État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse et la Conférence des directrices et directeurs des départements cantonaux de justice et police (CCDJP)
 
@@ -39,7 +39,7 @@ sont convenus de ce qui suit:
 
 [^ingress-1]: [RS 0.360.349.1](https://fedlex.data.admin.ch/eli/cc/2009/460)
 [^ingress-2]: [RS 0.360.349.11](https://fedlex.data.admin.ch/eli/cc/2003/210)
-[^ingress-3]: [RS 0.360.454.1](https://fedlex.data.admin.ch/eli/cc/2016/609)
+[^ingress-3]: [[RO 2001 1525](https://fedlex.data.admin.ch/eli/oc/2001/225). [RO 2016 3603](https://fedlex.data.admin.ch/eli/oc/2016/609)art. 43 ch.3] Voir actuellement: l'accord du 14 oct. 2013 ([RS 0.360.454.1](https://fedlex.data.admin.ch/eli/cc/2016/609)).
 [^ingress-4]: [RS 0.360.454.11](https://fedlex.data.admin.ch/eli/cc/2004/132)
 [^ingress-5]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
 
@@ -57,17 +57,18 @@ La présente convention règle l’organisation de la partie nationale des CCPD 
 
 <sup>1</sup>
 
-Les autorités de la Confédération et des cantons qui participent aux Services suisses à Genève et à Chiasso et y détachent des collaborateurs (unité chargée du détachement) sont:
+Les autorités de la Confédération et des cantons qui participent aux Services suisses à Genève et à Chiasso et y détachent des collaborateurs (unité chargée du détachement) sont[^2-1]:
 
 - a. l’Office fédéral de la police (fedpol);
-- b. le Secrétariat d’Etat aux migrations[^2-1];
+- b. le Secrétariat d’Etat aux migrations[^2-2];
 - c. l’Administration fédérale des douanes, représentée par le Corps des gardes-frontière (Cgfr);
-- d. les polices cantonales[^2-2].
+- d. les polices cantonales[^2-3].
 
 <sup>2</sup> Les Services suisses sont dépourvus de personnalité juridique.
 
-[^2-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette mod. dans tout le texte.
-[^2-2]: Cf. art. 1 de l’Ac. du 9 oct. 2007 entre le Conseil fédéral suisse et le Gouvernement de la République française relatif à la coopération transfrontalière en matière judiciaire, policière et douanière ([RS 0.360.349.1](https://fedlex.data.admin.ch/eli/cc/2009/460)) et art. 3, let. b, de l’Ac. du 10 sept. 1998 entre la Confédération suisse et la République italienne relatif à la coopération entre les autorités de police et de douane ([RS 0.360.454.1](https://fedlex.data.admin.ch/eli/cc/2016/609)).
+[^2-1]: Cf. art. 1 du Prot. add. du 28 janv. 2002 à l’Ac. du 11 mai 1998 entre le Conseil fédéral suisse et le Gouvernement de la République française relatif à la coopération transfrontalière en matière judiciaire, policière et douanière ([RS 0.360.349.11](https://fedlex.data.admin.ch/eli/cc/2003/210), ci-après PA France) et art. 2, al. 1, du Prot. du 17 sept. 2002 entre la Confédération suisse et la République italienne relatif à l’implantation de centres de coopération policière et douanière ([RS 0.360.454.1](https://fedlex.data.admin.ch/eli/cc/2016/609), ci-après Protocole Italie).
+[^2-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette mod. dans tout le texte.
+[^2-3]: Cf. art. 1 de l’Ac. du 9 oct. 2007 entre le Conseil fédéral suisse et le Gouvernement de la République française relatif à la coopération transfrontalière en matière judiciaire, policière et douanière ([RS 0.360.349.1](https://fedlex.data.admin.ch/eli/cc/2009/460)) et art. 3, let. b, de l’Ac. du 10 sept. 1998 entre la Confédération suisse et la République italienne relatif à la coopération entre les autorités de police et de douane ([RS 0.360.454.1](https://fedlex.data.admin.ch/eli/cc/2016/609)).
 
 ## Chapitre 2 Organisation
 
@@ -116,7 +117,7 @@ Le comité directeur est responsable de la conduite stratégique des Services su
 - i. transmettre à la Direction de fedpol une proposition de budget du CCPD;
 - j. élaborer le règlement interne, soumis à la Direction de fedpol pour approbation.
 
-[^5-1]: Cf. art. 8, al. 2, du Prot. add. du 28 janv. 2002 à l’Ac. du 11 mai 1998 entre le Conseil fédéral suisse et le Gouvernement de la République française relatif à la coopération transfrontalière en matière judiciaire, policière et douanière ([RS 0.360.349.11](https://fedlex.data.admin.ch/eli/cc/2003/210), ci-après PA France) et art. 7, al. 1, du Prot. du 17 sept. 2002 entre la Confédération suisse et la République italienne relatif à l’implantation de centres de coopération policière et douanière ([RS 0.360.454.11](https://fedlex.data.admin.ch/eli/cc/2004/132), ci-après Protocole Italie).
+[^5-1]: Cf. art. 8, al. 2, du PA France et art. 7, al. 1 Protocole Italie.
 [^5-2]: Cf. art. 2, al. 5, PA France et art. 3, al. 3, Protocole Italie.
 
 #### Art. 6

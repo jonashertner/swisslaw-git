@@ -3,11 +3,11 @@ sr: "360.4"
 title: Accordo del 2 aprile 2014 sulla gestione nazionale dei centri comuni di cooperazione di polizia e doganale (CCPD) di Ginevra e Chiasso
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/333"
 language: it
-version: 2014-08-01
+version: 2022-01-01
 adopted: 2014-04-02
 in_force: 2014-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/333/20140801/it/xml/fedlex-data-admin-ch-eli-cc-2014-333-20140801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/333/20140801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/333/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2014-333-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/333/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,7 +18,7 @@ Approvato dall’assemblea plenaria della Conferenza delle direttrici e dei dire
 
 Approvato dal Consiglio federale il 2 aprile 2014
 
-(Stato 1° agosto 2014)
+(Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero e la Conferenza delle direttrici e dei direttori dei dipartimenti cantonali di giustizia e polizia (CDDGP),
 
@@ -26,9 +26,9 @@ di seguito denominati «le Parti»,
 
 visti
 
-- – l’Accordo del 9 ottobre 2007[^ingress-1] tra il Consiglio federale svizzero e il Governo della Repubblica francese sulla cooperazione transfrontaliera in materia giudiziaria, di polizia e doganale;
-- – il Protocollo addizionale del 28 gennaio 2002[^ingress-2] all’Accordo dell’11 maggio 1998 tra il Consiglio federale svizzero e il Governo della Repubblica francese relativo alla cooperazione transfrontaliera in materia giudiziaria, di polizia e doganale;
-- – l’Accordo del 10 settembre 1998[^ingress-3] tra la Confederazione Svizzera e la Repubblica Italiana relativo alla cooperazione tra le autorità di polizia e doganali; e
+- – l’Accordo del 9 ottobre 2007[^ingress-1] tra il Consiglio federale svizzero e il Governo della Repubblica francese sulla cooperazione transfrontaliera in materia giudiziaria, di polizia e doganale,
+- – il Protocollo addizionale del 28 gennaio 2002[^ingress-2] all’Accordo dell’11 maggio 1998 tra il Consiglio federale svizzero e il Governo della Repubblica francese relativo alla cooperazione transfrontaliera in materia giudiziaria, di polizia e doganale,
+- – l’Accordo del 10 settembre 1998[^ingress-3] tra la Confederazione Svizzera e la Repubblica Italiana relativo alla cooperazione tra le autorità di polizia e doganali, e
 - – il Protocollo del 17 settembre 2002[^ingress-4] tra la Confederazione Svizzera e la Repubblica Italiana relativo all’istituzione di centri di cooperazione di polizia e doganale,
 
 miranti ad agevolare e snellire la cooperazione transfrontaliera in materia di polizia e doganale con la Francia e con l’Italia attraverso l’istituzione di centri di cooperazione bilaterale (CCPD);
@@ -39,7 +39,7 @@ hanno convenuto quanto segue:
 
 [^ingress-1]: [RS 0.360.349.1](https://fedlex.data.admin.ch/eli/cc/2009/460)
 [^ingress-2]: [RS 0.360.349.11](https://fedlex.data.admin.ch/eli/cc/2003/210)
-[^ingress-3]: [RS 0.360.454.1](https://fedlex.data.admin.ch/eli/cc/2016/609)
+[^ingress-3]: [[RU 2001 1525](https://fedlex.data.admin.ch/eli/oc/2001/225). [RU 2016 3603](https://fedlex.data.admin.ch/eli/oc/2016/609)art. 43 n. 3]. Vedi ora: Acc. del 14 ott. 2013 ([RS 0.360.454.1](https://fedlex.data.admin.ch/eli/cc/2016/609)).
 [^ingress-4]: [RS 0.360.454.11](https://fedlex.data.admin.ch/eli/cc/2004/132)
 [^ingress-5]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
 
@@ -57,17 +57,18 @@ Il presente accordo disciplina l’organizzazione della parte nazionale dei CCPD
 
 <sup>1</sup>
 
-Le seguenti autorità federali e cantonali partecipano ai servizi svizzeri di Ginevra e Chiasso e vi distaccano propri collaboratori (unità distaccante):
+Le seguenti autorità federali e cantonali partecipano ai servizi svizzeri di Ginevra e Chiasso e vi distaccano propri collaboratori (unità distaccante):[^2-1]
 
 - a. l’Ufficio federale di polizia (fedpol);
-- b. la Segreteria di Stato della migrazione[^2-1],
-- c. l’Amministrazione federale delle dogane, rappresentata dal Corpo delle guardie di confine (Cgcf);
-- d. le polizie cantonali[^2-2].
+- b. la Segreteria di Stato della migrazione[^2-2],
+- c. l’Ufficio federale della dogana e della sicurezza dei confini[^2-3], rappresentata dal Corpo delle guardie di confine (Cgcf);
+- d. le polizie cantonali.
 
 <sup>2</sup> I servizi svizzeri non sono dotati di personalità giuridica.
 
-[^2-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2015. Di detta mod. é tenuto conto in tutto il presente testo.
-[^2-2]: Cfr. art. 1 dell’Acc. del 9 ott. 2007 tra il Consiglio federale svizzero e il Governo della Repubblica francese sulla cooperazione transfrontaliera in materia giudiziaria, di polizia e doganale ([RS 0.360.349.1](https://fedlex.data.admin.ch/eli/cc/2009/460)) nonché art. 3 lett. b dell’Acc. del 10 set. 1998 tra la Confederazione Svizzera e la Repubblica Italiana relativo alla cooperazione tra le autorità di polizia e doganali ([RS 0.360.454.1](https://fedlex.data.admin.ch/eli/cc/2016/609)).
+[^2-1]: Cfr. art. 1 dell’Acc. del 9 ott. 2007 tra il Consiglio federale svizzero e il Governo della Repubblica francese sulla cooperazione transfrontaliera in materia giudiziaria, di polizia e doganale ([RS 0.360.349.1](https://fedlex.data.admin.ch/eli/cc/2009/460)), nonché art. 2 primo lemma dell’Acc. del 14 ott. 2013 tra la Confederazione Svizzera e la Repubblica Italiana relativo alla cooperazione tra le autorità di polizia e doganali ([RS 0.360.454.1](https://fedlex.data.admin.ch/eli/cc/2016/609)).
+[^2-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2015. Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-3]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ## Capitolo 2: Organizzazione
 
@@ -287,7 +288,7 @@ Il rapporto di lavoro tra l’unità distaccante e il collaboratore continua anc
 
 <sup>2</sup> Gli acquisti sono effettuati conformemente ai processi e alle procedure di fedpol. Il commissariato CCPD coordina le richieste di acquisto pervenute.
 
-[^21-1]: [RS 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)
+[^21-1]: Ora l’O del 12 feb. 2020 sugli appalti pubblici (OAPub) ([RS 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)).
 
 #### Art. 22
 

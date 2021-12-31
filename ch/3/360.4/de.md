@@ -3,11 +3,11 @@ sr: "360.4"
 title: Vereinbarung vom 2. April 2014 über den nationalen Betrieb gemeinsamer Polizei- und Zollkooperationszentren (CCPD) in Genf und Chiasso
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/333"
 language: de
-version: 2014-08-01
+version: 2022-01-01
 adopted: 2014-04-02
 in_force: 2014-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/333/20140801/de/xml/fedlex-data-admin-ch-eli-cc-2014-333-20140801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/333/20140801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/333/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2014-333-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/333/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,13 +18,13 @@ Durch die Plenarversammlung der Konferenz der kantonalen Justiz- und Polizeidire
 
 Vom Bundesrat am 2. April 2014 gutgeheissen.
 
-(Stand am 1. August 2014)
+(Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat und die Konferenz der kantonalen Justiz- und Polizeidirektorinnen und -direktoren (KKJPD)
 
 nachfolgend die Vertragsparteien genannt, haben
 
-gestützt auf
+gestützt auf:
 
 - – das Abkommen vom 9. Oktober 2007[^ingress-1] zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die grenzüberschreitende Zusammenarbeit in Justiz-, Polizei- und Zollsachen,
 - – das Zusatzprotokoll vom 28. Januar 2002[^ingress-2] zum Abkommen vom 11. Mai 1998 zwischen dem Schweizerischen Bundesrat und der Französischen Republik über die grenzüberschreitende Zusammenarbeit in Justiz-, Polizei- und Zollsachen,
@@ -39,7 +39,7 @@ Folgendes vereinbart:
 
 [^ingress-1]: [SR 0.360.349.1](https://fedlex.data.admin.ch/eli/cc/2009/460)
 [^ingress-2]: [SR 0.360.349.11](https://fedlex.data.admin.ch/eli/cc/2003/210)
-[^ingress-3]: [SR 0.360.454.1](https://fedlex.data.admin.ch/eli/cc/2016/609)
+[^ingress-3]: [[AS 2001 1525](https://fedlex.data.admin.ch/eli/oc/2001/225). [AS 2016 3603](https://fedlex.data.admin.ch/eli/oc/2016/609)Art. 43 Ziff. 3]. Siehe heute: das Abk. vom 14. Okt. 2013 ([SR 0.360.454.1](https://fedlex.data.admin.ch/eli/cc/2016/609)).
 [^ingress-4]: [SR 0.360.454.11](https://fedlex.data.admin.ch/eli/cc/2004/132)
 [^ingress-5]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
 
@@ -57,17 +57,18 @@ Die vorliegende Vereinbarung regelt die Organisation des nationalen Teils der CC
 
 <sup>1</sup>
 
-An den Schweizer Dienststellen in Genf und Chiasso sind folgende Behörden des Bundes und der Kantone beteiligt, die Mitarbeitende entsenden (Entsendeeinheit):
+An den Schweizer Dienststellen in Genf und Chiasso sind folgende Behörden des Bundes und der Kantone beteiligt, die Mitarbeitende entsenden (Entsendeeinheit):[^2-1]
 
 - a. das Bundesamt für Polizei (fedpol);
-- b. das Staatssekretariat für Migration[^2-1];
-- c. die Eidgenössische Zollverwaltung, vertreten durch das Grenzwachtkorps (GWK);
-- d. die Kantonspolizeien[^2-2].
+- b. das Staatssekretariat für Migration[^2-2];
+- c. das Bundesamt für Zoll und Grenzsicherheit[^2-3], vertreten durch das Grenzwachtkorps (GWK);
+- d. die Kantonspolizeien.
 
 <sup>2</sup> Die Schweizer Dienststellen besitzen keine Rechtspersönlichkeit.
 
-[^2-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2015 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
-[^2-2]: Vgl. Art. 1 des Abk. vom 9. Okt. 2007 zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die grenzüberschreitende Zusammenarbeit in Justiz-, Polizei- und Zollsachen ([SR 0.360.349.1](https://fedlex.data.admin.ch/eli/cc/2009/460)) und Art. 3 Bst. b des Abk. vom 10. Sept. 1998 zwischen der Schweizerischen Eidgenossenschaft und der Italienischen Republik über die Zusammenarbeit der Polizei- und Zollbehörden ([SR 0.360.454.1](https://fedlex.data.admin.ch/eli/cc/2016/609)).
+[^2-1]: Vgl. Art. 1 des Abk. vom 9. Okt. 2007 zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die grenzüberschreitende Zusammenarbeit in Justiz-, Polizei- und Zollsachen ([SR 0.360.349.1](https://fedlex.data.admin.ch/eli/cc/2009/460)) und Art. 2 1. Lemma des Abk. vom 14. Okt. 2013 zwischen der Schweizerischen Eidgenossenschaft und der Italienischen Republik über die Zusammenarbeit der Polizei- und Zollbehörden ([SR 0.360.454.1](https://fedlex.data.admin.ch/eli/cc/2016/609)).
+[^2-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^2-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ## 2. Kapitel: Organisation
 
@@ -327,6 +328,5 @@ Die vorliegende Vereinbarung wird zwischen dem Bundesrat und der KKJPD abgeschlo
 
 <table>
 <tr><td>Bern, den 10. April 2014</td><td>Bern, den 10. April 2014</td></tr>
-<tr><td>Im Namen des Schweizerischen Bundesrats:</td><td>Konferenz der Kantonalen Justiz- und Polizeidirektorinnen und -direktoren:</td></tr>
-<tr><td>Bundesrätin Simonetta Sommaruga, Vorsteherin Eidgenössisches Justiz- und Polizeidepartement</td><td>Hans-Jürg Käser, Präsident</td></tr>
+<tr><td>Im Namen des Schweizerischen Bundesrats: Bundesrätin Simonetta Sommaruga, Vorsteherin Eidgenössisches Justiz- und Polizeidepartement</td><td>Konferenz der Kantonalen Justiz- und Polizeidirektorinnen und -direktoren: Hans-Jürg Käser, Präsident</td></tr>
 </table>
