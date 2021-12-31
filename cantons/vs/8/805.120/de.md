@@ -3,20 +3,20 @@ canton: VS
 number: "805.120"
 title: Beschluss betreffend die Festsetzung der fakturierbaren Kosten und der Restbeiträge der öffentlichen Hand für die Tages- oder Nachtpflegestrukturen
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-02
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-01
 adopted: 2026-01-21
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/805.120"
-pdf: "https://lex.vs.ch/api/de/versions/2781/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2994/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss betreffend die Festsetzung der fakturierbaren Kosten und der Restbeiträge der öffentlichen Hand für die Tages- oder Nachtpflegestrukturen
 
-vom 02.12.2020 (Stand 01.01.2021)
+vom 01.12.2021 (Stand 01.01.2022)
 
 Der Staatsrat des Kantons Wallis
 
@@ -45,7 +45,7 @@ beschliesst:
 
 #### Art. 2
 
-**Fakturierbare Kosten 2021**
+**Fakturierbare Kosten 2022**
 
 <sup>1</sup> Für die die Tages- oder Nachtpflegestrukturen betragen die fakturierbaren Kosten für die Pflegeleistungen pro Tag:
 
@@ -64,7 +64,7 @@ beschliesst:
 
 #### Art. 3
 
-**Restbeitrag 2021**
+**Restbeitrag 2022**
 
 <sup>1</sup> Für die die Tages- oder Nachtpflegestrukturen betragen die Restbeiträge der öffentlichen Hand an den Pflegekosten pro Tag:
 
@@ -87,4 +87,4 @@ beschliesst:
 
 <sup>1</sup> Das für die Gesundheit zuständigen Departements wird mit der Ausführung dieses Beschlusses beauftragt.
 
-CSW RO/AGS 2020-124
+CSW RO/AGS 2021-166

@@ -3,20 +3,20 @@ canton: VS
 number: "805.120"
 title: Arrêté fixant les coûts facturables et les contributions résiduelles des pouvoirs publics pour les structures de soins de jour ou de nuit
 language: fr
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-02
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-01
 adopted: 2026-01-21
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/805.120"
-pdf: "https://lex.vs.ch/api/fr/versions/2781/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2994/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Arrêté fixant les coûts facturables et les contributions résiduelles des pouvoirs publics pour les structures de soins de jour ou de nuit
 
-du 02.12.2020 (état 01.01.2021)
+du 01.12.2021 (état 01.01.2022)
 
 Le Conseil d’Etat du canton du Valais
 
@@ -45,7 +45,7 @@ arrête:
 
 #### Art. 2
 
-**Coûts facturables 2021**
+**Coûts facturables 2022**
 
 <sup>1</sup> Pour les structures de soins de jour ou de nuit, les coûts facturables pour les prestations de soins s’élèvent, par jour, à:
 
@@ -64,7 +64,7 @@ arrête:
 
 #### Art. 3
 
-**Contributions résiduelles 2021**
+**Contributions résiduelles 2022**
 
 <sup>1</sup> Pour les structures de soins de jour ou de nuit, les contributions résiduelles des pouvoirs publics aux coûts de soins s’élèvent, par jour, à:
 
@@ -87,4 +87,4 @@ arrête:
 
 <sup>1</sup> Le département en charge de la santé est chargé de l’exécution du présent arrêté.
 
-RCV RO/AGS 2020-124
+RCV RO/AGS 2021-166
