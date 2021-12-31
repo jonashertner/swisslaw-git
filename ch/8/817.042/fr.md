@@ -4,11 +4,11 @@ title: "Ordonnance du 27 mai 2020 sur l'exécution de la législation sur les de
 short: OELDAl
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: fr
-version: 2021-11-23
+version: 2022-01-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20211123/fr/xml/fedlex-data-admin-ch-eli-cc-2020-460-20211123-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20211123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-460-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20211123/fr"
 
 (OELDAl)
 
-du 27 mai 2020 (Etat le 23 novembre 2021)
+du 27 mai 2020 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -419,13 +419,15 @@ En cas de contestation d’un jouet, les autorités cantonales d’exécution co
 
 **Autorités d’exécution**
 
-<sup>1</sup> L’Administration fédérale des douanes (AFD) procède aux contrôles officiels des denrées alimentaires, des objets usuels, des matières premières, des produits intermédiaires, des produits semi-finis, des produits de base et des substances destinées à la production de denrées alimentaires qui sont importés, en transit ou exportés.
+<sup>1</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^23-1] procède aux contrôles officiels des denrées alimentaires, des objets usuels, des matières premières, des produits intermédiaires, des produits semi-finis, des produits de base et des substances destinées à la production de denrées alimentaires qui sont importés, en transit ou exportés.
 
-<sup>2</sup> Dans le cadre de son activité de contrôle, elle peut demander le concours des autorités cantonales d’exécution compétentes.
+<sup>2</sup> Dans le cadre de son activité de contrôle, il peut demander le concours des autorités cantonales d’exécution compétentes.
 
-<sup>3</sup> Dans des cas particuliers, notamment quand l’inspection de denrées alimentaires ou d’objets usuels nécessite des analyses de laboratoire ou soulève des questions complexes, l’AFD et le service vétérinaire de frontière peuvent déléguer leur activité de contrôle, y compris l’échantillonnage, aux autorités cantonales d’exécution.
+<sup>3</sup> Dans des cas particuliers, notamment quand l’inspection de denrées alimentaires ou d’objets usuels nécessite des analyses de laboratoire ou soulève des questions complexes, l’OFDF et le service vétérinaire de frontière peuvent déléguer leur activité de contrôle, y compris l’échantillonnage, aux autorités cantonales d’exécution.
 
 <sup>4</sup> Dans les cas visés à l’al. 3, la tâche de l’autorité cantonale d’exécution consiste à définir les paramètres à analyser, à prendre la décision définitive, à ordonner les mesures nécessaires et à percevoir les émoluments.
+
+[^23-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 24
 
@@ -445,13 +447,13 @@ Les contrôles officiels doivent inclure:
 
 **Annonce**
 
-L’AFD peut annoncer les importations, les transits et les exportations de marchandises aux autorités cantonales d’exécution.
+L’OFDF peut annoncer les importations, les transits et les exportations de marchandises aux autorités cantonales d’exécution.
 
 #### Art. 26
 
 **Renseignements**
 
-L’AFD communique à l’OSAV, à sa demande, les informations de taxation douanière nécessaires à l’exécution de la présente ordonnance.
+L’OFDF communique à l’OSAV, à sa demande, les informations de taxation douanière nécessaires à l’exécution de la présente ordonnance.
 
 ### Section 2 Importation
 
@@ -459,7 +461,7 @@ L’AFD communique à l’OSAV, à sa demande, les informations de taxation doua
 
 **Contrôle des marchandises**
 
-<sup>1</sup> À l’importation, l’AFD contrôle par sondage si les marchandises sont conformes aux exigences de la législation sur les denrées alimentaires.
+<sup>1</sup> À l’importation, l’OFDF contrôle par sondage si les marchandises sont conformes aux exigences de la législation sur les denrées alimentaires.
 
 <sup>2</sup> Le contrôle de marchandises doit avoir lieu sur un site pourvu des équipements de contrôle adéquats et qui permette de procéder dûment aux contrôles physiques, de prélever un nombre d’échantillons adapté à la gestion des risques et de manipuler les denrées alimentaires dans des conditions d’hygiène irréprochables.
 
@@ -467,16 +469,16 @@ L’AFD communique à l’OSAV, à sa demande, les informations de taxation doua
 
 **Échantillonnage**
 
-<sup>1</sup> L’AFD peut prélever des échantillons.
+<sup>1</sup> L’OFDF peut prélever des échantillons.
 
 <sup>2</sup>
 
-L’OSAV peut s’adresser à l’AFD pour:
+L’OSAV peut s’adresser à l’OFDF pour:
 
 - a. lui demander le prélèvement d’échantillons de marchandises déterminées;
 - b. lui ordonner de transmettre les échantillons de certaines marchandises à un laboratoire spécialisé.
 
-<sup>3</sup> Si l’activité de contrôle visée à l’art. 23, al. 3, lui est déléguée, l’AFD envoie les échantillons à l’autorité d’exécution du canton de destination des marchandises.
+<sup>3</sup> Si l’activité de contrôle visée à l’art. 23, al. 3, lui est déléguée, l’OFDF envoie les échantillons à l’autorité d’exécution du canton de destination des marchandises.
 
 <sup>4</sup> Au demeurant, le prélèvement d’échantillons est effectué conformément aux art. 47 à 58.
 
@@ -484,7 +486,7 @@ L’OSAV peut s’adresser à l’AFD pour:
 
 **Contestations**
 
-<sup>1</sup> L’AFD ou les autorités cantonales d’exécution contestent les marchandises qui ne sont pas conformes à la législation suisse sur les denrées alimentaires et prennent les mesures nécessaires.
+<sup>1</sup> L’OFDF ou les autorités cantonales d’exécution contestent les marchandises qui ne sont pas conformes à la législation suisse sur les denrées alimentaires et prennent les mesures nécessaires.
 
 <sup>2</sup> Elles communiquent par écrit à la personne assujettie à l’obligation de déclarer les raisons de la contestation, le type de mesures prises et le montant des émoluments visés à l’art. 58 LDAl.
 
@@ -496,7 +498,7 @@ L’OSAV peut s’adresser à l’AFD pour:
 
 <sup>1</sup>
 
-L’AFD peut prendre les mesures suivantes:
+L’OFDF peut prendre les mesures suivantes:
 
 - a. transmettre les marchandises contestées, pour examen approfondi, à l’autorité cantonale d’exécution; la personne assujettie à l’obligation de déclarer est tenue d’acheminer les marchandises à l’autorité cantonale d’exécution, sans les modifier, dans un délai déterminé, à ses risques et à ses propres frais;
 - b. enjoindre à la personne assujettie à l’obligation de déclarer de mettre à la disposition de l’autorité cantonale d’exécution les marchandises contestées ou échantillonnées; la personne assujettie à l’obligation de déclarer doit alors acheminer les marchandises à son domicile dans un délai déterminé, à ses risques et à ses propres frais, et les y tenir à la disposition de l’autorité cantonale d’exécution, sans les modifier;
@@ -528,7 +530,7 @@ Lorsque des marchandises contestées sont transmises pour contrôle approfondi �
 
 **Documents d’accompagnement manquants**
 
-<sup>1</sup> Lors de la taxation douanière, l’AFD vérifie les documents d’accompagnement requis visés à l’art. 86, al. 2, ODAlOUs[^31-1].
+<sup>1</sup> Lors de la taxation douanière, l’OFDF vérifie les documents d’accompagnement requis visés à l’art. 86, al. 2, ODAlOUs[^31-1].
 
 <sup>2</sup> Les lots pour lesquels des documents d’accompagnement requis visés à l’art. 86, al. 2, ODAlOUs font défaut lors de l’importation peuvent être refoulés à la frontière conformément aux exigences de l’art. 30, al. 1, let. c.
 
@@ -538,7 +540,7 @@ Lorsque des marchandises contestées sont transmises pour contrôle approfondi �
 
 **Interdiction d’importation**
 
-L’AFD exécute les interdictions d’importation édictées par l’OSAV.
+L’OFDF exécute les interdictions d’importation édictées par l’OSAV.
 
 ### Section 3 Transit
 
@@ -1179,7 +1181,7 @@ Elle comprend les matières suivantes:
 
 <sup>5</sup> Les émoluments perçus pour la formation sont calculés selon l’annexe 4, ch. 4.1.[^79-2]
 
-[^79-1]: www.fao.org/fao-who-codexalimentarius**Error! Hyperlink reference not valid.** &gt; Textes du Codex &gt; Code d’usages &gt; Recherche: CXC 1-1969 &gt; CAC/RCP1-1969, Principes généraux d’hygiène alimentaire, modifiés en dernier lieu en 2003
+[^79-1]: www.fao.org/fao-who-codexalimentarius**Erreur ! Référence de lien hypertexte non valide.** &gt; Textes du Codex &gt; Code d’usages &gt; Recherche: CXC 1-1969 &gt; CAC/RCP1-1969, Principes généraux d’hygiène alimentaire, modifiés en dernier lieu en 2003
 [^79-2]: Erratum du 14 juil. 2020, ne concerne que le texte italien ([RO 2020 2907](https://fedlex.data.admin.ch/eli/oc/2020/539)).
 
 ### Section 3 Examen et diplôme
@@ -1441,7 +1443,7 @@ Les autorités cantonales d’exécution traitent les données personnelles:
 - a. qui sont collectées lors du contrôle des établissements du secteur alimentaire et du secteur des objets usuels;
 - b. qui leur sont transmises par une autre autorité d’exécution.
 
-<sup>3</sup> L’AFD traite les données personnelles nécessaires au contrôle de l’importation, du transit et de l’exportation des denrées alimentaires et des objets usuels.
+<sup>3</sup> L’OFDF traite les données personnelles nécessaires au contrôle de l’importation, du transit et de l’exportation des denrées alimentaires et des objets usuels.
 
 <sup>4</sup> L’OSAV traite les données personnelles nécessaires pour remplir ses tâches de coordination d’exécution, d’octroi des autorisations, d’analyse des risques, d’information de la population et celles nécessaires à la maîtrise des situations d’urgence ou de crise.
 
@@ -1488,7 +1490,7 @@ Les autorités cantonales d’exécution échangent des données personnelles lo
 
 <sup>1</sup>
 
-L’OSAV, l’AFD et les autorités cantonales d’exécution échangent des données personnelles:
+L’OSAV, l’OFDF et les autorités cantonales d’exécution échangent des données personnelles:
 
 - a. pour maîtriser les situations d’urgence et les crises;
 - b. lorsqu’il y a péril en la demeure;

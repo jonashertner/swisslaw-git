@@ -4,11 +4,11 @@ title: "Ordinanza del 27 maggio 2020 sull'esecuzione della legislazione sulle de
 short: OELDerr
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: it
-version: 2021-11-23
+version: 2022-01-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20211123/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20211123-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20211123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20211123/it"
 
 (OELDerr)
 
-del 27 maggio 2020 (Stato 23 novembre 2021) (Stato 23 novembre 2021)
+del 27 maggio 2020 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -416,13 +416,15 @@ In caso di contestazione di giocattoli le autorità cantonali di esecuzione tras
 
 **Autorità di esecuzione**
 
-<sup>1</sup> L’Amministrazione federale delle dogane (AFD) esegue i controlli ufficiali su derrate alimentari, oggetti d’uso, materie prime, prodotti intermedi, semilavorati, prodotti di partenza e sostanze destinate alla produzione di derrate alimentari al momento dell’importazione, del transito e dell’esportazione.
+<sup>1</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^23-1] esegue i controlli ufficiali su derrate alimentari, oggetti d’uso, materie prime, prodotti intermedi, semilavorati, prodotti di partenza e sostanze destinate alla produzione di derrate alimentari al momento dell’importazione, del transito e dell’esportazione.
 
 <sup>2</sup> Per la sua attività può avvalersi delle autorità cantonali di esecuzione.
 
-<sup>3</sup> In casi particolari, segnatamente quando il controllo ufficiale delle derrate alimentari o degli oggetti d’uso necessita di analisi di laboratorio o solleva questioni complesse, l’AFD e il servizio veterinario di confine possono delegare la loro attività di controllo, compresa la campionatura, alle autorità cantonali di esecuzione.
+<sup>3</sup> In casi particolari, segnatamente quando il controllo ufficiale delle derrate alimentari o degli oggetti d’uso necessita di analisi di laboratorio o solleva questioni complesse, l’UDSC e il servizio veterinario di confine possono delegare la loro attività di controllo, compresa la campionatura, alle autorità cantonali di esecuzione.
 
 <sup>4</sup> Nei casi secondo il capoverso 3 è compito delle autorità cantonali di esecuzione determinare i parametri da analizzare, prendere la decisione definitiva, ordinare le misure necessarie e riscuotere gli emolumenti.
+
+[^23-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 24
 
@@ -442,13 +444,13 @@ I controlli ufficiali devono includere:
 
 **Notifica**
 
-L’AFD può notificare l’importazione, il transito e l’esportazione di merci alle autorità cantonali di esecuzione.
+L’UDSC può notificare l’importazione, il transito e l’esportazione di merci alle autorità cantonali di esecuzione.
 
 #### Art. 26
 
 **Informazione**
 
-Su richiesta l’AFD comunica all’USAV i dati necessari per l’esecuzione della presente ordinanza in relazione con le imposizioni doganali.
+Su richiesta l’UDSC comunica all’USAV i dati necessari per l’esecuzione della presente ordinanza in relazione con le imposizioni doganali.
 
 ### Sezione 2: Importazione
 
@@ -456,7 +458,7 @@ Su richiesta l’AFD comunica all’USAV i dati necessari per l’esecuzione del
 
 **Esame della merce**
 
-<sup>1</sup> Al momento dell’importazione l’AFD esamina a campione se la merce corrisponde ai requisiti della legislazione sulle derrate alimentari.
+<sup>1</sup> Al momento dell’importazione l’ UDSC esamina a campione se la merce corrisponde ai requisiti della legislazione sulle derrate alimentari.
 
 <sup>2</sup> L’esame della merce deve avvenire in un luogo provvisto delle necessarie infrastrutture di controllo e in cui è possibile eseguire le analisi in maniera regolare, prelevare un numero di campioni adeguato alla gestione dei rischi e manipolare le derrate alimentari in maniera ineccepibile dal punto di vista igienico.
 
@@ -464,16 +466,16 @@ Su richiesta l’AFD comunica all’USAV i dati necessari per l’esecuzione del
 
 **Campionatura**
 
-<sup>1</sup> L’AFD può prelevare campioni di merce.
+<sup>1</sup> L’UDSC può prelevare campioni di merce.
 
 <sup>2</sup>
 
-All’AFD, l’USAV può:
+All’UDSC, l’USAV può:
 
 - a. richiedere di eseguire una campionatura per determinate merci;
 - b. ordinare di recapitare i campioni di determinate merci a un laboratorio particolarmente adatto per l’esame.
 
-<sup>3</sup> In caso di delega dell’attività di controllo secondo l’articolo 23 capoverso 3, l’AFD invia i campioni all’autorità cantonale di esecuzione del Cantone di destinazione della merce.
+<sup>3</sup> In caso di delega dell’attività di controllo secondo l’articolo 23 capoverso 3, l’UDSC invia i campioni all’autorità cantonale di esecuzione del Cantone di destinazione della merce.
 
 <sup>4</sup> Inoltre, la campionatura si basa sugli articoli 47–58.
 
@@ -481,7 +483,7 @@ All’AFD, l’USAV può:
 
 **Contestazioni**
 
-<sup>1</sup> L’AFD o le autorità cantonali di esecuzione contestano le merci che non soddisfano i requisiti della legislazione svizzera sulle derrate alimentari e adottano le misure necessarie.
+<sup>1</sup> L’UDSC o le autorità cantonali di esecuzione contestano le merci che non soddisfano i requisiti della legislazione svizzera sulle derrate alimentari e adottano le misure necessarie.
 
 <sup>2</sup> Comunicano per scritto il motivo della contestazione, il tipo di misure adottate e l’ammontare degli emolumenti secondo l’articolo 58 LDerr alla persona soggetta all’obbligo di dichiarazione secondo il diritto doganale.
 
@@ -493,7 +495,7 @@ All’AFD, l’USAV può:
 
 <sup>1</sup>
 
-L’AFD può adottare le seguenti misure:
+L’ UDSC può adottare le seguenti misure:
 
 - a. trasferire le merci contestate, per un esame approfondito, all’autorità cantonale di esecuzione; a tale scopo la persona soggetta all’obbligo di dichiarazione secondo il diritto doganale è tenuta a condurre le merci entro un termine determinato, a sue spese e a suo rischio e pericolo, all’autorità cantonale di esecuzione, senza modificarle;
 - b. obbligare la persona soggetta all’obbligo di dichiarazione a mettere a disposizione dell’autorità cantonale di esecuzione le merci contestate o sottoposte a campionamento; a tale scopo la persona soggetta all’obbligo di dichiarazione secondo il diritto doganale è tenuta a condurre le merci entro un termine determinato, senza modificarle, a sue spese e a suo rischio e pericolo, al proprio domicilio e in quel luogo tenerle a disposizione dell’autorità cantonale di esecuzione, senza modificarle;
@@ -525,7 +527,7 @@ Se le merci contestate sono trasferite per un esame approfondito all’autorità
 
 **Mancanza di documenti di accompagnamento**
 
-<sup>1</sup> L’AFD esamina al momento dell’imposizione doganale i documenti di accompagnamento necessari secondo l’articolo 86 capoverso 2 ODerr[^31-1].
+<sup>1</sup> L’UDSC esamina al momento dell’imposizione doganale i documenti di accompagnamento necessari secondo l’articolo 86 capoverso 2 ODerr[^31-1].
 
 <sup>2</sup> Le partite che al momento dell’importazione sono prive dei documenti di accompagnamento necessari secondo l’articolo 86 capoverso 2 ODerr possono essere respinte alla frontiera secondo le disposizioni dell’articolo 30 capoverso 1 lettera c.
 
@@ -535,7 +537,7 @@ Se le merci contestate sono trasferite per un esame approfondito all’autorità
 
 **Divieto di importazione**
 
-L’AFD esegue i divieti di importazione emanati dall’USAV.
+L’UDSC esegue i divieti di importazione emanati dall’USAV.
 
 ### Sezione 3: Transito
 
@@ -940,7 +942,7 @@ I laboratori nazionali di riferimento devono:
 
 <sup>3</sup> Soltanto le persone che dispongono di una delle formazioni menzionate nella presente ordinanza possono essere incaricate dei controlli ufficiali nel Cantone.
 
-<sup>4</sup> L’USAV e la Direzione generale delle dogane organizzano congiuntamente corsi destinati alle persone incaricate del controllo alla frontiera. Provvedono affinché il contenuto di questi corsi corrisponda allo stato più recente della tecnica e della scienza.
+<sup>4</sup> L’USAV e l’Ufficio federale della dogana e della sicurezza dei confini organizzano congiuntamente corsi destinati alle persone incaricate del controllo alla frontiera. Provvedono affinché il contenuto di questi corsi corrisponda allo stato più recente della tecnica e della scienza.
 
 <sup>5</sup> Le persone che controllano le aziende di sezionamento con un’autorizzazione di cui all’articolo 21 ODerr[^62-1], devono disporre di un attestato di capacità di veterinario ufficiale secondo l’ordinanza del 16 novembre 2011[^62-2] concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico.
 
@@ -1435,7 +1437,7 @@ Le autorità cantonali di esecuzione trattano i dati personali:
 - a. raccolti durante i controlli in aziende alimentari o che si occupano di oggetti d’uso;
 - b. trasmessi da un’altra autorità di esecuzione.
 
-<sup>3</sup> L’AFD tratta i dati personali necessari per il controllo dell’importazione, del transito e dell’esportazione di derrate alimentari e oggetti d’uso.
+<sup>3</sup> L’UDSC tratta i dati personali necessari per il controllo dell’importazione, del transito e dell’esportazione di derrate alimentari e oggetti d’uso.
 
 <sup>4</sup> L’USAV tratta i dati personali necessari a svolgere i suoi compiti nell’ambito del coordinamento, dell’esecuzione, del rilascio di autorizzazioni, dell’analisi dei rischi e dell’informazione della popolazione, nonché a gestire situazioni di emergenza e crisi.
 
@@ -1482,7 +1484,7 @@ Le autorità cantonali di esecuzione scambiano dati personali se constatano o ha
 
 <sup>1</sup>
 
-L’USAV, l’AFD e le autorità cantonali di esecuzione scambiano dati personali:
+L’USAV, l’UDSC e le autorità cantonali di esecuzione scambiano dati personali:
 
 - a. per gestire situazioni di emergenza e crisi;
 - b. se indugiare costituisce un pericolo;

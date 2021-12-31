@@ -4,20 +4,20 @@ title: Verordnung vom 27. Mai 2020 über den Vollzug der Lebensmittelgesetzgebun
 short: LMVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: de
-version: 2021-11-23
+version: 2022-01-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20211123/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20211123-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20211123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über den Vollzug der Lebensmittelgesetzgebung
+# Verordnungüber den Vollzug der Lebensmittelgesetzgebung
 
 (LMVV)
 
-vom 27. Mai 2020 (Stand am 23. November 2021)
+vom 27. Mai 2020 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -419,13 +419,15 @@ Die kantonalen Vollzugsbehörden übermitteln dem BLV im Falle einer Beanstandun
 
 **Vollzugsbehörden**
 
-<sup>1</sup> Die Eidgenössische Zollverwaltung (EZV) führt die amtlichen Kontrollen bei ein-, durch- oder ausgeführten Lebensmitteln, Gebrauchsgegenständen, Rohstoffen, Zwischenprodukten, Halbfabrikaten, Ausgangsprodukten und den zur Lebensmittelproduktion bestimmten Stoffen durch.
+<sup>1</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^23-1] führt die amtlichen Kontrollen bei ein-, durch- oder ausgeführten Lebensmitteln, Gebrauchsgegenständen, Rohstoffen, Zwischenprodukten, Halbfabrikaten, Ausgangsprodukten und den zur Lebensmittelproduktion bestimmten Stoffen durch.
 
-<sup>2</sup> Sie kann für ihre Tätigkeit die kantonalen Vollzugsbehörden beiziehen.
+<sup>2</sup> Es kann für ihre Tätigkeit die kantonalen Vollzugsbehörden beiziehen.
 
-<sup>3</sup> In besonderen Fällen, namentlich wenn bei der amtlichen Kontrolle von Lebensmitteln oder Gebrauchsgegenständen Laboranalysen erforderlich sind oder komplexe Fragen aufgeworfen werden, können die EZV und der grenztierärztliche Dienst ihre Kontrolltätigkeit, einschliesslich der Probenahmen, an die kantonalen Vollzugsbehörden übertragen.
+<sup>3</sup> In besonderen Fällen, namentlich wenn bei der amtlichen Kontrolle von Lebensmitteln oder Gebrauchsgegenständen Laboranalysen erforderlich sind oder komplexe Fragen aufgeworfen werden, können das BAZG und der grenztierärztliche Dienst ihre Kontrolltätigkeit, einschliesslich der Probenahmen, an die kantonalen Vollzugsbehörden übertragen.
 
 <sup>4</sup> In Fällen nach Absatz 3 ist es die Aufgabe der kantonalen Vollzugsbehörde, die zu untersuchenden Parameter zu bestimmen, den abschliessenden Entscheid zu treffen, die erforderlichen Massnahmen anzuordnen und die Gebühren zu erheben.
+
+[^23-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 24
 
@@ -445,13 +447,13 @@ Die amtlichen Kontrollen müssen umfassen:
 
 **Meldung**
 
-Die EZV kann die Ein-, die Durch- und die Ausfuhr von Waren den kantonalen Vollzugsbehörden melden.
+Das BAZG kann die Ein-, die Durch- und die Ausfuhr von Waren den kantonalen Vollzugsbehörden melden.
 
 #### Art. 26
 
 **Auskunft**
 
-Die EZV teilt dem BLV auf Verlangen die für den Vollzug dieser Verordnung erforderlichen Angaben im Zusammenhang mit den Zollveranlagungen mit.
+Das BAZG teilt dem BLV auf Verlangen die für den Vollzug dieser Verordnung erforderlichen Angaben im Zusammenhang mit den Zollveranlagungen mit.
 
 ### 2. Abschnitt: Einfuhr
 
@@ -459,7 +461,7 @@ Die EZV teilt dem BLV auf Verlangen die für den Vollzug dieser Verordnung erfor
 
 **Warenprüfung**
 
-<sup>1</sup> Die EZV prüft bei der Einfuhr stichprobenweise, ob die Waren den Anforderungen der Lebensmittelgesetzgebung entsprechen.
+<sup>1</sup> Das BAZG prüft bei der Einfuhr stichprobenweise, ob die Waren den Anforderungen der Lebensmittelgesetzgebung entsprechen.
 
 <sup>2</sup> Die Warenprüfung hat an einem Ort zu erfolgen, an dem die erforderlichen Kontrolleinrichtungen zur Verfügung stehen und die Untersuchungen ordnungsgemäss durchgeführt, eine dem Risikomanagement angemessene Zahl von Proben entnommen und Lebensmittel hygienisch einwandfrei gehandhabt werden können.
 
@@ -467,16 +469,16 @@ Die EZV teilt dem BLV auf Verlangen die für den Vollzug dieser Verordnung erfor
 
 **Probenahme**
 
-<sup>1</sup> Die EZV kann Warenproben erheben.
+<sup>1</sup> Das BAZG kann Warenproben erheben.
 
 <sup>2</sup>
 
-Das BLV kann die EZV:
+Das BLV kann das BAZG:
 
 - a. ersuchen, für bestimmte Waren eine Probenahme vorzunehmen;
 - b. anweisen, Proben bestimmter Waren einem für die Prüfung besonders geeigneten Laboratorium zuzustellen.
 
-<sup>3</sup> Im Falle einer Übertragung der Kontrolltätigkeit nach Artikel 23 Absatz 3 sendet die EZV die Proben an die kantonale Vollzugsbehörde des Bestimmungskantons der Waren.
+<sup>3</sup> Im Falle einer Übertragung der Kontrolltätigkeit nach Artikel 23 Absatz 3 sendet das BAZG die Proben an die kantonale Vollzugsbehörde des Bestimmungskantons der Waren.
 
 <sup>4</sup> Im Übrigen richtet sich die Probenahme nach den Artikeln 47−58.
 
@@ -484,7 +486,7 @@ Das BLV kann die EZV:
 
 **Beanstandungen**
 
-<sup>1</sup> Die EZV oder die kantonalen Vollzugsbehörden beanstanden Waren, die die Anforderungen der schweizerischen Lebensmittelgesetzgebung nicht erfüllen, und ergreifen die nötigen Massnahmen.
+<sup>1</sup> Das BAZG oder die kantonalen Vollzugsbehörden beanstanden Waren, die die Anforderungen der schweizerischen Lebensmittelgesetzgebung nicht erfüllen, und ergreifen die nötigen Massnahmen.
 
 <sup>2</sup> Sie teilen der zollrechtlich anmeldepflichtigen Person den Grund der Beanstandung, die Art der ergriffenen Massnahmen und die Höhe der Gebühren nach Artikel 58 LMG schriftlich mit.
 
@@ -496,26 +498,26 @@ Das BLV kann die EZV:
 
 <sup>1</sup>
 
-Die EZV kann folgende Massnahmen treffen:
+Das BAZG kann folgende Massnahmen treffen:
 
-- a. Sie kann beanstandete Waren zur näheren Prüfung an die kantonale Vollzugsbehörde überweisen; dabei ist die zollrechtlich anmeldepflichtige Person verpflichtet, die Waren innert einer bestimmten Frist auf eigene Kosten und Gefahr der kantonalen Vollzugsbehörde unverändert zuzuführen.
-- b. Sie kann die anmeldepflichtige Person verpflichten, beanstandete oder beprobte Waren der kantonalen Vollzugsbehörde zur Verfügung zu stellen; dabei muss die zollrechtlich anmeldepflichtige Person die Waren innert einer bestimmten Frist, auf eigene Kosten und Gefahr, ihrem Domizil unverändert zuführen und dort der kantonalen Vollzugsbehörde unverändert zur Verfügung halten.
+- a. Es kann beanstandete Waren zur näheren Prüfung an die kantonale Vollzugsbehörde überweisen; dabei ist die zollrechtlich anmeldepflichtige Person verpflichtet, die Waren innert einer bestimmten Frist auf eigene Kosten und Gefahr der kantonalen Vollzugsbehörde unverändert zuzuführen.
+- b. Es kann die anmeldepflichtige Person verpflichten, beanstandete oder beprobte Waren der kantonalen Vollzugsbehörde zur Verfügung zu stellen; dabei muss die zollrechtlich anmeldepflichtige Person die Waren innert einer bestimmten Frist, auf eigene Kosten und Gefahr, ihrem Domizil unverändert zuführen und dort der kantonalen Vollzugsbehörde unverändert zur Verfügung halten.
 - c.
 
-  Sie kann beanstandete Waren zurückweisen, wenn:
+  Es kann beanstandete Waren zurückweisen, wenn:
 
   - 1\. die festgestellten Mängel nicht behoben werden können; und
   - 2\. die beanstandeten Waren nicht offensichtlich gesundheitsschädlich sind.
 
 - d.
 
-  Sie kann Waren beschlagnahmen, wenn dies zum Schutz der Konsumentinnen und der Konsumenten erforderlich ist und wenn:
+  Es kann Waren beschlagnahmen, wenn dies zum Schutz der Konsumentinnen und der Konsumenten erforderlich ist und wenn:
 
   - 1\. die Waren beanstandet worden sind;
   - 2\. der begründete Verdacht besteht, dass die betreffenden Waren die Vorschriften der schweizerischen Lebensmittelgesetzgebung nicht erfüllen; oder
   - 3\. die Waren zurückgewiesen und innert der von den Zollstellen festgesetzten Frist nicht weggeführt worden sind.
 
-- e. Sie kann auf Ersuchen der kantonalen Vollzugsbehörde weitere Massnahmen nach Artikel 34 LMG ergreifen.
+- e. Es kann auf Ersuchen der kantonalen Vollzugsbehörde weitere Massnahmen nach Artikel 34 LMG ergreifen.
 
 <sup>2</sup>
 
@@ -528,7 +530,7 @@ Werden beanstandete Waren zur näheren Prüfung an die kantonale Vollzugsbehörd
 
 **Fehlen von Begleitdokumenten**
 
-<sup>1</sup> Die EZV prüft bei der Zollveranlagung die nach Artikel 86 Absatz 2 LGV[^31-1] erforderlichen Begleitdokumente.
+<sup>1</sup> Das BAZG prüft bei der Zollveranlagung die nach Artikel 86 Absatz 2 LGV[^31-1] erforderlichen Begleitdokumente.
 
 <sup>2</sup> Sendungen, denen bei der Einfuhr die nach Artikel 86 Absatz 2 LGV erforderlichen Begleitdokumente fehlen, können entsprechend den Vorgaben nach Artikel 30 Absatz 1 Buchstabe c zurückgewiesen werden.
 
@@ -538,7 +540,7 @@ Werden beanstandete Waren zur näheren Prüfung an die kantonale Vollzugsbehörd
 
 **Einfuhrverbot**
 
-Die EZV vollzieht die vom BLV erlassenen Einfuhrverbote.
+Das BAZG vollzieht die vom BLV erlassenen Einfuhrverbote.
 
 ### 3. Abschnitt: Durchfuhr
 
@@ -1440,7 +1442,7 @@ Die kantonalen Vollzugsbehörden bearbeiten Personendaten, die:
 - a. bei Kontrollen von Lebensmittel- und Gebrauchsgegenständebetrieben erhoben werden;
 - b. von einer anderen Vollzugsbehörde an sie weitergegeben werden.
 
-<sup>3</sup> Die EZV bearbeitet die Personendaten, die sie für die Kontrolle der Ein-, Durch- und Ausfuhr von Lebensmitteln und Gebrauchsgegenständen benötigt.
+<sup>3</sup> Das BAZG bearbeitet die Personendaten, die sie für die Kontrolle der Ein-, Durch- und Ausfuhr von Lebensmitteln und Gebrauchsgegenständen benötigt.
 
 <sup>4</sup> Das BLV bearbeitet die Personendaten, die es zur Erfüllung seiner Aufgaben in den Bereichen Koordination, Vollzug, Bewilligungserteilung, Risikoanalyse und Bevölkerungsinformation sowie zur Bewältigung von Notsituationen und Krisen benötigt.
 
@@ -1487,7 +1489,7 @@ Die kantonalen Vollzugsbehörden tauschen Personendaten aus, wenn sie feststelle
 
 <sup>1</sup>
 
-Das BLV, die EZV und die kantonalen Vollzugsbehörden tauschen Personendaten aus:
+Das BLV, das BAZG und die kantonalen Vollzugsbehörden tauschen Personendaten aus:
 
 - a. zur Bewältigung von Notsituationen und Krisen;
 - b. bei Gefahr im Verzug;
