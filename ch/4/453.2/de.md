@@ -3,18 +3,18 @@ sr: "453.2"
 title: Verordnung vom 20. April 2016 über die Kontrolle der rechtmässigen Herkunft von eingeführten Erzeugnissen der Meeresfischerei
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/272"
 language: de
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2016-04-20
 in_force: 2017-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/272/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2016-272-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/272/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/272/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-272-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/272/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Kontrolle der rechtmässigen Herkunft von eingeführten Erzeugnissen der Meeresfischerei
 
-vom 20. April 2016 (Stand am 1. April 2021)
+vom 20. April 2016 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -196,7 +196,9 @@ Für die Voranmeldung muss die verantwortliche Person folgende Dokumente als Sca
 
 **Kontrollorgane**
 
-Das BLV und die Eidgenössische Zollverwaltung (EZV) sind als Kontrollorgane für den Vollzug dieser Verordnung zuständig.
+Das BLV und das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^13-1] sind als Kontrollorgane für den Vollzug dieser Verordnung zuständig.
+
+[^13-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 14
 
@@ -220,7 +222,7 @@ Die Kontrollorgane beanstanden Sendungen, die nicht aus Flaggenstaaten nach Anha
 
 **Massnahmen**
 
-<sup>1</sup> Die EZV hält Sendungen bei der Zollstelle oder der Grenzkontrollstelle zurück, denen die Freigabenummer fehlt oder bei denen sie den Verdacht hat, dass die Einfuhrbedingungen nicht erfüllt sind. Sie informiert das BLV; dieses entscheidet über das weitere Vorgehen.
+<sup>1</sup> Das BAZG hält Sendungen bei der Zollstelle oder der Grenzkontrollstelle zurück, denen die Freigabenummer fehlt oder bei denen es den Verdacht hat, dass die Einfuhrbedingungen nicht erfüllt sind. Es informiert das BLV; dieses entscheidet über das weitere Vorgehen.
 
 <sup>2</sup> Das BLV verweigert bei beanstandeten Sendungen die Freigabe.
 
@@ -246,7 +248,7 @@ Widerhandlungen gegen die Artikel 4, 8, 11 und 12 sind strafbar nach Artikel 26 
 
 **Informationsaustausch zwischen Kontrollorganen**
 
-Das BLV und die EZV geben einander die Informationen weiter, die für die Erfüllung ihrer Aufgaben erforderlich sind.
+Das BLV und das BAZG geben einander die Informationen weiter, die für die Erfüllung ihrer Aufgaben erforderlich sind.
 
 #### Art. 20
 

@@ -3,18 +3,18 @@ sr: "453.2"
 title: "Ordonnance du 20 avril 2016 sur le contrôle de l'origine licite des produits de la pêche maritime importés"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/272"
 language: fr
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2016-04-20
 in_force: 2017-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/272/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2016-272-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/272/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/272/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-272-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/272/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le contrôle de l’origine licite des produits de la pêche maritime importés
 
-du 20 avril 2016 (Etat le 1<sup>er</sup> avril 2021)
+du 20 avril 2016 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -196,7 +196,9 @@ Pour la notification préalable, la personne responsable doit enregistrer dans l
 
 **Organes de contrôle**
 
-L’OSAV et l’Administration fédérale des douanes (AFD) sont compétents pour l’exécution de la présente ordonnance en tant qu’organes de contrôle.
+L’OSAV et l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^13-1] sont compétents pour l’exécution de la présente ordonnance en tant qu’organes de contrôle.
+
+[^13-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 14
 
@@ -220,7 +222,7 @@ Les organes de contrôle contestent les lots qui ne proviennent pas des États d
 
 **Mesures**
 
-<sup>1</sup> L’AFD retient au bureau de douane ou au poste d’inspection frontalier les lots dépourvus du numéro de mainlevée ou qui ne semblent pas remplir les conditions d’importation. Elle informe l’OSAV, qui décide de la suite à donner.
+<sup>1</sup> L’OFDF retient au bureau de douane ou au poste d’inspection frontalier les lots dépourvus du numéro de mainlevée ou qui ne semblent pas remplir les conditions d’importation. Il informe l’OSAV, qui décide de la suite à donner.
 
 <sup>2</sup> L’OSAV refuse la mainlevée des lots contestés.
 
@@ -246,7 +248,7 @@ Les infractions aux art. 4, 8, 11 et 12 sont punies conformément à l’art. 26
 
 **Échange d’informations entre les organes de contrôle**
 
-L’OSAV et l’AFD échangent toutes les informations nécessaires à l’accomplissement de leurs tâches.
+L’OSAV et l’OFDF échangent toutes les informations nécessaires à l’accomplissement de leurs tâches.
 
 #### Art. 20
 
@@ -607,13 +609,13 @@ Annexe 1*[^t-1]*
 <tr><td></td><td colspan="2">ex 5600</td></tr>
 </table>
 
-Annexe 2[^t-2]
+Annexe 2*[^t-2]*
 
 (art. 4, al. 2, 9, al. 1, 15, 26, al. 2, et 27)
 
 ## États du pavillon en provenance desquels des produits de pêche peuvent être importés sans le certificat de capture et sans la procédure de notification préalable
 
-[^t-2]: Mise à jour selon le ch. I de l’O du DFI du 4 sept. 2018, en vigueur depuis le 1<sup>er</sup> nov. 2018 ([RO 2018 3369](https://fedlex.data.admin.ch/eli/oc/2018/546)).
+[^t-2]: Mise à jour par le ch. I de l’O du DFI du 4 sept. 2018, en vigueur depuis le 1<sup>er</sup> nov. 2018 ([RO 2018 3369](https://fedlex.data.admin.ch/eli/oc/2018/546)).
 
 <table>
 <tr><th>État du pavillon</th><th>Code ISO</th></tr>

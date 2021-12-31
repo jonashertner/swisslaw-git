@@ -3,18 +3,18 @@ sr: "453.2"
 title: Ordinanza del 20 aprile 2016 concernente il controllo della provenienza legale dei prodotti della pesca marittima importati
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/272"
 language: it
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2016-04-20
 in_force: 2017-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/272/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2016-272-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/272/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/272/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-272-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/272/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente il controllo della provenienza legale dei prodotti della pesca marittima importati
 
-del 20 aprile 2016 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
+del 20 aprile 2016 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -196,7 +196,9 @@ Per la notifica preventiva, la persona responsabile deve registrare le scansioni
 
 **Organi di controllo**
 
-L’USAV e l’Amministrazione federale delle dogane (AFD) sono gli organi di controllo responsabili dell’applicazione della presente ordinanza.
+L’USAV e l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^13-1] gli organi di controllo responsabili dell’applicazione della presente ordinanza.
+
+[^13-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 14
 
@@ -220,7 +222,7 @@ Gli organi di controllo contestano le partite che non provengono dagli Stati di 
 
 **Provvedimenti**
 
-<sup>1</sup> L’AFD trattiene nell’ufficio doganale o nel posto di ispezione frontaliero le partite per le quali manca il numero di rilascio oppure per le quali vi è il sospetto che le condizioni di importazione non siano rispettate. Informa l’USAV, che decide la procedura da seguire.
+<sup>1</sup> L’UDSC trattiene nell’ufficio doganale o nel posto di ispezione frontaliero le partite per le quali manca il numero di rilascio oppure per le quali vi è il sospetto che le condizioni di importazione non siano rispettate. Informa l’USAV, che decide la procedura da seguire.
 
 <sup>2</sup> L’USAV nega il rilascio delle partite contestate.
 
@@ -246,7 +248,7 @@ Le infrazioni degli articoli 4, 8, 11 e 12 sono punibili ai sensi dell’articol
 
 **Scambio di informazioni tra gli organi di controllo**
 
-L’USAV e l’AFD si scambiano le informazioni necessarie all’adempimento dei loro compiti.
+L’USAV e l’UDSC si scambiano le informazioni necessarie all’adempimento dei loro compiti.
 
 #### Art. 20
 
@@ -385,7 +387,7 @@ Uno Stato di bandiera può essere inserito nell’allegato 2 se:
 
 La presente ordinanza entra in vigore il 1° marzo 2017.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 4 cpv. 1 e 26 cpv. 1)
 
@@ -596,7 +598,6 @@ Allegato 1*[^t-1]*
 <tr><td></td><td colspan="2">ex 1999</td></tr>
 <tr><td></td><td colspan="2">ex 2010</td></tr>
 <tr><td></td><td colspan="2">ex 2090</td></tr>
-<tr><th colspan="2">Voce di tariffa</th><th></th></tr>
 <tr><td>1605</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="2">ex 1000</td></tr>
 <tr><td></td><td colspan="2">ex 2100</td></tr>
@@ -608,7 +609,7 @@ Allegato 1*[^t-1]*
 <tr><td></td><td colspan="2">ex 5600</td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 4 cpv. 2, 9 cpv. 1, 15, 26 cpv. 2 e 27)
 
