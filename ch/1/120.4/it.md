@@ -4,11 +4,11 @@ title: Ordinanza del 4 marzo 2011 sui controlli di sicurezza relativi alle perso
 short: OCSP
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/155"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2011-03-04
 in_force: 2011-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2011-155-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-155-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20210101/it"
 
 (OCSP)
 
-del 4 marzo 2011 (Stato 1° gennaio 2021)
+del 4 marzo 2011 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -36,7 +36,7 @@ ordina:
 
 La presente ordinanza disciplina i controlli di sicurezza relativi alle persone secondo gli articoli 19–21 LMSI e gli articoli 23 capoverso 2 lettera d, 103 capoverso 3 lettera d e 113 capoverso 1 lettera d LM[^1-1].
 
-[^1-1]: L’art. 113 cpv. 1 lett. d LM è stato modificato dalla LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° luglio 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)). Vedi ora: art. 113 cpv. 4 lett. d LM.
+[^1-1]: L’art. 113 cpv. 1 lett. d LM è stato modificato dalla LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)). Vedi ora: art. 113 cpv. 4 lett. d LM.
 
 #### Art. 2
 
@@ -564,7 +564,7 @@ Il DDPS propone al Consiglio federale l’aggiornamento degli allegati 1 e 2 alm
 
 La presente ordinanza entra in vigore il 1° aprile 2011.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 4 cpv. 1)
 
@@ -653,7 +653,7 @@ Gestori dei rischi dei Dipartimenti e della Cancelleria federale
 <tr><td>Ufficio federale di giustizia</td><td></td></tr>
 <tr><td>In generale</td><td>Vicedirettori Capo dell’informazione Aggiunti di direzione Traduttori</td></tr>
 <tr><td>Ambito direzionale Assistenza giudiziaria internazionale</td><td>Responsabile dell’ambito direzionale e vice Capisettore e vice Collaboratori scientifici (giuristi) Impiegati specialisti</td></tr>
-<tr><td>Segreteria di Stato della migrazione**[^annex1-lvlu1-lvl2-lvl24-1]**</td><td></td></tr>
+<tr><td>Segreteria di Stato della migrazione[^annex1-lvlu1-lvl2-lvl24-1]</td><td></td></tr>
 <tr><td>In generale</td><td>Capi degli ambiti direzionali e sostCapo dello Stato maggiore della direzione e sost Capo Informazione e comunicazione e sost Capidivisione e sost</td></tr>
 <tr><td></td><td>Collaboratori che hanno accesso a informazioni e materiale a partire dal livello di classificazione CONFIDENZIALE oppure alle zone protette 2 o alle zone protette di livello superiore di impianti militari Aggiunti dei capi degli ambiti direzionali Assistenti dei membri della direzione Aggiunti dei capidivisione Assistenti dei capidivisione Addetti per la migrazione</td></tr>
 <tr><td>Servizi linguistici</td><td>Tutte</td></tr>
@@ -725,13 +725,15 @@ Gestori dei rischi dei Dipartimenti e della Cancelleria federale
 <tr><td>Ufficio federale del personale</td><td>Capo Basi e sistemi Capo e sost. Gestione delle indennità Esperto Gestione delle indennità Capo e collaboratori Servizio giuridico Sost. capo Gestione del personale e controlling Capo e sost. Stato maggiore e comunicazione Assistente della direzione Capo Centro servizi Capo Posta e registrazione</td></tr>
 <tr><td>Amministrazione federale delle finanze</td><td>Tutte, eccettuati i collaboratori dell’Ufficio centrale di compensazione</td></tr>
 <tr><td>Amministrazione federale delle contribuzioni</td><td>Capodivisione principale e sost. Capodivisione Capo e sost. Politica fiscale Capo e collaboratori Stato maggiore di direzione che hanno accesso ad affari confidenziali del Consiglio federale Collaboratori Divisione degli affari internazionali (esclusa la segreteria) Capo e sost. Stato maggiore Legislazione Capo Personale e organizzazione Capo Finanze e uscite Capo e collaboratori Ispettorato delle finanze Capo e collaboratori Acquisto di prestazioni informatica Capo e sost. Tassa d’esenzione dall’obbligo militare</td></tr>
-<tr><td>Amministrazione federale delle dogane</td><td>Personale civile per impieghi internazionali Coordinatori Learning Management System Personale addetto al rilascio di certificati elettronici Capo Acquisti I e Acquisti IV Collaboratori Ufficio centrale antifrode doganale Collaboratori sezione Veicoli e tasse sul traffico stradale Collaboratori Sezione antifrode doganale Collaboratori team MOBE con accesso a RIPOL Collaboratori uffici doganali aeroportuali con accesso a RIPOL Collaboratori con accesso a sistemi classificati</td></tr>
+<tr><td>Ufficio federale della dogana e della sicurezza dei confini[^annex1-lvlu1-lvl2-lvl26-1]</td><td>Personale civile per impieghi internazionali Coordinatori Learning Management System Personale addetto al rilascio di certificati elettronici Capo Acquisti I e Acquisti IV Collaboratori Ufficio centrale antifrode doganale Collaboratori sezione Veicoli e tasse sul traffico stradale Collaboratori Sezione antifrode doganale Collaboratori team MOBE con accesso a RIPOL Collaboratori uffici doganali aeroportuali con accesso a RIPOL Collaboratori con accesso a sistemi classificati</td></tr>
 <tr><td>Corpo delle guardie di confine</td><td>Tutte</td></tr>
 <tr><td>Ufficio federale dell’informatica e della telecomunicazione</td><td>Tutte</td></tr>
 <tr><td>Ufficio federale delle costruzioni e della logistica</td><td>Tutte</td></tr>
 <tr><td>Controllo federale delle finanze</td><td>Tutte</td></tr>
 <tr><td>Autorità federale di vigilanza sui mercati finanziari</td><td>Presidente del consiglio di amministrazione</td></tr>
 </table>
+
+[^annex1-lvlu1-lvl2-lvl26-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 598](https://fedlex.data.admin.ch/eli/oc/2021/598)).
 
 ### 2.7 Dipartimento federale dell’economia, della formazione e della ricerca
 
@@ -773,7 +775,7 @@ Gestori dei rischi dei Dipartimenti e della Cancelleria federale
 <tr><td>Ispettorato federale della sicurezza nucleare</td><td>Tutte</td></tr>
 </table>
 
-### 3. Funzioni in seno ai Servizi del Parlamento****
+### 3. Funzioni in seno ai Servizi del Parlamento
 
 [^annex1-lvlu1-lvl3-1]
 
@@ -800,7 +802,7 @@ Gestori dei rischi dei Dipartimenti e della Cancelleria federale
 <tr><td>Apprendisti</td><td>Tutte</td></tr>
 </table>
 
-### 4. Funzioni in seno al Tribunale penale federale****
+### 4. Funzioni in seno al Tribunale penale federale
 
 [^annex1-lvlu1-lvl4-1]
 
@@ -815,7 +817,7 @@ Collaboratori che concorrono alla procedura di autorizzazione secondo l’artico
 [^annex1-lvlu1-lvl4a-1]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
 [^annex1-lvlu1-lvl4a-2]: Elenco secondo comunicazione del Tribunale amministrativo federale.
 
-### 5. Funzioni in seno al Ministero pubblico della Confederazione****
+### 5. Funzioni in seno al Ministero pubblico della Confederazione
 
 [^annex1-lvlu1-lvl5-1]
 
@@ -827,7 +829,7 @@ Tutte, eccettuato il procuratore generale della Confederazione e il sostituto pr
 
 Oltre che per le funzioni elencate sopra, un controllo di sicurezza relativo alle persone deve essere eseguito anche quando tale controllo è previsto da convenzioni internazionali sulla protezione delle informazioni o da altri accordi internazionali. Ciò può essere il caso ad esempio quando la persona interessata deve poter accedere, all’estero, a informazioni classificate o a zone militari vietate.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 5 cpv. 1)
 

@@ -4,11 +4,11 @@ title: Verordnung vom 4. März 2011 über die Personensicherheitsprüfungen (PSP
 short: PSPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/155"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2011-03-04
 in_force: 2011-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2011-155-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-155-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20210101/de"
 
 (PSPV)
 
-vom 4. März 2011 (Stand am 1. Januar 2021)
+vom 4. März 2011 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -64,7 +64,7 @@ In dieser Verordnung bedeuten:
 
 <sup>3</sup> Die Fachstelle PSP VBS erhebt für die Fachstelle PSP BK die Daten nach Artikel 20 Absatz 2 Buchstaben a–d BWIS. Zur Verifizierung der für die Personensicherheitsprüfung notwendigen Daten hat die Fachstelle PSP BK über ein Abrufverfahren direkt Zugriff auf die Register und Datenbanken nach Artikel 19 Absatz 1. Sie kann diesbezüglich auch direkt an die Sicherheitsbehörden des Bundes und der Kantone gelangen.
 
-<sup>4</sup> ...[^3-1]
+<sup>4</sup> …[^3-1]
 
 [^3-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 2012, mit Wirkung seit 16. Juli 2012 ([AS 2012 3765](https://fedlex.data.admin.ch/eli/oc/2012/429)).
 
@@ -563,7 +563,7 @@ Das VBS beantragt dem Bundesrat mindestens alle fünf Jahre die Aktualisierung d
 
 Diese Verordnung tritt am 1. April 2011 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 4 Abs. 1)
 
@@ -653,7 +653,7 @@ Risikomanager/innen der Departemente und der Bundeskanzlei
 <tr><td>Bundesamt für Justiz</td><td></td></tr>
 <tr><td>Generell</td><td>Vizedirektorinnen/Vizedirektoren Informationschef/in Adjunktinnen/Adjunkte Direktion Übersetzer/innen</td></tr>
 <tr><td>Direktionsbereich Internationale Rechtshilfe</td><td>Chef/in Direktionsbereich und Stv. Chef/in Fachbereiche und Stv. Wissenschaftliche Mitarbeiter/innen (Juristinnen/Juristen) Fachangestellte</td></tr>
-<tr><td>Staatssekretariat für Migration**[^annex1-lvlu1-lvl2-lvl24-1]**</td><td></td></tr>
+<tr><td>Staatssekretariat für Migration[^annex1-lvlu1-lvl2-lvl24-1]</td><td></td></tr>
 <tr><td>Generell</td><td>Leiter/innen der Direktionsbereiche und Stv. Chef/in Stab der Amtsleitung und Stv. Chef/in Information und Kommunikation und Stv. Abteilungschefinnen/Abteilungschefs und Stv. Mitarbeiter/innen mit Zugang zu Informationen und Material ab Klassifizierungsstufe VERTRAULICH oder zu militärischen Anlagen ab Schutzzone 2 Adjunktinnen/Adjunkte der Direktionsbereichsleiter/innen Assistentinnen/Assistenten der Direktionsmitglieder Adjunktinnen/Adjunkte der Abteilungschefinnen/Abteilungschefs Assistentinnen/Assistenten der Abteilungschefinnen/Abteilungschefs Migrationsattachés</td></tr>
 <tr><td>Sprachdienste</td><td>sämtliche</td></tr>
 <tr><td>Dienst Personal</td><td>sämtliche</td></tr>
@@ -724,7 +724,7 @@ Risikomanager/innen der Departemente und der Bundeskanzlei
 <tr><td>Eidgenössisches Personalamt</td><td>Leiter/in Grundlagen und Systeme Leiter/in Vergütungsmanagement und Stv. Experte/Expertin Vergütungsmanagement Leiter/in und Mitarbeiter/innen Rechtsdienst Stv. Leiter Personalwirtschaft und Controlling Leiter/in Stab und Kommunikation und Stv. Direktionsassistent/in Leiter/in Servicecenter Leiter/in Post und Registratur</td></tr>
 <tr><td>Eidgenössische Finanzverwaltung</td><td>sämtliche, ausgenommen Mitarbeiter/innen der Zentralen Ausgleichstelle</td></tr>
 <tr><td>Eidgenössische Steuerverwaltung</td><td>Hauptabteilungschef/in und Stv. Abteilungschef/in Leiter/in Steuerpolitik und Stv. Leiter/in und Mitarbeiter/innen Direktionsstab mit Zugang zu vertraulichen Bundesratsgeschäften Mitarbeiter/innen Abteilung für Internationales (ausgenommen Sekretariat) Leiter/in Stabstelle Gesetzgebung und Stv. Leiter/in Personal und Organisation Leiter/in Finanzen und Ausgaben Leiter/in und Mitarbeiter/innen Finanzinspektorat Leiter/in und Mitarbeiter/innen Leistungsbezug Informatik Leiter/in Wehrpflichtersatzabgabe und Stv.</td></tr>
-<tr><td>Eidgenössische Zollverwaltung</td><td>ziviles Personal für internationale Einsätze Koordinatoren Learning Management System Aussteller/innen von elektronischen Zertifikaten Leiter/in Beschaffung, Einkauf I und Einkauf IV Mitarbeiter/innen Sektion Zentralstelle Zollfahndung Mitarbeiter/innen Sektion Fahrzeuge und Strassenverkehrsabgaben Mitarbeiter/innen Zollfahndung Mitarbeiter/innen MOBE-Teams mit Zugriff auf Ripol Mitarbeiter/innen Flughafenzollämter mit Zugriff auf Ripol Mitarbeiter/innen mit Zugriff auf klassifizierte Systeme</td></tr>
+<tr><td>Bundesamt für Zoll und Grenzsicherheit[^annex1-lvlu1-lvl2-lvl26-1]</td><td>ziviles Personal für internationale Einsätze Koordinatoren Learning Management System Aussteller/innen von elektronischen Zertifikaten Leiter/in Beschaffung, Einkauf I und Einkauf IV Mitarbeiter/innen Sektion Zentralstelle Zollfahndung Mitarbeiter/innen Sektion Fahrzeuge und Strassenverkehrsabgaben Mitarbeiter/innen Zollfahndung Mitarbeiter/innen MOBE-Teams mit Zugriff auf Ripol Mitarbeiter/innen Flughafenzollämter mit Zugriff auf Ripol Mitarbeiter/innen mit Zugriff auf klassifizierte Systeme</td></tr>
 <tr><td>Grenzwachtkorps</td><td>sämtliche</td></tr>
 <tr><td>Bundesamt für Informatik und Telekommunikation</td><td>sämtliche</td></tr>
 <tr><td>Bundesamt für Bauten und Logistik</td><td>sämtliche</td></tr>
@@ -733,11 +733,13 @@ Risikomanager/innen der Departemente und der Bundeskanzlei
 <tr><td>Eidgenössische Finanzmarktaufsicht</td><td>Präsident/in Verwaltungsrat</td></tr>
 </table>
 
+[^annex1-lvlu1-lvl2-lvl26-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+
 ### 2.7 Eidgenössisches Departement für Wirtschaft, Bildung und Forschung
 
 <table>
 <tr><th>Verwaltungseinheiten</th><th>Funktionen</th></tr>
-<tr><td>GS-WBF</td><td>Leiter/in Dienst Recht und Sicherheit ...[^annex1-lvlu1-lvl2-lvl27-1] Verantwortliche/r für Dossier Bundesratsgeschäfte Leiter/in Kanzlei Systemadministrator/in Information Service Center ISCeco</td></tr>
+<tr><td>GS-WBF</td><td>Leiter/in Dienst Recht und Sicherheit …[^annex1-lvlu1-lvl2-lvl27-1] Verantwortliche/r für Dossier Bundesratsgeschäfte Leiter/in Kanzlei Systemadministrator/in Information Service Center ISCeco</td></tr>
 <tr><td>Staatssekretariat für Wirtschaft</td><td>Leiter/in Direktion Arbeit Leiter/in Direktion für Aussenwirtschaft Leiter/in Bilaterale Wirtschaftsbeziehungen Leiter/in Strategie und Koordination Bilaterale Wirtschaftsbeziehungen Leiter/in Ressort Exportkontrollpolitik Leiter/in Ressort Sanktionen Leiter/in Ressort Exportkontrollen/Industrieprodukte Leiter/in Ressort Exportkontrollen/Kriegsmaterial Leiter/in Ressort Amerika Leiter/in Ressort Mittlerer Osten und Afrika Leiter/in Ressort Asien/Ozeanien Leiter/in Ressort Europa/Zentralasien</td></tr>
 <tr><td>Bundesamt für wirtschaftliche Landesversorgung</td><td>sämtliche</td></tr>
 <tr><td>ETH-Bereich</td><td>Präsident/in des ETH-Rates</td></tr>
@@ -763,12 +765,12 @@ Risikomanager/innen der Departemente und der Bundeskanzlei
 <tr><td>Sektion Nichtionisierende Strahlung</td><td>Sektionschef/in und wissenschaftliche Mitarbeiter/innen</td></tr>
 <tr><td>**Bundesamt für Zivilluftfahrt**</td><td>Mitarbeiter/innen für Security-Fragen Leiter/in Luftfahrtentwicklung Leiter/in Sicherheit Infrastruktur Mitarbeiter/innen, die im Rahmen ihrer Aufsichtstätigkeit militärische Anlagen betreten müssen</td></tr>
 <tr><td>**Bundesamt für Strassen**</td><td>Mitarbeiter/innen mit Zugang zu Informationen und Material ab Klassifizierungsstufe VERTRAULICH oder zu militärischen Anlagen ab Schutzzone 2</td></tr>
-<tr><td>**Bundesamt für Kommunikation**</td><td>Leiter/in Frequenzmanagement (FM) Mitarbeiter/innen Frequenzplanung (FP) Mitarbeiter/innen Frequenzzuteilung (FZ) Mitarbeiter/innen Grundlagen Funk (GF) Mitarbeiter/innen Radiomonitoring (RM) Leiter/in Telecomdienste (TC) Mitarbeiter/innen Festnetzdienste und Grundversorgung (FG) Leiter/in Radio und Fernsehen (RTV) Rechtsberater/in des Direktors</td></tr>
-<tr><td>**Eidgenössisches** **Rohrleitun****g****s****inspektorat**</td><td>sämtliche</td></tr>
+<tr><td>**Bundesamt für** **Kommunikation**</td><td>Leiter/in Frequenzmanagement (FM) Mitarbeiter/innen Frequenzplanung (FP) Mitarbeiter/innen Frequenzzuteilung (FZ) Mitarbeiter/innen Grundlagen Funk (GF) Mitarbeiter/innen Radiomonitoring (RM) Leiter/in Telecomdienste (TC) Mitarbeiter/innen Festnetzdienste und Grundversorgung (FG) Leiter/in Radio und Fernsehen (RTV) Rechtsberater/in des Direktors</td></tr>
+<tr><td>**Eidgenössisches** **Rohrleitungs****inspektorat**</td><td>sämtliche</td></tr>
 <tr><td>**Eidgenössisches** **Nuklear****sicherheitsinspektorat**</td><td>sämtliche</td></tr>
 </table>
 
-### 3. Funktionen innerhalb der Parlamentsdienste****
+### 3. Funktionen innerhalb der Parlamentsdienste
 
 [^annex1-lvlu1-lvl3-1]
 
@@ -795,7 +797,7 @@ Risikomanager/innen der Departemente und der Bundeskanzlei
 <tr><td>Lernende</td><td>sämtliche</td></tr>
 </table>
 
-### 4. Funktionen innerhalb des Bundesstrafgerichts****
+### 4. Funktionen innerhalb des Bundesstrafgerichts
 
 [^annex1-lvlu1-lvl4-1]
 
@@ -810,7 +812,7 @@ Mitarbeiter/innen, die am Genehmigungsverfahren nach Artikel 36*b* des Verwaltun
 [^annex1-lvlu1-lvl4a-1]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
 [^annex1-lvlu1-lvl4a-2]: Liste gemäss Meldung des Bundesverwaltungsgerichts.
 
-### 5. Funktionen innerhalb der Bundesanwaltschaft****
+### 5. Funktionen innerhalb der Bundesanwaltschaft
 
 [^annex1-lvlu1-lvl5-1]
 
@@ -822,7 +824,7 @@ Sämtliche, ausgenommen Bundesanwältin/Bundesanwalt und stellvertretende Bundes
 
 Zusätzlich zu den oben aufgelisteten Funktionen muss eine Personensicherheitsprüfung durchgeführt werden, wenn internationale Informationsschutzabkommen oder andere internationale Abkommen eine solche vorsehen. Dies kann dann der Fall sein, wenn die betreffende Person Zugang zu im Ausland als klassifiziert geltenden Informationen oder militärischen Sperrzonen erhalten soll.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 5 Abs. 1)
 
@@ -958,6 +960,6 @@ Anhang 3
 
 ## Änderung bisherigen Rechts
 
-...[^annex3-lvlu1-1]
+…[^annex3-lvlu1-1]
 
 [^annex3-lvlu1-1]: Die Änderungen können unter [AS 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)konsultiert werden.

@@ -4,11 +4,11 @@ title: Ordonnance du 4 mars 2011 sur les contrôles de sécurité relatifs aux p
 short: OCSP
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/155"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2011-03-04
 in_force: 2011-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-155-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-155-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20210101/fr"
 
 (OCSP)
 
-du 4 mars 2011 (Etat le 1<sup>er</sup> janvier 2021)
+du 4 mars 2011 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -564,7 +564,7 @@ Le DDPS demande au Conseil fédéral d’actualiser les annexes 1 et 2 au moins 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> avril 2011.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 4, al. 1)
 
@@ -663,7 +663,7 @@ Gestionnaires des risques des départements et de la Chancellerie fédérale
 <tr><td>Office fédéral de la justice</td><td></td></tr>
 <tr><td>En général</td><td>Vice-directeurs Chef de l’information Adjoints à la direction Traducteurs</td></tr>
 <tr><td>Division de l’entraide judiciaire internationale</td><td>Chef de division et suppl. Chef des domaines spécialisés et suppl. Collaborateurs scientifiques (juristes) Spécialistes</td></tr>
-<tr><td>Secrétariat d’État aux migrations**[^annex1-lvlu1-lvl2-lvl24-1]**</td><td></td></tr>
+<tr><td>Secrétariat d’État aux migrations[^annex1-lvlu1-lvl2-lvl24-1]</td><td></td></tr>
 <tr><td>En général</td><td>Responsables des domaines de direction et suppl. Chef État-major Conduite de l’office et suppl. Chef Information et communication et suppl. Chefs de division et suppl. Collaborateurs ayant accès à des informations et du matériel à partir de l’échelon de classification CONFIDENTIEL ou à des installations militaires des zones protégées 2 ou plus Adjoints des responsables des domaines de direction Assistants des membres de la direction Adjoints des chefs de division Assistants des chefs de division Attachés de migration</td></tr>
 <tr><td>Services linguistiques</td><td>toutes</td></tr>
 <tr><td>Service du personnel</td><td>toutes</td></tr>
@@ -714,13 +714,15 @@ Gestionnaires des risques des départements et de la Chancellerie fédérale
 <tr><td>Office fédéral du personnel</td><td>Responsable Bases et systèmes Responsable de la gestion des indemnités et suppl. Experts en gestion des indemnités Responsable et collaborateurs Service juridique Responsable suppl. Gestion du personnel et controlling Chef État-major et communication et suppl. Assistant de direction Responsable Servicecenter Responsable du courrier et de l’enregistrement</td></tr>
 <tr><td>Administration fédérale des finances</td><td>toutes, à l’exception des fonctions assumées par les collaborateurs de la Centrale de compensation</td></tr>
 <tr><td>Administration fédérale des contributions</td><td>Chef de division principale et suppl. Chef de division Responsable Politique fiscale et suppl. Responsable et collaborateurs État-major de direction ayant accès à des affaires confidentielles du Conseil fédéral Collaborateurs Division des affaires internationales (sauf secrétariat) Responsable Service d’état-major Législation et suppl. Responsable Personnel et organisation Responsable des finances et des dépenses Responsable et collaborateurs de l’inspectorat des finances Responsable et collaborateurs Coordination informatique Responsable Taxe d’exemption de l’obligation de servir et suppl.</td></tr>
-<tr><td>Administration fédérale des douanes</td><td>Personnel civil pour les engagements internationaux Coordonnateurs Learning Management System Émetteurs de certificats électroniques Responsable Acquisitions, achats I et achats IV Collaborateurs Office central antifraude douanière Collaborateurs Section Véhicules et redevances sur le trafic routier Collaborateurs Sections antifraude Collaborateurs équipes MOBE ayant accès à RIPOL Collaborateurs des offices de douane aéroportuaires ayant accès à RIPOL Collaborateurs ayant accès aux systèmes classifiés</td></tr>
+<tr><td>Office fédéral de la douane et de la sécurité des frontières[^annex1-lvlu1-lvl2-lvl26-1]</td><td>Personnel civil pour les engagements internationaux Coordonnateurs Learning Management System Émetteurs de certificats électroniques Responsable Acquisitions, achats I et achats IV Collaborateurs Office central antifraude douanière Collaborateurs Section Véhicules et redevances sur le trafic routier Collaborateurs Sections antifraude Collaborateurs équipes MOBE ayant accès à RIPOL Collaborateurs des offices de douane aéroportuaires ayant accès à RIPOL Collaborateurs ayant accès aux systèmes classifiés</td></tr>
 <tr><td>Corps des gardes-frontière</td><td>toutes</td></tr>
 <tr><td>Office fédéral de l’informatique et de la télécommunication</td><td>toutes</td></tr>
 <tr><td>Office fédéral des constructions et de la logistique</td><td>toutes</td></tr>
 <tr><td>Contrôle fédéral des finances</td><td>toutes</td></tr>
 <tr><td>Autorité fédérale de surveillance des marchés financiers</td><td>Président du conseil d’administration</td></tr>
 </table>
+
+[^annex1-lvlu1-lvl2-lvl26-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ### 2.7 Département fédéral de l’économie, de la formation et de la recherche
 
@@ -757,7 +759,7 @@ Gestionnaires des risques des départements et de la Chancellerie fédérale
 <tr><td>Inspection fédérale de la sécurité nucléaire</td><td>toutes</td></tr>
 </table>
 
-### 3. Fonctions au sein des Services du Parlement****
+### 3. Fonctions au sein des Services du Parlement
 
 [^annex1-lvlu1-lvl3-1]
 
@@ -784,7 +786,7 @@ Gestionnaires des risques des départements et de la Chancellerie fédérale
 <tr><td>Apprentis</td><td>toutes</td></tr>
 </table>
 
-### 4. Fonctions au sein du Tribunal pénal fédéral****
+### 4. Fonctions au sein du Tribunal pénal fédéral
 
 [^annex1-lvlu1-lvl4-1]
 
@@ -799,7 +801,7 @@ Collaborateurs qui participent à la procédure d’autorisation prévue à l’
 [^annex1-lvlu1-lvl4a-1]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
 [^annex1-lvlu1-lvl4a-2]: Liste fournie par le Tribunal administratif fédéral
 
-### 5. Fonctions au sein du Ministère public de la Confédération****
+### 5. Fonctions au sein du Ministère public de la Confédération
 
 [^annex1-lvlu1-lvl5-1]
 
@@ -811,7 +813,7 @@ Toutes, à l’exception du procureur général de la Confédération et du proc
 
 Outre les contrôles de sécurité effectués pour les fonctions précitées, d’autres doivent également être réalisés lorsque les accords internationaux relatifs à la protection des informations ou d’autres accords internationaux le prévoient. Tel peut être le cas lorsque la personne concernée doit pouvoir accéder à des informations classifiées ou à des zones d’exclusion militaires à l’étranger.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 5, al. 1)
 
