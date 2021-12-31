@@ -4,13 +4,13 @@ number: "836.11"
 title: Arbeitsmarktgesetz
 short: AMG
 language: de
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-17
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-03-09
 adopted: 2003-06-23
 in_force: 2004-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/836.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2179/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2475/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2179/pdf_file"
 
 (AMG)
 
-vom 23.06.2003 (Stand 01.04.2021)
+vom 23.06.2003 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -189,7 +189,7 @@ beschliesst:
 <sup>1</sup> Die folgenden Institutionen dürfen Personendaten, einschliesslich besonders schützenswerter Personendaten, die sie im Einzelfall für die Abklärung von geeigneten Wiedereingliederungsmassnahmen oder von Leistungsansprüchen benötigen, bearbeiten lassen und einander bekannt geben:
 
 - a die zur Ausrichtung von wirtschaftlicher Sozialhilfe zuständigen Stellen gemäss der Sozialhilfegesetzgebung,
-- b die Anbieter von Angeboten zur Beschäftigung, Arbeitsvermittlung und beruflichen Wiedereingliederung gemäss der Sozialhilfegesetzgebung,
+- b die Anbieter von Angeboten zur Beschäftigung, Arbeitsvermittlung und beruflichen Wiedereingliederung gemäss der Gesetzgebung über die sozialen Leistungsangebote,
 - c die Regionale Arbeitsvermittlung und die Arbeitslosenkassen gemäss der Gesetzgebung über die Arbeitslosenversicherung und die Insolvenzentschädigung,
 - d die Schulbehörden gemäss der Volksschul- und der Mittelschulgesetzgebung sowie der Gesetzgebung über die Berufsbildung, die Weiterbildung und die Berufsberatung,
 - e die Berufs-, Studien- und Laufbahnberatungen gemäss der Gesetzgebung über die Berufsbildung, die Weiterbildung und die Berufsberatung,

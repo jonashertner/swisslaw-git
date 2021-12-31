@@ -4,13 +4,13 @@ number: "836.11"
 title: Loi sur le marché du travail
 short: LMT
 language: fr
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-17
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-03-09
 adopted: 2003-06-23
 in_force: 2004-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/836.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2179/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2475/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2179/pdf_file"
 
 (LMT)
 
-du 23.06.2003 (état au 01.04.2021)
+du 23.06.2003 (état au 01.01.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -189,7 +189,7 @@ arrête:
 <sup>1</sup> Les institutions suivantes sont habilitées à traiter et à se communiquer les données personnelles, y compris les données personnelles particulièrement dignes de protection, dont elles ont besoin pour définir au cas par cas les mesures de réinsertion adaptées ou le droit aux prestations:
 
 - a les services habilités à verser l’aide sociale matérielle au sens de la législation sur l’aide sociale,
-- b les prestataires d’offres visant l’occupation, le placement et la réinsertion professionnelle au sens de la législation sur l’aide sociale,
+- b les fournisseurs de prestations visant l’occupation, le placement et la réinsertion professionnelle au sens de la législation sur les programmes d’action sociale,
 - c le Service de l’emploi et les caisses de chômage en vertu de la législation sur l’assurance-chômage et l’indemnité en cas d’insolvabilité,
 - d les autorités scolaires au sens des législations sur l’école obligatoire et sur les écoles moyennes ainsi que de la législation sur la formation professionnelle, la formation continue et l’orientation professionnelle,
 - e les services d’orientation professionnelle et personnelle au sens de la législation sur la formation professionnelle, la formation continue et l’orientation professionnelle,
