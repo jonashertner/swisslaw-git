@@ -4,13 +4,13 @@ number: "122.0.51"
 title: "Ordonnance relative à l'information sur les activités du Conseil d'Etat et de l'administration"
 short: OInf
 language: fr
-version: 2011-01-01
-valid_until: 2021-12-31
-version_adopted: 2010-12-14
+version: 2022-01-01
+valid_until: 2026-05-31
+version_adopted: 2022-01-31
 adopted: 2010-12-14
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.51"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5765/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7105/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Information – O
 
 (OInf)
 
-du 14.12.2010 (version entrée en vigueur le 01.01.2011)
+du 14.12.2010 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -157,9 +157,9 @@ Arrête:
 
 #### Art. 11
 
-**Autorité de la transparence et de la protection des données**
+**Autorité de la transparence, de la protection des données et de la médiation**
 
-<sup>1</sup> L'Autorité cantonale de la transparence et de la protection des données assure, conformément à la législation y relative, la surveillance sur la protection et la sécurité des données personnelles dans le contexte de l'information du public.
+<sup>1</sup> L'Autorité cantonale de la transparence, de la protection des données et de la médiation assure, conformément à la législation y relative, la surveillance sur la protection et la sécurité des données personnelles dans le contexte de l'information du public.
 
 <sup>2</sup> Elle édicte au besoin des directives relatives à la protection des données personnelles sur Internet.
 
@@ -372,7 +372,7 @@ Arrête:
 
 **Réserve**
 
-<sup>1</sup> Les dispositions de la présente section 2.4 ne sont applicables à l'Autorité cantonale de la transparence et de la protection des données que dans la mesure compatible avec son statut d'indépendance.
+<sup>1</sup> Les dispositions de la présente section 2.4 ne sont applicables à l'Autorité cantonale de la transparence, de la protection des données et de la médiation que dans la mesure compatible avec son statut d'indépendance.
 
 ## 3 Information directe
 

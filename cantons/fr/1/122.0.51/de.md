@@ -4,13 +4,13 @@ number: "122.0.51"
 title: Verordnung über die Information über die Tätigkeit des Staatsrats und der Kantonsverwaltung
 short: InfoV
 language: de
-version: 2011-01-01
-valid_until: 2021-12-31
-version_adopted: 2010-12-14
+version: 2022-01-01
+valid_until: 2026-05-31
+version_adopted: 2022-01-31
 adopted: 2010-12-14
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.51"
-pdf: "https://bdlf.fr.ch/api/de/versions/5765/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7105/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Information – V
 
 (InfoV)
 
-vom 14.12.2010 (Fassung in Kraft getreten am 01.01.2011)
+vom 14.12.2010 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -157,9 +157,9 @@ beschliesst:
 
 #### Art. 11
 
-**Behörde für Öffentlichkeit und Datenschutz**
+**Behörde für Öffentlichkeit, Datenschutz und Mediation**
 
-<sup>1</sup> Die kantonale Behörde für Öffentlichkeit und Datenschutz stellt gemäss der entsprechenden Gesetzgebung die Aufsicht über den Schutz und die Sicherheit von Personendaten bei der Information der Öffentlichkeit sicher.
+<sup>1</sup> Die kantonale Behörde für Öffentlichkeit, Datenschutz und Mediation stellt gemäss der entsprechenden Gesetzgebung die Aufsicht über den Schutz und die Sicherheit von Personendaten bei der Information der Öffentlichkeit sicher.
 
 <sup>2</sup> Sie gibt bei Bedarf Weisungen zum Schutz der Personendaten auf Internet heraus.
 
@@ -372,7 +372,7 @@ beschliesst:
 
 **Vorbehalt**
 
-<sup>1</sup> Die Bestimmungen dieses Abschnitts 2.4 gelten für die Kantonale Behörde für Öffentlichkeit und Datenschutz nur so weit, als sie mit deren unabhängigen Stellung vereinbar sind.
+<sup>1</sup> Die Bestimmungen dieses Abschnitts 2.4 gelten für die kantonale Behörde für Öffentlichkeit, Datenschutz und Mediation nur so weit, als sie mit deren unabhängigen Stellung vereinbar sind.
 
 ## 3 Direkte Information
 
