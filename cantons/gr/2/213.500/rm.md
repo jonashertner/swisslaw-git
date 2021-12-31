@@ -4,13 +4,13 @@ number: "213.500"
 title: Ordinaziun davart il stadi civil dal chantun Grischun
 short: OSCC
 language: rm
-version: 2021-12-01
-valid_until: 2021-12-31
+version: 2022-01-01
+valid_until: 2022-08-31
 version_adopted: 2021-11-16
 adopted: 2007-03-20
 in_force: 2007-04-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/213.500"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3200/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3201/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3200/pdf_file"
 
 (OSCC)
 
-dals 20-03-2007 (versiun dals 01-12-2021)
+dals 20-03-2007 (versiun dals 01-01-2022)
 
 sa basond sin l'art. 45 da la constituziun chantunala[^ingress-1] e sin l'art. 20 da la lescha introductiva tar il cudesch civil svizzer[^ingress-2]
 
@@ -34,7 +34,7 @@ relaschada da la regenza ils 20 da mars 2007
 
 **Circuls da stadi civil**
 
-<sup>1</sup> Ils purtaders d'in circul da stadi civil (purtaders) fixeschan l'organisaziun e la repartiziun dals custs administrativs en ina cunvegna. Quella sto vegnir suttamessa a l'autoritad chantunala da surveglianza per laschar prender enconuschientscha.
+<sup>1</sup> Ils purtaders d'in circul da stadi civil (purtaders) fixeschan l'organisaziun e la repartiziun dals custs administrativs en ina cunvegna. Quella sto vegnir suttamessa a l'Uffizi da migraziun e da dretg civil per laschar prender enconuschientscha.
 
 <sup>2</sup> Sco circuls da stadi civil vegnan designads:
 
@@ -52,6 +52,12 @@ relaschada da la regenza ils 20 da mars 2007
 - 12\. …
 - 13\. …
 
+#### Art. 1a
+
+**Uffizi da stadi civil spezial**
+
+<sup>1</sup> Il chantun maina in uffizi da stadi civil spezial cun sedia a Cuira. Quel è domicilià tar l'Uffizi da migraziun e da dretg civil.
+
 #### Art. 2
 
 **Lingua uffiziala**
@@ -66,7 +72,7 @@ relaschada da la regenza ils 20 da mars 2007
 
 **Funcziunaria u funcziunari da stadi civil 1. certificat professiunal**
 
-<sup>1</sup> Funcziunarias e funcziunaris da stadi civil che na possedan betg il certificat professiunal che vegn pretendì dal dretg federal, ston s'acquistar quel entaifer trais onns dapi lur elecziun. L'autoritad chantunala da surveglianza po prolungar quest termin en cas excepziunals motivads.
+<sup>1</sup> Funcziunarias e funcziunaris da stadi civil che na possedan betg il certificat professiunal che vegn pretendì dal dretg federal, ston s'acquistar quel entaifer trais onns dapi lur elecziun. L'Uffizi da migraziun e da dretg civil po prolungar quest termin en cas excepziunals motivads.
 
 #### Art. 4
 
@@ -74,13 +80,13 @@ relaschada da la regenza ils 20 da mars 2007
 
 <sup>1</sup> Cun il consentiment dals purtaders po ina funcziunaria u in funcziunari da stadi civil vegnir incumbensà cun la substituziun d'in auter circul da stadi civil.
 
-<sup>2</sup> En cas da circumstanzas spezialas designescha l'autoritad chantunala da surveglianza ina substituziun extraordinaria. En quest connex po il champ d'incumbensas vegnir adattà a las circumstanzas spezialas.
+<sup>2</sup> En cas da circumstanzas spezialas designescha l'Uffizi da migraziun e da dretg civil ina substituziun extraordinaria. En quest connex po il champ d'incumbensas vegnir adattà a las circumstanzas spezialas.
 
 #### Art. 5
 
 **3. curs da furmaziun supplementara e d'instrucziun**
 
-<sup>1</sup> L'autoritad chantunala da surveglianza organisescha tenor basegn curs da furmaziun supplementara e d'instrucziun per funcziunarias e per funcziunaris da stadi civil. Questa incumbensa po ella delegar er ad in'autra instituziun.
+<sup>1</sup> L'Uffizi da migraziun e da dretg civil organisescha tenor basegn curs da furmaziun supplementara e d'instrucziun per funcziunarias e per funcziunaris da stadi civil. Questa incumbensa po el delegar er ad in'autra instituziun.
 
 <sup>2</sup> La participaziun è obligatorica per tut las funcziunarias e per tut ils funcziunaris da stadi civil.
 
@@ -92,7 +98,7 @@ relaschada da la regenza ils 20 da mars 2007
 
 <sup>2</sup> Els fixeschan las uras d'avertura da l'uffizi da stadi civil e las uras, durant las qualas ils spus vegnan maridads ed ils partenadis registrads vegnan documentads.
 
-<sup>3</sup> Els fixeschan ina sonda per mais, nua ch'i pon vegnir celebradas maridaglias e documentads partenadis registrads. En quest connex ston las localitads designadas vegnir resguardadas confurm als basegns. En cas da dispitas decida l'autoritad da surveglianza.
+<sup>3</sup> Els fixeschan ina sonda per mais, nua ch'i pon vegnir celebradas maridaglias e documentads partenadis registrads. En quest connex ston las localitads designadas vegnir resguardadas confurm als basegns. En cas da dispitas decida l'Uffizi da migraziun e da dretg civil.
 
 #### Art. 6a
 
@@ -136,9 +142,9 @@ relaschada da la regenza ils 20 da mars 2007
 
 #### Art. 10
 
-**Documentaziun 1. cumpetenza**
+**Documentaziun 1. cumpetenza da l'uffizi da stadi civil**
 
-<sup>1</sup> Cumpetent per documentar publicamain midadas dal stadi civil d'ina persuna è:
+<sup>1</sup> Cumpetent per documentar publicamain midadas dal stadi civil d'ina persuna è, cun resalva da l'artitgel 10a:
 
 - a) l'uffizi da stadi civil ch'è cumpetent per il lieu d'origin per:
   - 1\. decisiuns estras,
@@ -149,39 +155,53 @@ relaschada da la regenza ils 20 da mars 2007
   - 6\. relaschadas or dal dretg da burgais (al lieu d'origin d'enfin ussa),
   - 7\. curatellas cumplessivas e l'aboliziun da quellas;
 - b) l'uffizi da stadi civil ch'è cumpetent al lieu da la decisiun per:
-  - 1\. sentenzias giudizialas svizras (a la sedia uffiziala da la dretgira d'emprima instanza),
-  - 2\. midadas da num,
-  - 3\. renconuschientschas testamentaras d'uffants,
-  - 4\. decisiuns d'adopziun da las autoritads per la protecziun d'uffants e da creschids.
+  - 1\. sentenzias giudizialas svizras (a la sedia uffiziala da la dretgira d'emprima instanza).
+  - 2\. …
+  - 3\. …
+  - 4\. …
 
-<sup>2</sup> En ils ulteriurs cas è cumpetent l'uffizi da stadi civil al domicil d'ina persuna pertutgada u l'uffizi da stadi civil che sto suenter exequir in ulteriur act uffizial.
+<sup>2</sup> En ils ulteriurs cas è cumpetent – cun resalva da l'artitgel 10a – l'uffizi da stadi civil al domicil d'ina persuna pertutgada u l'uffizi da stadi civil che sto suenter exequir in ulteriur act uffizial.
+
+#### Art. 10a
+
+**2. cumpetenza da l'uffizi da stadi civil spezial**
+
+<sup>1</sup> L'uffizi da stadi civil spezial è cumpetent en ils suandants cas per documentar publicamain midadas dal stadi civil d'ina persuna:
+
+- a) decisiuns d'adopziun da l'Autoritad per la protecziun d'uffants e da creschids dal Grischun;
+- b) decisiuns d'adopziun a l'exteriur;
+- c) decisiuns da l'autoritad chantunala concernent la midada dal num;
+- d) midadas e decleraziuns dal num a l'exteriur;
+- e) annullaziuns da natiralisaziuns;
+- f) renconuschientschas testamentaras d'uffants;
+- g) decleraziuns da spariziun e lur aboliziun sin basa da decisiuns chantunalas u estras.
 
 #### Art. 11
 
 **2. communicaziun da decisiuns da la dretgira e da l'administraziun**
 
-<sup>1</sup> Las dretgiras e las autoritads administrativas communitgeschan immediatamain a l'uffizi da stadi civil ch'è cumpetent tenor l'artitgel 10 lur decisiuns legalmain valaivlas che chaschunan ina midada dal stadi civil (art. 43 al. 5 OSC[^11-1].
+<sup>1</sup> Las dretgiras e las autoritads administrativas communitgeschan immediatamain a l'uffizi ch'è cumpetent tenor l'artitgel 10 e l'artitgel 10a lur decisiuns legalmain valaivlas che chaschunan ina midada dal stadi civil (art. 43 al. 3 ed al. 5 OSC[^11-1]).
 
 [^11-1]: CS [211.112.2](https://db.clex.ch/link/Bund/211.112.2/rm)
 
 #### Art. 12
 
-**Cooperaziun da l'autoritad chantunala da surveglianza 1. cas da stadi civil en Svizra che tangheschan l'exteriur**
+**Cooperaziun da l'Uffizi da migraziun e da dretg civil 1. cas da stadi civil en Svizra che tangheschan l'exteriur**
 
-<sup>1</sup> L'uffizi da stadi civil suttametta a l'autoritad chantunala da surveglianza las actas per l'examinaziun, sch'ina persuna estra vegn integrada en il register da stadi civil. L'autoritad da surveglianza po:
+<sup>1</sup> L'uffizi da stadi civil suttametta a l'Uffizi da migraziun e da dretg civil las actas per l'examinaziun, sch'ina persuna estra vegn integrada en il register da stadi civil. L'Uffizi da migraziun e da dretg civil po:
 
 - a) fixar excepziuns da l'obligaziun da controllar las actas;
 - b) suttametter ulteriurs cas a l'obligaziun da controllar las actas.
 
-<sup>2</sup> L'autoritad chantunala da surveglianza po deliberar dal tuttafatg u per part in uffizi da stadi civil da l'obligaziun da suttametter las actas.
+<sup>2</sup> L'Uffizi da migraziun e da dretg civil po deliberar dal tuttafatg u per part in uffizi da stadi civil da l'obligaziun da suttametter las actas.
 
 #### Art. 13
 
 **2. cas da stadi civil da l'exteriur**
 
-<sup>1</sup> L'autoritad da surveglianza trametta ils documents esters che cuntegnan fatgs dal stadi civil – munids cun la disposiziun da documentaziun – a l'uffizi da stadi civil cumpetent.
+<sup>1</sup> Tut tenor la cumpetenza trametta l'Uffizi da migraziun e da dretg civil ils documents esters che cuntegnan fatgs dal stadi civil – munids cun la disposiziun da documentaziun – ad in uffizi da stadi civil u a l'uffizi da stadi civil spezial.
 
-<sup>2</sup> Ils documents originals vegnan archivads da l'uffizi da stadi civil cumpetent.
+<sup>2</sup> Ils documents originals vegnan archivads da l'uffizi che fa la documentaziun.
 
 #### Art. 14
 

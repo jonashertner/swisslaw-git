@@ -4,13 +4,13 @@ number: "213.500"
 title: Zivilstandsverordnung des Kantons Graubünden
 short: KZStV
 language: de
-version: 2021-12-01
-valid_until: 2021-12-31
+version: 2022-01-01
+valid_until: 2022-08-31
 version_adopted: 2021-11-16
 adopted: 2007-03-20
 in_force: 2007-04-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/213.500"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3200/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3201/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3200/pdf_file"
 
 (KZStV)
 
-Vom 20.03.2007 (Stand 01.12.2021)
+Vom 20.03.2007 (Stand 01.01.2022)
 
 Gestützt auf Art. 45 der Kantonsverfassung[^ingress-1] und Art. 20 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch[^ingress-2]
 
@@ -34,7 +34,7 @@ von der Regierung erlassen am 20. März 2007
 
 **Zivilstandskreise**
 
-<sup>1</sup> Die Trägerschaft eines Zivilstandskreises (Trägerschaft) regelt die Organisation und die Aufteilung der Verwaltungskosten in einer Vereinbarung. Diese ist der kantonalen Aufsichtsbehörde zur Kenntnis zu bringen.
+<sup>1</sup> Die Trägerschaft eines Zivilstandskreises (Trägerschaft) regelt die Organisation und die Aufteilung der Verwaltungskosten in einer Vereinbarung. Diese ist dem Amt für Migration und Zivilrecht zur Kenntnis zu bringen.
 
 <sup>2</sup> Als Zivilstandskreise werden bezeichnet:
 
@@ -52,6 +52,12 @@ von der Regierung erlassen am 20. März 2007
 - 12\. …
 - 13\. …
 
+#### Art. 1a
+
+**Sonderzivilstandsamt**
+
+<sup>1</sup> Der Kanton führt ein Sonderzivilstandsamt mit Sitz in Chur. Dieses ist beim Amt für Migration und Zivilrecht angegliedert.
+
 #### Art. 2
 
 **Amtssprache**
@@ -66,7 +72,7 @@ von der Regierung erlassen am 20. März 2007
 
 **Zivilstandsbeamtin und Zivilstandsbeamter 1. Fachausweis**
 
-<sup>1</sup> Zivilstandsbeamtinnen oder Zivilstandsbeamte, die den nach Bundesrecht erforderlichen Fachausweis nicht besitzen, haben diesen innert dreier Jahre nach der Wahl zu erwerben. Die kantonale Aufsichtsbehörde kann diese Frist in begründeten Ausnahmefällen verlängern.
+<sup>1</sup> Zivilstandsbeamtinnen oder Zivilstandsbeamte, die den nach Bundesrecht erforderlichen Fachausweis nicht besitzen, haben diesen innert dreier Jahre nach der Wahl zu erwerben. Das Amt für Migration und Zivilrecht kann diese Frist in begründeten Ausnahmefällen verlängern.
 
 #### Art. 4
 
@@ -74,13 +80,13 @@ von der Regierung erlassen am 20. März 2007
 
 <sup>1</sup> Mit Zustimmung der Trägerschaft kann eine Zivilstandsbeamtin oder ein Zivilstandsbeamter mit der Stellvertretung eines anderen Zivilstandskreises betraut werden.
 
-<sup>2</sup> Bei Vorliegen besonderer Umstände bezeichnet die kantonale Aufsichtsbehörde eine ausserordentliche Stellvertretung. Dabei kann der Aufgabenbereich den besonderen Umständen angepasst werden.
+<sup>2</sup> Bei Vorliegen besonderer Umstände bezeichnet das Amt für Migration und Zivilrecht eine ausserordentliche Stellvertretung. Dabei kann der Aufgabenbereich den besonderen Umständen angepasst werden.
 
 #### Art. 5
 
 **3. Weiterbildungs- und Instruktionskurse**
 
-<sup>1</sup> Die kantonale Aufsichtsbehörde führt nach Bedarf Weiterbildungs- und Instruktionskurse für Zivilstandsbeamtinnen und Zivilstandsbeamte durch. Sie kann diese Aufgabe auch einer andern Institution übertragen.
+<sup>1</sup> Das Amt für Migration und Zivilrecht führt nach Bedarf Weiterbildungs- und Instruktionskurse für Zivilstandsbeamtinnen und Zivilstandsbeamte durch. Es kann diese Aufgabe auch einer anderen Institution übertragen.
 
 <sup>2</sup> Die Teilnahme ist für alle Zivilstandsbeamtinnen und Zivilstandsbeamten obligatorisch.
 
@@ -92,7 +98,7 @@ von der Regierung erlassen am 20. März 2007
 
 <sup>2</sup> Sie legt die Öffnungszeiten des Zivilstandsamtes und die Zeiten fest, während denen Brautleute getraut und eingetragene Partnerschaften beurkundet werden.
 
-<sup>3</sup> Sie bestimmt einen Samstag pro Monat, an dem Trauungen und Beurkundungen von eingetragenen Partnerschaften durchgeführt werden können. Dabei sind die bezeichneten Lokale bedarfsgerecht zu berücksichtigen. Bei Streitigkeiten entscheidet die Aufsichtsbehörde.
+<sup>3</sup> Sie bestimmt einen Samstag pro Monat, an dem Trauungen und Beurkundungen von eingetragenen Partnerschaften durchgeführt werden können. Dabei sind die bezeichneten Lokale bedarfsgerecht zu berücksichtigen. Bei Streitigkeiten entscheidet das Amt für Migration und Zivilrecht.
 
 #### Art. 6a
 
@@ -136,52 +142,66 @@ von der Regierung erlassen am 20. März 2007
 
 #### Art. 10
 
-**Beurkundung 1. Zuständigkeit**
+**Beurkundung 1. Zuständigkeit des Zivilstandsamts**
 
-<sup>1</sup> Zuständig für die Beurkundung von Änderungen des Personenstandes sind:
+<sup>1</sup> Unter Vorbehalt von Artikel 10a ist für die Beurkundung von Änderungen des Personenstandes zuständig:
 
 - a) das für den Heimatort zuständige Zivilstandsamt für:
-  - 1\. Ausländische Entscheidungen,
-  - 2\. Ausländische Urkunden,
+  - 1\. ausländische Entscheidungen,
+  - 2\. ausländische Urkunden,
   - 3\. Verwaltungsentscheide des Bundes,
   - 4\. …
   - 5\. Einbürgerungen (am neuen Heimatort),
   - 6\. Bürgerrechtsentlassungen (am bisherigen Heimatort),
   - 7\. umfassende Beistandschaften und deren Aufhebungen;
 - b) das am Ort der Entscheidung zuständige Zivilstandsamt für:
-  - 1\. Inländische Gerichtsurteile (am Amtssitz des erstinstanzlichen Gerichtes),
-  - 2\. Namensänderungen,
-  - 3\. testamentarische Anerkennungen von Kindern,
-  - 4\. Adoptionsentscheide der Kindes- und Erwachsenenschutzbehörden.
+  - 1\. inländische Gerichtsurteile (am Amtssitz des erstinstanzlichen Gerichtes).
+  - 2\. …
+  - 3\. …
+  - 4\. …
 
-<sup>2</sup> In den übrigen Fällen ist das Zivilstandsamt am Wohnsitz einer beteiligten Person oder dasjenige Zivilstandsamt, das anschliessend eine weitere Amtshandlung vorzunehmen hat, zuständig.
+<sup>2</sup> In den übrigen Fällen und unter Vorbehalt von Artikel 10a ist das Zivilstandsamt am Wohnsitz einer beteiligten Person oder dasjenige Zivilstandsamt, das anschliessend eine weitere Amtshandlung vorzunehmen hat, zuständig.
+
+#### Art. 10a
+
+**2. Zuständigkeit des Sonderzivilstandsamts**
+
+<sup>1</sup> Das Sonderzivilstandsamt ist in folgenden Fällen für die Beurkundung von Änderungen des Personenstandes zuständig:
+
+- a) Adoptionsentscheidungen der Kindes- und Erwachsenenschutzbehörde Graubünden;
+- b) Adoptionsentscheide im Ausland;
+- c) Namensänderungsentscheide der kantonalen Behörde;
+- d) Namensänderungen und -erklärungen im Ausland;
+- e) Nichtigerklärungen von Einbürgerungen;
+- f) testamentarische Kindesanerkennungen;
+- g) Verschollenerklärung und deren Aufhebung aufgrund von kantonalen oder ausländischen Entscheidungen.
 
 #### Art. 11
 
 **2. Mitteilung von Gerichts- und Verwaltungsentscheiden**
 
-<sup>1</sup> Gerichte und Verwaltungsbehörden teilen ihre rechtskräftigen Entscheide, die eine Änderung des Personenstandes zur Folge haben, unverzüglich dem gemäss Artikel 10 zuständigen Zivilstandsamt mit (Art. 43 Abs. 3 und 5 ZStV[^11-1]).
+<sup>1</sup> Gerichte und Verwaltungsbehörden teilen ihre rechtskräftigen Entscheide, die eine Änderung des Personenstandes zur Folge haben, unverzüglich dem gemäss Artikel 10 und Artikel 10a zuständigen Amt mit (Art. 43 Abs. 3 und 5 ZStV[^11-1]).
 
 [^11-1]: SR [211.112.2](https://db.clex.ch/link/Bund/211.112.2/de)
 
 #### Art. 12
 
-**Mitwirkung der kantonalen Aufsichtsbehörde 1. Inländische Zivilstandsfälle mit Auslandberührung**
+**Mitwirkung des Amts für Migration und Zivilrecht 1. Inländische Zivilstandsfälle mit Auslandberührung**
 
-<sup>1</sup> Das Zivilstandsamt unterbreitet der kantonalen Aufsichtsbehörde die Akten zur Prüfung, wenn eine ausländische Person in das Personenstandsregister aufgenommen wird. Die Aufsichtsbehörde kann:
+<sup>1</sup> Das Zivilstandsamt unterbreitet dem Amt für Migration und Zivilrecht die Akten zur Prüfung, wenn eine ausländische Person in das Personenstandsregister aufgenommen wird. Das Amt für Migration und Zivilrecht kann:
 
 - a) Ausnahmen von der Aktenprüfungspflicht festlegen;
 - b) zusätzliche Fälle der Aktenprüfungspflicht unterstellen.
 
-<sup>2</sup> Die kantonale Aufsichtbehörde kann ein Zivilstandsamt von der Vorlegungspflicht ganz oder teilweise befreien.
+<sup>2</sup> Das Amt für Migration und Zivilrecht kann ein Zivilstandsamt von der Vorlegungspflicht ganz oder teilweise befreien.
 
 #### Art. 13
 
 **2. Ausländische Zivilstandsfälle**
 
-<sup>1</sup> Die kantonale Aufsichtsbehörde stellt die ausländischen Urkunden, welche Zivilstandstatsachen enthalten, versehen mit der Beurkundungsverfügung dem zuständigen Zivilstandsamt zu.
+<sup>1</sup> Je nach Zuständigkeit stellt das Amt für Migration und Zivilrecht die ausländischen Urkunden, welche Zivilstandstatsachen enthalten, versehen mit der Beurkundungsverfügung einem Zivilstandsamt oder dem Sonderzivilstandsamt zu.
 
-<sup>2</sup> Die Originalurkunden werden vom zuständigen Zivilstandsamt archiviert.
+<sup>2</sup> Die Originalurkunden werden vom beurkundenden Amt archiviert.
 
 #### Art. 14
 

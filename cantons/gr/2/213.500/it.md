@@ -4,13 +4,13 @@ number: "213.500"
 title: Ordinanza sullo stato civile del Cantone dei Grigioni
 short: OSCC
 language: it
-version: 2021-12-01
-valid_until: 2021-12-31
+version: 2022-01-01
+valid_until: 2022-08-31
 version_adopted: 2021-11-16
 adopted: 2007-03-20
 in_force: 2007-04-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/213.500"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3200/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3201/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3200/pdf_file"
 
 (OSCC)
 
-del 20.03.2007 (stato 01.12.2021)
+del 20.03.2007 (stato 01.01.2022)
 
 emanata dal Governo il 20 marzo 2007
 
@@ -34,7 +34,7 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 20 della legge
 
 **Circondari dello stato civile**
 
-<sup>1</sup> L'ente responsabile di un circondario dello stato civile (ente responsabile) disciplina l'organizzazione e la ripartizione delle spese amministrative in un accordo. Tale accordo va portato a conoscenza dell'autorità cantonale di vigilanza.
+<sup>1</sup> L'ente responsabile di un circondario dello stato civile (ente responsabile) disciplina l'organizzazione e la ripartizione delle spese amministrative in un accordo. Tale accordo va portato a conoscenza dell'Ufficio della migrazione e del diritto civile.
 
 <sup>2</sup> Vengono definiti circondari dello stato civile:
 
@@ -52,6 +52,12 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 20 della legge
 - 12\. …
 - 13\. …
 
+#### Art. 1a
+
+**Ufficio dello stato civile speciale**
+
+<sup>1</sup> Il Cantone gestisce un ufficio dello stato civile speciale con sede a Coira. Quest'ultimo è annesso all'Ufficio della migrazione e del diritto civile.
+
 #### Art. 2
 
 **Lingua ufficiale**
@@ -66,7 +72,7 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 20 della legge
 
 **Ufficiale dello stato civile 1. Attestato professionale**
 
-<sup>1</sup> Gli ufficiali dello stato civile che non sono in possesso dell'attestato professionale richiesto dal diritto federale, devono conseguirlo entro tre anni dalla nomina. In casi eccezionali motivati, l'autorità cantonale di vigilanza può prolungare questo termine.
+<sup>1</sup> Gli ufficiali dello stato civile che non sono in possesso dell'attestato professionale richiesto dal diritto federale, devono conseguirlo entro tre anni dalla nomina. In casi eccezionali motivati, l'Ufficio della migrazione e del diritto civile può prolungare questo termine.
 
 #### Art. 4
 
@@ -74,13 +80,13 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 20 della legge
 
 <sup>1</sup> Con il consenso dell'ente responsabile, a un ufficiale dello stato civile può essere affidata la supplenza per un altro circondario dello stato civile.
 
-<sup>2</sup> Se esistono circostanze particolari l'autorità cantonale di vigilanza designa un supplente straordinario. La sfera di attività può essere adeguata alle circostanze particolari.
+<sup>2</sup> Se esistono circostanze particolari, l'Ufficio della migrazione e del diritto civile designa un supplente straordinario. La sfera di attività può essere adeguata alle circostanze particolari.
 
 #### Art. 5
 
 **3. Corsi di perfezionamento e di istruzione**
 
-<sup>1</sup> L'autorità cantonale di vigilanza organizza secondo necessità corsi di perfezionamento e di istruzione per ufficiali dello stato civile. Essa può demandare questo compito anche a un'altra istituzione.
+<sup>1</sup> L'Ufficio della migrazione e del diritto civile organizza secondo necessità corsi di perfezionamento e di istruzione per ufficiali dello stato civile. Esso può demandare questo compito anche a un'altra istituzione.
 
 <sup>2</sup> La partecipazione è obbligatoria per tutti gli ufficiali dello stato civile.
 
@@ -92,7 +98,7 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 20 della legge
 
 <sup>2</sup> Esso stabilisce gli orari d'apertura dell'ufficio dello stato civile e gli orari nei quali è possibile unire in matrimonio gli sposi e documentare unioni domestiche registrate.
 
-<sup>3</sup> Esso fissa un sabato al mese nel quale è possibile celebrare matrimoni e documentare unioni domestiche registrate. I locali designati vanno considerati a seconda del bisogno. In caso di controversie decide l'autorità di vigilanza.
+<sup>3</sup> Esso fissa un sabato al mese nel quale è possibile celebrare matrimoni e documentare unioni domestiche registrate. I locali designati vanno considerati a seconda del bisogno. In caso di controversie decide l'Ufficio della migrazione e del diritto civile.
 
 #### Art. 6a
 
@@ -136,9 +142,9 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 20 della legge
 
 #### Art. 10
 
-**Documentazione 1. Competenza**
+**Documentazione 1. Competenza dell'ufficio dello stato civile**
 
-<sup>1</sup> Sono competenti per la documentazione di cambiamenti dello stato civile:
+<sup>1</sup> Fatto salvo l'articolo 10a, è competente per la documentazione di cambiamenti dello stato civile:
 
 - a) l'ufficio dello stato civile competente per il luogo di attinenza per:
   - 1\. decisioni estere,
@@ -149,39 +155,53 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 20 della legge
   - 6\. svincoli dall'attinenza (nel precedente luogo di attinenza),
   - 7\. curatele generali e loro annullamento;
 - b) l'ufficio dello stato civile competente nel luogo della decisione per:
-  - 1\. sentenze giudiziarie emanate in Svizzera (nella sede del tribunale di prima istanza),
-  - 2\. cambiamenti di nome,
-  - 3\. riconoscimenti testamentari di bambini,
-  - 4\. decisioni d'adozione delle autorità di protezione dei minori e degli adulti.
+  - 1\. sentenze giudiziarie emanate in Svizzera (nella sede del tribunale di prima istanza).
+  - 2\. …
+  - 3\. …
+  - 4\. …
 
-<sup>2</sup> Negli altri casi la competenza spetta all'ufficio dello stato civile del domicilio dell'interessato oppure all'ufficio dello stato civile che dovrà in seguito procedere a un ulteriore atto d'ufficio.
+<sup>2</sup> Negli altri casi e fatto salvo l'articolo 10a, la competenza spetta all'ufficio dello stato civile del domicilio dell'interessato oppure all'ufficio dello stato civile che dovrà in seguito procedere a un ulteriore atto d'ufficio.
+
+#### Art. 10a
+
+**2. Competenza dell'ufficio dello stato civile speciale**
+
+<sup>1</sup> L'ufficio dello stato civile speciale è competente per la documentazione di cambiamenti dello stato civile nei casi seguenti:
+
+- a) decisioni d'adozione dell'Autorità di protezione dei minori e degli adulti dei Grigioni;
+- b) decisioni d'adozione prese all'estero;
+- c) decisioni di cambiamento di nome prese dall'autorità cantonale;
+- d) cambiamenti di nome e dichiarazioni concernenti il cognome effettuati all'estero;
+- e) dichiarazioni di annullamento di naturalizzazioni;
+- f) riconoscimento testamentario di figli;
+- g) dichiarazione di scomparsa e relativa revoca sulla base di decisioni cantonali o estere.
 
 #### Art. 11
 
 **2. Comunicazione di decisioni giudiziarie e amministrative**
 
-<sup>1</sup> I tribunali e le autorità amministrative comunicano immediatamente all'ufficio dello stato civile competente secondo l'articolo 10 le loro decisioni passate in giudicato che comportano una modifica dello stato civile (art. 43 cpv. 3 e 5 OSC[^11-1]).
+<sup>1</sup> I tribunali e le autorità amministrative comunicano immediatamente all'ufficio competente secondo l'articolo 10 e l'articolo 10a le loro decisioni passate in giudicato che comportano una modifica dello stato civile (art. 43 cpv. 3 e 5 OSC[^11-1]).
 
 [^11-1]: RS [211.112.2](https://db.clex.ch/link/Bund/211.112.2/it)
 
 #### Art. 12
 
-**Partecipazione dell'autorità cantonale di vigilanza 1. Fatti di stato civile in Svizzera con un legame con l'estero**
+**Partecipazione dell'Ufficio della migrazione e del diritto civile 1. Fatti di stato civile in Svizzera con un legame con l'estero**
 
-<sup>1</sup> L'ufficio dello stato civile sottopone all'autorità cantonale di vigilanza gli atti per esame, qualora una persona straniera venga iscritta nel registro dello stato civile. L'autorità di vigilanza può:
+<sup>1</sup> L'ufficio dello stato civile sottopone all'Ufficio della migrazione e del diritto civile gli atti per esame, qualora una persona straniera venga iscritta nel registro dello stato civile. L'Ufficio della migrazione e del diritto civile può:
 
 - a) stabilire eccezioni all'obbligo di esame degli atti;
 - b) sottoporre altri casi all'obbligo di esame degli atti.
 
-<sup>2</sup> L'autorità cantonale di vigilanza può esonerare totalmente o parzialmente da questo obbligo un ufficio dello stato civile.
+<sup>2</sup> L'Ufficio della migrazione e del diritto civile può esonerare totalmente o parzialmente da questo obbligo un ufficio dello stato civile.
 
 #### Art. 13
 
 **2. Fatti di stato civile all'estero**
 
-<sup>1</sup> L'autorità cantonale di vigilanza trasmette i documenti di stato civile esteri, muniti della decisione di documentazione, al competente ufficio dello stato civile.
+<sup>1</sup> A seconda della competenza, l'Ufficio della migrazione e del diritto civile trasmette i documenti di stato civile esteri, muniti della decisione di documentazione, a un ufficio dello stato civile oppure all'ufficio dello stato civile speciale.
 
-<sup>2</sup> I documenti originali vengono archiviati dall'ufficio dello stato civile competente.
+<sup>2</sup> I documenti originali vengono archiviati dall'ufficio che ha proceduto alla documentazione.
 
 #### Art. 14
 
