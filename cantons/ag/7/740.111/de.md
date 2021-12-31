@@ -4,13 +4,13 @@ number: "740.111"
 title: Verordnung über die Geoinformation im Kanton Aargau
 short: "Kantonale Geoinformationsverordnung, KGeoIV"
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-16
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-09-01
 adopted: 2011-11-16
 in_force: 2012-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/740.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2947/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3083/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2947/pdf_file"
 
 (Kantonale Geoinformationsverordnung, KGeoIV)
 
-Vom 16.11.2011 (Stand 01.01.2021)
+Vom 16.11.2011 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
