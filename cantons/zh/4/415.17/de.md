@@ -4,315 +4,378 @@ number: "415.17"
 title: "Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen (Interkantonale Universitätsvereinbarung, IUV) (Beitritt)"
 short: IUV
 language: de
-nachtrag: "52"
-valid_until: 2022-01-01
+nachtrag: "132"
 adopted: 2021-01-20
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_17-1998_04_01-1999_01_01-052.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_17-2021_01_20-2022_01_01-132.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Interkantonale Universitätsvereinbarung (Beitritt)
+# Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen (Interkantonale Universitätsvereinbarung, IUV) (Beitritt)
 
-(vom 1. April 1998)[^t-1]
+(vom 20. Januar 2021)[^t-1],[^t-2]
 
-Der Regierungsrat,
+Der Regierungsrat beschliesst:
 
-gestützt auf §§ 5 Abs. 3, 25 Ziffer 3 und 42 des Universitätsgesetzes vom 15. März 1998[^t-2],
+I. Der Kanton Zürich tritt der Interkantonalen Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen vom 27. Juni 2019 (Interkantonale Universitätsvereinbarung, IUV) bei[^t-3].
 
-beschliesst:
+II. Der Kanton Zürich kündigt die Interkantonale Universitätsvereinbarung vom 20. Februar 1997 per 31. Dezember 2019. Der Austritt erfolgt mit Wirkung auf den Zeitpunkt des Inkrafttretens der IUV gemäss Dispositiv I.
 
-I. Der Kanton Zürich tritt der Interkantonalen Universitätsvereinbarung vom 20. Februar 1997 bei.
+III. Der Beitritt gemäss Dispositiv I bedarf der Genehmigung[^t-4] des Kantonsrates.
 
-II. Der Beitritt bedarf der Genehmigung des Kantonsrates[^t-3].
+[^t-1]: OS 76, 480.
+[^t-2]: Inkrafttreten: 1. Januar 2022.
+[^t-3]: ABl 2021-01-29.
+[^t-4]: Vom Kantonsrat am 5. Juli 2021 genehmigt. 1. 4. 26 - 132 1
 
-(vom 20. Februar 1997)
+## Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen (Interkantonale Universitätsvereinbarung, IUV)
 
-[^t-1]: OS 54, 692.
-[^t-2]: LS 415.11.
-[^t-3]: Vom Kantonsrat genehmigt am 24. August 1998. 1. 4. 06 - 52 1
+Vom 27. Juni 2019
 
-### I. Allgemeine Bestimmungen
+### I Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Die Vereinbarung regelt den gleichberechtigten interkantonalen Zugang zu den Universitäten und die Abgeltung der Kantone an die Universitätskantone.
+<sup>1</sup> Die Vereinbarung regelt den gleichberechtigten interkan-
 
-<sup>2</sup> Sie trägt damit zu einer koordinierten schweizerischen Hochschulpolitik bei.
+tonalen Zugang zu den kantonalen universitären Hochschulen und zu Institutionen im universitären Hochschulbereich sowie die Abgeltung der Kantone an die Trägerkantone.
+
+<sup>2</sup> Sie fördert damit den interkantonalen Lastenausgleich sowie die Freizügigkeit für Studierende und ist Teil einer koordinierten schweizerischen Hochschulpolitik.
 
 #### Art. 2
 
-**Begriffe**
+**Subsidiarität zu Mitträgervereinbarungen**
 
-<sup>1</sup> Vereinbarungskanton ist ein Kanton, welcher der Vereinbarung beigetreten ist. Zahlungspflichtiger Kanton ist ein Vereinbarungskanton, der für seine Kantonsangehörigen Beiträge zu zahlen hat.
-
-<sup>2</sup> Universitätskanton ist ein Vereinbarungskanton, der Träger einer anerkannten Universität oder einer vom Bund als beitragsberechtigt anerkannten Institution universitärer Lehre im Bereich der Grundausbildung ist[^2-1].
-
-[^2-1]: SR 414.20.
+Interkantonale Vereinbarungen, welche die Mitträgerschaft einer oder mehrerer universitärer Hochschulen und von Institutionen im universitären Hochschulbereich regeln, gehen dieser Vereinbarung vor, sofern sie die Grundsätze gemäss Artikel 3 nicht verletzen.
 
 #### Art. 3
 
 **Grundsätze**
 
-<sup>1</sup> Die zahlungspflichtigen Kantone leisten den Universitätskantonen einen jährlichen Beitrag an die Ausbildungskosten ihrer Kantonsangehörigen.
+<sup>1</sup> Die zahlungspflichtigen Kantone leisten den Trägerkan-
 
-<sup>2</sup> Die Universitätskantone gewähren den Studierenden, Studienanwärterinnen und Studienanwärtern aus allen Vereinbarungskantonen die gleiche Rechtsstellung wie denjenigen des eigenen Kantons.
+tonen universitärer Hochschulen (Hochschulträgerkantonen) für ihre Studierenden Beiträge an die Kosten des Hochschulstudiums.
+
+<sup>2</sup> Die Hochschulträgerkantone müssen für ihre Studierenden mindestens dieselben geldwerten Leistungen erbringen, wie sie die vorliegende Vereinbarung vorsieht.
+
+<sup>3</sup> Sie gewähren den Studierenden aus allen Vereinbarungskantonen die gleiche Rechtsstellung.
+
+### II Beitragsberechtigung
 
 #### Art. 4
 
-**Universitätspolitik**
+**Beitragsberechtigte Studienangebote**
 
-<sup>1</sup> Die Universitätskantone koordinieren ihre Universitätspolitik. Sie beteiligen die Nichtuniversitätskantone in angemessener Weise an ihren Arbeiten und Entscheidungen und gewähren ihnen Einsitz in die gemeinsamen Gremien.
+<sup>1</sup> Beitragsberechtigt sind Studienangebote von institutionell
 
-<sup>2</sup> Die Universitätskantone arbeiten mit dem Bund zusammen und stimmen ihre Politik mit der Fachhochschulpolitik der Kantone und des Bundes ab.
+akkreditierten öffentlich-rechtlichen kantonalen Hochschulen sowie von akkreditierten öffentlich-rechtlichen Institutionen der Kantone im universitären Hochschulbereich.
 
-<sup>3</sup> Gesamtschweizerische Vereinbarungen unter den Universitätskantonen in Ausführung von Absatz 1 sind vorgängig der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) zur Stellungnahme zu unterbreiten.
+<sup>2</sup> Die Konferenz der Vereinbarungskantone kann universitäre Hochschulen und Institutionen im universitären Hochschulbereich, die sich im Akkreditierungsverfahren befinden, als beitragsberechtigt erklären. Sie definiert die dafür massgebenden Kriterien in Richtlinien. Artikel 26 wird vorbehalten.
 
-<sup>4</sup> Die Universitätskantone orientieren periodisch die Kommission Universitätsvereinbarung (Art. 16) und die EDK.
+<sup>3</sup> Studienangebote, deren Abschluss den Zugang zu einem geregelten Beruf beinhaltet, gelten als beitragsberechtigt, wenn die im massgebenden Recht formulierten zusätzlichen Anerkennungsvoraussetzungen erfüllt sind.
+
+<sup>4</sup> Studienangebote im Sinne der vorhergehenden Absätze sind a. Bachelor- oder Masterstudien,
+
+- b. Doktoratsstudien unter Berücksichtigung von Artikel 11,
+
+- c. weitere von der Konferenz der Vereinbarungskantone bezeichnete Studienangebote.
+
+<sup>5</sup> Studienvorbereitende Angebote und Angebote der Weiterbildung sind nicht beitragsberechtigt.
 
 #### Art. 5
 
-**Fürstentum Liechtenstein**
+**Beitragsberechtigte Studienangebote privater Institutionen**
 
-Dieser Vereinbarung kann auch das Fürstentum Liechtenstein beitreten. Ihm stehen alle Rechte und Pflichten eines Vereinbarungskantons zu.
+<sup>1</sup> Studienangebote institutionell akkreditierter privater
+
+Hochschulen und von akkreditierten privaten Institutionen im universitären Hochschulbereich können von der Konferenz der Vereinbarungskantone als beitragsberechtigt anerkannt werden. Voraussetzung ist, dass der Standortkanton a. sich an der privaten Hochschule finanziell beteiligt,
+
+- b. für seine Studierenden an der privaten Hochschule mindestens dieselben geldwerten Leistungen erbringt, wie es die vorliegende Vereinbarung vorsieht,
+
+- c. sicherstellt, dass die private Hochschule den Studierenden aus allen Vereinbarungskantonen die gleiche Rechtsstellung gewährt und
+
+- d. im Trägerschaftsorgan der privaten Hochschule vertreten oder in anderer Weise an der strategischen Führung der Hochschule beteiligt ist.
+
+<sup>2</sup> Artikel 4 Absätze 3 bis 5 und Artikel 6 gelten auch für private Institutionen.
 
 #### Art. 6
 
-**Kantone als Mitträger von Universitäten**
+**Datenbank für beitragsberechtigte Studienangebote**
 
-Vereinbarungskantone, die finanzielle Mitträger einer Universität sind, haben dem betreffenden Universitätskanton keine Beiträge auf Grund dieser Vereinbarung zu entrichten, sofern ihre finanzielle Leistung die Beiträge nach Abschnitt IV dieser Vereinbarung erreicht oder übersteigt.
+<sup>1</sup> Die beitragsberechtigten Studienangebote sind nach Fach-
 
-#### Art. 7
+bereichen in einer Datenbank erfasst.
 
-**Zahlungspflichtiger Kanton**
-
-<sup>1</sup> Zahlungspflichtig ist der Vereinbarungskanton, in dem Studierende zum Zeitpunkt der Erlangung des Universitätszulassungsausweises gesetzlichen Wohnsitz hatten (Art. 23–26 ZGB[^7-1].
-
-<sup>2</sup> Für Studierende, die nach Erlangung eines ersten universitären Abschlusses (Lizenziat, Diplom oder ähnliches) ein Zweitstudium aufnehmen, ist der Vereinbarungskanton zahlungspflichtig, in dem diese zum Zeitpunkt der Aufnahme des Zweitstudiums (Semesterbeginn) gesetzlichen Wohnsitz hatten.
-
-[^7-1]: SR 210.
-
-### II. Studierende
-
-#### Art. 8
-
-**Begriff des Studierenden**
-
-<sup>1</sup> Als Studierende im Sinne dieser Vereinbarung gelten Personen, die an einer Universität oder an einer anderen anerkannten Institution gemäss Artikel 2 eines Vereinbarungskantons immatrikuliert sind.
-
-<sup>2</sup> Für die folgenden Studienstufen werden Beiträge geleistet:
-
-- a. Stufe vor dem Erstabschluss: Lizenziats- oder Diplomstudiengänge und solche mit einem nichtakademischen Abschluss;
-
-- b. Stufe Doktorat: Doktoratsstudiengänge.
-
-<sup>3</sup> Für beurlaubte Studierende werden keine Beiträge geleistet.
+<sup>2</sup> Ergibt sich die Zuordnung einzelner Angebote zu einem Fachbereich nicht aus den Merkmalen des Systems oder ist sie strittig, fällt die Kommission IUV einen Zuordnungsentscheid.
 
 **3**
 
-- 1\. 4. 06 - 52
+- 1\. 4. 26 - 132
+
+#### Art. 7
+
+**Studierende**
+
+<sup>1</sup> Als Studierende, die einen Beitrag im Sinne dieser Ver-
+
+einbarung auslösen, gelten Personen, die für ein beitragsberechtigtes Studienangebot immatrikuliert sind.
+
+<sup>2</sup> Für Studierende, die keine Studienleistungen beziehen, werden keine Beiträge geleistet.
+
+<sup>3</sup> Die Studierendenzahl wird auf der Grundlage der Studierendenstatistik des Bundesamtes für Statistik BFS ermittelt.
+
+### III Beitragsbemessung und Zahlungspflicht
+
+#### Art. 8
+
+**Bemessungsgrundlage**
+
+<sup>1</sup> Die interkantonalen Beiträge werden als jährlicher Pau-
+
+schalbeitrag pro Studentin oder Student pro Kostengruppe festgelegt.
+
+<sup>2</sup> Sie werden den zahlungspflichtigen Kantonen auf Grundlage der im Herbst- beziehungsweise Frühjahrssemester erhobenen Studierendenzahlen in Rechnung gestellt. Die Kommission IUV entscheidet über die Modalitäten der Rechnungsstellung.
 
 #### Art. 9
 
-**Ermittlung der Studierendenzahl**
+**Grundlagen für die Festlegung der interkantonalen Beiträge**
 
-<sup>1</sup> Die Studierendenzahl wird nach den Kriterien des Schweizerischen Hochschulinformationssystems des Bundesamts für Statistik ermittelt.
+<sup>1</sup> Grundlage für die Bemessung der interkantonalen Bei-
 
-<sup>2</sup> Die Studierenden werden je einer der drei nachfolgenden Fakultätsgruppen zugeordnet:
+träge sind die standardisierten Kosten pro Fachbereich. Diese ergeben sich aus a. den nach Abzug der Drittmittel für die Lehre verbleibenden Betriebskosten für die Lehre zu 100 Prozent sowie b. den Betriebskosten für die Forschung, welche dem Träger nach Abzug der Drittmittel für die Forschung verbleiben, zu 85 Prozent. Die Kosten werden auf der Grundlage der Statistik der Hochschulfinanzen des Bundesamtes für Statistik BFS ermittelt. Die Infrastrukturkosten werden nicht angerechnet.
 
-Fakultätsgruppe I: Studierende der Geistes- und Sozialwissenschaften;
+<sup>2</sup> Die Definition der Fachbereiche und deren Zuordnung zu einer Kostengruppe erfolgt im Anhang zur Vereinbarung.
 
-Fakultätsgruppe II: Studierende der Exakten-, Natur- und technischen Wissenschaften, der Pharmazie, der Ingenieurwissenschaften und der vorklinischen Ausbildung (erstes und zweites Studienjahr) der Human-, Zahn- und Veterinärmedizin; Fakultätsgruppe III: Studierende der klinischen Ausbildung der Human-, Zahn- und Veterinärmedizin ab drittem Studienjahr.
-
-<sup>3</sup> In Zweifelsfällen entscheidet die Kommission Universitätsvereinbarung über die Zuordnung von Studiengängen zu einer Fakultätsgruppe.
-
-<sup>4</sup> Den Vereinbarungskantonen wird Einsicht in die Namenslisten der Studierenden gewährt, für welche sie Beiträge leisten.
-
-### III. Hochschulzugang und Gleichbehandlung
+<sup>3</sup> Die Konferenz der Vereinbarungskantone kann bei wesentlichen Veränderungen der in Absatz 1 definierten Bemessungsgrundlagen die Zuordnung eines Fachbereichs zu einer Kostengruppe ändern, zusätzliche Kostengruppen einrichten und/oder bestehende Kostengruppen aufteilen. In begründeten Fällen kann sie zudem die für die Forschung anzurechnenden Betriebskosten plafonieren.
 
 #### Art. 10
 
-**Gleichbehandlung bei Zulassungsbeschränkungen**
+**Höhe der interkantonalen Beiträge**
 
-<sup>1</sup> Im Falle von Zulassungsbeschränkungen geniessen die Studienanwärterinnen, Studienanwärter und Studierenden aus allen Vereinbarungskantonen die gleiche Rechtsstellung wie diejenigen des Universitätskantons.
+<sup>1</sup> Ausgehend von den standardisierten Kosten pro Fach-
 
-<sup>2</sup> Erlässt ein Universitätskanton Zulassungsbeschränkungen, so holt er vorgängig die Stellungnahme der Kommission Universitätsvereinbarung ein.
+bereich werden die Durchschnittskosten pro Kostengruppe errechnet sowie ein Abzug in Höhe der durchschnittlichen Studiengebühren und der effektiven oder pauschal berechneten Bundesbeiträge vorgenommen. Die Beiträge entsprechen 85 Prozent der so errechneten Kosten.
 
-<sup>3</sup> Wenn in einem Fach die Studienplatzkapazitäten einer oder mehrerer Universitäten ausgeschöpft sind, können Studienanwärterinnen, Studienanwärter und Studierende an andere Universitäten umgeleitet werden, sofern diese freie Studienplätze zur Verfügung stellen. Die Kommission Universitätsvereinbarung bezeichnet die für die Umleitungen zuständige Stelle.
+<sup>2</sup> Die interkantonalen Beiträge für die Kostengruppe III betragen maximal das Doppelte des Durchschnitts der für die Fachbereiche dieser Kostengruppe ermittelten Kosten für die Lehre gemäss Artikel 9 Absatz 1 litera a. In begründeten Fällen kann die Konferenz der Vereinbarungskantone die Beiträge für die Kostengruppe III über das definierte Maximum hinaus erhöhen. Artikel 26 Absatz 3 wird vorbehalten.
+
+<sup>3</sup> Für die Festlegung der Beiträge und die Dauer der Gültigkeit ist die Konferenz der Vereinbarungskantone zuständig.
 
 #### Art. 11
 
-Behandlung von Studierenden aus Nichtvereinbarungskantonen
+**Dauer der Beitragspflicht**
 
-<sup>1</sup> Studierende aus Nichtvereinbarungskantonen haben keinen Anspruch auf Gleichbehandlung.
+<sup>1</sup> Interkantonale Beiträge im Sinne der Vereinbarung sind
 
-<sup>2</sup> Sie werden an eine Universität erst zugelassen, wenn die Studierenden aus Vereinbarungskantonen Aufnahme gefunden haben.
+für ein Erst- sowie ein allfälliges Zweitstudium zu entrichten. Ein Studium (Erst- oder Zweitstudium) kann Studienangebote auf Bachelor-, Master- sowie allenfalls Doktoratsstufe enthalten. Voraussetzung für die Finanzierung eines Zweitstudiums ist ein erster universitärer Abschluss auf Stufe Master.
 
-<sup>3</sup> Ihnen werden zusätzliche Gebühren auferlegt, die mindestens den Beiträgen gemäss Artikel 12 entsprechen.
+<sup>2</sup> Die Beitragspflicht ist zeitlich auf 12 Semester für ein Erst- und weitere 12 Semester für ein Zweitstudium begrenzt. Für Studierende der medizinischen Studiengänge verlängert sich die Dauer der Beitragspflicht auf 16 Semester.
 
-### IV. Beiträge
+<sup>3</sup> Die Konferenz der Vereinbarungskantone legt die maximale beitragsberechtigte Dauer für Studienangebote gemäss Artikel 4 Absatz 4 litera c fest.
 
 #### Art. 12
 
-**Beitragshöhe**
+**Zahlungspflichtiger Kanton**
 
-<sup>1</sup> Die Pauschalbeträge pro Studierenden belaufen sich auf:
+<sup>1</sup> Zahlungspflichtig ist derjenige Vereinbarungskanton, in
 
-### Jahr Fakultätsgruppe I Fakultätsgruppe II Fakultätsgruppe III
+dem eine Studentin oder ein Student zum Zeitpunkt des Erwerbs des Zulassungsausweises zur universitären Hochschule zivilrechtlichen Wohnsitz (Artikel 23ff. ZGB[^12-1] hatte.
 
-**Fr. 22 700 Fr. 30 467 Fr. 38 233 Fr. 46 000 Fr. 46 000**
+<sup>2</sup> Bei Aufnahme eines Zweitstudiums ist derjenige Kanton zahlungspflichtig, in dem eine Studentin oder ein Student zum Zeitpunkt der Aufnahme des Zweitstudiums (Semesterbeginn) zivilrechtlichen Wohnsitz hat.
 
-1999 Fr. 9500 Fr. 17 700
-
-2000 Fr. 9500 Fr. 19 467
-
-2001 Fr. 9500 Fr. 21 233
-
-2002 Fr. 9500 Fr. 23 000
-
-2003 Fr. 9500 Fr. 23 000
-
-<sup>2</sup> Je die Hälfte der oben erwähnten Beiträge ist für die Studierenden im Wintersemester und im Sommersemester zu entrichten.
+[^12-1]: Schweizerisches Zivilgesetzbuch vom 10. Dezember 1907; SR 210 1. 4. 26 - 132 5
 
 #### Art. 13
 
-**Abzug für hohe Wanderungsverluste**
+**Studiengebühren**
 
-<sup>1</sup> Die Beiträge werden für die Kantone Uri, Wallis und Jura um zehn Prozent, für die Kantone Glarus, Graubünden und Tessin um fünf Prozent herabgesetzt.
+Die Hochschulträgerkantone können angemessene individuelle Studiengebühren erheben. Übersteigt die Summe der Beiträge gemäss Artikel 10 und der individuellen Studiengebühren die den Beiträgen zugrunde liegenden standardisierten Kosten pro Kostengruppe gemäss Anhang, werden die Beiträge entsprechend gekürzt.
 
-<sup>2</sup> Der Abzug für Wanderungsverluste geht zu Lasten der Universitätskantone. Massgebend ist das Verhältnis der Beiträge, die sie für ausserkantonale Studierende erhalten.
+### IV Hochschulzugang und Gleichbehandlung
 
 #### Art. 14
 
-**Dauer der Zahlungspflicht**
+**Gleichbehandlung bei der Zulassung**
 
-<sup>1</sup> Die Zahlungspflicht ist zeitlich begrenzt auf a. 12 Semester für immatrikulierte Studierende eines Studienfaches der Fakultätsgruppen I und II;
-
-- b. 16 Semester für immatrikulierte Studierende eines Studienfaches der Fakultätsgruppe III.
-
-<sup>2</sup> Berücksichtigt wird die gesamte Immatrikulationsdauer an einer oder mehreren Schweizer Universitäten und Institutionen universitärer Lehre.
-
-**5**
-
-- 1\. 4. 06 - 52
-
-<sup>3</sup> Für Zweitstudien nach Erlangung eines universitären Diploms oder Lizenziats (Art. 7 Abs. 2) beginnt die Zählung der Semesterzahlen wieder bei Null. Das Doktorat im gleichen Fach gilt nicht als Zweitstudium.
+Die Studienanwärterinnen, die Studienanwärter und die Studierenden aus den Vereinbarungskantonen haben bezüglich der Zulassung zum Studium die gleiche Rechtsstellung wie diejenigen des Hochschulträgerkantons beziehungsweise der Hochschulträgerkantone. Dies gilt auch bei Vorliegen von Zulassungsbeschränkungen.
 
 #### Art. 15
 
-**Abzug bei hohen Studiengebühren**
+**Behandlung von Studierenden aus Nichtvereinbarungskantonen**
 
-Die Universitätskantone können angemessene individuelle Studiengebühren erheben. Übersteigen diese Gebühren eine von der Kommission Universitätsvereinbarung festgelegte Höchstgrenze, werden die in Artikel 12 festgelegten Beiträge an den betreffenden Universitätskanton entsprechend gekürzt.
+<sup>1</sup> Studierende aus Nichtvereinbarungskantonen haben kei-
 
-### V. Vollzug
+nen Anspruch auf Gleichbehandlung.
+
+<sup>2</sup> Sie werden an ein beitragsberechtigtes Studienangebot im Sinne dieser Vereinbarung erst zugelassen, wenn die Studierenden aus Vereinbarungskantonen Aufnahme gefunden haben.
+
+<sup>3</sup> Sie leisten für die in Anspruch genommenen Studienangebote Beiträge, die mindestens den Beiträgen gemäss Artikel 10 entsprechen.
+
+### V Vollzug
 
 #### Art. 16
 
-**Kommission Universitätsvereinbarung**
+**Die Konferenz der Vereinbarungskantone**
 
-<sup>1</sup> Die Kommission Universitätsvereinbarung überwacht den Vollzug dieser Vereinbarung.
+<sup>1</sup> Die Konferenz der Vereinbarungskantone setzt sich aus
 
-<sup>2</sup> Sie wird paritätisch durch die Erziehungsdirektorenkonferenz (EDK) und die Finanzdirektorenkonferenz (FDK) bestellt; sie setzt sich aus je vier Regierungsvertretern bzw. Regierungsvertreterinnen von Universitätskantonen und Nichtuniversitätskantonen zusammen.
+je einer regierungsrätlichen Vertreterin oder einem regierungsrätlichen Vertreter der Kantone zusammen, die der Vereinbarung beigetreten sind.
 
-<sup>3</sup> Eine Vertreterin oder ein Vertreter des Bundes nimmt mit beratender Stimme an den Sitzungen teil.
+<sup>2</sup> Ihr obliegen folgende Aufgaben:
 
-<sup>4</sup> Der Kommission Universitätsvereinbarung obliegen insbesondere die folgenden Aufgaben: Sie – beaufsichtigt die Tätigkeit der Geschäftsstelle;
+- a. Festlegung der interkantonalen Beiträge pro Kostengruppe und die Dauer von deren Gültigkeit einschliesslich Definition der in Abzug zu bringenden Bundesbeiträge (Artikel 10),
 
-- trifft die laufenden Sachentscheide, die sich beim Vollzug der Vereinbarung stellen;
+- b. Definition der Fachbereiche und Zuordnung zu einer Kostengruppe (Artikel 9 Absatz 2),
 
-- stellt in wichtigen Fragen Anträge an die Regierungen der Vereinbarungskantone; die Vorstände der EDK und der FDK sind in der Regel vorher anzuhören.
+- c. Änderung der Zuordnung eines Fachbereichs zu einer Kostengruppe, Einrichtung zusätzlicher Kostengruppen und/oder Aufteilung bestehender Kostengruppen sowie entsprechende Anpassung des Anhangs (Artikel 9 Absatz 3),
+
+- d. Plafonierung der anzurechnenden Betriebskosten für die Forschung in begründeten Fällen (Artikel 9 Absatz 3),
+
+- e. Erhöhung der Beiträge für die Kostengruppe III über das definierte Maximum hinaus (Artikel 10 Absatz 2),
+
+- f. Definition weiterer Studienangebote (Artikel 4 Absatz 4 litera c) sowie die Festlegung der entsprechenden Regelstudiendauer (Artikel 11 Absatz 3),
+
+- g. Kürzung von Beiträgen (Artikel 13),
+
+- h. Entscheid über die Beitragsberechtigung von Studienangeboten von Hochschulen im Akkreditierungsverfahren (Artikel 4 Absatz 2), von Studienangeboten, deren Abschluss den Zugang zu einem geregelten Beruf beinhaltet (Artikel 4 Absatz 3) sowie von Studienangeboten privater Hochschulen (Artikel 5),
+
+- i. Genehmigung von Budget und Rechnung bezüglich der Vollzugskosten (Artikel 19),
+
+- k. Wahl der Mitglieder und des oder der Vorsitzenden der Kommission IUV (Artikel 17) und
+
+- l. Festlegung des Rechnungsjahrs, ab welchem die Beiträge für die Kostengruppe III auf Basis der validierten Kosten berechnet werden.
+
+<sup>3</sup> Die Beschlüsse gemäss Absatz 2 litera a bis g sowie l bedürfen der Mehrheit von zwei Dritteln der Konferenzmitglieder, darunter mindestens die Hälfte der Universitätskantone gemäss Hochschulkonkordat[^16-1]. Für die übrigen Beschlüsse gilt das einfache Mehr der anwesenden Konferenzmitglieder.
+
+[^16-1]: Interkantonale Vereinbarung über den schweizerischen Hochschulbereich (Hochschulkonkordat) vom 20. Juni 2013; Sammlung der Rechtsgrundlagen der EDK, Ziffer 6.0 1. 4. 26 - 132 7
 
 #### Art. 17
 
-**Geschäftsstelle**
+**Kommission IUV**
 
-Geschäftsstelle der Vereinbarung ist das Sekretariat der EDK. Sie besorgt die laufenden Geschäfte der Vereinbarung.
+<sup>1</sup> Für den Vollzug wählt die Konferenz der Vereinbarungs-
+
+kantone eine Kommission IUV. Die Amtsdauer beträgt vier Jahre.
+
+<sup>2</sup> Die Kommission IUV setzt sich aus acht regierungsrätlichen Vertretungen der Vereinbarungskantone zusammen. Vier Mitglieder der Kommission IUV vertreten einen Universitätskanton, vier einen Nichtuniversitätskanton.
+
+<sup>3</sup> Je eine Vertretung des Staatssekretariats für Bildung, Forschung und Innovation SBFI und des Bundesamtes für Statistik BFS nehmen mit beratender Stimme an den Sitzungen teil.
+
+<sup>4</sup> Der Kommission IUV obliegen insbesondere die folgenden Aufgaben:
+
+- a. Überwachung des Vollzugs, insbesondere auch der Geschäftsstelle,
+
+- b. Entscheid über die Zuordnung eines Angebots zu einem Fachbereich in strittigen Fällen (Artikel 6 Absatz 2),
+
+- c. Antragsstellung an die Konferenz der Vereinbarungskantone für Entscheide gemäss Artikel 16 Absatz 2 litera a bis g und l sowie
+
+- d. Regelung der Rechnungslegung, der Beitragszahlung, der Termine und Stichdaten sowie des Vorgehens bei allfälligen Verzugszinsen.
 
 #### Art. 18
 
-**Zahlungstermin**
+**Geschäftsstelle**
 
-<sup>1</sup> Die Kommission Universitätsvereinbarung legt die Termine für die Ein- und Auszahlung der Beiträge fest.
+<sup>1</sup> Das Generalsekretariat der Schweizerischen Konferenz
 
-<sup>2</sup> Sie kann für verspätete Zahlungen einen Verzugszins festlegen. Dieser darf nicht höher sein als derjenige der direkten Bundessteuer.
+der kantonalen Erziehungsdirektoren (EDK) ist Geschäftsstelle der Vereinbarung.
+
+<sup>2</sup> Sie führt das zentrale Inkasso für die Beitragszahlungen.
 
 #### Art. 19
 
-**Verrechnung**
+**Vollzugskosten**
 
-Beiträge, die ein Vereinbarungskanton zu leisten hat, werden mit seinen Forderungen aus dieser Vereinbarung verrechnet.
+Die Kosten des Vollzugs dieser Vereinbarung sind durch die Vereinbarungskantone nach Massgabe der Zahl ihrer Studierenden zu tragen. Sie werden ihnen jährlich in Rechnung gestellt.
 
 #### Art. 20
 
-**Zinsertrag aus den Beiträgen**
+**Streitbeilegung**
 
-<sup>1</sup> Die Kosten des Vollzugs der Vereinbarung werden aus dem Zinsertrag finanziert.
+<sup>1</sup> Auf Streitigkeiten, die sich aus der vorliegenden Verein-
 
-<sup>2</sup> Die Kommission Universitätsvereinbarung kann beschliessen, den Zinsertrag für weitere Aufgaben zu verwenden, die sich aus dem Vollzug der Vereinbarung ergeben.
+barung ergeben, wird das Streitbeilegungsverfahren gemäss IRV[^20-1] angewendet.
 
-### VI. Rechtspflege
+<sup>2</sup> Kann die Streitigkeit nicht beigelegt werden, entscheidet auf Klage hin das Bundesgericht gemäss Artikel 120 Absatz 1 litera b BGG[^20-2].
+
+[^20-1]: Rahmenvereinbarung vom 24. Juni 2005 für die interkantonale Zusammenarbeit mit Lastenausgleich (Rahmenvereinbarung, IRV)
+[^20-2]: Bundesgesetz vom 17. Juni 2005 über das Bundesgericht (Bundesgerichtsgesetz, BGG); SR 173.110
+
+### VI Schlussbestimmungen
 
 #### Art. 21
 
-**Schiedsinstanz**
+**Beitritt**
 
-Eine von der Kommission Universitätsvereinbarung eingesetzte Schiedsinstanz entscheidet endgültig über strittige Fragen betreffend die Studierendenzahl, die Zuordnung der Studierenden zu einer der drei Fakultätsgruppen und die Zahlungspflicht eines Kantons.
+<sup>1</sup> Der Beitritt zu dieser Vereinbarung wird dem Vorstand
+
+der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren gegenüber erklärt.
+
+<sup>2</sup> Mit dem Beitritt zu dieser Vereinbarung erklären die Kantone gleichzeitig den Austritt aus der interkantonalen Universitätsvereinbarung vom 20. Februar 1997.
 
 #### Art. 22
 
-**Bundesgericht**
+**Inkrafttreten**
 
-Das Bundesgericht entscheidet gemäss Artikel 83 Absatz 1 Buchstabe b des Bundesgesetzes über die Bundesrechtspflege vom 16. Dezember 1943[^22-1] auf staatsrechtliche Klage über Streitigkeiten, die sich aus dieser Vereinbarung zwischen Kantonen ergeben können; vorbehalten bleibt Artikel 21.
+<sup>1</sup> Der Vorstand der Schweizerischen Konferenz der kan-
 
-[^22-1]: SR 173.110.
+tonalen Erziehungsdirektoren setzt die Vereinbarung in Kraft, wenn ihr 18 Kantone beigetreten sind.
 
-### VII. Schlussbestimmungen
+<sup>2</sup> Das Inkrafttreten ist dem Bund zur Kenntnis zu bringen.
 
 #### Art. 23
 
-**Beitritt**
+**Kündigung**
 
-Der Beitritt zu dieser Vereinbarung ist dem Generalsekretariat der EDK mitzuteilen.
+Die Vereinbarung kann unter Einhaltung einer Frist von zwei Jahren jeweils auf den 31. Dezember durch schriftliche Erklärung an die Konferenz der Vereinbarungskantone gekündigt werden.
 
 #### Art. 24
 
-**Verlängerung und Kündigung**
+**Weiterbestehen der Verpflichtungen**
 
-<sup>1</sup> Die Vereinbarung kann jeweils auf Ende Jahr, bei einer Kündigungsfrist von zwei Jahren, gekündigt werden.
-
-<sup>2</sup> Erster Kündigungstermin ist der 31. Dezember 2003.
-
-<sup>3</sup> Wird die Vereinbarung nicht gekündigt, so gilt sie jeweils als für ein Jahr verlängert.
-
-**7**
-
-- 1\. 4. 06 - 52
+Kündigt ein Kanton die Vereinbarung, bleiben seine Verpflichtungen aus dieser Vereinbarung für die zum Zeitpunkt des Austritts in Ausbildung befindlichen Studierenden bis zum Ende ihres Studiums bestehen.
 
 #### Art. 25
 
-**Mindestzahl der Vereinbarungskantone**
+**Fürstentum Liechtenstein**
 
-Diese Vereinbarung ist nur rechtsgültig, wenn und solange mindestens je die Hälfte der Universitäts- und der Nichtuniversitätskantone ihren Beitritt erklärt haben.
+Dieser Vereinbarung kann das Fürstentum Liechtenstein auf der Grundlage seiner eigenen Gesetzgebung beitreten. Ihm stehen alle Rechte und Pflichten eines Vereinbarungskantons zu.
 
 #### Art. 26
 
-**Anpassung der Beiträge und der Abzüge**
+**Übergangsrecht**
 
-<sup>1</sup> Die Kommission Universitätsvereinbarung kann a. die Höhe der Beiträge nach Massgabe der Entwicklung der Ausbildungskosten anpassen, erstmalig auf den 1. Januar 2004;
+<sup>1</sup> Die Beitragsberechtigungen gemäss der Interkantonalen
 
-- b. die Höhe der Abzüge für hohe Wanderungsverluste anpassen, soweit eine massgebliche Situationsveränderung eintritt, erstmalig auf den 1. Januar 2004.
+Universitätsvereinbarung vom 20. Februar 1997 bleiben bis zur Entscheidung über die institutionelle Akkreditierung (Artikel 4 Absatz 2 und Artikel 5 Absatz 1) gemäss HFKG[^26-1] beziehungsweise bis zum Entscheid über die Erfüllung zusätzlicher Anerkennungsvoraussetzungen gemäss Artikel 4 Absatz 3 und Artikel 5 Absatz 2, längstens aber bis acht Jahre nach Inkrafttreten des HFKG, bestehen.
 
-<sup>2</sup> Die Anpassung der Beiträge darf die Teuerung nach Massgabe des Landesindexes der Konsumentenpreise nicht überschreiten.
+<sup>2</sup> Die Leistungsabgeltungen derjenigen Kantone, die der IUV nicht oder noch nicht beigetreten sind, erfolgen für die Dauer von längstens zwei Jahren nach Inkrafttreten der Vereinbarung gestützt auf die Interkantonale Universitätsvereinbarung vom 20. Februar 1997. Nach Ablauf dieser Frist gilt für alle Nichtvereinbarungskantone Artikel 15.
 
-<sup>3</sup> Dem Beschluss müssen mindestens fünf Mitglieder zustimmen.
+<sup>3</sup> Solange betreffend die Ausbildung der Human-, Zahn- und Veterinärmedizin keine validierten Kosten vorliegen, betragen die interkantonalen Beiträge für die Kostengruppe III das Doppelte der Beiträge für die Kostengruppe II. Die Konferenz der Vereinbarungskantone entscheidet, ab welchem Rechnungsjahr die Beiträge für die Kostengruppe III auf Basis der validierten Kosten berechnet werden.
 
-<sup>4</sup> Die Kommission Universitätsvereinbarung hat ihren Beschluss mindestens zweieinhalb Jahre vor dem Inkrafttreten mitzuteilen.
+[^26-1]: Bundesgesetz vom 30. September 2011 über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich (Hochschulförderungs- und -koordinationsgesetz, HFKG); SR 414.20 1. 4. 26 - 132 9
 
 #### Art. 27
 
-**Weiterdauer der Verpflichtungen**
+**Berechnung der Beiträge im Übergang von der IUV 1997 auf die IUV 2019**
 
-Kündigt ein Kanton die Vereinbarung, bleiben seine Verpflichtungen aus dieser Vereinbarung bezüglich der zum Zeitpunkt des Austritts immatrikulierten Studierenden weiter bestehen.
+<sup>1</sup> Für eine Übergangsphase von drei Jahren nach Inkraft-
+
+treten der IUV 2019 wird für die Berechnung der Kantonsbeiträge wie folgt vorgegangen:
+
+- a. Multiplikation der Differenz zwischen den Beiträgen IUV 2019 und IUV 1997 mit dem Faktor 0.25 (erstes Berechnungsjahr), mit dem Faktor 0.5 (zweites Berechnungsjahr) beziehungsweise mit dem Faktor 0.75 (drittes Berechnungsjahr) und Festlegung eines entsprechenden Korrekturbetrags für jeden Kanton,
+
+- b. Berechnung der effektiven Beiträge pro Kanton auf Basis der Beiträge gemäss IUV 1997 zuzüglich des Korrekturbetrags gemäss litera a.
+
+<sup>2</sup> Nach Abschluss dieser dreijährigen Übergangsphase erfolgt die Berechnung der Kantonsbeiträge ausschliesslich basierend auf der IUV 2019.
+
+### Anhang
+
+### Bezeichnung der Kostengruppen und Zuordnung der Fachbereiche
+
+gemäss Artikel 9 Absatz 2 der Vereinbarung
+
+Die Kostengruppen gemäss Artikel 9 Absatz 2 werden wie folgt definiert:
+
+Kostengruppe I: Geistes- und Sozialwissenschaften, Wirtschaftswissenschaften und Recht Kostengruppe II: exakte Wissenschaften, Naturwissenschaften, technische Wissenschaften, Pharmazie, erstes und zweites Studienjahr der Human-, Zahn- und Veterinärmedizin Kostengruppe III: Human-, Zahn- und Veterinärmedizin ab drittem Studienjahr
