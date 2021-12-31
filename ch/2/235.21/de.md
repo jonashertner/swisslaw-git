@@ -3,11 +3,11 @@ sr: "235.21"
 title: Verordnung vom 22. März 2019 über das Informationssystem Ordipro (Ordipro-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/209"
 language: de
-version: 2019-05-01
+version: 2022-01-01
 adopted: 2019-03-22
 in_force: 2019-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/209/20190501/de/xml/fedlex-data-admin-ch-eli-cc-2019-209-20190501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20190501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/209/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2019-209-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20190501/de"
 
 (Ordipro-Verordnung)
 
-vom 22. März 2019 (Stand am 1. Mai 2019)
+vom 22. März 2019 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -74,10 +74,10 @@ Das Protokoll EDA und die Mission Genf tragen die Verantwortung für das Ordipro
 
 <sup>3</sup> Das Ordipro teilt jeder neu erfassten Person automatisch eine Nummer zu.
 
-<sup>4</sup> Die im Ordipro erfassten Versichertennummern nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^5-1] über die Alters- und Hinterlassenenversicherung (Versichertennummer) werden nach den Artikeln 133<sup>bis</sup> und 134<sup>quater</sup> der Verordnung vom 31. Oktober 1947[^5-2] über die Alters- und Hinterlassenenversicherung verifiziert und gegebenenfalls berichtigt. Personen ohne Versichertennummer weist die Zentrale Ausgleichsstelle (ZAS) die Versichertennummer zu.
+<sup>4</sup> Die im Ordipro erfassten AHV-Nummern werden nach den Artikeln 133<sup>bis</sup> und 134<sup>quater</sup> der Verordnung vom 31. Oktober 1947[^5-1] über die Alters- und Hinterlassenenversicherung verifiziert und gegebenenfalls berichtigt. Personen ohne AHV-Nummer weist die Zentrale Ausgleichsstelle (ZAS) die AHV-Nummer zu.[^5-2]
 
-[^5-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^5-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^5-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^5-2]: Fassung gemäss Anhang Ziff. II 10 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 6
 
@@ -120,14 +120,17 @@ Die folgenden Stellen können die Daten nach dem Anhang zur Erfüllung der nachs
 - b. die Direktion für Völkerrecht: zur Überprüfung von Ansprüchen im Rahmen des diplomatischen und konsularischen Rechts;
 - c. die Grenzkontrollbehörden: zur Durchführung der Personenkontrolle;
 - d. ausgewählte internationale Organisationen und Vertretungen nach Artikel 5 Absatz 2: zur Erfassung, Kontrolle und Verwaltung der Daten der von ihnen gemeldeten Personen;
-- e. die Behörden der Eidgenössischen Zollverwaltung: zur Identitätsabklärung und zur Erfüllung ihrer Aufgaben im Rahmen der Zollgesetzgebung;
+- e. die Behörden des Bundesamts für Zoll und Grenzsicherheit[^7-1]: zur Identitätsabklärung und zur Erfüllung ihrer Aufgaben im Rahmen der Zollgesetzgebung;
 - f. die Motorfahrzeugkontrollen und Strassenverkehrsämter der Kantone: zur Kontrolle der Fahrzeuge und zur Identitätsabklärung der Fahrzeugführerinnen und Fahrzeugführer;
-- g. die ZAS: zur Zuweisung der Versichertennummer;
+- g. die ZAS: zur Zuweisung der AHV-Nummer[^7-2];
 - h. die Steuerbehörden des Bundes, der Kantone und der Gemeinden: zur Abklärung einer allfälligen Steuerpflicht.
 
 <sup>4</sup> Die Einheit für Informatik des EDA verfügt über diejenigen Bearbeitungsrechte, die zur Erfüllung ihrer Aufgaben notwendig sind.
 
 <sup>5</sup> Alle Bearbeitungsrechte werden im Abrufverfahren ausgeübt.
+
+[^7-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^7-2]: Ausdruck gemäss Anhang Ziff. II 10 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 8
 
@@ -138,7 +141,7 @@ Die folgenden Stellen können die Daten nach dem Anhang zur Erfüllung der nachs
 Den folgenden Stellen werden die Daten nach dem Anhang automatisch und verschlüsselt übermittelt:
 
 - a. dem Bundesamt für Statistik: im Rahmen der Statistikerhebungsverordnung vom 30. Juni 1993[^8-1] und der Registerharmonisierungsverordnung vom 21. November 2007[^8-2];
-- b. der ZAS: zur Verifizierung und Zuweisung der Versichertennummer;
+- b. der ZAS: zur Verifizierung und Zuweisung der AHV-Nummer;
 - c. dem fedpol: für die Online-Abfrage nach Artikel 6 Buchstabe a;
 - d. dem SEM: für die Online-Abfrage nach Artikel 6 Buchstaben b und c;
 - e. dem Hersteller der Legitimationskarten: zur Herstellung der Legitimationskarten;
@@ -221,7 +224,7 @@ Das Protokoll EDA und die Mission Genf erlassen ein Bearbeitungsreglement. Diese
 
 Die Ordipro-Verordnung vom 7. Juni 2004[^16-1] wird aufgehoben.
 
-[^16-1]: [[AS 2004 2951](https://fedlex.data.admin.ch/eli/oc/2004/363), [2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)Anhang Ziff. 6 [6719](https://fedlex.data.admin.ch/eli/oc/2007/868)Anhang Ziff. 3, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 11, [2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)Ziff. III]
+[^16-1]: [[AS 2004 2951](https://fedlex.data.admin.ch/eli/oc/2004/363); [2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)Anhang Ziff. 6, [6719](https://fedlex.data.admin.ch/eli/oc/2007/868)Anhang Ziff. 3; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 11; [2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)Ziff. III]
 
 #### Art. 17
 
@@ -248,7 +251,7 @@ Anhang
 Aufschlüsselung der in der Tabelle verwendeten Kurzformen
 
 <table>
-<tr><td colspan="2">Zugriffsberechtigte / Daten empfangende Stellen</td></tr>
+<tr><th colspan="2">Zugriffsberechtigte / Daten empfangende Stellen</th></tr>
 <tr><td>Protokoll EDA</td><td></td></tr>
 <tr><td>Mission Genf</td><td></td></tr>
 <tr><td>Einwohnerdienste/Polizeibehörden</td><td>Einwohnerdienste und Polizeibehörden der Kantone und Gemeinden</td></tr>
@@ -261,7 +264,7 @@ Aufschlüsselung der in der Tabelle verwendeten Kurzformen
 <tr><td>DV</td><td>Direktion für Völkerrecht</td></tr>
 <tr><td>GzKB</td><td>Grenzkontrollbehörden</td></tr>
 <tr><td>IO/VT</td><td>Ausgewählte internationale Organisationen und Vertretungen nach Artikel 5 Absatz 2</td></tr>
-<tr><td>EZV</td><td>Behörden der Eidgenössischen Zollverwaltung</td></tr>
+<tr><td>BAZG</td><td>Behörden des Bundesamts für Zoll und Grenzsicherheit</td></tr>
 <tr><td>MFK/SVA</td><td>Motorfahrzeugkontrollen und Strassenverkehrsämter der Kantone</td></tr>
 <tr><td>ZAS</td><td>Zentrale Ausgleichsstelle</td></tr>
 <tr><td>Steuerbehörden</td><td>Steuerbehörden des Bundes, der Kantone und der Gemeinden</td></tr>
@@ -284,12 +287,12 @@ Bearbeitungsrechte
 - D Verschlüsselte Datenübermittlung
 
 <table>
-<tr><th>Bezeichnung der Datenfelder</th><th>Protokoll EDA</th><th>Mission Genf</th><th>Einwohnerdienste/Polizeibehörden</th><th>Krankenversicherung GE</th><th>fedpol</th><th>SEM</th><th>Ausgleichskassen</th><th>NDB</th><th>Betreibungsämter/Staatsanwaltschaften</th><th>PD</th><th>DV</th><th>GzKB</th><th>IO/VT (Sichten)</th><th>IO/VT (Formular-Vorerfasser)</th><th>IO/VT (XML-Vorerfasser)</th><th>EZV</th><th>MFK/SVA</th><th>ZAS</th><th>Steuerbehörden</th><th>BFS</th><th>ZAS</th><th>fedpol/SEM</th><th>LEGI</th><th>Erbringer zollfreie Leistungen</th><th>IO Feedback</th><th>Einwohnerregisterämter (eCH-0020)</th><th>Erhebungsstelle RTV</th><th>CAGI</th><th>Steuerbehörden GE</th></tr>
+<tr><th>Bezeichnung der Datenfelder</th><th>Protokoll EDA</th><th>Mission Genf</th><th>Einwohnerdienste/Polizeibehörden</th><th>Krankenversicherung GE</th><th>fedpol</th><th>SEM</th><th>Ausgleichskassen</th><th>NDB</th><th>Betreibungsämter/Staatsanwaltschaften</th><th>PD</th><th>DV</th><th>GzKB</th><th>IO/VT (Sichten)</th><th>IO/VT (Formular-Vorerfasser)</th><th>IO/VT (XML-Vorerfasser)</th><th>BAZG</th><th>MFK/SVA</th><th>ZAS</th><th>Steuerbehörden</th><th>BFS</th><th>ZAS</th><th>fedpol/SEM</th><th>LEGI</th><th>Erbringer zollfreie Leistungen</th><th>IO Feedback</th><th>Einwohnerregisterämter (eCH-0020)</th><th>Erhebungsstelle RTV</th><th>CAGI</th><th>Steuerbehörden GE</th></tr>
 <tr><td colspan="30">I. Übersicht</td></tr>
 <tr><td>Personenart</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>C</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>D</td><td>X</td><td>X</td><td>X</td><td>D</td><td>D</td><td>X</td><td>D</td><td>D</td><td>X</td></tr>
 <tr><td>Personennummer</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>D</td><td>X</td><td>X</td><td>X</td><td>D</td><td>D</td><td>X</td><td>D</td><td>D</td><td>X</td></tr>
 <tr><td>Archivnummer</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>C</td><td>X</td><td>B</td><td>B</td><td>B</td><td>B</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-<tr><td>Versichertennummer</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>X</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>D</td><td>D</td><td>X</td><td>X</td><td>X</td><td>X</td><td>D</td><td>D</td><td>X</td><td>X</td></tr>
+<tr><td>AHV-Nummer</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>X</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>D</td><td>D</td><td>X</td><td>X</td><td>X</td><td>X</td><td>D</td><td>D</td><td>X</td><td>X</td></tr>
 <tr><td>Dossiernummer</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>C</td><td>X</td><td>B</td><td>B</td><td>B</td><td>B</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Vertretungsangaben</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>C</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>D</td><td>X</td><td>X</td><td>X</td><td>D</td><td>D</td><td>X</td><td>X</td><td>D</td><td>X</td></tr>
 <tr><td>Titel (Anrede)</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>C</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>D</td><td>X</td><td>X</td><td>X</td><td>D</td><td>X</td><td>X</td><td>X</td><td>D</td><td>X</td></tr>

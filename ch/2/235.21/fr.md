@@ -3,11 +3,11 @@ sr: "235.21"
 title: "Ordonnance du 22 mars 2019 sur le système d'information Ordipro (Ordonnance Ordipro)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/209"
 language: fr
-version: 2019-05-01
+version: 2022-01-01
 adopted: 2019-03-22
 in_force: 2019-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/209/20190501/fr/xml/fedlex-data-admin-ch-eli-cc-2019-209-20190501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20190501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/209/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-209-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20190501/fr"
 
 (Ordonnance Ordipro)
 
-du 22 mars 2019 (Etat le 1<sup>er</sup> mai 2019)
+du 22 mars 2019 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -74,10 +74,10 @@ Ordipro relève de la responsabilité du Protocole du DFAE et de la Mission de G
 
 <sup>3</sup> Ordipro attribue automatiquement un numéro à toute personne nouvellement saisie.
 
-<sup>4</sup> Les numéros AVS au sens de l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^5-1] qui ont été saisis dans Ordipro (numéros AVS) sont vérifiés conformément aux art. 133<sup>bis</sup> et 134<sup>quater</sup> du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants (RAVS)[^5-2] et, le cas échéant, corrigés. La Centrale de compensation (CdC) attribue un numéro AVS aux personnes qui n’en ont pas.
+<sup>4</sup> Les numéros AVS qui ont été saisis dans Ordipro sont vérifiés conformément aux art. 133<sup>bis</sup> et 134<sup>quater</sup> du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^5-1] et, le cas échéant, corrigés. La Centrale de compensation (CdC) attribue un numéro AVS aux personnes qui n’en ont pas.[^5-2]
 
-[^5-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^5-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^5-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^5-2]: Nouvelle teneur selon l’annexe ch. II 10 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 6
 
@@ -120,7 +120,7 @@ Les services énumérés ci-après peuvent traiter les données mentionnées en 
 - b. la Direction du droit international public: pour vérifier des prétentions au titre du droit diplomatique et consulaire;
 - c. les autorités de contrôle des frontières: pour effectuer des contrôles de personnes;
 - d. les organisations internationales et les représentations visées à l’art. 5, al. 2: pour saisir, contrôler et gérer les données relatives aux personnes qu’elles ont annoncées;
-- e. les autorités de l’Administration fédérale des douanes: pour procéder à des vérifications d’identité et remplir leurs tâches dans le cadre de la législation douanière;
+- e. les autorités de l’Office fédéral de la douane et de la sécurité des frontières[^7-1]: pour procéder à des vérifications d’identité et remplir leurs tâches dans le cadre de la législation douanière;
 - f. les services des automobiles et les offices de la circulation routière des cantons: pour contrôler les véhicules et vérifier l’identité des conducteurs;
 - g. la CdC: pour attribuer le numéro AVS;
 - h. les autorités fiscales de la Confédération, des cantons et des communes: pour déterminer un éventuel assujettissement à l’impôt.
@@ -128,6 +128,8 @@ Les services énumérés ci-après peuvent traiter les données mentionnées en 
 <sup>4</sup> L’unité Informatique DFAE dispose des droits de traitement nécessaires à l’accomplissement de ses tâches.
 
 <sup>5</sup> Tous les droits de traitement s’exercent par le biais d’une procédure d’accès en ligne.
+
+[^7-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 8
 
@@ -239,11 +241,13 @@ Les actes mentionnés ci-après sont modifiés comme suit:
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2019.
 
-Annexe
+Annexe*[^t-1]*
 
 (art. 4, al. 2, 7, al. 2 et 3, ainsi que 8, al. 1)
 
 ## Données personnelles et droits de traitement saisis dans le système
+
+[^t-1]: Mise à jour par l’annexe ch. II 10 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 Explication des libellés utilisés dans le tableau
 
@@ -262,7 +266,7 @@ Bénéficiaires de droits d’accès / destinataires de données
 <tr><td>DDIP</td><td>Direction du droit international public</td></tr>
 <tr><td>ACFr</td><td>Autorités de contrôle aux frontières</td></tr>
 <tr><td>OI/REP</td><td>Organisations internationales et représentations visées à l’art. 5, al. 2</td></tr>
-<tr><td>AFD</td><td>Autorités de l’Administration fédérale des douanes</td></tr>
+<tr><td>OFDF</td><td>Autorités de l’Office fédéral de la douane et de la sécurité des frontières</td></tr>
 <tr><td>SA/OCR</td><td>Services des automobiles et offices de la circulation routière des cantons</td></tr>
 <tr><td>CdC</td><td>Centrale de compensation</td></tr>
 <tr><td>Autorités fiscales</td><td>Autorités fiscales de la Confédération, des cantons et des communes</td></tr>
@@ -285,12 +289,12 @@ Droits de traitement
 - D Transmission chiffrée des données
 
 <table>
-<tr><th>Dénomination des champs de données</th><th>Protocole du DFAE</th><th>Mission de Genève</th><th>Services de contrôle des habitants/autorités de police</th><th>Assurance-maladie GE</th><th>fedpol</th><th>SEM</th><th>Caisses de compensation</th><th>SRC</th><th>Offices des poursuites/ministères publics</th><th>DP</th><th>DDIP</th><th>ACFr</th><th>OI/REP (consultation)</th><th>OI/REP (formulaire-saisie préalable)</th><th>OI/REP (XML-saisie préalable)</th><th>AFD</th><th>SA/OCR</th><th>CdC</th><th>Autorités fiscales</th><th>OFS</th><th>CdC</th><th>fedpol/SEM</th><th>LEGI</th><th>Personnes fournissant des prestations non soumises aux droits de douane</th><th>Feedback OI</th><th>Services chargés de tenir les registres des habitants (eCH-0020)</th><th>Organe de perception de la redevance RTV</th><th>CAGI</th><th>Autorités fiscales GE</th></tr>
+<tr><th>Dénomination des champs de données</th><th>Protocole du DFAE</th><th>Mission de Genève</th><th>Services de contrôle des habitants/autorités de police</th><th>Assurance-maladie GE</th><th>fedpol</th><th>SEM</th><th>Caisses de compensation</th><th>SRC</th><th>Offices des poursuites/ministères publics</th><th>DP</th><th>DDIP</th><th>ACFr</th><th>OI/REP (consultation)</th><th>OI/REP (formulaire-saisie préalable)</th><th>OI/REP (XML-saisie préalable)</th><th>OFDF</th><th>SA/OCR</th><th>CdC</th><th>Autorités fiscales</th><th>OFS</th><th>CdC</th><th>fedpol/SEM</th><th>LEGI</th><th>Personnes fournissant des prestations non soumises aux droits de douane</th><th>Feedback OI</th><th>Services chargés de tenir les registres des habitants (eCH-0020)</th><th>Organe de perception de la redevance RTV</th><th>CAGI</th><th>Autorités fiscales GE</th></tr>
 <tr><td colspan="30">I. Vue d’ensemble</td></tr>
 <tr><td>Type de personne</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>C</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>D</td><td>X</td><td>X</td><td>X</td><td>D</td><td>D</td><td>X</td><td>D</td><td>D</td><td>X</td></tr>
 <tr><td>Numéro de personne</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>D</td><td>X</td><td>X</td><td>X</td><td>D</td><td>D</td><td>X</td><td>D</td><td>D</td><td>X</td></tr>
 <tr><td>Numéro d’archive</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>C</td><td>X</td><td>B</td><td>B</td><td>B</td><td>B</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-<tr><td>Numéro d’assuré</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>X</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>D</td><td>D</td><td>X</td><td>X</td><td>X</td><td>X</td><td>D</td><td>D</td><td>X</td><td>X</td></tr>
+<tr><td>Numéro AVS</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>X</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>D</td><td>D</td><td>X</td><td>X</td><td>X</td><td>X</td><td>D</td><td>D</td><td>X</td><td>X</td></tr>
 <tr><td>Numéro de dossier</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>C</td><td>X</td><td>B</td><td>B</td><td>B</td><td>B</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Coordonnées de la représentation</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>C</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>D</td><td>X</td><td>X</td><td>X</td><td>D</td><td>D</td><td>X</td><td>X</td><td>D</td><td>X</td></tr>
 <tr><td>Titre (formule de civilité)</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>C</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>D</td><td>X</td><td>X</td><td>X</td><td>D</td><td>X</td><td>X</td><td>X</td><td>D</td><td>X</td></tr>

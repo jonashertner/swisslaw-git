@@ -3,11 +3,11 @@ sr: "235.21"
 title: "Ordinanza del 22 marzo 2019 concernente il sistema d'informazione Ordipro (Ordinanza Ordipro)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/209"
 language: it
-version: 2019-05-01
+version: 2022-01-01
 adopted: 2019-03-22
 in_force: 2019-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/209/20190501/it/xml/fedlex-data-admin-ch-eli-cc-2019-209-20190501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20190501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/209/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2019-209-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20190501/it"
 
 (Ordinanza Ordipro)
 
-del 22 marzo 2019 (Stato 1° maggio 2019)
+del 22 marzo 2019 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -74,10 +74,10 @@ Il Protocollo DFAE e la Missione di Ginevra sono responsabili di Ordipro.
 
 <sup>3</sup> Ordipro attribuisce automaticamente un numero a ogni nuova persona registrata.
 
-<sup>4</sup> I numeri d’assicurato di cui all’articolo 50*c* della legge federale del 20 dicembre 1946[^5-1] sull’assicurazione per la vecchiaia e per i superstiti (numero d’assicurato) registrati in Ordipro sono verificati e, se del caso, rettificati secondo gli articoli 133<sup>bis</sup> e 134<sup>quater</sup> dell’ordinanza del 31 ottobre 1947[^5-2] sull’assicurazione per la vecchiaia e per i superstiti. L’Ufficio centrale di compensazione (UCC) assegna un numero d’assicurato alle persone che ne sono prive.
+<sup>4</sup> I numeri AVS registrati in Ordipro sono verificati e, se del caso, rettificati secondo gli articoli 133<sup>bis</sup> e 134<sup>quater</sup> dell’ordinanza del 31 ottobre 1947[^5-1] sull’assicurazione per la vecchiaia e per i superstiti. L’Ufficio centrale di compensazione (UCC) assegna un numero AVS alle persone che ne sono prive.[^5-2]
 
-[^5-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^5-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^5-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^5-2]: Nuovo testo giusta l’all. n. II 10 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 6
 
@@ -120,9 +120,9 @@ Gli enti seguenti possono trattare i dati di cui nell’allegato per gli scopi i
 - b. la Direzione del diritto internazionale pubblico: per verificare la rivendicazione di prerogative nell’ambito del diritto diplomatico e consolare;
 - c. le autorità di controllo alla frontiera: per eseguire controlli delle persone;
 - d. rappresentanze e organizzazioni internazionali specifiche di cui all’articolo 5 capoverso 2: per registrare, controllare e amministrare i dati delle persone da loro annunciate;
-- e. le autorità dell’Amministrazione federale delle dogane: per effettuare accertamenti dell’identità ed espletare i loro compiti nel quadro della legislazione doganale;
+- e. le autorità dell’Amministrazione federale delle Ufficio federale della dogana e della sicurezza dei confinie[^7-2]: per effettuare accertamenti dell’identità ed espletare i loro compiti nel quadro della legislazione doganale;
 - f. gli uffici cantonali di controllo dei veicoli a motore e della circolazione: per controllare i veicoli ed effettuare accertamenti sull’identità dei conducenti;
-- g. l’UCC: per assegnare il numero d’assicurato;
+- g. l’UCC: per assegnare il numero AVS[^7-3];
 - h. le autorità fiscali della Confederazione, dei Cantoni e dei Comuni: per effettuare accertamenti su un eventuale obbligo fiscale.
 
 <sup>4</sup> L’unità Informatica DFAE dispone dei diritti di trattamento necessari per adempiere i propri compiti.
@@ -130,6 +130,8 @@ Gli enti seguenti possono trattare i dati di cui nell’allegato per gli scopi i
 <sup>5</sup> Tutti i diritti di trattamento sono esercitati mediante procedura di richiamo.
 
 [^7-1]: Correzione del 24 apr. 2019 ([RU 2019 1251](https://fedlex.data.admin.ch/eli/oc/2019/239)).
+[^7-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^7-3]: Nuova espr. giusta l’all. n. II 10 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. è tenuto conto in tutto il testo.
 
 #### Art. 8
 
@@ -140,7 +142,7 @@ Gli enti seguenti possono trattare i dati di cui nell’allegato per gli scopi i
 I dati di cui nell’allegato sono trasmessi automaticamente e in forma cifrata ai seguenti enti:
 
 - a. all’Ufficio federale di statistica: ai sensi dell’ordinanza del 30 giugno 1993[^8-1] sulle rilevazioni statistiche e dell’ordinanza del 21 novembre 2007[^8-2] sull’armonizzazione dei registri;
-- b. all’UCC: per la verifica e l’assegnazione del numero d’assicurato;
+- b. all’UCC: per la verifica e l’assegnazione del numero AVS;
 - c. a fedpol: per la consultazione online di cui all’articolo 6 lettera a;
 - d. alla SEM: per la consultazione online di cui all’articolo 6 lettere b e c;
 - e. alla ditta che produce le carte di legittimazione: per la produzione delle carte di legittimazione;
@@ -265,7 +267,7 @@ Esplicitazione delle sigle contenute nella tabella
 <tr><td>DDIP</td><td>Direzione del diritto internazionale pubblico</td></tr>
 <tr><td>Aut. contr. front.</td><td>Autorità di controllo alla frontiera</td></tr>
 <tr><td>OI/Rapp. int.</td><td>Organizzazioni e rappresentanze internazionali specifiche di cui all’art. 5 cpv. 2</td></tr>
-<tr><td>AFD</td><td>Autorità dell’Amministrazione federale delle dogane</td></tr>
+<tr><td>UDSC</td><td>Amministrazione federale delle Ufficio federale della dogana e della sicurezza dei confinie</td></tr>
 <tr><td>CVM/SC</td><td>Uffici cantonali di controllo dei veicoli a motore e della circolazione</td></tr>
 <tr><td>UCC</td><td>Ufficio centrale di compensazione</td></tr>
 <tr><td>Autorità fiscali</td><td>Autorità fiscali della Confederazione, dei Cantoni e dei Comuni</td></tr>
@@ -289,7 +291,7 @@ Diritti di trattamento
 - [tab]
 
 <table>
-<tr><th>Denominazione dei campi di dati</th><th>Protocollo DFAE</th><th>Missione di Ginevra</th><th>Servizi di controllo abitanti/autorità di polizia</th><th>Assicurazione malattie GE</th><th>fedpol</th><th>SEM</th><th>Casse di compensazione</th><th>SIC</th><th>Uffici delle esecuzioni/ministeri pubblici</th><th>DP</th><th>DDIP</th><th>Aut. contr. front.</th><th>OI/Rapp. int. (visionare)</th><th>OI/Rapp. int. (precompilatore modulo)</th><th>OI/Rapp. int. (precompilatore XML)</th><th>AFD</th><th>CVM/SC</th><th>UCC</th><th>Autorità fiscali</th><th>UST</th><th>UCC</th><th>fedpol/SEM</th><th>LEGI</th><th>Prestatori di servizi esenti da tasse doganali</th><th>Feedback OI</th><th>Uffici del registro degli abitanti (eCH‑0020)</th><th>Organo di riscossione RTV</th><th>CAGI</th><th>Autorità fiscali GE</th></tr>
+<tr><th>Denominazione dei campi di dati</th><th>Protocollo DFAE</th><th>Missione di Ginevra</th><th>Servizi di controllo abitanti/autorità di polizia</th><th>Assicurazione malattie GE</th><th>fedpol</th><th>SEM</th><th>Casse di compensazione</th><th>SIC</th><th>Uffici delle esecuzioni/ministeri pubblici</th><th>DP</th><th>DDIP</th><th>Aut. contr. front.</th><th>OI/Rapp. int. (visionare)</th><th>OI/Rapp. int. (precompilatore modulo)</th><th>OI/Rapp. int. (precompilatore XML)</th><th>UDSC</th><th>CVM/SC</th><th>UCC</th><th>Autorità fiscali</th><th>UST</th><th>UCC</th><th>fedpol/SEM</th><th>LEGI</th><th>Prestatori di servizi esenti da tasse doganali</th><th>Feedback OI</th><th>Uffici del registro degli abitanti (eCH‑0020)</th><th>Organo di riscossione RTV</th><th>CAGI</th><th>Autorità fiscali GE</th></tr>
 <tr><td colspan="30">I. Panoramica</td></tr>
 <tr><td>Tipo di persona</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>C</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>D</td><td>X</td><td>X</td><td>X</td><td>D</td><td>D</td><td>X</td><td>D</td><td>D</td><td>X</td></tr>
 <tr><td>Numero persona</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>D</td><td>X</td><td>X</td><td>X</td><td>D</td><td>D</td><td>X</td><td>D</td><td>D</td><td>X</td></tr>
