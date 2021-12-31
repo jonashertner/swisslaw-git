@@ -1,200 +1,213 @@
 ---
 canton: VS
 number: "850.6"
-title: "Loi sur l'intégration des personnes handicapées"
+title: "Loi sur les droits et l'inclusion des personnes en situation de handicap"
 short: LDIPH
 language: fr
-version: 2012-01-01
-corrected: 2017-10-12
-version_adopted: 2011-09-15
+version: 2022-01-01
+version_adopted: 2020-03-12
 adopted: 1991-01-31
 in_force: 1993-03-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/850.6"
-pdf: "https://lex.vs.ch/api/fr/versions/151/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2998/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Loi sur l'intégration des personnes handicapées
+# Loi sur les droits et l'inclusion des personnes en situation de handicap
 
-du 31 janvier 1991
+(LDIPH)
+
+du 31.01.1991 (état 01.01.2022)
 
 Le Grand Conseil du canton du Valais
 
+vu la convention relative aux droits des personnes handicapées du 13 décembre 2006;
+
+vu l'article 8 de la Constitution fédérale;
+
 vu les articles 18 et 20 de la Constitution cantonale;
+
+vu la loi fédérale sur l’élimination des inégalités frappant les personnes handicapées du 13 décembre 2002 (Loi sur l'égalité pour les handicapés, LHand);
+
+vu la loi fédérale sur les institutions destinées à favoriser l'intégration des personnes invalides du 6 octobre 2006 (LIPPI);
 
 sur la proposition du Conseil d'Etat,
 
-arrête:
+ordonne: [^ingress-1]
 
-### Chapitre 1: Dispositions générales
+[^ingress-1]: Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment la femme ou l’homme.
 
-#### Article premier
+## 1 Dispositions générales
+
+#### Art. 1
 
 **But**
 
-<sup>1</sup> La présente loi a pour but de favoriser l'intégration des personnes handicapées.
+<sup>1</sup> Cette loi a pour but de concrétiser les droits fondamentaux et les droits de l’Homme des personnes en situation de handicap dans tous les domaines de la vie privée, professionnelle et sociétale, et de favoriser l'inclusion dans la société des personnes en situation de handicap.
 
-<sup>2</sup> Elle règle, en complément de la législation fédérale et cantonale existante, l'action de l'Etat en la matière.
+<sup>2</sup> En complément des dispositions internationales, fédérales et cantonales existantes, elle garantit les droits des personnes en situation de handicap et règle l'action de l'Etat en la matière.
 
 #### Art. 2
 
 **Définition**
 
-Au sens de la présente loi, on entend par personne handicapée toute personne dans l'incapacité d'assumer par elle-même tout ou partie des nécessités d'une vie individuelle ou sociale normale, du fait d'une déficience, congénitale ou non, de ses capacités physiques ou mentales.
+<sup>1</sup> Par personnes en situation de handicap, on entend des personnes qui présentent des incapacités physiques, cognitives, psychiques ou sensorielles durables dont l'interaction avec diverses barrières peut faire obstacle à leur pleine et effective participation à la société sur la base de l'égalité avec les autres.
+
+<sup>2</sup> Une inégalité est une différence de traitement, en droit ou en fait, d’une personne fondée sur un handicap ou son omission, avec pour objet ou pour effet sa discrimination.
 
 #### Art. 3
 
 **Mesures**
 
-Les mesures à prendre concernent notamment la prévention ainsi que l'éducation et l'instruction, l'intégration professionnelle, sociale et culturelle des personnes handicapées.
+<sup>1</sup> Les mesures à prendre concernent notamment la prévention, l'éducation, l'instruction, le lieu de vie, ainsi que l'inclusion professionnelle, sociale et culturelle des personnes en situation de handicap.
 
-#### Art. 3bis
+#### Art. 3a
 
-<sup>1</sup> Réserve de la loi sur les subventions
+**Réserve de la loi sur les subventions**
 
-Les dispositions de la loi cantonale sur les subventions du 13 novembre 1995 sont applicables directement et dans leur intégralité aux subventions prévues par le présent texte légal. Les dispositions de ce dernier demeurent applicables dans la mesure où elles ne sont pas contraires à la loi sur les subventions.
+<sup>1</sup> Les dispositions de la loi cantonale sur les subventions du 13 novembre 1995 sont applicables directement et dans leur intégralité aux subventions prévues par le présent texte légal. Les dispositions de ce dernier demeurent applicables dans la mesure où elles ne sont pas contraires à la loi sur les subventions.
 
 #### Art. 4
 
 **Rôle de l'Etat**
 
-<sup>1</sup> Le Conseil d'Etat veille à l'application de la présente loi.
+<sup>1</sup> Le Conseil d'Etat veille à l'application de la présente loi et prévoit annuellement par voie budgétaire les moyens nécessaires. Il s'assure que les dispositions prises pour la collectivité en général tiennent compte également de la situation des personnes en situation de handicap.
 
-<sup>2</sup> Il s'assure que les dispositions prises pour la collectivité en général tiennent compte également de la situation des personnes handicapées.
+<sup>2</sup> Le département en charge des affaires sociales appelé ci-après département, planifie, en collaboration avec les personnes, institutions et organisations concernées, les mesures générales favorisant l'inclusion des personnes en situation de handicap. Il a notamment les tâches suivantes:
 
-<sup>3</sup> Le département compétent appelé ci-après département, planifie, en collaboration avec les institutions et organisations concernées, les mesures générales favorisant l'intégration des personnes handicapées.
+- a) il favorise le maintien à domicile;
+- b) il coordonne l'action des institutions publiques ou privées, veille à une judicieuse répartition fonctionnelle et géographique des établissements spécialisés, en contrôle le fonctionnement et la qualité;
+- c) il apporte son aide dans la prévention, dans l'éducation, l'instruction, ainsi que l'inclusion professionnelle, sociale et culturelle des personnes en situation de handicap;
+- d) pour accompagner les personnes en situation de handicap, il peut conclure avec les institutions spécialisées des mandats de prestations pluriannuels, sous réserve des budgets annuels décidés par le Grand Conseil, qui servent de base à l'attribution de subventions. Pour ce faire, il s'oriente en fonction du besoin selon le rapport de planification.
 
-<sup>4</sup> Il favorise le maintien à domicile.
+<sup>3</sup> Au besoin, le canton crée, acquiert et gère les établissements nécessaires.
 
-<sup>5</sup> Il coordonne l'action des institutions publiques ou privées, veille à une judicieuse répartition fonctionnelle et géographique des établissements spécialisés, en contrôle le fonctionnement et la qualité.
+<sup>4</sup> …
 
-<sup>6</sup> Il apporte son aide dans la prévention ainsi que dans l'éducation et l'instruction, l'intégration professionnelle, sociale et culturelle des personnes handicapées.
+<sup>5</sup> …
 
-<sup>7</sup> Il fait appel, pour accompagner les personnes handicapées, aux institutions spécialisées et les subventionne.
+<sup>6</sup> …
 
-<sup>8</sup> Au besoin, le canton crée, acquiert et gère les établissements nécessaires.
+<sup>7</sup> …
 
-#### Art. 4bis
+<sup>8</sup> …
 
-<sup>3</sup> La Castalie
+#### Art. 4a
 
-Sous la dénomination «La Castalie», il est institué un établissement de droit public autonome, dont le but est d’assurer la prise en charge de prestations médicales, pédagogiques et éducatives à des enfants et adultes en situation de handicap mental ou de polyhandicap. L’établissement est doté de la personnalité juridique et son siège est à Monthey. Le Conseil d'Etat arrête, par voie d'ordonnance, en particulier:
+**La Castalie**
+
+<sup>1</sup> Sous la dénomination "La Castalie", il est institué un établissement de droit public autonome, dont le but est d’assurer la prise en charge de prestations médicales, pédagogiques et éducatives à des enfants et adultes en situation de handicap mental ou de polyhandicap. L’établissement est doté de la personnalité juridique et son siège est à Monthey. Le Conseil d'Etat arrête, par voie d'ordonnance, en particulier:
 
 - a) l'organisation de l'établissement, en instituant, notamment, un conseil d'administration, une direction et un organe de révision;
-
 - b) les mandats de prestations, le financement et le fonds de roulement;
-
 - c) la surveillance, en complément de celle prévue à l'article 38 de la présente loi;
-
 - d) la dotation des infrastructures nécessaires à sa mission;
-
 - e) le statut de son personnel, en particulier les conditions salariales, sociales et de prévoyance professionnelle.
 
-### Chapitre 2: Prévention
+## 2 Prévention
 
 #### Art. 5
 
 **Principe**
 
-Un soutien financier peut être accordé aux institutions qui oeuvrent dans la promotion de la prévention. En cas de nécessité, le Conseil d'Etat entreprend les actions indispensables.
+<sup>1</sup> Un soutien financier peut être accordé aux institutions et aux organisations qui oeuvrent dans la promotion de la prévention.
 
 #### Art. 6
 
 **Coordination**
 
-Le Conseil d'Etat supervise la coordination des actions de prévention entreprises par les organes et milieux intéressés.
+<sup>1</sup> Le Conseil d'Etat supervise la coordination des actions de prévention entreprises par les organes et milieux intéressés.
 
-### Chapitre 3: Education et instruction
+## 3 Education et instruction
 
 #### Art. 7
 
 **Principe**
 
-Les dispositions légales prévues dans la loi sur l'instruction publique sont applicables par analogie aux élèves handicapés, en tenant compte de la meilleure intégration possible.
+<sup>1</sup> Les dispositions légales prévues dans la loi sur l'instruction publique sont applicables par analogie aux élèves en situation de handicap, en tenant compte de la meilleure inclusion possible.
 
 #### Art. 8
 
 **Mesures spéciales**
 
-<sup>1</sup> Des mesures spéciales d'ordre scolaire, éducatif, pédagothérapeutique, psychothérapeutique ou médical sont prises pour favoriser le développement, l'intégration scolaire des élèves handicapés et pour permettre de compenser leur handicap.
+<sup>1</sup> Des mesures spéciales d'ordre préscolaire, scolaire, éducatif, pédagogique, thérapeutique, psychologique, social ou médical sont prises pour favoriser le développement et l'inclusion scolaire des élèves en situation de handicap.
 
-<sup>2</sup> Des classes primaires à effectif réduit peuvent être créées pour favoriser l'intégration des élèves handicapés.
+<sup>2</sup> Ces mesures sont réglées par la loi sur l'enseignement spécialisé et la loi en faveur de la jeunesse.
 
 <sup>3</sup> Le département chargé de l'application des mesures spéciales veille à une bonne coordination avec le département responsable de la présente loi.
 
-<sup>4</sup> Les mesures prévues pour les élèves handicapés peuvent précéder l'âge d'entrée à l'école publique et s'étendre jusqu'à l'âge de 20 ans révolus.
+<sup>4</sup> Les mesures prévues pour les élèves en situation de handicap peuvent précéder l'âge d'entrée à l'école publique et s'étendre jusqu'à l'âge de 20 ans révolus.
 
-<sup>5</sup> Le Grand Conseil fixe, par voie de décret, les dispositions relatives aux mesures spéciales.
+<sup>5</sup> …
 
 #### Art. 9
 
-**Contribution des parents**
+**Contribution des détenteurs de l'autorité parentale**
 
-Lorsqu'un établissement spécialisé offre des services de nature hôtelière, les parents ou le représentant légal de l'enfant versent une contribution dont le Conseil d'Etat arrête la quotité en tenant compte de la capacité financière de la famille.
+<sup>1</sup> L'article 33 de la loi sur l'enseignement spécialisé est applicable.
 
 #### Art. 10
 
-**Contribution des pouvoirs publics**
+**Prise en charge financière des investissements des écoles spécialisées**
 
-<sup>1</sup> Le Conseil d'Etat arrête les montants de la contribution que les pouvoirs publics versent aux institutions.
+<sup>1</sup> L'article 35 de la loi sur l'enseignement spécialisé est applicable.
 
-<sup>2</sup> Il répartit cette contribution à parts égales entre l'Etat et la commune de domicile.
+<sup>2</sup> …
 
-### Chapitre 4: Intégration professionnelle, sociale et culturelle
+## 4 Inclusion professionnelle, sociale et culturelle
 
-- 1\. Intégration professionnelle
+### 4.1 Inclusion professionnelle
 
 #### Art. 11
 
 **Principe**
 
-Le canton aide les personnes handicapées à accéder à une occupation ou à un emploi adapté afin de faciliter leur insertion ou réinsertion professionnelle.
+<sup>1</sup> Le canton aide les personnes en situation de handicap à accéder à une occupation ou à un emploi adapté afin de faciliter leur inclusion ou réinsertion professionnelle.
 
 #### Art. 12
 
 **Mesures**
 
-<sup>1</sup> Le département contribue notamment à la formation générale et intellectuelle, à l'orientation, à la formation et à la réadaptation professionnelle, à l'organisation de perfectionnement, de recyclage et de formation continue des personnes handicapées.
+<sup>1</sup> Le département contribue notamment à la formation générale et intellectuelle, à l'orientation, à la formation professionnelle, à l'inclusion ou la réinsertion professionnelle, à l'organisation de perfectionnement, de recyclage et de formation continue des personnes en situation de handicap.
 
-<sup>2</sup> Le département chargé de la formation professionnelle prend, en accord avec le département chargé de l'application de la présente loi, des mesures tendant à faciliter la réadaptation professionnelle des personnes handicapées ainsi que leur accès à la formation et à des diplômes professionnels.
+<sup>2</sup> Le département chargé de la formation professionnelle prend, en accord avec le département chargé de l'application de la présente loi, des mesures tendant à faciliter l'inclusion ou la réinsertion professionnelle des personnes en situation de handicap ainsi que leur accès à la formation et à des diplômes professionnels.
 
 <sup>3</sup> Il peut créer de tels diplômes.
 
-<sup>4</sup> Les mesures doivent être dispensées aux personnes handicapées en tenant compte de leur capacité et autant que possible de leurs voeux.
+<sup>4</sup> Les mesures doivent être dispensées aux personnes en situation de handicap en tenant compte de leur capacité et autant que possible de leurs voeux.
 
 #### Art. 13
 
 **Places d'apprentissage**
 
-<sup>1</sup> Les collectivités publiques, les institutions subventionnées et le secteur privé s'efforcent de réserver des places d'apprentissage et de réadaptation aux personnes handicapées.
+<sup>1</sup> Les collectivités publiques et les institutions subventionnées réservent des places d'apprentissage et de réadaptation aux personnes en situation de handicap. En fonction de leurs possibilités, les entreprises du secteur privé s'efforcent d'appliquer la même mesure.
 
-<sup>2</sup> Ils peuvent, en plus du contingent autorisé, former une ou, selon le nombre de places de formation, plusieurs personnes handicapées.
+<sup>2</sup> Ils peuvent, en plus du contingent autorisé, former une ou, selon le nombre de places de formation, plusieurs personnes en situation de handicap.
 
 #### Art. 14
 
 **Emploi**
 
-Les possibilités d'emploi pour les personnes handicapées doivent être développées en milieu ordinaire et en milieu protégé.
+<sup>1</sup> Les possibilités d'emploi pour les personnes en situation de handicap doivent être développées et proposées en milieu ordinaire et en milieu protégé.
 
 #### Art. 15
 
 **Secteur privé**
 
-<sup>1</sup> Le département encourage la création de possibilités de formation et d'emploi dans le secteur privé pour les personnes handicapées. Il apporte l'aide financière aux entreprises et industries intéressées.
+<sup>1</sup> Le département encourage la création de possibilités de formation et d'emploi dans le secteur privé pour les personnes en situation de handicap. Il apporte l'aide financière aux entreprises intéressées.
 
-<sup>2</sup> Il peut également soutenir financièrement des institutions visant à promouvoir l'intégration professionnelle des personnes handicapées.
+<sup>2</sup> Il peut également soutenir financièrement des institutions et organisations visant à promouvoir l'inclusion professionnelle des personnes en situation de handicap.
 
 #### Art. 16
 
 **Collectivités**
 
-<sup>1</sup> Les collectivités publiques et les institutions subventionnées offrent des places de travail, de stages et de réadaptation aux personnes handicapées.
+<sup>1</sup> Les collectivités publiques et les institutions subventionnées offrent des places de travail, de formation, de stages et de réadaptation aux personnes en situation de handicap.
 
 <sup>2</sup> Elles tiennent à leur disposition des postes d'emplois semi-protégés, au minimum le 1 pour cent de la totalité des postes du personnel figurant à l'organigramme.
 
-<sup>3</sup> Elles offrent, autant que possible, du travail à domicile.
+<sup>3</sup> …
 
 <sup>4</sup> Elles encouragent les institutions spécialisées en leur confiant des travaux.
 
@@ -202,125 +215,122 @@ Les possibilités d'emploi pour les personnes handicapées doivent être dévelo
 
 **Institutions spécialisées**
 
-<sup>1</sup> Des subventions sont accordées aux institutions spécialisées pour les investissements et l'exploitation des établissements destinés en priorité à la formation et à l'occupation des personnes handicapées.
+<sup>1</sup> Des subventions sont accordées aux institutions spécialisées pour les investissements et l'exploitation des établissements destinés en priorité à la formation et à l'occupation des personnes en situation de handicap.
 
 <sup>2</sup> L'aide nécessaire est accordée pour favoriser notamment la collaboration et la coordination entre les diverses institutions spécialisées.
 
-- 2\. Intégration sociale et culturelle
+### 4.2 Inclusion sociale et culturelle
 
 #### Art. 18
 
 **Principe**
 
-Le département encourage la mise à disposition d'habitations appropriées et l'organisation d'activités à caractère social et culturel pour les personnes handicapées.
+<sup>1</sup> Le département encourage la mise à disposition de diverses formes de logement et l'organisation d'activités à caractère social et culturel pour les personnes en situation de handicap.
 
 #### Art. 19
 
-**Logement pour personnes handicapées**
+**Logement pour personnes en situation de handicap**
 
-<sup>1</sup> Le département encourage la construction et l'adaptation de logements pour les personnes handicapées.
+<sup>1</sup> Le département encourage la construction et l'adaptation de logements pour les personnes en situation de handicap.
 
-<sup>2</sup> Il peut accorder, pour les frais supplémentaires liés au handicap, une aide financière lors de l'achat, de la construction ou de la transformation d'un logement.
+<sup>2</sup> Il peut accorder, pour les frais supplémentaires liés au handicap, une aide financière lors de la transformation d'un logement.
 
-<sup>3</sup> Il peut également, en cas de nécessité, accorder une aide financière à la personne handicapée pour subvenir aux frais de son loyer.
+<sup>3</sup> Il peut également, en cas de nécessité, accorder une aide financière à la personne en situation de handicap pour subvenir aux frais de son loyer.
 
-<sup>4</sup> Il tient à jour un inventaire des appartements adaptés aux besoins des personnes handicapées.
+<sup>4</sup> …
 
 #### Art. 20
 
-Hébergement dans une famille ou dans une communauté d'habitation
+**Hébergement dans une famille ou dans une communauté d'habitation**
 
-<sup>1</sup> Le département peut accorder, en cas de nécessité, une aide financière pour l'hébergement d'une personne handicapée dans sa propre famille, dans une famille d'accueil ou dans une communauté d'habitation en lieu et place de l'hébergement dans un établissement lorsque la mesure s'avère plus favorable à l'épanouissement de la personne intéressée sans toutefois entraîner des frais disproportionnés.
+<sup>1</sup> Le département peut accorder, en cas de nécessité, une aide financière pour l'hébergement d'une personne en situation de handicap dans sa propre famille, dans une famille d'accueil ou dans une communauté d'habitation en lieu et place de l'hébergement dans un établissement lorsque la mesure s'avère plus favorable à l'épanouissement de la personne intéressée sans toutefois entraîner des frais disproportionnés.
 
-<sup>2</sup> Il peut également, pour favoriser le maintien à domicile, accorder, dans les conditions précitées, une aide financière pour l'encadrement de personnes handicapées.
+<sup>2</sup> Il peut également, pour favoriser le maintien à domicile, accorder, dans les conditions précitées, une aide financière pour l'encadrement de personnes en situation de handicap.
 
 #### Art. 21
 
 **Institutions spécialisées**
 
-<sup>1</sup> Des subventions sont accordées aux institutions spécialisées pour les investissements et l'exploitation des établissements destinés à l'hébergement et à l'accueil des personnes handicapées.
+<sup>1</sup> Des subventions sont accordées aux institutions spécialisées pour les investissements et l'exploitation des établissements destinés à l'hébergement et à l'accueil des personnes en situation de handicap.
 
-<sup>2</sup> Des subventions sont également accordées aux institutions spécialisées qui s'occupent notamment de l'accompagnement, de l'animation socio-culturelle et des loisirs des personnes handicapées.
+<sup>2</sup> Des subventions sont également accordées aux institutions spécialisées qui s'occupent notamment de l'accompagnement, de l'animation socio-culturelle et des loisirs des personnes en situation de handicap.
 
 #### Art. 22
 
-**Construction adaptée aux personnes handicapées**
+**Construction adaptée aux personnes en situation de handicap**
 
-<sup>1</sup> Les nouveaux bâtiments et installations publics et privés ouverts au public doivent être conçus de façon à en permettre l'accès et l'usage aux personnes handicapées. Sont notamment concernés: lieux de culte, écoles, hôpitaux, homes, théâtres, musées, cinémas, installations destinées à la culture, aux loisirs, au sport, établissements publics et d'hébergement touristique, magasins, locaux administratifs, banques, assurances, cabinets de médecin, de dentiste, pharmacies, salons de coiffure, parkings et autres bâtiments et installations similaires ainsi que les voies et installations de communication.
+<sup>1</sup> Les nouveaux bâtiments et installations publics et privés ouverts au public doivent être conçus de façon à en permettre l'accès et l'usage aux personnes en situation de handicap. Sont notamment concernés: lieux de culte, écoles, hôpitaux, homes, théâtres, musées, cinémas, installations destinées à la culture, aux loisirs, au sport, établissements publics et d'hébergement touristique, magasins, locaux administratifs, banques, assurances, cabinets de médecin, de dentiste, pharmacies, salons de coiffure, parkings et autres bâtiments et installations similaires ainsi que les voies et installations de communication.
 
-<sup>2</sup> Au moment de leur rénovation ou lors de transformations importantes, les bâtiments et installations existants publics et privés ouverts au public doivent être adaptés de façon à en permettre l'accès et l'usage aux personnes handicapées, pour autant qu'il n'en résulte pas de frais manifestement disproportionnés.
+<sup>2</sup> Au moment de leur rénovation ou lors de transformations importantes, les bâtiments et installations existants publics et privés ouverts au public doivent être adaptés de façon à en permettre l'accès et l'usage aux personnes en situation de handicap, pour autant qu'il n'en résulte pas de frais manifestement disproportionnés.
 
-<sup>3</sup> Les nouveaux immeubles d'habitation collective et les nouveaux bâtiments destinés à l'activité professionnelle doivent être conçus en tenant compte des besoins des personnes handicapées pour autant que cela n'entraîne pas de frais manifestement disproportionnés.
+<sup>3</sup> Les nouveaux immeubles d'habitation collective et les nouveaux bâtiments destinés à l'activité professionnelle doivent être conçus en tenant compte des besoins des personnes en situation de handicap pour autant que cela n'entraîne pas de frais manifestement disproportionnés.
 
-<sup>4</sup> L'autorisation de construire ou d'exploiter est subordonnée à l'application des présentes dispositions. A cet effet, le département édicte des directives précises à l'intention des autorités compétentes communales et cantonales. Il détermine dans quelle mesure les surfaces supplémentaires dues à la construction adaptée aux personnes handicapées peuvent être déduites lors du calcul de la surface de plancher brute.
+<sup>4</sup> L'autorisation de construire ou d'exploiter est subordonnée à l'application des présentes dispositions. A cet effet, le département édicte des directives précises à l'intention des autorités compétentes communales et cantonales.
 
-<sup>5</sup> Pour les constructions et installations existantes, une aide financière peut être accordée afin de les adapter aux besoins des personnes handicapées.
+<sup>5</sup> Pour les constructions et installations existantes, une aide financière peut être accordée afin de les adapter aux besoins des personnes en situation de handicap.
 
-<sup>6</sup> Un organe de conseil et de consultation privé est désigné par le Conseil d'Etat pour la construction adaptée aux personnes handicapées. Le département le soutient financièrement.
+<sup>6</sup> Le Conseil d'Etat désigne un organe de conseil et de consultation privé pour la construction adaptée aux personnes en situation de handicap. Le département le soutient financièrement.
 
 #### Art. 23
 
 **Entraide**
 
-Le département encourage le bénévolat et peut soutenir financièrement le développement de l'entraide.
+<sup>1</sup> Le département encourage le bénévolat et peut soutenir financièrement le développement de l'entraide.
 
 #### Art. 24
 
-**Mesures d'intégration**
+**Mesures d'inclusion**
 
-Le département encourage et peut soutenir financièrement les organisations qui favorisent l'intégration des personnes handicapées notamment par leurs conseils, par des activités sociales, culturelles, sportives, par l'organisation de loisirs et de vacances.
+<sup>1</sup> Le département soutient les organisations qui favorisent l'inclusion des personnes en situation de handicap notamment par leurs conseils, par des activités sociales, culturelles, sportives, par l'organisation de loisirs et de vacances et peut leur accorder une aide financière.
 
-### Chapitre 5: Subventionnement des institutions spécialisées
+## 5 Subventionnement des institutions spécialisées
 
 #### Art. 25
 
-<sup>2</sup> Conditions
+**Conditions**
 
-Pour obtenir, en vertu de la présente loi, une subvention d'investissement ou d'exploitation, une institution spécialisée publique ou privée doit remplir les conditions suivantes:
+<sup>1</sup> Pour obtenir, en vertu de la présente loi, une subvention d'investissement ou d'exploitation, une institution spécialisée publique ou privée doit remplir les conditions suivantes:
 
 - a) être reconnue d'utilité publique par le Conseil d'Etat;
-
 - b) être liée à l'Etat par une convention en force;
-
 - c) ne pas disposer de ressources suffisantes;
-
 - d) garantir une exploitation rationnelle et économique;
-
-- e) abrogé
-
-- f) percevoir auprès des personnes handicapées ou de leurs représentants une contribution adéquate dont le Conseil d'Etat fixe le montant.
+- e) …
+- f) percevoir auprès des personnes en situation de handicap ou de leurs représentants une contribution adéquate dont le Conseil d'Etat fixe le montant.
 
 #### Art. 26
 
-<sup>2</sup> Reconnaissance d'utilité publique
+**Reconnaissance d'utilité publique**
 
 <sup>1</sup> Pour être reconnue d'utilité publique, une institution spécialisée doit:
 
-- a) justifier son existence par le but recherché et par l'effectif des personnes handicapées à prendre en charge;
+- a) justifier son existence par le but recherché et par l'effectif des personnes en situation de handicap à prendre en charge;
+- b) respecter les exigences du département concernant la répartition fonctionnelle et géographique des activités.
+- c) …
 
-- b) respecter les exigences du département concernant la répartition fonctionnelle et géographique des activités;
+<sup>2</sup> …
 
-- c) abrogé
-
-<sup>2</sup> Abrogé
-
-### 1. Subventions aux investissements
+### 5.1 Subventions aux investissements
 
 #### Art. 27
 
 **Principe**
 
-<sup>1</sup> L'Etat alloue des subventions pour l'achat, la construction, l'agrandissement, la rénovation, l'adaptation, la transformation et l'équipement des établissements.
+<sup>1</sup> L'Etat peut acquérir des terrains et des bâtiments par le fonds de financement de l’investissement et de la gestion des immeubles de l’Etat (fonds FIGI) et les mettre à disposition des institutions spécialisées.
 
-<sup>2</sup> La loi du 24 juin 1980 sur la gestion et le contrôle administratifs et financiers du canton est applicable.
+<sup>2</sup> L'Etat peut allouer des subventions pour l'achat, la construction, l'agrandissement, la rénovation, l'adaptation, la transformation et l'équipement des établissements, si un besoin existe selon la planification.
+
+<sup>3</sup> L'Etat peut accorder des cautionnements et des prêts.
+
+<sup>4</sup> La loi sur la gestion et le contrôle administratifs et financiers du canton est applicable.
 
 #### Art. 28
 
-<sup>2,4</sup> Taux
+**Taux**
 
-<sup>1</sup> Le taux de subventionnement varie de 45 à 75 pour cent, le solde étant amorti par le compte d'exploitation des institutions.
+<sup>1</sup> Le taux de subventionnement est de 75 pour cent, le solde étant amorti par le compte d'exploitation des institutions.
 
-<sup>2</sup> Abrogé
+<sup>2</sup> …
 
 <sup>3</sup> Les subventions à l’investissement sont réparties entre le canton et les communes selon les critères de la loi sur l’harmonisation du financement des régimes sociaux et d’insertion socio-professionnelle.
 
@@ -328,25 +338,25 @@ Pour obtenir, en vertu de la présente loi, une subvention d'investissement ou d
 
 **Remboursement**
 
-L'obtention d'une subvention oblige à assurer durant 30 ans le but recherché. Une cessation d'activité ou un changement d'affectation antérieurs entraînent un remboursement pro rata temporis de la subvention. L'obligation de rembourser fait l'objet d'une décision du Conseil d'Etat.
+<sup>1</sup> L'obtention d'une subvention oblige à assurer durant 30 ans le but recherché. Une cessation d'activité ou un changement d'affectation antérieurs entraînent un remboursement pro rata temporis de la subvention. L'obligation de rembourser fait l'objet d'une décision du Conseil d'Etat.
 
 #### Art. 30
 
 **Etablissements hors canton**
 
-Une subvention ne peut être versée hors canton qu'en échange de droits de placement correspondant à des besoins cantonaux permanents.
+<sup>1</sup> Une subvention ne peut être versée hors canton qu'en échange de droits de placement correspondant à des besoins cantonaux permanents.
 
-- 2\. Subventions à l'exploitation
+### 5.2 Subventions à l'exploitation
 
 #### Art. 31
 
 **Principe**
 
-L'Etat et les communes participent aux frais d'exploitation des établissements et des structures des institutions spécialisées au prorata des personnes handicapées accueillies, domiciliées en Valais.
+<sup>1</sup> L'Etat et les communes participent aux frais d'exploitation des établissements et des structures des institutions spécialisées au prorata des personnes en situation de handicap accueillies, domiciliées en Valais.
 
 #### Art. 32
 
-<sup>2</sup> Montant de la subvention
+**Montant de la subvention**
 
 <sup>1</sup> Le département fixe la contribution aux frais d'exploitation en tenant compte de la capacité financière de l'institution spécialisée, des provisions nécessaires notamment aux fonds de roulement et aux réserves indispensables à l'exploitation.
 
@@ -360,77 +370,219 @@ L'Etat et les communes participent aux frais d'exploitation des établissements 
 
 **Placement hors canton**
 
-<sup>1</sup> Les subventions aux frais d'exploitation d'établissements situés à l'extérieur du canton sont, sauf convention particulière passée par le Conseil d'Etat, accordées exclusivement pour les personnes handicapées dont le placement a été préalablement autorisé par le département.
+<sup>1</sup> Les subventions aux frais d'exploitation d'établissements situés à l'extérieur du canton sont, sauf convention particulière passée par le Conseil d'Etat, accordées exclusivement pour les personnes en situation de handicap dont le placement a été préalablement autorisé par le département.
 
-<sup>2</sup> Cette subvention peut couvrir la totalité du déficit provenant du placement.
+<sup>2</sup> Ces subventions peuvent couvrir la totalité des coûts provenant du placement.
 
 #### Art. 34
 
 **Etablissements privés**
 
-En cas de nécessité, le département peut autoriser le placement de personnes handicapées dans des établissements privés et contribuer aux frais y relatifs.
+<sup>1</sup> En cas de nécessité, le département peut autoriser le placement de personnes en situation de handicap dans des établissements privés et contribuer aux frais y relatifs.
 
 #### Art. 35
 
-<sup>2,4</sup> Répartition des dépenses de subventionnement à l'exploitation
+**Répartition des dépenses de subventionnement à l'exploitation**
 
-<sup>1</sup> La dépense globale des frais d’exploitation découlant des articles 31 à 34 de la présente loi est répartie entre l’Etat et les communes selon les critères de la loi sur l’harmonisation du financement des régimes sociaux et d’insertion socio-professionnelle.
+<sup>1</sup> La dépense globale des frais d’exploitation découlant des articles 31 à 34 de la présente loi est répartie entre l’Etat et les communes selon les critères de la loi sur l’harmonisation du financement des régimes sociaux et d’insertion socio-professionnelle du 8 avril 2004.
 
-<sup>2</sup> Abrogé
+<sup>2</sup> …
 
-### Chapitre 6: Dispositions diverses
+## 5a Droits subjectifs des personnes en situation de handicap
+
+#### Art. 35a
+
+**Destinataires**
+
+<sup>1</sup> Les droits subjectifs garantis ci-après s’adressent au canton, aux communes, aux organes assumant des tâches publiques cantonales ou communales et aux prestataires de services accessibles au public.
+
+#### Art. 35b
+
+**Interdiction des inégalités et aménagements raisonnables**
+
+<sup>1</sup> Les personnes ne doivent pas subir d’inégalités, directement ou indirectement, en raison de leur handicap sans raison impérieuse.
+
+<sup>2</sup> Les destinataires, conformément à l’article 35a, apportent les aménagements raisonnables pour prévenir, supprimer ou réduire les discriminations des personnes en situation de handicap.
+
+#### Art. 35c
+
+**Accessibilité et communication**
+
+<sup>1</sup> Les destinataires, conformément à l’article 35a, prennent les mesures nécessaires pour rendre leurs prestations accessibles aux personnes en situation de handicap.
+
+<sup>2</sup> Ils communiquent sur leurs prestations avec les personnes en situation de handicap d’une manière compréhensible pour ces personnes et fournissent, dans le cas concret sur demande, les aides nécessaires, telles qu’interprète en langue des signes, documents dans un langage simple, explications orales ou autres moyens nécessaires adaptés, sous réserve de l'article 35d.
+
+#### Art. 35d
+
+**Proportionnalité**
+
+<sup>1</sup> Les intérêts publics et privés peuvent justifier la restriction des droits des personnes en situation de handicap, dans la mesure où ils l’emportent sur les intérêts à l’égalité effective des personnes en situation de handicap.
+
+<sup>2</sup> Lors de l'évaluation de la proportionnalité d'une restriction selon l'alinéa 1, les intérêts publics ci-après doivent être notamment pris en compte:
+
+- a) la protection de l’environnement;
+- b) la protection de la nature, du patrimoine et des monuments;
+- c) la sécurité du trafic et de l’exploitation.
+
+<sup>3</sup> S’agissant des destinataires, conformément à l’article 35a, les intérêts ci-après doivent être notamment pris en compte:
+
+- a) le coût économique, notamment la charge financière et son caractère raisonnable;
+- b) les frais des processus opérationnels supplémentaires;
+- c) l’impact sur la compétitivité de l’organisme.
+
+<sup>4</sup> En ce qui concerne les personnes en situation de handicap, les intérêts ci-après doivent être notamment pris en compte:
+
+- a) le genre et l’importance du droit en question;
+- b) la disponibilité de solutions de rechange comparables;
+- c) le nombre de personnes en situation de handicap concernées.
+
+#### Art. 35e
+
+**Droits subjectifs**
+
+<sup>1</sup> Celui qui subit une inégalité peut demander à l’autorité administrative ou au tribunal:
+
+- a) d’interdire une inégalité imminente ou de s’en abstenir;
+- b) de supprimer une inégalité existante;
+- c) de constater une inégalité.
+
+<sup>2</sup> Si le droit subjectif n’est pas réalisable par des mesures proportionnées, des mesures de substitution appropriées sont prises.
+
+<sup>3</sup> Dans les procédures visant à faire valoir leurs droits subjectifs selon la présente loi ou selon les lois spéciales pour personnes en situation de handicap, les parties peuvent exiger les mesures nécessaires leur permettant de revendiquer leurs droits efficacement.
+
+#### Art. 35f
+
+**Allègement du fardeau de la preuve**
+
+<sup>1</sup> Dans les procédures selon le droit cantonal, l’existence d’une inégalité est présumée pour autant que l’une des parties la rende vraisemblable.
+
+#### Art. 35g
+
+**Coûts**
+
+<sup>1</sup> Aucun émolument ou autre coût n’est perçu pour les procédures concernant l’application des droits subjectifs selon la présente loi ou selon les dispositions des lois spéciales pour personnes en situation de handicap.
+
+<sup>2</sup> Des frais de procédure peuvent être mis à la charge d’une partie qui agit, dans le cadre d'une procédure, de manière téméraire ou témoigne de légèreté.
+
+#### Art. 35h
+
+**Droit d’action et de recours des organisations de personnes en situation de handicap**
+
+<sup>1</sup> Les organisations suisses, qui poursuivent un but purement idéal et s’engagent dans leurs statuts pour les objectifs des personnes en situation de handicap, peuvent faire valoir de manière autonome les droits subjectifs selon la présente loi et selon les dispositions des lois spéciales sur les droits des personnes en situation de handicap.
+
+<sup>2</sup> Le Conseil d’Etat désigne les organisations ayant qualité pour agir en justice ou pour recourir.
+
+## 6 Procédure et organisation de l'exécution
 
 #### Art. 36
 
 **Formation du personnel**
 
-<sup>1</sup> Le département peut déterminer la qualification exigée du personnel assumant l'encadrement des personnes handicapées.
+<sup>1</sup> Le département peut déterminer la qualification exigée du personnel assumant l'encadrement des personnes en situation de handicap.
 
 <sup>2</sup> Il assure la formation de base, le perfectionnement et la formation continue de ce personnel en collaboration avec les établissements spécialisés et les centres de formation.
 
 <sup>3</sup> Il statue sur l'équivalence des titres, les organisations professionnelles entendues.
 
+#### Art. 36a
+
+**Priorités**
+
+<sup>1</sup> Le Conseil d’Etat fixe périodiquement les priorités du canton pour la réalisation des droits des personnes en situation de handicap.
+
+#### Art. 36b
+
+**Plans de mesures**
+
+<sup>1</sup> Les départements établissent, dans le cadre des priorités, des plans de mesure pour la mise en œuvre de la présente loi et des dispositions des lois spéciales concernant le droit des personnes en situation de handicap.
+
+#### Art. 36c
+
+**Bureau pour les droits des personnes en situation de handicap**
+
+<sup>1</sup> Le canton met en place un Bureau pour les droits des personnes en situation de handicap (ci-après: Bureau). Celui-ci est intégré à l'office de coordination pour les questions dans le domaine du handicap du service en charge de l'action sociale.
+
+#### Art. 36d
+
+**Tâches du Bureau**
+
+<sup>1</sup> Le Bureau:
+
+- a) coordonne l’exécution de la présente loi et des dispositions des lois spéciales sur les droits des personnes en situation de handicap;
+- b) conseille les autorités, responsables et prestataires de services mentionnés à l’article 35a et entretient les échanges avec celles-ci ainsi qu'avec la Confédération sur les questions relatives aux personnes en situation de handicap;
+- c) soutient les départements dans l’établissement des plans de mesures et prend position sur ces plans à l’intention du Conseil d’Etat;
+- d) présente un rapport périodique sur ses activités à l'office à l'attention du département. Ledit rapport fait l’objet d’une publication.
+
+<sup>2</sup> Le Bureau assume ses tâches en ayant des échanges étroits et réguliers avec les personnes en situation de handicap et leurs organisations. Si nécessaire, il peut faire appel à des experts.
+
+#### Art. 36e
+
+**Recommandations**
+
+<sup>1</sup> Le Bureau peut faire des recommandations aux destinataires mentionnés à l’article 35a.
+
+#### Art. 36f
+
+**Information du Bureau**
+
+<sup>1</sup> Les autorités et les responsables de tâches étatiques du canton ou des communes informent en temps utile le Bureau sur les projets législatifs et autres actions administratives d’importance majeure pour les droits des personnes en situation de handicap.
+
 #### Art. 37
 
-**Commission**
+**Commission consultative pour les questions dans le domaine du handicap**
 
-<sup>1</sup> Il est constitué une commission cantonale pour les personnes handicapées. Les milieux intéressés y sont représentés. Le Conseil d'Etat en fixe la composition et en désigne les membres sur la proposition du département.
+<sup>1</sup> Il est constitué une commission cantonale indépendante pour les personnes en situation de handicap. Par voie d'ordonnance, le Conseil d'Etat en fixe la composition et en désigne les membres. Sont membres prioritairement les personnes en situation de handicap mais aussi des représentants des organisations œuvrant dans le milieu du handicap, des milieux économiques, sociaux, sanitaires et des autorités politiques.
 
-<sup>2</sup> Cette commission cantonale est un organe consultatif du Conseil d'Etat dans les domaines concernant les personnes handicapées.
+<sup>2</sup> Cette commission cantonale est un organe consultatif du département respectivement du Conseil d'Etat dans les domaines concernant les personnes en situation de handicap.
 
-<sup>3</sup> Elle conseille le département notamment dans l'élaboration des documents nécessaires à l'application de la présente loi, dans la planification des mesures générales destinées aux personnes handicapées, dans l'encouragement des actions de prévention, dans l'organisation et la surveillance des établissements et des institutions accueillant des personnes handicapées.
+<sup>3</sup> La commission suit le développement de la législation sur le droit des personnes en situation de handicap dans le canton ainsi que sa mise en œuvre et conseille le département respectivement le Conseil d’Etat sur ces questions.
+
+<sup>4</sup> La commission prend position sur le monitorage établi par l'office de coordination.
+
+<sup>5</sup> Elle présente au département respectivement au Conseil d’Etat, par l'office de coordination, un rapport périodique sur ses activités. Ce rapport fait l’objet d’une publication.
 
 #### Art. 38
 
 **Surveillance**
 
-Tous les établissements accueillant des personnes handicapées sont soumis à la surveillance du département et leur exploitation est subordonnée à une autorisation.
+<sup>1</sup> Tous les établissements accueillant des personnes en situation de handicap sont soumis à la surveillance du département et leur exploitation est subordonnée à une autorisation.
+
+#### Art. 38a
+
+**Office de l'Ombudsman**
+
+<sup>1</sup> Toute personne physique peut adresser des préoccupations, des plaintes ou des signalements de dysfonctionnements touchant à la prise en charge dans des institutions sociales à l'office de l'Ombudsman de la santé et des institutions sociales selon l'article 15 de la loi sur la santé.
 
 #### Art. 39
 
 **Autorité de recours**
 
-Les décisions du département peuvent être attaquées auprès du Conseil d'Etat par un recours administratif. Pour le surplus, la loi du 6 octobre 1976 sur la procédure et la juridiction administratives s'applique.
+<sup>1</sup> Les décisions fondées sur la présente loi peuvent être attaquées auprès du Conseil d'Etat par un recours administratif. Pour le surplus, la loi sur la procédure et la juridiction administratives (LPJA) s'applique.
 
-### Chapitre 7: Dispositions finales
+#### Art. 39a
+
+**Fonds cantonal pour l'intégration socio-professionnelle**
+
+<sup>1</sup> Le fonds cantonal pour l'intégration socio-professionnelle prévue dans la loi sur l'intégration et l'aide sociale peut être utilisé pour des personnes en situation de handicap.
+
+## 7 Dispositions finales
 
 #### Art. 40
 
 **Dispositions d'application**
 
-Un décret du Grand Conseil règle l'application de la présente loi.
+<sup>1</sup> Une ordonnance du Conseil d'Etat règle l'application de la présente loi.
 
 #### Art. 41
 
 **Dispositions abrogatoires**
 
-La présente loi abroge:
+<sup>1</sup> La présente loi abroge:
 
-- la loi du 12 mai 1978 sur les mesures en faveur des handicapés;
-
-- le décret général d'application du 11 novembre 1981 concernant la loi du 12 mai 1978 sur les mesures en faveur des handicapés;
-
-- le décret du 12 mai 1982 concernant les mesures d'intégration professionnelle des handicapés, ainsi que toutes autres dispositions contraires prises antérieurement par le canton en la matière.
+- a) la loi sur les mesures en faveur des handicapés du 12 mai 1978;
+- b) le décret général d'application du 11 novembre 1981 concernant la loi sur les mesures en faveur des handicapés du 12 mai 1978;
+- c) le décret concernant les mesures d'intégration professionnelle des handicapés du 12 mai 1982;
+- d) ainsi que toutes autres dispositions contraires prises antérieurement par le canton en la matière.
 
 #### Art. 42
 
@@ -440,21 +592,4 @@ La présente loi abroge:
 
 <sup>2</sup> Le Conseil d'Etat fixe la date de son entrée en vigueur.
 
-Ainsi adopté en seconds débats en séance du Grand Conseil à Sion, le 31 janvier 1991.
-
-Le président du Grand Conseil: Bernard Premand Les secrétaires: Jean-Dominique Cipolla, Hermann Fux
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-**1.03.1993**
-
-vigueur RO/VS 1992, 9
-
-## Autres notes
-
-- [1] Introduit par l'annexe I de la loi sur les RO/VS 1996, 54 1.05.1996 subventions du 13.11.1995
-- [2] Modification selon le ch. II/16 de la loi BO No 28/2010 1.01.2011 concernant la mise en œuvre de la réforme de 51/2010 la péréquation financière et de la répartition de tâches entre la Confédération, le canton et les communes du 16.06.2010
-- [3] Introduit par la modification du 12.05.2011 BO No 25/2011 1.01.2012
-- [4] Nouvelle teneur selon le ch. II/23 de la loi BO No 38/2011 1.01.2012 concernant la deuxième étape de la mise en oevre de la réforme de la pérequation financière et de la répartition des tâches entre la Confédération, le canton et les communes du 15.09.2011
+RCV RO/AGS 1992 f 7 | d 9
