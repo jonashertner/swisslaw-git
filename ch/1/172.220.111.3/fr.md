@@ -4,11 +4,11 @@ title: Ordonnance du 3 juillet 2001 sur le personnel de la Confédération (OPer
 short: OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: fr
-version: 2021-08-01
+version: 2022-01-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2001-319-20210801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-319-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210801/fr"
 
 (OPers)
 
-du 3 juillet 2001 (Etat le 1<sup>er</sup> août 2021)
+du 3 juillet 2001 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -315,7 +315,7 @@ Le travail est interrompu par des pauses d’au moins:
 
 <sup>3</sup> Le travail mobile consiste à travailler à un autre endroit que dans les locaux mis à disposition par l’employeur sur le lieu de travail visé à l’art. 25, al. 2, let. c.
 
-[^10c-1]: Introduit par le ch.I de l’O du 12 mai 2021 en vigueur depuis le 1er juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^10c-1]: Introduit par le ch. I de l’O du 12 mai 2021 en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 [^10c-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 [^10c-3]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
@@ -752,13 +752,15 @@ Elle peut être prolongée contractuellement jusqu’à six mois au plus pour le
 - c. les inspecteurs fiscaux de l’Administration fédérale des contributions;
 - d. les personnes engagées par le Conseil fédéral en vertu de l’art. 2, al. 1;
 - e. les collaborateurs du Service de renseignement de la Confédération ayant régulièrement accès à des informations sensibles;
-- f.[^27-3] les experts-réviseurs et les experts-évaluateurs du Contrôle fédéral des finances.
+- f.[^27-3] les experts-réviseurs et les experts-évaluateurs du Contrôle fédéral des finances;
+- g.[^27-4] les employés du DFAE soumis à la discipline des transferts ou affectés à l’étranger, à l’exception des employés engagés pour une durée déterminée dans le cadre d’une formation.
 
 <sup>3</sup> Les parties peuvent, d’un commun accord, supprimer la période d’essai ou fixer une période d’essai plus courte.
 
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^27-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
 [^27-3]: Introduite par le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+[^27-4]: Introduite par le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 
 #### Art. 28
 
@@ -1304,7 +1306,7 @@ Le montant des allocations complétant l’allocation familiale correspond à la
 
 <sup>7</sup> ...[^52-4]
 
-<sup>7bis</sup> Lorsque la condition d’affectation d’une fonction à une classe supérieure prévue à l’al. 6 n’est plus remplie, la classe de salaire et le salaire sont modifiés dans le contrat de travail. L’art. 52*a* n’est pas applicable.[^52-5]
+<sup>7bis</sup> Lorsque la condition d’affectation d’une fonction à une classe supérieure prévue à l’al. 6 n’est plus remplie, l’autorité compétente en vertu de l’art. 2 modifie la classe de salaire et le salaire dans le contrat de travail. L’art. 52*a* n’est pas applicable.[^52-5]
 
 <sup>8</sup> Pour le personnel en cours de formation ou engagé sur la base de conditions particulières, le DFF peut fixer un salaire maximum qui se situe au-dessous du montant maximal de la classe de salaire 1.[^52-6]
 
@@ -1312,28 +1314,25 @@ Le montant des allocations complétant l’allocation familiale correspond à la
 [^52-2]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
 [^52-3]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 [^52-4]: Abrogé par le ch. I de l’O du 22 déc. 2004, avec effet au 1<sup>er</sup> janv. 2005 ([RO 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)).
-[^52-5]: Introduit par le ch. I 1 de l’O du 5 nov. 2008 sur l’optimisation du système salarial du personnel, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^52-5]: Introduit par le ch. I 1 de l’O du 5 nov. 2008 sur l’optimisation du système salarial du personnel ([RO 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)). Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 [^52-6]: Nouvelle teneur selon le ch. I 1 de l’O du 5 nov. 2008 sur l’optimisation du système salarial du personnel, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
 
 #### Art. 52a
 
 **Affectation de la fonction à une classe de salaire inférieure**[^52a-1]
 
-<sup>1</sup> Si la fonction de l’employé est affectée à une classe de salaire inférieure ou qu’une fonction moins bien évaluée lui est confiée pour des raisons qui ne lui sont pas imputables, la classe de salaire est modifiée dans le contrat de travail. Si le salaire dépasse le montant maximal fixé pour cette nouvelle classe, le salaire acquis est maintenu pendant deux ans. Pendant ce délai, il n’est pas indexé sur le renchérissement et aucune augmentation de salaire selon l’art. 39 n’est accordée tant qu’il dépasse le montant auquel l’employé peut prétendre sur la base de l’évaluation de la fonction.[^52a-2] Le salaire est adapté à la valeur effective de la fonction après deux ans au plus tard.[^52a-3]
+<sup>1</sup> Si la fonction de l’employé est affectée à une classe de salaire inférieure ou qu’une fonction moins bien évaluée lui est confiée pour des raisons qui ne lui sont pas imputables, la classe de salaire est modifiée dans le contrat de travail. Si le salaire dépasse le montant maximal fixé pour cette nouvelle classe, le salaire acquis est maintenu pendant deux ans. Pendant ce délai, il n’est pas indexé sur le renchérissement et aucune augmentation de salaire selon l’art. 39 n’est accordée tant qu’il dépasse le montant auquel l’employé peut prétendre sur la base de l’évaluation de la fonction. Le salaire est adapté à la valeur effective de la fonction après deux ans au plus tard.
 
-<sup>1bis</sup> Pour les employés visés à l’art. 26, al. 5, le délai d’adaptation du salaire à la valeur effective de la fonction est de quatre ans au plus.[^52a-4]
+<sup>2</sup>
 
-<sup>2</sup> Si la fonction d’un employé âgé de 55 ans révolus ou plus est affectée à une classe de salaire inférieure ou qu’une fonction moins bien évaluée lui est confiée pour des raisons qui ne lui sont pas imputables, la classe de salaire est modifiée dans le contrat de travail. Le salaire acquis est maintenu, mais il n’est pas indexé sur le renchérissement et aucune augmentation de salaire selon l’art. 39 n’est accordée tant qu’il dépasse le montant auquel l’employé peut prétendre sur la base de l’évaluation de la fonction.[^52a-5] Cette disposition ne s’applique pas aux employés visés à l’art. 26, al. 5.[^52a-6]
+Par dérogation à l’al. 1, le délai d’adaptation du salaire à la valeur effective de la fonction est de:
 
-<sup>3</sup> Après deux ans, le Conseil fédéral peut adapter le salaire de l’employé qui avait 55 ans révolus lors de la réévaluation de sa fonction ou de l’attribution d’une nouvelle fonction et qui était rangé dans la classe 32 ou dans une classe supérieure, si le montant maximal fixé pour ladite classe dépasse de plus de 10 % le montant maximal fixé pour la nouvelle classe.[^52a-7]
+- a. cinq ans au plus pour les employés âgés de 55 ans révolus;
+- b. quatre ans au plus pour les employés visés à l’art. 26, al. 5.
 
-[^52a-1]: Introduit par le ch. I de l’O du 22 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)).
-[^52a-2]: Nouvelle teneur de la phrase selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^52a-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^52a-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^52a-5]: Nouvelle teneur de la phrase selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^52a-6]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^52a-7]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+<sup>3</sup> Après deux ans, le Conseil fédéral peut adapter le salaire de l’employé qui avait 55 ans révolus lors de la réévaluation de sa fonction ou de l’attribution d’une nouvelle fonction et qui était rangé dans la classe 32 ou dans une classe supérieure, si le montant maximal fixé pour ladite classe dépasse de plus de 10 % le montant maximal fixé pour la nouvelle classe.
+
+[^52a-1]: Introduit par le ch. I de l’O du 22 déc. 2004 ([RO 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)). Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 
 #### Art. 52b
 
@@ -1493,20 +1492,26 @@ L’employeur prend en charge les frais non couverts par les assurances privées
 
 #### Art. 60
 
-**Versement du salaire en cas de maternité**[^60-1]
+**Congé maternité**[^60-1]
 
 ### (art. 29, al. 1, LPers)
 
-<sup>1</sup> En cas d’absence pour cause de maternité, le salaire intégral et les allocations sociales sont versés à l’employée pendant quatre mois.
+[^60-2]
 
-<sup>2</sup> L’employée peut, si elle le souhaite, cesser de travailler 2 semaines au plus avant la date présumée de l’accouchement.
+<sup>1</sup> Lors de la naissance d’un ou de plusieurs enfants, l’employée a droit à un congé maternité payé de quatre mois. Si un nouveau-né doit être hospitalisé de façon ininterrompue durant deux semaines au moins immédiatement après sa naissance, le congé est prolongé d’une durée équivalente à celle de l’hospitalisation, mais dure au total 154 jours au plus.[^60-3]
 
-<sup>3</sup> Si le droit au salaire visé à l’al. 1 prend fin avant l’expiration du droit à l’allocation de maternité prévue par la loi fédérale du 25 septembre 1952 sur les allocations pour perte de gain (LAPG)[^60-2] en raison de l’ajournement du versement de cette allocation, seule l’allocation de maternité prévue par la LAPG est versée à l’employée pendant la période comprise entre la fin du droit au salaire et la fin du droit à l’allocation.
+<sup>2</sup> L’employée peut prendre son congé maternité deux semaines au plus avant la date présumée de l’accouchement.[^60-4]
+
+<sup>3</sup> Durant les quatre premiers mois du congé maternité, le salaire intégral et les allocations sociales sont versés à l’employée. Si le congé est prolongé en raison de l’hospitalisation du nouveau-né, seule l’allocation de maternité prévue par la loi fédérale du 25 septembre 1952 sur les allocations pour perte de gain[^60-5] est versée à l’employée durant cette période.[^60-6]
 
 <sup>4</sup> Les réglementations cantonales sont réservées.
 
 [^60-1]: Nouvelle teneur selon le ch. I 2 de l’O du 10 juin 2005 portant introduction de l’allocation de maternité dans la législation sur le personnel de la Confédération, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2479](https://fedlex.data.admin.ch/eli/oc/2005/423)).
-[^60-2]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^60-2]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
+[^60-3]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
+[^60-4]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
+[^60-5]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^60-6]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 
 #### Art. 60a
 
@@ -1530,9 +1535,15 @@ L’employeur prend en charge les frais non couverts par les assurances privées
 
 #### Art. 60b
 
-[^60b-1]
+**Congé paternité et congé du partenaire enregistré**[^60b-1]
 
-[^60b-1]: Entre en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+### (art. 17*a* LPers)
+
+<sup>1</sup> À la naissance d’un ou de plusieurs enfants, le père reconnu sur le plan juridique a droit à un congé payé de 20 jours ouvrés. Le congé doit être pris dans les six mois qui suivent la naissance. Il peut être pris sous forme de jours séparés ou de manière cumulée.
+
+<sup>2</sup> À la naissance d’un ou de plusieurs enfants de son partenaire enregistré, l’autre partenaire a également droit à un congé payé de 20 jours ouvrés.
+
+[^60b-1]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 
 #### Art. 60c
 
@@ -1555,7 +1566,7 @@ L’enfant est réputé gravement atteint dans sa santé:
 
 <sup>4</sup> Chaque cas de maladie ou d’accident ne donne droit qu’à un congé. Une rechute qui survient après une longue période sans symptôme est reconnue comme un nouveau cas.
 
-[^60c-1]: Introduit par le ch.I de l’O du 12 mai 2021 en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^60c-1]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 
 #### Art. 61
 
@@ -1633,7 +1644,7 @@ Le DFF a les tâches suivantes:
 
 <sup>2</sup> Ils conviennent avec les employés des lieux où la prestation de travail est fournie. Ils accordent la plus grande liberté de choix possible aux employés en tenant compte des intérêts du service.
 
-[^64a-1]: Introduit par le ch.I de l’O du 12 mai 2021 en vigueur depuis le 1er juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)),.
+[^64a-1]: Introduit par le ch. I de l’O du 12 mai 2021 en vigueur depuis le 1er juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)),.
 
 #### Art. 64a<sup>bis</sup>
 
@@ -1675,9 +1686,9 @@ Le DFF a les tâches suivantes:
 
 [^64b-1]: Anciennement art. 64*a*. Introduit par le ch. I de l’O du 5 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6411](https://fedlex.data.admin.ch/eli/oc/2008/861)).
 [^64b-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^64b-3]: Nouvelle teneur selon le ch.I de l’O du 12 mai 2021 en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)),.
+[^64b-3]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 [^64b-4]: [RS 172.220.111.35](https://fedlex.data.admin.ch/eli/cc/2013/154)
-[^64b-5]: Nouvelle teneur le ch.I de l’O du 12 mai 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)), en vigueur depuis le 1er juil. 2021.
+[^64b-5]: Nouvelle teneur le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 [^64b-6]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
 #### Art. 65
@@ -1813,7 +1824,7 @@ Les vacances sont réduites en proportion de la durée de l’absence si, au cou
 
 <sup>4</sup> Les départements fixent les modalités dans leur domaine d’activité. Ils déterminent notamment s’il y a nécessité d’utiliser des instruments de travail et du matériel.
 
-[^69-1]: Nouvelle teneur selon le ch.I de l’O du 12 mai 2021 en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^69-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021 en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 
 #### Art. 70
 
@@ -1865,11 +1876,11 @@ Le DFF fixe les indemnités versées pour:
 - b. les voyages de service à l’étranger;
 - c. la participation à des conférences internationales;
 - d. le déménagement pour des raisons de service;
-- e. les frais de représentation.
+- e. les frais de représentation;
 - f.[^72-2] les frais liés au travail mobile.
 
 [^72-1]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
-[^72-2]: Introduite par le ch. I de l’O du 12 mai 2021 en vigueur depuis le 1er juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^72-2]: Introduite par le ch. I de l’O du 12 mai 2021 en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 
 #### Art. 73
 
@@ -2001,13 +2012,15 @@ L’employé présente une demande écrite de remboursement des coûts de l’ac
 - a. le taux d’occupation des personnes visées à l’art. 75*b*, let. a;
 - b. le type d’accueil extrafamilial visé à l’art. 75*b,* let. c;
 - c. le revenu brut annuel du ménage visé à l’art. 75*b*, let. d;
-- d. le taux de l’accueil extrafamilial d’enfants.
+- d. le taux de l’accueil extrafamilial d’enfants;
+- e.[^75d-2] les coûts effectifs de l’accueil extrafamilial d’enfants.
 
 <sup>2</sup> L’autorité compétente contrôle chaque année par sondage au minimum 10 % des demandes approuvées. Elle vérifie l’exactitude des indications contenues dans la demande et peut exiger des informations complémentaires.
 
 <sup>3</sup> L’employé doit rembourser les indemnités perçues à tort. Si l’indemnité a été obtenue frauduleusement de manière répétée car il a fourni intentionnellement des indications inexactes, son droit au remboursement des coûts de l’accueil extrafamilial d’enfants peut être supprimé pour une durée déterminée ou indéterminée.
 
 [^75d-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+[^75d-2]: Introduite par le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 
 #### Art. 76
 
@@ -2271,7 +2284,7 @@ On entend par organisations internationales au sens de la présente disposition:
 [^88-4]: Introduit par l’annexe ch. 4 de l’O du 7 décembre 2007 sur l’État hôte ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)). Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^88-5]: Introduit par le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
 
-## Chapitre 4*a* Prévoyance professionnelle
+## Chapitre 4*a***** Prévoyance professionnelle
 
 [^chap4a-1]
 
@@ -2805,7 +2818,7 @@ Si l’exécution correcte des tâches est compromise, l’autorité compétente
 [^103a-3]: Introduit par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^103a-4]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 
-## Chapitre 7 Mesures et prestations de l’employeur dans des cas particuliers
+## Chapitre 7**** Mesures et prestations de l’employeur dans des cas particuliers
 
 [^chap7-1]
 
@@ -3014,7 +3027,7 @@ L’employeur peut, pour des raisons pertinentes, fournir les prestations suivan
 
 [^105d-1]: Introduit par le ch. I de l’O du 12 oct. 2016, en vigueur depuis le 1<sup>er</sup> déc. 2016 ([RO 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
 
-### Section 2 Prestations de l’employeur pour assurer la protection sociale du personnel en cas de résiliation d’un commun accord des rapports de travail
+### Section 2 Prestations de l’employeur pour assurer la protection sociale du personnel en cas de résiliation d’un commun accord des rapports de travail****
 
 [^chap7-sec2-1]
 
@@ -3116,7 +3129,7 @@ Les commissions du personnel émettent un avis à l’intention des organes de d
 
 [^109-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
-## Chapitre 9 Prescription
+## Chapitre 9 Prescription****
 
 [^chap9-1]
 
@@ -3265,7 +3278,7 @@ Il peut, après entente avec le Département fédéral de l’intérieur, édict
 [^116-1]: Introduit par le ch. I de l’O du 12 juin 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)). Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 [^116-2]: Introduite par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
-## Chapitre 11 Dispositions finales
+## Chapitre 11 Dispositions finales****
 
 [^chap11-1]
 
@@ -3383,13 +3396,21 @@ Les employés rangés dans les classes de salaire 31 et plus dont le poste est a
 
 [^116j-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 
+#### Art. 116k
+
+**Disposition transitoire relative à la modification du 12 mai 2021**[^116k-1]
+
+Si la fonction des employés âgés de 55 ans révolus ou plus lors de l’entrée en vigueur de la modification du 12 mai 2021 est affectée à une classe inférieure ou qu’une fonction moins bien évaluée leur est confiée pour des raisons qui ne leur sont pas imputables, le salaire n’est pas adapté à la nouvelle classe de salaire.
+
+[^116k-1]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+
 #### Art. 117
 
 **Entrée en vigueur**
 
 La présente ordonnance entre en vigueur au 1<sup>er</sup> janvier 2002.
 
-Annexe 1[^t-1]
+Annexe 1*[^t-1]*
 
 (art. 88*f*, al. 5)
 
@@ -3405,7 +3426,7 @@ Annexe 1[^t-1]
 <tr><td>64</td><td>75 %</td><td>70 %</td><td>55 %</td><td>50 %</td></tr>
 </table>
 
-Annexe 2[^t-2]
+Annexe 2*[^t-2]*
 
 (art. 88*a*, al. 1)
 
@@ -3428,7 +3449,7 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]: [RS 172.220.111.9](https://fedlex.data.admin.ch/eli/cc/2005/764)
 
-Annexe 3[^t-3]
+Annexe 3*[^t-3]*
 
 (art. 79, al. 1<sup>bis</sup>)
 

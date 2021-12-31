@@ -4,11 +4,11 @@ title: Bundespersonalverordnung vom 3. Juli 2001 (BPV)
 short: BPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: de
-version: 2021-08-01
+version: 2022-01-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2001-319-20210801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2001-319-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210801/de"
 
 (BPV)
 
-vom 3. Juli 2001 (Stand am 1. August 2021)
+vom 3. Juli 2001 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -92,7 +92,7 @@ Der Bundesrat ist zuständig für die Begründung, Änderung und Beendigung des 
 - e. der Vizekanzler und Vizekanzlerinnen der Bundeskanzlei;
 - f. der Missionschefs und Missionschefinnen;
 - g.[^2-3] der oder des Delegierten für digitale Transformation und IKT-Lenkung;
-- h.[^2-4] ...
+- h.[^2-4] …
 
 <sup>1bis</sup> Der Departementsvorsteher oder die Departementsvorsteherin ist zuständig für die Begründung, Änderung und Beendigung des Arbeitsverhältnisses der Stellvertreter und Stellvertreterinnen der Staatssekretäre und Staatssekretärinnen, der Amtsdirektoren und Amtsdirektorinnen sowie der Generalsekretäre und Generalsekretärinnen der Departemente.[^2-5]
 
@@ -172,7 +172,7 @@ Er kann von den Angestellten Aus- und Weiterbildungskosten zurückfordern, wenn 
 
 <sup>5bis</sup> Für die Rückforderung von Kosten gemäss Absatz 4<sup>bis</sup> laufen die Fristen ab dem Tag nach erfolgreichem Bestehen der Probezeit.[^4-7]
 
-<sup>6</sup> ...[^4-8]
+<sup>6</sup> …[^4-8]
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^4-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
@@ -458,7 +458,7 @@ Fachstelle für personalpolitische Fragen ist das Eidgenössische Personalamt (E
 - d.[^18-4] Es bestimmt die Ausgestaltung der zentralen Personalinformationssysteme der Bundesverwaltung und führt diese. Es kann departementsspezifische Personalinformationssysteme bewilligen.
 - e. Es stellt Instrumente zur Steuerung der personellen und finanziellen Ressourcen bereit.
 - f. Es koordiniert die Umsetzung von Massnahmen zur Chancengleichheit und zur Gleichstellung von Frau und Mann.
-- g.[^18-5] ...
+- g.[^18-5] …
 - h.[^18-6] Es koordiniert die Umsetzung von Massnahmen zur Beschäftigung und Integration von Menschen mit Behinderungen.
 - i. Es stellt das strategische Controlling sicher.
 - j. Es stellt die Grundlagen für die Berichterstattung an den Bundesrat und an die Bundesversammlung bereit (Art. 21).
@@ -603,9 +603,9 @@ Soweit es für die Erfüllung ihrer hoheitlichen Aufgaben notwendig ist, kann de
 - c. durch das EDA für das für die Vertretung der Schweiz im Ausland eingesetzte Personal;
 - d. durch das EFD für die Angehörigen des Grenzwachtkorps;
 - e. durch die Departemente für ihr Personal, das die Schweiz an internationalen Verhandlungen vertritt;
-- f.[^23-2] ...
+- f.[^23-2] …
 
-<sup>2</sup> ...[^23-3]
+<sup>2</sup> …[^23-3]
 
 <sup>3</sup> Die zuständige Stelle nach Artikel 2 weist auf allfällige Zugangsbeschränkungen in der Stellenausschreibung (Art. 22) hin.
 
@@ -621,7 +621,7 @@ Soweit es für die Erfüllung ihrer hoheitlichen Aufgaben notwendig ist, kann de
 
 <sup>1</sup> Die zuständige Stelle nach Artikel 2 kann, wenn es die Funktion erfordert, die Anstellung von bestimmten Kriterien wie Alter, Vorbildung oder Handlungsfähigkeit abhängig machen.
 
-<sup>2</sup> ...[^24-1]
+<sup>2</sup> …[^24-1]
 
 <sup>3</sup> Bei sicherheitsrelevanten Tätigkeiten können die Anstellung nach Vertragsabschluss und die Weiterbeschäftigung vom Bestehen einer medizinischen Eignungsprüfung abhängig gemacht werden. Das EFD erstellt in Zusammenarbeit mit den Departementen eine Liste der betroffenen Tätigkeiten und legt die Periodizität der Wiederholung der Eignungsprüfung fest.[^24-2]
 
@@ -753,13 +753,15 @@ Für die folgenden Personalkategorien kann die Probezeit vertraglich auf höchst
 - c. Steuerinspektoren und Steuerinspektorinnen der Eidgenössischen Steuerverwaltung;
 - d. vom Bundesrat gewählte Personen nach Artikel 2 Absatz 1;
 - e. Mitarbeiter und Mitarbeiterinnen des Nachrichtendiensts des Bundes, die regelmässig Zugang zu sensitiven Informationen haben;
-- f.[^27-3] Revisionsexperten und Revisionsexpertinnen sowie Evaluationsexperten und Evaluationsexpertinnen der Eidgenössischen Finanzkontrolle.
+- f.[^27-3] Revisionsexperten und Revisionsexpertinnen sowie Evaluationsexperten und Evaluationsexpertinnen der Eidgenössischen Finanzkontrolle;
+- g.[^27-4] Angestellte des EDA, die der Versetzungspflicht unterstehen oder die im Ausland eingesetzt werden, mit Ausnahme der Angestellten, die für die Dauer einer Ausbildung befristet angestellt werden.
 
 <sup>3</sup> Die Vertragsparteien können im gegenseitigen Einvernehmen auf die Probezeit verzichten oder eine kürzere Probezeit vereinbaren.
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^27-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
 [^27-3]: Eingefügt durch Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+[^27-4]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 
 #### Art. 28
 
@@ -846,7 +848,7 @@ Die Auflösung des Arbeitsverhältnisses gilt als verschuldet, wenn:
 - c.[^31-2] der Versetzungspflicht unterstehende Angestellte des EDA auf das schweizerische Bürgerrecht freiwillig verzichten;
 - d. einer Versetzungspflicht unterstehende Angestellte sich weigern, einer Versetzung Folge zu leisten.
 
-<sup>2</sup> ...[^31-3]
+<sup>2</sup> …[^31-3]
 
 [^31-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^31-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
@@ -1094,11 +1096,11 @@ Der Teuerungsausgleich wird ausgerichtet auf:
 - f. die Sonderzulagen;
 - g. die Arbeitsmarktzulage;
 - h.[^44-1] die ergänzenden Leistungen;
-- i.[^44-2] ...
+- i.[^44-2] …
 
 <sup>3</sup> Die Höchstbeträge des Lohnes (Art. 36) und des Ortszuschlages (Art. 43) erhöhen sich jeweils um den Teuerungsausgleich.
 
-<sup>4</sup> ...[^44-3]
+<sup>4</sup> …[^44-3]
 
 [^44-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 [^44-2]: Eingefügt durch Anhang Ziff. 2 der Familienzulagenverordnung vom 31. Okt. 2007 ([AS 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)). Aufgehoben durch Ziff. I der V vom 13. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
@@ -1303,9 +1305,9 @@ Die Höhe der ergänzenden Leistungen entspricht der Differenz zwischen dem mass
 
 <sup>6</sup> Die zuständige Stelle nach Artikel 2 kann bis 2 Prozent der Stellen der Lohnklassen 1–30 in Bezug auf die ordentliche Bewertung eine Klasse höher einreihen; Voraussetzung dafür ist eine durch die angestellte Person begründete Funktionserweiterung.[^52-3]
 
-<sup>7</sup> ...[^52-4]
+<sup>7</sup> …[^52-4]
 
-<sup>7bis</sup> Sind die Voraussetzungen für die Höherbewertung gemäss Absatz 6 nicht mehr gegeben, so werden die Lohnklasse und der Lohn im Arbeitsvertrag angepasst. Artikel 52*a* ist nicht anwendbar.[^52-5]
+<sup>7bis</sup> Fällt die Voraussetzung für die Höherbewertung nach Absatz 6 weg, so passt die zuständige Stelle nach Artikel 2 die Lohnklasse und den Lohn im Arbeitsvertrag an. Artikel 52*a* ist nicht anwendbar.[^52-5]
 
 <sup>8</sup> Für Personal, das sich in Ausbildung befindet oder aufgrund besonderer Verhältnisse angestellt wird, kann das EFD einen Maximallohn festlegen, der niedriger ist als der Höchstbetrag der Lohnklasse 1.[^52-6]
 
@@ -1313,28 +1315,25 @@ Die Höhe der ergänzenden Leistungen entspricht der Differenz zwischen dem mass
 [^52-2]: Fassung gemäss Ziff. I der V vom 24. Okt. 2018, in Kraft seit 1. Jan 2019 ([AS 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
 [^52-3]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 [^52-4]: Aufgehoben durch Ziff. I der V vom 22. Dez. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)).
-[^52-5]: Eingefügt durch Ziff. I 1 der V vom 5. Nov. 2008 über Optimierungen im Lohnsystem des Bundespersonals, in Kraft seit 1. Febr. 2009 ([AS 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^52-5]: Eingefügt durch Ziff. I 1 der V vom 5. Nov. 2008 über Optimierungen im Lohnsystem des Bundespersonals ([AS 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)). Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 [^52-6]: Fassung gemäss Ziff. I 1 der V vom 5. Nov. 2008 über Optimierungen im Lohnsystem des Bundespersonals, in Kraft seit 1. Febr. 2009 ([AS 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
 
 #### Art. 52a
 
 **Tieferbewertung einer Funktion**[^52a-1]
 
-<sup>1</sup> Muss aus Gründen, die nicht bei der angestellten Person liegen, eine Funktion tiefer bewertet oder eine tiefer bewertete Funktion zugewiesen werden, so wird die Lohnklasse im Arbeitsvertrag angepasst. Übersteigt der Lohn den Höchstbetrag der neuen Lohnklasse, so bleibt er während zwei Jahren unverändert. Er wird während dieser Frist vom Teuerungsausgleich und von einer Lohnerhöhung nach Artikel 39 ausgenommen, bis er den Betrag nicht mehr übersteigt, der aufgrund der Funktionsbewertung gerechtfertigt ist.[^52a-2] Nach spätestens zwei Jahren wird der Lohn an die neue Lohnklasse angepasst.[^52a-3]
+<sup>1</sup> Muss aus Gründen, die nicht bei der angestellten Person liegen, eine Funktion tiefer bewertet oder eine tiefer bewertete Funktion zugewiesen werden, so wird die Lohnklasse im Arbeitsvertrag angepasst. Übersteigt der Lohn den Höchstbetrag der neuen Lohnklasse, so bleibt er während zwei Jahren unverändert. Er wird während dieser Frist vom Teuerungsausgleich und von einer Lohnerhöhung nach Artikel 39 ausgenommen, bis er den Betrag nicht mehr übersteigt, der aufgrund der Funktionsbewertung gerechtfertigt ist. Nach spätestens zwei Jahren wird der Lohn an die neue Lohnklasse angepasst.
 
-<sup>1bis</sup> Bei Angestellten nach Artikel 26 Absatz 5 beträgt die Frist für die Anpassung des Lohnes an die neue Lohnklasse maximal vier Jahre.[^52a-4]
+<sup>2</sup>
 
-<sup>2</sup> Muss aus Gründen, die nicht bei der angestellten Person liegen, die Funktion einer Person, die das 55. Altersjahr zurückgelegt hat, tiefer bewertet oder eine tiefer bewertete Funktion zugewiesen werden, so wird die Lohnklasse im Arbeitsvertrag angepasst. Der Lohn bleibt unverändert und wird vom Teuerungsausgleich und von einer Lohnerhöhung nach Artikel 39 ausgenommen, bis er den Betrag nicht mehr übersteigt, der aufgrund der Funktionsbewertung gerechtfertigt ist.[^52a-5] Angestellte nach Artikel 26 Absatz 5 sind von dieser Bestimmung ausgenommen.[^52a-6]
+Abweichend von Absatz 1 beträgt die Frist für die Anpassung des Lohnes an die neue Lohnklasse für Angestellte:
 
-<sup>3</sup> Der Bundesrat kann den Lohn einer angestellten Person, die vor der Neubewertung ihrer Funktion oder der Zuweisung einer neuen Funktion das 55. Altersjahr zurückgelegt hat und in der Lohnklasse 32 oder höher eingereiht war, nach zwei Jahren anpassen, sofern der Höchstbetrag der neuen Lohnklasse mehr als 10 Prozent unter demjenigen der bisherigen Lohnklasse liegt.[^52a-7]
+- a. die das 55. Altersjahr vollendet haben: maximal 5 Jahre;
+- b. nach Artikel 26 Absatz 5: maximal 4 Jahre.
 
-[^52a-1]: Eingefügt durch Ziff. I der V vom 22. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)).
-[^52a-2]: Fassung des dritten Satzes gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^52a-3]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^52a-4]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^52a-5]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^52a-6]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^52a-7]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+<sup>3</sup> Der Bundesrat kann den Lohn einer angestellten Person, die vor der Neubewertung ihrer Funktion oder der Zuweisung einer neuen Funktion das 55. Altersjahr vollendet hat und in der Lohnklasse 32 oder höher eingereiht war, nach zwei Jahren anpassen, sofern der Höchstbetrag der neuen Lohnklasse mehr als 10 Prozent unter demjenigen der bisherigen Lohnklasse liegt.
+
+[^52a-1]: Eingefügt durch Ziff. I der V vom 22. Dez. 2004 ([AS 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)). Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 
 #### Art. 52b
 
@@ -1387,11 +1386,11 @@ Bewertungsstellen für die Funktionen in der Bundesverwaltung sind:
 
 <sup>2</sup> Nach Ablauf dieser Frist bezahlt der Arbeitgeber während zwölf Monaten 90 Prozent des Lohnes.
 
-<sup>3</sup> ...[^56-2]
+<sup>3</sup> …[^56-2]
 
 <sup>4</sup> Voraussetzung für die Leistungen nach den Absätzen 1 und 2 ist, dass ein Arztzeugnis vorliegt und die ärztlichen Anordnungen befolgt werden. Die zuständige Stelle nach Artikel 2 kann eine Untersuchung durch einen Vertrauensarzt oder eine Vertrauensärztin oder durch den ärztlichen Dienst veranlassen.[^56-3]
 
-<sup>5</sup> ...[^56-4]
+<sup>5</sup> …[^56-4]
 
 <sup>6</sup> Bei Arbeitsversuchen im Rahmen einer Eingliederungsmassnahme nach Artikel 11*a* in einer anderen als der vertraglich vereinbarten Funktion richtet sich der Lohnanspruch nach den Absätzen 1 und 2.[^56-5]
 
@@ -1492,21 +1491,26 @@ Bei Krankheit oder Unfall während Dienstreisen im Ausland übernimmt der Arbeit
 
 #### Art. 60
 
-**Lohnfortzahlung bei Mutterschaft**[^60-1]
+**Mutterschaftsurlaub**[^60-1]
 
 ### (Art. 29 Abs. 1 BPG)
 
-<sup>1</sup> Bei Arbeitsaussetzung wegen Mutterschaft werden der Angestellten während 4 Monaten der volle Lohn und die Sozialzulagen ausgerichtet.[^60-2]
+[^60-2]
 
-<sup>2</sup> Die Angestellte kann auf Wunsch maximal 2 Wochen vor der errechneten Geburt die Arbeit aussetzen.
+<sup>1</sup> Bei der Geburt eines oder mehrerer Kinder besteht für die Angestellte ein Anspruch auf einen bezahlten Mutterschaftsurlaub von vier Monaten. Muss ein Neugeborenes unmittelbar nach der Geburt ununterbrochen während mindestens zwei Wochen im Spital verweilen, so verlängert sich dieser Urlaub um die Dauer der Hospitalisierung, höchstens aber auf insgesamt 154 Tage.[^60-3]
 
-<sup>3</sup> Endet der Lohnanspruch nach Absatz 1 vor Ablauf des Anspruchs auf Mutterschaftsentschädigung nach dem Erwerbsersatzgesetz vom 25. September 1952[^60-3], weil diese Entschädigung aufgeschoben wurde, so wird der Angestellten zwischen dem Ende des Lohnanspruchs und dem Ablauf des Anspruchs auf Mutterschaftsentschädigung nur diese ausbezahlt.
+<sup>2</sup> Die Angestellte kann den Mutterschaftsurlaub maximal zwei Wochen vor der errechneten Geburt antreten.[^60-4]
+
+<sup>3</sup> Während den ersten vier Monaten des Mutterschaftsurlaubs werden der Angestellten der volle Lohn und die Sozialzulagen ausgerichtet. Verlängert sich der Urlaub infolge Hospitalisierung des Neugeborenen, so wird ihr während der Verlängerung lediglich die Mutterschaftsentschädigung nach dem Erwerbsersatzgesetz vom 25. September 1952[^60-5] ausbezahlt.[^60-6]
 
 <sup>4</sup> Kantonale Regelungen bleiben vorbehalten.
 
 [^60-1]: Fassung gemäss Ziff. I 2 der V vom 10. Juni 2005 über die Einführung der Mutterschaftsentschädigung im Bundespersonalrecht, in Kraft seit 1. Juli 2007 ([AS 2005 2479](https://fedlex.data.admin.ch/eli/oc/2005/423)).
-[^60-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^60-3]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^60-2]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
+[^60-3]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
+[^60-4]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
+[^60-5]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^60-6]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 
 #### Art. 60a
 
@@ -1530,9 +1534,15 @@ Bei Krankheit oder Unfall während Dienstreisen im Ausland übernimmt der Arbeit
 
 #### Art. 60b
 
-[^60b-1]
+**Vaterschaftsurlaub und Urlaub der eingetragenen Partnerin oder des eingetragenen Partners**[^60b-1]
 
-[^60b-1]: Tritt am 1. Jan. 2022 in Kraft ([AS 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+### (Art. 17*a* BPG)
+
+<sup>1</sup> Bei der Geburt eines oder mehrerer eigenen Kinder besteht für den rechtlichen Vater ein Anspruch auf einen bezahlten Urlaub von zwanzig Arbeitstagen. Der Urlaub ist in den ersten sechs Monaten nach der Geburt zu beziehen. Er kann tageweise oder kumuliert bezogen werden.
+
+<sup>2</sup> In eingetragenen Partnerschaften besteht bei der Geburt eines oder mehrerer Kinder der Partnerin oder des Partners für die andere Partnerin oder den anderen Partner der Anspruch auf einen bezahlten Urlaub von zwanzig Tagen gleichermassen.
+
+[^60b-1]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 
 #### Art. 60c
 
@@ -1582,7 +1592,7 @@ Ein Kind ist gesundheitlich schwer beeinträchtigt, wenn:
 
 <sup>1</sup> Beim Tod einer angestellten Person erhalten die Hinterbliebenen einen Nachgenuss des Lohnes in der Höhe eines Sechstels des Jahreslohnes.
 
-<sup>2</sup> ...[^62-1]
+<sup>2</sup> …[^62-1]
 
 [^62-1]: Aufgehoben durch Ziff. I der V vom 13. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 
@@ -1754,7 +1764,7 @@ Die Angestellten haben pro Kalenderjahr Anspruch auf Ferien von:
 
 <sup>3</sup> Ferien sind in dem Kalenderjahr zu beziehen, in welchem der Anspruch entsteht. Ist dies aus zwingenden betrieblichen Gründen oder wegen Krankheit oder Unfall nicht möglich, so sind sie im Folgejahr zu beziehen.
 
-<sup>4</sup> ...[^67-3]
+<sup>4</sup> …[^67-3]
 
 [^67-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
 [^67-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
@@ -1883,7 +1893,7 @@ Das EFD regelt die Vergütungen für:
 
 Die Treueprämie besteht aus:
 
-- a.[^73-2] ...
+- a.[^73-2] …
 - b. der Hälfte des Monatslohns nach zehn und nach 15 Anstellungsjahren;
 - c. einem Monatslohn nach jeweils fünf weiteren Anstellungsjahren.[^73-3]
 
@@ -1921,7 +1931,7 @@ Die Treueprämie besteht aus:
 
 Zur Erleichterung der Arbeitsbedingungen oder der persönlichen Arbeitsorganisation kann der Arbeitgeber Einrichtungen zu Gunsten des Personals unterstützen, so insbesondere:
 
-- a.[^75-2] ...
+- a.[^75-2] …
 - b. den Betrieb von Personalrestaurants, Erfrischungsräumen und weiteren der Erholung des Personals dienenden Einrichtungen;
 - c. die Beschaffung von Wohnraum.
 
@@ -2001,13 +2011,15 @@ Die angestellte Person reicht ein schriftliches Gesuch um Ausrichtung einer Verg
 - a. Beschäftigungsgrad der Personen nach Artikel 75*b* Buchstabe a;
 - b. Art der Kinderbetreuung nach Artikel 75*b* Buchstabe c;
 - c. Bruttoeinkommen nach Artikel 75*b* Buchstabe d;
-- d. Fremdbetreuungsquote.
+- d. Fremdbetreuungsquote;
+- e.[^75d-2] effektive Kosten der familienergänzenden Kinderbetreuung.
 
 <sup>2</sup> Die zuständige Stelle führt jährlich bei mindestens 10 Prozent der bewilligten Gesuche Stichproben durch. Sie überprüft dabei die Richtigkeit der Angaben des Gesuchs und kann zusätzliche Angaben verlangen.
 
 <sup>3</sup> Die angestellte Person muss zu Unrecht erhaltene Vergütungen zurückzahlen. Hat sie Vergütungen durch vorsätzlich gemachte unrichtige Angaben wiederholt erschlichen, so kann ihr der Anspruch auf Vergütung von Kosten der familienergänzenden Kinderbetreuung befristet oder unbefristet entzogen werden.
 
 [^75d-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Aug. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+[^75d-2]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 
 #### Art. 76
 
@@ -2068,7 +2080,7 @@ Entschädigungen nach Artikel 19 Absatz 4 BPG können bei Auflösung des Arbeits
 - g. den persönlichen Mitarbeitern und Mitarbeiterinnen der Departementschefs und Departementschefinnen;
 - h. in Einzelfällen weiteren höheren Kaderangehörigen;
 - i. den Angestellten, mit denen eine Anstellungsbedingung nach Artikel 26 Absatz 6 vereinbart wurde;
-- j.[^78-6] ...
+- j.[^78-6] …
 - k. dem Personal der DEZA.
 
 <sup>2bis</sup> Die Entschädigungen nach den Absätzen 1 und 2 können auch bei Beendigung des Arbeitsverhältnisses im gegenseitigen Einvernehmen ausgerichtet werden.[^78-7]
@@ -2125,7 +2137,7 @@ Keine Entschädigung wird an Personen ausgerichtet:
 
 <sup>6</sup> Die Entschädigung für Angestellte, die eine vorzeitige Pensionierung gemäss Artikel 105*a* abgelehnt haben, darf die Höhe der gesamten Kosten der angebotenen Leistungen nach Artikel 105*b* nicht übersteigen.[^79-8]
 
-<sup>7</sup> ...[^79-9]
+<sup>7</sup> …[^79-9]
 
 [^79-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)).
 [^79-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
@@ -2194,7 +2206,7 @@ Als Minderkosten werden berücksichtigt:
 
 <sup>2</sup> Dem positiven oder negativen Kaufkraftausgleich unterliegen ganz oder teilweise der Lohn, die ergänzenden Leistungen zur Familienzulage nach Artikel 51*a*, die Pauschalen für Öffentlichkeitsarbeit und die Vergütungen von Auslagen am Arbeitsort.[^83-1]
 
-<sup>3</sup> ...[^83-2]
+<sup>3</sup> …[^83-2]
 
 [^83-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^83-2]: Eingefügt durch Anhang Ziff. 2 der Familienzulagenverordnung vom 31. Okt. 2007, ([AS 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)). Aufgehoben durch Ziff. I der V vom 6. März 2009, mit Wirkung seit 1. Jan. 2009 ([AS 2009 1137](https://fedlex.data.admin.ch/eli/oc/2009/184)).
@@ -2289,9 +2301,9 @@ Als internationale Organisationen im Sinne dieser Bestimmung gelten:
 
 <sup>2</sup> Wird einer angestellten Person nach Artikel 52*a* keine Teuerungszulage ausgerichtet oder wird ihr Lohn nach Artikel 56 Absatz 2 herabgesetzt, so bleibt der bisherige versicherbare Lohn bis zu dem Zeitpunkt unverändert, in dem die Teuerungszulage wieder ausgerichtet wird oder der Lohnanspruch bei Krankheit oder Unfall erlischt.[^88a-2]
 
-<sup>3</sup> ...[^88a-3]
+<sup>3</sup> …[^88a-3]
 
-<sup>4</sup> ...[^88a-4]
+<sup>4</sup> …[^88a-4]
 
 [^88a-1]: Fassung gemäss Ziff. II 3 der V über Änderungen des Bundesrechts infolge des Primatwechsels bei PUBLICA vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
 [^88a-2]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
@@ -2407,7 +2419,7 @@ Tätigkeiten mit einer andauernd hohen physischen oder psychischen Belastung nac
 [^88f-6]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Juli 2018 ([AS 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
 [^88f-7]: Fassung gemäss Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 
-### 3. Abschnitt: ...
+### 3. Abschnitt: …
 
 #### Art. 88g–88j
 
@@ -2415,7 +2427,7 @@ Tätigkeiten mit einer andauernd hohen physischen oder psychischen Belastung nac
 
 [^88g88j-1]: Aufgehoben durch Art. 7 der V vom 20. Febr. 2013 über die Pensionierung von Angehörigen der besonderen Personalkategorien, mit Wirkung seit 1. Juli 2013 ([AS 2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)). Siehe jedoch die UeB in Art. 8 dieser V.
 
-### 4. Abschnitt: ...
+### 4. Abschnitt: …
 
 #### Art. 88k
 
@@ -2720,7 +2732,7 @@ Die Ausübung des Streikrechts ist denjenigen Angehörigen der folgenden Persona
 Gegen Angestellte, die ihre arbeitsrechtlichen Pflichten fahrlässig verletzen, können folgende Disziplinarmassnahmen ergriffen werden:
 
 - a. Verwarnung;
-- b.[^99-1] ...
+- b.[^99-1] …
 - c. Änderung des Aufgabenkreises.
 
 <sup>3</sup>
@@ -2973,7 +2985,7 @@ Der Arbeitgeber kann aus triftigen Gründen zusätzlich zur vorzeitigen Teil- od
 - a. eine Beteiligung an den Kosten für die Weiterführung der Vorsorge nach Artikel 88*d*<sup>bis</sup> Absatz 3;
 - b. eine Beteiligung am Einkauf zur Erhöhung der Altersrente nach Artikel 32*a* VRAB[^105b-2];
 - c.[^105b-3] vollständige oder teilweise Übernahme der auf das Renteneinkommen entfallenden Beiträge nach Artikel 28 der Verordnung vom 31. Oktober 1947[^105b-4] über die Alters- und Hinterlassenenversicherung, längstens aber bis zum Erreichen der Altersgrenze nach Artikel 21 AHVG[^105b-5];
-- d.[^105b-6] ...
+- d.[^105b-6] …
 
 [^105b-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2016, in Kraft seit 1. Dez. 2016 ([AS 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
 [^105b-2]: [SR 172.220.141.1](https://fedlex.data.admin.ch/eli/cc/2012/190)
@@ -3039,7 +3051,7 @@ Der Arbeitgeber kann der angestellten Person, die das 60. Altersjahr vollendet h
 
 Betriebliche oder personalpolitische Gründe bestehen namentlich dann, wenn:
 
-- a.[^106-4] ...
+- a.[^106-4] …
 - b. beabsichtigt wird, die Stelle aufzuheben;
 - c. eine nachhaltige Nachfolgeregelung umgesetzt werden soll;
 - d. die Einführung in eine neue Technik, Organisation oder einen neuen Prozess aus sachlichen und persönlichen Gründen als nicht mehr wirtschaftlich erscheint.
@@ -3090,7 +3102,7 @@ Betriebliche oder personalpolitische Gründe bestehen namentlich dann, wenn:
 
 <sup>3</sup> Die Begleitung bezieht sich grundsätzlich auf überindividuelle Daten zu allen Funktionen und Lohnklassen. Als überindividuelle Daten gelten anonymisierte, verallgemeinerte Aussagen über die Anwendung der Bestimmungen bezüglich Mitarbeitergespräch, Personalbeurteilung und Entlöhnung.
 
-<sup>4</sup> ...[^108-1]
+<sup>4</sup> …[^108-1]
 
 <sup>5</sup> Zur Behandlung von Einzelfällen kann der Begleitausschuss einen paritätisch zusammengesetzten Ausschuss einsetzen. Diesem können auch Personen angehören, die nicht Mitglied des Begleitausschusses sind. Der paritätische Ausschuss gibt seine Empfehlungen zu Handen des Begleitausschusses ab.
 
@@ -3142,7 +3154,7 @@ Die Personalkommissionen begutachten zuhanden der Geschäftsleitungen:
 
 #### Art. 113
 
-**...[^113-1]**
+**…[^113-1]**
 
 ### (Art. 34 BPG)
 
@@ -3186,7 +3198,7 @@ Das EDA kann im Einvernehmen mit dem EFD abweichende Bestimmungen für das der V
 - [tab] o<sup>ter</sup>.[^114-5] Artikel 75*b*: Anspruch auf Vergütung von Kosten der familienergänzenden Kinderbetreuung;
 - p.[^114-6] Artikel 78 Absatz 2 Buchstabe k: Ausrichtung von Entschädigungen an Personal der DEZA;
 - q.[^114-7] Artikel 78 Absatz 2<sup>bis</sup>: Entschädigungen an Personal der DEZA bei Beendigung des Arbeitsverhältnisses im gegenseitigen Einvernehmen;
-- [tab] r. und s.[^114-8] ...
+- [tab] r. und s.[^114-8] …
 
 <sup>3</sup> Bei der Festlegung der Abgeltungen und sonstiger Massnahmen zugunsten des Personals nach den Artikeln 63 und 81–88 wird der persönlichen Situation des entsandten Personals Rechnung getragen. In den Ausführungsbestimmungen bestimmt das EDA im Einvernehmen mit dem EFD, inwieweit über die Familienangehörigen hinaus weitere Begleitpersonen zu berücksichtigen sind, und ordnet die Einzelheiten.
 
@@ -3323,7 +3335,7 @@ Bei Beginn des Vorruhestandsurlaubs nach Artikel 34 erhalten folgende Personen a
 
 <sup>2</sup> Bei Aus- und Wiedereintritten der angestellten Person bei Verwaltungseinheiten nach Artikel 1 nach dem Inkrafttreten der Änderung vom 1. Mai 2013 werden die bisherigen Anstellungsjahre für die Berechnung der Treueprämie nicht mehr angerechnet.
 
-<sup>3</sup> und <sup>4</sup> ...[^116e-2]
+<sup>3</sup> und <sup>4</sup> …[^116e-2]
 
 [^116e-1]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^116e-2]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
@@ -3382,13 +3394,21 @@ Angestellte in den Lohnklassen 31 und höher, deren Stelle beim Inkrafttreten de
 
 [^116j-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 
+#### Art. 116k
+
+**Übergangsbestimmung zur Änderung vom 12. Mai 2021**[^116k-1]
+
+Der Lohn von Angestellten, deren Funktion aus Gründen, die nicht bei ihnen liegen, tiefer bewertet oder denen eine tiefer bewertete Funktion zugewiesen wird und die beim Inkrafttreten der Änderung vom 12. Mai 2021 das 55. Altersjahr vollendet haben, wird nicht an die neue Lohnklasse angepasst.
+
+[^116k-1]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+
 #### Art. 117
 
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
-Anhang 1[^t-1]
+Anhang 1*[^t-1]*
 
 (Art. 88*f* Abs. 5)
 
@@ -3404,7 +3424,7 @@ Anhang 1[^t-1]
 <tr><td>64</td><td>75 %</td><td>70 %</td><td>55 %</td><td>50 %</td></tr>
 </table>
 
-Anhang 2[^t-2]
+Anhang 2*[^t-2]*
 
 (Art. 88*a* Abs. 1)
 
@@ -3417,7 +3437,7 @@ Anhang 2[^t-2]
 - c. der Ortszuschlag nach den Artikeln 43 und 114 Absatz 2 Buchstabe d;
 - d. der Teuerungsausgleich nach den Artikeln 44 Absatz 2 Buchstaben a, b, e–g und 114 Absatz 2 Buchstabe e;
 - e. die Funktionszulagen nach den Artikeln 46 und 114 Absatz 2 Buchstabe f und nach Artikel 17 PVFMH;
-- f. ...
+- f. …
 - g. Sonderzulagen nach den Artikeln 48 und 115 Buchstabe e;
 - h. Leistungsprämien nach Artikel 49;
 - i. Arbeitsmarktzulagen nach Artikel 50;
@@ -3427,7 +3447,7 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]: [SR 172.220.111.9](https://fedlex.data.admin.ch/eli/cc/2005/764)
 
-Anhang 3[^t-3]
+Anhang 3*[^t-3]*
 
 (Art. 79 Abs. 1<sup>bis</sup>)
 

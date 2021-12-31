@@ -4,11 +4,11 @@ title: Ordinanza del 3 luglio 2001 sul personale federale (OPers)
 short: OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: it
-version: 2021-08-01
+version: 2022-01-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2001-319-20210801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2001-319-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210801/it"
 
 (OPers)
 
-del 3 luglio 2001 (Stato 1° agosto 2021)
+del 3 luglio 2001 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -752,13 +752,15 @@ Per le seguenti categorie di personale il periodo di prova può essere fissato p
 - c. ispettori fiscali dell’Amministrazione federale delle contribuzioni;
 - d. persone nominate dal Consiglio federale secondo l’articolo 2 capoverso 1;
 - e. collaboratori del Servizio delle attività informative della Confederazione aventi regolarmente accesso a informazioni sensibili;
-- f.[^27-3] periti revisori ed esperti in valutazioni del Controllo federale delle finanze.
+- f.[^27-3] periti revisori ed esperti in valutazioni del Controllo federale delle finanze;
+- g.[^27-4] impiegati del DFAE soggetti all’obbligo di trasferimento o che sono impiegati all’estero, ad eccezione degli impiegati che sono assunti a tempo determinato per la durata di una formazione.
 
 <sup>3</sup> Di comune intesa le parti possono rinunciare al periodo di prova o concordarne uno più breve.
 
 [^27-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^27-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
 [^27-3]: Introdotta dal n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+[^27-4]: Introdotta dal n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 
 #### Art. 28
 
@@ -1304,7 +1306,7 @@ L’importo delle prestazioni integrative corrisponde alla differenza tra l’im
 
 <sup>7</sup> ...[^52-4]
 
-<sup>7bis</sup> Se i presupposti per l’assegnazione a una classe superiore secondo il capoverso 6 non sono più dati, la classe di stipendio e lo stipendio sono adeguati nel contratto di lavoro. L’articolo 52*a* non è applicabile.[^52-5]
+<sup>7bis</sup> Se viene a mancare il presupposto per l’assegnazione a una classe superiore secondo il capoverso 6, l’autorità competente di cui all’articolo 2 adegua la classe di stipendio e lo stipendio nel contratto di lavoro. L’articolo 52*a* non è applicabile.[^52-5]
 
 <sup>8</sup> Per il personale che segue una formazione o è assunto a condizioni particolari, il DFF può stabilire uno stipendio massimo inferiore all’importo massimo della classe di stipendio 1.[^52-6]
 
@@ -1312,26 +1314,25 @@ L’importo delle prestazioni integrative corrisponde alla differenza tra l’im
 [^52-2]: Nuovo testo giusta il n. I dell’O del 24 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
 [^52-3]: Nuovo testo giusta n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 [^52-4]: Abrogato dal n. I dell’O del 22 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)).
-[^52-5]: Introdotto dal n. I 1 dell’O del 5 nov. 2008 2008 concernente l’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^52-5]: Introdotto dal n. I 1 dell’O del 5 nov. 2008 2008 concernente l’ottimizzazione del sistema salariale del personale federale ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)). Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 [^52-6]: Introdotto dal n. I 1 dell’O del 5 nov. 2008 2008 concernente l’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
 
 #### Art. 52a
 
 **Inquadramento della funzione in una classe inferiore di stipendio**[^52a-1]
 
-<sup>1</sup> Se per motivi non riconducibili all’impiegato una funzione viene inquadrata in una classe inferiore di stipendio o se a un impiegato viene assegnata una funzione inquadrata in una classe inferiore di stipendio, la classe di stipendio è adeguata nel contratto di lavoro. Se supera l’importo massimo stabilito per questa nuova classe, lo stipendio rimane invariato per due anni. Durante tale periodo e fintantoché lo stipendio supera l’ammontare giustificato in base alla valutazione della funzione non è versata l’indennità di rincaro e non è accordato alcun aumento secondo l’articolo 39. Lo stipendio è adeguato alla nuova classe al più tardi dopo due anni.[^52a-2]
+<sup>1</sup> Se per motivi non riconducibili all’impiegato una funzione viene inquadrata in una classe inferiore di stipendio o se a un impiegato viene assegnata una funzione inquadrata in una classe inferiore di stipendio, la classe di stipendio è adeguata nel contratto di lavoro. Se supera l’importo massimo stabilito per questa nuova classe, lo stipendio rimane invariato per due anni. Durante tale periodo e fintantoché lo stipendio supera l’ammontare giustificato in base alla valutazione della funzione non è versata l’indennità di rincaro e non è accordato alcun aumento secondo l’articolo 39. Lo stipendio è adeguato alla nuova classe al più tardi dopo due anni.
 
-<sup>1bis</sup> Per gli impiegati di cui all’articolo 26 capoverso 5 il periodo per l’adeguamento dello stipendio alla nuova classe è di quattro anni al massimo.[^52a-3]
+<sup>2</sup>
 
-<sup>2</sup> Se per motivi non riconducibili all’impiegato la funzione di un impiegato che ha compiuto 55 anni viene inquadrata in una classe inferiore di stipendio o se a tale impiegato viene assegnata una funzione inquadrata in una classe inferiore di stipendio, la classe di stipendio è adeguata nel contratto di lavoro. Lo stipendio rimane invariato, ma non è versata l’indennità di rincaro e non è accordato alcun aumento secondo l’articolo 39 fintantoché esso supera l’ammontare giustificato in base alla valutazione della funzione. Questa disposizione non si applica agli impiegati di cui all’articolo 26 capoverso 5.[^52a-4]
+In deroga al capoverso 1, il periodo per l’adeguamento dello stipendio alla nuova classe è di:
 
-<sup>3</sup> Il Consiglio federale può adeguare, dopo due anni, lo stipendio di un impiegato che al momento della nuova valutazione della sua funzione o dell’assegnazione di una nuova funzione aveva 55 anni compiuti e la cui funzione era inquadrata nella classe di stipendio 32 o in una classe superiore se l’ammontare massimo della nuova classe è inferiore di oltre il 10 per cento a quello della classe precedente.[^52a-5]
+- a. cinque anni al massimo per gli impiegati che hanno compiuto il 55° anno d’età;
+- b. quattro anni al massimo per gli impiegati di cui all’articolo 26 capoverso 5.
 
-[^52a-1]: Introdotto dal n. I dell’O del 22 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)).
-[^52a-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^52a-3]: Introdotto dal n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^52a-4]: Nuovo testo giusta il n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^52a-5]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+<sup>3</sup> Il Consiglio federale può adeguare, dopo due anni, lo stipendio di un impiegato che al momento della nuova valutazione della sua funzione o dell’assegnazione di una nuova funzione aveva compiuto il 55° anno d’età e la cui funzione era inquadrata nella classe di stipendio 32 o in una classe superiore se l’ammontare massimo della nuova classe è inferiore di oltre il 10 per cento a quello della classe precedente.
+
+[^52a-1]: Introdotto dal n. I dell’O del 22 dic. 2004 ([RU 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)). Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2022 ([RU 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 
 #### Art. 52b
 
@@ -1489,20 +1490,26 @@ In caso di malattia o infortunio durante i viaggi di servizio all’estero, il d
 
 #### Art. 60
 
-**Continuazione del pagamento dello stipendio in caso di maternità**[^60-1]
+**Congedo di maternità**[^60-1]
 
 ### (art. 29 cpv. 1 LPers)
 
-<sup>1</sup> In caso di interruzione del lavoro dovuta a maternità, lo stipendio integrale e gli assegni sociali sono versati all’impiegata durante quattro mesi.
+[^60-2]
 
-<sup>2</sup> Se lo desidera, l’impiegata può sospendere il lavoro al massimo due settimane prima della data prevista per il parto.
+<sup>1</sup> Alla nascita di uno o più figli, l’impiegata ha diritto a un congedo di maternità pagato di quattro mesi. Se un neonato deve rimanere in ospedale per un periodo ininterrotto di almeno due settimane immediatamente dopo la nascita, tale congedo viene prolungato della durata dell’ospedalizzazione, ma ammonta al massimo complessivamente a 154 giorni.[^60-3]
 
-<sup>3</sup> Se il diritto allo stipendio di cui al capoverso 1 prende fine prima che abbia preso fine il diritto all’indennità di maternità conformemente alla legge federale del 25 settembre 1952[^60-2] sulle indennità di perdita di guadagno poiché il versamento di tale indennità è stato differito, durante il periodo compreso tra la fine del diritto allo stipendio e la fine del diritto all’indennità è versata all’impiegata soltanto l’indennità di maternità.
+<sup>2</sup> L’impiegata può iniziare il congedo di maternità al massimo due settimane prima della data prevista per la nascita.[^60-4]
+
+<sup>3</sup> Durante i primi quattro mesi del congedo di maternità, all’impiegata vengono versati l’intero stipendio e gli assegni sociali. Se il congedo viene prolungato a causa dell’ospedalizzazione del neonato, durante la proroga all’impiegata è versata soltanto l’indennità di maternità conformemente alle legge del 25 settembre 1952[^60-5] sulle indennità di perdita di guadagno.[^60-6]
 
 <sup>4</sup> Sono fatti salvi i disciplinamenti cantonali.
 
 [^60-1]: Nuovo testo giusta il n. I 2 dell’O del 10 giu. 2005 concernente l’introduzione dell’indennità di maternità nella legislazione sul personale federale, in vigore dal 1° lug. 2005 ([RU 2005 2479](https://fedlex.data.admin.ch/eli/oc/2005/423)).
-[^60-2]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^60-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
+[^60-3]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
+[^60-4]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
+[^60-5]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^60-6]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 
 #### Art. 60a
 
@@ -1526,9 +1533,15 @@ In caso di malattia o infortunio durante i viaggi di servizio all’estero, il d
 
 #### Art. 60b
 
-[^60b-1]
+**Congedo di paternità e congedo del partner registrato**[^60b-1]
 
-[^60b-1]: In vigore dal 1° gen. 2022 ([RU 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+### (art. 17*a* LPers)
+
+<sup>1</sup> Alla nascita di uno o più figli propri il padre legale ha diritto a un congedo pagato di venti giorni lavorativi. Il congedo deve essere fruito nei primi sei mesi dopo la nascita. Può essere fruito in giorni o in blocco.
+
+<sup>2</sup> Nelle unioni domestiche registrate, alla nascita di uno o più figli del partner l’altro partner ha ugualmente diritto a un congedo pagato di venti giorni.
+
+[^60b-1]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2022 ([RU 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 
 #### Art. 60c
 
@@ -1997,13 +2010,15 @@ L’impiegato presenta una domanda scritta di rimborso dei costi per la custodia
 - a. il tasso di occupazione delle persone di cui all’articolo 75*b* lettera a;
 - b. il tipo di custodia secondo l’articolo 75*b* lettera c;
 - c. il reddito lordo di cui all’articolo 75*b* lettera d;
-- d. la quota della custodia da parte di terzi.
+- d. la quota della custodia da parte di terzi;
+- e.[^75d-2] i costi effettivi per la custodia di bambini complementare alla famiglia.
 
 <sup>2</sup> L’autorità competente effettua ogni annuo controlli a campione su almeno il 10 per cento delle domande approvate. Verifica la correttezza delle indicazioni contenute nella domanda e può esigere ulteriori informazioni.
 
 <sup>3</sup> L’impiegato deve restituire le indennità percepite indebitamente. Se ha ottenuto più volte l’indennità in modo fraudolento fornendo intenzionalmente indicazioni inesatte, il diritto al rimborso dei costi per la custodia di bambini complementare alla famiglia può essergli negato per un periodo determinato o indeterminato.
 
 [^75d-1]: Introdotto dal n. I dell‘O del 18 nov. 2020, in vigore dal 1° ago. 2021 ([RU 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+[^75d-2]: Introdotta dal n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 
 #### Art. 76
 
@@ -2266,7 +2281,7 @@ Per organizzazioni internazionali ai sensi della presente disposizione si intend
 [^88-4]: Introdotto dall’all. n. 4 dell’O del 7 dic. 2007 sullo Stato ospite ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)). Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^88-5]: Introdotto dal n. I dell’O del 20 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
 
-## Capitolo 4*a*: Previdenza professionale
+## Capitolo 4*a*:**** Previdenza professionale
 
 [^chap4a-1]
 
@@ -3374,6 +3389,14 @@ La partecipazione del datore di lavoro al finanziamento della rendita transitori
 Gli impiegati delle classi di stipendio 31 e oltre, il cui posto al momento dell’entrata in vigore della modifica del 18 novembre 2020 è già assegnato a una classe superiore a quella prevista dalla valutazione ordinaria secondo l’articolo 52 capoverso 6, restano nella classe superiore fino a quando il loro posto non è assegnato dall’autorità competente secondo l’articolo 2 a una classe inferiore.
 
 [^116j-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+
+#### Art. 116k
+
+**Disposizione transitoria della modifica del 12 maggio 2021**[^116k-1]
+
+Lo stipendio di impiegati che all’entrata in vigore della modifica del 12 maggio 2021 hanno compiuto il 55° anno d’età, la cui funzione viene inquadrata in una classe inferiore di stipendio o ai quali è assegnata una funzione inquadrata in una classe inferiore di stipendio per motivi ad essi non riconducibili, non viene adeguato alla nuova classe di stipendio.
+
+[^116k-1]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2022 ([RU 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 
 #### Art. 117
 
