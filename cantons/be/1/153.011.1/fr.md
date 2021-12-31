@@ -4,13 +4,13 @@ number: "153.011.1"
 title: Ordonnance sur le personnel
 short: OPers
 language: fr
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2021-06-30
+version: 2022-01-01
+valid_until: 2022-04-30
+version_adopted: 2021-11-24
 adopted: 2005-05-18
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/153.011.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2334/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2521/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2334/pdf_file"
 
 (OPers)
 
-du 18.05.2005 (état au 01.08.2021)
+du 18.05.2005 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -1542,7 +1542,7 @@ arrête:
 - e collaborateurs et collaboratrices de la surveillance de la chasse,
 - f personnel d’encadrement ainsi que collaborateurs et collaboratrices des institutions pédagogiques et socio-pédagogiques cantonales.
 
-<sup>2</sup> Les collaborateurs et collaboratrices ayant le statut de policier qui sont affectés aux classes de traitement 1 à 18 reçoivent un bonus-temps de 16 pour-cent pour les interventions effectuées entre 20 h et 6 h.
+<sup>2</sup> Les collaborateurs et collaboratrices ayant le statut de policier qui sont affectés aux classes de traitement 1 à 18 reçoivent un bonus-temps de 16 pour cent pour les interventions effectuées entre 20 h et 6 h.
 
 <sup>3</sup> Il est interdit d’indemniser le bonus-temps en argent liquide.
 

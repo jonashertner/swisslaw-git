@@ -4,13 +4,13 @@ number: "153.011.1"
 title: Personalverordnung
 short: PV
 language: de
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2021-06-30
+version: 2022-01-01
+valid_until: 2022-04-30
+version_adopted: 2021-11-24
 adopted: 2005-05-18
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/153.011.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2334/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2521/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2334/pdf_file"
 
 (PV)
 
-vom 18.05.2005 (Stand 01.08.2021)
+vom 18.05.2005 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
