@@ -4,23 +4,21 @@ number: "726.91"
 title: ACCORD INTERCANTONAL du 25.11.1994 sur les marchés publics (A-IMP)
 short: A-IMP
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/726.91?id=69d771fb-e158-4700-b3ad-5473adf760dc"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
-# ACCORD intercantonal sur les marchés publics
+# ACCORD INTERCANTONAL sur les marchés publics
 
-(A-IMP)[^t-1]
+(A-IMP)
 
 du 25 novembre 1994
 
 Par décret du 24.06.1996 (R 1996, p. 185) le Grand Conseil a autorisé le Conseil d'Etat à adhérer au présent accord, lequel y a adhéré par arrêté du 05.11.1997 (R 1997, p. 622).
 
 décrète
-
-[^t-1]: RS 172.056.4 ; ROLF 1956, p.1488. L'article 8 du décret d'adhésion du canton du 24.06.1996 précise an outre : Le Conseil d'Etat décide de soumettre les communes vaudoises à l'accord intercantonal sur les marchés publics à partir des valeurs-seuil dudit accord pour les marchés auxquels l'Etat participe financièrement et pour autant que la réciprocité soit assurée par l'autre canton.
 
 ## Section I Dispositions générales
 
@@ -361,6 +359,6 @@ Annexes [^22-1]
 
 1
 
-[Valeurs seuils AIMP 2020-2021](https://prestations.vd.ch/pub/blv-publication/api/actes/69d771fb-e158-4700-b3ad-5473adf760dc/annexes/1?dmev=01.01.2020)
+[Valeurs seuils AIMP 2022-2023](https://prestations.vd.ch/pub/blv-publication/api/actes/69d771fb-e158-4700-b3ad-5473adf760dc/annexes/1?dmev=01.01.2022)
 
 [^22-1]: Modif. 1 du 15.03.2001: Introduction Ann; entrée en vigueur au 01.09.2004 · Modif. 2 du 21.11.2011: Modification Ann; entrée en vigueur au 01.01.2012 · Modif. 3 du 20.12.2013: Modification Ann; entrée en vigueur au 01.01.2014 · Modif. 4 du 05.12.2015: Modification Ann; entrée en vigueur au 01.01.2016 · Modif. 5 du 11.12.2017: Modification Ann; entrée en vigueur au 01.01.2018 · Modif. 6 du 11.12.2019: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2020 · Modif. 7 du 20.12.2021: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2022
