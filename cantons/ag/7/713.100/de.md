@@ -4,13 +4,13 @@ number: "713.100"
 title: Gesetz über Raumentwicklung und Bauwesen
 short: "Baugesetz, BauG"
 language: de
-version: 2020-07-01
-valid_until: 2021-12-31
-version_adopted: 2016-09-20
+version: 2022-01-01
+valid_until: 2024-06-30
+version_adopted: 2021-06-15
 adopted: 1993-01-19
 in_force: 1994-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/713.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2851/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3107/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2851/pdf_file"
 
 (Baugesetz, BauG)[^t-1]
 
-Vom 19.01.1993 (Stand 01.07.2020)
+Vom 19.01.1993 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -150,7 +150,10 @@ beschliesst:
 
 <sup>1</sup> Der Grosse Rat kann kantonale Nutzungspläne erlassen, soweit kantonale oder regionale Interessen es erfordern, namentlich zum Schutz von Landschaften, Gewässern, Baudenkmälern und archäologischen Hinterlassenschaften, Gebäuden oder Anlagen, zur längerfristigen Festlegung von Abbaugebieten für Rohmaterialien wie Kies oder Kalkstein sowie zur Erstellung von öffentlichen Werken wie für den Verkehr, die Ver- und Entsorgung.
 
-<sup>2</sup> Der Regierungsrat ist befugt, einen kantonalen Nutzungsplan aufzuheben, wenn die darin verfolgten kantonalen oder regionalen Interessen in der kommunalen Nutzungsplanung umgesetzt worden sind.
+<sup>2</sup> Der Regierungsrat ist befugt,
+
+- a) Änderungen von geringfügiger sachlicher und räumlicher Bedeutung an einem kantonalen Nutzungsplan vorzunehmen, wenn die öffentlichen Interessen, denen der Nutzungsplan dient, unvermindert gewahrt bleiben und die betroffene Gemeinde zustimmt,
+- b) einen kantonalen Nutzungsplan aufzuheben, wenn die darin verfolgten kantonalen und regionalen Interessen in der kommunalen Nutzungsplanung umgesetzt worden sind oder auf das darin vorgesehene Vorhaben endgültig verzichtet worden ist.
 
 <sup>3</sup> Das zuständige Departement erstellt die Entwürfe zu den kantonalen Nutzungsplänen in Zusammenarbeit mit den betroffenen Anstalten, Regionalplanungsverbänden und Gemeinden.
 
@@ -1112,14 +1115,15 @@ beschliesst:
 
 <sup>1</sup> Öffentliche Strassen sind alle dem Gemeingebrauch offen stehenden Strassen, Wege und Plätze mit ihren Bestandteilen. Als öffentliche Strassen gelten auch die im Eigentum Privater oder von Korporationen stehenden Strassen, die mit Zustimmung der Eigentümer oder durch Enteignung dem Gemeingebrauch zugänglich gemacht worden sind.
 
-<sup>2</sup> Bestandteile der öffentlichen Strassen sind alle Bauten, Anlagen und Vorrichtungen, die zu ihrer technisch zweckmässigen und umweltschonenden Ausgestaltung dienen. Dazu gehören auch
+<sup>2</sup> Bestandteile der öffentlichen Strassen sind alle Bauten, Anlagen und Vorrichtungen, die der technisch und verkehrlich zweckmässigen, umweltschonenden Ausgestaltung dienen. Dazu gehören auch
 
-- a) die für den Schutz der Fussgänger und Radfahrer notwendigen Anlagen;
-- b) die für den Unterhalt erforderlichen Bauten und Anlagen wie Werkhöfe oder Silos;
-- c) Verkehrsregelungsanlagen;
+- a) die für die Verkehrssicherheit und den Schutz der Fussgänger und Radfahrer notwendigen Anlagen;
+- b) die für den Unterhalt und den Betrieb erforderlichen Bauten und Anlagen wie Werkhöfe oder Silos;
+- c) Verkehrsregelungsanlagen sowie Fahrzeugrückhaltesysteme (Leitplanken);
 - d) Anlagen zur Entflechtung von privaten und öffentlichen Strassenverkehrsmitteln sowie Bushaltestellen;
 - e) öffentliche Anlagen für den Lärmschutz;
-- f) Anlagen für die Einpassung in die Landschaft und für die städtebauliche Gestaltung des Strassenraumes.
+- f) Anlagen für die Einpassung in die Landschaft und für die städtebauliche Gestaltung des Strassenraumes;
+- g) Anlagen auf dem Strassenareal, die für die Querung von Wildtieren in Wildtierkorridoren erforderlich sind.
 
 #### § 81
 
@@ -1141,9 +1145,9 @@ beschliesst:
 
 <sup>1</sup> Kantonsstrassen dienen der Verbindung von Kantonsteilen untereinander, mit anderen Kantonen und mit dem Ausland.
 
-<sup>2</sup> Das Kantonsstrassennetz und seine Einteilung werden vom Grossen Rat festgelegt. Das Gebiet von Gemeindestrassen, die zu Kantonsstrassen erklärt werden, ist dem Kanton, dasjenige von aufgehobenen Kantonsstrassen den Gemeinden in der Regel unentgeltlich abzutreten.
+<sup>2</sup> …
 
-<sup>3</sup> Diejenigen Abschnitte von Kantonsstrassen, entlang denen das anstossende Land wenigstens zur Hälfte überbaut ist, gelten als Innerortsstrecken. Der Regierungsrat nimmt nach Anhören des Gemeinderates die Abgrenzung der Innerortsstrecken vor. Strassenzüge mit Beschränkung des Zutrittes oder der Anschlüsse können vom Regierungsrat auch innerhalb der Bauzonen zu Ausserortsstrecken erklärt werden.
+<sup>3</sup> …
 
 #### § 84
 
@@ -1155,9 +1159,7 @@ beschliesst:
 
 #### § 85
 
-**Radrouten und Wanderwege**
-
-<sup>1</sup> Der Grosse Rat legt das kantonale Radrouten- und Wanderwegnetz fest. Das Radroutennetz von kantonaler Bedeutung wird im kantonalen Richtplan festgelegt.
+**…**
 
 ### 6.2. Zuständigkeiten und Finanzierung
 
@@ -1167,8 +1169,8 @@ beschliesst:
 
 <sup>1</sup> Die Zuständigkeit für den Bau liegt
 
-- a) beim Kanton für Kantonsstrassen, kantonale Radrouten und Wanderwege;
-- b) bei den Gemeinden für Gemeindestrassen, für Radwege, soweit diese nicht Bestandteil des kantonalen Radroutennetzes sind, und für Fusswege.
+- a) beim Kanton für Kantonsstrassen, kantonale Velorouten und Wanderwege;
+- b) bei den Gemeinden für Gemeindestrassen, für Radwege, soweit diese nicht Bestandteil des kantonalen Veloroutennetzes sind, und für Fusswege.
 
 <sup>2</sup> Für Privatstrassen gelten die Vorschriften über die Erschliessung.
 
@@ -1176,33 +1178,27 @@ beschliesst:
 
 **Finanzierung**
 
-<sup>1</sup> Ein besonderes Gesetz regelt die Beschlussfassung über Bau, Erneuerung und Änderung von Kantonsstrassen, die Finanzierung sowie die Kostenverteilung zwischen Kanton und Gemeinden.
+<sup>1</sup> …
 
-<sup>2</sup> Die Gemeinden tragen die Kosten des Baues, der Erneuerung und der Änderung ihrer Strassen. Wenn eine Gemeindestrasse Bestandteile von Kantonsstrassen ersetzt, leistet der Kanton Beiträge, über die im Streitfall der Grosse Rat entscheidet.
+<sup>2</sup> Die Gemeinden tragen die Kosten des Baues, der Erneuerung und der Änderung ihrer Strassen.
 
-<sup>3</sup> Der Kanton finanziert Bau, Erneuerung und Änderung von Wanderwegen, wenn sie nicht Bestandteil von Gemeindestrassen oder von dem Gemeingebrauch zugänglichen Privatstrassen sind.
+<sup>3</sup> …
 
 <sup>4</sup> Die Kosten des Baues, der Erneuerung und der Änderung von Privatstrassen tragen die Eigentümer. Kanton und Gemeinden leisten nach Massgabe des öffentlichen Interesses Beiträge an Bau, Erneuerung und Änderung von dem Gemeingebrauch zugänglichen Privatstrassen.
 
 #### § 87a
 
-**Versorgungsrouten**
-
-<sup>1</sup> Der Regierungsrat bezeichnet die Strassen, die als Versorgungsrouten dienen, und legt ihren Ausbaustandard fest.
-
-<sup>2</sup> Wird eine Strasse in das Netz der Versorgungsrouten aufgenommen, trägt der Kanton die Mehrkosten, die beim Bau oder Ausbau der Strasse entstehen und durch die Eigenschaft als Versorgungsroute bedingt sind.
+**…**
 
 #### § 88
 
-**Beiträge von Grundeigentümern**
-
-<sup>1</sup> Die Grundeigentümer leisten Beiträge nach Massgabe der Vorschriften über die Erschliessungsanlagen.
+**…**
 
 #### § 89
 
 **Beiträge anderer Gemeinden**
 
-<sup>1</sup> Dient eine Gemeindestrasse in erheblichem Masse auch dem Verkehrsbedürfnis einer anderen Gemeinde, so kann diese zur Leistung angemessener Beiträge an Bau, Erneuerung und Änderung herangezogen werden. Massgebend für die Höhe des Beitrages sind die der beitragspflichtigen Gemeinde erwachsenden Vorteile und ihre finanzielle Lage.
+<sup>1</sup> Dient eine Gemeindestrasse in erheblichem Masse auch dem Verkehrsbedürfnis einer anderen Gemeinde, kann diese zur Leistung angemessener Beiträge an Bau, Erneuerung und Änderung herangezogen werden. Massgebend für die Höhe des Beitrags sind die der beitragspflichtigen Gemeinde erwachsenden Vorteile.
 
 <sup>2</sup> Der beitragspflichtigen Gemeinde ist Gelegenheit zu geben, sich vor Baubeginn zum Projekt und zu den Kosten zu äussern. Über Meinungsverschiedenheiten zwischen den Gemeinden entscheidet der Regierungsrat.
 
@@ -1216,9 +1212,7 @@ beschliesst:
 
 #### § 91
 
-**Entwässerung**
-
-<sup>1</sup> Die Gemeinden sind verpflichtet, das von Kantonsstrassen abfliessende Wasser unentgeltlich in ihre Kanalisationen aufzunehmen, soweit es nicht auf andere Art zu beseitigen ist. Müssen deshalb die Kanalisationen vergrössert werden, so gehen die Kosten zu Lasten des Strassenbaues.
+**…**
 
 ### 6.3. Projektierung und Ausführung
 
@@ -1238,17 +1232,13 @@ beschliesst:
 
 **Festsetzung in Nutzungsplänen**
 
-<sup>1</sup> Kantonsstrassen können in kantonalen Nutzungsplänen festgelegt werden. Diese können Bau-, Strassen- und Niveaulinien, deren Wirkung sich nach den Vorschriften über Erschliessungspläne bestimmt, sowie Sichtzonen und seitliche Zutrittsbeschränkungen enthalten.
+<sup>1</sup> …
 
 <sup>2</sup> Für die planerische Festlegung von Gemeindestrassen und dem Gemeingebrauch zugängliche Privatstrassen gelten die Vorschriften über die Sondernutzungsplanung.
 
 #### § 94
 
-**Generelle Projekte**
-
-<sup>1</sup> Das zuständige Departement kann zur Präzisierung der Richtpläne generelle Projekte für den Neu- und Ausbau von Kantonsstrassen ausarbeiten. Das generelle Projekt legt die Linienführung, die Breite und die wichtigsten Bestandteile der Strasse fest. Es dient als Grundlage für die Bewilligung der Baukredite nach den Vorschriften der Strassenbaugesetzgebung.
-
-<sup>2</sup> Das zuständige Departement unterbreitet den Entwurf den vom Projekt betroffenen Gemeinden, gegebenenfalls auch den regionalen Planungsverbänden und weiteren Organisationen zur Stellungnahme. Der Regierungsrat entscheidet über das generelle Projekt.
+**…**
 
 #### § 95
 
@@ -1262,7 +1252,7 @@ beschliesst:
 
 <sup>3</sup> Einwendungen gegen die Bauprojekte sind innerhalb der Auflagefrist einzureichen. Sie sind nur zulässig, wenn sie nicht bereits gegen einen Nutzungsplan hätten erhoben werden können.
 
-<sup>4</sup> Der Regierungsrat entscheidet über die Einwendungen und die bereinigten Bauprojekte für Kantonsstrassen, der Gemeinderat über diejenigen für Gemeindestrassen. Entscheide des Gemeinderats können an den Regierungsrat weitergezogen werden. Gegen die Entscheide des Regierungsrats ist die Beschwerde an das Verwaltungsgericht zulässig.
+<sup>4</sup> Der Regierungsrat entscheidet über die Einwendungen und die bereinigten Strassenbauprojekte des Kantons, der Gemeinderat über diejenigen der Gemeinde. Entscheide des Gemeinderats können an den Regierungsrat weitergezogen werden. Gegen die Entscheide des Regierungsrats ist die Beschwerde an das Verwaltungsgericht zulässig.
 
 #### § 96
 
@@ -1270,15 +1260,17 @@ beschliesst:
 
 <sup>1</sup> Sind für den Bau öffentlicher Strassen weitere Bewilligungen und Zustimmungen kantonaler oder eidgenössischer Behörden erforderlich, so gelten sinngemäss die Bestimmungen über die Koordination bei Baugesuchen.
 
-### 6.4. Unterhalt
+### 6.4. Unterhalt und Betrieb
 
 #### § 97
 
 **Grundsatz**
 
-<sup>1</sup> Die öffentlichen Strassen sind so zu unterhalten, dass die Verkehrssicherheit gewährleistet ist. Der Unterhalt soll möglichst umweltfreundlich und wirtschaftlich sein.
+<sup>1</sup> Die öffentlichen Strassen sind so zu unterhalten und zu betreiben, dass die Verkehrssicherheit gewährleistet ist. Unterhalt und Betrieb sollen möglichst umweltfreundlich und wirtschaftlich sein.
 
-<sup>2</sup> Der Strassenunterhalt umfasst insbesondere die Arbeiten zur Instandhaltung, die Reinigung, die Pflege der Bepflanzung und Grünflächen, den Winterdienst sowie die Öffnung und Wiederherstellung nach ausserordentlichen Ereignissen.
+<sup>2</sup> Der Unterhalt umfasst die baulichen Massnahmen zur Werterhaltung der Strassen.
+
+<sup>3</sup> Der Betrieb umfasst insbesondere Reinigung, Grünpflege, Winterdienst sowie Wiederherstellung nach ausserordentlichen Ereignissen. Dazu gehören auch Beleuchtung, Werkreparaturen, Signalisation und Markierung, soweit diese nicht im Zusammenhang mit Bau oder Unterhalt vorgenommen werden.
 
 #### § 98
 
@@ -1290,15 +1282,15 @@ beschliesst:
 
 #### § 99
 
-**Unterhaltspflicht**
+**Zuständigkeit für Unterhalt und Betrieb**
 
-<sup>1</sup> Der Unterhalt der öffentlichen Strassen obliegt dem Strasseneigentümer.
+<sup>1</sup> Unterhalt und Betrieb der Gemeindestrassen und der dem Gemeingebrauch zugänglichen Privatstrassen obliegen den Strasseneigentümerinnen und -eigentümern.
 
-<sup>2</sup> Die Gemeinden besorgen die Beleuchtung, die Reinigung, die Pflege der Bepflanzung und in Zusammenarbeit mit dem Kanton den Winterdienst an den Innerortsstrecken der Kantonsstrassen. Sie leisten an die übrigen Unterhaltskosten dieser Strecken Beiträge nach Massgabe der Strassenbaugesetzgebung.
+<sup>2</sup> Die Gemeinden besorgen die Beleuchtung an den Innerortsstrecken der Kantonsstrassen.
 
-<sup>3</sup> Der Unterhalt von Wanderwegen, die nicht Bestandteil von Gemeindestrassen oder von dem Gemeingebrauch zugänglichen Privatstrassen sind, ist Sache des Kantons.
+<sup>3</sup> …
 
-<sup>4</sup> Die Gemeinden gewähren nach Massgabe des öffentlichen Interesses Beiträge an den Unterhalt von dem Gemeingebrauch zugänglichen Privatstrassen.
+<sup>4</sup> Die Gemeinden gewähren nach Massgabe des öffentlichen Interesses Beiträge an den Unterhalt und den Betrieb von dem Gemeingebrauch zugänglichen Privatstrassen.
 
 #### § 100
 
