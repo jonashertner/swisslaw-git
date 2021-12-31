@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 2020 sul coordinamento della trasformazione di
 short: OTDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/988"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2020-11-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-988-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-988-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20210101/it"
 
 (Ordinanza sulla trasformazione digitale e l’informatica, OTDI)
 
-del 25 novembre 2020 (Stato 1° gennaio 2021)
+del 25 novembre 2020 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -389,7 +389,8 @@ I dati centralizzati nel sistema GDB provengono dalle fonti seguenti:
   - 4\. elenco ufficiale delle vie,
   - 5\. elenco ufficiale degli indirizzi degli edifici,
   - 6\. sistema d’informazione geografica dell’Ufficio federale dell’agricoltura
-  - 7\. sistema d’informazione centrale sulla migrazione;
+  - 7\. sistema d’informazione centrale sulla migrazione,
+  - 8\.[^27-1] registro centrale degli assicurati AVS;
 
 - d. sistemi d’informazione della Posta svizzera per la verifica degli indirizzi delle persone e delle imprese in Svizzera;
 - e. banche dati accessibili al pubblico.
@@ -397,6 +398,8 @@ I dati centralizzati nel sistema GDB provengono dalle fonti seguenti:
 <sup>2</sup> L’autorità, l’organizzazione o la persona responsabile secondo l’articolo 25 riprende i dati dalla fonte, li registra e li modifica nel sistema GDB dopo aver effettuato le verifiche necessarie.
 
 <sup>3</sup> I dati possono essere ripresi, registrati e modificati mediante un’interfaccia tra il sistema GDB e il sistema fonte interessato.
+
+[^27-1]: Introdotto dall’all. n. II 6 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 28
 

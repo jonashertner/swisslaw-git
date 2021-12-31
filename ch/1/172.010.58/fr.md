@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 2020 sur la coordination de la transformation 
 short: OTNI
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/988"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2020-11-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-988-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-988-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20210101/fr"
 
 (Ordonnance sur la transformation numérique et l’informatique, OTNI)
 
-du 25 novembre 2020 (Etat le 1<sup>er</sup> janvier 2021)
+du 25 novembre 2020 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -389,7 +389,8 @@ Les données centralisées dans le GDR proviennent des sources suivantes:
   - 4\. répertoire officiel des rues,
   - 5\. répertoire officiel des adresses de bâtiments,
   - 6\. système d’information géographique de l’Office fédéral de l’agriculture,
-  - 7\. système d’information central sur la migration;
+  - 7\. système d’information central sur la migration,
+  - 8\.[^27-1] registre central des assurés AVS;
 
 - d. systèmes d’information de La Poste Suisse pour la validation des adresses des personnes et des entreprises en Suisse;
 - e. banques de données accessibles au public.
@@ -397,6 +398,8 @@ Les données centralisées dans le GDR proviennent des sources suivantes:
 <sup>2</sup> L’autorité, organisation ou personne responsable en vertu de l’art. 25 reprend les données de la source, les enregistre et les modifie dans le GDR, après avoir effectué les vérifications nécessaires.
 
 <sup>3</sup> Les données peuvent être reprises, enregistrées et modifiées au moyen d’une interface entre le GDR et le système source concerné.
+
+[^27-1]: Introduit par l’annexe ch. II 6 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 28
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 25. November 2020 über die Koordination der digitalen Tr
 short: VDTI
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/988"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2020-11-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-988-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-988-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20210101/de"
 
 (Verordnung über die digitale Transformation und die Informatik, VDTI)
 
-vom 25. November 2020 (Stand am 1. Januar 2021)
+vom 25. November 2020 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -391,7 +391,8 @@ Die zentralen Daten des MDG stammen aus folgenden Quellen:
   - 4\. amtliches Verzeichnis der Strassen,
   - 5\. amtliches Verzeichnis der Gebäudeadressen,
   - 6\. Geografisches Informationssystem des Bundesamts für Landwirtschaft,
-  - 7\. Zentrales Migrationsinformationssystem;
+  - 7\. Zentrales Migrationsinformationssystem,
+  - 8\.[^27-1] zentrales Register der AHV-Versicherten;
 
 - d. Informationssysteme der Schweizerischen Post für die Adressvalidierung von Personen und Unternehmen in der Schweiz;
 - e. öffentlich zugängliche Datenbanken.
@@ -399,6 +400,8 @@ Die zentralen Daten des MDG stammen aus folgenden Quellen:
 <sup>2</sup> Die Daten werden von der nach Artikel 25 zuständigen Stelle aus den Datenquellen in das MDG übernommen, in das MDG eingegeben und im MDG mutiert, nachdem diese Stelle die nötigen Überprüfungen vorgenommen hat.
 
 <sup>3</sup> Sie können über eine Schnittstelle zwischen dem MDG und dem betreffenden Quellsystem übernommen, eingegeben und mutiert werden.
+
+[^27-1]: Eingefügt durch Anhang Ziff. II 6 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 28
 
@@ -492,7 +495,7 @@ Der Bereich DTI der BK kann im Rahmen des Vollzugs des Budgets und nach Anhörun
 
 <sup>2</sup> Die Änderung anderer Erlasse wird im Anhang geregelt.
 
-[^35-1]: [[AS 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844), [2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796)Ziff. III 2, [2016 1783](https://fedlex.data.admin.ch/eli/oc/2016/319)[3445](https://fedlex.data.admin.ch/eli/oc/2016/581), [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)Anhang 3 Ziff. II 1, [2020 2107](https://fedlex.data.admin.ch/eli/oc/2020/416)Anhang Ziff. 1]
+[^35-1]: [[AS 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844); [2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796)Ziff. III 2; [2016 1783](https://fedlex.data.admin.ch/eli/oc/2016/319), [3445](https://fedlex.data.admin.ch/eli/oc/2016/581); [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)Anhang 3 Ziff. II 1; [2020 2107](https://fedlex.data.admin.ch/eli/oc/2020/416)Anhang Ziff. 1]
 
 #### Art. 36
 
@@ -504,7 +507,7 @@ Der Bereich DTI der BK kann im Rahmen des Vollzugs des Budgets und nach Anhörun
 
 <sup>3</sup> Die vor Inkrafttreten dieser Verordnung erlassenen IKT-Weisungen des Bundesrates, des Eidgenössischen Finanzdepartements und des ISB behalten ihre Gültigkeit, soweit sie der vorliegenden Verordnung nicht widersprechen und nicht von der nach der vorliegenden Verordnung zuständigen Behörde geändert oder aufgehoben werden.
 
-[^36-1]: [[AS 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844), [2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796)Ziff. III 2, [2016 1783](https://fedlex.data.admin.ch/eli/oc/2016/319)[3445](https://fedlex.data.admin.ch/eli/oc/2016/581), [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)Anhang 3 Ziff. II 1, [2020 2107](https://fedlex.data.admin.ch/eli/oc/2020/416)Anhang Ziff. 1]
+[^36-1]: [[AS 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844); [2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796)Ziff. III 2; [2016 1783](https://fedlex.data.admin.ch/eli/oc/2016/319), [3445](https://fedlex.data.admin.ch/eli/oc/2016/581); [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)Anhang 3 Ziff. II 1; [2020 2107](https://fedlex.data.admin.ch/eli/oc/2020/416)Anhang Ziff. 1]
 
 #### Art. 37
 
@@ -520,6 +523,6 @@ Anhang
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)konsultiert werden.
