@@ -4,11 +4,11 @@ title: Verordnung vom 25. November 2015 über die elektromagnetische Verträglic
 short: VEMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/18"
 language: de
-version: 2021-07-16
+version: 2022-01-01
 adopted: 2015-11-25
 in_force: 2016-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/de/xml/fedlex-data-admin-ch-eli-cc-2016-18-20210716-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/18/20210716/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-18-20220101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/18/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/18/20210716/de"
 
 (VEMV)
 
-vom 25. November 2015 (Stand am 16. Juli 2021)
+vom 25. November 2015 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf Artikel 3 Absatz 2 Buchstabe d des Elektrizitätsgesetzes vom 24. 
 
 verordnet:
 
-[^ingress-1]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^ingress-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
-[^ingress-3]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [SR 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^ingress-2]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
+[^ingress-3]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -95,7 +95,7 @@ Eine Importeurin oder Händlerin wird einer Herstellerin gleichgesetzt, wenn sie
 <sup>6</sup> Die Reparatur eines Betriebsmittels ist der Verwendung gleichzusetzen.
 
 [^2-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 16. Juli 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
-[^2-2]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^2-2]: [SR 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 [^2-3]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 16. Juli 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 [^2-4]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 16. Juli 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
@@ -118,11 +118,11 @@ Diese Verordnung gilt nicht für:
 - e. massgefertigte Erprobungsmodule, die von Fachleuten ausschliesslich in Forschungs- und Entwicklungseinrichtungen für solche Zwecke verwendet werden;
 - f Geräte, die ausschliesslich zur Aufgabenerfüllung nach dem Militärgesetz vom 3. Februar 1995[^3-3], dem Bundesgesetz vom 21. März 1997[^3-4] über Massnahmen zur Wahrung der inneren Sicherheit oder dem Bundesgesetz vom 3. Oktober 2008[^3-5] über die Zuständigkeiten im Bereich des zivilen Nachrichtendienstes durch die zuständigen Behörden verwendet werden.
 
-[^3-1]: [SR 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^3-1]: [SR 784.101.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9182)
 [^3-2]: Bezeichnung gemäss Art. 43 Abs. 1 Bst. d der V vom 25. Nov. 2015 über Fernmeldeanlagen, in Kraft seit 13. Juni 2016 ([AS 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)).
-[^3-3]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^3-4]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^3-5]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^3-3]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^3-4]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^3-5]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 #### Art. 4
 
@@ -171,7 +171,7 @@ Die Konformitätsbewertungsstellen, die Berichte ausarbeiten oder Erklärungen a
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 [^7-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
-[^7-3]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^7-3]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 ## 2. Kapitel: Bereitstellung von neuen Geräten auf dem Markt
 
@@ -403,9 +403,11 @@ Solange sich ein Gerät in der Verantwortung der Importeurinnen und der Händler
 
 <sup>3</sup> Um die Erfüllung dieser Verordnung zu kontrollieren, hat das BAKOM kostenlosen Zugang zu den Orten, an denen sich die Betriebsmittel befinden. Es kann die unentgeltliche Übergabe von Geräten verlangen.
 
-<sup>4</sup> Es kann von der Eidgenössischen Zollverwaltung (EZV) verlangen, ihm für einen bestimmten Zeitraum Auskünfte über den Import von Geräten zu erteilen.
+<sup>4</sup> Es kann vom Bundesamt für Zoll und Grenzsicherheit (BAZG)[^24-1] verlangen, ihm für einen bestimmten Zeitraum Auskünfte über den Import von Geräten zu erteilen.
 
-<sup>5</sup> Stösst die EZV im Rahmen ihrer normalen Tätigkeiten auf Geräte, bei denen sie aufgrund einer vom BAKOM erstellten Kontrollliste den Verdacht hat, dass sie diese Verordnung nicht erfüllen, so erhebt sie ein Muster und übermittelt es unverzüglich dem BAKOM.
+<sup>5</sup> Stösst das BAZG im Rahmen ihrer normalen Tätigkeiten auf Geräte, bei denen sie aufgrund einer vom BAKOM erstellten Kontrollliste den Verdacht hat, dass sie diese Verordnung nicht erfüllen, so erhebt sie ein Muster und übermittelt es unverzüglich dem BAKOM.
+
+[^24-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 25
 
@@ -505,7 +507,7 @@ Das BAKOM erhebt Gebühren für:
 
 <sup>4</sup> Im Übrigen ist die Allgemeine Gebührenverordnung vom 8. September 2004[^29-1] anwendbar.
 
-[^29-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^29-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## 10. Kapitel: Schlussbestimmungen
 
@@ -515,7 +517,7 @@ Das BAKOM erhebt Gebühren für:
 
 <sup>1</sup> Die Verordnung vom 18. November 2009[^30-1] über die elektromagnetische Verträglichkeit wird aufgehoben.
 
-<sup>2</sup> und <sup>3</sup> ...[^30-2]
+<sup>2 und <sup>3</sup></sup> …[^30-2]
 
 [^30-1]: [[AS 2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763), [2014 4159](https://fedlex.data.admin.ch/eli/oc/2014/696)]
 [^30-2]: Die Änderungen können unter [AS 2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)konsultiert werden.
@@ -526,7 +528,7 @@ Das BAKOM erhebt Gebühren für:
 
 Diese Verordnung tritt am 20. April 2016 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 13 Abs. 1)
 
@@ -539,7 +541,12 @@ Anhang 1*[^t-1]*
 - 1\.1 Das schweizerische Konformitätskennzeichen setzt sich aus den zwei grossen lateinischen Buchstaben «C» und «H» zusammen: «CH». Die Buchstaben müssen in einer Ellipse angebracht werden; die Hauptachse der Ellipse ist horizontal.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/de/xml/image/image1.png)</td><td>Mindestgrössen: Höhe der Ellipse Breite der Ellipse Höhe der Buchstaben Breite der Buchstaben Durchmesser des Strichs</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20220101/de/xml/image/image1.png)</td><td>Mindestgrössen:</td><td></td></tr>
+<tr><td></td><td>Höhe der Ellipse</td><td>7,2 mm</td></tr>
+<tr><td></td><td>Breite der Ellipse</td><td>11 mm</td></tr>
+<tr><td></td><td>Höhe der Buchstaben</td><td>5 mm</td></tr>
+<tr><td></td><td>Breite der Buchstaben</td><td>2,5 mm</td></tr>
+<tr><td></td><td>Durchmesser des Strichs</td><td>0,6 mm</td></tr>
 </table>
 
 - 1\.2 Bei einer Vergrösserung des Konformitätskennzeichens müssen seine Proportionen beibehalten werden.
@@ -548,7 +555,7 @@ Anhang 1*[^t-1]*
 
 - 2\.1 Zugelassen ist das Konformitätskennzeichen, das in Anhang II der Verordnung (EG) Nr. 765/2008[^annex1-lvlu1-lvl2-1] festgelegt ist. Die Illustration dient Informationszwecken.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20220101/de/xml/image/image2.png)
 
 - 2\.2 Beim Anbringen dieses Konformitätskennzeichens müssen die allgemeinen Grundsätze, die in Artikel 30 der Verordnung (EG) Nr. 765/2008 definiert werden, respektiert werden.
 
@@ -640,14 +647,11 @@ Anhang 4
 - 4\. Gegenstand der Erklärung (Bezeichnung des Geräts zwecks Rückverfolgbarkeit; dazu kann eine hinreichend deutliche Farbabbildung gehören, wenn dies zur Identifikation des Geräts notwendig ist):
 - 5\. Der oben beschriebene Gegenstand der Erklärung erfüllt die anwendbaren Rechtsvorschriften der Schweiz:
 - 6\. Angabe der anwendbaren technischen Normen, die zugrunde gelegt wurden, einschliesslich deren Daten, oder Angabe anderer technischer Spezifikationen, für die die Konformität erklärt wird, einschliesslich deren Daten:
-- 7\. Gegebenenfalls: Die Konformitätsbewertungsstelle ... (Name, Identifikationsnummer) hat ... (Beschreibung der Massnahme) und folgende Bescheinigung ausgestellt: ...
-- 8\.
-
-  Zusatzangaben:
-
-  - [tab] Unterzeichnet für und im Namen von:
-  - [tab] (Ort und Datum der Ausstellung):
-  - [tab] (Name, Funktion) (Unterschrift):
+- 7\. Gegebenenfalls: Die Konformitätsbewertungsstelle … (Name, Identifikationsnummer) hat … (Beschreibung der Massnahme) und folgende Bescheinigung ausgestellt: …
+- 8\. Zusatzangaben:
+- Unterzeichnet für und im Namen von:
+- (Ort und Datum der Ausstellung):
+- (Name, Funktion) (Unterschrift):
 
 <sup>2</sup> Die Konformitätserklärung für ein Gerät, das das ausländische Konformitätskennzeichen gemäss Anhang 1 Ziffer 2 trägt, muss nach der Vorlage gemäss Anhang IV der Richtlinie 2014/30/EU[^annex4-lvlu1-1] ausgestellt werden.
 

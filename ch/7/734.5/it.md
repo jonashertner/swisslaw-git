@@ -4,11 +4,11 @@ title: Ordinanza del 25 novembre 2015 sulla compatibilità elettromagnetica (OCE
 short: OCEM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/18"
 language: it
-version: 2021-07-16
+version: 2022-01-01
 adopted: 2015-11-25
 in_force: 2016-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/it/xml/fedlex-data-admin-ch-eli-cc-2016-18-20210716-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/18/20210716/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-18-20220101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/18/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/18/20210716/it"
 
 (OCEM)
 
-del 25 novembre 2015 (Stato 16 luglio 2021) (Stato 16 luglio 2021)
+del 25 novembre 2015 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -25,9 +25,9 @@ visto l’articolo 3 capoverso 2 lettera d della legge del 24 giugno 1902[^ingre
 
 *ordina*:
 
-[^ingress-1]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^ingress-2]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
-[^ingress-3]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^ingress-2]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
+[^ingress-3]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -95,7 +95,7 @@ Un importatore o un distributore è equiparato a un fabbricante se:
 <sup>6</sup> La riparazione di un’apparecchiatura va equiparata a un’utilizzazione.
 
 [^2-1]: Introdotta dal n. I dell’O del 18 nov. 2020, in vigore dal 16 lug. 2021 ([RU 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
-[^2-2]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^2-2]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 [^2-3]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 16 lug. 2021 ([RU 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 [^2-4]: Introdotta dal n. I dell’O del 18 nov. 2020, in vigore dal 16 lug. 2021 ([RU 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
@@ -118,11 +118,11 @@ La presente ordinanza non si applica:
 - e. ai moduli di prova confezionati utilizzati da specialisti unicamente in strutture di ricerca e di sviluppo per questi scopi;
 - f. agli apparecchi utilizzati esclusivamente dalle autorità competenti per adempiere i compiti previsti dalla legge militare del 3 febbraio 1995[^3-3], dalla legge federale del 21 marzo 1997[^3-4] sulle misure per la salvaguardia della sicurezza interna e dalla legge federale del 3 ottobre 2008[^3-5] sul servizio informazioni civile.
 
-[^3-1]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^3-1]: [RS 784.101.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9182)
 [^3-2]: Nuova espr. giusta l’art. 43 cpv. 1 lett. d dell’O del 25 nov. 2015 sugli impianti di telecomunicazione, in vigore dal 13 giu. 2016 ([RU 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)).
-[^3-3]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^3-4]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^3-5]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^3-3]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^3-4]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^3-5]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 #### Art. 4
 
@@ -163,7 +163,7 @@ Le apparecchiature devono essere progettate e prodotte secondo lo stato della te
 
 Gli organismi di valutazione della conformità che redigono rapporti o rilasciano dichiarazioni devono essere:[^7-2]
 
-- a. accreditati secondo l’ordinanza del 17 giungo 1996[^7-3] sull’accreditamento e sulla designazione;
+- a. accreditati secondo l’ordinanza del 17 giugno 1996[^7-3] sull’accreditamento e sulla designazione;
 - b. riconosciuti in Svizzera in virtù di accordi internazionali; oppure
 - c. autorizzati in altro modo dal diritto svizzero.
 
@@ -171,7 +171,7 @@ Gli organismi di valutazione della conformità che redigono rapporti o rilascian
 
 [^7-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 [^7-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
-[^7-3]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^7-3]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 ## Capitolo 2: Messa a disposizione sul mercato di nuovi apparecchi
 
@@ -324,7 +324,7 @@ Su richiesta dell’UFCOM, gli operatori economici indicano tutti gli operatori 
 
 **Obblighi in materia di trasporto e stoccaggio**
 
-- [tab] Fintanto che un apparecchio è sotto la responsabilità degli importatori e dei distributori, questi ultimi devono garantire che le condizioni del suo stoccaggio o del suo trasporto non compromettano la sua conformità ai requisiti essenziali della presente ordinanza.
+Fintanto che un apparecchio è sotto la responsabilità degli importatori e dei distributori, questi ultimi devono garantire che le condizioni del suo stoccaggio o del suo trasporto non compromettano la sua conformità ai requisiti essenziali della presente ordinanza.
 
 #### Art. 18
 
@@ -347,8 +347,9 @@ Su richiesta dell’UFCOM, gli operatori economici indicano tutti gli operatori 
 
 <sup>1</sup> Su richiesta motivata dell’UFCOM, gli operatori economici devono fornirgli tutte le informazioni e la documentazione necessarie a dimostrare la conformità dell’apparecchio alla presente ordinanza.
 
-- [tab] <sup>2</sup> Le informazioni e la documentazione devono essere trasmesse per scritto in formato cartaceo o elettronico in una lingua che può essere facilmente compresa dall’UFCOM.
-- [tab] <sup>3</sup> Su richiesta dell’UFCOM, gli operatori economici e i fornitori di servizi della società dell’informazione collaborano nell’esecuzione di tutte le misure volte a eliminare i rischi che gli apparecchi da essi messi a disposizione sul mercato presentano. Quest’obbligo si applica anche al mandatario per gli apparecchi che rientrano nel suo mandato.[^19-1]
+<sup>2</sup> Le informazioni e la documentazione devono essere trasmesse per scritto in formato cartaceo o elettronico in una lingua che può essere facilmente compresa dall’UFCOM.
+
+<sup>3</sup> Su richiesta dell’UFCOM, gli operatori economici e i fornitori di servizi della società dell’informazione collaborano nell’esecuzione di tutte le misure volte a eliminare i rischi che gli apparecchi da essi messi a disposizione sul mercato presentano. Quest’obbligo si applica anche al mandatario per gli apparecchi che rientrano nel suo mandato.[^19-1]
 
 [^19-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 16 lug. 2021 ([RU 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
@@ -356,9 +357,11 @@ Su richiesta dell’UFCOM, gli operatori economici indicano tutti gli operatori 
 
 #### Art. 20
 
-- [tab] <sup>1</sup> Gli impianti fissi devono essere installati secondo le regole tecniche riconosciute e conformemente alla guida per l’utilizzazione prevista dei suoi componenti, nonché soddisfare i requisiti essenziali della presente ordinanza.
-- [tab] <sup>2</sup> Le regole tecniche riconosciute devono essere documentate dalla persona che ha eseguito il montaggio. Questi documenti sono consegnati al proprietario degli impianti fissi.
-- [tab] <sup>3</sup> Il proprietario deve conservare questa documentazione finché l’impianto è in servizio. Deve fornirla all’UFCOM su sua richiesta.
+<sup>1</sup> Gli impianti fissi devono essere installati secondo le regole tecniche riconosciute e conformemente alla guida per l’utilizzazione prevista dei suoi componenti, nonché soddisfare i requisiti essenziali della presente ordinanza.
+
+<sup>2</sup> Le regole tecniche riconosciute devono essere documentate dalla persona che ha eseguito il montaggio. Questi documenti sono consegnati al proprietario degli impianti fissi.
+
+<sup>3</sup> Il proprietario deve conservare questa documentazione finché l’impianto è in servizio. Deve fornirla all’UFCOM su sua richiesta.
 
 ## Capitolo 4: Messa in servizio e utilizzo delle apparecchiature
 
@@ -400,9 +403,11 @@ Su richiesta dell’UFCOM, gli operatori economici indicano tutti gli operatori 
 
 <sup>3</sup> Può accedere gratuitamente ai locali in cui si trovano le apparecchiature allo scopo di verificare l’adempimento delle prescrizioni della presente ordinanza. Può esigere la consegna di apparecchi a titolo gratuito.
 
-<sup>4</sup> L’UFCOM può esigere che l’Amministrazione federale delle dogane (AFD) gli fornisca, per un periodo determinato, informazioni sull’importazione di apparecchi.
+<sup>4</sup> L’UFCOM può esigere che Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^24-1] gli fornisca, per un periodo determinato, informazioni sull’importazione di apparecchi.
 
-<sup>5</sup> Se, nel quadro delle sue attività ordinarie, l’AFD scopre apparecchi dei quali, in base a una lista di controllo allestita dall’UFCOM, sospetta che non adempiono le prescrizioni della presente ordinanza, ne preleva un campione e lo trasmette all’UFCOM senza indugio.
+<sup>5</sup> Se, nel quadro delle sue attività ordinarie, l’UDSC scopre apparecchi dei quali, in base a una lista di controllo allestita dall’UFCOM, sospetta che non adempiono le prescrizioni della presente ordinanza, ne preleva un campione e lo trasmette all’UFCOM senza indugio.
+
+[^24-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 25
 
@@ -502,7 +507,7 @@ L’UFCOM percepisce una tassa per:
 
 <sup>4</sup> Si applicano inoltre le disposizioni dell’ordinanza generale dell’8 settembre 2004[^29-1] sugli emolumenti.
 
-[^29-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^29-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Capitolo 10: Disposizioni finali
 
@@ -512,7 +517,7 @@ L’UFCOM percepisce una tassa per:
 
 <sup>1</sup> L’ordinanza del 18 novembre 2009[^30-1] sulla compatibilità elettromagnetica è abrogata.
 
-<sup>2</sup> e <sup>3</sup> …[^30-2]
+<sup>2 e <sup>3</sup></sup> …[^30-2]
 
 [^30-1]: [[RU 2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763), [2010 3619](https://fedlex.data.admin.ch/eli/oc/2010/524), [2014 4159](https://fedlex.data.admin.ch/eli/oc/2014/696)]
 [^30-2]: Le mod. possono essere consultate alla [RU 2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18).
@@ -534,7 +539,12 @@ Allegato 1
 - 1\.1 Il marchio di conformità svizzero è composto di due lettere latine maiuscole susseguenti, «C» e «H»: «CH». Le lettere, devono essere applicate in una forma ellittica con l’asse principale orizzontale.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/it/xml/image/image1.png)</td><td>Dimensioni minime: Altezza dell’ellissi Larghezza dell’ellissi Altezza delle lettere Larghezza delle lettere Spessore del tratto</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20220101/it/xml/image/image1.png)</td><td>Dimensioni minime:</td><td></td></tr>
+<tr><td></td><td>Altezza dell’ellissi</td><td>7,2 mm</td></tr>
+<tr><td></td><td>Larghezza dell’ellissi</td><td>11 mm</td></tr>
+<tr><td></td><td>Altezza delle lettere</td><td>5 mm</td></tr>
+<tr><td></td><td>Larghezza delle lettere</td><td>2,5 mm</td></tr>
+<tr><td></td><td>Spessore del tratto</td><td>0,6 mm</td></tr>
 </table>
 
 - 1\.2 In caso di ingrandimento del marchio di conformità, devono essere mantenute le sue proporzioni.
@@ -543,7 +553,7 @@ Allegato 1
 
 - 2\.1 È ammesso il marchio di conformità definito nell’allegato 2 del regolamento (CE) n. 765/2008[^annex1-lvlu1-lvl2-1]. L’illustrazione ha carattere informativo.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20220101/it/xml/image/image2.png)
 
 - 2\.2 L’apposizione di questo marchio di conformità deve rispettare i principi generali definiti nell’articolo 30 del regolamento (CE) n. 765/2008.
 
@@ -637,13 +647,10 @@ Allegato 4
 - 5\. L’oggetto della dichiarazione di cui sopra è conforme alla legislazione svizzera applicabile:
 - 6\. Riferimento alle pertinenti norme tecniche applicate, compresa la data delle norme, o riferimenti ad altre specifiche tecniche in relazione alle quali è dichiarata la conformità, compresa la data delle stesse:
 - 7\. Eventualmente: l’organismo di valutazione della conformità … (denominazione, numero d’identificazione) ha effettuato … (descrizione della misura) e rilasciato il seguente certificato:
-- 8\.
-
-  Informazioni supplementari:
-
-  - [tab] Firmato a nome e per conto di:
-  - [tab] (luogo e data del rilascio):
-  - [tab] (nome, funzione) (firma):
+- 8\. Informazioni supplementari:
+- Firmato a nome e per conto di:
+- (luogo e data del rilascio):
+- (nome, funzione) (firma):
 
 <sup>2</sup> La dichiarazione di conformità per un apparecchio con il marchio di conformità estero secondo l’allegato 1 numero 2 va redatta in base al modello di cui all’allegato IV della direttiva 2014/30/UE[^annex4-lvlu1-1].
 

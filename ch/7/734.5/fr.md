@@ -4,11 +4,11 @@ title: Ordonnance du 25 novembre 2015 sur la compatibilité électromagnétique 
 short: OCEM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/18"
 language: fr
-version: 2021-07-16
+version: 2022-01-01
 adopted: 2015-11-25
 in_force: 2016-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/fr/xml/fedlex-data-admin-ch-eli-cc-2016-18-20210716-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/18/20210716/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-18-20220101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/18/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/18/20210716/fr"
 
 (OCEM)
 
-du 25 novembre 2015 (Etat le 16 juillet 2021)
+du 25 novembre 2015 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -25,9 +25,9 @@ vu l’art. 3, al. 2, let. d, de la loi du 24 juin 1902 sur les installations é
 
 arrête:
 
-[^ingress-1]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^ingress-2]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
-[^ingress-3]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^ingress-2]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
+[^ingress-3]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## Chapitre 1 Dispositions générales
 
@@ -95,7 +95,7 @@ Un importateur ou un distributeur est assimilé à un fabricant:
 <sup>6</sup> La réparation d’un équipement est assimilée à une utilisation.
 
 [^2-1]: Introduite par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 16 juil. 2021 ([RO 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
-[^2-2]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^2-2]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 [^2-3]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 16 juil. 2021 ([RO 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 [^2-4]: Introduite par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 16 juil. 2021 ([RO 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
@@ -118,10 +118,10 @@ La présente ordonnance ne s’applique pas:
 - e. aux kits d’évaluation sur mesure destinés à être utilisés par des professionnels seulement dans des installations de recherche et de développement à de telles fins;
 - f. aux appareils servant exclusivement à l’exécution par les organes fédéraux compétents de tâches en application de la loi du 3 février 1995 sur l’armée[^3-2], de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^3-3] ou de la loi fédérale du 3 octobre 2008 sur le renseignement civil[^3-4].
 
-[^3-1]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24). Nouvelle expression selon l’art. 43 al. 1 let. d de l’O du 25 nov. 2015 sur les installations de télécommunication, en vigueur depuis le 13 juin 2016 ([RO 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)).
-[^3-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^3-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^3-4]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^3-1]: [RS 784.101.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9182). Nouvelle expression selon l’art. 43 al. 1 let. d de l’O du 25 nov. 2015 sur les installations de télécommunication, en vigueur depuis le 13 juin 2016 ([RO 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)).
+[^3-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^3-3]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^3-4]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 #### Art. 4
 
@@ -170,7 +170,7 @@ Les organismes d’évaluation de la conformité qui établissent des rapports o
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 [^7-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
-[^7-3]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^7-3]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 ## Chapitre 2 Mise à disposition sur le marché d’appareils neufs
 
@@ -192,7 +192,8 @@ Le fabricant doit démontrer la conformité des appareils aux exigences essentie
 
 - a. le contrôle interne de la fabrication (annexe 2);
 - b. l’examen de type suivi par la conformité au type sur la base du contrôle interne de la fabrication (annexe 3).
-- [tab] <sup>2</sup> Le fabricant peut choisir de restreindre l’application de la procédure visée à l’al. 1, let. b, à certains aspects des exigences essentielles de la présente ordonnance, pour autant que, pour les autres aspects des exigences essentielles, la procédure visée à l’al. 1, let. a, soit appliquée.
+
+<sup>2</sup> Le fabricant peut choisir de restreindre l’application de la procédure visée à l’al. 1, let. b, à certains aspects des exigences essentielles de la présente ordonnance, pour autant que, pour les autres aspects des exigences essentielles, la procédure visée à l’al. 1, let. a, soit appliquée.
 
 #### Art. 10
 
@@ -387,7 +388,7 @@ Les importateurs et les distributeurs doivent s’assurer que, tant qu’un appa
 
 <sup>1</sup> Un équipement usagé ne peut être mis à disposition sur le marché que s’il respecte les dispositions en vigueur au moment de sa mise sur le marché.
 
-<sup>2</sup> Un équipement usagé dont des composantes importantes pour son fonctionnement ont été modifiées est soumis aux mêmes dispositions qu'un équipement neuf.
+<sup>2</sup> Un équipement usagé dont des composantes importantes pour son fonctionnement ont été modifiées est soumis aux mêmes dispositions qu’un équipement neuf.
 
 ## Chapitre 7 Contrôle
 
@@ -401,9 +402,11 @@ Les importateurs et les distributeurs doivent s’assurer que, tant qu’un appa
 
 <sup>3</sup> Il peut accéder gratuitement aux locaux où se trouvent les équipements afin de s’assurer qu’ils respectent la présente ordonnance. Il peut demander que des appareils lui soient remis gratuitement.
 
-<sup>4</sup> Il peut demander à l’Administration fédérale des douanes (AFD) de lui fournir, pour une période déterminée, des renseignements sur les importations d’appareils.
+<sup>4</sup> Il peut demander à l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^24-1] de lui fournir, pour une période déterminée, des renseignements sur les importations d’appareils.
 
-<sup>5</sup> Si l’AFD découvre dans le cadre de ses activités ordinaires des appareils qu’elle soupçonne, sur la base d’une liste de contrôle fournie par l’OFCOM, de ne pas être conformes à la présente ordonnance, elle en prélève un échantillon qu’elle transmet sans délai à l’OFCOM.
+<sup>5</sup> Si l’OFDF découvre dans le cadre de ses activités ordinaires des appareils qu’elle soupçonne, sur la base d’une liste de contrôle fournie par l’OFCOM, de ne pas être conformes à la présente ordonnance, elle en prélève un échantillon qu’elle transmet sans délai à l’OFCOM.
+
+[^24-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 25
 
@@ -503,7 +506,7 @@ L’OFCOM perçoit un émolument:
 
 <sup>4</sup> Au surplus, l’ordonnance générale du 8 septembre 2004 sur les émoluments[^29-1] est applicable.
 
-[^29-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^29-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Chapitre 10 Dispositions finales
 
@@ -513,7 +516,7 @@ L’OFCOM perçoit un émolument:
 
 <sup>1</sup> L’ordonnance du 18 novembre 2009 sur la compatibilité électromagnétique[^30-1] est abrogée.
 
-<sup>2</sup> et <sup>3</sup>…[^30-2]
+<sup>2 et <sup>3</sup></sup> …[^30-2]
 
 [^30-1]: [[RO 2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763), [2014 4159](https://fedlex.data.admin.ch/eli/oc/2014/696)]
 [^30-2]: Les mod. peuvent être consultées au [RO 2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18).
@@ -532,21 +535,26 @@ Annexe 1
 
 ### 1. Marque de conformité suisse
 
-- 1\.1. La marque de conformité suisse se compose des deux grandes lettres latines «C» et «H» accolées: «CH». Les lettres doivent être appliquées dans une forme elliptique, l’axe principal de l’ellipse étant horizontal.
+- 1\.1 La marque de conformité suisse se compose des deux grandes lettres latines «C» et «H» accolées: «CH». Les lettres doivent être appliquées dans une forme elliptique, l’axe principal de l’ellipse étant horizontal.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/fr/xml/image/image1.png)</td><td>Dimensions minimales: Hauteur de l’ellipse Largeur de l’ellipse Hauteur des lettres Largeur des lettres Épaisseur du trait</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20220101/fr/xml/image/image1.png)</td><td>Dimensions minimales:</td><td></td></tr>
+<tr><td></td><td>Hauteur de l’ellipse</td><td>7,2 mm</td></tr>
+<tr><td></td><td>Largeur de l’ellipse</td><td>11 mm</td></tr>
+<tr><td></td><td>Hauteur des lettres</td><td>5 mm</td></tr>
+<tr><td></td><td>Largeur des lettres</td><td>2,5 mm</td></tr>
+<tr><td></td><td>Épaisseur du trait</td><td>0,6 mm</td></tr>
 </table>
 
-- 1\.2. En cas d’agrandissement de la marque de conformité, les proportions de celle-ci doivent être respectées.
+- 1\.2 En cas d’agrandissement de la marque de conformité, les proportions de celle-ci doivent être respectées.
 
 ### 2. Marque de conformité étrangère
 
-- 2\.1. Est admise la marque de conformité définie à l’annexe II du règlement (CE) n<sup>o</sup> 765/2008[^annex1-lvlu1-lvl2-1]. L’illustration a un caractère informatif.
+- 2\.1 Est admise la marque de conformité définie à l’annexe II du règlement (CE) n<sup>o</sup> 765/2008[^annex1-lvlu1-lvl2-1]. L’illustration a un caractère informatif.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20220101/fr/xml/image/image2.png)
 
-- 2\.2. L’apposition de cette marque de conformité doit respecter les principes généraux définis à l’art. 30 du règlement (CE) n<sup>o</sup> 765/2008.
+- 2\.2 L’apposition de cette marque de conformité doit respecter les principes généraux définis à l’art. 30 du règlement (CE) n<sup>o</sup> 765/2008.
 
 [^annex1-lvlu1-lvl2-1]: Règlement (CE) n<sup>o</sup> 765/2008 du Parlement européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l’accréditation et à la surveillance du marché pour la commercialisation des produits et abrogeant le règlement (CEE) n<sup>o</sup> 339/93 du Conseil, version du JO L 218, du 13.08.2008, p. 30.
 
@@ -638,14 +646,11 @@ Annexe 4
 - 5\. L’objet de la déclaration décrit ci-dessus est conforme à la législation suisse applicable:
 - 6\. Références des normes techniques pertinentes qui ont été appliquées, y compris leur date, ou des autres spécifications techniques, y compris leur date, par rapport auxquelles la conformité est déclarée:
 - 7\. Le cas échéant, l’organisme d’évaluation de la conformité … (nom, numéro d’identification) a effectué … (description de l’intervention) et a établi le certificat:
-- 8\.
-
-  Informations complémentaires:
-
-  - [tab] Signé par et au nom de:
-  - [tab] (date et lieu d’établissement):
-  - [tab] (nom, fonction) (signature):
+- 8\. Informations complémentaires:
+- Signé par et au nom de:
+- (date et lieu d’établissement):
+- (nom, fonction) (signature):
 
 <sup>2</sup> La déclaration de conformité pour un appareil portant la marque de conformité étrangère selon l’annexe 1, ch. 2, doit être établie selon le modèle visé à l’annexe IV de la directive 2014/30/UE[^annex4-lvlu1-1].
 
-[^annex4-lvlu1-1]: Directive 2014/30/UE du Parlement européen et du Conseil du 26 février 2014 relative à l’harmonisation des législations des Etats membres concernant la compatibilité électromagnétique (refonte), version du JO L 96, du 26.02.2014, p. 79.
+[^annex4-lvlu1-1]: Directive 2014/30/UE du Parlement européen et du Conseil du 26 février 2014 relative à l’harmonisation des législations des États membres concernant la compatibilité électromagnétique (refonte), version du JO L 96, du 26.02.2014, p. 79.

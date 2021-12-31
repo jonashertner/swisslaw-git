@@ -4,11 +4,11 @@ title: Ordinance of 25 November 2015 on Electromagnetic Compatibility (OEMC)
 short: OEMC
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/18"
 language: en
-version: 2021-07-16
+version: 2022-01-01
 adopted: 2015-11-25
 in_force: 2016-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/en/xml/fedlex-data-admin-ch-eli-cc-2016-18-20210716-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/18/20210716/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2016-18-20220101-en-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/18/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,17 +19,17 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OEMC)
 
-of 25 November 2015 (Status as of 16 July 2021)
+of 25 November 2015 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
-based on Article 3 paragraph 2 letter d of the Electricity Act of 24 June 1902[^ingress-1] (ELA), in aplication of the Telecommunications Act of 30 April 1997[^ingress-2] (TCA) and the Federal Act of 6 October 1995[^ingress-3] on Technical Barriers to Trade (TBTA),
+based on Article 3 paragraph 2 letter d of the Electricity Act of 24 June 1902[^ingress-1] (ELA), in application of the Telecommunications Act of 30 April 1997[^ingress-2] ( TCA ) and the Federal Act of 6 October 1995[^ingress-3] on Technical Barriers to Trade (TBTA),
 
 ordains:
 
 [^ingress-1]: SR **734.10**
-[^ingress-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
-[^ingress-3]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-2]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
+[^ingress-3]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## Chapter 1 General Provisions
 
@@ -97,7 +97,7 @@ An importer or distributor is equivalent to a manufacturer if it:
 <sup>6</sup> The repair of equipment is equivalent to use.
 
 [^2-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
-[^2-2]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^2-2]: [SR 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 [^2-3]: Amended by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 [^2-4]: Inserted by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
@@ -120,11 +120,11 @@ This Ordinance does not apply to:
 - e. custom-made test modules used by specialists exclusively in research and development facilities for such purposes;
 - f. apparatus used exclusively by the competent federal authorities to carry out tasks in accordance with the Armed Forces Act of 3 February 1995[^3-3], the Federal Act of 21 March 1997[^3-4] on Measures to Safeguard Internal Security and the Federal Act of 3 October 2008[^3-5] on Responsibilities in the Area of the Civilian Intelligence Service.
 
-[^3-1]: [SR 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^3-1]: [SR 784.101.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9182)
 [^3-2]: Name in accordance with Art. 43 para. 1 let. d of the O of 25 Nov. 2015 on Telecommunications Installations, in force since 13 June 2016 ([AS 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)).
-[^3-3]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^3-4]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^3-5]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^3-3]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^3-4]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^3-5]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 #### Art. 4
 
@@ -173,7 +173,7 @@ Conformity assessment bodies that draw up reports or issue declarations must:[^7
 
 [^7-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 [^7-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
-[^7-3]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^7-3]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 ## Chapter 2 Making New Apparatus available on the Market
 
@@ -405,9 +405,11 @@ Importers or distributors shall ensure that, while apparatus is under their resp
 
 <sup>3</sup> In order to confirm compliance with this Ordinance, OFCOM shall have access free of charge to the places where the equipment is located. It may require that apparatus be handed over free of charge.
 
-<sup>4</sup> It may request the Federal Customs Administration (FCA) to provide information on imports of apparatus for a specific period.
+<sup>4</sup> It may request the Federal Office for Customs and Border Security (FOCBS)[^24-1] to provide information on imports of apparatus for a specific period.
 
-<sup>5</sup> If the FCA encounters apparatus in the course of its normal activities that it suspects, on the basis of a checklist from OFCOM, does not comply with this Ordinance, it shall obtain a sample and send it immediately to OFCOM.
+<sup>5</sup> If the FOCBS encounters apparatus in the course of its normal activities that it suspects, on the basis of a checklist from OFCOM, does not comply with this Ordinance, it shall obtain a sample and send it immediately to OFCOM.
+
+[^24-1]: The name of this administrative unit was changed on 1 Jan. 2022 pursuant to Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
 
 #### Art. 25
 
@@ -469,7 +471,8 @@ OFCOM may inform the public of the technical non-conformity of an apparatus, in 
 - c. the information that allow it to be identified, such as the manufacturer, brand and type;
 - d. photographs of the apparatus and its packaging;
 - e. the date of the decision on non-conformity.
-- [tab] <sup>5</sup> It may participate in international databases for the exchange of information between market supervisory authorities and record therein the information referred to in paragraph 4.[^27-1]
+
+<sup>5</sup> It may participate in international databases for the exchange of information between market supervisory authorities and record therein the information referred to in paragraph 4.[^27-1]
 
 [^27-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
@@ -506,7 +509,7 @@ OFCOM shall charge fees for:
 
 <sup>4</sup> In addition, the General Fees Ordinance of 8 September 2004[^29-1] applies.
 
-[^29-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^29-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Chapter 10 Final Provisions
 
@@ -516,7 +519,7 @@ OFCOM shall charge fees for:
 
 <sup>1</sup> The Ordinance of 18 November 2009[^30-1] on Electromagnetic Compatibility is repealed.
 
-<sup>2</sup> and <sup>3</sup> ...[^30-2]
+<sup>2</sup> and <sup>3</sup> …[^30-2]
 
 [^30-1]: [[AS 2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763), [2014 4159](https://fedlex.data.admin.ch/eli/oc/2014/696)]
 [^30-2]: The amendments may be consulted under [AS 2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18).
@@ -527,18 +530,20 @@ OFCOM shall charge fees for:
 
 This Ordinance comes into force on 20 April 2016.
 
-Annex 1
+Annex 1[^t-1]
 
 (Art. 13 para. 1)
 
 ## Conformity marking
+
+[^t-1]: Revised by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
 ### 1. Swiss conformity marking
 
 - 1\.1 The Swiss conformity marking comprises the two Latin capital letters “C” and “H” together as “CH”. The letters must be appear within an elliptical shape; the main axis of the ellipse is horizontal.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/en/xml/image/image1.png)</td><td>Minimum dimensions:</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20220101/en/xml/image/image1.png)</td><td>Minimum dimensions:</td><td></td></tr>
 <tr><td></td><td>Height of the ellipse</td><td>7.2 mm</td></tr>
 <tr><td></td><td>Width of the ellipse</td><td>11 mm</td></tr>
 <tr><td></td><td>Height of the letters</td><td>5 mm</td></tr>
@@ -552,7 +557,7 @@ Annex 1
 
 - 2\.1 The use of the conformity marking set out in Annex II to Regulation (EC) No 765/2008[^annex1-lvlu1-lvl2-1] is permitted. The illustration below is for information purposes only.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20220101/en/xml/image/image2.png)
 
 - 2\.2 When affixing this conformity marking, the general principles set out in Article 30 of Regulation (EC) No 765/2008 must be respected.
 
@@ -645,14 +650,11 @@ Annex 4
 - 4\. The object of the declaration (identification of apparatus allowing traceability; it may include a colour image of sufficient clarity where necessary for the identification of the apparatus):
 - 5\. The object of the declaration described above is in conformity with the applicable legislation in Switzerland:
 - 6\. References to the relevant technical standards used, including the date of the standard, or references to the other technical specifications, including the date of the specification, in relation to which conformity is declared:
-- 7\. If applicable: the conformity assessment body ... (name, identification number) performed ... (description of measure) and the issued following certificate: ...
-- 8\.
-
-  Additional details:
-
-  - [tab] Signed for and on behalf of:
-  - [tab] (Place and date of signature):
-  - [tab] (Name, function) (Signature):
+- 7\. If applicable: the conformity assessment body … (name, identification number) performed … (description of measure) and the issued following certificate: …
+- 8\. Additional details:
+- Signed for and on behalf of:
+- (Place and date of signature):
+- (Name, function) (Signature):
 
 <sup>2</sup> The declaration of conformity for an apparatus that bears the foreign conformity marking in accordance with Annex 1 point 2 must be issued according to the template in Annex IV of Directive 2014/30/EU[^annex4-lvlu1-1].
 
