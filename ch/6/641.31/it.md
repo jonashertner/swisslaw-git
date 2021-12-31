@@ -4,20 +4,20 @@ title: "Legge federale del 21 marzo 1969 sull'imposizione del tabacco (Legge sul
 short: LImT
 eli: "https://fedlex.data.admin.ch/eli/cc/1969/645_665_663"
 language: it
-version: 2017-09-01
+version: 2022-01-01
 adopted: 1969-03-21
 in_force: 1970-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20170901/it/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20170901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20170901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Legge federale sull’imposizione del tabacco (Legge sull’imposizione del tabacco, LImT)****
+# Legge federale sull’imposizione del tabacco (Legge sull’imposizione del tabacco, LImT)
 
-del 21 marzo 1969 (Stato 1° settembre 2017) (Stato 1° settembre 2017)[^t-1]
+del 21 marzo 1969 (Stato 1° gennaio 2022)[^t-1]
 
-[^t-1]: Introdotto dal n. 8 dell’all. alla L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^t-1]: Introdotto dall’all. n. 8. della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -29,7 +29,7 @@ decreta:
 [^ingress-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2017, in vigore dal 1° set. 2017 ([RU 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [FF 2016 4577](https://fedlex.data.admin.ch/eli/fga/2016/1113)).
 [^ingress-3]: [FF 1968 II 580](https://fedlex.data.admin.ch/eli/fga/1968/2_345_345_580)
 
-## Sezione 1: Disposizioni generali****
+## Sezione 1: Disposizioni generali
 
 [^sec1-1]
 
@@ -41,7 +41,7 @@ decreta:
 
 [^1-1]
 
-<sup>1</sup> La Confederazione riscuote un’imposta sui tabacchi manufatti …[^1-2] come pure sui prodotti utilizzati come il tabacco (prodotti di sostituzione).
+<sup>1</sup> La Confederazione riscuote un’imposta sui tabacchi manufatti ...[^1-2] come pure sui prodotti utilizzati come il tabacco (prodotti di sostituzione).
 
 <sup>2</sup> I termini tabacchi manufatti e prodotti di sostituzione sono definiti nell’ordinanza del 15 dicembre 1969[^1-3] sull’imposizione del tabacco.
 
@@ -53,10 +53,11 @@ decreta:
 
 #### Art. 2
 
-Per quanto concerne le tasse gravanti sui tabacchi manufatti (imposta sul tabacco, dazi, imposta sul valore aggiunto), l’Amministrazione federale delle dogane (Amministrazione delle dogane)[^2-1] emana le istruzioni e prende le decisioni che non sono espressamente riservate ad un’altra autorità.[^2-2] Essa ha la facoltà d’impartire alle ditte iscritte nel registro dei fabbricanti, importatori e negozianti di materiale greggio, istruzioni circa le indicazioni, giustificazioni e misure necessarie per riscuotere e rimborsare le tasse nonché per operare dei controlli.
+[^2-1]
 
-[^2-1]: Nuova espr. giusta il n. I della LF del 17 mar. 2017, in vigore dal 1° set. 2017 ([RU 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [FF 2016 4577](https://fedlex.data.admin.ch/eli/fga/2016/1113)). È tenuto conto di detta mod. nelle disp. menzionate nella RU.
-[^2-2]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+Per quanto concerne le tasse gravanti sui tabacchi manufatti (imposta sul tabacco, dazi, imposta sul valore aggiunto), l’Ufficio federale della dogana e della sicurezza dei confini (UDSC) emana le istruzioni e prende le decisioni che non sono espressamente riservate ad un’altra autorità. Esso ha la facoltà d’impartire alle ditte iscritte nel registro dei fabbricanti, importatori e negozianti di materiale greggio, istruzioni circa le indicazioni, giustificazioni e misure necessarie per riscuotere e rimborsare le tasse nonché per operare dei controlli.
+
+[^2-1]: Nuovo testo giusta il n. I 19 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ### III. Diritto applicabile
 
@@ -64,7 +65,7 @@ Per quanto concerne le tasse gravanti sui tabacchi manufatti (imposta sul tabacc
 
 Salvo disposizioni speciali della presente legge o delle rispettive ordinanze, i disposti che disciplinano dazi e tasse speciali, riscuotibili coll’esecuzione di prescrizioni doganali, si applicano, per analogia, all’imposta sul tabacco.
 
-## Sezione 2: Oggetto dell’imposta e obbligo di pagarla****
+## Sezione 2: Oggetto dell’imposta e obbligo di pagarla
 
 [^sec2-1]
 
@@ -79,10 +80,10 @@ Salvo disposizioni speciali della presente legge o delle rispettive ordinanze, i
 Sottostanno all’imposta:
 
 - a. i tabacchi manufatti fabbricati industrialmente in Svizzera e pronti al consumo e i tabacchi manufatti importati;
-- b.[^4-1] …
+- b.[^4-1] ...
 - c.[^4-2] i prodotti di sostituzione.
 
-<sup>2</sup> …[^4-3]
+<sup>2</sup> ...[^4-3]
 
 <sup>3</sup> Sono considerati pronti al consumo i tabacchi manufatti che fino al momento del consumo non subiscono più nessun processo di fabbricazione industriale.
 
@@ -92,7 +93,7 @@ Sottostanno all’imposta:
 [^4-2]: Introdotta dal n. I della LF del 24 mar. 1995, in vigore dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 [^4-3]: Abrogato dal n. I della LF del 19 dic. 2008, con effetto dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^4-4]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^4-5]: Nuovo testo giusta il n. 8 dell’all. alla L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^4-5]: Nuovo testo giusta l’all. n. 8 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 ### II. Esenzione dall’imposta
 
@@ -101,13 +102,13 @@ Sottostanno all’imposta:
 Sono esenti dall’imposta:
 
 - a.[^5-1] le merci in franchigia secondo l’articolo 8 LD[^5-2];
-- b.[^5-3] …
+- b.[^5-3] ...
 - c. i tabacchi manufatti non destinati al consumo;
 - d.[^5-4] i tabacchi manufatti per attenuare l’asma, se sono registrati come medicamenti.
 
-[^5-1]: Nuovo testo giusta il n. 8 dell’all. alla L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^5-1]: Nuovo testo giusta l’all. n. 8 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 [^5-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^5-3]: Abrogata dal n. 8 dell’all. alla L del 18 mar. 2005 sulle dogane, con effetto dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^5-3]: Abrogata dall’all. n. 8 della L del 18 mar. 2005 sulle dogane, con effetto dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 [^5-4]: Introdotta dal n. I della LF del 24 mar. 1995, in vigore dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 
 ### III. Obbligati al pagamento
@@ -119,7 +120,7 @@ Sono soggetti all’imposta:
 - a. sui tabacchi fabbricati in Svizzera: i fabbricanti dei prodotti pronti al consumo;
 - b.[^6-1] sui tabacchi manufatti importati: il debitore doganale.
 
-[^6-1]: Nuovo testo giusta il n. 8 dell’all. alla L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^6-1]: Nuovo testo giusta l’all. n. 8 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 ### IV. Successione fiscale
 
@@ -150,7 +151,7 @@ Sono responsabili solidalmente con il contribuente o il successore fiscale:
 
 <sup>2</sup> La responsabilità delle persone designate al capoverso 1 cessa se esse provano di aver fatto tutto il possibile per stabilire ed eseguire il credito fiscale.
 
-## Sezione 3: Inizio dell’obbligo di pagare l’imposta e calcolo della stessa****
+## Sezione 3: Inizio dell’obbligo di pagare l’imposta e calcolo della stessa
 
 [^sec3-1]
 
@@ -170,7 +171,7 @@ L’imposta è dovuta:
 
 <sup>2</sup> Se i tabacchi manufatti prodotti in Svizzera, non imballati definitivamente per essere smerciati al consumatore, sono consegnati a persone o ditte non iscritte nel registro di cui all’articolo 13, oppure vanno ad altra destinazione, l’imposta è dovuta dal fabbricante non appena la merce lascia l’azienda; l’aliquota d’imposta applicabile è quella che grava sul prodotto fabbricato, pronto al consumo, maggiormente imposto.
 
-[^9-1]: Nuovo testo giusta il n. 8 dell’all. alla L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^9-1]: Nuovo testo giusta l’all. n. 8 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 [^9-2]: Introdotta dal n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### II. Base del calcolo
@@ -209,9 +210,12 @@ Per cofinanziare i contributi della Confederazione all’assicurazione per la ve
 - c. aumentare dell’80 per cento al massimo le aliquote d’imposta sul tabacco trinciato fine, applicabili all’entrata in vigore della modifica del 19 dicembre 2008 della presente legge;
 - d. aumentare del 100 per cento al massimo le aliquote d’imposta sul tabacco da fumo diverso dal tabacco trinciato fine e sugli altri tabacchi manufatti, come pure sul tabacco da masticare e da fiuto, applicabili all’entrata in vigore della modifica del 19 dicembre 2008 della presente legge.[^11-3]
 
+<sup>3</sup> In caso di aumento dell'imposta il Consiglio federale può prendere provvedimenti per evitare che l'efficacia dell'aumento fiscale venga differita. Può segnatamente obbligare i produttori e gli importatori a limitare, fino all'entrata in vigore dell'aumento, la produzione e l'importazione alle vendite realizzate in un periodo comparabile dell'anno precedente, tenendo conto dell'evoluzione della domanda.[^11-4]
+
 [^11-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^11-2]: [RU 2003 2460](https://fedlex.data.admin.ch/eli/oc/2003/361)
 [^11-3]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^11-4]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 
 #### Art. 12
 
@@ -219,7 +223,7 @@ Per cofinanziare i contributi della Confederazione all’assicurazione per la ve
 
 [^12-1]: Abrogato dal n. I della LF del 24 mar. 1995, con effetto dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 
-## Sezione 4: Riscossione e restituzione dell’imposta****
+## Sezione 4: Riscossione e restituzione dell’imposta
 
 [^sec4-1]
 
@@ -266,7 +270,7 @@ Mediante un impegno di garanzia (revers) depositato presso la Direzione generale
 
 - a. i fabbricanti di tabacchi manufatti si obbligano a lavorare nella propria azienda o a consegnare unicamente a ditte iscritte nel registro il materiale greggio, importato o acquistato in Svizzera, come anche i tabacchi manufatti, non pronti al consumo, che essi hanno fabbricato o acquistato dalla produzione indigena;
 - b. gli importatori e i negozianti di materiale greggio destinato alla fabbricazione industriale di tabacchi manufatti, si obbligano a consegnare il materiale greggio unicamente alle ditte iscritte nel registro;
-- c. i fabbricanti di tabacchi manufatti, gli importatori di tabacchi manufatti …[^14-1] destinati ad essere rivenduti e i negozianti e gli importatori di materiale greggio si obbligano ad osservare le prescrizioni commerciali della presente legge e dell’ordinanza 15 dicembre 1969[^14-2] concernente l’imposizione sul tabacco.
+- c. i fabbricanti di tabacchi manufatti, gli importatori di tabacchi manufatti ...[^14-1] destinati ad essere rivenduti e i negozianti e gli importatori di materiale greggio si obbligano ad osservare le prescrizioni commerciali della presente legge e dell’ordinanza 15 dicembre 1969[^14-2] concernente l’imposizione sul tabacco.
 
 <sup>2</sup> Ai titolari di impegni di garanzia (revers) è assegnato un numero di controllo.
 
@@ -277,13 +281,14 @@ Mediante un impegno di garanzia (revers) depositato presso la Direzione generale
 
 #### Art. 15
 
-<sup>1</sup> I fabbricanti di tabacchi manufatti, i gestori di depositi fiscali autorizzati, come anche gli importatori e i negozianti di materiale greggio devono tenere un registro di controllo completo che menzioni anche le scorte di magazzino e le loro mutazioni, secondo le istruzioni dell’Amministrazione delle dogane.[^15-1] Essi devono conservare, durante dieci anni, detto registro di controllo, i libri d’affari nonché i documenti giustificativi, presentarli a domanda dell’Amministrazione delle dogane e dare a questa tutte le informazioni sui fatti importanti per l’esecuzione della presente legge. L’Amministrazione delle dogane può, inoltre, far controllare dai suoi organi, in ogni momento e senza preavviso, i locali e gli impianti di fabbricazione, i magazzini e gli altri locali commerciali.
+<sup>1</sup> I fabbricanti di tabacchi manufatti, i gestori di depositi fiscali autorizzati, come anche gli importatori e i negozianti di materiale greggio devono tenere un registro di controllo completo che menzioni anche le scorte di magazzino e le loro mutazioni, secondo le istruzioni dell’UDSC[^15-1].[^15-2] Essi devono conservare, durante dieci anni, detto registro di controllo, i libri d’affari nonché i documenti giustificativi, presentarli a domanda dell’UDSC e dare a questa tutte le informazioni sui fatti importanti per l’esecuzione della presente legge. L’UDSC può, inoltre, far controllare dai suoi organi, in ogni momento e senza preavviso, i locali e gli impianti di fabbricazione, i magazzini e gli altri locali commerciali.
 
-<sup>2</sup> L’utilizzazione o la cessione di materiale greggio per scopi diversi dalla confezione di tabacchi manufatti è subordinata all’autorizzazione dell’Amministrazione delle dogane. Se il materiale greggio è stato importato in franchigia, vengono successivamente riscossi i diritti di dogana.
+<sup>2</sup> L’utilizzazione o la cessione di materiale greggio per scopi diversi dalla confezione di tabacchi manufatti è subordinata all’autorizzazione dell’UDSC. Se il materiale greggio è stato importato in franchigia, vengono successivamente riscossi i diritti di dogana.
 
-<sup>3</sup> La distruzione di materiale greggio e tabacchi manufatti non ancora imposti è subordinata all’autorizzazione dell’Amministrazione delle dogane.
+<sup>3</sup> La distruzione di materiale greggio e tabacchi manufatti non ancora imposti è subordinata all’autorizzazione dell’UDSC.
 
-[^15-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^15-1]: Nuova espr. giusta il n. I 19 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^15-2]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### 4. Prescrizioni di commercio
 
@@ -307,7 +312,7 @@ Per i tabacchi manufatti pronti al consumo, qui menzionati, sono autorizzati uni
 - b. trinciato fino: 250 grammi, al massimo, di contenuto;
 - c. trinciato, diverso dal fino: 1000 grammi, al massimo, di contenuto.
 
-<sup>3</sup> …[^16-3]
+<sup>3</sup> ...[^16-3]
 
 <sup>4</sup> Per l’applicazione della presente legge, l’ordinanza 15 dicembre 1969[^16-4] concernente l’imposizione sul tabacco può imporre obblighi suppletivi ai commercianti e ai negozianti di tabacchi manufatti.
 
@@ -326,7 +331,7 @@ Per i tabacchi manufatti pronti al consumo, qui menzionati, sono autorizzati uni
 
 #### Art. 17
 
-<sup>1</sup> L’aliquota d’imposta applicabile alle sorte di sigari e sigarette fabbricate in Svizzera è prestabilita dall’Amministrazione delle dogane secondo i rapporti che il fabbricante deve presentare conformemente alle disposizioni dell’ordinanza 15 dicembre 1969[^17-1] concernente l’imposizione sul tabacco.
+<sup>1</sup> L’aliquota d’imposta applicabile alle sorte di sigari e sigarette fabbricate in Svizzera è prestabilita dall’UDSC secondo i rapporti che il fabbricante deve presentare conformemente alle disposizioni dell’ordinanza 15 dicembre 1969[^17-1] concernente l’imposizione sul tabacco.
 
 <sup>2</sup> A richiesta, l’aliquota d’imposta per le sorte di sigari e sigarette che un importatore importa regolarmente è pure stabilita conformemente al capoverso 1.
 
@@ -340,15 +345,18 @@ Per i tabacchi manufatti pronti al consumo, qui menzionati, sono autorizzati uni
 
 #### Art. 18
 
-<sup>1</sup> L’imposta sui tabacchi manufatti, fabbricati in Svizzera o immessi in consumo all’uscita di un deposito fiscale autorizzato, è stabilita secondo la dichiarazione fiscale presentata mensilmente dal fabbricante o dal gestore del deposito fiscale autorizzato all’Amministrazione delle dogane.[^18-1]
+<sup>1</sup> L’imposta sui tabacchi manufatti, fabbricati in Svizzera o immessi in consumo all’uscita di un deposito fiscale autorizzato, è stabilita secondo la dichiarazione fiscale presentata mensilmente dal fabbricante o dal gestore del deposito fiscale autorizzato all’UDSC.[^18-1]
 
 <sup>2</sup> La dichiarazione fiscale è vincolante per il compilatore e, riservato il risultato d’un esame ufficiale, costituisce la base per la determinazione dell’imposta in ogni singolo caso.
 
-<sup>3</sup> L’imposta sui tabacchi manufatti importati è stabilita dagli uffici doganali in base alle dichiarazioni doganali loro presentate. La forma della dichiarazione è retta dall’articolo 28 LD[^18-2].[^18-3]
+<sup>2bis</sup> Se la dichiarazione fiscale non è presentata entro il termine stabilito, l’UDSC esegue una tassazione d’ufficio nei limiti del suo potere d’apprezzamento.[^18-2]
+
+<sup>3</sup> L’imposta sui tabacchi manufatti importati è stabilita dagli uffici doganali in base alle dichiarazioni doganali loro presentate. La forma della dichiarazione è retta dall’articolo 28 LD[^18-3].[^18-4]
 
 [^18-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
-[^18-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^18-3]: Nuovo testo giusta il n. 8 dell’all. alla L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^18-2]: Introdotto dal n. I 5 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^18-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^18-4]: Nuovo testo giusta l’all. n. 8 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 ### 3. Esigibilità
 
@@ -358,12 +366,12 @@ Per i tabacchi manufatti pronti al consumo, qui menzionati, sono autorizzati uni
 
 #### Art. 19
 
-<sup>1</sup> L’imposta è esigibile al momento in cui sorge il credito fiscale. Per gli assoggettati all’imposta che hanno prestato garanzia secondo gli articoli 21 capoverso 1 o 26*c*, il termine di pagamento scade l’ultimo giorno del secondo mese successivo al giorno dell’esigibilità. L’Amministrazione delle dogane può eccezionalmente prorogare il termine di pagamento.[^19-1]
+<sup>1</sup> L’imposta è esigibile al momento in cui sorge il credito fiscale. Per gli assoggettati all’imposta che hanno prestato garanzia secondo gli articoli 21 capoverso 1 o 26*c*, il termine di pagamento scade l’ultimo giorno del secondo mese successivo al giorno dell’esigibilità. L’UDSC può eccezionalmente prorogare il termine di pagamento.[^19-1]
 
 <sup>2</sup> Per le importazioni in traffico postale e turistico, per cui l’importatore non produce una dichiarazione doganale scritta (art. 18 cpv. 3) e nei casi in cui non sussiste una garanzia conformemente all’articolo 21, l’imposta dev’essere pagata secondo le disposizioni concernenti i tributi doganali.[^19-2]
 
 [^19-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
-[^19-2]: Nuovo testo giusta il n. 8 dell’all. alla L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^19-2]: Nuovo testo giusta l’all. n. 8 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 ### II<sup>bis</sup>. Interessi
 
@@ -373,7 +381,7 @@ Per i tabacchi manufatti pronti al consumo, qui menzionati, sono autorizzati uni
 
 <sup>1</sup> In caso di ritardo nel pagamento dell’imposta è dovuto un interesse di mora a contare dalla sua esigibilità.
 
-<sup>2</sup> L’Amministrazione delle dogane deve versare un interesse remunerativo a partire dal momento in cui, a torto, ha riscosso un importo o non lo ha rimborsato.
+<sup>2</sup> L’UDSC deve versare un interesse remunerativo a partire dal momento in cui, a torto, ha riscosso un importo o non lo ha rimborsato.
 
 <sup>3</sup> Il Consiglio federale può prevedere eccezioni per la riscossione dell’interesse di mora.
 
@@ -385,7 +393,7 @@ Per i tabacchi manufatti pronti al consumo, qui menzionati, sono autorizzati uni
 
 #### Art. 21
 
-<sup>1</sup> I fabbricanti e gli importatori di tabacchi manufatti iscritti nel registro di cui all’articolo 13 devono prestare garanzia secondo le forme previste nell’articolo 76 LD[^21-1]. La garanzia assicura tutti i crediti che l’Amministrazione delle dogane ha verso il fabbricante e l’importatore per il loro obbligo di pagare l’imposta sul tabacco, i diritti doganali e l’imposta sul valore aggiunto.[^21-2] La garanzia è liberata quando siano stati adempiuti tutti gli obblighi. L’importo della garanzia è stabilito dalla Direzione generale delle dogane.
+<sup>1</sup> I fabbricanti e gli importatori di tabacchi manufatti iscritti nel registro di cui all’articolo 13 devono prestare garanzia secondo le forme previste nell’articolo 76 LD[^21-1]. La garanzia assicura tutti i crediti che l’UDSC ha verso il fabbricante e l’importatore per il loro obbligo di pagare l’imposta sul tabacco, i diritti doganali e l’imposta sul valore aggiunto.[^21-2] La garanzia è liberata quando siano stati adempiuti tutti gli obblighi. L’importo della garanzia è stabilito dalla Direzione generale delle dogane.
 
 <sup>2</sup> La Confederazione ha un diritto di pegno legale sui tabacchi manufatti per cui l’imposta è dovuta (diritto di pegno in materia d’imposta sul tabacco). Le nome sul pegno doganale sono applicabili per analogia.
 
@@ -396,7 +404,7 @@ Per i tabacchi manufatti pronti al consumo, qui menzionati, sono autorizzati uni
 
 #### Art. 22
 
-<sup>1</sup> Se, in seguito ad errore dell’Amministrazione delle dogane, un’imposta non fosse stata determinata affatto o lo fosse stata insufficientemente oppure un rimborso fosse stato stabilito troppo alto, può essere rivendicata la differenza, in quanto non sia prescritta giusta l’articolo 23.
+<sup>1</sup> Se, in seguito ad errore dell’UDSC, un’imposta non fosse stata determinata affatto o lo fosse stata insufficientemente oppure un rimborso fosse stato stabilito troppo alto, può essere rivendicata la differenza, in quanto non sia prescritta giusta l’articolo 23.
 
 <sup>2</sup> Se la verificazione ufficiale della determinazione dell’imposta o il controllo aziendale fa scoprire che un’imposta è stata riscossa indebitamente, la somma pagata di troppo è restituita d’ufficio.
 
@@ -431,8 +439,8 @@ Per i tabacchi manufatti pronti al consumo, qui menzionati, sono autorizzati uni
 
 L’imposta sui tabacchi manufatti fabbricati in Svizzera e sui tabacchi manufatti importati è rimborsata all’assoggettato se:
 
-- a.[^24-1] la merce è esportata in territorio doganale estero, sotto vigilanza doganale, per il tramite degli uffici doganali designati dall’Amministrazione delle dogane, o introdotta in un negozio in Svizzera in zona franca di tasse secondo l’articolo 17 capoverso 1<sup>bis</sup> LD[^24-2];
-- b. la merce è rimasta presso il fabbricante o l’importatore oppure il fabbricante, l’importatore o il gestore di un deposito fiscale autorizzato l’hanno ritirata dal mercato, a condizione che, entro due anni dal pagamento dell’imposta, venga presentata, in imballaggi intatti per la vendita al minuto, all’Amministrazione delle dogane e, sotto il controllo di questa, venga resa inutilizzabile o trattata in modo da poter essere reimpiegata nella fabbricazione;
+- a.[^24-1] la merce è esportata in territorio doganale estero, sotto vigilanza doganale, per il tramite degli uffici doganali designati dall’UDSC, o introdotta in un negozio in Svizzera in zona franca di tasse secondo l’articolo 17 capoverso 1<sup>bis</sup> LD[^24-2];
+- b. la merce è rimasta presso il fabbricante o l’importatore oppure il fabbricante, l’importatore o il gestore di un deposito fiscale autorizzato l’hanno ritirata dal mercato, a condizione che, entro due anni dal pagamento dell’imposta, venga presentata, in imballaggi intatti per la vendita al minuto, all’UDSC e, sotto il controllo di questa, venga resa inutilizzabile o trattata in modo da poter essere reimpiegata nella fabbricazione;
 - c. è provato che la merce è stata distrutta o resa inutilizzabile, accidentalmente o per forza maggiore, nell’azienda del fabbricante o dell’importatore.[^24-3]
 
 <sup>2</sup> Il termine e la procedura per le domande di rimborso sono stabiliti nell’ordinanza 15 dicembre 1969[^24-4]concernente l’imposizione sul tabacco.
@@ -462,7 +470,7 @@ L’imposta sui tabacchi manufatti fabbricati in Svizzera e sui tabacchi manufat
 [^25-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^25-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
-## Sezione 5: Depositi fiscali autorizzati****
+## Sezione 5: Depositi fiscali autorizzati
 
 [^sec5-1]
 
@@ -493,7 +501,7 @@ Possono essere autorizzati come depositi fiscali:
 - a. aziende di fabbricazione;
 - b. depositi franchi.
 
-<sup>2</sup> Il Consiglio federale stabilisce le condizioni per l’istituzione e per la gestione di depositi fiscali autorizzati; l’Amministrazione delle dogane rilascia l’autorizzazione.
+<sup>2</sup> Il Consiglio federale stabilisce le condizioni per l’istituzione e per la gestione di depositi fiscali autorizzati; l’UDSC rilascia l’autorizzazione.
 
 <sup>3</sup>
 
@@ -510,7 +518,7 @@ L’autorizzazione è ritirata se:
 
 [^26b-1]
 
-I depositi fiscali autorizzati sottostanno alla vigilanza dell’Amministrazione delle dogane.
+I depositi fiscali autorizzati sottostanno alla vigilanza dell’UDSC.
 
 [^26b-1]: Introdotto dal n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
@@ -551,11 +559,11 @@ La garanzia termina quando:
 - a. i tabacchi manufatti arrivano al deposito fiscale autorizzato e la loro entrata è registrata nella dovuta forma; o
 - b. l’esportazione dei tabacchi manufatti è attestata dalla dogana.
 
-<sup>4</sup> Il gestore del deposito fiscale autorizzato annuncia all’Amministrazione delle dogane ogni spedizione di tabacchi manufatti non ancora imposti.
+<sup>4</sup> Il gestore del deposito fiscale autorizzato annuncia all’UDSC ogni spedizione di tabacchi manufatti non ancora imposti.
 
 [^26e-1]: Introdotto dal n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
-## Sezione 6: Tabacco indigeno****
+## Sezione 6: Tabacco indigeno
 
 [^sec6-1]
 
@@ -606,7 +614,7 @@ Il Consiglio federale può:
 
 Il Consiglio federale può chiedere la collaborazione dei Cantoni e delle organizzazioni economiche. Chiunque sia chiamato a collaborare è sottoposto alle disposizioni sul segreto d’ufficio, applicabili al personale federale.
 
-## Sezione 7: Restituzione di un importo rimborsato o condonato a torto****
+## Sezione 7: Restituzione di un importo rimborsato o condonato a torto
 
 [^sec7-1]
 
@@ -616,15 +624,15 @@ Il Consiglio federale può chiedere la collaborazione dei Cantoni e delle organi
 
 [^30-1]
 
-<sup>1</sup> Se l’imposta è stata rimborsata o condonata a torto, l’Amministrazione delle dogane ne chiede la restituzione.
+<sup>1</sup> Se l’imposta è stata rimborsata o condonata a torto, l’UDSC ne chiede la restituzione.
 
-<sup>2</sup> Il diritto alla restituzione si prescrive in cinque anni a contare dal momento in cui l’Amministrazione delle dogane ne ha avuto notizia, ma al più tardi in dieci anni a contare dal giorno in cui è sorto.
+<sup>2</sup> Il diritto alla restituzione si prescrive in cinque anni a contare dal momento in cui l’UDSC ne ha avuto notizia, ma al più tardi in dieci anni a contare dal giorno in cui è sorto.
 
 <sup>3</sup> La prescrizione è interrotta da qualsiasi azione ufficiale per far valere la restituzione; essa è sospesa fintanto che l’assoggettato non può essere escusso in Svizzera.
 
 [^30-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
-## Sezione 8: Rimedi giuridici****
+## Sezione 8: Rimedi giuridici
 
 [^sec8-1]
 
@@ -663,9 +671,9 @@ Il Consiglio federale può chiedere la collaborazione dei Cantoni e delle organi
 
 [^33-1]
 
-[^33-1]: Abrogato dal n. 53 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^33-1]: Abrogato dall’all. n. 53 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## Sezione 9: Disposizioni penali****
+## Sezione 9: Disposizioni penali
 
 [^sec9-1]
 
@@ -673,7 +681,7 @@ Il Consiglio federale può chiedere la collaborazione dei Cantoni e delle organi
 
 ### I. Infrazioni
 
-### 1. …
+### 1. ...
 
 #### Art. 34
 
@@ -718,18 +726,21 @@ Chiunque, intenzionalmente o per negligenza, compromette l’applicazione legale
 - d. contravvenendo all’obbligo di tenere regolarmente e di conservare i libri di commercio, i registri e i documenti giustificativi;
 - e. aggravando, impedendo o impossibilitando l’esecuzione normale di una verifica contabile, d’un altro controllo ufficiale o di un’ispezione locale;
 - f. consegnando materiale greggio, per la fabbricazione di tabacchi manufatti, a persone o ditte non iscritte nel registro;
-- g. cedendo o impiegando, senza autorizzazione dell’Amministra- zione delle dogane, materiale greggio a scopi diversi dalla fabbricazione di tabacchi manufatti;
+- g. cedendo o impiegando, senza autorizzazione l’UDSC, materiale greggio a scopi diversi dalla fabbricazione di tabacchi manufatti;
 - h. vendendo tabacchi manufatti ad un prezzo superiore a quello indicato sul pacchetto di vendita al dettaglio,
 
 <sup>2</sup> Sono fatti salvi gli articoli 14–16 DPA[^36-2].
 
 <sup>3</sup> In caso di circostanze aggravanti, l’importo massimo della multa è aumentato della metà. Può inoltre essere pronunciata una pena detentiva fino a un anno.
 
-<sup>4</sup> È fatta salva l’azione penale conformemente all’articolo 285 del Codice penale[^36-3] se si tratta di un’infrazione ai sensi del capoverso 1 lettera e.
+<sup>3bis</sup> Se non può essere accertato esattamente, l’ammontare dell’imposta messa in pericolo è stimato dall’ UDSC nei limiti del suo potere d’apprezzamento.[^36-3]
+
+<sup>4</sup> È fatta salva l’azione penale conformemente all’articolo 285 del Codice penale[^36-4] se si tratta di un’infrazione ai sensi del capoverso 1 lettera e.
 
 [^36-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^36-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^36-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^36-3]: Introdotto dal n. I 5 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^36-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ### 4. Ricettazione fiscale
 
@@ -739,7 +750,7 @@ Chiunque, intenzionalmente o per negligenza, compromette l’applicazione legale
 
 Chiunque acquista, riceve in dono, in pegno o comunque in consegna, occulta, aiuta a spacciare o mette in circolazione tabacchi manufatti, di cui sa o deve presumere che l’imposta è stata sottratta, è punito con la pena applicabile all’autore.
 
-[^37-1]: Nuovo testo giusta il n. 9 dell’all. al DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^37-1]: Nuovo testo giusta l’all. n. 9 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
 ### 5. Tentativo
 
@@ -789,7 +800,7 @@ Se la multa applicabile non supera i 100 000 franchi e se la determinazione dell
 
 [^41-1]
 
-[^41-1]: Abrogato dal n. 9 dell’all. al DPA, con effetto dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^41-1]: Abrogato dall’all. n. 9 del DPA, con effetto dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
 ### 7. Concorso di reati
 
@@ -809,7 +820,7 @@ Se un atto costituisce contemporaneamente una sottrazione o messa in pericolo de
 
 <sup>1</sup> Le infrazioni sono perseguite e giudicate conformemente alla presente legge e al DPA[^43-2].
 
-<sup>2</sup> L’autorità incaricata del procedimento e del giudizio è l’Amministrazione delle dogane.
+<sup>2</sup> L’autorità incaricata del procedimento e del giudizio è l’UDSC.
 
 [^43-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^43-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
@@ -843,7 +854,7 @@ Il provento delle multe è devoluto alla cassa federale.
 
 [^44bis-1]: Introdotto dal n. I della LF del 24 mar. 1995, in vigore dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 
-## Sezione 10: Disposizioni finali****
+## Sezione 10: Disposizioni finali
 
 [^sec10-1]
 
@@ -872,13 +883,13 @@ A contare dall’entrata in vigore della presente legge sono abrogati:
 [^46-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^46-2]: [RU 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277)
 
-### III …
+### III ...
 
 #### Art. 47
 
 [^47-1]
 
-[^47-1]: Abrogato dal n. 8 dell’all. alla L del 18 mar. 2005 sulle dogane, con effetto dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^47-1]: Abrogato dall’all. n. 8 della L del 18 mar. 2005 sulle dogane, con effetto dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 ### IV. Entrata in vigore ed esecuzione
 
@@ -890,7 +901,7 @@ Data dell’entrata in vigore: 1° gennaio 1970[^48-1]
 
 [^48-1]: DCF del 7 ago. 1969.
 
-## Disposizioni transitorie relative alla modifica del 14 novembre 2012****
+## Disposizioni transitorie relative alla modifica del 14 novembre 2012
 
 [^u1-1]
 
@@ -903,7 +914,7 @@ Data dell’entrata in vigore: 1° gennaio 1970[^48-1]
 - a. quantità che non superano le vendite in Svizzera e le importazioni del periodo di riferimento 2011/2012, ridotte del 5 per cento: secondo la tariffa d’imposta valida fino al 31 marzo 2013;
 - b. quantità supplementari: secondo la nuova tariffa d’imposta.
 
-Allegato I*[^t-2]*
+Allegato I[^t-2]
 
 (art. 11 cpv. 1)
 
@@ -918,7 +929,7 @@ Osservazioni
 - 1\. La competenza di cui dispone il Consiglio federale giusta l’articolo 11 capoverso 2 lettera a di aumentare dell’80 per cento le aliquote d’imposta si riferisce all’imposta stabilita per pezzo e all’imposta minima per pezzo, ma non alla parte d’imposta stabilita in funzione del prezzo di vendita al minuto.
 - 2\. L’aliquota d’imposta globale per 1000 pezzi risultante dall’elemento specifico relativo al numero di pezzi e dall’elemento proporzionale relativo al prezzo di vendita al minuto dev’essere arrotondato ai 5 centesimi per eccesso. Le frazioni di centesimo non contano.
 
-Allegato II*[^t-3]*
+Allegato II[^t-3]
 
 (art. 11 cpv. 1)
 
@@ -933,7 +944,7 @@ Osservazioni
 - 1\. La competenza di cui dispone il Consiglio federale giusta l’articolo 11 capoverso 2 lettera b di aumentare del 300 per cento le aliquote d’imposta si riferisce all’imposta stabilita per pezzo, ma non alla parte d’imposta stabilita in funzione del prezzo di vendita al minuto.
 - 2\. L’aliquota d’imposta globale per 1000 pezzi risultante dall’elemento specifico relativo al numero di pezzi e dall’elemento proporzionale relativo al prezzo di vendita al minuto dev’essere arrotondato ai 5 centesimi per eccesso. Le frazioni di centesimo non contano.
 
-Allegato III*[^t-4]*
+Allegato III[^t-4]
 
 (art. 11 cpv. 1)
 
@@ -948,7 +959,7 @@ Osservazioni
 - 1\. La competenza di cui dispone il Consiglio federale giusta l’articolo 11 capoverso 2 lettera c di aumentare dell’80 per cento le aliquote d’imposta si riferisce all’imposta stabilita per chilogrammo e all’imposta minima per chilogrammo, ma non alla parte d’imposta stabilita in funzione del prezzo di vendita al minuto.
 - 2\. L’aliquota d’imposta globale per chilogrammo risultante dall’elemento specifico relativo al peso in chilogrammi e dall’elemento proporzionale relativo al prezzo di vendita al minuto dev’essere arrotondato ai 5 centesimi per eccesso. Le frazioni di centesimo non contano.
 
-Allegato IV*[^t-5]*
+Allegato IV[^t-5]
 
 (art. 11 cpv. 1)
 
@@ -963,6 +974,6 @@ L’imposta ammonta a:
 - b. per il tabacco da masticare e da fiuto:
 - 6 per cento del prezzo al minuto.
 
-Allegato V*[^t-6]*
+Allegato V[^t-6]
 
 [^t-6]: Abrogato dal n. II cpv. 2 della LF del 19 dic. 2008, con effetto dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).

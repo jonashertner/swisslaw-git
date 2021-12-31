@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 21. März 1969 über die Tabakbesteuerung (Tabaksteuerg
 short: TStG
 eli: "https://fedlex.data.admin.ch/eli/cc/1969/645_665_663"
 language: de
-version: 2017-09-01
+version: 2022-01-01
 adopted: 1969-03-21
 in_force: 1970-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20170901/de/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20170901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20170901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20170901/de"
 
 (Tabaksteuergesetz, TStG)**[^t-1]**
 
-vom 21. März 1969 (Stand am 1. September 2017)
+vom 21. März 1969 (Stand am 1. Januar 2022) (Stand am 1. Januar 2022)
 
 [^t-1]: Eingefügt durch Anhang Ziff. 8 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
@@ -43,22 +43,23 @@ beschliesst:
 
 [^1-1]
 
-<sup>1</sup> Der Bund erhebt eine Steuer auf Tabakfabrikaten …[^1-2] sowie auf Erzeugnissen, die wie Tabak verwendet werden (Ersatzprodukte).
+<sup>1</sup> Der Bund erhebt eine Steuer auf Tabakfabrikaten ...[^1-2] sowie auf Erzeugnissen, die wie Tabak verwendet werden (Ersatzprodukte).
 
 <sup>2</sup> Die in diesem Gesetz verwendeten Begriffe Tabakfabrikate und Ersatzprodukte werden in der Tabaksteuerverordnung vom 15. Dezember 1969[^1-3] näher festgelegt.
 
 [^1-1]: Fassung gemäss Ziff. I des BG vom 24. März 1995, in Kraft seit 1. März 1996 ([AS 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [BBl 1995 I 89](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 [^1-2]: Ausdruck gestrichen durch Ziff. I des BG vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)). Die Anpassung wurde im ganzen Erlass berücksichtigt.
-[^1-3]: [[AS 1969 1274](https://fedlex.data.admin.ch/eli/oc/1969/1274_1286_1289), [1974 1021](https://fedlex.data.admin.ch/eli/oc/1974/1021_1021_1021)Art. 4 Abs. 1, **1987** 2474, [1993 331](https://fedlex.data.admin.ch/eli/oc/1993/331_331_331)Ziff. I 5, [1996 590](https://fedlex.data.admin.ch/eli/oc/1996/590_590_590), [1997 376](https://fedlex.data.admin.ch/eli/oc/1997/376_376_376), [2003 2465](https://fedlex.data.admin.ch/eli/oc/2003/363), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 25, [2008 3159](https://fedlex.data.admin.ch/eli/oc/2008/419)Ziff. II. [AS 2009 5577](https://fedlex.data.admin.ch/eli/oc/2009/677)Art. 43]. Siehe heute: die Tabaksteuerverordnung vom 14. Okt. 2009 ([SR 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)).
+[^1-3]: [AS **1****969** 1274; **1974** 1021 Art. 4 Abs. 1; **1987** 2474; **1993** 331 Ziff. I 5; **1996** 590; **1997** 376; **2003** 2465; **2007** 1469 Anhang 4 Ziff. 25; **2008** 3159 Ziff. II. [AS 2009 5577](https://fedlex.data.admin.ch/eli/oc/2009/677)Art. 43]. Siehe heute: die Tabaksteuerverordnung vom 14. Okt. 2009 ([SR 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)).
 
 ### II. Behörden
 
 #### Art. 2
 
-Die Eidgenössische Zollverwaltung (Zollverwaltung)[^2-1] erlässt hinsichtlich der Abgaben auf Tabakfabrikaten (Tabaksteuer, Zoll, Mehrwertsteuer) alle Weisungen, Verfügungen und Entscheide, die nicht ausdrücklich einer anderen Behörde vorbehalten sind.[^2-2] Sie ist ermächtigt, den im Register der Hersteller, Importeure und Rohmaterialhändler eingetragenen Firmen Weisungen über die für die Abgabenerhebung und -rückerstattung sowie zu Kontrollzwecken erforderlichen Angaben, Nachweise und Vorkehren zu erteilen.
+[^2-1]
 
-[^2-1]: Ausdruck gemäss Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [BBl 2016 5153](https://fedlex.data.admin.ch/eli/fga/2016/1113)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
-[^2-2]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+Das Bundesamt für Zoll und Grenzsicherheit (BAZG) erlässt hinsichtlich der Abgaben auf Tabakfabrikaten (Tabaksteuer, Zoll, Mehrwertsteuer) alle Weisungen, Verfügungen und Entscheide, die nicht ausdrücklich einer anderen Behörde vorbehalten sind. Es ist ermächtigt, den im Register der Hersteller, Importeure und Rohmaterialhändler eingetragenen Firmen Weisungen über die für die Abgabenerhebung und -rückerstattung sowie zu Kontrollzwecken erforderlichen Angaben, Nachweise und Vorkehren zu erteilen.
+
+[^2-1]: Fassung gemäss Ziff. I 19 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ### III. Anwendbares Recht
 
@@ -81,10 +82,10 @@ Soweit dieses Gesetz und die gestützt darauf erlassenen Verordnungen nicht eige
 Der Steuer unterliegen:
 
 - a. die im Inland gewerbsmässig hergestellten, verbrauchsfertigen Tabakfabrikate sowie die eingeführten Tabakfabrikate;
-- b. …[^4-1]
+- b. ...[^4-1]
 - c.[^4-2] Ersatzprodukte.
 
-<sup>2</sup> …[^4-3]
+<sup>2</sup> ...[^4-3]
 
 <sup>3</sup> Als verbrauchsfertig gelten Tabakfabrikate, die bis zum Verbrauch keinem weiteren gewerbsmässigen Produktionsvorgang unterliegen.
 
@@ -103,7 +104,7 @@ Der Steuer unterliegen:
 Von der Steuer sind befreit:
 
 - a.[^5-1] zollfreie Waren nach Artikel 8 ZG[^5-2];
-- b. …[^5-3]
+- b. ...[^5-3]
 - c. Tabakfabrikate, die nicht für den Verbrauch bestimmt sind;
 - d.[^5-4] Tabakfabrikate zur Linderung von Asthmabeschwerden, wenn sie als Heilmittel registriert sind.
 
@@ -267,7 +268,7 @@ Durch einen bei der Oberzolldirektion zu hinterlegenden Revers haben sich zu ver
 
 - a. der Hersteller von Tabakfabrikaten:
 - das von ihm eingeführte oder im Inland erworbene Rohmaterial sowie die von ihm hergestellten oder aus der inländischen Produktion erworbenen, nicht verbrauchsfertigen Tabakfabrikate im eigenen Betrieb weiterzuverarbeiten oder nur an im Register eingetragene Firmen abzugeben;
-- b. der Importeur und Händler von Rohmaterial zur gewerbsmässigen Herstellung von Tabakfabrikaten …[^14-1] :
+- b. der Importeur und Händler von Rohmaterial zur gewerbsmässigen Herstellung von Tabakfabrikaten ...[^14-1] :
 - das Rohmaterial nur an im Register eingetragene Firmen abzugeben;
 - c. der Hersteller von Tabakfabrikaten, der Importeur von Tabakfabrikaten zum Weiterverkauf sowie der Importeur und Händler von Rohmaterial:
 - die durch dieses Gesetz und die Tabaksteuerverordnung vom 15. Dezember 1969[^14-2] aufgestellten Handelsvorschriften zu befolgen.
@@ -281,13 +282,14 @@ Durch einen bei der Oberzolldirektion zu hinterlegenden Revers haben sich zu ver
 
 #### Art. 15
 
-<sup>1</sup> Die Hersteller von Tabakfabrikaten, die Betreiber von zugelassenen Steuerlagern sowie die Importeure und Händler von Rohmaterial haben eine umfassende, auch Lagerbestände und -bewegungen verzeichnende Kontrolle zu führen, deren Bestandteile und Einrichtungen durch die Zollverwaltung bestimmt werden.[^15-1] Sie haben diese Kontrolle sowie die Geschäftsbücher mit den Belegen während zehn Jahren aufzubewahren, sie der Zollverwaltung auf Verlangen vorzulegen oder einzureichen und der Zollverwaltung über alle Tatsachen, die für den Vollzug dieses Gesetzes von Bedeutung sein können, Auskunft zu erteilen. Die Zollverwaltung ist zudem befugt, Fabrikationsanlagen, Warenlager und andere Geschäftsräumlichkeiten durch ihre Organe jederzeit ohne Voranmeldung zu kontrollieren.
+<sup>1</sup> Die Hersteller von Tabakfabrikaten, die Betreiber von zugelassenen Steuerlagern sowie die Importeure und Händler von Rohmaterial haben eine umfassende, auch Lagerbestände und -bewegungen verzeichnende Kontrolle zu führen, deren Bestandteile und Einrichtungen durch das BAZG[^15-1] bestimmt werden.[^15-2] Sie haben diese Kontrolle sowie die Geschäftsbücher mit den Belegen während zehn Jahren aufzubewahren, sie dem BAZG auf Verlangen vorzulegen oder einzureichen und dem BAZG über alle Tatsachen, die für den Vollzug dieses Gesetzes von Bedeutung sein können, Auskunft zu erteilen. Das BAZG ist zudem befugt, Fabrikationsanlagen, Warenlager und andere Geschäftsräumlichkeiten durch seine Organe jederzeit ohne Voranmeldung zu kontrollieren.
 
-<sup>2</sup> Rohmaterial darf nur mit Bewilligung der Zollverwaltung zu anderen Zwecken als zur Herstellung von Tabakfabrikaten abgegeben oder verwendet werden. Für zollfrei eingeführtes Rohmaterial ist zudem das Zollbetreffnis nachzuentrichten.
+<sup>2</sup> Rohmaterial darf nur mit Bewilligung des BAZG zu anderen Zwecken als zur Herstellung von Tabakfabrikaten abgegeben oder verwendet werden. Für zollfrei eingeführtes Rohmaterial ist zudem das Zollbetreffnis nachzuentrichten.
 
-<sup>3</sup> Rohmaterial und noch nicht versteuerte Tabakfabrikate dürfen nur mit Bewilligung der Zollverwaltung vernichtet werden.
+<sup>3</sup> Rohmaterial und noch nicht versteuerte Tabakfabrikate dürfen nur mit Bewilligung des BAZG vernichtet werden.
 
-[^15-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^15-1]: Ausdruck gemäss Ziff. I 19 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^15-2]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### 4. Handelsvorschriften
 
@@ -311,7 +313,7 @@ Für die hiernach genannten verbrauchsfertigen Tabakfabrikate sind nur folgende 
 - b. Feinschnitt-Tabak: höchstens 250 g Inhalt;
 - c. anderer Schnitttabak als Feinschnitt: höchstens 1000 g Inhalt.
 
-<sup>3</sup> …[^16-3]
+<sup>3</sup> ...[^16-3]
 
 <sup>4</sup> Um die Durchführung dieses Gesetzes zu sichern, können in der Tabaksteuerverordnung vom 15. Dezember 1969[^16-4] den Herstellern und Wiederverkäufern von Tabakfabrikaten weitere Verhaltenspflichten auferlegt werden.
 
@@ -330,7 +332,7 @@ Für die hiernach genannten verbrauchsfertigen Tabakfabrikate sind nur folgende 
 
 #### Art. 17
 
-<sup>1</sup> Für die im Inland hergestellten Zigarren- und Zigarettensorten setzt die Zollverwaltung den anwendbaren Steuersatz gestützt auf Anmeldungen, die vom Hersteller gemäss den Bestimmungen der Tabaksteuerverordnung vom 15. Dezember 1969[^17-1] einzureichen sind, zum voraus fest.
+<sup>1</sup> Für die im Inland hergestellten Zigarren- und Zigarettensorten setzt das BAZG den anwendbaren Steuersatz gestützt auf Anmeldungen, die vom Hersteller gemäss den Bestimmungen der Tabaksteuerverordnung vom 15. Dezember 1969[^17-1] einzureichen sind, zum voraus fest.
 
 <sup>2</sup> Für Zigarren- und Zigarettensorten, die von einem Importeur regelmässig eingeführt werden, wird der Steuersatz auf Antrag ebenfalls gemäss Absatz 1 festgesetzt.
 
@@ -344,15 +346,18 @@ Für die hiernach genannten verbrauchsfertigen Tabakfabrikate sind nur folgende 
 
 #### Art. 18
 
-<sup>1</sup> Die Steuer auf den im Inland hergestellten oder aus einem zugelassenen Steuerlager in den steuerrechtlich freien Verkehr übergeführten Tabakfabrikaten wird aufgrund der Steuerdeklaration festgesetzt, die vom Hersteller oder vom Betreiber des zugelassenen Steuerlagers der Zollverwaltung monatlich einzureichen ist.[^18-1]
+<sup>1</sup> Die Steuer auf den im Inland hergestellten oder aus einem zugelassenen Steuerlager in den steuerrechtlich freien Verkehr übergeführten Tabakfabrikaten wird aufgrund der Steuerdeklaration festgesetzt, die vom Hersteller oder vom Betreiber des zugelassenen Steuerlagers dem BAZG monatlich einzureichen ist.[^18-1]
 
 <sup>2</sup> Die Steuerdeklaration ist für den Aussteller verbindlich und bildet, vorbehältlich des Ergebnisses der amtlichen Prüfung, die Grundlage für die Festsetzung des Betrages der Steuer im Einzelfalle.
 
-<sup>3</sup> Die Steuer auf den eingeführten Tabakfabrikaten wird von den Zollstellen auf Grund der ihnen einzureichenden Zollanmeldungen festgesetzt. Die Form der Zollanmeldung richtet sich nach Artikel 28 ZG[^18-2].[^18-3]
+<sup>2bis</sup> Wird die Steuerdeklaration nicht fristgerecht eingereicht, so schätzt das BAZG den Steuerbetrag nach pflichtgemässem Ermessen.[^18-2]
+
+<sup>3</sup> Die Steuer auf den eingeführten Tabakfabrikaten wird von den Zollstellen auf Grund der ihnen einzureichenden Zollanmeldungen festgesetzt. Die Form der Zollanmeldung richtet sich nach Artikel 28 ZG[^18-3].[^18-4]
 
 [^18-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)).
-[^18-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^18-3]: Fassung gemäss Anhang Ziff. 8 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^18-2]: Eingefügt durch Ziff. I 5 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^18-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^18-4]: Fassung gemäss Anhang Ziff. 8 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 ### 3. Fälligkeit
 
@@ -362,7 +367,7 @@ Für die hiernach genannten verbrauchsfertigen Tabakfabrikate sind nur folgende 
 
 #### Art. 19
 
-<sup>1</sup> Die Steuer wird mit der Entstehung der Steuerschuld fällig. Für Steuerpflichtige, die eine Sicherheit nach Artikel 21 Absatz 1 oder 26*c* geleistet haben, läuft die Zahlungsfrist bis zum letzten Tag des zweiten Monats, der auf den Fälligkeitstag folgt. Die Zollverwaltung kann ausnahmsweise weitere Zahlungsfristen vorsehen.[^19-1]
+<sup>1</sup> Die Steuer wird mit der Entstehung der Steuerschuld fällig. Für Steuerpflichtige, die eine Sicherheit nach Artikel 21 Absatz 1 oder 26*c* geleistet haben, läuft die Zahlungsfrist bis zum letzten Tag des zweiten Monats, der auf den Fälligkeitstag folgt. Das BAZG kann ausnahmsweise weitere Zahlungsfristen vorsehen.[^19-1]
 
 <sup>2</sup> Für die Einfuhren im Post- und Reiseverkehr ohne schriftliche Zollanmeldung des Importeurs (Art. 18 Abs. 3) sowie in Fällen, in denen eine Sicherheit nach Artikel 21 nicht besteht, ist die Steuer nach den für die Zollabgaben geltenden Vorschriften zu entrichten.[^19-2]
 
@@ -377,7 +382,7 @@ Für die hiernach genannten verbrauchsfertigen Tabakfabrikate sind nur folgende 
 
 <sup>1</sup> Bei verspäteter Zahlung der Steuer ist ab ihrer Fälligkeit ein Verzugszins geschuldet.
 
-<sup>2</sup> Ab dem Zeitpunkt, in dem die Zollverwaltung einen Betrag zu Unrecht erhoben oder nicht zurückerstattet hat, schuldet sie einen Vergütungszins.
+<sup>2</sup> Ab dem Zeitpunkt, in dem das BAZG einen Betrag zu Unrecht erhoben oder nicht zurückerstattet hat, schuldet es einen Vergütungszins.
 
 <sup>3</sup> Der Bundesrat kann für die Erhebung des Verzugszinses Ausnahmen vorsehen.
 
@@ -389,7 +394,7 @@ Für die hiernach genannten verbrauchsfertigen Tabakfabrikate sind nur folgende 
 
 #### Art. 21
 
-<sup>1</sup> Die im Register nach Artikel 13 eingetragenen Hersteller und Importeure von Tabakfabrikaten haben eine Sicherheit in den nach Artikel 76 ZG[^21-1] vorgesehenen Formen zu leisten. Die Sicherheit haftet für alle sich aus der Tabaksteuer-, Zoll- und Mehrwertsteuerpflicht des Herstellers und des Importeurs ergebenden und damit im Zusammenhang stehenden Forderungen der Zollverwaltung.[^21-2] Sie darf erst freigegeben werden, wenn sämtliche Verpflichtungen erfüllt sind. Die Höhe der Sicherheit wird durch die Oberzolldirektion bestimmt.
+<sup>1</sup> Die im Register nach Artikel 13 eingetragenen Hersteller und Importeure von Tabakfabrikaten haben eine Sicherheit in den nach Artikel 76 ZG[^21-1] vorgesehenen Formen zu leisten. Die Sicherheit haftet für alle sich aus der Tabaksteuer-, Zoll- und Mehrwertsteuerpflicht des Herstellers und des Importeurs ergebenden und damit im Zusammenhang stehenden Forderungen des BAZG.[^21-2] Sie darf erst freigegeben werden, wenn sämtliche Verpflichtungen erfüllt sind. Die Höhe der Sicherheit wird durch die Oberzolldirektion bestimmt.
 
 <sup>2</sup> An Tabakfabrikaten, für die die Abgabenschuld entstanden ist, besteht ein gesetzliches Pfandrecht des Bundes (Tabaksteuerpfandrecht). Die für das Zollpfandrecht geltenden Vorschriften finden entsprechend Anwendung.
 
@@ -400,7 +405,7 @@ Für die hiernach genannten verbrauchsfertigen Tabakfabrikate sind nur folgende 
 
 #### Art. 22
 
-<sup>1</sup> Ist infolge Irrtums der Zollverwaltung eine geschuldete Steuer gar nicht oder zu niedrig oder ein rückvergüteter Steuerbetrag zu hoch festgesetzt worden, so wird der entgangene Betrag nachgefordert, solange nicht die Verjährung gemäss Artikel 23 eingetreten ist.
+<sup>1</sup> Ist infolge Irrtums des BAZG eine geschuldete Steuer gar nicht oder zu niedrig oder ein rückvergüteter Steuerbetrag zu hoch festgesetzt worden, so wird der entgangene Betrag nachgefordert, solange nicht die Verjährung gemäss Artikel 23 eingetreten ist.
 
 <sup>2</sup> Wird bei der amtlichen Nachprüfung der Steuerveranlagung oder bei Betriebskontrollen festgestellt, dass eine Steuer zu Unrecht erhoben worden ist, so wird der zu viel bezahlte Betrag von Amts wegen zurückerstattet.
 
@@ -435,8 +440,8 @@ Für die hiernach genannten verbrauchsfertigen Tabakfabrikate sind nur folgende 
 
 Die Steuer auf im Inland hergestellten und auf eingeführten Tabakfabrikaten wird dem Steuerpflichtigen zurückerstattet:
 
-- a.[^24-1] für Tabakfabrikate, die unter Zollüberwachung über die von der Zollverwaltung bestimmten Zollstellen ins Zollausland ausgeführt oder in einen inländischen Zollfreiladen nach Artikel 17 Absatz 1<sup>bis</sup> ZG[^24-2] verbracht werden;
-- b. für Tabakfabrikate, die sich noch beim Hersteller oder Importeur befinden oder die der Hersteller, der Importeur oder der Betreiber eines zugelassenen Steuerlagers vom Tabakwarenhandel zurücknimmt, sofern sie innert zwei Jahren nach der Entrichtung der Steuer der Zollverwaltung in unveränderter Kleinhandelspackung vorgewiesen und unter deren Kontrolle unbrauchbar gemacht oder für die Wiederverwendung in der Fabrikation hergerichtet werden;
+- a.[^24-1] für Tabakfabrikate, die unter Zollüberwachung über die vom BAZG bestimmten Zollstellen ins Zollausland ausgeführt oder in einen inländischen Zollfreiladen nach Artikel 17 Absatz 1<sup>bis</sup> ZG[^24-2] verbracht werden;
+- b. für Tabakfabrikate, die sich noch beim Hersteller oder Importeur befinden oder die der Hersteller, der Importeur oder der Betreiber eines zugelassenen Steuerlagers vom Tabakwarenhandel zurücknimmt, sofern sie innert zwei Jahren nach der Entrichtung der Steuer dem BAZG in unveränderter Kleinhandelspackung vorgewiesen und unter deren Kontrolle unbrauchbar gemacht oder für die Wiederverwendung in der Fabrikation hergerichtet werden;
 - c. für Tabakfabrikate, die nachweislich im Betrieb des Herstellers oder des Importeurs durch höhere Gewalt oder durch Zufall vernichtet worden oder unbrauchbar geworden sind.[^24-3]
 
 <sup>2</sup> Die Frist für die Einreichung von Rückerstattungsgesuchen und das Verfahren werden durch die Tabaksteuerverordnung vom 15. Dezember 1969[^24-4] bestimmt.
@@ -497,7 +502,7 @@ Als zugelassene Steuerlager können bewilligt werden:
 - a. Herstellungsbetriebe;
 - b. Steuerfreilager.
 
-<sup>2</sup> Der Bundesrat legt die Voraussetzungen für die Einrichtung und den Betrieb von zugelassenen Steuerlagern fest; die Zollverwaltung erteilt die Bewilligung.
+<sup>2</sup> Der Bundesrat legt die Voraussetzungen für die Einrichtung und den Betrieb von zugelassenen Steuerlagern fest; das BAZG erteilt die Bewilligung.
 
 <sup>3</sup>
 
@@ -514,7 +519,7 @@ Die Bewilligung wird entzogen, wenn:
 
 [^26b-1]
 
-Die zugelassenen Steuerlager unterstehen der Aufsicht durch die Zollverwaltung.
+Die zugelassenen Steuerlager unterstehen der Aufsicht durch des BAZG.
 
 [^26b-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
@@ -555,7 +560,7 @@ Die Sicherheitsleistung endet, wenn:
 - a. die Tabakfabrikate im zugelassenen Steuerlager eingetroffen sind und deren Eingang ordnungsgemäss verbucht worden ist; oder
 - b. die Ausfuhr der Tabakfabrikate zollamtlich bestätigt worden ist.
 
-<sup>4</sup> Der Betreiber des zugelassenen Steuerlagers muss der Zollverwaltung jeden Versand von unversteuerten Tabakfabrikaten melden.
+<sup>4</sup> Der Betreiber des zugelassenen Steuerlagers muss dem BAZG jeden Versand von unversteuerten Tabakfabrikaten melden.
 
 [^26e-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
@@ -620,9 +625,9 @@ Für die Durchführung der in diesem Abschnitt vorgesehenen Massnahmen kann der 
 
 [^30-1]
 
-<sup>1</sup> Ist die Steuer zu Unrecht zurückerstattet oder erlassen worden, so fordert sie die Zollverwaltung nach.
+<sup>1</sup> Ist die Steuer zu Unrecht zurückerstattet oder erlassen worden, so fordert sie das BAZG nach.
 
-<sup>2</sup> Der Nachforderungsanspruch verjährt fünf Jahre nach dem Zeitpunkt, in dem die Zollverwaltung Kenntnis vom Anspruch erhielt, spätestens jedoch zehn Jahre nach dem Zeitpunkt, in dem der Anspruch entstanden ist.
+<sup>2</sup> Der Nachforderungsanspruch verjährt fünf Jahre nach dem Zeitpunkt, in dem das BAZG Kenntnis vom Anspruch erhielt, spätestens jedoch zehn Jahre nach dem Zeitpunkt, in dem der Anspruch entstanden ist.
 
 <sup>3</sup> Die Verjährung wird durch jede Amtshandlung unterbrochen, mit der die Nachforderung geltend gemacht wird; sie steht still, solange der Steuerpflichtige in der Schweiz nicht betrieben werden kann.
 
@@ -677,7 +682,7 @@ Für die Durchführung der in diesem Abschnitt vorgesehenen Massnahmen kann der 
 
 ### I. Widerhandlungen
 
-### 1. …
+### 1. ...
 
 #### Art. 34
 
@@ -720,18 +725,21 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer die gesetzmässige Durchführ
 - d. der Pflicht zur ordnungsgemässen Führung und Aufbewahrung von Geschäftsbüchern, Kontrollen und Belegen zuwiderhandelt;
 - e. die ordnungsgemässe Durchführung einer Buchprüfung, einer amtlichen Kontrolle oder eines Augenscheins erschwert, behindert oder verunmöglicht;
 - f. Rohmaterial zur gewerbsmässigen Herstellung von Tabakfabrikaten an nicht im Register eingetragene Personen oder Firmen abgibt;
-- g. Rohmaterial zu anderen Zwecken als zur Herstellung von Tabakfabrikaten ohne Bewilligung der Zollverwaltung abgibt oder verwendet;
+- g. Rohmaterial zu anderen Zwecken als zur Herstellung von Tabakfabrikaten ohne Bewilligung des BAZG abgibt oder verwendet;
 - h. Tabakfabrikate über dem auf der Kleinhandelspackung angegebenen Preis verkauft.
 
 <sup>2</sup> Die Artikel 14–16 VStrR[^36-2] bleiben vorbehalten.
 
 <sup>3</sup> Bei erschwerenden Umständen wird das Höchstmass der angedrohten Busse um die Hälfte erhöht. Zugleich kann auf Freiheitsstrafe von bis zu einem Jahr erkannt werden.
 
-<sup>4</sup> Bei einer Widerhandlung im Sinne von Absatz 1 Buchstabe e bleibt die Strafverfolgung nach Artikel 285 des Strafgesetzbuches[^36-3] vorbehalten.
+<sup>3bis</sup> Kann der Steuerbetrag, dessen Zahlung gefährdet ist, nicht genau ermittelt werden, so wird er vom BAZG nach pflichtgemässen Ermessen geschätzt.[^36-3]
 
-[^36-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+<sup>4</sup> Bei einer Widerhandlung im Sinne von Absatz 1 Buchstabe e bleibt die Strafverfolgung nach Artikel 285 des Strafgesetzbuches[^36-4] vorbehalten.
+
+[^36-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); BBl **200****8** 533).
 [^36-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^36-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^36-3]: Eingefügt durch Ziff. I 5 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^36-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ### 4. Steuerhehlerei
 
@@ -795,7 +803,7 @@ Fällt eine Busse von höchstens 100 000 Franken in Betracht und würde die Ermi
 
 [^41-1]
 
-[^41-1]: Aufgehoben durch Ziff. 9 des Anhangs zum VStrR, mit Wirkung seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^41-1]: Aufgehoben durch Ziff. 9 des Anhangs zum VStrR, mit Wirkung seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); BBl **197****1** I 993).
 
 ### 7. Zusammentreffen mehrerer strafbarer Handlungen
 
@@ -815,7 +823,7 @@ Erfüllt eine Handlung gleichzeitig den Tatbestand einer Hinterziehung oder Gef�
 
 <sup>1</sup> Widerhandlungen werden nach diesem Gesetz und nach dem VStrR[^43-2] verfolgt und beurteilt.
 
-<sup>2</sup> Verfolgende und urteilende Behörde ist die Zollverwaltung.
+<sup>2</sup> Verfolgende und urteilende Behörde ist das BAZG.
 
 [^43-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^43-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
@@ -878,7 +886,7 @@ Mit dem Inkrafttreten dieses Gesetzes sind aufgehoben:
 [^46-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^46-2]: [AS 1964 285](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277)
 
-### III. …
+### III. ...
 
 #### Art. 47
 

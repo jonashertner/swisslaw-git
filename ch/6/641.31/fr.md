@@ -4,11 +4,11 @@ title: "Loi fédérale du 21 mars 1969 sur l'imposition du tabac (LTab)"
 short: LTab
 eli: "https://fedlex.data.admin.ch/eli/cc/1969/645_665_663"
 language: fr
-version: 2017-09-01
+version: 2022-01-01
 adopted: 1969-03-21
 in_force: 1970-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20170901/fr/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20170901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20170901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20170901/fr"
 
 (LTab)**[^t-1]**
 
-du 21 mars 1969 (Etat le 1<sup>er</sup> septembre 2017)
+du 21 mars 1969 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Introduit par le ch. 8 de l’annexe à la L du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
@@ -43,7 +43,7 @@ arrête:
 
 [^1-1]
 
-<sup>1</sup> La Confédération perçoit un impôt sur les tabacs manufacturés …[^1-2] ainsi que sur les matières qui sont utilisées de la même manière que le tabac (produits de substitution).
+<sup>1</sup> La Confédération perçoit un impôt sur les tabacs manufacturés ...[^1-2] ainsi que sur les matières qui sont utilisées de la même manière que le tabac (produits de substitution).
 
 <sup>2</sup> Les expressions «tabacs manufacturés et produits de substitution» utilisés dans la présente loi sont définis dans l’ordonnance du 15 décembre 1969 réglant l’imposition du tabac[^1-3].
 
@@ -55,10 +55,11 @@ arrête:
 
 #### Art. 2
 
-En ce qui concerne les redevances grevant les tabacs manufacturés (impôt sur le tabac, droit de douane, taxe sur la valeur ajoutée), l’Administration fédérale des douanes (administradion des douanes)[^2-1] arrête toutes les instructions et prend toutes les décisions qui ne sont pas réservées expressément à une autre autorité.[^2-2] Elle est habilitée à donner aux maisons inscrites dans le registre des fabricants, aux importateurs et marchands de matières premières, des instructions sur les indications, justifications et mesures nécessaires à la perception et au remboursement des redevances, ainsi qu’à des fins de contrôle.
+[^2-1]
 
-[^2-1]: Nouvelle expression selon le ch. I de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [FF 2016 4971](https://fedlex.data.admin.ch/eli/fga/2016/1113)). Il a été tenu compte de cette mod. aux disp. mentionnées dans ce RO.
-[^2-2]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+En ce qui concerne les redevances grevant les tabacs manufacturés (impôt sur le tabac, droit de douane, taxe sur la valeur ajoutée), l’Office fédéral de la douane et de la sécurité des frontières (OFDF) arrête toutes les instructions et prend toutes les décisions qui ne sont pas réservées expressément à une autre autorité. Il est habilité à donner aux maisons inscrites dans le registre des fabricants, importateurs et marchands de matières brutes, des instructions sur les indications, justifications et mesures nécessaires à la perception et au remboursement des redevances, ainsi qu’à des fins de contrôle.
+
+[^2-1]: Nouvelle teneur selon le ch. I 19 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ### III. Droit applicable
 
@@ -81,10 +82,10 @@ Sauf dispositions spéciales de la présente loi et des ordonnances fondées sur
 Sont soumis à l’impôt:
 
 - a. les tabacs manufacturés fabriqués industriellement en Suisse et prêts à la consommation, ainsi que les tabacs manufacturés importés;
-- b.[^4-1] …
+- b.[^4-1] ...
 - c.[^4-2] les produits de substitution.
 
-<sup>2</sup> …[^4-3]
+<sup>2</sup> ...[^4-3]
 
 <sup>3</sup> Sont réputés prêts à la consommation les tabacs manufacturés qui, jusqu’à la consommation, ne subissent aucun processus ultérieur de fabrication industrielle.
 
@@ -103,7 +104,7 @@ Sont soumis à l’impôt:
 Sont exonérés de l’impôt:
 
 - a.[^5-1] les marchandises admises en franchise de droits de douane en vertu de l’art. 8 LD[^5-2];
-- b.[^5-3] …
+- b.[^5-3] ...
 - c. les tabacs manufacturés non destinés à la consommation;
 - d.[^5-4] les tabacs manufacturés et préparations destinées à atténuer l’asthme, si elles sont enregistrées comme médicaments.
 
@@ -254,7 +255,7 @@ La Direction générale des douanes tient un registre:
 
 L’inscription a lieu aux conditions suivantes:
 
-- a. les fabricants et importateurs de tabacs manufacturés … doivent avoir leur domicile en Suisse ou un établissement principal inscrit en Suisse, déposer un revers conformément à l’art. 14 et fournir des sûretés selon l’art. 21;
+- a. les fabricants et importateurs de tabacs manufacturés ... doivent avoir leur domicile en Suisse ou un établissement principal inscrit en Suisse, déposer un revers conformément à l’art. 14 et fournir des sûretés selon l’art. 21;
 - b. les importateurs et les marchands de matières brutes doivent avoir leur domicile en Suisse ou un établissement principal inscrit en Suisse et déposer un revers conformément à l’art. 14.
 
 <sup>4</sup> Tout changement ayant trait à la raison sociale, au domicile personnel, au siège de l’entreprise ou à l’activité commerciale doit être annoncé à la Direction générale des douanes. Les maisons qui abandonnent leur activité commerciale, leur domicile ou leur siège commercial en Suisse seront radiées du registre.
@@ -273,7 +274,7 @@ Doivent s’engager par un revers déposé auprès de la Direction générale de
 
 - a. les fabricants de tabacs manufacturés:
 - à mettre en oeuvre dans leur propre entreprise ou à ne remettre qu’à des entreprises inscrites au registre les matières brutes qu’ils ont importées ou acquises en Suisse ainsi que les tabacs manufacturés, non encore prêts à la consommation, qu’ils ont fabriqués ou acquis de la production indigène;
-- b. les importateurs et les marchands de matières brutes destinées à la fabrication industrielle de tabacs manufacturés …[^14-1]:
+- b. les importateurs et les marchands de matières brutes destinées à la fabrication industrielle de tabacs manufacturés ...[^14-1]:
 - à ne remettre les matières brutes qu’à des entreprises inscrites au registre;
 - c. les fabricants de tabacs manufacturés, les importateurs de tabacs manufacturés destinés à la revente, ainsi que les marchands et importateurs de matières brutes:
 - à observer les prescriptions commerciales établies dans la présente loi et dans l’ordonnance du 15 décembre 1969 réglant l’imposition du tabac[^14-2].
@@ -287,13 +288,14 @@ Doivent s’engager par un revers déposé auprès de la Direction générale de
 
 #### Art. 15
 
-<sup>1</sup> Les fabricants de tabacs manufacturés, les exploitants d’entrepôts fiscaux agréés, ainsi que les importateurs et marchands de matières brutes doivent tenir un contrôle complet, mentionnant aussi les stocks et les mutations dans les stocks, contrôle dont les éléments sont fixés par l’administration des douanes.[^15-1] Ils doivent conserver ce contrôle, les pièces justificatives, papiers d’affaires et documents durant dix ans; ils doivent, sur demande, les présenter à l’administration des douanes. Ils sont tenus de donner à cette dernière des renseignements sur tous les faits pouvant revêtir une importance pour l’exécution de la présente loi. L’administration des douanes est, en outre, habilitée à faire contrôler à l’improviste, en tout temps, par ses organes, les fabriques et ateliers, les dépôts de marchandises et autres locaux commerciaux.
+<sup>1</sup> Les fabricants de tabacs manufacturés, les exploitants d’entrepôts fiscaux agréés, ainsi que les importateurs et marchands de matières brutes doivent tenir un contrôle complet, mentionnant aussi les stocks et les mutations dans les stocks, contrôle dont les éléments sont fixés par l’OFDF[^15-1].[^15-2] Ils doivent conserver ce contrôle, les pièces justificatives, papiers d’affaires et documents durant dix ans; ils doivent, sur demande, les présenter à l’OFDF. Ils sont tenus de donner à ce dernier des renseignements sur tous les faits pouvant revêtir une importance pour l’exécution de la présente loi. L’OFDF est, en outre, habilité à faire contrôler à l’improviste, en tout temps, par ses organes, les fabriques et ateliers, les dépôts de marchandises et autres locaux commerciaux.
 
-<sup>2</sup> L’utilisation ou la remise de matières brutes à d’autres fins que la fabrication de tabacs manufacturés est subordonnée à une autorisation de l’administration des douanes. En outre, les droits de douane seront perçus après coup sur la matière brute importée en franchise.
+<sup>2</sup> L’utilisation ou la remise de matières brutes à d’autres fins que la fabrication de tabacs manufacturés est subordonnée à une autorisation de l’OFDF. En outre, les droits de douane seront perçus après coup sur la matière brute importée en franchise.
 
-<sup>3</sup> La destruction de matières brutes ainsi que de tabacs manufacturés non encore imposés, est subordonnée à une autorisation de l’administration des douanes.
+<sup>3</sup> La destruction de matières brutes ainsi que de tabacs manufacturés non encore imposés, est subordonnée à une autorisation de l’OFDF.
 
-[^15-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^15-1]: Nouvelle expression selon le ch. I 19 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Il a été tenu compte de cette mod. dans tout le texte.
+[^15-2]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### 4. Prescriptions de commerce
 
@@ -317,7 +319,7 @@ Seuls les emballages pour la vente au détail désignés ci-après sont autoris�
 - b. tabac à coupe fine: contenu de 250 gr au maximum;
 - c. tabac coupé, autre que celui à coupe fine: contenu de 1000 gr au maximum.
 
-<sup>3</sup> …[^16-3]
+<sup>3</sup> ...[^16-3]
 
 <sup>4</sup> Aux fins de l’application de la présente loi, l’ordonnance du 15 décembre 1969 réglant l’imposition du tabac[^16-4] prévoit que les fabricants et les marchands de tabacs manufacturés peuvent être astreints à des obligations supplémentaires.
 
@@ -336,7 +338,7 @@ Seuls les emballages pour la vente au détail désignés ci-après sont autoris�
 
 #### Art. 17
 
-<sup>1</sup> Le taux d’impôt applicable aux sortes de cigares et cigarettes fabriqués en Suisse est fixé à l’avance par l’administration des douanes sur la base de rapports que doit présenter le fabricant conformément aux dispositions de l’ordonnance du 15 décembre 1969 réglant l’imposition du tabac[^17-1].
+<sup>1</sup> Le taux d’impôt applicable aux sortes de cigares et cigarettes fabriqués en Suisse est fixé à l’avance par l’OFDF sur la base de rapports que doit présenter le fabricant conformément aux dispositions de l’ordonnance du 15 décembre 1969 réglant l’imposition du tabac[^17-1].
 
 <sup>2</sup> Sur demande, le taux d’impôt est également fixé conformément à l’al. 1 pour les sortes de cigares et de cigarettes qu’un importateur importe régulièrement.
 
@@ -350,15 +352,18 @@ Seuls les emballages pour la vente au détail désignés ci-après sont autoris�
 
 #### Art. 18
 
-<sup>1</sup> L’impôt grevant les tabacs manufacturés fabriqués en Suisse ou mis à la consommation à la sortie d’un entrepôt fiscal agréé est déterminé au vu de la déclaration fiscale que le fabricant ou l’exploitant de l’entrepôt fiscal agréé doit présenter mensuellement à l’administration des douanes.[^18-1]
+<sup>1</sup> L’impôt grevant les tabacs manufacturés fabriqués en Suisse ou mis à la consommation à la sortie d’un entrepôt fiscal agréé est déterminé au vu de la déclaration fiscale que le fabricant ou l’exploitant de l’entrepôt fiscal agréé doit présenter mensuellement à l’OFDF.[^18-1]
 
 <sup>2</sup> La déclaration fiscale lie celui qui l’a établie; elle constitue, sous réserve du résultat de l’examen officiel, la base pour la détermination de l’impôt dans chaque cas d’espèce.
 
-<sup>3</sup> L’impôt grevant les tabacs manufacturés importés est fixé par les bureaux de douane sur la base des déclarations en douane qui doivent leur être présentées. La forme de la déclaration en douane est régie par l’art. 28 LD[^18-2].[^18-3]
+<sup>2bis</sup> Si la déclaration fiscale n’est pas remise dans le délai imparti, l’OFDF procède par estimation, dans les limites de son pouvoir d’appréciation.[^18-2]
+
+<sup>3</sup> L’impôt grevant les tabacs manufacturés importés est fixé par les bureaux de douane sur la base des déclarations en douane qui doivent leur être présentées. La forme de la déclaration en douane est régie par l’art. 28 LD[^18-3].[^18-4]
 
 [^18-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)).
-[^18-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^18-3]: Nouvelle teneur selon le ch. 8 de l’annexe à la L du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^18-2]: Introduit par le ch. I 5 de la LF du 19 mars 2021 sur des allégements administratifs et des mesures destinées à soulager les finances fédérales, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^18-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^18-4]: Nouvelle teneur selon le ch. 8 de l’annexe à la L du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 ### 3. Exigibilité
 
@@ -368,7 +373,7 @@ Seuls les emballages pour la vente au détail désignés ci-après sont autoris�
 
 #### Art. 19
 
-<sup>1</sup> L’impôt est exigible à la naissance de la créance fiscale. Pour les assujettis à l’impôt qui ont fourni des sûretés au sens de l’art. 21, al. 1, ou 26*c*, le délai de paiement court jusqu’au dernier jour du second mois suivant le jour de l’échéance. L’administration des douanes peut exceptionnellement proroger le délai de paiement.[^19-1]
+<sup>1</sup> L’impôt est exigible à la naissance de la créance fiscale. Pour les assujettis à l’impôt qui ont fourni des sûretés au sens de l’art. 21, al. 1, ou 26*c*, le délai de paiement court jusqu’au dernier jour du second mois suivant le jour de l’échéance. L’OFDF peut exceptionnellement proroger le délai de paiement.[^19-1]
 
 <sup>2</sup> L’impôt grevant les importations dans le trafic postal et le trafic touristique, pour lesquelles l’importateur ne présente pas de déclaration écrite (art. 18, al. 3), ainsi que l’impôt pour lequel il n’existe pas de sûreté au sens de l’art. 21, est payé d’après les dispositions régissant les droits de douane.[^19-2]
 
@@ -383,7 +388,7 @@ Seuls les emballages pour la vente au détail désignés ci-après sont autoris�
 
 <sup>1</sup> En cas de retard dans le paiement de l’impôt, un intérêt moratoire est dû à compter de son exigibilité.
 
-<sup>2</sup> L’administration des douanes doit un intérêt rémunératoire à partir du moment où elle a perçu un montant à tort ou n’a pas remboursé un montant à tort.
+<sup>2</sup> L’OFDF doit un intérêt rémunératoire à partir du moment où il a perçu un montant à tort ou n’a pas remboursé un montant à tort.
 
 <sup>3</sup> Le Conseil fédéral peut prévoir des exceptions à la perception de l’intérêt moratoire.
 
@@ -395,9 +400,9 @@ Seuls les emballages pour la vente au détail désignés ci-après sont autoris�
 
 #### Art. 21
 
-<sup>1</sup> Les fabricants et les importateurs de tabacs manufacturés inscrits au registre prévu à l’art. 13 doivent fournir des sûretés dans les formes prévues à l’art. 76 LD[^21-1]. Les sûretés couvrent toutes les créances de l’administration des douanes à l’égard du fabricant et de l’importateur, résultant ou découlant de l’assujettissement à l’impôt sur le tabac, au droit de douane et à la taxe sur la valeur ajoutée.[^21-2] Les sûretés ne peuvent être libérées que lorsque l’assujetti a satisfait à toutes ses obligations. Le montant des sûretés est fixé par la Direction générale des douanes.
+<sup>1</sup> Les fabricants et les importateurs de tabacs manufacturés inscrits au registre prévu à l’art. 13 doivent fournir des sûretés dans les formes prévues à l’art. 76 LD[^21-1]. Les sûretés couvrent toutes les créances de l’OFDF à l’égard du fabricant et de l’importateur, résultant ou découlant de l’assujettissement à l’impôt sur le tabac, au droit de douane et à la taxe sur la valeur ajoutée.[^21-2] Les sûretés ne peuvent être libérées que lorsque l’assujetti a satisfait à toutes ses obligations. Le montant des sûretés est fixé par la Direction générale des douanes.
 
-<sup>2</sup> La Confédération a un droit de gage légal sur les tabacs manufacturés … pour lesquels les redevances sont dues (droit de gage concernant l’impôt sur le tabac). Les prescriptions régissant le gage douanier sont applicables par analogie.
+<sup>2</sup> La Confédération a un droit de gage légal sur les tabacs manufacturés ... pour lesquels les redevances sont dues (droit de gage concernant l’impôt sur le tabac). Les prescriptions régissant le gage douanier sont applicables par analogie.
 
 [^21-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^21-2]: Nouvelle teneur des phrases selon le ch. I de la LF du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)).
@@ -406,7 +411,7 @@ Seuls les emballages pour la vente au détail désignés ci-après sont autoris�
 
 #### Art. 22
 
-<sup>1</sup> Si, par suite d’une erreur de l’administration des douanes[^22-1], un impôt dû n’a pas été liquidé ou a été liquidé trop bas, ou un remboursement a été fixé trop haut, la différence est réclamée, à moins qu’elle ne soit prescrite en vertu de l’art. 23.
+<sup>1</sup> Si, par suite d’une erreur de l’OFDF[^22-1], un impôt dû n’a pas été liquidé ou a été liquidé trop bas, ou un remboursement a été fixé trop haut, la différence est réclamée, à moins qu’elle ne soit prescrite en vertu de l’art. 23.
 
 <sup>2</sup> Si le contrôle officiel de la détermination de l’impôt ou les contrôles d’entreprises révèlent qu’un impôt a été perçu indûment, le montant perçu en trop est remboursé d’office.
 
@@ -443,8 +448,8 @@ Seuls les emballages pour la vente au détail désignés ci-après sont autoris�
 
 L’impôt grevant les tabacs manufacturés fabriqués en Suisse ou importés est remboursé à l’assujetti: [^24-1]
 
-- a.[^24-2] pour les tabacs manufacturés qui, sous surveillance douanière et par l’intermédiaire des bureaux de douane désignés par l’administration des douanes, sont exportés vers le territoire douanier étranger ou acheminés dans une boutique hors taxes suisse au sens de l’art. 17, al. 1<sup>bis</sup>, LD[^24-3];
-- b. pour les tabacs manufacturés qui se trouvent encore chez le fabricant ou chez l’importateur ou que le fabricant, l’importateur ou l’exploitant d’un entrepôt fiscal agréé retire du marché, à la condition que, dans le délai de deux ans à compter du paiement de l’impôt, ils soient présentés à l’administration des douanes dans l’emballage intact pour la vente au détail et, sous contrôle de cette dernière, rendus inutilisables ou soumis à une ouvraison pour être réemployés dans la fabrication;
+- a.[^24-2] pour les tabacs manufacturés qui, sous surveillance douanière et par l’intermédiaire des bureaux de douane désignés par l’OFDF, sont exportés vers le territoire douanier étranger ou acheminés dans une boutique hors taxes suisse au sens de l’art. 17, al. 1<sup>bis</sup>, LD[^24-3];
+- b. pour les tabacs manufacturés qui se trouvent encore chez le fabricant ou chez l’importateur ou que le fabricant, l’importateur ou l’exploitant d’un entrepôt fiscal agréé retire du marché, à la condition que, dans le délai de deux ans à compter du paiement de l’impôt, ils soient présentés à l’OFDF dans l’emballage intact pour la vente au détail et, sous contrôle de ce dernier, rendus inutilisables ou soumis à une ouvraison pour être réemployés dans la fabrication;
 - c. pour les tabacs manufacturés qui ont été manifestement détruits ou rendus inutilisables, par force majeure ou fortuitement, dans l’entreprise du fabricant ou de l’importateur.[^24-4]
 
 <sup>2</sup> Le délai pour présenter les demandes de remboursement ainsi que la procédure sont fixés dans l’ordonnance du 15 décembre 1969 réglant l’imposition du tabac[^24-5].
@@ -506,7 +511,7 @@ Peuvent être autorisés en tant qu’entrepôts fiscaux agréés:
 - a. des unités de fabrication;
 - b. des dépôts francs.
 
-<sup>2</sup> Le Conseil fédéral fixe les conditions régissant la création et l’exploitation d’entrepôts fiscaux agréés; l’administration des douanes octroie l’autorisation.
+<sup>2</sup> Le Conseil fédéral fixe les conditions régissant la création et l’exploitation d’entrepôts fiscaux agréés; l’OFDF octroie l’autorisation.
 
 <sup>3</sup>
 
@@ -523,7 +528,7 @@ L’autorisation est retirée dans les cas suivants:
 
 [^26b-1]
 
-Les entrepôts fiscaux agréés sont soumis à la surveillance de l’administration des douanes.
+Les entrepôts fiscaux agréés sont soumis à la surveillance de l’OFDF.
 
 [^26b-1]: Introduit par le ch. I de la LF du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
@@ -564,7 +569,7 @@ Les sûretés cessent de déployer leurs effets dans les cas suivants:
 - a. les tabacs manufacturés sont arrivés à l’entrepôt fiscal agréé et leur entrée a été consignée en bonne et due forme;
 - b. l’exportation des tabacs manufacturés a été attestée par la douane.
 
-<sup>4</sup> L’exploitant de l’entrepôt fiscal agréé annonce à l’administration des douanes chaque expédition de tabacs manufacturés non imposés.
+<sup>4</sup> L’exploitant de l’entrepôt fiscal agréé annonce à l’OFDF chaque expédition de tabacs manufacturés non imposés.
 
 [^26e-1]: Introduit par le ch. I de la LF du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
@@ -629,9 +634,9 @@ Le Conseil fédéral peut faire appel à la collaboration des cantons et d’org
 
 [^30-1]
 
-<sup>1</sup> Si l’impôt a été remboursé ou remis à tort, l’administration des douanes en réclame la restitution.
+<sup>1</sup> Si l’impôt a été remboursé ou remis à tort, l’OFDF en réclame la restitution.
 
-<sup>2</sup> Le droit à la restitution se prescrit par cinq ans à compter du moment où l’administration des douanes a eu connaissance de ce droit, mais au plus tard par dix ans à compter de la naissance du droit.
+<sup>2</sup> Le droit à la restitution se prescrit par cinq ans à compter du moment où l’OFDF a eu connaissance de ce droit, mais au plus tard par dix ans à compter de la naissance du droit.
 
 <sup>3</sup> La prescription est interrompue par tout acte officiel réclamant la restitution; elle est suspendue tant que la personne assujettie à l’impôt ne peut être poursuivie en Suisse.
 
@@ -686,7 +691,7 @@ Le Conseil fédéral peut faire appel à la collaboration des cantons et d’org
 
 ### I. Infractions
 
-### 1. …
+### 1. ...
 
 #### Art. 34
 
@@ -731,18 +736,21 @@ Est puni d’une amende de 20 000 francs au plus quiconque, intentionnellement o
 - d. en contrevenant à l’obligation de tenir régulièrement et de conserver des livres, registres et pièces justificatives;
 - e. en entravant, en empêchant ou en rendant impossible l’exécution régulière d’un examen des livres, d’un autre contrôle officiel ou d’une inspection locale;
 - f. en remettant des matières brutes pour la fabrication industrielle de tabacs manufacturés à des personnes ou des maisons non inscrites au registre;
-- g. en cédant ou en utilisant des matières brutes à des fins autres que la fabrication de tabacs manufacturés, sans autorisation de l’administration des douanes;
+- g. en cédant ou en utilisant des matières brutes à des fins autres que la fabrication de tabacs manufacturés, sans autorisation de l’OFDF;
 - h. en vendant des tabacs manufacturés au-dessus du prix indiqué sur l’emballage de vente au détail.
 
 <sup>2</sup> Les art. 14 à 16 DPA[^36-2] sont réservés.
 
 <sup>3</sup> En cas de circonstances aggravantes, le montant maximal de l’amende est augmenté de moitié. Une peine privative de liberté d’un an au plus peut également être prononcée.
 
-<sup>4</sup> Lorsqu’il s’agit d’une infraction au sens de l’al. 1, let. e, la poursuite pénale selon l’art. 285 du code pénal[^36-3] est réservée.
+<sup>3bis</sup> Si le montant de l’impôt dont le recouvrement est mis en péril ne peut être déterminé exactement, l’OFDF procède par estimation, dans les limites de son pouvoir d’appréciation.[^36-3]
+
+<sup>4</sup> Lorsqu’il s’agit d’une infraction au sens de l’al. 1, let. e, la poursuite pénale selon l’art. 285 du code pénal[^36-4] est réservée.
 
 [^36-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^36-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^36-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^36-3]: Introduit par le ch. I 5 de la LF du 19 mars 2021 sur des allégements administratifs et des mesures destinées à soulager les finances fédérales, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^36-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ### 4. Recel fiscal
 
@@ -826,7 +834,7 @@ Si une infraction constitue à la fois une soustraction de l’impôt, une mise 
 
 <sup>1</sup> Les infractions sont poursuivies et jugées conformément à la présente loi et à la DPA[^43-2].
 
-<sup>2</sup> L’autorité ayant compétence pour poursuivre et juger est l’administration des douanes.
+<sup>2</sup> L’autorité ayant compétence pour poursuivre et juger est l’OFDF.
 
 [^43-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^43-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
@@ -889,7 +897,7 @@ Sont abrogés au moment de l’entrée en vigueur de la présente loi:
 [^46-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^46-2]: [RO 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277)
 
-### III. …
+### III. ...
 
 #### Art. 47
 
