@@ -3,39 +3,40 @@ sr: "672.926.31"
 title: Ordonnance du 21 mai 2008 relative à la convention contre les doubles impositions conclue entre la Suisse et la Colombie
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/552"
 language: fr
-version: 2011-09-11
+version: 2022-01-01
 adopted: 2008-05-21
 in_force: 2011-09-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/552/20110911/fr/xml/fedlex-data-admin-ch-eli-cc-2011-552-20110911-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/552/20110911/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/552/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-552-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/552/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance relative à la convention contre les doubles impositions conclue entre la Suisse et la Colombie
 
-du 21 mai 2008 (Etat le 11 septembre 2011)
+du 21 mai 2008 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
-vu l’arrêté fédéral du 22 juin 1951 concernant l’exécution des conventions internationales conclues par la Confédération en vue d’éviter les doubles impositions[^ingress-1], et en application de la convention du 26 septembre 2007 conclue entre la Confédération suisse et la République de Colombie en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune (Convention)[^ingress-2],
+vu l’art. 35, al. 1, de la loi fédérale du 18 juin 2021 relative à l’exécution des conventions internationales dans le domaine fiscal[^ingress-1], et en application de la Convention du 26 septembre 2007 conclue entre la Confédération suisse et la République de Colombie en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune (Convention)[^ingress-2],[^ingress-3]
 
 arrête:
 
-[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
-[^ingress-2]: [RS 0.672.926.31](https://fedlex.data.admin.ch/eli/cc/2011/562)
+[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8245)
+[^ingress-2]: [RS 0.672.926.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2563)
+[^ingress-3]: Nouvelle teneur selon le ch. II 6 de l’O du 10 nov. 2021 modifiant le droit fédéral dans le domaine de l’exécution des conventions internationales dans le domaine fiscal, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
-## Section 1 Echange de renseignements en général
+## Section 1 Échange de renseignements en général
 
 #### Art. 1
 
 <sup>1</sup> Du côté suisse, l’Administration fédérale des contributions (AFC) est compétente pour communiquer aux autorités colombiennes les renseignements prévus à l’art. 26, par. 1, de la Convention. Les demandes de renseignements colombiennes adressées à d’autres autorités doivent être transmises à l’AFC.
 
-<sup>2</sup> L’AFC statue sur les contestations relatives à la communication des renseignements mentionnés à l’al.1.
+<sup>2</sup> L’AFC statue sur les contestations relatives à la communication des renseignements mentionnés à l’al. 1.
 
 <sup>3</sup> Le recours contre la décision de l’AFC est régi par les dispositions générales de la procédure fédérale.
 
-## Section 2 Echange de renseignements en cas de fraude fiscale
+## Section 2 Échange de renseignements en cas de fraude fiscale
 
 #### Art. 2
 
@@ -89,7 +90,7 @@ arrête:
 
 <sup>2</sup> La perquisition est régie par l’art. 49 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif [^6-1].
 
-[^6-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^6-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 7
 
