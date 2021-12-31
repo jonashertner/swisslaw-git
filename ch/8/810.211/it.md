@@ -3,11 +3,11 @@ sr: "810.211"
 title: "Ordinanza del 16 marzo 2007 concernente il trapianto di organi, tessuti e cellule umani (Ordinanza sui trapianti)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/280"
 language: it
-version: 2017-11-15
+version: 2022-01-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20171115/it/xml/fedlex-data-admin-ch-eli-cc-2007-280-20171115-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20171115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-280-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20171115/it"
 
 (Ordinanza sui trapianti)
 
-del 16 marzo 2007 (Stato 15 novembre 2017) (Stato 15 novembre 2017)
+del 16 marzo 2007 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -57,7 +57,7 @@ L’impiego di organi, tessuti e cellule destinati a un trapianto autogeno è re
 
 <sup>3</sup> L’impiego di organi, tessuti o cellule utilizzati nella fabbricazione di espianti standardizzati autogeni è retto dagli articoli 2, 48 e 49; l’impiego di organi, tessuti o cellule utilizzati nella fabbricazione di espianti standardizzati allogeni è retto inoltre dagli articoli 2–12.[^1-5]
 
-[^1-1]: Abrogato dal n. 1 dell’all. 6 all’O del 20 set. 2013 sulle sperimentazioni cliniche, con effetto dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+[^1-1]: Abrogato dall’all. 6 n. 1 dell’O del 20 set. 2013 sulle sperimentazioni cliniche, con effetto dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 [^1-2]: Nuovo testo giusta il n. 1 dell’all. 6 all’O del 20 set. 2013 sulle sperimentazioni cliniche, in vigore dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 [^1-3]: Nuovo testo giusta il n. 1 dell’all. 6 all’O del 20 set. 2013 sulle sperimentazioni cliniche, in vigore dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 [^1-4]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 15 nov. 2017 ([RU 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
@@ -96,7 +96,7 @@ Nell’ambito della presente ordinanza si intende per:
 
 <sup>2</sup> Per il rimanente si applicano le definizioni di cui all’articolo 2 dell’ordinanza del 20 settembre 2013[^2-5] sulle sperimentazioni cliniche nella ricerca umana.
 
-[^2-1]: Nuovo testo giusta il n. 1 dell’all. 6 all’O del 20 set. 2013 sulle sperimentazioni cliniche, in vigore dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+[^2-1]: Nuovo testo giusta l’all. 6 n. 1 dell’O del 20 set. 2013 sulle sperimentazioni cliniche, in vigore dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 [^2-2]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 15 nov. 2017 ([RU 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
 [^2-3]: Introdotta dal n. I 1 dell’O del 23 mar. 2016 concernente l’esecuzione della legislazione sui trapianti, in vigore dal 1° mag. 2016 ([RU 2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)).
 [^2-4]: Introdotta dal n. I 1 dell’O del 23 mar. 2016 concernente l’esecuzione della legislazione sui trapianti, in vigore dal 1° mag. 2016 ([RU 2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)).
@@ -698,7 +698,7 @@ Gli organi, i tessuti o le cellule che sono stati geneticamente modificati devon
 
 [^chap5-1]
 
-[^chap5-1]: Nuovo testo giusta il n. 1 dell’all. 6 all’O del 20 set. 2013 sulle sperimentazioni cliniche, in vigore dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+[^chap5-1]: Nuovo testo giusta l’all. 6 n. 1 dell’O del 20 set. 2013 sulle sperimentazioni cliniche, in vigore dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 
 #### Art. 26
 
@@ -770,10 +770,17 @@ Per il trapianto di organi, tessuti o cellule geneticamente modificati nell’am
 
 <sup>4</sup> ...[^37-4]
 
-[^37-1]: Abrogato dal n. 1 dell’all. 6 all’O del 20 set. 2013 sulle sperimentazioni cliniche, con effetto dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+<sup>5</sup>
+
+Per il trapianto di tessuti o cellule di embrioni o feti nell’ambito di un trattamento standard devono essere presentati:
+
+- a. una documentazione scientifica contenente i risultati delle sperimentazioni cliniche e precliniche;
+- b. i documenti e i moduli concernenti l’informazione e il consenso della donna donatrice o della coppia interessata.
+
+[^37-1]: Abrogato dall’all. 6 n. 1 dell’O del 20 set. 2013 sulle sperimentazioni cliniche, con effetto dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 [^37-2]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
-[^37-3]: Nuovo testo giusta il n. 1 dell’all. 6 all’O del 20 set. 2013 sulle sperimentazioni cliniche, in vigore dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
-[^37-4]: Abrogato dal n. 1 dell’all. 6 all’O del 20 set. 2013 sulle sperimentazioni cliniche, con effetto dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+[^37-3]: Nuovo testo giusta l’all. 6 n. 1 dell’O del 20 set. 2013 sulle sperimentazioni cliniche, in vigore dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+[^37-4]: Abrogato dall’all. 6 n. 1 dell’O del 20 set. 2013 sulle sperimentazioni cliniche, con effetto dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 
 #### Art. 38
 
@@ -809,7 +816,7 @@ Per il trapianto di organi, tessuti o cellule geneticamente modificati nell’am
 
 <sup>3</sup> ...[^41-1]
 
-[^41-1]: Abrogato dal n. 1 dell’all. 6 all’O del 20 set. 2013 sulle sperimentazioni cliniche, con effetto dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+[^41-1]: Abrogato dall’all. 6 n. 1 dell’O del 20 set. 2013 sulle sperimentazioni cliniche, con effetto dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 
 #### Art. 42
 
@@ -1179,7 +1186,7 @@ Allegato 2*[^t-2]*
 
 ## Notifica al servizio dei controlli postdonazione e all’istituzione comune di donazioni di organi e cellule staminali del sangue da parte di persone viventi
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del 18 ott. 2017, in vigore dal 15 nov. 2017 ([RU 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
+[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)). Aggiornato dall’all. n. II 27 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### 1 Notifiche al servizio dei controlli postdonazione
 
@@ -1241,9 +1248,7 @@ All’istituzione comune devono essere notificati i seguenti dati concernenti gl
 
 - a. se la competenza è dell’assicurazione malattie: il nome dell’assicuratore-malattie, il numero della tessera europea di assicurazione malattia o il numero della tessera d’assicurato del ricevente per l’assicurazione obbligatoria delle cure medico-sanitarie;
 - b. se la competenza è dell’assicurazione contro gli infortuni: il nome dell’assicuratore-infortuni, il numero del danno e il datore di lavoro;
-- c. se la competenza è dell’assicurazione per l’invalidità: il numero d’assicurato di cui all’articolo 50*c* della legge federale del 20 dicembre 1946[^annex2-lvlu1-lvl3-1] sull’assicurazione per la vecchiaia e per i superstiti.
-
-[^annex2-lvlu1-lvl3-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+- c. se la competenza è dell’assicurazione per l’invalidità: il numero AVS sull’assicurazione per la vecchiaia e per i superstiti.
 
 Allegato 3*[^t-3]*
 

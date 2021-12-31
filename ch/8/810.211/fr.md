@@ -3,11 +3,11 @@ sr: "810.211"
 title: "Ordonnance du 16 mars 2007 sur la transplantation d'organes, de tissus et de cellules d'origine humaine (Ordonnance sur la transplantation)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/280"
 language: fr
-version: 2017-11-15
+version: 2022-01-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20171115/fr/xml/fedlex-data-admin-ch-eli-cc-2007-280-20171115-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20171115/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-280-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20171115/fr"
 
 (Ordonnance sur la transplantation)
 
-du 16 mars 2007 (Etat le 15 novembre 2017)
+du 16 mars 2007 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -57,8 +57,8 @@ L’utilisation d’organes, de tissus ou de cellules destinés à une transplan
 
 <sup>3</sup> L’utilisation d’organes, de tissus ou de cellules servant à la fabrication de transplants standardisés autogènes est régie par les art. 2, 48 et 49; l’utilisation d’organes, de tissus ou de cellules servant à la fabrication de transplants standardisés allogènes est régie en outre par les art. 2 à 12.[^1-4]
 
-[^1-1]: Abrogé par le ch. 1 de l’annexe 6 à l’O du 20 sept. 2013 sur les essais cliniques, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
-[^1-2]: Nouvelle teneur selon le ch. 1 de l’annexe 6 à l’O du 20 sept. 2013 sur les essais cliniques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+[^1-1]: Abrogé par l’annexe 6 ch. 1 de l’O du 20 sept. 2013 sur les essais cliniques, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+[^1-2]: Nouvelle teneur selon l’annexe 6 ch. 1 de l’O du 20 sept. 2013 sur les essais cliniques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 [^1-3]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 15 nov. 2017 ([RO 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
 [^1-4]: Nouvelle teneur selon le ch. I 1 de l’O du 23 mars 2016 sur l’exécution de la législation relative à la transplantation, en vigueur depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)).
 
@@ -95,7 +95,7 @@ Au sens de la présente ordonnance, on entend par:
 
 <sup>2</sup> Au surplus, les définitions données à l’art. 2 de l’ordonnance du 20 septembre 2013 sur les essais cliniques[^2-5] sont applicables.
 
-[^2-1]: Nouvelle teneur selon le ch. 1 de l’annexe 6 à l’O du 20 sept. 2013 sur les essais cliniques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+[^2-1]: Nouvelle teneur selon l’annexe 6 ch. 1 de l’O du 20 sept. 2013 sur les essais cliniques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 [^2-2]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 15 nov. 2017 ([RO 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
 [^2-3]: Introduite par le ch. I 1 de l’O du 23 mars 2016 sur l’exécution de la législation relative à la transplantation, en vigueur depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)).
 [^2-4]: Introduite par le ch. I 1 de l’O du 23 mars 2016 sur l’exécution de la législation relative à la transplantation, en vigueur depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)).
@@ -697,7 +697,7 @@ Les organes, tissus ou cellules génétiquement modifiés doivent porter la ment
 
 [^chap5-1]
 
-[^chap5-1]: Nouvelle teneur selon le ch. 1 de l’annexe 6 à l’O du 20 sept. 2013 sur les essais cliniques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+[^chap5-1]: Nouvelle teneur selon l’annexe 6 ch. 1 de l’O du 20 sept. 2013 sur les essais cliniques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 
 #### Art. 26
 
@@ -776,10 +776,10 @@ La demande d’autorisation pour la transplantation, dans le cadre d’un traite
 - a. une documentation scientifique faisant état des résultats des essais cliniques et des examens précliniques;
 - b. les documents et les formulaires rendant compte de l’information fournie à la donneuse ou au couple concerné et de leur consentement.
 
-[^37-1]: Abrogé par le ch. 1 de l’annexe 6 à l’O du 20 sept. 2013 sur les essais cliniques, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+[^37-1]: Abrogé par l’annexe 6 ch. 1 de l’O du 20 sept. 2013 sur les essais cliniques, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 [^37-2]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
-[^37-3]: Nouvelle teneur selon le ch. 1 de l’annexe 6 à l’O du 20 sept. 2013 sur les essais cliniques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
-[^37-4]: Abrogé par le ch. 1 de l’annexe 6 à l’O du 20 sept. 2013 sur les essais cliniques, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+[^37-3]: Nouvelle teneur selon l’annexe 6 ch. 1 de l’O du 20 sept. 2013 sur les essais cliniques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+[^37-4]: Abrogé par l’annexe 6 ch. 1 de l’O du 20 sept. 2013 sur les essais cliniques, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 
 #### Art. 38
 
@@ -815,7 +815,7 @@ La demande d’autorisation pour la transplantation, dans le cadre d’un traite
 
 <sup>3</sup> …[^41-1]
 
-[^41-1]: Abrogé par le ch. 1 de l’annexe 6 à l’O du 20 sept. 2013 sur les essais cliniques, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+[^41-1]: Abrogé par l’annexe 6 ch. 1 de l’O du 20 sept. 2013 sur les essais cliniques, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 
 #### Art. 42
 
@@ -935,7 +935,7 @@ Les organes chargés de l’exécution de la législation prennent les mesures t
 
 <sup>3</sup> L’Institut suisse des produits thérapeutiques prélève des émoluments pour son activité de surveillance conformément à l’ordonnance du 2 décembre 2011 sur les émoluments des produits thérapeutiques[^49a-1].
 
-[^49a-1]: [RS 812.214.5](https://fedlex.data.admin.ch/eli/cc/2018/593)
+[^49a-1]: [[RO 2012 705](https://fedlex.data.admin.ch/eli/oc/2012/108). RO 2018 3719 art. 15]. Voir actuellement l’O du 14 septembre 2018 de l’Institut suisse des produits thérapeutiques sur ses émoluments ([RS 812.214.5](https://fedlex.data.admin.ch/eli/cc/2018/593)).
 
 ### Section 2*b***** Registre du service chargé du suivi des donneurs vivants
 
@@ -1185,7 +1185,7 @@ Annexe 2*[^t-2]*
 
 ## Communication, au service chargé du suivi des donneurs vivants et à l’institution commune, des dons d’organes ou de cellules souches hématopoïétiques
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 18 oct. 2017, en vigueur depuis le 15 nov. 2017 ([RO 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)). Mise à jour par l’annexe ch. II 27 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### 1 Communication au service chargé du suivi des donneurs vivants
 
@@ -1247,9 +1247,7 @@ Pour ce qui est de l’assurance, les données suivantes doivent être communiqu
 
 - a. si l’assurance-maladie est compétente: le nom de l’assureur, le numéro de la carte européenne d’assurance maladie ou le numéro de la carte d’assurance du receveur pour l’assurance obligatoire des soins;
 - b. si l’assurance-accidents est compétente: le nom de l’assureur-accidents, le numéro de sinistre et le nom de l’employeur;
-- c. si l’assurance-invalidité est compétente: le numéro AVS selon l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants.[^annex2-lvlu1-lvl3-1]
-
-[^annex2-lvlu1-lvl3-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+- c. si l’assurance-invalidité est compétente: le numéro AVS.
 
 Annexe 3*[^t-3]*
 
@@ -1274,7 +1272,7 @@ Annexe 5*[^t-5]*
 
 ## Évaluation de l’aptitude au don, exclusion du don, obligation d’effectuer des tests, tests à effectuer, exigences auxquelles ils doivent satisfaire et procédure à suivre en cas de réactivité aux tests VIH, VHB et VHC
 
-[^t-5]: Mise à jour selon le ch. II al. 1 de l’O du 10 sept. 2008 ([RO 2008 4461](https://fedlex.data.admin.ch/eli/oc/2008/619)), le ch. I al. 1 de l’O du DFI du 12 janv. 2010 ([RO 2010 373](https://fedlex.data.admin.ch/eli/oc/2010/42)) et ch. II al. 3 de l’O du 18 oct. 2017, en vigueur depuis le 15 nov. 2017 ([RO 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
+[^t-5]: Mise à jour par le ch. II al. 1 de l’O du 10 sept. 2008 ([RO 2008 4461](https://fedlex.data.admin.ch/eli/oc/2008/619)), le ch. I al. 1 de l’O du DFI du 12 janv. 2010 ([RO 2010 373](https://fedlex.data.admin.ch/eli/oc/2010/42)) et ch. II al. 3 de l’O du 18 oct. 2017, en vigueur depuis le 15 nov. 2017 ([RO 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
 
 ### 1 Evaluation de l’aptitude au don
 

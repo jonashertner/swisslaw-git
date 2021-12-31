@@ -3,11 +3,11 @@ sr: "810.211"
 title: "Verordnung vom 16. März 2007 über die Transplantation von menschlichen Organen, Geweben und Zellen (Transplantationsverordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/280"
 language: de
-version: 2017-11-15
+version: 2022-01-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20171115/de/xml/fedlex-data-admin-ch-eli-cc-2007-280-20171115-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20171115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-280-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20171115/de"
 
 (Transplantationsverordnung)
 
-vom 16. März 2007 (Stand am 15. November 2017)
+vom 16. März 2007 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -1188,7 +1188,7 @@ Anhang 2*[^t-2]*
 
 ## Meldung von Lebendspenden von Organen und Blut-Stammzellen an die Lebendspende-Nachsorgestelle und an die gemeinsame Einrichtung
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ([AS 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V vom 18. Okt. 2017 ([AS 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)). Bereinigt gemäss Anhang Ziff. II 27 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### 1 Meldungen an die Lebendspende-Nachsorgestelle
 
@@ -1250,9 +1250,7 @@ Der gemeinsamen Einrichtung müssen folgende Angaben zur Versicherung gemeldet w
 
 - a. bei Zuständigkeit der Krankenversicherung: Name des Krankenversicherers, Nummer der europäischen Krankenversicherungskarte oder Nummer der Versichertenkarte der Empfängerin oder des Empfängers für die obligatorische Krankenpflegeversicherung;
 - b. bei Zuständigkeit der Unfallversicherung: Name des Unfallversicherers, Schadennummer und Arbeitgeber;
-- c. bei Zuständigkeit der Invalidenversicherung: Versichertennummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^annex2-lvlu1-lvl3-1] über die Alters- und Hinterlassenenversicherung.
-
-[^annex2-lvlu1-lvl3-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+- c. bei Zuständigkeit der Invalidenversicherung: AHV-Nummer.
 
 Anhang 3*[^t-3]*
 
