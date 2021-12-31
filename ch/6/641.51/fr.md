@@ -4,11 +4,11 @@ title: "Loi fédérale du 21 juin 1996 sur l'imposition des véhicules automobil
 short: Limpauto
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045"
 language: fr
-version: 2017-01-01
+version: 2022-01-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3045_3045_3045-20170101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3045_3045_3045/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3045_3045_3045-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3045_3045_3045/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3045_3045_3045/20170101/fr"
 
 (Limpauto)
 
-du 21 juin 1996 (Etat le 1<sup>er</sup> janvier 2017)
+du 21 juin 1996 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -26,7 +26,7 @@ vu l’art. 131, al. 1, let. d, de la Constitution[^ingress-1],[^ingress-2] vu l
 arrête:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^ingress-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^ingress-3]: [FF 1995 IV 1629](https://fedlex.data.admin.ch/eli/fga/1995/4_1689_1629_1543)
 
 ## Section 1 Dispositions générales
@@ -47,19 +47,22 @@ Par véhicules automobiles servant au transport de personnes ou de marchandises,
 
 - a.[^2-1] les véhicules automobiles pouvant transporter 10 personnes ou plus, chauffeur compris, d’un poids unitaire n’excédant pas 1600 kg (numéros 8702.1030, 8702.2010, 8702.3010, 8702.4010 et 8702.9030 du tarif des douanes[^2-2]);
 - b.[^2-3] les voitures de tourisme et autres véhicules automobiles principalement conçus pour le transport de personnes (autres que ceux visés à la let. a), y compris les voitures de type «break» et les voitures de course (numéros 8703.1000–9060 du tarif des douanes);
-- c. les véhicules automobiles servant au transport de marchandises, d’un poids unitaire n’excédant pas 1600 kg (numéros 8704.2110 et 2120, 3110 et 3120, 9010 et 9020 du tarif des douanes).
+- c. [^2-4] les véhicules automobiles servant au transport de marchandises, d’un poids unitaire n’excédant pas 1600 kg (numéros 8704.2110 et 2120, 3110 et 3120, 4110 et 4120, 5110 et 5120, 6010 et 6020, 9010 et 9020 du tarif des douanes).
 
 <sup>2</sup> Ne sont pas considérés comme véhicules automobiles les châssis avec cabine destinés aux véhicules automobiles visés à l’al. 1.
 
-[^2-1]: Nouvelle teneur selon le ch. 1 de l’annexe 3 à l’O du 10 juin 2016 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
+[^2-1]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 10 juin 2016 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
 [^2-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), annexe
-[^2-3]: Nouvelle teneur selon le ch. 1 de l’annexe 3 à l’O du 10 juin 2016 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
+[^2-3]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 10 juin 2016 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
+[^2-4]: Nouvelle teneur selon l’annexe 3 ch.1 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 #### Art. 3
 
-**Autorité fiscale**
+**Autorité fiscale**[^3-1]
 
-L’autorité fiscale est l’Administration fédérale des douanes. Elle exécute toutes les mesures prévues par la présente loi et édicte toutes les instructions requises à cet effet, sauf compétence expressément conférée à une autre autorité.
+L’autorité fiscale est l’Office fédéral de la douane et de la sécurité des frontières (OFDF). Celui-ci exécute toutes les mesures prévues par la présente loi et édicte toutes les instructions requises à cet effet, sauf compétence expressément conférée à une autre autorité.
+
+[^3-1]: Nouvelle teneur selon le ch. I 21 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 4
 
@@ -99,7 +102,7 @@ L’impôt est régi par la législation douanière pour autant que la présente
 
 #### Art. 8
 
-**Emoluments**
+**Émoluments**
 
 Des émoluments peuvent être perçus pour les décisions et autres prestations. Le Conseil fédéral en fixe le taux.
 
@@ -118,7 +121,7 @@ Sont assujettis à l’impôt:
 
 <sup>2</sup> Le Conseil fédéral détermine les personnes assujetties à l’impôt pour les importations dans les enclaves douanières suisses.
 
-[^9-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^9-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
 #### Art. 10
 
@@ -165,7 +168,7 @@ Sont exonérées de l’impôt:
 
 <sup>3</sup> Le Conseil fédéral fixe les modalités d’application.
 
-[^12-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^12-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^12-2]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
 
 ## Section 3 Taux de l’impôt
@@ -204,7 +207,7 @@ L’autorité fiscale fixe le montant de l’impôt sur la base de la déclarati
 
 **Exigibilité de l’impôt en cas de fabrication en Suisse**
 
-<sup>1</sup> A compter du moment où elle a reçu la décision de taxation, la personne assujettie à l’impôt doit en verser le montant à l’autorité fiscale.
+<sup>1</sup> À compter du moment où elle a reçu la décision de taxation, la personne assujettie à l’impôt doit en verser le montant à l’autorité fiscale.
 
 <sup>2</sup> Le Conseil fédéral fixe les délais de paiement.
 
@@ -281,7 +284,7 @@ La Direction générale des douanes peut remettre tout ou partie de l’impôt:
 
 <sup>2</sup> Le Conseil fédéral règle la procédure applicable à l’importation de véhicules automobiles dans les enclaves douanières suisses.
 
-[^23-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^23-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
 #### Art. 24
 
@@ -398,30 +401,30 @@ L’autorité fiscale saisit les données nécessaires à l’exécution de la p
 
 <sup>2</sup> Les décisions rendues en première instance par les directions d’arrondissement peuvent faire l’objet d’un recours, dans un délai de 30 jours, devant la Direction générale des douanes.[^33-2]
 
-[^33-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^33-2]: Nouvelle teneur selon le ch. 54 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er janv.</sup> 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^33-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^33-2]: Nouvelle teneur selon l’annexe ch. 54 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er janv.</sup> 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 34
 
 [^34-1]
 
-[^34-1]: Abrogé par le ch. 54 de l’annexe à la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^34-1]: Abrogé par l’annexe ch. 54 de la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 35
 
 **Recours contre les décisions de réquisition de sûretés**
 
-<sup>1</sup> …[^35-1]
+<sup>1</sup> ...[^35-1]
 
 <sup>2</sup> Les recours contre des décisions de réquisition de sûretés n’ont pas d’effet suspensif.
 
-[^35-1]: Abrogé par le ch. 54 de l’annexe à la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^35-1]: Abrogé par l’annexe ch. 54 de la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## Section 8 Dispositions pénales****
+## Section 8 Dispositions pénales
 
 [^sec8-1]
 
-[^sec8-1]: A partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^sec8-1]: À partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
 #### Art. 36
 
@@ -438,9 +441,10 @@ En cas de circonstances aggravantes, le maximum de l’amende sera augmenté de 
 
 <sup>3</sup> Si le montant de l’impôt soustrait ou mis en péril ne peut être déterminé exactement, il sera évalué par l’autorité fiscale.
 
-<sup>4</sup> Si l’acte punissable constitue à la fois une mise en péril ou une soustraction de l’impôt et, soit une infraction à d’autres lois ou ordonnances fédérales relatives à des redevances que l’Administration des douanes est chargée de poursuivre, soit une infraction douanière, la peine applicable sera celle de l’infraction la plus grave; cette peine pourra être augmentée de manière appropriée.
+<sup>4</sup> Si l’acte punissable constitue à la fois une mise en péril ou une soustraction de l’impôt et, soit une infraction à d’autres lois ou ordonnances fédérales relatives à des redevances que l’OFDF est chargé de poursuivre, soit une infraction douanière, la peine applicable sera celle de l’infraction la plus grave; cette peine peut être augmentée de manière appropriée.[^36-2]
 
 [^36-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^36-2]: Nouvelle teneur selon le ch. I 21 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 37
 
@@ -468,9 +472,10 @@ Quiconque aura enfreint intentionnellement ou par négligence une prescription d
 
 <sup>1</sup> Les infractions sont poursuivies et jugées conformément à la loi fédérale du 22 mars 1974 sur le droit pénal administratif.
 
-<sup>2</sup> L’autorité de poursuite et de jugement est l’Administration fédérale des douanes.
+<sup>2</sup> L’autorité de poursuite et de jugement est l’OFDF.[^40-2]
 
 [^40-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^40-2]: Nouvelle teneur selon le ch. I 21 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Section 9 Dispositions finales
 
@@ -496,6 +501,6 @@ Annexe
 
 ## Modification du droit en vigueur
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 1996 3045](https://fedlex.data.admin.ch/eli/oc/1996/3045_3045_3045).

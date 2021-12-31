@@ -4,11 +4,11 @@ title: "Legge federale del 21 giugno 1996 sull'imposizione degli autoveicoli (LI
 short: LIAut
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045"
 language: it
-version: 2017-01-01
+version: 2022-01-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045/20170101/it/xml/fedlex-data-admin-ch-eli-cc-1996-3045_3045_3045-20170101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3045_3045_3045/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1996-3045_3045_3045-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3045_3045_3045/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3045_3045_3045/20170101/it"
 
 (LIAut)
 
-del 21 giugno 1996 (Stato 1° gennaio 2017) (Stato 1° gennaio 2017)
+del 21 giugno 1996 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -26,7 +26,7 @@ visto l’articolo 131 capoverso 1 lettera d della Costituzione federale[^ingres
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. 2 dell’allegato alla LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^ingress-2]: Nuovo testo giusta il n. 2 dell’all. alla LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^ingress-3]: [FF 1995 IV 1543](https://fedlex.data.admin.ch/eli/fga/1995/4_1689_1629_1543)
 
 ## Sezione 1: Disposizioni generali
@@ -47,19 +47,22 @@ Per autoveicoli destinati al trasporto di persone o di merci a tenore della pres
 
 - a.[^2-1] gli autoveicoli per il trasporto di 10 persone o più, conducente compreso, di peso unitario non eccedente 1600 kg (voci di tariffa[^2-2] 8702.1030, 8702.2010, 8702.3010, 8702.4010 e 8702.9030);
 - b.[^2-3] le autovetture e altre auto principalmente concepite per il trasporto di persone (diverse da quelle menzionate nella lett. a), comprese le vetture tipo «break» e le vetture da corsa (voci di tariffa 8703.1000–9060);
-- c. gli autoveicoli per il trasporto di merci, di peso unitario non eccedente 1600 kg (voci di tariffa 8704.2110 e 2120, 3110 e 3120, 9010 e 9020).
+- c.[^2-4] gli autoveicoli per il trasporto di merci, di peso unitario non eccedente 1600 kg (voci di tariffa 8704.2110 e 2120, 3110 e 3120, 4110 e 4120, 5110 e 5120, 6010 e 6020, 9010 e 9020).
 
 <sup>2</sup> Non sono reputati autoveicoli a tenore della presente legge i telai cabinati destinati agli autoveicoli citati nel capoverso 1.
 
-[^2-1]: Nouvo testo giusta il n. 1 dell’all. 3 all’O del 10 giu. 2016 concernente la modifica della tariffa doganale, in vigore dal 1<sup>°</sup> gen. 2017 ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
+[^2-1]: Nuovo testo giusta il n. 1 dell’all. 3 all’O del 10 giu. 2016 concernente la modifica della tariffa doganale, in vigore dal 1<sup>°</sup> gen. 2017 ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
 [^2-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871),all.
-[^2-3]: Nouvo testo giusta il n. 1 dell’all. 3 all’O del 10 giu. 2016 concernente la modifica della tariffa doganale, in vigore dal 1<sup>°</sup> gen. 2017 ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
+[^2-3]: Nuovo testo giusta il n. 1 dell’all. 3 all’O del 10 giu. 2016 concernente la modifica della tariffa doganale, in vigore dal 1<sup>°</sup> gen. 2017 ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
+[^2-4]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 #### Art. 3
 
-**Autorità fiscale**
+**Autorità fiscale**[^3-1]
 
-L’autorità fiscale è l’Amministrazione federale delle dogane. Essa esegue tutti i provvedimenti previsti dalla presente legge e impartisce tutte le istruzioni necessarie a tal riguardo la cui emanazione non è espressamente riservata a un’altra autorità.
+L’autorità fiscale è l’Ufficio federale della dogana e della sicurezza dei confini (UDSC). Esso esegue tutti i provvedimenti previsti dalla presente legge e impartisce tutte le istruzioni necessarie a tal riguardo la cui emanazione non è espressamente riservata a un’altra autorità.
+
+[^3-1]: Nuovo testo giusta il n. I 21 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 4
 
@@ -118,7 +121,7 @@ Sono soggetti all’imposta:
 
 <sup>2</sup> Il Consiglio federale designa le persone soggette all’imposta per le importazioni nelle enclavi doganali svizzere.
 
-[^9-1]: Nuovo testo giusta il n. 2 dell’allegato alla LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^9-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
 #### Art. 10
 
@@ -165,8 +168,8 @@ Sono esenti dall’imposta:
 
 <sup>3</sup> Il Consiglio federale regola i dettagli.
 
-[^12-1]: Nuovo testo giusta il n. 2 dell’allegato alla LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^12-2]: Nuovo testo giusta il n. 2 dell’allegato alla LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^12-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^12-2]: Nuovo testo giusta il n. 2 dell’all. alla LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^12-3]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
 
 ## Sezione 3: Aliquota d’imposta
@@ -282,7 +285,7 @@ La Direzione generale delle dogane può condonare integralmente o parzialmente l
 
 <sup>2</sup> Il Consiglio federale regola la procedura applicabile all’importazione di autoveicoli nelle enclavi doganali svizzere.
 
-[^23-1]: Nuovo testo giusta il n. 2 dell’allegato alla LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^23-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
 #### Art. 24
 
@@ -399,7 +402,7 @@ L’autorità fiscale rileva i dati necessari per l’esecuzione della presente 
 
 <sup>2</sup> Le decisioni di prima istanza delle direzioni di circondario possono essere impugnate entro 30 giorni mediante ricorso alla Direzione generale delle dogane.[^33-2]
 
-[^33-1]: Nuovo testo giusta il n. 2 dell’allegato alla LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^33-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^33-2]: Nuovo testo giusta il n. 54 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 34
@@ -435,10 +438,11 @@ In caso di circostanze aggravanti, il massimo della multa comminata è aumentato
 
 <sup>3</sup> Se non può essere accertato esattamente, l’importo dell’imposta sottratto o compromesso è stimato dall’autorità fiscale.
 
-<sup>4</sup> Se un atto costituisce in pari tempo una messa in pericolo o una sottrazione dell’imposta e un’infrazione ad altri disposti federali concernenti tributi, che l’Amministrazione federale delle dogane è tenuta a perseguire, o un’infrazione doganale, si applica la pena corrispondente all’infrazione più grave; la pena può essere adeguatamente aumentata.
+<sup>4</sup> Se un atto costituisce in pari tempo una messa in pericolo o una sottrazione dell’imposta e un’infrazione ad altri disposti federali concernenti tributi, che l’UDSC è tenuto a perseguire o un’infrazione doganale, si applica la pena corrispondente all’infrazione più grave; la pena può essere adeguatamente aumentata.[^36-3]
 
 [^36-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2–6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
 [^36-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^36-3]: Nuovo testo giusta il n. I 21 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 37
 
@@ -466,9 +470,10 @@ Chiunque, intenzionalmente o per negligenza, disattende una prescrizione della p
 
 <sup>1</sup> Le infrazioni sono perseguite e giudicate conformemente alla legge federale del 22 marzo 1974[^40-1] sul diritto penale amministrativo.
 
-<sup>2</sup> L’autorità competente per perseguire e giudicare è l’Amministrazione federale delle dogane.
+<sup>2</sup> L’autorità competente per perseguire e giudicare è l’UDSC.[^40-2]
 
 [^40-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^40-2]: Nuovo testo giusta il n. I 21 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Sezione 9: Disposizioni finali
 

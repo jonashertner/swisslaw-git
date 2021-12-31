@@ -4,11 +4,11 @@ title: Automobilsteuergesetz vom 21. Juni 1996 (AStG)
 short: AStG
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045"
 language: de
-version: 2017-01-01
+version: 2022-01-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045/20170101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3045_3045_3045-20170101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3045_3045_3045/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3045_3045_3045-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3045_3045_3045/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3045_3045_3045/20170101/de"
 
 (AStG)
 
-vom 21. Juni 1996 (Stand am 1. Januar 2017)
+vom 21. Juni 1996 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -47,19 +47,22 @@ Als Automobile für den Personen- oder Warentransport im Sinne dieses Gesetzes g
 
 - a.[^2-1] Automobile zum Befördern von zehn Personen oder mehr, einschliesslich Fahrer, im Stückgewicht von nicht mehr als 1600 kg (Zolltarifnummern 8702.1030, 8702.2010, 8702.3010, 8702.4010 und 8702.9030[^2-2]);
 - b.[^2-3] Personenautomobile und andere hauptsächlich zum Befördern von Personen gebaute Automobile (andere als solche nach Bst. a), einschliesslich «Breaks» und Rennwagen (Zolltarifnummern 8703.1000–9060);
-- c. Automobile zum Befördern von Waren, im Stückgewicht von nicht mehr als 1600 kg (Zolltarifnummern 8704.2110 und 2120, 3110 und 3120, 9010 und 9020).
+- c.[^2-4] Automobile zum Befördern von Waren, im Stückgewicht von nicht mehr als 1600 kg (Zolltarifnummern 8704.2110 und 2120, 3110 und 3120, 4110 und 4120, 5110 und 5120, 6010 und 6020, 9010 und 9020).
 
 <sup>2</sup> Nicht als Automobile im Sinne dieses Gesetzes gelten die Automobilchassis mit Führerkabine für Automobile nach Absatz 1.
 
 [^2-1]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 10. Juni 2016 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2017 ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
 [^2-2]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
 [^2-3]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 10. Juni 2016 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2017 ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
+[^2-4]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 #### Art. 3
 
-**Steuerbehörde**
+**Steuerbehörde**[^3-1]
 
-Steuerbehörde ist die Eidgenössische Zollverwaltung. Sie vollzieht alle Massnahmen, die dieses Gesetz vorsieht, und erlässt alle dafür erforderlichen Weisungen, deren Erlass nicht ausdrücklich einer anderen Behörde vorbehalten ist.
+Steuerbehörde ist das Bundesamt für Zoll und Grenzsicherheit (BAZG). Es vollzieht alle Massnahmen, die dieses Gesetz vorsieht, und erlässt alle dafür erforderlichen Weisungen, deren Erlass nicht ausdrücklich einer anderen Behörde vorbehalten ist.
+
+[^3-1]: Fassung gemäss Ziff. I 21 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 4
 
@@ -385,11 +388,7 @@ Die Steuerbehörde erfasst die für den Vollzug dieses Gesetzes benötigten Date
 
 **Einsprache**
 
-<sup>1</sup> Gegen erstinstanzliche Verfügungen der Oberzolldirektion kann innerhalb von
-
-30 Tagen Einsprache erhoben werden. Ausgenommen sind Verfügungen über die
-
-Sicherstellung
+<sup>1</sup> Gegen erstinstanzliche Verfügungen der Oberzolldirektion kann innerhalb von 30 Tagen Einsprache erhoben werden. Ausgenommen sind Verfügungen über die Sicherstellung.
 
 <sup>2</sup> Für das Einspracheverfahren gelten sinngemäss die Bestimmungen über das Verwaltungsbeschwerdeverfahren (Art. 51 ff. des Verwaltungsverfahrensgesetzes vom 20. Dez. 1968[^32-1]).
 
@@ -399,7 +398,7 @@ Sicherstellung
 
 **Beschwerde an die Zollkreisdirektionen und an die Oberzolldirektion**
 
-<sup>1</sup> Gegen Verfügungen der Zollstellen kann innerhalb von 60 Tagen seit Ausstellen der Veranlagungsverfügung Beschwerde bei der Zollkreisdirektion erhoben werden. [^33-1]
+<sup>1</sup> Gegen Verfügungen der Zollstellen kann innerhalb von 60 Tagen seit Ausstellen der Veranlagungsverfügung Beschwerde bei der Zollkreisdirektion erhoben werden.[^33-1]
 
 <sup>2</sup> Gegen erstinstanzliche Verfügungen der Zollkreisdirektionen kann innerhalb von 30 Tagen bei der Oberzolldirektion Beschwerde erhoben werden.[^33-2]
 
@@ -426,7 +425,7 @@ Sicherstellung
 
 [^sec8-1]
 
-[^sec8-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2-6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979) zu interpretieren beziehungsweise umzurechnen.
+[^sec8-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979) zu interpretieren beziehungsweise umzurechnen.
 
 #### Art. 36
 
@@ -443,9 +442,10 @@ Bei erschwerenden Umständen wird das Höchstmass der angedrohten Busse um die H
 
 <sup>3</sup> Kann der gefährdete oder hinterzogene Steuerbetrag nicht genau ermittelt werden, so wird er durch die Steuerbehörde geschätzt.
 
-<sup>4</sup> Erfüllt eine Handlung gleichzeitig den Tatbestand einer Gefährdung oder Hinterziehung der Steuer und einer durch die Zollverwaltung zu verfolgenden Widerhandlung gegen andere Abgabenerlasse des Bundes oder einer Zollwiderhandlung, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.
+<sup>4</sup> Erfüllt eine Handlung gleichzeitig den Tatbestand einer Gefährdung oder Hinterziehung der Steuer und einer durch das BAZG zu verfolgenden Widerhandlung gegen andere Abgabenerlasse des Bundes oder einer Zollwiderhandlung, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.[^36-2]
 
 [^36-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^36-2]: Fassung gemäss Ziff. I 21 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 37
 
@@ -473,9 +473,10 @@ Wer vorsätzlich oder fahrlässig einer Vorschrift dieses Gesetzes oder eines Au
 
 <sup>1</sup> Widerhandlungen werden nach dem Verwaltungsstrafrechtsgesetz vom 22. März 1974 verfolgt und beurteilt.
 
-<sup>2</sup> Verfolgende und urteilende Behörde ist die Eidgenössische Zollverwaltung.
+<sup>2</sup> Verfolgende und urteilende Behörde ist das BAZG.[^40-2]
 
 [^40-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^40-2]: Fassung gemäss Ziff. I 21 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## 9. Abschnitt: Schlussbestimmungen
 
