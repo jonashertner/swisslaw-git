@@ -4,25 +4,25 @@ number: "172.112"
 title: Standeskommissionsbeschluss über die Zuständigkeiten bei den Immobilien und Konzessionen des Kantons
 short: StKB Immobilien
 language: de
-version: 2014-09-16
-corrected: 2018-09-04
-version_adopted: 2014-09-16
+version: 2022-01-01
+version_adopted: 2021-09-28
 adopted: 2000-11-21
 in_force: 2001-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/172.112"
-pdf: "https://ai.clex.ch/api/de/versions/113/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/1950/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Standeskommissionsbeschluss über die Zuständigkeiten bei den Immobilien und Konzessionen des Kantons
 
-vom 21. November 20001
+(StKB Immobilien)
+
+vom 21.11.2000 (Stand 01.01.2022)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
-gestützt auf Art. 10 der Verordnung über die Departemente (DepV) vom 26. März 2001 und Art. 30 Abs. 5 der Kantonsverfassung vom 24. Wintermonat 1872,2
+gestützt auf Art. 10 der Verordnung über die Departemente (DepV) vom 26. März 2001 und Art. 30 Abs. 5 der Kantonsverfassung vom 24. Wintermonat 1872,
 
 beschliesst:
 
@@ -50,29 +50,23 @@ beschliesst:
 
 #### Art. 4
 
-Die Aufwendungen des ordentlichen Unterhaltes liegen, im Rahmen des Budgets, im Kompetenzbereich des Departementes.
+<sup>1</sup> Die Aufwendungen des ordentlichen Unterhaltes liegen, im Rahmen des Budgets, im Kompetenzbereich des Departementes.
 
 #### Art. 5
 
-Das Finanzdepartement ist zuständig für:
+<sup>1</sup> Das Finanzdepartement ist zuständig für:
 
 - a) die Versicherung der Objekte;
-
 - b) den Einzug der Miet- und Pachtzinse sowie der Gebühren;
-
 - c) die Führung einer Datenbank der Immobilien (inkl. der darauf lastenden dinglichen und obligatorischen Rechte und Pflichten) und der Konzessionen.
-
-- d) das Bereitstellen der Vertragsgrundlagen für die Departemente mit Ausnahme der Pachtgrundlagen, welche beim Landeshauptmannamt bezogen werden können.
+- d) das Bereitstellen der Vertragsgrundlagen für die Departemente mit Ausnahme der Pachtgrundlagen, welche beim Land- und Forstwirtschaftsdepartement bezogen werden können.
 
 #### Art. 6
 
-Den Reinigungsdienst der Objekte, mit Ausnahme des Gymnasiums, des Spitals und Pflegeheims Appenzell, der Bürgerheime, des Asylzentrums Mettlen sowie der Schutzräume, regelt unter Vorbehalt bestehender Verträge das Bau- und Umweltdepartement.
+<sup>1</sup> Den Reinigungsdienst der Objekte, mit Ausnahme des Gymnasiums, des Gesundheitszentrums, des Asylzentrums Mettlen sowie der Schutzräume, regelt unter Vorbehalt bestehender Verträge das Bau- und Umweltdepartement.
 
 #### Art. 7
 
-Dieser Beschluss tritt nach Annahme durch die Standeskommission am 1. Januar 2001 in Kraft.
+<sup>1</sup> Dieser Beschluss tritt nach Annahme durch die Standeskommission am 1. Januar 2001 in Kraft.
 
-## Weitere Fussnoten
-
-- [1] Mit Revisionen vom 1. Juli 2003 und 16. September 2014.
-- [2] Ingress abgeändert durch StKB vom 1. Juli 2003 und 16. September 2014.
+cGS -
