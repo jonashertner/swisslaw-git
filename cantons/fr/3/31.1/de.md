@@ -4,13 +4,13 @@ number: "31.1"
 title: Einführungsgesetz zum Strafgesetzbuch
 short: EGStGB
 language: de
-version: 2020-07-01
-valid_until: 2021-12-31
-version_adopted: 2020-06-24
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-10-06
 adopted: 2006-10-06
 in_force: 2007-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/31.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6592/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6941/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Strafgesetzbuch – Einführungsgesetz
 
 (EGStGB)
 
-vom 06.10.2006 (Fassung in Kraft getreten am 01.07.2020)
+vom 06.10.2006 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -144,7 +144,7 @@ beschliesst:
 - a) die Polizeiübertretungen gemäss den Artikeln 11–14;
 - b) die Widerhandlungen gegen das kantonale Verwaltungs- und Prozessrecht gemäss Spezialgesetzgebung.
 
-<sup>2</sup> Widerhandlungen werden nach dem Justizgesetz verfolgt und beurteilt. Vorbehalten bleiben die Gesetze, die ein Ordnungsbussenverfahren vorsehen.
+<sup>2</sup> Widerhandlungen werden nach dem Justizgesetz verfolgt und beurteilt. Die Ordnungsbussengesetzgebung von Kanton und Bund bleibt vorbehalten.
 
 <sup>3</sup> Lediglich die Übertretungen nach kantonalem Recht, die auf dem Kantonsgebiet begangen werden, werden nach Freiburger Recht geahndet.
 
@@ -152,11 +152,11 @@ beschliesst:
 
 **Anwendbares Recht**
 
-<sup>1</sup> Die Bestimmungen der Artikel 103–109 des Strafgesetzbuches finden auf die Widerhandlungen gegen das kantonale Recht Anwendung. Vorbehalten bleiben die Gesetze, die ein Ordnungsbussenverfahren vorsehen.
+<sup>1</sup> Die Bestimmungen der Artikel 103–109 und 79a des Strafgesetzbuches finden auf die Widerhandlungen gegen das kantonale Recht sinngemäss Anwendung. Die Ordnungsbussengesetzgebung von Kanton und Bund bleibt vorbehalten.
 
 <sup>2</sup> Die Widerhandlungen gegen das kantonale Recht sind jedoch auch strafbar, wenn sie fahrlässig begangen wurden; anders lautende Bestimmungen bleiben vorbehalten.
 
-<sup>3</sup> Die Bestimmungen über die Strafbarkeit des Unternehmens (Art. 102 und 102a des Strafgesetzbuches) gelten sinngemäss.
+<sup>3</sup> Die Regeln des Strafgesetzbuchs über die Verantwortlichkeit des Unternehmens (Art. 102 StGB) gelten sinngemäss.
 
 <sup>4</sup> Der Mindestbetrag der Busse beträgt stets 50 Franken.
 

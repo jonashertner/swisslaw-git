@@ -4,13 +4,13 @@ number: "31.1"
 title: "Loi d'application du code pénal"
 short: LACP
 language: fr
-version: 2020-07-01
-valid_until: 2021-12-31
-version_adopted: 2020-06-24
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-10-06
 adopted: 2006-10-06
 in_force: 2007-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/31.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6592/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6941/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Code pénal – Loi d'application
 
 (LACP)
 
-du 06.10.2006 (version entrée en vigueur le 01.07.2020)
+du 06.10.2006 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -144,7 +144,7 @@ Décrète:
 - a) les contraventions de police prévues aux articles 11 à 14;
 - b) les infractions au droit cantonal administratif et de procédure prévues par la législation spéciale.
 
-<sup>2</sup> La poursuite et le jugement des infractions ont lieu conformément à la loi sur la justice. Les lois prévoyant une procédure d'amendes d'ordre sont réservées.
+<sup>2</sup> La poursuite et le jugement des infractions ont lieu conformément à la loi sur la justice. La législation cantonale et fédérale sur les amendes d'ordre demeure réservée.
 
 <sup>3</sup> Seules les contraventions de droit cantonal commises sur le territoire du canton sont réprimées par le droit fribourgeois.
 
@@ -152,11 +152,11 @@ Décrète:
 
 **Droit applicable**
 
-<sup>1</sup> Les dispositions des articles 103 à 109 du code pénal sont applicables par analogie aux infractions au droit cantonal. Les lois prévoyant une procédure d'amendes d'ordre sont réservées.
+<sup>1</sup> Les dispositions des articles 103 à 109 et 79a du code pénal sont applicables par analogie aux infractions au droit cantonal. La législation cantonale et fédérale sur les amendes d'ordre demeure réservée.
 
 <sup>2</sup> Toutefois, sauf disposition légale contraire, les infractions au droit cantonal sont punissables même quand elles ont été commises par négligence.
 
-<sup>3</sup> Les dispositions concernant la responsabilité de l'entreprise (art. 102 et 102a du code pénal) s'appliquent par analogie.
+<sup>3</sup> Les règles du code pénal concernant la responsabilité de l'entreprise (art. 102 CP) s'appliquent par analogie.
 
 <sup>4</sup> Le minimum de l'amende est toujours de 50 francs.
 
