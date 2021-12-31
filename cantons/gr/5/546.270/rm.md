@@ -1,23 +1,25 @@
 ---
 canton: GR
 number: "546.270"
-title: Disposiziuns executivas tar la lescha chantunala da sustegn
+title: "Disposiziuns executivas tar la lescha chantunala da sustegn *"
 short: DEtLS
 language: rm
-version: 2013-08-01
-corrected: 2015-03-24
-version_adopted: 2013-06-18
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-03-16
 adopted: 2005-11-08
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/546.270"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2094/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3165/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Disposiziuns executivas tar la lescha chantunala da sustegn
 
-dals 08-11-2005 (versiun dals 01-08-2013)
+(DEtLS)
+
+dals 08-11-2005 (versiun dals 01-01-2022)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1] e sin l'art. 18 da la lescha chantunala da sustegn[^ingress-2]
 
@@ -26,11 +28,13 @@ relaschadas da la regenza ils 8 da november 2005
 [^ingress-1]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
 [^ingress-2]: DG [546.250](https://www.gr-lex.gr.ch/data/546.250/rm)
 
+## 1. Prestaziuns da sustegn da la vischnanca
+
 #### Art. 1
 
 **Princip**
 
-<sup>1</sup> Per calcular il sustegn da la vischnanca cumpetenta en il senn da l'artitgel 2 da la lescha èn decisivas las directivas da la conferenza svizra da l'agid social per la concepziun e per la calculaziun da l'agid social che dateschan da l'avrigl 2005 inclusiv il chapitel "agids pratics" cun concretisaziuns e restricziuns qua sutvart.
+<sup>1</sup> Per calcular il sustegn da la vischnanca cumpetenta en il senn da l'artitgel 2 da la lescha èn decisivas las Directivas da la Conferenza svizra da l'agid social per la concepziun e per la calculaziun da l'agid social che dateschan da l'avrigl 2005 cun las concretisaziuns e las restricziuns qua sutvart.
 
 #### Art. 2
 
@@ -45,7 +49,8 @@ relaschadas da la regenza ils 8 da november 2005
 - e) custs per l'assistenza d'uffants ordaifer la famiglia;
 - f) pretsch dals custs da salari;
 - g) custs per frequentar scolas, curs, scolaziuns, perfecziunaments e furmaziuns supplementaras renconuschids da la vischnanca cumpetenta plus ils custs per l'alloschi e per la dunsena en cas ch'ina dimora ordaifer è necessaria;
-- h) custs per participar a mesiras d'integraziun.
+- h) custs per sa participar a mesiras d'integraziun;
+- i) prestaziuns dal provediment da basa liadas a la situaziun (PLS dal provediment da basa).
 
 #### Art. 3
 
@@ -55,11 +60,12 @@ relaschadas da la regenza ils 8 da november 2005
 
 <table>
 <tr><th>Grondezza da la chasada</th><th>pauschala per mais</th></tr>
-<tr><td>1 persuna</td><td>fr. 986.–</td></tr>
-<tr><td>2 persunas</td><td>fr. 1509.–</td></tr>
-<tr><td>3 persunas</td><td>fr. 1834.–</td></tr>
-<tr><td>4 persunas</td><td>fr. 2110.–</td></tr>
-<tr><td>per mintga ulteriura persuna</td><td>fr. 276.–</td></tr>
+<tr><td>1 persuna</td><td>fr. 1006.–</td></tr>
+<tr><td>2 persunas</td><td>fr. 1539.–</td></tr>
+<tr><td>3 persunas</td><td>fr. 1871.–</td></tr>
+<tr><td>4 persunas</td><td>fr. 2153.–</td></tr>
+<tr><td>5 persunas</td><td>fr. 2435.–</td></tr>
+<tr><td>per mintga ulteriura persuna</td><td>fr. 204.–</td></tr>
 </table>
 
 #### Art. 4
@@ -69,7 +75,7 @@ relaschadas da la regenza ils 8 da november 2005
 <sup>1</sup> Sch'i vegn cumenzada u pratitgada in'activitad da gudogn u sche la dimensiun da l'activitad da gudogn vegn engrondida durant il sustegn, na sto l'entrada obtegnida or da l'activitad da gudogn betg vegnir quintada, e quai sco suonda:
 
 <table>
-<tr><th>Prestaziun da lavur</th><th></th></tr>
+<tr><th>Prestaziun da lavur</th><th>import che na vegn betg quintà</th></tr>
 <tr><td>10% – 19%</td><td>fr. 100.–</td></tr>
 <tr><td>20% – 39%</td><td>fr. 200.–</td></tr>
 <tr><td>40% – 59%</td><td>fr. 300.–</td></tr>
@@ -96,19 +102,14 @@ relaschadas da la regenza ils 8 da november 2005
 
 **Supplement d'integraziun**
 
-<sup>1</sup> A persunas senza activitad da gudogn sto vegnir pajà in supplement d'integraziun sco suonda:
+<sup>1</sup> Cun il supplement d'integraziun vegnan renconuschidas finanzialmain prestaziuns da persunas senza activitad da gudogn per lur integraziun sociala e/u professiunala.
 
-- a) sch'ellas sa participeschan ad in program d'occupaziun, d'engaschament u da scolaziun, da perfecziunament e da furmaziun supplementara renconuschì da la vischnanca:
-  - 1\. 150 francs per mais tar ina dimensiun da tschintg mezs dis per emna;
-  - 2\. 300 francs per mais tar ina dimensiun da tschintg dis per emna;
-- b) sch'ellas exequeschan cumprovadamain ina lavur d'utilitad publica attribuida u renconuschida da la vischnanca cumpetenta:
-  - 1\. 100 francs en cas d'ina activitad da 20 fin 40 uras per mais;
-  - 2\. 200 francs en cas d'ina activitad da 41 fin 70 uras per mais;
-  - 3\. 300 francs en cas d'ina activitad da passa 70 uras per mais.
+- a) …
+- b) …
 
-<sup>2</sup> A persunas, a las qualas la vischnanca cumpetenta na po betg offrir ina purschida d'integraziun che correspunda a lur capacitads fisicas e psichicas, malgrà ch'ellas fissan cumprovadamain prontas da prestar il servetsch, sto vegnir pajà in supplement d'integraziun da 100 francs per mais.
+<sup>2</sup> Tut tenor la prestaziun furnida e tut tenor sia impurtanza importa il supplement d'integraziun per regla tranter 100 e 300 francs per persuna e per mais.
 
-<sup>3</sup> A persunas ch'educheschan sulettas sto vegnir pajada ina contribuziun d'integraziun da 200 francs per mais, e quai fin che l'uffant il pli giuven ha accumplì ses terz onn da vegliadetgna.
+<sup>3</sup> …
 
 #### Art. 7
 
@@ -120,7 +121,7 @@ relaschadas da la regenza ils 8 da november 2005
 
 **Tschains da locaziun**
 
-<sup>1</sup> Per calcular ils bains necessaris per viver sto vegnir integrà il tschains da locaziun d'usit local d'ina abitaziun favuraivla en la grondezza correspundenta da la chasada plus ils custs accessoris. Custs d'abitaziun memia auts ston vegnir surpigliads mo fin al proxim termin da desditga, maximalmain dentant durant sis mais.
+<sup>1</sup> En la calculaziun dals bains necessaris per viver sto vegnir integrà il tschains da locaziun usità al lieu d'ina abitaziun favuraivla en la grondezza correspundenta da la chasada, plus ils custs accessorics. Custs d'abitaziun memia auts ston vegnir surpigliads mo fin al proxim termin da disditga.
 
 #### Art. 9
 
@@ -164,15 +165,30 @@ relaschadas da la regenza ils 8 da november 2005
 
 <sup>3</sup> Sur quai ora n'exista nagin dretg sin prestaziuns da sustegn tenor questas disposiziuns executivas.
 
+#### Art. 10c
+
+**Persunas cun permissiun da dimora curta**
+
+<sup>1</sup> Persunas che han ina permissiun da dimora curta survegnan da la vischnanca exclusivamain l'agid d'urgenza tenor l'artitgel 12 da la constituziun federala. Ultra da quai n'exista nagin dretg da survegnir agid social.
+
+<sup>2</sup> Sch'il viadi da return è pussaivel ord vista medicinala, sa restrenscha l'agid d'urgenza al sustegn tar il return en il stadi da domicil, da segiurn u d'origin.
+
+<sup>3</sup> Questa disposiziun vala er per persunas che tschertgan lavur tenor l'artitgel 2 alinea 1 agiunta I tar la cunvegna dals 21 da zercladur 1999 tranter la confederaziun svizra e la communitad europeica cun ses stadis commembers davart la libra circulaziun da persunas[^10c-1] e tenor l'artitgel 2 alinea 1 agiunta K supplement 1 tar la convenziun dals 4 da schaner 1960 per la fundaziun da l'associaziun europeica da commerzi liber[^10c-2].
+
+[^10c-1]: CS [0.142.112.681](https://db.clex.ch/link/Bund/0.142.112.681/rm)
+[^10c-2]: CS [0.632.31](https://db.clex.ch/link/Bund/0.632.31/rm)
+
 #### Art. 11
 
 **Reducziun da prestaziuns da sustegn**
 
-<sup>1</sup> Il basegn fundamental per l'existenza sto vegnir reducì da la vischnanca cumpetenta durant maximalmain dudesch mais, e quai per tschintg fin 15 pertschient:
+<sup>1</sup> Resguardond il princip da commensurabladad sto il basegn fundamental per l'existenza vegnir reducì per 5 fin 30 pertschient:
 
-- a) en cas da stentas d'integraziun insuffizientas, en spezial, sch'ina persuna n'è betg pronta da prestar ina lavur ch'è vegnida attribuida ad ella da la vischnanca e che correspunda a sias capacitads fisicas e psichicas u sch'ella n'è betg pronta da sa participar ad in program d'occupaziun, d'engaschament u ad in program da scolaziun, da perfecziunament e da furmaziun supplementara ch'è vegnì ordinà da la vischnanca;
-- b) en cas da greva violaziun da las obligaziuns;
+- a) en cas da stentas d'integraziun insuffizientas;
+- b) en cas d'ina violaziun da l'obligaziun;
 - c) en cas d'abus da dretg.
+
+<sup>2</sup> Ina reducziun da 20 fin 30 pertschient dastga durar maximalmain 6 mais, ina tala fin 19 pertschient maximalmain 12 mais.
 
 #### Art. 12
 
@@ -180,12 +196,63 @@ relaschadas da la regenza ils 8 da november 2005
 
 <sup>1</sup> Ils servetschs socials èn obligads d'annunziar directamain a la vischnanca cumpetenta las infurmaziuns che pudessan chaschunar ina reducziun da la contribuziun da sustegn da las persunas sustegnidas.
 
+## 2. Pauschalas globalas da la confederaziun per fugitivas e fugitivs renconuschids ed admess provisoricamain
+
+#### Art. 12a
+
+**Utilisaziun da las pauschalas globalas**
+
+<sup>1</sup> Las pauschalas globalas che la confederaziun paja al chantun per fugitivas e fugitivs renconuschids ed admess provisoricamain tenor l'ordinaziun d'asil 2 concernent dumondas da finanziaziun[^12a-1] vegnan utilisadas per:
+
+- a) ils custs da l'agid social da las vischnancas per fugitivas e fugitivs renconuschids ed admess provisoricamain;
+- b) incumbensas surordinadas da las vischnancas en il sectur da las fugitivas e dals fugitivs, che vegnan exequidas tras il chantun.
+
+[^12a-1]: CS [142.312](https://db.clex.ch/link/Bund/142.312/rm)
+
+#### Art. 12b
+
+**Utilisaziun per ils custs da l'agid social da las vischnancas**
+
+<sup>1</sup> Or da las pauschalas globalas paja il chantun a las vischnancas contribuziuns als custs da l'agid social per fugitivas e fugitivs renconuschids ed admess provisoricamain.
+
+<sup>2</sup> Las contribuziuns vegnan pauschalisadas e pajadas en moda graduada tenor la grondezza dal dossier. La basa per la grondezza dal dossier è il sistem d'infurmaziun central davart la migraziun (SIMIC).
+
+<sup>3</sup> Per la graduaziun tenor la grondezza dal dossier valan ils suandants facturs da valitaziun che sa drizzan tenor il basegn fundamental per ils custs da viver e tenor las normas per tschains da locaziun:
+
+<table>
+<tr><th>Grondezza dal dossier</th><th>Factur da valitaziun per persuna</th></tr>
+<tr><td>1 persuna</td><td>1.00</td></tr>
+<tr><td>2 persunas</td><td>0.71</td></tr>
+<tr><td>3 persunas</td><td>0.58</td></tr>
+<tr><td>4 persunas</td><td>0.51</td></tr>
+<tr><td>5 persunas</td><td>0.46</td></tr>
+<tr><td>6 persunas</td><td>0.41</td></tr>
+<tr><td>a partir da 7 persunas</td><td>0.38</td></tr>
+</table>
+
+#### Art. 12c
+
+**Utilisaziun per incumbensas surordinadas da las vischnancas en il sectur da las fugitivas e dals fugitivs**
+
+<sup>1</sup> Or da las pauschalas globalas cuvra il chantun ils custs per incumbensas surordinadas da las vischnancas en il sectur da las fugitivas e dals fugitivs. Incumbensas surordinadas èn:
+
+- a) l'assistenza e la collocaziun temporara da fugitivas e fugitivs renconuschids ed admess provisoricamain che vivan en las structuras da l'uffizi da migraziun e da dretg civil;
+- b) l'assistenza e la collocaziun temporara da fugitivas e fugitivs renconuschids en il rom da la recolonisaziun duraivla (resettlement) da la confederaziun;
+- c) l'intermediaziun d'abitaziuns per fugitivas e fugitivs renconuschids ed admess provisoricamain;
+- d) la finanziaziun da custs da viadi en cas da mesiras d'integraziun per fugitivas e fugitivs renconuschids ed admess provisoricamain.
+
+#### Art. 12d
+
+**Controlla periodica**
+
+<sup>1</sup> L'uffizi chantunal dal servetsch social controlla periodicamain il grad da la cuvrida dals custs da las contribuziuns pajadas a las vischnancas sco er las incumbensas surordinadas ed ils custs da talas.
+
 #### Art. 13
 
-**Entrada en vigur**
+**Disposiziun finala e transitorica**
 
 <sup>1</sup> Questas disposiziuns executivas entran en vigur il 1. da schaner 2006.
 
-<sup>2</sup> Ils cas da sustegn pendents ston vegnir liquidads tenor questas disposiziuns executivas a partir dal 1. da mars 2006.
+<sup>2</sup> Cas da sustegn currents vegnan liquidads a partir dal 1. d'avrigl 2016 tenor las disposiziuns che valan a partir dal 1. da schaner 2016.
 
 -

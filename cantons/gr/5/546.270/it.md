@@ -1,23 +1,25 @@
 ---
 canton: GR
 number: "546.270"
-title: "Disposizioni esecutive della legge cantonale sull'assistenza"
+title: "Disposizioni esecutive della legge cantonale sull'assistenza *"
 short: DELCAss
 language: it
-version: 2013-08-01
-corrected: 2015-03-24
-version_adopted: 2013-06-18
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-03-16
 adopted: 2005-11-08
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/546.270"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2094/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3165/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Disposizioni esecutive della legge cantonale sull'assistenza
 
-del 08.11.2005 (stato 01.08.2013)
+(DELCAss)
+
+del 08.11.2005 (stato 01.01.2022)
 
 emanate dal Governo l'8 novembre 2005
 
@@ -26,11 +28,13 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 18 dell
 [^ingress-1]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
 [^ingress-2]: CSC [546.250](https://www.gr-lex.gr.ch/data/546.250/it)
 
+## 1. Prestazioni assistenziali del comune
+
 #### Art. 1
 
 **Principio**
 
-<sup>1</sup> Per la valutazione dell'assistenza da parte del comune competente ai sensi dell'articolo 2 della legge sono determinanti i Concetti e indicazioni della Conferenza svizzera delle istituzioni dell'azione sociale per il calcolo dell'aiuto sociale dell'aprile 2005 incluso il capitolo "Guida pratica" con le seguenti concretizzazioni e limitazioni.
+<sup>1</sup> Per la valutazione dell'assistenza da parte del comune competente ai sensi dell'articolo 2 della legge sono determinanti i Concetti e indicazioni della Conferenza svizzera delle istituzioni dell'azione sociale per il calcolo dell'aiuto sociale dell'aprile 2005 con le seguenti concretizzazioni e limitazioni.
 
 #### Art. 2
 
@@ -45,21 +49,23 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 18 dell
 - e) le spese derivanti dall'affidamento in custodia dei figli;
 - f) le spese per il conseguimento del reddito;
 - g) le spese per la frequenza di scuole, corsi, formazioni, formazioni continue e perfezionamenti professionali riconosciuti dal comune competente, più le spese di vitto e alloggio nel caso in cui non sia possibile far rientro a casa;
-- h) le spese per la partecipazione a misure di integrazione.
+- h) le spese per la partecipazione a misure di integrazione;
+- i) prestazioni circostanziali che rientrano nel sostegno di base (prestazioni di sostegno di base).
 
 #### Art. 3
 
 **Forfait**
 
-<sup>1</sup> Il forfait per il mantenimento ammonta a
+<sup>1</sup> Il forfait per il mantenimento ammonta a:
 
 <table>
 <tr><th>Grandezza del nucleo familiare</th><th>Forfait per mese</th></tr>
-<tr><td>1 persona</td><td>fr. 986.–</td></tr>
-<tr><td>2 persone</td><td>fr. 1509.–</td></tr>
-<tr><td>3 persone</td><td>fr. 1834.–</td></tr>
-<tr><td>4 persone</td><td>fr. 2110.–</td></tr>
-<tr><td>per ogni persona supplementare</td><td>fr. 276.–</td></tr>
+<tr><td>1 persona</td><td>fr. 1006.–</td></tr>
+<tr><td>2 persone</td><td>fr. 1539.–</td></tr>
+<tr><td>3 persone</td><td>fr. 1871.–</td></tr>
+<tr><td>4 persone</td><td>fr. 2153.–</td></tr>
+<tr><td>5 persone</td><td>fr. 2435.–</td></tr>
+<tr><td>per ogni persona supplementare</td><td>fr. 204.–</td></tr>
 </table>
 
 #### Art. 4
@@ -69,7 +75,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 18 dell
 <sup>1</sup> Se durante l'assistenza viene esercitata o iniziata un'attività lavorativa remunerata o viene incrementato il volume dell'attività lavorativa, il reddito proveniente dall'attività lavorativa non deve essere computato nella misura seguente:
 
 <table>
-<tr><th>Prestazione lavorativa</th><th></th></tr>
+<tr><th>Prestazione lavorativa</th><th>Importo da non computare</th></tr>
 <tr><td>10% - 19%</td><td>fr. 100.–</td></tr>
 <tr><td>20% - 39%</td><td>fr. 200.–</td></tr>
 <tr><td>40% - 59%</td><td>fr. 300.–</td></tr>
@@ -96,19 +102,14 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 18 dell
 
 **Assegno integrativo**
 
-<sup>1</sup> Alle persone non esercitanti un'attività lavorativa deve essere versato un assegno integrativo come segue:
+<sup>1</sup> Attraverso l'assegno integrativo vengono riconosciute le prestazioni fornite da persone non esercitanti un'attività lavorativa finalizzate alla loro integrazione sociale e/o professionale.
 
-- a) se partecipano ad un programma occupazionale, di inserimento o di formazione, di formazione continua e di perfezionamento professionale riconosciuto dal comune
-  - 1\. 150 franchi mensili con un volume di cinque mezze giornate alla settimana;
-  - 2\. 300 franchi mensili con un volume di cinque giornate alla settimana.
-- b) se comprovano di svolgere un lavoro di pubblica utilità assegnato o riconosciuto dal comune competente
-  - 1\. 100 franchi con un'attività di 20 fino a 40 ore al mese;
-  - 2\. 200 franchi con un'attività di 41 fino a 70 ore al mese;
-  - 3\. 300 franchi con un'attività di più di 70 ore al mese.
+- a) …
+- b) …
 
-<sup>2</sup> Alle persone alle quali, malgrado la comprovata disponibilità, il comune competente non può presentare un'offerta integrativa corrispondente alle loro capacità fisiche o psichiche, deve essere versato un assegno integrativo di 100 franchi al mese.
+<sup>2</sup> A seconda della prestazione fornita e della sua importanza, l'assegno integrativo ammonta di norma a un importo compreso tra 100 e 300 franchi per persona e mese.
 
-<sup>3</sup> Alle famiglie monoparentali deve essere versato un assegno integrativo di 200 franchi al mese fino al compimento del terzo anno d'età del bambino più piccolo.
+<sup>3</sup> …
 
 #### Art. 7
 
@@ -120,7 +121,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 18 dell
 
 **Affitto**
 
-<sup>1</sup> Nel calcolo del minimo vitale deve essere considerato l'affitto medio sul mercato locale di un appartamento economicamente vantaggioso per la rispettiva grandezza del nucleo familiare, più le spese accessorie. Spese di alloggio giudicate eccessivamente elevate devono essere finanziate soltanto fino al prossimo termine di disdetta, al massimo tuttavia per sei mesi.
+<sup>1</sup> Nel calcolo del minimo vitale deve essere considerato l'affitto medio sul mercato locale di un appartamento economicamente vantaggioso per la rispettiva grandezza del nucleo familiare, più le spese accessorie. Spese di alloggio giudicate eccessivamente elevate devono essere finanziate soltanto fino al prossimo termine di disdetta.
 
 #### Art. 9
 
@@ -164,15 +165,30 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 18 dell
 
 <sup>3</sup> Oltre a ciò non esiste alcun diritto a prestazioni assistenziali conformemente alle presenti disposizioni esecutive.
 
+#### Art. 10c
+
+**Persone con permesso di breve durata**
+
+<sup>1</sup> Il comune concede alle persone in possesso di un permesso di soggiorno di breve durata esclusivamente l'aiuto d'urgenza conformemente all'articolo 12 della Costituzione federale. Oltre a ciò non esiste alcun diritto ad aiuto sociale.
+
+<sup>2</sup> Se dal punto di vista medico il rientro è possibile, l'aiuto d'urgenza si limita al sostegno per il rientro nel Paese di domicilio, di residenza o di origine.
+
+<sup>3</sup> La presente disposizione vale anche per persone alla ricerca di impiego secondo l'articolo 2 capoverso 1 allegato I all'Accordo del 21 giugno 1999 tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall'altra, sulla libera circolazione delle persone[^10c-1] e l'articolo 2 capoverso 1 allegato K appendice 1 della Convenzione del 4 gennaio 1960 istitutiva dell'Associazione europea di libero scambio[^10c-2].
+
+[^10c-1]: RS [0.142.112.681](https://db.clex.ch/link/Bund/0.142.112.681/it)
+[^10c-2]: RS [0.632.31](https://db.clex.ch/link/Bund/0.632.31/it)
+
 #### Art. 11
 
 **Riduzione delle prestazioni assistenziali**
 
-<sup>1</sup> Il forfait per il mantenimento deve essere ridotto dal comune competente dal 5 al 15 percento per la durata di al massimo dodici mesi:
+<sup>1</sup> Il forfait per il mantenimento deve essere ridotto dal 5 al 30 per cento nel rispetto del principio di proporzionalità:
 
-- a) in caso di sforzi di integrazione insufficienti, in particolare quando una persona non è disposta a svolgere un lavoro assegnato dal comune, corrispondente alle sue capacità fisiche e psichiche, o a partecipare a un programma occupazionale, di inserimento o di formazione, di formazione continua e di perfezionamento professionale ordinato dal comune;
-- b) in caso di inadempienza grave ai doveri personali;
+- a) in caso di sforzi di integrazione insufficienti;
+- b) in caso di inadempienza ai doveri;
 - c) in caso di violazione della legge.
+
+<sup>2</sup> Una riduzione compresa tra il 20 e il 30 per cento deve essere limitata a un massimo di sei mesi, una riduzione fino al 19 per cento deve essere limitata a un massimo di dodici mesi.
 
 #### Art. 12
 
@@ -180,12 +196,63 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 18 dell
 
 <sup>1</sup> I servizi sociali sono tenuti a notificare immediatamente al comune competente informazioni che possono portare ad una riduzione del contributo di assistenza delle persone assistite.
 
+## 2. Somme forfettarie globali della Confederazione per rifugiati riconosciuti e ammessi provvisoriamente
+
+#### Art. 12a
+
+**Utilizzazione delle somme forfettarie globali**
+
+<sup>1</sup> Le somme forfettarie globali versate dalla Confederazione al Cantone per rifugiati riconosciuti e ammessi provvisoriamente conformemente all'ordinanza 2 sull'asilo relativa alle questioni finanziarie[^12a-1] vengono utilizzate per:
+
+- a) le spese di aiuto sociale dei comuni per rifugiati riconosciuti e ammessi provvisoriamente;
+- b) i compiti sovraordinati dei comuni nel settore dei rifugiati che vengono eseguiti dal Cantone.
+
+[^12a-1]: RS [142.312](https://db.clex.ch/link/Bund/142.312/it)
+
+#### Art. 12b
+
+**Utilizzazione per le spese di aiuto sociale dei comuni**
+
+<sup>1</sup> Facendo capo alle somme forfettarie globali, il Cantone versa ai comuni contributi per le spese di aiuto sociale per rifugiati riconosciuti e ammessi provvisoriamente.
+
+<sup>2</sup> I contributi vengono convertiti in somme forfettarie e versati in maniera graduata secondo l'entità del dossier. La base per determinare l'entità del dossier è costituita dal Sistema d'informazione centrale sulla migrazione (SIMIC).
+
+<sup>3</sup> Per la graduazione secondo l'entità del dossier fanno stato i fattori di ponderazione seguenti, i quali si conformano al forfait per il mantenimento e ai valori standard per le pigioni:
+
+<table>
+<tr><th>Entità del dossier</th><th>Fattore di ponderazione per persona</th></tr>
+<tr><td>1 persona</td><td>1,00</td></tr>
+<tr><td>2 persone</td><td>0,71</td></tr>
+<tr><td>3 persone</td><td>0,58</td></tr>
+<tr><td>4 persone</td><td>0,51</td></tr>
+<tr><td>5 persone</td><td>0,46</td></tr>
+<tr><td>6 persone</td><td>0,41</td></tr>
+<tr><td>a partire da 7 persone</td><td>0,38</td></tr>
+</table>
+
+#### Art. 12c
+
+**Utilizzazione per compiti sovraordinati dei comuni nel settore dei rifugiati**
+
+<sup>1</sup> Facendo capo alle somme forfettarie globali, il Cantone copre i costi per i compiti sovraordinati dei comuni nel settore dei rifugiati. Sono compiti sovraordinati:
+
+- a) l'assistenza e il collocamento temporanei di rifugiati riconosciuti e ammessi provvisoriamente che vivono in strutture dell'Ufficio della migrazione e del diritto civile;
+- b) l'assistenza e il collocamento temporanei di rifugiati riconosciuti nel quadro della rilocazione della Confederazione;
+- c) la mediazione di alloggi per rifugiati riconosciuti e ammessi provvisoriamente;
+- d) il finanziamento delle spese di viaggio in caso di misure di integrazione per rifugiati riconosciuti e ammessi provvisoriamente.
+
+#### Art. 12d
+
+**Verifica periodica**
+
+<sup>1</sup> L'Ufficio cantonale del servizio sociale verifica periodicamente il grado di copertura dei costi garantito dai contributi versati ai comuni nonché i compiti sovraordinati e i relativi costi.
+
 #### Art. 13
 
-**Entrata in vigore**
+**Disposizione finale e transitoria**
 
 <sup>1</sup> Le presenti disposizioni esecutive entrano in vigore il 1° gennaio 2006.
 
-<sup>2</sup> I casi di assistenza in corso devono essere gestiti dal 1° marzo 2006 in base alle presenti disposizioni esecutive.
+<sup>2</sup> A partire dal 1° aprile 2016, i casi di assistenza in corso dovranno essere gestiti secondo le disposizioni vigenti dal 1° gennaio 2016.
 
 -

@@ -4,20 +4,22 @@ number: "546.270"
 title: Ausführungsbestimmungen zum kantonalen Unterstützungsgesetz
 short: ABzUG
 language: de
-version: 2013-08-01
-corrected: 2015-03-24
-version_adopted: 2013-06-18
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-03-16
 adopted: 2005-11-08
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/546.270"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2094/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3165/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen zum kantonalen Unterstützungsgesetz
 
-Vom 08.11.2005 (Stand 01.08.2013)
+(ABzUG)
+
+Vom 08.11.2005 (Stand 01.01.2022)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 18 des kantonalen Unterstützungsgesetzes[^ingress-2]
 
@@ -26,11 +28,13 @@ von der Regierung erlassen am 8. November 2005
 [^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
 [^ingress-2]: BR [546.250](https://www.gr-lex.gr.ch/data/546.250/de)
 
+## 1. Unterstützungsleistungen der Gemeinde
+
 #### Art. 1
 
 **Grundsatz**
 
-<sup>1</sup> Für die Bemessung der Unterstützung durch die zuständige Gemeinde im Sinne von Artikel 2 des Gesetzes sind die Richtlinien der Schweizerischen Konferenz für Sozialhilfe für die Ausgestaltung und Bemessung der Sozialhilfe vom April 2005 einschliesslich des Kapitels "Praxishilfen" mit den nachfolgenden Konkretisierungen und Einschränkungen massgebend.
+<sup>1</sup> Für die Bemessung der Unterstützung durch die zuständige Gemeinde im Sinne von Artikel 2 des Gesetzes sind die Richtlinien der Schweizerischen Konferenz für Sozialhilfe für die Ausgestaltung und Bemessung der Sozialhilfe vom April 2005 mit den nachfolgenden Konkretisierungen und Einschränkungen massgebend.
 
 #### Art. 2
 
@@ -45,21 +49,23 @@ von der Regierung erlassen am 8. November 2005
 - e) Kosten für die Fremdbetreuung von Kindern;
 - f) Lohngestehungskosten;
 - g) Kosten des Besuchs von durch die zuständige Gemeinde anerkannten Schulen, Kursen, Aus-, Fort- und Weiterbildungen zuzüglich Kosten für Unterkunft und Verpflegung bei notwendigem auswärtigem Aufenthalt;
-- h) Kosten für die Teilnahme an Integrationsmassnahmen.
+- h) Kosten für die Teilnahme an Integrationsmassnahmen;
+- i) grundversorgende situationsbedingte Leistungen (grundversorgende SIL).
 
 #### Art. 3
 
 **Grundbedarf**
 
-<sup>1</sup> Der Grundbedarf für den Lebensunterhalt beträgt bei
+<sup>1</sup> Der Grundbedarf für den Lebensunterhalt beträgt bei:
 
 <table>
 <tr><th>Haushaltsgrösse</th><th>Pauschale pro Monat</th></tr>
-<tr><td>1 Person</td><td>Fr. 986.–</td></tr>
-<tr><td>2 Personen</td><td>Fr. 1509.–</td></tr>
-<tr><td>3 Personen</td><td>Fr. 1834.–</td></tr>
-<tr><td>4 Personen</td><td>Fr. 2110.–</td></tr>
-<tr><td>pro weitere Person</td><td>Fr. 276.–</td></tr>
+<tr><td>1 Person</td><td>Fr. 1006.–</td></tr>
+<tr><td>2 Personen</td><td>Fr. 1539.–</td></tr>
+<tr><td>3 Personen</td><td>Fr. 1871.–</td></tr>
+<tr><td>4 Personen</td><td>Fr. 2153.–</td></tr>
+<tr><td>5 Personen</td><td>Fr. 2435.–</td></tr>
+<tr><td>pro weitere Person</td><td>Fr. 204.–</td></tr>
 </table>
 
 #### Art. 4
@@ -96,19 +102,14 @@ von der Regierung erlassen am 8. November 2005
 
 **Integrationszulage**
 
-<sup>1</sup> Nicht erwerbstätigen Personen ist wie folgt eine Integrationszulage auszurichten:
+<sup>1</sup> Mit der Integrationszulage werden Leistungen nicht erwerbstätiger Personen für ihre soziale und/oder berufliche Integration finanziell anerkannt.
 
-- a) wenn sie an einem von der Gemeinde anerkannten Beschäftigungs-, Einsatz- oder Aus-, Fort- und Weiterbildungsprogramm teilnehmen
-  - 1\. 150 Franken monatlich bei einem Umfang von fünf Halbtagen pro Woche;
-  - 2\. 300 Franken monatlich bei einem Umfang von fünf Tagen pro Woche.
-- b) wenn sie nachweislich eine von der zuständigen Gemeinde zugewiesene oder anerkannte gemeinnützige Arbeit ausüben
-  - 1\. 100 Franken bei einer Tätigkeit von 20 bis 40 Stunden pro Monat;
-  - 2\. 200 Franken bei einer Tätigkeit von 41 bis 70 Stunden pro Monat;
-  - 3\. 300 Franken bei einer Tätigkeit von mehr als 70 Stunden pro Monat.
+- a) …
+- b) …
 
-<sup>2</sup> Personen, denen trotz ausgewiesener Bereitschaft von der zuständigen Gemeinde kein ihren physischen und psychischen Fähigkeiten entsprechendes Integrationsangebot unterbreitet werden kann, ist eine Integrationszulage von 100 Franken pro Monat auszurichten.
+<sup>2</sup> Die Integrationszulage beträgt je nach erbrachter Leistung und deren Bedeutung in der Regel zwischen 100 und 300 Franken pro Person und Monat.
 
-<sup>3</sup> Allein erziehenden Personen ist bis zum vollendeten dritten Altersjahr des jüngsten Kindes eine Integrationszulage von 200 Franken pro Monat auszurichten.
+<sup>3</sup> …
 
 #### Art. 7
 
@@ -120,7 +121,7 @@ von der Regierung erlassen am 8. November 2005
 
 **Mietzins**
 
-<sup>1</sup> In die Berechnung des Lebensbedarfs ist der ortsübliche Mietzins einer preisgünstigen Wohnung für die entsprechende Haushaltsgrösse zuzüglich Nebenkosten einzubeziehen. Überhöhte Wohnkosten sind nur bis zum nächsten Kündigungstermin, maximal jedoch während sechs Monaten, zu übernehmen.
+<sup>1</sup> In die Berechnung des Lebensbedarfs ist der ortsübliche Mietzins einer preisgünstigen Wohnung für die entsprechende Haushaltsgrösse zuzüglich Nebenkosten einzubeziehen. Überhöhte Wohnkosten sind nur bis zum nächsten Kündigungstermin zu übernehmen.
 
 #### Art. 9
 
@@ -164,15 +165,30 @@ von der Regierung erlassen am 8. November 2005
 
 <sup>3</sup> Darüber hinaus besteht kein Anspruch auf Unterstützungsleistungen gemäss diesen Ausführungsbestimmungen.
 
+#### Art. 10c
+
+**Personen mit Kurzaufenthaltsbewilligung**
+
+<sup>1</sup> Personen mit Kurzaufenthaltsbewilligung wird ausschliesslich Nothilfe gemäss Artikel 12 der Bundesverfassung durch die Gemeinde geleistet. Darüber hinaus besteht kein Anspruch auf Sozialhilfe.
+
+<sup>2</sup> Ist die Rückreise aus medizinischer Sicht möglich, beschränkt sich die Nothilfe auf die Unterstützung bei der Rückkehr in den Wohnsitz-, Aufenthalts- oder Heimatstaat.
+
+<sup>3</sup> Diese Bestimmung gilt auch für Arbeitssuchende nach Artikel 2 Absatz 1 Anhang I zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit[^10c-1] und Artikel 2 Absatz 1 Anhang K Anlage 1 zum Übereinkommen vom 4. Januar 1960 zur Errichtung der Europäischen Freihandelsassoziation[^10c-2].
+
+[^10c-1]: SR [0.142.112.681](https://db.clex.ch/link/Bund/0.142.112.681/de)
+[^10c-2]: SR [0.632.31](https://db.clex.ch/link/Bund/0.632.31/de)
+
 #### Art. 11
 
 **Kürzung von Unterstützungsleistungen**
 
-<sup>1</sup> Der Grundbedarf für den Lebensunterhalt ist von der zuständigen Gemeinde für die Dauer von maximal zwölf Monaten um fünf bis 15 Prozent zu kürzen:
+<sup>1</sup> Der Grundbedarf für den Lebensunterhalt ist unter Beachtung des Grundsatzes der Verhältnismässigkeit um 5 bis 30 Prozent zu kürzen:
 
-- a) bei ungenügenden Integrationsanstrengungen, insbesondere wenn eine Person nicht bereit ist, eine von der Gemeinde zugewiesene, ihren physischen und psychischen Fähigkeiten entsprechende Arbeit auszuführen oder an einem von der Gemeinde angeordneten Beschäftigungs-, Einsatz- oder Aus-, Fort- und Weiterbildungsprogramm teilzunehmen;
-- b) bei grober Pflichtverletzung;
+- a) bei ungenügenden Integrationsanstrengungen;
+- b) bei Pflichtverletzung;
 - c) bei Rechtsmissbrauch.
+
+<sup>2</sup> Eine Kürzung von 20 bis 30 Prozent ist auf maximal sechs Monate, eine solche bis 19 Prozent auf maximal zwölf Monate zu befristen.
 
 #### Art. 12
 
@@ -180,12 +196,63 @@ von der Regierung erlassen am 8. November 2005
 
 <sup>1</sup> Die Sozialdienste sind verpflichtet, Informationen, die zu einer Kürzung des Unterstützungsbeitrages von unterstützten Personen führen können, der zuständigen Gemeinde umgehend zu melden.
 
+## 2. Globalpauschalen des Bundes für anerkannte und vorläufig aufgenommene Flüchtlinge
+
+#### Art. 12a
+
+**Verwendung der Globalpauschalen**
+
+<sup>1</sup> Die vom Bund dem Kanton ausgerichteten Globalpauschalen für anerkannte und vorläufig aufgenommene Flüchtlinge gemäss Asylverordnung 2 über Finanzierungsfragen[^12a-1] werden verwendet für:
+
+- a) die Sozialhilfekosten der Gemeinden für anerkannte und vorläufig aufgenommene Flüchtlinge;
+- b) übergeordnete Aufgaben der Gemeinden im Flüchtlingsbereich, welche durch den Kanton vollzogen werden.
+
+[^12a-1]: SR [142.312](https://db.clex.ch/link/Bund/142.312/de)
+
+#### Art. 12b
+
+**Verwendung für die Sozialhilfekosten der Gemeinden**
+
+<sup>1</sup> Der Kanton richtet den Gemeinden aus den Globalpauschalen Beiträge an die Sozialhilfekosten für anerkannte und vorläufig aufgenommene Flüchtlinge aus.
+
+<sup>2</sup> Die Beiträge werden pauschaliert und nach Dossiergrösse abgestuft ausgerichtet. Grundlage für die Dossiergrösse bildet das Zentrale Migrationsinformationssystem (ZEMIS).
+
+<sup>3</sup> Für die Abstufung nach Dossiergrösse gelten die folgenden Gewichtungsfaktoren, welche sich nach dem Grundbedarf für den Lebensunterhalt und nach den Normwerten für Mietzinse richten:
+
+<table>
+<tr><th>Dossiergrösse</th><th>Gewichtungsfaktor pro Person</th></tr>
+<tr><td>1 Person</td><td>1.00</td></tr>
+<tr><td>2 Personen</td><td>0.71</td></tr>
+<tr><td>3 Personen</td><td>0.58</td></tr>
+<tr><td>4 Personen</td><td>0.51</td></tr>
+<tr><td>5 Personen</td><td>0.46</td></tr>
+<tr><td>6 Personen</td><td>0.41</td></tr>
+<tr><td>ab 7 Personen</td><td>0.38</td></tr>
+</table>
+
+#### Art. 12c
+
+**Verwendung für übergeordnete Aufgaben der Gemeinden im Flüchtlingsbereich**
+
+<sup>1</sup> Der Kanton deckt aus den Globalpauschalen die Kosten für übergeordnete Aufgaben der Gemeinden im Flüchtlingsbereich. Übergeordnete Aufgaben sind:
+
+- a) vorübergehende Betreuung und Unterbringung von anerkannten und vorläufig aufgenommenen Flüchtlingen, die in den Strukturen des Amts für Migration und Zivilrecht leben;
+- b) vorübergehende Betreuung und Unterbringung von anerkannten Flüchtlingen im Rahmen des Resettlements des Bundes;
+- c) Wohnungsvermittlung für anerkannte und vorläufig aufgenommene Flüchtlinge;
+- d) Finanzierung von Reisekosten bei Integrationsmassnahmen für anerkannte und vorläufig aufgenommene Flüchtlinge.
+
+#### Art. 12d
+
+**Periodische Prüfung**
+
+<sup>1</sup> Das kantonale Sozialamt prüft periodisch den Kostendeckungsgrad der den Gemeinden ausgerichteten Beiträge sowie die übergeordneten Aufgaben und deren Kosten.
+
 #### Art. 13
 
-**In-Kraft-Treten**
+**Schluss- und Übergangsbestimmung**
 
 <sup>1</sup> Diese Ausführungsbestimmungen treten am 1. Januar 2006 in Kraft.
 
-<sup>2</sup> Laufende Unterstützungsfälle sind ab 1. März 2006 nach diesen Ausführungsbestimmungen abzuwickeln.
+<sup>2</sup> Laufende Unterstützungsfälle sind ab 1. April 2016 nach den ab 1. Januar 2016 geltenden Bestimmungen abzuwickeln.
 
 -
