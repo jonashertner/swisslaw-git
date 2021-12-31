@@ -1,23 +1,25 @@
 ---
 canton: AI
 number: "832.501"
-title: Standeskommissionsbeschluss über die Prämienverbilligung in der Krankenversicherung
+title: Standeskommissionsbeschluss über die individuelle Prämienverbilligung in der Krankenversicherung
 short: StKB IPV
 language: de
-version: 2019-01-01
-corrected: 2019-04-26
-version_adopted: 2019-04-16
+version: 2022-01-01
+valid_until: 2022-07-04
+version_adopted: 2021-11-23
 adopted: 1996-04-02
 in_force: 1996-04-02
 url: "https://ai.clex.ch/app/de/texts_of_law/832.501"
-pdf: "https://ai.clex.ch/api/de/versions/1541/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2073/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Standeskommissionsbeschluss über die Prämienverbilligung in der Krankenversicherung
+# Standeskommissionsbeschluss über die individuelle Prämienverbilligung in der Krankenversicherung
 
-vom 02.04.1996 (Stand 01.01.2019)
+(StKB IPV)
+
+vom 02.04.1996 (Stand 01.01.2022)
 
 Die Standeskommission des Kantons Appenzell I. Rh.,
 
@@ -93,16 +95,17 @@ beschliesst:
 - c) Unterhalts- und Verwaltungskosten für Grundstücke des Privatvermögens, soweit sie den Pauschalabzug von 20% der entsprechenden Erträge übersteigen;
 - d) Beiträge an anerkannte Formen der gebundenen Selbstvorsorge (Säule 3a);
 - e) Einkaufsbeiträge an Einrichtungen der beruflichen Vorsorge;
-- f) sämtliche Einkommen, die über das Bundesgesetz über Massnahmen zur Bekämpfung der Schwarzarbeit vom 17. Juni 2005 (BGSH) abgerechnet werden.
+- f) sämtliche Einkommen, die über das Bundesgesetz über Massnahmen zur Bekämpfung der Schwarzarbeit vom 17. Juni 2005 (BGSH) abgerechnet werden;
+- g) Einkünfte nach Art. 22ter und Art. 23 Abs. 1bis des Steuergesetzes vom 25. April 1999 (StG) werden auf 100% aufgerechnet.
 
 <sup>4</sup> Für die Berechnung eines Gesamtanspruchs werden die massgebenden Gesamteinkommen zusammengezählt.
 
-<sup>5</sup> Die individuelle Prämienverbilligung für Kinder wird auf 80% und für junge Erwachsene auf 50% der Richtprämien angehoben, sofern das massgebende Gesamteinkommen folgende Grenze nicht übersteigt:
+<sup>5</sup> Die individuelle Prämienverbilligung wird für Kinder auf 80% und für junge Erwachsene in Ausbildung auf 50% der Richtprämien angehoben, sofern das massgebende Gesamteinkommen Fr. 67'000.-- nicht übersteigt.
 
-- a) bei Personen, die einen Alleinanspruch haben — Fr. 25'000.--
-- b) bei Personen, die zu zweit einen Gesamtanspruch haben — Fr. 40'000.--
-- c) bei Personen, die zu dritt einen Gesamtanspruch haben — Fr. 50'000.--
-- d) bei Personen, die mindestens zu viert einen Gesamtanspruch haben — Fr. 60'000.--
+- a) …
+- b) …
+- c) …
+- d) …
 
 <sup>6</sup> Die Prämienverbilligung wird ab einem Anspruch oder Gesamtanspruch von Fr. 100.-- pro Jahr ausgerichtet.
 
@@ -118,13 +121,21 @@ beschliesst:
 
 <sup>4</sup> Für die Berechnung des Gesamtanspruchs nach Art. 3 Abs. 3 wird die rechtskräftige definitive Steuerveranlagung des jungen Erwachsenen des Vorjahres zum Anspruchsjahr berücksichtigt. Dementsprechend wird ein allfälliger Gesamtanspruch für alle im Haushalt lebenden Personen erst nach Vorliegen der rechtskräftigen definitiven Steuerveranlagung des jungen Erwachsenen für das Vorjahr geprüft.
 
+<sup>5</sup> Eine erhöhte Prämienverbilligung nach Art. 5 Abs. 5 kann nur geleistet werden, wenn der junge Erwachsene bis zum 31. März des Anspruchsjahres nachgewiesen hat, dass er im Vorjahr zumindest mehrheitlich in Ausbildung war. Die zuständige Amtsstelle informiert die jungen Erwachsenen vorgängig über diese Obliegenheit.
+
 #### Art. 6
 
 **Sonderfälle**
 
 <sup>1</sup> Für die Berechnung des Anspruchs von Personen, die an der Quelle besteuert werden, ist das der Quellensteuer zugrundeliegende auf ein Jahr umgerechnete Einkommen massgebend. Bei quellenbesteuerten Personen mit einem ergänzend ordentlichen oder nachträglich ordentlichen Steuerverfahren gelten zusätzlich die Einkommens- und Vermögensverhältnisse gemäss entsprechender Steuerveranlagung.
 
-<sup>2</sup> Bezüger von Ergänzungsleistungen zu einer AHV- oder IV-Rente erhalten die volle Durchschnittsprämie erstattet, Bezüger von Sozialhilfe die volle Richtprämie. Die Ausgleichskasse meldet der zuständigen Amtsstelle monatlich die Bezüger von Ergänzungsleistungen, das Sozialamt jährlich die Bezüger von Sozialhilfeleistungen.
+<sup>2</sup> Bezüger von Ergänzungsleistungen erhalten den tiefsten der folgenden Beträge:
+
+- a Betrag der jährlichen Ergänzungsleistungen;
+- b Betrag der regionalen Durchschnittsprämie;
+- c Betrag der tatsächlichen Prämie für die obligatorische Krankenversicherung.
+
+<sup>2<sup>bis</sup></sup> Bezüger von Sozialhilfe erhalten die volle Richtprämie, jedoch maximal die tatsächliche Prämie. Das Sozialamt meldet der zuständigen Amtsstelle jährlich die Bezüger von Sozialhilfeleistungen.
 
 <sup>3</sup> Neuzuzüger aus dem Ausland, die nicht während des ganzen Kalenderjahres, für das die Prämienverbilligung bestimmt ist, der Versicherungspflicht für die Krankenpflegeversicherung unterliegen, haben Anrecht auf den Pro-Rata-Anteil des Prämienverbilligungsbeitrages.
 
@@ -241,6 +252,16 @@ beschliesst:
 
 ## V. Schlussbestimmung
 
+#### Art. 15b
+
+**…**
+
+#### Art. 15c
+
+**Übergangsregelung Ergänzungsleistungen**
+
+<sup>1</sup> Personen, deren Anspruch auf Ergänzungsleistungen sich gemäss Bundesrecht noch nach bisherigem Recht richtet, erhalten für diese Zeit die volle Durchschnittsprämie.
+
 #### Art. 16
 
 **Inkrafttreten**
@@ -251,15 +272,15 @@ beschliesst:
 
 #### Art. A1-1
 
-<sup>1</sup> Für die Ermittlung des Prämienverbilligungsanspruchs im Jahre 2019 gilt:
+<sup>1</sup> Für die Ermittlung des Prämienverbilligungsanspruchs im Jahr 2022 gilt:
 
-- 1\. Die Richtprämien betragen für das Jahr 2019:
-  - a) für Kinder (Jahrgang 2001 und jünger) Fr. 798.--
-  - b) für junge Erwachsene (Jahrgang 1994 bis 2000) Fr. 2'626.--
-  - c) für Erwachsene (Jahrgang 1993 und älter) Fr. 3'501.--
+- 1\. Die Richtprämien betragen für das Jahr 2022:
+  - a) für Kinder (Jahrgang 2004 und jünger) Fr. 810.--;
+  - b) für junge Erwachsene (Jahrgang 1997 bis 2003) Fr. 2'688.--;
+  - c) für Erwachsene (Jahrgang 1996 und älter) Fr. 3'654.--.
 - 2\. Der eigene Prämienanteil der Versicherten (Selbstbehalt) wird wie folgt festgelegt:
-  - a) 8% bei einem massgebenden Gesamteinkommen unter Fr. 40'000.--;
-  - b) 13% bei einem massgebenden Gesamteinkommen von Fr. 80'000.-- und darüber;
-  - c) dazwischen steigt der Selbstbehalt schrittweise um 0.125% pro Fr. 1'000.-- von 8% auf 13%.
+  - a) 7% bei einem massgebenden Gesamteinkommen unter Fr. 40'000.--;
+  - b) 12% bei einem massgebenden Gesamteinkommen von Fr. 80'000.-- und darüber;
+  - c) dazwischen steigt der Selbstbehalt schrittweise um 0.125% pro Fr. 1'000.-- von 7% auf 12%.
 
 cGS -
