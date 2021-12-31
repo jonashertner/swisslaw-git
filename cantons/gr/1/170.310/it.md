@@ -4,13 +4,13 @@ number: "170.310"
 title: "Ordinanza sull'organizzazione del Governo e dell'Amministrazione"
 short: OOGA
 language: it
-version: 2018-03-01
-corrected: 2019-09-01
-version_adopted: 2018-02-27
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-21
 adopted: 2006-10-24
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.310"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2886/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3214/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2886/pdf_file"
 
 (OOGA)
 
-del 24.10.2006 (stato 01.03.2018)
+del 24.10.2006 (stato 01.01.2022)
 
 emanata dal Governo il 24 ottobre 2006
 
@@ -105,7 +105,7 @@ visti l'art. 49 della Costituzione cantonale [^ingress-1] e l'art. 24 della legg
 - b) Dipartimento di giustizia, sicurezza e sanità
 - c) Dipartimento dell'educazione, cultura e protezione dell'ambiente
 - d) Dipartimento delle finanze e dei comuni
-- e) Dipartimento costruzioni, trasporti e foreste
+- e) Dipartimento infrastrutture, energia e mobilità
 - f) Cancelleria dello Stato quale organo di coordinamento
 
 #### Art. 10

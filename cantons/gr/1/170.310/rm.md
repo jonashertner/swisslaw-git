@@ -4,13 +4,13 @@ number: "170.310"
 title: "Ordinaziun davart l'organisaziun da la regenza e da l'administraziun"
 short: OORA
 language: rm
-version: 2018-03-01
-corrected: 2019-09-01
-version_adopted: 2018-02-27
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-21
 adopted: 2006-10-24
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.310"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2886/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3214/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2886/pdf_file"
 
 (OORA)
 
-dals 24-10-2006 (versiun dals 01-03-2018)
+dals 24-10-2006 (versiun dals 01-01-2022)
 
 sa basond sin l'art. 49 da la constituziun chantunala[^ingress-1] e sin l'art. 24 da la lescha davart l'organisaziun da la regenza e da l'administraziun[^ingress-2]
 
@@ -105,7 +105,7 @@ relaschada da la regenza ils 24 d'october 2006
 - b) departament da giustia, segirezza e sanadad;
 - c) departament d'educaziun, cultura e protecziun da l'ambient;
 - d) departament da finanzas e vischnancas;
-- e) departament da construcziun, traffic e selvicultura;
+- e) Departament d'infrastructura, energia e mobilitad;
 - f) chanzlia chantunala sco post da stab.
 
 #### Art. 10

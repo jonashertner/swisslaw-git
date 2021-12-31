@@ -4,13 +4,13 @@ number: "170.310"
 title: Regierungs- und Verwaltungsorganisationsverordnung
 short: RVOV
 language: de
-version: 2018-03-01
-corrected: 2019-09-01
-version_adopted: 2018-02-27
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-21
 adopted: 2006-10-24
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.310"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2886/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3214/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2886/pdf_file"
 
 (RVOV)
 
-Vom 24.10.2006 (Stand 01.03.2018)
+Vom 24.10.2006 (Stand 01.01.2022)
 
 Gestützt auf Art. 49 der Kantonsverfassung[^ingress-1] und Art. 24 des Regierungs- und Verwaltungsorganisationsgesetzes[^ingress-2]
 
@@ -105,7 +105,7 @@ von der Regierung erlassen am 24. Oktober 2006
 - b) Departement für Justiz, Sicherheit und Gesundheit
 - c) Erziehungs-, Kultur- und Umweltschutzdepartement
 - d) Departement für Finanzen und Gemeinden
-- e) Bau-, Verkehrs- und Forstdepartement
+- e) Departement für Infrastruktur, Energie und Mobilität
 - f) Standeskanzlei als Stabsstelle
 
 #### Art. 10
