@@ -4,13 +4,13 @@ number: "922.11"
 title: Jagdverordnung
 short: JaV
 language: de
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2021-06-25
+version: 2022-01-01
+valid_until: 2022-02-28
+version_adopted: 2021-11-23
 adopted: 2016-06-06
 in_force: 2016-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/922.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6926/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6981/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Jagdverordnung
 
 (JaV)
 
-vom 06.06.2016 (Fassung in Kraft getreten am 01.07.2021)
+vom 06.06.2016 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -1137,33 +1137,17 @@ beschliesst:
 
 <sup>1</sup> Als Übertretungen im Sinne von Artikel 54 Abs. 1 Bst. b und Abs. 3 JaG gelten Widerhandlungen gegen die Bestimmungen folgender Artikel dieser Verordnung: Artikel 22–25, 27–29, 32–34, 36, 37, 41, 42, 45–47, 64 Abs. 5, 65 Abs. 3, 70 und 75–79 (mit Ausnahme von Art. 76 Abs. 5).
 
+<sup>2</sup> Widerhandlungen gegen diese Verordnung, die gemäss kantonaler Ordnungsbussengesetzgebung mit Ordnungsbusse bestraft werden, bleiben vorbehalten.
+
 #### Art. 86
 
 **Ordnungsbussen**
 
-<sup>1</sup> Widerhandlungen gegen die Bestimmungen der Artikel 26, 31, 33–35, 38–40, 43 und 70–74 werden mit einer Ordnungsbusse im Sinne von Artikel 54a JaG bestraft.
+<sup>1</sup> …
 
 #### Art. 87
 
-**Pauschalbetrag der Ordnungsbussen**
-
-<sup>1</sup> Es gelten die folgenden Pauschalbeträge für Ordnungsbussen:
-
-<table>
-<tr><th>Nr.</th><th>Widerhandlungen</th><th>Pauschalbetrag</th></tr>
-<tr><td>FR 201</td><td>Schussdistanzen (Art. 29 Abs. 2 JaG / Art. 39 JaV)</td><td>Fr. 250</td></tr>
-<tr><td>FR 202</td><td>Waffenproben (Art. 10 Abs. 1 JaG / Art. 40 JaV)</td><td>Fr. 300</td></tr>
-<tr><td>FR 203</td><td>Transportmittel (Art. 24 JaG / Art. 26 JaV)</td><td>Fr. 150</td></tr>
-<tr><td>FR 204</td><td>Verbotene Jagdarten und Hilfsmittel (Art. 24 JaG / Art. 31 JaV)</td><td>Fr. 300</td></tr>
-<tr><td>FR 205</td><td>Patronen und Abschuss (Art. 24 und 29 JaG / Art. 35 JaV)</td><td>Fr. 250</td></tr>
-<tr><td>FR 206</td><td>Sicherheit (Art. 24 und 29 JaG / Art. 38 JaV)</td><td>Fr. 300</td></tr>
-<tr><td>FR 207</td><td>Einsatz und Verbot des Einsatzes von Hunden (Art. 27 JaG / Art. 43 JaV)</td><td>Fr. 100</td></tr>
-<tr><td>FR 208</td><td>Nachsuche verletzter Tiere (Art. 29 JaG / Art. 70 JaV)</td><td>Fr. 200</td></tr>
-<tr><td>FR 209</td><td>Erlegte Tiere, Eingeweide, Verstümmelung (Art. 29 JaG / Art. 71 JaV)</td><td>Fr. 200</td></tr>
-<tr><td>FR 210</td><td>Kontrollmarken (Art. 30 JaG / Art. 72 JaV)</td><td>Fr. 100</td></tr>
-<tr><td>FR 211</td><td>Kontrollformulare (Art. 30 JaG / Art. 73 JaV)</td><td>Fr. 50</td></tr>
-<tr><td>FR 212</td><td>Kontroll- und Statistikheft (Art. 30 JaG / Art. 74 JaV)</td><td>Fr. 100</td></tr>
-</table>
+**…**
 
 #### Art. 88
 

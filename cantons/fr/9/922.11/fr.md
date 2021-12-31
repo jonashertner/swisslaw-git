@@ -4,13 +4,13 @@ number: "922.11"
 title: Ordonnance concernant la chasse
 short: OCha
 language: fr
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2021-06-25
+version: 2022-01-01
+valid_until: 2022-02-28
+version_adopted: 2021-11-23
 adopted: 2016-06-06
 in_force: 2016-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/922.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6926/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6981/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Chasse – O
 
 (OCha)
 
-du 06.06.2016 (version entrée en vigueur le 01.07.2021)
+du 06.06.2016 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -1137,33 +1137,17 @@ Arrête:
 
 <sup>1</sup> Constituent des contraventions, au sens de l'article 54 al. 1 let. b et al. 3 LCha, les infractions aux dispositions suivantes de la présente ordonnance: articles 22 à 25, 27 à 29, 32 à 34, 36, 37, 41, 42, 45 à 47, 64 al. 5, 65 al. 3, 70 et 75 à 79 (à l'exception de l'art. 76 al. 5).
 
+<sup>2</sup> Les infractions à la présente ordonnance que la législation cantonale sur les amendes d'ordre sanctionne par l'amende d'ordre demeurent réservées.
+
 #### Art. 86
 
 **Amendes d'ordre**
 
-<sup>1</sup> Les infractions aux dispositions des articles 26, 31, 33 à 35, 38 à 40, 43 et 70 à 74 sont passibles d'une amende d'ordre au sens de l'article 54a LCha.
+<sup>1</sup> …
 
 #### Art. 87
 
-**Montant forfaitaire des amendes d'ordre**
-
-<sup>1</sup> Le montant forfaitaire des amendes d'ordre est le suivant:
-
-<table>
-<tr><th>No</th><th>Infractions</th><th>Montant forfaitaire</th></tr>
-<tr><td>FR 201</td><td>Distances de tirs (art. 29 al. 2 LCha / art. 39 OCha)</td><td>Fr. 250</td></tr>
-<tr><td>FR 202</td><td>Essai d'armes (art. 10 al. 1 LCha / art. 40 OCha)</td><td>Fr. 300</td></tr>
-<tr><td>FR 203</td><td>Moyens de transport (art. 24 LCha / art. 26 OCha)</td><td>Fr. 150</td></tr>
-<tr><td>FR 204</td><td>Modes et moyens de chasse interdits (art. 24 LCha / art. 31 OCha)</td><td>Fr. 300</td></tr>
-<tr><td>FR 205</td><td>Cartouches et tirs (art. 24 et 29 LCha / art. 35 OCha)</td><td>Fr. 250</td></tr>
-<tr><td>FR 206</td><td>Sécurité (art. 24 et 29 LCha / art. 38 OCha)</td><td>Fr. 300</td></tr>
-<tr><td>FR 207</td><td>Utilisation et interdiction d'utiliser des chiens (art. 27 LCha / art. 43 OCha)</td><td>Fr. 100</td></tr>
-<tr><td>FR 208</td><td>Recherche des animaux blessés (art. 29 LCha / art. 70 OCha)</td><td>Fr. 200</td></tr>
-<tr><td>FR 209</td><td>Animaux abattus, viscères, mutilation (art. 29 LCha / art. 71 OCha)</td><td>Fr. 200</td></tr>
-<tr><td>FR 210</td><td>Marques de contrôle (art. 30 LCha / art. 72 OCha)</td><td>Fr. 100</td></tr>
-<tr><td>FR 211</td><td>Formules de contrôle (art. 30 LCha / art. 73 OCha)</td><td>Fr. 50</td></tr>
-<tr><td>FR 212</td><td>Carnet de contrôle et de statistique (art. 30 LCha / art. 74 OCha)</td><td>Fr. 100</td></tr>
-</table>
+**…**
 
 #### Art. 88
 
