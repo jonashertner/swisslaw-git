@@ -2,24 +2,24 @@
 canton: AG
 number: "585.100"
 title: Gesetz über den vorbeugenden Brandschutz
-short: Brandschutzgesetz
+short: "Brandschutzgesetz, BSG"
 language: de
-version: 2009-01-01
-valid_until: 2021-12-31
-version_adopted: 2008-03-18
+version: 2022-01-01
+valid_until: 2024-06-30
+version_adopted: 2020-12-08
 adopted: 1989-02-21
 in_force: 1992-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/585.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/645/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3097/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über den vorbeugenden Brandschutz
 
-(Brandschutzgesetz)
+(Brandschutzgesetz, BSG)
 
-Vom 21.02.1989 (Stand 01.01.2009)
+Vom 21.02.1989 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -143,7 +143,7 @@ beschliesst:
 <sup>2</sup> Ihm obliegen namentlich
 
 - a) die Verfügung der Brandschutzmassnahmen für in seine feuerpolizeiliche Zuständigkeit fallende Bauten im Baubewilligungsverfahren;
-- b) die Durchführung der Feuerschau zur Feststellung von Brandschutzmängeln periodisch oder von Fall zu Fall.
+- b) die Durchführung von Abnahmekontrollen und periodischen Kontrollen zur Feststellung von Brandschutzmängeln nach Bedarf.
 
 <sup>3</sup> Der Gemeinderat kann zur Erfüllung seiner Aufgaben im Bereich des Brandschutzes Sachverständige (Kaminfeger, Baufachleute usw.) beiziehen.
 
@@ -156,12 +156,28 @@ beschliesst:
 <sup>1</sup> Die Aargauische Gebäudeversicherung sorgt für die Sicherstellung des Brandschutzes im Kantonsgebiet, namentlich durch
 
 - a) Überwachung des Vollzugs der Brandschutzvorschriften und Erlass der erforderlichen Weisungen,
-- b) Erteilung der in ihre Zuständigkeit fallenden Brandschutzbewilligungen und Durchführung der Abnahmekontrollen,
-- c) periodische Kontrollen der in ihre Bewilligungspflicht fallenden Gebäude, Anlagen und Einrichtungen; in begründeten Fällen können Sachverständige beigezogen oder Kontrollen den Gemeinden übertragen werden,
-- d) Durchführung von Instruktions- und Weiterbildungskursen für die kantonalen und kommunalen Brandschutzbehörden sowie die Kaminfeger,
+- b) Erteilung der in ihre Zuständigkeit fallenden Brandschutzbewilligungen,
+- c) Durchführung von Abnahmekontrollen und periodischen Kontrollen der in ihre Bewilligungspflicht fallenden Gebäude, Anlagen und Einrichtungen nach Bedarf; in begründeten Fällen können Sachverständige beigezogen werden,
+- d) Durchführung von Instruktions- und Weiterbildungskursen für die kantonalen und kommunalen Brandschutzbehörden,
 - e) Beratung von Behörden und Privaten in Brandschutzfragen sowie Aufklärung der Öffentlichkeit über die Brandverhütung.
 
 <sup>2</sup> Die Verwaltungskosten trägt die Aargauische Gebäudeversicherung, der die gestützt auf § 24 Abs. 2 eingehenden Gebühren zufallen.
+
+#### § 13a
+
+**Kantonale und regionale Feuerverbote**
+
+<sup>1</sup> Das für den Bevölkerungs- und Zivilschutz zuständige Departement kann bei ausserordentlicher Trockenheit ein kantonales oder regionales Feuerverbot verfügen.
+
+<sup>2</sup> Das Verbot wird auf Antrag des Kantonalen Führungsstabs (KFS) erlassen.
+
+#### § 13b
+
+**Kommunale Feuerverbote**
+
+<sup>1</sup> Die Gemeinden können ein von der Kantonsbehörde erlassenes Feuerverbot für ihr Gemeindegebiet verschärfen.
+
+<sup>2</sup> Erlässt der Kanton kein Feuerverbot, können die Gemeinden ein kommunales Feuerverbot verfügen.
 
 #### § 14
 
@@ -193,73 +209,77 @@ beschliesst:
 
 [^16-1]: SAR [271.200](https://gesetzessammlungen.ag.ch/data/271.200/de)
 
-## 4. Kaminfegerdienst
+## 4.
 
 #### § 17
 
-**Zweck**
-
-<sup>1</sup> Der Kaminfegerdienst bezweckt
-
-- a) die fachmännische und vorschriftsgemässe Reinigung der Feuerungseinrichtungen im Interesse eines umweltfreundlichen und wirtschaftlichen Betriebes und zum Unterhalt der Anlagen;
-- b) die Verhütung von Brandschäden;
-- c) die Beratung im Zusammenhang mit Feuerungsanlagen.
-
-<sup>2</sup> Der Regierungsrat erlässt die näheren Vorschriften über den Kaminfegerdienst.
+**…**
 
 #### § 18
 
-**Aufsicht**
-
-<sup>1</sup> Der Gemeinderat sorgt für die gesetzmässige Durchführung des Kaminfegerdienstes.
+**…**
 
 #### § 19
 
-**Voraussetzungen zur Berufsausübung**
-
-<sup>1</sup> Die Ausübung des Kaminfegerberufes im Gemeindegebiet bedarf einer Konzession des Gemeinderates.
-
-<sup>2</sup> Die Bewerber haben sich auszuweisen über
-
-- a) die mit Erfolg bestandene eidgenössische Meisterprüfung;
-- b) einen guten Leumund;
-- c) Wohnsitz im Kanton;
-- d) ausreichende Kenntnisse der Brandschutzvorschriften;
-- e) den Abschluss einer genügenden Berufshaftpflichtversicherung.
+**…**
 
 #### § 20
 
-**Konzession der Gemeinde**
-
-<sup>1</sup> Die Konzession zur Berufsausübung wird für das ganze Gemeindegebiet einem Bewerber für die Dauer von vier Jahren erteilt. In grossen Gemeinden ist eine Aufteilung des Gemeindegebietes auf mehrere Kaminfeger zulässig.
-
-<sup>2</sup> Bei schwerer oder wiederholter Pflichtverletzung kann die Konzession mit sofortiger Wirkung entzogen werden.
-
-<sup>3</sup> Der Gemeinderat kann die Erteilung der Konzession abhängig machen von der Bereitschaft, Kontrollaufgaben gemäss der Brandschutz- und der Umweltschutzgesetzgebung zu übernehmen, besonders im Bereich des baulichen Brandschutzes, der Feuerschau und der Rauchgaskontrolle.
-
-<sup>4</sup> Dem Kaminfeger ist im Übrigen jede weitere Erwerbstätigkeit im Zusammenhang mit der Herstellung, dem Vertrieb oder dem Unterhalt von Feuerungs- und Tankanlagen untersagt.
+**…**
 
 #### § 21
 
-**Kontrollpflicht**
-
-<sup>1</sup> Bei der Reinigung hat sich der Kaminfeger zu vergewissern, dass die Feuerungsanlagen und Kamine den Brandschutzvorschriften entsprechen.
-
-<sup>2</sup> Festgestellte Brandschutzmängel sind dem Eigentümer der Anlage und der Brandschutzbehörde schriftlich zu melden. Dieser trifft die erforderlichen Massnahmen zur Behebung.
+**…**
 
 #### § 22
 
-**Angestellte des Kaminfegers**
-
-<sup>1</sup> Der Kaminfeger kann Angestellten Arbeiten übertragen, für deren Erledigung seine persönliche Anwesenheit oder Mitwirkung nicht erforderlich ist.
+**…**
 
 #### § 23
 
-**Kaminfegertarif**
+**…**
 
-<sup>1</sup> Der Gemeinderat legt den Tarif fest, nach dem der Kaminfeger für die ihm übertragenen Reinigungsarbeiten einschliesslich der Kontrollen der Feuerungs- und Rauchabzugsanlagen Rechnung stellen darf.
+## 4<sup>bis</sup>. Feuerungsanlagen
 
-<sup>2</sup> Der Regierungsrat bestimmt den Höchsttarif, dessen Struktur für die Gemeindetarife verbindlich ist.
+#### § 23a
+
+**Unterhaltspflicht**
+
+<sup>1</sup> Der Unterhalt von Feuerungsanlagen liegt in der Eigenverantwortung der Eigentümerinnen und Eigentümer.
+
+<sup>2</sup> Sie sind verpflichtet, ihre Anlagen in zweckmässigen Zeitabständen durch eine registrierte Fachperson sicherheitstechnisch warten zu lassen und allenfalls festgestellte Mängel zu beheben.
+
+<sup>3</sup> Sie müssen die sicherheitstechnische Wartung sowie gegebenenfalls die Mängelbehebung belegen können.
+
+#### § 23b
+
+**Sicherheitstechnische Wartung**
+
+<sup>1</sup> Die sicherheitstechnische Wartung hat fachgerecht nach den Regeln der Technik und den Brandschutzvorschriften zu erfolgen. Sie besteht aus
+
+- a) der Kontrolle der Feuerungsanlage mit Aufstellungsraum,
+- b) der allenfalls nötigen Reinigung der Anlage.
+
+<sup>2</sup> Die Fachperson hat Mängel, die den sicheren Betrieb der Feuerungsanlage gefährden, den Eigentümerinnen und Eigentümern schriftlich mitzuteilen, sofern sie die Mängel nicht gleich mit deren Einverständnis behebt. Nötigenfalls setzt sie ihnen eine angemessene Frist zur Behebung der Mängel.
+
+<sup>3</sup> Die Fachperson meldet der zuständigen Brandschutzbehörde wesentliche Mängel. Diese führt eine Nachkontrolle durch.
+
+#### § 23c
+
+**Fachperson**
+
+<sup>1</sup> Zur selbständigen Ausführung der sicherheitstechnischen Wartung von Feuerungsanlagen ist befugt, wer
+
+- a) mindestens über die Kompetenzen als Kaminfeger-Vorarbeiterin oder Kaminfeger-Vorarbeiter mit eidgenössischem Fachausweis oder eine gleichwertige Ausbildung verfügt, und
+- b) in der von der Aargauischen Gebäudeversicherung geführten öffentlichen Liste der Fachpersonen registriert ist.
+
+<sup>2</sup> Bei schwerwiegender oder wiederholter Pflichtverletzung kann die Aargauische Gebäudeversicherung den Eintrag in der Liste mit sofortiger Wirkung löschen.
+
+#### § 23d
+
+**Angestellte der Fachperson**
+
+<sup>1</sup> Die Fachperson kann Angestellten Arbeiten übertragen, für deren Erledigung ihre Anwesenheit oder Mitwirkung nicht erforderlich ist.
 
 ## 5. Gebühren
 
@@ -269,7 +289,7 @@ beschliesst:
 
 <sup>1</sup> Für die Behandlung von Gesuchen um Erteilung von Bewilligungen und die Ausübung von Kontroll- und Vollstreckungsfunktionen im Sinne dieses Gesetzes kann die Gemeinde Gebühren erheben.
 
-<sup>2</sup> Für kantonale Gebühren erlässt der Regierungsrat einen entsprechenden Tarif im Rahmen des Dekretes über die durch den Staat zu beziehenden Gebühren[^24-1].
+<sup>2</sup> Die Aargauische Gebäudeversicherung erlässt ​für die Tätigkeiten, die sie gestützt auf dieses Gesetz wahrnimmt, einen Gebührentarif im Rahmen des Dekrets über die durch den Staat zu beziehenden Gebühren[^24-1]. Sie kann auf die Erhebung von Gebühren ganz oder teilweise verzichten.
 
 [^24-1]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
 
@@ -293,7 +313,7 @@ beschliesst:
 
 **Strafen, Verfahren**
 
-<sup>1</sup> Wer vorsätzlich oder fahrlässig diesem Gesetz oder den gestützt darauf ergangenen Ausführungsbestimmungen, Verfügungen und Entscheiden zuwiderhandelt, wird mit Busse bestraft, soweit nicht eidgenössische Strafbestimmungen zur Anwendung gelangen.
+<sup>1</sup> Wer vorsätzlich oder fahrlässig diesem Gesetz oder den gestützt darauf ergangenen Ausführungsbestimmungen, Verfügungen und Entscheiden zuwiderhandelt, wird mit Busse bis Fr. 10'000.– bestraft, soweit nicht eidgenössische Strafbestimmungen zur Anwendung gelangen.
 
 <sup>2</sup> Die Abwandlung erfolgt durch die für Übertretungen zuständigen ordentlichen Strafbehörden in dem hierfür geltenden Verfahren.
 
