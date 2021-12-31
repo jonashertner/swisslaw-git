@@ -1,21 +1,21 @@
 ---
 canton: VD
 number: "172.125.1"
-title: "ARRÊTÉ du 18.12.2019 fixant pour les années 2019 à 2021 les montants forfaitaires versés aux membres du Conseil d'Etat au titre d'allocations pour frais"
+title: "ARRÊTÉ du 06.07.2022 fixant pour l'année 2022 les montants forfaitaires versés aux membres du Conseil d'Etat au titre d'allocations pour frais"
 language: fr
-version: 2019-12-27
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.125.1?id=ce8b7a50-a13a-4182-a9a0-25aab923bee8"
+version: 2022-01-01
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.125.1?id=c022df30-e812-499a-ac50-342146db28f7"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
-# ARRÊTÉ fixant pour les années 2019 à 2021 les montants forfaitaires versés aux membres du Conseil d'Etat au titre d'allocations pour frais
+# ARRÊTÉ fixant pour l'année 2022 les montants forfaitaires versés aux membres du Conseil d'Etat au titre d'allocations pour frais
 
-du 18 décembre 2019
+du 6 juillet 2022
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
-vu l'article 2 alinéa 4 de la loi sur la rémunération et les pensions des membres du Conseil d'Etat (Lr-CE) du 6 décembre 1967
+vu l'article 2, alinéa 4 de la loi sur la rémunération et les pensions des membres du Conseil d'Etat (Lr-CE) du 6 décembre 1967
 
 vu le préavis de la Chancellerie d'Etat
 
@@ -35,4 +35,4 @@ arrête
 
 #### Art. 4
 
-<sup>1</sup> La Chancellerie d'Etat est chargée de l'exécution du présent arrêté qui entre en vigueur le 27 décembre 2019.
+<sup>1</sup> La Chancellerie d'Etat est chargée de l'exécution du présent arrêté qui entre en vigueur le 1er janvier 2022.
