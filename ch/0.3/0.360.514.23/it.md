@@ -3,11 +3,11 @@ sr: "0.360.514.23"
 title: "Accordo del 3 dicembre 2008 tra il Consiglio federale svizzero e il Principato del Liechtenstein sulla cooperazione di polizia nell'area di confine (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/80"
 language: it
-version: 2011-12-19
+version: 2022-01-01
 adopted: 2008-12-03
 in_force: 2011-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/80/20111219/it/xml/fedlex-data-admin-ch-eli-cc-2012-80-20111219-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/80/20111219/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/80/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2012-80-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/80/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,13 +18,9 @@ RU **2012** 521
 
 Traduzione
 
-Concluso il 3 dicembre 2008
+Concluso il 3 dicembre 2008 Applicato provvisoriamente dal 12 dicembre 2008[^t-1] Entrato in vigore il 19 dicembre 2011[^t-2]
 
-Applicato provvisoriamente dal 12 dicembre 2008[^t-1]
-
-Entrato in vigore il 19 dicembre 2011[^t-2]
-
-(Stato 19 dicembre 2011)
+(Stato 1° gennaio 2022)
 
 [^t-1]: [RU 2009 977](https://fedlex.data.admin.ch/eli/oc/2009/151)
 [^t-2]: Con l’Acc. quadro, sulla base della notifica del Liechtenstein del 13 dic. 2011 e della notifica svizzera del 23 nov. 2009, e in quanto l’acquis di Schengen è entrato in vigore per entrambe le Parti contraenti (per il Liechtenstein il 19 dic. 2011).
@@ -41,7 +37,9 @@ hanno convenuto quanto segue:
 
 **Scopo e oggetto**
 
-Il presente Accordo disciplina la cooperazione fra l’Amministrazione federale delle dogane (AFD) e la Polizia nazionale nonché l’*Ausländer- und Passamt* (APA) del Liechtenstein. Esso stabilisce più da vicino segnatamente quali sono i compiti e i poteri di polizia dell’AFD sul territorio nazionale del Liechtenstein.
+Il presente Accordo disciplina la cooperazione fra l’Amministrazione federale delle dogane (AFD)[^1-1] e la Polizia nazionale nonché l’*Ausländer- und Passamt* (APA) del Liechtenstein. Esso stabilisce più da vicino segnatamente quali sono i compiti e i poteri di polizia dell’AFD sul territorio nazionale del Liechtenstein.
+
+[^1-1]: Con effetto dal 1° gen. 2022: Ufficio federale della dogana e della sicurezza dei confini (UDSC) ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 2
 

@@ -3,11 +3,11 @@ sr: "0.360.514.23"
 title: Accord du 3 décembre 2008 entre le Conseil fédéral suisse et le Gouvernement de la Principauté de Liechtenstein sur la coopération policière dans la zone frontalière (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/80"
 language: fr
-version: 2011-12-19
+version: 2022-01-01
 adopted: 2008-12-03
 in_force: 2011-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/80/20111219/fr/xml/fedlex-data-admin-ch-eli-cc-2012-80-20111219-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/80/20111219/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/80/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-80-20220101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/80/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/80/20111219/fr"
 
 RO **2012** 521
 
-Traduction*[^t-1]*
+Traduction[^t-1]
 
 Conclu le 3 décembre 2008
 
@@ -24,7 +24,7 @@ Appliqué provisoirement dès le 12 décembre 2008[^t-2]
 
 Entré en vigueur le 19 décembre 2011[^t-3]
 
-(Etat le 19 décembre 2011)
+(État le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Texte original allemand.
 [^t-2]: [RO 2009 977](https://fedlex.data.admin.ch/eli/oc/2009/151)
@@ -42,7 +42,9 @@ sont convenus des dispositions suivantes:
 
 **But et objet**
 
-Le présent accord règle la coopération entre l’Administration fédérale des douanes (AFD), la police nationale de la Principauté du Liechtenstein (ci-après dénommée «police liechtensteinoise») et l’Office liechtensteinois des étrangers et des passeports (APA). Il précise notamment la mission de police de l’AFD sur le territoire liechtensteinois ainsi que les compétences de police qui lui sont déléguées.
+Le présent accord règle la coopération entre l’Administration fédérale des douanes (AFD)[^1-1], la police nationale de la Principauté du Liechtenstein (ci-après dénommée «police liechtensteinoise») et l’Office liechtensteinois des étrangers et des passeports (APA). Il précise notamment la mission de police de l’AFD sur le territoire liechtensteinois ainsi que les compétences de police qui lui sont déléguées.
+
+[^1-1]: Depuis le 1<sup>er</sup> janv. 2022: Office fédéral de la douane et de la sécurité des frontières (OFDF) (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 2
 
@@ -150,7 +152,7 @@ Législation sur les étrangers
 - 3\. Séjour illégal
 - 4\. Frontalier: exercice d’une activité lucrative salariée non autorisée sans être titulaire d’une autorisation frontalière
 - 5\. Prestataire de services de l’UE/AELE: travailleur indépendant
-- 6\. Travailleur détaché provenant d’un Etat UE/AELE
+- 6\. Travailleur détaché provenant d’un État UE/AELE
 - 7\. Réadmission du titulaire d’un livret pour étranger N, F ou S
 - 8\. Remise/réadmission de personnes
 - 9\. Renvoi sans décision formelle
@@ -166,8 +168,8 @@ Encaissement des frais et des amendes
 
 Contrôle des liquidités
 
-[^annexu1-lvlu1-1]: Loi fédérale du 19 déc. 1958 sur la circulation routière ([RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)).
-[^annexu1-lvlu1-2]: Loi du 24 juin 1970 sur les amendes d’ordre ([RS 741.03](https://fedlex.data.admin.ch/eli/cc/1972/734_742_666)).
+[^annexu1-lvlu1-1]: LF du 19 déc. 1958 sur la circulation routière ([RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)).
+[^annexu1-lvlu1-2]: L du 24 juin 1970 sur les amendes d’ordre ([RS 741.03](https://fedlex.data.admin.ch/eli/cc/1972/734_742_666)).
 
 ## Les domaines ci-après sont réglés dans la zone frontalière au titre de l’art. 2, al. 1:
 
@@ -187,7 +189,7 @@ Législation sur les étrangers
 - 3\. Séjour illégal
 - 4\. Frontalier: exercice d’une activité lucrative salariée non autorisée sans être titulaire d’une autorisation frontalière
 - 5\. Prestataire de services de l’UE/AELE: travailleur indépendant
-- 6\. Travailleur détaché provenant d’un Etat UE/AELE
+- 6\. Travailleur détaché provenant d’un État UE/AELE
 - 7\. Réadmission du titulaire d’un livret pour étranger N, F ou S
 - 8\. Remise/réadmission de personnes
 - 9\. Renvoi sans décision formelle

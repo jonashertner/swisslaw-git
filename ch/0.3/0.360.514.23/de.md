@@ -3,11 +3,11 @@ sr: "0.360.514.23"
 title: Vereinbarung vom 3. Dezember 2008 zwischen dem Schweizerischen Bundesrat und der Regierung des Fürstentums Liechtenstein über die polizeiliche Zusammenarbeit im Grenzraum (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/80"
 language: de
-version: 2011-12-19
+version: 2022-01-01
 adopted: 2008-12-03
 in_force: 2011-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/80/20111219/de/xml/fedlex-data-admin-ch-eli-cc-2012-80-20111219-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/80/20111219/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/80/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2012-80-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/80/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Vorläufig angewendet ab 12. Dezember 2008[^t-1]
 
 In Kraft getreten am 19. Dezember 2011[^t-2]
 
-(Stand am 19. Dezember 2011)
+(Stand am 1. Januar 2022)
 
 [^t-1]: [AS 2009 977](https://fedlex.data.admin.ch/eli/oc/2009/151)
 [^t-2]: Mit dem Rahmenvertrag, aufgrund der Notifikation Liechtensteins vom 13. Dez. 2011 und der schweizerischen Notifikation vom 23. Nov. 2009, sowie des Inkrafttretens des Schengen-Besitzstands für beide Vertragsparteien (für Liechtenstein am 19. Dez. 2011).
@@ -41,7 +41,9 @@ sind wie folgt übereingekommen:
 
 **Zweck und Gegenstand**
 
-Diese Vereinbarung regelt die Zusammenarbeit zwischen der Eidgenössischen Zollverwaltung (EZV), der liechtensteinischen Landespolizei und dem liechtensteinischen Ausländer- und Passamt (APA). Sie legt insbesondere den polizeilichen Auftrag der EZV auf dem Staatsgebiet Liechtensteins und die an diese übertragenen Polizeibefugnisse näher fest.
+Diese Vereinbarung regelt die Zusammenarbeit zwischen der Eidgenössischen Zollverwaltung (EZV)[^1-1], der liechtensteinischen Landespolizei und dem liechtensteinischen Ausländer- und Passamt (APA). Sie legt insbesondere den polizeilichen Auftrag der EZV auf dem Staatsgebiet Liechtensteins und die an diese übertragenen Polizeibefugnisse näher fest.
+
+[^1-1]: Seit 1. Jan.2022: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 2
 
