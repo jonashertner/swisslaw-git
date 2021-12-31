@@ -4,13 +4,13 @@ number: VI C/1/1
 title: Steuergesetz
 short: StG
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-05-05
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-09-05
 adopted: 2000-05-07
 in_force: 2001-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-C.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2109/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2262/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2109/pdf_file"
 
 (StG)
 
-Vom 07.05.2000 (Stand 01.01.2020)
+Vom 07.05.2000 (Stand 01.01.2022)
 
 (Erlassen von der Landsgemeinde am 7. Mai 2000)
 
@@ -1264,11 +1264,11 @@ Vom 07.05.2000 (Stand 01.01.2020)
 
 #### Art. 86
 
-**Der Quellensteuer unterworfene Personen**
+**Der Quellensteuer unterworfene Arbeitnehmer**
 
-<sup>1</sup> Ausländische Arbeitnehmer, welche die fremdenpolizeiliche Niederlassungsbewilligung nicht besitzen, im Kanton jedoch steuerrechtlichen Wohnsitz oder Aufenthalt haben, werden für ihr Einkommen aus unselbstständiger Erwerbstätigkeit einem Steuerabzug an der Quelle unterworfen. Dieser tritt an die Stelle der im ordentlichen Verfahren zu veranlagenden Steuern. Davon ausgenommen sind Einkünfte, die der Besteuerung nach Artikel 35a unterstehen. Vorbehalten bleibt die ordentliche Veranlagung nach Artikel 92 Absatz 2.
+<sup>1</sup> Arbeitnehmer ohne Niederlassungsbewilligung, die in der Schweiz jedoch steuerrechtlichen Wohnsitz oder Aufenthalt haben, unterliegen für ihr Einkommen aus unselbstständiger Erwerbstätigkeit einer Quellensteuer. Davon ausgenommen sind Einkommen, die der Besteuerung im vereinfachten Abrechnungsverfahren nach Artikel 35a unterstehen.
 
-<sup>2</sup> Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, werden im ordentlichen Verfahren eingeschätzt, wenn einer der Ehegatten das Schweizer Bürgerrecht oder die Niederlassungsbewilligung besitzt.
+<sup>2</sup> Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, unterliegen nicht der Quellensteuer, wenn einer der Ehegatten das Schweizer Bürgerrecht oder die Niederlassungsbewilligung besitzt.
 
 #### Art. 87
 
@@ -1276,33 +1276,35 @@ Vom 07.05.2000 (Stand 01.01.2020)
 
 <sup>1</sup> Die Quellensteuer wird von den Bruttoeinkünften berechnet.
 
-<sup>2</sup> Steuerbar sind alle Einkünfte aus Arbeitsverhältnis, mit Einschluss der Nebeneinkünfte, wie Entschädigungen für Sonderleistungen, Provisionen, Zulagen, Dienstalters- und Jubiläumsgeschenke, Gratifikationen, Trinkgelder, Tantiemen, Mitarbeiterbeteiligungen und andere geldwerte Vorteile, sowie die Ersatzeinkünfte, wie Taggelder aus Kranken- und Unfallversicherung und Arbeitslosenversicherung.
+<sup>2</sup> Steuerbar sind:
+
+- 1\. die Einkommen aus unselbstständiger Erwerbstätigkeit nach Artikel 86 Absatz 1, die Nebeneinkünfte wie geldwerte Vorteile aus Mitarbeiterbeteiligungen sowie Naturalleistungen, nicht jedoch die vom Arbeitgeber getragenen Kosten der berufsorientierten Aus- und Weiterbildung nach Artikel 17 Absatz 1a;
+- 2\. die Ersatzeinkünfte; und
+- 3\. die Leistungen nach Artikel 18 Absatz 3 des Bundesgesetzes über die Alters- und Hinterlassenenversicherung[^87-1] (AHVG).
 
 <sup>3</sup> Naturalleistungen und Trinkgelder werden in der Regel nach den für die eidgenössische Alters- und Hinterlassenenversicherung geltenden Ansätzen bewertet.
 
+[^87-1]: SR 831.10
+
 #### Art. 88
 
-**Steuertarife: Grundlage**
+**Quellensteuerabzug**
 
-<sup>1</sup> Die kantonale Steuerverwaltung berechnet die Steuertarife entsprechend den für die Einkommenssteuer geltenden Steuersätzen und den Steuerfüssen. Die Tarife unterliegen der Genehmigung durch den Regierungsrat. Im ganzen Kanton gelten die gleichen Tarife.
+<sup>1</sup> Die kantonale Steuerverwaltung berechnet die Höhe des Quellensteuerabzugs auf der Grundlage der für die Einkommenssteuer natürlicher Personen geltenden Steuertarife. Die Tarife unterliegen der Genehmigung durch den Regierungsrat. Im ganzen Kanton gelten die gleichen Tarife.
 
 <sup>2</sup> Der Steuerabzug umfasst die Kantons- und Gemeindesteuern, die kantonalen Zuschläge sowie die direkte Bundessteuer.
 
 <sup>3</sup> Der Anteil für die Gemeindesteuern berechnet sich nach dem arithmetischen Mittel der Gemeindesteuern im Kanton.
 
-#### Art. 89
+<sup>4</sup> Bei der Festsetzung der Steuertarife werden Pauschalen für Berufskosten (Art. 26) und Versicherungsprämien (Art. 31 Abs. 1 Ziff. 4, 6 und 7) sowie Abzüge für Familienlasten (Art. 33) berücksichtigt.
 
-**Steuertarife: Ausgestaltung**
+<sup>5</sup> Der Quellensteuerabzug für die in rechtlich und tatsächlich ungetrennter Ehe lebenden Ehegatten, die beide erwerbstätig sind, richtet sich nach Tarifen, die ihrem Gesamteinkommen (Art. 7 Abs. 1) Rechnung tragen und die Pauschalen und Abzüge nach Absatz 1 sowie den Abzug bei Erwerbstätigkeit beider Ehegatten (Art. 31 Abs. 2) berücksichtigen.
 
-<sup>1</sup> Bei der Festsetzung der Steuertarife werden Pauschalen für Berufskosten (Art. 26 dieses Gesetzes) und Versicherungsprämien (Art. 31 Abs. 1 Ziff. 4, 6 und 7 dieses Gesetzes) sowie Abzüge für Familienlasten (Art. 33 dieses Gesetzes) berücksichtigt.
+<sup>6</sup> Die Eidgenössische Steuerverwaltung legt zusammen mit den Kantonen einheitlich fest, wie insbesondere der 13. Monatslohn, Gratifikationen, unregelmässige Beschäftigung, Stundenlöhne, Teilzeit- oder Nebenerwerb sowie Leistungen nach Artikel 18 Absatz 3 AHVG und welche satzbestimmenden Elemente zu berücksichtigen sind. Weiter regelt sie, wie bei Tarifwechsel, rückwirkenden Gehaltsanpassungen und -korrekturen sowie Leistungen vor Beginn und nach Beendigung der Anstellung zu verfahren ist.
 
-<sup>2</sup> Der Steuerabzug für die in rechtlich und tatsächlich ungetrennter Ehe lebenden Ehegatten, die beide erwerbstätig sind, richtet sich nach Tarifen, die ihrem Gesamteinkommen (Art. 7 Abs. 1 dieses Gesetzes) Rechnung tragen und die Pauschalen und Abzüge nach Absatz 1 sowie den Abzug bei Erwerbstätigkeit beider Ehegatten (Art. 31 Abs. 2 dieses Gesetzes) berücksichtigen.
+#### Art. 89–90
 
-#### Art. 90
-
-**Abgegoltene Steuer**
-
-<sup>1</sup> Der Steuerabzug tritt an die Stelle der im ordentlichen Verfahren vom Erwerbseinkommen zu veranlagenden Steuern. Artikel 92 dieses Gesetzes bleibt vorbehalten.
+**…**
 
 #### Art. 91
 
@@ -1315,43 +1317,75 @@ Vom 07.05.2000 (Stand 01.01.2020)
 - 3\. die Steuern periodisch der kantonalen Steuerverwaltung abzuliefern, mit ihr darüber abzurechnen und ihr zur Kontrolle der Steuererhebung Einblick in alle Unterlagen zu gewähren;
 - 4\. die anteilsmässigen Steuern auf im Ausland ausgeübten Mitarbeiteroptionen zu entrichten; die Arbeitgeberin schuldet die anteilsmässige Steuer auch dann, wenn der geldwerte Vorteil von einer ausländischen Konzerngesellschaft ausgerichtet wird.
 
-<sup>2</sup> Der Steuerabzug kann auch dann vorgenommen werden, wenn der Arbeitnehmer in einem andern Kanton steuerpflichtig ist.
+<sup>2</sup> Der Quellensteuerabzug ist auch dann vorzunehmen, wenn die steuerpflichtige Person in einem anderen Kanton steuerpflichtig ist.
 
 <sup>3</sup> Der Schuldner der steuerbaren Leistung haftet für die Entrichtung der Quellensteuer.
 
-<sup>4</sup> Er erhält eine Bezugsprovision, deren Höhe der Regierungsrat festlegt. Kommt der Schuldner der steuerbaren Leistungen seinen Mitwirkungspflichten nicht oder ungenügend nach, kann die Steuerbehörde die Bezugsprovision herabsetzen oder ausschliessen.
+<sup>3a</sup> Handelt es sich beim Schuldner gemäss Artikel 91 Absatz 3 um eine juristische Person, so haften subsidiär die Mitglieder der Verwaltung und alle mit der Geschäftsführung oder Liquidation befassten Personen solidarisch. Sind mehrere Personen für den gleichen Schaden verantwortlich, so haften sie für den ganzen Schaden solidarisch.
+
+<sup>4</sup> Der Schuldner der steuerbaren Leistung erhält eine Bezugsprovision von 1–2 Prozent des gesamten Quellensteuerbetrags; der Regierungsrat setzt die Bezugsprovision fest. Für Kapitalleistungen beträgt die Bezugsprovision 1 Prozent des gesamten Quellensteuerbetrags, jedoch höchstens 50 Franken pro Kapitalleistung für die Quellensteuer von Bund, Kanton und Gemeinde. Kommt der Schuldner der steuerbaren Leistungen seinen Mitwirkungspflichten nicht oder ungenügend nach, kann die Steuerbehörde die Bezugsprovision herabsetzen oder ausschliessen.
 
 #### Art. 92
 
-**Vorbehalt der ordentlichen Veranlagung**
+**Obligatorische nachträgliche ordentliche Veranlagung**
 
-<sup>1</sup> Die der Quellensteuer unterliegenden Personen werden für ihr Einkommen, das dem Steuerabzug an der Quelle nicht unterworfen ist, sowie für ihr Vermögen im ordentlichen Verfahren eingeschätzt. Für den Steuersatz gilt Artikel 6 dieses Gesetzes sinngemäss.
+<sup>1</sup> Personen, die nach Artikel 86 Absatz 1 der Quellensteuer unterliegen, werden nachträglich im ordentlichen Verfahren veranlagt, wenn:
 
-<sup>2</sup> Betragen die dem Steuerabzug an der Quelle unterworfenen Bruttoeinkünfte eines Steuerpflichtigen in einem Kalenderjahr mehr als den durch den Regierungsrat festgelegten Betrag, wird eine nachträgliche Veranlagung durchgeführt. Die an der Quelle abgezogene Steuer wird dabei zinslos angerechnet.
+- 1\. ihr Bruttoeinkommen in einem Steuerjahr einen durch das Eidgenössische Finanzdepartement bestimmten Betrag erreicht oder übersteigt; oder
+- 2\. sie über Einkünfte verfügen, die nicht der Quellensteuer unterliegen.
 
-<sup>3</sup> In den nachfolgenden Jahren wird bis zum Ende der Quellensteuerpflicht eine nachträgliche Veranlagung für das gesamte Einkommen und Vermögen auch dann durchgeführt, wenn der durch den Regierungsrat festgelegte Betrag vorübergehend oder dauernd unterschritten wird.
+<sup>2</sup> Der nachträglichen ordentlichen Veranlagung unterliegt auch, wer mit einer Person nach Absatz 1 in rechtlich und tatsächlich ungetrennter Ehe lebt.
 
-<sup>4</sup> Auf die Erhebung der Quellensteuer kann verzichtet werden, wenn ohnehin eine nachträgliche Veranlagung durchzuführen ist und der Arbeitgeber hinreichende Sicherheit leistet.
+<sup>3</sup> Personen mit Einkünften nach Absatz 1 Ziffer 2 müssen das Formular für die Steuererklärung bis am 31. März des auf das Steuerjahr folgenden Jahres bei der kantonalen Steuerverwaltung verlangen.
 
-### 1.4.2. Natürliche und juristische Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz
+<sup>4</sup> Die nachträgliche ordentliche Veranlagung gilt bis zum Ende der Quellensteuerpflicht.
+
+<sup>5</sup> Die an der Quelle abgezogene Steuer wird zinslos angerechnet.
+
+#### Art. 92a
+
+**Nachträgliche ordentliche Veranlagung auf Antrag**
+
+<sup>1</sup> Personen, die nach Artikel 86 Absatz 1 der Quellensteuer unterliegen und keine der Voraussetzungen nach Artikel 92 Absatz 1 erfüllen, werden auf Antrag hin nachträglich im ordentlichen Verfahren veranlagt.
+
+<sup>2</sup> Der Antrag erstreckt sich auch auf den Ehegatten, der mit dem Antragsteller in rechtlich und tatsächlich ungetrennter Ehe lebt.
+
+<sup>3</sup> Der Antrag muss bis am 31. März des auf das Steuerjahr folgenden Jahres eingereicht werden. Für Personen, welche die Schweiz verlassen, endet die Frist für die Einreichung des Antrags im Zeitpunkt der Abmeldung.
+
+<sup>4</sup> Erfolgt keine nachträgliche ordentliche Veranlagung auf Antrag, so tritt die Quellensteuer an die Stelle der im ordentlichen Verfahren zu veranlagenden Steuern auf dem Erwerbseinkommen. Nachträglich werden keine zusätzlichen Abzüge gewährt.
+
+<sup>5</sup> Artikel 92 Absätze 4 und 5 sind anwendbar.
+
+### 1.4.2. Natürliche Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz sowie juristische Personen ohne Sitz oder tatsächliche Verwaltung in der Schweiz
 
 #### Art. 93
 
-**Arbeitnehmer**
+**Der Quellensteuer unterworfene Arbeitnehmer**
 
-<sup>1</sup> Wer ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz für kurze Dauer oder als Grenzgänger oder Wochenaufenthalter in unselbstständiger Stellung im Kanton erwerbstätig ist, entrichtet für sein Erwerbseinkommen die Quellensteuer gemäss den Artikeln 87–89 dieses Gesetzes.
+<sup>1</sup> Im Ausland wohnhafte Grenzgänger, Wochenaufenthalter, Kurzaufenthalter oder sonstige Arbeitnehmer unterliegen für ihr im Kanton erzieltes Einkommen aus unselbstständiger Erwerbstätigkeit der Quellensteuer nach den Artikeln 87 und 88. Davon ausgenommen sind Einkommen, die der Besteuerung im vereinfachten Abrechnungsverfahren nach Artikel 35a unterstehen.
+
+<sup>2</sup> Ebenfalls der Quellensteuer nach den Artikeln 87 und 88 unterliegen im Ausland wohnhafte Arbeitnehmer, die für Arbeit im internationalen Verkehr an Bord eines Schiffes oder eines Luftfahrzeuges oder bei einem Transport auf der Strasse Lohn oder andere Vergütungen von einem Arbeitgeber mit Sitz oder Betriebsstätte im Kanton erhalten; davon ausgenommen bleibt die Besteuerung der Seeleute für Arbeit an Bord eines Hochseeschiffes.
+
+#### Art. 93a
+
+**Leistungen nach Artikel 18 Absatz 3 AHVG**
+
+<sup>1</sup> Empfänger von Leistungen gemäss Artikel 18 Absatz 3 AHVG, die keinen steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz haben, unterliegen für diese Leistungen der Quellensteuer.
 
 #### Art. 94
 
 **Künstler, Sportler und Referenten**
 
-<sup>1</sup> Im Ausland wohnhafte Künstler, wie Bühnen-, Film-, Rundfunk- oder Fernsehkünstler, Musiker und Artisten, sowie Sportler und Referenten sind für Einkünfte aus ihrer im Kanton ausgeübten persönlichen Tätigkeit und für weitere damit verbundene Entschädigungen steuerpflichtig. Dies gilt auch für Einkünfte und Entschädigungen, die nicht dem Künstler, Sportler oder Referenten selber, sondern einem Dritten zufliessen, der dessen Tätigkeit organisiert hat.
+<sup>1</sup> Im Ausland wohnhafte Künstler, wie Bühnen-, Film-, Rundfunk- oder Fernsehkünstler, Musiker und Artisten, sowie Sportler und Referenten sind für Einkünfte aus ihrer im Kanton ausgeübten persönlichen Tätigkeit und für weitere damit verbundene Entschädigungen steuerpflichtig. Dies gilt auch für Einkünfte und Entschädigungen, die nicht dem Künstler, Sportler oder Referenten selber, sondern einem Dritten zufliessen, der seine Tätigkeit organisiert hat.
 
 <sup>2</sup> Die Steuer beträgt 10 Prozent der steuerbaren Leistungen.
 
-<sup>3</sup> Als steuerbare Leistungen gelten die Bruttoeinkünfte, ein schliesslich aller Zulagen und Nebenbezüge, nach Abzug der Gewinnungskosten.
+<sup>3</sup> Als Tageseinkünfte gelten die Bruttoeinkünfte, einschliesslich aller Zulagen und Nebenbezüge, nach Abzug der Gewinnungskosten. Diese betragen:
 
-<sup>4</sup> Der Regierungsrat kann für die abzugsfähigen Gewinnungskosten einen Pauschalabzug festlegen.
+- 1\. 50 Prozent der Bruttoeinkünfte bei Künstlern;
+- 2\. 20 Prozent der Bruttoeinkünfte bei Sportlern sowie Referenten.
+
+<sup>4</sup> …
 
 <sup>5</sup> Der mit der Organisation der Darbietung im Kanton beauftragte Veranstalter ist für die Steuer solidarisch haftbar.
 
@@ -1359,7 +1393,7 @@ Vom 07.05.2000 (Stand 01.01.2020)
 
 **Organe juristischer Personen**
 
-<sup>1</sup> Im Ausland wohnhafte Mitglieder der Verwaltung oder der Geschäftsführung von juristischen Personen mit Sitz oder tatsächlicher Verwaltung im Kanton sind für die ihnen ausgerichteten Tantiemen, Sitzungsgelder, festen Entschädigungen, Mitarbeiterbeteiligungen und ähnlichen Vergütungen steuerpflichtig. Leitende Angestellte sind für ihre Einkünfte im vorstehend beschriebenen Sinne steuerpflichtig, soweit ein Doppelbesteuerungsabkommen deren Einkünfte der Schweiz zur Besteuerung zuweist.
+<sup>1</sup> Im Ausland wohnhafte Mitglieder der Verwaltung oder der Geschäftsführung von juristischen Personen mit Sitz oder tatsächlicher Verwaltung im Kanton sind für die ihnen ausgerichteten Tantiemen, Sitzungsgelder, festen Entschädigungen, Mitarbeiterbeteiligungen und ähnlichen Vergütungen steuerpflichtig. Leitende Angestellte sind für ihre Einkünfte im vorstehend beschriebenen Sinne steuerpflichtig, soweit ein Doppelbesteuerungsabkommen deren Einkünfte der Schweiz zur Besteuerung zuweist. Dies gilt auch, wenn diese Vergütungen einem Dritten zufliessen.
 
 <sup>2</sup> Im Ausland wohnhafte Mitglieder der Verwaltung oder der Geschäftsführung ausländischer Unternehmen, welche im Kanton Betriebsstätten unterhalten, sind für die ihnen zu Lasten dieser Betriebsstätten ausgerichteten Tantiemen, Sitzungsgelder, festen Entschädigungen, Mitarbeiterbeteiligungen und ähnlichen Vergütungen steuerpflichtig.
 
@@ -1395,9 +1429,35 @@ Vom 07.05.2000 (Stand 01.01.2020)
 
 #### Art. 99
 
-**Arbeitnehmer bei internationalen Transporten**
+**…**
 
-<sup>1</sup> Im Ausland wohnhafte Arbeitnehmer, die für Arbeit im internationalen Verkehr an Bord eines Schiffes oder eines Luftfahrzeuges oder bei einem Transport auf der Strasse Lohn oder andere Vergütungen von einem Arbeitgeber mit Sitz oder Betriebsstätte im Kanton erhalten, werden für diese Leistungen nach den Artikeln 87–89 dieses Gesetzes besteuert.
+#### Art. 99a
+
+**Abgegoltene Steuer**
+
+<sup>1</sup> Die Quellensteuer tritt an die Stelle der im ordentlichen Verfahren zu veranlagenden Steuern des Bundes, des Kantons und der Gemeinde auf dem Erwerbseinkommen. Nachträglich werden keine zusätzlichen Abzüge gewährt.
+
+#### Art. 99b
+
+**Nachträgliche ordentliche Veranlagung auf Antrag**
+
+<sup>1</sup> Personen, die nach Artikel 93 der Quellensteuer unterliegen, können für jede Steuerperiode bis am 31. März des auf das Steuerjahr folgenden Jahres eine nachträgliche ordentliche Veranlagung beantragen, wenn:
+
+- 1\. der überwiegende Teil ihrer weltweiten Einkünfte, einschliesslich der Einkünfte des Ehegatten, in der Schweiz steuerbar ist;
+- 2\. ihre Situation mit derjenigen einer in der Schweiz wohnhaften steuerpflichtigen Person vergleichbar ist; oder
+- 3\. eine solche Veranlagung erforderlich ist, um Abzüge geltend zu machen, die in einem Doppelbesteuerungsabkommen vorgesehen sind.
+
+<sup>2</sup> Die an der Quelle abgezogene Steuer wird zinslos angerechnet.
+
+<sup>3</sup> Das Eidgenössische Finanzdepartement präzisiert die Voraussetzungen nach Absatz 1 und regelt das Verfahren.
+
+#### Art. 99c
+
+**Nachträgliche ordentliche Veranlagung von Amtes wegen**
+
+<sup>1</sup> Bei stossenden Verhältnissen, insbesondere betreffend die im Quellensteuersatz einberechneten Pauschalabzüge, können die zuständigen kantonalen Steuerbehörden von Amtes wegen eine nachträgliche ordentliche Veranlagung zugunsten oder zuungunsten der steuerpflichtigen Person verlangen.
+
+<sup>2</sup> Das Eidgenössische Finanzdepartement legt die Voraussetzungen fest.
 
 #### Art. 100
 
@@ -1419,7 +1479,7 @@ Vom 07.05.2000 (Stand 01.01.2020)
 
 <sup>1</sup> Der Steuerbetrag, der sich gemäss den Artikeln 94–99 dieses Gesetzes ergibt, wird nach Massgabe der Einkommenssteuer auf den Kanton und die Gemeinden verteilt.
 
-### 1.4.3. Erhebung der Quellensteuer im interkantonalen Verhältnis
+### 1.4.3. Örtliche Zuständigkeit und interkantonales Verhältnis
 
 #### Art. 103
 
@@ -1436,6 +1496,28 @@ Vom 07.05.2000 (Stand 01.01.2020)
 <sup>2</sup> Die vom ausserkantonalen Schuldner abgezogene und überwiesene Steuer wird an die nach diesem Gesetz geschuldete Steuer angerechnet.
 
 <sup>3</sup> Dem Gläubiger werden zuviel bezogene Steuern zurückerstattet; zuwenig bezogene werden von ihm nachgefordert.
+
+#### Art. 104a
+
+**Örtliche Zuständigkeit**
+
+<sup>1</sup> Der Schuldner der steuerbaren Leistung berechnet und erhebt die Quellensteuer wie folgt:
+
+- 1\. für Arbeitnehmer nach Artikel 86: nach dem Recht jenes Kantons, in dem der Arbeitnehmer bei Fälligkeit der steuerbaren Leistung seinen steuerrechtlichen Wohnsitz oder Aufenthalt hat;
+- 2\. für Personen nach Artikel 93 und den Artikeln 95–98: nach dem Recht jenes Kantons, in dem der Schuldner der steuerbaren Leistung bei Fälligkeit der steuerbaren Leistung seinen steuerrechtlichen Wohnsitz oder Aufenthalt oder seinen Sitz oder die Verwaltung hat; wird die steuerbare Leistung von einer Betriebsstätte in einem anderen Kanton oder von der Betriebsstätte eines Unternehmens ohne Sitz oder tatsächliche Verwaltung in der Schweiz ausgerichtet, so richten sich die Berechnung und die Erhebung der Quellensteuer nach dem Recht des Kantons, in dem die Betriebsstätte liegt;
+- 3\. für Personen nach Artikel 94: nach dem Recht jenes Kantons, in dem der Künstler, Sportler oder Referent seine Tätigkeit ausübt.
+
+<sup>2</sup> Ist der Arbeitnehmer nach Artikel 93 Wochenaufenthalter, so gilt Absatz 1 Ziffer 1 sinngemäss.
+
+<sup>3</sup> Der Schuldner der steuerbaren Leistung überweist die Quellensteuer an den nach Absatz 1 zuständigen Kanton.
+
+<sup>4</sup> Für die nachträgliche ordentliche Veranlagung ist zuständig:
+
+- 1\. für Arbeitnehmer nach Absatz 1 Ziffer 1: der Kanton, in dem die steuerpflichtige Person am Ende der Steuerperiode oder der Steuerpflicht ihren steuerrechtlichen Wohnsitz oder Aufenthalt hatte;
+- 2\. für Personen nach Absatz 1 Ziffer 2: der Kanton, in dem die steuerpflichtige Person am Ende der Steuerperiode oder der Steuerpflicht erwerbstätig war;
+- 3\. für Arbeitnehmer nach Absatz 2: der Kanton, in dem die steuerpflichtige Person am Ende der Steuerperiode oder der Steuerpflicht Wochenaufenthalt hatte.
+
+<sup>5</sup> Der nach Absatz 4 zuständige Kanton hat Anspruch auf allfällige im Kalenderjahr an andere Kantone überwiesene Quellensteuerbeträge. Zu viel bezogene Steuern werden dem Arbeitnehmer zurückerstattet, zu wenig bezogene Steuern nachgefordert.
 
 ### 1.5. Grundstückgewinnsteuer
 
@@ -1865,7 +1947,7 @@ Vom 07.05.2000 (Stand 01.01.2020)
 
 <sup>1</sup> Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, üben die nach diesem Gesetz dem Steuerpflichtigen zukommenden Verfahrensrechte und -pflichten gemeinsam aus.
 
-<sup>2</sup> Sie unterschreiben die Steuererklärung gemeinsam. Ist die Steuererklärung nur von einem der beiden Ehegatten unterzeichnet, so wird die vertragliche Vertretung unter Ehegatten angenommen.
+<sup>2</sup> Sie unterschreiben die Steuererklärung in Papierform gemeinsam. Ist die Steuererklärung nur von einem der beiden Ehegatten unterzeichnet, so wird die vertragliche Vertretung unter Ehegatten angenommen.
 
 <sup>3</sup> Rechtsmittel und andere Eingaben gelten als rechtzeitig eingereicht, wenn ein Ehegatte innert Frist handelt.
 
@@ -1917,9 +1999,7 @@ Vom 07.05.2000 (Stand 01.01.2020)
 
 #### Art. 143
 
-**Notwendige Vertretung**
-
-<sup>1</sup> Die Steuerbehörden können von einem Steuerpflichtigen mit Wohnsitz oder Sitz im Ausland verlangen, dass er einen Vertreter in der Schweiz bezeichnet.
+**…**
 
 #### Art. 144
 
@@ -1972,15 +2052,27 @@ Vom 07.05.2000 (Stand 01.01.2020)
 
 **Steuererklärung**
 
-<sup>1</sup> Die Steuerpflichtigen werden durch öffentliche Bekanntgabe oder Zustellung des Formulars aufgefordert, die Steuererklärung einzureichen. Steuerpflichtige, die kein Formular erhalten, müssen es bei der zuständigen Behörde verlangen.
+<sup>1</sup> Die Steuerpflichtigen werden durch öffentliche Bekanntgabe und, soweit der Veranlagungsbehörde die Pflicht zur Einreichung einer Steuererklärung bekannt ist, durch Zustellung einer Mitteilung aufgefordert, die Steuererklärung einzureichen.
 
-<sup>2</sup> Der Steuerpflichtige muss das Formular für die Steuererklärung wahrheitsgemäss und vollständig ausfüllen, persönlich unterzeichnen und samt den vorgeschriebenen Beilagen fristgemäss der zuständigen Behörde einreichen.
+<sup>2</sup> Der Steuerpflichtige muss die Steuererklärung wahrheitsgemäss und vollständig ausfüllen und zusammen mit den vorgeschriebenen Beilagen fristgemäss der zuständigen Behörde einreichen.
 
 <sup>3</sup> Der Steuerpflichtige, der die Steuererklärung nicht oder mangelhaft ausgefüllt einreicht, wird aufgefordert, das Versäumte innert angemessener Frist nachzuholen.
 
 <sup>4</sup> Für Mahnungen können Gebühren erhoben werden. Der Regierungsrat setzt die Gebühren fest.
 
 <sup>5</sup> Bei verspäteter Einreichung und bei verspäteter Rückgabe einer dem Steuerpflichtigen zur Ergänzung zurückgesandten Steuererklärung ist die Fristversäumnis zu entschuldigen, wenn der Steuerpflichtige nachweist, dass er durch Militär- oder Zivildienst, Landesabwesenheit, Krankheit oder andere erhebliche Gründe an der rechtzeitigen Einreichung oder Rückgabe verhindert war und dass er das Versäumte innert 30 Tagen nach Wegfall der Hinderungsgründe nachgeholt hat.
+
+#### Art. 148a
+
+**Steuererklärung in elektronischer Form oder in Papierform**
+
+<sup>1</sup> Die Steuererklärung kann in elektronischer Form oder in Papierform eingereicht werden.
+
+<sup>2</sup> Der Regierungsrat legt die Einzelheiten für die elektronische Einreichung der Steuererklärung und den elektronischen Versand von Dokumenten fest.
+
+<sup>3</sup> Die Steuererklärung in Papierform kann von den Steuerpflichtigen bei der Steuerverwaltung bezogen werden.
+
+<sup>4</sup> Die steuerpflichtige Person muss die in Papierform eingereichte Steuererklärung persönlich unterschreiben.
 
 #### Art. 149
 
@@ -2009,6 +2101,12 @@ Vom 07.05.2000 (Stand 01.01.2020)
 <sup>2</sup> Er muss auf Verlangen der Steuerbehörde insbesondere mündlich oder schriftlich Auskunft erteilen und Geschäftsbücher, Belege und weitere Bescheinigungen sowie Urkunden über den Geschäftsverkehr vorlegen.
 
 <sup>3</sup> Natürliche Personen mit Einkommen aus selbstständiger Erwerbstätigkeit und juristische Personen müssen Urkunden und sonstige Belege, die mit ihrer Tätigkeit in Zusammenhang stehen, während zehn Jahren aufbewahren.
+
+#### Art. 150a
+
+**Notwendige Vertretung**
+
+<sup>1</sup> Die Steuerbehörden können von einer steuerpflichtigen Person mit Wohnsitz oder Sitz im Ausland verlangen, dass sie einen Vertreter in der Schweiz bezeichnet.
 
 #### Art. 151
 
@@ -2115,13 +2213,28 @@ Vom 07.05.2000 (Stand 01.01.2020)
 
 <sup>1</sup> Der Steuerpflichtige und der Schuldner der steuerbaren Leistung müssen den zuständigen Veranlagungsbehörden auf Verlangen über die für die Erhebung der Quellensteuer massgebenden Verhältnisse mündlich oder schriftlich Auskunft erteilen. Die Artikel 147–152 dieses Gesetzes gelten sinngemäss.
 
+#### Art. 158a
+
+**Notwendige Vertretung**
+
+<sup>1</sup> Die Steuerbehörden können von einer steuerpflichtigen Person mit Wohnsitz oder Sitz im Ausland verlangen, dass sie einen Vertreter in der Schweiz bezeichnet.
+
+<sup>2</sup> Personen, die nach Artikel 99b eine nachträgliche ordentliche Veranlagung beantragen, müssen die erforderlichen Unterlagen einreichen und eine Zustelladresse in der Schweiz bezeichnen. Wird keine Zustelladresse bezeichnet oder verliert die Zustelladresse während des Veranlagungsverfahrens ihre Gültigkeit, so gewährt die zuständige Behörde der steuerpflichtigen Person eine angemessene Frist für die Bezeichnung einer gültigen Zustelladresse. Läuft diese Frist unbenutzt ab, so tritt die Quellensteuer an die Stelle der im ordentlichen Verfahren zu veranlagenden Steuern auf dem Erwerbseinkommen.
+
+<sup>3</sup> Die Berechnung der Fristen richtet sich nach den Bestimmungen über die direkte Bundessteuer.
+
 #### Art. 159
 
-**Entscheid**
+**Verfügung**
 
-<sup>1</sup> Ist der Steuerpflichtige oder der Schuldner der steuerbaren Leistung mit dem Steuerabzug nicht einverstanden, kann er bis Ende März des auf die Fälligkeit der Leistung folgenden Kalenderjahres von der kantonalen Steuerverwaltung einen Entscheid über Bestand und Umfang der Steuerpflicht verlangen.
+<sup>1</sup> Die steuerpflichtige Person kann von der Veranlagungsbehörde bis am 31. März des auf die Fälligkeit der Leistung folgenden Steuerjahres eine Verfügung über Bestand und Umfang der Steuerpflicht verlangen, wenn sie:
 
-<sup>2</sup> Der Schuldner der steuerbaren Leistung bleibt bis zum rechtskräftigen Entscheid zum Steuerabzug verpflichtet.
+- 1\. mit dem Quellensteuerabzug gemäss Bescheinigung nach Artikel 91 oder 101 nicht einverstanden ist; oder
+- 2\. die Bescheinigung nach Artikel 91 oder 101 vom Arbeitgeber nicht erhalten hat.
+
+<sup>2</sup> Der Schuldner der steuerbaren Leistung kann von der Veranlagungsbehörde bis am 31. März des auf die Fälligkeit der Leistung folgenden Steuerjahres eine Verfügung über Bestand und Umfang der Steuerpflicht verlangen.
+
+<sup>3</sup> Er bleibt bis zum rechtskräftigen Entscheid verpflichtet, die Quellensteuer zu erheben.
 
 #### Art. 160
 
@@ -2130,6 +2243,8 @@ Vom 07.05.2000 (Stand 01.01.2020)
 <sup>1</sup> Hat der Schuldner der steuerbaren Leistung den Steuerabzug nicht oder ungenügend vorgenommen, verpflichtet ihn die Veranlagungsbehörde zur Nachzahlung. Der Rückgriff des Schuldners auf den Steuerpflichtigen bleibt vorbehalten.
 
 <sup>2</sup> Hat der Schuldner der steuerbaren Leistung einen zu hohen Steuerabzug vorgenommen, muss er dem Steuerpflichtigen die Differenz zurückzahlen.
+
+<sup>3</sup> Die steuerpflichtige Person kann von der Veranlagungsbehörde zur Nachzahlung der von ihr geschuldeten Quellensteuer verpflichtet werden, wenn die ausbezahlte steuerbare Leistung nicht oder nicht vollständig um die Quellensteuer gekürzt wurde und ein Nachbezug beim Schuldner der steuerbaren Leistung nicht möglich ist.
 
 #### Art. 161
 
@@ -2716,7 +2831,7 @@ wird ohne Rücksicht auf die Strafbarkeit des Steuerpflichtigen mit Busse bestra
 
 <sup>2</sup> Jedem Ehegatten steht der Nachweis offen, dass die Hinterziehung seiner Steuerfaktoren durch den anderen Ehegatten ohne sein Wissen erfolgte oder dass er ausserstande war, die Hinterziehung zu verhindern. Gelingt dieser Nachweis, wird der andere Ehegatte wie für die Hinterziehung eigener Steuerfaktoren gebüsst.
 
-<sup>3</sup> Das Unterzeichnen der Steuererklärung vermag für sich allein bezüglich der Faktoren des andern Ehegatten keine Mitwirkung im Sinn von Artikel 213 Absatz 1 dieses Gesetzes zu begründen.
+<sup>3</sup> Das Unterzeichnen der Steuererklärung und die elektronische Einreichung vermag für sich allein bezüglich der Faktoren des andern Ehegatten keine Mitwirkung im Sinne von Artikel 213 Absatz 1 zu begründen.
 
 ### 3.1.2. Juristische Personen
 
@@ -2837,6 +2952,8 @@ wird ohne Rücksicht auf die Strafbarkeit des Steuerpflichtigen mit Busse bestra
 
 <sup>2</sup> Vor Erlass eines Strafbescheids wegen Steuerhinterziehung wird dem Angeschuldigten Gelegenheit zur Stellungnahme eingeräumt.
 
+<sup>3</sup> Die Vorschriften über die Verfahrensgrundsätze, das Veranlagungs- und das Beschwerdeverfahren gelten sinngemäss.
+
 #### Art. 227
 
 **Strafbescheid**
@@ -2845,25 +2962,11 @@ wird ohne Rücksicht auf die Strafbarkeit des Steuerpflichtigen mit Busse bestra
 
 <sup>2</sup> Der Strafbescheid ist kurz zu begründen.
 
-### 3.2.2. Gerichtliche Beurteilung
+### 3.2.2.
 
-#### Art. 228
+#### Art. 228–229
 
-**Begehren**
-
-<sup>1</sup> Der Angeschuldigte kann innert 30 Tagen seit Zustellung des Strafbescheids bei der kantonalen Steuerverwaltung schriftlich Beurteilung durch das Verwaltungsgericht verlangen.
-
-<sup>2</sup> Ein Begehren um gerichtliche Beurteilung kann bis zur Urteilsverkündung zurückgezogen werden.
-
-<sup>3</sup> Wird innert Frist ein Begehren um gerichtliche Beurteilung nicht gestellt oder wird es zurückgezogen, steht der Strafbescheid oder die Einstellungsverfügung einem rechtskräftigen Urteil gleich.
-
-#### Art. 229
-
-**Überweisung der Akten und Anklage**
-
-<sup>1</sup> Das Begehren um gerichtliche Beurteilung wird mit den Akten unverzüglich an das Verwaltungsgericht überwiesen.
-
-<sup>2</sup> Der Strafbescheid gilt als Anklage.
+**…**
 
 #### Art. 230
 
