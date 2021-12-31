@@ -4,11 +4,11 @@ number: "412.31"
 title: Lehrpersonalgesetz (LPG)
 short: LPG
 language: de
-version: "2021-01-01"
-nachtrag: "111"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
+valid_until: 2022-10-01
 adopted: 1999-05-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_31-1999_05_10-2000_10_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_31-1999_05_10-2000_10_01-115.html"
 text: pdf
 ---
 
@@ -26,17 +26,15 @@ beschliesst:
 
 ### I. Allgemeine Bestimmungen
 
-#### § 1
-
 **Geltungsbereich**
 
-<sup>1</sup> Diesem Gesetz unterstehen die an der Volksschule tätigen Lehrpersonen, die im Lehrplan vorgesehene Fächer unterrichten. Sie werden von den Gemeinden gemäss kantonalem Recht beschäftigt.<sup>25</sup>
+§ 1.<sup>33</sup> <sup>1</sup> Diesem Gesetz unterstehen die an der Volksschule tätigen Lehrpersonen, die im Lehrplan vorgesehene Fächer unterrichten. Sie werden von den Gemeinden gemäss kantonalem Recht beschäftigt.<sup>25</sup>
 
 <sup>2</sup> Die Bestimmungen dieses Gesetzes gelten auch für die Schulleiterinnen und Schulleiter mit Ausnahme der §§ 3 Abs. 1–3, 6, 7 Abs. 3 und 4, 8 Abs. 3, 11 b, 18, 19, 21 Abs. 1, 23 Abs. 3, 25–27.<sup>20</sup>
 
-<sup>3</sup> §§ 24, 24 a und 24 b gelten auch für weitere Lehrpersonen, die eine Lehrtätigkeit im Rahmen der Volksschulgesetzgebung ausüben.<sup>18</sup>
+<sup>3</sup> §§ 24, 24 a, 24 b und 24 c gelten auch für weitere Lehrpersonen, die eine Lehrtätigkeit im Rahmen der Volksschulgesetzgebung ausüben.
 
-<sup>4</sup> §§ 24 a und 24 b gelten für alle Lehrpersonen mit einem Lehrdiplom, das zu einer Lehrtätigkeit im Rahmen der Volksschulgesetzgebung berechtigt.<sup>18</sup>
+<sup>4</sup> §§ 24 a, 24 b und 24 c gelten für alle Lehrpersonen mit einem Lehrdiplom, das zu einer Lehrtätigkeit im Rahmen der Volksschulgesetzgebung berechtigt.
 
 **Bearbeitung von Personendaten**
 
@@ -52,11 +50,11 @@ Enthält dieses Gesetz keine ausdrückliche Regelung, richtet sich das Arbeitsve
 
 **Zuteilung der Vollzeiteinheiten29**
 
-<sup>1</sup> Die für das Bildungswesen zuständige Direktion teilt den Gemeinden<sup>31</sup> aufgrund der Schülerzahlen, eines pro Schulstufe festgelegten Basiswerts und des Sozialindexes die Anzahl der Lehrerstellen in Vollzeiteinheiten zu. Die Verteilung ist so vorzunehmen, dass der kantonale Schülerdurchschnitt pro Vollzeiteinheit auf der Kindergartenstufe höchstens 17,5 Schülerinnen und Schüler beträgt, auf der Primarstufe höchstens 15,7 Schülerinnen und Schüler und auf der Sekundarstufe höchstens 14,9 Schülerinnen und Schüler. Änderungen der Strukturen der Volksschule und der Lektionentafel werden bei der
+<sup>1</sup> Die für das Bildungswesen zuständige Direktion teilt den Gemeinden<sup>31</sup> aufgrund der Schülerzahlen, eines pro Schulstufe festgelegten Basiswerts und des Sozialindexes die Anzahl der Lehrerstellen in Vollzeiteinheiten zu. Die Verteilung ist so vorzunehmen, dass der kantonale Schülerdurchschnitt pro Vollzeiteinheit auf der Kindergartenstufe höchstens 17,5 Schülerinnen und Schüler beträgt, auf der Primarstufe höchstens 15,7 Schülerinnen und Schüler und auf der Sekundarstufe höchstens 14,9 Schülerinnen und Schüler. Änderungen der
 
 **1**
 
-- 1\. 1. 21 - 111 Festlegung der Zahl der Vollzeiteinheiten berücksichtigt. Die Direktion kann besondere Verhältnisse einer Schulgemeinde berücksichtigen. Die Verordnung regelt die Zuteilungsberechnung.<sup>30</sup>
+- 1\. 1. 22 - 115 Strukturen der Volksschule und der Lektionentafel werden bei der Festlegung der Zahl der Vollzeiteinheiten berücksichtigt. Die Direktion kann besondere Verhältnisse einer Schulgemeinde berücksichtigen. Die Verordnung regelt die Zuteilungsberechnung.<sup>30</sup>
 
 <sup>2</sup> Die Gemeinden<sup>31</sup> legen in einem Stellenplan die Aufteilung der Vollzeiteinheiten auf die Abteilungen und Klassen fest.
 
@@ -89,6 +87,8 @@ Enthält dieses Gesetz keine ausdrückliche Regelung, richtet sich das Arbeitsve
 <sup>2</sup> Die Anstellung als Lehrperson setzt insbesondere die Zulassung zum Schuldienst gemäss den gesetzlichen Bestimmungen über die Lehrerbildung und jene als Schulleiterin oder als Schulleiter eine entsprechende Ausbildung voraus.<sup>23</sup>
 
 <sup>3</sup> Die Schulleitung kann eine Lehrperson mit deren Einwilligung ausnahmsweise stufenfremd oder in Fächern einsetzen, für welche die Lehrperson keine Unterrichtsbefähigung erworben hat. Bei einem Einsatz von mehr als einem Jahr sorgt die Schulleitung dafür, dass die Lehrperson das entsprechende Stufendiplom oder die notwendige Unterrichtsbefähigung erwirbt.
+
+**Aufsichtsrechtliches Einschreiten**
 
 <sup>4</sup> Stellt die für das Bildungswesen zuständige Direktion fest, dass der Bedarf an Lehrpersonen nicht gedeckt werden kann, kann sie die Gemeinden<sup>31</sup> ermächtigen, für längstens ein Jahr Lehrpersonen anzustellen, die nicht über die Zulassung zum Schuldienst verfügen. § 7 a.<sup>24</sup> <sup>1</sup> Die ersten fünf Monate des Arbeitsverhältnisses der Lehrpersonen gelten als Probezeit. Während der Probezeit kann das Arbeitsverhältnis beidseitig unter Einhaltung einer Kündigungsfrist von sieben Tagen auf den letzten Schultag vor den Schulferien aufgelöst werden.
 
@@ -126,15 +126,13 @@ Enthält dieses Gesetz keine ausdrückliche Regelung, richtet sich das Arbeitsve
 
 <sup>2</sup> . . .<sup>22</sup>
 
-**Aufsichtsrechtliches Einschreiten**
-
 § 11. <sup>1</sup> Die für das Bildungswesen zuständige Direktion kann rechtswidrige Anordnungen der Gemeinde<sup>31</sup> betreffend eine Lehrperson aufheben. Vorbehalten bleibt § 10 Abs. 1.
 
 <sup>2</sup> Sie ist befugt, anstelle der Gemeinden<sup>31</sup> zu handeln, wenn diese ihre Pflichten beim Vollzug dieses Gesetzes nicht erfüllen.
 
 **3**
 
-- 1\. 1. 21 - 111 § 11 a.<sup>20</sup> <sup>1</sup> Gemeinden<sup>31</sup>, Strafverfolgungsbehörden und Gerichte melden der für das Bildungswesen zuständigen Direktion die Eröffnung und den Abschluss von Strafuntersuchungen, die Anordnung von Untersuchungshaft sowie Strafurteile betreffend Verbrechen oder Vergehen, wenn durch das der Lehrperson, der Schulleiterin oder dem Schulleiter vorgeworfene Verhalten eine Auswirkung auf die Schule, insbesondere auch auf die Vertrauenswürdigkeit der Lehrperson, der Schulleiterin oder des Schulleiters nicht ausgeschlossen werden kann.
+- 1\. 1. 22 - 115 § 11 a.<sup>20</sup> <sup>1</sup> Gemeinden<sup>31</sup>, Strafverfolgungsbehörden und Gerichte melden der für das Bildungswesen zuständigen Direktion die Eröffnung und den Abschluss von Strafuntersuchungen, die Anordnung von Untersuchungshaft sowie Strafurteile betreffend Verbrechen oder Vergehen, wenn durch das der Lehrperson, der Schulleiterin oder dem Schulleiter vorgeworfene Verhalten eine Auswirkung auf die Schule, insbesondere auch auf die Vertrauenswürdigkeit der Lehrperson, der Schulleiterin oder des Schulleiters nicht ausgeschlossen werden kann.
 
 **Mitteilungspflichten**
 
@@ -296,7 +294,7 @@ Die Ausübung einer Nebenbeschäftigung oder eines öffentlichen Amtes kann von 
 
 **7**
 
-- 1\. 1. 21 - 111 § 24 b.<sup>18</sup> <sup>1</sup> Die für das Bildungswesen zuständige Direktion kann ein im Kanton Zürich verliehenes Lehrdiplom entziehen, wenn eine Lehrperson ihre Berufspflichten wiederholt oder schwer verletzt hat oder wenn ihre Vertrauenswürdigkeit in anderer Weise schwer beeinträchtigt erscheint, insbesondere wegen Verurteilung zu einer Freiheits- oder Geldstrafe infolge eines Verbrechens oder Vergehens.
+- 1\. 1. 22 - 115 § 24 b.<sup>18</sup> <sup>1</sup> Die für das Bildungswesen zuständige Direktion kann ein im Kanton Zürich verliehenes Lehrdiplom entziehen, wenn eine Lehrperson ihre Berufspflichten wiederholt oder schwer verletzt hat oder wenn ihre Vertrauenswürdigkeit in anderer Weise schwer beeinträchtigt erscheint, insbesondere wegen Verurteilung zu einer Freiheits- oder Geldstrafe infolge eines Verbrechens oder Vergehens.
 
 **Entzug des Lehrdiploms**
 
@@ -308,7 +306,11 @@ Die Ausübung einer Nebenbeschäftigung oder eines öffentlichen Amtes kann von 
 
 <sup>5</sup> Die Direktion meldet die Verweigerung oder den Entzug der Zulassung zum Schuldienst der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren und jener Instanz, die das Lehrdiplom ausstellte. Den Entzug des Lehrdiploms meldet sie der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren.
 
-<sup>6</sup> Die Direktion regelt das Administrativverfahren.
+<sup>6</sup> . . .<sup>34</sup>
+
+**Massnahmen während einer Administrativuntersuchung**
+
+§ 24 c.<sup>32</sup> Während einer Administrativuntersuchung trifft die für das Bildungswesen zuständige Direktion die im Interesse der Schule notwendigen vorsorglichen Massnahmen.
 
 ### III. Besondere Bestimmungen für Vikariate
 
@@ -332,26 +334,23 @@ Die Ausübung einer Nebenbeschäftigung oder eines öffentlichen Amtes kann von 
 
 <sup>3</sup> §§ 19 und 20 des Personalgesetzes[^26-1] sind nicht anwendbar.
 
-[^26-1]: LS 177.10.
-[^26-2]: LS 412.311.
+[^26-1]: LS 177.10. 1. 1. 22 - 115 9
 
 #### § 27
 
 **Lohn**
 
-<sup>1</sup> Die Verordnung[^26-2] regelt die Entlöhnung der Vikarinnen und Vikare.
+<sup>1</sup> Die Verordnung<sup>5</sup> regelt die Entlöhnung der Vikarinnen und Vikare.
 
 <sup>2</sup> Die für das Bildungswesen zuständige Direktion kann die Kosten für ein Vikariat ausnahmsweise Dritten auferlegen.<sup>21</sup>
 
 ### IV. Schlussbestimmungen
 
-[^hIVSchlussbestimmun-1]: LS 412.311.
-
 #### § 28
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat erlässt eine Verordnung[^hIVSchlussbestimmun-1] zum Vollzug des Gesetzes.
+<sup>1</sup> Der Regierungsrat erlässt eine Verordnung<sup>5</sup> zum Vollzug des Gesetzes.
 
 <sup>2</sup> Bestimmungen in Ausführung von § 13 Abs. 1 und §§ 19 a–19 c bedürfen der Genehmigung durch den Kantonsrat.<sup>29</sup>
 
@@ -364,7 +363,7 @@ Die Ausübung einer Nebenbeschäftigung oder eines öffentlichen Amtes kann von 
 <sup>3</sup> Die Bestimmungen des Personalgesetzes[^28-2] über die Abfindung sind auf diese Kündigungen anwendbar.
 
 [^28-1]: In Kraft seit 1. Februar 2000 (OS 56, 53).
-[^28-2]: LS 177.10.
+[^28-2]: LS 177.10. 1. 1. 22 - 115 9
 
 #### § 30
 
@@ -372,19 +371,27 @@ Die Ausübung einer Nebenbeschäftigung oder eines öffentlichen Amtes kann von 
 
 Die nachstehenden Gesetze werden wie folgt geändert:
 
-- a. das Wahlgesetz vom 4. September 1983: . . .[^30-1],[^30-2]
+- a. das Wahlgesetz vom 4. September 1983: . . .[^30-1], <sup>7</sup>
 
-- b. das Unterrichtsgesetz vom 23. Dezember 1859: . . .[^30-1],[^30-2]
+- b. das Unterrichtsgesetz vom 23. Dezember 1859: . . .[^30-1], <sup>7</sup>
 
-- c. das Volksschulgesetz vom 11. Juni 1899: . . .[^30-2]
+- c. das Volksschulgesetz vom 11. Juni 1899: . . .<sup>7</sup>
 
-- d. das Schulleistungsgesetz vom 2. Februar 1919: . . .[^30-2]
+- d. das Schulleistungsgesetz vom 2. Februar 1919: . . .<sup>7</sup>
 
-- e. das Lehrerbildungsgesetz vom 24. September 1978: . . .[^30-2]
+- e. das Lehrerbildungsgesetz vom 24. September 1978: . . .<sup>7</sup>
 
 **Aufhebung bisherigen Rechts**
 
 § 31. Mit dem Inkrafttreten dieses Gesetzes wird das Lehrerbesoldungsgesetz vom 3. Juli 1949 aufgehoben.
+
+<sup>4</sup> LS 412.100.
+
+<sup>5</sup> LS 412.311.
+
+<sup>6</sup> SR 220.
+
+<sup>7</sup> Text siehe OS 56, 39.
 
 <sup>8</sup> Eingefügt durch G vom 15. März 2004 (OS 59, 480). In Kraft seit 1. Januar 2005 (OS 59, 482).
 
@@ -434,16 +441,19 @@ Die nachstehenden Gesetze werden wie folgt geändert:
 
 <sup>31</sup> Fassung gemäss G vom 20. April 2020 (OS 75, 563; ABl 2018-12-14). In Kraft seit 1. Januar 2021.
 
+<sup>32</sup> Eingefügt durch G über die Administrativuntersuchung vom 22. Februar 2021 (OS 76, 447; ABl 2018-07-20). In Kraft seit 1. Januar 2022.
+
+<sup>33</sup> Fassung gemäss G über die Administrativuntersuchung vom 22. Februar 2021 (OS 76, 447; ABl 2018-07-20). In Kraft seit 1. Januar 2022.
+
+<sup>34</sup> Aufgehoben durch G über die Administrativuntersuchung vom 22. Februar 2021 (OS 76, 447; ABl 2018-07-20). In Kraft seit 1. Januar 2022.
+
 **11**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 [^30-1]: In Kraft seit 1. Februar 2000 (OS 56, 53).
-[^30-2]: Text siehe OS 56, 39. 1. 1. 21 - 111 9
 
 ## Weitere Fussnoten
 
-- [19] c. a. Grundsatz 1. 1. 21 - 111 5
+- [19] c. a. Grundsatz 1. 1. 22 - 115 5
 - [1] OS 56, 34. In Kraft seit 1. Oktober 2000 (OS 56, 216).
-- [4] LS 412.100.
-- [6] SR 220.
