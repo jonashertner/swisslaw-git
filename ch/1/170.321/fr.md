@@ -3,18 +3,18 @@ sr: "170.321"
 title: Ordonnance du 30 décembre 1958 relative à la loi sur la responsabilité
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/1421_1492_1498"
 language: fr
-version: 2013-07-01
+version: 2022-01-01
 adopted: 1958-12-30
 in_force: 1959-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/1421_1492_1498/20130701/fr/xml/fedlex-data-admin-ch-eli-cc-1958-1421_1492_1498-20130701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/1421_1492_1498/20130701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/1421_1492_1498/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1958-1421_1492_1498-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/1421_1492_1498/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance relative à la loi sur la responsabilité****
+# Ordonnance relative à la loi sur la responsabilité
 
-du 30 décembre 1958 (Etat le 1<sup>er</sup> juillet 2013)[^t-1]
+du 30 décembre 1958 (État le 1<sup>er</sup> janvier 2022)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 1986, en vigueur depuis le 1<sup>er</sup> avril 1986 ([RO 1986 354](https://fedlex.data.admin.ch/eli/oc/1986/354_354_354)).
 
@@ -46,13 +46,14 @@ arrête:
 
 <sup>1</sup> Le Département fédéral des finances est compétent, au sens de l’art. 10, al. 1, de la loi, pour statuer sur les réclamations. Il se prononce après avoir consulté l’organe dont relève le domaine ayant donné lieu à la contestation.[^2-2]
 
-<sup>2</sup> L’Administration fédérale des douanes statue sur les réclamations de son ressort inférieures à 10 000 francs.
+<sup>2</sup> L’Office fédéral de la douane et de la sécurité des frontières[^2-3] statue sur les réclamations de son ressort inférieures à 10 000 francs.
 
-<sup>3</sup> Les décisions selon les art. 10, al. 1, et 19, al. 3, de la loi sont sujettes à recours au Tribunal administratif fédéral.[^2-3]
+<sup>3</sup> Les décisions selon les art. 10, al. 1, et 19, al. 3, de la loi sont sujettes à recours au Tribunal administratif fédéral.[^2-4]
 
 [^2-1]: Nouvelle teneur selon le ch. 2 de l’annexe à l’O du 3 fév. 1993 sur les autorités dont les décisions peuvent être déférées au Tribunal fédéral ou au Tribunal fédéral des assurances, en vigueur depuis le 1<sup>er</sup> janv. 1994 ([RO 1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)).
 [^2-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2847](https://fedlex.data.admin.ch/eli/oc/2000/486)).
-[^2-3]: Introduit par le ch. I de l’O du 22 nov. 2000 ([RO 2000 2847](https://fedlex.data.admin.ch/eli/oc/2000/486)). Nouvelle teneur selon le ch. II 8 de l’O du 8 nov. 2006 portant adaptation d’ordonnances du Conseil fédéral à la révision totale de la procédure fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^2-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RO 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^2-4]: Introduit par le ch. I de l’O du 22 nov. 2000 ([RO 2000 2847](https://fedlex.data.admin.ch/eli/oc/2000/486)). Nouvelle teneur selon le ch. II 8 de l’O du 8 nov. 2006 portant adaptation d’ordonnances du Conseil fédéral à la révision totale de la procédure fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 #### Art. 3
 

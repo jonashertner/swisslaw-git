@@ -3,18 +3,18 @@ sr: "170.321"
 title: Verordnung vom 30. Dezember 1958 zum Verantwortlichkeitsgesetz
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/1421_1492_1498"
 language: de
-version: 2013-07-01
+version: 2022-01-01
 adopted: 1958-12-30
 in_force: 1959-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/1421_1492_1498/20130701/de/xml/fedlex-data-admin-ch-eli-cc-1958-1421_1492_1498-20130701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/1421_1492_1498/20130701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/1421_1492_1498/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1958-1421_1492_1498-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/1421_1492_1498/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung zum Verantwortlichkeitsgesetz****
+# Verordnung zum Verantwortlichkeitsgesetz
 
-vom 30. Dezember 1958 (Stand am 1. Juli 2013)[^t-1]
+vom 30. Dezember 1958 (Stand am 1. Januar 2022)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 12. Febr. 1986, in Kraft seit 1. April 1986 ([AS 1986 354](https://fedlex.data.admin.ch/eli/oc/1986/354_354_354)).
 
@@ -46,13 +46,14 @@ verordnet:
 
 <sup>1</sup> Zuständig für den Erlass von Verfügungen nach Artikel 10 Absatz 1 des Gesetzes ist das Eidgenössische Finanzdepartement. Dieses holt vorgängig eine Vernehmlassung der Amtsstelle ein, in deren Geschäftsbereich sich der anspruchsbegründende Sachverhalt ereignet hat.[^2-2]
 
-<sup>2</sup> Die Eidgenössische Zollverwaltung ist in ihrem Geschäftsbereich zuständig für Verfügungen über Ansprüche unter 10 000 Franken.
+<sup>2</sup> Das Bundesamt für Zoll und Grenzsicherheit[^2-3] ist in seinem Geschäftsbereich zuständig für Verfügungen über Ansprüche unter 10 000 Franken.
 
-<sup>3</sup> Verfügungen nach den Artikeln 10 Absatz 1 und 19 Absatz 3 des Gesetzes unterliegen der Beschwerde an das Bundesverwaltungsgericht.[^2-3]
+<sup>3</sup> Verfügungen nach den Artikeln 10 Absatz 1 und 19 Absatz 3 des Gesetzes unterliegen der Beschwerde an das Bundesverwaltungsgericht.[^2-4]
 
 [^2-1]: Fassung gemäss Anhang Ziff. 2 der V vom 3. Febr. 1993 über Vorinstanzen des Bundesgerichts und des Eidgenössischen Versicherungsgerichts, in Kraft seit 1. Jan. 1994 ([AS 1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)).
 [^2-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2847](https://fedlex.data.admin.ch/eli/oc/2000/486)).
-[^2-3]: Eingefügt durch Ziff. I der V vom 22. Nov. 2000 ([AS 2000 2847](https://fedlex.data.admin.ch/eli/oc/2000/486)). Fassung gemäss Ziff. II 8 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, in Kraft seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^2-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^2-4]: Eingefügt durch Ziff. I der V vom 22. Nov. 2000 ([AS 2000 2847](https://fedlex.data.admin.ch/eli/oc/2000/486)). Fassung gemäss Ziff. II 8 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, in Kraft seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 #### Art. 3
 
@@ -138,7 +139,7 @@ Auf diesen Zeitpunkt werden alle widersprechenden Bestimmungen aufgehoben, so in
 - c. die Artikel 28, 29, 32 Absatz 2 und 41 der Verordnung vom 26. September 1952[^8-3] über das Dienstverhältnis der Angestellten der allgemeinen Bundesverwaltung (Angestelltenordnung);
 - d. die Artikel 29, 30, 33 Absatz 2 und 42 der Verordnung vom 28. Dezember 1950[^8-4] über das Dienstverhältnis der Arbeiter der allgemeinen Bundesverwaltung (Arbeiterordnung).
 
-[^8-1]: [[AS 1952 659](https://fedlex.data.admin.ch/eli/oc/1952/659_675_677)[822](https://fedlex.data.admin.ch/eli/oc/1952/822_842_838), [1956 776](https://fedlex.data.admin.ch/eli/oc/1956/776_831_842), [1958 239](https://fedlex.data.admin.ch/eli/oc/1958/239_245_251). [AS 1959 1103](https://fedlex.data.admin.ch/eli/oc/1959/1103_1141_1137)Art. 83 Abs. 1]
-[^8-2]: [[AS 1952 700](https://fedlex.data.admin.ch/eli/oc/1952/700_715_716)[822](https://fedlex.data.admin.ch/eli/oc/1952/822_842_838), [1956 779](https://fedlex.data.admin.ch/eli/oc/1956/779_834_845), [1958 240](https://fedlex.data.admin.ch/eli/oc/1958/240_246_252). [AS 1959 1147](https://fedlex.data.admin.ch/eli/oc/1959/1147_1187_1183)Art. 71 Abs. 1]
-[^8-3]: [[AS 1952 729](https://fedlex.data.admin.ch/eli/oc/1952/729_744_745)[822](https://fedlex.data.admin.ch/eli/oc/1952/822_842_838), [1955 995](https://fedlex.data.admin.ch/eli/oc/1955/995_1021_1029), [1956 782](https://fedlex.data.admin.ch/eli/oc/1956/782_837_848), [1958 241](https://fedlex.data.admin.ch/eli/oc/1958/241_247_253). [AS 1959 1181](https://fedlex.data.admin.ch/eli/oc/1959/1181_1221_1217)Art. 84 Abs. 1]
-[^8-4]: [AS **1950** II 1549, **1952** 770 822, **1954** 428, **1956** 785. [AS 1959 1225](https://fedlex.data.admin.ch/eli/oc/1959/1225_1269_1265)Art. 89 Abs. 1]
+[^8-1]: [[AS 1952 659](https://fedlex.data.admin.ch/eli/oc/1952/659_675_677), [822](https://fedlex.data.admin.ch/eli/oc/1952/822_842_838); [1956 776](https://fedlex.data.admin.ch/eli/oc/1956/776_831_842); [1958 239](https://fedlex.data.admin.ch/eli/oc/1958/239_245_251). [AS 1959 1103](https://fedlex.data.admin.ch/eli/oc/1959/1103_1141_1137)Art. 83 Abs. 1]
+[^8-2]: [[AS 1952 700](https://fedlex.data.admin.ch/eli/oc/1952/700_715_716), [822](https://fedlex.data.admin.ch/eli/oc/1952/822_842_838); [1956 779](https://fedlex.data.admin.ch/eli/oc/1956/779_834_845); [1958 240](https://fedlex.data.admin.ch/eli/oc/1958/240_246_252). [AS 1959 1147](https://fedlex.data.admin.ch/eli/oc/1959/1147_1187_1183)Art. 71 Abs. 1]
+[^8-3]: [[AS 1952 729](https://fedlex.data.admin.ch/eli/oc/1952/729_744_745), [822](https://fedlex.data.admin.ch/eli/oc/1952/822_842_838); [1955 995](https://fedlex.data.admin.ch/eli/oc/1955/995_1021_1029); [1956 782](https://fedlex.data.admin.ch/eli/oc/1956/782_837_848); [1958 241](https://fedlex.data.admin.ch/eli/oc/1958/241_247_253). [AS 1959 1181](https://fedlex.data.admin.ch/eli/oc/1959/1181_1221_1217)Art. 84 Abs. 1]
+[^8-4]: [AS **1950** II 1549; **1952** 770, 822; **1954** 428; **1956** 785. [AS 1959 1225](https://fedlex.data.admin.ch/eli/oc/1959/1225_1269_1265)Art. 89 Abs. 1]

@@ -3,18 +3,18 @@ sr: "170.321"
 title: Ordinanza del 30 dicembre 1958 concernente la legge sulla responsabilità
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/1421_1492_1498"
 language: it
-version: 2013-07-01
+version: 2022-01-01
 adopted: 1958-12-30
 in_force: 1959-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/1421_1492_1498/20130701/it/xml/fedlex-data-admin-ch-eli-cc-1958-1421_1492_1498-20130701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/1421_1492_1498/20130701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/1421_1492_1498/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1958-1421_1492_1498-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/1421_1492_1498/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza concernente la legge sulla responsabilità****
+# Ordinanza concernente la legge sulla responsabilità
 
-del 30 dicembre 1958 (Stato 1° luglio 2013)[^t-1]
+del 30 dicembre 1958 (Stato 1° gennaio 2022)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 12 feb. 1986, in vigore dal 1° apr. 1986 ([RU 1986 354](https://fedlex.data.admin.ch/eli/oc/1986/354_354_354)).
 
@@ -46,13 +46,14 @@ ordina:
 
 <sup>1</sup> Il Dipartimento federale delle finanze è competente per pronunciare le decisioni ai sensi dell’articolo 10 capoverso 1 della legge. Consulta preventivamente l’organo interessato, le cui pratiche hanno dato luogo a contestazione.[^2-2]
 
-<sup>2</sup> L’Amministrazione federale delle dogane è competente per le decisioni della sua sfera d’attività sulle pretese inferiori a 10 000 franchi.
+<sup>2</sup> L’Ufficio federale della dogana e della sicurezza dei confini[^2-3] è competente per le decisioni della sua sfera d’attività sulle pretese inferiori a 10 000 franchi.
 
-<sup>3</sup> Le decisioni ai sensi degli articoli 10 capoverso 1 e 19 capoverso 3 della legge sono impugnabili presso il Tribunale amministrativo federale.[^2-3]
+<sup>3</sup> Le decisioni ai sensi degli articoli 10 capoverso 1 e 19 capoverso 3 della legge sono impugnabili presso il Tribunale amministrativo federale.[^2-4]
 
 [^2-1]: Nuovo testo giusta il n. 2 dell’all. dell’O del 3 feb. 1993 sulle autorità le cui decisioni possono essere deferite al Tribunale federale e al Tribunale federale delle assicurazioni, in vigore dal 1º gen. 1994 ([RU 1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)).
 [^2-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2847](https://fedlex.data.admin.ch/eli/oc/2000/486)).
-[^2-3]: Introdotto dal n. I dell’O del 22 nov. 2000 ([RU 2000 2847](https://fedlex.data.admin.ch/eli/oc/2000/486)). Nuovo testo giusta il n. II 8 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^2-3]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 598](https://fedlex.data.admin.ch/eli/oc/2021/598)).
+[^2-4]: Introdotto dal n. I dell’O del 22 nov. 2000 ([RU 2000 2847](https://fedlex.data.admin.ch/eli/oc/2000/486)). Nuovo testo giusta il n. II 8 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 #### Art. 3
 
