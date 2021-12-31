@@ -4,11 +4,11 @@ title: "Verordnung vom 28. März 2007 über die Kontrolle des Strassenverkehrs (
 short: SKV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/296"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2007-03-28
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/296/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2007-296-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/296/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-296-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20200101/de"
 
 (Strassenverkehrskontrollverordnung, SKV)
 
-vom 28. März 2007 (Stand am 1. Januar 2020)
+vom 28. März 2007 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -70,17 +70,17 @@ Es werden folgende Abkürzungen verwendet:
 <sup>2</sup> Die Polizei wirkt helfend und verkehrserziehend, verhindert Widerhandlungen, verzeigt Fehlbare und erhebt Ordnungsbussen nach dem Ordnungsbussengesetz vom 24. Juni 1970[^3-2].
 
 [^3-1]: [SR 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
-[^3-2]: [[AS 1972 734](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666), [AS 1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075), [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)Art. 44 Ziff. 4, [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)Anhang Ziff. I]. Siehe heute: das Ordnungsbussengesetz vom 18. März 2016 ([SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
+[^3-2]: [[AS 1972 734](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666); [AS 1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075); [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)Art. 44 Ziff. 4; [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)Anhang Ziff. I]. Siehe heute: das Ordnungsbussengesetz vom 18. März 2016 ([SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
 
 #### Art. 4
 
-**Zuständigkeit der Eidgenössischen Zollverwaltung [^4-1]**
+**Zuständigkeit des BAZG[^4-1]**
 
-<sup>1</sup> Die Eidgenössische Zollverwaltung (EZV) ist an den Zollstellen für die verkehrspolizeiliche Kontrolle von Fahrzeugen sowie Fahrzeugführern und -führerinnen, die in die Schweiz einfahren oder die Schweiz verlassen, zuständig. Sie führt die verkehrspolizeilichen Kontrollen zusammen mit der Zollkontrolle von Fahrzeugen sowie ihren Ladungen und Insassen durch.[^4-2]
+<sup>1</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^4-2] ist an den Zollstellen für die verkehrspolizeiliche Kontrolle von Fahrzeugen sowie Fahrzeugführern und ‑führerinnen, die in die Schweiz einfahren oder die Schweiz verlassen, zuständig. Es führt die verkehrspolizeilichen Kontrollen zusammen mit der Zollkontrolle von Fahrzeugen sowie ihren Ladungen und Insassen durch.[^4-3]
 
 <sup>2</sup>
 
-Sie kontrolliert insbesondere:[^4-3]
+Es kontrolliert insbesondere:[^4-4]
 
 - a. den Führer- und den Fahrzeugausweis sowie die Kontrollschilder;
 - b. den Zustand der Fahrzeugführer und -führerinnen;
@@ -94,29 +94,30 @@ Sie kontrolliert insbesondere:[^4-3]
 
 <sup>3</sup>
 
-Sie kann anordnen:[^4-4]
+Es kann anordnen:[^4-5]
 
 - a. bei der Kontrolle von Fahrzeugen und ihrer Ladung: die gleichen Massnahmen wie die kantonalen Polizeiorgane;
 - b. bei der Kontrolle von Fahrzeugführern und -führerinnen: die Verhinderung der Weiterfahrt (Art. 30).
 
-<sup>4</sup> Stellt die EZV eine Widerhandlung fest, so verhindert sie die Weiterfahrt.[^4-5]
+<sup>4</sup> Stellt das BAZG eine Widerhandlung fest, so verhindert es die Weiterfahrt.[^4-6]
 
-<sup>5</sup> Wird den Anordnungen der EZV nicht Folge geleistet oder kann sie eine Widerhandlung nicht im Ordnungsbussenverfahren nach dem Ordnungsbussengesetz vom 18. März 2016[^4-6] ahnden, so bietet sie die nächstgelegene kantonale Polizei auf.[^4-7]
+<sup>5</sup> Wird den Anordnungen des BAZG nicht Folge geleistet oder kann es eine Widerhandlung nicht im Ordnungsbussenverfahren nach dem Ordnungsbussengesetz vom 18. März 2016[^4-7] ahnden, so bietet es die nächstgelegene kantonale Polizei auf.[^4-8]
 
-<sup>6</sup> Ist die kantonale Polizei nicht erreichbar, so erstellt die EZV die Verzeigungsrapporte und übergibt sie mit den vorhandenen Beweismitteln dem zuständigen Polizeikommando. Dieses leitet das Strafverfahren ein.[^4-8]
+<sup>6</sup> Ist die kantonale Polizei nicht erreichbar, so erstellt das BAZG die Verzeigungsrapporte und übergibt sie mit den vorhandenen Beweismitteln dem zuständigen Polizeikommando. Dieses leitet das Strafverfahren ein.[^4-9]
 
-<sup>7</sup> Das ASTRA regelt im Einvernehmen mit der EZV die Einzelheiten der Durchführung verkehrspolizeilicher Kontrollen. Vorbehalten bleiben weitergehende Vereinbarungen der Kantone mit dem Eidgenössischen Finanzdepartement nach Artikel 97 des Zollgesetzes vom 18. März 2005[^4-9].[^4-10]
+<sup>7</sup> Das ASTRA regelt im Einvernehmen mit dem BAZG die Einzelheiten der Durchführung verkehrspolizeilicher Kontrollen. Vorbehalten bleiben weitergehende Vereinbarungen der Kantone mit dem Eidgenössischen Finanzdepartement nach Artikel 97 des Zollgesetzes vom 18. März 2005[^4-10].[^4-11]
 
 [^4-1]: Fassung gemäss Anhang 3 Ziff. 1 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-2]: Fassung gemäss Anhang 3 Ziff. 1 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^4-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 [^4-3]: Fassung gemäss Anhang 3 Ziff. 1 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 [^4-4]: Fassung gemäss Anhang 3 Ziff. 1 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 [^4-5]: Fassung gemäss Anhang 3 Ziff. 1 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-6]: [SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
-[^4-7]: Fassung gemäss Anhang 3 Ziff. 1 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-8]: Eingefügt durch Anhang 3 Ziff. 1 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-9]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^4-10]: Eingefügt durch Anhang 3 Ziff. 1 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^4-6]: Fassung gemäss Anhang 3 Ziff. 1 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^4-7]: [SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
+[^4-8]: Fassung gemäss Anhang 3 Ziff. 1 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^4-9]: Eingefügt durch Anhang 3 Ziff. 1 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^4-10]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-11]: Eingefügt durch Anhang 3 Ziff. 1 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 
 #### Art. 5
 
@@ -532,7 +533,7 @@ Es wird mindestens eines der folgenden Kontrollverfahren durchgeführt:
 
 **Strassenkontrollen**
 
-<sup>1</sup> Die Kontrolle von Gefahrguttransporten auf der Strasse muss nach der Prüfliste nach Anhang I der Richtlinie 95/50/EG[^26-1] erfolgen.
+<sup>1</sup> Die Kontrolle von Gefahrguttransporten auf der Strasse muss nach der Prüfliste nach Anhang I der Richtlinie (EU) 2022/1999[^26-1] erfolgen.
 
 <sup>2</sup> Die kantonalen Behörden stellen sicher, dass ein repräsentativer Anteil der Gefahrguttransporte auf der Strasse kontrolliert wird.
 
@@ -542,7 +543,7 @@ Es wird mindestens eines der folgenden Kontrollverfahren durchgeführt:
 
 <sup>5</sup> Das ASTRA legt die Form und den Inhalt der Prüfliste und der Bescheinigung fest.
 
-[^26-1]: Richtlinie 95/50/EG des Rates vom 6. Okt. 1995 über einheitliche Verfahren für die Kontrolle von Gefahrguttransporten auf der Strasse (ABl. L 249 vom 17.10.1995, S. 35), zuletzt geändert durch die Richtlinie 2008/54/EG des Europäischen Parlaments und des Rates vom 17. Juni 2008 (ABl. L 162 vom 21.6.2008, S. 11), (siehe [AS 2009 3139](https://fedlex.data.admin.ch/eli/oc/2009/386)).
+[^26-1]: Richtlinie (EU) 2022/1999 des Europäischen Parlaments und des Rates vom 19. Oktober 2022 über einheitliche Verfahren für die Kontrolle von Gefahrguttransporten auf der Strasse (ABl. L 274, vom 24.10.2022, S. 1). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 13. Nov. 2022 angepasst.
 
 #### Art. 27
 

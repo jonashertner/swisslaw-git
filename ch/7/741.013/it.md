@@ -4,11 +4,11 @@ title: Ordinanza del 28 marzo 2007 sul controllo della circolazione stradale (OC
 short: OCCS
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/296"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2007-03-28
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/296/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2007-296-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/296/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-296-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20200101/it"
 
 (OCCS)
 
-del 28 marzo 2007 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+del 28 marzo 2007 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -74,13 +74,13 @@ La presente ordinanza disciplina i controlli della circolazione e i provvediment
 
 #### Art. 4
 
-**Competenza dell’Amministrazione federale delle dogane[^4-1]**
+**Competenza dell’UDSC[^4-1]**
 
-<sup>1</sup> L’Amministrazione federale delle dogane (AFD) è competente per il controllo in materia di polizia stradale dei veicoli e dei conducenti che entrano o escono dalla Svizzera. Effettua i controlli in materia di polizia stradale insieme alla verifica doganale dei veicoli, del loro carico e degli occupanti.[^4-2]
+<sup>1</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^4-2] è competente per il controllo in materia di polizia stradale dei veicoli e dei conducenti che entrano o escono dalla Svizzera. Effettua i controlli in materia di polizia stradale insieme alla verifica doganale dei veicoli, del loro carico e degli occupanti.[^4-3]
 
 <sup>2</sup>
 
-In particolare controlla:[^4-3]
+In particolare controlla:[^4-4]
 
 - a. la licenza di condurre, la licenza di circolazione e le targhe;
 - b. lo stato del conducente;
@@ -94,29 +94,30 @@ In particolare controlla:[^4-3]
 
 <sup>3</sup>
 
-Può ordinare:[^4-4]
+Può ordinare:[^4-5]
 
 - a. durante il controllo dei veicoli e del loro carico, gli stessi provvedimenti degli organi cantonali di polizia;
 - b. durante il controllo dei conducenti, il divieto di continuare la corsa (art. 30).
 
-<sup>4</sup> Se constata un’infrazione, l’AFD impedisce al conducente di continuare la corsa.[^4-5]
+<sup>4</sup> Se constata un’infrazione, l’UDSC impedisce al conducente di continuare la corsa.[^4-6]
 
-<sup>5</sup> Se i suoi ordini non sono eseguiti o se non può punire un’infrazione con la procedura della multa disciplinare ai sensi della legge del 18 marzo 2016[^4-6] sulle multe disciplinari, l’AFD chiede l’intervento del posto di polizia cantonale più vicino.[^4-7]
+<sup>5</sup> Se i suoi ordini non sono eseguiti o se non può punire un’infrazione con la procedura della multa disciplinare ai sensi della legge del 18 marzo 2016[^4-7] sulle multe disciplinari, l’UDSC chiede l’intervento del posto di polizia cantonale più vicino.[^4-8]
 
-<sup>6</sup> Se la polizia cantonale non può essere contattata, l’AFD redige il rapporto di denuncia e lo consegna, unitamente ai mezzi di prova di cui dispone, al comando di polizia competente. Quest’ultimo avvia il procedimento penale.[^4-8]
+<sup>6</sup> Se la polizia cantonale non può essere contattata, l’UDSC redige il rapporto di denuncia e lo consegna, unitamente ai mezzi di prova di cui dispone, al comando di polizia competente. Quest’ultimo avvia il procedimento penale.[^4-9]
 
-<sup>7</sup> L’USTRA disciplina, d’intesa con la Direzione generale delle dogane, i particolari dell’esecuzione dei controlli in materia di polizia stradale. Sono fatti salvi accordi più particolareggiati stipulati dai Cantoni con il Dipartimento federale delle finanze conformemente all’articolo 97 della legge del 18 marzo 2005[^4-9] sulle dogane.[^4-10]
+<sup>7</sup> L’USTRA disciplina, d’intesa con l’UDSC, i particolari dell’esecuzione dei controlli in materia di polizia stradale. Sono fatti salvi accordi più particolareggiati stipulati dai Cantoni con il Dipartimento federale delle finanze conformemente all’articolo 97 della legge del 18 marzo 2005[^4-10] sulle dogane.[^4-11]
 
 [^4-1]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-2]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^4-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali (RS **17****0.512.1**), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^4-3]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 [^4-4]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-5]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-6]: [RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
-[^4-7]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-8]: Introdotto dall’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-9]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^4-10]: Introdotto dall’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^4-5]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 (RU **201****9** 529).
+[^4-6]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^4-7]: [RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
+[^4-8]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^4-9]: Introdotto dall’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^4-10]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-11]: Introdotto dall’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 
 #### Art. 5
 
@@ -399,7 +400,7 @@ Sono effettuati controlli sulla durata del lavoro, della guida e del riposo dei 
 
 [^20-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4929](https://fedlex.data.admin.ch/eli/oc/2011/711)).
 [^20-2]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
-[^20-3]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^20-3]: RS **822****.****222**
 
 #### Art. 21
 
@@ -534,7 +535,7 @@ Le autorità cantonali provvedono affinché lo stato tecnico dei veicoli sia deb
 
 **Controlli stradali**
 
-<sup>1</sup> Il controllo dei trasporti su strada di merci pericolose deve essere effettuato in base alla lista di controllo di cui all’allegato I della direttiva 95/50/CE[^26-1].
+<sup>1</sup> Il controllo dei trasporti su strada di merci pericolose deve essere effettuato in base alla lista di controllo di cui all’allegato I della direttiva (UE) 2022/1999[^26-1].
 
 <sup>2</sup> Le autorità cantonali provvedono affinché sia sottoposta a controllo una quota rappresentativa dei trasporti su strada di merci pericolose.
 
@@ -544,7 +545,7 @@ Le autorità cantonali provvedono affinché lo stato tecnico dei veicoli sia deb
 
 <sup>5</sup> L’USTRA determina la forma e il contenuto della lista di controllo e del certificato di controllo.
 
-[^26-1]: Direttiva 95/50/CE del Consiglio, del 6 ott. 1995, sull’adozione di procedure uniformi in materia di controllo dei trasporti su strada di merci pericolose (GU L 249 del 17.10.1995, pag. 35); modificata l’ultima volta dalla direttiva 2008/54/CE del Parlamento europeo e del Consiglio, del 17 giu. 2008 (GU L 162 del 21.6.2008, pag. 11), (vedi [RU 2009 3139](https://fedlex.data.admin.ch/eli/oc/2009/386)).
+[^26-1]: Direttiva (UE) 2022/1999 del Parlamento europeo e del Consiglio del 19 ottobre 2022 relativa a procedure uniformi in materia di controllo dei trasporti su strada di merci pericolose (GU L 274 del 24.10.2022, pag. 1). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 13 nov. 2022.
 
 #### Art. 27
 

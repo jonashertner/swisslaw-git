@@ -4,11 +4,11 @@ title: Ordonnance du 28 mars 2007 sur le contrôle de la circulation routière (
 short: OCCR
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/296"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2007-03-28
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/296/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-296-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/296/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-296-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20200101/fr"
 
 (OCCR)
 
-du 28 mars 2007 (Etat le 1<sup>er</sup> janvier 2020)
+du 28 mars 2007 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -72,18 +72,18 @@ La présente ordonnance règle les contrôles de la circulation ainsi que les me
 
 <sup>2</sup> La police agit de manière à aider et à sensibiliser les usagers de la route, empêche les conducteurs de commettre des infractions, dénonce les contrevenants et inflige des amendes d’ordre conformément à la loi fédérale du 24 juin 1970 sur les amendes d’ordre[^3-2].
 
-[^3-1]: [RS 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
-[^3-2]: [[RO 1972 742](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666), [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075), [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)art. 44 ch. 4, [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744)ch. II, [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [RO 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)annexe ch. I]. Voir actuellement la L du 18 mars 2016 ([RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
+[^3-1]: RS **510.71****0**
+[^3-2]: [[RO 1972 742](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666); [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075); [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)art. 44 ch. 4; [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744)ch. II; [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [RO 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)annexe ch. I]. Voir actuellement la L du 18 mars 2016 ([RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
 
 #### Art. 4
 
-**Compétence de l’Administration fédérale des douanes[^4-1]**
+**Compétence de l’OFDF[^4-1]**
 
-<sup>1</sup> L’Administration fédérale des douanes (AFD) est compétente pour effectuer, aux bureaux de douane, le contrôle de police routière des véhicules et des conducteurs qui entrent en Suisse ou qui en sortent. Elle procède à ce contrôle dans le cadre du contrôle douanier des véhicules, de leurs chargements et de leurs voyageurs.[^4-2]
+<sup>1</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^4-2] est compétent pour effectuer, aux bureaux de douane, le contrôle de police routière des véhicules et des conducteurs qui entrent en Suisse ou qui en sortent. Il procède à ce contrôle dans le cadre du contrôle douanier des véhicules, de leurs chargements et de leurs voyageurs.[^4-3]
 
 <sup>2</sup>
 
-Elle contrôle en particulier:[^4-3]
+Il contrôle en particulier:[^4-4]
 
 - a. le permis de conduire, le permis de circulation et les plaques de contrôle;
 - b. l’état des conducteurs;
@@ -97,29 +97,30 @@ Elle contrôle en particulier:[^4-3]
 
 <sup>3</sup>
 
-Elle est en droit d’ordonner:[^4-4]
+Il est en droit d’ordonner:[^4-5]
 
 - a. les mêmes mesures que les organes cantonaux de police lorsqu’ils contrôlent les véhicules et leur chargement;
 - b. l’interdiction de reprendre la route (art. 30) lorsqu’ils contrôlent les conducteurs.
 
-<sup>4</sup> Si l’AFD constate une infraction, elle empêche le conducteur de reprendre la route.[^4-5]
+<sup>4</sup> Si l’OFDF constate une infraction, il empêche le conducteur de reprendre la route.[^4-6]
 
-<sup>5</sup> Si ses ordres ne sont pas exécutés ou qu’une infraction ne peut être réprimée dans la procédure de l’amende d’ordre au sens de la loi du 18 mars 2016 sur les amendes d’ordre[^4-6], elle fait appel au poste le plus proche de la police cantonale.[^4-7]
+<sup>5</sup> Si ses ordres ne sont pas exécutés ou qu’une infraction ne peut être réprimée dans la procédure de l’amende d’ordre au sens de la loi du 18 mars 2016 sur les amendes d’ordre[^4-7], il fait appel au poste le plus proche de la police cantonale.[^4-8]
 
-<sup>6</sup> Si elle ne peut pas entrer en contact avec la police cantonale, elle établit le rapport de dénonciation et le remet avec les moyens de preuve dont elle dispose au commandement de police compétent. Celui-ci ouvre la procédure pénale.[^4-8]
+<sup>6</sup> Si il ne peut pas entrer en contact avec la police cantonale, il établit le rapport de dénonciation et le remet avec les moyens de preuve dont il dispose au commandement de police compétent. Celui-ci ouvre la procédure pénale.[^4-9]
 
-<sup>7</sup> L’OFROU règle, en accord avec l’AFD, les modalités de l’exécution des contrôles de police routière. Les conventions allant plus loin et conclues par les cantons avec le Département fédéral des finances en vertu de l’art. 97 de la loi du 18 mars 2005 sur les douanes[^4-9] sont réservées.[^4-10]
+<sup>7</sup> L’OFROU règle, en accord avec l’OFDF, les modalités de l’exécution des contrôles de police routière. Les conventions allant plus loin et conclues par les cantons avec le Département fédéral des finances en vertu de l’art. 97 de la loi du 18 mars 2005 sur les douanes[^4-10] sont réservées.[^4-11]
 
 [^4-1]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-2]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^4-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 [^4-3]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 [^4-4]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 [^4-5]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-6]: [RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
-[^4-7]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-8]: Introduit par l’annexe 3 ch. 1 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-9]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^4-10]: Introduit par l’annexe 3 ch. 1 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^4-6]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^4-7]: [RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
+[^4-8]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^4-9]: Introduit par l’annexe 3 ch. 1 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^4-10]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-11]: Introduit par l’annexe 3 ch. 1 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 
 #### Art. 5
 
@@ -532,7 +533,7 @@ Au moins une des procédures de contrôle suivantes doit être effectuée:
 
 **Contrôles routiers**
 
-<sup>1</sup> Le contrôle des transports de marchandises dangereuses doit se faire selon la liste de l’annexe I de la directive 95/50/CE[^26-1].
+<sup>1</sup> Le contrôle des transports de marchandises dangereuses doit se faire selon la liste de l’annexe I de la directive (UE) 2022/1999[^26-1].
 
 <sup>2</sup> Les autorités cantonales veillent à ce qu’une proportion représentative des transports routiers de marchandises dangereuses soit soumise à des contrôles.
 
@@ -542,7 +543,7 @@ Au moins une des procédures de contrôle suivantes doit être effectuée:
 
 <sup>5</sup> L’OFROU définit la forme et le contenu de la liste de contrôle et de l’attestation.
 
-[^26-1]: Directive 95/50/CE du Conseil du 6 oct. 1995 concernant des procédures uniformes en matière de contrôle des transports de marchandises dangereuses par route (JO L 249 du 17.10.1995, p. 35; modifiée en dernier lieu par la directive 2008/54/CE du Parlement européen et du Conseil du 17 juin 2008 (JO L 162 du 21.6.2008, p. 11; voir [RO 2009 3139](https://fedlex.data.admin.ch/eli/oc/2009/386)).
+[^26-1]: Directive (UE) 2022/1999 du Parlement européen et du Conseil du 19 octobre 2022 concernant des procédures uniformes en matière de contrôle des transports de marchandises dangereuses par route (JO L 274 du 24.10.2022, p. 1). Le renvoi a été adapté au 13 nov. 2022 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 #### Art. 27
 
@@ -590,7 +591,7 @@ La police empêche le conducteur de reprendre la route:
 - e. s’il n’observe pas une restriction éventuelle inscrite dans le permis de conduire relative à l’utilisation d’un véhicule adapté à son infirmité ou à sa taille;
 - f. s’il conduit un véhicule automobile autorisé à circuler sans permis de circulation ni plaques de contrôle en vertu de l’art. 72 OAC[^30-4], et qu’un ou plusieurs motifs énumérés à l’art. 32 sont en cause.
 
-[^30-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2016 (RO **2****015** 2585).
 [^30-2]: Introduite par le ch. I de l’O du 29 nov. 2013 ([RO 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
 [^30-3]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 [^30-4]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
