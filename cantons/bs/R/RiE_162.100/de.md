@@ -3,13 +3,12 @@ canton: BS
 number: RiE 162.100
 title: Personalordnung
 language: de
-version: 2014-01-01
-valid_until: 2021-12-31
-version_adopted: 2013-09-25
+version: 2022-01-01
+version_adopted: 2021-03-24
 adopted: 2002-04-24
 in_force: 2002-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20162.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/2843/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5399/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/2843/pdf_file"
 
 Personalordnung | Riehen: Einwohnergemeinde
 
-Vom 24. April 2002 (Stand 1. Januar 2014)
+Vom 24. April 2002 (Stand 1. Januar 2022)
 
 Der Einwohnerrat Riehen
 
@@ -50,7 +49,7 @@ erlässt, auf Antrag des Gemeinderats und gestützt auf § 9 Abs. 1 Ziff. 6 des 
 - d) der Lehrverhältnisse
 - e) der Sozialversicherungen.
 
-<sup>2</sup> Subsidiär gelten für das Arbeitsverhältnis die Art. 319–362 des schweizerischen Obligationenrechts als kommunales öffentliches Recht.
+<sup>2</sup> Subsidiär gelten für das Arbeitsverhältnis die Art. 319 - 362 des Schweizerischen Obligationenrechts (OR) vom 30. März 1911 als kommunales öffentliches Recht.
 
 #### § 3
 
@@ -280,7 +279,7 @@ erlässt, auf Antrag des Gemeinderats und gestützt auf § 9 Abs. 1 Ziff. 6 des 
 
 **Beratung**
 
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter können sich von der Leitung Personelles in dienstlichen und persönlichen Angelegenheiten beraten und Hilfe vermitteln lassen. Die Vertraulichkeit bleibt vollumfänglich gewahrt.
+<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter können sich von den von der Arbeitgeberin bezeichneten Stellen in dienstlichen und persönlichen Angelegenheiten beraten und Hilfe vermitteln lassen. Die Vertraulichkeit bleibt vollumfänglich gewahrt.
 
 #### § 25
 
@@ -391,7 +390,7 @@ erlässt, auf Antrag des Gemeinderats und gestützt auf § 9 Abs. 1 Ziff. 6 des 
 - a) während 365 Tagen bei unverschuldeter Arbeitsverhinderung wegen Krankheit oder Unfall
 - b) während der Schwangerschaft und in den 16 Wochen nach der Niederkunft.
 
-<sup>3</sup> Im Übrigen finden die Bestimmungen des Obligationenrechts über die Kündigung zur Unzeit nach Ablauf der Probezeit sinngemäss Anwendung.
+<sup>3</sup> Im Übrigen finden die Bestimmungen des Obligationenrechts über die Kündigung zur Unzeit nach Ablauf der Probezeit und des Bundesgesetzes über die Gleichstellung von Frau und Mann (Gleichstellungsgesetzes, GlG) vom 24. März 1995 sinngemäss Anwendung.
 
 #### § 35
 
@@ -497,13 +496,13 @@ erlässt, auf Antrag des Gemeinderats und gestützt auf § 9 Abs. 1 Ziff. 6 des 
 
 **Rekursrecht**
 
-<sup>1</sup> Gegen Verfügungen der Verwaltung oder Entscheide der Vorgesetzten gemäss § 44 Abs. 3 können die betroffenen Mitarbeiterinnen und Mitarbeiter Rekurs an den Gemeinderat ergreifen. Dieser entscheidet unter Vorbehalt von § 48 endgültig.
+<sup>1</sup> Gegen Verfügungen, welche sich auf diese Ordnung stützen, können die Mitarbeiterinnen und Mitarbeiter Rekurs beim Gemeinderat erheben. Erlässt der Gemeinderat als Anstellungsinstanz selber eine Verfügung, so kann mittels Einsprache eine erneute Beurteilung durch den Gemeinderat verlangt werden.
 
 <sup>2</sup> Der Rekurs ist innert 10 Tagen nach der Eröffnung der Verfügung oder des Entscheids schriftlich anzumelden. Binnen 30 Tagen, vom gleichen Zeitpunkt an gerechnet, ist eine schriftliche Rekursbegründung einzureichen.
 
 <sup>3</sup> Diese Fristen sind nicht erstreckbar. Werden sie aus nicht entschuldbaren Gründen versäumt, fällt der Rekurs dahin.
 
-<sup>4</sup> Diskriminierungsstreitigkeiten, die das Geschlecht betreffen, sind vor Einleitung eines Rekursverfahrens der kantonalen Schlichtungsstelle für Diskriminierungsfragen zu unterbreiten.
+<sup>4</sup> Diskriminierungsstreitigkeiten, die das Geschlecht betreffen, sind vor Einleitung eines Rekursverfahrens der kantonalen Schlichtungsstelle für Diskriminierungsfragen zu unterbreiten, sofern die Diskriminierung nicht als Nebenpunkt des Rechtsstreits geltend gemacht wird.
 
 #### § 46
 
@@ -519,11 +518,11 @@ erlässt, auf Antrag des Gemeinderats und gestützt auf § 9 Abs. 1 Ziff. 6 des 
 
 **Rekursbehandlung**
 
-<sup>1</sup> Es gilt der Grundsatz eines raschen und einfachen Verfahrens. Es soll innert der ordentlichen Kündigungsfrist abgeschlossen werden. Es ist kostenlos, ausser bei Mutwilligkeit.
+<sup>1</sup> Es gilt der Grundsatz eines raschen und einfachen Verfahrens. Es soll in der Regel innert der ordentlichen Kündigungsfrist abgeschlossen werden. Es ist kostenlos.
 
-<sup>2</sup> Die Mitarbeiterin oder der Mitarbeiter kann persönlich zur Verhandlung erscheinen, sich von einer Person ihres oder seines Vertrauens begleiten oder sich vertreten lassen. Bei Abwesenheit wird aufgrund der Aktenlage entschieden.
+<sup>2</sup> Die Mitarbeiterin oder der Mitarbeiter kann eine Anhörung vor dem Gemeinderat verlangen und sich von einer Person ihres oder seines Vertrauens begleiten oder sich vertreten lassen.
 
-<sup>3</sup> Der Gemeinderat fällt den Entscheid unmittelbar nach der mündlichen Verhandlung in geheimer Beratung. Der Entscheid wird den Parteien sogleich mitgeteilt. Der schriftlich begründete Entscheid wird innert längstens 10 Tagen eröffnet.
+<sup>3</sup> Der Rekursentscheid des Gemeinderats wird schriftlich eröffnet.
 
 #### § 48
 
@@ -546,7 +545,7 @@ erlässt, auf Antrag des Gemeinderats und gestützt auf § 9 Abs. 1 Ziff. 6 des 
 - a) die Anstellungsvoraussetzungen
 - b) das Verfahren und die Zuständigkeit für die Begründung und Gestaltung und Beendigung des Arbeitsverhältnisses
 - c) die Anhörung und Mitsprache der Mitarbeiterinnen und Mitarbeiter und die Rechte der Personalverbände
-- d) das interne Beschwerdewesen
+- d) die Beratung der Mitarbeiterinnen und Mitarbeiter, den Schutz der persönlichen Integrität und das interne Beschwerdewesen
 - e) den Rechtsschutz
 - f) die Lohnfortzahlung
 - g) die Arbeitszeit, deren Einteilung sowie die Ruhe- und Freizeit
