@@ -4,11 +4,11 @@ title: Verordnung vom 9. April 2008 über die Beglaubigung des nichtpräferenzie
 short: VUB
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/271"
 language: de
-version: 2014-09-01
+version: 2022-01-01
 adopted: 2008-04-09
 in_force: 2008-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/271/20140901/de/xml/fedlex-data-admin-ch-eli-cc-2008-271-20140901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/271/20140901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/271/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-271-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/271/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/271/20140901/de"
 
 (VUB)
 
-vom 9. April 2008 (Stand am 1. September 2014)
+vom 9. April 2008 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -109,17 +109,18 @@ Die Beglaubigungsstellen können für Personen und Unternehmungen, die nicht in 
 - a. die betreffende Ware in ihrem Zuständigkeitsgebiet hergestellt worden ist; und
 - b. die zuständige Beglaubigungsstelle einwilligt.
 
-<sup>4</sup> Die Eidgenössische Zollverwaltung (Zollverwaltung) kann weitere Ausnahmen zulassen.
+<sup>4</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^6-2] kann weitere Ausnahmen zulassen.
 
-[^6-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^6-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^6-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 7
 
 **Ursprungsauskünfte**
 
-<sup>1</sup> Die Zollverwaltung erteilt auf schriftliche Anfrage schriftliche Auskunft über den nichtpräferenziellen Ursprung von Waren; Artikel 20 Absätze 2–5 des Zollgesetzes vom 18. März 2005[^7-1] (ZG) ist anwendbar.
+<sup>1</sup> Das BAZG erteilt auf schriftliche Anfrage schriftliche Auskunft über den nichtpräferenziellen Ursprung von Waren; Artikel 20 Absätze 2–5 des Zollgesetzes vom 18. März 2005[^7-1] (ZG) ist anwendbar.
 
-<sup>2</sup> Sie erteilt die Auskunft spätestens 40 Tage nach Erhalt der für die Beantwortung der Anfrage notwendigen Unterlagen.[^7-2]
+<sup>2</sup> Es erteilt die Auskunft spätestens 40 Tage nach Erhalt der für die Beantwortung der Anfrage notwendigen Unterlagen.[^7-2]
 
 [^7-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^7-2]: Eingefügt durch Ziff. I 7 der V vom 6. Juni 2014 über die Ordnungsfristen im Zuständigkeitsbereich der Eidgenössischen Zollverwaltung, in Kraft seit 1. Sept. 2014 ([AS 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
@@ -132,7 +133,7 @@ Die Beglaubigungsstellen können für Personen und Unternehmungen, die nicht in 
 
 <sup>2</sup> Die Gebührentarife der Beglaubigungsstellen bedürfen der Genehmigung durch das WBF.
 
-<sup>3</sup> Die Zollverwaltung erhebt Gebühren nach der Verordnung vom 4. April 2007[^8-1] über die Gebühren der Zollverwaltung.
+<sup>3</sup> Das BAZG erhebt Gebühren nach der Verordnung vom 4. April 2007[^8-1] über die Gebühren des Bundesamts für Zoll und Grenzsicherheit.
 
 <sup>4</sup> Im Übrigen gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^8-2].
 
@@ -267,7 +268,7 @@ Im Inland ist der ausländische Ursprung von Waren nachzuweisen:
 
 <sup>1</sup> Gesuche um Ausstellung von Ursprungsbeglaubigungen sind der zuständigen Beglaubigungsstelle in Papierform oder elektronisch einzureichen.
 
-<sup>2</sup> Die Gesuchstellerin muss der Beglaubigungsstelle und gegebenenfalls der Zollverwaltung die erforderlichen Auskünfte erteilen, Einsicht in die Unterlagen und Zutritt zu den Betriebsräumen gewähren.
+<sup>2</sup> Die Gesuchstellerin muss der Beglaubigungsstelle und gegebenenfalls dem BAZG die erforderlichen Auskünfte erteilen, Einsicht in die Unterlagen und Zutritt zu den Betriebsräumen gewähren.
 
 <sup>3</sup>
 
@@ -282,7 +283,7 @@ Das WBF regelt:
 
 <sup>1</sup> Die Beglaubigungsstellen können mit Personen und Unternehmungen die Vereinfachung des Verfahrens für die Ausstellung von Ursprungsbeglaubigungen vereinbaren. Das WBF regelt die Einzelheiten.
 
-<sup>2</sup> Die Vereinbarungen über die Vereinfachung des Verfahrens bedürfen der Genehmigung durch die Zollverwaltung.
+<sup>2</sup> Die Vereinbarungen über die Vereinfachung des Verfahrens bedürfen der Genehmigung durch das BAZG.
 
 #### Art. 21
 
@@ -300,7 +301,7 @@ Das WBF regelt:
 
 <sup>1</sup> Die Beglaubigungsstelle prüft, ob die Angaben der Gesuchstellerin, die in der Ursprungsbeglaubigung bescheinigt werden, richtig sind.
 
-<sup>2</sup> Besteht begründeter Verdacht oder wird festgestellt, dass Vorschriften dieser Verordnung verletzt worden sind, so erstattet die Beglaubigungsstelle der Zollverwaltung Meldung und übergibt ihr die Beweismittel.
+<sup>2</sup> Besteht begründeter Verdacht oder wird festgestellt, dass Vorschriften dieser Verordnung verletzt worden sind, so erstattet die Beglaubigungsstelle dem BAZG Meldung und übergibt ihr die Beweismittel.
 
 <sup>3</sup> Die Organe, Angestellten und Beauftragten der Beglaubigungsstelle unterstehen dem Verantwortlichkeitsgesetz vom 14. März 1958[^22-1] und der Schweigepflicht nach Artikel 320 des Strafgesetzbuchs[^22-2].
 
@@ -309,11 +310,11 @@ Das WBF regelt:
 
 #### Art. 23
 
-**Nachprüfungen durch die Beglaubigungsstelle und die Zollverwaltung**
+**Nachprüfungen durch die Beglaubigungsstelle und das BAZG**
 
 <sup>1</sup> Die Beglaubigungsstelle kann die Angaben, die in einem Beglaubigungsgesuch oder einer Ursprungsbeglaubigung gemacht worden sind, jederzeit nachprüfen und Auskünfte über Standort und Versand der Waren sowie Muster verlangen.
 
-<sup>2</sup> Die Zollverwaltung kann jederzeit Nachprüfungen durch die Beglaubigungsstelle anordnen und selber solche vornehmen.
+<sup>2</sup> Das BAZG kann jederzeit Nachprüfungen durch die Beglaubigungsstelle anordnen und selber solche vornehmen.
 
 <sup>3</sup> Die Gesuchstellerin trägt die Kosten der Nachprüfungen.
 
@@ -349,9 +350,9 @@ Das WBF regelt:
 
 #### Art. 27
 
-**Zuständigkeit der Zollverwaltung**
+**Zuständigkeit des BAZG**
 
-Die Zollverwaltung übt die Aufsicht über die Beglaubigungsstellen aus.
+Das BAZG übt die Aufsicht über die Beglaubigungsstellen aus.
 
 #### Art. 28
 
@@ -359,15 +360,15 @@ Die Zollverwaltung übt die Aufsicht über die Beglaubigungsstellen aus.
 
 <sup>1</sup> Hat eine Beglaubigungsstelle eine Ursprungsbeglaubigung zu Unrecht ausgestellt, so ordnet sie deren Rückruf an.
 
-<sup>2</sup> Bleibt der Rückruf erfolglos oder befindet sich die zu Unrecht ausgestellte Ursprungsbeglaubigung nicht mehr im Inland, so verfügt die Zollverwaltung ihren Widerruf.
+<sup>2</sup> Bleibt der Rückruf erfolglos oder befindet sich die zu Unrecht ausgestellte Ursprungsbeglaubigung nicht mehr im Inland, so verfügt das BAZG ihren Widerruf.
 
-<sup>3</sup> Ist der Widerruf rechtskräftig, so kann die Zollverwaltung diesen auch der Warenempfängerin und den zuständigen Behörden des Empfängerlandes mitteilen.
+<sup>3</sup> Ist der Widerruf rechtskräftig, so kann das BAZG diesen auch der Warenempfängerin und den zuständigen Behörden des Empfängerlandes mitteilen.
 
 #### Art. 29
 
 **Verwaltungsmassnahmen bei Ursprungsdeklarationen**
 
-Unabhängig von einem Strafverfahren kann die Zollverwaltung Personen oder Unternehmungen, die Ursprungsdeklarationen rechtswidrig anbringen, durch Verfügung zeitweise oder dauernd untersagen, solche anzubringen.
+Unabhängig von einem Strafverfahren kann das BAZG Personen oder Unternehmungen, die Ursprungsdeklarationen rechtswidrig anbringen, durch Verfügung zeitweise oder dauernd untersagen, solche anzubringen.
 
 #### Art. 30
 
@@ -417,7 +418,7 @@ Die zuständigen Mitarbeiterinnen und Mitarbeiter der betreffenden Beglaubigungs
 
 <sup>2</sup> Die Beglaubigungsstellen geben der Sektion Ursprung und Textilien der Oberzolldirektion, der Abteilung Strafsachen der Oberzolldirektion sowie der Sektion Untersuchung der Zollkreisdirektionen Daten aus ihren Informationssystemen auf Anfrage bekannt.
 
-<sup>3</sup> Die Datenbekanntgabe an inländische und ausländische Behörden durch die Zollverwaltung richtet sich nach den Artikeln 112 und 113 ZG[^33-1].
+<sup>3</sup> Die Datenbekanntgabe an inländische und ausländische Behörden durch das BAZG richtet sich nach den Artikeln 112 und 113 ZG[^33-1].
 
 [^33-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
@@ -429,11 +430,11 @@ Die in den Informationssystemen der Beglaubigungsstellen enthaltenen Daten sind 
 
 #### Art. 35
 
-**Datenschutz bei der Zollverwaltung und Datenbekanntgabe an die Beglaubigungsstellen**
+**Datenschutz beim BAZG und Datenbekanntgabe an die Beglaubigungsstellen**
 
 <sup>1</sup> Für den Datenschutz gelten die Artikel 110–113 ZG[^35-1] sinngemäss.
 
-<sup>2</sup> Die Zollverwaltung kann zur Erfüllung ihrer Aufgaben Daten aus Informationssystemen der Beglaubigungsstellen bearbeiten. Sie kann diesen im Rahmen von Artikel 112 ZG Daten bekannt geben.
+<sup>2</sup> Das BAZG kann zur Erfüllung seiner Aufgaben Daten aus Informationssystemen der Beglaubigungsstellen bearbeiten. Es kann diesen im Rahmen von Artikel 112 ZG Daten bekannt geben.
 
 [^35-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
@@ -441,15 +442,15 @@ Die in den Informationssystemen der Beglaubigungsstellen enthaltenen Daten sind 
 
 **Internationale Amtshilfe**
 
-<sup>1</sup> Die Zollverwaltung kann ausländischen Behörden auf Ersuchen Amtshilfe leisten bei der Erfüllung ihrer Aufgaben im Bereich der Ursprungsbeglaubigung, namentlich bei der Sicherstellung der ordnungsgemässen Anwendung der Aussenwirtschafts- und der Zollgesetzgebung sowie bei der Verhütung, Aufdeckung und Verfolgung von Widerhandlungen, sofern ein völkerrechtlicher Vertrag dies vorsieht.
+<sup>1</sup> Das BAZG kann ausländischen Behörden auf Ersuchen Amtshilfe leisten bei der Erfüllung ihrer Aufgaben im Bereich der Ursprungsbeglaubigung, namentlich bei der Sicherstellung der ordnungsgemässen Anwendung der Aussenwirtschafts- und der Zollgesetzgebung sowie bei der Verhütung, Aufdeckung und Verfolgung von Widerhandlungen, sofern ein völkerrechtlicher Vertrag dies vorsieht.
 
-<sup>2</sup> Besteht kein völkerrechtlicher Vertrag, so kann die Zollverwaltung der betreffenden ausländischen Behörde auf deren Ersuchen die Echtheit und Wahrheit von inländischen Ursprungsbeglaubigungen bestätigen.
+<sup>2</sup> Besteht kein völkerrechtlicher Vertrag, so kann das BAZG der betreffenden ausländischen Behörde auf deren Ersuchen die Echtheit und Wahrheit von inländischen Ursprungsbeglaubigungen bestätigen.
 
-<sup>3</sup> Sie kann ausländische Behörden um Amtshilfe im Bereich der Ursprungsbeglaubigung ersuchen.
+<sup>3</sup> Es kann ausländische Behörden um Amtshilfe im Bereich der Ursprungsbeglaubigung ersuchen.
 
 <sup>4</sup> Artikel 115 Absätze 2–4 ZG[^36-1] gilt sinngemäss.
 
-<sup>5</sup> Die betroffene Beglaubigungsstelle kann von der Zollverwaltung für die Nachprüfung beigezogen werden. Sie übergibt ihr die Beweismittel.
+<sup>5</sup> Die betroffene Beglaubigungsstelle kann vom BAZG für die Nachprüfung beigezogen werden. Sie übergibt ihm die Beweismittel.
 
 [^36-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
@@ -457,7 +458,7 @@ Die in den Informationssystemen der Beglaubigungsstellen enthaltenen Daten sind 
 
 **Nachprüfung von Ursprungsdeklarationen**
 
-<sup>1</sup> Die Beglaubigungsstellen können Ursprungsdeklarationen, die von Personen oder Unternehmungen mit Wohnsitz oder Sitz in einem anderen Zuständigkeitsgebiet ausgestellt worden sind und als Vordokument für die Ausstellung eines Ursprungszeugnisses oder einer Ursprungsbescheinigung dienen, von der zuständigen Beglaubigungsstelle oder der Zollverwaltung nachprüfen lassen.
+<sup>1</sup> Die Beglaubigungsstellen können Ursprungsdeklarationen, die von Personen oder Unternehmungen mit Wohnsitz oder Sitz in einem anderen Zuständigkeitsgebiet ausgestellt worden sind und als Vordokument für die Ausstellung eines Ursprungszeugnisses oder einer Ursprungsbescheinigung dienen, von der zuständigen Beglaubigungsstelle oder dem BAZG nachprüfen lassen.
 
 <sup>2</sup> Artikel 115 Absätze 2–4 ZG[^37-1] gilt sinngemäss.
 
@@ -467,7 +468,7 @@ Die in den Informationssystemen der Beglaubigungsstellen enthaltenen Daten sind 
 
 #### Art. 38
 
-<sup>1</sup> Verfügungen im Geltungsbereich dieser Verordnung werden von der Zollverwaltung erlassen.
+<sup>1</sup> Verfügungen im Geltungsbereich dieser Verordnung werden vom BAZG erlassen.
 
 <sup>2</sup> Der Rechtsschutz richtet sich nach Artikel 116 ZG[^38-1].
 
@@ -567,9 +568,9 @@ Mit Busse bis 10 000 Franken wird bestraft, wer:
 
 <sup>1</sup> Widerhandlungen werden nach dieser Verordnung und nach dem Bundesgesetz vom 22. März 1974[^46-1] über das Verwaltungsstrafrecht verfolgt und beurteilt.
 
-<sup>2</sup> Verfolgende und urteilende Behörde ist die Zollverwaltung.
+<sup>2</sup> Verfolgende und urteilende Behörde ist das BAZG.
 
-<sup>3</sup> Sie kann für die Untersuchung die Beglaubigungsstellen beiziehen.
+<sup>3</sup> Es kann für die Untersuchung die Beglaubigungsstellen beiziehen.
 
 [^46-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
@@ -585,7 +586,7 @@ Die Verfolgungsverjährung richtet sich nach Artikel 7 Absatz 3 des Bundesgesetz
 
 **Vollzug**
 
-Die Zollverwaltung und die Beglaubigungsstellen sind mit dem Vollzug beauftragt.
+Das BAZG und die Beglaubigungsstellen sind mit dem Vollzug beauftragt.
 
 #### Art. 49
 

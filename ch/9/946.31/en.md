@@ -4,11 +4,11 @@ title: Ordinance of 9 April 2008 on the Certification of the Non-Preferential Or
 short: OCG
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/271"
 language: en
-version: 2014-09-01
+version: 2022-01-01
 adopted: 2008-04-09
 in_force: 2008-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/271/20140901/en/xml/fedlex-data-admin-ch-eli-cc-2008-271-20140901-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/271/20140901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/271/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2008-271-20220101-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/271/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OCG)
 
-of 9 April 2008 (Status as of 1 September 2014)
+of 9 April 2008 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
@@ -28,11 +28,11 @@ based on Articles 3 paragraph 2, 4 paragraph 1, 5 and 7 paragraph 5 of the Feder
 ordains:
 
 [^ingress-1]: [SR 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
-[^ingress-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Annex 1A.11
+[^ingress-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annex 1A.11
 [^ingress-3]: [SR 0.631.121.1](https://fedlex.data.admin.ch/eli/cc/43/30_30_30)
 [^ingress-4]: Wording according to the Protocol of Amendment of 26 June 1999 to the Convention; [SR 0.631.21](https://fedlex.data.admin.ch/eli/cc/2007/342)
 
-## Section 1: General Provisions
+## Section 1 General Provisions
 
 #### Art. 1
 
@@ -57,7 +57,7 @@ In this Ordinance:
 - g. *value of materials* means the customs value at the time of importation of the non-originating materials used, or, if this is not known and cannot be ascertained, the first ascertainable price paid for the materials the territory;
 - h. *chapters and headings under the Harmonised System* means the chapters and four-digit headings in the nomenclature used under the International Convention of 14 June 1983[^2-2] on the Harmonised Commodity Description and Coding System.
 
-[^2-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Annex 1A.9
+[^2-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annex 1A.9
 [^2-2]: [SR 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
 
 #### Art. 3
@@ -111,15 +111,16 @@ The certification offices may issue certifications of origin to individuals and 
 - a. the good concerned was produced in their respective geographical area of competence, and
 - b. the competent certification office consents to doing so.
 
-<sup>4</sup> The Federal Customs Administration (the Customs Administration) may allow further exceptions.
+<sup>4</sup> The Federal Office for Customs and Border Security (FOCBS)[^6-2] may allow further exceptions.
 
-[^6-1]: The name of this administrative unit was amended on 1 Jan. 2013 in application of the Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). This amendment has been made throughout the text.
+[^6-1]: The name of this administrative unit was amended on 1 Jan. 2013 in application of the Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). This amendment has been made throughout the text.
+[^6-2]: The name of this administrative unit was changed on 1 Jan. 2022 pursuant to Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
 
 #### Art. 7
 
 **Information on origin**
 
-<sup>1</sup> On written request, the Customs Administration shall provide written information on the non-preferential origin of goods; Article 20 paragraphs 2–5 of the Customs Act of 18 March 2005[^7-1] applies.
+<sup>1</sup> On written request, the FOCBS shall provide written information on the non-preferential origin of goods; Article 20 paragraphs 2–5 of the Customs Act of 18 March 2005 (Customs Act )[^7-1] applies.
 
 <sup>2</sup> It shall provide the information no later than 40 days after receiving the documents required to answer the request.[^7-2]
 
@@ -134,14 +135,14 @@ The certification offices may issue certifications of origin to individuals and 
 
 <sup>2</sup> The scale of charges adopted by the certification offices shall require approval by the EAER.
 
-<sup>3</sup> The Customs Administration shall levy charges under the Ordinance of 4 April 2007[^8-1] on Federal Customs Administration Charges.
+<sup>3</sup> The FOCBS shall levy charges under the Ordinance of 4 April 2007[^8-1] on FOCBS Charges.
 
 <sup>4</sup> In all other respects, the provisions contained in the General Fees Ordinance of 8 September 2004[^8-2] applies.
 
 [^8-1]: [SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
 [^8-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
-## Section 2: Origin Criteria
+## Section 2 Origin Criteria
 
 #### Art. 9
 
@@ -163,7 +164,7 @@ The following shall be considered to be wholly obtained or produced within the t
 - f. products of sea-fishing and other products taken from the sea and caught by Swiss vessels;
 - g. goods produced on board Swiss factory ships solely from the products referred to in subparagraph (f);
 - h. used articles collected there for the purpose of recovering raw materials;
-- i. waste and scrap resulting from manufacturing operations conducted there ;
+- i. waste and scrap resulting from manufacturing operations conducted there;
 - j. produced exclusively from the products specified products produced there exclusively from products referred to in subparagraphs (a) to (i).
 
 #### Art. 11
@@ -174,7 +175,7 @@ The following shall be considered to be wholly obtained or produced within the t
 
 A product shall be considered to be sufficiently worked or processed if:
 
-- a. the value of all materials of foreign origin used in its production does not exceed 50% of its ex-works price;
+- a. the value of all materials of foreign origin used in its production does not exceed 50 % of its ex-works price;
 - b. on account of working or processing, it has to be classified under a heading in the Harmonised System different from the one applicable to the products of foreign origin used in its production; or
 - c. possible specific origin-conferring processing or working has been undertaken in accordance with paragraph 2.
 
@@ -236,9 +237,11 @@ The following products used in production may not be taken into account when det
 
 **Outward processing**
 
-A domestic product that is temporarily exported for working, processing or repair shall retain its Swiss origin if the value added abroad does not exceed 50% of the ex-works price of the product for which originating status is claimed.
+A domestic product that is temporarily exported for working, processing or repair shall retain its Swiss origin if the value added abroad does not exceed 50 % of the ex-works price of the product for which originating status is claimed.
 
-**Art. 17** Foreign origin
+#### Art. 17
+
+**Foreign origin**
 
 <sup>1</sup> In order to certify the foreign origin of goods, the certification office must be presented with a certification of origin (basic or replacement certificate) that has been issued by a competent authority of the country of origin or transit.
 
@@ -249,7 +252,7 @@ Proof of the foreign origin of goods shall be established within the territory:
 - a. by means of the basic or replacement certificate made out to the domestic supplier; or
 - b. by means of an internal certificate.
 
-## Section 3: Issue of Certifications of Origin and Addition of Declarations of Origin
+## Section 3 Issue of Certifications of Origin and Addition of Declarations of Origin
 
 #### Art. 18
 
@@ -265,9 +268,9 @@ Proof of the foreign origin of goods shall be established within the territory:
 
 **Submission of applications**
 
-<sup>1</sup> Applications for the issue of certifications of origin shall be submitted to the competent certification office in paper form or electronically .
+<sup>1</sup> Applications for the issue of certifications of origin shall be submitted to the competent certification office in paper form or electronically.
 
-<sup>2</sup> The applicant shall provide the certification office and, where appropriate, the Customs Administration with the information necessary to allow them to review all the documentation and shall grant them access to the business premises.
+<sup>2</sup> The applicant shall provide the certification office and, where appropriate, the FOCBS with the information necessary to allow them to review all the documentation and shall grant them access to the business premises.
 
 <sup>3</sup>
 
@@ -282,7 +285,7 @@ The EAER shall regulate:
 
 <sup>1</sup> The certification offices may agree with individuals and businesses on simplified procedures for the issue of certifications of origin. The EAER shall regulate the details.
 
-<sup>2</sup> Agreements on simplified procedures shall require approval by the Customs Administration.
+<sup>2</sup> Agreements on simplified procedures shall require approval by the FOCBS.
 
 #### Art. 21
 
@@ -300,7 +303,7 @@ The EAER shall regulate:
 
 <sup>1</sup> The certification office shall examine whether the applicant’s data as set forth in the certificate of origin is correct.
 
-<sup>2</sup> If there is reason to suspect or if it is determined that provisions of this Ordinance have been infringed, the certification office shall notify the Customs Administration, providing it with evidence of this.
+<sup>2</sup> If there is reason to suspect or if it is determined that provisions of this Ordinance have been infringed, the certification office shall notify the FOCBS, providing it with evidence of this.
 
 <sup>3</sup> The agencies, employees and representatives of the certification office shall be subject to the Government Liability Act of 14 March 1958[^22-1] and the duty of confidentiality under Article 320 of the Swiss Criminal Code[^22-2].
 
@@ -309,11 +312,11 @@ The EAER shall regulate:
 
 #### Art. 23
 
-**Verification by the certification office and the Customs Administration**
+**Verification by the certification office and the FOCBS**
 
 <sup>1</sup> The certification office may at any time verify the information contained in a certification application or certification of origin and request information on the location and dispatch of goods, as well as samples.
 
-<sup>2</sup> The Customs Administration may at any time order a verification by the certification office or undertake this itself.
+<sup>2</sup> The FOCBS may at any time order a verification by the certification office or undertake this itself.
 
 <sup>3</sup> The applicant shall bear the cost of the verification.
 
@@ -345,13 +348,13 @@ The EAER shall regulate:
 
 [^26-1]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
 
-## Section 4: Supervision and Controls
+## Section 4 Supervision and Controls
 
 #### Art. 27
 
-**Competence of the Customs Administration**
+**Competence of the FOCBS**
 
-The Customs Administration supervises the certification offices.
+The FOCBS supervises the certification offices.
 
 #### Art. 28
 
@@ -359,21 +362,23 @@ The Customs Administration supervises the certification offices.
 
 <sup>1</sup> If a certification office has wrongly issued a certification of origin, it shall order it to be recalled.
 
-<sup>2</sup> If the recall is unsuccessful or the wrongly issued certification of origin is no longer in the territory, the Customs Administration shall order its revocation.
+<sup>2</sup> If the recall is unsuccessful or the wrongly issued certification of origin is no longer in the territory, the FOCBS shall order its revocation.
 
-<sup>3</sup> If the revocation is legally valid, the Customs Administration may also communicate this to the consignee of the goods and the competent offices in the consignee's territory.
+<sup>3</sup> If the revocation is legally valid, the FOCBS may also communicate this to the consignee of the goods and the competent offices in the consignee’s territory.
 
 #### Art. 29
 
 **Administrative measures in relation to declarations of origin**
 
-Aside from having recourse to criminal proceedings, the Customs Administration may by decree temporarily or permanently prohibit individuals or businesses that unlawfully issued declarations of origin from doing so.
+Aside from having recourse to criminal proceedings, the FOCBS may by decree temporarily or permanently prohibit individuals or businesses that unlawfully issued declarations of origin from doing so.
 
 #### Art. 30
 
 **Supervisory measures in relation to certification offices**
 
-<sup>1</sup> The certification office shall remove an individual from his appointed position if he
+<sup>1</sup>
+
+The certification office shall remove an individual from his appointed position if he:
 
 - a. continues to act in violation of his duties despite having been warned;
 - b. has been convicted of a wilful violation of this Ordinance.
@@ -382,7 +387,7 @@ Aside from having recourse to criminal proceedings, the Customs Administration m
 
 <sup>3</sup> If a certification office has repeatedly issued improper certifications of origin or has violated this Ordinance in any other way, the EAER is authorised to remove its powers of certification.
 
-## Section 5: Data Protection and Administrative Assistance
+## Section 5 Data Protection and Administrative Assistance
 
 #### Art. 31
 
@@ -415,7 +420,7 @@ Authorised staff within each certification office shall have access to the data 
 
 <sup>2</sup> The certification offices shall, on request, release data from their information systems to the Origin and Textiles Section of the General Directorate for Customs and the Criminal Matters Division of the General Directorate for Customs, as well as to the Investigation Section of the Regional Directorates for Customs.
 
-<sup>3</sup> The release of data to domestic and foreign authorities by the Customs Administration shall be governed by Articles 112 and 113 of the Customs Act[^33-1].
+<sup>3</sup> The release of data to domestic and foreign authorities by the FOCBS shall be governed by Articles 112 and 113 of the Customs Act[^33-1].
 
 [^33-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
@@ -427,11 +432,11 @@ Data held in information systems maintained by the certification offices shall b
 
 #### Art. 35
 
-**Data protection by the Customs Administration and release of data to the certification offices**
+**Data protection by the FOCBS and release of data to the certification offices**
 
 <sup>1</sup> Articles 110–113 of the Customs Act[^35-1] dealing with data protection apply *mutatis mutandis*.
 
-<sup>2</sup> In order to perform its duties, the Customs Administration may process data from information systems maintained by the certification offices. It may release data to these in accordance with the provisions of Article 112 of the Customs Act.
+<sup>2</sup> In order to perform its duties, the FOCBS may process data from information systems maintained by the certification offices. It may release data to these in accordance with the provisions of Article 112 of the Customs Act.
 
 [^35-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
@@ -439,15 +444,15 @@ Data held in information systems maintained by the certification offices shall b
 
 **International administrative assistance**
 
-<sup>1</sup> The Customs Administration may provide foreign authorities on request with administrative assistance in performing their duties with respect to certification of origin, particularly in guaranteeing the proper application of international trade and customs legislation, as well as in preventing, detecting and prosecuting violations, insofar as this is provided for by international treaty.
+<sup>1</sup> The FOCBS may provide foreign authorities on request with administrative assistance in performing their duties with respect to certification of origin, particularly in guaranteeing the proper application of international trade and customs legislation, as well as in preventing, detecting and prosecuting violations, insofar as this is provided for by international treaty.
 
-<sup>2</sup> In the absence of an international treaty, the Customs Administration may provide the relevant foreign authority on request with confirmation whether domestic certifications of origin are true and genuine.
+<sup>2</sup> In the absence of an international treaty, the FOCBS may provide the relevant foreign authority on request with confirmation whether domestic certifications of origin are true and genuine.
 
 <sup>3</sup> It may seek administrative assistance from foreign authorities in relation to certification of origin.
 
-<sup>4</sup> Article 115 paragraphs 2-4 of the Customs Act[^36-1] apply *mutatis muta**n**dis*.
+<sup>4</sup> Article 115 paragraphs 2–4 of the Customs Act[^36-1] apply *mutatis mutandis*.
 
-<sup>5</sup> The certification office concerned may be called upon by the Customs Administration for the purposes of verification. It shall provide it with proof.
+<sup>5</sup> The certification office concerned may be called upon by the FOCBS for the purposes of verification. It shall provide it with proof.
 
 [^36-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
@@ -455,23 +460,23 @@ Data held in information systems maintained by the certification offices shall b
 
 **Verification of declarations of origin**
 
-<sup>1</sup> The certification offices may arrange for declarations of origin that have been issued by individuals or businesses with a place of residence or registered office outside their geographical area of competence and that are being used as a preliminary document for the issue of a certificate of origin or an attestation of origin to be verified by the competent certification office or the Customs Administration.
+<sup>1</sup> The certification offices may arrange for declarations of origin that have been issued by individuals or businesses with a place of residence or registered office outside their geographical area of competence and that are being used as a preliminary document for the issue of a certificate of origin or an attestation of origin to be verified by the competent certification office or the FOCBS.
 
-<sup>2</sup> Article 115 paragraphs 2–4 of the Customs Act[^37-1] apply *mutatis muta**n**dis*.
+<sup>2</sup> Article 115 paragraphs 2–4 of the Customs Act[^37-1] apply *mutatis mutandis*.
 
 [^37-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
-## Section 6: Rights of Appeal
+## Section 6 Rights of Appeal
 
 #### Art. 38
 
-<sup>1</sup> Orders falling within the scope of application of this Ordinance shall be issued by the Customs Administration.
+<sup>1</sup> Orders falling within the scope of application of this Ordinance shall be issued by the FOCBS.
 
 <sup>2</sup> Rights of appeal are governed by Article 116 of the Customs Act[^38-1].
 
 [^38-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
-## Section 7: Criminal Provisions
+## Section 7 Criminal Provisions
 
 #### Art. 39
 
@@ -567,7 +572,7 @@ Any person who:
 
 <sup>1</sup> Offences shall be prosecuted and judged in accordance with this Ordinance and with the Federal Act of 22 March 1974[^46-1] on Administrative Criminal Law.
 
-<sup>2</sup> The prosecuting and judging authority shall be the Customs Administration.
+<sup>2</sup> The prosecuting and judging authority shall be the FOCBS.
 
 <sup>3</sup> It may call on the certification offices for assistance with the investigation.
 
@@ -579,21 +584,21 @@ Any person who:
 
 The time limits for prosecution shall be governed by Article 7 paragraph 3 of the Federal Act of 25 June 1982 on International Trade Measures.
 
-### Section 8: Final Provisions
+## Section 8 Final Provisions
 
 #### Art. 48
 
 **Implementation**
 
-The Customs Administration and the certification offices shall be responsible for implementation.
+The FOCBS and the certification offices shall be responsible for implementation.
 
 #### Art. 49
 
 **Repeal of current legislation**
 
-The Ordinance of 4 July 1984[^49-1] on the Certification of Origin is repealed
+The Ordinance of 4 July 1984[^49-1] on the Certification of Origin is repealed.
 
-[^49-1]: [[AS 1984 913](https://fedlex.data.admin.ch/eli/oc/1984/913_913_913), [1987 2675](https://fedlex.data.admin.ch/eli/oc/1987/2675_2675_2675), [1993 2429](https://fedlex.data.admin.ch/eli/oc/1993/2429_2429_2429), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 No. 20, **2006** 2995 Annex 4 No. II 16 4705 No. II 110]
+[^49-1]: [[AS 1984 913](https://fedlex.data.admin.ch/eli/oc/1984/913_913_913); [1987 2675](https://fedlex.data.admin.ch/eli/oc/1987/2675_2675_2675); [1993 2429](https://fedlex.data.admin.ch/eli/oc/1993/2429_2429_2429); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 No 20; [2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)Annex 4 No II 16, [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)No II 110]
 
 #### Art. 50
 
@@ -607,7 +612,7 @@ The amendment of current legislation is set out in the Annex.
 
 Agreements falling under Article 20 that have been concluded on the basis of Article 12*a* of the Ordinance of 4 July 1984[^51-1] on the Certification of Origin shall remain valid.
 
-[^51-1]: [[AS 1984 913](https://fedlex.data.admin.ch/eli/oc/1984/913_913_913), [1987 2675](https://fedlex.data.admin.ch/eli/oc/1987/2675_2675_2675), [1993 2429](https://fedlex.data.admin.ch/eli/oc/1993/2429_2429_2429), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 No. 20, **2006** 2995 Annex 4 No. II 16 4705 No. II 110]
+[^51-1]: [[AS 1984 913](https://fedlex.data.admin.ch/eli/oc/1984/913_913_913); [1987 2675](https://fedlex.data.admin.ch/eli/oc/1987/2675_2675_2675); [1993 2429](https://fedlex.data.admin.ch/eli/oc/1993/2429_2429_2429); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 No 20; [2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)Annex 4 No II 16, [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)No II 110]
 
 #### Art. 52
 

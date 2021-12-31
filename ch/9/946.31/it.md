@@ -4,11 +4,11 @@ title: "Ordinanza del 9 aprile 2008 sull'attestazione dell'origine non preferenz
 short: OAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/271"
 language: it
-version: 2014-09-01
+version: 2022-01-01
 adopted: 2008-04-09
 in_force: 2008-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/271/20140901/it/xml/fedlex-data-admin-ch-eli-cc-2008-271-20140901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/271/20140901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/271/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-271-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/271/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/271/20140901/it"
 
 (OAO)
 
-del 9 aprile 2008 (Stato 1° settembre 2014) (Stato 1° settembre 2014)
+del 9 aprile 2008 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -28,7 +28,7 @@ ordina:
 [^ingress-1]: [RS 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
 [^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.11
 [^ingress-3]: [RS 0.631.121.1](https://fedlex.data.admin.ch/eli/cc/43/30_30_30)
-[^ingress-4]: Versione del Prot. del 26 giu. 1999 di emendamento della Conv.; [RS 0.631.21](https://fedlex.data.admin.ch/eli/cc/2007/342)
+[^ingress-4]: Versione del Prot. del 26 giu. 1999 di emendamento della Conv. ([RS 0.631.21](https://fedlex.data.admin.ch/eli/cc/2007/342)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -109,17 +109,18 @@ Gli uffici emittenti possono rilasciare prove documentali a persone e imprese ch
 - a. la merce in questione è stata fabbricata nella loro giurisdizione; e
 - b. l’ufficio competente è d’accordo.
 
-<sup>4</sup> L’Amministrazione federale delle dogane (Amministrazione delle dogane) può autorizzare altre eccezioni.
+<sup>4</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^6-2] può autorizzare altre eccezioni.
 
-[^6-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
+[^6-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
+[^6-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 7
 
 **Informazioni sull’origine**
 
-<sup>1</sup> Su richiesta scritta, l’Amministrazione delle dogane rilascia informazioni per iscritto sull’origine non preferenziale delle merci; è applicabile l’articolo 20 capoversi 2–5 della legge del 18 marzo 2005[^7-1] sulle dogane (LD).
+<sup>1</sup> Su richiesta scritta, l’UDSC rilascia informazioni per iscritto sull’origine non preferenziale delle merci; è applicabile l’articolo 20 capoversi 2–5 della legge del 18 marzo 2005[^7-1] sulle dogane (LD).
 
-<sup>2</sup> L’Amministrazione delle dogane rilascia le informazioni al più tardi entro 40 giorni dalla ricezione della documentazione necessaria per rispondere alla richiesta.[^7-2]
+<sup>2</sup> L’UDSC rilascia le informazioni al più tardi entro 40 giorni dalla ricezione della documentazione necessaria per rispondere alla richiesta.[^7-2]
 
 [^7-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^7-2]: Introdotto dal n. I 7 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
@@ -132,7 +133,7 @@ Gli uffici emittenti possono rilasciare prove documentali a persone e imprese ch
 
 <sup>2</sup> L’importo degli emolumenti degli uffici emittenti è soggetto all’approvazione del DEFR.
 
-<sup>3</sup> L’Amministrazione delle dogane percepisce emolumenti secondo l’ordinanza del 4 aprile 2007[^8-1] sugli emolumenti dell’Amministrazione federale delle dogane.
+<sup>3</sup> L’UDSC percepisce emolumenti secondo l’ordinanza del 4 aprile 2007[^8-1] sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini.
 
 <sup>4</sup> Per il resto sono applicabili le disposizioni dell’ordinanza generale dell’8 settembre 2004[^8-2] sugli emolumenti.
 
@@ -267,7 +268,7 @@ Sul territorio interno l’origine estera della merce è da dimostrare:
 
 <sup>1</sup> La richiesta per il rilascio di una prova documentale è da inoltrare in forma cartacea o elettronica all’ufficio emittente competente.
 
-<sup>2</sup> Il richiedente deve fornire all’ufficio emittente e, eventualmente, all’Amministrazione delle dogane le informazioni necessarie, la possibilità di consultare i documenti e il libero accesso ai locali aziendali.
+<sup>2</sup> Il richiedente deve fornire all’ufficio emittente e, eventualmente, all’UDSC le informazioni necessarie, la possibilità di consultare i documenti e il libero accesso ai locali aziendali.
 
 <sup>3</sup>
 
@@ -282,7 +283,7 @@ Il DEFR stabilisce:
 
 <sup>1</sup> Gli uffici emittenti possono concludere, con persone e imprese, accordi sulla semplificazione della procedura per il rilascio di prove documentali. Il DEFR disciplina i dettagli.
 
-<sup>2</sup> Gli accordi sulla semplificazione della procedura devono essere approvati dall’Amministrazione delle dogane.
+<sup>2</sup> Gli accordi sulla semplificazione della procedura devono essere approvati dall’UDSC.
 
 #### Art. 21
 
@@ -300,7 +301,7 @@ Il DEFR stabilisce:
 
 <sup>1</sup> L’ufficio emittente verifica l’esattezza dei dati del richiedente che saranno attestati nella prova documentale.
 
-<sup>2</sup> In caso di sospetto fondato o se si accerta una violazione delle prescrizioni della presente ordinanza, l’ufficio emittente ne dà comunicazione all’Amministrazione delle dogane consegnandole i mezzi di prova.
+<sup>2</sup> In caso di sospetto fondato o se si accerta una violazione delle prescrizioni della presente ordinanza, l’ufficio emittente ne dà comunicazione all’UDSC consegnandole i mezzi di prova.
 
 <sup>3</sup> Gli organi, gli impiegati e gli incaricati dell’ufficio emittente sottostanno alle disposizioni della legge del 14 marzo 1958[^22-1] sulla responsabilità e sono tenuti a tutelare il segreto d’ufficio secondo l’articolo 320 del Codice penale[^22-2].
 
@@ -309,11 +310,11 @@ Il DEFR stabilisce:
 
 #### Art. 23
 
-**Controlli a posteriori dell’ufficio emittente e dell’Amministrazione delle dogane**
+**Controlli a posteriori dell’ufficio emittente e dell’UDSC**
 
 <sup>1</sup> L’ufficio emittente può, in ogni tempo, controllare a posteriori i dati riportati nella domanda di attestazione o nella prova documentale e richiedere informazioni in merito all’ubicazione e alla spedizione delle merci, nonché esigere campioni.
 
-<sup>2</sup> L’Amministrazione delle dogane può, in ogni tempo, disporre controlli a posteriori da parte dell’ufficio emittente o procedere lei stessa a tali controlli.
+<sup>2</sup> L’UDSC può, in ogni tempo, disporre controlli a posteriori da parte dell’ufficio emittente o procedere lui stesso a tali controlli.
 
 <sup>3</sup> I costi dei controlli a posteriori sono a carico del richiedente.
 
@@ -349,9 +350,9 @@ Il DEFR stabilisce:
 
 #### Art. 27
 
-**Competenza dell’Amministrazione delle dogane**
+**Competenza dell’UDSC**
 
-L’Amministrazione delle dogane esercita la sorveglianza sugli uffici emittenti.
+L’UDSC esercita la sorveglianza sugli uffici emittenti.
 
 #### Art. 28
 
@@ -359,15 +360,15 @@ L’Amministrazione delle dogane esercita la sorveglianza sugli uffici emittenti
 
 <sup>1</sup> In caso di prove documentali rilasciate a torto, l’ufficio emittente ne ordina il richiamo.
 
-<sup>2</sup> Se il richiamo resta senza esito o se la prova documentale rilasciata indebitamente non si trova più sul territorio interno, essa è revocata per decisione dell’Amministrazione delle dogane.
+<sup>2</sup> Se il richiamo resta senza esito o se la prova documentale rilasciata indebitamente non si trova più sul territorio interno, essa è revocata per decisione dell’UDSC.
 
-<sup>3</sup> Se la revoca è passata in giudicato, l’Amministrazione delle dogane può notificarla anche al destinatario della merce e alle autorità competenti del Paese destinatario.
+<sup>3</sup> Se la revoca è passata in giudicato, l’UDSC può notificarla anche al destinatario della merce e alle autorità competenti del Paese destinatario.
 
 #### Art. 29
 
 **Provvedimenti amministrativi concernenti le dichiarazioni d’origine**
 
-Indipendentemente dall’avvio di un procedimento penale, l’Amministrazione delle dogane può vietare in modo temporaneo o permanente, mediante decisione, l’istituzione di dichiarazioni d’origine a persone e imprese che hanno istituito dichiarazioni d’origine illecite.
+Indipendentemente dall’avvio di un procedimento penale, l’UDSC può vietare in modo temporaneo o permanente, mediante decisione, l’istituzione di dichiarazioni d’origine a persone e imprese che hanno istituito dichiarazioni d’origine illecite.
 
 #### Art. 30
 
@@ -417,7 +418,7 @@ I collaboratori dell’ufficio emittente competente hanno accesso ai dati del si
 
 <sup>2</sup> Su richiesta, gli uffici emittenti comunicano dati tratti dal proprio sistema d’informazione alla sezione Origine e tessili, alla divisione Cause penali della direzione generale delle dogane nonché alla sezione Servizio inquirente di un circondario doganale.
 
-<sup>3</sup> La comunicazione di dati ad autorità nazionali o estere da parte dell’Amministrazione delle dogane è disciplinata dagli articoli 112 e 113 LD[^33-1].
+<sup>3</sup> La comunicazione di dati ad autorità nazionali o estere da parte dell’UDSC è disciplinata dagli articoli 112 e 113 LD[^33-1].
 
 [^33-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
@@ -429,11 +430,11 @@ I dati contenuti nei sistemi d’informazione degli uffici emittenti devono esse
 
 #### Art. 35
 
-**Protezione dei dati presso l’Amministrazione delle dogane e comunicazione di dati agli uffici emittenti**
+**Protezione dei dati presso l’UDSC e comunicazione di dati agli uffici emittenti**
 
 <sup>1</sup> Per la protezione dei dati si applicano per analogia gli articoli 110–113 LD[^35-1].
 
-<sup>2</sup> Per l’adempimento dei propri compiti l’Amministrazione delle dogane può elaborare dati del sistema d’informazione degli uffici emittenti. Essa può comunicare i dati conformemente all’articolo 112 LD.
+<sup>2</sup> Per l’adempimento dei propri compiti l’UDSC può elaborare dati del sistema d’informazione degli uffici emittenti. Esso può comunicare i dati conformemente all’articolo 112 LD.
 
 [^35-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
@@ -441,15 +442,15 @@ I dati contenuti nei sistemi d’informazione degli uffici emittenti devono esse
 
 **Assistenza amministrativa internazionale**
 
-<sup>1</sup> Su richiesta, l’Amministrazione delle dogane può fornire assistenza amministrativa alle autorità estere nell’adempimento dei compiti concernenti le prove documentali, in particolare per la garanzia della regolare applicazione della legislazione in materia di economia esterna e in materia doganale nonché per la prevenzione, la scoperta e il perseguimento di infrazioni, sempre che questo sia previsto da un trattato internazionale.
+<sup>1</sup> Su richiesta, l’UDSC può fornire assistenza amministrativa alle autorità estere nell’adempimento dei compiti concernenti le prove documentali, in particolare per la garanzia della regolare applicazione della legislazione in materia di economia esterna e in materia doganale nonché per la prevenzione, la scoperta e il perseguimento di infrazioni, sempre che questo sia previsto da un trattato internazionale.
 
-<sup>2</sup> In mancanza di un trattato internazionale l’Amministrazione federale può, su richiesta, confermare alle autorità estere l’autenticità e la veridicità delle prove documentali rilasciate sul territorio interno.
+<sup>2</sup> In mancanza di un trattato internazionale l’UDSC può, su richiesta, confermare alle autorità estere l’autenticità e la veridicità delle prove documentali rilasciate sul territorio interno.
 
-<sup>3</sup> L’Amministrazione delle dogane può richiedere assistenza amministrativa alle autorità estere nell’ambito delle prove documentali.
+<sup>3</sup> L’UDSC può richiedere assistenza amministrativa alle autorità estere nell’ambito delle prove documentali.
 
 <sup>4</sup> L’articolo 115 capoversi 2–4 LD[^36-1] è applicabile per analogia.
 
-<sup>5</sup> L’ufficio emittente interessato può far capo all’Amministrazione delle dogane per un controllo a posteriori. Esso consegna all’Amministrazione delle dogane i mezzi di prova.
+<sup>5</sup> L’ufficio emittente interessato può far capo all’UDSC per un controllo a posteriori. Esso consegna all’UDSC i mezzi di prova.
 
 [^36-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
@@ -457,7 +458,7 @@ I dati contenuti nei sistemi d’informazione degli uffici emittenti devono esse
 
 **Controllo a posteriori relativo alle dichiarazioni d’origine**
 
-<sup>1</sup> Gli uffici emittenti possono far controllare a posteriori dall’ufficio emittente competente o dall’Amministrazione delle dogane le dichiarazioni d’origine istituite da persone o imprese con domicilio o sede al di fuori della loro giurisdizione, e che servono da documenti di riferimento per il rilascio di un certificato d’origine o di un’attestazione d’origine.
+<sup>1</sup> Gli uffici emittenti possono far controllare a posteriori dall’ufficio emittente competente o dall’UDSC le dichiarazioni d’origine istituite da persone o imprese con domicilio o sede al di fuori della loro giurisdizione, e che servono da documenti di riferimento per il rilascio di un certificato d’origine o di un’attestazione d’origine.
 
 <sup>2</sup> L’articolo 115 capoversi 2–4 LD[^37-1] è applicabile per analogia.
 
@@ -467,7 +468,7 @@ I dati contenuti nei sistemi d’informazione degli uffici emittenti devono esse
 
 #### Art. 38
 
-<sup>1</sup> Le decisioni nel campo d’applicazione della presente ordinanza sono emanate dall’Amministrazione delle dogane.
+<sup>1</sup> Le decisioni nel campo d’applicazione della presente ordinanza sono emanate dall’UDSC.
 
 <sup>2</sup> La protezione giuridica è disciplinata dall’articolo 116 LD[^38-1].
 
@@ -567,9 +568,9 @@ I dati contenuti nei sistemi d’informazione degli uffici emittenti devono esse
 
 <sup>1</sup> Le infrazioni sono perseguite e giudicate conformemente alla presente ordinanza e alla legge federale del 22 marzo 1974[^46-1] sul diritto penale amministrativo.
 
-<sup>2</sup> L’Amministrazione delle dogane è l’autorità competente per il perseguimento e il giudizio.
+<sup>2</sup> L’UDSC è l’autorità competente per il perseguimento e il giudizio.
 
-<sup>3</sup> Per l’inchiesta, l’Amministrazione delle dogane può far capo agli uffici emittenti.
+<sup>3</sup> Per l’inchiesta, l’UDSC può far capo agli uffici emittenti.
 
 [^46-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
@@ -585,7 +586,7 @@ La prescrizione del perseguimento è disciplinata dall’articolo 7 capoverso 3 
 
 **Esecuzione**
 
-L’Amministrazione delle dogane e gli uffici emittenti sono incaricati dell’esecuzione.
+L’UDSC e gli uffici emittenti sono incaricati dell’esecuzione.
 
 #### Art. 49
 
@@ -593,7 +594,7 @@ L’Amministrazione delle dogane e gli uffici emittenti sono incaricati dell’e
 
 L’ordinanza del 4 luglio 1984[^49-1] sull’attestazione dell’origine è abrogata.
 
-[^49-1]: [[RU 1984 913](https://fedlex.data.admin.ch/eli/oc/1984/913_913_913), [1987 2675](https://fedlex.data.admin.ch/eli/oc/1987/2675_2675_2675), [1993 2429](https://fedlex.data.admin.ch/eli/oc/1993/2429_2429_2429), [1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)art. 2 lett. s, [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 n. 20, [2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)all. 4 II n. 16 [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)II n. 110]
+[^49-1]: [[RU 1984 913](https://fedlex.data.admin.ch/eli/oc/1984/913_913_913); [1987 2675](https://fedlex.data.admin.ch/eli/oc/1987/2675_2675_2675); [1993 2429](https://fedlex.data.admin.ch/eli/oc/1993/2429_2429_2429); [1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)art. 2 lett. s; [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 n. 20; [2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)all. 4 II n. 16, [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)II n. 110]
 
 #### Art. 50
 
@@ -607,7 +608,7 @@ La modifica del diritto vigente è disciplinata nell’allegato.
 
 Gli accordi secondo l’articolo 20, conclusi sulla base dell’articolo 12*a* dell’ordinanza del 4 luglio 1984[^51-1] sull’attestazione dell’origine, rimangono validi.
 
-[^51-1]: [[RU 1984 913](https://fedlex.data.admin.ch/eli/oc/1984/913_913_913), [1987 2675](https://fedlex.data.admin.ch/eli/oc/1987/2675_2675_2675), [1993 2429](https://fedlex.data.admin.ch/eli/oc/1993/2429_2429_2429), [1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)art. 2 lett. s, [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 n. 20, [2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)all. 4 II n. 16 [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)II n. 110]
+[^51-1]: [[RU 1984 913](https://fedlex.data.admin.ch/eli/oc/1984/913_913_913); [1987 2675](https://fedlex.data.admin.ch/eli/oc/1987/2675_2675_2675); [1993 2429](https://fedlex.data.admin.ch/eli/oc/1993/2429_2429_2429); [1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)art. 2 lett. s; [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 n. 20; [2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)all. 4 II n. 16, [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)II n. 110]
 
 #### Art. 52
 

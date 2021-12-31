@@ -4,11 +4,11 @@ title: "Ordonnance du 9 avril 2008 sur l'attestation de l'origine non préféren
 short: OOr
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/271"
 language: fr
-version: 2014-09-01
+version: 2022-01-01
 adopted: 2008-04-09
 in_force: 2008-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/271/20140901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-271-20140901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/271/20140901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/271/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-271-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/271/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/271/20140901/fr"
 
 (OOr)
 
-du 9 avril 2008 (Etat le 1<sup>er</sup> septembre 2014)
+du 9 avril 2008 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -99,40 +99,41 @@ Les bureaux de l’origine peuvent attester des faits dûment prouvés en matiè
 
 Les bureaux de l’origine délivrent des preuves documentaires aux personnes et aux entreprises:
 
-- a. qui produisent des marchandises ou en font le commerce; et
+- a. qui produisent des marchandises ou en font le commerce, et
 - b. dont le domicile ou le siège se situe dans leur zone de compétence.
 
 <sup>3</sup>
 
 Les bureaux de l’origine peuvent délivrer des preuves documentaires aux personnes et aux entreprises dont le domicile ou le siège se situe hors de leur zone de compétence:
 
-- a. lorsque la marchandise concernée a été produite dans leur zone de compétence; et
+- a. lorsque la marchandise concernée a été produite dans leur zone de compétence, et
 - b. que le bureau de l’origine compétent a donné son aval.
 
-<sup>4</sup> L’Administration fédérale des douanes (administration des douanes) peut autoriser d’autres dérogations.
+<sup>4</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^6-2] peut autoriser d’autres dérogations.
 
-[^6-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette mod. dans tout le texte.
+[^6-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^6-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 7
 
 **Renseignements en matière d’origine**
 
-<sup>1</sup> Sur demande écrite, l’administration des douanes fournit par écrit des renseignements sur l’origine non préférentielle de marchandises; l’art. 20, al. 2 à 5, de la loi du 18 mars 2005 sur les douanes (LD)[^7-1] est applicable.
+<sup>1</sup> Sur demande écrite, l’OFDF fournit par écrit des renseignements sur l’origine non préférentielle de marchandises; l’art. 20, al. 2 à 5, de la loi du 18 mars 2005 sur les douanes (LD)[^7-1] est applicable.
 
-<sup>2</sup> Elle fournit les renseignements au plus tard 40 jours après réception de l’intégralité des pièces justificatives nécessaires pour répondre à la demande.[^7-2]
+<sup>2</sup> Il fournit les renseignements au plus tard 40 jours après réception de l’intégralité des pièces justificatives nécessaires pour répondre à la demande.[^7-2]
 
 [^7-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^7-2]: Introduit par le ch. I 7 de l’O du 6 juin 2014 sur la fixation de délais d’ordre dans le domaine de l’Administration fédérale des douanes, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
 
 #### Art. 8
 
-**Emoluments**
+**Émoluments**
 
 <sup>1</sup> Les bureaux de l’origine perçoivent des émoluments pour la délivrance de preuves documentaires et pour d’autres prestations fournies au titre de la présente ordonnance.
 
 <sup>2</sup> Les tarifs des émoluments perçus par les bureaux de l’origine doivent être approuvés par le DEFR.
 
-<sup>3</sup> L’administration des douanes perçoit des émoluments conformément à l’ordonnance du 4 avril 2007 sur les émoluments de l’Administration fédérale des douanes[^8-1].
+<sup>3</sup> L’OFDF perçoit des émoluments conformément à l’ordonnance du 4 avril 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières[^8-1].
 
 <sup>4</sup> Les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^8-2] sont également applicables.
 
@@ -221,7 +222,7 @@ Sont considérés comme insuffisants pour conférer le caractère originaire:
 
 #### Art. 15
 
-**Eléments neutres**
+**Éléments neutres**
 
 Pour déterminer l’origine, il n’y a pas lieu de tenir compte des produits suivants utilisés pour sa fabrication:
 
@@ -246,7 +247,7 @@ Un produit du territoire qui est exporté temporairement pour être ouvré, tran
 
 Sur le territoire, la preuve de l’origine étrangère des marchandises est apportée:
 
-- a. par le certificat de base ou de transit libellé au nom du fournisseur indigène; ou
+- a. par le certificat de base ou de transit libellé au nom du fournisseur indigène, ou
 - b. par une attestation interne.
 
 ## Section 3 Délivrance des preuves documentaires et établissement des déclarations d’origine
@@ -267,7 +268,7 @@ Sur le territoire, la preuve de l’origine étrangère des marchandises est app
 
 <sup>1</sup> Les demandes de délivrance de preuves documentaires doivent être remises au bureau de l’origine compétent sous forme imprimée ou électronique.
 
-<sup>2</sup> Le requérant doit fournir au bureau de l’origine et, le cas échéant, à l’administration des douanes les renseignements nécessaires, les autoriser à consulter les documents et leur accorder l’accès aux locaux commerciaux.
+<sup>2</sup> Le requérant doit fournir au bureau de l’origine et, le cas échéant, à l’OFDF les renseignements nécessaires, les autoriser à consulter les documents et leur accorder l’accès aux locaux commerciaux.
 
 <sup>3</sup>
 
@@ -282,7 +283,7 @@ Le DEFR règle:
 
 <sup>1</sup> Les bureaux de l’origine peuvent conclure, avec des personnes et des entreprises, des conventions sur la simplification de la procédure de délivrance des preuves documentaires. Le DEFR règle les modalités.
 
-<sup>2</sup> Les conventions sur la simplification de la procédure sont soumises à l’approbation de l’administration des douanes.
+<sup>2</sup> Les conventions sur la simplification de la procédure sont soumises à l’approbation de l’OFDF.
 
 #### Art. 21
 
@@ -300,7 +301,7 @@ Le DEFR règle:
 
 <sup>1</sup> Le bureau de l’origine vérifie l’exactitude des données du requérant qui sont attestées par la preuve documentaire.
 
-<sup>2</sup> En cas de soupçon fondé ou de violation avérée des dispositions de la présente ordonnance, le bureau de l’origine le signale à l’administration des douanes et lui transmet les moyens de preuve.
+<sup>2</sup> En cas de soupçon fondé ou de violation avérée des dispositions de la présente ordonnance, le bureau de l’origine le signale à l’OFDF et lui transmet les moyens de preuve.
 
 <sup>3</sup> Les organes, les employés et les mandataires du bureau de l’origine sont soumis à la loi du 14 mars 1958 sur la responsabilité[^22-1] et au devoir de discrétion conformément à l’art. 320 du code pénal[^22-2].
 
@@ -309,11 +310,11 @@ Le DEFR règle:
 
 #### Art. 23
 
-**Contrôles a posteriori effectués par le bureau de l’origine et l’administration des douanes**
+**Contrôles a posteriori effectués par le bureau de l’origine et l’OFDF**
 
 <sup>1</sup> Le bureau de l’origine peut en tout temps contrôler a posteriori les données figurant sur une demande d’attestation ou sur une preuve documentaire et exiger des échantillons de la marchandise ainsi que des informations sur l’endroit où elle se trouve et sur son expédition.
 
-<sup>2</sup> L’administration des douanes peut en tout temps ordonner au bureau de l’origine d’effectuer des contrôles a posteriori et procéder elle-même à des contrôles a posteriori.
+<sup>2</sup> L’OFDF peut en tout temps ordonner au bureau de l’origine d’effectuer des contrôles a posteriori et procéder lui-même à des contrôles a posteriori.
 
 <sup>3</sup> Le requérant supporte les frais des contrôles a posteriori.
 
@@ -327,7 +328,7 @@ Le DEFR règle:
 
 #### Art. 25
 
-**Etablissement des déclarations d’origine**
+**Établissement des déclarations d’origine**
 
 <sup>1</sup> Le DEFR règle la forme et le contenu des déclarations d’origine.
 
@@ -349,9 +350,9 @@ Le DEFR règle:
 
 #### Art. 27
 
-**Compétence de l’administration des douanes**
+**Compétence de l’OFDF**
 
-L’administration des douanes exerce la surveillance sur les bureaux de l’origine.
+L’OFDF exerce la surveillance sur les bureaux de l’origine.
 
 #### Art. 28
 
@@ -359,15 +360,15 @@ L’administration des douanes exerce la surveillance sur les bureaux de l’ori
 
 <sup>1</sup> Si un bureau de l’origine a délivré à tort une preuve documentaire, il en ordonne le rappel.
 
-<sup>2</sup> Si le rappel reste sans effet ou que la preuve documentaire délivrée à tort a déjà quitté le territoire, l’administration des douanes révoque par voie de décision.
+<sup>2</sup> Si le rappel reste sans effet ou que la preuve documentaire délivrée à tort a déjà quitté le territoire, l’OFDF révoque par voie de décision.
 
-<sup>3</sup> Lorsque la révocation est entrée en force, l’administration des douanes peut la notifier au destinataire de la marchandise et aux autorités compétentes du pays destinataire.
+<sup>3</sup> Lorsque la révocation est entrée en force, l’OFDF peut la notifier au destinataire de la marchandise et aux autorités compétentes du pays destinataire.
 
 #### Art. 29
 
 **Mesures administratives concernant les déclarations d’origine**
 
-Sans préjudice de l’ouverture d’une procédure pénale, l’administration des douanes peut interdire par voie de décision, de manière temporaire ou permanente, à des personnes ou à des entreprises d’établir des déclarations d’origine s’il s’avère qu’elles en ont établi illégalement.
+Sans préjudice de l’ouverture d’une procédure pénale, l’OFDF peut interdire par voie de décision, de manière temporaire ou permanente, à des personnes ou à des entreprises d’établir des déclarations d’origine s’il s’avère qu’elles en ont établi illégalement.
 
 #### Art. 30
 
@@ -417,7 +418,7 @@ Les collaborateurs compétents du bureau de l’origine concerné ont accès aux
 
 <sup>2</sup> Sur demande, les bureaux de l’origine communiquent des données issues de leur système d’information à la section Origine et textiles de la Direction générale des douanes, à la division Affaires pénales de la Direction générale des douanes, ainsi qu’aux sections Enquêtes des directions d’arrondissement des douanes.
 
-<sup>3</sup> La communication de données aux autorités suisses ou étrangères par l’administration des douanes est régie par les art. 112 et 113 LD[^33-1].
+<sup>3</sup> La communication de données aux autorités suisses ou étrangères par l’OFDF est régie par les art. 112 et 113 LD[^33-1].
 
 [^33-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
@@ -429,11 +430,11 @@ Les données contenues dans les systèmes d’information des bureaux de l’ori
 
 #### Art. 35
 
-**Protection des données au sein de l’administration des douanes et communication de données aux bureaux de l’origine**
+**Protection des données au sein de l’OFDF et communication de données aux bureaux de l’origine**
 
 <sup>1</sup> Les art. 110 à 113 LD[^35-1] s’appliquent par analogie à la protection des données.
 
-<sup>2</sup> Dans l’accomplissement de ses tâches, l’administration des douanes peut traiter des données issues des systèmes d’information des bureaux de l’origine. Elle peut les communiquer conformément à l’art. 112 LD.
+<sup>2</sup> Dans l’accomplissement de ses tâches, l’OFDF peut traiter des données issues des systèmes d’information des bureaux de l’origine. Il peut les communiquer conformément à l’art. 112 LD.
 
 [^35-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
@@ -441,15 +442,15 @@ Les données contenues dans les systèmes d’information des bureaux de l’ori
 
 **Assistance administrative internationale**
 
-<sup>1</sup> L’administration des douanes peut accorder à des autorités étrangères, à leur demande, l’assistance administrative nécessaire à l’exécution de leurs tâches relatives aux preuves documentaires, notamment pour assurer l’application correcte de la législation sur le commerce extérieur et de la législation douanière, et pour prévenir, découvrir et poursuivre les infractions, pour autant qu’un traité international le prévoie.
+<sup>1</sup> L’OFDF peut accorder à des autorités étrangères, à leur demande, l’assistance administrative nécessaire à l’exécution de leurs tâches relatives aux preuves documentaires, notamment pour assurer l’application correcte de la législation sur le commerce extérieur et de la législation douanière, et pour prévenir, découvrir et poursuivre les infractions, pour autant qu’un traité international le prévoie.
 
-<sup>2</sup> En l’absence de traité international, l’administration des douanes peut confirmer à l’intention d’une autorité étrangère, qui en fait la demande, l’authenticité et la véracité des preuves documentaires délivrées sur le territoire.
+<sup>2</sup> En l’absence de traité international, l’OFDF peut confirmer à l’intention d’une autorité étrangère, qui en fait la demande, l’authenticité et la véracité des preuves documentaires délivrées sur le territoire.
 
-<sup>3</sup> Elle peut demander l’assistance administrative à des autorités étrangères en matière de preuve documentaire.
+<sup>3</sup> Il peut demander l’assistance administrative à des autorités étrangères en matière de preuve documentaire.
 
 <sup>4</sup> L’art. 115, al. 2 à 4 LD[^36-1] s’applique par analogie.
 
-<sup>5</sup> Le bureau de l’origine concerné peut être sollicité par l’administration des douanes pour le contrôle a posteriori. Il lui transmet les moyens de preuve.
+<sup>5</sup> Le bureau de l’origine concerné peut être sollicité par l’OFDF pour le contrôle a posteriori. Il lui transmet les moyens de preuve.
 
 [^36-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
@@ -457,7 +458,7 @@ Les données contenues dans les systèmes d’information des bureaux de l’ori
 
 **Contrôle a posteriori des déclarations d’origine**
 
-<sup>1</sup> Les bureaux de l’origine peuvent demander au bureau de l’origine compétent ou à l’administration des douanes de contrôler a posteriori des déclarations d’origine établies par des personnes ou des entreprises dont le domicile ou le siège se situe hors de leur zone de compétence lorsque ces déclarations d’origine servent de documents de référence pour la délivrance d’un certificat d’origine ou d’une attestation d’origine.
+<sup>1</sup> Les bureaux de l’origine peuvent demander au bureau de l’origine compétent ou à l’OFDF de contrôler a posteriori des déclarations d’origine établies par des personnes ou des entreprises dont le domicile ou le siège se situe hors de leur zone de compétence lorsque ces déclarations d’origine servent de documents de référence pour la délivrance d’un certificat d’origine ou d’une attestation d’origine.
 
 <sup>2</sup> L’art. 115, al. 2 à 4 LD[^37-1] s’applique par analogie.
 
@@ -467,7 +468,7 @@ Les données contenues dans les systèmes d’information des bureaux de l’ori
 
 #### Art. 38
 
-<sup>1</sup> Les décisions entrant dans le champ d’application de la présente ordonnance sont rendues par l’administration des douanes.
+<sup>1</sup> Les décisions entrant dans le champ d’application de la présente ordonnance sont rendues par l’OFDF.
 
 <sup>2</sup> Les voies de droit sont régies par l’art. 116 LD[^38-1].
 
@@ -567,9 +568,9 @@ Est puni d’une amende de 10 000 francs au plus quiconque:
 
 <sup>1</sup> Les infractions sont poursuivies et jugées conformément à la présente ordonnance et à la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^46-1].
 
-<sup>2</sup> L’autorité de poursuite et de jugement est l’administration des douanes.
+<sup>2</sup> L’autorité de poursuite et de jugement est l’OFDF.
 
-<sup>3</sup> Elle peut faire appel aux bureaux de l’origine pour l’enquête.
+<sup>3</sup> Il peut faire appel aux bureaux de l’origine pour l’enquête.
 
 [^46-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
@@ -585,7 +586,7 @@ L’action pénale se prescrit conformément à l’art. 7, al. 3, de la loi fé
 
 **Exécution**
 
-L’administration des douanes et les bureaux de l’origine sont chargés de l’exécution de la présente ordonnance.
+L’OFDF et les bureaux de l’origine sont chargés de l’exécution de la présente ordonnance.
 
 #### Art. 49
 
