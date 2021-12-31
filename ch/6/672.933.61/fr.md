@@ -3,27 +3,28 @@ sr: "672.933.61"
 title: Ordonnance du 15 juin 1998 concernant la convention de double imposition américano-suisse du 2 octobre 1996
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1807_1807_1807"
 language: fr
-version: 2011-11-30
+version: 2022-01-01
 adopted: 1998-06-15
 in_force: 1998-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1807_1807_1807/20111130/fr/xml/fedlex-data-admin-ch-eli-cc-1998-1807_1807_1807-20111130-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1807_1807_1807/20111130/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1807_1807_1807/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-1807_1807_1807-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1807_1807_1807/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant la convention de double imposition américano‑suisse du 2 octobre 1996
 
-du 15 juin 1998 (Etat le 30 novembre 2011)
+du 15 juin 1998 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
-vu l’arrêté fédéral du 22 juin 1951 concernant l’exécution des conventions internationales conclues par la Confédération en vue d’éviter les doubles impositions[^ingress-1], vu l’art. 25, par. 5, de la convention du 2 octobre 1996 entre la Confédération suisse et les Etats-Unis d’Amérique en vue d’éviter les doubles impositions en matière d’impôts sur le revenu[^ingress-2] (dénommée ci-après «convention»),
+vu l’art. 35, al. 1, de la loi fédérale du 18 juin 2021 relative à l’exécution des conventions internationales dans le domaine fiscal[^ingress-1], vu l’art. 25, par. 5, de la Convention du 2 octobre 1996 entre la Confédération suisse et les États-Unis d’Amérique en vue d’éviter les doubles impositions en matière d’impôts sur le revenu (convention)[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
 [^ingress-2]: [RS 0.672.933.61](https://fedlex.data.admin.ch/eli/cc/1999/223)
+[^ingress-3]: Nouvelle teneur selon le ch. II 9 de l’O du 10 nov. 2021 modifiant le droit fédéral dans le domaine de l’exécution des conventions internationales dans le domaine fiscal, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 ## Section 1 Impôts suisses perçus à la source sur les rendements de capitaux
 
@@ -31,7 +32,7 @@ arrête:
 
 **Perception de l’impôt**
 
-Les impôts sur les dividendes et intérêts qui, d’après la loi fédérale du 13 octobre 1965 sur l’impôt anticipé (LIA)[^1-1], doivent être perçus à la source seront retenus au taux légal entier même si le bénéficiaire des rendements de capitaux a son siège ou son domicile aux Etats-Unis. L’art. 4 est réservé.
+Les impôts sur les dividendes et intérêts qui, d’après la loi fédérale du 13 octobre 1965 sur l’impôt anticipé (LIA)[^1-1], doivent être perçus à la source seront retenus au taux légal entier même si le bénéficiaire des rendements de capitaux a son siège ou son domicile aux États-Unis. L’art. 4 est réservé.
 
 [^1-1]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
 
@@ -44,15 +45,15 @@ Les impôts sur les dividendes et intérêts qui, d’après la loi fédérale d
 A droit au remboursement prévu aux art. 10 et 11 de la convention, le bénéficiaire des rendements de capitaux qui:
 
 - a. possédait, au moment de l’échéance du rendement imposé, le droit de jouissance sur le placement qui a produit le rendement imposé;
-- b. avait son siège ou son domicile aux Etats-Unis selon l’art. 4 de la convention;
+- b. avait son siège ou son domicile aux États-Unis selon l’art. 4 de la convention;
 - c. prouve qu’il a droit aux avantages de la convention selon l’art. 22 de cette dernière.
 
 <sup>2</sup>
 
 N’ont droit à aucun remboursement au sens de la convention et de la présente ordonnance:
 
-- a. les organisations internationales qui ont un siège aux Etats-Unis;
-- b. les fonctionnaires des organisations internationales et les membres des représentations diplomatiques et consulaires d’Etats tiers qui résident aux Etats-Unis, mais qui, d’après la législation de ce pays, n’y sont pas domiciliés.
+- a. les organisations internationales qui ont un siège aux États-Unis;
+- b. les fonctionnaires des organisations internationales et les membres des représentations diplomatiques et consulaires d’États tiers qui résident aux États-Unis, mais qui, d’après la législation de ce pays, n’y sont pas domiciliés.
 
 <sup>3</sup>
 
@@ -75,9 +76,14 @@ Le droit au remboursement de l’impôt anticipé suisse retenu à la source s�
 
 <sup>2</sup> Ce délai est réputé observé si, avant son expiration, la formule de requête dûment remplie et accompagnée des moyens de preuve nécessaires parvient à l’Administration fédérale des contributions ou est remise à son adresse à la poste suisse ou à une représentation diplomatique ou consulaire suisse à l’étranger.
 
-<sup>3</sup> L’Administration fédérale des contributions examine la demande. Elle demande les renseignements complémentaires et moyens de preuve nécessaires directement à la personne requérante ou par l’intermédiaire de l’autorité compétente des Etats-Unis prévue à l’art. 3, par. 1, let. f, (ii), de la convention.
+<sup>3</sup> L’Administration fédérale des contributions examine la demande. Elle demande les renseignements complémentaires et moyens de preuve nécessaires directement à la personne requérante ou par l’intermédiaire de l’autorité compétente des États-Unis prévue à l’art. 3, par. 1, let. f, (ii), de la convention.
 
-<sup>4</sup> Si la demande est rejetée en tout ou en partie, la décision est notifiée, par lettre recommandée, avec indication des motifs et des voies de droit.
+<sup>4</sup> Si l’Administration fédérale des contributions rejette la demande en tout ou en partie, elle le communique au requérant.[^3-1]
+
+<sup>5</sup> Si le requérant n’est pas d’accord avec la communication de l’Administration fédérale des contributions et si le différend ne peut pas être levé d’une autre manière, il peut demander à l’Administration fédérale des contributions de rendre une décision.[^3-2]
+
+[^3-1]: Nouvelle teneur selon le ch. II 9 de l’O du 10 nov. 2021 modifiant le droit fédéral dans le domaine de l’exécution des conventions internationales dans le domaine fiscal, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
+[^3-2]: Introduit par le ch. II 9 de l’O du 10 nov. 2021 modifiant le droit fédéral dans le domaine de l’exécution des conventions internationales dans le domaine fiscal, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 #### Art. 4
 
@@ -120,9 +126,9 @@ Les décisions de l’Administration fédérale des contributions visées aux ar
 
 #### Art. 6
 
-**Recouvrement de l’impôt par les Etats-Unis**
+**Recouvrement de l’impôt par les États-Unis**
 
-S’il se révèle après coup qu’un remboursement de l’impôt anticipé suisse retenu à la source a été accordé à tort à une personne requérante domiciliée aux Etats-Unis ou que le montant de l’impôt remboursé a excédé celui auquel cette personne aurait eu droit selon les dispositions de la convention, l’autorité compétente des Etats-Unis désignée à l’art. 3, par. 1, let. f, (ii), de la convention réclamera au requérant, de son chef ou à la demande de l’Administration fédérale des contributions, le montant qui doit être restitué selon l’art. 26, par. 2, de la convention, et le transmettra à l’Administration fédérale des contributions.
+S’il se révèle après coup qu’un remboursement de l’impôt anticipé suisse retenu à la source a été accordé à tort à une personne requérante domiciliée aux États-Unis ou que le montant de l’impôt remboursé a excédé celui auquel cette personne aurait eu droit selon les dispositions de la convention, l’autorité compétente des États-Unis désignée à l’art. 3, par. 1, let. f, (ii), de la convention réclamera au requérant, de son chef ou à la demande de l’Administration fédérale des contributions, le montant qui doit être restitué selon l’art. 26, par. 2, de la convention, et le transmettra à l’Administration fédérale des contributions.
 
 ## Section 2 Impôts à la source sur d’autres revenus de source suisse
 
@@ -130,7 +136,7 @@ S’il se révèle après coup qu’un remboursement de l’impôt anticipé sui
 
 **Retenue de l’impôt**
 
-Les impôts qui doivent être retenus à la source sur les revenus du travail et les prestations de prévoyance selon les art. 91 à 93 et 95 à 97 de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct (LIFD)[^7-1] sont également prélevés lorsque le bénéficiaire a son domicile aux Etats-Unis. Sont exclues:
+Les impôts qui doivent être retenus à la source sur les revenus du travail et les prestations de prévoyance selon les art. 91 à 93 et 95 à 97 de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct (LIFD)[^7-1] sont également prélevés lorsque le bénéficiaire a son domicile aux États-Unis. Sont exclues:
 
 - a. les indemnités reçues par des conférenciers qui ne disposent habituellement pas en Suisse d’une base fixe pour exercer leur activité;
 - b. les rémunérations d’un emploi salarié exercé en tant que membre de l’équipage régulier à bord d’un navire ou d’un aéronef exploité en trafic international;
@@ -145,11 +151,11 @@ Les impôts qui doivent être retenus à la source sur les revenus du travail et
 
 <sup>1</sup>
 
-Le bénéficiaire résident des Etats-Unis au sens de l’art. 4 de la convention, peut demander le remboursement des impôts retenus à la source:[^8-1]
+Le bénéficiaire résident des États-Unis au sens de l’art. 4 de la convention, peut demander le remboursement des impôts retenus à la source:[^8-1]
 
 - a. eu égard aux impôts retenus sur des revenus provenant de l’activité d’artiste ou de sportif, conformément à l’art. 92 LIFD[^8-2], s’il prouve que ses revenus bruts n’ont pas excédéau total, pour l’année fiscale concernée, 10 000 dollars américains ou l’équivalent en francs suisses;
-- b.[^8-3] eu égard aux impôts retenus sur des prestations en capital provenant d’institutions de droit privé de prévoyance professionnelle ou d’une forme reconnue de prévoyance individuelle liée (art. 96 LIFD) s’il prouve que les autorités fiscales compétentes des Etats-Unis ont connaissance de la prestation en capital;
-- c.[^8-4] eu égard aux impôts retenus sur des prestations en capital provenant d’institutions de droit public de prévoyance professionnelle (art. 95 LIFD) s’il possède la citoyenneté américaine et prouve que les autorités fiscales compétentes des Etats-Unis ont connaissance de la prestation en capital.
+- b.[^8-3] eu égard aux impôts retenus sur des prestations en capital provenant d’institutions de droit privé de prévoyance professionnelle ou d’une forme reconnue de prévoyance individuelle liée (art. 96 LIFD) s’il prouve que les autorités fiscales compétentes des États-Unis ont connaissance de la prestation en capital;
+- c.[^8-4] eu égard aux impôts retenus sur des prestations en capital provenant d’institutions de droit public de prévoyance professionnelle (art. 95 LIFD) s’il possède la citoyenneté américaine et prouve que les autorités fiscales compétentes des États-Unis ont connaissance de la prestation en capital.
 
 <sup>2</sup> Le remboursement selon l’al. 1, let. a, des impôts retenus à la source sur des revenus peut être demandé au plus tôt après l’expiration de l’année civile au cours de laquelle les revenus ont été obtenus. La demande de remboursement doit être présentée auprès de l’administration fiscale du canton qui a retenu l’impôt à la source avant l’expiration de la cinquième année civile qui suit celle au cours de laquelle les revenus sont échus. Si ce délai n’est pas respecté, le droit au remboursement s’éteint.
 
@@ -165,7 +171,7 @@ Le bénéficiaire résident des Etats-Unis au sens de l’art. 4 de la conventio
 [^8-4]: Introduite par le ch. I de l’O du 1<sup>er</sup> nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
 [^8-5]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
 
-## Section 3 Impôts des Etats-Unis perçus à la source
+## Section 3 Impôts des États-Unis perçus à la source
 
 #### Art. 9
 
@@ -173,10 +179,10 @@ Le bénéficiaire résident des Etats-Unis au sens de l’art. 4 de la conventio
 
 <sup>1</sup>
 
-Une personne résidente de Suisse au sens de l’art. 4 de la convention et qui a droit aux avantages de la convention selon l’art. 22 de cette dernière peut demander, lors de l’encaissement direct de revenus provenant des Etats-Unis, les dégrèvements suivants en ce qui concerne les impôts à la source prélevés aux Etats-Unis:
+Une personne résidente de Suisse au sens de l’art. 4 de la convention et qui a droit aux avantages de la convention selon l’art. 22 de cette dernière peut demander, lors de l’encaissement direct de revenus provenant des États-Unis, les dégrèvements suivants en ce qui concerne les impôts à la source prélevés aux États-Unis:
 
 - a. 30 % du montant brut des dividendes si le bénéficiaire est un fonds de pension reconnu qui ne contrôle pas la société américaine qui paie les dividendes;
-- b. 25 % du montant brut des dividendes versés par une société américaine qui prouve aux autorités compétentes des Etats-Unis, selon l’art. 3, par. 1, let. f, (ii), de la convention, que les conditions décrites à l’art. 10, par. 2, let. a, de la convention sont réalisées;
+- b. 25 % du montant brut des dividendes versés par une société américaine qui prouve aux autorités compétentes des États-Unis, selon l’art. 3, par. 1, let. f, (ii), de la convention, que les conditions décrites à l’art. 10, par. 2, let. a, de la convention sont réalisées;
 - c. 15 % du montant brut des dividendes payés par un «Real Estate Investment Trust» américain lorsque le bénéficiaire est une personne physique qui détient une participation de moins de 10 % dans ce «Real Estate Investment Trust»;
 - d. 15 % du montant brut des dividendes dans les autres cas;
 - e. 30 % du montant brut des intérêts d’obligations payables contre coupon;
@@ -191,7 +197,7 @@ Une personne physique résidente de Suisse au sens de l’art. 4 de la conventio
 - b. au dégrèvement total de l’impôt américain retenu à la source sur des pensions de droit public, si la personne possède la nationalité suisse;
 - c. à une réduction de l’impôt américain retenu à la source à 15 % du montant brut des prestations de la sécurité sociale américaine visées à l’art. 19, par. 4, de la convention.
 
-<sup>3</sup> Les personnes qui veulent faire valoir leur droit au dégrèvement de l’impôt à la source américain conformément à l’al. 1 ou à l’al. 2, let. a ou b doivent remettre au débiteur américain ou à son établissement payeur («withholding agent») l’attestation sur formule W-8BEN requise par les autorités fiscales des Etats-Unis. En sont dispensées les personnes qui ont conclu avec les autorités fiscales des Etats-Unis un «Qualified Intermediary Withholding Agreement».
+<sup>3</sup> Les personnes qui veulent faire valoir leur droit au dégrèvement de l’impôt à la source américain conformément à l’al. 1 ou à l’al. 2, let. a ou b doivent remettre au débiteur américain ou à son établissement payeur («withholding agent») l’attestation sur formule W-8BEN requise par les autorités fiscales des États-Unis. En sont dispensées les personnes qui ont conclu avec les autorités fiscales des États-Unis un «Qualified Intermediary Withholding Agreement».
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
 
@@ -199,7 +205,7 @@ Une personne physique résidente de Suisse au sens de l’art. 4 de la conventio
 
 **Recouvrement de l’impôt par la Suisse**
 
-<sup>1</sup> S’il se révèle que le dégrèvement total ou partiel de l’impôt américain a été obtenu abusivement au moyen de la convention, l’Administration fédérale des contributions recouvre après coup le montant d’impôt éludé pour le compte des autorités fiscales des Etats-Unis.
+<sup>1</sup> S’il se révèle que le dégrèvement total ou partiel de l’impôt américain a été obtenu abusivement au moyen de la convention, l’Administration fédérale des contributions recouvre après coup le montant d’impôt éludé pour le compte des autorités fiscales des États-Unis.
 
 <sup>2</sup> L’Administration fédérale des contributions peut demander des renseignements, exiger des pièces justificatives, donner des instructions et prendre les décisions nécessaires à cet effet.
 
@@ -209,9 +215,9 @@ Une personne physique résidente de Suisse au sens de l’art. 4 de la conventio
 
 **Retenue supplémentaire d’impôt concernant l’encaissement de dividendes et d’intérêts américains par l’intermédiaire d’établissements payeurs suisses**[^11-1]
 
-<sup>1</sup> La personne qui, en sa qualité de «Qualified Intermediary», reçoit en Suisse pour le compte de tiers, de la part de sociétés américaines ou de leurs établissements payeurs, des dividendes américains réduits à 85 ou 95 % de leur montant brut destinés à être payés immédiatement ou crédités à des bénéficiaires effectifs résidents de Suisse ou à être remis à une personne résidente d’un Etat étranger à la demande de ces derniers, doit retenir sur le montant reçu 15 % (en cas de versement de 85 % du montant brut) ou 25 % (en cas de versement de 95 % du montant brut) du dividende brut; elle doit transmettre cette retenue en francs suisses à l’Administration fédérale des contributions (compte 30-4120-3), en même temps qu’un avis sur formule 182, au plus tard 30 jours après l’expiration du trimestre au cours duquel le paiement a été effectué.
+<sup>1</sup> La personne qui, en sa qualité de «Qualified Intermediary», reçoit en Suisse pour le compte de tiers, de la part de sociétés américaines ou de leurs établissements payeurs, des dividendes américains réduits à 85 ou 95 % de leur montant brut destinés à être payés immédiatement ou crédités à des bénéficiaires effectifs résidents de Suisse ou à être remis à une personne résidente d’un État étranger à la demande de ces derniers, doit retenir sur le montant reçu 15 % (en cas de versement de 85 % du montant brut) ou 25 % (en cas de versement de 95 % du montant brut) du dividende brut; elle doit transmettre cette retenue en francs suisses à l’Administration fédérale des contributions (compte 30-4120-3), en même temps qu’un avis sur formule 182, au plus tard 30 jours après l’expiration du trimestre au cours duquel le paiement a été effectué.
 
-<sup>2</sup> La personne qui, en sa qualité de «Qualified Intermediary», reçoit en Suisse pour le compte de tiers, de la part de débiteurs américains ou de leurs établissements payeurs, la totalité du montant brut des intérêts américains dégrevés de l’impôt à la source américain en vertu de la convention, et destinés à être payés immédiatement ou crédités à des bénéficiaires effectifs résidents de Suisse, ou à être remis à une personne résidente d’un Etat étranger à la demande de ces derniers, doit retenir 30 % de l’intérêt brut sur le montant reçu; elle doit transmettre cette retenue en francs suisses à l’Administration fédérale des contributions (compte 30-4120-3), en même temps qu’un avis sur formule 182, au plus tard 30 jours après l’expiration du trimestre au cours duquel le paiement a été effectué.
+<sup>2</sup> La personne qui, en sa qualité de «Qualified Intermediary», reçoit en Suisse pour le compte de tiers, de la part de débiteurs américains ou de leurs établissements payeurs, la totalité du montant brut des intérêts américains dégrevés de l’impôt à la source américain en vertu de la convention, et destinés à être payés immédiatement ou crédités à des bénéficiaires effectifs résidents de Suisse, ou à être remis à une personne résidente d’un État étranger à la demande de ces derniers, doit retenir 30 % de l’intérêt brut sur le montant reçu; elle doit transmettre cette retenue en francs suisses à l’Administration fédérale des contributions (compte 30-4120-3), en même temps qu’un avis sur formule 182, au plus tard 30 jours après l’expiration du trimestre au cours duquel le paiement a été effectué.
 
 <sup>3</sup> Un «Qualified Intermediary», qui doit opérer une retenue d’impôt en vertu des al. 1 et 2, peut déléguer ce devoir à un autre «Qualified Intermediary» suisse. L’art. 12 s’applique toutefois au «Qualified Intermediary» qui a procédé à une telle délégation. Ce dernier est également responsable de l’exactitude des informations qu’il transmet au «Qualified Intermediary» délégataire en vue de l’opération de retenue de l’impôt.
 
@@ -269,14 +275,14 @@ Toute personne dont les revenus provenant de dividendes ou d’intérêts améri
 - b. au moment de l’échéance du rendement imposé elle était considérée comme résidente de Suisse au sens de l’art. 4 de la convention;
 - c. elle prouve qu’elle a droit aux avantages de la convention en vertu de l’art. 22 de la convention.[^14-1]
 
-<sup>1bis</sup> Peuvent également demander le remboursement de la retenue supplémentaire d’impôt en francs suisses (art. 12, al. 1, let. e) les personnes résidentes d’un Etat étranger, lorsque cette retenue a été opérée à tort sur leurs revenus.[^14-2]
+<sup>1bis</sup> Peuvent également demander le remboursement de la retenue supplémentaire d’impôt en francs suisses (art. 12, al. 1, let. e) les personnes résidentes d’un État étranger, lorsque cette retenue a été opérée à tort sur leurs revenus.[^14-2]
 
 <sup>2</sup>
 
 N’ont pas droit au remboursement ou à l’imputation au sens de la convention et de la présente ordonnance:
 
 - a. les organisations internationales qui ont un siège en Suisse;
-- b. les fonctionnaires des organisations internationales et les membres des représentations diplomatiques et consulaires d’Etats tiers qui résident en Suisse, mais qui n’y sont pas tenus de payer des impôts sur la fortune ou sur le revenu pour leurs actions ou obligations américaines ou leur rendement.
+- b. les fonctionnaires des organisations internationales et les membres des représentations diplomatiques et consulaires d’États tiers qui résident en Suisse, mais qui n’y sont pas tenus de payer des impôts sur la fortune ou sur le revenu pour leurs actions ou obligations américaines ou leur rendement.
 
 <sup>2bis</sup>
 
@@ -339,7 +345,7 @@ Les chapitres deuxième et troisième de la LIA[^17-1] sont applicables par anal
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
 [^18-2]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
 
-## Section 4**** Echange général d’informations
+## Section 4**** Échange général d’informations
 
 [^sec4-1]
 
@@ -347,9 +353,9 @@ Les chapitres deuxième et troisième de la LIA[^17-1] sont applicables par anal
 
 #### Art. 19
 
-**Informations provenant des Etats-Unis**
+**Informations provenant des États-Unis**
 
-L’Administration fédérale des contributions évalue à l’attention des autorités fiscales des cantons les informations qui lui sont transmises par l’autorité américaine compétente au sujet des dividendes, intérêts, redevances de licences, ainsi que des pensions et rentes viagères privées qui ont été versés en provenance des Etats-Unis à des bénéficiaires suisses.
+L’Administration fédérale des contributions évalue à l’attention des autorités fiscales des cantons les informations qui lui sont transmises par l’autorité américaine compétente au sujet des dividendes, intérêts, redevances de licences, ainsi que des pensions et rentes viagères privées qui ont été versés en provenance des États-Unis à des bénéficiaires suisses.
 
 #### Art. 20
 
@@ -379,7 +385,7 @@ L’Administration fédérale des contributions peut transmettre à l’autorit�
 
 <sup>3</sup> Les voies de droit contre les décisions et prononcés de l’Administration fédérale des contributions sont réglées par l’art. 5.
 
-## Section 4*a***** Echange de renseignements en cas de soupçon de fraude fiscale
+## Section 4*a***** Échange de renseignements en cas de soupçon de fraude fiscale
 
 [^sec4a-1]
 
@@ -419,7 +425,7 @@ L’Administration fédérale des contributions peut transmettre à l’autorit�
 
 La personne concernée peut prendre part à la procédure et consulter le dossier. La consultation du dossier et la participation à la procédure ne peuvent être refusées que:
 
-- a. pour les pièces et les actes de procédure qu’il y a lieu de garder secrets; ou
+- a. pour les pièces et les actes de procédure qu’il y a lieu de garder secrets, ou
 - b. lorsque l’art. 26 de la convention l’exige.
 
 <sup>4</sup> Les objets, documents et pièces qui ont été remis à l’Administration fédérale des contributions ou que cette dernière a obtenus ne doivent pas être utilisés à des fins d’application du droit fiscal suisse. L’art. 20*j*, al. 4, est réservé.

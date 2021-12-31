@@ -3,27 +3,28 @@ sr: "672.933.61"
 title: Ordinanza del 15 giugno 1998 concernente la convenzione svizzero-americana di doppia imposizione
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1807_1807_1807"
 language: it
-version: 2011-11-30
+version: 2022-01-01
 adopted: 1998-06-15
 in_force: 1998-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1807_1807_1807/20111130/it/xml/fedlex-data-admin-ch-eli-cc-1998-1807_1807_1807-20111130-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1807_1807_1807/20111130/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1807_1807_1807/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1998-1807_1807_1807-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1807_1807_1807/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la convenzione svizzero-americana di doppia imposizione
 
-del 15 giugno 1998 (Stato 30 novembre 2011)
+del 15 giugno 1998 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
-visto il decreto federale del 22 giugno 1951[^ingress-1] concernente l’esecuzione delle convenzioni internazionali conchiuse dalla Confederazione per evitare i casi di doppia imposizione; visto l’articolo 25 paragrafo 5 della convenzione del 2 ottobre 1996[^ingress-2] tra la Confederazione Svizzera e gli Stati Uniti d’America per evitare le doppie imposizioni in materia di imposte sul reddito (detta qui di seguito convenzione),
+visto l’articolo 35 capoverso 1 della legge federale del 18 giugno 2021[^ingress-1] concernente l’esecuzione delle convenzioni internazionali in ambito fiscale; in esecuzione dell’articolo 25 paragrafo 5 della convenzione del 2 ottobre 1996[^ingress-2] tra la Confederazione Svizzera e gli Stati Uniti d’America per evitare le doppie imposizioni in materia di imposte sul reddito (convenzione),[^ingress-3]
 
 ordina:
 
 [^ingress-1]: RU **1998** 1807 RS **672.2**
 [^ingress-2]: [RS 0.672.933.61](https://fedlex.data.admin.ch/eli/cc/1999/223)
+[^ingress-3]: Nuovo testo giusta il n. II 9 dell’O del 10 nov. 2021 concernente l’adeguamento del diritto federale nell’ambito dell’esecuzione delle convenzioni internazionali in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 ## Capo 1: Imposte svizzere riscosse alla fonte sui redditi di capitali
 
@@ -77,7 +78,12 @@ Il diritto al rimborso dell’imposta preventiva svizzera riscossa alla fonte am
 
 <sup>3</sup> L’Amministrazione federale delle contribuzioni esamina la domanda. Essa richiede le informazioni complementari e le prove necessarie direttamente al richiedente o per il tramite della competente autorità degli Stati Uniti prevista nell’articolo 3 paragrafo 1 lettera f (ii) della convenzione.
 
-<sup>4</sup> Se la domanda è respinta in tutto od in parte, la decisione è comunicata mediante lettera raccomandata, con indicazione dei motivi e dei mezzi di ricorso.
+<sup>4</sup> Se respinge la domanda, in tutto o in parte, l’Amministrazione federale delle contribuzioni lo comunica al richiedente.[^3-1]
+
+<sup>5</sup> Se non è d’accordo in merito a quanto comunicato dall’Amministrazione federale delle contribuzioni e la controversia non può essere composta in altro modo, il richiedente può chiedere una decisione dell’Amministrazione federale delle contribuzioni.[^3-2]
+
+[^3-1]: Nuovo testo giusta il n. II 9 dell’O del 10 nov. 2021 concernente l’adeguamento del diritto federale nell’ambito dell’esecuzione delle convenzioni internazionali in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
+[^3-2]: Introdotto dal n. II 9 dell’O del 10 nov. 2021 concernente l’adeguamento del diritto federale nell’ambito dell’esecuzione delle convenzioni internazionali in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 #### Art. 4
 

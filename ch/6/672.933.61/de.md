@@ -3,27 +3,28 @@ sr: "672.933.61"
 title: Verordnung vom 15. Juni 1998 zum schweizerisch-amerikanischen Doppelbesteuerungsabkommen vom 2. Oktober 1996
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1807_1807_1807"
 language: de
-version: 2011-11-30
+version: 2022-01-01
 adopted: 1998-06-15
 in_force: 1998-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1807_1807_1807/20111130/de/xml/fedlex-data-admin-ch-eli-cc-1998-1807_1807_1807-20111130-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1807_1807_1807/20111130/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1807_1807_1807/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1998-1807_1807_1807-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1807_1807_1807/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung zum schweizerisch-amerikanischen Doppelbesteuerungsabkommen vom 2. Oktober 1996
 
-vom 15. Juni 1998 (Stand am 30. November 2011)
+vom 15. Juni 1998 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf den Bundesbeschluss vom 22. Juni 1951[^ingress-1] über die Durchführung von zwischenstaatlichen Abkommen des Bundes zur Vermeidung der Doppelbesteuerung, in Ausführung von Artikel 25 Absatz 5 des Abkommens vom 2. Oktober 1996[^ingress-2] zwischen der Schweizerischen Eidgenossenschaft und den Vereinigten Staaten von Amerika zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen (im folgenden Abkommen genannt),
+gestützt auf Artikel 35 Absatz 1 des Bundesgesetzes vom 18. Juni 2021[^ingress-1] über die Durchführung von internationalen Abkommen im Steuerbereich, in Ausführung von Artikel 25 Absatz 5 des Abkommens vom 2. Oktober 1996[^ingress-2] zwischen der Schweizerischen Eidgenossenschaft und den Vereinigten Staaten von Amerika zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen (im Folgenden Abkommen genannt),[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
 [^ingress-2]: [SR 0.672.933.61](https://fedlex.data.admin.ch/eli/cc/1999/223)
+[^ingress-3]: Fassung gemäss Ziff. II 9 der V vom 10. Nov. 2021 über Anpassungen des Bundesrechts im Bereich der Durchführung von internationalen Abkommen im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 ## 1. Abschnitt: An der Quelle erhobene schweizerische Steuern von Kapitalerträgen
 
@@ -77,7 +78,12 @@ Der Anspruch auf Rückerstattung der an der Quelle erhobenen schweizerischen Ver
 
 <sup>3</sup> Die Eidgenössische Steuerverwaltung prüft den Antrag. Notwendige ergänzende Auskünfte oder Beweismittel verlangt sie direkt bei der antragstellenden Person oder durch Vermittlung der nach Artikel 3 Absatz 1 Buchstabe f (ii) des Abkommens zuständigen Behörde der Vereinigten Staaten.
 
-<sup>4</sup> Wird der Antrag ganz oder teilweise abgewiesen, so wird der Entscheid mit Begründung und Rechtsmittelbelehrung durch eingeschriebenen Brief eröffnet.
+<sup>4</sup> Weist die Eidgenössische Steuerverwaltung den Antrag ab oder entspricht sie ihm nur teilweise, so teilt sie dies der antragstellenden Person mit.[^3-1]
+
+<sup>5</sup> Ist die antragstellende Person mit der Mitteilung der Eidgenössischen Steuerverwaltung nicht einverstanden und lässt sich der Anstand nicht auf andere Weise erledigen, so kann sie einen Entscheid der Eidgenössischen Steuerverwaltung verlangen.[^3-2]
+
+[^3-1]: Fassung gemäss Ziff. II 9 der V vom 10. Nov. 2021 über Anpassungen des Bundesrechts im Bereich der Durchführung von internationalen Abkommen im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
+[^3-2]: Eingefügt durch Ziff. II 9 der V vom 10. Nov. 2021 über Anpassungen des Bundesrechts im Bereich der Durchführung von internationalen Abkommen im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 #### Art. 4
 
@@ -98,7 +104,7 @@ Die die Dividenden zahlende schweizerische Gesellschaft muss das Gesuch mit Form
 
 <sup>5</sup> Die die Dividenden zahlende schweizerische Gesellschaft muss der Eidgenössischen Steuerverwaltung unverzüglich Meldung erstatten, sobald die Voraussetzungen für die Beanspruchung des Meldeverfahrens nicht mehr erfüllt sind.
 
-[^4-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2004 ([AS 2005 23](https://fedlex.data.admin.ch/eli/oc/2005/8)).
+[^4-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2005 23](https://fedlex.data.admin.ch/eli/oc/2005/8)).
 
 #### Art. 4a
 
@@ -108,7 +114,7 @@ Die die Dividenden zahlende schweizerische Gesellschaft muss das Gesuch mit Form
 
 <sup>2</sup> Absatz 1 gilt auch, wenn ein Bewilligungsgesuch nicht eingereicht oder noch nicht darüber entschieden wurde. Liegt ein Bewilligungsgesuch nicht vor, so ist dieses zusammen mit dem Formular 108 nachzureichen. Ergibt die Prüfung der Eidgenössischen Steuerverwaltung, dass vom Meldeverfahren zu Unrecht Gebrauch gemacht wurde, so werden die Verrechnungssteuer und ein allfälliger Verzugszins nacherhoben. Wird die Nacherhebung bestritten, so trifft die Eidgenössische Steuerverwaltung einen Entscheid.
 
-[^4a-1]: Eingefügt durch Ziff. I der V vom 22. Dez. 2004 ([AS 2005 23](https://fedlex.data.admin.ch/eli/oc/2005/8)).
+[^4a-1]: Eingefügt durch Ziff. I der V vom 22. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2005 23](https://fedlex.data.admin.ch/eli/oc/2005/8)).
 
 #### Art. 5
 
@@ -356,7 +362,7 @@ Die Eidgenössische Steuerverwaltung wertet die ihr von der zuständigen amerika
 
 Die Eidgenössische Steuerverwaltung kann der zuständigen amerikanischen Behörde Doppel der Formulare 108 sowie der Anträge auf Rückerstattung der Verrechnungssteuer übermitteln, die von amerikanischen Empfängern schweizerischer Dividenden und Zinsen eingereicht wurden.
 
-[^20-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2004 ([AS 2005 23](https://fedlex.data.admin.ch/eli/oc/2005/8)).
+[^20-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2005 23](https://fedlex.data.admin.ch/eli/oc/2005/8)).
 
 #### Art. 20a
 
@@ -545,7 +551,7 @@ Nach Artikel 62 des VStG wird bestraft, wer, ohne dass der Tatbestand von Absatz
 
 Die Verordnung vom 2. November 1951[^22-1] zum schweizerisch-amerikanischen Doppelbesteuerungsabkommen wird aufgehoben.
 
-[^22-1]: [[AS 1951 1031](https://fedlex.data.admin.ch/eli/oc/1951/1031_1032_1058), [1962 1622](https://fedlex.data.admin.ch/eli/oc/1962/1622_1680_1702)Art. 8, [1967 83](https://fedlex.data.admin.ch/eli/oc/1967/83_91_85), [1974 1962](https://fedlex.data.admin.ch/eli/oc/1974/1962_1962_1962), [1975 2266](https://fedlex.data.admin.ch/eli/oc/1975/2266_2266_2266)]
+[^22-1]: [[AS 1951 1031](https://fedlex.data.admin.ch/eli/oc/1951/1031_1032_1058); [1962 1622](https://fedlex.data.admin.ch/eli/oc/1962/1622_1680_1702)Art. 8; [1967 83](https://fedlex.data.admin.ch/eli/oc/1967/83_91_85); [1974 1962](https://fedlex.data.admin.ch/eli/oc/1974/1962_1962_1962); [1975 2266](https://fedlex.data.admin.ch/eli/oc/1975/2266_2266_2266)]
 
 #### Art. 23
 
