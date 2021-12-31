@@ -4,18 +4,18 @@ title: "Ordinanza 2 dell' 11 agosto 1999 sull'asilo relativa alle questioni fina
 short: OAsi 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/360"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1999-360-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1999-360-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza 2 sull’asilo relativa alle questioni finanziarie (Ordinanza 2 sull’asilo, OAsi 2)
 
-dell’11 agosto 1999 (Stato 1° gennaio 2021)
+dell’11 agosto 1999 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -986,13 +986,15 @@ La SEM esamina la domanda sotto il profilo della necessità, dell’opportunità
 
 [^52-1]: Introdotto dal n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
 
-### Sezione 4:**** Collaborazione internazionale: disposizioni speciali per i crediti quadro nel settore della migrazione
+### Sezione 4:**** Collaborazione internazionale: disposizioni speciali per i crediti d’impegno nel settore della migrazione
 
 [^tit3-chap4-sec4-1]
 
 [^tit3-chap4-sec4-1]: Introdotta dal n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
 
 ### (art. 91 cpv. 7, 93 cpv. 1 lett. c e cpv. 2, 113 e 114 LAsi)
+
+[^tit3-chap4-sec4-2]
 
 #### Art. 52a
 
@@ -1001,6 +1003,8 @@ La SEM esamina la domanda sotto il profilo della necessità, dell’opportunità
 <sup>1</sup> Al fine di implementare i crediti autorizzati, il DFGP può, conformemente all’articolo 114 LAsi, concludere trattati internazionali relativi a progetti o programmi.
 
 <sup>2</sup> Al fine di implementare i crediti autorizzati, la SEM può, conformemente all’articolo 114 LAsi, concludere trattati di diritto privato, pubblico o di diritto internazionale di portata limitata relativi a progetti o programmi.
+
+[^tit3-chap4-sec4-2]: Nuovo testo giusta l’all. n. 1 dell’O del 10 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 52b
 

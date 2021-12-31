@@ -4,11 +4,11 @@ title: "Asylverordnung 2 vom 11. August 1999 über Finanzierungsfragen (Asylvero
 short: AsylV 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/360"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1999-360-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1999-360-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20210101/de"
 
 (Asylverordnung 2, AsylV 2)
 
-vom 11. August 1999 (Stand am 1. Januar 2021)
+vom 11. August 1999 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -57,7 +57,7 @@ Vergütbare Sozialhilfe- und Nothilfeleistungen nach Artikel 88 des AsylG sind U
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
 [^2-2]: [SR 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
-[^2-3]: [[AS 2007 5551](https://fedlex.data.admin.ch/eli/oc/2007/762), [2013 5351](https://fedlex.data.admin.ch/eli/oc/2013/854), [2017 6543](https://fedlex.data.admin.ch/eli/oc/2017/720), [2018 745](https://fedlex.data.admin.ch/eli/oc/2018/95). [AS 2018 3189](https://fedlex.data.admin.ch/eli/oc/2018/511)Art. 30]. Siehe heute: die V vom 15. Aug. 2018 ([SR 142.205](https://fedlex.data.admin.ch/eli/cc/2018/511)).
+[^2-3]: [[AS 2007 5551](https://fedlex.data.admin.ch/eli/oc/2007/762); [2013 5351](https://fedlex.data.admin.ch/eli/oc/2013/854); [2017 6543](https://fedlex.data.admin.ch/eli/oc/2017/720); [2018 745](https://fedlex.data.admin.ch/eli/oc/2018/95). [AS 2018 3189](https://fedlex.data.admin.ch/eli/oc/2018/511)Art. 30]. Siehe heute: die V vom 15. Aug. 2018 ([SR 142.205](https://fedlex.data.admin.ch/eli/cc/2018/511)).
 
 #### Art. 3
 
@@ -85,7 +85,7 @@ Vorbehältlich der Artikel 82 Absatz 4 und Artikel 83*a* des AsylG sowie abweich
 
 <sup>1</sup> Die Kantone bezeichnen für den Verkehr mit dem Bund eine Koordinationsstelle.
 
-<sup>2</sup> ...[^4-1]
+<sup>2</sup> …[^4-1]
 
 [^4-1]: Aufgehoben durch Ziff. I der V vom 24. Okt. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 
@@ -103,7 +103,7 @@ Vorbehältlich der Artikel 82 Absatz 4 und Artikel 83*a* des AsylG sowie abweich
 
 <sup>4</sup> Korrekturen der Auszahlungen nach Absatz 2 erfolgen jeweils im Folgejahr. Dabei werden die Differenzen zwischen dem Ereignis- und dem Erfassungsdatum ausgeglichen. Die Nachzahlungen oder Rückforderungen werden mit den quartalsweisen Auszahlungen verrechnet.
 
-<sup>5</sup> ...[^5-5]
+<sup>5</sup> …[^5-5]
 
 <sup>6</sup> Sämtliche Zahlungen werden ausschliesslich auf die Kontokorrente der Kantone bei der Eidgenössischen Finanzverwaltung angewiesen. Subventionsrechtliche Rückforderungen sowie Rückforderungen aus Kürzungen nach Artikel 89*a* Absatz 2 des AsylG werden mit den Auszahlungen nach Absatz 2 verrechnet.[^5-6]
 
@@ -280,7 +280,7 @@ Das Informationssystem Sonderabgabe enthält folgende Daten:
 
 <sup>3</sup> Die abgenommenen Vermögenswerte bzw. deren Barwert werden in der Regel bei der Ausreise am Flughafen in bar ausbezahlt. Auf Gesuch hin kann der auszuzahlende Betrag nach erfolgter Ausreise ins Ausland überwiesen werden.
 
-<sup>4</sup> ...[^18-2]
+<sup>4</sup> …[^18-2]
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
 [^18-2]: Aufgehoben durch Ziff. I der V vom 15. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
@@ -444,7 +444,7 @@ Der Bund vergütet den Kantonen Globalpauschalen für Flüchtlinge und Staatenlo
 
 <sup>3</sup> Der Bund zahlt den Kantonen für Schutzbedürftige mit einer Aufenthaltsbewilligung die Hälfte der Globalpauschale nach Artikel 26 vom Tag an, an dem diese nach Artikel 74 Absatz 2 des AsylG einen Anspruch auf die Erteilung einer Aufenthaltsbewilligung haben, bis und mit dem Tag, an dem sie erstmals eine Niederlassungsbewilligung erhalten oder ein Anspruch darauf besteht, längstens aber bis zum Zeitpunkt, in dem eine solche nach Artikel 74 Absatz 3 des AsylG erteilt werden könnte.
 
-<sup>4</sup> und <sup>5</sup> ...[^24-13]
+<sup>4</sup> und <sup>5</sup> …[^24-13]
 
 [^24-1]: Siehe auch die UeB Änd. 7.12.2012 am Ende dieses Textes.
 [^24-2]: Fassung gemäss Ziff. I der V vom 7. Dez. 2012, in Kraft seit 1. April 2013 ([AS 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
@@ -619,7 +619,7 @@ Die Pauschale nach Absatz 1 wird für die betreffende Person entrichtet, wenn:
 
 <sup>1</sup> Das SEM überprüft unter Einbezug der SODK und der KKJPD nach gemeinsam festgelegten Kriterien die Entwicklung der Nothilfekosten.
 
-<sup>2</sup> ...[^30-1]
+<sup>2</sup> …[^30-1]
 
 <sup>3</sup>
 
@@ -951,7 +951,7 @@ Für den Abschluss eines Vertrages reichen die Kantone dem SEM folgende Unterlag
 
 **Bundesbeiträge**
 
-<sup>1</sup> ...[^51-1]
+<sup>1</sup> …[^51-1]
 
 <sup>2</sup>
 
@@ -963,7 +963,7 @@ Das SEM kann Beiträge ausrichten an:
 - d.[^51-4] international ausgerichtete Projekte oder Programme von Trägerschaften wie Nichtregierungsorganisationen oder Stiftungen, namentlich im Bereich der Asylverfahren, Information, Rückkehr, Betreuung, Bildung und Beschäftigung sowie Unterbringung von Asylsuchenden oder Flüchtlingen, deren Ziel die Stärkung der Strukturen des Migrationsmanagements ist;
 - e.[^51-5] Projekte wissenschaftlicher Institutionen, namentlich im Bereich der Früherkennung und Steuerung von grenzüberschreitenden unkontrollierten Flucht- und Migrationsbewegungen, der Festlegung von Standards bei der Behandlung von Asylsuchenden und Flüchtlingen sowie der Politikevaluation, deren Ziel insbesondere die Bereitstellung von Entscheidgrundlagen für die Ausgestaltung von Recht und Praxis im Asyl- und Migrationsbereich ist.
 
-<sup>3</sup> ...[^51-6]
+<sup>3</sup> …[^51-6]
 
 [^51-1]: Aufgehoben durch Ziff. I der V vom 24. Okt. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 [^51-2]: Fassung gemäss Ziff. I der V vom 18. Sept 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
@@ -990,13 +990,15 @@ Das SEM behandelt das Gesuch nach den Grundsätzen der Notwendigkeit und Zweckm�
 
 [^52-1]: Fassung gemäss Ziff. I der V vom 18. Sept 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
 
-### 4. Abschnitt:**** Internationale Zusammenarbeit: Besondere Bestimmungen für Rahmenkredite Migration
+### 4. Abschnitt:**** Internationale Zusammenarbeit: Besondere Bestimmungen für Verpflichtungskredite Migration
 
 [^tit3-chap4-sec4-1]
 
 [^tit3-chap4-sec4-1]: Eingefügt durch Ziff. I der V vom 18. Sept 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
 
 ### (Art. 91 Abs. 7, 93 Abs. 1 Bst. c und Abs. 2, 113 und 114 AsylG)
+
+[^tit3-chap4-sec4-2]
 
 #### Art. 52a
 
@@ -1005,6 +1007,8 @@ Das SEM behandelt das Gesuch nach den Grundsätzen der Notwendigkeit und Zweckm�
 <sup>1</sup> Das EJPD kann zur Umsetzung bewilligter Kredite nach Artikel 114 AsylG völkerrechtliche Verträge zu Projekten oder Programmen abschliessen.
 
 <sup>2</sup> Das SEM kann zur Umsetzung bewilligter Kredite nach Artikel 114 AsylG privatrechtliche, öffentlich-rechtliche oder völkerrechtliche Verträge von beschränkter Tragweite zu Projekten oder Programmen abschliessen.
+
+[^tit3-chap4-sec4-2]: Fassung gemäss Anhang Ziff. 1 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 52b
 
@@ -1190,16 +1194,16 @@ Für Personen, die auf der gesamten Rückreise polizeilich begleitet werden müs
 Der Bund vergütet die Kosten für:
 
 - a. eine kostengünstige und zweckdienliche Verbindung zwischen dem schweizerischen Wohnort und einem internationalen Flughafen im Heimat- oder Herkunftsstaat bzw. einem internationalen Hafen oder einem Hauptbahnhof im Heimat- oder Herkunftsstaat;
-- b.[^59-3] ...
+- b.[^59-3] …
 - c.[^59-4] die Beförderung des Gepäcks bis zum Betrag von 200 Franken pro Person, höchstens jedoch bis zu einem Betrag von 500 Franken pro Familie;
 - d.[^59-5] jede notwendige Übernachtung in der Übernachtungsstation eines Flughafengefängnisses mit einer Pauschale von 300 Franken; in dieser Pauschale ist die Haftpauschale nach Artikel 15 Absatz 1 VVWAL[^59-6] bereits enthalten;
-- e.[^59-7] ...
+- e.[^59-7] …
 
 <sup>2</sup> Nicht vergütet werden in der Regel die Kosten für den Transfer im Bestimmungsland.
 
 <sup>3</sup> Erscheint eine ausreisepflichtige Person nicht zum Ausreisetermin, so stellt das SEM dem Kanton die Flugannullierungskosten sowie die in diesem Zusammenhang entstandenen weiteren Kosten in Rechnung, falls der Kanton die Annullierung hätte verhindern können.[^59-8]
 
-<sup>4</sup> ...[^59-9]
+<sup>4</sup> …[^59-9]
 
 <sup>5</sup> Das SEM regelt die Modalitäten der Bestellung von Reisebilletten und der Routenwahl.
 
@@ -1343,7 +1347,7 @@ Begünstigte von Rückkehrhilfeleistungen sind Personen, deren Anwesenheitsverh�
 
 Von finanzieller Rückkehrhilfe ausgeschlossen sind Personen:[^64-1]
 
-- a.[^64-2] ...
+- a.[^64-2] …
 - b. die ein Verbrechen oder wiederholte Vergehen begangen haben;
 - c.
 
@@ -1356,11 +1360,11 @@ Von finanzieller Rückkehrhilfe ausgeschlossen sind Personen:[^64-1]
 
 - d.[^64-3] die offensichtlich über genügend finanzielle Mittel oder umfangreiche Vermögenswerte verfügen.
 
-<sup>2</sup> ...[^64-4]
+<sup>2</sup> …[^64-4]
 
 <sup>3</sup> Der Bezug von Leistungen der Rückkehrhilfe darf keine Verzögerung der Ausreise bewirken.
 
-<sup>4</sup> ...[^64-5]
+<sup>4</sup> …[^64-5]
 
 <sup>5</sup> Das EJPD kann die Rückkehrhilfe für einzelne Heimat-, Herkunfts- oder Drittstaaten aus länderspezifischen Gründen befristet ausschliessen.[^64-6]
 
@@ -1549,7 +1553,7 @@ Individuelle Rückkehrhilfe kann beanspruchen, wer nachweislich alle erforderlic
 
 **Verhältnis zu den Ausreisekosten**
 
-<sup>1</sup> ...[^74a-1]
+<sup>1</sup> …[^74a-1]
 
 <sup>2</sup> Die Kosten für die Ausreise und die Zahlung von Reisegeld werden vom SEM unabhängig von der Gewährung individueller Rückkehrhilfe nach Artikel 59 Absatz 1 Buchstabe a und Artikel 59*a* erstattet.
 
@@ -1607,7 +1611,7 @@ Das SEM oder von diesem beauftragte Dritte können individuelle Rückkehrhilfebe
 
 [^78-1]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
-### 7. Kapitel: ...
+### 7. Kapitel: …
 
 #### Art. 79 und 80
 

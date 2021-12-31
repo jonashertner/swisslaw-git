@@ -4,11 +4,11 @@ title: "Ordonnance 2 du 11 août 1999 sur l'asile relative au financement (Ordon
 short: OA 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/360"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-360-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-360-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20210101/fr"
 
 (Ordonnance 2 sur l’asile, OA 2)
 
-du 11 août 1999 (Etat le 1<sup>er</sup> janvier 2021)
+du 11 août 1999 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -988,13 +988,15 @@ Le SEM examine la demande sous l’angle de sa nécessité, de son opportunité 
 
 [^52-1]: Nouvelle teneur selon le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
 
-### Section 4**** Collaboration internationale: dispositions particulières relatives aux crédits-cadre pour la migration
+### Section 4**** Collaboration internationale: dispositions particulières relatives aux crédits d’engagement pour la migration
 
 [^tit3-chap4-sec4-1]
 
 [^tit3-chap4-sec4-1]: Introduite par le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
 
 ### (art. 91, al. 7, 93, al. 1, let. c, et 2, 113 et 114 LAsi)
+
+[^tit3-chap4-sec4-2]
 
 #### Art. 52a
 
@@ -1003,6 +1005,8 @@ Le SEM examine la demande sous l’angle de sa nécessité, de son opportunité 
 <sup>1</sup> Le DFJP peut conclure des accords internationaux sur des projets ou des programmes pour mettre en œuvre les crédits accordés conformément à l’art. 114 LAsi.
 
 <sup>2</sup> Le SEM peut conclure des accords de droit privé, des accords de droit public ou des accords internationaux de portée mineure sur des projets ou des programmes pour mettre en œuvre les crédits accordés conformément à l’art. 114 LAsi.
+
+[^tit3-chap4-sec4-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 52b
 
