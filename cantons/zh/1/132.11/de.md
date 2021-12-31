@@ -4,11 +4,11 @@ number: "132.11"
 title: Finanzausgleichsverordnung (FAV)
 short: FAV
 language: de
-version: "2020-08-01"
-nachtrag: "110"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
+valid_until: 2022-06-01
 adopted: 2011-08-17
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-132_11-2011_08_17-2012_01_01-110.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-132_11-2011_08_17-2012_01_01-115.html"
 text: pdf
 ---
 
@@ -63,7 +63,7 @@ Für die Berechnung des gewogenen Steuerfusses gemäss § 8 lit. c Satz 2 FAG we
 
 **1**
 
-1.10. 20 - 110 § 4. Die Berechnung des Kantonsmittels der Gesamtsteuerfüsse gemäss § 8 lit. d FAG erfolgt analog zu § 3. Massgebend ist die Formel 8 im Anhang zu dieser Verordnung.
+- 1\. 1. 22 - 115 § 4. Die Berechnung des Kantonsmittels der Gesamtsteuerfüsse gemäss § 8 lit. d FAG erfolgt analog zu § 3. Massgebend ist die Formel 8 im Anhang zu dieser Verordnung.
 
 **Kantonsmittel der Gesamtsteuerfüsse**
 
@@ -169,7 +169,7 @@ Die politischen Gemeinden melden dem Amt für Raumentwicklung des Kantons Züric
 
 **3**
 
-1.10. 20 - 110
+- 1\. 1. 22 - 115
 
 ### E. Ausgleichsfaktoren
 
@@ -285,7 +285,7 @@ Das Statistische Amt veröffentlicht nach Ablauf der Rechtsmittelfrist die Ausgl
 
 **5**
 
-1.10. 20 - 110 § 18. <sup>1</sup> Auf der Grundlage der Ausgleichsfaktoren legt das Gemeindeamt bis Ende August des Vorjahres gegenüber den politischen Gemeinden und den Schulgemeinden die Ausgleichsbeiträge bei folgenden Instrumenten fest:
+- 1\. 1. 22 - 115 § 18. <sup>1</sup> Auf der Grundlage der Ausgleichsfaktoren legt das Gemeindeamt bis Ende August des Vorjahres gegenüber den politischen Gemeinden und den Schulgemeinden die Ausgleichsbeiträge bei folgenden Instrumenten fest:
 
 **Festlegung der Beiträge**
 
@@ -343,11 +343,9 @@ Folgende Aufgaben der funktionalen Gliederung sind in die Abgeltung des demograf
 
 - a. Bildung, ohne Bildungswesen Übriges,
 
-- b. Schulgesundheitsdienst,
+- b. Schulgesundheitsdienst, c.[^22-1] Jugend, Kindertagesstätten.
 
-- c. Jugend, Kinder- und Jugendheime, Kindertagesstätten[^22-1].
-
-[^22-1]: Fassung gemäss RRB vom 27. Mai 2020 (OS 75, 378; ABl 2020-06-05). In Kraft seit 1. August 2020. 1.10. 20 - 110 13
+[^22-1]: Fassung gemäss RRB vom 6. Oktober 2021 (OS 76, 653; ABl 2021-10-29). In Kraft seit 1. Januar 2022. 1. 1. 22 - 115 13
 
 #### § 23
 
@@ -380,7 +378,7 @@ Nach Erhalt des Beitrags zahlt die politische Gemeinde den Schulgemeinden den Be
 
 **7**
 
-1.10. 20 - 110 § 26. Folgende Aufgaben der funktionalen Gliederung sind in die Abgeltung des geografisch-topografischen Sonderlastenausgleichs einbezogen:
+- 1\. 1. 22 - 115 § 26. Folgende Aufgaben der funktionalen Gliederung sind in die Abgeltung des geografisch-topografischen Sonderlastenausgleichs einbezogen:
 
 **Aufgaben**
 
@@ -458,7 +456,7 @@ Bei der Globalbudgetierung sind die Angaben der internen Rechnung massgebend, au
 
 **9**
 
-1.10. 20 - 110 § 33. Die Zahlung des vorläufigen Beitrags nach § 26 Abs. 2 FAG erfolgt Mitte des Ausgleichsjahres.
+- 1\. 1. 22 - 115 § 33. Die Zahlung des vorläufigen Beitrags nach § 26 Abs. 2 FAG erfolgt Mitte des Ausgleichsjahres.
 
 #### § 34
 
@@ -544,7 +542,7 @@ Bei der Globalbudgetierung sind die Angaben der internen Rechnung massgebend, au
 
 **11**
 
-1.10. 20 - 110
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Die vorläufige Festlegung des Beitrags erfolgt bis Ende November des Vorjahres. Sind die Angaben der Gemeinden unvollständig oder strittig, kann das Gemeindeamt den Beitrag auf der Grundlage der vorhandenen Angaben vorläufig festlegen.
 
@@ -672,7 +670,7 @@ im Bemessungsjahr t–2 (§ 1)
 
 **15**
 
-1.10. 20 - 110
+- 1\. 1. 22 - 115
 
 ### Formel 11 Kantonsmittel der relativen Steuerkraft (§ 8 lit. h FAG, § 9 FAV) SKR = <sup>N</sup> SKA / E
 
@@ -716,4 +714,4 @@ einer Hangneigung über 35% im Bemessungsjahr t–2
 
 **17**
 
-1.10. 20 - 110
+- 1\. 1. 22 - 115
