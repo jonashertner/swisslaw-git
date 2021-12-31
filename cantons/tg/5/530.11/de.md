@@ -3,13 +3,12 @@ canton: TG
 number: "530.11"
 title: Verordnung des Regierungsrates zum Gesetz über die Bewältigung von ausserordentlichen Lagen
 language: de
-version: 2005-09-01
-valid_until: 2021-12-31
-version_adopted: 2005-08-08
+version: 2022-01-01
+version_adopted: 2021-11-30
 adopted: 2005-08-08
 in_force: 2005-09-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/530.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1432/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2385/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1432/pdf_file"
 
 RRV Bewältigung von ausserordentlichen Lagen
 
-vom 08.08.2005 (Stand 01.09.2005)
+vom 08.08.2005 (Stand 01.01.2022)
 
 ## 1. Zuständigkeiten der Departemente
 
@@ -56,20 +55,20 @@ vom 08.08.2005 (Stand 01.09.2005)
 
 **Polizei**
 
-<sup>1</sup> Der Polizei obliegen neben den Funktionen gemäss Polizeigesetz[^5-1] insbesondere folgende Aufgaben:
+<sup>1</sup> Der Polizei obliegen neben den Funktionen gemäss Polizeigesetz (PolG)[^5-1] insbesondere folgende Aufgaben:
 
 - 1\. Betreiben einer Alarmierungsstelle und Sicherstellung des Empfangs und der Weitergabe von Schaden-, Warn- und Alarmmeldungen für das ganze Kantonsgebiet;
 - 2\. Sicherstellung der Führungsunterstützung für den kantonalen Führungsstab.
 
 <sup>2</sup> Im Übrigen ist sie befugt, Schutzdienstpflichtige für den Polizeieinsatz zu rekrutieren und auszubilden.
 
-[^5-1]: [551.1](https://www.rechtsbuch.tg.ch/data/551.1/de)
+[^5-1]: RB [551.1](https://www.rechtsbuch.tg.ch/data/551.1/de)
 
 #### § 6
 
 **Zivilschutz**
 
-<sup>1</sup> Dem Zivilschutz obliegen neben den Funktionen gemäss der Bundesgesetzgebung über den Bevölkerungsschutz und den Zivilschutz[^6-1] und des Einführungsgesetzes[^6-2] dazu insbesondere folgende Aufgaben:
+<sup>1</sup> Dem Zivilschutz obliegen neben den Funktionen gemäss der Bundesgesetzgebung über den Bevölkerungsschutz und den Zivilschutz[^6-1] und des Einführungsgesetzes zur Bundesgesetzgebung über den Zivilschutz (EG BZG)[^6-2] dazu insbesondere folgende Aufgaben:
 
 - 1\. Unterstützung der Feuerwehr bei Rettung aus Trümmerlagen in atembaren und brandfreien Zonen und bei Absperrungs- und Aufräumungsarbeiten;
 - 2\. Unterstützung der Polizei bei Verkehrslenkungs-, Überwachungs-, Absperrungs- und Aufräummassnahmen;
@@ -77,7 +76,7 @@ vom 08.08.2005 (Stand 01.09.2005)
 - 4\. Sicherstellung der Führungsunterstützung der Führungsstäbe.
 
 [^6-1]: SR [520.1](https://db.clex.ch/link/Bund/520.1/de)
-[^6-2]: [520.1](https://www.rechtsbuch.tg.ch/data/520.1/de)
+[^6-2]: RB [520.1](https://www.rechtsbuch.tg.ch/data/520.1/de)
 
 ### 2.2. Gemeinden
 
@@ -277,7 +276,7 @@ vom 08.08.2005 (Stand 01.09.2005)
 
 <sup>2</sup> Finden Stabs- oder Einsatzübungen unter der Leitung des kantonalen Führungsstabes statt, übernimmt dieser die Kosten für die Übungsleitung und das benötigte Hilfspersonal.
 
-## 5. Wirtschaftliche Landesversorgung, Kulturgüterschutz
+## 5. Wirtschaftliche Landesversorgung
 
 #### § 28
 
@@ -293,32 +292,62 @@ vom 08.08.2005 (Stand 01.09.2005)
 
 <sup>1</sup> Die Stelle für wirtschaftliche Landesversorgung auf Gemeindestufe trifft Vorbereitungsmassnahmen zur Sicherstellung der Versorgung in der Gemeinde mit lebenswichtigen Gütern und Dienstleistungen gemäss den Weisungen der KZWL.
 
-#### § 30
+## 5a. Kulturgüterschutz
 
-**Verzeichnis**
-
-<sup>1</sup> Die für den Kulturgüterschutz zuständige Stelle führt ein Verzeichnis der zu schützenden Kulturgüter von nationaler und regionaler Bedeutung.
-
-#### § 31
+#### § 29a
 
 **Schutz**
 
-<sup>1</sup> Die Eigentümerinnen oder Eigentümer beziehungsweise die Besitzerinnen oder Besitzer sind für den Schutz ihrer Kulturgüter und die Vorsorgemassnahmen verantwortlich.
+<sup>1</sup> Die Eigentümerinnen und Eigentümer oder die Besitzerinnen und Besitzer sind für den Schutz ihrer Kulturgüter und die Vorsorgemassnahmen verantwortlich.
 
 <sup>2</sup> Der Zivilschutz kann im Rahmen seiner Möglichkeiten Personal für die Planung und Durchführung von Schutzmassnahmen zur Verfügung stellen.
 
-## 6. Übergangs- und Schlussbestimmungen
+#### § 30
 
-#### § 32
+**Fachstelle**
 
-**Übergangsfrist**
+<sup>1</sup> Das Amt für Denkmalpflege führt eine Fachstelle für den Kulturgüterschutz.
 
-<sup>1</sup> Die Gemeinden passen ihre Organisation, soweit nötig, bis zum 31. Dezember 2006 an.
+<sup>2</sup> Die Fachstelle ist insbesondere zuständig für:
 
-#### § 33
+- 1\. die Koordination der Aufgaben des Kantons nach dem Bundesgesetz über den Schutz der Kulturgüter bei bewaffneten Konflikten, bei Katastrophen und in Notlagen (KGSG)[^30-1],
+- 2\. die Führung des Verzeichnisses der zu schützenden Kulturgüter von nationaler und regionaler Bedeutung,
+- 3\. die Beratung und Unterstützung des Zivilschutzes in Fragen des Kulturgüterschutzes,
+- 4\. die Beratung und Unterstützung von Eigentümerinnen und Eigentümer von Kulturgütern bei der Erstellung von Notfallplanungen,
+- 5\. die Sicherstellung der erforderlichen Ausbildung und Information im Bereich des Kulturgüterschutzes.
 
-**Inkrafttreten**
+[^30-1]: SR [520.3](https://db.clex.ch/link/Bund/520.3/de)
 
-<sup>1</sup> Das Gesetz über die Bewältigung von ausserordentlichen Lagen vom 27. September 2004 und diese Verordnung treten am 1. September 2005 in Kraft.
+#### § 30a
+
+**Kulturgüterschutzexpertinnen und Kulturgüterschutzexperten**
+
+<sup>1</sup> Der Regierungsrat ernennt auf Antrag der Fachstelle Kulturgüterschutzexpertinnen oder Kulturgüterschutzexperten (KGS-Expertinnen oder KGS-Experten).
+
+<sup>2</sup> Die Einsatzleitung stellt im Ereignisfall sicher, dass bei Bedarf KGS-Expertinnen oder KGS-Experten aufgeboten werden.
+
+<sup>3</sup> Wurden KGS-Expertinnen oder KGS-Experten aufgeboten, hat der Umgang mit gefährdetem Kulturgut nach deren Weisungen zu erfolgen.
+
+<sup>4</sup> Als KGS-Expertinnen oder KGS-Experten werden ernannt:
+
+- 1\. drei Personen aus dem Amt für Denkmalpflege,
+- 2\. vier Personen aus dem Kulturamt,
+- 3\. eine Person aus dem Amt für Archäologie,
+- 4\. eine Person aus dem Staatsarchiv,
+- 5\. eine Person aus der Kantonsbibliothek.
+
+<sup>5</sup> Der Regierungsrat kann weitere KGS-Expertinnen oder KGS-Experten ernennen.
+
+<sup>6</sup> KGS-Expertinnen und KGS-Experten nehmen an den von der Fachstelle organisierten Ausbildung teil.
+
+#### § 31
+
+**…**
+
+## 6.
+
+#### § 32–33
+
+**…**
 
 32/2005
