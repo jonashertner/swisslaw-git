@@ -3,13 +3,12 @@ canton: FR
 number: "130.421"
 title: Richtlinien des Kantonsgerichts über die Vorarchivierung von Gerichtsakten und deren Ablieferung an das Staatsarchiv
 language: de
-version: 2011-01-01
-valid_until: 2021-12-31
-version_adopted: 2010-12-14
+version: 2022-01-01
+version_adopted: 2022-01-31
 adopted: 2000-09-25
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/130.421"
-pdf: "https://bdlf.fr.ch/api/de/versions/5075/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8401/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5075/pdf_file"
 
 Vorarchivierung von Gerichtsakten – Richtlinien
 
-vom 25.09.2000 (Fassung in Kraft getreten am 01.01.2011)
+vom 25.09.2000 (Fassung in Kraft getreten am 01.01.2022)
 
 Das Kantonsgericht des Staates Freiburg[^ingress-1]
 
@@ -46,11 +45,15 @@ beschliesst:
 
 <sup>1</sup> Diese Richtlinien richten sich an die Organe der Justiz, die der Aufsicht des Kantonsgerichts unterstellt sind.
 
-<sup>2</sup> Sie finden auf die Vorarchivierung von Dokumenten Anwendung, die gerichtliche Aktenhefte im Sinne der Artikel 14 ZPO und 52 StPO darstellen, nachdem den Parteien die von ihnen eingereichten Beweisurkunden zurückerstattet worden sind.
+<sup>2</sup> Sie finden auf die Vorarchivierung von Dokumenten Anwendung, die gerichtliche Aktenhefte im Sinne der Artikel 14 ZPO[^2-1] und 52 StPO[^2-2] darstellen, nachdem den Parteien die von ihnen eingereichten Beweisurkunden zurückerstattet worden sind.
 
 <sup>3</sup> Sie finden keine Anwendung auf Sammlungen von Urteilen, Entscheiden, Protokollen, Karteien und Register, die von der Behörde, von der sie herrühren, für unbeschränkte Zeit gebunden oder anderweitig fixiert aufbewahrt werden (abweichende gesetzliche Bestimmungen vorbehalten).
 
-<sup>4</sup> Besondere Bestimmungen des Bundes oder des Kantons, insbesondere jene des Reglements über die Sicherheit der Personendaten (DSR; SGF 17.15), bleiben vorbehalten.
+<sup>4</sup> Besondere Bestimmungen des Bundes oder des Kantons, insbesondere jene des Reglements über die Sicherheit der Personendaten (DSR; SGF 17.15)[^2-3], bleiben vorbehalten.
+
+[^2-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
+[^2-2]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^2-3]: SGF [17.15](https://bdlf.fr.ch/data/17.15/de)
 
 ## 2 Modalitäten der Vorarchivierung
 
@@ -72,9 +75,11 @@ beschliesst:
 
 **Aufbewahrung und Zugang**
 
-<sup>1</sup> Die Aktenhefte werden in einem geeigneten, abgeschlossenen und ausreichend gegen Feuer und Feuchtigkeit geschützten Raum sorgfältig aufbewahrt. Die Sicherheit der Personendaten in den Vorarchivierungsdossiers muss sichergestellt werden (Art. 13 Abs. 1 DSR).
+<sup>1</sup> Die Aktenhefte werden in einem geeigneten, abgeschlossenen und ausreichend gegen Feuer und Feuchtigkeit geschützten Raum sorgfältig aufbewahrt. Die Sicherheit der Personendaten in den Vorarchivierungsdossiers muss sichergestellt werden (Art. 13 Abs. 1 DSR[^5-1]).
 
 <sup>2</sup> Die vorarchivierten Akten sind der Öffentlichkeit nicht zugänglich. Zum Zweck der wissenschaftlichen Forschung kann die betroffene Behörde mit Einwilligung des Kantonsgerichts Ausnahmen gewähren.
+
+[^5-1]: SGF [17.15](https://bdlf.fr.ch/data/17.15/de)
 
 #### Art. 6
 
@@ -119,7 +124,7 @@ Davon abweichend beträgt die Aufbewahrungsdauer:
 - b) auf Persönlichkeiten oder Orte von besonderem Interesse beziehen;
 - c) auf Angelegenheiten beziehen, die wertvolle kulturelle Hinweise enthalten (soziale Bedingungen, Epochen, Entwicklungsfaktoren).
 
-<sup>2</sup> Die Stellungnahme der Kantonalen Behörde für Öffentlichkeit und Datenschutz wird vorgängig eingeholt.
+<sup>2</sup> Die Stellungnahme der kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation wird vorgängig eingeholt.
 
 #### Art. 9
 
@@ -127,7 +132,9 @@ Davon abweichend beträgt die Aufbewahrungsdauer:
 
 <sup>1</sup> Akten, deren Archivierung gemäss Artikel 8 nicht vorgeschrieben ist, werden mit Einwilligung des Kantonsgerichts und mit Zustimmung des Staatsarchivs vernichtet.
 
-<sup>2</sup> Die Vernichtung muss auf geeignete Weise durchgeführt werden, um jede Möglichkeit einer Wiederherstellung auszuschliessen (Art. 13 Abs. 2 DSR).
+<sup>2</sup> Die Vernichtung muss auf geeignete Weise durchgeführt werden, um jede Möglichkeit einer Wiederherstellung auszuschliessen (Art. 13 Abs. 2 DSR[^9-1]).
+
+[^9-1]: SGF [17.15](https://bdlf.fr.ch/data/17.15/de)
 
 ## 4 Schlussbestimmungen
 
