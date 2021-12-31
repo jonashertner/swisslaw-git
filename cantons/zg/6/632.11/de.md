@@ -3,20 +3,19 @@ canton: ZG
 number: "632.11"
 title: Verordnung zum Steuergesetz
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-10-20
+version: 2022-01-01
+version_adopted: 2021-05-04
 adopted: 2001-01-30
 in_force: 2001-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/632.11"
-pdf: "https://bgs.zg.ch/api/de/versions/2148/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2286/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Steuergesetz
 
-Vom 30. Januar 2001 (Stand 1. Januar 2021)
+Vom 30. Januar 2001 (Stand 1. Januar 2022)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -102,9 +101,11 @@ beschliesst:
 
 <sup>2</sup> Der Anspruch auf Reduktion des Marktmietwertes setzt kumulativ voraus:
 
-- a) Mindestgrösse der Wohnung: 5 Zimmer;
-- b) Verzicht auf jegliche Nutzung der entsprechenden Zimmer (auch nicht als Lagerräume);
+- a) Mindestgrösse der Wohnung: 5 Zimmer, wobei Zimmer über 30 m² als zwei Zimmer angerechnet werden;
+- b) Verzicht auf Nutzung der entsprechenden Zimmer (auch nicht als Lagerräume; das Stehenlassen der vorhandenen Möbel gilt nicht als Nutzung);
 - c) Verminderung der bisherigen Wohnbedürfnisse.
+
+<sup>2a</sup> Für die Berechnung der Unternutzung werden Zimmer über 30 m² als zwei Zimmer angerechnet. Küche, Badezimmer, WC und Nebenräume (Entrée, Estrich, Keller, Garage etc.) werden zusammen zwei Zimmern gleichgesetzt.
 
 <sup>3</sup> In der Regel wird kein Unternutzungsabzug gewährt, wenn die Liegenschaftsrechnung (steuerbarer Eigenmietwert abzüglich Schuldzinsen und Unterhalt) ein negatives Ergebnis ergibt.
 
@@ -268,7 +269,7 @@ beschliesst:
 
 <sup>2</sup> Auf ein Gesuch kann nicht eingetreten werden,
 
-- a) wenn eine Besteuerung als Holding- oder Verwaltungsgesellschaft erfolgt;
+- a) …
 - b) wenn einem Unternehmen bereits andernorts Steuererleichterungen gewährt wurden. Vorbehalten bleiben Ausnahmefälle.
 
 <sup>3</sup> Steuererleichterungen können bei besonderen Voraussetzungen gewährt werden wie insbesondere
@@ -552,13 +553,13 @@ beschliesst:
 
 <sup>2</sup> Die Verrechnungssteuer wird in der Regel mit den vom Kanton und den Gemeinden zu erhebenden Einkommens- und Vermögenssteuern verrechnet. In Ausnahmefällen kann eine Rückerstattung in bar erfolgen.
 
-### 9.3. Pauschale Steueranrechnung
+### 9.3. Anrechnung ausländischer Quellensteuern
 
 #### § 52
 
 **Zuständigkeit**
 
-<sup>1</sup> Die kantonale Steuerverwaltung vollzieht im Rahmen der dem Kanton obliegenden Aufgaben die Verordnung über die pauschale Steueranrechnung vom 22. August 1967[^52-1] und trifft die entsprechenden Entscheide.
+<sup>1</sup> Die kantonale Steuerverwaltung vollzieht im Rahmen der dem Kanton obliegenden Aufgaben die Verordnung über die Anrechnung ausländischer Quellensteuern vom 22. August 1967[^52-1] und trifft die entsprechenden Entscheide.
 
 [^52-1]: SR [672.201](https://db.clex.ch/link/Bund/672.201/de)
 
@@ -574,13 +575,13 @@ beschliesst:
 
 <sup>1</sup> Der Antrag auf Anrechnung ist zusammen mit der Steuererklärung einzureichen.
 
-<sup>2</sup> Der Betrag der pauschalen Steueranrechnung wird mit den Steuern des Bundes, des Kantons und der Gemeinden verrechnet oder den Begünstigten ausbezahlt.
+<sup>2</sup> Der Betrag der Steueranrechnung wird mit den Steuern des Bundes, des Kantons und der Gemeinden verrechnet oder den Begünstigten ausbezahlt.
 
 #### § 55
 
 **Belastung von Kanton und Gemeinden**
 
-<sup>1</sup> Der dem Bund gemäss Art. 20 der Bundesverordnung nicht zu belastende Teil der Beträge der pauschalen Steueranrechnung wird vom Kanton und den steuerberechtigten Gemeinden anteilsmässig entsprechend dem effektiven Steuerertrag aus der Veranlagung der anspruchsberechtigten Person getragen.
+<sup>1</sup> Der dem Bund gemäss Art. 20 der Bundesverordnung nicht zu belastende Teil der Beträge der Steueranrechnung wird vom Kanton und den steuerberechtigten Gemeinden anteilsmässig entsprechend dem effektiven Steuerertrag aus der Veranlagung der anspruchsberechtigten Person getragen.
 
 ## 10. Schlussbestimmungen
 
@@ -590,9 +591,7 @@ beschliesst:
 
 #### § 57
 
-**Wechsel der zeitlichen Bemessung bei der direkten Bundessteuer**
-
-<sup>1</sup> Der Abzug der ausserordentlichen Aufwendungen erfolgt für die direkte Bundessteuer nach dem für die Kantons- und Gemeindesteuern massgebenden Revisionsverfahren (Art. 218 Abs. 4 Bst. a DBG).
+**…**
 
 #### § 58
 
