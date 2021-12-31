@@ -4,11 +4,11 @@ title: "Ordinanza del 21 novembre 2007 sull'armonizzazione dei registri (OArRa)"
 short: OArRa
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/868"
 language: it
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2007-11-21
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/868/20170101/it/xml/fedlex-data-admin-ch-eli-cc-2007-868-20170101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/868/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-868-20220101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20170101/it"
 
 (OArRa)
 
-del 21 novembre 2007 (Stato 1° gennaio 2017)
+del 21 novembre 2007 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -43,7 +43,9 @@ La presente ordinanza disciplina nell’ambito dell’armonizzazione dei registr
 
 <sup>2</sup> Essa disciplina inoltre la piattaforma informatica e di comunicazione centrale della Confederazione (Sedex).
 
-<sup>3</sup> Essa contiene disposizioni complementari concernenti il numero d’assicurato AVS.
+<sup>3</sup> Essa contiene disposizioni complementari concernenti il numero AVS[^1-1].
+
+[^1-1]: Nuova espr. giusta l’all. n. II 14 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 2
 
@@ -250,13 +252,13 @@ L’Ufficio federale dell’informatica e della telecomunicazione rilascia a cia
 [^17-1]: Nuovo testo giusta il n. II 7 dell’all. all’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 [^17-2]: Abrogato dal n. II 7 dell’all. all’O del 23 nov. 2016 sulla firma elettronica, con effetto dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 
-## Sezione 5: Numero d’assicurato AVS
+## Sezione 5: Numero AVS
 
 #### Art. 18
 
-**Notifica all’UCC dell’utilizzazione sistematica del numero d’assicurato AVS**
+**Notifica all’UCC dell’utilizzazione sistematica del numero AVS**
 
-Il servizio ufficiale di cui all’articolo 9 LArRa notifica all’Ufficio centrale di compensazione dell’AVS (UCC) l’utilizzazione sistematica del numero d’assicurato AVS di cui all’articolo 134<sup>ter</sup> dell’ordinanza del 31 ottobre 1947[^18-1] sull’assicurazione per la vecchiaia e per i superstiti (OAVS) collettivamente per tutti gli organi del Cantone che tengono i registri di cui all’articolo 2 capoverso 2 LArRa.
+Il servizio ufficiale di cui all’articolo 9 LArRa notifica all’Ufficio centrale di compensazione dell’AVS (UCC) l’utilizzazione sistematica del numero AVS di cui all’articolo 134<sup>ter</sup> dell’ordinanza del 31 ottobre 1947[^18-1] sull’assicurazione per la vecchiaia e per i superstiti (OAVS) collettivamente per tutti gli organi del Cantone che tengono i registri di cui all’articolo 2 capoverso 2 LArRa.
 
 [^18-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
@@ -264,7 +266,7 @@ Il servizio ufficiale di cui all’articolo 9 LArRa notifica all’Ufficio centr
 
 **Primo aggiornamento completo dei registri cantonali**
 
-<sup>1</sup> Il servizio ufficiale di cui all’articolo 9 LArRa si assicura che tutti gli organi del Cantone che tengono i registri di cui all’articolo 2 capoverso 2 LArRa chiedano la prima attribuzione e comunicazione completa del numero d’assicurato AVS.
+<sup>1</sup> Il servizio ufficiale di cui all’articolo 9 LArRa si assicura che tutti gli organi del Cantone che tengono i registri di cui all’articolo 2 capoverso 2 LArRa chiedano la prima attribuzione e comunicazione completa del numero AVS.
 
 <sup>2</sup> La procedura per l’attribuzione e la comunicazione del numero è disciplinata dagli articoli 133<sup>bis</sup> e 134<sup>quater</sup> OAVS[^19-1].
 
@@ -280,7 +282,7 @@ Il servizio ufficiale di cui all’articolo 9 LArRa notifica all’Ufficio centr
 
 **Comunicazione all’interno del Cantone**
 
-<sup>1</sup> Gli organi che tengono i registri di cui all’articolo 2 capoverso 2 LArRa possono comunicare il numero d’assicurato AVS ai servizi e alle istituzioni autorizzati a utilizzare sistematicamente il numero per adempiere ai loro compiti legali in virtù di leggi federali o cantonali.
+<sup>1</sup> Gli organi che tengono i registri di cui all’articolo 2 capoverso 2 LArRa possono comunicare il numero AVS ai servizi e alle istituzioni autorizzati a utilizzare sistematicamente il numero per adempiere ai loro compiti legali in virtù di leggi federali o cantonali.
 
 <sup>2</sup> La riscossione di emolumenti è disciplinata dal diritto cantonale.
 
@@ -288,7 +290,7 @@ Il servizio ufficiale di cui all’articolo 9 LArRa notifica all’Ufficio centr
 
 **Aggiornamento dei registri federali**
 
-<sup>1</sup> La prima attribuzione e comunicazione completa del numero d’assicurato AVS ai registri federali di cui all’articolo 2 capoverso 1 è disciplinata dagli articoli 133<sup>bis</sup> e 134<sup>quater</sup> OAVS[^21-1].
+<sup>1</sup> La prima attribuzione e comunicazione completa del numero AVS ai registri federali di cui all’articolo 2 capoverso 1 è disciplinata dagli articoli 133<sup>bis</sup> e 134<sup>quater</sup> OAVS[^21-1].
 
 <sup>2</sup> L’UST coordina la comunicazione d’intesa con l’UCC e gli organi che tengono i registri.
 
@@ -298,9 +300,9 @@ Il servizio ufficiale di cui all’articolo 9 LArRa notifica all’Ufficio centr
 
 #### Art. 22
 
-**Aggiornamento del numero d’assicurato AVS**
+**Aggiornamento del numero AVS**
 
-Gli organi che tengono i registri aggiornano costantemente il numero d’assicurato AVS.
+Gli organi che tengono i registri aggiornano costantemente il numero AVS.
 
 ## Sezione 6: Servizio ufficiale cantonale
 
@@ -350,7 +352,7 @@ L’UST utilizza l’elenco degli indirizzi esclusivamente per scopi di statisti
 
 **Termini**
 
-<sup>1</sup> L’armonizzazione dei registri e l’iscrizione del numero d’assicurato AVS nei registri di cui all’articolo 2 LArRa vanno completate entro il 15 gennaio 2010.
+<sup>1</sup> L’armonizzazione dei registri e l’iscrizione del numero AVS nei registri di cui all’articolo 2 LArRa vanno completate entro il 15 gennaio 2010.
 
 <sup>2</sup> L’EGID è iscritto in tutti i registri degli abitanti entro il 15 gennaio 2010, l’EWID entro il 31 dicembre 2012.
 
@@ -386,4 +388,4 @@ Allegato
 
 ....[^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Le mod. possono essere consultate alla RU**2007** 6719.
+[^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868).

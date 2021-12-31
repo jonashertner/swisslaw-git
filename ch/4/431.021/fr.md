@@ -4,11 +4,11 @@ title: "Ordonnance du 21 novembre 2007 sur l'harmonisation de registres (OHR)"
 short: OHR
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/868"
 language: fr
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2007-11-21
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/868/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-868-20170101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/868/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-868-20220101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20170101/fr"
 
 (OHR)
 
-du 21 novembre 2007 (Etat le 1<sup>er</sup> janvier 2017)
+du 21 novembre 2007 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -33,7 +33,9 @@ arrête:
 
 **Objet**
 
-<sup>1</sup> Dans le cadre de l’harmonisation de registres, la présente ordonnance règle
+<sup>1</sup>
+
+Dans le cadre de l’harmonisation de registres, la présente ordonnance règle:
 
 - a. la tenue des registres officiels de personnes (registres);
 - b. l’échange de données entre les registres;
@@ -41,7 +43,9 @@ arrête:
 
 <sup>2</sup> Elle règle par ailleurs la plateforme centrale informatique de communication de la Confédération (sedex).
 
-<sup>3</sup> Elle contient des dispositions complémentaires sur le numéro d’assuré AVS.
+<sup>3</sup> Elle contient des dispositions complémentaires sur le numéro AVS[^1-1].
+
+[^1-1]: Nouvelle expression selon l’annexe ch. II 14 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 2
 
@@ -66,8 +70,8 @@ Au sens de la présente ordonnance, on entend par:
 - b. *sedex:* plateforme centrale informatique de communication que la Confédération met à la disposition des services autorisés pour la transmission sécurisée de données (secure data exchange);
 - c. *jeton («token»):* élément unique, non falsifiable, qui sert à identifier un participant ou une participante au sein d’un réseau informatique (p. ex. au sein d’Internet).
 
-[^2-1]: Nouvelle teneur selon le ch. 3 de l’annexe à l’O du 19 déc. 2008 sur le recensement, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2009 241](https://fedlex.data.admin.ch/eli/oc/2009/42)).
-[^2-2]: Introduit par le ch. 3 de l’annexe à l’O du 19 déc. 2008 sur le recensement, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2009 241](https://fedlex.data.admin.ch/eli/oc/2009/42)).
+[^2-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 19 déc. 2008 sur le recensement, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2009 241](https://fedlex.data.admin.ch/eli/oc/2009/42)).
+[^2-2]: Introduit par l’annexe ch. 3 de l’O du 19 déc. 2008 sur le recensement, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2009 241](https://fedlex.data.admin.ch/eli/oc/2009/42)).
 
 ## Section 2 Tenue des registres
 
@@ -101,7 +105,7 @@ Les services qui tiennent les registres visés à l’art. 2 LHR sont personnell
 
 #### Art. 6
 
-**Echange de données entre les registres des habitants**
+**Échange de données entre les registres des habitants**
 
 <sup>1</sup> L’échange de données entre les registres des habitants lors d’arrivées et de départs se fait de manière continue.
 
@@ -245,16 +249,16 @@ L’Office fédéral de l’informatique et de la télécommunication délivre �
 
 <sup>4</sup> …[^17-2]
 
-[^17-1]: Nouvelle teneur selon le ch. II 7 de l’annexe à l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
-[^17-2]: Abrogé par le ch. II 7 de l’annexe à l’O du 23 nov. 2016 sur la signature électronique, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^17-1]: Nouvelle teneur selon l’annexe ch. II 7 de l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^17-2]: Abrogé par l’annexe ch. II 7 de l’O du 23 nov. 2016 sur la signature électronique, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 
-## Section 5 Numéro d’assuré AVS
+## Section 5 Numéro AVS
 
 #### Art. 18
 
-**Annonce d’utilisation systématique du numéro d’assuré AVS à la Centrale de compensation (CdC)**
+**Annonce d’utilisation systématique du numéro AVS à la Centrale de compensation (CdC)**
 
-Le service compétent au sens de l’art. 9 LHR annonce collectivement, pour tous les services du canton qui tiennent les registres visés à l’art. 2, al. 2, LHR, l’utilisation systématique du numéro d’assuré, conformément à l’art. 134<sup>ter</sup> du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants (RAVS)[^18-1], à la Centrale de compensation (CdC).
+Le service compétent au sens de l’art. 9 LHR annonce collectivement, pour tous les services du canton qui tiennent les registres visés à l’art. 2, al. 2, LHR, l’utilisation systématique du numéro AVS, conformément à l’art. 134<sup>ter</sup> du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants (RAVS)[^18-1], à la Centrale de compensation (CdC).
 
 [^18-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
@@ -262,7 +266,7 @@ Le service compétent au sens de l’art. 9 LHR annonce collectivement, pour tou
 
 **Première mise à jour complète des registres au sein du canton**
 
-<sup>1</sup> Le service compétent au sens de l’art. 9 LHR s’assure que tous les services au sein du canton qui tiennent les registres visés à l’art. 2, al. 2, LHR demandent la première attribution globale et la communication du numéro d’assuré AVS.
+<sup>1</sup> Le service compétent au sens de l’art. 9 LHR s’assure que tous les services au sein du canton qui tiennent les registres visés à l’art. 2, al. 2, LHR demandent la première attribution globale et la communication du numéro AVS.
 
 <sup>2</sup> La procédure pour l’attribution et la communication du numéro est faite selon les art. 133<sup>bis</sup> et 134<sup>quater</sup> du RAVS[^19-1].
 
@@ -270,7 +274,7 @@ Le service compétent au sens de l’art. 9 LHR annonce collectivement, pour tou
 
 <sup>4</sup> D’entente avec les services compétents au sens de l’art. 9 LHR, l’OFS fixe comment, à partir de quelle date et par rapport à quel jour de référence les données cantonales nécessaires à l’attribution et à la communication peuvent être livrées à la CdC.
 
-<sup>5</sup> La CdC transmet le numéro d’assuré aux services qui tiennent les registres et leur redonne les informations qu’ils avaient livrées en vue de l’attribution ou de la communication. Elle fournit de plus les données personnelles officielles provenant des systèmes d’information Infostar et SYMIC.
+<sup>5</sup> La CdC transmet le numéro AVS aux services qui tiennent les registres et leur redonne les informations qu’ils avaient livrées en vue de l’attribution ou de la communication. Elle fournit de plus les données personnelles officielles provenant des systèmes d’information Infostar et SYMIC.
 
 [^19-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
@@ -278,7 +282,7 @@ Le service compétent au sens de l’art. 9 LHR annonce collectivement, pour tou
 
 **Communication au sein du canton**
 
-<sup>1</sup> Les services qui tiennent les registres visés à l’art. 2, al. 2, LHR peuvent communiquer le numéro d’assuré aux services et institutions qui sont autorisés en vertu de lois fédérales ou cantonales à utiliser systématiquement le numéro d’assuré pour accomplir leurs tâches légales.
+<sup>1</sup> Les services qui tiennent les registres visés à l’art. 2, al. 2, LHR peuvent communiquer le numéro AVS aux services et institutions qui sont autorisés en vertu de lois fédérales ou cantonales à utiliser systématiquement le numéro AVS pour accomplir leurs tâches légales.
 
 <sup>2</sup> Dans ce cas, la perception d’émoluments relève du droit cantonal.
 
@@ -286,7 +290,7 @@ Le service compétent au sens de l’art. 9 LHR annonce collectivement, pour tou
 
 **Mise à jour des registres fédéraux**
 
-<sup>1</sup> La première attribution globale et la communication du numéro d’assuré aux registres visés à l’art. 2, al. 1, LHR sont réglées par les art. 133<sup>bis</sup> et 134<sup>quater</sup> du RAVS[^21-1].
+<sup>1</sup> La première attribution globale et la communication du numéro AVS aux registres visés à l’art. 2, al. 1, LHR sont réglées par les art. 133<sup>bis</sup> et 134<sup>quater</sup> du RAVS[^21-1].
 
 <sup>2</sup> L’OFS coordonne la communication d’entente avec la CdC et les services chargés de tenir ces registres.
 
@@ -296,9 +300,9 @@ Le service compétent au sens de l’art. 9 LHR annonce collectivement, pour tou
 
 #### Art. 22
 
-**Mise à jour du numéro d’assuré AVS**
+**Mise à jour du numéro AVS**
 
-Les registres tiennent le numéro d’assuré AVS à jour.
+Les registres tiennent le numéro AVS à jour.
 
 ## Section 6 Services cantonaux
 
@@ -348,7 +352,7 @@ L’OFS utilise le répertoire d’adresses uniquement à des fins statistiques,
 
 **Délais**
 
-<sup>1</sup> L’harmonisation des registres et l’inscription du numéro d’assuré AVS dans les registres visés à l’art. 2 LHR sont achevées au plus tard le 15 janvier 2010.
+<sup>1</sup> L’harmonisation des registres et l’inscription du numéro AVS dans les registres visés à l’art. 2 LHR sont achevées au plus tard le 15 janvier 2010.
 
 <sup>2</sup> L’EGID est géré dans tous les registres des habitants au plus tard à partir du 15 janvier 2010, l’EWID au plus tard à partir du 31 décembre 2012.
 
@@ -378,7 +382,7 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2008.
 
 Annexe
 
-(Art. 30)
+(art. 30)
 
 ## Modification du droit en vigueur
 

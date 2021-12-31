@@ -4,11 +4,11 @@ title: Registerharmonisierungsverordnung vom 21. November 2007 (RHV)
 short: RHV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/868"
 language: de
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2007-11-21
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/868/20170101/de/xml/fedlex-data-admin-ch-eli-cc-2007-868-20170101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/868/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-868-20220101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20170101/de"
 
 (RHV)
 
-vom 21. November 2007 (Stand am 1. Januar 2017)
+vom 21. November 2007 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -43,7 +43,9 @@ Diese Verordnung regelt im Rahmen der Registerharmonisierung:
 
 <sup>2</sup> Sie regelt überdies die zentrale Informatik- und Kommunikationsplattform des Bundes (Sedex).
 
-<sup>3</sup> Sie enthält ergänzende Bestimmungen über die AHV-Versichertennummer.
+<sup>3</sup> Sie enthält ergänzende Bestimmungen über die AHV-Nummer[^1-1].
+
+[^1-1]: Ausdruck gemäss Anhang Ziff. II 14 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 2
 
@@ -250,13 +252,13 @@ Das Bundesamt für Informatik und Telekommunikation erteilt für jede dieser Ste
 [^17-1]: Fassung gemäss Anhang Ziff. II 7 der V vom 23. Nov. 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 [^17-2]: Aufgehoben durch Anhang Ziff. II 7 der V vom 23. Nov. 2016 über die elektronische Signatur, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 
-## 5. Abschnitt: AHV-Versichertennummer
+## 5. Abschnitt: AHV-Nummer
 
 #### Art. 18
 
-**Meldung der systematischen Verwendung der AHV-Versichertennummer an die ZAS**
+**Meldung der systematischen Verwendung der AHV-Nummer an die ZAS**
 
-Die Amtsstelle nach Artikel 9 RHG meldet der Zentralen Ausgleichsstelle der AHV (ZAS) die systematische Verwendung der AHV-Versichertennummer nach Artikel 134<sup>ter</sup> der Verordnung vom 31. Oktober 1947[^18-1] über die Alters- und Hinterlassenenversicherung (AHVV) für alle im Kanton registerführenden Stellen nach Artikel 2 Absatz 2 RHG als Sammelmeldung.
+Die Amtsstelle nach Artikel 9 RHG meldet der Zentralen Ausgleichsstelle der AHV (ZAS) die systematische Verwendung der AHV-Nummer nach Artikel 134<sup>ter</sup> der Verordnung vom 31. Oktober 1947[^18-1] über die Alters- und Hinterlassenenversicherung (AHVV) für alle im Kanton registerführenden Stellen nach Artikel 2 Absatz 2 RHG als Sammelmeldung.
 
 [^18-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
@@ -264,7 +266,7 @@ Die Amtsstelle nach Artikel 9 RHG meldet der Zentralen Ausgleichsstelle der AHV 
 
 **Aufdatierung der Register im Kanton**
 
-<sup>1</sup> Die Amtsstelle nach Artikel 9 RHG stellt sicher, dass alle im Kanton registerführenden Stellen nach Artikel 2 Absatz 2 RHG die erstmalige und umfassende Zuweisung und Bekanntgabe der AHV-Versichertennummer verlangen.
+<sup>1</sup> Die Amtsstelle nach Artikel 9 RHG stellt sicher, dass alle im Kanton registerführenden Stellen nach Artikel 2 Absatz 2 RHG die erstmalige und umfassende Zuweisung und Bekanntgabe der AHV-Nummer verlangen.
 
 <sup>2</sup> Das Verfahren für die Zuweisung und Bekanntgabe der Nummer richtet sich nach den Artikeln 133<sup>bis</sup> und 134<sup>quater</sup> AHVV[^19-1].
 
@@ -280,7 +282,7 @@ Die Amtsstelle nach Artikel 9 RHG meldet der Zentralen Ausgleichsstelle der AHV 
 
 **Bekanntgabe innerhalb eines Kantons**
 
-<sup>1</sup> Die registerführenden Stellen nach Artikel 2 Absatz 2 RHG können die AHV-Versichertennummer denjenigen Stellen und Institutionen bekannt geben, die aufgrund eidgenössischer oder kantonaler Gesetze berechtigt sind, die Nummer zur Erfüllung ihrer gesetzlichen Aufgaben systematisch zu verwenden.
+<sup>1</sup> Die registerführenden Stellen nach Artikel 2 Absatz 2 RHG können die AHV-Nummer denjenigen Stellen und Institutionen bekannt geben, die aufgrund eidgenössischer oder kantonaler Gesetze berechtigt sind, die Nummer zur Erfüllung ihrer gesetzlichen Aufgaben systematisch zu verwenden.
 
 <sup>2</sup> Die Erhebung von Gebühren richtet sich nach kantonalem Recht.
 
@@ -288,7 +290,7 @@ Die Amtsstelle nach Artikel 9 RHG meldet der Zentralen Ausgleichsstelle der AHV 
 
 **Aufdatierung der eidgenössischen Register**
 
-<sup>1</sup> Die erstmalige und umfassende Zuweisung und Bekanntgabe der AHV-Versichertennummer an die Register nach Artikel 2 Absatz 1 RHG richtet sich nach den Artikeln 133<sup>bis</sup> und 134<sup>quater</sup> AHVV[^21-1].
+<sup>1</sup> Die erstmalige und umfassende Zuweisung und Bekanntgabe der AHV-Nummer an die Register nach Artikel 2 Absatz 1 RHG richtet sich nach den Artikeln 133<sup>bis</sup> und 134<sup>quater</sup> AHVV[^21-1].
 
 <sup>2</sup> Das BFS koordiniert die Bekanntgabe in Absprache mit der ZAS und den registerführenden Stellen.
 
@@ -298,9 +300,9 @@ Die Amtsstelle nach Artikel 9 RHG meldet der Zentralen Ausgleichsstelle der AHV 
 
 #### Art. 22
 
-**Nachführung der AHV-Versichertennummer**
+**Nachführung der AHV-Nummer**
 
-Die registerführenden Stellen führen die AHV-Versichertennummer laufend nach.
+Die registerführenden Stellen führen die AHV-Nummer laufend nach.
 
 ## 6. Abschnitt: Kantonale Amtsstelle
 
@@ -350,7 +352,7 @@ Das BFS verwendet das Adressverzeichnis ausschliesslich für Zwecke der Statisti
 
 **Fristen**
 
-<sup>1</sup> Die Harmonisierung der Register und die Aufnahme der AHV-Versichertennummer in die Register nach Artikel 2 RHG ist spätestens am 15. Januar 2010 abgeschlossen.
+<sup>1</sup> Die Harmonisierung der Register und die Aufnahme der AHV-Nummer in die Register nach Artikel 2 RHG ist spätestens am 15. Januar 2010 abgeschlossen.
 
 <sup>2</sup> Der EGID wird spätestens ab 15. Januar 2010, der EWID spätestens ab 31. Dezember 2012 in allen Einwohnerregistern geführt.
 
