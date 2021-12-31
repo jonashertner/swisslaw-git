@@ -4,13 +4,13 @@ number: "412.0.11"
 title: Reglement über den Mittelschulunterricht
 short: MSR
 language: de
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2021-05-26
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2022-01-31
 adopted: 2021-05-26
 in_force: 2021-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.0.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6840/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7113/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Mittelschulunterricht – R
 
 (MSR)
 
-vom 26.05.2021 (Fassung in Kraft getreten am 01.08.2021)
+vom 26.05.2021 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -776,7 +776,7 @@ beschliesst:
 
 <sup>2</sup> Weitere personenbezogene Schülerdaten dürfen, mit Zustimmung der EKSD, für statistische Zwecke und wissenschaftliche Studien bearbeitet werden. Diese Daten werden anonymisiert.
 
-<sup>3</sup> Der Datenkatalog wird der kantonalen Behörde für Öffentlichkeit und Datenschutz zur Genehmigung vorgelegt.
+<sup>3</sup> Der Datenkatalog wird der kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation zur Genehmigung vorgelegt.
 
 #### Art. 69
 

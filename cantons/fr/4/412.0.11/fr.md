@@ -4,13 +4,13 @@ number: "412.0.11"
 title: "Règlement sur l'enseignement secondaire supérieur"
 short: RESS
 language: fr
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2021-05-26
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2022-01-31
 adopted: 2021-05-26
 in_force: 2021-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.0.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6840/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7113/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Enseignement secondaire supérieur – R
 
 (RESS)
 
-du 26.05.2021 (version entrée en vigueur le 01.08.2021)
+du 26.05.2021 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -776,7 +776,7 @@ Arrête:
 
 <sup>2</sup> D'autres données personnelles des élèves peuvent être traitées, avec l'accord de la DICS, à des fins statistiques ou de recherches scientifiques. Ces données sont rendues anonymes.
 
-<sup>3</sup> Le catalogue des données est soumis pour ratification à l'Autorité cantonale de la transparence et de la protection des données.
+<sup>3</sup> Le catalogue des données est soumis pour ratification à l'Autorité cantonale de la transparence, de la protection des données et de la médiation.
 
 #### Art. 69
 
