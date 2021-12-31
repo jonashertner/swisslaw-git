@@ -4,11 +4,11 @@ title: "Ordinanza del 18 novembre 2015 concernente l'importazione, il transito e
 short: OITE-UE
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/846"
 language: it
-version: 2020-03-01
+version: 2022-01-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/846/20200301/it/xml/fedlex-data-admin-ch-eli-cc-2015-846-20200301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/846/20200301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/846/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2015-846-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/846/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/846/20200301/it"
 
 (OITE-UE)
 
-del 18 novembre 2015 (Stato 1° marzo 2020) (Stato 1° marzo 2020)
+del 18 novembre 2015 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -107,9 +107,9 @@ Nella presente ordinanza si intende per:
 
 - e. *certificato sanitario:* documento che attesta la provenienza di una partita e l’ottemperanza ai requisiti di polizia sanitaria, di protezione degli animali e di igiene delle derrate alimentari;
 - f.[^4-4] *«Trade Control and Expert System» (TRACES):* un sistema integrato nel sistema di trattamento delle informazioni per i controlli ufficiali dell’UE secondo gli articoli 131–136 del regolamento (UE) 2017/625[^4-5];
-- f<sup>bis</sup>.[^4-6] *sistema «e-dec»:* sistema elettronico di elaborazione dei dati fornito dall’Amministrazione federale delle dogane (AFD) per la dichiarazione doganale in virtù dell’articolo 28 capoverso 2 della legge del 18 marzo 2005[^4-7] sulle dogane (LD);
-- g.[^4-8] *partita:* un numero di animali o una quantità di prodotti animali della stessa specie o classe o con la stessa descrizione, per i quali vale lo stesso certificato sanitario o lo stesso altro documento di accompagnamento, trasportati con lo stesso mezzo di trasporto, provenienti dallo stesso luogo di provenienza, destinati alla stessa azienda di destinazione;
-- h. *importazione:* trasferimento permanente o temporaneo di animali e prodotti animali nel territorio di importazione, eccetto il trasporto destinato al transito di cui all’articolo 6 lettera i della legge del 18 marzo 2005[^4-9] sulle dogane (LD);
+- f<sup>bis</sup>.[^4-6] *sistema «e-dec»:* sistema elettronico di elaborazione dei dati fornito dall’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^4-7] per la dichiarazione doganale in virtù dell’articolo 28 capoverso 2 della legge del 18 marzo 2005[^4-8] sulle dogane (LD);
+- g.[^4-9] *partita:* un numero di animali o una quantità di prodotti animali della stessa specie o classe o con la stessa descrizione, per i quali vale lo stesso certificato sanitario o lo stesso altro documento di accompagnamento, trasportati con lo stesso mezzo di trasporto, provenienti dallo stesso luogo di provenienza, destinati alla stessa azienda di destinazione;
+- h. *importazione:* trasferimento permanente o temporaneo di animali e prodotti animali nel territorio di importazione, eccetto il trasporto destinato al transito di cui all’articolo 6 lettera i della legge del 18 marzo 2005[^4-10] sulle dogane (LD);
 - i. *importatore:* persona fisica o giuridica responsabile dell’importazione e designata come tale nel certificato sanitario o nel documento commerciale;
 - j. *persona soggetta all’obbligo di dichiarazione*: la persona di cui allʼarticolo 26 LD;
 - k. *impresa che presta servizi di sdoganamento:* impresa che, su incarico degli esercenti di aeroporti, garantisce il collegamento tra le compagnie aeree e le imprese di spedizione (handling agent);
@@ -122,9 +122,10 @@ Nella presente ordinanza si intende per:
 [^4-4]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
 [^4-5]: Regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio, del 15 marzo 2017, relativo ai controlli ufficiali e alle altre attività ufficiali effettuati per garantire l’applicazione della legislazione sugli alimenti e sui mangimi, delle norme sulla salute e sul benessere degli animali, sulla sanità delle piante nonché sui prodotti fitosanitari, recante modifica dei regolamenti (CE) n. 999/2001, (CE) n. 396/2005, (CE) n. 1069/2009, (CE) n. 1107/2009, (UE) n. 1151/2012, (UE) n. 652/2014, (UE) 2016/429 e (UE) 2016/2031 del Parlamento europeo e del Consiglio, dei regolamenti (CE) n. 1/2005 e (CE) n. 1099/2009 del Consiglio e delle direttive 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE e 2008/120/CE del Consiglio, e che abroga i regolamenti (CE) n. 854/2004 e (CE) n. 882/2004 del Parlamento europeo e del Consiglio, le direttive 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE e 97/78/CE del Consiglio e la decisione 92/438/CEE del Consiglio (regolamento sui controlli ufficiali), GU L 95 del 7.4.2017, p. 1; modificato da ultimo dal regolamento delegato (UE) 2019/478, GU L 82 del 25.3.2019, p. 4.
 [^4-6]: Introdotta dal n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1671](https://fedlex.data.admin.ch/eli/oc/2017/173)).
-[^4-7]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^4-8]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
-[^4-9]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-7]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^4-8]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-9]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
+[^4-10]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 ## Sezione 2: Importazione
 
@@ -528,9 +529,9 @@ Il pascolo transfrontaliero per l’estivazione, lo svernamento e il pascolo gio
 
 <sup>1</sup> In caso di partite importate di animali a unghia fessa, gallinacei, palmipedi e struzioniformi notificate al momento della dichiarazione doganale tramite il sistema «e‑dec» viene effettuato un confronto elettronico con i dati contenuti in TRACES e nel sistema informatico OITE (art. 42*a*). Con il confronto dei dati si verifica se esistono il certificato sanitario oppure l’autorizzazione richiesti.
 
-<sup>2</sup> In caso di partite di animali a unghia fessa, gallinacei, palmipedi e struzioniformi non notificate tramite il sistema «e—dec», l’AFD controlla in funzione dei rischi se sono provviste dei certificati sanitari o dalle autorizzazioni richiesti.[^34-2]
+<sup>2</sup> In caso di partite di animali a unghia fessa, gallinacei, palmipedi e struzioniformi non notificate tramite il sistema «e—dec», l’UDSC controlla in funzione dei rischi se sono provviste dei certificati sanitari o dalle autorizzazioni richiesti.[^34-2]
 
-<sup>3</sup> Nelle restanti partite importate e in transito, l’AFD può controllare a campione se sono provviste dei documenti di accompagnamento necessari.[^34-3]
+<sup>3</sup> Nelle restanti partite importate e in transito, l’UDSC può controllare a campione se sono provviste dei documenti di accompagnamento necessari.[^34-3]
 
 [^34-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1671](https://fedlex.data.admin.ch/eli/oc/2017/173)).
 [^34-2]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
@@ -555,11 +556,11 @@ Si effettua una sorveglianza veterinaria ufficiale basata sui rischi per:
 
 #### Art. 36
 
-**Misure dell’AFD in caso di importazione, transito ed esportazione illegali**
+**Misure dell’UDSC in caso di importazione, transito ed esportazione illegali**
 
-<sup>1</sup> Se l’AFD constata che vi sono animali o prodotti animali che non soddisfano le condizioni di importazione, transito o esportazione, lo comunica all’autorità competente del Cantone sul cui territorio è avvenuto il controllo.
+<sup>1</sup> Se l’UDSC constata che vi sono animali o prodotti animali che non soddisfano le condizioni di importazione, transito o esportazione, lo comunica all’autorità competente del Cantone sul cui territorio è avvenuto il controllo.
 
-<sup>2</sup> L’AFD fornisce, su richiesta, all’autorità cantonale competente informazioni riguardo a tutti i fatti importanti e le consente di esaminare gli atti.
+<sup>2</sup> L’UDSC fornisce, su richiesta, all’autorità cantonale competente informazioni riguardo a tutti i fatti importanti e le consente di esaminare gli atti.
 
 #### Art. 36a
 
@@ -575,7 +576,7 @@ Se dall’esame secondo l’articolo 34 capoverso 1 emerge che non esistono il c
 
 <sup>1</sup> Se gli animali e i prodotti animali non soddisfano le condizioni per l’importazione, il transito o l’esportazione, l’autorità cantonale competente adotta le misure necessarie per proteggere la salute dell’uomo e dell’animale.
 
-<sup>2</sup> Se privati o organi diversi dall’AFD notificano animali o prodotti animali importati o fatti transitare all’interno del territorio d’importazione illegalmente, l’autorità cantonale competente ne informa l’AFD.
+<sup>2</sup> Se privati o organi diversi dall’UDSC notificano animali o prodotti animali importati o fatti transitare all’interno del territorio d’importazione illegalmente, l’autorità cantonale competente ne informa l’UDSC.
 
 <sup>3</sup> L’autorità può decidere in particolare il respingimento e il sequestro degli animali o dei prodotti animali o l’abbattimento degli animali. L’autorità che ha ordinato un sequestro di animali ricovera gli animali sequestrati in un luogo da essa designato, a spese e a rischio dell’autore dell’infrazione.
 
@@ -590,7 +591,7 @@ Se dall’esame secondo l’articolo 34 capoverso 1 emerge che non esistono il c
 Devono essere registrate in TRACES le seguenti autorità e persone:
 
 - a. l’USAV;
-- b. l’AFD;
+- b. l’UDSC;
 - c. gli uffici dei veterinari cantonali;
 - d. gli uffici dei chimici cantonali;
 - e. i veterinari ufficiali designati dai veterinari cantonali;
@@ -614,7 +615,7 @@ Le autorità e le persone registrate hanno accesso a TRACES nella misura in cui 
 
 <sup>2</sup> Le autorità e le persone registrate devono frequentare periodicamente i corsi di aggiornamento.
 
-<sup>3</sup> L’USAV organizza il corso base e i corsi di aggiornamento per l’AFD e i responsabili TRACES degli uffici cantonali. La frequentazione di questi corsi è gratuita.
+<sup>3</sup> L’USAV organizza il corso base e i corsi di aggiornamento per l’UDSC e i responsabili TRACES degli uffici cantonali. La frequentazione di questi corsi è gratuita.
 
 <sup>4</sup> I responsabili TRACES degli uffici cantonali organizzano il corso base e i corsi di aggiornamento per i veterinari ufficiali e gli ispettori cantonali delle derrate alimentari che nell’ambito della loro attività utilizzano TRACES.
 
@@ -712,9 +713,9 @@ Il veterinario cantonale o il chimico cantonale notifica all’autorità compete
 
 **Perseguimento penale**
 
-<sup>1</sup> In caso di importazione o transito illegali l’autorità cantonale competente per il perseguimento penale promuove un’azione penale. Se simultaneamente è commessa un’infrazione alla LD[^48-1] o alla legge del 12 giugno 2009[^48-2] sull’IVA, è l’AFD a promuovere un’azione penale.
+<sup>1</sup> In caso di importazione o transito illegali l’autorità cantonale competente per il perseguimento penale promuove un’azione penale. Se simultaneamente è commessa un’infrazione alla LD[^48-1] o alla legge del 12 giugno 2009[^48-2] sull’IVA, è l’UDSC a promuovere un’azione penale.
 
-<sup>2</sup> Su richiesta dell’autorità cantonale competente per il perseguimento penale, l’AFD notifica ed esegue i decreti penali e le decisioni penali per infrazioni che sono state oggetto di un’inchiesta da parte di quest’ultima.
+<sup>2</sup> Su richiesta dell’autorità cantonale competente per il perseguimento penale, l’UDSC notifica ed esegue i decreti penali e le decisioni penali per infrazioni che sono state oggetto di un’inchiesta da parte di quest’ultimo.
 
 <sup>3</sup> In caso di esportazione illegale l’autorità cantonale competente per il perseguimento penale promuove un’azione penale.
 
@@ -732,7 +733,7 @@ Il veterinario cantonale o il chimico cantonale notifica all’autorità compete
 
 <sup>1</sup> Salvo diversa disposizione della presente ordinanza, l’esecuzione compete ai Cantoni.
 
-<sup>2</sup> L’AFD esegue la presente ordinanza al confine doganale.
+<sup>2</sup> L’UDSC esegue la presente ordinanza al confine doganale.
 
 <sup>3</sup> L’USAV emana le direttive tecniche necessarie per un’esecuzione adeguata e uniforme.
 
