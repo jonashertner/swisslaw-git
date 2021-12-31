@@ -3,18 +3,18 @@ sr: "832.102.14"
 title: Verordnung des EDI vom 20. November 2012 über die Datensätze für die Datenweitergabe zwischen Leistungserbringern und Versicherern
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/867"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2012-11-20
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/867/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2012-867-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/867/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/867/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2012-867-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/867/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über die Datensätze für die Datenweitergabe zwischen Leistungserbringern und Versicherern
 
-vom 20. November 2012 (Stand am 1. Januar 2020)
+vom 20. November 2012 (Stand am 1. Januar 2022)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -38,7 +38,7 @@ Anhang*[^t-1]*
 
 ## Gesamtschweizerisch einheitliche Struktur der Datensätze
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des EDI vom 25. Okt. 2017 ([AS 2017 6341](https://fedlex.data.admin.ch/eli/oc/2017/704)), gemäss Beilage der V des EDI vom 30. Nov. 2018 ([AS 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), Ziff. III der V vom 6. Juni 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)) und Ziff. I der V des EDI vom 6. Dez. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4381](https://fedlex.data.admin.ch/eli/oc/2019/755)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des EDI vom 25. Okt. 2017 ([AS 2017 6341](https://fedlex.data.admin.ch/eli/oc/2017/704)), gemäss Beilage der V des EDI vom 30. Nov. 2018 ([AS 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), Ziff. III der V vom 6. Juni 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), Ziff. I der V des EDI vom 6. Dez. 2019 ([AS 2019 4381](https://fedlex.data.admin.ch/eli/oc/2019/755)) und vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 839](https://fedlex.data.admin.ch/eli/oc/2021/839)).
 
 ### 1 Allgemeines
 
@@ -81,13 +81,13 @@ Anhang*[^t-1]*
 <tr><td>Geburtsdatum</td><td>1.1.V02</td><td>Datumsangabe</td></tr>
 <tr><td>Alter bei Eintritt</td><td>1.1.V03</td><td>Exaktes Alter</td></tr>
 <tr><td>Eintrittsdatum und -stunde</td><td>1.2.V01</td><td></td></tr>
-<tr><td>Aufenthaltsort vor dem Eintritt</td><td>1.2.V02</td><td>1 = zuhause 2 = zuhause mit Spitex-Versorgung 3 = Krankenheim, Pflegeheim 4 = Altersheim, andere sozial-medizinische Institution 5 = psychiatrische Klinik 6 = anderes Krankenhaus (Akutspital) oder Geburtshaus 8 = andere 9 = unbekannt</td></tr>
+<tr><td>Aufenthaltsort vor dem Eintritt</td><td>1.2.V02</td><td>1 = zuhause 2 = zuhause mit Spitex-Versorgung 3 = Krankenheim, Pflegeheim 4 = Altersheim, andere sozial-medizinische Institution 5 = psychiatrische Klinik, anderer Betrieb 55 = psychiatrische Abteilung/Klinik, gleicher Betrieb 6 = anderes Krankenhaus (Akutspital) oder Geburtshaus 66 = Akutabteilung/-klinik, gleicher Betrieb 7 = Strafvollzugsanstalt 8 = andere 83 = Rehabilitationsklinik, anderer Betrieb 84 = Rehabilitationsabteilung/-klinik, gleicher Betrieb 9 = unbekannt</td></tr>
 <tr><td>Eintrittsart</td><td>1.2.V03</td><td>1 = Notfall (Behandlung innerhalb von 12 Stunden unabdingbar) 2 = angemeldet, geplant 3 = Geburt (Kind in dieser Klinik geboren) 4 = interner Übertritt 5 = Verlegung innerhalb 24 Std. 8 = andere 9 = unbekannt</td></tr>
 <tr><td>Administrativer Urlaub und Ferien</td><td>1.3.V04</td><td>vollendete Stunden</td></tr>
 <tr><td>Hauptkostenstelle</td><td>1.4.V01</td><td>M000 = Fachgebiete (allgemein) M050 = Intensivmedizin M100 = Innere Medizin M200 = Chirurgie M300 = Gynäkologie und Geburtshilfe M400 = Pädiatrie M500 = Psychiatrie und Psychotherapie M600 = Ophthalmologie M700 = Oto-Rhino-Laryngologie M800 = Dermatologie und Venereologie M850 = Medizinische Radiologie M900 = Geriatrie M950 = Physikalische Medizin und Rehabilitation M960 = Notfallzentrum M970 = Ärztenotfallpraxis M990 = Anderer Tätigkeitsbereich</td></tr>
 <tr><td>Austrittsdatum und -Stunde</td><td>1.5.V01</td><td></td></tr>
 <tr><td>Entscheid für Austritt</td><td>1.5.V02</td><td>1 = auf Initiative der behandelnden Person 2 = auf Initiative des Patienten/der Patientin (gegen Ansicht der behandelnden Person) 3 = auf Initiative einer Drittperson 4 = interner Übertritt 5 = gestorben 8 = anderes 9 = unbekannt</td></tr>
-<tr><td>Aufenthalt nach Austritt</td><td>1.5.V03</td><td>1 = zuhause 2 = Krankenheim, Pflegeheim 3 = Altersheim, andere sozial-medizinische Institution 4 = psychiatrische Klinik 5 = Rehabilitationsklinik 6 = anderes Krankenhaus (Akutspital) oder Geburtshaus 8 = andere 9 = unbekannt 0 = Todesfall</td></tr>
+<tr><td>Aufenthalt nach Austritt</td><td>1.5.V03</td><td>1 = zuhause 2 = Krankenheim, Pflegeheim 3 = Altersheim, andere sozial-medizinische Institution 4 = psychiatrische Klinik, anderer Betrieb 44 = psychiatrische Abteilung/Klinik, gleicher Betrieb 5 = Rehabilitationsklinik, anderer Betrieb [tab] 55 = Rehabilitationsabteilung/-klinik, gleicher Betrieb 6 = anderes Krankenhaus (Akutspital) oder Geburtshaus 66 = Akutabteilung/-klinik, gleicher Betrieb 7 = Strafvollzugsanstalt 8 = andere 9 = unbekannt 0 = Todesfall</td></tr>
 <tr><td>1. Zwischenaustritt</td><td>4.7.V01</td><td>Datum (ohne Stunde)</td></tr>
 <tr><td>1. Wiedereintritt</td><td>4.7.V02</td><td>Datum (ohne Stunde)</td></tr>
 <tr><td>2. bis 4. Zwischenaustritt</td><td>4.7.V11, 4.7.V21 bzw. 4.7.V31</td><td>Datum (ohne Stunde)</td></tr>
@@ -99,6 +99,7 @@ Anhang*[^t-1]*
 <tr><td>Aufenthaltsort nach dem 3. Zwischenaustritt</td><td>4.8.V19</td><td>1 = zuhause 2 = Krankenheim, Pflegeheim 3 = Altersheim, andere sozialmedizinische Institution 4 = psychiatrische Klinik, in einem anderen Betrieb 44 = psychiatrische Abteilung/Klinik, im gleichen Betrieb 5 = Rehabilitationsklinik, in einem anderen Betrieb 55 = Rehabilitationsabteilung/-klinik, im gleichen Betrieb 6 = anderes Krankenhaus (Akutspital) oder Geburtshaus 66 = Akutabteilung/-klinik, im gleichen Betrieb 7 = Strafvollzugsanstalt 8 = andere 9 = unbekannt 0 = Todesfall</td></tr>
 <tr><td>Aufenthaltsort nach dem 4. Zwischenaustritt</td><td>4.8.V20</td><td>1 = zuhause 2 = Krankenheim, Pflegeheim 3 = Altersheim, andere sozialmedizinische Institution 4 = psychiatrische Klinik, in einem anderen Betrieb 44 = psychiatrische Abteilung/Klinik, im gleichen Betrieb 5 = Rehabilitationsklinik, in einem anderen Betrieb 55 = Rehabilitationsabteilung/ -klinik, im gleichen Betrieb 6 = anderes Krankenhaus (Akutspital) oder Geburtshaus 66 = Akutabteilung/-klinik, im gleichen Betrieb 7 = Strafvollzugsanstalt 8 = andere 9 = unbekannt 0 = Todesfall</td></tr>
 <tr><td>Einweisende Instanz</td><td>1.2.V04</td><td>1 = selbst, Angehörige 2 = Rettungsdienst (Ambulanz, Polizei) 3 = Arzt 4 = nichtmedizinische/r Therapeut/in 8 = andere 9 = unbekannt</td></tr>
+<tr><td></td><td></td><td>[tab]</td></tr>
 <tr><td>Behandlungsart</td><td>1.3.V01</td><td>1 = ambulant 3 = stationär 9 = unbekannt</td></tr>
 <tr><td>Klasse</td><td>1.3.V02</td><td>1 = allgemein 2 = halbprivat 3 = privat 9 = unbekannt</td></tr>
 <tr><td>Geburtsdatum der Mutter</td><td>2.3.V01</td><td>Datumsangabe (Jahr und Monat)</td></tr>
