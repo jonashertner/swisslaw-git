@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. Juni 2015 über das elektronische Patientendossier (
 short: EPDG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/203"
 language: de
-version: 2020-04-15
+version: 2022-01-01
 adopted: 2015-06-19
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/203/20200415/de/xml/fedlex-data-admin-ch-eli-cc-2017-203-20200415-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/203/20200415/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/203/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-203-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/203/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/203/20200415/de"
 
 (EPDG)
 
-vom 19. Juni 2015 (Stand am 15. April 2020)
+vom 19. Juni 2015 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -76,13 +76,14 @@ In diesem Gesetz gelten als:
 
 <sup>2</sup> Die Patientenidentifikationsnummer wird in der Identifikationsdatenbank der zentralen Ausgleichsstelle gespeichert.
 
-<sup>3</sup> Die zentrale Ausgleichsstelle darf zur Qualitätssicherung die Patientenidentifikationsnummer mit der Versichertennummer nach Artikel 50*c* AHVG verknüpfen.
+<sup>3</sup> Die zentrale Ausgleichsstelle darf zur Qualitätssicherung die Patientenidentifikationsnummer mit der AHV-Nummer[^4-2] nach Artikel 50*c* AHVG verknüpfen.
 
 <sup>4</sup> Sie kann für den Aufwand, der ihr im Zusammenhang mit der Vergabe und der Verifizierung der Patientenidentifikationsnummer entsteht, Gebühren erheben.
 
 <sup>5</sup> Der Bundesrat bestimmt die technischen und organisatorischen Massnahmen zur sicheren Ausgabe und Nutzung der Patientenidentifikationsnummer.
 
 [^4-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^4-2]: Ausdruck gemäss Anhang Ziff. 25 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 5
 
@@ -92,7 +93,7 @@ In diesem Gesetz gelten als:
 
 <sup>2</sup>
 
-Sie können die Versichertennummer nach Artikel 50*c* AHVG[^5-1] verwenden für:
+Sie können die AHV-Nummer nach Artikel 50*c* AHVG[^5-1] verwenden für:
 
 - a. die Abfrage der Patientenidentifikationsnummer bei der zentralen Ausgleichsstelle;
 - b. die korrekte Zuordnung der Patientenidentifikationsnummer.
@@ -261,7 +262,7 @@ Der Bundesrat kann internationale Vereinbarungen abschliessen über die Teilnahm
 
 <sup>4</sup> Der Bundesrat setzt die Gebühren fest und regelt den Umfang und die Modalitäten der Entschädigung.
 
-## 7. Abschnitt: …
+## 7. Abschnitt: ...
 
 #### Art. 20–23
 
@@ -281,7 +282,7 @@ Der Bundesrat kann internationale Vereinbarungen abschliessen über die Teilnahm
 
 **Änderung eines anderen Erlasses**
 
-…[^25-1]
+...[^25-1]
 
 [^25-1]: Die Änderung kann unter [AS 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203)konsultiert werden.
 

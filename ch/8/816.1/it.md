@@ -4,11 +4,11 @@ title: Legge federale del 19 giugno 2015 sulla cartella informatizzata del pazie
 short: LCIP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/203"
 language: it
-version: 2020-04-15
+version: 2022-01-01
 adopted: 2015-06-19
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/203/20200415/it/xml/fedlex-data-admin-ch-eli-cc-2017-203-20200415-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/203/20200415/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/203/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-203-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/203/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/203/20200415/it"
 
 (LCIP)
 
-del 19 giugno 2015 (Stato 15 aprile 2020)
+del 19 giugno 2015 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -76,13 +76,14 @@ Nella presente legge s’intende per:
 
 <sup>2</sup> Il numero d’identificazione del paziente è registrato nella banca dei dati d’identificazione dell’Ufficio centrale di compensazione.
 
-<sup>3</sup> Allo scopo di garantire la qualità, l’Ufficio centrale di compensazione può collegare il numero d’identificazione del paziente al numero d’assicurato di cui all’articolo 50*c* LAVS.
+<sup>3</sup> Allo scopo di garantire la qualità, l’Ufficio centrale di compensazione può collegare il numero d’identificazione del paziente al numero AVS[^4-2] di cui all’articolo 50*c* LAVS.
 
 <sup>4</sup> L’Ufficio centrale di compensazione può riscuotere emolumenti per le spese connesse con l’assegnazione e la verifica del numero d’identificazione del paziente.
 
 <sup>5</sup> Il Consiglio federale definisce le misure tecniche e organizzative per un’emissione e un’utilizzazione sicure del numero d’identificazione del paziente.
 
 [^4-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^4-2]: Nuova espr. giusta l’all. n. 25 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 5
 
@@ -92,7 +93,7 @@ Nella presente legge s’intende per:
 
 <sup>2</sup>
 
-Possono utilizzare il numero d’assicurato di cui all’articolo 50*c* LAVS[^5-1] per:
+Possono utilizzare il numero AVS di cui all’articolo 50*c* LAVS[^5-1] per:
 
 - a. domandare all’Ufficio centrale di compensazione un numero d’identificazione del paziente;
 - b. attribuire correttamente il numero d’identificazione del paziente.
@@ -207,7 +208,8 @@ Il Consiglio federale disciplina la procedura di certificazione, segnatamente:
 - c. le condizioni per la revoca della certificazione;
 - d. il riconoscimento di procedure di certificazione disciplinate da altre leggi.
 - [tab] <sup>2</sup> Può prevedere procedure di certificazione per singoli elementi dell’infrastruttura informatica necessari alla costituzione di comunità, comunità di riferimento o portali d’accesso.
-- [tab] **Sezione 6: Compiti della Confederazione**
+
+## Sezione 6: Compiti della Confederazione
 
 #### Art. 14
 

@@ -4,11 +4,11 @@ title: Loi fédérale du 19 juin 2015 sur le dossier électronique du patient (L
 short: LDEP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/203"
 language: fr
-version: 2020-04-15
+version: 2022-01-01
 adopted: 2015-06-19
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/203/20200415/fr/xml/fedlex-data-admin-ch-eli-cc-2017-203-20200415-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/203/20200415/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/203/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-203-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/203/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/203/20200415/fr"
 
 (LDEP)[^t-1]
 
-du 19 juin 2015 (Etat le 15 avril 2020)
+du 19 juin 2015 (État le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -78,13 +78,14 @@ On entend par:
 
 <sup>2</sup> Le numéro d’identification du patient est enregistré dans la banque de données d’identification de la centrale de compensation.
 
-<sup>3</sup> La centrale de compensation peut lier le numéro d’identification du patient au numéro d’assuré au sens de l’art. 50*c* LAVS à des fins d’assurance de la qualité.
+<sup>3</sup> La centrale de compensation peut lier le numéro d’identification du patient au numéro AVS[^4-2] au sens de l’art. 50*c* LAVS à des fins d’assurance de la qualité.
 
 <sup>4</sup> Elle peut percevoir des émoluments pour les frais liés à l’attribution et à la vérification du numéro d’identification du patient.
 
 <sup>5</sup> Le Conseil fédéral détermine les mesures techniques et organisationnelles permettant d’assurer la sécurité de l’émission et de l’utilisation du numéro d’identification du patient.
 
 [^4-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^4-2]: Nouvelle expression selon l’annexe ch. 25 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 5
 
@@ -94,7 +95,7 @@ On entend par:
 
 <sup>2</sup>
 
-Ils peuvent utiliser le numéro d’assuré au sens de l’art. 50*c* LAVS[^5-1] pour:
+Ils peuvent utiliser le numéro AVS au sens de l’art. 50*c* LAVS[^5-1] pour:
 
 - a. demander un numéro d’identification du patient auprès de la centrale de compensation;
 - b. attribuer correctement le numéro d’identification du patient.
@@ -247,7 +248,7 @@ Le Conseil fédéral peut conclure des accords internationaux prévoyant la part
 
 **Évaluation**
 
-<sup>1</sup> Le Département fédéral de l’intérieur veille à ce que que l’adéquation, l’efficacité et l’économicité des mesures adoptées en vertu de la présente loi soient évaluées périodiquement.
+<sup>1</sup> Le Département fédéral de l’intérieur veille à ce que l’adéquation, l’efficacité et l’économicité des mesures adoptées en vertu de la présente loi soient évaluées périodiquement.
 
 <sup>2</sup> À l’issue de l’évaluation, il rend compte des résultats au Conseil fédéral et lui soumet des propositions pour la suite des travaux.
 
