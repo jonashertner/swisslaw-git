@@ -3,18 +3,18 @@ sr: "631.052"
 title: "Ordonnance du 11 février 2009 sur le contrôle du trafic transfrontière de l'argent liquide"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/118"
 language: fr
-version: 2009-03-01
+version: 2022-01-01
 adopted: 2009-02-11
 in_force: 2009-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/118/20090301/fr/xml/fedlex-data-admin-ch-eli-cc-2009-118-20090301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/118/20090301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/118/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-118-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/118/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le contrôle du trafic transfrontière de l’argent liquide
 
-du 11 février 2009 (Etat le 1<sup>er</sup> mars 2009)
+du 11 février 2009 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -22,13 +22,15 @@ vu l’art. 130 de la loi du 18 mars 2005 sur les douanes (LD)[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 1
 
 **Objet**
 
-La présente ordonnance règle le contrôle du trafic transfrontière de l’argent liquide effectué par l’Administration fédérale des douanes (AFD) pour lutter contre le blanchiment d’argent et le financement du terrorisme (art. 95, al. 1<sup>bis</sup>, LD).
+La présente ordonnance règle le contrôle du trafic transfrontière de l’argent liquide effectué par l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^1-1] pour lutter contre le blanchiment d’argent et le financement du terrorisme (art. 95, al. 1<sup>bis</sup>, LD).
+
+[^1-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 2
 
@@ -97,15 +99,15 @@ Les bureaux de douane communiquent à la Direction générale des douanes:
 
 Les communications faites en vertu de l’art. 6 sont saisies dans un domaine spécial du système d’information du Corps des gardes-frontière (annexe A 8 de l’O du 4 avril 2007 sur le traitement des données dans l’AFD[^7-1]).
 
-[^7-1]: [RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
+[^7-1]: [[RO 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258); [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)ch. III 2; [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)art. 10 [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 44 ch. 1 [6233](https://fedlex.data.admin.ch/eli/oc/2009/762)ch. III; [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)annexe ch. 3; [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)annexe ch. II 2 [3835](https://fedlex.data.admin.ch/eli/oc/2013/703); [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)annexe ch. 1; [2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)annexe ch. 2 [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)ch. I 4. [RO 2017 4891](https://fedlex.data.admin.ch/eli/oc/2017/535)art. 17]. Voir maintenat l’O du 23 août 2017 sur le traitement des données dans l’OFDF ([RS 631.061](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7823)).
 
 #### Art. 8
 
 **Assistance administrative**
 
-Dans certains cas, la Direction générale des douanes transmet des données provenant du système d’information ’au Bureau de communication en matière de blanchiment d’argent (art. 23 de la loi du 10 oct. 1997 sur le blanchiment d’argent[^8-1]) et aux autorités de police compétentes.
+Dans certains cas, la Direction générale des douanes transmet des données provenant du système d’information au Bureau de communication en matière de blanchiment d’argent (art. 23 de la loi du 10 oct. 1997 sur le blanchiment d’argent[^8-1]) et aux autorités de police compétentes.
 
-[^8-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^8-1]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 9
 
@@ -117,9 +119,9 @@ La Direction générale des douanes analyse régulièrement le contenu du systè
 
 **Modification du droit en vigueur**
 
-L’annexe A 8 de l’ordonnance du 4 avril 2007 sur le traitement des données dans l’AFD[^10-1] est remplacée par la version ci-jointe.
+...[^10-1]
 
-[^10-1]: [RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535). La mod. a été insérée dans ladite ordonnance.
+[^10-1]: [RS 631.061](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7823). La mod. a été insérée dans ladite ordonnance.
 
 #### Art. 11
 

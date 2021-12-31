@@ -3,18 +3,18 @@ sr: "631.052"
 title: "Ordinanza dell' 11 febbraio 2009 concernente il controllo dei movimenti transfrontalieri di liquidità"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/118"
 language: it
-version: 2009-03-01
+version: 2022-01-01
 adopted: 2009-02-11
 in_force: 2009-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/118/20090301/it/xml/fedlex-data-admin-ch-eli-cc-2009-118-20090301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/118/20090301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/118/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-118-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/118/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente il controllo dei movimenti transfrontalieri di liquidità
 
-dell’11 febbraio 2009 (Stato 1° marzo 2009)
+dell’11 febbraio 2009 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -22,13 +22,15 @@ visto l’articolo 130 della legge del 18 marzo 2005[^ingress-1] sulle dogane (L
 
 ordina:
 
-[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 1
 
 **Oggetto**
 
-La presente ordinanza disciplina il controllo, eseguito dall’Amministrazione federale delle dogane (AFD), dei movimenti transfrontalieri di liquidità allo scopo di lottare contro il riciclaggio di denaro e il finanziamento del terrorismo (art. 95 cpv. 1<sup>bis</sup> LD).
+La presente ordinanza disciplina il controllo, eseguito dall’ Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^1-1], dei movimenti transfrontalieri di liquidità allo scopo di lottare contro il riciclaggio di denaro e il finanziamento del terrorismo (art. 95 cpv. 1<sup>bis</sup> LD).
+
+[^1-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 2
 
@@ -97,7 +99,7 @@ Gli uffici doganali notificano alla Direzione generale delle dogane (DGD):
 
 Le notifiche ai sensi dell’articolo 6 sono registrate in un’area specifica del sistema d’informazione del Corpo delle guardie di confine (allegato A 8 dell’O del 4 aprile 2007[^7-1] sul trattamento dei dati nell’AFD).
 
-[^7-1]: [RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
+[^7-1]: [[RU 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258); [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)n. III 2; [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)art. 10 [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 44 n. 1, [6233](https://fedlex.data.admin.ch/eli/oc/2009/762)III; [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)all. n. 3; [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)all. n. II 2, [3835](https://fedlex.data.admin.ch/eli/oc/2013/703); [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)all. n. 1; [2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)all. n. 2, [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)n. I 4. [RU 2017 4891](https://fedlex.data.admin.ch/eli/oc/2017/535)art. 17]. Vedi ora dell’O del 23 ago. 2017 sul trattamento dei dati nell’UDSC ([RS 631.061](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7823)).
 
 #### Art. 8
 
@@ -105,7 +107,7 @@ Le notifiche ai sensi dell’articolo 6 sono registrate in un’area specifica d
 
 Nel singolo caso la DGD comunica dati estratti dal sistema d’informazione all’Ufficio di comunicazione in materia di riciclaggio di denaro (art. 23 della L del 10 ottobre 1997[^8-1] sul riciclaggio di denaro) come pure alle autorità di polizia competenti.
 
-[^8-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^8-1]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 9
 
@@ -117,9 +119,9 @@ La DGD analizza regolarmente i contenuti del sistema d’informazione.
 
 **Modifica del diritto vigente**
 
-L’allegato A 8 dell’ordinanza del 4 aprile 2007[^10-1] sul trattamento dei dati nell’AFD è sostituito dalla versione qui annessa.
+...[^10-1]
 
-[^10-1]: [RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535).La modifica qui menzionata é inserita nell’O menzionata.
+[^10-1]: La mod. può essere consultata alla [RU 2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118).
 
 #### Art. 11
 

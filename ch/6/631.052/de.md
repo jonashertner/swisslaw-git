@@ -3,18 +3,18 @@ sr: "631.052"
 title: Verordnung vom 11. Februar 2009 über die Kontrolle des grenzüberschreitenden Barmittelverkehrs
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/118"
 language: de
-version: 2009-03-01
+version: 2022-01-01
 adopted: 2009-02-11
 in_force: 2009-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/118/20090301/de/xml/fedlex-data-admin-ch-eli-cc-2009-118-20090301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/118/20090301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/118/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2009-118-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/118/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Kontrolle des grenzüberschreitenden Barmittelverkehrs
 
-vom 11. Februar 2009 (Stand am 1. März 2009)
+vom 11. Februar 2009 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -22,13 +22,15 @@ gestützt auf Artikel 130 des Zollgesetzes vom 18. März 2005[^ingress-1] (ZG),
 
 verordnet:
 
-[^ingress-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^ingress-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 1
 
 **Gegenstand**
 
-Diese Verordnung regelt die durch die Eidgenössische Zollverwaltung (EZV) vorgenommene Kontrolle des grenzüberschreitenden Barmittelverkehrs zur Bekämpfung der Geldwäscherei und der Terrorismusfinanzierung (Art. 95 Abs. 1<sup>bis</sup> ZG).
+Diese Verordnung regelt die durch das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^1-1] vorgenommene Kontrolle des grenzüberschreitenden Barmittelverkehrs zur Bekämpfung der Geldwäscherei und der Terrorismusfinanzierung (Art. 95 Abs. 1<sup>bis</sup> ZG).
+
+[^1-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen
 
 #### Art. 2
 
@@ -95,9 +97,9 @@ Die Zollstellen melden der Oberzolldirektion:
 
 **Informationssystem**
 
-Die Meldungen nach Artikel 6 werden in einem besonderen Bereich des Informationssystems des Grenzwachtkorps (Anhang A 8 zur Datenbearbeitungsverordnung für die EZV vom 4. April 2007[^7-1]) erfasst.
+Die Meldungen nach Artikel 6 werden in einem besonderen Bereich des Informationssystems des Grenzwachtkorps (Anhang A 8 zur Datenbearbeitungsverordnung für das BAZG vom 4. April 2007[^7-1]) erfasst.
 
-[^7-1]: [SR 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
+[^7-1]: [[AS 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258); [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)Ziff. III 2; [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)Art. 10, [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)Art. 44 Ziff. 1, [[6233](https://www.fedlex.admin.ch/eli/oc/2009/762/de)](https://fedlex.data.admin.ch/eli/oc/2009/762)Ziff. III; [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)Anhang Ziff. 3; [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)Anhang Ziff. II 2 [3835](https://fedlex.data.admin.ch/eli/oc/2013/703); [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)Anhang Ziff. 1; [2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)Anhang Ziff. 2, [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)Ziff. I 4. [AS 2017 4891](https://fedlex.data.admin.ch/eli/oc/2017/535)Art. 15]. Siehe heute: die Datenbearbeitungsverordnung für das BAZG vom 23. Aug. 20217 ([SR 631.061](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7823)).
 
 #### Art. 8
 
@@ -105,21 +107,21 @@ Die Meldungen nach Artikel 6 werden in einem besonderen Bereich des Informations
 
 Die Oberzolldirektion gibt Daten aus dem Informationssystem im Einzelfall der Meldestelle für Geldwäscherei (Art. 23 des Geldwäschereigesetzes vom 10. Oktober 1997[^8-1]) sowie den zuständigen Polizeibehörden bekannt.
 
-[^8-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^8-1]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 9
 
 **Analyse**
 
-Die Oberzolldirektion führt regelmässig Analysen über den Inhalt des Informationssystems durch.
+Das BAZG führt regelmässig Analysen über den Inhalt des Informationssystems durch.
 
 #### Art. 10
 
 **Änderung bisherigen Rechts**
 
-Anhang A 8 Datenbearbeitungsverordnung für die EZV vom 4. April 2007[^10-1] erhält die neue Fassung gemäss Beilage.
+...[^10-1]
 
-[^10-1]: [SR 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)**.** Die aufgeführte Änd. ist eingefügt im genannten Erlass.
+[^10-1]: Die Änderung kann unter [AS 2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)konsultiert werden.
 
 #### Art. 11
 
