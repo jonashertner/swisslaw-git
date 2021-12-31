@@ -3,11 +3,11 @@ sr: "910.18"
 title: "Ordonnance du 22 septembre 1997 sur l'agriculture biologique et la désignation des produits et des denrées alimentaires biologiques (Ordonnance sur l'agriculture biologique)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20210101/fr"
 
 (Ordonnance sur l’agriculture biologique)[^t-1]
 
-du 22 septembre 1997 (Etat le 1<sup>er</sup> janvier 2021)
+du 22 septembre 1997 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 
@@ -1607,7 +1607,7 @@ Annexe 1*[^t-2]*
 
 ## 1 Dispositions générales relatives à la procédure de contrôle
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 18 nov. 2009 ([RO 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Mise à jour selon le ch. II de l’O du 26 oct. 2011 ([RO 2011 5309](https://fedlex.data.admin.ch/eli/oc/2011/767)), l’annexe 9 ch. 14 de l’O du 23 oct. 2013 sur les paiements directs ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)) et le ch. II de l’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 18 nov. 2009 ([RO 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Mise à jour par le ch. II de l’O du 26 oct. 2011 ([RO 2011 5309](https://fedlex.data.admin.ch/eli/oc/2011/767)), l’annexe 9 ch. 14 de l’O du 23 oct. 2013 sur les paiements directs ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), le ch. II de l’O du 29 oct. 2014 ([RO 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)) et l’annexe 3 ch. II 7 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 ### 1.1 Régime de contrôle de l’entreprise
 
@@ -1711,7 +1711,7 @@ Les animaux sont identifiés de façon permanente au moyen de techniques adapté
 
 ### 3.3 Enregistrements
 
-En vertu de l’ordonnance du 26 octobre 2011 sur la BDTA[^annex1-lvl3-lvl33-1], tout détenteur d’animaux doit tenir une liste des bovins, des porcins et des équidés qui sont gardés dans son exploitation. Pour les autres animaux, une liste doit être établie sous la forme d’un registre et rester en tout temps accessible à l’organisme de certification au siège de l’exploitation. Les enregistrements concernés, qui doivent donner une description complète du système de gestion du cheptel ou du troupeau, s’appliquent à toutes les espèces animales et doivent contenir au moins les indications suivantes:
+Tout détenteur d’animaux doit tenir une liste des animaux qui sont gardés dans son exploitation, laquelle doit fournir des informations complètes sur la gestion des effectifs. En ce qui concerne les bovins, buffles,bisons, équidés, ovins et caprins, cette liste peut être établie sur la base de la liste de la banque de données sur le trafic des animaux visée à l’art. 32, al. 1, let. b, de l’ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux[^annex1-lvl3-lvl33-1]. Cette liste doit rester accessible à l’organisme de certification. La liste doit contenir au moins les indications suivantes:
 
 - a. en ce qui concerne les entrées d’animaux: origine et date d’entrée, période de reconversion, marque d’identification, antécédents vétérinaires;
 - b. en ce qui concerne les sorties d’animaux: l’âge, le nombre de têtes, le poids en cas d’abattage, la marque d’identification et la destination;

@@ -3,11 +3,11 @@ sr: "910.18"
 title: "Ordinanza del 22 settembre 1997 sull'agricoltura biologica e la designazione dei prodotti e delle derrate alimentari ottenuti biologicamente (Ordinanza sull'agricoltura biologica)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20210101/it"
 
 (Ordinanza sull’agricoltura biologica)[^t-1]
 
-del 22 settembre 1997 (Stato 1° gennaio 2021)
+del 22 settembre 1997 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 
@@ -1597,7 +1597,7 @@ Allegato 1*[^t-2]*
 
 ## 1 Disposizioni generali relative alla procedura di controllo
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del 18 nov. 2009, ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Aggiornato dal n. II dell’O del 26 ott. 2011 ([RU 2011 5309](https://fedlex.data.admin.ch/eli/oc/2011/767)), dall’all. 9 n. 14 dell’O del 23 ott. 2013 sui pagamenti diretti ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)) e dal n. II dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^t-2]: Nuovo testo giusta il n. II dell’O del 18 nov. 2009, ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Aggiornato dal n. II dell’O del 26 ott. 2011 ([RU 2011 5309](https://fedlex.data.admin.ch/eli/oc/2011/767)), dall’all. 9 n. 14 dell’O del 23 ott. 2013 sui pagamenti diretti ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), dal n. II dell’O del 29 ott. 2014 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)) e dall’all. 3 n. II 7 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 ### 1.1 Regime di controllo dell’azienda
 
@@ -1701,7 +1701,7 @@ Gli animali sono identificati in via permanente, mediante tecniche adatte a cias
 
 ### 3.3 Registrazioni
 
-In virtù dell’ordinanza BDTA del 26 ottobre 2011[^annex1-lvl3-lvl33-1], qualsiasi detentore di animali deve tenere un registro degli animali delle specie bovina e suina nonché degli equidi che sono tenuti nella sua azienda. Per gli altri animali, un elenco sotto forma di un registro deve essere tenuto permanentemente a disposizione dell’ente di certificazione presso la sede dell’azienda. Queste registrazioni, intese a dare una descrizione completa del sistema di gestione del bestiame o del gregge, si applicano a tutte le specie animali e devono contenere almeno le indicazioni seguenti:
+Qualsiasi detentore di animali deve tenere un registro degli animali dell’azienda detentrice di animali, inteso a dare una descrizione completa del sistema di gestione del bestiame. Per gli animali della specie bovina, i bufali e i bisonti, per gli equidi nonché per gli animali delle specie ovina e caprina, questo registro può essere sostituito mediante l’elenco della banca dati sul traffico di animali ai sensi dell’articolo 36 capoverso 1 lettera b dell’ordinanza del 3 novembre 2021[^annex1-lvl3-lvl33-1] concernente Identitas AG e la banca dati sul traffico di animali. Il registro deve essere reso accessibile all’ente di certificazione. Deve contenere almeno le indicazioni seguenti:
 
 - a. per quanto riguarda le entrate di animali: origine e data di entrata, periodo di conversione, marco d’identificazione, antecedenti veterinari;
 - b. per quanto riguarda le uscite di animali: età, numero di capi, peso in caso di macellazione, marco di identificazione e destinatario;

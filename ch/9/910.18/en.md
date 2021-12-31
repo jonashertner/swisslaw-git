@@ -3,11 +3,11 @@ sr: "910.18"
 title: Ordinance of 22 September 1997 on Organic Farming and the Labelling of Organically Produced Products and Foodstuffs (Organic Farming Ordinance)
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20210101/en/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20220101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Organic Farming Ordinance)
 
-of 22 September 1997 (Status as of 1 January 2021)
+of 22 September 1997 (Status as of 1 January 2022)
 
 [^t-1]: Amended by No I of the O of 23 Aug. 2000, in force since 1 Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 
@@ -130,7 +130,7 @@ The production, preparation and marketing of organic products is governed by the
 [^3-4]: Inserted by No I of the O of 23 Aug. 2000, in force since 1 Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 [^3-5]: Inserted by No I of the O of 23 Aug. 2000, in force since 1 Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 [^3-6]: Inserted by No I of the O of 8 Nov. 2006, in force since 1 Jan. 2007 ([AS 2006 4831](https://fedlex.data.admin.ch/eli/oc/2006/746)).
-[^3-7]: [[AS 1981 562](https://fedlex.data.admin.ch/eli/oc/1981/562_562_562), [1991 2345](https://fedlex.data.admin.ch/eli/oc/1991/2345_2345_2345), [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)Art. 59 No 1, [2003 4181](https://fedlex.data.admin.ch/eli/oc/2003/618)[4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Annex No 3, [2003 4181](https://fedlex.data.admin.ch/eli/oc/2003/618), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 45. [AS 2008 2965](https://fedlex.data.admin.ch/eli/oc/2008/414)Art. 43]. See now: the FA of 16 Dec. 2005 ([SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)).
+[^3-7]: [[AS 1981 562](https://fedlex.data.admin.ch/eli/oc/1981/562_562_562); [1991 2345](https://fedlex.data.admin.ch/eli/oc/1991/2345_2345_2345); [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)Art. 59 No 1; [2003 4181](https://fedlex.data.admin.ch/eli/oc/2003/618), [4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Annex No 3; [2003 4181](https://fedlex.data.admin.ch/eli/oc/2003/618); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 45. [AS 2008 2965](https://fedlex.data.admin.ch/eli/oc/2008/414)Art. 43]. See now: the FA of 16 Dec. 2005 ([SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)).
 [^3-8]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 [^3-9]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 [^3-10]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
@@ -313,7 +313,7 @@ Pests, diseases and weeds must be controlled by a combination of different measu
 
 <sup>4</sup> The use of growth regulators, wilting products and herbicides is not permitted.
 
-[^11-1]: [[AS 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481)[4097](https://fedlex.data.admin.ch/eli/oc/2005/541)[5211](https://fedlex.data.admin.ch/eli/oc/2005/719), [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)No III [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 54 [1843](https://fedlex.data.admin.ch/eli/oc/2007/268)[4541](https://fedlex.data.admin.ch/eli/oc/2007/641)[6291](https://fedlex.data.admin.ch/eli/oc/2007/834), [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 11 [5271](https://fedlex.data.admin.ch/eli/oc/2008/742), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)Annex No 3 [2845](https://fedlex.data.admin.ch/eli/oc/2009/373), [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278). [AS 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)Art. 84]. See now: the O of 12 May 2010 ([SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
+[^11-1]: [[AS 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481), [4097](https://fedlex.data.admin.ch/eli/oc/2005/541), [5211](https://fedlex.data.admin.ch/eli/oc/2005/719); [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)No III, [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 54, [1843](https://fedlex.data.admin.ch/eli/oc/2007/268)[4541](https://fedlex.data.admin.ch/eli/oc/2007/641), [6291](https://fedlex.data.admin.ch/eli/oc/2007/834), [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 11, 527; [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)Annex No 3 [2845](https://fedlex.data.admin.ch/eli/oc/2009/373); [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278). [AS 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)Art. 84]. See now: the O of 12 May 2010 ([SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
 [^11-2]: Amended by No I of the O of 18 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
 
 #### Art. 11a
@@ -1506,7 +1506,7 @@ Until stockfarming regulations laid down in Article 15 paragraph 3 are enacted, 
 
 <sup>1</sup>
 
-Goats may be tethered until 31 December 2018 in buildings that already existed before 1 January 2001 provided that:[^39d-2]
+Goats may be tethered until 31 December 2022 in buildings that already existed before 1 January 2001 provided that:[^39d-2]
 
 - a. the regulations governing regular outdoor exercise are complied with; and
 - b. animals are kept in comfortably littered areas and individually managed.
@@ -1603,7 +1603,7 @@ Annex 1*[^t-2]*
 
 ## 1 General provisions relating to the inspection procedure
 
-[^t-2]: Amended by No II of the O of 18 Nov. 2009 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Revised by No II of the O of 26 Oct. 2011 ([AS 2011 5309](https://fedlex.data.admin.ch/eli/oc/2011/767)), Annex 9 No 14 of the Direct Payments Ordinance of 23 Oct. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)) und No II of the O of 29 Oct. 2014, in force since 1 Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^t-2]: Amended by No II of the O of 18 Nov. 2009 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Revised by No II of the O of 26 Oct. 2011 ([AS 2011 5309](https://fedlex.data.admin.ch/eli/oc/2011/767)), Annex 9 No 14 of the Direct Payments Ordinance of 23 Oct. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), No II of the O of 29 Oct. 2014 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)) and Annex 3 No II 7 of the O of 3 Nov. 2021 on Identitas AG and the Animal Tracing Database, in force since 1 Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 ### 1.1 Precautionary measures taken by operators
 
@@ -1707,7 +1707,7 @@ The livestock shall be identified permanently using techniques adapted to each s
 
 ### 3.3 Records
 
-Under the Ordinance on the Trade in Livestock Database of 26 October 2011[^annex1-lvl3-lvl33-1], every stockfarmer shall keep a list of animals of the bovine and pig species and equidae which are kept on the holding. An inventory in the form of a register shall be kept for all other livestock; it must be kept available to the certification body at all times at the address of the holding. The following records, which are to provide a full description of the herd or flock management system, apply to all species of livestock and shall comprise at least the following information:
+Every stockfarmer shall maintain a register of animals kept as livestock that provides a full description of the herd management system. In the case of animals of the bovine or pig species, buffalo and bison, equidae and animals of the ovine and caprine species, this register may be replaced by the list from the Animal Tracing Database in accordance with Article 36 paragraph 1 letter b of the Ordinance of 3 November 2021[^annex1-lvl3-lvl33-1] on Identitas AG and the Animal Tracing Database. The register must be made available to the certification body. The register must contain at least the following information:
 
 - a. as regards livestock arriving at the holding: origin and date of arrival, conversion period, identification mark, veterinary record;
 - b. as regards livestock leaving the holding: age, number of head, weight in case of slaughter, identification mark and destination;

@@ -3,11 +3,11 @@ sr: "910.18"
 title: Verordnung vom 22. September 1997 über die biologische Landwirtschaft und die Kennzeichnung biologisch produzierter Erzeugnisse und Lebensmittel (Bio-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20210101/de"
 
 (Bio-Verordnung)[^t-1]
 
-vom 22. September 1997 (Stand am 1. Januar 2021)
+vom 22. September 1997 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 
@@ -440,7 +440,7 @@ In Absprache mit der Zertifizierungsstelle können jedoch angebunden gehalten we
 - a. einzelne Tiere für begrenzte Zeit aus Sicherheits- bzw. Tierschutzgründen;
 - b.[^15a-2] Tiere der Rindergattung, sofern die Bestimmungen über den regelmässigen Auslauf im Freien nach Artikel 75 DZV[^15a-3] eingehalten werden.
 
-<sup>3</sup> ...[^15a-4]
+<sup>3</sup> …[^15a-4]
 
 [^15a-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 [^15a-2]: Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
@@ -560,7 +560,7 @@ Für die Verwendung von Tierarzneimitteln in der biologischen Tierhaltung gelten
 
 <sup>6</sup> Bei bestehender Gefährdung der Tiergesundheit sind Impfungen und Entwurmungen erlaubt.
 
-<sup>7</sup> ...[^16d-3]
+<sup>7</sup> …[^16d-3]
 
 <sup>8</sup> Die Wartezeit zwischen der letzten Verabreichung eines chemisch-synthetischen allopathischen Tierarzneimittels unter normalen Anwendungsbedingungen und der Gewinnung von einem solchen Tier stammenden Lebensmitteln aus biologischer Landwirtschaft muss doppelt so lang sein wie die gesetzlich vorgeschriebene Zeit. Dies gilt nicht für die Verabreichung von Mitteln zur Trockenstellung von Kühen mit Euterproblemen.
 
@@ -625,7 +625,7 @@ Nutztiere, die nicht aus Biobetrieben stammen, und die nach dem Beginn der Umste
 - d. Geflügel für die Fleischerzeugung, das eingestallt wurde, bevor es drei Tage alt war, während mindestens 56 Tagen;
 - e. Geflügel für die Eiererzeugung während mindestens 6 Wochen.
 
-<sup>3</sup> ...[^16f-3]
+<sup>3</sup> …[^16f-3]
 
 <sup>4</sup> Sind zur Ergänzung der natürlichen Bestandesvergrösserung oder zur Bestandeserneuerung Tiere aus Biobetrieben nicht in ausreichender Menge verfügbar, so dürfen in Absprache mit der Zertifizierungsstelle nullipare weibliche Jungtiere alljährlich in einem Umfang von bis zu 10 Prozent des Bestands an ausgewachsenen Tieren der Pferde- oder Rindergattung, einschliesslich der Bubalus- und Bison-Arten, oder bis zu 20 Prozent des Bestands an ausgewachsenen Schweinen, Schafen oder Ziegen aus nicht biologischen Betrieben eingestallt werden. Für Biobetriebe mit weniger als 10 Tieren der Rinder- oder der Pferdegattung oder mit weniger als fünf Schweinen, Schafen oder Ziegen ist die Erneuerung auf ein Tier im Jahr beschränkt.
 
@@ -715,7 +715,7 @@ Verarbeitete biologische Lebensmittel müssen folgende Anforderungen erfüllen:
 - b.[^16j-1] Es dürfen nur Zusatzstoffe, Verarbeitungshilfsstoffe, Aromastoffe, Wasser, Salz, Zubereitungen aus Mikroorganismen und Enzymen, Mineralstoffe (einschliesslich Spurenelemente), Vitamine sowie Aminosäuren und andere Mikronährstoffe in Lebensmitteln verwendet werden, wenn sie nach Artikel 16*k* für die Verwendung in der biologischen Produktion zugelassen worden sind.
 - c. Nicht biologische Zutaten landwirtschaftlichen Ursprungs[^16j-2] dürfen nur verwendet werden, wenn sie nach Artikel 16*k* zugelassen worden sind.
 - d. Eine biologische Zutat darf nicht zusammen mit der gleichen nicht biologischen oder im Rahmen der Umstellung erzeugten Zutat verwendet werden.
-- e.[^16j-3] ...
+- e.[^16j-3] …
 - f. Das Erzeugnis und seine Zutaten dürfen nicht mit ionisierenden Strahlen behandelt werden.
 
 <sup>3</sup> Es dürfen keine Stoffe verwendet werden und keine Verfahren zur Anwendung kommen, die bei der Verarbeitung und Lagerung biologischer Lebensmittel verloren gegangene Eigenschaften wiederherstellen, das Ergebnis nachlässiger Verarbeitung korrigieren oder anderweitig in Bezug auf die tatsächliche Beschaffenheit dieser Erzeugnisse irreführend sein könnten.
@@ -816,11 +816,11 @@ Erzeugnisse, die nicht zum Verzehr bestimmt sind, dürfen nur dann als biologisc
 - a. sich die Kennzeichnung eindeutig auf die landwirtschaftliche Erzeugung bezieht;
 - b. sie biologisch produziert oder aufbereitet oder nach Artikel 22 eingeführt wurden;
 - c.[^17-2] sie von einem Unternehmen produziert, aufbereitet, eingeführt, gelagert oder vermarktet wurden, das einem Kontrollsystem nach dem 5. Kapitel unterliegt;
-- d.[^17-3] ...
+- d.[^17-3] …
 
 <sup>2</sup> Das WBF kann zusätzliche Vorschriften für Futtermittel, vegetatives Vermehrungsmaterial und Saatgut für den Anbau erlassen.[^17-4]
 
-<sup>3</sup> ...[^17-5]
+<sup>3</sup> …[^17-5]
 
 [^17-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
 [^17-2]: Fassung gemäss Ziff. I der V vom 10. Nov. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
@@ -916,7 +916,7 @@ Die Angaben nach Artikel 21*a* müssen folgende Anforderungen erfüllen:
 
 - a. Sie dürfen durch Farbe, Format oder Schriftstil des Futtermittels nicht stärker hervorgehoben sein als die Beschreibung oder die Bezeichnung des Futtermittels.
 - b. Sie müssen im selben Sichtfeld, bezogen auf die organische Substanz, den prozentualen Anteil an Futtermitteln, die auf biologischen Flächen und Futtermitteln, die auf Umstellungsflächen produziert wurden, angeben.
-- c.[^21b-3] ...
+- c.[^21b-3] …
 - d. Sie müssen mit einer Auflistung der Bezeichnungen der Futtermittel-Ausgangsprodukte aus biologischem Landbau oder aus Umstellungsproduktion versehen sein.
 
 [^21b-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Juli 2004 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
@@ -1158,7 +1158,7 @@ Die Zertifizierungsstellen müssen für ihre Tätigkeit gemäss dieser Verordnun
 Die Zertifizierungsstellen haben insbesondere:
 
 - a.[^29-3] die Anforderungen und Auflagen nach Artikel 28 zu erfüllen;
-- b.[^29-4] ...
+- b.[^29-4] …
 - c. die betreffende schweizerische Gesetzgebung zu kennen.
 
 <sup>3</sup> Mit dem Anerkennungsgesuch ist darzulegen, dass die Anforderungen nach den Absätzen 1 und 2 erfüllt werden.
@@ -1306,7 +1306,7 @@ In folgenden Fällen informiert die Zertifizierungsstelle unverzüglich das BLW 
 [^30e-1]: Eingefügt durch Ziff. I der V vom 27. Okt. 2010 ([AS 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)). Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
 [^30e-2]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 
-## 6. und 7. Kapitel:**** ...
+## 6. und 7. Kapitel:**** …
 
 [^lvlu7-1]
 
@@ -1351,7 +1351,7 @@ Die Überwachungstätigkeit des BLW umfasst insbesondere:
 
 <sup>3</sup> Das BLW stellt im Rahmen seiner Überwachungstätigkeit sicher, dass die Anforderungen nach den Artikeln 28 und 29 Absatz 2 erfüllt sind.
 
-<sup>4</sup> ...[^32-2]
+<sup>4</sup> …[^32-2]
 
 <sup>5</sup> Es kann Weisungen an die Zertifizierungsstellen erlassen. Die Weisungen umfassen auch einen Katalog zur Harmonisierung des Vorgehens der Zertifizierungsstellen bei Unregelmässigkeiten.
 
@@ -1433,7 +1433,7 @@ Das WBF regelt ausserdem insbesondere:
 
 #### Art. 35
 
-...[^35-1]
+…[^35-1]
 
 [^35-1]: Die Änderungen können unter [AS 1997 2498](https://fedlex.data.admin.ch/eli/oc/1997/2498_2498_2498)konsultiert werden.
 
@@ -1465,7 +1465,7 @@ Das WBF regelt ausserdem insbesondere:
 
 <sup>1bis</sup> Betriebe, die gestützt auf die Übergangsbestimmung nach Absatz 1 im Jahr 2008 einzelne Parzellen im Weinbau unabhängig vom Rest des Betriebes biologisch bewirtschafteten, können diese Parzellen unter denselben Voraussetzungen noch bis zum 31. Dezember 2011 biologisch bewirtschaften.[^38-4]
 
-<sup>2</sup> ...[^38-5]
+<sup>2</sup> …[^38-5]
 
 <sup>3</sup> Die Zertifizierungsstelle trifft geeignete Kontrollmassnahmen, insbesondere bezüglich der Warenflüsse und der Rückstände unzulässiger Hilfsstoffe. Das WBF kann Mindestanforderungen für diese Kontrollmassnahmen erlassen.
 
@@ -1511,7 +1511,7 @@ Ziegen dürfen bis zum 31. Dezember 2022 in bereits vor dem 1. Januar 2001 beste
 - a. die Vorschriften über den regelmässigen Auslauf im Freien eingehalten werden; und
 - b. die Tiere auf reichlich mit Einstreu versehenen Flächen gehalten und individuell betreut werden.
 
-<sup>2</sup> ...[^39d-3]
+<sup>2</sup> …[^39d-3]
 
 [^39d-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 [^39d-2]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4181](https://fedlex.data.admin.ch/eli/oc/2018/674)).
@@ -1603,7 +1603,7 @@ Anhang 1*[^t-2]*
 
 ## 1 Allgemeine Bestimmungen zum Kontrollverfahren
 
-[^t-2]: Fassung gemäss Ziff. II der V vom 18. Nov. 2009 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Bereinigt gemäss Ziff. II der V vom 26. Okt. 2011 ([AS 2011 5309](https://fedlex.data.admin.ch/eli/oc/2011/767)), Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)) und Ziff. II der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^t-2]: Fassung gemäss Ziff. II der V vom 18. Nov. 2009 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Bereinigt gemäss Ziff. II der V vom 26. Okt. 2011 ([AS 2011 5309](https://fedlex.data.admin.ch/eli/oc/2011/767)), Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), Ziff. II der V vom 29. Okt. 2014 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)) und Anhang 3 Ziff. II 7 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 ### 1.1 Kontrollvorkehrungen des Unternehmens
 
@@ -1707,7 +1707,7 @@ Die Tiere müssen dauerhaft mit einer artgerechten Kennzeichnung versehen sein, 
 
 ### 3.3 Aufzeichnungen
 
-Nach der TVD-Verordnung vom 26. Oktober 2011[^annex1-lvl3-lvl33-1] führt jeder Tierhalter und jede Tierhalterin ein Verzeichnis der Tiere der Rinder- und Schweinegattung und der Equiden, die auf dem Betrieb gehalten werden. Für die übrigen Tiere wird ein Verzeichnis in Form eines Registers geführt; es muss der Zertifizierungsstelle am Betriebssitz ständig zugänglich gehalten werden. Folgende Aufzeichnungen, die lückenlos Aufschluss über die Bestands- oder Herdenführung geben müssen, gelten für alle Tierarten und müssen zumindest die folgenden Angaben umfassen:
+Jeder Tierhalter und jede Tierhalterin muss ein Verzeichnis der Tiere auf der Tierhaltung führen, das lückenlos Aufschluss über die Bestandsführung geben muss. Bei Tieren der Rindergattung, Büffeln und Bisons, Equiden sowie bei Tieren der Schaf- und der Ziegengattung kann dieses Verzeichnis durch die Auflistung aus der Tierverkehrsdatenbank nach Artikel 36 Absatz 1 Buchstabe b der Verordnung vom 3. November 2021[^annex1-lvl3-lvl33-1] über die Identitas AG und die Tierverkehrsdatenbank ersetzt werden. Das Verzeichnis muss der Zertifizierungsstelle zugänglich gehalten werden. Das Verzeichnis muss zumindest die folgenden Angaben umfassen:
 
 - a. Tierzugänge: Herkunft und Zeitpunkt des Zugangs, Umstellungszeitraum, Kennzeichen, tierärztliche Vorgeschichte;
 - b. Tierabgänge: Alter, Anzahl der Tiere, Gewicht im Fall der Schlachtung, Kennzeichen und Empfänger;
