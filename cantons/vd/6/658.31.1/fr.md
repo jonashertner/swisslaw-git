@@ -4,7 +4,7 @@ number: "658.31.1"
 title: "ARRÊTÉ du 09.04.2003 d'exécution dans le Canton de Vaud de l'ordonnance relative à l'imputation forfaitaire d'impôt (AVOII)"
 short: AVOII
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/658.31.1?id=f369cbc4-dd62-4330-a6c6-3ae50ba76482"
 ---
 
@@ -81,7 +81,7 @@ arrête
 - a. en fonction des taux définis à l'article 9, alinéa 1, de l'OII pour les personnes physiques, et
 - b. proportionnellement au montant de l'impôt sur le bénéfice visé à l'article 10, alinéa 1, de l'OII pour les personnes morales.
 
-<sup>2</sup> Le montant de l'imputation d'impôts étrangers prélevés à la source qui n'est pas à la charge de la Confédération est réparti, entre le canton et les communes, à la fin de la période fiscale de l'année de l'échéance des revenus,
+<sup>2</sup> Le montant de l'imputation d'impôts étrangers prélevés à la source, qui n'est pas à la charge de la Confédération selon l'alinéa 1, est réparti, entre le canton et les communes, à la fin de la période fiscale de l'année de l'échéance des revenus,
 
 - a. proportionnellement au taux de l'impôt sur le revenu perçu par le canton et les communes pour les personnes physiques, et,
 - b. proportionnellement au montant de l'impôt sur le bénéfice perçu par le canton et les communes pour les personnes morales.
