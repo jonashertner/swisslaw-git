@@ -4,11 +4,11 @@ title: "Legge federale del 28 agosto 1992 sulla protezione dei marchi e delle in
 short: LPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/274_274_274"
 language: it
-version: 2021-12-01
+version: 2022-01-01
 adopted: 1992-08-28
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20211201/it/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20211201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20211201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20211201/it"
 
 (Legge sulla protezione dei marchi, LPM)
 
-del 28 agosto 1992 (Stato 1° dicembre 2021)
+del 28 agosto 1992 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -340,7 +340,7 @@ In deroga all’articolo 2 lettera a, un marchio geografico può essere registra
 - b. una denominazione d’origine controllata protetta secondo l’articolo 63 LAgr o una denominazione vinicola estera conforme ai requisiti di cui all’articolo 63 LAgr;
 - c. un’indicazione di provenienza oggetto di un’ordinanza del Consiglio federale emanata in virtù dell’articolo 50 capoverso 2 o un’indicazione di provenienza estera che si fonda su una normativa estera equivalente.
 
-[^27a-1]: Nuovo testo giusta l’all. del DF del 19 mar. 2021 che approva l’Atto di Ginevra dell’Accordo di Lisbona sulle denominazioni d’origine e le indicazioni geografiche e lo traspone nel diritto svizzero, in vigore dal 1° dic. 2021 ([RU 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [FF 2020 5215](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
+[^27a-1]: Nuovo testo giusta l’all. del DF del 19 mar. 2021 approva l’Atto di Ginevra dell’Accordo di Lisbona sulle denominazioni d’origine e le indicazioni geografiche e lo traspone nel diritto svizzero, in vigore dal 1° dic. 2021 ([RU 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [FF 2020 5215](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
 
 #### Art. 27b
 
@@ -1240,18 +1240,23 @@ L’articolo 69 del Codice penale[^68-2] è applicabile; il giudice può ordinar
 
 Il perseguimento penale spetta ai Cantoni.
 
-### Capitolo 3: Intervento dell’Amministrazione delle dogane
+### Capitolo 3: Intervento dell’Ufficio federale della dogana e della sicurezza dei confini****
+
+[^tit3-chap3-1]
+
+[^tit3-chap3-1]: Nuovo testo giusta il n. I 3 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore il 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 70
 
 **Denuncia di merci sospette**[^70-1]
 
-<sup>1</sup> L’Amministrazione delle dogane è autorizzata ad avvisare il titolare di un marchio, l’avente diritto a un’indicazione di provenienza o una parte legittimata ad agire in virtù dell’articolo 56 qualora vi sia il sospetto dell’imminente introduzione nel territorio doganale svizzero o dell’imminente asportazione dal territorio doganale svizzero di merci munite illecitamente di un marchio o di un’indicazione di provenienza.[^70-2]
+<sup>1</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC) è autorizzato ad avvisare il titolare di un marchio, l’avente diritto a un’indicazione di provenienza o una parte legittimata ad agire in virtù dell’articolo 56 qualora vi sia il sospetto dell’imminente introduzione nel territorio doganale svizzero o dell’imminente asportazione dal territorio doganale svizzero di merci munite illecitamente di un marchio o di un’indicazione di provenienza.[^70-2]
 
-<sup>2</sup> In tali casi, l’Amministrazione delle dogane è autorizzata a trattenere la merce per tre giorni feriali, affinché il titolare del marchio, l’avente diritto a un’indicazione di provenienza oppure un’associazione professionale o economica legittimata ad agire in virtù dell’articolo 56 possa presentare una domanda secondo l’articolo 71
+<sup>2</sup> In tali casi, l’UDSC[^70-3] è autorizzata a trattenere la merce per tre giorni feriali, affinché il titolare del marchio, l’avente diritto a un’indicazione di provenienza oppure un’associazione professionale o economica legittimata ad agire in virtù dell’articolo 56 possa presentare una domanda secondo l’articolo 71
 
 [^70-1]: Nuovo testo giusta l’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^70-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^70-2]: Nuovo testo giusta il n. I 3 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore il 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^70-3]: Nuova espr. giusta il n. I 3 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore il 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 71
 

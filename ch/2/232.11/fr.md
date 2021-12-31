@@ -4,11 +4,11 @@ title: "Loi fédérale du 28 août 1992 sur la protection des marques et des ind
 short: LPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/274_274_274"
 language: fr
-version: 2021-12-01
+version: 2022-01-01
 adopted: 1992-08-28
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20211201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20211201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20220101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20211201/fr"
 
 (Loi sur la protection des marques, LPM)
 
-du 28 août 1992 (Etat le 1<sup>er</sup> décembre 2021)
+du 28 août 1992 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -101,9 +101,9 @@ Le droit à la marque appartient à celui qui la dépose le premier.
 
 **Priorité au sens de la Convention de Paris**
 
-<sup>1</sup> Lorsqu’une marque a été légalement déposée pour la première fois dans un autre Etat membre de la Convention de Paris[^7-1] ou que le dépôt a effet dans l’un de ces Etats, le déposant ou son ayant cause peut revendiquer la date du premier dépôt pour déposer la même marque en Suisse, à condition que le dépôt en Suisse ait lieu dans les six mois qui suivent le premier dépôt.
+<sup>1</sup> Lorsqu’une marque a été légalement déposée pour la première fois dans un autre État membre de la Convention de Paris[^7-1] ou que le dépôt a effet dans l’un de ces États, le déposant ou son ayant cause peut revendiquer la date du premier dépôt pour déposer la même marque en Suisse, à condition que le dépôt en Suisse ait lieu dans les six mois qui suivent le premier dépôt.
 
-<sup>2</sup> Le premier dépôt dans un Etat accordant la réciprocité à la Suisse déploie les mêmes effets que le premier dépôt dans un Etat membre de la Convention de Paris.
+<sup>2</sup> Le premier dépôt dans un État accordant la réciprocité à la Suisse déploie les mêmes effets que le premier dépôt dans un État membre de la Convention de Paris.
 
 [^7-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 
@@ -111,7 +111,7 @@ Le droit à la marque appartient à celui qui la dépose le premier.
 
 **Priorité découlant d’une exposition**
 
-Quiconque présente un produit ou des services désignés par une marque dans une exposition, officielle ou officiellement reconnue au sens de la Convention du 22 novembre 1928[^8-1] concernant les expositions internationales, organisée dans un Etat membre de la Convention de Paris[^8-2] peut se prévaloir de la date de l’ouverture de l’exposition, à condition que la marque soit déposée dans les six mois qui suivent cette date.
+Quiconque présente un produit ou des services désignés par une marque dans une exposition, officielle ou officiellement reconnue au sens de la Convention du 22 novembre 1928[^8-1] concernant les expositions internationales, organisée dans un État membre de la Convention de Paris[^8-2] peut se prévaloir de la date de l’ouverture de l’exposition, à condition que la marque soit déposée dans les six mois qui suivent cette date.
 
 [^8-1]: [RS 0.945.11](https://fedlex.data.admin.ch/eli/cc/47/70_72_14)
 [^8-2]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
@@ -141,7 +141,7 @@ Quiconque présente un produit ou des services désignés par une marque dans un
 
 <sup>3</sup> La demande de prolongation doit être présentée auprès de l’IPI dans les douze mois qui précèdent l’échéance de l’enregistrement, ou au plus tard dans les six mois qui la suivent.[^10-2]
 
-<sup>4</sup> …[^10-3]
+<sup>4</sup> ...[^10-3]
 
 [^10-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 24 mars 1995 sur le statut et les tâches de l’IPI, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 951](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 [^10-2]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
@@ -248,7 +248,7 @@ Si une marque est reproduite dans un dictionnaire, un autre ouvrage de référen
 
 <sup>1</sup> Le titulaire de la marque peut autoriser des tiers à l’utiliser sur l’ensemble ou sur une partie du territoire suisse pour tout ou partie des produits ou des services enregistrés.
 
-<sup>2</sup> A la demande d’une partie, la licence est inscrite au registre. Elle devient ainsi opposable à tout droit à la marque acquis postérieurement.
+<sup>2</sup> À la demande d’une partie, la licence est inscrite au registre. Elle devient ainsi opposable à tout droit à la marque acquis postérieurement.
 
 #### Art. 19
 
@@ -256,13 +256,13 @@ Si une marque est reproduite dans un dictionnaire, un autre ouvrage de référen
 
 <sup>1</sup> La marque peut être l’objet d’un usufruit et d’un droit de gage ainsi que de mesures d’exécution forcée.
 
-<sup>2</sup> A l’égard des tiers de bonne foi, l’usufruit et le droit de gage n’ont d’effet qu’après leur enregistrement.
+<sup>2</sup> À l’égard des tiers de bonne foi, l’usufruit et le droit de gage n’ont d’effet qu’après leur enregistrement.
 
 ### Section 6 Traités internationaux
 
 #### Art. 20
 
-<sup>1</sup> …[^20-1]
+<sup>1</sup> ...[^20-1]
 
 <sup>2</sup> Les traités internationaux auxquels la Suisse est partie qui accordent des droits plus étendus que ceux prévus dans la présente loi s’appliquent aussi aux ressortissants suisses.
 
@@ -401,7 +401,7 @@ Quiconque veut déposer une marque doit remettre à l’IPI:
 
 <sup>3</sup> Pour le dépôt, les taxes prévues à cet effet par l’ordonnance sont dues.[^28-1]
 
-<sup>4</sup> …[^28-2]
+<sup>4</sup> ...[^28-2]
 
 [^28-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 24 mars 1995 sur le statut et les tâches de l’IPI, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 951](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 [^28-2]: Abrogé par l’annexe ch. 2 de la LF du 24 mars 1995 sur le statut et les tâches de l’IPI, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 951](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
@@ -528,7 +528,7 @@ Le Conseil fédéral règle les modalités de la procédure.
 
 [^35c-1]: Introduit par le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
-### Section 4 …
+### Section 4 ...
 
 #### Art. 36
 
@@ -625,7 +625,7 @@ La poursuite de la procédure est exclue en cas d’inobservation:
 
 [^42-1]
 
-<sup>1</sup> Quiconque participe à une procédure administrative prévue dans la présente loi sans avoir de domicile ou de siège en Suisse doit élire un domicile de notification en Suisse, à moins que le droit international ou l’autorité étrangère compétente n’autorise la notification directe dans l’Etat considéré.
+<sup>1</sup> Quiconque participe à une procédure administrative prévue dans la présente loi sans avoir de domicile ou de siège en Suisse doit élire un domicile de notification en Suisse, à moins que le droit international ou l’autorité étrangère compétente n’autorise la notification directe dans l’État considéré.
 
 <sup>2</sup> L’IPI est autorisé à remettre à l’autorité étrangère compétente une déclaration indiquant que, dans le domaine de la propriété intellectuelle, la Suisse autorise la notification directe sur son territoire si la réciprocité lui est accordée.
 
@@ -637,7 +637,7 @@ La poursuite de la procédure est exclue en cas d’inobservation:
 
 <sup>1</sup> Outre les taxes prévues par la présente loi, des taxes doivent être acquittées pour les prestations de l’IPI à la suite de requêtes particulières.
 
-<sup>2</sup> …[^43-1]
+<sup>2</sup> ...[^43-1]
 
 [^43-1]: Abrogé par l’annexe ch. 2 de la LF du 24 mars 1995 sur le statut et les tâches de l’IPI, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 951](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 
@@ -1156,7 +1156,7 @@ Sur plainte du lésé, est puni d’une peine privative de liberté d’un an au
 
 <sup>2</sup> Si l’auteur de l’infraction agit par métier, il est poursuivi d’office. La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.
 
-<sup>3</sup> …[^62-2]
+<sup>3</sup> ...[^62-2]
 
 [^62-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^62-2]: Abrogé par le ch. I de la LF du 21 juin 2013, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
@@ -1244,49 +1244,54 @@ L’art. 69 du code pénal[^68-2] est applicable; le juge peut ordonner la confi
 
 La poursuite pénale incombe aux cantons.
 
-### Chapitre 3 Intervention de l’Administration des douanes
+### Chapitre 3 Intervention de l’Office fédéral de la douane et de la sécurité des frontières****
+
+[^tit4-chap3-1]
+
+[^tit4-chap3-1]: Nouvelle teneur selon le ch. I 3 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 70
 
 **Dénonciation d’envois suspects**[^70-1]
 
-<sup>1</sup> L’Administration des douanes est habilitée à informer le titulaire d’une marque, l’ayant droit à une indication de provenance ou une partie qui a qualité pour intenter une action en vertu de l’art. 56 lorsqu’il y a lieu de soupçonner que l’introduction dans le territoire douanier suisse de produits sur lesquels la marque ou l’indication de provenance a été illicitement apposée ou leur sortie sont imminentes.[^70-2]
+<sup>1</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF) est habilité à informer le titulaire d’une marque, l’ayant droit à une indication de provenance ou une partie qui a qualité pour intenter une action en vertu de l’art. 56 lorsqu’il y a lieu de soupçonner que l’introduction dans le territoire douanier suisse de produits sur lesquels la marque ou l’indication de provenance a été illicitement apposée ou leur sortie sont imminentes.[^70-2]
 
-<sup>2</sup> Dans ce cas, elle est habilitée à retenir les produits pendant trois jours ouvrables afin de permettre au titulaire de la marque, à l’ayant droit à l’indication de provenance ou à une association professionnelle ou économique ayant qualité pour intenter une action en vertu de l’art. 56 de déposer une demande conformément à l’art. 71.
+<sup>2</sup> Dans ce cas, il est habilité à retenir les produits pendant trois jours ouvrables afin de permettre au titulaire de la marque, à l’ayant droit à l’indication de provenance ou à une association professionnelle ou économique ayant qualité pour intenter une action en vertu de l’art. 56 de déposer une demande conformément à l’art. 71.
 
 [^70-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^70-2]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^70-2]: Nouvelle teneur selon le ch. I 3 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 71
 
 **Demande d’intervention**
 
-<sup>1</sup> Lorsque le titulaire d’une marque, le preneur de licence qui a qualité pour agir, l’ayant droit à une indication de provenance ou une partie qui a qualité pour intenter une action en vertu de l’art. 56 ont des indices sérieux permettant de soupçonner que l’introduction dans le territoire douanier suisse de produits sur lesquels la marque ou l’indication de provenance a été illicitement apposée ou leur sortie sont imminentes, ils peuvent demander par écrit à l’Administration des douanes de refuser la mainlevée de ces produits.[^71-1]
+<sup>1</sup> Lorsque le titulaire d’une marque, le preneur de licence qui a qualité pour agir, l’ayant droit à une indication de provenance ou une partie qui a qualité pour intenter une action en vertu de l’art. 56 ont des indices sérieux permettant de soupçonner que l’introduction dans le territoire douanier suisse de produits sur lesquels la marque ou l’indication de provenance a été illicitement apposée ou leur sortie sont imminentes, ils peuvent demander par écrit à l’OFDF[^71-1] de refuser la mainlevée de ces produits.[^71-2]
 
-<sup>2</sup> Le requérant fournira à l’Administration des douanes toutes les indications dont il dispose et dont celle-ci a besoin pour statuer sur sa demande; il lui remettra notamment une description précise des produits.
+<sup>2</sup> Le requérant fournira à l’OFDF toutes les indications dont il dispose et dont celui-ci a besoin pour statuer sur sa demande; il lui remettra notamment une description précise des produits.
 
-<sup>3</sup> L’administration statue définitivement. Elle peut percevoir un émolument pour couvrir les frais administratifs.
+<sup>3</sup> L’OFDF statue définitivement. Il peut percevoir un émolument pour couvrir les frais administratifs.
 
-[^71-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^71-1]: Nouvelle expression selon le ch. I 3 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Il a été tenu compte de cette mod. dans tout le texte.
+[^71-2]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
 #### Art. 72
 
 **Rétention des produits**[^72-1]
 
-<sup>1</sup> Lorsque, à la suite d’une demande d’intervention au sens de l’art. 71, al. 1, l’Administration des douanes a des raisons fondées de soupçonner l’introduction dans le territoire douanier suisse de produits sur lesquels une marque ou une indication de provenance a été illicitement apposée ou leur sortie, elle en informe le requérant, d’une part, et le déclarant, le possesseur ou le propriétaire des produits, d’autre part.[^72-2]
+<sup>1</sup> Lorsque, à la suite d’une demande d’intervention au sens de l’art. 71, al. 1, l’OFDF a des raisons fondées de soupçonner l’introduction dans le territoire douanier suisse de produits sur lesquels une marque ou une indication de provenance a été illicitement apposée ou leur sortie, il en informe le requérant, d’une part, et le déclarant, le possesseur ou le propriétaire des produits, d’autre part.[^72-2]
 
-<sup>2</sup> Afin de permettre au requérant d’obtenir des mesures provisionnelles, elle retient les produits durant dix jours ouvrables au plus à compter du moment de l’information au sens de l’al. 1.
+<sup>2</sup> Afin de permettre au requérant d’obtenir des mesures provisionnelles, il retient les produits durant dix jours ouvrables au plus à compter du moment de l’information au sens de l’al. 1.
 
-<sup>3</sup> Si les circonstances le justifient, elle peut retenir les produits en cause pendant une durée supplémentaire de dix jours ouvrables au plus.
+<sup>3</sup> Si les circonstances le justifient, il peut retenir les produits en cause pendant une durée supplémentaire de dix jours ouvrables au plus.
 
 [^72-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^72-2]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
 #### Art. 72a
 
-**Echantillons**[^72a-1]
+**Échantillons**[^72a-1]
 
-<sup>1</sup> Sur demande, l’Administration des douanes est habilitée, pendant la durée de la rétention des produits, à remettre ou à envoyer au requérant des échantillons à des fins d’examen ou à le laisser examiner sur place les produits retenus.
+<sup>1</sup> Sur demande, l’OFDF est habilité, pendant la durée de la rétention des produits, à remettre ou à envoyer au requérant des échantillons à des fins d’examen ou à le laisser examiner sur place les produits retenus.
 
 <sup>2</sup> Les échantillons sont prélevés et envoyés aux frais du requérant.
 
@@ -1298,11 +1303,11 @@ La poursuite pénale incombe aux cantons.
 
 **Protection des secrets de fabrication ou d’affaires**[^72b-1]
 
-<sup>1</sup> En même temps que la communication visée à l’art. 72, al. 1 l’Administration des douanes informe le déclarant, le possesseur ou le propriétaire des produits de la possibilité, prévue à l’art. 72*a*, al. 1, de remettre des échantillons au requérant ou de le laisser examiner sur place les produits retenus.
+<sup>1</sup> En même temps que la communication visée à l’art. 72, al. 1 l’OFDF informe le déclarant, le possesseur ou le propriétaire des produits de la possibilité, prévue à l’art. 72*a*, al. 1, de remettre des échantillons au requérant ou de le laisser examiner sur place les produits retenus.
 
 <sup>2</sup> Le déclarant, le possesseur ou le propriétaire des produits peut demander d’assister à l’examen afin de protéger ses secrets de fabrication ou d’affaires.
 
-<sup>3</sup> Sur demande motivée du déclarant, du possesseur ou du propriétaire des produits, l’Administration des douanes peut refuser la remise d’échantillons.
+<sup>3</sup> Sur demande motivée du déclarant, du possesseur ou du propriétaire des produits, l’OFDF peut refuser la remise d’échantillons.
 
 [^72b-1]: Introduit par l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -1310,9 +1315,9 @@ La poursuite pénale incombe aux cantons.
 
 **Demande de destruction des produits**[^72c-1]
 
-<sup>1</sup> Lorsqu’il dépose une demande au sens de l’art. 71, al. 1 le requérant peut demander par écrit à l’Administration des douanes la destruction des produits.
+<sup>1</sup> Lorsqu’il dépose une demande au sens de l’art. 71, al. 1 le requérant peut demander par écrit à l’OFDF la destruction des produits.
 
-<sup>2</sup> Lorsqu’une demande de destruction est déposée, l’Administration des douanes en informe le déclarant, le possesseur ou le propriétaire des produits dans le cadre de l’information visée à l’art. 72, al. 1.
+<sup>2</sup> Lorsqu’une demande de destruction est déposée, l’OFDF en informe le déclarant, le possesseur ou le propriétaire des produits dans le cadre de l’information visée à l’art. 72, al. 1.
 
 <sup>3</sup> La demande de destruction ne donne pas lieu à une prolongation des délais prévus à l’art. 72, al. 2 et 3 pour l’obtention de mesures provisionnelles.
 
@@ -1332,7 +1337,7 @@ La poursuite pénale incombe aux cantons.
 
 **Moyens de preuve**[^72e-1]
 
-Avant la destruction des produits, l’Administration des douanes prélève des échantillons et les conserve en tant que moyens de preuve en vue d’une éventuelle action en dommages-intérêts.
+Avant la destruction des produits, l’OFDF prélève des échantillons et les conserve en tant que moyens de preuve en vue d’une éventuelle action en dommages-intérêts.
 
 [^72e-1]: Introduit par l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -1360,7 +1365,7 @@ Avant la destruction des produits, l’Administration des douanes prélève des 
 
 **Déclaration de responsabilité et dommages-intérêts**[^72h-1]
 
-<sup>1</sup> Si la rétention des produits risque d’occasionner un dommage, l’Administration des douanes peut la subordonner à la condition que le requérant lui fournisse une déclaration de responsabilité. Si les circonstances le justifient, elle peut, en lieu et place, exiger du requérant qu’il fournisse des sûretés adéquates.
+<sup>1</sup> Si la rétention des produits risque d’occasionner un dommage, l’OFDF peut la subordonner à la condition que le requérant lui fournisse une déclaration de responsabilité. Si les circonstances le justifient, il peut, en lieu et place, exiger du requérant qu’il fournisse des sûretés adéquates.
 
 <sup>2</sup> Le requérant est tenu de réparer le dommage causé par la rétention des produits et par le prélèvement d’échantillons si des mesures provisionnelles n’ont pas été ordonnées ou si elles se sont révélées infondées.
 
@@ -1388,7 +1393,7 @@ La loi fédérale du 26 septembre 1890[^74-1] concernant la protection des marqu
 
 **Modification du droit en vigueur**
 
-<sup>1.</sup> et 2. …[^75-1]
+<sup>1.</sup> et 2. ...[^75-1]
 
 <sup>3.</sup> Dans tous les actes législatifs, l’expression «*marque de fabrique et de com**merce*» est remplacée par l’expression «*marque*», à l’exception des art. 1 et 2 de la loi fédérale du 5 juin 1931 pour la protection des armoiries publiques et autres signes publics[^75-2]. Les actes législatifs concernés seront adaptés à la prochaine occasion.
 
@@ -1425,7 +1430,7 @@ Si les demandes d’enregistrement concernant des marques exclues de l’enregis
 
 <sup>1</sup> Celui qui, avant l’entrée en vigueur de la présente loi, a le premier utilisé une marque sur des produits ou leur emballage ou pour des services jouit d’un droit qui prime celui du premier déposant, à condition de déposer la marque dans les deux ans suivant l’entrée en vigueur de la présente loi et d’indiquer le moment à partir duquel la marque a été utilisée.
 
-<sup>2</sup> …[^78-1]
+<sup>2</sup> ...[^78-1]
 
 [^78-1]: Abrogé par le ch. II 11 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 

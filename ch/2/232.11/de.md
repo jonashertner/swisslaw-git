@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 28. August 1992 über den Schutz von Marken und Herkunf
 short: MSchG
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/274_274_274"
 language: de
-version: 2021-12-01
+version: 2022-01-01
 adopted: 1992-08-28
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20211201/de/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20211201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20211201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20211201/de"
 
 (Markenschutzgesetz, MSchG)
 
-vom 28. August 1992 (Stand am 1. Dezember 2021)
+vom 28. August 1992 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1238,28 +1238,33 @@ Artikel 69 des Strafgesetzbuches[^68-2] ist anwendbar; der Richter kann anordnen
 
 Die Strafverfolgung ist Sache der Kantone.
 
-### 3. Kapitel: Hilfeleistung der Zollverwaltung
+### 3. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit****
+
+[^tit3-chap3-1]
+
+[^tit3-chap3-1]: Fassung gemäss Ziff. I 3 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 70
 
 **Anzeige verdächtiger Sendungen**[^70-1]
 
-<sup>1</sup> Die Zollverwaltung ist ermächtigt, den Markeninhaber, den an einer Herkunftsangabe Berechtigten oder eine nach Artikel 56 klageberechtigte Partei zu benachrichtigen, wenn der Verdacht besteht, dass das Verbringen von widerrechtlich mit einer Marke oder einer Herkunftsangabe versehenen Waren ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bevorsteht.[^70-2]
+<sup>1</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG) ist ermächtigt, den Markeninhaber, den an einer Herkunftsangabe Berechtigten oder eine nach Artikel 56 klageberechtigte Partei zu benachrichtigen, wenn der Verdacht besteht, dass das Verbringen von widerrechtlich mit einer Marke oder einer Herkunftsangabe versehenen Waren ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bevorsteht.[^70-2]
 
-<sup>2</sup> In diesem Fall ist die Zollverwaltung ermächtigt, die Waren während drei Werktagen zurückzubehalten, damit der Markeninhaber, der an einer Herkunftsangabe Berechtigte oder ein nach Artikel 56 klageberechtigter Berufs- oder Wirtschaftsverband einen Antrag nach Artikel 71 stellen kann.
+<sup>2</sup> In diesem Fall ist das BAZG[^70-3] ermächtigt, die Waren während drei Werktagen zurückzubehalten, damit der Markeninhaber, der an einer Herkunftsangabe Berechtigte oder ein nach Artikel 56 klageberechtigter Berufs- oder Wirtschaftsverband einen Antrag nach Artikel 71 stellen kann.
 
 [^70-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^70-2]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^70-2]: Fassung gemäss Ziff. I 3 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^70-3]: Ausdruck gemäss Ziff. I 3 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 71
 
 **Antrag auf Hilfeleistung**
 
-<sup>1</sup> Hat der Markeninhaber, der klageberechtigte Lizenznehmer, der an einer Herkunftsangabe Berechtigte oder eine nach Artikel 56 klageberechtigte Partei konkrete Anhaltspunkte dafür, dass das Verbringen von widerrechtlich mit einer Marke oder einer Herkunftsangabe versehenen Waren ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bevorsteht, so kann er oder sie der Zollverwaltung schriftlich beantragen, die Freigabe der Waren zu verweigern.[^71-1]
+<sup>1</sup> Hat der Markeninhaber, der klageberechtigte Lizenznehmer, der an einer Herkunftsangabe Berechtigte oder eine nach Artikel 56 klageberechtigte Partei konkrete Anhaltspunkte dafür, dass das Verbringen von widerrechtlich mit einer Marke oder einer Herkunftsangabe versehenen Waren ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bevorsteht, so kann er oder sie dem BAZG schriftlich beantragen, die Freigabe der Waren zu verweigern.[^71-1]
 
-<sup>2</sup> Der Antragsteller muss alle ihm zur Verfügung stehenden Angaben machen, die für den Entscheid der Zollverwaltung erforderlich sind; dazu gehört eine genaue Beschreibung der Waren.
+<sup>2</sup> Der Antragsteller muss alle ihm zur Verfügung stehenden Angaben machen, die für den Entscheid des BAZG erforderlich sind; dazu gehört eine genaue Beschreibung der Waren.
 
-<sup>3</sup> Die Zollverwaltung entscheidet über den Antrag endgültig. Sie kann eine Gebühr zur Deckung der Verwaltungskosten erheben.
+<sup>3</sup> Das BAZG entscheidet über den Antrag endgültig. Es kann eine Gebühr zur Deckung der Verwaltungskosten erheben.
 
 [^71-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
@@ -1267,9 +1272,9 @@ Die Strafverfolgung ist Sache der Kantone.
 
 **Zurückbehalten von Waren**[^72-1]
 
-<sup>1</sup> Hat die Zollverwaltung aufgrund eines Antrags nach Artikel 71 Absatz 1 den begründeten Verdacht, dass eine zum Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bestimmte Ware widerrechtlich mit einer Marke oder einer Herkunftsangabe versehen ist, so teilt sie dies einerseits dem Antragsteller und andererseits dem Anmelder, Besitzer oder Eigentümer der Ware mit.[^72-2]
+<sup>1</sup> Hat das BAZG aufgrund eines Antrags nach Artikel 71 Absatz 1 den begründeten Verdacht, dass eine zum Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bestimmte Ware widerrechtlich mit einer Marke oder einer Herkunftsangabe versehen ist, so teilt es dies einerseits dem Antragsteller und andererseits dem Anmelder, Besitzer oder Eigentümer der Ware mit.[^72-2]
 
-<sup>2</sup> Sie behält die Ware bis höchstens zehn Werktage vom Zeitpunkt der Mitteilung nach Absatz 1 an zurück, damit der Antragsteller vorsorgliche Massnahmen erwirken kann.
+<sup>2</sup> Es behält die Ware bis höchstens zehn Werktage vom Zeitpunkt der Mitteilung nach Absatz 1 an zurück, damit der Antragsteller vorsorgliche Massnahmen erwirken kann.
 
 <sup>3</sup> In begründeten Fällen kann sie die Ware während höchstens zehn weiteren Werktagen zurückbehalten.
 
@@ -1280,7 +1285,7 @@ Die Strafverfolgung ist Sache der Kantone.
 
 **Proben oder Muster**[^72a-1]
 
-<sup>1</sup> Während des Zurückbehaltens der Ware ist die Zollverwaltung ermächtigt, dem Antragsteller auf Antrag Proben oder Muster zur Prüfung zu übergeben oder zuzusenden oder ihm die Besichtigung der zurückbehaltenen Ware zu gestatten.
+<sup>1</sup> Während des Zurückbehaltens der Ware ist das BAZG ermächtigt, dem Antragsteller auf Antrag Proben oder Muster zur Prüfung zu übergeben oder zuzusenden oder ihm die Besichtigung der zurückbehaltenen Ware zu gestatten.
 
 <sup>2</sup> Die Proben oder Muster werden auf Kosten des Antragstellers entnommen und versandt.
 
@@ -1292,11 +1297,11 @@ Die Strafverfolgung ist Sache der Kantone.
 
 **Wahrung von Fabrikations- und Geschäftsgeheimnissen**[^72b-1]
 
-<sup>1</sup> Gleichzeitig mit der Benachrichtigung nach Artikel 72 Absatz 1 informiert die Zollverwaltung den Anmelder, Besitzer oder Eigentümer der Ware über die mögliche Übergabe von Proben oder Mustern beziehungsweise die Besichtigungsmöglichkeit nach Artikel 72*a* Absatz 1.
+<sup>1</sup> Gleichzeitig mit der Benachrichtigung nach Artikel 72 Absatz 1 informiert das BAZG den Anmelder, Besitzer oder Eigentümer der Ware über die mögliche Übergabe von Proben oder Mustern beziehungsweise die Besichtigungsmöglichkeit nach Artikel 72*a* Absatz 1.
 
 <sup>2</sup> Der Anmelder, Besitzer oder Eigentümer kann verlangen, zur Wahrung seiner Fabrikations- oder Geschäftsgeheimnisse bei der Besichtigung anwesend zu sein.
 
-<sup>3</sup> Die Zollverwaltung kann auf begründeten Antrag des Anmelders, Besitzers oder Eigentümers die Übergabe von Proben oder Mustern verweigern.
+<sup>3</sup> Das BAZG kann auf begründeten Antrag des Anmelders, Besitzers oder Eigentümers die Übergabe von Proben oder Mustern verweigern.
 
 [^72b-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -1304,9 +1309,9 @@ Die Strafverfolgung ist Sache der Kantone.
 
 **Antrag auf Vernichtung der Ware**[^72c-1]
 
-<sup>1</sup> Zusammen mit dem Antrag nach Artikel 71 Absatz 1 kann der Antragsteller bei der Zollverwaltung schriftlich beantragen, die Ware zu vernichten.
+<sup>1</sup> Zusammen mit dem Antrag nach Artikel 71 Absatz 1 kann der Antragsteller beim BAZG schriftlich beantragen, die Ware zu vernichten.
 
-<sup>2</sup> Wird ein Antrag auf Vernichtung gestellt, so teilt die Zollverwaltung dies dem Anmelder, Besitzer oder Eigentümer der Ware im Rahmen der Mitteilung nach Artikel 72 Absatz 1 mit.
+<sup>2</sup> Wird ein Antrag auf Vernichtung gestellt, so teilt das BAZG dies dem Anmelder, Besitzer oder Eigentümer der Ware im Rahmen der Mitteilung nach Artikel 72 Absatz 1 mit.
 
 <sup>3</sup> Der Antrag auf Vernichtung führt nicht dazu, dass die Fristen nach Artikel 72 Absätze 2 und 3 zur Erwirkung vorsorglicher Massnahmen verlängert werden.
 
@@ -1326,7 +1331,7 @@ Die Strafverfolgung ist Sache der Kantone.
 
 **Beweismittel**[^72e-1]
 
-Vor der Vernichtung der Ware entnimmt die Zollverwaltung Proben oder Muster und bewahrt sie als Beweismittel auf für allfällige Klagen auf Schadenersatz.
+Vor der Vernichtung der Ware entnimmt das BAZG Proben oder Muster und bewahrt sie als Beweismittel auf für allfällige Klagen auf Schadenersatz.
 
 [^72e-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -1354,7 +1359,7 @@ Vor der Vernichtung der Ware entnimmt die Zollverwaltung Proben oder Muster und 
 
 **Haftungserklärung und Schadenersatz**[^72h-1]
 
-<sup>1</sup> Ist durch das Zurückbehalten der Ware ein Schaden zu befürchten, so kann die Zollverwaltung das Zurückbehalten davon abhängig machen, dass der Antragsteller ihr eine Haftungserklärung abgibt. An deren Stelle kann die Zollverwaltung vom Antragsteller in begründeten Fällen eine angemessene Sicherheitsleistung verlangen.
+<sup>1</sup> Ist durch das Zurückbehalten der Ware ein Schaden zu befürchten, so kann das BAZG das Zurückbehalten davon abhängig machen, dass der Antragsteller ihm eine Haftungserklärung abgibt. An deren Stelle kann das BAZG vom Antragsteller in begründeten Fällen eine angemessene Sicherheitsleistung verlangen.
 
 <sup>2</sup> Der Antragsteller muss den Schaden, der durch das Zurückbehalten der Ware und die Entnahme von Proben oder Mustern entstanden ist, ersetzen, wenn vorsorgliche Massnahmen nicht angeordnet werden oder sich als unbegründet erweisen.
 
@@ -1376,7 +1381,7 @@ Der Bundesrat erlässt die Ausführungsbestimmungen.
 
 Das Bundesgesetz vom 26. September 1890[^74-1] betreffend den Schutz der Fabrik- und Handelsmarken, der Herkunftsbezeichnungen von Waren und der gewerblichen Auszeichnungen wird aufgehoben. Jedoch ist Artikel 16<sup>bis</sup> Absatz 2 bis zum Inkrafttreten von Artikel 36 dieses Gesetzes weiterhin anwendbar.
 
-[^74-1]: [BS **2** 845; [AS 1951 903](https://fedlex.data.admin.ch/eli/oc/1951/903_906_931)Art. 1, [1971 1617](https://fedlex.data.admin.ch/eli/oc/1971/1617_1617_1617), [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Anhang Ziff. I Bst. e]
+[^74-1]: [BS **2** 845; [AS 1951 903](https://fedlex.data.admin.ch/eli/oc/1951/903_906_931)Art. 1; [1971 1617](https://fedlex.data.admin.ch/eli/oc/1971/1617_1617_1617); [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Anhang Ziff. I Bst. e]
 
 #### Art. 75
 
@@ -1387,7 +1392,7 @@ Das Bundesgesetz vom 26. September 1890[^74-1] betreffend den Schutz der Fabrik-
 <sup>3.</sup> Der Ausdruck «Fabrik- und Handelsmarken» wird in sämtlichen Erlassen durch «Marken» ersetzt; davon ausgenommen sind die Artikel 1 und 2 des Bundesgesetzes vom 5. Juni 1931[^75-2] zum Schutz öffentlicher Wappen und anderer öffentlicher Zeichen. Die betreffenden Erlasse sind bei nächster Gelegenheit entsprechend anzupassen.
 
 [^75-1]: Diese Änderungen können unter [AS 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)konsultiert werden.
-[^75-2]: [[AS 48 1](https://fedlex.data.admin.ch/eli/oc/48/1_1_1), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 25, [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 13. [AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613)Anhang 3 Ziff. I 1]. Siehe heute: das BG vom 21. Juni 2013 ([SR 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)).
+[^75-2]: [[AS 48 1](https://fedlex.data.admin.ch/eli/oc/48/1_1_1); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 25; [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 13. [AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613)Anhang 3 Ziff. I 1]. Siehe heute: das BG vom 21. Juni 2013 ([SR 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)).
 
 ### 3. Kapitel: Übergangsbestimmungen
 
