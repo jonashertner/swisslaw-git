@@ -4,13 +4,12 @@ number: "860.111.1"
 title: Ordonnance de Direction sur le calcul des prestations circonstancielles
 short: ODPCirc
 language: fr
-version: 2016-05-01
-valid_until: 2021-12-31
-version_adopted: 2016-04-18
+version: 2022-01-01
+version_adopted: 2021-11-17
 adopted: 2015-08-28
 in_force: 2015-10-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1025/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2501/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1025/pdf_file"
 
 (ODPCirc)
 
-du 28.08.2015 (état au 01.05.2016)
+du 28.08.2015 (état au 01.01.2022)
 
 La Direction de la santé publique et de la prévoyance sociale du canton de Berne,
 
@@ -45,59 +44,60 @@ arrête:
 
 ## 2 Frais de placement
 
+### 2.1 Bases
+
+#### Art. 2a
+
+<sup>1</sup> Lorsque le placement institutionnel ou familial d’une personne bénéficiaire mineure est décidé d’un commun accord, la compétence en matière de prise en charge ou de préfinancement des frais de placement est réglée
+
+- a par les dispositions de la loi du 3 décembre 2020 sur les prestations particulières d’encouragement et de protection destinées aux enfants (LPEP)[^2a-1] dans la mesure où la personne a été placée par un service social ou
+- b par les dispositions ci-après si un organisme mandaté selon l’article 10 alinéa 1 de la loi du 3 décembre 2019 sur l’aide sociale dans le domaine de l’asile et des réfugiés (LAAR)[^2a-2] s’est chargé du placement.
+
+<sup>2</sup> Les frais accessoires (art. 8) ne font pas partie des frais de placement.
+
+[^2a-1]: RSB [213.319](https://www.belex.sites.be.ch/data/213.319/fr)
+[^2a-2]: RSB [861.1](https://www.belex.sites.be.ch/data/861.1/fr)
+
+### 2.2 Prise en charge des frais dans le cadre de l’aide sociale aux réfugiés
+
 #### Art. 3
 
 **Condition**
 
-<sup>1</sup> Le montant maximum est pris en charge à condition
+<sup>1</sup> Les montants maximaux sont pris en charge à condition que le placement effectué par un organisme selon l’article 10, alinéa 1 LAAR
 
-- a que le placement soit durable et décidé d’un commun accord,
-- b qu’il soit indispensable pour le bien du ou de la bénéficiaire mineure;
-- c qu’il serve aux fins d’éducation, de soutien et d’encadrement du ou de la bénéficiaire mineure en suppléant sa représentation légale et
-- d que le ou la bénéficiaire mineure soit placée dans une institution disposant d’une autorisation d’exploiter de l’autorité compétente ou dans une famille d’accueil titulaire d’une autorisation au sens de l’ordonnance fédérale du 19 octobre 1977 sur le placement d’en-fants (OPE)[^3-1].
+- a soit décidé d’un commun accord;
+- b soit indispensable pour le bien de la personne bénéficiaire mineure;
+- c serve aux fins d’éducation, de soutien et d’encadrement de celle-ci en suppléant sa représentation légale;
+- d ait lieu dans une institution disposant d’une autorisation d’exploiter de l’autorité compétente, ou chez des parents nourriciers titulaires d’une autorisation au sens de l’ordonnance fédérale du 19 octobre 1977 sur le placement d’enfants (OPE)[^3-1];
+- e soit régi, dans le cas d’un placement familial, par un contrat écrit conclu entre les parents nourriciers et la personne représentant légalement l’enfant, qui stipule en particulier
+  - 1 la date de début du rapport de placement;
+  - 2 le prix de la pension (rétribution pour la prise en charge, l’hébergement et la nourriture);
+  - 3 les dépenses qui ne sont pas couvertes par le montant versé à titre de pension (frais accessoires).
 
-[^3-1]: RS 211.222.338
+[^3-1]: RS [211.222.338](https://db.clex.ch/link/Bund/211.222.338/fr)
 
 #### Art. 4
 
-**Montant maximum**
+**Montants maximaux**
 
-<sup>1</sup> Des frais de placement de 300 francs au maximum sont pris en charge par jour passé dans une institution ou dans une famille d’accueil indépendamment du type de placement.
+<sup>1</sup> Des frais de placement équivalents au prix de la pension convenu sont pris en charge par jour passé chez des parents nourriciers et s’élèvent au plus aux montants maximaux prévus par les articles 26 à 28 de l’ordonnance du 30 juin 2021 sur les prestations particulières d’encouragement et de protection destinées aux enfants (OPEP)[^4-1].
 
-<sup>2</sup> En cas d’absence de courte durée du ou de la bénéficiaire mineure, le montant versé est celui convenu au début du séjour par le service social avec l’institution ou la famille d’accueil pour les absences de courte durée.
+<sup>1a</sup> Si le placement a lieu dans une institution qui a conclu un contrat ou une convention de prestations au sens de l’article 15 LPEP, la rétribution est basée sur le forfait mensuel fixé contractuellement en vertu des articles 13 et 14 OPEP et sur le tarif journalier par enfant pris en charge.
 
-#### Art. 5
+<sup>1b</sup> Si le placement a lieu dans une institution qui n’a pas conclu de contrat de prestations au sens de l’article 15 LPEP, des frais de placement s’élevant au maximum à 300 francs sont en principe pris en charge par jour passé dans l’institution.
 
-**Frais couverts**
+<sup>2</sup> S’agissant des placements mentionnés à l’alinéa 1b, le montant versé en cas d’absence de courte durée de la personne bénéficiaire mineure est celui convenu au début du séjour entre l’organisme mandaté selon l’article 10 alinéa 1 LAAR et l’institution pour de telles absences.
 
-<sup>1</sup> Les frais comprennent les soins et l’encadrement par l’institution ou la famille (art. 6) ainsi que les frais matériels (art. 7).
+[^4-1]: RSB [213.319.1](https://www.belex.sites.be.ch/data/213.319.1/fr)
 
-<sup>2</sup> Les frais accessoires (art. 8) n’en font pas partie.
+#### Art. 5–7
 
-#### Art. 6
+**…**
 
-**Soins et encadrement**
-
-<sup>1</sup> Sont considérés comme frais de soins et d’encadrement l’ensemble des dépenses engagées directement pour les soins, l’éducation et l’encadrement.
-
-<sup>2</sup> N’en font pas partie les dépenses suivantes:
-
-- a les frais d’intermédiaire pour trouver une place dans une famille d’accueil ainsi que
-- b ceux liés à l’enseignement scolaire en lieu et place de l’école publique.
-
-#### Art. 7
-
-**Frais matériels**
-
-<sup>1</sup> Les frais matériels comprennent
-
-- a la pension,
-- b le logement,
-- c les activités de loisir communes de l’institution ou de la famille d’accueil et les dépenses pour les appareils de sport, les jeux, les livres, les revues et le matériel de bricolage.
+### 2.3 Frais accessoires
 
 #### Art. 8
-
-**Frais accessoires**
 
 <sup>1</sup> Les frais suivants sont considérés comme accessoires:
 
@@ -110,12 +110,7 @@ arrête:
 
 #### Art. 9
 
-**Formation scolaire**
-
-<sup>1</sup> Les frais scolaires des mineurs qui ne peuvent pas suivre l’école publique, qui bénéficient d’une autre forme de scolarisation selon l’article 18 de la loi du 19 mars 1992 sur l’école obligatoire (LEO)[^9-1] et dont les frais scolaires ne sont pas couverts selon l’ordonnance du 8 mai 2013 sur les mesures de pédagogie spécialisée (ordonnance sur la pédagogie spécialisée, OPSpéc)[^9-2] sont pris en charge à hauteur de 150 francs par journée d’école au maximum.
-
-[^9-1]: RSB 432.210
-[^9-2]: RSB 432.281
+**…**
 
 ## 3 Autres prestations circonstancielles limitées
 
@@ -187,9 +182,9 @@ arrête:
 
 #### Art. 15
 
-**Activités de loisirs des mineurs**
+**Activités de loisirs des personnes mineures**
 
-<sup>1</sup> Les frais des activités extrascolaires des mineurs sont pris en charge jusqu’à 16 ans révolus, pour autant que les activités soient indispensables à leur développement, à leur intégration, à la prévention, à leur santé ou à leur bien-être.
+<sup>1</sup> Les frais des activités extrascolaires des personnes mineures sont pris en charge jusqu’à 16 ans révolus, pour autant que les activités soient indispensables à leur développement, à leur intégration, à la prévention, à leur santé ou à leur bien-être.
 
 <sup>2</sup> Un montant maximum de 600 francs est pris en charge par année.
 
@@ -201,7 +196,7 @@ arrête:
 
 <sup>1</sup> Le maximum fixé à l’article 4, alinéa 1 s’applique aux placements en cours à partir du 1<sup>er</sup> octobre 2016 au plus tard.
 
-<sup>2</sup> Le maximum fixé à l’article 9 s’applique aux formations scolaires en cours à partir du 1<sup>er</sup> octobre 2016 au plus tard.
+<sup>2</sup> …
 
 #### Art. 17
 

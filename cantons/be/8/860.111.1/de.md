@@ -4,13 +4,12 @@ number: "860.111.1"
 title: Direktionsverordnung über die Bemessung von situationsbedingten Leistungen
 short: SILDV
 language: de
-version: 2016-05-01
-valid_until: 2021-12-31
-version_adopted: 2016-04-18
+version: 2022-01-01
+version_adopted: 2021-11-17
 adopted: 2015-08-28
 in_force: 2015-10-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1025/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2501/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1025/pdf_file"
 
 (SILDV)
 
-vom 28.08.2015 (Stand 01.05.2016)
+vom 28.08.2015 (Stand 01.01.2022)
 
 Der Gesundheits- und Fürsorgedirektor des Kantons Bern,
 
@@ -45,59 +44,60 @@ beschliesst:
 
 ## 2 Unterbringungskosten
 
+### 2.1 Grundlagen
+
+#### Art. 2a
+
+<sup>1</sup> Im Falle einer einvernehmlichen Unterbringung einer oder eines bedürftigen Minderjährigen in einer Institution oder Pflegefamilie richtet sich die Zuständigkeit der Kostenübernahme oder Vorfinanzierung der Unterbringungskosten
+
+- a nach den Bestimmungen des Gesetzes vom 3. Dezember 2020 über die Leistungen für Kinder mit besonderem Förder- und Schutzbedarf (KFSG)[^2a-1], sofern die Unterbringung von einem Sozialdienst vermittelt worden ist, oder
+- b nach den nachfolgenden Bestimmungen, sofern die Unterbringung von einer gestützt auf Artikel 10 Absatz 1 des Gesetzes vom 3. Dezember 2019 über die Sozialhilfe im Asyl- und Flüchtlingsbereich (SAFG)[^2a-2] beauftragten Trägerschaft vermittelt worden ist.
+
+<sup>2</sup> Nebenkosten (Art. 8) sind nicht Bestandteil der Unterbringungskosten.
+
+[^2a-1]: BSG [213.319](https://www.belex.sites.be.ch/data/213.319/de)
+[^2a-2]: BSG [861.1](https://www.belex.sites.be.ch/data/861.1/de)
+
+### 2.2 Kostenübernahme in der Flüchtlingssozialhilfe
+
 #### Art. 3
 
 **Voraussetzungen für Kostenübernahme**
 
-<sup>1</sup> Der Maximalbetrag für Unterbringungskosten wird ausgerichtet, wenn die Unterbringung
+<sup>1</sup> Die Maximalbeträge für Unterbringungskosten werden ausgerichtet, wenn die von einer Trägerschaft gemäss Artikel 10 Absatz 1 SAFG vermittelte Unterbringung
 
-- a einvernehmlich und dauerhaft ist,
-- b unabdingbar für das Wohl des oder der bedürftigen Minderjährigen ist,
-- c die Erziehung, die Unterstützung und die Betreuung von Minderjährigen anstelle ihrer gesetzlichen Vertreter bezweckt und
-- d in einer Institution mit einer Betriebsbewilligung der zuständigen Behörde oder in einer Pflegefamilie mit einer Bewilligung gemäss der eidgenössischen Verordnung vom 19. Oktober 1977 über die Aufnahme von Pflegekindern (Pflegekinderverordnung, PAVO)[^3-1] erfolgt.
+- a einvernehmlich ist,
+- b unabdingbar für das Wohl der oder des bedürftigen Minderjährigen ist,
+- c die Erziehung, die Unterstützung und die Betreuung von Minderjährigen anstelle ihrer gesetzlichen Vertreter bezweckt,
+- d in einer Institution mit einer Betriebsbewilligung der zuständigen Behörde oder in einer Pflegefamilie mit einer Bewilligung gemäss der eidgenössischen Verordnung vom 19. Oktober 1977 über die Aufnahme von Pflegekindern (Pflegekinderverordnung, PAVO)[^3-1] erfolgt und
+- e bei Familienpflege ein schriftlicher Pflegevertrag zwischen den Pflegeeltern und der gesetzlichen Vertretung des Pflegekindes abgeschlossen wurde, der insbesondere regelt:
+  - 1 den Zeitpunkt des Beginns des Pflegekinderverhältnisses.
+  - 2 das Pflegegeld (Abgeltung für Betreuung, Unterkunft und Verpflegung).
+  - 3 die Auslagen, die nicht durch das Pflegegeld abgegolten werden (Nebenkosten).
 
-[^3-1]: SR 211.222.338
+[^3-1]: SR [211.222.338](https://db.clex.ch/link/Bund/211.222.338/de)
 
 #### Art. 4
 
-**Maximalbetrag**
+**Maximalbeträge**
 
-<sup>1</sup> Pro Tag, den die Minderjährigen in der Institution oder der Pflegefamilie verbringen, werden grundsätzlich unabhängig von der Unterbringungsart Unterbringungskosten bis maximal 300 Franken übernommen.
+<sup>1</sup> Pro Tag, den die Minderjährigen in der Pflegefamilie verbringen, werden Unterbringungskosten im Umfang des vereinbarten Pflegegeldes übernommen, höchstens aber bis zu den Maximalbeträgen gemäss Artikel 26 bis 28 der Verordnung vom 30. Juni 2021 über die Leistungen für Kinder mit besonderem Förder- und Schutzbedarf (KFSV)[^4-1].
 
-<sup>2</sup> Bei einer kurzfristigen Abwesenheit des oder der Minderjährigen wird derjenige Betrag bezahlt, der im Zeitpunkt der Unterbringung zwischen Sozialdienst und Institution oder Pflegefamilie für solche Abwesenheiten vereinbart wurde.
+<sup>1a</sup> Wird die Unterbringung von einer Institution erbracht, die einen Leistungsvertrag oder eine Leistungsvereinbarung gemäss Artikel 15 KFSG abgeschlossen hat, richtet sich die Kostenübernahme nach der gemäss Artikel 13 und 14 KFSV vertraglich festgelegten monatlichen Pauschale und dem Tagestarif pro betreutem Kind.
 
-#### Art. 5
+<sup>1b</sup> Wird die Unterbringung in einer Institution ohne Leistungsvertrag gemäss Artikel 15 KFSG erbracht, werden grundsätzlich Unterbringungskosten bis maximal 300 Franken pro Tag übernommen.
 
-**Gedeckte Aufwände**
+<sup>2</sup> Bei Unterbringungen gemäss Absatz 1b wird bei einer kurzfristigen Abwesenheit der oder des Minderjährigen derjenige Betrag bezahlt, der im Zeitpunkt der Unterbringung zwischen Trägerschaft gemäss Artikel 10 Absatz 1 SAFG und Institution für solche Abwesenheiten vereinbart worden ist.
 
-<sup>1</sup> Die Unterbringungskosten umfassen den Pflege- und Betreuungsaufwand des oder der Minderjährigen durch die Institution oder die Pflegefamilie (Art. 6) sowie den Sachaufwand (Art. 7).
+[^4-1]: BSG [213.319.1](https://www.belex.sites.be.ch/data/213.319.1/de)
 
-<sup>2</sup> Nebenkosten (Art. 8) sind nicht Bestandteil der Unterbringungskosten.
+#### Art. 5–7
 
-#### Art. 6
+**…**
 
-**Pflege- und Betreuungsaufwand**
-
-<sup>1</sup> Als Pflege- und Betreuungsaufwand gelten sämtliche Kosten, welche direkt durch die Pflege, die Erziehung und die Betreuung entstehen.
-
-<sup>2</sup> Nicht Bestandteil der Pflege- und Betreuungskosten bilden insbesondere Kosten für
-
-- a die Vermittlung eines Platzes in einer Pflegefamilie und
-- b den schulischen Unterricht anstelle des Besuchs einer öffentlichen Volksschule.
-
-#### Art. 7
-
-**Sachaufwand**
-
-<sup>1</sup> Zum Sachaufwand gehören Kosten für
-
-- a Ernährung,
-- b Unterkunft,
-- c gemeinsame Freizeitaktivitäten der Institution oder der Pflegefamilie sowie insbesondere Auslagen für Sportgeräte, Spiele, Bücher, Zeitschriften und Bastelmaterial.
+### 2.3 Nebenkosten
 
 #### Art. 8
-
-**Nebenkosten**
 
 <sup>1</sup> Als Nebenkosten gelten insbesondere folgende Aufwände:
 
@@ -110,12 +110,7 @@ beschliesst:
 
 #### Art. 9
 
-**Schulbildung**
-
-<sup>1</sup> Schulkosten für Minderjährige, die dem Unterricht in der öffentlichen Volksschule nicht folgen können, nach Artikel 18 des Volksschulgesetzes vom 19. März 1992 (Volksschulgesetz, VSG)[^9-1] ausgeschult sind und deren Schulkosten gemäss der Verordnung vom 8. Mai 2013 über die sonderpädagogischen Massnahmen (Sonderpädagogikverordnung, SPMV)[^9-2] nicht übernommen werden, werden bis zum Maximalbetrag von 150 Franken pro Schultag übernommen.
-
-[^9-1]: BSG 432.210
-[^9-2]: BSG 432.281
+**…**
 
 ## 3 Weitere situationsbedingte Leistungen mit Maximalbetrag
 
@@ -201,7 +196,7 @@ beschliesst:
 
 <sup>1</sup> Für bestehende Unterbringungsverhältnisse gilt der Maximalbetrag gemäss Artikel 4 Absatz 1 spätestens ab 1. Oktober 2016.
 
-<sup>2</sup> Für bestehende Schulverhältnisse gilt der Maximalbetrag gemäss Artikel 9 spätestens ab 1. Oktober 2016.
+<sup>2</sup> …
 
 #### Art. 17
 
