@@ -4,11 +4,11 @@ title: "Lescha federala dals 7 d'october 1983 davart la protecziun da l'ambient 
 short: LPAmb
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122"
 language: rm
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1983-10-07
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20210101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20210101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20220101-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20220101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart la protecziun da l’ambient, LPAmb)
 
-dals 7 d’october 1983 (versiun dal 1. da schaner 2021)
+dals 7 d’october 1983 (versiun dal 1. da schaner 2022)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -131,7 +131,7 @@ Uschenavant che quai è necessari per la defensiun generala, regla il Cussegl fe
 [^7-9]: Integrà tras la cifra I da la LF dals 21 da dec. 1995, en vigur dapi il 1. da fan. 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 [^7-10]: Integrà tras la cifra I da la LF dals 21 da dec. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Versiun tenor la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, en vigur dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^7-11]: Integrà tras l’art. 2 cifra 1 dal COF dals 27 da sett. 2013 (Convenziun d’Aarhus), en vigur dapi il 1. da zer. 2014 ([AS 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [BBl 2012 4323](https://fedlex.data.admin.ch/eli/fga/2012/596)).
-[^7-12]: Integrà tras l’agiunta da la LF dals 21 da mars 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Versiun tenor la cifra I 3 da la LF dals 20 da dec. 2019 davart la prolungaziun da la limitaziun temporara da las facilitaziuns fiscalas per gas natiral, gas liquid e carburants biogens e davart la midada da la Lescha federala davart la reducziun da las emissiuns da CO<sub>2</sub>, en vigur dal 1. da fan. 2020 fin ils 31 da dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^7-12]: Integrà tras l’agiunta da la LF dals 21 da mars 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Versiun tenor la cifra I 3 da la LF dals 20 da dec. 2019 davart la prolungaziun da la limitaziun temporara da las facilitaziuns fiscalas per gas natiral, per gas liquid e per carburants biogens e davart la midada da la Lescha federala davart la reducziun da las emissiuns da CO<sub>2</sub>, en vigur dal 1. da fan. 2020 fin ils 31 da dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 
 #### Art. 8
 
@@ -1124,22 +1124,31 @@ L’obligaziun da pajar la taxa han:
 
 <sup>4</sup> Tgi che producescha en Svizra substanzas u organissems ch’èn suttamess a la taxa, sto declerar tals.
 
-[^35c-1]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 cifra III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)agiunta cifra 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)cifra I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)cifra III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)cifra I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)agiunta 2 cifra 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)agiunta cifra 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)cifra I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)agiunta cifra II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Guardar oz: art. 70 da la Lescha da duana dals 18 da mars 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^35c-1]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 cifra III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)agiunta cifra 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)cifra I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)cifra III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)cifra I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)agiunta 2 cifra 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)agiunta cifra 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)cifra I 1 art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)agiunta cifra II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Guardar oz: art. 70 da la Lescha da duana dals 18 da mars 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
 [^35c-2]: Versiun tenor la cifra I da la LF dals 20 da zer. 2003, en vigur dapi il 1. da schan. 2004 ([AS 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [BBl 2002 6464](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
 [^35c-3]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
 [^35c-4]: Versiun tenor la cifra 6 da l’agiunta 2 da la LF dals 21 da zer. 1996 davart la taglia sin il petroli, en vigur dapi il 1. da schan. 1997 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
 [^35c-5]: Versiun tenor la cifra 6 da l’agiunta 2 da la LF dals 21 da zer. 1996 davart la taglia sin il petroli, en vigur dapi il 1. da schan. 1997 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
 [^35c-6]: Integrà tras la cifra 6 da l’agiunta 2 da la LF dals 21 da zer. 1996 davart la taglia sin il petroli ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)). Versiun tenor la cifra I da la LF dals 20 da zer. 2003, en vigur dapi il 1. da schan. 2004 ([AS 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [BBl 2002 6464](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
 
-### 7. chapitel**** Metter en circulaziun carburants e combustibels biogens
+### 7. chapitel**** Metter en circulaziun materias primas e products****
 
-[^tit2-chap7-1]
+[^tit2-chap7-1][^tit2-chap7-2]
 
-[^tit2-chap7-1]: Integrà tras l’agiunta da la LF dals 21 da mars 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Versiun tenor la cifra I 3 da la LF dals 20 da dec. 2019 davart la prolungaziun da la limitaziun temporara da las facilitaziuns fiscalas per gas natiral, gas liquid e carburants biogens e davart la midada da la Lescha federala davart la reducziun da las emissiuns da CO<sub>2</sub>, en vigur dal 1. da fan. 2020 fin ils 31 da dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^tit2-chap7-1]: Integrà tras l’agiunta da la LF dals 21 da mars 2014, en vigur dapi il 1. d’avust 2016 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)).
+[^tit2-chap7-2]: Versiun tenor la cifra I da la LF dals 27 da sett. 2019, en vigur dapi il 1. da schan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+
+### 1. secziun Carburants e combustibels biogens****
+
+[^tit2-chap7-sec1-1]
+
+[^tit2-chap7-sec1-1]: Integrà tras la cifra II da la LF dals 20 da dec. 2019 davart la prolungaziun da la limitaziun temporara da las facilitaziuns fiscalas per gas natiral, per gas liquid e per carburants biogens e davart la midada da la Lescha federala davart la reducziun da las emissiuns da CO<sub>2</sub>, en vigur dal 1. da fan. 2020 fin ils 31 da dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 
 #### Art. 35d
 
-<sup>1</sup> Sch’i vegnan messas en circulaziun grondas quantitads da carburants e da combustibels biogens u da maschaidas che cuntegnan tals carburants e combustibels, e sche quests products n’adempleschan betg las pretensiuns tenor l’artitgel 12*b* alineas 1 e 3 da la Lescha federala dals 21 da zercladur 1996[^35d-1] davart la taglia sin il petroli, po il Cussegl federal prevair che carburants e combustibels biogens, ch’el ha designà, dastgan vegnir mess en circulaziun mo, sch’els adempleschan tschertas pretensiuns ecologicas u socialas.
+[^35d-1]
+
+<sup>1</sup> Sch’i vegnan messas en circulaziun grondas quantitads da carburants e da combustibels biogens u da maschaidas che cuntegnan tals carburants e combustibels, e sche quests products n’adempleschan betg las pretensiuns tenor l’artitgel 12*b* alineas 1 e 3 da la Lescha federala dals 21 da zercladur 1996[^35d-2] davart la taglia sin il petroli, po il Cussegl federal prevair che carburants e combustibels biogens, ch’el ha designà, dastgan vegnir mess en circulaziun mo, sch’els adempleschan tschertas pretensiuns ecologicas u socialas.
 
 <sup>2</sup> Exceptà da questa obligaziun d’admissiun è l’etanol ch’è destinà a la combustiun.
 
@@ -1150,7 +1159,58 @@ Resguardond las disposiziuns da la legislaziun davart la taglia sin il petroli f
 - a. las pretensiuns ecologicas u socialas che ston vegnir ademplidas dals carburants e combustibels suttamess a l’admissiun;
 - b. la procedura d’admissiun.
 
-[^35d-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^35d-1]: Versiun tenor la cifra I 3 da la LF dals 20 da dec. 2019 davart la prolungaziun da la limitaziun temporara da las facilitaziuns fiscalas per gas natiral, per gas liquid e per carburants biogens e davart la midada da la Lescha federala davart la reducziun da las emissiuns da CO<sub>2</sub>, en vigur dal 1. da fan. 2020 fin ils 31 da dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^35d-2]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+
+### 2. secziun**** Lain e products da lain sco er ulteriuras materias primas ed ulteriurs products
+
+[^tit2-chap7-sec2-1]
+
+[^tit2-chap7-sec2-1]: Integrà tras la cifra I da la LF dals 27 da sett. 2019, en vigur dapi il 1. da schan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+
+#### Art. 35e
+
+**Pretensiuns per metter en circulaziun**
+
+<sup>1</sup> Igl è scumandà da metter en circulaziun per l’emprima giada lain e products da lain, sche lur explotaziun e lur commerzi na correspundan betg a las prescripziuns dal pajais d’origin davart il tagl da laina e davart il commerzi cun laina.
+
+<sup>2</sup> En concordanza cun las disposiziuns da l’Uniun europeica fixescha il Cussegl federal las pretensiuns per metter en circulaziun lain e products da lain.
+
+<sup>3</sup> En concordanza cun standards internaziunals po il Cussegl federal definir pretensiuns per metter en circulaziun ulteriuras materias primas ed ulteriurs products u scumandar da metter en circulaziun tala rauba, sche la cultivaziun, l’explotaziun u la producziun engrevgescha considerablamain l’ambient u periclitescha considerablamain l’utilisaziun persistenta da las resursas natiralas.
+
+#### Art. 35f
+
+**Obligaziun da diligenza**
+
+<sup>1</sup> Tgi che metta en circulaziun per l’emprima giada lain u products da lain ubain ulteriuras materias primas ed ulteriurs products designads dal Cussegl federal tenor l’artitgel 35*e* alinea 3, sto agir cun tut il quità necessari per garantir che la rauba adempleschia las pretensiuns tenor l’artitgel 35*e*.
+
+<sup>2</sup>
+
+Il Cussegl federal regla:
+
+- a. il gener, il cuntegn e la dimensiun da l’obligaziun da diligenza;
+- b. la controlla da l’observaziun da l’obligaziun da diligenza;
+- c. la renconuschientscha d’organisaziuns che sustegnan e controlleschan l’observaziun da l’obligaziun da diligenza sco er la controlla da lur activitad.
+
+<sup>3</sup> Il Cussegl federal po suttametter ad in’obligaziun d’annunzia tgi che metta en circulaziun per l’emprima giada lain u products da lain.
+
+<sup>4</sup> Il Cussegl federal po prevair che lain u products da lain sco er ulteriuras materias primas ed ulteriurs products ch’el ha designà tenor l’artitgel 35*e* alinea 3 vegnian tramess enavos, sequestrads u confiscads, en cas che l’alinea 1 u 2 u l’artitgel 35*e* vegn violà. En cas spezialmain gravants po el plinavant prevair ch’i vegnia pronunzià in scumond da far commerzi cun lain u cun products da lain.
+
+#### Art. 35g
+
+**Repersequitabladad e decleraziun**
+
+<sup>1</sup> Ils commerziants ston documentar da tge furnitur ch’els han retratg lain u products da lain ed a tge cumprader ch’els han vendì questa rauba; il Cussegl federal po introducir ina tala obligaziun da documentaziun per ulteriuras materias primas e per ulteriurs products ch’el ha designà tenor l’artitgel 35*e* alinea 3.
+
+<sup>2</sup> Mintga persuna che furnescha lain u products da lain al consument sto declerar la spezia e la derivanza dal lain. Il Cussegl federal definescha il lain ed ils products da lain ch’èn suttamess a questa obligaziun da decleraziun.
+
+#### Art. 35h
+
+**Elavuraziun da datas**
+
+<sup>1</sup> Las autoritads u ils terzs che han l’incumbensa da realisar questa lescha ubain da controllar u da survegliar la realisaziun, pon elavurar datas persunalas, inclusiv datas persunalas spezialmain sensiblas davart sancziuns administrativas u penalas, sche quai è necessari per exequir questa part.
+
+<sup>2</sup> Las autoritads svizras pon communitgar datas persunalas, inclusiv datas persunalas spezialmain sensiblas davart sancziuns administrativas u penalas, ad autoritads estras ed ad instituziuns internaziunalas, sche quai è necessari per exequir las disposiziuns da l’Uniun europeica per metter en circulaziun lain e products da lain.
 
 ## 3. titel Execuziun, promoziun e procedura
 
@@ -1230,7 +1290,7 @@ El po concluder cunvegnas internaziunalas davart:[^39-2]
 
 **Cumpetenzas executivas da la Confederaziun**
 
-<sup>1</sup> La Confederaziun exequescha ils artitgels 12 alinea 1 litera e (prescripziuns concernent combustibels e carburants), 26 (autocontrolla), 27 (infurmaziun dals cumpraders), 29 (prescripziuns concernent substanzas), 29*a*–29*h* (applicaziun d’organissems), 30*b* alinea 3 (cassa da cumpensaziun dal pegn), 30*f* e 30*g* (import ed export da ruments), 31*a* alinea 2 e 31*c* alinea 3 (mesiras da la Confederaziun concernent la dismessa da ruments), 32*a*<sup>bis</sup> (taxa da dismessa anticipada), 32*e* alineas 1–4 (taxa per finanziar sanaziuns), 35*a*–35*c* (taxas directivas), 35*d* (metter en circulaziun carburants e combustibels biogens), 39 (prescripziuns executivas e cunvegnas internaziunalas), 40 (metter en circulaziun stabiliments producids en seria) e 46 alinea 3 (indicaziuns davart substanzas ed organissems); ella po engaschar ils chantuns per tschertas incumbensas parzialas.[^41-1]
+<sup>1</sup> La Confederaziun exequescha ils artitgels 12 alinea 1 litera e (prescripziuns concernent combustibels e carburants), 26 (autocontrolla), 27 (infurmaziun dals cumpraders), 29 (prescripziuns concernent substanzas), 29*a*–29*h* (applicaziun d’organissems), 30*b* alinea 3 (cassa da cumpensaziun dal pegn), 30*f* e 30*g* (import ed export da ruments), 31*a* alinea 2 e 31*c* alinea 3 (mesiras da la Confederaziun concernent la dismessa da ruments), 32*a*<sup>bis</sup> (taxa da dismessa anticipada), 32*e* alineas 1–4 (taxa per finanziar sanaziuns), 35*a*–35*c* (taxas directivas), 35*d* (carburants e combustibels biogens), 35*e*–35*h* (lain e products da lain sco er ulteriuras materias primas ed ulteriurs products), 39 (prescripziuns executivas e cunvegnas internaziunalas), 40 (metter en circulaziun stabiliments producids en seria) e 46 alinea 3 (indicaziuns davart substanzas ed organissems); ella po engaschar ils chantuns per tschertas incumbensas parzialas.[^41-1]
 
 <sup>2</sup> L’autoritad federala che exequescha in’autra lescha federala u in contract internaziunal è cumpetenta – ademplind questa incumbensa – er per exequir la Lescha davart la protecziun da l’ambient. Avant che prender ina decisiun consultescha ella ils chantuns pertutgads. L’uffizi federal ed ils ulteriurs servetschs federals pertutgads coopereschan a l’execuziun tenor ils artitgels 62*a* e 62*b* da la Lescha federala dals 21 da mars 1997[^41-2] davart l’organisaziun da la regenza e da l’administraziun.[^41-3]
 
@@ -1238,7 +1298,7 @@ El po concluder cunvegnas internaziunalas davart:[^39-2]
 
 <sup>4</sup> Las autoritads executivas da la Confederaziun resguardan las mesiras ch’ils chantuns han prendì a favur da la protecziun da l’ambient.[^41-5]
 
-[^41-1]: Versiun tenor la cifra I 3 da la LF dals 20 da dec. 2019 davart la prolungaziun da la limitaziun temporara da las facilitaziuns fiscalas per gas natiral, gas liquid e carburants biogens e davart la midada da la Lescha federala davart la reducziun da las emissiuns da CO<sub>2</sub>, en vigur dal 1. da fan. 2020 fin ils 31 da dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^41-1]: Versiun tenor la cifra II da la LF dals 20 da dec. 2019 davart la prolungaziun da la limitaziun temporara da las facilitaziuns fiscalas per gas natiral, per gas liquid e per carburants biogens e davart la midada da la Lescha federala davart la reducziun da las emissiuns da CO<sub>2</sub>, en vigur dal 1. da fan. 2020 fin ils 31 da dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 [^41-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^41-3]: Versiun tenor la cifra I 14 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da proceduras da decisiun, en vigur dapi il 1. da schan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^41-4]: Versiun tenor la cifra I 14 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da proceduras da decisiun, en vigur dapi il 1. da schan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
@@ -1401,14 +1461,9 @@ La Confederaziun po conceder contribuziuns als custs per construir e per equipar
 
 #### Art. 52
 
-**Stabiliments per dismetter ruments**
+[^52-1]
 
-<sup>1</sup> La Confederaziun po surpigliar cauziuns per la construcziun da stabiliments per dismetter ruments che servan en spezial als possessurs da ruments da plirs chantuns, nun che la finanziaziun possia vegnir garantida autramain.[^52-1]
-
-<sup>2</sup> L’Assamblea federala permetta cun in credit d’impegn da plirs onns l’import maximal per surpigliar cauziuns.[^52-2]
-
-[^52-1]: Versiun tenor la cifra I da la LF dals 21 da dec. 1995, en vigur dapi il 1. da fan. 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
-[^52-2]: Integrà tras la cifra 18 da l’agiunta da la Lescha da subvenziuns dals 5 d’oct. 1990, en vigur dapi il 1. d’avr. 1991 ([AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [BBl 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297)).
+[^52-1]: Abolì tras la cifra I 10 da la LF dals 19 da mars 2021 davart facilitaziuns administrativas e mesiras da distgargia da las finanzas federalas, cun effect dapi il 1. da schan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 53
 
@@ -1746,9 +1801,10 @@ Cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar vegn chastià,
 - n. na segna betg ruments spezials per la surdada (art. 30*f* al. 2 lit. a) u surdat ruments spezials ad ina interpresa che na posseda nagina permissiun (art. 30*f* al. 2 lit. b);
 - o. prenda en consegna, importescha u exportescha ruments spezials senza permissiun (art. 30*f* al. 2 lit. c e d);
 - p. violescha prescripziuns davart il traffic cun ruments spezials (art. 30*f* al. 1);
-- q.[^60-10] violescha prescripziuns davart ils ruments (art. 30*a* lit. b).
+- q.[^60-10] violescha prescripziuns davart ils ruments (art. 30*a* lit. b);
+- r.[^60-11] violescha prescripziuns per metter en circulaziun per l’emprima giada lain e products da lain sco er materias primas e products ch’il Cussegl federal ha designà tenor l’artitgel 35*e* alinea 3 (art. 35*e* e 35*f* al. 1 e 2 lit. a).
 
-<sup>2</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti pecuniar fin a 180 taxas per di.[^60-11]
+<sup>2</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti pecuniar fin a 180 taxas per di.[^60-12]
 
 [^60-1]: Versiun tenor la cifra II 1 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^60-2]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, en vigur dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
@@ -1760,7 +1816,8 @@ Cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar vegn chastià,
 [^60-8]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, en vigur dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-9]: Abolì tras la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, cun effect dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-10]: Versiun tenor la cifra II 1 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^60-11]: Versiun tenor la cifra II 1 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^60-11]: Integrà tras la cifra I da la LF dals 27 da sett. 2019, en vigur dapi il 1. da schan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+[^60-12]: Versiun tenor la cifra II 1 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 
 #### Art. 61
 
@@ -1782,17 +1839,19 @@ Cun ina multa fin 20 000 francs vegn chastià, tgi che fa intenziunadamain il su
 - k. violescha prescripziuns davart il traffic cun auters ruments (art. 30*g* al. 1);
 - l. na garantescha betg la cuvrida dals custs per la terminaziun, per il manaschi posteriur e per la sanaziun d’ina deponia (art. 32*b* al. 1);
 - m. violescha prescripziuns davart grevezzas fisicalas e davart l’utilisaziun dal terren (art. 33 al. 2 e 34 al. 1 e 2) sco er davart mesiras per reducir la contaminaziun u la grevezza dal terren (art. 34 al. 3);
-- n. violescha prescripziuns davart il metter en circulaziun stabiliments[^61-2] producids en seria (art. 40);
+- m<sup>bis</sup>.[^61-2] violescha prescripziuns davart la repersequitabladad da lain e da products da lain sco er da materias primas e da products ch’il Cussegl federal ha designà tenor l’artitgel 35*e* alinea 3, per ils quals è vegnida introducida in’obligaziun da documentaziun (art. 35*g* al. 1);
+- n. violescha prescripziuns davart il metter en circulaziun stabiliments[^61-3] producids en seria (art. 40);
 - o. refusa da dar a l’autoritad cumpetenta las infurmaziuns dumandadas u fa indicaziuns faussas (art. 46);
-- p.[^61-3] violescha prescripziuns davart la cuvrida da la responsabladad (art. 59*b*).
+- p.[^61-4] violescha prescripziuns davart la cuvrida da la responsabladad (art. 59*b*).
 
 <sup>2</sup> Il delinquent vegn chastià cun ina multa, sch’el agescha per negligientscha.
 
 <sup>3</sup> L’emprova e la cumplicitad èn chastiablas.
 
 [^61-1]: Versiun tenor la cifra II 1 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^61-2]: Pli baud: examinaziuns dals tips e designaziuns.
-[^61-3]: Versiun tenor la cifra II 1 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^61-2]: Integrà tras la cifra I da la LF dals 27 da sett. 2019, en vigur dapi il 1. da schan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+[^61-3]: Pli baud: examinaziuns dals tips e designaziuns.
+[^61-4]: Versiun tenor la cifra II 1 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 
 #### Art. 61a
 
@@ -1804,17 +1863,19 @@ Cun ina multa fin 20 000 francs vegn chastià, tgi che fa intenziunadamain il su
 
 <sup>3</sup> L’emprova d’ina cuntravenziun tenor ils alineas 1 e 2 è chastiabla.[^61a-5]
 
-<sup>4</sup> L’Administraziun federala da duana è l’autoritad da persecuziun e da giudicament.[^61a-6]
+<sup>4</sup> L’Uffizi federal da la duana e da la segirezza dals cunfins (UDSC)[^61a-6] è l’autoritad da persecuziun e da giudicament.[^61a-7]
 
-<sup>5</sup> Sch’ina acziun ademplescha il medem mument il causal d’ina cuntravenziun tenor ils alineas 1–3 e d’ina autra cuntravenziun cunter in decret federal che sto vegnir persequitada da l’Administraziun federala da duana, vegn pronunzià il chasti ch’è previs per la cuntravenziun la pli greva; il chasti po vegnir augmentà commensuradamain.[^61a-7]
+<sup>5</sup> Sch’ina acziun ademplescha il medem mument il causal d’ina cuntravenziun tenor ils alineas 1–3 e d’ina autra cuntravenziun cunter in decret federal che sto vegnir persequitada dal UDSC[^61a-8], vegn pronunzià il chasti ch’è previs per la cuntravenziun la pli greva; il chasti po vegnir augmentà commensuradamain.[^61a-9]
 
 [^61a-1]: Integrà tras la cifra I da la LF dals 21 da dec. 1995, en vigur dapi il 1. da fan. 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
-[^61a-2]: Versiun tenor la cifra I 3 da la LF dals 20 da dec. 2019 davart la prolungaziun da la limitaziun temporara da las facilitaziuns fiscalas per gas natiral, gas liquid e carburants biogens e davart la midada da la Lescha federala davart la reducziun da las emissiuns da CO<sub>2</sub>, en vigur dal 1. da fan. 2020 fin ils 31 da dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-2]: Versiun tenor la cifra I 3 da la LF dals 20 da dec. 2019 davart la prolungaziun da la limitaziun temporara da las facilitaziuns fiscalas per gas natiral, per gas liquid e per carburants biogens e davart la midada da la Lescha federala davart la reducziun da las emissiuns da CO<sub>2</sub>, en vigur dal 1. da fan. 2020 fin ils 31 da dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 [^61a-3]: Versiun tenor la cifra I da la LF dals 20 da zer. 2003, en vigur dapi il 1. da schan. 2004 ([AS 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [BBl 2002 6464](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
-[^61a-4]: Versiun tenor la cifra I 3 da la LF dals 20 da dec. 2019 davart la prolungaziun da la limitaziun temporara da las facilitaziuns fiscalas per gas natiral, gas liquid e carburants biogens e davart la midada da la Lescha federala davart la reducziun da las emissiuns da CO<sub>2</sub>, en vigur dal 1. da fan. 2020 fin ils 31 da dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
-[^61a-5]: Versiun tenor la cifra I 3 da la LF dals 20 da dec. 2019 davart la prolungaziun da la limitaziun temporara da las facilitaziuns fiscalas per gas natiral, gas liquid e carburants biogens e davart la midada da la Lescha federala davart la reducziun da las emissiuns da CO<sub>2</sub>, en vigur dal 1. da fan. 2020 fin ils 31 da dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
-[^61a-6]: Versiun tenor la cifra I 3 da la LF dals 20 da dec. 2019 davart la prolungaziun da la limitaziun temporara da las facilitaziuns fiscalas per gas natiral, gas liquid e carburants biogens e davart la midada da la Lescha federala davart la reducziun da las emissiuns da CO<sub>2</sub>, en vigur dal 1. da fan. 2020 fin ils 31 da dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
-[^61a-7]: Integrà tras l’agiunta da la LF dals 21 da mars 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Versiun tenor la cifra I 3 da la LF dals 20 da dec. 2019 davart la prolungaziun da la limitaziun temporara da las facilitaziuns fiscalas per gas natiral, gas liquid e carburants biogens e davart la midada da la Lescha federala davart la reducziun da las emissiuns da CO<sub>2</sub>, en vigur dal 1. da fan. 2020 fin ils 31 da dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-4]: Versiun tenor la cifra I 3 da la LF dals 20 da dec. 2019 davart la prolungaziun da la limitaziun temporara da las facilitaziuns fiscalas per gas natiral, per gas liquid e per carburants biogens e davart la midada da la Lescha federala davart la reducziun da las emissiuns da CO<sub>2</sub>, en vigur dal 1. da fan. 2020 fin ils 31 da dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-5]: Versiun tenor la cifra I 3 da la LF dals 20 da dec. 2019 davart la prolungaziun da la limitaziun temporara da las facilitaziuns fiscalas per gas natiral, per gas liquid e per carburants biogens e davart la midada da la Lescha federala davart la reducziun da las emissiuns da CO<sub>2</sub>, en vigur dal 1. da fan. 2020 fin ils 31 da dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-6]: Expressiun tenor la cifra I 31 da l’O dals 12 da zer. 2020 davart l’adattaziun da leschas en consequenza da la midada da la designaziun da l’Administraziun federala da duana en il rom da ses ulteriur svilup, en vigur dapi il 1. da schan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^61a-7]: Versiun tenor la cifra I 3 da la LF dals 20 da dec. 2019 davart la prolungaziun da la limitaziun temporara da las facilitaziuns fiscalas per gas natiral, per gas liquid e per carburants biogens e davart la midada da la Lescha federala davart la reducziun da las emissiuns da CO<sub>2</sub>, en vigur dal 1. da fan. 2020 fin ils 31 da dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-8]: Expressiun tenor la cifra I 31 da l’O dals 12 da zer. 2020 davart l’adattaziun da leschas en consequenza da la midada da la designaziun da l’Administraziun federala da duana en il rom da ses ulteriur svilup, en vigur dapi il 1. da schan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^61a-9]: Integrà tras l’agiunta da la LF dals 21 da mars 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Versiun tenor la cifra I 3 da la LF dals 20 da dec. 2019 davart la prolungaziun da la limitaziun temporara da las facilitaziuns fiscalas per gas natiral, per gas liquid e per carburants biogens e davart la midada da la Lescha federala davart la reducziun da las emissiuns da CO<sub>2</sub>, en vigur dal 1. da fan. 2020 fin ils 31 da dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 
 #### Art. 62
 
@@ -1825,7 +1886,7 @@ Cun ina multa fin 20 000 francs vegn chastià, tgi che fa intenziunadamain il su
 <sup>2</sup> Per cuntravenziuns tenor l’artitgel 61*a* valan ultra da quai las ulteriuras disposiziuns da la Lescha federala dals 22 da mars 1974 davart il dretg penal administrativ.[^62-2]
 
 [^62-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^62-2]: Integrà tras la cifra I da la LF dals 21 da dec. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Versiun tenor la cifra I 3 da la LF dals 20 da dec. 2019 davart la prolungaziun da la limitaziun temporara da las facilitaziuns fiscalas per gas natiral, gas liquid e carburants biogens e davart la midada da la Lescha federala davart la reducziun da las emissiuns da CO<sub>2</sub>, en vigur dal 1. da fan. 2020 fin ils 31 da dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^62-2]: Integrà tras la cifra I da la LF dals 21 da dec. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Versiun tenor la cifra I 3 da la LF dals 20 da dec. 2019 davart la prolungaziun da la limitaziun temporara da las facilitaziuns fiscalas per gas natiral, per gas liquid e per carburants biogens e davart la midada da la Lescha federala davart la reducziun da las emissiuns da CO<sub>2</sub>, en vigur dal 1. da fan. 2020 fin ils 31 da dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 
 ## 6. titel**** Disposiziuns finalas
 

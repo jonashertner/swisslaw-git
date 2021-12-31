@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 7. Oktober 1983 über den Umweltschutz (Umweltschutzges
 short: USG
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1983-10-07
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20210101/de"
 
 (Umweltschutzgesetz, USG)
 
-vom 7. Oktober 1983 (Stand am 1. Januar 2021)
+vom 7. Oktober 1983 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -680,7 +680,7 @@ Er schreibt insbesondere vor, dass Sonderabfälle:
 
 <sup>3</sup> Diese Bewilligungen werden erteilt, wenn Gewähr für eine umweltverträgliche Entsorgung der Abfälle besteht.
 
-<sup>4</sup> ...[^30f-1]
+<sup>4</sup> …[^30f-1]
 
 [^30f-1]: Aufgehoben durch Ziff. I 2 des BG vom 21. Dez. 2007 über die Aufhebung und Vereinfachung von Bewilligungsverfahren, mit Wirkung seit 1. Juni 2008 ([AS 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [BBl 2007 315](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 
@@ -690,7 +690,7 @@ Er schreibt insbesondere vor, dass Sonderabfälle:
 
 <sup>1</sup> Der Bundesrat kann über den Verkehr mit anderen Abfällen Vorschriften nach Artikel 30*f* Absätze 1 und 2 erlassen, wenn keine Gewähr für eine umweltverträgliche Entsorgung besteht.
 
-<sup>2</sup> ...[^30g-1]
+<sup>2</sup> …[^30g-1]
 
 [^30g-1]: Aufgehoben durch Ziff. I 2 des BG vom 21. Dez. 2007 über die Aufhebung und Vereinfachung von Bewilligungsverfahren, mit Wirkung seit 1. Juni 2008 ([AS 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [BBl 2007 315](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 
@@ -1122,22 +1122,31 @@ Abgabepflichtig sind:
 
 <sup>4</sup> Wer Stoffe oder Organismen, die der Abgabe unterworfen sind, im Inland herstellt oder erzeugt, muss diese deklarieren.
 
-[^35c-1]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 Ziff. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)Ziff. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)Ziff. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)Ziff. I 1 Art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 Abs. 1]. Siehe heute: Art. 70 des Zollgesetzes vom 18. März 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^35c-1]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 Ziff. III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)Ziff. I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)Ziff. III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)Ziff. I 1 Art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 Abs. 1]. Siehe heute: Art. 70 des Zollgesetzes vom 18. März 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
 [^35c-2]: Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [BBl 2002 6464](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
 [^35c-3]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
 [^35c-4]: Fassung gemäss Anhang 2 Ziff. 6 des Mineralölsteuergesetzes vom 21. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
 [^35c-5]: Fassung gemäss Anhang 2 Ziff. 6 des Mineralölsteuergesetzes vom 21. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
 [^35c-6]: Eingefügt durch Anhang 2 Ziff. 6 des Mineralölsteuergesetzes vom 21. Juni 1996 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)). Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [BBl 2002 6464](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
 
-### 7. Kapitel:**** Inverkehrbringen von biogenen Treib- und Brennstoffen
+### 7. Kapitel:**** Inverkehrbringen von Rohstoffen und Produkten****
 
-[^tit2-chap7-1]
+[^tit2-chap7-1][^tit2-chap7-2]
 
-[^tit2-chap7-1]: Eingefügt durch Anhang des BG vom 21. März 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^tit2-chap7-1]: Eingefügt durch Anhang des BG vom 21. März 2014, in Kraft seit 1. Aug. 2016 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)).
+[^tit2-chap7-2]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+
+### 1. Abschnitt: Biogene Treib- und Brennstoffe****
+
+[^tit2-chap7-sec1-1]
+
+[^tit2-chap7-sec1-1]: Eingefügt durch Ziff. II des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 
 #### Art. 35d
 
-<sup>1</sup> Werden in erheblichem Mass biogene Treib- und Brennstoffe oder Gemische, die biogene Treib- und Brennstoffe enthalten, in Verkehr gebracht, welche die Anforderungen nach Artikel 12*b* Absätze 1 und 3 des Mineralölsteuergesetzes vom 21. Juni 1996[^35d-1] nicht erfüllen, so kann der Bundesrat vorsehen, dass von ihm bezeichnete biogene Treib- und Brennstoffe nur in Verkehr gebracht werden dürfen, wenn sie bestimmte ökologische oder soziale Anforderungen erfüllen.
+[^35d-1]
+
+<sup>1</sup> Werden in erheblichem Mass biogene Treib- und Brennstoffe oder Gemische, die biogene Treib- und Brennstoffe enthalten, in Verkehr gebracht, welche die Anforderungen nach Artikel 12*b* Absätze 1 und 3 des Mineralölsteuergesetzes vom 21. Juni 1996[^35d-2] nicht erfüllen, so kann der Bundesrat vorsehen, dass von ihm bezeichnete biogene Treib- und Brennstoffe nur in Verkehr gebracht werden dürfen, wenn sie bestimmte ökologische oder soziale Anforderungen erfüllen.
 
 <sup>2</sup> Von der Zulassungspflicht ausgenommen ist Ethanol zu Brennzwecken.
 
@@ -1148,7 +1157,58 @@ Der Bundesrat legt unter Berücksichtigung der Bestimmungen der Mineralölsteuer
 - a. die ökologischen oder sozialen Anforderungen, welche die zulassungspflichtigen biogenen Treib- und Brennstoffe erfüllen müssen;
 - b. das Verfahren der Zulassung.
 
-[^35d-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^35d-1]: Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^35d-2]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+
+### 2. Abschnitt:**** Holz und Holzerzeugnisse sowie weitere Rohstoffe und Produkte
+
+[^tit2-chap7-sec2-1]
+
+[^tit2-chap7-sec2-1]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+
+#### Art. 35e
+
+**Anforderungen an das Inverkehrbringen**
+
+<sup>1</sup> Das erstmalige Inverkehrbringen von Holz und Holzerzeugnissen, die nicht in Übereinstimmung mit den Vorschriften des Ursprungslandes über den Holzeinschlag und -handel gewonnen oder gehandelt worden sind, ist verboten.
+
+<sup>2</sup> Der Bundesrat legt im Einklang mit den Bestimmungen der Europäischen Union die Anforderungen an das Inverkehrbringen von Holz und Holzerzeugnissen fest.
+
+<sup>3</sup> Er kann im Einklang mit internationalen Standards Anforderungen an das Inverkehrbringen von weiteren Rohstoffen und Produkten stellen oder deren Inverkehrbringen verbieten, wenn der Anbau, der Abbau oder die Herstellung die Umwelt erheblich belastet oder die nachhaltige Nutzung der natürlichen Ressourcen erheblich gefährdet.
+
+#### Art. 35f
+
+**Sorgfaltspflicht**
+
+<sup>1</sup> Wer Holz oder Holzerzeugnisse oder weitere vom Bundesrat nach Artikel 35*e* Absatz 3 bezeichnete Rohstoffe und Produkte erstmalig in Verkehr bringt, muss die gebotene Sorgfalt walten lassen, um zu gewährleisten, dass die Waren die Anforderungen nach Artikel 35*e* erfüllen.
+
+<sup>2</sup>
+
+Der Bundesrat regelt:
+
+- a. Art, Inhalt und Umfang der Sorgfaltspflicht;
+- b. die Kontrolle der Einhaltung der Sorgfaltspflicht;
+- c. die Anerkennung von Organisationen, welche die Einhaltung der Sorgfaltspflicht unterstützen und überprüfen, sowie die Kontrolle ihrer Tätigkeit.
+
+<sup>3</sup> Er kann Erstinverkehrbringer von Holz oder Holzerzeugnissen einer Meldepflicht unterstellen.
+
+<sup>4</sup> Er kann vorsehen, dass in Fällen der Verletzung der Absätze 1 und 2 und von Artikel 35*e* Holz oder Holzerzeugnisse sowie weitere vom ihm nach Artikel 35*e* Absatz 3 bezeichnete Rohstoffe und Produkte zurückgesandt, beschlagnahmt oder eingezogen werden. Für Holz oder Holzerzeugnisse kann er zudem vorsehen, dass in besonders schwerwiegenden Fällen ein Verbot der Vermarktung von Holz oder Holzerzeugnissen ausgesprochen wird.
+
+#### Art. 35g
+
+**Rückverfolgbarkeit und Deklaration**
+
+<sup>1</sup> Händler müssen dokumentieren, von welchem Zulieferer sie Holz oder Holzerzeugnisse bezogen und an welchen Abnehmer sie diese weitergegeben haben; der Bundesrat kann für weitere von ihm nach Artikel 35*e* Absatz 3 bezeichnete Rohstoffe und Produkte eine solche Dokumentationspflicht festlegen.
+
+<sup>2</sup> Jede Person, die Holz oder Holzerzeugnisse an den Konsumenten abgibt, muss die Holzart und die Herkunft des Holzes deklarieren. Der Bundesrat bestimmt das Holz und die Holzerzeugnisse, für die diese Deklarationspflicht gilt.
+
+#### Art. 35h
+
+**Datenbearbeitung**
+
+<sup>1</sup> Die mit der Durchführung dieses Gesetzes oder mit der Kontrolle oder Beaufsichtigung der Durchführung betrauten Behörden oder Dritten können Personendaten, einschliesslich besonders schützenswerter Personendaten über administrative oder strafrechtliche Sanktionen, bearbeiten, soweit dies für den Vollzug dieses Abschnitts nötig ist.
+
+<sup>2</sup> Die inländischen Behörden können Personendaten, einschliesslich besonders schützenswerter Personendaten über administrative oder strafrechtliche Sanktionen, ausländischen Behörden und internationalen Institutionen für den Vollzug der Bestimmungen der Europäischen Union über das Inverkehrbringen von Holz und Holzerzeugnissen bekannt geben.
 
 ## 3. Titel: Vollzug, Förderung und Verfahren
 
@@ -1206,7 +1266,7 @@ Er kann völkerrechtliche Vereinbarungen abschliessen über:[^39-2]
 - d. Datensammlungen und Erhebungen;
 - e. Forschung und Ausbildung.
 
-<sup>3</sup> ...[^39-5]
+<sup>3</sup> …[^39-5]
 
 [^39-1]: Eingefügt durch Anhang Ziff. II 2 des Chemikaliengesetzes vom 15. Dez. 2000, in Kraft seit 1. Jan. 2005 ([AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724), [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388)Art. 1; [BBl 2000 687](https://fedlex.data.admin.ch/eli/fga/2000/195)).
 [^39-2]: Fassung gemäss Anhang Ziff. II 2 des Chemikaliengesetzes vom 15. Dez. 2000, in Kraft seit 1. Aug. 2005 ([AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724), [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388)Art. 1; [BBl 2000 687](https://fedlex.data.admin.ch/eli/fga/2000/195)).
@@ -1228,7 +1288,7 @@ Er kann völkerrechtliche Vereinbarungen abschliessen über:[^39-2]
 
 **Vollzugskompetenzen des Bundes**
 
-<sup>1</sup> Der Bund vollzieht die Artikel 12 Absatz 1 Buchstabe e (Vorschriften über Brenn- und Treibstoffe), 26 (Selbstkontrolle), 27 (Information der Abnehmer), 29 (Vorschriften über Stoffe), 29*a*–29*h* (Umgang mit Organismen), 30*b* Absatz 3 (Pfandausgleichskasse), 30*f* und 30*g* (Ein- und Ausfuhr von Abfällen), 31*a* Absatz 2 und 31*c* Absatz 3 (Massnahmen des Bundes zur Abfallentsorgung), 32*a*<sup>bis</sup> (vorgezogene Entsorgungsgebühr), 32*e* Absätze 1–4 (Abgabe zur Finanzierung von Sanierungen), 35*a*–35*c* (Lenkungsabgaben), 35*d* (Inverkehrbringen von biogenen Treib- und Brennstoffen), 39 (Ausführungsvorschriften und völkerrechtliche Vereinbarungen), 40 (Inverkehrbringen serienmässig hergestellter Anlagen) und 46 Absatz 3 (Angaben über Stoffe und Organismen); er kann für bestimmte Teilaufgaben die Kantone beiziehen.[^41-1]
+<sup>1</sup> Der Bund vollzieht die Artikel 12 Absatz 1 Buchstabe e (Vorschriften über Brenn- und Treibstoffe), 26 (Selbstkontrolle), 27 (Information der Abnehmer), 29 (Vorschriften über Stoffe), 29*a*–29*h* (Umgang mit Organismen), 30*b* Absatz 3 (Pfandausgleichskasse), 30*f* und 30*g* (Ein- und Ausfuhr von Abfällen), 31*a* Absatz 2 und 31*c* Absatz 3 (Massnahmen des Bundes zur Abfallentsorgung), 32*a*<sup>bis</sup> (vorgezogene Entsorgungsgebühr), 32*e* Absätze 1–4 (Abgabe zur Finanzierung von Sanierungen), 35*a*–35*c* (Lenkungsabgaben), 35*d* (Biogene Treib- und Brennstoffe), 35*e*–35*h* (Holz und Holzerzeugnisse sowie weitere Rohstoffe und Produkte), 39 (Ausführungsvorschriften und völkerrechtliche Vereinbarungen), 40 (Inverkehrbringen serienmässig hergestellter Anlagen) und 46 Absatz 3 (Angaben über Stoffe und Organismen); er kann für bestimmte Teilaufgaben die Kantone beiziehen.[^41-1]
 
 <sup>2</sup> Die Bundesbehörde, die ein anderes Bundesgesetz oder einen Staatsvertrag vollzieht, ist bei der Erfüllung dieser Aufgabe auch für den Vollzug des Umweltschutzgesetzes zuständig. Sie hört vor ihrem Entscheid die betroffenen Kantone an. Das Bundesamt und die übrigen betroffenen Bundesstellen wirken nach den Artikeln 62*a* und 62*b* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^41-2] beim Vollzug mit.[^41-3]
 
@@ -1236,7 +1296,7 @@ Er kann völkerrechtliche Vereinbarungen abschliessen über:[^39-2]
 
 <sup>4</sup> Die Vollzugsbehörden des Bundes berücksichtigen die Umweltschutzmassnahmen der Kantone.[^41-5]
 
-[^41-1]: Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^41-1]: Fassung gemäss Ziff. II des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 [^41-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^41-3]: Fassung gemäss Ziff. I 14 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^41-4]: Fassung gemäss Ziff. I 14 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
@@ -1340,7 +1400,7 @@ Der Bundesrat kann die regelmässige Kontrolle von Anlagen wie Ölfeuerungen, Ab
 
 **Amtsgeheimnis[^47-1]**
 
-<sup>1</sup> und <sup>2</sup> ...[^47-2]
+<sup>1</sup> und <sup>2</sup> …[^47-2]
 
 <sup>3</sup> Alle mit dem Vollzug dieses Gesetzes beauftragten Personen sowie Experten und Mitglieder von Kommissionen und Fachausschüssen unterstehen dem Amtsgeheimnis.
 
@@ -1399,14 +1459,9 @@ Der Bund kann Beiträge an die Kosten für den Bau und die Ausrüstung der zur D
 
 #### Art. 52
 
-**Abfallanlagen**
+[^52-1]
 
-<sup>1</sup> Der Bund kann für den Bau von Abfallanlagen, die insbesondere den Abfallinhabern mehrerer Kantone dienen, Bürgschaften übernehmen, sofern die Finanzierung nicht anders sichergestellt werden kann.[^52-1]
-
-<sup>2</sup> Die Bundesversammlung bewilligt mit einem mehrjährigen Verpflichtungskredit den Höchstbetrag für die Übernahme von Bürgschaften.[^52-2]
-
-[^52-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1995, in Kraft seit 1. Juli 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
-[^52-2]: Eingefügt durch Anhang Ziff. 18 des Subventionsgesetzes vom 5. Okt. 1990, in Kraft seit 1. April 1991 ([AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [BBl 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297)).
+[^52-1]: Aufgehoben durch Ziff. I 10 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, mit Wirkung seit 1. Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 53
 
@@ -1437,7 +1492,7 @@ Der Bund kann Beiträge gewähren:
 
 #### Art. 54
 
-**...[^54-2]**[^54-1]
+**…[^54-2]**[^54-1]
 
 Das Beschwerdeverfahren richtet sich nach den allgemeinen Bestimmungen über die Bundesrechtspflege.
 
@@ -1564,7 +1619,7 @@ Gegen Bewilligungen über das Inverkehrbringen pathogener Organismen, die bestim
 
 <sup>2</sup> Die gleiche Berechtigung steht auch den Kantonen zu, soweit Einwirkungen aus Nachbarkantonen auf ihr Gebiet strittig sind.
 
-<sup>3</sup> ...[^56-2]
+<sup>3</sup> …[^56-2]
 
 [^56-1]: Fassung gemäss Ziff. I 14 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^56-2]: Aufgehoben durch Anhang Ziff. 91 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
@@ -1739,14 +1794,15 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsä
 - i.[^60-6] Organismen, von denen er weiss oder wissen muss, dass bei bestimmten Verwendungen die Grundsätze von Artikel 29*a* Absatz 1 verletzt werden, in Verkehr bringt (Art. 29*d* Abs. 1);
 - j.[^60-7] Organismen in Verkehr bringt, ohne den Abnehmer entsprechend zu informieren und anzuweisen (Art. 29*e* Abs. 1);
 - k.[^60-8] mit Organismen entgegen den Anweisungen umgeht (Art. 29*e* Abs. 2);
-- l.[^60-9] ...
+- l.[^60-9] …
 - m. eine Deponie ohne Bewilligung errichtet oder betreibt (Art. 30*e* Abs. 2);
 - n. Sonderabfälle für die Übergabe nicht kennzeichnet (Art. 30*f* Abs. 2 Bst. a) oder an eine Unternehmung übergibt, die keine Bewilligung besitzt (Art. 30*f* Abs. 2 Bst. b);
 - o. Sonderabfälle ohne Bewilligung entgegennimmt, einführt oder ausführt (Art. 30*f* Abs. 2 Bst. c und d);
 - p. Vorschriften über den Verkehr mit Sonderabfällen verletzt (Art. 30*f* Abs. 1);
-- q.[^60-10] Vorschriften über Abfälle (Art. 30*a* Bst. b) verletzt.
+- q.[^60-10] Vorschriften über Abfälle (Art. 30*a* Bst. b) verletzt;
+- r.[^60-11] Vorschriften über das erstmalige Inverkehrbringen von Holz und Holzerzeugnissen sowie von Rohstoffen und Produkten, die vom Bundesrat nach Artikel 35*e* Absatz 3 bezeichnet wurden, verletzt (Art. 35*e* und 35*f* Abs. 1 und 2 Bst. a).
 
-<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Geldstrafe bis zu 180 Tagessätzen.[^60-11]
+<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Geldstrafe bis zu 180 Tagessätzen.[^60-12]
 
 [^60-1]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^60-2]: Fassung gemäss Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
@@ -1758,7 +1814,8 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsä
 [^60-8]: Fassung gemäss Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-9]: Aufgehoben durch Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-10]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^60-11]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^60-11]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+[^60-12]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 
 #### Art. 61
 
@@ -1780,17 +1837,19 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:[^61-1]
 - k. Vorschriften über den Verkehr mit anderen Abfällen verletzt (Art. 30*g* Abs. 1);
 - l. die Kosten für den Abschluss, die Nachsorge und die Sanierung einer Deponie nicht sicherstellt (Art. 32*b* Abs. 1);
 - m. Vorschriften über physikalische Belastungen und die Nutzung des Bodens (Art. 33 Abs. 2 und 34 Abs. 1 und 2) sowie über Massnahmen zur Verminderung der Bodenbelastung (Art. 34 Abs. 3) verletzt;
-- n. Vorschriften über das Inverkehrbringen serienmässig hergestellter Anlagen[^61-2] verletzt (Art. 40);
+- m<sup>bis</sup>.[^61-2] Vorschriften über die Rückverfolgbarkeit von Holz und Holzerzeugnissen sowie von Rohstoffen und Produkten, die vom Bundesrat nach Artikel 35*e* Absatz 3 bezeichnet wurden und für die eine Dokumentationspflicht festgelegt wurde, verletzt (Art. 35*g* Abs. 1);
+- n. Vorschriften über das Inverkehrbringen serienmässig hergestellter Anlagen[^61-3] verletzt (Art. 40);
 - o. von der zuständigen Behörde verlangte Auskünfte verweigert oder unrichtige Angaben macht (Art. 46);
-- p.[^61-3] Vorschriften über die Sicherstellung der Haftpflicht verletzt (Art. 59*b*).
+- p.[^61-4] Vorschriften über die Sicherstellung der Haftpflicht verletzt (Art. 59*b*).
 
 <sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Busse.
 
 <sup>3</sup> Versuch und Gehilfenschaft sind strafbar.
 
 [^61-1]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^61-2]: Früher: Typenprüfungen und Kennzeichnungen
-[^61-3]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^61-2]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+[^61-3]: Früher: Typenprüfungen und Kennzeichnungen
+[^61-4]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 
 #### Art. 61a
 
@@ -1802,17 +1861,19 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:[^61-1]
 
 <sup>3</sup> Der Versuch einer Widerhandlung nach den Absätzen 1 und 2 ist strafbar.[^61a-5]
 
-<sup>4</sup> Verfolgende und urteilende Behörde ist die Eidgenössische Zollverwaltung.[^61a-6]
+<sup>4</sup> Verfolgende und urteilende Behörde ist das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^61a-6].[^61a-7]
 
-<sup>5</sup> Erfüllt eine Handlung zugleich den Tatbestand einer Widerhandlung nach den Absätzen 1–3 und einer anderen durch die Eidgenössische Zollverwaltung zu verfolgenden Widerhandlung gegen einen Erlass des Bundes, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.[^61a-7]
+<sup>5</sup> Erfüllt eine Handlung zugleich den Tatbestand einer Widerhandlung nach den Absätzen 1–3 und einer anderen durch das BAZG[^61a-8] zu verfolgenden Widerhandlung gegen einen Erlass des Bundes, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.[^61a-9]
 
 [^61a-1]: Eingefügt durch Ziff. I des BG vom 21. Dez. 1995, in Kraft seit 1. Juli 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 [^61a-2]: Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 [^61a-3]: Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [BBl 2002 6464](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
 [^61a-4]: Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 [^61a-5]: Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
-[^61a-6]: Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
-[^61a-7]: Eingefügt durch Anhang des BG vom 21. März 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-6]: Ausdruck gemäss Ziff. I 31 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^61a-7]: Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-8]: Ausdruck gemäss Ziff. I 31 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^61a-9]: Eingefügt durch Anhang des BG vom 21. März 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 
 #### Art. 62
 
@@ -1866,7 +1927,7 @@ Gesuche um Abgeltungen an die Kosten von Massnahmen nach Artikel 32*e* Absatz 4 
 
 **Änderung von Bundesgesetzen**
 
-...[^66-1]
+…[^66-1]
 
 [^66-1]: Die Änderungen können unter [AS 1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)konsultiert werden.
 
