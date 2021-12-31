@@ -3,13 +3,12 @@ canton: TG
 number: "187.172"
 title: Verordnung des Kirchenrates zur Verordnung der Evangelischen Synode des Kantons Thurgau über Leistungen der Landeskirche zu Gunsten von finanzschwachen Kirchgemeinden
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-05-28
+version: 2022-01-01
+version_adopted: 2021-06-30
 adopted: 2010-02-24
 in_force: 2011-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.172"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1778/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2422/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1778/pdf_file"
 
 V des Kirchenrates - Leistungen der Landeskirchen
 
-vom 24.02.2010 (Stand 01.01.2020)
+vom 24.02.2010 (Stand 01.01.2022)
 
 ## 1. Statistische Grundlagen
 
@@ -55,9 +54,9 @@ Die Statistik „Mitgliederzahlen der Kirchgemeinden“ wird vom Kirchenrat aufg
 
 **Genehmigte Bauten und Renovationen**
 
-<sup>1</sup> Als „genehmigte Bauten und Renovationen“ gelten Investitionen in Gebäude, die vom Kirchenrat vor deren Ausführung genehmigt worden sind und für die eine Investitionsrechnung erstellt worden ist.
+<sup>1</sup> Als «genehmigte Bauten und Renovationen» gelten Investitionen in Gebäude, die vom Kirchenrat vor der Genehmigung des Baukredits durch die Kirchgemeinde genehmigt worden sind und für die eine Investitionsrechnung erstellt worden ist.
 
-<sup>2</sup> Ist bei Beschlussfassung und Ausführung noch nicht absehbar, dass die Gemeinde baubeitragsberechtigt werden könnte, hat das Genehmigungsverfahren nachträglich zu erfolgen.
+<sup>2</sup> …
 
 <sup>3</sup> Baubeiträge können nur an Bauten und Renovationen für jene Gebäude entrichtet werden, die gemäss Rechnungswesenverordnung[^4-1] im Verwaltungsvermögen zu führen sind.
 
@@ -96,6 +95,20 @@ Die Statistik „Mitgliederzahlen der Kirchgemeinden“ wird vom Kirchenrat aufg
 - 4\. Nachweis der Schulden und der daraus resultierenden Zinsbelastung;
 - 5\. Zusammenstellung der auf Kirchgemeindegebiet bestehenden Gesamtsteuerfüsse;
 - 6\. Hinweise auf allfällige weitere anstehende dringende Bauvorhaben.
+
+#### § 7a
+
+**Kirchenrätliche Baukommission**
+
+<sup>1</sup> Die kirchenrätliche Kommission gemäss § 8 Abs. 3 der Verordnung der Evangelischen Synode des Kantons Thurgau über Leistungen der Landeskirche zu Gunsten von finanzschwachen Kirchgemeinden[^7a-1] beurteilt die Gesuche um Baubeiträge zu Handen des Kirchenrates im Blick auf die Notwendigkeit, die Finanzierbarkeit und die Beachtung von ästhetischen, kirchlich-praktischen, denkmalpflegerischen und ökologischen Gesichtspunkten der eingereichten Projekte.
+
+<sup>2</sup> Sie kann auch zur Beratung von Kirchgemeinden beigezogen werden im Blick auf Projekte, die nicht beitragsberechtigt sind.
+
+<sup>3</sup> Sie besteht aus 3-5 Mitgliedern. Für besondere Aufgaben wie Expertisen betreffend Glocken oder Orgeln kann sie Fachleute zuziehen.
+
+<sup>4</sup> Der Kirchenrat bezeichnet eine Fachperson, die nach einheitlichen Kriterien die ortsübliche Miete der Privaträume von Pfarrhäusern ermittelt. Wenn diese Person nicht Mitglied der Kommission ist, kann sie für fachliche Fragen betreffend Bauvorhaben bei Pfarrhäusern zugezogen werden.
+
+[^7a-1]: RB [187.171](https://www.rechtsbuch.tg.ch/data/187.171/de)
 
 #### § 8
 
