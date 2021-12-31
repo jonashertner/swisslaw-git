@@ -4,13 +4,12 @@ number: "311.1"
 title: Einführungsgesetz zum Schweizerischen Strafrecht
 short: EG StGB
 language: de
-version: 2011-01-01
-valid_until: 2021-12-31
-version_adopted: 2009-06-17
+version: 2022-01-01
+version_adopted: 2021-03-24
 adopted: 2005-08-17
 in_force: 2007-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/311.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1588/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2436/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ EG StGB
 
 (EG StGB)
 
-vom 17.08.2005 (Stand 01.01.2011)
+vom 17.08.2005 (Stand 01.01.2022)
 
 ## 1. Einrichtungen für den Strafvollzug
 
@@ -37,13 +36,13 @@ vom 17.08.2005 (Stand 01.01.2011)
 
 <sup>2</sup> Der Grosse Rat entscheidet abschliessend über die Errichtung und den Umbau von Vollzugseinrichtungen.
 
-<sup>3</sup> Der Regierungsrat kann Verträge über den Straf- und Massnahmenvollzug und Freiheitsentzüge im Sinne von Absatz 1 in anderen geeigneten Einrichtungen abschliessen.
+<sup>3</sup> Der Regierungsrat kann Verträge über den Straf- und Massnahmenvollzug und Freiheitsentzüge im Sinne von Abs. 1 in anderen geeigneten Einrichtungen abschliessen.
 
 #### § 2
 
 **Massnahmenzentrum für junge Erwachsene Kalchrain**
 
-<sup>1</sup> Das Massnahmenzentrum für junge Erwachsene Kalchrain dient dem Vollzug von Massnahmen für junge Erwachsene sowie dem Vollzug von Schutzmassnahmen und dem Freiheitsentzug für Jugendliche.
+<sup>1</sup> Das Massnahmenzentrum für junge Erwachsene Kalchrain dient dem Vollzug von Massnahmen für junge Erwachsene sowie dem Vollzug von Schutzmassnahmen für Jugendliche.
 
 #### § 3
 
@@ -75,13 +74,13 @@ vom 17.08.2005 (Stand 01.01.2011)
 
 <sup>2</sup> Die Jugendanwaltschaft bestimmt den Vollzugsort der Strafen und Massnahmen für Jugendliche.
 
-[^5-1]: [341.1](https://www.rechtsbuch.tg.ch/data/341.1/de)
+[^5-1]: RB [341.1](https://www.rechtsbuch.tg.ch/data/341.1/de)
 
 #### § 6
 
 **Ausnahmen**
 
-<sup>1</sup> Wenn wichtige Gründe vorliegen, ist das Departement ermächtigt, von den Bestimmungen der §§ 2 bis 5 abzuweichen.
+<sup>1</sup> Wenn wichtige Gründe vorliegen, ist das Departement ermächtigt, von den Bestimmungen von § 2 bis § 5 abzuweichen.
 
 #### § 7
 
@@ -113,7 +112,7 @@ vom 17.08.2005 (Stand 01.01.2011)
 
 - 1\. die Bestimmung der Zahlungsfrist bei Geldstrafe oder Busse und deren Bezug;
 - 2\. die Anordnung sofortiger Bezahlung oder Sicherheitsleistung;
-- 3\. die Anordnung der Ersatzfreiheitsstrafe bei Nichtbezahlung der Geldstrafe oder Busse.
+- 3\. …
 
 #### § 11
 
@@ -125,7 +124,7 @@ vom 17.08.2005 (Stand 01.01.2011)
 
 **Jugendanwaltschaft**
 
-<sup>1</sup> Die Jugendanwaltschaft ist Vollzugsbehörde im Bereich des Bundesgesetzes über das Jugendstrafrecht[^12-1].
+<sup>1</sup> Die Jugendanwaltschaft ist Vollzugsbehörde im Bereich des Bundesgesetzes über das Jugendstrafrecht (JStG)[^12-1].
 
 [^12-1]: SR [311.1](https://db.clex.ch/link/Bund/311.1/de)
 
@@ -163,9 +162,7 @@ vom 17.08.2005 (Stand 01.01.2011)
 
 **Kostgelder**
 
-<sup>1</sup> Der Regierungsrat setzt die Kostgelder für die Unterbringung in kantonalen Vollzugseinrichtungen fest, soweit nicht Bestimmungen des Ostschweizerischen Strafvollzugskonkordates[^17-1] gelten.
-
-[^17-1]: [341.1](https://www.rechtsbuch.tg.ch/data/341.1/de)
+<sup>1</sup> Der Regierungsrat setzt die Kostgelder für die Unterbringung in kantonalen Vollzugseinrichtungen fest, soweit nicht Bestimmungen des Ostschweizerischen Strafvollzugskonkordates gelten.
 
 #### § 18
 
@@ -264,7 +261,7 @@ vom 17.08.2005 (Stand 01.01.2011)
 
 **Übertretungen**
 
-<sup>1</sup> Auf Übertretungen des kantonalen Strafrechts finden die Bestimmungen der Artikel 103 bis 109 StGB Anwendung, soweit im Folgenden nichts Abweichendes bestimmt wird.
+<sup>1</sup> Auf Übertretungen des kantonalen Strafrechts finden die Bestimmungen von Art. 103 bis Art. 109 StGB Anwendung, soweit im Folgenden nichts Abweichendes bestimmt wird.
 
 #### § 28
 
@@ -328,11 +325,15 @@ vom 17.08.2005 (Stand 01.01.2011)
 
 <sup>1</sup> Wer Behörden oder Personen in amtlichen Funktionen, die sich gehörig ausweisen, auf berechtigte Aufforderung hin zur Person oder zum Wohnsitz Angaben verweigert oder darüber vorsätzlich unrichtige Angaben macht, wird mit Busse bestraft.
 
+#### § 37a
+
+**Missachtung einer polizeilichen Anordnung**
+
+<sup>1</sup> Wer Anordnungen der Kantonspolizei missachtet, die sie im Rahmen ihrer Befugnisse erlässt, wird mit Busse bestraft.
+
 #### § 38
 
-**Verweigerung der Lenkerangabe**
-
-<sup>1</sup> Wer es als Halterin oder Halter eines Fahrzeuges auf behördliche Anfrage unterlässt, die Lenkerin oder den Lenker des Fahrzeuges zu benennen, wird mit Busse bestraft.
+**…**
 
 #### § 39
 
