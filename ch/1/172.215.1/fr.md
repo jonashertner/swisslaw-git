@@ -4,11 +4,11 @@ title: "Ordonnance du 17 février 2010 sur l'organisation du Département fédé
 short: Org DFF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/98"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2010-02-17
 in_force: 2010-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-98-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-98-20220101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20210101/fr"
 
 (Org DFF)
 
-du 17 février 2010 (Etat le 1<sup>er</sup> janvier 2021)
+du 17 février 2010 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -117,7 +117,7 @@ Le DFF observe les principes généraux régissant l’activité administrative 
 
 ## Chapitre 2 Unités administratives de l’administration fédérale centrale
 
-### Section 1 Secrétariat général, délégué fédéral au plurilinguisme, délégué fédéral à la cybersécurité et chargé de mission Administration numérique suisse auprès de la Confédération et des cantons****
+### Section 1 Secrétariat général, délégué fédéral au plurilinguisme, délégué fédéral à la cybersécurité et chargé de mission Administration numérique suisse auprès de la Confédération et des cantons
 
 [^chap2-sec1-1]
 
@@ -180,7 +180,7 @@ Le Secrétariat général (SG) assume les fonctions définies à l’art. 42 LOG
 
 [^6b-1]: Introduit par l’annexe ch. 3 de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
 
-### Section 2 Secrétariat d’État aux questions financières internationales****
+### Section 2 Secrétariat d’État aux questions financières internationales
 
 [^chap2-sec2-1]
 
@@ -206,7 +206,7 @@ Dans ce cadre, le SFI exerce en particulier les fonctions suivantes:
 - b.[^7-4] il prépare les affaires financières, fiscales et monétaires internationales et établit les fondements de la politique de promotion de la place financière et de la réglementation des marchés financiers;
 - c.[^7-5] il élabore les actes législatifs concernant les affaires financières, fiscales et monétaires internationales ainsi que la réglementation des marchés financiers et l’assistance administrative en matière fiscale;
 - d. il est responsable du suivi des affaires financières, fiscales et monétaires internationales et mène les négociations internationales dans ces domaines;
-- e.[^7-6] il élabore, pour l’Administration fédérale des contributions (AFC) et l’Administration fédérale des douanes (AFD), et en concertation avec celles-ci, les directives en ce qui concerne les affaires financières, fiscales et monétaires internationales;
+- e.[^7-6] il élabore, pour l’Administration fédérale des contributions (AFC) et l’Office fédéral de la douane et de la sécurité des frontières (OFDF), et en concertation avec ceux-ci, les directives en ce qui concerne les affaires financières, fiscales et monétaires internationales;
 - f. il représente la Suisse dans les organisations et organes internationaux chargés des affaires financières, fiscales et monétaires internationales;
 - g.[^7-7] il entretient, au nom de la Confédération, des relations avec la BNS en ce qui concerne la coopération monétaire internationale et la stabilité des marchés financiers, ainsi que des relations avec la FINMA;
 - h.[^7-8] il entretient les relations avec les associations professionnelles et les autorités étrangères dans son domaine de compétence;
@@ -217,7 +217,7 @@ Dans ce cadre, le SFI exerce en particulier les fonctions suivantes:
 [^7-3]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
 [^7-4]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
 [^7-5]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
-[^7-6]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
+[^7-6]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)).
 [^7-7]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
 [^7-8]: Nouvelle teneur selon le ch. I de l’O du 17 août 2011, en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
 [^7-9]: Introduite par le ch. I de l’O du 17 août 2011 ([RO 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)). Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
@@ -270,12 +270,12 @@ L’AFF assume les tâches particulières suivantes:
 - a. elle effectue les emprunts et les placements de la Confédération;
 - b. elle élabore et applique les actes normatifs en matière de péréquation financière entre Confédération et cantons;
 - c. elle établit les statistiques financières des administrations publiques;
-- d. elle gère le Centre de services en matière de finances du DFF;
-- e.[^9-1] elle donne l’approbation du DFF nécessaire à la conclusion des contrats d’assurance.
+- d.[^9-1] elle gère le Centre de services en matière de finances;
+- e.[^9-2] elle donne l’approbation du DFF nécessaire à la conclusion des contrats d’assurance.
 
 <sup>2</sup> L’AFF définit les modalités de la gestion budgétaire, de la comptabilité et des paiements de l’administration fédérale. Elle édicte les directives requises en la matière.
 
-<sup>2bis</sup> Elle exploite le système de gestion des données de référence (GDR) et assume les autres tâches qui lui sont assignées par le chapitre 6 de l’ordonnance du 25 novembre 2020 sur la transformation numérique et l’informatique[^9-2].[^9-3]
+<sup>2bis</sup> Elle exploite le système de gestion des données de référence (GDR) et assume les autres tâches qui lui sont assignées par le chapitre 6 de l’ordonnance du 25 novembre 2020 sur la transformation numérique et l’informatique[^9-3].[^9-4]
 
 <sup>3</sup>
 
@@ -290,15 +290,16 @@ Les unités suivantes sont subordonnées à l’AFF:
   - 3\. Caisse suisse de compensation,
   - 4\. Office AI pour les assurés résidant à l’étranger;
 
-- b. la Monnaie fédérale (Swissmint).[^9-4]
+- b. la Monnaie fédérale (Swissmint).[^9-5]
 
-<sup>4</sup> ...[^9-5]
+<sup>4</sup> ...[^9-6]
 
-[^9-1]: Introduite par le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2241](https://fedlex.data.admin.ch/eli/oc/2015/416)).
-[^9-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^9-3]: Introduit par l’annexe ch. 3 de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
-[^9-4]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
-[^9-5]: Abrogé par l’annexe ch. 2 de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), avec effet au le 1<sup>er</sup> janv. 2016 (RO **2016** 4019).
+[^9-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^9-2]: Introduite par le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2241](https://fedlex.data.admin.ch/eli/oc/2015/416)).
+[^9-3]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^9-4]: Introduit par l’annexe ch. 3 de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+[^9-5]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
+[^9-6]: Abrogé par l’annexe ch. 2 de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), avec effet au le 1<sup>er</sup> janv. 2016 (RO **2016** 4019).
 
 ### Section 4 Office fédéral du personnel
 
@@ -399,7 +400,11 @@ L’AFC assume les tâches particulières suivantes:
 [^13-5]: Introduite par le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
 [^13-6]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
 
-### Section 6 Administration fédérale des douanes
+### Section 6 Office fédéral de la douane et de la sécurité des frontières
+
+[^chap2-sec6-1]
+
+[^chap2-sec6-1]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)).
 
 #### Art. 14
 
@@ -407,34 +412,35 @@ L’AFC assume les tâches particulières suivantes:
 
 <sup>1</sup>
 
-L’AFD poursuit les objectifs suivants:
+L’OFDF[^14-1] poursuit les objectifs suivants:
 
-- a.[^14-1] elle fournit à la Confédération des recettes issues des impôts, taxes et redevances fédéraux qui relèvent de sa compétence pour lui permettre de financer ses tâches;
-- b. elle gère la circulation des marchandises à la frontière à l’aide de procédures simples et d’un coût raisonnable, en respectant les normes internationales reconnues par la Suisse en matière de flux de marchandises;
-- c. elle prévient et combat les actes illicites dans les zones frontalières et contribue ainsi à la sécurité intérieure du pays et à la protection de la population.
+- a.[^14-2] il fournit à la Confédération des recettes issues des impôts, taxes et redevances fédéraux qui relèvent de sa compétence pour lui permettre de financer ses tâches;
+- b. il gère la circulation des marchandises à la frontière à l’aide de procédures simples et d’un coût raisonnable, en respectant les normes internationales reconnues par la Suisse en matière de flux de marchandises;
+- c. il prévient et combat les actes illicites dans les zones frontalières et contribue ainsi à la sécurité intérieure du pays et à la protection de la population.
 
 <sup>2</sup>
 
-Dans ce cadre, l’AFD exerce en particulier les fonctions suivantes:
+Dans ce cadre, l’OFDF exerce en particulier les fonctions suivantes:
 
-- a. elle surveille et contrôle la circulation des personnes et des marchandises à travers la frontière douanière;
-- b. elle assure la sécurité dans l’espace frontalier;
-- c. elle prélève des droits de douane et des taxes dues en vertu de lois fédérales non douanières, pour autant que les actes législatifs concernés le prévoient;
-- d. elle participe à l’exécution de prescriptions non douanières de la Confédération, pour autant que les actes législatifs concernés le prévoient;
-- e. elle collabore avec les milieux économiques, notamment en vue de simplifier et d’accélérer les procédures douanières;
-- f. elle collabore avec les administrations douanières étrangères, notamment en ce qui concerne la coordination des procédures douanières.
+- a. il surveille et contrôle la circulation des personnes et des marchandises à travers la frontière douanière;
+- b. il assure la sécurité dans l’espace frontalier;
+- c. il prélève des droits de douane et des taxes dues en vertu de lois fédérales non douanières, pour autant que les actes législatifs concernés le prévoient;
+- d. il participe à l’exécution de prescriptions non douanières de la Confédération, pour autant que les actes législatifs concernés le prévoient;
+- e. il collabore avec les milieux économiques, notamment en vue de simplifier et d’accélérer les procédures douanières;
+- f. il collabore avec les administrations douanières étrangères, notamment en ce qui concerne la coordination des procédures douanières.
 
-[^14-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
+[^14-1]: Nouvelle expression selon le ch. I de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)). Il a été tenu compte de cette mod. dans tout le texte.
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
 
 #### Art. 15
 
 **Tâches particulières**[^15-1]
 
-L’AFD assume les tâches particulières suivantes:
+L’OFDF assume les tâches particulières suivantes:
 
-- a. elle négocie, dans les limites de ses compétences et en accord avec le SFI et avec d’autres services compétents en la matière, des traités internationaux portant sur des questions de technique douanière et les fait appliquer, pour autant que les compétences d’autres unités administratives ne soient pas concernées;
-- b. elle représente, dans les limites de ses compétences et en accord avec le SFI et avec d’autres services compétents en la matière dans les limites de leurs compétences, la Suisse au sein d’organisations et d’organes internationaux chargés de questions de technique douanière;
-- c. elle représente, dans les limites de ses compétences et en accord avec d’autres services compétents en la matière, la Suisse au sein d’organisations et d’organes internationaux chargés de questions de sécurité des frontières et, si l’accomplissement de ses tâches l’exige, collabore avec les autorités et les organes d’autres États ainsi qu’avec des organisations internationales et l’Union européenne.
+- a. il négocie, dans les limites de ses compétences et en accord avec le SFI et avec d’autres services compétents en la matière, des traités internationaux portant sur des questions de technique douanière et les fait appliquer, pour autant que les compétences d’autres unités administratives ne soient pas concernées;
+- b. il représente, dans les limites de ses compétences et en accord avec le SFI et avec d’autres services compétents en la matière dans les limites de leurs compétences, la Suisse au sein d’organisations et d’organes internationaux chargés de questions de technique douanière;
+- c. il représente, dans les limites de ses compétences et en accord avec d’autres services compétents en la matière, la Suisse au sein d’organisations et d’organes internationaux chargés de questions de sécurité des frontières et, si l’accomplissement de ses tâches l’exige, collabore avec les autorités et les organes d’autres États ainsi qu’avec des organisations internationales et l’Union européenne.
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
 
@@ -626,7 +632,7 @@ La modification du droit en vigueur est réglée en annexe.
 
 **Dispositions transitoires relatives à la modification du 15 septembre 2017**[^29a-1]
 
-Jusqu’à l’entrée en vigueur des art. 27, 38, 52, 71 et 76*b* de la modification du 30 septembre 2016[^29a-2] de la loi fédérale du 2 juin 1932 sur l’alcool (LAlc)[^29a-3], l’AFD assume toutes les tâches découlant de la législation sur l’alcool, sous réserve des exceptions suivantes:
+Jusqu’à l’entrée en vigueur des art. 27, 38, 52, 71 et 76*b* de la modification du 30 septembre 2016[^29a-2] de la loi fédérale du 2 juin 1932 sur l’alcool (LAlc)[^29a-3], l’OFDF assume toutes les tâches découlant de la législation sur l’alcool, sous réserve des exceptions suivantes:
 
 - a.[^29a-4] la Régie fédérale des alcools (RFA) octroie les autorisations visées à l’art. 27, al. 2, LAlc.
 - b. la RFA surveille l’utilisation des boissons distillées qu’elle vend aux détenteurs de licence;
@@ -643,7 +649,7 @@ Jusqu’à l’entrée en vigueur des art. 27, 38, 52, 71 et 76*b* de la modific
 
 Jusqu’à l’entrée en vigueur des art. 71 et 76*b* de la modification du 30 septembre 2016[^29b-2] de la LAlc[^29b-3]:
 
-- a. l’AFD assume toutes les tâches découlant de la législation sur l’alcool;
+- a. l’OFDF assume toutes les tâches découlant de la législation sur l’alcool;
 - b. la RFA conclut tous les actes juridiques qui sont pendants le 1<sup>er</sup> novembre 2018 et qui sont liés à son ancienne activité.
 
 [^29b-1]: Introduit par l’art. 4 de l’O du 28 sept. 2018 sur l’alcool, en vigueur depuis le 1<sup>er</sup> nov. 2018 ([RO 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).

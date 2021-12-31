@@ -4,11 +4,11 @@ title: Organisationsverordnung vom 17. Februar 2010 für das Eidgenössische Fin
 short: OV-EFD
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/98"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2010-02-17
 in_force: 2010-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2010-98-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2010-98-20220101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20210101/de"
 
 (OV-EFD)
 
-vom 17. Februar 2010 (Stand am 1. Januar 2021)
+vom 17. Februar 2010 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -117,7 +117,7 @@ Das EFD beachtet die allgemeinen Grundsätzen der Verwaltungstätigkeit (Art. 11
 
 ## 2. Kapitel: Verwaltungseinheiten der zentralen Bundesverwaltung
 
-### 1. Abschnitt: **Generalsekretariat, Delegierte oder Delegierter für Mehrsprachigkeit, Delegierte oder Delegierter für Cybersicherheit und Beauftragte oder Beauftragter des Bundes und der Kantone für die digitale Verwaltung** Schweiz****
+### 1. Abschnitt: **Generalsekretariat, Delegierte oder Delegierter für Mehrsprachigkeit, Delegierte oder Delegierter für Cybersicherheit und Beauftragte oder Beauftragter des Bundes und der Kantone für die digitale Verwaltung** Schweiz
 
 [^chap2-sec1-1]
 
@@ -136,7 +136,7 @@ Das Generalsekretariat (GS) übt die Funktionen nach Artikel 42 RVOG aus und nim
 - d<sup>bis</sup>.[^5-3] Es entscheidet über die Übernahme der nachrichtenlosen Vermögenswerte, die dem Bund gemäss Artikel 54 Absatz 2 der Bankenverordnung vom 30. April 2014[^5-4] angeboten werden.
 - e.[^5-5] Es ist zuständig für die Erfüllung der Aufgaben nach Artikel 3 und für die allgemeine Rechtsberatung auf Departementsstufe.
 - f. Es erbringt zugunsten der Verwaltungseinheiten des EFD Unterstützungsleistungen im Bereich Übersetzung.
-- g.[^5-6] ...
+- g.[^5-6] …
 - h.[^5-7] Es nimmt die in den Artikeln 84 und 85 des Finanzdienstleistungsgesetzes vom 15. Juni 2018[^5-8] dem EFD übertragenen Aufgaben bei der Anerkennung der Ombudsstellen wahr.
 
 [^5-1]: Fassung gemäss Ziff. II 2 der V vom 27. Aug. 2014, in Kraft seit 1. Okt. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
@@ -202,7 +202,7 @@ Zur Verfolgung seiner Ziele nimmt das SIF die folgenden Funktionen wahr:
 - b.[^7-4] Es erarbeitet die Grundlagen der internationalen Finanz-, Steuer- und Währungsangelegenheiten, der Finanzmarktpolitik und der Finanzmarktregulierung.
 - c.[^7-5] Es erarbeitet die Rechtserlasse im Bereich der internationalen Finanz-, Steuer- und Währungsangelegenheiten, der Finanzmarktregulierung und der Amtshilfe in Steuersachen.
 - d. Es betreut die internationalen Finanz-, Steuer- und Währungsangelegenheiten federführend und führt die entsprechenden internationalen Verhandlungen.
-- e.[^7-6] Es erarbeitet für die Eidgenössische Steuerverwaltung (ESTV) und die Eidgenössische Zollverwaltung (EZV) und in Absprache mit diesen die Vorgaben in internationalen Finanz-, Steuer- und Währungsangelegenheiten.
+- e.[^7-6] Es erarbeitet für die Eidgenössische Steuerverwaltung (ESTV) und für das Bundesamt für Zoll und Grenzsicherheit (BAZG) und in Absprache mit diesen die Vorgaben in internationalen Finanz-, Steuer- und Währungsangelegenheiten.
 - f. Es vertritt die Schweiz in internationalen Organisationen und Fachgremien, die sich mit internationalen Finanz-, Steuer- und Währungsangelegenheiten befassen.
 - g.[^7-7] Es pflegt die Beziehungen des Bundes zur SNB im Bereich der internationalen Währungszusammenarbeit und der Finanzmarktstabilität sowie zur FINMA.
 - h.[^7-8] Es pflegt in seinem Zuständigkeitsbereich den Kontakt zu den Branchenverbänden und den ausländischen Behörden.
@@ -213,7 +213,7 @@ Zur Verfolgung seiner Ziele nimmt das SIF die folgenden Funktionen wahr:
 [^7-3]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
 [^7-4]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Okt. 2016 ([AS 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
 [^7-5]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Okt. 2016 ([AS 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
-[^7-6]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
+[^7-6]: Fassung gemäss Ziff. I der V vom 12. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)).
 [^7-7]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Okt. 2016 ([AS 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
 [^7-8]: Fassung gemäss Ziff. I der V vom 17. Aug. 2011, in Kraft seit 1. Sept. 2011 ([AS 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
 [^7-9]: Eingefügt durch Ziff. I der V vom 17. Aug. 2011 ([AS 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)). Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Okt. 2016 ([AS 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
@@ -266,12 +266,12 @@ Die EFV hat die folgenden besonderen Aufgaben:
 - a. Sie besorgt die Geldbeschaffung und -anlage des Bundes.
 - b. Sie erarbeitet und vollzieht die Erlasse über den bundesstaatlichen Finanzausgleich.
 - c. Sie erstellt die Finanzstatistik der öffentlichen Verwaltungen.
-- d. Sie führt das «Dienstleistungszentrum Finanzen» des EFD.
-- e.[^9-1] Sie erteilt die notwendige Zustimmung des EFD zum Abschluss von Versicherungsverträgen.
+- d.[^9-1] Sie führt das «Dienstleistungszentrum Finanzen».
+- e.[^9-2] Sie erteilt die notwendige Zustimmung des EFD zum Abschluss von Versicherungsverträgen.
 
 <sup>2</sup> Sie organisiert die Haushalt- und Rechnungsführung sowie die Zahlungsabwicklung in der Bundesverwaltung. Sie erlässt die dazu erforderlichen Weisungen.
 
-<sup>2bis</sup> Sie betreibt das System zur Stammdatenverwaltung (MDG[^9-2]) und erfüllt die übrigen Aufgaben der EFV nach dem 6. Kapitel der Verordnung vom 25. November 2020[^9-3] über die digitale Transformation und die Informatik.[^9-4]
+<sup>2bis</sup> Sie betreibt das System zur Stammdatenverwaltung (MDG[^9-3]) und erfüllt die übrigen Aufgaben der EFV nach dem 6. Kapitel der Verordnung vom 25. November 2020[^9-4] über die digitale Transformation und die Informatik.[^9-5]
 
 <sup>3</sup>
 
@@ -286,16 +286,17 @@ Der EFV unterstellt sind folgende Einheiten:
   - 3\. Schweizerische Ausgleichskasse,
   - 4\. IV-Stelle für Versicherte im Ausland;
 
-- b. die Eidgenössische Münzstätte (Swissmint).[^9-5]
+- b. die Eidgenössische Münzstätte (Swissmint).[^9-6]
 
-<sup>4</sup> ...[^9-6]
+<sup>4</sup> …[^9-7]
 
-[^9-1]: Eingefügt durch Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2241](https://fedlex.data.admin.ch/eli/oc/2015/416)).
-[^9-2]: MDG = Master Data Governance
-[^9-3]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^9-4]: Eingefügt durch Anhang Ziff. 3 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
-[^9-5]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Okt. 2016 ([AS 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
-[^9-6]: Aufgehoben durch Anhang Ziff. 2 der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), mit Wirkung seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^9-1]: Fassung gemäss Anhang Ziff. 4 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^9-2]: Eingefügt durch Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2241](https://fedlex.data.admin.ch/eli/oc/2015/416)).
+[^9-3]: MDG = Master Data Governance
+[^9-4]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^9-5]: Eingefügt durch Anhang Ziff. 3 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+[^9-6]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Okt. 2016 ([AS 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
+[^9-7]: Aufgehoben durch Anhang Ziff. 2 der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), mit Wirkung seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 ### 4. Abschnitt: Eidgenössisches Personalamt
 
@@ -310,7 +311,7 @@ Das Eidgenössische Personalamt (EPA) verfolgt die folgenden Ziele:
 - a. Es schafft die Voraussetzungen für eine vorausschauende Personal- und Vorsorgepolitik im Bund.
 - b. Es stellt eine sparsame und wirtschaftliche Verwendung der finanziellen und personellen Ressourcen sicher.
 - c.[^10-1] Es fördert innerhalb der Bundesverwaltung die Gleichstellung von Frau und Mann.
-- d.[^10-2] ...
+- d.[^10-2] …
 - e.[^10-3] Es stellt eine bedarfsgerechte und praxisnahe Aus- und Weiterbildung des Personals sicher; ausgenommen ist die Fachausbildung.
 
 <sup>2</sup>
@@ -396,7 +397,11 @@ Die ESTV hat die folgenden besonderen Aufgaben:
 [^13-5]: Eingefügt durch Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
 [^13-6]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
 
-### 6. Abschnitt: Eidgenössische Zollverwaltung
+### 6. Abschnitt: Bundesamt für Zoll und Grenzsicherheit
+
+[^chap2-sec6-1]
+
+[^chap2-sec6-1]: Fassung gemäss Ziff. I der V vom 12. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)).
 
 #### Art. 14
 
@@ -404,34 +409,35 @@ Die ESTV hat die folgenden besonderen Aufgaben:
 
 <sup>1</sup>
 
-Die EZV verfolgt die folgenden Ziele:
+Das BAZG[^14-1] verfolgt die folgenden Ziele:
 
-- a.[^14-1] Sie beschafft aus den in ihre Zuständigkeit fallenden Bundessteuern und Bundesabgaben dem Bund Einnahmen, die dieser zur Finanzierung seiner Aufgaben benötigt.
-- b. Sie bewirtschaftet den Warenverkehr an der Grenze mit einfachen und kostengünstigen Verfahren und beachtet dabei von der Schweiz anerkannte internationale Standards zu den Warenflüssen.
-- c. Sie verhütet und bekämpft illegale Handlungen im Grenzraum und trägt damit zur inneren Sicherheit des Landes und zum Schutz der Bevölkerung bei.
+- a.[^14-2] Es beschafft aus den in seine Zuständigkeit fallenden Bundessteuern und Bundesabgaben dem Bund Einnahmen, die dieser zur Finanzierung seiner Aufgaben benötigt.
+- b. Es bewirtschaftet den Warenverkehr an der Grenze mit einfachen und kostengünstigen Verfahren und beachtet dabei von der Schweiz anerkannte internationale Standards zu den Warenflüssen.
+- c. Es verhütet und bekämpft illegale Handlungen im Grenzraum und trägt damit zur inneren Sicherheit des Landes und zum Schutz der Bevölkerung bei.
 
 <sup>2</sup>
 
-Zur Verfolgung ihrer Ziele nimmt die EZV insbesondere die folgenden Funktionen wahr:
+Zur Verfolgung seiner Ziele nimmt das BAZG insbesondere die folgenden Funktionen wahr:
 
-- a. Sie überwacht und kontrolliert den Personen- und Warenverkehr über die Zollgrenze.
-- b. Sie wahrt die Sicherheit im Grenzraum.
-- c. Sie erhebt Zollabgaben und Abgaben nach nicht zollrechtlichen Bundesgesetzen, soweit die betreffenden Erlasse dies vorsehen.
-- d. Sie wirkt mit beim Vollzug nicht zollrechtlicher Erlasse des Bundes, soweit die betreffenden Erlasse dies vorsehen.
-- e. Sie arbeitet mit der Wirtschaft zusammen, insbesondere zur Vereinfachung und Beschleunigung der Zollveranlagungsverfahren.
-- f. Sie arbeitet mit ausländischen Zollverwaltungen zusammen, insbesondere hinsichtlich der Koordination der Zollveranlagungsverfahren.
+- a. Es überwacht und kontrolliert den Personen- und Warenverkehr über die Zollgrenze.
+- b. Es wahrt die Sicherheit im Grenzraum.
+- c. Es erhebt Zollabgaben und Abgaben nach nicht zollrechtlichen Bundesgesetzen, soweit die betreffenden Erlasse dies vorsehen.
+- d. Es wirkt mit beim Vollzug nicht zollrechtlicher Erlasse des Bundes, soweit die betreffenden Erlasse dies vorsehen.
+- e. Es arbeitet mit der Wirtschaft zusammen, insbesondere zur Vereinfachung und Beschleunigung der Zollveranlagungsverfahren.
+- f. Es arbeitet mit ausländischen Zollverwaltungen zusammen, insbesondere hinsichtlich der Koordination der Zollveranlagungsverfahren.
 
-[^14-1]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
+[^14-1]: Ausdruck gemäss Ziff. I der V vom 12. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^14-2]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
 
 #### Art. 15
 
 **Besondere Aufgaben**[^15-1]
 
-Die EZV hat die folgenden besonderen Aufgaben:
+Das BAZG hat die folgenden besonderen Aufgaben:
 
-- a. Sie handelt im Rahmen ihrer Zuständigkeiten und im Einvernehmen mit dem SIF und anderen in der Sache zuständigen Stellen völkerrechtliche Verträge in Angelegenheiten zolltechnischer Art aus und vollzieht sie, soweit nicht Zuständigkeiten anderer Verwaltungseinheiten betroffen sind.
-- b. Sie vertritt im Rahmen ihrer Zuständigkeiten und im Einvernehmen mit dem SIF und anderen in der Sache zuständigen Stellen im Rahmen ihrer Zuständigkeiten die Schweiz in internationalen Organisationen und Fachgremien, die sich mit zolltechnischen Fragen befassen.
-- c. Sie vertritt im Rahmen ihrer Zuständigkeiten und im Einvernehmen mit anderen in der Sache zuständigen Stellen die Schweiz in internationalen Organisationen und Fachgremien, die sich mit Fragen der Grenzsicherheit befassen, und arbeitet zur Erfüllung ihrer Aufgaben mit Behörden und Organen anderer Staaten sowie mit internationalen Organisationen und der Europäischen Union zusammen.
+- a. Es handelt im Rahmen seiner Zuständigkeiten und im Einvernehmen mit dem SIF und anderen in der Sache zuständigen Stellen völkerrechtliche Verträge in Angelegenheiten zolltechnischer Art aus und vollzieht sie, soweit nicht Zuständigkeiten anderer Verwaltungseinheiten betroffen sind.
+- b. Es vertritt im Rahmen seiner Zuständigkeiten und im Einvernehmen mit dem SIF und anderen in der Sache zuständigen Stellen im Rahmen seiner Zuständigkeiten die Schweiz in internationalen Organisationen und Fachgremien, die sich mit zolltechnischen Fragen befassen.
+- c. Es vertritt im Rahmen seiner Zuständigkeiten und im Einvernehmen mit anderen in der Sache zuständigen Stellen die Schweiz in internationalen Organisationen und Fachgremien, die sich mit Fragen der Grenzsicherheit befassen, und arbeitet zur Erfüllung seiner Aufgaben mit Behörden und Organen anderer Staaten sowie mit internationalen Organisationen und der Europäischen Union zusammen.
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
 
@@ -467,7 +473,7 @@ Das BIT hat die folgenden Aufgaben:
 
 **Besondere Bestimmungen**
 
-<sup>1</sup> ...[^18-1]
+<sup>1</sup> …[^18-1]
 
 <sup>2</sup> Das BIT verrechnet seinen Kunden die Leistungen und sorgt gegenüber dem EFD für Kostentransparenz.[^18-2]
 
@@ -536,7 +542,7 @@ Das BBL hat die folgenden besonderen Aufgaben:
 [^20-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2011, in Kraft seit 1. Sept. 2011 ([AS 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
 [^20-2]: [[AS 2001 100](https://fedlex.data.admin.ch/eli/oc/2001/18), [2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)Ziff. IV, [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Anhang Ziff. 4. [AS 2014 2887](https://fedlex.data.admin.ch/eli/oc/2014/496)Art. 46]. Siehe heute: die V vom 27. Aug. 2014 ([SR 933.01](https://fedlex.data.admin.ch/eli/cc/2014/496)).
 
-### 9. Abschnitt: ...
+### 9. Abschnitt: …
 
 #### Art. 20a
 
@@ -546,7 +552,7 @@ Das BBL hat die folgenden besonderen Aufgaben:
 
 ## 3. Kapitel: Verwaltungseinheiten der dezentralen Bundesverwaltung
 
-### 1. Abschnitt: ...
+### 1. Abschnitt: …
 
 #### Art. 21 und 22
 
@@ -611,7 +617,7 @@ Das EFD erlässt nach Artikel 29 RVOV eine Geschäftsordnung.
 
 Die Organisationsverordnung vom 11. Dezember 2000[^28-1] für das Eidgenössische Finanzdepartement wird aufgehoben.
 
-[^28-1]: [[AS 2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56), [2003 1801](https://fedlex.data.admin.ch/eli/oc/2003/269)Art. 19 [2122](https://fedlex.data.admin.ch/eli/oc/2003/311)[3687](https://fedlex.data.admin.ch/eli/oc/2003/525)Anhang Ziff. II 1, [2007 1409](https://fedlex.data.admin.ch/eli/oc/2007/248), [2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)Ziff. II 1 [5363](https://fedlex.data.admin.ch/eli/oc/2008/750)Anhang Ziff. 2]
+[^28-1]: [[AS 2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56); [2003 1801](https://fedlex.data.admin.ch/eli/oc/2003/269)Art. 19, [2122](https://fedlex.data.admin.ch/eli/oc/2003/311), [3687](https://fedlex.data.admin.ch/eli/oc/2003/525)Anhang Ziff. II 1; [2007 1409](https://fedlex.data.admin.ch/eli/oc/2007/248); [2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)Ziff. II 1, [5363](https://fedlex.data.admin.ch/eli/oc/2008/750)Anhang Ziff. 2]
 
 #### Art. 29
 
@@ -623,7 +629,7 @@ Die Änderung bisherigen Rechts wird im Anhang geregelt.
 
 **Übergangsbestimmungen zur Änderung vom 15. September 2017**[^29a-1]
 
-Bis zum Inkrafttreten der Artikel 27, 38, 52, 71 und 76*b* der Änderungen vom 30. September 2016[^29a-2] des Alkoholgesetzes vom 2. Juni 1932[^29a-3] (AlkG) erfüllt die EZV alle Aufgaben des Alkoholrechts mit folgenden Ausnahmen:
+Bis zum Inkrafttreten der Artikel 27, 38, 52, 71 und 76*b* der Änderungen vom 30. September 2016[^29a-2] des Alkoholgesetzes vom 2. Juni 1932[^29a-3] (AlkG) erfüllt das BAZG alle Aufgaben des Alkoholrechts mit folgenden Ausnahmen:
 
 - a.[^29a-4] Bewilligungen nach Artikel 27 Absatz 2 AlkG werden von der Eidgenössischen Alkoholverwaltung (EAV) erteilt.
 - b. Die EAV überwacht die Verwendung der von ihr mit Bewilligung abgegebenen gebrannten Wasser.
@@ -640,7 +646,7 @@ Bis zum Inkrafttreten der Artikel 27, 38, 52, 71 und 76*b* der Änderungen vom 3
 
 Bis zum Inkrafttreten der Artikel 71 und 76*b* der Änderungen vom 30. September 2016[^29b-2] des AlkG[^29b-3]:
 
-- a. erfüllt die EZV alle Aufgaben des Alkoholrechts;
+- a. erfüllt das BAZG alle Aufgaben des Alkoholrechts;
 - b. schliesst die EAV alle Rechtsgeschäfte ab, die am 1. November 2018 hängig und mit ihrer bisherigen Geschäftstätigkeit verbunden waren.
 
 [^29b-1]: Eingefügt durch Art. 4 der V vom 28. Sept. 2018 über die Vermögensausscheidung der Eidgenössischen Alkoholverwaltung zugunsten des Bundes, in Kraft seit 1. Nov. 2018 ([AS 2018 3503](https://fedlex.data.admin.ch/eli/oc/2018/569)).
@@ -661,6 +667,6 @@ Anhang
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änd. können unter [AS 2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)konsultiert werden.

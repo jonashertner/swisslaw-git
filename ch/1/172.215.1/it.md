@@ -4,11 +4,11 @@ title: "Ordinanza del 17 febbraio 2010 sull'organizzazione del Dipartimento fede
 short: Org-DFF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/98"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2010-02-17
 in_force: 2010-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2010-98-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2010-98-20220101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20210101/it"
 
 (Org-DFF)
 
-del 17 febbraio 2010 (Stato 1° gennaio 2021)
+del 17 febbraio 2010 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -117,7 +117,7 @@ Il DFF osserva i principi generali dell’attività amministrativa (art. 11 OLOG
 
 ## Capitolo 2: Unità amministrative dell’Amministrazione federale centrale
 
-### Sezione 1: Segreteria generale, delegato federale al plurilinguismo, delegato federale alla cibersicurezza e incaricato della Confederazione e dei Cantoni per l’amministrazione digitale Svizzera****
+### Sezione 1: Segreteria generale, delegato federale al plurilinguismo, delegato federale alla cibersicurezza e incaricato della Confederazione e dei Cantoni per l’amministrazione digitale Svizzera
 
 [^chap2-sec1-1]
 
@@ -202,7 +202,7 @@ Per raggiungere i suoi obiettivi, la SFI svolge le seguenti funzioni:
 - b.[^7-4] elabora le basi delle questioni finanziare, fiscali e monetarie internazionali, della politica dei mercati finanziari e della regolamentazione dei mercati finanziari;
 - c.[^7-5] elabora atti normativi in ambito di questioni finanziarie, fiscali e monetarie internazionali, regolamentazione dei mercati finanziari e di assistenza amministrativa in materia fiscale;
 - d. è responsabile per le questioni finanziare, fiscali e monetarie internazionali e conduce i relativi negoziati a livello internazionale;
-- e.[^7-6] elabora, per l’Amministrazione federale delle contribuzioni (AFC) e l’Amministrazione federale delle dogane (AFD) e d’intesa con esse, le direttive concernenti le questioni finanziarie, fiscali e monetarie internazionali;
+- e.[^7-6] elabora, per l’Amministrazione federale delle contribuzioni (AFC) e per l’Ufficio federale della dogana e della sicurezza dei confini (UDSC) e d’intesa con essi, le direttive concernenti le questioni finanziarie, fiscali e monetarie internazionali;
 - f. rappresenta la Svizzera presso organizzazioni internazionali e in organi specializzati che si occupano di questioni finanziare, fiscali e monetarie internazionali;
 - g.[^7-7] cura le relazioni della Confederazione con la BNS in materia di cooperazione monetaria internazionale e di stabilità dei mercati finanziari nonché con la FINMA;
 - h.[^7-8] cura i contatti con le associazioni di categoria e con le autorità estere nel suo settore di competenza;
@@ -213,7 +213,7 @@ Per raggiungere i suoi obiettivi, la SFI svolge le seguenti funzioni:
 [^7-3]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
 [^7-4]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° ott. 2016 ([RU 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
 [^7-5]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° ott. 2016 ([RU 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
-[^7-6]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
+[^7-6]: Nuovo testo giusta il n. I dell’O del 12 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)).
 [^7-7]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° ott. 2016 ([RU 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
 [^7-8]: Nuovo testo giusta il n. I dell’O del 17 ago. 2011, in vigore dal 1° set. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
 [^7-9]: Introdotta dal n. I dell’O del 17 ago. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)). Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° ott. 2016 ([RU 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
@@ -266,12 +266,12 @@ L’AFF adempie i seguenti compiti particolari:
 - a. provvede alla raccolta di fondi e all’investimento di denaro della Confederazione;
 - b. elabora e applica gli atti normativi concernenti la perequazione finanziaria a livello federale;
 - c. allestisce la statistica finanziaria delle amministrazioni pubbliche;
-- d. gestisce il «Centro Prestazioni di servizi Finanze» del DFF;
-- e.[^9-1] autorizza a nome del DFF la conclusione di contratti assicurativi.
+- d.[^9-1] gestisce il «Centro Prestazioni di servizi Finanze»;
+- e.[^9-2] autorizza a nome del DFF la conclusione di contratti assicurativi.
 
 <sup>2</sup> L’AFF organizza la gestione finanziaria, la contabilità e i pagamenti nell’Amministrazione federale. Emana le istruzioni necessarie.
 
-<sup>2bis</sup> Gestisce il sistema di gestione dei dati di base (sistema GDB) e svolge gli altri compiti che le sono assegnati dal capitolo 6 dall’ordinanza del 25 novembre 2020[^9-2] sulla trasformazione digitale e l’informatica.[^9-3]
+<sup>2bis</sup> Gestisce il sistema di gestione dei dati di base (sistema GDB) e svolge gli altri compiti che le sono assegnati dal capitolo 6 dall’ordinanza del 25 novembre 2020[^9-3] sulla trasformazione digitale e l’informatica.[^9-4]
 
 <sup>3</sup>
 
@@ -286,15 +286,16 @@ Sono sottoposte all’AFF le seguenti unità:
   - 3\. Cassa svizzera di compensazione,
   - 4\. Ufficio AI per assicurati all’estero;
 
-- b. la Zecca svizzera (Swissmint).[^9-4]
+- b. la Zecca svizzera (Swissmint).[^9-5]
 
-<sup>4</sup> ...[^9-5]
+<sup>4</sup> ...[^9-6]
 
-[^9-1]: Introdotta dal n. I dell’O del 1° lug. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2241](https://fedlex.data.admin.ch/eli/oc/2015/416)).
-[^9-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^9-3]: Introdotto dall’all n. 3 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
-[^9-4]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° ott. 2016 ([RU 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
-[^9-5]: Abrogato dall’all. n. 2 dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), con effetto dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^9-1]: Nuovo testo giusta l’all. n. 4 dell’O del 10 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^9-2]: Introdotta dal n. I dell’O del 1° lug. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2241](https://fedlex.data.admin.ch/eli/oc/2015/416)).
+[^9-3]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^9-4]: Introdotto dall’all n. 3 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+[^9-5]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° ott. 2016 ([RU 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
+[^9-6]: Abrogato dall’all. n. 2 dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), con effetto dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 ### Sezione 4: Ufficio federale del personale
 
@@ -395,7 +396,11 @@ L’AFC adempie i seguenti compiti particolari:
 [^13-5]: Introdotta dal n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
 [^13-6]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
 
-### Sezione 6: Amministrazione federale delle dogane
+### Sezione 6: Ufficio federale della dogana e della sicurezza dei confini
+
+[^chap2-sec6-1]
+
+[^chap2-sec6-1]: Nuovo testo giusta il n. I dell’O del 12 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)).
 
 #### Art. 14
 
@@ -403,15 +408,15 @@ L’AFC adempie i seguenti compiti particolari:
 
 <sup>1</sup>
 
-L’AFD persegue i seguenti obiettivi:
+L’UDSC[^14-1] persegue i seguenti obiettivi:
 
-- a.[^14-1] procura alla Confederazione le entrate provenienti dalle imposte e dai tributi federali di sua competenza per permetterle di finanziare i suoi compiti;
+- a.[^14-2] procura alla Confederazione le entrate provenienti dalle imposte e dai tributi federali di sua competenza per permetterle di finanziare i suoi compiti;
 - b. gestisce il traffico merci al confine mediante procedure semplici ed economiche tenendo conto delle norme internazionali riconosciute dalla Svizzera concernenti i flussi delle merci;
 - c. previene e combatte gli atti illegali nella zona di confine, contribuendo in tal modo alla sicurezza interna del Paese e alla protezione della popolazione;
 
 <sup>2</sup>
 
-Per raggiungere i suoi obiettivi, l’AFD svolge in particolare le seguenti funzioni:
+Per raggiungere i suoi obiettivi, l’UDSC svolge in particolare le seguenti funzioni:
 
 - a. sorveglia e controlla il traffico viaggiatori e il traffico merci attraverso il confine doganale;
 - b. garantisce la sicurezza nella zona di confine;
@@ -420,13 +425,14 @@ Per raggiungere i suoi obiettivi, l’AFD svolge in particolare le seguenti funz
 - e. collabora con l’economia, in particolare per semplificare e accelerare le procedure d’imposizione doganale;
 - f. collabora con le amministrazioni doganali estere, in particolare per quanto concerne la coordinazione delle procedure d’imposizione doganale.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
+[^14-1]: Nuova espr. giusta il n. I dell’O del 12 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^14-2]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
 
 #### Art. 15
 
 **Compiti particolari**[^15-1]
 
-L’AFD adempie i seguenti compiti particolari:
+L’UDSC adempie i seguenti compiti particolari:
 
 - a. nei limiti delle sue competenze e d’intesa con la SFI e altri servizi competenti in materia, negozia trattati internazionali in materia doganale e li applica, per quanto non siano toccate le competenze di altre unità amministrative;
 - b. nei limiti delle sue competenze e d’intesa con la SFI e altri servizi competenti in materia, rappresenta la Svizzera presso organizzazioni internazionali e in organi specializzati che si occupano di questioni doganali;
@@ -624,7 +630,7 @@ La modifica del diritto vigente è disciplinata nell’allegato.
 
 **Disposizioni transitorie della modifica del 15 settembre 2017**[^29a-1]
 
-Fino all’entrata in vigore degli articoli 27, 38, 52, 71 e 76*b* della modifica del 30 settembre 2016[^29a-2] della legge del 2 giugno 1932[^29a-3] sull’alcool (LAlc), l’AFD svolge tutti i compiti previsti nella legislazione sull’alcol, con le seguenti eccezioni:
+Fino all’entrata in vigore degli articoli 27, 38, 52, 71 e 76*b* della modifica del 30 settembre 2016[^29a-2] della legge del 2 giugno 1932[^29a-3] sull’alcool (LAlc), l’UDSC svolge tutti i compiti previsti nella legislazione sull’alcol, con le seguenti eccezioni:
 
 - a. le autorizzazioni secondo l’articolo 27 capoverso 2 LAlc sono rilasciate dalla Regìa federale degli alcool (RFA);
 - b. la RFA sorveglia l’impiego delle bevande distillate che essa vende ai titolari di licenze;
@@ -640,7 +646,7 @@ Fino all’entrata in vigore degli articoli 27, 38, 52, 71 e 76*b* della modific
 
 Fino all’entrata in vigore degli articoli 71 e 76*b* della modifica del 30 settembre 2016[^29b-2] della LAlc[^29b-3]:
 
-- a. l’AFD svolge tutti i compiti previsti nella legislazione sull’alcol;
+- a. l’UDSC svolge tutti i compiti previsti nella legislazione sull’alcol;
 - b. la RFA conclude tutti i negozi giuridici pendenti al 1° novembre 2018 e relativi alla sua attività commerciale precedente.
 
 [^29b-1]: Introdotto dall’art. 4 dell’O del 28 set. 2018 concernente la ripartizione del capitale della Regìa federale degli alcool in favore della Confederazione, in vigore dal 1° nov. 2018 ([RU 2018 3503](https://fedlex.data.admin.ch/eli/oc/2018/569)).
