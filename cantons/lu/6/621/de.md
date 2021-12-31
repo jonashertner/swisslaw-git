@@ -4,13 +4,13 @@ number: "621"
 title: Steuerverordnung
 short: StV
 language: de
-version: 2019-01-01
-valid_until: 2021-12-31
-version_adopted: 2018-12-18
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-09-28
 adopted: 2000-12-12
 in_force: 2001-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/621"
-pdf: "https://srl.lu.ch/api/de/versions/3379/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3860/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://srl.lu.ch/api/de/versions/3379/pdf_file"
 
 (StV)
 
-vom 12.12.2000 (Stand 01.01.2019)
+vom 12.12.2000 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf die §§ 6 Unterabsatz e, 21 Absatz 4, 39 Absatz 4, 40 Absatz 1h, 125 Absatz 2, 145 Absatz 4, 160 Absatz 3, 192 Absätze 3 und 4, 193 Absatz 2, 194 Absatz 3, 201 Absatz 3, 239 Absatz 1 und 247 des Steuergesetzes (StG) vom 22. November 1999[^ingress-1], § 21 Absatz 3 des Gesetzes über die Handänderungssteuer vom 28. Juni 1983[^ingress-2] und § 31a Absatz 3 des Gesetzes über die Grundstückgewinnsteuer vom 31. Oktober 1961[^ingress-3],
+gestützt auf die §§ 6 Absatz 1e, 28 Absatz 4, 39 Absatz 4, 40 Absatz 1h, 125 Absatz 2, 145 Absatz 4, 192 Absätze 3 und 4, 193 Absatz 2, 194 Absatz 3, 201 Absatz 3, 239 Absatz 1 und 247 des Steuergesetzes (StG) vom 22. November 1999[^ingress-1], § 21 Absatz 3 des Gesetzes über die Handänderungssteuer vom 28. Juni 1983[^ingress-2] und § 31a Absatz 3 des Gesetzes über die Grundstückgewinnsteuer vom 31. Oktober 1961[^ingress-3],
 
 auf Antrag des Finanzdepartementes,
 
@@ -41,9 +41,9 @@ beschliesst:
 
 **Handänderung**
 
-<sup>1</sup> Massgebend für die Zurechnung eines Grundstücks bei einer Handänderung ist der Zeitpunkt des tatsächlichen Übergangs von Nutzen und Schaden, sofern der Kaufvertrag vor diesem Datum abgeschlossen worden ist.
+<sup>1</sup> Massgebend für die Zurechnung eines Grundstücks bei einer Handänderung ist der Zeitpunkt des tatsächlichen Übergangs von Nutzen und Schaden, sofern der Eintrag ins Grundbuch (Tagebuch) vor diesem Datum liegt.
 
-<sup>2</sup> Ist der Übergang von Nutzen und Schaden auf einen vor dem Vertragsabschluss liegenden Zeitpunkt vereinbart, ist für die Zurechnung der Zeitpunkt des Kaufvertragsabschlusses massgebend.
+<sup>2</sup> Ist der Übergang von Nutzen und Schaden auf einen vor dem Grundbucheintrag (Tagebuch) liegenden Zeitpunkt vereinbart, ist für die Zurechnung der Zeitpunkt des Grundbucheintrags (Tagebuch) massgebend.
 
 <sup>3</sup> Für die Zurechnung von Grundstücken bei Handänderungen im Rahmen von Umstrukturierungen (§§ 26 und 75 StG) gelten die Vollzugsbestimmungen der direkten Bundessteuer sinngemäss.
 
@@ -111,18 +111,19 @@ beschliesst:
 
 #### § 8a
 
-**Geldspielgewinne**
+**…**
 
-<sup>1</sup> Steuerfrei sind nur
+#### § 8b
 
-- a. die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Geldspielgesetz vom 29. September 2017[^8a-1] (BGS) zugelassen sind, sofern diese Gewinne nicht aus selbständiger Erwerbstätigkeit stammen,
-- b. die einzelnen Gewinne bis zum Betrag von 1 Million Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind,
-- c. die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind,
-- d. die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2d und e BGS diesem nicht unterstehen, sofern die Grenze von 1000 Franken nicht überschritten wird.
+**Herabsetzung des Mietwertes**
 
-<sup>2</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, welche nicht nach Absatz 1b–d steuerfrei sind, werden fünf Prozent, jedoch höchstens 5000 Franken, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Absatz 1b werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens 25 000 Franken, abgezogen.
+<sup>1</sup> Der steuerbare Mietwert einer Liegenschaft, die eine steuerpflichtige Person an ihrem Wohnsitz dauernd selbst bewohnt, wird auf Antrag herabgesetzt, soweit er 25 Prozent der Bruttoeinkünfte (Einkünfte vor Abzügen gemäss Steuerveranlagung) ohne den Mietwert übersteigt und bei Alleinstehenden unter 19 400 Franken (27 700 Fr. Marktmiete) sowie bei Personen, denen der Tarif gemäss § 57 Absatz 2 StG zusteht, unter 27 200 Franken (38 900 Fr. Marktmiete) liegt. Der steuerbare Mietwert beträgt mindestens 60 Prozent der mittleren Marktmiete.
 
-[^8a-1]: SR [935.51](https://db.clex.ch/link/Bund/935.51/de); BBl 2017 6245
+<sup>2</sup> Die Herabsetzung des Mietwertes entfällt, sofern das steuerbare Vermögen bei Alleinstehenden 55 000 Franken und bei Personen, denen der Tarif gemäss § 57 Absatz 2 StG zusteht, 110 000 Franken übersteigt
+
+<sup>3</sup> Die Herabsetzung des Mietwertes wird jedoch auch gewährt, wenn das steuerbare Vermögen die in Absatz 2 genannten Beträge übersteigt, sofern der Steuerwert des am Wohnsitz dauernd selbstgenutzten Wohneigentums 75 Prozent des Steuerwertes aller Vermögenswerte (Aktiven vor Abzug der Schulden) gemäss Steuerveranlagung übersteigt.
+
+<sup>4</sup> Die Pauschale der Liegenschaftsunterhaltskosten wird vom herabgesetzten steuerbaren Mietwert berechnet.
 
 #### § 9
 
@@ -285,9 +286,9 @@ beschliesst:
 
 #### § 22
 
-**Beteiligungs- und Holdinggesellschaften**
+**Beteiligungsgesellschaften**
 
-<sup>1</sup> Für die Bewertung der Beteiligungen nach § 82 Absatz 1 und § 85 Absatz 1 StG gilt § 47 StG sinngemäss.
+<sup>1</sup> Für die Bewertung der Beteiligungen nach § 82 Absatz 1 StG gilt § 47 StG sinngemäss.
 
 <sup>2</sup> ...
 
