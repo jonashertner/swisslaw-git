@@ -4,11 +4,11 @@ title: Ordonnance du 17 octobre 2007 sur le registre du commerce (ORC)
 short: ORC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/686"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2007-10-17
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-686-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-686-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20210101/fr"
 
 (ORC)
 
-du 17 octobre 2007 (Etat le 1<sup>er</sup> janvier 2021)
+du 17 octobre 2007 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -181,12 +181,13 @@ Le registre principal contient pour chaque entité juridique:
 
 Sont exceptés de la publicité du registre du commerce au sens de l’art. 936 CO:
 
-- a. le numéro AVS;
+- a. le numéro AVS[^10-2];
 - b. la correspondance se rapportant aux inscriptions;
 - c. les copies des documents d’identité;
 - d. les copies des documents mentionnés à l’art. 62.
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^10-2]: La nouvelle expression, selon l’annexe ch. II 9 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022, ne concerne que les textes allemand et italien ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 11
 
@@ -3098,7 +3099,7 @@ Lorsque l’entité juridique n’obtempère pas à la sommation dans le délai 
 
 [^153a153c-1]
 
-[^153a153c-1]: Introduits par le ch. 1 de l’annexe à l’O du 23 sept. 2011 sur le registre foncier ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)). Abrogés par le ch. I de l’O du 6 mars 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^153a153c-1]: Introduits par l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)). Abrogés par le ch. I de l’O du 6 mars 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 154 à 156
 
@@ -3285,7 +3286,7 @@ L’inscription au registre du commerce mentionne:
 
 [^tit6-1]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
-**Art. 162** et **163**
+#### Art. 162 et 163
 
 Abrogés
 

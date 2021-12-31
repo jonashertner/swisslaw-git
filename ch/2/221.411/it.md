@@ -4,11 +4,11 @@ title: Ordinanza del 17 ottobre 2007 sul registro di commercio (ORC)
 short: ORC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/686"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2007-10-17
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2007-686-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-686-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20210101/it"
 
 (ORC)
 
-del 17 ottobre 2007 (Stato 1° gennaio 2021)
+del 17 ottobre 2007 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -181,12 +181,13 @@ Il registro principale contiene per ogni ente giuridico le indicazioni seguenti:
 
 Non soggiacciono alla pubblicità del registro di commercio secondo l’articolo 936 CO:
 
-- a. il numero di assicurato AVS;
+- a. il numero AVS[^10-2];
 - b. la corrispondenza relativa a un’iscrizione;
 - c. le copie dei documenti d’identità;
 - d. le copie dei documenti di cui all’articolo 62.
 
 [^10-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^10-2]: Nuova espr. giusta l’all. n. II 9 dell’O del 17 nov. 2021 , in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 11
 

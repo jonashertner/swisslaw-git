@@ -4,11 +4,11 @@ title: Handelsregisterverordnung vom 17. Oktober 2007 (HRegV)
 short: HRegV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/686"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2007-10-17
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2007-686-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-686-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20210101/de"
 
 (HRegV)
 
-vom 17. Oktober 2007 (Stand am 1. Januar 2021)
+vom 17. Oktober 2007 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -181,12 +181,13 @@ Das Hauptregister enthält für jede Rechtseinheit folgende Angaben:
 
 Nicht der Öffentlichkeit des Handelsregisters nach Artikel 936 OR unterstehen:
 
-- a. die AHV-Versichertennummer;
+- a. die AHV-Nummer[^10-2];
 - b. die mit der Eintragung zusammenhängende Korrespondenz;
 - c. Kopien von Ausweisdokumenten;
 - d. Kopien der Unterlagen nach Artikel 62.
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^10-2]: Ausdruck gemäss Anhang Ziff. II 9 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 11
 
@@ -201,9 +202,9 @@ Auf Verlangen gewähren die Handelsregisterämter Einsicht in das Hauptregister,
 
 <sup>2</sup> Vor der Veröffentlichung einer Eintragung im Schweizerischen Handelsamtsblatt dürfen Auszüge nur ausgestellt werden, wenn die Eintragung durch das EHRA genehmigt ist.
 
-<sup>3</sup> ...[^11-1]
+<sup>3</sup> …[^11-1]
 
-<sup>4</sup> ...[^11-2]
+<sup>4</sup> …[^11-2]
 
 <sup>5</sup> Das EHRA sorgt durch eine Weisung für eine einheitliche Struktur und Darstellung der Auszüge. Dabei ermöglicht es den Kantonen, kantonale Wappen und Symbole zu verwenden. Es kann Vorschriften zur Sicherheit der Auszüge erlassen.
 
@@ -809,7 +810,7 @@ Mit der Anmeldung der Gründung einer Aktiengesellschaft zur Eintragung müssen 
 - e. das Protokoll des Verwaltungsrates über seine Konstituierung, über die Regelung des Vorsitzes und über die Erteilung der Zeichnungsbefugnisse;
 - f. bei Bareinlagen: eine Bescheinigung, aus der ersichtlich ist, bei welchem Bankinstitut die Einlagen hinterlegt sind, sofern das Bankinstitut in der öffentlichen Urkunde nicht genannt wird;
 - g. im Fall von Artikel 117 Absatz 3: die Erklärung der Domizilhalterin oder des Domizilhalters, dass sie oder er der Gesellschaft ein Rechtsdomizil am Ort von deren Sitz gewährt;
-- h.[^43-1] ...
+- h.[^43-1] …
 - i.[^43-2] bei Inhaberaktien: ein Nachweis, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des Bucheffektengesetzes vom 3. Oktober 2008[^43-3] (BEG) ausgestaltet sind.
 
 <sup>2</sup> Für Angaben, die bereits im Errichtungsakt festgehalten sind, ist kein zusätzlicher Beleg erforderlich.
@@ -914,7 +915,7 @@ Mit der Anmeldung müssen dem Handelsregisteramt folgende Belege eingereicht wer
 - d. der von einem Mitglied des Verwaltungsrates unterzeichnete Kapitalerhöhungsbericht;
 - e. bei Bareinlagen eine Bescheinigung, aus der ersichtlich ist, bei welchem Bankinstitut die Einlagen hinterlegt sind, sofern das Bankinstitut in der öffentlichen Urkunde nicht genannt wird;
 - f. gegebenenfalls der Prospekt;
-- g.[^46-1] ...
+- g.[^46-1] …
 - h.[^46-2] falls Inhaberaktien ausgegeben werden und die Gesellschaft bisher keine Inhaberaktien hatte: ein Nachweis, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des BEG[^46-3] ausgestaltet sind.
 
 <sup>3</sup>
@@ -1185,7 +1186,7 @@ Mit der Anmeldung zur Eintragung einer nachträglichen Leistung von Einlagen auf
   - 2\. eine vorbehaltslose Prüfungsbestätigung eines staatlich beaufsichtigten Revisionsunternehmens, einer zugelassenen Revisionsexpertin, eines zugelassenen Revisionsexperten, einer zugelassenen Revisorin oder eines zugelassenen Revisors,
   - 3\. gegebenenfalls die Sacheinlageverträge mit den erforderlichen Beilagen und die Sachübernahmeverträge mit den erforderlichen Beilagen;
 
-- f.[^54-1] ...
+- f.[^54-1] …
 
 <sup>2</sup>
 
@@ -1459,7 +1460,7 @@ Mit der Anmeldung zur Eintragung der Gründung einer Kommanditaktiengesellschaft
 - d. ein Nachweis, dass die Mitglieder der Aufsichtsstelle ihre Wahl angenommen haben;
 - e. bei Bareinlagen: eine Bescheinigung, aus der ersichtlich ist, bei welchem Bankinstitut die Einlagen hinterlegt sind, sofern das Bankinstitut in der öffentlichen Urkunde nicht genannt wird;
 - f. im Fall von Artikel 117 Absatz 3: die Erklärung der Domizilhalterin oder des Domizilhalters, dass sie oder er der Gesellschaft ein Rechtsdomizil am Ort von deren Sitz gewährt;
-- g.[^66-2] ...
+- g.[^66-2] …
 - h.[^66-3] bei Inhaberaktien: ein Nachweis, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des BEG[^66-4] ausgestaltet sind.
 
 <sup>2</sup> Für Angaben, die bereits im Errichtungsakt festgehalten sind, ist kein zusätzlicher Beleg erforderlich.
@@ -1581,7 +1582,7 @@ Mit der Anmeldung der Gründung einer Gesellschaft mit beschränkter Haftung zur
 - f. gegebenenfalls der Beschluss der Gründerinnen und Gründer oder, soweit die Statuten dies vorsehen, der Beschluss der Geschäftsführerinnen und Geschäftsführer über die Ernennung weiterer zur Vertretung berechtigter Personen;
 - g. bei Bareinlagen: eine Bescheinigung, aus der ersichtlich ist, bei welchem Bankinstitut die Einlagen hinterlegt sind, sofern das Bankinstitut in der öffentlichen Urkunde nicht genannt wird;
 - h. im Fall von Artikel 117 Absatz 3: die Erklärung der Domizilhalterin oder des Domizilhalters, dass sie oder er der Gesellschaft ein Rechtsdomizil am Ort von deren Sitz gewährt;
-- i.[^71-1] ...
+- i.[^71-1] …
 
 <sup>2</sup> Für Angaben, die bereits in der öffentlichen Urkunde über den Errichtungsakt festgehalten sind, ist kein zusätzlicher Beleg erforderlich.
 
@@ -1665,7 +1666,7 @@ Mit der Anmeldung müssen dem Handelsregisteramt folgende Belege eingereicht wer
 - c. die angepassten Statuten;
 
 - e. bei Bareinlagen: eine Bescheinigung, aus der ersichtlich ist, bei welchem Bankinstitut die Einlagen hinterlegt sind, sofern das Bankinstitut in der öffentlichen Urkunde nicht genannt wird;
-- f.[^74-2] ...
+- f.[^74-2] …
 
 <sup>3</sup> Bestehen Sacheinlagen, Sachübernahmen, Verrechnungstatbestände oder besondere Vorteile oder wird die Erhöhung des Stammkapitals durch Umwandlung von Eigenkapital liberiert, so gilt Artikel 46 Absatz 3 sinngemäss.
 
@@ -1862,7 +1863,7 @@ Mit der Anmeldung der Gründung einer Genossenschaft zur Eintragung müssen dem 
 - d. gegebenenfalls ein Nachweis, dass die gesetzlich vorgeschriebene Revisionsstelle ihre Wahl angenommen hat;
 - e. bei Bestellung zur Vertretung berechtigter Personen: der entsprechende Beschluss der konstituierenden Versammlung oder der Verwaltung;
 - f. im Fall von Artikel 117 Absatz 3: die Erklärung der Domizilhalterin oder des Domizilhalters, dass sie oder er der Gesellschaft ein Rechtsdomizil am Ort von deren Sitz gewährt;
-- g.[^84-1] ...
+- g.[^84-1] …
 - h. falls die Statuten eine persönliche Haftung oder Nachschusspflicht vorsehen: das von einem Mitglied der Verwaltung unterzeichnete Verzeichnis der Genossenschafterinnen und Genossenschafter.
 
 <sup>2</sup> Für Angaben, die bereits im Protokoll der konstituierenden Versammlung festgehalten sind, ist kein zusätzlicher Beleg erforderlich.
@@ -1994,7 +1995,7 @@ Bei Vereinen müssen ins Handelsregister eingetragen werden:
 - g. der Zweck;
 - h. die Mittel, wie Mitgliederbeiträge, Erträge aus dem Vereinsvermögen oder aus der Vereinstätigkeit und Schenkungen;
 - i. im Fall einer persönlichen Haftung oder einer Nachschusspflicht der Mitglieder des Vereins: ein Verweis auf die nähere Umschreibung in den Statuten;
-- j.[^92-1] ...
+- j.[^92-1] …
 - k. die Mitglieder des Vorstandes;
 - l. die zur Vertretung berechtigten Personen;
 - m. falls der Verein eine ordentliche oder eingeschränkte Revision durchführt: die Revisionsstelle.
@@ -2051,7 +2052,7 @@ Bei Stiftungen müssen ins Handelsregister eingetragen werden:
 
 - f. der Zweck;
 - g. bei einem Vorbehalt der Zweckänderung durch die Stifterin oder den Stifter: ein Verweis auf die nähere Umschreibung in der Stiftungsurkunde;
-- h.[^95-2] ...
+- h.[^95-2] …
 - i. die Mitglieder des obersten Stiftungsorgans;
 - j. die zur Vertretung berechtigten Personen;
 - k.[^95-3] falls die Stiftung einer Aufsicht untersteht: die Stiftungsaufsichtsbehörde, sobald sie ihre Tätigkeit aufgenommen hat;
@@ -2060,7 +2061,7 @@ Bei Stiftungen müssen ins Handelsregister eingetragen werden:
 - n.[^95-5] falls die Stiftung der Durchführung der beruflichen Vorsorge dient: die Aufsichtsbehörde gemäss Artikel 61 des Bundesgesetzes vom 25. Juni 1982[^95-6] über die berufliche Alters‑, Hinterlassenen- und Invalidenvorsorge;
 - o.[^95-7] falls es sich um eine kirchliche Stiftung oder eine Familienstiftung handelt: ein Hinweis darauf.
 
-<sup>2</sup> ...[^95-8]
+<sup>2</sup> …[^95-8]
 
 [^95-1]: Fassung gemäss Anhang 2 Ziff. II 2 der Geldwäschereiverordnung vom 11. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 [^95-2]: Aufgehoben durch Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
@@ -2547,7 +2548,7 @@ Jeder Eintrag im Tagesregister muss einen Hinweis auf die Veröffentlichung des 
 
 Mit der Anmeldung zur Eintragung der Sitzverlegung müssen dem Handelsregisteramt folgende Belege eingereicht werden:
 
-- a.[^123-1] ...
+- a.[^123-1] …
 - b. falls bei juristischen Personen die Statuten geändert werden müssen: der Beschluss über die Änderung sowie ein beglaubigtes Exemplar der neuen Statuten;
 - c. die beglaubigten Unterschriften der anmeldenden Personen.
 
@@ -3403,7 +3404,7 @@ Das EHRA kann zur Durchsetzung der neuen Bestimmungen zur Revisionsstelle:
 
 Alle Weisungen, Kreisschreiben und Mitteilungen des Eidgenössischen Justiz- und Polizeidepartements und des EHRA, die gestützt auf die Handelsregisterverordnung vom 7. Juni 1937[^171-1] erlassen wurden, werden aufgehoben. Davon ausgenommen sind:
 
-- [tab] a.–b.[^171-2] ...
+- [tab] a.–b.[^171-2] …
 - c. die Richtlinien des EHRA vom 13. Januar 1998 für die kantonalen Handelsregisterämter über den Erwerb von Grundstücken durch Personen im Ausland;
 - d. die Mitteilung des EHRA vom 15. August 2001 an die kantonalen Handelsregisterbehörden betreffend Sacheinlage und Sachübernahme;
 - e. die Weisung des EHRA vom 12. Oktober 2007 an die kantonalen Handelsregisterbehörden betreffend die Eintragung von Finanzkontrollen der öffentlichen Hand im Handelsregister.
@@ -3538,9 +3539,9 @@ II.
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annex1-lvlu1-2]
+…[^annex1-lvlu1-2]
 
-[^annex1-lvlu1-1]: [[AS 53 577](https://fedlex.data.admin.ch/eli/oc/53/577_573_593), [1970 733](https://fedlex.data.admin.ch/eli/oc/1970/733_733_733), [1971 1839](https://fedlex.data.admin.ch/eli/oc/1971/1839_1844_1844), [1982 558](https://fedlex.data.admin.ch/eli/oc/1982/558_558_558), [1989 2380](https://fedlex.data.admin.ch/eli/oc/1989/2380_2380_2380), [1992 1213](https://fedlex.data.admin.ch/eli/oc/1992/1213_1213_1213), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 36, [1997 2230](https://fedlex.data.admin.ch/eli/oc/1997/2230_2230_2230), [2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)Anhang Ziff. 4 [2669](https://fedlex.data.admin.ch/eli/oc/2004/321)[4937](https://fedlex.data.admin.ch/eli/oc/2004/746)Anhang Ziff. II 1, [2005 4557](https://fedlex.data.admin.ch/eli/oc/2005/593), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 22 [5787](https://fedlex.data.admin.ch/eli/oc/2006/859)Anhang 3 Ziff. II 1]
+[^annex1-lvlu1-1]: [[AS 53 577](https://fedlex.data.admin.ch/eli/oc/53/577_573_593); [1970 733](https://fedlex.data.admin.ch/eli/oc/1970/733_733_733); [1971 1839](https://fedlex.data.admin.ch/eli/oc/1971/1839_1844_1844); [1982 558](https://fedlex.data.admin.ch/eli/oc/1982/558_558_558); [1989 2380](https://fedlex.data.admin.ch/eli/oc/1989/2380_2380_2380); [1992 1213](https://fedlex.data.admin.ch/eli/oc/1992/1213_1213_1213); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 36; [1997 2230](https://fedlex.data.admin.ch/eli/oc/1997/2230_2230_2230); [2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)Anhang Ziff. 4, [2669](https://fedlex.data.admin.ch/eli/oc/2004/321), [4937](https://fedlex.data.admin.ch/eli/oc/2004/746)Anhang Ziff. II 1; [2005 4557](https://fedlex.data.admin.ch/eli/oc/2005/593); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 22, [5787](https://fedlex.data.admin.ch/eli/oc/2006/859)Anhang 3 Ziff. II 1]
 [^annex1-lvlu1-2]: Die Änderungen können unter [AS 2007 4851](https://fedlex.data.admin.ch/eli/oc/2007/686)konsultiert werden.
 
 Anhang 2*[^t-2]*
