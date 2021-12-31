@@ -4,11 +4,11 @@ title: "Ordinanza del 25 febbraio 1998 concernente il materiale bellico (Ordinan
 short: OMB
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
 language: it
-version: 2021-11-01
+version: 2022-01-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20211101/it/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20211101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20211101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20211101/it"
 
 (Ordinanza sul materiale bellico, OMB)
 
-del 25 febbraio 1998 (Stato 1° novembre 2021)
+del 25 febbraio 1998 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -222,13 +222,14 @@ Le persone delle categorie seguenti non necessitano di alcuna autorizzazione per
 - c. gli agenti di scorta incaricati da Stati esteri, se accompagnano visite ufficiali annunciate in transito dalla Svizzera;
 - d. gli agenti di scorta incaricati dalla Svizzera in caso di visite ufficiali annunciate all’estero, se in seguito reimportano le armi;
 - e. i membri degli organi di polizia e doganali esteri in transito dalla Svizzera a scopo professionale o d’istruzione;
-- f. i membri degli organi di polizia svizzeri e i collaboratori dell’Amministrazione federale delle dogane in caso di viaggi all’estero a scopo professionale o d’istruzione, se in seguito reimportano le armi;
+- f. i membri degli organi di polizia svizzeri e i collaboratori dell’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^9-2] in caso di viaggi all’estero a scopo professionale o d’istruzione, se in seguito reimportano le armi;
 - g. le guardie di sicurezza dell’aviazione che accompagnano voli con passeggeri dalla Svizzera all’estero;
 - h. le guardie di sicurezza dell’aviazione che accompagnano voli con passeggeri dall’estero in Svizzera o fanno scalo intermedio in Svizzera, sempreché le armi non escano dalla zona di transito dell’aeroporto.
 
 <sup>2</sup> L’importazione e la riesportazione di armi da fuoco con le relative munizioni da parte di persone delle categorie elencate nel capoverso 1 sono rette dalla legislazione sulle armi.
 
 [^9-1]: Nuovo testo giusta il n. I dell’O del 27 ago. 2008, in vigore dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
+[^9-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 9a
 
@@ -455,7 +456,7 @@ Chi ha l’obbligo di tenere la contabilità deve accertarsi, prima di consegnar
 
 <sup>1</sup> La SECO esegue i controlli.
 
-<sup>2</sup> Il controllo al confine incombe all’Amministrazione federale delle dogane.[^19-1]
+<sup>2</sup> Il controllo al confine incombe all’Ufficio federale della dogana e dell’UDSC.[^19-1]
 
 [^19-1]: Nuovo testo giusta il n. I dell’O del 27 ago. 2008, in vigore dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
 
@@ -500,7 +501,7 @@ Gli emolumenti per le autorizzazioni ammontano a:
 
 <sup>3</sup> Se le autorizzazioni di importazione o di esportazione non sono state utilizzate o lo sono state solo parzialmente oppure se i beni autorizzati sono stati rispediti, gli emolumenti riscossi in eccedenza possono essere rimborsati su domanda e dopo aver dedotto le spese amministrative. La domanda deve essere presentata entro tre anni dal rilascio dell’autorizzazione.
 
-<sup>4</sup> Non è riscosso alcun emolumento per le autorizzazioni di importazione e di esportazione di materiale bellico destinato all’esercito svizzero, all’amministrazione federale delle dogane, ai corpi di polizia svizzero e del Liechtenstein o a organizzazioni internazionali o ai loro uffici in Svizzera.[^22-5]
+<sup>4</sup> Non è riscosso alcun emolumento per le autorizzazioni di importazione e di esportazione di materiale bellico destinato all’esercito svizzero, all’UDSC, ai corpi di polizia svizzero e del Liechtenstein o a organizzazioni internazionali o ai loro uffici in Svizzera.[^22-5]
 
 <sup>5</sup>
 

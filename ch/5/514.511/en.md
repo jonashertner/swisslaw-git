@@ -4,11 +4,11 @@ title: "Ordinance of 25 February 1998 on War Material (War Material Ordinance, W
 short: WMO
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
 language: en
-version: 2021-11-01
+version: 2022-01-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20211101/en/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20211101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20211101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20220101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (War Materiel Ordinance, WMO)
 
-of 25 February 1998 (Status as of 1 November 2021)
+of 25 February 1998 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
@@ -224,13 +224,14 @@ No licence is required by persons in the following categories for the temporary 
 - c. security agents employed by foreign states travelling through Switzerland for official pre-arranged foreign visits;
 - d. security agents employed by the Swiss authorities for official, pre-arranged foreign visits, provided the weapons are subsequently re-imported;
 - e. members of foreign police forces or customs authorities for professional or training-related transit journeys;
-- f. members of Swiss police forces and employees of the Federal Customs Administration for professional or training-related journeys abroad, provided the weapons are subsequently re-imported;
+- f. members of Swiss police forces and employees of the Federal Office for Customs and Border Security (FOCBS)[^9-2] for professional or training-related journeys abroad, provided the weapons are subsequently re-imported;
 - g. security guards for airlines accompanying passenger flights to foreign destinations;
 - h. security guards for airlines accompanying passenger flights from abroad to destinations in Switzerland or stopping over in Switzerland, provided the weapons do not leave the transit area of the airport.
 
 <sup>2</sup> The import and re-export of firearms with the ammunition pertaining thereto by persons in the categories mentioned in paragraph 1 are governed by the legislation on weapons.
 
 [^9-1]: Amended by No I of the Ordinance of 27 Aug. 2008, in force since 12 Dec. 2008 ([AS 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
+[^9-2]: The name of this administrative unit was changed on 1 Jan. 2022 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
 
 #### Art. 9a
 
@@ -283,7 +284,7 @@ No licence is required by persons in the following categories for the temporary 
 
 <sup>1</sup> Manufacturers who hold an initial licence may apply for a general import licence (GIL) for the import of individual parts, assembly packages or anonymous components of war materiel in terms of Article 18 paragraph 2 WMA, provided the parts concerned do not fall within the scope of application of the Weapons Act of 20 June 1997[^9e-2]. An individual licence is required in every case for the temporary import of such war materiel with the ATA Carnet or in the procedure for temporary use.[^9e-3]
 
-<sup>2</sup> Holders of initial licences and transport and haulage undertakings with their seat or permanent establishment in Switzerland may apply for a general transit licence (GTL) for the transit of war materiel to countries of final destination that are listed in Annex 2.[^9e-4]
+<sup>2</sup> Holders of initial licences and transport and haulage undertakings with a domicile or permanent establishment in Switzerland may apply for a general transit licence (GTL) for the transit of war materiel to countries of final destination that are listed in Annex 2.[^9e-4]
 
 <sup>3</sup> The licensing authority may at any time demand from the licensee information on the nature, quantity, customs clearance data and end use of goods that are or have been imported or transported in transit in terms of a GIL or GTL; the obligation to provide information expires ten years after customs clearance.[^9e-5]
 
@@ -455,7 +456,7 @@ A person required to maintain records must, prior to handing over materiel or tr
 
 <sup>1</sup> SECO carries out the controls.
 
-<sup>2</sup> Controls at the border are the responsibility of the Federal Customs Administration.[^19-1]
+<sup>2</sup> Controls at the border are the responsibility of the FOCBS.[^19-1]
 
 [^19-1]: Amended by No I of the Ordinance of 27 Aug. 2008, in force since 12 Dec. 2008 ([AS 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
 
@@ -500,7 +501,7 @@ The licence fees are as follows:
 
 <sup>3</sup> If import or export licences are not or are only partially used, or if the licensed goods are returned, application may be made for the excess fee to be refunded, under deduction of the administrative costs. The application must be made at the latest three years following issue of the licence.
 
-<sup>4</sup> No fees are charged for import and export licences for war materiel that is intended for the Swiss armed forces, the Swiss Customs Administration, for Swiss and Liechtenstein police forces or for international organisations or their offices in Switzerland.[^22-5]
+<sup>4</sup> No fees are charged for import and export licences for war materiel that is intended for the Swiss Armed Forces, the FOCBS, for Swiss and Liechtenstein police forces or for international organisations or their offices in Switzerland.[^22-5]
 
 <sup>5</sup>
 

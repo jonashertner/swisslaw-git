@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Februar 1998 über das Kriegsmaterial (Kriegsmaterial
 short: KMV
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
 language: de
-version: 2021-11-01
+version: 2022-01-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20211101/de/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20211101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20211101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20211101/de"
 
 (Kriegsmaterialverordnung, KMV)
 
-vom 25. Februar 1998 (Stand am 1. November 2021)
+vom 25. Februar 1998 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -222,13 +222,14 @@ Personen folgender Kategorien benötigen für die vorübergehende Ausfuhr sowie 
 - c. von ausländischen Staaten beauftragte Sicherheitsbegleiter auf Durchreisen zu angemeldeten offiziellen Besuchen im Ausland;
 - d. von der Schweiz beauftragte Sicherheitsbegleiter für angemeldete offizielle Besuche im Ausland, wenn die Waffen anschliessend wiedereingeführt werden;
 - e. Angehörige ausländischer Polizei- und Zollorgane für berufs- oder ausbildungsbedingte Durchreisen;
-- f. Angehörige schweizerischer Polizeiorgane sowie Mitarbeiterinnen und Mitarbeiter der Eidgenössischen Zollverwaltung für berufs- oder ausbildungsbedingte Reisen ins Ausland, wenn die Waffen anschliessend wiedereingeführt werden;
+- f. Angehörige schweizerischer Polizeiorgane sowie Mitarbeiterinnen und Mitarbeiter des Bundesamts für Zoll und Grenzsicherheit (BAZG)[^9-2] für berufs- oder ausbildungsbedingte Reisen ins Ausland, wenn die Waffen anschliessend wiedereingeführt werden;
 - g. Sicherheitsbeauftragte Luftverkehr, die Passagierflüge aus der Schweiz ins Ausland begleiten;
 - h. Sicherheitsbeauftragte Luftverkehr, die Passagierflüge aus dem Ausland in die Schweiz begleiten oder hier zwischenlanden, sofern die Waffen den Transitbereich des Flughafens nicht verlassen.
 
 <sup>2</sup> Die Ein- und die Wiederausfuhr von Feuerwaffen mit dazugehöriger Munition durch Personen der in Absatz 1 genannten Kategorien richten sich nach der Waffengesetzgebung.
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 27. Aug. 2008, in Kraft seit 12. Dez. 2008 ([AS 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
+[^9-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 9a
 
@@ -338,11 +339,15 @@ Das Staatssekretariat für Wirtschaft (SECO) stellt für die Einfuhr von Kriegsm
 
 ## 5. Abschnitt: Bewilligungsverfahren
 
-**Art. 12**a*[^sec5-1]* Bewilligungsvoraussetzungen
+#### Art. 12a
+
+**Bewilligungsvoraussetzungen**[^12a-1]
 
 <sup>1</sup> Bewilligungen werden nur natürlichen oder juristischen Personen erteilt, die ihren Wohnsitz beziehungsweise ihren Sitz oder ihre Niederlassung im schweizerischen Zollgebiet oder in einem schweizerischen Zollausschlussgebiet haben. Das SECO kann in begründeten Fällen Ausnahmen vorsehen.
 
 <sup>2</sup> Für die Erteilung einer Bewilligung an eine juristische Person ist der Nachweis einer zuverlässigen firmeninternen Kontrolle der Einhaltung der Vorschriften der Kriegsmaterialgesetzgebung zu erbringen.
+
+[^12a-1]: Eingefügt durch Ziff. III 1 der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 13
 
@@ -356,7 +361,6 @@ Das Staatssekretariat für Wirtschaft (SECO) stellt für die Einfuhr von Kriegsm
 
 <sup>3</sup> Die Zuständigkeit für Durchfuhren mit ausländischen Militär- und anderen Staatsluftfahrzeugen richtet sich nach der Verordnung vom 23. März 2005[^13-4] über die Wahrung der Lufthoheit.[^13-5]
 
-[^sec5-1]: Eingefügt durch Ziff. III 1 der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^13-1]: Fassung gemäss Ziff. I der V über das Kriegsmaterial vom 21. Nov. 2001, in Kraft seit 1. März 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 [^13-2]: Aufgehoben durch Ziff. I der V über das Kriegsmaterial vom 21. Nov. 2001, mit Wirkung seit 1. März 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 [^13-3]: Eingefügt durch Art. 50 Ziff. 3 der Waffenverordnung vom 21. Sept. 1998, in der Fassung vom 16. März 2001 ([AS 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Aufgehoben durch Ziff. I der V vom 21. Nov. 2001, mit Wirkung seit 1. März 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
@@ -454,7 +458,7 @@ Der Buchführungspflichtige hat sich vor der Abgabe des Materials beziehungsweis
 
 <sup>1</sup> Das SECO führt die Kontrollen durch.
 
-<sup>2</sup> Die Kontrolle an der Grenze obliegt der Eidgenössischen Zollverwaltung.[^19-1]
+<sup>2</sup> Die Kontrolle an der Grenze obliegt dem BAZG.[^19-1]
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 27. Aug. 2008, in Kraft seit 12. Dez. 2008 ([AS 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
 
@@ -499,7 +503,7 @@ Die Gebühren für die Bewilligungen betragen:
 
 <sup>3</sup> Werden Ein- oder Ausfuhrbewilligungen nicht oder nur teilweise benutzt oder werden die bewilligten Güter zurückgesandt, so kann die zuviel erhobene Gebühr auf Gesuch hin und unter Abzug der Verwaltungskosten zurückerstattet werden. Das Gesuch muss spätestens drei Jahre nach Ausstellung der Bewilligung eingereicht werden.
 
-<sup>4</sup> Für Ein- und Ausfuhrbewilligungen von Kriegsmaterial, das für die schweizerische Armee, die schweizerische Zollverwaltung, für schweizerische und liechtensteinische Polizeikorps oder für internationale Organisationen oder deren Büros in der Schweiz bestimmt ist, werden keine Gebühren erhoben.[^22-5]
+<sup>4</sup> Für Ein- und Ausfuhrbewilligungen von Kriegsmaterial, das für die schweizerische Armee, das BAZG, für schweizerische und liechtensteinische Polizeikorps oder für internationale Organisationen oder deren Büros in der Schweiz bestimmt ist, werden keine Gebühren erhoben.[^22-5]
 
 <sup>5</sup>
 
