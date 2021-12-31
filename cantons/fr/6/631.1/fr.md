@@ -4,13 +4,13 @@ number: "631.1"
 title: Loi sur les impôts cantonaux directs
 short: LICD
 language: fr
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2021-03-12
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-03
 adopted: 2000-06-06
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/631.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6809/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7058/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Impôts cantonaux directs – L
 
 (LICD)
 
-du 06.06.2000 (version entrée en vigueur le 01.01.2021)
+du 06.06.2000 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -492,8 +492,19 @@ Décrète:
 - c) les versements à des institutions de prévoyance en faveur du personnel de l'entreprise, à condition que toute utilisation contraire à leur but soit exclue;
 - d) les intérêts des dettes commerciales ainsi que les intérêts versés sur les participations visées à l'article 19 al. 2;
 - e) les frais de formation et de perfectionnement à des fins professionnelles du personnel de l'entreprise, frais de reconversion compris.
+- f) les sanctions visant à réduire le bénéfice, dans la mesure où elles n'ont pas de caractère pénal.
 
-<sup>3</sup> Les commissions occultes, au sens du droit pénal suisse, versées à des agents publics suisses ou étrangers ne sont pas déductibles.
+<sup>3</sup> Ne sont notamment pas déductibles:
+
+- a) les versements de commissions occultes au sens du droit pénal suisse;
+- b) les dépenses qui permettent la commission d'infractions ou qui constituent la contrepartie à la commission d'infractions;
+- c) les amendes et les peines pécuniaires;
+- d) les sanctions financières administratives, dans la mesure où elles ont un caractère pénal.
+
+<sup>4</sup> Des sanctions au sens de l'alinéa 3 let. c et d prononcées par une autorité pénale ou administrative étrangère sont déductibles:
+
+- a) si la sanction est contraire à l'ordre public suisse; ou
+- b) si le contribuable peut démontrer de manière crédible qu'il a entrepris tout ce qui est raisonnablement exigible pour se comporter conformément au droit.
 
 #### Art. 29
 
@@ -677,7 +688,7 @@ Décrète:
 
 <sup>5</sup> Le contribuable qui, par l'effet des déductions sociales prévues à l'article 36, n'est pas atteint par l'impôt sur le revenu doit un impôt minimal de 50 francs. Cette règle n'est pas applicable si le contribuable bénéficie de la déduction de l'article 36 al. 1 let. i.
 
-<sup>6</sup> Lorsque des immeubles sont transférés dans la fortune privée, un abattement de 50 % est accordé sur la part de l'impôt afférent auxdits immeubles si leur aliénation n'intervient pas dans les cinq ans. Dans le cas contraire, l'impôt est rappelé en application des articles 192 et suivants. Le présent alinéa ne s'applique pas en cas d'application de l'article 38b.
+<sup>6</sup> Lorsque des immeubles sont transférés dans la fortune privée, un abattement de 50 % est accordé sur la part de l'impôt afférent auxdits immeubles si leur aliénation n'intervient pas dans les cinq ans. Dans le cas contraire, l'impôt est rappelé en application des articles 192 et suivants. L'abattement de 50 % est également accordé en cas de transfert à titre gratuit aux enfants, suite au transfert dans la fortune privée. Le présent alinéa ne s'applique pas en cas d'application de l'article 38b.
 
 #### Art. 38
 
@@ -986,6 +997,8 @@ Décrète:
 - h) pour les montants supérieurs à 1'200'000 francs: — 2,9 ‰
 
 <sup>2</sup> Les fractions de fortune sont arrondies au millier inférieur.
+
+<sup>3</sup> Le taux d'impôt moyen déterminé conformément à l'alinéa 1a est réduit de 40 % pour la part de la fortune privée afférant aux droits de participation du capital-actions ou du capital social d'une société de capitaux ou d'une société coopérative suisse et dont les titres ne sont pas cotés en bourse ou régulièrement négociés hors bourse.
 
 #### Art. 62a
 
@@ -1497,8 +1510,19 @@ Décrète:
 - c) les dons en espèces et sous forme d'autres valeurs patrimoniales, jusqu'à concurrence de 20 % du bénéfice net, en faveur de personnes morales qui ont leur siège en Suisse et sont exonérées de l'impôt en raison de leurs buts de service public ou d'utilité publique ou en faveur de la Confédération, des cantons, des communes et de leurs établissements. Dans des cas particuliers à intérêt public prépondérant, le Conseil d'Etat peut autoriser une déduction plus élevée; il statue à titre définitif;
 - d) les rabais, escomptes, bonifications et ristournes accordés sur la contre-valeur de livraisons et de prestations ainsi que les parts de bénéfice des compagnies d'assurances destinées à être réparties entre les assurés;
 - e) les frais de formation et de perfectionnement à des fins professionnelles du personnel de l'entreprise, frais de reconversion compris.
+- f) les sanctions visant à réduire le bénéfice, dans la mesure où elles n'ont pas de caractère pénal.
 
-<sup>2</sup> Les commissions occultes, au sens du droit pénal suisse, versées à des agents publics suisses ou étrangers ne font pas partie des charges justifiées par l'usage commercial.
+<sup>2</sup> Ne font notamment pas partie des charges justifiées par l'usage commercial:
+
+- a) les versements de commissions occultes au sens du droit pénal suisse;
+- b) les dépenses qui permettent la commission d'infractions ou qui constituent la contrepartie à la commission d'infractions;
+- c) les amendes;
+- d) les sanctions financières administratives, dans la mesure où elles ont un caractère pénal.
+
+<sup>3</sup> Des sanctions au sens de l'alinéa 2 let. c et d prononcées par une autorité pénale ou administrative étrangère sont déductibles:
+
+- a) si la sanction est contraire à l'ordre public suisse; ou
+- b) si le contribuable peut démontrer de manière crédible qu'il a entrepris tout ce qui est raisonnablement exigible pour se comporter conformément au droit.
 
 #### Art. 101a
 
@@ -2061,7 +2085,7 @@ Décrète:
 
 **Notification**
 
-<sup>1</sup> Les décisions de taxation et les amendes d'ordre sont notifiées au contribuable par écrit et indiquent les voies de droit. Les autres décisions et prononcés doivent, en outre, être motivés. La notification se fait par courrier normal.
+<sup>1</sup> Les décisions de taxation et les amendes sont notifiées au contribuable par écrit et indiquent les voies de droit. Les autres décisions et prononcés doivent, en outre, être motivés. La notification se fait par courrier normal.
 
 <sup>2</sup> Lorsque le contribuable n'a pas de domicile connu ou qu'il se trouve à l'étranger, sans avoir de représentant en Suisse, les décisions et prononcés lui sont notifiés valablement par publication dans la Feuille officielle.
 
@@ -2441,7 +2465,7 @@ Décrète:
 
 <sup>3</sup> La décision, brièvement motivée avec indication des voies de droit, est notifiée par écrit au contribuable et au conseil communal concerné.
 
-<sup>4</sup> La procédure de réclamation est gratuite. Toutefois, l'article 155 al. 2 est applicable par analogie.
+<sup>4</sup> La procédure de réclamation est gratuite. Toutefois, l'article 218a al. 2 est applicable par analogie.
 
 ### 5.7 Procédure de recours
 

@@ -4,13 +4,13 @@ number: "631.1"
 title: Gesetz über die direkten Kantonssteuern
 short: DStG
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2021-03-12
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-03
 adopted: 2000-06-06
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/631.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6809/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7058/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Direkte Kantonssteuern – G
 
 (DStG)
 
-vom 06.06.2000 (Fassung in Kraft getreten am 01.01.2021)
+vom 06.06.2000 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -492,8 +492,19 @@ beschliesst:
 - c) die Zuwendungen an Vorsorgeeinrichtungen zugunsten des eigenen Personals, sofern jede zweckwidrige Verwendung ausgeschlossen ist;
 - d) Zinsen auf Geschäftsschulden sowie Zinsen, die auf Beteiligungen nach Artikel 19 Abs. 2 entfallen;
 - e) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals.
+- f) gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
-<sup>3</sup> Nicht abziehbar sind Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts an schweizerische oder fremde Amtsträger.
+<sup>3</sup> Nicht abziehbar sind insbesondere:
+
+- a) Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts;
+- b) Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
+- c) Bussen und Geldstrafen;
+- d) finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.
+
+<sup>4</sup> Sind Sanktionen nach Abs. 3 Bst. c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
+
+- a) die Sanktion gegen den schweizerischen Ordre public verstösst; oder
+- b) die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
 
 #### Art. 29
 
@@ -677,7 +688,7 @@ beschliesst:
 
 <sup>5</sup> Die steuerpflichtige Person, die infolge der Abzüge nach Artikel 36 von der Einkommenssteuer nicht betroffen wird, muss eine Mindeststeuer von 50 Franken entrichten. Diese Bestimmung gilt nicht für die steuerpflichtige Person, der der Abzug gemäss Artikel 36 Abs. 1 Bst. i gewährt wird.
 
-<sup>6</sup> Wenn Grundstücke in das Privatvermögen übergeführt werden, werden die auf diese Grundstücke entfallenden Steuern um 50 % herabgesetzt, wenn sie nicht innert 5 Jahren veräussert werden. Andernfalls wird eine Nachsteuer im Sinne der Artikel 192 ff. erhoben. Dieser Absatz gilt nicht, wenn Artikel 38b zur Anwendung kommt.
+<sup>6</sup> Wenn Grundstücke in das Privatvermögen überführt werden, werden die auf diese Grundstücke entfallenden Steuern um 50 % herabgesetzt, wenn sie nicht innert 5 Jahren veräussert werden. Andernfalls wird eine Nachsteuer im Sinne der Artikel 192 ff. erhoben. Die Steuern werden auch um 50 % herabgesetzt, wenn Grundstücke nach der Überführung ins Privatvermögen unentgeltlich an die Kinder übertragen werden. Dieser Absatz gilt nicht, wenn Artikel 38b zur Anwendung kommt.
 
 #### Art. 38
 
@@ -986,6 +997,8 @@ beschliesst:
 - h) für die Vermögensbeträge über 1'200'000 Franken: — 2,9 ‰
 
 <sup>2</sup> Vermögensbruchteile werden auf den nächst tieferen Betrag von 1000 Franken abgerundet.
+
+<sup>3</sup> Der nach Absatz 1a ermittelte mittlere Steuersatz wird um 40 % herabgesetzt für den Anteil am Privatvermögen entsprechend den Beteiligungsrechten am Aktien- oder Gesellschaftskapital einer Schweizer Kapitalgesellschaft oder Genossenschaft, deren Wertschriften nicht börsenkotiert sind und nicht regelmässig ausserbörslich gehandelt werden.
 
 #### Art. 62a
 
@@ -1497,8 +1510,19 @@ beschliesst:
 - c) die freiwilligen Leistungen von Geld und übrigen Vermögenswerten bis zu 20 % des Reingewinns an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf ihre öffentlichen oder gemeinnützigen Zwecke von der Steuerpflicht befreit sind, sowie an Bund, Kantone, Gemeinden und deren Anstalten. Besteht ein erhebliches öffentliches Interesse, so kann der Staatsrat einen höheren Abzug bewilligen; sein Entscheid ist endgültig;
 - d) die Rabatte, Skonti, Umsatzbonifikationen und Rückvergütungen auf dem Entgelt für Lieferungen und Leistungen sowie zur Verteilung an die Versicherten bestimmte Überschüsse von Versicherungsgesellschaften;
 - e) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals.
+- f) gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
-<sup>2</sup> Nicht zum geschäftsmässig begründeten Aufwand gehören Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts an schweizerische oder fremde Amtsträger.
+<sup>2</sup> Nicht zum geschäftsmässig begründeten Aufwand gehören insbesondere:
+
+- a) Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts;
+- b) Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
+- c) Bussen und Geldstrafen;
+- d) finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.
+
+<sup>3</sup> Sind Sanktionen nach Abs. 2, Bst. c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
+
+- a) die Sanktion gegen den schweizerischen Ordre public verstösst; oder
+- b) die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
 
 #### Art. 101a
 
@@ -2061,7 +2085,7 @@ beschliesst:
 
 **Eröffnung**
 
-<sup>1</sup> Veranlagungsverfügungen und Ordnungsbussen werden der steuerpflichtigen Person schriftlich eröffnet; sie enthalten eine Rechtsmittelbelehrung. Die übrigen Verfügungen und Entscheide müssen zudem eine Begründung enthalten. Die Eröffnung erfolgt mit gewöhnlicher Postzustellung.
+<sup>1</sup> Veranlagungsverfügungen und Bussen werden der steuerpflichtigen Person schriftlich eröffnet; sie enthalten eine Rechtsmittelbelehrung. Die übrigen Verfügungen und Entscheide müssen zudem eine Begründung enthalten. Die Eröffnung erfolgt mit gewöhnlicher Postzustellung.
 
 <sup>2</sup> Ist der Aufenthalt einer steuerpflichtigen Person unbekannt oder befindet sie sich im Ausland, ohne in der Schweiz einen Vertreter zu haben, so wird ihr eine Verfügung oder ein Entscheid rechtswirksam durch Publikation im Amtsblatt eröffnet.
 
@@ -2441,7 +2465,7 @@ beschliesst:
 
 <sup>3</sup> Der Entscheid wird kurz begründet und mit einer Rechtsmittelbelehrung der steuerpflichtigen Person und dem betroffenen Gemeinderat schriftlich eröffnet.
 
-<sup>4</sup> Das Einspracheverfahren ist kostenfrei. Artikel 155 Abs. 2 gilt sinngemäss.
+<sup>4</sup> Das Einspracheverfahren ist kostenfrei. Artikel 218a Abs. 2 gilt sinngemäss.
 
 ### 5.7 Beschwerdeverfahren
 
