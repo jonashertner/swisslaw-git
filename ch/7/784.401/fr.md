@@ -4,11 +4,11 @@ title: Ordonnance du 9 mars 2007 sur la radio et la télévision (ORTV)
 short: ORTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/151"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-151-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-151-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20210101/fr"
 
 (ORTV)
 
-du 9 mars 2007 (Etat le 1<sup>er</sup> janvier 2021)
+du 9 mars 2007 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -1332,11 +1332,11 @@ Le DFAE met à la disposition de l’organe de perception les données suivantes
 - b. adresse;
 - c. date de naissance;
 - d. données concernant les cartes de légitimation;
-- e. numéro AVS au sens de l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^67a-1].
+- e.[^67a-1] numéro AVS.
 
 <sup>2</sup> Les données doivent être transmises à l’organe de perception mensuellement dans les trois premiers jours ouvrables du mois via la plateforme informatique et de communication de la Confédération. Chaque transmission comprend des données complètes sur chaque caractère de données. L’OFCOM détermine dans une directive les normes applicables à la transmission des données et à la correction des données lacunaires.
 
-[^67a-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^67a-1]: Nouvelle teneur selon l’annexe ch. II 26 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### Chapitre 2 Redevance des entreprises
 
@@ -1369,7 +1369,7 @@ Le DFAE met à la disposition de l’organe de perception les données suivantes
 <tr><td>o. Tranche 15</td><td>de 180 000 000 à 399 999 999</td><td>19 170</td></tr>
 <tr><td>p. Tranche 16</td><td>de 400 000 000 à 699 999 999</td><td>26 915</td></tr>
 <tr><td>q. Tranche 17</td><td>de 700 000 000 à 999 999 999</td><td>37 790</td></tr>
-<tr><td>r. Tranche 18</td><td>1 000 000 000 et plus</td><td>49 925[^67b-2]</td></tr>
+<tr><td>r. Tranche 18</td><td>1 000 000 000 et plus</td><td>49 925.[^67b-2]</td></tr>
 </table>
 
 [^67b-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> nov. 2017 ([RO 2017 5519](https://fedlex.data.admin.ch/eli/oc/2017/594)).

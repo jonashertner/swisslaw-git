@@ -4,11 +4,11 @@ title: Ordinance of 9 March 2007 on Radio and Television (RTVO)
 short: RTVO
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/151"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2007-151-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2007-151-20220101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (RTVO)
 
-of 9 March 2007 (Status as of 1 January 2021)
+of 9 March 2007 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
@@ -844,7 +844,7 @@ The annual share of fees:
 
 <sup>1</sup>
 
-Broadcasters with a fee-sharing licence must produce:
+Broadcasters with a fee-sharing licence[^41-1] must produce:
 
 - a. rules of procedure which show the allocation of tasks and responsibilities;
 - b. an editorial statute; and
@@ -853,6 +853,8 @@ Broadcasters with a fee-sharing licence must produce:
 <sup>2</sup> In the licence, DETEC may lay down other obligations which serve to ensure diversity of opinion and programming, the safeguarding of editorial independence or the fulfilment of the performance mandate. In particular, it may require the establishment of an advisory programme service committee or, in areas with only one broadcaster with a fee-sharing licence, a representative parent organisation.
 
 <sup>3</sup> In the licence, DETEC may prohibit the broadcasting of specific types of programme which are contrary to the fulfilment of the performance mandate.
+
+[^41-1]: Term in accordance with No I of the O of 25 May 2016, in force since 1 July 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)). This change has been made throughout the text.
 
 #### Art. 42
 
@@ -1334,11 +1336,11 @@ The FDFA shall provide the collection agency with the following details from the
 - b. home address;
 - c. date of birth;
 - d. legitimation card data;
-- e. insurance number in terms of Article 50*c* of the Federal Act of 20 December 1946[^67a-1] on the Old-Age and Survivors’ Insurance (OASIA).
+- e.[^67a-1] OASI number.
 
 <sup>2</sup> The data must be supplied to the collection agency on a monthly basis within the first three working days of each month via the Federal Information and Communication Platform. Each supply shall comprise the complete data set for each data characteristic. OFCOM shall specify in a directive the applicable standards for supplying the data and for correcting incomplete data supplies.
 
-[^67a-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^67a-1]: Amended by Annex No II 26 of the O of 17 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### Chapter 2 Corporate Fee
 
@@ -1721,7 +1723,7 @@ Otherwise, the provisions of the General Fees Ordinance of 8 September 2004[^80-
 
 The Ordinance of 6 October 1997[^81-1] on Radio and Television is repealed.
 
-[^81-1]: [[AS 1997 2903](https://fedlex.data.admin.ch/eli/oc/1997/2903_2903_2903), [1999 1845](https://fedlex.data.admin.ch/eli/oc/1999/302), [2001 1680](https://fedlex.data.admin.ch/eli/oc/2001/258), [2002 1915](https://fedlex.data.admin.ch/eli/oc/2002/284)Art. 20 [3482](https://fedlex.data.admin.ch/eli/oc/2002/516), [2003 4789](https://fedlex.data.admin.ch/eli/oc/2003/701), [2004 4531](https://fedlex.data.admin.ch/eli/oc/2004/687), [2006 959](https://fedlex.data.admin.ch/eli/oc/2006/172)[4395](https://fedlex.data.admin.ch/eli/oc/2006/666)]
+[^81-1]: [[AS 1997 2903](https://fedlex.data.admin.ch/eli/oc/1997/2903_2903_2903); [1999 1845](https://fedlex.data.admin.ch/eli/oc/1999/302); [2001 1680](https://fedlex.data.admin.ch/eli/oc/2001/258); [2002 1915](https://fedlex.data.admin.ch/eli/oc/2002/284)Art. 20 [3482](https://fedlex.data.admin.ch/eli/oc/2002/516); [2003 4789](https://fedlex.data.admin.ch/eli/oc/2003/701); [2004 4531](https://fedlex.data.admin.ch/eli/oc/2004/687); [2006 959](https://fedlex.data.admin.ch/eli/oc/2006/172), [4395](https://fedlex.data.admin.ch/eli/oc/2006/666)]
 
 ### Chapter 2**** Transitional Provisions to the Amendment of 25 May 2016
 

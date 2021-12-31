@@ -4,11 +4,11 @@ title: Ordinanza del 9 marzo 2007 sulla radiotelevisione (ORTV)
 short: ORTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/151"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2007-151-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-151-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20210101/it"
 
 (ORTV)
 
-del 9 marzo 2007 (Stato 1° gennaio 2021)
+del 9 marzo 2007 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -1194,7 +1194,7 @@ Importo del canone annuo:
 <sup>1</sup> L’organo di riscossione del canone può riscuotere i seguenti emolumenti:
 
 <table>
-<tr><td></td><td>Franchi</td></tr>
+<tr><td></td><td>franchi</td></tr>
 <tr><td>a. un supplemento per ogni fattura trimestrale in formato cartaceo</td><td>2.–</td></tr>
 <tr><td>b. per un sollecito di pagamento</td><td>5.–</td></tr>
 <tr><td>c. per l’avvio di un’esecuzione giustificata</td><td>20.–</td></tr>
@@ -1330,11 +1330,11 @@ Il DFAE mette a disposizione dell’organo di riscossione i seguenti dati proven
 - b. indirizzo di domicilio;
 - c. data di nascita;
 - d. dati relativi alla carta di legittimazione;
-- e. numero d’assicurato secondo l’articolo 50*c* della legge federale del 20 dicembre 1946[^67a-1] sull’assicurazione per la vecchiaia e per i superstiti (LAVS).
+- e.[^67a-1] numero AVS.
 
 <sup>2</sup> I dati vanno forniti all’organo di riscossione mensilmente entro i primi tre giorni lavorativi di ogni mese tramite la piattaforma informatica e di comunicazione della Confederazione. Ogni fornitura contiene l’intera raccolta di dati relativi a ogni specificità. L’UFCOM determina in una direttiva gli standard applicabili alla fornitura dei dati e alla rettifica di forniture di dati lacunose.
 
-[^67a-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^67a-1]: Nuovo testo giusta l’all. n. II 26 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### Capitolo 2: Canone per le imprese
 

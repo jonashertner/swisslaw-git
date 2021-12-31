@@ -4,11 +4,11 @@ title: Radio- und Fernsehverordnung vom 9. März 2007 (RTVV)
 short: RTVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/151"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2007-151-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-151-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20210101/de"
 
 (RTVV)
 
-vom 9. März 2007 (Stand am 1. Januar 2021)
+vom 9. März 2007 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -1332,11 +1332,11 @@ Das EDA stellt der Erhebungsstelle die folgenden Angaben aus dem Informationssys
 - b. Wohnadresse;
 - c. Geburtsdatum;
 - d. Legitimationskartendaten;
-- e. Versichertennummer im Sinne von Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^67a-1] über die Alters- und Hinterlassenenversicherung (AHVG).
+- e.[^67a-1] AHV-Nummer.
 
 <sup>2</sup> Die Daten sind der Erhebungsstelle monatlich innerhalb der ersten drei Werktage des Monats über die Informatik- und Kommunikationsplattform des Bundes zu liefern. Jede Lieferung umfasst den vollen Datenbestand zu jedem Datenmerkmal. Das BAKOM bezeichnet in einer Weisung die anwendbaren Standards für die Datenlieferungen und für die Bereinigung von mangelhaften Datenlieferungen.
 
-[^67a-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^67a-1]: Fassung gemäss Anhang Ziff. II 26 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### 2. Kapitel: Unternehmensabgabe
 
@@ -1717,7 +1717,7 @@ Im Übrigen gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. S
 
 Die Radio- und Fernsehverordnung vom 6. Oktober 1997[^81-1] wird aufgehoben.
 
-[^81-1]: [[AS 1997 2903](https://fedlex.data.admin.ch/eli/oc/1997/2903_2903_2903), [1999 1845](https://fedlex.data.admin.ch/eli/oc/1999/302), [2001 1680](https://fedlex.data.admin.ch/eli/oc/2001/258), [2002 1915](https://fedlex.data.admin.ch/eli/oc/2002/284)Art. 20 [3482](https://fedlex.data.admin.ch/eli/oc/2002/516), [2003 4789](https://fedlex.data.admin.ch/eli/oc/2003/701), [2004 4531](https://fedlex.data.admin.ch/eli/oc/2004/687), [2006 959](https://fedlex.data.admin.ch/eli/oc/2006/172)[4395](https://fedlex.data.admin.ch/eli/oc/2006/666)]
+[^81-1]: [[AS 1997 2903](https://fedlex.data.admin.ch/eli/oc/1997/2903_2903_2903); [1999 1845](https://fedlex.data.admin.ch/eli/oc/1999/302); [2001 1680](https://fedlex.data.admin.ch/eli/oc/2001/258); [2002 1915](https://fedlex.data.admin.ch/eli/oc/2002/284)Art. 20, [3482](https://fedlex.data.admin.ch/eli/oc/2002/516); [2003 4789](https://fedlex.data.admin.ch/eli/oc/2003/701); [2004 4531](https://fedlex.data.admin.ch/eli/oc/2004/687); [2006 959](https://fedlex.data.admin.ch/eli/oc/2006/172), [4395](https://fedlex.data.admin.ch/eli/oc/2006/666)]
 
 ### 2. Kapitel:**** Übergangsbestimmungen zur Änderung vom 25. Mai 2016
 
@@ -1813,7 +1813,7 @@ Die Förderleistung zugunsten von Veranstaltern mit Abgabenanteil beträgt höch
 
 [^86-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5519](https://fedlex.data.admin.ch/eli/oc/2017/594)).
 [^86-2]: [AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150)
-[^86-3]: [AS 2007 787](https://fedlex.data.admin.ch/eli/oc/2007/151)[6657](https://fedlex.data.admin.ch/eli/oc/2007/861), [2010 5219](https://fedlex.data.admin.ch/eli/oc/2010/749), [2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)
+[^86-3]: [AS 2007 787](https://fedlex.data.admin.ch/eli/oc/2007/151)[6657](https://fedlex.data.admin.ch/eli/oc/2007/861); [2010 5219](https://fedlex.data.admin.ch/eli/oc/2010/749); [2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)
 
 #### Art. 87
 
@@ -1898,7 +1898,7 @@ Die bisherige Gebührenerhebungsstelle stellt der neuen Erhebungsstelle spätest
 
 <sup>2</sup> Die Einzelheiten richten sich nach dem bisherigen Artikel 66 Absatz 3[^91-2].
 
-[^91-1]: [AS 2007 787](https://fedlex.data.admin.ch/eli/oc/2007/151)[6657](https://fedlex.data.admin.ch/eli/oc/2007/861)
+[^91-1]: [AS 2007 787](https://fedlex.data.admin.ch/eli/oc/2007/151), [6657](https://fedlex.data.admin.ch/eli/oc/2007/861)
 [^91-2]: [AS 2007 787](https://fedlex.data.admin.ch/eli/oc/2007/151)
 
 #### Art. 92
@@ -1924,7 +1924,7 @@ Die bisherige Gebührenerhebungsstelle stellt der neuen Erhebungsstelle spätest
 <sup>8</sup> Soweit der Ertrag der Empfangsgebühren die Entschädigungszahlungen nach Absatz 7 übertrifft, fliesst er der SRG zu.
 
 [^92-1]: [AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150)
-[^92-2]: [AS 2007 787](https://fedlex.data.admin.ch/eli/oc/2007/151)[6657](https://fedlex.data.admin.ch/eli/oc/2007/861), [2010 5219](https://fedlex.data.admin.ch/eli/oc/2010/749), [2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)
+[^92-2]: [AS 2007 787](https://fedlex.data.admin.ch/eli/oc/2007/151)[6657](https://fedlex.data.admin.ch/eli/oc/2007/861); [2010 5219](https://fedlex.data.admin.ch/eli/oc/2010/749); [2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)
 [^92-3]: [AS 2007 787](https://fedlex.data.admin.ch/eli/oc/2007/151)
 
 #### Art. 93
