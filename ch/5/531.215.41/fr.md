@@ -3,18 +3,18 @@ sr: "531.215.41"
 title: Ordonnance du 10 mai 2017 sur le stockage obligatoire de carburants et combustibles liquides
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/314"
 language: fr
-version: 2019-05-01
+version: 2022-01-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/314/20190501/fr/xml/fedlex-data-admin-ch-eli-cc-2017-314-20190501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/314/20190501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/314/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-314-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/314/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le stockage obligatoire de carburants et combustibles liquides
 
-du 10 mai 2017 (Etat le 1<sup>er</sup> mai 2019)
+du 10 mai 2017 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu les art. 7, al. 1, 8, al. 2, 57, al. 1, et 60, al. 2, de la loi du 17 juin 20
 
 arrête:
 
-[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 #### Art. 1
 
@@ -71,7 +71,7 @@ L’Office fédéral pour l’approvisionnement économique du pays (OFAE) surve
 <sup>2</sup> Le territoire suisse comprend le territoire de la Confédération et les enclaves douanières étrangères, sans les enclaves douanières suisses.
 
 [^4a-1]: Introduit par le ch. I de l’O du 3 avr. 2019, en vigueur depuis 1<sup>er</sup> mai 2019 ([RO 2019 1205](https://fedlex.data.admin.ch/eli/oc/2019/224)).
-[^4a-2]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^4a-2]: [RS 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
 #### Art. 5
 
@@ -105,7 +105,9 @@ Après avoir consulté les milieux économiques concernés, le Département féd
 
 **Coopération entre autorités**
 
-L’Administration fédérale des douanes (AFD) communique à Carbura les données douanières et fiscales concernant les marchandises énumérées en annexe.
+L’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^7-1] communique à Carbura les données douanières et fiscales concernant les marchandises énumérées en annexe.
+
+[^7-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RO 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022. Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 8
 
@@ -141,7 +143,7 @@ Dans les cas litigieux, l’OFAE établit par voie de décision, en s’appuyant
 
 **Exécution de l’ordonnance et modification de l’annexe**
 
-<sup>1</sup> L’OFAE et l’AFD exécutent la présente ordonnance.
+<sup>1</sup> L’OFAE et l’OFDF exécutent la présente ordonnance.
 
 <sup>2</sup> Le DEFR peut modifier l’annexe après avoir consulté les milieux économiques concernés.
 
@@ -159,13 +161,13 @@ L’ordonnance du 6 juillet 1983 sur la constitution de réserves obligatoires d
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> juin 2017.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 1 et 5, let. a)
 
 ## Carburants et combustibles liquides
 
-[^t-1]: Mise à jour selon le ch. I de l’O du DEFR du 13 nov. 2017 ([RO 2018 7](https://fedlex.data.admin.ch/eli/oc/2018/4)) et le ch. II de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> mai 2019 ([RO 2019 1205](https://fedlex.data.admin.ch/eli/oc/2019/224)).
+[^t-1]: Mise à jour selon l’annexe 3 ch. 4 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 ### 1 Carburants et combustibles liquides soumis au stockage obligatoire
 
@@ -176,7 +178,7 @@ Annexe*[^t-1]*
 <tr><td>ex 1000</td><td>– – bioéthanol</td></tr>
 <tr><td>ex 2000</td><td>– – bioéthanol</td></tr>
 <tr><td>2707.</td><td>Huiles et autres produits provenant de la distillation des goudrons de houille à haute température; produits analogues dans lesquels les constituants aromatiques pèsent plus que les non aromatiques:</td></tr>
-<tr><td>[tab]</td><td>– destinés à servir de carburant:</td></tr>
+<tr><td></td><td>– destinés à servir de carburant:</td></tr>
 <tr><td>1010</td><td>– – benzol (benzène)</td></tr>
 <tr><td>2010</td><td>– – toluol (toluène)</td></tr>
 <tr><td>3010</td><td>– – xylol (xylènes)</td></tr>
@@ -184,7 +186,7 @@ Annexe*[^t-1]*
 <tr><td>5010</td><td>– – autres mélanges d’hydrocarbures aromatiques distillant 65 % ou plus de leur volume (pertes inclues) à 250 °C, d’après la méthode ASTM D 86</td></tr>
 <tr><td>9110</td><td>– – huiles de créosote</td></tr>
 <tr><td>9910</td><td>– – autres</td></tr>
-<tr><td>[tab]</td><td>– pour le chauffage:</td></tr>
+<tr><td></td><td>– pour le chauffage:</td></tr>
 <tr><td>ex 4090</td><td>– – naphtalène</td></tr>
 <tr><td>ex 5090</td><td>– – autres mélanges d’hydrocarbures aromatiques distillant 65 % ou plus de leur volume (pertes inclues) à 250 °C, d’après la méthode ASTM D 86</td></tr>
 <tr><td>ex 9190</td><td>– – huiles de créosote</td></tr>
@@ -193,40 +195,40 @@ Annexe*[^t-1]*
 <tr><td>0010</td><td>– destinées à servir de carburant</td></tr>
 <tr><td>0090</td><td>– autres</td></tr>
 <tr><td>2710.</td><td>Huiles de pétrole ou de minéraux bitumineux, autres que les huiles brutes; préparations non dénommées ni comprises ailleurs, contenant en poids 70 % ou plus d’huiles de pétrole ou de minéraux bitumineux, ces huiles constituant l’élément de base; déchets d’huile:</td></tr>
-<tr><td>[tab]</td><td>– huiles de pétrole ou de minéraux bitumineux (autres que les huiles brutes) et préparations non dénommées ni comprises ailleurs, contenant en poids 70 % ou plus d’huiles de pétrole ou de minéraux bitumineux, ces huiles constituant l’élément de base, autres que celles contenant du biodiesel et autres que les déchets d’huiles:</td></tr>
+<tr><td></td><td>– huiles de pétrole ou de minéraux bitumineux (autres que les huiles brutes) et préparations non dénommées ni comprises ailleurs, contenant en poids 70 % ou plus d’huiles de pétrole ou de minéraux bitumineux, ces huiles constituant l’élément de base, autres que celles contenant du biodiesel et autres que les déchets d’huiles:</td></tr>
 </table>
 
 <table>
 <tr><th>Numéro du tarif douanier</th><th>Désignation de la marchandise</th></tr>
-<tr><td>[tab]</td><td>– – huiles légères et préparations:</td></tr>
-<tr><td>[tab]</td><td>– – – destinées à servir de carburant:</td></tr>
+<tr><td></td><td>– – huiles légères et préparations:</td></tr>
+<tr><td></td><td>– – – destinées à servir de carburant:</td></tr>
 <tr><td>1211</td><td>– – – – essence et ses fractions</td></tr>
 <tr><td>1212</td><td>– – – – white spirit</td></tr>
 <tr><td>1219</td><td>– – – – autres</td></tr>
-<tr><td>[tab]</td><td>– – – destinées à d’autres usages:</td></tr>
+<tr><td></td><td>– – – destinées à d’autres usages:</td></tr>
 <tr><td>ex 1291</td><td>– – – – essence et ses fractions, pour la production de gaz et la transformation pétrochimique ainsi que pour le chauffage industriel</td></tr>
 <tr><td>1292</td><td>– – – – white spirit</td></tr>
-<tr><td>[tab]</td><td>– – autres:</td></tr>
-<tr><td>[tab]</td><td>– – – destinées à servir de carburant:</td></tr>
+<tr><td></td><td>– – autres:</td></tr>
+<tr><td></td><td>– – – destinées à servir de carburant:</td></tr>
 <tr><td>1911</td><td>– – – – pétrole</td></tr>
 <tr><td>1912</td><td>– – – – diesel</td></tr>
 <tr><td>1919</td><td>– – – – autres</td></tr>
-<tr><td>[tab]</td><td>– – – destinées à d’autres usages:</td></tr>
+<tr><td></td><td>– – – destinées à d’autres usages:</td></tr>
 <tr><td>1991</td><td>– – – – pétrole</td></tr>
 <tr><td>1992</td><td>– – – – huiles de chauffage (mazout)</td></tr>
 <tr><td>ex 1999</td><td>– – – – gas-oil pour laver des gaz bruts; spikes de gas-oil</td></tr>
-<tr><td>[tab]</td><td>– huiles de pétrole ou de minéraux bitumineux (autres que les huiles brutes) et préparations non dénommées ni comprises ailleurs, contenant en poids 70 % ou plus d’huiles de pétrole ou de minéraux bitumineux et dont ces huiles constituent l’élément de base, contenant du biodiesel, autres que les déchets d’huiles:</td></tr>
+<tr><td></td><td>– huiles de pétrole ou de minéraux bitumineux (autres que les huiles brutes) et préparations non dénommées ni comprises ailleurs, contenant en poids 70 % ou plus d’huiles de pétrole ou de minéraux bitumineux et dont ces huiles constituent l’élément de base, contenant du biodiesel, autres que les déchets d’huiles:</td></tr>
 <tr><td>2010</td><td>– – destinées à servir de carburants</td></tr>
 <tr><td>2090</td><td>– – destinées à d’autres usages</td></tr>
 <tr><td>2901.</td><td>Hydrocarbures acycliques:</td></tr>
-<tr><td>[tab]</td><td>– destinés à servir de carburant:</td></tr>
-<tr><td>[tab]</td><td>– – saturés:</td></tr>
+<tr><td></td><td>– destinés à servir de carburant:</td></tr>
+<tr><td></td><td>– – saturés:</td></tr>
 <tr><td>1091</td><td>– – – autres qu’à l’état gazeux</td></tr>
-<tr><td>[tab]</td><td>– – non saturés:</td></tr>
+<tr><td></td><td>– – non saturés:</td></tr>
 <tr><td>2421</td><td>– – – isoprène</td></tr>
 <tr><td>2991</td><td>– – – autres qu’à l’état gazeux</td></tr>
 <tr><td>2902.</td><td>Hydrocarbures cycliques:</td></tr>
-<tr><td>[tab]</td><td>– destinés à servir de carburant:</td></tr>
+<tr><td></td><td>– destinés à servir de carburant:</td></tr>
 <tr><td>1110</td><td>– – cyclohexane</td></tr>
 <tr><td>1910</td><td>– – autres hydrocarbures cyclaniques, cycléniques ou cycloterpéniques</td></tr>
 <tr><td>2010</td><td>– – benzol (benzène)</td></tr>
@@ -239,18 +241,18 @@ Annexe*[^t-1]*
 <tr><td>7010</td><td>– – cumène</td></tr>
 <tr><td>9010</td><td>– – autres</td></tr>
 <tr><td>2905.</td><td>Alcools acycliques et leurs dérivés halogénés, sulfonés, nitrés ou nitrosés:</td></tr>
-<tr><td>[tab]</td><td>– destinés à servir de carburant:</td></tr>
-<tr><td>[tab]</td><td>– – monoalcools saturés:</td></tr>
+<tr><td></td><td>– destinés à servir de carburant:</td></tr>
+<tr><td></td><td>– – monoalcools saturés:</td></tr>
 <tr><td>1110</td><td>– – – méthanol (alcool méthylique)</td></tr>
 <tr><td>1210</td><td>– – – propane-1-ol (alcool propylique) et propane-2-ol (alcool isopropylique)</td></tr>
 <tr><td>1410</td><td>– – – autres butanols</td></tr>
 <tr><td>1610</td><td>– – – octanol (alcool octylique) et ses isomères</td></tr>
 <tr><td>1920</td><td>– – – autres</td></tr>
-<tr><td>[tab]</td><td>– – monoalcools non saturés:</td></tr>
+<tr><td></td><td>– – monoalcools non saturés:</td></tr>
 <tr><td>2210</td><td>– – – alcools terpéniques acycliques</td></tr>
 <tr><td>2910</td><td>– – – autres</td></tr>
-<tr><td>2909.</td><td>Ethers, éthers-alcools, éthers-phénols, éthers-alcools-phénols, peroxydes d’alcools, peroxydes d’éthers, peroxydes de cétones (de constitution chimique définie ou non), et leurs dérivés halogénés, nitrés ou nitrosés:</td></tr>
-<tr><td>[tab]</td><td>– destinés à servir de carburant:</td></tr>
+<tr><td>2909.</td><td>Éthers, éthers-alcools, éthers-phénols, éthers-alcools-phénols, peroxydes d’alcools, peroxydes d’éthers, peroxydes d’acétals et d’hémi-acétals, peroxydes de cétones (de constitution chimique définie ou non), et leurs dérivés halogénés, sulfonés, nitrés ou nitrosés:</td></tr>
+<tr><td></td><td>– destinés à servir de carburant:</td></tr>
 <tr><td>1910</td><td>– – éthers acycliques et leurs dérivés halogénés, sulfonés, nitrés ou nitrosés, autres que l’éther diéthylique</td></tr>
 <tr><td>2010</td><td>– – éthers cyclaniques, cycléniques, cycloterpéniques et leurs dérivés halogénés, sulfonés, nitrés ou nitrosés</td></tr>
 <tr><td>3010</td><td>– – éthers aromatiques et leurs dérivés halogénés, sulfonés, nitrés ou nitrosés</td></tr>
@@ -258,7 +260,7 @@ Annexe*[^t-1]*
 <tr><td>4420</td><td>– – autres éthers monoalkyliques de l’éthylène glycol ou du diéthylène glycol:</td></tr>
 <tr><td>4910</td><td>– – autres</td></tr>
 <tr><td>5010</td><td>– – éthers-phénols, éthers-alcools, phénols et leurs dérivés halogénés, sulfonés, nitrés ou nitrosés:</td></tr>
-<tr><td>6010</td><td>– – peroxydes d’alcools, peroxydes d’éthers, peroxydes de cétones, et leurs dérivés halogénés, sulfonés, nitrés ou nitrosés</td></tr>
+<tr><td>6010</td><td>– – peroxydes d’alcools, peroxydes d’éthers, peroxydes d’acétals et d’hémi-acétals, peroxydes de cétones, et leurs dérivés halogénés, sulfonés, nitrés ou nitrosés</td></tr>
 <tr><td>3807.</td><td>Huiles de goudron de bois:</td></tr>
 <tr><td>ex 0000</td><td>– pour le chauffage</td></tr>
 <tr><td>3811.</td><td>Préparations antidétonantes, inhibiteurs d’oxydation, additifs peptisants, améliorants de viscosité, additifs anticorrosifs et autres additifs préparés, pour huiles minérales (essence comprise) ou pour autres liquides utilisés aux mêmes fins que les huiles minérales:</td></tr>
@@ -274,11 +276,11 @@ Annexe*[^t-1]*
 <tr><td>0090</td><td>– autres</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), annexe
+[^annexu1-lvlu1-lvl1-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921), annexe
 
 ### 2 Quantité-seuil impliquant l’obligation de contracter
 
 <table>
-<tr><td>Désignation de la marchandise</td><td>Quantité</td></tr>
+<tr><th>Désignation de la marchandise</th><th>Quantité</th></tr>
 <tr><td>Diesel, essence, mazout extra-léger ou kérosène et leurs composants</td><td>&lt; 3000 m<sup>3</sup></td></tr>
 </table>

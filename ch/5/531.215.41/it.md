@@ -3,18 +3,18 @@ sr: "531.215.41"
 title: Ordinanza del 10 maggio 2017 concernente la costituzione di scorte obbligatorie di carburanti e combustibili liquidi
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/314"
 language: it
-version: 2019-05-01
+version: 2022-01-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/314/20190501/it/xml/fedlex-data-admin-ch-eli-cc-2017-314-20190501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/314/20190501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/314/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-314-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/314/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la costituzione di scorte obbligatorie di carburanti e combustibili liquidi
 
-del 10 maggio 2017 (Stato 1° maggio 2019) (Stato 1° maggio 2019)
+del 10 maggio 2017 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -22,7 +22,7 @@ visti gli articoli 7 capoverso 1, 8 capoverso 2, 57 capoverso 1 e 60 capoverso 2
 
 ordina:
 
-[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 #### Art. 1
 
@@ -71,7 +71,7 @@ L’Ufficio federale per l’approvvigionamento economico del Paese (UFAE) vigil
 <sup>2</sup> Per territorio svizzero s’intende il territorio della Confederazione, comprese le enclavi doganali estere, ma senza le enclavi doganali svizzere.
 
 [^4a-1]: Introdotto dal n. I dell’O del 3 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1205](https://fedlex.data.admin.ch/eli/oc/2019/224)).
-[^4a-2]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^4a-2]: [RS 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
 #### Art. 5
 
@@ -105,7 +105,9 @@ Dopo aver consultato le cerchie economiche interessate, il Dipartimento federale
 
 **Collaborazione tra le autorità**
 
-L’Amministrazione federale delle dogane (AFD) comunica a Carbura i dati relativi alle tasse doganali e all’imposta sugli oli minerali concernenti le merci menzionate in allegato.
+L’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^7-1] comunica a Carbura i dati relativi alle tasse doganali e all’imposta sugli oli minerali concernenti le merci menzionate in allegato.
+
+[^7-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RU 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)), con effetto dal 1° gen. 2022. Di detta mod. è tenuto conto in tutto il testo.
 
 #### Art. 8
 
@@ -141,7 +143,7 @@ In caso di controversie l’UFAE stabilisce mediante decisione, fondandosi sulle
 
 **Esecuzione dell’ordinanza e modifica dell’allegato**
 
-<sup>1</sup> L’UFAE e l’AFD eseguono la presente ordinanza.
+<sup>1</sup> L’UFAE e l’UDSC eseguono la presente ordinanza.
 
 <sup>2</sup> Il DEFR può modificare l’allegato dopo aver consultato le cerchie economiche interessate.
 
@@ -159,13 +161,13 @@ L’ordinanza del 6 luglio 1983[^12-1] concernente la costituzione di scorte obb
 
 La presente ordinanza entra in vigore il 1° giugno 2017.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 1 e 5 lett. a)
 
 ## Carburanti e combustibili liquidi
 
-[^t-1]: Aggiornato dal n. I dell’O del DEFR del 13 nov. 2017 ([RU 2018 7](https://fedlex.data.admin.ch/eli/oc/2018/4)) e dal n. II dell’O del 3 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1205](https://fedlex.data.admin.ch/eli/oc/2019/224)).
+[^t-1]: Aggiornato dal n. I dell’O del DEFR del 13 nov. 2017 ([RU 2018 7](https://fedlex.data.admin.ch/eli/oc/2018/4)), dal n. II dell’O del 3 apr. 2019 ([RU 2019 1205](https://fedlex.data.admin.ch/eli/oc/2019/224)) e dall’all. 3 n. 4 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 ### 1 Carburanti e combustibili liquidi che sottostanno all’obbligo di costituire scorte obbligatorie
 
@@ -176,7 +178,7 @@ Allegato*[^t-1]*
 <tr><td>ex 1000</td><td>– – bioetanolo</td></tr>
 <tr><td>ex 2000</td><td>– – bioetanolo</td></tr>
 <tr><td>2707.</td><td>Oli ed altri prodotti provenienti dalla distillazione dei catrami di carbon fossile ottenuti ad alta temperatura; prodotti analoghi nei quali i costituenti aromatici predominano in peso rispetto ai costituenti non aromatici:</td></tr>
-<tr><td>[tab]</td><td>– destinati a essere utilizzati come carburante:</td></tr>
+<tr><td></td><td>– destinati a essere utilizzati come carburante:</td></tr>
 <tr><td>1010</td><td>– – benzolo</td></tr>
 <tr><td>2010</td><td>– – toluolo</td></tr>
 <tr><td>3010</td><td>– – xilolo</td></tr>
@@ -184,7 +186,7 @@ Allegato*[^t-1]*
 <tr><td>5010</td><td>– – altre miscele d’idrocarburi aromatici nei quali 65 % o più del loro volume (comprese le perdite) distilla a 250 °C, secondo il metodo ASTM D 86</td></tr>
 <tr><td>9110</td><td>– – oli di creosoto</td></tr>
 <tr><td>9910</td><td>– – altri</td></tr>
-<tr><td>[tab]</td><td>– zu per il riscaldamento:</td></tr>
+<tr><td></td><td>– zu per il riscaldamento:</td></tr>
 <tr><td>ex 4090</td><td>– – naftalene</td></tr>
 <tr><td>ex 5090</td><td>– – altre miscele d’idrocarburi aromatici nei quali 65 % o più del loro volume (comprese le perdite) distilla a 250 °C, secondo il metodo ASTM D 86</td></tr>
 <tr><td>ex 9190</td><td>– – oli di creosoto</td></tr>
@@ -193,40 +195,36 @@ Allegato*[^t-1]*
 <tr><td>0010</td><td>– destinati a essere utilizzati come carburante</td></tr>
 <tr><td>0090</td><td>– altri</td></tr>
 <tr><td>2710.</td><td>Oli di petrolio o di minerali bituminosi, diversi dagli oli greggi; preparazioni non nominate né comprese altrove, contenenti in peso 70 % o più di oli di petrolio o di minerali bituminosi e delle quali questi oli costituiscono l’elemento base; residui di oli:</td></tr>
-</table>
-
-<table>
-<tr><th>Voce di tariffa doganale</th><th>Designazione della merce</th></tr>
-<tr><td>[tab]</td><td>– oli di petrolio o di minerali bituminosi diversi dagli oli greggi e preparazioni non nominate né comprese altrove, contenenti in peso 70 % o più di oli di petrolio o di minerali bituminosi e delle quali questi oli costituiscono l’elemento base, diversi da quelli contenenti biodiesel e diversi dai residui di oli:</td></tr>
-<tr><td>[tab]</td><td>– – oli leggeri e preparazioni:</td></tr>
-<tr><td>[tab]</td><td>– – – destinati a essere utilizzati come carburante:</td></tr>
+<tr><td></td><td>– oli di petrolio o di minerali bituminosi diversi dagli oli greggi e preparazioni non nominate né comprese altrove, contenenti in peso 70 % o più di oli di petrolio o di minerali bituminosi e delle quali questi oli costituiscono l’elemento base, diversi da quelli contenenti biodiesel e diversi dai residui di oli:</td></tr>
+<tr><td></td><td>– – oli leggeri e preparazioni:</td></tr>
+<tr><td></td><td>– – – destinati a essere utilizzati come carburante:</td></tr>
 <tr><td>1211</td><td>– – – – benzina e sue frazioni</td></tr>
 <tr><td>1212</td><td>– – – – white spirit</td></tr>
 <tr><td>1219</td><td>– – – – altri</td></tr>
-<tr><td>[tab]</td><td>– – – destinati ad altri usi:</td></tr>
+<tr><td></td><td>– – – destinati ad altri usi:</td></tr>
 <tr><td>ex 1291</td><td>– – – – benzina e sue frazioni, per la produzione di gas e la trasformazione petrochimica nonché per il riscaldamento industriale</td></tr>
 <tr><td>1292</td><td>– – – – white spirit</td></tr>
-<tr><td>[tab]</td><td>– – altri:</td></tr>
-<tr><td>[tab]</td><td>– – – destinati a essere utilizzati come carburante:</td></tr>
+<tr><td></td><td>– – altri:</td></tr>
+<tr><td></td><td>– – – destinati a essere utilizzati come carburante:</td></tr>
 <tr><td>1911</td><td>– – – – petrolio</td></tr>
 <tr><td>1912</td><td>– – – – olio Diesel</td></tr>
 <tr><td>1919</td><td>– – – – altri</td></tr>
-<tr><td>[tab]</td><td>– – – destinati ad altri usi:</td></tr>
+<tr><td></td><td>– – – destinati ad altri usi:</td></tr>
 <tr><td>1991</td><td>– – – – petrolio</td></tr>
 <tr><td>1992</td><td>– – – – oli per il riscaldamento</td></tr>
 <tr><td>ex 1999</td><td>– – – – gasolio per la lavatura di gas greggi; «spikes» di gasolio</td></tr>
-<tr><td>[tab]</td><td>– oli di petrolio o di minerali bituminosi diversi dagli oli greggi e preparazioni non nominate né comprese altrove, contenenti in peso 70 % o più di oli di petrolio o di minerali bituminosi e delle quali questi oli costituiscono l’elemento base, contenenti biodiesel, diversi dai residui di oli:</td></tr>
+<tr><td></td><td>– oli di petrolio o di minerali bituminosi diversi dagli oli greggi e preparazioni non nominate né comprese altrove, contenenti in peso 70 % o più di oli di petrolio o di minerali bituminosi e delle quali questi oli costituiscono l’elemento base, contenenti biodiesel, diversi dai residui di oli:</td></tr>
 <tr><td>2010</td><td>– – destinati a essere utilizzati come carburante</td></tr>
 <tr><td>2090</td><td>– – destinati ad altri usi</td></tr>
 <tr><td>2901.</td><td>Idrocarburi aciclici:</td></tr>
-<tr><td>[tab]</td><td>– destinati ad essere utilizzati come carburante:</td></tr>
-<tr><td>[tab]</td><td>– – saturi:</td></tr>
+<tr><td></td><td>– destinati ad essere utilizzati come carburante:</td></tr>
+<tr><td></td><td>– – saturi:</td></tr>
 <tr><td>1091</td><td>– – – diversi da quelli gassosi</td></tr>
-<tr><td>[tab]</td><td>– – non saturi:</td></tr>
+<tr><td></td><td>– – non saturi:</td></tr>
 <tr><td>2421</td><td>– – – isoprene</td></tr>
 <tr><td>2991</td><td>– – – diversi da quelli gassosi</td></tr>
 <tr><td>2902.</td><td>Idrocarburi ciclici:</td></tr>
-<tr><td>[tab]</td><td>– destinati ad essere utilizzati come carburante:</td></tr>
+<tr><td></td><td>– destinati ad essere utilizzati come carburante:</td></tr>
 <tr><td>1110</td><td>– – cicloesano</td></tr>
 <tr><td>1910</td><td>– – altri idrocarburi cicloparaffinici, cicloolefinici o cicloterpenici</td></tr>
 <tr><td>2010</td><td>– – benzolo</td></tr>
@@ -239,18 +237,18 @@ Allegato*[^t-1]*
 <tr><td>7010</td><td>– – cumene</td></tr>
 <tr><td>9010</td><td>– – altri</td></tr>
 <tr><td>2905.</td><td>Alcoli aciclici e loro derivati alogenati, solfonati, nitrati o nitrosi:</td></tr>
-<tr><td>[tab]</td><td>– destinati a essere usati come carburanti:</td></tr>
-<tr><td>[tab]</td><td>– – monoalcoli saturi:</td></tr>
+<tr><td></td><td>– destinati a essere usati come carburanti:</td></tr>
+<tr><td></td><td>– – monoalcoli saturi:</td></tr>
 <tr><td>1110</td><td>– – – metanolo (alcole metilico)</td></tr>
 <tr><td>1210</td><td>– – – propan-1-olo (alcole propilico) e propan-2-olo (alcole isopropilico)</td></tr>
 <tr><td>1410</td><td>– – – altri butanoli</td></tr>
 <tr><td>1610</td><td>– – – ottanolo (alcole ottilico) e suoi isomeri</td></tr>
 <tr><td>1920</td><td>– – – altri</td></tr>
-<tr><td>[tab]</td><td>– – monoalcoli non saturi:</td></tr>
+<tr><td></td><td>– – monoalcoli non saturi:</td></tr>
 <tr><td>2210</td><td>– – – alcoli terpenici aciclici</td></tr>
 <tr><td>2910</td><td>– – – altri</td></tr>
-<tr><td>2909.</td><td>Eteri, eteri-alcoli, eteri-fenoli, eteri-alcoli-fenoli, perossidi di alcoli, perossidi di eteri, perossidi di chetoni (di costituzione chimica definita o no) e loro derivati alogenati, solfonati, nitrati o nitrosi:</td></tr>
-<tr><td>[tab]</td><td>– destinati ad essere utilizzati come carburante:</td></tr>
+<tr><td>2909.</td><td>Eteri, eteri-alcoli, eteri-fenoli, eteri-alcoli-fenoli, perossidi di alcoli, perossidi di eteri, perossidi di acetali e di emiacetali, perossidi di chetoni (di costituzione chimica definita o no) e loro derivati alogenati, solfonati, nitrati o nitrosi:</td></tr>
+<tr><td></td><td>– destinati ad essere utilizzati come carburante:</td></tr>
 <tr><td>1910</td><td>– – eteri aciclici e loro derivati alogenati, solfonati, nitrati e nitrosi, diversi dall’etere dietilico</td></tr>
 <tr><td>2010</td><td>– – eteri cicloparaffinici, cicloolefinici, cicloterpenici e loro derivati alogenati, solfonati, nitrati o nitrosi</td></tr>
 <tr><td>3010</td><td>– – eteri aromatici e loro derivati alogenati, solfonati, nitrati o nitrosi</td></tr>
@@ -258,7 +256,7 @@ Allegato*[^t-1]*
 <tr><td>4420</td><td>– – altri eteri monoalchilici dell’etilenglicole o del dietilenglicole:</td></tr>
 <tr><td>4910</td><td>– – altri</td></tr>
 <tr><td>5010</td><td>– – eteri-fenoli, eteri-alcoli-fenoli e loro derivati alogenati, solfonati, nitrati o nitrosi</td></tr>
-<tr><td>6010</td><td>– – perossidi di alcoli, perossidi di eteri, perossidi di chetoni, e loro derivati alogenati, solfonati, nitrati o nitrosi</td></tr>
+<tr><td>6010</td><td>– – perossidi di alcoli, perossidi di eteri, perossidi di acetali e di emiacetali, perossidi di chetoni, e loro derivati alogenati, solfonati, nitrati o nitrosi</td></tr>
 <tr><td>3807.</td><td>Catrami di legno, oli di catrame di legno:</td></tr>
 <tr><td>ex 0000</td><td>– per il riscaldamento</td></tr>
 <tr><td>3811.</td><td>Preparazioni antidetonanti, inibitori di ossidazione, additivi peptizzanti, preparazioni per migliorare la viscosità, additivi contro la corrosione ed altri additivi preparati, per oli minerali (compresa la benzina) o per altri liquidi adoperati per gli stessi scopi degli oli minerali:</td></tr>
@@ -274,7 +272,7 @@ Allegato*[^t-1]*
 <tr><td>0090</td><td>– altri</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), allegato
+[^annexu1-lvlu1-lvl1-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921), allegato
 
 ### 2 Quantitativi soglia per la conclusione di un contratto per la costituzione di scorte obbligatorie
 

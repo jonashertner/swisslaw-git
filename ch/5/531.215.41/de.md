@@ -3,11 +3,11 @@ sr: "531.215.41"
 title: Verordnung vom 10. Mai 2017 über die Pflichtlagerhaltung von flüssigen Treib- und Brennstoffen (Mineralölpflichtlagerverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/314"
 language: de
-version: 2019-05-01
+version: 2022-01-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/314/20190501/de/xml/fedlex-data-admin-ch-eli-cc-2017-314-20190501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/314/20190501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/314/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-314-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/314/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/314/20190501/de"
 
 (Mineralölpflichtlagerverordnung)
 
-vom 10. Mai 2017 (Stand am 1. Mai 2019)
+vom 10. Mai 2017 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -24,7 +24,7 @@ gestützt auf die Artikel 7 Absatz 1, 8 Absatz 2, 57 Absatz 1 und 60 Absatz 2 de
 
 verordnet:
 
-[^ingress-1]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^ingress-1]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 #### Art. 1
 
@@ -73,7 +73,7 @@ Das Bundesamt für wirtschaftliche Landesversorgung (BWL) überwacht die Erteilu
 <sup>2</sup> Als Inland gelten das schweizerische Staatsgebiet und die Zollanschlussgebiete, nicht jedoch die Zollausschlussgebiete.
 
 [^4a-1]: Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1205](https://fedlex.data.admin.ch/eli/oc/2019/224)).
-[^4a-2]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^4a-2]: [SR 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
 #### Art. 5
 
@@ -107,7 +107,9 @@ Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF) bes
 
 **Zusammenarbeit der Behörden**
 
-Die Eidgenössische Zollverwaltung (EZV) teilt der Carbura die Zoll- und Mineralölsteuerdaten der im Anhang aufgeführten Waren mit.
+Das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^7-1] teilt der Carbura die Zoll- und Mineralölsteuerdaten der im Anhang aufgeführten Waren mit.
+
+[^7-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([AS 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)) auf den 1. Jan. 2022 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 8
 
@@ -143,7 +145,7 @@ Das BWL stellt in strittigen Fällen, gestützt auf die Meldung der Carbura, dur
 
 **Vollzug der Verordnung und Änderung des Anhangs**
 
-<sup>1</sup> Das BWL und die EZV vollziehen diese Verordnung.
+<sup>1</sup> Das BWL und das BAZG vollziehen diese Verordnung.
 
 <sup>2</sup> Das WBF kann den Anhang nach Anhören der beteiligten Wirtschaftskreise ändern.
 
@@ -153,7 +155,7 @@ Das BWL stellt in strittigen Fällen, gestützt auf die Meldung der Carbura, dur
 
 Die Verordnung vom 6. Juli 1983[^12-1] über die Pflichtlagerhaltung von flüssigen Treib- und Brennstoffen wird aufgehoben.
 
-[^12-1]: [[AS 1983 1007](https://fedlex.data.admin.ch/eli/oc/1983/1007_1007_1007)[1180](https://fedlex.data.admin.ch/eli/oc/1983/1180_1180_1180), [1987 2321](https://fedlex.data.admin.ch/eli/oc/1987/2321_2321_2321), [1995 4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)Art. 3 Ziff. 5, [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)Anhang Ziff. 3, [[2001 2091](http://intranet.admin.ch/ch/d/as/2001/2091.pdf)](https://fedlex.data.admin.ch/eli/oc/2001/305)Anhang Ziff. 6, [[2006 2995](http://intranet.admin.ch/ch/d/as/2006/2995.pdf)](https://fedlex.data.admin.ch/eli/oc/2006/464)Anhang 4 Ziff. II 4, [[2011 3331](http://intranet.admin.ch/ch/d/as/2011/3331.pdf)](https://fedlex.data.admin.ch/eli/oc/2011/451)Anhang 3 Ziff. 5, [[2016 2445](http://intranet.admin.ch/ch/d/as/2016/2445.pdf)](https://fedlex.data.admin.ch/eli/oc/2016/393)Anhang 3 Ziff. 3]
+[^12-1]: [[AS 1983 1007](https://fedlex.data.admin.ch/eli/oc/1983/1007_1007_1007), [1180](https://fedlex.data.admin.ch/eli/oc/1983/1180_1180_1180); [1987 2321](https://fedlex.data.admin.ch/eli/oc/1987/2321_2321_2321); [1995 4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)Art. 3 Ziff. 5; [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)Anhang Ziff. 3; [[2001 2091](http://intranet.admin.ch/ch/d/as/2001/2091.pdf)](https://fedlex.data.admin.ch/eli/oc/2001/305)Anhang Ziff. 6; [[2006 2995](http://intranet.admin.ch/ch/d/as/2006/2995.pdf)](https://fedlex.data.admin.ch/eli/oc/2006/464)Anhang 4 Ziff. II 4; [[2011 3331](http://intranet.admin.ch/ch/d/as/2011/3331.pdf)](https://fedlex.data.admin.ch/eli/oc/2011/451)Anhang 3 Ziff. 5; [[2016 2445](http://intranet.admin.ch/ch/d/as/2016/2445.pdf)](https://fedlex.data.admin.ch/eli/oc/2016/393)Anhang 3 Ziff. 3]
 
 #### Art. 13
 
@@ -161,13 +163,13 @@ Die Verordnung vom 6. Juli 1983[^12-1] über die Pflichtlagerhaltung von flüssi
 
 Diese Verordnung tritt am 1. Juni 2017 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 1 und 5 Bst. a)
 
 ## Flüssige Treib- und Brennstoffe
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 13. Nov. 2017 ([AS 2018 7](https://fedlex.data.admin.ch/eli/oc/2018/4)) und Ziff. II der V vom 3. April 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1205](https://fedlex.data.admin.ch/eli/oc/2019/224)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 13. Nov. 2017 ([AS 2018 7](https://fedlex.data.admin.ch/eli/oc/2018/4)) und Ziff. II der V vom 3. April 2019 ([AS 2019 1205](https://fedlex.data.admin.ch/eli/oc/2019/224)) und Anhang 3 Ziff. 4 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 ### 1 Mineralölarten, die der Pflichtlagerhaltung unterstellt sind
 
@@ -178,7 +180,7 @@ Anhang*[^t-1]*
 <tr><td>ex 1000</td><td>– – Bioethanol</td></tr>
 <tr><td>ex 2000</td><td>– – Bioethanol</td></tr>
 <tr><td>2707.</td><td>Öle und andere Erzeugnisse der Destillation des Hochtemperatur- Steinkohlenteers; ähnliche Erzeugnisse, in denen die aromatischen Bestandteile im Gewicht gegenüber den nichtaromatischen Bestandteilen überwiegen:</td></tr>
-<tr><td>[tab]</td><td>– zur Verwendung als Treibstoff:</td></tr>
+<tr><td></td><td>– zur Verwendung als Treibstoff:</td></tr>
 <tr><td>1010</td><td>– – Benzol</td></tr>
 <tr><td>2010</td><td>– – Toluol</td></tr>
 <tr><td>3010</td><td>– – Xylol</td></tr>
@@ -186,7 +188,7 @@ Anhang*[^t-1]*
 <tr><td>5010</td><td>– – andere aromatische Kohlenwasserstoffmischungen, bei deren Destillation nach der Methode ASTM D 86, 65 % Vol oder mehr (einschl. Verluste) bis 250 °C übergehen</td></tr>
 <tr><td>9110</td><td>– – Kreosotöle</td></tr>
 <tr><td>9910</td><td>– – andere</td></tr>
-<tr><td>[tab]</td><td>– zu Feuerungszwecken:</td></tr>
+<tr><td></td><td>– zu Feuerungszwecken:</td></tr>
 <tr><td>ex 4090</td><td>– – Naphthalin</td></tr>
 <tr><td>ex 5090</td><td>– – andere aromatische Kohlenwasserstoffmischungen, bei deren Destillation nach der Methode ASTM D 86, 65 % Vol oder mehr (einschl. Verluste) bis 250 °C übergehen</td></tr>
 <tr><td>ex 9190</td><td>– – Kreosotöle</td></tr>
@@ -195,36 +197,36 @@ Anhang*[^t-1]*
 <tr><td>0010</td><td>– zur Verwendung als Treibstoff</td></tr>
 <tr><td>0090</td><td>– andere</td></tr>
 <tr><td>2710.</td><td>Erdöle oder Öle aus bituminösen Mineralien, andere als rohe Öle; anderweit weder genannte noch inbegriffene Zubereitungen mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von 70 % oder mehr, in denen diese Öle den wesentlichen Bestandteil bilden; Ölabfälle:</td></tr>
-<tr><td>[tab]</td><td>– Erdöle oder Öle aus bituminösen Mineralien (andere als rohe Öle) und anderweit weder genannte noch inbegriffene Zubereitungen mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von 70 % oder mehr, in denen diese Öle den wesentlichen Bestandteil bilden, andere als solche, die Biodiesel enthalten, und andere als Abfälle:</td></tr>
-<tr><td>[tab]</td><td>– – Leichtöle und Zubereitungen:</td></tr>
-<tr><td>[tab]</td><td>– – – zur Verwendung als Treibstoff:</td></tr>
+<tr><td></td><td>– Erdöle oder Öle aus bituminösen Mineralien (andere als rohe Öle) und anderweit weder genannte noch inbegriffene Zubereitungen mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von 70 % oder mehr, in denen diese Öle den wesentlichen Bestandteil bilden, andere als solche, die Biodiesel enthalten, und andere als Abfälle:</td></tr>
+<tr><td></td><td>– – Leichtöle und Zubereitungen:</td></tr>
+<tr><td></td><td>– – – zur Verwendung als Treibstoff:</td></tr>
 <tr><td>1211</td><td>– – – – Benzin und seine Fraktionen</td></tr>
 <tr><td>1212</td><td>– – – – White Spirit</td></tr>
 <tr><td>1219</td><td>– – – – andere</td></tr>
-<tr><td>[tab]</td><td>– – – zu anderen Zwecken:</td></tr>
+<tr><td></td><td>– – – zu anderen Zwecken:</td></tr>
 <tr><td>ex 1291</td><td>– – – – Benzin und seine Fraktionen, für die Gaserzeugung und petrochemische Umwandlung sowie zur industriellen Feuerung</td></tr>
 <tr><td>1292</td><td>– – – – White Spirit</td></tr>
-<tr><td>[tab]</td><td>– – andere:</td></tr>
-<tr><td>[tab]</td><td>– – – zur Verwendung als Treibstoff:</td></tr>
+<tr><td></td><td>– – andere:</td></tr>
+<tr><td></td><td>– – – zur Verwendung als Treibstoff:</td></tr>
 <tr><td>1911</td><td>– – – – Petroleum</td></tr>
 <tr><td>1912</td><td>– – – – Dieselöl</td></tr>
 <tr><td>1919</td><td>– – – – andere</td></tr>
-<tr><td>[tab]</td><td>– – – zu anderen Zwecken:</td></tr>
+<tr><td></td><td>– – – zu anderen Zwecken:</td></tr>
 <tr><td>1991</td><td>– – – – Petroleum</td></tr>
 <tr><td>1992</td><td>– – – – Heizöle zu Feuerungszwecken</td></tr>
 <tr><td>ex 1999</td><td>– – – – Gasöl zum Waschen von Rohgasen; Gasölspikes</td></tr>
-<tr><td>[tab]</td><td>– Erdöle oder Öle aus bituminösen Mineralien (andere als rohe Öle) und anderweit weder genannte noch inbegriffene Zubereitungen mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von 70 % oder mehr, in denen diese Öle den wesentlichen Bestandteil bilden, Biodiesel enthaltend, andere als Abfälle:</td></tr>
+<tr><td></td><td>– Erdöle oder Öle aus bituminösen Mineralien (andere als rohe Öle) und anderweit weder genannte noch inbegriffene Zubereitungen mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von 70 % oder mehr, in denen diese Öle den wesentlichen Bestandteil bilden, Biodiesel enthaltend, andere als Abfälle:</td></tr>
 <tr><td>2010</td><td>– – zur Verwendung als Treibstoff</td></tr>
 <tr><td>2090</td><td>– – zu anderen Zwecken</td></tr>
 <tr><td>2901.</td><td>Acyclische Kohlenwasserstoffe:</td></tr>
-<tr><td>[tab]</td><td>– zur Verwendung als Treibstoff:</td></tr>
-<tr><td>[tab]</td><td>– – gesättigte:</td></tr>
+<tr><td></td><td>– zur Verwendung als Treibstoff:</td></tr>
+<tr><td></td><td>– – gesättigte:</td></tr>
 <tr><td>1091</td><td>– – – andere als gasförmige</td></tr>
-<tr><td>[tab]</td><td>– – ungesättigte:</td></tr>
+<tr><td></td><td>– – ungesättigte:</td></tr>
 <tr><td>2421</td><td>– – – Isopren</td></tr>
 <tr><td>2991</td><td>– – – andere als gasförmige</td></tr>
 <tr><td>2902.</td><td>Cyclische Kohlenwasserstoffe:</td></tr>
-<tr><td>[tab]</td><td>– zur Verwendung als Treibstoff:</td></tr>
+<tr><td></td><td>– zur Verwendung als Treibstoff:</td></tr>
 <tr><td>1110</td><td>– – Cyclohexan</td></tr>
 <tr><td>1910</td><td>– – andere alicyclische</td></tr>
 <tr><td>2010</td><td>– – Benzol</td></tr>
@@ -237,18 +239,18 @@ Anhang*[^t-1]*
 <tr><td>7010</td><td>– – Cumol</td></tr>
 <tr><td>9010</td><td>– – andere</td></tr>
 <tr><td>2905.</td><td>Acyclische Alkohole und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate:</td></tr>
-<tr><td>[tab]</td><td>– zur Verwendung als Treibstoff:</td></tr>
-<tr><td>[tab]</td><td>– – gesättigte einwertige Alkohole:</td></tr>
+<tr><td></td><td>– zur Verwendung als Treibstoff:</td></tr>
+<tr><td></td><td>– – gesättigte einwertige Alkohole:</td></tr>
 <tr><td>1110</td><td>– – – Methanol (Methylalkohol)</td></tr>
 <tr><td>1210</td><td>– – – Propan-1-ol (Propylalkohol) und Propan-2-ol (Isopropylalkohol)</td></tr>
 <tr><td>1410</td><td>– – – andere Butanole</td></tr>
 <tr><td>1610</td><td>– – – Octanol (Octylalkohol) und seine Isomere</td></tr>
 <tr><td>1920</td><td>– – – andere</td></tr>
-<tr><td>[tab]</td><td>– – ungesättigte einwertige Alkohole:</td></tr>
+<tr><td></td><td>– – ungesättigte einwertige Alkohole:</td></tr>
 <tr><td>2210</td><td>– – – acyclische Terpenalkohole</td></tr>
 <tr><td>2910</td><td>– – – andere</td></tr>
-<tr><td>2909.</td><td>Ether, Etheralkohole, Etherphenole, Etherphenolalkohole, Alkoholperoxide, Etherperoxide, Ketonperoxide (auch chemisch nicht einheitlich) und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate:</td></tr>
-<tr><td>[tab]</td><td>– zur Verwendung als Treibstoff:</td></tr>
+<tr><td>2909.</td><td>Ether, Etheralkohole, Etherphenole, Etherphenolalkohole, Alkoholperoxide, Etherperoxide, Acetalperoxide und Halbace-talperoxide, Ketonperoxide (auch chemisch nicht einheitlich) und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate:</td></tr>
+<tr><td></td><td>– zur Verwendung als Treibstoff:</td></tr>
 <tr><td>1910</td><td>– – acyclische Ether und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate, andere als Diethylether</td></tr>
 <tr><td>2010</td><td>– – alicyclische Ether und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate</td></tr>
 <tr><td>3010</td><td>– – aromatische Ether und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate</td></tr>
@@ -256,7 +258,7 @@ Anhang*[^t-1]*
 <tr><td>4420</td><td>– – andere Monoalkylether des Ethylenglycols oder des Diethylenglycols</td></tr>
 <tr><td>4910</td><td>– – andere</td></tr>
 <tr><td>5010</td><td>– – Etherphenole, Etherphenolalkohole und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate</td></tr>
-<tr><td>6010</td><td>– – Alkoholperoxide, Etherperoxide, Ketonperoxide und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate</td></tr>
+<tr><td>6010</td><td>– – Alkoholperoxide, Etherperoxide, Acetalperoxide und Halbacetalperoxide, Ketonperoxide und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate</td></tr>
 <tr><td>3807.</td><td>Holzteeröle:</td></tr>
 <tr><td>ex 0000</td><td>– zu Feuerungszwecken</td></tr>
 <tr><td>3811.</td><td>Antiklopfmittel, Antioxidantien, Antigums, Viskositätsverbesserer, Antikorrosivadditive und andere zubereitete Additive für Mineralöle (einschliesslich Treibstoffe) oder für andere zu gleichen Zwecken wie Mineralöle verwendete Flüssigkeiten:</td></tr>
@@ -272,11 +274,11 @@ Anhang*[^t-1]*
 <tr><td>0090</td><td>– andere</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
+[^annexu1-lvlu1-lvl1-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)Anhang
 
 ### 2 Grenzmenge für den Abschluss eines Pflichtlagervertrags
 
 <table>
-<tr><td>Warenbezeichnung</td><td>Menge</td></tr>
+<tr><th>Warenbezeichnung</th><th>Menge</th></tr>
 <tr><td>Dieselöl, Benzin, Heizöl extra-leicht oder Flugpetrol sowie deren Komponenten</td><td>&lt; 3000 m<sup>3</sup></td></tr>
 </table>
