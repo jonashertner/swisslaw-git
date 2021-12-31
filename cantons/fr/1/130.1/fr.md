@@ -4,12 +4,13 @@ number: "130.1"
 title: Loi sur la justice
 short: LJ
 language: fr
-version: 2018-01-01
-valid_until: 2021-12-31
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2017-10-10
 adopted: 2010-05-31
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/130.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6237/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7484/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -20,7 +21,7 @@ Justice – L
 
 (LJ)
 
-du 31.05.2010 (version entrée en vigueur le 01.01.2018)
+du 31.05.2010 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -160,7 +161,7 @@ Décrète:
 
 <sup>1</sup> Le Grand Conseil peut élire des juges professionnels amenés à officier, selon les besoins, auprès des autorités de première instance.
 
-<sup>2</sup> Le Conseil de la magistrature décide de l'affectation des personnes ainsi élues, à la demande des autorités judiciaires concernées et sur le préavis du Tribunal cantonal.
+<sup>2</sup> Le Conseil de la magistrature décide de l'affectation des personnes ainsi élues, à la demande des autorités judiciaires concernées.
 
 #### Art. 10b
 
@@ -467,9 +468,9 @@ Décrète:
 
 **Juges cantonaux**
 
-<sup>1</sup> Le Tribunal cantonal est composé de douze à seize juges et au moins autant de suppléants ou suppléantes.
+<sup>1</sup> Le Tribunal cantonal compte entre douze et seize postes de juges et au moins autant de suppléants ou suppléantes.
 
-<sup>2</sup> La fonction de juge cantonal-e peut être exercée à mi-temps; le nombre de postes à mi-temps est cependant limité à deux équivalents plein-temps au maximum.
+<sup>2</sup> La fonction de juge cantonal‑e peut être exercée à temps partiel, mais au moins à mi-temps; le nombre de postes à temps partiel est cependant limité à quatre équivalents plein-temps au maximum.
 
 #### Art. 38
 
@@ -540,7 +541,7 @@ Décrète:
 
 <sup>1</sup> Les cours siègent d'ordinaire à trois juges.
 
-<sup>2</sup> Elles siègent à cinq juges lorsqu'il s'agit de constater la non-conformité du droit cantonal au droit supérieur, notamment la Constitution fédérale ou la Convention européenne des droits de l'homme; le règlement du Tribunal cantonal peut prévoir d'autres cas.
+<sup>2</sup> Elles siègent à cinq juges lorsqu'il s'agit de constater la non-conformité d'une loi cantonale au droit supérieur, notamment à la Constitution fédérale ou à la Convention européenne des droits de l'homme; le règlement du Tribunal cantonal peut prévoir d'autres cas.
 
 #### Art. 45
 
@@ -703,7 +704,7 @@ Décrète:
 
 <sup>1</sup> Un président ou une présidente du tribunal compétent pour juger de l'affaire au fond est l'autorité de conciliation au sens des articles 197 et suivants CPC.
 
-<sup>2</sup> A la demande d'une partie, un ou une autre juge est saisi-e de l'affaire au fond.
+<sup>2</sup> …
 
 #### Art. 61
 
@@ -728,6 +729,11 @@ Décrète:
 **Autorité de conciliation – Commission de conciliation en matière d'égalité**
 
 <sup>1</sup> Les litiges relevant de la loi fédérale du 24 mars 1995 sur l'égalité entre femmes et hommes (LEg) sont portés devant une autorité de conciliation dont la compétence couvre l'ensemble du territoire cantonal.
+
+<sup>1a</sup> Cette autorité est en outre compétente pour:
+
+- a) traiter l'entier du litige lorsqu'une prétention relevant de la compétence du tribunal des prud'hommes s'ajoute à une prétention fondée sur la loi sur l'égalité;
+- b) traiter les prétentions reconventionnelles fondées sur le droit du travail lorsque le litige initial a été porté devant elle.
 
 <sup>2</sup> L'autorité de conciliation se compose d'un président ou d'une présidente et de son suppléant ou sa suppléante, d'au moins quatre assesseur-e-s et d'au moins quatre assesseur-e-s suppléants.
 
@@ -802,7 +808,7 @@ Décrète:
 - e) de représenter le Ministère public envers l'extérieur;
 - f) d'exercer également les compétences attribuées aux procureur-e-s.
 
-<sup>4</sup> Il ou elle peut former opposition contre les ordonnances pénales des procureur-e-s et des autres autorités pénales et approuve les ordonnances de non-entrée en matière, de suspension et de classement.
+<sup>4</sup> Il ou elle peut former opposition contre les ordonnances pénales des procureur‑e-s et des autres autorités pénales et approuve les ordonnances de classement, à moins qu'elles ne soient consécutives à un retrait de plainte ou à une conciliation aboutie. En outre, il ou elle peut édicter une directive pour régler le contrôle des ordonnances de non-entrée en matière et de suspension.
 
 #### Art. 68
 
@@ -852,7 +858,7 @@ Décrète:
 
 **Composition**
 
-<sup>1</sup> Le Tribunal des mesures de contrainte se compose de six juges professionnels, à savoir deux juges ordinaires et quatre suppléants ou suppléantes. Le Tribunal des mesures de contrainte juge sans greffier ou greffière.
+<sup>1</sup> Le Tribunal des mesures de contrainte se compose de trois juges ordinaires et cinq juges suppléants ou suppléantes.
 
 <sup>2</sup> D'autres juges professionnels, de même que des greffiers ou greffières particulièrement qualifiés, peuvent également fonctionner en qualité de juges du Tribunal des mesures de contrainte.
 
@@ -1283,6 +1289,8 @@ Décrète:
 
 <sup>4</sup> En seconde instance, la procédure a lieu dans la langue de la décision attaquée.
 
+<sup>5</sup> Les parties peuvent s'adresser oralement et par écrit dans la langue officielle de leur choix aux autorités dont la compétence s'étend à l'ensemble du canton, quelle que soit la langue de la procédure.
+
 #### Art. 116
 
 **Langue de la procédure – Cas particuliers pour la procédure civile**
@@ -1313,7 +1321,7 @@ Décrète:
 
 **Langue de la procédure – Traduction**
 
-<sup>1</sup> La personne qui dirige la procédure renvoie, en principe, les écrits d'une partie qui ne sont pas rédigés dans la langue de la procédure, en invitant leur auteur-e à procéder dans cette langue et en l'avertissant que, s'il ou si elle ne le fait pas dans le délai fixé, l'autorité n'entrera pas en matière.
+<sup>1</sup> La personne qui dirige la procédure renvoie, en principe, les écrits d'une partie qui ne sont pas rédigés dans la langue de la procédure, en invitant leur auteur‑e à procéder dans cette langue et en l'avertissant que, s'il ou si elle ne le fait pas dans le délai fixé, l'autorité n'entrera pas en matière. L'article 115 al. 5 est réservé.
 
 <sup>2</sup> Elle peut aussi exiger de la partie qu'elle fournisse une traduction des pièces qui servent de moyens de preuve et qui ne sont pas rédigées dans la langue de la procédure.
 
@@ -1359,7 +1367,7 @@ Décrète:
 
 <sup>4</sup> Afin de pouvoir contrôler périodiquement si les conditions d'un tel remboursement sont remplies, le service chargé des relations avec le Pouvoir judiciaire peut accéder, par voie d'appel, aux données du service cantonal chargé des impôts directs[^123-3] et aux données des offices de poursuite, sous réserve de l'observation des règles découlant de la protection des données. Le Conseil d'Etat en fixe les modalités par voie de règlement.
 
-[^123-1]: Actuellement: Direction de la sécurité et de la justice.
+[^123-1]: Actuellement: Direction de la sécurité, de la justice et du sport.
 [^123-2]: Actuellement: Service de la justice.
 [^123-3]: Actuellement: Service cantonal des contributions.
 
@@ -1766,6 +1774,8 @@ Décrète:
 <sup>1</sup> Les présidents ou présidentes du Tribunal pénal des mineurs sont l'autorité d'exécution pour ce qui concerne la procédure pénale applicable aux mineurs.
 
 <sup>2</sup> Pour l'exécution des peines et des mesures, ils peuvent notamment recourir au service chargé de la protection de la jeunesse[^163-1].
+
+<sup>3</sup> Le président ou la présidente du Tribunal pénal des mineurs peut prononcer des arrêts disciplinaires jusqu'à dix jours à la personne mineure qui, dépendant de cette autorité relativement à l'exécution, fait preuve d'indiscipline grave, se soustrait à l'exécution de la sanction ou de ses conditions ou persiste à s'y opposer. L'arrêt disciplinaire doit être précédé d'un avertissement.
 
 [^163-1]: Actuellement: Service de l'enfance et de la jeunesse.
 

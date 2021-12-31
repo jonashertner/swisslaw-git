@@ -4,12 +4,13 @@ number: "130.1"
 title: Justizgesetz
 short: JG
 language: de
-version: 2018-01-01
-valid_until: 2021-12-31
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2017-10-10
 adopted: 2010-05-31
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/130.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6237/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7484/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -20,7 +21,7 @@ Justizgesetz
 
 (JG)
 
-vom 31.05.2010 (Fassung in Kraft getreten am 01.01.2018)
+vom 31.05.2010 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -160,7 +161,7 @@ beschliesst:
 
 <sup>1</sup> Der Grosse Rat kann Berufsrichterinnen und Berufsrichter wählen, die je nach Bedarf bei den erstinstanzlichen Behörden eingesetzt werden.
 
-<sup>2</sup> Über den Einsatz dieser Richterinnen und Richter entscheidet der Justizrat auf Antrag der betroffenen Gerichtsbehörden und nach Stellungnahme des Kantonsgerichts.
+<sup>2</sup> Über den Einsatz dieser Richterinnen und Richter entscheidet der Justizrat auf Antrag der betroffenen Gerichtsbehörden.
 
 #### Art. 10b
 
@@ -467,9 +468,9 @@ beschliesst:
 
 **Kantonsrichterinnen und Kantonsrichter**
 
-<sup>1</sup> Das Kantonsgericht besteht aus 12 bis 16 Richterinnen und Richtern und mindestens gleich vielen Ersatzrichterinnen und Ersatzrichtern.
+<sup>1</sup> Das Kantonsgericht zählt 12 bis 16 Richterstellen und mindestens gleich viele Ersatzrichterstellen.
 
-<sup>2</sup> Das Amt des Kantonsrichters bzw. der Kantonsrichterin kann in einer 50 %-Stelle ausgeübt werden; es dürfen aber höchstens zwei Vollzeitstellen auf 50 %-Stellen aufgeteilt werden.
+<sup>2</sup> Das Amt der Kantonsrichterin oder des Kantonsrichters kann in Teilzeit ausgeübt werden, mindestens jedoch in einer 50 %-Stelle; die Zahl der Teilzeitstellen ist aber auf 4 Vollzeitäquivalente begrenzt.
 
 #### Art. 38
 
@@ -540,7 +541,7 @@ beschliesst:
 
 <sup>1</sup> Die Gerichtshöfe sind ordentlicherweise mit drei Richterinnen und Richtern besetzt.
 
-<sup>2</sup> Die Gerichtshöfe entscheiden in Fünferbesetzung, ob kantonales Recht höherrangigem Recht widerspricht, insbesondere der Bundesverfassung oder der Europäischen Menschenrechtskonvention. Das Reglement des Kantonsgerichts kann weitere Fälle vorsehen.
+<sup>2</sup> Die Gerichtshöfe entscheiden in Fünferbesetzung, ob ein kantonales Gesetz höherrangigem Recht widerspricht, insbesondere der Bundesverfassung oder der Europäischen Menschenrechtskonvention. Das Reglement des Kantonsgerichts kann weitere Fälle vorsehen.
 
 #### Art. 45
 
@@ -703,7 +704,7 @@ beschliesst:
 
 <sup>1</sup> Schlichtungsbehörde im Sinne der Artikel 197 ff. ZPO ist eine Präsidentin oder ein Präsident des in der Hauptsache zuständigen Gerichts.
 
-<sup>2</sup> Eine Partei kann verlangen, dass in der Hauptsache eine andere Richterin oder ein anderer Richter amtet.
+<sup>2</sup> …
 
 #### Art. 61
 
@@ -728,6 +729,11 @@ beschliesst:
 **Schlichtungsbehörde – Schlichtungsstelle für Gleichstellungsfragen**
 
 <sup>1</sup> Für Streitigkeiten im Bereich des Gleichstellungsgesetzes vom 24. März 1995 (GlG) besteht eine für den ganzen Kanton zuständige Schlichtungsstelle.
+
+<sup>1a</sup> Diese Behörde ist ausserdem zuständig für:
+
+- a) die Behandlung des gesamten Falles, wenn eine Forderung aus dem Zuständigkeitsbereich des Arbeitsgerichts mit einer Forderung auf der Grundlage des Gleichstellungsgesetzes einhergeht;
+- b) die Behandlung von Widerklagen auf der Grundlage des Arbeitsrechts, wenn sie im ursprünglichen Streitfall entschieden hat.
 
 <sup>2</sup> Die Schlichtungsbehörde setzt sich aus einer vorsitzenden Person, einer stellvertretenden vorsitzenden Person, mindestens vier Beisitzenden und mindestens vier Ersatzbeisitzenden zusammen.
 
@@ -802,7 +808,7 @@ beschliesst:
 - e) die Staatsanwaltschaft nach aussen zu vertreten;
 - f) die den Staatsanwältinnen und Staatsanwälten übertragenen Befugnisse wahrzunehmen.
 
-<sup>4</sup> Sie oder er kann gegen die Strafbefehle der Staatsanwältinnen und Staatsanwälte oder anderer Strafverfolgungsbehörden Einsprache erheben und genehmigt die Nichtanhandnahme-, die Sistierungs- und die Einstellungsverfügungen.
+<sup>4</sup> Sie oder er kann gegen die Strafbefehle der Staatsanwältinnen und Staatsanwälte oder anderer Strafverfolgungsbehörden Einsprache erheben und genehmigt die Einstellungsverfügungen, sofern diese nicht nach dem Rückzug einer Klage oder nach einem erfolgreichen Schlichtungsverfahren ergehen. Sie oder er kann zudem eine Richtlinie erlassen, um die Kontrolle von Nichtanhandnahme- und Sistierungsverfügungen zu regeln.
 
 #### Art. 68
 
@@ -852,7 +858,7 @@ beschliesst:
 
 **Zusammensetzung**
 
-<sup>1</sup> Das Zwangsmassnahmengericht wird von sechs Berufsrichtern gebildet; zwei von ihnen sind ordentliche Mitglieder und vier sind Ersatzmitglieder. Das Zwangsmassnahmengericht entscheidet ohne Gerichtsschreiberin oder Gerichtsschreiber.
+<sup>1</sup> Das Zwangsmassnahmengericht wird von drei ordentlichen Richterinnen und Richtern und fünf Ersatzrichterinnen und -richtern gebildet.
 
 <sup>2</sup> Zwangsmassnahmenrichterinnen und -richter können auch andere Berufsrichterinnen und Berufsrichter sowie besonders befähigte Gerichtsschreiberinnen und Gerichtsschreiber sein.
 
@@ -1283,6 +1289,8 @@ beschliesst:
 
 <sup>4</sup> Das Rechtsmittelverfahren wird in der Sprache des angefochtenen Entscheids durchgeführt.
 
+<sup>5</sup> Die Parteien können sich unabhängig von der Verfahrenssprache mündlich und schriftlich in der Amtssprache ihrer Wahl an Behörden wenden, deren Gerichtsbarkeit sich auf das ganze Kantonsgebiet erstreckt.
+
 #### Art. 116
 
 **Verfahrenssprache – Sonderfälle im Zivilverfahren**
@@ -1313,7 +1321,7 @@ beschliesst:
 
 **Verfahrenssprache – Übersetzung**
 
-<sup>1</sup> Die Verfahrensleitung weist Eingaben einer Partei, die nicht in der Verfahrenssprache abgefasst sind grundsätzlich zurück und fordert die Partei auf, sich dieser Sprache zu bedienen; sie droht ihr an, auf die Eingabe nicht einzutreten, falls sie der Aufforderung nicht innert der gesetzten Frist nachkommt.
+<sup>1</sup> Die Verfahrensleitung weist Eingaben einer Partei, die nicht in der Verfahrenssprache abgefasst sind grundsätzlich zurück und fordert die Partei auf, sich dieser Sprache zu bedienen; sie droht ihr an, auf die Eingabe nicht einzutreten, falls sie der Aufforderung nicht innert der gesetzten Frist nachkommt. Artikel 115 Abs. 5 bleibt vorbehalten.
 
 <sup>2</sup> Sie kann von der Partei auch verlangen, von Beweisurkunden, die nicht in der Verfahrenssprache abgefasst sind, eine Übersetzung vorzulegen.
 
@@ -1359,7 +1367,7 @@ beschliesst:
 
 <sup>4</sup> Um periodisch zu überprüfen, ob die Bedingungen für eine solche Rückforderung erfüllt sind, kann das für die Beziehungen zur richterlichen Gewalt zuständige Amt im Abrufverfahren auf die Daten des für die direkten Steuern zuständigen kantonalen Amtes[^123-3] und der Betreibungsämter zugreifen; die Bestimmungen des Datenschutzes bleiben vorbehalten. Der Staatsrat legt die Modalitäten in einem Reglement fest.
 
-[^123-1]: Heute: Sicherheits- und Justizdirektion.
+[^123-1]: Heute: Sicherheits-, Justiz- und Sportdirektion.
 [^123-2]: Heute: Amt für Justiz.
 [^123-3]: Heute: Kantonale Steuerverwaltung.
 
@@ -1766,6 +1774,8 @@ beschliesst:
 <sup>1</sup> Die Präsidentinnen und Präsidenten des Jugendstrafgerichts sind die Vollzugsbehörde im Sinne der Jugendstrafprozessordnung.
 
 <sup>2</sup> Zum Vollzug der Strafen und Massnahmen verfügen sie insbesondere über das für den Jugendschutz zuständige Amt[^163-1].
+
+<sup>3</sup> Die Präsidentin oder der Präsident des Jugendstrafgerichts kann Disziplinararreste von bis zu zehn Tagen verfügen, wenn Jugendliche, die beim Vollzug dieser Behörde unterstehen, schwere Disziplinlosigkeit zeigen, sich dem Vollzug der Sanktion oder deren Bedingungen entziehen oder sich diesem dauerhaft widersetzen. Dem Disziplinararrest muss eine Verwarnung vorangehen.
 
 [^163-1]: Heute: Jugendamt.
 
