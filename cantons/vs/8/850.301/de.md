@@ -1,195 +1,375 @@
 ---
 canton: VS
 number: "850.301"
-title: Ausführungsreglement zum Gesetz über die Eintreibung von Unterhaltsbeiträgen und die Entrichtung von Vorschüssen
+title: Verordnung über das Inkasso und die Bevorschussung von Unterhaltsbeiträgen
 short: VIBU
 language: de
-version: 2012-12-12
-corrected: 2020-02-11
-version_adopted: 2012-05-16
+version: 2022-01-01
+version_adopted: 2021-12-01
 adopted: 2021-12-01
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/850.301"
-pdf: "https://lex.vs.ch/api/de/versions/156/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2989/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ausführungsreglement zum Gesetz über die Eintreibung von Unterhaltsbeiträgen und die Entrichtung von Vorschüssen
+# Verordnung über das Inkasso und die Bevorschussung von Unterhaltsbeiträgen
 
-vom 15. April 1981
+(VIBU)
+
+vom 01.12.2021 (Stand 01.01.2022)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen die Artikel 7 und 12 des Gesetzes über die Eintreibung von Unterhaltsbeiträgen und die Entrichtung von Vorschüssen;
+eingesehen Artikel 57 Absatz 2 der Kantonsverfassung;
 
-auf Antrag des Justiz- und Polizeidepartementes,
+eingesehen das Gesetz über das Inkasso und die Bevorschussung von Unterhaltsbeiträgen vom 11. Februar 2021 (GIBU);
 
-beschliesst:
+eingesehen die Bundesverordnung über die Inkassohilfe bei familienrechtlichen Unterhaltsansprüchen vom 6. Dezember 2019 (InkHV);
+
+auf Vorschlag des mit dem Sozialwesen beauftragten Departements,
+
+verordnet:[^ingress-1]
+
+[^ingress-1]: In der vorliegenden Verordnung gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Frau oder Mann
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
-<sup>2</sup> Amt für die Eintreibung und Vorschüsse von Unterhaltsbeiträgen
+**Zweck**
 
-<sup>1</sup> Das Amt für Eintreibung und Vorschüsse von Unterhaltsbeiträgen (nachfolgend mit Amt bezeichnet) steht den Personen zur Verfügung, die im Kanton Wallis ständig wohnhaft oder niedergelassen sind und welche die Unterhaltsbeiträge nicht regelmässig erhalten können, auf die sie Anrecht haben.
+<sup>1</sup> Zweck dieser Verordnung ist die Umsetzung und Ergänzung der Bestimmungen des Gesetzes über das Inkasso und die Bevorschussung von Unterhaltsbeiträgen (GIBU) sowie der Bestimmungen der Bundesverordnung über die Inkassohilfe bei familienrechtlichen Unterhaltsansprüchen (InkHV).
 
-<sup>2</sup> Der Gläubiger von Unterhaltsbeiträgen kann dem Amt ausserdem ausdrücklich den Auftrag erteilen, die Unterhaltsbeiträge, die in den zwölf Monaten, bevor er das Gesuch gestellt hat, fällig geworden sind, einzukassieren.
+<sup>2</sup> Diese Verordnung regelt auch die Verfahren zum Inkasso und zur Eintreibung von Forderungen der Inkasso- und Bevorschussungsstelle (nachfolgend: IBU) abweichend von der Verordnung zum Inkasso- und Eintreibungsverfahren.
+
+## 2 Inkasso
 
 #### Art. 2
 
-**Befugnisse und Aufgaben**
+**Zur Eröffnung des Dossiers erforderliche Unterlagen (Art. 8 Abs. 4 GIBU und 9 InkHV)**
 
-Das Amt hat die folgenden Befugnisse:
+<sup>1</sup> Die IBU erstellt eine Liste der zur Eröffnung eines Dossiers erforderlichen Unterlagen. Das Gesuch um Inkassohilfe muss die in Artikel 9 InkHV aufgeführten Informationen und Unterlagen enthalten. Die IBU benötigt zur Erfüllung ihrer Aufgabe insbesondere folgende weitere Unterlagen:
 
-- a) Es berät die Gesuchsteller über ihre Rechte und über die Mittel, um diese geltend zu machen;
+- a) Wohnsitzbescheinigung des Gläubigers;
+- b) Identitätsausweis bei Gläubigern Schweizer Nationalität bzw. Aufenthaltstitel bei Personen ausländischer Nationalität;
+- c) Bekanntgabe, ob bereits ein Verfahren in Zusammenhang mit den Unterhaltsbeiträgen gegen den Schuldner anhängig ist;
+- d) Schul-/Studienbescheinigung, Ausbildungsverlauf und Ausbildungsplan, wenn der Gläubiger ein Kind über 16 Jahren ist.
 
-- b) Auf Wunsch hin verfasst es Briefe, Aufforderungen, Betreibungsbegehren, Begehren an die Schuldner, Gesuche um Anwendung der New-Yorker Konvention oder notwendige Strafklagen;
-
-- c) Durch Bevollmächtigung und als Mandatar kann es alle nützlichen, gerichtliche oder andere Vorkehrungen treffen;
-
-- d) Wenn die Umstände es rechtfertigen und die im Gesetz und im vorliegenden Reglement vorgesehenen Bedingungen erfüllt sind, gewährt es Vorschüsse.
+<sup>2</sup> Wenn der Schuldner im Ausland wohnhaft ist und ein Gesuch um Inkasso der Beiträge im Ausland gerechtfertigt ist, kann die IBU darüber hinaus die zusätzlichen erforderlichen Unterlagen anfordern.
 
 #### Art. 3
 
-**Gesuche um Vorschüsse**
+**Dossiereröffnungsgespräch**
 
-<sup>1</sup> Will eine Person einen Vorschuss erhalten, unterbreitet sie dem Amt ein Gesuch, indem sie namentlich den Entscheid des Richters oder die Vereinbarung vorlegt, die den Unterhaltsbeitrag bestimmt.
-
-<sup>2</sup> Die Vorschussgesuche, die sich auf die Artikel 276 und folgende des Schweizerischen Zivilgesetzbuches stützen, sind vom gesetzlichen Vertreter vorzulegen.
-
-<sup>3</sup> Das Amt gewährt Vorschüsse nur insofern, als der Gesuchsteller und die begünstigten Kinder tatsächlich in der Schweiz wohnen.
+<sup>1</sup> Wenn der IBU alle erforderlichen Unterlagen vorliegen, können der Gläubiger oder sein gesetzlicher Vertreter zu einem Gespräch zwecks Dossiereröffnung eingeladen werden.
 
 #### Art. 4
 
-<sup>3</sup> Einkommens- und Vermögensgrenze und Betrag der Vorschüsse
+**Informationspflicht des Gläubigers in Sachen Inkasso (Art. 10 InkHV)**
 
-<sup>1</sup> Vorschüsse können zum Zeitpunkt der Gesuchstellung nur gewährt werden, wenn das jährliche steuerpflichtige Einkommen und prinzipiell das steuerpflichtige Vermögen des Gesuchstellers folgende Grenzen nicht übersteigt:
+<sup>1</sup> Der Gläubiger hat die IBU unverzüglich zu informieren, insbesondere:
 
-**III IV**
-
-Betrag des Vorschusses pro Kind Fr. 550.- Fr. 450.- Fr. 350.- Fr. 250.- I II Grenzen des jährlichen steuerpflichtigen Einkommens und des Vermögens alleinstehende Person Fr. 32'000.- Fr. 40'000.- Fr. 50'000.- Fr. 60'000.- in gemeinsamem Haushalt lebende Fr. 40'000.- Fr. 48'000.- Fr. 58'000.- Fr. 66'000.- Person unterstützungspflichtiges Kind Fr. 6'500.- Fr. 6'500.- Fr. 6'500.- Fr. 6'500.- Vermögen Fr. 65'000.- Fr. 65'000.- Fr. 65'000.- Fr. 65'000.- Betrag des Vorschusses pro Fr. 480.- Fr. 400.- Fr. 320.- Fr. 240.- berechtigten Erwachsenen I II Grenzen des jährlichen steuerpflichtigen Einkommens und des Vermögens alleinstehende Person Fr. 32'000.- Fr. 40'000.- Fr. 50'000.- Fr. 60'000.- in gemeinsamem Haushalt lebende Fr. 40'000.- Fr. 48'000.- Fr. 58'000.- Fr. 66'000.- Person unterstützungspflichtiges Kind Fr. 6'500.- Fr. 6'500.- Fr. 6'500.- Fr. 6'500.- Vermögen Fr. 65'000.- Fr. 65'000.- Fr. 65'000.- Fr. 65'000.-
-
-**III IV**
-
-<sup>2</sup> Das berücksichtigte Einkommen und das berücksichtigte Vermögen entspricht dem jährlichen Nettoeinkommen und dem steuerbaren Vermögen, d.h.:
-
-- a) alle Bar- und Naturaleinkünfte aus einer unselbständigen oder/und selbständigen Erwerbstätigkeit, von denen die Beiträge an AHV, IV, EO, ALV und die Beiträge an die berufliche Vorsorge abgezogen werden;
-
-- b) Familienzulagen;
-
-- c) der steuerbare Ertrag aus mobilem und Immobilienvermögen;
-
-- d) die Leibrenten und andere ähnliche periodische Einkünfte;
-
-- e) alle Einkünfte aus Sozialversicherungen oder beruflicher Vorsorge, einschliesslich der Ergänzungsleistungen zu AHV/IV;
-
-- f) andere Einkünfte mit Ausnahme der Alimente und Unterhaltsbeiträge, für die der Gläubiger Vorschüsse beantragt, und von Stipendien;
-
-- g) die Grundstückgewinne.
-
-<sup>3</sup> Das Gehalt von minderjährigen oder volljährigen Kindern, die mit dem Empfänger zusammenleben und für die er noch unterstützungspflichtig ist, wird bei der Berechnung des Familieneinkommens nur gezählt, wenn es 500 Franken monatlich übersteigt.
+- a) wenn Unterhaltsbeiträge vollständig oder teilweise direkt an ihn bezahlt werden, ohne dass der Betrag zunächst über die IBU geht;
+- b) über die bestehende oder künftige Zahlung einer Kinderrente der AHV/IV in Zusammenhang mit der Rente des Schuldners;
+- c) über jegliche Veränderungen der Einnahmen und des Vermögens des volljährigen Kindes;
+- d) über jegliche Wohnsitzänderungen einer der Personen, denen der Unterhaltsbeitrag zusteht;
+- e) über jegliche Abänderungen des Unterhaltstitels oder des Sorgerechts sowie über jegliche laufenden Gerichtsverfahren, die die Unterhaltspflicht betreffen;
+- f) über jegliche Umstände, durch die sich der Anspruch auf den Unterhaltsbeitrag ändern kann, insbesondere bei Beendigung der Ausbildung, Änderung des Ausbildungsplans oder Wiederverheiratung;
+- g) über jegliche die finanzielle, wirtschaftliche und persönliche Lage des Schuldners betreffende Umstände, die zur Erleichterung des Inkassos oder Änderung des Anspruchs auf den Unterhaltsbeitrag geeignet sind.
 
 #### Art. 5
 
-**Auskunftspflicht**
+**Beizug von Inkassounternehmen (Art. 9 Abs. 2 GIBU)**
 
-<sup>1</sup> Der Gesuchsteller ist verpflichtet, alle notwendigen Unterlagen abzugeben, vor allem eine Kopie seiner letzten Steuererklärung und seines letzten Bordereaus der direkten Steuer.
+<sup>1</sup> Die IBU kann Inkassounternehmen beiziehen:
 
-<sup>2</sup> Er muss ebenfalls alle Angaben machen, die dazu geeignet sind, das Vorgehen gegen den Schuldner zu erleichtern.
-
-<sup>3</sup> Die Vorschüsse können verweigert oder annulliert werden, wenn der Gesuchsteller wichtige Tatbestände verschweigt, notwendige Unterlagen verheimlicht oder die Arbeit des Amtes verhindert oder seine Einkommensmöglichkeiten auf ungerechtfertigte Weise herabsetzt. Das Amt kann jederzeit von den in Artikel 3 des Gesetzes vorgesehenen Sozialämtern einen Bericht verlangen.
+- a) wenn der Schuldner im Ausland wohnhaft ist, oder
+- b) um Informationen zur finanziellen Situation oder zum Wohnsitz des Schuldners zu erhalten, oder
+- c) um durch Verlustscheine, Schuldanerkennungen oder ähnliche Titel gesicherte Forderungen einzutreiben, wenn der laufende Unterhaltsbeitrag nicht mehr geschuldet wird oder das Mandat der IBU beendet ist.
 
 #### Art. 6
 
-<sup>1,2</sup> Beginn und Ende der Vorschüsse
+**Von den Inkassounternehmen zu erfüllende Voraussetzungen (Art. 9 Abs. 2 GIBU)**
 
-Vorschüsse können nur auf Unterhaltsbeiträge zugesprochen werden, die vom Monat an geschuldet werden, der auf die Einreichung des Gesuchs folgt. Sie werden grundsätzlich erstmalig für einen Zeitraum von zwölf Monaten gewährt. Anschliessend können sie jährlich erneuert werden. Das Recht auf Vorschüsse erlischt, wenn:
+<sup>1</sup> Die beigezogenen Inkassounternehmen:
 
-- a) das Recht auf Unterhaltsbeiträge erlischt;
-
-- b) der Gläubiger die Einkommens- und Vermögensgrenzen übersteigt;
-
-- c) das volljährige Kind das erfüllte zwanzigste Lebensjahr erreicht hat;
-
-- d) der berechtigte Ehegatte das Alter erreicht hat, von dem an er Anrecht auf Leistungen der AHV hat.
-
-[^6-1]: Änderung vom 16.05.2012 Abl. Nr. 5/2013 12.12.2012
+- a) dürfen keine Massnahmen zur Einschüchterung des Schuldners durchführen;
+- b) müssen vermeiden, dem Schuldner übermässige und ungerechtfertigte Kosten in Rechnung zu stellen;
+- c) müssen der Löschung der Betreibung zustimmen vorbehaltlich der Begleichung der Kosten für Zeitaufwand und aufgewandte Ausgaben;
+- d) müssen die Datensicherheit garantieren;
+- e) dürfen die personenbezogenen Daten ausschliesslich zum Inkasso der Forderung verwenden.
 
 #### Art. 7
 
-**Aufgehoben**[^6-1]
+**Inkassounternehmen und Honorare (Art 10 Abs. 2 GIBU)**
+
+<sup>1</sup> Bei einem Beizug von Inkassounternehmen werden die Honorare im Verhältnis zur Höhe ihrer Forderung auf den Staat und den Gläubiger verteilt.
 
 #### Art. 8
 
-<sup>2</sup> Rückerstattung
+**Kosten (Art. 17 ff. InkHV)**
 
-<sup>1</sup> Der Gläubiger ist gehalten, unberechtigterweise eingezogene Vorschüsse zurückzuerstatten.
+<sup>1</sup> Wenn Dritte zur Vollstreckung von Unterhaltsbeiträgen intervenieren oder Leistungen erbringen, sind die Kosten vom Schuldner zu tragen.
 
-<sup>2</sup> Wenn der Berechtigte die Tätigkeit des Amtes behindert, indem er insbesondere willentlich ungenaue Auskünfte gibt, kann er gezwungen werden, die gewährten Vorschüsse ganz oder teilweise zurückzuzahlen.
+<sup>2</sup> Ist es nicht möglich, die Erstattung der Kosten vom Schuldner zu erwirken, kann die IBU die Kosten Dritter in Zusammenhang mit einem Verfahren im Ausland und die Übersetzungskosten dem Gläubiger in Rechnung stellen, wenn dieser über ausreichende Mittel verfügt.
 
-<sup>3</sup> Ausser in offensichtlichen Härtefällen kann das Amt in vernünftigem Mass die unberechtigterweise erhaltenen Beträge auf die künftigen Leistungen anrechnen.
+<sup>3</sup> Die Mittel des Gläubigers gelten als ausreichend, wenn er über ein anrechenbares Einkommen verfügt, mit dem er keinen Anspruch auf eine Bevorschussung von Unterhaltsbeiträgen auf Grundlage von Artikel 16 hat.
+
+<sup>4</sup> Wenn der IBU aufgrund einer Verletzung der Informationspflicht des Gläubigers Kosten entstehen, können diese dem Gläubiger unabhängig von seinen finanziellen Mitteln in Rechnung gestellt werden.
+
+<sup>5</sup> Bei der Durchsetzung eines Gesuchs einer ausländischen Behörde zur Feststellung des Kindesverhältnisses oder einer Unterhaltspflicht gegenüber einem Ehepartner oder einem Kind gemäss den internationalen Abkommen werden die Kosten, insoweit gemäss den internationalen Abkommen zulässig, dem Gläubiger in Rechnung gestellt.
 
 #### Art. 9
 
-**Verwendung der rückvergüteten Beträge**
+**Anrechnung eingehender Zahlungen (Art. 10 GIBU)**
 
-Die nachträglich durch das Amt eingezogenen Unterhaltsbeiträge werden in erster Linie zur Deckung der gewährten Vorschüsse und gegebenenfalls für die entstandenen Kosten verwendet.
+<sup>1</sup> Die für den laufenden Unterhaltsbeitrag eingehenden Beträge werden vorrangig zur Deckung des gewährten Vorschusses für den laufenden Monat verwendet.
+
+## 3 Vorschüsse
 
 #### Art. 10
 
-**Vorgehen des Amtes**
+**Anspruch auf Bevorschussung (Art. 11 GIBU)**
 
-<sup>1</sup> Das Amt benachrichtigt sofort den Schuldner des Unterhaltsbeitrages, dass es einen Vorschuss zugesprochen hat, und dass es in die Rechte des Gläubigers tritt.
+<sup>1</sup> In einer wirtschaftlich schwierigen Situation befindet sich der Gläubiger, wenn sein anrechenbares Einkommen und sein Vermögen unter den in Artikel 16 dieser Verordnung vorgesehenen Grenzen liegen.
 
-<sup>2</sup> Es trifft alle nützlichen Massnahmen, die dazu dienen, von den Schuldnern die Zahlung des Unterhaltsbeitrages, sowie die Rückerstattung der Vorschüsse, der Zinse und der Unkosten zu erwirken.
-
-<sup>3</sup> Wenn die Verhältnisse des Interessierten es erfordern und sein Einverständnis oder jenes seines gesetzlichen Vertreters vorliegt, kann das Amt bei Organisationen oder hilfsbereiten Personen alle Vorkehren treffen und die im Artikel 3 des Gesetzes vorgesehenen sozialen Einrichtungen beanspruchen.
+<sup>2</sup> Das anrechenbare Einkommen wird unter Berücksichtigung der wirtschaftlichen Situation der Personen, die der wirtschaftlichen Bezugseinheit (nachfolgend: WBE) im Sinne von Artikel 11 dieser Verordnung angehören, ermittelt.
 
 #### Art. 11
 
-**Entscheid**
+**Wirtschaftliche Bezugseinheit**
 
-<sup>1</sup> Das Amt entscheidet gemäss den Verfahrensbestimmungen der kantonalen Gesetzgebung. Die Entscheide über Vorschüsse sind grundsätzlich ein Jahr gültig. Alle neu eintretenden Tatbestände, welche die Lage des Schuldners oder des Berechtigten beeinflussen, berechtigen jedoch das Amt zu einem neuen Entscheid.
+<sup>1</sup> Die WBE der volljährigen Kinder mit eigenem Haushalt, d.h. diejenigen, die selbst ein Kind haben oder verheiratet oder in einer eingetragenen Partnerschaft sind oder waren, und der Ex-Ehepartner besteht aus folgenden Personen:
 
-<sup>2</sup> Jede Veränderung der Situation (Heirat, Volljährigkeit, Tod, neuer Arbeitgeber usw.), sowohl des Gläubigers als auch des Schuldners, ist dem Amt durch die Personen, die daraus irgendeinen Nutzen ziehen könnten, unverzüglich zu melden.
+- a) dem Inhaber des Unterhaltsanspruchs, für den das Bevorschussungsgesuch gestellt wird;
+- b) seinem Ehepartner oder eingetragenen Partner. Getrennte Personen fallen nicht darunter;
+- c) seinem Konkubinatspartner, mit dem er zusammenwohnt, sofern das Konkubinat stabil ist. Das Konkubinat gilt als stabil im Sinne dieser Verordnung, wenn alternativ:
+  - 1\. die Konkubinatspartner ein gemeinsames Kind haben oder erwarten,
+  - 2\. sie seit mehr als 2 Jahren zusammenleben,
+  - 3\. andere Elemente auf die Stabilität der Beziehung schliessen lassen;
+- d) ihren minderjährigen Kindern und ihren volljährigen Kindern in Ausbildung, die noch keine geeignete Ausbildung haben, und die mit ihnen in einer Wohnung leben oder
+- e) ihren minderjährigen Kindern und ihren volljährigen Kindern in Ausbildung, die noch keine geeignete Ausbildung haben, aus Ausbildungsgründen in einer anderen Wohnung wohnen, aber ihren zivilrechtlichen Wohnsitz noch unter der Anschrift des Anspruchsinhabers haben.
 
-<sup>3</sup> Das Amt übermittelt ein Doppel seines Entscheides an die interessierten Personen und Organe, insbesondere an die Gemeinde.
+<sup>2</sup> Die WBE der minderjährigen Kinder und der volljährigen Kinder in Ausbildung ohne eigenen Haushalt ist das Elternteil, das das Sorgerecht hat, bzw. das Elternteil, bei dem sie leben.
+
+<sup>3</sup> Bei der Bestimmung des anrechenbaren Einkommens wird das Einkommen der minderjährigen Kinder nicht berücksichtigt.
 
 #### Art. 12
 
-<sup>3</sup> Indexierung
+**Vorschüsse für Ex-Ehepartner (Art. 11 Abs. 2 GIBU)**
 
-Die in Artikel 4 dieses Reglements festgelegten Beträge werden jährlich dem Landesindex der schweizerischen Konsumentenpreise angepasst.
+<sup>1</sup> Ex-Ehepartner, die eine Altersrente der Alters- und Hinterlassenenversicherung (AHV) beziehen, haben keinen Anspruch auf Vorschüsse mehr.
 
 #### Art. 13
 
-**Gegenseitigkeit**
+**Bevorschussungsentscheid (Art. 11 Abs. 6 GIBU)**
 
-Das Amt interveniert auch, im Sinne von Artikel 2 auf Ersuchen der zuständigen Behörde eines andern Kantons, der Gegenrecht gewährt, gegen einen im Kanton wohnhaften Schuldner.
-
-[^13-1]: Änderung vom 8.02.2006 Abl. Nr. 13/2006 1.01.2006
+<sup>1</sup> Die IBU lässt den betroffenen Personen und Organen, namentlich der Wohnsitzgemeinde des Empfängers, eine Kopie ihres Bevorschussungsentscheids zukommen.
 
 #### Art. 14
 
-**Aufgehoben**[^13-1]
+**Aufenthaltstitel (Art. 13 GIBU)**
+
+<sup>1</sup> Wenn der Vorschussempfänger über einen Aufenthaltstitel verfügt, dessen Verlängerung noch hängig ist, setzt die IBU die Ausrichtung der Vorschüsse aus, es sei denn, der Empfänger hat eine Niederlassungsbewilligung.
+
+<sup>2</sup> Wenn eine Kopie des verlängerten Aufenthaltstitels der IBU innerhalb von 3 Monaten nach dessen Ablauf eingereicht wird, werden die Vorschüsse rückwirkend ausgerichtet.
 
 #### Art. 15
 
-<sup>2</sup> Schlussbestimmungen
+**Verpflichtungen des Vorschussempfängers (Art. 14 GIBU)**
 
-Das Departement für Gesundheit, Sozialwesen und Energie ist mit der Ausführung dieses Reglements beauftragt. Der Staatsrat setzt das Inkrafttreten dieses Reglements fest.
+<sup>1</sup> Der Empfänger oder sein gesetzlicher Vertreter müssen die IBU über sämtliche Umstände aus Artikel 4 informieren. Er ist ausserdem gehalten, jegliche sonstigen eines der Mitglieder der WBE betreffenden neuen Tatsachen, die sich möglicherweise auf seinen Anspruch auf Vorschüsse auswirken, unverzüglich zu melden, namentlich:
 
-So angenommen in der Sitzung des Staatsrates am 15. April 1981.
+- a) eine Änderung der Zusammensetzung der WBE (insbesondere Konkubinat mit einem Dritten, Wiederaufnahme des Zusammenlebens mit dem Schuldner des Unterhaltsbeitrags, Hinzukommen oder Wegfallen eines Kindes);
+- b) eine Änderung des Zivilstands.
 
-Der Präsident des Staatsrates: H. Wyer Der Staatskanzler: G. Moulin
+#### Art. 16
 
-Im Grossen Rat genehmigt am 13. Mai 1981; die Änderung vom 16. Mai 2012 wurde am 12. Dezember 2012 genehmigt.
+**Höhe der Vorschüsse (Art. 15 GIBU)**
 
-### Titel und Änderungen Veröffentlichung Inkrafftreten
+<sup>1</sup> Die maximale monatliche Höhe des Vorschusses wird anhand des anrechenbaren Einkommens der WBE gemäss der folgenden Tabelle festgelegt:
 
-GS/VS 1982, 193 28.08.1982
+<table>
+<tr><th>Jahreseinkommen alleinstehende Person</th><th>Jahreseinkommen Paar</th><th>Vorschuss für Ex-Ehepartner</th><th>Vorschuss für 1 Kind</th><th>Vorschuss für 2 Kinder</th><th>Vorschuss für 3 Kinder</th><th>Vorschuss ab 4 Kindern / pro zusätzlichem Kind</th></tr>
+<tr><td>&lt;27'000</td><td>&lt;36'000</td><td>480</td><td>950</td><td>1663</td><td>2138</td><td>238</td></tr>
+<tr><td>&lt;30'000</td><td>&lt;40'000</td><td>430</td><td>850</td><td>1488</td><td>1913</td><td>213</td></tr>
+<tr><td>&lt;33'000</td><td>&lt;44'000</td><td>380</td><td>750</td><td>1313</td><td>1688</td><td>188</td></tr>
+<tr><td>&lt;36'000</td><td>&lt;48'000</td><td>330</td><td>650</td><td>1138</td><td>1463</td><td>163</td></tr>
+<tr><td>&lt;39'000</td><td>&lt;52'000</td><td>280</td><td>550</td><td>963</td><td>1238</td><td>138</td></tr>
+<tr><td>&lt;42'000</td><td>&lt;56'000</td><td>230</td><td>450</td><td>788</td><td>1013</td><td>113</td></tr>
+<tr><td>&lt;45'000</td><td>&lt;60'000</td><td>180</td><td>350</td><td>613</td><td>788</td><td>88</td></tr>
+<tr><td>&lt;48'000</td><td>&lt;64'000</td><td>130</td><td>250</td><td>438</td><td>563</td><td>63</td></tr>
+<tr><td>&lt;51'000</td><td>&lt;68'000</td><td>80</td><td>150</td><td>263</td><td>338</td><td>38</td></tr>
+<tr><td>&lt;54'000</td><td>&lt;72'000</td><td>30</td><td>50</td><td>88</td><td>113</td><td>13</td></tr>
+</table>
 
-## Weitere Fussnoten
+<sup>2</sup> Der gewährte Betrag kann jedoch die Höhe der im Unterhaltstitel festgelegten Unterhaltsbeiträge nicht übersteigen.
 
-- [1] Änderung vom 11.03.1998 GS/VS 1998, 312 3.04.1998
+<sup>3</sup> Es wird keinerlei Vorschuss gewährt, wenn das Nettovermögen der WBE mehr als 65'000 Franken beträgt. Die pauschalen Abzüge der Steuerveranlagungen sind für die gesamte WBE auf 60'000 begrenzt.
+
+<sup>4</sup> Vorschüsse von insgesamt weniger als 100 Franken werden nicht gewährt.
+
+#### Art. 17
+
+**Anrechenbares Einkommen**
+
+<sup>1</sup> Das anrechenbare Einkommen, das den Anspruch auf Vorschüsse begründet, basiert auf dem Nettoeinkommen vor den persönlichen Abzügen (Ziffer 2400) gemäss der zum Zeitpunkt des Bevorschussungsentscheids neusten verfügbaren endgültigen Veranlagungsverfügung:
+
+- a) zuzüglich der Beiträge an anerkannte Formen der gebundenen Selbstvorsorge (Säule 3a) bis zur Höhe des für Angestellte zulässigen Maximalbetrags, der negativen Einkünfte aus Immobilienvermögen sowie der nicht verrechneten Verluste aus selbständiger Tätigkeit;
+- b) abzüglich der gezahlten Unterhaltsbeiträge, der gemäss der Steuerveranlagung erhaltenen Unterhaltsbeiträge sowie der erhaltenen Kapitalleistungen und der Abzüge für zu unterstützende Kinder gemäss der Steuerveranlagung.
+
+<sup>2</sup> Wenn keine endgültige Veranlagung für die 2 Jahre vor dem Bevorschussungsgesuch vorhanden ist, wird das anrechenbare Einkommen anhand der Einkommen so wie bei quellenbesteuerten Personen berechnet.
+
+<sup>3</sup> Wenn ein Bevorschussungsgesuch gestellt wurde und der Gesuchsteller Einsprache oder Beschwerde gegen die Veranlagungsverfügung eingereicht hat, kann die IBU die Differenz der Vorschüsse rückwirkend ausrichten, wenn der Einsprache bzw. Beschwerde stattgegeben wird.
+
+#### Art. 18
+
+**Ermessensveranlagung**
+
+<sup>1</sup> Das auf einer Ermessensveranlagung basierende anrechenbare Einkommen begründet keinen Anspruch auf Vorschüsse.
+
+<sup>2</sup> Jedoch kann die IBU im 1. Jahr Vorschüsse entsprechend der Tabelle aus Artikel 16 auf Basis einer Ermessensveranlagung ausrichten, wenn die Einnahmen und das Vermögen der berechtigten Person nicht höher sind als in der Ermessensveranlagung festgesetzt. Die berechtigte Person muss sämtliche Einkommensbelege, insbesondere ihren Lohnausweis, einreichen.
+
+#### Art. 19
+
+**Quellenbesteuerte Personen**
+
+<sup>1</sup> Bei quellenbesteuerten Personen entspricht das anrechenbare Einkommen 80 Prozent des zu versteuernden Bruttoeinkommens, von dem die gezahlten Unterhaltsbeiträge sowie 6'500 Franken pro zu unterstützendem Kind abgezogen werden.
+
+<sup>2</sup> Das anrechenbare Einkommen basiert auf der neusten verfügbaren Quellensteuerbescheinigung.
+
+#### Art. 20
+
+**Einkommensrückgang**
+
+<sup>1</sup> Wenn das anrechenbare Einkommen der WBE dauerhaft um 30 Prozent oder mehr gesunken ist, kann sich die IBU auf begründetes Gesuch hin auf diese neue Situation stützen. Wenn noch keine neue endgültige Veranlagung erstellt wurde, kann sich die IBU vorläufig auf die Steuererklärung des Mitglieds der WBE stützen, dessen Situation sich wesentlich verändert hat.
+
+<sup>2</sup> Die Änderung tritt in dem Monat in Kraft, der auf die Einreichung aller zur Berechnung des neuen Anspruchs auf die Vorschüsse erforderlichen Unterlagen folgt.
+
+#### Art. 21
+
+**Modalitäten der Ausrichtung der Vorschüsse (Art. 16 GIBU)**
+
+<sup>1</sup> Übernimmt ein Gemeinwesen den Unterhalt des Kindes in Höhe des Vorschusses oder darüber hinaus, insbesondere im Falle von platzierten Kindern, erhält es die Vorschüsse in voller Höhe.
+
+<sup>2</sup> Schulden sich die Eltern gegenseitig Unterhaltsbeiträge, namentlich für Kinder, die jeweils bei einem der beiden Elternteile sind, wird bis zur Höhe des niedrigsten Unterhaltsbeitrags kein Vorschuss bezahlt.
+
+#### Art. 22
+
+**Beginn der Vorschüsse (Art. 17 GIBU)**
+
+<sup>1</sup> Die Bevorschussung der Unterhaltsbeiträge kann ab dem Monat, der auf die Einreichung aller zur Festsetzung des Anspruchs erforderlichen Dokumente folgt, gewährt werden.
+
+<sup>2</sup> Ist der Empfänger ein volljährig gewordenes Kind, können die Vorschüsse ab dem auf das Erreichen der Volljährigkeit folgenden Monat rückwirkend gewährt werden, sofern der IBU alle geforderten Unterlagen bis zum Ende des auf das Erreichen der Volljährigkeit folgenden Monats eingereicht wurden.
+
+<sup>3</sup> Wenn der Empfänger ins Wallis umzieht, können die Vorschüsse rückwirkend gewährt werden, sofern der IBU alle geforderten Unterlagen bis zum Ende des auf die Anmeldung in der Wohnsitzgemeinde folgenden Monats eingereicht wurden.
+
+<sup>4</sup> Werden die Vorschüsse nicht oder nicht mehr ausgerichtet, weil der Schuldner den laufenden Unterhaltsbeitrag jeden Monat entrichtet, und stellt er die Zahlungen anschliessend ein oder bezahlt er diese unregelmässig, können die Vorschüsse ab dem Zahlungsunterbruch wiederaufgenommen werden, sofern der IBU alle geforderten Unterlagen bis zum Ende des Folgemonats eingereicht wurden.
+
+#### Art. 23
+
+**Aussetzung der Ausrichtung der Vorschüsse (Art. 18 Abs. 2 GIBU)**
+
+<sup>1</sup> Wenn es die Situation nicht oder nicht mehr ermöglicht, den Anspruch auf die Vorschüsse zu bestimmen, setzt die IBU dem Gesuchsteller eine Frist zur Einreichung der erforderlichen Informationen und Unterlagen. Bis zu ihrem Erhalt kann sie die Ausrichtung von Vorschüssen aussetzen.
+
+<sup>2</sup> Gehen die Unterlagen und Informationen innerhalb der festgelegten Frist ein, kann die Ausrichtung der Vorschüsse ab dem Unterbruch wiederaufgenommen werden. Andernfalls wird die Ausrichtung für die Zukunft ab dem auf den Eingang aller geforderten Unterlagen folgenden Monat wiederaufgenommen.
+
+<sup>3</sup> Wenn der Gesuchsteller wichtige Tatsachen verschweigt oder zweckmässige Unterlagen verschleiert, können die Vorschüsse verweigert oder gestrichen werden und die Rückerstattung der unberechtigten Beträge verlangt werden.
+
+#### Art. 24
+
+**Veränderung der familiären Situation (Art. 19 GIBU)**
+
+<sup>1</sup> Im Falle einer Veränderung der familiären Situation wird diese unverzüglich berücksichtigt. Wenn durch diese neue Situation jedoch ein Anspruch auf höhere Vorschüsse für den Empfänger entsteht, wird sie erst ab dem Monat berücksichtigt, der auf die Meldung der Veränderung durch den Empfänger zusammen mit den zur Neuberechnung des Anspruchs auf die Vorschüsse erforderlichen Unterlagen folgt.
+
+## 4 Ermittlung
+
+#### Art. 25
+
+**Ermittlungsauftrag (Art. 32 Abs. 4 GIBU)**
+
+<sup>1</sup> Der Inspektionsauftrag wird von der IBU der Dienststelle für Arbeitnehmerschutz und Arbeitsverhältnisse (DAA), durch deren für die Beschäftigungs- und Sozialhilfeinspektion zuständige Abteilung erteilt.
+
+<sup>2</sup> Der Auftrag muss den Verdacht begründenden Sachverhalt und die zur Durchführung der Ermittlung erforderlichen Daten enthalten.
+
+<sup>3</sup> Die Fachinspektoren werden vereidigt und müssen über die zur Ausübung des Auftrags erforderlichen Rechts- und Ermittlungskenntnisse verfügen.
+
+<sup>4</sup> Artikel 74 der Verordnung über die Eingliederung und die Sozialhilfe gelangt bei den Observationen analog zur Anwendung.
+
+#### Art. 26
+
+**Aufbewahrung, Konsultation und Vernichtung des gesammelten Materials (Art. 35 Abs. 5 GIBU)**
+
+<sup>1</sup> Das gesammelte Material wird auf sichere und geeignete Weise aufbewahrt, so dass es nicht beschädigt werden kann.
+
+<sup>2</sup> Abweichend von Artikel 35 Absatz 2 GIBU obliegt es, wenn die Ermittlung zu einer Strafanzeige führt, der Strafbehörde, über das Recht der betroffenen Person auf Zugang zu den gesammelten Daten zu entscheiden.
+
+<sup>3</sup> Die zusammengetragenen Daten, die nicht als Beweis verwendet werden oder nicht verwendbar sind, müssen unverzüglich vernichtet werden.
+
+<sup>4</sup> Die von der DAA aufbewahrten Daten sind spätestens 5 Jahre nach ihrer Übermittlung an die IBU zu vernichten. In anderen Gesetzen vorgesehene längere Aufbewahrungsfristen bleiben vorbehalten.
+
+<sup>5</sup> Die von der IBU aufbewahrten Daten werden ebenso behandelt wie das Dossier der Person.
+
+## 5 Inkasso- und Eintreibungsverfahren
+
+#### Art. 27
+
+**Rechnungsstellung**
+
+<sup>1</sup> Die Rechnungsstellung erfolgt durch die IBU mit Sorgfalt.
+
+<sup>2</sup> Grundsätzlich muss sich die Rechnung auf einen Unterhaltstitel, einen Entscheid oder ein als Schuldanerkennung geltendes Dokument stützen.
+
+#### Art. 28
+
+**Schulderlass**
+
+<sup>1</sup> Für Forderungen, die nicht dem Staat, sondern dem Gläubiger, der die IBU beauftragt hat, gehören, liegt die Zuständigkeit für den vollständigen oder teilweisen Verzicht auf die Forderung und/oder der Zinsen beim Gläubiger.
+
+<sup>2</sup> Schuldnern, die in Not geraten oder aus anderen Gründen in eine Lage versetzt worden sind, in der die Bezahlung der Forderung und/oder der Zinsen zu einer grossen Härte würde, können die gegenüber dem Staat geschuldeten Beträge ganz oder teilweise erlassen werden, sofern grundsätzlich keine Aussicht auf Verbesserung ihrer finanziellen Situation besteht und kein laufender Unterhaltsbeitrag mehr geschuldet wird.
+
+<sup>3</sup> Bei der Behandlung der Erlassgesuche wird nicht nur der finanziellen Situation des Schuldners Rechnung getragen, sondern auch seinem Verhalten.
+
+<sup>4</sup> Wenn die IBU mit dem Dossier befasst wird, liegt die Zuständigkeit für die Entscheidung über Erlassgesuche für dem Staat gehörende Forderungen:
+
+- a) bis 5'000 Franken beim Verantwortlichen der IBU;
+- b) bis 10'000 Franken beim Vorsteher der Koordinationsstelle für soziale Leistungen (KSSL);
+- c) bis 50'000 Franken beim Vorsteher der Dienststelle für Sozialwesen (DSW);
+- d) bis 200'000 Franken beim Vorsteher des Departements für Sozialwesen;
+- e) darüber hinaus beim Staatsrat.
+
+#### Art. 29
+
+**Verrechnung**
+
+<sup>1</sup> Der Staat kann Forderungen Dritter ihm gegenüber mit seinen Forderungen gegenüber denselben Dritten gemäss den Bestimmungen, die sich aus einer analogen Anwendung der Artikel 120 fortfolgende des Obligationenrechts (OR) ergeben, verrechnen.
+
+#### Art. 30
+
+**Annullierung der Rechnung**
+
+<sup>1</sup> Eine Rechnung kann nur im Falle eines Fehlers oder aufgrund der Tatsache, dass der Betrag nicht geschuldet wird, insbesondere bei einer rückwirkenden Änderung des Unterhaltstitels, ganz oder teilweise annulliert werden.
+
+#### Art. 31
+
+**Abschreibung der Forderung**
+
+<sup>1</sup> Eine gänzliche oder teilweise Abschreibung der Forderung wird vorgenommen bei:
+
+- a) Ausstellung eines Verlustscheins nach Pfändung;
+- b) Ausstellung eines Verlustscheins nach Konkurs;
+- c) Erlöschen der Forderung aufgrund eines Nachlassvertrages;
+- d) starker Vermutung der Uneinbringlichkeit der Forderung;
+- e) ausländischem Wohnsitz oder unbekanntem Aufenthalt des Schuldners, wenn kein Unterhaltsbeitrag mehr geschuldet wird;
+- f) Kosten, die dem Schuldner nicht auferlegt werden können;
+- g) Schulderlass;
+- h) Unmöglichkeit der Geltendmachung der Forderung infolge eines Todesfalls;
+- i) unverhältnismässig hohen Aufwendungen im Verhältnis zum erhofften Eintreibungsergebnis.
+
+<sup>2</sup> Bei Forderungen, die nicht dem Staat, sondern dem Gläubiger gehören, der die IBU beauftragt hat, liegt die Entscheidungskompetenz hinsichtlich der Abschreibung von Forderungen bei der IBU.
+
+<sup>3</sup> Bei dem Staat gehörenden Forderungen sind die Entscheidungskompetenzen hinsichtlich der Abschreibung von Forderungen gemäss Artikel 26 Absatz 4 dieser Verordnung geregelt. In den Fällen aus den vorstehenden Buchstaben a, b und h verfügt die IBU über uneingeschränkte Kompetenz.
+
+CSW RO/AGS 2021-162

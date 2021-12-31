@@ -1,197 +1,375 @@
 ---
 canton: VS
 number: "850.301"
-title: "Règlement d'application de la loi sur le recouvrement des pensions alimentaires et le versement d'avances"
+title: Ordonnance sur le recouvrement et les avances de contributions d’entretien
 short: ORACE
 language: fr
-version: 2012-12-12
-corrected: 2020-02-11
-version_adopted: 2012-05-16
+version: 2022-01-01
+version_adopted: 2021-12-01
 adopted: 2021-12-01
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/850.301"
-pdf: "https://lex.vs.ch/api/fr/versions/156/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2989/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Règlement d'application d'application de la loi sur le recouvrement des pensions alimentaires et le versement d'avances
+# Ordonnance sur le recouvrement et les avances de contributions d’entretien
 
-du 15 avril 1981
+(ORACE)
+
+du 01.12.2021 (état 01.01.2022)
 
 Le Conseil d'Etat du canton du Valais
 
-vu les articles 7 et 12 de la loi sur le recouvrement des pensions alimentaires et le versement d'avances;
+vu l’article 57 alinéa 2 de la Constitution cantonale;
 
-sur proposition du Département de justice et police,
+vu la loi sur le recouvrement et les avances de contributions d'entretien du 11 février 2021 (LRACE);
 
-arrête:
+vu l’ordonnance fédérale sur l’aide au recouvrement des créances d’entretien du droit de la famille du 6 décembre 2019 (OAiR);
+
+sur la proposition du département en charge des affaires sociales,
+
+ordonne:[^ingress-1]
+
+[^ingress-1]: Dans la présente ordonnance, toute désignation de personne, de statut ou de fonction vise indifféremment la femme ou l’homme
+
+## 1 Dispositions générales
 
 #### Art. 1
 
-<sup>2</sup> Office de recouvrement et d'avances des pensions alimentaires
+**But**
 
-<sup>1</sup> L'office de recouvrement et d'avances des pensions alimentaires (ci-après « office ») est à disposition des personnes domiciliées ou résidant de façon permanente dans le canton du Valais qui ne peuvent obtenir régulièrement le paiement des pensions alimentaires auxquelles elles ont droit.
+<sup>1</sup> La présente ordonnance a pour but d’exécuter et de compléter les dispositions de la loi sur le recouvrement et les avances de contributions d'entretien (LRACE) ainsi que celles de l’ordonnance fédérale sur l’aide au recouvrement des créances d’entretien du droit de la famille (OAiR).
 
-<sup>2</sup> Le créancier d'aliments peut en outre donner mandat exprès à l'office afin d'encaisser les pensions échues dans les douze mois antérieurs à son intervention
+<sup>2</sup> La présente ordonnance régit également les procédures d’encaissement et de recouvrement des créances du Bureau de recouvrement et d'avances des contributions d'entretien (ci-après: BRACE), en dérogation à l’ordonnance concernant les procédures d’encaissement et de recouvrement.
+
+## 2 Recouvrement
 
 #### Art. 2
 
-**Attributions et missions**
+**Documents requis à l’ouverture du dossier (art. 8 al. 4 LRACE et 9 OAiR)**
 
-L'office a les attributions suivantes:
+<sup>1</sup> Le BRACE dresse une liste des documents requis pour ouvrir un dossier. La demande d’aide au recouvrement doit contenir les informations et les documents énumérés à l’article 9 OAiR. Les autres documents nécessaires à l’accomplissement de sa tâche par le BRACE sont notamment les suivants:
 
-- a) il renseigne les requérants sur leurs droits et sur les démarches à entreprendre pour les faire valoir;
+- a) attestation de domicile du créancier;
+- b) pièce d’identité pour les créanciers de nationalité suisse ou titre de séjour pour les personnes de nationalité étrangère;
+- c) indication si une procédure en lien avec les contributions d’entretien est déjà pendante contre le débiteur;
+- d) attestation d’études, historique des formations et plan de formation si le créancier est un enfant de plus de 16 ans.
 
-- b) sur demande, il rédige lettres, sommations, réquisitions de poursuite, demandes d'avis aux débiteurs, demandes d'application de la convention de New York ou plaintes pénales nécessaires;
-
-- c) sur procuration, et en qualité de mandataire, il peut entreprendre toute démarche utile, juridique ou autre;
-
-- d) lorsque les circonstances le justifient et que les conditions prévues par la loi et le présent règlement sont remplies, il accorde des avances.
+<sup>2</sup> Dans les cas où le débiteur est domicilié à l’étranger et qu’une demande de recouvrement des contributions à l’étranger se justifie, le BRACE peut en outre requérir les documents complémentaires nécessaires.
 
 #### Art. 3
 
-<sup>2</sup> Demandes d'avances
+**Entretien d’ouverture du dossier**
 
-<sup>1</sup> La personne qui veut obtenir une avance présente à l'office une demande en produisant notamment la décision du juge ou la convention qui fixe la contribution d'entretien.
-
-<sup>2</sup> Les demandes d'avances fondées sur les articles 276 et suivants du Code civil suisse doivent être présentées par les représentants légaux.
-
-<sup>3</sup> L'office n'accorde des avances que dans la mesure où le requérant et les enfants bénéficiaires résident effectivement en Suisse.
+<sup>1</sup> Lorsque l’ensemble des documents requis sont en possession du BRACE, le créancier ou son représentant légal peuvent être convoqués pour un entretien d’ouverture du dossier.
 
 #### Art. 4
 
-<sup>3</sup> Limite de revenu et de fortune et montant des avances
+**Obligation d’informer du créancier en matière de recouvrement (art. 10 OAiR)**
 
-<sup>1</sup> Des avances ne peuvent être accordées que si, au moment de la demande, le revenu annuel imposable et, en principe, la fortune imposable du requérant ne dépassent pas les limites ci-après:
+<sup>1</sup> Le créancier doit informer immédiatement le BRACE notamment:
 
-**III IV**
-
-Montant de l’avance par enfant Fr. 550.- Fr. 450.- Fr. 350.- Fr. 250.- I II Limites du revenu annuel imposable et de la fortune Personne vivant seule Fr. 32'000.- Fr. 40'000.- Fr. 50'000.- Fr. 60'000.- Personne vivant en ménage commun Fr. 40'000.- Fr. 48'000.- Fr. 58'000.- Fr. 66'000.- Enfant à charge Fr. 6'500.- Fr. 6'500.- Fr. 6'500.- Fr. 6'500.- Fortune Fr. 65'000.- Fr. 65'000.- Fr. 65'000.- Fr. 65'000.- Montant de l’avance par bénéficiaire Fr. 480.- Fr. 400.- Fr. 320.- Fr. 240.- adulte I II Limites du revenu annuel imposable et de la fortune Personne vivant seule Fr. 32'000.- Fr. 40'000.- Fr. 50'000.- Fr. 60'000.- Personne vivant en ménage commun Fr. 40'000.- Fr. 48'000.- Fr. 58'000.- Fr. 66'000.- Enfant à charge Fr. 6'500.- Fr. 6'500.- Fr. 6'500.- Fr. 6'500.- Fortune Fr. 65'000.- Fr. 65'000.- Fr. 65'000.- Fr. 65'000.-
-
-**III IV**
-
-<sup>2</sup> Le revenu et la fortune entrant en considération sont le revenu annuel net et la fortune imposable, à savoir:
-
-- a) tous les revenus en espèces et en nature provenant d’une activité lucrative dépendante ou indépendante, desquels ont été déduits les cotisations AVS, AI, APG, AC, les cotisations de prévoyance;
-
-- b) les allocations familiales;
-
-- c) le rendement imposable de la fortune mobilière et immobilière;
-
-- d) les rentes viagères et autres revenus périodiques analogues;
-
-- e) tous les revenus provenant de la prévoyance sociale ou professionnelle, y compris les prestations complémentaires AVS/AI;
-
-- f) les autres revenus, à l’exclusion des pensions alimentaires et contributions d’entretien pour lesquelles le créancier sollicite des avances, ainsi que des bourses d’études;
-
-- g) les gains immobiliers.
-
-<sup>3</sup> Le salaire des enfants mineurs ou majeurs vivant avec le bénéficiaire et encore à sa charge n’est compté dans le calcul du revenu de la famille que pour la part excédant 500 francs par mois.
+- a) au cas où tout ou partie des montants de la contribution d’entretien lui seraient versés directement, sans transiter par le BRACE;
+- b) du versement actuel ou à venir d’une rente pour enfant de l’AVS/AI liée à une rente du débiteur;
+- c) de toute modification des revenus et de la fortune de l’enfant majeur;
+- d) de tout changement de domicile d’une des personnes devant recevoir la contribution d’entretien;
+- e) de toute modification du titre d’entretien, du droit de garde, ainsi que de toute procédure judiciaire en cours pour autant qu’elle concerne l'obligation d’entretien;
+- f) de toute circonstance de nature à modifier le droit à la contribution d’entretien notamment en cas de fin des études, de modification du plan d’études ou de remariage;
+- g) de tout élément concernant la situation financière, économique et personnelle du débiteur de nature à faciliter le recouvrement ou à modifier le droit à la contribution d'entretien.
 
 #### Art. 5
 
-**Obligation de renseigner**
+**Recours à des sociétés de recouvrement (art. 9 al. 2 LRACE)**
 
-<sup>1</sup> Le requérant est tenu de fournir toutes les pièces utiles, notamment une copie de sa dernière déclaration fiscale et de son dernier bordereau d'impôt direct.
+<sup>1</sup> Le BRACE peut faire appel à des sociétés de recouvrement:
 
-<sup>2</sup> Il est également tenu de fournir toute information de nature à faciliter les interventions auprès du débiteur.
-
-<sup>3</sup> Les avances peuvent être refusées ou supprimées si le requérant tait des faits importants, dissimule des pièces utiles ou compromet l'action de l'office ou réduit ses possibilités de revenu de façon injustifiée. L'office peut, en tout temps, demander un rapport aux institutions sociales prévues à l'article 3 de la loi.
+- a) lorsque le débiteur est domicilié à l’étranger, ou
+- b) pour obtenir des informations sur la situation financière ou le domicile du débiteur, ou
+- c) pour recouvrer des créances constatées par des actes de défaut de biens, reconnaissances de dettes ou titres similaires lorsque la contribution d’entretien courante n’est plus due ou que le mandat du BRACE a pris fin.
 
 #### Art. 6
 
-<sup>1,2</sup> Début et fin des avances
+**Conditions à remplir par les sociétés de recouvrement (art. 9 al. 2 LRACE)**
 
-Des avances ne peuvent être consenties que sur les pensions alimentaires dues dès le mois suivant la demande. Elles sont en principe accordées une première fois pour une période de douze mois. Elles sont ensuite renouvelables d'année en année. Le droit aux avances cesse:
+<sup>1</sup> Les sociétés de recouvrement auxquelles il est fait appel doivent:
 
-- a) lorsque s'éteint le droit à la contribution d'entretien;
-
-- b) lorsque le créancier dépasse des limites de revenu et de fortune;
-
-- c) lorsque l'enfant majeur a atteint vingt ans révolus;
-
-- d) lorsque le conjoint bénéficiaire atteint l'âge donnant droit aux prestations AVS.
-
-[^6-1]: Modification du 16.05.2012 BO No 5/2013 12.12.2012
+- a) s’abstenir de mesures qui servent à intimider le débiteur;
+- b) éviter la facturation de frais excessifs et injustifiés auprès du débiteur;
+- c) consentir à la radiation de la poursuite lorsque la créance a été payée sous réserve du paiement de frais pour le temps consacré et les dépenses engagées;
+- d) garantir la sécurité des données;
+- e) ne pas traiter les données personnelles à d’autres fins que le recouvrement de la créance.
 
 #### Art. 7
 
-**Abrogé**[^6-1]
+**Sociétés de recouvrement et honoraires (art 10 al. 2 LRACE)**
+
+<sup>1</sup> En cas de recours à des sociétés de recouvrement, les honoraires sont répartis entre l’Etat et la personne créancière proportionnellement au montant de leur créance.
 
 #### Art. 8
 
-<sup>2</sup> Restitution
+**Frais (art. 17ss OAiR)**
 
-<sup>1</sup> Le créancier est tenu de restituer les avances indûment perçues.
+<sup>1</sup> Lorsque des tiers interviennent ou fournissent des prestations en vue de l’exécution de contributions d’entretien, les frais sont mis à la charge du débiteur.
 
-<sup>2</sup> Si le bénéficiaire compromet l'action de l'office, notamment en fournissant volontairement des renseignements inexacts, il peut être contraint de rembourser les avances consenties, totalement ou en partie.
+<sup>2</sup> S’il est impossible d’obtenir le remboursement des frais auprès du débiteur, le BRACE peut mettre à charge du créancier les frais de tiers liés à une procédure à l’étranger et les frais de traduction si le créancier dispose de ressources suffisantes.
 
-<sup>3</sup> Sauf cas de rigueur manifeste, l'office peut imputer, dans une mesure raisonnable, les montants touchés indûment sur les prestations à venir.
+<sup>3</sup> Le créancier est réputé disposer de ressources suffisantes s’il a un revenu déterminant qui ne lui permet pas d’obtenir d’avances de contributions d’entretien sur la base de l’article 16.
+
+<sup>4</sup> Si des frais incombent au BRACE en raison d’une violation de l’obligation d’informer de la part du créancier, ces frais peuvent être mis à la charge du créancier indépendamment de ses ressources financières.
+
+<sup>5</sup> Lors de l’exécution d’une requête d’une autorité étrangère visant à établir un lien de filiation ou une obligation alimentaire envers un conjoint ou un enfant en application des accords internationaux, les frais sont mis à charge du créancier dans la mesure permise par les accords internationaux.
 
 #### Art. 9
 
-<sup>2</sup> Affectation des montants récupérés
+**Imputation des montants recouvrés (art. 10 LRACE)**
 
-Les pensions arriérées récupérées par l'office sont utilisées en priorité pour couvrir les avances accordées et, le cas échéant, les frais engagés.
+<sup>1</sup> Les montants encaissés pour la contribution d’entretien courante sont affectés prioritairement pour couvrir l’avance octroyée pour le mois en cours.
+
+## 3 Avances
 
 #### Art. 10
 
-**Démarches de l'office**
+**Droit aux avances (art. 11 LRACE)**
 
-<sup>1</sup> L'office avise immédiatement le débiteur de la contribution d'entretien qu'il a consenti une avance et qu'il est subrogé dans les droits du créancier.
+<sup>1</sup> Se trouve dans une situation économique difficile, le créancier dont le revenu déterminant et la fortune sont inférieurs aux limites prévues par l’article 16 de la présente ordonnance.
 
-<sup>2</sup> II prend toutes les mesures utiles pour obtenir des débiteurs le paiement de la pension alimentaire, le remboursement des avances, des intérêts et des frais.
-
-<sup>3</sup> Si la situation de l'intéressé l'exige, et avec son consentement ou celui de son représentant légal, l'office peut entreprendre toute démarche auprès d'organismes ou de personnes pouvant apporter une aide et recourir aux institutions sociales prévues à l'article 3 de la loi.
+<sup>2</sup> Le revenu déterminant est fixé en tenant compte de la situation économique des personnes faisant partie de l’unité économique de référence (ci-après: UER) au sens de l’article 11 de la présente ordonnance.
 
 #### Art. 11
 
-**Décision**
+**Unité économique de référence**
 
-<sup>1</sup> L'office se prononce conformément aux dispositions de la procédure cantonale. Les décisions relatives aux avances sont, en principe, valables pour une année. Cependant, tous les faits nouveaux intervenant dans la situation du débiteur ou du bénéficiaire autorisent l'office à rendre une nouvelle décision.
+<sup>1</sup> L’UER pour les enfants majeurs qui ont leur propre ménage, à savoir qui ont eux-mêmes un enfant ou qui sont mariés ou liés par un partenariat enregistré ou qui l’ont été, et pour les ex-conjoints est composée des personnes suivantes:
 
-<sup>2</sup> Tous les changements dans la situation (mariage, majorité, décès, changement d'employeur, etc.), tant du bénéficiaire de l'avance que du débiteur doivent être annoncés sans délai à l'office par les personnes qui pourraient en tirer un avantage quelconque.
+- a) le titulaire du droit à la contribution d’entretien, pour lequel la demande d’avance est requise;
+- b) son conjoint ou partenaire enregistré. Ne sont pas considérées comme telles les personnes séparées;
+- c) son concubin, avec lequel il partage le même domicile, pour autant que le concubinage soit stable. Le concubinage est considéré comme stable au sens de la présente ordonnance, si, alternativement:
+  - 1\. les concubins ont un enfant commun ou à naître,
+  - 2\. ils partagent le même domicile depuis plus de 2 ans,
+  - 3\. d’autres éléments permettent de présumer de la stabilité de l’union;
+- d) leurs enfants mineurs et leurs enfants majeurs en formation et qui n’ont pas encore acquis de formation appropriée, partageant le même logement;
+- e) leurs enfants mineurs et leurs enfants majeurs en formation et qui n’ont pas encore acquis de formation appropriée qui habitent dans un autre logement pour des motifs de formation, pour autant qu’ils aient conservé leur domicile civil à l’adresse du titulaire du droit.
 
-<sup>3</sup> L'office communiquera une copie de sa décision aux personnes et organes intéressés, notamment à la commune.
+<sup>2</sup> L'UER des enfants mineurs et des enfants majeurs en formation qui n’ont pas leur propre ménage est celle du parent qui en a la garde ou respectivement du parent chez lequel ils vivent.
+
+<sup>3</sup> Dans la fixation du revenu déterminant, il n’est pas tenu compte du revenu des enfants mineurs.
 
 #### Art. 12
 
-<sup>3</sup> Indexation
+**Avances aux ex-conjoints (art. 11 al. 2 LRACE)**
 
-Les montants fixés à l’article 4 du présent règlement seront adaptés annuellement à l’évolution de l’indice suisse des prix à la consommation.
+<sup>1</sup> Les ex-conjoints qui perçoivent une rente de vieillesse de l’assurance-vieillesse et survivants (AVS) n'ont plus droit à des avances.
 
 #### Art. 13
 
-**Réciprocité**
+**Décision d’avances (art. 11 al. 6 LRACE)**
 
-L'office intervient également, au sens de l'article 2, à la demande de l'autorité compétente d'un autre canton qui accorde la réciprocité, contre un débiteur domicilié dans le canton.
-
-[^13-1]: Modification du 8.02.2006 BO No 13/2006 1.01.2006
+<sup>1</sup> Le BRACE communique une copie de sa décision d’avances aux personnes et organes intéressés, notamment à la commune de domicile du bénéficiaire.
 
 #### Art. 14
 
-**Abrogé**[^13-1]
+**Titre de séjour (art. 13 LRACE)**
+
+<sup>1</sup> Lorsque le bénéficiaire de l’avance est au bénéfice d’un titre de séjour en cours de renouvellement, le BRACE suspend le versement des avances, sauf dans le cas où le bénéficiaire est au bénéfice d’une autorisation d’établissement.
+
+<sup>2</sup> Si la copie du titre de séjour renouvelé est reçue par le BRACE dans les 3 mois qui suivent son expiration, les avances sont versées rétroactivement.
 
 #### Art. 15
 
-<sup>2</sup> Dispositions finales
+**Obligation du bénéficiaire d’avances (art. 14 LRACE)**
 
-Le Département de la Santé, des affaires sociales et de l'énergie est chargé de l'exécution du présent règlement. Le Conseil d'Etat fixe l'entrée en vigueur du règlement.
+<sup>1</sup> Le bénéficiaire d’avances ou son représentant légal doit informer le BRACE de tous les éléments contenus à l’article 4. En outre, il est tenu d’annoncer sans délai tout autre fait nouveau concernant l’un des membres de l’UER susceptible d'influencer son droit aux avances, notamment:
 
-Ainsi adopté en séance du Conseil d'Etat, le 15 avril 1981.
+- a) une modification de la composition de l’UER (notamment concubinage avec un tiers, reprise de la vie commune avec le débiteur de la contribution d’entretien, arrivée ou départ d’un enfant);
+- b) un changement d’état civil.
 
-Le président du Conseil d'Etat: H. Wyer Le chancelier d'Etat: G. Moulin
+#### Art. 16
 
-Approuvé par le Grand Conseil, le 13 mai 1981; les modifications du 16 mai 2012 ont été approuvées le 12.12.2012
+**Montant des avances (art. 15 LRACE)**
 
-**Entrée en**
+<sup>1</sup> Le montant mensuel maximal pouvant être avancé est fixé sur la base du revenu déterminant de l'UER conformément au tableau suivant:
 
-### Intitulé et modifications Publication
+<table>
+<tr><th>Revenu annuel personne seule</th><th>Revenu annuel couple</th><th>Avance pour l'ex-conjoint</th><th>Avance pour 1 enfant</th><th>Avance pour 2 enfants</th><th>Avance pour 3 enfants</th><th>Avance dès 4 enfants / par enfant supplémentaire</th></tr>
+<tr><td>&lt;27'000</td><td>&lt;36'000</td><td>480</td><td>950</td><td>1663</td><td>2138</td><td>238</td></tr>
+<tr><td>&lt;30'000</td><td>&lt;40'000</td><td>430</td><td>850</td><td>1488</td><td>1913</td><td>213</td></tr>
+<tr><td>&lt;33'000</td><td>&lt;44'000</td><td>380</td><td>750</td><td>1313</td><td>1688</td><td>188</td></tr>
+<tr><td>&lt;36'000</td><td>&lt;48'000</td><td>330</td><td>650</td><td>1138</td><td>1463</td><td>163</td></tr>
+<tr><td>&lt;39'000</td><td>&lt;52'000</td><td>280</td><td>550</td><td>963</td><td>1238</td><td>138</td></tr>
+<tr><td>&lt;42'000</td><td>&lt;56'000</td><td>230</td><td>450</td><td>788</td><td>1013</td><td>113</td></tr>
+<tr><td>&lt;45'000</td><td>&lt;60'000</td><td>180</td><td>350</td><td>613</td><td>788</td><td>88</td></tr>
+<tr><td>&lt;48'000</td><td>&lt;64'000</td><td>130</td><td>250</td><td>438</td><td>563</td><td>63</td></tr>
+<tr><td>&lt;51'000</td><td>&lt;68'000</td><td>80</td><td>150</td><td>263</td><td>338</td><td>38</td></tr>
+<tr><td>&lt;54'000</td><td>&lt;72'000</td><td>30</td><td>50</td><td>88</td><td>113</td><td>13</td></tr>
+</table>
 
-vigueur RO/VS 1982, 181 28.08.1982
+<sup>2</sup> Le montant alloué ne peut toutefois excéder les montants des contributions d’entretien fixés par le titre d’entretien.
 
-## Autres notes
+<sup>3</sup> Aucune avance n'est octroyée lorsque la fortune nette de l'UER est supérieure à 65'000 francs. Les déductions forfaitaires des taxations fiscales sont plafonnées à 60'000 francs pour l'ensemble de l'UER.
 
-- [1] Modification du 11.03.1998 RO/VS 1998, 284 3.04.1998
+<sup>4</sup> Les avances inférieures à 100 francs au total ne sont pas octroyées.
+
+#### Art. 17
+
+**Revenu déterminant**
+
+<sup>1</sup> Le revenu déterminant donnant droit aux avances est basé sur le revenu net avant les déductions personnelles (chiffre 2400) tel qu’il ressort de la décision de taxation définitive la plus récente disponible au moment où est prise la décision d’avances, auquel:
+
+- a) s'ajoutent les cotisations à des formes reconnues de prévoyance individuelle liée (pilier 3a) jusqu'à concurrence du montant maximal admis pour les salariés, les revenus de la fortune immobilière négatifs ainsi que les pertes commerciales non absorbées d’une activité indépendante;
+- b) se déduisent les contributions d’entretien versées, les contributions d’entretien reçues selon la taxation fiscale ainsi que les prestations en capital reçues et les déductions pour enfants à charge selon la taxation fiscale.
+
+<sup>2</sup> S’il n’existe aucune taxation définitive pour les 2 années précédant la demande d’avances, le revenu déterminant se calcule sur la base des revenus de la même manière que pour les personnes imposées à la source.
+
+<sup>3</sup> Lorsqu'une demande d’avances a été déposée et que le requérant a déposé une réclamation ou un recours contre la décision de taxation, le BRACE peut verser rétroactivement la différence des avances si la réclamation ou le recours est admis.
+
+#### Art. 18
+
+**Taxation d’office**
+
+<sup>1</sup> Le revenu déterminant basé sur une taxation d'office ne donne pas lieu à des avances.
+
+<sup>2</sup> Toutefois, la 1<sup>er</sup> année, le BRACE peut verser des avances selon le barème de l’article 16 sur la base d’une taxation d’office si les revenus et la fortune de la personne bénéficiaire ne sont pas supérieurs à ceux retenus par la taxation d’office. La personne bénéficiaire doit fournir tous les justificatifs de ses revenus, notamment son certificat de salaire.
+
+#### Art. 19
+
+**Personnes imposées à la source**
+
+<sup>1</sup> Pour les personnes imposées à la source, le revenu déterminant correspond au 80 pour cent du revenu brut soumis à l'impôt duquel se déduisent les contributions d’entretien payées ainsi que 6'500 francs par enfant à charge.
+
+<sup>2</sup> Le revenu déterminant est basé sur l’attestation des impôts à la source la plus récente disponible.
+
+#### Art. 20
+
+**Baisse des revenus**
+
+<sup>1</sup> Lorsque le revenu déterminant de l’UER a diminué de façon durable de 30 pour cent ou plus, le BRACE peut, sur demande motivée, se fonder sur cette nouvelle situation. Si une nouvelle taxation définitive n’a pas encore été établie, le BRACE peut se baser provisoirement sur la déclaration fiscale du membre de l’UER dont la situation s’est modifiée de manière essentielle.
+
+<sup>2</sup> La modification prend effet le mois qui suit la réception de l’ensemble des documents nécessaires au calcul du nouveau droit aux avances.
+
+#### Art. 21
+
+**Modalités de versement des avances (art. 16 LRACE)**
+
+<sup>1</sup> Lorsqu’une collectivité publique assume l’entretien de l’enfant dans une mesure égale ou supérieure au montant de l’avance, notamment dans le cas d’enfants placés, les avances sont versées intégralement à celle-ci.
+
+<sup>2</sup> Lorsque des parents se doivent réciproquement des contributions d’entretien, notamment pour des enfants qui sont chacun chez un des deux parents, aucune avance n’est versée jusqu’à concurrence du montant de la contribution d’entretien la plus basse.
+
+#### Art. 22
+
+**Début des avances (art. 17 LRACE)**
+
+<sup>1</sup> Les avances sur la contribution d'entretien peuvent être accordées dès le mois suivant la réception de l’ensemble des pièces nécessaires à la fixation du droit.
+
+<sup>2</sup> Lorsque le bénéficiaire est un enfant qui vient d’accéder à la majorité, les avances peuvent être accordées rétroactivement dès le mois qui suit la majorité de l’enfant, pour autant que tous les documents requis aient été reçus par le BRACE avant la fin du mois qui suit l’accession à la majorité.
+
+<sup>3</sup> Lorsque le bénéficiaire emménage en Valais, les avances peuvent être accordées rétroactivement, pour autant que tous les documents requis aient été reçus par le BRACE avant la fin du mois qui suit l’inscription dans la commune de domicile.
+
+<sup>4</sup> Lorsque des avances ne sont pas ou plus versées du fait que le débiteur s’acquitte chaque mois de la contribution d’entretien courante et que par la suite, il cesse les paiements ou paie de manière irrégulière, les avances peuvent être reprises dès l’interruption de paiement, pour autant que tous les documents requis aient été reçus par le BRACE avant la fin du mois suivant.
+
+#### Art. 23
+
+**Suspension du versement des avances (art. 18 al. 2 LRACE)**
+
+<sup>1</sup> Si la situation ne permet pas ou plus de déterminer le droit aux avances, le BRACE fixe un délai au requérant pour recevoir les informations et documents nécessaires. Dans l’attente de les recevoir, il peut suspendre le versement d'avances.
+
+<sup>2</sup> Si les documents et informations sont reçus dans le délai fixé, le versement des avances peut être repris dès l’interruption. Dans le cas contraire, le versement est repris pour le futur, dès le mois suivant la réception de tous les documents demandés.
+
+<sup>3</sup> Si le requérant tait des faits importants ou dissimule des pièces utiles, les avances peuvent être refusées ou supprimées et le remboursement des montants indus peut être exigé.
+
+#### Art. 24
+
+**Modification de la situation familiale (art. 19 LRACE)**
+
+<sup>1</sup> En cas de modification de la situation familiale, il est immédiatement tenu compte de celle-ci. Toutefois, si cette nouvelle situation donne droit à des avances plus élevées pour le bénéficiaire, elle n’est prise en compte que depuis le mois qui suit l’annonce par le bénéficiaire de la modification munie des documents nécessaires au nouveau calcul du droit aux avances.
+
+## 4 Enquête
+
+#### Art. 25
+
+**Mandat d'enquête (art. 32 al. 4 LRACE)**
+
+<sup>1</sup> Le mandat d'enquête est donné par le BRACE au service chargé de la protection des travailleurs et des relations du travail (SPT), par sa section en charge de l'inspection de l'emploi et de l'aide sociale.
+
+<sup>2</sup> Le mandat doit indiquer les faits motivant les soupçons et contenir les données nécessaires pour procéder à l’enquête.
+
+<sup>3</sup> Les inspecteurs sont assermentés et doivent disposer des connaissances juridiques et en matière d'enquêtes nécessaires à la bonne exécution du mandat.
+
+<sup>4</sup> L'article 74 de l'ordonnance sur l'intégration et l'aide sociale (OLIAS) s'applique par analogie aux observations.
+
+#### Art. 26
+
+**Conservation, consultation et destruction du matériel recueilli (art. 35 al. 5 LRACE)**
+
+<sup>1</sup> Le matériel recueilli est conservé de manière sûre et appropriée, et de sorte qu’il ne puisse subir aucun dommage.
+
+<sup>2</sup> En dérogation à l’article 35 alinéa 2 LRACE, si l’enquête débouche sur une dénonciation pénale, il appartient à l’autorité pénale de statuer sur le droit de la personne concernée d’avoir accès aux données recueillies.
+
+<sup>3</sup> Les données recueillies qui ne sont pas utilisées à titre de preuves ou qui ne sont pas utilisables doivent être détruites immédiatement.
+
+<sup>4</sup> Les données conservées par le SPT doivent être détruites au plus tard 5 ans après leur transmission au BRACE. Les durées de conservation plus longues prévues par d’autres lois sont réservées.
+
+<sup>5</sup> Les données conservées par le BRACE suivent le sort du dossier de la personne.
+
+## 5 Procédures d’encaissement et de recouvrement
+
+#### Art. 27
+
+**Facturation**
+
+<sup>1</sup> La facturation est effectuée avec diligence par le BRACE.
+
+<sup>2</sup> En règle générale, la facture doit se fonder sur un titre d’entretien, une décision ou un document valant reconnaissance de dettes.
+
+#### Art. 28
+
+**Remise de dettes**
+
+<sup>1</sup> Pour la créance n’appartenant pas à l’Etat, mais au créancier ayant mandaté le BRACE, la compétence pour abandonner tout ou partie de la créance et/ou des intérêts appartient au créancier.
+
+<sup>2</sup> Tout ou partie de la créance et/ou des intérêts appartenant à l’Etat peuvent être remis au débiteur qui est tombé dans le dénuement, ou qui, pour toute autre raison, se trouve dans une situation telle que le paiement ou le maintien de la créance auraient des conséquences excessivement dures, pour autant en principe qu’il n’y ait pas de perspectives d’amélioration de sa situation financière et que plus aucune contribution d’entretien courante ne soit due.
+
+<sup>3</sup> Dans le traitement des demandes de remise, il sera tenu compte non seulement de la situation financière du débiteur, mais également du comportement de celui-ci.
+
+<sup>4</sup> Lorsque le BRACE est saisi du dossier, la compétence pour statuer sur les demandes de remise appartient pour la créance appartenant à l’Etat:
+
+- a) jusqu'à 5'000 francs au responsable du BRACE;
+- b) jusqu’à 10'000 francs au chef de l’Office de coordination des prestations sociales (OCPS);
+- c) jusqu’à 50'000 francs au chef du Service de l’action sociale (SAS);
+- d) jusqu’à 200'000 francs au chef du département en charge des affaires sociales;
+- e) au-delà au Conseil d'Etat.
+
+#### Art. 29
+
+**Compensation**
+
+<sup>1</sup> L’Etat peut compenser des créances de tiers envers lui par des créances qu’il détient envers ces mêmes tiers, conformément aux règles découlant d’une application par analogie des articles 120 et suivants du code des obligations (CO).
+
+#### Art. 30
+
+**Annulation de facture**
+
+<sup>1</sup> Une facture ne peut être annulée, totalement ou partiellement, qu’en cas d’erreur ou du fait que le montant n’est pas dû, notamment en cas de modification rétroactive du titre d’entretien.
+
+#### Art. 31
+
+**Amortissement de créance**
+
+<sup>1</sup> Il est procédé à l'amortissement total ou partiel d'une créance en cas de:
+
+- a) délivrance d'un acte de défaut de biens après saisie;
+- b) délivrance d'un acte de défaut de biens après faillite;
+- c) extinction de la créance à la suite d'un concordat;
+- d) forte présomption du caractère irrécouvrable de la créance;
+- e) débiteur domicilié à l'étranger ou sans domicile connu si plus aucune contribution d’entretien courante n’est due;
+- f) frais engagés non imputables au débiteur;
+- g) remise de dette;
+- h) absence de possibilité de faire valoir la créance suite à un décès;
+- i) frais à engager paraissant excessifs par rapport aux espérances de recouvrement.
+
+<sup>2</sup> Pour la créance n’appartenant pas à l’Etat, mais au créancier ayant mandaté le BRACE, la compétence de décision en matière d’amortissement de créance appartient au BRACE.
+
+<sup>3</sup> Pour la créance appartenant à l’Etat, les compétences de décision en matière d’amortissement de créance sont réglées conformément à l’article 28 alinéa 4 de la présente ordonnance. Pour les cas mentionnés aux lettres a, b et h ci-dessus, le BRACE bénéficie d'une compétence illimitée.
+
+RCV RO/AGS 2021-162
