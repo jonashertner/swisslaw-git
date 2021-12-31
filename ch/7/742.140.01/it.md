@@ -3,18 +3,18 @@ sr: "742.140.01"
 title: "Ordinanza del DFF del 22 novembre 2016 concernente il calcolo dei conferimenti al Fondo per l'infrastruttura ferroviaria"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/694"
 language: it
-version: 2019-01-01
+version: 2022-01-01
 adopted: 2016-11-22
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/694/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2016-694-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/694/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/694/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-694-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/694/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFF concernente il calcolo dei conferimenti al Fondo per l’infrastruttura ferroviaria
 
-del 22 novembre 2016 (Stato 1° gennaio 2019)
+del 22 novembre 2016 (Stato 1° gennaio 2022)
 
 Il Dipartimento federale delle finanze (DFF), d’intesa con il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni,
 
@@ -44,64 +44,67 @@ ordina:
 
 La presente ordinanza entra retroattivamente in vigore il 1° gennaio 2016.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 1 cpv. 1)
 
 ## Metodo di calcolo degli importi secondo la LFIF
 
-[^t-1]: Originario all. . Nuovo testo giusta il n. II cpv. 1 dell’O del DFF del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4053](https://fedlex.data.admin.ch/eli/oc/2018/655)).
+[^t-1]: Originario all. Nuovo testo giusta il n. II dell’O del DFF del 17 ott. 2022, in vigore dal 1° gen. 2022 ([RU 2022 599](https://fedlex.data.admin.ch/eli/oc/2022/599)).
 
 \1. Gli importi nell’anno t sono calcolati come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/694/20190101/it/xml/image/image1.png)
+I<sub>t</sub> = *VI x Indice LFIF**<sub>t</sub>*
 
-Per cui:
+Legenda:
 
-- VI: valore iniziale corrispondente agli importi di cui agli articoli 87*a* capoverso 2 lettera d e 196 numero 3 capoverso 2 della Costituzione federale[^annex1-lvlu1-1];
+- VI: valore iniziale corrispondente a 2582,90 milioni di franchi secondo l’articolo 87*a* capoverso 2 lettera d della Costituzione federale (Cost.)[^annex1-lvlu1-1] e a 348,13 milioni secondo l’articolo 196 numero 3 capoverso 2 Cost., calcolato per il 2021 secondo il metodo di cui all’allegato 1 della presente ordinanza nella versione del 1° gennaio 2019[^annex1-lvlu1-2];
 - Indice LFIF<sub>t</sub>: stato dell’indice secondo l’articolo 3 capoverso 2 LFIF nell’anno t, calcolato conformemente al numero 2.
 
-\2. L’indice LFIF<sub>t</sub> si ottiene moltiplicando i due indici parziali nell’anno t esposti qui appresso ed è arrotondato a tre decimali:
+\2. L’indice LFIF<sub>t</sub> si ottiene moltiplicando i due indici parziali nell’anno t esposti qui appresso ed è arrotondato a tre cifre dopo la virgola:
 
 - a. Indice parziale del prodotto interno lordo reale (rPIL) nell’anno t:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/694/20190101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/694/20220101/it/xml/image/image1.png)
 
-- Le fonti sono gli aggregati trimestrali (T = trimestre) non rettificati del prodotto interno lordo reale pubblicati dalla Segreteria di Stato dell’economia. Lo stato dell’indice parziale è arrotondato a tre cifre decimali.
-- b. Indice parziale di rincaro delle opere ferroviarie (IRF) nell’anno t:
+- Le fonti sono gli aggregati trimestrali (T = trimestre) non rettificati del prodotto interno lordo reale pubblicati dalla Segreteria di Stato dell’economia. Lo stato dell’indice parziale è arrotondato a tre cifre dopo la virgola.
+- b. Indice parziale dell’indice nazionale dei prezzi al consumo (IPC) nell’anno t:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/694/20190101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/694/20220101/it/xml/image/image2.png)
 
-- La fonte è l’indice di rincaro delle opere ferroviarie pubblicato dall’Ufficio federale di statistica. Lo stato dell’indice parziale è arrotondato a tre decimali.
+- La fonte è l’IPC pubblicato dall’Ufficio federale di statistica (dicembre 2020 = 100). Lo stato dell’indice parziale è arrotondato a tre cifre dopo la virgola.
 
-[^annex1-lvlu1-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^annex1-lvlu1-1]: <sup>2</sup> [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^annex1-lvlu1-2]: <sup>3</sup> [RU 2018 4053](https://fedlex.data.admin.ch/eli/oc/2018/655)
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 1 cpv. 2)
 
-## Metodo di calcolo del conferimento secondo la LFerr
+## Metodo di calcolo degli importi secondo la Lferr
 
-[^t-2]: Introdotto dal n. II cpv. 2 dell’O del DFF del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4053](https://fedlex.data.admin.ch/eli/oc/2018/655)).
+[^t-2]: Introdotto dal n. II cpv. 2 dell’O del DFF del 31 ott. 2018 ([RU 2018 4053](https://fedlex.data.admin.ch/eli/oc/2018/655)). Nuovo testo giusta il n. II dell’O del DFF del 17 ott. 2022, in vigore dal 1° gen. 2022 ([RU 2022 599](https://fedlex.data.admin.ch/eli/oc/2022/599)).
 
 \1. Il conferimento nell’anno t è calcolato come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/694/20190101/it/xml/image/image4.png)
+I<sub>t</sub> = *VI x Indice Lferr**<sub>t</sub>*
 
-Per cui:
+Legenda:
 
-- VI: valore iniziale corrispondente a 500 milioni di franchi secondo l’articolo 57 capoverso 1 LFerr;
-- Indice LFerr<sub>t</sub>: stato dell’indice secondo l’articolo 57 capoverso 1<sup>bis</sup> LFerr nell’anno t, calcolato conformemente al numero 2.
+- VI: valore iniziale corrispondente a 544,50 milioni di franchi secondo l’articolo 57 capoverso 1 Lferr, calcolato per il 2021 secondo il metodo di cui all’allegato 2 della presente ordinanza nella versione del 1° gennaio 2019[^annex2-lvlu1-1];
+- Indice LFIF<sub>t</sub>: stato dell’indice secondo l’articolo 57 capoverso 1<sup>bis</sup> Lferr nell’anno t, calcolato conformemente al numero 2.
 
-\2. L’indice LFerr<sub>t</sub> si ottiene moltiplicando i due indici parziali nell’anno t esposti qui appresso ed è arrotondato a tre decimali:
+\2. L’indice Lferr<sub>t</sub> si ottiene moltiplicando i due indici parziali nell’anno t esposti qui appresso ed è arrotondato a tre cifre dopo la virgola:
 
 - a. Indice parziale del prodotto interno lordo reale (rPIL) nell’anno t:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/694/20190101/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/694/20220101/it/xml/image/image3.png)
 
-- Le fonti sono gli aggregati trimestrali (T = trimestre) non rettificati del prodotto interno lordo reale pubblicati dalla Segreteria di Stato dell’economia. Lo stato dell’indice parziale è arrotondato a tre cifre decimali.
-- b. Indice parziale di rincaro delle opere ferroviarie (IRF) nell’anno t:
+- Le fonti sono gli aggregati trimestrali (T = trimestre) del prodotto interno lordo reale, non rettificati, pubblicati dalla Segreteria di Stato dell’economia. Lo stato dell’indice parziale è arrotondato a tre cifre dopo la virgola.
+- b. Indice parziale dell’indice nazionale dei prezzi al consumo (IPC) nell’anno t:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/694/20190101/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/694/20220101/it/xml/image/image4.png)
 
-- La fonte è l’indice di rincaro delle opere ferroviarie pubblicato dall’Ufficio federale di statistica. Lo stato dell’indice parziale è arrotondato a tre decimali.
+- La fonte è l’IPC pubblicato dall’Ufficio federale di statistica (dicembre 2020 = 100). Lo stato dell’indice parziale è arrotondato a tre cifre dopo la virgola.
+
+[^annex2-lvlu1-1]: <sup>4</sup> [RU 2018 4053](https://fedlex.data.admin.ch/eli/oc/2018/655)
