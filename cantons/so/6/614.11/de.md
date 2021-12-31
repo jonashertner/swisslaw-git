@@ -4,13 +4,13 @@ number: "614.11"
 title: Gesetz über die Staats- und Gemeindesteuern
 short: Steuergesetz
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-02
+version: 2022-01-01
+valid_until: 2022-06-30
+version_adopted: 2022-01-26
 adopted: 1985-12-01
 in_force: 1986-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.11"
-pdf: "https://bgs.so.ch/api/de/versions/5019/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5228/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5019/pdf_file"
 
 (Steuergesetz)
 
-Vom 01.12.1985 (Stand 01.01.2021)
+Vom 01.12.1985 (Stand 01.01.2022)
 
 Der Kantonsrat von Solothurn
 
@@ -545,8 +545,10 @@ beschliesst:
 - n) die einzelnen Gewinne bis zu einem Betrag von 1 Million Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
 - o) die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
 - p) die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, sofern die Grenze von 1'000 Franken nicht überschritten wird.
+- q) Einkünfte aufgrund des Bundesgesetzes über Überbrückungsleistungen für ältere Arbeitslose vom 19. Juni 2020[^32-2].
 
 [^32-1]: SR [935.51](https://db.clex.ch/link/Bund/935.51/de).
+[^32-2]: SR [837.2](https://db.clex.ch/link/Bund/837.2/de).
 
 #### § 33
 
@@ -572,8 +574,19 @@ beschliesst:
 - c) die Zuwendungen an steuerbefreite Einrichtungen der beruflichen Vorsorge zugunsten des eigenen Personals, sofern jede zweckwidrige Verwendung ausgeschlossen ist.
 - d) Zinsen auf Geschäftsschulden sowie Zinsen, die auf Beteiligungen nach § 24 Absatz 5 entfallen;
 - e) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals.
+- f) gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
-<sup>2</sup> Nicht abziehbar sind Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts an schweizerische oder ausländische Amtsträger.
+<sup>2</sup> Nicht abziehbar sind insbesondere:
+
+- a) Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts;
+- b) Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
+- c) Bussen und Geldstrafen;
+- d) finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.
+
+<sup>3</sup> Sind Sanktionen nach Absatz 2 Buchstaben c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
+
+- a) die Sanktion gegen den schweizerischen Ordre public verstösst; oder
+- b) die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
 
 #### § 35
 
@@ -1436,16 +1449,27 @@ beschliesst:
 
 <sup>1</sup> Zum geschäftsmässig begründeten Aufwand gehören auch
 
-- a) eidgenössische, kantonale und kommunale Steuern, nicht aber Steuerbussen;
+- a) eidgenössische, kantonale und kommunale Steuern;
 - b) die Abschreibungen, Rückstellungen, Wertberichtigungen, Verluste und Zuwendungen im Sinne von § 34 Absatz 1 Buchstaben a bis c, § 35 und § 35<sup>bis</sup>;
 - c) Rabatte, Skonti, Umsatzbonifikationen und Rückvergütungen auf dem Entgelt für Lieferungen und Leistungen sowie die zur Verteilung an die Versicherten bestimmten Überschüsse von Versicherungsgesellschaften;
 - d) die freiwilligen Leistungen von Geld und übrigen Vermögenswerten an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf ihre öffentlichen oder gemeinnützigen Zwecke von der Steuerpflicht befreit sind (§ 90 Absatz 1 Buchstabe i) sowie an Bund, Kantone, Gemeinden und ihre Anstalten, soweit diese von der Steuerpflicht befreit sind (§ 90 Absatz 1 Buchstaben a-c), im Umfang von insgesamt höchstens 20% des Reingewinns;
 - e) die nachgewiesenen und unentgeltlichen Zuwendungen an politische Parteien, die sich im Kanton an den letzten eidgenössischen oder kantonalen Wahlen beteiligt haben, soweit diese Zuwendungen insgesamt 15’000 Franken nicht übersteigen;
-- f) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals.
+- f) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals;
+- g) gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
 <sup>2</sup> …
 
-<sup>3</sup> Nicht zum geschäftsmässig begründeten Aufwand gehören Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts an schweizerische oder ausländische Amtsträger.
+<sup>3</sup> Nicht zum geschäftsmässig begründeten Aufwand gehören insbesondere:
+
+- a) Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts;
+- b) Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
+- c) Bussen;
+- d) finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.
+
+<sup>4</sup> Sind Sanktionen nach Absatz 3 Buchstaben c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
+
+- a) die Sanktion gegen den schweizerischen Ordre public verstösst; oder
+- b) die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
 
 #### § 92bis
 
