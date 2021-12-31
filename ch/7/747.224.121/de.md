@@ -3,18 +3,18 @@ sr: "747.224.121"
 title: Verordnung des UVEK vom 11. Juni 2010 über die Inkraftsetzung der Verordnung über das Schiffspersonal auf dem Rhein
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/467"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2010-06-11
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/467/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2010-467-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/467/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/467/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2010-467-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/467/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des UVEK über die Inkraftsetzung der Verordnung über das Schiffspersonal auf dem Rhein
 
-vom 11. Juni 2010 (Stand am 1. Januar 2020)
+vom 11. Juni 2010 (Stand am 1. Januar 2022)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
@@ -28,7 +28,7 @@ verordnet:
 
 Die Verordnung über das Schiffspersonal auf dem Rhein wird in der von der Zentralkommission für die Rheinschifffahrt am 2. Juni 2010[^1-1] beschlossenen Fassung auf der Rheinstrecke von der schweizerischen Landesgrenze bis zur Mittleren Rheinbrücke in Basel auf den 1. Juli 2011 in Kraft gesetzt.
 
-[^1-1]: Der Text dieser Verordnung wird nicht in der AS veröffentlicht ([AS 2011 3655](https://fedlex.data.admin.ch/eli/oc/2011/509), [2012 703](https://fedlex.data.admin.ch/eli/oc/2012/107)[7155](https://fedlex.data.admin.ch/eli/oc/2012/865), [2013 743](https://fedlex.data.admin.ch/eli/oc/2013/145), [2015 367](https://fedlex.data.admin.ch/eli/oc/2015/50)[2361](https://fedlex.data.admin.ch/eli/oc/2015/444)[2363](https://fedlex.data.admin.ch/eli/oc/2015/445), [2016 525](https://fedlex.data.admin.ch/eli/oc/2016/96)[2599](https://fedlex.data.admin.ch/eli/oc/2016/407), [2017 669](https://fedlex.data.admin.ch/eli/oc/2017/119)[699](https://fedlex.data.admin.ch/eli/oc/2017/129), [2018 2681](https://fedlex.data.admin.ch/eli/oc/2018/391), [2019 1127](https://fedlex.data.admin.ch/eli/oc/2019/211)[1129](https://fedlex.data.admin.ch/eli/oc/2019/212)und [2677](https://fedlex.data.admin.ch/eli/oc/2019/504)). Er kann beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen kostenlos eingesehen oder im Internet unter www.bav.admin.ch &gt; Rechtliches &gt; Weitere Rechtsgrundlagen und Vorschriften &gt; Internationale Vereinbarungen &gt; Verordnung über das Schiffspersonal auf dem Rhein oder www.ccr-zkr.org &gt; Dokumente &gt; ZKR Verordnungen &gt; Verordnung über das Schiffspersonal auf dem Rhein (in deutscher und französischer Sprache) abgerufen werden. Separatdrucke sind beim BBL, Verkauf Bundespublikationen, 3003 Bern erhältlich.
+[^1-1]: Der Text dieser Verordnung wird nicht in der AS veröffentlicht ([AS 2011 3655](https://fedlex.data.admin.ch/eli/oc/2011/509); [2012 703](https://fedlex.data.admin.ch/eli/oc/2012/107), [7155](https://fedlex.data.admin.ch/eli/oc/2012/865); [2013 743](https://fedlex.data.admin.ch/eli/oc/2013/145); [2015 367](https://fedlex.data.admin.ch/eli/oc/2015/50), [2361](https://fedlex.data.admin.ch/eli/oc/2015/444), [2363](https://fedlex.data.admin.ch/eli/oc/2015/445); [2016 525](https://fedlex.data.admin.ch/eli/oc/2016/96), [2599](https://fedlex.data.admin.ch/eli/oc/2016/407); [2017 669](https://fedlex.data.admin.ch/eli/oc/2017/119), [699](https://fedlex.data.admin.ch/eli/oc/2017/129); [2018 2681](https://fedlex.data.admin.ch/eli/oc/2018/391); [2019 1127](https://fedlex.data.admin.ch/eli/oc/2019/211), [1129](https://fedlex.data.admin.ch/eli/oc/2019/212), [2677](https://fedlex.data.admin.ch/eli/oc/2019/504); [2021 850](https://fedlex.data.admin.ch/eli/oc/2021/850)). Er kann beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen kostenlos eingesehen oder im Internet unter www.bav.admin.ch &gt; Rechtliches &gt; Weitere Rechtsgrundlagen und Vorschriften &gt; Internationale Vereinbarungen &gt; Verordnung über das Schiffspersonal auf dem Rhein oder www.ccr-zkr.org &gt; Dokumente &gt; ZKR Verordnungen &gt; Verordnung über das Schiffspersonal auf dem Rhein (in deutscher und französischer Sprache) abgerufen werden. Separatdrucke sind beim BBL, Verkauf Bundespublikationen, 3003 Bern erhältlich.
 
 #### Art. 2
 
