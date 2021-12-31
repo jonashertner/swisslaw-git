@@ -4,11 +4,11 @@ title: "Legge federale del 13 dicembre 2002 sulla formazione professionale (Legg
 short: LFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: it
-version: 2021-08-01
+version: 2022-01-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2003-674-20210801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2003-674-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20210801/it"
 
 (Legge sulla formazione professionale, LFPr)
 
-del 13 dicembre 2002 (Stato 1° agosto 2021) (Stato 1° agosto 2021)
+del 13 dicembre 2002 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -769,7 +769,7 @@ Nel sistema d’informazione la SEFRI tratta i dati seguenti:
 
 - a. informazioni per l’identificazione dei beneficiari dei contribuiti di cui all’articolo 56*a* capoversi 1 e 4;
 - b. informazioni per l’identificazione delle persone che hanno sostenuto gli esami federali di professione e gli esami professionali federali superiori di cui all’articolo 28;
-- c. numero di assicurato delle persone di cui alle lettere a e b secondo l’articolo 50*c* della legge federale del 20 dicembre 1946[^56b-2] sull’assicurazione per la vecchiaia e per i superstiti;
+- c.[^56b-2] ...
 - d. informazioni sui contribuiti ricevuti secondo l’articolo 56*a* capoversi 1 e 4;
 - e. informazioni sui corsi di preparazione seguiti;
 - f. informazioni sugli esami federali di professione e sugli esami professionali federali superiori sostenuti.
@@ -779,7 +779,7 @@ Nel sistema d’informazione la SEFRI tratta i dati seguenti:
 <sup>4</sup> Può affidare a terzi la gestione del sistema d’informazione e il trattamento dei dati.
 
 [^56b-1]: Introdotto dal n. I della LF del 16 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^56b-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^56b-2]: Abrogata dall’all. n. 8 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 57
 

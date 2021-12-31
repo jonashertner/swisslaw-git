@@ -4,11 +4,11 @@ title: Lescha federala dals 13 da december 2002 davart la furmaziun professiunal
 short: LFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: rm
-version: 2021-08-01
+version: 2022-01-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20210801/rm/xml/fedlex-data-admin-ch-eli-cc-2003-674-20210801-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20210801/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-2003-674-20220101-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LFPr)
 
-dals 13 da december 2002 (versiun dal 1. d’avust 2021)
+dals 13 da december 2002 (versiun dal 1. da schaner 2022)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -760,7 +760,7 @@ En il sistem d’infurmaziun elavura el las suandantas datas:
 
 - a. indicaziuns per identifitgar persunas che han survegnì contribuziuns tenor l’artitgel 56*a* alineas 1 e 4;
 - b. indicaziuns per identifitgar absolvents d’examens professiunals federals e d’examens professiunals federals superiurs tenor l’artitgel 28;
-- c. il numer d’assicuranza da las persunas tenor las literas a e b tenor l’artitgel 50*c* da la Lescha federala dals 20 da december 1946[^56b-2] davart l’assicuranza per vegls e survivents;
+- c.[^56b-2] ...
 - d. indicaziuns davart la contribuziun survegnida tenor l’artitgel 56*a* alineas 1 e 4;
 - e. indicaziuns davart ils curs preparatorics absolvids;
 - f. indicaziuns davart ils examens professiunals federals ed ils examens professiunals federals superiurs absolvids.
@@ -770,7 +770,7 @@ En il sistem d’infurmaziun elavura el las suandantas datas:
 <sup>4</sup> El po incumbensar terzas persunas cun la gestiun dal sistem d’infurmaziun e cun l’elavuraziun da las datas.
 
 [^56b-1]: Integrà tras la cifra I da la LF dals 16 da dec. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^56b-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^56b-2]: Abolì tras la cifra 8 da l’agiunta da la LF dals 18 da dec. 2020 (Diever sistematic dal numer da la AVS tras las autoritads), cun effect dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 57
 
@@ -1029,6 +1029,6 @@ Ils decrets qua sutvart vegnan midads sco suonda:
 
 …[^annexu1-lvlu1-3]
 
-[^annexu1-lvlu1-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 cifra 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)agiunta cifra 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)agiunta cifra 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 cifra 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 al. 2 ed agiunta cifra 1, **1998** 1822 art. 2, **1999** 2374 cifra I 2, **2003** 187 agiunta cifra II 2].
+[^annexu1-lvlu1-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 cifra 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)agiunta cifra 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)agiunta cifra 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 cifra 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 al. 2 ed agiunta cifra 1; **1998** 1822 art. 2; **1999** 2374 cifra I 2; **2003** 187 agiunta cifra II 2]
 [^annexu1-lvlu1-2]: [[AS 1992 1973](https://fedlex.data.admin.ch/eli/oc/1992/1973_1973_1973)]
 [^annexu1-lvlu1-3]: Las midadas pon vegnir consultadas en il [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674).

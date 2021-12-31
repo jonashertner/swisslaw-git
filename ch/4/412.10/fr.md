@@ -4,11 +4,11 @@ title: Loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFP
 short: LFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: fr
-version: 2021-08-01
+version: 2022-01-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2003-674-20210801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-674-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20210801/fr"
 
 (LFPr)
 
-du 13 décembre 2002 (Etat le 1<sup>er</sup> août 2021)
+du 13 décembre 2002 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -77,7 +77,7 @@ La présente loi encourage et développe:
 - d. la perméabilité des types et des filières de formation au sein de la formation professionnelle ainsi qu’entre la formation professionnelle et les autres secteurs du système éducatif;
 - e. la transparence du système de formation professionnelle.
 
-[^3-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^3-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
 #### Art. 4
 
@@ -280,7 +280,7 @@ Les ordonnances sur la formation fixent en particulier:
 <sup>4</sup> …[^19-2]
 
 [^19-1]: Nouvelle expression selon le ch. I 8 de l’O du 15 juin 2012 (Réorganisation des départements), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Il a été tenu compte de cette mod. dans tout le texte.
-[^19-2]: Introduit par l’art. 21 ch. 2 de la loi du 18 juin 2004 sur les publications officielles ([RO 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [FF 2003 7047](https://fedlex.data.admin.ch/eli/fga/2003/1274)). Abrogé par le ch. 4 de l’annexe à la LF du 26 sept. 2014, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^19-2]: Introduit par l’art. 21 ch. 2 de la loi du 18 juin 2004 sur les publications officielles ([RO 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [FF 2003 7047](https://fedlex.data.admin.ch/eli/fga/2003/1274)). Abrogé par l’annexe ch. 4 de la LF du 26 sept. 2014, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 ### Section 3 Prestataires
 
@@ -532,7 +532,7 @@ Seuls les titulaires d’un diplôme sanctionnant une formation professionnelle 
 
 <sup>3</sup> Les cantons veillent à ce que les examens de maturité professionnelle aient lieu et délivrent les certificats. La Confédération peut elle aussi, à titre complémentaire, organiser de tels examens.
 
-[^39-1]: Abrogé par le ch. II 2 de l’annexe à la L du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^39-1]: Abrogé par l’annexe ch. II 2 de la L du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 
 #### Art. 40
 
@@ -621,7 +621,7 @@ La Confédération peut offrir des cours de formation aux autres responsables de
 
 [^48a-1]
 
-[^48a-1]: Introduit par le ch. 1 de l’annexe à la LF du 18 juin 2010 ([RO 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6525](https://fedlex.data.admin.ch/eli/fga/2009/1281)). Abrogé par l’art. 36 de la L du 25 sept. 2020 sur la HEFP, avec effet au 1<sup>er</sup> août 2021 ([RO 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [FF 2020 641](https://fedlex.data.admin.ch/eli/fga/2020/67)).
+[^48a-1]: Introduit par l’annexe ch. 1 de la LF du 18 juin 2010 ([RO 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6525](https://fedlex.data.admin.ch/eli/fga/2009/1281)). Abrogé par l’art. 36 de la L du 25 sept. 2020 sur la HEFP, avec effet au 1<sup>er</sup> août 2021 ([RO 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [FF 2020 641](https://fedlex.data.admin.ch/eli/fga/2020/67)).
 
 ## Chapitre 7 Orientation professionnelle, universitaire et de carrière
 
@@ -767,7 +767,7 @@ Il traite les données suivantes dans le système d’information:
 
 - a. les données permettant d’identifier les bénéficiaires des subventions visés à l’art. 56*a*, al. 1 et 4;
 - b. les données permettant d’identifier les personnes ayant passé des examens professionnels fédéraux et des examens professionnels fédéraux supérieurs au sens de l’art. 28;
-- c. le numéro AVS des personnes visées aux let. a et b, conformément à l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^56b-2];
+- c.[^56b-2] …
 - d. les données relatives à la subvention reçue en vertu de l’art. 56*a*, al. 1 et 4;
 - e. les données relatives aux cours préparatoires qui ont été suivis;
 - f. les données relatives aux examens professionnels fédéraux et aux examens professionnels fédéraux supérieurs qui ont été passés.
@@ -777,7 +777,7 @@ Il traite les données suivantes dans le système d’information:
 <sup>4</sup> Il peut confier à des tiers la gestion du système d’information et le traitement des données.
 
 [^56b-1]: Introduit par le ch. I de la LF du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^56b-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^56b-2]: Abrogée par l’annexe ch. 8 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 57
 
@@ -853,7 +853,7 @@ Le Conseil fédéral peut prendre la mesure prévue à l’al. 3 à condition:
 
 <sup>7</sup> Le SEFRI exerce la surveillance des fonds qui ont été déclarés obligatoires. L’ordonnance règle les modalités de la comptabilité et de la révision.
 
-[^60-1]: Nouvelle teneur de la phrase selon le ch. 13 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);FF**2013** 3265).
+[^60-1]: Nouvelle teneur de la phrase selon l’annexe ch. 13 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^60-2]: [RS 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
 
 ## Chapitre 9 Voies de droit, dispositions pénales, exécution
@@ -872,8 +872,8 @@ Les autorités de recours sont:
 
 <sup>2</sup> Au surplus la procédure est régie par les dispositions générales du droit de la procédure administrative fédérale.
 
-[^61-1]: Nouvelle teneur selon le ch. 35 de l’annexe à la loi du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^61-2]: Abrogées par le ch. 35 de l’annexe à la loi du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^61-1]: Nouvelle teneur selon l’annexe ch. 35 de la loi du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^61-2]: Abrogées par l’annexe ch. 35 de la loi du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Section 2 Dispositions pénales
 

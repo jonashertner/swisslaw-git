@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 2002 über die Berufsbildung (Berufsbildun
 short: BBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: de
-version: 2021-08-01
+version: 2022-01-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2003-674-20210801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2003-674-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20210801/de"
 
 (Berufsbildungsgesetz, BBG)
 
-vom 13. Dezember 2002 (Stand am 1. August 2021)
+vom 13. Dezember 2002 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -758,7 +758,7 @@ Es bearbeitet im Informationssystem folgende Daten:
 
 - a. Angaben zur Identifikation von Empfängerinnen und Empfängern der Beiträge nach Artikel 56*a* Absätze 1 und 4;
 - b. Angaben zur Identifikation von Absolventinnen und Absolventen von eidgenössischen Berufsprüfungen und eidgenössischen höheren Fachprüfungen nach Artikel 28;
-- c. die Versichertennummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^56b-2] über die Alters- und Hinterlassenenversicherung von den Personen nach den Buchstaben a und b;
+- c.[^56b-2] ...
 - d. Angaben über den empfangenen Beitrag nach Artikel 56*a* Absätze 1 und 4;
 - e. Angaben über die absolvierten vorbereitenden Kurse;
 - f. Angaben über die absolvierten eidgenössischen Berufsprüfungen und eidgenössischen höheren Fachprüfungen.
@@ -768,7 +768,7 @@ Es bearbeitet im Informationssystem folgende Daten:
 <sup>4</sup> Er kann Dritte mit der Führung des Informationssystems und der Bearbeitung der Daten beauftragen.
 
 [^56b-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^56b-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^56b-2]: Aufgehoben durch Anhang Ziff. 8 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), mit Wirkung seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 57
 
@@ -1027,6 +1027,6 @@ Die nachstehenden Erlasse werden wie folgt geändert:
 
 ...[^annexu1-lvlu1-3]
 
-[^annexu1-lvlu1-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 Ziff. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 Ziff. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 Abs. 2 und Anhang Ziff. 1, **1998** 1822 Art. 2, **1999** 2374 Ziff. I 2, **2003** 187 Anhang Ziff. II 2]
+[^annexu1-lvlu1-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687);[1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 Ziff. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 Ziff. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 Abs. 2 und Anhang Ziff. 1; **1998** 1822 Art. 2; **1999** 2374 Ziff. I 2; **2003** 187 Anhang Ziff. II 2]
 [^annexu1-lvlu1-2]: [[AS 1992 1973](https://fedlex.data.admin.ch/eli/oc/1992/1973_1973_1973)]
 [^annexu1-lvlu1-3]: Die Änderungen können unter [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)konsultiert werden.

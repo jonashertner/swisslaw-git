@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 2002 on Vocational and Professional Education
 short: VPETA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: en
-version: 2021-08-01
+version: 2022-01-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20210801/en/xml/fedlex-data-admin-ch-eli-cc-2003-674-20210801-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20210801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2003-674-20220101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Vocational and Professional Education and Training Act, VPETA)
 
-of 13 December 2002 (Status as of 1 August 2021)
+of 13 December 2002 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -760,7 +760,7 @@ It shall process the following data in the information system:
 
 - a. information to identify recipients of subsidies under Article 56*a* paragraphs 1 and 4;
 - b. information to identify persons completing a preparatory course for a federal professional examination or an advanced federal professional examination under Article 28;
-- c. the national insurance number under Article 50*c* of the Federal Act of 20 December 1946[^56b-2] on Old-Age and Survivors Insurance of the persons referred to in letters a and b;
+- c.[^56b-2] ...
 - d. information about the subsidy amounts received in the cases referred to in Article 56*a* paragraphs 1 and 4;
 - e. information about the preparatory courses;
 - f. information about the successfully completed federal professional examination or advanced federal professional examination.
@@ -770,7 +770,7 @@ It shall process the following data in the information system:
 <sup>4</sup> It may commission third parties to manage the information system and process data.
 
 [^56b-1]: Inserted by No I of FA of 16 Dec 2016, in force since 1 Jan. 2018 ([AS 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^56b-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^56b-2]: Repealed by Annex No 8 of the FA of 18 Dec. 2020 (Systematic Use of the OASI Number by Authorities), with effect from 1 Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 57
 
