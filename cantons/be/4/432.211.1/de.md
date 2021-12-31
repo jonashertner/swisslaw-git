@@ -4,13 +4,13 @@ number: "432.211.1"
 title: Volksschulverordnung
 short: VSV
 language: de
-version: 2020-09-01
-valid_until: 2021-12-31
-version_adopted: 2019-12-18
+version: 2022-01-01
+valid_until: 2022-07-31
+version_adopted: 2021-11-10
 adopted: 2013-01-10
 in_force: 2013-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.211.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1803/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2444/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1803/pdf_file"
 
 (VSV)
 
-vom 10.01.2013 (Stand 01.09.2020)
+vom 10.01.2013 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf die Artikel 12 Absätze 1 und 2, 12a Absatz 2, 25 Absatz 3, 26 Absätze 3 und 4, 27 Absatz 6, 46 Absatz 4, 46a Absatz 3, 47 Absätze 3 und 4, 48 Absatz 3, 49a Absatz 6, 49a1 Absatz 4, 49a2 Absatz 2 Buchstabe b, 49e Absatz 2, 49f Absatz 1, 58 Absatz 7, 61 Absatz 7 Buchstaben a und c und 74 des Volksschulgesetzes vom 19. März 1992 (VSG)[^ingress-1], Artikel 8 des Gesetzes vom 29. Januar 2008 betreffend den Beitritt zur Interkantonalen Vereinbarung für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte[^ingress-2] und Artikel 78 Absatz 1 des Gesetzes vom 26. März 2002 über die Steuerung von Finanzen und Leistungen (FLG)[^ingress-3],
+gestützt auf die Artikel 7a Absatz 2d, 12 Absätze 1 und 2, 12a Absatz 2, 25 Absatz 3, 26 Absätze 3 und 4, 27 Absatz 6, 46 Absatz 4, 46a Absatz 3, 47 Absätze 3 und 4, 48 Absatz 3, 49a Absatz 6, 49a1 Absatz 4, 49a2 Absatz 2 Buchstabe b, 49e Absatz 2, 49f Absatz 1, 58 Absatz 7, 60a Absatz 5, 61 Absatz 7 Buchstaben a und c, 65 Absatz 2, 67b Absatz 2 Buchstabe b und 74 des Volksschulgesetzes vom 19. März 1992 (VSG)[^ingress-1], Artikel 8 des Gesetzes vom 29. Januar 2008 betreffend den Beitritt zur Interkantonalen Vereinbarung für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte[^ingress-2] und Artikel 78 Absatz 1 des Gesetzes vom 26. März 2002 über die Steuerung von Finanzen und Leistungen (FLG)[^ingress-3],
 
 auf Antrag der Erziehungsdirektion,
 
@@ -39,19 +39,10 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung regelt
 
-- a den Eintritt in den Kindergarten,
-- b das reduzierte Pensum im ersten Kindergartenjahr,
-- c den Schulwechsel von Schülerinnen und Schülern,
-- d die Patientenschule im Inselspital,
-- e die Organisation und die Führung der Volksschule,
-- f die Schulanlagen,
-- g die Beiträge für Schülertransport, Schulsozialarbeit und Betreuung während der Ferienzeit,
-- h die kantonale Schule französischer Sprache,
-- i die Steuerung, Zuständigkeiten und Information,
-- k den interkantonalen Volksschulbesuch,
-- l den Besuch eines privaten Ausbildungsgangs für Hochbegabte,
-- m die Erziehungsberatung und
-- n die Privatschulen.
+- a das Volksschulangebot mit Ausnahme des besonderen Volksschulangebots,
+- b Einzelheiten des Bewilligungsverfahrens und der Beitragsgewährung für die Privatschulen,
+- b1 die Gewährung von Beiträgen an Schülerinnen und Schülern in Privatschulen.
+- c–n …
 
 ## 2 Eintritt in den Kindergarten
 
@@ -95,15 +86,11 @@ beschliesst:
 
 <sup>2</sup> Schülerinnen und Schüler aus Privatschulen, die in eine Sekundarklasse übertreten wollen, haben ein ihrer Situation angepasstes Übertrittsverfahren zu bestehen. Nach einer Probezeit von mindestens einem Semester entscheidet die Schulleitung über die definitive Zuweisung.
 
-## 5 Patientenschule im Inselspital
+## 5
 
 #### Art. 7
 
-<sup>1</sup> Die Erziehungsdirektion führt die Patientenschule im Inselspital.
-
-<sup>2</sup> Die Patientenschule sorgt dafür, dass den hospitalisierten Kindern ein den besonderen Verhältnissen angepasster Unterricht zuteil wird.
-
-<sup>3</sup> Die Erziehungsdirektion und das Inselspital regeln die organisatorischen, betrieblichen und finanziellen Verpflichtungen des Kantons und des Inselspitals durch Vertrag.
+**…**
 
 ## 6 Organisation und Führung der Schule
 
@@ -188,6 +175,12 @@ beschliesst:
 
 <sup>2</sup> Können sowohl öffentliche wie auch private Verkehrsträger benutzt werden, erfolgt die Beitragsbemessung ausschliesslich nach dem Ansatz von Absatz 1 Buchstabe a.
 
+#### Art. 14a
+
+**Zuständigkeit**
+
+<sup>1</sup> Die Bildungs- und Kulturdirektion bewilligt die Ausgaben für die Beiträge abschliessend.
+
 #### Art. 15
 
 **Gesuch, Auszahlung der Beiträge**
@@ -198,16 +191,30 @@ beschliesst:
 
 ### 8.2 Schulsozialarbeit
 
+#### Art. 15a
+
+**Definition und Aufgaben**
+
+<sup>1</sup> Die Schulsozialarbeit ist ein freiwilliges und niederschwelliges Beratungsangebot für Kinder, Eltern, Lehrkräfte und Schulleitungen.
+
+<sup>2</sup> Ihr obliegen insbesondere folgende Aufgaben:
+
+- a sie begleitet Kinder in ihrer persönlichen, sozialen und schulischen Entwicklung,
+- b sie unterstützt Kinder bei der Lösung sozialer Probleme und fördert ihre Selbst- und Sozialkompetenzen,
+- c sie vernetzt die Kinder bei Bedarf mit weiteren Stellen,
+- d sie arbeitet in institutionalisierter Form mit der Schule zusammen und unterstützt sie bei der Früherkennung und Bearbeitung von sozialen Problemen,
+- e sie unterstützt die Schule in Fragen des Kindesschutzes und im Rahmen der Früherkennung möglicher Kindeswohlgefährdungen.
+
 #### Art. 16
 
 **Beitragsberechtigung**
 
 <sup>1</sup> Der Kanton richtet den Gemeinden Beiträge an die Schulsozialarbeitskosten aus, sofern diese den Nachweis erbringen über
 
-- a die Einrichtung eines Angebotes von Schulsozialarbeit für die Schule und die Schülerinnen und Schüler bei sozialen Problemstellungen,
+- a die Einrichtung eines Angebots von Schulsozialarbeit für die Schule und die Schülerinnen und Schüler bei sozialen Problemstellungen,
 - b einen direkten Zugang zur Schulsozialarbeit für die Schülerinnen und Schüler, für die Lehrkräfte und weitere schulische Betreuungspersonen sowie für die Eltern,
 - c die erforderliche Qualifikation für die in der Schulsozialarbeit eingesetzten Personen,
-- d einen Beschäftigungsgrad von mindestens 20 Prozent, und
+- d einen Beschäftigungsgrad von mindestens 20 Prozent und
 - e die Gewährleistung der Zusammenarbeit der Schulsozialarbeit mit weiteren Institutionen und Behörden im Schul-, Sozial-, Gesundheits- und Beratungsbereich.
 
 #### Art. 17
@@ -230,9 +237,9 @@ beschliesst:
 
 <sup>1</sup> Für jede Schülerin und jeden Schüler mit direktem Zugang zur Schulsozialarbeit wird ein Beitrag von 16 Franken gewährt.
 
-<sup>2</sup> Übersteigt der nach Absatz 1 errechnete Beitrag 10 Prozent der effektiven Lohnkosten, hat die Gemeinde lediglich Anspruch auf einen Beitrag von 10 Prozent der effektiven Lohnkosten.
+<sup>2</sup> Übersteigt der nach Absatz 1 errechnete Beitrag zehn Prozent der effektiven Lohnkosten, hat die Gemeinde lediglich Anspruch auf einen Beitrag von zehn Prozent der effektiven Lohnkosten.
 
-<sup>3</sup> Die Erziehungsdirektion kann den Beitrag nach Absatz 1 im Umfang der vom Regierungsrat für das Kantonspersonal beschlossenen Anhebung der Gehälter anpassen.
+<sup>3</sup> Die Bildungs- und Kulturdirektion kann den Beitrag nach Absatz 1 im Umfang der vom Regierungsrat für das Kantonspersonal beschlossenen Anhebung der Gehälter anpassen.
 
 #### Art. 20
 
@@ -241,6 +248,8 @@ beschliesst:
 <sup>1</sup> Die Gemeinden haben das Gesuch für das abgeschlossene Schuljahr bis 30. September beim Amt für Kindergarten, Volksschule und Beratung einzureichen. Verspätet eingereichte Gesuche können nicht mehr berücksichtigt werden.
 
 <sup>2</sup> Die Beiträge für Schulsozialarbeitskosten werden in der Regel bis Ende des Kalenderjahres ausbezahlt, in dem das Schuljahr zu Ende gegangen ist.
+
+<sup>3</sup> Die Bildungs- und Kulturdirektion bewilligt die Ausgaben für die Beiträge abschliessend.
 
 ### 8.3 Betreuung während der Ferienzeit
 
@@ -289,7 +298,7 @@ beschliesst:
 - a 30 Franken für einen ganzen Betreuungstag,
 - b 15 Franken für einen halben Betreuungstag.
 
-<sup>2</sup> Der Pauschalbeitrag für die Betreuung von Sonderschülerinnen und Sonderschülern beträgt pro Kind
+<sup>2</sup> Der Pauschalbeitrag für die Betreuung von Schülerinnen und Schülern mit Bedarf am besonderen Volksschulangebot beträgt pro Kind
 
 - a 60 Franken für einen ganzen Betreuungstag,
 - b 30 Franken für einen halben Betreuungstag.
@@ -302,7 +311,7 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Erziehungsdirektion bewilligt die Ausgaben für die Beiträge abschliessend.
+<sup>1</sup> Die Bildungs- und Kulturdirektion bewilligt die Ausgaben für die Beiträge abschliessend.
 
 #### Art. 20g
 
@@ -358,7 +367,7 @@ beschliesst:
 
 **Schulkommission**
 
-<sup>1</sup> Die Schulkommission besteht aus sieben Mitgliedern, wovon zwei vom Bund ernannt werden. Die übrigen Mitglieder werden durch die Erziehungsdirektion ernannt.
+<sup>1</sup> Die Schulkommission besteht aus sieben Mitgliedern, wovon zwei vom Bund ernannt werden. Die übrigen Mitglieder werden durch die Bildungs- und Kulturdirektion ernannt.
 
 <sup>2</sup> Die Schulkommission konstituiert sich selbst. Sie bestimmt das Präsidium und das Vizepräsidium.
 
@@ -372,7 +381,7 @@ beschliesst:
 
 **Berichterstattung der Gemeinde**
 
-<sup>1</sup> Die Gemeinden erstatten dem Kanton mindestens alle drei Jahre strukturiert Bericht über die Ergebnisprüfung und die getroffenen Massnahmen gemäss Art. 51 VSG.
+<sup>1</sup> Die Gemeinden erstatten dem Kanton mindestens alle drei Jahre strukturiert Bericht über die Ergebnisprüfung und die getroffenen Massnahmen gemäss Artikel 51 VSG.
 
 <sup>2</sup> Der Kanton stellt den Gemeinden Instrumente für die Ergebnisprüfung zur Verfügung.
 
@@ -380,20 +389,21 @@ beschliesst:
 
 #### Art. 26
 
-**Aus- und Weiterbildung der Gemeindeorgane**
+**Aus- und Weiterbildung der Gemeindebehörde**
 
-<sup>1</sup> Das Amt für Kindergarten, Volksschule und Beratung sorgt für die Aus- und Weiterbildung der Schulkommissionsmitglieder.
+<sup>1</sup> Das Amt für Kindergarten, Volksschule und Beratung sorgt für die Aus- und Weiterbildung der Gemeindebehörde, insbesondere der Schulkommissionen.
 
-### 10.2 Erziehungsdirektion
+### 10.2 Bildungs- und Kulturdirektion
 
 #### Art. 27
 
 **Direktionsverordnungen**
 
-<sup>1</sup> Die Erziehungsdirektion regelt durch Direktionsverordnung
+<sup>1</sup> Die Bildungs- und Kulturdirektion regelt durch Direktionsverordnung
 
 - a die Lehrpläne für die deutschsprachigen Volksschulen (Art. 12 Abs. 1 und 2 VSG),
 - b die notwendigen zusätzlichen Lehrplanteile für die französischsprachigen Volksschulen (Art. 12a Abs. 2 VSG),
+- b1 die Abweichungen von den Bestimmungen des Volksschulgesetzes für schulpflichtige Kinder aus dem Asyl- und Flüchtlingsbereich in zusätzlichen Klassen oder anderen schulischen Massnahmen (Art. 17a Abs. 4 VSG),
 - c die Laufbahn (Art. 25 Abs. 3 VSG),
 - d das Übertrittsverfahren und die Schullaufbahnentscheide (Art. 26 Abs. 3 und 4 VSG),
 - e die Absenzen und Dispensationen (Art. 27 Abs. 6 VSG),
@@ -403,19 +413,22 @@ beschliesst:
 
 #### Art. 28
 
-**Finanzierung des Publikationsorgans**
+**Finanzierung des Übertrittverfahrens und des Publikationsorgans**
 
-<sup>1</sup> Die Erziehungsdirektion bewilligt die notwendigen Ausgaben zur Finanzierung des Publikationsorgans abschliessend.
+<sup>1</sup> Die Bildungs- und Kulturdirektion bewilligt abschliessend die notwendigen Ausgaben zur Finanzierung
+
+- a des Übertrittsverfahrens,
+- b des Publikationsorgans.
 
 #### Art. 29
 
 **Verfügungsbefugnisse, zuständige Stelle**
 
-<sup>1</sup> Das Amt für Kindergarten, Volksschule und Beratung ist die zuständige Stelle der Erziehungsdirektion für
+<sup>1</sup> Das Amt für Kindergarten, Volksschule und Beratung ist die zuständige Stelle der Bildungs- und Kulturdirektion für
 
 - a die Zuweisung zum Sekundarschulunterricht oder die Einführung eines entsprechenden Unterrichtsangebots (Art. 7 Abs. 3 VSG),
 - b die Entscheide über eine andere Ordnung des kirchlichen Unterrichts und über das Zurverfügungstellen von Schulräumen für kirchlichen Unterricht (Art. 16 Abs. 2 und 3 VSG),
-- c die Verfügung des einzelnen Beitrags an die Kosten der Gemeinden für die Schulsozialarbeit im Rahmen der bewilligten Mittel (Art. 20a Abs. 4 VSG),
+- c …
 - d die Genehmigung der Basisstufe und des cycle élémentaire (Art. 46a Abs. 2 VSG),
 - e die Genehmigung der Beschlüsse gemäss Artikel 47 Absatz 1 VSG (Art. 47 Abs. 3 VSG),
 - f die Einführung und Aufhebung von Niveauunterricht (Art. 47 Abs. 6 VSG),
@@ -426,13 +439,14 @@ beschliesst:
 - k den Vollzug der Volksschulgesetzgebung (Art. 53 VSG),
 - l unter Vorbehalt von Absatz 4 die Bewilligung des Besuchs eines ausserkantonalen Volksschulangebots und die Leistung einer Kostengutsprache für die Schulgeldbeiträge (Art. 58 Abs. 2 VSG),
 - m unter Vorbehalt von Absatz 4 die Bewilligung des Besuchs eines Volksschulangebots von Schülerinnen und Schülern mit zivilrechtlichem Wohnsitz ausserhalb des Kantons (Art. 58 Abs. 3 VSG),
+- m1 die Verfügung des einzelnen Beitrags an die Kosten der Gemeinden für die Schulsozialarbeit im Rahmen der bewilligten Mittel (Art. 60a Abs. 4 VSG),
 - n die Aufsicht über die Privatschulen (Art. 66b Abs. 1 VSG),
 - o den Abschluss der Leistungsverträge mit den beitragsberechtigten Privatschulen (Art. 67a Abs. 1 VSG),
 - p unter Vorbehalt von Absatz 4 die Bewilligung des Besuchs eines privaten Ausbildungsgangs für Hochbegabte im Kanton durch bernische Schülerinnen und Schüler.
 
-<sup>2</sup> Die französischsprachige Abteilung des Amtes für Kindergarten, Volksschule und Beratung nimmt die Zuständigkeiten gemäss Absatz 1 für den französischsprachigen Kantonsteil wahr.
+<sup>2</sup> Die französischsprachige Abteilung des Amts für Kindergarten, Volksschule und Beratung nimmt die Zuständigkeiten gemäss Absatz 1 für den französischsprachigen Kantonsteil wahr.
 
-<sup>3</sup> Die regionalen Schulinspektorate sind die zuständigen Stellen der Erziehungsdirektion für
+<sup>3</sup> Die regionalen Schulinspektorate sind die zuständigen Stellen der Bildungs- und Kulturdirektion für
 
 - a die Einführung und Aufhebung von Förderunterricht (Art. 47 Abs. 6 VSG),
 - b die Bewilligung von Privatunterricht (Art. 71 VSG).
@@ -445,11 +459,198 @@ beschliesst:
 
 <sup>1</sup> Die begründeten Gesuche für den Besuch eines ausserkantonalen Volksschulangebots durch bernische Schülerinnen und Schüler oder für den Besuch eines bernischen Volksschulangebots durch Schülerinnen und Schüler mit zivilrechtlichem Wohnsitz ausserhalb des Kantons sind 60 Tage vor Beginn des Schulbesuchs der zuständigen Stelle nach Artikel 29 einzureichen.
 
-## 12 Besuch eines öffentlichen oder eines privaten Ausbildungsgangs für Hochbegabte
+## 12 Talentförderung
+
+### 12.1 Allgemeine Bestimmungen
 
 #### Art. 31
 
-<sup>1</sup> Die begründeten Gesuche für den Besuch eines privaten Ausbildungsgangs für Hochbegabte im Kanton durch bernische Schülerinnen und Schüler sind 60 Tage vor Beginn des Schulbesuchs der zuständigen Stelle nach Artikel 29 einzureichen.
+**Anerkennung**
+
+<sup>1</sup> Das spezifisch-strukturierte Förderprogramm und der spezifisch-strukturierte Ausbildungsgang für Hochbegabte werden im Rahmen der verfügbaren Mittel anerkannt, wenn sie insbesondere
+
+- a den verfassungsmässig garantierten Grundschulunterricht gewährleisten,
+- b das Talent einer Schülerin oder eines Schülers gezielt fördern,
+- c den Schülerinnen und Schülern konkrete schulische Unterstützung und Koordination des schulischen Alltags bieten, damit diese die Talentförderung und die schulische Ausbildung verbinden sowie alle ihre Fähigkeiten harmonisch entwickeln können,
+- d den Nachweis einer genügenden Nachfrage erbringen.
+
+<sup>2</sup> Die Anerkennung erfolgt durch das Amt für Kindergarten, Volksschule und Beratung.
+
+#### Art. 31a
+
+**Zuständigkeit und Voraussetzungen**
+
+<sup>1</sup> Das Amt für Kindergarten, Volksschule und Beratung erteilt im Rahmen der verfügbaren Plätze die Kostengutsprache gemäss Artikel 7a Absatz 1 VSG und die Bewilligung gemäss Artikel 7a Absatz 2 VSG.
+
+<sup>2</sup> Eine Kostengutsprache bzw. eine Bewilligung wird der Schülerin oder dem Schüler erteilt, wenn
+
+- a die schulische Ausbildung und die Talentförderung durch den Besuch des angestrebten Ausbildungsgangs besser vereinbar sind als durch den Besuch der ordentlichen öffentlichen Schule,
+- b sie oder er eine qualifizierte Bestätigung ihres oder seines Talents und eine hohe Motivation vorweist.
+
+#### Art. 31b
+
+**Bessere Vereinbarkeit**
+
+<sup>1</sup> Die bessere Vereinbarkeit muss wesentlich sein.
+
+<sup>2</sup> Für die Ermittlung der wesentlich besseren Vereinbarkeit von schulischer Ausbildung und Talentförderung wird die Auswirkung auf die persönlichen Lebensumstände der Schülerin oder des Schülers aufgrund des Besuchs des Förderprogramms oder des Ausbildungsgangs im Vergleich zum Besuch der ordentlichen öffentlichen Schule geprüft.
+
+<sup>3</sup> Die Auswirkung auf die persönlichen Lebensumstände wird insbesondere gemessen anhand einer Gegenüberstellung der jeweiligen
+
+- a Stundenpläne,
+- b Struktur der Wochenlektionen,
+- c Schulabwesenheiten zugunsten der Talentförderung,
+- d Wegzeiten zwischen Wohn-, Schul- und Übungsort,
+- e Unterstützung für die Aufarbeitung des verpassten Schulstoffs,
+- f weiteren Unterstützung und individuellen Betreuung.
+
+#### Art. 31c
+
+**Geltungsdauer**
+
+<sup>1</sup> Die Kostengutsprache bzw. die Bewilligung wird befristet.
+
+<sup>2</sup> Sie wird auf Gesuch hin erneuert, wenn die Voraussetzungen erfüllt sind.
+
+#### Art. 31d
+
+**Gesucheinreichung**
+
+<sup>1</sup> Das Gesuch um Aufnahme in die Talentförderung ist bis spätestens 15. Februar beim Amt für Kindergarten, Volksschule und Beratung einzureichen.
+
+<sup>2</sup> Noch nicht vorhandene Unterlagen können nachgereicht werden.
+
+<sup>3</sup> In begründeten Fällen, insbesondere bei Zuzug aus dem Ausland oder einem anderen Kanton, kann das Gesuch nachträglich eingereicht werden.
+
+### 12.2 Qualifizierte Bestätigung
+
+### 12.2.1 Anerkennung als qualifizierte Bestätigung
+
+#### Art. 31e
+
+**Besuch eines ausserkantonalen oder eines privaten spezifisch-strukturierten Ausbildungsgangs für Hochbegabte**
+
+<sup>1</sup> Für den Besuch eines ausserkantonalen oder privaten spezifisch-strukturierten Ausbildungsgangs für Hochbegabte wird als qualifizierte Bestätigung des Talents anerkannt
+
+- a eine Swiss Olympic Talent Card (SOTC) National oder Regional,
+- b ein Empfehlungsschreiben mit Bestätigung des zuständigen Sportverbands über die nationale oder regionale Kaderzugehörigkeit, wenn in der jeweiligen Sportart oder in der Alterskategorie der Schülerin oder des Schülers keine SOTC ausgestellt wird,
+- c eine Talentkarte der Fachkommission im musischen Bereich.
+
+#### Art. 31f
+
+**Besuch eines innerkantonalen spezifisch-strukturierten Förderprogramms oder eines innerkantonalen spezifisch-strukturierten Ausbildungsgangs für Hochbegabte**
+
+<sup>1</sup> Für den Besuch eines innerkantonalen spezifisch-strukturierten Förderprogramms oder eines innerkantonalen spezifisch-strukturierten Ausbildungsgangs für Hochbegabte wird als qualifizierte Bestätigung des Talents anerkannt
+
+- a eine Swiss Olympic Talent Card (SOTC) National oder Regional,
+- b ein Empfehlungsschreiben mit Bestätigung des zuständigen Sportverbands über die nationale oder regionale Kaderzugehörigkeit, wenn in der jeweiligen Sportart oder in der Alterskategorie der Schülerin oder des Schülers keine SOTC ausgestellt wird,
+- c eine prognostisch-integrative und systematische Einschätzung des Sportverbands zum Talent und Potenzial der Schülerin oder des Schülers, wenn die oder der kantonale Beauftragte für Leistungssport diese bestätigt,
+- d eine Talentkarte der Fachkommission im musischen Bereich.
+
+### 12.2.2 Ausstellung der qualifizierten Bestätigung im musischen Bereich
+
+#### Art. 31g
+
+<sup>1</sup> Eine qualifizierte Bestätigung in Form einer Talentkarte wird Schülerinnen und Schülern ausgestellt, die
+
+- a einen hohen künstlerischen Kompetenzstand aufweisen,
+- b sich stark für die entsprechende Ausbildung im künstlerischen Bereich engagieren und
+- c in ein Monitoring eingebunden sind, das regelmässig Potenzial und Weiterentwicklung überprüft und dabei künstlerische Kompetenzen, Persönlichkeitsfaktoren und Umfeld einbezieht.
+
+### 12.2.3 Fachkommission im musischen Bereich
+
+#### Art. 31h
+
+**Zuständigkeit**
+
+<sup>1</sup> Die Fachkommission im musischen Bereich ist zuständig für insbesondere die Talentförderung Musik, Tanzen und Gestalten.
+
+#### Art. 31i
+
+**Aufgaben**
+
+<sup>1</sup> Die Fachkommission berät und unterstützt das Amt für Kindergarten, Volksschule und Beratung in Fragen der Talentförderung.
+
+<sup>2</sup> Die Fachkommission
+
+- a beurteilt im Bereich Musik das Talent einer Schülerin oder eines Schülers zuhanden des Amts,
+- b beauftragt insbesondere in den Bereichen Tanzen und Gestalten eine Institution, die das Talent der Schülerin oder des Schülers beurteilt,
+- c stellt eine Talentkarte aus,
+- d fördert den Austausch zwischen den Institutionen, die Förderprogramme für Musiktalente führen oder die Berufsausbildungen sicherstellen.
+
+#### Art. 31k
+
+**Zusammensetzung**
+
+<sup>1</sup> Die Fachkommission besteht aus höchstens zehn Mitgliedern.
+
+<sup>2</sup> Die Bildungs- und Kulturdirektion bestimmt die Mitgliederzahl.
+
+<sup>3</sup> Die Fachkommission setzt sich zusammen aus Vertretungen
+
+- a des Verbands Bernischer Musikschulen,
+- b der PreColleges,
+- c der Hochschulen,
+- d der Kunst- und Sportschulen,
+- e weiterer Institutionen.
+
+<sup>4</sup> Mindestens ein Mitglied vertritt den französischsprachigen Kantonsteil.
+
+#### Art. 31l
+
+**Amtsdauer**
+
+<sup>1</sup> Die Amtsdauer der Mitglieder der Fachkommission beträgt vier Jahre.
+
+<sup>2</sup> Sie beginnt für jedes Mitglied individuell mit der Ernennung.
+
+#### Art. 31m
+
+**Ernennung**
+
+<sup>1</sup> Die Bildungs- und Kulturdirektion ernennt die Mitglieder der Fachkommission und deren Präsidentin oder Präsidenten.
+
+#### Art. 31n
+
+**Beschlussfähigkeit, Beschlüsse**
+
+<sup>1</sup> Die Fachkommission ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist.
+
+<sup>2</sup> Sie beschliesst mit der Mehrheit der Stimmenden. Die Präsidentin oder der Präsident stimmt mit und gibt im Fall der Stimmengleichheit den Stichentscheid.
+
+<sup>3</sup> Die Fachkommission kann Beschlüsse auf dem Zirkulationsweg fassen, wenn alle Mitglieder mit diesem Verfahren einverstanden sind.
+
+#### Art. 31o
+
+**Sekretariat**
+
+<sup>1</sup> Das Amt für Kindergarten, Volksschule und Beratung führt das Sekretariat der Fachkommission.
+
+<sup>2</sup> Die Mitarbeiterin oder der Mitarbeiter des Amts, die oder der für das Sekretariat verantwortlich ist, nimmt mit beratender Stimme und Antragsrecht an den Sitzungen der Fachkommission teil.
+
+#### Art. 31p
+
+**Konstituierung**
+
+<sup>1</sup> Die Fachkommission konstituiert sich im Rahmen der Vorgaben dieser Verordnung selbst.
+
+<sup>2</sup> Sie kann für ihre Organisation ein Reglement erlassen. Dieses unterliegt der Genehmigung durch die Bildungs- und Kulturdirektion.
+
+#### Art. 31q
+
+**Entschädigungen**
+
+<sup>1</sup> Die Mitglieder der Fachkommission haben Anspruch auf ein Taggeld und eine Entschädigung nach Massgabe der Verordnung vom 2. Juli 1980 über die Taggelder und Reiseentschädigungen der Mitglieder staatlicher Kommissionen[^31q-1].
+
+[^31q-1]: BSG [152.256](https://www.belex.sites.be.ch/data/152.256/de)
+
+#### Art. 31r
+
+**Jahresentschädigungen**
+
+<sup>1</sup> Die Präsidentin oder der Präsident der Fachkommission erhält für die Funktion zusätzlich zum Taggeld eine Jahresentschädigung.
+
+<sup>2</sup> Das Amt für Kindergarten, Volksschule und Beratung kann Mitgliedern der Fachkommission mit aufwendigen Aufgaben zusätzlich zum Taggeld eine Jahresentschädigung ausrichten.
 
 ## 13 Erziehungsberatung
 
@@ -467,9 +668,7 @@ beschliesst:
 
 #### Art. 33
 
-**Zusammenarbeit mit dem Kinder- und Jugendpsychiatrischen Dienst**
-
-<sup>1</sup> Die Erziehungsberatungsstellen arbeiten partnerschaftlich mit dem Kinder- und Jugendpsychiatrischen Dienst (KJPD) zusammen.
+**…**
 
 #### Art. 34
 
@@ -477,7 +676,7 @@ beschliesst:
 
 <sup>1</sup> Dienstleistungen gemäss Artikel 32 Absatz 2 Buchstabe a sind unentgeltlich.
 
-<sup>2</sup> Abklärungen, Beurteilungen und Behandlungen von Kindern und Jugendlichen durch den KJPD sind entsprechend den Tarifverträgen mit den Krankenkassen grundsätzlich kostenpflichtig. Für Abklärungen bis zu vier Konsultationen oder bis zu acht abrechenbaren Stunden trägt der Kanton einen allfälligen Selbstbehalt.
+<sup>2</sup> …
 
 #### Art. 35
 
@@ -489,17 +688,91 @@ beschliesst:
 
 ## 14 Privatschulen
 
+#### Art. 35a
+
+**Mindestanzahl Schülerinnen und Schüler**
+
+<sup>1</sup> Werden mindestens zehn Schülerinnen und Schüler in einer schulischen Struktur unterrichtet, ist eine Bewilligung zum Führen einer Privatschule erforderlich.
+
+<sup>2</sup> Werden zwischen fünf bis neun Schülerinnen und Schüler in einer schulischen Struktur unterrichtet, kann eine Bewilligung zum Führen einer Privatschule erteilt werden.
+
+<sup>3</sup> Werden weniger als fünf Schülerinnen und Schüler in einer schulischen Struktur unterrichtet, wird keine Bewilligung erteilt.
+
+<sup>4</sup> Fällt die Schülerzahl einer bewilligten Privatschule unter fünf Schülerinnen und Schüler, so wird die Bewilligung entzogen.
+
+#### Art. 35b
+
+**Gesuchverfahren**
+
+<sup>1</sup> Im Gesuch um die Bewilligung hat die Privatschule aufzuzeigen, wie sie ihre Verbindungen zu ideellen Vereinigungen veröffentlicht hat.
+
 #### Art. 36
 
 **Schülerverzeichnis**
 
-<sup>1</sup> Die nach VSG zuständige Schulkommission hat die Pflicht, ein Verzeichnis der die Privatschulen besuchenden Schülerinnen und Schüler zu führen und die Erfüllung der Schulpflicht zu überwachen.
+<sup>1</sup> Die nach dem Volksschulgesetz zuständige Schulkommission führt ein Verzeichnis der die Privatschulen besuchenden Schülerinnen und Schüler und überwacht die Erfüllung der Schulpflicht.
 
 #### Art. 37
 
 **Gewährung von Beiträgen**
 
 <sup>1</sup> Eine nachhaltige Nachfrage für die Gewährung von Beiträgen liegt vor, wenn die Privatschule von mindestens 100 Schülerinnen und Schülern besucht und seit mindestens 20 Jahren geführt wird.
+
+## 14a Beiträge an Privatschulen
+
+#### Art. 37a
+
+**Zuständigkeit**
+
+<sup>1</sup> Die Bildungs- und Kulturdirektion bewilligt abschliessend die Ausgaben für die Beiträge
+
+- a an Privatschulen gemäss Artikel 67 VSG,
+- b für Psychomotorik, Logopädie und heilpädagogische Unterstützung gemäss Artikel 67b VSG.
+
+## 14b Beiträge an Schülerinnen und Schüler in Privatschulen
+
+#### Art. 37b
+
+**Hochspezialisierte Psychomotorik, hochspezialisierte Logopädie und heilpädagogische Unterstützung**
+
+<sup>1</sup> Das Amt für Kindergarten, Volksschule und Beratung kann Schülerinnen und Schülern in Privatschulen Beiträge an die Kosten für hochspezialisierte Psychomotorik, hochspezialisierte Logopädie und heilpädagogische Unterstützung gewähren.
+
+<sup>2</sup> Die hochspezialisierte Psychomotorik ist ein Behandlungsverfahren mit hoher Intensität, das von einer hoch spezialisierten Fachperson erbracht wird.
+
+<sup>3</sup> Die hochspezialisierte Logopädie ist ein diagnosespezifisches Behandlungsverfahren. Sie wird durch hoch spezialisierte Fachpersonen erbracht und kommt bei entsprechender Diagnose zur Anwendung.
+
+<sup>4</sup> Die Bildungs- und Kulturdirektion regelt die anspruchsbegründenden Diagnosen, den Umfang der Intensität sowie des Kostenbeitrags durch Verordnung.
+
+#### Art. 37c
+
+**Beitragsgewährung**
+
+<sup>1</sup> Der Kostenbeitrag wird gewährt, wenn der Bedarf an hochspezialisierter Psychomotorik, an hochspezialisierter Logopädie oder an Heilpädagogik im Umfang einer verstärkten sonderpädagogischen Massnahme ausgewiesen ist.
+
+<sup>2</sup> Er wird zudem nur gewährt, soweit nicht die betroffene Schülerin oder der betroffene Schüler selbst oder Dritte für die Kosten aufkommen müssen.
+
+#### Art. 37d
+
+**Bedarfsabklärung**
+
+<sup>1</sup> Die kantonale Erziehungsberatungsstelle klärt den Bedarf ab.
+
+<sup>2</sup> Sie kann für die Abklärung eine Fachstelle beiziehen.
+
+#### Art. 37e
+
+**Bestimmung des Kostenbeitrags**
+
+<sup>1</sup> Das Amt für Kindergarten, Volksschule und Beratung bestimmt den Kostenbeitrag auf der Grundlage der Abklärung.
+
+<sup>2</sup> Die Verfügung
+
+- a stellt den Bedarf der Schülerin oder des Schülers an verstärkten sonderpädagogischen Massnahmen fest,
+- b legt die Art und den Umfang der notwendigen Massnahmen fest,
+- c bezeichnet die Durchführungsstelle,
+- d sichert die Kostenübernahme zu.
+
+<sup>3</sup> Die Zusicherung der Kostenübernahme wird befristet.
 
 ## 15 Übergangs- und Schlussbestimmungen
 
@@ -539,6 +812,12 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. August 2013 in Kraft.
+
+## T1 Übergangsbestimmung der Änderung vom 10.11.2021
+
+#### Art. T1-1
+
+<sup>1</sup> Zwischen der Bildungs- und Kulturdirektion und den Mitarbeitenden der Patientenschule im Inselspital geschlossene Arbeitsverträge bleiben längstens bis 31. Juli 2022 bestehen.
 
 Bern, 10. Januar 2013
 

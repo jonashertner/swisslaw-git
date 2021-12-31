@@ -4,13 +4,13 @@ number: "432.211.1"
 title: "Ordonnance sur l'école obligatoire"
 short: OEO
 language: fr
-version: 2020-09-01
-valid_until: 2021-12-31
-version_adopted: 2019-12-18
+version: 2022-01-01
+valid_until: 2022-07-31
+version_adopted: 2021-11-10
 adopted: 2013-01-10
 in_force: 2013-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.211.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1803/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2444/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,11 +19,11 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1803/pdf_file"
 
 (OEO)
 
-du 10.01.2013 (état au 01.09.2020)
+du 10.01.2013 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu les articles 12, alinéas 1 et 2, 12a, alinéa 2, 25, alinéa 3, 26, alinéas 3 et 4, 27, alinéa 6, 46, alinéa 4, 46a, alinéa 3, 47, alinéas 3 et 4, 48, alinéa 3, 49a, alinéa 6, 49a1, alinéa 4, 49a2, alinéa 2, lettre b, 49e, alinéa 2, 49f, alinéa 1, 58, alinéa 7, 61, alinéa 7, lettres a et c et 74 de la loi du 19 mars 1992 sur l’école obligatoire (LEO)[^ingress-1], l’article 8 de la loi du 29 janvier 2008 concernant l’adhésion à l’accord intercantonal sur les écoles offrant des formations spécifiques aux élèves surdoués[^ingress-2] et l’article 78, alinéa 1 de la loi du 26 mars 2002 sur le pilotage des finances et des prestations (LFP)[^ingress-3],
+vu les articles 7a, alinéa 2d, 12, alinéas 1 et 2, 12a, alinéa 2, 25, alinéa 3, 26, alinéas 3 et 4, 27, alinéa 6, 46, alinéa 4, 46a, alinéa 3, 47, alinéas 3 et 4, 48, alinéa 3, 49a, alinéa 6, 49a1, alinéa 4, 49a2, alinéa 2, lettre b, 49e, alinéa 2, 49f, alinéa 1, 58, alinéa 7, 60a, alinéa 5, 61, alinéa 7, lettres a et c, 65, alinéa 2, 67b, alinéa 2, lettre b et 74 de la loi du 19 mars 1992 sur l’école obligatoire (LEO)[^ingress-1], l’article 8 de la loi du 29 janvier 2008 concernant l’adhésion à l’accord intercantonal sur les écoles offrant des formations spécifiques aux élèves surdoués[^ingress-2] et l’article 78, alinéa 1 de la loi du 26 mars 2002 sur le pilotage des finances et des prestations (LFP)[^ingress-3],
 
 sur proposition de la Direction de l’instruction publique,
 
@@ -39,19 +39,10 @@ arrête:
 
 <sup>1</sup> La présente ordonnance règle
 
-- a l’entrée à l’école enfantine,
-- b le programme réduit de la première année d’école enfantine,
-- c l’admission des élèves dans une autre école,
-- d l’école pour enfants hospitalisés à l’Hôpital de l’Ile,
-- e l’organisation et la conduite des établissements de la scolarité obligatoire,
-- f les installations scolaires,
-- g le subventionnement des transports d’élèves, du travail social en milieu scolaire et de la prise en charge durant les vacances scolaires,
-- h l’Ecole cantonale de langue française,
-- i le pilotage, les compétences et l’information,
-- k la fréquentation intercantonale d’établissements de la scolarité obligatoire,
-- l la fréquentation d’une filière de formation privée adaptée aux élèves surdoués,
-- m le Service psychologique pour enfants et adolescents et
-- n les écoles privées.
+- a l’offre de l’école obligatoire, exception faite de l’offre spécialisée de l’école obligatoire,
+- b les modalités de détail relatives à la procédure d’autorisation et à l’octroi des subventions pour les écoles privées,
+- b1 l’octroi de subventions aux élèves des écoles privées.
+- c–n …
 
 ## 2 Entrée à l’école enfantine
 
@@ -95,15 +86,11 @@ arrête:
 
 <sup>2</sup> Les élèves qui viennent d’une école privée et qui souhaitent être admis dans une classe secondaire doivent satisfaire aux exigences de la procédure d’admission spéciale adaptée à leur situation. Au terme d’une période probatoire d’au moins un semestre, la direction d’école statue sur l’admission définitive de l’élève.
 
-## 5 Ecole pour enfants hospitalisés de l’Hôpital de l’Ile
+## 5
 
 #### Art. 7
 
-<sup>1</sup> La Direction de l’instruction publique assure la gestion de l’école pour enfants hospitalisés de l’Hôpital de l’Ile.
-
-<sup>2</sup> L’école pour enfants hospitalisés veille à ce qu’un enseignement adapté à leur état soit dispensé aux enfants hospitalisés.
-
-<sup>3</sup> La Direction de l’instruction publique et l’Hôpital de l’Ile règlent par contrat les obligations du canton et de l’Hôpital de l’Ile en matière d’organisation, d’exploitation et de finances.
+**…**
 
 ## 6 Organisation et conduite de l’école
 
@@ -141,7 +128,7 @@ arrête:
 - c 64 m2 par classe pour l’enseignement dans les domaines «arts visuels et activités créatrices» et «connaissance de l’environnement», ainsi que pour les bibliothèques/médiathèques,
 - d 288 m2 pour une salle de sport.
 
-<sup>2</sup> Dans des cas justifiés, l’Office de l’enseignement préscolaire et obligatoire, du conseil et de l’orientation peut autoriser des dérogations à ces prescriptions minimales.
+<sup>2</sup> Dans des cas justifiés, l’Office de l’école obligatoire et du conseil peut autoriser des dérogations à ces prescriptions minimales.
 
 ## 8 Subventionnement des transports d’élèves, du travail social en milieu scolaire et de la prise en charge durant les vacances scolaires
 
@@ -188,15 +175,35 @@ arrête:
 
 <sup>2</sup> Si l’élève peut indifféremment utiliser des transports publics ou des transports privés, la subvention est exclusivement calculée sur la base du tarif défini à l’alinéa 1, lettre a.
 
+#### Art. 14a
+
+**Compétence**
+
+<sup>1</sup> La Direction de l’instruction publique et de la culture est seule compétente pour autoriser les dépenses relatives aux subventions.
+
 #### Art. 15
 
 **Demande, versement des subventions**
 
-<sup>1</sup> Les communes déposent leur demande de subvention pour l’année scolaire écoulée, au plus tard le 30 septembre, auprès de l’Office de l’enseignement préscolaire et obligatoire, du conseil et de l’orientation. Les demandes déposées en retard ne peuvent pas être prises en compte.
+<sup>1</sup> Les communes déposent leur demande de subvention pour l’année scolaire écoulée, au plus tard le 30 septembre, auprès de l’Office de l’école obligatoire et du conseil. Les demandes déposées en retard ne peuvent pas être prises en considération.
 
 <sup>2</sup> En règle générale, les subventions allouées au financement des frais de transport d’élèves sont versées avant la fin de l’année civile durant laquelle l’année scolaire prend fin.
 
 ### 8.2 Travail social en milieu scolaire
+
+#### Art. 15a
+
+**Définition et tâches**
+
+<sup>1</sup> Le travail social en milieu scolaire est une offre de conseil facultative et facilement accessible qui est destinée aux enfants, aux parents, aux membres du corps enseignant et aux directions d’école.
+
+<sup>2</sup> Les travailleurs et travailleuses sociaux en milieu scolaire assument en particulier les tâches suivantes:
+
+- a accompagner les enfants dans leur développement personnel, social et scolaire;
+- b soutenir les enfants dans la résolution de difficultés sociales et encourager le développement de leurs compétences personnelles et sociales;
+- c si nécessaire, diriger les enfants vers d’autres services;
+- d collaborer avec l’école sous une forme institutionnalisée et la soutenir dans le dépistage précoce et le traitement de difficultés sociales;
+- e soutenir l’école pour les questions liées à la protection de l’enfant et au dépistage précoce d'éventuelles situations de mise en danger du bien-être de l’enfant.
 
 #### Art. 16
 
@@ -230,17 +237,19 @@ arrête:
 
 <sup>1</sup> Une subvention de 16 francs est octroyée pour chaque élève ayant directement accès au travail social en milieu scolaire.
 
-<sup>2</sup> Si la subvention calculée conformément à l’alinéa 1 dépasse 10 pour cent des coûts de traitement effectifs, la commune n’a droit qu’à une subvention correspondant à 10 pour cent des coûts de traitement effectifs.
+<sup>2</sup> Si la subvention calculée conformément à l’alinéa 1 dépasse dix pour cent des coûts de traitement effectifs, la commune n’a droit qu’à une subvention correspondant à dix pour cent des coûts de traitement effectifs.
 
-<sup>3</sup> La Direction de l’instruction publique peut adapter le montant de la subvention visée à l’alinéa 1 proportionnellement à l’augmentation des traitements fixée par le Conseil-exécutif pour le personnel de l’administration cantonale.
+<sup>3</sup> La Direction de l’instruction publique et de la culture peut adapter le montant de la subvention visée à l’alinéa 1 proportionnellement à l’augmentation des traitements fixée par le Conseil-exécutif pour le personnel de l’administration cantonale.
 
 #### Art. 20
 
 **Demande, versement des subventions**
 
-<sup>1</sup> Les communes déposent leur demande de subvention pour l’année scolaire écoulée, au plus tard le 30 septembre, auprès de l’Office de l’enseignement préscolaire et obligatoire, du conseil et de l’orientation. Les demandes déposées en retard ne peuvent pas être prises en compte.
+<sup>1</sup> Les communes déposent leur demande de subvention pour l’année scolaire écoulée, au plus tard le 30 septembre, auprès de l’Office de l’école obligatoire et du conseil. Les demandes déposées en retard ne peuvent pas être prises en considération.
 
 <sup>2</sup> En règle générale, les subventions allouées au financement du travail social en milieu scolaire sont versées avant la fin de l’année civile durant laquelle l’année scolaire prend fin.
+
+<sup>3</sup> La Direction de l’instruction publique et de la culture est seule compétente pour autoriser les dépenses relatives aux subventions.
 
 ### 8.3 Prise en charge durant les vacances scolaires
 
@@ -289,7 +298,7 @@ arrête:
 - a 30 francs par journée entière de prise en charge,
 - b 15 francs par demi-journée de prise en charge.
 
-<sup>2</sup> Dans le cas d’enfants bénéficiant d'une scolarisation spécialisée, la subvention forfaitaire par enfant s’élève à
+<sup>2</sup> Dans le cas d’enfants relevant de l’offre spécialisée de l’école obligatoire, la subvention forfaitaire par enfant s’élève à
 
 - a 60 francs par journée entière de prise en charge,
 - b 30 francs par demi-journée de prise en charge.
@@ -302,13 +311,13 @@ arrête:
 
 **Compétence**
 
-<sup>1</sup> La Direction de l’instruction publique est seule compétente pour autoriser les dépenses relatives aux subventions.
+<sup>1</sup> La Direction de l’instruction publique et de la culture est seule compétente pour autoriser les dépenses relatives aux subventions.
 
 #### Art. 20g
 
 **Demande, versement des subventions**
 
-<sup>1</sup> Les communes déposent leur demande de subvention pour la période de subventionnement écoulée, au plus tard le 30 septembre, auprès de l’Office de l’enseignement préscolaire et obligatoire, du conseil et de l’orientation.
+<sup>1</sup> Les communes déposent leur demande de subvention pour la période de subventionnement écoulée, au plus tard le 30 septembre, auprès de l’Office de l’école obligatoire et du conseil.
 
 <sup>2</sup> En règle générale, les subventions allouées au financement de la prise en charge des enfants durant les vacances scolaires sont versées avant la fin de l’année civile durant laquelle la période de subventionnement a pris fin.
 
@@ -358,7 +367,7 @@ arrête:
 
 **Commission scolaire**
 
-<sup>1</sup> La commission scolaire se compose de sept membres, deux d’entre eux étant nommés par la Confédération. Les autres membres sont nommés par la Direction de l’instruction publique.
+<sup>1</sup> La commission scolaire se compose de sept membres, deux d’entre eux étant nommés par la Confédération. Les autres membres sont nommés par la Direction de l’instruction publique et de la culture.
 
 <sup>2</sup> La commission scolaire se constitue elle-même. Elle désigne le président ou la présidente ainsi que le vice-président ou la viceprésidente.
 
@@ -380,20 +389,21 @@ arrête:
 
 #### Art. 26
 
-**Formation et formation continue des organes communaux**
+**Formation et formation continue des autorités communales**
 
-<sup>1</sup> L’Office de l’enseignement préscolaire et obligatoire, du conseil et de l’orientation veille à la formation et à la formation continue des membres des commissions scolaires.
+<sup>1</sup> L’Office de l’école obligatoire et du conseil veille à la formation et à la formation continue des autorités communales, en particulier des commissions scolaires.
 
-### 10.2 Direction de l’instruction publique
+### 10.2 Direction de l’instruction publique et de la culture
 
 #### Art. 27
 
 **Ordonnances de Direction**
 
-<sup>1</sup> La Direction de l’instruction publique règle par voie d’ordonnance de Direction:
+<sup>1</sup> La Direction de l’instruction publique et de la culture règle par voie d’ordonnance de Direction:
 
 - a les plans d’études pour les établissements germanophones de la scolarité obligatoire (art. 12, al. 1 et 2 LEO),
 - b les parties complémentaires des plans d’études nécessaires pour les établissements francophones de la scolarité obligatoire (art. 12a, al. 2 LEO),
+- b1 les dérogations aux dispositions de la loi sur l’école obligatoire pour les enfants en âge scolaire qui relèvent du domaine de l’asile et des réfugiés et qui sont scolarisés dans des classes supplémentaires ou qui bénéficient d’autres mesures d’ordre scolaire (art. 17a, al. 4 LEO),
 - c le parcours scolaire (art. 25, al. 3 LEO),
 - d la procédure d’admission et les décisions d’orientation (art. 26, al. 3 et 4 LEO),
 - e les absences et les dispenses (art. 27, al. 6 LEO),
@@ -403,19 +413,22 @@ arrête:
 
 #### Art. 28
 
-**Financement de l’organe de publication officiel**
+**Financement de la procédure de passage et de l’organe de publication**
 
-<sup>1</sup> La Direction de l’instruction publique est seule compétente pour autoriser les dépenses nécessaires au financement de l’organe de publication officiel.
+<sup>1</sup> La Direction de l’instruction publique et de la culture est seule compétente pour autoriser les dépenses nécessaires au financement
+
+- a de la procédure de passage,
+- b de l’organe de publication.
 
 #### Art. 29
 
 **Compétences décisionnelles, service compétent**
 
-<sup>1</sup> L’Office de l’enseignement préscolaire et obligatoire, du conseil et de l’orientation est le service compétent de la Direction de l’instruction publique pour
+<sup>1</sup> L’Office de l’école obligatoire et du conseil est le service compétent de la Direction de l’instruction publique et de la culture pour
 
 - a affecter les élèves à l’enseignement secondaire ou mettre en place un tel enseignement (art. 7, al. 3 LEO);
 - b statuer sur une réglementation différente de l’enseignement religieux et sur la mise à disposition de locaux pour cet enseignement (art. 16, al. 2 et 3 LEO);
-- c statuer sur le versement de chaque subvention accordée pour le travail social en milieu scolaire des communes dans la limite des moyens accordés (art. 20a, al. 4 LEO);
+- c …
 - d approuver le cycle élémentaire et la Basisstufe (art. 46a, al. 2 LEO);
 - e approuver les décisions visées à l’article 47, alinéa 1 LEO (art. 47, al. 3 LEO);
 - f mettre en place ou supprimer des cours à niveaux (art. 47, al. 6 LEO);
@@ -426,18 +439,19 @@ arrête:
 - k exécuter la législation sur l’école obligatoire (art. 53 LEO);
 - l autoriser la fréquentation d’un établissement de la scolarité obligatoire situé dans un autre canton et émettre une garantie de prise en charge pour les contributions aux écolages (art. 58, al. 2 LEO), sous réserve de l’alinéa 4;
 - m autoriser des élèves ayant leur domicile civil en dehors du canton à fréquenter un établissement de la scolarité obligatoire (art. 58, al. 3 LEO), sous réserve de l’alinéa 4;
+- m1 statuer sur le versement de chaque subvention accordée pour le travail social en milieu scolaire des communes dans la limite des moyens accordés (art. 60a, al. 4 LEO);
 - n assurer la surveillance des écoles privées (art. 66b, al. 1 LEO);
 - o conclure des contrats de prestations avec les écoles privées qui ont droit à des subventions (art. 67a, al. 1 LEO);
 - p autoriser des élèves bernois à fréquenter dans le canton une filière de formation privée destinée aux élèves surdoués, sous réserve de l’alinéa 4.
 
-<sup>2</sup> La section francophone de l’Office de l’enseignement préscolaire et obligatoire, du conseil et de l’orientation exerce les compétences définies à l’alinéa 1 pour la partie francophone du canton.
+<sup>2</sup> La section francophone de l’Office de l’école obligatoire et du conseil exerce les compétences définies à l’alinéa 1 pour la partie francophone du canton.
 
-<sup>3</sup> Les inspections scolaires régionales sont les services compétents de la Direction de l’instruction publique pour
+<sup>3</sup> Les inspections scolaires régionales sont les services compétents de la Direction de l’instruction publique et de la culture pour
 
 - a mettre en place et supprimer des cours d’approfondissement (art. 47, al. 6 LEO);
 - b autoriser l’instruction privée (art. 71 LEO).
 
-<sup>4</sup> La Section des écoles moyennes de l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle est l’autorité compétente pour délivrer les autorisations aux élèves bernois qui souhaitent fréquenter une filière de formation publique, située en dehors du canton, correspondant à l’enseignement gymnasial de 9e année ou une filière de formation publique ou privée, située en dehors ou dans le canton, destinée aux élèves surdoués.
+<sup>4</sup> La Section des écoles moyennes de l’Office des écoles moyennes et de la formation professionnelle est l’autorité compétente pour délivrer les autorisations aux élèves bernois qui souhaitent fréquenter une filière de formation publique, située en dehors du canton, correspondant à l’enseignement gymnasial de 9<sup>e</sup> année ou une filière de formation publique ou privée, située en dehors ou dans le canton, destinée aux élèves surdoués.
 
 ## 11 Fréquentation intercantonale d’établissements de la scolarité obligatoire
 
@@ -445,11 +459,198 @@ arrête:
 
 <sup>1</sup> Les demandes motivées pour la fréquentation d’un établissement de la scolarité obligatoire situé dans un autre canton par les élèves bernois ou pour la fréquentation d’un établissement de la scolarité obligatoire situé dans le canton de Berne par les élèves dont le domicile civil est situé dans un autre canton sont déposées au plus tard 60 jours avant l’entrée dans l’établissement en question auprès du service compétent désigné à l’article 29.
 
-## 12 Fréquentation d’une formation publique ou privée spécifique aux élèves surdoués
+## 12 Encouragement des talents
+
+### 12.1 Dispositions générales
 
 #### Art. 31
 
-<sup>1</sup> Les demandes motivées pour la fréquentation dans le canton d’une formation privée spécifique aux élèves surdoués par des élèves bernois sont déposées au plus tard 60 jours avant le début de la formation auprès du service compétent désigné à l’article 29.
+**Reconnaissance**
+
+<sup>1</sup> Les programmes d’encouragement particuliers et les formations spécifiques aux élèves possédant des talents particuliers sont reconnus dans la limite des moyens disponibles lorsqu’ils
+
+- a assurent l’enseignement de base garanti par la Constitution;
+- b visent à encourager de manière ciblée les talents des élèves;
+- c offrent aux élèves un soutien scolaire et une coordination du quotidien scolaire concrets afin que ceux-ci puissent concilier le développement de leur talent avec leur formation scolaire et développer toutes leurs capacités de façon harmonieuse;
+- d justifient d’une demande suffisante.
+
+<sup>2</sup> La reconnaissance incombe à l’Office de l’école obligatoire et du conseil.
+
+#### Art. 31a
+
+**Compétence et conditions**
+
+<sup>1</sup> L’Office de l’école obligatoire et du conseil délivre les garanties de prise en charge des frais prévues à l’article 7a, alinéa 1 LEO et les autorisations prévues à l’article 7a, alinéa 2 LEO dans la limite des places disponibles.
+
+<sup>2</sup> Une garantie de prise en charge des frais ou une autorisation est délivrée aux élèves lorsque
+
+- a la filière de formation visée permet de mieux concilier formation scolaire et encouragement du talent que la filière de formation proposée à l’école publique ordinaire;
+- b l’élève dispose d’une attestation délivrée par un organe qualifié et fait montre d’une motivation élevée.
+
+#### Art. 31b
+
+**Meilleure conciliation**
+
+<sup>1</sup> La meilleure conciliation entre formation scolaire et encouragement du talent doit être considérable.
+
+<sup>2</sup> Pour déterminer si la formation spécifique ou le programme d’encouragement particulier permet de considérablement mieux concilier formation scolaire et encouragement du talent que la formation proposée à l’école publique ordinaire, les répercussions sur les conditions de vie de l’élève font l’objet d’un examen.
+
+<sup>3</sup> Les répercussions sur les conditions de vie de l’élève sont en particulier évaluées sur la base d’une comparaison des deux filières de formation en matière
+
+- a d’horaires,
+- b de structure des leçons hebdomadaires,
+- c d’absences dues aux mesures d’encouragement,
+- d de temps de trajet entre le domicile, l’école et le lieu de l’exercice de l’activité sportive ou artistique,
+- e de soutien pour le rattrapage des matières enseignées durant l’absence de l’élève,
+- f d’autres prestations de soutien et d’encadrement individuel.
+
+#### Art. 31c
+
+**Durée de validité**
+
+<sup>1</sup> Les garanties de prise en charge des frais et les autorisations sont valables pour une durée déterminée.
+
+<sup>2</sup> Elles sont renouvelées sur demande si les conditions sont remplies.
+
+#### Art. 31d
+
+**Dépôt des demandes**
+
+<sup>1</sup> Les demandes d’admission aux formations et programmes destinés à l’encouragement des talents doivent être soumises à l’Office de l’école obligatoire et du conseil au plus tard le 15 février.
+
+<sup>2</sup> Les documents qui ne sont pas encore disponibles à ce moment-là peuvent être remis ultérieurement.
+
+<sup>3</sup> Dans des cas justifiés, en particulier si l’élève arrive de l’étranger ou d’un autre canton, la demande peut être soumise ultérieurement.
+
+### 12.2 Attestation délivrée par un organe qualifié
+
+### 12.2.1 Reconnaissance de l’attestation délivrée par un organe qualifié
+
+#### Art. 31e
+
+**Fréquentation d’une formation extracantonale ou privée spécifique aux élèves possédant des talents particuliers**
+
+<sup>1</sup> Pour les formations extracantonales ou privées spécifiques aux élèves possédant des talents particuliers, est réputée attestation du talent particulier délivrée par un organe qualifié
+
+- a une Swiss Olympic Talent Card (SOTC) National ou Régional;
+- b une lettre de recommandation de la fédération sportive compétente attestant que l’élève fait partie du cadre national ou régional lorsqu’aucune SOTC n’est délivrée pour le sport en question ou la classe d’âge de l’élève;
+- c une carte talent de la commission spécialisée dans le domaine artistique.
+
+#### Art. 31f
+
+**Fréquentation d’un programme d’encouragement intracantonal particulier ou d’une formation intracantonale spécifique aux élèves possédant des talents particuliers**
+
+<sup>1</sup> Pour les programmes d’encouragement intracantonaux particuliers ou les formations intracantonales spécifiques aux élèves possédant des talents particuliers, est réputée attestation du talent particulier délivrée par un organe qualifié
+
+- a une Swiss Olympic Talent Card (SOTC) National ou Régional;
+- b une lettre de recommandation de la fédération sportive compétente attestant que l’élève fait partie du cadre national ou régional lorsqu’aucune SOTC n’est délivrée pour le sport en question ou la classe d’âge de l’élève;
+- c une évaluation pronostique, intégrative et systématique du talent et du potentiel de l’élève effectuée par la fédération sportive compétente et attestée par le ou la responsable cantonale de la promotion du sport de compétition;
+- d une carte talent de la commission spécialisée dans le domaine artistique.
+
+### 12.2.2 Délivrance de l’attestation d’un organe qualifié pour le domaine artistique
+
+#### Art. 31g
+
+<sup>1</sup> Une attestation d’un organe qualifié est délivrée sous la forme d’une carte talent aux élèves qui
+
+- a ont un niveau élevé de compétence dans une discipline artistique;
+- b s'engagent fortement pour suivre une formation spécifique dans le domaine artistique et
+- c font l’objet d’un monitorage qui vise à contrôler régulièrement leur potentiel et leur développement et qui prend en compte leurs compétences artistiques, leurs traits de personnalité et leur environnement.
+
+### 12.2.3 Commission spécialisée dans le domaine artistique
+
+#### Art. 31h
+
+**Compétence**
+
+<sup>1</sup> La commission spécialisée dans le domaine artistique est en particulier compétente pour l’encouragement des talents dans les domaines de la musique, de la danse et des arts visuels.
+
+#### Art. 31i
+
+**Tâches**
+
+<sup>1</sup> La commission spécialisée conseille et soutient l’Office de l’école obligatoire et du conseil dans les questions liées à l’encouragement des talents.
+
+<sup>2</sup> La commission spécialisée
+
+- a évalue, à l'attention de l’office, le talent des élèves dans le domaine de la musique;
+- b charge une institution d’évaluer le talent des élèves en particulier dans les domaines de la danse et des arts visuels;
+- c délivre des cartes talent;
+- d promeut les échanges entre les institutions qui proposent des programmes d’encouragement pour les musiciens et musiciennes de talent ou qui garantissent les formations professionnalisantes.
+
+#### Art. 31k
+
+**Composition**
+
+<sup>1</sup> La commission spécialisée se compose de dix membres au plus.
+
+<sup>2</sup> La Direction de l’instruction publique et de la culture définit le nombre de membres.
+
+<sup>3</sup> La commission spécialisée comprend des représentants et représentantes
+
+- a de l’Association bernoise des écoles de musique,
+- b des PreColleges,
+- c des hautes écoles,
+- d des écoles d’art ou de sport,
+- e d’autres institutions.
+
+<sup>4</sup> Au moins un membre représente la partie francophone du canton.
+
+#### Art. 31l
+
+**Durée des mandats**
+
+<sup>1</sup> Le mandat des membres de la commission spécialisée est de quatre ans.
+
+<sup>2</sup> Pour chaque membre, il commence à la nomination.
+
+#### Art. 31m
+
+**Nomination**
+
+<sup>1</sup> La Direction de l’instruction publique et de la culture nomme les membres et le président ou la présidente de la commission spécialisée.
+
+#### Art. 31n
+
+**Quorum, décisions**
+
+<sup>1</sup> Le quorum de la commission spécialisée est atteint lorsque la majorité de ses membres sont présents.
+
+<sup>2</sup> La commission spécialisée prend les décisions à la majorité des votants. Le président ou la présidente vote et, en cas d’égalité des voix, tranche.
+
+<sup>3</sup> La commission spécialisée peut arrêter des décisions par voie de circulation si tous ses membres approuvent cette procédure.
+
+#### Art. 31o
+
+**Secrétariat**
+
+<sup>1</sup> L’Office de l’école obligatoire et du conseil assure le secrétariat de la commission spécialisée.
+
+<sup>2</sup> Le collaborateur ou la collaboratrice de l’office qui est chargée du secrétariat participe aux réunions de la commission spécialisée avec voix consultative et droit de proposition.
+
+#### Art. 31p
+
+**Constitution**
+
+<sup>1</sup> La commission spécialisée se constitue elle-même dans le cadre des prescriptions énoncées dans la présente ordonnance.
+
+<sup>2</sup> Elle peut édicter pour son organisation un règlement qui doit être approuvé par la Direction de l’instruction publique et de la culture.
+
+#### Art. 31q
+
+**Indemnités**
+
+<sup>1</sup> Les membres de la commission spécialisée ont droit aux indemnités journalières et aux indemnités prévues par l’ordonnance du 2 juillet 1980 concernant les indemnités journalières et de déplacement des membres des commissions cantonales[^31q-1].
+
+[^31q-1]: RSB [152.256](https://www.belex.sites.be.ch/data/152.256/fr)
+
+#### Art. 31r
+
+**Indemnités annuelles**
+
+<sup>1</sup> En plus de l’indemnité journalière, le président ou la présidente de la commission spécialisée perçoit une indemnité annuelle pour sa fonction.
+
+<sup>2</sup> L’Office de l’école obligatoire et du conseil peut verser une indemnité annuelle en plus de l’indemnité journalière aux membres de la commission spécialisée lorsque le travail effectué est considérable.
 
 ## 13 Service psychologique pour enfants et adolescents
 
@@ -467,9 +668,7 @@ arrête:
 
 #### Art. 33
 
-**Collaboration avec les services de pédopsychiatrie**
-
-<sup>1</sup> Les services psychologiques pour enfants et adolescents travaillent en partenariat avec les services de pédopsychiatrie (SPP).
+**…**
 
 #### Art. 34
 
@@ -477,7 +676,7 @@ arrête:
 
 <sup>1</sup> Les prestations de service visées à l’article 32, alinéa 2, lettre a sont gratuites.
 
-<sup>2</sup> Les examens, les évaluations et les traitements assurés par les SPP pour les enfants et les adolescents sont en principe payants conformément aux contrats tarifaires conclus avec les caisses-maladie. Pour les examens incluant au maximum quatre consultations ou au maximum huit heures pouvant être prises en compte, le canton prend à sa charge la quote-part éventuelle des assurés.
+<sup>2</sup> …
 
 #### Art. 35
 
@@ -489,17 +688,91 @@ arrête:
 
 ## 14 Ecoles privées
 
+#### Art. 35a
+
+**Nombre minimal d’élèves**
+
+<sup>1</sup> Une autorisation de gérer une école privée est requise lorsqu’au moins dix élèves reçoivent un enseignement dans le cadre d’une structure scolaire.
+
+<sup>2</sup> Une autorisation de gérer une école privée peut être délivrée lorsqu’entre cinq et neuf élèves reçoivent un enseignement dans le cadre d’une structure scolaire.
+
+<sup>3</sup> Aucune autorisation de gérer une école privée n’est délivrée lorsque moins de cinq élèves reçoivent un enseignement dans le cadre d’une structure scolaire.
+
+<sup>4</sup> Si le nombre d’élèves d’une école privée autorisée passe en dessous de cinq, l’autorisation de gérer l’école privée est retirée.
+
+#### Art. 35b
+
+**Procédure de demande**
+
+<sup>1</sup> Dans sa demande d’autorisation, l’école privée doit montrer comment elle a rendu publiques les relations qu’elle entretient avec des associations à but idéel.
+
 #### Art. 36
 
 **Liste des élèves d’écoles privées**
 
-<sup>1</sup> La commission scolaire investie de cette compétence en vertu de la LEO est tenue d’établir la liste des élèves qui fréquentent une école privée et de veiller à ce que ces élèves suivent leur scolarité.
+<sup>1</sup> La commission scolaire investie de cette compétence en vertu de la loi sur l'école obligatoire établit la liste des élèves qui fréquentent une école privée et veille à ce que ces élèves suivent leur scolarité.
 
 #### Art. 37
 
 **Octroi de subventions**
 
 <sup>1</sup> Il y a demande durable justifiant l’octroi de subventions lorsque l’école privée accueille au moins 100 élèves et existe depuis au moins 20 ans.
+
+## 14a Subventions octroyées aux écoles privées
+
+#### Art. 37a
+
+**Compétences**
+
+<sup>1</sup> La Direction de l'instruction publique et de la culture est seule compétente pour autoriser les dépenses
+
+- a relatives aux subventions aux écoles privées visées à l'article 67 LEO,
+- b relatives aux subventions pour les interventions de psychomotricité, de logopédie et de soutien pédagogique visées à l'article 67b LEO.
+
+## 14b Subventions octroyées aux élèves des écoles privées
+
+#### Art. 37b
+
+**Interventions hautement spécialisées de psychomotricité, interventions hautement spécialisées de logopédie et soutien pédagogique spécialisé**
+
+<sup>1</sup> L’Office de l’école obligatoire et du conseil peut octroyer des subventions aux coûts des interventions hautement spécialisées de psychomotricité, des interventions hautement spécialisées de logopédie et du soutien pédagogique spécialisé pour les élèves des écoles privées.
+
+<sup>2</sup> Les interventions hautement spécialisées de psychomotricité sont des thérapies de haute intensité qui sont fournies par des spécialistes hautement qualifiés.
+
+<sup>3</sup> Les interventions hautement spécialisées de logopédie sont des thérapies reposant sur un diagnostic. Elles sont fournies par des spécialistes hautement qualifiés en présence du diagnostic correspondant.
+
+<sup>4</sup> La Direction de l’instruction publique et de la culture fixe par voie d’ordonnance les diagnostics motivant le droit aux subventions, l’intensité requise et le montant des subventions.
+
+#### Art. 37c
+
+**Octroi des subventions**
+
+<sup>1</sup> Les subventions sont octroyées lorsque les besoins en matière d’interventions hautement spécialisées de psychomotricité, d’interventions hautement spécialisées de logopédie ou de soutien pédagogique spécialisé sont attestés et sont d’une étendue comparable à une mesure de pédagogie spécialisée renforcée.
+
+<sup>2</sup> De plus, elles ne sont octroyées que dans la mesure où l’élève concerné ou des tiers ne doivent pas prendre en charge les coûts.
+
+#### Art. 37d
+
+**Evaluation des besoins**
+
+<sup>1</sup> Le Service psychologique pour enfants et adolescents évalue les besoins.
+
+<sup>2</sup> Il peut faire appel à un service spécialisé.
+
+#### Art. 37e
+
+**Calcul du montant des subventions**
+
+<sup>1</sup> L’Office de l’école obligatoire et du conseil calcule le montant des subventions sur la base de l’évaluation des besoins.
+
+<sup>2</sup> La décision de l'Office de l'école obligatoire et du conseil
+
+- a définit les besoins de l’élève en matière de mesures de pédagogie spécialisée renforcées;
+- b définit le type et l’étendue des mesures nécessaires;
+- c désigne le service prestataire;
+- d garantit la prise en charge des coûts.
+
+<sup>3</sup> La garantie de prise en charge des coûts a une durée limitée.
 
 ## 15 Dispositions transitoires et dispositions finales
 
@@ -539,6 +812,12 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> août 2013.
+
+## T1 Disposition transitoire de la modification du 10.11.2021
+
+#### Art. T1-1
+
+<sup>1</sup> Les contrats de travail conclus entre la Direction de l'instruction publique et de la culture et les collaborateurs et collaboratrices de l’école pour enfants hospitalisés de l’Hôpital de l’Ile restent en vigueur jusqu'au 31 juillet 2022 au plus tard.
 
 Berne, le 10 janvier 2013
 
