@@ -4,11 +4,11 @@ title: Loi fédérale du 19 juin 2020 sur les prestations transitoires pour les 
 short: LPtra
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/373"
 language: fr
-version: 2021-07-01
+version: 2022-01-01
 adopted: 2020-06-19
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2021-373-20210701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-373-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20210701/fr"
 
 (LPtra)
 
-du 19 juin 2020 (Etat le 1<sup>er</sup> juillet 2021)
+du 19 juin 2020 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -369,7 +369,7 @@ Sont applicables par analogie les dispositions de la LAVS[^20-1], y compris lors
 - f. les mesures de précaution: art. 50*g* LAVS.
 - [tab] <sup>2</sup> Les organes visés à l’art. 19, al. 1, ont accès en ligne au registre central des prestations en cours de la Centrale de compensation (art. 50*b* LAVS).
 
-[^20-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^20-1]: RS **83****1.10**
 [^20-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^20-3]: Voir actuellement l’art. 49*b*.
 
@@ -499,7 +499,7 @@ La modification d’autres actes est réglée en annexe.
 
 <sup>1</sup> Les personnes qui sont arrivées en fin de droit dans l’assurance-chômage avant l’entrée en vigueur de la présente loi n’ont pas droit aux prestations transitoires.
 
-<sup>1bis</sup> En dérogation à l’al. 1, les personnes qui arrivent en fin de droit entre le 1<sup>er</sup> janvier 2021 et l’entrée en vigueur de la présente loi ont droit aux prestations transitoires au sens de la présente loi, pour autant qu’elles remplissent les conditions d’octroi fixées à l’art. 5.[^30-1]
+<sup>1bis</sup> ...[^30-1]
 
 <sup>2</sup> L’art. 10, al. 1, let. c, 3<sup>e</sup> partie de la phrase, s’applique également aux contributions de solidarité versées avant l’entrée en vigueur de la présente loi.
 

@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. Juni 2020 über Überbrückungsleistungen für älte
 short: ÜLG
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/373"
 language: de
-version: 2021-07-01
+version: 2022-01-01
 adopted: 2020-06-19
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2021-373-20210701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-373-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20210701/de"
 
 (ÜLG)
 
-vom 19. Juni 2020 (Stand am 1. Juli 2021)
+vom 19. Juni 2020 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -34,7 +34,7 @@ beschliesst:
 
 Die Bestimmungen des Bundesgesetzes vom 6. Oktober 2000[^1-1] über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG) sind auf die Überbrückungsleistungen nach diesem Gesetz anwendbar, soweit dieses Gesetz nicht ausdrücklich eine Abweichung vom ATSG vorsieht.
 
-[^1-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^1-1]: SR **830****.****1**
 
 ## 2. Abschnitt: Zweck, Grundsatz und Bestandteile der Überbrückungsleistungen
 
@@ -351,7 +351,7 @@ Krankheits- und Behinderungskosten werden vergütet, wenn:
 
 <sup>2</sup> Die Buchführung, die Revision und die Haftung für Schäden durch die Organe nach Artikel 21 Absatz 2 ELG richten sich nach den jeweiligen Bestimmungen des ELG.
 
-[^19-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^19-1]: SR **831****.****30**
 
 #### Art. 20
 
@@ -477,7 +477,7 @@ In Bezug auf Personen, für die die Rechtsvorschriften der sozialen Sicherheit d
 [^27-2]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit ABl. L 166 vom 30.4. 2004, S. 1; eine unverbindliche, konsolidierte Fassung dieser Verordnung ist veröffentlicht in [SR 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323).
 [^27-3]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit (mit Anhängen); ABl. L 284 vom 30.10.2009, S. 1; eine unverbindliche, konsolidierte Fassung dieser Verordnung ist veröffentlicht in [SR 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356).
 [^27-4]: Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11); [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604), [4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) bzw. des revidierten EFTA-Übereinkommens.
-[^27-5]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540); [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113), [4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) bzw. des revidierten EFTA-Übereinkommens.
+[^27-5]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens (AS **2****005** 3909; **2008** 4273; **2009** 621, 4845) bzw. des revidierten EFTA-Übereinkommens.
 [^27-6]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
 ## 10. Abschnitt: Evaluation
@@ -500,7 +500,7 @@ Die Änderung anderer Erlasse wird im Anhang geregelt.
 
 <sup>1</sup> Personen, die vor dem Inkrafttreten dieses Gesetzes ausgesteuert wurden, haben keinen Anspruch auf Überbrückungsleistungen.
 
-<sup>1bis</sup> In Abweichung von Absatz 1 haben Personen, die zwischen dem 1. Januar 2021 und dem Inkrafttreten dieses Gesetzes ausgesteuert werden, einen Anspruch auf Überbrückungsleistungen nach diesem Gesetz, sofern sie die Anspruchsvoraussetzungen gemäss Artikel 5 erfüllen.[^30-1]
+<sup>1bis</sup> …[^30-1]
 
 <sup>2</sup> Artikel 10 Absatz 1 Buchstabe c letzter Teilsatz gilt auch für Solidaritätsbeiträge, die vor dem Inkrafttreten dieses Gesetzes ausbezahlt worden sind.
 
@@ -526,6 +526,6 @@ Anhang
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373)konsultiert werden.

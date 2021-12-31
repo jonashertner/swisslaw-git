@@ -4,11 +4,11 @@ title: Legge federale del 19 giugno 2020 sulle prestazioni transitorie per i dis
 short: LPTD
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/373"
 language: it
-version: 2021-07-01
+version: 2022-01-01
 adopted: 2020-06-19
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2021-373-20210701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-373-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20210701/it"
 
 (LPTD)
 
-del 19 giugno 2020 (Stato 1° luglio 2021)
+del 19 giugno 2020 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -232,7 +232,7 @@ Non sono computati:
 - d. le borse di studio e altri aiuti all’istruzione per i figli di età inferiore a 25 anni ancora in formazione.
 
 [^10-1]: [<sup>RS</sup> <sup>211.223.13</sup>](https://fedlex.data.admin.ch/eli/cc/2017/145)
-[^10-2]: RS **832.1****0**
+[^10-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^10-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 11
@@ -500,7 +500,7 @@ La modifica di altri atti normativi è disciplinata nell’allegato.
 
 <sup>1</sup> Chi ha esaurito il diritto all’indennità di disoccupazione prima dell’entrata in vigore della presente legge non ha diritto alle prestazioni transitorie.
 
-<sup>1bis</sup> In deroga al capoverso 1, le persone che esauriscono il diritto all’indennità di disoccupazione tra il 1° gennaio 2021 e l’entrata in vigore della presente legge hanno diritto alle prestazioni transitorie ai sensi della presente legge se soddisfano le condizioni di cui all’articolo 5.[^30-1]
+<sup>1bis</sup> ...[^30-1]
 
 <sup>2</sup> L’articolo 10 capoverso 1 lettera c ultima frase si applica anche ai contributi di solidarietà versati prima dell’entrata in vigore della presente legge.
 
