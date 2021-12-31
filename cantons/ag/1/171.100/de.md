@@ -4,13 +4,13 @@ number: "171.100"
 title: Gesetz über die Einwohnergemeinden
 short: "Gemeindegesetz, GG"
 language: de
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-08
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2019-12-10
 adopted: 1978-12-19
 in_force: 1981-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/171.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2983/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3034/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2983/pdf_file"
 
 (Gemeindegesetz, GG)
 
-Vom 19.12.1978 (Stand 01.07.2021)
+Vom 19.12.1978 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -203,9 +203,7 @@ beschliesst:
 
 <sup>2</sup> Die zur Erfüllung einzelner Aufgaben noch bestehenden Ortsgemeinden sind durch Beschluss des Regierungsrates mit den entsprechenden Einwohner- oder Ortsbürgergemeinden zu vereinigen.
 
-<sup>3</sup> Vorbehalten bleiben die Bestimmungen des Schulgesetzes[^13-1] über die Schulgemeinden.
-
-[^13-1]: SAR [401.100](https://gesetzessammlungen.ag.ch/data/401.100/de)
+<sup>3</sup> …
 
 #### § 14
 
@@ -317,7 +315,7 @@ beschliesst:
 <sup>1</sup> In der Gemeindeversammlung oder an der Urne werden gewählt:
 
 - a) die Mitglieder des Gemeinderates, der Gemeindeammann sowie der Vizeammann;
-- b) die Mitglieder der Schulpflege, der Finanzkommission und allenfalls der Geschäftsprüfungskommission;
+- b) die Mitglieder der Finanzkommission und allenfalls der Geschäftsprüfungskommission;
 - c) die Stimmenzähler und ihre Ersatzmitglieder;
 - d) die Mitglieder und Ersatzmitglieder der Steuerkommission;
 - e) …
@@ -645,7 +643,7 @@ beschliesst:
 
 - a) die Mitglieder des Einwohnerrates;
 - b) die Mitglieder des Gemeinderates, der Gemeindeammann sowie der Vizeammann;
-- c) die Mitglieder der Schulpflege;
+- c) …
 - d) die Mitglieder und Ersatzmitglieder der Steuerkommission.
 
 #### § 57
@@ -776,7 +774,7 @@ beschliesst:
 
 <sup>1</sup> Der Gemeinderat bereitet die Geschäfte zuhanden des Einwohnerrates vor und lässt demselben Bericht und Antrag zukommen.
 
-<sup>2</sup> Die Mitglieder des Gemeinderates nehmen an den Sitzungen des Einwohnerrates mit beratender Stimme teil. Sie sind befugt, Anträge zu stellen. Bei der Behandlung von Schulangelegenheiten wohnt ausserdem der Präsident oder ein anderes Mitglied der Schulpflege der Sitzung mit beratender Stimme bei.
+<sup>2</sup> Die Mitglieder des Gemeinderates nehmen an den Sitzungen des Einwohnerrates mit beratender Stimme teil. Sie sind befugt, Anträge zu stellen.
 
 ### 2.4. Verwaltungsorganisation
 
