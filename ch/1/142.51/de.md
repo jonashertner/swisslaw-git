@@ -4,11 +4,11 @@ title: Bundesgesetz vom 20. Juni 2003 über das Informationssystem für den Ausl
 short: BGIAA
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/301"
 language: de
-version: 2020-04-01
+version: 2022-01-01
 adopted: 2003-06-20
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20200401/de/xml/fedlex-data-admin-ch-eli-cc-2006-301-20200401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20200401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2006-301-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20200401/de"
 
 (BGIAA)
 
-vom 20. Juni 2003 (Stand am 1. April 2020)
+vom 20. Juni 2003 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -99,7 +99,7 @@ Für die Erstellung von Statistiken über den Widerruf und die Nichtverlängerun
 - b. die freiwillige oder zwangsweise Rückführung;
 - c. die betroffenen Heimat- oder Herkunftsstaaten.[^3-18]
 
-<sup>5</sup> Die Versichertennummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^3-19] über die Alters- und Hinterlassenenversicherung dient dem elektronischen Datenaustausch zwischen amtlichen Personenregistern.[^3-20]
+<sup>5</sup> Die AHV-Nummer[^3-19] nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^3-20] über die Alters- und Hinterlassenenversicherung dient dem elektronischen Datenaustausch zwischen amtlichen Personenregistern.[^3-21]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 12. April 2006 über die Anpassung des BGIAA infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 29. Mai 2006 ([AS 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 [^3-2]: Fassung gemäss Art. 2 Ziff. 2 des BB vom 18. Juni 2010 (Weiterentwicklung des Schengen-Besitzstands und Einführung biometrischer Daten im Ausländerausweis), in Kraft seit 24. Jan. 2011 ([AS 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
@@ -119,8 +119,9 @@ Für die Erstellung von Statistiken über den Widerruf und die Nichtverlängerun
 [^3-16]: Eingefügt durch Anhang Ziff. 2 des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
 [^3-17]: Eingefügt durch Ziff. I 2 des BG vom 18. Juni 2010 über die Anpassung von Bestimmungen betreffend die Erfassung von Daten im Bereich der Migration, in Kraft seit 24. Jan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 [^3-18]: Eingefügt durch Anhang Ziff. 3 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^3-19]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^3-20]: Eingefügt durch Anhang Ziff. 1 des Registerharmonisierungsgesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2008 ([AS 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [BBl 2006 427](https://fedlex.data.admin.ch/eli/fga/2006/49)).
+[^3-19]: Ausdruck gemäss Anhang Ziff. 1 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^3-20]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-21]: Eingefügt durch Anhang Ziff. 1 des Registerharmonisierungsgesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2008 ([AS 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [BBl 2006 427](https://fedlex.data.admin.ch/eli/fga/2006/49)).
 
 #### Art. 4
 
@@ -133,7 +134,7 @@ Das Informationssystem enthält:
 - a. Daten zur Identität der registrierten Personen;
 - [tab] a<sup>bis</sup>.[^4-1] biometrische Daten (Gesichtsbild und Fingerabdrücke Gesichtsbild, Fingerabdrücke und Unterschrift (biometrische Daten);
 - b. Daten zu den spezifischen Aufgaben des SEM nach Artikel 3 Absätze 2 und 3;
-- c.[^4-2] …
+- c.[^4-2] ...
 - d.[^4-3] ein Subsystem mit den Dossiers der Verfahren im Ausländer- und Asylbereich in elektronischer Form;
 - e.[^4-4] Audioaufzeichnungen für Sprachgutachten im Asylbereich;
 - f.[^4-5] den Vermerk «Medizinalfall», um die Asylsuchenden auf die Kantone zu verteilen.[^4-6]
@@ -154,7 +155,7 @@ Das Informationssystem enthält:
 
 <sup>1</sup> Das SEM ist für die Sicherheit des Informationssystems und die Rechtmässigkeit der Bearbeitung der Personendaten verantwortlich.[^5-2]
 
-<sup>2</sup> …[^5-3]
+<sup>2</sup> ...[^5-3]
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 12. April 2006 über die Anpassung des BGIAA infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 29. Mai 2006 ([AS 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 [^5-2]: Fassung gemäss Ziff. I der V vom 12. April 2006 über die Anpassung des BGIAA infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 29. Mai 2006 ([AS 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
@@ -262,7 +263,7 @@ Das SEM kann die von ihm oder in seinem Auftrag im Informationssystem bearbeitet
 - e. den Grenzposten der kantonalen Polizeibehörden und dem Grenzwachtskorps zur Durchführung der Personenkontrolle und zur Erteilung von Ausnahmevisa;
 - f. den schweizerischen Auslandvertretungen und Missionen zur Prüfung der Visumgesuche und zur Erfüllung ihrer Aufgaben im Bereich des Schweizer Bürgerrechts;
 - g. dem Staatssekretariat und der Politischen Direktion des Eidgenössischen Departements für auswärtige Angelegenheiten (Departement) zur Prüfung und zum Entscheid über Visumgesuche im Zuständigkeitsbereich des Departements;
-- h. der zentralen Ausgleichsstelle zur Abklärung von Leistungsgesuchen sowie zur Zuteilung und Überprüfung der AHV-Versichertennummer;
+- h. der zentralen Ausgleichsstelle zur Abklärung von Leistungsgesuchen sowie zur Zuteilung und Überprüfung der AHV-Nummer;
 - i. den kantonalen Steuerbehörden für ihre Aufgaben bei der Erhebung der Quellensteuer;
 - j.[^9-7] den Zivilstandsämtern und ihren Aufsichtsbehörden: zur Personenidentifikation im Zusammenhang mit Zivilstandsereignissen, für die Vorbereitung einer Eheschliessung oder Eintragung der Partnerschaft sowie zur Verhinderung der Umgehung des Ausländerrechts nach Artikel 97*a* Absatz 1 des Zivilgesetzbuches[^9-8] und Artikel 6 Absatz 2 des Partnerschaftsgesetzes vom 18. Juni 2004[^9-9];
 - k.[^9-10] der Zeugenschutzstelle des Bundes gemäss dem Bundesgesetz vom 23. Dezember 2011[^9-11] über den ausserprozessualen Zeugenschutz zur Erfüllung ihrer Aufgaben;
@@ -273,7 +274,7 @@ Das SEM kann die von ihm oder in seinem Auftrag im Informationssystem bearbeitet
 Das SEM kann die von ihm oder in seinem Auftrag im Informationssystem bearbeiteten Daten des Asylbereichs folgenden Behörden oder Stellen durch ein Abrufverfahren zugänglich machen:[^9-17]
 
 - a.[^9-18] den kantonalen und kommunalen Ausländerbehörden, den kantonalen und kommunalen Polizeibehörden, den kantonalen Sozialhilfe- und Arbeitsmarktbehörden für ihre Aufgaben im Asylbereich sowie den kantonalen und kommunalen Polizeibehörden zur Personenidentifikation;
-- b.[^9-19] …
+- b.[^9-19] ...
 - c.[^9-20]
 
   den Bundesbehörden im Bereich des Polizeiwesens:
@@ -284,7 +285,7 @@ Das SEM kann die von ihm oder in seinem Auftrag im Informationssystem bearbeitet
 - d. den Beschwerdeinstanzen des Bundes für die Instruktion der Beschwerden nach dem AsylG;
 - e. den Grenzposten der kantonalen Polizeibehörden und dem Grenzwachtkorps zur Durchführung der Personenkontrolle und Erteilung von Ausnahmevisa;
 - f. der Eidgenössischen Finanzkontrolle zur Wahrung der Finanzaufsicht;
-- g. der zentralen Ausgleichsstelle zur Abklärung von Leistungsgesuchen sowie zur Zuteilung und Überprüfung der AHV-Versichertennummer;
+- g. der zentralen Ausgleichsstelle zur Abklärung von Leistungsgesuchen sowie zur Zuteilung und Überprüfung der AHV-Nummer;
 - h. den kantonalen Steuerbehörden für ihre Aufgaben bei der Erhebung der Quellensteuer;
 - i.[^9-21] den Zivilstandsämtern und ihren Aufsichtsbehörden: zur Personenidentifikation im Zusammenhang mit Zivilstandsereignissen, für die Vorbereitung einer Eheschliessung oder Eintragung der Partnerschaft sowie zur Verhinderung der Umgehung des Ausländerrechts nach Artikel 97*a* Absatz 1 des Zivilgesetzbuches und Artikel 6 Absatz 2 des Partnerschaftsgesetzes vom 18. Juni 2004;
 - j.[^9-22] der Zeugenschutzstelle des Bundes gemäss dem Bundesgesetz vom 23. Dezember 2011 über den ausserprozessualen Zeugenschutz zur Erfüllung ihrer Aufgaben;
@@ -435,7 +436,7 @@ Der Bundesrat erlässt die Ausführungsbestimmungen. Er regelt insbesondere:
 
 **Änderung bisherigen Rechts**
 
-…[^18-1]
+...[^18-1]
 
 [^18-1]: Die Änderungen können unter [AS 2006 1931](https://fedlex.data.admin.ch/eli/oc/2006/301)konsultiert werden.
 
@@ -445,7 +446,7 @@ Der Bundesrat erlässt die Ausführungsbestimmungen. Er regelt insbesondere:
 
 Bis zu ihrer Aufhebung zum Zeitpunkt der Einführung des neuen nationalen Visumsystems lauten die Artikel 4 Absatz 1 Buchstabe c und 8*a* wie folgt:
 
-…[^18a-2]
+...[^18a-2]
 
 [^18a-1]: Eingefügt durch Art. 2 Ziff. 2 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung und des Beschlusses über das Visa-Informationssystem (VIS), in Kraft seit 11. Okt. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^18a-2]: Die Änderungen können unter [AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272)konsultiert werden.

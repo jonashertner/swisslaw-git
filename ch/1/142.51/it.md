@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 2003 sul sistema d'informazione per il sett
 short: LSISA
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/301"
 language: it
-version: 2020-04-01
+version: 2022-01-01
 adopted: 2003-06-20
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20200401/it/xml/fedlex-data-admin-ch-eli-cc-2006-301-20200401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20200401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2006-301-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20200401/it"
 
 (LSISA)
 
-del 20 giugno 2003 (Stato 1° aprile 2020) (Stato 1° aprile 2020)
+del 20 giugno 2003 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -42,7 +42,7 @@ decreta:
 [^1-2]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
 [^1-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^1-4]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^1-5]: Nuovo testo giusta l’all. n. 2 della LF del 25 set. 2015, in vigore dal 1° mar. 2019 (RU **2016** 3013101 [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^1-5]: Nuovo testo giusta l’all. n. 2 della LF del 25 set. 2015, in vigore dal 1° mar. 2019 (RU **2016** 301. [3101](https://fedlex.data.admin.ch/eli/oc/2016/521)[2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
 #### Art. 2
 
@@ -99,7 +99,7 @@ b. il rimpatrio volontario o coatto;
 
 c. i Paesi d’origine o di provenienza interessati.[^3-18]
 
-<sup>5</sup> Il numero di assicurato di cui all’articolo 50*c* della legge federale del 20 dicembre 1946[^3-19] sull’assicurazione per la vecchiaia e per i superstiti serve allo scambio elettronico di dati tra i registri ufficiali di persone.[^3-20]
+<sup>5</sup> Il numero AVS[^3-19] di cui all’articolo 50*c* della legge federale del 20 dicembre 1946[^3-20] sull’assicurazione per la vecchiaia e per i superstiti serve allo scambio elettronico di dati tra i registri ufficiali di persone.[^3-21]
 
 [^3-1]: Nuovo testo giusta l’art. 2 n. 2 del DF del 18 giu. 2010 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE concernente l’introduzione di dati biometrici nelle carte di soggiorno per stranieri, in vigore dal 24 gen. 2011 ([RU 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 [^3-2]: Nuovo testo giusta l’art. 2 n. 2 del DF del 18 giu. 2010 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE concernente l’introduzione di dati biometrici nelle carte di soggiorno per stranieri, in vigore dal 24 gen. 2011 ([RU 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
@@ -119,8 +119,9 @@ c. i Paesi d’origine o di provenienza interessati.[^3-18]
 [^3-16]: Introdotta dall’all. n. 2 della LF del 13 giu. 2008 (Complementi nel quadro della trasposizione degli Acc. d’associazione alla normativa di Schengen e Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. c).
 [^3-17]: Introdotta dal n. I 2 della LF del 18 giu. 2010 che adegua disposizioni concernenti la registrazione di dati nel settore della migrazione, in vigore dal 24 gen. 2011 ([RU 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 [^3-18]: Introdotto dall’all. n. 3 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^3-19]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^3-20]: Introdotto dall’all. n. 1 della LF del 23 giu. 2006 sull’armonizzazione dei registri, in vigore dal 1° gen. 2008 ([RU 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 397](https://fedlex.data.admin.ch/eli/fga/2006/49)).
+[^3-19]: Nuova espr. giusta l’all. n. 1 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^3-20]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-21]: Introdotto dall’all. n. 1 della LF del 23 giu. 2006 sull’armonizzazione dei registri, in vigore dal 1° gen. 2008 ([RU 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 397](https://fedlex.data.admin.ch/eli/fga/2006/49)).
 
 #### Art. 4
 
@@ -264,7 +265,7 @@ La SEM può permettere alle seguenti autorità o servizi di accedere con procedu
 - e. posti di frontiera delle autorità cantonali di polizia e Corpo delle guardie di confine, per i controlli d’identità e il rilascio di visti eccezionali;
 - f. rappresentanze svizzere all’estero e missioni svizzere, per l’esame delle richieste di visto e per l’adempimento dei loro compiti nell’ambito dell’applicazione della legislazione concernente la cittadinanza svizzera;
 - g. Segretariato di Stato e Direzione politica del Dipartimento federale degli affari esteri, per l’esame e la decisione relativi alle richieste di visto nella sfera di competenza del Dipartimento federale degli affari esteri;
-- h. Centrale di compensazione, per l’esame delle domande di prestazioni nonché per l’assegnazione e la verifica del numero d’assicurato AVS;
+- h. Centrale di compensazione, per l’esame delle domande di prestazioni nonché per l’assegnazione e la verifica del numero AVS;
 - i. autorità fiscali cantonali, per l’adempimento dei loro compiti in materia di riscossione dell’imposta alla fonte;
 - j.[^9-7] uffici dello stato civile e relative autorità di vigilanza: per l’identificazione delle persone in relazione con eventi di stato civile, per la preparazione della celebrazione del matrimonio o della registrazione dell’unione domestica nonché per evitare l’elusione del diritto in materia di stranieri giusta gli articoli 97*a* capoverso 1 del Codice civile[^9-8] e 6 capoverso 2 della legge del 18 giugno 2004[^9-9] sull’unione domestica registrata;
 - k.[^9-10] Servizio di protezione dei testimoni della Confederazione conformemente alla legge federale del 23 dicembre 2011[^9-11] sulla protezione extraprocessuale dei testimoni, per adempiere i suoi compiti;
@@ -286,7 +287,7 @@ La SEM può permettere alle seguenti autorità o servizi di accedere con procedu
 - d. autorità di ricorso della Confederazione, per l’istruzione dei ricorsi giusta la LAsi;
 - e. posti di frontiera delle autorità cantonali di polizia e Corpo delle guardie di confine, per i controlli d’identità e il rilascio di visti eccezionali;
 - f. Controllo federale delle finanze, per la vigilanza finanziaria;
-- g. Centrale di compensazione, per l’esame delle domande di prestazioni nonché per l’assegnazione e la verifica del numero d’assicurato AVS;
+- g. Centrale di compensazione, per l’esame delle domande di prestazioni nonché per l’assegnazione e la verifica del numero AVS;
 - h. autorità fiscali cantonali, per i loro compiti in materia di riscossione dell’imposta alla fonte;
 - i.[^9-21] uffici dello stato civile e relative autorità di vigilanza: per l’identificazione delle persone in relazione con eventi di stato civile, per la preparazione della celebrazione del matrimonio o della registrazione dell’unione domestica nonché per evitare l’elusione del diritto in materia di stranieri giusta gli articoli 97*a* capoverso 1 del Codice civile e 6 capoverso 2 della legge del 18 giugno 2004 sull’unione domestica registrata;
 - j.[^9-22] Servizio di protezione dei testimoni della Confederazione conformemente alla legge federale del 23 dicembre 2011 sulla protezione extraprocessuale dei testimoni, per adempiere i suoi compiti;

@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 2003 sur le système d'information commun aux 
 short: LDEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/301"
 language: fr
-version: 2020-04-01
+version: 2022-01-01
 adopted: 2003-06-20
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20200401/fr/xml/fedlex-data-admin-ch-eli-cc-2006-301-20200401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20200401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-301-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20200401/fr"
 
 (LDEA)
 
-du 20 juin 2003 (Etat le 1<sup>er</sup> avril 2020)
+du 20 juin 2003 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -97,7 +97,7 @@ Pour établir des statistiques sur la révocation et la non-prolongation d’aut
 - b. le rapatriement volontaire ou sous contrainte;
 - c. les États d’origine ou de provenance concernés.[^3-18]
 
-<sup>5</sup> Le numéro d’assuré au sens de l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^3-19] sert à l’échange électronique de données entre les registres officiels de personnes.[^3-20]
+<sup>5</sup> Le numéro AVS[^3-19] au sens de l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^3-20] sert à l’échange électronique de données entre les registres officiels de personnes.[^3-21]
 
 [^3-1]: Introduite par l’annexe ch. 2 de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^3-2]: [RS 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
@@ -117,8 +117,9 @@ Pour établir des statistiques sur la révocation et la non-prolongation d’aut
 [^3-16]: Introduite par l’annexe ch. 2 de la LF du 13 juin 2008 (Compléments apportés dans le cadre de la mise en oeuvre des accords d’association à Schengen et à Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. c; [FF 2007 7449](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
 [^3-17]: Introduite par le ch. I 2 de la LF du 18 juin 2010 portant sur l’adaptation de disp. relatives à la saisie de données dans le domaine migratoire, en vigueur depuis le 24 janv. 2011 ([RO 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 [^3-18]: Introduit par l’annexe ch. 3 de la LF du 20 mars 2015 (Mise en oeuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^3-19]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^3-20]: Introduit par l’annexe ch. 1 de la loi du 23 juin 2006 sur l’harmonisation de registres, en vigueur depuis l<sup>er</sup> janv. 2008 ([RO 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 439](https://fedlex.data.admin.ch/eli/fga/2006/49)).
+[^3-19]: Nouvelle expression selon l’annexe ch. 1 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^3-20]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-21]: Introduit par l’annexe ch. 1 de la loi du 23 juin 2006 sur l’harmonisation de registres, en vigueur depuis l<sup>er</sup> janv. 2008 ([RO 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 439](https://fedlex.data.admin.ch/eli/fga/2006/49)).
 
 #### Art. 4
 
@@ -260,7 +261,7 @@ Le SEM peut permettre aux autorités et services ci-après d’accéder en ligne
 - e. le Corps des gardes-frontière et les postes frontière des polices cantonales, pour qu’ils puissent procéder aux contrôles d’identité et à l’établissement de visas exceptionnels;
 - f. les représentations et les missions suisses à l’étranger, pour qu’elles puissent procéder à l’examen des demandes de visa et accomplir les tâches qui leur incombent en vertu du droit de la nationalité;
 - g. le Secrétariat d’État et la Direction politique du Département fédéral des affaires étrangères, pour qu’ils puissent procéder à l’examen des demandes de visa relevant de la compétence du département fédéral des affaires étrangères;
-- h. la Centrale de compensation, pour qu’elle puisse procéder à l’examen des demandes de prestations ainsi qu’à l’attribution et à la vérification des numéros d’assurés AVS;
+- h. la Centrale de compensation, pour qu’elle puisse procéder à l’examen des demandes de prestations ainsi qu’à l’attribution et à la vérification des numéros AVS;
 - i. les autorités fiscales cantonales, pour qu’elles puissent accomplir les tâches liées au prélèvement de l’impôt à la source;
 - j.[^9-7] les offices de l’état civil et leurs autorités de surveillance, à des fins d’identification des personnes en relation avec des événements d’état civil, en vue de la célébration d’un mariage ou de l’enregistrement d’un partenariat ainsi que pour empêcher le contournement du droit des étrangers visé aux art. 97*a*, al. 1, du code civil[^9-8] et 6, al. 2, de la loi du 18 juin 2004 sur le partenariat[^9-9];
 - k.[^9-10] le Service de protection des témoins, en vertu de la loi fédérale du 23 décembre 2011 sur la protection extraprocédurale des témoins[^9-11], pour l’exécution de ses tâches;
@@ -279,7 +280,7 @@ Le SEM peut permettre aux autorités et services ci-après d’accéder en ligne
 - d. les instances fédérales de recours compétentes, pour qu’elles puissent instruire les recours qui leur parviennent en application de la LAsi;
 - e. le Corps des gardes-frontière et les postes frontière des polices cantonales, pour qu’ils puissent procéder aux contrôles d’identité et à l’établissement de visas exceptionnels;
 - f. le Contrôle fédéral des finances, pour qu’il puisse garantir la surveillance financière;
-- g. la Centrale de compensation, pour qu’elle puisse procéder à l’examen des demandes de prestations ainsi qu’à l’attribution et à la vérification des numéros d’assurés AVS;
+- g. la Centrale de compensation, pour qu’elle puisse procéder à l’examen des demandes de prestations ainsi qu’à l’attribution et à la vérification des numéros AVS;
 - h. les autorités fiscales cantonales, pour qu’elles puissent accomplir les tâches liées au prélèvement de l’impôt à la source;
 - i.[^9-21] les offices de l’état civil et leurs autorités de surveillance, à des fins d’identification des personnes en relation avec des événements d’état civil, en vue de la célébration d’un mariage ou de l’enregistrement d’un partenariat ainsi que pour empêcher le contournement du droit des étrangers visé aux art. 97*a*, al. 1, du code civil et 6, al. 2, de la loi du 18 juin 2004 sur le partenariat;
 - j.[^9-22] le Service de protection des témoins, en vertu de la loi fédérale du 23 décembre 2011 sur la protection extraprocédurale des témoins, pour l’exécution de ses tâches;
