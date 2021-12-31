@@ -4,13 +4,12 @@ number: "759.111"
 title: Kantonale Verordnung über Fuss- und Wanderwege
 short: VFW-AG
 language: de
-version: 2018-04-01
-valid_until: 2021-12-31
-version_adopted: 2017-12-13
+version: 2022-01-01
+version_adopted: 2021-11-10
 adopted: 1989-04-03
 in_force: 1989-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/759.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2576/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3131/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +18,16 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2576/pdf_file"
 
 (VFW-AG)
 
-Vom 03.04.1989 (Stand 01.04.2018)
+Vom 03.04.1989 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf Art. 4 Abs. 2, Art. 7 Abs. 3, Art. 13 und Art. 16 des Bundesgesetzes über Fuss- und Wanderwege (FWG) vom 4. Oktober 1985[^ingress-1] und § 164a des Gesetzes über Raumentwicklung und Bauwesen (Baugesetz, BauG) vom 19. Januar 1993[^ingress-2],
+gestützt auf die Art. 4 Abs. 2, 7 Abs. 3, 13 und 16 des Bundesgesetzes über Fuss- und Wanderwege (FWG) vom 4. Oktober 1985[^ingress-1], § 91 Abs. 2 der Kantonsverfassung und § 20 des Gesetzes über das kantonale Strassenwesen (Strassengesetz, StrG) vom 15. Juni 2021[^ingress-2],
 
 beschliesst:
 
 [^ingress-1]: SR [704](https://db.clex.ch/link/Bund/704/de)
-[^ingress-2]: SAR [713.100](https://gesetzessammlungen.ag.ch/data/713.100/de)
+[^ingress-2]: SAR [751.200](https://gesetzessammlungen.ag.ch/data/751.200/de)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -36,10 +35,9 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Diese Verordnung regelt den Vollzug des Bundesgesetzes über Fuss- und Wanderwege (FWG) vom 4. Oktober 1985[^1-1] sowie der bundesrätlichen Verordnung über Fuss- und Wanderwege (FWV) vom 26. November 1986[^1-2].
+<sup>1</sup> Diese Verordnung regelt den Vollzug des Bundesgesetzes über Fuss- und Wanderwege, der bundesrätlichen Verordnung über Fuss- und Wanderwege (FWV) vom 26. November 1986[^1-1] sowie von § 20 des Gesetzes über das kantonale Strassenwesen.
 
-[^1-1]: SR [704](https://db.clex.ch/link/Bund/704/de)
-[^1-2]: SR [704.1](https://db.clex.ch/link/Bund/704.1/de)
+[^1-1]: SR [704.1](https://db.clex.ch/link/Bund/704.1/de)
 
 #### § 2
 
@@ -84,11 +82,11 @@ beschliesst:
 
 #### § 6
 
-**Vereinigung Aargauer Wanderwege**
+**Verein Aargauer Wanderwege**
 
-<sup>1</sup> Das Departement Bau, Verkehr und Umwelt arbeitet beim Vollzug der Gesetzgebung über Fuss- und Wanderwege mit der Vereinigung Aargauer Wanderwege zusammen.
+<sup>1</sup> Das Departement Bau, Verkehr und Umwelt arbeitet beim Vollzug der Gesetzgebung über Fuss- und Wanderwege mit dem Verein Aargauer Wanderwege zusammen.
 
-<sup>2</sup> Das Departement Bau, Verkehr und Umwelt kann die Durchführung bestimmter Aufgaben, so namentlich die Planung des Wanderwegnetzes und der Wegführung, die Kennzeichnung der Wanderwege und die Information der Bevölkerung über Wanderwege, durch Vertrag der Vereinigung Aargauer Wanderwege übertragen.
+<sup>2</sup> Das Departement Bau, Verkehr und Umwelt kann die Durchführung bestimmter Aufgaben, namentlich die Planung des Wanderwegnetzes und der Wegführung, die Kennzeichnung der Wanderwege und die Information der Bevölkerung über Wanderwege, durch Vertrag dem Verein Aargauer Wanderwege übertragen.
 
 <sup>3</sup> Der Kanton leistet für diese Mitwirkung jährliche Beiträge.
 
@@ -104,7 +102,7 @@ beschliesst:
 
 <sup>1</sup> Das Departement Bau, Verkehr und Umwelt erarbeitet Grundlagen und Richtlinien für die Fuss- und Wanderwegplanung, übernimmt die Koordination mit Nachbarkantonen und Bundesstellen und überprüft die Zweckmässigkeit der Fuss- und Wanderwegplanung.
 
-<sup>2</sup> Bei Meinungsverschiedenheiten der Vereinigung Aargauer Wanderwege mit Gemeinden oder Grundeigentümern über Wegführung, Ersatzmassnahmen oder Kennzeichnung entscheidet das Departement Bau, Verkehr und Umwelt.
+<sup>2</sup> Bei Meinungsverschiedenheiten des Vereins Aargauer Wanderwege mit Gemeinden oder Grundeigentümern über Wegführung, Ersatzmassnahmen oder Kennzeichnung entscheidet das Departement Bau, Verkehr und Umwelt.
 
 ## 3. Planung
 
@@ -122,7 +120,7 @@ beschliesst:
 
 **Planung Wanderwegnetz**
 
-<sup>1</sup> Das Wanderwegnetz wird in seiner grundsätzlichen Lage in der kantonalen Richtplanung (Gesamtplan Kulturland 1:50'000) vom Grossen Rat festgesetzt und periodisch nachgeführt.
+<sup>1</sup> …
 
 <sup>2</sup> Die detaillierte Wegführung wird in einer Übersichtskarte festgehalten.
 
