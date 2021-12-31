@@ -4,22 +4,20 @@ title: "Legge federale del 6 ottobre 2006 sull'imposizione della birra (Legge su
 short: LIB
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/385"
 language: it
-version: 2007-07-01
+version: 2022-01-01
 adopted: 2006-10-06
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/385/20070701/it/xml/fedlex-data-admin-ch-eli-cc-2007-385-20070701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/385/20070701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/385/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-385-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/385/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sull’imposizione della birra
 
-641.411 (Stato 1° luglio 2007)
-
 (Legge sull’imposizione della birra, LIB)
 
-del 6 ottobre 2006 (Stato 1° luglio 2007)
+del 6 ottobre 2006 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -56,7 +54,7 @@ Per birra si intende:
 - b. le miscele di birra a base di malto con bevande non alcoliche o con prodotti alcolici ottenuti esclusivamente mediante fermentazione (voce 2206 della tariffa doganale);
 - c. la birra analcolica (voce 2202 della tariffa doganale).
 
-[^3-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), All. La tariffa generale e i suoi all. non sono pubblicati nella RU in virtù dell’art. 5 cpv. 1 della L del 18 giu. 2004 sulle pubblicazioni ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il testo può essere consultato sul sito Internet http://www.ezv.admin.ch. Le modifiche sono pure inserite nella tariffa doganale che può essere consultata sul sito Internet http://www.tares.ch.
+[^3-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), All. La tariffa generale e i suoi all. non sono pubblicati nella RU in virtù dell’art. 5 cpv. 1 della L del 18 giu. 2004 sulle pubblicazioni ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il testo può essere consultato sul sito Internet http://www.ezv.admin.ch. Le mod. sono pure inserite nella tariffa doganale che può essere consultata sul sito Internet www.tares.ch.
 
 #### Art. 4
 
@@ -71,9 +69,11 @@ Il credito fiscale sorge all’immissione in libero consumo della birra. Per imm
 
 #### Art. 5
 
-**Autorità fiscale**
+**Autorità fiscale**[^5-1]
 
-L’autorità fiscale è l’Amministrazione federale delle dogane (Amministrazione delle dogane).
+L’autorità fiscale è l’Ufficio federale della dogana e della sicurezza dei confini (UDSC).
+
+[^5-1]: Nuovo testo giusta il n. I 20 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 6
 
@@ -140,9 +140,9 @@ Rispondono solidalmente con la persona soggetta all’imposta o con il successor
 <sup>1</sup> L’aliquota d’imposta ammonta a:
 
 <table>
-<tr><td></td><td>a.</td><td>fino a 10,0 gradi Plato (birra leggera)</td><td>fr. 16.88 per ettolitro;</td></tr>
-<tr><td></td><td>b.</td><td>da 10,1 a 14,0 gradi Plato (birra normale e birra speciale)</td><td>fr. 25.32 per ettolitro;</td></tr>
-<tr><td></td><td>c.</td><td>da 14,1 gradi Plato (birra forte)</td><td>fr. 33.76 per ettolitro.</td></tr>
+<tr><td>a. fino a 10,0 gradi Plato (birra leggera)</td><td>fr. 16.88 per ettolitro;</td></tr>
+<tr><td>b. da 10,1 a 14,0 gradi Plato (birra normale e birra speciale)</td><td>fr. 25.32 per ettolitro;</td></tr>
+<tr><td>c. da 14,1 gradi Plato (birra forte)</td><td>fr. 33.76 per ettolitro.</td></tr>
 </table>
 
 <sup>2</sup> La birra il cui tenore alcolico non supera lo 0,5 per cento del volume (birra senz’alcol) è esente dall’imposta.
@@ -178,7 +178,7 @@ La birra è esente dall’imposta qualora non sia utilizzata a scopo voluttuario
 - b. utilizzata nella fabbricazione di bevande distillate;
 - c. esente da dazio secondo l’articolo 14 della legge federale del 1° ottobre 1925[^13-1] sulle dogane.
 
-[^13-1]: [CS **6** 475; [RU 1956 639](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639)**,** **1959** 1400 art. 11 n. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644),[1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 7,[1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)n. I 1,[1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)n. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)n. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)n. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. n. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 50. [RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 cpv. 1]. Vedi ora l'art. 8 della L del 18 mar. 2005 sulle dogane ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^13-1]: [CS **6** 475; [RU 1956 639](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639)**,** **1959** 1400 art. 11 n. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644),[1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 7,[1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)n. I 1,[1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)n. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)n. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)n. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. n. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 50. [RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 cpv. 1]. Vedi ora l’art. 8 della L del 18 mar. 2005 sulle dogane ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
 
 #### Art. 14
 
@@ -219,15 +219,17 @@ La riduzione dell’imposta è concessa agli stabilimenti di fabbricazione che, 
 
 **Obbligo di annuncio e registrazione**
 
-<sup>1</sup> Chiunque, a scopi commerciali, intenda fabbricare birra sul territorio doganale deve annunciarsi 30 giorni prima dell’inizio della produzione presso l’Amministrazione delle dogane per l’iscrizione nel registro dei fabbricanti di birra.
+<sup>1</sup> Chiunque, a scopi commerciali, intenda fabbricare birra sul territorio doganale deve annunciarsi 30 giorni prima dell’inizio della produzione presso l’UDSC[^15-1] per l’iscrizione nel registro dei fabbricanti di birra.
 
 <sup>2</sup> L’iscrizione presuppone che il fabbricante abbia il domicilio nel territorio doganale o sia iscritto nel registro di commercio.
 
-<sup>3</sup> Ogni cambiamento del nome, del domicilio o dell’iscrizione nel registro di commercio dev’essere annunciato senza indugio all’Amministrazione delle dogane.
+<sup>3</sup> Ogni cambiamento del nome, del domicilio o dell’iscrizione nel registro di commercio dev’essere annunciato senza indugio all’UDSC.
 
 <sup>4</sup> Chiunque cessi la fabbricazione di birra è cancellato dal registro.
 
 <sup>5</sup> Il registro è pubblico.
+
+[^15-1]: Nuova espr. giusta il n. I 20 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 16
 
@@ -239,17 +241,17 @@ L’imposta per la birra fabbricata sul territorio doganale è dovuta per ciascu
 
 **Autotassazione**
 
-<sup>1</sup> Il fabbricante deve presentare spontaneamente la dichiarazione fiscale all’Amministrazione delle dogane, nella forma prescritta, entro 20 giorni dalla scadenza del periodo di conteggio. Se l’assoggettamento termina prima della scadenza del periodo di conteggio, il termine decorre dalla fine dell’assoggettamento.
+<sup>1</sup> Il fabbricante deve presentare spontaneamente la dichiarazione fiscale all’UDSC, nella forma prescritta, entro 20 giorni dalla scadenza del periodo di conteggio. Se l’assoggettamento termina prima della scadenza del periodo di conteggio, il termine decorre dalla fine dell’assoggettamento.
 
 <sup>2</sup> La dichiarazione fiscale è vincolante per il fabbricante e serve da base per stabilire l’ammontare dell’imposta. Rimane salvo il risultato di un controllo ufficiale.
 
-<sup>3</sup> Se contesta la dichiarazione fiscale, l’Amministrazione delle dogane stabilisce l’ammontare dell’imposta mediante decisione formale.
+<sup>3</sup> Se contesta la dichiarazione fiscale, l’UDSC stabilisce l’ammontare dell’imposta mediante decisione formale.
 
 #### Art. 18
 
 **Versamento dell’imposta**
 
-Per la birra fabbricata sul territorio doganale il fabbricante versa l’imposta all’Amministrazione delle dogane entro 30 giorni dalla scadenza del periodo di conteggio. Se l’assoggettamento cessa prima della scadenza del periodo di conteggio, il termine di pagamento decorre dalla cessazione dell’assoggettamento.
+Per la birra fabbricata sul territorio doganale il fabbricante versa l’imposta all’UDSC entro 30 giorni dalla scadenza del periodo di conteggio. Se l’assoggettamento cessa prima della scadenza del periodo di conteggio, il termine di pagamento decorre dalla cessazione dell’assoggettamento.
 
 #### Art. 19
 
@@ -276,7 +278,7 @@ Il fabbricante ha diritto alla restituzione dell’imposta se la birra da lui fa
 
 <sup>1</sup> Il diritto al rimborso o alla restituzione si prescrive in cinque anni dalla fine dell’anno civile in cui è sorto.
 
-<sup>2</sup> La prescrizione è interrotta dall’esercizio del diritto nei confronti dell’Amministrazione delle dogane.
+<sup>2</sup> La prescrizione è interrotta dall’esercizio del diritto nei confronti dell’UDSC.
 
 <sup>3</sup> La prescrizione è sospesa finché è pendente una procedura di decisione, di opposizione o di ricorso relativa all’esercizio del diritto.
 
@@ -286,7 +288,7 @@ Il fabbricante ha diritto alla restituzione dell’imposta se la birra da lui fa
 
 **Ricupero d’imposta**
 
-<sup>1</sup> Se l’Amministrazione delle dogane non ha stabilito o non ha stabilito sufficientemente l’imposta dovuta sulla birra fabbricata sul territorio doganale, ne ricupera l’importo entro il termine di prescrizione.
+<sup>1</sup> Se l’UDSC non ha stabilito o non ha stabilito sufficientemente l’imposta dovuta sulla birra fabbricata sul territorio doganale, ne ricupera l’importo entro il termine di prescrizione.
 
 <sup>2</sup> Se necessario, procede alla tassazione mediante stima, sulla base dei fatti di cui è a conoscenza.
 
@@ -313,9 +315,9 @@ La prescrizione è interrotta:
 
 **Ricupero di importi indebitamente rimborsati**
 
-<sup>1</sup> L’Amministrazione delle dogane ricupera gli importi indebitamente rimborsati.
+<sup>1</sup> L’UDSC ricupera gli importi indebitamente rimborsati.
 
-<sup>2</sup> Il diritto di ricupero si prescrive in cinque anni dal giorno in cui l’Amministrazione delle dogane ne è giunta a conoscenza, ma al più tardi in dieci anni dal giorno in cui il diritto è sorto.
+<sup>2</sup> Il diritto di ricupero si prescrive in cinque anni dal giorno in cui l’UDSC ne è giunta a conoscenza, ma al più tardi in dieci anni dal giorno in cui il diritto è sorto.
 
 <sup>3</sup> La prescrizione è interrotta da ogni atto ufficiale inteso a far valere il diritto di ricupero; è sospesa finché la persona tenuta al pagamento non può essere escussa in Svizzera.
 
@@ -327,7 +329,7 @@ La prescrizione è interrotta:
 
 <sup>2</sup> Un interesse moratorio è pure dovuto dal momento in cui un rimborso o una restituzione sono ottenuti indebitamente.
 
-<sup>3</sup> A partire dal momento in cui ha riscosso indebitamente un importo o non lo ha restituito, l’Amministrazione delle dogane deve un interesse rimunerativo.
+<sup>3</sup> A partire dal momento in cui ha riscosso indebitamente un importo o non lo ha restituito, l’UDSC deve un interesse rimunerativo.
 
 <sup>4</sup> Il Consiglio federale può prevedere eccezioni alla riscossione dell’interesse moratorio.
 
@@ -354,7 +356,7 @@ La Confederazione ha un diritto legale di pegno sulla birra fabbricata sul terri
 
 <sup>1</sup>
 
-L’Amministrazione delle dogane può fare garantire un credito fiscale, anche se non è ancora esigibile, quando non è garantito mediante un pegno fiscale sufficiente e realizzabile e:
+L’UDSC può fare garantire un credito fiscale, anche se non è ancora esigibile, quando non è garantito mediante un pegno fiscale sufficiente e realizzabile e:
 
 - a. il pagamento appare compromesso; o
 - b. la persona soggetta all’imposta è in ritardo con il pagamento.
@@ -367,13 +369,13 @@ L’Amministrazione delle dogane può fare garantire un credito fiscale, anche s
 
 **Misure di controllo**
 
-<sup>1</sup> Chiunque fabbrica birra sul territorio doganale deve tenere un controllo completo delle sue attività. Il Consiglio federale disciplina i dettagli. L’Amministrazione delle dogane può prescrivere l’utilizzazione di determinati formulari.
+<sup>1</sup> Chiunque fabbrica birra sul territorio doganale deve tenere un controllo completo delle sue attività. Il Consiglio federale disciplina i dettagli. L’UDSC può prescrivere l’utilizzazione di determinati formulari.
 
-<sup>2</sup> A richiesta il fabbricante deve fornire all’Amministrazione delle dogane tutte le informazioni necessarie e presentarle tutti i libri, i documenti commerciali e gli atti che possono essere rilevanti ai fini dell’esecuzione della presente legge.
+<sup>2</sup> A richiesta il fabbricante deve fornire all’UDSC tutte le informazioni necessarie e presentarle tutti i libri, i documenti commerciali e gli atti che possono essere rilevanti ai fini dell’esecuzione della presente legge.
 
 <sup>3</sup> La documentazione va conservata durante dieci anni.
 
-<sup>4</sup> L’Amministrazione delle dogane può controllare, in ogni momento e senza preavviso, gli impianti di produzione, i magazzini e gli altri locali aziendali nonché, se necessario, i libri contabili.
+<sup>4</sup> L’UDSC può controllare, in ogni momento e senza preavviso, gli impianti di produzione, i magazzini e gli altri locali aziendali nonché, se necessario, i libri contabili.
 
 ## Sezione 5: Riscossione e restituzione dell’imposta per la birra importata nel territorio doganale
 
@@ -425,7 +427,7 @@ L’articolo 25 è applicabile per analogia.
 
 <sup>2</sup> Le decisioni di prima istanza della direzione di circondario delle dogane possono essere impugnate con ricorso alla Direzione generale delle dogane.
 
-<sup>3</sup> Nelle procedure davanti al Tribunale amministrativo federale e davanti al Tribunale federale, l’Amministrazione delle dogane è rappresentata dalla Direzione generale delle dogane.
+<sup>3</sup> Nelle procedure davanti al Tribunale amministrativo federale e davanti al Tribunale federale, l’UDSC è rappresentata dalla Direzione generale delle dogane.
 
 <sup>4</sup> Il termine di ricorso di prima istanza contro l’imposizione decisa dall’ufficio doganale è di 60 giorni a contare dalla notifica della decisione d’imposizione.
 
@@ -459,11 +461,11 @@ In caso di circostanze aggravanti, il massimo della multa comminata è aumentato
 - a. il fatto di reclutare una o più persone per commettere un’infrazione;
 - b. il fatto di commettere infrazioni per mestiere o abitualmente.
 
-<sup>3</sup> Se non può essere accertato esattamente, l’ammontare dell’imposta sottratta o messa in pericolo è stimato dall’Amministrazione delle dogane.
+<sup>3</sup> Se non può essere accertato esattamente, l’ammontare dell’imposta sottratta o messa in pericolo è stimato dall’UDSC.
 
 <sup>4</sup> Rimangono salvi gli articoli 14–16 della legge federale del 22 marzo 1974[^35-2] sul diritto penale amministrativo (DPA).
 
-[^35-1]: Nuova denominazione secondo la mod. del Codice penale del 13 dic. 2002 ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799); RU **2006**3459).
+[^35-1]: Nuova denominazione secondo la mod. del Codice penale del 13 dic. 2002 ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799); [RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
 [^35-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 36
@@ -476,7 +478,7 @@ Chiunque acquista, accetta in dono, in pegno o altrimenti in custodia, occulta, 
 
 **Distrazione del pegno fiscale**
 
-Chiunque, lasciato in possesso della birra sequestrata dall’Amministrazione delle dogane a titolo di pegno fiscale, distrugge intenzionalmente tale birra o ne dispone senza il consenso dell’Amministrazione delle dogane è punito con la multa fino al quintuplo del valore della birra sul mercato interno.
+Chiunque, lasciato in possesso della birra sequestrata dall’UDSC a titolo di pegno fiscale, distrugge intenzionalmente tale birra o ne dispone senza il consenso dell’UDSC è punito con la multa fino al quintuplo del valore della birra sul mercato interno.
 
 #### Art. 38
 
@@ -498,7 +500,7 @@ Se la multa applicabile non supera i 100 000 franchi e se la determinazione dell
 
 **Concorso di infrazioni**
 
-Se un atto costituisce contemporaneamente una messa in pericolo o sottrazione dell’imposta o una ricettazione fiscale e un’infrazione ad altre disposizioni federali perseguibile dall’Amministrazione delle dogane, si applica la pena corrispondente all’infrazione più grave; la pena può essere adeguatamente aumentata.
+Se un atto costituisce contemporaneamente una messa in pericolo o sottrazione dell’imposta o una ricettazione fiscale e un’infrazione ad altre disposizioni federali perseguibile dall’UDSC, si applica la pena corrispondente all’infrazione più grave; la pena può essere adeguatamente aumentata.
 
 #### Art. 41
 
@@ -512,7 +514,7 @@ Chiunque, intenzionalmente o per negligenza grave, contravviene a una disposizio
 
 <sup>1</sup> Le infrazioni sono perseguite e giudicate conformemente al DPA[^42-1].
 
-<sup>2</sup> L’Amministrazione delle dogane è l’autorità competente per il perseguimento e il giudizio.
+<sup>2</sup> L’UDSC è l’autorità competente per il perseguimento e il giudizio.
 
 <sup>3</sup> La prescrizione dell’azione penale di cui all’articolo 11 capoverso 2 DPA si applica a tutte le infrazioni fiscali.
 
@@ -526,19 +528,15 @@ Chiunque, intenzionalmente o per negligenza grave, contravviene a una disposizio
 
 <sup>1</sup> Il Consiglio federale emana le disposizioni di esecuzione.
 
-<sup>2</sup> L’Amministrazione delle dogane esegue la presente legge.
+<sup>2</sup> L’UDSC esegue la presente legge.
 
 #### Art. 44
 
 **Modifica del diritto vigente**
 
-La legge del 18 marzo 2005[^44-subdivu1-1] sulle dogane è modificata come segue:
+...[^44-1]
 
-[^44-subdivu1-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249). La modifica qui appresso é inserita nella L menzionata.
-
-### Art. 126, rubrica
-
-...
+[^44-1]: La mod. può essere consultata alla [RU 2007 2895](https://fedlex.data.admin.ch/eli/oc/2007/385).
 
 #### Art. 45
 
@@ -560,6 +558,6 @@ La legge del 18 marzo 2005[^44-subdivu1-1] sulle dogane è modificata come segue
 
 <sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
 
-Data dell'entrata in vigore: 1° luglio 2007[^46-1]
+Data dell’entrata in vigore: 1° luglio 2007[^46-1]
 
-[^46-1]: DCF del 15 giu. 2007 (RU **2007** 2907).
+[^46-1]: DCF del 15 giu. 2007.

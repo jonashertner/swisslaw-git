@@ -4,11 +4,11 @@ title: "Loi fédérale du 6 octobre 2006 sur l'imposition de la bière (LIB)"
 short: LIB
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/385"
 language: fr
-version: 2007-07-01
+version: 2022-01-01
 adopted: 2006-10-06
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/385/20070701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-385-20070701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/385/20070701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/385/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-385-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/385/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/385/20070701/fr"
 
 (LIB)[^t-1]
 
-du 6 octobre 2006 (Etat le 1<sup>er</sup> juillet 2007)
+du 6 octobre 2006 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -71,9 +71,11 @@ La créance fiscale naît par la mise à la consommation de la bière. On entend
 
 #### Art. 5
 
-**Autorité fiscale**
+**Autorité fiscale**[^5-1]
 
-L’autorité fiscale est l’Administration fédérale des douanes (administration des douanes).
+L’autorité fiscale est l’Office fédéral de la douane et de la sécurité des frontières (OFDF).
+
+[^5-1]: Nouvelle teneur selon le ch. I 20 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 6
 
@@ -219,15 +221,17 @@ La réduction est accordée aux unités de fabrication juridiquement et économi
 
 **Obligation d’annoncer et enregistrement**
 
-<sup>1</sup> Quiconque entend fabriquer de la bière à titre professionnel sur le territoire douanier doit l’annoncer à l’administration des douanes au moins 30 jours avant le début de la fabrication pour être inscrit dans le registre des fabricants de bière.
+<sup>1</sup> Quiconque entend fabriquer de la bière à titre professionnel sur le territoire douanier doit l’annoncer à l’OFDF[^15-1] au moins 30 jours avant le début de la fabrication pour être inscrit dans le registre des fabricants de bière.
 
 <sup>2</sup> Pour être enregistré, le fabricant doit être domicilié sur le territoire douanier ou être inscrit au registre du commerce.
 
-<sup>3</sup> Toute modification du nom, du domicile ou de l’inscription au registre du commerce doit être immédiatement annoncée à l’administration des douanes.
+<sup>3</sup> Toute modification du nom, du domicile ou de l’inscription au registre du commerce doit être immédiatement annoncée à l’OFDF.
 
 <sup>4</sup> Quiconque cesse de fabriquer de la bière à titre professionnel est radié du registre.
 
 <sup>5</sup> Le registre est public.
+
+[^15-1]: Nouvelle expression selon le ch. I 20 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 16
 
@@ -239,17 +243,17 @@ L’impôt grevant la bière fabriquée sur le territoire douanier est dû pour 
 
 **Auto-taxation**
 
-<sup>1</sup> Le fabricant déclare spontanément l’impôt dû, en la forme prescrite, à l’administration des douanes, dans les 20 jours qui suivent l’expiration de la période de décompte. Si l’assujettissement prend fin avant l’expiration de la période de décompte, le délai de remise de la déclaration commence à courir à partir de la fin de l’assujettissement.
+<sup>1</sup> Le fabricant déclare spontanément l’impôt dû, en la forme prescrite, à l’OFDF, dans les 20 jours qui suivent l’expiration de la période de décompte. Si l’assujettissement prend fin avant l’expiration de la période de décompte, le délai de remise de la déclaration commence à courir à partir de la fin de l’assujettissement.
 
 <sup>2</sup> La déclaration lie le fabricant et sert à fixer le montant de l’impôt. Le résultat d’un contrôle officiel est réservé.
 
-<sup>3</sup> Si l’administration des douanes conteste la déclaration, elle fixe le montant de l’impôt par décision.
+<sup>3</sup> Si l’OFDF conteste la déclaration, il fixe le montant de l’impôt par décision.
 
 #### Art. 18
 
 **Paiement de l’impôt**
 
-Le fabricant paie l’impôt dû à l’administration des douanes pour la bière fabriquée sur le territoire douanier dans les 30 jours qui suivent l’expiration de la période de décompte. Si l’assujettissement prend fin avant l’expiration de la période de décompte, le délai de paiement commence à courir à partir de la fin de l’assujettissement.
+Le fabricant paie l’impôt dû à l’OFDF pour la bière fabriquée sur le territoire douanier dans les 30 jours qui suivent l’expiration de la période de décompte. Si l’assujettissement prend fin avant l’expiration de la période de décompte, le délai de paiement commence à courir à partir de la fin de l’assujettissement.
 
 #### Art. 19
 
@@ -276,7 +280,7 @@ Le fabricant a droit au remboursement de l’impôt perçu sur la bière fabriqu
 
 <sup>1</sup> Le droit à la restitution ou au remboursement se prescrit par cinq ans à compter de la fin de l’année civile pendant laquelle il a pris naissance.
 
-<sup>2</sup> La prescription est interrompue par tout exercice de ce droit envers l’administration des douanes.
+<sup>2</sup> La prescription est interrompue par tout exercice de ce droit envers l’OFDF.
 
 <sup>3</sup> Elle est suspendue tant qu’une procédure de décision, de réclamation ou de recours relative au droit que le requérant fait valoir est pendante.
 
@@ -286,9 +290,9 @@ Le fabricant a droit au remboursement de l’impôt perçu sur la bière fabriqu
 
 **Perception subséquente de l’impôt**
 
-<sup>1</sup> Si l’impôt dû pour la bière fabriquée sur le territoire douanier n’a pas été fixé ou a été fixé trop bas, l’administration des douanes perçoit le montant dû avant l’expiration du délai de prescription.
+<sup>1</sup> Si l’impôt dû pour la bière fabriquée sur le territoire douanier n’a pas été fixé ou a été fixé trop bas, l’OFDF perçoit le montant dû avant l’expiration du délai de prescription.
 
-<sup>2</sup> S’il y a lieu, elle procède à une taxation par voie d’estimation sur la base des faits qui lui sont connus.
+<sup>2</sup> S’il y a lieu, il procède à une taxation par voie d’estimation sur la base des faits qui lui sont connus.
 
 #### Art. 23
 
@@ -313,9 +317,9 @@ La prescription est interrompue:
 
 **Restitution d’un montant remboursé à tort**
 
-<sup>1</sup> Si un montant dû a été remboursé à tort, l’administration des douanes en réclame la restitution.
+<sup>1</sup> Si un montant dû a été remboursé à tort, l’OFDF en réclame la restitution.
 
-<sup>2</sup> Le droit à la restitution se prescrit par cinq ans à compter du moment où l’administration des douanes a eu connaissance de ce droit, mais au plus tard par dix ans à compter de la naissance du droit.
+<sup>2</sup> Le droit à la restitution se prescrit par cinq ans à compter du moment où l’OFDF a eu connaissance de ce droit, mais au plus tard par dix ans à compter de la naissance du droit.
 
 <sup>3</sup> La prescription est interrompue par tout acte officiel faisant valoir la restitution; elle est suspendue tant que la personne tenue au paiement ne peut être poursuivie en Suisse.
 
@@ -327,7 +331,7 @@ La prescription est interrompue:
 
 <sup>2</sup> Un intérêt moratoire est dû à partir du moment où l’impôt a été restitué ou remboursé à tort.
 
-<sup>3</sup> L’administration des douanes doit un intérêt rémunératoire à partir du moment où elle a perçu un montant à tort ou n’a pas remboursé un montant à tort.
+<sup>3</sup> L’OFDF doit un intérêt rémunératoire à partir du moment où il a perçu un montant à tort ou n’a pas remboursé un montant à tort.
 
 <sup>4</sup> Le Conseil fédéral peut prévoir des exceptions à la perception de l’intérêt moratoire.
 
@@ -356,7 +360,7 @@ La Confédération a, dans les cas suivants, un droit de gage légal sur la biè
 
 <sup>1</sup>
 
-Lorsque la créance fiscale n’est pas garantie par un gage fiscal suffisant et réalisable, l’administration des douanes peut exiger des sûretés dans les cas suivants, alors même que cette créance n’est pas encore exigible:
+Lorsque la créance fiscale n’est pas garantie par un gage fiscal suffisant et réalisable, l’OFDF peut exiger des sûretés dans les cas suivants, alors même que cette créance n’est pas encore exigible:
 
 - a. si le recouvrement de l’impôt paraît compromis;
 - b. si la personne assujettie est en retard dans le paiement de l’impôt.
@@ -369,13 +373,13 @@ Lorsque la créance fiscale n’est pas garantie par un gage fiscal suffisant et
 
 **Contrôle**
 
-<sup>1</sup> Quiconque fabrique de la bière sur le territoire douanier doit tenir un registre complet de ses activités. Le Conseil fédéral règle les modalités. L’administration des douanes peut prescrire l’utilisation de formulaires déterminés.
+<sup>1</sup> Quiconque fabrique de la bière sur le territoire douanier doit tenir un registre complet de ses activités. Le Conseil fédéral règle les modalités. L’OFDF peut prescrire l’utilisation de formulaires déterminés.
 
-<sup>2</sup> L’administration des douanes peut exiger du fabricant les renseignements qu’elle juge nécessaires et se faire présenter les livres, papiers d’affaires et documents qui pourraient être importants pour l’exécution de la présente loi.
+<sup>2</sup> L’OFDF peut exiger du fabricant les renseignements qu’ile juge nécessaires et se faire présenter les livres, papiers d’affaires et documents qui pourraient être importants pour l’exécution de la présente loi.
 
 <sup>3</sup> Les documents doivent être conservés pendant dix ans.
 
-<sup>4</sup> L’administration des douanes peut procéder en tout temps sans préavis à des contrôles des unités de fabrication, des entrepôts et d’autres locaux commerciaux, ainsi que de la comptabilité si nécessaire.
+<sup>4</sup> L’OFDF peut procéder en tout temps sans préavis à des contrôles des unités de fabrication, des entrepôts et d’autres locaux commerciaux, ainsi que de la comptabilité si nécessaire.
 
 ## Section 5 Perception et remboursement de l’impôt pour la bière importée sur le territoire douanier
 
@@ -427,7 +431,7 @@ L’art. 25 est applicable par analogie.
 
 <sup>2</sup> Les décisions de première instance des directions d’arrondissement peuvent faire l’objet d’un recours auprès de la Direction générale des douanes.
 
-<sup>3</sup> L’administration des douanes est représentée par la Direction générale des douanes dans les procédures devant le Tribunal administratif fédéral et le Tribunal fédéral.
+<sup>3</sup> L’OFDF est représentée par la Direction générale des douanes dans les procédures devant le Tribunal administratif fédéral et le Tribunal fédéral.
 
 <sup>4</sup> Le délai de recours en première instance contre la taxation par les bureaux de douane est de 60 jours à compter de l’établissement de la décision de taxation.
 
@@ -461,7 +465,7 @@ En cas de circonstances aggravantes, le montant maximal de l’amende est augmen
 - a. le fait d’embaucher une ou plusieurs personnes pour commettre une infraction;
 - b. le fait de commettre des infractions par métier ou par habitude.
 
-<sup>3</sup> Si le montant d’impôt soustrait ou mis en péril ne peut être déterminé exactement, il est évalué par l’administration des douanes.
+<sup>3</sup> Si le montant d’impôt soustrait ou mis en péril ne peut être déterminé exactement, il est évalué par l’OFDF.
 
 <sup>4</sup> Les art. 14 à 16 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif (DPA)[^35-2] sont réservés.
 
@@ -478,7 +482,7 @@ Quiconque acquiert, reçoit en don, prend en gage ou sous sa garde d’une quelc
 
 **Détournement du gage fiscal**
 
-Quiconque, laissé en possession de bière saisie à titre de gage fiscal par l’administration des douanes, la détruit ou en dispose intentionnellement sans l’assentiment de l’administration des douanes, est puni d’une amende pouvant atteindre le quintuple de la valeur de la bière calculée au cours du marché intérieur.
+Quiconque, laissé en possession de bière saisie à titre de gage fiscal par l’OFDF, la détruit ou en dispose intentionnellement sans l’assentiment de l’OFDF, est puni d’une amende pouvant atteindre le quintuple de la valeur de la bière calculée au cours du marché intérieur.
 
 #### Art. 38
 
@@ -500,7 +504,7 @@ Si l’amende prévisible n’excède pas 100 000 francs et que l’enquête por
 
 **Concours**
 
-Si une infraction constitue à la fois une soustraction, une mise en péril ou un recel de l’impôt et une infraction à d’autres actes législatifs de la Confédération poursuivie par l’administration des douanes, la peine encourue est celle qui est prévue pour l’infraction la plus grave; elle peut être augmentée de façon appropriée.
+Si une infraction constitue à la fois une soustraction, une mise en péril ou un recel de l’impôt et une infraction à d’autres actes législatifs de la Confédération poursuivie par l’OFDF, la peine encourue est celle qui est prévue pour l’infraction la plus grave; elle peut être augmentée de façon appropriée.
 
 #### Art. 41
 
@@ -514,7 +518,7 @@ Quiconque contrevient, intentionnellement ou par négligence grave, à une dispo
 
 <sup>1</sup> Les infractions sont poursuivies et jugées conformément au DPA[^42-1].
 
-<sup>2</sup> La poursuite et le jugement incombent à l’administration des douanes.
+<sup>2</sup> La poursuite et le jugement incombent à l’OFDF.
 
 <sup>3</sup> La prescription de l’action pénale au sens de l’art. 11, al. 2, DPA s’applique à toutes les infractions fiscales.
 
@@ -528,13 +532,13 @@ Quiconque contrevient, intentionnellement ou par négligence grave, à une dispo
 
 <sup>1</sup> Le Conseil fédéral édicte les dispositions d’exécution.
 
-<sup>2</sup> L’administration des douanes exécute la présente loi.
+<sup>2</sup> L’OFDF exécute la présente loi.
 
 #### Art. 44
 
 **Modification du droit en vigueur**
 
-…[^44-1]
+...[^44-1]
 
 [^44-1]: La mod. peut être consultée au [RO 2007 2895](https://fedlex.data.admin.ch/eli/oc/2007/385).
 

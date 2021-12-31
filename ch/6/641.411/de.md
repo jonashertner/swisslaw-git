@@ -4,22 +4,20 @@ title: "Bundesgesetz vom 6. Oktober 2006 über die Biersteuer (Biersteuergesetz,
 short: BStG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/385"
 language: de
-version: 2007-07-01
+version: 2022-01-01
 adopted: 2006-10-06
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/385/20070701/de/xml/fedlex-data-admin-ch-eli-cc-2007-385-20070701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/385/20070701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/385/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-385-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/385/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Biersteuer
 
-641.411 (Stand am 1. Juli 2007)
-
 (Biersteuergesetz, BStG)
 
-vom 6. Oktober 2006 (Stand am 1. Juli 2007)
+vom 6. Oktober 2006 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -71,9 +69,11 @@ Die Steuerforderung entsteht mit der Überführung des Biers in den steuerrechtl
 
 #### Art. 5
 
-**Steuerbehörde**
+**Steuerbehörde**[^5-1]
 
-Steuerbehörde ist die Eidgenössische Zollverwaltung (Zollverwaltung).
+Steuerbehörde ist das Bundesamt für Zoll und Grenzsicherheit (BAZG).
+
+[^5-1]: Fassung gemäss Ziff. I 20 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 6
 
@@ -140,9 +140,9 @@ Mit der steuerpflichtigen Person beziehungsweise mit der Steuernachfolgerin oder
 <sup>1</sup> Der Steuersatz beträgt:
 
 <table>
-<tr><td></td><td>a.</td><td>bis 10,0 Grad Plato (Leichtbier)</td><td>Fr. 16.88 je Hektoliter;</td></tr>
-<tr><td></td><td>b.</td><td>von 10,1 bis 14,0 Grad Plato (Normal- und Spezialbier)</td><td>Fr. 25.32 je Hektoliter;</td></tr>
-<tr><td></td><td>c.</td><td>ab 14,1 Grad Plato (Starkbier)</td><td>Fr. 33.76 je Hektoliter.</td></tr>
+<tr><td>a.</td><td>bis 10,0 Grad Plato (Leichtbier)</td><td>Fr. 16.88 je Hektoliter;</td></tr>
+<tr><td>b.</td><td>von 10,1 bis 14,0 Grad Plato (Normal- und Spezialbier)</td><td>Fr. 25.32 je Hektoliter;</td></tr>
+<tr><td>c.</td><td>ab 14,1 Grad Plato (Starkbier)</td><td>Fr. 33.76 je Hektoliter.</td></tr>
 </table>
 
 <sup>2</sup> Auf Bier mit einem Alkoholgehalt von höchstens 0,5 Volumenprozent (alkoholfreies Bier) wird keine Steuer erhoben.
@@ -219,15 +219,17 @@ Die Steuerermässigung wird Herstellungsbetrieben gewährt, die rechtlich und wi
 
 **Meldepflicht und Registrierung**
 
-<sup>1</sup> Wer im Zollgebiet gewerbsmässig Bier herstellen will, muss sich 30 Tage vor der Produktionsaufnahme bei der Zollverwaltung zur Eintragung in das Register der Bierhersteller anmelden.
+<sup>1</sup> Wer im Zollgebiet gewerbsmässig Bier herstellen will, muss sich 30 Tage vor der Produktionsaufnahme beim BAZG[^15-1] zur Eintragung in das Register der Bierhersteller anmelden.
 
 <sup>2</sup> Die Eintragung setzt voraus, dass die Herstellerin oder der Hersteller Wohnsitz im Zollgebiet hat oder im Handelsregister eingetragen ist.
 
-<sup>3</sup> Jede Änderung des Namens, des Wohnsitzes oder der Eintragung im Handelsregister ist der Zollverwaltung unverzüglich zu melden.
+<sup>3</sup> Jede Änderung des Namens, des Wohnsitzes oder der Eintragung im Handelsregister ist dem BAZG unverzüglich zu melden.
 
 <sup>4</sup> Wer die gewerbsmässige Herstellung von Bier aufgibt, wird im Register gelöscht.
 
 <sup>5</sup> Das Register ist öffentlich.
+
+[^15-1]: Ausdruck gemäss Ziff. I 20 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 16
 
@@ -239,17 +241,17 @@ Die Steuer für im Zollgebiet hergestelltes Bier ist für jedes Quartal (Abrechn
 
 **Selbstveranlagung**
 
-<sup>1</sup> Die Herstellerin oder der Hersteller muss der Zollverwaltung die Steueranmeldung innerhalb von 20 Tagen nach Ablauf der Abrechnungsperiode unaufgefordert in der vorgeschriebenen Form einreichen. Endet die Steuerpflicht vor Ablauf der Abrechnungsperiode, so läuft die Frist ab dem Ende der Steuerpflicht.
+<sup>1</sup> Die Herstellerin oder der Hersteller muss dem BAZG die Steueranmeldung innerhalb von 20 Tagen nach Ablauf der Abrechnungsperiode unaufgefordert in der vorgeschriebenen Form einreichen. Endet die Steuerpflicht vor Ablauf der Abrechnungsperiode, so läuft die Frist ab dem Ende der Steuerpflicht.
 
 <sup>2</sup> Die Steueranmeldung ist für die Herstellerin oder den Hersteller verbindlich und dient als Grundlage für die Festsetzung des Steuerbetrags. Das Ergebnis einer amtlichen Überprüfung bleibt vorbehalten.
 
-<sup>3</sup> Falls die Zollverwaltung die Steueranmeldung beanstandet, setzt sie den Steuerbetrag durch Verfügung fest.
+<sup>3</sup> Falls das BAZG die Steueranmeldung beanstandet, setzt es den Steuerbetrag durch Verfügung fest.
 
 #### Art. 18
 
 **Entrichtung der Steuer**
 
-Die Herstellerin oder der Hersteller muss die Steuer für im Zollgebiet hergestelltes Bier innerhalb von 30 Tagen nach Ablauf der Abrechnungsperiode der Zollverwaltung entrichten. Endet die Steuerpflicht vor Ablauf der Abrechnungsperiode, so läuft die Zahlungsfrist ab dem Ende der Steuerpflicht.
+Die Herstellerin oder der Hersteller muss die Steuer für im Zollgebiet hergestelltes Bier innerhalb von 30 Tagen nach Ablauf der Abrechnungsperiode dem BAZG entrichten. Endet die Steuerpflicht vor Ablauf der Abrechnungsperiode, so läuft die Zahlungsfrist ab dem Ende der Steuerpflicht.
 
 #### Art. 19
 
@@ -276,7 +278,7 @@ Die Herstellerin oder der Hersteller hat Anspruch auf Rückerstattung der Steuer
 
 <sup>1</sup> Der Anspruch auf Rückvergütung oder auf Rückerstattung verjährt fünf Jahre nach Ablauf des Kalenderjahres, in dem er entstanden ist.
 
-<sup>2</sup> Die Verjährung wird unterbrochen durch die Geltendmachung des Anspruchs gegenüber der Zollverwaltung.
+<sup>2</sup> Die Verjährung wird unterbrochen durch die Geltendmachung des Anspruchs gegenüber dem BAZG.
 
 <sup>3</sup> Sie steht still, solange über den geltend gemachten Anspruch ein Entscheid-, Einsprache- oder Rechtsmittelverfahren hängig ist.
 
@@ -286,9 +288,9 @@ Die Herstellerin oder der Hersteller hat Anspruch auf Rückerstattung der Steuer
 
 **Steuernachforderung**
 
-<sup>1</sup> Hat die Zollverwaltung eine für im Zollgebiet hergestelltes Bier geschuldete Steuer nicht oder zu niedrig festgesetzt, so fordert sie den Betrag innerhalb der Verjährungsfrist nach.
+<sup>1</sup> Hat das BAZG eine für im Zollgebiet hergestelltes Bier geschuldete Steuer nicht oder zu niedrig festgesetzt, so fordert es den Betrag innerhalb der Verjährungsfrist nach.
 
-<sup>2</sup> Nötigenfalls nimmt sie die Veranlagung auf der Grundlage der ihr bekannten Tatsachen durch Schätzung vor.
+<sup>2</sup> Nötigenfalls nimmt es die Veranlagung auf der Grundlage der ihr bekannten Tatsachen durch Schätzung vor.
 
 #### Art. 23
 
@@ -313,9 +315,9 @@ Die Verjährung wird unterbrochen:
 
 **Nachforderung von zu Unrecht rückvergüteten Beträgen**
 
-<sup>1</sup> Ist ein geschuldeter Betrag zu Unrecht rückvergütet worden, so fordert ihn die Zollverwaltung nach.
+<sup>1</sup> Ist ein geschuldeter Betrag zu Unrecht rückvergütet worden, so fordert ihn das BAZG nach.
 
-<sup>2</sup> Der Nachforderungsanspruch verjährt fünf Jahre nach dem Zeitpunkt, in dem die Zollverwaltung Kenntnis vom Anspruch erhielt, spätestens jedoch zehn Jahre nach dem Zeitpunkt, in dem der Anspruch entstanden ist.
+<sup>2</sup> Der Nachforderungsanspruch verjährt fünf Jahre nach dem Zeitpunkt, in dem das BAZG Kenntnis vom Anspruch erhielt, spätestens jedoch zehn Jahre nach dem Zeitpunkt, in dem der Anspruch entstanden ist.
 
 <sup>3</sup> Die Verjährung wird durch jede Amtshandlung unterbrochen, mit der die Nachforderung geltend gemacht wird; sie steht still, solange die zahlungspflichtige Person in der Schweiz nicht betrieben werden kann.
 
@@ -327,7 +329,7 @@ Die Verjährung wird unterbrochen:
 
 <sup>2</sup> Ab dem Zeitpunkt, in dem eine Rückvergütung oder Rückerstattung zu Unrecht erfolgte, ist ein Verzugszins geschuldet.
 
-<sup>3</sup> Ab dem Zeitpunkt, in dem die Zollverwaltung einen Betrag zu Unrecht erhoben oder nicht zurückerstattet hat, schuldet sie einen Vergütungszins.
+<sup>3</sup> Ab dem Zeitpunkt, in dem das BAZG einen Betrag zu Unrecht erhoben oder nicht zurückerstattet hat, schuldet es einen Vergütungszins.
 
 <sup>4</sup> Der Bundesrat kann für die Erhebung des Verzugszinses Ausnahmen vorsehen.
 
@@ -354,7 +356,7 @@ Der Bund hat ein gesetzliches Pfandrecht an Bier, das im Zollgebiet hergestellt 
 
 <sup>1</sup>
 
-Die Zollverwaltung kann eine Steuerforderung, auch wenn diese noch nicht fällig ist, sicherstellen lassen, wenn diese nicht durch ein ausreichendes und verwertbares Steuerpfand gesichert ist und wenn:
+Das BAZG kann eine Steuerforderung, auch wenn diese noch nicht fällig ist, sicherstellen lassen, wenn diese nicht durch ein ausreichendes und verwertbares Steuerpfand gesichert ist und wenn:
 
 - a. die Zahlung als gefährdet erscheint; oder
 - b. die steuerpflichtige Person mit der Zahlung in Verzug ist.
@@ -367,13 +369,13 @@ Die Zollverwaltung kann eine Steuerforderung, auch wenn diese noch nicht fällig
 
 **Kontrollmassnahmen**
 
-<sup>1</sup> Wer Bier im Zollgebiet herstellt, muss eine vollständige Kontrolle über seine Tätigkeiten führen. Der Bundesrat regelt die Einzelheiten. Die Zollverwaltung kann die Verwendung bestimmter Formulare vorschreiben.
+<sup>1</sup> Wer Bier im Zollgebiet herstellt, muss eine vollständige Kontrolle über seine Tätigkeiten führen. Der Bundesrat regelt die Einzelheiten. Das BAZG kann die Verwendung bestimmter Formulare vorschreiben.
 
-<sup>2</sup> Die Herstellerin oder der Hersteller muss der Zollverwaltung auf Verlangen alle Auskünfte erteilen und alle Bücher, Geschäftspapiere und Urkunden vorlegen, die für den Vollzug dieses Gesetzes von Bedeutung sein könnten.
+<sup>2</sup> Die Herstellerin oder der Hersteller muss dem BAZG auf Verlangen alle Auskünfte erteilen und alle Bücher, Geschäftspapiere und Urkunden vorlegen, die für den Vollzug dieses Gesetzes von Bedeutung sein könnten.
 
 <sup>3</sup> Die Unterlagen sind während zehn Jahren aufzubewahren.
 
-<sup>4</sup> Die Zollverwaltung ist befugt, Produktionsanlagen, Warenlager und andere Betriebsräume sowie, soweit erforderlich, Geschäftsbücher jederzeit und ohne Vorankündigung zu kontrollieren.
+<sup>4</sup> Das BAZG ist befugt, Produktionsanlagen, Warenlager und andere Betriebsräume sowie, soweit erforderlich, Geschäftsbücher jederzeit und ohne Vorankündigung zu kontrollieren.
 
 ## 5. Abschnitt: Erhebung und Rückerstattung der Steuer für ins Zollgebiet eingeführtes Bier
 
@@ -425,7 +427,7 @@ Artikel 25 ist sinngemäss anwendbar.
 
 <sup>2</sup> Gegen erstinstanzliche Verfügungen der Zollkreisdirektionen kann bei der Oberzolldirektion Beschwerde geführt werden.
 
-<sup>3</sup> Die Zollverwaltung wird im Verfahren vor dem Bundesverwaltungsgericht und dem Bundesgericht durch die Oberzolldirektion vertreten.
+<sup>3</sup> Das BAZG wird im Verfahren vor dem Bundesverwaltungsgericht und dem Bundesgericht durch die Oberzolldirektion vertreten.
 
 <sup>4</sup> Die Frist für die erste Beschwerde gegen die Veranlagung der Zollstelle beträgt 60 Tage ab dem Ausstellen der Veranlagungsverfügung.
 
@@ -459,7 +461,7 @@ Bei erschwerenden Umständen wird das Höchstmass der angedrohten Busse um die H
 - a. die Anwerbung einer oder mehrerer Personen für eine Widerhandlung;
 - b. die gewerbs- oder gewohnheitsmässige Verübung von Widerhandlungen.
 
-<sup>3</sup> Kann der gefährdete oder hinterzogene Steuerbetrag nicht genau ermittelt werden, so wird er von der Zollverwaltung geschätzt.
+<sup>3</sup> Kann der gefährdete oder hinterzogene Steuerbetrag nicht genau ermittelt werden, so wird er vom BAZG geschätzt.
 
 <sup>4</sup> Vorbehalten bleiben die Artikel 14–16 des Bundesgesetzes vom 22. März 1974[^35-2] über das Verwaltungsstrafrecht (VStrR).
 
@@ -476,7 +478,7 @@ Wer Bier, von dem er weiss oder annehmen muss, dass die darauf geschuldete Steue
 
 **Steuerpfandunterschlagung**
 
-Mit Busse bis zum Fünffachen des Inlandwertes des Bieres wird bestraft, wer vorsätzlich von der Zollverwaltung als Steuerpfand beschlagnahmtes Bier, das in seinem Besitz belassen worden ist, vernichtet oder ohne Zustimmung der Zollverwaltung darüber verfügt.
+Mit Busse bis zum Fünffachen des Inlandwertes des Bieres wird bestraft, wer vorsätzlich vom BAZG als Steuerpfand beschlagnahmtes Bier, das in seinem Besitz belassen worden ist, vernichtet oder ohne Zustimmung des BAZG darüber verfügt.
 
 #### Art. 38
 
@@ -498,7 +500,7 @@ Fällt eine Busse von höchstens 100 000 Franken in Betracht und würde die Ermi
 
 **Konkurrenz**
 
-Erfüllt eine Handlung gleichzeitig den Tatbestand einer Gefährdung oder Hinterziehung der Steuer oder der Steuerhehlerei und einer von der Zollverwaltung zu verfolgenden Widerhandlung gegen andere Erlasse des Bundes, so wird die für die schwerere Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.
+Erfüllt eine Handlung gleichzeitig den Tatbestand einer Gefährdung oder Hinterziehung der Steuer oder der Steuerhehlerei und einer vom BAZG zu verfolgenden Widerhandlung gegen andere Erlasse des Bundes, so wird die für die schwerere Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.
 
 #### Art. 41
 
@@ -512,7 +514,7 @@ Wer vorsätzlich oder grobfahrlässig gegen eine Vorschrift dieses Gesetzes, ein
 
 <sup>1</sup> Widerhandlungen werden nach dem VStrR[^42-1] verfolgt und beurteilt.
 
-<sup>2</sup> Verfolgende und urteilende Behörde ist die Zollverwaltung.
+<sup>2</sup> Verfolgende und urteilende Behörde ist das BAZG.
 
 <sup>3</sup> Die Verfolgungsverjährung nach Artikel 11 Absatz 2 VStrR gilt für sämtliche Steuerwiderhandlungen.
 
@@ -526,19 +528,15 @@ Wer vorsätzlich oder grobfahrlässig gegen eine Vorschrift dieses Gesetzes, ein
 
 <sup>1</sup> Der Bundesrat erlässt die Ausführungsbestimmungen.
 
-<sup>2</sup> Die Zollverwaltung vollzieht dieses Gesetz.
+<sup>2</sup> Das BAZG vollzieht dieses Gesetz.
 
 #### Art. 44
 
 **Änderung bisherigen Rechts**
 
-Das Zollgesetz vom 18. März 2005[^44-subdivu1-1] wird wie folgt geändert:
+...[^44-1]
 
-[^44-subdivu1-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249). Die hiernach aufgeführte Änd. ist eingefügt in der genannten V.
-
-### Art. 126 Sachüberschrift
-
-...
+[^44-1]: Die Änderung kann unter [AS 2007 2895](https://fedlex.data.admin.ch/eli/oc/2007/385)konsultiert werden.
 
 #### Art. 45
 
