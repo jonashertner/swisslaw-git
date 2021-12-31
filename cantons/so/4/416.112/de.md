@@ -4,13 +4,13 @@ number: "416.112"
 title: Verordnung über die Berufsbildung
 short: VBB
 language: de
-version: 2018-01-01
-valid_until: 2021-12-31
-version_adopted: 2017-09-26
+version: 2022-01-01
+valid_until: 2023-02-28
+version_adopted: 2021-09-21
 adopted: 2008-11-11
 in_force: 2009-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/416.112"
-pdf: "https://bgs.so.ch/api/de/versions/4667/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5143/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4667/pdf_file"
 
 (VBB)
 
-Vom 11.11.2008 (Stand 01.01.2018)
+Vom 11.11.2008 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -591,11 +591,14 @@ beschliesst:
 
 **Kosten**
 
-<sup>1</sup> Die berufskundliche Information und Dokumentation sowie Einzelberatungen von Jugendlichen und Erwachsenen ohne abgeschlossene berufliche Grundbildung sind kostenlos.
+<sup>1</sup> Das kostenlose Grundangebot der Berufs-, Studien- und Laufbahnberatung umfasst:
+
+- a) Die berufskundliche Information und Dokumentation sowie
+- b) Einzelberatungen von Jugendlichen und Erwachsenen.
 
 <sup>2</sup> Kosten für besondere Abklärungen, die im Einverständnis mit dem oder der Ratsuchenden beziehungsweise den Erziehungsberechtigten vorgenommen werden, können ganz oder teilweise in Rechnung gestellt werden.
 
-<sup>3</sup> Einzelberatungen von Erwachsenen mit abgeschlossener beruflicher Grundbildung sowie weiterführende Dienstleistungen für Dritte sind kostenpflichtig.
+<sup>3</sup> Weiterführende Dienstleistungen für Dritte sind kostenpflichtig.
 
 <sup>4</sup> Die Beratungen der Fachstelle CM BB sind kostenlos.
 
