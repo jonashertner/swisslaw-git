@@ -4,13 +4,13 @@ number: "200"
 title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: EGZGB
 language: de
-version: 2020-09-27
-valid_until: 2021-12-31
-version_adopted: 2020-09-27
+version: 2022-01-01
+valid_until: 2025-12-31
+version_adopted: 2019-09-09
 adopted: 2000-11-20
 in_force: 2002-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/200"
-pdf: "https://srl.lu.ch/api/de/versions/3634/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3867/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3634/pdf_file"
 
 (EGZGB)
 
-vom 20.11.2000 (Stand 27.09.2020)
+vom 20.11.2000 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -957,9 +957,10 @@ beschliesst:
 
 #### § 81
 
-<sup>1</sup> Die in Artikel 618 ZGB und in den Artikeln 17, 18 und 21 BGBB vorgesehenen Schatzungen werden nach den Vorschriften des kantonalen Schatzungsgesetzes vom 27. Juni 1961[^81-1] durchgeführt.
+<sup>1</sup> Die in Artikel 618 ZGB und in den Artikeln 17, 18 und 21 BGBB[^81-1] vorgesehenen Schatzungen werden nach den Vorschriften des Steuergesetzes vom 22. November 1999[^81-2] durchgeführt.
 
-[^81-1]: SRL Nr. [626](https://srl.lu.ch/data/626/de)
+[^81-1]: SR [211.412.11](https://db.clex.ch/link/Bund/211.412.11/de)
+[^81-2]: SRL Nr. [620](https://srl.lu.ch/data/620/de)
 
 ### 6.7 Aufsicht
 
