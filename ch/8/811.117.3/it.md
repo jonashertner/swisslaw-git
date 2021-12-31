@@ -3,11 +3,11 @@ sr: "811.117.3"
 title: Ordinanza del 5 aprile 2017 sul registro delle professioni mediche universitarie (Ordinanza sul registro LPMed)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/279"
 language: it
-version: 2021-11-01
+version: 2022-01-01
 adopted: 2017-04-05
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/279/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2017-279-20211101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/279/20211101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/279/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-279-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/279/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/279/20211101/it"
 
 (Ordinanza sul registro LPMed)
 
-del 5 aprile 2017 (Stato 1° novembre 2021)
+del 5 aprile 2017 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -69,7 +69,7 @@ La Commissione delle professioni mediche (MEBEKO) iscrive nel registro delle pro
 - c. la lingua di corrispondenza;
 - d. le conoscenze linguistiche del titolare del diploma;
 - e. [^3-1] le cittadinanze;
-- f. il numero d’assicurato di cui all’articolo 50*e* capoverso 1 della legge federale del 20 dicembre 1946[^3-2] sull’assicurazione per la vecchiaia e per i superstiti;
+- f. il numero AVS[^3-2] sull’assicurazione per la vecchiaia e per i superstiti;
 - g. i diplomi federali con la data d’emissione e il luogo di rilascio del diploma;
 - h. i diplomi esteri riconosciuti di cui all’articolo 15 capoverso 1 LPMed e i titoli di perfezionamento esteri riconosciuti di cui all’articolo 21 capoverso 1 LPMed con la data d’emissione, il luogo e il Paese di rilascio, nonché la data di riconoscimento da parte della MEBEKO;
 - i. gli attestati di equivalenza per i diplomi e i titoli di perfezionamento di cui all’articolo 36 capoverso 3 LPMed con la data d’emissione, il luogo e il Paese di rilascio, nonché la data dell’attestato di equivalenza concesso dalla MEBEKO;
@@ -80,7 +80,7 @@ La Commissione delle professioni mediche (MEBEKO) iscrive nel registro delle pro
 <sup>2</sup> ...[^3-4]
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2019, in vigore dal 1° feb. 2020 ([RU 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
-[^3-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-2]: Nuova espr. giusta l’all. n. II 29 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. è tenuto conto in tutto il testo.
 [^3-3]: GLN è l’acronimo di *Global Location Number.*
 [^3-4]: Introdotto dal n. I 3 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
@@ -354,7 +354,7 @@ Tutti i servizi che partecipano al registro delle professioni mediche adottano l
 
 L’ordinanza del 15 ottobre 2008[^20-1] sul registro LPMed è abrogata.
 
-[^20-1]: [[RU 2008 4743](https://fedlex.data.admin.ch/eli/oc/2008/668), [2014 4657](https://fedlex.data.admin.ch/eli/oc/2014/779)]
+[^20-1]: [[RU 2008 4743](https://fedlex.data.admin.ch/eli/oc/2008/668); [2014 4657](https://fedlex.data.admin.ch/eli/oc/2014/779)]
 
 #### Art. 21
 
@@ -368,7 +368,7 @@ L’ordinanza del 15 ottobre 2008[^20-1] sul registro LPMed è abrogata.
 
 La presente ordinanza entra in vigore il 1° gennaio 2018.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 3–8, 10–16)
 
@@ -376,7 +376,7 @@ Allegato 1*[^t-1]*
 
 [^t-1]: Aggiornato dal n. II dell’O. del 13 dic. 2019, in vigore dal 1° feb. 2020 ([RU 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
 
-### 1 Contenuto e accesso:
+### 1 Contenuto e accesso
 
 A Iscrizione, modifica, cancellazione, lettura (per motivi tecnici i campi di dati contrassegnati con \* possono essere iscritti anche dall’UFSP)
 
@@ -419,91 +419,91 @@ USAV Ufficio federale della sicurezza alimentare e di veterinaria
 Cantoni Autorità competenti per il rilascio delle autorizzazioni all’esercizio della professione e la vigilanza
 
 <table>
-<tr><th></th><th>Campi di dati del registro delle professioni mediche</th><th colspan="3">Contenuto e accesso</th><th></th><th></th><th colspan="8">Fornitore responsabile</th><th></th><th></th><th colspan="2"></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th>Contenuto</th><th>Accessibile al pubblico (mediante procedura di richiamo via Internet)</th><th colspan="3">Dati accessibili al pubblico (su richiesta)</th><th>MEBEKO</th><th>UFSP</th><th>FMH/ISFM</th><th>pharmaSuisse</th><th>SSO</th><th>ChiroSuisse</th><th>SVS</th><th colspan="4">Cantoni</th><th colspan="4">UST</th><th colspan="4">USAV</th></tr>
-<tr><td>1</td><td colspan="25">Dati personali di base:</td></tr>
-<tr><td>1.1</td><td>Numero d’identificazione delle persone (GLN)</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>1.2</td><td>Numero d’identificazione delle imprese (IDI) per ditte individuali</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">B</td><td colspan="4">A</td><td colspan="4">B</td></tr>
-<tr><td>1.3</td><td>Nome, cognome</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">B</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>1.4</td><td>Cognomi precedenti</td><td>X</td><td></td><td colspan="3">O</td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">B</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>1.5</td><td>Data di nascita</td><td>X</td><td></td><td colspan="3">O</td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">B</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>1.5<sup>bis</sup></td><td>Anno di nascita</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">B</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>1.6</td><td>Sesso</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">B</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>1.7</td><td>Lingua di corrispondenza</td><td>X</td><td></td><td colspan="3">O</td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">B</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>1.8</td><td>Conoscenze linguistiche</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">B</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>1.9</td><td>…</td><td></td><td></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>1.10</td><td>Cittadinanze</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">B</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>1.11</td><td>Numero d’assicurato AVS</td><td>X</td><td></td><td colspan="3"></td><td>A</td><td>A\*</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">B</td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>1.12</td><td>Data del decesso</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">B</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>2</td><td colspan="25">Dati riguardanti i diplomi:</td></tr>
-<tr><td>2.1</td><td>Diplomi federali con la data d’emissione</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>2.2</td><td>Diplomi esteri riconosciuti con la data d’emissione e la data del riconoscimento da parte della Svizzera</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>2.3</td><td>Attestati di equivalenza per i diplomi di cui all’art. 36 cpv. 3 LPMed con la data d’emissione del diploma e la data dell’attestato di equivalenza svizzero</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>2.4</td><td>Diplomi esteri verificati di cui all’art. 35 cpv. 1 LPMed con la data d’emissione nonché la data della verifica</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>2.5</td><td>Diplomi di cui all’art. 33*a* cpv. 2 lett. a LPMed con la data d’emissione e la data d’iscrizione nel registro</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>2.6</td><td>Luogo di rilascio del diploma</td><td>X</td><td></td><td colspan="3">O</td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>2.7</td><td>Paese di rilascio del diploma</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>3</td><td colspan="25">Dati riguardanti il perfezionamento:</td></tr>
-<tr><td>3.1</td><td>Titoli federali di perfezionamento con la data d’emissione</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>3.2</td><td>Titoli di perfezionamento esteri riconosciuti di cui all’art. 21 cpv. 1 LPMed con la data d’emissione e la data del riconoscimento da parte della Svizzera</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>3.3</td><td>Attestato di equivalenza per i titoli di perfezionamento di cui all’art. 36 cpv. 3 LPMed con la data d’emissione e la data dell’attestato di equivalenza svizzero</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>3.4</td><td>Titoli di perfezionamento esteri verificati di cui all’art. 35 cpv. 1 LPMed con la data d’emissione nonché la data di verifica</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>3.5</td><td>Luogo di rilascio del titolo di perfezionamento</td><td>X</td><td></td><td colspan="3">O</td><td>A</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>3.6</td><td>Paese di rilascio del titolo di perfezionamento</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>3.7</td><td>Attestati di capacità di «veterinario ufficiale», «veterinario ufficiale dirigente» e certificati di attitudine tecnica di «veterinario responsabile tecnico» con la data di rilascio</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">A</td></tr>
-<tr><td>3.8</td><td>Attestati di capacità di diritto privato di cui all’allegato 2 con la data di rilascio</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>A</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>3.9</td><td>Titoli o certificati di perfezionamento di diritto privato secondo l’ordinamento del perfezionamento professionale con la data di rilascio</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>3.10</td><td>Formazioni approfondite di diritto privato secondo l’ordinamento del perfezionamento professionale con la data di rilascio</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>3.11</td><td>Attestati di capacità di diritto privato secondo l’ordinamento del perfezionamento professionale con la data di rilascio</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>A</td><td>A</td><td>A</td><td>C</td><td>A</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>3.12</td><td>Certificati di attitudine tecnica di diritto privato secondo l’ordinamento del perfezionamento professionale con la data di rilascio</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>A</td><td>A</td><td>C</td><td>C</td><td>A</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>4</td><td colspan="25">Dati riguardanti l’autorizzazione all’esercizio della professione:</td></tr>
-<tr><td>4.1</td><td>Cantone che ha rilasciato l’autorizzazione</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>4.2</td><td>Base legale per l’autorizzazione all’esercizio</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>4.3</td><td>Stato dell’autorizzazione all’esercizio della professione (rilasciata, nessuna autorizzazione), con la data della decisione</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>4.4</td><td>Indicazione se la persona esercita o no una professione medica attivamente, con la data della modifica dell’attività</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>4.5</td><td>Data di un termine di scadenza dell’autorizzazione all’esercizio della professione</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>4.6</td><td>Nome dello studio medico o dell’azienda</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>4.7</td><td>Indicazione se si tratta o no di una ditta individuale</td><td>X</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>4.8</td><td>Forma giuridica della persona giuridica</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>4.9</td><td>IDI della persona giuridica</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>4.10</td><td>Indirizzo dello studio medico o dell’azienda (via, NPA, località)</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>4.11</td><td>Numero di telefono dello studio medico o dell’azienda</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>4.12</td><td>Indirizzi di posta elettronica</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>4.13</td><td>Autorizzazione a fatturare prestazioni a carico dell’assicurazione obbligatoria delle cure medico-sanitarie</td><td>Y[^annex1-lvlu1-lvl2-1]</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>4.14</td><td>Autorizzazione a dispensare direttamente medicamenti</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>4.15</td><td>Osservazioni relative alla dispensazione diretta di medicamenti</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>4.16</td><td>Portata dell’autorizzazione per l’utilizzazione di sostanze stupefacenti</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>4.17</td><td>Eventuali osservazioni in merito alla portata dell’autorizzazione per l’utilizzazione di sostanze stupefacenti</td><td>X</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>4.18</td><td>Restrizioni tecniche, temporali o geografiche con la data della decisione e l’indicazione di un eventuale termine di scadenza</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>4.19</td><td>Descrizione delle restrizioni</td><td>X</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>4.20</td><td>Oneri con la data della decisione e l’indicazione di un eventuale termine di scadenza</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>4.21</td><td>Descrizione degli oneri</td><td>X</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>4.22</td><td>Rifiuto o revoca dell’autorizzazione con la data della decisione</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>5</td><td colspan="25">Dati riguardanti i prestatori di servizi autorizzati a esercitare la professione durante 90 giorni:</td></tr>
-<tr><td>5.1</td><td>Annunci di prestatori di servizi di cui all’art. 35 LPMed</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>5.2</td><td>Data dell’annuncio</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>5.3</td><td>Data di inizio e fine delle prestazioni</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>5.4</td><td>Indicazione se i prestatori di servizi hanno esaurito i 90 giorni nel corrispondente anno civile</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>5.5</td><td>Nome dello studio medico o dell’azienda</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>5.6</td><td>Indirizzo dello studio medico o dell’azienda (via, NPA, località)</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>5.7</td><td>Numero di telefono e di fax dello studio medico o dell’azienda</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>5.8</td><td>Indirizzi di posta elettronica</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>5.9</td><td>Autorizzazione a fatturare prestazioni a carico dell’assicurazione obbligatoria delle cure medico-sanitarie</td><td>Y[^annex1-lvlu1-lvl2-2]</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>5.10</td><td>Autorizzazione a dispensare direttamente medicamenti</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>5.11</td><td>Osservazioni relative alla dispensazione diretta di medicamenti</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>5.12</td><td>Portata dell’autorizzazione per l’utilizzazione di sostanze stupefacenti</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>5.13</td><td>Eventuali osservazioni in merito alla portata dell’autorizzazione per l’utilizzazione di sostanze stupefacenti</td><td>X</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>6</td><td colspan="25">Dati personali degni di particolare protezione:</td></tr>
-<tr><td>6.1</td><td>Presenza di dati personali degni di particolare protezione di cui all’art. 7 cpv. 6 (sì/no)</td><td>X</td><td></td><td colspan="3"></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">B</td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>6.2</td><td>Menzione «cancellato» di cui all’art. 54 cpv. 3 LPMed e la data della menzione</td><td>X</td><td></td><td colspan="3"></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">B</td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>6.3</td><td>Restrizioni soppresse con la data della soppressione</td><td>X</td><td></td><td colspan="3"></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">S</td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>6.4</td><td>Motivi del rifiuto dell’autorizzazione o della sua revoca</td><td>X</td><td></td><td colspan="3"></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">S</td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>6.5</td><td>Avvertimento con il motivo e la data della decisione</td><td>X</td><td></td><td colspan="3"></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">S</td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>6.6</td><td>Ammonimento con il motivo e la data della decisione</td><td>X</td><td></td><td colspan="3"></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">S</td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>6.7</td><td>Multa con il motivo, la data della decisione e l’importo della multa</td><td>X</td><td></td><td colspan="3"></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">S</td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>6.8</td><td>Divieto temporaneo all’esercizio della professione sotto la propria responsabilità professionale, con il motivo e la data della decisione nonché l'inizio e la fine del divieto</td><td>X</td><td></td><td colspan="3"></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">S</td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>6.9</td><td>Divieto definitivo all’esercizio della professione sotto la propria responsabilità professionale, con il motivo e la data della decisione</td><td>X</td><td></td><td colspan="3"></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">S</td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>6.10</td><td>Misure disciplinari di cui all’art. 52 cpv. 1 lett. b LPMed fondate sul diritto cantonale con il motivo e la data della decisione</td><td>X</td><td></td><td colspan="3"></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">S</td><td colspan="4"></td><td colspan="4"></td></tr>
+<tr><th></th><th>Campi di dati del registro delle professioni mediche</th><th colspan="3">Contenuto e accesso</th><th colspan="10">Fornitore responsabile</th></tr>
+<tr><th></th><th></th><th>Contenuto</th><th>Accessibile al pubblico (mediante procedura di richiamo via Internet)</th><th>Dati accessibili al pubblico (su richiesta)</th><th>MEBEKO</th><th>UFSP</th><th>FMH/ISFM</th><th>pharmaSuisse</th><th>SSO</th><th>ChiroSuisse</th><th>SVS</th><th>Cantoni</th><th>UST</th><th>USAV</th></tr>
+<tr><td>1</td><td colspan="14">Dati personali di base:</td></tr>
+<tr><td>1.1</td><td>Numero d’identificazione delle persone (GLN)</td><td>X</td><td>I</td><td></td><td>A</td><td>A</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>1.2</td><td>Numero d’identificazione delle imprese (IDI) per ditte individuali</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td></tr>
+<tr><td>1.3</td><td>Nome, cognome</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>1.4</td><td>Cognomi precedenti</td><td>X</td><td></td><td>O</td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>1.5</td><td>Data di nascita</td><td>X</td><td></td><td>O</td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>1.5<sup>bis</sup></td><td>Anno di nascita</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>1.6</td><td>Sesso</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>1.7</td><td>Lingua di corrispondenza</td><td>X</td><td></td><td>O</td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>1.8</td><td>Conoscenze linguistiche</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>1.9</td><td>…</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1.10</td><td>Cittadinanze</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>1.11</td><td>Numero AVS</td><td>X</td><td></td><td></td><td>A</td><td>A\*</td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td></tr>
+<tr><td>1.12</td><td>Data del decesso</td><td>X</td><td></td><td></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>2</td><td colspan="14">Dati riguardanti i diplomi:</td></tr>
+<tr><td>2.1</td><td>Diplomi federali con la data d’emissione</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>2.2</td><td>Diplomi esteri riconosciuti con la data d’emissione e la data del riconoscimento da parte della Svizzera</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>2.3</td><td>Attestati di equivalenza per i diplomi di cui all’art. 36 cpv. 3 LPMed con la data d’emissione del diploma e la data dell’attestato di equivalenza svizzero</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>2.4</td><td>Diplomi esteri verificati di cui all’art. 35 cpv. 1 LPMed con la data d’emissione nonché la data della verifica</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>2.5</td><td>Diplomi di cui all’art. 33*a* cpv. 2 lett. a LPMed con la data d’emissione e la data d’iscrizione nel registro</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>2.6</td><td>Luogo di rilascio del diploma</td><td>X</td><td></td><td>O</td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>2.7</td><td>Paese di rilascio del diploma</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>3</td><td colspan="14">Dati riguardanti il perfezionamento:</td></tr>
+<tr><td>3.1</td><td>Titoli federali di perfezionamento con la data d’emissione</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>3.2</td><td>Titoli di perfezionamento esteri riconosciuti di cui all’art. 21 cpv. 1 LPMed con la data d’emissione e la data del riconoscimento da parte della Svizzera</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>3.3</td><td>Attestato di equivalenza per i titoli di perfezionamento di cui all’art. 36 cpv. 3 LPMed con la data d’emissione e la data dell’attestato di equivalenza svizzero</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>3.4</td><td>Titoli di perfezionamento esteri verificati di cui all’art. 35 cpv. 1 LPMed con la data d’emissione nonché la data di verifica</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>3.5</td><td>Luogo di rilascio del titolo di perfezionamento</td><td>X</td><td></td><td>O</td><td>A</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>3.6</td><td>Paese di rilascio del titolo di perfezionamento</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>3.7</td><td>Attestati di capacità di «veterinario ufficiale», «veterinario ufficiale dirigente» e certificati di attitudine tecnica di «veterinario responsabile tecnico» con la data di rilascio</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>A</td></tr>
+<tr><td>3.8</td><td>Attestati di capacità di diritto privato di cui all’allegato 2 con la data di rilascio</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>A</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>3.9</td><td>Titoli o certificati di perfezionamento di diritto privato secondo l’ordinamento del perfezionamento professionale con la data di rilascio</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>3.10</td><td>Formazioni approfondite di diritto privato secondo l’ordinamento del perfezionamento professionale con la data di rilascio</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>3.11</td><td>Attestati di capacità di diritto privato secondo l’ordinamento del perfezionamento professionale con la data di rilascio</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>A</td><td>A</td><td>A</td><td>C</td><td>A</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>3.12</td><td>Certificati di attitudine tecnica di diritto privato secondo l’ordinamento del perfezionamento professionale con la data di rilascio</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>A</td><td>A</td><td>C</td><td>C</td><td>A</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>4</td><td colspan="14">Dati riguardanti l’autorizzazione all’esercizio della professione:</td></tr>
+<tr><td>4.1</td><td>Cantone che ha rilasciato l’autorizzazione</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>4.2</td><td>Base legale per l’autorizzazione all’esercizio</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>4.3</td><td>Stato dell’autorizzazione all’esercizio della professione (rilasciata, nessuna autorizzazione), con la data della decisione</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>4.4</td><td>Indicazione se la persona esercita o no una professione medica attivamente, con la data della modifica dell’attività</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>4.5</td><td>Data di un termine di scadenza dell’autorizzazione all’esercizio della professione</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>4.6</td><td>Nome dello studio medico o dell’azienda</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>4.7</td><td>Indicazione se si tratta o no di una ditta individuale</td><td>X</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>4.8</td><td>Forma giuridica della persona giuridica</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>4.9</td><td>IDI della persona giuridica</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>4.10</td><td>Indirizzo dello studio medico o dell’azienda (via, NPA, località)</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>4.11</td><td>Numero di telefono dello studio medico o dell’azienda</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>4.12</td><td>Indirizzi di posta elettronica</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>4.13</td><td>Autorizzazione a fatturare prestazioni a carico dell’assicurazione obbligatoria delle cure medico-sanitarie</td><td>Y[^annex1-lvlu1-lvl2-1]</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>4.14</td><td>Autorizzazione a dispensare direttamente medicamenti</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>4.15</td><td>Osservazioni relative alla dispensazione diretta di medicamenti</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>4.16</td><td>Portata dell’autorizzazione per l’utilizzazione di sostanze stupefacenti</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>4.17</td><td>Eventuali osservazioni in merito alla portata dell’autorizzazione per l’utilizzazione di sostanze stupefacenti</td><td>X</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>4.18</td><td>Restrizioni tecniche, temporali o geografiche con la data della decisione e l’indicazione di un eventuale termine di scadenza</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>C</td></tr>
+<tr><td>4.19</td><td>Descrizione delle restrizioni</td><td>X</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>C</td></tr>
+<tr><td>4.20</td><td>Oneri con la data della decisione e l’indicazione di un eventuale termine di scadenza</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>C</td></tr>
+<tr><td>4.21</td><td>Descrizione degli oneri</td><td>X</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>C</td></tr>
+<tr><td>4.22</td><td>Rifiuto o revoca dell’autorizzazione con la data della decisione</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>C</td></tr>
+<tr><td>5</td><td colspan="14">Dati riguardanti i prestatori di servizi autorizzati a esercitare la professione durante 90 giorni:</td></tr>
+<tr><td>5.1</td><td>Annunci di prestatori di servizi di cui all’art. 35 LPMed</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>5.2</td><td>Data dell’annuncio</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>5.3</td><td>Data di inizio e fine delle prestazioni</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>5.4</td><td>Indicazione se i prestatori di servizi hanno esaurito i 90 giorni nel corrispondente anno civile</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>5.5</td><td>Nome dello studio medico o dell’azienda</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>5.6</td><td>Indirizzo dello studio medico o dell’azienda (via, NPA, località)</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>5.7</td><td>Numero di telefono e di fax dello studio medico o dell’azienda</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>5.8</td><td>Indirizzi di posta elettronica</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>5.9</td><td>Autorizzazione a fatturare prestazioni a carico dell’assicurazione obbligatoria delle cure medico-sanitarie</td><td>Y[^annex1-lvlu1-lvl2-2]</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>5.10</td><td>Autorizzazione a dispensare direttamente medicamenti</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>5.11</td><td>Osservazioni relative alla dispensazione diretta di medicamenti</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>5.12</td><td>Portata dell’autorizzazione per l’utilizzazione di sostanze stupefacenti</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>5.13</td><td>Eventuali osservazioni in merito alla portata dell’autorizzazione per l’utilizzazione di sostanze stupefacenti</td><td>X</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>6</td><td colspan="14">Dati personali degni di particolare protezione:</td></tr>
+<tr><td>6.1</td><td>Presenza di dati personali degni di particolare protezione di cui all’art. 7 cpv. 6 (sì/no)</td><td>X</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td></tr>
+<tr><td>6.2</td><td>Menzione «cancellato» di cui all’art. 54 cpv. 3 LPMed e la data della menzione</td><td>X</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td></tr>
+<tr><td>6.3</td><td>Restrizioni soppresse con la data della soppressione</td><td>X</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>6.4</td><td>Motivi del rifiuto dell’autorizzazione o della sua revoca</td><td>X</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>6.5</td><td>Avvertimento con il motivo e la data della decisione</td><td>X</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>6.6</td><td>Ammonimento con il motivo e la data della decisione</td><td>X</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>6.7</td><td>Multa con il motivo, la data della decisione e l’importo della multa</td><td>X</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>6.8</td><td>Divieto temporaneo all’esercizio della professione sotto la propria responsabilità professionale, con il motivo e la data della decisione nonché l’inizio e la fine del divieto</td><td>X</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>6.9</td><td>Divieto definitivo all’esercizio della professione sotto la propria responsabilità professionale, con il motivo e la data della decisione</td><td>X</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>6.10</td><td>Misure disciplinari di cui all’art. 52 cpv. 1 lett. b LPMed fondate sul diritto cantonale con il motivo e la data della decisione</td><td>X</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td>S</td><td></td><td></td></tr>
 </table>
 
 [^annex1-lvlu1-lvl2-1]: Questa informazione riguarda tutte le persone che esercitano una professione medica secondo la LPMed, ad eccezione dei veterinari.
@@ -513,7 +513,7 @@ Allegato 2
 
 (art. 5 cpv. 2)
 
-## Qualifiche di perfezionamento di diritto privato secondo l’ordinanza del 29 settembre 1995**** sulle prestazioni
+## Qualifiche di perfezionamento di diritto privato secondo l’ordinanza del 29 settembre 1995 sulle prestazioni
 
 [^annex2-lvlu1-1]
 

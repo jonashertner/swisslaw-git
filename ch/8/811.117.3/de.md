@@ -3,11 +3,11 @@ sr: "811.117.3"
 title: Verordnung vom 5. April 2017 über das Register der universitären Medizinalberufe (Registerverordnung MedBG)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/279"
 language: de
-version: 2021-11-01
+version: 2022-01-01
 adopted: 2017-04-05
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/279/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2017-279-20211101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/279/20211101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/279/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-279-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/279/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/279/20211101/de"
 
 (Registerverordnung MedBG)
 
-vom 5. April 2017 (Stand am 1. November 2021)
+vom 5. April 2017 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -69,20 +69,20 @@ Die Medizinalberufekommission (MEBEKO) trägt folgende Daten zu den Medizinalper
 - c. Korrespondenzsprache;
 - d. vorhandene Sprachkenntnisse;
 - e.[^3-1] Nationalitäten;
-- f. Versichertennummer nach Artikel 50*e* Absatz 1 des Bundesgesetzes vom 20. Dezember 1946[^3-2] über die Alters- und Hinterlassenenversicherung;
+- f. AHV-Nummer[^3-2];
 - g. eidgenössische Diplome mit Ausstellungsdatum und Ort der Diplomerteilung;
 - h. anerkannte ausländische Diplome nach Artikel 15 Absatz 1 MedBG und anerkannte ausländische Weiterbildungstitel nach Artikel 21 Absatz 1 MedBG mit Ausstellungsdatum, Ort und Land der Erteilung sowie Datum der Anerkennung durch die MEBEKO;
 - i. Gleichwertigkeitsbescheinigungen für Diplome und Weiterbildungstitel nach Artikel 36 Absatz 3 MedBG mit Ausstellungsdatum, Ort und Land der Erteilung sowie Datum der Gleichwertigkeitsbescheinigung durch die MEBEKO;
 - j. nachgeprüfte ausländische Diplome und Weiterbildungstitel nach Artikel 35 Absatz 1 MedBG mit Ausstellungsdatum, Ort und Land der Erteilung sowie Datum der Nachprüfung;
 - k. Diplome nach Artikel 33*a* Absatz 2 Buchstabe a MedBG mit Ausstellungsdatum, Ort und Land der Diplomerteilung sowie Datum des Register-eintrags;
-- l. Personen-Identifikationsnummer (GLN[^3-3]).
+- l. Personen-Identifikationsnummer (GLN)[^3-3].
 
-<sup>2</sup> ...[^3-4]
+<sup>2</sup> …[^3-4]
 
-[^3-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
-[^3-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Februar 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^3-2]: Ausdruck gemäss Anhang Ziff. II 29 der V vom 17. Nov. 2021, in Kraft seit 1. Januar 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 [^3-3]: GLN steht für Global Location Number
-[^3-4]: Eingefügt durch Ziff. I 3 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^3-4]: Eingefügt durch Ziff. I 3 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Oktober 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 4
 
@@ -168,7 +168,7 @@ Sie können zudem folgende Angaben eintragen:
 - d. die Angabe, ob eine Medizinalperson der Humanmedizin, der Zahnmedizin, der Pharmazie oder der Chiropraktik zur Abrechnung von Leistungen zulasten der obligatorischen Krankenpflegeversicherung berechtigt ist oder nicht;
 - e. Bemerkungen zur Selbstdispensation nach Absatz 1 Buchstabe g.
 
-<sup>3</sup> ..[^7-4]
+<sup>3</sup> …[^7-4]
 
 <sup>4</sup>
 
@@ -196,12 +196,12 @@ Sie melden dem BAG ohne Verzug folgende besonders schützenswerte Personendaten:
 
 <sup>7</sup> Sie melden dem BAG ohne Verzug das Todesdatum einer Medizinalperson.
 
-[^7-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^7-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Februar 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
 [^7-2]: [SR 812.121.1](https://fedlex.data.admin.ch/eli/cc/2011/362)
-[^7-3]: Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
-[^7-4]: Aufgehoben durch Ziff. I der V vom 13. Dez. 2019, mit Wirkung seit 1. Febr. 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
-[^7-5]: Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
-[^7-6]: Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^7-3]: Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Februar 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^7-4]: Aufgehoben durch Ziff. I der V vom 13. Dez. 2019, mit Wirkung seit 1. Februar 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^7-5]: Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Februar 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^7-6]: Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Februar 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
 
 #### Art. 8
 
@@ -244,7 +244,7 @@ Das BAG ermöglicht den folgenden Nutzerinnen und Nutzern den Zugang zu den öff
 
 <sup>4</sup> Das BAG veröffentlicht im Internet eine Liste der Stellen nach Absatz 1 Buchstabe b, denen der Zugang über die Standardschnittstelle gewährt wurde.
 
-[^11-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^11-1]: Fassung gemäss Ziff. I der V vom 13. Dezember 2019, in Kraft seit 1. Februar 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
 
 #### Art. 12
 
@@ -259,7 +259,7 @@ Das BAG stellt den folgenden Stellen die öffentlich zugänglichen Daten aus dem
 
 <sup>2</sup> Es stellt dem BFS die Daten jährlich zur Verfügung, den Stellen nach Absatz 1 Buchstabe b hingegen nur auf schriftlichen Antrag.
 
-[^12-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^12-1]: Fassung gemäss Ziff. I der V vom 13. Dezember 2019, in Kraft seit 1. Februar 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
 
 #### Art. 13
 
@@ -335,9 +335,9 @@ Von den Nutzerinnen und Nutzern der Standardschnittstelle nach Artikel 11 Absatz
 
 <sup>3</sup> Im Übrigen gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^18-4].
 
-[^18-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
-[^18-2]: Eingefügt durch Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
-[^18-3]: Eingefügt durch Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^18-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Februar 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^18-2]: Eingefügt durch Ziff. I der V vom 13. Dezember 2019, in Kraft seit 1. Februar 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^18-3]: Eingefügt durch Ziff. I der V vom 13. Dezember 2019, in Kraft seit 1. Februar 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
 [^18-4]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 ## 5. Abschnitt: Datensicherheit
@@ -354,13 +354,13 @@ Alle am Medizinalberuferegister beteiligten Stellen treffen die organisatorische
 
 Die Registerverordnung MedBG vom 15. Oktober 2008[^20-1] wird aufgehoben.
 
-[^20-1]: [[AS 2008 4743](https://fedlex.data.admin.ch/eli/oc/2008/668), [2014 4657](https://fedlex.data.admin.ch/eli/oc/2014/779)]
+[^20-1]: [[AS 2008 4743](https://fedlex.data.admin.ch/eli/oc/2008/668); [2014 4657](https://fedlex.data.admin.ch/eli/oc/2014/779)]
 
 #### Art. 21
 
 [^21-1]
 
-[^21-1]: Aufgehoben durch Ziff. I der V vom 13. Dez. 2019, mit Wirkung seit 1. Febr. 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^21-1]: Aufgehoben durch Ziff. I der V vom 13. Dezember 2019, mit Wirkung seit 1. Februar 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
 
 #### Art. 22
 
@@ -368,15 +368,15 @@ Die Registerverordnung MedBG vom 15. Oktober 2008[^20-1] wird aufgehoben.
 
 Diese Verordnung tritt am 1. Januar 2018 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 3–8, 10–16)
 
 ## Datenlieferung, -bearbeitung und -nutzung: Rechte und Pflichten
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 13. Dezember 2019, in Kraft seit 1. Februar 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
 
-### 1 Inhalt und Zugriff:
+### 1 Inhalt und Zugriff
 
 A Eintragen, ändern, löschen, lesen (die mit \* gekennzeichneten Datenfelder werden aus techn. Gründen auch vom BAG eingetragen)
 
@@ -396,7 +396,7 @@ X Obligatorischer Inhalt
 
 Y Fakultativer Inhalt
 
-### 2 Datenlieferantinnen und -lieferanten:
+### 2 Datenlieferantinnen und -lieferanten
 
 MEBEKO Medizinalberufekommission
 
@@ -419,91 +419,91 @@ BLV Bundesamt für Lebensmittelsicherheit und Veterinärwesen
 Kantone Die für die Erteilung der Berufsausübungsbewilligung und die Aufsicht zuständigen Behörden
 
 <table>
-<tr><th></th><th>Datenfelder Medizinalberuferegister</th><th colspan="3">Inhalt und Zugriff</th><th></th><th></th><th colspan="8">Verantwortlicher Datenlieferant</th><th></th><th></th><th colspan="2"></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th>Inhalt</th><th>Öffentlich zugänglich via Abrufverfahren (Internet)</th><th colspan="3">Öffentlich zugängliche Daten (auf Anfrage)</th><th>MEBEKO</th><th>BAG</th><th>FMH/SIWF</th><th>pharmaSuisse</th><th>SSO</th><th>ChiroSuisse</th><th>GST</th><th colspan="4">Kantone</th><th colspan="4">BFS</th><th colspan="4">BLV</th></tr>
-<tr><td>1</td><td colspan="25">Personenstammdaten:</td></tr>
-<tr><td>1.1</td><td>Personen-Identifikationsnummer (GLN)</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>1.2</td><td>Unternehmensidentifikationsnummer (UID) für Einzelunternehmen</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">B</td><td colspan="4">A</td><td colspan="4">B</td></tr>
-<tr><td>1.3</td><td>Vornamen, Name</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">B</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>1.4</td><td>Frühere Namen</td><td>X</td><td></td><td colspan="3">O</td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">B</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>1.5</td><td>Geburtsdatum</td><td>X</td><td></td><td colspan="3">O</td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">B</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>1.5<sup>bis</sup></td><td>Jahrgang</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">B</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>1.6</td><td>Geschlecht</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">B</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>1.7</td><td>Korrespondenzsprache</td><td>X</td><td></td><td colspan="3">O</td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">B</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>1.8</td><td>Sprachkenntnisse</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">B</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>1.9</td><td>...</td><td></td><td></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>1.10</td><td>Nationalitäten</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">B</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>1.11</td><td>Versichertennummer der AHV</td><td>X</td><td></td><td colspan="3"></td><td>A</td><td>A\*</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">B</td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>1.12</td><td>Todesdatum</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">B</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>2</td><td colspan="25">Daten zu den Diplomen:</td></tr>
-<tr><td>2.1</td><td>Eidgenössische Diplome mit Ausstellungsdatum des Diploms</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>2.2</td><td>Anerkannte ausländische Diplome mit Ausstellungsdatum des Diploms sowie Datum der Anerkennung durch die Schweiz</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>2.3</td><td>Gleichwertigkeitsbescheinigungen für Diplome nach Art. 36 Abs. 3 MedBG mit Ausstellungsdatum des Diploms sowie Datum der Gleichwertigkeitsbescheinigung durch die Schweiz</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>2.4</td><td>Nachgeprüfte ausländische Diplome nach Art. 35 Abs. 1 MedBG mit Ausstellungsdatum sowie Datum der Nachprüfung</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>2.5</td><td>Diplome nach Art. 33*a* Abs. 2 Bst. a MedBG mit Ausstellungsdatum und Datum des Registereintrags</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>2.6</td><td>Ort der Diplomerteilung</td><td>X</td><td></td><td colspan="3">O</td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>2.7</td><td>Land der Diplomerteilung</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>3</td><td colspan="25">Daten zur Weiterbildung:</td></tr>
-<tr><td>3.1</td><td>Eidgenössischer Weiterbildungstitel mit Ausstellungsdatum</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>3.2</td><td>Anerkannter ausländischer Weiterbildungstitel nach Art. 21 Abs. 1 MedBG mit Ausstellungsdatum sowie Datum der Anerkennung durch die Schweiz</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>3.3</td><td>Gleichwertigkeitsbescheinigung für Weiterbildungstitel nach Art. 36 Abs. 3 MedBG mit Ausstellungsdatum sowie Datum der Gleichwertigkeitsbescheinigung durch die Schweiz</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>3.4</td><td>Nachgeprüfte ausländische Weiterbildungstitel nach Art. 35 Abs. 1 MedBG mit Ausstellungsdatum sowie Datum der Nachprüfung</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>3.5</td><td>Ort der Erteilung des Weiterbildungstitels</td><td>X</td><td></td><td colspan="3">O</td><td>A</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>3.6</td><td>Land der Erteilung des Weiterbildungstitels</td><td>X</td><td>I</td><td colspan="3"></td><td>A</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>3.7</td><td>Fähigkeitszeugnisse «amtlicher Tierarzt/amtliche Tierärztin», «leitender amtlicher Tierarzt/leitende amtliche Tierärztin» sowie Fertigkeitszeugnis «fachtechnisch verantwortliche Tierärztin/fachtechnisch verantwortlicher Tierarzt» mit Datum der Erteilung</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">A</td></tr>
-<tr><td>3.8</td><td>Privatrechtliche Fähigkeitsausweise nach Anhang 2, Datum der Erteilung</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>A</td><td>C</td><td>C</td><td>C</td><td>C</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>3.9</td><td>Privatrechtliche Weiterbildungstitel oder ‑ausweise nach Weiterbildungsordnung mit Datum der Erteilung</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>3.10</td><td>Privatrechtliche Schwerpunkte nach Weiterbildungsordnung mit Datum der Erteilung</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>3.11</td><td>Privatrechtliche Fähigkeitsausweise nach Weiterbildungsordnung mit Datum der Erteilung</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>A</td><td>A</td><td>A</td><td>C</td><td>A</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>3.12</td><td>Privatrechtliche Fertigkeitsausweise nach Weiterbildungsordnung mit Datum der Erteilung</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>A</td><td>A</td><td>C</td><td>C</td><td>A</td><td colspan="4">B</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>4</td><td colspan="25">Daten zur Berufsausübungsbewilligung:</td></tr>
-<tr><td>4.1</td><td>Bewilligungskanton</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>4.2</td><td>Rechtsgrundlage der Berufsausübungsbewilligung</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>4.3</td><td>Status der Berufsausübungsbewilligung (erteilt, keine Bewilligung), mit Datum des Entscheids</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>4.4</td><td>Angabe, ob Medizinalperson ihren Beruf aktiv ausübt oder nicht, mit Datum der Aktivitätsänderung</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>4.5</td><td>Datum einer Befristung der Berufsausübungsbewilligung</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>4.6</td><td>Praxis- oder Betriebsnamen</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>4.7</td><td>Angabe, ob es sich um ein Einzelunternehmen handelt oder nicht</td><td>X</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>4.8</td><td>Rechtsform der juristischen Person</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>4.9</td><td>UID der juristischen Person</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>4.10</td><td>Praxis- oder Betriebsadressen (Strasse, PLZ, Ort)</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>4.11</td><td>Praxis- oder Betriebstelefonnummern</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>4.12</td><td>E-Mail-Adressen</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>4.13</td><td>Berechtigung zur Abrechnung von Leistungen zulasten der obligatorischen Krankenpflegeversicherung</td><td>Y[^annex1-lvlu1-lvl2-1]</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>4.14</td><td>Berechtigung zur Selbstdispensation von Arzneimitteln</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>4.15</td><td>Bemerkungen zur Selbstdispensation von Arzneimitteln</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>4.16</td><td>Umfang der Berechtigung über den Verkehr mit den Betäubungsmitteln</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>4.17</td><td>Allfällige Bemerkungen zum Umfang der Berechtigung über den Verkehr mit den Betäubungsmitteln</td><td>X</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>4.18</td><td>Fachliche, zeitliche oder räumliche Einschränkungen mit Datum des Entscheids und Angabe einer allfälligen Befristung</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>4.19</td><td>Beschreibung der Einschränkungen</td><td>X</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>4.20</td><td>Auflagen mit Datum des Entscheids und Angabe einer allfälligen Befristung</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>4.21</td><td>Beschreibung der Auflagen</td><td>X</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>4.22</td><td>Verweigerung oder Entzug der Bewilligung mit Entscheiddatum</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">C</td></tr>
-<tr><td>5</td><td colspan="25">Daten zu den 90-Tage-Dienstleistungserbringerinnen und -erbringern:</td></tr>
-<tr><td>5.1</td><td>Meldungen von Dienstleistungserbringerinnen und -erbringern nach Art. 35 MedBG</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>5.2</td><td>Datum der Meldung</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>5.3</td><td>Start- und Enddatum der Dienstleistung</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>5.4</td><td>Tatsache, dass eine Dienstleistungserbringerin/ein Dienstleistungserbringer die 90 Tage im Kalenderjahr ausgeschöpft hat</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>5.5</td><td>Praxis- bzw. Betriebsnamen</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>5.6</td><td>Praxis- oder Betriebsadressen (Strasse, PLZ, Ort)</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>5.7</td><td>Praxis- oder Betriebstelefon- und Faxnummern</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>5.8</td><td>E-Mail-Adressen</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>5.9</td><td>Berechtigung zur Abrechnung von Leistungen zulasten der obligatorischen Krankenpflegeversicherung</td><td>Y[^annex1-lvlu1-lvl2-2]</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>5.10</td><td>Berechtigung zur Selbstdispensation von Arzneimitteln</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>5.11</td><td>Bemerkungen zur Selbstdispensation von Arzneimitteln</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">B</td><td colspan="4">B</td></tr>
-<tr><td>5.12</td><td>Umfang der Berechtigung über den Verkehr mit den Betäubungsmitteln</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>5.13</td><td>Allfällige Bemerkungen zum Umfang der Berechtigung über den Verkehr mit den Betäubungsmitteln</td><td>X</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="4">A</td><td colspan="4">C</td><td colspan="4">B</td></tr>
-<tr><td>6</td><td colspan="25">Besonders schützenswerte Personendaten:</td></tr>
-<tr><td>6.1</td><td>Vorhandensein besonders schützenswerter Personendaten nach Art. 7 Abs. 6 (ja/nein)</td><td>X</td><td></td><td colspan="3"></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">B</td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>6.2</td><td>Vermerk «gelöscht» nach Art. 54 Abs. 3 MedBG sowie Datum des Vermerks</td><td>X</td><td></td><td colspan="3"></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">B</td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>6.3</td><td>Aufgehobene Einschränkungen mit Datum der Aufhebung</td><td>X</td><td></td><td colspan="3"></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">S</td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>6.4</td><td>Gründe für die Verweigerung der Bewilligung oder deren Entzug</td><td>X</td><td></td><td colspan="3"></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">S</td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>6.5</td><td>Verwarnung mit Grund und Datum des Entscheids</td><td>X</td><td></td><td colspan="3"></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">S</td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>6.6</td><td>Verweis mit Grund und Datum des Entscheids</td><td>X</td><td></td><td colspan="3"></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">S</td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>6.7</td><td>Busse mit Grund und Datum des Entscheids sowie Höhe der Busse</td><td>X</td><td></td><td colspan="3"></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">S</td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>6.8</td><td>Befristetes Verbot der Berufsausübung in eigener fachlicher Verantwortung mit Grund und Datum des Entscheids sowie von Beginn und Ende des Verbots</td><td>X</td><td></td><td colspan="3"></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">S</td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>6.9</td><td>Definitives Verbot der Berufsausübung in eigener fachlicher Verantwortung mit Grund und Datum des Entscheids</td><td>X</td><td></td><td colspan="3"></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">S</td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>6.10</td><td>Disziplinarmassnahmen nach Art. 52 Abs. 1 Bst. b MedBG gestützt auf kantonales Recht mit Grund und Datum des Entscheids</td><td>X</td><td></td><td colspan="3"></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">S</td><td colspan="4"></td><td colspan="4"></td></tr>
+<tr><th></th><th>Datenfelder Medizinalberuferegister</th><th colspan="3">Inhalt und Zugriff</th><th colspan="10">Verantwortlicher Datenlieferant</th></tr>
+<tr><th></th><th></th><th>Inhalt</th><th>Öffentlich zugänglich via Abrufverfahren (Internet)</th><th>Öffentlich zugängliche Daten (auf Anfrage)</th><th>MEBEKO</th><th>BAG</th><th>FMH/SIWF</th><th>pharmaSuisse</th><th>SSO</th><th>ChiroSuisse</th><th>GST</th><th>Kantone</th><th>BFS</th><th>BLV</th></tr>
+<tr><td>1</td><td colspan="14">Personenstammdaten:</td></tr>
+<tr><td>1.1</td><td>Personen-Identifikationsnummer (GLN)</td><td>X</td><td>I</td><td></td><td>A</td><td>A</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>1.2</td><td>Unternehmensidentifikationsnummer (UID) für Einzelunternehmen</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td></tr>
+<tr><td>1.3</td><td>Vornamen, Name</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>1.4</td><td>Frühere Namen</td><td>X</td><td></td><td>O</td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>1.5</td><td>Geburtsdatum</td><td>X</td><td></td><td>O</td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>1.5<sup>bis</sup></td><td>Jahrgang</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>1.6</td><td>Geschlecht</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>1.7</td><td>Korrespondenzsprache</td><td>X</td><td></td><td>O</td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>1.8</td><td>Sprachkenntnisse</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>1.9</td><td>…</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1.10</td><td>Nationalitäten</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>1.11</td><td>AHV-Nummer</td><td>X</td><td></td><td></td><td>A</td><td>A\*</td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td></tr>
+<tr><td>1.12</td><td>Todesdatum</td><td>X</td><td></td><td></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>2</td><td colspan="14">Daten zu den Diplomen:</td></tr>
+<tr><td>2.1</td><td>Eidgenössische Diplome mit Ausstellungsdatum des Diploms</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>2.2</td><td>Anerkannte ausländische Diplome mit Ausstellungsdatum des Diploms sowie Datum der Anerkennung durch die Schweiz</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>2.3</td><td>Gleichwertigkeitsbescheinigungen für Diplome nach Art. 36 Abs. 3 MedBG mit Ausstellungsdatum des Diploms sowie Datum der Gleichwertigkeitsbescheinigung durch die Schweiz</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>2.4</td><td>Nachgeprüfte ausländische Diplome nach Art. 35 Abs. 1 MedBG mit Ausstellungsdatum sowie Datum der Nachprüfung</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>2.5</td><td>Diplome nach Art. 33*a* Abs. 2 Bst. a MedBG mit Ausstellungsdatum und Datum des Registereintrags</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>2.6</td><td>Ort der Diplomerteilung</td><td>X</td><td></td><td>O</td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>2.7</td><td>Land der Diplomerteilung</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>3</td><td colspan="14">Daten zur Weiterbildung:</td></tr>
+<tr><td>3.1</td><td>Eidgenössischer Weiterbildungstitel mit Ausstellungsdatum</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>3.2</td><td>Anerkannter ausländischer Weiterbildungstitel nach Art. 21 Abs. 1 MedBG mit Ausstellungsdatum sowie Datum der Anerkennung durch die Schweiz</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>3.3</td><td>Gleichwertigkeitsbescheinigung für Weiterbildungstitel nach Art. 36 Abs. 3 MedBG mit Ausstellungsdatum sowie Datum der Gleichwertigkeitsbescheinigung durch die Schweiz</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>3.4</td><td>Nachgeprüfte ausländische Weiterbildungstitel nach Art. 35 Abs. 1 MedBG mit Ausstellungsdatum sowie Datum der Nachprüfung</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>3.5</td><td>Ort der Erteilung des Weiterbildungstitels</td><td>X</td><td></td><td>O</td><td>A</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>3.6</td><td>Land der Erteilung des Weiterbildungstitels</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>3.7</td><td>Fähigkeitszeugnisse «amtlicher Tierarzt/amtliche Tierärztin», «leitender amtlicher Tierarzt/leitende amtliche Tierärztin» sowie Fertigkeitszeugnis «fachtechnisch verantwortliche Tierärztin/fachtechnisch verantwortlicher Tierarzt» mit Datum der Erteilung</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>A</td></tr>
+<tr><td>3.8</td><td>Privatrechtliche Fähigkeitsausweise nach Anhang 2, Datum der Erteilung</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>A</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>3.9</td><td>Privatrechtliche Weiterbildungstitel oder ‑ausweise nach Weiterbildungsordnung mit Datum der Erteilung</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>3.10</td><td>Privatrechtliche Schwerpunkte nach Weiterbildungsordnung mit Datum der Erteilung</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>3.11</td><td>Privatrechtliche Fähigkeitsausweise nach Weiterbildungsordnung mit Datum der Erteilung</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>A</td><td>A</td><td>A</td><td>C</td><td>A</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>3.12</td><td>Privatrechtliche Fertigkeitsausweise nach Weiterbildungsordnung mit Datum der Erteilung</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>A</td><td>A</td><td>C</td><td>C</td><td>A</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>4</td><td colspan="14">Daten zur Berufsausübungsbewilligung:</td></tr>
+<tr><td>4.1</td><td>Bewilligungskanton</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>4.2</td><td>Rechtsgrundlage der Berufsausübungsbewilligung</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>4.3</td><td>Status der Berufsausübungsbewilligung (erteilt, keine Bewilligung), mit Datum des Entscheids</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>4.4</td><td>Angabe, ob Medizinalperson ihren Beruf aktiv ausübt oder nicht, mit Datum der Aktivitätsänderung</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>4.5</td><td>Datum einer Befristung der Berufsausübungsbewilligung</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>4.6</td><td>Praxis- oder Betriebsnamen</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>4.7</td><td>Angabe, ob es sich um ein Einzelunternehmen handelt oder nicht</td><td>X</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>4.8</td><td>Rechtsform der juristischen Person</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>4.9</td><td>UID der juristischen Person</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>4.10</td><td>Praxis- oder Betriebsadressen (Strasse, PLZ, Ort)</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>4.11</td><td>Praxis- oder Betriebstelefonnummern</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>4.12</td><td>E-Mail-Adressen</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>4.13</td><td>Berechtigung zur Abrechnung von Leistungen zulasten der obligatorischen Krankenpflegeversicherung</td><td>Y[^annex1-lvlu1-lvl2-1]</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>4.14</td><td>Berechtigung zur Selbstdispensation von Arzneimitteln</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>4.15</td><td>Bemerkungen zur Selbstdispensation von Arzneimitteln</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>4.16</td><td>Umfang der Berechtigung über den Verkehr mit den Betäubungsmitteln</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>4.17</td><td>Allfällige Bemerkungen zum Umfang der Berechtigung über den Verkehr mit den Betäubungsmitteln</td><td>X</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>4.18</td><td>Fachliche, zeitliche oder räumliche Einschränkungen mit Datum des Entscheids und Angabe einer allfälligen Befristung</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>C</td></tr>
+<tr><td>4.19</td><td>Beschreibung der Einschränkungen</td><td>X</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>C</td></tr>
+<tr><td>4.20</td><td>Auflagen mit Datum des Entscheids und Angabe einer allfälligen Befristung</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>C</td></tr>
+<tr><td>4.21</td><td>Beschreibung der Auflagen</td><td>X</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>C</td></tr>
+<tr><td>4.22</td><td>Verweigerung oder Entzug der Bewilligung mit Entscheiddatum</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>C</td></tr>
+<tr><td>5</td><td colspan="14">Daten zu den 90-Tage-Dienstleistungserbringerinnen und -erbringern:</td></tr>
+<tr><td>5.1</td><td>Meldungen von Dienstleistungserbringerinnen und -erbringern nach Art. 35 MedBG</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>5.2</td><td>Datum der Meldung</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>5.3</td><td>Start- und Enddatum der Dienstleistung</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>5.4</td><td>Tatsache, dass eine Dienstleistungserbringerin/ein Dienstleistungserbringer die 90 Tage im Kalenderjahr ausgeschöpft hat</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>5.5</td><td>Praxis- bzw. Betriebsnamen</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>5.6</td><td>Praxis- oder Betriebsadressen (Strasse, PLZ, Ort)</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>5.7</td><td>Praxis- oder Betriebstelefon- und Faxnummern</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>5.8</td><td>E-Mail-Adressen</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>5.9</td><td>Berechtigung zur Abrechnung von Leistungen zulasten der obligatorischen Krankenpflegeversicherung</td><td>Y[^annex1-lvlu1-lvl2-2]</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>5.10</td><td>Berechtigung zur Selbstdispensation von Arzneimitteln</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>5.11</td><td>Bemerkungen zur Selbstdispensation von Arzneimitteln</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>5.12</td><td>Umfang der Berechtigung über den Verkehr mit den Betäubungsmitteln</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>5.13</td><td>Allfällige Bemerkungen zum Umfang der Berechtigung über den Verkehr mit den Betäubungsmitteln</td><td>X</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
+<tr><td>6</td><td colspan="14">Besonders schützenswerte Personendaten:</td></tr>
+<tr><td>6.1</td><td>Vorhandensein besonders schützenswerter Personendaten nach Art. 7 Abs. 6 (ja/nein)</td><td>X</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td></tr>
+<tr><td>6.2</td><td>Vermerk «gelöscht» nach Art. 54 Abs. 3 MedBG sowie Datum des Vermerks</td><td>X</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td></tr>
+<tr><td>6.3</td><td>Aufgehobene Einschränkungen mit Datum der Aufhebung</td><td>X</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>6.4</td><td>Gründe für die Verweigerung der Bewilligung oder deren Entzug</td><td>X</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>6.5</td><td>Verwarnung mit Grund und Datum des Entscheids</td><td>X</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>6.6</td><td>Verweis mit Grund und Datum des Entscheids</td><td>X</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>6.7</td><td>Busse mit Grund und Datum des Entscheids sowie Höhe der Busse</td><td>X</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>6.8</td><td>Befristetes Verbot der Berufsausübung in eigener fachlicher Verantwortung mit Grund und Datum des Entscheids sowie von Beginn und Ende des Verbots</td><td>X</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>6.9</td><td>Definitives Verbot der Berufsausübung in eigener fachlicher Verantwortung mit Grund und Datum des Entscheids</td><td>X</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>6.10</td><td>Disziplinarmassnahmen nach Art. 52 Abs. 1 Bst. b MedBG gestützt auf kantonales Recht mit Grund und Datum des Entscheids</td><td>X</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td>S</td><td></td><td></td></tr>
 </table>
 
 [^annex1-lvlu1-lvl2-1]: Diese Information betrifft alle Medizinalpersonen nach MedBG ausser die Tierärztinnen und Tierärzte.
@@ -513,7 +513,7 @@ Anhang 2
 
 (Art. 5 Abs. 2)
 
-## Privatrechtliche Weiterbildungsqualifikationen nach der Krankenpflege-Leistungsverordnung vom 29. September 1995****
+## Privatrechtliche Weiterbildungsqualifikationen nach der Krankenpflege-Leistungsverordnung vom 29. September 1995
 
 [^annex2-lvlu1-1]
 
@@ -527,4 +527,4 @@ Folgende privatrechtlichen Fähigkeitsausweise des SIWF in Humanmedizin berechti
 - – Homöopathie (SVHA)
 - – Phytotherapie
 - – Hüftsonographie nach Graf beim Neugeborenen und Säugling (SGUM)
-- – Schwangerschaftsultraschall (SGUM)
+- – Schwangerschaftsultraschall ()

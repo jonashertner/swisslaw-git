@@ -3,11 +3,11 @@ sr: "811.117.3"
 title: Ordonnance du 5 avril 2017 concernant le registre des professions médicales universitaires (Ordonnance concernant le registre LPMéd)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/279"
 language: fr
-version: 2021-11-01
+version: 2022-01-01
 adopted: 2017-04-05
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/279/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-279-20211101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/279/20211101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/279/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-279-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/279/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/279/20211101/fr"
 
 (Ordonnance concernant le registre LPMéd)
 
-du 5 avril 2017 (Etat le 1<sup>er</sup> novembre 2021)
+du 5 avril 2017 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -69,7 +69,7 @@ La Commission des professions médicales (MEBEKO) inscrit dans le registre des p
 - c. langue de correspondance;
 - d. connaissances linguistiques;
 - e.[^3-1] nationalité(s);
-- f. numéro d’assuré visé à l’art. 50*e*, al. 1, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^3-2];
+- f. numéro AVS[^3-2];
 - g. diplôme fédéral, date et lieu d’établissement du diplôme;
 - h. diplôme étranger reconnu visé à l’art. 15, al. 1, LPMéd et titre postgrade étranger reconnu visé à l’art. 21, al. 1, LPMéd, date, lieu et pays d’établissement, date de la reconnaissance par la MEBEKO;
 - i. certificat d’équivalence pour le diplôme et le titre postgrade visés à l’art. 36, al. 3, LPMéd, date, lieu et pays d’établissement, date à laquelle la MEBEKO a délivré le certificat d’équivalence;
@@ -77,12 +77,12 @@ La Commission des professions médicales (MEBEKO) inscrit dans le registre des p
 - k. diplôme visé à l’art. 33*a*, al. 2, let. a, LPMéd, date d’établissement, lieu et pays où le diplôme a été délivré, date d’inscription au registre;
 - l. numéro d’identification de la personne (GLN[^3-3]).
 
-<sup>2</sup> ...[^3-4]
+<sup>2</sup> …[^3-4]
 
-[^3-1]: Nouvelle teneur selon le ch. I de l’O du 13. déc. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
-[^3-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 13 décembre 2019, en vigueur depuis le 1<sup>er</sup> février 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^3-2]: Nouvelle expression selon l’annexe ch. II 29 de l’O du 17 novembre 2021, en vigueur depuis le 1<sup>er</sup> janvier 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 [^3-3]: L’abréviation GLN signifie *Global Location Number*.
-[^3-4]: Introduit par le ch. I 3 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 oct. 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^3-4]: Introduit par le ch. I 3 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 octobre 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 4
 
@@ -168,7 +168,7 @@ Elles peuvent également inscrire les données suivantes dans le registre:
 - d. le droit ou non pour une personne exerçant la profession de médecin, médecin-dentiste, pharmacien ou chiropraticien de facturer des prestations à la charge de l’assurance obligatoire des soins;
 - e. les observations concernant la propharmacie au sens de l’al. 1, let. g.
 
-<sup>3</sup> ...[^7-4]
+<sup>3</sup> …[^7-4]
 
 <sup>4</sup>
 
@@ -196,12 +196,12 @@ Elles déclarent sans retard à l’OFSP les données sensibles suivantes:
 
 <sup>7</sup> Elles déclarent sans retard à l’OFSP la date de décès des personnes exerçant une profession médicale.
 
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du 13. déc. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 13 décembre 2019, en vigueur depuis le 1<sup>er</sup> février 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
 [^7-2]: [RS 812.121.1](https://fedlex.data.admin.ch/eli/cc/2011/362)
-[^7-3]: Nouvelle teneur selon le ch. I de l’O du 13. déc. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
-[^7-4]: Abrogé par le ch. I de l’O du 13. déc. 2019, avec effet au 1<sup>er</sup> fév. 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
-[^7-5]: Nouvelle teneur selon le ch. I de l’O du 13. déc. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
-[^7-6]: Nouvelle teneur selon le ch. I de l’O du 13. déc. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^7-3]: Nouvelle teneur selon le ch. I de l’O du 13 décembre 2019, en vigueur depuis le 1<sup>er</sup> février 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^7-4]: Abrogé par le ch. I de l’O du 13 décembre 2019, avec effet au 1<sup>er</sup> février 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^7-5]: Nouvelle teneur selon le ch. I de l’O du 13 décembre 2019, en vigueur depuis le 1<sup>er</sup> février 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^7-6]: Nouvelle teneur selon le ch. I de l’O du 13 décembre 2019, en vigueur depuis le 1<sup>er</sup> février 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
 
 #### Art. 8
 
@@ -244,7 +244,7 @@ L’OFSP permet aux utilisateurs suivants d’accéder aux données publiques vi
 
 <sup>4</sup> L’OFSP publie en ligne la liste des services au sens de l’al. 1, let. b, qui ont accès aux données via l’interface standard.
 
-[^11-1]: Nouvelle teneur selon le ch. I de l’O du 13. déc. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 13 décembre 2019, en vigueur depuis le 1<sup>er</sup> février 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
 
 #### Art. 12
 
@@ -258,7 +258,7 @@ L’OFSP communique aux services suivants les données publiques inscrites dans 
 - b. services publics ou privés, sous une forme anonymisée: à des fins de recherche, dans la mesure où le projet de recherche présente un intérêt public et où les données sont nécessaires au projet.
 - [tab] <sup>2</sup> L’OFSP communique chaque année les données à l’OFS, et uniquement sur demande écrite aux services visés à l’al. 1, let. b.
 
-[^12-1]: Nouvelle teneur selon le ch. I de l’O du 13. déc. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 13 décembre 2019, en vigueur depuis le 1<sup>er</sup> février 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
 
 #### Art. 13
 
@@ -270,8 +270,8 @@ L’OFSP communique aux services suivants les données publiques inscrites dans 
 
 <sup>3</sup> L’OFSP communique aux autorités compétentes les données sensibles demandées visées à l’art. 7, al. 6, au moyen d’une liaison sécurisée.
 
-[^13-1]: Le renvoi a été adapté au 1<sup>er</sup> fév. 2020 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^13-2]: Le renvoi a été adapté au 1<sup>er</sup> fév. 2020 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^13-1]: Le renvoi a été adapté au 1<sup>er</sup> février 2020 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^13-2]: Le renvoi a été adapté au 1<sup>er</sup> février 2020 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 #### Art. 14
 
@@ -321,7 +321,7 @@ L’OFSP communique aux services suivants les données publiques inscrites dans 
 
 <sup>1</sup>
 
-Les utilisateurs de l’interface standard visés à l’art. 11, al. 1, let. b, s’acquittent des émoluments suivants, calculés en fonction du temps et des moyens consacrés au traitement de leur demande :
+Les utilisateurs de l’interface standard visés à l’art. 11, al. 1, let. b, s’acquittent des émoluments suivants, calculés en fonction du temps et des moyens consacrés au traitement de leur demande:
 
 - a.[^18-1] un émolument unique de 2000 francs au plus pour le conseil, la programmation de l’interface standard, le certificat et la formation des utilisateurs;
 - b. un émolument annuel de 5000 francs au plus pour l’assistance technique, le renouvellement du certificat, l’extension de la capacité du serveur et le contrôle de la qualité des données.
@@ -334,9 +334,9 @@ Les utilisateurs de l’interface standard visés à l’art. 11, al. 1, let. b,
 
 <sup>3</sup> Pour le reste, l’ordonnance générale du 8 septembre 2004 sur les émoluments[^18-4] est applicable.
 
-[^18-1]: Nouvelle teneur selon le ch. I de l’O du 13. déc. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
-[^18-2]: Introduit par le ch. I de l’O du 13. déc. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
-[^18-3]: Introduit par le ch. I de l’O du 13. déc. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 13 décembre 2019, en vigueur depuis le 1<sup>er</sup> février 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^18-2]: Introduit par le ch. I de l’O du 13 décembre 2019, en vigueur depuis le 1<sup>er</sup> février 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^18-3]: Introduit par le ch. I de l’O du 13 décembre 2019, en vigueur depuis le 1<sup>er</sup> février 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
 [^18-4]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 ## Section 5 Sécurité des données
@@ -359,7 +359,7 @@ L’ordonnance du 15 octobre 2008 concernant le registre LPMéd[^20-1] est abrog
 
 [^21-1]
 
-[^21-1]: Abrogé par le ch. I de l’O du 13. déc. 2019, avec effet au 1<sup>er</sup> fév. 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^21-1]: Abrogé par le ch. I de l’O du 13 décembre 2019, avec effet au 1<sup>er</sup> février 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
 
 #### Art. 22
 
@@ -373,9 +373,9 @@ Annexe 1[^t-1]
 
 ## Fourniture, traitement et utilisation des données: droits et obligations
 
-[^t-1]: Mise à jour selon le ch. II de l’O du 13. déc. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
+[^t-1]: Mise à jour par le ch. II de l’O du 13 décembre 2019, en vigueur depuis le 1<sup>er</sup> février 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
 
-### 1 Contenu et accès:
+### 1 Contenu et accès
 
 A Inscription, modification, radiation, lecture (pour des raisons techniques, les champs marqués d’un astérisque (\*) sont aussi complétés par l’OFSP)
 
@@ -395,7 +395,7 @@ X Contenu obligatoire
 
 Y Contenu facultatif
 
-### 2 Fournisseurs de données:
+### 2 Fournisseurs de données
 
 MEBEKO Commission des professions médicales
 
@@ -430,9 +430,9 @@ Cantons Autorités responsables de l’octroi des autorisations de pratiquer et 
 <tr><td>1.6</td><td>Sexe</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>1.7</td><td>Langue de correspondance</td><td>X</td><td></td><td>O</td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>1.8</td><td>Connaissances linguistiques</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>1.9</td><td>...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1.9</td><td>…</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>1.10</td><td>Nationalité(s)</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>1.11</td><td>Numéro d’assuré AVS</td><td>X</td><td></td><td></td><td>A</td><td>A\*</td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td></tr>
+<tr><td>1.11</td><td>Numéro AVS</td><td>X</td><td></td><td></td><td>A</td><td>A\*</td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td></tr>
 <tr><td>1.12</td><td>Date de décès</td><td>X</td><td></td><td></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>2</td><td colspan="14">Données concernant les diplômes:</td></tr>
 <tr><td>2.1</td><td>Diplôme fédéral, avec date d’établissement</td><td>X</td><td>I</td><td></td><td>A</td><td>A\*</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>B</td><td>C</td><td>C</td></tr>
@@ -494,7 +494,7 @@ Cantons Autorités responsables de l’octroi des autorisations de pratiquer et 
 <tr><td>5.13</td><td>Observations concernant l’étendue de l’autorisation d’utiliser des stupéfiants</td><td>X</td><td></td><td>O</td><td>C</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>C</td><td>B</td></tr>
 <tr><td>6</td><td colspan="14">Données sensibles:</td></tr>
 <tr><td>6.1</td><td>Existence de données sensibles visées à l’art. 7, al. 6 (oui/non)</td><td>X</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td></tr>
-<tr><td>6.2</td><td>Mention « radié » visée à l’art. 54, al. 3, LPMéd, avec date de cette mention</td><td>X</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td></tr>
+<tr><td>6.2</td><td>Mention «radié» visée à l’art. 54, al. 3, LPMéd, avec date de cette mention</td><td>X</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td></tr>
 <tr><td>6.3</td><td>Restrictions levées, avec date d’annulation</td><td>X</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td>S</td><td></td><td></td></tr>
 <tr><td>6.4</td><td>Motifs du refus de l’autorisation de pratiquer ou de son retrait</td><td>X</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td>S</td><td></td><td></td></tr>
 <tr><td>6.5</td><td>Avertissement, avec motif et date de la décision</td><td>X</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td>S</td><td></td><td></td></tr>
@@ -512,7 +512,7 @@ Annexe 2
 
 (art. 5, al. 2)
 
-## Qualifications postgrades de droit privé selon l’ordonnance du 29 septembre 1995 sur les prestations de l’assurance des soins****
+## Qualifications postgrades de droit privé selon l’ordonnance du 29 septembre 1995 sur les prestations de l’assurance des soins
 
 [^annex2-lvlu1-1]
 
