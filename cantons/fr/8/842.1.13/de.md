@@ -4,13 +4,13 @@ number: "842.1.13"
 title: Verordnung über die Verbilligung der Krankenkassenprämien
 short: VKP
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-10-12
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-10-12
 adopted: 2011-11-08
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/842.1.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/6870/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6934/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Krankenversicherung, Prämienverbilligung – V
 
 (VKP)
 
-vom 08.11.2011 (Fassung in Kraft getreten am 01.01.2021)
+vom 08.11.2011 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -57,7 +57,7 @@ beschliesst:
 
 - a) 36'000 Franken für alleinstehende Personen;
 - b) 43'400 Franken für alleinstehende Personen mit einem oder mehreren unterhaltsberechtigten Kindern;
-- c) 59'000 Franken für Ehepaare und eingetragene Partnerschaften.
+- c) 63'000 Franken für Ehepaare und eingetragene Partnerschaften.
 
 <sup>2</sup> Diese Einkommensgrenzen werden um 14'000 Franken je unterhaltsberechtigtes Kind erhöht.
 
@@ -163,6 +163,18 @@ beschliesst:
 <sup>2</sup> Ist der Betrag der Prämienverbilligung höher als die von der versicherten Person geschuldete Nettoprämie der obligatorischen Krankenpflegeversicherung, so muss der Differenzbetrag der AHV-Kasse zurückerstattet werden.
 
 <sup>3</sup> Die AHV-Kasse ist zuständig, die Einzelheiten der Rückzahlungen zu regeln und entsprechend dem Bundesrecht vom Versicherer die persönlichen Angaben der versicherten Personen zu verlangen.
+
+#### Art. 8a
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Versicherte, die in der ehemaligen Gemeinde Clavaleyres Wohnsitz haben, können für die Jahre 2022 und 2023 bei der AHV-Ausgleichskasse des Kantons Freiburg ein Gesuch zur Verbilligung der Krankenkassenprämien einreichen.
+
+<sup>2</sup> Sind die Steuerdaten (Steuerveranlagung oder Quellensteuer) der Kantonalen Steuerverwaltung des Staates Freiburg zum Zeitpunkt der Berechnung des Anspruchs noch nicht verfügbar, so erfolgt die Berechnung auf den Besteuerungsgrundlagen des Kantons Bern.
+
+<sup>3</sup> Für die Berechnung des anrechenbaren Einkommens gelten die Bestimmungen von Artikel 5 Abs. 1, jedoch mit den Zahlen der verfügbaren Veranlagung des Kantons Bern oder des Kantons Freiburg.
+
+<sup>4</sup> Für quellensteuerpflichtige Personen gelten die Bestimmungen von Artikel 5 Abs. 2 unter Berücksichtigung des im Kanton Bern oder im Kanton Freiburg steuerbaren Bruttoeinkommens.
 
 #### Art. 9
 

@@ -4,13 +4,13 @@ number: "842.1.13"
 title: "Ordonnance concernant la réduction des primes d'assurance-maladie"
 short: ORP
 language: fr
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-10-12
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-10-12
 adopted: 2011-11-08
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/842.1.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6870/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6934/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Assurance-maladie, réduction des primes – O
 
 (ORP)
 
-du 08.11.2011 (version entrée en vigueur le 01.01.2021)
+du 08.11.2011 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -57,7 +57,7 @@ Arrête:
 
 - a) 36'000 francs pour les personnes seules sans enfant;
 - b) 43'400 francs pour les personnes seules avec un ou plusieurs enfants à charge;
-- c) 59'000 francs pour les couples mariés et les partenaires enregistrés.
+- c) 63'000 francs pour les couples mariés et les partenaires enregistrés.
 
 <sup>2</sup> A ces montants s'ajoutent 14'000 francs par enfant à charge.
 
@@ -163,6 +163,18 @@ Arrête:
 <sup>2</sup> Lorsque le montant de la réduction des primes est supérieur à la prime nette due par l'assuré-e pour l'assurance obligatoire des soins, la différence doit être restituée à la Caisse AVS.
 
 <sup>3</sup> La Caisse AVS est compétente pour fixer les modalités de remboursement et demander à l'assureur les données personnelles des assuré-e-s conformément au droit fédéral.
+
+#### Art. 8a
+
+**Disposition transitoire**
+
+<sup>1</sup> Les assuré-e-s domiciliés dans l'ancienne commune de Clavaleyres peuvent déposer une demande de réduction des primes auprès de la Caisse AVS du canton de Fribourg pour les années 2022 et 2023.
+
+<sup>2</sup> Le calcul s'établit sur les bases fiscales du canton de Berne, si aucun élément fiscal (taxation fiscale ou impôt à la source) du Service cantonal des contributions du canton de Fribourg n'est encore disponible au moment du calcul du droit.
+
+<sup>3</sup> Le calcul du revenu déterminant s'effectue selon les mêmes règles fixées à l'article 5 al. 1, mais avec les chiffres de la taxation disponible du canton de Berne ou Fribourg.
+
+<sup>4</sup> Pour les personnes imposées à la source, les dispositions de l'article 5 al. 2 s'appliquent en prenant en compte le revenu brut soumis à l'impôt du canton de Berne ou de Fribourg.
 
 #### Art. 9
 
