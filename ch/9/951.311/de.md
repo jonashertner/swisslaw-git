@@ -4,11 +4,11 @@ title: "Verordnung vom 22. November 2006 über die kollektiven Kapitalanlagen (K
 short: KKV
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/859"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2006-11-22
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/859/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2006-859-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/859/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2006-859-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20200101/de"
 
 (Kollektivanlagenverordnung, KKV)
 
-vom 22. November 2006 (Stand am 1. Januar 2020)
+vom 22. November 2006 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -50,7 +50,7 @@ Unabhängig von seiner Rechtsform muss ein Investmentclub die folgenden Vorausse
 - c. Die Mitglieder werden regelmässig über den Stand der Anlagen informiert.
 - d. Die Zahl der Mitglieder darf 20 nicht überschreiten.
 
-[^1a-1]: Ursprünglich Art. 1
+[^1a-1]: Ursprünglich Art. 1.
 
 #### Art. 1b
 
@@ -433,7 +433,7 @@ Die Anlegerinnen und Anleger sind:
 - a. auf die Möglichkeit einer Änderung vorgängig aufmerksam zu machen;
 - b. über nachträgliche Änderungen in den Publikationsorganen zu informieren.
 
-### 2. Abschnitt: ...****
+### 2. Abschnitt: ...
 
 [^tit1-chap3-sec2-1]
 
@@ -584,7 +584,7 @@ Bei der Berechnung der eigenen Mittel sind abzuziehen:
 
 [^30a-1]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Aufgehoben durch Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
-### 4. Kapitel: Wahrung der Anlegerinteressen****
+### 4. Kapitel: Wahrung der Anlegerinteressen
 
 [^tit1-chap4-1]
 
@@ -661,7 +661,7 @@ Nach Abschluss der Transaktion erstellt die Fondsleitung oder die SICAV einen Be
 
 - a. Angaben zu den einzelnen übernommenen oder übertragenen Immobilienwerten und deren Wert am Stichtag der Übernahme oder Abtretung;
 - b. die Schätzberichte der ständigen Schätzungsexperten;
-- c. den Bericht über die Marktkonformität des Kaufs- oder Verkaufspreises der Schätzungsexperten nach Absatz 1 Buchstabe c .
+- c. den Bericht über die Marktkonformität des Kaufs- oder Verkaufspreises der Schätzungsexperten nach Absatz 1 Buchstabe c.
 
 <sup>3</sup> Die Prüfgesellschaft bestätigt im Rahmen ihrer Prüfung der Fondsleitung oder der SICAV die Einhaltung der besonderen Treuepflicht bei Immobilienanlagen;
 
@@ -1597,7 +1597,7 @@ Als weitere Anlagen sind zulässig:
 
 - a. Schuldbriefe oder andere vertragliche Grundpfandrechte;
 - b. Beteiligungen an und Forderungen gegen Immobiliengesellschaften nach Artikel 59 Absatz 1 Buchstabe b des Gesetzes;
-- c. Anteile an anderen Immobilienfonds (einschliesslich *Real Estate Inves**t**ment Trusts*) sowie Immobilieninvestmentgesellschaften und -zertifikate, die an einer Börse oder an einem anderen geregelten, dem Publikum offen stehenden Markt gehandelt werden, gemäss Artikel 59 Absatz 1 Buchstabe c des Gesetzes;
+- c. Anteile an anderen Immobilienfonds (einschliesslich *Real Estate Investment Trusts*) sowie Immobilieninvestmentgesellschaften und -zertifikate, die an einer Börse oder an einem anderen geregelten, dem Publikum offen stehenden Markt gehandelt werden, gemäss Artikel 59 Absatz 1 Buchstabe c des Gesetzes;
 - d. ausländische Immobilienwerte gemäss Artikel 59 Absatz 1 Buchstabe d des Gesetzes.
 
 <sup>4</sup> Unbebaute Grundstücke eines Immobilienfonds müssen erschlossen und für eine umgehende Überbauung geeignet sein sowie über eine rechtskräftige Baubewilligung für deren Überbauung verfügen. Mit der Ausführung der Bauarbeiten muss vor Ablauf der Gültigkeitsdauer der jeweiligen Baubewilligung begonnen werden können.[^86-4]
@@ -1783,7 +1783,7 @@ Bei einer Veräusserung kann auf eine neue Schätzung verzichtet werden, wenn:
 
 <sup>1bis</sup>
 
-Zur Wahrung der Liquidität kann die Belastung vorübergehend und ausnahmsweie auf die Hälfte des Verkehrswertes erhöht werden, sofern:
+Zur Wahrung der Liquidität kann die Belastung vorübergehend und ausnahmsweise auf die Hälfte des Verkehrswertes erhöht werden, sofern:
 
 - a. das Fondsreglement dies vorsieht; und
 - b. die Interessen der Anlegerinnen und Anleger gewahrt bleiben.[^96-2]
@@ -2002,7 +2002,7 @@ Die Depotbank hat folgende Aufgaben:
 
 [^107b107e-1]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Aufgehoben durch Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
-### 3. Abschnitt: Stellung der Anlegerinnen und Anleger****
+### 3. Abschnitt: Stellung der Anlegerinnen und Anleger
 
 [^tit2-chap4-sec3-1]
 
@@ -2575,13 +2575,13 @@ In den Publikationen und in der Werbung sind anzugeben:
 [^133-6]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^133-7]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
-## 5. Titel: Prüfung und Aufsicht****
+## 5. Titel: Prüfung und Aufsicht
 
 [^tit5-1]
 
 [^tit5-1]: Fassung gemäss Anhang Ziff. 3 der Finanzmarktprüfverordnung vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 
-### 1. Kapitel: Prüfung****
+### 1. Kapitel: Prüfung
 
 [^tit5-chap1-1]
 
@@ -2648,7 +2648,7 @@ Sie stellt den Prüfbericht nach Absatz 1 folgenden Adressatinnen zu:
 
 [^138140-1]: Aufgehoben durch Anhang Ziff. 6 der Finanzmarktprüfverordnung vom 15. Okt. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 
-### 2. Kapitel: Aufsicht****
+### 2. Kapitel: Aufsicht
 
 [^tit5-chap2-1]
 
@@ -2699,22 +2699,25 @@ Die FINMA kann insbesondere für die folgenden Dokumente regeln, in welcher Form
 
 ### (Art. 95 Abs. 4 Bst. b FIDLEG)
 
-<sup>1</sup> Für kollektive Kapitalanlagen, die vor dem Inkrafttreten der Änderung vom 6. November 2019 Privatkundinnen und Privatkunden angeboten wurden, können vereinfachte Prospekte sowie wesentliche Informationen für die Anlegerinnen und Anleger während zwei Jahren weiterhin nach den Vorgaben der Anhänge 2 in der Fassung vom 1. März 2013[^144-2] und 3 in der Fassung vom 15. Juli 2011[^144-3] verwendet werden.
+<sup>1</sup> Für kollektive Kapitalanlagen, die vor dem Inkrafttreten der Änderung vom 6. November 2019 Privatkundinnen und Privatkunden angeboten wurden, können vereinfachte Prospekte sowie wesentliche Informationen für die Anlegerinnen und Anleger bis zum 31. Dezember 2022 weiterhin nach den Vorgaben der Anhänge 2 in der Fassung vom 1. März 2013[^144-2] und 3 in der Fassung vom 15. Juli 2011[^144-3] verwendet werden.[^144-4]
 
 <sup>2</sup> Werden wesentliche Informationen für die Anlegerinnen und Anleger nach Anhang 3 in der Fassung vom 15. Juli 2011 verwendet, so sind sie einschliesslich der angemessen überarbeiteten Darstellung der bisherigen Wertentwicklung der kollektiven Kapitalanlage bis zum 31. Dezember von der Fondsleitung und der SICAV innert der ersten 35 Werktage des folgenden Jahres zu veröffentlichen.
 
-<sup>3</sup> Fondsleitungen, SICAV und KmGK müssen der FINMA die angepassten Fondsverträge, Anlagereglemente und Gesellschaftsverträge innert zwei Jahren ab Inkrafttreten der Änderung vom 6. November 2019 zur Genehmigung einreichen. In besonderen Fällen kann die FINMA diese Frist erstrecken.
+<sup>3</sup> Fondsleitungen und SICAV müssen der FINMA die angepassten Fondsverträge und Anlagereglemente innert zwei Jahren ab Inkrafttreten der Änderung vom 6. November 2019 zur Genehmigung einreichen. In besonderen Fällen kann die FINMA diese Frist erstrecken.[^144-5]
 
 <sup>4</sup> Ausnahmen, welche die FINMA von Fall zu Fall Fondsleitungen von Anlagefonds für institutionelle Anleger mit professioneller Tresorerie nach Artikel 2 Absatz 2 der Verordnung über die Anlagefonds (Art. 10 Abs. 5 KAG) gewährt hat, gelten unverändert weiter.
 
-<sup>5</sup> Für strukturierte Produkte, die vor dem Inkrafttreten der Änderung vom 6. November 2019 Privatkundinnen und Privatkunden angeboten wurden, können vereinfachte Prospekte während zwei Jahren weiterhin nach den Vorgaben von Artikel 4 in der Fassung vom 1. März 2013[^144-4] verwendet werden.
+<sup>5</sup> Für strukturierte Produkte, die vor dem Inkrafttreten der Änderung vom 6. November 2019 Privatkundinnen und Privatkunden angeboten wurden, können vereinfachte Prospekte bis zum 31. Dezember 2022 weiterhin nach den Vorgaben von Artikel 4 in der Fassung vom 1. März 2013[^144-6] verwendet werden.[^144-7]
 
 <sup>6</sup> Die Pflicht zur Information der Anlegerinnen und Anleger nach Artikel 6*a* ist beim ersten Kundenkontakt, auf jeden Fall aber innert zwei Jahren nach Inkrafttreten dieser Verordnung zu erfüllen.
 
 [^144-1]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^144-2]: [AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)
 [^144-3]: [AS 2011 3177](https://fedlex.data.admin.ch/eli/oc/2011/401)
-[^144-4]: [AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)
+[^144-4]: Fassung gemäss Ziff. II der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
+[^144-5]: Fassung gemäss Ziff. II der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
+[^144-6]: [AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)
+[^144-7]: Fassung gemäss Ziff. II der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
 
 #### Art. 144a und 144b
 
@@ -2734,7 +2737,7 @@ Die FINMA kann insbesondere für die folgenden Dokumente regeln, in welcher Form
 
 Diese Verordnung tritt am 1. Januar 2007 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 106)
 
@@ -2742,12 +2745,12 @@ Anhang 1*[^t-1]*
 
 [^t-1]: Aufgehoben durch Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 - [tab]
 
 [^t-2]: Aufgehoben durch Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 [^t-3]: Aufgehoben durch Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).

@@ -4,11 +4,11 @@ title: "Ordinanza del 22 novembre 2006 sugli investimenti collettivi di capitale
 short: OICol
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/859"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2006-11-22
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/859/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2006-859-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/859/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2006-859-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20200101/it"
 
 (Ordinanza sugli investimenti collettivi, OICol)
 
-del 22 novembre 2006 (Stato 1° gennaio 2020)
+del 22 novembre 2006 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -436,7 +436,7 @@ Gli investitori devono essere:
 - a. previamente edotti della possibilità di una modifica;
 - b. informati negli organi di pubblicazione in merito alle modifiche successive.
 
-### Sezione 2: ...****
+### Sezione 2: ...
 
 [^tit1-chap3-sec2-1]
 
@@ -587,7 +587,7 @@ Nel calcolo dei mezzi propri vanno dedotti:
 
 [^30a-1]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Abrogato dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
-### Capitolo 4: Tutela degli interessi degli investitori****
+### Capitolo 4: Tutela degli interessi degli investitori
 
 [^tit1-chap4-1]
 
@@ -1664,7 +1664,7 @@ Si applicano le seguenti limitazioni riferite al patrimonio del fondo:
 
 <sup>3</sup> Si considerano mezzi disponibili a breve scadenza la cassa, gli averi postali[^89-1] e bancari a vista e a termine con una scadenza fino a dodici mesi, nonché le linee di credito fisse di una banca fino a un massimo del 10 per cento del patrimonio netto del fondo. Le linee di credito devono essere computate nel limite massimo della costituzione in pegno ammissibile secondo l’articolo 96 capoverso 1.
 
-[^89-1]: Con la trasformazione dell’ente della Posta nella società anonima di diritto speciale con ragione sociale "Posta Svizzera SA" e della Postfinance in una società anonima di diritto privato (DCF del 7 giugno 2013; [FF 2013 3973](https://fedlex.data.admin.ch/eli/fga/2013/866)), dal 26 giugno 2013 il riferimento ai conti postali è divenuto privo d’oggetto.
+[^89-1]: Con la trasformazione dell’ente della Posta nella società anonima di diritto speciale con ragione sociale «Posta Svizzera SA» e della Postfinance in una società anonima di diritto privato (DCF del 7 giugno 2013; [FF 2013 3973](https://fedlex.data.admin.ch/eli/fga/2013/866)), dal 26 giugno 2013 il riferimento ai conti postali è divenuto privo d’oggetto.
 
 #### Art. 90
 
@@ -2005,7 +2005,7 @@ Se trasferisce la custodia del patrimonio del fondo a un depositario terzo o a u
 
 [^107b107e-1]: Introdotti dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Abrogati dall’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
-### Sezione 3: Statuto degli investitori****
+### Sezione 3: Statuto degli investitori
 
 [^tit2-chap4-sec3-1]
 
@@ -2579,13 +2579,13 @@ Nelle pubblicazioni e nella pubblicità devono essere indicati:
 [^133-6]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^133-7]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
-## Titolo 5: Verifica e vigilanza****
+## Titolo 5: Verifica e vigilanza
 
 [^tit5-1]
 
 [^tit5-1]: Nuovo testo giusta l’all. n. 3 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2015 ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 
-### Capitolo 1: Verifica****
+### Capitolo 1: Verifica
 
 [^tit5-chap1-1]
 
@@ -2652,7 +2652,7 @@ Deve presentare il rapporto di audit secondo il capoverso 1 ai seguenti destinat
 
 [^138140-1]: Abrogati dall’all. n. 6 dell’O del 15 ott. 2008 sugli audit dei mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 
-### Capitolo 2: Vigilanza****
+### Capitolo 2: Vigilanza
 
 [^tit5-chap2-1]
 
@@ -2703,22 +2703,25 @@ La FINMA può stabilire la forma per l’invio segnatamente:
 
 ### (art. 95 cpv. 4 lett. b LSerFi)
 
-<sup>1</sup> Per gli investimenti collettivi di capitale offerti a clienti privati prima dell’entrata in vigore della modifica del 6 novembre 2019, i prospetti semplificati e le informazioni chiave per gli investitori si possono continuare a utilizzare per due anni secondo le prescrizioni dell’allegato 2 OICol nella versione del 1° marzo 2013[^144-2] e dell’allegato 3 nella versione del 15 luglio 2011[^144-3].
+<sup>1</sup> Per gli investimenti collettivi di capitale offerti a clienti privati prima dell’entrata in vigore della modifica del 6 novembre 2019, i prospetti semplificati e le informazioni chiave per gli investitori si possono continuare a utilizzare fino al 31 dicembre 2022 secondo le prescrizioni dell’allegato 2 OICol nella versione del 1° marzo 2013[^144-2] e dell’allegato 3 nella versione del 15 luglio 2011[^144-3].[^144-4]
 
 <sup>2</sup> Se sono utilizzate secondo l’allegato 3 nella versione del 15 luglio 2011, le informazioni chiave per gli investitori, inclusa una presentazione adeguatamente elaborata dell’evoluzione dei valori dell’investimento collettivo di capitale fino al 31 dicembre, devono essere pubblicate dalla direzione del fondo e dalla SICAV entro i primi 35 giorni lavorativi dell’anno successivo.
 
-<sup>3</sup> Entro due anni dall’entrata in vigore della modifica del 6 novembre 2019 le direzioni dei fondi, le SICAV e le SAcCol sottopongono per approvazione alla FINMA i testi adattati dei contratti del fondo, dei regolamenti di investimento e dei contratti di società. In casi particolari la FINMA può prorogare questo termine.
+<sup>3</sup> Entro due anni dall’entrata in vigore della modifica del 6 novembre 2019 le direzioni dei fondi e le SICAV sottopongono per approvazione alla FINMA i testi adattati dei contratti del fondo e dei regolamenti di investimento. In casi particolari la FINMA può prorogare questo termine.[^144-5]
 
 <sup>4</sup> Rimangono in vigore in modo immutato le eccezioni accordate di volta in volta dalla FINMA alle direzioni dei fondi per investitori istituzionali con tesoreria gestita a titolo professionale ai sensi dell’articolo 2 capoverso 2 dell’ordinanza sui fondi di investimento (art. 10 cpv. 5 LICol).
 
-<sup>5</sup> Per i prodotti strutturati offerti a clienti privati prima dell’entrata in vigore della modifica del 6 novembre 2019, i prospetti semplificati si possono continuare a utilizzare per due anni secondo le prescrizioni dell’articolo 4 nella versione del 1° marzo 2013[^144-4].
+<sup>5</sup> Per i prodotti strutturati offerti a clienti privati prima dell’entrata in vigore della modifica del 6 novembre 2019, i prospetti semplificati si possono continuare a utilizzare fino al 31 dicembre 2022 secondo le prescrizioni dell’articolo 4 nella versione del 1° marzo 2013[^144-6].[^144-7]
 
 <sup>6</sup> L’obbligo di informare gli investitori secondo l’articolo 6*a* deve essere adempiuto al primo contatto con il cliente, ma in ogni caso entro due anni dall’entrata in vigore della presente ordinanza.
 
 [^144-1]: Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^144-2]: [RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)
 [^144-3]: [RU 2011 3177](https://fedlex.data.admin.ch/eli/oc/2011/401)
-[^144-4]: [RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)
+[^144-4]: Nuovo testo giusta il n. II dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
+[^144-5]: Nuovo testo giusta il n. II dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
+[^144-6]: [RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)
+[^144-7]: Nuovo testo giusta il n. II dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
 
 #### Art. 144a e 144b
 
@@ -2738,14 +2741,14 @@ La FINMA può stabilire la forma per l’invio segnatamente:
 
 La presente ordinanza entra in vigore il 1° gennaio 2007.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 [^t-1]: Abrogata dall’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 [^t-2]: Abrogata dall’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 [^t-3]: Abrogata dall’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).

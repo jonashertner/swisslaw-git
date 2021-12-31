@@ -4,11 +4,11 @@ title: "Ordonnance du 22 novembre 2006 sur les placements collectifs de capitaux
 short: OPCC
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/859"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2006-11-22
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/859/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-859-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/859/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-859-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20200101/fr"
 
 (Ordonnance sur les placements collectifs, OPCC)
 
-du 22 novembre 2006 (Etat le 1<sup>er</sup> janvier 2020)
+du 22 novembre 2006 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -434,7 +434,7 @@ Les investisseurs doivent:
 - a. être préalablement avertis de la possibilité d’une modification;
 - b. être informés dans les organes de publication de toute modification apportée ultérieurement.
 
-### Section 2 ...****
+### Section 2 ...
 
 [^tit1-chap3-sec2-1]
 
@@ -586,7 +586,7 @@ Doivent être déduits lors du calcul des fonds propres:
 
 [^30a-1]: Introduit par le ch. I de l’O du 13 fév. 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).Abrogé par l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
-### Chapitre 4 Protection des intérêts des investisseurs****
+### Chapitre 4 Protection des intérêts des investisseurs
 
 [^tit1-chap4-1]
 
@@ -1582,7 +1582,7 @@ La direction et la SICAV peuvent acquérir pour la fortune du fonds:
 
 <sup>2</sup>
 
-Par immeubles au sens de l’art. 59, al. 1, let. a, de la loi, on entend les immeubles ci-après enregistrés conformément à l’al. 2<sup>bis</sup> au registre foncier selon l’annonce de la direction de fonds, de la SICAV ou de la direction de fonds mandatée par la SICAV:[^86-2]
+Par immeubles au sens de l’art. 59, al. 1, let. a, de la loi, on entend les immeubles ci‑après enregistrés conformément à l’al. 2<sup>bis</sup> au registre foncier selon l’annonce de la direction de fonds, de la SICAV ou de la direction de fonds mandatée par la SICAV:[^86-2]
 
 - a. les maisons d’habitation;
 - b. les immeubles à usage commercial exclusif ou prépondérant; la partie de l’immeuble servant à des fins commerciales est réputée prépondérante lorsque son rendement correspond au moins à 60 % de celui de l’immeuble (immeubles à caractère commercial);
@@ -1591,7 +1591,7 @@ Par immeubles au sens de l’art. 59, al. 1, let. a, de la loi, on entend les im
 - e. les terrains à bâtir (y compris les bâtiments à démolir) et les immeubles en construction;
 - f. les immeubles en droit de superficie.
 
-<sup>2bis</sup> Les immeubles sont enregistrés au registre foncier au nom de la direction ou de la SICAV , avec une mention indiquant qu’ils font partie du fonds immobilier. Si le fonds immobilier ou la SICAV, au nom duquel ou de laquelle l’immeuble a été enregistré, comporte des compartiments, une mention doit indiquer le compartiment auquel appartient l’immeuble.[^86-3]
+<sup>2bis</sup> Les immeubles sont enregistrés au registre foncier au nom de la direction ou de la SICAV, avec une mention indiquant qu’ils font partie du fonds immobilier. Si le fonds immobilier ou la SICAV, au nom duquel ou de laquelle l’immeuble a été enregistré, comporte des compartiments, une mention doit indiquer le compartiment auquel appartient l’immeuble.[^86-3]
 
 <sup>3</sup>
 
@@ -2003,7 +2003,7 @@ Si elle confie la garde de la fortune du fonds à un tiers ou à un dépositaire
 
 [^107b107e-1]: Introduits par le ch. I de l’O du 13 fév. 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Abrogés par l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
-### Section 3 Statut des investisseurs****
+### Section 3 Statut des investisseurs
 
 [^tit2-chap4-sec3-1]
 
@@ -2576,13 +2576,13 @@ Les publications et la publicité doivent contenir des indications sur:
 [^133-6]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^133-7]: Introduit par le ch. I de l’O du 13 fév. 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
-## Titre 5 Audit et surveillance****
+## Titre 5 Audit et surveillance
 
 [^tit5-1]
 
 [^tit5-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 5 nov. 2014 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 
-### Chapitre 1 Audit****
+### Chapitre 1 Audit
 
 [^tit5-chap1-1]
 
@@ -2649,7 +2649,7 @@ Elle soumet le rapport d’audit établi en vertu de l’al. 1 aux destinataires
 
 [^138140-1]: Abrogés par l’annexe ch. 6 de l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 
-### Chapitre 2 Surveillance****
+### Chapitre 2 Surveillance
 
 [^tit5-chap2-1]
 
@@ -2700,22 +2700,25 @@ La FINMA peut, notamment pour les documents suivants, déterminer sous quelle fo
 
 ### (art. 95, al. 4, let. b, LSFin)
 
-<sup>1</sup> Pour les placements collectifs proposés aux clients privés avant l’entrée en vigueur de la modification du 6 novembre 2019, les prospectus simplifiés et les informations clés pour l’investisseur visés aux art. 107 à 107*d* peuvent continuer à être utilisés conformément aux prescriptions des annexes 2, dans la version du 1<sup>er</sup> mars 2013[^144-2], et 3, dans la version du 15 juillet 2011[^144-3], pendant deux ans.
+<sup>1</sup> Pour les placements collectifs proposés aux clients privés avant l’entrée en vigueur de la modification du 6 novembre 2019, les prospectus simplifiés et les informations clés pour l’investisseur visés aux art. 107 à 107*d* peuvent continuer à être utilisés conformément aux prescriptions des annexes 2, dans la version du 1<sup>er</sup> mars 2013[^144-2], et 3, dans la version du 15 juillet 2011[^144-3], jusqu’au 31 décembre 2022.[^144-4]
 
 <sup>2</sup> Si les informations clés pour l’investisseur, incluant une présentation dûment révisée des performances précédentes du placement collectif jusqu’au 31 décembre, sont utilisées conformément à l’annexe 3, dans la version du 15 juillet 2011, la direction et la SICAV les publient au plus tard dans les 35 premiers jours ouvrables de l’année suivante.
 
-<sup>3</sup> Les directions, les SICAV et les sociétés en commandite de placements collectifs doivent soumettre les modifications des contrats de fonds de placement, des règlements de placement et des contrats de société à l’approbation de la FINMA dans les deux ans à compter de l’entrée en vigueur de la modification du 6 novembre 2019. Dans certains cas, la FINMA peut prolonger ce délai.
+<sup>3</sup> Les directions de fonds et les SICAV doivent soumettre les modifications des contrats de fonds et des règlements de placement à l’approbation de la FINMA dans les deux ans à compter de l’entrée en vigueur de la modification du 6 novembre 2019. Dans certains cas, la FINMA peut prolonger ce délai.[^144-5]
 
 <sup>4</sup> Les dérogations que la FINMA a accordées dans des cas particuliers aux directions de fonds de placement d’investisseurs institutionnels dont la trésorerie est gérée à titre professionnel, en vertu de l’art. 2, al. 2, de l’ordonnance sur les fonds de placement (art. 10, al. 5, LPCC), restent en vigueur.
 
-<sup>5</sup> Pour les produits structurés proposés aux clients privés avant l’entrée en vigueur de la modification du 6 novembre 2019, les prospectus simplifiés peuvent continuer à être utilisés conformément aux prescriptions de l’art. 4, dans la version du 1<sup>er</sup> mars 2013[^144-4] pendant deux ans.
+<sup>5</sup> Pour les produits structurés proposés aux clients privés avant l’entrée en vigueur de la modification du 6 novembre 2019, les prospectus simplifiés peuvent continuer à être utilisés conformément aux prescriptions de l’art. 4, dans la version du 1<sup>er</sup> mars 2013[^144-6] jusqu’au 31 décembre 2022.[^144-7]
 
 <sup>6</sup> L’obligation d’informer les investisseurs visée à l’art. 6*a* doit être remplie lors du premier contact avec le client, mais en tout cas dans le délai de deux ans à compter de l’entrée en vigueur de la présente ordonnance.
 
 [^144-1]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^144-2]: [RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)
 [^144-3]: [RO 2011 3177](https://fedlex.data.admin.ch/eli/oc/2011/401)
-[^144-4]: [RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)
+[^144-4]: Nouvelle teneur selon le ch. II de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
+[^144-5]: Nouvelle teneur selon le ch. II de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
+[^144-6]: [RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)
+[^144-7]: Nouvelle teneur selon le ch. II de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
 
 #### Art. 144a et 144b
 
@@ -2735,14 +2738,14 @@ La FINMA peut, notamment pour les documents suivants, déterminer sous quelle fo
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2007.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 [^t-1]: Abrogée par l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 [^t-2]: Abrogée par l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 [^t-3]: Abrogée par l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).

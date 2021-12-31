@@ -4,11 +4,11 @@ title: "Ordinance of 22 November 2006 on Collective Investment Schemes (Collecti
 short: CISO
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/859"
 language: en
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2006-11-22
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/859/20200101/en/xml/fedlex-data-admin-ch-eli-cc-2006-859-20200101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20200101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/859/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2006-859-20220101-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Collective Investment Schemes Ordinance, CISO)
 
-of 22 November 2006 (Status as of 1 January 2020)
+of 22 November 2006 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
@@ -181,7 +181,7 @@ Any party authorised as a fund management company is exempted from the duty to o
 
 [^9-1]
 
-[^9-1]: Repealed by No I of the Ordinance of 13. Febr. 2013, with effect from 1 March 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^9-1]: Repealed by No I of the Ordinance of 13. Feb. 2013, with effect from 1 March 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 10
 
@@ -207,7 +207,7 @@ Any party authorised as a fund management company is exempted from the duty to o
 
 ### (Art. 14 para. 1 let. c CISA)
 
-<sup>1</sup> The executive board must comprise at least two persons. These persons must have their place of residence at a location which is suitable for the proper management of the business operations.
+1 The executive board must comprise at least two persons. These persons must be resident in a place where they can in fact carry out their management duties properly.
 
 <sup>2</sup> The authorised signatories of the licensee must sign jointly.
 
@@ -2699,22 +2699,25 @@ FINMA may determine the form for submission, specifically for the following docu
 
 **Transitional provisions to the Amendment of 6 November 2019**[^144-1]
 
-<sup>1</sup> For collective investment schemes offered to retail clients prior to the entry into force of the amendment of 6 November 2019, simplified prospectuses and key investor information may be used for a further two years in accordance with the requirements of Annexes 2 in the version of 1 March 2013[^144-2] and 3 in the version of 15 July 2011[^144-3].
+<sup>1</sup> For collective investment schemes offered to retail clients prior to the entry into force of the amendment of 6 November 2019, simplified prospectuses and key investor information may continue to be used until 31 December 2022 in accordance with the requirements of Annexes 2 in the version of 1 March 2013[^144-2] and 3 in the version of 15 July 2011[^144-3].[^144-4]
 
 <sup>2</sup> If key investor information pursuant to Annex 3 in the version of 15 July 2011 is used, including the appropriately revised presentation of the collective investment scheme’s past performance in the period to 31 December, it must be published by the fund management company and SICAV within the first 35 working days of the following year.
 
-<sup>3</sup> Within two years of the entry into force of the amendment of 6 November 2019, fund management companies, SICAVs and limited partnerships for collective investment must submit the revised fund contracts, investment regulations and partnership agreements to FINMA for approval. In special cases, FINMA may extend this time limit.
+<sup>3</sup> Within two years of the entry into force of the amendment of 6 November 2019, fund management companies and SICAVs must submit the revised fund contracts and investment regulations to FINMA for approval. In special cases, FINMA may extend this time limit.[^144-5]
 
 <sup>4</sup> Exceptions which FINMA has granted on a case-by-case basis to fund management companies of investment funds for institutional investors with professional treasury operations in accordance with Article 2 paragraph 2 of the Investment Fund Ordinance (Art. 10 para. 5 CISA) continue to apply.
 
-<sup>5</sup> For structured products offered to retail clients prior to entry into force of the amendment of 6 November 2019, simplified prospectuses may be used for a further two years in accordance with the requirements of Annex 4 in the version of 1 March 2013[^144-4].
+<sup>5</sup> For structured products offered to retail clients prior to entry into force of the amendment of 6 November 2019, simplified prospectuses may continue to be used until 31 December 2022 in accordance with the requirements of Annex 4 in the version of 1 March 2013[^144-6].[^144-7]
 
 <sup>6</sup> The duty to inform investors pursuant to Article 6*a* must be satisfied at the time of the first client contact, but in any event within two years of this Ordinance coming into force.
 
 [^144-1]: Amended by Annex 11 No 1 of the Financial Services Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^144-2]: [AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)
 [^144-3]: [AS 2011 3177](https://fedlex.data.admin.ch/eli/oc/2011/401)
-[^144-4]: [AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)
+[^144-4]: Amended by No II of the O of 3 Dec. 2021, in force since 1 Jan. 2022 ([AS 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
+[^144-5]: Amended by No II of the O of 3 Dec. 2021, in force since 1 Jan. 2022 ([AS 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
+[^144-6]: [AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)
+[^144-7]: Amended by No II of the O of 3 Dec. 2021, in force since 1 Jan. 2022 ([AS 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
 
 #### Art. 144a and 144b
 
