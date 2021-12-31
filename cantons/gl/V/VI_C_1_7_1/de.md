@@ -3,20 +3,19 @@ canton: GL
 number: VI C/1/7/1
 title: "Verordnung über Zinsen, Skonti und Bezugslimiten für die Kantons- und Gemeindesteuern"
 language: de
-version: 2016-01-01
-valid_until: 2021-12-31
-version_adopted: 2015-11-10
+version: 2022-01-01
+version_adopted: 2021-03-30
 adopted: 2014-11-25
 in_force: 2015-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-C.1.7.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1830/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2231/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über Zinsen, Skonti und Bezugslimiten für die Kantons- und Gemeindesteuern
 
-Vom 25.11.2014 (Stand 01.01.2016)
+Vom 25.11.2014 (Stand 01.01.2022)
 
 Der Regierungsrat,
 
@@ -31,9 +30,9 @@ verordnet:
 
 **Zinsen, Skonti und Bezugslimiten**
 
-<sup>1</sup> Soweit die Bezahlung des gesamten, in der provisorischen Rechnung ausgewiesenen Betrags bis zum 30. Juni der Steuerperiode erfolgt, wird auf diesem Betrag ein Skonto von 0,25 Prozent gewährt (unter Berücksichtigung der Fälligkeit und des Verfalltags entspricht dies einem Jahreszins von 1 %). Für juristische Personen, deren Steuerperiode vom Kalenderjahr abweicht, gilt die gleiche Regelung.
+<sup>1</sup> Soweit die Bezahlung des gesamten, in der provisorischen Rechnung ausgewiesenen Betrags bis zum 30. Juni der Steuerperiode erfolgt, wird auf diesem Betrag kein Skonto gewährt. Für juristische Personen, deren Steuerperiode vom Kalenderjahr abweicht, gilt die gleiche Regelung.
 
-<sup>2</sup> Der Ausgleichszins (Art. 190 Abs. 3 StG) zu Gunsten und zu Lasten der Steuerpflichtigen beträgt analog dem Skonto auf Jahresbasis 1 Prozent.
+<sup>2</sup> Der Ausgleichszins (Art. 190 Abs. 3 StG) zu Gunsten und zu Lasten der Steuerpflichtigen beträgt auf Jahresbasis 1 Prozent.
 
 <sup>3</sup> Der Verzugszins im Sinne von Artikel 187 Absatz 2 StG beträgt 4,5 Prozent.
 
