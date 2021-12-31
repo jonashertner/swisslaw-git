@@ -4,11 +4,11 @@ title: Loi fédérale du 27 juin 1973 sur les droits de timbre (LT)
 short: LT
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/11_11_11"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1973-06-27
 in_force: 1974-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/11_11_11/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-1974-11_11_11-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/11_11_11/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1974-11_11_11-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/20200101/fr"
 
 (LT)
 
-du 27 juin 1973 (Etat le 1<sup>er</sup> janvier 2020)
+du 27 juin 1973 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -670,22 +670,27 @@ Un intérêt moratoire est dû, sans sommation, sur le montant du droit dès que
 
 #### Art. 31
 
-Pour l’exécution de la présente loi, l’Administration fédérale des contributions arrête toutes les instructions et prend toutes les décisions nécessaires qui ne sont pas réservées expressément à une autre autorité.
+[^31-1]
+
+Pour l’exécution de la présente loi, l’Administration fédérale des contributions (AFC) arrête toutes les instructions et prend toutes les décisions nécessaires qui ne sont pas réservées expressément à une autre autorité.
+
+[^31-1]: Nouvelle teneur selon le ch. I 1 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ### II. Entraide administrative
 
 #### Art. 32
 
-<sup>1</sup> Les autorités fiscales des cantons, districts, cercles et communes et l’Administration fédérale des contributions se prêtent assistance dans l’accomplissement de leur tâche; elles doivent, gratuitement, se faire les communications appropriées, se donner les renseignements nécessaires et se permettre mutuellement la consultation de pièces officielles.
+<sup>1</sup> Les autorités fiscales des cantons, districts, cercles et communes et l’AFC[^32-1] se prêtent assistance dans l’accomplissement de leur tâche; elles doivent, gratuitement, se faire les communications appropriées, se donner les renseignements nécessaires et se permettre mutuellement la consultation de pièces officielles.
 
-<sup>2</sup> Les autorités administratives de la Confédération, ainsi que les autorités des cantons, districts, cercles et communes autres que celles qui sont mentionnées à l’al. 1 ont l’obligation de renseigner l’Administration fédérale des contributions, si les renseignements demandés peuvent être importants pour l’exécution de la présente loi. Un renseignement ne peut être refusé que si des intérêts publics importants s’y opposent, en particulier la sécurité intérieure ou extérieure de la Confédération ou des cantons, ou si le renseignement devait gêner notablement l’autorité sollicitée dans l’accomplissement de sa tâche. Le secret des postes, téléphones et télégraphes doit être sauvegardé.
+<sup>2</sup> Les autorités administratives de la Confédération, ainsi que les autorités des cantons, districts, cercles et communes autres que celles qui sont mentionnées à l’al. 1 ont l’obligation de renseigner l’AFC, si les renseignements demandés peuvent être importants pour l’exécution de la présente loi. Un renseignement ne peut être refusé que si des intérêts publics importants s’y opposent, en particulier la sécurité intérieure ou extérieure de la Confédération ou des cantons, ou si le renseignement devait gêner notablement l’autorité sollicitée dans l’accomplissement de sa tâche. Le secret des postes, téléphones et télégraphes doit être sauvegardé.
 
-<sup>3</sup> Les contestations portant sur l’obligation de renseigner qui incombe aux autorités administratives de la Confédération sont tranchées par le Conseil fédéral; les contestations portant sur l’obligation de renseigner qui incombe aux autorités des cantons, des districts, des cercles et des communes sont jugées par le Tribunal fédéral si le gouvernement cantonal a rejeté la demande de renseignements (art. 120 de la loi du 17 juin 2005 sur le Tribunal fédéral[^32-1]).[^32-2]
+<sup>3</sup> Les contestations portant sur l’obligation de renseigner qui incombe aux autorités administratives de la Confédération sont tranchées par le Conseil fédéral; les contestations portant sur l’obligation de renseigner qui incombe aux autorités des cantons, des districts, des cercles et des communes sont jugées par le Tribunal fédéral si le gouvernement cantonal a rejeté la demande de renseignements (art. 120 de la loi du 17 juin 2005 sur le Tribunal fédéral[^32-2]).[^32-3]
 
 <sup>4</sup> Les organisations auxquelles ont été confiées des tâches relevant de l’administration publique sont, dans les limites de ces tâches, astreintes en matière de renseignements aux mêmes obligations que les autorités. L’al. 3 est applicable par analogie.
 
-[^32-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^32-2]: Nouvelle teneur selon l’annexe ch. 51 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^32-1]: Nouvelle expression selon le ch. I 1 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)). Il a été tenu compte de cette mod. dans tout le texte.
+[^32-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^32-3]: Nouvelle teneur selon l’annexe ch. 51 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### II*a*.**** Traitement des données
 
@@ -695,9 +700,9 @@ Pour l’exécution de la présente loi, l’Administration fédérale des contr
 
 #### Art. 32a
 
-<sup>1</sup> L’Administration fédérale des contributions gère, pour l’accomplissement des tâches qui lui incombent en vertu de la présente loi, un système d’information. Celui-ci peut contenir des données sensibles portant sur des sanctions administratives ou pénales importantes en matière fiscale.
+<sup>1</sup> L’AFC gère, pour l’accomplissement des tâches qui lui incombent en vertu de la présente loi, un système d’information. Celui-ci peut contenir des données sensibles portant sur des sanctions administratives ou pénales importantes en matière fiscale.
 
-<sup>2</sup> L’Administration fédérale des contributions et les autorités citées à l’art. 32, al. 1, échangent les données qui peuvent être utiles à l’accomplissement de leurs tâches. Les autorités citées à l’art. 32, al. 2 et 4, communiquent à l’Administration fédérale des contributions les données qui peuvent être importantes pour l’exécution de la présente loi.
+<sup>2</sup> L’AFC et les autorités citées à l’art. 32, al. 1, échangent les données qui peuvent être utiles à l’accomplissement de leurs tâches. Les autorités citées à l’art. 32, al. 2 et 4, communiquent à l’AFC les données qui peuvent être importantes pour l’exécution de la présente loi.
 
 <sup>3</sup> Les données sont communiquées dans des cas d’espèce ou sous forme de listes ou encore sur des supports de données électroniques. Elles peuvent également être rendues accessibles au moyen d’une procédure d’appel. Cette assistance administrative est gratuite.
 
@@ -728,9 +733,9 @@ L’obligation du secret n’existe pas:
 
 **Inscription comme contribuable; taxation par le contribuable lui‑même**
 
-<sup>1</sup> Celui qui est assujetti aux droits de timbre, conformément à la présente loi, est tenu de s’inscrire auprès de l’Administration fédérale des contributions sans attendre d’y être invité.
+<sup>1</sup> Celui qui est assujetti aux droits de timbre, conformément à la présente loi, est tenu de s’inscrire auprès de l’AFC sans attendre d’y être invité.
 
-<sup>2</sup> Le contribuable doit, à l’échéance du droit (art. 11, 20, 26), remettre à l’Administration fédérale des contributions, sans attendre d’y être invité, le relevé prescrit accompagné des pièces justificatives, et en même temps payer le montant du droit.
+<sup>2</sup> Le contribuable doit, à l’échéance du droit (art. 11, 20, 26), remettre à l’AFC, sans attendre d’y être invité, le relevé prescrit accompagné des pièces justificatives, et en même temps payer le montant du droit.
 
 <sup>3</sup> ...[^34-1]
 
@@ -742,14 +747,14 @@ L’obligation du secret n’existe pas:
 
 <sup>1</sup>
 
-Le contribuable doit renseigner en conscience l’Administration fédérale des contributions sur tous les faits qui peuvent avoir de l’importance pour déterminer l’assujettissement ou les bases de calcul du droit; il doit en particulier:
+Le contribuable doit renseigner en conscience l’AFC sur tous les faits qui peuvent avoir de l’importance pour déterminer l’assujettissement ou les bases de calcul du droit; il doit en particulier:
 
 - a. remplir complètement et exactement les relevés et déclarations d’impôt, ainsi que les questionnaires;
 - b. tenir ses livres avec soin et les produire, à la requête de l’autorité, avec la pièces justificatives et autres documents.
 
 <sup>2</sup> La contestation de l’assujettissement ne libère pas de l’obligation de donner des renseignements.
 
-<sup>3</sup> Si l’obligation de donner des renseignements est contestée, l’Administration fédérale des contributions rend une décision.[^35-1]
+<sup>3</sup> Si l’obligation de donner des renseignements est contestée, l’AFC rend une décision.[^35-1]
 
 [^35-1]: Nouvelle teneur selon le ch. II 26 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
@@ -757,7 +762,7 @@ Le contribuable doit renseigner en conscience l’Administration fédérale des 
 
 **Renseignements de tiers**
 
-<sup>1</sup> Les personnes (spécialement les banques, notaires et fiduciaires) qui coopèrent à la fondation ou à l’augmentation de capital d’une société doivent renseigner en conscience l’Administration fédérale des contributions, à sa demande, sur tous les faits qui peuvent avoir de l’importance pour déterminer l’assujettissement ou calculer le droit d’émission.
+<sup>1</sup> Les personnes (spécialement les banques, notaires et fiduciaires) qui coopèrent à la fondation ou à l’augmentation de capital d’une société doivent renseigner en conscience l’AFC, à sa demande, sur tous les faits qui peuvent avoir de l’importance pour déterminer l’assujettissement ou calculer le droit d’émission.
 
 <sup>2</sup> Si l’obligation de donner des renseignements est contestée, l’art. 35, al. 3, est applicable.
 
@@ -765,23 +770,23 @@ Le contribuable doit renseigner en conscience l’Administration fédérale des 
 
 **Contrôle**
 
-<sup>1</sup> L’Administration fédérale des contributions contrôle l’accomplissement de l’obligation de s’inscrire comme contribuable; elle contrôle également les relevés et paiements des droits.
+<sup>1</sup> L’AFC contrôle l’accomplissement de l’obligation de s’inscrire comme contribuable; elle contrôle également les relevés et paiements des droits.
 
-<sup>2</sup> L’Administration fédérale des contributions peut, pour élucider les faits, examiner sur place les livres du contribuable, les pièces justificatives et autres documents.
+<sup>2</sup> L’AFC peut, pour élucider les faits, examiner sur place les livres du contribuable, les pièces justificatives et autres documents.
 
 <sup>3</sup> S’il se révèle que le contribuable n’a pas rempli ses obligations légales, l’occasion doit lui être donnée de s’expliquer sur les manquements constatés.
 
-<sup>4</sup> Si le différend ne peut être vidé, l’Administration fédérale des contributions rend une décision.
+<sup>4</sup> Si le différend ne peut être vidé, l’AFC rend une décision.
 
 <sup>5</sup> Les constatations faites à l’occasion d’un contrôle selon l’al. 1 ou 2 auprès d’une banque ou caisse d’épargne au sens de la loi fédérale du 8 novembre 1934 sur les banques et les caisses d’épargne[^37-1], auprès de la Banque nationale suisse ou auprès d’une centrale des lettres de gage ne doivent être utilisées que pour l’application des droits de timbre. Le secret bancaire doit être respecté.
 
 [^37-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 
-### II. Décisions de l’Administration fédérale des contributions
+### II. Décisions de l’AFC
 
 #### Art. 38
 
-L’Administration fédérale des contributions rend toutes les décisions qui sont nécessaires pour la perception des droits de timbre; elle rend une décision, en particulier:
+L’AFC rend toutes les décisions qui sont nécessaires pour la perception des droits de timbre; elle rend une décision, en particulier:
 
 - a. lorsque la créance fiscale ou la responsabilité solidaire est contestée;
 - b. lorsque, dans un cas déterminé, il lui est demandé, à titre provisionnel, de fixer officiellement l’assujettissement, les bases du calcul du droit ou la responsabilité solidaire;
@@ -797,11 +802,11 @@ L’Administration fédérale des contributions rend toutes les décisions qui s
 
 **...[^39-1]**
 
-<sup>1</sup> Les décisions de l’Administration fédérale des contributions peuvent faire l’objet d’une réclamation dans les trente jours suivant leur notification.
+<sup>1</sup> Les décisions de l’AFC peuvent faire l’objet d’une réclamation dans les trente jours suivant leur notification.
 
-<sup>2</sup> La réclamation doit être adressée par écrit à l’Administration fédérale des contributions; elle doit contenir des conclusions précises et indiquer les faits qui la motivent.
+<sup>2</sup> La réclamation doit être adressée par écrit à l’AFC; elle doit contenir des conclusions précises et indiquer les faits qui la motivent.
 
-<sup>3</sup> Si la réclamation a été valablement formée, l’Administration fédérale des contributions revoit sa décision sans être liée par les conclusions présentées.
+<sup>3</sup> Si la réclamation a été valablement formée, l’AFC revoit sa décision sans être liée par les conclusions présentées.
 
 <sup>4</sup> La procédure de réclamation est poursuivie, nonobstant le retrait de la réclamation, s’il y a des indices que la décision attaquée n’est pas conforme à la loi.
 
@@ -829,6 +834,20 @@ L’Administration fédérale des contributions rend toutes les décisions qui s
 
 <sup>2</sup> Quelle que soit l’issue de la procédure, les frais des enquêtes peuvent être mis à la charge de celui qui les a occasionnés par sa faute.
 
+### IV*a*.**** Procédures électroniques
+
+[^chap5-lvlB-lvlIVa-1]
+
+[^chap5-lvlB-lvlIVa-1]: Introduit par le ch. I 1 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
+#### Art. 41a
+
+<sup>1</sup> Le Conseil fédéral peut prescrire l’exécution par voie électronique des procédures prévues par la présente loi. Il arrête les modalités de cette exécution.
+
+<sup>2</sup> Lorsqu’une procédure est exécutée par voie électronique, l’AFC assure l’authenticité et l’intégrité des données transmises.
+
+<sup>3</sup> Lorsqu’un écrit dont la signature est prescrite par la loi est déposé par voie électronique, l’AFC peut reconnaître, en lieu et place de la signature électronique qualifiée, une autre forme de confirmation électronique des données par le contribuable.
+
 ### V. Exécution forcée
 
 #### Art. 42
@@ -845,7 +864,7 @@ L’Administration fédérale des contributions rend toutes les décisions qui s
 
 <sup>1</sup>
 
-L’Administration fédérale des contributions peut demander des sûretés pour les droits, intérêts et frais, même s’ils ne sont pas encore fixés par une décision passée en force ou ne sont pas encore échus:
+L’AFC peut demander des sûretés pour les droits, intérêts et frais, même s’ils ne sont pas encore fixés par une décision passée en force ou ne sont pas encore échus:
 
 - a. lorsque le recouvrement paraît menacé;
 - b. lorsque le débiteur du droit n’a pas de domicile en Suisse, ou qu’il prend des dispositions pour abandonner son domicile en Suisse ou se faire radier du registre du commerce;
@@ -853,7 +872,7 @@ L’Administration fédérale des contributions peut demander des sûretés pour
 
 <sup>2</sup> La demande de sûretés doit indiquer le motif juridique de la garantie, le montant à garantir, ainsi que l’office qui reçoit les sûretés. Si la demande de sûretés se fonde sur le l’al. 1, let. a ou b, elle vaut ordonnance de séquestre au sens de l’art. 274 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^43-1]; l’opposition à l’ordonnance de séquestre est exclue.[^43-2]
 
-<sup>3</sup> Les demandes de sûretés de l’Administration fédérale des contributions peuvent faire l’objet d’un recours devant le Tribunal administratif fédéral.[^43-3]
+<sup>3</sup> Les demandes de sûretés de l’AFC peuvent faire l’objet d’un recours devant le Tribunal administratif fédéral.[^43-3]
 
 <sup>4</sup> Le recours contre les demandes de sûretés n’a pas d’effet suspensif.[^43-4]
 
@@ -869,7 +888,7 @@ L’Administration fédérale des contributions peut demander des sûretés pour
 
 #### Art. 44
 
-<sup>1</sup> Les art. 66 à 69 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^44-1] sont applicables par analogie à la révision et à l’interprétation des décisions de l’Administration fédérale des contributions.
+<sup>1</sup> Les art. 66 à 69 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^44-1] sont applicables par analogie à la révision et à l’interprétation des décisions de l’AFC.
 
 <sup>2</sup> ...[^44-2]
 
@@ -947,7 +966,7 @@ encourt une amende pouvant aller jusqu’à 5000 francs.
 
 #### Art. 50
 
-<sup>1</sup> La loi fédérale du 22 mars 1974 sur le droit pénal administratif[^50-1] est applicable; l’Administration fédérale des contributions est l’autorité administrative compétente pour poursuivre et juger.[^50-2]
+<sup>1</sup> La loi fédérale du 22 mars 1974 sur le droit pénal administratif[^50-1] est applicable; l’AFC est l’autorité administrative compétente pour poursuivre et juger.[^50-2]
 
 <sup>2</sup> ...[^50-3]
 

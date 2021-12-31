@@ -4,11 +4,11 @@ title: Bundesgesetz vom 27. Juni 1973 über die Stempelabgaben (StG)
 short: StG
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/11_11_11"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1973-06-27
 in_force: 1974-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/11_11_11/20200101/de/xml/fedlex-data-admin-ch-eli-cc-1974-11_11_11-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/11_11_11/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1974-11_11_11-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/20200101/de"
 
 (StG)
 
-vom 27. Juni 1973 (Stand am 1. Januar 2020)
+vom 27. Juni 1973 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -673,22 +673,27 @@ Auf Abgabebeträgen, die nach Ablauf der in den Artikeln 11, 20 und 26 geregelte
 
 #### Art. 31
 
-Die Eidgenössische Steuerverwaltung erlässt für die Erhebung der Stempelabgaben alle Weisungen, Verfügungen und Entscheide, die nicht ausdrücklich einer andern Behörde vorbehalten sind.
+[^31-1]
+
+Die Eidgenössische Steuerverwaltung (ESTV) erlässt für die Erhebung der Stempelabgaben alle Weisungen, Verfügungen und Entscheide, die nicht ausdrücklich einer anderen Behörde vorbehalten sind.
+
+[^31-1]: Fassung gemäss Ziff. I 1 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ### II. Amtshilfe
 
 #### Art. 32
 
-<sup>1</sup> Die Steuerbehörden der Kantone, Bezirke, Kreise und Gemeinden und die Eidgenössische Steuerverwaltung unterstützen sich gegenseitig in der Erfüllung ihrer Aufgabe; sie haben sich kostenlos die zweckdienlichen Meldungen zu erstatten, die benötigten Auskünfte zu erteilen und in amtliche Akten Einsicht zu gewähren.
+<sup>1</sup> Die Steuerbehörden der Kantone, Bezirke, Kreise und Gemeinden und die ESTV[^32-1] unterstützen sich gegenseitig in der Erfüllung ihrer Aufgabe; sie haben sich kostenlos die zweckdienlichen Meldungen zu erstatten, die benötigten Auskünfte zu erteilen und in amtliche Akten Einsicht zu gewähren.
 
 <sup>2</sup> Die Verwaltungsbehörden des Bundes und die andern als die in Absatz 1 genannten Behörden der Kantone, Bezirke, Kreise und Gemeinden sind gegenüber der Eidgenössischen Steuerverwaltung auskunftspflichtig, sofern die verlangten Auskünfte für die Durchführung dieses Gesetzes von Bedeutung sein können. Eine Auskunft darf nur verweigert werden, soweit ihr wesentliche öffentliche Interessen, insbesondere die innere oder äussere Sicherheit des Bundes oder der Kantone entgegenstehen, oder die Auskunft die angegangene Behörde in der Durchführung ihrer Aufgabe wesentlich beeinträchtigen würde. Das Post‑, Telefon- und Telegrafengeheimnis ist zu wahren.
 
-<sup>3</sup> Anstände über die Auskunftspflicht von Verwaltungsbehörden des Bundes entscheidet der Bundesrat, Anstände über die Auskunftspflicht von Behörden der Kantone, Bezirke, Kreise und Gemeinden, sofern die kantonale Regierung das Auskunftsbegehren abgelehnt hat, das Bundesgericht (Art. 120 des Bundesgerichtsgesetzes vom 17. Juni 2005[^32-1]).[^32-2]
+<sup>3</sup> Anstände über die Auskunftspflicht von Verwaltungsbehörden des Bundes entscheidet der Bundesrat, Anstände über die Auskunftspflicht von Behörden der Kantone, Bezirke, Kreise und Gemeinden, sofern die kantonale Regierung das Auskunftsbegehren abgelehnt hat, das Bundesgericht (Art. 120 des Bundesgerichtsgesetzes vom 17. Juni 2005[^32-2]).[^32-3]
 
 <sup>4</sup> Die mit öffentlich-rechtlichen Aufgaben betrauten Organisationen sind im Rahmen dieser Aufgaben gleich den Behörden zur Auskunft verpflichtet; Absatz 3 findet sinngemässe Anwendung.
 
-[^32-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^32-2]: Fassung gemäss Anhang Ziff. 51 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^32-1]: Ausdruck gemäss Ziff. I 1 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^32-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^32-3]: Fassung gemäss Anhang Ziff. 51 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### II*a*.**** Datenbearbeitung
 
@@ -698,9 +703,9 @@ Die Eidgenössische Steuerverwaltung erlässt für die Erhebung der Stempelabgab
 
 #### Art. 32a
 
-<sup>1</sup> Die Eidgenössische Steuerverwaltung betreibt zur Erfüllung der Aufgaben nach diesem Gesetz ein Informationssystem. Dieses kann besonders schützenswerte Personendaten über administrative und strafrechtliche Sanktionen enthalten, die steuerrechtlich wesentlich sind.
+<sup>1</sup> Die ESTV betreibt zur Erfüllung der Aufgaben nach diesem Gesetz ein Informationssystem. Dieses kann besonders schützenswerte Personendaten über administrative und strafrechtliche Sanktionen enthalten, die steuerrechtlich wesentlich sind.
 
-<sup>2</sup> Die Eidgenössische Steuerverwaltung und die Behörden nach Artikel 32 Absatz 1 geben einander die Daten weiter, die für die Erfüllung ihrer Aufgaben dienlich sein können. Die Behörden nach Artikel 32 Absätze 2 und 4 geben der Eidgenössischen Steuerverwaltung die Daten weiter, die für die Durchführung dieses Gesetzes von Bedeutung sein können.
+<sup>2</sup> Die ESTV und die Behörden nach Artikel 32 Absatz 1 geben einander die Daten weiter, die für die Erfüllung ihrer Aufgaben dienlich sein können. Die Behörden nach Artikel 32 Absätze 2 und 4 geben der ESTV die Daten weiter, die für die Durchführung dieses Gesetzes von Bedeutung sein können.
 
 <sup>3</sup> Die Daten werden einzeln, auf Listen oder auf elektronischen Datenträgern übermittelt. Sie können auch mittels eines Abrufverfahrens zugänglich gemacht werden. Diese Amtshilfe ist kostenlos.
 
@@ -731,9 +736,9 @@ Keine Geheimhaltungspflicht besteht:
 
 **Anmeldung als Abgabepflichtiger; Selbstveranlagung**
 
-<sup>1</sup> Wer auf Grund dieses Gesetzes abgabepflichtig wird, hat sich unaufgefordert bei der Eidgenössischen Steuerverwaltung anzumelden.
+<sup>1</sup> Wer auf Grund dieses Gesetzes abgabepflichtig wird, hat sich unaufgefordert bei der ESTV anzumelden.
 
-<sup>2</sup> Der Abgabepflichtige hat der Eidgenössischen Steuerverwaltung bei Fälligkeit der Abgabe (Art. 11, 20, 26) unaufgefordert die vorgeschriebene Abrechnung mit den Belegen einzureichen und gleichzeitig die Abgabe zu entrichten.
+<sup>2</sup> Der Abgabepflichtige hat der ESTV bei Fälligkeit der Abgabe (Art. 11, 20, 26) unaufgefordert die vorgeschriebene Abrechnung mit den Belegen einzureichen und gleichzeitig die Abgabe zu entrichten.
 
 <sup>3</sup> ...[^34-1]
 
@@ -745,14 +750,14 @@ Keine Geheimhaltungspflicht besteht:
 
 <sup>1</sup>
 
-Der Abgabepflichtige hat der Eidgenössischen Steuerverwaltung über alle Tatsachen, die für die Abgabepflicht oder für die Abgabebemessung von Bedeutung sein können, nach bestem Wissen und Gewissen Auskunft zu erteilen; er hat insbesondere:
+Der Abgabepflichtige hat der ESTV über alle Tatsachen, die für die Abgabepflicht oder für die Abgabebemessung von Bedeutung sein können, nach bestem Wissen und Gewissen Auskunft zu erteilen; er hat insbesondere:
 
 - a. Steuerabrechnungen, Steuererklärungen und Fragebogen vollständig und genau auszufüllen;
 - b. seine Geschäftsbücher ordnungsgemäss zu führen und sie, die Belege und andere Urkunden auf Verlangen beizubringen.
 
 <sup>2</sup> Die Bestreitung der Abgabepflicht entbindet nicht von der Auskunftspflicht.
 
-<sup>3</sup> Wird die Auskunftspflicht bestritten, so trifft die Eidgenössische Steuerverwaltung eine Verfügung.[^35-1]
+<sup>3</sup> Wird die Auskunftspflicht bestritten, so trifft die ESTV eine Verfügung.[^35-1]
 
 [^35-1]: Fassung gemäss Ziff. II 26 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, in Kraft seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
@@ -760,7 +765,7 @@ Der Abgabepflichtige hat der Eidgenössischen Steuerverwaltung über alle Tatsac
 
 **Auskunft Dritter**
 
-<sup>1</sup> Die bei der Gründung oder Kapitalerhöhung einer Gesellschaft oder Genossenschaft mitwirkenden Personen (insbesondere Banken, Notare und Treuhänder) haben der Eidgenössischen Steuerverwaltung auf Verlangen über alle Tatsachen, die für die Abgabepflicht oder für die Bemessung der Emissionsabgabe von Bedeutung sein können, nach bestem Wissen und Gewissen Auskunft zu erteilen.
+<sup>1</sup> Die bei der Gründung oder Kapitalerhöhung einer Gesellschaft oder Genossenschaft mitwirkenden Personen (insbesondere Banken, Notare und Treuhänder) haben der ESTV auf Verlangen über alle Tatsachen, die für die Abgabepflicht oder für die Bemessung der Emissionsabgabe von Bedeutung sein können, nach bestem Wissen und Gewissen Auskunft zu erteilen.
 
 <sup>2</sup> Wird die Auskunftspflicht bestritten, so findet Artikel 35 Absatz 3 Anwendung.
 
@@ -768,23 +773,23 @@ Der Abgabepflichtige hat der Eidgenössischen Steuerverwaltung über alle Tatsac
 
 **Überprüfung**
 
-<sup>1</sup> Die Erfüllung der Pflicht zur Anmeldung als Abgabepflichtiger sowie die Steuerabrechnungen und -ablieferungen werden von der Eidgenössischen Steuerverwaltung überprüft.
+<sup>1</sup> Die Erfüllung der Pflicht zur Anmeldung als Abgabepflichtiger sowie die Steuerabrechnungen und -ablieferungen werden von der ESTV überprüft.
 
-<sup>2</sup> Die Eidgenössische Steuerverwaltung kann zur Abklärung des Sachverhalts die Geschäftsbücher, die Belege und andere Urkunden des Abgabepflichtigen an Ort und Stelle prüfen.
+<sup>2</sup> Die ESTV kann zur Abklärung des Sachverhalts die Geschäftsbücher, die Belege und andere Urkunden des Abgabepflichtigen an Ort und Stelle prüfen.
 
 <sup>3</sup> Ergibt sich, dass der Abgabepflichtige seinen gesetzlichen Pflichten nicht nachgekommen ist, so ist ihm Gelegenheit zu geben, zu den erhobenen Aussetzungen Stellung zu nehmen.
 
-<sup>4</sup> Lässt sich der Anstand nicht erledigen, so trifft die Eidgenössische Steuerverwaltung einen Entscheid.
+<sup>4</sup> Lässt sich der Anstand nicht erledigen, so trifft die ESTV einen Entscheid.
 
 <sup>5</sup> Die anlässlich einer Prüfung gemäss Absatz 1 oder 2 bei einer Bank oder Sparkasse im Sinne des Bankengesetzes vom 8. November 1934[^37-1], bei der Schweizerischen Nationalbank oder bei einer Pfandbriefzentrale gemachten Feststellungen dürfen ausschliesslich für die Durchführung der Stempelabgaben verwendet werden. Das Bankgeheimnis ist zu wahren.
 
 [^37-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 
-### II. Entscheide der Eidgenössischen Steuerverwaltung
+### II. Entscheide der ESTV
 
 #### Art. 38
 
-Die Eidgenössische Steuerverwaltung trifft alle Verfügungen und Entscheide, welche die Abgabeerhebung notwendig macht; sie trifft einen Entscheid insbesondere dann, wenn
+Die ESTV trifft alle Verfügungen und Entscheide, welche die Abgabeerhebung notwendig macht; sie trifft einen Entscheid insbesondere dann, wenn
 
 - a. die Abgabeforderung oder die Mithaftung bestritten wird;
 - b. für einen bestimmten Fall vorsorglich die amtliche Feststellung der Abgabepflicht, der Grundlagen der Abgabebemessung oder der Mithaftung beantragt wird;
@@ -800,11 +805,11 @@ Die Eidgenössische Steuerverwaltung trifft alle Verfügungen und Entscheide, we
 
 **...[^39-1]**
 
-<sup>1</sup> Verfügungen und Entscheide der Eidgenössischen Steuerverwaltung können innert 30 Tagen nach der Eröffnung mit Einsprache angefochten werden.
+<sup>1</sup> Verfügungen und Entscheide der ESTV können innert 30 Tagen nach der Eröffnung mit Einsprache angefochten werden.
 
-<sup>2</sup> Die Einsprache ist schriftlich bei der Eidgenössischen Steuerverwaltung einzureichen; sie hat einen bestimmten Antrag zu enthalten und die zu seiner Begründung dienenden Tatsachen anzugeben.
+<sup>2</sup> Die Einsprache ist schriftlich bei der ESTV einzureichen; sie hat einen bestimmten Antrag zu enthalten und die zu seiner Begründung dienenden Tatsachen anzugeben.
 
-<sup>3</sup> Ist gültig Einsprache erhoben worden, so hat die Eidgenössische Steuerverwaltung die Verfügung oder den Entscheid ohne Bindung an die gestellten Anträge zu überprüfen.
+<sup>3</sup> Ist gültig Einsprache erhoben worden, so hat die ESTV die Verfügung oder den Entscheid ohne Bindung an die gestellten Anträge zu überprüfen.
 
 <sup>4</sup> Das Einspracheverfahren ist trotz Rückzug der Einsprache weiterzuführen, wenn Anhaltspunkte dafür vorliegen, dass die Verfügung oder der Entscheid dem Gesetz nicht entspricht.
 
@@ -832,6 +837,20 @@ Die Eidgenössische Steuerverwaltung trifft alle Verfügungen und Entscheide, we
 
 <sup>2</sup> Ohne Rücksicht auf den Ausgang des Verfahrens können die Kosten von Untersuchungsmassnahmen demjenigen auferlegt werden, der sie schuldhaft verursacht hat.
 
+### IV*a*.**** Elektronische Verfahren
+
+[^chap5-lvlB-lvlIVa-1]
+
+[^chap5-lvlB-lvlIVa-1]: Eingefügt durch Ziff. I 1 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
+#### Art. 41a
+
+<sup>1</sup> Der Bundesrat kann die elektronische Durchführung von Verfahren nach diesem Gesetz vorschreiben. Dabei regelt er die Modalitäten der Durchführung.
+
+<sup>2</sup> Die ESTV stellt bei der elektronischen Durchführung von Verfahren die Authentizität und Integrität der übermittelten Daten sicher.
+
+<sup>3</sup> Sie kann bei der elektronischen Einreichung von Eingaben, deren Unterzeichnung gesetzlich vorgeschrieben ist, anstelle der qualifizierten elektronischen Signatur eine andere elektronische Bestätigung der Angaben durch die abgabepflichtige Person anerkennen.
+
 ### V. Zwangsvollstreckung
 
 #### Art. 42
@@ -846,7 +865,7 @@ Die Eidgenössische Steuerverwaltung trifft alle Verfügungen und Entscheide, we
 
 **Sicherstellung**
 
-<sup>1</sup> Die Eidgenössische Steuerverwaltung kann Abgaben, Zinsen und Kosten, auch wenn sie weder rechtskräftig festgesetzt noch fällig sind, sicherstellen lassen, wenn
+<sup>1</sup> Die ESTV kann Abgaben, Zinsen und Kosten, auch wenn sie weder rechtskräftig festgesetzt noch fällig sind, sicherstellen lassen, wenn
 
 - a*.* der Bezug als gefährdet erscheint;
 - b. der Zahlungspflichtige keinen Wohnsitz in der Schweiz hat oder Anstalten trifft, den Wohnsitz in der Schweiz aufzugeben oder sich im Handelsregister löschen zu lassen;
@@ -854,7 +873,7 @@ Die Eidgenössische Steuerverwaltung trifft alle Verfügungen und Entscheide, we
 
 <sup>2</sup> Die Sicherstellungsverfügung hat den Rechtsgrund der Sicherstellung, den sicherzustellenden Betrag und die Stelle, welche die Sicherheiten entgegennimmt, anzugeben. Wird die Sicherstellung aufgrund von Absatz 1 Buchstaben a oder b angeordnet, so gilt die Sicherstellungsverfügung als Arrestbefehl im Sinne von Artikel 274 des Bundesgesetzes über Schuldbetreibung und Konkurs[^43-1]; die Einsprache gegen den Arrestbefehl ist ausgeschlossen.[^43-2]
 
-<sup>3</sup> Gegen Sicherstellungsverfügungen der Eidgenössischen Steuerverwaltung kann beim Bundesverwaltungsgericht Beschwerde geführt werden.[^43-3]
+<sup>3</sup> Gegen Sicherstellungsverfügungen der ESTV kann beim Bundesverwaltungsgericht Beschwerde geführt werden.[^43-3]
 
 <sup>4</sup> Beschwerden gegen Sicherstellungsverfügungen haben keine aufschiebende Wirkung.[^43-4]
 
@@ -870,7 +889,7 @@ Die Eidgenössische Steuerverwaltung trifft alle Verfügungen und Entscheide, we
 
 #### Art. 44
 
-<sup>1</sup> Auf die Revision und die Erläuterung von Entscheiden der Eidgenössischen Steuerverwaltung werden die Artikel 66–69 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^44-1] sinngemäss angewandt.
+<sup>1</sup> Auf die Revision und die Erläuterung von Entscheiden der ESTV werden die Artikel 66–69 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^44-1] sinngemäss angewandt.
 
 <sup>2</sup> ...[^44-2]
 
@@ -947,7 +966,7 @@ wird mit Busse bis zu 5000 Franken bestraft.
 
 #### Art. 50
 
-<sup>1</sup> Das Verwaltungsstrafrechtsgesetz vom 22. März 1974[^50-1] findet Anwendung; verfolgende und urteilende Verwaltungsbehörde im Sinne jenes Gesetzes ist die Eidgenössische Steuerverwaltung.[^50-2]
+<sup>1</sup> Das Verwaltungsstrafrechtsgesetz vom 22. März 1974[^50-1] findet Anwendung; verfolgende und urteilende Verwaltungsbehörde im Sinne jenes Gesetzes ist die ESTV.[^50-2]
 
 <sup>2</sup> ...[^50-3]
 

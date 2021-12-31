@@ -4,11 +4,11 @@ title: Legge federale del 27 giugno 1973 sulle tasse di bollo (LTB)
 short: LTB
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/11_11_11"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1973-06-27
 in_force: 1974-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/11_11_11/20200101/it/xml/fedlex-data-admin-ch-eli-cc-1974-11_11_11-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/11_11_11/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1974-11_11_11-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/20200101/it"
 
 (LTB)
 
-del 27 giugno 1973 (Stato 1° gennaio 2020)
+del 27 giugno 1973 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -67,10 +67,10 @@ La Confederazione riscuote tasse di bollo su:
 
 [^1-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
 [^1-2]: Nuovo testo giusta l’all. n. II 7 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^1-3]: Abrogate dal n. 2 dell’all. alla LF del 30 set. 2011 (Rafforzamento della stabilità nel settore finanziario), con effetto dal 1° mar. 2012 ([RU 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4211](https://fedlex.data.admin.ch/eli/fga/2011/762)).
+[^1-3]: Abrogate dall’all. n. 2 della LF del 30 set. 2011 (Rafforzamento della stabilità nel settore finanziario), con effetto dal 1° mar. 2012 ([RU 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4211](https://fedlex.data.admin.ch/eli/fga/2011/762)).
 [^1-4]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
 [^1-5]: Nuovo testo giusta l’all. n. II 7 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^1-6]: Nuovo testo giusta il n. II 4 dell’all. alla L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^1-6]: Nuovo testo giusta l’all. n. II 4 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 [^1-7]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
 ### II. ...
@@ -113,7 +113,7 @@ Sono parimenti considerati obbligazioni:
 <sup>5</sup> Sono titoli del mercato monetario le obbligazioni con una durata contrattuale fissa che non supera dodici mesi.[^4-6]
 
 [^4-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^4-2]: Nuovo testo giusta il n. II 4 dell’all. alla L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^4-2]: Nuovo testo giusta l’all. n. II 4 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 [^4-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^4-4]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
 [^4-5]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
@@ -163,7 +163,7 @@ Alla costituzione di diritti di partecipazione giusta il capoverso 1 lettera a s
 
 [^5a-1]
 
-[^5a-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434). Abrogato dal n. 2 dell’all. alla LF del 30 set. 2011 (Rafforzamento della stabilità nel settore finanziario), con effetto dal 1° mar. 2012 ([RU 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4211](https://fedlex.data.admin.ch/eli/fga/2011/762)).
+[^5a-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434). Abrogato dall’all. n. 2 della LF del 30 set. 2011 (Rafforzamento della stabilità nel settore finanziario), con effetto dal 1° mar. 2012 ([RU 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4211](https://fedlex.data.admin.ch/eli/fga/2011/762)).
 
 #### Art. 6
 
@@ -210,11 +210,11 @@ Non soggiacciono alla tassa:
 [^6-5]: Introdotta dall’art. 24 della LF del 20 dic. 1985 sulla costituzione di riserve di crisi beneficianti di sgravi fiscali ([RU 1988 1420](https://fedlex.data.admin.ch/eli/oc/1988/1420_1420_1420); [FF 1984 I 908](https://fedlex.data.admin.ch/eli/fga/1984/1_1129_1147_908)). Abrogata dal n. II della LF del 28 set. 2018, con effetto dal 1° gen. 2019 ([RU 2019 433](https://fedlex.data.admin.ch/eli/oc/2019/76); [FF 2018 1951](https://fedlex.data.admin.ch/eli/fga/2018/890)).
 [^6-6]: Introdotta dall’art. 7 n. 1 disp. fin. tit. XXVI CO ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta l’all. n. II 7 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^6-7]: Introdotta dal n. I della LF del 24 mar. 1995 ([RU 1995 4259](https://fedlex.data.admin.ch/eli/oc/1995/4259_4259_4259); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)). Nuovo testo giusta il n. I della LF del 18 mar. 2005, in vigore dal 1° gen. 2006 ([RU 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4329](https://fedlex.data.admin.ch/eli/fga/2004/878)).
-[^6-8]: Introdotta n. II 4 dell’all. alla L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^6-8]: Introdotta dall’all. n. II 4 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 [^6-9]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 [^6-10]: Introdotta dal n. II 1 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1 gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 [^6-11]: Introdotta dal n. II 1 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1 gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
-[^6-12]: Introdotta dal n. 2 dell’all. alla LF del 30 set. 2011 (Rafforzamento della stabilità nel settore finanziario) ([RU 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4211](https://fedlex.data.admin.ch/eli/fga/2011/762)). Nuovo testo giusta il n. II della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3451](https://fedlex.data.admin.ch/eli/oc/2016/583); [FF 2015 5795](https://fedlex.data.admin.ch/eli/fga/2015/1692)).
+[^6-12]: Introdotta dall’all. n. 2 della LF del 30 set. 2011 (Rafforzamento della stabilità nel settore finanziario) ([RU 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4211](https://fedlex.data.admin.ch/eli/fga/2011/762)). Nuovo testo giusta il n. II della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3451](https://fedlex.data.admin.ch/eli/oc/2016/583); [FF 2015 5795](https://fedlex.data.admin.ch/eli/fga/2015/1692)).
 [^6-13]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^6-14]: Introdotta dal n. II della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3451](https://fedlex.data.admin.ch/eli/oc/2016/583); [FF 2015 5795](https://fedlex.data.admin.ch/eli/fga/2015/1692)).
 [^6-15]: Mod. introdotta dalla Commissione di redazione dell’AF (art. 33 LRC; [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
@@ -240,7 +240,7 @@ Il credito fiscale sorge:
 [^7-1]: Nuovo testo giusta l’all. n. II 7 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^7-2]: Introdotta dall’art. 7 n. 1 disp. fin. tit. XXVI CO, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^7-3]: Abrogata dal n. I 3 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese, con effetto dal 1° apr. 1998 ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
-[^7-4]: Introdotta dal n. I della LF del 4 ott. 1991 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434). Abrogata dal n. 2 dell’all. alla LF del 30 set. 2011 (Rafforzamento della stabilità nel settore finanziario), con effetto dal 1° mar. 2012 ([RU 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4211](https://fedlex.data.admin.ch/eli/fga/2011/762)).
+[^7-4]: Introdotta dal n. I della LF del 4 ott. 1991 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434). Abrogata dall’all. n. 2 della LF del 30 set. 2011 (Rafforzamento della stabilità nel settore finanziario), con effetto dal 1° mar. 2012 ([RU 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4211](https://fedlex.data.admin.ch/eli/fga/2011/762)).
 [^7-5]: Abrogato dal n. I della LF del 4 ott. 1991, con effetto dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
 
 ### III. Aliquote e calcolo della tassa
@@ -285,13 +285,13 @@ La tassa è:
 [^9-2]: Abrogata dal n. I 3 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese, con effetto dal 1° apr. 1998 ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 [^9-3]: Abrogata dal n. I della LF del 4 ott. 1991, con effetto dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
 [^9-4]: Nuovo testo giusta l’art. 7 n. 1 disp. fin. tit. XXVI CO, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^9-5]: Introdotta dal n. 6 dell’all. alla L del 3 ott. 2003 sulla fusione ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)). Nuovo testo giusta il n. 6 dell’all. alla LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^9-5]: Introdotta dall’all. n. 6 della L del 3 ott. 2003 sulla fusione ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)). Nuovo testo giusta l’all. n. 6 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 9a
 
 [^9a-1]
 
-[^9a-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434). Abrogato dal n. 2 dell’all. alla LF del 30 set. 2011 (Rafforzamento della stabilità nel settore finanziario), con effetto dal 1° mar. 2012 ([RU 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4211](https://fedlex.data.admin.ch/eli/fga/2011/762)).
+[^9a-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434). Abrogato dall’all. n. 2 della LF del 30 set. 2011 (Rafforzamento della stabilità nel settore finanziario), con effetto dal 1° mar. 2012 ([RU 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4211](https://fedlex.data.admin.ch/eli/fga/2011/762)).
 
 ### IV. Obbligo fiscale
 
@@ -307,7 +307,7 @@ La tassa è:
 
 [^10-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
 [^10-2]: Abrogato dal n. I della LF del 4 ott. 1991, con effetto dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
-[^10-3]: Introdotti dal n. I della LF del 4 ott. 1991 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434). Abrogati dal n. 2 dell’all. alla LF del 30 set. 2011 (Rafforzamento della stabilità nel settore finanziario), con effetto dal 1° mar. 2012 ([RU 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4211](https://fedlex.data.admin.ch/eli/fga/2011/762)).
+[^10-3]: Introdotti dal n. I della LF del 4 ott. 1991 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434). Abrogati dall’all. n. 2 della LF del 30 set. 2011 (Rafforzamento della stabilità nel settore finanziario), con effetto dal 1° mar. 2012 ([RU 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4211](https://fedlex.data.admin.ch/eli/fga/2011/762)).
 [^10-4]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
 
 ### V. Esigibilità del credito fiscale
@@ -321,7 +321,7 @@ La tassa è esigibile:
 - c. in tutti gli altri casi: 30 giorni dopo che è sorto il credito fiscale (art. 7).
 
 [^11-1]: Nuovo testo giusta il n. II 1 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1 gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
-[^11-2]: Nuovo testo giusta il n. 2 dell’all. alla LF del 30 set. 2011 (Rafforzamento della stabilità nel settore finanziario), in vigore dal 1° mar. 2012 ([RU 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4211](https://fedlex.data.admin.ch/eli/fga/2011/762)).
+[^11-2]: Nuovo testo giusta l’all. n. 2 della LF del 30 set. 2011 (Rafforzamento della stabilità nel settore finanziario), in vigore dal 1° mar. 2012 ([RU 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4211](https://fedlex.data.admin.ch/eli/fga/2011/762)).
 
 ### VI. Dilazione e condono del credito fiscale
 
@@ -380,10 +380,10 @@ Sono negoziatori di titoli:
 
 [^13-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2005, in vigore dal 1° gen. 2006 ([RU 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4329](https://fedlex.data.admin.ch/eli/fga/2004/878)).
 [^13-2]: Nuovo testo giusta l’all. n. II 7 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^13-3]: Nuovo testo giusta il n. II 4 dell’all. alla L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^13-3]: Nuovo testo giusta l’all. n.II 4 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 [^13-4]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 [^13-5]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
-[^13-6]: Nuovo testo giusta il n. 5 dell’all. alla L del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^13-6]: Nuovo testo giusta il’all. n. 5 della L del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 [^13-7]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^13-8]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
 [^13-9]: Abrogata dal n. I della LF del 18 mar. 2005, con effetto dal 1° gen. 2006 ([RU 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4329](https://fedlex.data.admin.ch/eli/fga/2004/878)).
@@ -428,8 +428,8 @@ Non soggiacciono alla tassa:
 [^14-5]: Introdotta dal n. I della LF del 4 ott. 1991, in vigore dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
 [^14-6]: Introdotta dal n. I della LF del 4 ott. 1991, in vigore dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
 [^14-7]: Introdotta dal n. I della LF del 4 ott. 1991 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434). Nuovo testo giusta il n. I della LF del 18 mar. 2005, in vigore dal 1° gen. 2006 ([RU 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4329](https://fedlex.data.admin.ch/eli/fga/2004/878)).
-[^14-8]: Introdotta dal n. 6 dell’all. alla L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
-[^14-9]: Introdotta dal n. 6 dell’all. alla L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+[^14-8]: Introdotta dall’all. n. 6 della L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+[^14-9]: Introdotta dall’all. n. 6 della L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 [^14-10]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 [^14-11]: Abrogato dal n. I della LF del 4 ott. 1991, con effetto dal 1 apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
 [^14-12]: Introdotta dal n. I della LF del 4 ott. 1991, in vigore dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
@@ -516,9 +516,9 @@ Sono considerati istituti esteri di previdenza professionale gli istituti:
 - c. che soggiacciono a una sorveglianza equivalente a quella della Confederazione.
 
 [^17a-1]: Introdotto dal n. I della LF del 15 dic. 2000 concernente nuove misure urgenti nell’ambito della tassa di negoziazione ([RU 2000 2991](https://fedlex.data.admin.ch/eli/oc/2000/541); [FF 2000 5098](https://fedlex.data.admin.ch/eli/fga/2000/1253)). Nuovo testo giusta il n. I della LF del 18 mar. 2005, in vigore dal 1° gen. 2006 ([RU 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4329](https://fedlex.data.admin.ch/eli/fga/2004/878)).
-[^17a-2]: Nuovo testo giusta il n. II 4 dell’all. alla L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^17a-2]: Nuovo testo giusta l’all. n. II 4 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 [^17a-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^17a-4]: Nuovo testo giusta il n. II 4 dell’all. alla L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^17a-4]: Nuovo testo giusta l’all. n. II 4 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 
 #### Art. 18
 
@@ -542,7 +542,7 @@ Sono considerati istituti esteri di previdenza professionale gli istituti:
 
 [^19-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2005, in vigore dal 1° gen. 2006 ([RU 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4329](https://fedlex.data.admin.ch/eli/fga/2004/878)).
 [^19-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^19-3]: Nuovo testo giusta il n. 5 dell’all. alla L del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^19-3]: Nuovo testo giusta l’all. n. 5 della L del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 [^19-4]: Abrogato dal n. I della LF del 19 mar. 2010, con effetto dal 1° lug. 2010 ([RU 2010 3317](https://fedlex.data.admin.ch/eli/oc/2010/447); [FF 2009 7617](https://fedlex.data.admin.ch/eli/fga/2009/1488)[7625](https://fedlex.data.admin.ch/eli/fga/2009/1490)).
 
 #### Art. 19a
@@ -675,22 +675,27 @@ Sulle tasse di bollo non ancora pagate dopo la scadenza dei termini di cui agli 
 
 #### Art. 31
 
-L’Amministrazione federale delle contribuzioni emana tutte le istruzioni e prende tutte le decisioni in materia di riscossione della tassa di bollo che non sono espressamente riservate ad altra autorità.
+[^31-1]
+
+L’Amministrazione federale delle contribuzioni (AFC) emana tutte le istruzioni e prende tutte le decisioni in materia di riscossione della tassa di bollo che non sono espressamente riservate ad altra autorità.
+
+[^31-1]: Nuovo testo giusta il n. I 1 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ### II. Assistenza fra le autorità
 
 #### Art. 32
 
-<sup>1</sup> Le autorità fiscali dei Cantoni, distretti, circoli, Comuni e l’Amministrazione federale delle contribuzioni si prestano reciproca assistenza nello svolgimento dei loro compiti; esse devono farsi le notificazioni opportune, comunicarsi le informazioni necessarie e concedersi la consultazione degli atti ufficiali, a titolo gratuito.
+<sup>1</sup> Le autorità fiscali dei Cantoni, distretti, circoli, Comuni e l’AFC[^32-1] si prestano reciproca assistenza nello svolgimento dei loro compiti; esse devono farsi le notificazioni opportune, comunicarsi le informazioni necessarie e concedersi la consultazione degli atti ufficiali, a titolo gratuito.
 
-<sup>2</sup> Le autorità amministrative della Confederazione e le autorità dei Cantoni, distretti, circoli e Comuni, diverse da quelle menzionate al capoverso 1, hanno l’obbligo di fornire informazioni all’Amministrazione federale delle contribuzioni, qualora le informazioni domandate possano essere di qualche momento nell’applicazione della presente legge. Un’informazione può essere ricusata soltanto se vi ostano interessi pubblici importanti, in particolare la sicurezza interna od esterna della Confederazione o dei Cantoni, oppure se l’informazione intralcia in misura notevole lo svolgimento dei compiti dell’autorità sollecitata. Il segreto postale, telefonico o telegrafico deve essere rispettato.
+<sup>2</sup> Le autorità amministrative della Confederazione e le autorità dei Cantoni, distretti, circoli e Comuni, diverse da quelle menzionate al capoverso 1, hanno l’obbligo di fornire informazioni all’AFC, qualora le informazioni domandate possano essere di qualche momento nell’applicazione della presente legge. Un’informazione può essere ricusata soltanto se vi ostano interessi pubblici importanti, in particolare la sicurezza interna od esterna della Confederazione o dei Cantoni, oppure se l’informazione intralcia in misura notevole lo svolgimento dei compiti dell’autorità sollecitata. Il segreto postale, telefonico o telegrafico deve essere rispettato.
 
-<sup>3</sup> Le controversie sull’obbligo delle autorità amministrative federali di fornire informazioni sono giudicate dal Consiglio federale; quelle sul medesimo obbligo delle autorità dei Cantoni, distretti, circoli e Comuni sono giudicate dal Tribunale federale, se il Governo cantonale ha respinto la domanda d’informazioni (art. 120 della L del 17 giu. 2005[^32-1] sul Tribunale federale).[^32-2]
+<sup>3</sup> Le controversie sull’obbligo delle autorità amministrative federali di fornire informazioni sono giudicate dal Consiglio federale; quelle sul medesimo obbligo delle autorità dei Cantoni, distretti, circoli e Comuni sono giudicate dal Tribunale federale, se il Governo cantonale ha respinto la domanda d’informazioni (art. 120 della L del 17 giu. 2005[^32-2] sul Tribunale federale).[^32-3]
 
 <sup>4</sup> Gli organismi cui sono affidati compiti di diritto pubblico sono, nei limiti di questi compiti, tenuti a fornire informazioni come le autorità. Il capoverso 3 è applicabile per analogia.
 
-[^32-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^32-2]: Nuovo testo giusta il n. 51 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^32-1]: Nuova espressione giusta il n. I 1 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^32-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^32-3]: Nuovo testo giusta l’all. n. 51 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### II*a*.**** Trattamento dei dati
 
@@ -700,9 +705,9 @@ L’Amministrazione federale delle contribuzioni emana tutte le istruzioni e pre
 
 #### Art. 32a
 
-<sup>1</sup> L’Amministrazione federale delle contribuzioni gestisce, per l’adempimento dei compiti in virtù della presente legge, un sistema d’informazione. Quest’ultimo può contenere dati personali degni di particolare protezione riguardanti sanzioni amministrative e penali rilevanti in materia fiscale.
+<sup>1</sup> L’AFC gestisce, per l’adempimento dei compiti in virtù della presente legge, un sistema d’informazione. Quest’ultimo può contenere dati personali degni di particolare protezione riguardanti sanzioni amministrative e penali rilevanti in materia fiscale.
 
-<sup>2</sup> L’Amministrazione federale delle contribuzioni e le autorità di cui all’articolo 32 capoverso 1 si trasmettono i dati che possono essere utili per l’adempimento dei loro compiti. Le autorità di cui all’articolo 32 capoversi 2 e 4 trasmettono all’Amministrazione federale delle contribuzioni i dati che possono essere importanti per l’esecuzione della presente legge.
+<sup>2</sup> L’AFC e le autorità di cui all’articolo 32 capoverso 1 si trasmettono i dati che possono essere utili per l’adempimento dei loro compiti. Le autorità di cui all’articolo 32 capoversi 2 e 4 trasmettono all’AFC i dati che possono essere importanti per l’esecuzione della presente legge.
 
 <sup>3</sup> I dati sono trasmessi singolarmente, mediante liste o su supporti elettronici di dati. Possono essere resi accessibili anche mediante una procedura di richiamo. L’assistenza amministrativa è gratuita.
 
@@ -733,9 +738,9 @@ Non vi è obbligo di osservare il segreto d’ufficio:
 
 **Iscrizione come contribuente; autoaccertamento**
 
-<sup>1</sup> Chiunque diviene soggetto alla tassa di bollo in base alla presente legge ha l’obbligo di annunciarsi come contribuente presso l’Amministrazione federale delle contribuzioni, senza esservi sollecitato.
+<sup>1</sup> Chiunque diviene soggetto alla tassa di bollo in base alla presente legge ha l’obbligo di annunciarsi come contribuente presso l’AFC, senza esservi sollecitato.
 
-<sup>2</sup> Il contribuente, alla scadenza della tassa (art. 11, 20 e 26), è tenuto a presentare all’Amministrazione federale delle contribuzioni, senza esservi sollecitato, il rendiconto prescritto, corredato dei documenti giustificativi, e a pagare in pari tempo la tassa.
+<sup>2</sup> Il contribuente, alla scadenza della tassa (art. 11, 20 e 26), è tenuto a presentare all’AFC, senza esservi sollecitato, il rendiconto prescritto, corredato dei documenti giustificativi, e a pagare in pari tempo la tassa.
 
 <sup>3</sup> ...[^34-1]
 
@@ -747,14 +752,14 @@ Non vi è obbligo di osservare il segreto d’ufficio:
 
 <sup>1</sup>
 
-Il contribuente deve indicare coscienziosamente all’Amministrazione federale delle contribuzioni tutti i fatti che possono essere rilevanti per l’accertamento dell’obbligo fiscale e il calcolo della tassa; egli è tenuto in particolare a:
+Il contribuente deve indicare coscienziosamente all’AFC tutti i fatti che possono essere rilevanti per l’accertamento dell’obbligo fiscale e il calcolo della tassa; egli è tenuto in particolare a:
 
 - a. compilare in tutte le loro parti ed esattamente i moduli dei rendiconti e delle dichiarazioni d’imposta e dei questionari;
 - b. tenere regolarmente i libri di commercio e, su richiesta dell’autorità, presentarli corredati dei giustificativi e di altri documenti.
 
 <sup>2</sup> La contestazione dell’obbligo di pagare la tassa non dispensa dall’obbligo di fornire informazioni.
 
-<sup>3</sup> Se l’obbligo di fornire informazioni è contestato, l’Amministrazione federale delle contribuzioni prende una decisione.[^35-1]
+<sup>3</sup> Se l’obbligo di fornire informazioni è contestato, l’AFC prende una decisione.[^35-1]
 
 [^35-1]: Nuovo testo giusta il n. II 26 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
@@ -762,7 +767,7 @@ Il contribuente deve indicare coscienziosamente all’Amministrazione federale d
 
 **Informazioni di terzi**
 
-<sup>1</sup> Le persone (in particolare le banche, i notai e i fiduciari) che concorrono alla costituzione o all’aumento di capitale di una società devono indicare coscienziosamente all’Amministrazione federale delle contribuzioni, a sua richiesta, tutti i fatti che possono essere rilevanti per l’accertamento dell’obbligo fiscale e il calcolo delle tassa d’emissione.
+<sup>1</sup> Le persone (in particolare le banche, i notai e i fiduciari) che concorrono alla costituzione o all’aumento di capitale di una società devono indicare coscienziosamente all’AFC, a sua richiesta, tutti i fatti che possono essere rilevanti per l’accertamento dell’obbligo fiscale e il calcolo delle tassa d’emissione.
 
 <sup>2</sup> Se l’obbligo di fornire informazioni è contestato, l’articolo 35 capoverso 3 si applica per analogia.
 
@@ -770,23 +775,23 @@ Il contribuente deve indicare coscienziosamente all’Amministrazione federale d
 
 **Verifica**
 
-<sup>1</sup> L’Amministrazione federale delle contribuzioni controlla se viene soddisfatto l’obbligo di annunciarsi come contribuente e verifica i rendiconti e i versamenti della tassa.
+<sup>1</sup> L’AFC controlla se viene soddisfatto l’obbligo di annunciarsi come contribuente e verifica i rendiconti e i versamenti della tassa.
 
-<sup>2</sup> L’Amministrazione federale delle contribuzioni, per chiarire la fattispecie, può verificare sul posto i libri di commercio, i giustificativi e gli altri documenti del contribuente.
+<sup>2</sup> L’AFC, per chiarire la fattispecie, può verificare sul posto i libri di commercio, i giustificativi e gli altri documenti del contribuente.
 
 <sup>3</sup> Se risulta che il contribuente non ha soddisfatto agli obblighi di legge, deve essergli data la possibilità di spiegarsi in merito ai fatti contestatigli.
 
-<sup>4</sup> Se la controversia non può essere composta, l’Amministrazione federale delle contribuzioni prende una decisione.
+<sup>4</sup> Se la controversia non può essere composta, l’AFC prende una decisione.
 
 <sup>5</sup> Le constatazioni fatte in occasione di un controllo secondo il capoverso 1 o 2 presso una banca o una cassa di risparmio ai sensi della legge federale dell’8 novembre 1934[^37-1] su le banche e le casse di risparmio, o presso la Banca nazionale svizzera oppure presso una centrale d’emissione di obbligazioni fondiarie possono essere utilizzate soltanto per l’applicazione delle tasse di bollo. Il segreto bancario va rispettato.
 
 [^37-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 
-### II. Decisioni dell’Amministrazione federale delle contribuzioni
+### II. Decisioni dell’AFC
 
 #### Art. 38
 
-L’Amministrazione federale delle contribuzioni prende tutte le decisioni necessarie per la riscossione della tassa, in particolare quando:
+L’AFC prende tutte le decisioni necessarie per la riscossione della tassa, in particolare quando:
 
 - a. il credito fiscale o la responsabilità solidale sono contestati;
 - b. in un caso determinato, essa è richiesta di stabilire d’ufficio, a titolo preventivo, l’obbligo fiscale, le basi di calcolo della tassa o la responsabilità solidale;
@@ -796,35 +801,35 @@ L’Amministrazione federale delle contribuzioni prende tutte le decisioni neces
 
 [^chap5-lvlB-lvlIII-1]
 
-[^chap5-lvlB-lvlIII-1]: Nuovo testo giusta il n. 51 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^chap5-lvlB-lvlIII-1]: Nuovo testo giusta l’all. n. 51 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 39
 
 **...[^39-1]**
 
-<sup>1</sup> Le decisioni dell’Amministrazione federale delle contribuzioni possono essere impugnate con reclamo nel termine di 30 giorni dalla notificazione.
+<sup>1</sup> Le decisioni dell’AFC possono essere impugnate con reclamo nel termine di 30 giorni dalla notificazione.
 
-<sup>2</sup> Il reclamo deve essere presentato per scritto all’Amministrazione federale delle contribuzioni; esso deve contenere conclusioni precise e indicare i fatti sui quali è fondato.
+<sup>2</sup> Il reclamo deve essere presentato per scritto all’AFC; esso deve contenere conclusioni precise e indicare i fatti sui quali è fondato.
 
-<sup>3</sup> Se il reclamo è ammissibile, l’Amministrazione federale delle contribuzioni riesamina la decisione senza essere vincolata dalle conclusioni presentate.
+<sup>3</sup> Se il reclamo è ammissibile, l’AFC riesamina la decisione senza essere vincolata dalle conclusioni presentate.
 
 <sup>4</sup> La procedura di reclamo è continuata, anche se il reclamo è ritirato, quando vi sono indizi che la decisione impugnata non è conforme alla legge.
 
 <sup>5</sup> La decisione su reclamo deve essere motivata e indicare i rimedi giuridici.
 
-[^39-1]: Abrogata dal n. 51 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^39-1]: Abrogata dall’all. n. 51 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 39a
 
 [^39a-1]
 
-[^39a-1]: Introdotto dal n. 26 dell’all. alla LF del 4 ott. 1991 ([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Abrogato dal n. 51 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^39a-1]: Introdotto dall’all. n. 26 della LF del 4 ott. 1991 ([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Abrogato dall’all. n. 51 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 40
 
 [^40-1]
 
-[^40-1]: Nuovo testo giusta il n. 26 dell’all. alla LF del 4 ott. 1991([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Abrogato dal n. 51 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^40-1]: Nuovo testo giusta l’all. n. 26 della LF del 4 ott. 1991([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Abrogato dall’all. n. 51 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### IV. Spese
 
@@ -833,6 +838,20 @@ L’Amministrazione federale delle contribuzioni prende tutte le decisioni neces
 <sup>1</sup> Le procedure di riscossione e di reclamo sono, di regola, gratuite.
 
 <sup>2</sup> Qualunque sia il risultato della procedura, le spese delle indagini possono essere addossate a chi le abbia cagionate per colpa propria.
+
+### IV*a*.**** Procedure elettroniche
+
+[^chap5-lvlB-lvlIVa-1]
+
+[^chap5-lvlB-lvlIVa-1]: Introdotto dal n. I 1 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
+#### Art. 41a
+
+<sup>1</sup> Il Consiglio federale può prescrivere lo svolgimento per via elettronica delle procedure previste dalla presente legge. Ne disciplina le modalità.
+
+<sup>2</sup> In caso di svolgimento di procedure per via elettronica, l’AFC garantisce l’autenticità e l’integrità dei dati trasmessi.
+
+<sup>3</sup> In caso di presentazione per via elettronica di atti scritti per i quali la legge prescrive la firma, l’AFC può riconoscere, invece della firma elettronica qualificata, un’altra modalità di conferma dei dati per via elettronica da parte del contribuente.
 
 ### V. Esecuzione forzata
 
@@ -850,7 +869,7 @@ L’Amministrazione federale delle contribuzioni prende tutte le decisioni neces
 
 <sup>1</sup>
 
-L’Amministrazione federale delle contribuzioni può esigere garanzie per le tasse, gli interessi e le spese, anche se non siano ancora accertati con decisione passata in giudicato, né scaduti, quando:
+L’AFC può esigere garanzie per le tasse, gli interessi e le spese, anche se non siano ancora accertati con decisione passata in giudicato, né scaduti, quando:
 
 - a. l’esazione appare in pericolo;
 - b. il debitore della tassa non ha domicilio in Svizzera o si appresta ad abbandonare il domicilio in Svizzera o prende disposizioni per farsi radiare dal registro di commercio;
@@ -858,28 +877,28 @@ L’Amministrazione federale delle contribuzioni può esigere garanzie per le ta
 
 <sup>2</sup> La richiesta di garanzie deve indicarne la causa giuridica, l’ammontare da garantire e l’ufficio incaricato di riceverle. Se la richiesta di garanzie si fonda sul capoverso 1 lettere a o b, essa vale come decreto di sequestro, di cui all’articolo 274 della legge federale dell’11 aprile 1889[^43-1] sulla esecuzione e sul fallimento. L’opposizione al decreto di sequestro non è ammessa.[^43-2]
 
-<sup>3</sup> Le richieste di garanzia dell’Amministrazione federale delle contribuzioni possono essere impugnate mediante ricorso al Tribunale amministrativo federale.[^43-3]
+<sup>3</sup> Le richieste di garanzia dell’AFC possono essere impugnate mediante ricorso al Tribunale amministrativo federale.[^43-3]
 
 <sup>4</sup> Il ricorso contro la richiesta di garanzia non ha effetto sospensivo.[^43-4]
 
 <sup>5</sup> ...[^43-5]
 
 [^43-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^43-2]: Nuovo testo giusta il n. 10 dell’all. alla LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)1307; [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^43-3]: Nuovo testo giusta il n. 51 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^43-4]: Introdotto dal n. 26 dell’all. alla LF del 4 ott. 1991([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Nuovo testo giusta il n. 51 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^43-5]: Introdotto dal n. 26 dell’all. alla LF del 4 ott. 1991 ([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Abrogato dal n. 51 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^43-2]: Nuovo testo giusta l’all. n. 10 della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)1307; [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^43-3]: Nuovo testo giusta l’all. n. 51 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^43-4]: Introdotto dall’all. n. 26 della LF del 4 ott. 1991([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Nuovo testo giusta l’all. n. 51 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^43-5]: Introdotto dall’all. n. 26 della LF del 4 ott. 1991 ([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Abrogato dall’all. n. 51 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### C. Revisione e interpretazione delle decisioni
 
 #### Art. 44
 
-<sup>1</sup> Gli articoli 66 a 69 della legge federale del 20 dicembre 1968[^44-1] sulla procedura amministrativa sono applicabili per analogia alla revisione e all’interpretazione delle decisioni dell’Amministrazione federale delle contribuzioni.
+<sup>1</sup> Gli articoli 66 a 69 della legge federale del 20 dicembre 1968[^44-1] sulla procedura amministrativa sono applicabili per analogia alla revisione e all’interpretazione delle decisioni dell’AFC.
 
 <sup>2</sup> ...[^44-2]
 
 [^44-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^44-2]: Abrogato dal n. 51 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^44-2]: Abrogato dall’all. n. 51 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## Capo sesto: Disposizioni penali
 
@@ -889,7 +908,7 @@ L’Amministrazione federale delle contribuzioni può esigere garanzie per le ta
 
 [^chap6-lvlA-lvlI-1]
 
-[^chap6-lvlA-lvlI-1]: Nuovo testo giusta il n. 8 dell’all. al DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^chap6-lvlA-lvlI-1]: Nuovo testo giusta l’all. n. 8 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
 #### Art. 45
 
@@ -898,8 +917,8 @@ L’Amministrazione federale delle contribuzioni può esigere garanzie per le ta
 <sup>2</sup> a <sup>4</sup> ...[^45-3]
 
 [^45-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^45-2]: Nuovo testo giusta il n. 8 dell’all. al DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^45-3]: Abrogati dal n. 8 dell’all. al DPA, con effetto dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^45-2]: Nuovo testo giusta l’all. n. 8 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^45-3]: Abrogati dall’all. n. 8 del DPA, con effetto dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
 ### II. Messa in pericolo della tassa
 
@@ -919,8 +938,8 @@ Chiunque, intenzionalmente o per negligenza, compromette la riscossione legale d
 <sup>2</sup> È riservata l’azione penale conformemente all’articolo 285 del Codice penale svizzero[^46-4], quando trattasi di un’infrazione nel senso del capoverso 1 lettera e.
 
 [^46-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^46-2]: Nuovo testo dell’ultimo comma giusta il n. 8 dell’all. al DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^46-3]: Nuovo testo giusta il n. 8 dell’all. al DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^46-2]: Nuovo testo dell’ultimo comma giusta l’all. n. 8 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^46-3]: Nuovo testo giusta l’all. n. 8 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^46-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ### III. Inosservanza di prescrizioni d’ordine
@@ -941,22 +960,22 @@ chiunque contravviene a una prescrizione della presente legge o di un’ordinanz
 
 [^4849-1]
 
-[^4849-1]: Abrogati dal n. 8 dell’all. al DPA, con effetto dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^4849-1]: Abrogati dall’all. n. 8 del DPA, con effetto dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
 ### B. Rapporto con la legge federale sul diritto penale amministrativo****
 
 [^chap6-lvlB-1]
 
-[^chap6-lvlB-1]: Nuovo testo giusta il n. 8 dell’all. al DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^chap6-lvlB-1]: Nuovo testo giusta l’all. n. 8 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
 #### Art. 50
 
-<sup>1</sup> La legge federale del 22 marzo 1974[^50-1] sul diritto penale amministrativo è applicabile; l’autorità amministrativa incaricata del procedimento e del giudizio a tenore di quella legge è l’Amministrazione federale delle contribuzioni.[^50-2]
+<sup>1</sup> La legge federale del 22 marzo 1974[^50-1] sul diritto penale amministrativo è applicabile; l’autorità amministrativa incaricata del procedimento e del giudizio a tenore di quella legge è l’AFC.[^50-2]
 
 <sup>2</sup> ...[^50-3]
 
 [^50-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^50-2]: Nuovo testo giusta il n. 8 dell’all. al DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^50-2]: Nuovo testo giusta l’all. n. 8 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^50-3]: Abrogato dal n. I della LF del 5 ott. 1984, con effetto dal 1° gen. 1986 ([RU 1985 1963](https://fedlex.data.admin.ch/eli/oc/1985/1963_1963_1963); [FF 1981 III 677](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
 
 ## Capo settimo: Disposizioni finali e transitorie
