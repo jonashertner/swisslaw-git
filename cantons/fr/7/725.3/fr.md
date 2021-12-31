@@ -4,13 +4,13 @@ number: "725.3"
 title: Loi sur la détention des chiens
 short: LDCh
 language: fr
-version: 2017-01-01
-valid_until: 2021-12-31
-version_adopted: 2016-06-16
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-10-06
 adopted: 2006-11-02
 in_force: 2007-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/725.3"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6406/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7126/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Détention des chiens – L
 
 (LDCh)
 
-du 02.11.2006 (version entrée en vigueur le 01.01.2017)
+du 02.11.2006 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -337,7 +337,7 @@ Décrète:
 
 <sup>3</sup> Le Service encourage en outre l'information des détenteurs et détentrices de chiens ainsi que de la population, et plus particulièrement des personnes âgées et des enfants, sur les mêmes thèmes.
 
-[^29-1]: Actuellement: Direction de l'instruction publique, de la culture et du sport.
+[^29-1]: Actuellement: Direction de la formation et des affaires culturelles.
 
 #### Art. 30
 
@@ -469,49 +469,31 @@ Décrète:
 
 <sup>1</sup> Est passible de l'amende la personne qui contrevient intentionnellement aux dispositions des articles 16, 19 al. 1 à 3, 20 al. 1, 21 al. 1, 25 al. 1, 26 al. 3, 31, 34 al. 1, 35 al. 1 et 39.
 
-<sup>2</sup> Les contraventions sujettes à la procédure d'amendes d'ordre demeurent réservées.
+<sup>2</sup> Les infractions aux dispositions de la présente loi et à celles de sa réglementation d'exécution que la législation cantonale sur les amendes d'ordre sanctionne par l'amende d'ordre demeurent réservées.
 
 #### Art. 44a
 
-**Amendes d'ordre – Principes**
-
-<sup>1</sup> Le Conseil d'Etat fixe les cas dans lesquels des contraventions de peu d'importance peuvent être sanctionnées par des amendes d'ordre et détermine le montant forfaitaire de ces amendes.
-
-<sup>2</sup> La limite supérieure du montant des amendes d'ordre correspond à celle qui est prévue par la loi fédérale sur les amendes d'ordre.
+**…**
 
 #### Art. 44b
 
-**Amendes d'ordre – Concours de plusieurs contraventions**
-
-<sup>1</sup> En cas de contraventions à une ou plusieurs dispositions réprimées par plusieurs amendes d'ordre, celles-ci sont cumulées pour constituer une amende globale.
+**…**
 
 #### Art. 44c
 
-**Amendes d'ordre – Compétence et mode de sanction**
-
-<sup>1</sup> Outre les membres de la Police cantonale, le ou la vétérinaire cantonal-e, les vétérinaires officiels ainsi que le personnel de surveillance du service chargé des forêts et de la faune[^44c-1] constatent les contraventions.
-
-<sup>2</sup> Le cas échéant, ces personnes infligent les amendes d'ordre au moyen de formules officielles.
-
-[^44c-1]: Actuellement: Service des forêts et de la nature.
+**…**
 
 #### Art. 44d
 
-**Amendes d'ordre – Paiement ou dénonciation**
-
-<sup>1</sup> Le contrevenant ou la contrevenante peut payer l'amende d'ordre immédiatement ou dans les trente jours.
-
-<sup>2</sup> En cas de paiement immédiat, une quittance est établie.
-
-<sup>3</sup> A défaut de paiement immédiat ou dans les trente jours qui suivent, l'infraction est dénoncée au préfet, qui statue conformément à la loi sur la justice.
+**…**
 
 #### Art. 44e
 
 **Procédure et infractions aux dispositions d'exécution**
 
-<sup>1</sup> La poursuite et le jugement des infractions ont lieu conformément à la présente loi et à la loi sur la justice.
+<sup>1</sup> La poursuite et le jugement des infractions ont lieu conformément à la loi sur la justice. La législation cantonale et fédérale sur les amendes d'ordre demeure réservée.
 
-<sup>2</sup> Le Conseil d'Etat est autorisé à prévoir la répression d'infractions aux dispositions d'exécution de la présente loi.
+<sup>2</sup> …
 
 ## 7 Redevances
 

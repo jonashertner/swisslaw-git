@@ -4,13 +4,13 @@ number: "725.3"
 title: Gesetz über die Hundehaltung
 short: HHG
 language: de
-version: 2017-01-01
-valid_until: 2021-12-31
-version_adopted: 2016-06-16
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-10-06
 adopted: 2006-11-02
 in_force: 2007-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/725.3"
-pdf: "https://bdlf.fr.ch/api/de/versions/6406/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7126/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Hundehaltung – G
 
 (HHG)
 
-vom 02.11.2006 (Fassung in Kraft getreten am 01.01.2017)
+vom 02.11.2006 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -337,7 +337,7 @@ beschliesst:
 
 <sup>3</sup> Das Amt fördert ausserdem die Information der Hundehalterinnen und -halter sowie der Bevölkerung, insbesondere älterer Personen und Kinder, zu diesen Themen.
 
-[^29-1]: Heute: Direktion für Erziehung, Kultur und Sport.
+[^29-1]: Heute: Direktion für Bildung und kulturelle Angelegenheiten.
 
 #### Art. 30
 
@@ -469,49 +469,31 @@ beschliesst:
 
 <sup>1</sup> Wer absichtlich gegen die Bestimmungen der Artikel 16, 19 Abs. 1–3, 20 Abs. 1, 21 Abs. 1, 25 Abs. 1, 26 Abs. 3, 31, 34 Abs. 1, 35 Abs. 1 und 39 verstösst, wird mit Busse bestraft.
 
-<sup>2</sup> Übertretungen, auf die das Ordnungsbussenverfahren anwendbar ist, bleiben vorbehalten.
+<sup>2</sup> Verstösse gegen Bestimmungen dieses Gesetzes und seiner Ausführungsbestimmungen, die gemäss kantonaler Ordnungsbussengesetzgebung mit Ordnungsbusse bestraft werden, bleiben vorbehalten.
 
 #### Art. 44a
 
-**Ordnungsbussen – Grundsatz**
-
-<sup>1</sup> Der Staatsrat bestimmt, in welchen Fällen geringfügige Übertretungen mit Ordnungsbussen geahndet werden können, und setzt den Pauschalbetrag dieser Bussen fest.
-
-<sup>2</sup> Der Höchstbetrag dieser Ordnungsbussen entspricht demjenigen des Ordnungsbussengesetzes des Bundes.
+**…**
 
 #### Art. 44b
 
-**Ordnungsbussen – Zusammentreffen mehrerer Übertretungen**
-
-<sup>1</sup> Werden durch eine oder mehrere Übertretungen mehrere Ordnungsbussentatbestände erfüllt, so werden die Bussen zusammengezählt, und es wird eine Gesamtbusse auferlegt.
+**…**
 
 #### Art. 44c
 
-**Ordnungsbussen – Zuständigkeit und Art der Strafe**
-
-<sup>1</sup> Neben den Mitgliedern der Kantonspolizei stellen die Kantonstierärztin oder der Kantonstierarzt, die amtlichen Tierärztinnen und Tierärzte und das Aufsichtspersonal des für Wald, Wild und Fischerei zuständigen Amts[^44c-1] die Übertretungen fest.
-
-<sup>2</sup> Gegebenenfalls verhängen diese Personen Ordnungsbussen mit offiziellem Formular.
-
-[^44c-1]: Heute: Amt für Wald und Natur.
+**…**
 
 #### Art. 44d
 
-**Ordnungsbussen – Bezahlung oder Anzeige**
-
-<sup>1</sup> Die Person, welche die Übertretung begangen hat, muss die Ordnungsbusse sofort oder innert 30 Tagen bezahlen.
-
-<sup>2</sup> Bei sofortiger Bezahlung wird eine Quittung ausgestellt.
-
-<sup>3</sup> Wird die Busse weder sofort noch während den folgenden 30 Tagen bezahlt, so wird die Widerhandlung der Oberamtsperson angezeigt, die gemäss dem Justizgesetz entscheidet.
+**…**
 
 #### Art. 44e
 
 **Verfahren und Widerhandlungen gegen Ausführungsbestimmungen**
 
-<sup>1</sup> Widerhandlungen werden nach diesem Gesetz und nach dem Justizgesetz verfolgt und beurteilt.
+<sup>1</sup> Widerhandlungen werden nach dem Justizgesetz verfolgt und beurteilt. Die Ordnungsbussengesetzgebung von Kanton und Bund bleibt vorbehalten.
 
-<sup>2</sup> Der Staatsrat kann die strafrechtliche Verfolgung von Widerhandlungen gegen Ausführungsbestimmungen dieses Gesetzes vorsehen.
+<sup>2</sup> …
 
 ## 7 Gebühren
 
