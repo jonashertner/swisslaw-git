@@ -4,13 +4,13 @@ number: "301.215"
 title: Pflegeverordnung
 short: PflV
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-10-16
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-15
 adopted: 2012-11-21
 in_force: 2013-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/301.215"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2786/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3148/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2786/pdf_file"
 
 (PflV)
 
-Vom 21.11.2012 (Stand 01.01.2020)
+Vom 21.11.2012 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -291,7 +291,11 @@ beschliesst:
 
 **Rechnungslegung**
 
-<sup>1</sup> Die stationären Leistungserbringer führen eine Leistungserfassung sowie eine Kostenrechnung, welche die Kostenarten, die Kostenstellen und die Kostenträger umfasst. Für die Rechnungslegung sind die Handbücher «Kostenrechnung und Leistungsstatistik für Alters- und Pflegeheime 2011» sowie «Anlagebuchhaltung für Alters- und Pflegeheime» von Curaviva, H+ die Spitäler der Schweiz und SenéSuisse massgebend. Bei Bedarf kann das Departement konkretisierende Erläuterungen dazu erlassen.
+<sup>1</sup> Die stationären Leistungserbringer führen eine Leistungserfassung sowie eine Kostenrechnung, welche die Kostenarten, die Kostenstellen und die Kostenträger umfasst. Für die Rechnungslegung sind die Handbücher «Kostenrechnung und Leistungsstatistik für Alters- und Pflegeheime 2019» sowie «Anlagebuchhaltung für Alters- und Pflegeheime» von Curaviva[^20-1], H+ Die Spitäler der Schweiz[^20-2] und senesuisse[^20-3] massgebend. Bei Bedarf kann das Departement konkretisierende Erläuterungen dazu erlassen.
+
+[^20-1]: [http://www.curaviva.ch](http://www.curaviva.ch)
+[^20-2]: [http://www.hplus.ch](http://www.hplus.ch)
+[^20-3]: [http://www.senesuisse.ch](http://www.senesuisse.ch)
 
 #### § 21
 
@@ -447,7 +451,9 @@ beschliesst:
 
 **Rechnungslegung**
 
-<sup>1</sup> Die ambulanten Leistungserbringer führen eine Leistungserfassung sowie eine Kostenrechnung, welche die Kostenarten, die Kostenstellen und die Kostenträger umfasst. Für die Rechnungslegung ist das Finanzmanual 2011 des Spitex Verbands Schweiz massgebend. Bei Bedarf kann das Departement konkretisierende Erläuterungen dazu erlassen.
+<sup>1</sup> Die ambulanten Leistungserbringer führen eine Leistungserfassung sowie eine Kostenrechnung, welche die Kostenarten, die Kostenstellen und die Kostenträger umfasst. Für die Rechnungslegung ist das Finanzmanual 2020 des Spitex Verbands Schweiz[^33-1] massgebend. Bei Bedarf kann das Departement konkretisierende Erläuterungen dazu erlassen.
+
+[^33-1]: [http://www.spitex.ch](http://www.spitex.ch)
 
 #### § 34
 
