@@ -3,18 +3,18 @@ sr: "631.016"
 title: Ordinanza del DFF del 4 aprile 2007 concernente il traffico di perfezionamento
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/254"
 language: it
-version: 2012-03-01
+version: 2022-01-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/254/20120301/it/xml/fedlex-data-admin-ch-eli-cc-2007-254-20120301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/254/20120301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/254/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-254-20220101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/254/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFF concernente il traffico di perfezionamento
 
-del 4 aprile 2007 (Stato 1° marzo 2012)
+del 4 aprile 2007 (Stato 1° gennaio 2022)
 
 Il Dipartimento federale delle finanze,
 
@@ -22,7 +22,7 @@ visti gli articoli 43 capoverso 2, 168 capoverso 3, 170 capoverso 3 e 173 capove
 
 ordina:
 
-[^ingress-1]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^ingress-1]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 ## Sezione 1: Agevolazioni procedurali
 
@@ -80,8 +80,8 @@ Il traffico di perfezionamento attivo secondo il regime speciale per prodotti e 
 
 <sup>2</sup> Le merci di cui al capoverso 1 lettera a e quelle di cui al capoverso 1 lettera b possono essere scambiate tra loro
 
-[^3-1]: Nuovo testo giusta il n. I dell'O del DFF del 14 feb. 2012, in vigore dal 1° mar. 2012 ([RU 2012 787](https://fedlex.data.admin.ch/eli/oc/2012/117)).
-[^3-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^3-1]: Nuovo testo giusta il n. I dell’O del DFF del 14 feb. 2012, in vigore dal 1° mar. 2012 ([RU 2012 787](https://fedlex.data.admin.ch/eli/oc/2012/117)).
+[^3-2]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 4
 
@@ -89,14 +89,15 @@ Il traffico di perfezionamento attivo secondo il regime speciale per prodotti e 
 
 <sup>1</sup> Le merci di cui all’articolo 3 capoverso 1, importate nel regime di perfezionamento attivo, devono essere dichiarate per l’immissione in libera pratica. I tributi doganali sono restituiti se i prodotti perfezionati, contenenti merci di cui all’articolo 3 capoverso 1, sono dichiarati nel regime d’esportazione.
 
-<sup>2</sup> La restituzione deve essere chiesta già nella dichiarazione doganale d’esportazione. Per la restituzione occorre inoltre presentare all’Amministrazione federale delle dogane (AFD) una domanda scritta entro 13 mesi dalla prima esportazione delle merci.[^4-1]
+<sup>2</sup> La restituzione deve essere chiesta già nella dichiarazione doganale d’esportazione. Per la restituzione occorre inoltre presentare all’ Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^4-1] una domanda scritta entro 13 mesi dalla prima esportazione delle merci.[^4-2]
 
 <sup>3</sup> La domanda deve comprendere le esportazioni nell’intervallo da uno a 12 mesi.
 
-<sup>4</sup> Per la restituzione l’AFD può chiedere la presentazione di decisioni d’imposizione. Queste devono essere state emanate in correlazione temporale con il periodo della domanda.[^4-2]
+<sup>4</sup> Per la restituzione l’UDSC può chiedere la presentazione di decisioni d’imposizione. Queste devono essere state emanate in correlazione temporale con il periodo della domanda.[^4-3]
 
-[^4-1]: Nuovo testo giusta il n. I dell'O del DFF del 14 feb. 2012, in vigore dal 1° mar. 2012 ([RU 2012 787](https://fedlex.data.admin.ch/eli/oc/2012/117)).
-[^4-2]: Nuovo testo giusta il n. I dell'O del DFF del 14 feb. 2012, in vigore dal 1° mar. 2012 ([RU 2012 787](https://fedlex.data.admin.ch/eli/oc/2012/117)).
+[^4-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^4-2]: Nuovo testo giusta il n. I dell’O del DFF del 14 feb. 2012, in vigore dal 1° mar. 2012 ([RU 2012 787](https://fedlex.data.admin.ch/eli/oc/2012/117)).
+[^4-3]: Nuovo testo giusta il n. I dell’O del DFF del 14 feb. 2012, in vigore dal 1° mar. 2012 ([RU 2012 787](https://fedlex.data.admin.ch/eli/oc/2012/117)).
 
 #### Art. 5
 
@@ -119,7 +120,7 @@ Le aliquote di restituzione per i seguenti prodotti di uova si basano sull’ali
 - c. uova intere, essiccate, delle voci della tariffa doganale 0408.9110/9190: franchi 156.73 per 100 chilogrammi massa netta;
 - d. uova intere, fresche, congelate o pastorizzate, delle voci della tariffa doganale 0408.9910/9990: franchi 43.23 per 100 chilogrammi massa netta.[^5-1]
 
-[^5-1]: Introdotto dal n. I dell'O del DFF del 14 feb. 2012, in vigore dal 1° mar. 2012 ([RU 2012 787](https://fedlex.data.admin.ch/eli/oc/2012/117)).
+[^5-1]: Introdotto dal n. I dell’O del DFF del 14 feb. 2012, in vigore dal 1° mar. 2012 ([RU 2012 787](https://fedlex.data.admin.ch/eli/oc/2012/117)).
 
 #### Art. 6
 
@@ -139,7 +140,7 @@ Le aliquote di restituzione per i seguenti prodotti di uova si basano sull’ali
 
 L’ordinanza del DFF del 19 giugno 1995[^7-1] concernente la concessione di agevolazioni doganali sui prodotti agricoli di base nel traffico di perfezionamento attivo è abrogata.
 
-[^7-1]: [[RU 1995 3206](https://fedlex.data.admin.ch/eli/oc/1995/3206_3206_3206), [2000 2667](https://fedlex.data.admin.ch/eli/oc/2000/433), [2002 411](https://fedlex.data.admin.ch/eli/oc/2002/94), [2004 5049](https://fedlex.data.admin.ch/eli/oc/2004/776),[2005 1043](https://fedlex.data.admin.ch/eli/oc/2005/131)[3553](https://fedlex.data.admin.ch/eli/oc/2005/509)]
+[^7-1]: [[RU 1995 3206](https://fedlex.data.admin.ch/eli/oc/1995/3206_3206_3206); [2000 2667](https://fedlex.data.admin.ch/eli/oc/2000/433); [2002 411](https://fedlex.data.admin.ch/eli/oc/2002/94); [2004 5049](https://fedlex.data.admin.ch/eli/oc/2004/776);[2005 1043](https://fedlex.data.admin.ch/eli/oc/2005/131), [3553](https://fedlex.data.admin.ch/eli/oc/2005/509)]
 
 #### Art. 8
 

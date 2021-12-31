@@ -3,18 +3,18 @@ sr: "631.016"
 title: Ordonnance du DFF du 4 avril 2007 sur le trafic de perfectionnement
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/254"
 language: fr
-version: 2012-03-01
+version: 2022-01-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/254/20120301/fr/xml/fedlex-data-admin-ch-eli-cc-2007-254-20120301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/254/20120301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/254/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-254-20220101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/254/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFF sur le trafic de perfectionnement
 
-du 4 avril 2007 (Etat le 1<sup>er</sup> mars 2012)
+du 4 avril 2007 (État le 1<sup>er</sup> janvier 2022)
 
 Le Département fédéral des finances,
 
@@ -22,7 +22,7 @@ vu les art. 43, al. 2, 168, al. 3, 170, al. 3, et 173, al. 3, de l’ordonnance 
 
 arrête:
 
-[^ingress-1]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^ingress-1]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 ## Section 1 Facilités de procédure
 
@@ -81,7 +81,7 @@ Le trafic de perfectionnement actif selon le régime spécial applicable aux pro
 <sup>2</sup> Les marchandises visées à l’al. 1, let. a, peuvent être mélangées entre elles; il en va de même pour les marchandises visées à l’al. 1, let. b.
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 14 fév. 2012, en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2012 787](https://fedlex.data.admin.ch/eli/oc/2012/117)).
-[^3-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^3-2]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 4
 
@@ -89,14 +89,15 @@ Le trafic de perfectionnement actif selon le régime spécial applicable aux pro
 
 <sup>1</sup> Les marchandises visées à l’art. 3, al. 1, qui sont importées pour perfectionnement actif doivent être déclarées pour la mise en libre pratique. Les droits de douane sont remboursés lorsque des produits compensateurs contenant des marchandises visées à l’art. 3, al. 1, sont déclarées pour le régime de l’exportation.
 
-<sup>2</sup> Le remboursement doit déjà être demandé dans la déclaration en douane d’exportation. Il doit en plus faire l’objet d’une demande écrite à l’Administration fédérale des douanes (AFD) dans les treize mois suivant la première exportation de marchandises.[^4-1]
+<sup>2</sup> Le remboursement doit déjà être demandé dans la déclaration en douane d’exportation. Il doit en plus faire l’objet d’une demande écrite à l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^4-1] dans les treize mois suivant la première exportation de marchandises.[^4-2]
 
 <sup>3</sup> La demande doit porter sur les exportations d’une période d’un à douze mois.
 
-<sup>4</sup> L’AFD peut exiger que des décisions de taxation lui soient présentées pour le remboursement. Les décisions de taxation doivent avoir été établies à une période correspondant à celle sur laquelle porte la demande.[^4-2]
+<sup>4</sup> L’OFDF peut exiger que des décisions de taxation lui soient présentées pour le remboursement. Les décisions de taxation doivent avoir été établies à une période correspondant à celle sur laquelle porte la demande.[^4-3]
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 14 fév. 2012, en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2012 787](https://fedlex.data.admin.ch/eli/oc/2012/117)).
+[^4-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 14 fév. 2012, en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2012 787](https://fedlex.data.admin.ch/eli/oc/2012/117)).
+[^4-3]: Nouvelle teneur selon le ch. I de l’O du DFF du 14 fév. 2012, en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2012 787](https://fedlex.data.admin.ch/eli/oc/2012/117)).
 
 #### Art. 5
 
@@ -139,7 +140,7 @@ Les taux de remboursement applicables aux ovoproduits suivants sont fondés sur 
 
 L’ordonnance du DFF du 19 juin 1995 réglant l’octroi d’allégements douaniers pour des produits agricoles de base dans le trafic de perfectionnement actif[^7-1] est abrogée.
 
-[^7-1]: [[RO 1995 3206](https://fedlex.data.admin.ch/eli/oc/1995/3206_3206_3206), [2000 2667](https://fedlex.data.admin.ch/eli/oc/2000/433), [2002 411](https://fedlex.data.admin.ch/eli/oc/2002/94), [2004 5049](https://fedlex.data.admin.ch/eli/oc/2004/776), [2005 1043](https://fedlex.data.admin.ch/eli/oc/2005/131)[3553](https://fedlex.data.admin.ch/eli/oc/2005/509)]
+[^7-1]: [[RO 1995 3206](https://fedlex.data.admin.ch/eli/oc/1995/3206_3206_3206); [2000 2667](https://fedlex.data.admin.ch/eli/oc/2000/433); [2002 411](https://fedlex.data.admin.ch/eli/oc/2002/94); [2004 5049](https://fedlex.data.admin.ch/eli/oc/2004/776); [2005 1043](https://fedlex.data.admin.ch/eli/oc/2005/131), [3553](https://fedlex.data.admin.ch/eli/oc/2005/509)]
 
 #### Art. 8
 

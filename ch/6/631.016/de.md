@@ -3,18 +3,18 @@ sr: "631.016"
 title: Verordnung des EFD vom 4. April 2007 über den Veredelungsverkehr
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/254"
 language: de
-version: 2012-03-01
+version: 2022-01-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/254/20120301/de/xml/fedlex-data-admin-ch-eli-cc-2007-254-20120301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/254/20120301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/254/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-254-20220101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/254/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EFD über den Veredelungsverkehr
 
-vom 4. April 2007 (Stand am 1. März 2012)
+vom 4. April 2007 (Stand am 1. Januar 2022)
 
 Das Eidgenössische Finanzdepartement,
 
@@ -22,7 +22,7 @@ gestützt auf die Artikel 43 Absatz 2, 168 Absatz 3, 170 Absatz 3 und 173 Absatz
 
 verordnet:
 
-[^ingress-1]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^ingress-1]: [SR 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 ## 1. Abschnitt: Verfahrenserleichterungen
 
@@ -44,7 +44,7 @@ Sind die Zollstellen von der Oberzolldirektion (OZD) zur Erteilung der Bewilligu
   - 1\. als Veredelungserzeugnis ausgeführt worden sind, oder
   - 2\. nach Artikel 44 oder 169 ZV veranlagt worden sind.
 
-<sup>2</sup> Die OZD kann die Verfahrenserleichterungen auch für Bewilligungen vorsehen, die sie selbst erteilt.
+<sup>2</sup> Die OZD kann die Verfahrenserleichterungen auch für Bewilligungen vorsehen, die es selbst erteilt.
 
 #### Art. 2
 
@@ -58,7 +58,7 @@ Sind die Zollstellen von der OZD zur Erteilung der Bewilligung für den passiven
 - b. Die Zollanmeldung für die Verbringung der Veredelungserzeugnisse ins Zollgebiet gilt als Gesuch um definitive Zollermässigung oder Zollbefreiung nach Artikel 173 Absatz 2 Buchstabe a ZV.
 - c. Das Verfahren der passiven Veredelung gilt auch ohne den Nachweis nach Artikel 173 Absatz 2 Buchstabe c ZV als ordnungsgemäss abgeschlossen, wenn die Veredelungserzeugnisse innerhalb der von der Zollstelle gesetzten Frist ins Zollgebiet verbracht worden sind.
 
-<sup>2</sup> Die OZD kann die Verfahrenserleichterungen auch für Bewilligungen vorsehen, die sie selbst erteilt.
+<sup>2</sup> Die OZD kann die Verfahrenserleichterungen auch für Bewilligungen vorsehen, die es selbst erteilt.
 
 ## 2. Abschnitt: Aktiver Veredelungsverkehr nach dem besonderen Verfahren für landwirtschaftliche Erzeugnisse und Grundstoffe
 
@@ -70,17 +70,18 @@ Sind die Zollstellen von der OZD zur Erteilung der Bewilligung für den passiven
 
 Der aktive Veredelungsverkehr nach dem besonderen Verfahren für landwirtschaftliche Erzeugnisse und Grundstoffe nach Artikel 170 ZV ist beschränkt auf:
 
-- a. pflanzliche Speiseöle und Speisefette des Kapitels 15 von Anhang 1 des Zolltarifgesetzes vom 9. Oktober 1986[^3-2] (ZTG)
+- a. pflanzliche Speiseöle und Speisefette des Kapitels 15 von Anhang 1 des Zolltarifgesetzes vom 9. Oktober 1986[^3-2] (ZTG);
 - b. tierische Speiseöle und Speisefette des Kapitels 15 von Anhang 1 ZTG;
-- c. Saccharose, ausgenommen Roh-Rohrzucker,
+- c. Saccharose, ausgenommen Roh-Rohrzucker;
 - d. andere Zucker und Melassen der Zolltarifnummern 1702 und 1703 ausgenommen Zucker, Sirupe und Melassen, aromatisiert oder gefärbt sowie chemisch reine Fructose und Maltose, sofern diese in Form von verarbeiteten Nahrungsmitteln der Kapitel 15–22 von Anhang 1 ZTG ausgeführt werden;
 - e. Hartweizen;
 - f. Butter;
 - g. Vogeleier in der Schale, frisch, als Verarbeitungseier für die Nahrungsmittelindustrie bestimmt, sofern sie zu Eiprodukten nach Artikel 5 Absatz 5 verarbeitet und in Form von verarbeiteten Nahrungsmitteln der Kapitel 15–22 von Anhang 1 ZTG ausgeführt werden.
-- [tab] <sup>2</sup> Die Waren nach Absatz 1 Buchstabe a und die Waren nach Absatz 1 Buchstabe b können jeweils unter sich ausgetauscht werden.
+
+<sup>2</sup> Die Waren nach Absatz 1 Buchstabe a und die Waren nach Absatz 1 Buchstabe b können jeweils unter sich ausgetauscht werden.
 
 [^3-1]: Fassung gemäss Ziff. I der V des EFD vom 14. Febr. 2012, in Kraft seit 1. März 2012 ([AS 2012 787](https://fedlex.data.admin.ch/eli/oc/2012/117)).
-[^3-2]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^3-2]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 4
 
@@ -88,14 +89,15 @@ Der aktive Veredelungsverkehr nach dem besonderen Verfahren für landwirtschaftl
 
 <sup>1</sup> Die Waren nach Artikel 3 Absatz 1, die zur aktiven Veredelung eingeführt werden, müssen zur Überführung in den zollrechtlich freien Verkehr angemeldet werden. Die Zollabgaben werden rückerstattet, wenn Veredelungserzeugnisse, die Waren nach Artikel 3 Absatz 1 enthalten, zum Ausfuhrverfahren angemeldet werden.
 
-<sup>2</sup> Die Rückerstattung muss bereits in der Zollanmeldung für die Ausfuhr beantragt werden. Für die Rückerstattung muss zusätzlich ein schriftliches Gesuch innerhalb von dreizehn Monaten nach der ersten Warenausfuhr an die Eidgenössische Zollverwaltung gestellt werden.[^4-1]
+<sup>2</sup> Die Rückerstattung muss bereits in der Zollanmeldung für die Ausfuhr beantragt werden. Für die Rückerstattung muss zusätzlich ein schriftliches Gesuch innerhalb von dreizehn Monaten nach der ersten Warenausfuhr das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^4-1] gestellt werden.[^4-2]
 
 <sup>3</sup> Das Gesuch muss die Ausfuhren von einem bis zu zwölf Monaten umfassen.
 
-<sup>4</sup> Die Eidgenössische Zollverwaltung kann verlangen, dass für die Rückerstattung Veranlagungsverfügungen vorgelegt werden. Die Veranlagungsverfügungen müssen im zeitlichen Zusammenhang mit der Gesuchsperiode ausgestellt worden sein.[^4-2]
+<sup>4</sup> Das BAZG kann verlangen, dass für die Rückerstattung Veranlagungsverfügungen vorgelegt werden. Die Veranlagungsverfügungen müssen im zeitlichen Zusammenhang mit der Gesuchsperiode ausgestellt worden sein.[^4-3]
 
-[^4-1]: Fassung gemäss Ziff. I der V des EFD vom 14. Febr. 2012, in Kraft seit 1. März 2012 ([AS 2012 787](https://fedlex.data.admin.ch/eli/oc/2012/117)).
+[^4-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 [^4-2]: Fassung gemäss Ziff. I der V des EFD vom 14. Febr. 2012, in Kraft seit 1. März 2012 ([AS 2012 787](https://fedlex.data.admin.ch/eli/oc/2012/117)).
+[^4-3]: Fassung gemäss Ziff. I der V des EFD vom 14. Febr. 2012, in Kraft seit 1. März 2012 ([AS 2012 787](https://fedlex.data.admin.ch/eli/oc/2012/117)).
 
 #### Art. 5
 
@@ -138,7 +140,7 @@ Die Rückerstattungsansätze für die folgenden Eiprodukte basieren auf dem Zoll
 
 Die Verordnung des EFD vom 19. Juni 1995[^7-1] über die Gewährung von Zollbegünstigungen für landwirtschaftliche Rohstoffe im aktiven Veredlungsverkehr wird aufgehoben.
 
-[^7-1]: [[AS 1995 3206](https://fedlex.data.admin.ch/eli/oc/1995/3206_3206_3206), [2000 2667](https://fedlex.data.admin.ch/eli/oc/2000/433), [2002 411](https://fedlex.data.admin.ch/eli/oc/2002/94), [2004 5049](https://fedlex.data.admin.ch/eli/oc/2004/776), [2005 1043](https://fedlex.data.admin.ch/eli/oc/2005/131)[3553](https://fedlex.data.admin.ch/eli/oc/2005/509)]
+[^7-1]: [[AS 1995 3206](https://fedlex.data.admin.ch/eli/oc/1995/3206_3206_3206); [2000 2667](https://fedlex.data.admin.ch/eli/oc/2000/433); [2002 411](https://fedlex.data.admin.ch/eli/oc/2002/94); [2004 5049](https://fedlex.data.admin.ch/eli/oc/2004/776); [2005 1043](https://fedlex.data.admin.ch/eli/oc/2005/131), [3553](https://fedlex.data.admin.ch/eli/oc/2005/509)]
 
 #### Art. 8
 
