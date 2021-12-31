@@ -3,11 +3,11 @@ sr: "415.022"
 title: "Ordinanza del 18 dicembre 2020 sulla concessione di contributi a fondo perso e di mutui ai club degli sport di squadra di livello professionistico e semiprofessionistico per l'attenuazione delle conseguenze dell'epidemia di COVID-19 (Ordinanza COVID-19 sport di squadra)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/975"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2020-12-18
 in_force: 2020-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/975/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-975-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/975/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/975/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-975-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/975/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/975/20210101/it"
 
 (Ordinanza COVID-19 sport di squadra)
 
-del 18 dicembre 2020 (Stato 1° gennaio 2021)
+del 18 dicembre 2020 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -91,22 +91,24 @@ La richiesta deve contenere tutte le informazioni necessarie alla concessione de
 Le richieste devono essere presentate:
 
 - a. entro il 30 aprile 2021, per le partite dal 1° gennaio 2021 al 31 marzo 2021;
-- b. entro il 31 luglio 2021, per le partite dal 31 marzo 2021 alla fine della stagione 2020/2021.[^5-1]
+- b. entro il 31 luglio 2021, per le partite dal 31 marzo 2021 alla fine della stagione 2020/2021.
+- c.[^5-1] entro il 15 giugno 2022, per le partite della stagione 2021/2022.[^5-2]
 
-<sup>2</sup> L’UFSPO si pronuncia in merito alle richieste mediante decisione.[^5-2]
+<sup>2</sup> L’UFSPO si pronuncia in merito alle richieste mediante decisione.[^5-3]
 
 <sup>3</sup>
 
 Non sono versati contributi:
 
-- a.[^5-3] ...
+- a.[^5-4] ...
 - b. per le partite annullate.
 
 <sup>4</sup> I contributi per le partite rinviate sono versati per il periodo in cui la partita è recuperata, a condizione che in quel momento siano ancora soddisfatte le condizioni per la concessione di contributi.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° gen. 2021 ([RU 2021 181](https://fedlex.data.admin.ch/eli/oc/2021/181)).
+[^5-1]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 900](https://fedlex.data.admin.ch/eli/oc/2021/900)).
 [^5-2]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° gen. 2021 ([RU 2021 181](https://fedlex.data.admin.ch/eli/oc/2021/181)).
-[^5-3]: Abrogata dal n. I dell’O del 31 mar. 2021, con effetto dal 1° gen. 2021 ([RU 2021 181](https://fedlex.data.admin.ch/eli/oc/2021/181)).
+[^5-3]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° gen. 2021 ([RU 2021 181](https://fedlex.data.admin.ch/eli/oc/2021/181)).
+[^5-4]: Abrogata dal n. I dell’O del 31 mar. 2021, con effetto dal 1° gen. 2021 ([RU 2021 181](https://fedlex.data.admin.ch/eli/oc/2021/181)).
 
 #### Art. 6
 
@@ -270,3 +272,7 @@ L’ordinanza COVID-19 sport di squadra del 4 novembre 2020[^17-1] è abrogata.
 <sup>1</sup> La presente ordinanza entra in vigore il 19 dicembre 2020 alle ore 00.00.
 
 <sup>2</sup> Ha effetto sino al 31 dicembre 2021.
+
+<sup>3</sup> La durata di validità della presente ordinanza è prorogata fino al 30 giugno 2022.[^18-1]
+
+[^18-1]: Introdotto dal n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 900](https://fedlex.data.admin.ch/eli/oc/2021/900)).

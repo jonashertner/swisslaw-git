@@ -3,11 +3,11 @@ sr: "415.022"
 title: Verordnung vom 18. Dezember 2020 über die Gewährung von A-Fonds-perdu-Beiträgen und Darlehen an Klubs des professionellen und semiprofessionellen Mannschaftssports zur Abfederung der Folgen der Covid-19-Epidemie (Covid-19-Verordnung Mannschaftssport)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/975"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2020-12-18
 in_force: 2020-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/975/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-975-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/975/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/975/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-975-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/975/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/975/20210101/de"
 
 (Covid-19-Verordnung Mannschaftssport)
 
-vom 18. Dezember 2020 (Stand am 1. Januar 2021)
+vom 18. Dezember 2020 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -46,7 +46,7 @@ Das Gesuch hat alle für die Beitragsgewährung notwendigen Informationen zu ent
 
 - a. die Ticketeinnahmen aus den Spielen der nationalen Meisterschaft der Saison 2018/2019, mit Angabe der verkauften Einzeltickets und Saisonabonnemente, der Gesamteintrittspakete und der Gratiseintritte, sowie die offiziellen Zuschauerzahlen pro Spiel der nationalen Meisterschaft;
 - b. die Ticketkategorien mit den jeweiligen Preisen im Einzelverkauf in der Saison 2020/2021;
-- c. und d.[^2-1] ...
+- c. und d.[^2-1] …
 - e. die Löhne zuzüglich aller Prämien, Boni und weiteren geldwerten Vergünstigungen (Einkommen) der Personen, die beim Klub angestellt sind, pro Jahr per Ende der Saison 2018/2019 sowie per Datum der Gesuchseinreichung; die Einkommen sind durch Kopien der jeweiligen Verträge und der Lohnausweise zu belegen;
 - e<sup>bis</sup>.[^2-2] die Einkommen der Personen, die beim Klub angestellt sind, pro Jahr per Ende der Saison 2019/2020; die Einkommen sind auf Verlangen des Bundesamts für Sport (BASPO) durch Kopien der jeweiligen Verträge und der Lohnausweise zu belegen;
 - f. revidierte Jahresrechnungen des Klubs seit Beginn der Saison 2018/2019 und ein aktueller Zwischenabschluss;
@@ -91,22 +91,24 @@ Das Gesuch hat alle für die Beitragsgewährung notwendigen Informationen zu ent
 Die Gesuche sind einzureichen:
 
 - a. für Spiele zwischen dem 1. Januar 2021 und dem 31. März 2021: bis zum 30. April 2021;
-- b. für Spiele zwischen dem 31. März 2021 und dem Ende der Saison 2020/2021: bis zum 31. Juli 2021.[^5-1]
+- b. für Spiele zwischen dem 31. März 2021 und dem Ende der Saison 2020/2021: bis zum 31. Juli 2021;
+- c.[^5-1] für Spiele der Saison 2021/2022: bis zum 15. Juni 2022.[^5-2]
 
-<sup>2</sup> Das BASPO entscheidet über die Gesuche durch Verfügung.[^5-2]
+<sup>2</sup> Das BASPO entscheidet über die Gesuche durch Verfügung.[^5-3]
 
 <sup>3</sup>
 
 Keine Beiträge werden ausgerichtet:
 
-- a.[^5-3] ...
+- a.[^5-4] …
 - b. für abgesagte Spiele.
 
 <sup>4</sup> Für verschobene Spiele werden die Beiträge für den Zeitpunkt ausgerichtet, an dem das Spiel nachgeholt wird, sofern zu diesem Zeitpunkt die Voraussetzungen einer Beitragsgewährung erfüllt sind.
 
-[^5-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Jan. 2021 ([AS 2021 181](https://fedlex.data.admin.ch/eli/oc/2021/181)).
+[^5-1]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 900](https://fedlex.data.admin.ch/eli/oc/2021/900)).
 [^5-2]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Jan. 2021 ([AS 2021 181](https://fedlex.data.admin.ch/eli/oc/2021/181)).
-[^5-3]: Aufgehoben durch Ziff. I der V vom 31. März 2021, mit Wirkung seit 1. Jan. 2021 ([AS 2021 181](https://fedlex.data.admin.ch/eli/oc/2021/181)).
+[^5-3]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Jan. 2021 ([AS 2021 181](https://fedlex.data.admin.ch/eli/oc/2021/181)).
+[^5-4]: Aufgehoben durch Ziff. I der V vom 31. März 2021, mit Wirkung seit 1. Jan. 2021 ([AS 2021 181](https://fedlex.data.admin.ch/eli/oc/2021/181)).
 
 #### Art. 6
 
@@ -276,3 +278,7 @@ Die Covid-19-Verordnung Mannschaftssport vom 4. November 2020[^17-1] wird aufgeh
 <sup>1</sup> Diese Verordnung tritt am 19. Dezember 2020 um 00.00 Uhr in Kraft.
 
 <sup>2</sup> Sie gilt bis zum 31. Dezember 2021.
+
+<sup>3</sup> Die Geltungsdauer dieser Verordnung wird bis zum 30. Juni 2022 verlängert.[^18-1]
+
+[^18-1]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 900](https://fedlex.data.admin.ch/eli/oc/2021/900)).

@@ -3,11 +3,11 @@ sr: "415.022"
 title: "Ordonnance du 18 décembre 2020 sur l'octroi aux clubs de sports d'équipe professionnels et semi-professionnels de contributions à fonds perdu et de prêts visant à atténuer les conséquences de l'épidémie de COVID-19 (Ordonnance COVID-19 sports d'équipe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/975"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2020-12-18
 in_force: 2020-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/975/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-975-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/975/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/975/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-975-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/975/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/975/20210101/fr"
 
 (Ordonnance COVID-19 sports d’équipe)
 
-du 18 décembre 2020 (Etat le 1<sup>er</sup> janvier 2021)
+du 18 décembre 2020 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -91,22 +91,24 @@ La demande doit comporter toutes les informations nécessaires à l’octroi de 
 Les demandes doivent être déposées:
 
 - a. d’ici au 30 avril 2021 pour les matches joués entre le 1<sup>er</sup> janvier 2021 et le 31 mars 2021;
-- b. d’ici au 31 juillet 2021 pour les matches joués entre le 31 mars 2021 et la fin de la saison 2020/2021.[^5-1]
+- b. d’ici au 31 juillet 2021 pour les matches joués entre le 31 mars 2021 et la fin de la saison 2020/2021;
+- c.[^5-1] d’ici au 15 juin 2022 pour les matches de la saison 2021/2022.[^5-2]
 
-<sup>2</sup> L’OFSPO statue sur les demandes par voie de décision.[^5-2]
+<sup>2</sup> L’OFSPO statue sur les demandes par voie de décision.[^5-3]
 
 <sup>3</sup>
 
 Aucune contribution n’est versée:
 
-- a.[^5-3] ...
+- a.[^5-4] ...
 - b. pour les matches annulés.
 
 <sup>4</sup> Les contributions pour les matches reportés sont versées pour la période où les matches sont effectivement joués, si les conditions d’octroi des contributions sont encore remplies à ce moment.
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2021 181](https://fedlex.data.admin.ch/eli/oc/2021/181)).
+[^5-1]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 900](https://fedlex.data.admin.ch/eli/oc/2021/900)).
 [^5-2]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2021 181](https://fedlex.data.admin.ch/eli/oc/2021/181)).
-[^5-3]: Abrogée par le ch. I de l’O du 31 mars 2021, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2021 181](https://fedlex.data.admin.ch/eli/oc/2021/181)).
+[^5-3]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2021 181](https://fedlex.data.admin.ch/eli/oc/2021/181)).
+[^5-4]: Abrogée par le ch. I de l’O du 31 mars 2021, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2021 181](https://fedlex.data.admin.ch/eli/oc/2021/181)).
 
 #### Art. 6
 
@@ -276,3 +278,7 @@ L’ordonnance COVID-19 du 4 novembre 2020 sports d’équipe[^17-1] est abrogé
 <sup>1</sup> La présente ordonnance entre en vigueur le 19 décembre 2020 à 0 h 00.
 
 <sup>2</sup> Elle a effet jusqu’au 31 décembre 2021.
+
+<sup>3</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 30 juin 2022.[^18-1]
+
+[^18-1]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 900](https://fedlex.data.admin.ch/eli/oc/2021/900)).
