@@ -3,27 +3,28 @@ sr: "672.911.81"
 title: Verordnung vom 14. November 2007 zum schweizerisch-südafrikanischen Doppelbesteuerungsabkommen
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/146"
 language: de
-version: 2009-01-27
+version: 2022-01-01
 adopted: 2007-11-14
 in_force: 2009-01-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/146/20090127/de/xml/fedlex-data-admin-ch-eli-cc-2009-146-20090127-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/146/20090127/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/146/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2009-146-20220101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/146/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung zum schweizerisch-südafrikanischen Doppelbesteuerungsabkommen
 
-vom 14. November 2007 (Stand am 27. Januar 2009)
+vom 14. November 2007 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf den Bundesbeschluss vom 22. Juni 1951[^ingress-1] über die Durchführung von zwischenstaatlichen Abkommen des Bundes zur Vermeidung der Doppelbesteuerung, in Ausführung des neuen Abkommens vom 8. Mai 2007[^ingress-2] zwischen der Schweizerischen Eidgenossenschaft und Südafrika zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen (Abkommen),
+gestützt auf Artikel 35 Absatz 1 des Bundesgesetzes vom 18. Juni 2021[^ingress-1] über die Durchführung von internationalen Abkommen im Steuerbereich, in Ausführung des neuen Abkommens vom 8. Mai 2007[^ingress-2] zwischen der Schweizerischen Eidgenossenschaft und Südafrika zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen (Abkommen),[^ingress-3]
 
 verordnet:
 
-[^ingress-1]: [SR 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
-[^ingress-2]: SR **0.672****.****911.82**
+[^ingress-1]: [SR 672.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8245)
+[^ingress-2]: [SR 0.672.911.82](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2522)
+[^ingress-3]: Fassung gemäss Ziff. II 3 der V vom 10. Nov. 2021 über Anpassungen des Bundesrechts im Bereich der Durchführung von internationalen Abkommen im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 ## 1. Abschnitt: Allgemeiner Informationsaustausch
 
@@ -89,7 +90,7 @@ verordnet:
 
 <sup>2</sup> Die Durchführung richtet sich nach Artikel 49 des Bundesgesetzes vom 22. März 1974[^6-1] über das Verwaltungsstrafrecht.
 
-[^6-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^6-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 7
 

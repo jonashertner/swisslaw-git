@@ -3,27 +3,28 @@ sr: "672.911.81"
 title: Ordinanza del 14 novembre 2007 concernente la convenzione svizzero-sudafricana di doppia imposizione
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/146"
 language: it
-version: 2009-01-27
+version: 2022-01-01
 adopted: 2007-11-14
 in_force: 2009-01-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/146/20090127/it/xml/fedlex-data-admin-ch-eli-cc-2009-146-20090127-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/146/20090127/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/146/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-146-20220101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/146/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la convenzione svizzero-sudafricana di doppia imposizione
 
-del 14 novembre 2007 (Stato 27 gennaio 2009)
+del 14 novembre 2007 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
-visto il decreto federale del 22 giugno 1951[^ingress-1] concernente l’esecuzione delle convenzioni internazionali conchiuse dalla Confederazione per evitare i casi di doppia imposizione; in esecuzione della Convenzione dell’8 maggio 2007[^ingress-2] tra la Confederazione Svizzera e il Governo della Repubblica del Sudafrica intesa a evitare la doppia imposizione in materia di imposte sul reddito,
+visto l’articolo 35 capoverso 1 della legge federale del 18 giugno 2021[^ingress-1] concernente l’esecuzione delle convenzioni internazionali in ambito fiscale; in esecuzione della Convenzione dell’8 maggio 2007[^ingress-2] tra la Confederazione Svizzera e il Governo della Repubblica del Sudafrica intesa a evitare la doppia imposizione in materia di imposte sul reddito (Convenzione),[^ingress-3]
 
 ordina:
 
-[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
-[^ingress-2]: [RS 0.672.911.82](https://fedlex.data.admin.ch/eli/cc/2009/153)
+[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8245)
+[^ingress-2]: [RS 0.672.911.82](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2522)
+[^ingress-3]: Nuovo testo giusta il n. II 3 dell’O del 10 nov. 2021 concernente l’adeguamento del diritto federale nell’ambito dell’esecuzione delle convenzioni internazionali in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 ## Sezione 1: Scambio di informazioni generale
 
@@ -89,7 +90,7 @@ ordina:
 
 <sup>2</sup> L’esecuzione della perquisizione è disciplinata nell’articolo 49 della legge federale del 22 marzo 1974[^6-1] sul diritto penale amministrativo.
 
-[^6-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^6-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 7
 
