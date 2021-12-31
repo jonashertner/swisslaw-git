@@ -4,13 +4,13 @@ number: "961.212"
 title: Sonderverordnung 2 zur Abfederung der wirtschaftlichen Auswirkungen der COVID-19-Pandemie
 short: SonderV 20-2
 language: de
-version: 2021-11-01
-valid_until: 2021-12-31
-version_adopted: 2021-10-27
+version: 2022-01-01
+valid_until: 2022-02-17
+version_adopted: 2021-12-22
 adopted: 2020-04-15
 in_force: 2020-04-20
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/961.212"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3082/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3138/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3082/pdf_file"
 
 (SonderV 20-2)
 
-Vom 15.04.2020 (Stand 01.11.2021)
+Vom 15.04.2020 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -46,7 +46,7 @@ beschliesst:
 - f) Entschädigungen im freiwilligen Schulsport,
 - g) Härtefallmassnahmen gemäss der Verordnung über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie (Covid-19-Härtefallverordnung) vom 25. November 2020[^1-1],
 - h) Solidarbürgschaften gemäss Art. 4 Abs. 2 lit. b Ziff. 5 der Verordnung über Massnahmen im Bereich des professionellen und semiprofessionellen Mannschaftssports zur Abfederung der Folgen der Covid-19-Epidemie (Covid-19-Verordnung Mannschaftssport) vom 4. November 2020[^1-2],
-- i) Beiträge an touristische Angebote mit einer Personenbeförderungskonzession,
+- i) …
 - j) Unterstützung von Veranstaltungsunternehmen (Schutzschirm) gemäss der Covid-19-Verordnung Publikumsanlässe.
 
 <sup>2</sup> Es besteht kein Rechtsanspruch auf Leistungen gemäss dieser Verordnung. Die Ausrichtung von Leistungen erfolgt nur im Rahmen der vorhandenen Mittel und in der Reihenfolge der eingegangenen Gesuche.
@@ -225,13 +225,7 @@ beschliesst:
 
 #### § 7h
 
-**Bedingte Gewinnbeteiligung für Unternehmen mit einem Jahresumsatz unter 5 Millionen Franken**
-
-<sup>1</sup> Unternehmen, die im Jahr 2021 einen steuerbaren Jahresgewinn gemäss den Artikeln 58–67 des Bundesgesetzes über die direkte Bundessteuer (DBG) vom 14. Dezember 1990[^7h-1] erzielen, haben diesen an den Kanton weiterzuleiten; dies aber höchstens im Umfang des erhaltenen Beitrags.
-
-<sup>2</sup> Für die Berechnung der Gewinnbeteiligung massgeblich ist der steuerbare Jahresgewinn 2021 vor Verlustrechnung gemäss den Artikeln 58–67 DBG. Vom steuerbaren Jahresgewinn abziehbar ist ausschliesslich ein im Geschäftsjahr 2020 entstandener steuerlich massgeblicher Verlust.
-
-[^7h-1]: SR [642.11](https://db.clex.ch/link/Bund/642.11/de)
+**…**
 
 #### § 7i
 
@@ -241,6 +235,24 @@ beschliesst:
 
 - a) Bereich Kultur und Sport: Hat ein Unternehmen bereits eine branchenspezifische Covid-19-Finanzhilfe in den Bereichen Kultur oder Sport erhalten, und ist diese geringer ausgefallen als eine Härtefallhilfe gemäss Covid-19-Härtefallverordnung, wird der Differenzbetrag ausbezahlt.
 - b) Unternehmen mit einem Umsatzrückgang von mehr als 70 %: Hat ein Unternehmen im Vergleich zum durchschnittlichen Jahresumsatz der Jahre 2018 und 2019 einen Umsatzrückgang von mehr als 70 % erlitten, wird der Differenzbetrag zwischen den ungedeckten Fixkosten aufgrund des Umsatzrückgangs und dem aufgrund der Obergrenze von Art. 8a Abs. 2 beziehungsweise 8c Abs. 2 lit. a Covid-19-Härtefallverordnung tatsächlich ausbezahlten, tieferen Unterstützungsbeitrags ausbezahlt.
+- c) Unternehmen mit einem Jahresumsatz unter 5 Millionen Franken und Umsatzrückgängen in den Monaten Juli bis Dezember 2021 gemäss § 7j: Hat ein Unternehmen aufgrund des Umsatzrückgangs in den Monaten Juli bis Dezember 2021 einen höheren Anspruch auf nicht rückzahlbare Beiträge gemäss § 7j als aufgrund der Obergrenzen gemäss den Art. 8, 8a und 8d Covid-19-Härtefallverordnung ausbezahlt werden könnte, wird ein anteilsmässiger Betrag ausbezahlt. Der ausbezahlte Anteil richtet sich nach den verfügbaren Mitteln der Bundesratsreserve und ist für alle Unternehmen gleich hoch.
+- d) Unternehmen mit einem Jahresumsatz über 5 Millionen Franken: Unternehmen mit einem Jahresumsatz über 5 Millionen Franken, die bereits Beiträge gemäss § 7e erhalten haben, werden die Umsatzrückgänge in den Monaten Juli bis Dezember 2021 entschädigt. Die Beiträge bemessen sich am über 10 % hinausgehenden Umsatzrückgang in den Monaten Juli bis Dezember 2021, multipliziert mit einem branchenüblichen Anteil an den Fixkosten samt Abschreibungen. Die Höchstgrenzen gemäss Art. 8c Covid-19-Härtefallverordnung gelten nicht. Der ausbezahlte Anteil ist für alle Unternehmen gleich hoch und richtet sich nach den verfügbaren Mitteln der Bundesratsreserve. Gesuche sind bis 28. Februar 2022 über das elektronische Behördenportal einzureichen. Die Unternehmen müssen den Umsatzrückgang in den Monaten Juli bis Dezember 2021 nachweisen.
+
+#### § 7j
+
+**Umsatzrückgänge in den Monaten Juli bis Dezember 2021 für Unternehmen mit einem Jahresumsatz unter 5 Millionen Franken**
+
+<sup>1</sup> Unternehmen mit einem Jahresumsatz unter 5 Millionen Franken, die in den Monaten Juli bis Dezember 2021 einen Umsatzrückgang zu verzeichnen haben, werden nicht rückzahlbare Beiträge ausgerichtet.
+
+<sup>2</sup> Die Beiträge bemessen sich am Umsatzrückgang in den Monaten Juli bis Dezember 2021, multipliziert mit einem branchenüblichen Anteil an den Fixkosten samt Abschreibungen. Bei der Berechnung werden 90 % des Umsatzrückgangs berücksichtigt. Es werden Beiträge ab 500 Franken ausbezahlt.
+
+<sup>3</sup> Es gelten die Höchstgrenzen gemäss den Art. 8a und 8d Covid-19-Härtefallverordnung. Bereits erhaltene Beiträge werden angerechnet.
+
+<sup>4</sup> Gesuche sind bis 28. Februar 2022 über das elektronische Behördenportal einzureichen. Die Unternehmen müssen den Umsatzrückgang in den Monaten Juli bis Dezember 2021 nachweisen.
+
+<sup>5</sup> Unternehmen, die bereits Beiträge gemäss den §§ 7a bis 7d erhalten haben, müssen nur noch die zusätzlich notwendigen Nachweise zur Belegung des Umsatzrückgangs in den Monaten Juli bis Dezember 2021 einreichen.
+
+<sup>6</sup> Unternehmen mit einem Umsatzrückgang im Jahr 2020 im Vergleich zum durchschnittlichen Jahresumsatz der Jahre 2018 und 2019 von über 40 %, die bisher keine Härtefallmassnahme erhalten haben, können bis 28. Februar 2022 ein Gesuch um Härtefallmassnahmen gemäss § 7d einreichen. Bei Umsatzrückgängen in den Monaten Januar 2021 bis Juni 2021 kann das Unternehmen für die Berechnung des Umsatzrückgangs anstelle des Jahresumsatzes 2020 den Umsatz einer späteren Periode von 12 Monaten verwenden. Ausgenommen sind Unternehmen, deren Gesuch gemäss § 7d abgelehnt wurde. Bei einer Gutheissung werden dabei sowohl die Ansprüche für den nachgewiesenen Umsatzrückgang bis Juni 2021 als auch für die Monate Juli bis Dezember 2021 geprüft.
 
 ### 2.5 Vollzug
 
@@ -342,18 +354,7 @@ beschliesst:
 
 #### § 13d
 
-**Beiträge an touristische Angebote mit einer Personenbeförderungskonzession**
-
-<sup>1</sup> Der Kanton richtet touristischen Angeboten mit einer Personenbeförderungskonzession auf Gesuch hin finanzielle Beiträge aus.
-
-<sup>2</sup> Finanzielle Beiträge des Kantons setzen voraus, dass
-
-- a) die COVID-19-bedingten finanziellen Ausfälle in der Zeit vom 1. März bis 30. September 2020 nach Abzug aller Reserven den in den Geschäftsjahren 2017–2019 erzielten Reingewinn des Unternehmens übersteigen und
-- b) das Unternehmen für die Geschäftsjahre 2020 und 2021 keine Dividenden ausschüttet.
-
-<sup>3</sup> Der Kanton gewährt finanzielle Beiträge im Umfang der COVID-19-bedingten finanziellen Ausfälle in der Zeit vom 1. März bis 30. September 2020 unter Berücksichtigung der zumutbaren Kosteneinsparungen, der Kurzarbeitsentschädigungen, der anrechenbaren Reserven und eines angemessenen erwarteten Gewinns der nächsten Jahre.
-
-<sup>4</sup> Das DVI entscheidet über die Gesuche.
+**…**
 
 ## 3<sup>sexies</sup>. Unterstützung von Veranstaltungsunternehmen
 
