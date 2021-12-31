@@ -3,13 +3,13 @@ canton: BS
 number: RiE 111.100
 title: Gemeindeordnung der Einwohnergemeinde Riehen
 language: de
-version: 2010-07-19
-valid_until: 2021-12-31
-version_adopted: 2010-04-28
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-04-28
 adopted: 2002-02-27
 in_force: 2003-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20111.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4871/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5374/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4871/pdf_file"
 
 Gemeindeordnung | Riehen: Einwohnergemeinde[^t-1]
 
-Vom 27. Februar 2002 (Stand 19. Juli 2010)
+Vom 27. Februar 2002 (Stand 1. Januar 2022)
 
 Der Einwohnerrat der Einwohnergemeinde Riehen
 
@@ -40,7 +40,7 @@ beschliesst, gestützt auf § 9 des Gemeindegesetzes vom 17. Oktober 1984[^ingre
 
 folgende Gemeindeordnung:
 
-[^t-1]: Vom RR genehmigt am 26. 3. 2002.
+[^t-1]: Vom Regierungsrat genehmigt am 26. 3. 2002.
 [^ingress-1]: SG [170.100](https://www.gesetzessammlung.bs.ch/data/170.100/de).
 
 ## I. Allgemeine Bestimmungen
@@ -220,7 +220,7 @@ folgende Gemeindeordnung:
 
 <sup>1</sup> Die Gemeindebehörden werden, sofern nichts anderes bestimmt ist, jeweils auf eine Amtsdauer von vier Jahren gewählt.
 
-<sup>2</sup> Die Amtsdauer beginnt am 1. Mai und endet am 30. April des vierten darauf folgenden Jahres.
+<sup>2</sup> Die Amtsdauer beginnt am 1. Februar und endet am 31. Januar des vierten darauf folgenden Jahres.
 
 #### § 17
 
@@ -520,5 +520,11 @@ folgende Gemeindeordnung:
 <sup>2</sup> Der Gemeinderat wird ermächtigt, im Hinblick auf die Neuregelung der Führungsinstrumente und des Gemeindehaushalts sowie der Organisation von Gemeinderat und Verwaltung einzelne Bestimmungen der Abschnitte III. bis V. dieser Ordnung bereits zu einem früheren Zeitpunkt für anwendbar zu erklären.[^42-1]
 
 [^42-1]: §§ 23, 24 sowie 27–29 wirksam seit 7. 5. 2002
+
+#### § 43
+
+**Übergangsbestimmungen zur Änderung vom 28. April 2021**
+
+<sup>1</sup> Der neue Beginn der Amtsperiode wird erstmals für die Amtsperiode vom 1. Februar 2026 bis 31. Januar 2030 angewandt. Die Amtsperiode, welche am 1. Mai 2022 beginnt, verkürzt sich damit um 3 Monate und endet am 31. Januar 2026.
 
 KB 04.04.2002
