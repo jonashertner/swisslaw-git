@@ -4,13 +4,13 @@ number: "177.223"
 title: Verordnung des Regierungsrates zur Besoldungsverordnung
 short: RRV BesVO
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-08-20
+version: 2022-01-01
+valid_until: 2022-03-31
+version_adopted: 2021-11-30
 adopted: 1999-09-21
 in_force: 2000-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/177.223"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1806/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2002/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ RRV BesVO
 
 (RRV BesVO)
 
-vom 21.09.1999 (Stand 01.01.2020)
+vom 21.09.1999 (Stand 01.01.2022)
 
 ## 1. Vollzug der Allgemeinen Bestimmungen der Besoldungsverordnung
 
@@ -134,11 +134,11 @@ vom 21.09.1999 (Stand 01.01.2020)
 
 **Lohnerhöhungen**
 
-<sup>1</sup> Lohnerhöhungen setzen sehr gute oder gute Leistungen voraus.
+<sup>1</sup> Lohnerhöhungen setzen sehr gut erfüllte oder gut erfüllte Leistungen voraus.
 
-<sup>2</sup> Als sehr gut oder gut gelten Leistungen, die mit den Prädikaten «A» (mit oder ohne Zusatzprädikat «A+») oder «B» beurteilt werden.
+<sup>2</sup> …
 
-<sup>3</sup> Der Aufstieg in die Leistungszone IV und Lohnerhöhungen in dieser Zone setzen sehr gute Leistungen voraus, welche mit dem Prädikat «A» (mit oder ohne Zusatzprädikat «A+») beurteilt werden.
+<sup>3</sup> Der Aufstieg in die Leistungszone IV und Lohnerhöhungen in dieser Zone setzen sehr gut erfüllte oder gut erfüllte Leistungen voraus.
 
 <sup>4</sup> Als Beförderung gilt, wenn Mitarbeiterinnen oder Mitarbeiter in eine höher eingereihte Funktion eingewiesen werden.
 
@@ -146,13 +146,13 @@ vom 21.09.1999 (Stand 01.01.2020)
 
 **Lohnsenkungen**
 
-<sup>1</sup> Bei erstmals teilweise genügenden Leistungen, die mit dem Prädikat «C» beurteilt werden, ist nach einem Bewährungsjahr bei erneut nur teilweise genügenden Leistungen eine Lohnsenkung von 1 % bis 3 % des aktuellen Lohnes vorzunehmen, in der Regel 2 %.
+<sup>1</sup> Bei erstmals teilweise erfüllten Leistungen ist nach einem Bewährungsjahr bei erneut nur teilweise erfüllten Leistungen eine Lohnsenkung von 1 % bis 3 % des aktuellen Lohnes vorzunehmen, in der Regel 2 %.
 
-<sup>2</sup> Bei ungenügenden Leistungen, welche mit dem Prädikat «D» beurteilt werden, beträgt die Lohnsenkung von 1 % bis 5 % des aktuellen Lohnes, in der Regel 3 %.
+<sup>2</sup> Bei nicht erfüllten Leistungen beträgt die Lohnsenkung von 1 % bis 5 % des aktuellen Lohnes, in der Regel 3 %.
 
 <sup>3</sup> Beim Ausmass der Lohnsenkung sind allfällige besondere Umstände zu berücksichtigen.
 
-<sup>4</sup> Bei nur teilweise genügenden oder ungenügenden Leistungen sind weitere Massnahmen zu prüfen und einzuleiten.
+<sup>4</sup> Bei nur teilweise erfüllten oder nicht erfüllten Leistungen sind weitere Massnahmen zu prüfen und einzuleiten.
 
 <sup>5</sup> Als Rückstufung gilt, wenn Mitarbeiterinnen oder Mitarbeiter in eine tiefere Lohnklasse eingewiesen werden.
 
@@ -194,11 +194,13 @@ vom 21.09.1999 (Stand 01.01.2020)
 
 #### § 13
 
-**Leistungsprämien**
+**Leistungs- und Anerkennungsprämien**
 
-<sup>1</sup> Einmalige Prämien für besondere Einzel- oder Teamleistungen können insbesondere ausgerichtet werden für besonders anforderungs- und erfolgreiche Projektarbeiten, für Tätigkeiten, die einen überdurchschnittlichen Aufwand oder ein besonderes Engagement bedingen oder für Tätigkeiten oder Anforderungen, die weit über das Aufgabengebiet gemäss Stellenbeschreibung hinausgehen.
+<sup>1</sup> Einmalige Leistungsprämien für besondere Einzel- oder Teamleistungen können insbesondere ausgerichtet werden für besonders anforderungs- und erfolgreiche Projektarbeiten, für Tätigkeiten, die einen überdurchschnittlichen Aufwand oder ein besonderes Engagement bedingen oder für Tätigkeiten oder Anforderungen, die weit über das Aufgabengebiet gemäss Stellenbeschreibung hinausgehen.
 
 <sup>2</sup> Die Prämien werden im Rahmen der vom Regierungsrat erlassenen Richtlinien von der für die Besoldungsanpassung zuständigen Stelle gesprochen.
+
+<sup>3</sup> Für besonders innovative Ideen von Mitarbeiterinnen und Mitarbeitern, die der Verbesserung der betrieblichen Leistungsfähigkeit dienen, können im Rahmen der vom Regierungsrat zum Ideenmanagement erlassenen Richtlinien Anerkennungsprämien ausgerichtet werden.
 
 ### 1.2.3. Dienstaltersgeschenk
 
@@ -402,7 +404,7 @@ vom 21.09.1999 (Stand 01.01.2020)
 
 **Anspruch im zweiten Jahr**
 
-<sup>1</sup> Für vor Beginn der Arbeitsunfähigkeit in ungekündigtem Dienstverhältnis stehende Mitarbeiterinnen und Mitarbeiter sowie bei Berufsunfall oder -krankheit werden während des zweiten Jahres Leistungen in der Höhe von 80 % der bisherigen Besoldung ausgerichtet.
+<sup>1</sup> Für vor Beginn der Arbeitsunfähigkeit in ungekündigtem Dienstverhältnis stehende Mitarbeiterinnen und Mitarbeiter werden während des zweiten Jahres Leistungen in der Höhe von 80 % der bisherigen Besoldung ausgerichtet.
 
 <sup>2</sup> Dauert die Dienstaussetzung wegen Krankheit oder Unfall länger als zwölf Monate, ist der Grad der Arbeitsunfähigkeit der anspruchsberechtigten Person monatlich dem Lohnbüro zu melden; die aufgrund einer teilweisen Arbeitsfähigkeit auszubezahlende Besoldung, welche 80 % der bisherigen Besoldung übersteigt, wird im Folgemonat ausbezahlt.
 
@@ -436,7 +438,7 @@ vom 21.09.1999 (Stand 01.01.2020)
 
 #### § 36
 
-**Wiederherstellung, Härtefälle**
+**Anspruch bei teilweiser Arbeitsunfähigkeit, Härtefälle**
 
 <sup>1</sup> Der Anspruch auf Lohnfortzahlung im ungekündigten Dienstverhältnis bei Krankheit oder Unfall richtet sich nach § 20 der Besoldungsverordnung des Grossen Rates. Bei teilweiser Arbeitsunfähigkeit erfolgt keine anteilsmässige Verlängerung des Anspruchs auf Lohnfortzahlung.
 
@@ -646,7 +648,7 @@ vom 21.09.1999 (Stand 01.01.2020)
 
 <sup>2</sup> Der Besoldungsanspruch verlängert sich für jeden zusätzlichen, tatsächlich geleisteten Dienstmonat um eine Woche.
 
-<sup>3</sup> Er richtet sich unter Vorbehalt von Absatz 4 nach den Bestimmungen für die unbefristet angestellten Mitarbeiterinnen und Mitarbeiter, wenn das Dienstverhältnis ohne Unterbruch über ein Jahr gedauert hat.
+<sup>3</sup> Er richtet sich unter Vorbehalt von Abs. 4 nach den Bestimmungen für die unbefristet angestellten Mitarbeiterinnen und Mitarbeiter, wenn das Dienstverhältnis ohne Unterbruch über ein Jahr gedauert hat oder wenn es sich im Rahmen einer saisonalen Anstellung um eine wiederkehrende Beschäftigung handelt.
 
 <sup>4</sup> Der Anspruch auf Lohnfortzahlung für befristet angestellte Mitarbeiterinnen und Mitarbeiter nach der Vollendung des 63. Altersjahres beträgt höchstens drei Wochen.
 
@@ -924,10 +926,14 @@ vom 21.09.1999 (Stand 01.01.2020)
 
 <sup>3</sup> Ab dem 1. Januar 2022 erfolgt die Zuordnung gemäss der dannzumal ausgeübten Funktion und der allgemein gültigen Regelung.
 
+#### § 90d
+
+**Übergangsrecht Wiederherstellung**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeitern, die bis zum 31. März 2022 ihren Anspruch auf Lohnfortzahlung bei Krankheit oder Unfall gemäss § 36 Abs. 2 anteilsmässig wiederhergestellt haben, wird die Verlängerung des jeweiligen Lohnfortzahlungsjahres gewährt.
+
 #### § 91
 
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 2000 in Kraft.
+**…**
 
 ABl. 39/1999
