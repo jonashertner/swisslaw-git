@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 1933 sul controllo del commercio in metalli
 short: LCMP
 eli: "https://fedlex.data.admin.ch/eli/cc/50/345_357_401"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1933-06-20
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20200101/it/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20220101/it/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20200101/it"
 
 (Legge sul controllo dei metalli preziosi, LCMP)**[^t-1]**
 
-del 20 giugno 1933 (Stato 1° gennaio 2020)
+del 20 giugno 1933 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta l’art. 75 n. 2 della LF del 28 ago. 1992 sulla protezione dei marchi e delle indicazioni di provenienza, in vigore dal 1° apr. 1993 ([RU 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274); [FF 1991 I 1](https://fedlex.data.admin.ch/eli/fga/1991/1_1_1_1)).
 
@@ -822,13 +822,20 @@ Data dell’entrata in vigore: 1° luglio 1934[^59-1]
 
 Gli oggetti fabbricati prima dell’entrata in vigore della modificazione del 17 giugno 1994, conformi alle precedenti prescrizioni ma non alle nuove, possono essere messi in commercio a titolo professionale per un periodo massimo di un anno a decorrere dall’entrata in vigore della presente modificazione.
 
-## Disposizione finale della modifica del 15 giugno 2018
+## Disposizione finale della modifica del 15 giugno 2018****
 
 [^u2-1]
 
-[^u2-1]: [RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)
+[^u2-1]: [RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762), ; [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141). Nuovo testo giusta l’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
-I saggiatori del commercio che non sottostavano all’obbligo di autorizzazione secondo il diritto anteriore ma che sottostanno a tale obbligo in virtù della modifica del 15 giugno 2018 devono annunciarsi alla FINMA entro sei mesi dalla sua entrata in vigore. Entro due anni dalla stessa data devono adempiere i requisiti previsti dalla presente legge e presentare una domanda di autorizzazione. Possono proseguire la loro attività fino alla decisione concernente l’autorizzazione.
+<sup>1</sup> I saggiatori del commercio e le società del gruppo che all’entrata in vigore della modifica del 15 giugno 2018 dispongono di un’autorizzazione della FINMA secondo l’articolo 14 LRD[^u2-2] nella versione del 1° gennaio 2009[^u2-3] devono incaricare una società di audit abilitata dall’Autorità federale di sorveglianza dei revisori conformemente all’articolo 9*a* della legge del 16 dicembre 2005[^u2-4] sui revisori di effettuare una verifica conformemente all’articolo 24 LFINMA[^u2-5].
+
+<sup>2</sup> I saggiatori del commercio e le società del gruppo che all’entrata in vigore della modifica del 15 giugno 2018 sono affiliati a un organismo di autodisciplina riconosciuto conformemente all’articolo 24 LRD rimangono sottoposti alla sua vigilanza.
+
+[^u2-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^u2-3]: [RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)
+[^u2-4]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^u2-5]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 
 Allegato 1*[^t-2]*
 

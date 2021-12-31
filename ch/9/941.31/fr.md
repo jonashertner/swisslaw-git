@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 1933 sur le contrôle du commerce des métaux 
 short: LCMP
 eli: "https://fedlex.data.admin.ch/eli/cc/50/345_357_401"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1933-06-20
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20200101/fr"
 
 (Loi sur le contrôle des métaux précieux, LCMP)**[^t-1]**
 
-du 20 juin 1933 (Etat le 1<sup>er</sup> janvier 2020)
+du 20 juin 1933 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon l’art. 75 ch. 2 de la L du 28 août 1992 sur la protection des marques, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274); [FF 1991 I 1](https://fedlex.data.admin.ch/eli/fga/1991/1_1_1_1)).
 
@@ -824,13 +824,20 @@ Date de l’entrée en vigueur: 1<sup>er</sup> juillet 1934[^59-1]
 
 Les ouvrages fabriqués avant l’entrée en vigueur de la modification du 17 juin 1994 et qui sont conformes aux anciennes prescriptions, mais non aux nouvelles, peuvent être mis professionnellement dans le commerce dans un délai d’une année au plus après l’entrée en vigueur de cette modification.
 
-## Disposition finale relative à la modification du 15 juin 2018****
+## Dispositions finales de la modification du 15 juin 2018****
 
 [^u2-1]
 
-[^u2-1]: [RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)
+[^u2-1]: [RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141). Nouvelle teneur selon l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
-Les essayeurs du commerce qui ne sont pas soumis à l’obligation d’obtenir une autorisation en vertu de l’ancien droit mais sont tenus d’en obtenir une en vertu de la modification du 15 juin 2018 doivent s’annoncer à la FINMA dans les six mois qui suivent l’entrée en vigueur. Ils doivent satisfaire aux exigences de la présente loi et demander une autorisation dans les deux ans à compter de l’entrée en vigueur de cette modification. Ils peuvent poursuivre leur activité jusqu’à ce qu’il soit statué sur l’autorisation.
+<sup>1</sup> Les essayeurs du commerce et les sociétés de groupe qui, à l’entrée en vigueur de la modification du 15 juin 2018, disposent d’une autorisation de la FINMA en vertu de l’art. 14 LBA[^u2-2] dans sa teneur du 1<sup>er</sup> janvier 2009[^u2-3] doivent charger une société d’audit agréée par l’Autorité fédérale de surveillance en matière de révision conformément à l’art. 9*a* de la loi du 16 décembre 2005 sur la surveillance de la révision[^u2-4] de procéder à un audit conformément à l’art. 24 LFINMA[^u2-5].
+
+<sup>2</sup> Les essayeurs du commerce et les sociétés de groupe qui, à l’entrée en vigueur de la modification du 15 juin 2018, sont affiliés à un organisme d’autorégulation reconnu au sens de l’art. 24 LBA restent soumis à sa surveillance.
+
+[^u2-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^u2-3]: [RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)
+[^u2-4]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^u2-5]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 
 Annexe 1*[^t-2]*
 

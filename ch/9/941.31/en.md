@@ -4,11 +4,11 @@ title: "Federal Act of 20 June 1933 on the Control of the Trade in Precious Meta
 short: PMCA
 eli: "https://fedlex.data.admin.ch/eli/cc/50/345_357_401"
 language: en
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1933-06-20
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20200101/en/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20200101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20200101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20220101/en/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20220101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20200101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.[^t-1]
 
-of 20 June 1933 (Status as of 1 January 2020)
+of 20 June 1933 (Status as of 1 January 2022)
 
 [^t-1]: Amended by Art. 75 No 2 of the Trademark Protection Act of 28 Aug. 1992, in force since 1 April 1993 ([AS 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274); [BBl 1991 I 1](https://fedlex.data.admin.ch/eli/fga/1991/1_1_1_1)).
 
@@ -838,9 +838,16 @@ Articles that were manufactured before the commencement of the Amendment of 17 J
 
 [^u2-1]
 
-[^u2-1]: [AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)
+[^u2-1]: [AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141). Amended by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2022 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
-Trade assayers who are newly subject to an authorisation requirement at the time of the amendment to this Act coming into force shall report to FINMA within six months of the amendment of 15 June 2018 coming into force. They must satisfy the requirements and submit an authorisation application within two years of the amendment coming into force. They may continue to perform their activity until a decision has been made concerning authorisation.
+<sup>1</sup> Trade assayers and group companies that, at the time of entry into force of the amendment of 15 June 2018, have a licence from FINMA in accordance with Article 14 of the AMLA[^u2-2] in the version of 1 January 2009[^u2-3] must appoint an audit firm licensed by the Federal Audit Oversight Authority in accordance with Article 9*a* of the Federal Act of 16 December 2005[^u2-4] on the Licensing and Oversight of Auditors to conduct an audit in accordance with Article 24 of the FINMASA[^u2-5].
+
+<sup>2</sup> Trade assayers and group companies that, at the time of entry into force of the amendment of 15 June 2018, are affiliated to a recognised self-regulatory organisation in accordance with Article 24 of the AMLA shall remain subject to its supervision.
+
+[^u2-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^u2-3]: [AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)
+[^u2-4]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^u2-5]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 
 Annex 1*[^t-2]*
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. Juni 1933 über die Kontrolle des Verkehrs mit Edel
 short: EMKG
 eli: "https://fedlex.data.admin.ch/eli/cc/50/345_357_401"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1933-06-20
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20200101/de/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20220101/de/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20200101/de"
 
 (Edelmetallkontrollgesetz, EMKG)**[^t-1]**
 
-vom 20. Juni 1933 (Stand am 1. Januar 2020)
+vom 20. Juni 1933 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Art. 75 Ziff. 2 des Markenschutzgesetzes vom 28. Aug. 1992, in Kraft seit 1. April 1993 ([AS 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274); [BBl 1991 I 1](https://fedlex.data.admin.ch/eli/fga/1991/1_1_1_1)).
 
@@ -327,7 +327,7 @@ Der Bundesrat regelt im einzelnen das durch die Kontrollämter zu beobachtende V
 [^20-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 1994, in Kraft seit 1. Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 [^20-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 1994, in Kraft seit 1. Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 [^20-4]: Fassung gemäss Anhang Ziff. 19 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
-[^20-5]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 Ziff. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)Ziff. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)Ziff. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)Ziff. I 1 Art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 Abs. 1]. Siehe heute: das Zollgesetz vom 18. März 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^20-5]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 Ziff. III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)Ziff. I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)Ziff. III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)Ziff. I 1 Art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 Abs. 1]. Siehe heute: das Zollgesetz vom 18. März 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
 
 ### Ausfuhr
 
@@ -617,7 +617,7 @@ Der Handelsprüfer bedarf einer Berufsbewilligung des Zentralamtes. Voraussetzun
 
 [^chap7-1]
 
-[^chap7-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2-6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)) zu interpretieren beziehungsweise umzurechnen.
+[^chap7-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)) zu interpretieren beziehungsweise umzurechnen.
 
 ### 1. Widerhandlungen
 
@@ -754,7 +754,7 @@ Werden Widerhandlungen im Geschäftsbetrieb einer juristischen Person, einer Kol
 
 Soweit das vorliegende Gesetz keine abweichenden Vorschriften aufstellt, finden die allgemeinen Bestimmungen des Bundesgesetzes vom 4. Februar 1853[^53-1] über das Bundesstrafrecht Anwendung.
 
-[^53-1]: [AS **III** 404, **VI** 312 Art. 5, **19** 253, **28** 129 Art. 227 Abs. 1 Ziff. 6; BS **3** 303 Art. 342 Abs. 2 Ziff. 3, **4** 766 Art. 61, **7** 754 Art. 69 Ziff. 4 867 Art. 48. SR **3** 203 Art. 398 Abs. 2 Bst. a]. Heute: die allgemeinen Bestimmungen des StGB (Art. 334 StGB – [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)).
+[^53-1]: [AS **III** 404; **VI** 312 Art. 5; **19** 253; **28** 129 Art. 227 Abs. 1 Ziff. 6; BS **3** 303 Art. 342 Abs. 2 Ziff. 3; **4** 766 Art. 61; **7** 754 Art. 69 Ziff. 4, 867 Art. 48. SR **3** 203 Art. 398 Abs. 2 Bst. a]. Heute: die allgemeinen Bestimmungen des StGB (Art. 334 StGB – [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)).
 
 ### 5. Strafverfahren
 
@@ -840,9 +840,16 @@ Waren, die vor Inkrafttreten der Änderung vom 17. Juni 1994 hergestellt wurden 
 
 [^u2-1]
 
-[^u2-1]: [AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)
+[^u2-1]: [AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141). Fassung gemäss Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
-Handelsprüfer, die nach bisherigem Recht keiner Bewilligungspflicht unterstehen, die aber bei Inkrafttreten der Änderung vom 15. Juni 2018 neu einer Bewilligungspflicht unterstehen, melden sich innert sechs Monaten ab Inkrafttreten der Änderung bei der FINMA. Sie müssen innert zweier Jahre ab Inkrafttreten dieser Änderung den Anforderungen dieses Gesetzes genügen und ein Bewilligungsgesuch stellen. Bis zum Entscheid über die Bewilligung können sie ihre Tätigkeit fortführen.
+<sup>1</sup> Handelsprüfer und Gruppengesellschaften, die bei Inkrafttreten der Änderung vom 15. Juni 2018 über eine Bewilligung der FINMA nach Artikel 14 GwG[^u2-2] in der Fassung vom 1. Januar 2009[^u2-3] verfügen, müssen eine von der Eidgenössischen Revisionsaufsichtsbehörde nach Artikel 9*a* des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^u2-4] zugelassene Prüfgesellschaft mit einer Prüfung nach Artikel 24 FINMAG[^u2-5] beauftragen.
+
+<sup>2</sup> Handelsprüfer und Gruppengesellschaften, die bei Inkrafttreten der Änderung vom 15. Juni 2018 einer anerkannten Selbstregulierungsorganisation gemäss Artikel 24 GwG angeschlossen sind, bleiben deren Aufsicht unterstellt.
+
+[^u2-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^u2-3]: [AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)
+[^u2-4]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^u2-5]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 
 Anhang 1*[^t-2]*
 
