@@ -3,20 +3,19 @@ canton: BE
 number: "525.31"
 title: Verordnung über die Sportschiessanlagen
 language: de
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-24
+version: 2022-01-01
+version_adopted: 2021-10-27
 adopted: 2006-10-25
 in_force: 2007-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/525.31"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2230/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2525/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Sportschiessanlagen
 
-vom 25.10.2006 (Stand 01.04.2021)
+vom 25.10.2006 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -28,11 +27,29 @@ beschliesst:
 
 [^ingress-1]: SR 510.512
 
-## 1 Gegenstand
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
+**Gegenstand**
+
 <sup>1</sup> Diese Verordnung regelt die sicherheitstechnische Genehmigung und Kontrolle von stationären und temporären Schiessanlagen, die nicht dem Schiesswesen ausser Dienst zur Verfügung stehen (sog. Sportschiessanlagen).
+
+#### Art. 1a
+
+**Definition**
+
+<sup>1</sup> Als Sportschiessanlagen im Sinne dieser Verordnung gelten insbesondere Schiessanlagen für
+
+- a Vorderlader,
+- b Kleinkaliber,
+- c Armbrust,
+- d Druckluft,
+- e Dynamic-Shooting,
+- f Jagdschiessen,
+- g Bogenschiessen,
+- h Paintball,
+- i Airsoft.
 
 ## 2 Fachstelle und kantonale Schiessanlagenexpertin oder kantonaler Schiessanlagenexperte
 
@@ -45,12 +62,12 @@ beschliesst:
 <sup>3</sup> Die kantonale Schiessanlagenexpertin oder der kantonale Schiessanlagenexperte
 
 - a wirkt im Rahmen des Baubewilligungsverfahrens für Sportschiessanlagen als Fachperson in Sicherheitsfragen und erstellt vor Erteilung der Baubewilligung einen Fachbericht,
-- b prüft die Sportschiessanlagen nach den Richtlinien und Vorschriften der Unfallversicherung Schweizerischer Schützenvereine (USS) gemäss den nachstehenden Bestimmungen und
-- c führt das Verzeichnis der Sportschiessanlagen im Kanton Bern, das für jede Anlage mindestens folgende Angaben enthält:
+- b prüft die Sportschiessanlagen gemäss den Richtlinien und Vorschriften der entsprechenden Verbände sowie den nachstehenden Bestimmungen und
+- c führt das Verzeichnis der Sportschiessanlagen im Kanton, das für jede Anlage mindestens folgende Angaben enthält:
   - 1\. Art der Anlage,
   - 2\. zugelassene Disziplinen,
   - 3\. Datum der Abnahme,
-  - 4\. Datum der Betriebsgehnemigung,
+  - 4\. Datum der Betriebsgenehmigung,
   - 5\. Datum der durchgeführten Kontrollen,
   - 6\. Datum und Art von Beanstandungen und
   - 7\. Datum der Mängelbeseitigung.
@@ -73,7 +90,7 @@ beschliesst:
 
 - a der Gesuchstellerin oder dem Gesuchsteller,
 - b der Betreiberin oder dem Betreiber der Sportschiessanlage,
-- c der USS,
+- c der USS Versicherungen Genossenschaft,
 - d der zuständigen Gemeindebehörde,
 - e der zuständigen Regierungsstatthalterin oder dem zuständigen Regierungsstatthalter und
 - f den nationalen, kantonalen und regionalen Schiessverbänden.
@@ -82,7 +99,7 @@ beschliesst:
 
 **Betriebsgenehmigung**
 
-<sup>1</sup> Sofern der Abnahmebericht die Zweckmässigkeit und die Sicherheit der Sportschiessanlage entsprechend den Richtlinien und Vorschriften der USS bestätigt und ein Versicherungsnachweis vorliegt, erteilt das BSM die Betriebsgenehmigung.
+<sup>1</sup> Sofern der Abnahmebericht die Zweckmässigkeit und die Sicherheit der Sportschiessanlage gemäss den Richtlinien und Vorschriften der entsprechenden Verbände bestätigt und ein Versicherungsnachweis vorliegt, erteilt das BSM die Betriebsgenehmigung.
 
 ## 4 Kontrolle
 
@@ -91,8 +108,8 @@ beschliesst:
 <sup>1</sup> Die Kontrolle bewilligter Sportschiessanlagen erfolgt durch die kantonale Schiessanlagenexpertin oder den kantonalen Schiessanlagenexperten von Amtes wegen in der Regel alle zwölf Jahre oder auf Ersuchen nachfolgender Stellen sowie Funktionsträgerinnen und Funktionsträger:
 
 - a der Betreiberin oder des Betreibers der Sportschiessanlage,
-- b der USS,
-- c der eidgenössischen Schiessoffizierinnen oder der eidgenössischen Schiessoffiziere,
+- b der USS Versicherungen Genossenschaft,
+- c der eidgenössischen Schiessoffizierinnen und der eidgenössischen Schiessoffiziere,
 - d der eidgenössischen Schiessanlagenexpertin oder des eidgenössischen Schiessanlagenexperten,
 - e der Schiessverbände oder
 - f der zuständigen Regierungsstatthalterin oder des zuständigen Regierungsstatthalters.
@@ -101,7 +118,9 @@ beschliesst:
 
 #### Art. 7
 
-<sup>1</sup> Das BSM kann aus sicherheitstechnischen Gründen die Sperrung, teilweise Sperrung oder Aufhebung einer Sportschiessanlage verfügen. Die Sperrung kann auf Antrag der Eigentümerin oder des Eigentümers oder von Amtes wegen erfolgen.
+<sup>1</sup> Das BSM kann aus sicherheitstechnischen Gründen die Sperrung, teilweise Sperrung oder Aufhebung einer Sportschiessanlage verfügen.
+
+<sup>2</sup> Die Massnahmen gemäss Absatz 1 können auf Antrag der Eigentümerin oder des Eigentümers der Sportschiessanlage oder von Amtes wegen erfolgen.
 
 ## 6 Pflichten der Betreiberinnen und Betreiber von Sportschiessanlagen
 
@@ -113,11 +132,11 @@ beschliesst:
 
 <sup>3</sup> Sie melden Unfälle auf ihren Sportschiessanlagen unverzüglich der kantonalen Schiessanlagenexpertin oder dem kantonalen Schiessanlagenexperten.
 
-## 7 Pflichten der USS
+## 7 Pflichten der USS Versicherungen Genossenschaft
 
 #### Art. 9
 
-<sup>1</sup> Die USS stellt dem BSM jährlich die Liste ihrer versicherten Betreiberinnen und Betreiber von Sportschiessanlagen im Kanton Bern zu.
+<sup>1</sup> Die USS Versicherungen Genossenschaft stellt dem BSM jährlich die Liste ihrer versicherten Betreiberinnen und Betreiber von Sportschiessanlagen im Kanton zu.
 
 <sup>2</sup> Sie weist ihre Versicherungsnehmerinnen und -nehmer auf das sicherheitstechnische Genehmigungs- und Kontrollwesen hin.
 
@@ -125,15 +144,17 @@ beschliesst:
 
 #### Art. 10
 
-<sup>1</sup> Die zuständige Baubewilligungsbehörde meldet dem BSM Baubewilligungen betreffend Neu-, Um- und Erweiterungsbauten im unmittelbaren Umfeld von Sportsschiessanlagen und gewährt ihm auf Ersuchen Akteneinsicht. Zur Festlegung des Umfelds wird das Schema der Gefahrenzonen gemäss Weisungen des VBS für die technischen Belange für Schiessanlagen beigezogen.
+<sup>1</sup> Die zuständige Baubewilligungsbehörde meldet dem BSM Baubewilligungen betreffend Neu-, Um- und Erweiterungsbauten im unmittelbaren Umfeld von Sportsschiessanlagen und gewährt ihm auf Ersuchen Akteneinsicht.
+
+<sup>2</sup> Zur Festlegung des Umfelds wird das Schema der Gefahrenzonen gemäss den Weisungen des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport (VBS) für die technischen Belange für Schiessanlagen beigezogen.
 
 ## 9 Gebühren
 
 #### Art. 11
 
-<sup>1</sup> Gebühren werden entsprechend der Verordnung vom 22. Februar 1995 über die Gebühren der Kantonsverwaltung (Gebührenverordnung, GebV)[^11-1] erhoben.
+<sup>1</sup> Gebühren werden gemäss der Verordnung vom 22. Februar 1995 über die Gebühren der Kantonsverwaltung (Gebührenverordnung, GebV)[^11-1] erhoben.
 
-[^11-1]: BSG 154.21
+[^11-1]: BSG [154.21](https://www.belex.sites.be.ch/data/154.21/de)
 
 ## 10 Rechtspflege
 
