@@ -3,11 +3,11 @@ sr: "837.033"
 title: "Ordonnance du 20 mars 2020 sur les mesures dans le domaine de l'assurance-chômage en lien avec le coronavirus (COVID-19) (Ordonnance COVID-19 assurance-chômage)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/169"
 language: fr
-version: 2021-12-20
+version: 2022-01-01
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20211220/fr/xml/fedlex-data-admin-ch-eli-cc-2020-169-20211220-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20211220/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-169-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20211220/fr"
 
 (Ordonnance COVID-19 assurance-chômage)
 
-du 20 mars 2020 (Etat le 20 décembre 2021)
+du 20 mars 2020 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -37,7 +37,10 @@ arrête:
 
 [^3-1]
 
-[^3-1]: Nouvelle teneur selon le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)). Voir art. 9 al. 6 et 6<sup>bis</sup>.
+En dérogation aux art. 32, al. 2, et 37, let. b, de la loi du 25 juin 1982 sur l’assurance-chômage (LACI)[^3-2], aucun délai d’attente n’est déduit de la perte de travail à prendre en considération.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 26 janv. 2022 (Prolongation de la procédure de décompte sommaire et reconduction d’autres mesures), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
+[^3-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 4
 
@@ -73,9 +76,12 @@ Les personnes qui sont en apprentissage ont droit à l’indemnité en cas de r�
 
 #### Art. 7
 
-En dérogation à l’art. 38, al. 3, let. b et c, LACI[^7-1], l’employeur ne remet pas à la caisse de chômage le décompte des indemnités versées à ses travailleurs et l’attestation certifiant qu’il continue à payer les cotisations des assurances sociales.
+[^7-1]
 
-[^7-1]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+En dérogation à l’art. 38, al. 3, let. b et c, LACI[^7-2], l’employeur ne remet pas à la caisse de chômage le décompte des indemnités versées à ses travailleurs et l’attestation certifiant qu’il continue à payer les cotisations des assurances sociales.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 26 janv. 2022 (Prolongation de la procédure de décompte sommaire et reconduction d’autres mesures), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
+[^7-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 8
 
@@ -134,11 +140,11 @@ En dérogation aux art. 31, al. 3, let. a, et 33, al. 1, let. b, LACI[^8f-2], le
 
 [^8g-1]
 
-<sup>1</sup> En dérogation à l’art. 35, al. 1<sup>bis</sup>, LACI[^8g-2], la perte de travail supérieure à 85 % de l’horaire normal de l’entreprise peut excéder quatre périodes de décompte entre le 1<sup>er</sup> mars 2020 et le 31 mars 2021.
+<sup>1</sup> En dérogation à l’art. 35, al. 1<sup>bis</sup>, LACI[^8g-2], la perte de travail supérieure à 85 % de l’horaire normal de l’entreprise peut excéder quatre périodes de décompte entre le 1<sup>er</sup> mars 2020 et le 31 mars 2021 et entre le 1<sup>er</sup> janvier 2022 et le 31 mars 2022.
 
-<sup>2</sup> Les périodes de décompte pour l’indemnité en cas de réduction de l’horaire de travail, pour lesquelles la perte de travail a été supérieure à 85 % de l’horaire normal de l’entreprise entre le 1<sup>er</sup> mars 2020 et le 31 mars 2021, ne sont pas prises en compte pour la détermination du droit à quatre périodes de décompte au sens de l’art. 35, al. 1<sup>bis</sup>, LACI à partir du 1<sup>er</sup> avril 2021.
+<sup>2</sup> Les périodes de décompte de l’indemnité en cas de réduction de l’horaire de travail pour lesquelles, entre le 1<sup>er</sup> mars 2020 et le 31 mars 2021 et entre le 1<sup>er</sup> janvier 2022 et le 31 mars 2022, la perte de travail a été supérieure à 85 % de l’horaire normal de l’entreprise, ne sont pas prises en considération pour le calcul du droit de quatre périodes de décompte au sens de l’art. 35, al. 1<sup>bis</sup>, LACI, du 1<sup>er</sup> avril 2021 au 31 décembre 2021 et à partir du 1<sup>er</sup> avril 2022.
 
-[^8g-1]: Introduit par le ch. I 1 de l’O du 8 avr. 2020 sur des mesures complémentaires dans le domaine de l’assurance-chômage en lien avec le coronavirus ([RO 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)). Nouvelle teneur selon le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^8g-1]: Introduit par le ch. I 1 de l’O du 8 avr. 2020 sur des mesures complémentaires dans le domaine de l’assurance-chômage en lien avec le coronavirus ([RO 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)). Nouvelle teneur selon le ch. I de l’O du 26 janv. 2022 (Prolongation de la procédure de décompte sommaire et reconduction d’autres mesures), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
 [^8g-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 8h
@@ -151,18 +157,16 @@ En dérogation aux art. 31, al. 3, let. a, et 33, al. 1, let. b, LACI[^8f-2], le
 
 [^8i-1]
 
-<sup>1</sup> En dérogation aux art. 34, al. 2, et 38, al. 3, let. b, LACI[^8i-2], la perte de gain à prendre en considération est calculée en procédure sommaire et l’indemnité en cas de réduction de l’horaire de travail est versée sous la forme d’un forfait.[^8i-3]
+<sup>1</sup> En dérogation aux art. 34, al. 2, et 38, al. 3, let. b, LACI[^8i-2], la perte de gain prise en considération est calculée par le recours à la procédure de décompte sommaire, et l’indemnité en cas de réduction de l’horaire de travail est versée sous la forme d’un forfait.
 
-<sup>2</sup> La proportion de la perte de travail due à des raisons économiques est déterminée par le rapport entre la somme des heures perdues pour ces raisons par les personnes concernées par la réduction de l’horaire de travail et la somme des heures effectuées en temps normal par l’ensemble des personnes ayant droit à l’indemnité.
+<sup>2</sup> Le pourcentage des heures de travail perdues pour raisons économiques est déterminé par le rapport entre la somme des heures perdues pour raisons économiques par les personnes concernées par la réduction de l’horaire de travail et la somme des heures théoriques de toutes les personnes qui ont droit aux indemnités.
 
-<sup>3</sup> La perte de gain à prendre en considération correspond à la proportion de la perte de travail due à des raisons économiques rapportée à la somme des gains déterminants de toutes les personnes ayant droit à l’indemnité.
+<sup>3</sup> La perte de gain imputable correspond à la part des heures de travail perdues pour raisons économiques par rapport au total des revenus déterminants de toutes les personnes ayant droit aux indemnités.
 
-<sup>4</sup> Si l’entreprise indique des revenus modestes tels que ceux fixés à l’art. 17*a*, let. a, ch. 1 et 2, de la loi COVID-19 du 25 septembre 2020, la perte de gain à prendre en considération est calculée en procédure sommaire séparément pour chaque catégorie de revenu.[^8i-4]
+<sup>4</sup> Si l’entreprise compte des personnes à revenu modeste au sens de l’art. 17*a*, let. a, ch. 1 et 2, de la loi COVID-19 du 25 septembre 2020, la perte de gain prise en considération dans la procédure de décompte sommaire est calculée séparément pour chacune des catégories de revenu.
 
-[^8i-1]: Introduit par le ch. I 1 de l’O du 8 avr. 2020 sur des mesures complémentaires dans le domaine de l’assurance-chômage en lien avec le coronavirus, en vigueur du 9 avr. au 31 déc. 2021 ([RO 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226), [3569](https://fedlex.data.admin.ch/eli/oc/2020/634), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169), [382](https://fedlex.data.admin.ch/eli/oc/2021/382), [593](https://fedlex.data.admin.ch/eli/oc/2021/593)).
+[^8i-1]: Introduit par le ch. I 1 de l’O du 8 avr. 2020 sur des mesures complémentaires dans le domaine de l’assurance-chômage en lien avec le coronavirus ([RO 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226), [3569](https://fedlex.data.admin.ch/eli/oc/2020/634), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169), [382](https://fedlex.data.admin.ch/eli/oc/2021/382), [593](https://fedlex.data.admin.ch/eli/oc/2021/593)). Nouvelle teneur selon le ch. I de l’O du 26 janv. 2022 (Prolongation de la procédure de décompte sommaire et reconduction d’autres mesures), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
 [^8i-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^8i-3]: Nouvelle teneur selon le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 21 janv. 2021 ([RO 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
-[^8i-4]: Introduit par le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 21 janv. 2021 ([RO 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
 
 #### Art. 8j
 
@@ -222,6 +226,10 @@ La durée maximale de l’indemnité en cas de réduction de l’horaire de trav
 
 <sup>8</sup> L’art. 8*k* a effet jusqu’au 28 février 2022.[^9-16]
 
+<sup>9</sup> La durée de validité visée à l’al. 8 est prolongée jusqu’au 30 juin 2022.[^9-17]
+
+<sup>10</sup> Les art. 3, 4, 7, 8*f* et 8*i* ont effet jusqu’au 31 mars 2022.[^9-18]
+
 [^9-1]: Nouvelle teneur selon le ch. I 1 de l’O du 8 avr. 2020 sur des mesures complémentaires dans le domaine de l’assurance-chômage en lien avec le coronavirus, en vigueur depuis le 9 avr. 2020 ([RO 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)).
 [^9-2]: [RO 2020 877](https://fedlex.data.admin.ch/eli/oc/2020/169)[1075](https://fedlex.data.admin.ch/eli/oc/2020/193)[1201](https://fedlex.data.admin.ch/eli/oc/2020/226)
 [^9-3]: Introduit par le ch. I de l’O du 12 août 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
@@ -238,3 +246,5 @@ La durée maximale de l’indemnité en cas de réduction de l’horaire de trav
 [^9-14]: Introduit par le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 21 janv. 2021 ([RO 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
 [^9-15]: Introduit par le ch. I de l’O du 23 juin 2021 (Hausse de la durée maximale de perception de l’indemnité en cas de réduction de l’horaire de travail et prolongation de la durée de validité d’autres mesures), en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
 [^9-16]: Introduit par le ch. I de l’O du 23 juin 2021 (Hausse de la durée maximale de perception de l’indemnité en cas de réduction de l’horaire de travail et prolongation de la durée de validité d’autres mesures), en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+[^9-17]: Introduit par le ch. I de l’O du 26 janv. 2022 (Prolongation de la procédure de décompte sommaire et reconduction d’autres mesures), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
+[^9-18]: Introduit par le ch. I de l’O du 26 janv. 2022 (Prolongation de la procédure de décompte sommaire et reconduction d’autres mesures), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
