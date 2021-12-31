@@ -4,13 +4,12 @@ number: "850.1"
 title: "Loi sur l'intégration et l'aide sociale"
 short: LIAS
 language: fr
-version: 2021-07-01
-valid_until: 2021-12-31
+version: 2022-01-01
 version_adopted: 2020-09-10
 adopted: 2020-09-10
 in_force: 2021-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/850.1"
-pdf: "https://lex.vs.ch/api/fr/versions/2879/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2997/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2879/pdf_file"
 
 (LIAS)
 
-du 10.09.2020 (état 01.07.2021)
+du 10.09.2020 (état 01.01.2022)
 
 Le Grand Conseil du canton du Valais
 
@@ -405,7 +404,7 @@ ordonne:[^ingress-1]
 - b) toute autre attribution décidée par le Conseil d’Etat;
 - c) des dons ou legs.
 
-<sup>3</sup> Les ressources du fonds servent au financement de tout projet ou objet non couvert par le budget ordinaire du service et lié à l’intégration socio-professionnelle des bénéficiaires de l’aide sociale.
+<sup>3</sup> Les ressources du fonds servent au financement de tout projet ou objet non couvert par le budget ordinaire du service et lié à l’intégration socio-professionnelle des bénéficiaires de l’aide sociale et/ou des personnes en situation de handicap.
 
 <sup>4</sup> Le Conseil d’Etat désigne l’organe de gestion du fonds et approuve le règlement du fonds.
 

@@ -4,13 +4,12 @@ number: "850.1"
 title: Gesetz über die Eingliederung und die Sozialhilfe
 short: GES
 language: de
-version: 2021-07-01
-valid_until: 2021-12-31
+version: 2022-01-01
 version_adopted: 2020-09-10
 adopted: 2020-09-10
 in_force: 2021-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/850.1"
-pdf: "https://lex.vs.ch/api/de/versions/2879/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2997/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2879/pdf_file"
 
 (GES)
 
-vom 10.09.2020 (Stand 01.07.2021)
+vom 10.09.2020 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -405,7 +404,7 @@ verordnet:[^ingress-1]
 - b) weiteren vom Staatsrat zu beschliessenden Zuweisungen;
 - c) Schenkungen oder Vermächtnissen.
 
-<sup>3</sup> Die Fondsmittel werden zur Finanzierung von Projekten oder Sachen, die im ordentlichen Haushaltsplan nicht enthalten sind und im Zusammenhang mit der sozialen und beruflichen Integration von Sozialhilfempfängern stehen, verwendet.
+<sup>3</sup> Die Fondsmittel werden zur Finanzierung von Projekten oder Sachen, die im ordentlichen Haushaltsplan nicht enthalten sind und im Zusammenhang mit der sozialen und beruflichen Integration von Sozialhilfeempfängern und/oder Menschen mit Behinderungen stehen, verwendet.
 
 <sup>4</sup> Der Staatsrat bestimmt das Leitungsorgan des Fonds und genehmigt das Reglement des Fonds.
 
