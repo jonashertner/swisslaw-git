@@ -4,11 +4,11 @@ title: "Ordinance of 26 April 1993 on Copyright and Related Rights (Copyright Or
 short: CopO
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821"
 language: en
-version: 2018-01-01
+version: 2022-01-01
 adopted: 1993-04-26
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821/20180101/en/xml/fedlex-data-admin-ch-eli-cc-1993-1821_1821_1821-20180101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1821_1821_1821/20180101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1993-1821_1821_1821-20220101-en-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1821_1821_1821/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Copyright Ordinance, CopO)
 
-of 26 April 1993 (Status as of 1 January 2018)
+of 26 April 1993 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
@@ -198,11 +198,11 @@ The parties involved have the right to a hearing.
 [^16-2]: Amended by No I of the O of 25 Oct. 1995, in force since 1 Jan. 1996 ([AS 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
 [^16-3]: Amended by No I of the O of 25 Oct. 1995, in force since 1 Jan. 1996 ([AS 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
 
-### Section 3**** Fees
+### Section 3 Fees
 
 [^chap1-sec3-1]
 
-[^chap1-sec3-1]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
+[^chap1-sec3-1]: Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
 #### Art. 16a
 
@@ -245,7 +245,7 @@ In the absence of any specific provision in this Ordinance, the provisions of th
 
 [^16d-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
-## Chapter 1*a.***** Monitoring Office for Technological Measures
+## Chapter 1*a.* Monitoring Office for Technological Measures
 
 [^chap1a-1]
 
@@ -311,13 +311,17 @@ The permitted use of a computer program in accordance with Article 12 paragraph 
 
 [^17a-1]: Inserted by Annex 2 No 3 of the Ordinance on Equality for People with Disabilities of 19 Nov. 2003 ([AS 2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)). Repealed by No I of the O of 21 Mar. 2008, with effect from 1 July 2008 ([AS 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
-## Chapter 3 Assistance provided by the Customs Administration
+## Chapter 3 Assistance provided by the Federal Office for Customs and Border Security
+
+[^chap3-1]
+
+[^chap3-1]: The name of this administrative unit was amended on 1 Jan. 2022 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This amendment has been made throughout the text.
 
 #### Art. 18
 
 **Scope**[^18-1]
 
-The assistance provided by the Customs Administration shall extend to the movement of goods into or out of the customs territory if it is suspected that their distribution infringes applicable legislation in Switzerland on copyright and related rights.
+The assistance provided by the Federal Office for Customs and Border Security (FOCBS) shall extend to the movement of goods into or out of the customs territory if it is suspected that their distribution infringes applicable legislation in Switzerland on copyright and related rights.
 
 [^18-1]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
 
@@ -353,7 +357,7 @@ The assistance provided by the Customs Administration shall extend to the moveme
 
 **Samples**[^20a-1]
 
-<sup>1</sup> The applicant may request that samples are handed over or delivered to them for examination or that the goods are inspected. Instead of samples, the Customs Administration may provide the applicant with photographs of the goods withheld if this enables the applicant to assess the goods.
+<sup>1</sup> The applicant may request that samples are handed over or delivered to them for examination or that the goods are inspected. Instead of samples, the FOCBS may provide the applicant with photographs of the goods withheld if this enables the applicant to assess the goods.
 
 <sup>2</sup> The request may be submitted with the application for assistance to the Directorate General of Customs or, while the goods are being withheld, directly to the customs office that is withholding the goods.
 
@@ -363,9 +367,9 @@ The assistance provided by the Customs Administration shall extend to the moveme
 
 **Safeguarding of manufacturing and trade secrets**[^20b-1]
 
-<sup>1</sup> The Customs Administration shall inform the declarant, holder or owner of the goods of the possibility of submitting a reasoned request for refusal to take samples. It shall set a suitable time limit for him or her to submit the request.
+<sup>1</sup> The FOCBS shall inform the declarant, holder or owner of the goods of the possibility of submitting a reasoned request for refusal to take samples. It shall set a suitable time limit for him or her to submit the request.
 
-<sup>2</sup> If the Customs Administration permits the applicant to inspect the withheld goods, it shall take appropriate consideration of the interests of the applicant and declarant, holder or owner when determining the date of inspection.
+<sup>2</sup> If the FOCBS permits the applicant to inspect the withheld goods, it shall take appropriate consideration of the interests of the applicant and declarant, holder or owner when determining the date of inspection.
 
 [^20b-1]: Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
 
@@ -373,9 +377,9 @@ The assistance provided by the Customs Administration shall extend to the moveme
 
 **Safekeeping of evidence in the event of destruction of goods**[^20c-1]
 
-<sup>1</sup> The Customs Administration shall keep the samples collected for a period of one year starting from the date of notification of the declarant, holder or owner in accordance with Article 77 paragraph 1 CopA. After this time limit expires, the Customs Administration shall request the declarant, holder or owner to take possession of the samples or bear the costs of their continued safekeeping. If the declarant, holder or owner is not willing to do so or does not respond to this request within 30 days, the Customs Administration shall destroy the samples.
+<sup>1</sup> The FOCBS shall keep the samples collected for a period of one year starting from the date of notification of the declarant, holder or owner in accordance with Article 77 paragraph 1 CopA. After this time limit expires, the FOCBS shall request the declarant, holder or owner to take possession of the samples or bear the costs of their continued safekeeping. If the declarant, holder or owner is not willing to do so or does not respond to this request within 30 days, the FOCBS shall destroy the samples.
 
-<sup>2</sup> Instead of collecting samples, the Customs Administration may take photographs of the destroyed goods, provided this serves the purpose of preserving evidence.
+<sup>2</sup> Instead of collecting samples, the FOCBS may take photographs of the destroyed goods, provided this serves the purpose of preserving evidence.
 
 [^20c-1]: Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
 
@@ -383,7 +387,7 @@ The assistance provided by the Customs Administration shall extend to the moveme
 
 **Fees**[^21-1]
 
-The fees for assistance provided by the Customs Administration are governed by the Ordinance of 4 April 2007[^21-2] on Federal Customs Administration Charges.
+The fees for assistance provided by the FOCBS are governed by the Ordinance of 4 April 2007[^21-2] on Federal Customs Administration Charges.
 
 [^21-1]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
 [^21-2]: [SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
@@ -396,7 +400,7 @@ The fees for assistance provided by the Customs Administration are governed by t
 
 [^21a21f-1]: Inserted by No I of the O of 17 May 1995 ([AS 1995 1778](https://fedlex.data.admin.ch/eli/oc/1995/1778_1778_1778)). Repealed by No I of the O of 21 May 2008, with effect from 1 July 2008 ([AS 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
-## Chapter 5**** Final Provisions
+## Chapter 5 Final Provisions
 
 [^chap5-1]
 

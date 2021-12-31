@@ -4,20 +4,20 @@ title: "Ordinanza del 26 aprile 1993 sul diritto d'autore e sui diritti di prote
 short: ODAu
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821"
 language: it
-version: 2018-01-01
+version: 2022-01-01
 adopted: 1993-04-26
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821/20180101/it/xml/fedlex-data-admin-ch-eli-cc-1993-1821_1821_1821-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1821_1821_1821/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-1821_1821_1821-20220101-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1821_1821_1821/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul diritto d’autore e sui diritti di protezione affini
 
-(Ordinanza sul diritto d’autore, ODAu**[^t-1]**)
+(Ordinanza sul diritto d’autore, ODAu[^t-1])
 
-del 26 aprile 1993 (Stato 1° gennaio 2018)
+del 26 aprile 1993 (Stato 1° gennaio 2022)
 
 [^t-1]: RU **1993** 1821 Nuova abbreviazione giusta l’art. 2 let. a dell’O del 10 gen. 1996 che rettifica alcune abbreviazioni di titoli di atti normativi (RU **1996** 208).
 
@@ -198,7 +198,7 @@ Le parti hanno il diritto di essere sentite.
 [^16-2]: Nuovo testo giusta il n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
 [^16-3]: Nuovo testo giusta il n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
 
-### Sezione 3:**** Tasse
+### Sezione 3: Tasse
 
 [^chap1-sec3-1]
 
@@ -245,7 +245,7 @@ Per quanto la presente ordinanza non disponga altrimenti, si applicano le dispos
 
 [^16d-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
-## Capitolo 1*a*:**** Osservatorio dei provvedimenti tecnici
+## Capitolo 1*a*: Osservatorio dei provvedimenti tecnici
 
 [^chap1a-1]
 
@@ -311,13 +311,17 @@ L’uso di un programma per computer, ammesso giusta l’articolo 12 capoverso 2
 
 [^17a-1]: Introdotto dal n. 3 dell’all. 2 all’O del 19 nov. 2003 sui disabili ([RU 2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)). Abrogato dal n. I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
-## Capitolo 3: Intervento dell’Amministrazione delle dogane
+## Capitolo 3: Intervento dell’Ufficio federale della dogana e della sicurezza dei confini
+
+[^chap3-1]
+
+[^chap3-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 18
 
 **Campo d’applicazione**[^18-1]
 
-L’Amministrazione federale delle dogane è abilitata a intervenire in caso di introduzione sul territorio doganale o di asportazione da esso di merci in merito alle quali esiste il sospetto che la loro messa in circolazione violi la legislazione vigente in Svizzera in materia di diritto d’autore o dei diritti di protezione affini.
+L’Ufficio federale della dogana e della sicurezza dei confini (UDSC) è abilitato a intervenire in caso di introduzione sul territorio doganale o di asportazione da esso di merci in merito alle quali esiste il sospetto che la loro messa in circolazione violi la legislazione vigente in Svizzera in materia di diritto d’autore o dei diritti di protezione affini.
 
 [^18-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
 
@@ -345,14 +349,14 @@ L’Amministrazione federale delle dogane è abilitata a intervenire in caso di 
 <sup>3</sup> Qualora fosse stabilito già prima della scadenza del termine previsto all’articolo 77 capoversi 2 e 2<sup>bis</sup> [^20-2] LDA che al richiedente non è concesso ottenere provvedimenti cautelari, i prodotti sono sbloccati immediatamente.[^20-3]
 
 [^20-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
-[^20-2]: Ora: cpv. 2 e 3
+[^20-2]: Ora: cpv. 2 e 3.
 [^20-3]: Nuovo testo giusta il n. I dell’O del 17 mag. 1995, in vigore dal 1° lug. 1995 ([RU 1995 1778](https://fedlex.data.admin.ch/eli/oc/1995/1778_1778_1778)).
 
 #### Art. 20a
 
 **Campioni**[^20a-1]
 
-<sup>1</sup> Il richiedente può chiedere la consegna o l’invio di campioni a scopo di esame oppure può chiedere di ispezionare la merce ritenuta. Invece dei campioni l’Amministrazione delle dogane può trasmettere al richiedente fotografie della merce ritenuta, se queste ne consentono l’esame.
+<sup>1</sup> Il richiedente può chiedere la consegna o l’invio di campioni a scopo di esame oppure può chiedere di ispezionare la merce ritenuta. Invece dei campioni può trasmettere al richiedente fotografie della merce ritenuta, se queste ne consentono l’esame.
 
 <sup>2</sup> La richiesta può essere presentata insieme alla domanda d’intervento alla Direzione generale delle dogane o, durante la ritenzione della merce, direttamente all’ufficio doganale che trattiene la merce.
 
@@ -362,9 +366,9 @@ L’Amministrazione federale delle dogane è abilitata a intervenire in caso di 
 
 **Tutela dei segreti di fabbricazione e di affari**[^20b-1]
 
-<sup>1</sup> L’Amministrazione delle dogane informa il depositante, il detentore o il proprietario della merce della possibilità di presentare una richiesta motivata per rifiutare il prelievo di campioni. Per l’inoltro della richiesta essa stabilisce un termine adeguato.
+<sup>1</sup> L’UDSC informa il depositante, il detentore o il proprietario della merce della possibilità di presentare una richiesta motivata per rifiutare il prelievo di campioni. Per l’inoltro della richiesta esso stabilisce un termine adeguato.
 
-<sup>2</sup> Qualora l’Amministrazione delle dogane consenta al richiedente di ispezionare la merce ritenuta, per stabilire il momento dell’esame tiene conto in maniera adeguata degli interessi del richiedente e del depositante, del detentore o del proprietario.
+<sup>2</sup> Qualora l’UDSC consenta al richiedente di ispezionare la merce ritenuta, per stabilire il momento dell’esame tiene conto in maniera adeguata degli interessi del richiedente e del depositante, del detentore o del proprietario.
 
 [^20b-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
 
@@ -372,7 +376,7 @@ L’Amministrazione federale delle dogane è abilitata a intervenire in caso di 
 
 **Conservazione dei mezzi di prova in caso di distruzione della merce**[^20c-1]
 
-<sup>1</sup> L’Amministrazione delle dogane trattiene i campioni prelevati per un periodo di un anno dalla notifica del depositante, del detentore o del proprietario in virtù dell’articolo 77 capoverso 1 LDA. Allo scadere di tale termine l’Amministrazione delle dogane invita il depositante, il detentore o il proprietario a prendere in custodia i campioni, oppure ad assumere i costi per la conservazione ulteriore. Qualora il depositante, il detentore o il proprietario non sia disposto a prendere in custodia i campioni oppure ad assumere i costi per la conservazione ulteriore, o se non si esprime entro 30 giorni, l’Amministrazione delle dogane distrugge i campioni.
+<sup>1</sup> L’UDSC trattiene i campioni prelevati per un periodo di un anno dalla notifica del depositante, del detentore o del proprietario in virtù dell’articolo 77 capoverso 1 LDA. Allo scadere di tale termine l’UDSC invita il depositante, il detentore o il proprietario a prendere in custodia i campioni, oppure ad assumere i costi per la conservazione ulteriore. Qualora il depositante, il detentore o il proprietario non sia disposto a prendere in custodia i campioni oppure ad assumere i costi per la conservazione ulteriore, o se non si esprime entro 30 giorni, l’UDSC distrugge i campioni.
 
 <sup>2</sup> Invece di prelevare campioni essa può fotografare la merce distrutta, a condizione che ciò consenta di garantire la conservazione dei mezzi di prova.
 
@@ -382,7 +386,7 @@ L’Amministrazione federale delle dogane è abilitata a intervenire in caso di 
 
 **Emolumenti**[^21-1]
 
-Gli emolumenti per l’intervento dell’Amministrazione delle dogane sono retti dall’ordinanza del 4 aprile 2007[^21-2] sugli emolumenti dell’Amministrazione federale delle dogane.
+Gli emolumenti per l’intervento dell’UDSC sono retti dall’ordinanza del 4 aprile 2007[^21-2] sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini.
 
 [^21-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
 [^21-2]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
@@ -395,7 +399,7 @@ Gli emolumenti per l’intervento dell’Amministrazione delle dogane sono retti
 
 [^21a21f-1]: Introdotto dal n. I dell’O del 25 ott. 1995 ([RU 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)). Abrogato dal n. I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
-## Capitolo 5:**** Disposizioni finali
+## Capitolo 5: Disposizioni finali
 
 [^chap5-1]
 

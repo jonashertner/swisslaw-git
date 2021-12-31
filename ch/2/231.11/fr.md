@@ -4,11 +4,11 @@ title: "Ordonnance du 26 avril 1993 sur le droit d'auteur et les droits voisins 
 short: ODAu
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821"
 language: fr
-version: 2018-01-01
+version: 2022-01-01
 adopted: 1993-04-26
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1821_1821_1821-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1821_1821_1821/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1821_1821_1821-20220101-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1821_1821_1821/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1821_1821_1821/20180101/fr"
 
 (Ordonnance sur le droit d’auteur, ODAu)
 
-du 26 avril 1993 (Etat le 1<sup>er</sup> janvier 2018)
+du 26 avril 1993 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -196,7 +196,7 @@ Les parties ont le droit d’être entendues oralement.
 [^16-2]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
 [^16-3]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
 
-### Section 3**** Taxes
+### Section 3 Taxes
 
 [^chap1-sec3-1]
 
@@ -231,7 +231,7 @@ Les débours de la Commission arbitrale sont facturés séparément. Ils compren
 
 #### Art. 16c
 
-**Echéance**
+**Échéance**
 
 Les taxes et les débours sont exigibles dès la notification de la décision motivée par écrit.
 
@@ -243,7 +243,7 @@ Dans la mesure où la présente ordonnance ne contient pas de règle particuliè
 
 [^16d-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
-## Chapitre 1*a***** Observatoire des mesures techniques
+## Chapitre 1*a* Observatoire des mesures techniques
 
 [^chap1a-1]
 
@@ -309,13 +309,17 @@ L’utilisation licite d’un logiciel en vertu de l’art. 12, al. 2, LDA compr
 
 [^17a-1]: Introduit par le ch. 3 de l’annexe 2 à l’O du 19 nov. 2003 sur l’égalité pour les handicapés ([RO 2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)). Abrogé par le ch. I de l’O du 21 mai 2008, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
-## Chapitre 3 Intervention de l’Administration des douanes
+## Chapitre 3 Intervention de l’Office fédéral de la douane et de la sécurité des frontières
+
+[^chap3-1]
+
+[^chap3-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 18
 
 **Domaine d’application**[^18-1]
 
-L’Administration des douanes est habilitée à intervenir en cas d’introduction sur le territoire douanier suisse et de sortie dudit territoire de produits lorsqu’il y a lieu de soupçonner que la mise en circulation de ces produits contrevient à la législation suisse régissant le droit d’auteur ou les droits voisins.
+L’Office fédéral de la douane et de la sécurité des frontières (OFDF) est habilité à intervenir en cas d’introduction sur le territoire douanier suisse et de sortie dudit territoire de produits lorsqu’il y a lieu de soupçonner que la mise en circulation de ces produits contrevient à la législation suisse régissant le droit d’auteur ou les droits voisins.
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
 
@@ -325,7 +329,7 @@ L’Administration des douanes est habilitée à intervenir en cas d’introduct
 
 <sup>1</sup> Le titulaire des droits d’auteur ou des droits voisins, ou le preneur de licence ayant qualité pour agir (requérant) doit présenter la demande d’intervention à la Direction générale des douanes.[^19-1]
 
-<sup>1bis</sup> La Direction générale des douanes rend sa décision sur la demande au plus tard 40 jours après réception de l’intégralité des pièces justificatives.[^19-2]
+<sup>1bis</sup> La Direction générale des douanes douanes rend sa décision sur la demande au plus tard 40 jours après réception de l’intégralité des pièces justificatives.[^19-2]
 
 <sup>2</sup> La demande est valable deux ans à moins qu’elle ait été déposée pour une période plus courte. Elle peut être renouvelée.
 
@@ -348,9 +352,9 @@ L’Administration des douanes est habilitée à intervenir en cas d’introduct
 
 #### Art. 20a
 
-**Echantillons**[^20a-1]
+**Échantillons**[^20a-1]
 
-<sup>1</sup> Le requérant peut présenter une demande pour solliciter la remise ou l’envoi d’échantillons à des fins d’examen ou l’inspection des produits retenus. Au lieu d’échantillons, l’Administration des douanes peut aussi lui remettre des photographies desdits produits si elles lui permettent d’effectuer cet examen.
+<sup>1</sup> Le requérant peut présenter une demande pour solliciter la remise ou l’envoi d’échantillons à des fins d’examen ou l’inspection des produits retenus. Au lieu d’échantillons, l’OFDF peut aussi lui remettre des photographies desdits produits si elles lui permettent d’effectuer cet examen.
 
 <sup>2</sup> Le requérant peut présenter cette demande à la Direction générale des douanes en même temps que la demande d’intervention ou, pendant la rétention des produits, directement au bureau de douane qui retient les produits.
 
@@ -360,9 +364,9 @@ L’Administration des douanes est habilitée à intervenir en cas d’introduct
 
 **Protection des secrets de fabrication et d’affaires**[^20b-1]
 
-<sup>1</sup> L’Administration des douanes informe le déclarant, le possesseur ou le propriétaire des produits de la possibilité de refuser le prélèvement d’échantillons sur présentation d’une demande motivée. Elle lui impartit un délai raisonnable pour présenter cette demande.
+<sup>1</sup> L’OFDF informe le déclarant, le possesseur ou le propriétaire des produits de la possibilité de refuser le prélèvement d’échantillons sur présentation d’une demande motivée. Il lui impartit un délai raisonnable pour présenter cette demande.
 
-<sup>2</sup> Si l’Administration des douanes autorise le requérant à inspecter les produits retenus, elle tient compte, pour fixer le moment de l’inspection, de manière appropriée des intérêts du requérant, d’une part, et de ceux du déclarant, du possesseur ou du propriétaire, d’autre part.
+<sup>2</sup> Si l’OFDF autorise le requérant à inspecter les produits retenus, il tient compte, pour fixer le moment de l’inspection, de manière appropriée des intérêts du requérant, d’une part, et de ceux du déclarant, du possesseur ou du propriétaire, d’autre part.
 
 [^20b-1]: Introduit par le ch. 1 de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
 
@@ -370,17 +374,17 @@ L’Administration des douanes est habilitée à intervenir en cas d’introduct
 
 **Conservation des moyens de preuve en cas de destruction des produits**[^20c-1]
 
-<sup>1</sup> L’Administration des douanes conserve les échantillons prélevés durant un an à compter de la communication adressée au déclarant, au possesseur ou au propriétaire conformément à l’art. 77, al. 1, LDA. Après expiration de ce délai, elle invite le déclarant, le possesseur ou le propriétaire à reprendre possession des échantillons ou à supporter les frais pour la poursuite de leur conservation. Si le déclarant, le possesseur ou le propriétaire ne donne pas suite à cette invitation ou s’il ne fait pas connaître sa décision dans les 30 jours, l’Administration des douanes détruit les échantillons.
+<sup>1</sup> L’OFDF conserve les échantillons prélevés durant un an à compter de la communication adressée au déclarant, au possesseur ou au propriétaire conformément à l’art. 77, al. 1, LDA. Après expiration de ce délai, il invite le déclarant, le possesseur ou le propriétaire à reprendre possession des échantillons ou à supporter les frais pour la poursuite de leur conservation. Si le déclarant, le possesseur ou le propriétaire ne donne pas suite à cette invitation ou s’il ne fait pas connaître sa décision dans les 30 jours, l’OFDF détruit les échantillons.
 
-<sup>2</sup> Au lieu de prélever des échantillons, l’Administration des douanes peut faire des photographies des produits détruits pour autant que cette mesure permette de garantir la conservation des moyens de preuve.
+<sup>2</sup> Au lieu de prélever des échantillons, l’OFDF peut faire des photographies des produits détruits pour autant que cette mesure permette de garantir la conservation des moyens de preuve.
 
 [^20c-1]: Introduit par le ch. 1 de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
 
 #### Art. 21
 
-**Emoluments**[^21-1]
+**Émoluments**[^21-1]
 
-Les émoluments perçus pour l’intervention de l’Administration des douanes sont fixés dans l’ordonnance du 4 avril 2007 sur les émoluments de l’Administration fédérale des douanes[^21-2].
+Les émoluments perçus pour l’intervention de l’OFDF sont fixés dans l’ordonnance du 4 avril 2007 sur les émoluments de l’ Office fédéral de la douane et de la sécurité des frontières[^21-2].
 
 [^21-1]: Nouvelle teneur selon le ch. 1 de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
 [^21-2]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
@@ -393,7 +397,7 @@ Les émoluments perçus pour l’intervention de l’Administration des douanes 
 
 [^21a21f-1]: Introduit par le ch. I de l’O du 25 oct. 1995 ([RO 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)). Abrogé par le ch. I de l’O du 21 mai 2008, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
-## Chapitre 5**** Dispositions finales
+## Chapitre 5 Dispositions finales
 
 [^chap5-1]
 

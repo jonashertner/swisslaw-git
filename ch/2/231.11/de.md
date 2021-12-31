@@ -4,11 +4,11 @@ title: "Verordnung vom 26. April 1993 über das Urheberrecht und verwandte Schut
 short: URV
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821"
 language: de
-version: 2018-01-01
+version: 2022-01-01
 adopted: 1993-04-26
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821/20180101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1821_1821_1821-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1821_1821_1821/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1821_1821_1821-20220101-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1821_1821_1821/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1821_1821_1821/20180101/de"
 
 (Urheberrechtsverordnung, URV)
 
-vom 26. April 1993 (Stand am 1. Januar 2018)
+vom 26. April 1993 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -192,15 +192,15 @@ Die beteiligten Parteien haben das Recht auf mündliche Anhörung.
 
 <sup>4</sup> Im Entscheid werden die Mitglieder der Spruchkammer sowie der juristische Sekretär oder die juristische Sekretärin mit Namen genannt; der juristische Sekretär oder die juristische Sekretärin unterzeichnet den Entscheid neben dem Präsidenten oder der Präsidentin.
 
-[^16-1]: Fassung gemäss Ziff. I der V vom 25. Okt. 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
+[^16-1]: Fassung gemäss bei Ziff. I der V vom 25. Okt. 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
 [^16-2]: Fassung gemäss Ziff. I der V vom 25. Okt. 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
 [^16-3]: Fassung gemäss Ziff. I der V vom 25. Okt. 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
 
-### 3. Abschnitt****: Gebühren
+### 3. Abschnitt: Gebühren
 
 [^chap1-sec3-1]
 
-[^chap1-sec3-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
+[^chap1-sec3-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348))
 
 #### Art. 16a
 
@@ -243,7 +243,7 @@ Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmung
 
 [^16d-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
-## 1*a.* Kapitel****: Beobachtungsstelle für technische Massnahmen
+## 1*a.* Kapitel: Beobachtungsstelle für technische Massnahmen
 
 [^chap1a-1]
 
@@ -309,13 +309,17 @@ Der nach Artikel 12 Absatz 2 URG zulässige Gebrauch eines Computerprogramms umf
 
 [^17a-1]: Eingefügt durch Anhang 2 Ziff. 3 der Behindertengleichstellungsverordnung vom 19. Nov. 2003 ([AS 2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)). Aufgehoben durch Ziff. I der V vom 21. Mai 2008, mit Wirkung seit 1. Juli 2008 ([AS 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
-## 3. Kapitel: Hilfeleistung der Zollverwaltung
+## 3. Kapitel: Hilfeleistung des Bundesamts für Zoll und Grenzsicherheit
+
+[^chap3-1]
+
+[^chap3-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 18
 
 **Bereich**[^18-1]
 
-Die Hilfeleistung der Zollverwaltung erstreckt sich auf das Verbringen von Waren, bei denen der Verdacht besteht, dass ihre Verbreitung gegen die in der Schweiz geltende Gesetzgebung über das Urheberrecht oder die verwandten Schutzrechte verstösst, ins oder aus dem Zollgebiet.
+Die Hilfeleistung des Bundesamts für Zoll und Grenzsicherheit (BAZG) erstreckt sich auf das Verbringen von Waren, bei denen der Verdacht besteht, dass ihre Verbreitung gegen die in der Schweiz geltende Gesetzgebung über das Urheberrecht oder die verwandten Schutzrechte verstösst, ins oder aus dem Zollgebiet.
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
 
@@ -351,7 +355,7 @@ Die Hilfeleistung der Zollverwaltung erstreckt sich auf das Verbringen von Waren
 
 **Proben oder Muster**[^20a-1]
 
-<sup>1</sup> Der Antragsteller oder die Antragstellerin kann die Übergabe oder Zusendung von Proben oder Mustern zur Prüfung oder die Besichtigung der Ware beantragen. Anstelle von Proben oder Mustern kann die Zollverwaltung dem Antragsteller oder der Antragstellerin auch Fotografien der zurückbehaltenen Ware übergeben, wenn diese eine Prüfung durch den Antragsteller oder die Antragstellerin ermöglichen.
+<sup>1</sup> Der Antragsteller oder die Antragstellerin kann die Übergabe oder Zusendung von Proben oder Mustern zur Prüfung oder die Besichtigung der Ware beantragen. Anstelle von Proben oder Mustern kann das BAZG dem Antragsteller oder der Antragstellerin auch Fotografien der zurückbehaltenen Ware übergeben, wenn diese eine Prüfung durch den Antragsteller oder die Antragstellerin ermöglichen.
 
 <sup>2</sup> Der Antrag kann zusammen mit dem Antrag auf Hilfeleistung bei der Oberzolldirektion oder während des Zurückbehaltens der Ware direkt bei der Zollstelle gestellt werden, welche die Ware zurückbehält.
 
@@ -361,9 +365,9 @@ Die Hilfeleistung der Zollverwaltung erstreckt sich auf das Verbringen von Waren
 
 **Wahrung von Fabrikations- und Geschäftsgeheimnissen**[^20b-1]
 
-<sup>1</sup> Die Zollverwaltung weist die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise den Anmelder, Besitzer oder Eigentümer der Ware auf die Möglichkeit hin, einen begründeten Antrag auf Verweigerung der Entnahme von Proben oder Mustern zu stellen. Sie setzt ihr oder ihm für die Stellung des Antrags eine angemessene Frist.
+<sup>1</sup> Das BAZG weist die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise den Anmelder, Besitzer oder Eigentümer der Ware auf die Möglichkeit hin, einen begründeten Antrag auf Verweigerung der Entnahme von Proben oder Mustern zu stellen. Es setzt ihr oder ihm für die Stellung des Antrags eine angemessene Frist.
 
-<sup>2</sup> Gestattet die Zollverwaltung dem Antragsteller oder der Antragstellerin die Besichtigung der zurückbehaltenen Ware, so nimmt sie bei der Festlegung des Zeitpunkts auf die Interessen des Antragstellers oder der Antragstellerin und der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers angemessen Rücksicht.
+<sup>2</sup> Gestattet das BAZG dem Antragsteller oder der Antragstellerin die Besichtigung der zurückbehaltenen Ware, so nimmt es bei der Festlegung des Zeitpunkts auf die Interessen des Antragstellers oder der Antragstellerin und der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers angemessen Rücksicht.
 
 [^20b-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
 
@@ -371,9 +375,9 @@ Die Hilfeleistung der Zollverwaltung erstreckt sich auf das Verbringen von Waren
 
 **Aufbewahrung von Beweismitteln bei Vernichtung der Ware**[^20c-1]
 
-<sup>1</sup> Die Zollverwaltung bewahrt die entnommenen Proben oder Muster während eines Jahres ab der Benachrichtigung der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers nach Artikel 77 Absatz 1 URG auf. Nach Ablauf dieser Frist fordert sie die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise den Anmelder, Besitzer oder Eigentümer auf, die Proben oder Muster in ihren beziehungsweise seinen Besitz zu nehmen oder die Kosten der weiteren Aufbewahrung zu tragen. Ist die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise der Anmelder, Besitzer oder Eigentümer dazu nicht bereit oder lässt sie beziehungsweise er sich innerhalb von 30 Tagen nicht vernehmen, so vernichtet die Zollverwaltung die Proben oder Muster.
+<sup>1</sup> Das BAZG bewahrt die entnommenen Proben oder Muster während eines Jahres ab der Benachrichtigung der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers nach Artikel 77 Absatz 1 URG auf. Nach Ablauf dieser Frist fordert es die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise den Anmelder, Besitzer oder Eigentümer auf, die Proben oder Muster in ihren beziehungsweise seinen Besitz zu nehmen oder die Kosten der weiteren Aufbewahrung zu tragen. Ist die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise der Anmelder, Besitzer oder Eigentümer dazu nicht bereit oder lässt sie beziehungsweise er sich innerhalb von 30 Tagen nicht vernehmen, so vernichtet das BAZG die Proben oder Muster.
 
-<sup>2</sup> Die Zollverwaltung kann anstelle der Entnahme von Proben oder Mustern Fotografien der vernichteten Ware erstellen, soweit damit der Zweck der Sicherung von Beweismitteln gewährleistet ist.
+<sup>2</sup> Das BAZG kann anstelle der Entnahme von Proben oder Mustern Fotografien der vernichteten Ware erstellen, soweit damit der Zweck der Sicherung von Beweismitteln gewährleistet ist.
 
 [^20c-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
 
@@ -381,7 +385,7 @@ Die Hilfeleistung der Zollverwaltung erstreckt sich auf das Verbringen von Waren
 
 **Gebühren**[^21-1]
 
-Die Gebühren für die Hilfeleistung der Zollverwaltung richten sich nach der Verordnung vom 4. April 2007[^21-2] über die Gebühren der Zollverwaltung.
+Die Gebühren für die Hilfeleistung des BAZG richten sich nach der Verordnung vom 4. April 2007[^21-2] über die Gebühren des Bundesamts für Zoll und Grenzsicherheit.
 
 [^21-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
 [^21-2]: [SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
@@ -394,7 +398,7 @@ Die Gebühren für die Hilfeleistung der Zollverwaltung richten sich nach der Ve
 
 [^21a21f-1]: Eingefügt durch Ziff. I der V vom 17. Mai 1995 (AS 1995 1778). Aufgehoben durch Ziff. I der V vom 21. Mai 2008, mit Wirkung seit 1. Juli 2008 ([AS 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
-## 5. Kapitel:**** Schlussbestimmungen
+## 5. Kapitel: Schlussbestimmungen
 
 [^chap5-1]
 
@@ -410,7 +414,7 @@ Es werden aufgehoben:
 - b. die Verordnung des EJPD vom 8. April 1982[^22-2] über die Erteilung von Bewilligungen zur Verwertung von Urheberrechten;
 - c. das Reglement vom 22. Mai 1958[^22-3] der Eidgenössischen Schiedskommission betreffend Verwertung von Urheberrechten.
 
-[^22-1]: [BS **2** 836; [AS 1956 1692](https://fedlex.data.admin.ch/eli/oc/1956/1692_1802_1813), [1978 1692](https://fedlex.data.admin.ch/eli/oc/1978/1692_1692_1692), [1982 523](https://fedlex.data.admin.ch/eli/oc/1982/523_523_523)]
+[^22-1]: [BS **2** 836; [AS 1956 1692](https://fedlex.data.admin.ch/eli/oc/1956/1692_1802_1813); [1978 1692](https://fedlex.data.admin.ch/eli/oc/1978/1692_1692_1692); [1982 523](https://fedlex.data.admin.ch/eli/oc/1982/523_523_523)]
 [^22-2]: [[AS 1982 525](https://fedlex.data.admin.ch/eli/oc/1982/525_525_525)]
 [^22-3]: [[AS 1958 273](https://fedlex.data.admin.ch/eli/oc/1958/273_285_279)]
 
