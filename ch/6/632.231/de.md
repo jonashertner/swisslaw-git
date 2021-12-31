@@ -3,18 +3,18 @@ sr: "632.231"
 title: Verordnung vom 3. Dezember 1984 über die Durchführung des GATT-Übereinkommens über den Handel mit Zivilluftfahrzeugen
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1447_1447_1447"
 language: de
-version: 2017-01-01
+version: 2022-01-01
 adopted: 1984-12-03
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1447_1447_1447/20170101/de/xml/fedlex-data-admin-ch-eli-cc-1984-1447_1447_1447-20170101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1447_1447_1447/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1447_1447_1447/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1984-1447_1447_1447-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1447_1447_1447/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Durchführung des GATT-Übereinkommens über den Handel mit Zivilluftfahrzeugen
 
-vom 3. Dezember 1984 (Stand am 1. Januar 2017)
+vom 3. Dezember 1984 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -91,9 +91,9 @@ Anhang*[^t-1]*
 <tr><td></td><td>– nichtelektrische Anlasser – nichtelektrische Propellerverstellvorrichtungen – nichtelektrische Servomechanismen – nichtelektrische Scheibenwischer – hydropneumatische Energiespeicher – pneumatische Anlasser für Strahltriebwerke, Turbopropellertriebwerke oder andere Gasturbinen – speziell für Luftfahrzeuge hergerichtete Toilettenblöcke – mechanische Schubumkehrvorrichtungen – Luftbefeuchter und -entfeuchter</td></tr>
 <tr><td>**8483****.** 1010/ 1020 3000/ 9020</td><td>**Transmissionswellen** (einschliesslich Nockenwellen und Kurbelwellen) **und Ku****r****beln; Lagergehäuse und Lagerschalen; Zahnradgetriebe und Friktions****räder; Kugelrollspindeln; Untersetzungs-, Übersetzungs- und Wechsel****getriebe,** einschliesslich Drehmomentwandler; **Schwungräder, Riemen- und Seilscheiben,** einschliesslich Rollenblöcke für Flaschenzüge**; Schaltkupplungen und andere Wellenkupplungen,** einschliesslich Gelenkverbindungen; **Teile davon**</td></tr>
 <tr><td>**8484****.** 1000/ 9000</td><td>**Metalloplastische** **Dichtungen; Sätze oder Zusammenstellungen von Dichtungen** verschiedenartiger Zusammensetzung in Beuteln, Umschlägen oder ähnlichen Umschliessungen</td></tr>
-<tr><td>**8501****.** 2010/ 3300 4010/ 5320</td><td>**Allstrom****-, Gleichstrom- und Wechselmotoren** mit einer Leistung von mehr als 735 W, jedoch nicht mehr als 150 kW</td></tr>
-<tr><td>3110/ 3420</td><td>**Gleichstromgeneratoren**</td></tr>
-<tr><td>6110/ 6300</td><td>**Wechselstromgeneratoren**</td></tr>
+<tr><td>8501. 2010/ 3300 4010/ 5320 7200</td><td>**Allstrom-, Gleichstrom- und Wechselmotoren,** mit einer Leistung von mehr als 735 W, jedoch nicht mehr als 150 kW</td></tr>
+<tr><td>3110/ 3420 7110/ 7200</td><td>Gleichstromgeneratoren</td></tr>
+<tr><td>6110/ 6300 8000</td><td>Wechselstromgeneratoren</td></tr>
 <tr><td>**8502****.** 1100/ 4040</td><td>**Stromerzeugungsaggregate** **und elektrisch rotierende Umformer**</td></tr>
 <tr><td>**8504****.** 1000 3100/ 3320</td><td>**Elektrische** **Transformatoren, elektrische statische Umformer** (z. B. Gleichrichter), **Reaktanz- und Drosselspulen**</td></tr>
 <tr><td>**8507****.** 1000/ 9000</td><td>**Elektrische** **Akkumulatoren,** einschliesslich Separatoren dafür, auch in quadratischer oder rechteckiger Form; **Teile davon**</td></tr>
@@ -104,8 +104,9 @@ Anhang*[^t-1]*
 <tr><td>**8539****.** 1091/ 1099</td><td>**Innenverspiegelte** **Scheinwerferlampen**</td></tr>
 <tr><td>**8544**. 3000</td><td>**Zündkabelsätze** **und andere Kabelsätze** der für Luftfahrzeuge verwendeten Art</td></tr>
 <tr><td>**8801****.** 0010/ 0090</td><td>**Ballone** **und Luftschiffe; Segelflugzeuge, Hängegleiter und andere Luf****t****fah****r****zeuge, nicht zum Motorantrieb gebaut**</td></tr>
-<tr><td>**8802.** 1100/ 4000</td><td>**Andere** **Luftfahrzeuge** (z. B. Hubschrauber, Flugzeuge)</td></tr>
-<tr><td>**8803****.** 1000/ 3000 9090</td><td>**Teile** **von** **Waren der Nrn. 8801 oder 8802**</td></tr>
+<tr><td>**8802.** 1100/ 4000</td><td>**Andere Luftfahrzeuge** (z. B. Hubschrauber, Flugzeuge), ausgenommen Luftfahrzeuge ohne Besatzung der Nr. 8806</td></tr>
+<tr><td>8806. 1000/ 9900</td><td>**Luftfahrzeuge ohne Besatzung**</td></tr>
+<tr><td>8807. 1000/ 3000 9090</td><td>**Teile von Waren der Nr. 8801, 8802 oder 8806**</td></tr>
 <tr><td>**9020****.** 0000</td><td>**Atmungsapparate** **und -geräte und Gasmasken,** ausgenommen Schutzmasken ohne mechanische Teile und ohne auswechselbares Filterelement; **ausg****e****nommen Teile davon**</td></tr>
 <tr><td>**9025****.** 1190/ 8000</td><td>**Thermometer****; Barometer; andere elektrische oder elektronische Instrumente; Teile und Zubehör davon**</td></tr>
 <tr><td>**9029****.** 1090 2090 9090</td><td>**Elektrische** **oder elektronische Tourenzähler, Tachometer und andere Geschwindigkeitsmesser; Teile und Zubehör davon**</td></tr>
@@ -113,8 +114,8 @@ Anhang*[^t-1]*
 <tr><td>**9032****.** 1000 8900/ 9090</td><td>**Instrumente****, Apparate und Geräte zum selbsttätigen Regeln oder Kontrollieren; Teile und Zubehör davon**</td></tr>
 <tr><td>**9104.** 0000</td><td>**Armaturenbrettuhren** **und ähnliche Uhren,** für Luftfahrzeuge</td></tr>
 <tr><td>**9109****.** 1000/ 9000</td><td>**Uhrwerke****,** mit einer Breite oder einem Durchmesser von nicht mehr als 50 mm, vollständig und zusammengesetzt</td></tr>
-<tr><td>**9405****.** 1000 6000 9200 9919 9990</td><td>Elektrische **Decken- oder Wandlampen, Reklameleuchten, Leuchtschilder** **o****der ähnliche Waren,** aus unedlen Metallen oder Kunststoffen; **Teile davon,** aus unedlen Metallen oder Kunststoffen</td></tr>
+<tr><td>9405. 1100/ 1900 6100/ 6900 9200 9919 9990</td><td>**Leuchter und andere** **elektrische Decken- oder Wandlampen, Reklameleuchten, Leuchtschilder oder ähnliche Waren,** aus unedlen Metallen oder Kunststoffen; **Teile davon,** aus unedlen Metallen oder Kunststoffen</td></tr>
 </table>
 
-[^t-1]: Fassung gemäss Anhang 4 Ziff. II 6 der V vom 28. Juni 2006 ([AS 2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)). Bereinigt gemäss Anhang 3 Ziff. 8 der V vom 22. Juni 2011 ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)) und Anhang 2 Ziff. 3 der V vom 29. Juni 2016 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2017 ([AS 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)).
+[^t-1]: Fassung gemäss Anhang 4 Ziff. II 6 der V vom 28. Juni 2006 ([AS 2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)). Bereinigt gemäss Anhang 3 Ziff. 8 der V vom 22. Juni 2011 ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), Anhang 2 Ziff. 3 der V vom 29. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)) und Anhang 3 Ziff. 8 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 [^t-2]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang

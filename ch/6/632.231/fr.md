@@ -3,18 +3,18 @@ sr: "632.231"
 title: "Ordonnance du 3 décembre 1984 concernant la mise en vigueur de l'accord du GATT relatif au commerce des aéronefs civils"
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1447_1447_1447"
 language: fr
-version: 2017-01-01
+version: 2022-01-01
 adopted: 1984-12-03
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1447_1447_1447/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-1984-1447_1447_1447-20170101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1447_1447_1447/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1447_1447_1447/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1984-1447_1447_1447-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1447_1447_1447/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant la mise en vigueur de l’accord du GATT relatif au commerce des aéronefs civils
 
-du 3 décembre 1984 (Etat le 1<sup>er</sup> janvier 2017)
+du 3 décembre 1984 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -76,19 +76,19 @@ Annexe*[^t-1]*
 <tr><td>8409. 1000</td><td>**Parties reconnaissables comme étant exclusivement ou principalement destinées aux moteurs d’aéronefs** des n<sup>os</sup> 8407.1000 et 8408.9010</td></tr>
 <tr><td>8411. 1100/2200 8191/9900</td><td>Turboréacteurs, turbopropulseurs et autres turbines à gaz; leurs parties</td></tr>
 <tr><td>8412. 1000/9090</td><td>Autres moteurs et machines motrices; leurs parties</td></tr>
-<tr><td>8413. 1900/3000 5010/8130 9110/9130</td><td>**Pompes pour liquides,** même comportant un dispositif mesureur; **leurs partie****s**</td></tr>
+<tr><td>8413. 1900/3000 5010/8130 9110/9130</td><td>**Pompes pour liquides,** même comportant un dispositif mesureur; **leurs parties**</td></tr>
 <tr><td>8414. 1090/3020 5100/5992 8010/9020</td><td>Pompes à air ou à vide, compresseurs d’air ou d’autres gaz et ventilateurs; leurs parties</td></tr>
 <tr><td>8415. 8110/9000</td><td>**Machines et appareils pour le conditionnement de l’air** comprenant un ventilateur à moteur et des dispositifs propres à modifier la température et l’humidité, y compris ceux dans lesquels le degré hygrométrique n’est pas réglable séparément; **leurs parties**</td></tr>
 <tr><td>8418. 1000 3000/4000 6910/6930</td><td>**Congélateurs-conservateurs et autres matériel, machines et appareils pour la production du froid,** à équipement électrique ou autre</td></tr>
 <tr><td>8419. 5010/5094 8100 9081/9089</td><td>Echangeurs de chaleur et leurs parties; appareils pour la préparation de boissons chaudes ou pour la cuisson ou le chauffage des aliments</td></tr>
 <tr><td>8421. 1941/2130 2300/3933</td><td>Centrifugeuses et appareils pour la filtration et l’épuration des liquides ou des gaz</td></tr>
 <tr><td>8424. 1000</td><td>**Extincteurs,** même chargés</td></tr>
-<tr><td>8479. 8991/8992 9091/9092</td><td>**Machines et appareils mécaniques ayant une fonction propre,** non dénommés ni compris ailleurs dans le présent chapitre, **ainsi que leurs parties, à s****a****voir:** – démarreurs non électriques – régulateurs d’hélices non électriques – servo-mécanismes non électriques – essuie-glaces non électriques – accumulateurs hydropneumatiques – démarreurs pneumatiques pour moteurs à réaction, turbopropulseurs ou autres turbines à gaz – blocs toilettes spécialement conçus pour les aéronefs – actionneurs mécaniques pour inverseurs de poussée – humidificateurs et déshumidificateurs d’air</td></tr>
-<tr><td>8483. 1010/1020 3000/9020</td><td>**Arbres de transmission** (y compris les arbres à cames et les vilebrequins) **et manivelles; paliers et coussinets; engrenages et roues de friction; broches filetées à billes (« vis à billes »); réducteurs, multiplicateurs et variateurs de v****i****tesse,** y compris les convertisseurs de couple; **volants et poulies,** y compris les poulies à moufles; **embrayages et organes d’accouplement,** y compris les joints d’articulation; **leurs parties**</td></tr>
+<tr><td>8479. 8991/8992 9091/9092</td><td>**Machines et appareils mécaniques ayant une fonction propre,** non dénommés ni compris ailleurs dans le présent chapitre, **ainsi que leurs parties, à savoir:** – démarreurs non électriques – régulateurs d’hélices non électriques – servo-mécanismes non électriques – essuie-glaces non électriques – accumulateurs hydropneumatiques – démarreurs pneumatiques pour moteurs à réaction, turbopropulseurs ou autres turbines à gaz – blocs toilettes spécialement conçus pour les aéronefs – actionneurs mécaniques pour inverseurs de poussée – humidificateurs et déshumidificateurs d’air</td></tr>
+<tr><td>8483. 1010/1020 3000/9020</td><td>**Arbres de transmission** (y compris les arbres à cames et les vilebrequins) **et manivelles; paliers et coussinets; engrenages et roues de friction; broches filetées à billes (« vis à billes »); réducteurs, multiplicateurs et variateurs de vitesse,** y compris les convertisseurs de couple; **volants et poulies,** y compris les poulies à moufles; **embrayages et organes d’accouplement,** y compris les joints d’articulation; **leurs parties**</td></tr>
 <tr><td>8484. 1000/9000</td><td>**Joints métalloplastiques; jeux ou assortiments de joints de composition** différente présentés en pochettes, enveloppes ou emballages analogues</td></tr>
-<tr><td>8501. 2010/3300 4010/5320</td><td>**Moteurs universels, moteurs à courant continu et moteurs à courant alternatif,** d’une puissance supérieure à 735 W mais n’excédant pas 150 kW</td></tr>
-<tr><td>3110/3420</td><td>Machines génératrices à courant continu</td></tr>
-<tr><td>6110/6300</td><td>Machines génératrices à courant alternatif</td></tr>
+<tr><td>8501. 2010/3300 4010/5320 7200</td><td>**Moteurs universels, moteurs à courant continu et moteurs à courant alternatif,** d’une puissance supérieure à 735 W mais n’excédant pas 150 kW</td></tr>
+<tr><td>3110/3420 7110/7200</td><td>Machines génératrices à courant continu</td></tr>
+<tr><td>6110/6300 8000</td><td>Machines génératrices à courant alternatif</td></tr>
 <tr><td>8502. 1100/4040</td><td>Groupes électrogènes et convertisseurs rotatifs électriques</td></tr>
 <tr><td>8504. 1000 3100/3320</td><td>**Transformateurs électriques, convertisseurs électriques statiques** (par ex. redresseurs), **bobines de réactance et selfs**</td></tr>
 <tr><td>8507. 1000/9000</td><td>**Accumulateurs électriques,** y compris leurs séparateurs, même de forme carrée ou rectangulaire; **leurs parties**</td></tr>
@@ -99,8 +99,9 @@ Annexe*[^t-1]*
 <tr><td>8539. 1091/1099</td><td>Articles dits «phares et projecteurs scellés»</td></tr>
 <tr><td>8544. 3000</td><td>**Jeux de fils pour bougies d’allumage et autres jeux de fils** des types utilisés dans les aéronefs</td></tr>
 <tr><td>8801. 0010/0090</td><td>Ballons et dirigeables; planeurs, ailes delta et autres véhicules aériens non conçus pour la propulsion à moteur</td></tr>
-<tr><td>8802. 1100/4000</td><td>**Autres véhicules aériens** (par ex. hélicoptères, avions)</td></tr>
-<tr><td>8803. 1000/3000 9090</td><td>Parties des appareils des n<sup>os</sup> 8801 ou 8802</td></tr>
+<tr><td>8802. 1100/4000</td><td>**Autres véhicules aériens** (hélicoptères, avions, par exemple), à l’exception des véhicules aériens sans pilote du n<sup>o</sup> 8806</td></tr>
+<tr><td>8806. 1000/9900</td><td>**Véhicules aériens sans pilote**</td></tr>
+<tr><td>8807. 1000/3000 9090</td><td>**Parties des appareils des n****<sup>os</sup>** **8801, 8802 ou 8806**</td></tr>
 <tr><td>9020. 0000</td><td>**Appareils respiratoires et masques à gaz,** à l’exclusion des masques de protection dépourvus de mécanisme et d’élément filtrant amovible; **à l’exclusion de leurs parties**</td></tr>
 <tr><td>9025. 1190 8000</td><td>Thermomètres; baromètres; autres instruments électriques ou électroniques; leurs parties et accessoires</td></tr>
 <tr><td>9029. 1090 2090 9090</td><td>Compteurs de tours électriques ou électroniques, tachymètres et autres indicateurs de vitesse; leurs parties et accessoires</td></tr>
@@ -108,8 +109,8 @@ Annexe*[^t-1]*
 <tr><td>9032. 1000 8900/9090</td><td>Instruments et appareils pour la régulation ou le contrôle automatiques; leurs parties et accessoires</td></tr>
 <tr><td>9104. 0000</td><td>**Montres de tableaux de bord et montres similaires,** pour aérodynes</td></tr>
 <tr><td>9109. 1000/9000</td><td>**Mouvements d’horlogerie** nemesurant pas plus de 50 mm de largeur ou de diamètre, complets ou assemblés</td></tr>
-<tr><td>9405. 1000 6000 9200 9919 9990</td><td>**Appareils d’éclairage électriques à suspendre ou à fixer au plafond ou au mur, lampes-réclames, enseignes lumineuses, plaques indicatrices lumineuses et articles similaires,** en métaux communs ou en matières plastiques; **leurs parties,** en métaux communs ou en matières plastiques</td></tr>
+<tr><td>9405. 1100/1900 6100/6900 9200 9919 9990</td><td>**Lustres et autres luminaires électriques à suspendre ou à fixer au plafond ou au mur, lampes-réclames, enseignes lumineuses, plaques indicatrices** **lumineuses** **et articles similaires,** en métaux communs ou en matières plastiques; **leurs** **parties,** en métaux communs ou en matières plastiques</td></tr>
 </table>
 
-[^t-1]: Nouvelle teneur selon le ch. II 6 de l’annexe 4 à l’O du 28 juin 2006 ([RO 2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)). Mise à jour selon le ch. 8 de l’annexe 3 à l’O du 22 juin 2011 modifiant le tarif des douanes ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)) et le ch. 3 de l’annexe 2 à l’O du 29 juin 2016 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)).
+[^t-1]: Nouvelle teneur selon l’annexe 4 ch. II 6 de l’O du 28 juin 2006 ([RO 2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)). Mise à jour selon l’annexe 3 ch. 8 de l’O du 22 juin 2011 modifiant le tarif des douanes ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), l’annexe 2 ch. 3 de l’O du 29 juin 2016 modifiant le tarif des douanes ([RO 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)) et selon l’annexe 3 ch. 8 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 [^t-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe
