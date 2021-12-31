@@ -4,7 +4,7 @@ number: "916.38.1"
 title: RÈGLEMENT du 27.04.2005 fixant le tarif des indemnités dues aux inspecteurs des ruchers (Ri-IR)
 short: Ri-IR
 language: fr
-version: 2005-05-01
+version: 2022-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/916.38.1?id=5e2dcd87-7f7e-4a72-8f72-123233dd2483"
 ---
 
@@ -33,15 +33,19 @@ arrête
 
 <sup>1</sup> Les inspecteurs des ruchers reçoivent les indemnités ci-après (frais de repas compris) :
 
-- a. Par journée de 8 heures :
-- 1\. inspecteur cantonal : fr. 225.-
-- 2\. inspecteur régional : Fr. 187.50
-- b. Par demi-journée de 4 heures :
-- 1\. inspecteur cantonal : Fr. 120.-
-- 2\. inspecteur régional : Fr. 105.-
-- c. Par heure si la durée du travail est inférieure à 4 heures ou par heure supplémentaire si elle est supérieure à 8 heures ou supérieure à la durée de la demi-journée mais inférieure à celle de la journée entière :
-- 1\. inspecteur cantonal : Fr. 37.50
-- 2\. inspecteur régional : Fr. 30.-
+Par journée de 8 heures :
+
+a) inspecteur cantonal ou inspecteur cantonal suppléant Fr. 263.- b) inspecteur régional Fr. 234.-
+
+Par demi-journée de 4 heures :
+
+a) inspecteur cantonal ou inspecteur cantonal suppléant Fr. 140.- b) inspecteur régional Fr. 131.-
+
+Par heure si la durée du travail est inférieure à 4 heures ou par heure supplémentaire si elle est supérieure à 8 heures ou supérieure à la durée de la demi-journée mais inférieure à celle de la journée entière :
+
+a) inspecteur cantonal ou inspecteur cantonal suppléant Fr. 45.- b) inspecteur régional Fr. 40.-
+
+- 
 
 [^t-1]: Modif. 1 du 06.10.2021: Modification Al. 1; entrée en vigueur au 01.01.2022
 
@@ -49,7 +53,7 @@ arrête
 
 **[^1-1]**
 
-<sup>1</sup> L'inspecteur cantonal et les inspecteurs régionaux reçoivent en outre, pour leurs déplacements, une indemnité de transport de 64 centimes par kilomètre, dès leur domicile.
+<sup>1</sup> Les inspecteurs des ruchers reçoivent en outre, pour leurs déplacements, une indemnité de transport de 70 centimes par kilomètre, dès leur domicile.
 
 <sup>2</sup> Lorsque plusieurs vacations ont lieu dans la même journée, l'indemnité de transport est calculée sur la base du circuit le plus court.
 
@@ -59,7 +63,7 @@ arrête
 
 **[^2-1]**
 
-<sup>1</sup> Pour la formation de base et les cours de perfectionnement, seule l'indemnité de transport est payée.
+<sup>1</sup> Les frais de formation, y compris les frais de transport et de déplacement sont à la charge du service vétérinaire.
 
 [^2-1]: Modif. 1 du 06.10.2021: Modification Al. 1; entrée en vigueur au 01.01.2022
 
@@ -67,7 +71,7 @@ arrête
 
 **[^3-1]**
 
-<sup>1</sup> Au 30 juin et au 30 septembre, les inspecteurs régionaux remettent leurs notes de vacations à l'inspecteur cantonal qui, après contrôle et visa, les transmet accompagnées de ses propres vacations au Service vétérinaire pour paiement.
+<sup>1</sup> Au 30 juin et au 30 septembre, les inspecteurs des ruchers remettent leurs notes de vacation au service vétérinaire pour paiement.
 
 [^3-1]: Modif. 1 du 06.10.2021: Modification Al. 1; entrée en vigueur au 01.01.2022
 
